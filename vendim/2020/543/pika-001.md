@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 18 263 702 (tetëmbëdhjetë milionë e dyqind e gjashtëdhjetë e tre mijë e shtatëqind e dy) lekë, për blerjen e 5 (pesë) apartamenteve, që do t’iu dhurohen familjeve të viktimave si pasojë e tërmetit të datës 26.11.2019, nga Bashkia Kamzë.
