@@ -1,0 +1,1 @@
+11. I huaji, të cilit i refuzohet ose i anulohet leja e punës e tipit “A/TN”, ka të drejtën e ankimimit, sipas procedurës së përcaktuar në pikën 2, të nenit 81, të ligjit nr. 108/2013, “Për të huajt”, të ndryshuar.

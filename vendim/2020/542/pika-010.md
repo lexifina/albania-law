@@ -1,0 +1,1 @@
+10. Të huajit i refuzohet lëshimi i lejes së punës të tipit “A/TN”, kur dokumentacioni nuk është i plotë edhe pas përfundimit të afatit të përcaktuar në pikën 7, të këtij vendimi, dhe/ose nëse vërtetohet njëra nga situatat e përcaktuara në nenin 77, të ligjit nr. 108/2013, “Për të huajt”, të ndryshuar.

@@ -1,0 +1,1 @@
+15. Vendimi nr. 85, datë 12.2.2014, i Këshillit të Ministrave, “Për përcaktimin e kritereve, të dokumentacionit dhe të procedurës për pajisjen, refuzimin dhe anulimin e lejes së punës të tipit ’A/TN’”, shfuqizohet.

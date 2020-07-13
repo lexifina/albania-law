@@ -1,0 +1,1 @@
+6. Agjencia Kombëtare e Punësimit dhe Aftësive/zyra përkatëse e punësimit, kur vlerëson se dokumentacioni është i plotë, pajis të huajin, me leje pune të tipit “A/TN”, brenda afateve të përcaktuara në ligjin nr. 108/2013, “Për të huajt”, të ndryshuar, sipas formatit të dhënë në aneksin 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

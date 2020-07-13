@@ -1,0 +1,1 @@
+4. Personat e përcaktuar në pikën 2, të këtij vendimi, aplikojnë on-line përmes shërbimit elektronik në portalin qeveritar e-Albania, duke paraqitur kërkesën dhe dokumentacionin e përcaktuar në pikën 3, të këtij vendimi.

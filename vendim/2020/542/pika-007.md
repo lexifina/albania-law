@@ -1,0 +1,1 @@
+7. Agjencia Kombëtare e Punësimit dhe Aftësive/zyra përkatëse e punësimit, brenda 5 (pesë) ditëve nga dita e aplikimit, shqyrton dokumentacionin e paraqitur dhe nëse vlerëson se ai nuk është në përputhje me kërkesat e pikës 3, të këtij vendimi, i kërkon të huajit plotësimin e tij, brenda 10 (dhjetë) ditëve pune.
