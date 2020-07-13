@@ -1,0 +1,1 @@
+6. Punonjësit me kontratë në funksionin “Operator EDMRS” paguhen në përputhje me kategorinë e pagës së funksionit “Operator” në vendimin nr. 717, datë 23.6.2009, të Këshillit të Ministrave, “Për pagat e punonjësve mbështetës të institucioneve buxhetore dhe të nëpunësve të disa institucioneve buxhetore”, të ndryshuar.
