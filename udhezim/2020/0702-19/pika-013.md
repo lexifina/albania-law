@@ -1,0 +1,1 @@
+13. Shpenzimet e përfaqësuesve të MASR-së në monitorimin e provimeve të Maturës Shtetërore 2020 dhe të Maturës Shtetërore Profesionale 2020, sesioni i dytë, të përballohen nga institucionet përkatëse, sipas dispozitave në fuqi.

@@ -1,0 +1,1 @@
+8. Drejtori i institucionit arsimor parauniversitar të dërgojë zyrtarisht në ZVAP, listën e kandidatëve që do të marrin pjesë në provimet e detyruara dhe me zgjedhje të Maturës Shtetërore 2020 dhe në provimet e detyruara të Maturës Shtetërore Profesionale 2020, sesioni i dytë, deri në datën 21 gusht 2020. Drejtori i ZVAP-së, ta dërgojë këtë listë në QSHA, në datën 21 gusht 2020.

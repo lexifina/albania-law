@@ -1,0 +1,1 @@
+6. Kandidatët e përcaktuar në pikën 5, shkronja “c” dhe “d”, të këtij udhëzimi të regjistrohen në shkollën ku kanë përfunduar arsimin e mesëm ose në shkollën që u cakton drejtoria rajonale e arsimit parauniversitar/zyra vendore e arsimit parauniversitar (këtu e në vijim “DRAP/ZVAP”) në vendbanimet e tyre.
