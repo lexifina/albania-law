@@ -1,0 +1,1 @@
+2. Ngarkohet Ministria e Kulturës, Këshilli Kombëtar i Trashëgimisë Kulturore Materiale dhe të gjitha organet dhe institucionet e specializuara të trashëgimisë kulturore për zbatimin e kësaj rregulloreje.
