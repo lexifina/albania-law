@@ -1,6 +1,6 @@
-4. Shoqëritë ajrore, të cilat kanë përgjegjësinë që të arkëtojnë nëpërmjet shitjes së biletës tarifën e kalimit me avion të kufirit të Republikës së Shqipërisë dhe të transferojnë shumat e arkëtuara te TIA, ngarkohen me detyrat e mëposhtme:
+4. “Shoqëritë ajrore, të cilat kanë përgjegjësinë që të arkëtojnë prej pasagjerëve nëpërmjet shitjes së biletës tarifën e kalimit me avion të kufirit të Republikës së Shqipërisë dhe të transferojnë shumat e arkëtuara në llogarinë bankare të hapur për këtë qëllim nga TIA-ja, ngarkohen me detyrat e mëposhtme:
 a) Pas kryerjes nga TIA, në përputhje me germën “a”, të pikës 3, të këtij udhëzimi, të regjistrimit në sistemin e IATA-s të tarifës, çdo shoqëri ajrore në momentin e shitjes së biletave, duhet t’i shtojë këtë tarifë vlerës së biletës, si dhe ta pasqyrojë në të vlerën e tarifës të kalimit me avion të kufirit të Republikës së Shqipërisë.
-b) Të arkëtojnë tarifën e paguar nga udhëtarët, nëpërmjet shitjes së biletave.
-c) Të rakordojnë me TIA-n për tarifën e arkëtuar dhe të transferojnë për llogari të TIA-s shumat e arkëtuara, në përputhje me afatet e përcaktuara në këtë udhëzim.
+b) Të arkëtojnë tarifën e paguar nga udhëtarët, nëpërmjet shitjes së biletave ,si pjesë e çmimit të biletës.
+c) ) Të rakordojnë me TIA-në për tarifën e faturuar për muajin paraardhës, brenda datës 5 të muajit pasardhës dhe të transferojnë për llogari të TIA-së shumat e faturuara, brenda datës 10 të muajit.
 d) Të mbajnë dokumentacionin përkatës për numrin e biletave të shitura, numrin e biletave të anuluara dhe shumat e kthyera paguesve të tarifës.
 Degët, apo zyrat e përfaqësimit në Shqipëri të shoqërive ajrore të huaja, janë përgjegjëse për përmbushjen e detyrave të përcaktuara me këtë udhëzim në përputhje me tagrin e dhënë në përfaqësim.

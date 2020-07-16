@@ -1,1 +1,1 @@
-6. Për shërbimin e kryer, TIA mban 5% komision të llogaritur mbi masën e tarifave që ka arkëtuar dhe transferon në llogarinë e drejtorisë rajonale tatimore ku është e regjistruar 95% të shumës së arkëtuar.
+6. Për shërbimin e kryer, TIA mban 5% komision të llogaritur mbi masën e tarifave që ka faturuar dhe transferon në llogarinë e drejtorisë rajonale tatimore ku është e regjistruar 95% të shumës së faturuar.
