@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 17, datë 22.4.2020, i Këshillit të Ministrave, “Për përjashtimin e zbatimit të procedurave dhe të afateve për përgatitjen e projektdokumentit të programit buxhetor afatmesëm për vitin 2020”.
