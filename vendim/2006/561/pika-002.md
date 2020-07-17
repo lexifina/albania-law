@@ -1,1 +1,0 @@
-2. Shtesa për kushte të veçanta pune dhe shërbimi për punonjësit, oficerë dhe nënoficerë, të Gardës së Republikës së Shqipërisë, të jetë sipas lidhjes nr.2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
