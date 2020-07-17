@@ -1,1 +1,0 @@
-3. Ministria, brenda muajit mars, planifikon në buxhetin e shtetit fondet për vitin pasardhës për grantet e menjëhershme, bazuar në kërkesat vjetore të bashkive, sa herë që zbatohen programe të banesave me kosto të ulët.
