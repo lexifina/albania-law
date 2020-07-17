@@ -1,1 +1,0 @@
-4. Autoriteti Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike monitoron zbatimin e masave të sigurisë nga operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit nëpërmjet procedurave të kontrollit.
