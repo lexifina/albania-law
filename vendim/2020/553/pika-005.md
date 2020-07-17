@@ -1,0 +1,1 @@
+5. Vendimi nr. 222, datë 26.4.2018, i Këshillit të Ministrave, “Për miratimin e listës së infrastrukturave kritike të informacionit dhe listës së infrastrukturave të rëndësishme të informacionit”, shfuqizohet.
