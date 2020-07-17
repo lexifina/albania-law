@@ -1,1 +1,1 @@
-1. Shkëputjen e Qendrës Kombëtare “Për mirërritjen, zhvillimin dhe rehabilitimin e fëmijëve”, nga Drejtoria e Shëndetit Publik, Tiranë, qytet dhe përcaktimin e saj si njësi buxhetore kombëtare të veçantë, në varësi të Ministrisë së Shëndetësisë.
+1. Shkëputjen e Qendrës Kombëtare Terapeutike dhe Rehabilituese për Fëmijët nga Drejtoria e Shëndetit Publik, Tiranë, qytet dhe përcaktimin e saj si njësi buxhetore kombëtare të veçantë, në varësi të Ministrisë së Shëndetësisë.
