@@ -21,6 +21,7 @@ c) të pranojë plotësisht ankimin.
 8. Urdhri i ministrit për pranimin ose mospranimin e ankimit mund të kundërshtohet në gjykatën kompetente për shqyrtimin e mosmarrëveshjeve administrative. Ankimi nuk pezullon vazhdimin e procedurës.
 9. Nëse ministri përgjegjës për trashëgiminë kulturore nuk shprehet me vendim brenda afatit të përcaktuar në pikën 6, të këtij kreu, afati për t’iu drejtuar gjykatës fillon nga e nesërmja e përfundimit të afatit për marrjen e vendimit nga ministri.
 10. Në rastin kur përzgjedhja e subjekteve për kryerjen e investimeve me fonde publike kryhet nga ministria përgjegjëse për trashëgiminë kulturore, procedurat e ankimit zhvillohen sipas parashikimeve të pikave 1, 2 3, 4, 8 dhe 9, të këtij kreu.
+11. Në rastin e zhvillimit të procedurave të konkurrimit nga organet e vetëqeverisjes vendore, vendimi i marrë nga titullari i institucionit/autoritetit kontraktor, sipas pikës 3 të këtij kreu, është përfundimtar nga ana administrative.
 IV. KONTRATA PËR KRYERJEN E SHËRBIMEVE/PUNIMEVE PËR NDËRHYRJET E DETYRUARA RUAJTËSE
 1. Kontrata për realizimin e shërbimeve/punimeve për ndërhyrjet e detyruara ruajtëse lidhet brenda 5 (pesë) ditëve nga publikimi i njoftimit të fituesit, pasi është paraqitur edhe sigurimi i kontratës, në masën 10% të vlerës së ofertës fituese.
 2. Kontrata përmban të dhëna, për:
