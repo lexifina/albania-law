@@ -1,1 +1,2 @@
 23. Njësia e vlerësimit shqyrton dokumentacionin e paraqitur nga ofertuesit, brenda 15 (pesëmbëdhjetë) ditëve nga dita e hapjes së ofertave. Procesi i vlerësimit dokumentohet në një procesverbal dhe nënshkruhet nga anëtarët. Pas përfundimit të shqyrtimit, titullari i institucionit që zhvillon procedurën, njofton në formë shkresore dhe me postë elektronike ofertuesit pjesëmarrës për renditjen dhe vlerësimin e secilit prej tyre.
+23/1. Procedurat përzgjedhëse të subjekteve të pajisura me licencë për projektim janë procedura konkurrimi me faza.
