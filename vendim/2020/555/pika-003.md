@@ -1,0 +1,3 @@
+3. Me miratimin e ligjit për buxhetin e shtetit të vitit pasardhës, njësia e vetëqeverisjes vendore i paraqet ministrisë përgjegjëse për strehimin kërkesat për çeljen e fondeve të planifikuara në vitin korrent, shoqëruar me kostot financiare për familje sipas formularit të shtojcës “A”, bashkëlidhur këtij vendimi, pasi ka verifikuar:
+a) të dhënat e kontratës me subjektin, me të cilin individi/familja ka lidhur kontratën e kreditimit ose kontratën e shitblerjes së banesës me kosto të ulët;
+b) faktin nëse individi/familja ka përfituar më parë nga programe për dhënie granti apo nga zbritje të vlerës së banesës, për shkak të statusit të familjes ose të ndonjë prej anëtarëve të saj.

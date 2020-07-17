@@ -1,0 +1,1 @@
+1. Njësitë e vetëqeverisjes vendore, brenda 30 janarit të çdo viti, paraqesin kërkesat për grante të menjëhershme për banesat me kosto të ulët, pranë ministrisë përgjegjëse për strehimin për t’u planifikuar në buxhetin e vitit pasardhës.

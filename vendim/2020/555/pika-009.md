@@ -1,0 +1,1 @@
+9. Dokumentet sipas pikës 8, të këtij vendimi, si edhe çdo akt apo dokument që vërteton njërën prej situatave të parashikuara në pikën 5 të këtij vendimi, dorëzohen vetëm atëherë kur ato apo njëra prej tyre nuk janë dorëzuar gjatë aplikimit dhe përfitimit të banesës me kosto të ulët.

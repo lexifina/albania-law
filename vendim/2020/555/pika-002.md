@@ -1,0 +1,1 @@
+2. Ministria përgjegjëse për strehimin brenda muajit mars planifikon nevojat për fonde për grante të menjëhershme për vitin pasardhës të buxhetit të shtetit, bazuar në kërkesat vjetore të njësive të vetëqeverisjes vendore.

@@ -1,0 +1,1 @@
+10. Familjet/individët sipas kategorive të përcaktuara në nenin 46, të ligjit nr. 22/2018, “Për strehimin social”, si rregull paraqesin kërkesën për përfitimin e grantit të menjëhershëm pranë njësive të vetëqeverisjes vendore së bashku me kërkesën për t’u trajtuar me banesë me kosto të ulët.

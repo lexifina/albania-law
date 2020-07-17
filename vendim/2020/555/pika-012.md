@@ -1,0 +1,1 @@
+12. Lista e përfituesve, e cila hartohet nga zyra përkatëse në njësinë e vetëqeverisjes vendore, sipas dokumentacionit përkatës, vlerësohet nga struktura përgjegjëse për strehimin dhe miratohet nga këshilli i njësisë së vetëqeverisjes vendore.

@@ -1,0 +1,1 @@
+13. Vendimi nr. 527, datë 6.8.2014, i Këshillit të Ministrave, “Për miratimin e procedurave, kritereve dhe përparësive për përfitimin e grantit të menjëhershëm për banesat me kosto të ulët”, shfuqizohet.

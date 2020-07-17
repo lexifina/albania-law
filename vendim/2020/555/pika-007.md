@@ -1,0 +1,1 @@
+7. Përparësitë, sipas pikës 5, të këtij vendimi, shërbejnë për përshpejtimin e afatit kohor të livrimit të grantit dhe nuk përjashtojnë përfitimin nga granti i menjëhershëm i kategorive të familjeve/individëve, të parashikuara në nenin 46, të ligjit nr. 22/2018, “Për strehimin social”, që nuk kanë një nga karakteristikat e pikës 5, të këtij vendimi.

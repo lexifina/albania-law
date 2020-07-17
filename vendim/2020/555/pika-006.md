@@ -1,0 +1,4 @@
+6. Në rastet e parashikuara në shkronjën “e”, të pikës 5, të këtij vendimi, njësia e vetëqeverisjes vendore mbështet familjen/individin, që ka rënë në vështirësi financiare, duke siguruar financimin e grantit të menjëhershëm në një kohë sa më të shpejtë dhe gjithmonë jo më vonë se 30 ditë nga paraqitja e kërkesës për grantin e menjëhershëm. Për marrjen e këtij vendimi, njësia e vetëqeverisjes vendore bazohet në:
+a) vërtetimin për gjendjen financiare të krijuar për familjen/individin dhe shkaqet që kanë sjellë vështirësinë financiare të krijuar;
+b) informacionin e nevojshëm të marrë nga institucioni që ka kredituar familjen/individin për pamundësinë e shlyerjes së kredisë, për shkak të gjendjes së vështirë financiare;
+c) vërtetimin nga institucioni që ka kredituar familjen/individin se shuma e grantit është e mjaftueshme për të lehtësuar pagesat e kredisë.
