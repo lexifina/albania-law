@@ -1,0 +1,1 @@
+1. Miratimin e Strategjisë së Shërbimit për Çështjet e Brendshme dhe Ankesat, 2020-2024, dhe të planit të veprimit, për periudhën 2020-2022, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
