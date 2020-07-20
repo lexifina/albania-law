@@ -1,0 +1,1 @@
+17. Në rastin e miratimit, rinovimit, lejes/autorizimit ose ndryshimit me kërkesë të titullarit, kërkuesi, brenda 30 (tridhjetë) ditëve kalendarike nga marrja e njoftimit, duhet të ngarkojë aktet që provojnë pagimin e tarifës së shpenzimeve administrative për dhënien e lejes/autorizimit.

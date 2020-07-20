@@ -1,0 +1,1 @@
+34. Kërkesat për leje/autorizim të dorëzuara në formë shkresore, gjatë periudhës nga data e hyrjes në fuqi e këtij vendimi deri në datën 31 dhjetor 2020, shqyrtohen sipas procedurës së parashikuar në kreun III.

@@ -1,0 +1,1 @@
+36. Agjencia e Menaxhimit të Burimeve Ujore në bashkëpunim me Agjencinë Kombëtare të Shoqërisë së Informacionit marrin të gjitha masat që, brenda datës 1 tetor 2020, të trajnojnë nëpunësit e caktuar si përdorues të sistemit elektronik “Aplikim për përdorim burimi ujor”.

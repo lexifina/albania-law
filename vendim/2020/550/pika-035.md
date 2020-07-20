@@ -1,0 +1,1 @@
+35. Vendimi nr. 416, datë 13.5.2015, i Këshillit të Ministrave, “Për miratimin e kushteve të përgjithshme e të posaçme, dokumenteve shoqëruese, afatit të vlefshmërisë, formularëve të aplikimit për autorizim dhe leje, procedurave të shqyrtimit e vendimmarrjes dhe formateve të autorizimit e lejes për përdorim të burimeve ujore”, shfuqizohet.

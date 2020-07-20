@@ -1,0 +1,2 @@
+13. Në përfundim të shqyrtimit të kërkesës dhe bashkërendimit të saj sipas pikave 8, 9, 10,11 e 12, të këtij kreu, AMBU-ja përgatit raportin e vlerësimit teknik e ligjor dhe e përcjell për vendimmarrje në Këshillin Kombëtar të Ujit ose në Këshillin e Basenit Ujor, sipas kompetencave të përcaktuara në ligj për miratimin e veprimtarisë përkatëse. Në këtë rast, AMBU-ja njofton subjektin nëpërmjet sistemit elektronik për përfundimin e procedurës së shqyrtimit të kërkesës dhe për përcjelljen e saj pranë organit kompetent.
+IV. VENDIMMARRJA DHE HYRJA NË FUQI E VENDIMIT
