@@ -1,0 +1,1 @@
+1. Miratimin e udhëzuesit të Institutit të Shëndetit Publik, “Mbi përdorimin e barrierave mbrojtëse/maskave në ambiente te mbyllura publike dhe tregtare”, sipas tekstit që i bashkëlidhet këtij urdhri.
