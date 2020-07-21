@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Fier, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit nga “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen ndërtimore sipas lidhjes nr. 1, të pasurisë me numër 195/9, zona kadastrale 2326, fshati Kuman, Njësia Administrative Kuman, Bashkia Roskovec.

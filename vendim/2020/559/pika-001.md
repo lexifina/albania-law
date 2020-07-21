@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen prej 620 m2, pjesë e pasurisë me numër 195/9, zona kadastrale 2326, Bashkia Roskovec, sipas certifikatës së pasurisë, hartës treguese dhe lidhjes nr. 1, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
