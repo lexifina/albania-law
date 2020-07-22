@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 23, datë 03.06.2020 “Për një shtesë në ligjin nr.8668, datë 23.10.2000, të Këshillit të Ministrave, “Për pajisjen e shtetasve shqiptarë me pasaportë për jashtë shtetit”, të ndryshuar”.
