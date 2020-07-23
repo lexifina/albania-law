@@ -1,0 +1,26 @@
+{
+  "qbz_id": 21900,
+  "title": "Mbi rishikimin e vendimit të bordit të ERE-s nr. 27, datë 30.01.2018 “Mbi licencimin e shoqërisë “Hec LLëngë” sh.p.k. në aktivitetin e prodhimit të energjisë elektrike nga Hec “LLënga 1” me fuqi 1730 kw, Hec “LLënga 2” me fuqi 300 kw dhe Hec “LLënga 3” me fuqi 1500 kw, me fuqi totale 3530 kw”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "100",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2020-06-24",
+  "published": "2020-07-23",
+  "in_force": "2020-07-23",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b7f1c50a86c1289db20d08e677005c9d2d7bbe49c8470ad54e00f305af5d15bd.docx",
+  "source_sha256": "b7f1c50a86c1289db20d08e677005c9d2d7bbe49c8470ad54e00f305af5d15bd",
+  "official_record": "https://qbz.gov.al/api/v1/acts/21900",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2020/06/24/100",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
