@@ -1,0 +1,1 @@
+5. Operatorët e pajisur me licencë III.2.B, që janë, gjithashtu, subjekt i këtij ndryshimi ligjor, pas miratimit të lejes së mjedisit të tipit B, sipas procedurave të këtij urdhri, detyrohen të zbatojnë kushtet e kësaj leje mjedisore.

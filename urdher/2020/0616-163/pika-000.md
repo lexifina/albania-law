@@ -1,0 +1,1 @@
+I. Miratimin e kërkesave të posaçme për shqyrtimin e aplikimeve për leje mjedisi të tipit B, për instalimet ekzistuese të pajisura me leje mjedisi të tipit C, të cilat, në varësi të kapacitetit prodhues, klasifikohen si leje mjedisi të tipit B, si dhe rregullat e hollësishme për shqyrtimin e tyre nga QKB-ja, si më poshtë vijon:

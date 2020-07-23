@@ -1,0 +1,1 @@
+3. Afatet për shqyrtimin e aplikimeve për leje mjedisi të tipit B, për instalimet ekzistuese të pajisura me leje mjedisi të tipit C, të cilat, në varësi të kapacitetit prodhues, klasifikohen si leje mjedisi të tipit B, janë sipas kreut III, të VKM-së nr. 419, datë 25.6.2014.
