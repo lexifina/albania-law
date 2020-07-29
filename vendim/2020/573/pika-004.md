@@ -1,0 +1,1 @@
+4. Sistemi “PISCES” ka për qëllim regjistrimin e hyrje-daljeve në Republikën e Shqipërisë të shtetasve shqiptarë dhe të huaj, në pikat e kalimit kufitar ku ky sistem do të implementohet, si dhe shkëmbimin e informacionit për verifikimin e terrorizmit dhe të kalimit të paligjshëm të kufirit.

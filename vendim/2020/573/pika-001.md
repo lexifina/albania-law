@@ -1,0 +1,1 @@
+1. Krijimin në Ministrinë e Brendshme të sistemit të krahasimit dhe vlerësimit të sigurt të identifikimit personal (PISCES) dhe të shkëmbimit të bazës së të dhënave të këtij sistemi me sistemin total të menaxhimit të informacionit (TIMS).

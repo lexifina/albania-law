@@ -1,0 +1,1 @@
+6. Sistemi i menaxhimit total të informacionit “TIMS” do të ndërveprojë me sistemin e krahasimit dhe vlerësimit të sigurt të identifikimit personal “PISCES”, si plotësues të njëri-tjetrit, në përputhje me nevojat e Policisë së Shtetit.

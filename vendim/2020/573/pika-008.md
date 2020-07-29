@@ -1,0 +1,1 @@
+8. Të dhënat që do të importohen nga sistemi “TIMS” në sistemin “PISCES” do të jenë hyrjet dhe daljet e shtetasve shqiptarë dhe të huaj në pikat e kalimit kufitar, si dhe kategorive INAD/deportiv/refuzuar.

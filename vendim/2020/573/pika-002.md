@@ -1,0 +1,1 @@
+2. Ministria e Brendshme është institucioni përgjegjës për administrimin e bazës së të dhënave të sistemit “PISCES” dhe ndërveprimin e tij me sistemet e tjera të informacionit, nëpërmjet teknologjisë së shërbimit standard web-service.
