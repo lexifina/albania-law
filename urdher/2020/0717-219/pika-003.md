@@ -1,0 +1,1 @@
+3. Përmbaruesi gjyqësor privat kujdeset për administrimin e arkivit nëpërmjet aplikimit të rregullave të unifikuara për krijimin, përdorimin dhe ruajtjen e të gjithë dokumentacionit që merret apo prodhohet në përmbushje të veprimtarisë përmbarimore të përmbaruesit gjyqësor privat, si dhe sigurimin e aksesit për palët e interesuara.

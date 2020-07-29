@@ -1,0 +1,1 @@
+10. Arkivi i përmbaruesit gjyqësor privat administrohet në përputhje me legjislacionin në fuqi, nga vetë përmbaruesi gjyqësor privat, personat e parashikuar me ligj ose personat e autorizuar me shkrim nga përmbaruesi gjyqësor privat dhe nën mbikëqyrjen e tij.

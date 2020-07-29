@@ -1,0 +1,1 @@
+6. Përmbaruesi gjyqësor privat është i detyruar të ruajë në arkiv një njësi origjinale të çdo dokumenti që prodhon në përmbushje të veprimtarisë përmbarimore, si dhe kopje të çdo dokumenti që nxirret nga institucionet përgjegjëse dhe personat fizikë dhe juridikë për qëllime të procedurës së ekzekutimit.

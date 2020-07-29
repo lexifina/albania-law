@@ -1,0 +1,1 @@
+12. Përmbaruesi gjyqësor privat është i detyruar që në përputhje me legjislacionin në fuqi, t’iu sigurojë akses palëve dhe pjesëmarrësve në veprimtarinë përmbarimore, duke marrë parasysh edhe legjislacionin në fuqi për mbrojtjen e të dhënave personale.

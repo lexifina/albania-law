@@ -1,0 +1,1 @@
+14. Dokumentacioni i krijuar në përmbushje të veprimtarisë përmbarimore përpara hyrjes në fuqi të këtij urdhri, i cili përbën arkiv sipas përcaktimit të pikës 5, të këtij urdhri, bëhet pjesë e arkivit. Organizimi, mbajtja dhe administrimi kryhet në përputhje me dispozitat e këtij urdhri brenda 12 (dymbëdhjetë) muajve nga hyrja në fuqi e tij.
