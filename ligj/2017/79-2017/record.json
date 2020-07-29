@@ -1,0 +1,27 @@
+{
+  "qbz_id": 66006,
+  "title": "PËR SPORTIN",
+  "type": "Ligj",
+  "number": "79-2017",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2017-04-27",
+  "version_no": 1,
+  "qbz_version_id": 5003,
+  "in_force": "2020-07-29",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2020-07-29",
+  "changed_by_qbz_id": 22008,
+  "changed_by_number": "105",
+  "changed_by_title": "Për disa shtesa dhe ndryshime në ligjin nr. 79/2017 “Për sportin”",
+  "source": "https://qbz.gov.al/files/7518b3ed6d3d9e716014cd055a699b389d563c6458bcac58d3eb3b846ce8f14e.docx",
+  "source_sha256": "7518b3ed6d3d9e716014cd055a699b389d563c6458bcac58d3eb3b846ce8f14e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66006",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/66006/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
