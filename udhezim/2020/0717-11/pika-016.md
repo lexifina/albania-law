@@ -1,0 +1,1 @@
+16. Përmbaruesi gjyqësor privat zëvendësues ka të njëjtat të drejta dhe detyrime, si përmbaruesi gjyqësor privat që zëvendëson, për aq kohë sa kryen veprimtari përmbarimore në lidhje me çështjet përmbarimore që vazhdojnë për shkak të zëvendësimit të tij.

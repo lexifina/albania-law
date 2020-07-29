@@ -1,0 +1,1 @@
+9. Jo më vonë se 5 (pesë) ditë pas përfundimit të afatit të ankimit ose pas shqyrtimit të ankimeve nga ministri, Dhoma Kombëtare e Përmbaruesve Gjyqësorë Privatë miraton listën me përmbaruesit gjyqësorë privatë zëvendësues dhe ia njofton atë ministrit të Drejtësisë, si dhe e publikon në faqen zyrtare të Dhomës Kombëtare të Përmbaruesve Gjyqësorë Privatë.

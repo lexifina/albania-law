@@ -1,0 +1,1 @@
+20. Përmbaruesi gjyqësor privat zëvendësues transferon në llogarinë e përmbaruesit gjyqësor privat që zëvendësohet të gjitha vlerat monetare që ndodhen në llogarinë e tij të veçantë, kur përfundon së kryeri veprimtarinë përmbarimore për shkak të zëvendësimit, brenda 2 (dy) ditëve sapo rifillon veprimtarinë përmbaruesi gjyqësor privat që zëvendësohet.

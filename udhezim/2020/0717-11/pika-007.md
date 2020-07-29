@@ -1,0 +1,1 @@
+7. Jo më vonë se data 15 janar e çdo viti kalendarik, Dhoma Kombëtare e Përmbaruesve Gjyqësorë Privatë verifikon nëse përmbaruesit që kanë paraqitur shprehjen e interesit plotësojnë kushtet e parashikuara në pikën 4, të këtij udhëzimi. Lista me përmbaruesit, që i plotësojnë kushtet, bëhet publike në faqen zyrtare të Dhomës Kombëtare të Përmbaruesve Gjyqësorë Privatë.

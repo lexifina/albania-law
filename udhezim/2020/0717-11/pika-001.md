@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim të përcaktojë rregullat e zbatueshme për modalitetet, afatet dhe mënyrën e caktimit të përmbaruesit gjyqësor privat zëvendësues nga ministri i Drejtësisë, në rastet e parashikuara në ligjin “Për shërbimin përmbarimor gjyqësor privat”.

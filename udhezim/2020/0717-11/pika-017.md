@@ -1,0 +1,1 @@
+17. Përmbaruesi gjyqësor privat zëvendësues, jo më vonë se 3 (tri) ditë pune nga fillimi i zëvendësimit, njofton palët në çështjen përmbarimore për vijimin, vazhdimin dhe ndjekjen e procedurave përmbarimore.

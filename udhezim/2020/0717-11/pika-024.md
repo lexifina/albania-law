@@ -1,0 +1,1 @@
+24. Afatet procedurale nuk cenohen dhe vazhdojnë pa asnjë pengesë për kryerjen e veprimeve procedurale vijuese, të mbetura dhe/ose që rifillojnë në çastin e përfundimit të zëvendësimit apo të fillimit të veprimtarisë së përmbaruesit gjyqësor privat zëvendësues.

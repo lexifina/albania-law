@@ -1,0 +1,1 @@
+2. Dhoma Kombëtare e Përmbaruesve Gjyqësorë Privatë miraton, jo më vonë se data 10 shkurt të çdo viti kalendarik, listën me përmbaruesit gjyqësorë privatë zëvendësues të përzgjedhur sipas procedurave të përcaktuara në këtë urdhër.

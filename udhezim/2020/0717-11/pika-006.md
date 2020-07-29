@@ -1,0 +1,1 @@
+6. Përmbaruesit e interesuar për të qenë zëvendësues, duhet të depozitojnë me postë, dorazi në protokollin e Dhomës ose në rrugë elektronike dokumentacionin vërtetues të plotësimit të kushteve të përcaktuara në pikën 4, të këtij udhëzimi.
