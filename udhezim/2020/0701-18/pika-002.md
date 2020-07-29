@@ -1,0 +1,1 @@
+2. Tekstet shkollore, përpara se të botohen dhe të shpërndahen për shitje, duhet të jenë të certifikuara, me certifikatën e lejes për të hyrë në tregun e shitjes, si dhe të kenë të vendosur në kopertinë pullën me hologramë, e cila furnizohet nga MASR-ja.

@@ -1,0 +1,5 @@
+UDHËZIMI I PËRBASHKËT
+Nr. 18, datë 1.7.2020
+PËR PROCEDURAT E PËRDORIMIT TË FONDEVE TË BUXHETIT TË SHTETIT PËR BOTIMIN, SHTYPJEN, SHPËRNDARJEN DHE SHITJEN E TEKSTEVE TË ARSIMIT PARAUNIVERSITAR
+Në mbështetje të nenit 102 të Kushtetutës së Republikës së Shqipërisë; të neneve 25 dhe 47, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, të ndryshuar; të ligjit nr. 9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, të ndryshuar; të ligjit nr. 10296, datë 8.7.2010, “Për menaxhimin financiar dhe kontrollin”, të ndryshuar; të vendimit nr. 486, datë 17.6.2020, të Këshillit të Ministrave, “Për shtypjen, botimin, shpërndarjen dhe shitjen e teksteve shkollore, të sistemit të arsimit parauniversitar”; dhe të vendimit nr. 227, datë 17.4.2019, të Këshillit të Ministrave, “Për përgatitjen, shtypjen, botimin dhe shpërndarjen e teksteve shkollore të arsimit bazë për nxënësit e institucioneve arsimore publike parauniversitare, ku mësojnë nxënës të pakicave kombëtare”,
+UDHËZOJMË:
