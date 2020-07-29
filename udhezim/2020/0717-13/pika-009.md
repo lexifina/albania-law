@@ -1,0 +1,1 @@
+9. Jo më vonë se 5 (pesë) ditë pas përfundimit të afatit të ankimit ose pas shqyrtimit të ankimeve nga ministri, Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë i përcjell ministrit për miratim listën me ekspertët e pavarur, e cila, pas miratimit, publikohet në faqen zyrtare të Ministrisë së Drejtësisë.

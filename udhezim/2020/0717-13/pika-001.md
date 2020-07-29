@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i kritereve, procedurave të përzgjedhjes dhe shpërblimit të ekspertëve të jashtëm të pavarur, të cilët angazhohen për kryerjen e kontrollit të veprimtarisë së përmbaruesve gjyqësorë privatë, në rastin e mungesës së burimeve njerëzore në strukturën përgjegjëse në ministri, si dhe mbulimit të fushave specifike.

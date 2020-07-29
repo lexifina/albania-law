@@ -1,0 +1,1 @@
+2. Ministria e Drejtësisë miraton jo më vonë se data 10 shkurt të çdo viti kalendarik, një listë me jo më pak se 25 (njëzet e pesë) ekspertë të jashtëm të pavarur, që mund të angazhohen për kryerjen e kontrolleve, të përzgjedhur sipas procedurave të përcaktuara në këtë udhëzim.
