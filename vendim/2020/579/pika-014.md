@@ -1,0 +1,2 @@
+14. Ngarkohen ministria përgjegjëse për strehimin, ministria përgjegjëse për arsimin, ministria përgjegjëse për shëndetësinë, ministria përgjegjëse për çështjet sociale, policia e njësisë së vetëqeverisjes vendore dhe Policia e Shtetit, institucionet e ofrimit të shërbimeve publike dhe njësitë e vetëqeverisjes vendore për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

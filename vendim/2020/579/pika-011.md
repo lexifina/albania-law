@@ -1,0 +1,1 @@
+11. Njësia e vetëqeverisjes vendore informon menjëherë me rastin e ngritjes së një strehe të përkohshme ministritë e përmendura në pikën 10, të këtij vendimi. Këto të fundit ngarkojnë strukturat përkatëse në varësi të tyre për identifikimin dhe ofrimin e shërbimeve të nevojshme, sipas fushave të tyre të përgjegjësisë, në përputhje me parashikimet e këtij vendimi.

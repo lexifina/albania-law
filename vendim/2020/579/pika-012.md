@@ -1,0 +1,1 @@
+12. Për individët/familjet që jetojnë në një strehë të përkohshme njësia e vetëqeverisjes vendore mban një dosje personale, të cilën e përditëson sipas rastit. Njësia e vetëqeverisjes vendore garanton ruajtjen e konfidencialitetit të të dhënave të dosjeve në përputhje me legjislacionin në fuqi për të dhënat personale.
