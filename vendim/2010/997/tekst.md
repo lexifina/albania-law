@@ -4,7 +4,7 @@ Nr.997, datë 10.12.2010
 
 PËR TRAJTIMIN FINANCIAR TË PUNONJËSVE QË DËRGOHEN ME SHËRBIM JASHTË QENDRËS SË PUNËS, BRENDA VENDIT
 
-(Ndryshuar me VKM nr.813 datë 21.11.2012, me VKM nr.558 datë 3.07.2013, me VKM nr.617 datë 24.07.2013, me VKM nr.6 datë 8.01.2014, me VKM nr.329 datë 20.04.2016)
+(Ndryshuar me VKM nr.813 datë 21.11.2012, me VKM nr.558 datë 3.07.2013, me VKM nr.617 datë 24.07.2013, me VKM nr.6 datë 8.01.2014, me VKM nr.329 datë 20.04.2016, nr. 130, datë 7.3.2018 )
 
 (I përditësuar)
 
@@ -12,7 +12,7 @@ Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 16 të ligjit nr.99
 
 VENDOSI:
 
-I. Punonjësit e njësive të qeverisjes së përgjithshme, të cilët gjatë ditëve zyrtare të punës shkojnë me shërbim jashtë qendrës së punës, brenda vendit, trajtohen financiarisht për përballimin e shpenzimeve të shërbimit. Përjashtimisht, për punonjësit operacionalë të Policisë së Shtetit, të Gardës së Republikës së Shqipërisë, të Shërbimit për Çështjet e Brendshme dhe Ankesat (SHÇBA), të Shërbimit Informativ Shtetëror, të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes, të njësisë mamografike të lëvizshme, pranë Institutit të Shëndetit Publik, të Forcave të Armatosura të Republikës së Shqipërisë, kur marrin pjesë në shërbime operacionale specifike, të institucioneve që kryejnë inspektime, kontrolle apo verifikime në subjektet private, si dhe të institucioneve, të cilët kanë detyrë funksionale kontrollin e situatave epidemike, në funksion të ruajtjes së sigurisë kombëtare, dërgimi me shërbim jashtë qendrës së punës nuk kufizohet në ditët zyrtare të punës. 
+I. Punonjësit e njësive të qeverisjes së përgjithshme, të cilët shkojnë me shërbim jashtë qendrës së punës, brenda vendit, trajtohen financiarisht për përballimin e shpenzimeve të shërbimit.
 
 II. Në njësitë e qeverisjes së përgjithshme, në kuptim të këtij vendimi, përfshihen:
 
