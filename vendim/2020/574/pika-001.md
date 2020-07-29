@@ -1,0 +1,1 @@
+1. Miratimin e kuadrit makroekonomik e fiskal, të rishikuar, për periudhën 2021-2023, si dhe lidhjen nr. 1 “Treguesit kryesorë makroekonomikë” dhe lidhjet nr. 2/1 e nr. 2/2, “Treguesit fiskalë sipas buxhetit të konsoliduar”, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
