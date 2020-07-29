@@ -1,0 +1,1 @@
+3. Me disponimin e fondeve për blerjen e banesave me kosto të ulët në treg, subjekti, që zbaton programin e banesave me kosto të ulët, përcakton numrin dhe strukturën e banesave që mund të blihen për llogari të familjeve/individëve përfitues nga ky program.

@@ -1,0 +1,1 @@
+2. Banesat që blihen për t’iu shtuar fondit të banesave sociale me qira, duhet të plotësojnë normat dhe kushtet e parashikuara në legjislacionin në fuqi që përcakton kushtet, normat dhe standardet e banesave me kosto të ulët në programet përkatëse të strehimit.

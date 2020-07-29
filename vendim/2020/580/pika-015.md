@@ -1,0 +1,1 @@
+15. Trualli funksional i banesës shitet si pjesë përbërëse dhe e pandarë me banesën. Me truall funksional, kur nuk është specifikuar ndryshe në lejen e ndërtimit dhe/ose në kontratën e shitblerjes së banesës me kosto të ulët, kuptohet sipërfaqja e truallit nën objekt, plus 1 metër trotuar rreth objektit.

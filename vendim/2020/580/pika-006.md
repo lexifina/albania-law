@@ -1,0 +1,1 @@
+6. Afati, brenda të cilit priten të depozitohen ofertat për banesat me kosto të ulët që mund të blihen nga tregu i lirë, është 15 (pesëmbëdhjetë) ditë duke filluar nga e nesërmja pas ditës së tretë të publikimit të ofertave në median e shkruar dhe atë vizive.

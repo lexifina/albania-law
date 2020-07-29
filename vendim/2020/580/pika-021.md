@@ -1,0 +1,1 @@
+21. Kontrata për shitblerjen e banesave me kosto të ulët i dërgohet Agjencisë Shtetërore të Kadastrës për regjistrimin e kalimit të së drejtës së pronësisë me rezervë pronësie në favor të përfituesit. Pronësia mbi banesën me kosto të ulët i kalon familjes/individit blerës, kur blerja është kryer prej saj/tij, pas shyerjes së këstit të fundit të çmimit të shitjes.

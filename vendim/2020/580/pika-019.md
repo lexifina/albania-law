@@ -1,0 +1,3 @@
+19. Shitja e banesës me kosto të ulët mund të bëhet në format e mëposhtme:
+a) me shitje me pagesë të menjëhershme nga blerësi, nëse ka një marrëveshje kreditimi të lehtësuar me bankat e nivelit të dytë, interesat e të cilave subvencionohen nga njësia e vetëqeverisjes vendore ose buxheti i shtetit;
+b) me shlyerje ndaj njësisë së vetëqeverisjes vendore ose Entit Kombëtar të Banesave, me këste të përballueshme, sipas përcaktimeve në nenin 3, të ligjit nr. 22/2018, “Për strehimin social”, dhe me interes jo më të lartë se 3%. Kthimi i investimit në këtë rast sigurohet nëpërmjet vendosjes së barrës hipotekore që vihet mbi banesën deri në shlyerjen e plotë të vlerës kontraktuale.

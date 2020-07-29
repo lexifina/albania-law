@@ -1,0 +1,1 @@
+22. Verifikimi i nivelit të të ardhurave bëhet në përputhje me vendimin nr.384, datë 12.6.2019, të Këshillit të Ministrave, “Për përcaktimin e dokumentacionit për të përfituar strehim sipas çdo programi social të strehimit dhe të afateve e të procedurave të miratimit nga organet e vetëqeverisjes vendore”.
