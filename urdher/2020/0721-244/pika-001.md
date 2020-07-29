@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, kopshti “Mehmet Akif”, Tiranë, hapur me urdhër nr. 236, datë 20.6.2006 të ministrit të Arsimit dhe Shkencës, “Për funksionimin e institucionit arsimor privat parauniversitar: - Kopshti ’Mehmet Akif’”, në emër të fondacionit “Gulistan”, përfaqësuar nga z. Hayrettin Ozkul.
