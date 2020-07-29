@@ -1,0 +1,1 @@
+3. Fondit Shqiptar të Zhvillimit, në buxhetin e miratuar për vitin 2020, në zërin “Shpenzime kapitale me financim të brendshëm”, të programit 06210 “Programe zhvillimi”, i shtohet fondi prej 3 239 666 018 (tre miliardë e dyqind e tridhjetë e nëntë milionë e gjashtëqind e gjashtëdhjetë e gjashtë mijë e tetëmbëdhjetë) lekë pa TVSH.
