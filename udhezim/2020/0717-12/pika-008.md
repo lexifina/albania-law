@@ -1,0 +1,1 @@
+8. Vula dhe mjeti i identifikimit personal nxirren jashtë përdorimit me procesverbal nga një komision i përcaktuar me urdhër të ministrit të Drejtësisë, në të cilin përfshihen dy nëpunës të Ministrisë së Drejtësisë dhe një anëtar i Dhomës Kombëtare të Përmbarimit.

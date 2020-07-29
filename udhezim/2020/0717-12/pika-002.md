@@ -1,0 +1,1 @@
+2. Ministri i Drejtësisë përcakton me urdhër ngritjen e një komisioni për marrjen në dorëzim të vulës personale, mjetit të identifikimit profesional, çështjet përmbarimore të papërfunduara në proces ekzekutimi, si dhe në rastin e çregjistrimit nga regjistrat e përmbaruesve gjyqësorë privatë, arkivin e krijuar prej fillimit të veprimtarisë së tij.

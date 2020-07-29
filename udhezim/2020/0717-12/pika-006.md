@@ -1,0 +1,1 @@
+6. Çështjet përmbarimore të papërfunduara i dorëzohen nga Komisioni i marrjes në dorëzim, përmbaruesit gjyqësor privat zëvendësues të caktuar me urdhër të ministrit të Drejtësisë. Deri në datën e caktimit të përmbaruesit privat zëvendësues me urdhër të ministrit, këto dosje ruhen në Sektorin e Protokoll-Arkivit në Ministrinë e Drejtësisë.
