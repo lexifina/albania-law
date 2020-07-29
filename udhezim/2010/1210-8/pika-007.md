@@ -1,7 +1,7 @@
 7. Shoqëritë e interesuara, që kërkojnë të marrin, në dispozicion, për një periudhë të caktuar kohe një sipërfaqe në “Zonë”, me qëllim përgatitjen e të gjitha praktikave dhe dokumentacionit të nevojshëm për ndërtim e përdorim të objekteve energjetike e industriale dhe zhvillimin e veprimtarive përkatëse në sipërfaqet e truallit të përcaktuara në “Masterplan”, duhet të paraqesin në “Ministri” kërkesën të shoqëruar me dokumentacionin e mëposhtëm:
-a) dokumentacionin që vërteton se subjekti është person juridik në formën e shoqërisë anonime;
+a) informacion mbi strukturën organizative të shoqërisë dhe NUIS;
 b) projektidenë për llojin dhe destinacionin e objektit që kërkohet të ndërtohet, teknologjinë që do të përdoret, si dhe kapacitetin prodhues;
-c) lejen e mjedisit të veprimtarisë, bazuar në Vlerësimin Strategjik Mjedisor, si dhe në studime dhe vlerësime mjedisore për “Zonën”;
+c) Kopjen e vendimit të Agjencisë Kombëtare të Mjedisit (AKM) për vlerësimin e ndikimit në mjedis (VNM) paraprak ose njoftimin që projekti t’i nënshtrohet procedurës së thelluar të VNM-së, bazuar në Vlerësimin Strategjik Mjedisor, si dhe në studime e vlerësime mjedisore për “Zonën”.
 ç) skemat e zonës ku kërkohet të ndërtohet objekti, si dhe sipërfaqen e saj në m2;
 d) skemë-idenë e lidhjes së objektit me infrastrukturën e transportit dhe me infrastrukturën energjetike në rajon;
 dh) dokumentet që përcaktojnë marrëdhëniet që kanë këto shoqëri për sipërfaqen e tokës, në të cilën parashikohet ndërtimi i objektit, si dhe infrastrukturën lidhëse të tij;
