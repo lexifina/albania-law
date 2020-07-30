@@ -1,0 +1,1 @@
+1. Ky udhëzim përcakton rregulla për krijimin e një baze të dhënash të posaçme për çështjet e dhunës në familje në gjykata, subjektet që kanë detyrimin e popullimit të kësaj baze të dhënash, unifikimin e regjistrimit të tyre, si dhe mënyrën e përdorimit dhe të aksesit në to.

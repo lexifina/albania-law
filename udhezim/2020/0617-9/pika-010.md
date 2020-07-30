@@ -1,0 +1,1 @@
+10. Deri në krijimin e sistemit elektronik të teknologjisë së informacionit, grumbullimi dhe plotësimi i të dhënave për dhunën në familje do të plotësohen në format Excel, sipas formularëve bashkëlidhur këtij udhëzimi.
