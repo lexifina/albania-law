@@ -1,0 +1,1 @@
+1. Miratimin e procedurës së kryerjes së testimeve molekurale RT-PCR për SARS-CoV-2 dhe njohjes së laboratorëve jopublikë për kryerjen e testimit për nevoja administrative të qytetarëve, sipas tekstit që i bashkëlidhet këtij urdhri.
