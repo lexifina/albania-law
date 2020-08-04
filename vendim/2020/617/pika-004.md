@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 16 808 960 (gjashtëmbëdhjetë milionë e tetëqind e tetë mijë e nëntëqind e gjashtëdhjetë) lekësh të përballohet nga fondet buxhetore për vitin 2020, të miratuara në zërin “Shpronësime”, për Autoritetin Rrugor Shqiptar, në programin buxhetor “Transporti rrugor”.
