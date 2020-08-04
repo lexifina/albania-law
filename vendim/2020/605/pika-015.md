@@ -1,0 +1,1 @@
+15. Në rastet e parashikuara në pikën 14, të këtij vendimi, numërtimi i pasurisë do të kryhet sipas rregullit bazë të vendosjes së numrit të pasurisë në një zonë kadastrale, duke bërë shënimin në kartelën e pasurisë për lidhjen e pasurisë natyrore midis zonave kadastrale kufitare.

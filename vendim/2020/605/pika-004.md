@@ -1,0 +1,1 @@
+4. Në kategorinë e pemëve që regjistrohen në regjistrin e pasurive të paluajtshme hyjnë të gjithë drurët që ndodhen brenda kufirit të pasurisë (tokës), pavarësisht llojit dhe pronësisë së pasurisë (nëse është private apo shtetërore).

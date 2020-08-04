@@ -1,0 +1,1 @@
+2. Regjistrimi i pasurive natyrore, sipas pikës 1 të këtij vendimi, bëhet kryesisht nga Agjencia Shtetërore e Kadastrës (në vijim “ASHK”) gjatë procedurës së regjistrimit fillestar dhe përmirësimit/përditësimit apo me aplikim të pronarit/përfaqësuesit të autorizuar.

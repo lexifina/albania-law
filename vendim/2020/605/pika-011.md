@@ -1,0 +1,1 @@
+11. Matrikujt janë tabelat ku pasqyrohen numrat rendorë të pemëve dhe që vendosen nga pronari në çdo pemë. Pronari që ka kërkuar regjistrimin e pemëve është i detyruar të pasqyrojë numrat rendorë identifikues të pemës në secilën tabelë.

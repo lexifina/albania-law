@@ -1,0 +1,1 @@
+9. Ndryshimi i numrit të pemëve, sipas gjendjes faktike nga momenti i regjistrimit, bëhet sipas akteve të miratuara nga organet kompetente dhe reflektohet në kartelën e pasurisë së paluajtshme, me kërkesën e pronarit apo personave të tjerë të autorizuar prej tij.
