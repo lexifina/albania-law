@@ -1,0 +1,1 @@
+2. Me mbrojtje të veçantë personale të familjes dhe të pronës, sipas këtij vendimi, do të kuptohen masat me karakter organizativ e profesional, për sigurimin dhe ruajtjen e veçantë fizike, mbrojtjen e familjes e të pronës së përmbaruesit gjyqësor, si dhe masat e tjera, që lidhen me këtë mbrojtje.

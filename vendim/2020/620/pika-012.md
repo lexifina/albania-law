@@ -1,0 +1,1 @@
+12. Mbledhjet e komisionit janë të vlefshme kur janë të pranishëm jo më pak se tre anëtarë të tij. Vendimet janë të vlefshme kur miratohen të paktën nga shumica e anëtarëve të pranishëm në mbledhje. Kur votat ndahen në mënyrë të barabartë, vota e kryetarit është përcaktuese.

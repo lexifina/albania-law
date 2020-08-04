@@ -1,0 +1,1 @@
+1. Përmbaruesit gjyqësor, shtetëror dhe privat, i sigurohet mbrojtje e veçantë personale, e familjes dhe e pronës, sipas parashikimeve të këtij vendimi, kur gjatë ushtrimit të detyrës ose për shkak të saj, i rrezikohet jeta dhe shëndeti i tij ose i familjes si dhe prona.

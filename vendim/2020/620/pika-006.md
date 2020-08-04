@@ -1,0 +1,1 @@
+6. Kërkesa për mbrojtje i paraqitet komisionit nga subjektet e përcaktuara në pikën 4, të këtij vendimi, kur ka të dhëna të besueshme që provojnë se një përmbaruesi gjyqësor, shtetëror ose privat, i rrezikohet jeta, familja ose prona.

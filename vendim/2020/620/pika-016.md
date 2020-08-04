@@ -1,0 +1,1 @@
+16. Vendimi i komisionit i njoftohet përmbaruesit gjyqësor nëpërmjet Drejtorisë së Përgjithshme të Përmbarimit ose Dhomës Kombëtare të Përmbaruesve Gjyqësorë Privatë dhe strukturave përgjegjëse për mbrojtjen, nga përfaqësuesi i Drejtorisë së Përgjithshme të Policisë së Shtetit.

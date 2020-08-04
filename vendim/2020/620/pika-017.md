@@ -1,0 +1,1 @@
+17. Komisioni, me kërkesë të subjekteve të përcaktuara në pikën 4 të këtij vendimi, kur ka të dhëna të besueshme që provojnë se një përmbaruesi gjyqësor i rrezikohet jeta, familja ose prona, mund të vendosë zgjatjen e afatit të masave të mbrojtjes, nëse rrethanat, për të cilat është siguruar më parë mbrojtja, vazhdojnë të ekzistojnë edhe pas përfundimit të këtij afati.

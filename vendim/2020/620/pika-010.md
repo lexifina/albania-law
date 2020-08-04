@@ -1,0 +1,1 @@
+10. Kryetari, menjëherë pas marrjes së kërkesës për mbrojtje, njofton anëtarët e komisionit për mbledhjen e radhës. Komisioni duhet të mblidhet menjëherë dhe jo më vonë se 48 (dyzet e tetë) orë nga paraqitja e kërkesës, sipas pikës 6 të këtij vendimi.
