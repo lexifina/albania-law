@@ -1,0 +1,1 @@
+7. Ministria përgjegjëse për shëndetësinë siguron rritjen e vazhdueshme të kapaciteteve lidhur me ekzaminimin e mamografisë dhe trajtimin, në spitalet rajonale, me qëllim uljen e vazhdueshme të barrierave gjeografike për gratë e përfshira në program.

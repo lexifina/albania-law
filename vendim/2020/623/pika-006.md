@@ -1,0 +1,1 @@
+6. Kryerja e ekzaminimeve të mëtejshme në procesin e konfirmimit të diagnozës së kancerit të gjirit dhe trajtimi do të kryhet pranë Qendrës Spitalore Universitare “Nënë Tereza”, Tiranë, dhe spitaleve të caktuara rajonale, të cilat sigurojnë kapacitetet e nevojshme lidhur me diagnozën.

@@ -1,0 +1,1 @@
+9. Instituti i Shëndetit Publik, në bashkëpunim me njësitë vendore të kujdesit shëndetësor, në varësi të Operatorit të Shërbimit të Kujdesit Shëndetësor, duhet të sigurojë kryerjen e ekzaminimit të mamografisë për gratë e përfshira në këtë program, afër vendbanimit për zona të largëta urbane dhe rurale, nëpërmjet mamografive të lëvizshme.

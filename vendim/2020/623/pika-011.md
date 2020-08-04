@@ -1,0 +1,1 @@
+11. Instituti i Shëndetit Publik, Operatori i Shërbimit të Kujdesit Shëndetësor, në bashkëpunim me Qendrën Kombëtare të Edukimit në Vazhdim, të sigurojnë trajnimin e duhur për personelin shëndetësor, mjekë dhe infermierë, të këtyre qendrave.

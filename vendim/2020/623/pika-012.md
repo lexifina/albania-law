@@ -1,0 +1,1 @@
+12. Instituti i Shëndetit Publik organizon në vijimësi aktivitetet kombëtare dhe rajonale ndërgjegjësuese të popullatës dhe, në bashkëpunimin me Operatorin e Shërbimit të Kujdesit Shëndetësor, siguron ndërgjegjësimin dhe informimin e vazhdueshëm të publikut lidhur me depistimin dhe diagnozën e hershme të kancerit të gjirit.

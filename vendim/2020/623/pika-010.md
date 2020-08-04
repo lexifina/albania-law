@@ -1,0 +1,1 @@
+10. Qendrat shëndetësore duhet të sigurojnë informimin, këshillimin dhe ekzaminimin me palpim të gjirit për gratë e përfshira në program. Mjekët e familjes duhet të mbështesin me informacion gjatë gjithë procesit të diagnozës dhe trajtimit gratë që rezultojnë pozitive.
