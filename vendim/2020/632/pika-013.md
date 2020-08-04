@@ -1,0 +1,1 @@
+13. Vula e Drejtorisë së Përgjithshme të Mbrojtjes nga Zjarri dhe Shpëtimin ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave për rregullat e prodhimit, të administrimit, kontrollit dhe ruajtjes së vulave. Vula prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.

@@ -1,0 +1,1 @@
+12. Drejtoria e Përgjithshme e Mbrojtjes nga Zjarri dhe Shpëtimin ka stemën e saj, që përbëhet nga stema e Republikës së Shqipërisë me shënimet, “Ministria e Brendshme, Drejtoria e Përgjithshme e Mbrojtjes nga Zjarri dhe Shpëtimin”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

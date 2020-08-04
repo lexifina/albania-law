@@ -1,0 +1,1 @@
+1. Krijimin, organizimin dhe funksionimin e Drejtorisë së Përgjithshme të Shërbimit të Mbrojtjes nga Zjarri dhe Shpëtimin (në vijim DPSHMZSH), si person juridik, publik, me status të veçantë, në varësi të ministrit përgjegjës për rendin dhe sigurinë publike (në vijim ministri), me seli në Tiranë.

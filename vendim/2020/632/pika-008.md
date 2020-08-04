@@ -1,0 +1,1 @@
+8. DPSHMZSH-ja, për realizimin e misionit të saj, ushtrimin e funksioneve dhe realizimin e detyrave bashkëpunon me kryetarin e bashkisë, si dhe me institucionet e tjera të administratës publike, të përcaktuara në legjislacionin në fuqi për mbrojtjen nga zjarri dhe shpëtimin.

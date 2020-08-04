@@ -1,0 +1,1 @@
+6. DPSHMZSH-ja kryen detyrat e përcaktuara në legjislacionin për mbrojtjen nga zjarri dhe shpëtimin apo legjislacion tjetër të lidhur me fushën e saj të përgjegjësisë dhe raporton e përgjigjet para ministrit.

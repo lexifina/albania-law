@@ -1,0 +1,1 @@
+2. DPSHMZSH-ja financohet nga buxheti i shtetit, si pjesë e buxhetit të ministrisë përgjegjëse për rendin dhe sigurinë publike, të ardhurat nga shërbimi ndaj të tretëve, si dhe burime të tjera të ligjshme.
