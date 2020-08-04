@@ -376,10 +376,10 @@ Fotokopjues
 6 orë/ditë
 vjetore
 Drejtoria e Pagesave dhe Dëmshpërblimeve
-4
+1
 Specialist
 8 orë/ditë
-6 muaj
+vjetore
 Drejtoria e Përgjithshme e Thesarit dhe Degët e Thesarit
 11
 Specialist
@@ -1730,3 +1730,4 @@ TOTAL PUNONJËS ME KONTRATË
 (Me VKM nr.215, datë 12.3.2020:
 -Në ndarjen “Gr.05, Ministria e Bujqësisë dhe Zhvillimit Rural”, ndarjen “Gr.06, Ministria e Infrastrukturës dhe Energjisë”, ndarjen “Gr.13, Ministria e Shëndetësisë dhe Mbrojtjes Sociale”, ndarjen “Gr.16, Ministria e Brendshme” dhe ndarjen “Gr.17, Ministria e Mbrojtjes”, shtohen nënndarjet përkatëse,
 -Në fund shtohen ndarjet “Gr.41, Struktura e Posaçme kundër Korrupsionit dhe Krimit të Organizuar” , “Gr.63, Inspektorati i Lartë i Drejtësisë” dhe “Gr.73, Komisioni Qendror i Zgjedhjeve”)
+\
