@@ -1,0 +1,1 @@
+1. Ministrisë së Mbrojtjes, në buxhetin e saj të miratuar për vitin 2020, i shtohet kundërvlefta në lekë e shumës prej 20 000 (njëzet mijë) eurosh, në zërin: “shpenzime korrente”, të programit 01110 “Planifikim, menaxhim, administrim”, për pagesën e kontributit financiar të vendit tonë në Fondin e Mirëbesimit të NATO-s.
