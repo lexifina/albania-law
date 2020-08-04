@@ -1,0 +1,1 @@
+1. Tarifat për llojet e shërbimeve në favor të shtetasve, subjekteve, fizike dhe juridike, që ofrohen nga Shërbimi i Mbrojtjes nga Zjarri dhe Shpëtimin, janë sipas shtojcës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

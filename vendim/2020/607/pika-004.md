@@ -1,0 +1,1 @@
+4. Vendimi nr. 285, datë 27.6.2002, i Këshillit të Ministrave, “Për tarifat e shërbimeve që kryen nga Policia e Mbrojtjes nga Zjarri dhe Shpëtimin ndaj shtetasve e personave, juridikë e fizikë, vendas e të huaj”, shfuqizohet.
