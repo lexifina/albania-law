@@ -1,0 +1,1 @@
+1. Transferimin e pronësisë nga Autoriteti Rrugor Shqiptar te Bashkia Tiranë, të segmenteve rrugore dytësore, kthesa e Kamzës-Vorë (paralele djathtas) dhe kthesa e Kamzës-Vorë (paralele majtas), deri brenda kufirit të Bashkisë Tiranë.
