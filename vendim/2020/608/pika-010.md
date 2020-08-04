@@ -1,0 +1,1 @@
+10. Nëse punëdhënësi zgjidh në mënyrë të njëanshme kontratën me përfituesin për shkaqe të pajustifikuara, punëdhënësi është i detyruar të kthejë 100% të mbështetjes financiare të përfituar deri në atë moment.

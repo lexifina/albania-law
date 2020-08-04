@@ -1,0 +1,1 @@
+6. Në rast të plotësimit të kushteve paraprake, struktura vendore i përcjell për miratim kërkesën strukturës rajonale të punësimit, e cila, brenda 5 (pesë) ditëve pune, vendos miratimin ose mosmiratimin e projektit, sipas rregullave të përcaktuara në manualin e zbatimit të programeve të nxitjes së punësimit.

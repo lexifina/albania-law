@@ -1,0 +1,1 @@
+7. Struktura vendore e punësimit i komunikon punëdhënësit kërkues përgjigjen përfundimtare për pranimin apo refuzimin e kërkesës, brenda 2 (dy) ditëve pune. Ndaj këtij vendimi nuk paraqitet ankim administrativ.
