@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, me vlerë prej 2 147 600 (dy milionë e njëqind e dyzet e shtatë mijë e gjashtëqind) lekësh, të përballohet nga buxheti i vitit 2020, i miratuar për Bashkinë Divjakë.

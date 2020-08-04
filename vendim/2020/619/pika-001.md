@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Zgjerimi i hapësirës së varrezave”, në fshatin Çermë e Sipërme, Njësia Administrative Tërbuf, Bashkia Divjakë.

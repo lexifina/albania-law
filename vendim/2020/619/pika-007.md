@@ -1,0 +1,1 @@
+7. Pronari i pasurisë së paluajtshme, pronë private, i pasqyruar në tabelën që i bashkëlidhet këtij vendimi, të kompensohet, për efekt shpronësimi, pasi të ketë paraqitur certifikatën e pronësisë, kartelën e pasurisë, si dhe hartën treguese të regjistrimit, pranë Bashkisë Divjakë.
