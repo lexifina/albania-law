@@ -1,0 +1,1 @@
+2. Miratimin e masës së reduktimit në tarifat e përcaktuara në pikën 1 të këtij vendimi, sipas shtojcës nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij. Masa e reduktimit nuk aplikohet për biletat e premierave.
