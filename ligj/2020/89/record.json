@@ -1,0 +1,26 @@
+{
+  "qbz_id": 66303,
+  "title": "Për një shtesë në ligjin nr.8952, datë 10.10.2002, “Për letërnjoftimin elektronik të shtetasve shqiptarë”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "89",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2020-07-09",
+  "published": "2020-07-21",
+  "in_force": "2020-08-05",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/73b23fb1bfab53dbec28e91c2882cdb632c3fa624e4734a538faa47c95c63811.docx",
+  "source_sha256": "73b23fb1bfab53dbec28e91c2882cdb632c3fa624e4734a538faa47c95c63811",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66303",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2020/07/09/89",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
