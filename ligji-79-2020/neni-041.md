@@ -1,0 +1,5 @@
+# Neni 41
+Përfundimi i dënimit alternativ
+1. Kur i dënuari kryen dënimin alternativ apo përmbush detyrimin e dhënë, Shërbimi i Provës i paraqet prokurorit raportin për përfundimin e plotë të periudhës së mbikëqyrjes. Prokurori nxjerr vendim të veçantë për kryerjen e dënimit alternativ.
+2. Gjykata mund të vendosë përfundimin para afatit të dënimit alternativ, me propozimin e prokurorit, në të cilin vërtetohet se i dënuari ka kryer detyrimet dhe vlerësohet se nuk është më e nevojshme për t’i zbatuar më tej ato, për të arritur qëllimin e dënimit alternativ. Kërkesa e prokurorit për përfundimin para afatit përmban të dhëna për precedentët penalë të të dënuarit, përshkrim të dinamikës së sjelljes së të dënuarit e progresin e arritur gjatë ekzekutimit të dënimit dhe arsyet e paraqitjes së kërkesës.
+3. Kërkesa për përfundimin para afatit të dënimit alternativ paraqitet pasi i dënuari ka ekzekutuar më shumë se gjysmën e periudhës kohore dhe nuk paraqet rrezikshmëri për kryerjen e ndonjë vepre tjetër penale, rendin publik apo palët e treta.

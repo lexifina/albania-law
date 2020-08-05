@@ -1,0 +1,5 @@
+# Neni 57
+Ekzekutimi i masave edukuese
+1. Masa edukuese ekzekutohet në qendra/institucione publike ose private, të cilat janë të pajisura me infrastrukturën dhe personelin e duhur, për të përmbushur nevojat e veçanta të të miturit dhe të ekzekutimit të vendimit gjyqësor. Ekzekutimi i këtyre masave bëhet në mënyrë vullnetare nga prindi ose përfaqësuesi ligjor/procedural, bazuar në urdhrin e ekzekutimit të prokurorit, në përputhje me rregullat e parashikuara në Kodin e Drejtësisë Penale për të Mitur.
+2. Kur nuk bëhet ekzekutim vullnetar në datën e caktuar ose kur i mituri nuk ka prindër apo përfaqësues ligjor/procedural, ekzekutimi i masave edukuese bëhet nga punonjësi i Policisë së Shtetit, i specializuar dhe i trajnuar në drejtësinë penale për të mitur.
+3. Punonjësi i Policisë së Shtetit merr masat përkatëse për ekzekutimin e vendimit, me të cilin është marrë një masë edukuese ndaj të miturit, duke e shoqëruar atë së bashku me një punonjës social ose psikolog të specializuar në drejtësinë penale për të mitur.
