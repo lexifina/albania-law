@@ -1,0 +1,9 @@
+# Neni 23
+Plani individual i trajtimit
+1. Shërbimi i Provës vlerëson personalitetin e personit nën mbikëqyrje, me qëllim qartësimin e nevojave për mungesat fizike, afektive ose shoqërore, vullnetit të tij për punë dhe aftësitë e tij profesionale. Shërbimi i Provës, bazuar në këtë vlerësim, në të dhënat personale, familjare e shoqërore, si dhe në masën e dënimit, harton planin individual të trajtimit të personit nën mbikëqyrje në përputhje me dënimin alternativ përkatës. Ky plan miratohet nga drejtori i degës territoriale përkatëse.
+2. Plani individual i trajtimit diskutohet me personin nën mbikëqyrje. Ky plan mund të ndryshohet në varësi të ecurisë së tij.
+3. Plani individual i trajtimit nënshkruhet nga specialisti i Shërbimit të Provës dhe personi nën mbikëqyrje dhe, kur ky është i mitur, nënshkruhet nga kujdestari i tij ligjor dhe mbrojtësi i tij. Një kopje e planit individual i dorëzohet personit nën mbikëqyrje, kujdestarit të tij ligjor, kur ky është i mitur, dhe mbrojtësit.
+4. Kur gjykata vendos detyrimin e personit nën mbikëqyrje për të marrë pjesë në një program rehabilitimi, plani individual i trajtimit përshkruan përmbajtjen, kohëzgjatjen dhe mënyrën e kryerjes së tij.
+5. Kur gjykata vendos detyrimin e kryerjes së një pune të papaguar në interes publik, programi individual i mbikëqyrjes përmban përshkrimin e punës, vendndodhjen dhe kohëzgjatjen e saj.
+6. Specialisti përgjegjës i Shërbimit të Provës mban kontakte të vazhdueshme me personin nën mbikëqyrje gjatë gjithë periudhës së vënies në provë. Specialisti i Shërbimit të Provës dhe personi nën mbikëqyrje bien dakord dhe nënshkruajnë programin e realizimit të mbikëqyrjes.
+7. Rregullat e detajuara për të dhënat që përmban plani individual i trajtimit dhe mënyrën e hartimit të tij përcaktohen me urdhër të ministrit të Drejtësisë me propozim të Drejtorit të Përgjithshëm të Shërbimit të Provës.

@@ -1,0 +1,6 @@
+# Neni 14
+Konflikti i interesit
+1. Specialisti i Shërbimit të Provës ka detyrimin të shmangë çdo konflikt ndërmjet interesit të tij privat dhe interesit publik në kryerjen e detyrës.
+2. Specialisti i Shërbimit të Provës, gjatë kryerjes së detyrave të tij për mbikëqyrjen dhe asistimin e personit nën mbikëqyrje, deklaron të gjitha rastet e konfliktit të interesit, sipas parashikimeve të legjislacionit në fuqi për parandalimin e konfliktit të interesit në ushtrimin e funksioneve publike.
+3. Specialisti i Shërbimit të Provës është i detyruar të kërkojë menjëherë heqjen dorë nga mbikëqyrja dhe asistimi i personit nën mbikëqyrje në rastet e konfliktit faktik e të vazhdueshëm të interesit me të.
+4. Deklarimi i konfliktit të interesit dhe kërkesa për heqjen dorë i paraqiten për vendimmarrje drejtorit të degës përkatëse territoriale të Shërbimit të Provës. Në rastet kur konflikti i interesit deklarohet nga drejtori i degës territoriale përkatëse ose nga çdo person i interesuar, aktet i paraqiten për vendimmarrje drejtorit të Përgjithshëm të Shërbimit të Provës. Përmbajtja e kërkesës dhe e vendimit u njoftohet palëve menjëherë dhe në çdo rast jo më vonë se tre ditë nga marrja e vendimit të Drejtorit të Përgjithshëm.

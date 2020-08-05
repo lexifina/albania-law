@@ -1,0 +1,3 @@
+# Neni 36
+Shfuqizime
+Me hyrjen në fuqi të këtij ligji, vendimi nr. 302, datë 25.3.2009, i Këshillit të Ministrave, “Për miratimin e rregullores ’Për organizimin e funksionimin e Shërbimit të Provës dhe për përcaktimin e standardeve e të procedurave për mbikëqyrjen e ekzekutimit të dënimeve alternative’” shfuqizohet.
