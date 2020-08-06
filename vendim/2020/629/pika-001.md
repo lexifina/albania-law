@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe fondacionit “FIRDEUS”, për bashkëpunim në fushën e ndërtimit të banesave pas fatkeqësisë, sipas tekstit që i bashkëlidhet këtij vendimi.
