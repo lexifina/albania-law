@@ -1,0 +1,6 @@
+# Neni 89
+Të drejtat e të paraburgosurve
+1. Personat e paraburgosur, që ndodhen në institucionet e paraburgimit ose seksionet e paraburgimit, gëzojnë të drejtat e përcaktuara në nenet 5, 6, 7, 8, 9, 10, 12, 13, 14, 32-50, 58-67 të këtij ligji, si dhe të gjitha të drejtat e parashikuara në këtë seksion të ligjit.
+2. Të paraburgosurit lejohen të informojnë menjëherë familjen për arrestimin dhe për vendndodhjen e tyre. Atyre u krijohen të gjitha kushtet e nevojshme të takohen me anëtarët e familjes, me përjashtim të rasteve kur kjo pengon ose nuk është në interes të zhvillimit të hetimit dhe gjykimit. Të paraburgosurit e huaj lejohen të informojnë përfaqësinë konsullore ose diplomatike të vendit të tyre. Në rastin kur i paraburgosuri është person pa shtetësi apo refugjat, ai lejohet të njoftojë një organizatë ndërkombëtare.
+3. Drejtori i institucionit të paraburgimit kufizon të drejtën e të paraburgosurit për të pritur vizita, për korrespondencë apo për biseda telefonike, kur është e nevojshme, për kryerjen e veprimeve procedurale penale të urdhëruara nga organi procedues përkatës.
+4. Në asnjë rast të paraburgosurit nuk mund të detyrohen të punojnë. Nëse të paraburgosurit zgjedhin të punojnë, ata u nënshtrohen kushteve të njëjta të punës me ato të parashikuara për të dënuarit me burgim.

@@ -1,0 +1,11 @@
+# Neni 45
+Arsimimi
+1. Arsimimi dhe formimi kulturor e profesional bëhen me anë të organizimit të programeve arsimore, si dhe të kurseve profesionale, sipas legjislacionit në fuqi për sistemin arsimor parauniversitar dhe legjislacionit në fuqi për arsimin dhe formimin profesional.
+2. Të burgosurit që nuk ka përfunduar arsimin nëntëvjeçar i krijohen kushte për përfundimin e tij me anë të një programi të veçantë, të miratuar nga ministria përgjegjëse për arsimin.
+3. I burgosuri ka të drejtë të vazhdojë arsimin e mesëm dhe të lartë gjatë kohës së qëndrimit në institucion, sipas rregullave të parashikuara në legjislacionit për arsimin parauniversitar dhe arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë.
+4. Për aq sa është e mundur, arsimimi i të burgosurit integrohet me sistemin arsimor dhe sistemin e trajnimit profesional për të lehtësuar vijimin e arsimimit dhe trajnimit profesional pa vështirësi pas përfundimit të kryerjes së dënimit. Arsimi dhe trajnimi profesional i të burgosurit zhvillohet nën vëzhgimin e institucioneve të jashtme arsimore dhe të formimit profesional.
+5. Drejtoria e Përgjithshme e Burgjeve, si dhe institucionet e ekzekutimit të vendimeve penale nxisin përfitimin, njohjen dhe certifikimin e kualifikimeve profesionale, si dhe kryerjen dhe lehtësimin e ndjekjes së kurseve profesionale duke përdorur kurset me kohë të pjesshme.
+6. Kujdes i veçantë i kushtohet formimit kulturor e profesional të të burgosurit me moshë nën 29 vjeç.
+7. Të burgosurve të mitur dhe të rinj u sigurohet arsimi bazë i detyrueshëm dhe, sipas rastit, edhe arsimi i mesëm ose i lartë. Organizimi i programeve arsimore dhe edukuese për të burgosurit e mitur dhe të rinj kryhet në përputhje me Kodin e Drejtësisë Penale për të Mitur.
+8. Të burgosurit që u përkasin pakicave kombëtare, që nuk kuptojnë ose nuk zotërojnë gjuhën shqipe, shtetasve të huaj ose personave pa shtetësi, që nuk kuptojnë gjuhën shqipe, u mundësohen materiale të shkruara në gjuhën e tyre ose në një gjuhë që e kuptojnë më mirë.
+9. Rregullat më të detajuara për mënyrën e zhvillimit të arsimit dhe formimit profesional përcaktohen me udhëzim të përbashkët të ministrit të Drejtësisë dhe ministrit përgjegjës për arsimin dhe formimin profesional.

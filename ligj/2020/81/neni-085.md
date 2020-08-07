@@ -1,0 +1,7 @@
+# Neni 85
+Inspektimi nga institucionet shtetërore
+1. Ministria e Drejtësisë, shërbimi i kontrollit të brendshëm në sistemin e ekzekutimit të vendimeve penale dhe Drejtoria e Përgjithshme e Burgjeve janë organet kompetente shtetërore për kryerjen e inspektimeve pranë institucioneve të ekzekutimit të vendimeve penale.
+2. Personat e autorizuar, me urdhër të ministrit të Drejtësisë ose drejtorit të Përgjithshëm të Burgjeve, gëzojnë të drejtën të inspektojnë institucionet e ekzekutimit të vendimeve penale dhe të bëjnë verifikime me objekt të përgjithshëm ose tematik.
+3. Për qëllime të zbatimit të këtij ligji, objekt i inspektimit janë vlerësimi i respektimit të parashikimeve të këtij ligjit lidhur me të drejtat dhe trajtimin e të burgosurve, si edhe çështjet konkrete të përcaktuara në urdhrin e inspektimit.
+4. Pas përfundimit të inspektimit, personat e autorizuar për kryerjen e inspektimeve, përgatisin rekomandimet, sipas rastit, për ministrin e Drejtësisë, drejtorin e Përgjithshëm të Burgjeve, ose drejtorin e institucionit për marrjen e masave të nevojshme për shkeljet e konstatuara.
+5. Rregullat e detajuara për kryerjen e inspektimeve në institucionet e ekzekutimit të vendimeve penale, të drejtat dhe detyrat e inspektorëve dhe subjekteve të inspektuara përcaktohen në legjislacionin në fuqi për shërbimin e kontrollit të brendshëm dhe ankesat në sistemin e ekzekutimit të vendimeve penale.

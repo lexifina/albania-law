@@ -1,0 +1,8 @@
+# Neni 33
+Mjediset e qëndrimit dhe të fjetjes
+1. Mjediset që u ofrohen të burgosurve dhe në veçanti mjediset e fjetjes respektojnë dinjitetin njerëzor dhe, sa më shumë të jetë e mundur, privatësinë, si dhe plotësojnë kërkesat shëndetësore dhe higjienike, duke u kushtuar rëndësinë e duhur kushteve të klimës, hapësirës së nevojshme, përmbajtjes kubike të ajrit, ndriçimit, ngrohjes dhe ajrimit.
+2. Kur nuk është e mundur të sigurohet fjetja në dhoma individuale, caktimi i të burgosurit në të njëjtën dhomë duhet të bëhet në mënyrë të tillë që të shmangen konfliktet dhe ndikimet negative të ndërsjella. Për këtë qëllim përdoren kriteret e grup-moshave, të llojit të veprave penale të kryera dhe të veçorive intelektuale e psikike të të burgosurve dhe për aq sa është e mundur edhe kërkesat e të burgosurve.
+3. Për çdo të burgosur sigurohet shtrat i veçantë dhe komplet i përshtatshëm fjetjeje.
+4. Në vendosjen e të burgosurve mbahen parasysh kushtet dhe mundësitë konkrete të çdo institucioni të ekzekutimit të vendimeve penale, si dhe kushtet e mundësitë e të burgosurve, por në çdo rast duke iu siguruar kubatura jo më pak se 9 m³ dhe sipërfaqja e banimit jo më pak se 4 m² për çdo të burgosur, dritare që mundësojnë ajrim të mjaftueshëm dhe ndriçim natyral normal për të lexuar e punuar.
+5. Standardet e dritave artificiale duhet të jenë të pranueshme, të ngjashme me standardet e ndriçimit artificial, që përdoret jashtë institucionit të ekzekutimit të vendimeve penale, dhe në përputhje me standardet teknike të përcaktuara nga legjislacioni në fuqi.
+6. Të burgosurve u sigurohet energji elektrike e nevojshme për ndriçim dhe nevoja të higjienës personale.

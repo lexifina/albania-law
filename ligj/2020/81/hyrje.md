@@ -1,0 +1,10 @@
+LIGJ
+Nr. 81/2020
+PËR TË DREJTAT DHE TRAJTIMIN E TË DËNUARVE ME BURGIM
+DHE TË PARABURGOSURVE
+Në mbështetje të neneve 78 dhe 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
+PJESA E PARË
+DISPOZITA TË PËRGJITHSHME

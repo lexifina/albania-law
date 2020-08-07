@@ -1,0 +1,5 @@
+# Neni 59
+Afatet e shqyrtimit të ankesës dhe të kërkesës
+1. Organet kompetente, sipas këtij ligji, shqyrtojnë ankesën dhe kërkesën sa më parë, por jo më vonë se 14 ditë nga paraqitja, përveç rasteve kur ky ligj parashikon afate të posaçme për shqyrtimin e tyre.
+2. Kundër vendimit të dhënë sipas pikës 1 të këtij neni, ose në rastin kur organet kompetente nuk shprehen me vendim, i burgosuri ka të drejtë të ankohet në rrugë administrative pranë Drejtorisë së Përgjithshëm të Burgjeve brenda 30 ditëve nga marrja dijeni. Kundër vendimit të Drejtorisë së Përgjithshme të Burgjeve i burgosuri ka të drejtë t’i drejtohet gjykatës kompetente sipas parashikimeve të nenit 80 të këtij ligji.
+3. I burgosuri ka të drejtë të paraqesë kërkesa dhe ankesa pranë Komisionit Ekzekutimit të Vendimeve Penale. Rregullat, procedurat dhe afatet e shqyrtimit të kërkesave dhe ankesave nga Komisioni i Ekzekutimit të Vendimeve Penale përcaktohen në përputhje me legjislacionin në fuqi për ekzekutimin e vendimeve penale.

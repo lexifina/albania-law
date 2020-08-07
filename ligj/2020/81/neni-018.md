@@ -1,0 +1,6 @@
+# Neni 18
+Institucionet e ekzekutimit të vendimeve penale të sigurisë së zakonshme
+1. Institucionet e sigurisë së zakonshme janë institucionet ku ekzekutohen dënimet ndaj të gjithë të dënuarve, me përjashtim të atyre që vendosen në institucionet e sigurisë së lartë, në institucionet e sigurisë së ulët dhe në institucionet e hapura.
+2. Kur gjykata në vendimin me burgim nuk është shprehur për llojin e institucionit ku do të ekzekutohet dënimi, i dënuari vendoset në një institucion të sigurisë së zakonshme, duke ruajtur të drejtën e prokurorit sipas parashikimeve të nenit 16, pika 3, të këtij ligji.
+3. Ndryshimi i klasifikimit të sigurisë së të dënuarve, që u ekzekutohet vendimi i dënimit në një institucion të sigurisë së zakonshme, kryhet nga Komisioni i Vlerësimit të Rrezikshmërisë së të Dënuarve, me përjashtim të rasteve të parashikuara në nenin 16 të këtij ligji.
+4. Kundër vendimit të komisionit të vlerësimit të rrezikshmërisë së të dënuarve, i dënuari, përfaqësuesi i tij ligjor ose prokurori mund të paraqesë ankim në gjykatë brenda 15 ditëve nga data e njoftimit të vendimit. Shqyrtimi i ankimit nga gjykata pezullon vendimin e komisionit të vlerësimit të rrezikshmërisë së të dënuarve për ndryshimin e klasifikimit të sigurisë së të dënuarit.
