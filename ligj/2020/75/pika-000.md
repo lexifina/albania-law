@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit nr. 21, datë 27.5.2020, “Për disa ndryshime në aktin normativ nr. 9, datë 25.3.2020, të Këshillit të Ministrave, ’Për marrjen e masave të veçanta në fushën e veprimtarisë gjyqësore, gjatë kohëzgjatjes së gjendjes së epidemisë së shkaktuar nga COVID-19’”, miratuar me ligjin nr. 30/2020.
