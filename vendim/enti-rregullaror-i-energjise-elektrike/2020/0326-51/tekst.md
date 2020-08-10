@@ -4,6 +4,10 @@ Nr. 51, datë 26.03.2020
 
 MBI DISA NDRYSHIME TË PËRKOHSHME NË PROCEDURAT E LICENCIMIT NË USHTRIMIN E VEPRIMTARIVE NË SEKTORIN E ENERGJISË ELEKTRIKE DHE GAZIT NATYROR NË KUADËR TË MASAVE PAS SHFAQJES SË VIRUSIT COVID-19 DHE SHPALLJES SË GJENDJES SË FATKEQËSISË NATYRORE NË VENDIN TONË
 
+(Ndryshuar me vendimin nr. 133, datë 10.8.2020)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16 dhe 20 të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike” të  ndryshuar, nenit 16 të ligjit nr. 102/2015,  datë 23.9.2015 “Për sektorin gazit natyror”, si dhe vendimit të Këshillit të Ministrave  nr. 243, datë 24.3.2020  “Për shpalljen e gjendjes së fatkeqësisë natyrore  në të gjithë Republikën e Shqipërisë për shkak të epidemisë së shkaktuar nga COVID-19”, vendimit të datës 9.3.2020 të Komitetit të Përkohshëm për  Infeksionin e Përhapur nga Corunavirus i ri, nenit 16 të “Rregullave të organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE nr. 96, datë 17.6.2016, Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 26.3.2020, pasi shqyrtoi relacionin “Për disa ndryshime të përkohshme në procedurat e licencimit në ushtrimin e veprimtarive në sektorin e energjisë elektrike dhe të gazit natyror, në kuadër të masave pas shfaqjes së virusit Covid-19, dhe shpalljes së gjendjes së fatkeqësisë natyrore në vendin tonë”,
 
  konstatoi se: 
@@ -56,11 +60,11 @@ VENDOSI:
 
 1. Pezullimin e zbatimit të nenit 9, pika 2, germa “d” të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, ndryshuar me vendimin e Bordit nr. 215/2019, si dhe nenit 9 pika 1 germa “d”, të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e gazit natyror”, miratuar nga Bordi i ERE-s me vendimin nr. 97, datë 04.07.2017.
 
-2. Subjektet e licencuara gjatë kësaj periudhe kanë detyrimin për t’i paraqitur jo më vonë se një muaj nga përfundimi i epidemisë Covid 19 vërtetimet e përcaktuara në nenin 9, pika 2, germa “d” të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, ndryshuar me vendimin e bordit nr. 215/2019, si dhe nenit 9 pika 1 germa “d”, të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e gazit natyror”, miratuar nga bordi i ERE-s me vendimin nr. 97, datë 4.7.2017.
+2. Subjektet e licencuara gjatë kësaj periudhe kanë detyrimin për t’i paraqitur jo më vonë se data 1.9.2020, vërtetimet e përcaktuara në nenin 9, pika 2, germa “d”, të rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike, ndryshuar, me vendimin e Bordit nr. 215/2019, si dhe nenit 9, pika 1, germa “d”, të Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e gazit natyror” miratuar nga Bordi i ERE-s, me vendimin nr. 97, datë 4.7.2017.
 
-3. Të gjitha licencat që përfundojnë deri në 30 qershor 2020 nuk do t’i nënshtrohen një procesi rinovimi. Këto subjekte kanë detyrimin për dorëzimin e një aplikimi për  rinovim licence, jo më vonë se 30 ditë nga përfundimi i gjendjes së epidemisë Covid 19. 
+3. Të gjitha licencat afati i të cilave ka përfunduar deri më 30 qershor 2020, ose subjektet afati i aplikimit për rinovimin e licencave, i korrespondon periudhës deri më 30 qershor 2020, kanë të drejtën për dorëzimin e një aplikimi për rinovim licence, jo më vonë se data 1.9.2020. 
 
-4. Subjektet që nuk dëshirojnë të rinovojnë licencat u garantohet e drejta për të njoftuar ERE për këtë vullnet të tyre dhe automatikisht pas përfundimit të licencave të dhëna më parë do të hiqen nga regjistri i të licencuarve në përfundim të afatit të licencës së mëparshme.
+4 Pezullimin e afateve të plotësimit të kushteve që lidhen me plotësimin e dokumentacionit, të përcaktuara në licencat e dhëna nga ERE në një nga veprimtaritë e parashikuara në ligjin nr. 43/2015 “Për sektorin e energjisë elektrike”, i ndryshuar, si dhe ligjin nr. 102/2015 “Për sektorin e gazit natyror”, i ndryshuar, deri jo më vonë se data 1.9.2020.
 
 5. Pezullimin e afateve të plotësimit të kushteve që lidhen me plotësimin e dokumentacionit, të përcaktuara në licencat e dhëna nga ERE në një nga veprimtaritë e parashikuara në ligjin nr.43/2015 “Për sektorin e energjisë elektrike”, i ndryshuar, si dhe ligjin nr.102/2015 “Për sektorin e gazit natyror” i ndryshuar, deri jo më vonë se 30 ditë nga përfundimi i gjendjes së epidemisë Covid 19.
 
