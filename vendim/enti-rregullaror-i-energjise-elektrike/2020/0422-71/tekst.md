@@ -4,6 +4,10 @@ Nr. 71, datë 22.4.2020
 
 MBI LICENCIMIN E SHOQËRISË “KALISI HYDROPOWER” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-et “VELESHICA 1”, ME KAPACITET TË INSTALUAR 5801 kw DHE “VELESHICA 2”, ME KAPACITET TË INSTALUAR 8116 kw, ME KAPACITET TOTAL TË INSTALUAR 13917 kw
 
+(Ndryshuar me vendimin nr. 135, datë 10.8.2020)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16 dhe të nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neni 11 të Kodit të Procedurave Administrative të Republikës së Shqipërisë; të nenit 4, pika 1, germa “a”, të nenit 5, pika 1, germa “a” dhe të nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE nr. 109, datë 29.6.2016; dhe të nenit 15 të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; të vendimit të Bordit të ERE-s nr. 51, datë 26.3.2020, “Mbi disa ndryshime të përkohshme në procedurat e licencimit në ushtrimin e veprimtarive në sektorin e energjisë elektrike dhe të gazit natyror, në kuadër të masave pas shfaqjes së virusit COVID-19 dhe shpalljes së gjendjes së fatkeqësisë natyrore në vendin tonë”, Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 22.4.2020, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, mbi licencimin e shoqërisë “Kalisi Hydropower” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike,
 
  konstatoi se: 
@@ -60,7 +64,7 @@ VENDOSI:
 
 2. Shoqëria “Kalisi Hydropower” sh.p.k. të depozitojë në ERE kontratën e rinovuar të qirasë për truallin ku do të ushtrohet veprimtaria, jo më vonë se 3 (tre) muaj përpara përfundimit të afatit të saj.
 
-3. Shoqëria “Kalisi Hydropower” sh.p.k. të depozitojë në ERE jo më vonë se një muaj nga përfundimi i epidemisë COVID-19 vërtetimet e lëshuara nga prokuroria dhe Gjykata e Rrethit të Tiranës për shoqërinë dhe administratorin e saj.
+3. Shfuqizuar.
 
 4. Mosplotësimi i kushteve të këtij vendimi përbën shkak për rishikimin e tij. 
 
