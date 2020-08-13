@@ -1,0 +1,1 @@
+8. Për çdo ndryshim të të dhënave të shënuara në regjistër, ndërmjetësi deklaron pranë strukturës përgjegjëse në Ministrinë e Drejtësisë, të dhënat e përditësuara, jo më vonë se 10 ditë nga data e ndryshimit të tyre.

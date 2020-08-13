@@ -1,0 +1,1 @@
+13. Ndërmjetësi paraqet dokumentacionin e kërkuar për plotësimin e dosjes personale, menjëherë me depozitimin e kërkesës pranë Ministrisë së Drejtësisë, për regjistrimin në Regjistër dhe, në çdo rast, jo më vonë se 20 ditë pune.

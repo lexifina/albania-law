@@ -1,0 +1,1 @@
+19. Ngarkohet Drejtoria e Miradministrimit të Burimeve Njerëzore, Aseteve dhe Shërbimeve, të marrë masa për vënien në dispozicion, brenda 30 ditëve nga hyrja në fuqi e këtij urdhri, të Regjistrit të Ndërmjetësve, sipas formatit të përcaktuar në shtojcën nr. 1.

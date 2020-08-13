@@ -1,0 +1,1 @@
+10. Regjistri i Ndërmjetësve qëndron në Ministrinë e Drejtësisë dhe informacioni mbi të dhënat, shënimet, ndryshimet dhe faktet e treguara në të, autorizohen vetëm nga ministri i Drejtësisë, në përputhje me legjislacionin për të drejtën e informimit dhe për mbrojtjen e të dhënave personale.

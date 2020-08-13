@@ -1,0 +1,1 @@
+17. Ngarkohet Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë, përmes sektorit përgjegjës, për plotësimin në format elektronik dhe manual, të Regjistrit të Ndërmjetësve, pas plotësimit të dosjeve personale të ndërmjetësve të licencuar dhe në çdo rast, jo më vonë se 6 muaj nga hyrja në fuqi e këtij urdhri.

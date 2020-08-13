@@ -1,0 +1,1 @@
+3. Regjistri i Ndërmjetësve krijohet, administrohet dhe përditësohet në format të integruar manual dhe elektronik nga struktura përgjegjëse pranë Drejtorisë së Përgjithshme Rregullatore të Çështjeve të Drejtësisë në Ministrinë e Drejtësisë.

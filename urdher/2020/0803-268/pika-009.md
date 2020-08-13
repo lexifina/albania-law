@@ -1,0 +1,1 @@
+9. Struktura përgjegjëse pranë Drejtorisë së Përgjithshme Rregullatore të Çështjeve të Drejtësisë në Ministrinë e Drejtësisë kryen të paktën 1 (një) herë në vit përditësimin e të dhënave në Regjistrin e Ndërmjetësve.

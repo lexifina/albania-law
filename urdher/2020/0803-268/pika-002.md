@@ -1,0 +1,1 @@
+2. Në Regjistrin e Ndërmjetësve regjistrohen të gjithë ndërmjetësit, të cilët janë licencuar nga Ministria e Drejtësisë dhe kanë paraqitur kërkesën për regjistrim në Regjistrin e Ndërmjetësve, për të ushtruar veprimtarinë e ndërmjetësit, jo më vonë se 10 ditë nga licencimi i tyre.
