@@ -1,0 +1,1 @@
+1. Ministri i Drejtësisë i njeh shtetasit të huaj titullin ndërmjetës të fituar në një shtet të huaj, nëse plotëson kushtet për t’u licencuar si ndërmjetës, sipas parashikimeve të ligjit për ndërmjetësimin dhe zgjidhjen e mosmarrëveshjeve, sipas rregullave dhe procedurave të përcaktuara në këtë urdhër.
