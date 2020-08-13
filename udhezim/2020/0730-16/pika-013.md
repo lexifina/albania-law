@@ -1,0 +1,1 @@
+13. Nëse noteri nuk është në gjendje të kalojë, sipas aktit noterial, vlerat monetare te përfituesi i përcaktuar dhe në afatin kohor të specifikuar në aktin noterial, ai pasi të ketë mbaruar një afat i tillë, me procesverbalin përkatës i dorëzon të nesërmen e mbarimit të afatit të përcaktuar, vlerat monetare palës depozituese.

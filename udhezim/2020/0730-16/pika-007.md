@@ -1,0 +1,2 @@
+7. Pas kryerjes së procedurave ligjore të regjistrimit të aktit noterial, sipas specifikimeve në aktin noterial, noteri transferon në llogarinë bankare të përfituesit të destinuar, shumën e depozituar në llogarinë e posaçme bankare, duke zbritur komisionin bankar të aplikuar nga banka për transfertën e kryer.
+III. TRANSAKSIONET FINANCIARE, TË CILAT BUROJNË NGA AKTE NOTERIALE QË PËRMBAJNË DETYRIME NDËRMJET KLIENTËVE

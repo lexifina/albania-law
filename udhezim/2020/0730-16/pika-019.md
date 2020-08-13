@@ -1,0 +1,1 @@
+19. Trajtimi i transaksioneve financiare për kalimin e pronësisë së pasurisë së paluajtshme, nëpërmjet llogarisë së posaçme bankare të noterit, kryhet në përputhje me rregullat nënligjore që përcaktojnë procedurën teknike për kryerjen e pagesës në rastet e kalimit të pasurisë së paluajtshme.

@@ -1,0 +1,1 @@
+1. Për ushtrimin e veprimtarisë, noteri hap llogari të posaçme bankare pranë bankave të nivelit të dytë, me qëllim kryerjen e transaksioneve financiare që kanë për objekt transferimin e vlerave monetare për llogari të klientit ose të një pale të tretë, sipas kushteve dhe afateve të përcaktuara në aktet noteriale të hartuara prej tij.

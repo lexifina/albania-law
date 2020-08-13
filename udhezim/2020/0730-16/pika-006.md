@@ -1,0 +1,1 @@
+6. Pas marrjes së dokumentit bankar, që provon pagimin e çmimit të pasurisë së paluajtshme në llogarinë e posaçme bankare të noterit, ky i fundit kryen procedurat ligjore për regjistrimin e aktit noterial në regjistrat e posaçëm pranë Drejtorisë Rajonale të Agjencisë Shtetërore të Kadastrës, së bashku me një kopje të dokumentit bankar që konfirmon kryerjen e këtij transaksioni.

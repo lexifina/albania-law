@@ -1,0 +1,1 @@
+15. Fondet e depozituara në llogarinë e posaçme të noterit mbahen për llogari të klientit apo të një pale të tretë, për të cilat janë marrë dhe mbahen këto para. Mbajtja e fondeve të klientit ose e fondeve të palëve të treta në llogaritë personale të noterit është e ndaluar kategorikisht.
