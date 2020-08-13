@@ -1,0 +1,1 @@
+3. Zëvendësnoteri është i detyruar të kryejë personalisht, me besnikëri dhe përkujdesje, punët ose veprimet juridike që i janë ngarkuar, sipas kontratës së punës ose/dhe aktit të posaçëm të autorizimit të lëshuar nga noteri, sipas udhëzimeve të këtij të fundit.

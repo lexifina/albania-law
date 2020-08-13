@@ -1,0 +1,1 @@
+2. Veprimtaria profesionale e zëvendësnoterit ushtrohet sipas parashikimeve të ligjit për noterinë, të kontratës së nënshkruar midis tij dhe noterit, si dhe autorizimit përkatës të dhënë nga noteri, pranë të cilit është emëruar dhe ushtron funksionin e tij.

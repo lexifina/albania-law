@@ -1,0 +1,1 @@
+12. Noteri dhe zëvendësnoteri garantojnë zbatimin në mirëbesim të kontratës së punës dhe përgjigjen për respektimin e kushteve kontraktuale të detyrueshme të kësaj kontrate, të përcaktuara në aneksin 1 bashkëlidhur këtij urdhri, pjesë përbërëse e tij.

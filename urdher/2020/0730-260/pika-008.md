@@ -1,0 +1,1 @@
+8. Gjatë ushtrimit të veprimtarisë juridike, zëvendësnoteri duhet të mbajë një qëndrim të paanshëm, të ruajë një pozicion etik, në lidhje me interesat e klientit/palëve të zyrës noteriale ku është emëruar dhe ushtron funksionin e tij, duke vendosur një disiplinë që garanton siguri dhe besim për ta.

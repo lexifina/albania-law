@@ -1,0 +1,1 @@
+5. Zëvendësnoteri e kryen veprimtarinë e tij juridike në emër dhe për llogari të noterit, ku ushtron funksionin e tij. Zëvendësnoteri ka të njëjtat të drejta dhe detyrime si noteri dhe realizon detyrat dhe detyrimet e noterit në vend të tij.

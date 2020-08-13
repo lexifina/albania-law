@@ -1,0 +1,1 @@
+4. Noteri, pranë të cilit ushtron funksionin e tij zëvendësnoteri, merr masat e përshtatshme për të mbrojtur qëndrueshmërinë kontraktuale, duke garantuar mosndërprerjen e njëanshme të kontratës së punës së zëvendësnoterit, pa shkaqe të arsyeshme nga ana e noterit.

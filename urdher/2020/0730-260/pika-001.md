@@ -1,0 +1,1 @@
+1. Zëvendësnoteri ka të drejtë dhe detyrë të ushtrojë veprimtarinë e tij profesionale, duke asistuar noterin në ushtrimin e funksionit të tij, si dhe u nënshtrohet ligjit për noterinë dhe akteve të nxjerra në bazë dhe për zbatim të tij.
