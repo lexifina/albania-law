@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare, në shumën 500 000 (pesëqind mijë lekë), familjes së të miturit Samuel Nik Ndoj, të aksidentuar për vdekje gjatë operacionit humanitar të datës 15 gusht 2020, në afërsi të pikës së kalimit kufitar Kakavijë.
