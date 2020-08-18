@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor jopublik parauniversitar, kopshti “Memorial”, Tiranë, hapur me urdhrin nr. 175, datë 16.6.2005, të ministrit të Arsimit dhe Shkencës “Për funksionimin e institucionit arsimor jopublik parauniversitar: -kopshti ’Memorial’”, në emër të shoqërisë “UFUK, Education & Publication Company” sh.p.k.
