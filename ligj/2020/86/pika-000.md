@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 24, datë 27.5.2020 “Për një shtesë në aktin normativ nr. 3, datë 15.3.2020, të Këshillit të Ministrave, ’Për marrjen e masave të veçanta administrative gjatë kohëzgjatjes së periudhës së infeksionit të shkaktuar nga Covid-19’, të ndryshuar”.
