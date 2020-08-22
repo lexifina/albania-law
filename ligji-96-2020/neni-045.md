@@ -1,0 +1,6 @@
+# Neni 45
+Mbajtja në tokë e avionit
+1. Kur mospërmbushja e standardeve të sigurisë në operim rrezikon dukshëm sigurinë e fluturimit, operatorit të avionit i jepet mundësia të korrigjojë mangësitë përpara nisjes së fluturimit. Kur vërehet se avioni ka për qëllim të operohet pa përmbushur masat korrigjuese nga operatori ose pronari i tij, AAC-ja duhet të njoftojë pilotin në komandë ose operatorin për moslejimin e kryerjes së fluturimit deri në një njoftim të dytë dhe për mbajtjen në tokë të avionit.
+2. Në rast të mbajtjes në tokë të një avioni, AAC-ja njofton menjëherë autoritetet kompetente të operatorit dhe të shtetit të regjistrit të avionit.
+3. AAC-ja në bashkëpunim me shtetin përgjegjës për operimin e avionit, ose shtetin e regjistrit të avionit, përcaktojnë kushtet e nevojshme që duhet të përmbushë avioni për t’u lejuar të fluturojë në një aeroport ku mangësitë mund të korrigjohen.
+4. Kur mospërputhshmëria ndikon në vlefshmërinë e certifikatës së vlefshmërisë ajrore, avioni lejohet të fluturojë vetëm nëse operatori vërteton se përputhshmëria me kërkesat e aplikueshme rivendoset, është pajisur me leje për fluturim sipas rregullave të aplikueshme dhe lejet nga vendet ku do të mbikalojë, nëse aplikohet.

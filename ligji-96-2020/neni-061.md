@@ -1,0 +1,4 @@
+# Neni 61
+Ndikimi në instalimet e KLM-së
+1. Ofruesi i shërbimeve të komunikimit, lundrimit dhe mbikëqyrjes (KLM) informon AAC-në për vendndodhjen e të gjitha instalimeve të KLM-së dhe zonat përreth këtyre instalimeve, ku mund të ndodhin ndërhyrje, si pasojë e ndërtimeve. AAC-ja informon ofruesin e shërbimeve për planifikimin e këtyre ndërtimeve në zonat e mësipërme. Asnjë ndërtim nuk do të lejohet nëse ofruesit e shërbimeve të KLM-së i argumentojnë AAC-së që ndërtimet e ardhshme ndikojnë në instalimet e KLM-së.
+2. Pronari dhe çdo person me të drejta mbi ndërtesën pranojnë modifikimin e ndërtesave, të cilat ndërhyjnë në instalimet e KLM-së, në mënyrë të tillë që ndërhyrja të eliminohet ose, kur është e mundur, të shmanget nga ofruesit e shërbimeve të KLM-së me kosto, e cila nuk është më e lartë se kostoja për ndryshimet e ardhshme të ndërtesës.

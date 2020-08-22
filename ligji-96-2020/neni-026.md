@@ -1,0 +1,5 @@
+# Neni 26
+Personeli i aviacionit
+1. Pilotët dhe ekuipazhi i kabinës, të angazhuar në operimin e avionit, ashtu si dhe mjetet e simulimit të fluturimit, personat dhe organizatat e përfshira në trajnim, në testim, në kontrollin apo në vlerësimin mjekësor të ekuipazhit, duhet të jenë mbajtës të një licence, certifikate ose dëshmie të kompetencës sipas privilegjeve, kategorizimeve përkatëse, të dhëna apo të pranuara si të vlefshme, sipas këtij Kodi dhe akteve nënligjore në zbatim të tij.
+2. Pika 1 e këtij neni zbatohet edhe për punonjësit e sektorëve të tjerë të aviacionit, si të shërbimeve të lundrimit ajror, të mirëmbajtjes, të operimit të fluturimit dhe operatorët e stacioneve aeronautike.
+3. Personeli i parashikuar në këtë nen dhe çdo personel tjetër, i cili ushtron funksionet e tij në aviacionin civil, nuk lejohet të ushtrojë këto funksione nën efektin e alkoolit, narkotikëve ose simulantëve të tjerë, ose kur është në gjendje psikologjike që e bën atë të papërshtatshëm për të kryer detyrat e tij në mënyrën e duhur dhe të sigurt.

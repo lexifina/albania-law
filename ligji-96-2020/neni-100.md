@@ -1,0 +1,9 @@
+# Neni 100
+Autoriteti Kombëtar i Investigimit për Sigurinë e Operimit
+1. Investigimi i aksidenteve dhe i incidenteve të rënda kryhet nga Autoriteti Kombëtar i Investigimit për Sigurinë e Operimit (safety) në Aviacionin Civil, në varësi të ministrit.
+2. Organizimi dhe funksionimi i Autoritetit Kombëtar të Investigimit për Sigurinë e Operimit në Aviacionin Civil (Autoriteti i Investigimit) përcaktohen me vendim të Këshillit të Ministrave.
+3. Autoriteti i Investigimit, nga pikëpamja funksionale dhe organizative, është i pavarur nga autoritetet e aviacionit, të cilët mbikëqyrin vlefshmërinë ajrore, licencimin, operimin e një avioni, mirëmbajtjen, licencimin e personelit, kontrollin e trafikut ajror dhe operimin e aerodromeve, si edhe nga të gjithë personat fizikë e juridikë, interesat ose misioni i të cilëve mund të jenë në konflikt me detyrën e ngarkuar tek autoriteti i investigimit, ose mund të influencojnë në objektivitetin e këtij autoriteti.
+4. Autoriteti i investigimit mund të bashkëpunojë me shtete të tjera për kryerjen e investigimeve.
+5. Autoriteti i investigimit mund të delegojë detyrën e kryerjes së një investigimi për një aksident ose incident të rëndë te një autoritet homolog i një shteti tjetër, në varësi të një marrëveshjeje të përbashkët dhe mundëson kryerjen e procesit të investigimit nga ky autoritet tjetër.
+6. Autoriteti i investigimit investigon edhe aksidente apo incidente të rënda, që përfshijnë avionë të regjistruar në Republikën e Shqipërisë apo që operohen nga një sipërmarrje e vendosur në Republikën e Shqipërisë, të cilat kanë ndodhur jashtë territorit të saj, kur hetime të tilla nuk kryhen nga një shtet tjetër.
+7. Autoriteti i Investigimit ka të paktën një investigues të aftë për të kryer funksionin e investiguesit në detyrë, në rastin e një aksidenti ajror.

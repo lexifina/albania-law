@@ -1,0 +1,7 @@
+# Neni 27
+Pranimi i licencave të huaja
+1. Bazuar në një licencë ose certifikim të lëshuar në një vend tjetër, përfshirë edhe vendet e ZPEA-së, sipas përcaktimeve të marrëveshjes shumëpalëshe, për sa kohë Shqipëria nuk është pjesë e Zonës së Përbashkët Evropiane të Aviacionit, AAC-ja mund të lëshojë një licencë apo certifikatë për të interesuarit, ashtu siç parashikohet në nenin 26 të këtij Kodi dhe në aktet nënligjore në zbatim të tij.
+2. Në rast se AAC-ja zgjedh të mos zbatojë pikën 1 të këtij neni, licencat dhe certifikimet e anëtarëve të ekuipazhit të fluturimit, ashtu si dhe të mjeteve të simulimit të fluturimit, e personave dhe organizatave të përfshira në trajnim, në testim, në kontrollin ose vlerësimin mjekësor të ekuipazhit, të lëshuara në një vend të huaj, pranohen si të vlefshme bashkë me privilegjet e certifikatat që u përkasin licencave, pa asnjë vonesë apo teste shtesë, në rast se ato bazohen mbi kërkesa, të cilat janë të njëjta ose më të larta se standardet e vendosura sipas këtij Kodi dhe aktet nënligjore në zbatim të tij dhe kur kjo parashikohet:
+a) në marrëveshjet ndërkombëtare për njohjen e certifikatave të lidhura mes Republikës së Shqipërisë dhe shtetit në fjalë; ose
+b) në një rregullore të miratuar nga ministri.
+3. Pika 1 e këtij neni zbatohet, gjithashtu, për licencat dhe kategorizimet për punonjësit e sektorëve të tjerë të aviacionit, si të shërbimeve të lundrimit ajror, të mirëmbajtjes, të operimit të fluturimit dhe operatorët e stacioneve aeronautike, në përputhje me rregullat e miratuara nga ministri.

@@ -1,0 +1,7 @@
+# Neni 114
+Organizimi dhe mbikëqyrja e sigurisë në aviacionin civil
+1. Autoriteti përgjegjës për sigurinë e aviacionit civil në Republikën e Shqipërisë është AAC-ja, përveç kur parashikohet ndryshe në këtë Kod.
+2. Përveçse kur parashikohet ndryshe në këtë Kod, AAC-ja ndërmerr masat e nevojshme rregullative për parandalimin e ndërhyrjeve të paligjshme në aviacionin civil.
+3. AAC-ja ka detyrimin e përgjegjësinë për hartimin, zhvillimin, zbatimin dhe mbikëqyrjen e zbatimit të ligjeve, rregulloreve, praktikave dhe procedurave për mbrojtjen e aviacionit civil nga aktet e ndërhyrjes së paligjshme, duke marrë parasysh sigurinë e operimit (safety), rregullshmërinë dhe eficiencën e fluturimeve, në përputhje me detyrimet ndërkombëtare.
+4. Me qëllim koordinimin e aktiviteteve të sigurisë ndërmjet departamenteve dhe organizatave të tjera shtetërore, aeroporteve dhe operatorëve ajrorë, ofruesit të shërbimeve të lundrimit ajror dhe entiteteve të tjera të lidhura ose që janë përgjegjëse për zbatimin e Programit Kombëtar të Sigurisë së Aviacionit Civil dhe standardeve për mbrojtjen e aviacionit civil nga aktet e ndërhyrjeve të paligjshme, krijohet Komiteti Kombëtar i Sigurisë së Aviacionit Civil, i kryesuar nga drejtuesi i AAC-së.
+5. Përbërja dhe funksionimi i Komitetit Kombëtar të Sigurisë së Aviacionit Civil miratohet me vendim të Këshillit të Ministrave, me propozimin e ministrit përgjegjës për transportin.

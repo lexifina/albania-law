@@ -1,0 +1,8 @@
+# Neni 35
+Operimi në hapësirën ajrore shqiptare
+1. Avionët shqiptarë operojnë në hapësirën ajrore të Republikës së Shqipërisë vetëm nëse janë regjistruar në regjistrin e avionëve civilë të Republikës së Shqipërisë.
+2. Avionët, të cilët nuk janë të regjistruar në Republikën e Shqipërisë në përputhje me dispozitat e këtij Kodi, hyjnë/operojnë në hapësirën ajrore shqiptare vetëm me leje paraprake të AAC-së, përveç rastit kur parashikohet ndryshe në marrëveshjen shumëpalëshe ose marrëveshje të tjera ndërkombëtare, të zbatueshme në shtetin e regjistrimit e në Republikën e Shqipërisë.
+3. Në rastet e emergjencave, si: kushtet e këqija të motit, aktivitetet humanitare, aktivitetet për mbrojtjen nga zjarri të njerëzve dhe vlerave materiale, ose në rastet e akteve të ndërhyrjeve të paligjshme, Ofruesi i Shërbimeve të Lundrimit Ajror (në vijim “OSHLA”) mund të lëshojë një leje për hyrjen apo daljen përtej kufijve të miratuar dhe mund të pranojë ndryshime të rrugës së fluturimit të një avioni.
+4. Në rast të hyrjes apo të daljes së një avioni pa kërkesë e pa leje për të operuar, OSHLA-ja duhet të njoftojë pa asnjë vonesë ministrinë përgjegjëse për mbrojtjen dhe ministrinë përgjegjëse për rendin publik.
+5. Një avion shtetëror i huaj paraqet një plan fluturimi vetëm nëse për fluturimin e tij ministria përgjegjëse për punët e jashtme ka lëshuar leje diplomatike e në rastin e avionëve shtetërorë ushtarakë edhe me miratimin e ministrisë përgjegjëse për mbrojtjen. Leja mund të jetë për një fluturim ose vjetore.
+6. Rregullat dhe procedurat për bashkërendimin e veprimeve sipas pikës 5 të këtij neni, përcaktohen me udhëzim të përbashkët të ministrit përgjegjës për transportin, të ministrit për punët e jashtme dhe të ministrit përgjegjës për mbrojtjen.

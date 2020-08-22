@@ -1,0 +1,9 @@
+LIGJ
+Nr. 96/2020
+KODI AJROR I REPUBLIKËS SË SHQIPËRISË
+Në mbështetje të neneve 81 e 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
+KAPITULLI I
+OBJEKTI, SUBJEKTET DHE PARIMET E PËRGJITHSHME
