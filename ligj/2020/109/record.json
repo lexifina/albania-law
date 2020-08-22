@@ -1,0 +1,26 @@
+{
+  "qbz_id": 21946,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 4/2020, “Për shkëmbimin automatik të informacionit të llogarive financiare\"",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "109",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2020-07-29",
+  "published": "2020-08-07",
+  "in_force": "2020-08-22",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/2d7a3f36548da4a3bf4a306aae2f67c29bcabdae0ecce8970618dd6d8265bee1.docx",
+  "source_sha256": "2d7a3f36548da4a3bf4a306aae2f67c29bcabdae0ecce8970618dd6d8265bee1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/21946",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2020/07/29/109",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
