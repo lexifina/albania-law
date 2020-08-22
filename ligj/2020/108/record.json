@@ -1,0 +1,26 @@
+{
+  "qbz_id": 21944,
+  "title": "Për një ndryshim në ligjin nr. 87/2019 “Për faturën dhe sistemin e monitorimit të qarkullimit",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "108",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2020-07-29",
+  "published": "2020-08-07",
+  "in_force": "2020-08-22",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/d6163867c770eb7020833a77fec6dc5c29cb9f3fc09c3420f5a2833782f59b2b.docx",
+  "source_sha256": "d6163867c770eb7020833a77fec6dc5c29cb9f3fc09c3420f5a2833782f59b2b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/21944",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2020/07/29/108",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
