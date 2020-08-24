@@ -7,10 +7,11 @@ b) identifikimi i pronarit përfitues (personit fizik) dhe verifikimi i këtij i
 Në rastin e personave juridikë dhe organizimeve ligjore, masat e marra duhet të përfshijnë njohjen e pronësisë dhe strukturës së kontrollit të tyre.
 c) mbledhja e informacionit mbi qëllimin dhe natyrën e caktuar të marrëdhënieve të biznesit;
 ç) kryerjen e monitorimit të vazhdueshëm të marrëdhënieve të biznesit dhe të shqyrtimit të transaksioneve, për t’u siguruar që janë në përputhje me natyrën e biznesit të klientit dhe profilin e rrezikut, duke përfshirë, kur është e nevojshme, edhe burimin e fondeve.
-2. Në zbatim të neneve 4, 4/1 dhe 5 të ligjit nr. 9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit”, të ndryshuar, subjektet duhet të bëjnë identifikimin e klientëve (të përhershëm apo rastësorë) dhe verifikimin e identitetit të tyre me anë të burimeve të pavarura dhe të besueshme nëpërmjet dokumenteve të vlefshme origjinale ose fotokopje të noterizuara:
+2. Në zbatim të neneve 4, 4/1 dhe 5 të ligjit nr. 9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit”, të ndryshuar, subjektet duhet të bëjnë identifikimin e klientëve (të përhershëm apo rastësorë) dhe verifikimin e identitetit të tyre me anë të burimeve të pavarura dhe të besueshme nëpërmjet dokumenteve të vlefshme origjinale ose fotokopje të noterizuara ose dokument elektronik që plotëson kushtet e vlefshmërisë, sipas legjislacionit në fuqi për dokumentin elektronik ose nënshkrimin elektronik:
 a) Për individët dhe përfaqësuesit ligjorë:
 - Letërnjoftim ID (kartë identiteti);
 - Pasaportë brenda afatit të skadencës;
+- Dokument identifikimi, i njohur me marrëveshje ndërkombëtare, brenda afatit të vlefshmërisë
 Për individë jorezidentë:
 - Pasaportë, brenda afatit të kadencës.
 - ID kartë identiteti (vetëm për vendet e BE-së) brenda afatit të kadencës.
@@ -33,7 +34,7 @@ a) Për individët dhe përfaqësuesit ligjorë:
 - Certifikata të lëshuara nga zyrat e gjendjes civile;
 - Leje drejtimi e automjetit;
 - Leje hyrje apo qëndrimi për të huajt;
-- Libreza apo kontratë pune;
+- Libreza/ kontrata pune, vërtetim pune apo dokument tjetër që provon marrëdhënien e punës;
 - Kontrata e blerjes/qirasë së banesës;
 - Kontrata me operatorë shërbimesh, si: telefon fiks, celular, ujë, energji elektrike etj.;
 - Vërtetim vendbanimi të lëshuar nga autoritetet vendore.
@@ -44,7 +45,7 @@ b) Për personat fizikë dhe juridikë që zhvillojnë veprimtari fitimprurëse:
 c) Për personat juridikë që nuk zhvillojnë veprimtari fitimprurëse:
 - Leje/licencat të ushtrimit të aktivitetit;
 - Kontrata e blerjes/qirasë së selisë dhe vendit të ushtrimit të aktivitetit.
-4. Masat e vigjilencës së duhur duhet të zbatohen nga vetë subjektet dhe mbështetja në palë të treta nuk është e lejueshme.
+4. Për organizimet ligjore: identifikimin e themeluesit, të përfituesit, të kujdestarit ose të personit që ushtron kontroll faktik mbi to, sipas të dhënave të parashikuara në shkronjat e mësipërme, në varësi të faktit nëse është person fizik ose person juridik privat.
 5. Subjektet duhet të identifikojnë dhe të verifikojnë identitetin e pronarit përfitues përfundimtar (i cili duhet të jetë gjithmonë person fizik), duke kërkuar dokumente shtesë, të cilët provojnë identitetin dhe lidhjen e pronarit përfitues me personin juridik dhe me atë që kryen transaksionin.
 Shembulli 1
 Në figurën 1

@@ -1,210 +1,105 @@
 # Shtojca
-ANEKSI I
-RAPORTI I AKTIVITETIT TË DYSHIMTË (RAD)
-1. Zgjidhni një prej kutive:
-□ Pastrim parash; □ Financim i terrorizmit; □ Fonde që rrjedhin nga veprimtari kriminale;
-2. Zgjidhni një prej kutive:
-□ Raport i ri; □ Përmirëson një raport të mëparshëm;
-Pjesa I. Informacion mbi aktivitetin e dyshimtë:
-Statusi ligjor i personit: a) Individ; b) Person fizik tregtar; c) Person juridik;
-d) Përfaqësues ligjor;
-1. a) Emri:________b) Atësia:__________ c) Mbiemri:___________ ç) Emri i shoqërisë:__________
-2. Datëlindja/data e regjistrimit:__.___._____
-3. Shtetësia:_______________________
-4. Dokumenti i identifikimit:
-a) □ Letërnjoftim; b) □ pasaportë; c) □ certifikatë; d) □ tjetër:_________;
-Numri i dokumentit:____________________
-Autoriteti:______________________
-5. NUIS/NIPT:
-6. Adresa:
-7. Punësim/lloji i aktivitetit:_______________________________________
-8. Personat e përfshirë në aktivitetin e dyshimtë:
-Emri:________Atësia:__________ Mbiemri:___________ Datëlindja:__.___._____
-Emri:________Atësia:__________ Mbiemri:___________ Datëlindja:__.___._____
-9. Data e kryerjes së transaksionit ____,____,_______;
-Monedha: LEK EUR USD Tjetër _________;
-10. Shuma e transaksionit: ____________________________ ; Numri i transaksioneve____________;
-11. Numri i llogarisë/ve : a)______________________;
-b)___________________________;
-12. Nr. rep. ____ Nr. kol. ____ Datë
-Pjesa II. Shpjegime/përshkrime të aktivitetit të dyshimtë:
-....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
-Pjesa III. Lista e dokumenteve shoqëruese:
-............................................................................................................................
-Pjesa IV. Informacion mbi subjektin raportues:
-Emri: ___________________________________;
-Personi përgjegjës:_________________________;
-Firma:______________________________;
-Data e raportimit:____.____._______;
-Tel./Email:__________________________;
-__________________________;
-Aprovuesi:______________________________; Adresa:____________________________;
-INSTRUKSIONE PËR PLOTËSIMIN E FORMULARIT “RAPORTI I AKTIVITETIT TË DYSHIMTË” (RAD)
+INSTRUKSIONE
+PËR PLOTËSIMIN E FORMULARIT “RAPORTI I AKTIVITETIT TË DYSHIMTË” RAD
 HYRJE
 “Raporti i aktivitetit të dyshimtë” (RAD) është formulari që i bashkëlidhet këtij udhëzimi, me anë të të cilit subjektet raportojnë tek autoriteti përgjegjës për çdo transaksion dhe aktivitet të dyshimtë. Ky formular plotësohet nga subjektet, për rastet kur e dinë apo dyshojnë se po kryhet, është kryer apo tentohet të kryhet pastrimi i produkteve të veprës penale apo financimi i terrorizmit apo fondet e përfshira rrjedhin nga veprimtari kriminale. Raportimi bëhet me anë të formularit (RAD) menjëherë dhe jo më vonë se 72 orë.
-1. Shënohet një kryq në kutinë përkatëse, sipas rastit, nëse aktiviteti dyshohet se ka të bëjë me pastrim parash, financim të terrorizmit apo fondet rrjedhin nga veprimtari kriminale.
-2. Shënohet një kryq në kutinë përkatëse, sipas rastit, nëse dërgohet te DPPPP-ja, një raport i ri apo bëhet përmirësim i një raporti të mëparshëm.
-Pjesa I. Informacion mbi aktivitetin e dyshimtë
-Statusi ligjor i personit: Me anë të zgjedhjes së një prej kutive, subjekti raportues jep informacion për statusin ligjor të personit/ave të përfshirë në aktivitetin e dyshimtë sipas rastit personit juridik, fizik, tregtar dhe përfaqësues ligjor.
-Emri, atësia, mbiemri ose emri i shoqërisë: Shkruhen emri, atësia dhe mbiemri për individin dhe emri i shoqërisë për personat juridikë apo i subjektit për personat fizikë tregtarë.
-Datëlindja/data e regjistrimit (dd.mm.vvvv): Nëse personi në emër të të cilit kryhet transaksioni/et është individ, shkruani datën e lindjes, përndryshe shkruhet data e regjistrimit të shoqërisë. Data shkruhet në formatin tetëshifror. Dy shifrat e para tregojnë datën kalendarike të muajit, dy të dytat tregojnë muajin kalendarik dhe katër të fundit tregojnë vitin e lindjes. Zeroja (0) duhet t’i paraprijë çdo shifre teke. P.sh. nëse data e lindjes së një individi është 3 prill 1978, në raport duhet të shkruhet në formatin 03.04.1978.
-Shtetësia: Shkruhet shtetësia e personit që kryen transaksionin (plotësohet në rastin e personave fizikë).
-Dokumenti i identifikimit: Shkruhet lloji i dokumentit të përdorur për të bërë identifikimin e personit.
-Numri i dokumentit dhe autoriteti: Këtu shkruhet numri i dokumentit të përdorur për identifikim, numri personal, si dhe autoriteti shtetëror që e ka lëshuar atë.
-NIPT: Shkruhet numri i identifikimit të personit të tatueshëm për personat juridikë.
-Adresa: Shkruhet adresa e plotë e personit të përfshirë në aktivitetin e dyshimtë.
-Punësim/lloji i aktivitetit: Jepet përshkrimi i punësimit ose llojit të aktivitetit të personit të përfshirë në aktivitetin e dyshimtë.
-Personat e përfshirë në transaksion: Jepen të dhënat mbi personat e përfshirë në transaksion.
-Data e kryerjes së transaksionit: Data e transaksionit shkruhet në formatin tetëshifror. Dy shifrat e para tregojnë datën kalendarike të muajit, dy të dytat tregojnë muajin kalendarik dhe katër të fundit tregojnë vitin. Zeroja (0) duhet t’i paraprijë çdo shifre teke. P.sh. nëse data e transaksionit është 5 maj 2008, në raport duhet të shkruhet 05.05.2008.
-Monedha: Bëhet një kryq në një prej kutive sipas llojit të monedhës së përdorur për kryerjen e transaksionit, p.sh. LEK, USD, GBP, EUR etj.
-Shuma e transaksionit: Shkruhet shuma në lek për një transaksion të vetëm ose për disa transaksione të lidhura me njëra-tjetrën.
-Numri i llogarisë/ve: Shkruhen numri/at e llogarive të përfshira në aktivitetin e dyshimtë.
-Nr. Rep./Nr. Kol./Datë: Shkruhen të dhënat në rastin kur ka kontratë noteriale të përfshira në këtë aktivitet.
-Pjesa II. Shpjegime/përshkrime të aktivitetit të dyshimtë: Në këtë pjesë të raportit subjekti raportues bën një përshkrim të aktivitetit dhe të arsyeve për dyshim.
-Pjesa III. Lista e dokumenteve shoqëruese: Jepen të dhëna mbi dokumentacionin që shoqëron raportin.
-Pjesa IV. Informacion mbi subjektin raportues: Në këtë pjesë të raportit shkruhen të dhënat rreth subjektit raportues, si: emri i subjektit, emri dhe firma e personit përgjegjës për parandalimin e pastrimit të parave, emri i personit që bën aprovimin e raportit RAD (në rastet kur është i ndryshëm nga personi përgjegjës), data e raportimit në formatin (dd.mm.vvvv), si dhe numrin e telefonit/adresën e-mail të personit përgjegjës më anë të të cilit autoriteti përgjegjës mund të japë instruksione të mëtejshme në lidhje me raportin e paraqitur.
-ANEKSI II
-RAPORTI I TRANSAKSIONEVE NË PARA FIZIKE (RTPF)
-(Në një vlerë të barabartë ose më të madhe se 1 milion lek)
-Zgjidhni kutinë e duhur:
-a)
-Raportim i ri
-b)
-Përmirëson një raportim të mëparshëm
-c)
-Përfshihen më shumë se një individ/shoqëri
-ç)
-Transaksione të lidhura
-PJESA I. PERSONAT E PËRFSHIRË NË TRANSAKSION
-SEKSIONI A.
-Personi që kryen transaksionin
-1. a) Emri________________; b) Atësia _____________; c) Mbiemri____________________;
-ç) Emri i shoqërisë _______________________________;
-2. Statusi ligjor; a) Individ; b) Person fizik tregtar; c) Person juridik; d) Përfaqësues ligjor;
-3. a) Dokumenti i identifikimit _________________; b) Numri i dokumentit.___________________; c) Numri personal____________________________; ç) Autoriteti_____________________________;
-d) Datëlindja/data e regjistrimit_________________; dh) Vendlindja___________________________;
-e) Shtetësia _________________________________; ë) NIPT _______________________________;
-f) Adresa ___________________________________________________________________________
-Personi në emër të të cilit kryhet transaksioni
-1. a) Emri________________; b) Atësia _____________; c) Mbiemri____________________;
-ç) Emri i shoqërisë _______________________________;
-2 Statusi ligjor; a) Individ; b) Person fizik tregtar; c) Person juridik; d) Përfaqësues ligjor;
-3. a) Dokumenti i identifikimit. ________________; b) Numri i dokumentit_____________________; c) Numri personal_______________ ___________; ç) Autoriteti_____________________________;
-d) Datëlindja/data e regjistrimit________________; dh) Vendlindja________________________;
-e) Shtetësia__________________________________; ë) NIPT _____________________________;
-f) Adresa_________________________________________
-SEKSIONI B.
-Personi që kryen transaksionin
-1. a) Emri________________; b) Atësia _____________; c) Mbiemri____________________;
-ç) Emri i shoqërisë _______________________________;
-2. Statusi ligjor; a) Individ; b) Person fizik tregtar ; c) Person juridik; d) Përfaqësues ligjor;
-3. a) Dokumenti i identifikimit. ___________________; b) Numri i dokumentit__________________; c. Numri personal______________________________; ç) Autoriteti___________________________;
-d. Datëlindja/data e regjistrimit___________________; dh) Vendlindja_________________________; e) Shtetësia____________________________________; ë) NIPT ___________________________;
-f) Adresa _________________________________________________________________________
-Personi në emër të të cilit kryhet transaksioni
-1. a) Emri________________; b) Atësia _____________; c) Mbiemri____________________;
-ç) Emri i shoqërisë _______________________________;
-2 Statusi ligjor; a) Individ; b) Person fizik tregtar; c) Person juridik; d) Përfaqësues ligjor;
-3. a) Dokumenti i identifikimit _______________; b) Numri dokumentit_______________________;
-c) Numri personal__________________________; ç) Autoriteti______________________________;
-d) Datëlindja/data e regjistrimit._______________; dh)Vendlindja____________________________;
-e) Shtetësia____________________________________; ë) NIPT __________________________;
-f) Adresa __________________________________________________________________________
-PJESA II. Informacion mbi transaksionin/et
-1. Nr. rep.
-2. Nr. kol.
-3. Objekti______________________;
-4. Shuma e transaksionit: _________ ;
-7. Monedha: LEK EUR USD GBP CHF Tjetër___________;
-9. Burimi i deklaruar __________________________________
-5. Data e transaksionit:___.___._____;
-6. Lloji i transaksionit: _____________________; 8. Mënyra e pagesës_________
-10. Tjetër ________________________________;
-PJESA III. Informacion për subjektin raportues
-PJESA IV. PLOTËSOHET NËSE NË TRANSAKSION JANË TË PËRFSHIRË MË SHUMË SE NJË INDIVID/SHOQËRI
-PJESA I. Personat e përfshirë në transaksion
-SEKSIONI A.
-Personi që kryen transaksionin
-1. a) Emri________________; b) Atësia _____________; c) Mbiemri____________________;
-ç) Emri i shoqërisë _______________________________;
-2. Statusi ligjor; a) Individ; b) Person fizik tregtar ; c) Person juridik; d) Përfaqësues ligjor;
-3. a) Dokumenti i identifikimit. _________________; b) Numri i dokumentit ___________________;
-c) Numri personal_____________________________; ç) Autoriteti__________________;
-d) Datëlindja/data e regjistrimit___________________; dh)Vendlindja.__________________;
-e) Shtetësia____________________________________; ë) NIPT __________________________;
-f. Adresa _________________________________________________________________________
-Personi në emër të të cilit kryhet transaksioni
-1. a) Emri________________; b) Atësia _____________; c) Mbiemri____________________;
-ç) Emri i shoqërisë _______________________________;
-2. Statusi ligjor; a) Individ; b) Person fizik tregtar; c) Person juridik; d) Përfaqësues ligjor
-3. a) Dokumenti i identifikimit _____________________; b. Numri i dokumentit_________________; c. Numri personal________________________________; ç) Autoriteti__________________;
-d) Datëlindja/data e regjistrimit_____________________; dh)Vendlindja__________________;
-e) Shtetësia____________________________________; ë) NIPT __________________________;
-f) Adresa ________________________________________________________________________;
-SEKSIONI B. Personi që kryen transaksionin
-1. a) Emri________________; b) Atësia _____________; c) Mbiemri____________________;
-ç) Emri i shoqërisë _______________________________;
-2. Statusi ligjor; a) Individ; b) Person fizik tregtar ; c) Person juridik; d) Përfaqësues ligjor
-3.a) Dokumenti i identifikimit. __________________; b) Numri i dokumentit ___________________; c) Numri personal_____________________________; ç) Autoriteti___________________________;
-d) Datëlindja/Data e regjistrimit__________________; dh) Vendlindja________________________;
-e) Shtetësia____________________________________; ë) NIPT _____________________________;
-f) Adresa __________________________________________________________________________;
-Personi në emër të të cilit kryhet transaksioni
-1. a) Emri________________; b) Atësia _____________; c) Mbiemri____________________;
-ç) Emri i shoqërisë _______________________________;
-2. Statusi ligjor; a) Individ; b) Person fizik tregtar; c) Person juridik; d) Përfaqësues ligjor;
-3.a) Dokumenti i identifikimit _____________________; b) Numri i dokumentit_________________; c) Numri personal________________________________; ç) Autoriteti_________________________;
-d) Datëlindja/data e regjistrimit.____________________; dh)Vendlindja________________________;
-e) Shtetësia ___________________________________; ë) NIPT ______________________________;
-f) Adresa __________________________________________________________________________;
+1. Shënohet një kryq në kutinë përkatëse sipas rastit nëse aktiviteti dyshohet se ka të bëjë me pastrim parash, financim të terrorizmit apo fondet rrjedhin nga veprimtari kriminale.
+2. Shënohet një kryq në kutinë përkatëse sipas rastit nëse dërgohet te DPPPP-ja, një raport i ri, një transfertë në tentativë apo bëhet përmirësim i një raporti të mëparshëm.
+PJESA I. INFORMACION MBI AKTIVITETIN E DYSHIMTË
+1. Statusi ligjor i personit: Me anë të zgjedhjes së një prej kutive, subjekti raportues jep informacion për statusin ligjor të personit/ave të përfshirë në aktivitetin e dyshimtë sipas rastit individ, person fizik tregtar, person juridik, shoqëri anonime, ent publik, OJF, organizime ligjore, SHPK (shoqëri me përgjegjësi të kufizuara), kujdestar, degë e shoqërisë së huaj.
+2. Emri, atësia, mbiemri: për individin shkruhen emri, atësia dhe mbiemri.
+3. Datëlindja/data e regjistrimit (dd.mm.vvvv): nëse personi në emër të të cilit kryhet transaksioni/et është individ, shkruani datën e lindjes, përndryshe shkruhet data e regjistrimit të shoqërisë. Data shkruhet në formatin tetëshifror. Dy shifrat e para tregojnë datën kalendarike të muajit, dy të dytat tregojnë muajin kalendarik dhe katër të fundit tregojnë vitin e lindjes. Zero (0) duhet t’i paraprijë çdo shifre teke. P.sh. nëse data e lindjes së një individi është 3 prill 1978, në raport duhet të shkruhet në formatin 03.04.1978.
+4. Shtetësia: shkruhet shtetësia e personit që kryen transaksionin (plotësohet në rastin e personave fizikë).
+5. Vendlindja: shkruhet vendi (juridiksioni) ku personi ka lindur;
+6. Vendbanimin e përkohshëm (nëse ka): plotësohet nëse personi ka një vend ku ai ndodhet për të kryer punë ose detyra të caktuara, për të vazhduar një shkollë ose kurs të caktuar, për t’u mjekuar, për të vuajtur një dënim penal, dhe për raste të tjera të kësaj natyre.
+7. Gjinia: a. Mashkull; b. Femër: shënohet një kryq në kutinë përkatëse sipas rastit nëse individi është mashkull apo femër.
+8. Dokumenti i identifikimit: a) □ letërnjoftim; b) □ pasaportë; c) □ nr. personal (NID);
+Shënohet një kryq në kutinë përkatëse sipas llojit të dokumentit të përdorur për të bërë identifikimin e personit.
+9. Numri i dokumentit: këtu shkruhet numri i dokumentit të përdorur për identifikim, si dhe numri personal.
+10. Autoriteti lëshues: këtu shkruhet autoriteti shtetëror që ka lëshuar dokumentin e përdorur për të bërë identifikimin e personit.
+11. Emërtimi i subjektit: këtu shkruhet emri i subjektit.
+12. NUIS/NIPT: shkruhen numri unik i identifikimit të subjektit ose numri i identifikimit të personit të tatueshëm.
+13. Adresa e themelimit: shkruhet adresa e plotë e zyrës qendrore të personit të përfshirë në aktivitetin e dyshimtë.
+14. Adresa e përkohshme (nëse ka): plotësohet nëse personi ka një vend veprimtarie të ndryshëm nga adresa e themelimit.
+15. Punësim/lloji i aktivitetit: jepet përshkrimi i punësimit ose llojit të aktivitetit të personit të përfshirë në aktivitetin e dyshimtë.
+16. Nëse është PEP: shënohet një kryq në kutinë përkatëse nëse subjekti është person i ekspozuar politikisht.
+PJESA II. PERSONAT E PËRFSHIRË
+Në këtë pjesë të raportit jepen të dhënat mbi personat e përfshirë në transaksion.
+PJESA III. VEPRIMI FINANCIAR I KRYER
+1. Numri i transaksioneve: shkruhet numri i transaksioneve të kryera apo të tentuara.
+2. Numri i llogarisë/ve: shkruhen numri/at e llogarive të përfshira në aktivitetin e dyshimtë;
+3. Data e kryerjes së transaksionit: data e transaksionit shkruhet në formatin tetëshifror. Dy shifrat e para tregojnë datën kalendarike të muajit, dy të dytat tregojnë muajin kalendarik dhe katër të fundit tregojnë vitin. Zeroja (0) duhet t’i paraprijë çdo shifre teke. P.sh., nëse data e transaksionit është 5 maj 2008, në raport duhet të shkruhet 05.05.2008.
+4. Monedha: bëhet një kryq në një prej kutive sipas llojit të monedhës së përdorur për kryerjen e transaksionit p.sh.: LEK, USD, GBP, EUR etj.
+5. Shuma e transaksionit: Shkruhet shuma në lekë për një transaksion të vetëm ose për disa transaksione të lidhur me njëra-tjetrën.
+PJESA IV. SHPJEGIME/PËRSHKRIME TË AKTIVITETIT TË DYSHIMTË
+Në këtë pjesë të raportit subjekti raportues bën një përshkrim të aktivitetit dhe të arsyeve për dyshim. Limiti i karaktereve është vendosur për të siguruar përditësimin e informacioneve voluminoze që hyjnë në databazë p.sh: tabela, figura; materialet mbi këtë limit mund të përcillen të zipuara te pjesa V.)
+PJESA V. LISTA E DOKUMENTEVE SHOQËRUESE
+Në këtë pjesë të raportit vendosen të zipuara dokumentet që shoqërojnë raportin.
+PJESA VI. INFORMACION MBI SUBJEKTIN RAPORTUES
+Në këtë pjesë të raportit shkruhen të dhënat rreth subjektit raportues, si: emri i subjektit, emri dhe firma e personit përgjegjës për parandalimin e pastrimit të parave, emri i personit që bën aprovimin e raportit RAD (në rastet kur është i ndryshëm nga personi përgjegjës), data e raportimit në formatin (dd.mm.vvvv), si dhe numrin e telefonit/adresën e-mail, si dhe adresën e personit përgjegjës më anë të të cilit autoriteti përgjegjës mund të japë instruksione të mëtejshme në lidhje me raportin e paraqitur.
 INSTRUKSIONET
 PËR MËNYRËN E PLOTËSIMIT TË FORMULARIT TË RAPORTIMIT TË TRANSAKSIONEVE NË PARA FIZIKE
 (Për transaksionet në para fizike, në një vlerë të barabartë ose më të madhe se 1 milion lek)
-Formulari i raportimit të transaksioneve në para fizike (RTPF) është formulari që i bashkëlidhet këtij udhëzimi.
+Formulari i raportimit të transaksioneve në para fizike (RTPF), është formulari që i bashkëlidhet këtij udhëzimi.
 Me anë të këtij formulari bëhet raportimi nga subjektet i transaksionit/eve në para fizike, në një vlerë të barabartë ose më të madhe se 1 milion lek (ose kundërvlera në një monedhë tjetër).
 Bëni një kryq në kutinë/të sipas rastit të raportimit që bëhet (p.sh. raportim i ri, përmirësim i një raportimi të mëparshëm, nëse ka persona të shumëfishtë të përfshirë në transaksion ose bëhet fjalë për transaksione të lidhura të kryera brenda afatit të përcaktuar në këtë udhëzim).
-PJESA I. PALËT E PËRFSHIRA NË TRANSAKSION
-Pjesa 1. Personat e përfshirë në transaksion:
-SEKSIONI A. Pala: përshkruani palën e parë të transaksionit (p.sh. pala shitëse, pala huadhënëse, pala sipërmarrëse etj.).
-Personi qe kryen transaksionin:
-1. Jepen të dhënat e individit/subjektit i cili është duke e kryer transaksionin, duke plotësuar: emri, atësia, mbiemri, emri i shoqërisë në rastet kur është shoqëria e përfshirë.
-2. Statusi ligjor: individ; person fizik; person juridik; përfaqësues ligjor.
-- kur është individ: bëni një kryq te kuadrati individ dhe të plotësohen fushat: emri, atësia, mbiemri, punësimi/institucioni, profesioni, numri i dokumentit të identifikimit, numri personal, lloji i dokumentit, datëlindja, vendlindja dhe adresa.
-- kur është person fizik apo shoqëri: bëni një kryq te kuadrati përkatës për personin fizik tregtar dhe personin juridik dhe të plotësohen rubrikat: emërtimi i shoqërisë, data e regjistrimit/ themelimit, NIPT-i, adresa.
-- kur është përfaqësues ligjor: bëni një kryq te kuadrati përkatës për “përfaqësuesin ligjor” dhe të plotësohen të gjitha fushat që përmban seksioni A.
-Personi në emër të të cilit kryhet transaksioni:
-1. Jepen të dhënat e individit/subjektit në emër të të cilit kryhen transaksionet, në rastet kur ky i fundit përfaqësohet nga një person i autorizuar prej tij, duke u plotësuar: emri, atësia, mbiemri, emri i shoqërisë.
-2. Statusi ligjor: individ; person fizik; person juridik; përfaqësues ligjor.
-- kur është individ: bëni një kryq te kuadrati individ dhe të plotësohen fushat: emri, atësia, mbiemri, punësimi/institucioni, profesioni, numri i dokumentit të identifikimit, lloji i dokumentit, datëlindja, vendlindja dhe adresa.
-- kur është person fizik apo shoqëri: bëni një kryq te kuadrati përkatës për personin fizik tregtar dhe personin juridik dhe të plotësohen rubrikat: emërtimi i shoqërisë, data e regjistrimit/ themelimit, NIPT-i, adresa.
-- kur është përfaqësues ligjor: bëni një kryq te kuadrati përkatës për “përfaqësuesin ligjor” dhe të plotësohen të gjitha fushat që përmban seksioni A.
-SEKSIONI B. Pala: përshkruani në kuadratin bosh palën e dytë të transaksionit (p.sh. pala blerëse, pala huamarrëse, pala porositëse etj.) dhe sipas rastit, plotësoni:
-1. Jepen të dhënat e individit/subjektit i cili është duke e kryer transaksionin, duke u plotësuar: emri , atësia, mbiemri, emri i shoqërisë.
-2. Statusi ligjor : individ; person fizik; person juridik; përfaqësues ligjor.
-- kur është individ: bëni një kryq te kuadrati individ dhe të plotësohen fushat: emri, atësia, mbiemri, punësimi/institucioni, profesioni, numri i dokumentit të identifikimit, numri personal, lloji i dokumentit, datëlindja, vendlindja dhe adresa.
-- kur është person fizik apo shoqëri: bëni një kryq te kuadrati përkatës për personin fizik tregtar dhe personin juridik dhe të plotësohen rubrikat: emërtimi i shoqërisë, data e regjistrimit/ themelimit, NIPT-i, adresa.
-- kur është përfaqësues ligjor: bëni një kryq te kuadrati përkatës për “përfaqësuesin ligjor” dhe të plotësohen të gjitha fushat që përmban seksioni A.
-Personi në emër të të cilit kryhet transaksioni:
-1. Jepen të dhënat e individit/subjektit në emër të të cilit kryhen transaksionet, në rastet kur ky i fundit përfaqësohet nga një person i autorizuar prej tij, duke u plotësuar: emri, atësi, mbiemër, emri i shoqërisë.
-2. Statusi ligjor: individ; person fizik; person juridik; përfaqësues ligjor.
-- kur është individ: bëni një kryq te kuadrati individ dhe të plotësohen fushat: emri, atësia, mbiemri, punësimi/institucioni, profesioni, numri i dokumentit të identifikimit, lloji i dokumentit, datëlindja, vendlindja dhe adresa.
-- kur është person fizik apo shoqëri: bëni një kryq te kuadrati përkatës për personin fizik tregtar dhe personin juridik dhe të plotësohen rubrikat: emërtimi i shoqërisë, data e regjistrimit/ themelimit, NIPT-i, adresa.
-- kur është përfaqësues ligjor: bëni një kryq te kuadrati përkatës për “përfaqësuesin ligjor” dhe të plotësohen të gjitha fushat që përmban seksioni A.
-Në rastet kur kemi transaksione ku përfshihen më shumë se një palë e parë (shitës, huadhënës) apo palë e dytë (blerës, huamarrës) subjekti duhet të plotësojë faqen e dytë të këtij formulari, sipas seksioneve përkatëse “A” dhe “B” për secilën nga palët e përfshira në transaksion.
-PJESA II. INFORMACION MBI TRANSAKSIONIN
-Në këtë rubrikë të plotësohen të dhënat që subjekti disponon në lidhje me transaksionin.
-Numri i repertorit dhe koleksionit: Ky informacion plotësohet për aktet noteriale.
-Data e regjistrimit: Shkruhet data e regjistrimit të Kontratës (transaksionit).
-Objekti: Përshkruhet objekti i këtij transaksioni, në rastin e noterëve, sipas përcaktimit të kontratës përkatëse. Por, edhe në çdo rast tjetër objekti përkatës në këtë transaksion. Në çdo rast subjektet duhet të japin informacion të plotë për objektin e këtij transaksioni.
-Lloji i kontratës: Përshkruhet lloji i transaksionit/kontratës si p.sh. kontratë shitblerje, huadhënie, sipërmarrje etj.
-Shuma: Shkruhet shuma në para fizike në lek për një transaksion të vetëm ose për disa transaksione të lidhura me njëra-tjetrën shuma e të cilave e kalon limitin e raportimit të përcaktuar nga ligji. Afati kohor për raportim të transaksionit/transaksioneve të lidhura është 72 orë.
-Monedha: të shkruhet monedha e transaksionit.
-Mënyra e pagesës: Subjekti evidenton mënyrën se si është bërë pagesa, duke specifikuar në të edhe grafikun e pagesave dhe datat kur është kryer pagesa/t.
-Burimi i deklaruar i fondeve: Plotësohet nga subjekti raportues burimi i deklaruar nga palët i fondeve për kryerjen e transaksionit.
-Informacioni shtesë: Kjo pjesë e raportit plotësohet atëherë kur subjekti raportues disponon të dhëna shtesë në lidhje me transaksionin.
-Në rastet kur kemi transaksione të lidhur me njera-tjetrën, subjekti raportues do të shënojë shumën totale te pjesa II e formularit, fusha “shuma” dhe në fushën informacioni shtesë do të renditen të gjitha transaksionet
-PJESA III. INFORMACION PËR SUBJEKTIN RAPORTUES
-Në këtë pjesë plotësohen të dhëna rreth subjektit raportues, si: emri, mbiemri dhe atësia për personat fizikë (ose emri i plotë ligjor i shoqërisë për personat juridikë) emri i personit përgjegjës për parandalimin e pastrimit të parave (për subjektet që kanë më shumë se tre nëpunës), data e raportimit në formatin (dd.mm.vvvv), numrin e telefonit/adresën elektronike të personit përgjegjës më anë të të cilit autoriteti përgjegjës mund të japë instruksione të mëtejshme në lidhje me raportin e paraqitur, si dhe adresën e plotë të subjektit. Subjekti raportues shënon numrin e tij të identifikimit si personi i tatueshëm.
+1. Shënohet një kryq në kutinë përkatëse sipas rastit nëse aktiviteti dyshohet se ka të bëjë me pastrim parash apo financim të terrorizmit.
+2. Shënohet një kryq në kutinë përkatëse sipas rastit nëse dërgohet te DPPPP-ja një raport i ri apo bëhet përmirësim i një raporti të mëparshëm.
+PJESA I. PERSONAT E PËRFSHIRË NË TRANSAKSION
+Seksioni A. Plotësohet në të gjitha rastet
+Nëse personi kryen një transaksion në emër të vet, plotësoni seksionin A dhe lëreni seksionin B, bosh.
+Nëse një individ kryen një transaksion në emër e tij dhe të personit/ave të tjerë, plotësoni seksionin A me të dhënat e mëposhtme për personin që kryen transaksionin dhe seksionin B për personin në emër të të cilit kryhet transaksioni.
+1. Statusi ligjor i personit: me anë të zgjedhjes së një prej kutive, subjekti raportues jep informacion për statusin ligjor të personit/ave të përfshirë në aktivitetin e dyshimtë sipas rastit individ, person fizik tregtar, person juridik, shoqëri anonime, ent publik, OJF, organizime ligjore, SHPK (shoqëri me përgjegjësi të kufizuara), kujdestar, degë e shoqërisë së huaj.
+2. Emri, atësia, mbiemri: Për individin shkruhen emri, atësia dhe mbiemri.
+3. Datëlindja/data e regjistrimit (dd.mm.vvvv): nëse personi në emër të të cilit kryhet transaksioni/et është individ, shkruani datën e lindjes, përndryshe shkruhet data e regjistrimit të shoqërisë. Data shkruhet në formatin tetëshifror. Dy shifrat e para tregojnë datën kalendarike të muajit, dy të dytat tregojnë muajin kalendarik dhe katër të fundit tregojnë vitin e lindjes. Zero (0) duhet t’i paraprijë çdo shifre teke. P.sh. nëse data e lindjes së një individi është 3 prill 1978, në raport duhet të shkruhet në formatin 03.04.1978.
+4. Shtetësia: shkruhet shtetësia e personit që kryen transaksionin (plotësohet në rastin e personave fizikë).
+5. Vendlindja: shkruhet vendi (juridiksioni) ku personi ka lindur;
+6. Vendbanimin e përkohshëm (nëse ka): plotësohet nëse personi ka një vend ku ai ndodhet për të kryer punë ose detyra të caktuara, për të vazhduar një shkollë ose kurs të caktuar, për t’u mjekuar, për të vuajtur një dënim penal, dhe për raste të tjera të kësaj natyre.
+7. Gjinia: a. Mashkull; b. Femër: shënohet një kryq në kutinë përkatëse sipas rastit nëse individi është mashkull apo femër.
+8. Dokumenti i identifikimit: a) □ letërnjoftim; b) □ pasaportë; c) □ nr. personal (NID);
+Shënohet një kryq në kutinë përkatëse sipas llojit të dokumentit të përdorur për të bërë identifikimin e personit.
+9. Numri i dokumentit: këtu shkruhet numri i dokumentit të përdorur për identifikim, si dhe numri personal.
+10. Autoriteti lëshues: këtu shkruhet autoriteti shtetëror që ka lëshuar dokumentin e përdorur për të bërë identifikimin e personit.
+11. Emërtimi i subjektit: këtu shkruhet emri i subjektit.
+12. NUIS/NIPT: shkruhen numri unik i identifikimit të subjektit ose numri i identifikimit të personit të tatueshëm.
+13. Adresa e themelimit: shkruhet adresa e plotë e zyrës qendrore të personit të përfshirë në aktivitetin e dyshimtë.
+14. Adresa e përkohshme (nëse ka): plotësohet nëse personi ka një vend veprimtarie të ndryshëm nga adresa e themelimit.
+15. Punësim/lloji i aktivitetit: jepet përshkrimi i punësimit ose llojit të aktivitetit të personit të përfshirë në aktivitetin e dyshimtë.
+Seksioni a.1. Personi që kryen transaksionin e përfshirë
+Në ketë seksion shtohen të dhënat për personat e tjerë që janë të përfshirë si palë me personin që kryen transaksionin e raportuar.
+PJESA II. PERSONI/AT PËRFITUES
+Në këtë pjesë subjekti raportues jep të dhëna të plota për përfituesin në rastet kur ai është i ndryshëm nga personi në seksionet A dhe B.
+SEKSIONI B. PERSONI NË EMËR TË TË CILIT KRYHET TRANSAKSIONI
+Ky seksion plotësohet në të gjitha rastet kur personi/at që kryejnë transaksionin/et, janë të ndryshëm nga ata në emër të të cilëve kryhet transaksioni/et. (P.sh. nëse një punonjës i EuroMax bën një depozitim për llogari të shoqërisë, kjo e fundit duhet të identifikohet në seksionin B dhe punonjësi që kryen transaksionin duhet të identifikohet në seksionin A.)
+Subjektet duhet të plotësojnë të gjitha të dhënat sipas mënyrës së plotësimit të përshkruar më sipër në seksionin A.
+1. Statusi ligjor i personit: me anë të zgjedhjes së një prej kutive, subjekti raportues jep informacion për statusin ligjor të personit/ave të përfshirë në aktivitetin e dyshimtë sipas rastit individ, person fizik tregtar, person juridik, shoqëri anonime, ent publik, OJF, organizime ligjore, SHPK (shoqëri me përgjegjësi të kufizuara), kujdestar, degë e shoqërisë së huaj.
+2. Emri, atësia, mbiemri: për individin shkruhen emri, atësia dhe mbiemri.
+3. Datëlindja/data e regjistrimit (dd.mm.vvvv): nëse personi në emër të të cilit kryhet transaksioni/et është individ, shkruani datën e lindjes, përndryshe shkruhet data e regjistrimit të shoqërisë. Data shkruhet në formatin tetëshifror. Dy shifrat e para tregojnë datën kalendarike të muajit, dy të dytat tregojnë muajin kalendarik dhe katër të fundit tregojnë vitin e lindjes. Zero (0) duhet t’i paraprijë çdo shifre teke. P.sh. nëse data e lindjes së një individi është 3 prill 1978, në raport duhet të shkruhet në formatin 03.04.1978.
+4. Shtetësia: shkruhet shtetësia e personit që kryen transaksionin (plotësohet në rastin e personave fizikë).
+5. Vendlindja: shkruhet vendi (juridiksioni) ku personi ka lindur;
+6. Vendbanimin e përkohshëm (nëse ka): plotësohet nëse personi ka një vend ku ai ndodhet për të kryer punë ose detyra të caktuara, për të vazhduar një shkollë ose kurs të caktuar, për t’u mjekuar, për të vuajtur një dënim penal, dhe për raste të tjera të kësaj natyre.
+7. Gjinia: a. Mashkull; b. Femër: shënohet një kryq në kutinë përkatëse sipas rastit nëse individi është mashkull apo femër.
+8. Dokumenti i identifikimit: a) □ letërnjoftim; b) □ pasaportë; c) □ nr. personal (NID);
+a) Shënohet një kryq në kutinë përkatëse sipas llojit të dokumentit të përdorur për të bërë identifikimin e personit.
+9. Numri i dokumentit: këtu shkruhet numri i dokumentit të përdorur për identifikim, si dhe numri personal.
+10. Autoriteti lëshues: këtu shkruhet autoriteti shtetëror që ka lëshuar dokumentin e përdorur për të bërë identifikimin e personit.
+11. Emërtimi i subjektit: këtu shkruhet emri i subjektit.
+12. NUIS/NIPT: shkruhen numri unik i identifikimit të subjektit ose numri i identifikimit të personit të tatueshëm.
+13. Adresa e themelimit: shkruhet adresa e plotë e zyrës qendrore të personit të përfshirë në aktivitetin e dyshimtë.
+14. Adresa e përkohshme (nëse ka): plotësohet nëse personi ka një vend veprimtarie të ndryshëm nga adresa e themelimit.
+15. Punësim/lloji i aktivitetit: jepet përshkrimi i punësimit ose llojit të aktivitetit të personit të përfshirë në aktivitetin e dyshimtë.
+Seksioni b.1. Personi/at përfitues
+Në ketë seksion shtohen të dhënat për personat që janë përfitues nga transaksioni i raportuar.
+PJESA III. INFORMACION MBI TRANSAKSIONIN/ET
+1. Nr. rep:_______;
+2. Nr. kol:______;
+3. Data e transaksionit: shkruhet data e kryerjes së transaksionit në formatin ditë, muaj, vit (dd.mm.vvvv.) Zeroja (0) duhet t’i paraprijë çdo shifre teke. (P.sh. nëse data e transaksionit është 5 prill 2009, në raport duhet të shkruhet 05.04.2009.). Për subjektet të cilat bëjnë dhe regjistrimin e orës së transaksionit shkruhet, gjithashtu, dhe ora;
+4. Lloji i transaksionit: shënohet me kryq lloji i transaksionit (p.sh. depozitë kredi, tërheqje cash, derdhje cash, pagesa këmbim valutor etj.);
+5. Monedha: bëhet një kryq në një prej kutive sipas llojit të monedhës së përdorur për kryerjen e transaksionit (p.sh. lek, USD, GBP, EUR etj.).
+6. Shuma e përfshirë në kontratë: _____________;
+7. Shënim për transaksionin: në këtë pjesë të raportit subjekti raportues jep shënime lidhur me transaksionin.
+PJESA IV. INFORMACION MBI SUBJEKTIN RAPORTUES
+Në këtë pjesë të raportit shkruhen të dhënat rreth subjektit raportues, si: emri i subjektit, emri dhe firma e personit përgjegjës për parandalimin e pastrimit të parave, emri i personit që bën aprovimin e raportit RAD (në rastet kur është i ndryshëm nga personi përgjegjës), data e raportimit në formatin (dd.mm.vvvv), si dhe numrin e telefonit/adresën e-mail, si dhe adresën e personit përgjegjës më anë të të cilit autoriteti përgjegjës mund të japë instruksione të mëtejshme në lidhje me raportin e paraqitur.
 ANEKSI III
 RAPORT I VETËKONTROLLIT
 EMRI I SUBJEKTIT RAPORTUES:________________________________________________

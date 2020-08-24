@@ -1,8 +1,8 @@
 # Neni 14
 Dispozita të fundit
 1. Për zbatimin e këtij udhëzimi dhe anekseve si pjesë organike të tij:
-a) Aneksi I “Raporti për aktivitetin e dyshimtë” (RAD);
-b) Aneksi II “Raporti i transaksioneve të parasë fizike” (RTPF);
+a) aneksi I “Raporti për aktivitetin e dyshimtë” (RAD);
+b) aneksi II “Raporti i transaksioneve të parasë fizike” (RTPF).
 c) Aneksi III “Raporti i vetëkontrollit” (RVK);
 d) Aneksi IV “Për regjistrimin dhe mbajtjen e të dhënave mbi klientët dhe transaksionet”,
 ngarkohen subjektet e përcaktuara në nenin 3 shkronjat “g”, “gj” dhe “h” të ligjit nr. 9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit”, të ndryshuar.

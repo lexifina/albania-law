@@ -1,7 +1,7 @@
 # Neni 4
 Masat e vigjilencës së duhur ndaj klientit
 Në kuadrin e zbatimit të vigjilencës së duhur ndaj klientit subjektet duhet:
-1. Të hartojnë e të zbatojnë rregullore dhe udhëzime të brendshme për parandalimin e pastrimit të parave dhe financimit të terrorizmit, në të cilat përfshihen procedurat për vlerësimin dhe menaxhimin e rrezikut në marrëdhëniet e biznesit, për zbatimin e masave për vigjilencën e duhur dhe atë të zgjeruar ndaj klientit në përputhje me nivelin e rrezikut; për mbajtjen e të dhënave; për raportimin e aktivitetit të dyshimtë dhe transaksioneve mbi pragun e raportimit, si dhe për trajnimin e stafit të tyre.
+1. Të hartojnë, të përditësojnë dhe të zbatojnë rregullore dhe udhëzime të brendshme për parandalimin e pastrimit të parave dhe financimit të terrorizmit, në të cilat përfshihen procedurat për vlerësimin dhe menaxhimin e rrezikut në marrëdhëniet e biznesit, për zbatimin e masave për vigjilencën e duhur dhe atë të zgjeruar ndaj klientit në përputhje me nivelin e rrezikut; për mbajtjen e të dhënave; për raportimin e aktivitetit të dyshimtë dhe transaksioneve mbi pragun e raportimit, si dhe për trajnimin e stafit të tyre.
 2. Të identifikojnë klientin (të përhershëm apo rastësor, person fizik apo juridik) dhe të verifikojnë identitetin e tij.
 3. Të përcaktojnë për të gjithë klientët, para vendosjes së marrëdhënieve të biznesit apo gjatë procesit të monitorimit të kësaj marrëdhënieje, nëse ata janë duke vepruar në emër të një personi tjetër dhe të marrin masa të arsyeshme për të siguruar të dhëna të mjaftueshme për identifikimin e atij personi dhe verifikimin e të dhënave.
 4. Të marrin masat e mëposhtme për klientët që janë persona juridikë ose organizime ligjore:

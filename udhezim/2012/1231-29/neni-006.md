@@ -8,7 +8,7 @@ Në funksion të zbatimit të vigjilencës së zgjeruar, subjektet e këtij udh�
 - Organizimet ligjore;
 - Klientët jorezidentë;
 - Shoqëri që kanë aksione të mbajtësit.
-- Të gjitha kategoritë e klientëve, të cilët banojnë ose e ushtrojnë veprimtarinë e tyre në vende që nuk zbatojnë ose që zbatojnë pjesërisht standardet përkatëse ndërkombëtare, për të parandaluar e luftuar pastrimin e parave dhe financimin e terrorizmit.
+- Me të gjitha kategoritë e klientëve, të cilët banojnë ose e ushtrojnë veprimtarinë e tyre në vende për të cilat kërkohet marrja e masave të posaçme, sipas përcaktimeve apo kërkesave të autoritetit përgjegjës apo për klientë për të cilët kërkohet kjo masë.
 Krahas kategorive të mësipërme, subjektet përcaktojnë kategori të tjera marrëdhëniesh biznesi, klientësh dhe transaksionesh, të vlerësuara me rrezik të lartë dhe ndaj të cilave duhet të zbatohen masat e vigjilencës së zgjeruar. Për këtë qëllim, subjektet duhet të hartojnë dhe zbatojnë procedura dhe politika për të identifikuar shkallën e rrezikut sipas kategorive të klientëve apo marrëdhënieve të biznesit. Këto procedura dhe politika duhet të jenë në përputhje me aktivitetin e subjektit dhe në përpjesëtim me rrezikun e identifikuar.
 Politikat dhe procedurat e subjekteve duhet të bazohen në:
 a) rrezikun që paraqet klienti, pozitën e tij gjeografike dhe tërësinë e produkteve dhe shërbimeve;
