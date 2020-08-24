@@ -1,0 +1,1 @@
+5. Subjekti kërkues bën pagesën e tarifës së përcaktuar nga autoriteti publik, për llogari të autoritetit publik, pranë një banke të nivelit të dytë. Një kopje të mandatit të pagesës, subjekti kërkues ia bashkëlidh kërkesës, drejtuar autoritetit përkatës.

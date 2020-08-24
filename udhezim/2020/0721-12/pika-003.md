@@ -1,0 +1,1 @@
+3. Pas marrjes së kërkesës për informim nga subjekti kërkues, autoriteti publik, llogarit shumën që duhet paguar për riprodhimin dhe sipas rastit, për dërgimin e informacionit dhe njofton menjëherë kërkuesin.
