@@ -1,0 +1,1 @@
+1. Miratimin e listës së produkteve bujqësore dhe ushqimore për konsum njerëzor, sipas fushës së zbatimit të ligjit nr. 8/2019, datë 26.2.2019, “Për skemat e cilësisë së produkteve bujqësore dhe ushqimore”, sipas aneksit 1, bashkëlidhur këtij urdhri.
