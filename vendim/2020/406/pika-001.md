@@ -1,0 +1,1 @@
+1. Miratimin e rregullave “Për etiketimin e ushqimit për kafshë, që përdoren për ushqim, përfshirë dhe ato që kanë në përbërje ose përmbajnë organizma të modifikuar gjenetikisht”, sipas tekstit që i bashkëlidhet këtij vendimi.
