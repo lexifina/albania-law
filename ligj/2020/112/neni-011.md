@@ -1,0 +1,5 @@
+# Neni 11
+Ankimi administrativ
+1. Çdo palë e interesuar ka të drejtë të ankohet në rrugë administrative ndaj veprimeve apo mosveprimeve të QKB-së për regjistrimet dhe publikimet, sipas dispozitave të këtij ligji. Ankimi bëhet brenda 30 ditëve kalendarike nga data e publikimit në Regjistër të vendimit për pranimin apo refuzimin e regjistrimit, sipas këtij ligji.
+2. Çdo person i interesuar ka të drejtë të ankohet në rrugë administrative kur QKB-ja nuk jep informacionin sipas nenit 7 të këtij ligji. Afati prej 30 ditësh kalendarike për paraqitjen e ankimit fillon pas 10 ditëve pune nga data e depozitimit të kërkesës për dhënien e informacionit. Në rast të mosveprimit nga ana e QKB-së, ankimi bëhet sipas afateve të parashikuara në Kodin e Procedurave Administrative.
+3. Çdo person i interesuar ka të drejtë të ankohet në rrugë administrative kur QKB-ja nuk lëshon ekstraktet sipas nenit 8 të këtij ligji. Ankimi administrativ paraqitet jo më parë se 7 ditë kalendarike dhe jo më vonë se 45 ditë kalendarike nga data e përfundimit të afatit të caktuar sipas parashikimeve të këtij ligji për lëshimin e ekstraktit.
