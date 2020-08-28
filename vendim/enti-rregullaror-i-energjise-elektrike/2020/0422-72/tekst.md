@@ -4,6 +4,10 @@ Nr. 72, datë 22.4.2020
 
 MBI RINOVIMIN E LICENCËS SË SHOQËRISË “GREEN ENERGY TRADING ALBANIA” SHPK, NR. 286, SERIA T15, NË VEPRIMTARINË E TREGTIMIT TË ENERGJISË ELEKTRIKE, TË MIRATUAR ME VENDIMIN E BORDIT TË KOMISIONERËVE TË  ERE-s NR. 59, DATË 23.4.2015
 
+(Ndryshuar me vendimin nr. 142, datë 28.8.2020)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16, nenit 37, pika 2, germa “d”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të nenit 4, pika 1, germa “e”; të nenit 5, pika 1, germa “e”; të neneve 13 dhe 16, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, të ndryshuar; të nenit 15, të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; të vendimit të Bordit të ERE-s nr. 51, datë 26.3.2020, “Për disa ndryshime të përkohshme në procedurat e licencimit në ushtrimin e veprimtarive në sektorin e energjisë elektrike dhe të gazit natyror, në kuadër të masave pas shfaqjes së virusit COVID-19 dhe shpalljes së gjendjes së fatkeqësisë natyrore në vendin tonë, Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 22.4.2020, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, “Për rinovimin e licencës së shoqërisë “Green Energy Trading Albania” sh.p.k., në veprimtarinë e tregtimit të energjisë elektrike”,
 
  konstatoi se: 
@@ -44,7 +48,7 @@ VENDOSI:
 
 1. Të rinovojë licencën e shoqërisë “Green Energy Trading Albania” sh.p.k., në veprimtarinë e tregtimit të energjisë elektrike, nr. 286, seria T15, të miratuar me vendimin e Bordit të ERE-s, nr. 59, datë 23.4.2015, për një afat 5-vjeçar, duke filluar nga data 24.4.2020.
 
-2. Shoqëria “Green Energy Trading Albania” sh.p.k. të depozitojë në ERE jo më vonë se një muaj nga përfundimi i epidemisë COVID-19, vërtetimet e përcaktuara në nenin 9, pika 2, germa “d”, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, të ndryshuar.
+2.Shfuqizuar.
 
 3. Mosplotësimi i kushteve të këtij vendimi përbën shkak për rishikimin e tij. 
 
