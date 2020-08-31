@@ -1,0 +1,2 @@
+Miratimin e shtesës së marrëveshjes së koncesionit, ndërmjet Ministrisë së Infrastrukturës dhe Energjisë, si autoritet kontraktues, dhe “Albchrome Holding” sh.p.k., si koncesionari, për rehabilitimin, operimin dhe transferimin e minierës së kromit Bulqizë, të fabrikës së pasurimit Bulqizë, të impiantit të seleksionimit Klos dhe të uzinës së ferrokromit Burrel, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë.
