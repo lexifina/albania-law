@@ -1,0 +1,1 @@
+1. Përcaktimin e Bashkisë Tiranë, si autoritet kontraktor për të ndërmarrë e zhvilluar procedurat e prokurimit publik për projektet “Ndërtim i Kampusit të Ri të Universitetit të Tiranës”, “Ndërtim i godinave të Universitetit të Arteve të Tiranës” dhe “Ndërtim i Kampusit të Policisë së Shtetit, Policisë Shkencore dhe Akademisë së Sigurisë”.
