@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese me shkëmbim notash të marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Italisë, për realizimin e programit të ristrukturimit dhe fuqizimit të sistemit elektrik shqiptar për integrimin në sistemin ballkanik, fuqizimi i kapacitetit të transmetimit dhe përmirësimit të kontrollit, ratifikuar me ligjin nr. 9612, datë 21.9.2006, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
