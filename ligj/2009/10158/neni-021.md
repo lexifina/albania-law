@@ -1,7 +1,0 @@
-# Neni 21
-Të drejtat e votës së zotëruesve të obligacioneve
-1. Çdo obligacion mbart të drejtën e një vote në mbledhjen e zotëruesve të obligacioneve. Në rastin e certifikatës shumëfishe të obligacionit, zotëruesi i obligacionit ka të drejtën e aq votave sa është edhe numri i obligacioneve, që përfshihen në këtë certifikatë.
-2. Kur mbi obligacionet është vendosur peng, e drejta e votës ushtrohet nga penglënësi i obligacioneve, përveçse kur përcaktohet ndryshe në marrëveshjen e pengut ose në kushtet dhe afatet e huasë me obligacione, sipas programit të huasë. Për sa u takon elementeve civile, që rrjedhin nga obligacionet, zbatohen dispozitat përkatëse të Kodit Civil mbi pengun.
-3. Zotëruesi i obligacioneve ka të drejtë të marrë pjesë në mbledhjen e zotëruesve të obligacioneve edhe nëpërmjet përfaqësimit. Në rast se obligacioni është në bashkëpronësi të disa personave, e drejta e votës ushtrohet nëpërmjet një përfaqësuesi.
-4. Emetuesi nuk mund të ushtrojë të drejtën e votës për obligacionet që ai vetë zotëron ose për obligacionet, mbi të cilat është vendosur pengu në favor të tij.
-5. Përveçse kur ligji apo kushtet dhe afatet e obligacionit, sipas programit të huasë, përmbajnë dispozita të ndryshme për të drejtat e votës së zotëruesve të obligacioneve, dispozitat e ligjit për tregtarët dhe shoqëritë tregtare, për asamblenë e përgjithshme të aksionarëve, zbatohen, respektivisht, për të drejtat e votës së zotëruesve të obligacioneve, në përputhje me natyrën dhe qëllimin e obligacionit.

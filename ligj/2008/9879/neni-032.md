@@ -1,8 +1,0 @@
-# Neni 32
-Publikimi i prospektit
-Brenda 30 ditëve nga marrja në dorëzim e vendimit për miratimin e prospektit për emetimin dhe shitjen e titujve, përmes një oferte publike, emetuesi e publikon prospektin në buletinin e publikimeve zyrtare ose në dy gazeta të përditshme me tirazh më të madh. Në rastin e një oferte private, emetuesi publikon prospektin, brenda afatit të sipërpërmendur, në formë shoqëruese të ftesës për të nënshkruar titujt, që u dërgohet investitorëve të mundshëm.
-Në publikimin e prospektit për ofertën publike jepen edhe adresa apo adresat, në të cilat mund të merren apo të porositen pa pagesë kopje të prospektit.
-Në rastin e një oferte private, ftesa për të nënshkruar titujt u drejtohet, brenda 15 ditëve, të gjithë investitorëve të mundshëm, të caktuar dhe emetuesi nuk është i detyruar ta publikojë prospektin.
-Nëse titujt ofrohen të shiten përmes një oferte publike, prospekti u vihet në dispozicion investitorëve në selinë e emetuesit, si dhe në të gjitha vendet ku bëhet nënshkrimi i titujve të lidhur me prospektin.
-Prospekti publikohet dhe u vihet në dispozicion investitorëve të mundshëm përpara një pranimi të mundshëm të detyrimit për të nënshkruar dhe përpara nënshkrimit të titujve. Investitori nuk mban përgjegjësi për një pranim të mundshëm për të nënshkruar apo për kryerjen e nënshkrimit të titujve, përpara publikimit ose dërgimit të prospektit.
-Nëse emetuesi nuk e publikon prospektin brenda aftit të parashikuar në paragrafin e parë të këtij neni, ose nëse ai nuk ua dërgon investitorëve të mundshëm brenda afatit të parashikuar në paragrafin e dytë të këtij neni, vendimi i Autoritetit për miratimin e prospektit konsiderohet i shfuqizuar.

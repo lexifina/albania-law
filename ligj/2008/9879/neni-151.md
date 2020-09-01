@@ -1,5 +1,0 @@
-# Neni 151
-Detyrime për shoqëritë e licencuara më parë
-Shoqëritë e licencuara më parë nga Autoriteti, për të ushtruar veprimtari në tituj apo licenca e të cilave është pranuar nga Autoriteti, riorganizojnë ushtrimin e veprimtarisë së tyre, në përputhje me dispozitat e këtij ligji dhe i paraqesin Autoritetit për miratim aktet e përgjithshme të harmonizuara, brenda gjashtë muajve nga data e hyrjes në fuqi të këtij ligji.
-Nëse personat juridikë, të përmendur në paragrafin e parë të këtij neni, nuk organizojnë veprimtarinë e tyre në përputhje me dispozitat të këtij ligji dhe nuk paraqesin aktet e përgjithshme të harmonizuara për miratim, licenca e tyre për kryerjen e transaksioneve nuk quhet e vlefshme pas mbarimit të periudhës gjashtëmujore nga data e hyrjes në fuqi të këtij ligji.
-Licencat e lëshuara përpara hyrjes në fuqi të këtij ligji, brenda dy muajve nga hyrja në fuqi e tij, i nënshtrohen riformatimit, në përputhje me termat e përdorur në ligj. Hyrja në fuqi e këtij ligji nuk ndryshon afatet dhe kushtet, për të cilat janë lëshuar licencat për subjektet e përfshira në tregun e titujve.

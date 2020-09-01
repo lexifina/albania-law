@@ -1,3 +1,0 @@
-# Neni 28
-Detyrimi për përgatitjen e prospektit
-Kur emetuesi emeton tituj në Republikën e Shqipërisë, ai publikon një prospekt për ofertën publike për shitjen e titujve ose ua dorëzon atë investitorëve të mundshëm. Prospekti, së bashku me ftesën për të nënshkruar titujt, përmban edhe informacion të plotë, të saktë dhe objektiv për mjetet dhe detyrimet, fitimin dhe humbjen, gjendjen dhe perspektivat financiare të emetuesit, qëllimin e marrjes së fondeve, faktorët e riskut dhe të drejtat që mbartin titujt, për të cilat nxirret prospekti, në bazë të të cilave investuesi mund të bëjë një vlerësim objektiv të perspektivave dhe rreziqeve të investimeve dhe të marrë një vendim për investimin.

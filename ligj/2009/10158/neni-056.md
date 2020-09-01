@@ -1,9 +1,0 @@
-# Neni 56
-Vendimi për emetimin e obligacioneve
-të konvertueshme në aksione
-1. Vendimi i asamblesë së përgjithshme të emetuesit merret me shumicë prej 2/3 të votave të aksionarëve, të pranishëm ose të përfaqësuar, të cilët zotërojnë 2/3 e kapitalit të paguar të emetuesit. Në rast se kuorumi prej 2/3 nuk plotësohet, atëherë mbledhja e asamblesë së përgjithshme caktohet brenda 20 ditëve pune nga data e mbledhjes së anuluar dhe mbledhja e re është e vlefshme kur janë të pranishëm aksionarët, të cilët përfaqësojnë 1/2 e kapitalit të paguar. Në rast se edhe kuorumi i mësipërm nuk plotësohet, atëherë mbledhja e asamblesë së përgjithshme caktohet brenda 20 ditëve pune nga data e mbledhjes të anuluar dhe mbledhja e re vlerësohet e vlefshme kur janë të pranishëm aksionarët, të cilët përfaqësojnë 1/4 e kapitalit të paguar. Në të gjitha rastet, vendimet merren me shumicën e 2/3 të votave të aksionarëve të pranishëm apo të përfaqësuar në mbledhjen e asamblesë së përgjithshme të aksionarëve.
-2. Përveç përcaktimeve të nenit 49 të këtij ligji, vendimi i asamblesë së përgjithshme të aksionarëve për emetimin e obligacioneve të konvertueshme duhet të përfshijë edhe elementet e mëposhtme:
-a) mënyrën e ushtrimit të së drejtës së konvertimit;
-b) çmimin ose raportin e konvertimit të obligacioneve apo kufijtë e konvertimit të tyre.
-3. Në rast se ekzistojnë disa lloje aksionesh, atëherë vendimi i asamblesë së përgjithshme të aksionarëve për emetimin e obligacioneve të konvertueshme duhet të miratohet nga aksionarët, llojet e aksioneve të të cilëve preken nga vendimi i mësipërm. Kuorumi, që miraton vendimin për llojin apo llojet e aksionarëve, të cilët preken nga vendimi i mësipërm, merret me kuorumin dhe shumicën e votave, të parashikuar në pikën 1 të këtij neni.
-4. Vendimi për emetimin e obligacioneve të konvertueshme regjistrohet në Qendrën Kombëtare të Regjistrimit, në përputhje me ligjin për tregtarët dhe shoqëritë tregtare.
