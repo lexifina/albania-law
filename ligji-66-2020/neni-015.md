@@ -1,0 +1,8 @@
+# Neni 15
+Veprimtaria dhe shmangia e konfliktit të interesit
+1. Titullari i një licence ushtron veprimtarinë e tij vetëm brenda kushteve dhe fushës së veprimtarisë, për të cilën është lëshuar kjo licencë.
+2. Në rastet kur titullari i licencës kërkon të ushtrojë një veprimtari tjetër, për të cilën nevojitet një licencë e re, ai duhet të aplikojë dhe t’u nënshtrohet procedurave dhe kritereve për licencim, sipas përcaktimeve të këtij ligji dhe/ose legjislacionit në fuqi në Republikën e Shqipërisë.
+3. Në rast se titullari i licencës ekzistuese konstaton se ushtrimi i veprimtarisë së re e vë atë në kushtet e konfliktit të interesit me veprimtarinë ekzistuese, përpara aplikimit për licencën e re, merr masat e nevojshme për shmangien bindshëm të konfliktit të interesit dhe informon autoritetin përgjegjës për masat e marra prej tij.
+4. Në rast se prezenca e konfliktit të interesit konstatohet nga autoritetet përgjegjëse gjatë shqyrtimit të kërkesës për aplikim, këto autoritete e kthejnë aplikimin pa veprim te kërkuesi, duke e orientuar atë për mënyrën e shmangies së konfliktit të interesit. Kërkuesi mund ta ridërgojë kërkesën për aplikim pranë autoritetit përgjegjës, pas plotësimit të kërkesave të këtij të fundit. Kjo kërkesë konsiderohet si një kërkesë e re.
+5. Në rast se autoritetet përgjegjëse edhe pas riaplikimit konstatojnë se konflikti i interesit nuk është shmangur, e refuzojnë kërkesën dhe njoftojnë për këtë qëllim kërkuesin.
+6. Për qëllime të zbatimit të këtij neni, autoritetet përgjegjëse miratojnë procedurat dhe rregullat e detajuara për mënyrën e shmangies së konfliktit të interesit.

@@ -1,0 +1,5 @@
+# Neni 38
+Vendi i lançimit të një STO-je ose ICO-je
+1. Ky ligj zbatohet për STO-të ose ICO-t e lançuara nga një emetues në ose nga Shqipëria. Një STO ose ICO konsiderohet e lançuar në ose nga Shqipëria, nëse emetuesi është subjekt i regjistruar në Shqipëri, sipas përkufizimit të këtij ligji.
+2. Tokenët digjitalë të titujve të emetuar përmes një STO-je që nuk është lançuar në ose nga Shqipëria mund të ofrohen në Shqipëri vetëm nëse në legjislacionin përkatës të zbatueshëm interesat e investitorëve nuk janë më pak të mbrojtur se në këtë ligj.
+3. Tokenët digjitalë të shërbimeve dhe/ose tokenët digjitalë të pagesave dhe/ose tokenët digjitalë të aseteve, dhe/ose monedhat virtuale të emetuara nëpërmjet një ICO-je, të përcaktuar në nenin 33, shkronja “c”, të këtij ligji, e cila nuk është lançuar në ose nga Shqipëria, mund të ofrohet edhe në Shqipëri, nëse dokumenti i publikuar nga emetuesi i huaj është në thelb ekuivalent me relacionin prezantues (Whitepaper), sipas përcaktimeve të këtij ligji dhe ICO-ja e huaj është në përputhje me të gjitha kushtet e kriteret e parashikuara në këtë ligj.
