@@ -1,0 +1,2 @@
+3. Ngarkohet z. Emis Çerava, Sekretar i Përgjithshëm i komanduar, për zbatimin e këtij urdhri.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
