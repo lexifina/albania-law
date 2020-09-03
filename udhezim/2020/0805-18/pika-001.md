@@ -1,0 +1,1 @@
+1. Me përfundimin e procedurave të dhënies së ndihmës juridike, avokati duhet të paraqesë pranë Drejtorisë së Ndihmës Juridike Falas formularin për shpërblimin, për ndihmën e ofruar, në përputhje me kontratën vjetore të lidhur midis avokatit dhe kësaj drejtorie.

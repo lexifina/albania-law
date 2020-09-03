@@ -1,0 +1,1 @@
+3. Pagesa e shërbimit bëhet përmes llogarisë bankare dhe sipas kushteve të vendosura në kontratën tip të miratuar, siç përcaktohet në ligjin nr. 111/2017 “Për ndihmën juridike të garantuar nga shteti”.
