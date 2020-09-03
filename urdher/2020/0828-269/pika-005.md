@@ -1,0 +1,1 @@
+5. Në rast moszbatimi të detyrimeve, përcaktuar në pikën 2, nga personi juridik që përfaqëson institucionin arsimor parauniversitar privat “Kasa”, institucioni arsimor vendor, përgjegjës për arsimin parauniversitar, të marrë të gjitha masat, sipas legjislacionit në fuqi.

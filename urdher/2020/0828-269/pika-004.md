@@ -1,0 +1,1 @@
+4. Drejtoria e Përgjithshme e Arsimit Parauniversitar dhe Drejtoria Rajonale Arsimore Parauniversitare Durrës të monitorojnë veprimtarinë e Zyrës Vendore të Arsimit Parauniversitar Durrës, për zbatimin e detyrave, sipas këtij urdhri.
