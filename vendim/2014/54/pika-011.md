@@ -1,0 +1,1 @@
+11. Të drejtën e lidhjes së kontratës së qirasë me subjektet e pajisura me leje shfrytëzimi të pasurive natyrore-minerare, peshkimit, ujërave, veprimtarive të tjera të ngjashme, e ka institucioni qendror shtetëror që mbulon veprimtarinë përkatëse, sipas përcaktimeve në Kodin e Procedurave Administrative.

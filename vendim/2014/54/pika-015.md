@@ -1,0 +1,1 @@
+15. Në rastet kur prona shtetërore nuk është e regjistruar në administrim të ndonjë institucioni shtetëror, shoqërie apo ndërmarrjeje shtetërore, ministria përgjegjëse për ekonominë e jep me qira sipas procedurave të përcaktuara në këtë vendim. Në këto raste, dokumentacioni i përcaktuar në pikën 1, të këtij kreu, përgatitet nga dega e shoqërive publike në prefekturën përkatëse.

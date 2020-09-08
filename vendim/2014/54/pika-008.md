@@ -1,0 +1,1 @@
+8. Pasuritë në administrim të Drejtorisë së Shërbimeve Qeveritare jepen me qira prej saj, me afat deri në një vit, pa kufizim për sipërfaqen e tyre, sipas tarifave të përcaktuara në aneksin “B”, që i bashkëlidhet këtij vendimi.
