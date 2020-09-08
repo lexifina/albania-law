@@ -1,0 +1,3 @@
+9. Procedura për zhvillimin e mbledhjes së Komisionit është, si më poshtë vijon:
+a) mbledhja çelet nga kryetari, i cili prezanton rendin e ditës dhe kërkesën për ndryshimin e rendit të ditës;
+b) ankimet shqyrtohen sipas radhës së miratuar të rendit të ditës. Për çdo shqyrtim thirret në mbledhje përfaqësuesi ligjor i ankuesit ose përfaqësuesi me autorizim/prokurë. Ankimi relatohet nga anëtari i sekretariatit, i caktuar nga kryetari, dhe përfshin por pa u kufizuar çështje që lidhen me rrethanat e kontrollit dhe marrjes së masës administrative të ankimuar, masën e marrë, afatin e paraqitjes së ankesës, elemente të tjera të ankesës dhe një shpjegim të përgjithshëm të dokumentacionit shoqërues të ankesës.
