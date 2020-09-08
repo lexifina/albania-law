@@ -1,3 +1,3 @@
 # Nënshkrimi
 ZËVENDËSKRYEMINISTRI
-Senida Mes
+Senida Mesi
