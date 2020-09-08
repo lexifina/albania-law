@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 28 608 306 (njëzet e tetë milionë e gjashtëqind e tetë mijë e treqind e gjashtë) lekë, për blerjen e 4 (katër) apartamenteve, që do t’iu dhurohen familjeve të viktimave si pasojë e tërmetit të datës 26.11.2019, nga Bashkia Durrës.

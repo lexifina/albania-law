@@ -1,0 +1,1 @@
+2. Efekti financiar, sipas pikës 1, të këtij vendimi, përballohet nga fondi i rindërtimit, pjesa e financuar nga buxheti i shtetit, i miratuar për vitin 2020, dhe i transferohet Bashkisë Durrës, në formën e transfertës së pakushtëzuar.
