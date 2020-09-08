@@ -1,1 +1,0 @@
-8. Strukturat dhe organikat e agjencive rajonale të shërbimit veterinar dhe mbrojtjes së bimëve miratohen nga Kryeministri, sipas përcaktimeve të legjislacionit në fuqi për organizimin dhe funksionimin e administratës shtetërore.

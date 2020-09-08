@@ -1,1 +1,0 @@
-12. Drejtoritë e bujqësisë të vazhdojnë të kryejnë funksionet e tyre deri në momentin e krijimit dhe të fillimit të funksionimit të agjencive rajonale të shërbimit veterinar dhe mbrojtjes së bimëve në Shkodër, Tiranë, Vlorë dhe Elbasan.

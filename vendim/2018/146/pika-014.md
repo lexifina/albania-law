@@ -1,1 +1,0 @@
-14. Vula e secilës prej agjencive rajonale të shërbimit veterinar dhe mbrojtjes së bimëve ka formën dhe elementet e përcaktuara në vendimin nr. 390, datë 6.8.1993, të Këshillit të Ministrave, “Për rregullat e prodhimit, të administrimit, kontrollit dhe ruajtjes së vulave zyrtare”, të ndryshuar. Vula prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
