@@ -1,0 +1,1 @@
+6. Marrëdhëniet e punës së drejtorit të Përgjithshëm dhe të punonjësve të AKR-së rregullohen në bazë të dispozitave të Kodit të Punës. Pranimi dhe lirimi nga detyra i punonjësve bëhet nëpërmjet procedurave të konkurrimit të hapur, mbi bazën e rregullores së brendshme për organizimin dhe funksionimin e AKR-së.

@@ -1,0 +1,1 @@
+3. Misioni i AKR-së është garantimi i mbrojtjes dhe i promovimit të të drejtave të të rinjve, nëpërmjet mbështetjes për edukim joformal, ndërveprimit e aktivizimit të rinisë dhe financimit të veprimtarive rinore, në zbatim të politikave shtetërore në fushën e rinisë.
