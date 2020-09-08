@@ -1,0 +1,26 @@
+{
+  "qbz_id": 22000,
+  "title": "Për disa ndryshime në ligjin nr. 8417, datë 21.10.1998, “Kushtetuta e Republikës së Shqipërisë”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "115",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2020-07-30",
+  "published": "2020-08-24",
+  "in_force": "2020-09-08",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/6e1b0d8578ed671bbacb35c29fc011ba9b6540ee74979a6720a4c85ef00296aa.docx",
+  "source_sha256": "6e1b0d8578ed671bbacb35c29fc011ba9b6540ee74979a6720a4c85ef00296aa",
+  "official_record": "https://qbz.gov.al/api/v1/acts/22000",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2020/07/30/115",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
