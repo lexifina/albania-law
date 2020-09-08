@@ -1,1 +1,0 @@
-2. Ngarkohet Sektori i Politikave të Peshkimit dhe Akuakulturës, në Drejtorinë e Politikave dhe Strategjive të Bujqësisë, Sigurisë Ushqimore dhe Zhvillimit Rural për zbatimin e pikave 4-7, 10-12, 14-20, 29, 34, 37-38, 48-54, 57-62, 69-72, 74-77, 79, 81-82, 87-88, 90, 105, 109, 117, 119 dhe shtojcat 1-2 dhe 6-11.
