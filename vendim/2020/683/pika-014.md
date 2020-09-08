@@ -1,0 +1,1 @@
+14. Vula e Drejtorisë së Përgjithshme të Autoritetit Kombëtar të Veterinarisë dhe Mbrojtjes së Bimëve dhe vula e secilës drejtori rajonale ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare. Vulat prodhohen, administrohen dhe ruhen në përputhje me legjislacionin në fuqi.

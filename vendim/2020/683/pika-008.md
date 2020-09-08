@@ -1,0 +1,1 @@
+8. Drejtoritë rajonale raportojnë te drejtori i përgjithshëm i AKVMB-së dhe kanë në përbërje të tyre edhe njësitë direkte të ofrimit të shërbimit veterinar. Drejtoritë rajonale drejtohen nga drejtorët rajonalë.

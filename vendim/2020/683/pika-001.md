@@ -1,0 +1,1 @@
+1. Krijimin, organizimin dhe funksionimin e Autoritetit Kombëtar të Veterinarisë dhe Mbrojtjes së Bimëve, në vijim “AKVMB”, si person juridik publik buxhetor, në varësi të ministrit përgjegjës për veterinarinë, në vijim “ministri”, me seli në Tiranë. AKVMB-ja financohet nga buxheti i shtetit dhe burime të tjera të ligjshme.

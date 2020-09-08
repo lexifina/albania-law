@@ -1,0 +1,8 @@
+16. Shërbimi i mbrojtjes së bimëve në ushtrimin e detyrave dhe përgjegjësive sipas ligjit ka vulën e tij zyrtare, e cila ka shënimet: “Republika e Shqipërisë, Ministria.... (emri i ministrisë përgjegjëse për veterinarinë dhe mbrojtjen e bimëve), Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve, Drejtoria Rajonale e Veterinarisë dhe Mbrojtjes së Bimëve, Shërbimi i Mbrojtjes së Bimëve ... (emri i qarkut/qytetit ku ka selinë drejtoria)”. Vula e shërbimit të mbrojtjes së bimëve prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
+IV. DISPOZITA KALIMTARE DHE TË FUNDIT
+1. Deri në fillimin e funksionimit të plotë të Autoritetit Kombëtar të Veterinarisë dhe Mbrojtjes së Bimëve, sipas këtij vendimi, agjencitë rajonale të veterinarisë dhe mbrojtjes së bimëve vazhdojnë funksionimin sipas strukturave aktuale.
+2. Deri në fillimin e funksionimit të plotë të Autoritetit Kombëtar të Veterinarisë dhe Mbrojtjes së Bimëve, veterinerët zyrtarë në varësi të bashkive, vazhdojnë funksionimin për aktivitetin e kontrollit në thertore dhe tregje.
+3. Për nëpunësit civilë aktualë të agjencive rajonale të veterinarisë dhe mbrojtjes së bimëve zbatohen dispozitat e legjislacionit për nëpunësin civil, në rastin e mbylljes dhe ristrukturimit të institucionit. Për punonjësit administrativë zbatohen dispozitat e Kodit të Punës.
+4. Vendimi nr. 146, datë 13.3.2018, i Këshillit të Ministrave, “Për krijimin, organizimin dhe funksionimin e agjencive rajonale të shërbimit veterinar dhe mbrojtjes së bimëve”, shfuqizohet.
+5. Ngarkohen Ministria e Bujqësisë dhe Zhvillimit Rural, Ministria e Financave dhe Ekonomisë dhe Departamenti i Administratës Publike për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

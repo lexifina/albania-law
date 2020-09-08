@@ -1,0 +1,1 @@
+11. Marrëdhëniet e punës së nëpunësve të Drejtorisë së Përgjithshme dhe të nëpunësve të drejtorive rajonale rregullohen sipas dispozitave të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve të njësive të ofrimit direkt të shërbimit dhe punonjësve të tjerë administrativë rregullohen në bazë të dispozitave të Kodit të Punës.
