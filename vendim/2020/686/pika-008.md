@@ -1,0 +1,1 @@
+8. Agjencia Kombëtare e Diasporës do të kryejë pagesat e mësuesve të nevojshëm për mësimin e gjuhës shqipe në vitin e parë të studimeve për shtetasit e huaj me origjinë shqiptare, të cilët përfitojnë bursa studimi nga Republika e Shqipërisë, për vitin akademik 2020-2021.

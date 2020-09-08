@@ -1,0 +1,1 @@
+9. Financimi i bursave, në zbatim të këtij vendimi, për vitin akademik 2020-2021, ka një vlerë prej 71 520 (shtatëdhjetë e një mijë e pesëqind e njëzet) eurosh. Ky financim do të përballohet nga buxheti i Agjencisë Kombëtare të Diasporës.
