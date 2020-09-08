@@ -1,0 +1,1 @@
+6. Peshkimi i tonit të kuq do të kryhet gjatë periudhës prej 26 majit deri më 1 korrik vetëm me mjetet lundruese që përdorin formën e peshkimit me koshilok (me rrethim), sipas përcaktimeve të ligjit nr. 64/2012 “Për peshkimin”, i ndryshuar.

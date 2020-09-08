@@ -1,0 +1,1 @@
+1. Zbatimin e planit shumëvjeçar të menaxhimit të tonit të kuq në Mesdhe dhe në Atlantikun Lindor të Komisionit Ndërkombëtar për Ruajtjen e Peshkut Ton të Atlantikut (ICCAT), të përcaktuar nga rekomandimi ICCAT [REC. 19-04], që i bashkëngjitet këtij urdhri dhe është pjesë përbërëse e tij.
