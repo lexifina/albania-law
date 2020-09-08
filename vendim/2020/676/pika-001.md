@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, për pasuritë me numër 324/4 dhe 324/7, zona kadastrale 2726, dhe numër 327/1, 327/2 dhe 327/3, zona kadastrale 3319, Bashkia Vorë, sipas certifikatës së pronësisë së pasurisë, hartës treguese dhe sipërfaqes së përcaktuar në lejen zhvillimore, bashkëlidhur këtij vendimi.
