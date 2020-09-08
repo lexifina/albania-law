@@ -1,0 +1,6 @@
+# Neni 55
+Nxjerrja e akteve nënligjore
+1. Ngarkohet Këshilli i Ministrave që, brenda 12 muajve nga hyrja në fuqi e këtij ligji, të nxjerrë aktet nënligjore në zbatim të neneve 8, 22 pika 3, 26 pika 2, 27 pika 2, 29, 33, 34 pika 1, 35, 40 pikat 5 e 6 dhe 41 pika 2 të këtij ligji.
+2. Ngarkohet Këshilli i Ministrave që, brenda 24 muajve nga hyrja në fuqi e këtij ligji, të nxjerrë aktet nënligjore në zbatim të neneve 36 pika 5, 37 pika 3 dhe 38 pikat 1 e 2. Në zbatim të neneve 24 e 25 të këtij ligji, të paraqesë ndryshimet përkatëse në ligjin nr.8087, datë 13.3.1996 “Për sigurimin shoqëror suplementar të ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë, të ushtarakëve të Ministrisë së Rendit Publik dhe të Shërbimit Informativ të Shtetit”, të ndryshuar.
+3. Ngarkohet Ministri i Financave, Ministri i Punës dhe Çështjeve Sociale dhe Drejtori i Shërbimit Informativ të Shtetit që, brenda 3 muajve nga hyrja në fuqi e këtij ligji, të nxjerrin udhëzimin e përbashkët në zbatim të pikës 5 të nenit 23 të këtij ligji.
+4. Ngarkohet Drejtori i Shërbimit Informativ të Shtetit që, brenda 6 muajve nga hyrja në fuqi e këtij ligji, të nxjerrë aktet nënligjore në zbatim të neneve 5 pika 7, 7 pika 1, 9 pika 4, 28 pika 3, 32 pika 1, 46 pika 2 dhe 49 të këtij ligji.
