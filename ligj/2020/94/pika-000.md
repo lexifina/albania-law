@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 27, datë 1.7.2020, i Këshillit të Ministrave, “Për disa shtesa dhe ndryshime në ligjin nr. 9936, datë 26.6.2008, ’Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë’, të ndryshuar”.
