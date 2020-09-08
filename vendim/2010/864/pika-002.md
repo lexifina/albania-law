@@ -1,1 +1,0 @@
-2. Ky shërbim mund t’u ofrohet, edhe me dalje ndërkombëtare dhe pa asnjë kufizim në mbulimin e shpenzimeve nga buxheti i institucionit, funksionarëve, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
