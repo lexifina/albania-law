@@ -1,0 +1,1 @@
+3. Misioni i Institutit të Mjekësisë Ligjore është të mbështesë organet e drejtësisë, si dhe institucionet e tjera publike për zgjidhjen e çështjeve hetimore dhe gjyqësore, me karakter mjekësor e biologjik, në veprimtarinë kriminale dhe konfliktet civile, nëpërmjet ofrimit të shërbimeve që përfshihen në funksionet administrative që i janë deleguar nëpërmjet këtij vendimi.

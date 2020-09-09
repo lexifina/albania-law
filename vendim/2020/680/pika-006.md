@@ -1,0 +1,1 @@
+6. Instituti i Mjekësisë Ligjore e shtrin veprimtarinë e tij në të gjithë territorin e Republikës së Shqipërisë. Ai organizohet në nivel qendror dhe cakton përfaqësues për ushtrimin e funksioneve pranë çdo gjykate apeli.

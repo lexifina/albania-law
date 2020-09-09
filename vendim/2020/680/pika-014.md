@@ -1,0 +1,1 @@
+14. Marrëdhëniet e punës të drejtorit dhe të nëpunësve të Institutit të Mjekësisë Ligjore rregullohen në bazë të dispozitave të legjislacionit për nëpunësit civilë. Marrëdhëniet e punës së punonjësve administrativë rregullohen në bazë të dispozitave të Kodit të Punës.

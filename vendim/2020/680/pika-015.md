@@ -1,0 +1,1 @@
+15. Marrëdhëniet ndërmjet Institutit të Mjekësisë Ligjore dhe institucioneve të tjera të administratës publike rregullohen me udhëzim të përbashkët të ministrit dhe titullarit përkatës, në përputhje me legjislacionin në fuqi.

@@ -1,0 +1,1 @@
+16. Marrëdhëniet e Institutit të Mjekësisë Ligjore me Policinë Gjyqësore, gjykatën dhe personat rregullohen në bazë të dispozitave të Kodit të Procedurës Penale, Kodit të Procedurës Civile, si dhe të akteve ligjore dhe nënligjore në fuqi.

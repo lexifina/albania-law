@@ -1,0 +1,1 @@
+17. Instituti i Mjekësisë Ligjore ka stemën, logon dhe vulën zyrtare. Stema përbëhet nga stema e Republikës së Shqipërisë me shënimet: “Republika e Shqipërisë, Ministria e Drejtësisë, Instituti i Mjekësisë Ligjore”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.
