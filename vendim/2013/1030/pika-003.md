@@ -1,1 +1,0 @@
-3. Deri në miratimin e plotë të të gjitha rregullave dhe kritereve të sigurisë për sektorin e gazit, operimi i infrastrukturës ekzistuese së gazit natyror të jetë objekt i rregullave teknike dhe kritereve të sigurisë që janë në fuqi në Republikën e Shqipërisë para hyrjes në fuqi të këtij vendimi.
