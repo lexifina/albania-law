@@ -1,0 +1,1 @@
+3. Vendimi nr. 1030, datë 27.11.2013, i Këshillit të Ministrave, “Për miratimin e rregullave teknike e të kritereve të sigurisë, pjesa e parë, për kërkesat minimale të projektimit teknik, ndërtimit dhe operimit të sistemeve të transmetimit e të shpërndarjes së gazit natyror, të instalimeve të GNL-së, hapësirave të depozitimit dhe të linjave direkte”, shfuqizohet.
