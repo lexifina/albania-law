@@ -1,0 +1,1 @@
+1. Ky vendim përcakton procedurat e zhvillimit të garës, kriteret shtesë për aplikantët që konkurrojnë për t’u pajisur me licencë për kategorinë “Kazino” e procedurën e shpalljes së fituesit, si dhe rastet e revokimit apo të pezullimit të kësaj licence.

@@ -1,0 +1,1 @@
+2. Kategoria e lojës së fatit “Kazino”, për qëllime të këtij vendimi, është një zonë e veçantë për zhvillimin e lojërave të fatit, ku lojtarëve u ofrohet mundësia për të luajtur me mjetet e lojërave të fatit, si makina të tipit slot, video-lotari ose makina elektronike, me shumë lojtarë, si dhe tryeza loje të quajtura “lojëra live”.

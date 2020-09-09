@@ -1,0 +1,1 @@
+4. Fjalët dhe shprehjet e përdorura në këtë vendim do të kenë të njëjtin kuptim me atë të dhënë në ligjin nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”, të ndryshuar, dhe aktet e dala në zbatim të tij, përveçse kur konteksti e kërkon apo kur, në përputhje me kontekstin e dhënë, në këto akte përcaktohet shprehimisht ndryshe.
