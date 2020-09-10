@@ -8,5 +8,5 @@ c) mbrojtjen e së drejtës për respektimin e jetës private dhe familjare;
 d) verifikimet e zyrtarëve, në përputhje me kërkesat drejtuar Autoritetit nga institucionet kushtetuese dhe autoritetet publike, sipas nenit 29 të këtij ligji;
 dh) verifikimet e kandidatëve për funksione të zgjedhshme, në përputhje me kërkesat drejtuar autoritetit prej tyre, sipas nenit 30 të këtij ligji.
 Në zbatim të kësaj pike, Autoriteti respekton, për aq sa është e mundur, legjislacionin në fuqi për mbrojtjen e të dhënave personale.
-2. Autoriteti vë në dispozicion dokumentacion dhe lejon përdorimin e dokumenteve, për qëllime të verifikimit të parashikuar nga shkronja “d”, e pikës 1, të këtij neni, deri në 31 mars 2020.
+2 Autoriteti vë në dispozicion dokumentacionin dhe lejon përdorimin e dokumenteve për qëllime të verifikimit të parashikuar nga shkronja “d” e pikës 1 të këtij neni.
 3. Nëse Autoriteti konstaton, gjatë përmbushjes së detyrave të veta, se në dokumente gjenden informacione për spiunazh, kundërspiunazh ose terrorizëm, në kuptimin e legjislacionit penal të Republikës së Shqipërisë, njofton me iniciativën e tij autoritetet përgjegjëse të inteligjencës dhe sigurisë.
