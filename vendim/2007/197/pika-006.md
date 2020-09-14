@@ -1,1 +1,0 @@
-6. Kur gjykata autorizon vazhdimin e veprimtarisë ekonomike, nëpërmjet riorganizimit, administratorit i jepet, përveç shpërblimit sipas pikave 3 e 4 të këtij vendimi edhe një shpërblim shtesë, prej 0.25 për qind të shumës së fitimit bruto dhe prej 0.50 për qind mbi të ardhurat bruto, të arritura gjatë ushtrimit të kësaj veprimtarie.

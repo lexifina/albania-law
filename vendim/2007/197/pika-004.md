@@ -1,1 +1,0 @@
-4. Administratorit të falimentimit i paguhet, gjithashtu, mbi shumën e pasivit të falimentimit, një shpërblim shtesë nga 0,15 deri në 0,75 për qind për shumën deri në 10 000 000 (dhjetë milionë) lekë dhe nga 0.05 deri në 0.37 për qind për shumën mbi 10 000 000 (dhjetë milionë) lekë.

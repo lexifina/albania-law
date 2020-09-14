@@ -1,1 +1,0 @@
-2. Në përcaktimin e shpërblimit sipas pikës 1 të këtij vendimi, gjykata merr parasysh punën e kryer, rezultatet e arritura, rëndësinë e falimentimit dhe kujdesin e treguar nga administratori i falimentimit, në përmbushjen e detyrave të tij.
