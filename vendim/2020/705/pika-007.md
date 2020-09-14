@@ -1,0 +1,1 @@
+7. Në rast të mbarimit të veprimtarisë së administratorit të falimentimit, për shkak dorëheqjeje apo shkarkimi nga detyra, përpara përfundimit të procedurës së falimentimit, ai gëzon të drejtën e përfitimit të shpërblimit, proporcionalisht me punën e kryer.

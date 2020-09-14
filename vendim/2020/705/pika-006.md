@@ -1,0 +1,1 @@
+6. Me vendim të gjykatës, administratorit të falimentimit mund t’i parapaguhen deri në 20% të shumës së shpërblimit total që i përket, përpara shpërndarjes përfundimtare kundrejt kreditorëve të falimentimit, në përputhje me pikën 4, të nenit 139, të ligjit nr. 110/2016, “Për falimentimin”.
