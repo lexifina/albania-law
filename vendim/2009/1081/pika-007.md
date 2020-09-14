@@ -1,1 +1,0 @@
-7. Laboratorët rajonalë janë pjesë administrative e drejtorive rajonale përkatëse të AKU-së. Në to kryhet analizimi laboratorik për kontrollin zyrtar të ushqimit, ushqimit për kafshë, shëndetit të kafshëve dhe bimëve.

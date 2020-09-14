@@ -1,7 +1,0 @@
-5. Drejtoritë rajonale të AKU-së drejtohen nga kryeinspektori rajonal dhe kryejnë këto funksione:
-a) Kryejnë kontrollet paraprake për të vërtetuar nëse janë plotësuar kërkesat tekniko-teknologjike, higjieno-sanitare, fitosanitare dhe veterinare, verifikimin e dokumentacionit të nevojshëm për regjistrimin dhe licencimin e operatorëve të biznesit ushqimor, ushqimit për kafshë, shëndetit të kafshëve dhe mbrojtjes së bimëve;
-b) Kryejnë kontrollin zyrtar të ushqimeve dhe ushqimeve për kafshë, si dhe në fushën e mbrojtjes së bimëve në territorin e qarkut përkatës;
-c) Kryejnë kontrollin zyrtar të ushqimeve dhe ushqimeve për kafshë, mbrojtjes së bimëve në njësitë e inspektimit kufitar;
-ç) Kryejnë mbledhjen e informacionit në fushën e sigurisë së ushqimeve dhe ushqimeve për kafshë, mbrojtjes së bimëve dhe përcjelljen e tij në Drejtorinë e Përgjithshme;
-d) Ndalojnë, përkohësisht ose në mënyrë të përhershme, veprimtarinë e operatorëve të biznesit të ushqimit dhe të atij të ushqimit për kafshë në fazat e prodhimit, përpunimit, shpërndarjes dhe tregtimit të ushqimit apo ushqimit për kafshë, kur vërtetohet se ushqimi a ushqimi për kafshë dhe operatorët përkatës të biznesit nuk plotësojnë standardet e sigurisë ushqimore, të përcaktuara në legjislacionin në fuqi;
-dh) Përgatisin raportin vjetor për vlerësimin e funksionimit të drejtorisë rajonale të AKU-së.

@@ -1,1 +1,0 @@
-6. Pikat e inspektimit kufitar janë pjesë administrative e drejtorive rajonale përkatëse të AKU-së dhe kryejnë kontrollin e ngarkesave të kafshëve të gjalla, bimëve dhe produkteve, që origjinojnë prej tyre, të cilat hyjnë, dalin ose tranzitojnë në territorin e Republikës së Shqipërisë.

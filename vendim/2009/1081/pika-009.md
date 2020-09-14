@@ -1,1 +1,0 @@
-9. Përveç sa parashikohet më sipër, Ministri i Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit ua ndërpret mandatin anëtarëve të bordit, nëse këta të fundit nuk marrin pjesë në asnjë nga mbledhjet e bordit për një periudhë vijuese 6-mujore. Organet propozuese propozojnë një anëtar të ri, sipas procedurave të sipërpërmendura.
