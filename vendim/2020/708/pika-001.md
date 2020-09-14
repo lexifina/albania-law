@@ -1,0 +1,1 @@
+1. Organizimin dhe funksionimin e Autoritetit Kombëtar të Ushqimit, këtu e në vijim AKU, si person juridik publik buxhetor, në varësi të ministrit përgjegjës për ushqimin, këtu e në vijim ministri, me seli në Tiranë. AKU-ja financohet nga buxheti i shtetit dhe burime të tjera të brendshme ose donacione.

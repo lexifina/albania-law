@@ -1,0 +1,1 @@
+18. Drejtoria e Përgjithshme e AKU-së ka stemën, logon dhe vulën e vet zyrtare. Stema e Drejtorisë së Përgjithshme përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Ministria ... (emri i ministrisë përgjegjëse për ushqimin), Autoriteti Kombëtar i Ushqimit, Drejtoria e Përgjithshme”.

@@ -1,0 +1,1 @@
+14. Pikat e inspektimit kufitar janë në varësi të drejtorive rajonale përkatëse të AKU-së dhe kryejnë kontrollin e ngarkesave të ushqimit, të ushqimit për kafshë, të mbrojtjes së bimëve dhe të inputeve bujqësore, të shëndetit të kafshëve, produkteve mjekësore veterinare, duhanit dhe produktet e tij, të cilat hyjnë, dalin ose tranzitojnë në territorin e Republikës së Shqipërisë.

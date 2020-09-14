@@ -1,0 +1,1 @@
+15. Laboratorët rajonalë janë në varësi të Drejtorisë së Përgjithshme të AKU-së dhe mbështesin veprimtarinë e drejtorive rajonale. Në laboratorët rajonalë kryhet analizimi laboratorik për kontrollin zyrtar të ushqimit, të ushqimit për kafshë.

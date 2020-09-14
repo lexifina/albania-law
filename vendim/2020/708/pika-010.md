@@ -1,0 +1,1 @@
+10. Komisioni i Shqyrtimit të Masave Administrative ka kompetenca të përgjithshme dhe shqyrton të gjitha ankimet administrative, me përjashtim të ankimeve administrative ndaj vendimeve që kanë gjoba/sanksione financiare mbi 300 000 (treqind mijë) lekë, të cilat shqyrtohen nga Komisioni i Shqyrtimit të Masave Administrative, në ministrinë përgjegjëse për ushqimin.

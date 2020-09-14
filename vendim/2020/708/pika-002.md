@@ -1,0 +1,1 @@
+2. Misioni i AKU-së është të garantojë sigurinë dhe cilësinë e ushqimeve e ushqimeve për kafshë në Republikën e Shqipërisë, nëpërmjet kryerjes së veprimtarive inspektuese, teknike dhe shkencore në këtë fushë.
