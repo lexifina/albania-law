@@ -1,1 +1,1 @@
-1. Numri i punonjësve me kontratë të përkohshme, për vitin 2020, në njësitë e qeverisjes qendrore është 2 597 (dy mijë e pesëqind e nëntëdhjetë e shtatë) veta, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+1. Numri i punonjësve me kontratë të përkohshme, për vitin 2020, në njësitë e qeverisjes qendrore është 2 628 (dy mijë e gjashtëqind e njëzet e tetë) veta, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

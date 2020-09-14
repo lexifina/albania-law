@@ -1731,3 +1731,36 @@ TOTAL PUNONJËS ME KONTRATË
 -Në ndarjen “Gr.05, Ministria e Bujqësisë dhe Zhvillimit Rural”, ndarjen “Gr.06, Ministria e Infrastrukturës dhe Energjisë”, ndarjen “Gr.13, Ministria e Shëndetësisë dhe Mbrojtjes Sociale”, ndarjen “Gr.16, Ministria e Brendshme” dhe ndarjen “Gr.17, Ministria e Mbrojtjes”, shtohen nënndarjet përkatëse,
 -Në fund shtohen ndarjet “Gr.41, Struktura e Posaçme kundër Korrupsionit dhe Krimit të Organizuar” , “Gr.63, Inspektorati i Lartë i Drejtësisë” dhe “Gr.73, Komisioni Qendror i Zgjedhjeve”)
 \
+Tabela nr. 1
+Gr.
+Emri i institucionit
+Nr. i punonjësve
+Emërtesa
+Koha mesatare ditore
+Periudhë kohore
+13
+Ministria e Shëndetësisë dhe Mbrojtjes Sociale
+10
+Qendra Kombëtare e Urgjencës Mjekësore
+10
+Shoferë ambulance
+8 orë/ditë
+31.12.2020
+14
+Ministria e Drejtësisë
+1
+Drejtoria e Ndihmës Juridike Falas
+1
+Sanitar
+8 orë/ditë
+31.12.2020
+87
+Institucione të tjera qeveritare
+20
+Agjencia Kombëtare e Shoqërisë së Informacionit
+20
+Specialist
+8 orë/ditë
+31.12.2020
+TOTAL PUNONJËS ME KONTRATË
+31
