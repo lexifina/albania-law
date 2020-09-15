@@ -1,0 +1,1 @@
+1. Brenda datës 21.9.2020, nga Regjistri Kombëtar i Gjendjes Civile (RKGJC) i vitit 2010, të gjenerohet ekstrakti elektronik i përbërësve zgjedhorë, në përbërje të të cilit janë të gjithë shtetasit me të drejtë vote, të lindur që nga data 25.4.2003, të cilët deri në datën e zhvillimit të zgjedhjeve, më 25.4.2021, do të mbushin 18 vjeç.

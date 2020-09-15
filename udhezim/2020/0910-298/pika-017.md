@@ -1,0 +1,1 @@
+17. Krahas ndryshimit të përbërësve zgjedhorë në rrugë administrative, zyra e gjendjes civile në bashki/njësi administrative do të pasqyrojë edhe rastet e vendimeve të gjykatave, deri në ditën e printimit të listës së zgjedhësve.
