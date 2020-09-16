@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Tiranë, të njësisë administrative Tiranë, të pasurisë 2/29, me vendndodhje në zonën kadastrale 8280, me sipërfaqe 3343 m2, sipas planvendosjes, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
