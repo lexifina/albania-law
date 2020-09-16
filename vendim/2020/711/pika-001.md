@@ -1,0 +1,1 @@
+1. Transferimin e pronësisë së 100% të aksioneve të shoqërisë “Albafilm” sh.a., Tiranë, nga Ministria e Financave dhe Ekonomisë te Ministria e Kulturës, me të gjitha të drejtat dhe detyrimet, në momentin e hyrjes në fuqi të këtij vendimi.
