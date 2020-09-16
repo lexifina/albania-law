@@ -1,1 +1,0 @@
-6. Bashkia Fier dhe Bashkia Divjakë të ndërmarrin nisjen e procedurave për vënien, brenda 3 (tre) muajve, në dispozicion të projektit të investimit “Albpanel” të sipërfaqes së nevojshme e të përshtatshme për projektin për ndërtimin e fabrikës e të ambienteve ndihmëse, bazuar në vendimin nr. 7/1, datë 5.12.2016, të Komitetit të Investimeve Strategjike.
