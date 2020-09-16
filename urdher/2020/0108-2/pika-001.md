@@ -1,1 +1,0 @@
-1. Delegimin e kompetencave të titullarit të autoritetit kontraktor, z. Pëllumb Abeshi, me detyrë Drejtor i Përgjithshëm i Politikave dhe Zhvillimit të Mjedisit, pranë Ministrisë së Turizmit dhe Mjedisit, për të gjitha procedurat e prokurimit publik me fonde buxhetore, për Ministrinë e Turizmit dhe Mjedisit.
