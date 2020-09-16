@@ -1,0 +1,1 @@
+9. Në datën e përcaktuar, Bordi i ERE-s zhvillon një intervistë të strukturuar me secilin nga kandidatët e përzgjedhur, që kanë plotësuar kërkesat. Secili nga kandidatët prezanton platformën e tij për administrimin eficient të shoqërisë së interesuar, përfshirë edhe masat organizative që mendon që duhet të marrë në funksion të vazhdimësisë normale të aktivitetit.

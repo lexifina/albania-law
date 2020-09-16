@@ -1,0 +1,1 @@
+6. Në përputhje me kërkesat dhe specifikat e shoqërisë së cilës i është vendosur detyrimi i shërbimit publik për furnizim me gaz natyror, për të cilën janë hapur procedurat e heqjes së licencës dhe emërimit të administratorit të përkohshëm, ERE përcakton edhe kërkesat e veçanta që duhet të plotësojnë kandidatët aplikantë për administratorë të përkohshëm.
