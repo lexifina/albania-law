@@ -1,0 +1,1 @@
+3. Ministrisë së Infrastrukturës dhe Energjisë i lejohet vënia në dispozicion e pronave të përcaktuara në pikën 1, të këtij vendimi, shoqërisë së shpallur fituese nga procesi konkurrues i zhvilluar nga ministria, për të gjithë kohëzgjatjen e tij, në përputhje me marrëveshjen e nënshkruar.
