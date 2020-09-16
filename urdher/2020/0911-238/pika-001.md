@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor, z. Adrian Kamenica, me detyrë Sekretar i Përgjithshëm pranë Ministrisë së Turizmit dhe Mjedisit, për të gjitha procedurat e prokurimit publik me fonde buxhetore, për Ministrinë e Turizmit dhe Mjedisit.
