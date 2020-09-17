@@ -1,0 +1,1 @@
+30. Nëse avokati i caktuar për të ofruar ndihmën juridike ka pengesa ligjore, sipas parashikimeve të nenit 9, të ligjit nr. 55/2018, “Për profesionin e avokatit në Republikën e Shqipërisë”, i drejtohet me një kërkesë të arsyetuar dhomës vendore të avokatisë.

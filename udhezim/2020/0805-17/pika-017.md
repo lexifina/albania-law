@@ -1,0 +1,1 @@
+17. Pas miratimit përfundimtar të listave, ato përcillen për publikim në faqen zyrtare të DHASH-së të Ministrisë së Drejtësisë, si dhe të Drejtorisë së Ndihmës Juridike. Kopje e listave u dërgohet dhomave vendore të avokatisë.

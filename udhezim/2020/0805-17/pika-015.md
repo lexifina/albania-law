@@ -1,0 +1,1 @@
+15. Miratimi i listave përfundimtare të avokatëve, që ofrojnë ndihmën juridike dytësore, realizohet nga Dhoma e Avokatisë së Shqipërisë, brenda datës 1 shkurt të çdo viti kalendarik, nëpërmjet shortit.

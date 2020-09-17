@@ -1,0 +1,1 @@
+29. Dhoma vendore e avokatisë përcjell vendimin e gjykatës kompetente, së bashku me vendimin e saj mbi caktimin e avokatit edhe personit të cilit i është pranuar kërkesa për ndihmën juridike dytësore.

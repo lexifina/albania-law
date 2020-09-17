@@ -1,0 +1,1 @@
+20. Në rast se numri i vendimeve të gjykatave për pranimin e kërkesave për dhënien e ndihmës juridike dytësore është më i madh se numri i avokatëve që ofrojnë këtë shërbim, Dhoma Vendore e Avokatisë cakton avokatët, duke rifilluar nga avokati i renditur i pari në listë, e me radhë në rend zbritës.

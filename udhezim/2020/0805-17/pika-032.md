@@ -1,0 +1,1 @@
+32. Kur dhoma vendore e avokatisë e vlerëson kërkesën të pabazuar, refuzon zëvendësimin e avokatit. Në rast se avokati refuzon përsëri të ndjekë çështjen, dhoma vendore e avokatisë fillon procedurën e zëvendësimit dhe njofton Dhomën e Avokatisë së Shqipërisë për fillimin e procedimit disiplinor.

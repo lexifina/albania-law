@@ -1,0 +1,1 @@
+10. Sekretari i Përgjithshëm i Dhomës së Avokatisë së Shqipërisë ose një përfaqësues i Sekretariatit Teknik i caktuar prej tij, drejton procesin dhe lexon me zë të lartë emrin e avokatit që është i shënuar në të dhe ia tregon Sekretariatit Teknik dhe të gjithë përfaqësuesve pjesëmarrës. Shiriti i letrës që gjendet brenda saj i dorëzohet Sekretariatit Teknik.

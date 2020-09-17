@@ -1,0 +1,1 @@
+12. Me të njëjtin short dhe të njëjtën procedurë, të parashikuar në pikën 10, të këtij udhëzimi, caktohet renditja në listë e avokatëve që do të ofrojnë shërbime të ndihmës juridike dytësore, për dhomën në të cilën është hedhur shorti.

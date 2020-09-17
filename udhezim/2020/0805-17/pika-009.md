@@ -1,0 +1,1 @@
+9. Radha e futjes së goglave në kuti dhe radha e hedhjes së shortit për çdo dhomë vendore të avokatisë përcaktohet duke filluar me hedhjen e shortit për dhomat vendore që kanë numrin më të madh të avokatëve që do të ofrojnë shërbimet e ndihmës juridike dytësore.

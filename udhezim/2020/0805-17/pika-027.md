@@ -1,0 +1,1 @@
+27. Me marrjen e konfirmimit nga avokati, sipas procedurës së mësipërme, dhoma vendore e avokatisë merr vendim për caktimin e avokatit. Formati i vendimit për caktimin e avokatit bëhet sipas shtojcës nr. 1 bashkëlidhur dhe pjesë përbërëse e këtij udhëzimi.

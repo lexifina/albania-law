@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim miratimin e rregullave të hollësishme për përgatitjen e listave dhe caktimin e avokatëve që do të ofrojnë ndihmë juridike dytësore në proceset civile dhe administrative, për çdo vit kalendarik, në përputhje me parimin e rotacionit, i cili garanton një proces transparent dhe gjithëpërfshirës.

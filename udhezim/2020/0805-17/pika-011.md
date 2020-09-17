@@ -1,0 +1,1 @@
+11. Avokati, emri i të cilit është shënuar në shiritin e letrës, renditet i pari në listën e avokatëve që do të ofrojnë shërbime të ndihmës juridike dytësore, për dhomën në të cilën është hedhur shorti.

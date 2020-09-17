@@ -1,0 +1,1 @@
+8. Shorti organizohet në tri kuti transparente. Në njërën vendosen goglat bosh, në kutinë tjetër vendosen shiritat ku janë shënuar emrat e avokatëve që do të ushtrojnë shërbime të ndihmës juridike dytësore. Në enën e tretë vendosen goglat, pasi në to janë futur shiritat me emrat e avokatëve që do të ofrojnë shërbime të ndihmës juridike.

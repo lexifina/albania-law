@@ -1,0 +1,1 @@
+23. Dhoma e Avokatisë të Shqipërisë kryen trajnime të posaçme për avokatët në ato fusha ku specializimi është i nevojshëm, në rast se lista e miratuar e avokatëve, që japin shërbimet e ndihmës juridike dytësore, nën juridiksionin e një dhome, nuk ka avokatë me njohuri të specializuara.

@@ -1,0 +1,1 @@
+7. Renditja e avokatëve në listën e avokatëve që ofrojnë shërbimet e ndihmës juridike dytësore për çdo dhomë kryhet me short. Hedhja e shortit për renditjen e avokatëve u nënshtrohet parimeve të transparencës, gjurmueshmërisë dhe monitorimit të këtij procesi.

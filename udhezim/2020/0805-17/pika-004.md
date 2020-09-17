@@ -1,0 +1,1 @@
+4. Për organizimin e procedurave të hedhjes së shortit dhe dokumentimin e çdo faze krijohet një Sekretariat Teknik. Përbërja e Sekretariatit Teknik dhe numri i anëtarëve caktohen nga Sekretari i Përgjithshëm i Dhomës së Avokatisë së Shqipërisë.

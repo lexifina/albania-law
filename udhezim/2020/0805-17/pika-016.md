@@ -1,0 +1,1 @@
+16. Lista e avokatëve, për çdo dhomë, përmban edhe informacionin mbi specializimin e avokatit në fusha të së drejtës, kur specializimi është i nevojshëm, si në rastin e përfaqësimit të të miturve, të viktimave dhe në raste të tjera të përcaktuara në ligj.

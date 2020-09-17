@@ -1,0 +1,1 @@
+26. Në rast se avokati nuk i përgjigjet telefonatës/postës elektronike, atij i lihet një kohë e arsyeshme, por në çdo rast jo më shumë se 24 orë, për të kthyer përgjigje. Në rast të moskthimit të telefonatës/postës elektronike, dhoma vendore e avokatisë telefonon menjëherë avokatin e radhës në listë.

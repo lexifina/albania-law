@@ -1,0 +1,1 @@
+24. Dhoma Vendore e Avokatisë i cakton avokatët nga lista e avokatëve që japin shërbimet e ndihmës juridike dytësore nën juridiksionin e dhomës, sipas radhës në listë, sipas parashikimeve të pikave 19 dhe 20, të këtij udhëzimi. Për çështjet që kërkojnë njohuri të specializuara avokatët caktohen sipas parashikimeve të pikave 21 dhe 22, të këtij udhëzimi.

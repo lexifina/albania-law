@@ -1,0 +1,1 @@
+31. Nëse dhoma vendore e avokatisë vlerëson se kërkesa përmban shkaqe të arsyeshme, bën zëvendësimin e avokatit që ka hequr dorë nga përfaqësimi, duke njoftuar menjëherë Drejtorinë e Ndihmës Juridike Falas. Avokati zëvendësues caktohet referuar numrit të parë të lirë në listën e avokatëve.

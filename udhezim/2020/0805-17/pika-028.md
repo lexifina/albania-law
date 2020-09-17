@@ -1,0 +1,1 @@
+28. Për dokumentimin e çdo faze të procedurës së njoftimit të avokatit të caktuar në detyrë, sipas radhës në listë, sipas parashikimeve të këtij udhëzimi, mbahet procesverbal. Procesverbali nënshkruhet nga kryetari i Dhomës Vendore të Avokatisë, si dhe nëpunësi i dhomës përgjegjës për njoftimin e avokatëve të caktuar në detyrë.
