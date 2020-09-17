@@ -1,0 +1,1 @@
+7. Struktura përgjegjëse për peshkimin dhe DSHPA kontrollojnë dhe verifikojnë numrin e të punësuarve në regjistrin themeltar të subjektit dhe sistemin tatimor, në përputhje me nivelin e punësimit të deklaruar në plan-biznes.

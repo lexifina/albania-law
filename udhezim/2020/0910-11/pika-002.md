@@ -1,0 +1,1 @@
+2. Ndjekja e procesit të monitorimit të kontratave bëhet nga përfaqësues të Drejtorisë së Shërbimeve të Peshkimit dhe Akuakulturës, si dhe nga Sektori i Programeve të Zhvillimit në Fushën e Peshkimit dhe Akuakulturës në ministri.

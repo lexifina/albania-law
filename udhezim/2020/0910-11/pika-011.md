@@ -1,0 +1,1 @@
+11. Në kategoritë ujore të shpallura si zona bashkëmenaxhimi ku funksionojnë organizatat e menaxhimit të peshkimit (OMP), struktura përgjegjëse për peshkimin dhe DSHPA-ja monitorojnë zbatimin e kushteve të kontratës që ministria ka lidhur me OMP-në përkatëse.
