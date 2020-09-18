@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën prej 191 253 259 lekësh (njëqind e nëntëdhjetë e një milionë e dyqind e pesëdhjetë e tre mijë e dyqind e pesëdhjetë e nëntë) lekësh, për financimin e përgatitjes së shesheve të ndërtimit në bashkitë Lezhë, Kurbin dhe Durrës.
