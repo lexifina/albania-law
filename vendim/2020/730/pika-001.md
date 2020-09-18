@@ -1,0 +1,1 @@
+1. Shpalljen zonë e re për zhvillim të territorit, me sipërfaqe prej 20 847 (njëzet mijë e tetëqind e dyzet e shtatë) m2, si zonë e përshtatshme për zhvillimin e detyruar, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi, në Njësinë Administrative Manzë, Bashkia Durrës.
