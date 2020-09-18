@@ -1,0 +1,1 @@
+4. Vendimi nr. 581, datë 13.10.2017, i Këshillit të Ministrave, “Për shpalljen e Qendrës Historike të fshatit Kaninë e të zonës së mbrojtur rreth saj dhe miratimin e rregullores për administrimin e Qendrës Historike të fshatit Kaninë dhe zonës së mbrojtur rreth saj”, shfuqizohet.

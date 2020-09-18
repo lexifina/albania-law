@@ -1,0 +1,1 @@
+3. Ngarkohet ministri përgjegjës për trashëgiminë kulturore, me propozim të strukturave të specializuara, të përcaktojë zonat mbrojtëse të monumenteve të kulturës, të ndodhura brenda pasurisë kulturore.
