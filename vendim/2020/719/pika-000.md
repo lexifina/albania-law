@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë (Marrësi), dhe KfW Frankfurt am Main (KfW), për financimin e Shërbimeve të Ekspertit për përgatitjen e programit të menaxhimit të qëndrueshëm të mbetjeve të ngurta dhe miqësor ndaj klimës, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
