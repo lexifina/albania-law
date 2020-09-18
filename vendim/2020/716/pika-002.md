@@ -1,0 +1,1 @@
+2. Institucionet e administratës shtetërore, të përcaktuara në pikat 1.1 dhe 1.2, të këtij vendimi, përfaqësohen në Rrjetin e Koordinatorëve Antikorrupsion nëpërmjet “Koordinatorit”, që është një pozicion pune, pjesë e strukturës dhe organikës së tyre.
