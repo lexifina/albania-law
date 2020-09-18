@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucioneve arsimore private parauniversitare, “Memorial International School of Tirana (MIST)”, në të gjitha nivelet arsimore (arsim fillor, arsim i mesëm i ulët, arsim i mesëm i lartë).

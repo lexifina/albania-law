@@ -1,0 +1,2 @@
+6. Ngarkohen Ministria e Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme e Arsimit Parauniversitar (DPAP), institucioni arsimor vendor përgjegjës për arsimin parauniversitar, institucionet arsimore private parauniversitare, “Memorial International School of Tirana (MIST)” dhe shoqëria “Turgut Ozal Education” sh.a. për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
