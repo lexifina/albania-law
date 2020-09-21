@@ -94,17 +94,17 @@ Bashkpron. Kazazi, Begeja.
 3214512
 Konf. shkr. nr. 29694/1, prot. datë 2.9.2015
 10
-Shtet (Truall)
+Zamira Abdurrahman Sykja
 8360
 7/147
-226
-226
+82.01
+82.01
 66969.00
-120.00
-120.00
-0
-0
-Konf. shkr. nr. 29694/1, prot. datë 2.9.2015
+57.58
+57.58
+101602
+9414333
+Shkr. e ZVRPP-së nr. prot. 7137/1, datë 4.5.17 Masë konservative
 11
 Ruzhdi Shaqir Xhixha
 8360
@@ -274,17 +274,17 @@ Shtet (Truall)
 0
 Konf. shkr. nr. 29694/1, prot. datë 2.9.2015
 28
-Mehmet Muharrem Këllezi
+Bashkëpr. Këllezi, Dashi, Durda, Hallulli, Vathi, Fortuzi, Daka, Pulaj, Pilinci, Shijaku, Pëllumbi, Brahimasi, Skënderaga, Shima, Koçibelli dhe Bodinaku.
 8360
 6/188 ND
 0
 0
 66969.00
-168.00
-168.00
+309
+309
 101602
-17069136
-Kemi kërkuar konfirmim në ZVRPP, dt.18.03.2016
+31395018
+Shkr. e ZVRPP-së nr. prot. 7137/1, datë 4.5.17
 29
 Dhurata Ali Hoxha Sabahet Qylafku
 8360
@@ -304,11 +304,11 @@ Dorian, Fatmir Dobrolishti
 0
 0
 66969.00
-130.00
-100
+20
+20
 101602
-10160200
-Konf. shkr. nr. 29694/3, prot. datë 16.9.2015, mungon skica e dhurimit
+2032040
+Shkr. e ZVRPP-së nr. prot. 7137/1, datë 4.5.17
 31
 Mimoza Dobrolishti
 8360
@@ -372,17 +372,17 @@ Shtet (Truall)
 0
 Konf. shkr. nr. 40721/1, prot. datë 13.1.2016
 37
-Bashkëpronarët Vaqarri
+Bashkëpronarët Vaqari, Kujxhiu, Toska.
 8360
 7/149
-27,56
+28
 5
 66969.00
-27,56
-5
+28
+28
 101602
-842855
-Konf. shkr. nr. 40721/1, prot. datë 13.1.2016
+3179701
+Shkr. e ZVRPP-së nr. prot. 7137/1, datë 4.05.17 Te përshkrimi i veçantë: 309 m² objekt.
 38
 Shtet (Truall)
 8360
@@ -413,3 +413,12 @@ SHËNIM
 4. Për pasurinë nr. 7/13, ndërtesë, vlerësimi është bërë sipas VKM-së nr. 138, datë 23.3.2000 (i ndryshuar) dhe sipas çmimeve të EKB-së, për vitin 2015.
 5. Pasuritë nr. 6/220, 6/262 dhe 7/10 janë menaxhuar në leje ndërtimi dhe nuk janë futur në llogaritjet paraprake (referoju projektit të shpronësimit).
 6. Bashkëlidhur kësaj tabele do të gjeni dhe tabelën e llog. të çmimit mesatar për objekt banimi dhe kursin zyrtar të këmbimit nga Banka e Shqipërisë, datë 1.3.2016.
+SHËNIM ( shtuar me VKM nr. 723, datë 16.9.2020)
+1. Për truallin, çmimi i llogaritur është marrë nga VKM-ja 89, datë 3.2.2016.
+2. Pasuritë e saktësuara konfirmohen nga ZVRPP-ja, Tiranë, me shkresën nr. prot. 7137/1, datë 4.5.2017.
+3. Objektet janë rillogaritur sipas mesatares së shitjeve nga ZVRPP, Tiranë, me shkr. nr. prot. 29694/6, datë 29.1.2016 dhe me shkr. nr. prot. 4301/1, datë 24.2.2016.
+4. Tab. e ndryshuar vetëm për pasuritë nr. 7/147, nr. 7/149, nr. 6/188 ND dhe nr. 6/189 ND +1-2/1.
+5. Pasuria 6/188 - ND, konfirmuar nga ZVRPP-ja Tiranë, me shkresën nr. prot. 7137/1, datë 4.5.2017, sip. e përgjith. e ka 309 m² (ND me 2 kate), që duhet të shlyhet totalisht.
+6. Pasuria nr. 7/147, konfirmuar nga ZVRPP-ja Tiranë, me shkresën nr. prot. 7137/1, datë 4.5.2017, sipas VKM-së nr. 236 ka qenë shtet, për pasurinë nr. 7/147 është lëshuar certifikatë pronësie për 82,01 truall dhe objekti është 28.79 m2, me 2 kate, sipas përshkrimit të veçantë të kartelës së pasurisë. Sipërfaqes së truallit i zbritet sip. e ndërtesës mbi të. Janë bërë ndryshimet në tabelë, për sa i përket vlerës së shpronësimit.
+7. Pasuria 6/189 - ND+1-2/1, konfirmuar nga ZVRPP-ja Tiranë, me shkresën nr. prot. 7137/1, datë 4.5.2017, sip. e përgjith. është 20 m², e cila ka qenë 100 m² nuk është shlyer sipas VKM-së nr. 236 dhe duhet të shlyhet për 20 m2.
+8. Pasuria 7/149, konfirmuar nga ZVRPP Tiranë, me shkresën nr. prot. 7137/1, datë 4.5.2017, sip. e përgjith. e ka 28 m² (tr.+ND 1 kat), nga të cilat 5 m² janë prekur sipas projektit, e cila gjatë ndërhyrjes është prishur e gjitha për arsye të mosqëndrueshmërisë. Inspektorati i Mbrojtjes së Territorit, me shkresën nr. prot. 17518, datë 8.6.2016, bën me dije se objekti nuk qëndroi nga ana konstruktive.
