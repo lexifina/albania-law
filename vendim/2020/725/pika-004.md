@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 304 021 890 (treqind e katër milionë e njëzet e një mijë e tetëqind e nëntëdhjetë) lekësh, do të përballohet nga fondet e miratuara për Autoritetin Rrugor Shqiptar, për vitin 2020.
