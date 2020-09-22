@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim të përcaktojë kushte të tjera që duhet të përdoren gjatë projektimit, ndërtimit, rinovimit, blerjes ose marrjes me qira të hapësirave për programin e strehëve të përkohshme, sipas ligjit nr. 22/2018, “Për strehimin social”.

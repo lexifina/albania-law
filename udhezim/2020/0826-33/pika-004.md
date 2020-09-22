@@ -1,0 +1,3 @@
+4. Tipologjia e strehëve të përkohshme, në varësi të situatave kur përdoren, është:
+a) fjetore, që janë ndërtesa të posaçme, të përshtatura kryesisht si struktura të përhershme për të pritur flukse të parashikuara apo të paparashikueshme të pastrehësh. Në raste të veçanta, fjetoret, të cilat përmbushin të njëjtat kushte me ndërtesat e zakonshme, mund të jenë ndërtime të lëvizshme, të përkohshme apo të montueshme/çmontueshme;
+b) kampe strehimi, që janë struktura të përkohshme që ngrihen për të përballuar flukse të paparashikuara të pastrehësh që vijnë si rezultat i një emergjence dhe ngrihen kryesisht kur ndodhin fatkeqësi natyrore, kriza, flukse refugjatësh apo situata të tjera emergjente.

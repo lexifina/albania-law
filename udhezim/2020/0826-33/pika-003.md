@@ -1,0 +1,1 @@
+3. Çdo normë, kusht teknik apo standard ndërtimi për strehët e përkohshme, sipas ligjit nr. 22/2018, “Për strehimin social”, që nuk parashikohet në këtë udhëzim, zbatohet në përputhje me normat, kushtet teknike dhe standardet e ndërtimit në fuqi në Republikën e Shqipërisë.
