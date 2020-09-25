@@ -1,0 +1,1 @@
+11. Transferimi i këstit të fundit nga llogaria e posaçme e noterit në llogarinë bankare të palës shitëse, kryhet nga ana e noterit, brenda 24 orëve nga marrja në dorëzim e certifikatës së pronësisë në emër të blerësit.

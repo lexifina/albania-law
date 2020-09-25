@@ -1,0 +1,1 @@
+4. Noteri verifikon pronësinë e palës shitëse në regjistrin elektronik të pasurive të paluajtshme dhe i bashkëlidh aktit noterial një kopje të përmbajtjes përkatëse të këtij regjistri, të tillë, por jo vetëm, si: leja për kryerjen e transaksionit, kartela e pasurisë së paluajtshme, si dhe harta treguese.

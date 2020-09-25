@@ -1,0 +1,1 @@
+17. Udhëzimi i përbashkët nr. 6915/2, datë 30.1.2012, i ministrit të Drejtësisë dhe i ministrit të Financave, “Mbi procedurat teknike për derdhjen e pagesës së tjetërsimit në llogarinë bankare të noterit”, shfuqizohet.

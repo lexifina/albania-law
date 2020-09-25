@@ -1,0 +1,1 @@
+2. Llogaria e posaçme bankare e noterit në bankat e nivelit të dytë është llogari “ESCROW” dhe nuk gjeneron interesa. Ajo është llogari e ndryshme nga llogaria bankare që noteri përdor si person fizik ose si individ.

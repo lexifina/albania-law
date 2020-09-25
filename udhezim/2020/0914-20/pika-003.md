@@ -1,0 +1,1 @@
+3. Kur palët paraqiten para noterit për lidhjen e kontratës së kalimit të së drejtës së pronësisë të pasurisë së paluajtshme, noteri informon paraprakisht palët për detyrimin ligjor për pagimin e çmimit të pasurisë së paluajtshme, objekt kontrate nëpërmjet llogarisë bankare të posaçme të noterit.
