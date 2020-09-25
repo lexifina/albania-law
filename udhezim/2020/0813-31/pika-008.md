@@ -1,0 +1,2 @@
+8. Urdhri nr. 70, datë 23.2.2018 “Për deklarimin për punësim të shtetasve të Bashkimit Evropian, Zonës Shengen, shtetasve të Shteteve të Bashkuara të Amerikës dhe shtetasve të Republikës së Kosovës dhe shtetasve të Republikës së Serbisë të përkatësisë etnike shqiptare”, dhe udhëzimi nr. 25, datë 9.9.2019 “Për deklarimin për punësim të shtetasve të Malit të Zi dhe të Maqedonisë së Veriut të përkatësisë etnike shqiptare”, shfuqizohen.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+5. Pajisja e të huajit me vërtetimin e deklarimit për punësim, të bëhet nga zyra përkatëse e punësimit ku i huaji ushtron aktivitetin e tij, në një afat kohor prej 5 ditë pune që nga dita e aplikimit.

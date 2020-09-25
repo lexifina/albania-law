@@ -1,0 +1,5 @@
+2. Punëdhënësi ose i huaji i vetëpunësuar apo investitor të aplikojë on-line në portalin e-Albania, duke plotësuar formularin “Kërkesë për vërtetim deklarimi për punësim”, dhe bashkëlidhur me të dokumentacionin e poshtëshënuar:
+a) pasaportë ose dokument identifikimi (kopje);
+b) certifikatë familjare, ose dokument që vërteton marrëdhënien familjare, për anëtarët e familjes së shtetasve të vendeve të Bashkimit Evropian dhe Zonës Shengen që nuk kanë shtetësinë e këtyre vendeve;
+c) kontratë qiraje (kopje) ose vetëdeklarim për adresën e banimit në territorin e Republikës së Shqipërisë të shtetasit të huaj;
+d) kontratë pune me punëdhënësin për llogari të të cilit kryen aktivitetin e tij në territorin e Republikës së Shqipërisë për të punësuarit, ose statusin dhe aktin e themelimit (për shoqëritë) ose vërtetim regjistrimi në QKB (për personat fizikë) për të huajt e vetëpunësuar, ose statutin dhe aktin e themelimit të shoqërisë, ku në përmbajtje të rezultojë se investitori bën një investim për investitorët.
