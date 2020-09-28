@@ -1,0 +1,1 @@
+8. Të ardhurat e përcaktuara në shkronjën “b”, të pikës 2, të këtij vendimi, përfshihen në të ardhura jashtë limitit, që mbarten në vitin buxhetor pasardhës. Këto të ardhura mbulojnë nevojat dhe aktivitetet e institucioneve sipas ligjit nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë”.
