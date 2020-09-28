@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, fetar, të nivelit të arsimit të mesëm të lartë, medreseja “Hafiz Abdullah Zëmblaku”, Korçë, hapur me vendimin nr. 602, datë 4.12.2002, të Këshillit të Ministrave, “Për miratimin e lejes së funksionimit të institucionit arsimor privat, medreseja ’Hafiz Abdullah Zëmblaku’”.
