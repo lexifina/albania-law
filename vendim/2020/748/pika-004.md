@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, për pasuritë e llojit “truall”, “arë” dhe “pemëtore”, me vlerë 9 201 065 (nëntë milionë e dyqind e një mijë e gjashtëdhjetë e pesë) lekë, do të përballohet nga fondet e miratuara për Autoritetin Rrugor Shqiptar, për vitin 2020.

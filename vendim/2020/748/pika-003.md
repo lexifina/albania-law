@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, pronë private, të kompensohen në vlerë të plotë sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë e llojit “truall”, “arë” dhe “pemëtore”, me një vlerë të përgjithshme prej 9 201 065 (nëntë milionë e dyqind e një mijë e gjashtëdhjetë e pesë) lekësh.

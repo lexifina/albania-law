@@ -1,0 +1,529 @@
+# Shtojca
+LISTA EMËRORE E PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE,
+QË SHPRONËSOHEN SI REZULTAT I NDËRTIMIT TË SEGMENTIT RRUGOR “ELBASAN-BANJË, LOTI 2”
+Nr.
+PRONARI
+Sipërfaqja totale (m2)
+Sipërfaqe
+Çmimi
+Vlera
+Vlera
+Vlera
+Adresa
+Shënime
+Emri
+Atësia
+Mbiemri
+Z. kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+shpronësimi (m2)
+lekë/m2
+në lekë
+kult./drufrutorë
+totale në lekë
+1
+SHYQYRI
+SHERIF
+ROCI
+2703
+5/11
+Arë
+2125
+1212
+222
+269,064
+18,000
+287,064
+Njësia Administrative Mjekës
+KONFIRMUAR
+2
+BP BOÇI
+2703
+5/3
+Arë
+1920
+237.5
+222
+52,725
+44,500
+97,225
+Njësia Administrative Mjekës
+KONFIRMUAR
+3
+AQIF
+SHERIF
+ROCI
+2703
+5/7
+Arë
+3125
+2524
+222
+560,328
+96,000
+656,328
+Njësia Administrative Mjekës
+KONFIRMUAR
+4
+RAMIZ
+VESEL
+ROCI
+2703
+5/8/1
+Arë
+1815
+1486
+222
+329,892
+69,800
+399,692
+Njësia Administrative Mjekës
+KONFIRMUAR
+5
+SHKELQIM
+QANI
+ROCI
+2703
+5/9
+Arë
+1000
+417
+222
+92,574
+75,800
+168,374
+Njësia Administrative Mjekës
+KONFIRMUAR
+6
+RAMADAN
+ROCI
+2703
+5/10
+Arë
+800
+302
+222
+67,044
+13,000
+80,044
+Njësia Administrative Mjekës
+KONFIRMUAR
+7
+TASI
+VASIL
+ROCI
+2703
+5/6
+Arë
+812
+383
+222
+85,026
+10,000
+95,026
+Njësia Administrative Mjekës
+KONFIRMUAR
+8
+PULIE, ANASTAS, BUKURI
+RISTO, JORGJI, APOSTOL
+DOKA
+2703
+5/4/1
+Arë
+3835
+1215
+222
+269,730
+100,800
+370,530
+Njësia Administrative Mjekës
+KONFIRMUAR
+9
+SHTET
+2703
+5/14
+Arë
+750
+156
+0
+0
+0
+Njësia Administrative Mjekës
+KONFIRMUAR
+9
+BASHKIM
+FEIM
+ROCI
+2703
+16/1
+Pemëtore
+1125
+267
+222
+59,274
+59,274
+Njësia Administrative Mjekës
+KONFIRMUAR
+10
+BESIM
+MAHMUT
+ROCI
+2703
+16/4
+Truall
+250
+39
+264
+10,296
+10,296
+Njësia Administrative Mjekës
+KONFIRMUAR
+11
+IDRIZ
+XHEMAL
+KYCYKU
+2703
+16/6
+Truall
+250
+195
+264
+51,480
+51,480
+Njësia Administrative Mjekës
+KONFIRMUAR
+12
+BP Bajrami, Murrati, Xibraku, Sina, Muca
+2703
+93/1
+Arë
+1500
+201
+222
+44,622
+44,622
+Njësia Administrative Mjekës
+KONFIRMUAR
+13
+NDRICIM
+FAIK
+BAJRAMI
+2703
+93/2
+Arë
+1000
+46
+222
+10,212
+10,212
+Njësia Administrative Mjekës
+KONFIRMUAR
+14
+DEMIR
+RESHIT
+BAJRAMI
+2703
+93/3
+Arë
+1595
+272
+222
+60,384
+60,384
+Njësia Administrative Mjekës
+KONFIRMUAR
+15
+AGRON
+DEMIR
+BAJRAMI
+2703
+93/4
+Truall
+250
+97
+264
+25,608
+25,608
+Njësia Administrative Mjekës
+KONFIRMUAR
+16
+SHYQYRI, NADIRE
+FETAH, NAZMI
+ÇEKREZI
+2703
+42/33
+Arë
+3500
+20
+222
+4,440
+4,440
+Njësia Administrative Mjekës
+KONFIRMUAR
+17
+JASHAR
+RIZA
+KULLOLLI
+2703
+124/19
+Arë
+527
+310
+222
+68,820
+68,820
+Njësia Administrative Mjekës
+KONFIRMUAR
+18
+ARDJAN
+SULEJMAN
+PREÇI
+2703
+124/31
+Arë
+940
+18
+222
+3,996
+3,996
+Njësia Administrative Mjekës
+KONFIRMUAR
+19
+ARDJAN
+HYSNI
+RUÇI
+2703
+124/32
+Arë
+839
+68
+222
+15,096
+15,096
+Njësia Administrative Mjekës
+KONFIRMUAR
+20
+FLUTUR AIDA FESTIM ANDI
+QEMAL IBRAHIM IBRAHIM IBRAHIM
+ÇEKREZI
+2703
+124/33
+Arë
+1320
+329
+222
+73,038
+73,038
+Njësia Administrative Mjekës
+KONFIRMUAR
+21
+FLUTUR AIDA FESTIM ANDI
+QEMAL IBRAHIM IBRAHIM IBRAHIM
+ÇEKREZI
+2703
+126/10
+Arë
+2365
+76
+222
+16,872
+16,872
+Njësia Administrative Mjekës
+KONFIRMUAR
+22
+SHYQYRI NADIRE
+FETAH, NAZMI
+ÇEKREZI
+2703
+126/9
+Arë
+1974
+50
+222
+11,100
+11,100
+Njësia Administrative Mjekës
+KONFIRMUAR
+23
+QEMAL
+FEHTA
+CEKREZI
+2703
+126/8
+Arë
+2024
+31
+222
+6,882
+6,882
+Njësia Administrative Mjekës
+KONFIRMUAR
+24
+NURI
+EMIN
+CEKREZI
+2703
+126/7
+Arë
+2177
+26
+222
+5,772
+5,772
+Njësia Administrative Mjekës
+KONFIRMUAR
+25
+AVNI
+EMIN
+CEKREZI
+2703
+126/6
+Arë
+1982
+30
+222
+6,660
+6,660
+Njësia Administrative Mjekës
+KONFIRMUAR
+26
+BEDRI
+EMIN
+CEKREZI
+2703
+126/5
+Arë
+2242
+35
+222
+7,770
+7,770
+Njësia Administrative Mjekës
+KONFIRMUAR
+27
+SELMAN
+EMIN
+CEKREZI
+2703
+126/4
+Arë
+2088
+35
+222
+7,770
+7,770
+Njësia Administrative Mjekës
+KONFIRMUAR
+28
+HAXHI
+SHERIF
+CEKREZI
+2703
+126/3
+Arë
+2103
+31
+222
+6,882
+6,882
+Njësia Administrative Mjekës
+KONFIRMUAR
+29
+MEREME SAIMIR MARJETA ZYBEJTE
+DALIP ILIR RYSHDI RYZHDI
+ÇEKREZI
+2703
+126/2
+Arë
+2182
+33
+222
+7,326
+7,326
+Njësia Administrative Mjekës
+KONFIRMUAR
+30
+HALIM
+BEQIR
+CEKREZI
+2703
+126/1
+Arë
+2361
+27
+222
+5,994
+5,994
+Njësia Administrative Mjekës
+KONFIRMUAR
+31
+MURAT
+FEZULLA
+CEKREZI
+2703
+127/6
+Arë
+5345
+430
+222
+95,460
+95,460
+Njësia Administrative Mjekës
+KONFIRMUAR
+32
+RAJMONDA
+KOSTANDIN
+GANCI
+2703
+131/4
+Truall
+250
+60
+264
+15,840
+15,840
+Njësia Administrative Mjekës
+KONFIRMUAR
+33
+YLLI
+PASHO
+KULLOLLI
+2703
+83/6
+Arë
+2625
+16
+222
+3,552
+3,552
+Njësia Administrative Mjekës
+KONFIRMUAR
+34
+I PAIDENTIFIKUAR
+2703
+16/5
+Pemëtore
+2185
+696
+222
+154,512
+154,512
+Njësia Administrative Mjekës
+35
+BP PALLOSHI, LABINOTI DHE FURXHI
+8526
+605
+Truall
+7290
+491
+12,764
+6,267,124
+6,267,124
+Bashkia Elbasan
+KONFIRMUAR
+Vlera totale e shpronësimit
+11861.5
+8,773,165
+427,900
+9,201,065
