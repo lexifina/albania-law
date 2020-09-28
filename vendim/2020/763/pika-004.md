@@ -1,0 +1,1 @@
+4. Pas shkëmbimit, pronat nr.2/353, 2/534, 2/355, 2/18, me sipërfaqe totale “truall” 1 470 (një mijë e katërqind e shtatëdhjetë) m2 dhe objekte, me sipërfaqe 251 6 (dyqind e pesëdhjetë e një presje gjashtë) m2, në zonën kadastrale 8280, të përdoren nga Bashkia Tiranë, në funksion të masterplanit të miratuar me planin e përgjithshëm vendor të Tiranës.
