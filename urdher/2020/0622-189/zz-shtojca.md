@@ -29,7 +29,7 @@ Krijimi i Komisionit
 2. Përbërja e tij është e parashikuar me ligj.
 TITULLI III
 ORGANIZIMI, FUNKSIONIMI DHE SHPËRBLIMI I KOMISIONIT DISIPLINOR
-Neni 6
+Neni 5
 Mënyra e organizimit të Komisionit Disiplinor dhe shpërblimi
 1. Mbledhja e Komisionit Disiplinor është e vlefshme kur janë të pranishëm më shumë se gjysma e anëtarëve të tij.
 2. Kryetari i Komisionit Disiplinor zgjidhet njëri nga anëtarët e Komisionit Disiplinor.
@@ -39,7 +39,7 @@ Mënyra e organizimit të Komisionit Disiplinor dhe shpërblimi
 6. Masa e kompensimit është 15 000 (pesëmbëdhjetë mijë) lekë për kryetarin e Komisionit Disiplinor dhe 10 000 (dhjetë mijë) lekë për secilin anëtar të Komisionit Disiplinor, për çdo kërkesë që shqyrtohet nga momenti i depozitimit, deri në vendimmarrjen përfundimtare të Komisionit.
 7. Shpenzimet për pagesën e anëtarëve, për çdo kërkesë të marrë në shqyrtim, përballohen nga Dhoma Kombëtare e Përmbaruesve Gjyqësorë Privatë për anëtarin e zgjedhur prej saj dhe nga Ministria e Drejtësisë për anëtarin e zgjedhur nga ministri i Drejtësisë dhe nga Shkolla e Magjistraturës.
 8. Shpenzimet për mbulimin e kostove administrative të punës së Komisionit Disiplinor përballohen nga Dhoma Kombëtare e Përmbaruesve Gjyqësorë Privatë.
-Neni 7
+Neni 6
 Heqja dorë ose përjashtimi i anëtarit
 1. Anëtarët e Komisionit Disiplinor duhet të tërhiqen nga shqyrtimi i një procedimi disiplinor në rastet kur ekzistojnë një nga pengesat ligjore të parashikuara në nenin 30, të Kodit të Procedurave Administrative. Në këtë rast, anëtari njofton kryetarin për heqjen dorë nga shqyrtimi i procedimit disiplior jo më vonë se 3 ditë nga data e marrjes dijeni të pengesës ligjore. Në rastet kur heq dorë kryetari, njoftohet anëtari i zgjedhur nga ministri i Drejtësisë ose anëtari i zgjedhur nga Shkolla e Magjistraturës, kur anëtari i zgjedhur nga ministri i Drejtësisë është zgjedhur njëkohësisht edhe kryetar.
 2. Ministri i Drejtësisë ose përmbaruesi ndaj të cilit po ushtrohet procedimi mund të kërkojë përjashtimin e një anëtari nga procedimi disiplinor, deri në kohën e marrjes së vendimit, duke parashtruar arsyet për të cilat kërkohet përjashtimi nga shqyrtimi i procedimit disiplinor. Kërkesa bëhet me shkrim, i drejtohet kryetarit dhe përmban të gjitha provat e mundshme në të cilat ajo mbështetet. Në rastet kur kërkesa për përjashtim paraqitet ndaj kryetarit, kërkesa i drejtohet anëtarit të zgjedhur nga ministri i Drejtësisë ose anëtarit të zgjedhur nga Shkolla e Magjistraturës, kur anëtari i zgjedhur nga ministri i Drejtësisë është zgjedhur njëkohësisht edhe kryetar.
@@ -47,11 +47,11 @@ Heqja dorë ose përjashtimi i anëtarit
 4. Komisioni Disiplinor merr vendim për përjashtimin ose konfirmimin e anëtarit, brenda 5 ditëve nga marrja e kërkesës së palëve. Anëtari i Komisionit Disiplinor, ndaj të cilit është paraqitur kërkesa, nuk merr pjesë në shqyrtimin e kërkesës për përjashtimin e tij.
 5. Kur Komisioni Disiplinor vendos përjashtimin e anëtarit, në vendimin e përjashtimit caktohet edhe anëtari zëvendësues për shqyrtimin e procedimit disiplinor. Anëtar zëvendësues caktohet kandidati, që në përfundim të procedurës së përzgjedhjes së anëtarëve të Komisionit Disiplinor, është renditur menjëherë pas anëtarëve fitues në listë. Në rast se ky kandidat nuk pranon për t’u caktuar si anëtar zëvendësues, caktohet kandidati i renditur menjëherë pas tij.
 6. Në rastet e përjashtimit dhe pamundësisë së zëvendësimit, organi funksionon si i tillë pa pjesëmarrjen e anëtarit të përjashtuar.
-Neni 8
+Neni 7
 Kompetencat funksionale të Komisionit Disiplinor
 1. Komisioni Disiplinor shqyrton të gjitha raportet e hetimit së bashku me dosjet hetimore të ministrit të Drejtësisë për procedimin disiplinor ndaj përmbaruesve gjyqësorë privatë.
 2. Komisioni Disiplinor kryen të gjitha veprimet e nevojshme hetimore, me qëllim realizimin e një hetimi të plotë dhe të gjithanshëm administrativ, në përputhje me normat e Kodit të Procedurave Administrative, kur ligji për shërbimin përmbarimor gjyqësor privat nuk parashikon ndryshe.
-Neni 9
+Neni 8
 Detyrat e kryetarit dhe anëtarit të Komisionit
 1. Kryetari i Komisionit kryen këto detyra:
 a) administron raportin e hetimit së bashku me dosjen hetimore, të paraqitur nga ministri i Drejtësisë për procedimin disiplinor ndaj përmbaruesit;
@@ -69,14 +69,14 @@ h) kryen ballafaqimet dhe saktësimet e kërkuara nga anëtarët e tjerë, si dh
 i) thërret dëshmitarë nëse ka, për dëshmi shtesë apo ekspertët nëse janë të angazhuar nga Komisioni;
 j) u jep fjalën anëtarëve të tjerë të Komisionit ose personave të tjerë të interesuar, nëse ata e kërkojnë, për të paraqitur pretendimet dhe sqarimet e tyre;
 k) siguron zbatimin e ligjit procedural dhe material të zbatueshëm për organet kolegjiale të administratës shtetërore dhe enteve publike dhe marrjen e vendimeve të drejta.
-2. Në rastet kur kryetari, nuk therret mbledhjen brenda afatit të përcaktuar në pikën 2, të nenit 10, ose nuk merr pjesë në të, pavarësisht shkakut, detyrat e parashikuara në pikën 1, të këtij neni, ushtrohen nga anëtari i zgjedhur nga ministri i Drejtësisë ose anëtari i zgjedhur nga Shkolla e Magjistraturës, kur anëtari i zgjedhur nga ministri i Drejtësisë është zgjedhur njëkohësisht edhe kryetar.
+2. Në rastet kur kryetari, nuk therret mbledhjen brenda afatit të përcaktuar në pikën 2, të nenit 9, ose nuk merr pjesë në të, pavarësisht shkakut, detyrat e parashikuara në pikën 1, të këtij neni, ushtrohen nga anëtari i zgjedhur nga ministri i Drejtësisë ose anëtari i zgjedhur nga Shkolla e Magjistraturës, kur anëtari i zgjedhur nga ministri i Drejtësisë është zgjedhur njëkohësisht edhe kryetar.
 3. Anëtari i Komisionit kryen të paktën këto detyra:
 a) përcjell me shkrim ose në rrugë elektronike konfirmimin për pjesëmarrje në mbledhje pranë kryetarit të Komisionit Disiplinor;
 b) bën relatimin e çështjes në seancë para Komisionit Disiplinor, në rastin kur ai është anëtari i zgjedhur nga kryetari sipas germës “ç”, të pikës 1, të këtij neni;
 c) ruan të dhënat me të cilat është njohur gjatë kryerjes së veprimtarisë së tij, duke respektuar parimin e konfidencialitetit dhe mbrojtjes së të dhënave personale sipas legjislacionit në fuqi;
 ç) tërhiqet nga shqyrtimi i çështjes, nëse ndodhet para kushteve të përcaktuara në shkronjën “d”, të pikës 1, të këtij neni;
-d) voton për vendimet që merr Komisioni Disiplinor, me përjashtim të rastit kur tërhiqet nga shqyrtimi i çështjes, sipas germës “ç”, të pikës 2, të këtij neni.
-Neni 10
+d) voton për vendimet që merr Komisioni Disiplinor, me përjashtim të rastit kur tërhiqet nga shqyrtimi i çështjes, sipas shkronjës “ç”, të pikës 3, të këtij neni.
+Neni 9
 Mbledhja e Komisionit
 1. Komisioni mblidhet dhe zhvillon seancën dëgjimore jo më vonë se 15 ditë nga paraqitja e raportit të hetimit së bashku me dosjen hetimore nga ministri i Drejtësisë për procedim disiplinor.
 2. Kryetari cakton datën e mbledhjes jo më vonë se 3 ditë nga marrja e raportit të hetimit. Çdo ndryshim për datën e mbledhjes i njoftohet pa vonesë çdo anëtari të Komisionit. Afati për zhvillimin e seancës dëgjimore mund të zgjatet deri në 45 ditë, nëse Komisioni Disiplinor është i bindur se ka arsye të rëndësishme për shtyrjen.
@@ -91,11 +91,11 @@ e) rezultatet e votimit, mënyrën e votimit të secilit anëtar dhe arsyetimin 
 4. Procesverbali i mbledhjes u paraqitet për miratim të gjithë anëtarëve në fund të mbledhjes ose në fillim të mbledhjes pasardhëse. Pas miratimit, procesverbali nënshkruhet së bashku nga kryetari, sekretari dhe nga anëtari i zgjedhur nga ministri i Drejtësisë, kur ky i fundit nuk është caktuar si sekretar.
 5. Mbledhjet e Komisionit Disiplinor dokumentohen edhe nëpërmjet regjistrimit audio.
 6. Një kopje e procesverbalit të mbledhjes, regjistrimi audio, transkriptimi i tij, nëse është e mundur dhe të çdo materiali tjetër të administruar gjatë zhvillimit të saj depozitohet së bashku me vendimin përfundimtar të arsyetuar pranë ministrit të Drejtësisë.
-Neni 11
+Neni 10
 Detyrimi për të marrë pjesë në mbledhje
 1. Pjesëmarrja në mbledhjet e Komisionit Disiplinor është e detyrueshme. Në rastet kur një anëtar nuk merr pjesë në tri mbledhje të njëpasnjëshme, pa një shkak të ligjshëm, konsiderohet që ka hequr dorë si anëtar i Komisionit Disiplinor. Në këtë rast kryetari ose në rastin kur kryetari nuk merr pjesë në tri mbledhje të njëpasnjëshme, anëtari i zgjedhur nga ministri i Drejtësisë njofton menjëherë organin e emërtesës dhe Ministrinë e Drejtësisë.
 2. Organi i emërtesës fillon procedurën për zgjedhjen e anëtarit të ri të Komisionit Disiplinor jo më vonë se 15 ditë nga data e marrjes së njoftimit.
-Neni 12
+Neni 11
 Marrja e vendimeve nga Komisioni
 1. Mbledhja e Komisionit është e vlefshme kur janë të pranishëm më shumë se gjysma e anëtarëve të tij.
 2. Komisioni Disiplinor merr vendim në lidhje me angazhimin e ekspertëve dhe përcaktimin e detyrave të tyre, shtyrjen e seancave, pranueshmërinë e provave, zgjidhjen e çështjes, si dhe çdo çështje tjetër që e vlerëson të nevojshme ose të përshtatshme në trajtimin e çështjes.
@@ -109,12 +109,12 @@ Marrja e vendimeve nga Komisioni
 10. Votat e anëtarëve të Komisionit Disiplinor regjistrohen në procesverbalin e mbledhjes.
 TITULLI IV
 PROCEDURA PËRPARA KOMISIONIT DISIPLINOR
-Neni 13
+Neni 12
 Nisja e procedurës
 1. Ministri i Drejtësisë, me kërkesë të tij, dhe duke u bazuar në rezultatet e hetimit, ndërmerr nismën e fillimit të procedimit disiplinor, duke ia kaluar raportin e hetimit dhe dosjen hetimore Komisionit Disiplinor.
 2. Procedimi disiplinor kundër përmbaruesit gjyqësor privat fillon kur gjatë hetimit që ka zhvilluar Ministria e Drejtësisë konstatohen shkelje të detyrës apo veprime të parregullta gjatë ushtrimit të veprimtarisë së përmbaruesit gjyqësor privat.
 3. Procedimi disiplinor kundër përmbaruesit gjyqësor privat vazhdon edhe në rast se pala në proces ekzekutimi tërheq ankimin dhe gjatë verifikimit janë konstatuar shkelje të detyrës apo veprime të parregullta, të kryera gjatë ushtrimit të veprimtarisë.
-Neni 14
+Neni 13
 Njoftimi i subjektit ndaj të cilit ka filluar procedimi disiplinor
 1. Subjekti i procedimit njoftohet të paktën 10 ditë përpara zhvillimit të seancës në lidhje me datën, orën dhe vendin e zhvillimit.
 2. Subjekti i procedimit njoftohet në lidhje me:
@@ -126,7 +126,7 @@ d) për të marrë masa të tjera për paraqitjen e provave në mbështetje të 
 dh) për t’u përfaqësuar, sipas parashikimeve të Kodit të Procedurave Administrative.
 3. Njoftimi i subjektit, për të cilin është vendosur fillimi i procedimit disiplinor, bëhet nëpërmjet postës elektronike zyrtare të përmbaruesit gjyqësor apo në rrugë postare në adresat e deklaruara në “Regjistrin e përmbaruesve gjyqësorë privatë” dhe “Regjistrin unik të të dhënave për zyrat përmbarimore dhe përmbaruesit gjyqësorë privatë”.
 4. Palët kanë të drejtë të njoftohen për çdo vendim të Komisionit Disiplinor brenda 5 ditëve nga marrja e tij.
-Neni 15
+Neni 14
 Përfundimi i procedimit disiplinor
 1. Pas shqyrtimit të të gjitha fakteve dhe provave, Komisioni Disiplinor vendos:
 a) rrëzimin e kërkesës për procedim disiplinor, për shkak se faktet e pretenduara nuk kanë ndodhur ose ato nuk përbëjnë shkelje disiplinore; ose
@@ -142,11 +142,11 @@ dh) pjesën arsyetuese;
 e) dispozitivin që tregon;
 ë) të drejtën dhe afatet e ankimit;
 f) nënshkrimin e kryetarit dhe sekretarit të Komisionit Disiplinor.
-Neni 16
+Neni 15
 Nxjerrja e urdhrit të ministrit të Drejtësisë
 1. Ministri i Drejtësisë, brenda 2 javëve nga data e paraqitjes së vendimit të Komisionit Disiplinor dhe materialeve shoqëruese ose brenda 1 muaji në rastin e gjobës, nxjerr urdhrin për zbatimin e masave që vendosen në procedimin disiplinor, në të cilin parashikohen edhe modalitetet e zbatimit të tij.
 2. Urdhri për zbatimin e masës disiplinore jepet i arsyetuar dhe i njoftohet subjektit të procediimit dhe Dhomës Kombëtare të Përmbaruesve Gjyqësorë Privatë, me shkrim brenda 5 ditëve nga nxjerrja e tij.
 3. Vendimi i Komisionit Disiplinor, pas kalimit të afatit të ankimit ose kur lihet në fuqi nga gjykata, evidentohet në regjistrat e përmbaruesve gjyqësorë privatë, të parashikuar në nenin 23, të ligjit për shërbimin përmbarimor gjyqësor privat.
-Neni 17
+Neni 16
 Ankimi
 Kundër vendimeve të Komisionit Disiplinor mund të bëhet ankim në gjykatën administrative kompetente brenda 45 ditëve nga data e njoftimit të vendimit.
