@@ -1,0 +1,1 @@
+11. Respektimi rigoroz i masave të distancimit social, rregullave të higjienës, masave parandaluese etj., nuk duhet të shkaktojë mundësi për diskriminim të personave që paraqiten pranë komisioneve për vlerësim.

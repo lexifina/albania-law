@@ -1,0 +1,1 @@
+5. Pastrimi dhe dezinfektimi i të gjitha ambienteve të komisioneve do të kryhet rregullisht çdo ditë dhe pas çdo komisionimi do të kryhet ajrosja e ambienteve, për jo më pak se 15 minuta, si edhe dezinfektimi i të gjitha sipërfaqeve, mjeteve të punës dhe të dorezave të dyerve.

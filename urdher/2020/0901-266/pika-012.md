@@ -1,0 +1,1 @@
+12. Në ambientet e komisioneve vendosen postera ilustrues të afishuar, postera të larjes dhe të dezinfektimit të duarve, si edhe afishohen rregullat e ndryshuara, të cilat do të zbatohen për parandalimin e përhapjes së infeksionit të shkaktuar nga COVID-19.

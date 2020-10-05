@@ -1,0 +1,1 @@
+7. Për personat që paraqiten për vlerësim realizohet matja e temperaturës nga personel që është i pajisur me veshjen e përshtatshme sipas protokolleve të miratuara nga Ministria e Shëndetësisë dhe Mbrojtjes Sociale.

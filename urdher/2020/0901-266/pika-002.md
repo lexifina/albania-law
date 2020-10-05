@@ -1,0 +1,1 @@
+2. Afatet e parashikuara sipas rregulloreve të Shërbimit Social Shtetëror dhe Institutit të Sigurimeve Shoqërore të mos aplikohen për periudhën e shpalljes së gjendjes së fatkeqësisë natyrore për shkak të epidemisë, COVID-19.

@@ -1,0 +1,1 @@
+8. Në ambientet e pritjes jashtë zyrës së vlerësimit, respektohen rregullat e distancimit social gjatë kohës që personat presin për të kryer procedurën e vlerësimit, duke ruajtur distancën prej 1,5-2 m larg njëri-tjetrit, dhe merren masa për të evituar grumbullimet masive të tyre gjatë pritjes, duke përcaktuar datat dhe oraret e vlerësimit për çdo rast.

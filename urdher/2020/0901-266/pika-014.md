@@ -1,0 +1,1 @@
+14. Anëtarët e komisioneve mjekësore janë të detyruar të mos bëhen pjesë e mbledhjes nëse nuk ndjehen mirë ose nëse kanë simptoma të ngjashme me ato të infektimit të COVID-19 dhe njoftojnë drejtuesin e institucionit nëse janë apo kanë pasur kontakt të ngushtë me një person pozitiv me COVID-19.

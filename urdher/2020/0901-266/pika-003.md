@@ -1,0 +1,1 @@
+3. Anëtarët e komisioneve pajisen me të gjitha mjetet mbrojtëse (maskë mbrojtëse për fytyrën, doreza për duart) dhe ruajnë distancën fizike 1.5-2 metra nga njëri-tjetri dhe nga personi që paraqitet për vlerësim, për rastet ku komisionet nuk do të kryejnë vlerësim vetëm me dosje dhe është e domosdoshme prezenca e qytetarit.
