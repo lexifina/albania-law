@@ -1,12 +1,12 @@
 LIGJ
 
-Nr.10 019, datë 29.12.2008
+Nr. 10 019, datë 29.12.2008
 
 KODI ZGJEDHOR I REPUBLIKËS SË SHQIPËRISË
 
-(ndryshuar me ligjet nr.74/2012, datë 19.07.2012 dhe ligjin nr. 31/2015, datë 02.04.2015, nr. 101/2020, datë 23.7.2020)
+(Ndryshuar me ligjet nr.74/2012, datë 19.07.2012 , nr. 31/2015, datë 02.04.2015, nr. 101/2020, datë 23.7.2020, nr. 118/2020, datë  5.10.2020)
 
-(i përditësuar, 2020)
+(I përditësuar)
 
 Në mbështetje të neneve 81 pika 2 dhe 83 pika 1 të Kushtetutës, me propozimin e një grupi deputetësh,
 
@@ -54,7 +54,7 @@ Neni 2
 
 Përkufizime
 
-(Shtuar pika 15/1 dhe shfuqizuar pika 21, me ligjin nr.74/2012, datë 19.7.2012, shtuar pikat 26-31 me ligjin nr. 101/2020, datë 23.7.2020)
+(Shtuar pika 15/1 dhe shfuqizuar pika 21, me ligjin nr.74/2012, datë 19.7.2012, shtuar pikat 26-31 me ligjin nr. 101/2020, datë 23.7.2020, zëvendësuar fjalë në pikën 7, ndryshuar pika 22  me ligjin  nr. 118/2020, datë  5.10.2020)
 
 Në këtë Kod termat e mëposhtëm kanë këto kuptime:
 
@@ -78,9 +78,7 @@ votohet në zgjedhje.
 
 6. “KQV” është Komisioni i Qendrës së Votimit.
 
-7. “KQZ” është Komisioni Qendror i Zgjedhjeve, i cili është organi më i lartë shtetëror i
-
-përhershëm,  i  ngarkuar  për  administrimin  e  zgjedhjeve,  në  përputhje  me  rregullat  e përcaktuara në këtë Kod.
+7. “KQZ” është Komisioni Qendror i Zgjedhjeve, i cili është institucioni shtetëror i  ngarkuar  për  administrimin  e  zgjedhjeve,  në  përputhje  me  rregullat  e përcaktuara në këtë Kod.
 
 8. “KZAZ”  është  Komisioni  i  Zonës  së  Administrimit  Zgjedhor,  që   ngrihet  dhe
 
@@ -140,9 +138,7 @@ vendore; dhe
 
 21. Shfuqizuar.
 
-22. “Zgjedhje të pjesshme” janë votimet për të plotësuar vendin e kryetarit të bashkisë,
-
-si dhe për zgjedhjen e një këshilli të ri vendor në rast shpërndarjeje.
+       22. “Zgjedhje të pjesshme” janë zgjedhjet që kryhen në një apo më shumë njësi të qeverisjes vendore për kryetarin e bashkisë ose për këshillin bashkiak, kur mbetet vakant posti i kryetarit të bashkisë ose kur shpërndahet para kohe këshilli bashkiak.
 
 23. “Zgjedhje”  janë  votimet  për  Kuvendin,  për  njësitë  e  qeverisjes  vendore  dhe referendumet.
 
@@ -226,9 +222,9 @@ Neni 6
 
 E drejta për të caktuar vëzhgues
 
-(Ndryshuar pika 1 dhe 4 dhe shfuqizuar pika 3, me ligjin nr.74/2012, datë 19.07.2012)
+(Ndryshuar pika 1 dhe 4 dhe shfuqizuar pika 3, me ligjin nr.74/2012, datë 19.07.2012, zëvendësuar fjalë në fjalinë e parë të pikës 1 , ndryshuar fjalë në pikën 6 me ligjin  nr. 118/2020, datë  5.10.2020)
 
-1. Çdo parti politike apo kandidat i propozuar nga zgjedhësit, i regjistruar në KQZ si subjekt zgjedhor, ka të drejtë të caktojë nga një vëzhgues në KZAZ, në KQV dhe për çdo tavolinë në Vendin e Numërimit të Votave pas regjistrimit të kandidatit/kandidatëve për zonën zgjedhore përkatëse ose pasi ka paraqitur listë shumemërore. Në rast se partitë politike paraqiten në zgjedhje si koalicion, të drejtën për të caktuar vëzhgues e ka vetëm koalicioni. Koalicioni mund të caktojë jo më shumë se tre përfaqësues për koalicion. Kandidatët e partive politike nuk kanë të drejtë të caktojnë vëzhgues.
+1. Çdo subjekt zgjedhor, ka të drejtë të caktojë nga një vëzhgues në KZAZ, në KQV dhe për çdo tavolinë në Vendin e Numërimit të Votave pas regjistrimit të kandidatit/kandidatëve për zonën zgjedhore përkatëse ose pasi ka paraqitur listë shumemërore. Në rast se partitë politike paraqiten në zgjedhje si koalicion, të drejtën për të caktuar vëzhgues e ka vetëm koalicioni. Koalicioni mund të caktojë jo më shumë se tre përfaqësues për koalicion. Kandidatët e partive politike nuk kanë të drejtë të caktojnë vëzhgues.
 
 2. Organizatat joqeveritare shqiptare dhe të huaja, si dhe organizatat ndërkombëtare të specializuara ose të angazhuara në mirëqeverisjen dhe demokratizimin, përfaqësuesit e shteteve të huaja dhe të medias kanë të drejtë të dërgojnë vëzhgues në zgjedhje.
 
@@ -238,7 +234,7 @@ E drejta për të caktuar vëzhgues
 
 5. Kërkesat e vëzhguesve shqiptarë për akreditim i paraqiten KQZ-së jo më vonë se 15 ditë para datës së zgjedhjeve. KQZ-ja miraton kërkesat jo më vonë se 5 ditë nga paraqitja e tyre. Kërkesat e vëzhguesve të huaj paraqiten në KQZ jo më vonë se 72 orë para datës së zgjedhjeve. KQZ-ja miraton kërkesat e vëzhguesve të huaj brenda 24 orëve nga paraqitja e tyre. Ndaj refuzimit ose mosdhënies së akreditimit mund të bëhet ankim, sipas procedurave të këtij Kodi.
 
-6. KQZ-ja ka të drejtë, me udhëzim të veçantë, t’u delegojë KZAZ-ve kompetencën e akreditimit të vëzhguesve, sipas pikave 1 dhe 3 të këtij neni.
+6. KQZ-ja ka të drejtë, me udhëzim të veçantë, t’u delegojë KZAZ-ve kompetencën e akreditimit të vëzhguesve, sipas pikës 1 të këtij neni.
 
 Neni 7
 
@@ -304,9 +300,11 @@ Neni 10
 
 Caktimi i datës së zgjedhjeve për organet e qeverisjes vendore
 
-1. Data e zgjedhjeve për organet e qeverisjes vendore caktohet me dekret nga Presidenti i Republikës. Për caktimin e datës së zgjedhjeve për organet e qeverisjes vendore, Presidenti zbaton rregullat e parashikuara në pikat 1 dhe 2 të nenit 9 të këtij Kodi.
+(ndryshuar fjalë në pikën 1, ndryshuar pika 2 me ligjin  nr. 118/2020, datë  5.10.2020)
 
-2. Për efekt të këtij Kodi, mandati i organeve të qeverisjes vendore mbaron në të njëjtën datë të të njëjtit muaj të vitit të katërt pas datës së shpalljes me vendim të KQZ-së në shkallë vendi të rezultateve të zgjedhjeve për organet e qeverisjes vendore.
+1. Data e zgjedhjeve për organet e qeverisjes vendore caktohet me dekret nga Presidenti i Republikës. Për caktimin e datës së zgjedhjeve për organet e qeverisjes vendore, Presidenti zbaton rregullat e parashikuara në pikat 3 dhe 4 të nenit 9 të këtij Kodi.
+
+2. Për efekt të caktimit të datës së zgjedhjeve, kohëzgjatja e mandatit të organeve të qeverisjes vendore përllogaritet deri në të njëjtën datë të të njëjtit muaj të vitit të katërt pas datës së shpalljes me vendim të KQZ-së në shkallë vendi të rezultateve të zgjedhjeve për organet e qeverisjes vendore.
 
 3. Në rast të ndërprerjes së mandatit, për shkaqet e parashikuara në nenin 115 të Kushtetutës, zgjedhjet mbahen jo më parë se 30 ditë dhe jo më vonë se 45 ditë nga data e njoftimit  të  ndërprerjes  së  mandatit.  Në  rast  ankimi  të  organit  të  shpërndarë  ose  të shkarkuar, zgjedhjet zhvillohen jo më parë se 30 ditë dhe jo më vonë se 45 ditë nga mbarimi i afatit që ka organi i shpërndarë për të ankimuar vendimin e Këshillit të Ministrave në Gjykatën Kushtetuese, kur kjo e drejtë nuk është ushtruar, ose data e vendimit të Gjykatës Kushtetuese, në rast se është ankuar në këtë gjykatë brenda afatit të nenit 115 pika 2 të Kushtetutës. Në çdo rast, Presidenti i Republikës nxjerr dekretin jo më vonë se 48 orë nga njoftimi për ndërprerjen e mandatit.
 
@@ -336,6 +334,8 @@ Neni 12
 
 Përbërja dhe funksionimi i KQZ-së
 
+(hequr fjalë në fjalinë e tretë të pikës 4 , hequr fjalë në fjalinë e tretë të pikës 5 me ligjin  nr. 118/2020, datë  5.10.2020)
+
 1. Komisioni Qendror i Zgjedhjeve është institucioni përgjegjës për organizimin dhe administrimin e zgjedhjeve dhe referendumeve, i cili drejton dhe mbikëqyr veprimtarinë e administratës zgjedhore, monitoron veprimtarinë e subjekteve zgjedhore, organeve dhe institucioneve shtetërore dhe të medias në raport me zgjedhjet, si dhe zgjidh në rrugë administrative kërkesat apo ankesat që kanë lidhje me procesin zgjedhor.
 
 2. Organet drejtuese të KQZ-së janë:
@@ -348,9 +348,9 @@ c) Komisioni i Ankimimeve dhe Sanksioneve.
 
 3. Komisioneri Shtetëror i Zgjedhjeve (Komisioneri) është organ monokratik, që ushtron kompetencat ekzekutive, drejton administratën e KQZ-së dhe përfaqëson KQZ-në në marrëdhëniet me të tretët.
 
-4. Komisioni Rregullator (Rregullatori) është organi kompetent për miratimin e akteve me karakter normativ në fushën e zgjedhjeve dhe vendosjen e rregullave për zgjedhjet. Rregullatori funksionon me kohë të pjesshme dhe e ushtron veprimtarinë në mbledhje publike, të cilat thirren nga Komisioneri. Në rast se Komisioneri nuk vë në lëvizje Rregullatorin ose KAS-in kur ka çështje të kompetencës së tyre, atëherë organet vetëmblidhen me kërkesë të çdo anëtari. Për pjesëmarrjen në mbledhje anëtarët e Rregullatorit përfitojnë shpërblim në masën 50 për qind të pagës mujore të Komisionerit, por jo më shumë se 80 për qind të pagës vjetore të këtij të fundit.
+4. Komisioni Rregullator (Rregullatori) është organi kompetent për miratimin e akteve me karakter normativ në fushën e zgjedhjeve dhe vendosjen e rregullave për zgjedhjet. Rregullatori funksionon me kohë të pjesshme dhe e ushtron veprimtarinë në mbledhje publike, të cilat thirren nga Komisioneri. Në rast se Komisioneri nuk vë në lëvizje Rregullatorin kur ka çështje të kompetencës së tyre, atëherë organet vetëmblidhen me kërkesë të çdo anëtari. Për pjesëmarrjen në mbledhje anëtarët e Rregullatorit përfitojnë shpërblim në masën 50 për qind të pagës mujore të Komisionerit, por jo më shumë se 80 për qind të pagës vjetore të këtij të fundit.
 
-5. Komisioni i Ankimimeve dhe Sanksioneve (KAS) është organ kompetent për shqyrtimin e ankimimeve administrative dhe për vendosjen e sanksioneve për shkelje të ligjit zgjedhor. KAS-i funksionon me kohë të pjesshme dhe e ushtron veprimtarinë në seanca publike të shqyrtimit administrativ, të cilat thirren nga Komisioneri, me pjesëmarrjen e palëve të interesuara. Në rast se Komisioneri nuk vë në lëvizje Rregullatorin ose KAS-in kur ka çështje të kompetencës së tyre, atëherë organet vetëmblidhen me kërkesë të çdo anëtari. Për veprimtarinë e tyre gjatë periudhës, e cila fillon 48 orë pas dekretimit të zgjedhjeve të përgjithshme për Kuvendin, zgjedhjeve për organet e qeverisjes vendore ose zgjedhjeve të pjesshme, deri në përfundim të shqyrtimit administrativ të ankimeve zgjedhore ose të kalimit të afateve të ankimit për zgjedhje, anëtarët e KAS-it përfitojnë shpërblim të barabartë me shumën e pesë pagave mujore të Komisionerit. Për veprimtarinë që zhvillojnë jashtë kësaj periudhe, anëtarët e KAS-it përfitojnë shpërblim në masën 50 për qind të pagës mujore të Komisionerit.
+5. Komisioni i Ankimimeve dhe Sanksioneve (KAS) është organ kompetent për shqyrtimin e ankimimeve administrative dhe për vendosjen e sanksioneve për shkelje të ligjit zgjedhor. KAS-i funksionon me kohë të pjesshme dhe e ushtron veprimtarinë në seanca publike të shqyrtimit administrativ, të cilat thirren nga Komisioneri, me pjesëmarrjen e palëve të interesuara. Në rast se Komisioneri nuk vë në lëvizje KAS-in kur ka çështje të kompetencës së tyre, atëherë organet vetëmblidhen me kërkesë të çdo anëtari. Për veprimtarinë e tyre gjatë periudhës, e cila fillon 48 orë pas dekretimit të zgjedhjeve të përgjithshme për Kuvendin, zgjedhjeve për organet e qeverisjes vendore ose zgjedhjeve të pjesshme, deri në përfundim të shqyrtimit administrativ të ankimeve zgjedhore ose të kalimit të afateve të ankimit për zgjedhje, anëtarët e KAS-it përfitojnë shpërblim të barabartë me shumën e pesë pagave mujore të Komisionerit. Për veprimtarinë që zhvillojnë jashtë kësaj periudhe, anëtarët e KAS-it përfitojnë shpërblim në masën 50 për qind të pagës mujore të Komisionerit.
 
 6. Anëtarët e Rregullatorit dhe të KAS-it nuk mund të ushtrojnë njëkohësisht detyra të tjera brenda organeve, institucioneve apo enteve, pjesë e pushtetit ekzekutiv.
 
@@ -1146,11 +1146,11 @@ Neni 51
 
 Publikimi i ekstraktit të përbërësve zgjedhorë
 
-(Ndryshuar me ligjin nr.74/2012, datë 19.7.201)
+(Ndryshuar me ligjin nr.74/2012, datë 19.7.2012, ndryshuar fjalë në pikën 2 me ligjin  nr. 118/2020, datë  5.10.2020)
 
 1. Drejtoria e Përgjithshme e Gjendjes Civile,  jo më vonë se 5 ditë nga dita e dekretimit të datës së zgjedhjeve, urdhëron zyrat e gjendjes civile të fillojnë procesin e hartimit të ekstraktit të përbërësve zgjedhorë, në përputhje me këtë Kod. Jo më vonë se 15 ditë nga dita e dekretimit, zyra e gjendjes civile nxjerr në format elektronik ekstraktin me përbërësit zgjedhorë të të gjithë shtetasve me të drejtë vote në datën e zgjedhjeve, me përjashtim të shtetasve që kanë mbushur 100 vjeç deri në këtë datë.
 
-2. Kur ekstrakti i një zone qendre votimi ka një numër zgjedhësish më të vogël se 200 zgjedhës, RKGjC-ja nuk lejon hartimin e ekstraktit për zonën e qendrës së votimit respektive. Në këtë rast zyra e gjendjes civile njofton jo më vonë se 48 orë nga konstatimi kryetarin e njësisë vendore dhe Drejtorinë e Përgjithshme të Gjendjes Civile. Kryetari i njësisë vendore zbaton detyrimet që rrjedhin nga pikat 6 dhe 7 të nenit 62 të këtij Kodi. Sistemi kompjuterik mundëson ndryshimin e qendrës së votimit dhe ekstraktin respektiv pas bashkimit, sipas kësaj pike.
+2. Kur ekstrakti i një zone qendre votimi ka një numër zgjedhësish më të vogël se 300 zgjedhës, RKGjC-ja nuk lejon hartimin e ekstraktit për zonën e qendrës së votimit respektive. Në këtë rast zyra e gjendjes civile njofton jo më vonë se 48 orë nga konstatimi kryetarin e njësisë vendore dhe Drejtorinë e Përgjithshme të Gjendjes Civile. Kryetari i njësisë vendore zbaton detyrimet që rrjedhin nga pikat 6 dhe 7 të nenit 62 të këtij Kodi. Sistemi kompjuterik mundëson ndryshimin e qendrës së votimit dhe ekstraktin respektiv pas bashkimit, sipas kësaj pike.
 
 3. Kur numri i zgjedhësve të një zone qendre votimi është më i madh se 1,000, ekstrakti i zgjedhësve ndahet në aq pjesë të barabarta sa qendra votimi ngrihen për atë zonë qendre votimi, në përputhje me nenin 62. Listat e ndara u caktohen qendrave në përputhje me numrin rendor të zgjedhësve, ku pjesa e parë i përket qendrës së votimit me numrin bazë. Në këtë rast, programi kompjuterik i RKGjC-së bën ndarjen automatike të listës mbi bazën e numrit të qendrës së votimit të caktuar çdo zgjedhësi. Zgjedhësit me të njëjtin mbiemër nuk mund të ndahen në lista të ndryshme.
 
@@ -1452,11 +1452,13 @@ Neni 65
 
 Regjistrimi i koalicioneve zgjedhore
 
-(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012)
+(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012, shtuar pika 3 me ligjin nr. 118/2020, datë  5.10.2020)
 
 1. Dy ose më shumë parti politike të regjistruara si subjekte zgjedhore në KQZ, sipas nenit 64 të këtij Kodi, mund të regjistrohen në KQZ si koalicion zgjedhor në shkallë vendi jo më vonë se 60 ditë përpara datës së zgjedhjeve.
 
 2. Partia politike pjesëmarrëse në një koalicion nuk mund të marrë pjesë në një koalicion tjetër dhe as të paraqesë kandidatë apo listë shumemërore kandidatësh jashtë koalicionit ku ajo bën pjesë.
+
+        3. Në momentin e regjistrimit, koalicioni duhet të deklarojë partinë politike udhëheqëse të koalicionit. Për nevojat e zbatimit të këtij ligji, të gjitha të drejtat dhe detyrimet që ky ligj përcakton për subjektet zgjedhore përmbushen nga partia udhëheqëse e koalicionit. Marrëdhëniet midis partive pjesëtare të koalicionit dhe detyrimet reciproke midis tyre rregullohen në marrëveshjen e koalicionit, e cila është pjesë e dokumentacionit që depozitohet nga koalicioni në KQZ.
 
 Neni 66
 
@@ -1468,21 +1470,19 @@ Neni 67
 
 Lista e kandidatëve të partive dhe koalicioneve të partive
 
-(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012 dhe ndryshuar pika 3 dhe 6, me ligjin nr. 31/2015, datë 2.4.2015, ndryshuar pikat 5 dhe 6 me ligjin nr. 101/2020, datë 23.7.2020)
+(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012 dhe ndryshuar pika 3 dhe 6, me ligjin nr. 31/2015, datë 2.4.2015, ndryshuar pikat 5 dhe 6 me ligjin nr. 101/2020, datë 23.7.2020, ndryshuar pikat 1 deri në 5 me ligjin nr.. 118/2020, datë  5.10.2020)
 
-1. Partia politike, që është regjistruar në KQZ si subjekt zgjedhor për zgjedhjet në Kuvend, depoziton në KQZ listën shumemërore të kandidatëve të saj për çdo zonë zgjedhore jo më vonë se 50 ditë para datës së zgjedhjeve.
+1. Partia politike ose koalicioni zgjedhor, në kuptim të nenit 65, që është regjistruar në KQZ si subjekt zgjedhor për zgjedhjet në Kuvend, depoziton në KQZ listën shumemërore të kandidatëve të tij për çdo zonë zgjedhore jo më vonë se 50 ditë para datës së zgjedhjeve.
 
 Për zgjedhjet e organeve të qeverisjes vendore, kandidati për kryetar të njësisë së qeverisjes vendore dhe lista e kandidatëve për këshillat vendorë regjistrohen në KZAZ-në që mbulon njësinë e qeverisjes vendore brenda afatit të përcaktuar në këtë pikë. KZAZ-ja dorëzon një kopje të listës në KQZ brenda 48 orëve.
 
-2. Partia politike, pjesëtare e një koalicioni, depoziton në KQZ listën shumemërore të kandidatëve të saj për çdo zonë zgjedhore jo më vonë se 50 ditë para datës së zgjedhjeve.
+2. Në zbatim të paragrafit të dytë të pikës 1 të këtij neni, lista e subjektit depozitohet në KQZ në rastet kur territori i njësisë së qeverisjes vendore nuk mbulohet nga një KZAZ e vetme.
 
-Për zgjedhjet e organeve të qeverisjes vendore lista e kandidatëve regjistrohet në KZAZ-në që mbulon njësinë e qeverisjes vendore brenda afatit të përcaktuar në këtë pikë. KZAZ-ja dorëzon një kopje të listës në KQZ brenda 48 orëve.
+3. Kandidati për deputet, i regjistruar në një listë shumemërore në një zonë zgjedhore, ose kandidati për kryetar bashkie apo për këshillin e bashkisë nuk mund të regjistrohet si i tillë për një zonë zgjedhore tjetër, qoftë edhe për llogari të një partie apo koalicioni tjetër dhe as si i propozuar nga një grup zgjedhësish. Bën përjashtim nga ky rregull kryetari i partisë apo i partisë udhëheqëse të koalicionit, i cili në zgjedhjet për Kuvendin mund të regjistrohet deri në katër zona zgjedhore. Pas shpërndarjes së mandateve, sipas këtij ligji, ai nuk mund të zotërojë më shumë se një mandat, të cilin e zgjedh me vullnetin e tij të lirë.
 
-3. Në zbatim të paragrafit të dytë, të pikës 1, dhe të paragrafit të dytë, të pikës 2, të këtij neni, kandidati për kryetar bashkie dhe listat për këshillin e bashkisë, territori i të cilave nuk mbulohet nga një KZAZ e vetme, regjistrohen në KQZ.
+4. Emrat në listën shumemërore të subjektit zgjedhor paraqiten të renditura sipas rendit shifror, duke filluar nga numri një. Numri i kandidatëve në listën shumemërore nuk mund të jetë më i vogël se numri i mandateve që do të zgjidhen në zonën zgjedhore përkatëse, shtuar dy. Në çdo rast, numri i kandidatëve në listën shumemërore duhet të jetë i plotpjesëtueshëm me numrin tre. Për koalicionet përbri emrit të kandidatit shënohet cilës parti i përket kandidati. 
 
-4. Kandidati për deputet, i regjistruar në një listë shumemërore në një zonë zgjedhore ose  kandidati  për  këshillat  e  bashkisë  nuk  mund  të  regjistrohet  si  i  tillë  për  një  zone zgjedhore tjetër, qoftë edhe për llogari të një partie apo koalicioni tjetër dhe as si i propozuar nga një grup zgjedhësish.
-
-5. Emrat në listën shumemërore të subjektit zgjedhor paraqiten të renditura sipas rendit shifror, duke filluar nga numri një. Numri i kandidatëve në listën shumemërore nuk mund të jetë më i vogël se numri i mandateve që do të zgjidhen në zonën zgjedhore përkatëse, shtuar dy. Në çdo rast, numri i kandidatëve në listën shumemërore duhet të jetë i plotpjesëtueshëm me numrin tre. Për partitë pjesëtare të koalicionit, që garojnë me lista shumemërore të veçanta, numri i kandidatëve në listën shumemërore nuk mund të jetë më i vogël se gjysma e numrit të mandateve që do të zgjidhen në zonën zgjedhore përkatëse, shtuar dy. Në çdo rast numri i kandidatëve në listën shumemërore të partisë duhet të jetë i plotpjesëtueshëm me numrin tre.
+5. Subjekti zgjedhor nuk mund të ndryshojë renditjen e kandidatëve të listës pas regjistrimit të saj. Kandidatët rirenditen vetëm në zbatim të procedurave të këtij ligji për përllogaritjen e mandateve fituese në bazë të votimit parapëlqyes dhe të plotësimit të kushtit ligjor për kuotën gjinore.
 
 6. Për çdo zonë zgjedhore në zgjedhjet për Kuvendin jo më pak se një në çdo tre emra të listës shumemërore duhet t’i përkasë gjinisë së nënpërfaqësuar, kurse në zgjedhjet për këshillat bashkiakë një në çdo dy emra të njëpasnjëshëm në renditje duhet t’i përkasë së njëjtës gjini.
 
@@ -1492,13 +1492,15 @@ Neni 68
 
 Listat mbështetëse të partive politike dhe koalicioneve
 
-(Ndryshuar me ligjin nr.74/2012, datë 19.7.2012)
+(Ndryshuar me ligjin nr.74/2012, datë 19.7.2012, zëvendësuar togfjalësh në pikën 3 me ligjin nr. 118/2020, datë  5.10.2020)
 
 1. Listat e kandidatëve për Kuvendin, të paraqitura nga partitë politike, të cilat nuk zotërojnë asnjë mandat në Kuvend, duhet të mbështeten nga jo më pak se 5,000 zgjedhës në shkallë kombëtare. Në rastin e koalicionit zgjedhor listat në tërësi duhet të kenë marrë mbështetjen e jo më pak se 7,000 zgjedhësve në shkallë kombëtare. Bën përjashtim nga ky rregull koalicioni, ku partitë pjesëtare zotërojnë bashkërisht në Kuvend një numër mandatesh jo më të vogël se numri i partive pjesëtare të koalicionit.
 
 2. Kandidatët për organet e njësisë së qeverisjes vendore, të paraqitur nga partitë politike, të cilat nuk zotërojnë asnjë mandat në Kuvend ose në organet e njësisë përkatëse të qeverisjes vendore, duhet të mbështeten nga jo më pak se 1 për qind e zgjedhësve të asaj njësie, por, në çdo rast, jo më shumë se 3,000 dhe jo më pak se 50 zgjedhës. Bën përjashtim nga ky rregull koalicioni, ku partitë pjesëtare zotërojnë bashkërisht në Kuvend një numër mandatesh jo më të vogël se numri i partive pjesëtare të koalicionit, ose kur zotërojnë bashkërisht në këshillin përkatës një numër mandatesh jo më të vogël se numri i partive pjesëtare të koalicionit.
 
-3. Për qëllim të këtij neni, partia politike ose koalicioni paraqet një vërtetim me shkrim,  të  nënshkruar  nga  institucioni  i  Kuvendit  apo  njësia  e  qeverisjes  vendore,  ku vërtetohet zotërimi i mandatit të paktën 6 muajt e fundit.
+3. Për qëllim të këtij neni, partia politike ose koalicioni paraqet një vërtetim me shkrim,  të  nënshkruar  nga  institucioni  i  Kuvendit  apo  njësia  e  qeverisjes  vendore,  ku vërtetohet zotërimi i mandatit të paktën 6 muaj para përfundimit të mandatit të Kuvendit ose të organit të njësisë së qeverisjes vendore, në bazë të vetëdeklarimit të zotëruesve të mandateve për përkatësinë në partinë politike, në institucionin përkatës.
+
+.
 
 Neni 69
 
@@ -1854,11 +1856,13 @@ Neni 88
 
 Fondet nga Buxheti i Shtetit për financimin e partive pjesëmarrëse në zgjedhje
 
+(shtuar fjali në fund të pikës 3 me ligjin  nr. 118/2020, datë  5.10.2020)
+
 1. Partitë politike pjesëmarrëse në zgjedhje dhe që kanë marrë jo më pak se 1 për qind të votave në shkallë vendi në zgjedhjet më të afërta pararendëse të të njëjtit lloj, përfitojnë fonde nga Buxheti i Shtetit, në bazë të numrit të votave që secila parti ka marrë në ato zgjedhje. Fondi për këtë qëllim përcaktohet me vendim të Kuvendit dhe përbën zë më vete në Buxhetin e Shtetit për vitin zgjedhor përkatës. Ky fond nuk mund të jetë më pak sesa totali i shumave të shpërndara partive politike në zgjedhjet pararendëse.
 
 2. KQZ-ja, brenda 10 ditëve nga nxjerrja e rezultatit përfundimtar në shkallë vendi, përcakton me vendim vlerën në para të një vote të vlefshme, duke pjesëtuar fondin e përgjithshëm të miratuar, me numrin e përgjithshëm të votave të vlefshme të grumbulluara nga partitë politike pjesëmarrëse në zgjedhje, që kanë marrë jo më pak se 1 për qind të votave të vlefshme në shkallë vendi. Për zgjedhjet e organeve të qeverisjes vendore llogaritja bëhet mbi bazën e votave të marra për këshillat vendorë në shkallë vendi.
 
-3. KQZ-ja përllogarit shumën që i takon secilës parti, duke shumëzuar vlerën në para të një vote të vlefshme, të përcaktuar sipas pikës 2 të këtij neni, me numrin e votave të vlefshme që ka marrë secila parti në zgjedhjet pararendëse të të njëjtit lloj.
+3. KQZ-ja përllogarit shumën që i takon secilës parti, duke shumëzuar vlerën në para të një vote të vlefshme, të përcaktuar sipas pikës 2 të këtij neni, me numrin e votave të vlefshme që ka marrë secila parti në zgjedhjet pararendëse të të njëjtit lloj. Për partitë pjesëtare në koalicion, numri i votave të vlefshme takuese përllogaritet duke mbledhur mesataren e votave për mandat për çdo kandidat të zgjedhur nga radhët e tyre.
 
 4. KQZ-ja zbret nga shuma e përllogaritur, sipas pikës 3, sanksionet financiare që janë bërë titull ekzekutiv, të vëna për partinë përkatëse, sipas këtij ligji.
 
@@ -1880,9 +1884,11 @@ Neni 90
 
 Trajtimi i dhurimeve, huave dhe kredive
 
+(shfuqizuar fjalia e dytë e pikës 2 me ligjin  nr. 118/2020, datë  5.10.2020)
+
 1. KQZ-ja përcakton me vendim rregullat dhe modalitetet e nevojshme për llogaritjen e vlerës monetare të dhurimeve në natyre ose të shërbimeve të dhëna, sipas vlerës së tregut në momentin e dhënies së tyre.
 
-2. Për qëllime të zbatimit të këtij ligji, dhurimet në vlera monetare, në natyrë apo në formën e shërbimit që u jepen kandidatëve të subjekteve zgjedhore, si dhe huat ose kreditë e marra nga kandidatët për financimin e fushatës konsiderohen si kontribute për partinë politike për të cilën ata kandidojnë. Për kandidatët e propozuar nga koalicionet, partitë politike pjesëmarrëse në koalicion përcaktojnë në marrëveshjen për krijimin e koalicionit se cila parti do të deklarojë të ardhurat dhe shpenzimet e kandidatit.
+2. Për qëllime të zbatimit të këtij ligji, dhurimet në vlera monetare, në natyrë apo në formën e shërbimit që u jepen kandidatëve të subjekteve zgjedhore, si dhe huat ose kreditë e marra nga kandidatët për financimin e fushatës konsiderohen si kontribute për partinë politike për të cilën ata kandidojnë.
 
 3. Subjekti zgjedhor merr masa për koordinimin e informacionit nga kandidatët e tij gjatë fushatës zgjedhore, si dhe vendos rregullat dhe penalitetet për raportimin e të ardhurave dhe shpenzimeve nga kandidatët te subjekti zgjedhor, me qëllim që asnjë dhurues, huadhënës ose kredidhënës të mos kalojë limitin e parashikuar nga pika 2 e nenit 92/1 të këtij ligji.
 
@@ -2134,7 +2140,7 @@ Neni 98
 
 Përmbajtja e fletëve të votimit
 
-(Ndryshuar me ligjin nr.74/2012,datë 19.07.2012)
+(Ndryshuar me ligjin nr.74/2012,datë 19.07.2012, ndryshuar pika 4 me ligjin  nr. 118/2020, datë  5.10.2020)
 
 1. Fletët e votimit për zgjedhjet përgatiten nga KQZ-ja. Fletët e votimit duhet të jenë prej letre, me ngjyrë, trashësi ose elemente konfigurimi të tilla që të mos lejojnë leximin e votës në pjesën e pasme të saj, si dhe të përmbajnë elemente sigurie, sipas përcaktimeve me akt normativ të KQZ-së.
 
@@ -2144,7 +2150,7 @@ Fleta e votimit përmban element teknik në formën e kodeve që identifikojnë 
 
 3. Emrat  e  subjekteve  zgjedhore  vendosen  në  fletën  e  votimit,  sipas  rendit  të përcaktuar në mënyrë të rastësishme nga shorti. Përbri emrit të partisë vendoset sigla, shkronja nistore dhe emri i kryetarit të partisë. Çdo subjekti që renditet në fletën e votimit i korrespondon hapësira përkatëse për shënimin e votës nga zgjedhësi.
 
-4. Partitë pjesëtare në një koalicion zgjedhor shënohen të renditura njëra pas tjetrës në pjesën e fletës së votimit që i përket koalicionit zgjedhor. Për secilën nga partitë politike të koalicionit shënohen emri i partisë, sigla, shkronjat nistore dhe emri i kryetarit të partisë. Çdo partie politike anëtare të koalicionit i korrespondon hapësira përkatëse për shënimin e votës nga zgjedhësi. Radha e renditjes së tyre përcaktohet në  mënyrë të rastësishme nëpërmjet shortit.
+4. Fleta e votimit për zgjedhjet për Kuvendin duhet të përmbajë hapësirën e posaçme për ushtrimin e votimit parapëlqyes për kandidatët e subjektit zgjedhor. Mënyra e votimit parapëlqyes përcaktohet nga KQZ-ja në varësi nga numri i subjekteve pjesëmarrëse në zgjedhje, duke respektuar kushtin që informacioni i përcjellë nga fleta e votimit të mos jetë tejet i ngarkuar, konfigurimi i fletës të jetë i qartë e i kuptueshëm për zgjedhësin dhe zgjedhësi ta ketë të lehtë orientimin për votimin e subjektit zgjedhor dhe të kandidatit të parapëlqyer.
 
 5. KQZ-ja  organizon  hedhjen  e  shortit  për  detyrimet  që  rrjedhin  nga  ky  nen, menjëherë sapo të ketë përfunduar regjistrimi i listës shumemërore në KQZ apo, sipas rastit, në KZAZ. Rregullat për hedhjen e shortit përcaktohen me akt normativ të KQZ-së.
 
@@ -2242,7 +2248,7 @@ Neni 101
 
 Veprime paraprake të KQV-së
 
-(Ndryshuar pika 1 dhe shtuar pika 3, me ligjin nr.74/2012,datë 19.07.2012)
+(Ndryshuar pika 1 dhe shtuar pika 3, me ligjin nr.74/2012,datë 19.07.2012, shfuqizuar  pika 3 me ligjin  nr. 118/2020, datë  5.10.2020)
 
 1. KQV-ja, nën drejtimin e kryetarit dhe sekretarit dhe në prani të vëzhguesve të subjekteve, një orë përpara hapjes së votimit, kryen këto detyra:
 
@@ -2264,7 +2270,7 @@ e) vulos kutitë e votimit me kodet e sigurisë dhe numrat e vulave të siguris�
 
 2. Anëtarët e KQV-së, në prani të vëzhguesve, marrin vendim për hapjen e votimit dhe e nënshkruajnë atë.
 
-3. Kur përdoret Sistemi Elektronik i Verifikimit (SEV), sipas shtojcës III të këtij Kodi, procedurat, afatet, veprimet përpara dhe pas mbylljes së votimit me pajisjen, të personelit përgjegjës për përdorimin e pajisjeve elektronike në qendrën e votimit, përcaktohen me akt normativ të KQZ-së.
+3. Shfuqizuar.
 
 Neni 102
 
@@ -2278,7 +2284,7 @@ Neni 103
 
 Vulosja e fletëve të votimit
 
-(Ndryshuar me ligjin nr.74/2012,datë 19.07.2012)
+(Ndryshuar me ligjin nr.74/2012,datë 19.07.2012, shfuqizuar pika 4 me ligjin  nr. 118/2020, datë  5.10.2020)
 
 1. Në pjesën e pasme, fletët e votimit vulosen me vulën e KQV-së dhe me vulën e kryetarit të KQV-së. Në rast se një nga vulat është dëmtuar ose nxjerrë jashtë qendrës së votimit, KQV-ja pajiset menjëherë me vulë rezervë për zëvendësimin e vulës së nxjerrë nga përdorimi. Rregullat për administrimin dhe shpërndarjen e vulës rezervë përcaktohen me akt normativ të KQZ-së. Fakti i nxjerrjes së vulës nga përdorimi shënohet në Librin e Protokollit të Mbledhjeve të KQV-së bashkë me orën përkatëse. Dëmtimi i qëllimshëm ose nxjerrja e vulës jashtë qendrës së votimit përbën vepër penale dhe ndëshkohet sipas nenit 326/a të Kodit Penal.
 
@@ -2286,7 +2292,7 @@ Vulosja e fletëve të votimit
 
 3. Vula e kryetarit të KQV-së përdoret vetëm për vulosjen e fletëve të votimit dhe për asnjë dokument tjetër zgjedhor.
 
-4. Kur është vendosur përdorimi i Sistemit Elektronik të Numërimit (SEN), sipas shtojcës II të këtij Kodi, fleta vuloset vetëm me vulën e KQV-së.
+4. Shfuqizuar.
 
 KREU II
 
@@ -2308,7 +2314,7 @@ Neni 105
 
 Paraqitja e zgjedhësit në qendrën e votimit
 
-(Ndryshuar pika 1, shkronja “a”, dhe shtuar fjali në shkronjën “d”, me ligjin nr.74/2012, datë 19.07.2012)
+(Ndryshuar pika 1, shkronja “a”, dhe shtuar fjali në shkronjën “d”, me ligjin nr.74/2012, datë 19.07.2012, shfuqizuar fjalia e dytë e shkronjës “d” me ligjin  nr. 118/2020, datë  5.10.2020)
 
 1. Pas hyrjes së zgjedhësit në qendrën e votimit:
 
@@ -2324,7 +2330,7 @@ c) kryetari, pasi verifikon se të dhënat e identitetit të zgjedhësit përput
 
 ç) zgjedhësi nënshkruan në listën e zgjedhësve anash emrit të tij;
 
-d) fleta e votimit vuloset në pjesën e pasme të saj me vulën e KQV-së dhe vulën e kryetarit të KQV-së. Kur është vendosur përdorimi i SEN-it, sipas këtij Kodi, fleta vuloset vetëm me vulën e KQV-së.
+d) fleta e votimit vuloset në pjesën e pasme të saj me vulën e KQV-së dhe vulën e kryetarit të KQV-së. 
 
 dh) zgjedhësi timbroset në dorën e majtë nga një anëtar i caktuar me vendim të KQV- së me një lëndë të posaçme, të dukshme me shikim të lirë dhe që nuk hiqet për jo më pak se 24 orë, me qëllim shmangien e votimit më shumë se një herë dhe më pas i jepet fleta e votimit. Në rast se zgjedhësi nuk pranon të timbroset me lëndën e posaçme, atij nuk i jepet fleta e votimit dhe identiteti i tij mbahet shënim në Librin e Protokollit të Mbledhjeve të KQV- së.
 
@@ -2336,9 +2342,9 @@ Neni 106
 
 Votimi
 
-(Ndryshuar fjalë në pikën 5, me ligjin nr.74/2012, datë 19.07.2012)
+(Ndryshuar fjalë në pikën 5, me ligjin nr.74/2012, datë 19.07.2012, ndryshuar pika 1 me ligjin  nr. 118/2020, datë  5.10.2020)
 
-1. Pasi merr fletën e votimit, zgjedhësi hyn i vetëm në dhomën e fshehtë dhe në fletën votimit shënon në krah të emrit të subjektit zgjedhor apo partisë pjesëtare të një koalicioni shenjën “x” ose “+” apo një shenjë tjetër që tregon qartë zgjedhjen e bërë prej tij.
+      1. Pasi merr fletën e votimit, zgjedhësi hyn i vetëm në dhomën e fshehtë dhe në fletën e votimit shënon në vendin e përcaktuar nga fleta e votimit për subjektin zgjedhor dhe/ose kandidatin e parapëlqyer të subjektit zgjedhor shenjën “x” ose “+” ose një shenjë tjetër që tregon qartë zgjedhjen e bërë prej tij.
 
 2. Zgjedhësi, pasi bën shënimin në fletën e votimit, palos fletën e votimit, në mënyrë që shenja të mos jetë e dukshme, por të paktën një nga vulat në pjesën e pasme të fletës të jetë e dukshme. Zgjedhësi, pasi del nga dhoma e fshehtë, e hedh fletën e votimit në kutinë përkatëse të votimit dhe largohet nga qendra e votimit.
 
@@ -2612,11 +2618,11 @@ Neni 117
 
 Llojet e votave dhe kriteret për vlerësimin e votës
 
-(Shtuar pika 4 me ligjin nr.74/2012, datë 19.07.2012)
+(shtuar pika 4 me ligjin nr.74/2012, datë 19.07.2012, ndryshuar pika 2, ndryshuar  shkronja “e”e pikës 3, shtuar shkronja “e/1 me ligjin  nr. 118/2020, datë  5.10.2020)
 
 1. Fletët e votimit ndahen në vota të vlefshme ose në vota të pavlefshme.
 
-2. Vota të vlefshme janë vetëm fletët e votimit, në të cilat është votuar qartësisht vetëm për njërin nga subjektet zgjedhore apo partinë politike pjesëtare të koalicionit në fletën përkatëse të votimit.
+2. Vota të vlefshme janë vetëm fletët e votimit, në të cilat është votuar qartësisht vetëm për njërën nga subjektet zgjedhore dhe/ose vetëm për njërin nga kandidatët e tij. Kur është votuar për më shumë se një kandidat të të njëjtit subjekt zgjedhor, vota i llogaritet vetëm subjektit zgjedhor.
 
 3. Vota të pavlefshme janë fletët e votimit kur:
 
@@ -2632,7 +2638,9 @@ d) është votuar për më shumë se një nga subjektet zgjedhore në fletën e 
 
 dh) nuk është votuar për asnjë nga subjektet zgjedhore në fletën e votimit;
 
-e) nuk është e qartë se për kë është votuar; ose
+e) është votuar për një subjekt zgjedhor dhe për kandidatin e një subjekti tjetër zgjedhor
+
+e/1) nuk është e qartë se për kë është votuar; ose
 
 ë) zgjedhësi ka votuar për një person apo subjekt që nuk është në fletën e votimit.
 
@@ -2642,7 +2650,7 @@ Neni 118
 
 Vlerësimi i votave
 
-(Shtuar pika 7 me ligjin nr.74/2012, datë 19.07.2012)
+(shtuar pika 7 me ligjin nr.74/2012, datë 19.07.2012, shfuqizuar fjalia e dytë e pikës 3 , shtuar pika 6/1 me ligjin  nr. 118/2020, datë  5.10.2020)
 
 1. Vlerësimi i votave fillon menjëherë pas kryerjes së numërimit të fletëve të votimit. Numëruesi i parë i Grupit të Numërimit hap në mënyrë të plotë  çdo fletë votimi, bën vlerësimin e saj me zë të lartë, duke vepruar sipas kësaj radhe:
 
@@ -2658,7 +2666,7 @@ Nëse anëtarët e Grupit të Numërimit dhe vëzhguesit e subjekteve zgjedhore 
 
 Nëse ndonjë anëtar i grupit të numërimit ose ndonjë prej vëzhguesve të subjekteve zgjedhore s’është dakord me vlerësimin e numëruesit të parë, ky i fundit e vendos fletën e votimit të kundërshtuar në një vend të veçantë për fletët e votimit të kontestuara dhe vijon me fletën tjetër të votimit.
 
-3. Fletët e votimit, sipas vlerësimit të përcaktuar në pikën 1 të këtij neni, ndahen mbi tryezën e punës në vende të caktuara dhe të veçanta në grupime të votave për çdo subjekt zgjedhor, në vota të pavlefshme dhe vota të kontestuara. Në rastin e koalicioneve votat e vlefshme të secilës prej partive anëtare të koalicionit grupohen veçmas dhe pranë njëra-tjetrës, duke identifikuar votat për secilën prej partive anëtare të koalicionit.
+3. Fletët e votimit, sipas vlerësimit të përcaktuar në pikën 1 të këtij neni, ndahen mbi tryezën e punës në vende të caktuara dhe të veçanta në grupime të votave për çdo subjekt zgjedhor, në vota të pavlefshme dhe vota të kontestuara. 
 
 4. Në përfundim të numërimit të fletëve të votimit për çdo kuti votimi, Grupi i Numërimit rivlerëson fletët e votimit të kontestuara, sipas paragrafit të tretë të pikës 2 të këtij neni.
 
@@ -2671,6 +2679,8 @@ Për votat e kontestuara mbahet një procesverbal i veçantë, sipas modelit të
 6. Pas numërimit dhe vlerësimit të votave, sipas këtij neni, për çdo kuti me fletët e votimit, numëruesi i parë numëron votat për çdo subjekt zgjedhor, duke filluar sipas renditjes së subjekteve në fletën e votimit. Pas çdo numërimi, shifrën ia bën të ditur anëtarëve të Grupit të Numërimit dhe vëzhguesve të subjekteve zgjedhore. Nëse kërkohet nga ndonjë anëtar i Grupit të Numërimit, numëruesi i parë është i detyruar të rifillojë edhe një herë numërimin e votave për atë subjekt.
 
 Në rast se pas edhe këtij numërimi të dytë ka përsëri kundërshtime, numëruesi i parë i Grupit të Numërimit ose anëtari kundërshtues njofton KZAZ-në nëpërmjet ngritjes së dorës. Ngritja e dorës pezullon çdo veprim të mëtejshëm të Grupit të Numërimit deri në marrjen e vendimit nga KZAZ-ja. KZAZ-ja numëron në vend votat për subjektin zgjedhor, objekt kundërshtimi dhe urdhëron Grupin e Numërimit të shënojë shifrën e vendosur prej saj në tabelën e rezultateve për atë qendër votimi.
+
+       6/1. Për zgjedhjet për Kuvendin, pas përfundimit të procedurave sipas pikës 6 të këtij neni, bëhet numërimi, sipas së njëjtës procedurë, i votave parapëlqyese për çdo kandidat të subjektit zgjedhor.
 
 7. Numëruesi i parë dhe sekretari i Grupit të Numërimit të  Votave përgjigjen për zbatimin e detyrimeve që lindin nga kontestimi i fletës së votimit, sipas këtij neni. Shkelja e këtij detyrimi ndëshkohet me gjobë sipas nenit 171 të këtij Kodi.
 
@@ -3208,13 +3218,13 @@ Neni 147
 
 Kohëzgjatja dhe mbledhjet e Kolegjit Zgjedhor
 
-1. Kolegji Zgjedhor i Gjykatës së Apelit, Tiranë i ushtron funksionet e veta gjatë gjithë kohëzgjatjes së legjislaturës së Kuvendit të dalë nga zgjedhjet, për të cilat është hedhur shorti dhe funksionon për të gjitha llojet e zgjedhjeve.
+(ndryshuar me ligjin  nr. 118/2020, datë  5.10.2020)
 
-2. Konstituimi i kolegjit bëhet menjëherë pas betimit dhe thirret në detyrë nga Zëvendëskryetari i Këshillit të Lartë të Drejtësisë jo më vonë se 45 ditë përpara zgjedhjeve. Kolegji qëndron i mbledhur deri në përfundim të gjykimit të ankimeve ose të kalimit të afateve të ankimit, lidhur me procesin zgjedhor të radhës.
+1. Kolegji Zgjedhor Gjyqësor funksionon për të gjitha llojet e zgjedhjeve dhe referendumeve gjatë mandatit 4-vjeçar të qëndrimit në detyrë. 
 
-3. Kolegji rithirret në detyrë nga Zëvendëskryetari i Këshillit të Lartë të Drejtësisë jo më vonë se 48 orë pas dekretimit të zgjedhjeve të pjesshme dhe për referendumet. Kolegji qëndron i mbledhur deri në përfundim të gjykimit të ankimeve ose të kalimit të afateve të ankimit për këto zgjedhje.
+2. Kolegji Zgjedhor Gjyqësor thirret në detyrë nga Kryetari i Këshillit të Lartë Gjyqësor jo më vonë se 50 ditë përpara zgjedhjeve. Kolegji qëndron i mbledhur deri në përfundim të gjykimit të ankimeve ose të kalimit të afateve të ankimit për procesin zgjedhor përkatës. 
 
-4. Me kërkesë të Kryetarit të Gjykatës së Apelit Tiranë, kolegji rithirret në detyrë sa herë që pranë kësaj gjykate depozitohen ankime ndaj vendimeve të KQZ-së, jashtë afateve të përmendura në pikat 2 dhe 3 të këtij neni.
+3. Kolegji rithirret në detyrë nga Kryetari i Këshillit të Lartë Gjyqësor jo më vonë se 48 orë pas dekretimit të zgjedhjeve të pjesshme ose për referendumet. Kolegji qëndron i mbledhur deri në përfundim të gjykimit të ankimeve ose të kalimit të afateve të ankimit për këto zgjedhje ose për referendumin.
 
 Neni 148
 
@@ -3236,13 +3246,13 @@ Neni 149
 
 Mbrojtja e posaçme për gjyqtarët e Kolegjit
 
-(ndryshuar me ligjin nr. 101/2020, datë 23.7.2020)
+(ndryshuar me ligjin nr. 101/2020, datë 23.7.2020, shfuqizuar togëfjalësh në shkronjën “b” të pikës 1, me ligjin  nr. 118/2020, datë  5.10.2020)
 
 1. Gjyqtari gjatë ushtrimit të detyrës në Kolegjin Zgjedhor Gjyqësor nuk mund:
 
 a) t’i nënshtrohet hetimit apo procedimit disiplinor gjatë gjithë periudhës për të cilën është krijuar Kolegji;
 
-b) të lëvizet nga detyra në mënyrë të përkohshme apo të përhershme për shkaqe disiplinore, organizimi gjyqësor apo ngritje në detyrë;
+b) të lëvizet nga detyra në mënyrë të përkohshme apo të përhershme për shkaqe disiplinore, organizimi gjyqësor;
 
 c) të vlerësohet “i pamjaftueshëm” për aftësitë profesionale të gjyqtarit dhe etikën/ angazhimin ndaj vlerave profesionale të gjyqtarit.
 
@@ -3476,7 +3486,9 @@ Neni 162
 
 Përllogaritja e mandateve të subjekteve zgjedhore
 
-1. Jo më vonë se 3 ditë nga përfundimi i procesit të ankimit kundër vendimit për miratimin e rezultateve të zonës zgjedhore apo pavlefshmërisë së zgjedhjeve, sipas këtij Kodi, KQZ-ja përllogarit shpërndarjen e mandateve për çdo zonë zgjedhore, mbi bazën e numrit të votave të vlefshme që subjektet kanë marrë në nivel zone zgjedhore. Për zgjedhjet për Kuvendin, përjashtohen nga shpërndarja e mandateve partitë politike që konkurrojnë më vete dhe që kanë marrë më pak se 3 për qind dhe koalicionet që kanë marrë më pak se 5 për qind të votave të vlefshme në zonën zgjedhore përkatëse.
+(ndryshuar fjalia e dytë e pikës 2 me ligjin  nr. 118/2020, datë  5.10.2020)
+
+1. Jo më vonë se 3 ditë nga përfundimi i procesit të ankimit kundër vendimit për miratimin e rezultateve të zonës zgjedhore apo pavlefshmërisë së zgjedhjeve, sipas këtij Kodi, KQZ-ja përllogarit shpërndarjen e mandateve për çdo zonë zgjedhore, mbi bazën e numrit të votave të vlefshme që subjektet kanë marrë në nivel zone zgjedhore. Për zgjedhjet për Kuvendin përjashtohen nga shpërndarja e mandateve subjektet zgjedhore që kanë marrë më pak se 1 për qind të votave të vlefshme në shkallë vendi.
 
 2. Numri i votave të vlefshme në nivel zone zgjedhore të secilit subjekt pjesëtohet në mënyrë të vazhdueshme me numra natyrorë të njëpasnjëshëm, të quajtur pjesëtues, duke filluar me numrin 1 dhe duke përfunduar me numrin natyror që i korrespondon numrit të mandateve që shpërndahen në zonën zgjedhore përkatëse. Hapi nga njëri pjesëtues tek tjetri është 1. Në rast se herësi që përftohet nga pjesëtimi është një numër me mbetje dhjetore, si herës merret numri i plotë më i afërt.
 
@@ -3488,29 +3500,31 @@ Përllogaritja e mandateve të subjekteve zgjedhore
 
 Neni 163
 
-Ndarja e mandateve brenda koalicionit
+Shpërndarja e mandateve për kandidatët fitues të listës
 
-(shfuqizuar pika 6 dhe ndryshuar pika 7 me ligjin nr. 101/2020, datë 23.7.2020)
+ (shfuqizuar pika 6 dhe ndryshuar pika 7 me ligjin nr. 101/2020, datë 23.7.2020, ndryshuar me ligjin  nr. 118/2020, datë  5.10.2020)
 
-1. Menjëherë pas përfundimit të llogaritjes së rezultatit, sipas nenit 162 të këtij Kodi, KQZ-ja përllogarit shpërndarjen e mandateve brenda koalicionit në çdo zonë zgjedhore, mbi bazën e numrit të votave të vlefshme që secila parti pjesëtare e koalicionit ka marrë në zonën zgjedhore përkatëse dhe numrit të mandateve që koalicioni ka fituar në zonën zgjedhore përkatëse.
+1. Menjëherë pas përfundimit të llogaritjes së rezultatit, sipas nenit 162 të këtij Kodi, KQZ-ja përllogarit shpërndarjen e mandateve për kandidatët fitues për secilin subjekt. 
 
-2. Numri i votave të vlefshme të secilës parti pjesëtohet në mënyrë të vazhdueshme me numra natyrorë tek të njëpasnjëshëm, të quajtur pjesëtues, duke filluar me numrin 1 dhe duke përfunduar me numrin natyror që i korrespondon dyfishit të numrit të mandateve që shpërndahen në zonën zgjedhore përkatëse. Në rast se herësi që përftohet nga pjesëtimi është një numër me mbetje dhjetore, si herës merret numri i plotë më i afërt.
+2. Shpërndarja e mandateve fillon me rend zbritës, në bazë të renditjes së tyre në listën e dorëzuar sipas nenit 67 të këtij Kodi, duke filluar nga numri rendor një, si dhe numrit të votës parapëlqyese të secilit kandidat bazuar në procedurat dhe kriteret vijuese.
 
-3. Herësit e përftuar nga çdo pjesëtim renditen në listë nga herësi më i madh tek ai më i vogël, duke renditur përkrah tyre subjektin, të cilit i përket herësi përkatës. Në rast se herësi është një numër me mbetje dhjetore, si herës merret numri i plotë më i afërt. Renditja vazhdon derisa të renditen aq herës sa është numri i mandateve që shpërndahen brenda koalicionit në zonën zgjedhore përkatëse.
+3. Në fillim përfitojnë mandat kandidatët që kanë marrë një numër votash parapëlqyese më të madh se herësi që del nga pjesëtimi i numrit të votave të subjektit me numrin e mandateve të fituara nga subjekti, sipas nenit 162 të këtij Kodi. Në çdo rast, herësi nuk mund të jetë më shumë se 10 000 vota. Në rast se herësi që përftohet nga pjesëtimi është një numër me mbetje dhjetore, si herës merret numri i plotë më i afërt. 
 
-4. Një parti politike përfiton një numër mandatesh të barabartë me numrin e herësve të përfshirë në listën e përcaktuar në pikën 3 të këtij neni. Në rast se për vendin e fundit në listën e përcaktuar në pikën 3 të këtij neni rezultojnë dy apo më shumë subjekte me të njëjtin herës, mandati i jepet atij subjekti që ka fituar numrin më të madh të votave dhe nëse ato kanë numër të barabartë votash, atëherë përcaktohet me short midis atyre partive. Shorti hidhet publikisht në KQZ, në prani të subjekteve të interesuara.
+4. Kandidatët me numrin më të lartë të votave parapëlqyese se herësi, sipas pikës 3 të këtij neni, zëvendësojnë me radhë kandidatët në listë, që mund të kishin përfituar mandate, të cilët kanë numrin më të vogël të votave parapëlqyese.
 
-5. Menjëherë pas përfundimit të procedurave për ndarjen e mandateve për çdo parti politike, sipas këtij neni, KQZ-ja përcakton mandatet nominale për çdo parti politike, në bazë të renditjes së kandidatëve në listë, të depozituar sipas pikës 4 të nenit 67 të këtij Kodi, në rend zbritës, duke filluar nga numri rendor një.
+5. Ky rregull nuk zbatohet nëse kandidati me më pak vota i përket gjinisë më pak të përfaqësuar. Në këtë rast zëvendësimi kalon te kandidati tjetër i renditur menjëherë më lart me numër votash deri në shterimin e listës sipas të njëjtave kritere. Kur kandidati me numër më të madh votash se herësi i përket të njëjtës gjini, zbatohen parashikimet e pikës 4 të këtij neni. 
 
-6. Shfuqizuar.
+6. Pas shterimit të zëvendësimit të kandidatëve sipas pikës 3 dhe 4 të këtij neni, shpërndarja e mandateve vijon me kandidatët e mbetur sipas numrit rendor të listës.
 
-7. Shpërndarja e mandateve, sipas nenit 162 dhe këtij neni, për çdo zonë zgjedhore miratohet me vendim. Vendimi nxirret për çdo zonë zgjedhore më vete. Ndaj vendimit mund të bëhet ankim administrativ në KAS.
+7. Kandidatët e mbetur të listës, që nuk përfitojnë mandate sipas pikave 2 deri 6 të këtij neni, rirenditen në bazë të numrit të votave parapëlqyese duke filluar nga numri më i lartë i votave. Kur numri i votave është i barabartë, renditja përcaktohet me short. Rirenditja sipas kësaj pike përdoret në zbatimin e nenit 164 të këtij Kodi.
+
+8. Përllogaritja dhe shpërndarja e mandateve, sipas nenit 162 dhe këtij neni, për çdo zonë zgjedhore miratohet me vendim. Vendimi nxirret për çdo zonë zgjedhore më vete. Ndaj vendimit mund të bëhet ankim administrativ në KAS.
 
 Neni 164
 
 Ndërprerja e mandatit dhe zëvendësimi i vakancës
 
-(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012 dhe shtuar fjalë në pikën 2, me ligjin nr. 31/2015, datë 2.4.2015, ndryshuar përmbajtja e nenit me ligjin nr. 101/2020, datë 23.7.2020)
+(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012 dhe shtuar fjalë në pikën 2, me ligjin nr. 31/2015, datë 2.4.2015, ndryshuar përmbajtja e nenit me ligjin nr. 101/2020, datë 23.7.2020, shfuqizuar pika 5 me ligjin  nr. 118/2020, datë  5.10.2020)
 
 1. Mandati i deputetit, i fituar sipas neneve 162 dhe 163 të këtij ligji, ndërpritet vetëm për shkaqet e parashikuara në nenin 71 të Kushtetutës. Nuk përbëjnë shkak për ndërprerje të mandatit marrëveshjet apo deklaratat paraprake individuale apo kolektive për heqje dorë nga mandati. Në rastin e shkronjave “a” dhe “b” të pikës 2 të nenit 71 të Kushtetutës, deputeti deklaron në mënyrë publike përpara komisionit përkatës të Kuvendit refuzimin për të bërë betimin ose heqjen dorë nga mandati. Në këtë rast Kuvendi, jo më vonë se 30 ditë, njofton KQZ-në për krijimin e vakancës.
 
@@ -3520,7 +3534,45 @@ Ndërprerja e mandatit dhe zëvendësimi i vakancës
 
 4. KQZ-ja merr vendim për plotësimin e vakancës në këshillin e bashkisë. Vendimi i njoftohet kandidatit. Nëse kandidati i radhës nuk paraqitet në këshill brenda 30 ditëve nga njoftimi, pa shkaqe të përligjura, mandati i kalon kandidatit vijues të listës, sipas procedurës së parashikuar në pikën 2 të këtij neni.
 
-5. Në rastin kur është shteruar lista e kandidatëve të partisë politike, anëtare e një koalicioni, mandati i kalon partisë së koalicionit me herësin më të lartë.
+5. Shfuqizuar.
+
+KREU II
+
+SISTEMI I ZGJEDHJEVE PËR ORGANET E QEVERISJES VENDORE
+
+Neni 165
+
+Sistemi i zgjedhjeve vendore
+
+(ndryshuar pika 3 me ligjin  nr. 118/2020, datë  5.10.2020)
+
+1. Kryetarët e bashkive si dhe këshillat e bashkive zgjidhen me votim të drejtpërdrejtë nga zgjedhësit me vendbanim në territorin e bashkisë.
+
+2. Anëtarët e këshillave të bashkisë zgjidhen në bazë të listave  shumemërore të paraqitura  nga  partitë  politike,  koalicionet,  ose  të  kandidaturave  të  propozuara  nga zgjedhësit.
+
+       3. Koalicionet zgjedhore paraqesin vetëm një kandidat të përbashkët për kryetar bashkie dhe një listë kandidatësh për këshillin bashkiak.”
+
+Neni 166
+
+Zgjedhja e organeve të qeverisjes vendore
+
+(ndryshuar pika 3 me ligjin  nr. 118/2020, datë  5.10.2020)
+
+1. Kryetar bashkie zgjidhet kandidati që fiton numrin më të madh të votave të vlefshme të zgjedhësve që kanë votuar në njësinë vendore përkatëse.
+
+2. Në rastin kur dy ose më shumë kandidatë marrin numër të  barabartë votash, atëherë ndërmjet tyre hidhet short. Shorti organizohet nga KQZ-ja në një seancë publike, me pjesëmarrjen edhe të kandidatëve. KQZ-ja përcakton rregullat e organizimit të shortit.
+
+       3. Mandatet e këshillave vendorë ndahen nga KQZ-ja në bazë të sistemit proporcional, sipas të njëjtave procedura të parashikuara në nenin 162 të këtij Kodi. Mandatet nominale të këshillave vendorë ndahen bazuar në listën e kandidatëve me rend zbritës, duke filluar nga numri rendor një.
+
+KREU III
+
+SHPALLJA E REZULTATIT PËRFUNDIMTAR TË ZGJEDHJEVE
+
+Neni 167
+
+Rezultati përfundimtar i zgjedhjeve
+
+Rezultati përfundimtar i zgjedhjeve shpallet nga KQZ-ja jo më vonë se 5 ditë nga data e shpalljes së rezultatit për shpërndarjen e mandateve për çdo zonë zgjedhore, sipas pikës 7 të nenit 163 të këtij Kodi dhe pasi të kenë përfunduar procedurat e ankimit, sipas këtij Kodi.
 
 Neni 167/1
 
@@ -3555,40 +3607,6 @@ Këqyrja e mëpasshme e fletëve të votimit dhe e materialit zgjedhor
 7. Procedura që zbatohet gjatë këqyrjes është e ngjashme me procedurën që ndjek administrata zgjedhore përgjatë veprimtarisë në zgjedhje.
 
 8. Në rast se nga këqyrja e fletëve të votimit ose e materialit zgjedhor konstatohen parregullsi ose pasaktësi, që bëjnë me faj zyrtarët zgjedhorë përkatës, KQZ-ja është e detyruar të nisë procedimin disiplinor dhe të bëjë kallëzimin penal për zyrtarët përgjegjës.
-
-KREU II
-
-SISTEMI I ZGJEDHJEVE PËR ORGANET E QEVERISJES VENDORE
-
-Neni 165
-
-Sistemi i zgjedhjeve vendore
-
-1. Kryetarët e bashkive si dhe këshillat e bashkive zgjidhen me votim të drejtpërdrejtë nga zgjedhësit me vendbanim në territorin e bashkisë.
-
-2. Anëtarët e këshillave të bashkisë zgjidhen në bazë të listave  shumemërore të paraqitura  nga  partitë  politike,  koalicionet,  ose  të  kandidaturave  të  propozuara  nga zgjedhësit.
-
-3. Partitë politike të regjistruara si koalicion në KQZ paraqesin vetëm një kandidat të përbashkët për kryetar bashkie.
-
-Neni 166
-
-Zgjedhja e organeve të qeverisjes vendore
-
-1. Kryetar bashkie zgjidhet kandidati që fiton numrin më të madh të votave të vlefshme të zgjedhësve që kanë votuar në njësinë vendore përkatëse.
-
-2. Në rastin kur dy ose më shumë kandidatë marrin numër të  barabartë votash, atëherë ndërmjet tyre hidhet short. Shorti organizohet nga KQZ-ja në një seancë publike, me pjesëmarrjen edhe të kandidatëve. KQZ-ja përcakton rregullat e organizimit të shortit.
-
-3. Mandatet e këshillave vendorë ndahen nga KQZ-ja në bazë të sistemit proporcional, sipas të njëjtave procedurave të parashikuara në nenet 162 dhe 163 të këtij Kodi.
-
-KREU III
-
-SHPALLJA E REZULTATIT PËRFUNDIMTAR TË ZGJEDHJEVE
-
-Neni 167
-
-Rezultati përfundimtar i zgjedhjeve
-
-Rezultati përfundimtar i zgjedhjeve shpallet nga KQZ-ja jo më vonë se 5 ditë nga data e shpalljes së rezultatit për shpërndarjen e mandateve për çdo zonë zgjedhore, sipas pikës 7 të nenit 163 të këtij Kodi dhe pasi të kenë përfunduar procedurat e ankimit, sipas këtij Kodi.
 
 PJESA XIII
 
@@ -3768,29 +3786,13 @@ Prokurimi i sistemeve apo pajisjeve të teknologjisë së informacionit
 
 Neni 179/1
 
-Masat për realizimin e teknologjisë së re informative në zgjedhjet për Kuvendin të vitit 2013
-
-(Shtuar me ligjin nr.74/2012, datë 19.7.2012)
-
-1. Jo më vonë se 30 ditë nga hyrja në fuqi e këtij ligji, KQZ-ja fillon përgatitjen e projektit për ngritjen e sistemit të verifikimit dhe regjistrimit të zgjedhësve (SEV) dhe sistemit elektronik të numërimit (SEN). Në përgatitjen e projektit të SEV-it përfshihen edhe përfaqësues të Ministrisë së Brendshme.
-
-2. Këshilli i Ministrave jep mbështetjen e nevojshme, përfshirë edhe atë financiare, për shërbimin e konsulencës që nevojitet për hartimin e kushteve të projektit për SEV-in dhe SEN-in.
-
-3. KQZ-ja përcakton planin për përmbushjen e projektit të SEN-it në të gjithë qarkun e Fierit për zgjedhjet për Kuvendin të vitit 2013.
-
-4. KQZ-ja përcakton planin për përmbushjen e projektit të SEV-it në të gjithë qarkun e Tiranës për zgjedhjet për Kuvendin të vitit 2013.
-
-5. Me qëllim zbatimin e sistemit SEV, qendrat e votimit nuk mund të kenë më shumë se 700 zgjedhës. Kur në një zonë të qendrës së votimit ka më shumë se 700 zgjedhës, zbatohen të njëjtat kritere për ndarjen e tyre, sipas pikës 6 të nenit 62 të këtij Kodi.
-
-6. Procedurat për blerjen e shërbimit dhe/ose pajisjeve të SEN-it dhe SEV-it kryhen me  operatorë  të  mirënjohur  që  ofrojnë  teknologji  të  provuara  me  sukses  në  fushat respektive. Procedurat e prokurimit, si rregull, duhet të përfundojnë jo më vonë se 6 muaj përpara zgjedhjeve për Kuvendin të vitit 2013.
-
-7. KQZ-ja informon në mënyrë periodike Kuvendin në lidhje me ecurinë e përgatitjes dhe zbatimit të projekteve të përcaktuara në këtë nen.
+ (shtuar me ligjin nr.74/2012, datë 19.7.2012, shfuqizuar me ligjin  nr. 118/2020, datë  5.10.2020)
 
 Neni 180
 
 Dispozitë tranzitore për financimin nga buxheti
 
-(Ndryshuar me ligjin nr. 31/2015, datë 2.4.2015,ndryshuar me ligjin nr. 101/2020, datë 23.7.2020)
+(ndryshuar me ligjin nr. 31/2015, datë 2.4.2015,ndryshuar me ligjin nr. 101/2020, datë 23.7.2020)
 
 1. Zbatimi i nenit 88 të këtij ligji për financimin e fushatës zgjedhore për zgjedhjet e para të përgjithshme pas hyrjes në fuqi të tij bëhet duke kryer përllogaritjet në bazë të rezultatit të zgjedhjeve në shkallë vendi për zgjedhjet vendore të vitit 2015 dhe për zgjedhjet e përgjithshme të vitit 2017.
 
