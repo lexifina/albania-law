@@ -1,1 +1,1 @@
-8. Në momentin kur numri i lejeve të peshkimit, i përcaktuar sipas pikës 1, të kreut II, të këtij vendimi, për një lloj aktiviteti peshkimi plotësohet, numri i lejeve të peshkimit për atë lloj aktiviteti peshkimi deklarohet i mbyllur nga MBZHRAU-ja.
+8. Shfuqizuar.

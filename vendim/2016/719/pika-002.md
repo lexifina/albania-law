@@ -3,11 +3,8 @@ a) “Dalje/nxjerrje nga flota e peshkimit”, çregjistrimi përfundimtar i nj�
 b) “Hyrje në flotën e peshkimit”, regjistrimi i një anijeje peshkimi në Regjistrin e Anijeve të Peshkimit (RAP), sipas specifikimeve të përcaktuara në nenin 32, të ligjit nr. 64/2012, “Për peshkimin”, të ndryshuar;
 c) “Kapacitet peshkimi”, aftësia e një anijeje peshkimi ose një grup anijesh peshkimi për të zënë peshk. Matja e kapacitetit të një anijeje bazohet në dy indikatorë: tonazhin e anijes GT dhe fuqinë motorike të saj në kW.
 II. RREGULLIMI I KAPACITETIT TË PESHKIMIT DHE I NUMRIT TË LEJEVE TË PESHKIMIT TREGTAR
-1. Numri i lejeve të peshkimit tregtar, sipas llojeve të peshkimit, përcaktohet, si më poshtë vijon:
-a) Leje peshkimi tregtar profesional, për mjete lundruese që përdorin trata tërheqëse fundore (trata koçe): 230 (dyqind e tridhjetë);
-b) Leje peshkimi tregtar profesional, për mjete lundruese që përdorin trata tërheqëse pelagjike (trata volante), veçmas ose së bashku me trata tërheqëse fundore (shumë përdorimesh): 20 (njëzet);
-c) Leje peshkimi tregtar industrial, për mjete lundruese që përdorin draga hidraulike: 5 (pesë);
-ç) Leje peshkimi tregtar profesional, për mjete lundruese që përdorin koshilok për peshkimin e pelagjikëve të vegjël (peshkim pelagjik me rrethim): 45 (dyzet e pesë);
-d) Leje peshkimi tregtar profesional, për mjete lundruese që përdorin koshilok për peshkimin e tonit të kuq (Thunnus thynnus, Linnaeus 1758): 1 (një);
-dh) Leje peshkimi tregtar artizanal, për mjete lundruese në bregdet, që përdorin mbrezhda, njica, parangallë etj.: 300 (treqind).
-2. Brenda 75 ditëve, nga hyrja në fuqi e këtij vendimi, Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave verifikon Regjistrin e Anijeve të Peshkimit, duke përcaktuar të gjitha anijet që kanë një leje peshkimi, së cilës i ka përfunduar afati i vlefshmërisë.
+1. Numri i lejeve të peshkimit tregtar profesional, për të gjitha format dhe llojet e këtij peshkimi, deklarohet i mbyllur. Me qëllim ruajtjen dhe mbrojtjen e resurseve të pelagjikëve të vegjël, për anijet që janë të lejuara për të dyja format e peshkimit së bashku, tërheqëse fundore dhe tërheqëse pelagjike, subjekti i peshkimit ka të drejtë të ndryshojë lejen e peshkimit duke kaluar vetëm në rrjeta tërheqëse fundore.
+1/1. Kalimi nga lejet e peshkimit për të dyja format e peshkimit, në rrjeta tërheqëse fundore dhe në rrjeta tërheqëse pelagjike, në formën e peshkimit vetëm tërheqëse fundore, bëhet nga ministria përgjegjëse për peshkimin.
+1/2. Numri maksimal i lejeve të peshkimit tregtar artizanal bregdetar përcaktohet me urdhër nga ministri përgjegjës për peshkimin, në zbatim të planit të menaxhimit të peshkimit dhe të planit të zbatimit të peshkimit.
+Për numrin e lejeve të peshkimit tregtar artizanal, të cilat mund të jepen në zonat e mbrojtura të kategorive IV, V dhe VI, të merret pëlqimi dhe nga Agjencia Kombëtare e Zonave të Mbrojtura.
+2. Të gjitha anijet e peshkimit të regjistruara në regjistrin e anijeve të peshkimit dhe të pajisura me numër regjistri (NFR), por që iu ka mbaruar afati i vlefshmërisë së lejes së peshkimit dhe nuk e kanë rinovuar atë, kanë të drejtë të aplikojnë për rinovimin e lejes deri në datën 5 dhjetor 2020.
