@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Kolonjë, për njësinë administrative Qendër Ersekë, të pasurisë 685, zona kadastrale 3510, sipas formularit gjithsej 1 (një) fletë dhe hartës kadastrale, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, me qëllim për t’u përdorur në fushën e zhvillimit ekonomik.
