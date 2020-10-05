@@ -1,0 +1,5 @@
+URDHËR
+Nr. 213/1, datë 1.9.2020
+PËR MARRJEN E MASAVE TË VEÇANTA NGA NJËSITË E VETËQEVERISJES VENDORE PËR PARANDALIMIN E PËRHAPJES SË INFEKSIONIT TË SHKAKTUAR NGA COVID-19, PËR APLIKUESIT DHE PËRFITUESIT E NDIHMËS EKONOMIKE
+Mbështetur në nenin 116, pika 3, të Kushtetutës së Republikës së Shqipërisë, si dhe ligjin nr. 10107, datë 30.3.2009, i ndryshuar “Për kujdesin shëndetësor në Republikën e Shqipërisë”, i ndryshuar, të nenit 7, të ligjit nr. 57/2019 “Për parandalimin dhe luftimin e infeksioneve dhe sëmundjeve infektive”, ligjit nr. 57/2019 “Për asistencën sociale në Republikën e Shqipërisë”, vendimit nr. 597, datë 4.9.2019, të Këshillit të Ministrave “Për përcaktimin e procedurave, të dokumentacionit dhe të masës mujore të përfitimit të ndihmës ekonomike dhe përdorimit të fondit shtesë mbi fondin e kushtëzuar për ndihmën ekonomike”, vendimit të Komitetit të Përkohshëm për infeksionin e përhapur nga koronavirusi i ri”, si edhe udhëzimit të Institutit të Shëndetit Publik, me qëllim mbrojtjen e popullatës nga infeksioni i shkaktuar nga COVID-19,
+URDHËROJ:

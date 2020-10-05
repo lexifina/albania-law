@@ -1,0 +1,1 @@
+11. Në ambientet e njësive të vetëqeverisjes vendore vendosen postera ilustrues të afishuar, postera të larjes dhe desinfektimit të duarve, si edhe afishohen rregullat e ndryshuara, të cilat do të zbatohen për parandalimin e përhapjes së infeksionit të shkaktuar nga COVID-19.

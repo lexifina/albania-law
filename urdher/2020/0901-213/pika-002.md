@@ -1,0 +1,1 @@
+2. Punonjësit e njësisë së vetëqeverisjes vendore pajisen me të gjitha mjetet mbrojtëse (maskë mbrojtëse për fytyrën, doreza për duart) dhe ruajnë distancën fizike 1.5-2 metra me qytetarët gjatë kryerjes së procedurave për aplikime, deklarime dhe verifikime të situatës social-ekonomike në banesë. Në sportelet e aplikimit për ndihmë ekonomike vendoset mbrojtëse xhami.

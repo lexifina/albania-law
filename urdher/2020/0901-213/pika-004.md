@@ -1,0 +1,1 @@
+4. Pastrimi dhe dezifektimi i të gjitha ambienteve do të kryhet rregullisht çdo ditë dhe pas çdo hyrje-dalje do të kryhet ajrosja e ambienteve, për jo më pak se 15 minuta, si edhe dezinfektimi i të gjitha sipërfaqeve, mjeteve të punës dhe dorezave të dyerve.
