@@ -1,0 +1,3 @@
+1. Në buxhetin e vitit 2020, miratuar për Ministrinë e Infrastrukturës dhe Energjisë, të bëhet rishpërndarja e fondeve ndërmjet programeve buxhetore, si më poshtë vijon:
+a) në programin buxhetor 06370 “Furnizimi me ujë dhe kanalizime”, artikulli 231 “Shpenzime kapitale të trupëzuara”, zëri “Shpenzimet kapitale me financim të brendshëm”, pakësohet fondi prej 179 000 000 (njëqind e shtatëdhjetë e nëntë milionë) lekësh;
+b) në programin buxhetor 06220 “Menaxhimi i mbetjeve urbane”, artikulli 231 “Shpenzime kapitale të trupëzuara”, zëri “Shpenzimet kapitale me financim të brendshëm”, shtohet fondi prej 179 000 000 (njëqind e shtatëdhjetë e nëntë milionë) lekësh.
