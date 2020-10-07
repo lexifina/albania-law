@@ -1,9 +1,9 @@
 # PËR PLANIFIKIMIN DHE ZHVILLIMIN E TERRITORIT
 
-Official source: [Ligji nr. 107/2014](https://qbz.gov.al/api/v1/acts/11018).
+Official source: [Ligji nr. 107/2014](https://qbz.gov.al/api/v1/acts/11018); [QBZ versions](https://qbz.gov.al/api/v1/acts/11018/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2014-07-31; published 2014-09-11; in force 2014-10-01.
+Status of this text: `official consolidated version 3`, applying from 2020-10-07; after QBZ act 66969 (nr. 119).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
