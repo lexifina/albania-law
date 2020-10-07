@@ -1,0 +1,1 @@
+5. Produktet e qumështit të përcaktuara në shkronjat “a”, “b” dhe “c” të pikës 2 nuk lejohen të tregtohen, nëse të dhënat e përcaktuara në pikën 4 nuk janë shënuar në një gjuhë lehtësisht të kuptueshme nga konsumatori.
