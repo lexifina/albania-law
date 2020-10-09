@@ -1,0 +1,1 @@
+1. Ngarkimin e përkohshëm të z. Alqi Kushi në pozicionin e Drejtorit të Përgjithshëm në Drejtorinë e Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse të Ministrisë së Arsimit, Sportit dhe Rinisë, me detyrën e Sekretarit të Përgjithshëm në Ministrinë e Arsimit, Sportit dhe Rinisë që nga data 25.9.2020.
