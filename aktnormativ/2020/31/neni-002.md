@@ -1,0 +1,7 @@
+# Neni 2
+Kthimi i detyrimit të masës administrative me gjobë
+1. Kthimi i shumës së detyrimit të falur, por të paguar, për masat administrative me gjobë, merret nga zëri përkatës i buxhetit të shtetit apo buxhetit të institucionit në të cilin është arkëtuar shuma, me urdhër të nëpunësit të parë autorizues, dhe kalohet në llogarinë bankare të subjektit përfitues ose, në mungesë të saj, kjo shumë i dërgohet institucionit shtetëror që ka vendosur masën me gjobë për t’ia dorëzuar subjektit përfitues.
+2. Të gjitha institucionet shtetërore, të cilat kanë ushtruar autoritetin e vendosjes së masës administrative me gjobë, duhet të përgatisin listat e subjekteve ndaj të cilave është vendosur masa administrative me gjobë, duke përfshirë shumën, si dhe të dhënat e nevojshme për kthimin e saj brenda datës 30 tetor 2020.
+3. Kthimi i shumave pranë llogarisë bankare të subjektit përfitues apo institucionit shtetëror që ka vendosur masën administrative me gjobë të bëhet brenda datës 15 nëntor 2020.
+4. Mënyra dhe rregullat e hollësishme të kthimit të shumave të paguara përcaktohen me udhëzim të ministrit të Financave dhe Ekonomisë.
+5. Në rastin e gjobave të vendosura nga njësitë e vetëqeverisjes vendore, sipas pikës 2, të nenit 1, të këtij akti, të gjitha strukturat përkatëse duhet të dërgojnë listat e subjekteve ndaj të cilave është vendosur masa administrative. Mënyra dhe rregullat e hollësishme për zbatimin e faljes dhe kthimin e shumave të paguara, sipas përcaktimeve të këtij akti normativ, përcaktohen nga këshilli bashkiak.
