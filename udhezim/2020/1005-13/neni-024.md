@@ -1,0 +1,13 @@
+# Neni 24
+Rregullat e përdorimit të rrjetit dhe pajisjeve kompjuterike
+24.1 Përdorimi i rrjetit dhe pajisjeve kompjuterike të AZHBR-së menaxhohen nga Sektori i Teknologjisë së Informacionit.
+24.2 Të gjitha pajisjet që përfshihen në rrjetin e brendshëm, që janë pronë e AZHBR-së, përdoren vetëm për qëllime pune.
+24.3 Përdorimi për nevoja personale i postës elektronike zyrtare të AZHBR-së është i ndaluar duke garantuar përparësinë e përdorimit për qëllime pune. Cilido përdorues, kur konstatohet se për një kohë të gjatë, përdor këto burime për qëllime personale, mund t’i ndërpritet përdorimi i tyre dhe merren masa administrative ndaj tij.
+24.4 Sektori i Teknologjisë së Informacionit, në bashkëpunim të ngushtë me Drejtorinë Juridike dhe të Shërbimeve Mbështetëse, janë përgjegjëse për sigurinë dhe mirëmbajtjen e pajisjeve që përbëjnë rrjetin e brendshëm të informacionit, pjesëve hardware, programeve, sistemeve të informacionit të AZHBR-së.
+24.5 Kompjuterët “Desktop” dhe “Laptop”, programet, pajisjet periferike apo çdolloj tjetër pajisjeje kompjuterike, që i jepet një përdoruesi nga AZHBR-ja, në përfundim të përmbushjes së detyrës kthehet dhe mbetet pronë e saj.
+24.6 Në sistemin operativ të pajisjeve fundore (kompjuter ose laptop) instalohen vetëm ato programe që i nevojiten përdoruesit për kryerjen e detyrës.
+24.7 Secili përdorues në AZHBR ka kredenciale individuale për aksesimin në rrjetin e brendshëm “Active Directory”. Këto kredenciale sigurohen nga SIT-i me kërkesë të SBNJ-së. Përdoruesi është përgjegjës për të gjithë veprimet, që ndërmerren gjatë përdorimit të këtyre kredencialeve.
+24.8 Përdoruesi në varësi të pozicionit dhe përshkrimit të punës, mund të ketë akses në sistemin e menaxhimit të të dhënave për skemat kombëtare ose për programet IPARD II. Në këto raste, gjithashtu, përdoruesi pajiset nga SIT-i me kredenciale për të aksesuar sistemin, sipas një kërkese të sjellë nga SBNJ-ja dhe konfirmuar nga drejtori i përgjithshëm. Përdoruesi është përgjegjës për të gjithë veprimet që ndërmerren gjatë përdorimit të këtyre kredencialeve.
+24.9 Regjistri i veprimeve (Activity logs) i jepet përgjegjësit të SIT-i, pas marrjes së njoftimit për ndonjë aktivitet të dyshimtë dhe pa njoftuar përdoruesin për këtë.
+24.10 Drejtoria e Financës dhe Drejtoria Juridike dhe Shërbimeve Mbështetëse përgjigjen për kostot financiare, që lindin në rastet e riparimeve të nevojshme dhe në rastet e blerjeve të software apo hardware.
+24.11 Përveç pikave të mësipërme, pjesë integrale dhe të detyrueshme për zbatim janë edhe rregulloret për përdorimin e internetit në administratën publike dhe rregullorja për përdorimin e postës elektronike në administratën publike.

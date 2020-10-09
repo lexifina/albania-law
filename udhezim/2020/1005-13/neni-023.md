@@ -1,0 +1,10 @@
+# Neni 23
+Kryerja e detyrave funksionale të nëpunësve/punonjësve
+23.1 Nëpunësit/punonjësit e AZHBR-së zhvillojnë veprimtaritë e tyre mbi bazën e planeve, detyrave dhe afateve kohore të vendosura dhe të miratuara nga drejtori i AZHBR-së.
+23.2 Drejtuesit e drejtorive dhe sektorëve raportojnë te drejtori i AZHBR-së mbi ecurinë e aktivitetit dhe mbajnë përgjegjësi konkrete mbi realizimin e objektivave të programuara.
+23.3 Çdo nëpunës/punonjës i AZHBR-së, gjatë zbatimit të detyrave funksionale duhet t’i kryejë ato bazuar në dokumentacionin shkresor dhe të sigurojë që të dhënat në sistemin elektronik janë në përputhje me dokumentacionin përkatës. Dokumentacioni shkresor është baza ndërsa sistemi elektronik ka funksion mbështetës.
+23.4 Çdo nëpunës/punonjës i cili në mënyrë të paautorizuar merr në dorëzim kërkesa/aplikime, praktika, nga individë në mënyrë të paautorizuar dhe të paprotokolluar me kartelë shoqëruese, ngarkohet me përgjegjësi disiplinore, sipas legjislacionit në fuqi.
+23.5 Individët/persona të tretë të cilët depozitojnë dorazi jo në rrugë zyrtare postare pranë AZHBR-së shkresa/akte/autorizim përfaqësimi të posaçëm/kërkesa apo mjete të punës, pronë e inventarizuar e AZHBR-së, të cilët janë në përdorim të nëpunësve të institucionit duhet të kenë me vete mjete identifikimi.
+23.6 Çdo nëpunës/punonjës është i detyruar të zbatojë shkallën hierarkike administrative të AZHBR-së. Përveç sa parashikohet në këtë udhëzim, çdo nëpunës/punonjës ka të drejta dhe detyrime, sipas përcaktimeve të bëra në dispozitat ligjore në fuqi që rregullojnë marrëdhëniet e punës.
+23.7 Nëpunësit/punonjësit që në punën e tyre marrin dijeni për informacione të karakterit konfidencial, sipas kritereve që përcaktojnë aktet ligjore dhe nënligjore, janë të detyruar të ruajnë konfidencialitetin.
+23.8 Drejtuesit dhe çdo nëpunës/punonjës i AZHBR-së mbajnë përgjegjësi ligjore lidhur me veprime të kryera ose të pakryera në mirëbesim, të pambështetura në rregullat procedurale dhe dokumentacionin administrativ përkatës. Në këto raste personi përgjegjës është subjekt i masave disiplinore.

@@ -1,0 +1,32 @@
+# Neni 2
+Përkufizime
+2.1 Në këtë udhëzim, termat e mëposhtëm kanë këto kuptime:
+- “Administrata” nënkupton të gjitha strukturat dhe punonjësit e AZHBR-së.
+- “AZHBR” nënkupton Agjencinë për Zhvillim Bujqësor dhe Rural.
+- “SAB” nënkupton Sektorin e Auditit të Brendshëm.
+- “DPAP” nënkupton Drejtorinë e Përzgjedhjes dhe Aprovimit të Projekteve.
+- “SPAP-IPARD” nënkupton Sektorin e Përzgjedhjes dhe Aprovimit të Projekteve IPARD.
+- “SPAP-Kombëtar” nënkupton Sektorin e Përzgjedhjes dhe Aprovimit të Projekteve Kombëtare.
+- “SAT” nënkupton Sektorin e Asistencës Teknike.
+- “DK” nënkupton Drejtorinë e Kontrollit.
+- “SM” nënkupton Sektorin e Monitorimit.
+- “SK-IPARD” nënkupton Sektorin e Kontrollit IPARD.
+- “SK-Kombëtar” nënkupton Sektorin e Kontrollit Kombëtar.
+- “DAP” nënkupton Drejtorinë e Autorizimit të Projekteve.
+- “SAP-IPARD” nënkupton Sektorin e Autorizimit të Pagesave IPARD.
+- “SAP-Kombëtar” nënkupton Sektorin e Autorizimit të Pagesave Kombëtare.
+- “DEP” nënkupton Drejtorinë e Ekzekutimit të Pagesave.
+- “SEP-IPARD” nënkupton Sektorin e Ekzekutimit të Pagesave IPARD.
+- “SEP-Kombëtar” nënkupton Sektorin e Ekzekutimit të Pagesave Kombëtare.
+- “DF” nënkupton Drejtorinë e Financës.
+- “SK” nënkupton Sektorin e Kontabilitetit.
+- “SF” nënkupton Sektorin e Financës.
+- “SMB” nënkupton Sektorin e Menaxhimit të Borxhit.
+- “DJSHM” nënkupton Drejtorinë Juridike dhe Shërbimeve Mbështetëse.
+- “SJ” nënkupton Sektorin Juridik.
+- “SBNJ” nënkupton Sektorin e Burimeve Njerëzore.
+- “SIT” nënkupton Sektorin e Informacionit dhe Teknologjisë.
+- “SRPMAR” nënkupton Sektorin e Riskut, Parandalimit të Mashtrimit, Analizës dhe Raportimit.
+- “SPK” nënkupton Sektorin e Promocionit dhe Komunikimit.
+- “SPLNH” nënkupton Sektorin e Përafrimit të Legjislacionit dhe Ndihmës së Huaj.
+- “AGROPIKË” ose “Dritarja e Fermerit” është një njësi e drejtpërdrejtë e ofrimit të shërbimit në varësi të Agjencisë për Zhvillim Bujqësor dhe Rural, e cila ofron shërbime te fermerët, informacion për aplikime, akses në financë, mbështetje me ekstension dhe shërbime të tjera.
