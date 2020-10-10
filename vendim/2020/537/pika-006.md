@@ -1,0 +1,1 @@
+6. Kërkesat minimale të performancës së energjisë për ndërtesat dhe njësitë e ndërtesave, që do t’i nënshtrohen një rinovimi të rëndësishëm, nuk zbatohen nëse zbatimi i këtyre kërkesave nuk përputhet me nivelin optimal të kostos, pra nuk është teknikisht ose praktikisht i realizueshëm dhe ekonomikisht i justifikueshëm për të gjithë jetëgjatësinë e ndërtesës.

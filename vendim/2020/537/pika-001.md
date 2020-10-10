@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është të përcaktojë kërkesat minimale për performancën e energjisë së ndërtesave dhe të elementeve të ndërtesave, duke synuar që të arrihen nivelet optimale të konsumit energjetik për një përdorim tipik të ndërtesës.
