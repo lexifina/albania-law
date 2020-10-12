@@ -1,0 +1,1 @@
+23. Gjithashtu, merren të mirëqena edhe përcaktimet/pasqyrimet në regjistrat e pasurive të paluajtshme të sipërfaqeve shtesë mbi sipërfaqen e shprehur në dokument, të kryera dhe të regjistruara përpara hyrjes në fuqi të këtij vendimi, pavarësisht mangësive në formë, procedurë dhe dokumentacion.

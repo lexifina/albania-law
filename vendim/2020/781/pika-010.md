@@ -1,0 +1,3 @@
+10. Në rast se gjatë shqyrtimit të kërkesës drejtoria vendore e ASHK-së konstaton se:
+a) kërkesa shoqërohet me të meta, njofton kërkuesin për plotësimin e tyre brenda afatit 10-ditor. Në rast të mosplotësimit të të metave brenda afatit, drejtori vendor del me vendim mbi mospranimin e kërkesës. Kundër vendimit të mospranimit mund të ushtrohet ankim gjyqësor;
+b) ka një informacion zyrtar se për të njëjtën procedurë është duke u zhvilluar një proces gjyqësor pranë gjykatës, atëherë drejtori vendor del me vendim mbi pezullimin e procedurës, deri në marrjen nga gjykata të një vendimi të formës së prerë dhe njofton kërkuesin.

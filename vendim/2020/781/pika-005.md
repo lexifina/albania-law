@@ -1,0 +1,1 @@
+5. Gjatë kryerjes së procesit të regjistrimit fillestar apo përmirësimit të të dhënave kadastrale, të nisur kryesisht nga ASHK-ja, procedura për përcaktimin e sipërfaqes dhe të kufijve për pronat pa sipërfaqe kryhet duke administruar kërkesat dhe dokumentacionin, sipas përcaktimeve dhe kushteve të pikës 4, të nenit 30, të ligjit nr. 111/2018, “Për kadastrën”.

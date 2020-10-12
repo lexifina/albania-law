@@ -1,0 +1,2 @@
+22. Përcaktimi i sipërfaqes në regjistrat e pasurive të paluajtshme, për pronat me titull pronësie pa sipërfaqe, të regjistruara përpara hyrjes në fuqi të këtij vendimi, duke përfshirë edhe regjistrat hipotekorë, merret i mirëqenë, pavarësisht mangësive në formë, procedurë dhe dokumentacion.
+Këtu përfshihen edhe regjistrimet për pronat pa sipërfaqe, të kryera deri në datën 2.4.2007, në zbatim të shkronjës “b”, të nenit 24, të ligjit nr. 7843, datë 13.7.1994, “Për regjistrimin e pasurive të paluajtshme”, të shfuqizuar.

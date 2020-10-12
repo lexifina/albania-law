@@ -1,0 +1,1 @@
+3. Agjencia Shtetërore e Kadastrës, këtu e në vijim ASHK, vepron për përcaktimin e sipërfaqes dhe kufijve të pasurisë, në përputhje me përcaktimet e nenit 30, të ligjit nr. 111/2018, “Për kadastrën”, gjatë procedurave të regjistrimit fillestar, gjatë procedurave të përmirësimit të të dhënave të regjistrit kadastral apo me kërkesë të subjekteve të interesuara.

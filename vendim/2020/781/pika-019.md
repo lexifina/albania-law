@@ -1,0 +1,1 @@
+19. Nuk janë objekt i këtij vendimi pasuritë, të cilat në aktet e tyre të fitimit të pronësisë nuk e kanë të shprehur sipërfaqen, por këto akte janë të shoqëruara me dokument hartografik, të lëshuar nga organet kompetente si shoqëruese e aktit të pronësisë, nga i cili mund të nxirret sipërfaqja e saktë e pasurisë.

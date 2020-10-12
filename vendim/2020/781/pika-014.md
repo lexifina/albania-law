@@ -1,0 +1,2 @@
+14. Kur pronat kufitare janë pasuri shtetërore/publike, deklarata noteriale zëvendësohet nga konfirmimi zyrtar i institucionit pronar apo që administron pronën shtetërore. Nëse identifikimi i institucionit pronar ose administrues nuk është i mundur, deklarata noteriale nënshkruhet nga bashkia, në të cilën ndodhet pasuria.
+Nëse institucionet e mësipërme sipas rastit nuk nënshkruajnë deklaratën noteriale brenda afatit 30-ditor, ASHK-ja, pas kalimit të afatit, vijon procedurën.

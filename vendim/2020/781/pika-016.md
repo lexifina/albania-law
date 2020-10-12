@@ -1,0 +1,1 @@
+16. Afati për të marrë vendim nga ASHK-ja është 30 ditë kalendarike nga data e paraqitjes së kërkesës. Përjashtimisht në rastet e afishimit, të parashikuar në pikën 12, të këtij vendimi, afatit për pranimin ose jo të kërkesës i shtohet edhe periudha e afishimit.

@@ -1,0 +1,1 @@
+27. Vendimi nr. 745, datë 24.10.2012, i Këshillit të Ministrave, “Për procedurat e regjistrimit të pasurive të paluajtshme, për të cilat zotërohen dokumente të ligjshme pronësie, por që nuk kanë të përcaktuar sipërfaqen”, shfuqizohet.

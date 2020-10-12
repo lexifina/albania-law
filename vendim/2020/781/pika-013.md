@@ -1,0 +1,1 @@
+13. Kur procedura e përcaktimit të sipërfaqes kryhet gjatë procesit të regjistrimit fillestar, afishimi 15-ditor sipas pikës 12, të këtij vendimi, është pjesë e njoftimit publik 45-ditor, të parashikuar në nenin 31, të ligjit nr. 111/2018, “Për kadastrën”.

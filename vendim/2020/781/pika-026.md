@@ -1,0 +1,1 @@
+26. Objektet e regjistruara në regjistrat hipotekorë deri në momentin e hyrjes në fuqi të dekretit nr. 4823, datë 2.3.1971, “Mbi të drejtën e pronësisë”, që nuk ka të cilësuar truallin, por vetëm kufijtë, trajtohen si pasuri me sipërfaqe të papërcaktuar, sipas përcaktimeve të pikës 4, të nenit 30, të ligjit nr. 111/2018, “Për kadastrën”, dhe dispozitave të këtij vendimi.

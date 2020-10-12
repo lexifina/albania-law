@@ -1,0 +1,1 @@
+1. Objekt i këtij vendimi është përcaktimi i procedurave të regjistrimit të pasurive të paluajtshme, për të cilat zotërohen tituj pronësie në përputhje me nenin 193, të Kodit Civil, por që nuk kanë të përcaktuar sipërfaqen.

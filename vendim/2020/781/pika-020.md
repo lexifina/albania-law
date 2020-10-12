@@ -1,0 +1,1 @@
+20. Kur pasuria në rastet e parashikuara në krerët e tjerë të këtij vendimi është kaluar në pronësi të të tretëve, nëse të paktën njëri prej veprimeve të kalimit të pronësisë është i shoqëruar ose i plotësuar me dokumentacion hartografik që të përcaktojë sipërfaqen dhe kufijtë, ky i fundit merret i mirëqenë për efekt regjistrimi.

@@ -1,0 +1,1 @@
+17. Vendimi për regjistrimin e pasurisë së paluajtshme i njoftohet kërkuesit dhe publikohet në faqen zyrtare të internetit të ASHK-së. Kundër këtij vendimi subjektet e interesuara mund të paraqesin ankim në gjykatë.
