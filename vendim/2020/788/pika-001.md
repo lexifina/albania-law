@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit, nga Autoriteti Rrugor Shqiptar te Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor, të objektit me sipërfaqe 644 m2, pjesë e pasurisë me numër 11/86, në zonën kadastrale 8320, Tiranë, sipas planit të rilevimit bashkëlidhur këtij vendimi, të përdorur për kryerjen e aktivitetit të Qendrës së Monitorimit të Trafikut Rrugor.
