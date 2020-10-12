@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Tiranë, të Njësisë Administrative Tiranë, të pronave me nr. 1-4 dhe 8, sipas lidhjes 1, formularëve gjithsej 2 (dy) fletë dhe planvendosjeve, bashkëlidhur këtij vendimi, për t’u përdorur në fushën e infrastrukturës dhe zhvillimit ekonomik.
