@@ -1,0 +1,1 @@
+1. Miratimin e planit të veprimit 2020-2022, në zbatim të Strategjisë Ndërsektoriale për Decentralizimin dhe Qeverisjen Vendore, për periudhën 2015-2020, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

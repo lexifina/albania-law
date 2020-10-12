@@ -1,0 +1,5 @@
+VENDIM
+Nr. 783, datë 7.10.2020
+PËR MIRATIMIN E PLANIT TË VEPRIMIT 2020-2022, NË ZBATIM TË STRATEGJISË NDËRSEKTORIALE PËR DECENTRALIZIMIN DHE QEVERISJEN VENDORE, 2015-2020
+Në mbështetje të nenit 100 të Kushtetutës, me propozimin e ministrit të Brendshëm, Këshilli i Ministrave
+VENDOSI:
