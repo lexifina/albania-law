@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 92 068 771.70 (nëntëdhjetë e dy milionë e gjashtëdhjetë e tetë mijë e shtatëqind e shtatëdhjetë e një pikë shtatëdhjetë) lekësh, do të përballohet nga zëri “Fondi për rindërtimin”, i miratuar për vitin 2020.
