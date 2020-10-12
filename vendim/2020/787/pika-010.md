@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Fier, në bashkëpunim me Bashkinë Fier, brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, të fillojë procedurat për hedhjen e gjurmës së projektit mbi hartat kadastrale, sipas planimetrisë së shpronësimit të miratuar dhe të bëjë kalimin e pronësisë në favor të shtetit (Bashkisë Fier).

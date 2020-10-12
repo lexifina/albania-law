@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit: “Rehabilitimi dhe sistemimi i shesheve brenda blloqeve të banimit, si dhe krijimi i hapësirave rekreative brenda tyre ’Lagjja 8 Shkurti’”, Bashkia Fier.
