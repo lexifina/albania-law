@@ -1,0 +1,1 @@
+1. Licenca për veprimtarinë ndërhyrëse në pasuritë kulturore materiale është akti administrativ që i njeh titullarit të saj të drejtën të fillojë e të ushtrojë tipin e veprimtarisë, në përputhje me kushtet e përcaktuara në të.
