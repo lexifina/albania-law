@@ -1,0 +1,1 @@
+2. Kreu III, i “Rregullores mbi kriteret e ushtrimit të profesionit të arkeologut, kriteret e gërmimit, dokumentimit dhe arkivimit të të dhënave dhe materialeve arkeologjike”, miratuar me vendimin nr. 2, datë 30.1.2009, të Këshillit Kombëtar të Arkeologjisë, të ndryshuar, shfuqizohet.

@@ -1,0 +1,1 @@
+1. Përcaktimin e kushteve të posaçme të licencimit, kritereve, dokumenteve shoqëruese dhe procedurave për shqyrtimin ose revokimin e licencës për veprimtarinë arkeologjike dhe veprimtarinë arkeologjike nënujore, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
