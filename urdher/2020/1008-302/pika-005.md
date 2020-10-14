@@ -1,0 +1,1 @@
+5. Në rast moszbatimi të detyrimeve, nga personi fizik, të përcaktuar në pikën 2, të këtij urdhri, që përfaqëson institucionin, arsimor parauniversitar privat, kopshtin “Tweety”, Tiranë, institucioni arsimor vendor, përgjegjës për arsimin parauniversitar, të marrë të gjitha masat, sipas legjislacionit në fuqi.

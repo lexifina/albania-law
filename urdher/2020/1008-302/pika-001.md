@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, kopshti “Tweety”, Tiranë, në emër të personit fizik, znj. Miranda Metallari, e regjistruar në Qendrën Kombëtare të Biznesit më datë 3.11.2011, i identifikuar me numrin unik të subjektit (NUIS) L12303024R.
