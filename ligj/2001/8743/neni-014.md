@@ -1,0 +1,2 @@
+# Neni 14
+Këshilli i Ministrave ngarkon me përgjegjësi për administrimin e çdo njësie të pronës së paluajtshme, atë organ shtetëror ose ent publik që ushtron shkallën më të lartë të kontrollit mbi pronën. Në qoftë se asnjë organ nuk plotëson kushtin e mësipërm, Këshilli i Ministrave ngarkon me administrimin e pronës atë organ shtetëror ose ent publik, fusha e veprimtarisë e të cilit është më afër me karakteristikat e pronës.
