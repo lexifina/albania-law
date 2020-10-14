@@ -1,0 +1,7 @@
+# Neni 18
+Bordet e monitorimit të zhvillimit rajonal
+1. Bordet e monitorimit të zhvillimit rajonal janë organet kryesore që promovojnë interesat e rajoneve të zhvillimit dhe veprojnë si një organ i përbashkët i njësive tё vetëqeverisjes vendore të rajonit të zhvillimit. Bordet bashkëpunojnë me autoritetet e pushtetit qendror dhe aktorët e tjerë të përfshirë në planifikimin, programimin dhe zbatimin e politikës rajonale, në përputhje me parimin e partneritetit.
+2. Në përcaktimin e përbërjes së bordeve zbatohet parimi i partneritetit, duke siguruar praninë e njësive të vetëqeverisjes vendore, të sektorit privat, të institucioneve kërkimore-shkencore, të shoqërisë civile dhe medias.
+3. Bordet e monitorimit të zhvillimit rajonal janë përgjegjëse për hartimin dhe dakordësimin përpara përcjelljes për miratim të planeve të zhvillimit rajonal dhe bashkëpunojnë në përgatitjen e programit operacional për zhvillimin rajonal.
+4. Bordet e monitorimit të zhvillimit rajonal krijohen me vendim të organeve përfaqësuese tё njësive tё vetëqeverisjes vendore. Përbërja, organizimi, veprimtaria dhe procedurat e krijimit e të funksionimit përcaktohen me vendim të Këshillit të Ministrave.
+5. Fondi Shqiptar i Zhvillimit, nëpërmjet strukturave të veta përkatëse në rajonet e zhvillimit, siguron mbështetje teknike për hartimin e dokumenteve të parashikuara në pikën 3 të këtij neni, si dhe kryen rolin e sekretariatit të bordeve të monitorimit të zhvillimit rajonal.

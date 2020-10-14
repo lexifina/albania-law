@@ -1,0 +1,11 @@
+# Neni 6
+Parimet për zhvillimin rajonal
+Zhvillimi rajonal në Republikën e Shqipërisë zbatohet në përputhje me parimet e mëposhtme:
+a) parimi i partneritetit për politikën rajonale. Ky parim nënkupton pjesëmarrjen, bashkëvendimmarrjen dhe bashkëpërgjegjësinë e enteve publike dhe jopublike, që bashkëpunojnë për të përcaktuar prioritetet e politikës rajonale dhe kontribuojnë në zbatimin e politikës, në arritjen e objektivave specifikë, si dhe në monitorimin e vlerësimin e saj;
+b) parimi i subsidiaritetit. Ky parim nënkupton delegimin e proceseve të planifikimit dhe zbatimit të politikës rajonale në nivelin qeverisës dhe/ose administrativ më të ulët të mundshëm, që njëkohësisht garanton efiçencën më të lartë për procesin respektiv;
+c) parimi i qëndrueshmërisë. Ky parim nënkupton angazhimin e plotë të politikës rajonale për realizimin e objektivave për zhvillimin e qëndrueshëm në Republikën e Shqipërisë;
+ç) parimi i planifikimit. Planifikimi i zhvillimit rajonal duhet të bëhet nëpërmjet dokumenteve për planifikimin e zhvillimit, si kusht paraprak për përgatitjen e ndërhyrjeve dhe shpërndarjen e fondeve për zhvillimin rajonal;
+d) parimi i programimit. Ky parim nënkupton se qëndrueshmëria e objektivave dhe planifikimi financiar i politikës rajonale do të sigurohet në bazë të një sistemi programimi shumëvjeçar dhe në të gjitha nivelet;
+dh) parimi i transparencës. Ky parim nënkupton që proceset e planifikimit të zhvillimit rajonal dhe ato të vendimmarrjes për përdorimin e burimeve do të jenë publike. Komuniteti do të informohet për disponueshmërinë e burimeve dhe rezultatet e arritura;
+e) parimi i përqendrimit. Ky parim nënkupton se shpërndarja e fondeve dhe përdorimi i burimeve të tjera financiare publike në territor do të bëhet në përputhje me objektivat dhe prioritetet që përcakton politika rajonale, me qëllim zhvillimin e qëndrueshëm e të ekuilibruar shoqëror dhe ekonomik, si dhe kohezionin territorial;
+ё) parimi i bashkërendimit. Ky parim nënkupton harmonizimin e politikës rajonale me politikat e tjera publike, të cilat kanë ndikim në rajon, si dhe përfshirjen aktive në proceset e hartimit e të zbatimit të kësaj politike të të gjithë pjesëmarrësve në aktivitetet zhvillimore, veçanërisht të autoriteteve vendore.
