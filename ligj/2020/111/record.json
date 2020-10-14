@@ -1,0 +1,26 @@
+{
+  "qbz_id": 22154,
+  "title": "Për disa shtesa në ligjin nr. 8743, datë 22.2.2001, “Për pronat e paluajtshme të shtetit”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "111",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2020-07-29",
+  "published": "2020-09-29",
+  "in_force": "2020-10-14",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/0a8c96d4eb5697e2f321254d06813ed8f9bb644475f434489f4376bb3ae9e6fe.docx",
+  "source_sha256": "0a8c96d4eb5697e2f321254d06813ed8f9bb644475f434489f4376bb3ae9e6fe",
+  "official_record": "https://qbz.gov.al/api/v1/acts/22154",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2020/07/29/111",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
