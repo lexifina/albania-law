@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Dibër, të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale të regjistrimit dhe kalimi i pronësisë në favor të shtetit për pasuritë e shpronësuara.

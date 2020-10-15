@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen për pasuritë e llojit “tokë arë” dhe kultura bujqësore “drufrutorë”, të kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, me një vlerë të përgjithshme prej 1 198 195 (një milion e njëqind e nëntëdhjetë e tetë mijë e njëqind e nëntëdhjetë e pesë) lekësh.

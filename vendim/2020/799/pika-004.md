@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasuritë e llojit “tokë arë” dhe kultura bujqësore “drufrutorë”, me vlerë 1 198 195 (një milion e njëqind e nëntëdhjetë e tetë mijë e njëqind e nëntëdhjetë e pesë) lekë, do të përballohet nga buxheti i vitit 2020, miratuar për Autoritetin Rrugor Shqiptar.
