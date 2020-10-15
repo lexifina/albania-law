@@ -1,1 +1,1 @@
-3. Numri i punonjësve të Agjencisë së Ofrimit të Shërbimeve Publike të Integruara (ADISA) të jetë, gjithsej, 175 veta.
+3. Numri i punonjësve të Agjencisë së Ofrimit të Shërbimeve Publike të Integruara (ADISA) të jetë, gjithsej, 185 veta.
