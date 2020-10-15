@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Fier, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit nga “tokë bujqësore” në “tokë urbane”, për sipërfaqen ndërtimore sipas lidhjes nr. 1, të pasurive me numër 171/54 dhe 171/60, zona kadastrale 3737, Bashkia Roskovec.
