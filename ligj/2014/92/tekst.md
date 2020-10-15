@@ -6,7 +6,7 @@ PËR TATIMIN MBI VLERËN E SHTUAR NË REPUBLIKËN E SHQIPËRISË
 
 (Ndryshuar me ligjet: nr. 90/2015, datë 23.7.2015, nr. 71/2017, datë 27.4.2017, 
 
-nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018,  ndryshuar me aktin normativ nr. 4, datë 30.11.2019[^fn2], nr. 85/2019, datë 18.12.2019[^fn3], nr. 64/2020, datё 14.5.2020)
+nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018,  ndryshuar me aktin normativ nr. 4, datë 30.11.2019[^fn2], nr. 85/2019, datë 18.12.2019[^fn3], nr. 64/2020, datё 14.5.2020, nr. 123/2020, datë 15.10.2020)
 
  (i përditësuar, 2020)
 
@@ -640,7 +640,7 @@ Neni 49
 
 Shkallët e reduktuara
 
-(shtuar pika 3 me ligjin nr. 71/2017, datë 27.4.2017,  pika 4 me ligjin nr. 107/2017, datë 30.11.2017 dhe pika 5 me ligjin nr. 40/2018, datë 9.7.2018, shtuar pikat 6, 7 dhe 8 me ligjin nr. 96/2018, datё 3.12.2018, ndryshuar pika 7 me ligjin nr. 85/2019, datë 18.12.2019) 
+(shtuar pika 3 me ligjin nr. 71/2017, datë 27.4.2017,  pika 4 me ligjin nr. 107/2017, datë 30.11.2017 dhe pika 5 me ligjin nr. 40/2018, datë 9.7.2018, shtuar pikat 6, 7 dhe 8 me ligjin nr. 96/2018, datё 3.12.2018, ndryshuar pika 7 me ligjin nr. 85/2019, datë 18.12.2019, shtuar pika 9  me ligjin nr. 123/2020, datë 15.10.2020) 
 
 1. Përveç shkallës standarde të TVSH-së, kur parashikohet në këtë ligj, mund të aplikohet shkalla e reduktuar e TVSH-së, e cila aplikohet si një përqindje e vlerës së tatueshme.
 
@@ -659,6 +659,8 @@ Kushtet, kriteret dhe procedurat për zbatimin e kësaj pike përcaktohen me ven
 7. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e mjeteve të transportit publik tё licencuar të udhëtarëve me autobus me nëntë plus një vende ose më shumë, vetëm me motor elektrik, është 6 për qind.
 
 8. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e librave të çdo lloji, është 6 për qind.
+
+9. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e shërbimit të punimeve të ndërtimit për investimet shtetërore të klubeve sportive/federatave sportive apo për investimet e subjekteve private në infrastrukturën sportive, të përcaktuar në legjislacionin e fushës për sportin, është në nivelin 6 për qind.
 
 Neni 50
 
