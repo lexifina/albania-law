@@ -1,1 +1,0 @@
-7. AKM-ja ruan dhe administron informa-cionin e marrë nga ISHTI-ja dhe krijon regjistrin e të dhënave në lidhje me sasinë dhe cilësinë e lëndëve djegëse, në përputhje me specifikimet e standardeve të secilit produkt. Një kopje e informacionit publikohet në faqen elektronike të Ministrisë së Mjedisit dhe të AKM-së.
