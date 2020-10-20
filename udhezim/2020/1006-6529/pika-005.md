@@ -1,0 +1,33 @@
+5. Inspektorati Shtetëror Teknik dhe Industrial raporton çdo vit brenda datës 28 shkurt të dhënat e grumbulluara mbi sasinë dhe cilësinë e lëndëve djegëse për vitin paraardhës, në përputhje me formatet e raportimit të përcaktuara në kreun III, të këtij udhëzimi, pranë Agjencisë Kombëtare të Mjedisit. Të dhënat mbi sasitë do të jenë sipas informacioneve të dërguara nga shoqëritë tregtare dhe Drejtoria e Përgjithshme e Doganave. Agjencia Kombëtare e Mjedisit ruan dhe administron informacionin e marrë nga Inspektorati Shtetëror Teknik dhe Industrial dhe krijon bazën e të dhënave në lidhje me cilësinë e benzinës, diezelit, lëndë djegëse të lëngëta të rënda (heavy fuel oil), lëndë djegëse të lëngëta të mesme të rënda (gas oil), dhe lëndëve djegëse të lëngëta marinë (marine fuel). Një kopje e informacionit publikohet në faqen elektronike të Ministrisë së Turizmit dhe Mjedisit dhe të Agjencisë Kombëtare të Mjedisit.
+KREU II
+FREKUENCA DHE METODAT E MARRJES SË MOSTRAVE
+1. Për lëndët djegëse të lëngshme benzinë, diezel, lëndë djegëse të lëngëta të rënda (heavy fuel oil), lëngëta të mesme të rënda (gas oil) dhe lëndë djegëse të lëngëta marinë (marine fuel), frekuenca e marrjes së mostrave, kryerja e analizave, si dhe testimi i çdo treguesi fiziko-kimik, bëhet sipas metodave të analizave të referuara në VKM-në nr. 147/2007 dhe VKM-në nr. 429/2019 dhe të përcaktuara në standardet përkatëse në fuqi nga ana e Drejtorisë së Përgjithshme të Standardeve.
+2. Përveç parashikimit në pikën 1, marrja e mostrave për lëndët djegëse të lëngëta detare kryhet si vijon:
+a) frekuenca e marrjes së mostrave të lëndëve djegëse të lëngëta detare që përdoren në bordin e anijeve, për kontrollin e përmbajtjes së squfurit, kryhet për të paktën 30% të anijeve nga 10% e numrit mesatar të anijeve që lundruan në/nga portet shqiptare të hapura për trafikun ndërkombëtar në tri vitet e fundit;
+b) marrja e mostrës dhe kontrolli i cilësisë së lëndëve djegëse të lëngëta detare kryhet edhe gjatë shpërndarjes së tyre në anije nga furnizuesit, nëse furnizuesi i karburantit ka furnizuar me lëndë djegëse të lëngëta detare së paku tri herë gjatë vitit kalendarik të kaluar, dhe cilësia e tyre nuk është në përputhje me notën e lëshuar;
+c) për lëndët djegëse të lëngëta detare që përdoren (digjen) në bordin e anijeve, metodat e marrjes së mostrave për verifikimin e përmbajtjes së squfurit përfshijnë hapat e mëposhtme:
+i. ISHTI-ja kontrollon regjistrat (logbooks) në anije dhe notën e lëshuar nga furnizuesi lidhur me përmbajtjen e squfurit në të;
+ii. në rastin e lëndës djegëse, e cila është e vulosur në bordin e anijes, ISHTI-ja merr për analizë mostrat që shoqërojnë notën e lëshuar nga furnizuesi, në përputhje me rregulloren 18 (8.1) dhe (8.2) të shtojcës VI, të Konventës së MARPOL-it;
+iii. në rastin kur lënda djegëse, përdoret për t’u djegur në bordin e anijes, ISHTI-ja kryen marrjen e mostrës në përputhje me parashikimet e pikës 2(d), të këtij kreu;
+iv. në fund të verifikimit dhe të analizës për përmbajtjen e squfurit, ISHTI-ja regjistron detajet e inspektimit të lëndës djegëse përkatëse dhe gjetjet/rezultatet në përputhje me llojin e informacionit të kërkuar, sipas pikës 8, të kreut III, të këtij udhëzimi;
+d) ISHTI-ja kryen marrjen e mostrës së lëndës djegëse që përdoret (digjet) në bordin e anijes, përmes një mostre të vetme ose të shumëfishtë në vendin ku është vendosur një valvul, me qëllim marrjen e një kampioni në sistemin e shërbimit të lëndës djegëse, siç tregohet në sistemin e tubacionit të lëndës djegëse në anije ose në planin rregullues të tij.;
+e) kur vendndodhja e përmendur në pikën 2(d) të këtij kreu mungon, pika e marrjes së mostrës së lëndës djegëse do të jetë vendi ku ndodhet një valvul e përshtatshme për qëllime të marrjes së një kampioni, e cila duhet të plotësojë të gjitha kushtet e mëposhtme:
+i. të jetë lehtësisht e arritshme dhe e sigurt;
+ii. të marrë parasysh nivele të ndryshme të lëndës djegëse që përdoren për makineritë e djegies së lëndës djegëse;
+iii. të jetë në drejtim të rrjedhjes së karburantit në përdorim nga rezervuari i shërbimit;
+iv. të jetë sa më afër pikës së hyrjes së lëndës djegëse në makinerinë që djeg lëndën djegëse, dhe sa me e sigurt të jetë e mundur duke marrë në konsideratë tipin e lëndës djegëse, shkallën e rrjedhjes, temperaturën dhe presionin prapa pikës së zgjedhur për marrjen e mostrës;
+v. të propozohet nga përfaqësuesi i anijes dhe të pranohet nga inspektori i ISHTI-së;
+f) kur sistemet e shërbimit për ndarjen e plotë të lëndës djegëse mungojnë, ose në rast të rregullimeve të rezervave të shumta të shërbimit, një mostër mund të merret në më shumë se një vend në sistemin e shërbimit të lëndës djegëse për të përcaktuar nëse ekziston një kontaminim i mundshëm i lëndës djegëse;
+g) inspektori i ISHTI-it siguron që mostra në vend mblidhet në një enë mbajtëse për mostra nga e cila mund të mbushen të paktën tri shishe kampionimi, përfaqësuese të lëndës djegëse detare që përdoret;
+h) inspektorët e ISHTI-së marrin masat për të siguruar sa më poshtë:
+i. shishet e mostrës vulosen nga inspektori i ISHTI - me një mjet unik identifikimi në prani të përfaqësuesit të anijes;
+ii. dy nga shishet e mostrës çohen për analiza në laborator;
+iii. një shishe mostre ruhet nga përfaqësuesi i anijes për një periudhë jo më pak se 12 muaj nga data e mbledhjes.
+KREU III
+FORMATET E RAPORTIMIT TË TË DHËNAVE TË LËNDËVE DJEGËSE TË LËNGËTA
+Inspektorati Shtetëror Teknik dhe Industrial (ISHTI) harton raportin vjetor të cilësisë së lëndëve djegëse të lëngëta. Formati i raportit përfshin:
+1. Detaje mbi hartuesin e raportit të monitorimit të cilësisë së lëndëve djegëse të lëngëta, sipas formatit të tabelës 1, të shtojcës I, bashkëngjitur këtij udhëzimi.
+2. Përshkrim i sistemit të monitorimit të cilësisë së lëndëve djegëse të lëngëta;
+3. Sasinë në total të benzinës dhe diezelit të shitur, sipas formatit të tabelës 2, të shtojcës I, bashkëngjitur këtij udhëzimi;
+4. Të dhënat mbi cilësinë e benzinës dhe diezelit, në përputhje me specifikimet standarde të secilit produkt sipas formatit të tabelave 3,4,5,6, në shtojcën I, bashkëngjitur këtij udhëzimi;
+5. Të dhënat mbi cilësinë e lëndëve djegëse të lëngëta të rënda (heavy fuel oil), lëndët djegëse të lëngëta të mesme të rënda (gas oil) dhe lëndët djegëse të lëngëta marine të rënda (Marine Fuel) në përputhje me specifikimet standarde të secilit produkt sipas shtojcave I, II, III dhe IV, të vendimit të Këshillit të Ministrave nr. 429, datë 26.6.2019 “Për cilësinë e disa lëndëve të djegshme, të lëngëta, për përdorim termik, civil e industrial, si dhe përdorim në mjetet e transportit ujor (detar, lumor dhe liqenor)”;

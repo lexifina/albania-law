@@ -1,0 +1,1 @@
+6. Të dhënat mbi sasinë e lëndëve djegëse të lëngëta të rënda (heavy fuel oil), lëndët djegëse të lëngëta të mesme të rënda (gas oil) dhe lëndët djegëse të lëngëta marine të rënda (Marine Fuel) në përputhje me formatin e tabelave të shtojcës II, të këtij udhëzimi;
