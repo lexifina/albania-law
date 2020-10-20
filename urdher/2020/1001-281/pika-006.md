@@ -1,0 +1,1 @@
+6. Në rast se gjatë kryerjes së inspektimeve teknike evidentohen çështje dhe probleme specifike që nuk janë përfshirë në këtë model të urdhrit të inspektimit, kryeinspektori i propozon ministrit miratimin e ndryshimeve përkatëse.
