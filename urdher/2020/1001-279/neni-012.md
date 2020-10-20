@@ -1,0 +1,6 @@
+# Neni 12
+Raportimi dhe hetimi i aksidenteve
+1. Kur ndodh një aksident që përfshin një instalim të sektorit të gazit natyror i cili rezulton me plagosjen apo humbjen e jetës së një personi, nga një zjarr apo shpërthim, operatori ekonomik ose agjenti i tij të njoftojë menjëherë kryeinspektorin dhe inspektorin e gazit natyror që mbulon zonën përkatëse, duke deklaruar vendndodhjen e saktë të aksidentit, natyrën e tij dhe rezultatet.
+2. Inspektori i sektorit të gazit natyror paraqitet menjëherë në vendin e ndodhjes së aksidentit, pezullon çdo veprim që mund të çojë në ndryshimin e rrethanave të ngjarjes, me përjashtim të veprimeve për shpëtimin e personave të plagosur dhe largimin e personave të vrarë. Menjëherë përgatit informacionin për kryeinspektorin, i cili njofton menjëherë organet eprore për rrethanat, shkaqet dhe pasojat e ngjarjes.
+3. Inspektori mund të marrë pjesë në grupet e hetimit për hetimin e një plagosjeje apo vdekjeje, një zjarri ose shpërthimi, kur ka arsye të besueshme se ai ka ndodhur nga instalimet e gazit natyror.
+4. Asnjë ligj ose rregullore nuk pakëson përgjegjësinë e ndonjë personi për dëmet në lidhje me plagosjen ose aksidentimin me vdekje të një personi tjetër ose dëmtimin e shkatërrimin e pronës.
