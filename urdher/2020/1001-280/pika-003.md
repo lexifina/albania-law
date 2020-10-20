@@ -1,0 +1,1 @@
+3. Për probleme që i adresohen strukturës përgjegjëse në ministri, që mbulon aktivitetin e sektorit të gazit natyror, të cilat trajtojnë dhe/ose lidhen me materiale dhe informacione e të dhëna të karakterit teknik apo që përfshijnë edhe çështje të karakterit teknik, struktura/njësia përgjegjëse në ministri kërkon bashkëpunimin/mendimin e ISHTI-së.

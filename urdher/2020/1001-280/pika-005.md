@@ -1,0 +1,1 @@
+5. ISHTI-ja të krijojë një bazë të dhënash dhe të bëjë përditësimin e saj për të gjithë operatorët që do të ofrojnë shërbim, si: furnizim, transportim, depozitim, shpërndarje, konsumator fundor dhe çdo lloj operimi, në lidhje me gazin natyror, duke informuar edhe strukturën përkatëse pranë ministrisë përgjegjëse për hidrokarburet.

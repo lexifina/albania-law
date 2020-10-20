@@ -1,0 +1,1 @@
+9. Inspektorati Shtetëror Teknik dhe Industrial (ISHTI) bashkëpunon me strukturën/njësinë përgjegjëse për sektorin e gazit në ministri për ngritjen e kapaciteteve në njësinë/drejtorinë përgjegjëse të ISHTI-së, që mbulon aktivitetin e sektorit të gazit natyror.

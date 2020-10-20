@@ -1,0 +1,1 @@
+4. Struktura/drejtoria përkatëse e ISHTI-së, që mbulon aktivitetin për sektorin e gazin natyror dhe njësia/struktura përgjegjëse pranë ministrisë të ofrojnë dhe të shkëmbejnë informacion, në lidhje me gjendjen dhe problemet e zhvillimet të sektorit të gazit natyror në vend.
