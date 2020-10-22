@@ -1,0 +1,1 @@
+3. Struktura përgjegjëse e institucionit harton urdhërpagesën për vlerat totale për çdo bankë të nivelit të dytë ku është kryer arkëtimi i gjobës, duke i bashkëlidhur listën emërore të përfituesve për bankën respektive. Urdhërpagesa për kthimin e gjobave subjekteve shoqërohet me vërtetimin e Qendrës Kombëtare të Regjistrimit dhe vërtetimin bankar.

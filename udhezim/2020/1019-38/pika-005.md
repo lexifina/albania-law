@@ -1,0 +1,1 @@
+5. Institucionet me vetëfinancim që operojnë me llogari bankare të veçantë nga llogaria e unifikuar e Thesarit “Depozitë e qeverisë”, në Bankën e Shqipërisë, zbatojnë procedurat e tyre të miratuara nga titullari.

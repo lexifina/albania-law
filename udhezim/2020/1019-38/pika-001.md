@@ -1,0 +1,1 @@
+1. Kthimi i shumës së detyrimit të falur, por të paguar për masat administrative me gjobë, merret nga llogaria ekonomike në të cilën është arkëtuar në sistemin informatik financiar të qeverisë (arkëtim i konfirmuar nga struktura përgjegjëse për thesarin në degë dhe struktura përgjegjëse e institucionit përkatës në emër të së cilit është paguar gjoba).

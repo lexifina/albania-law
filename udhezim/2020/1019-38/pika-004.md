@@ -1,0 +1,1 @@
+4. Pas konfirmimit nga strukturat përgjegjëse për Thesarin në degë, strukturat përgjegjëse të institucionit dërgojnë paralelisht listën emërore të individëve përfitues në bankën respektive të nivelit të dytë.
