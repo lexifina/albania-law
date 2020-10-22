@@ -1,0 +1,1 @@
+1. Përcaktimin e formatit dhe përmbajtjes së certifikatës së cilësisë, për përputhshmërinë e produktit bujqësor ose ushqimor me specifikimet teknike të produkteve të regjistruara si specialitet tradicional i garantuar (STG), tregues gjeografik i mbrojtur (TGJM) dhe emërtim origjine i mbrojtur EOM)”, sipas aneksit 1, bashkëlidhur.
