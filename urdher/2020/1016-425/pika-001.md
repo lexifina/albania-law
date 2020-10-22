@@ -1,0 +1,1 @@
+1. Përcaktimin e formatit të aplikimit dhe kundërshtimit, të një produkti bujqësor ose ushqimor si Specialitet Tradicional i Garantuar (STG) për brenda vendit dhe në BE, sipas anekseve përkatëse bashkëlidhur.
