@@ -1,7 +1,0 @@
-6. Për përcaktimin e listës emërore të personave që morën pjesë në provim, si dhe të pikëve me të cilat është vlerësuar çdo pjesëmarrës, Komisioni merr vendim me shumicë votash, kur janë të pranishëm kryetari dhe jo më pak se 2 anëtarë. Kur numri i anëtarëve është çift dhe votat ndahen në mënyrë të barabartë, vota e kryetarit të Komisionit është vendimtare.
-Për marrjen e vendimit mbahet procesverbal, i cili hartohet në 4 kopje nga një prej anëtarëve të Komisionit të caktuar nga kryetari dhe që është përfaqësues i Ministrisë së Drejtësisë.
-Procesverbali nënshkruhet nga të gjithë anëtarët e Komisionit, përfshirë edhe ata që nuk pajtohen me vendimin.
-Anëtari që nuk pajtohet me qëndrimin e shumicës e nënshkruan procesverbalin me shënimin “Nuk pajtohem me vendimin. Bashkëlidhur paraqes mendimin tim”.
-Ky anëtar paraqet veçmas, me shkrim, mendimin e tij. Ky dokument hartohet në numër të njëjtë kopjesh me numrin e kopjeve të procesverbalit dhe pasi nënshkruhet nga hartuesi, çdo kopje e tij i bashkëlidhet një kopjeje të procesverbalit.
-Në rast se anëtari i Komisionit, i cili ka mendim të kundërt me shumicën, nuk përgatit mendimin e tij me shkrim si më lart, kundërshtimi i tij konsiderohet i paqenë.
-Në rast se një nga anëtarët e Komisionit nuk merr pjesë në veprimtarinë e Komisionit ose nuk respekton kërkesat e parashikuara në këtë udhëzim, Ministri i Drejtësisë urdhëron mosdhënien e pagesës së caktuar në urdhrin e krijimit të Komisionit.

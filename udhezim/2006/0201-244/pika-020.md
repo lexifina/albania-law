@@ -1,1 +1,0 @@
-20. Në rast se pas përfundimit të procedurave të provimit, kanë mbetur ende vende vakante, riorganizohet procesi i provimit, duke filluar me shpalljen publike të vendeve vakant sipas parashikimeve të ligjit, si dhe duke ndjekur parashikimet e këtij udhëzimi.

@@ -1,1 +1,0 @@
-1. Provimi i kualifikimit për marrjen e lejes së ushtrimit të profesionit të noterit organizohet brenda 30 ditëve nga data e përfundimit të procedurave të transferimit të aktivitetit të noterëve në vendet vakante të caktuara për plotësimin e kërkesave për transferim.

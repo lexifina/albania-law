@@ -1,2 +1,0 @@
-7. Pas daljes së urdhrit të Ministrit të Drejtësisë që përcakton datën e organizimit të provimit, personat që dëshirojnë të marrin pjesë në provimin e kualifikimit të noterëve do të paraqesin në Ministrinë e Drejtësisë një kërkesë, si dhe dokumentacionin që vërteton se i plotësojnë të gjitha kushtet e parashikuara nga legjislacioni për të marrë pjesë në provim.
-Kërkesa duhet të paraqitet jo më vonë se 3 ditë përpara ditës së organizimit të provimit.

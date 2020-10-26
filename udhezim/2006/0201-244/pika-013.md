@@ -1,4 +1,0 @@
-13. Për t’u dhënë përgjigje pyetjeve të testit, konkurrentët duhet të zgjedhin për çdo pyetje një nga përgjigjet alternative duke e shënuar atë me kryq ose duke e futur në rreth me mjete shkrimi me bojë.
-Në rast se përgjigjja është e saktë, konkurrenti i merr të gjitha pikët e mundshme për atë pyetje.
-Në rast se shënohet më shumë se një përgjigje për një pyetje, përgjigjja e asaj pyetjeje konsiderohet e gabuar dhe konkurrenti nuk merr asnjë pikë.
-Në rast se konkurrenti dorëzon një test me përgjigje të plotësuara me laps ose të paplotësuara, kryetari i Komisionit ose anëtari i Komisionit, i ngarkuar prej tij për të mbikëqyrur procesin e provimit dhe për të grumbulluar testet, e vë në dijeni konkurrentin për këtë mangësi dhe i vë kryq pyetjes, duke shënuar përkrah me mjete shkrimi me bojë “Pyetje e skualifikuar”, si dhe emrin, mbiemrin dhe nënshkrimin e tij.

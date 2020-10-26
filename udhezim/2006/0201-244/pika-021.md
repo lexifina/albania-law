@@ -1,1 +1,0 @@
-21. Procesverbali, përgjigjet e testit të dhëna nga konkurrentët, urdhrat e Ministrit të Drejtësisë, si dhe gjithë dokumentacioni tjetër që krijohet dhe i përket procesit të publikimit të vendeve vakante, organizimit të provimit, shpalljes së rezultateve dhe të fituesve, ruhen në një dosje të veçantë në arkivin e Ministrisë së Drejtësisë sipas legjislacionit në fuqi për arkivat.

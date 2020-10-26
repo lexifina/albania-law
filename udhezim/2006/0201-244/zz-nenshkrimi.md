@@ -1,2 +1,0 @@
-# Nënshkrimi
-Ministri i Drejtësisë

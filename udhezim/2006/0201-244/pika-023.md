@@ -1,2 +1,0 @@
-23. Udhëzimi i Ministrit të Drejtësisë nr.2945, datë 27.5.2005 “Për caktimin e datës së konkurrimit, rregullave të funksionimit të Komisionit të Kualifikimit të Noterëve, si dhe të kritereve dhe procedurave të organizimit dhe të shpalljes së rezultateve të provimit”, si dhe të gjitha rregullat e parashikuara në akte nënligjore të nxjerra nga Ministri, përpara hyrjes në fuqi të këtij udhëzimi dhe që janë në kundërshtim me parashikimet e tij, shfuqizohen.
-Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
