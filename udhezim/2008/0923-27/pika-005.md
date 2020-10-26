@@ -1,1 +1,0 @@
-5. Shpenzimet e mirëmbajtjes janë shpenzimet e domosdoshme që kryhen për ruajtjen e pasurisë nga shkatërrimi, dëmtimi apo faktorë të tjerë dhe që kushtëzohen nga ruajtja e gjendjes fizike të pasurisë ashtu siç është marrë në dorëzim.
