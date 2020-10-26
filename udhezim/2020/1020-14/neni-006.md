@@ -1,0 +1,6 @@
+# Neni 6
+Ndryshimet në regjistër nga fermeri
+1. Fermeri duhet të raportojë ndryshimet në të dhënat brenda 15 ditëve kalendarike nga ndryshimi duke paraqitur një kërkesë për ndryshime apo shtesa në të dhënat e përmendura në nenin 3, pika 2, nënpikat nga “a” deri në “h”, të këtij udhëzimi. Agjencia e Pagesave merr një vendim për këtë, i cili pasqyrohet me ndryshime në Regjistër.
+2. Fermeri duhet të paraqesë kërkesën për regjistrimin e ndryshimeve sipas pikës 1, të këtij neni, të bashkëngjisë dokumentacionin që provon ndryshimin sipas nenit 9. Fermeri do të dorëzojë formularin e ndryshimeve elektronikisht përmes regjistrit, ose do të nënshkruajë në letër dhe dorëzojë me postë ose duke u paraqitur në degët e Agjencisë së Pagesave/AREB.
+3. Fermeri do të raportojë edhe ndryshimet apo shtesat në të dhënat e tjera të përmendura në nenin 3, pika 2, të këtij udhëzimi, brenda 30 ditëve kalendarike nga ndodhja e ndryshimit, pa qenë nevoja për dokumente mbështetëse.
+4. Agjencia e Pagesave, ministria përgjegjëse për bujqësinë dhe zhvillimin rural (në vijim referuar si “Ministria”) dhe institucionet në varësi të Ministrisë, në kuadër të kompetencave të tyre, ndihmojnë fermerin për plotësimin e kërkesës për hyrje në Regjistër, raportimin e ndryshimeve në regjistër, fshirjen nga Regjistri dhe plotësimin e dokumentacionit të kërkuar në nenin 9, të këtij udhëzimi.
