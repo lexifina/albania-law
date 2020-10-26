@@ -1,1 +1,0 @@
-10. Zotëruesit e lejes minerare duhet të kenë një kontratë pune efektive me një drejtues teknik të certifikuar si i tillë për veprimtarinë e tyre minerare, në përputhje me karakterin e kësaj veprimtarie. Ky drejtues teknik duhet të figurojë në listat e pagesave mujore të çdo shoqërie minerare.
