@@ -1,0 +1,1 @@
+1. Veprimtaritë studimore-projektuese në fushën minerare mund të kryhen vetëm nga persona fizikë tregtarë dhe/ose persona juridikë, që kanë të punësuar persona të certifikuar në veprimtarinë studimore-projektuese në fushën minerare. Subjektet detyrohen të regjistrojnë në regjistrin tregtar, si objekt veprimtarie, kryerjen e veprimtarive studimore-projektuese në fushën minerare.

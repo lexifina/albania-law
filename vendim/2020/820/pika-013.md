@@ -1,0 +1,1 @@
+13. Vendimi nr. 441, datë 16.6.2011, i Këshillit të Ministrave, “Për përcaktimin e kushteve të certifikimit e të licencimit të dokumenteve shoqëruese, të afateve të vlefshmërisë dhe të procedurave të shqyrtimit të kërkesave, për licencimin e veprimtarisë studimore-projektuese në veprimtaritë minerare”, shfuqizohet.

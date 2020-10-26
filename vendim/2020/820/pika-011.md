@@ -1,0 +1,1 @@
+11. Drejtuesi teknik është personi përgjegjës nga ana teknike për të gjitha operacionet minerare që kryhen në një zonë të lejuar minerare të kërkim-zbulimit/të kërkim-zbulim-shfrytëzimit/shfrytëzimit të një lejeje minerare në përputhje me projektin e zhvillimeve të veprimtarisë minerare.

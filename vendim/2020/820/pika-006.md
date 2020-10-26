@@ -1,0 +1,1 @@
+6. Ministri përgjegjës për veprimtarinë minerare përcakton anëtarët e komisionit të vlerësimit për plotësimin e kritereve të pajisjes me certifikatë për veprimtari studimore-projektuese në fushën e veprimtarisë minerare dhe atë të punimeve nëntokësore për ndërtimet publike.

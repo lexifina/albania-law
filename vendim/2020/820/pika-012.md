@@ -1,0 +1,1 @@
+12. Për shkelje të rënda të rregullores të teknikës së sigurimit nga ana e drejtuesit teknik, të cilat nuk përbëjnë vepër penale, struktura përkatëse në ministrinë përgjegjëse për veprimtarinë minerare i propozon këtij komisioni revokimin e certifikatës profesionale për një afat kohor ose përgjithmonë.
