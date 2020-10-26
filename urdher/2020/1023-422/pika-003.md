@@ -1,0 +1,1 @@
+3. Gjithashtu, udhëzuesi për aplikantët dhe formatet zyrtare të dokumenteve, që duhet të përdoren (formulari i aplikimit, plani biznesit) mund të shkarkohen në versionin zyrtar nga data 11 nëntor 2020 nga faqet e internetit: www.azhbr.gov.al dhe http://www.bujqësia.gov.al.

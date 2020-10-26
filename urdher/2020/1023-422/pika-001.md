@@ -1,0 +1,1 @@
+1. Shpalljen e thirrjes së tretë për aplikime nga programi IPARD II për aplikimet, respektimin e kërkesave për informimin, publicitetin dhe transparencën, me qëllim garantimin e vizibilitetit dhe llogaridhënien e fondeve të BE-së.
