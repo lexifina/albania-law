@@ -1,2 +1,0 @@
-8. Drejtuesi i Njësisë së SHPS-së është psikolog ose punonjës social dhe emërohet nga titullari i njësisë arsimore vendore pas propozimit të dy kandidatëve të përzgjedhur me votim të fshehtë nga specialistët (psikologët/punonjësit socialë) të Njësisë së SHPS-së.
-Në përshkrimin e punës së drejtuesit caktohet koha në rolin e drejtuesit dhe koha si psikolog ose punonjës social në institucionet arsimore publike.
