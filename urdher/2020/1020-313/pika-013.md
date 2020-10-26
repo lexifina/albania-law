@@ -1,0 +1,1 @@
+13. Supervizori i njësisë udhëzon nga ana profesionale psikologët/punonjësit socialë në kryerjen e detyrave të tyre, i supervizon ata dhe dokumenton rregullisht çdo supervizim të kryer individualisht ose në grup, duke hartuar raporte në çdo tre muaj për drejtuesin e njësisë së shërbimit psikosocial.

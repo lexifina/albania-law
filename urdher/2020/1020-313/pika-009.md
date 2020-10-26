@@ -1,0 +1,1 @@
+9. DRAP-i, në përshkrimin e punës së drejtuesit të njësisë së SHPS-së, përcakton kohën e tij në rolin e drejtuesit dhe kohën që ai do të punojë si psikolog/punonjës social në institucionet arsimore publike.

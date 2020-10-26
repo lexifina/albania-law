@@ -1,0 +1,1 @@
+1. Shërbimi psikosocial (SHPS) ofron mbështetje nëpërmjet psikologëve ose punonjësve socialë për trajtimin e problematikave të rasteve të ndryshme, vlerësimin e rasteve të fëmijëve me nevoja të veçanta psikosociale, hartimin e programeve parandaluese, sipas nevojave të komunitetit shkollor.

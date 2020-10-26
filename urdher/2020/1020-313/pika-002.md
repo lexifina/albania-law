@@ -1,0 +1,1 @@
+2. SHPS-ja vlerëson gjendjen psikosociale të nxënësve me probleme të të nxënit ose të sjelljes dhe në bashkëpunim me mësues e drejtues të institucioneve arsimore dhe prindërit, planifikon dhe realizon shërbime që ndihmojnë në zhvillimin arsimor, social dhe personal të nxënësve.
