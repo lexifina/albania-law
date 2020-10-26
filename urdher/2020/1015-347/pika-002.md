@@ -1,0 +1,1 @@
+2. Udhëzimi nr. 244/3, datë 1.2.2006, i ministrit të Drejtësisë “Për përcaktimin e datës së konkurrimit, të rregullave të funksionimit të Komisionit të Kualifikimit të Noterëve, si dhe të kritereve dhe procedurave të organizimit dhe të shpalljes së rezultateve të provimit”, shfuqizohet.
