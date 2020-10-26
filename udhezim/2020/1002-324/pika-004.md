@@ -1,0 +1,1 @@
+4. Të ardhurat nga administrimi i pasurive të sekuestruara dhe të konfiskuara sipas pikës 2, të këtij kreu, përdoren nga AAPSK-ja, vetëm për qëllime të shpenzimeve për këto pasuri. Të ardhurat nga administrimi i pasurive të sekuestruara dhe të konfiskuara, nuk mund të përdoren për paga, apo shpërblime të personelit të brendshëm të Agjencisë.

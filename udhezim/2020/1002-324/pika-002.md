@@ -1,0 +1,1 @@
+2. Të ardhurat nga pasuritë e sekuestruara dhe të konfiskuara sipas pikës 1, të këtij udhëzimi, depozitohen në një llogari rrjedhëse me emërtimin “Të ardhura e shpenzime për pasuritë e sekuestruara dhe të konfiskuara në administrim të AAPSK”, të çelur nga Agjencia në një bankë të nivelit të dytë, me urdhër të ministrit përgjegjës për rendin dhe sigurinë publike.
