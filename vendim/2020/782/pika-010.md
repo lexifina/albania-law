@@ -1,0 +1,1 @@
+10. Fragmenti i hartës kadastrale është ekstrakti i kësaj harte që pasqyron pozicionin dhe kufijtë e një ose disa pasurive. Modeli i fragmentit të hartës kadastrale është sipas aneksit 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

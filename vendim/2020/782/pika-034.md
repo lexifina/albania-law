@@ -1,0 +1,1 @@
+34. Vendimet e Këshillit të Ministrave, nr. 352, datë 3.5.1995, “Për miratimin e certifikatave të pronësisë së pasurive të paluajtshme”, të ndryshuar, dhe nr. 519, datë 31.10.1994, “Për miratimin e kartelës për regjistrimin e pasurive të paluajtshme”, shfuqizohen.

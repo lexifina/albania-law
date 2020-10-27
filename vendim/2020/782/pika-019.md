@@ -1,0 +1,1 @@
+19. Certifikata ka për qëllim të vërtetojë faktin e regjistrimit të titullit të pronësisë apo të së drejtës reale, në bazë të nenit 17, të ligjit nr. 111/2018, “Për kadastrën”. Lëshimi i certifikatës nuk përbën titullin e pronësisë apo të së drejtës reale nga ana thelbësore dhe e përmbajtjes.

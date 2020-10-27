@@ -1,0 +1,2 @@
+28. Urdhri për refuzimin e regjistrimit për rastet e nenit 26, të ligjit nr. 111/2018, “Për kadastrën”, dhe vendimi i refuzimit, sipas neneve 46 dhe 47, të të njëjtit ligj, hartohen dhe miratohen në format shkresor, në përputhje me kërkesat e Kodit të Procedurave Administrative, mbi formën dhe përmbajtjen e aktit administrativ shkresor dhe janë sipas modeleve të parashikuara në anekset 14 dhe 15, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
+VI. DISPOZITA KALIMTARE DHE TË FUNDIT

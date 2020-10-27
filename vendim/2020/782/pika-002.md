@@ -1,0 +1,1 @@
+2. Kartela e plotësuar në format digjital dhe e printuar nga regjistri përbën fletën e regjistrit manual të pasurive të paluajtshme dhe vlen vetëm për administrim dhe ruajtje nga ASHK-ja, në cilësinë e dokumentacionit shkresor, në përputhje me legjislacionin për arkivat.

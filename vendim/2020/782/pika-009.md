@@ -1,0 +1,1 @@
+9. Harta e printuar nga regjistri digjital i pasurive të paluajtshme përbën kopjen manuale të hartës kadastrale dhe vlen vetëm për administrim dhe ruajtje nga ASHK-ja, në cilësinë e dokumentacionit shkresor, në përputhje me legjislacionin për arkivat.

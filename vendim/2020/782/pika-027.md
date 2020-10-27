@@ -1,0 +1,1 @@
+27. Modelet e akteve, sipas pikave 25, 26 dhe 27, të këtij vendimi, plotësohen dhe miratohen vetëm në format digjital, si dokumente elektronike dhe një kopje e printuar e tyre ruhet në përputhje me legjislacionin për arkivat.

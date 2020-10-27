@@ -1,0 +1,1 @@
+32. Në rastet e parashikuara në pikat 17 dhe 18, të këtij vendimi, arkivimi i planshetave manuale kryhet pasi të kenë përfunduar proceset e digjitalizimit dhe nëse është rasti përmirësimit ose korrigjimit gradual të hartës kadastrale.

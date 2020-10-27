@@ -1,0 +1,1 @@
+14. Fragmenti i hartës kadastrale dhe plani i rilevimit për punime kadastrale të hartuar nga ASHK-ja plotësohen, nënshkruhen, vulosen dhe lëshohen elektronikisht, si dokumente elektronike. Kopjet e printuara të tyre arkivohen si dokument shkresor, në përputhje me legjislacionin për arkivat.

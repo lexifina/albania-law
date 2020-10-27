@@ -1,0 +1,1 @@
+33. Për kartelat e pasurive të administruara në sistemin digjital të pasurive të paluajtshme përpara hyrjes në fuqi të këtij vendimi, ASHK-ja kryen kalimin e të dhënave në sistem, nga modeli i mëparshëm i kartelës në atë të parashikuar sipas këtij vendimi.
