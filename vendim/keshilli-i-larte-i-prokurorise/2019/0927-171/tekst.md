@@ -2,6 +2,10 @@ VENDIM
 
 Nr. 171, datë 27.9.2019
 
+(Ndryshuar me vendimin nr. 231, datë 27.10.2020)
+
+(I përditësuar)
+
 Në mbështetje të nenit 149, pika 1, të Kushtetutës së Republikës së Shqipërisë, nenit 184, të ligjit nr. 115/2016 “Për organet e qeverisjes së sistemit të drejtësisë”, neneve 32, 35, 36, 48 dhe 52, të ligjit nr. 96/2016 “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, Këshilli i Lartë i Prokurorisë
 
 VENDOSI:
@@ -500,13 +504,13 @@ X. DISPOZITA KALIMTARE DHE TË FUNDIT
 
 A. Verifikimi i pasurisë dhe figurës së kandidatëve subjekt i procedurës së rivlerësimit kalimtar sipas ligjit nr. 84/2016
 
-1. Kandidatët që i janë nënshtruar procedurës së rivlerësimit kalimtar sipas ligjit nr. 84/2016 dhe janë konfirmuar në detyrë nga organet e rivlerësimit kalimtar, me vendim të formës së prerë, nuk i nënshtrohen procedurës së verifikimit të pasurisë dhe të figurës sipas përcaktimeve të pikave 2 deri në 7, të nenit 32, të ligjit për statusin.
+1. Kandidatët që i janë nënshtruar procedurës së rivlerësimit kalimtar, sipas ligjit nr. 84/2016 dhe janë konfirmuar në detyrë nga organet e rivlerësimit kalimtar, me vendim të formës së prerë, i nënshtrohen procedurës së verifikimit të pasurisë dhe të figurës, sipas përcaktimeve të pikave 2 deri në 7, të nenit 32, të ligjit për statusin, për periudhën pasi vendimi ka marrë formë të prerë.
 
-2. Kandidatët që i nënshtrohen procedurës së rivlerësimit kalimtar sipas ligjit nr. 84/2016 dhe janë në procedurë e sipër rivlerësimi ose për të cilët kjo procedurë nuk ka filluar ende, nuk i nënshtrohen procedurës së verifikimit të pasurisë dhe të figurës nga Këshilli, sipas përcaktimeve të pikave 2 deri në 7, të nenit 32, të ligjit për statusin.
+2. Shfuqizuar.
 
-3. Vendimi i Këshillit për lejimin ose ndalimin për këta kandidatë do të mbështetet në vendimin e dhënë nga Komisioni i Pavarur i Kualifikimit. Në këtë rast, Këshilli i kërkon Komisionit të Pavarur të Kualifikimit trajtimin me përparësi të procedurës së rivlerësimit për këta kandidatë.
+3. Shfuqizuar.
 
-4. Nëse Komisioni i Pavarur i Kualifikimit nuk i përgjigjet kërkesës së Këshillit ose nuk përfundon procedurat e rivlerësimit për këta kandidatë brenda 3 muajve nga momenti i paraqitjes së kërkesës, këta kandidatë i nënshtrohen procedurës së verifikimit të pasurisë dhe të figurës sipas përcaktimeve të pikave 2 deri në 7, të nenit 32, të ligjit për statusin.
+4. Shfuqizuar.
 
 5. Pavarësisht nga parashikimet e pikave 1 dhe 2 të këtij seksioni, kandidatët subjekt i procedurës së rivlerësimit kalimtar sipas ligjit nr. 84/2016, do t’i nënshtrohen menjëherë procedurave të verifikimit të integritetit sipas ligjit nr. 45/2015.
 
@@ -540,7 +544,7 @@ C. Verifikimi i pasurisë dhe figurës së kandidatëve ish-prokurorë sipas nen
 
 Ç. Rregulla kalimtare për përmbylljen e procedurave të verifikimit
 
-1. Për kandidatët që janë subjekt i procedurës së rivlerësimit kalimtar sipas ligjit nr. 84/2016, procedurat e verifikimit nuk mund të përfundojnë përpara periudhës 3-mujore nga Komisioni i Pavarur i Kualifikimit, përveç rastit kur ky i fundit njofton Këshillin se nuk mund ta kryejë këtë procedurë brenda këtij afati.
+1. Shfuqizuar.
 
 2. Procedura e vlerësimit dhe pikëzimit për çdo kandidat të kualifikuar fillon menjëherë me përfundimin e procedurës së verifikimit, ndërsa renditja e kandidatëve që kandidojnë për të njëjtin pozicion të lirë, bëhet pasi të kenë përfunduar procedurat e verifikimit për të gjithë kandidatët për atë pozicion të lirë.
 
