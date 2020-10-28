@@ -1,0 +1,1 @@
+10. Shërbimi Rajonal i Mbrojtjes së Bimëve kryen monitorime vjetore të secilës zonë të pastër, në lidhje me praninë e parazitëve karantinorë të zonës së pastër të interesuar, duke zbatuar të gjitha përcaktimet e pikës 6 të këtij udhëzimi.

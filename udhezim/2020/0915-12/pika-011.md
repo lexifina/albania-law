@@ -1,0 +1,1 @@
+11. Ministri mund të ndryshojë shtrirjen e një zone të pastër në bazë të dosjes së aplikimit të paraqitur nga SPMB-ja. Kur ky ndryshim ka të bëjë me zgjerimin e një zone të pastër, zbatohen të plota përcaktimet e pikave 2 deri në 7.
