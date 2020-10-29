@@ -1,0 +1,1 @@
+8. OMP Pogradec dhe DSHPA-ja në bashkërendim me Sektorin e Politikave dhe Strategjive të Zhvillimit në Fushën e Peshkimit dhe Akuakulturës, në Drejtorinë e Politikave dhe Strategjive të Bujqësisë, Sigurisë Ushqimore dhe Zhvillimit Rural, të hartojnë një planveprimi të detajuar dhe të miratuar prej tyre.
