@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Fier, të pezullojë të gjitha transaksionet me pasurinë e shpronësuar deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit mbi hartat kadastrale dhe kalimi i pronësisë në favor të Autoritetit Rrugor Shqiptar.
