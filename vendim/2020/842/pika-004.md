@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 4 254 172.81 (katër milionë e dyqind e pesëdhjetë e katër mijë e njëqind e shtatëdhjetë e dy pikë tetëdhjetë e një) lekësh, të përballohet nga buxheti i Bashkisë Divjakë.

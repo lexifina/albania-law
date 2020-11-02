@@ -1,0 +1,1 @@
+9. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Lushnjë, të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohen procesi i hedhjes se gjurmës së projektit mbi hartën treguese të regjistrimit dhe kalimi i pronësisë në favor të Bashkisë Divjakë.

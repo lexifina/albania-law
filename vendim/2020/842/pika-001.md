@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti: “Rehabilitimi i zonës fundore të sheshit ’Santa Barbara’ dhe ndërtimi i godinës së Bashkisë Divjakë”.
