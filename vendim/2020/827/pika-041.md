@@ -1,0 +1,2 @@
+41. Në rastet kur oborri në përdorim, në mënyrë të gabuar është inventarizuar në përgjegjësi të institucioneve qendrore ose është transferuar te njësia e qeverisjes vendore, për zbatimin e pikës 5, të nenit 34, të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”, procedohet në të njëjtën mënyrë si në pikën 39, të këtij vendimi.
+V. DISPOZITA TË FUNDIT

@@ -1,0 +1,1 @@
+30. ASHK-ja, brenda 10 (dhjetë) ditësh nga administrimi i kërkesës, kryen evidentimin në terren të oborrit në përdorim duke hartuar dhe miratuar genplanin e pasurisë, mbi bazën e gjendjes së posedimit faktik, duke respektuar përcaktimet e këtij vendimi në lidhje me sipërfaqen për të cilën kalohet pronësia.

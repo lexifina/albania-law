@@ -1,0 +1,1 @@
+26. ASHK-ja vendos rrëzimin e kërkesës kur, nga verifikimet e saj apo nga dokumentacioni i vlefshëm për plotësimin e kritereve të këtij kreu, që është paraqitur nga të tretët gjatë periudhës së afishimit publik ose deri para përfundimit të procedurës administrative, rezulton se nuk përmbushen kriteret e këtij kreu.

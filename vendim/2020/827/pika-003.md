@@ -1,0 +1,1 @@
+3. Me “posedim efektiv” të tokës, sipas këtij vendimi, kuptohet zotërimi nga subjekti përfitues, i sipërfaqes së truallit funksional ose oborrit në përdorim, bazuar në rrethimin dhe kufijtë faktikë në terren.

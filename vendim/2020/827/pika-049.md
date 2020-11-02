@@ -1,0 +1,1 @@
+49. Ndërtimet e deklaruara si ndërtime pa leje, për të cilat përpara hyrjes në fuqi të këtij vendimi është konstatuar mospërfshirja në fushën e zbatimit të legjislacionit për legalizimin e ndërtimeve pa leje, me arsyetimin se janë ngritur para datës 10.8.1991, trajtohen si objekte pa titull në përputhje me dispozitat e këtij vendimi.

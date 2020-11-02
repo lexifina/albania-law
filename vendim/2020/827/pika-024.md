@@ -1,0 +1,1 @@
+24. Drejtoria vendore e ASHK-së, brenda 30-ditësh nga data e përfundimit të publikimit të të dhënave, shqyrton kërkesën për kalimin e pronësisë, në raport me kriteret e përcaktuara në këtë kre dhe miraton vendimin për pranimin apo rrëzimin e saj.

@@ -1,0 +1,1 @@
+51. Të ardhurat e arkëtuara në rastet e pikës 4, të nenit 34, të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”, si dhe ato të arkëtuara nga shitja e sipërfaqeve shtesë kalojnë në buxhetin e ASHK-së dhe përdoren prej saj në përputhje me legjislacionin në fuqi.

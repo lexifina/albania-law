@@ -1,0 +1,1 @@
+7. Subjekti përfitues, sipas këtij vendimi, ka të drejtë të kërkojë kryerjen e procedurës së kalimit të pronësisë në mënyrë të përshpejtuar, brenda një afati 90-ditor, përfshirë dhe periudhën e afishimit publik, nga momenti i aplikimit, përkundrejt tarifës së diferencuar në vlerën 18 000 (tetëmbëdhjetë mijë) lekë.

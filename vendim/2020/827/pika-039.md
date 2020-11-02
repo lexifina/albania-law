@@ -1,0 +1,3 @@
+39. Në rastin kur vetëm trualli funksional figuron gabimisht i inventarizuar si pronë e një institucioni qendror apo i është transferuar njësisë së vetëqeverisjes vendore, ASHK-ja vetëm njofton institucionin se sipërfaqja është truall funksional i objektit pa titull dhe vijon me miratimin e dokumentit të pronësisë sipas këtij vendimi në përputhje me pikën 5, të nenit 34, të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”.
+Për këto raste nuk është nevoja për miratim të institucionit qendror apo këshillit të njësisë së vetëqeverisjes vendore.
+Rregullat e pikës 38, të këtij vendimi, për korrigjimin e regjistrit dhe regjistrimin e dokumentit të pronësisë zbatohen edhe për këto raste.

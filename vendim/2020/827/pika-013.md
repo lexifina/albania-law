@@ -1,0 +1,1 @@
+13. Subjektit, me kërkesë, mund t’i kalojë pronësia edhe për sipërfaqe mbi 300 (treqind) m², kundrejt pagesës, me kusht që të posedohet efektivisht në terren, vërtetuar në momentin e evidentimit në terren, nëpërmjet rrethimit. Për sipërfaqet shtesë subjekti duhet të paguajë vlerën e truallit sipas hartës së vlerës së pronës.

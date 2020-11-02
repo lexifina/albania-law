@@ -1,0 +1,1 @@
+16. Përjashtimisht, kur procedurat sipas këtij vendimi kryhen për ndërtime për të cilat janë lëshuar më parë dokumente sipas shkronjës “a”, të pikës 11, të këtij vendimi, subjekte përfituese të objektit pa titull janë vetëm personat në favor të të cilëve është lëshuar dokumenti i përcaktuar në pikat e mësipërme ose trashëgimtarët e tij.

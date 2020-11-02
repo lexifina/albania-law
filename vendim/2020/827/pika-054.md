@@ -1,0 +1,1 @@
+54. Vendimet e Këshillit të Ministrave, nr. 442, datë 18.7.2018, “Për përcaktimin e procedurës së kalimit të pronësisë e të regjistrimit të pasurive të paluajtshme, të ndërtuara deri më 10.8.1991 dhe të truallit funksional të tyre” dhe nr. 578, datë 29.8.2012, “Për përcaktimin e procedurës së kalimit në pronësi të oborreve në përdorim”, të ndryshuar, shfuqizohen.

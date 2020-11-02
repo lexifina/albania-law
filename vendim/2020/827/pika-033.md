@@ -1,0 +1,1 @@
+33. Vendimi për miratimin e dokumentit të pronësisë për sipërfaqen e tokës së oborrit në përdorim apo për rrëzimin e kërkesës miratohet jo më vonë se 60 (gjashtëdhjetë) ditë nga data e miratimit të genplanit. Ai lëshohet në favor të poseduesit të sipërfaqes dhe njëkohësisht pronar i ndërtimit, pavarësisht nëse është pronari fillestar apo me titull pronësie të prejardhur.
