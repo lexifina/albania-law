@@ -1,1 +1,0 @@
-13. Ministria e Mirëqenies Sociale dhe Rinisë e përcjell dokumentacionin e paraqitur në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit/zyrën përkatëse të punësimit, sipas kompetencës territoriale që ato kanë.

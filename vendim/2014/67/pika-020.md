@@ -1,1 +1,0 @@
-20. I huaji, i cili pajiset me leje pune të tipit “C/SHK” dhe i përket kategorive të përcaktuara në nenin 102 të ligjit nr. 108/2013 “Për të huajt”, para marrjes së lejes së punës, detyrohet të paguajë tarifën prej 4 000 (katër mijë) lekësh.
