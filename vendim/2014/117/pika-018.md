@@ -1,1 +1,0 @@
-18. Të gjithë përdoruesit në institucionet e administratës shtetërore, institucionet e pavarura dhe njësitë e qeverisjes vendore kanë detyrimin të kujdesen për ruajtjen e të dhënave personale të nëpunësit, në përputhje me legjislacionin për mbrojtjen e të dhënave personale.

@@ -1,1 +1,0 @@
-11. Të gjitha institucionet e administratës shtetërore, institucionet e pavarura dhe njësitë e qeverisjes vendore janë përgjegjëse për plotësimin dhe përditësimin e të dhënave të përcaktuara në pikat e mësipërme të këtij vendimi dhe sipas rregullave të përcaktuara në lidhjen 3, bashkëlidhur këtij vendimi dhe pjesë përbërëse e tij.
