@@ -1,0 +1,1 @@
+1. Akademisë së Shkencave, në buxhetin e miratuar për vitin 2020, i shtohet fondi prej 4 600 000 (katër milionë e gjashtëqind mijë) lekësh, në zërin “Shpenzime korrente”, për mbulimin e shpenzimeve për projektet studimore dhe kërkimore lidhur me COVID-19.
