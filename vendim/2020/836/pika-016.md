@@ -1,0 +1,1 @@
+16.Drejtoria, që ka në përgjegjësi çështjet e migracionit në ministrinë e përgjegjëse që mbulon çështjet e punësimit, monitoron, në mënyrë periodike, procedurën e ndjekur nga struktura në nivel qendror e Agjencisë Kombëtare të Punësimit dhe Aftësive për dhënien e lejes së punës.

@@ -1,0 +1,4 @@
+2. Të huajit i ripërtërihet leja e punës e tipit “C/SHK”, për shërbime kontraktuese, nëse plotëson parashikimin e pikës 1, të nenit 76, të ligjit nr. 108/2013, “Për të huajt”, të ndryshuar, si dhe:
+a) plotëson kushtin e përcaktuar në pikën 5, të nenit 102, të ligjit nr. 108/2013, “Për të huajt”, të ndryshuar;
+b) ka një kontratë të rregullt pune, jo më shumë se 90 (nëntëdhjetë) ditë për vitin në vazhdim, me një punëdhënës, përftues shërbimesh. Në rast të ndryshimit të punëdhënësit ose të kushteve të tjera të lejes së punës, kjo duhet të jetë bërë përpara paraqitjes së kërkesës për leje pune të ripërtëritur, me miratimin e strukturës në nivel qendror të AKPA-së, në zbatim të nenit 74, të ligjit për të huajt;
+c) punëdhënësi nuk ka kryer shkelje të legjislacionit të punës në vitin kalendarik pararendës.

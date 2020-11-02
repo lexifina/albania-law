@@ -1,0 +1,1 @@
+17. Vendimi nr. 67, datë 12.2.2014, i Këshillit të Ministrave, “Për përcaktimin e kritereve, të dokumentacionit dhe të procedurës për pajisjen, refuzimin dhe anulimin e lejes së punës, për shërbime kontraktuese, të tipit “C/SHK”“, shfuqizohet.

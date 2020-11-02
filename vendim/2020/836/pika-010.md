@@ -1,0 +1,1 @@
+10. Struktura në nivel qendror e AKPA-së ia refuzon kërkesën për pajisje me leje pune të tipit “C/SHK” subjektit, i cili, megjithëse ka plotësuar dokumentacionin e kërkuar, vlerësohet se nuk plotëson kriteret e përcaktuara në pikat 1, 2 e 7, të këtij vendimi.
