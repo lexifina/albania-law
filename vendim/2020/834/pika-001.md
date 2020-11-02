@@ -1,0 +1,1 @@
+1. Transferimin, në pronësi të Bashkisë Gjirokastër, të njësisë administrative Gjirokastër, të pasurisë 7/6-N3, të llojit “Njësi”, me vendndodhje në zonën kadastrale 8541, sipas formularit (gjithsej, 1 (një) fletë) e planimetrisë, që i bashkëlidhen këtij vendimi, për t’u përdorur në fushën administrative.
