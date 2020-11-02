@@ -1,1 +1,0 @@
-19. Vendimi nr. 200, datë 19.2.2009 i Këshillit të Ministrave “Për përcaktimin e kushteve dhe për procedurën e tjetërsimit të oborreve në përdorim, për llogari të fondit të kompensimit financiar”, të ndryshuar, shfuqizohet.

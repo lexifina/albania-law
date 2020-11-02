@@ -1,1 +1,0 @@
-14. Poseduesi i pasurisë së paluajtshme pajiset me certifikatën e pronësisë, pasi të ketë paguar më parë (në momentin e paraqitjes së kërkesës) tarifën e shërbimit, të përcaktuar me udhëzim të përbashkët të Ministrit të Drejtësisë dhe Ministrit të Financave.

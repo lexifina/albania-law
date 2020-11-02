@@ -1,1 +1,0 @@
-1. Objekt i këtij vendimi është përcaktimi i procedurës së kalimit në pronësi të sipërfaqeve, kur në dokumentin e pronësisë është bërë shënimi “oborr në përdorim”, si dhe regjistrimi i këtyre pasurive në regjistrin publik të pasurive të paluajtshme.
