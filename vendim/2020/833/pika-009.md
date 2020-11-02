@@ -1,0 +1,1 @@
+9. RQP-ja përmban, gjithashtu, modulin e pagave, me qëllim llogaritjen e automatizimin e tyre për institucionet e administratës shtetërore, institucionet e pavarura dhe njësitë e vetëqeverisjes vendore.

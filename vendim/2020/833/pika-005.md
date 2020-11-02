@@ -1,0 +1,1 @@
+5. Njësitë e burimeve njerëzore në Kryeministri, në secilën ministri, në institucion të pavarur e në njësi të vetëqeverisjes vendore sigurojnë që institucionet e tyre të varësisë të krijojnë, të administrojnë e të reflektojnë të dhënat në RQP dhe të përdorin platformën e bashkëpunimit “administrata.al” për raportimin e zhvillimin/menaxhimin e proceseve të burimeve njerëzore.

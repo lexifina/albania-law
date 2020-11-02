@@ -1,0 +1,1 @@
+3. DAP-i, në mbështetje të funksionimit të RQP-së, krijon e administron platformën e bashkëpunimit “administrata.al”, ku realizohen procedurat e menaxhimit të institucioneve dhe të administrimit të ciklit të plotë të menaxhimit të burimeve njerëzore.

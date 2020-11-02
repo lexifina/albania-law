@@ -1,0 +1,1 @@
+1. Institucionet e administratës shtetërore, institucionet e pavarura dhe njësitë e vetëqeverisjes vendore janë të detyruara të krijojnë e të administrojnë dosjen e personelit të çdo të punësuari në institucionin e tyre.
