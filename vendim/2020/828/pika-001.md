@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, miratuar në buxhetin e vitit 2020, për financimin e rindërtimit të objektit arsimor, shkolla 9-vjeçare “Gjon Gjonaj”, Njësia Administrative Laç, Bashkia Kurbin, në vlerën 199 602 139.60 (njëqind e nëntëdhjetë e nëntë milionë e gjashtëqind e dy mijë e njëqind e tridhjetë e nëntë pikë gjashtëdhjetë) lekë.
