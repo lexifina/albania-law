@@ -1,0 +1,1 @@
+1. Ky vendim përcakton procedurat, kriteret e rregullat për ofrimin e shërbimeve të punësimit ndaj punëkërkuesve dhe punëdhënësve, që janë të regjistruar në zyrën përkatëse të punësimit në Republikën e Shqipërisë, për të përfituar nga këto shërbime.
