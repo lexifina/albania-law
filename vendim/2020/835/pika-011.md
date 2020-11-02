@@ -1,0 +1,1 @@
+11. Në përputhje me të dhënat e hedhura në RPSK nxirren raportet periodike apo statistikat mbi parashikimet e pikave 6, 7 dhe 8, të këtij vendimi, si dhe statusit të pasurisë së konfiskuar e të sekuestruar.

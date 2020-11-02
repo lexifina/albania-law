@@ -1,0 +1,1 @@
+3. Pasuritë e sekuestruara dhe të konfiskuara, në zbatim të ligjit nr. 10192, datë 3.12.2009, “Për parandalimin dhe goditjen e krimit të organizuar, trafikimit, korrupsionit dhe krimeve të tjera, nëpërmjet masave parandaluese kundër pasurisë”, të ndryshuar, dhe Kodit të Procedurës Penale, mbahen në këtë regjistër.

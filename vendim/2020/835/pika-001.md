@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për përmbajtjen, formën e Regjistrit të Pasurive të Sekuestruara e të Konfiskuara, në vijim RPSK, si dhe për përcaktimin e organeve publike apo subjekteve që kanë të drejtë qasjen në informacionin e tij.
