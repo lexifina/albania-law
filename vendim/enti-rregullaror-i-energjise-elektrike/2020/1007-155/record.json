@@ -1,0 +1,28 @@
+{
+  "qbz_id": 68265,
+  "title": "Mbi licencimin e shoqërisë “Mateo & CO” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Murasi”, me kapacitet të instaluar 2000 kw, në lumin e Cemit të Selcës, degë e lumit Cem i Bashkuar, në Bashkinë Malësi e Madhe, qarku Shkodër",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "155",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2020-10-07",
+  "published": "2020-11-03",
+  "in_force": "2020-11-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/313c81dc452979c46bda7d6b71bfe60019692b99bfbde4be5609efab4409f87d.docx",
+  "source_sha256": "313c81dc452979c46bda7d6b71bfe60019692b99bfbde4be5609efab4409f87d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/68265",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2020/10/07/155",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    28074
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
