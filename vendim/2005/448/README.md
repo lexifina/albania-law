@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 448, datë 16.6.2005](https://qbz.gov.al/api/v1/acts/3663); [QBZ versions](https://qbz.gov.al/api/v1/acts/3663/versions).
 
-Status of this text: `official consolidated version 2`, applying from 2019-12-17; after QBZ act 20891 (nr. 817).
+Status of this text: `official consolidated version 3`, applying from 2020-11-04; after QBZ act 66977 (nr. 854).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
