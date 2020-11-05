@@ -1,0 +1,1 @@
+5. Brenda këtij afati, subjektet e audituara marrin në shqyrtim rekomandimet dhe përcaktojnë personat përgjegjës, afatet e zbatimit, nivelin e pranimit dhe të zbatimit të rekomandimeve (nëse është marrë vendim brenda këtij afati) ose informon për përgatitjen e kushteve, në kuadër të zbatimit të rekomandimeve (të cilat kanë afate zbatimi më të gjata se 30 ditë).

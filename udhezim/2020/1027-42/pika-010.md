@@ -1,0 +1,1 @@
+10. Mbështetur në të dhënat e mësipërme, drejtuesi i NJAB-së ngarkon grupet e auditimit për të hartuar programin e verifikimit, të zbatimit të rekomandimeve për të gjitha auditimet, që janë objekt i verifikimit.

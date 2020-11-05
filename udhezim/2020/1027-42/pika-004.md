@@ -1,0 +1,1 @@
+4. Subjektet e audituara, brenda 30 ditëve nga data e dorëzimit të raportit përfundimtar të auditimit, hartojnë dhe miratojnë planin e veprimit për pranimin dhe zbatimin e rekomandimeve të dhëna, në përfundim të angazhimit të auditimit, nga njësia e auditimit të brendshëm.

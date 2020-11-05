@@ -1,0 +1,1 @@
+9. Regjistri administrohet, plotësohet dhe përditësohet, në vijimësi, nga stafi i njësisë së auditimit të brendshëm nën mbikëqyrjen e drejtuesit të NJAB-së (regjistri konsiderohet dokument i brendshëm i njësisë publike).

@@ -1,0 +1,1 @@
+12. Grupi i auditimit, në zbatim të programit të auditimit, verifikon drejtpërsëdrejti në njësinë përkatëse, informacionin e përcjellë, duke bërë ballafaqimin e tyre me dokumentet justifikuese konkrete të miratuara nga vetë njësia publike.

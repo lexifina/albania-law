@@ -1,0 +1,1 @@
+6. Njësitë e auditimit të brendshëm duhet të përcaktojnë dhe të zgjedhin procedura efektive dhe të përshtatshme për ndjekjen dhe raportimin e zbatimit të rekomandimeve, të adresuara pranë subjekteve të audituara.

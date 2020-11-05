@@ -1,0 +1,1 @@
+11. Angazhimi i auditimit për verifikimin e zbatimit të rekomandimeve ndjek procedurën si për çdo auditim të zakonshëm, me specifikën që në këto raste kemi një numër të përcaktuar njësish nën auditim dhe që mbulojnë një fushë të veçantë të auditimit.
