@@ -1,0 +1,1 @@
+3. Shtojca A-2 e çdo dispozitë tjetër e vendimit nr. 321, datë 28.5.2014, të Këshillit të Ministrave, “Për sigurinë në det, plazhe, në ujërat e brendshme në thellësi të territorit dhe gjatë ushtrimit të sporteve ujore”, të ndryshuar, që bien në kundërshtim me këtë vendim, shfuqizohen.

@@ -1,0 +1,1 @@
+1. Miratimin e rregullave të hollësishme për zhvillimin e aktiviteteve turistike detare, që kryhen nëpërmjet mjeteve lundruese për qëllime turistike dhe argëtimi në vijën bregdetare, hapësirën detare dhe në ujërat e brendshme në Republikën e Shqipërisë, sipas tekstit që i bashkëlidhet këtij vendimi.
