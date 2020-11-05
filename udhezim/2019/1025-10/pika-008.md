@@ -1,0 +1,5 @@
+8. Për mishin e copëzuar, me përjashtim të pikës 7, germat “a” dhe “b”, operatorët e biznesit ushqimor të tregojnë në etiketat e mishit të copëzuar:
+a) vendin e therjes së kafshëve nga të cilat merret mishi i copëzuar: në etiketë të shënohet: “Therur në, (emri i shtetit, rajonit )”;
+b) vendi në të cilin është prodhuar mishi i copëzuar dhe numri i miratimit të stabilimentit në të cilën është prodhuar; në etiketë të shënohet: “Prodhuar në (emri i shtetit, rajonit të prodhimit dhe numri i miratimit të stabilimentit)”;
+c) vendet në të cilat kanë lindur dhe rritur kafshët që përbëjnë grupin; në etiketë të shënohet: “Lindur dhe rritur në (emrat e vendeve në të cilët kanë lindur dhe rritur kafshët)”.
+Me përjashtim të germave “a” dhe “c”, ku të gjitha kafshët e grupit janë lindur, rritur dhe therur në të njëjtin shtet, operatorët duhet të autorizohen nga AKU-ja, që të përdorin treguesin “Shteti i origjinës” ndjekur nga emri i shtetit ose vendit në të cilin kafshët ishin lindur, rritur dhe therur.

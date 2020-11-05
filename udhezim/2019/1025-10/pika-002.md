@@ -1,0 +1,2 @@
+2. Të gjithë operatorët e biznesit ushqimor duhet të kenë për gjurmueshmërinë në secilën prej fazave të ndryshme të prodhimit dhe shitjes një sistem identifikimi dhe një sistem gjithëpërfshirës regjistrimi në mënyrë të tillë që të sigurojë lidhjen midis identifikimit të mishit dhe kafshës ose kafshëve.
+Sistemi i regjistrimit të përmbajë të dhëna, në veçanti, hyrjet dhe daljet e kafshëve, karkasës dhe/ose prerjeve, për të garantuar lidhjen midis hyrjeve dhe daljeve.

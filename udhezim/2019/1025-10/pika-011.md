@@ -1,0 +1,3 @@
+11. Për kontrollet, operatorët e biznesit ushqimor, në çdo kohë, të lejojnë AKU-së, të hyjë në ambientet e saj dhe t’u venë në dipozicion të gjitha të dhënat që vërtetojnë se informacioni mbi etiketat në fjalë është i saktë.
+AKU-ja kryen kontrolle të rregullta në bazë të analizës së riskut, e cila duhet të marrë në konsideratë, në veçanti, kompleksitetin e specifikimit në fjalë. Për çdo kontroll duhet të bëhet një raport inspektimi për të përfshirë çdo mangësi, si dhe masat e propozuara për të korrigjuar situatën, afatet dhe sanksionet e vendosura.
+Operatorët e biznesit ushqimor, t’i komunikojnë të gjitha informacionet përkatëse tek AKU-ja.
