@@ -1,0 +1,1 @@
+Autoritetin Kontraktor të Ministrisë të ndjekë procedurat e mëposhtme për lëshimin e “Certifikatës së pranimit të veprës”, për të gjithë prodhuesit me përparësi të energjisë elektrike nga impiante që përdorin burime të rinovueshme, si më poshtë:

@@ -1,0 +1,9 @@
+# Neni 1
+Përcaktime
+Në këtë udhëzim, termat e përdorur të kenë të njëjtin përkufizim siç janë përcaktuar në ligjin nr. 7/2017 “Për nxitjen e përdorimit të energjisë nga burimet e rinovueshme” dhe ligjin nr. 43/2015 “Për sektorin e energjisë elektrike”, i ndryshuar. Termat e mëposhtëm kanë këto kuptime:
+“Central prodhues” është një tërësi godinash dhe impiantesh të caktuara, të cilat kanë si destinacion bazë prodhimin e energjisë elektrike.
+“Kodi” janë sipas rastit: Kodi i Transmetimit, Kodi i Shpërndarjes dhe Kodi i Matjes, sipas përcaktimeve të ligjit nr. 43/2015, i ndryshuar, dhe sipas miratimeve përkatëse të këtyre kodeve nga ERE, në kohën kur është miratuar e drejta e ndërtimit të centraleve prodhuese të energjisë elektrike që parashikon ky udhëzim.
+“Prodhimi i energjisë nga burime të rinovueshme” është procesi i prodhimit të energjisë elektrike nga burime të energjisë të rinovueshme nga një person i licencuar për prodhimin e energjisë elektrike.
+“Njësi gjeneruese” është pajisja, e cila shndërron drejtpërsëdrejti energjinë nga burime të rinovueshme në energji elektrike. Njësi gjeneruese, në kuptimin e këtij udhëzimi, është turbina hidraulike, moduli fotovoltaik, turbina eolike etj., sipas specifikimeve teknike të prodhuesit.
+“Kapacitet i instaluar i impiantit” është fuqia e energjisë elektrike, për të cilën njësia prodhuese është e aftë teknikisht të prodhojë, kur punon siç është fabrikuar, pa kufizime kohore, si dhe pa marrë parasysh ndërprerjet e vogla afatshkurtra. Kapaciteti prodhues i energjisë elektrike nga një impiant është i barabartë me kapacitetin e instaluar të njësive gjeneruese të marra së bashku.
+“Fuqia e instaluar e impiantit” është shuma e fuqisë së instaluar të njësive gjeneruese brenda impiantit të transformimit të energjisë, karakteristika teknike e të cilave vërtetohet nga prodhuesi ashtu siç është parashikuar në dokumentet e specifikimeve teknike.
