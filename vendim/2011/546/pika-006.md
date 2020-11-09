@@ -1,2 +1,7 @@
 6. Paga mujore e punonjësve të përcaktuar sipas pikës 1/5 të këtij vendimi, të jetë sipas lidhjes nr.5, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij. Për efekt të këtij trajtimi, paga e këtyre punonjësve njehsohet me pagën e gradës Këshilltar, në shërbimin e jashtëm. Përveç pagës mujore këta punonjës përfitojnë edhe kompensimin për koston e jetesës, në masën 150 (njëqind e pesëdhjetë) euro.
 6/1. Për punonjësit e përcaktuar sipas pikës 1/5 të këtij vendimi, trajtimi me pagë sipas këtij vendimi fillon nga data e mbërritjes së tij pranë Qendrës SECI. Deri në këtë çast, ai trajtohet me pagën ekzistuese të vendit të tij të mëparshëm të punës.
+6/2. Paga mujore e punonjësit të përcaktuar sipas pikës 1/6 të këtij vendimi, përbëhet nga elementet, si më poshtë vijon:
+a) “Paga bazë mujore”, e cila është paga mujore bruto e pozicionit që prokurori ka mbajtur në momentin e komandimit si prokuror ndërlidhës; dhe
+b) “Shtesa e përfaqësimit” në masën 40%, që llogaritet mbi “pagën bazë mujore”, të përcaktuar sipas shkronjës “a”, të kësaj pike.
+6/3. Përveç pagës mujore, të përcaktuar, sipas pikës 6/2 të këtij vendimi, ky punonjës përfiton edhe kompensimin për koston e jetesës, në masën 230 (dyqind e tridhjetë) euro.
+6/4. Për punonjësin e përcaktuar, sipas pikës 1/6 të këtij vendimi, trajtimi me pagë dhe kompensimi për koston e jetesës, sipas këtij vendimi, fillon nga data e fillimit të detyrës së tij pranë Eurojust.
