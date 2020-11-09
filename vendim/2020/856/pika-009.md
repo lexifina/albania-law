@@ -1,0 +1,1 @@
+9. Me qëllim shmangien e abuzimit, strukturat e administratës tatimore, duke përdorur analizën e riskut, brenda 10 (dhjetë) ditëve nga data e aplikimit, mund të kryejnë edhe verifikime të ndërmarrjeve përfituese, nëse përmbushen kriteret. Lista e ndërmarrjeve përfituese publikohet në website-in e administratës tatimore.

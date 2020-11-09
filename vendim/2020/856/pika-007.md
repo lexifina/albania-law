@@ -1,0 +1,1 @@
+7. Nuk përfitojnë nga ndihma financiare ndërmarrjet, të cilat nuk rezultojnë aktive në datën e hyrjes në fuqi të vendimit e që nuk kanë dorëzuar deklaratë vjetore për vitin 2019 (tatim i fitimit ose tatim i thjeshtuar mbi fitimin).

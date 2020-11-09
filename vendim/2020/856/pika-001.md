@@ -1,0 +1,1 @@
+1. Ky vendim synon dhënien e ndihmës financiare për ndërmarrjet e kategorizuara të vogla dhe të mesme në sektorin e prodhimit (në vijim “ndërmarrjet”), sipas nenit 4, të ligjit nr. 8957, datë 17.10.2002, “Për ndërmarrjet e vogla dhe të mesme”, të ndryshuar, sipas kodeve REV 2 NACE, në aneksin nr. 1, që i bashkëlidhet këtij vendimi.

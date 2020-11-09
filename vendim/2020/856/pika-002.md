@@ -1,0 +1,1 @@
+2. Ndihma financiare shtrihet për periudhën nëntor-dhjetor 2020 dhe u jepet ndërmarrjeve për të mbuluar një pjesë të shpenzimeve, për të zbatuar protokollet, në kuadër të pandemisë COVID-19, bazuar në numrin e të punësuarve.

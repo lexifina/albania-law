@@ -1,0 +1,1 @@
+13. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, deri në masën 187 092 000 (njëqind e tetëdhjetë e shtatë milionë e nëntëdhjetë e dy mijë) lekë, përballohen nga zëri “Nxitja e punësimit”, në programin 10550, “Tregu i punës”, në buxhetin e Ministrisë së Financave dhe Ekonomisë, miratuar për vitin 2020.

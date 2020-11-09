@@ -1,0 +1,1 @@
+3. Skema jep ndihmë financiare të drejtpërdrejtë për ndërmarrjet, që të mbulojë një pjesë të shpenzimeve, për të zbatuar protokollet, në kuadër të pandemisë COVID-19, bazuar në numrin e të punësuarve.

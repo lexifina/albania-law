@@ -1,0 +1,1 @@
+6. Ndërmarrjeve u jepet si ndihmë financiare një shumë fikse, në masën 4 000 (katër mijë) lekë për çdo punonjës, e llogaritur për dymujorin nëntor-dhjetor 2020, respektivisht 2 000 (dy mijë) lekë për çdo muaj.

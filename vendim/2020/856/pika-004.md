@@ -1,0 +1,1 @@
+4. Skema mbështetëse llogaritet e jepet për ndërmarrjet, të punësuarit e të cilave figurojnë në listëpagesat e përditësuara të tatimpaguesit, për muajin qershor 2020, të dorëzuara përpara datës së hyrjes në fuqi të këtij vendimi.
