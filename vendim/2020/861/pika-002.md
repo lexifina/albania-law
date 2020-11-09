@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Dibër, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë urbane”, për sipërfaqen ndërtimore, sipas lidhjes nr. 1, të pasurisë me numër 760, zona kadastrale 3694, Bashkia Bulqizë.

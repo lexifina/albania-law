@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen prej 1200 (një mijë e dyqind) m2, pjesë e pasurisë me numër 760, zona kadastrale 3694, Bashkia Bulqizë, sipas certifikatës së pasurisë, hartës treguese dhe lidhjes nr. 1, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
