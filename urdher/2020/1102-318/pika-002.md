@@ -1,0 +1,1 @@
+2. Delegimin e kompetencës DPSHTRR-së për ngritjen e komisionit për shqyrtimin e aplikimeve dhe marrjen e vendimeve për miratimin e licencave nëpërmjet QKB-së, në veprimtarinë e nënkategorisë VII.7.1, “Transport rrugor ndërkombëtar i udhëtarëve”.
