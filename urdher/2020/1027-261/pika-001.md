@@ -1,0 +1,1 @@
+1. Shpalljen e ndryshimeve të Standardit Ndërkombëtar të Raportimit Financiar nr. 4 “Instrumentet financiare” (SNRF 4) dhe të Standardit Ndërkombëtar të Raportimit Financiar nr. 17 “Kontratat e sigurimit” (SNRF 17).
