@@ -1,0 +1,26 @@
+{
+  "qbz_id": 60256,
+  "title": "Për një ndryshim në udhëzimin nr. 24, datë 2.9.2008, “Për procedurat tatimore në Republikën e Shqipërisë”, të ndryshuar",
+  "type": "Udhëzim",
+  "kind": "Akt ndryshues",
+  "number": "44",
+  "institution": "Ministria e Financave",
+  "adopted": "2020-11-09",
+  "published": "2020-11-12",
+  "in_force": "2020-11-12",
+  "in_force_basis": "\"hyn në fuqi me botimin në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/de3abf94a43d79f99b2840b4b6375eec4a26e2c0727813fa5bd1038a1bb1e219.docx",
+  "source_sha256": "de3abf94a43d79f99b2840b4b6375eec4a26e2c0727813fa5bd1038a1bb1e219",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60256",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2020/11/09/44",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
