@@ -1,0 +1,1 @@
+3. Gjatë zbatimit të rregullave teknike për industrinë e gazit, të përmendura në pikën 2, të këtij vendimi, të zbatohen rregullat dhe kriteret e parashikuara në legjislacionin në fuqi për mbrojtjen e mjedisit dhe të biodiversitetit.
