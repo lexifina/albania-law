@@ -1,0 +1,1 @@
+9. Agjencia Shtetërore e Kadastrës të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin që të realizohet procesi i hedhjes se gjurmës së projektit mbi hartën treguese të regjistrimit.

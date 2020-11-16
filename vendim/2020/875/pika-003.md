@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, pronë private, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën bashkëlidhur këtij vendimi, në shumën e përgjithshme prej 18 711 640 (tetëmbëdhjetë milionë e shtatëqind e njëmbëdhjetë mijë e gjashtëqind e dyzet) lekësh.
