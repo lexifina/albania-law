@@ -1,0 +1,4 @@
+2. Efekti financiar, sipas pikës 1, të këtij vendimi, të përballohet nga pjesa e financuar nga grantet e fondit të rindërtimit, miratuar për vitin 2020, dhe t’u kalojë bashkive Durrës, Lezhë dhe Kamzë, për financimin e rikonstruksionit të banesave individuale dhe të njësive të banimit në ndërtesa (pallat) për ata individë, të cilët përfitojnë nga grantet e rikonstruksionit, banesat e të cilëve janë klasifikuar si objekte të dëmtuara rëndë apo të dëmtuara lehtë, si pasojë e fatkeqësisë natyrore dhe që nuk duhen rindërtuar nga e para, përkatësisht, si më poshtë vijon:
+a) Bashkisë Durrës i transferohet fondi prej 63 250 000 (gjashtëdhjetë e tre milionë e dyqind e pesëdhjetë mijë) lekësh;
+b) Bashkisë Lezhë i transferohet fondi prej 78 750 000 (shtatëdhjetë e tetë milionë e shtatëqind e pesëdhjetë mijë) lekësh;
+c) Bashkisë Kamzë i transferohet fondi prej 176 330 000 (njëqind e shtatëdhjetë e gjashtë milionë e treqind e tridhjetë mijë) lekësh.
