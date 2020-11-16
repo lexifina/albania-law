@@ -1,0 +1,1 @@
+7. Pronarët e pasqyruar në tabelën që i bashkëlidhet këtij vendimi të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur certifikatën e pronësisë, kartelën e pasurisë, si dhe hartën treguese të regjistrimit, pranë Bashkisë Pogradec.
