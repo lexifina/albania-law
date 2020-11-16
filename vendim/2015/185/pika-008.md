@@ -1,1 +1,0 @@
-8. Organet dhe autoritetet drejtuese të Akademisë së Sigurisë organizohen e funksionojnë në përputhje me legjislacionin në fuqi, që rregullon arsimin e lartë publik dhe organizimin e Policisë së Shtetit.

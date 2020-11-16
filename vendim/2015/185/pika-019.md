@@ -1,1 +1,0 @@
-19. Akademia e Sigurisë, për realizimin e përgjegjësive të saj, bashkëpunon me institucionet e arsimit të lartë brenda dhe jashtë vendit, organizmat ndërkombëtarë dhe institucionet homologe të huaja, si dhe organizatat joqeveritare të interesuara në fushën e rendit e të sigurisë publike.
