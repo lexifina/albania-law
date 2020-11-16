@@ -1,0 +1,1 @@
+4. Ministri, që mbulon fushën përkatëse, nxjerr udhëzime, ku përcakton procedurat, të cilat duhen ndjekur e zbatuar nga institucionet, që kërkojnë ndihmë me apo për mallra rezervë shtetërore, të grupeve B e C, si dhe për rregullimin, në tërësi, të marrëdhënieve, që krijohen në administrimin e mallrave rezervë shtetërore.
