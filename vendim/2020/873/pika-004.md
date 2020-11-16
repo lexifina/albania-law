@@ -1,0 +1,1 @@
+4. Ministria përgjegjëse për strehimin bashkëpunon me njësitë e vetëqeverisjes vendore në rastet kur kërkohet krijimi ose shtimi i fondit publik të banesave sociale nëpërmjet transferimit të pronave në emër të njësive të vetëqeverisjes vendore për t’u përshtatur në banesë sociale me qira.

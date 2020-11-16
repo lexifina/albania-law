@@ -1,0 +1,1 @@
+2. Bashkëpunimi ndërmjet pushtetit qendror e njësive të vetëqeverisjes vendore realizohet në të gjitha rastet kur njësitë e vetëqeverisjes vendore kërkojnë mbështetje financiare ose administrative nga ministria përgjegjëse për strehimin për krijimin ose shtimin e fondit publik të banesave sociale në pronësi të tyre.
