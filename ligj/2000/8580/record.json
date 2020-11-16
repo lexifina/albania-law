@@ -1,0 +1,27 @@
+{
+  "qbz_id": 44,
+  "title": "PËR PARTITË POLITIKE",
+  "type": "Ligj",
+  "number": "8580",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-02-17",
+  "version_no": 2,
+  "qbz_version_id": 7,
+  "in_force": "2020-11-16",
+  "in_force_basis": "QBZ consolidated version 2 validFrom 2020-11-16",
+  "changed_by_qbz_id": 56634,
+  "changed_by_number": "135",
+  "changed_by_title": "Për disa ndryshime në ligjin nr. 8580, datë 17.2.2000, “Për partitë politike”, i ndryshuar",
+  "source": "https://qbz.gov.al/files/f61b9a2090add10e11a94e5697cd2b1a20cf7464a74d65bf6a3228f07d235a8f.docx",
+  "source_sha256": "f61b9a2090add10e11a94e5697cd2b1a20cf7464a74d65bf6a3228f07d235a8f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/44",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/44/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
