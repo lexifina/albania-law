@@ -1,0 +1,1 @@
+3. Bashkia Pogradec të realizojë procedurat për emërimin e stafit të kopshtit, bazuar në normat e punës mësimore, të përcaktuar në udhëzimin nr. 30, datë 12.9.2018, të ministrit të Arsimit, Sportit dhe Rinisë, “Për numrin e nxënësve për klasë dhe normat e punës mësimore në institucionet e arsimit parauniversitar”.

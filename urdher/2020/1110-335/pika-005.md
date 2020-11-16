@@ -1,0 +1,1 @@
+5. Institucioni arsimor vendor përgjegjës për arsimin parauniversitar, nën juridiksionin e të cilit do të hapet kopshti i fshatit Homçan, të monitorojë veprimtarinë mësimdhënëse të këtij institucioni arsimor parauniversitar publik, bazuar në kuadrin ligjor në fuqi.
