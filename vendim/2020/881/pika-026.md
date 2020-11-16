@@ -1,0 +1,1 @@
+26. Akreditimi institucional i Akademisë së Sigurisë dhe i programeve të studimit bëhet nga struktura përgjegjëse, sipas kuadrit ligjor në fuqi, duke respektuar statusin e veçantë të Akademisë së Sigurisë.

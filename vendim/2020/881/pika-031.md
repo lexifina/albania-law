@@ -1,0 +1,1 @@
+31. Me miratimin e strukturës së re organike, në zbatim të këtij vendimi, Akademia e Sigurisë bën shpalljen publike për plotësimin e pozicioneve akademike me konkurs, brenda 3 (tre) muajve nga hyrja në fuqi e këtij vendimi, sipas legjislacionit në fuqi.

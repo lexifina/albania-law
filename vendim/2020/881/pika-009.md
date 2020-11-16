@@ -1,0 +1,1 @@
+9. Akademia e Sigurisë organizon programe studimi të arsimit të lartë në fushën e rendit e të sigurisë publike në të gjitha ciklet, kurse profesionale të formimit bazë dhe të kualifikimit të vazhduar për çdo gradë, kurse specializimi për çdo shërbim e profil dhe trajnim praktik për punonjësit e strukturave, të përmendura në pikën 4, të këtij vendimi.

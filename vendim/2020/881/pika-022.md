@@ -1,0 +1,1 @@
+22. Kuotat e pranimit të kandidatëve për studentë, për çdo program studimi, shqyrtohen në bazë të nevojës së institucioneve të interesuara dhe kapaciteteve të Akademisë nga Bordi Këshillues i Akademisë së Sigurisë, miratohen nga Senati Akademik i Akademisë dhe paraqiten për certifikim në ministrinë përgjegjëse për arsimin, sipas legjislacionit në fuqi.

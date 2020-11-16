@@ -1,0 +1,1 @@
+13. AS-ja, për përmbushjen e përgjegjësive të saj, bashkëpunon me institucionet e arsimit të lartë brenda dhe jashtë vendit, organizmat ndërkombëtarë, institucionet homologe të huaja, si dhe organizatat joqeveritare me rol të rëndësishëm në fushën e rendit e të sigurisë publike.

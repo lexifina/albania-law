@@ -1,0 +1,1 @@
+11. Personeli, i cili rekrutohet në institucionet e përcaktuara në pikën 4, dhe personeli që konkurron për gradën pasardhëse dhe funksione më të larta në këto institucione u nënshtrohen programeve të formimit/kualifikimit përkatës në AS, sipas përcaktimeve në strategjinë e formimit në fushën e rendit e të sigurisë publike për këto institucione.

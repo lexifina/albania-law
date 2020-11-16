@@ -1,0 +1,1 @@
+30. Struktura dhe organika e Akademisë së Sigurisë miratohen para fillimit të vitit akademik, me urdhër të Kryeministrit, me propozim të ministrit përgjegjës për rendin dhe sigurinë publike, në përputhje me legjislacionin në fuqi dhe përcaktimet në statut dhe nuk mund të ndryshohet pa përfunduar viti akademik.

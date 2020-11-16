@@ -1,0 +1,1 @@
+29. Akademia financohet nga buxheti i shtetit dhe të ardhura të tjera të ligjshme. Programi buxhetor i Akademisë është pjesë e programit buxhetor të ministrisë përgjegjëse për rendin dhe sigurinë publike.

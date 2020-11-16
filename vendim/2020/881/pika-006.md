@@ -1,0 +1,1 @@
+6. Mënyra e organizimit dhe e funksionimit të organeve kolegjiale dhe e autoriteteve drejtuese, përbërja e bordit të administrimit, si dhe kompetencat e administratorit të AS-së parashikohen në statutin e saj, në përputhje me legjislacionin në fuqi për arsimin e lartë.

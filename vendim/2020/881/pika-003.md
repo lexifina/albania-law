@@ -1,0 +1,1 @@
+3. Ministri përgjegjës për rendin dhe sigurinë publike përcakton politikat e arsimimit e të kualifikimit në fushën e rendit e të sigurisë publike, në përputhje me nevojat e Policisë së Shtetit dhe të institucioneve të tjera të sigurisë në vend.

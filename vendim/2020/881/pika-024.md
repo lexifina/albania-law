@@ -1,0 +1,1 @@
+24. Akademia përgatit planin periodik për studime, specializime, kualifikime dhe trajnime në bashkëpunim me institucionet e interesuara. Procedurat e planifikimit për studime, specializime, kualifikime dhe trajnime miratohen nga Senati Akademik, me propozim të Bordit Këshillues të Akademisë së Sigurisë.

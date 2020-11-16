@@ -1,0 +1,1 @@
+23. Kuotat e pranimit të kursantëve për programet e trajnimit dhe specializimeve shqyrtohen mbi bazën e nevojës së institucioneve të interesuara dhe kapaciteteve të Akademisë nga Bordi Këshillues i AS-së dhe miratohen me vendim të Senatit të Akademik.

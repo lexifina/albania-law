@@ -1,0 +1,1 @@
+27. Ekuivalentimi/njëvlershmëria e programeve të studimit dhe e kualifikimeve të kryera në institucionet e arsimit të lartë jashtë vendit, në fushën e rendit dhe të sigurisë publike, rregullohet me udhëzim të përbashkët të ministrit përgjegjës për rendin dhe sigurinë publike dhe të ministrit përgjegjës për arsimin.
