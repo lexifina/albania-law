@@ -1,0 +1,1 @@
+2. Tarifa e qirasë së sallës ovale “B” dhe e zyrave me numra 2/1, 3, 3/1, 6, 7 e 11 të jetë në masën ekuivalente të shpenzimeve operative (furnizim me energji elektrike dhe ujë) gjatë gjithë periudhës së dhënies me qira.

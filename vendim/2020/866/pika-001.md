@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Shërbimeve Qeveritare për dhënien me qira, me tarifë të reduktuar, të sallës ovale “B” dhe të zyrave me numra 2/1, 3, 3/1, 6, 7 e 11, të ndodhura në ambientet e Pallatit të Kongreseve, Komisionit të Prokurimit Publik, për ushtrimin e veprimtarisë së tij.
