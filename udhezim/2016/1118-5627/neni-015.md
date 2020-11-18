@@ -1,0 +1,8 @@
+# Neni 15
+1. Dispozitat e këtij kreu zbatohen për mjetet M 2 dhe M 3 të destinuar për transport udhëtarësh me më shumë se nëntë ndenjëse, duke përfshirë edhe ndenjësen e drejtuesit të mjetit, si dhe kur përcaktohet ndryshe në linjat rrethqytetëse të miratuara edhe për mjete M 1 të destinuara për transport udhëtarësh, që kanë maksimumi nëntë ndenjëse, duke përfshirë edhe ndenjësen e drejtuesit të mjetit.
+2. Mjetet e transportit të udhëtarëve të shoqërive për të tretë ose me qira brenda vendit të pajisur me certifikatë nga autoriteti i licencimit, përdoren për kryerjen e shërbimeve të transportit të udhëtarëve brenda vendit.
+3. Certifikata për transport udhëtarësh është pjesë përbërëse e licencës, e cila lëshohet nga autoriteti i licencimit për çdo mjet, në emër të subjektit të transportit të udhëtarëve.
+4. Një mjet i transportit të udhëtarëve, do të operojë vetëm në përputhje me fushën në të cilën licenca është regjistruar, përveç se në rastet kur mund të autorizohet ndryshe nga autoriteti i licencimit.
+5. Mjetet M 2 dhe M 3 të linjave të rregullta, përdoren vetëm në linjat për të cilat subjekti i transportit ka marrë licencën, duke përjashtuar kufizimet e mundshme të përcaktuara në këtë licencë.
+6. Numri i nevojshëm i autobusëve me vendet përkatës të tyre, për këto shërbime, përcaktohet nga zyra e licencave në bazë të frekuencës së udhëtimeve, numrit të orareve të miratuara për linjën përkatëse, distancës dhe kohës së udhëtimit, si dhe mjeteve rezervë që duhet të ketë subjekti i transportit, si kusht i nevojshëm dhe i domosdoshëm për mbarëvajtjen e veprimtarisë së transportit.
+7. Mjetet me 8+1 vende kur operojnë në linjat rrethqytetëse ose në shërbimet e tjera, në përputhje me dispozitat e këtij udhëzimi, regjistrohen në REK.
