@@ -1,0 +1,2 @@
+Miratimin e letërmarrëveshjes së grantit nr. TF0B2002, për financimin shtesë ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, që vepron si administratore e fondeve grant të siguruara nga Agjencia për Zhvillimin e Bashkëpunimit Ndërkombëtar (SIDA), nën Fondin Suedez të Besimit, për projektin e shërbimeve mjedisore në Shqipëri, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
