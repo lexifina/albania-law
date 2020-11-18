@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 609, datë 6.11.2020
+PËR RREGULLAT E HOLLËSISHME PËR INFORMACIONIN QË DUHET TË PËRMBAJNË PAKETIMET E PRODUKTEVE KOZMETIKE, TË CILAT NUK JANË TË PARAPAKETUARA, QË PAKETOHEN NË PIKËN E SHITJES SIPAS KËRKESËS SË BLERËSIT OSE PARAPAKETOHEN PËR SHITJE TË MENJËHERSHME
+Në mbështetje të nenit 102, pika 4, të Kushtetutës së Republikës së Shqipërisë, dhe të nenit 16, pika 4, të ligjit nr. 26/2017, “Për produktet kozmetike”,
+UDHËZOJ:
