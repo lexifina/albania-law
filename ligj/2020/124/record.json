@@ -1,0 +1,26 @@
+{
+  "qbz_id": 68251,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 10221, datë 4.2.2010 “Për mbrojtjen nga diskriminimi”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "124",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2020-10-15",
+  "published": "2020-11-03",
+  "in_force": "2020-11-18",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/0b60a86728204df02a79af20bdc0b322c65bfbf2c3f0017e0c28984bad8cea0a.docx",
+  "source_sha256": "0b60a86728204df02a79af20bdc0b322c65bfbf2c3f0017e0c28984bad8cea0a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/68251",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2020/10/15/124",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
