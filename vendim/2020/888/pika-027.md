@@ -1,0 +1,1 @@
+27. Dorëzimi i objektit bëhet, në mënyrë të detyrueshme, nga përfaqësuesi i strukturës përgjegjëse për shitjen e pronës publike në ministrinë përgjegjëse për financat dhe ekonominë dhe përfaqësuesi AAPSK-së (sipas komisionit të vlerësimit të ngritur) në prani të blerësit.

@@ -1,0 +1,1 @@
+2. Agjencia e Administrimit të Pasurive të Sekuestruara dhe Konfiskuara, në vijim “AAPSK”, vendimin e gjykatës të formës së prerë, për konfiskimin e pasurisë, e përcjell tek institucionet përgjegjëse për të kryer kalimin e pronësisë në emër të Agjencisë së Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara.

@@ -1,0 +1,1 @@
+30. Vendimi nr. 632, datë 23.7.2010, i Këshillit të Ministrave, “Për përcaktimin e kritereve të vlerësimit, të mënyrave dhe të procedurave të dhënies në përdorim e të tjetërsimit të pasurive të konfiskuara, në zbatim të ligjit nr. 10192, datë 3.12.2009”, i ndryshuar, shfuqizohet.

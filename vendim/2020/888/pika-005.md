@@ -1,0 +1,1 @@
+5. Komisioni ngrihet nga kryeadministratori, sipas parashikimeve të pikës 5, të nenit 19, të ligjit nr. 34/2019, “Për administrimin e pasurive të sekuestruara dhe konfiskuara”, të ndryshuar, dhe përbëhet nga administratori i pasurisë dhe 2 (dy) përfaqësues të AAPSK-së, të cilët caktohen nga kryeadministratori.

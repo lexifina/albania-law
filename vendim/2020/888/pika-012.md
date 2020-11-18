@@ -1,0 +1,1 @@
+12. Pjesëmarrësit në ankand, pas regjistrimit të kërkesës në strukturën përgjegjëse për shitjen e pronës publike në ministrinë përgjegjëse për financat dhe ekonominë, kanë të drejtë të studiojnë dokumentacionin e vlerësimit, që ndodhet i depozituar në këtë strukturë, si dhe të njihen me gjendjen fizike të objektit.
