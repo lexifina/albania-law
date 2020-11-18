@@ -5,4 +5,4 @@ Procedura para gjykatës
 3. Gjykata e njofton komisionerin për paraqitjen e çdo padie për diskriminim.
 4. Gjykata mund t’i kërkojë komisionerit, në çdo fazë të procedimit, që të paraqesë një mendim me shkrim, rezultatet e hetimit të tij, në qoftë se është bërë hetimi, ose çdo informacion tjetër që ka rëndësi për çështjen.
 5. Paditësi ka detyrim të sjellë prova në mbështjetje të padisë, duke përdorur çdo lloj prove të ligjshme që mund të provojë sjelljen diskriminuese.
-6. Pasi paditësi paraqet prova, mbi të cilat bazon pretendimin e tij dhe në bazë të të cilave gjykata mund të prezumojë sjelljen diskriminuese, i padituri detyrohet të provojë se faktet nuk përbëjnë diskriminim sipas këtij ligji.
+6. Pasi paditësi paraqet fakte, mbi të cilat bazon pretendimin e tij dhe në bazë të të cilave gjykata mund të prezumojë sjelljen diskriminuese, i padituri detyrohet të provojë se faktet nuk përbëjnë diskriminim sipas këtij ligji.
