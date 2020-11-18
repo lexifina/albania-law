@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave dhe Ekonomisë, Fondit Shqiptar të Zhvillimit dhe Bankës Evropiane për Rindërtim dhe Zhvillim, për programin e mundësimit të turizmit dhe infrastrukturës, në shumën prej 40 000 000 (dyzet milionë) eurosh, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
