@@ -1,0 +1,1 @@
+1. Përdorimin e granteve nga fondi i rindërtimit, miratuar në buxhetin e vitit 2020, për financimin e rindërtimit të godinës së Bashkisë Kurbin, Njësia Administrative Laç, Bashkia Kurbin, në vlerën 296 969 254.28 (dyqind e nëntëdhjetë e gjashtë milionë e nëntëqind e gjashtëdhjetë e nëntë mijë e dyqind e pesëdhjetë e katër pikë njëzet e tetë) lekë.
