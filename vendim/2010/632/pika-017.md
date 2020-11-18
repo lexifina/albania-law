@@ -1,1 +1,0 @@
-17. Drejtoria e Administrimit dhe Shitjes së Pronave Publike, në Ministrinë e Financave, pas pagesës së vlerës së plotë të objektit, është e detyruar ta lidhë kontratën e shitjes ndërmjet palës shitëse (përfaqësuesi i Ministrisë së Financave, përfaqësuesi i AAPSK-së) dhe blerësit privat.

@@ -1,1 +1,0 @@
-7. Pjesëmarrësit në ankand, pas regjistrimit të kërkesës në Drejtorinë e Administrimit dhe Shitjes së Pronave Publike, në Ministrinë e Financave, kanë të drejtë të studiojnë dokumentacionin e vlerësimit, që ndodhet i depozituar në këtë drejtori, si dhe të njihen me gjendjen fizike të objektit.

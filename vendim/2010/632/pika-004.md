@@ -1,1 +1,0 @@
-4. Komiteti Këshillimor Ndërinstitucional i Ekspertëve për Masat kundër Krimit të Organizuar, në bazë të raportit tekniko-financiar dhe të nevojave të institucioneve të zbatimit të ligjit, në mbledhjen e radhës, bën rekomandimet për mënyrën e përdorimit të pasurive të konfiskuara, të cilat ia paraqet Ministrit të Financave.
