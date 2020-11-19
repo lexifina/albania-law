@@ -1,0 +1,28 @@
+{
+  "qbz_id": 59530,
+  "title": "Mbi licencimin e shoqërisë “Koka & Ergi Energy Stavec” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Stavec”, me kapacitet të instaluar 6520 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "176",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2020-11-04",
+  "published": "2020-11-19",
+  "in_force": "2020-11-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b7397be1aef574ae2913497387836d4bc56f1674f6ce2e6b94c38de611ce03b7.docx",
+  "source_sha256": "b7397be1aef574ae2913497387836d4bc56f1674f6ce2e6b94c38de611ce03b7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/59530",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2020/11/04/176",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31831
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
