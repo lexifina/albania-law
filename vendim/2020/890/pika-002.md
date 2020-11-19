@@ -1,0 +1,1 @@
+2. Gjykatës së Lartë, në buxhetin e miratuar për vitin 2020, në zërin “Shpenzime operative”, i shtohet fondi prej 1 800 000 (një milion e tetëqind mijë) lekësh, për shpërblimin e ekspertëve dhe shpenzimet e tjera operative të Këshillit të Emërimeve në Drejtësi.

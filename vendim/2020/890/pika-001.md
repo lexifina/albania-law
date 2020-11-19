@@ -1,0 +1,1 @@
+1. Gjykatës së Lartë, në buxhetin e miratuar për vitin 2020, në zërin “Shpenzime personeli”, i shtohet fondi prej 12 200 000 (dymbëdhjetë milionë e dyqind mijë) lekësh, për shpërblimin e anëtarëve të Këshillit të Emërimeve në Drejtësi dhe për pagesën e personelit mbështetës të caktuar pranë tij nga Gjykata e Lartë.
