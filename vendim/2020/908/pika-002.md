@@ -1,0 +1,1 @@
+2. Paketa e barnave për trajtimin ambulator në banesë të pacientëve të diagnostikuar me COVID-19 përbëhet nga dy skema trajtimi, në përputhje me formën e sëmundjes, sipas udhëzuesit të miratuar nga Komiteti Teknik i Ekspertëve.

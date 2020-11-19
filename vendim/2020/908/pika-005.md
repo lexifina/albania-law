@@ -1,0 +1,1 @@
+5. Mjeku i familjes, për personat e testuar pozitiv për Sars-Cov-2 (të konfirmuar nga institucionet shëndetësore publike përgjegjëse), në përputhje me formën e sëmundjes dhe indikacionet e përcaktuara në udhëzuesin e miratuar nga Komiteti Teknik i Ekspertëve, lëshon recetën me rimbursim, sipas rregullave të përcaktuara nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor.
