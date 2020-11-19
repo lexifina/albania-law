@@ -1,0 +1,1 @@
+2. Kërkesat në lidhje me produktet e peshkimit, siç referohet në seksionin II, “Kërkesat higjienike specifike për produktet e peshkimit”, pika 39, shkronjat “b” dhe “c”, të udhëzimit nr. 25, datë 25.11.2010, “Për kushtet higjienike dhe kontrollet për molusqet e gjalla dhe bivalvore, peshkun dhe produktet e peshkimit”, të zbatohen siç përcaktohet në shtojcën II të këtij udhëzimi.
