@@ -1,1 +1,0 @@
-11. Subjektet e interesuara mund të kërkojnë sqarime për informacionet e dhëna në ftesën për ofertë. Komisioni i jep këto sqarime dhe ua dërgon të gjitha subjekteve me shkrim/elektronikisht, të cilave u është dërguar ftesa për ofertë. Nëse është e nevojshme, komisioni zgjat afatin kohor për dorëzimin e ofertave.

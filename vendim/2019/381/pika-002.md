@@ -1,1 +1,0 @@
-2. Procedura për kontraktimin dhe përzgjedhjen e avokatëve ose zyrave të avokatisë vendase ose të huaja do të kryhet në përputhje me parimin e konkurrencës, mosdiskriminimit, trajtimit të barabartë të ofertuesve, si dhe konfidencialitetit.

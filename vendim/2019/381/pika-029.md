@@ -1,1 +1,0 @@
-29. Pas përfundimit të procedurës së përzgjedhjes së ofertuesit, institucioni i Avokaturës së Shtetit fton ofertuesin e përzgjedhur për nënshkrimin e kontratës. Kur ofertuesi i suksesshëm nuk arrin të nënshkruajë kontratën, institucioni fton për lidhjen e kontratës ofertuesin vijues në klasifikimin e ofertuesve.

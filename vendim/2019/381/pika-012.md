@@ -1,5 +1,0 @@
-12. Kriteret e kualifikimit të përcaktuara në ftesën për ofertë përmbajnë listën e dokumentacionit ligjor dhe/ose administrativ të ofertuesve për të marrë pjesë në procesin e konkurrimit. Për të marrë pjesë në një procedurë konkurrimi, ofertuesi duhet të dorëzojë:
-a) dokumentin që vërteton se ofertuesi është regjistruar në regjistrat përkatës profesionalë dhe tregtarë të shtetit, në të cilin është themeluar, duke vërtetuar personalitetin e tij ligjor;
-b) dokumentin që vërteton se ofertuesi nuk është në proces falimentimi apo kapitalet dhe asetet nuk janë në proces ekzekutimi nga ana e përmbaruesit gjyqësor apo ekziston një urdhër sekuestroje për to;
-c) dokumentin që vërteton se ofertuesi nuk është dënuar me vendim gjykate të formës së prerë për vepra penale që lidhen me aktivitetin e tij profesional;
-ç) certifikatën ISSO 27001 në emër të ofertuesit, që vërteton se ofertuesi aplikon standardet e sigurisë së informacionit, lëshuar nga organe të pavarura të njohura nga sistemet e standardizimit kombëtar ose ndërkombëtar.

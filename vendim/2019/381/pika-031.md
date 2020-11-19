@@ -1,1 +1,0 @@
-31. Në të njëjtën kohë, titullari i personit juridik autorizon një nëpunës të nivelit të lartë drejtues për ndjekjen e çështjes, deri në përfundim të saj, i cili do të ketë kryesisht funksione mbikëqyrjeje, koordinimi dhe komunikimi me Avokaturën e Shtetit e me subjektin e përzgjedhur.

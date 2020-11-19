@@ -1,1 +1,0 @@
-24. Në çdo rast, komisioni duhet të argumentojë e të dokumentojë lidhur me mënyrën e vlerësimit të ofertave dhe mënyrën e pikëzimit, sipas kritereve të këtij vendimi. Ky proces regjistrohet nëpërmjet procesverbalit të mbajtur për këtë qëllim.
