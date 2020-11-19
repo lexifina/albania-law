@@ -1,0 +1,1 @@
+2. Bashkisë Roskovec, në buxhetin e vitit 2020, t’i shtohet fondi prej 52 873 454 (pesëdhjetë e dy milionë e tetëqind e shtatëdhjetë e tre mijë e katërqind e pesëdhjetë e katër) lekësh, për dëmshpërblimin e 505 familjeve, banesat e të cilëve janë dëmtuar rëndë nga lëkundjet e tokës në fshatrat Marinëz, Luar, Vidhisht dhe Kuman.

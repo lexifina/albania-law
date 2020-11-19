@@ -1,0 +1,1 @@
+1. Bashkisë Patos, në buxhetin e vitit 2020, t’i shtohet fondi prej 54 132 270 (pesëdhjetë e katër milionë e njëqind e tridhjetë e dy mijë e dyqind e shtatëdhjetë) lekësh, për dëmshpërblimin e 531 familjeve, banesat e të cilëve janë dëmtuar rëndë nga lëkundjes e tokës në fshatrat Zharrëz, Dukas, Manekaj dhe Verbas.
