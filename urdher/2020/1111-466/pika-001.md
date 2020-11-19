@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për miratimin ose refuzimin e kërkesave për zhvillimin e panaireve, ekspozitave, shfaqjeve të cirkut lëvizës dhe zooparqeve lëvizëse të kafshëve në territorin e Republikës së Shqipërisë”.
