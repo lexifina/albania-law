@@ -1,0 +1,1 @@
+21. Komisioni, vlerëson ofertat e paraqitura nga avokati/studioja e avokatisë vendase, që kanë shprehur interesin për këtë angazhim. Procesi i përzgjedhjes dhe i vlerësimit vijon nëse pranë Avokaturës së Shtetit është paraqitur të paktën 1 (një) ofertë.

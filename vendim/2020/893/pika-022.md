@@ -1,0 +1,1 @@
+22. Komisioni vlerëson nëse janë përmbushur kërkesat e shkronjave “a”, “b” e “c”, të pikës 20, të këtij seksioni, dhe përzgjedh ofertuesin që ka ofertën financiare më të ulët. Oferta financiare e përzgjedhur nuk mund të jetë objekt ndryshimi i mëpasshëm.

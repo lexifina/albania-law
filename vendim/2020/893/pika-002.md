@@ -1,0 +1,1 @@
+2. Procedura për kontraktimin dhe përzgjedhjen e avokatëve/studiove të avokatisë vendase ose të huaja, ekspertëve apo shërbimeve të tjera ndihmëse do të kryhet në përputhje me parimin e konkurrencës, të mosdiskriminimit, të transparencës, të trajtimit të barabartë të ofertuesve, duke ruajtur konfidencialitetin e sekretin tregtar të subjekteve.

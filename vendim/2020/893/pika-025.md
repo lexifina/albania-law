@@ -1,0 +1,1 @@
+25. Me miratimin e raportit përmbledhës nga Avokati i Përgjithshëm i Shtetit, brenda 2 (dy) ditëve punë, institucioni i Avokaturës së Shtetit njofton ofertuesin e përzgjedhur fitues dhe lidh një kontratë me këtë të fundit, në emër dhe për llogari të personit juridik të interesuar.

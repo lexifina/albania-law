@@ -1,0 +1,1 @@
+5. Afati kohor për dorëzimin e ofertave është jo më pak se 5 (pesë) ditë pune nga dita kur është shpallur njoftimi në faqen zyrtare të Avokaturës së Shtetit. Në varësi të natyrës e të llojit të shërbimit, objektit të procedurës së konkurrimit, komisioni mund të caktojë një afat më të gjatë për dorëzimin e ofertave.

@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i procedurave dhe i kritereve për kontraktimin dhe pagesën e avokatëve/studiove të avokatisë vendase ose të huaja, ekspertëve apo shërbimeve të tjera ndihmëse.

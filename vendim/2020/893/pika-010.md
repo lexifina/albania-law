@@ -1,0 +1,1 @@
+10. Komisioni, brenda 10 (dhjetë) ditëve punë nga hapja e ofertave, kualifikon për fazën e mëtejshme të vlerësimit vetëm ato oferta që plotësojnë kriteret për përzgjedhjen e vlerësimin, të përcaktuara në pikën 1, të seksionit B, të këtij kreu. Procesi i përzgjedhjes dhe i vlerësimit vijon nëse pranë Avokaturës së Shtetit është paraqitur të paktën 1 (një) ofertë.

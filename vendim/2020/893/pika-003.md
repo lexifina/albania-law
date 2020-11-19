@@ -1,0 +1,8 @@
+3. Procedurat e kontraktimit fillojnë kryesisht nga Avokatura e Shtetit ose me kërkesë të personit juridik të interesuar, të përcaktuar në pikën 1/1, të nenit 5, të ligjit nr.10018, datë 13.11.2008, “Për Avokaturën e Shtetit”, të ndryshuar (këtu e në vijim, personat juridikë), në çështje të rëndësishme për interesat e shtetit ose kur natyra e çështjes kërkon avokatë apo ekspertë të specializuar në fusha të veçanta.
+II. KRITERET PËR FILLIMIN E PROCEDURËS SË KONTRAKTIMIT
+1. Avokatura e Shtetit, në kuadër të ofrimit të asistencës juridike për personat juridikë, në ushtrim të kompetencave për mbrojtjen e interesit pasuror të Republikës së Shqipërisë, vlerëson, rast pas rasti, nevojën e kontraktimit të subjekteve apo të shërbimeve të përcaktuara në pikën 1, të kreut I, të këtij vendimi.
+2. Kur personat juridikë kanë nevojë të asistohen në veprimtarinë e tyre juridike, me kërkesë të motivuar me shkrim, duhet të parashtrojnë nevojën për asistencë juridike drejtuar Avokaturës së Shtetit, e cila duhet të përmbajë:
+a) argumentimin e fakteve e të rrethanave që kanë çuar në këtë kërkesë;
+b) nevojën e natyrën e asistencës juridike të kërkuar;
+c) angazhimin e personit juridik për përballimin e të gjitha shpenzimeve ekonomike, të cilat do të rezultojnë në kuadër të ofrimit të asistencës juridike.
+3. Kur Avokatura e Shtetit, gjatë ushtrimit të veprimtarisë së saj, konstaton kryesisht se çështja paraqet rëndësi të veçantë për interesat e shtetit ose kur natyra e çështjes kërkon njohuri të specializuara në fusha të veçanta, Avokatura e Shtetit kontrakton subjektet e përcaktuara në pikën 1, të kreut I, të këtij vendimi, për të ofruar shërbime konsulence ose përfaqësimi në mbrojtje të interesave të shtetit shqiptar.

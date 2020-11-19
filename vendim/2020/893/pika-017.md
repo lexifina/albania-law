@@ -1,0 +1,1 @@
+17. Komisioni hap të gjitha ofertat në datën, vendin dhe kohën e përcaktuar, pas mbarimit të afatit përfundimtar për paraqitjen e ofertave ose pas mbarimit të afatit përfundimtar, të përcaktuar pas zgjatjes së këtij afati në përputhje me procedurat e specifikuara në ftesën për ofertë.

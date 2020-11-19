@@ -1,0 +1,1 @@
+11. Për shqyrtimin e vlerësimin sa më të drejtë të këtyre ofertave, komisioni, kur e shikon të arsyeshme, u kërkon ofertuesve sqarime me shkrim ose në mënyrë elektronike për ofertat e tyre. Në çdo rast, nuk duhet të kërkohet apo të lejohet asnjë ndryshim thelbësor në përmbajtjen e ofertës.

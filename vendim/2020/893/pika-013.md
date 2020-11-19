@@ -1,0 +1,1 @@
+13. Në përfundim të këtij studimi, komisioni u dërgon me shkrim ose në mënyrë elektronike ftesën për ofertë avokatëve/studiove të avokatisë të identifikuar e të përzgjedhur në përmbushje të kritereve të përcaktuara në pikën 12, të këtij seksioni.
