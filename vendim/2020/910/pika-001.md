@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, për financimin e rindërtimit të konviktit të shkollës së mesme profesionale “Kolin Gjoka”, Bashkia Lezhë, në vlerën 155 000 000 (njëqind e pesëdhjetë e pesë milionë) lekë.
