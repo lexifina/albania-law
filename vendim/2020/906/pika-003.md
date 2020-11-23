@@ -1,0 +1,1 @@
+3. Sipërfaqes së zonës teknologjike dhe zhvillimit ekonomik, të shpallur me vendimin nr. 262, datë 6.4.2016, të Këshillit të Ministrave, “Për shpalljen e zonës së teknologjisë dhe zhvillimit ekonomik në Spitallë, Durrës”, i hiqen pronat shtetërore të përcaktuara në pikën 1, të këtij vendimi.

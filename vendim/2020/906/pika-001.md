@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Infrastrukturës dhe Energjisë, të pronës shtetërore, me numër pasurie 46, 47, 48, 49, 50, 63, 64, 65, 66, pjesë e zonës kadastrale 8517, Bashkia Durrës, Njësia Administrative Durrës, në zonën e ish-Kënetës, Spitallë, me vendndodhje dhe sipërfaqe sipas aneksit që i bashkëlidhet këtij vendimi.
