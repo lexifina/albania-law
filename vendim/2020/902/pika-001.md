@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preket nga ndërtimi i objektit “Rrjeti shpërndarës 20 kV, nënstacioni Pogradec fideri 1, 9, 10, rikonstruksion kabina, kabina të reja dhe linjë TU me përcjellës me vetëmbajtje ABC”.

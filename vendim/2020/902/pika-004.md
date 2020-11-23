@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, në shumën 4 999.68 (katër mijë e nëntëqind e nëntëdhjetë e nëntë pikë gjashtëdhjetë e tetë) lekë, të përballohet nga Operatori i Shpërndarjes së Energjisë Elektrike sh.a.

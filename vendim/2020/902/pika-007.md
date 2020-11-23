@@ -1,0 +1,1 @@
+7. Pronarët e pasurisë së paluajtshme, pronë private, të pasqyruar në tabelën që i bashkëlidhet këtij vendimi, do të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin për likuidim, certifikatën e pronësisë, kartelën e pasurisë si dhe hartën treguese të regjistrimit, në zyrat e Operatorit të Shpërndarjes së Energjisë Elektrike sh.a.

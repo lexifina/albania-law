@@ -1,0 +1,1 @@
+8. Operatori i Shpërndarjes së Energjisë Elektrike të kryejë procedurat për likuidimin e pronarëve të pasurisë së paluajtshme, pronë private, të shpronësuar, sipas përcaktimeve të bëra në këtë vendim.
