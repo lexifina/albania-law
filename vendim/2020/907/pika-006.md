@@ -1,0 +1,1 @@
+6. Vendimi nr. 957, datë 7.12.2016, i Këshillit të Ministrave, “Për pagesën e kostos financiare të sistemit të identifikimit dhe regjistrimit të kafshëve dhe fermave blegtorale nga fermerët”, shfuqizohet.

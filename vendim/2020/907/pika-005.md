@@ -1,0 +1,1 @@
+5. Me hyrjen në fuqi të këtij vendimi, fondi i grumbulluar nga shitja e matrikujve në llogarinë e të ardhurave jashtë limitit të përdoret për blerjen e bazës materiale për procesin e identifikimit të kafshëve dhe regjistrimin e fermave blegtorale.

@@ -1,0 +1,1 @@
+1. Kafshët dhe fermat blegtorale identifikohen e regjistrohen, sipas programit kombëtar të identifikimit dhe të regjistrimit (IR) të hartuar nga struktura përgjegjëse për veterinarinë në ministrinë përgjegjëse për veterinarinë.

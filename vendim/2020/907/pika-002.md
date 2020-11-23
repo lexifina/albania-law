@@ -1,0 +1,3 @@
+2. Të gjithë termat e përdorur në këtë vendim kanë të njëjtin kuptim me ata të përcaktuar në nenin 4, të ligjit nr. 10465, datë 29.9.2011, “Për shërbimin veterinar në Republikën e Shqipërisë”, të ndryshuar, ndërsa termat e mëposhtëm kanë këto kuptime:
+a) “Pronar ose kujdestar”, çdo person fizik apo juridik, që ka në pronësi kafshët ose është i ngarkuar të kujdeset për kafshët, me ose pa shpërblim financiar;
+b) “Bazë materiale për procesin e identifikimit të kafshëve dhe regjistrimin e fermave blegtorale”, identifikuesit e kafshëve, regjistrat, pasaportat, kartelat, certifikatat shëndetësore veterinare për lëvizjen e kafshëve dhe formularët për regjistrimin e kafshëve.
