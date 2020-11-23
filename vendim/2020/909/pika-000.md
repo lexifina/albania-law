@@ -1,0 +1,1 @@
+I. TË PËRGJITHSHME

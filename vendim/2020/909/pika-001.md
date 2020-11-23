@@ -1,0 +1,1 @@
+1. Dhënie ndihme financiare prej 40 000 (dyzet mijë) lekësh në muaj për punonjësit dhe ish-punonjësit e rafinerisë së naftës, Ballsh, sipas listës bashkëlidhur këtij vendimi, për periudhën nëntor 2020-tetor 2021.
