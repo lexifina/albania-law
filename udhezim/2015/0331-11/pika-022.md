@@ -1,1 +1,0 @@
-22. Agjencia raporton periodikisht, jo më rrallë se një herë në gjashtë muaj, para Komitetit, lidhur me monitorimin e projekteve të financuara nga Fondi i Posaçëm për Parandalimin e Kriminalitetit. Në rast mosrespektimi të kushteve të kontratës, Agjencia ndërmerr sanksionet përkatëse, në përputhje me kontratën dhe legjislacionin në fuqi.

@@ -1,1 +1,0 @@
-1. Ky udhëzim ka për qëllim përcaktimin e procedurave dhe kritereve për përzgjedhjen e projekteve, që do të financohen nga Fondi i Posaçëm për Parandalimin e Kriminalitetit, me qëllim përdorimin në mënyrë sa më eficiente të fondeve të akorduara.

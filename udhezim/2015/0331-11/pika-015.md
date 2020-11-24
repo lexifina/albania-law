@@ -1,1 +1,0 @@
-15. Agjencia, brenda 10 ditëve kalendarike nga marrja e urdhrit, njofton aplikuesin për pranimin ose refuzimin e kërkesës për financim. Në rast refuzimi njoftimi përmban edhe arsyet për refuzimin e kërkesës së financimit.
