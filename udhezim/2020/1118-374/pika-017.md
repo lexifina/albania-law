@@ -1,0 +1,1 @@
+17. Projektet e shpallura fituese do të financohen për vlerën e plotë dhe financimi do të bëhet në raport me ecurinë e realizimit të tyre dhe me respektimin e procedurave ligjore përkatëse për kryerjen e pagesave.

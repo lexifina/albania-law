@@ -1,0 +1,1 @@
+21. Fondi i akorduar për institucionet shtetërore, sipas pikës 14 të këtij udhëzimi, përdoret prej tyre në përputhje me projektin e miratuar dhe me udhëzimin nr. 9, datë 20.3.2018, të ministrit të Financave dhe Ekonomisë, “Për procedurat standarde të zbatimit të buxhetit”.

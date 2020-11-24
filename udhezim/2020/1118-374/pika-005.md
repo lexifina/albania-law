@@ -1,0 +1,5 @@
+5. Kërkesat për financimin e projekteve mund të paraqiten nga:
+a) institucionet qendrore;
+b) njësitë e vetëqeverisjes vendore, ku ndodhen pasuritë e paluajtshme të konfiskuara;
+c) organizata të shoqërisë civile që merren me dhënien e ndihmës viktimave të krimit të organizuar dhe të trafikimit, që mbrojnë të drejtat e familjarëve të punonjësve të Policisë së Shtetit të rënë në krye të detyrës, si dhe nxitjen e programeve sociale për këto kategori duke destinuar pasuritë në administrim të ministrisë që mbulon Çështjet Sociale dhe Ministrisë Përgjegjëse për Rendin dhe Sigurinë Publike;
+d) organizatat jofitimprurëse, që kanë për objekt të veprimtarisë së tyre rehabilitimin social, kulturor e shëndetësor të shtresave në nevojë, veçanërisht atyre të prekura apo të rrezikuara nga krimi, përfshirë organizatat dhe qendrat terapeutike, qendrat e riaftësimit dhe të kurimit të përdoruesve të substancave narkotike, si dhe qendrat e asistencës e të rehabilitimit të viktimave të trafikut të qenieve njerëzore, që, në tri vitet e fundit nga paraqitja e kërkesës, zhvillojnë veprimtari të tilla.

@@ -1,0 +1,1 @@
+15. AAPSK, brenda 5 (pesë) ditëve kalendarike nga zbardhja e vendimit, njofton aplikuesin për pranimin ose refuzimin e kërkesës për financim. Në rast refuzimi njoftimi përmban edhe arsyet për refuzimin e kërkesës për financim.

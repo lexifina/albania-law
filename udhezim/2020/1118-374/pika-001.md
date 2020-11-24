@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave, procedurave dhe afateve, që duhet të ndiqen në procesin e përzgjedhjes së projekteve që do të financohen nga Fondi i Posaçëm për Parandalimin e Kriminalitetit, si dhe afatet e mënyrat e raportimit të përdorimit të fondeve të përfituara.

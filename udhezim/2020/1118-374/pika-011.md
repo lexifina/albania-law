@@ -1,0 +1,1 @@
+11. AAPSK-ja, brenda 30 ditëve kalendarike nga paraqitja e kërkesave për financim, harton një listë me projektet e paraqitura, duke i renditur ato sipas një vlerësimi paraprak të kryer nga grupi i punës, bazuar në kriteret e pikës 11 dhe nevojës së financimit.

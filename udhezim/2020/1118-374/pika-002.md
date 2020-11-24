@@ -1,0 +1,6 @@
+2. Fondi i posaçëm shërben, për:
+a) Përmirësimin e funksionimit të drejtësisë penale, duke destinuar pasuritë në administrim të Prokurorisë së Posaçme Kundër Korrupsionit dhe Krimit të Organizuar, Ministrisë Përgjegjëse për Rendin dhe Sigurinë Publike dhe të Ministrisë së Drejtësisë;
+b) Përmirësimin e parandalimit të kryerjes së veprave penale, të hetimeve paraprake penale të krimit të organizuar ose të krimeve të tjera, që sjellin pasuri/produkte kriminale dhe zhvillimin e programeve të mbrojtjes së dëshmitarëve e të bashkëpunëtorëve të drejtësisë, duke destinuar pasuritë në administrim të ministrisë përgjegjëse për rendin dhe sigurinë publike;
+c) Dhënien e ndihmës viktimave të krimit të organizuar dhe të trafikimit, familjarët e punonjësve të Policisë së Shtetit të rënë në krye të detyrës, si dhe nxitjen e programeve sociale për këto kategori, duke destinuar pasuritë në administrim të ministrisë që mbulon Çështjet Sociale dhe Ministrisë Përgjegjëse për Rendin dhe Sigurinë Publike.
+d) Dëmshpërblimin e viktimave të krimit të organizuar dhe të trafikimit në masën e përcaktuar me vendim gjyqësor;
+e) Për mbulimin e diferencave në vlerë që mund të krijohen nga administrimi i pasurive, të cilat me vendim gjyqësor i kthehen pronarit të pasurisë së sekuestruar ose të konfiskuar.

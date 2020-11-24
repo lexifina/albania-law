@@ -1,0 +1,1 @@
+13. Anëtari i Komitetit Ndërinstitucional për Masat Kundër Krimit të Organizuar nuk mund të votojë ose të marrë pjesë në vendimmarrje, kur ka lidhje dhe interes financiar me subjektin përfitues, sipas pikës 5, germat “c” dhe “d” të këtij udhëzimi, në përputhje me legjislacionin në fuqi.

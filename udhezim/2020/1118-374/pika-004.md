@@ -1,0 +1,1 @@
+4. Për shqyrtimin dhe vlerësimin e dokumentacionit përkatës të kërkesave për financimin e projekteve, ngrihet një grup pune, me urdhër të kryeadministratorit të AAPSK-së. Grupi i punës përbëhet nga 3 (tre) punonjës të AAPSK-së.

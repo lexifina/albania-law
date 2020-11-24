@@ -1,0 +1,1 @@
+22. Pjesa e Fondit të Posaçëm për Parandalimin e Kriminalitetit, që nuk përdoret gjatë vitit ushtrimor buxhetor, me vendim të Komitetit Ndërinstitucional për Masat Kundër Krimit të Organizuar, mbartet në vitin buxhetor pasardhës dhe përdorimi i tij u nënshtrohet procedurave të përcaktuara në këtë udhëzim.
