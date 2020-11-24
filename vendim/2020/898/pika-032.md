@@ -1,0 +1,1 @@
+32. Për kontratat e privatizimit që shlyhen me këste, EKB-ja ose njësia e vetëqeverisjes vendore lidh me subjektin/subjektet përfituese kontratë shitjeje me rezervë të pronës, deri në shlyerjen e plotë të vlerës së privatizimit e të shpenzimeve përkatëse, e cila regjistrohet në ASHK që në momentin e lidhjes, së bashku me dosjen e privatizimit.

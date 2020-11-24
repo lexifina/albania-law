@@ -1,0 +1,1 @@
+25. Në rastin kur objekti i kthyer në fond banese është përshtatur me fondet e vetë banorëve, procedura e privatizimit kryhet vetëm për pjesën e objektit që përputhet me kufijtë e objektit origjinal, sipas certifikatës së pronësisë.

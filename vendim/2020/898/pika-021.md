@@ -1,0 +1,1 @@
+21. Kur përfituesit nga privatizimi refuzojnë që të paguajnë vlerën e privatizimit të banesës ose të objektit të kthyer në banesë, humbasin të drejtën e privatizimit dhe marrëdhënia e tyre vazhdon me statusin e qiramarrësit.

@@ -1,0 +1,1 @@
+27. Afati brenda të cilit përfituesit duhet të lidhin kontratat e privatizimit, për objektet që janë në administrim të EKB-së ose të njësisë së vetëqeverisjes vendore, është deri në 2 (dy) vjet nga pajisja e tyre me certifikatën e pronësisë dhe, për ato që certifikata e pronësisë ka dalë para këtij vendimi, afati dyvjeçar fillon nga hyrja në fuqi e këtij vendimi.

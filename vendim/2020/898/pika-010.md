@@ -1,0 +1,9 @@
+10. Privatizimi sipas këtij vendimi nuk kryhet:
+a) nëse objekti është shembur ose është i pabanueshëm;
+b) nëse nga përshtatjet ka ndryshuar tërësisht planimetria dhe struktura origjinale e objekteve, aq sa nuk ekzistojnë më elementet ndërtimore të objektit fillestar;
+c) kur trualli nën objekt është në pronësi të subjekteve të shpronësuara, të cilave u është njohur e drejta e parablerjes kur ato të privatizohen, sipas nenit 22, të ligjit nr. 133/2015, dhe kanë përfituar nga kjo e drejtë, duke mos hequr dorë nga e drejta e parablerjes;
+ç) kur me vërtetim të ASHK-së rezulton se familja/individi disponojnë njësi banimi në territorin e njësisë së vetëqeverisjes vendore, ku banojnë aktualisht, si dhe nga vendi i origjinës, të cilën e kanë përfituar më parë nga privatizimi i banesave ose nga programe të strehimit social;
+d) kur personat që banojnë në banesë nuk kanë asnjë dokumentacion që parashikohet në nënndarjen “ii”, të shkronjës “b”, të pikës 7, të këtij vendimi, që të provojë të drejtën e tyre të përdorimit të objektit, të tilla si: autorizim nga organet kompetente, procesverbal për marrjen në dorëzim, kontratë qiraje apo çdo dokument tjetër që tregon se ata kanë pasur të drejtën të banojnë në objektin përkatës, ose nuk marrin konfirmimin nga këshilli i njësisë së vetëqeverisjes vendore dhe nga EKB-ja, sipas parashikimit të pikës 8, të këtij vendimi;
+dh) nëse objekti rezulton i pakthyer në fond banese nga njësia e vetëqeverisjes vendore, në juridiksionin territorial të së cilës ndodhet objekti ose nuk ka kaluar në pronësi të EKB-së, ose të njësisë së vetëqeverisjes vendore;
+e) kur subjekti, pavarësisht nga e drejta për të lidhur kontratë privatizimi, refuzon në formë të shprehur ose të dokumentuar, të lidhë kontratë privatizimi;
+ë) kur subjektet janë në konflikt gjyqësor, pasi kanë pretendime mbi të njëjtin objekt ose banesë, deri në marrjen e vendimit të formës së prerë.

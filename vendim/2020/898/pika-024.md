@@ -1,0 +1,1 @@
+24. Në rastin kur familja ka përshtatur objektin për banesë me fondet e veta, në vlerën e privatizimit nuk përfshihet vlera e objektit (Vb). Me përshtatje të objektit, sipas kësaj pike, kuptohen punime të kryera brenda perimetrit të objektit ekzistues, sipas njollës së regjistruar në regjistrat e kadastrës.

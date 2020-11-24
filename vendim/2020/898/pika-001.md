@@ -1,0 +1,5 @@
+1. Qëllimi i këtij vendimi është finalizimi i procedurave të privatizimit të objekteve të paprivatizuara për:
+a) banesat e ndërtuara me fonde publike nga Enti Kombëtar i Banesave (në vijim EKB-ja), pavarësisht nëse kanë kaluar ose jo në pronësi të njësive të vetëqeverisjes vendore ku ato ndodhen, të cilat, deri në fund të vitit 2007, kanë rezultuar me kontrata të palidhura, si dhe banesat e ndërtuara me fonde publike nga EKB-ja, që rezultojnë me kontrata të zgjidhura e të liruara me vendim gjykate;
+b) banesat dhe objektet e kthyera në fond banese, që, me vendime të Këshillit të Ministrave, i kanë kaluar në administrim EKB-së, me qëllim privatizimin e tyre;
+c) banesat ose objektet e kthyera në fond banese me vendime të organeve të vetëqeverisjes vendore, ato që kanë kaluar në pronësi të njësive të vetëqeverisjes vendore, si dhe ato që figurojnë ende në pronësi të shtetit, ku, me autorizime të dhëna nga organet kompetente, janë sistemuar me strehim banorët përpara vitit 2004;
+ç) objektet që kanë mbetur të lira nga ristrukturimi i Forcave të Armatosura, përveç rasteve kur me ligj të veçantë janë përcaktuar procedura të tjera për privatizimin e tyre.

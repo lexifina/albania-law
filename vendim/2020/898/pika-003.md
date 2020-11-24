@@ -1,0 +1,1 @@
+3. Rastet e privatizimit të banesave ose të objekteve të kthyera në fond banese në favor të familjeve/individëve që përfitojnë nga ky vendim do të konsiderohen në kuadrin e programit të banesave me kosto të ulët, e familjet/individët që përfitojnë nga këto privatizime do të gëzojnë të gjitha lehtësitë që parashikon ligji sipas kategorive të përfituesve.
