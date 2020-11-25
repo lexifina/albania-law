@@ -1,0 +1,1 @@
+4. Tarifat e shërbimeve publikohen në faqen zyrtare të internetit të Institutit të Statistikave dhe bëhen të aksesueshme lehtësisht nga të interesuarit. Masa e tarifave të shërbimeve është variabël dhe përcaktohet rast pas rasti, sipas elementeve të kostos së vendosur për çdo shërbim në aneksin 1.

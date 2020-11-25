@@ -1,0 +1,1 @@
+6. Përveç rasteve kur përcaktohet ndryshe në kontratën për kryerjen e shërbimit statistikor, INSTAT-i e kryen shërbimin për llogari të të interesuarit vetëm pas paraqitjes së kërkesës dhe mandatit të arkëtimit për shërbimin.

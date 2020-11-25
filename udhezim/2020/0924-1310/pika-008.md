@@ -1,0 +1,1 @@
+8. Të ardhurat nga tarifat e mbledhura shpërndahen brenda vitit të krijimit të tyre, sipas propozimit të bordit drejtues, mbështetur në pikën “dh”, të nenit 20, të ligjit nr. 17/2018, “Për statistikat zyrtare”.
