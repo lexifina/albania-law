@@ -1,0 +1,1 @@
+2. Masa e kompensimit është 67 346,4 (gjashtëdhjetë e shtatë mijë e treqind e dyzet e gjashtë presje katër) m² dhe vlera e përgjithshme e kompensimit financiar është 597 547 093 (pesëqind e nëntëdhjetë e shtatë milionë e pesëqind e dyzet e shtatë mijë e nëntëdhjetë e tre) lekë, sipas shtojcës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
