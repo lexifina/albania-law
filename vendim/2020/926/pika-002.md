@@ -1,0 +1,1 @@
+2. Efekti financiar, sipas pikës 1 të këtij vendimi, të përballohet nga pakësimi i fondeve korrente për disa ministri dhe institucione buxhetore, sipas tabelës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
