@@ -1,0 +1,1 @@
+1. Në grupin buxhetor nr. 63 “Institucionet e sistemit të drejtësisë”, në programin “Veprimtaria e apelimit të rivlerësimit kalimtar”, shtohet fondi prej 4 000 000 (katër milionë) lekësh, në zërin shpenzime personeli.

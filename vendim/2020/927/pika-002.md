@@ -1,0 +1,1 @@
+2. Në grupin buxhetor nr. 63 “Institucionet e sistemit të drejtësisë”, në programin “Veprimtaria e Inspektorit të Lartë të Drejtësisë”, pakësohet fondi prej 4 000 000 (katër milionë) lekësh, në zërin shpenzime personeli.
