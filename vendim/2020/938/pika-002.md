@@ -1,0 +1,1 @@
+2. Përcaktimin e Ministrisë së Brendshme si autoritet kontraktues për të ndërmarrë e zhvilluar procedurat për dhënie me koncesion/partneritet publik privat të shërbimit për prodhimin e shpërndarjen e dokumenteve biometrike të identifikimit.
