@@ -1,1 +1,0 @@
-10. Bëjnë përjashtim nga konfirmimi i adresës, nëpërmjet shërbimit postar, rastet kur shtetasi plotëson dhe dorëzon formularin me paraqitjen e tij fizike pranë nëpunësit përgjegjës dhe, bashkë me formularin, paraqet çdo dokument ligjor, i cili provon adresën e tij, të njohur nga autoritetet e vendit ku jeton.

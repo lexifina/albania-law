@@ -1,1 +1,0 @@
-8. Në rastet kur aplikimi i formularit plotësohet në mënyrë manuale, nëpunësi përgjegjës kryen veprimet për identifikimin dhe regjistrimin e adresës në programin e regjistrimit të adresës, sipas manualit të miratuar nga ministri që mbulon shërbimin e gjendjes civile.

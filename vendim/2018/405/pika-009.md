@@ -1,1 +1,0 @@
-9. Nëpunësi përgjegjës, pasi merr formularin e aplikimit në një nga format e parashikuara në këtë vendim dhe pasi ka kryer veprimet sipas pikës 8 të këtij vendimi, përgatit praktikën për konfirmim të adresës nëpërmjet shërbimit postar.

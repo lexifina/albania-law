@@ -1,1 +1,0 @@
-11. Në rastet kur adresa konfirmohet nëpërmjet shërbimit postar, nëpunësi përgjegjës kryen veprimet përfundimtare për regjistrimin e adresës së shtetasve, të cilët janë deklaruar në formular dhe janë verifikuar si pjesëtarë të familjes së deklaruesit, sipas manualit të miratuar për këtë qëllim.
