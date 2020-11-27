@@ -1,0 +1,27 @@
+{
+  "qbz_id": 55906,
+  "title": "PËR LICENCIMIN E SHA UJËSJELLËS KANALIZIME PATOS",
+  "type": "Vendim",
+  "number": "3",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2017-02-03",
+  "version_no": 1,
+  "qbz_version_id": 3743,
+  "in_force": "2020-11-27",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2020-11-27",
+  "changed_by_qbz_id": 22473,
+  "changed_by_number": "139",
+  "changed_by_title": "Për një ndryshim në vendimin e Komisionit Kombëtar Rregullator nr. 3, datë 3.2.2017, “Për licencimin e shoqërisë Ujësjellës-Kanalizime Patos sh.a.”",
+  "source": "https://qbz.gov.al/files/2a489956c07c5413ab2a56408031ede158dbd27941f9b97b50931881d5ea4927.docx",
+  "source_sha256": "2a489956c07c5413ab2a56408031ede158dbd27941f9b97b50931881d5ea4927",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55906",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/55906/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
