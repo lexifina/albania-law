@@ -1,0 +1,1 @@
+4. Shtetasit shqiptarë mbajnë përgjegjësi administrative për mospërmbushje të detyrimit ligjor të vetëdeklarimit të adresës së tyre dhe autoritetet përgjegjëse, në rast konstatimi të mospërmbushjes së këtij detyrimi, pezullojnë kryerjen e shërbimit të kërkuar, derisa shtetasi të përmbushë detyrimin ligjor të vetëdeklarimit të adresës.

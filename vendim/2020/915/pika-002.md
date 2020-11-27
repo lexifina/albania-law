@@ -1,0 +1,1 @@
+2. Në kuptim të këtij vendimi, “deklarues” konsiderohet çdo shtetas shqiptar me vendbanim të përhershëm jashtë vendit, që aplikon për deklarimin e vendbanimit të tij dhe marrjen e shërbimeve të ofruara.

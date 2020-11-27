@@ -1,0 +1,1 @@
+10. Në rast ndryshimi të adresës, shtetasi deklaron adresën e re brenda 60 (gjashtëdhjetë) ditëve nga data e lidhjes së kontratës së qirasë apo e shitblerjes së objektit të banimit, si dhe çdo dokument tjetër që provon ndryshimin e adresës.

@@ -1,0 +1,1 @@
+12. Vendimi nr. 405, datë 4.7.2018, i Këshillit të Ministrave, “Për miratimin e rregullave mbi detyrimin për vetëdeklarim të adresës nga shtetasit shqiptarë, që jetojnë jashtë territorit të Republikës së Shqipërisë dhe procedurave përkatëse që do të ndiqen për këtë qëllim”, shfuqizohet.

@@ -1,0 +1,1 @@
+6. Deklaruesi plotëson formularin e deklarimit të adresës me të dhënat e adresës së saktë në shtetin ku ka vendbanimin e përhershëm, për veten e tij dhe/ose edhe për anëtarët e së njëjtës certifikatë familjare, në rastin kur ata jetojnë me deklaruesin.

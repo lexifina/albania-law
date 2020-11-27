@@ -1,0 +1,2 @@
+3. Shtetasit shqiptarë me banim jashtë territorit të Republikës së Shqipërisë aplikojnë për plotësimin e formularit tip të vetëdeklarimit nëpërmjet shërbimit elektronik në portalin e-Albania, sipas procedurës së përcaktuar në manualin që i bashkëlidhet këtij vendimi.
+Forma dhe përmbajtja e formularit tip të vetëdeklarimit të adresës së shtetasve shqiptarë, të cilët jetojnë jashtë territorit të Republikës së Shqipërisë, miratohet me urdhër të përbashkët të ministrit të Brendshëm e të ministrit për Evropën dhe Punët e Jashtme.
