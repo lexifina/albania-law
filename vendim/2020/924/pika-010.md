@@ -1,0 +1,1 @@
+10. Struktura përkatëse e AKPA-së ia refuzon kërkesën për pajisje me leje pune të tipit “A/KL” punëmarrësit, i cili, megjithëse ka plotësuar dokumentacionin e kërkuar, vlerësohet se nuk plotëson kriteret e përcaktuara në pikat 1 e 8 të këtij vendimi.

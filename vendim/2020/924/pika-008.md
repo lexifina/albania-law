@@ -1,0 +1,1 @@
+8. Struktura përkatëse e AKPA-së, pas paraqitjes së kërkesës nga personat e përcaktuar në pikën 3, të këtij vendimi, verifikon të dhënat e punëdhënësit, të regjistruar në QKB, statusin “aktiv”, si dhe shlyerjen e detyrimeve lidhur me pagat e punonjësve, sigurimet shoqërore dhe shëndetësore nga ana e punëdhënësit, pranë të cilit do të punësohet i huaji.

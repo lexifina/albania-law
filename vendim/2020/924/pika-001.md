@@ -1,0 +1,1 @@
+1. Të huajit i jepet leje pune e tipit “A/KL”, për herë të parë, me një afat jo më pak se 1 (një) vit, si punonjës me kualifikim të lartë, nëse plotëson kriteret e përcaktuara në pikën 1, të nenit 98, të ligjit nr. 108/2013, “Për të huajt”, të ndryshuar.

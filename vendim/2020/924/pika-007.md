@@ -1,0 +1,1 @@
+7. Struktura përkatëse e AKPA-së, pasi shqyrton dokumentacionin e paraqitur dhe vlerëson se ai nuk është në përputhje me kërkesat e pikës 4, të këtij vendimi, brenda 5 (pesë) ditëve nga dita e aplikimit, i kërkon të huajit plotësimin e tij, brenda 10 (dhjetë) ditëve punë.

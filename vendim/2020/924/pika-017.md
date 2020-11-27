@@ -1,0 +1,1 @@
+17. Vendimi nr. 66, datë 12.2.2014, i Këshillit të Ministrave, “Për përcaktimin e kritereve, të dokumentacionit dhe të procedurës për pajisjen, refuzimin dhe anulimin e lejes së punës, si punonjës me kualifikim të lartë, të tipit ’A/KL’”, shfuqizohet.

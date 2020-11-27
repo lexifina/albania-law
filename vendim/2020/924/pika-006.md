@@ -1,0 +1,1 @@
+6. Kërkesa dhe dokumentacioni i përcaktuar në pikat 3 e 4, të këtij vendimi, i drejtohet strukturës përkatëse të Agjencisë Kombëtare të Punësimit dhe Aftësive (AKPA), në territorin e së cilës kryhet aktiviteti.

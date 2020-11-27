@@ -1,0 +1,1 @@
+15. I huaji, i cili pajiset për herë të parë me leje pune të tipit “A/KL”, para marrjes së lejes së punës, detyrohet të paguajë tarifën prej 6 000 (gjashtë mijë) lekësh. I huaji, të cilit i ripërtërihet leja e punës e tipit “A/KL”, para marrjes së kësaj lejeje të ripërtërirë, detyrohet të paguajë tarifën prej 3 000 (tre mijë) lekësh.
