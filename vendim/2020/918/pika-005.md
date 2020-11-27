@@ -1,0 +1,1 @@
+5. Shkëmbimi i pasurive private të llojit “ndërtesë” me një pasuri tjetër të paluajtshme në pronësi të shtetit, aktuale ose të ardhshme, të bëhet referuar legjislacionit në fuqi, cilësimeve në tabelën bashkëlidhur këtij vendimi, si dhe marrëveshjeve/kontratave që janë lidhur e do të lidhen ndërmjet Bashkisë Tiranë dhe qytetarëve që shprehin dakordësinë.

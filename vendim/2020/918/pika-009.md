@@ -1,0 +1,1 @@
+9. Afati i kryerjes së shpronësimit në vlerë monetare të jetë momenti i fillimit të realizimit të projektit. Afati i kryerjes së shkëmbimit të pronës private me një pronë shtetërore të ardhshme të jetë në përfundim të realizimit të projektit për zhvillimin në zonën e re për zhvillim në njësinë administrative Vaqarr, Bashkia Tiranë.
