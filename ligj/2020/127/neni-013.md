@@ -1,0 +1,4 @@
+# Neni 13
+Ndalime
+1. Personat, të cilët janë dënuar me vendim gjyqësor të formës së prerë për kryerjen e një krimi në fushën e terrorizmit, trafikimit të qenieve njerëzore, të lëndëve narkotike, të armëve, të lëndëve kimike dhe radioaktive, të kalimit të paligjshëm të kufirit, ose të transportit të kundërligjshëm të mjeteve monetare, nuk kanë të drejtë të drejtojnë ose të mbajnë në përdorim të çdo lloj forme mjete lundruese, objekt të këtij ligji. Përdoruesi i mjetit lundrues, përpara marrjes se kualifikimit të drejtimit të mjetit lundrues, objekt i këtij ligji, plotëson formularin e vetëdeklarimit, ku deklaron se nuk rezulton i dënuar për veprat e lartpërmendura. Formulari i vetëdeklarimit miratohet me urdhër të ministrit përgjegjës për transportin detar.
+2. Ndalohet përdorimi i mjeteve lundruese të paregjistruara.
