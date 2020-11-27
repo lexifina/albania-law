@@ -1,0 +1,1 @@
+1. Pranë Këshillit të Ministrave krijohet e funksionon Komiteti i Mbrojtjes Civile (në vijim, KMC), i cili është organi më i lartë, i përhershëm, përgjegjës për zbatimin e politikave për zvogëlimin e riskut nga fatkeqësitë dhe mbrojtjen civile në Republikën e Shqipërisë.

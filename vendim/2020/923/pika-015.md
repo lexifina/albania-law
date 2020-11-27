@@ -1,0 +1,1 @@
+15. Institucionet e strukturat vendore, që bashkëpunojnë me institucionet dhe strukturat qendrore dhe të tjera për mbrojtjen civile, janë komisionet e mbrojtjes civile në nivel qarku e bashkie, të cilat veprojnë nën drejtimin e prefektit të qarkut e të kryetarit të bashkisë.

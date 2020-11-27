@@ -1,0 +1,1 @@
+13. Institucionet dhe strukturat operacionale kryesore shtetërore, përgjegjëse për përballimin e emergjencave civile apo të fatkeqësive, janë ato të përcaktuara në lidhjen 1, që i bashkëlidhet këtij vendimi, të cilat angazhohen menjëherë me kërkesë të AKMC-së.

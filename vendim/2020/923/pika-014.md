@@ -1,0 +1,1 @@
+14. Për përballimin e emergjencave civile me specifika të veçanta, me kërkesë të AKMC-së, mund të angazhohen edhe autoritete e institucione të tjera shtetërore, përveç atyre të parashikuara në lidhjen 1 të këtij vendimi.

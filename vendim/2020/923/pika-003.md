@@ -1,0 +1,1 @@
+3. KMC-ja mblidhet, sa herë gjykohet e nevojshme nga kryetari i tij, për çështje që kanë të bëjnë me zbatimin e politikave në bashkërendimin e punës për zvogëlimin e riskut ndaj fatkeqësive dhe mbrojtjen civile. Të drejtën e propozimit për thirrjen e mbledhjes së KMC-së, përveç kryetarit të tij, e ka edhe çdo ministër, sipas fushës së përgjegjësisë dhe llojit të fatkeqësisë.

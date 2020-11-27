@@ -1,0 +1,1 @@
+12. Në situatat e emergjencave civile, komunikimi ndërinstitucional mbahet duke përdorur kanalet zyrtare të komunikimit. Në rastet e komunikimit verbal, sektorët për mbrojtjen civile pranë ministrive regjistrojnë dhe ruajnë përmbajtjen e bisedave, të njoftimeve apo të kërkesave të marra e të dhëna përmes përdorimit të mjeteve të teknologjisë së informacionit.

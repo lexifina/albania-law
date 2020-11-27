@@ -1,0 +1,1 @@
+16. Në përbërje të strukturës së administratës së prefektit funksionon Sektori i Planifikimit dhe Mbrojtjes Civile. Prefekti bashkërendon me bashkitë brenda territorit administrativ të tij për planifikimin pranë tyre të strukturave të përhershme të planifikimit e të mbrojtjes civile.

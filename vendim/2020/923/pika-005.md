@@ -1,0 +1,1 @@
+5. KMC-ja është autoriteti më i lartë i përhershëm që bashkërendon e koordinon veprimtaritë dhe aktivitetet ndërinstitucionale të institucioneve e të strukturave dhe të të gjitha subjekteve të përfshira në mbrojtjen civile.

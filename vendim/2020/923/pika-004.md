@@ -1,0 +1,1 @@
+4. KMC-ja zbaton politikat që kanë të bëjnë me vlerësimin e riskut nga fatkeqësitë në nivel qendror, Strategjinë Kombëtare për Zvogëlimin e Riskut nga Fatkeqësitë dhe Planin Kombëtar të Emergjencave Civile dhe, nëpërmjet ministrit përgjegjës për mbrojtjen civile, propozon ndryshime apo përditësime të tyre.

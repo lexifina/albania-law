@@ -1,0 +1,1 @@
+11. Sektorët për mbrojtjen civile në ministritë përkatëse aktivizojnë, me kërkesë të AKMC-së, kapacitetet e parashikuara për emergjencë civile, për të reaguar me shpejtësi dhe efektivitet në rastin më të parë të mundshëm, por asnjëherë më vonë se 2 (dy) orë.

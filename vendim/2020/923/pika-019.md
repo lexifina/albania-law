@@ -1,0 +1,2 @@
+19. Ngarkohen Ministria e Mbrojtjes, Ministria e Brendshme, Ministria për Evropën dhe Punët e Jashtme, Ministria e Financave dhe Ekonomisë, Ministria e Infrastrukturës dhe Energjisë, Ministria e Bujqësisë dhe Zhvillimit Rural, Ministria e Arsimit, Sportit dhe Rinisë, Ministria e Shëndetësisë dhe Mbrojtjes Sociale, Ministria e Turizmit dhe Mjedisit, Ministria e Drejtësisë, Ministria e Kulturës, Agjencia Kombëtare e Mbrojtjes Civile dhe të gjitha institucionet, sipas lidhjes 1, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

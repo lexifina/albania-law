@@ -1,0 +1,1 @@
+10. Sektorët për mbrojtjen civile pranë ministrive duhet të zbatojnë me shpejtësi dhe efektivitet kërkesat e Agjencisë Kombëtare të Mbrojtjes Civile për përballimin e emergjencave civile apo të fatkeqësive.
