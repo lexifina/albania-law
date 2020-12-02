@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është të rregullojë procesin e mbikëqyrjes së certifikatave të performancës së energjisë në ndërtesa, duke percaktuar kriteret dhe procedurat për mënyrën e përzgjedhjes dhe sasinë e certifikatave që do të verifikohen.
