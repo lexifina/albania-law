@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës të pezullojë të gjitha transaksionet me pasurinë e shpronësuar, deri në momentin kur do të realizohet procesi i hedhjes së gjurmës së projektit mbi hartat kadastrale dhe kalimi i pronësisë në favor të Bashkisë Pogradec.
