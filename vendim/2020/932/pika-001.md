@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Rikonstruksioni i rrugës së brendshme të kalasë së Ali Pashë Tepelenës dhe vazhdimi i shëtitores përgjatë hyrjes së kalasë së Ali Pashë Tepelenës”.
