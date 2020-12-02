@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohet procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale të regjistrimit, si dhe kalimi i pronësive në favor të shtetit, për pasuritë e shpronësuara.
