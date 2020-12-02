@@ -1,1 +1,3 @@
-4. Vlera e përgjithshme e shpronësimit prej 959 423 147.57 (nëntëqind e pesëdhjetë e nëntë milionë e katërqind e njëzet e tre mijë e njëqind e dyzet e shtatë pikë pesëdhjetë e shtatë) lekësh, të përballohet nga buxheti i miratuar për Ministrinë e Infrastrukturës dhe Energjisë, për vitet 2020-2021.
+4. Vlera e përgjithshme e shpronësimit prej 1 070 816 707.57 (një miliard e shtatëdhjetë milionë e tetëqind e gjashtëmbëdhjetë mijë e shtatëqind e shtatë pikë pesëdhjetë e shtatë) lekësh të përballohet:
+- 959 423 147.57 (nëntëqind e pesëdhjetë e nëntë milionë e katërqind e njëzet e tre mijë e njëqind e dyzet e shtatë pikë pesëdhjetë e shtatë) lekë, nga buxheti i miratuar për Ministrinë e Infrastrukturës dhe Energjisë, për vitet 2020-2021;
+- 111 393 560 (njëqind e njëmbëdhjetë milionë e treqind e nëntëdhjetë e tre mijë e pesëqind e gjashtëdhjetë) lekë, nga buxheti i miratuar për Autoritetin Rrugor Shqiptar.
