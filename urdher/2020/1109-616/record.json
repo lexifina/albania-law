@@ -1,0 +1,27 @@
+{
+  "qbz_id": 22229,
+  "title": "Për kufizimin e lëvizjes brenda vendit",
+  "type": "Urdhër",
+  "number": "616",
+  "institution": "Ministria e Shëndetësisë dhe Mbrojtjes Sociale",
+  "adopted": "2020-11-09",
+  "version_no": 1,
+  "qbz_version_id": 2639,
+  "in_force": "2020-12-02",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2020-12-02",
+  "changed_by_qbz_id": 67050,
+  "changed_by_number": "660",
+  "changed_by_title": "Për një ndryshim në urdhrin nr. 616, datë 9.11.2020, “Për kufizimin e lëvizjes brenda vendit”",
+  "source": "https://qbz.gov.al/files/08a97b3d84a27a278165909fa371c81f6523974d5278a66b4a21510437ddc081.docx",
+  "source_sha256": "08a97b3d84a27a278165909fa371c81f6523974d5278a66b4a21510437ddc081",
+  "official_record": "https://qbz.gov.al/api/v1/acts/22229",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/22229/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
