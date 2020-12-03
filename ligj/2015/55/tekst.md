@@ -4,7 +4,7 @@ Nr. 55/2015
 
 PËR INVESTIMET STRATEGJIKE NË REPUBLIKËN E SHQIPËRISË
 
-(Ndryshuar me ligjin nr. 67/2018, datë 4.10.2018; nr. 102/2018, datë 13.12.2018; nr. 89/2019,  datë 18.12.2019)
+(Ndryshuar me ligjin nr. 67/2018, datë 4.10.2018; nr. 102/2018, datë 13.12.2018; nr. 89/2019,  datë 18.12.2019, nr. 142/2020, datë 3.12.2020)
 
 (i përditësuar)
 
@@ -588,9 +588,9 @@ Neni 36
 
 Afati përfundimtar i paraqitjes së kërkesave
 
-(ndryshuar afati ligjor me ligjin nr. 67/2018, datë 4.10.2018; ndryshuar afati ligjor me ligjin nr. 89/2019, datë 18.12.2019)
+(ndryshuar afati ligjor me ligjin nr. 67/2018, datë 4.10.2018, nr. 89/2019, datë 18.12.2019, nr. 142/2020, datë 3.12.2020)
 
-Afati i fundit për paraqitjen e kërkesave nga subjektet investuese të interesuara për përfshirjen në procedurat për përfitimin e statusit “Investim/ investitor strategjik, procedurë e asistuar/e veçantë”, në zbatim të këtij ligji, është data 31 dhjetor 2020.
+Afati i fundit për paraqitjen e kërkesave nga subjektet investuese të interesuara për përfshirjen në procedurat për përfitimin e statusit “Investim/ investitor strategjik, procedurë e asistuar/e veçantë”, në zbatim të këtij ligji, është data 31 dhjetor 2021.
 
 Neni 37
 
