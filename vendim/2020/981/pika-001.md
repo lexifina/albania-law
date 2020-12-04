@@ -1,0 +1,1 @@
+1. Qendrës Kombëtare të Kinematografisë, në buxhetin e miratuar për vitin 2020, t’i transferohet fondi prej 10 000 000 (dhjetë milionë) lekësh, në formën e grantit për Akademinë e Filmit dhe Multimedias “Marubi”, për mbështetjen e veprimtarive krijuese.
