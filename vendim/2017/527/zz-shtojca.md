@@ -35,15 +35,13 @@ Reshat
 Xhizdari
 2739
 207
-Kullot ë
-410.00
+Kullotë
+341
 101
-41,271.4
-2
+34,325.74
 17,425.00
-58,696.42
 K-34-125- (135-B)
-ZVRPP konfirmon se pasuria ka kufizim
+ZVRPP-ja konfirmon se pasuria ka kufizim.
 Muharre
 m
 Reshat
@@ -128,20 +126,19 @@ Sulka
 2739
 130/5
 Arë
-92.00
+92
 69.8
 6,417.00
-66.00
+69
 140
-9,207.00
-15,624.00
+9,625.50
+16,042.50
 K-34-125- (119-C)
 ZVRPP konfirmon se pasuria ka
 kufizim
 Faik
 Sulka
-164,230.4
-0
+164,230.40
 164,230.40
 Përdoruesi likuidohet vetëm për
 kulturat
@@ -155,10 +152,10 @@ Arë
 142.00
 69.8
 9,904.50
-47.00
+93
 140
-6,556.50
-16,461.00
+12,973.50
+22,878.00
 K-34-125- (119-C)
 ZVRPP konfirmon se pasuria ka
 kufizim
@@ -215,14 +212,12 @@ Arë
 69.8
 24,761.2
 5
-310.00
+274
 140
-43,245.0
-0
-68,006.25
-K-34-125-
-(119-C)
-Konfirmuar nga ZVRPP
+38,223.00
+62,984.25
+K-34-125- (119-C)
+Konfirmuar nga ZVRPP-ja
 10
 Maria
 Rushan
@@ -256,15 +251,13 @@ Truall
 175.0
 135,625.
 00
-344.00
+367
 630
-216,720.
-00
+231,210
 9,300.00
 16,208,116.
 64
-16,569,761.
-64
+16,584,251.64
 CO-H-2
 ZVRPP konfirmon se mbi
 pasurinë është vendosur sekuestro konservative dhe kufizim
