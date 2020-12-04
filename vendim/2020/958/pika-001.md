@@ -1,0 +1,1 @@
+1. Ky vendim e shtrin fushën e zbatimit vetëm në ndërtesat dhe në njësitë e ndërtesave të referuara në pikën 1, të nenit 10, të ligjit nr. 116/2016, “Për performancën e energjisë së ndërtesave”, sipas kategorive të përcaktuara me ligj.
