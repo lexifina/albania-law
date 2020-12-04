@@ -4,7 +4,8 @@ Detyrat e bordit
 a) përcakton metodat për përmbushjen e detyrave të institutit;
 b) zgjedh, me shumicën e votave të anëtarëve të tij, drejtorin ekzekutiv të institutit;
 c) miraton planin vjetor të punës;
-ç) propozon në Këshillin e Ministrave strukturën, organikën dhe buxhetin vjetor të institutit;
+ç) propozon në Kuvendin e Shqipërisë strukturën dhe organikën e institucionit;
+ç/1) propozon në Këshillin e Ministrave buxhetin vjetor të institucionit;
 d) miraton rregulloren e funksionimit të institutit;
 dh) miraton planin vjetor të botimeve, publikimeve, dokumentarëve dhe veprimtarive të tjera përkujtimore;
 e) miraton përbërjen e këshillit shkencor të institutit, si organ këshillimor i bordit;
