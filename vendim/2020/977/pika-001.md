@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën prej 115 377 718 (njëqind e pesëmbëdhjetë milionë e treqind e shtatëdhjetë e shtatë mijë e shtatëqind e tetëmbëdhjetë) lekësh, për financimin e përgatitjes së shesheve të ndërtimit në bashkitë Kavajë dhe Krujë.

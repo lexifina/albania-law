@@ -1,0 +1,3 @@
+2. Efekti financiar, sipas pikës 1 të këtij vendimi, të përballohet nga pjesa e financuar nga grantet e fondit të rindërtimit, miratuar për vitin 2020, sipas detajimit të mëposhtëm:
+a) Bashkisë Kavajë i transferohet fondi prej 43 000 000 (dyzet e tre milionë) lekësh, për financimin e shembjeve të objekteve të pabanueshme të dëmtuara nga tërmeti i datës 26.11.2019 dhe transportimin e materialeve të dala nga shembja e tyre.
+b) Bashkisë Krujë i transferohet fondi prej 72 377 718 (shtatëdhjetë e dy milionë e treqind e shtatëdhjetë e shtatë mijë e shtatëqind e tetëmbëdhjetë) lekësh, për financimin e shembjeve të objekteve të pabanueshme të dëmtuara nga tërmeti i datës 26.11.2019 dhe transportimin e materialeve të dala nga shembja e tyre.
