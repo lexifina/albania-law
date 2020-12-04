@@ -1,0 +1,1 @@
+10. Thirrja për kandidatët e përmendur në shkronjat “ç” dhe “d”, të pikës 2, të këtij vendimi, publikohet në faqen zyrtare të Agjencisë Kombëtare për Rininë (AKR) për një periudhë prej 30 (tridhjetë) ditësh. Votimi përzgjedhës kryhet në formë elektronike në faqen zyrtare të AKR-së, brenda 10 (dhjetë) ditëve nga data e fillimit të procesit të votimit.

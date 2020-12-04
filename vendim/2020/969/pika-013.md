@@ -1,0 +1,1 @@
+13. KKR-ja mbështetet nga sekretariati teknik, i cili përbëhet nga tre anëtarë. Caktimi i anëtarëve të sekretariatit teknik e procedura e thirrjes së mbledhjes apo elemente të tjera për funksionimin e KKR-së përcaktohen në rregulloren e brendshme, e cila miratohet nga ministri përgjegjës për rininë.

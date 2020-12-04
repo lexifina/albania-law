@@ -1,0 +1,1 @@
+17. Anëtari i KKR-së, të cilit i është ndërprerë mandati apo është liruar nga detyra, zëvendësohet nga ministri përgjegjës për rininë me një kandidat që përmbush kriteret e përcaktuara në këtë vendim.

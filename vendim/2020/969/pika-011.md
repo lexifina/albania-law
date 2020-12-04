@@ -1,0 +1,1 @@
+11. KKR-ja mblidhet jo më pak se 2 (dy) herë në vit. Mbledhjet thirren e drejtohen nga kryetari. Sekretariati teknik njofton anëtarët e KKR-së, të paktën 7 (shtatë) ditë përpara datës së përcaktuar për mbledhjen.

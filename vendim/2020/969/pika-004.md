@@ -1,0 +1,1 @@
+4. Anëtari i KKR-së mund të japë dorëheqjen në çdo kohë, duke njoftuar me shkrim kryetarin. Anëtari i dorëhequr është i detyruar të përmbushë të gjitha detyrimet e lëna deri në miratimin e urdhrit të ndryshimit.
