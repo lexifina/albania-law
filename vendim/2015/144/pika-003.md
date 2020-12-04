@@ -1,3 +1,4 @@
-3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për tokë “arë”, “truall”, “ullishte (tokë bujqësore)” dhe “objekte”, me vlerë të përgjithshme shpronësimi 95 193 711 (nëntëdhjetë e pesë milionë e njëqind e nëntëdhjetë e tre mijë e shtatëqind e njëmbëdhjetë) lekë, nga të cilat:
-a) Për “arë”, “truall”, “ullishte (tokë bujqësore)”, me sipërfaqe shpronësimi 189 744 m2, në vlerën 67 912 764 (gjashtëdhjetë e shtatë milionë e nëntëqind e dymbëdhjetë mijë e shtatëqind e gjashtëdhjetë e katër) lekë;
-b) Për “objekte”, në vlerën 27 280 947 (njëzet e shtatë milionë e dyqind e tetëdhjetë mijë e nëntëqind e dyzet e shtatë) lekë.
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për tokë “arë”, “truall”, “ullishte (tokë bujqësore)”, “objekte” dhe “drufrutorë”, me vlerë të përgjithshme shpronësimi 95 728 711 (nëntëdhjetë e pesë milionë e shtatëqind e njëzet e tetë mijë e shtatëqind e njëmbëdhjetë) lekë, nga të cilat:
+a) për “arë”, “truall”, “ullishte (tokë bujqësore)”, me sipërfaqe shpronësimi 189 744 m2, në vlerën 67 912 764 (gjashtëdhjetë e shtatë milionë e nëntëqind e dymbëdhjetë mijë e shtatëqind e gjashtëdhjetë e katër) lekë;
+b) për “objekte”, në vlerën 27 280 947 (njëzet e shtatë milionë e dyqind e tetëdhjetë mijë e nëntëqind e dyzet e shtatë) lekë;
+c) për “drufrutorë”, në vlerën 535 000 (pesëqind e tridhjetë e pesë mijë) lekë.
