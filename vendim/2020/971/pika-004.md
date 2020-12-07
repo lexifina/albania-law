@@ -1,0 +1,1 @@
+4. Sistemet e teknologjisë së informacionit projektohen me arkitekturën (hardware dhe software), për të mundësuar komunikimin, administrimin dhe mirëmbajtjen, sipas nevojave specifike për çdo institucion të sistemit të drejtësisë.

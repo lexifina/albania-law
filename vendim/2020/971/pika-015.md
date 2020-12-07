@@ -1,0 +1,1 @@
+15. Institucionet e sistemit të drejtësisë hartojnë manuale të qarta dhe të kuptueshme për përdorimin e sistemeve, për çdo punonjës që do të ketë rol në përdorimin e sistemit të teknologjisë së informacionit.

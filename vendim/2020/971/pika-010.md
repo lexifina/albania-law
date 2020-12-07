@@ -1,0 +1,1 @@
+10. Institucionet e sistemit të drejtësisë, sipas kompetencave të tyre, marrin masa për sigurinë e sistemeve të teknologjisë së informacionit dhe mbrojtjen e të dhënave personale, duke analizuar periodikisht riskun për të gjitha aplikacionet kompjuterike, si dhe për mënyrën e administrimit të këtyre aplikacioneve dhe pajisjeve kompjuterike.

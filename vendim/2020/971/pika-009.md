@@ -1,0 +1,1 @@
+9. Projektet e teknologjisë së informacionit përmbushin nevojat e sigurisë teknike dhe operative për çdo institucion të drejtësisë, veçanërisht për sigurinë kibernetike, integritetin, paprekshmërinë dhe mbrojtjen e sistemeve dhe të bazave të të dhënave shtetërore.

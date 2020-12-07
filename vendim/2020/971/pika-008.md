@@ -1,0 +1,1 @@
+8. Institucionet e sistemit të drejtësisë bashkëpunojnë me institucionet përgjegjëse shtetërore, lidhur me aspektet me ndikim buxhetor, për të siguruar planifikim financiar të qëndrueshëm, për sistemin e teknologjisë së informacionit.

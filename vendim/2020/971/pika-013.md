@@ -1,0 +1,1 @@
+13. Bashkëpunimi institucional, përmes Qendrës së Teknologjisë së Informacionit për Sistemin e Drejtësisë, garanton koordinimin dhe mbështetjen administrative, financiare e logjistike, si dhe funksionimin e sigurt dhe efektiv të sistemit të teknologjisë së informacionit të institucioneve të sistemit të drejtësisë.

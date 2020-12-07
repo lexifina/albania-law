@@ -1,0 +1,1 @@
+14. Institucionet e sistemit të drejtësisë marrin masa për të rekrutuar personel të kualifikuar dhe që i nënshtrohet trajnimeve të vazhdueshme, për qëllime të garantimit e ruajtjes së integritetit, të disponueshmërisë dhe të konfidencialitetit të të dhënave që përmban sistemi i teknologjisë.

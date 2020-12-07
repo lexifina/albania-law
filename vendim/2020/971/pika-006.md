@@ -1,0 +1,1 @@
+6. Sistemet elektronike të teknologjisë së informacionit dizajnohen, programohen dhe ndërtohen për të siguruar prodhimin e statistikave nëpërmjet mbledhjes së të dhënave rreth funksionimit të institucioneve të drejtësisë, me fokus eficiencën dhe llogaridhënien e tyre.

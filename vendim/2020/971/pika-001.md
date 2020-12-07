@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për politikat e përgjithshme shtetërore për sistemin e teknologjisë së informacionit, për sistemin e drejtësisë, në respektim të parimit të ndarjes së pushteteve dhe garantimin e pavarësisë së institucioneve të drejtësisë.
