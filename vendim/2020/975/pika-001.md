@@ -1,0 +1,1 @@
+1. Kudo në vendim, fjalët “Kopjen e lejes së mjedisit të tipit “A”, “B” ose “C”, sipas përcaktimit në ligjin nr. 10448, datë 14.7.2011, “Për lejet e mjedisit”, të ndryshuar”, zëvendësohen me fjalët “Kopjen e lejes së mjedisit të tipit “A” ose “B”, nëse aktiviteti është i përcaktuar në shtojcën 1, të ligjit nr. 10448, datë 14.7.2011, “Për lejet e mjedisit”, të ndryshuar.”.
