@@ -1,0 +1,1 @@
+24. Këshilli i Lartë Gjyqësor është përgjegjës për zbatimin e rregullave të menaxhimit financiar në qendër, në përputhje me parashikimet e legjislacionit në fuqi për sistemin buxhetor në Republikën e Shqipërisë.

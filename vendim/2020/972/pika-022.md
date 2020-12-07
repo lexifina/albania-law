@@ -1,0 +1,1 @@
+22. Vula e qendrës ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave për rregullat e prodhimit, të administrimit, të kontrollit e të ruajtjes së vulave zyrtare. Vula prodhohet, administrohet e ruhet në përputhje me legjislacionin në fuqi.

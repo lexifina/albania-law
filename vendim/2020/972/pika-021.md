@@ -1,0 +1,1 @@
+21. Qendra ka stemën, logon dhe vulën zyrtare. Stema përbëhet nga stema e Republikës së Shqipërisë, me shënimet: “Republika e Shqipërisë, Qendra e Teknologjisë së Informacionit për Sistemin e Drejtësisë”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

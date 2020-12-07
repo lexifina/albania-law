@@ -1,0 +1,1 @@
+25. Ngarkohen, përkatësisht, kryetari i Këshillit të Lartë Gjyqësor, kryetari i Këshillit të Lartë të Prokurorisë dhe Prokurori i Përgjithshëm për organizimin e procesit të përzgjedhjes së anëtarëve fundorë, sipas parashikimit të pikës 9, të këtij vendimi.

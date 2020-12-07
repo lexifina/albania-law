@@ -1,0 +1,1 @@
+2. Qendra është institucion publik buxhetor, që gëzon personalitet juridik, me seli në Tiranë. Qendra ngrihet dhe funksionon pranë Këshillit të Lartë Gjyqësor, i cili siguron ambientet e përshtatshme të punës për të. Funksionet mbështetëse horizontale administrative, financiare e logjistike kryhen për qendrën nga Këshilli i Lartë Gjyqësor.
