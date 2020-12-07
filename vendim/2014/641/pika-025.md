@@ -1,5 +1,9 @@
 25. Personi, që kërkon të pajiset me autorizim për kalimin transit të mbetjeve jo të rrezikshme dhe mbetjeve inerte nëpër territorin e Republikës së Shqipërisë, përgatit dhe dorëzon në ministrinë përgjegjëse për mjedisin dokumentet e mëposhtme:
-a) Kërkesën, në të cilën shprehen qartë të dhënat personale dhe juridike të kërkuesit dhe bëhet një përshkrim i shkurtër i mbetjeve që do të transitohen, ku të përcaktohen lloji, sasia, vendi ku e merr, pika kufitare e hyrjes dhe daljes nga territori i Republikës së Shqipërisë, shtetet nëpër të cilat do të kalojë, mjeti me të cilin do të transportojë mbetjet.
-b) Kopjen e përkthyer dhe të noterizuar në gjuhën shqipe të kontratës së lidhur midis personit që eksporton dhe personit që merr në dorëzim mbetjet për menaxhimin e integruar të tyre.
-c) Formularin e plotësuar, sipas aneksit 3 bashkëlidhur këtij vendimi.
+a) Kërkesën, në të cilën shprehen dhe përcaktohen qartë:
+i. të dhënat e personit fizik/tregtarit apo të personit juridik;
+ii. një përshkrim i shkurtër i mbetjeve që do të tranzitohen, ku të përcaktohen lloji mbetjeve, sipas kodit tarifor, dhe sasia, e cila duhet të jetë në përputhje me sasinë e përcaktuar në kontratën e lidhur ndërmjet palëve dhe me pikën 3 të formularit, sipas aneksit 3, bashkëlidhur këtij vendimi;
+iii. vendi nga i cili merret sasia e mbetjeve;
+iv. pika kufitare e hyrjes dhe e daljes nga territori i Republikës së Shqipërisë, si dhe shtetet nëpër të cilat do të kalojë mjeti me të cilin do të transportohen mbetjet.
+b) Kopjen e noterizuar të përkthimit në gjuhën shqipe të kontratës së lidhur ndërmjet personit fizik/tregtarit apo personit juridik dhe atij që merr në dorëzim mbetjet për menaxhimin e integruar të tyre. Kontrata të jetë efektive që nga data e aplikimit për autorizimin për eksport deri në përfundim të vlefshmërisë së autorizimit, për të gjithë kohëzgjatjen e transfertave të mbetjeve. Në kontratën e lidhur ndërmjet palëve të përcaktohet sasia e mbetjeve që do të eksportohet.
+c) Formularin e plotësuar, sipas aneksit 3, bashkëlidhur këtij vendimi, ku tregohet edhe sasia e mbetjeve për t’u eksportuar, siç përcaktohet në kontratën sipas shkronjës “b”. Formulari të përmbajë, në hapësirat përkatëse, firmën dhe vulën origjinale të personit fizik/tregtarit apo të administratorit të personit juridik.
 ç)Faturën (mandat-arkëtimi) që provon se ka paguar tarifën e shërbimit në llogarinë bankare të Ministrisë, në shumën 20 000 (njëzet mijë) lekë, e cila është e pakthyeshme.
