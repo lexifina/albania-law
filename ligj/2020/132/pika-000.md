@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 31, datë 7.10.2020, “Për faljen e masave administrative me karakter ndëshkues të vendosura gjatë periudhës së infeksionit të shkaktuar nga COVID-19 dhe familjeve të dëmtuara nga fatkeqësitë natyrore”.
