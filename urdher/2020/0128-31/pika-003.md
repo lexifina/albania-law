@@ -1,0 +1,2 @@
+3. Për zbatimin e këtij urdhri ngarkohen Sekretari i Përgjithshëm i Ministrisë së Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme Rregullatore dhe e Përputhshmërisë për Arsimin, Sportin dhe Rininë, Drejtoria e Përgjithshme e Politikave dhe Zhvillimit të Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme e Arsimit Parauniversitar, drejtoritë rajonale të arsimit parauniversitar, zyrat vendore të arsimit parauniversitar dhe institucionet e arsimit parauniversitar publike dhe private.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
