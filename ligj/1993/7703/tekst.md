@@ -4,7 +4,7 @@ Nr. 7703, datë 11.05.1993
 
 PËR SIGURIMET SHOQËRORE NË REPUBLIKËN E SHQIPËRISË
 
-(Ndryshuar me ligjet: nr. 7932, datë 17.05.1995; nr. 8286, datë 16.02.1998; nr. 8392, datë 02.09.1998; nr. 8575, datë 03.02.2000; nr. 8776, datë 26.04.2001; nr. 8852, datë 27.12.2001; nr. 8889, datë 25.04.2002; nr. 9058, datë 20.03.2003; nr. 9114, datë 24.07.2003;nr. 9377, datë 21.04.2005; nr. 9498, datë 03.04.2006; nr. 9600, datë 27.07.2006; nr. 9708, datë 05.04.2007; nr. 9768, datë 09.07.2007; nr. 10070, datë 05.02.2009; nr. 10447, datë 14.07.2011; nr. 13/2014, datë 13.2.2014; nr. 104/2014, datë 31.07.2014, nr. 144/2015, datë 17.12.2015;  nr. 111/2016, datë 3.11.2016; aktin normativ nr. 1, datë 25.1.2017; aktin normativ nr. 7, datë 30.11.2019, ndryshuar me ligjin nr. 65/2020, datё 21.5.2020)
+(Ndryshuar me ligjet: nr. 7932, datë 17.05.1995; nr. 8286, datë 16.02.1998; nr. 8392, datë 02.09.1998; nr. 8575, datë 03.02.2000; nr. 8776, datë 26.04.2001; nr. 8852, datë 27.12.2001; nr. 8889, datë 25.04.2002; nr. 9058, datë 20.03.2003; nr. 9114, datë 24.07.2003;nr. 9377, datë 21.04.2005; nr. 9498, datë 03.04.2006; nr. 9600, datë 27.07.2006; nr. 9708, datë 05.04.2007; nr. 9768, datë 09.07.2007; nr. 10070, datë 05.02.2009; nr. 10447, datë 14.07.2011; nr. 13/2014, datë 13.2.2014; nr. 104/2014, datë 31.07.2014, nr. 144/2015, datë 17.12.2015;  nr. 111/2016, datë 3.11.2016; aktin normativ nr. 1, datë 25.1.2017; aktin normativ nr. 7, datë 30.11.2019, ndryshuar me ligjin nr. 65/2020, datё 21.5.2020, aktin normativ nr. 33, datë 11.12.2020)
 
 (I përditësuar)
 
@@ -147,6 +147,16 @@ Pensionistët, që kanë humbur pjesëtarë të familjes si pasojë e fatkeqësi
 Pensionistët, që kanë humbur të gjithë pjesëtarët e familjes, përfitojnë vetëm trajtimin në masën e trembëdhjetëfishit të pensionit social.
 
 Trajtimi i veçantë financiar caktohet me vendim individual të Këshillit të Ministrave dhe financohet nga buxheti i shtetit.
+
+Neni 5/1/b
+
+Trajtim i veçantë familjar
+
+(Shtuar me aktin normative nr. 33, datë 11.12.2020[^fn2])
+
+Familja, e cila ka humbur aksidentalisht pjesëtarë të saj, si pasojë e veprimeve të kryera gjatë ushtrimit të detyrës nga punonjës të organeve ligjzbatuese, përfiton trajtim të veçantë financiar deri në masën e tetëfishit të pensionit social.
+
+Trajtimi i veçantë financiar dhe anëtari që përfiton në emër të familjes, përcaktohet me vendim individual të Këshillit të Ministrave dhe financohet nga buxheti i shtetit.
 
 Neni 5/2
 
@@ -1771,3 +1781,7 @@ Në ato nene të ligjit:
 Shpallur më dekretin nr. 542, datë 03.06.1993 të Presidentit të Republikës së Shqipërisë, Sali
 
 Berisha.
+
+---
+
+[^fn2]: Akti normativ nr. 33, datë 11.12.2020 është miratuar me ligjin 161/2020, datë 23.12.2020.
