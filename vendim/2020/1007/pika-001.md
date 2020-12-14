@@ -1,0 +1,1 @@
+1. Dhënien e trajtimit të veçantë familjes të të ndjerit Klodian Rasha, i cili, në datën 8.12.2020, humbi jetën aksidentalisht, si pasojë e veprimeve policore, në masën e tetëfishit të pensionit social, të miratuar sipas ligjit nr. 7703, datë 11.5.1993.
