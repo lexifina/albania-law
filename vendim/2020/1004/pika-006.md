@@ -1,0 +1,1 @@
+6. Strukturat përgjegjëse për faunën monitorojnë nëse marrja në mjedisin natyror të ekzemplarëve të llojeve të faunës së egër dhe shfrytëzimi i tyre janë në përputhje me pagesën e kryer nga subjektet e parashikuara në pikën 2, të këtij vendimi.

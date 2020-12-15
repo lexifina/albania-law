@@ -1,0 +1,1 @@
+3. Pagesa e tarifës së përdorimit të faunës së egër kryhet në llogarinë bankare të ministrisë përgjegjëse për mjedisin dhe derdhet në llogarinë e unifikuar të thesarit. Të ardhurat e krijuara nga tarifat e përdorimit të faunës së egër derdhen 100% në buxhetin e shtetit dhe shpenzohen si pjesë e totalit të të ardhurave të këtij buxheti.

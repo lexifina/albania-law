@@ -1,0 +1,1 @@
+1. Miratimin e masës së tarifës, sipas llojeve të përdorimit të faunës së egër, të përcaktuara në pikën 1, të nenit 21, të ligjit nr. 10006, datë 23.10.2008, “Për mbrojtjen e faunës së egër”, të ndryshuar, sipas shtojcës 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
