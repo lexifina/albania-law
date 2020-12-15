@@ -1,1 +1,0 @@
-2. Tarifat e përdorimit të ujit, të parashikuara në tabelën nr. 1, bashkëlidhur vendimit, janë 0, kur në kontratën e koncesionit për hidrocentrale, të lidhur nga autoriteti përkatës kontraktor, është parashikuar pagimi i tarifës së koncesionit nga ana e koncesionarit.
