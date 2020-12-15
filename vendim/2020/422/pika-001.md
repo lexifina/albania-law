@@ -1,10 +1,10 @@
 1. Grupi Negociator, përgjegjës për zhvillimin e procesit teknik të negociatave të aderimit me institucionet e Bashkimit Evropian, i ngritur me vendimin nr.749, datë 19.12.2018, të Këshillit të Ministrave, “Për krijimin, organizimin dhe funksionimin e strukturës shtetërore, përgjegjëse për zhvillimin e negociatave dhe lidhjen e traktatit të aderimit të Republikës së Shqipërisë në Bashkimin Evropian”, në kryerjen e detyrave të parashikuara në pikën 3, të kreut V, të vendimit të sipërpërmendur, përbëhet nga:
 - Z. Zef Mazi, Kryenegociator;
-- Znj. Fjoralba Caka, zëvendësministër i Drejtësisë, negociator përgjegjës për kriteret politike dhe kapitulin 23 të legjislacionit të Bashkimit Evropian;
+- Znj. Adea Pirdeni, zëvendësministër i Drejtësisë, negociator përgjegjës për kriteret politike dhe kapitulin 23 të legjislacionit të Bashkimit Evropian;
 - Znj. Romina Kuko, zëvendësministër i Brendshëm, negociator përgjegjës për kapitullin 24;
 - Z. Sokol Dedja, zëvendësministër për Evropën dhe Punët e Jashtme, negociator përgjegjës për kapitujt 22 dhe 31 të legjislacionit të Bashkimit Evropian;
 - Znj. Adela Xhemali, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kriteret ekonomike dhe kapitullin 33;
-- Znj. Belinda Ikonomi, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kapitujt 1, 3, 7, 20, 28 dhe 30;
+- Z. Besart Kadia, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kapitujt 1, 3, 7, 20, 28 dhe 30;
 - Znj. Dajna Sorensen, zëvendësministër i Financave dhe Ekonomisë, negociator për kapitujt 2 dhe 19;
 - Znj. Vasilika Vjero, zëvendësministër i Financave dhe Ekonomisë, negociator për kapitujt 6, 16, 29 dhe 32;
 - Z. Ilir Bejtja, zëvendësministër i Infrastrukturës dhe Energjisë, negociator për kapitujt 10, 14, 15 dhe 21;
