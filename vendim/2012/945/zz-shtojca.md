@@ -7,7 +7,7 @@ Dispozita të përgjithshme
 Neni 1
 Qëllimi i administrimit të sistemit të bazave të të dhënave shtetërore
 1. Qëllimi i administrimit të sistemit të bazave të të dhënave shtetërore është garantimi i transparencës së administratës shtetërore, ofrimi i informacionit dhe i shërbimeve të qeverisjes elektronike, si dhe ndërveprimi midis bazave të të dhënave shtetërore.
-2. Kjo rregullore nuk zbatohet për ato baza të dhënash që ruajnë dhe/ose përpunojnë informacion të klasifikuar “sekret shtetëror”.
+2. Kjo rregullore zbatohet për bazat e të dhënave që ruajnë dhe/ose përpunojnë informacion të klasifikuar “sekret shtetëror”, në përputhje me legjislacionin në fuqi për informacionin e klasifikuar “sekret shtetëror”, duke përjashtuar institucionet e inteligjencës.
 Neni 2
 Fusha e zbatimit
 Kjo rregullore përcakton:
@@ -71,6 +71,9 @@ Bazat e të dhënave shtetërore që i nënshtrohen regjistrimit në ARK
 a) çdo institucion publik;
 b) çdo person juridik privat, që ushtron funksion publik, në përputhje me legjislacionin në fuqi.
 2. Bazat e të dhënave të regjistruara në ARK ndahen sipas rëndësisë dhe shkallës së përdorimit.
+Neni 8/1
+Krijimi dhe regjistrimi i bazës së të dhënave shtetërore
+Çdo institucion publik, i cili administron vetë ose nëpërmjet palëve të treta një bazë të dhënash shtetërore dhe është rregullator epror i sektorit përkatës, dhe çdo person juridik publik dhe privat, që ushtron funksion publik, nxjerr aktin e krijimit të bazës së të dhënave shtetërore, në përputhje me nenin 4, të ligjit nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, brenda 90 (nëntëdhjetë) ditëve nga dita e parë e mbledhjes së të dhënave në mënyrë manuale.
 Neni 9
 Regjistrimi i bazës së të dhënave shtetërore dhe regjistrimi i ndryshimeve në përbërjen e të dhënave të mbledhura në bazat e të dhënave shtetërore
 1. Regjistrimi i bazës së të dhënave shtetërore ose regjistrimi i ndryshimeve në përbërjen e të dhënave të mbledhura në bazën e të dhënave shtetërore, duhet të kryhet pranë ARK-së brenda 20 ditëve nga hyrja në fuqi e legjislacionit përkatës për krijimin e bazës së të dhënave shtetërore.
@@ -161,14 +164,16 @@ c) përshkrimin e termit;
 d) lidhjen e termit me termat e tjerë.
 Neni 14
 Korniza kombëtare e ndërveprimit
-1. Sistemi i ndërveprimit të bazave të të dhënave shtetërore koordinohet, zhvillohet dhe administrohet nga Autoriteti Rregullator Koordinues i bazave të të dhënave shtetërore.
+1. Ndërveprimi i bazave të të dhënave shtetërore koordinohet, zhvillohet dhe administrohet nga Autoriteti Rregullator Koordinues i bazave të të dhënave shtetërore.
 2. Korniza kombëtare e ndërveprimit hartohet nga ARK-ja, bazuar në rekomandimet e kornizës europiane të ndërveprimit dhe standardet ndërkombëtare.
+3. Çdo bazë e të dhënave shtetërore vendos në dispozicion të dhënat parësore në platformën e ndërveprimit dhe merr prej saj të dhëna dytësore të vendosura në dispozicion nga baza të tjera të të dhënave shtetërore, kur ato ekzistojnë, gjë që duhet të reflektohet dhe në strukturën e bazës së të dhënave.
 Neni 15
 Statistikat zyrtare
-ARK-ja bashkëpunon dhe siguron koordinimin ndërmjet institucionit administrues të bazës së të dhënave shtetërore e Institutit të Statistikave për nxjerrjen e statistikave, në përputhje me legjislacionin në fuqi.
 Neni 16
 Aksesi i të dhënave për publikun
-Duke mos cenuar dispozita të veçanta, të dhënat e ARK-së janë të aksesueshme për publikun nëpërmjet ndërfaqes së saj në internet. Aksesi në këto të dhëna rregullohet sipas ligjit “Për të drejtën e informimit për dokumentet zyrtare” dhe ligjit “Për mbrojtjen e të dhënave personale”.
+Neni 16/1
+Masat administrative për shkelje të rregullave të regjistrimit nga subjektet administruese të bazave të të dhënave
+Mosdorëzimi i dokumentit tekniko-ligjor brenda afatit të përcaktuar në këtë rregullore për regjistrimin e bazës së të dhënave ose regjistrimin e ndryshimeve të bazës së të dhënave shtetërore ekzistuese përbën kundërvajtje administrative dhe dënohet me gjobë, sipas parashikimit të pikës 1, të nenit 11, të ligjit nr. 10325, datë 23.9.2010, ’Për bazat e të dhënave shtetërore’.
 KAPITULLI V
 KLASAT DHE MASAT E SIGURISË
 Neni 17
@@ -236,6 +241,7 @@ a) 10 ditësh, me nivel sigurie “L”;
 b) 20 ditësh, me nivel sigurie “M”;
 c) 30 ditësh, me nivel sigurie “U”.
 Procesi i auditimit rifillon me përfundimin e afatit të mësipërm.
+5. Refuzimi i institucionit për të bashkëpunuar për përcaktimin e personit të kontaktit ose për kryerjen e auditimit përbën kundërvajtje administrative dhe dënohet me gjobë, sipas parashikimit të pikës 1, të nenit 11, të ligjit nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”.
 Neni 25
 Dokumentimi i procesit të auditimit
 1. Procesi i auditimit dokumentohet me procesverbal.
@@ -252,6 +258,7 @@ KAPITULLI VII
 DISPOZITA KALIMTARE
 Neni 27
 Regjistrimi i bazave të të dhënave shtetërore ekzistuese
-1. Institucionet, të cilat kanë krijuar dhe/ose janë në proces krijimi, të një, ose më shumë baza të dhënash shtetërore, brenda 180 ditëve nga miratimi i kësaj rregulloreje, duhet të dorëzojnë dokumentacionin për regjistrimin e bazës së të dhënave shtetërore pranë ARK-së.
+1. Institucionet, të cilat kanë krijuar dhe/ose janë në proces krijimi, të një ose më shumë bazash të dhënash shtetërore, nxjerrin aktin e krijimit të bazës së të dhënave shtetërore, në përputhje me nenin 4, të ligjit nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, brenda 90 (nëntëdhjetë) ditëve nga momenti i hyrjes në fuqi të këtij vendimi.
+1/1. Institucionet e përmendura në pikën 1, të këtij neni, brenda 20 (njëzet) ditëve nga miratimi i aktit të krijimit të bazës së të dhënave shtetërore, dorëzojnë dokumentacionin për regjistrimin e saj pranë ARK-së, në përputhje me nenin 9, të këtij vendimi.
 2. Miratimi i dokumentacionit dhe regjistrimi i bazave të të dhënave shtetërore ekzistuese do të kryhet nga ARK-ja brenda 120 ditëve nga momenti i dorëzimit pranë ARK-së të dokumentacionit të kërkuar.
 3. Përgatitja dhe miratimi i dokumentacionit për regjistrimin e bazës së të dhënave shtetërore do të kryhet në përputhje me nenet 6 deri 9 të kësaj rregulloreje.
