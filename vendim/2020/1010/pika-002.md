@@ -1,0 +1,3 @@
+2. Efekti financiar, sipas pikës 1, të këtij vendimi, të përballohet nga pjesa e financuar nga grantet e fondit të rindërtimit, miratuar për vitin 2020, dhe t’u kalojë bashkive Vorë dhe Kavajë, për financimin e rikonstruksionit të banesave individuale dhe të njësive të banimit në ndërtesa (pallat), për ata individë të cilët përfitojnë nga grantet e rikonstruksionit, banesat e të cilëve janë klasifikuar si objekte të dëmtuara rëndë apo të dëmtuara lehtë, si pasojë e fatkeqësisë natyrore, dhe që nuk duhen rindërtuar nga e para, si më poshtë vijon:
+a) Bashkisë Vorë i transferohet fondi prej 8 650 000 (tetë milionë e gjashtëqind e pesëdhjetë mijë) lekësh;
+b) Bashkisë Kavajë i transferohet fondi prej 39 150 000 (tridhjetë e nëntë milionë e njëqind e pesëdhjetë mijë) lekësh.
