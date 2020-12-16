@@ -1,0 +1,1 @@
+3. Autoriteti Kombëtar i Ushqimit të informojë rregullisht, Drejtorinë e Derregullimit, Lejeve, Licencave dhe Monitorimit për çdo ngarkesë të kafshëve të gjalla të llojit ruminantë, që vijnë nga vendet e sipërcituara në pikën 1.

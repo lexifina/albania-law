@@ -1,0 +1,1 @@
+4. Urdhri i ministrit nr. 451, i datës 28.10.2020, “Për disa masa mbrojtëse ndaj sëmundjes së gjuhës blu, të shfaqur në shtetin e Belgjikës, Bullgarisë, Kroacisë, Gjermanisë, Luksemburgut, Zvicrës, Portugalisë, Rumanisë, Greqisë dhe Maqedonisë së Veriut”, shfuqizohet.
