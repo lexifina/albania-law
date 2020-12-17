@@ -1,0 +1,1 @@
+10. Rregullorja që përcakton metodat e brendshme të punës dhe sjelljen e personelit të AHPVSH-së miratohet nga ministri përgjegjës për çështjet e shtetësisë dhe azilit, me propozimin e drejtorit të Përgjithshëm.
