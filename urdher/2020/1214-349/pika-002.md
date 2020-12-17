@@ -1,0 +1,1 @@
+2. DPSHTRR-ja ka të drejtë të kryejë çdo veprim procedural dhe administrativ të parashikuar në pikën 3.7, të Kontratës Koncesionare, si dhe çdo veprim tjetër administrativ të nevojshëm për t’u kryer, sipas legjislacionit në fuqi, pas përfundimit të procedurës së dorëzimit në përfundim të Kontratës Koncesionare.
