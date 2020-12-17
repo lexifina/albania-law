@@ -4,7 +4,7 @@ Nr.9975, datë 28.7.2008
 
 PËR TAKSAT KOMBËTARE
 
-(Ndryshuar me ligjet: nr. 10065, datë 29.1.2009; nr.10 131, datë 11.5.2009; nr.10145, datë 28.9.2009; nr.10280, datë 20.5.2010; nr.10 458, datë 21.7.2011; nr.83/2012, datë 13.9.2012; nr.120/2013, datë 18.4.2013; nr.178, datë 28.12.2013; nr. 86/2014, datë 17.7.2014; nr.157, datë 27.11.2014; nr.141/2015, datë 17.12.2015; nr.127/2016, datë 15.12.2016, nr. 68/2017, datë  27.4.2017, nr. 104/2017, datë 30.11.2017, nr. 93/2018, datё 3.12.2018, nr. 55/2019, datë 18.7.2019, nr. 86/2019, 18.12.2019)
+(Ndryshuar me ligjet: nr. 10065, datë 29.1.2009; nr.10 131, datë 11.5.2009; nr.10145, datë 28.9.2009; nr.10280, datë 20.5.2010; nr.10 458, datë 21.7.2011; nr.83/2012, datë 13.9.2012; nr.120/2013, datë 18.4.2013; nr.178, datë 28.12.2013; nr. 86/2014, datë 17.7.2014; nr.157, datë 27.11.2014; nr.141/2015, datë 17.12.2015; nr.127/2016, datë 15.12.2016, nr. 68/2017, datë  27.4.2017, nr. 104/2017, datë 30.11.2017, nr. 93/2018, datё 3.12.2018, nr. 55/2019, datë 18.7.2019, nr. 86/2019, 18.12.2019, nr. 153/2020, datë  17.12.2020)
 
 (i përditësuar) 
 
@@ -90,7 +90,7 @@ Niveli i taksave kombëtare
 
 (shfuqizuar fjalia e fundit e pikës 2 dhe ndryshuar pika 6 me ligjin nr.10 065, datë 29.1.2009; ndryshuar pikat 2, 3, 4, 6 me ligjin nr.10280, datë 20.5.2010; ndryshuar pikat 2, 3, 6 me ligjin nr.10 458, datë 21.7.2011; shtuar pika 8 me ligjin nr.83/2012, datë 13.9.2012; ndryshuar pika 3  me ligjin nr. 120/2013, datë 18.4.2013; ndryshuar pikat 2, 8 me ligjin nr. 178/2013, datë 28.12.2013; shtuar pika 9 me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar pikat 2,4, shtuar pika 9 me ligjin nr.157, datë 27.11.2014; ndryshuar pikat 4, 5, 9, shtuar pika 11 me ligjin  nr. 141/2015, datë 17.12.2015; ndryshuar pikat  2,3, 4, 8,  me ligjin nr.127/2016, datë 15.12.2016; ndryshuar pika 3 e nenit 4 e ligjit nr. 68/2017, datë  27.4.2017
 
-“Për financat e vetëqeverisjes vendore”, ndryshuar fjalë në pikën 4, shtuar një fjali në pikën 6 dhe ndryshuar pika 8 me ligjin nr. 93/2018, datё 3.12.2018, shtuar një fjali pas fjalisë së parë të pikës 8, ndryshuar fjalë në pikën 8/1 dhe riformuluar pika 8.5 me ligjin nr. 55/2019, datë 18.7.2019, ndryshuar fjalë në pikën 3 me ligjin nr. 86/2019, 18.12.2019)
+“Për financat e vetëqeverisjes vendore”, ndryshuar fjalë në pikën 4, shtuar një fjali në pikën 6 dhe ndryshuar pika 8 me ligjin nr. 93/2018, datё 3.12.2018, shtuar një fjali pas fjalisë së parë të pikës 8, ndryshuar fjalë në pikën 8/1 dhe riformuluar pika 8.5 me ligjin nr. 55/2019, datë 18.7.2019, ndryshuar fjalë në pikën 3 me ligjin nr. 86/2019, 18.12.2019, shtuar paragraf në fund të pikës 4 me ligjin nr. 153/2020, datë  17.12.2020)
 
 1. Taksa portuale është 1 euro. Kjo taksë paguhet, për çdo prekje, për të gjitha anijet që prekin portet dhe radat e Republikës së Shqipërisë e që kryejnë veprime tregtare. 
 
@@ -104,7 +104,9 @@ Renta minerare përcaktohet duke shumëzuar vlerën e përgjithshme të shitjes 
 
 Në rastin kur taksa e rentës minerare aplikohet në përqindje, kjo taksë  llogaritet duke shumëzuar vlerën e shitjes së produktit (pa TVSH) me përqindjen e rentës. Kur taksa e rentës minerare aplikohet në vlerë fikse për njësi, shuma e rentës minerare llogaritet duke shumëzuar sasitë e shitjes së produktit me vlerën e rentës minerare. Në rastin e shitjes së mineralit të grupit të parë (I), “Mineralet metalike”, për përpunim brenda vendit, nga nxjerrësi te përpunuesi, përqindja e rentës aplikohet në masën sa 3/7 e normës së rentës për vitin 2019, 3/8 e normës së rentës për vitin 2020 dhe 1/3 e normës së rentës për vitin 2021 e në vijim së përcaktuar në shtojcën nr. 2, mbi vlerën (çmimin) e shitjes, e cila, për efekt të përllogaritjes së rentës minerare, nuk mund të jetë më e vogël se çmimi i shitjes për eksport të mineralit të papërpunuar.
 
-Këshilli i Ministrave përcakton procedurat e arkëtimit së rentës minerare dhe dokumentacionin që duhet të paraqesë i licencuari, eksportuesi, për të vërtetuar çmimin e shitjes. Masa e rentës minerare, e përcaktuar në ligjin minerar, ndryshon sipas paragrafëve të parë dhe të dytë, të pikës 4, të nenit 4, të këtij ligji 
+Këshilli i Ministrave përcakton procedurat e arkëtimit së rentës minerare dhe dokumentacionin që duhet të paraqesë i licencuari, eksportuesi, për të vërtetuar çmimin e shitjes. Masa e rentës minerare, e përcaktuar në ligjin minerar, ndryshon sipas paragrafëve të parë dhe të dytë, të pikës 4, të nenit 4, të këtij ligji.
+
+Taksa e rentës minerare për hidrokarburet e nxjerra përcaktohet me ligjin “Për regjimin fiskal në sektorin hidrokarbur.
 
 5. Taksa e akteve dhe e pullës caktohet sipas shtojcës nr. 3, e cila i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
 
@@ -468,7 +470,7 @@ SHTOJCA Nr. 2
 
 RENTA MINERARE SIPAS KLASIFIKIMIT
 
-(ndryshuar me ligjin nr.10280, datë 20.5.2010; nr.141/2015, datë 17.12.2015;  nr.127/2016, datë 15.12.2016, ndryshuar pika 4 e grupit I me ligjin nr. 93/2018, datё 3.12.2018)
+(ndryshuar me ligjin nr.10280, datë 20.5.2010; nr.141/2015, datë 17.12.2015;  nr.127/2016, datë 15.12.2016, ndryshuar pika 4 e grupit I me ligjin nr. 93/2018, datё 3.12.2018, shfuqizuar grupi i shtatë me ligjin nr. 153/2020, datë  17.12.2020)
 
 | Nr. | Emërtimi i grupit të mineraleve sipas ligjit minerar | Përqindja<br>e rentës<br>minerare |
 | --- | --- | --- |
@@ -521,7 +523,6 @@ RENTA MINERARE SIPAS KLASIFIKIMIT
 | 37  | Gjithë mineralet e grupit të pestë  | 10 %  |
 | Grupi i gjashtë (VI) GURËT GJYSMË TË ÇMUAR DHE OPALI  |  |  |
 | 38  | Gjithë mineralet e grupit të gjashtë  | 10 %  |
-| 39  | Grupi i shtatë (VII) NAFTA DHE GAZI  | 10 %  |
 
 Shtojca  nr.3
 
