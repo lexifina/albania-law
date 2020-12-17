@@ -4,6 +4,10 @@ Nr. 97/2016
 
 PËR ORGANIZIMIN DHE FUNKSIONIMIN E PROKURORISË NË REPUBLIKËN E SHQIPËRISË
 
+(Ndryshuar me ligjin nr. 148/2020, datë 17.12.2020)
+
+(I përditësuar)
+
 	Në mbështetje të neneve 81 dhe 83, pika 1, të Kushtetutës, me propozimin e një grupi deputetësh, 
 
 KUVENDI
@@ -598,6 +602,8 @@ Neni 43
 
 Kompetencat në ushtrimin e ndjekjes penale
 
+(shtuar shkronja “e” me ligjin nr. 148/2020, datë 17.12.2020)
+
 	Drejtuesi i prokurorisë ka këto kompetenca në lidhje me ushtrimin e ndjekjes penale:
 
 	a) koordinon veprimtarinë me prokuroritë e tjera për çështje konkrete;
@@ -611,6 +617,8 @@ Kompetencat në ushtrimin e ndjekjes penale
 	d) merr masa për zëvendësimin e prokurorit të çështjes, në rastet e parashikuara me ligj;
 
 	dh) garanton zbatimin korrekt të udhëzimeve të Prokurorit të Përgjithshëm.
+
+       e) përgjigjet për hetimin e veprave penale që prekin zgjedhjet e lira dhe sistemin demokratik të zgjedhjeve, të cilat janë kompetencë e prokurorisë që drejton.
 
 Neni 44
 
@@ -1737,6 +1745,18 @@ Marrëdhëniet me Ministrin e Drejtësisë
 	1. Ministri i Drejtësisë bashkëpunon me Prokurorin e Përgjithshëm, Drejtuesin e Prokurorisë së Posaçme dhe Kryetarin e Këshillit të Lartë të Prokurorisë në shqyrtimin paraprak të nevojave të buxhetit të tyre dhe i paraqet dhe i mbron ato në mbledhjen e Këshillit të Ministrave.
 
 	2. Ministri i Drejtësisë ka detyrimin të depozitojë pranë Inspektorit të Lartë të Drejtësisë ankesat që paraqiten kundër prokurorëve.
+
+Neni 107/1
+
+Marrëdhëniet me Komisionin Qendror të Zgjedhjeve
+
+(ndryshuar me ligjin nr. 148/2020, datë 17.12.2020)
+
+1. Prokurori i Përgjithshëm dhe drejtuesi i Prokurorisë së Posaçme, sipas juridiksionit përkatës, i japin KQZ-së informacion për hetimin e veprave penale në fushën e zgjedhjeve, që nuk cenon ruajtjen e sekretit hetimor sipas përcaktimeve të Kodit të Procedurës Penale. Informacioni jepet me të dhënat për çështjet penale, numrin e personave nën hetim, kohëzgjatjen e hetimit dhe përfundimin e tij, të dhënat për kërkesat e prokurorisë për gjykim, kohëzgjatjen e gjykimit dhe përfundimin e tij, të dhënat për ankimimin e vendimeve gjyqësore, shkakun e ankimimit, si dhe të dhënat për faktin nëse çështjet janë gjykuar në apel ose në Gjykatën e Lartë dhe rezultatin e këtij gjykimi. Pjesë e informacionit duhet të jetë edhe informacioni për ekzekutimin e dënimeve.
+
+2. Informacioni sipas pikës 1 të këtij neni përdoret nga KQZ-ja për nevojat e informimit publik për gjendjen dhe rezultatet e hetimeve penale për çështjet zgjedhore.
+
+3. Prokurori i Përgjithshëm dhe drejtuesi i Prokurorisë së Posaçme u përgjigjen kërkesave të KQZ-së për informacion jo më vonë se 15 ditë nga data e kërkesës.
 
 Neni 108
 

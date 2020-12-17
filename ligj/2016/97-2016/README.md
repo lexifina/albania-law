@@ -1,9 +1,9 @@
 # PËR ORGANIZIMIN DHE FUNKSIONIMIN E PROKURORISË NË REPUBLIKËN E SHQIPËRISË
 
-Official source: [Ligji nr. 97/2016](https://qbz.gov.al/api/v1/acts/15895).
+Official source: [Ligji nr. 97/2016](https://qbz.gov.al/api/v1/acts/15895); [QBZ versions](https://qbz.gov.al/api/v1/acts/15895/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2016-10-06; published 2016-11-07; in force 2016-11-22.
+Status of this text: `official consolidated version 1`, applying from 2020-12-17; after QBZ act 58497 (nr. 148).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
