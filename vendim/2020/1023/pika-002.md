@@ -1,0 +1,1 @@
+2. Prona e përcaktuar në pikën 1, të këtij vendimi, do të përdoret nga Ministria e Infrastrukturës dhe Energjisë, në përputhje me Planin Kombëtar Sektorial të Transportit Detar dhe Infrastrukturës Portuale.

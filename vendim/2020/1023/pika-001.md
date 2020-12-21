@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Infrastrukturës dhe Energjisë, të pronës shtetërore, në zonën kadastrale nr. 8602, në pronësi të Portit Detar Vlorë sh.a., sipas planrilevimit që i bashkëlidhet këtij vendimi.
