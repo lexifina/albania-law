@@ -1,1 +1,1 @@
-13. Krijuesi, grumbulluesi dhe pritësi i mbetjeve dërgojnë pranë Agjencisë Kombëtare të Mjedisit dhe Inspektoratit Shtetëror të Mjedisit, Pyjeve dhe Ujërave informacion në lidhje me mbetjet jo të rrezikshme të transferuara, të paktën 1 (një) herë në vit.
+13. Krijuesi, grumbulluesi dhe pritësi i mbetjeve dërgojnë në mënyrë elektronike, nëpërmjet portalit e-Albania, pranë Ministrisë së Turizmit dhe Mjedisit, si dhe Agjencisë Kombëtare të Mjedisit, informacion lidhur me mbetjet jo të rrezikshme të transferuara, të paktën 1 (një) herë në vit.
