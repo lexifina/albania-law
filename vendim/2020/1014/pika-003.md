@@ -1,0 +1,1 @@
+3. Tarifat e shpenzimeve administrative arkëtohen në emër Agjencisë së Menaxhimit të Burimeve Ujore dhe derdhen në buxhetin e shtetit. Një kopje e mandatpagesës ngarkohet në sistemin elektronik të lejeve dhe autorizimeve “Aplikim për përdorim burimi ujor”.

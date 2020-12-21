@@ -1,0 +1,1 @@
+1. Miratimin e tarifave të shpenzimeve administrative, që lidhen me përdorimin, shkarkimin e ujit, ndërtimin e objekteve dhe veprave ujore, sipas tabelës që i bashkëlidhet këtij vendimi dhe që është pjesë përbërëse e tij.
