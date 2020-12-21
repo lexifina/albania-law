@@ -2,7 +2,7 @@
 
 Official source: [Urdhri nr. 615, datë 9.11.2020 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale)](https://qbz.gov.al/api/v1/acts/22228); [QBZ versions](https://qbz.gov.al/api/v1/acts/22228/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2020-12-02; after QBZ act 67049 (nr. 659).
+Status of this text: `official consolidated version 2`, applying from 2020-12-21; after QBZ act 22414 (nr. 680).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
