@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Fier, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë urbane”, për sipërfaqen ndërtimore sipas lidhjes nr. 1, të pasurisë me numër 16/15, zona kadastrale 3361, Bashkia Patos.

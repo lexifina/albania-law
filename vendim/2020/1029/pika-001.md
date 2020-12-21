@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen prej 1750 m2, pjesë e pasurisë me numër 16/15, zona kadastrale 3361, Bashkia Patos, sipas certifikatës së pasurisë, hartës treguese dhe lidhjes nr. 1, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
