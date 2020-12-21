@@ -1,1 +1,2 @@
 6. Shtesat për natyrë të veçantë pune, për punonjësit e Policisë së Shtetit që punojnë në strukturat e tjera policore, janë sipas lidhjes nr. 5, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+6/1. Shtesat për natyrë të veçantë pune, për punonjësit e Policisë së Shtetit që punojnë në strukturat e Departamentit të Marrëdhënieve Ndërkombëtare dhe Drejtorisë së Menaxhimit dhe Drejtimit, janë sipas lidhjes nr. 5/2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
