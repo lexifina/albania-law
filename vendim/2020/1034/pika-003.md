@@ -1,0 +1,1 @@
+3. Përdorimi i fondit të rindërtimit, miratuar për vitin 2020, për financimin e riforcimit të pallatit të kulturës “Dedë Ndue Lazri”, Bashkia Lezhë, të jetë në masën 26 000 000 (njëzet e gjashtë milionë) lekë dhe të përballohet nga pjesa e financuar nga grantet e fondit të rindërtimit.

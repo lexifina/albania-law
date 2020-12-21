@@ -1,0 +1,1 @@
+2. Përdorimin e fondit të rindërtimit nga njësia zbatuese Bashkia Lezhë, në masën 130 000 000 (njëqind e tridhjetë milionë) lekë, për financimin e riforcimit të pallatit të kulturës “Dedë Ndue Lazri”, Bashkia Lezhë.
