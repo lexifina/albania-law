@@ -1,0 +1,1 @@
+1. Nën drejtimin e Agjencisë Kombëtare të Mbrojtjes Civile në Ministrinë e Mbrojtjes krijohet dhe funksionon Komisioni Teknik Këshillimor (në vijim “KTK”), i cili këshillon për çështje të zvogëlimit të riskut nga fatkeqësitë për mbrojtjen civile.
