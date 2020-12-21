@@ -1,0 +1,1 @@
+1. Miratimin e rregullave të hollësishme për prodhimin e ushqimeve biologjike të përpunuara për kafshë, ushqimeve biologjike të përpunuara, majave biologjike dhe rregullat përjashtuese, sipas tekstit që i bashkëlidhet këtij vendimi.
