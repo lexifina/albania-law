@@ -1,0 +1,1 @@
+5. Mbi shumën e përcaktuar në pikën 1 të këtij vendimi, duke filluar nga data 23.9.2020, deri në datën e ekzekutimit të këtij vendimi, të paguhen interesa të thjeshtë të barabartë me kursin marzhinal të huas së Bankës Qendrore Evropiane, gjatë periudhës së mospagimit, plus tre për qind.

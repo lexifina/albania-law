@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 23.6.2020, për çështjen “Kasmi kundër Shqipërisë”, për kërkesën nr. 1175/06, përfundimtar në datën 23.9.2020, në shumën 30 000 (tridhjetë mijë) euro, për kërkuesin Gëzim Kasmi, në lidhje me dëmin pasuror, plus çdo taksë që mund të jetë e aplikueshme.
