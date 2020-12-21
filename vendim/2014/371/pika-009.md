@@ -1,1 +1,1 @@
-9. Dorëzuesi, për çdo transfertë, u dërgon nga një kopje të dokumenteve të dorëzimit, të plotësuar dhe të nënshkruar nga palët, Agjencisë Kombëtare të Mjedisit dhe Inspektoratit Shtetëror të Mjedisit, Pyjeve dhe Ujërave.
+9. Dorëzuesi, për çdo transfertë, u dërgon nga një kopje elektronike, nëpërmjet portalit e-Albania, të dokumenteve të dorëzimit, të plotësuar e të nënshkruar nga palët, Ministrisë së Turizmit dhe Mjedisit dhe Agjencisë Kombëtare të Mjedisit.
