@@ -1,0 +1,1 @@
+6. Regjistrimi dhe përpunimi i të dhënave të pasagjerit, sipas qëllimit të parashikuar në kreun I të këtij udhëzimi, si dhe konsultimi apo përdorimi i të dhënave të pasagjerit, kryhet në mënyrë të tillë që punonjësi i NIP-së, që përpunon të dhënat, si dhe punonjësi autorizuar i tij, të jetë i identifikueshëm.
