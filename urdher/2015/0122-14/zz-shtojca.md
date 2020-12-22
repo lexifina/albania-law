@@ -2,26 +2,14 @@
 LIDHJA NR. 1
 LIDHJA NR. 2
 REGJISTRI I KËRKESAVE DHE PËRGJIGJEVE
-Nr. rendor (1)
-Data e regjistrimit të kërkesës (2)
-Objekti (3)
-Data e kthimit të përgjigjes (4)
-Statusi i kërkesës (5)
-Tarifa (6)
-1
-(Përmban edhe përmbledhje të kërkesës)
-(Përmban edhe përmbledhje të përgjigjes)
-2
-3
-Shënim
-Regjistri përditësohet çdo tre muaj.
-(1) Evidentohet kronologjia e kërkesave.
-(2) Evidentohet nisja e shqyrtimit të kërkesës.
-(3) Identifikohet lloji i kërkesës.
-(4) Reflektohet afati i shqyrtimit të kërkesës dhe nëpërmjet klikimit njohja me përmbledhjen e përgjigjes.
-(Të dhënat personale anonimizohen në përputhje me ligjin nr. 9887, datë 10.3.2008 “Për mbrojtjen e të dhënave personale”)
-(5) Ndihmon kërkuesin për të njohur ecurinë e procesit.
-(6) Evidenton vlerat monetare për dhënie të dokumentacionit në përputhje me udhëzimet përkatëse.
+Nr. rendor
+Data e kërkesës
+Objekti i kërkesës
+Data e përgjigjes
+Përgjigje
+Mënyra e përfundimit
+të kërkesës
+Tarifa
 LIDHJA Nr. 3 (kërkesa)
 KËRKESË PËR INFORMACION
 Emër mbiemër:
