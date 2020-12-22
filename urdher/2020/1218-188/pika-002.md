@@ -1,0 +1,1 @@
+2. Ngarkohen të gjitha autoritetet publike të zbatojnë Regjistrin e Kërkesave dhe Përgjigjeve, të rishikuar sipas formatit dhe përmbajtjes, të përcaktuar në lidhjen nr. 1, bashkëlidhur këtij urdhri, jo më vonë se data 31 mars 2021.
