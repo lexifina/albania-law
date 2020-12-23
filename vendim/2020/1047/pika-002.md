@@ -1,0 +1,1 @@
+2. Përdorimi i fondit të rindërtimit, miratuar për vitin 2020, për financimin e rindërtimit të shkollës 9-vjeçare “At Zef Pëllumbi”, Njësia Administrative Shëngjin, Bashkia Lezhë, do të jetë në vlerën 45 300 000 (dyzet e pesë milionë e treqind mijë) lekë pa TVSH dhe do të përballohet nga pjesa e financuar nga grantet e fondit të rindërtimit.
