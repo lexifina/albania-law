@@ -4,7 +4,7 @@ Nr. 90/2019
 
 PËR RIVLERËSIMIN E PASURISË SË PALUAJTSHME
 
-(ndryshuar me ligjin nr. 91/2020, datë 9.7.2020)
+(ndryshuar me ligjin nr. 91/2020, datë 9.7.2020, nr. 164/2020, datë 23.12.2020)
 
 Në mbështetje të neneve 78, 81, pika 1, 83 dhe 155 të Kushtetutës, me propozimin e një deputeti, 
 
@@ -18,9 +18,9 @@ Neni 1
 
 Rivlerësimi i pasurisë së paluajtshme për individët
 
-(ndryshuar fjalë në pikën 1 me ligjin nr. 91/2020, datë 9.7.2020)
+(ndryshuar fjalë në pikën 1 me ligjin nr. 91/2020, datë 9.7.2020, ndryshuar data e efektit ligjor  në pikën 1 me ligjin nr. 164/2020, datë 23.12.2020)
 
-1. Të gjithë individët, të cilët kanë në pronësi pasuri të paluajtshme, kanë të drejtë që, nga data e hyrjes në fuqi të këtij ligji, deri në datën 31 dhjetor 2020, të bëjnë rivlerësimin e kësaj pasurie me vlerën e tregut.
+1. Të gjithë individët, të cilët kanë në pronësi pasuri të paluajtshme, kanë të drejtë që, nga data e hyrjes në fuqi të këtij ligji, deri në datën 31 dhjetor 2021, të bëjnë rivlerësimin e kësaj pasurie me vlerën e tregut.
 
 2. Ky rivlerësim mund të bëhet nga një ekspert i licencuar për vlerësimin e pasurisë së paluajtshme nga institucionet përkatëse ose nga zyrat vendore të Agjencisë Shtetërore të Kadastrës .
 
@@ -76,9 +76,9 @@ Neni 5
 
 Hyrja në fuqi
 
-(ndryshuar fjalë  me ligjin nr. 91/2020, datë 9.7.2020)
+(ndryshuar fjalë  me ligjin nr. 91/2020, datë 9.7.2020, ndryshuar data e efektit ligjor me ligjin nr. 164/2020, datë 23.12.2020)
 
-Ky ligj hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare dhe i shtrin efektet deri në datën 31 dhjetor 2020.
+Ky ligj hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare dhe i shtrin efektet deri në datën 31 dhjetor 2021.
 
 Miratuar në datën 18.12.2019
 
