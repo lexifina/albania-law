@@ -1,0 +1,1 @@
+2. Miratimin e përmbajtjes dhe të procedurave për zhvillimin dhe zbatimin e planeve të menaxhimit të baseneve ujore, sipas shtojcës II, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

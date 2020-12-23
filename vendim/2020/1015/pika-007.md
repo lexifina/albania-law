@@ -1,0 +1,1 @@
+7. Planet e menaxhimit të baseneve ujore dhe planet e menaxhimit të rrezikut nga përmbytjet, që janë në proces hartimi ose hartohen për herë të parë, përjashtohen nga etapat dhe afatet kohore të përcaktuara në këtë vendim.

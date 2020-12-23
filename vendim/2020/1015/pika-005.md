@@ -1,0 +1,21 @@
+5. Për qëllime të këtij vendimi, me termat e mëposhtëm nënkuptojmë:
+a) “AMBU”, Agjencia e Menaxhimit të Burimeve Ujore;
+b) “Burim i disponueshëm me ujëra nëntokësore”, norma afatgjatë mesatare vjetore e ngarkimit të përgjithshëm të trupit me ujëra nëntokësore minus normën afatgjatë vjetore të rrjedhës së nevojshme, për të arritur objektivat e cilësisë ekologjike për ujërat sipërfaqësore që kanë lidhje, në mënyrë që të shmanget çdo zvogëlim i dukshëm në statusin ekologjik të ujërave të tilla dhe që të shmanget çdo dëmtim i konsiderueshëm i ekosistemeve tokësore që kanë lidhje;
+c) “Futja e ndotësve në ujërat nëntokësore”, hyrja e drejtpërdrejtë ose jo e drejtpërdrejtë e ndotësve, si rezultat i aktivitetit njerëzor;
+ç) “Kufiri i zbulimit”, sinjali i prodhimit ose vlera e përqendrimit mbi të cilën mund të konfirmohet, me një nivel të sigurt besimi, se kampioni është i ndryshëm nga një kampion bosh, që nuk ka përcaktues interesi (me rëndësi);
+d) “Kufiri i kuantifikimit”, shumëfishi i caktuar i kufirit të zbulimit në një përqendrim të përcaktuesit, që mund të vendoset logjikisht me një nivel të pranueshëm saktësie dhe precizioni. Kufiri i kuantifikimit mund të llogaritet duke përdorur një standard apo kampion të përshtatshëm dhe mund të përftohet nga pika më e ulët e kalibrimit, në kurbën e kalibrimit, duke përjashtuar pjesën bosh;
+dh) “Niveli bazë”, vlera mesatare e matur gjatë periudhës së parë, për të cilën është e disponueshme një periudhë përfaqësuese e monitorimit të të dhënave;
+e) “Niveli i sfondit”, përqendrimi i një substance ose vlera e një treguesi në një trup me ujëra nëntokësore, që nuk korrespondon me asnjë, apo korrespondon vetëm me pak ndryshime antropogjene, në kushte të rregullta;
+ë) “Nënbaseni”, zona e tokës prej së cilës të gjitha rrjedhat sipërfaqësore derdhen, nëpërmjet një sërë përrenjsh, lumenjsh dhe, mundësisht, liqenesh, në një pikë të veçantë të një rrjedhe ujore (normalisht liqen ose bashkërrjedhje lumi)
+f) “Norma e cilësisë së mjedisit”, ka kuptimin që i është dhënë nga pika 23, e nenit 3, të ligjit nr. 10448, datë 14.7.2011, “Për lejet e mjedisit”;
+g) “Norma e cilësisë së ujërave nëntokësore”, norma mjedisore e cilësisë, e shprehur si përqendrim i një ndotësi të veçantë, një grupi ndotësish ose indikatorit të ndotjes në ujërat nëntokësore, që nuk duhet tejkaluar, me qëllim që të mbrohet shëndeti i njeriut dhe mjedisi;
+gj) “Pasiguria e matjeve”, një parametër, jonegativ, që karakterizon shpërndarjen e vlerave të sasisë që i atribuohet një matjeje, bazuar në informacionin e përdorur;
+h) “Përmbytja”, mbulimi i përkohshëm nga uji i tokës që, normalisht, nuk mbulohet nga uji. Këtu përfshihen përmbytjet nga lumenjtë, përrenjtë malorë, rrjedhat ujore kalimtare mesdhetare dhe përmbytjet nga deti, në zonat bregdetare, me përjashtim përmbytjet nga sistemet e kanalizimit;
+i) “Substanca të rrezikshme”, ka kuptimin që i është dhënë nga pika 17, e nenit 5, të ligjit nr. 10431, datë 9.6.2011, ”Për mbrojtjen e mjedisit”;
+j) “Shkarkimi i drejtpërdrejtë në ujërat nëntokësore”, shkarkimi i ndotësve në ujërat nëntokësore, pa filtrim, nëpërmjet tokës ose nëntokës;
+k) “Rajon baseni ujor”, zona e tokës dhe e detit, e përbërë nga një ose më shumë basene lumenjsh fqinjë, së bashku me ujërat e tyre nëntokësore dhe bregdetare, që identifikohet si njësia kryesore për menaxhimin e ujërave të baseneve ujore;
+l) “Risk”, kombinimi i mundësisë së ndodhjes së një ngjarjeje dhe të pasojave të saj negative;
+ll) “Tendenca rritëse e konsiderueshme dhe e qëndrueshme”, çdo rritje e konsiderueshme statistikore dhe mjedisore e ndotësit, grupit të ndotësve ose e indikatorit të ndotjes në ujërat nëntokësore, për të cilat kthimi i tendencës identifikohet si i nevojshëm;
+m) “Vlera e pragut”, standardi i cilësisë së ujërave nëntokësore për ndotës të veçantë, grup ndotësish ose indikatorësh të ndotjes në ujërat nëntokësore, që janë identifikuar si kontribues në karakterizimin e trupave ose të grupeve të trupave të ujërave nëntokësore që janë në rrezik;
+n) “ZABU”, Zyra e Administrimit të Basenit Ujor;
+nj) “Ujëmbajtës”, shtresa nënsipërfaqësore ose shtresa shkëmbore apo shtresa të tjera gjeologjike, me porozitet dhe përshkueshmëri të mjaftueshme për të lejuar rrjedhjen ose nxjerrjen e konsiderueshme të ujërave nëntokësore.

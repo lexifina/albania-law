@@ -1,0 +1,1 @@
+3. Miratimin e përmbajtjes dhe të procedurave për zhvillimin dhe zbatimin e planeve të menaxhimit të rrezikut nga përmbytjet, sipas shtojcës III, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

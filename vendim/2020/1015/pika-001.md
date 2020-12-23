@@ -1,0 +1,1 @@
+1. Miratimin e përmbajtjes dhe të procedurave për zhvillimin dhe zbatimin e Strategjisë Kombëtare për Menaxhimin e Burimeve Ujore, sipas shtojcës I, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
