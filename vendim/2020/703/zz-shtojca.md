@@ -16,20 +16,19 @@ Nr. rendor Njësia administrative Zona kadastrale Numri i parcelës Sipërfaqe n
 10. 414 98300
 ANEKS II
 ZONA KADASTRALE NR. 2085, KARAVASTA E RE, NJËSIA ADMINISTRATIVE REMAS
-Nr. rendor Njësia administrative Zona kadastrale Numri i parcelës Sipërfaqe në m2
-1. Remas 2085 220/1 33774
-2. 220/3 64593
-3. 221/1 18548
-4. 221/3 148757
-5. 224/1 166155
-6. 225/1 149506
-7. 226/1 144257
-8. 227/1 14668
+Nr. rendor, Njësia administrative, Zona kadastrale, Numri i parcelës, Sipërfaqe në m2
+1. Remas 2085 218/6 13125
+2. 220/1 33774
+3. 220/3 64593
+4. 221/1 18548
+5. 221/3 148757
+6. 224/1 166155
+7. 225/1 149506
+8. 226/1 144257
 9. 227/3 64766
-10. 228/1 16256
-11. 228/3 90262
-12. 229/1 11132
+11. 228/1 16256
+12. 228/3 90262
 13. 229/3 98642
-14. 230/1 81900
-15. 231/1 72360
-16. 232/1 34410
+15. 230/1 81900
+16. 231/1 72360
+17. 232/1 34410
