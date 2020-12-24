@@ -1,0 +1,1 @@
+12. Në rastet e vërtetimit të qenies gjallë të një personi ose të vendqëndrimit të tij, së bashku me njësinë e dokumentit të vërtetimit të redaktuar prej tij, noteri ruan në arkiv edhe një fotokopje të dokumentit të identifikimit, të cilin e ka verifikuar më parë me origjinalin.

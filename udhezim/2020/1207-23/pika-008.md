@@ -1,0 +1,1 @@
+8. Në rastet e dokumenteve që përmbajnë vetëm numër repertori, dokumenti, i cili është nënshkruar nga noteri dhe që përmban pullën e taksës dhe vulat përkatëse, skanohet dhe ruhet në format elektronik.

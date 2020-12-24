@@ -1,0 +1,1 @@
+6. Çdo njësi e vërtetuar, që do t’i jepet të tretit, lidhet me vulë të njomë me një njësi të dokumentit me nënshkrim të vërtetuar, nënshkruhet, vuloset me vulën e thatë pranë emrit të noterit dhe me vulën e njomë mbi pullat e taksës në vlerën përkatëse të tyre.

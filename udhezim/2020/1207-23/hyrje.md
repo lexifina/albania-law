@@ -1,0 +1,5 @@
+UDHËZIM
+NR. 23, datë 7.12.2020
+PËR EVIDENTIMIN, ADMINISTRIMIN, RUAJTJEN E AKTEVE E TË DOKUMENTEVE NOTERIALE DHE PËR ORGANIZIMIN, FUNKSIONIMIN DHE RUAJTJEN E ARKIVAVE NOTERIALË, PËRFSHIRË FORMATIN E TYRE, SI DHE FORMËN, PËRMBAJTJEN, VERIFIKIMIN E RREGULLUESHMËRISË DHE ADMINISTRIMIN E REGJISTRAVE TË VEPRIMTARISË NOTERIALE
+Në mbështetje të nenit 102, pika 4, të Kushtetutës, të nenit 7, pika 2, të ligjit nr. 8678, datë 14.5.2001, “Për organizimin dhe funksionimin e Ministrisë së Drejtësisë”, të ndryshuar, dhe të nenit 141, të ligjit nr. 110/2018, “Për noterinë”,
+UDHËZOJ:

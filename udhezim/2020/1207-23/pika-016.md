@@ -1,0 +1,1 @@
+16. Në rastin e testamentit të redaktuar nga noteri, numri i regjistrimit të testamentit është edhe numri i vetë testamentit. Testamentet nuk kanë numër repertori apo koleksioni si në rastin e dokumenteve të tjera të hartuara nga noteri, por vetëm numrin e testamentit dhe regjistrohen në regjistrin e testamenteve.

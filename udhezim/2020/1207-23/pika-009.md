@@ -1,0 +1,1 @@
+9. Në rastet e tjetërsimit ose njohjes së pronësisë mbi sendet e paluajtshme ose të drejtave reale mbi to, për personat fizikë, noteri ruan në arkiv certifikatën familjare dhe/ose martesore të palës blerëse. Certifikata familjare për palën shitëse duhet të jetë e datës së përfitimit të pasurisë së paluajtshme.
