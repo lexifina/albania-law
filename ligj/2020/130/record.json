@@ -1,0 +1,26 @@
+{
+  "qbz_id": 22346,
+  "title": "Për një ndryshim në ligjin nr. 10129, datë 11.5.2009, “Për gjendjen civile”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "130",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2020-10-22",
+  "published": "2020-12-09",
+  "in_force": "2020-12-24",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/2e293b1d6793c92d4aaa230211953e3c4abf05ea28a1a39a2819feef319475fe.docx",
+  "source_sha256": "2e293b1d6793c92d4aaa230211953e3c4abf05ea28a1a39a2819feef319475fe",
+  "official_record": "https://qbz.gov.al/api/v1/acts/22346",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2020/10/22/130",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
