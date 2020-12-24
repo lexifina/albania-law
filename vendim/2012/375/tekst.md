@@ -4,6 +4,10 @@ Nr. 375, datë 6.6.2012
 
 PËR KRIJIMIN, REGJISTRIMIN, MËNYRËN E FUNKSIONIMIT, TË ADMINISTRIMIT E TË NDËRVEPRIMIT DHE PËR SIGURINË E SISTEMIT TË REGJISTRIMIT TË PASURIVE TË PALUAJTSHME (ALBSReP)
 
+(ndryshuar me vendimin nr. 675, datë 29.7.2015, nr. 12, datë 11.1.2016, 
+
+Shfuqizuar me vendimin nr. 1179, datë 24.12.2020, përveç anekseve 1 dhe 2)
+
 Në mbështetje të nenit 100 të Kushtetutës, të nenit 4 të ligjit nr. 10 325, datë 23.9.2010 “Për bazat e të dhënave shtetërore” dhe të pikës 2 të nenit 7 të ligjit nr. 33/2012 “Për regjistrimin e pasurive të paluajtshme”, me propozimin e Ministrit të Drejtësisë, Këshilli i Ministrave
 
 VENDOSI:
@@ -66,17 +70,21 @@ iv) ndërveprimin me institucionet e tjera.
 
 ii) zyrat vendore e regjistrimit të pasurive të paluajtshme.
 
+iii. Qendra e Ofrimit të Shërbimeve Publike të Integruara.
+
  c) Subjekte të interesuara janë:
 
  i) pronari i pasurisë së paluajtshme;
 
 ii) noterët publikë;
 
+ii/1) Qendra e Ofrimit të Shërbimeve Publike të Integruara.
+
 iii) çdo subjekt tjetër, i përcaktuar shprehimisht me vendim të Këshillit të Ministrave.
 
  ç) Niveli i aksesit në ALBSReP është:
 
- i) për noterët publikë, e drejta e leximit dhe e printimit të informacionit mbi dokumentet në formën shifrore që tregojnë gjendjen juridike të pasurisë së paluajtshme, pasi të kenë marrë pëlqimin e palës së interesuar, sipas përcaktimeve të nenit 54 të ligjit nr. 7829, datë 1.6.1994 “Për noterinë”, të ndryshuar;
+ i) për noterët publikë, e drejta e leximit dhe e printimit të informacionit mbi dokumentet në formën shifrore që tregojnë gjendjen juridike të pasurisë së paluajtshme, pasi të kenë marrë pëlqimin e palës së interesuar, sipas përcaktimeve të nenit 54 të ligjit nr. 7829, datë 1.6.1994 “Për noterinë”, të ndryshuar, dhe e drejta për të aplikuar on-line për shërbimet e miratuara me marrëveshje mes Dhomës Kombëtare të Noterisë dhe Zyrës Qendrore të Regjistrimit të Pasurive të Paluajtshme.
 
 ii) për subjektet e tjera, sipas përcaktimit me vendim të Këshillit të Ministrave, që u jepet e drejta e aksesit për verifikim në këtë sistem.
 
