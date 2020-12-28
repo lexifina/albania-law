@@ -39,14 +39,15 @@ KREU V
 PROCEDURAT E EMËRIMIT
 1. Titullari i DRAP-it, bazuar në renditjen përfundimtare të kandidatëve për psikologë/punonjës socialë, të dorëzuar nga komisioni ad-hoc, iu ofron kandidatëve vendet e lira të punës me të drejtë përzgjedhjeje sipas renditjes, duke filluar nga kandidati i renditur i pari.
 2. Kandidati pasi njoftohet përzgjedh vendin e punës dhe nuk mund të refuzojë më shumë se tri vende të lira pune.
-3. Dokumenti i përzgjedhjes së vendit të punës nga kandidati, hartohet nga DRAP-i në tri kopje nga të cilat një i dërgohet institucionit arsimor publik ku do të punësohet kandidati, një kopje i jepet kandidatit në momentin e përzgjedhjes së vendit të punës dhe një kopje ruhet në DRAP.
+3. Pas përzgjedhjes së vendit të punës nga kandidati, DRAP-i përkatës nxjerr aktin e emërimit të kandidatit në institucionin arsimor parauniversitar të përzgjedhur prej tij dhe nënshkruan kontratën e punës me të.
+...
 4. Kandidati punësohet me kontratë pune individuale, me ose pa afat, sipas kërkesave të vendit të lirë të punës, bazuar në legjislacionin në fuqi.
-5. Kontrata e punës nënshkruhet nga psikologu/punonjësi social me drejtuesin e institucionit arsimor parauniversitar publik. Në rastet kur vendi i punës është formuar nga më shumë se 1 (një) institucion arsimor, kontrata e punës nënshkruhet nga psikologu/punonjësi social në cilësinë e punëmarrësit dhe nga drejtuesi i institucionit arsimor parauniversitar publik me numrin më të madh të nxënësve, në cilësinë e punëdhënësit.
-6. Kandidati fitues paraqitet në institucionin arsimor parauniversitar publik për të lidhur kontratën e punës, brenda 3 ditëve pune, nga data që ka përzgjedhur vendin e punës. Nëse për arsye të ligjshme nuk mund të paraqitet në institucion për të filluar marrëdhëniet e punës, duhet të njoftojë drejtorin e DRAP-it për shkakun e mosparaqitjes dhe të kërkojë zgjatjen e afatit të paraqitjes në institucion.
+5. Në rastet kur vendi i punës është formuar nga më shumë se 1 (një) institucion arsimor parauniversitar, DRAP-i përkatës nxjerr aktin e emërimit dhe nënshkruan kontratën e punës, sipas institucioneve arsimore parauniversitare të përcaktuara nga ZVAP-ja për vendin e punës, në varësi të numrit të nxënësve. Punonjësi i Shërbimit Psikosocial evidentohet në listëprezencën e institucionit arsimor parauniversitar publik me numrin më të madh të nxënësve.
+6. Kandidati fitues paraqitet në institucionin arsimor parauniversitar publik, brenda 3 ditëve pune, nga data që ka përzgjedhur dhe ka nënshkruar kontratën e punës me DRAP-in përkatës. Nëse për arsye të ligjshme kandidati nuk mund të paraqitet në institucion për të filluar marrëdhëniet e punës, duhet të njoftojë drejtorin e DRAP-it përkatës, për shkakun e mosparaqitjes dhe të kërkojë zgjatjen e afatit të paraqitjes në institucion.
 7. Kandidatët kanë të drejtën e ankimit për të gjitha procedurat e përcaktuara në këtë urdhër sipas legjislacionit në fuqi.
 KREU VI
 PROCEDURAT E PEZULLIMIT DHE LARGIMIT NGA PUNA
-1. Drejtuesi i institucionit arsimor parauniversitar publik merr masën e pezullimit ndaj psikologut/punonjësit social, në rastet kur:
+1. Me propozim të drejtuesit të institucionit arsimor parauniversitar publik, drejtori i DRAP-it merr masën e pezullimit ndaj psikologut/punonjësit social, në rastet kur:
 a) gjykata vendos ndaj tij, masë të sigurimit personal deri në vendimin e formës së prerë;
 b) ka nisur procedura disiplinore dhe vlerësohet se qëndrimi i tij në punë përbën rrezik të zhdukë, të vështirësojë, të manipulojë ose të bëjë të pamundur marrjen e provave që lidhen me procedurën disiplinore.
 2. Psikologut/punonjësit social të pezulluar i ndërpriten marrëdhëniet financiare për kohën e pezullimit.
