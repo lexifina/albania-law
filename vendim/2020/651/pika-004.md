@@ -20,6 +20,6 @@ IV. MASA E NDIHMËS FINANCIARE
 1. Ndihma financiare, që përfiton i punësuari aktual, përcaktohet në kreun I të këtij vendimi.
 2. Ndihma financiare për të punësuarit, në shumën e përcaktuar, përfitohet vetëm një herë si shumë e vetme.
 V. ÇËSHTJE TË FUNDIT
-1. Efektet financiare, në masën 134 966 000 (njëqind e tridhjetë e katër milionë e nëntëqind e gjashtëdhjetë e gjashtë mijë) lekë, do të përballohen nga Drejtoria e Përgjithshme e Shërbimit të Transportit Rrugor.
+1. Efektet financiare, në masën 245 886 000 (dyqind e dyzet e pesë milionë e tetëqind e tetëdhjetë e gjashtë mijë) lekë, do të përballohen nga fondi i rezervave të krijuara në Drejtorinë e Përgjithshme të Shërbimeve të Transportit Rrugor.
 2. Ngarkohen ministri i Shtetit për Rindërtimin, Ministria e Financave dhe Ekonomisë, Drejtoria e Përgjithshme e Tatimeve dhe Drejtoria e Përgjithshme e Shërbimit të Transportit Rrugor, për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
