@@ -1,0 +1,17 @@
+1. Miratimin e ndërtimit të centralit gjenerues të energjisë elektrike eolike dhe veprave ndihmëse në zonën e Semanit, Njësia Administrative Topojë, Bashkia Fier, Qarku Fier, nga shoqëria “Greentech” sh.p.k., me elementet, si më poshtë vijon:
+a) Emri i aplikuesit: “Greentech” sh.p.k.;
+b) Numri i identifikimit personal të zyrës së taksave NIPT/NUIS: L92924402E;
+c) Tipi i centralit: eolik;
+ç) Kapaciteti i instaluar: 3 mw;
+d) Numri i njësive gjeneruese të burimit gjenerues të energjisë dhe kapaciteti i tyre në mw: 1 (një) turbinë me kapacitet 3 mw;
+dh) Afati i pritshëm i vënies në punë: Koha për ndërtimin dhe vënien në operim të parkut eolik do të jetë brenda 24 (njëzet e katër) muajve nga marrja e lejes së ndërtimit;
+e) Vendndodhja e burimit gjenerues të energjisë: zona e Semanit, Njësia Administrative Topojë, Bashkia Fier, Qarku Fier;
+ë) Afati i miratimit të ndërtimit: 48 (dyzet e tetë) muaj nga hyrja në fuqi e këtij miratimi;
+f) Koordinatat e tokës, sipas aneksit 1 bashkëlidhur këtij vendimi;
+g) Ministria e Infrastrukturës dhe Energjisë dhe institucione të tjera të autorizuara prej saj kanë të drejtë të ushtrojnë mbikëqyrje të përgjithshme me afate 3-mujore gjatë realizimit dhe vënies në punë, me synimin që të verifikojnë se ecuria e punimeve, cilësia dhe konformiteti të jenë në përputhje me programin e përgjithshëm të realizimit e të dokumentacionit të projektit;
+gj) Shoqëria “Greentech” sh.p.k., ka detyrimin:
+i. që të paraqesë periodikisht (çdo 3 (tre) muaj), pranë Ministrisë së Infrastrukturës dhe Energjisë, informacion për ecurinë e ndërtimit të centralit eolik;
+ii. që të respektojë kushtet e cituara në lejet, licencat dhe autorizimet paraprake mjedisore, lëshuar nga institucionet përgjegjëse kombëtare;
+iii. e dorëzimit të sigurimit të kontratës, në masën jo më pak se 5 (pesë) % të vlerës së investimit, përpara nënshkrimit të kontratës ndërmjet shoqërisë “Greentech” sh.p.k., dhe ministrisë. Në këtë kontratë përcaktohen të drejtat e detyrimet e palëve për realizimin e këtij projekti, penalitetet, në rast mosrealizimi, si dhe çështje të tjera, që lidhen me zbatimin e saj;
+iv. që t’i japë falas, në formë royalty, ministrisë përgjegjëse për energjinë, sasinë e energjisë elektrike, në masën 2 (dy) % të sasisë vjetore të prodhimit të energjisë elektrike ose konvertimin e saj në vlerë monetare. Në rast konvertimi në vlerë monetare, “Greentech” sh.p.k., duhet t’i derdhë tërësisht në buxhetin e shtetit;
+v. që të përmbushë kërkesën, sipas rastit, që një pjesë e prodhimit të burimit gjenerues të energjisë t’i shitet furnizuesit publik, sipas legjislacionit në fuqi.
