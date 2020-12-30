@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare nga Këshilli i Ministrave i Republikës së Shqipërisë për qeverinë e Republikës së Kroacisë, në masën 250 000 (dyqind e pesëdhjetë mijë) euro, për dëmet e shkaktuara nga tërmeti i datës 29.12.2020.

@@ -1,0 +1,1 @@
+2. Ministrisë për Evropën dhe Punët e Jashtme, në buxhetin e miratuar për vitin 2020, në programin “Përfaqësitë diplomatike jashtë vendit”, në zërin “Shpenzime korrente”, t’i shtohet kundërvlera në lekë e fondit prej 250 000 (dyqind e pesëdhjetë mijë) eurosh, për qëllimin sipas pikës 1 të këtij vendimi.
