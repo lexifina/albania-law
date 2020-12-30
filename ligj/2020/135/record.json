@@ -1,0 +1,26 @@
+{
+  "qbz_id": 56634,
+  "title": "Për disa ndryshime në ligjin nr. 8580, datë 17.2.2000, “Për partitë politike”, i ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "135",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2020-11-16",
+  "published": "2020-12-15",
+  "in_force": "2020-12-30",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/af2f55b12e93f368fe2caee7f2dbc65dd601f6ec3ea304e28f4502811d437c88.docx",
+  "source_sha256": "af2f55b12e93f368fe2caee7f2dbc65dd601f6ec3ea304e28f4502811d437c88",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56634",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2020/11/16/135",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
