@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarit të pasurisë së paluajtshme, pronë private, që preket nga projekti “Ndërtimi i segmentit rrugor ’Hidrocentrali i Banjës - Gramsh dhe Ura e Trashovicës’” (shtesat).
