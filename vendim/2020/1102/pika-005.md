@@ -1,0 +1,3 @@
+5. Nga fondi i programit për bujqësinë dhe zhvillimin rural, për vitin 2021, do të përdoret shuma:
+a) deri në 8 164 000 (tetë milionë e njëqind e gjashtëdhjetë e katër mijë) lekë, për pagesën e vlerës së palikuiduar, për subjektet e shpallura fituese nga Agjencia për Zhvillimin Bujqësor dhe Rural, në zbatim të vendimit nr. 100, datë 5.2.2020, të Këshillit të Ministrave, “Për përcaktimin e kritereve bazë të sektorëve që do të mbështeten dhe të masës së financimit nga fondi i programit për bujqësinë dhe zhvillimin rural, për vitin 2020”;
+b) deri në 1 000 000 (një milion) lekë detyrime, për pagesat e normës së interesave bankare për kontratat e lidhura.
