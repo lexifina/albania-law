@@ -1,0 +1,1 @@
+1. Transferimin, në pronësi të Bashkisë Tiranë, të Njësisë Administrative Farkë, të pasurisë 353/12, zona kadastrale 3292, sipas formularit, gjithsej 1 (një) fletë dhe planvendosjes, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, me qëllim për t’u përdorur në fushën e arsimit.

@@ -1,0 +1,1 @@
+2. Pasuria e përmendur në pikën 1, të këtij vendimi, i shtohet listës së inventarit të pronave të paluajtshme publike, shtetërore, që i bashkëlidhet vendimit nr. 515, datë 13.6.2013, të Këshillit të Ministrave, “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës Farkë, të qarkut të Tiranës”.
