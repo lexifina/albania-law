@@ -1,0 +1,1 @@
+6. Programi kompjuterik i miratuar është pronë e agjencisë përgjegjëse për eficiencën e energjisë dhe miratohet nga ministria përgjegjëse për energjinë dhe ministria përgjegjëse për çështjet e planifikimit dhe zhvillimit të territorit.

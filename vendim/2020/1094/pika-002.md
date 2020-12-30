@@ -1,0 +1,1 @@
+2. Të dhënat mbi rrezatimin diellor sipas ndarjeve administrative dhe për gjerësinë gjeografike të Shqipërisë sigurohen nga institucionet shtetërore që monitorojnë klimën dhe miratohen nga ministri përgjegjës për energjinë brenda 1 (një) muaji nga hyrja në fuqi e kësaj metodologjie.

@@ -1,0 +1,1 @@
+3. Të dhënat klimatike që përfshijnë temperaturat minimale dhe maksimale javore por edhe rrezatimin direkt ditor/mujor në w/m2, së bashku me lagështinë relative, sigurohen nga institucionet shtetërore që monitorojnë klimën dhe miratohen nga ministri përgjegjës për energjinë brenda 1 muaji nga hyrja në fuqi kësaj metodologjie.
