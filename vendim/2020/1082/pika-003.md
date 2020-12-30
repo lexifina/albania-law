@@ -1,0 +1,1 @@
+3. Bashkisë Tiranë i ndalohet të ndryshojë destinacionin e përdorimit ose të tjetërsojë pronën me numër rendor 29, me numër pasurie 1/245, me vendndodhje në zonën kadastrale 8150, me emërtimin “Kulla e Sahatit”, të përcaktuar në formularin bashkëlidhur këtij vendimi.

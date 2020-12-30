@@ -1,0 +1,1 @@
+1. Transferimin, në pronësi ose në përdorim të Bashkisë Tiranë, të Njësisë Administrative Tiranë, të pronave me nr. 2-8, 10-15, 17-22 dhe 25-29, sipas lidhjes 1, formularëve, gjithsej 6 (gjashtë) fletë, dhe planvendosjeve, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij, me qëllim për t’u përdorur në fushën e kulturës e të infrastrukturës.
