@@ -1,0 +1,1 @@
+1. Miratimin e mënyrave të trajtimit, normave teknike, kritereve dhe modeleve të ndërhyrjeve në fushën e ruajtjes së pasurive kulturore sipas rregullores, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
