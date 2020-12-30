@@ -4,7 +4,7 @@ a) Kërkesën me shkrim, së cilës i bashkëlidhet një fotokopje e certifikat�
 b) Marrëveshjen kuadër, që kanë lidhur me njësinë zbatuese për secilën procedurë prokurimi publik të programit të rindërtimit, sipas parashikimeve në ligjin e fushës, në rastin e ndërtuesit/kontraktorëve;
 c) Marrëveshjen e bashkëpunimit, ndërmjet Këshillit të Ministrave dhe donatorit, në rastet kur ndërtuesi, subjekt i rindërtimit, është përcaktuar nga donatori që ka marrë përsipër procesin e ndërtimit, në përputhje me programin e rindërtimit;
 ç) Preventivin e punimeve, mbi bazën e të cilit janë përzgjedhur fitues për kontratat publike për punime/shërbime ndërtimi, në kuadër të zbatimit të procesit të rindërtimit, shoqëruar kjo me listën e detajuar të materialeve që do të përdoren në procesin e ndërtimit, në rastin e ndërtuesit/nënkontraktorëve;
-d) Kopjen e lejes së ndërtimit, të miratuar nga organet kompetente, në rastin e ndërtuesve;
+d) Shfuqizuar;
 dh) Kontratën e lidhur me ndërtuesin/kontraktorin, në rastin e furnizuesve të mallrave ose të shërbimeve që furnizojnë direkt ndërtuesit e autorizuar, kontraktorë/nënkontraktorë.
 Drejtoria e Përgjithshme e Tatimeve, brenda 5 (pesë) ditëve pune, nga data e dorëzimit të dokumentacionit, shqyrton kërkesën e paraqitur nga subjektet e rindërtimit. Nëse konstatohen mangësi në dokumentacion, njoftohet kërkuesi për mangësitë e konstatuara dhe për plotësimin e dokumentacionit brenda një afati pesëditor.
 Bazuar në rezultatet e shqyrtimit, kur përmbushen kërkesat e përcaktuara dhe është plotësuar dokumentacioni i sipërpërmendur, drejtori i Përgjithshëm i Tatimeve, brenda 5 (pesë) ditëve pune nga paraqitja e kërkesës, lëshon autorizimin e përjashtimit nga TVSH-ja për subjektet e rindërtimit.
