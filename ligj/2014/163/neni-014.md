@@ -5,9 +5,8 @@ Kryetari i Urdhrit të Punonjësve Socialë
 3. Mandati i Kryetarit të Urdhrit është 3 vjet, me të drejtë rizgjedhjeje vetëm një herë.
 4. Kandidaturat për Kryetar të Urdhrit të Punonjësve Socialë duhet të përmbushin këto kritere:
 a) të jenë shtetas shqiptarë, rezidentë në Shqipëri;
-b) të jenë jo më shumë se në moshën e daljes në pension në momentin e zgjedhjes;
-c) të kenë jo më pak se pesë vjet përvojë në profesion, nga të cilat të paktën një vit ta kenë ushtruar gjatë pesë vjetëve të fundit;
-ç) të kenë aftësi komunikuese, organizuese dhe drejtuese;
+b) të jenë anëtarë të urdhrit dhe të jenë jo më shumë se në moshën e daljes në pension në momentin e zgjedhjes;
+c) të kenë jo më pak se 5 (pesë) vjet përvojë në ushtrimin e profesionit të punonjësit social; ç) të kenë aftësi komunikuese, organizuese dhe drejtuese;
 d) të mos jenë marrë ndaj tyre masa ndëshkimore disiplinore në 5 vitet e fundit;
 dh) të mos jenë dënuar me vendim gjykate, të formës së prerë, për kryerjen e një vepre penale.
 5. Funksioni i Kryetarit të Urdhrit është i papajtueshëm me çdo funksion tjetër administrativ, shtetëror apo politik.
