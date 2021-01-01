@@ -1,2 +1,0 @@
-10. Ngarkohen me zbatimin e këtij udhëzimi Drejtoria e Përgjithshme e Gjendjes Civile, nëpunësit e zyrave të gjendjes civile në bashki/njësi bashkiake/komuna dhe në degët e qarkut, të gjitha institucionet, organet, personat juridikë/fizikë, publikë/privatë, të cilët, për përmbushjen e një detyrimi ligjor dhe të përligjur, kërkojnë të marrin të dhëna personale nga shërbimi i gjendjes civile.
-Ky udhëzim hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare.

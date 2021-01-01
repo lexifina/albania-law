@@ -1,1 +1,0 @@
-2. Mënyra e marrjes së informacionit nga institucionet dhe organet, të cilat, sipas aneksit I, bashkëlidhur këtij udhëzimi, do të marrin informacion në formatin elektronik, do të përcaktohet me marrëveshje dypalëshe midis Drejtorisë së Përgjithshme të Gjendjes Civile dhe institucionit/organit përkatës.
