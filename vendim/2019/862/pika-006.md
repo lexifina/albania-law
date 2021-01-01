@@ -1,0 +1,1 @@
+6. Çdo mjet shpëtimi në bordin e mjetit lundrues, që mban flamurin shqiptar apo është regjistruar në Regjistrin e Mjeteve Lundruese Shqiptare, pajiset me një kuti të ndihmës së parë, të papërshkueshme nga uji.

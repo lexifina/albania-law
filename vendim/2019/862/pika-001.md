@@ -1,0 +1,1 @@
+1. Ky vendim rregullon kërkesat minimale të mbrojtjes së sigurisë dhe të shëndetit, si dhe të ofrimit të kujdesit shëndetësor për punëmarrësit në bordin e mjeteve që lundrojnë me flamur shqiptar ose që janë të regjistruara në Regjistrin e Mjeteve Lundruese Shqiptare.

@@ -1,0 +1,1 @@
+8. Çdo mjet lundrues, që transporton ngarkesa të rrezikshme, të përcaktuara në Kodin Ndërkombëtar të Mallrave të Rrezikshme Detare (IMDG), pavarësisht tipit të ngarkesës, duke përfshirë transportimin e tyre si teprica ose teprica nga ngarkesa, pajiset me materiale të konsumit mjekësor.

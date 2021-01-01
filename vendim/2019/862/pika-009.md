@@ -1,0 +1,1 @@
+9. Lista, sasia dhe cilësia e materialeve të konsumit mjekësor, përfshirë edhe kundërhelmet që disponohen në bordin e mjetit lundrues që transporton ngarkesa të rrezikshme, përcaktohen në përputhje me Kodin Ndërkombëtar të Mallrave të Rrezikshme Detare (IMDG) dhe shtojcën III, të këtij vendimi.

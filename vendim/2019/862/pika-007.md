@@ -1,0 +1,1 @@
+7. Kjo kuti përmban, të paktën, materiale të destinuara për konsum mjekësor që përfshihen në kutinë e ndihmës së parë, të përcaktuara sipas shtojcës II, seksionet I e II, të këtij vendimi, për kategorinë e mjeteve lundruese të tipit C.
