@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për mbrojtjen e publikut dhe të punëmarrësve të ekspozuar profesionalisht ndaj rrezatimit jonizues, dhe sigurisë ndaj ekspozimeve mjekësore me burimet e rrezatimit jonizues, sipas tekstit dhe shtojcave që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.

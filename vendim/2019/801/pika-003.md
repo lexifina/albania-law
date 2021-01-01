@@ -1,0 +1,2 @@
+3. Ngarkohen Ministria e Shëndetësisë dhe Mbrojtjes Sociale, Komisioni për Mbrojtjen nga Rrezatimet, Zyra e Mbrojtjes nga Rrezatimet, të gjitha institucionet e tjera që janë përgjegjëse për mbrojtjen dhe sigurinë e publikut nga rrezatimi jonizues, punëmarrësve, nxënësve apo praktikantëve ndaj ekspozimit profesional, si dhe pacientëve ose mbështetësve të tyre ndaj ekspozimit mjekësor për zbatimin e këtij vendimi.
+Ky vendim botohet në Fletoren Zyrtare dhe hyn në fuqi në datën 1.1.2021.
