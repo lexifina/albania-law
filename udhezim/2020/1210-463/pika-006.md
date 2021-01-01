@@ -1,0 +1,1 @@
+6. Kërkesat drejtuar shërbimit të gjendjes civile, sipas pikave 4 dhe 5 të këtij udhëzimi, duhet të shoqërohen me formularin sipas aneksit III, pjesë përbërëse e këtij udhëzimi, në të cilin subjekti i të dhënave personale ka shprehur pëlqimin e tij.

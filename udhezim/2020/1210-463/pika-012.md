@@ -1,0 +1,1 @@
+12. Ministri i Brendshëm dhe Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale, përditësojnë aneksin I, në mënyrë periodike dhe/ose brenda 30 ditëve nga paraqitja e kërkesës së një kontrolluesi të caktuar për t’u përfshirë në këtë aneks.

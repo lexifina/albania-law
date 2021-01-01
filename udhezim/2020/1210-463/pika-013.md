@@ -1,0 +1,1 @@
+13. Ngarkohen me zbatimin e këtij udhëzimi, Drejtoria e Përgjithshme e Gjendjes Civile, zyrat e gjendjes civile në bashki/njësi administrative, zyrat e arkivit të gjendjes civile pranë prefektit të qarkut, si dhe të gjitha institucionet, organet, personat juridikë apo fizikë që përpunojnë të dhëna personale në bazë të këtij udhëzimi.

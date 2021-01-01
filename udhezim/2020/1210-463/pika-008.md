@@ -1,0 +1,1 @@
+8. Kontrolluesit që kërkojnë të dhëna personale duhet të shprehin qartë bazën ligjore, mbi të cilën mbështesin kërkesën e tyre, qëllimin për të cilin do të përdoren këto të dhëna, si dhe llojin e të dhënave që kërkojnë. Të dhënat personale jepen vetëm në rastet kur ato nevojiten për përmbushjen e një detyrimi të parashikuar ligjor.

@@ -1,0 +1,1 @@
+7. Përjashtohen nga rregulla e përcaktuar në pikën 6 kontrolluesit, të cilët autorizohen me ligj për të përpunuar të dhënat personale të subjekteve të të dhënave personale për qëllime të veprimtarisë së tyre.

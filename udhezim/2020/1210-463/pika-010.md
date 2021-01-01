@@ -1,0 +1,1 @@
+10. Kontrolluesit, që marrin të dhëna personave, në asnjë rast nuk duhet t’i përhapin ato te palë të treta, pavarësisht faktit se këto të fundit mund të jenë të legjitimuara për t’i përpunuar këto të dhëna. Përjashtim nga kjo rregull bëjnë vetëm rastet e parashikuara me ligj.
