@@ -1,0 +1,7 @@
+# Neni 92
+Njësia përgjegjëse për zgjidhjen alternative të mosmarrëveshjeve (ZAM)
+1. Banka e Shqipërisë, pa paragjykuar të drejtën e palëve për t’iu drejtuar gjykatës ose procedurave të ndërmjetësimit, në bazë të legjislacionit në fuqi për mbrojtjen e konsumatorit, krijon një njësi të veçantë ZAM, e cila shqyrton dhe zgjidh mosmarrëveshjet e lindura ndërmjet konsumatorëve ose mikrondërmarrjeve dhe ofruesve të shërbimeve të pagesave për shkelje të pretenduara të këtij ligji nga ana e ofruesve të shërbimeve të pagesave.
+2. Banka e Shqipërisë, me akt nënligjor, miraton rregullat për funksionimin dhe organizimin e njësisë ZAM, në përputhje me parashikimet e legjislacionit në fuqi për mbrojtjen e konsumatorit.
+3. Banka e Shqipërisë, me akt nënligjor, miraton procedurat për zgjidhjen alternative të mosmarrëveshjeve nga ana e njësisë ZAM, në përputhje me parashikimet e legjislacionit në fuqi për mbrojtjen e konsumatorit. Procedurat për zgjidhjen alternative të mosmarrëveshjeve ndërmjet palëve të përcaktuara në pikën 1, të këtij neni, lidhur me të drejtat dhe detyrimet që rrjedhin nga titujt III e IV, të këtij ligji, duhet të jenë të përshtatshme, të pavarura, të paanshme, transparente dhe efektive.
+4. Procedurat e ZAM-it, sipas pikës 3, të këtij neni, zbatohen për ofruesit e shërbimeve të pagesave dhe gjithashtu mbulojnë edhe veprimtaritë e personave që administrojnë biznesin.
+5. Banka e Shqipërisë publikon procedurat për zgjidhjen alternative të mosmarrëveshjeve në buletinin zyrtar dhe faqen web të Bankës së Shqipërisë.

@@ -1,0 +1,7 @@
+# Neni 73
+Parevokueshmëria e urdhërpagesës
+1. Përdoruesi i shërbimeve të pagesave nuk revokon urdhërpagesën, pasi merret nga ofruesi i shërbimeve të pagesave të paguesit, me përjashtim të rasteve kur parashikohet ndryshe në këtë nen.
+2. Kur transaksioni i pagesës është iniciuar nga ofruesi i shërbimit të inicimit të pagesës apo nga ose nëpërmjet përfituesit të pagesës, paguesi nuk mund të revokojë urdhërpagesën pas dhënies së pëlqimit për ta iniciuar transaksionin e pagesës tek ofruesi i shërbimit të inicimit të pagesës ose pasi ka dhënë pëlqimin për ta ekzekutuar transaksionin e pagesës te përfituesi i pagesës.
+3. Pavarësisht pikës 2, të këtij neni, në rastin e një debitimi direkt dhe pa cenuar të drejtat për rimbursim, paguesi mund të revokojë urdhërpagesën jo më vonë se fundi i ditës së punës që i paraprin ditës së rënë dakord për debitimin e fondeve.
+4. Në rastin e parashikuar në pikën 2, të nenit 71, të këtij ligji, përdoruesi i shërbimeve të pagesave mund të revokojë urdhërpagesën jo më vonë se fundi i ditës së punës që i paraprin ditës së rënë dakord.
+5. Pas afateve kohore të përcaktuara në pikat 1 deri në 4, të këtij neni, urdhërpagesa mund të revokohet vetëm nëse përdoruesi i shërbimeve të pagesave dhe ofruesit përkatës të shërbimeve të pagesave bien dakord ndërmjet tyre. Në rastet e parashikuara në pikat 2 dhe 3, të këtij neni, kërkohet dhe dakordësia e përfituesit të pagesës. Ofruesi përkatës i shërbimeve të pagesave mund të aplikojë tarifa për revokimin, nëse është parashikuar në kontratën tip.

@@ -1,0 +1,5 @@
+# Neni 44
+Informacioni i përgjithshëm paraprak
+1. Ofruesi i shërbimeve të pagesave, përpara se përdoruesi i shërbimeve të pagesave të nënshkruajë kontratën tip ose të angazhohet nëpërmjet një oferte, i jep përdoruesit të shërbimeve të pagesave, në letër ose në një formë tjetër të qëndrueshme komunikimi, informacionin dhe kushtet e përcaktuara në nenin 45, të këtij ligji. Informacioni dhe kushtet shprehen, të paktën në gjuhën shqipe, me fjalë lehtësisht të kuptueshme e në një formë të qartë.
+2. Nëse kontrata tip është lidhur me kërkesën e përdoruesit të shërbimit të pagesave, duke përdorur një mjet të komunikimit në distancë, që nuk i lejon ofruesit të shërbimit të pagesave pajtueshmërinë me pikën 1, të këtij neni, ofruesi i shërbimit të pagesave përmbush detyrimet e tij, sipas kësaj pike, menjëherë pas lidhjes së kontratës tip.
+3. Ofruesi mund të përmbushë detyrimet që rrjedhin nga pika 1, e këtij neni, edhe duke i dhënë përfituesit të shërbimeve të pagesave një kopje të projektkontratës tip, në të cilën përfshihen informacioni dhe kushtet e përcaktuara në nenin 45, të këtij ligji.

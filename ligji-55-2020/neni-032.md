@@ -1,0 +1,7 @@
+# Neni 32
+Fusha e zbatimit
+1. Dispozitat e këtij titulli zbatohen për transaksionet individuale të pagesave, kontratat tip dhe transaksionet e pagesave që rregullohen prej tyre. Palët mund të bien dakord që ky krye të mos zbatohet, tërësisht ose pjesërisht, kur përdoruesi i shërbimeve të pagesave nuk është një konsumator.
+2. Në zbatim të dispozitave të këtij titulli, mikrondërmarrjet trajtohen në të njëjtën mënyrë si konsumatorët.
+3. Dispozitat e këtij titulli, me përjashtim të shkronjës “b”, të pikës 1, të nenit 38; të nënndarjes“v”, të shkronjës “b”, të nenit 45;dhe të shkronjës “a”, të pikës 1, të nenit 49, të këtij ligji, zbatohen për pagesat kombëtare në monedhë të huaj, si në rastin kur pagesa kryhet ndërmjet dy ofruesve të shërbimeve të pagesave, atë të paguesit dhe atë të përfituesit, ashtu dhe kur ofruesi i shërbimit të pagesave të paguesit dhe përfituesit është i njëjtë, për atë pjesë të pagesës që kryhet brenda territorit të Republikës së Shqipërisë.
+4. Dispozitat e këtij titulli, me përjashtim të shkronjës “b”, të pikës 1, të nenit 38;të nënndarjes“v”, të shkronjës “b”, të nenit 45; të nënpikës “vii”, të shkronjës “d”, të nenit 45; dhe të shkronjës “a”, të pikës 1, të nenit 49, zbatohen edhe për pagesat ndërkufitare, për sa i përket pjesës së transaksionit të pagesës së kryer brenda territorit të Republikës së Shqipërisë.
+5. Dispozitat e këtij ligji nuk cenojnë zbatimin e legjislacionit shqiptar lidhur me kushtet e dhënies së kredive konsumatore, të cilat nuk janë të rregulluara nga ky ligj.

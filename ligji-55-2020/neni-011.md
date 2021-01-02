@@ -1,0 +1,4 @@
+# Neni 11
+Kapitali rregullator
+1. Banka e Shqipërisë përcakton me akt nënligjor kapitalin rregullator të detyrueshëm për t’u mbajtur në çdo kohë nga institucioni i pagesave, pavarësisht kapitalit fillestar minimal. Banka e Shqipërisë përcakton përbërjen dhe metodologjinë e llogaritjes së kapitalit rregullator, bazuar në vëllimin e pagesave të kryera ose të parashikuara për t’u kryer nga institucioni i pagesave, përveç institucioneve të pagesave që ofrojnë shërbimet, sipas pikës 7 ose 8, ose të dyja njëkohësisht, sipas aneksit 1, të këtij ligji.
+2. Banka e Shqipërisë, bazuar në një vlerësim të proceseve të administrimit të rrezikut, rrezikut të humbjes së të dhënave bazë dhe të mekanizmave të kontrollit të brendshëm të institucionit të pagesave, mund t’i kërkojë institucionit të pagesave që të mbajë një shumë kapitali rregullator (fonde të veta) deri në 20% më të lartë se shuma e llogaritur sipas përcaktimit në aktin nënligjor të Bankës së Shqipërisë.

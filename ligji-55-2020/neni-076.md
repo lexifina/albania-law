@@ -1,0 +1,5 @@
+# Neni 76
+Transaksionet e pagesës në një llogari pagese
+1. Ofruesi i shërbimeve të pagesave të paguesit siguron që, pas datës së marrjes së urdhërpagesës, sipas nenit 71, të këtij ligji, shuma e transaksionit të pagesës të kreditohet në llogarinë e ofruesit të shërbimeve të pagesave të përfituesit të pagesës jo më vonë se fundi i ditës pasardhëse të punës. Ky afat mund të zgjatet me një ditë pune shtesë për transaksionet e pagesave të iniciuara në format letër.
+2. Ofruesi i shërbimeve të pagesave të përfituesit të pagesës përcakton datëvalutën dhe kalon shumën e transaksionit të pagesës në llogarinë e pagesës së përfituesit, pasi ofruesi i shërbimeve të pagesave të ketë marrë fondet, sipas nenit 79, të këtij ligji.
+3. Ofruesi i shërbimeve të pagesave të përfituesit të pagesës transmeton një urdhërpagesë të iniciuar nga ose nëpërmjet përfituesit të pagesës tek ofruesi i shërbimeve të pagesave të paguesit brenda afateve të rëna dakord ndërmjet palëve, duke bërë të mundur shlyerjen, për sa i përket debitimit direkt, në datën e rënë dakord për pagesën.

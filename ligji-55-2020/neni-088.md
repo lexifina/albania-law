@@ -1,0 +1,5 @@
+# Neni 88
+Administrimi i rreziqeve operacionale dhe të sigurisë
+1. Ofruesit e shërbimeve të pagesave krijojnë një kuadër rregullativ me masat e duhura zbutëse dhe mekanizma kontrolli për administrimin e rreziqeve operacionale dhe të sigurisë, të lidhura me shërbimet e pagesave të ofruara prej tyre. Si pjesë e këtij kuadri rregullativ, ofruesi i shërbimeve të pagesave krijon dhe mban procedura efektive të administrimit të incidentit, përfshirë edhe ato për zbulimin dhe klasifikimin e incidenteve të mëdha operacionale e të sigurisë.
+2. Ofruesit e shërbimeve të pagesave i vënë në dispozicion Bankës së Shqipërisë, në bazë vjetore ose dhe në intervale më të shkurtra kohore, të përcaktuara nga Banka e Shqipërisë, një vlerësim të përditësuar e gjithëpërfshirës të rrezikut operacional dhe atij të sigurisë, lidhur me shërbimet e pagesave që ata ofrojnë dhe mbi përshtatshmërinë e masave zbutëse e të mekanizmave të kontrollit të zbatuara në përgjigje të atyre rreziqeve.
+3. Banka e Shqipërisë nxjerr akte nënligjore në zbatim të kërkesave të këtij neni, mbështetur në praktikat më të mira ndërkombëtare dhe në standardet teknike rregullatore të fushës.

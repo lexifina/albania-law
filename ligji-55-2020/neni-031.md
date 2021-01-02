@@ -1,0 +1,7 @@
+# Neni 31
+Ndalimi i personave të ndryshëm nga ofruesit e shërbimeve të pagesave
+nga ofrimi i shërbimeve të pagesave dhe detyrimi për njoftim
+1. Personat fizikë ose juridikë që nuk janë ofrues të shërbimeve të pagesave ose nuk janë të përjashtuar shprehimisht, sipas nenit 4, të këtij ligji, e kanë të ndaluar të ofrojnë shërbimet e pagesave.
+2. Ofruesit e shërbimeve që kryejnë njërën nga veprimtaritë, sipas nënndarjeve “i” dhe “ii”, të shkronjës “gj”, të nenit 4, të këtij ligji, ose të dyja njëkohësisht, dhe kur vlera totale e transaksioneve të pagesave të kryera brenda 12 muajve paraardhës tejkalon shumën prej 50 000 000 (pesëdhjetë milionë)lekësh, njoftojnë Bankën e Shqipërisë, duke specifikuar shërbimet e ofruara dhe duke evidentuar përjashtimin e referuar në nënndarjet “i” dhe “ii”, të shkronjës“gj”, të nenit 4, të këtij ligji, sipas të cilit konsiderohet të kryhet veprimtaria. Mbi bazën e këtij njoftimi, Banka e Shqipërisë merr një vendim të mirargumentuar për vazhdimësinë ose jo të përjashtimit dhe informon ofruesin e shërbimeve.
+3. Ofruesit e shërbimeve që kryejnë një veprimtari, sipas shkronjës “h”, të nenit 4, të këtij ligji, njoftojnë Bankën e Shqipërisë dhe i paraqesin opinionin vjetor të audituesit ligjor, që dëshmon se veprimtaria përputhet me kufijtë e përcaktuar në shkronjën “h”, të nenit 4, të këtij ligji.
+4. Banka e Shqipërisë publikon në regjistrin e parashikuar në nenin 16, të këtij ligji, personin dhe përshkrimin e veprimtarisë së njoftuar, sipas pikave 2 e 3, të këtij neni.
