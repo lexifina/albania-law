@@ -1,0 +1,21 @@
+# Neni 54
+Kundërvajtjet administrative dhe sanksionet
+1. Kur inspektorët metrologë vërtetojnë se subjekti ka shkelur dispozitat e këtij ligji, nëpërmjet konstatimit të drejtpërdrejtë ose raportimit të personave juridikë privatë, të autorizuar në një nga format e parashikuara në legjislacionin në fuqi për të ofruar shërbime sipas këtij ligji, kanë të drejtë të vendosin gjobë sipas pikave 2 e 3 të këtij neni, krahas dënimeve të tjera, të zbatueshme sipas këtij ligji, dhe të kërkojnë nga subjekti marrjen e masave për ndreqjen e shkeljes, duke vendosur afat për realizimin e ndreqjes.
+2. Shkeljet e përcaktuara në pikat 2.1, 2.2 dhe 2.3 të këtij neni, kur nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative dhe dënohen me gjobë dhe/ose dënime të tjera, sipas parashikimeve të këtij ligji, si më poshtë:
+2.1 Për subjekte të biznesit të vogël 20 000 (njëzet mijë) lekë, për subjekte të biznesit të madh 100 000 (njëqind mijë) lekë, për stacione të tregtimit të karburanteve dhe njësitë e shitjes së lëndëve djegëse 200 000 (dyqind mijë) lekë, për shoqëritë që kryejnë veprimtari kërkimi e prodhimi, për rafineritë, impiantet e përpunimit të naftësjellësit, për instalimet dhe terminalet bregdetare dhe shoqëritë e tregtimit me shumicë 700 000 (shtatëqind mijë) lekë:
+a) përdorimi i njësive matëse në kundërshtim me rregullat e përcaktuara nga Këshilli i Ministrave, sipas nenit 11 të këtij ligji;
+b) mbajtja në biznesin e vet të një instrumenti matës që nuk është në përdorim dhe nuk është shënjuar në mënyrë të dukshme me shenjën “Instrument matës jo në përdorim”, në kundërshtim me pikën 2 të nenit 19 të këtij ligji;
+c) mbajtja në biznesin e vet të një instrumenti matës që nuk është në përdorim dhe është i shënjuar në mënyrë të dukshme me shenjën “instrument matës jo në përdorim”, për më shumë se 30 (tridhjetë) ditë nga momenti i vendosjes së shenjës “instrument matës jo në përdorim”, në kundërshtim me pikën 2 të nenit 19 të këtij ligji;
+ç) moskryerja e verifikimit të instrumenteve matëse, sipas përcaktimeve të shkronjës “c” të nenit 20, mosmirëmbajtja e rregullt e instrumenteve matëse në kundërshtim me shkronjën “b” të nenit 20 dhe të pikës 2 të nenit 25 të këtij ligji;
+d) mosvënia në dispozicion e instrumenteve matëse pas riparimit për verifikim, sipas përcaktimeve të nenit 28 të këtij ligji;
+dh) mosplotësimi i kërkesave për regjistrim, të përcaktuara në pikën 3 të nenit 38 të këtij ligji;
+e) mosdhënia e informacionit dhe e të dhënave të domosdoshme inspektorit për të kryer inspektimin, në kundërshtim me nenin 47 të këtij ligji;
+2.2 Për subjektet e biznesit të vogël 20 000 (njëzet mijë) lekë dhe për subjektet e biznesit të madh 400 000 (katërqind mijë) lekë:
+a) prodhimi, importimi dhe vendosja në treg e produkteve të paketuara dhe shisheve si enë matëse, që nuk plotësojnë kërkesat metrologjike dhe nuk kanë mbishkrimet dhe shenjat e përshkruara sipas pikës 1 të nenit 37 të këtij ligji;
+b) konstatimi i kushteve të shfuqizimit të vendimit të autorizimit nga Drejtoria e Përgjithshme e Metrologjisë, sikundër parashikohet në nenin 42, dhe mospërmbushja e detyrimeve të subjektit të autorizuar sipas parashikimeve të nenit 45 të këtij ligji.
+2.3 Për subjektet e biznesit të vogël 30 000 (tridhjetë mijë) lekë, për subjektet e biznesit të madh 300 000 (treqind mijë) lekë, për stacionet e tregtimit të karburanteve dhe njësitë e shitjes së lëndëve djegëse 1 500 000 (një milion e pesëqind mijë) lekë, për shoqëritë që kryejnë veprimtari kërkimi e prodhimi, për rafineritë, impiantet e përpunimit të naftësjellësit, për instalimet dhe terminalet bregdetare dhe shoqëritë e tregtimit me shumicë 5 000 000 (pesë milionë) lekë:
+a) vendosja në treg dhe vënia në përdorim e instrumenteve matëse në kundërshtim me parashikimet e nenit 18, pikës 6 të nenit 25 dhe në rastet kur nuk zbatohet vendimi i inspektorit sipas pikës 1 të nenit 50 të këtij ligji;
+b) përdorimi i instrumenteve matëse ligjërisht të kontrolluara në kundërshtim me parashikimet e pikës 7 të nenit 25;
+c) pengimi dhe/ose ndalimi i kryerjes së verifikimeve të instrumenteve matëse ligjërisht të kontrolluara, sikundër parashikohet në pikën 4 të nenit 22 të këtij ligji;
+ç) dëmtimi, heqja dhe/ose shkatërrimi i shenjës së verifikimit dhe vulave të sigurisë në instrumente.
+3. Në rast përsëritje të së njëjtës shkelje, gjobat dyfishohen.
