@@ -1,0 +1,1 @@
+6. Pronari i pasurisë së paluajtshme, pronë private, i pasqyruar në tabelën që i bashkëlidhet këtij vendimi, të kompensohet, për efekt shpronësimi, pasi të ketë paraqitur pranë Ministrisë së Mbrojtjes certifikatën e pronësisë, kartelën e pasurisë së paluajtshme si dhe hartën treguese të regjistrimit.
