@@ -1,0 +1,1 @@
+8. Vlera e kompensimit të qirasë së banesës nuk do të jetë më e madhe se vlera e qirasë mesatare të banesave në tregun e lirë, sipas vendimit të fundit të këshillit të njësisë së vetëqeverisjes vendore përkatëse.

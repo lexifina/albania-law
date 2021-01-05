@@ -1,0 +1,1 @@
+12. Përfitimi i pagesës për kompensim udhëtimi apo qira banese vazhdon deri në ndryshimin e vendbanimit, që nënkupton sistemimin me banesë në juridiksionin e qendrës së punës, ku punonjësi është transferuar apo emëruar. Kjo pagesë do të përfitohet për një periudhë deri në tre vjet.

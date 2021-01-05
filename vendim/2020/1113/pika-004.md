@@ -1,0 +1,1 @@
+4. Punonjësi që transferohet apo emërohet për herë të parë, jashtë vendbanimit, për nevoja dhe në interes të punës, në një largësi mbi 36 km, kur ai ose ndonjë pjesëtar i familjes nuk ka banesë në pronësi në vendin e punës, përfiton kompensim për qira banese dhe rimbursimin e plotë të shpenzimeve të transferimit të tij dhe/ose të familjes.

@@ -1,0 +1,1 @@
+16. Vendimi nr. 595, datë 5.9.2012, i Këshillit të Ministrave, “Për kompensimin e punonjësit të Shërbimit Informativ të Shtetit, për shkak të natyrës së veçantë të punës dhe kufizimeve ligjore”, shfuqizohet.
