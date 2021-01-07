@@ -1,0 +1,1 @@
+1. Subjekti pronar i një anijeje të mbytur peshkimi ose trashëgimtarët e tij aplikojnë për leje peshkimi pranë Qendrës Kombëtare të Biznesit, në vijim “QKB”, duke zbatuar të njëjtat rregulla që zbatohen në procedurat e aplikimeve fillestare për pajisje me leje peshkimi.

@@ -1,0 +1,1 @@
+6. Subjekti pronar i një anijeje të mbytur peshkimi ose trashëgimtarët e tij, kur aplikojnë për t’u pajisur me leje për anijen e re të peshkimit, si zëvendësim i anijes së mbytur, duhet të vërtetojnë se anija zëvendësuese plotëson kushtet e tjera për pajisje me leje peshkimi, sipas legjislacionit në fuqi të lejeve dhe të licencave.

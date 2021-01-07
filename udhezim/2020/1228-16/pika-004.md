@@ -1,0 +1,1 @@
+4. Komisioni i Lejeve të Peshkimit Detar i drejtohet Kapitenarisë së Portit për të verifikuar pronësinë e anijes së mbytur dhe për të marrë një vërtetim për mbytjen e kësaj anijeje mbi bazën e ditarit të Kapitenarisë së Portit, së bashku me një fotokopje të fletës së ditarit.

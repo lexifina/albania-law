@@ -1,0 +1,1 @@
+3. Me marrjen dhe shqyrtimin e dokumentacionit për anijen e re zëvendësuese, Komisioni i Lejeve të Peshkimit Detar në ministri, verifikon, gjithashtu, nëse anija e mbytur e peshkimit ka qenë e pajisur me leje të vlefshme peshkimi.

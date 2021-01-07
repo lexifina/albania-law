@@ -1,0 +1,1 @@
+7. Anijes së re të peshkimit, që zëvendëson anijen e mbytur, i vendoset në regjistër një Numër i Ri Identifikimi (NFR), me qëllim shmangien e mbivendosjes së të dhënave dhe të informacionit (si data e regjistrimit, data e prodhimit, përmasat etj.,) me anijen që ajo zëvendëson.

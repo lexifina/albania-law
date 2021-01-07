@@ -1,0 +1,1 @@
+5. Leja e peshkimit lëshohet nga QKB-ja pas shqyrtimit, verifikimit dhe plotësimit të kushteve të parashikuara në pikat 3 dhe 4 të këtij udhëzimi, nga Komisioni i Lejeve të Peshkimit Detar në ministri.
