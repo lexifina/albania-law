@@ -1,0 +1,5 @@
+# Neni 33
+Zbatimi dhe mbikëqyrja e kontratës
+1. Gjatë zbatimit të kontratës, autoriteti kontraktor dhe organe të tjera shtetërore të autorizuara me ligj mund të mbikëqyrin veprimtarinë e kontraktorit apo të nënkontraktorit, vendin e zbatimit, afatet, si dhe cilësinë mallrave apo të shërbimeve, në përputhje me kushtet e kontratës, si dhe legjislacionin në fuqi.
+2. Zbatimi dhe mbikëqyrja e kontratës realizohet nga struktura përgjegjëse për modernizimin, e cila vlerëson realizimin e detyrimeve kontraktuale, sipas fazave të realizimit të kontratës dhe përgatit raportin përkatës për fazën në të cilën është zbatimi i kontratës.
+3. Në përfundim të kontratës, struktura përgjegjëse për modernizimin përgatit një raport përmbledhës për titullarin e autoritetit kontraktor për korrektësinë dhe cilësinë e zbatimit të kontratës. Një kopje e këtij raporti i jepet edhe kontraktorit, me kërkesë të tij.

@@ -1,0 +1,17 @@
+# Neni 31
+Procedura e shqyrtimit të ankesave
+1. Çdo operator ekonomik, pjesëmarrës në një procedurë prokurimi që rrezikohet të dëmtohet nga një vendim i autoritetit kontraktor, mund ta kundërshtojë këtë vendim.
+2. Ankesat, si për dokumentet e tenderit, ashtu edhe për vendimet e komisionit të vlerësimit të ofertave, duhet të dorëzohen pranë autoritetit kontraktor, brenda 5 (pesë) ditëve punë nga data kur ankimuesi është vënë në dijeni të dokumenteve ose vendimmarrjes që konteston.
+3. Ankimuesi përdor formularin e ankesës, pjesë e dokumenteve të tenderit, që përmban emrin dhe adresën e ankimuesit, objektin e procedurës konkrete, bazën ligjore, si dhe një përshkrim të shkeljes së pretenduar.
+4. Me marrjen e ankesës me shkrim nga ankimuesi, titullari i autoritetit kontraktor urdhëron njësinë e prokurimit dhe komisionin e vlerësimit të ofertave të pezullojnë vazhdimin e procedurës, derisa ankesa të shqyrtohet plotësisht.
+5. Titullari i autoritetit kontraktor ia ngarkon çështjen një komisioni të përbërë nga 3 (tre) persona, ku të paktën njëri është ekspert i fushës për të shqyrtuar ankesën dhe për të dhënë një vendim. Përjashtimisht, në rast të mungesës së personelit, titullari i autoritetit kontraktor ia ngarkon çështjen për shqyrtim 1 (një) zyrtari të vetëm, i cili duhet të jetë ekspert fushe. Komisioni/zyrtari i ngarkuar është përgjegjës për shqyrtimin e ankesës dhe marrjen e vendimit lidhur me të.
+6. Njësia e prokurimit mbledh të gjithë informacionin e nevojshëm për të shqyrtuar ankesën dhe për të ndihmuar komisionin/zyrtarin e ngarkuar për shqyrtimin e saj.
+Në rast se ankimi lidhet me dokumentet e tenderit, titullari mund t’ia ngarkojë shqyrtimin e ankesës komisionit të vlerësimit të ofertës.
+7. Vendimi për ankesën duhet të merret brenda 10 (dhjetë) ditëve punë nga marrja e saj.
+8. Nëse kërkohet informacion tjetër nga ankimuesi, atëherë afati kohor i sipërpërmendur ndërpritet dhe fillon përsëri, pasi komisioni/zyrtari i ngarkuar me shqyrtimin e ankesës ta sigurojë këtë informacion.
+9. Autoriteti kontraktor duhet të informojë ankimuesin për vendimin dhe arsyet për këtë vendim të marrë, jo më vonë se 24 (njëzet e katër) orë pas marrjes së vendimit.
+10. Autoriteti kontraktor, nëse nevojitet, duhet të zgjasë afatin kohor të procedurës së prokurimit aq sa zgjat periudha e pezullimit.
+11. Në rastet kur afatet kohore të procedurës së prokurimit, për të cilat janë njoftuar ofertuesit, ndryshojnë për shkak të marrjes parasysh të ankesës, autoriteti kontraktor u shpërndan ofertuesve një njoftim të posaçëm, ku jepen arsyet për zgjatjen e këtyre afateve.
+12. Në përfundim të shqyrtimit të ankesës, komisioni/zyrtari i ngarkuar për shqyrtimin e saj mund të marrë vendim për refuzimin ose pranimin e ankesës, i cili i komunikohet menjëherë titullarit të autoritetit kontraktor.
+13. Në rastin kur ankesa është pranuar, komisioni/zyrtari i ngarkuar për shqyrtimin e ankesës i dërgon vendimin për zbatim njësisë së prokurimit ose komisionit të vlerësimit të ofertave, duke njoftuar dhe titullarin e autoritetit kontraktor.
+14. Vendimi i komisionit/zyrtarit të ngarkuar për shqyrtimin e ankesës është përfundimtar dhe, në çdo rast, i komunikohet me shkrim ankimuesit. Komunikimi i vendimit mund të bëhet edhe në adresën elektronike të përcaktuar prej operatorit ekonomik në formularin e ankesës. Autoriteti kontraktor duhet të informojë ankimuesin për vendimin dhe arsyet për këtë vendim të marrë, jo më vonë se 24 (njëzet e katër) orë pas marrjes së vendimit.
