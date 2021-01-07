@@ -1,0 +1,1 @@
+2. Efekti financiar, sipas pikës 1 të këtij vendimi, të përballohet nga shpenzimet buxhetore të fondit të rindërtimit, miratuar në buxhetin e shtetit për vitin 2020, dhe i transferohet në formën e transfertës së pakushtëzuar Bashkisë Lezhë.
