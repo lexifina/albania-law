@@ -1,0 +1,5 @@
+VENDIM
+Nr. 1146, datë 24.12.2020
+PËR DHËNIEN E MIRATIMIT PËR FILLIMIN E PROCEDURAVE TË PRIVATIZIMIT PËR PASURINË NR. 109, ME EMËRTIM “SHA RIPARIM ARTILERIE”, E PËRBËRË NGA DISA SIPËRFAQE, TRUALL FUNKSIONAL DHE OBJEKTE, ME VENDNDODHJE NË BRAR, TIRANË, ME SIPËRFAQE TË PËRGJITHSHME 43 169 m2, DHËNË ME KONTRATË ME ÇMIMIN 1 EURO/KONTRATA FONDACIONIT “FUNDJAVË NDRYSHE”
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 2, të aktit normativ nr. 4, datë 9.7.2008, të Këshillit të Ministrave, “Për privatizimin dhe dhënien në përdorim të shoqërive tregtare dhe institucioneve shtetërore, të ndërmarrjeve apo objekteve të veçanta, mjeteve kryesore dhe mjeteve të xhiros të këtyre ndërmarrjeve”, të miratuar me ligjin nr. 9967, datë 24.7.2008; të pikës 32, kreu III, të vendimit nr. 926, datë 29.12.2014, të Këshillit të Ministrave, “Për kriteret e vlerësimit të pronës shtetërore që privatizohet apo transformohet dhe procedurën e shitjes”, të ndryshuar, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:
