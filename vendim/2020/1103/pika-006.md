@@ -1,0 +1,1 @@
+6. Shpronësimi të fillojë menjëherë nga Drejtoria Rajonale e Trashëgimisë Kulturore Vlorë pas botimit të këtij vendimi në Fletoren Zyrtare. Afati i përfundimit të shpronësimit të jetë 3 (tre) muaj pas datës së hyrjes në fuqi të këtij vendimi.

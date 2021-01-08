@@ -1,0 +1,1 @@
+3. Pronarët e pasurisë së paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për pasuritë e llojit “apartament”, me një vlerë të përgjithshme prej 6 737 363 (gjashtë milionë e shtatëqind e tridhjetë e shtatë mijë e treqind e gjashtëdhjetë e tre) lekësh.

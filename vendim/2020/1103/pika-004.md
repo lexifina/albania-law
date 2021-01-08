@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 6 737 363 (gjashtë milionë e shtatëqind e tridhjetë e shtatë mijë e treqind e gjashtëdhjetë e tre) lekësh, do të përballohet nga buxheti i vitit 2021, miratuar për Ministrinë e Kulturës, zëri “shpronësime”.
