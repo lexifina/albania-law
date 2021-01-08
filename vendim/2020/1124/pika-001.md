@@ -1,0 +1,1 @@
+1. Lejimin e gjuetisë së dhelprës së kuqe, për arsye të monitorimit shkencor pasvaksinal, që realizohet në kuadër të projektit IPA 2017, “Kontrolli dhe çrrënjosja e sëmundjes së tërbimit - faza III”, të financuar nga Bashkimi Evropian.

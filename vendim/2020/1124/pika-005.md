@@ -1,0 +1,1 @@
+5. Gjatë të gjithë kohës së kryerjes së kësaj veprimtarie në zonat ku do të kryhet vrasja dhe marrja e kampioneve nga dhelprat, procesi do të kontrollohet nga strukturat vendore përgjegjëse për pyjet në njësitë e vetëqeverisjes vendore, shërbimet veterinare përkatëse dhe Policia e Shtetit.
