@@ -1,0 +1,26 @@
+{
+  "qbz_id": 55696,
+  "title": "Për informacionin e klasifikuar “Sekret shtetëror”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "5",
+  "institution": "Drejtoria e Përgjithshme e Arkivave",
+  "adopted": "2020-12-24",
+  "published": "2021-01-12",
+  "in_force": "2021-01-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/20ebba622eb5826a742f56b46d737d6415e7736943e49c529a6f75a55202d588.docx",
+  "source_sha256": "20ebba622eb5826a742f56b46d737d6415e7736943e49c529a6f75a55202d588",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55696",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2020/12/24/5",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
