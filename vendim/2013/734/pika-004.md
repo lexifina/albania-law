@@ -1,1 +1,0 @@
-4. Të dhënat personale të përdorura gjatë regjistrimit të përdoruesve në sistemin unik të autentifikimit dhe të identifikimit trajtohen në përputhje me legjislacionin për mbrojtjen e të dhënave personale.

@@ -1,1 +1,0 @@
-6. Institucionet, të cilat kanë sisteme ekzistuese në fushën e teknologjisë së informacionit, për të cilat është i nevojshëm autentifikimi dhe identifikimi i përdoruesve dhe të cilat përdorin mekanizma të tjerë të autentifikimit e identifikimit duhet të përshtatin sistemet e tyre për të përdorur Sistemin Unik të Identifikimit deri në datën 31 dhjetor 2015.

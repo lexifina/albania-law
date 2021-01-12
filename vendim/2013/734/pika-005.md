@@ -1,1 +1,0 @@
-5. Institucionet që janë duke zhvilluar sisteme të reja në fushën e teknologjisë së informacionit, për të cilat është i nevojshëm autentifikimi dhe identifikimi i përdoruesve, duhet ta realizojnë këtë nëpërmjet Sistemit Unik të Identifikimit.
