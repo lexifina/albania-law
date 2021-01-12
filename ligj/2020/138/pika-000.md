@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 32, datë 12.10.2020, “Për një ndryshim në aktin normativ nr. 3, datë 15.3.2020, të Këshillit të Ministrave, ’Për marrjen e masave të veçanta administrative gjatë kohëzgjatjes së periudhës së infeksionit të shkaktuar nga COVID-19’, të ndryshuar”.
