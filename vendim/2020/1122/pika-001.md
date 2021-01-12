@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është miratimi i kërkesave, kushteve, procedurave, fondeve të nevojshme buxhetore për krijimin, mbajtjen, menaxhimin dhe përditësimin e Kadastrës Kombëtare të Burimeve Ujore.
