@@ -1,13 +1,13 @@
 # Shtojca
 Lidhja nr. 1
-Struktura e pagës për punonjësit mësimorë dhe drejtues në institucionet arsimore,
-të përcaktuara në shkronjat “b”, “c”, “ç” dhe “d”, të pikës 1, të këtij vendimi
-EMËRTIMI / POZICIONI
+Struktura e pagës për punonjësit mësimorë të arsimit parauniversitar
+Struktura e pagës për punonjësit mësimorë të arsimit parauniversitar
+EMËRTIMI/POZICIONI
 PAGA MUJORE
 Paga individuale
 Shtesa e pozicionit
 Paga e
-grupit
+Grupit
 (PG)
 Shtesa për vjetërsi (SHV)
 Shtesa për kualifikim (SHK)
@@ -17,139 +17,138 @@ Shtesa për kualifikim (SHK)
 4
 5
 1
-Drejtor i shkollës së mesme me mbi 700 nxënës.
-Drejtor i institutit të nxënësve që nuk shikojnë.
-Drejtor i institutit të nxënësve që nuk dëgjojnë.
-Drejtor në shkollat me aftësi të kufizuara.
+Drejtor i shkollës së mesme me mbi 700 nxënës;
+Drejtor i institutit të nxënësve që nuk shikojnë;
+Drejtor i institutit të nxënësve që nuk dëgjojnë;
+Drejtor në shkollat e specializuara.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
 20% e PG.
-61.000
+70150
 2
 Drejtor i shkollës së mesme me 301 deri në 700 nxënës.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-59.750
+20% e PG.
+68750
 3
 Drejtor i shkollës së mesme me deri në 300 nxënës.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
 20% e PG
-58.750
+67560
 4
-Zëvendësdrejtor i shkollës së mesme me mbi 700 nxënës.
-Përgjegjës i bazës prodhuese.
-Zëvendësdrejtor i institutit të nxënësve që nuk shikojnë.
-Zëvendësdrejtor i institutit të nxënësve që nuk dëgjojnë.
-Zëvendësdrejtor në shkollat me aftësi të kufizuara.
+Zëvendësdrejtor i shkollës së mesme me mbi 700 nxënës;
+Përgjegjës i bazës prodhuese;
+Zëvendësdrejtor i institutit të nxënësve që nuk shikojnë;
+Zëvendësdrejtor i institutit të nxënësve që nuk dëgjojnë;
+Zëvendësdrejtor në shkollat e specializuara.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-54.500
+20% e PG.
+62700
 5
 Zëvendësdrejtor i shkollës së mesme me 301 deri në 700 nxënës.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-53.500
+20% e PG.
+61550
 6
 Zëvendësdrejtor i shkollës së mesme me deri në 300 nxënës.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-52.750
+20% e PG.
+60660
 7
 Drejtor i shkollës 9-vjeçare me mbi 700 nxënës.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-50.850
+20% e PG.
+58500
 8
 Drejtor i shkollës 9-vjeçare me 301 deri në 700 nxënës.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-49.500
+20% e PG.
+56950
 9
 Drejtor i shkollës 9-vjeçare me deri në 300 nxënës.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-48.500
+20% e PG.
+55770
 10
-Drejtor i shkollës fillore klasa I-IV.
-Përgjegjës (kryemësues) i shkollës me klasë kolektive.
+Drejtor i shkollës fillore klasa I - IV. Përgjegjës (kryemësues) i shkollës me klasë kolektive;
 Zëvendësdrejtor i shkollës 9-vjeçare.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-48.000
+20% e PG.
+55200
 11
-Mësues në shkollat e mesme.
-Mësues në institutin e nxënësve që nuk shikojnë.
-Mësues në institutin e nxënësve që nuk dëgjojnë.
-Mësues në shkollat me aftësi të kufizuara.
+Mësues në shkollat e mesme;
+Mësues në institutin e nxënësve që nuk shikojnë;
+Mësues në institutin e nxënësve që nuk dëgjojnë;
+Mësues në shkollat e specializuara;
 Mësues i praktikës profesionale.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-45.000
+20% e PG.
+51750
 12
-Mësues në ciklin e lartë në shkollat 9-vjeçare.
+Mësues në arsimin e mesëm të ulët në shkollat 9-vjeçare.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-42.000
+20% e PG.
+48300
 13
 Mësues në arsimin fillor në shkollat 9-vjeçare.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-39.300
+20% e PG.
+45200
 14
 Mësues në arsimin fillor në shkollat 9-vjeçare.
 2
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-36.650
+20% e PG.
+42200
 15
-Mësues në arsimin fillor në shkollat 9-vjeçare
+Mësues në arsimin fillor në shkollat 9-vjeçare;
 Instruktor i praktikës profesionale
 3
 2% e PG
-5% e PG
-10% e PG
-15% e PG
-34.000
+5 % e PG;
+10% e PG;
+20% e PG.
+39100
 Lidhja nr. 2
 Struktura e pagës për punonjësit e shërbimit psiko-social dhe punonjësit e tjerë jomësimorë në institucionet e arsimit parauniversitar
 EMËRTIMI/POZICIONI
@@ -179,13 +178,13 @@ Oficer i sigurisë në institucionet e arsimit parauniversitar
 0
 42350
 Lidhja nr. 3
-Struktura e pagës për punonjësit mësimorë dhe drejtues të institucioneve të arsimit parashkollor, të qendrave kulturore të fëmijëve dhe konvikteve të nxënësve
-EMËRTIMI / POZICIONI
+Struktura e pagës për punonjësit mësimorë të arsimit parashkollor, të qendrave kulturore të fëmijëve dhe konvikteve të nxënësve
+EMËRTIMI/POZICIONI
 PAGA MUJORE
 Paga individuale
-Shtesa e Pozicionit
+Shtesa e pozicionit
 Paga e
-grupit
+Grupit
 (PG)
 Shtesa për vjetërsi (SHV)
 Shtesa për kualifikimin (SHK)
@@ -198,84 +197,84 @@ Shtesa për kualifikimin (SHK)
 Drejtor i konvikteve.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
 20% e PG.
-61.000
+70150
 2
 Drejtor i Qendrës Kulturore të Fëmijëve.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-51.000
+20% e PG.
+58650
 3
 Drejtor i kopshtit me ushqim.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-45.000
+20% e PG.
+51750
 4
 Përgjegjës sektori në Qendrën Kulturore të Fëmijëve.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-44.000
+20% e PG.
+50600
 5
 Drejtor i kopshtit pa ushqim.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-42.500
+20% e PG.
+48900
 6
 Instruktor në Qendrën Kulturore të Fëmijëve.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-42.500
+20% e PG.
+48900
 7
 Edukator konvikti.
-Kujdestar konvikti.
+Kujdestar konvikti
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-39.300
+20% e PG.
+45200
 8
-Edukator në kopsht fëmijësh.
+Edukator në kopësht fëmijësh.
 1
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-36.650
-9
-Edukator konvikti.
+20% e PG.
+42200
+8
+Edukator konvikti;
 Kujdestar konvikti.
 2
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-36.650
-10
-Edukator në kopsht fëmijësh.
+20% e PG.
+42200
+9
+Edukator në kopësht fëmijësh.
 2
 2% e PG
-5% e PG;
+5 % e PG;
 10% e PG;
-20% e PG
-34.000
+20% e PG.
+39100
 Lidhja nr. 4
 PAGA PËR NIVELIN ARSIMOR
 Grupi
