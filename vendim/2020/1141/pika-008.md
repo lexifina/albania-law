@@ -1,0 +1,1 @@
+8. AKR-ja, brenda muajit korrik të çdo viti, harton programin vjetor të financimit të projekteve rinore për vitin pasardhës dhe brenda muajit janar të çdo viti, skemën e shpërndarjes së pjesës së fondit grant, që do të përdoret për financimin e projekteve rinore.
