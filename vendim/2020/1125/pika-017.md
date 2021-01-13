@@ -1,0 +1,1 @@
+17. Zbatuesi i punimeve mban procesverbale të shoqëruara me materiale fotografike ose filmike për të gjithë zërat e ndërhyrjeve, veçanërisht për punimet e maskuara. Kopje e këtij dokumentacioni i dorëzohet mbikëqyrësit çdo javë.

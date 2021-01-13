@@ -1,0 +1,1 @@
+12. Zbatuesi i punimeve është i detyruar të zëvendësojë menjëherë përfaqësuesit e vet dhe punonjësit e tjerë të kantierit, kur kjo kërkohet në mënyrë të arsyetuar nga zhvilluesi apo mbikëqyrësi i punimeve.

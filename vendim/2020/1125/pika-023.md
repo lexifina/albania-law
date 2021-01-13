@@ -1,0 +1,1 @@
+23. Certifikata përfundimtare e marrjes në dorëzim të objektit pasuri kulturore materiale lëshohet pas përfundimit të periudhës së garancisë së punimeve, sipas kontratës, por jo më pak se 1 vit nga marrja e përkohshme në dorëzim.

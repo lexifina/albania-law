@@ -1,0 +1,1 @@
+22. Dosja e objektit hartohet në jo më pak se katër kopje origjinale. Pas kolaudimit të punimeve zbatuesi i punimeve i dorëzon, të paktën, një kopje zbatuesit të punimeve, një kopje zhvilluesit, dy kopje mbikëqyrësit të punimeve. Mbikëqyrësi i punimeve dorëzon një nga kopjet e plota të dosjes pranë arkivit të IKTK-së.

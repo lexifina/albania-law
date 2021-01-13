@@ -1,0 +1,1 @@
+15. Kur zhvilluesi ose mbikëqyrësi i punimeve konstatojnë që nënkontraktuesi shkel kushtet e kontratës, lajmërojnë me shkrim zbatuesin e punimeve për zgjidhjen e marrëveshjes dhe largimin nga kantieri të nënkontraktuesit.

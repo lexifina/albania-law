@@ -1,0 +1,1 @@
+20. Në rastet kur gjatë zbatimit të punimeve ruajtëse e mbrojtëse të pasurisë kulturore materiale paraqiten të nevojshme ndërhyrje të paparashikuara në kontratë, mbikëqyrësi i punimeve, pas miratimit të projektuesit, i paraqet zhvilluesit propozimet për ndërhyrjet e paparashikuara. Pas konfirmimit nga zhvilluesi, këto propozime paraqiten për miratim edhe në KKTKM.

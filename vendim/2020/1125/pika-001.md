@@ -1,0 +1,1 @@
+1. Projektet për kryerjen e ndërhyrjeve ruajtëse e mbrojtëse hartohen nga Instituti Kombëtar i Trashëgimisë Kulturore (IKTK), drejtoritë rajonale të trashëgimisë kulturore (DRTK), njësitë e administrimit dhe koordinimit të parqeve arkeologjike (NJAKPA) ose nga subjektet e licencuara, sipas parashikimeve të legjislacionit në fuqi për trashëgiminë kulturore.

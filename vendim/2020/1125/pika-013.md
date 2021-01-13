@@ -1,0 +1,1 @@
+13. Zbatuesi i punimeve është përgjegjës për kontrollin dhe respektimin e kërkesave të kontratës, si dhe për cilësinë e ndërhyrjeve ruajtëse e mbrojtëse në pasuritë kulturore materiale. Ai kryen të gjitha provat dhe inspektimet e detyrueshme nga specifikimet teknike të projektit të miratuar, si dhe shtesat e kërkuara e të gjykuara të nevojshme nga mbikëqyrësi.
