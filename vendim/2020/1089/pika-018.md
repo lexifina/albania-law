@@ -1,0 +1,1 @@
+18. Zgjidhja e detyruar nuk mund të privojë konsumatorin nga mbrojtja që i ofrohet nga normat urdhëruese të ligjit të vendit, ku konsumatori dhe tregtari kanë vendqëndrimin e zakonshëm të përbashkët, të cilat nuk mund të shmangen me marrëveshje të palëve, në ato raste kur nuk ka zbatim të normave të së drejtës ndërkombëtare private.

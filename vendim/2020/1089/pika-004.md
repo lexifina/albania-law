@@ -1,0 +1,2 @@
+4. DPZAM-ja e ushtron veprimtarinë e saj në të gjithë territorin e vendit dhe ka fushë përgjegjësie zgjidhjen alternative të mosmarrëveshjeve të tjera nga ato që lidhen me shërbimet për interes publik, të përcaktuara sipas legjislacionit në fuqi për mbrojtjen e konsumatorit, e që rrjedhin nga kontratat e shitjes apo shërbimit ndërmjet konsumatorit dhe tregtarit.
+B. Përgjegjësitë funksionale të DPZAM-së

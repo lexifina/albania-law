@@ -1,0 +1,1 @@
+21. Kur tregtari nuk e pranon zgjidhjen e propozuar, struktura ZAM njofton konsumatorin, sipas një raporti, për procedurat rishikuese ose ankuese administrative dhe gjyqësore që ai mund të ndërmarrë për të zgjidhur mosmarrëveshjen.

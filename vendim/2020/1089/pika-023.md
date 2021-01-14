@@ -1,0 +1,1 @@
+23. Fillimi i procedurës ZAM përbën shkak për pezullimin e afatit të parashkrimit të padisë. Gjatë zhvillimit të procedurës ZAM, afati i parashkrimit të padisë nuk fillon të ecë ose, nëse ka filluar, ai pezullohet.

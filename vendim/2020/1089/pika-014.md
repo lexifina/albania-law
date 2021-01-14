@@ -1,0 +1,1 @@
+14. Përveç sa parashikohet në pikat 2 e 3, të nenit 52/5, të ligjit nr. 9902, datë 17.4.2008, “Për mbrojtjen e konsumatorëve”, të ndryshuar, për respektimin e lirisë kontraktuale të konsumatorit, zbatohen edhe parashikimet e mëposhtme.

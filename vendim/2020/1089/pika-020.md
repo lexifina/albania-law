@@ -1,0 +1,1 @@
+20. Palët lidhin marrëveshje kur pranojnë zgjidhjen e propozuar, në rastin e zgjidhjes së detyrueshme, struktura ZAM lëshon një vendim të arsyetuar, ndërsa kur palët nuk e pranojnë zgjidhjen e propozuar, struktura ZAM lëshon një raport, i cili përmban identitetin e palëve, një përshkrim të fakteve, zgjidhjen e propozuar dhe vendimin e palëve.

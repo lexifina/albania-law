@@ -1,0 +1,1 @@
+3. Misioni i DPZAM-së është të garantojë mbrojtjen e interesave të konsumatorit në treg përmes zgjidhjeve të mosmarrëveshjeve ndërmjet konsumatorit e tregtarit, që janë në fushën e saj të përgjegjësisë.

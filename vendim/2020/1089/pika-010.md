@@ -1,0 +1,1 @@
+10. Marrëdhëniet e punës së drejtorit të Përgjithshëm dhe të nëpunësve të DPZAM-së rregullohen në bazë të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë rregullohen në bazë të dispozitave të Kodit të Punës.

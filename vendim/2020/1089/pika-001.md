@@ -1,0 +1,1 @@
+1. Miratimin e krijimit dhe mënyrës së organizimit e të funksionimit të Drejtorisë së Përgjithshme për Zgjidhjen Alternative të Mosmarrëveshjeve (DPZAM) për mosmarrëveshjet e përgjithshme konsumatore dhe përcaktimin e kritereve shtesë që duhet të përmbushin strukturat për zgjidhjen alternative të mosmarrëveshjeve.

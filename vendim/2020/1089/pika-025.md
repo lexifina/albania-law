@@ -1,0 +1,1 @@
+25. Ngarkohen Ministria e Financave dhe Ekonomisë, Komisioni i Mbrojtjes së Konsumatorëve, Enti Rregullator i Energjisë, Autoriteti i Komunikimeve Elektronike dhe Postare, Enti Rregullator i Ujit, Autoriteti i Aviacionit Civil, Autoriteti i Mbikëqyrjes Financiare dhe Banka e Shqipërisë për zbatimin e këtij vendimi.
