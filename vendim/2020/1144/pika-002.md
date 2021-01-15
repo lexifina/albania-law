@@ -1,0 +1,1 @@
+2. Përdorimi i fondit të rindërtimit, miratuar për vitin 2020, për financimin e rindërtimit të objektit “Atrium Center Thumana”, Njësia Administrative Thumanë, Bashkia Krujë, të jetë në vlerën 44 042 180 (dyzet e katër milionë e dyzet e dy mijë e njëqind e tetëdhjetë) lekë pa TVSH dhe të përballohet nga shpenzimet e fondit të rindërtimit.

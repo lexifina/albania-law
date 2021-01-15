@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, për financimin e rindërtimit të objektit “Atrium Center Thumana”, Njësia Administrative Thumanë, Bashkia Krujë, në vlerën 220 210 898 (dyqind e njëzet milionë e dyqind e dhjetë mijë e tetëqind e nëntëdhjetë e tetë) lekë pa TVSH.
