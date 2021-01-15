@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për financimin e rindërtimit të objektit arsimor shkolla 9-vjeçare “Hajdar Zogu”, fshati Tapizë, Njësia Administrative Nikël, Bashkia Krujë, në vlerën 103 147 686 (njëqind e tre milionë e njëqind e dyzet e shtatë mijë e gjashtëqind e tetëdhjetë e gjashtë) lekë pa TVSH.
