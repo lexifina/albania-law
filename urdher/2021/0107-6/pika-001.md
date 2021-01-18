@@ -1,0 +1,1 @@
+1. Krijimi, administrimi dhe aksesi në arkivin qendror elektronik të dokumenteve noteriale për të gjithë noterët, për periudhën përpara fillimit të funksionimit të sistemit elektronik të Dhomës Kombëtare të Noterisë, kryhet sipas rregullave të këtij urdhri.

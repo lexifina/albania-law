@@ -1,0 +1,1 @@
+3. Arkivi qendror elektronik i dokumenteve për të gjithë noterët, i krijuar për periudhën përpara fillimit të funksionimit të sistemit elektronik të Dhomës, integrohet dhe bëhet pjesë përbërëse e sistemit elektronik të Dhomës.

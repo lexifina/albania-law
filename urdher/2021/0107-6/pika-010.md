@@ -1,0 +1,1 @@
+10. Ministrisë së Drejtësisë i jepet aksesi i nevojshëm në arkivin qendror elektronik, në rolet audituese, për të garantuar mbikëqyrjen e administrimit dhe të përdorimit të këtij arkivi, si dhe prodhimin e statistikave përkatëse.

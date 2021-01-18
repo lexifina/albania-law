@@ -1,0 +1,1 @@
+4. Arkivi qendror elektronik do të vazhdojë në mënyrë kronologjike me aktet noteriale të krijuara dhe të regjistruara në sistemin elektronik të Dhomës që nga data e bërjes funksionale të këtij të fundit.
