@@ -1,0 +1,29 @@
+{
+  "qbz_id": 59644,
+  "title": "Mbi licencimin e shoqërisë “Erdy Energy” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike, nga HEC “Kalis” me kapacitet të instaluar 2138 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "240",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2020-12-21",
+  "published": "2021-01-18",
+  "in_force": "2021-01-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/8517fa2c0d707444732cc5008b73c14a5b3d56035990f929dbff870939471038.docx",
+  "source_sha256": "8517fa2c0d707444732cc5008b73c14a5b3d56035990f929dbff870939471038",
+  "official_record": "https://qbz.gov.al/api/v1/acts/59644",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2020/12/21/240",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31588,
+    24950
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
