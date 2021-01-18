@@ -1,0 +1,1 @@
+1. Noterët në të gjithë territorin e Republikës së Shqipërisë përdorin Regjistrin Kombëtar të Testamenteve dhe Regjistrin Kombëtar të Dëshmive të Trashëgimisë, për regjistrimin respektivisht të të gjitha testamenteve ose të dëshmive të trashëgimisë ligjore apo testamentare.

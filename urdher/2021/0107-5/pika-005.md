@@ -1,0 +1,1 @@
+5. Dhoma Kombëtare e Noterisë, në rolin e përdoruesit “Përdorues Regjistri”, ka të drejtë të aksesojë të dhënat e Regjistrit të Testamenteve dhe të Regjistrit të Dëshmive të Trashëgimisë, sipas përcaktimeve të ligjit për noterinë.

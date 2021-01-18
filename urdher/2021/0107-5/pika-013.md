@@ -1,0 +1,1 @@
+13. Urdhri nr. 356, datë 4.9.2013, i Ministrit të Drejtësisë, “Për përcaktimin e rregullave të hollësishme për Regjistrin Kombëtar të Testamenteve dhe Regjistrin Kombëtar të Dëshmive të Trashëgimisë”, shfuqizohet.
