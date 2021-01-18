@@ -1,0 +1,1 @@
+10. Sistemi elektronik i Dhomës dërgon për regjistrim në kohë reale në sistemin elektronik të Regjistrit Noterial Shqiptar të gjitha aktet dhe veprimet noteriale që regjistrohen në të, të cilat janë ndryshuar/korrigjuar, për shkak të ndreqjes së gabimeve dhe vërtetimet përkatëse të veçanta për ndreqje gabimi.

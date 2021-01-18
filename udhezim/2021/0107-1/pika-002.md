@@ -1,0 +1,1 @@
+2. Ndreqja e gabimit në aktin a veprimin noterial përkatës bëhet në çdo kohë, kryesisht nga noteri, kur konstaton gabime ose me kërkesën e palëve që kanë nënshkruar aktin apo veprimin noterial përkatës.

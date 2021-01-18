@@ -1,0 +1,1 @@
+5. Akti i korrigjuar dhe i certifikuar sërish elektronikisht merr të njëjtin numër repertori dhe numër koleksioni si akti i mëparshëm. Në kopjen elektronike të aktit, në të cilin është konstatuar gabimi, sistemi elektronik shënon statusin “Korrigjuar”.

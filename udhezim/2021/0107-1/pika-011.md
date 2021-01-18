@@ -1,0 +1,1 @@
+11. Ndaj çdo veprimi ose vendimi të noterit, për ndreqjen e gabimeve në aktet dhe veprimet noteriale, mund të bëhet ankim në gjykatën administrative kompetente, sipas legjislacionit në fuqi për gjykimin e mosmarrëveshjeve administrative.
