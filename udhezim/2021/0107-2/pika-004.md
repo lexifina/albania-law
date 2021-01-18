@@ -1,0 +1,1 @@
+4. Noteri regjistron aktet dhe veprimet noteriale në format elektronik në sistemin elektronik të Dhomës Kombëtare të Noterisë. Çdo akt dhe veprim noterial merr në çdo faqe nga sistemi elektronik i Dhomës një numër unik elektronik.

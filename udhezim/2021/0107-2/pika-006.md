@@ -1,0 +1,1 @@
+6. Procesi i regjistrimit të akteve dhe të veprimeve noteriale në sistemin elektronik të Dhomës kryhet sipas një rrjedhe të caktuar të fazave të procesimit, të programuara në sistemin elektronik, sipas rregulloreve të punës të miratuar nga Dhoma për këtë qëllim.

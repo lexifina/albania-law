@@ -1,0 +1,1 @@
+1. Aktet dhe veprimet noteriale regjistrohen dhe pasqyrohen njëkohësisht në regjistrin e përgjithshëm të akteve dhe të veprimeve noteriale, manual dhe në atë elektronik, deri në mbajtjen e këtij regjistri vetëm në format elektronik.

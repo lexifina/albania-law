@@ -1,0 +1,1 @@
+13. Noteri, pas momentit të arkivimit të veprimit ose të aktit noterial, nuk mund të ndryshojë të dhënat në sistem për këtë veprim ose akt, me përjashtim të rasteve të ndreqjes së gabimeve në aktet dhe në veprimet noteriale, sipas parashikimeve ligjore dhe nënligjore në fuqi.

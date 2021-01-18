@@ -1,0 +1,1 @@
+7. Aktet dhe veprimet noteriale regjistrohen nga noteri në sistemin elektronik të Dhomës pas kontrollit ligjor të dokumentacionit të sjellë nga klienti dhe/ose verifikimit që noteri kryen në rrugë elektronike nëpërmjet sistemit elektronik.

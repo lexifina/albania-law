@@ -1,0 +1,1 @@
+10. Të dhënat e nevojshme për hartimin e aktit dhe të veprimit noterial sigurohen nga noteri nëpërmjet ndërveprimit të sistemit elektronik të Dhomës me bazat e tjera të të dhënave shtetërore, si dhe me sistemet informatike të agjencive shtetërore/publike ose private dhe të sistemit bankar, sipas parashikimeve nënligjore në fuqi.
