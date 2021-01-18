@@ -1,0 +1,1 @@
+1. Krijimi dhe përdorimi i dokumentit elektronik noterial bëhet në përputhje me parashikimet e këtij urdhri dhe të legjislacionit për dokumentin elektronik, nënshkrimin elektronik, identifikimin elektronik dhe shërbimet e besuara, duke siguruar që këto dokumente të jenë të disponueshme, autentike, të aksesueshme gjatë ciklit jetësor të tyre.

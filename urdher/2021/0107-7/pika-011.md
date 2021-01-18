@@ -1,0 +1,1 @@
+11. Nënshkrimi elektronik është procesi i vetëm që realizon certifikimin e dokumentit noterial, i cili i jepet klientit apo palëve të interesuara. Çdo dokument elektronik noterial duhet të jetë i certifikuar elektronikisht nga noteri nëpërmjet nënshkrimit elektronik, që sigurohet nga Agjencia Kombëtare e Shoqërisë së Informacionit.

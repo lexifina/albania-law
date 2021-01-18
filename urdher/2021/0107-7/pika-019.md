@@ -1,0 +1,1 @@
+19. Koha kur dokumenti elektronik hyn në sistemin kompjuterik të marrësit dhe/ose në sistemin kompjuterik të personit të autorizuar prej tij, konsiderohet si kohë e marrjes së dokumentit elektronik noterial.

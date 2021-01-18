@@ -1,0 +1,3 @@
+3. Çdo noter, për përdorimin e dokumentit elektronik noterial, duhet të sigurojë:
+a) zbatimin e standardeve dhe të parimeve në lidhje me krijimin, mirëmbajtjen dhe shfrytëzimin e dokumenteve elektronike noteriale nga sistemi elektronik i Dhomës Kombëtare të Noterisë (sistemi elektronik), si dhe të garantojë regjistrimin e dokumentit elektronik noterial në sistemin elektronik të regjistrit noterial shqiptar;
+b) ruajtjen e integritetit të të dhënave dhe të dokumenteve që ruhen në sistemin elektronik; mbrojtjen e të dhënave personale që përmban dokumenti elektronik noterial, në përputhje me politikat dhe rregullat e miratuara nga Dhoma Kombëtare e Noterisë për sigurinë dhe mbrojtjen e të dhënave personale.

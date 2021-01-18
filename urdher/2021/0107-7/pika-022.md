@@ -1,0 +1,1 @@
+22. Vërtetimi i kopjes në letër të dokumentit elektronik kryhet nga noteri, në përputhje me rregullat dhe procedurat për vërtetimin në letër të dokumentit elektronik të përcaktuara në ligjin për dokumentin elektronik.

@@ -1,0 +1,1 @@
+9. Marrësi, i cili ka pranuar përdorimin dhe qarkullimin e dokumentit elektronik, nuk mund të refuzojë dokumentin elektronik në mënyrë të njëanshme, vetëm për faktin që ai është përgatitur, përdorur dhe qarkulluar në formë elektronike.

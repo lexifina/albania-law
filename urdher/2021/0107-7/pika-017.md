@@ -1,0 +1,1 @@
+17. Koha kur dokumenti elektronik noterial del nga sistemi kompjuterik i noterit dhe hyn në sistemin kompjuterik, që nuk është nën kontrollin e noterit apo nën kontrollin e një personi të autorizuar prej tij, konsiderohet si koha e dërgimit të dokumentit elektronik noterial.

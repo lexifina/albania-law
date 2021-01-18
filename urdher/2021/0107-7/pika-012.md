@@ -1,0 +1,1 @@
+12. Nënshkrimi elektronik krijohet nga noteri dhe të gjitha të dhënat e lidhura me krijimin e nënshkrimit elektronik të kualifikuar administrohen personalisht nga noteri, sipas legjislacionit në fuqi për nënshkrimin elektronik.

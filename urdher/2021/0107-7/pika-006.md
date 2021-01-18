@@ -1,0 +1,1 @@
+6. Çdo dokument elektronik noterial identifikohet nëpërmjet një numri elektronik, i cili nënkupton pajisjen në çdo faqe të dokumentit noterial me barkodin unik korrenspondues, të gjeneruar në mënyrë automatike nga sistemi elektronik i Dhomës.

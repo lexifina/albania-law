@@ -1,0 +1,1 @@
+7. Numërtimi i repertorit për veprimet noteriale dhe numërtimi i repertorit dhe i koleksionit për aktet noteriale bëhen nga sistemi elektronik i Dhomës, sipas rendit kronologjik të vendosjes së këtyre numrave, si dhe regjistrohen në regjistrin e përgjithshëm të veprimeve dhe të akteve noteriale që mbahet në formë manuale.
