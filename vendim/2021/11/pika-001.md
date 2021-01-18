@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti: “Rikualifikimi urban i bllokut që kufizohet nga bulevardi ’Bajram Curri’, bulevardi ’Petro Nini Luarasi’, rruga ’Taulantia’, rruga ’Ali Demi’, Tiranë”.
