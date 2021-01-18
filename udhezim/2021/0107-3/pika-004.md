@@ -1,0 +1,1 @@
+4. Noteri nuk ka detyrim të digjitalizojë dokumentet noteriale, të cilat janë asgjësuar nga ai për shkak të kalimit të afatit ligjor, sipas përcaktimeve nënligjore në fuqi në ditën e regjistrimit të tyre, por ruan dhe skanon procesverbalin përkatës.

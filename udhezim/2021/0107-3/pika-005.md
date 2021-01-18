@@ -1,0 +1,1 @@
+5. Digjitalizimi i arkivit noterial nga noterët kryhet nëpërmjet skanimit dhe ngarkimit në sistemin elektronik të Dhomës Kombëtare, të dokumenteve noteriale, që kanë në arkivin noterial dhe që nuk janë asgjësuar për shkak të kalimit të afatit ligjor, sipas përcaktimeve nënligjore në fuqi në ditën e regjistrimit të tyre.

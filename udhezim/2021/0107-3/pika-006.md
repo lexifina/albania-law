@@ -1,0 +1,1 @@
+6. Sistemi elektronik i Dhomës dërgon për regjistrim në kohë reale në sistemin elektronik të Regjistrit Noterial Shqiptar të gjitha dokumentet noteriale që regjistrohen në të, si rrjedhojë e digjitalizimit të arkivave noterialë.

@@ -1,0 +1,1 @@
+8. Dokumentet e arkivit të noterit, në format digjital, shfrytëzohen e administrohen në përputhje me legjislacionin në fuqi, nga vetë noteri, personat e parashikuar me ligj ose personat e autorizuar nga noteri dhe nën mbikëqyrjen e tij.

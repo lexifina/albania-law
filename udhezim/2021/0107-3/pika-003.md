@@ -1,0 +1,1 @@
+3. Noterët kryejnë digjitalizimin e të gjitha dokumenteve noteriale, duke nisur që nga dokumenti noterial i parë i kryer, që nga momenti i dhënies së licencës për ushtrimin e veprimtarisë noteriale, deri në momentin e fillimit të punës me sistemin elektronik të Dhomës Kombëtare të Noterisë.
