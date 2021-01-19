@@ -1,0 +1,5 @@
+AKT NORMATIV
+Nr. 2, datë 13.1.2021
+PËR AUTORIZIMIN E AGJENCISË SHTETËRORE PËR SHPRONËSIMIN PËR NEGOCIIMIN E AFATIT TË SHPRONËSIMIT TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, TË NEVOJSHME PËR NDËRTIMIN E SPITALIT TË FIERIT
+Në mbështetje të nenit 101 të Kushtetutës, me propozimin e ministrit Infrastrukturës dhe Energjisë, Këshilli i Ministrave
+VENDOSI:
