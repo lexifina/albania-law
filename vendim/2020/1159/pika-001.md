@@ -1,0 +1,1 @@
+1. Miratimin e garancisë shtetërore, në favor të Intesa Sanpaolo Bank Albania sh.a., në kuadër të kontratës së kredisë, ndërmjet Intesa Sanpaolo Bank Albania sh.a. dhe KESH sh.a., për shumën 10 295 906.00 (dhjetë milionë e dyqind e nëntëdhjetë e pesë mijë e nëntëqind e gjashtë) euro.
