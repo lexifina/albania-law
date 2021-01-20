@@ -1,0 +1,1 @@
+2. Për 1 (një) inspektor në ILDKPKI nuk zbatohet pika 2, e vendimit nr. 109, datë 6.3.2019, të Këshillit të Ministrave, “Për vendosjen e standardeve në kryerjen e disa aktiviteteve me punonjës të përkohshëm, në njësitë e qeverisjes qendrore”.

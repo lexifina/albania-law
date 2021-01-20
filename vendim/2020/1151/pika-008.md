@@ -1,0 +1,1 @@
+8. Mbulimi i efekteve financiare për punonjësit me kontratë bëhet nga shpenzimet korrente, të miratuara në buxhetin përkatës të njësive të qeverisjes qendrore. Për punonjësit me kontratë të Shtëpisë së Pushimit Durrës (MB), Shtëpisë së Pushimit të SHISH-it dhe Shërbimit Gjeologjik Shqiptar, efektet financiare përballohen nga të ardhurat e vetë institucionit.

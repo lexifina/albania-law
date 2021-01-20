@@ -1,0 +1,1 @@
+10. Ngarkohet ministri i Shtetit për Rindërtimin që, për 25 (njëzet e pesë) specialistë të përcaktuar për këtë institucion në lidhjen nr. 1, të sipërpërmendur, të bëjë detajimin e tyre në ministritë dhe institucionet qendrore apo në institucionet e varësisë së tyre. Pagesa e këtyre punonjësve bëhet nga institucioni ku do të kontraktohet, në përputhje me pikën 6, të këtij vendimi.
