@@ -4,6 +4,10 @@ Nr. 140, datë 24.9.2019
 
 MBI LICENCIMIN E SHOQËRISË “IRARBA ENERGJI” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “SHËNGJUN” ME KAPACITET TË INSTALUAR 2040 kW
 
+(Ndryshuar me vendimin nr. 15, datë 20.1.2021)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike”, i ndryshuar, nenit 4, pika 1, germa “a”, nenit 5, pika 1, germa “a” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e bordit të ERE-s nr. 109, datë 29.6.2016, dhe nenit 15 të “Rregullave të organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e bordit të ERE-s nr. 96, datë 17.6.2016, bordi i ERE-s, në mbledhjen e tij të datës 24.9.2019, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes nr. 89/1 prot., datë 9.9.2019, mbi licencimin e shoqërisë “Irarba Energji” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike,
 
 konstatoi se: 
@@ -56,11 +60,11 @@ Për gjithë sa më sipër cituar, bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “Irarba Energji” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC-i “Shengjun” me kapacitet të instaluar 2040 kw, për një afat 29 vjet e 1 muaj, me kusht që, të depozitojë në ERE përpara fillimit të veprimtarisë së prodhimit, lejen mjedisore me parametrat teknike të përditësuar, sipas ndryshimeve të kontratës shtesë të koncesionit nr. 240 rep. dhe nr. 86 kol, datë 5.4.2016, “Për disa ndryshime në kontratën e koncesionit të formës BOT (Ndërtim, Operim, Transferim), për ndërtimin e HEC-it “Shëngjun”, i ndryshuar.
+1. Të licencojë shoqërinë “Irarba Energji” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Shëngjun” me kapacitet të instaluar 2040 kw, për një afat 29 vjet e 1 muaj.
 
-2. Të depozitojë në ERE çdo dokument/leje që i nënshtrohet procedurës së rinovimit, nga institucionet që i lëshojnë ato, jo më vonë se 2 muaj para përfundimit të afatit të parashikuar në këto leje.
+2. Shfuqizuar.
 
-3. Mosplotësimi i kushteve të këtij vendimi përbën shkak për rishikimin e tij. 
+3. Shfuqizuar.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e bordit të ERE-s.
 
