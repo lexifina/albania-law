@@ -1246,3 +1246,120 @@ Ne harten e ZRPP
 164,130,624.00
 VLERA TOTALE E SHPRONESIMIT E PASURIVE ME EMRA PRONARESH DHE E PASURIVE PA INFORMACION (I+II)
 284,995,840.00
+Lista e pronarëve të pasurive, pronë private, që shpronësohen nga realizimi i projektit “Për disa ndryshime në vendimin nr. 811, datë 26.10.2018, të Këshillit të Ministrave, ’Për shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit: ’Për ndërtimin e landfillit, inceneratorit dhe rehabilitimin e venddepozitimeve ekzistuese, Tiranë dhe prodhimin e energjisë elektrike’, Tiranë’”
+Nr.
+Nr. sipas shkresës së hipotekës
+Emër Mbiemër
+Lloji i pasurisë
+ZK
+Nr. i pasurisë
+Sip. totale m2
+Sip. e shpronësuar m2
+Çmimi lekë/m2
+Vlera totale në lekë
+Shënime
+1
+Bashkëpronarët XHEPA etj.
+Vresht
+3321
+301/17
+3600
+3600
+448
+1612800.00
+Kartelë pasurie datë 17.2.2020.
+2
+13
+Zenepe Hoxha
+Vresht
+3321
+185/2
+5200
+5200
+448
+2329600.00
+Kartelë pasurie datë 17.2.2020.
+3
+25
+Jakup Lamuça
+Arë
+3321
+295/4
+1000
+100
+448
+44800.00
+Kartelë pasurie datë 17.2.2020.
+4
+19
+Kasem Lamuça
+Arë
+3321
+298/22
+500
+100
+448
+44800.00
+Kartelë pasurie datë 17.2.2020.
+SIP. TOTALE
+9000
+4032000.00
+Lista e pasurive pa informacion
+1
+1
+Pa informacion
+Arë
+3321
+172
+98560
+77820
+448
+34863360.00
+Konfirmuar nga ZVRPP-ja me shkresën nr. prot. 239931, dt. 20.11.2017, dhe nr. prot. 13562, dt. 7.2.2018.
+2
+49 dhe 50
+Pa informacion
+Arë
+3321
+331/4
+805
+805
+448
+360640.00
+Konfirmuar nga ZVRPP-ja me shkresën nr. prot. 239931, dt. 20.11.2017, dhe nr. prot. 13562, dt. 7.2.2018.
+3
+50 dhe 49
+Pa informacion
+Arë
+3321
+331/5
+1125
+1125
+448
+504000.00
+Konfirmuar nga ZVRPP-ja me shkresën nr. prot. 239931, dt. 20.11.2017, dhe nr. prot. 13562, dt. 7.2.2018.
+4
+Pa informacion
+Arë
+3321
+317/1
+615
+615
+448
+275520.00
+Në sistemin e ZRPP-së.
+5
+Pa informacion
+Arë
+3321
+332/19
+1650
+1650
+448
+739200.00
+Në sistemin e ZRPP-së.
+Vlera e pasurive pa informacion
+36742720.00
+VLERA TOTALE E SHPRONËSIMIT TË PASURIVE ME EMRA PRONARËSH DHE E PASURIVE PA INFORMACION
+40774720.00
+Vlerësimi i pasurive të llojit “tokë arë” dhe “vresht”, është kryer bazuar në VKM-në nr. 89, datë 3.2.2016.
