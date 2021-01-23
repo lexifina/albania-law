@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 33, datë 11.12.2020, i Këshillit të Ministrave, “Për një shtesë në ligjin nr. 7703, datë 11.5.1993, ’Për sigurimet shoqërore në Republikën e Shqipërisë’”, të ndryshuar.
