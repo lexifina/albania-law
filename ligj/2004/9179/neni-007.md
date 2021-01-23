@@ -1,0 +1,3 @@
+# Neni 7
+Të gjithë personat, që përfitojnë trajtim të veçantë, sipas këtij ligji, kanë të drejtë ta marrin atë, deri në çastin e lindjes të së drejtës së një përfitimi nga ligji nr.7703, datë 11.5.1993 ”Për sigurimet shoqërore në Republikën e Shqipërisë” ose deri kur ata bëhen ekonomikisht aktivë.
+Në rast punësimi të përkohshëm me kontratë pranë ndërmarrjes, ku kanë aplikuar për trajtim, sipas ligjit, personave përfitues, sipas ligjit në fuqi, u ndërpritet trajtimi i veçantë për kohën që janë të punësuar. Personat përfitues rifitojnë të drejtën për t’u rikthyer në skemën e trajtimit të veçantë, me përfundimin e punësimit të përkohshëm.
