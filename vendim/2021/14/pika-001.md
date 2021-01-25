@@ -1,0 +1,1 @@
+1. Transferimin, në pronësi të Bashkisë Vau-Dejës, të njësisë administrative Vau i Dejës, të pasurisë 125/35, zona kadastrale 2015, sipas formularit, gjithsej, 1 (një) fletë, dhe planrilevimit, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, me qëllim për t’u përdorur në fushën e bujqësisë.
