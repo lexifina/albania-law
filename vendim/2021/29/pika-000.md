@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit të Bashkimit Evropian, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë (përfituesi) dhe KfW Frankfurt Am Main (KfW), për Bashkimin Evropian, për një mjedis më të pastër - mbështetje për trajtimin e kanalizimeve të ujërave të zeza, në shumën 23 300 000 (njëzet e tre milionë e treqind mijë) euro, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
