@@ -1,0 +1,28 @@
+{
+  "qbz_id": 62248,
+  "title": "Për një shtesë fondi në buxhetin e vitit 2021, të miratuar për Akademinë e Shkencave të Shqipërisë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "18",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2021-01-20",
+  "published": "2021-01-25",
+  "in_force": "2021-01-25",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/23abfb6002b86ff18f9c26b41652fbf508e82538cc56f3cc83eacec66ac88642.docx",
+  "source_sha256": "23abfb6002b86ff18f9c26b41652fbf508e82538cc56f3cc83eacec66ac88642",
+  "official_record": "https://qbz.gov.al/api/v1/acts/62248",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/01/20/18",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    23098
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
