@@ -1,0 +1,1 @@
+4. Urdhri i ministrit nr. 169, datë 30.4.2020, “Për disa masa ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në shtetin e Polonisë, Sllovakisë, Hungarisë, Gjermanisë, Ukrainës, Izraelit, Çekisë, Rumanisë dhe Bullgarisë”, shfuqizohet.
