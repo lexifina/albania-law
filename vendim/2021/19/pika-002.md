@@ -1,0 +1,1 @@
+2. Fondi i veçantë për zonat e mbrojtura mjedisore (në vijim FVZM-ja) krijohet nga ministria përgjegjëse për financat në bashkëpunim me AKZM-në, në masën 15 (pesëmbëdhjetë) %, nga fondet e krijuara nga të ardhurat, dhe në masën 85%, nga kontributet e donatorëve dhe projektet me mbështetje të institucioneve ndërkombëtare.

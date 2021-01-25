@@ -1,0 +1,1 @@
+7. Planifikimi dhe alokimi i mundshëm i fondeve të krijuara nga të ardhurat bëhet në përputhje dhe sipas procedurave të parashikuara në legjislacionin në fuqi për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë.

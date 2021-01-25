@@ -1,0 +1,1 @@
+8. Fondi i veçantë për zonat e mbrojtura përdoret nga AKZM-ja, e cila raporton rregullisht pranë ministrisë përgjegjëse për mjedisin për përdorimin e tij, sipas kushteve dhe kritereve të përcaktuara në legjislacionin në fuqi për zonat e mbrojtura e aktet nënligjore në fuqi, si edhe për menaxhimin financiar të projekteve, sipas marrëveshjeve të nënshkruara.

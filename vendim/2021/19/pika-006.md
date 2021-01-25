@@ -1,0 +1,1 @@
+6. Kontributet e dhëna nga donatorët përdoren në bazë të marrëveshjeve reciproke që nënshkruhen ndërmjet palëve për rastet e parashikuara në pikën 1, të nenit 59, të ligjit për zonat e mbrojtura dhe procedohen sipas legjislacionit në fuqi për marrëveshjet.
