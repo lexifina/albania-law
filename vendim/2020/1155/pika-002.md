@@ -1,0 +1,1 @@
+2. Në institucionet arsimore ekzistuese, ku gjuha e arsimimit është gjuha shqipe, nxënësit e një pakice kombëtare kanë të drejtë të arsimohen në gjuhën e pakicës kombëtare që i përkasin, si dhe të studiojnë historinë, traditat dhe kulturën e tyre, sipas kurrikulave e programeve të miratuara nga ministria përgjegjëse për arsimin.

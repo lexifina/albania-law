@@ -1,0 +1,1 @@
+5. Administrimi i informacionit për verifikimin e plotësimit të kritereve të përcaktuara në pikën 3, të këtij vendimi, bëhet nga prefekti i qarkut. Pas verifikimit të përmbushjes së kritereve, prefekti përcakton njësitë e vetëqeverisjes vendore, në të cilat personave që i përkasin një pakice kombëtare do t’u sigurohet e drejta të arsimohen në gjuhën e pakicës kombëtare.

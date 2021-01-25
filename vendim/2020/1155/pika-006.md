@@ -1,0 +1,1 @@
+6. Njësitë e vetëqeverisjes vendore, të cilat janë përcaktuar sipas pikës 5, të këtij vendimi, kanë të drejtën e nismës për hapjen e klasave në gjuhën e pakicave kombëtare, në përputhje me parashikimet ligjore për krijimin e funksionimin e klasave në gjuhën e pakicave kombëtare.

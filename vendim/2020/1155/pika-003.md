@@ -1,0 +1,4 @@
+3. Njësitë e vetëqeverisjes vendore, numri thelbësor dhe kërkesa me qëllim sigurimin e së drejtës për t’u arsimuar në gjuhën e pakicës kombëtare përcaktohen në bazë të kritereve të mëposhtme:
+a) numri i personave që i përkasin pakicës kombëtare, i cili duhet të jetë jo më pak se 20 (njëzet) për qind e numrit të përgjithshëm të banorëve të njësisë administrative, si nënndarje e bashkisë;
+b) periudha e regjistrimit si banor në njësinë e vetëqeverisjes vendore, sipas periudhave të regjistrimit të popullsisë, konfirmuar me vërtetim të lëshuar sipas të dhënave nga regjistrat themeltarë të gjendjes civile dhe/ose Regjistrit Kombëtar të Gjendjes Civile të vitit 2010;
+c) kërkesa shkresore, paraqitur nga prindër apo kujdestarë të fëmijëve që i përkasin pakicës kombëtare, pranë bashkisë/njësisë administrative, ku shprehet vullneti në mënyrë shkresore dhe bazuar në të drejtën e vetidentifikimit për formimin e klasës.
