@@ -51,8 +51,8 @@ B. Numri i drejtuesve
 C. Norma mësimore javore e mësuesve dhe e drejtuesve
 1. Mësuesi i gjuhës shqipe dhe i letërsisë: 18 orë në javë.
 2. Mësuesi i gjuhës së huaj, i matematikës, i fizikës, i biologjisë, i kimisë, i informatikës, i historisë, i gjeografisë, i teknologjisë, i shkencave shoqërore (filozofi, psikologji, qytetari, sociologji), i ekonomisë: 20 orë në javë.
-3. Mësuesi i lëndëve të tjera:
-24 orë në javë.
+2/1 Mësuesi i specialitetit: 22 orë në javë.
+3. Mësues i lëndëve të tjera: 22 orë në javë
 4. Ngarkesa mësimore e mësuesit shoqërues në piano: 30 orë në javë.
 5. Drejtori i shkollës me 81-200 nxënës: 8 orë në javë.
 6. Drejtori i shkollës me 201-600 nxënës: 6 orë në javë.
@@ -73,7 +73,14 @@ E. Organizimi i mësimit në shkollat artistike
 5. Shoqërimi i instrumentistëve në saxhio: harqet 8 orë mësimi në vit për nxënës, instrumentet e frymës 6 orë mësimi në vit për nxënës.
 6. Në degën e artit figurativ, mësimi zhvillohet në grupe me jo më pak se 8 nxënës në lëndët: vizatim, pikturë, plastikë.
 7. Në lëndët e specialiteteve të artit figurativ mësimi zhvillohet në grupe me jo më pak se 4 nxënës.
-8. Lënda piano sekondare në shkollat koreografike zhvillohet në grupe me nga 4 nxënës.
+8. Shfuqizuar.
+F. Organizimi i mësimit në shkollat sportive:
+1. Orët teorike në lëndët: “Formim teorik profesional” (FTP) të specialiteteve “Futboll” dhe “Atletikë” zhvillohen me të gjithë klasën.
+2. Orët teorike në lëndët: “Formim teorik profesional” (FTP) të specialiteteve “Volejboll” dhe “Basketboll” zhvillohen në grupe, të cilat formohen me jo më pak se 7 nxënës.
+3. Orët e lëndës “Formim praktik profesional” (FPP) për specialitetin “Futboll” zhvillohen me të gjithë klasën.
+4. Orët e lëndës “Formim praktik profesional” (FPP) zhvillohen me grupe, sipas të specialiteteve “Volejboll” dhe “Basketboll”, sipas klasave.
+5. Në specialitetin e “Peshëngritjes” dhe të ’Atletikës”, sipas disiplinave, mësimi zhvillohet në grupe me jo më pak se 6 nxënës.
+6. Lënda “Sport ndihmës” zhvillohet në grupe të ndara, sipas gjinisë djem dhe vajza, sipas klasave.
 V. TË PËRGJITHSHME
 1. Mësuesi i arsimit parauniversitar e plotëson normën mësimore javore me lëndë të profilit të tij. Kur nuk ka orë të mjaftueshme në profilin e tij, ai ngarkohet me orë mësimore të profileve të përafërta, sipas shtojcës bashkëlidhur këtij udhëzimi.
 2. Të gjitha normat e veçanta, të përcaktuara në kreun V të këtij udhëzimi, për efekte financiare kanë vlerën e orës mësimore.
