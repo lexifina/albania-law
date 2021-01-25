@@ -1,0 +1,1 @@
+1. Ngritjen e sekretariatit në kuadër të veprimtarisë së mbajtjes së sekretariatit të “Bologna Follow Up Group” nga Republika e Shqipërisë (në vijim, Sekretariati), në varësi të ministrit përgjegjës për arsimin.

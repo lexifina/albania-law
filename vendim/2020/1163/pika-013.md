@@ -1,0 +1,1 @@
+13. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, mbulohen nga granti i Komisionit Evropian, buxheti i Ministrisë së Arsimit, Sportit dhe Rinisë dhe të ardhura të tjera nga financime të ngjashme.
