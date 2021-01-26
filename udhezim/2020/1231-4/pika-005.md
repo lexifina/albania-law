@@ -1,0 +1,1 @@
+5. Në përfundim të procesit të shqyrtimit, Komisioni i Standardizimit merr vendim për lëshimin ose jo të certifikatës “Operator i turizmit detar”. Në rast se, kur komisioni refuzon kërkesën për pajisje me certifikatë, vendimi duhet të jetë i arsyetuar.

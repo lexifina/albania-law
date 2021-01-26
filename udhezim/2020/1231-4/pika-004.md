@@ -1,0 +1,1 @@
+4. Kur kërkesa e subjektit është në përputhje me sa parashikohet në pikat 1 deri në 2, të kreut III, Komisioni merr një mendim të specializuar nga Agjencia Kombëtare e Bregdetit për kapacitetet dhe karakteristikat e zonës së kërkuar për ushtrim aktiviteti detar, brenda 10 ditëve. Për këtë të fundit, AKB-ja mund të bashkëpunojë me institucione të tjera.

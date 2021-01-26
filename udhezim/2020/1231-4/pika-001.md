@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve që duhet të plotësojë operatori turistik për ushtrimin e aktiviteteve të turizmit detar, si dhe procedurës për certifikimin si “Operator i turizmit detar”, sipas parashikimeve të ligjit nr. 43/2020, “Për aktivitetet e turizmit detar”.
