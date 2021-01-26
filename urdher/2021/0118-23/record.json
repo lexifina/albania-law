@@ -1,0 +1,28 @@
+{
+  "qbz_id": 22568,
+  "title": "Për një ndryshim në urdhrin nr. 434, datë 22.7.2020, “Për miratimin e përbërjes së komisioneve mjekësore të caktimit të aftësisë për punë, të nivelit të parë dhe epror, për vlerësimin e personave me aftësi të kufizuara”",
+  "type": "Urdhër",
+  "kind": "Akt ndryshues",
+  "number": "23",
+  "institution": "Ministria e Shëndetësisë dhe Mbrojtjes Sociale",
+  "adopted": "2021-01-18",
+  "published": "2021-01-26",
+  "in_force": "2021-01-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/80e294b0875f1a82358e60786b65d3eff4e0c3d15e8584e1245de3b2df473abb.docx",
+  "source_sha256": "80e294b0875f1a82358e60786b65d3eff4e0c3d15e8584e1245de3b2df473abb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/22568",
+  "official_eli": "https://qbz.gov.al/eli/urdher/2021/01/18/23",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    54633
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
