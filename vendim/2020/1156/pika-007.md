@@ -1,0 +1,1 @@
+7. Planifikimi i investimeve për vitin pasardhës, për të gjitha llojet e aktiviteteve në ZMM, që financohen nga të ardhurat e gjeneruara nga tarifat, propozohet nga administrata rajonale e zonave të mbrojtura dhe miratohet nga AKZM-ja, duke mbajtur në konsideratë planin financiar, masën e kriteret e përcaktuara sipas këtij vendimi dhe në planet e menaxhimit për secilën zonë.

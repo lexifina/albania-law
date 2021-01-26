@@ -1,0 +1,1 @@
+8. Drejtori i Përgjithshëm i AKZM-së ngre një grup pune për vlerësimin e propozimit të planit të të ardhurave për AKZM-në brenda muajit dhjetor, duke vlerësuar e përcaktuar projektet që do të zbatohen vitin e ardhshëm, sipas prioriteteve të programit të menaxhimit të ZMM-së dhe kritereve të përcaktuara në pikën 6, të këtij vendimi.

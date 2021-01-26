@@ -1,0 +1,1 @@
+1. Të ardhurat e gjeneruara nga tarifat vjetore janë të ardhurat nga tarifat që paguhen për ushtrimin e veprimtarive ekonomike, shoqërore, turistike, kërkimore-shkencore në zonat e mbrojtura, tarifat që paguhen nga transporti në territoret e tyre, si dhe tarifat që paguajnë vizitorët e turistët, të cilët vizitojnë këto zona.

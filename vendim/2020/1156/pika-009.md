@@ -1,0 +1,1 @@
+9. Pas miratimit të planit të të ardhurave të gjeneruara nga tarifat, ndarja e përdorimit të të ardhurave të grumbulluara bëhet me urdhër të drejtorit të Përgjithshëm të Agjencisë Kombëtare të Zonave të Mbrojtura, sipas planifikimit dhe projekteve që financohen.
