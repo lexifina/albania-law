@@ -1,0 +1,1 @@
+21. Vendimi nr. 42, datë 22.1.2020, i Këshillit të Ministrave, “Për financimin e shërbimeve shëndetësore spitalore nga skema e detyrueshme e sigurimeve të kujdesit shëndetësor për vitin 2020”, të ndryshuar, shfuqizohet.
