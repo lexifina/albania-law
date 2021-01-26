@@ -1,1 +1,0 @@
-23. Vendimi nr.46, datë 30.1.2019, i Këshillit të Ministrave, “Për financimin e shërbimeve shëndetësore spitalore nga skema e detyrueshme e sigurimeve të kujdesit shëndetësor për vitin 2019”, i ndryshuar, shfuqizohet.
