@@ -1,0 +1,5 @@
+VENDIM
+Nr. 32, datë 20.1.2021
+PËR KRYERJEN E PARAPAGIMIT TË DOZAVE TË VAKSINAVE DHE TË PAGESAVE PËRKATËSE, QË RRJEDHIN NGA MARRËVESHJA E NËNSHKRUAR PËR PRODHIMIN DHE FURNIZIMIN, NDËRMJET PFIZER EXPORT B.V. DHE MINISTRISË SË SHËNDETËSISË DHE MBROJTJES SOCIALE, MINISTRIT TË SHTETIT PËR RINDËRTIMIN DHE INSTITUTIT TË SHËNDETIT PUBLIK, MIRATUAR ME AKTIN NORMATIV NR. 3, DATË 18.1.2021, TË KËSHILLIT TË MINISTRAVE, DHE LIGJIN NR. 3/2021
+Në mbështetje të nenit 100 të Kushtetutës; të nenit 5, të ligjit nr. 9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, të ndryshuar; të nenit 14, të ligjit nr. 137/2020, “Për buxhetin e vitit 2021”; të aktit normativ nr. 3, datë 18.1.2021, të Këshillit të Ministrave, “Për miratimin e marrëveshjes së nënshkruar për prodhimin dhe furnizimin, ndërmjet Pfizer Export B.V. dhe Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, ministrit të Shtetit për Rindërtimin dhe Institutit të Shëndetit Publik”, të miratuar me ligjin nr. 3/2021, me propozimin e ministrit të Shëndetësisë dhe Mbrojtjes Sociale, ministrit të Shtetit për Rindërtimin dhe ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:

@@ -1,0 +1,1 @@
+3. Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, në buxhetin e miratuar për vitin 2021, në programin “Shërbime të shëndetit publik”, t’i shtohet fondi në shumën e përcaktuar në aneksin bashkëlidhur këtij vendimi.
