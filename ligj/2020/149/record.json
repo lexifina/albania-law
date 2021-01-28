@@ -1,0 +1,26 @@
+{
+  "qbz_id": 58499,
+  "title": "Për një shtesë në ligjin nr. 96/2016 \"Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë\", të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "149",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2020-12-17",
+  "published": "2021-01-13",
+  "in_force": "2021-01-28",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/b97cb47981e17988d665a30df3d4d77a6d994302d0b8cae56d711484c3998498.docx",
+  "source_sha256": "b97cb47981e17988d665a30df3d4d77a6d994302d0b8cae56d711484c3998498",
+  "official_record": "https://qbz.gov.al/api/v1/acts/58499",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2020/12/17/149",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
