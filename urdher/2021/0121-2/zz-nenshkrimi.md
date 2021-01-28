@@ -1,0 +1,3 @@
+# Nënshkrimi
+KRYETAR
+Jonaid Myzyri
