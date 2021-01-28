@@ -8,5 +8,6 @@ c) personat, të cilët kanë për detyrë mbrojtjen e mjeteve të transportit a
 d) shtetasit e huaj që vijnë në Republikën e Shqipërisë për veprimtari sportive të qitjes dhe të gjuetisë sipas marrëveshjeve reciproke ndërshtetërore;
 dh) subjekte të tjera, për të cilat e drejta e mbajtjes së armës parashikohet nga një marrëveshje ndërkombëtare ose dispozitë ligjore;
 e) personeli i sigurimit të objekteve, personeli i përfaqësive diplomatike, shtetas shqiptarë të punësuar mbi bazën e kontratës së punës me këto autoritete, që plotësojnë kriteret, sipas këtij ligji, për mbajtje arme.
+ë) punonjësit e misioneve policore të huaja për zhvillimin e operacioneve të përbashkëta me Policinë e Shtetit në territorin e Republikës së Shqipërisë.
 2. Autorizimi për personat e përmendur në pikën 1, të këtij neni, përmban të dhënat përkatëse të personit dhe të armës, për të cilën lëshohet autorizimi.
 3. Për hyrjen dhe daljen e armëve nga territori shtetëror, si dhe transportin brenda vendit, në favor të subjekteve të përmendura në pikën 1, të këtij neni, lëshohet autorizim, i cili mund të marrë formën e një akti të vetëm administrativ, të lëshuar së bashku me autorizimin e mbajtjes së armës.

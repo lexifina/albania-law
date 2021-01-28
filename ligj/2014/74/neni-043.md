@@ -1,5 +1,7 @@
 # Neni 43
 Trajtimi i armëve provë materiale
 1. Të gjitha armët e zjarrit provë materiale, që janë pjesë e procesit të të provuarit në fazën e hetimeve paraprake a në gjykim, ose për të cilat është marrë një vendim i formës së prerë, i nënshtrohen regjimit, sipas parimeve të përgjithshme të Kodit të Procedurës Penale për disponimin e provave materiale.
-2. Procedurat dhe rregullat e hollësishme të trajtimit të armëve provë materiale përcaktohen me udhëzim të përbashkët të ministrit, Ministrit të Mbrojtjes dhe të Prokurorit të Përgjithshëm.
+2. Armët e zjarrit, pjesët kryesore dhe municionet, sipas pikës 1 të këtij neni, ato të grumbulluara me ligj nga Policia e Shtetit, të gjetura në terren, si dhe armët stok nga ristrukturimi i armatimit të Policisë së Shtetit, Ministrisë së Drejtësisë, Shërbimit Informativ të Shtetit i kalojnë Ministrisë së Mbrojtjes, me urdhër të përbashkët të titullarëve të autoriteteve përgjegjëse dhe ministrit të Mbrojtjes.
+2/1. Ministrisë së Mbrojtjes, për armët, pjesët kryesore dhe municionet e tyre, të përcaktuara në pikën 2 të këtij neni, i lejohet të kryejë procedura të demilitarizimit, asgjësimit të tyre dhe shitjes për skrap. Procedurave të demilitarizimit, asgjësimit dhe shitjes për skrap u nënshtrohen edhe armët e gjetura nëpër hotspote nga strukturat e Forcave të Armatosura të Republikës së Shqipërisë.
+2/2. Pavarësisht përcaktimeve të pikës 3 të këtij neni, ministri i Mbrojtjes me urdhër mund të vendosë ruajtjen e armëve të caktuara, të cilat kanë vlera muzeale.
 3. Agjencive të zbatimit të ligjit nuk u lejohet të përdorin armët e zjarrit provë materiale, të sekuestruara ose konfiskuara me vendim gjykate të formës së prerë.

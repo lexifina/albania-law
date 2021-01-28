@@ -4,7 +4,7 @@ Llojet e autorizimeve
 a) autorizim për blerje arme;
 b) autorizim për mbajtje arme;
 c) autorizim për përdorim skenik të armës;
-ç) autorizim për rimbushjen e municioneve;
+ç) Shfuqizuar;
 d) autorizim për koleksionim armësh.
 2. Autorizimi për mbajtjen e armës ndahet në:
 a) autorizim për mbajtjen e armës së zjarrit në shërbim dhe në lëvizje;

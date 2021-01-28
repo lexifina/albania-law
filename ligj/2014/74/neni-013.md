@@ -1,4 +1,7 @@
 # Neni 13
 Licencimi
-1. Veprimtaritë e përcaktuara në shkronjat “a”, “b”, “c” “ç” dhe “ë”, të nenit 12, për armët, pjesët e tyre dhe municionet përkatëse licencohen në përputhje me dispozitat e këtij ligji nga organet përgjegjëse të Policisë së Shtetit, ndërsa veprimtaritë e përmendura në shkronjën “e” licencohen nga Ministria e Mbrojtjes.
-2. Në licencën e lëshuar përcaktohen veprimtaritë, llojet dhe kategoritë e armëve, për të cilat ajo miratohet.
+Licencimi i veprimtarive të lejuara me armë përfshin:
+a) regjistrimin e operatorëve ekonomikë dhe të ndërmjetësve, që veprojnë brenda territorit të Republikës së Shqipërisë;
+b) licencimin për të drejtën e fillimit të ushtrimit të aktiviteteve të operatorëve ekonomikë dhe të ndërmjetësve brenda territorit të Republikës së Shqipërisë;
+c) autorizimin për kryerjen e një ose disa aktiviteteve të operatorëve ekonomikë dhe të ndërmjetësve brenda territorit të Republikës së Shqipërisë;
+ç) kontroll të besueshmërisë dhe të aftësive përkatëse të operatorit ekonomik ose ndërmjetësit në fjalë. Në rastin e një personi juridik, kontrolli do të kryhet si për subjektin juridik, ashtu dhe për personat fizikë që menaxhojnë sipërmarrjen.
