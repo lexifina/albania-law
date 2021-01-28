@@ -1,0 +1,1 @@
+4. Për subjektet që nuk i është njohur e drejta e kompensimit, ATP-ja njofton subjektet për vendimet e dhëna. Palët e interesuara kanë të drejtë të bëjnë ankim brenda 30 (tridhjetë) ditëve nga njoftimi i vendimit.

@@ -1,0 +1,1 @@
+3. Për subjektet që kanë një vendim të vlerësuar financiarisht, të publikuar në regjistrin e vendimeve dhe nuk e kanë ushtruar të drejtën e ankimit për arsye të shqyrtimit të çështjes pranë Gjykatës Evropiane të të Drejtave të Njeriut, e drejta e ankimit fillon nga dita e ripublikimit të vlerës financiare në Buletinin e Njoftimeve Zyrtare.
