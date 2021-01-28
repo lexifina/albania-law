@@ -7,3 +7,4 @@ c) jep urdhra të detyrueshëm për Policinë Gjyqësore lidhur me ushtrimin e f
 ç) verifikon ecurinë dhe përfundimin e çështjeve dhe, kur është e nevojshme, udhëzon me shkrim, sipas nenit 48, të këtij ligji, kryerjen e veprimeve të mëtejshme procedurale përpara se të merret vendimi mbi mënyrën e përfundimit të hetimeve paraprake;
 d) merr masa për zëvendësimin e prokurorit të çështjes, në rastet e parashikuara me ligj;
 dh) garanton zbatimin korrekt të udhëzimeve të Prokurorit të Përgjithshëm.
+e) përgjigjet për hetimin e veprave penale që prekin zgjedhjet e lira dhe sistemin demokratik të zgjedhjeve, të cilat janë kompetencë e prokurorisë që drejton.
