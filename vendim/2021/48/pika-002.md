@@ -1,0 +1,3 @@
+2. Shërbimit Informativ të Shtetit, në buxhetin e miratuar për vitin 2021, i shtohet fondi në masën 7 220 733 (shtatë milionë e dyqind e njëzet mijë e shtatëqind e tridhjetë e tre) lekë pa TVSH, për financimin e rindërtimit dhe rikonstruksionit/riforcimit të objekteve, sipas pikës 1 të këtij vendimi, i detajuar si më poshtë vijon:
+a) në masën 5 220 733 (pesë milionë e dyqind e njëzet mijë e shtatëqind e tridhjetë e tre) lekë pa TVSH, për financimin e rindërtimit të objektit në administrim, të ndodhur në Bashkinë Durrës;
+b) në masën 2 000 000 (dy milionë) lekë pa TVSH, për financimin e rikonstruksionit/riforcimit të objektit, të ndodhur në Bashkinë Lezhë.
