@@ -1,0 +1,27 @@
+{
+  "qbz_id": 2967,
+  "title": "KODI DETAR I REPUBLIKËS SË SHQIPËRISË",
+  "type": "Ligj",
+  "number": "9251",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2004-07-08",
+  "version_no": 1,
+  "qbz_version_id": 303,
+  "in_force": "2021-02-01",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2021-02-01",
+  "changed_by_qbz_id": 64510,
+  "changed_by_number": "11",
+  "changed_by_title": "Për disa shtesa dhe ndryshime në ligjin nr. 9251, datë 8.7.2004 “Kodi detar i Republikës së Shqipërisë”, të ndryshuar",
+  "source": "https://qbz.gov.al/files/52578d36e3e52924eecd19cc709c665c97387ec46d117e5cdbf28e37c0772679.docx",
+  "source_sha256": "52578d36e3e52924eecd19cc709c665c97387ec46d117e5cdbf28e37c0772679",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2967",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/2967/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
