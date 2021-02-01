@@ -1,0 +1,1 @@
+17. IEVP-ja, menjëherë pas miratimit të lejes së veçantë, njofton me shkrim dhe në komunikim me telefon drejtorinë e policisë së qarkut dhe komisariatin e policisë së rrethit, që ka në juridiksion vendbanimin e të burgosurit, për dhënien e lejes së veçantë të burgosurit, sipas formatit në shtojcën nr. 11, bashkëlidhur këtij udhëzimi.

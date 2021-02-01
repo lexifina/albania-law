@@ -1,0 +1,1 @@
+8. Drejtori i IEVP-së, 24 orë para ditës së planifikuar për leje ose ditën e planifikimit të lejes, nxjerr urdhrin për miratimin e lejes shpërblyese, sipas formatit në shtojcës nr. 9, bashkëlidhur këtij udhëzimi. Me këtë urdhër njihet edhe i dënuari, i cili firmos në kopjen që mbahet në arkivin e IEVP-së.

@@ -1,0 +1,1 @@
+14. Punonjësit e sektorit ligjor dhe ata të kujdesit social vlerësojnë vendimet e gjykatës që ndodhen në dosje dhe vërtetimin e gjendjes gjyqësore të të dënuarve. Është e nevojshme që të gjitha dosjet personale të të dënuarve të plotësohen me vërtetimin e gjendjes gjyqësore për të gjitha dënimet e mëparshme që mund të kenë pasur të dënuarit.

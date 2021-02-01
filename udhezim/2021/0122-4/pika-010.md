@@ -1,0 +1,1 @@
+10. IEVP-ja përkatëse dërgon njoftim përmes email-it zyrtar dhe komunikon përmes telefonit me komisariatin ku ka vendbanimin i dënuari, që ka përfituar leje shpërblyese, duke e informuar atë, sipas formatit në shtojcën nr. 11, bashkëlidhur këtij udhëzimi.

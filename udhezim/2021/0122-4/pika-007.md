@@ -1,0 +1,1 @@
+7. Drejtori i IEVP-së shqyrton kërkesën dhe raportet e sektorit ligjor, kujdesit social dhe të sigurisë. Në rast refuzimi, brenda 48 orëve i kthen përgjigje të arsyetuar me shkrim të burgosurit, sipas formatit në shtojcën nr. 8, që i bashkëlidhet këtij udhëzimi.

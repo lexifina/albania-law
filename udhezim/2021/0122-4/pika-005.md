@@ -1,0 +1,1 @@
+5. Kërkesa e paraqitur nga personi i dënuar për leje shpërblyese apo të veçantë, drejtuar drejtorit të IEVP-së, është sipas formatit në shtojcën nr. 2, që i bashkëlidhet këtij udhëzimi. IEVP-ja merr masa për t’u siguruar të burgosurve kopje të kërkesës për leje shpërblyese apo të veçantë.

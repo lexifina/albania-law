@@ -1,0 +1,1 @@
+1. Drejtori i Institucionit të Ekzekutimit të Vendimeve Penale (në vijim “IEVP”) është autoriteti përgjegjës për shqyrtimin e kërkesës dhe dhënien e lejeve shpërblyese në burgjet e sigurisë së ulët dhe të sigurisë së zakonshme, si dhe për dhënien e lejeve të veçanta personave të dënuar.

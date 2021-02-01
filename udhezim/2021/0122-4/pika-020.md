@@ -1,0 +1,1 @@
+20. Leja e veçantë pa shoqërim jepet për një kohëzgjatje deri në 48 orë. Leja e veçantë mund të zgjatet me kërkesë të të dënuarit edhe me 24 orë të tjera, vetëm për rastet e sëmundjeve të rënda kundrejt dokumentacionit përkatës dhe vetëm me miratim të drejtorit të Përgjithshëm të Burgjeve.

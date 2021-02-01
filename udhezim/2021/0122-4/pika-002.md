@@ -1,0 +1,1 @@
+2. Drejtoritë e IEVP-ve, në çdo fillim viti, hartojnë planifikimin vjetor paraprak të të dënuarve, që plotësojnë afatin kohor ligjor për trajtim me leje shpërblyese, të ndarë sipas muajve kalendarikë dhe të shoqëruar me dokumentacionin përkatës, të cilin ia dërgojnë zyrtarisht drejtorit të Përgjithshëm të Burgjeve.

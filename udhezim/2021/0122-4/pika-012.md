@@ -1,0 +1,1 @@
+12. Për të dënuarit, që shkojnë me leje shpërblyese, për të cilët ka informacione në rrugë operative se mund të kenë edhe dënime ose probleme në shtete të tjera, vendime gjyqësore të tjera, brenda ose jashtë shtetit, kërkohet paraprakisht informacion për ta në prokuroritë dhe komisariatet e vendbanimit të të dënuarve.

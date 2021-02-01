@@ -1,0 +1,1 @@
+11. Për të gjithë të dënuarit, që do të trajtohen për herë të parë me leje shpërblyese, kërkohet paraprakisht informacion zyrtar në komisariatin e vendbanimit të të dënuarit, lidhur me sigurinë e të dënuarit, familjes dhe/apo komunitetit, gjatë trajtimit me leje shpërblyese.

@@ -1,0 +1,1 @@
+9. I dënuari, në ditën që do të shkojë me leje shpërblyese, pajiset me dy kopje të dokumentacionit “Leje shpërblyese”, sipas formatit në shtojcën nr. 10, bashkëlidhur këtij udhëzimi, një kopje të të cilit e dorëzon në komisariatin e vendbanimit.
