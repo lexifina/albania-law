@@ -1,1 +1,0 @@
-21. Sektori i sigurisë pranë IEV Penale harton një raport paraprak për komunikimin me komisariatin e policisë që ka në juridiksion vendqëndrimin e të burgosurit, që do të pajiset me leje të veçantë lidhur me rrezikshmërinë e të burgosurit, sipas formatit në aneksin nr. 12 bashkëlidhur këtij udhëzimi.

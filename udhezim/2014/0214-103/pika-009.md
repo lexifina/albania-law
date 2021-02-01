@@ -1,1 +1,0 @@
-9. Raporti që përgatit sektori ligjor gjatë shqyrtimit të kërkesës për leje shpërblyese, sipas shkronjës “b” të nenit 68 të Rregullores së Përgjithshme të Burgjeve, është sipas formatit të aneksit nr. 3, që i bashkëlidhet këtij udhëzimi.

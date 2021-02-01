@@ -1,1 +1,0 @@
-11. Raporti i përbashkët që përgatit sektori ligjor, i sigurisë dhe i kujdesit social, gjatë shqyrtimit të kërkesës për leje të veçantë, sipas shkronjës “c” të Rregullores së Përgjithshme të Burgjeve të jetë sipas formatit në aneksin nr. 5, të ndryshuar, që i bashkëlidhet këtij udhëzimi.

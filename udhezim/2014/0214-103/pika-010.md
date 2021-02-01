@@ -1,1 +1,0 @@
-10. Raporti i përbashkët që përgatit sektori i sigurisë dhe i kujdesit social, gjatë shqyrtimit të kërkesës për leje shpërblyese, sipas shkronjës “c” të nenit 68 të Rregullores së Përgjithshme të Burgjeve të jetë sipas formatit në aneksin nr. 4, që i bashkëlidhet këtij udhëzimi.

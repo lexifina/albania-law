@@ -1,1 +1,0 @@
-28. Mendimi me shkrim i mjekut, me propozimin për dhënien ose jo të lejes së veçantë, duhet të merret parasysh përpara përgatitjes së raportit të përbashkët nga ana e sektorit ligjor, sigurisë dhe kujdesit social në IEVP.

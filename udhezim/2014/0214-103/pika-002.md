@@ -1,1 +1,0 @@
-2. Regjistrimi i kërkesave të personave të burgosur për leje shpërblyese apo të veçantë bëhet në një regjistër të veçantë, të krijuar për këtë qëllim, i cili titullohet “Regjistri i lejeve shpërblyese dhe të veçanta të IEVP-së (emri i institucionit)”. Formati i këtij regjistri duhet të jetë sipas aneksit nr. 1, që i bashkëlidhet këtij udhëzimi.

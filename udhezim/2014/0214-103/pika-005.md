@@ -1,1 +1,0 @@
-5. Drejtoritë e IEVP-ve, në çdo fillim viti, dërgojnë listën vjetore të të dënuarve që plotësojnë kriteret ligjore për trajtim me leje shpërblyese, të ndarë sipas muajve kalendarikë dhe të shoqëruar me dokumentacionin përkatës.

@@ -1,1 +1,0 @@
-23. IEVP-ja njofton me shkrim (dhe në komunikim me telefon) drejtorinë e policisë së qarkut dhe komisariatin e policisë së rrethit që ka në juridiksion vendbanimin e të burgosurit për kthimin e tij nga leja e veçantë, sipas formatit në aneksin nr. 11/1, që i bashkëlidhet këtij udhëzimi.
