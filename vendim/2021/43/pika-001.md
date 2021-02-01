@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i objektit “Rikonstruksion dhe zgjerim i rrugës ’Muzak Topia’, segmenti nga i tek ish-Rezervat e Shtetit deri te kisha e Shën Ilias, Berat”.

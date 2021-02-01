@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 13 216 696 (trembëdhjetë milionë e dyqind e gjashtëmbëdhjetë mijë e gjashtëqind e nëntëdhjetë e gjashtë) lekësh, të përballohet nga buxheti i vitit 2021, miratuar për Ministrinë e Infrastrukturës dhe Energjisë, në programin “Transporti rrugor”.
