@@ -1,0 +1,4 @@
+1. Përdorimin e fondit të rindërtimit, në masën 180 890 000 (njëqind e tetëdhjetë milionë e tetëqind e nëntëdhjetë mijë) lekë, për financimin e rikonstruksionit të njësive individuale të banimit dhe njësive të banimit në ndërtesa (pallat), për ato individë të cilët përfitojnë nga grantet e rikonstruksionit, banesat e të cilëve janë klasifikuar si objekte të dëmtuara rëndë apo të dëmtuara lehtë si pasojë e fatkeqësisë natyrore dhe që nuk duhen rindërtuar nga e para, por kanë nevojë për punime rikonstruksioni ose riparime, në bashkitë Rrogozhinë, Mirditë dhe Kamzë, sipas detajimit të mëposhtëm:
+a) Bashkisë Rrogozhinë i transferohet fondi në masën 61 270 000 (gjashtëdhjetë e një milionë e dyqind e shtatëdhjetë mijë) lekë;
+b) Bashkisë Mirditë i transferohet fondi në masën 11 150 000 (njëmbëdhjetë milionë e njëqind e pesëdhjetë mijë) lekë;
+c) Bashkisë Kamzë i transferohet fondi në masën 108 470 000 (njëqind e tetë milionë e katërqind e shtatëdhjetë mijë) lekë.

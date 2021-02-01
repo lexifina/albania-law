@@ -1,0 +1,1 @@
+2. Efekti financiar, sipas pikës 1, të këtij vendimi, të përballohet nga pjesa e financuar nga shpenzimet e fondit të rindërtimit, miratuar për vitin 2021, dhe t’u kalojë bashkive Rrogozhinë, Mirditë dhe Kamzë në formën e transfertës së pakushtëzuar.
