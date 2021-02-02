@@ -1,0 +1,1 @@
+2. Ngarkohen autoritetet kontraktore, të përcaktuara në nenin 12, të ligjit nr. 36/2020, “Për prokurimet në fushën e mbrojtjes dhe të sigurisë”, Agjencia e Prokurimit Publik dhe Komisioni i Prokurimit Publik për zbatimin e rregullave të miratuara në këtë vendim.
