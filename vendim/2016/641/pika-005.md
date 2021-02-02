@@ -1,1 +1,1 @@
-5. Marrja në përdorim të përkohshëm për pasuritë sipas listës 3 do të bëhet për një periudhë njëvjeçare.
+5. Vlera e përgjithshme prej 324 515 267.92 (treqind e njëzet e katër milionë e pesëqind e pesëmbëdhjetë mijë e dyqind e gjashtëdhjetë e shtatë pikë nëntëdhjetë e dy) lekësh dhe të gjitha shpenzimet e tjera procedurale, përfshirë edhe ato shtesë prej 50 000 (pesëdhjetë mijë) lekësh, të përballohen nga shoqëria “TAP AG”, si subjekt kërkues.
