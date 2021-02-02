@@ -159,3 +159,47 @@ Unë, noterja, pas leximit të kësaj akt marrëveshje të përgatitur në 4 (ka
 Subjekti përfitues (Subjekti që kalon të drejtat e pronësisë)
 _____________________ _____________________________________
 NOTER
+SHTOJCA “D”
+MARRËVESHJE PARAPRAKE PËR KALIMIN E SË DREJTËS
+SË PRONËSISË (MODEL TIP)
+Në ________, sot, më datë ____._____._________, përpara meje noterit publik ________________________, anëtar i Dhomës Kombëtare të Noterëve, Tiranë, me NIPT: ______________ dhe licencë profesionale nr. __________________, me seli në adresën: rruga “ _________________”, ____________, u paraqitën personalisht palët, si me poshtë:
+_______________________, me seli në adresën _______________, përfaqësuar nga _____________________, në vijim, referuar si _______________________ (subjekti që ka të drejtën e pronësisë, pala e parë)
+dhe
+z./znj.____________ , atësia ________, i/e datëlindjes ______________, lindur në __________, dhe banues/e në __________________, mbajtës/e i/e dokumentit të identifikimit ID me numër personal ____________________, madhor/e dhe me zotësi të plotë juridike për të vepruar, në vijim, referuar si ____________________ (subjekti përfitues, pala e dytë).
+Baza ligjore: nenet 162, 163 e vijues të ligjit nr. 7850, “Kodi Civil i Republikës së Shqipërisë”; ligji nr. 139/2015, “Për vetëqeverisjen vendore”, i ndryshuar; ligji nr. 7850, datë 29.7.1994, “Për Kodin Civil në Republikën e Shqipërisë”, i ndryshuar; akti normativ nr. 9, datë 16.12.2019, “Për përballimin e pasojave të fatkeqësive natyrore”.
+Meqenëse ekzistojnë këto kushte paraprake:
+(Të plotësohen rast pas rasti)
+palët bien dakord të lidhin këtë marrëveshje “Marrëveshja”, si më poshtë vijon:
+Neni 1
+Objekti dhe qëllimi i marrëveshjes
+Objekt i kësaj marrëveshjeje është kalimi i të drejtave të pronësisë, pa kundërshpërblim, të pasurisë së paluajtshme, të llojit njësi individuale banimi/njësi banimi në ndërtesa (pallat) (në vijim referuar si “pasuria”), e cila do të ndërtohet në truallin ekzistues/në zonat e reja për zhvillim të detyruar, nga pala e parë, në favor të palës së dytë.
+Zona ku do të ndërtohet pasuria do të jetë në njësinë administrative nr. _________, zona e _______________, sipas vendimit nr._______, datë__________, të Këshillit të Ministrave, “_________________________________________________________”.
+Struktura e njësisë së banimit, që do të kalohet në pronësi të palës së dytë, do të llogaritet sipas legjislacionit në fuqi.
+Neni 2
+Kalimi i titullit të pronësisë
+2.1 Kjo marrëveshje nuk përbën aktin përfundimtar të fitimit të pronësisë.
+Palët kanë rënë dakord që transferimi i titullit të pronësisë, për pronën objekt të kësaj marrëveshjeje, si dhe regjistrimi i titullit të pronësisë nga pala e parë, në favor dhe në emër të palës së dytë, do të realizohet me nënshkrimin e kontratës përfundimtare të kalimit të pronësisë, e cila do të lidhet nëpërmjet palëve me akt publik, dhe do të regjistrohet sipas rregullave pranë Agjencisë Shtetërore të Kadastrës, vetëm pas nënshkrimit të të gjitha dokumenteve të nevojshme dhe plotësimit të kushteve të mëposhtme.
+2.2 Pala e parë merr përsipër të mbulojë të gjitha detyrimet dhe kostot, në lidhje me shpenzimet noteriale dhe regjistrimin e kësaj marrëveshjeje pranë Agjencisë Shtetërore të Kadastrës, brenda 30 ditëve nga data e nënshkrimit të saj.
+Neni 3
+Deklarime dhe garanci të palëve
+3.1 Pala e parë, deklaron dhe garanton palën e dytë për secilën prej çështjeve të mëposhtme:
+i) merr përsipër që ndërtimin e pasurisë ta kryejë në përputhje me parimet e rindërtimit, sipas kushteve dhe teknikave që parandalojnë rreziqet e fatkeqësive natyrore në të ardhmen, bazuar në konceptin “rindërto më mirë”;
+ii) merr përsipër të dorëzojë pasurinë, sipas parimit “me çelësa në dorë”, të gatshme për banim;
+iii) do të përmbushë detyrimet dhe do të plotësojë kushtet e parashikuara në këtë marrëveshje;
+iv) për aq kohë sa kjo marrëveshje do të jetë në fuqi, pasuria, objekt i kësaj marrëveshjeje, nuk mund t’i premtohet, t’i jepet në përdorim apo t’i shitet një pale të tretë;
+v) pala e parë deklaron dhe siguron se ka autoritetin dhe miratimet e duhura për të nënshkruar, zbatuar dhe përmbushur dispozitat e kësaj marrëveshjeje;
+vi) pala e parë merr përsipër dhe garanton palën e dytë se, përgjatë gjithë kohëzgjatjes që do të duhet për dorëzimin e pasurisë, sipas parimit “me çelësa në dorë”, do t’i sigurojë subvencionin e pagesës së qirasë deri në momentin që kësaj pale t’i kalojë e drejta e pronësisë së pasurisë, në bazë të vlerave dhe kushteve të miratuara, në përputhje me aktet ligjore dhe nënligjore në fuqi.
+3.2 Pala e dytë deklaron dhe garanton palën e parë për secilën prej çështjeve të mëposhtme:
+i) pala e dytë pranon kushtet në këtë marrëveshje dhe është plotësisht dakord që, në momentin e duhur dhe pas plotësimit të kushteve të vendosura sipas legjislacionit në fuqi, të nënshkruajë kontratën përfundimtare të kalimit të pronësisë së pasurisë, objekt i kësaj marrëveshjeje;
+ii) kjo marrëveshje përbën një detyrim ligjor, të vlefshëm dhe të ekzekutueshëm për palën e dytë, e cila i ka të gjitha kompetencat të lidhë këtë marrëveshje dhe të përmbushë detyrimet që rrjedhin prej saj;
+iii) pala e dytë do të nënshkruajë deklaratën noteriale për heqje dorë, sipas parashikimeve të legjislacionit në fuqi.
+3.3 Nëse pala e dytë nuk plotëson të gjitha kushtet e vendosura në legjislacionin në fuqi, atëherë kjo marrëveshje nuk do të ketë fuqi ligjore dhe pala e parë zhvishet nga të gjitha detyrimet e ngarkuara në këtë aktmarrëveshje.
+3.4 Palët pranojnë se deklarimet dhe garancitë e parashikuara në nenet më sipër janë kryer në zbatim të dispozitave ligjore në fuqi dhe me qëllim angazhimin e secilës prej tyre për të lidhur këtë marrëveshje, duke i konsideruar ato të vërteta dhe të mirëqena.
+Neni 4
+Legjislacioni i zbatueshëm dhe zgjidhja e mosmarrëveshjeve
+4.1 Kjo marrëveshje rregullohet nga legjislacioni shqiptar në fuqi.
+4.2 Të gjitha mosmarrëveshjet që mund të shfaqen, direkt ose indirekt, ndërmjet palëve kontraktuese, lidhur me interpretimin, ekzekutimin, zgjidhjen apo vlefshmërinë e kësaj marrëveshjeje, palët paraprakisht duhet të diskutojnë për zgjidhjen e tyre me mirëkuptim. Nëse nuk arrihet një marrëveshje për zgjidhjen e mosmarrëveshjeve, palët mund t’i drejtohen gjykatës kompetente, sipas parashikimeve të legjislacionit në fuqi.
+Unë, noteri, pas leximit të kësaj marrëveshjeje të përgatitur në 4 (katër) kopje në shqip, me zë të lartë, palëve, dhe pasi u sigurova se palët e gjejnë atë në përputhje me vullnetin e tyre të lirë, vërtetoj nënshkrimet e tyre sipas ligjit shqiptar.
+(Subjekti përfitues) (Subjekti që kalon të drejtat e pronësisë)
+_________________ ______________________________
+NOTER
