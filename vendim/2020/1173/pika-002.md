@@ -1,0 +1,1 @@
+2. Pasuria e paluajtshme shtetërore, e përmendur në pikën 1 të këtij vendimi, të vihet në dispozicion për zhvillimin dhe realizimin e projektit të investimit strategjik “Kompleksi Turizëm Rural Lajthiza”, me subjekt investues “Lajthiza Invest” sh.a., me NIUS J98009202P.

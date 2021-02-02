@@ -1,0 +1,1 @@
+4. E drejta e përdorimit të tokës shtetërore nga investitori strategjik “Lajthiza Invest” sh.a., me NIUS J98009202P, dhe detyrimet e kushtet e përdorimit do të bazohen në vendimin nr. 36/6, datë 24.6.2020, të Komitetit të Investimeve Strategjike dhe kontratën e qirasë që do të nënshkruhet ndërmjet subjektit dhe Ministrisë së Financave dhe Ekonomisë.

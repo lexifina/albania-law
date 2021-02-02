@@ -1,0 +1,1 @@
+3. Vënia në dispozicion e pasurisë së paluajtshme shtetërore bëhet për 30 (tridhjetë) vjet me tarifën 1 euro. Afati i përdorimit fillon nga data e nënshkrimit të kontratës së qirasë, ndërmjet ministrit të Financave dhe Ekonomisë dhe subjektit investues.
