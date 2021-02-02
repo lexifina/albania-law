@@ -1,0 +1,1 @@
+3. Inspektorati Qendror, pas hartimit të kërkesave specifike për arsimimin e inspektorëve shtetërorë/vendorë, nga çdo inspektorat shtetëror/vendor apo strukturë përgjegjëse e inspektimit, bën miratimin e kërkesave specifike për arsimimin e inspektorëve dhe i publikon ato në faqen zyrtare të Inspektoratit Qendror, në adresën: www.insq.gov.al.

@@ -1,0 +1,1 @@
+2. Përfaqësuesit e inspektorateve shtetërore/vendore, si dhe strukturat e tjera përgjegjëse inspektuese, duhet të hartojnë kërkesat specifike për arsimimin për çdo fushë inspektimi, duke bashkëpunuar me Inspektoratin Qendror.
