@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së bashkëpunimit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Sllovenisë, për ngritjen e një ndërtese modulare për qëllime arsimore, një donacion i Republikës së Sllovenisë për Republikën e Shqipërisë pas tërmetit të nëntorit 2019, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
