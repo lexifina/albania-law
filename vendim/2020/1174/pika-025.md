@@ -1,0 +1,1 @@
+25. Do të konsiderohet si normë gabimi në matje ndryshimi i sipërfaqes nga AMTP-ja me sipërfaqen që rezulton nga evidentimi në terren, me minus/plus 5 (pesë) për qind i sipërfaqes së njërës parcelë, por jo më shumë se 100 m2 për parcelë. Sipërfaqja që regjistrohet në këtë rast në favor të përfituesit të AMTP-së është ajo sipas evidentimit në terren.

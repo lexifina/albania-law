@@ -1,0 +1,1 @@
+12. ASHK-ja shqyrton aplikimin për regjistrim të AMTP-së, bazuar në kriteret e nenit 7, të ligjit nr.20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”, dhe njofton subjektin për pranimin apo refuzimin e regjistrimit, sipas përcaktimeve të nenit 8, të ligjit të sipërpërmendur.

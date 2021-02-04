@@ -1,0 +1,1 @@
+9. Regjistrimi i AMTP-së bëhet në çdo kohë, brenda afateve për përfundimin e proceseve kalimtare të pronësisë, dhe nuk i nënshtrohet kamatëvonesës të përcaktuar në nenin 25, të ligjit nr.111/2018, “Për kadastrën”.

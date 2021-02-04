@@ -1,0 +1,1 @@
+37. Drejtori i Përgjithshëm i ASHK-së miraton, me udhëzim, modelet e vendimit, aktit të evidentimit dhe të planvendosjeve, që hartojnë drejtoritë vendore të ASHK-së, në zbatim të kreut IV, të këtij vendimi.

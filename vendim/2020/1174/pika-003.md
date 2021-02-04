@@ -1,0 +1,1 @@
+3. ASHK-ja u referohet rregullave dhe afateve të përcaktuara në Kodin e Procedurave Administrative, përveç rasteve të parashikuara ndryshe në ligjin nr.20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”, dhe në këtë vendim.

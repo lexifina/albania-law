@@ -1,0 +1,2 @@
+29. Nëse gjatë procedurës së regjistrimit të AMTP-së, që plotëson kriteret për regjistrim, rezulton se toka bujqësore është pjesë e listës së pronave shtetërore, është transferuar te njësitë e vetëqeverisjes vendore apo është regjistruar në favor të këtyre të fundit në regjistrin e pasurive të paluajtshme, atëherë AMTP-ja regjistrohet dhe kjo sipërfaqe hiqet nga lista e pronave shtetërore/të transferuara.
+V. AMTP-TË E REGJISTRUARA PËRPARA HYRJES NË FUQI TË LIGJIT NR.20/2020, “PËR PËRFUNDIMIN E PROCESEVE KALIMTARE TË PRONËSISË NË REPUBLIKËN E SHQIPËRISË”

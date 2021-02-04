@@ -1,0 +1,1 @@
+18. Konsiderohen të rregullta, për efekt regjistrimi, AMTP-të e korrigjuara në elementet formale apo të përmbajtjes, nëse ky korrigjim është konfirmuar nëpërmjet firmës dhe vulës së ish-komunës për korrigjimin. Në rastin kur ky konfirmim mungon, ASHK-ja kontrollon dokumentacionin e ndarjes së tokës, me qëllim saktësimin e elementit të korrigjuar.
