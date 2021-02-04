@@ -1,0 +1,1 @@
+8. Ndërlidhja e sistemit elektronik të Dhomës me sistemet informatike të sistemit bankar, si dhe të agjencive të tjera shtetërore/publike ose private kryhet me marrëveshje ndërmjet Dhomës dhe institucionit administrues/subjekteve përgjegjëse të sistemit informatik përkatës.

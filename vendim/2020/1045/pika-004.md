@@ -1,0 +1,1 @@
+4. Ndërveprimi i sistemit elektronik të Dhomës me Regjistrin Publik të Pasurive të Paluajtshme lidhur me kërkesat për marrjen e shërbimeve kadastrale bëhet në përputhje me ligjin nr. 111/2018, “Për kadastrën”, ligjin nr. 110/2018, “Për noterinë”, dhe aktet nënligjore në zbatim të tyre.

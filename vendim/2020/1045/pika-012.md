@@ -1,0 +1,1 @@
+12. Aksesi, sipas pikës 11, të këtij vendimi, siguron që Ministria e Drejtësisë të kontrollojë, të verifikojë e të përpunojë të dhëna të sakta, në kohë reale, për të gjitha aktet dhe veprimet noteriale.

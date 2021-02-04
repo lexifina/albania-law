@@ -1,0 +1,1 @@
+14. Dhoma Kombëtare e Noterisë dhe çdo noter duhet të garantojnë regjistrimin në sistemin elektronik të Regjistrit Noterial Shqiptar të akteve e veprimeve noteriale që prodhohen dhe regjistrohen në sistemin elektronik të Dhomës, sipas pikës 13, të këtij vendimi.

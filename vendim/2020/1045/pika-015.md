@@ -1,0 +1,1 @@
+15. Në çdo rast, qasja dhe paraqitja e kërkesave nëpërmjet sistemit elektronik të Dhomës në regjistrat elektronikë publikë bëhen në përputhje me parashikimet e legjislacionit në fuqi që rregullon organizimin dhe funksionimin e regjistrit elektronik publik përkatës.
