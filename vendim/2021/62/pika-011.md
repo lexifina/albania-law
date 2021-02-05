@@ -1,0 +1,1 @@
+11. Drejtoria e Administrimit dhe Mbrojtjes së Tokës pranë Këshillit të Qarkut Tiranë, brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi, të pasqyrojë në regjistrat kadastralë ndryshimin e kategorisë së resursit të pasurive të paluajtshme, nga kategoria e resursit “tokë bujqësore” në kategorinë “tokë urbane” truall.

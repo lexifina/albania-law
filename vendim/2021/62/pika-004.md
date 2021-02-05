@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e kompensimit, prej 6 721 869 (gjashtë milionë e shtatëqind e njëzet e një mijë e tetëqind e gjashtëdhjetë e nëntë) lekësh, të përballohet nga zëri “Fondi për rindërtimin”, miratuar për vitin 2021.

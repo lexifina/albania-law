@@ -1,0 +1,6 @@
+VENDIM
+Nr. 62, datë 3.2.2021
+PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, DHE SHKËMBIMIN E PRONËS, NË FUNKSION TË PROCESIT TË RINDËRTIMIT, PËR SHPALLJEN ZONËS SË RE PËR ZHVILLIM NË NJËSINË ADMINISTRATIVE ZALL-HERR,
+BASHKIA TIRANË
+Në mbështetje të nenit 100 të Kushtetutës, të neneve 5, pika 1, 20 e 21, të ligjit nr. 8561, datë 22.12.1999, “Për shpronësimet dhe marrjen në përdorim të përkohshëm të pasurisë, pronë private, për interes publik”, të ndryshuar, të aktit normativ nr. 9, datë 16.12.2019, “Për përballimin e pasojave të fatkeqësisë natyrore”, miratuar me ligjin nr. 97/2019, dhe në vijim të vendimeve të Këshillit të Ministrave nr. 7, datë 6.1.2020, “Për kushtet dhe procedurat për shpronësimet dhe/ose shkëmbimin e pronës për interes publik në funksion të procesit të rindërtimit”, nr. 8, datë 6.1.2020, “Për përcaktimin e kushteve dhe të kritereve të përfitimit të sipërfaqeve ndërtimore në objektet e reja për banim nga subjektet që posedojnë ndërtime të klasifikuara si ndërtime pa leje”, dhe nr. 86, datë 31.1.2020, “Për shpalljen e zonës së re për zhvillim në njësinë administrative Zall-Herr, Bashkia Tiranë, dhe caktimin e Bashkisë Tiranë si njësi zbatuese”, me propozimin e ministrit të Infrastrukturës dhe Energjisë, Këshilli i Ministrave
+VENDOSI:

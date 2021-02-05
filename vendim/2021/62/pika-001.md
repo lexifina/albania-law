@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, në funksion të procesit të rindërtimit, që do të realizohet në zonën e re për zhvillim në njësinë administrative Zall-Herr, Bashkia Tiranë, sipas tabelës bashkëlidhur këtij vendimi.
