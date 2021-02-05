@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme, prej 15 810 824.8 (pesëmbëdhjetë milionë e tetëqind e dhjetë mijë e tetëqind e njëzet e katër pikë tetë) lekësh, të përballohet nga shoqëria “TAP AG”, si subjekt kërkues i këtij shpronësimi.
