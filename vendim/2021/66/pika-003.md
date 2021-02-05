@@ -1,0 +1,1 @@
+3. Universitetit të Elbasanit “Aleksandër Xhuvani” i ndalohet të ndryshojë destinacionin e pasurisë së paluajtshme, të përcaktuar në pikën 1, të këtij vendimi, ta tjetërsojë apo t’ua japë atë në përdorim të tretëve.
