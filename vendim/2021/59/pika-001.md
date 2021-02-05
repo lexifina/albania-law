@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikualifikimi urban i bllokut, kufizuar nga Rruga e Dibrës-“Njazi Meka”-“Niko Avrami”-“Grigor Perçelev”, në Tiranë”.

@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 213 603 986 (dyqind e trembëdhjetë milionë e gjashtëqind e tre mijë e nëntëqind e tetëdhjetë e gjashtë) lekësh, të përballohet nga buxheti i Bashkisë Tiranë.
