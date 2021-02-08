@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën prej 78 088 867 (shtatëdhjetë e tetë milionë e tetëdhjetë e tetë mijë e tetëqind e gjashtëdhjetë e shtatë) lekë pa TVSH, për financimin e shembjeve të njësive individuale të banimit të pabanueshme, të dëmtuara nga tërmeti i datës 26.11.2019, dhe transportimin e materialeve të dala nga shembja e tyre, në Bashkinë Lezhë.
