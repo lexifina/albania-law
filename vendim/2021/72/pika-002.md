@@ -1,0 +1,1 @@
+2. Përdorimi i fondit të rindërtimit, miratuar për vitin 2021, për financimin e ndërtimit të objektit “Poli i ri administrativ”, njësia administrative Bubq, Bashkia Krujë, të jetë në vlerën 47 625 968 (dyzet e shtatë milionë e gjashtëqind e njëzet e pesë mijë e nëntëqind e gjashtëdhjetë e tetë) lekë pa TVSH dhe të përballohet nga shpenzimet e fondit të rindërtimit.

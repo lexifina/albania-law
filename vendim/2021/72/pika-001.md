@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për financimin e ndërtimit të objektit “Poli i ri administrativ”, njësia administrative Bubq, Bashkia Krujë, në vlerën 238 129 843 (dyqind e tridhjetë e tetë milionë e njëqind e njëzet e nëntë mijë e tetëqind e dyzet e tre) lekë pa TVSH.
