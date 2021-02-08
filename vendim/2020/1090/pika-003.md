@@ -1,0 +1,1 @@
+3. Veprimet në regjistër kryhen nga drejtori i Përgjithshëm i QKB-së dhe/apo nga nëpunësit regjistrues, të përcaktuar në strukturën e QKB-së, të cilët kanë të drejtë regjistrimi, modifikimi, përpunimi dhe ruajtjeje në regjistër të të dhënave të regjistruara në Regjistrin e Pronarëve Përfitues.
