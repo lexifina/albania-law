@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për financimin e rindërtimit të shkollës 9-vjeçare “Vëllezërit Masha”, Mazhë e Vogël, njësia administrative Bubq, Bashkia Krujë, në masën 72 944 207 (shtatëdhjetë e dy milionë e nëntëqind e dyzet e katër mijë e dyqind e shtatë) lekë pa TVSH.

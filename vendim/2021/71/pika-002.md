@@ -1,0 +1,1 @@
+2. Bashkisë Krujë, në buxhetin e vitit 2021, i transferohet fondi në formën e transfertës së pakushtëzuar në masën 14 588 841 (katërmbëdhjetë milionë e pesëqind e tetëdhjetë e tetë mijë e tetëqind e dyzet e një) lekë pa TVSH, për financimin e rindërtimit të shkollës 9-vjeçare “Vëllezërit Masha”, Mazhë e Vogël, njësia administrative Bubq, Bashkia Krujë.
