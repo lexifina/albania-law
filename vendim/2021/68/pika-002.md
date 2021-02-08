@@ -1,0 +1,1 @@
+2. Përdorimi i fondit të rindërtimit, miratuar për vitin 2021, për financimin e riforcimit dhe të rikonstruksionit të bibliotekës “Gjergj Fishta”, Bashkia Lezhë, të jetë në vlerën 23 400 000 (njëzet e tre milionë e katërqind mijë) lekë pa TVSH dhe të përballohet nga shpenzimet e fondit të rindërtimit.
