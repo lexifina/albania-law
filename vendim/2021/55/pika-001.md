@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes së rinovuar për partneritetin strategjik, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe shoqërisë “Microsoft Corporation”, sipas tekstit bashkëlidhur këtij vendimi.

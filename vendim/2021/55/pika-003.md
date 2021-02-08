@@ -1,0 +1,1 @@
+3. Fondi prej 611 480 313 (gjashtëqind e njëmbëdhjetë milionë e katërqind e tetëdhjetë mijë e treqind e trembëdhjetë) lekësh, i parashikuar për realizimin e projektit të partneritetit strategjik në fushën e teknologjisë së informacionit për vitin 2021, të përballohet nga buxheti i Agjencisë Kombëtare të Shoqërisë së Informacionit.

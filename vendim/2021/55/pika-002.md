@@ -1,0 +1,1 @@
+2. Fondi total prej 1 834 441 143 (një miliard e tetëqind e tridhjetë e katër milionë e katërqind e dyzet e një mijë e njëqind e dyzet e tre) lekësh, për realizimin e projektit të partneritetit strategjik në fushën e teknologjisë së informacionit të përballohet nga buxheti i shtetit.
