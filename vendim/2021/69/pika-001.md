@@ -1,0 +1,1 @@
+1. Miratimin e projektmarrëveshjes së bashkëpunimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Tifozëve Kuq e Zi, për rindërtimin e dy qendrave shëndetësore në bashkitë Durrës dhe Shijak, sipas tekstit që i bashkëlidhet këtij vendimi.
