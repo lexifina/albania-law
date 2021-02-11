@@ -1,0 +1,1 @@
+3. Për qëllim të njohjes dhe të vijimit të procedurave për regjistrim/çregjistrim pranë zyrave të gjendjes civile, në këtë regjistër ka akses edhe zyra përkatëse në Drejtorinë e Gjendjes Civile. Zyra përkatëse ka akses me ketë regjistër, duke pasur statusin e njohjes.
