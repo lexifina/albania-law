@@ -1,0 +1,1 @@
+12. Për ndërtimin pa leje që nuk është aplikuar më parë për legalizim aplikohet, nëpërmjet platformës unike qeveritare e-Albania, kundrejt tarifës së aplikimit prej 3 000 (tre mijë) lekësh. Formulari i kërkesës për legalizim është sipas aneksit 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

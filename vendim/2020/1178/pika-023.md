@@ -1,0 +1,1 @@
+23. Vendimi nr. 589, datë 10.9.2014, i Këshillit të Ministrave, “Për përcaktimin e procedurave të evidentimit faktik, në terren, të ndërtimeve pa leje/shtesave në ndërtime me leje, të organeve dhe dokumentacionit për propozimin dhe miratimin e zonave informale”, i ndryshuar, shfuqizohet.

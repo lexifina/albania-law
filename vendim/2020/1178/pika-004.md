@@ -1,0 +1,2 @@
+4. Kur subjekti posedues kërkon legalizimin në mënyrë të përshpejtuar, të gjitha procedurat administrative të parashikuara në këtë vendim, së bashku me vendimmarrjen për legalizimin ose jo të ndërtimit, kryhen brenda afatit 30-ditor të përcaktuar në pikën 2, të nenit 21, të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”.
+II. EVIDENTIMI NË TERREN I GJENDJES NDËRTIMORE

@@ -1,0 +1,1 @@
+20. Për kryerjen e procedurave të përcaktuara në kreun II, të këtij vendimi, ASHK-ja mund të kontraktojë subjekte private, të licencuara në fushat përkatëse, në përputhje me legjislacionin në fuqi për prokurimin publik.

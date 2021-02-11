@@ -1,0 +1,1 @@
+21. Subjektet, që kanë bërë kërkesë për legalizim nga data 7.5.2020 deri në hyrjen në fuqi të këtij vendimi dhe për të cilat nuk është miratuar vendimi për legalizim, duhet të shlyejnë tarifën e aplikimit të parashikuar në pikën 12 të tij.

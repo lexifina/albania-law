@@ -1,0 +1,1 @@
+13. Gjatë procesit të evidentimit në terren të bllokut kadastral/ndërtimit, drejtoria vendore e ASHK-së evidenton edhe nëse ai përfshihet ose jo në fushën e zbatimit të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë, në Republikën e Shqipërisë”, sipas neneve 17, pika 1, dhe 69, pika 9.

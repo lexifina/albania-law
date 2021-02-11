@@ -1,0 +1,1 @@
+7. Evidentimi në terren i ndërtimit pa leje kryhet vetëm një herë, me përjashtim të rastit kur, si rezultat i ushtrimit të mjeteve ligjore të ankimit, është vendosur kryerja e një evidentimi tjetër, në funksion të shqyrtimit të ankimit.
