@@ -1,0 +1,1 @@
+13. Zyrat Vendore Arsimore Parauniversitare (ZVAP), pasi marrin nga institucionet e arsimit të mesëm të lartë listat e maturantëve mbetës të vitit shkollor 2020-2021, i pasqyrojnë ato në portalin e Maturës Shtetërore online, sipas udhëzimit dhe kalendarit të përcaktuar nga QSHA-ja. Këto lista i dërgohen në QSHA, në format të printuar dhe elektronik.

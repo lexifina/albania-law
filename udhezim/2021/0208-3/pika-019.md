@@ -1,0 +1,2 @@
+19. Ngarkohen për zbatimin e këtij udhëzimi, Sekretari i Përgjithshëm i MASR-së, Drejtoria e Përgjithshme e Politikave dhe Zhvillimit të Arsimit, Sportit dhe Rinisë, Qendra e Shërbimeve Arsimore, Agjencia e Sigurimit të Cilësisë në Arsimin Parauniversitar, Drejtoria e Përgjithshme e Arsimit Parauniversitar, drejtoritë rajonale të arsimit parauniversitar, zyrat vendore të arsimimit parauniversitar dhe institucionet arsimore parauniversitare.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
