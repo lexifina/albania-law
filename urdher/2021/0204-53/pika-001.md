@@ -1,0 +1,1 @@
+1. Miratimin e formës dhe të përmbajtjes së deklaratës së ekspertit për marrjen dijeni të përgjegjësisë penale, në rast ekspertimi të rremë, sipas aneksit bashkëlidhur këtij urdhri, i cili është pjesë përbërëse e tij.
