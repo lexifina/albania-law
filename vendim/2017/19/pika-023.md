@@ -1,1 +1,0 @@
-23. Kur leja e legalizimit miratohet për banorët e njësive individuale, ata paguajnë vetëm taksën e ndikimit në infrastrukturë, në përputhje me paragrafin e tretë, të pikës 3, të nenit 27, të ligjit nr. 9632, datë 30.10.2006, “Për sistemin e taksave vendore”, të ndryshuar.

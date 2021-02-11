@@ -1,2 +1,0 @@
-26. Në rastin kur rezulton se objekti/sheshi i ndërtimit shtrihet jashtë truallit të përcaktuar në lejen e ndërtimit, drejtoritë e ALUIZNI-t procedojnë sipas neneve 15/1 dhe 17, të ligjit nr. 9482, datë 3.4.2006, “Për legalizimin, urbanizimin dhe integrimin e ndërtimeve pa leje”, të ndryshuar, dhe akteve nënligjore në zbatim të tyre, nëse nuk arrihet marrëveshje juridiko-civile mes palëve private.
-Këto dispozita zbatohen edhe kur ka ndryshime të gjendjes juridike të pronësisë të sheshit të ndërtimit, në raport me dokumentacionin e lejes përkatëse të ndërtimit.

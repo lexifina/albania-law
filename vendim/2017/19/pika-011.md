@@ -1,1 +1,0 @@
-11. Procedurat e legalizimit sipas këtij kreu nuk pengohen nga detyrimet kontraktore që mund të ekzistojnë ndërmjet poseduesve dhe subjektit ndërtues/investitor lidhur me njësitë individuale dhe as nuk i shuajnë këto detyrime.
