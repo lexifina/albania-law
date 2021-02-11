@@ -1,0 +1,2 @@
+5. Në objektet me shkelje të lejes së ndërtimit, vetëm sipërfaqet në tejkalim të lejes së ndërtimit (shtesat) u nënshtrohen kritereve të moslegalizimit, sipas nenit 18, të ligjit, kur ato janë të ndashme nga ndërtimi me leje. Në rastet kur shtesat janë të ndashme, nëse ato gjenden në kushtet e përjashtimit nga legalizimi, legalizohet dhe regjistrohet vetëm sipërfaqja ndërtimore me leje ndërtimi.
+Në rastet kur sipërfaqet shtesë nuk janë të ndashme, objektet me shkelje të lejes së ndërtimit legalizohen në tërësi, në përputhje me përcaktimet e pikës 3, të nenit 18, të ligjit.

@@ -1,0 +1,1 @@
+24. Regjistrimi i njësive individuale dhe i pjesës takuese të bashkëpronësisë kryhet sipas aktit të legalizimit. Poseduesit e njësive individuale, krahas pagesës së tarifës së regjistrimit për këto njësi, paguajnë solidarisht edhe tarifën e regjistrimit të objektit në tërësi.

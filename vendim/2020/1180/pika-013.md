@@ -1,0 +1,1 @@
+13. Pas procedurës së përcaktuar në pikën 12, të këtij vendimi, drejtoria vendore e ASHK-së miraton aktet e legalizimit për njësitë individuale në favor të poseduesve, sipas kontratave ose aktmarrëveshjeve përkatëse.

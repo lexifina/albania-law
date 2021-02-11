@@ -1,0 +1,2 @@
+6. Problematikat e pozicionimit të objektit me shkelje të lejes së ndërtimit dhe/ose të sheshit të ndërtimit zgjidhen, duke u mbështetur në gjendjen faktike ndërtimore, të evidentuar në terren. Drejtoritë vendore të ASHK-së vijojnë legalizimin sipas këtij evidentimi, pavarësisht nga ndryshimi midis gjendjes faktike dhe dokumentacionit të lejes së lëshuar nga autoriteti vendor.
+II. LEGALIZIMI NË FAVOR TË POSEDUESVE

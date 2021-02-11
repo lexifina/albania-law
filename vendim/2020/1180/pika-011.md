@@ -1,0 +1,1 @@
+11. Poseduesit e njësive individuale duhet të dorëzojnë, brenda 30 (tridhjetë) ditëve nga data e afishimit publik, dokumentacionin që provon marrëdhënien juridiko-civile me subjektin ndërtues/investitor.

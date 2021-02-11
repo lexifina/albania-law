@@ -1,0 +1,1 @@
+14. Nëse objekti me shkelje të lejes së ndërtimit është ngritur në truall privat të të tretëve, pronarët e truallit përfitojnë pjesët përkatëse në objektin kryesor dhe në shtesat e realizuara nga subjekti ndërtues/investitor, në përputhje me pikën 2, të nenit 20, të ligjit.

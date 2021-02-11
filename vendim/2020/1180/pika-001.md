@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim përcaktimin e rregullave dhe të procedurave të legalizimit të objekteve me shkelje të lejes së ndërtimit, në përputhje me përcaktimet e nenit 31, të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”.

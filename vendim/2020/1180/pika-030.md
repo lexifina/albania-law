@@ -1,0 +1,1 @@
+30. Objektet me shkelje të lejes së ndërtimit, për të cilat procedura administrative ka nisur përpara hyrjes në fuqi të këtij vendimi dhe nuk është përfunduar ende, u nënshtrohen rregullave të këtij vendimi.
