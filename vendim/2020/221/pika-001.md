@@ -3,4 +3,4 @@
 - Znj. Elira Kokona, anëtar;
 - Znj. Arta Gurabardhi, anëtar;
 - Znj. Evis Mamaj, anëtar;
-- Z. Artan Shkreli, anëtar.
+- Z. Etjen Xhafaj, anëtar.
