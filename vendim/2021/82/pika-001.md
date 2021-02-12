@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Rikonstruksioni i rrugës Lalar - Mbyet”, Njësia Administrative Portëz, Bashkia Fier.
