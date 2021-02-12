@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 3, datë 18.1.2021, të Këshillit të Ministrave, “Për miratimin e marrëveshjes së nënshkruar për prodhimin dhe furnizimin ndërmjet Pfizer Export B.V. dhe Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, ministrit të Shtetit për Rindërtimin dhe Institutit të Shëndetit Publik”.
