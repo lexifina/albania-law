@@ -1,0 +1,1 @@
+16. Janë objekt trajtimi, sipas këtij vendimi, edhe ato raste kur subjekti kërkues nuk e përdor tokën, për arsye se organet që në bazë të vendimit të gjykatës së formës së prerë, detyroheshin të pajisnin qytetarin me tokë, por nuk e kanë zbatuar atë.

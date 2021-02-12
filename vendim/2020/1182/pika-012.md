@@ -1,0 +1,4 @@
+12. Regjistrimi i vendimit individual për kalimin e tokës bujqësore në pronësi, pa shpërblim, kryhet kryesisht nga drejtoria vendore e ASHK-së, vetëm pasi të jetë plotësuar një nga kushtet e mëposhtme:
+a) të ketë kaluar afati 30-ditor (tridhjetëditor) i paraqitjes së ankimit administrativ ndaj vendimit dhe ndaj tij nuk është paraqitur ndonjë ankim. Afati i ankimit llogaritet nga data e njoftimit të vendimit; ose
+b) të ketë përfunduar shqyrtimi i ankimit nga struktura e posaçme për ankimet në Drejtorinë e Përgjithshme dhe vendimi të jetë lënë në fuqi, ose të jetë vendosur mospranimi i ankimit; ose
+c) në rastet kur struktura e posaçme për ankimet vendos për ndryshimin e përmbajtjes së vendimit të drejtorisë vendore ose shfuqizimin apo anulimin e pjesshëm të tij, regjistrimi kryhet pasi drejtoria vendore të ketë miratuar vendimin e ri për dokumentin e pronësisë, në bazë të aktit të strukturës së posaçme.

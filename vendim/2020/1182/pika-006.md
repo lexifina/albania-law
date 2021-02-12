@@ -1,0 +1,1 @@
+6. ASHK-ja harton listën e përdoruesve faktikë të tokës bujqësore, mbi bazën e kërkesave të dorëzuara dhe të pranuara nga organet kompetente - njësitë e vetëqeverisjes vendore dhe sipërfaqet e saktësuara, sipas kreut III, të këtij vendimi.

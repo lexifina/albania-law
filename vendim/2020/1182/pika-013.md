@@ -1,0 +1,2 @@
+13. Regjistrimi kryhet nga drejtoria vendore e ASHK-së, pa u kushtëzuar nga aplikimi për shërbim kadastral dhe nga parapagimi i tarifave kadastrale. Pas kryerjes së shërbimit të regjistrimit, drejtoria vendore njofton subjektin përfitues për të shlyer tarifën e regjistrimit dhe tarifat e tjera për t’u pajisur me aktet kadastrale, si: certifikatë regjistrimi pronësie, kopje kartele, kopje të fragmentit të hartës kadastrale.
+III. SAKTËSIMI I SIPËRFAQES PËR KALIM PRONËSIE
