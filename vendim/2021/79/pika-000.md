@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese me shkëmbim letrash, të marrëveshjes së huas, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Fondit Abu Dhabi për Zhvillim, për financimin e projektit “Ndërtimi i bulevardit verior dhe rehabilitimi i Lumit të Tiranës”, ratifikuar me ligjin nr. 150/2013, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
