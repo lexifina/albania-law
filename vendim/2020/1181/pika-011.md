@@ -1,0 +1,1 @@
+11. Lëshimi i ekstrakteve nga baza e të dhënave të proceseve kalimtare kryhet në bazë të tarifës përkatëse, të përcaktuar sipas legjislacionit në fuqi. Ekstrakti për ndërtimet pa leje është sipas aneksit 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

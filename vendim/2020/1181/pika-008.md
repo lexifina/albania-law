@@ -1,0 +1,1 @@
+8. Administrimi, mënyra e plotësimit dhe garantimi i sigurisë së të dhënave kryhen në përputhje me rregulloren që miratohet për bazën e të dhënave, sipas parashikimeve të shkronjës “c”, të pikës 4, të nenit 8, të ligjit nr. 111/2018, “Për kadastrën”.

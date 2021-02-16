@@ -1,0 +1,1 @@
+2. Baza e të dhënave të proceseve kalimtare është pjesë e bazës shtetërore të të dhënave kadastrale, të parashikuara në ligjin nr. 111/2018, “Për kadastrën”, dhe ka në përbërje të saj edhe të dhënat për ndërtimet pa leje.

@@ -1,0 +1,1 @@
+5. Të dhënat që popullojnë bazën e të dhënave të proceseve kalimtare përftohen nga aplikimet ose kërkesat e subjekteve, aktet dhe veprimet e tjera administrative që kryejnë strukturat e ASHK-së gjatë zbatimit të procedurave, sipas ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”.

@@ -1,0 +1,1 @@
+9. ASHK-ja përcakton ndërveprimin e bazës së të dhënave të proceseve kalimtare me baza të dhënash shtetërore të tjera për të dhënat parësore, në koordinim me Autoritetin Rregullator Koordinues të bazave të të dhënave dhe institucionet administruese.

@@ -1,0 +1,1 @@
+1. Ky vendim ka për objekt përcaktimin e rregullave për krijimin, përdorimin, administrimin dhe ruajtjen e bazës së të dhënave të proceseve kalimtare të pronësisë, sipas ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”, si dhe për ndërveprimin e saj me bazat e tjera të të dhënave shtetërore.

@@ -1,0 +1,1 @@
+13. Të gjitha ndryshimet në arkitekturën software dhe hardware të Agjencisë Shtetërore të Kadastrës, të cilat mund të ndodhin në varësi të nevojave të institucionit dhe zhvillimit të praktikave përkatëse, do të bëhen në përputhje me legjislacionin në fuqi.
