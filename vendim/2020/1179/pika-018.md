@@ -1,0 +1,1 @@
+18. Personat juridikë/fizikë, vendas apo të huaj, që kanë të drejtën për të pasur akses në portalin qeveritar e-Albania, mund të marrin dokumente kadastrale elektronike në mënyrë të drejtpërdrejtë, pasi kanë marrë pëlqimin e subjekteve, që figurojnë të regjistruar si pronarë të pasurisë së paluajtshme.

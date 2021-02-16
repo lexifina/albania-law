@@ -1,0 +1,1 @@
+12. E drejta e hyrjes në ALBSCAD mundësohet me paraqitjen e kërkesës nga institucioni përkatës dhe, brenda 2 (dy) ditëve nga paraqitja e saj, Drejtoria e Përgjithshme e ASHK-së pajis institucionin me kodin hyrës.

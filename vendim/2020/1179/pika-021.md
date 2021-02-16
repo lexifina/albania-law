@@ -1,0 +1,1 @@
+21. Agjencia Shtetërore e Kadastrës, brenda 8 (tetë) muajve nga hyrja në fuqi e këtij vendimi, duhet të mundësojë të drejtën e institucioneve për marrjen e ekstrakteve nga baza shtetërore e të dhënave kadastrale.

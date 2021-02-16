@@ -1,0 +1,1 @@
+11. Institucionet shtetërore që ushtrojnë ndjekjen penale dhe agjencitë ligjzbatuese kanë akses të drejtpërdrejtë si përdorues në bazën shtetërore të të dhënave kadastrale, ALBSCAD. Lista e institucioneve është sipas aneksit 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

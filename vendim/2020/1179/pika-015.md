@@ -1,0 +1,1 @@
+15. Në asnjë rast kodi hyrës nuk mund t’u bëhet i ditur personave të tretë, të ndryshëm nga personi i autorizuar, pa njoftuar më parë ASHK-në, e cila ka për detyrë të verifikojë kriteret. Ndryshimi i personit të autorizuar nga institucioni përkatës bëhet sipas pikës 12, të këtij vendimi.

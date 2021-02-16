@@ -1,0 +1,1 @@
+14. ALBSCAD-i aksesohet vetëm nga persona të autorizuar të institucionit përkatës dhe vetëm nga sistemet e administruara e të miratuara nga ASHK-ja. Të dhënat e personit të autorizuar i njoftohen Agjencisë Shtetërore të Kadastrës për të mundësuar pajisjen me kodin e hyrjes dhe për të vënë në dispozicion kredencialet e përdoruesit.
