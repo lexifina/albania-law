@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për përdorimin dhe gëzimin e shërbimeve që ofrohen në zonat e mbrojtura mjedisore nëpërmjet kryerjes së veprimtarive ekonomike, shoqërore, turistike, kërkimore-shkencore dhe çdo lloj veprimtarie tjetër të lejuara nga legjislacioni në fuqi për zonat e mbrojtura dhe në përputhje me planet e menaxhimit respektive të këtyre zonave.

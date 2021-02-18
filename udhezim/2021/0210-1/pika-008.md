@@ -1,0 +1,1 @@
+8. Procedura e mësipërme nuk zbatohet për dhënien në përdorim të sipërfaqeve kullosore. Dhënia në përdorim e këtyre sipërfaqeve bëhet pas miratimit nga Drejtori i AKZM-së, të parcelave që do të verifikohen në terren, për plotësimin e kushteve dhe kritereve të miratuara nga aktet ligjore për përdorimin e kullotave.
