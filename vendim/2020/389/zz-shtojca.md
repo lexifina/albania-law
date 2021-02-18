@@ -115,3 +115,13 @@ LISTA E SHERBIMEVE TE OFRUARA NGA AGJENCIA SHTETERORE E KADASTRES
 | |paluajtshme. | | |
 |65 |Regjistrim i pezullimit te ekzekutimit të vendimit gjyqësor|1000 |PO |
 | |të formës së prerë | | |
+Aneks 1/1
+LISTA E SHËRBIMEVE TË OFRUARA NGA AGJENCIA SHTETËRORE E KADASTRËS
+SHTESË
+| | | |Aplikimi ose jo i kamatëvonesës|
+|Nr. |Lloji i shërbimit |Tarifa (lekë) |(10% e tarifës/ditë vonesë, por|
+| | | |jo më shumë se 300 000 lekë |
+|66 |Lëshim ekstrakti informues nga sistemi i pasurive të paluajtshme |1100 |JO |
+|66/1 |Lëshim ekstrakti informues nga sistemi i pasurive të paluajtshme për |1100 |JO |
+| |Ministrinë e Bujqësisë dhe Zhvillimit Rural, për projektin “Nafta për | | |
+| |bujqësinë” | | |
