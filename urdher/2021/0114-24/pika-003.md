@@ -1,1 +1,0 @@
-3. Autoriteti Kombëtar i Ushqimit të informojë rregullisht Drejtorinë e Derregullimit, Lejeve, Licencave dhe Monitorimit për çdo ngarkesë të shpendëve të gjallë shtëpiakë dhe të egër, zogjve 24 orësh, shpendëve dekorativë, materialit biologjik, vezëve të shpendëve, mishit të shpendëve dhe nënprodukteve të shpendëve që vijnë nga vendet e sipërcituara në pikën 1.
