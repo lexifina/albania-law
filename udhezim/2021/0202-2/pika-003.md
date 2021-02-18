@@ -1,0 +1,1 @@
+3. Administrimi i provimeve të Maturës Shtetërore Profesionale 2021, bazohet në rregulloren e Maturës Shtetërore, të miratuar me urdhrin e përbashkët të ministrit të Arsimit, Sportit dhe Rinisë dhe ministrit të Financave dhe Ekonomisë.

@@ -1,0 +1,1 @@
+8. Provimet e detyruara të Teorisë Profesionale të integruar, sipas tabelës në pikën 6, të mbështeten në programet orientuese të publikuara në faqen e Agjencisë Kombëtare të Arsimit, Formimit Profesional dhe Kualifikimeve.

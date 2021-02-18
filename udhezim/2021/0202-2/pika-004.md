@@ -1,0 +1,1 @@
+4. Testi i gjuhës së huaj (D3) hartohet në përputhje me gjuhën e cila në planin mësimor të arsimit të mesëm profesional trajtohet si gjuhë e huaj e parë. Testi i provimit të jetë në nivelin gjuhësor që përcaktohet në kurrikul në përfundim të arsimit të mesëm profesional.
