@@ -1,0 +1,1 @@
+6. Instituti i Sigurisë Ushqimore dhe Veterinarisë duhet të dërgojë pranë Ministrisë së Bujqësisë dhe Zhvillimit Rural, jo më vonë se data 1.3.2021, dokumentacionin e plotë (në formë shkresore dhe elektronike), termat e referencës, specifikimet teknike, fondin limit, si dhe afatet e realizimit të kontratave.

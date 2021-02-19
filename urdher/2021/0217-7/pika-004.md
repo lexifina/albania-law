@@ -1,0 +1,1 @@
+4. Pas njoftimit të fituesit, Ministria e Bujqësisë dhe Zhvillimit Rural dërgon pranë Institutit të Sigurisë Ushqimore dhe Veterinarisë, dokumentacionin e plotë, në formë të shkruar, për të vijuar me nënshkrimin e kontratës përkatëse.

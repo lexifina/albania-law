@@ -1,0 +1,1 @@
+2. Ministria e Bujqësisë dhe Zhvillimit Rural merr përsipër rolin e Organit Qendror Blerës për zhvillimin e procedurave të prokurimit në emër dhe për llogari të Institutit të Sigurisë Ushqimore dhe Veterinarisë.

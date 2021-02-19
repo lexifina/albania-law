@@ -1,0 +1,1 @@
+1. Realizimin e procedurave, ku impakti i tyre është me një risk të lartë, me vlerë mbi 800,000 (tetë qind mijë) lekë pa TVSH, në mënyrë të përqendruar, për autoritetin kontraktor, Instituti i Sigurisë Ushqimore dhe Veterinarisë.

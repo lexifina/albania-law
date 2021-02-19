@@ -1,0 +1,1 @@
+3. Ministria e Bujqësisë dhe Zhvillimit Rural është përgjegjëse për kryerjen e të gjithë procedurave të prokurimit, sipas pikës 1 të këtij udhëzim, që nga njoftimi i kontratës e deri te publikimi i njoftimit të nënshkrimit të kontratës në Sistemin Elektronik të Prokurimeve.
