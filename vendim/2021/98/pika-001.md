@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën prej 55 098 000 (pesëdhjetë e pesë milionë e nëntëdhjetë e tetë mijë) lekësh pa TVSH, për financimin e sistemimit të territorit, lirimin e sheshit dhe kthimin e sipërfaqes në kuotë për ndërtimin e 44 (dyzet e katër) njësive individuale të banimit në Njësinë Administrative Ishëm, Bashkia Durrës.
