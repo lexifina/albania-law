@@ -1,0 +1,1 @@
+26. Sistemet e reja fiskale të parashikuara në këtë vendim janë të detyrueshme për t’u instaluar dhe për t’u përdorur nga tatimpaguesit, subjekt të këtij vendimi, duke filluar nga data 1 shtator 2021.

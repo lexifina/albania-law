@@ -1,0 +1,1 @@
+20. Vetëm pasi shoqëria të pajiset me autorizimin e saj, ajo do të regjistrohet në regjistrin e shoqërive të autorizuara për implementim dhe mirëmbajtje, i cili do të jetë publik dhe mund të fillojë me ofrimin e produkteve/shërbimeve të tij, sipas këtij vendimi në tregun e Republikës së Shqipërisë.

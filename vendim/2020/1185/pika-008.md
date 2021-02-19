@@ -1,0 +1,1 @@
+8. Çdo person juridik, shqiptar ose i huaj, që plotëson kërkesat e përcaktuara në pikën 11, të këtij vendimi, mund të jetë një implementues dhe mirëmbajtës i sistemit të monitorimit të sektorit të hidrokarbureve dhe, si i tillë, duhet të regjistrohet në regjistrin e shoqërive të autorizuara.

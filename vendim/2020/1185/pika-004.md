@@ -1,0 +1,3 @@
+4. Fiskalizimi i shitjeve me anë të kartave të shoqërisë ose entitetit
+Kur fatura për tregtimin me pakicë të karburantit paguhet me kartën e shoqërisë ose entitetit të blerësit, në momentin e furnizimit shitësi lëshon faturën nga sistemi fiskal i instaluar në dispenser, e cila përmban informacionin identifikues të blerësit (NIPT-i, emri/emri dhe mbiemri). Deri në fund të muajit shitësi lëshon faturën përmbledhëse, e cila duhet të përmbajë një referencë në NSLF-në e faturave individuale të lëshuara gjatë të njëjtit muaj për të njëjtin klient, me mënyrë pagese “Karta e shoqërisë ose entitetit”.
+Vetëm në këtë rast, fatura përmbledhëse konsiderohet për qarkullimin e muajit të shitësit dhe faturat individuale të lidhura nuk do të llogariten në librat e shitjes/blerjes.

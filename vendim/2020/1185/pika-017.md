@@ -1,0 +1,1 @@
+17. Shoqëria (përfshirë dhe punonjësit e angazhuar pranë kësaj shoqërie) nuk duhet të jetë e certifikuar ose e autorizuar, e licencuar ose e kontraktuar nga administrata shtetërore për një hallkë tjetër të procesit të kontrollit të hidrokarbureve.

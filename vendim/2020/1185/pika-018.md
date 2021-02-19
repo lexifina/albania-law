@@ -1,0 +1,5 @@
+18. AKSHI dhe DPT-ja, me urdhër të përbashkët, ngrenë një komision të përhershëm, me specialistë sipas fushave të përkatësisë si dhe hartojnë kriteret e vlerësimit dhe procedurën e ankimit. Dokumenti miratohet nga ministri i Financave dhe Ekonomisë. Komisioni do të udhëhiqet nga dy bashkëkryetarë, dhe do të shqyrtojë kërkesat e çdo aplikanti, të dhënat dhe dokumentacionin e paraqitur dhe vetë pajisjet e monitorimit dhe sistemin e monitorimit.
+Pas vlerësimit të aplikimit, Komisioni harton një relacion sqarues, ku sugjeron që AKSHI dhe DPT-ja të lëshojnë autorizimin për aplikantin ose të vendosin refuzimin e kërkesës.
+Autorizimi lëshohet nëpërmjet portalit e-Albania. Autorizimi përmban kodin e shoqërisë së autorizuar dhe kodin e versionit të sistemit të monitorimit.
+Autorizimi shoqërohet me marrëveshje që do të përmbajë termat dhe kushtet e operimit të shoqërisë së autorizuar për ofrimin e produkteve/shërbimeve të saj, sipas modelit të miratuar me udhëzim të ministrit të Financave dhe Ekonomisë.
+Vendimi i refuzimit të aplikimit shoqërohet me arsyet përkatëse që kanë çuar në këtë vendim.
