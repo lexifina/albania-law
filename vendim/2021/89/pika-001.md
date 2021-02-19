@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Lezhë, për Njësinë Administrative Blinisht, të pasurive 176 dhe 182/3, me vendndodhje në zonën kadastrale 1220, sipas formularit, gjithsej, 1 (një) fletë, dhe planrilevimeve, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, me qëllim për t’u përdorur në fushën e zhvillimit ekonomik dhe të bujqësisë.
