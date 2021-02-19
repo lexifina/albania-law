@@ -34,7 +34,7 @@ b) nënzona II (zonë e gjelbër).
 4. Nënzona I përfshin ndërtimet në pjesën veriore të Kalasë së Kaninës, të cilat ndodhen jashtë zonës mbrojtëse të këtij monumenti, pjesën perëndimore poshtë rrugës kryesore të fshatit, si dhe pjesët në lindje e në jug të “Qendrës historike” që kanë banesa ekzistuese.
 5. Nënzona II përfshin hapësirat e gjelbëruara në pjesën perëndimore të zonës mbrojtëse të “Qendrës historike”, në krah të rrugës kryesore dhe në pjesën lindore të “Qendrës historike”.
 6. Kufijtë e zonës mbrojtëse paraqiten në hartën e zonifikimit, e cila është pjesë përbërëse e këtij plani.
-7. Koordinatat gjeografike të zonës mbrojtëse paraqiten në aneksin 2, pjesë përbërëse e këtij plani.
+7. Koordinatat gjeografike të zonës mbrojtëse paraqiten në aneksin 2/1, pjesë përbërëse e këtij plani.
 Neni 6
 Ndërhyrjet e lejuara në “Qendrën historike”
 1. Ndërhyrjet në “Qendrën historike” kanë si qëllim ruajtjen dhe mbrojtjen e vlerave të trashëgimisë kulturore, historike, urbanistike, arkitektonike dhe të peizazhit të fshatit Kaninë, si dhe kthimin e tij në një qendër të rëndësishme turistike të karakterit rural e familjar.
@@ -109,5 +109,5 @@ Dispozita të fundit
 2. Këtij plani i bashkëlidhet zonifikimi i “Qendrës historike”, zonës mbrojtëse të saj, si dhe tabelat përkatëse të koordinatave gjeografike.
 ANEKS 1
 KOORDINATAT E QENDRËS HISTORIKE TË FSHATIT KANINË
-ANEKS 2
+ANEKS 2/1
 KOORDINATAT E ZONËS MBROJTËSE TË FSHATIT KANINË
