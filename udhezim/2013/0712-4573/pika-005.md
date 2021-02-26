@@ -1,1 +1,0 @@
-5. Në varësi të problematikave që vërehen në ecurinë e kërkesave, struktura përgjegjëse për shtetësinë, konsultohet të paktën një herë në vit me strukturën përgjegjëse për çështjet konsullore të Ministrisë së Punëve të Jashtme, duke bërë edhe përditësimin e informacionit.

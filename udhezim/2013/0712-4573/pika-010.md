@@ -1,1 +1,0 @@
-10. Kërkuesi ka detyrimin të deklarojë të dhëna, informacione dhe/ose të paraqesë dokumentacion të saktë e të rregullt, në përputhje me legjislacionin në fuqi. Ai duhet të japë pëlqimin për trajtimin e të dhënave personale për qëllimin e trajtimit të kërkesës.

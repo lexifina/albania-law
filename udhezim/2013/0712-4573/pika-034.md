@@ -1,1 +1,0 @@
-34. Procedurat e parashikuara në këtë kre zbatohen ndaj të huajve me origjinë shqiptare me shtetësi të një shteti anëtar të Bashkimit Europian apo që janë me qëndrim të rregullt në një shtet anëtar të Bashkimit Europian, ose me shtetësi të një shteti që mund të lëvizin pa viza në territorin e shteteve të zonës Shengen.

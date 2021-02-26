@@ -1,1 +1,0 @@
-54. Të interesuarit e legjitimuar mund të paraqesin ankim në gjykatë ndaj veprimeve të strukturave kompetente për trajtimin e kërkesës, në bazë të rregullave dhe afateve të parashikuara në legjislacionin në fuqi.

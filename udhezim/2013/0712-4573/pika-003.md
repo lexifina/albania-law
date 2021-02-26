@@ -1,1 +1,0 @@
-3. Strukturat e Ministrisë së Brendshme në bashkëpunim me ato të Ministrisë së Punëve të Jashtme përgatitin materialin informues, si dhe krijojnë të gjitha lehtësitë strukturore e praktike për dhënien e informacionit, formularëve në mënyrë të saktë, të plotë, të përshtatshme e të shpejtë të informacionit, apo informacioneve shpjeguese.

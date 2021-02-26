@@ -1,1 +1,0 @@
-53. Të interesuarit e legjitimuar mund të paraqesin ankim administrativ ndaj veprimeve të strukturave kompetente për trajtimin e kërkesës, në bazë të rregullave dhe afateve të parashikuara sipas Kodit të Procedurës Administrative.

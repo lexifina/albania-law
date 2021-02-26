@@ -1,1 +1,0 @@
-24. Nëse personi i parëlindur nuk rezulton të ketë qenë i regjistruar në regjistrat e gjendjes civile, fakti i zotërimit të shtetësisë shqiptare, mund të provohet me çdo certifikatë zyrtare, pasaportë, vendim gjyqësor, apo çdo dokument tjetër zyrtar që provon shtetësinë shqiptare e të paralindurit.

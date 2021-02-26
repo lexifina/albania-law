@@ -1,1 +1,0 @@
-26. Si rregull, dokumentet e huaja kur paraqiten nga kërkuesi për shtetësinë shqiptare, duhet të jenë origjinale dhe të kenë Vulë Apostille në fletët origjinale në përputhje me Konventën e Hagës të datës 5.10.1961; ose dokumenti të jetë i legalizuar në fletën origjinale pranë përfaqësisë diplomatike apo konsullore të Republikës së Shqipërisë në shtetin ku është lëshuar.

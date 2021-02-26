@@ -1,1 +1,0 @@
-46. Struktura kompetente për shtetësinë, brenda 7 ditëve nga mbërritja e praktikës, i përcjell kopje të dokumentacionit të dërguar nga kërkuesi, duke i kërkuar informacion në lidhje me të dhënat e deklaruara, Drejtorisë së Përgjithshme të Gjendjes Civile.

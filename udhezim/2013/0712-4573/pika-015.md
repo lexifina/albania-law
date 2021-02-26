@@ -1,2 +1,0 @@
-15. Kërkesa, së bashku me dokumentet shoqëruese, duhet të përcillet brenda 15 ditëve pune pranë strukturës kompetente për shtetësinë, në Ministrinë e Brendshme me rubrikën e plotësuar mbi dhënien e mendimit nga funksionari i ngarkuar për pranimin, dhe kur është e rastit edhe me shënimet përkatëse nga funksionari përgjegjës që ka bërë pranimin e aplikimit. Hapa të veçantë proceduralë për secilën kërkesë parashikohen në këtë udhëzim.
-IV. Shqyrtimi i kërkesës për njohjen e shtetësisë shqiptare dhe afatet

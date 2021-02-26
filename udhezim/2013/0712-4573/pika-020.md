@@ -1,1 +1,0 @@
-20. Të dhënat individuale e familjare të përbërësve për shtetësinë dhe të gjendjes civile mund të kërkohen dhe të merren nga institucionet e organet, drejtpërdrejt nga shërbimi i gjendjes civile, dhe duhet të përdoren vetëm për qëllimin e aplikimit për shtetësinë shqiptare, duke u rezervuar në përhapjen e tyre, përveçse kur autorizohen me ligj.

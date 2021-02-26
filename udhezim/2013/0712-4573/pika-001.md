@@ -1,1 +1,0 @@
-1. Kërkesa për njohjen ose fitimin e shtetësisë shqiptare duhet të bëhet me shkrim dhe si rregull, sipas formularëve me format të bashkëlidhur këtij udhëzimi, duke u regjistruar në një regjistër të veçantë.
