@@ -1,0 +1,1 @@
+5. Për aplikuesit e martuar, në dokumentet e lëshuara nga zyrat e Gjykatës, Prokurorisë, Përmbarimit dhe ato të Gjendjes Gjyqësore (dëshmi penaliteti), duhet të figurojnë të dy mbiemrat, nëse aplikuesi/ja ka marrë dhe mbiemrin e bashkëshortit/es.

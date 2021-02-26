@@ -1,0 +1,1 @@
+6. Dokumentet e depozituara (në rastet kur nuk ka mangësi), në momentin e pranimit nga përfaqësia diplomatike ose konsullore e RSH-së, janë të vlefshëm deri në shqyrtim të aplikimit nga institucionet kompetente.

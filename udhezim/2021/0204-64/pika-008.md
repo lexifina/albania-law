@@ -1,0 +1,1 @@
+8. Përfaqësitë diplomatike dhe konsullore të RSH-së duhet të depozitojnë procesverbalin dhe dosjen e dokumenteve të aplikimit brenda 1 (një) muaji nga data e dorëzimit pranë Ministrisë për Evropën dhe Punët e Jashtme, e cila duhet të kalojë praktikën brenda 15 (pesëmbëdhjetë) ditëve në Ministrinë e Brendshme.
