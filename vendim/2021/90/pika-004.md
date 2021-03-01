@@ -1,0 +1,1 @@
+4. Ministria për Evropën dhe Punët e Jashtme ngarkohet t’i raportojë, çdo 3 (tre) muaj, Këshillit të Ministrave dhe kryenegociatorit për negociatat e anëtarësimit në Bashkimin Evropian për ecurinë e zbatimit të PKIE-së 2021-2023.

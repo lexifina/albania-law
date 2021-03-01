@@ -1,0 +1,1 @@
+5. Ngarkohen Ministria e Financave dhe Ekonomisë, në bashkëpunim me Ministrinë për Evropën dhe Punët e Jashtme, të monitorojnë përfshirjen, nga ministritë dhe institucionet e tjera qendrore, në programin buxhetor afatmesëm, të nevojave financiare për zbatimin e përparësive afatshkurtra dhe afatmesme të parashikuara në PKIE-në 2021-2023.
