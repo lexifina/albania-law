@@ -1,0 +1,1 @@
+5. Për procedurat e prokurimit të cilat realizohen nga ABP dhe/ose AKSHI, Ministria e Bujqësisë dhe Zhvillimit Rural në bashkëpunim me Autoritetin Kombëtar të Veterinarisë dhe Mbrojtjes së Bimëve, merr përsipër hartimin e specifikimeve teknike, si dhe dërgimin e tyre pranë autoriteteve përkatëse.

@@ -1,0 +1,1 @@
+4. Pas njoftimit të fituesit, Ministria e Bujqësisë dhe Zhvillimit Rural dërgon pranë Autoritetit Kombëtar të Veterinarisë dhe Mbrojtjes së Bimëve, dokumentacionin e plotë në formë të shkruar për të vijuar me nënshkrimin e kontratës përkatëse.
