@@ -1,0 +1,1 @@
+1. Miratimin e rregullores së trajnimit fillestar dhe vazhdues, përzgjedhjen e trajnerëve, trajnimin dhe vlerësimin e performancës së tyre, sipas tekstit bashkëlidhur këtij urdhri dhe pjesë përbërëse e tij.
