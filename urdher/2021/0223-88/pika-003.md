@@ -1,0 +1,1 @@
+3. Numri i noterëve për çdo bashki, deri në vitin 2026, si dhe numri i pozicioneve të zëvendësnoterëve për çdo bashki është sipas aneksit nr. 1, që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
