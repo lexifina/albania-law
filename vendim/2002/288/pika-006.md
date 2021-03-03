@@ -1,1 +1,0 @@
-6. Subjektet që kanë në administrim objektet sipas lidhjes nr.3, e cila i bashkëlidhet këtij vendimi, të marrin masa parandaluese dhe ndërhyrëse kundër zjarrit, duke i pajisur ato me teknikë e pajisje, me sisteme sinjalizimi, sisteme stacionare të parandalimit, mbrojtjes dhe shuarjes së zjarrit, me hidrante zjarrfikëse dhe me mjetet e pajisjet e tjera të shpëtimit.

@@ -1,1 +1,0 @@
-5. Në këto institucione të vendoset inspektor profilaksie, i cili të jetë përgjegjës për të gjitha masat profilaktike kundër zjarrit, për njohjen dhe përdorimin e pajisjeve zjarrfikëse dhe të mbajë në gatishmëri të gjithë teknikën dhe pajisjet zjarrfikëse që gjenden në objekt.
