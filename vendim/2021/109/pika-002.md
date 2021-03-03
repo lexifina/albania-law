@@ -1,0 +1,1 @@
+2. Efekti financiar sipas pikës 1, të këtij vendimi, të përballohet nga shpenzimet e fondit të rindërtimit, të miratuar për vitin 2021, dhe t’i transferohet Bashkisë Vorë në formën e transfertës së pakushtëzuar.
