@@ -1,0 +1,26 @@
+{
+  "qbz_id": 66014,
+  "title": "Për një ndryshim në ligjin nr. 9975, datë 28.7.2008, “Për taksat kombëtare”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "151",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2020-12-17",
+  "published": "2021-02-19",
+  "in_force": "2021-03-06",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/9ef4e254cb85dc6518ab82dd4147c16aa6bb9c6a1f6d9327b9764504c8864678.docx",
+  "source_sha256": "9ef4e254cb85dc6518ab82dd4147c16aa6bb9c6a1f6d9327b9764504c8864678",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66014",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2020/12/17/151",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
