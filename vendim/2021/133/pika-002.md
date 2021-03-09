@@ -1,0 +1,1 @@
+2. Efekti financiar, sipas pikës 1 të këtij vendimi, të përballohet nga shpenzimet e fondit të rindërtimit, miratuar për vitin 2021, dhe t’i kalojë Bashkisë Kamzë në formën e transfertës së pakushtëzuar.

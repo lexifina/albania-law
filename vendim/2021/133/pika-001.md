@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në vlerën 37 837 121 (tridhjetë e shtatë milionë e tetëqind e tridhjetë e shtatë mijë e njëqind e njëzet e një) lekë pa TVSH, për financimin e hartimit të projektit të parkut dhe kompleksit sportiv, në zonën e re për zhvillim të detyruar, në fshatin Valias, Bashkia Kamzë, dhe caktimin e Bashkisë Kamzë si njësi zbatuese.
