@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Lushnjë, në bashkëpunim me Bashkinë Lushnjë, brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, të fillojnë procedurat për hedhjen e gjurmës së projektit mbi hartat kadastrale, sipas planimetrisë së shpronësimit të miratuar dhe të bëjnë kalimin e pronësisë në favor të Bashkisë Lushnjë.
