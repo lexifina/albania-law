@@ -297,3 +297,32 @@ Pasuria ka barrë hipotekore. Plotësim dokumentacioni
 Vlera totale
 137,500,521
 Vlerësimi është bërë duke zbatuar në VKM nr. 138, datë 23.3.2000, “Për kriteret teknike të vlerësimit dhe të përllogaritjes së masës së shpërblimit të pasurive pronë private që zhvlerësohen dhe të të drejtave të personave të tretë për interes publik” dhe VKM nr. 89, datë 3.2.2016, “Për miratimin e hartës së vlerës së tokës në Republikën e Shqipërisë”
+LISTA E VLERËSIMIT TË PASURIVE, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT “REHABILITIMI I RRUGËS ’XOXI ANDONI’ DHE HAPËSIRAVE RRETH SAJ”, SHTESA FIER
+Shënim. Çmimi për tokën “truall” është marrë në VKM-në nr. 89, datë 3.2.2016.
+Nr.
+Emër Mbiemër
+Zona kad.
+Nr. i pasurisë
+Rrethi
+Sip. e objektit të banimit (m2)
+Sip. e truallit (m2)
+Çmimi i objektit të banimit (l/m2)
+Çmimi i truallit (l/m2)
+Vlera e ndërtimit (lekë)
+Vlera e truallit (lekë)
+Vlera totale (lekë)
+Konfirmim nga ZVRPP-ja
+21
+Xhelo Sinan Xhuveli
+ZK. 8534
+3/205
+Fier
+___
+58
+___
+12,893.00
+___
+747.794
+747.794
+Konfirmuar nga ZVRPP-ja.
+VLERA TOTALE E SHPRONËSIMIT 747,794.00
