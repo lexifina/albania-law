@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 109 965 920 (njëqind e nëntë milionë e nëntëqind e gjashtëdhjetë e pesë mijë e nëntëqind e njëzet) lekë, për financimin e rindërtimit të banesave individuale për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte që duhen rindërtuar nga e para, në Bashkinë Durrës.
