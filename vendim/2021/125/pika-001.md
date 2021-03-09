@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi projekteve: “Rehabilitimi i Lumit Gjanicë”, “Rikonceptimi i qendrës së qytetit” dhe “Ndërtimi i Stadiumit të Lojërave me Dorë”, Fier.
