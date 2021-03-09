@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 400 081 860 (katërqind milionë e tetëdhjetë e një mijë e tetëqind e gjashtëdhjetë) lekë, për financimin e rikonstruksionit ose riparimit të mjediseve në bashkëpronësi ose të përbashkëta në ndërtesa (pallat), në bashkitë Kavajë dhe Mirditë.
