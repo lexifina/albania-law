@@ -1,0 +1,9 @@
+# Neni 72
+E drejta e bashkimit familjar
+1. Anëtarët e familjes së refugjatit ose të personit me statusin e mbrojtjes plotësuese në Republikën e Shqipërisë gëzojnë të drejtën e bashkimit familjar.
+2. Refugjati fëmijë i pashoqëruar ka të drejtë të kërkojë bashkim familjar me prindërit, motrat, vëllezërit, anëtarë të tjerë të familjes, të cilët bashkëjetojnë me të ligjërisht ose që janë fëmijë dhe të pamartuar. Kur këta persona të familjes, të shkallës së parë, në linjë të drejtë, nuk mund të gjenden, fëmija i pashoqëruar ka të drejtë të kërkojë bashkim familjar me kujdestarin ligjor ose me ndonjë të afërm tjetër, jo në linjë të drejtë.
+3. Në rast të një martese poligame, kur një nga bashkëshortët e refugjatit jeton me të në Republikën e Shqipërisë, nuk mund të autorizohet hyrja, qëndrimi dhe dhënia e bashkimit familjar të bashkëshortit dhe as të fëmijëve të këtij bashkëshorti, pa paragjykuar dispozitat e konventës “Mbi të drejtat e fëmijës” të vitit 1989.
+4. Në rast të një martese poligame, kur bashkëshortët jetojnë jashtë territorit të Republikës së Shqipërisë, kërkuesi ka të drejtë të kërkojë bashkim familjar me njërin nga bashkëshortët dhe me fëmijët e këtij bashkëshorti, sipas përcaktimeve të pikës 1 të këtij neni.
+5. Refugjati ose personi me statusin e mbrojtjes plotësuese ka të drejtë të aplikojë për bashkim familjar vetëm pas dhënies së vendimit përfundimtar për përcaktimin e statusit.
+6. Gjatë shqyrtimit të kërkesës për bashkimin familjar të partnerit, bashkëjetues të kërkuesit, merren si provë e marrëdhënies familjare faktorë, si: fëmijë i përbashkët, banim i përbashkët, regjistrim i partneritetit dhe çdo mjet tjetër prove i besueshëm.
+7. Autoriteti përgjegjës për azilin dhe refugjatët mund të kryejë intervista me kërkuesin dhe anëtarët e tij të familjes, si dhe regjistron të gjitha të dhënat e përfituara gjatë shqyrtimit të kërkesës.

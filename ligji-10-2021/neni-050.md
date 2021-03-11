@@ -1,0 +1,7 @@
+# Neni 50
+Personat që i përkasin kategorisë së veçantë
+1. Autoriteti përgjegjës për azilin dhe refugjatët, si dhe çdo autoritet tjetër shtetëror, në zbatim të përcaktimeve të bëra në këtë ligj, u kushtojnë vëmendje, trajtim dhe kujdes të veçantë personave që i përkasin kategorisë së veçantë.
+2. Nevojat e veçanta të këtyre personave përcaktohen në bazë të vlerësimit individual të secilit kërkues, refugjat, person nën mbrojtje plotësuese ose person nën mbrojtje të përkohshme sipas këtij ligji.
+3. Kërkuesit, refugjatët, personat nën mbrojtje plotësuese ose personat nën mbrojtje të përkohshme, që i përkasin kategorisë së veçantë, përfitojnë trajtim të ndryshëm në përputhje me nevojat e tyre specifike për akomodimin, ofrimin e kushteve të veçanta të pranimit, trajtimin e nevojshëm mjekësor, si dhe këshillimin e nevojshëm psikosocial.
+4. Kërkuesit, refugjatët, personat nën mbrojtje plotësuese ose personat nën mbrojtje të përkohshme, të cilët kanë qenë subjekt i ushtrimit të torturës, të përdhunimit apo të akteve të tjera të rënda të dhunës, marrin trajtimin e plotë dhe të duhur për dëmin e shkaktuar nga akte të tilla, në veçanti mundësinë për të pasur trajtimin dhe kujdesin e duhur mjekësor dhe psikologjik.
+5. Personat, të cilët punojnë me viktimat e torturës, të përdhunimit apo të akteve të tjera të rënda të dhunës, duhet të kenë marrë ose marrin trajnimin e duhur në lidhje me nevojat e tyre dhe duhet t’u përmbahen rregullave të konfidencialitetit për informacionin që marrin gjatë kryerjes së veprimtarisë së tyre.

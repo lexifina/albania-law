@@ -1,0 +1,12 @@
+# Neni 53
+Vizitat mjekësore për fëmijët e pashoqëruar
+1. Me kërkesë të autoritetit përgjegjës për azilin dhe refugjatët, fëmija i pashoqëruar mund t’i nënshtrohet vizitës mjekësore për të përcaktuar moshën e tij, brenda kuadrit të shqyrtimit të kërkesës për mbrojtje ndërkombëtare, në rastet kur pas deklarimeve të përgjithshme apo indicieve të tjera të dobishme, ky autoritet ka dyshime lidhur me moshën e kërkuesit. Nëse edhe pas kësaj vizite autoriteti përgjegjës për azilin dhe refugjatët vazhdon të ketë dyshime, kërkuesi do të konsiderohet se është fëmijë.
+2. Vizita mjekësore kryhet duke respektuar në tërësi dinjitetin individual, duhet të jetë me natyrë sa më pak ndërhyrëse, si dhe të kryhet nga profesionistë të kualifikuar të mjekësisë, për të mundësuar, për aq sa është e mundur, një rezultat të besueshëm. Vizita mjekësore koordinohet dhe ndiqet nga punonjësit e Qendrës së Azilit në prani të psikologut, ku fëmija i pashoqëruar është akomoduar, dhe rezultatet e saj të certifikuara nga mjeku specialist i dorëzohen autoritetit përgjegjës për azilin dhe refugjatët.
+3. Në rastet kur kryhen vizita mjekësore, autoriteti përgjegjës për azilin dhe refugjatët sigurohet që:
+a) fëmija i pashoqëruar të informohet para shqyrtimit të kërkesës në një gjuhë të cilën e kupton apo të cilën supozohet se e kupton, për mundësinë e përcaktimit të moshës së tij nëpërmjet vizitës mjekësore.
+Informacioni përfshin edhe informatat për metodën e vizitës dhe pasojat e mundshme që rrjedhin nga vizita mjekësore, në kuadër të shqyrtimit të kërkesës për mbrojtje ndërkombëtare, si dhe për pasojat e refuzimit të vizitës mjekësore prej tij;
+b) fëmija i pashoqëruar dhe/ose kujdestari i tij jep pëlqimin për kryerjen e vizitës mjekësore, me qëllim përcaktimin e moshës;
+c) vendimi për të refuzuar kërkesën e bërë nga fëmija i pashoqëruar, që ka kundërshtuar kryerjen e vizitës mjekësore, nuk do të bazohet vetëm në këtë kundërshtim;
+ç) fakti që fëmija i pashoqëruar ka refuzuar kryerjen e vizitës mjekësore nuk do të pengojë autoritetin përgjegjës për azilin dhe refugjatët në marrjen e vendimit për kërkesën për mbrojtje ndërkombëtare.
+4. Në zbatimin e këtij neni, mendimi i fëmijës do të merret parasysh në përputhje me moshën dhe shkallën e pjekurisë së tij.
+5. Të gjithë personat që punojnë me fëmijët e pashoqëruar duhet të kenë marrë ose duhet të marrin trajnim të përshtatshëm për nevojat specifike të tyre dhe respektojnë parimin e konfidencialitetit në lidhje me çdo informacion që marrin gjatë kryerjes së veprimtarisë së tyre.

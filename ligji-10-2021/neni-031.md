@@ -1,0 +1,16 @@
+# Neni 31
+Shqyrtimi i kërkesës për mbrojtje ndërkombëtare
+1. Procedura e shqyrtimit të kërkesës për mbrojtje ndërkombëtare fillon në momentin e plotësimit të formularit për përcaktimin e statusit të mbrojtjes ndërkombëtare pranë autoritetit përgjegjës për azilin dhe refugjatët nga kërkuesi.
+2. Autoriteti përgjegjës për azilin dhe refugjatët, gjatë shqyrtimit të kërkesës, vlerëson nëse kërkuesi plotëson kushtet për statusin e refugjatit apo të mbrojtjes plotësuese dhe i mundëson kërkuesit të paraqesë, të shpjegojë e të dëshmojë të gjitha faktet dhe rrethanat që kanë të bëjnë me kërkesën e tij, si dhe të gjitha dokumentet e nevojshme që lidhen me përcaktimin e mbrojtjes ndërkombëtare.
+3. Kërkuesi është i detyruar të paraqesë dokumentacionin e plotë sa më shpejt që të jetë e mundur, si dhe të paraqesë informacion për moshën, lidhjet familjare, identitetin, shtetësinë, shtetet apo vendet e mëparshme të qëndrimit, kërkesat e mëparshme për mbrojtje ndërkombëtare, itineraret e udhëtimit, dokumentin e udhëtimit e të identifikimit dhe arsyet për paraqitjen e kërkesës.
+4. Autoriteti përgjegjës për azilin dhe refugjatët, gjatë shqyrtimit të kërkesës, merr në konsideratë të gjitha faktet dhe rrethanat që ndihmojnë në marrjen e vendimit, ku përfshihen:
+a) informacioni i saktë dhe i përditësuar nga burime të ndryshme, të tilla si EASO-ja (Zyra Mbështetëse Evropiane për Azilin), UNHCR-ja dhe organizatat e tjera ndërkombëtare për të drejtat e njeriut për gjendjen e përgjithshme që mbizotëron në vendet e origjinës së kërkuesve dhe, kur është e nevojshme, edhe për vendet përmes së cilave ata kanë kaluar tranzit;
+b) deklarata dhe dokumente të paraqitura nga kërkuesi, duke përfshirë informacionin nëse kërkuesi ka qenë subjekt i persekutimit apo cenimit të rëndë;
+c) rrethanat personale të kërkuesit, ku përfshihen faktorë të tillë, si: origjina, orientimi seksual dhe mosha, me qëllim për të vlerësuar nëse është persekutuar apo cenuar në bazë të këtyre faktorëve;
+ç) informacion nëse aktivitetet e kryera nga kërkuesi, për shkak të të cilave është larguar nga vendi i origjinës, janë kryer me qëllimin e vetëm për të krijuar kushte për të kërkuar mbrojtje ndërkombëtare.
+5. Në rast se kërkuesi nuk mbështet me dokumentacion dhe dëshmi të tjera aspekte të caktuara të deklaratave të tij dhe nuk justifikon fakte dhe rrethana të caktuara të lidhura me kërkesën, deklarata e kërkuesit do të konsiderohet e besueshme nëse:
+a) ka bërë përpjekje të sinqerta për të justifikuar si të bazuar kërkesën e tij;
+b) të gjitha elementet relevante që ka pasur në dispozicion, janë parashtruar dhe është dhënë shpjegim i kënaqshëm, qoftë edhe me mungesën e elementeve të tjera mbështetëse;
+c) është koherente dhe e besueshme dhe nuk është në kundërshtim me informacionet e veçanta dhe të përgjithshme në dispozicion të strukturës përgjegjëse në ministrinë përkatëse për çështjet e azilit dhe refugjatët për rastin e kërkuesit;
+ç) ka kërkuar mbrojtje ndërkombëtare në kohën më të hershme të mundshme, përveç rastit nëse ai mund të demonstrojë arsye të forta për vonesën në paraqitjen e kërkesës dhe konstatohet në përgjithësi besueshmëri e kërkuesit.
+6. Autoriteti Përgjegjës për Azilin dhe Refugjatët mund të marrë në konsideratë dëshmi shtesë për të vendosur në lidhje me kërkesën për mbrojtje ndërkombëtare.
