@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit nr. 2, datë 13.1.2021, “Për autorizimin e Agjencisë Shtetërore për Shpronësimin për negocimin e afatit të shpronësimit të pronarëve të pasurive të paluajtshme, pronë private, të nevojshme për ndërtimin e spitalit të Fierit”.
