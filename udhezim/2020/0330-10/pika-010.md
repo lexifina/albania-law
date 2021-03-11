@@ -31,8 +31,8 @@ j) Data e përfundimit të studimeve (të shlyerjes së detyrimeve akademike, mb
 k) Tema e tezës së diplomës (vetëm në rastet e studimeve të doktoratës);
 l) Forma e studimeve;
 ll) Numri unik i identifikimit të diplomës i lëshuar nga QShA/MASR në momentin e regjistrimit të formës së diplomës;
-m) Numri i matrikullimit të ciklit paraardhës të studimeve në diplomat e ciklit të dytë dhe të tretë si dhe ID e Maturës Shtetërore (numri i regjistrit veçantë për studentët që kanë përfunduar arsimin e mesëm të lartë para vitit 2006) në diplomat “Bachelor”, diplomat ose certifikatat profesionale dhe diplomat “Master i shkencave” të programeve të integruara të studimeve;
-n) Numri i diplomës së studimeve universitare të përfunduara më parë për diplomat e ciklit të dytë dhe të tretë;
+m) Numri i matrikullimit të ciklit paraardhës të studimeve në diplomat e ciklit të dytë dhe të tretë/numri i regjistrit që gjendet në vërtetimin e njësimit të diplomës, për diplomat që janë lëshuar jashtë Republikës së Shqipërisë, si dhe ID e Maturës Shtetërore/numri i dokumentit të njëvlershmërisë së dëftesës/diplomës së arsimit të mesëm të lartë që është lëshuar jashtë Republikës së Shqipërisë (numri i regjistrit të veçantë për studentët që kanë përfunduar arsimin e mesëm të lartë para vitit 2006) në diplomat “Bachelor”, diplomat ose certifikatat profesionale dhe diplomat “Master i shkencave” të programeve të integruara të studimeve;
+n) Numri i diplomës së studimeve universitare të përfunduara më parë për diplomat e ciklit të dytë dhe të tretë/Numri i regjistrit që gjendet në vërtetimin e njësimit të diplomës;
 nj) Numri dhe data e Vendimit të Komisionit për dhënien e Gradës Shkencore “Doktor”;
 o) Numri në regjistrin shtetëror të gradave shkencore dhe titujve akademikë për diplomën përkatëse të Gradës Shkencore “Doktor”.
 2. Në përputhje me legjislacionin në fuqi, Senatet akademike miratojnë formulimin grafik dhe përmbajtjen e diplomave, në përputhje me përcaktimet e këtij udhëzimi, përfshirë elementët e sigurisë.
