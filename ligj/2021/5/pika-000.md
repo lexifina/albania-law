@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 35, datë 16.12.2020, të Këshillit të Ministrave, “Për një shtesë në aktin normativ nr. 1, datë 31.1.2020, të Këshillit të Ministrave, ’Për masat parandaluese në kuadër të forcimit të luftës kundër terrorizmit, krimit të organizuar, krimeve të rënda dhe konsolidimit të rendit e sigurisë publike’, miratuar me ligjin nr. 18/2020”.
