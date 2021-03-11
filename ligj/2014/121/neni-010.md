@@ -1,4 +1,0 @@
-# Neni 10
-Refuzimi i azilit, për shkak të ardhjes nga një vend i tretë i sigurt
-1. Azili i refuzohet të huajit që vjen nga një vend i tretë i sigurt, palë e Konventës së Gjenevës apo protokollit të saj të vitit 1967, kur nga ky vend azilkërkuesi nuk mund të parashtrojë frikë të bazuar persekutimi për të paktën njërën prej arsyeve të parashikuara në Konventën e Gjenevës, si edhe as ndonjë shkelje të të drejtave të njeriut apo rrezikut të dëbimit, në kuptimin e dispozitave të këtij ligji, apo edhe kur ai mund të kthehet ligjërisht në këtë vend, ku aplikimi i tij për status refugjati do të shqyrtohet në përputhje me standardet ndërkombëtare.
-2. Lista e vendeve të treta të sigurta miratohet dhe përditësohet për këtë qëllim me vendim të Këshillit të Ministrave, duke u konsultuar edhe me listën e hartuar nga Bashkimi Europian ose, në mungesë të saj, me njërën prej shteteve anëtare të Bashkimit Europian.
