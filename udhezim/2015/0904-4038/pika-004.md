@@ -1,1 +1,1 @@
-4. Përjashtimi nga pagesat për dërgesat e objekteve postare do të aplikohet edhe për Shoqatën e të Verbërve në Shqipëri, e cila përfaqëson zyrtarisht personat e verbër dhe pjesërisht të verbër, duke mbrojtur të drejtat dhe interesat e tyre.
+4. Përjashtimi nga pagesat për dërgesat e objekteve postare do të aplikohet edhe për Shoqatat apo organizatat e regjistruara për të verbrit në Shqipëri, e cila përfaqëson zyrtarisht personat e verbër dhe pjesërisht të verbër, duke mbrojtur të drejtat dhe interesat e tyre.
