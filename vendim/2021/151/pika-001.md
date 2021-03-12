@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në vlerën 82 267 780 (tetëdhjetë e dy milionë e dyqind e gjashtëdhjetë e shtatë mijë e shtatëqind e tetëdhjetë) lekë pa TVSH, për financimin e ndërtimit të çerdhes “Valias”, në zonën e re për zhvillim të detyruar, në fshatin Valias, Bashkia Kamzë.

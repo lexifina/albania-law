@@ -1,0 +1,1 @@
+2. Bashkisë Kamzë, në buxhetin e vitit 2021, i transferohet fondi në formën e transfertës së pakushtëzuar, në masën 16 453 556 (gjashtëmbëdhjetë milionë e katërqind e pesëdhjetë e tre mijë e pesëqind e pesëdhjetë e gjashtë) lekë pa TVSH, për financimin e ndërtimit të çerdhes “Valias”, në zonën e re për zhvillim të detyruar, në fshatin Valias, Bashkia Kamzë.
