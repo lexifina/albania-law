@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në vlerën 203 034 301 (dyqind e tre milionë e tridhjetë e katër mijë e treqind e një) lekë pa TVSH, për financimin e ndërtimit të godinës administrative, në zonën e re për zhvillim të detyruar, në fshatin Valias, Bashkia Kamzë.

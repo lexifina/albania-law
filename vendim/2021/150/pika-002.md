@@ -1,0 +1,1 @@
+2. Bashkisë Kamzë, në buxhetin e vitit 2021, i transferohet fondi në formën e transfertës së pakushtëzuar, në masën 40 606 860 (dyzet milionë e gjashtëqind e gjashtë mijë e tetëqind e gjashtëdhjetë) lekë pa TVSH, për financimin e ndërtimit të godinës administrative, në zonën e re për zhvillim të detyruar, në fshatin Valias, Bashkia Kamzë.
