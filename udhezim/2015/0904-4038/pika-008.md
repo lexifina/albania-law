@@ -1,1 +1,1 @@
-8. Kufiri maksimal i peshës për objektin postar të dërguar në adrese të, dhe/ose nga një person i verbër dhe pjesërisht i verbër, si dhe në adresë të, dhe/ose nga Shoqata e të Verbërve në Shqipëri për brenda dhe jashtë vendit është deri në 7 kg.
+8. Kufiri maksimal i peshës për objektin postar të dërguar në adrese të, dhe/ose nga një person i verbër dhe pjesërisht i verbër, si dhe në adresë të, dhe/ose nga Shoqatat apo organizatat e regjistruara për të verbrit në Shqipëri për brenda dhe jashtë vendit është deri në 7 kg.
