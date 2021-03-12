@@ -1,0 +1,1 @@
+1. Dhënien e statusit të veçantë Universitetit të Arteve (në vijim, UART), si institucioni i vetëm publik i arsimit të lartë me karakter akademik, artistik dhe shkencor, me veprimtari në fushën e arteve, krijuar me vendimin nr.234, datë 23.3.2011, të Këshillit të Ministrave, “Për krijimin e Universitetit të Arteve”.

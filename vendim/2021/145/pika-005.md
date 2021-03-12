@@ -1,0 +1,1 @@
+5. Figurat e shquara me një veprimtari të spikatur artistike, brenda dhe jashtë vendit, vetëm për efekt mësimdhënieje, pa gëzuar të drejta të tjera, thirren në UART të japin kontributin e tyre, sipas përcaktimeve në statutin e UART-it.
