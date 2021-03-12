@@ -1,0 +1,3 @@
+# Neni 1
+Dhënie autorizimi për zhvillimin e negociatave
+Dhënien e autorizimit ministrit të Shëndetësisë dhe Mbrojtjes Sociale dhe ministrit të Shtetit për Rindërtimin për zhvillimin e negociatave me prodhuesit, me distributorë të autorizuar, me qeveritë ose institucionet e autorizuara prej tyre, të vendeve që prodhojnë ose distribuojnë vaksina anticovid, për të siguruar këto vaksina, të cilat janë të certifikuara nga trupa certifikuese në vendin e prodhimit të tyre.
