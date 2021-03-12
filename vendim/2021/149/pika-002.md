@@ -1,0 +1,1 @@
+2. Efekti financiar, sipas pikës 1, të këtij vendimi, përballohet nga shpenzimet e fondit të rindërtimit, miratuar për vitin 2021, dhe i transferohet Bashkisë Lezhë në formën e transfertës së pakushtëzuar.

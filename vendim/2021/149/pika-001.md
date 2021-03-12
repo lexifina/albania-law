@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 114 502 272 (njëqind e katërmbëdhjetë milionë e pesëqind e dy mijë e dyqind e shtatëdhjetë e dy) lekë, për financimin e rindërtimit të banesave individuale, për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte që duhen rindërtuar nga e para, në Bashkinë Lezhë.
