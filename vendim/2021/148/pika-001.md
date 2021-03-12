@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të bashkive Durrës dhe Rrogozhinë, përkatësisht, të objekteve arsimore shkolla 9-vjeçare “Neim Babameto”, Bashkia Durrës, dhe shkolla 9-vjeçare “Gosë”, Bashkia Rrogozhinë, sipas listës së inventarit që i bashkëlidhet këtij vendimi.
