@@ -1,0 +1,15 @@
+# Neni 110
+Afatet për ankim
+1. Në procedurat e prokurimit mbi kufirin e lartë monetar, në rastin e ankesave për dokumentet e tenderit, operatorët ekonomikë kanë të drejtë të ankohen brenda 10 ditëve nga publikimi i njoftimit të kontratës ose publikimi i ndryshimit të kërkesave në dokumentet e tenderit.
+Në procedurat e prokurimit nën kufirin e lartë monetar ky afat është 7 ditë.
+2. Në procedurat e prokurimit mbi kufirin e lartë monetar, në rastin e ankesave për vendimin e vlerësimit/klasifikimit përfundimtar, operatorët ekonomikë kanë të drejtë të ankohen brenda 10 ditëve nga publikimi i njoftimit të fituesit ose publikimi i njoftimi të anulimit.
+Në procedurat e prokurimit nën kufirin e lartë monetar ky afat është 7 ditë.
+3. Në procedurat e prokurimit me faza mbi kufirin e lartë monetar, në rastin e ankesave për vendimin e përzgjedhjes së kandidatëve pas fazës së parakualifikimit, operatorët ekonomikë kanë të drejtë të ankohen brenda 10 ditëve nga marrja e njoftimit për këtë vendim.
+Në procedurat e prokurimit me faza nën kufirin e lartë monetar ky afat është 7 ditë.
+4. Në rastin e procedurave për rihapjen konkurrimit për lidhjen e një kontrate, në bazë të një marrëveshjeje kuadër me disa operatorë ekonomikë, me procedurë prokurimi mbi kufirin e lartë monetar, afati për paraqitjen e ankesave është 10 ditë nga data e publikimit të njoftimit të fituesit të kontratës.
+Në rastin e kontratave të lidhura në bazë të një marrëveshjeje kuadër, me vlerë nën kufirin e lartë monetar ky afat është 7 ditë.
+5. Në rastin e procedurave me negocim pa shpallje paraprake të njoftimit të kontratës, operatorët ekonomikë kanë të drejtë të paraqesin ankesën e tyre brenda 30 ditëve nga dita e publikimit të njoftimit të fituesit.
+Nëse është publikuar njoftimi vullnetar për transparencë, operatorët ekonomikë kanë të drejtë të paraqesin ankesën e tyre brenda 10 ditëve nga dita e publikimit të këtij njoftimi, sa i takon plotësimit të kushteve për përdorimin e kësaj procedure prokurimi, si dhe përmbajtjes së dokumenteve të tenderit.
+6. Në rastin e konstatimit të një kontrate publike të lidhur pa zhvilluar ndonjë nga procedurat e prokurimit të parashikuara në këtë ligj dhe/ose në rastin kur nuk është publikuar njoftimi i fituesit ose njoftimi i kontratës së nënshkruar, afati për paraqitjen e një ankese lidhur me këtë kontratë është 60 ditë nga dita e konstatimit të saj, por jo më vonë se 6 muaj nga data e nënshkrimit të kontratës.
+7. Në rast se operatori ekonomik nuk paraqet ankesën brenda afateve të parashikuara në këtë nen, atëherë nuk ka mundësi të ushtrojë më të drejtën e ankimit pranë autoritetit ose entit kontraktor dhe Komisionit të Prokurimit Publik.
+8. Të shtunat, të dielat dhe ditët e festave zyrtare nuk pengojnë fillimin dhe kohëzgjatjen e afateve. Kur dita e fundit e një afati bie e shtunë, e diel ose një ditë feste zyrtare, afati mbaron në ditën e punës që vjen pas saj. Ankesa quhet e pranuar në ditën e depozitimit të saj pranë autoritetit kontraktor dhe Komisionit të Prokurimit Publik.

@@ -1,0 +1,10 @@
+# Neni 73
+Sistemet e kualifikimit
+1. Entet kontraktore mund të krijojnë dhe të përdorin një sistem kualifikimi për operatorët ekonomikë. Në këtë rast, entet kontraktore duhet të sigurohen se këta operatorë janë gjatë gjithë kohës të kualifikuar.
+2. Sistemi sipas pikës 1 të këtij neni mund të përfshijë faza të ndryshme kualifikimi.
+Entet kontraktore përcaktojnë rregulla dhe kritere objektive për përjashtimin dhe përzgjedhjen e operatorëve ekonomikë, që kërkojnë kualifikimin, si dhe kritere e rregulla objektive për përdorimin e sistemit të kualifikimit, të tilla si: regjistrimi në sistem, përditësimi periodik i kualifikimeve, nëse ka, dhe kohëzgjatja e sistemit. Kriteret dhe rregullat mund të përditësohen sipas kërkesave.
+3. Kriteret dhe rregullat u vihen në dispozicion operatorëve ekonomikë me kërkesë të tyre. Përditësimet e këtyre kritereve dhe rregullave u komunikohen të gjithë operatorëve ekonomikë të interesuar.
+Kur një ent kontraktor konsideron se sistemi i kualifikimit i enteve ose organeve të tjera të caktuara i plotëson kërkesat e tij, ai u komunikon operatorëve ekonomikë të interesuar emrat e këtyre enteve ose organeve të tjera.
+Kur kriteret dhe rregullat për kualifikim përfshijnë kërkesa që kanë lidhje me kapacitetin ekonomik dhe financiar të operatorit ekonomik, apo kapacitetin teknik dhe/ose profesional, operatori ekonomik, sipas rastit, mund të mbështetet në kapacitetin e subjekteve të tjera, sipas parashikimeve të nenit 84 të këtij ligji.
+4. Enti kontraktor dokumenton të dhënat e operatorëve ekonomikë të kualifikuar. Ata mund të ndahen në kategori sipas llojit të kontratës, për të cilën është i vlefshëm kualifikimi.
+5. Kur një ftesë për konkurrim bëhet nëpërmjet një njoftimi për ekzistencën e një sistemi kualifikimi, kontratat specifike për punë, furnizime ose shërbime që mbulohen nga sistemi i kualifikimit prokurohen me anë të procedurave të kufizuara ose procedurave me negocim, ku të gjithë ofertuesit dhe pjesëmarrësit përzgjidhen mes kandidatëve të kualifikuar në përputhje me këtë sistem.

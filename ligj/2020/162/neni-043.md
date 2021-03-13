@@ -1,0 +1,20 @@
+# Neni 43
+Procedurë e kufizuar
+1. Procedura e kufizuar është procedurë me dy faza, në të cilën mund të marrë pjesë çdo operator ekonomik i interesuar, duke dorëzuar një kërkesë për pjesëmarrje në përgjigje të një njoftimi, i cili përmban informacionin e përcaktuar në rregullat e prokurimit publik.
+2. Në procedurat e kufizuara mbi kufirin e lartë monetar, afati kohor minimal për marrjen e kërkesave për pjesëmarrje është jo më pak se 30 ditë nga data në të cilën është shpallur njoftimi i kontratës ose ftesa për shprehje interesi.
+Në rastin e kontratave sektoriale, kur entet kontraktore kanë shpallur një njoftim periodik të informacionit, që është përdorur si mjet për të bërë ftesën për konkurrim, ky afat është jo më pak se 15 ditë.
+3. Në fazën e dytë të procedurës së kufizuar, ofertë mund të paraqesin vetëm kandidatët e përzgjedhur nga autoriteti ose enti kontraktor, në përputhje me nenin 58 të këtij ligji. Autoriteti ose enti kontraktor mund të kufizojë numrin e kandidatëve të përshtatshëm për t’u ftuar që të marrin pjesë në procedurë, në përputhje me parashikimet në këtë ligj.
+Në procedurat e kufizuara mbi kufirin e lartë monetar, afati minimal i përcaktuar nga autoriteti kontraktor për pranimin e ofertave është 30 ditë nga data në të cilën është shpallur ftesa për ofertë.
+Në procedurat e kufizuara mbi kufirin e lartë monetar, në rastin e prokurimit të kontratave sektoriale, afati kohor për marrjen e ofertave mund të përcaktohet me anë të një marrëveshjeje të përbashkët ndërmjet entit kontraktor dhe kandidatëve të përzgjedhur, me kusht që të gjithë kandidatëve të përzgjedhur t’u jepet kohë e barabartë për të përgatitur dhe dorëzuar ofertat e tyre. Në mungesë të marrëveshjes për afatin kohor për pranimin e ofertave, afati kohor është të paktën 10 ditë nga data në të cilën është shpallur ftesa për ofertë.
+4. Në procedurat e kufizuara mbi kufirin e lartë monetar, kur autoritetet kontraktore kanë shpallur një njoftim paraprak të informacionit, që nuk është përdorur si mjet për të bërë ftesën për pjesëmarrje, afati kohor minimal për pranimin e ofertave apo kërkesave për pjesëmarrje, i përcaktuar në pikën 2 të këtij neni, bëhet 10 ditë nëse përmbushen të gjitha kushtet e mëposhtme:
+a) njoftimi paraprak i informacionit përfshin të gjithë informacionin që kërkohet sipas përcaktimeve në rregullat e prokurimit publik, në rast se ai informacion është i disponueshëm në momentin kur shpallet njoftimi paraprak i informacionit;
+b) njoftimi paraprak i informacionit është shpallur nga 35 ditë deri në 12 muaj përpara datës së shpalljes të njoftimit të kontratës.
+5. Për procedurat e kufizuara ndërmjet kufirit të lartë dhe të ulët monetar, afatet kohore minimale të përcaktuara nga autoriteti kontraktor, janë:
+a) për pranimin e kërkesave për pjesëmarrje, afati kohor është jo më pak se 20 ditë nga shpallja e njoftimit të kontratës;
+b) për pranimin e ofertave, afati kohor është jo më pak se 20 ditë nga shpallja e ftesës për ofertë.
+Në procedurat e kufizuara ndërmjet kufirit të lartë dhe të ulët monetar, në rastin e prokurimit të kontratave sektoriale, afatet kohore minimale të përcaktuara nga enti kontraktor, janë:
+i. për pranimin e kërkesave për pjesëmarrje, afati kohor është jo më pak se 20 ditë nga shpallja e njoftimit të kontratës.
+ii. afati kohor për marrjen e ofertave mund të përcaktohet me anë të një marrëveshjeje të përbashkët ndërmjet entit kontraktor dhe kandidatëve të përzgjedhur, me kusht që të gjithë kandidatëve të përzgjedhur t’u jepet kohë e barabartë për të përgatitur dhe dorëzuar ofertat e tyre.
+Në mungesë të marrëveshjes për afatin kohor për pranimin e ofertave, afati kohor është jo më pak se 10 ditë nga data në të cilën është shpallur ftesa për ofertë.
+6. Autoriteti kontraktor mund të shkurtojë me 5 ditë afatin kohor për marrjen e ofertave në rast se ofertat paraqiten me mjete elektronike.
+Në rast se dokumentet e tenderit nuk janë të disponueshme nëpërmjet mjeteve elektronike, sipas parashikimeve të nenit 17 të këtij ligji, afati për dorëzimin e ofertave zgjatet me 5 ditë.

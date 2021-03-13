@@ -1,0 +1,8 @@
+# Neni 48
+Procedura me negocim, me shpallje paraprake të njoftimit
+1. Për prokurimin e kontratave sektoriale entet kontraktore mund të përdorin procedurën me negocim, me shpallje paraprake të njoftimit, në të cilën çdo operator ekonomik mund të dorëzojë një kërkesë për pjesëmarrje në përgjigje të një ftese për ofertë, duke dhënë informacionin për përzgjedhjen cilësore që kërkohet nga enti kontraktor.
+2. Në procedurat e prokurimit mbi kufirin e lartë, afati kohor minimal për marrjen e kërkesave për pjesëmarrje është jo më pak se 30 ditë nga data e publikimit të njoftimit të kontratës ose ftesës për shprehje interesi ose në rastet kur si mënyrë për të bërë ftesën për ofertë përdoret një njoftim periodik informacioni, ky afat nuk është më pak se 15 ditë.
+3. Në procedurat e prokurimit, ndërmjet kufirit të ulët dhe të lartë monetar, afati kohor minimal për pranimin e kërkesave për pjesëmarrje është 20 ditë nga data në të cilën është shpallur njoftimi i kontratës ose ftesa për shprehje interesi.
+4. Në negocim mund të marrin pjesë vetëm ata operatorë ekonomikë që ftohen nga enti kontraktor, pasi ky i fundit ka vlerësuar informacionin e paraqitur. Entet kontraktore mund të kufizojnë numrin e kandidatëve që do të ftohen të marrin pjesë në procedurë, në përputhje me nenin 85 të këtij ligji.
+Afati kohor për marrjen e ofertave mund të përcaktohet me anë të një marrëveshjeje të përbashkët ndërmjet entit kontraktor dhe kandidatëve të përzgjedhur, me kusht që të gjithë atyre t’u jepet kohë e barabartë për të përgatitur dhe dorëzuar ofertat e tyre.
+Në mungesë të marrëveshjes për afatin kohor për pranimin e ofertave, afati kohor është jo më pak se 10 ditë nga data e dërgimit të ftesës për ofertë.

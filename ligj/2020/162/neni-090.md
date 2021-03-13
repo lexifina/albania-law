@@ -1,0 +1,10 @@
+# Neni 90
+Hapja e ofertave
+1. Autoriteti ose enti kontraktor i hap të gjitha ofertat në datën, vendin dhe kohën e përcaktuar në dokumentet e tenderit, pas mbarimit të afatit përfundimtar për paraqitjen e ofertave ose pas mbarimit të afatit përfundimtar të përcaktuar pas zgjatjes së këtij afati, në përputhje me procedurat e specifikuara në dokumentet e tenderit.
+2. Në rast se për arsye objektive, të shkaktuara nga një situatë e paparashikuar nga autoriteti kontraktor në kohën e fillimit të procedurës, është e pamundur të respektohet afati i hapjes së ofertave nga ana e autoritetit ose entit kontraktor, duhet të dokumentohet arsyeja dhe të përcaktohet një datë e re e hapjes së ofertave.
+3. Ofertuesit ose përfaqësuesit e tyre të autorizuar, që kanë paraqitur oferta, ftohen të marrin pjesë në hapjen e ofertave, në rast se janë të interesuar. Mosparaqitja e tyre nuk pengon hapjen e ofertave.
+4. Në rastin e prokurimit me mjete elektronike, hapja e ofertave bëhet si më poshtë:
+a) autoriteti ose enti kontraktor i hap të gjitha ofertat në datën, vendin dhe kohën e përcaktuar në dokumentet e tenderit, pas mbarimit të afatit përfundimtar për paraqitjen e ofertave ose pas mbarimit të afatit përfundimtar, të përcaktuar pas zgjatjes së këtij afati, në përputhje me procedurat e specifikuara në dokumentet e tenderit, sipas rregullave të prokurimit me mjete elektronike;
+b) dokumentacioni i paraqitur nga ofertuesit regjistrohet automatikisht në sistem dhe procesi i hapjes nuk ka nevojë të dokumentohet në rrugë shkresore.
+5. Në rastet kur procedura e prokurimit zhvillohet në formë shkresore, autoriteti ose enti kontraktor dokumenton procesin nëpërmjet mbajtjes së një procesverbali, i cili duhet të pasqyrojë emrin, adresën e ofertuesit, oferta e të cilit hapet, dokumentacionin ligjor dhe çdo dokument të kërkuar nga autoriteti ose enti kontraktor, si dhe çmimin e çdo oferte, të cilat lexohen me zë të lartë për ata persona që janë të pranishëm dhe regjistrohet në këtë procesverbal.
+Procesverbali duhet t’i vihet menjëherë në dispozicion çdo kandidati ose ofertuesi.

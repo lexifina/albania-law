@@ -1,0 +1,3 @@
+# Neni 10
+Kontrata sekrete dhe kontrata që kërkojnë masa të veçanta sigurie
+Ky ligj nuk zbatohet për kontratat publike dhe konkurset e projektimit, në rast se prokurimi ose zbatimi i tyre është klasifikuar sekret shtetëror apo kërkon masa të veçanta sigurie sipas legjislacionit në fuqi, ose në rast se një gjë e tillë diktohet nga interesat thelbësore të shtetit, me kusht që të jetë përcaktuar që interesat thelbësore në fjalë nuk mund të garantohen me vendosjen e kritereve që synojnë mbrojtjen e natyrës së klasifikuar të informacionit, që autoriteti ose enti kontraktor i vë në dispozicion në procedurën e prokurimit.

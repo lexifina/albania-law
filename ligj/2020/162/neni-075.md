@@ -1,0 +1,9 @@
+# Neni 75
+Sqarimet dhe ndryshimi në dokumentet e tenderit
+1. Ofertuesi i mundshëm mund të kërkojë sqarime për dokumentet e tenderit nga autoriteti ose enti kontraktor, i cili duhet t’i përgjigjet çdo kërkese për sqarim të dokumenteve të tenderit, të bërë nga çdo operator ekonomik, me kusht që kërkesa të jetë marrë jo më vonë se 6 ditë para afatit përfundimtar të dorëzimit të ofertave.
+Autoriteti kontraktor ose enti duhet të përgjigjet brenda 3 ditëve nga depozitimi i kërkesës, në mënyrë që të bëjë të mundur dorëzimin e ofertës në kohë nga operatori ekonomik dhe, pa identifikuar burimin e kërkesës, duhet t’ua komunikojë sqarimin përkatës të gjithë operatorëve ekonomikë, që kanë tërhequr dokumentet e tenderit.
+Në çdo rast, sqarimi i dokumenteve të tenderit nuk do të konsiderohet shtim, pakësim ose ndryshim i kërkesave të përcaktuara nga autoriteti ose enti kontraktor në dokumentet e tenderit.
+2. Autoriteti ose enti kontraktor, nga momenti i shpalljes së njoftimit të kontratës deri përpara mbarimit të afatit të fundit për dorëzimin e ofertave dhe për çfarëdolloj arsyeje, me nismën e vet ose me kërkesë të palëve të interesuara, mund të vendosë të bëjë ndryshime në dokumentet e tenderit përmes hartimit të një shtojce.
+Nëse ndryshimi i dokumenteve të tenderit bëhet në gjysmën e parë të afatit të pranimit të ofertave, autoriteti ose enti kontraktor mund të zgjasë afatin kohor të pritjes së ofertave.
+Nëse ndryshimi i dokumenteve të tenderit bëhet në gjysmën e dytë të afatit të pranimit të ofertave, autoriteti ose enti kontraktor zgjat afatin kohor për dorëzimin e ofertës me të paktën 10 ditë për procedurat mbi kufirin e lartë monetar dhe me të paktën 7 ditë për procedurat nën kufirin e lartë monetar.
+3. Çdo shtojcë për ndryshim të dokumenteve të tenderit komunikohet në të njëjtën mënyrë që është bërë publikimi i njoftimit të procedurës.

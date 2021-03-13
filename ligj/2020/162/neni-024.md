@@ -1,0 +1,5 @@
+# Neni 24
+Komisioni i Prokurimit Publik
+1. Komisioni i Prokurimit Publik është organi më i lartë administrativ në fushën e prokurimeve, që shqyrton ankesat për procedurat e prokurimit dhe kryen çdo detyrë tjetër që i ngarkohet me këtë ligj dhe akte të tjera ligjore brenda fushës së kompetencave të tij.
+2. Komisioni i Prokurimit Publik është person juridik publik, i pavarur, që financohet nga buxheti i shtetit dhe i raporton Kuvendit.
+3. Komisioni i Prokurimit Publik merr vendime për ankesat e paraqitura para tij dhe nxjerr interpretim për rregullat ose parimet ligjore, që duhet të zbatohen për objektin e ankesës, të cilat zbatohen për sa janë të vlefshme në vendimmarrjet e ardhshme. Në marrjen e vendimeve mban parasysh, përveç parimeve të përgjithshme të përmendura në nenin 3 të këtij ligji, edhe parimet e mëposhtme: paanshmërinë në shqyrtimin e ankesave, qëndrueshmërinë në vendimmarrje, ligjshmërinë, shpejtësinë dhe eficiencën, aksesin, karakterin publik, si edhe parimin e kontradiktoritetit.

@@ -1,0 +1,7 @@
+# Neni 126
+Nënkontraktimi
+1. Autoriteti ose enti kontraktor në njoftimin e kontratës ose në dokumentet e tenderit u kërkon ofertuesve të tregojnë në ofertat e tyre përqindjen e kontratës, që ata mendojnë të nënkontraktojnë te palët e treta, si dhe nënkontraktorin e propozuar.
+2. Kjo përqindje e caktuar për nënkontraktim duhet të jetë në përpjesëtim me vlerën e kontratës dhe nuk duhet të tejkalojë 50 për qind të vlerës së përgjithshme të kontratës.
+3. Autoriteti ose enti kontraktor miraton nënkontraktorët e mundshëm përpara lidhjes së nënkontratës me operatorin ekonomik fitues të kontratës publike, në përputhje me dispozitat e këtij ligji, pa cenuar parimet e përcaktuara në pikën 4 të këtij neni.
+4. Dispozitat e këtij neni nuk prekin përgjegjësitë kryesore të operatorit ekonomik ndaj autoritetit ose entit kontraktor, për të cilin nënkontraktorët mbeten palë e tretë, kundrejt marrëdhënies kontraktuale ndërmjet operatorit ekonomik dhe nënkontraktorëve të tij dhe duke e lënë operatorin ekonomik kryesor përgjegjës për zbatimin e të gjithë kontratës, pavarësisht se një pjesë e saj zbatohet nga nënkontraktorët.
+5. Autoriteti ose enti kontraktor lejohet të bëjë pagesa drejtpërsëdrejti te nënkontraktori për furnizimet, shërbimet ose punët që i ka ofruar kontraktorit kryesor. Në çdo rast, kontraktori kryesor duhet të vihet në dijeni dhe të japë miratimin me shkrim për këto pagesa. Rregullat që lidhen me këtë mënyrë pagese përcaktohen në dokumentet e tenderit.

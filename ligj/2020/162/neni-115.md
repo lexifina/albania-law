@@ -1,0 +1,17 @@
+# Neni 115
+Trajtimi i ankesës nga Komisioni i Prokurimit Publik
+1. Komisioni i Prokurimit Publik shqyrton ankesën e paraqitur, si dhe vendimin e autoritetit ose entit kontraktor, së bashku me dokumentet dhe shpjegimet shoqëruese, që mbështesin këtë vendim si më poshtë:
+a) në rastet kur autoriteti ose enti kontraktor ka vendosur pranimin pjesërisht të ankesës, Komisioni i Prokurimit Publik vazhdon shqyrtimin:
+i. për pjesën e ankesës/ pretendimeve që nuk janë pranuar;
+ii. e ankesës/ankesave për pjesën që është pranuar, nëse ka ankesa nga operatorët ekonomikë të interesuar, të cilët kanë paraqitur argumentet e tyre për këtë pjesë në përputhje me nenin 113 të këtij ligji;
+b) në rastet kur autoriteti ose enti kontraktor ka vendosur pranimin e plotë të ankesës, Komisioni i Prokurimit Publik do të vijojë shqyrtimin e ankesës, nëse ka ankesë nga operatorët ekonomikë të interesuar, të cilët kanë paraqitur argumentet e tyre në lidhje me ankesën në përputhje me nenin 113 të këtij ligji;
+c) në rastet kur autoriteti ose enti kontraktor ka vendosur mos pranimin e ankesës.
+2. Në rastin kur autoriteti ose enti kontraktor pranon pjesërisht ankesën dhe nuk ka ankesa nga operatorët ekonomikë të interesuar, të cilët kanë paraqitur argumentet e tyre sipas pikës 1 të nenit 113 të këtij ligji, Komisioni i Prokurimit Publik, brenda 3 ditëve nga përfundimi i afatit kohor të përcaktuar në pikën 5 të nenit 114 të këtij ligji, nxjerr një vendim deklarativ për mbylljen e çështjes për pjesën e pranuar dhe vazhdon procedurën për pjesën tjetër.
+3. Në rastin kur autoriteti ose enti kontraktor pranon plotësisht ankesën, Komisioni i Prokurimit Publik:
+a) nxjerr një vendim deklarativ për mbylljen e çështjes brenda 3 ditëve nga marrja e vendimit të dhënë nga autoriteti ose enti kontraktor për këtë ankesë, nëse operatorët ekonomikë të interesuar nuk kanë paraqitur argumentet e tyre sipas pikës 1 të nenit 113 të këtij ligji;
+b) nxjerr një vendim deklarativ për mbylljen e çështjes brenda 3 ditëve nga përfundimi i afatit kohor të përcaktuar në pikën 5 të nenit 114 të këtij ligji, nëse operatorët ekonomikë të interesuar, që kanë paraqitur argumentet sipas pikës 1 të nenit 113 të këtij ligji, nuk kanë ankimuar vendimin e dhënë nga autoriteti ose enti kontraktor.
+4. Në rast se autoriteti ose enti kontraktor nuk ka marrë vendim sipas përcaktimeve të nenit 114 të këtij ligji, Komisioni i Prokurimit Publik menjëherë, por, në çdo rast, jo më vonë se 3 ditë nga mbarimi i afatit të mësipërm, i kërkon dërgimin e informacionit apo dokumentacionit përkatës. Në këtë rast, autoriteti ose enti kontraktor, brenda 3 ditëve nga marrja dijeni, ka detyrimin të paraqesë në Komisionin e Prokurimit Publik informacionin dhe dokumentacionin e kërkuar.
+Për procedurat e prokurimit mbi kufirin e lartë monetar, Komisioni i Prokurimit Publik merr vendim jo më vonë se 30 ditë pas marrjes së informacionit apo dokumentacionit nga autoriteti ose enti kontraktor.
+Për procedurat e prokurimit nën kufirin e lartë monetar ky afat është jo më vonë se 20 ditë.
+5. Në rastin kur për shqyrtimin e ankesës Komisioni i Prokurimit Publik ka nevojë të kërkojë ekspertizë nga palë të treta ose të kryejë verifikime pranë organeve të tjera, afati i përcaktuar në pikën 4 të këtij neni ndërpritet dhe rifillon pasi të ketë siguruar informacionin e kërkuar. Afati për marrjen e vendimit nuk duhet të tejkalojë 30 ditë.
+Në çdo rast Komisioni i Prokurimit Publik ka detyrimin të vërë në dijeni palët.
