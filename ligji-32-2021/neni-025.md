@@ -1,0 +1,34 @@
+# Neni 25
+Përgjegjësia e shoqërisë së sigurimit dhe shuma e siguruar
+1. Detyrimi i shoqërisë së sigurimit, që rrjedh nga kontrata e sigurimit e përcaktuar në nenin 21 të këtij ligji, përfaqësohet nga kufijtë minimalë të mbulimit të vlefshëm në ditën e aksidentit, përveç rastit kur në kontratën e sigurimit përcaktohet një vlerë më e lartë.
+2. Kufiri minimal i përgjegjësisë, që mbulohet nga kontrata e sigurimit sipas pikës 1 të këtij neni, për dëme të shkaktuara në territorin e Republikës së Shqipërisë është si më poshtë:
+a) për dëme pasurore dhe jopasurore, me pasojë vdekjen, dëmtime shëndetësore dhe përkeqësime të shëndetit, të shkaktuara nga një aksident ose seri aksidentesh të ardhura nga një ngjarje sigurimi për:
+i. autobusë dhe kamionë, përfshirë rimorkiot, 150 000 000 lekë;
+ii. mjete që transportojnë lëndë të rrezikshme 200 000 000 lekë;
+iii. mjete të tjera, përfshirë mjetet e paidentifikuara, 55 000 000 lekë.
+b) për dëme të lidhura me dëmtimin ose shkatërrimin e pronës nga një ngjarje:
+i. për autobusë dhe kamionë, përfshirë rimorkiot, 20 000 000 lekë;
+ii. për mjete që transportojnë lëndë të rrezikshme 20 000 000 lekë;
+iii. për mjete të tjera, përfshirë mjetet e paidentifikuara, 15 000 000 lekë.
+3. Brenda kufijve minimalë të përgjegjësisë, të përcaktuar në pikën 2 të këtij neni, vlera e dëmit do të llogaritet:
+a) në rastin e dëmeve me pasojë paaftësi të përhershme për punë, kur vërtetohet humbja e të ardhurave, përfitimi llogaritet si produkt i të ardhurave vjetore neto me koeficientin e shumës së kapitalizuar, moshës së daljes në pension dhe humbjes së aftësisë për punë. Kur i/e dëmtuari/a ka qenë në marrëdhënie pune/i vetëpunësuar do të referohet në mesataren e të ardhurave neto për 3 vitet e fundit, ndërsa kur nuk ka qenë në marrëdhënie pune në kohën e ngjarjes do të referohet në pagën minimale zyrtare bruto të vendbanimit në kohën e ngjarjes.
+b) në rastet e dëmeve me pasojë vdekje, dëmi pasuror do të llogaritet si në rastin e paaftësisë së plotë të përhershme me ndryshimin që nga të ardhurat sipas shkronjës “a” të këtij neni të zbriten të ardhurat për nevojat e vetë personit, të cilat varen nga numri i personave në familje.
+c) në rastet e dëmeve me pasojë paaftësinë e përkohshme, humbja financiare përbën pjesën e papaguar të pagës për kohën e paaftësisë, ndërsa kur i/e dëmtuari/a nuk është në marrëdhënie pune do të referohet në pagën minimale zyrtare bruto.
+4. Brenda kufijve minimalë të përgjegjësisë, të përcaktuar në pikën 2 të këtij neni, dëmet jopasurore ndaj personit, të shkaktuara nga një ngjarje e vetme, përbëhen nga format e mëposhtme dhe nuk mund të tejkalojnë limitet:
+a) vlera e dëmit biologjik për çdo person të dëmtuar do të jetë jo më shumë se 110 000 (njëqind e dhjetë mijë) lekë për çdo 10% të shkallës së paaftësisë së përhershme, të pjesshme ose të plotë. Shuma e përfitimit e parashikuar në këtë pikë duhet të bazohet në moshën dhe shkallën e paaftësisë së të dëmtuarit;
+b) vlera e dëmit moral për çdo person të dëmtuar me pasojë paaftësi të përhershme për punë është nga 3/4 deri në 3/2 e dëmit biologjik sipas shkronjës “a” të pikës 4 të këtij neni;
+c) vlera e dëmit ekzistencial për çdo person të dëmtuar me pasojë paaftësi të përhershme për punë është nga 3/4 deri në 3/2 e dëmit biologjik sipas shkronjës “a” të pikës 4 të këtij neni;
+ç) vlera e dëmit moral për secilin nga familjarët e të dëmtuarit/ës, prind/fëmijë/bashkëshort, do të jetë jo më shumë se 1/5 e përfitimit të dëmtuarit me pasojë paaftësinë e përhershme për punë sipas shkronjës “b” të kësaj pike dhe për secilin nga familjarët vëlla/motër vlera e përfitimit do të jetë jo më shumë se 1/2 e shumës që përfiton secili nga familjarët prind/bashkëshort/fëmijë;
+d) vlera e dëmit ekzistencial për secilin nga familjarët e të dëmtuarit/ës, prind/fëmijë/bashkëshort, do të jetë jo më shumë se 1/5 e përfitimit të dëmtuarit me pasojë paaftësinë e përhershme për punë sipas shkronjës “c” të kësaj pike dhe për secilin nga familjarët vëlla/motër vlera e përfitimit jo më shumë se 1/2 e shumës që përfiton secili nga familjarët prind/bashkëshort/fëmijë;
+dh) vlera e dëmit moral për secilin nga familjarët e të ndjerit/ës, prind/fëmijë/bashkëshort, për vdekjen e të afërmit do të jetë jo më shumë se 220 000 (dyqind e njëzet mijë) lekë dhe për secilin nga familjarët vëlla/motër vlera e përfitimit është jo më shumë se 1/2 e shumës që përfiton secili nga familjarët prind/bashkëshort/fëmijë;
+e) vlera e dëmit ekzistencial për secilin nga familjarët e të ndjerit/ës, prind/fëmijë/bashkëshort, për vdekjen e të afërmit do të jetë jo më shumë se 220 000 (dyqind e njëzet mijë) lekë dhe për secilin nga familjarët vëlla/motër vlera e përfitimit është jo më shumë se 1/2 e shumës që përfiton secili nga familjarët prind/bashkëshort/fëmijë;
+ë) vlera e dëmit moral për çdo person të dëmtuar është jo më shumë se 15 000 (pesëmbëdhjetë mijë) lekë për çdo muaj paaftësi të përkohshme;
+f) vlera e dëmit ekzistencial për çdo person të dëmtuar është jo më shumë se 15 000 (pesëmbëdhjetë mijë) lekë për çdo muaj paaftësi të përkohshme.
+5. Kufiri minimal i përgjegjësisë për çdo person të dëmtuar në një ngjarje sigurimi, sipas shkronjës “a” të pikës 2 dhe pikës 4 të këtij neni, është 22 000 000 (njëzet e dy milionë) lekë.
+6. Në rast se ka disa palë të dëmtuara nga një ngjarje sigurimi dhe vlera totale e dëmshpërblimit për dëmin ndaj personit, si dhe vlera totale e dëmshpërblimit për dëmin ndaj pronës tejkalon shumat e përcaktuara në pikën 2 të këtij neni, shuma e dëmshpërblimit dhe të drejtat e palëve të dëmtuara ndaj shoqërisë së sigurimit zvogëlohen në mënyrë përpjesëtimore për secilën figurë të dëmit ndërmjet të gjithë të dëmtuarve deri në përfundim të gjithë shumës së siguruar sipas kontratës së sigurimit.
+7. Shoqëria e sigurimit, që i ka paguar një pale të dëmtuar një shumë më të madhe se shuma e duhur, që rezulton nga zvogëlimi përpjestimor i dëmshpërblimit, pasi, pavarësisht nga masat e marra, nuk mund të parashikohej që kishte palë të tjera të dëmtuara, është përgjegjëse ndaj palëve të tjera deri në plotësimin e të gjithë shumës së përcaktuar në pikën 2 të këtij neni.
+8. Kufiri minimal i mbulimit në sigurimin karton jeshil përcaktohen në ligjet përkatëse të vendit anëtar të sistemit të kartonit jeshil, ku ndodh aksidenti.
+9. Për kontratat e lidhura nga data 1 janar 2022 deri në datën 31 dhjetor 2026, kufiri minimal i përgjegjësisë i përcaktuar në këtë nen do të rritet:
+a) 4 000 000 (katër milionë) lekë çdo vit për mjetet e përcaktuara në nëndarjen “iii” të shkronjës “a” të pikës 2 të këtij neni;
+b) 2 000 000 (dy milionë) lekë çdo vit për çdo person sipas pikës 5 të këtij neni.
+10. Për kontratat e lidhura nga data 1 janar 2027 dhe në vijim, kufiri minimal i përgjegjësisë është i njëjtë me kufirin minimal të përgjegjësisë së kontratave të lidhura në vitin 2026.

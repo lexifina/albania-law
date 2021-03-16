@@ -1,0 +1,12 @@
+# Neni 32
+Dhënia e informacionit palës së dëmtuar
+1. Qendra e Informacionit duhet t’ua mundësojë dhënien dhe përdorimin e të dhënave, të grumbulluara sipas këtij ligji, të gjitha palëve të dëmtuara dhe pjesëmarrësve në një aksident rrugor për një periudhë 7-vjeçare pas aksidentit. Qendra është e detyruar t’i japë palës së dëmtuar, sipas së drejtës që ka për kompensim, këto të dhëna:
+a) emrin e shoqërisë, selinë dhe zyrën e regjistruar të siguruesit përgjegjës;
+b) numrin e kontratës së sigurimit;
+c) emrin dhe adresën e shoqërisë, selinë dhe zyrën e regjistruar të përfaqësuesit të dëmeve në vendin ku jeton pala e dëmtuar.
+2. Qendra e Informacionit duhet të japë të dhëna për identitetin dhe adresën e pronarit ose të drejtuesit të mjetit motorik në rastin kur pala e dëmtuar ka një interes të ligjshëm për të.
+3. Qendra e Informacionit duhet t’i japë palës së dëmtuar të dhëna për të drejtën për dëmshpërblim, që rrjedh nga sigurimi i detyrueshëm i pasagjerëve nga aksidentet, për emrin dhe selinë e shoqërisë së sigurimit, numrin e kontratës së sigurimit, si dhe të dhëna për shoqërinë e sigurimit. Qendra duhet të japë të dhëna për shoqërinë e transportit publik, në rast se pala e dëmtuar ka një interes të ligjshëm për të marrë këtë të dhënë.
+4. Për të dhënat e parashikuara në pikën 1 të këtij neni, për kontratat e sigurimit të lidhura jashtë Republikës së Shqipërisë ose për mjetet motorike të regjistruara jashtë Republikës së Shqipërisë, Qendra e Informacionit duhet të kërkojë të dhënat e nevojshme nga qendrat e informacionit në vendet përkatëse. Me kërkesën e qendrave të informacionit të vendeve të huaja, Qendra e Informacionit është e detyruar t’i japë të dhënat që disponon.
+5. Kur Qendra e Informacionit nuk ka të dhëna për identitetin ose adresën e personave, sipas pikës 2 të këtij neni, ose për emrin dhe selinë e shoqërisë, sipas pikës 3 të këtij neni, i përfiton të dhënat me anë të një kërkese të shkruar drejtuar shoqërisë së sigurimit që ka lidhur kontratën e sigurimit ose autoriteteve përgjegjëse për mbajtjen e këtyre të dhënave.
+6. Për marrjen e informacionit sipas pikave 1, 2 e 3 të këtij neni, pala e dëmtuar duhet të specifikojë në kërkesën tip datën e saktë, vendin e ndodhjes së rastit të sigurimit, numrin e regjistrimit të mjetit motorik, si dhe informacion plotësues, kur ka të tillë.
+7. Qendra e Informacionit është e detyruar të japë informacionin që disponon, të parashikuar sipas këtij neni, jo më vonë se 5 (pesë) ditë pune nga data e depozitimit të kërkesës me shkrim nga personi i siguruar.

@@ -1,0 +1,6 @@
+# Neni 4
+Detyrimi për t’u siguruar
+1. Pronari i çdo mjeti transporti përpara përdorimit të mjetit është i detyruar të lidhë një kontratë sigurimi sipas pikës 1 të nenit 2 të këtij ligji, si dhe të sigurojë rinovimin e saj për aq kohë sa mjeti i transportit do të mbetet në qarkullim.
+2. Kur mjeti i transportit është subjekt i detyrimit për t’u regjistruar ose certifikuar dhe, sipas ligjit, duhet të ketë një certifikatë regjistrimi/kontrolli teknik, autoritetet përgjegjëse lëshojnë certifikatën e kontrollit teknik ose ndonjë dokument tjetër të barasvlershëm me të, vetëm pasi pronari i mjetit të transportit i provon këtij autoriteti me dokumente se e ka lidhur kontratën e sigurimit sipas këtij ligji. E njëjta kërkesë zbatohet edhe për subjektet që licencohen sipas ligjit “Për transportin rrugor”. Autoritetet përgjegjëse janë të detyruara të sigurojnë përmbushjen e detyrimeve të përcaktuara në këtë pikë.
+3. Kur personi i autorizuar për kontrollin e trafikut vëren shkelje të pikës 1 të këtij neni, vendos masën e dënimit administrativ me gjobë sipas parashikimeve të Kodit Rrugor.
+4. Sigurimi i përgjegjësisë së pronarit të mjetit të transportit për dëme shkaktuar palëve të treta mbulon edhe dëmet e shkaktuara nga përdorimi i mjetit prej personave të tjerë, kur këta e përdorin mjetin me miratimin e pronarit.
