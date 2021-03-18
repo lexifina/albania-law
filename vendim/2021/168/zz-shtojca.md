@@ -1,0 +1,3 @@
+# Shtojca
+Nr. |Bashkia |Njesia Administrative |Niveli |Emertimi |Tipologjia e Nderhyrjes |Financimi i Ndertimit |Siperfaqe
+(m2) |Vlera e Projekt Idese |Vle e projektit te zbatimit dhe ndertimit |Vlera e Mbikeqeresit |Vlera e koaludimit |Vlera totale e objektit | |19 |Shijak |Shijak |e mesme |Gjimnazi 16 Shatori | Ndertim | Buxhet GoA |2,400.0 |838,420.45 |80,880,000.00 |848,302.26 |98,146.50 |82,664,869.21 | |20 |Shijak |Shijak |kopesht |Nr. 1 | Ndertim | Buxhet GoA |1,160.0 |405,236.55 |39,092,000.00 |410,012.76 |47,437.48 |39,954,686.78 | |36 |Vore |Mucaj |kopesht |Mucaj | Ndertim | Buxhet GoA | 516.0 |75,726.67 |17,389,200.00 |182,384.99 |21,101.50 |17,668,413.15 | |TOTAL | 4,076.0 | 1,319,383.7 | 137,361,200.0 | 1,440,700.0 |166,685.5 | 140,287,969.1 | |

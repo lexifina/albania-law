@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të bashkive Vorë dhe Shijak, përkatësisht, të objekteve arsimore kopshti “Muçaj”, Bashkia Vorë, kopshti nr.1 dhe shkolla e mesme “16 Shtatori”, Bashkia Shijak, sipas listës së inventarit që i bashkëlidhet këtij vendimi.
