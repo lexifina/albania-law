@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për financimin e rikonstruksionit të objekteve të ish-repartit “Renea”, Drejtoria e Forcës së Posaçme Operacionale, Linzë, Bashkia Tiranë, në masën 263 752 795 (dyqind e gjashtëdhjetë e tre milionë e shtatëqind e pesëdhjetë e dy mijë e shtatëqind e nëntëdhjetë e pesë) lekë pa TVSH.

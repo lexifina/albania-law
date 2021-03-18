@@ -1,0 +1,1 @@
+2. Drejtorisë së Përgjithshme të Policisë së Shtetit, në buxhetin e miratuar për vitin 2021, i shtohet fondi në masën 131 876 397 (njëqind e tridhjetë e një milionë e tetëqind e shtatëdhjetë e gjashtë mijë e treqind e nëntëdhjetë e shtatë) lekë pa TVSH, për financimin e rikonstruksionit të objekteve, sipas pikës 1, të këtij vendimi.

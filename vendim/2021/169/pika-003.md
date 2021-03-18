@@ -1,0 +1,1 @@
+3. Caktimin e Drejtorisë së Përgjithshme të Policisë së Shtetit si njësi zbatuese për rikonstruksionin e objekteve të ish-repartit “Renea”, Drejtoria e Forcës së Posaçme Operacionale, Linzë, Bashkia Tiranë.
