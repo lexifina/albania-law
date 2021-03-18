@@ -1,0 +1,26 @@
+{
+  "qbz_id": 22738,
+  "title": "Për disa ndryshime në ligjin nr. 7864, datë 29.9.1994 “Për Kryqin e Kuq Shqiptar”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "17",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2021-02-08",
+  "published": "2021-03-03",
+  "in_force": "2021-03-18",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/cb77212353045e04f85486c7efd1b6a7e7da6ffd591570d86d82c1f2775f9834.docx",
+  "source_sha256": "cb77212353045e04f85486c7efd1b6a7e7da6ffd591570d86d82c1f2775f9834",
+  "official_record": "https://qbz.gov.al/api/v1/acts/22738",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2021/02/08/17",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
