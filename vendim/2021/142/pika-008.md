@@ -1,0 +1,1 @@
+8. Programi i zhvillimit të zonave për strehim, në rastin kur trualli është pronë e shtetit dhe nuk transferohet në pronësi të njësisë së vetëqeverisjes vendore, zbatohet në bashkëpunim ndërmjet njësisë së vetëqeverisjes vendore dhe ministrisë përgjegjëse për strehimin.

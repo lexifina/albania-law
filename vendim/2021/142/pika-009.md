@@ -1,0 +1,1 @@
+9. Trualli pronë shtetërore, që përdoret për programet e zhvillimit të zonës me qëllim strehimi, vlerësohet njëlloj si truall privat. Kur trualli është në pronësi të njësisë së vetëqeverisjes vendore, ajo zhvillon një procedurë të hapur konkurrimi për të siguruar përqindjen më të lartë të këmbimit të vlerës së truallit me sipërfaqe ndërtimi.

@@ -1,0 +1,1 @@
+4. Njësia e vetëqeverisjes vendore, si pronare e truallit, zhvillon zonën vetë apo në marrëveshje me investitorë privatë, sipas procedurave të përcaktuara në përputhje me nenin 52, të ligjit nr. 22/2018, “Për strehimin social”.

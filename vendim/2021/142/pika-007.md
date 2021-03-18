@@ -1,0 +1,1 @@
+7. Sipërfaqet e banimit që rezultojnë në pronësi të njësisë së vetëqeverisjes vendore, sipas këtij vendimi, i shtohen fondit të banesave sociale dhe përdoren për strehimin e individëve/familjeve sipas kritereve të përzgjedhjes të përcaktuara në ligjin për strehimin social.

@@ -1,0 +1,1 @@
+6. Kontrata e sipërmarrjes, porosisë apo premtim-shitjes ndërmjet investitorit, pronarëve të truallit dhe njësisë së vetëqeverisjes vendore, që synon kalimin e pronësisë së objektit në ndërtim, regjistrohet në Agjencinë Shtetërore të Kadastrës, në respektim të ligjit “Për kadastrën”.
