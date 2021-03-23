@@ -1,0 +1,1 @@
+1. Z. Endri Musaj, drejtor i Inspektimit dhe Trajnimeve, i delegohet kompetenca e nënshkrimit të dokumenteve që njoftojnë institucionet fondkrijuese për dërgimin e inspektorit për asistencë, nëse plotësohet kushti që asistenca zhvillohet nga inspektori që është person kontakti i atij fondkrijuesi.
