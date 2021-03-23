@@ -1,0 +1,5 @@
+# Neni 4
+Nënshkrimi dhe miratimi i kontratës
+1. Autoriteti kontraktues dhe Bechtel-i nënshkruajnë kontratën e fazës së parë brenda 3 (tri) ditësh pune nga data e finalizimit të kushteve të saj. Kontrata e fazës së dytë nënshkruhet nga autoriteti kontraktues brenda 3 (tri) ditësh pune nga data e finalizimit të kushteve të saj nga Komisioni i Negocimit.
+2. Ministria përgjegjëse për infrastrukturën dhe energjinë i paraqet për miratim Këshillit të Ministrave kontratën e nënshkruar lidhur me fazën e parë të projektit brenda 3 (tri) ditësh pune nga nënshkrimi i saj. Data e hyrjes në fuqi të kontratës për fazën e parë të projektit është data e hyrjes në fuqi e vendimit të Këshillit të Ministrave që miraton kontratën.
+3. Në rastin e kontratës për fazën e dytë të projektit, ministria përgjegjëse për infrastrukturën dhe energjinë përgatit dhe dërgon në Këshillin e Ministrave projektligjin për miratimin e kontratës brenda 10 (dhjetë) ditësh pune nga nënshkrimi i saj, në përputhje me pikën 1 të këtij neni. Kontrata për fazën e dytë të projektit miratohet nga Kuvendi i Republikës së Shqipërisë dhe hyn në fuqi në datën e hyrjes në fuqi të ligjit të miratuar nga Kuvendi.
