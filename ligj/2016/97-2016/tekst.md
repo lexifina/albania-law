@@ -4,7 +4,7 @@ Nr. 97/2016
 
 PËR ORGANIZIMIN DHE FUNKSIONIMIN E PROKURORISË NË REPUBLIKËN E SHQIPËRISË
 
-(Ndryshuar me ligjin nr. 148/2020, datë 17.12.2020)
+(Ndryshuar me ligjin nr. 148/2020, datë 17.12.2020; nr. 42/2021, datë 23.3.2021)
 
 (I përditësuar)
 
@@ -42,6 +42,8 @@ Neni 2
 
 Përkufizime
 
+(shtuar shkronja “dh” me ligjin nr. 42/2021, datë 23.3.2021)
+
 	Në këtë ligj termat e mëposhtëm kanë këto kuptime: 
 
 	a) “Byroja Kombëtare e Hetimit” është njësia e posaçme hetimore, e parashikuar nga neni 148, paragrafi 4, i Kushtetutës.
@@ -59,6 +61,8 @@ Përkufizime
 	ç) “Prokuroria e Posaçme” është autoriteti përgjegjës për ushtrimin e ndjekjes penale dhe përfaqësimin e akuzës në gjyq në emër të shtetit për veprat penale të korrupsionit, krimit të organizuar dhe çështjet penale, sipas nenit 135, paragrafi 2, të Kushtetutës. 
 
 	d) “Prokuroritë e juridiksionit të përgjithshëm” janë prokuroritë pranë gjykatave me juridiksion të përgjithshëm të shkallës së parë, pranë gjykatave me juridiksion të përgjithshëm të apelit dhe Prokuroria e Përgjithshme.
+
+          dh) “Këshilltar ligjor” është këshilltari që ushtron funksionin e tij në Njësinë e Shërbimit Ligjor pranë Prokurorisë së Përgjithshme.
 
 Neni 3
 
@@ -186,7 +190,9 @@ Neni 15
 
 Prokuroria e Posaçme
 
-	1. Prokuroria e Posaçme ushtron ndjekjen penale dhe përfaqëson akuzën në gjyq në emër të shtetit për veprat penale të korrupsionit, krimit të organizuar dhe çështjet penale, sipas nenit 135, paragrafi 2, të Kushtetutës.
+(shtuar fjalë në pikën 1 me ligjin nr. 42/2021, datë 23.3.2021)
+
+             1. Prokuroria e Posaçme ushtron ndjekjen penale dhe përfaqëson akuzën në gjyq në emër të shtetit për veprat penale të korrupsionit, krimit të organizuar, terrorizmit dhe çështjet penale, sipas nenit 135, paragrafi 2, të Kushtetutës.
 
 	2. Mënyra e organizimit dhe funksionimit të Prokurorisë së Posaçme, kushtet shtesë që prokurorët, nëpunësit civilë dhe punonjësit e tjerë të saj duhet të përmbushin, si dhe marrëdhëniet e saj me institucionet e tjera shtetërore dhe me subjekte të tjera publike ose private rregullohen sipas ligjit të posaçëm për organizimin dhe funksionimin e saj.
 
@@ -870,9 +876,11 @@ Neni 57
 
 Organizimi i administratës së prokurorisë
 
+(shtuar fjalë në shkronjën “a”të pikës 1 me ligjin nr. 42/2021, datë 23.3.2021)
+
 	1. Administrata e prokurorisë realizon misionin e saj nëpërmjet shërbimeve të mëposhtme: 
 
-	a) shërbimet e prokurorisë, që mbështesin drejtpërdrejt veprimtaritë e prokurorisë, duke përfshirë dokumentimin dhe aktivitete që kryhen nga kancelari dhe sekretaria; 
+	a) shërbimet e prokurorisë, që mbështesin drejtpërdrejt veprimtaritë e prokurorisë, duke përfshirë dokumentimin dhe aktivitete që kryhen nga kancelari, këshilltari ligjor dhe sekretaria; 
 
 	b) shërbimet administrative, që përfshijnë financën dhe buxhetimin, marrëdhëniet me publikun, teknologjinë e informacionit, arkivin e prokurorisë, sigurinë, si dhe burimet njerëzore;
 
@@ -992,6 +1000,8 @@ Neni 65
 
 Struktura e Prokurorisë së Përgjithshme
 
+ (ndryshuar fjalë në pikën 1me ligjin nr. 42/2021, datë 23.3.2021)
+
 	1. Struktura e Prokurorisë së Përgjithshme përbëhet nga:
 
 	a) Sekretari i Përgjithshëm;
@@ -1002,7 +1012,7 @@ Struktura e Prokurorisë së Përgjithshme
 
 	ç) sektorët, përfshirë ato të ekspertizës dhe të ndihmës për subjektet e posaçme, sipas ligjit procedural penal etj.;
 
-	d) prokurorët e komanduar, sipas nenit 69 të këtij ligji. 
+	d) Njësia e Shërbimit Ligjor, sipas nenit 69 të këtij ligji. 
 
 	2. Prokurori i Përgjithshëm përcakton struk-turën dhe organikën e Prokurorisë së Përgjithshme në rregulloren e funksionimit të saj.
 
@@ -1040,15 +1050,53 @@ Asistenca ndaj subjekteve me status të posaçëm
 
 Neni 69
 
-Prokurorët e komanduar në Prokurorinë e Përgjithshme
+Njësia e Shërbimit Ligjor
 
-	1. Prokurorët e komanduar caktohen nga Këshilli i Lartë i Prokurorisë në Prokurorinë e Përgjithshme, sipas ligjit për statusin e gjyqtarëve dhe prokurorëve. 
+(ndryshuar me ligjin nr. 42/2021, datë 23.3.2021)
 
-	2. Sektori i prokurorëve të komanduar është strukturë ndihmëse dhe këshilluese që studion ankimet, dosjet penale, përgatit relacionin për çështjet objekt gjykimi në Gjykatën Kushtetuese dhe Gjykatën e Lartë, përgatit projektakte, bën kërkime ligjore, si dhe kryen çdo detyrë tjetër që i ngarkohet nga Prokurori i Përgjithshëm. 
+1. Pranë Prokurorisë së Përgjithshme funksionon Njësia e Shërbimit Ligjor. 
 
-	3. Vlerësimi i punës së prokurorëve të komanduar kryhet nga drejtuesi i prokurorisë, bazuar në mendimin e dhënë nga prokurori pranë të cilit është komanduar.
+2. Ajo ushtron veprimtari këshilluese dhe ndihmëse në procesin vendimmarrës të Prokurorisë së Përgjithshme duke përfshirë: 
 
-	4. Statusi i prokurorëve të komanduar përcaktohet në ligjin për statusin e gjyqtarëve dhe prokurorëve.
+a) analizimin, studimin e ankimeve dhe dosjeve penale; 
+
+b) përgatitjen e relacioneve për çështjet objekt gjykimi përpara Gjykatës së Lartë dhe Gjykatës Kushtetuese; 
+
+c) kryerjen e kërkimeve ligjore;
+
+ç) përgatitjen e projektakteve;
+
+d) kryerjen e detyrave të tjera për përpunimin e çështjeve që i ngarkohen nga Prokurori i Përgjithshëm.  
+
+3. Njësia e Shërbimit Ligjor është në varësi të Prokurorit të Përgjithshëm, i cili cakton këshilltarin ligjor pranë një prokurori ose drejtorie në Prokurorinë e Përgjithshme, duke marrë parasysh përvojën profesionale dhe specializimin e tyre, si dhe duke siguruar ngarkesë pune të barabartë ndërmjet tyre. 
+
+4. Njësia e Shërbimit Ligjor përbëhet nga këshilltarët ligjorë, në të cilën më shumë se gjysma e numrit të përgjithshëm përbëhet nga ndihmësmagjistratë të komanduar, sipas procedurave të përcaktuara në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”. 
+
+5. Prokurorët e komanduar caktohen nga Këshilli i Lartë i Prokurorisë në Prokurorinë e Përgjithshme sipas ligjit për statusin e gjyqtarëve dhe prokurorëve. Statusi i prokurorëve të komanduar përcaktohet në ligjin për statusin e gjyqtarëve dhe prokurorëve.
+
+6. Vlerësimi i punës së prokurorëve të komanduar kryhet nga drejtuesi i prokurorisë, bazuar në mendimin e dhënë nga prokurori pranë të cilit është komanduar. 
+
+7. Këshilltarët ligjorë jomagjistratë emërohen nga Këshilli i Lartë i Prokurorisë sipas rregullave të parashikuara në këtë ligj. Këshilltari ligjor jomagjistrat përfiton pagë të barabartë me “pagën bruto fillestare” të prokurorit pranë gjykatës së shkallës së parë, pa përfitimet e tjera financiare, sipas referimeve të ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”. 
+
+8. Këshilltari ligjor jomagjistrat duhet të plotësojë kriteret e mëposhtme: 
+
+a) të jetë diplomuar në drejtësi në nivelin “Master shkencor”, të barasvlershëm me të, sipas përcaktimeve të legjislacionit të arsimit të lartë; 
+
+b) përvojë profesionale jo më pak se 5 vjet si nëpunës i lartë në sistemin gjyqësor ose të prokurorisë, në administratën publike, profesionet e lira ligjore, mësimdhënie në fakultetet e drejtësisë, ose në çdo pozicion tjetër të barasvlershëm me to, në sektorin privat ose në organizatat ndërkombëtare; 
+
+c) njohuri në jurisprudencën e gjykatave vendase dhe atyre ndërkombëtare; 
+
+ç) njohuri shumë të mira të paktën të një gjuhe të vendeve të Bashkimit Europian; 
+
+d) aftësi të shkrimit dhe arsyetimit ligjor; 
+
+dh) të mos ketë masa disiplinore në fuqi në pozicionet e mëparshme; 
+
+9. Këshilltari ligjor dhe ndihmësmagjistrati u nënshtrohen rregullave të papajtueshmërisë, kufizimeve në detyrë dhe konfliktit të interesave ashtu si magjistrati. 
+
+10. Prokurori i Përgjithshëm përfshin në projektbuxhet propozimin për numrin e këshilltarëve ligjorë. 
+
+11. Prokurori i Përgjithshëm miraton rregulla të detajuara për numrin e këshilltarëve ligjorë dhe funksionimin e Njësisë së Shërbimit Ligjor pranë Prokurorisë së Përgjithshme. 
 
 SEKSIONI III
 
@@ -1058,9 +1106,13 @@ Neni 70
 
 Kategoritë e nëpunësve civilë në prokurori
 
+(shtuar shkronja “a/1”  me ligjin nr. 42/2021, datë 23.3.2021)
+
 	1. Kategoritë e nëpunësve civilë të prokurorisë janë: 
 
 	a) Sekretari i Përgjithshëm në Prokurorinë e Përgjithshme;
+
+            a/1) këshilltari ligjor në Prokurorinë e Përgjithshme;
 
 	b) kancelari;     
 
@@ -1082,25 +1134,29 @@ Neni 72
 
 Formimi profesional
 
+(shtuar fjalë në pikën 2 dhe 4 me ligjin nr. 42/2021, datë 23.3.2021)
+
 	1. Formimi profesional i nëpunësve civilë të prokurorisë garantohet nëpërmjet përfshirjes së tyre në programet e mëposhtme:
 
 	a) programin e formimit fillestar, mbi bazën e të cilit nëpunësit civilë të prokurorisë që pranohen në shërbimin civil, të rregulluar sipas këtij ligji, trajnohen brenda periudhës së provës së tyre; 
 
 	b) programin e formimit vazhdues, përmes së cilit trajnohen nëpunësit në detyrë të shërbimit civil të prokurorisë. 
 
-	2. Shkolla e Magjistraturës, në bashkëpunim me Këshillin e Lartë të Prokurorisë, Prokurorinë e Përgjithshme dhe Prokurorinë e Posaçme, kryen formimin fillestar dhe vazhdues të kancelarëve, si dhe përgatit kurrikulën për formimin fillestar për kancelarin për një periudhë prej të paktën tre muajsh, sipas kushteve të vendosura në ligjin “Për organet e qeverisjes së sistemit të drejtësisë”. 
+	2. Shkolla e Magjistraturës, në bashkëpunim me Këshillin e Lartë të Prokurorisë, Prokurorinë e Përgjithshme dhe Prokurorinë e Posaçme, kryen formimin fillestar dhe vazhdues të kancelarëve dhe këshilltarëve ligjorë në Prokurorinë e Përgjithshme, si dhe përgatit kurrikulën për formimin fillestar për kancelarin për një periudhë prej të paktën tre muajsh, dhe për këshilltarët ligjorë për një periudhë prej të paktën nëntë muajsh sipas kushteve të vendosura në ligjin “Për organet e qeverisjes së sistemit të drejtësisë”. 
 
 	3. Këshilli i Lartë i Prokurorisë, në bashkëpunim me Shkollën e Magjistraturës, kryen formimin profesional fillestar dhe vazhdues të nëpunësve të tjerë civilë në prokurori dhe përgatit kurrikulën për formimin fillestar të tyre për një periudhë prej të paktën një muaji. 
 
-	4. Shkolla e Magjistraturës miraton rregulla të detajuara për formimin fillestar dhe atë vazhdues për kancelarët dhe Këshilli i Lartë i Prokurorisë miraton rregulla më të detajuara për formimin fillestar dhe atë vazhdues për gjithë nëpunësit e tjerë civilë të prokurorisë.
+	4. Shkolla e Magjistraturës miraton rregulla të detajuara për formimin fillestar dhe atë vazhdues për kancelarët dhe këshilltarët ligjorë dhe Këshilli i Lartë i Prokurorisë miraton rregulla më të detajuara për formimin fillestar dhe atë vazhdues për gjithë nëpunësit e tjerë civilë të prokurorisë.
 
 Neni 73
 
-Vlerësimi kualifikues për kancelar
+Vlerësimi kualifikues për kancelar dhe këshilltarë ligjorë
 
-	1. Shkolla e Magjistraturës ofron formim fillestar për kancelarët, të paktën çdo tre vjet.
+(shtuar fjalë në titullin e dispozitës, në pikën 1 dhe 2 me ligjin nr. 42/2021, datë 23.3.2021)
 
-	2. Prokurori i Përgjithshëm, pasi merr mendimin e drejtuesve të prokurorive, përcakton numrin e vendeve të lira për kancelarë për tre vitet vijuese dhe ia njofton Këshillit të Lartë të Prokurorisë dhe Shkollës së Magjistraturës. 
+	1. Shkolla e Magjistraturës ofron formim fillestar për kancelarët, të paktën çdo tre vjet dhe për këshilltarët ligjorë.
+
+	2. Prokurori i Përgjithshëm, pasi merr mendimin e drejtuesve të prokurorive, përcakton numrin e vendeve të lira për këshilltarët ligjorë për vitin e ardhshëm për kancelarë për tre vitet vijuese dhe ia njofton Këshillit të Lartë të Prokurorisë dhe Shkollës së Magjistraturës. 
 
 	3. Shkolla e Magjistraturës njofton kandidatët e interesuar për paraqitjen e  kërkesave për formim fillestar, nëpërmjet njoftimeve të publikuara pranë gjithë prokurorive, në faqet zyrtare të prokurorive, të Këshillit të Lartë të Prokurorisë dhe të Shkollës së Magjistraturës. 
 
@@ -1158,7 +1214,9 @@ Neni 75
 
 Kritere të përgjithshme për pranimin
 
-	1. Për t’u pranuar në shërbimin civil të prokurorisë, të rregulluar sipas këtij ligji, dhe në provimin e pranimit për kancelarët në Shkollën e Magjistraturës, kandidatët duhet të plotësojnë kriteret e përgjithshme për pranimin në shërbimin civil, të parashikuara në ligjin “Për nëpunësin civil”, si dhe kërkesat e veçanta të parashikuara nga ky ligj.
+(shtuar fjalë në pikën 1 me ligjin nr. 42/2021, datë 23.3.2021)
+
+	1. Për t’u pranuar në shërbimin civil të prokurorisë, të rregulluar sipas këtij ligji, dhe në provimin e pranimit për kancelarët  dhe këshilltarët ligjorë në Shkollën e Magjistraturës, kandidatët duhet të plotësojnë kriteret e përgjithshme për pranimin në shërbimin civil, të parashikuara në ligjin “Për nëpunësin civil”, si dhe kërkesat e veçanta të parashikuara nga ky ligj.
 
 	2. Për t’u pranuar në shërbimet e Prokurorisë së Posaçme, kandidatët duhet të plotësojnë kushtet e sigurisë të caktuara me ligj të veçantë, si dhe japin pëlqimin për kontrollin periodik të llogarive të tyre bankare dhe të telekomunikimeve vetjake, të nënshkruar nga kandidati dhe familjarët e afërm të kandidatit.
 
@@ -1166,11 +1224,15 @@ Neni 76
 
 Kritere të veçanta për pranimin e nëpunësve civilë në prokurori
 
+(shtuar pika 1/1 me ligjin nr. 42/2021, datë 23.3.2021)
+
 	1. Për t’u pranuar në provimin e pranimit për formimin fillestar për kancelar, kandidatët duhet të plotësojnë edhe kriteret e veçanta si vijon: 
 
 	a) të jenë diplomuar në drejtësi ose ekonomi në nivelin “Master shkencor” ose të barasvlershëm me të, sipas përcaktimeve të legjislacionit të arsimit të lartë;
 
 	b) të kenë përvojë profesionale mbi tetë vjet, nga të cilat së paku tre vjet në pozicione administruese ose pesë vjet në sistemin e prokurorisë. 
+
+            1/1. Për pozicionin e këshilltarit ligjor në Prokurorinë e Përgjithshme, kandidatët duhet të përmbushin kriteret e parashikuara në nenin 69 të këtij ligji.
 
 	2. Për pozicionin e punonjësit të sekretarisë, kandidatët duhet të përmbushin këto kritere të veçanta:
 
@@ -1244,9 +1306,11 @@ Neni 78
 
 Emërimi në shërbimin civil të prokurorisë
 
+(shtuar fjalë në pikën 2 me ligjin nr. 42/2021, datë 23.3.2021)
+
 	1. Pas përfundimit të procedurës së lëvizjes paralele dhe ngritjes në detyrë, Këshilli i Lartë i Prokurorisë fillon procedurën e pranimit për emërimin e kandidatëve për vendet e mbetura të lira për kancelarë, ndërsa prokuroria përkatëse fillon procedurën e pranimit për emërimin e kandidatëve për vendet e tjera të lira të nëpunësve civilë. 
 
-	2. Kandidatët fitues, të përcaktuar në përputhje me listën e Shkollës së Magjistraturës për renditjen e kancelarëve ose në përputhje me renditjen e bërë nga Komisioni i Pranimit, duke filluar nga ai me më shumë pikë, kanë të drejtën të zgjedhin të emërohen në çdo pozicion të kategorisë për të cilën është zhvilluar konkurrimi. Këshilli i Lartë i Prokurorisë dhe prokuroria përkatëse emërojnë kandidatët në pozicionin e zgjedhur, sipas neneve 79 dhe 80 të këtij ligji.
+	2. Kandidatët fitues, të përcaktuar në përputhje me listën e Shkollës së Magjistraturës për renditjen e kancelarëve  dhe këshilltarë ligjorë ose në përputhje me renditjen e bërë nga Komisioni i Pranimit, duke filluar nga ai me më shumë pikë, kanë të drejtën të zgjedhin të emërohen në çdo pozicion të kategorisë për të cilën është zhvilluar konkurrimi. Këshilli i Lartë i Prokurorisë dhe prokuroria përkatëse emërojnë kandidatët në pozicionin e zgjedhur, sipas neneve 79 dhe 80 të këtij ligji.
 
 	3. Lista e kandidatëve fitues, e krijuar nga Shkolla e Magjistraturës, sipas nenit 73, pika 7, të këtij ligji, të paemëruar ende sipas pikës 2, të këtij neni, është e vlefshme për një periudhë katërvjeçare nga shpallja e fituesve. Lista e krijuar nga Komisioni i Pranimit, në përputhje me nenin 77, pika 6, të këtij ligji, të paemëruar ende sipas pikës 2, të këtij neni, është e vlefshme për një periudhë dyvjeçare nga shpallja e fituesve. Nëse gjatë kësaj periudhe, organizohet një konkurs tjetër për të njëjtën kategori, kandidatët fitues të listave, që nuk janë emëruar ende, renditen sërish sipas rezultatit përfundimtar.
 
@@ -1258,13 +1322,15 @@ Emërimi në shërbimin civil të prokurorisë
 
 Neni 79
 
-Emërimi i kancelarit
+Emërimi i kancelarit dhe këshilltarit ligjor
 
-	1. Organi kompetent për emërimin e kancelarit është Këshilli i Lartë i Prokurorisë.
+(shtuar fjalë në titullin e dispozitës, në pikën 1, 2 dhe 3 me ligjin nr. 42/2021, datë 23.3.2021)
 
-	2. Për vendin e lirë për kancelar, pas përfundimit të procedurës së lëvizjes paralele dhe ngritjes në detyrë, kandidatët e renditur në listën e kandidatëve për pozicionin e kancelarit, të publikuar nga Shkolla e Magjistraturës, kanë të drejtë të paraqesin kërkesë pranë Këshillit të Lartë të Prokurorisë. 
+	1. Organi kompetent për emërimin e kancelarit dhe këshilltarit ligjor është Këshilli i Lartë i Prokurorisë.
 
-	3. Këshilli i Lartë i Prokurorisë zgjedh kandidatin për kancelar, duke marrë parasysh kriteret e mëposhtme, sipas kësaj radhe: 
+	2. Për vendin e lirë për kancelar dhe këshilltar ligjor, pas përfundimit të procedurës së lëvizjes paralele dhe ngritjes në detyrë, kandidatët e renditur në listën e kandidatëve për pozicionin e kancelarit dhe këshilltarit ligjor, të publikuar nga Shkolla e Magjistraturës, kanë të drejtë të paraqesin kërkesë pranë Këshillit të Lartë të Prokurorisë. 
+
+	3. Këshilli i Lartë i Prokurorisë zgjedh kandidatin për kancelar dhe për këshilltar ligjor, duke marrë parasysh kriteret e mëposhtme, sipas kësaj radhe: 
 
 	a) renditjen në listën e kandidatëve; 
 
@@ -1352,11 +1418,13 @@ Neni 84
 
 Të drejtat dhe detyrat e nëpunësit civil të prokurorisë
 
+(shtuar fjalë në pikën 3, shtuar pika 5/1, shtuar fjalë në fjalinë e parë dhe të dytë të pikës 6, shfuqizuar pika 8  me ligjin nr. 42/2021, datë 23.3.2021)
+
 	1. Nëpunësit civilë gëzojnë të drejta dhe u nënshtrohen detyrimeve sipas dispozitave të parashikuara në kapitullin e të drejtave dhe detyrimeve në shërbimin civil të ligjit “Për nëpunësin civil”, përveç kur në këtë ligj parashi-kohet ndryshe.
 
 	2. Nëpunësit civilë kanë të drejtë të ankimojnë vendimet e Komisionit të Pranimit në Gjykatën Administrative të Apelit. Gjykata Administrative e Apelit shqyrton vetëm gabimet faktike ose procedurale, të cilat mund të kenë ndikuar në rezultatin e renditjes dhe nuk zëvendëson vlerësimin e kritereve me vlerësimin e saj. Vendimi i Gjykatës Administrative të Apelit është i formës së prerë dhe kundër tij nuk lejohet rekurs.
 
-	3. Vendimet e Këshillit të Lartë të Prokurorisë për emërimin e kancelarëve dhe prokurorëve të komanduar ankimohen në përputhje me ligjin që rregullon organizimin dhe funksionimin e Këshilli të Lartë të Prokurorisë.
+	3. Vendimet e Këshillit të Lartë të Prokurorisë për emërimin e kancelarëve , këshilltarëve ligjorë jomagjistratë dhe prokurorëve të komanduar ankimohen në përputhje me ligjin që rregullon organizimin dhe funksionimin e Këshilli të Lartë të Prokurorisë.
 
 	4. Këshilli i Ministrave miraton me vendim: 
 
@@ -1366,11 +1434,13 @@ Të drejtat dhe detyrat e nëpunësit civil të prokurorisë
 
 	5. Kancelari kandidat merr një shpërblim të barabartë me 50 për qind të pagës fillestare si kancelar gjatë programit të formimit fillestar. 
 
-	6. Kancelarët kandidatë detyrohen të kthejnë të gjithë shpërblimin e marrë brenda tre vjetëve, në rast se kandidati përjashtohet ose largohet nga shkolla; ose në rast se kandidati nuk kërkon të caktohet në një pozicion brenda një viti nga përfundimi i arsimimit në Shkollën e Magjis-traturës. Kandidati detyrohet të kthejë 50 për qind të shpërblimit të marrë brenda tre vjetëve nga përfundimi i arsimimit në Shkollën e Magjistra-turës, nëse kandidati nuk ka mundur të përmbushë kërkesat për t’u emëruar, sipas nenit 76 të këtij ligji, ose në rast se mandati i kancelarit përfundon përpara plotësimit të të paktën pesë viteve në ushtrimin e detyrës. Detyrimi për kthimin e shpërblimit të marrë nuk zbatohet në rastet që lidhen me arsye shëndetësore apo raste të tjera me arsye të justifikuara siç miratohen nga Këshilli i Lartë i Prokurorisë.  
+       5/1. Këshilltari ligjor kandidat merr një shpërblim të barabartë me 50 për qind të pagës fillestare si këshilltar ligjor gjatë kursit të formimit fillestar.
+
+	6. Kancelarët  dhe këshilltarët ligjorë kandidatë detyrohen të kthejnë të gjithë shpërblimin e marrë brenda tre vjetëve, në rast se kandidati përjashtohet ose largohet nga shkolla; ose në rast se kandidati nuk kërkon të caktohet në një pozicion brenda një viti nga përfundimi i arsimimit në Shkollën e Magjis-traturës. Kandidati detyrohet të kthejë 50 për qind të shpërblimit të marrë brenda tre vjetëve nga përfundimi i arsimimit në Shkollën e Magjistra-turës, nëse kandidati nuk ka mundur të përmbushë kërkesat për t’u emëruar, sipas nenit 76 të këtij ligji, ose në rast se mandati i kancelarit  ose këshilltarit ligjor përfundon përpara plotësimit të të paktën pesë viteve në ushtrimin e detyrës. Detyrimi për kthimin e shpërblimit të marrë nuk zbatohet në rastet që lidhen me arsye shëndetësore apo raste të tjera me arsye të justifikuara siç miratohen nga Këshilli i Lartë i Prokurorisë.  
 
 	7. Përcaktimi i nivelit të pagës së kancelarit bëhet në strukturën e miratuar nga Prokurori i Përgjithshëm, bazuar në tre nivele page, në përputhje me ngarkesën e prokurorisë përkatëse. Niveli më i lartë i pagës së kancelarit të prokurorisë barazohet me pagën e funksionit drejtor i përgjithshëm dhe niveli më i ulët me  pagën e funksionit përgjegjës sektori në ministri.
 
-	8. Nëpunësi civil në Prokurorinë e Posaçme përfiton shtesë në masën 10 për qind të pagës përkatëse për funksion.   
+	8. Shfuqizuar.   
 
 Neni 85
 
@@ -1416,11 +1486,13 @@ Neni 86
 
 Transferimi i nëpunësve civilë
 
+(shtuar fjalë në fjalinë e tretë të pikës 3 me ligjin nr. 42/2021, datë 23.3.2021)
+
 	1. Dispozitat e parashikuara në ligjin “Për nëpunësin civil” për transferimin e përkohshëm dhe të përhershëm zbatohen për aq sa është e mundur, përveçse kur në këtë ligj parashikohet ndryshe.
 
 	2. Transferimi mund të zbatohet vetëm brenda shërbimit civil të prokurorisë. Nëpunësi civil mund edhe të transferohet përkohësisht për nevojat e organit të prokurorisë apo shtetit, në pozicionet që i përshtaten profilit të punës, në një organizatë ndërkombëtare, në të cilën Republika e Shqipërisë është anëtare apo në një institucion ndërkombëtar.
 
-	3. Drejtuesi i prokurorisë, në të cilën nëpunësi civil transferohet, është kompetent për dhënien e vendimit të transferimit. Në rast transferimi në institucione të ndryshme nga prokuroria, drejtuesi i prokurorisë, në të cilën nëpunësi civil është i punësuar, është organi kompetent që vendos për transferimin. Në rastin e kancelarit, Këshilli i Lartë i Prokurorisë është organi kompetent që vendos për transferimin.
+	3. Drejtuesi i prokurorisë, në të cilën nëpunësi civil transferohet, është kompetent për dhënien e vendimit të transferimit. Në rast transferimi në institucione të ndryshme nga prokuroria, drejtuesi i prokurorisë, në të cilën nëpunësi civil është i punësuar, është organi kompetent që vendos për transferimin. Në rastin e kancelarit dhe këshilltarit ligjor, Këshilli i Lartë i Prokurorisë është organi kompetent që vendos për transferimin.
 
 	4. Drejtuesi i prokurorisë njofton Këshillin e Lartë të Prokurorisë në rastet kur nëpunësi civil kërkon transferimin në një institucion tjetër të shërbimit civil për shkak të:
 
@@ -1444,9 +1516,11 @@ Neni 87
 
 Pezullimi nga shërbimi civil
 
+(shtuar fjalë në pikën 2 me ligjin nr. 42/2021, datë 23.3.2021)
+
 	1. Dispozitat e parashikuara në ligjin “Për nëpunësin civil” për pezullimin nga shërbimi civil, zbatohen edhe për nëpunësit civilë në prokurori, për aq sa është e mundur, përveçse kur në këtë ligj parashikohet ndryshe.
 
-	2. Organi kompetent për deklarimin e pezullimit është Këshilli i Lartë i Prokurorisë për kancelarin dhe drejtuesi i prokurorisë për nëpunësit e tjerë civilë. 
+	2. Organi kompetent për deklarimin e pezullimit është Këshilli i Lartë i Prokurorisë për kancelarin dhe këshilltarin ligjor dhe drejtuesi i prokurorisë për nëpunësit e tjerë civilë. 
 
 	3. Në rast pezullimi, sipas një kërkese të motivuar për shkak të një interesi tjetër të ligjshëm të nëpunësit civil, organi kompetent mund të vendosë pezullimin për një periudhë deri në dy vjet, në përputhje me rregullat e nxjerra nga Këshilli i Lartë i Prokurorisë. 
 
@@ -1480,15 +1554,17 @@ Neni 89
 
 Përgjegjësia disiplinore
 
+(shtuar fjalë në shkronjën “a” dhe “b” të pikes 1, në shkronjën “a” të pikes 2  me ligjin nr. 42/2021, datë 23.3.2021)
+
 	1. Organi kompetent për propozimin e masave disiplinore është:
 
-	a) kancelari i prokurorisë, për nëpunësit civilë që ushtrojnë detyrën në prokurorinë përkatëse, përveç kancelarit; 
+	a) kancelari i prokurorisë, për nëpunësit civilë që ushtrojnë detyrën në prokurorinë përkatëse, përveç kancelarit dhe këshilltarit ligjor; 
 
-	b) drejtuesi i prokurorisë për kancelarin. 
+	b) drejtuesi i prokurorisë për kancelarin dhe këshilltarin ligjor. 
 
 	2. Organi kompetent për të caktuar masat disiplinore është:
 
-	a) Këshilli i Lartë i Prokurorisë për kancelarin; dhe
+	a) Këshilli i Lartë i Prokurorisë për kancelarin dhe këshilltarin ligjor; dhe
 
 	b) drejtuesi i prokurorisë për nëpunësit e tjerë civilë.
 
@@ -1666,11 +1742,13 @@ Neni 100
 
 Ndërprerja e marrëdhënies në shërbimin civil të prokurorisë
 
+(shtuar fjalë në pikën 3 me ligjin nr. 42/2021, datë 23.3.2021)
+
 	1. Ndërprerja e marrëdhënieve në shërbimin civil i nënshtrohet rregullave të parashikuara në ligjin për nëpunësit civil, përveç rasteve kur parashikohet ndryshe në këtë ligj.
 
 	2. Me përjashtim të rasteve të tjera të parashikuara në ligjin “Për nëpunësin civil”, marrëdhënia në shërbimin civil përfundon nëpërmjet lirimit, në rastin e emërimit në funksionin e ministrit, zëvendësministrit, zyrtarit të emëruar nga Kuvendi, Presidenti i Republikës ose Këshilli i Ministrave apo funksionarë të kabinetit.
 
-	3. Organi kompetent për ndërprerjen e marrëdhënies në shërbimin civil për kancelarin është Këshilli i Lartë i Prokurorisë dhe për nëpunësit e tjerë civilë është drejtuesi i prokurorisë ku ai ushtron detyrën.
+	3. Organi kompetent për ndërprerjen e marrëdhënies në shërbimin civil për kancelarin dhe këshilltarin ligjor është Këshilli i Lartë i Prokurorisë dhe për nëpunësit e tjerë civilë është drejtuesi i prokurorisë ku ai ushtron detyrën.
 
 Neni 101
 
@@ -1765,6 +1843,18 @@ Marrëdhëniet me Policinë Gjyqësore
 	1. Prokurorët drejtojnë dhe kontrollojnë veprimtarinë hetimore të Policisë Gjyqësore, në përputhje me ligjin procedural penal dhe parashikimet e bëra në ligjin organik për Policinë Gjyqësore. 
 
 	2. Urdhrat dhe udhëzimet e karakterit të përgjithshëm dhe të posaçëm që lidhen me procedimin penal janë të detyrueshme për Policinë Gjyqësore.
+
+                                                                  Neni 108/a
+
+ (shtuar me ligjin nr. 42/2021, datë 23.3.2021)
+
+1. Prokuroritë e juridiksionit të përgjithshëm kanë të drejtë të kenë akses të drejtpërdrejtë, si subjekte të interesuara, në sistemet e informacionit apo bazat e të dhënave të administruara nga institucionet shtetërore, që përmbajnë informacionin e nevojshëm për hetimin e veprave penale që përfshihen në juridiksionin e tyre sipas nenit 148 të Kushtetutës. 
+
+2. Niveli i aksesimit për prokuroritë e juridiksionit të përgjithshëm, për çdo bazë të dhënash shtetërore, caktohet në përputhje me legjislacionin në fuqi që rregullon bazat e të dhënave shtetërore, duke garantuar që në çdo rast ky nivel të jetë vetëm për përmbushjen e nevojës për informacion që kërkohet nga prokuroritë e juridiksionit të përgjithshëm. Prokurorët mund të aksesojnë një bazë të dhënash shtetërore vetëm në rastet kur informacioni që ruhet në atë bazë të dhënash shtetërore është i nevojshëm për të hetuar një vepër penale. 
+
+3. Aksesi në sistemet e informacionit apo bazat e të dhënave të administruara nga institucionet shtetërore, sipas këtij neni, u nënshtrohet rregullave për mbrojtjen e të dhënave personale sipas legjislacionit në fuqi. Prokuroritë e juridiksionit të përgjithshëm, si dhe institucionet shtetërore që administrojnë bazat e të dhënave shtetërore marrin masa organizative dhe teknike të përshtatshme për të mbrojtur të dhënat personale nga shkatërrime të paligjshme ose aksidentale, si dhe nga humbje aksidentale, për të mbrojtur aksesin ose përhapjen nga persona të paautorizuar, si dhe nga çdo formë tjetër e paligjshme përpunimi, në përputhje me legjislacionin në fuqi për mbrojtjen e të dhënave personale.
+
+4. Parashikimet e bëra në pikat 1 dhe 2 të këtij neni nuk zbatohen për sistemet e informacionit apo bazat e të dhënave që ruajnë dhe/ose përpunojnë informacion të klasifikuar “sekret shtetëror”. Aksesi i prokurorive të juridiksionit të përgjithshëm në sistemet e informacionit apo bazat e të dhënave duhet të jetë në përputhje me legjislacionin në fuqi për informacionin e klasifikuar sekret shtetëror. 
 
 KREU IX
 

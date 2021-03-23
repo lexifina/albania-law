@@ -2,7 +2,7 @@
 
 Official source: [Ligji nr. 97/2016](https://qbz.gov.al/api/v1/acts/15895); [QBZ versions](https://qbz.gov.al/api/v1/acts/15895/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2020-12-17; after QBZ act 58497 (nr. 148).
+Status of this text: `official consolidated version 2`, applying from 2021-03-23; after QBZ act 61305 (nr. 42).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
