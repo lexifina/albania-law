@@ -6,6 +6,8 @@ PËR ORGANIZIMIN E PUSHTETIT GJYQËSOR NË REPUBLIKËN
 
 E SHQIPËRISË
 
+(ndryshuar me ligjin nr. 46/2021, datë 23.3.2021)
+
 	Në mbështetje të neneve 81 dhe 83, pika 1, të Kushtetutës, me propozimin e një grupi deputetësh, 
 
 KUVENDI
@@ -40,6 +42,8 @@ Neni 2
 
 Përkufizime
 
+(ndryshuar shkronja “e” me ligjin nr. 46/2021, datë 23.3.2021)
+
 	Në këtë ligj termat e mëposhtëm kanë këto kuptime: 
 
 	a) “Administrimi gjyqësor” është tërësia e veprimtarive që synojnë organizimin dhe sigurimin e funksionimit të shërbimeve në mbështetje të sistemit gjyqësor. 
@@ -54,7 +58,7 @@ Përkufizime
 
 	dh) “Ndihmësmagjistrat” është gjyqtari i komanduar për të ndihmuar gjyqtarët në Gjykatën e Lartë dhe Gjykatën Kushtetuese ose prokurorët e komanduar për të ndihmuar Prokurorin e Përgjithshëm, në trajtimin e çështjeve, në veçanti, kryerjen e kërkimit ligjor dhe përgatitjen e opinioneve me shkrim për çështje ligjore materiale ose procedurale.
 
-	e) “Ndihmës ligjor” është ndihmësi që ushtron funksionin e tij në njësinë e shërbimit ligjor pranë gjykatave të apelit.
+	e) “Ndihmës ligjor” është ndihmësi që ushtron funksionin e tij në Njësinë e Shërbimit Ligjor pranë gjykatave të shkallës së parë dhe gjykatave të apelit.
 
 	ë) “Nëpunës civil gjyqësor” është personi, i cili ushtron funksione administrative publike brenda shërbimit gjyqësor ose administrativ të një gjykate në mbështetje të drejtpërdrejtë të sistemit gjyqësor. 
 
@@ -132,7 +136,7 @@ Neni 8
 
 Parimet e shërbimit civil gjyqësor
 
-	1. Veprimtaria e shërbimit civil gjyqësor rregullohet me ligj dhe bazohet mbi parimet e mundësive të barabarta, mosdiskriminimit, transpa-rencës, profesionalizmit, integritetit, përgjegj-shmërisë dhe orientimit drejt shërbimeve efiçente dhe të aksesueshme për çdo person.
+	1. Veprimtaria e shërbimit civil gjyqësor rregullohet me ligj dhe bazohet mbi parimet e mundësive të barabarta, mosdiskriminimit, transpa-rencës, profesionalizmit, integritetit, përgjegjshmërisë dhe orientimit drejt shërbimeve efiçente dhe të aksesueshme për çdo person.
 
 2. Statusi i nëpunësve të shërbimit civil gjyqësor mbështetet në parimin e garantimit të qëndrue-shmërisë, bazuar në meritë dhe zhvillimin transparent të karrierës.
 
@@ -234,6 +238,8 @@ Neni 17
 
 Degët e gjykatave
 
+(ndryshuar fjalia e parë e pikës 5 me ligjin nr. 46/2021, datë 23.3.2021)
+
 	1. Gjykata e shkallës së parë me juridiksion të përgjithshëm mund të ushtrojë funksionin në selinë kryesore dhe, nëse është e nevojshme, në një ose disa degë të gjykatës.
 
 	2. Degët e gjykatave janë të përhershme dhe të përkohshme. 
@@ -242,7 +248,7 @@ Degët e gjykatave
 
 	4. Degët e përkohshme e ushtrojnë funksionin në intervale kohore të rregullta jashtë selive kryesore të gjykatave të shkallës së parë me juridiksion të përgjithshëm, sipas parashikimeve të nenit 20 të këtij ligji e në vijim.
 
-	5. Degët e gjykatave gjykojnë vetëm çështje të cilat nuk janë urgjente, si dhe çështje civile dhe penale që gjykohen nga një gjyqtar i vetëm. Gjykimi i çështjeve tregtare nuk është pjesë e kompetencës së shqyrtimit gjyqësor nga degët e gjykatave.
+	5. Degët e gjykatave gjykojnë çështje civile dhe penale që gjykohen nga një gjyqtar i vetëm. Gjykimi i çështjeve tregtare nuk është pjesë e kompetencës së shqyrtimit gjyqësor nga degët e gjykatave.
 
 Neni 18
 
@@ -328,11 +334,9 @@ Neni 24
 
 Trupat gjykues
 
-	1. Gjykatat me juridiksion të përgjithshëm dhe gjykatat administrative të shkallës së parë gjykojnë me trup gjykues të përbërë nga një gjyqtar, ose me trup gjykues të përbërë nga tri gjyqtarë, përveç rasteve kur në ligj parashikohet ndryshe.
+(ndryshuar me ligjin nr. 46/2021, datë 23.3.2021)
 
-	2. Gjykatat me juridiksion të përgjithshëm dhe gjykatat administrative të apelit gjykojnë me trupa gjykues të përbërë nga tre gjyqtarë, përveç rasteve të parashikuara shprehimisht në ligj.
-
-	3. Gjykata e posaçme për gjykimin e veprave penale të korrupsionit dhe krimit të organizuar të shkallës së parë dhe të apelit gjykojnë me trup gjykues të përbërë nga pesë gjyqtarë, përveç rasteve kur në ligj parashikohet ndryshe.
+	Gjykatat me juridiksion të përgjithshëm të shkallës së parë dhe të apelit, gjykatat administrative të shkallës së parë dhe të apelit, si dhe gjykata e posaçme, për gjykimin e veprave penale të korrupsionit dhe krimit të organizuar të shkallës së parë dhe të apelit, gjykojnë me trup gjykues të përbërë nga një gjyqtar, ose me trup gjykues të përbërë nga 3 gjyqtarë, sipas parashikimeve të ligjeve procedurale, përveç rasteve kur në ligj parashikohet ndryshe.
 
 Neni 25
 
@@ -364,15 +368,19 @@ Neni 26
 
 Kryetari dhe zëvendëskryetari i gjykatës
 
+(shtuar fjalë në pikën 3, ndryshuar fjalia e tretë e pikës 4, dhe shtuar pka 5/1  me ligjin nr. 46/2021, datë 23.3.2021)
+
 	1.  Kryetari i një gjykate zgjidhet sipas kritereve dhe procedurave të përcaktuara në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë” dhe ka kompetencat e përcaktuara sipas këtij ligji.
 
 	2. Në mungesë të kryetarit, kompetencat e tij ushtrohen nga zëvendëskryetari. 
 
-	3. Zëvendëskryetari duhet të ketë të paktën pesë vjet përvojë profesionale si gjyqtar, nga të cilat të paktën tre vjet në të njëjtën shkallë. Zëvendës-kryetari zgjidhet nga mbledhja e përgjithshme e gjyqtarëve për një mandat trevjeçar pa të drejtë rizgjedhjeje.
+	3. Zëvendëskryetari duhet të ketë të paktën pesë vjet përvojë profesionale si gjyqtar, nga të cilat të paktën tre vjet në të njëjtën shkallë. Zëvendëskryetari zgjidhet nga mbledhja e përgjithshme e gjyqtarëve ndërmjet gjyqtarëve që ushtrojnë detyrën në atë gjykatë për një mandat trevjeçar pa të drejtë rizgjedhjeje.
 
-4. Vendimi i mbledhjes së përgjithshme të gjyqtarëve për zgjedhjen e zëvendëskryetarit merret me shumicën e votave të anëtarëve të pranishëm. Të gjithë gjyqtarët me funksionin e gjyqtarit ose ndihmësmagjistratit në atë gjykatë, në momentin e votimit janë anëtarë dhe kanë për detyrë të votojnë. Mbledhja e përgjithshme e gjyqtarëve është e vlefshme kur në të marrin pjesë të paktën dy të tretat e të gjithë anëtarëve. Në rast të një rezultati të barabartë të kandidatëve, përparësi ka gjyqtari me përvojën më të gjatë profesionale si gjyqtar.
+4. Vendimi i mbledhjes së përgjithshme të gjyqtarëve për zgjedhjen e zëvendëskryetarit merret me shumicën e votave të anëtarëve të pranishëm. Të gjithë gjyqtarët me funksionin e gjyqtarit ose ndihmësmagjistratit në atë gjykatë, në momentin e votimit janë anëtarë dhe kanë për detyrë të votojnë. Mbledhja e përgjithshme e gjyqtarëve është e vlefshme kur marrin pjesë shumica e anëtarëve që ushtrojnë detyrën në gjykatë. Në rast të një rezultati të barabartë të kandidatëve, përparësi ka gjyqtari me përvojën më të gjatë profesionale si gjyqtar.
 
 	5. Rezultatet e votimit ruhen në një listë me renditjen e kandidatëve për tre vjet nga data e votimit. Në rast se zëvendëskryetari është në pamundësi për të ushtruar detyrën ose përfundon veprimtarinë si gjyqtar i asaj gjykate për çfarëdo arsye, gjyqtari përkatës vijues me numrin më të madh të votave në listë e zëvendëson atë. 
+
+5/1 Në rastet kur nuk konkurron asnjë nga gjyqtarët që plotësojnë kriterin e përvojës minimale profesionale, ose kur asnjë nga gjyqtarët e gjykatës nuk e ka këtë përvojë, zëvendëskryetari i gjykatës zgjidhet ndërmjet gjyqtarëve të tjerë, që ushtrojnë funksionin në atë gjykatë, për një mandat njëvjeçar me të drejtë rizgjedhjeje.
 
 	6. Këshilli i Lartë Gjyqësor miraton rregulla më të hollësishme për procedurën e zgjedhjes së zëvendëskryetarit.
 
@@ -440,7 +448,9 @@ Neni 29
 
 Mbledhja e përgjithshme e gjyqtarëve të gjykatës
 
-	1. Mbledhja e përgjithshme e të gjithë gjyqtarëve të gjykatës thirret rregullisht dhe kryesohet nga kryetari i gjykatës.
+(shtuar një fjali në pikën 1 me ligjin nr. 46/2021, datë 23.3.2021)
+
+	1. Mbledhja e përgjithshme e të gjithë gjyqtarëve të gjykatës thirret rregullisht dhe kryesohet nga kryetari i gjykatës. Në mbledhje marrin pjesë të gjithë gjyqtarët që ushtrojnë detyrën. Mbledhja është e vlefshme kur marrin pjesë shumica e gjyqtarëve.
 
 	2. Kryetari siguron që mbledhja të zhvillohet me regjistrim audio dhe të mbahet procesverbal për diskutimet e zhvilluara. Regjistrimi audio dhe procesverbali i mbledhjes i zbardhur ruhet për të paktën dhjetë vjet dhe i vihet në dispozicion gjyqtarëve të gjykatës, anëtarëve të Këshillit të Lartë Gjyqësor dhe Inspektorit të Lartë të Drejtësisë. Akses mund t’u jepet personave dhe institucioneve të tjera të interesuara, duke siguruar mbrojtjen e të dhënave personale.
 
@@ -464,23 +474,25 @@ Kolegjet dhe trupat gjykues të Gjykatës
 
 së Lartë
 
+ (ndryshuar fjalia e parë e pikës 2, 3, 4, shfuqizuar fjalia e tretë e pikës 3 dhe ndryshuar pika 4 me ligjin nr. 46/2021, datë 23.3.2021)
+
 	1. Gjykata e Lartë organizohet në Kolegjin Civil, Kolegjin Penal dhe Kolegjin Administrativ. Kryetari i kolegjit zgjidhet nga anëtarët e tij me shumicë të thjeshtë votash për periudhën njëvjeçare, me të drejtë rizgjedhjeje.
 
-	2. Kolegji Civil shqyrton rekurse ndaj vendimeve të gjykatave me juridiksion të përgjithshëm për çështje tregtare, civile dhe familjare, si dhe çështje të tjera të caktuara në kompetencë me ligj. Ai gjykon në trupa gjykues të përbërë nga tre gjyqtarë.
+	2. Kolegji Civil shqyrton rekurse ndaj vendimeve të gjykatave me juridiksion të përgjithshëm për çështje tregtare, civile dhe familjare, si dhe çështje të tjera të caktuara në kompetencë me ligj. Kolegji Civil gjykon në kolegj me trup gjykues të përbërë nga 3 gjyqtarë. Në rastet e gjykimeve, për njësimin dhe zhvillimin e praktikës gjyqësore, Kolegji Civil gjykon në kolegje me trup gjykues të përbërë nga 5 gjyqtarë.	3. Kolegji Penal shqyrton rekurse ndaj vendimeve të gjykatave me juridiksion të përgjithshëm dhe gjykatave të posaçme për gjykimin e veprave penale të korrupsionit dhe krimit të organizuar për çështje penale, si dhe çështje të tjera të caktuara në kompetencë me ligj. Kolegji Penal gjykon në kolegj me trup gjykues të përbërë nga 3 gjyqtarë. Në rastet e gjykimeve, për njësimin dhe zhvillimin e praktikës gjyqësore, Kolegji Penal gjykon në kolegje me trup gjykues të përbërë nga 5 gjyqtarë.
 
-	3. Kolegji Penal shqyrton rekurse ndaj vendimeve të gjykatave me juridiksion të përgjithshëm dhe gjykatave të posaçme për gjykimin e veprave penale të korrupsionit dhe krimit të organizuar për çështje penale, si dhe çështje të tjera të caktuara në kompetencë me ligj. Ai gjykon në trupa gjykues të përbërë nga tre gjyqtarë. Çështjet penale të gjykuara nga gjykatat e posaçme për gjykimin e veprave penale të korrupsionit dhe krimit të organizuar gjykohen nga një trup gjykues i përbërë nga pesë gjyqtarë.
+	4. Kolegji Administrativ shqyrton rekurse ndaj vendimeve të gjykatave administrative. Kolegji Administrativ gjykon me 3 gjyqtarë të gjitha çështjet, me përjashtim të rekurseve të paraqitura kundër vendimeve të Gjykatës Administrative të Apelit, që kanë shqyrtuar padi ndaj aktit nënligjor normativ, si dhe gjykimeve në seancë gjyqësore, për njësimin ose zhvillimin e praktikës gjyqësore, të cilat gjykohen me 5 gjyqtarë.
 
-	4. Kolegji Administrativ shqyrton rekurse ndaj vendimeve të gjykatave administrative. Trupat gjykues të Kolegjit Administrativ përbëhen nga tre gjyqtarë dhe për çështje që gjykojnë ligjshmërinë e akteve normative nënligjore trupat gjykues përbëhen nga pesë gjyqtarë.
-
-	5. Trupi gjykues kryesohet nga kryetari i gjykatës dhe në mungesë të tij nga kryetari i kolegjit. Në rast mungese të të dyve kryesohet nga gjyqtari relator.
+	5. Trupi gjykues kryesohet nga kryetari i kolegjit dhe në mungesë të tij nga gjyqtari relator. Në rastin kur në trup gjykues është kryetari i gjykatës, ai kryesohet nga ky i fundit.
 
 Neni 32
 
 Kolegjet e Bashkuara të Gjykatës së Lartë
 
+(ndryshuar pika 2 me ligjin nr. 46/2021, datë 23.3.2021)
+
 	1. Gjykata e Lartë gjykon në Kolegje të Bashkuara për çështje civile, penale ose administrative, të cilat, me vendim të një prej trupave gjykues ose të Kryetarit të Gjykatës së Lartë, paraqiten për shqyrtim për ndryshimin e praktikës gjyqësore.
 
-	2. Kolegjet e Bashkuara shqyrtojnë rastet kur e njëjta çështje juridike nuk është interpretuar në mënyrë të njëjtë nga kolegje të ndryshme të Gjykatës së Lartë, ose në rast se ekziston rreziku për interpretim jo të njëjtë nga kolegje të ndryshme të Gjykatës së Lartë.
+	2. Kolegjet e Bashkuara shqyrtojnë çështjet kur lind nevoja për ndryshimin e praktikës gjyqësore të njësuar sipas rregullave të caktuara në legjislacionin procedural civil, penal dhe administrativ në fuqi.
 
 Neni 33
 
@@ -497,6 +509,10 @@ Përbërja dhe gjykimi në Kolegje të Bashkuara
 Neni 34
 
 Njësia e Shërbimit Ligjor
+
+(ndryshuar fjalë në shkronjën “b të pikës 6 dhe shfuqizuar shkronja “e” e pikës 6  
+
+me ligjin nr. 46/2021, datë 23.3.2021)
 
 	1. Pranë Gjykatës së Lartë funksionon Njësia e Shërbimit Ligjor. 
 
@@ -518,7 +534,7 @@ Njësia e Shërbimit Ligjor
 
 	a) të jetë diplomuar në drejtësi në nivelin “Master shkencor”, të barasvlershëm me të, sipas përcaktimeve të legjislacionit të arsimit të lartë; 
 
-	b) përvojë profesionale jo më pak se 10 vjet si nëpunës i lartë në sistemin gjyqësor ose të prokurorisë, në administratën publike, profesionet e lira ligjore, mësimdhënie në fakultetet e drejtësisë, ose në çdo pozicion tjetër të barasvlershëm me to, në sektorin privat ose organizatat ndërkombëtare; 
+	b) përvojë profesionale jo më pak se 5 vjet si nëpunës i lartë në sistemin gjyqësor ose të prokurorisë, në administratën publike, profesionet e lira ligjore, mësimdhënie në fakultetet e drejtësisë, ose në çdo pozicion tjetër të barasvlershëm me to, në sektorin privat ose organizatat ndërkombëtare; 
 
 	c)  njohuri në jurisprudencën e gjykatave vendase dhe atyre ndërkombëtare;
 
@@ -528,7 +544,7 @@ Njësia e Shërbimit Ligjor
 
 	dh) të mos ketë masa disiplinore në fuqi në pozicionet e mëparshme; 
 
-		e) të jetë autor i artikujve dhe botimeve shkencore në fushën e jurisprudencës.
+			e) Shfuqizuar.
 
 	7. Këshilltari ligjor dhe ndihmësmagjistrati u nënshtrohen rregullave të papajtueshmërisë, kufizimeve në detyrë dhe konfliktit të interesave ashtu si magjistrati. 
 
@@ -692,9 +708,13 @@ Organizimi i administratës gjyqësore
 
 Neni 42
 
-Ndihmësit ligjorë të gjykatave të apelit
+Ndihmësit ligjorë të gjykatave të shkallës së parë dhe të gjykatave të apelit
 
-	1. Pranë gjykatave të apelit mund të funksionojë njësia e shërbimit ligjor, e përbërë nga ndihmësit ligjorë, e krijuar me vendim të Këshillit të Lartë Gjyqësor. Numri i ndihmësve ligjorë nuk mund të jetë më i madh se gjysma e numrit të gjyqtarëve në gjykatë.
+(ndryshuar titulli, pika 1 e 10, shtuar pika 1/1,  me ligjin nr. 46/2021, datë 23.3.2021)
+
+	1. Pranë gjykatave të shkallës së parë dhe gjykatave të apelit mund të funksionojë Njësia e Shërbimit Ligjor, e përbërë nga ndihmësit ligjorë, e krijuar me vendim të Këshillit të Lartë Gjyqësor.
+
+1/1 Këshilli i Lartë Gjyqësor cakton numrin e ndihmësve ligjorë për çdo gjykatë duke u bazuar në domosdoshmërinë e tyre për mbarëvajtjen e punës në gjykatë, pasi ka vlerësuar kriteret e përcaktuara në nenin 15, pika 3, shkronja “b”, të këtij ligji, llojin dhe natyrën e çështjeve për t’u përpunuar dhe përgatitur nga ndihmësit ligjorë, si dhe pas marrjes së mendimit të Këshillit të Gjykatës, ministrit të Drejtësisë dhe ministrit të Financave. Numri i ndihmësve ligjorë nuk mund të jetë më i madh se numri i përgjithshëm i gjyqtarëve.
 
 	2. Ndihmësi ligjor në veçanti:
 
@@ -726,7 +746,7 @@ Ndihmësit ligjorë të gjykatave të apelit
 
 	9. Ndihmësi ligjor, ndihmësi magjistrat ose jomagjistrat u nënshtrohen rregullave të papajtueshmërisë, kufizimeve në detyrë dhe konfliktit të interesave ashtu si magjistrati. 
 
-	10. Këshilli i Lartë Gjyqësor miraton rregulla të detajuara për kushtet dhe kriteret profesionale që duhet të përmbushin ndihmësit ligjorë në gjykatat e apelit, llojin dhe natyrën e detyrave të ndihmësve ligjorë, llojin dhe natyrën e çështjeve për t’u përpunuar dhe përgatitur nga ndihmësit ligjorë, për kriteret dhe procedurat për ndarjen e çështjeve me short, si dhe vlerëson rregullisht ngarkesën e punës së ndihmësve ligjorë dhe siguron një numër të përshtatshëm të tyre për çdo gjykatë apeli. 
+	10. Këshilli i Lartë Gjyqësor miraton rregulla të detajuara për kushtet dhe kriteret profesionale që duhet të përmbushin ndihmësit ligjorë në gjykatat e shkallës së parë dhe gjykatat e apelit, llojin dhe natyrën e detyrave të ndihmësve ligjorë, llojin dhe natyrën e çështjeve për t’u përpunuar dhe përgatitur nga ndihmësit ligjorë, për kriteret dhe procedurat për ndarjen e çështjeve me short, si dhe vlerëson rregullisht ngarkesën e punës së ndihmësve ligjorë dhe siguron një numër të përshtatshëm të tyre për çdo gjykatë.
 
 Neni 43
 
@@ -820,7 +840,7 @@ Neni 48
 
 	Shërbimi i arkivit gjyqësor
 
-	1. Shërbimi i arkivit gjyqësor mban dhe administron dokumentacionin gjyqësor, i cili përfshin dosje, regjistra dhe akte të tjera gjyqësore, si dhe akte që lidhen me veprimtarinë adminis-trative të gjykatës, në përputhje me legjislacionin në fuqi për arkivat shtetërorë. 
+	1. Shërbimi i arkivit gjyqësor mban dhe administron dokumentacionin gjyqësor, i cili përfshin dosje, regjistra dhe akte të tjera gjyqësore, si dhe akte që lidhen me veprimtarinë administrative të gjykatës, në përputhje me legjislacionin në fuqi për arkivat shtetërorë. 
 
 	2. Shërbimi i arkivit gjyqësor bashkëpunon me Arkivin Shtetëror të Sistemit Gjyqësor për ruajtjen, përpunimin dhe administrimin e dokumentacionit gjyqësor, i cili i nënshtrohet procedurës së arkivimit. 
 
@@ -844,13 +864,15 @@ Neni 50
 
 Kategoritë e nëpunësve civilë gjyqësorë
 
+(ndryshuar shkronja “c”  me ligjin nr. 46/2021, datë 23.3.2021)
+
 	1. Kategoritë e nëpunësve civilë gjyqësorë janë: 
 
 	a) kancelari;
 
 	b) këshilltari ligjor në Gjykatën e Lartë;
 
-	c) ndihmësi ligjor në Gjykatën e Apelit;
+	c) ndihmësi ligjor në gjykatën e shkallës së parë dhe gjykatën e apelit;
 
 	ç) kryesekretari; 
 
@@ -888,6 +910,8 @@ Neni 53
 
 Vlerësimi kualifikues për kancelar, këshilltar dhe ndihmës ligjor
 
+(ndryshuar shkronja “a”  e pikës 4, shtuar një fjali në pikën 9 me ligjin nr. 46/2021, datë 23.3.2021)
+
 	1. Shkolla e Magjistraturës ofron formim fillestar për këshilltarët dhe ndihmësit ligjorë dhe, të paktën çdo tre vjet, për kancelarët.
 
 2. Këshilli i Lartë Gjyqësor, pasi merr mendimin e kryetarëve të gjykatave, përcakton numrin e vendeve të lira për këshilltarët dhe ndihmësit ligjorë për vitin e ardhshëm dhe për kancelarët për tri vitet e ardhshme. 
@@ -896,7 +920,7 @@ Vlerësimi kualifikues për kancelar, këshilltar dhe ndihmës ligjor
 
 	4. Këshilli i Lartë Gjyqësor ka për detyrë:
 
-	a) të verifikojë nëse kandidatët i plotësojnë kriteret e përgjithshme dhe të veçanta për vendin e punës;
+	a) të verifikojë plotësimin nga kandidatët të kritereve të përgjithshme dhe të veçanta për vendin e punës, si dhe të pasurisë dhe figurës;
 
 	b) të përcaktojë listën e kandidatëve që kualifikohen për të marrë pjesë në provimin e pranimit. 
 
@@ -916,7 +940,7 @@ Vlerësimi kualifikues për kancelar, këshilltar dhe ndihmës ligjor
 
 	8. Në përputhje me pikën 7, të këtij neni, Shkolla e Magjistraturës rendit kandidatët fitues, sipas  numrit të pikëve që kanë marrë. Lista e kandidatëve fitues miratohet nga Shkolla e Magjistraturës, publikohet në faqen zyrtare të saj, dhe i paraqitet Këshillit të Lartë Gjyqësor.
 
-	9. Këshilli i Lartë Gjyqësor miraton rregulla më të hollësishme për mënyrën e përllogaritjes së numrit të kandidatëve që pranohen në programin e formimit fillestar dhe verifikimin e kandidatëve që pranohen në provimin e pranimit.
+	9. Këshilli i Lartë Gjyqësor miraton rregulla më të hollësishme për mënyrën e përllogaritjes së numrit të kandidatëve që pranohen në programin e formimit fillestar dhe verifikimin e kandidatëve që pranohen në provimin e pranimit. Për verifikimin e pasurisë dhe figurës së kandidatëve ndiqen të njëjtat rregulla, si dhe për kandidatët për formimin fillestar, për magjistratë, sipas ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë.
 
 	10. Shkolla e Magjistraturës miraton rregulla më të hollësishme për procedurën dhe vlerësimin e provimit të pranimit dhe provimit përfundimtar.
 
@@ -956,19 +980,19 @@ Kritere të përgjithshme për pranimin
 
 Kritere të veçanta për pranimin e nëpunësve civilë gjyqësorë
 
+(shtuar fjalë në pikën 2  dhe ndryshuar shkronja “b” e pikës 2 me ligjin nr. 46/2021, datë 23.3.2021)
+
 	1. Për t'u pranuar në provimin e pranimit për formimin fillestar për kancelar, kandidatët duhet të plotësojnë edhe kriteret e veçanta si vijon: 
 
 	a) të jenë diplomuar në drejtësi ose ekonomi në nivelin “Master shkencor” ose të barasvlershëm me të, sipas përcaktimeve të legjislacionit të arsimit të lartë; 
 
 	b) të kenë përvojë profesionale mbi tetë vjet, nga të cilat së paku tre vjet në pozicione administruese ose pesë vjet në sistemin gjyqësor. 
 
-	2. Për pozicionin e ndihmësit ligjor në gjykatat e apelit, kandidatët duhet të përmbushin këto kritere të veçanta:
+	2. Për pozicionin e ndihmësit ligjor në gjykatat e shkallës së parë dhe gjykatat e apelit, kandidatët duhet të përmbushin këto kritere të veçanta:
 
 	a) të jenë diplomuar në drejtësi në nivelin “Master shkencor”, të barasvlershëm me të, sipas përcaktimeve të legjislacionit të arsimit të lartë;
 
-	b) të kenë përvojë profesionale jo më pak se pesë vjet, duke përfshirë së paku tre vjet përvojë pune profesionale që lidhet me gjykatën.
-
-	3. Për pozicionin e këshilltarit ligjor në Gjykatën e Lartë, kandidatët duhet të përmbushin kriteret e parashikuara në nenin 34, pika 6, të këtij ligji. 
+	b) të kenë përvojë profesionale jo më pak se tre vjet si nëpunës në sistemin gjyqësor ose të prokurorisë, në administratën publike, profesionet e lira ligjore, mësimdhënie në fakultetet e drejtësisë, ose në çdo pozicion tjetër të barasvlershëm me to, në sektorin privat ose në organizatat ndërkombëtare.	3. Për pozicionin e këshilltarit ligjor në Gjykatën e Lartë, kandidatët duhet të përmbushin kriteret e parashikuara në nenin 34, pika 6, të këtij ligji. 
 
 	4. Për pozicionin e kryesekretarit, kandidatët duhet të përmbushin këto kritere të veçanta: 
 
@@ -1154,6 +1178,8 @@ Dosja dhe Regjistri Qendror i Personelit
 
 	Të drejtat dhe detyrat e nëpunësit civil gjyqësor
 
+(shfuqizuar pika 10 me ligjin nr. 46/2021, datë 23.3.2021)
+
 	1. Nëpunësit civilë gjyqësorë gëzojnë të drejta dhe u nënshtrohen detyrimeve, sipas dispozitave të parashikuara në kapitullin e të drejtave dhe detyrimeve në shërbimin civil të ligjit “Për nëpunësin civil”, përveç kur në këtë ligj parashi-kohet ndryshe.
 
 	2. Nëpunësit civilë gjyqësorë kanë të drejtë të ankimojnë vendimet e Këshillit të Gjykatës në Gjykatën Administrative të Apelit.
@@ -1180,7 +1206,7 @@ Dosja dhe Regjistri Qendror i Personelit
 
 	9. Për shkaqe shëndetësore ose për shkaqe të tjera të justifikuara, miratuar me vendim nga Këshilli Drejtues i Shkollës së Magjistraturës, detyrimi për kthimin e shumës së përfituar të bursës së shkollimit, sipas parashikimeve të pikës 8, të këtij neni, nuk zbatohet për kandidatin. 
 
-	10. Nëpunësi civil gjyqësor në gjykatat e posaçme për gjykimin e veprave penale të korrupsionit dhe krimit të organizuar përfiton shtesë për vështirësi në masën 10 për qind të pagës përkatëse.  
+	10. Shfuqizuar..  
 
 	Neni 65
 
@@ -1522,6 +1548,14 @@ Statusi i kancelarëve në detyrë
 
 	9. Këshilli i Lartë Gjyqësor miraton rregulla të detajuara për kritere të tjera që lidhen me specifikat e funksionit të kancelarit, si dhe për procedurat që ndiqen, me qëllim zbatimin e unifikuar të standardeve në përputhje me legjislacionin në fuqi. 
 
+ Neni 83/1
+
+Përvoja profesionale e zëvendëskryetarit të gjykatës
+
+(shtuar me ligjin nr. 46/2021, datë 23.3.2021)
+
+Përjashtimisht, deri në përfundimin e procesit të rivlerësimit kalimtar të gjyqtarëve dhe prokurorëve sipas ligjit, kandidati për zëvendëskryetar të gjykatës së shkallës së parë duhet të ketë të paktën tre vjet përvojë profesionale si gjyqtar, ndërsa kandidati për zëvendëskryetar të gjykatës së apelit duhet të ketë të paktën tre vjet përvojë profesionale si gjyqtar i gjykatës së apelit.
+
 Neni 84
 
 Statusi i nëpunësit civil në detyrë në Gjykatën e Lartë
@@ -1542,9 +1576,13 @@ Neni 85
 
 Statusi i punonjësve të tjerë në detyrë në gjykata
 
+(shtuar pika 2/1 me ligjin nr. 46/2021, datë 23.3.2021)
+
 	1. Gjykata ngre Këshillin e Gjykatës brenda katër muajve nga krijimi i Këshillit të Lartë Gjyqësor. 
 
 	2. Brenda afatit 6-mujor nga krijimi i Këshillit të Gjykatës, Këshilli i Gjykatës vlerëson plotësimin e kritereve formale të punonjësve në detyrë për pozicionin që kryejnë, sipas këtij ligji, me përjashtim të kancelarit, këshilltarit dhe ndihmësit ligjor. Nëse punonjësi në detyrë nuk plotëson kriteret formale të pozicionit përkatës, Këshilli i Gjykatës vlerëson mundësitë ekzistuese për sistemimin në një pozicion tjetër brenda administratës së gjykatës të përshtatshëm dhe në përputhje me kriteret ligjore dhe profesionale nëse nuk ka arsye për përfundimin e marrëdhënieve të punës.
+
+2/1 Për sekretarët gjyqësorë në detyrë, që kanë mbi 3 vjet përvojë pune në këtë pozicion dhe janë me arsim të lartë, kriteri i diplomimit në drejtësi nuk përbën shkak për të mos njohur statusin e nëpunësit gjyqësor civil, nëse Këshilli i Gjykatës vlerëson pozitivisht performancën e tij në punë.
 
 		3. Punonjësi në detyrë në gjykatë ka të drejtë të dëgjohet, të paraqesë deklarata dhe prova të tjera, si dhe të përfaqësohet.
 
@@ -1622,7 +1660,7 @@ Shfuqizime
 
 	1. Ligji nr. 9877, datë 18.2.2008, “Për organizimin e pushtetit gjyqësor në Republikën e Shqipërisë”, të ndryshuar, shfuqizohet me hyrjen në fuqi të këtij ligji, me përjashtim të: 
 
-	a) nenit 18, pikat 1 dhe 3, shkronja “b”, të ligjit nr. 9877, datë 18.2.2008 “Për organizimin e pushtetit gjyqësor në Republikën e Shqipërisë”, të ndryshuar, të cilat shfuqizohen katër muaj pas ngritjes së Këshillit të Lartë Gjyqësor;
+			a) nenit 18, pikat 1 dhe 3, shkronja “b”, të ligjit nr. 9877, datë 18.2.2008 “Për organizimin e pushtetit gjyqësor në Republikën e Shqipërisë”, të ndryshuar, të cilat shfuqizohen katër muaj pas ngritjes së Këshillit të Lartë Gjyqësor;
 
 		b) nenit 18, pika 2, të ligjit nr. 9877, datë 18.2.2008, “Për organizimin e pushtetit gjyqësor në Republikën e Shqipërisë”, të ndryshuar, e cila shfuqizohet 18 muaj pas hyrjes në fuqi të këtij ligji;
 
