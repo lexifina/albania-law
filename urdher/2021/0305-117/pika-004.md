@@ -1,0 +1,1 @@
+4. Dokumenti i identifikimit përdoret vetëm gjatë ushtrimit të detyrës ose për shkak të saj dhe paraqitet në çdo rast të ushtrimit të detyrës nga përmbaruesi gjyqësor privat. Përmbaruesi gjyqësor privat nuk mund të kryejë veprime procedurale pa qenë i pajisur me dokumentin identifikues.

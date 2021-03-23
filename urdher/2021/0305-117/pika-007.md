@@ -1,0 +1,1 @@
+7. Tarifa për pajisjen me dokumentin e identifikimit dhe plumbin e sekuestrimit përmbarimor, që mbulon koston e prodhimit të tyre, caktohet nga Dhoma Kombëtare e Përmbaruesve Gjyqësorë Privatë, sipas rregullave të organizimit të brendshëm të kësaj dhome.

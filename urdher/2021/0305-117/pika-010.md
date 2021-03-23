@@ -1,0 +1,1 @@
+10. Procesi i dorëzimit, arkivimit apo përkatësisht rikthimit pasqyrohet në procesverbalin përkatës që mbahet nga strukturat përgjegjëse për monitorimin e veprimtarisë së përmbaruesit gjyqësor privat në Ministrisë e Drejtësisë.

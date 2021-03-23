@@ -1,0 +1,1 @@
+8. Përmbaruesi gjyqësor privat i pezulluar, dorëzon dokumentin e identifikimit dhe plumbin e sekuestrimit përmbarimor pranë Drejtorisë së Përgjithshme Rregullatore të Çështjeve të Drejtësisë, brenda pesë ditëve nga marrja e njoftimit të urdhrit përkatës.

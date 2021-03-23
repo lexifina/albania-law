@@ -1,0 +1,1 @@
+9. Dokumenti i identifikimit dhe plumbi i sekuestrimit arkivohen në dosjen personale të përmbaruesit me shënimin përkatës dhe i kthehet përmbaruesit vetëm më riaktivizimin e veprimtarisë përmbarimore, sipas legjislacionit në fuqi.
