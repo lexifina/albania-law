@@ -1,0 +1,2 @@
+Miratimin e letërmarrëveshjes ndryshuese ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt am Main (KfW), për përdorimin e fondeve të mbetura nga programi “Mbrojtja mjedisore e liqenit të Shkodrës”, për t’u përdorur për financimin e shërbimit të borxhit për marrëveshjen e huas, për programin “Infrastruktura bashkiake II”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

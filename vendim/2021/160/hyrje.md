@@ -1,0 +1,5 @@
+VENDIM
+Nr. 160, datë 17.3.2021
+PËR MIRATIMIN E LETËRMARRËVESHJES NDRYSHUESE NDËRMJET REPUBLIKËS SË SHQIPËRISË, PËRFAQËSUAR NGA MINISTRIA E FINANCAVE DHE EKONOMISË, DHE KfW FRANKFURT AM MAIN (KfW), PËR PËRDORIMIN E FONDEVE TË MBETURA NGA PROGRAMI “MBROJTJA MJEDISORE E LIQENIT TË SHKODRËS”, PËR T’U PËRDORUR PËR FINANCIMIN E SHËRBIMIT TË BORXHIT PËR MARRËVESHJEN E HUAS PËR PROGRAMIN “INFRASTRUKTURA BASHKIAKE II”
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 19 e 23, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+vendosi:
