@@ -18,3 +18,10 @@ l) Vlerëson nevojat dhe harton buxhetin vjetor e afatmesëm të institucionit;
 ll) Siguron burimet njerëzore dhe garanton zhvillimin - trajnimin e tyre në përputhje me kërkesat e pozicionit të punës, si dhe kryen vlerësimin e performancës;
 m) Mirëmban pajisjet dhe asetet në dispozicion për zhvillimin e veprimtarisë;
 n) Kryen detyra të tjera të dhëna me akte ligjore dhe nënligjore.
+6/1. Në Agjencinë Kombëtare të Bregdetit krijohet Komisioni i Ankimit të AKB-së, i cili drejtohet nga drejtori i përgjithshëm dhe, si rregull, ka në përbërje të tij:
+a) drejtuesin e njësisë përgjegjëse për performancën dhe menaxhimin e integruar të zonave bregdetare;
+b) drejtuesin e njësisë përgjegjëse për sigurimin e zhvillimit të qëndrueshëm të turizmit të zonave bregdetare;
+c) drejtuesin e njësisë përgjegjëse për shërbimet mbështetëse;
+ç) nëpunësin përgjegjës për çështjet juridike/ligjore të agjencisë, në cilësinë e sekretarit të Komisionit të Ankimit të AKB-së.
+6/2. Në mungesë të anëtarëve të komisionit të përcaktuar në pikën 6.1 të këtij kreu, për shkak të mosplotësimit të pozicionit të punës, drejtori i përgjithshëm cakton zëvendësuesin e njësisë përgjegjëse respektive, deri në plotësimin e vendit vakant.
+6/3. Mënyra e organizimit dhe e funksionimit të Komisionit të Ankimit të AKB-së përcaktohet me urdhër të drejtorit të përgjithshëm të AKB-së.
