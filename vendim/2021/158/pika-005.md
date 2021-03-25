@@ -1,0 +1,7 @@
+5. Për shpalljen e gjendjes së fatkeqësisë natyrore, kur sigurohen të dhënat, sipas pikës 3, të këtij vendimi, ndiqen këto procedura:
+a) Në Agjencinë Kombëtare të Mbrojtjes Civile, në një kohë sa më të shpejtë nga momenti i konstatimit të një dukurie, të parashikuar në pikën 3, të këtij vendimi, dërgohen raporte me të dhëna nga autoritetet e listuara, më poshtë vijon:
+i. institucionet, institutet dhe strukturat shtetërore përgjegjëse për monitorimin e vlerësimin e intensitetit të fatkeqësisë, të cilat, në varësi të llojit të fatkeqësisë, dërgojnë të dhënat e para të regjistruara në mënyrë periodike, plotësojnë këto të dhëna, përgatisin raporte deri në shuarjen e plotë të aktivitetit të fatkeqësisë;
+ii. prefekti i qarkut dhe kryetari i bashkisë, për gjendjen e dëmeve të shkaktuara nga fatkeqësia në territorin e përgjegjësisë së tyre.
+b) Raporti i vlerësimit paraprak të dëmeve të shkaktuara nga fatkeqësia, i dërguar nga kryetari i bashkisë dhe prefekti i qarkut, shoqërohet me kërkesë për shpalljen e gjendjes së fatkeqësisë natyrore.
+c) Me marrjen e të dhënave dhe të kërkesës, sipas shkronjave “a” dhe “b”, të kësaj pike, Agjencia Kombëtare e Mbrojtjes Civile analizon e vlerëson të dhënat dhe paraqet raportin e situatës e, sipas rastit, i propozon ministrit përgjegjës për mbrojtjen civile për shpalljen e gjendjes së fatkeqësisë natyrore.
+ç) Këshilli i Ministrave, me propozimin e ministrit përgjegjës për mbrojtjen civile, vendos shpalljen e gjendjes së fatkeqësisë në të gjithë territorin ose për një pjesë të territorit të vendit.
