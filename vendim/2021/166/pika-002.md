@@ -1,0 +1,1 @@
+2. Ngarkohet Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Fier, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë të pafrytshme”, të pasurive me numër 821/46 dhe 822/34, zona kadastrale 1492, Bashkia Divjakë.
