@@ -1,0 +1,1 @@
+4. Për shpenzime që janë të përshtatshme të kryhen në vendin pritës, prokurori ndërlidhës dërgon ofertat në Prokurorinë e Përgjithshme, e cila përzgjedh dhe miraton ofertën më të përshtatshme, në përputhje me rregullat e përcaktuara në ligjin e prokurimit publik, të ndryshuar.

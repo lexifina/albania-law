@@ -1,0 +1,1 @@
+10. Ngarkohet Prokuroria e Përgjithshme për përcaktimin e fondeve të këtyre shpenzimeve dhe të masës së mbulimit të tyre, në përputhje me parashikimet e ligjit për menaxhimin e sistemit buxhetor dhe akteve nënligjore në zbatim të tij.

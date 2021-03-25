@@ -1,0 +1,1 @@
+3. Çdo fëmijë nën moshën 18 vjeç, që jeton me prokurorin ndërlidhës në vendin pritës, përfiton shpërblim mujor me vlerën 20 për qind të pagës së gradës “Atashe”, të vendit pritës. Ky shpërblim i nënshtrohet tatimit mbi të ardhurat, sipas legjislacionit në fuqi në Republikën e Shqipërisë. Shpërblimi i fëmijës derdhet në llogarinë e prokurorit ndërlidhës.

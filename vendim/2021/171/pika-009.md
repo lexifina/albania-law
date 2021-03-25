@@ -1,0 +1,1 @@
+9. Prokurori ndërlidhës ka të drejtë të përfitojë shpenzime udhëtimi, akomodimi dhe dietë në valutë të huaj, sipas legjislacionit në fuqi, kur emërohet në detyrë, thirret në atdhe ose dërgohet me shërbim në një shtet tjetër, si dhe kur kthehet në atdhe, në përfundim të detyrës.
