@@ -1,0 +1,26 @@
+{
+  "qbz_id": 54377,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 44/2012, “Për shëndetin mendor”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "20",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2021-02-15",
+  "published": "2021-03-11",
+  "in_force": "2021-03-26",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/b43175dd8b7a91c46e0c5374986fc1e8417eade618026565c2a8338b2d4ed6f5.docx",
+  "source_sha256": "b43175dd8b7a91c46e0c5374986fc1e8417eade618026565c2a8338b2d4ed6f5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/54377",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2021/02/15/20",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
