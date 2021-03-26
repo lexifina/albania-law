@@ -1,0 +1,5 @@
+# Neni 16
+Kujdesi në familje
+1. Kujdesi në familje realizohet nga autoritetet shtetërore përgjegjëse, që kujdesen për personat me çrregullime të shëndetit mendor, nga organet e pushtetit vendor dhe nga organizatat jofitimprurëse që veprojnë në këtë fushë, në bashkëpunim me vetë personin me çrregullime të shëndetit mendor dhe familjen e tij, si dhe ndihmësin personal sipas legjislacionit në fuqi. Kujdesi në familje nënkupton mbështetjen psikologjike, psiko-pedagogjike, shërbimet e ndihmës personale ose familjare, si dhe mbështetjen me pagesa dhe shërbime sipas legjislacionit përkatës.
+2. Familjet, që kanë persona me çrregullime të shëndetit mendor, në bashkëpunim me institucionet përgjegjëse shtetërore dhe organizatat jofitimprurëse që merren me kujdesin, trajtimin dhe rehabilitimin e personave me çrregullime të shëndetit mendor, kujdesen dhe mbështesin këta persona për integrimin e tyre në familje, komunitet dhe shoqëri.
+3. Organet e pushtetit vendor, brenda kompetencave të tyre, në bashkëpunim me strukturat shëndetësore, marrin të gjitha masat për të mbështetur personat me çrregullime të shëndetit mendor dhe familjet e tyre.
