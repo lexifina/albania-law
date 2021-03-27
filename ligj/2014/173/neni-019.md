@@ -11,5 +11,11 @@ e) kryerja në të njëjtën kohë e më shumë se një shkeljeje disiplinore;
 ë) kryerja e shkeljes disiplinore në bashkëpunim;
 f) kryerja e një shkeljeje disiplinore gjatë kohës që është duke vuajtur dënimin për një tjetër shkelje disiplinore;
 g) kryerja e një shkeljeje disiplinore gjatë kohës që është në procedim disiplinor për një shkelje tjetër disiplinore;
-gj) kryerja e shkeljes disiplinore në situatë lufte, si dhe në mision apo stërvitje jashtë vendit.
-2. Në rastet e kryerjes së një shkeljeje disiplinore në kushtet e rrethanave rënduese, ushtaraku i Forcave të Armatosura ndëshkohet me masën më të rëndë të kategorisë konkrete.
+gj) Kryerja e shkeljes disiplinore gjatë trajnimeve, kualifikimeve, arsimimit, shërbimit, stërvitjes apo misionit jashtë vendit.
+h) kryerja e shkeljes disiplinore nga oficerë me grada të larta.
+i) kryerja e shkeljes disiplinore në situatë lufte, gjendje të jashtëzakonshme apo fatkeqësie natyrore.
+j) kryerja e shkeljes disiplinore gjatë operacioneve ose misioneve brenda vendit.
+2. Në rastet e kryerjes së një shkeljeje të lehtë disiplinore, në kushtet e rrethanave rënduese, ushtaraku i Forcave të Armatosura ndëshkohet me një nga masat e përcaktuara në shkronjat “c” dhe “ç” të pikës 1 të nenit 14 të këtij ligji.
+3. Në rastet e kryerjes së një shkeljeje të rëndë disiplinore, në kushtet e rrethanave rënduese, ushtaraku i Forcave të Armatosura ndëshkohet me një nga masat e përcaktuara në shkronjat “c” dhe “ç” të pikës 2 të nenit 14 të këtij ligji.
+4. Në rastet e kryerjes së një shkeljeje shumë të rëndë disiplinore, në kushtet e rrethanave rënduese, ushtaraku i Forcave të Armatosura ndëshkohet me një nga masat e përcaktuara në shkronjat “c”, “ç”, “d” dhe “dh” të pikës 3 të nenit 14 të këtij ligji.
+5. Përcaktimet e këtij neni nuk zbatohen për oficerët me grada madhore.
