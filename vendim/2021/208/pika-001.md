@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare, në shumën 1 000 000 (një milion) lekë, familjes së Dëshmorit të Atdheut Arjan Sala, i cili humbi jetën gjatë ndërhyrjes për shpëtimin e jetëve të personave të rrezikuar nga zjarri i rënë në mjediset e tij të punës, në datën 24 mars 2021.
