@@ -17,7 +17,7 @@ a) për shtetasit shqiptarë:
 - numri i identifikimit personal;
 - datëlindja;
 - shtetësia;
-- adresa e rezidencës së përhershme;
+- adresa e vendbanimit;
 b) për shtetasit e huaj:
 - emri dhe mbiemri;
 - numri i identifikimit personal;
@@ -31,7 +31,8 @@ c) për refugjatët/personat pa shtetësi:
 - numri i dokumentit të udhëtimit;
 - datëlindja;
 - shteti që ka lëshuar dokumentin e udhëtimit;
-- data e lëshimit dhe data e skadimit e dokumentit të udhëtimit.
+- data e lëshimit dhe data e skadimit e dokumentit të udhëtimit;
+-adresa e vendbanimit.
 3.2.2 Data e përcaktimit të individit si pronar përfitues.
 3.2.3 Lloji dhe përqindja e pronësisë:
 3.2.3.1 Direkte;

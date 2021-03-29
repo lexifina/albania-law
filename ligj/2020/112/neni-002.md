@@ -15,5 +15,5 @@ gj) personat juridikë dhe ndërmarrjet, aksionarët e të cilëve, përveç ins
 2. Ky ligj nuk zbatohet për:
 a) personat fizikë, tregtarë të regjistruar në regjistrin tregtar;
 b) personat juridikë dhe ndërmarrjet, aksionari i vetëm i të cilëve janë institucionet qendrore dhe/ose vendore të Republikës së Shqipërisë;
-c) komunitetet fetare;
+c) bashkësitë fetare;
 ç) partitë politike.
