@@ -1,0 +1,4 @@
+1. Përdorimin e fondit të rindërtimit, në masën 998 675 000 (nëntëqind e nëntëdhjetë e tetë milionë e gjashtëqind e shtatëdhjetë e pesë mijë) lekë, për financimin e rikonstruksionit të njësive individuale të banimit dhe njësive të banimit në ndërtesa (pallat) për ata individë, të cilët përfitojnë nga grantet e rikonstruksionit, banesat e të cilëve janë klasifikuar si objekte të dëmtuara rëndë apo të dëmtuara lehtë si pasojë e fatkeqësisë natyrore dhe që nuk duhen rindërtuar nga e para, por kanë nevojë për punime rikonstruksioni ose riparime, në bashkitë Tiranë, Durrës dhe Vorë, sipas detajimit të mëposhtëm:
+a) Bashkisë Durrës i transferohet fondi në masën 860 700 000 (tetëqind e gjashtëdhjetë milionë e shtatëqind mijë) lekë;
+b) Bashkisë Vorë i transferohet fondi në masën 2 000 000 (dy milionë) lekë;
+c) Bashkisë Tiranë i transferohet fondi në masën 135 975 000 (njëqind e tridhjetë e pesë milionë e nëntëqind e shtatëdhjetë e pesë mijë) lekë.
