@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Tiranë të pasurisë 7/291, zona kadastrale 8330, Tiranë, me sipërfaqe ndërtese 708.5 (shtatëqind e tetë pikë pesë) m2 dhe sipërfaqe trualli 1 033 (një mijë e tridhjetë e tre) m2, sipas planrilevimit bashkëlidhur këtij vendimi, me qëllim ushtrimin e funksioneve administrative të Bashkisë Tiranë.

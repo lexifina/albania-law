@@ -1,0 +1,1 @@
+3. Vendimi nr. 568, datë 23.8.2006, i Këshillit të Ministrave, “Për kalimin e disa mjediseve në përgjegjësi administrimi të Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit, për Agjencinë e Legalizimit, Urbanizimit dhe Integrimit të Zonave/Ndërtimeve Informale (ALUIZNI)”, shfuqizohet.
