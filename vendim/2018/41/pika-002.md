@@ -1,4 +1,4 @@
-2. Elementet që përbëjnë strukturën e programeve të studimit, të ofruara nga IAL-të, konsistojnë në:
+2. Elementet që përbëjnë strukturën e programeve të studimit, të ofruara nga IAL-të, me përjashtim të studimeve të doktoratës, konsistojnë në:
 a) kreditet, sipas Sistemit Evropian të Transferimit të Krediteve (ECTS);
 b) kontrollin e dijeve dhe instrumentet e vlerësimit;
 c) rezultatet e të nxënit dhe kompetencat profesionale;
@@ -10,6 +10,16 @@ e) kuotat e pranimit dhe grupet mësimore;
 f) profilin e programit;
 g) diplomën dhe suplementin;
 gj) kodin e etikës.
+2/1. Elementet që përbëjnë strukturën e programeve të doktoratës konsistojnë:
+a) Për studimet e doktoratës hartohen projekte kërkimore-shkencore dhe zhvillimi të aprovuara dhe me financim të siguruar nga IAL-ja. Pas aktit të hapjes/riorganizimit të programit të studimeve të doktoratës e certifikimit të kapaciteteve akademike dhe infrastrukturore, studentët e pranuar mund të përfitojnë financim sipas ligjit. Njësia bazë mund të ofrojë më shumë se një projekt kërkimor për fushën e kërkimit që mbulon;
+b) Studimet e doktoratës organizohen në fusha/nënfusha kërkimi. Ato përmbajnë veprimtari kërkimore-shkencore, me qëllim garantimin e formimit në fushën/nënfushën përkatëse të studimit;
+c) Në bazë të projekteve kërkimore-shkencore, njësia bazë përgjegjëse për studimet e doktoratës përcakton numrin e studentëve doktorantë dhe IAL-ja, me vendim të Senatit Akademik, deklaron numrin e doktorantëve, në përputhje me standardet shtetërore të cilësisë dhe certifikimin e kapaciteteve akademike e infrastukturore nga ministria përgjegjëse për arsimin.
+Njësia përgjegjëse e programit të studimeve të doktoratës duhet të garantojë standardet akademike dhe të ofrojë infrastrukturën e domosdoshme për realizimin e projektit kërkimor-shkencor.
+ç) Në rregulloren e programit të studimit të doktoratës, njësia bazë:
+i. përcakton kriteret e pranimit të studentëve, sipas parimit të thellimit të studimit në fushë të njëjtë apo të përafërt me studimet e ciklit të parë dhe të dytë;
+ii. bashkërendon, në funksion të realizimit të projektit kërkimor-shkencor, veprimtarinë kërkimore-shkencore dhe krijuese të studentëve;
+iii. parashikon në mënyrë të detajuar rregullat e organizimit e të funksionimit të programit të doktoratës;
+iv. parashikon në mënyrë të detajuar administrimin e të dhënave të çdo doktoranti lidhur me veprimtarinë kërkimore-shkencore e krijuese të tij dhe detyrimin për raportimin e vlerësimit të progresit të doktorantit.
 2.1 Kreditet sipas ECTS-së
 a) Krediti i formimit të arsimit të lartë i referohet ECTS-së dhe shpreh volumin e punës mësimore për arritjen e rezultateve të pritshme mësimore.
 b) Një krediti i korrespondojnë 25 (njëzet e pesë) orë mësimore pune të studentit.
@@ -64,28 +74,19 @@ ii) kreditet përkatëse.
 a) IAL-të përcaktojnë kuotat e lira për regjistrimet e reja të studentëve për çdo program studimi në përputhje me standardet e përcaktuara për raportin personel akademik me kohë të plotë për studentë dhe normativën e përcaktuar për sipërfaqen e shfrytëzueshme për student, sipas përcaktimeve në vendimin nr. 418, datë 10.5.2017, të Këshillit të Ministrave, “Për standardet, kriteret dhe procedurat për hapjen, riorganizimin, ndarjen, bashkimin ose mbylljen e institucioneve të arsimit të lartë dhe të degëve të tyre”. Kuotat e pranimit llogariten mbi bazën e studentëve aktivë, që ndjekin programet e studimit. Ato bëhen publike nga IAL-të dhe i përcillen Qendrës së Shërbimeve Arsimore dhe ministrisë përgjegjëse për arsimin.
 b) Në varësi të ecurisë së regjistrimeve, kapaciteti i kuotave të programeve mund të përshtatet nga IAL-të në përputhje me interesin e studentëve, për programet e të njëjtit cikël studimi, që ofrohen nga njësitë bazë të së njëjtës njësi kryesore, duke mos tejkaluar, në asnjë rast, totalin e kapacitetit të deklaruar të kuotave, të përcaktuar në nivel njësie kryesore.
 c) Kuotat në dispozicion për transferimin e studentëve nga IAL të tjera ose brenda së njëjtës IAL përbëhen nga kuotat e paplotësuara nga regjistrimet e vitit të mëparshëm dhe kapacitetet që mund të krijohen, si rezultat i çregjistrimit të studentëve gjatë vitit akademik. Transferimet pranohen në fillim të çdo viti akademik, jo më vonë se fundi i javës së pestë të semestrit të parë.
-ç) Kuotat në dispozicion të transferimeve mund të shfrytëzohen edhe nga studentë, të cilët ndërpresin studimet në një program për t’u regjistruar në një program të të njëjtit cikël studimi, që i përket një fushe të ndryshme studimesh nga ajo e mëparshmja, nëse numri i krediteve, që njihen nga IAL-ja pritëse, është i mjaftueshëm për t’u regjistruar në vitin e dytë të studimeve.
+ç) Shfuqizuar.
 d) Numri i studentëve, që përmban grupi mësimor sipas fushës së programit të studimit, përcaktohet në shtojcën nr. 1, tabela nr. 2, që i bashkëlidhet këtij vendimi.
 2.8 Modeli i programit të lëndës, që do të përdoret për hartimin e syllabus-eve, duhet të përmbajë elementet sipas përcaktimeve në shtojcën nr. 3, që i bashkëlidhet këtij vendimi.
 2.9 Profili i programit
 a) Programi i studimit mund të organizohet në profile, të cilat ofrojnë specializime në drejtime të ngushta të fushës së programit të studimit, në fusha integruese ose ndërdisiplinore të përafërta.
 b) Emërtimi i profilit të programit të studimit shënohet në diplomën, që lëshohet në përfundim të tij.
-c) Me vendim të Senatit Akademik, institucioni i arsimit të lartë ka të drejtë të bëjë ndryshime të profileve (të hapë, të mbyllë ose të riorganizojë) brenda programit të studimit. IAL-ja njofton ministrinë përgjegjëse për arsimin, jo më vonë se gjashtë muaj përpara fillimit të vitit akademik, për ndryshimet deri në masën 20 për qind të përmbajtjes së programit, të shprehur në kredite ECTS.
+c) Me vendim të Senatit Akademik, institucioni i arsimit të lartë ka të drejtë të bëjë ndryshime profilizuese brenda programit të studimit të akredituar pa ndryshuar emërtimin e programit të studimit. IAL-ja njofton ministrinë përgjegjëse për arsimin jo më vonë se gjashtë muaj përpara fillimit të vitit akademik për ndryshimet profilizuese deri në masën 20 për qind të përmbajtjes së programit, të shprehur në kredite ECTS.
 2.10 Diploma/certifikata dhe suplementi i saj
-Diplomat/certifikatat, që lëshohen në përfundim të programeve të studimit me karakter profesional të ciklit të parë e të dytë si dhe ato të ciklit të tretë “master ekzekutiv”, shoqërohen me suplementin e diplomës.
+Diplomat/certifikatat, që lëshohen në përfundim të programeve të studimit të ciklit të parë, të dytë, si dhe ato të ciklit të tretë “Master ekzekutiv”, shoqërohen me suplementin e diplomës.
 2.11 Kodi i Etikës
 a) Tërësia e rregullave, pritshmërive dhe sanksioneve përkatëse, të cilat kodifikohen në nivel IAL-je ndaj studentëve, personelit akademik dhe atij ndihmësakademik, për t’u sjellë me integritet akademik, mbështetur në ndershmërinë;
 b) Elementet e Kodit të Etikës, që prekin aktivitetin studentor, listohen në syllabus-e, sidomos për sa i përket detyrimit të studentëve për të mos kopjuar në provime, në punën e dikujt tjetër, për të mos fabrikuar të dhëna dhe respektuar dinjitetin e integritetin njerëzor e profesional të studentëve të tjerë dhe personelit akademik e atij mbështetës;
 c) Studimet e doktoratës kanë një kod etike të dedikuar, që specifikon standardet etike të kërkimit, të cilat duhen respektuar, dhe rastet e procedurat kur, si pasojë e thyerjes së Kodit të Etikës, doktoranti mund të përjashtohet nga studimet e doktoratës ose mund t’i revokohet grada shkencore.”.
-2.12 Studimet e doktoratës
-a) Studimet e doktoratës zhvillohen pranë njësisë bazë, si pjesë e projektit kërkimor-shkencor të aprovuar dhe me financim të siguruar nga IAL-ja. Pas licencimit të programit të studimeve të doktoratës dhe certifikimit të kuotave, studentët e pranuar mund të përfitojnë nga financimi i siguruar nga IAL-ja, financim nga subjekte të tjera apo të vetëfinancohen. Njësia bazë mund të ofrojë më shumë se një projekt kërkimor për fushën e kërkimit që mbulon;
-b) Studimet e doktoratës organizohen në fusha kërkimi. Ato përmbajnë veprimtari kërkimore-shkencore dhe veprimtari akademike, sipas përcaktimeve të tabelës 1, të shtojcës 1, të këtij vendimi, me qëllim garantimin e formimit akademik shkencor në fushën përkatëse të studimit;
-c) Personeli akademik, i angazhuar në studimet e doktoratës, është i kategorisë “profesor”. Njësia përgjegjëse e programit të studimeve të doktoratës duhet të garantojë standardet akademike dhe të ofrojë infrastrukturën e domosdoshme për realizimin e projektit kërkimor-shkencor;
-ç) Numri i studentëve doktorantë përcaktohet nga njësia bazë përgjegjëse për studimet e doktoratës, pas verifikimit dhe certifikimit të kapaciteteve nga ministria përgjegjëse për arsimin;
-d) Në rregulloren e programit të studimit të doktoratës njësia bazë:
-i. përcakton kriteret e pranimit të studentëve sipas parimit të thellimit të studimit në fushë të njëjtë apo të përafërt me studimet e ciklit paraardhës;
-ii. bashkërendon, në funksion të realizimit të projektit kërkimor-shkencor, veprimtarinë akademike të studentëve;
-iii. parashikon në mënyrë të detajuar rregullat e organizimit e të funksionimit të programit të doktoratës;
-dh) Njësia bazë, përgjegjëse për programin e doktoratës, administron të dhënat e çdo doktoranti, në lidhje me veprimtarinë akademike dhe kërkimore-shkencore të tij, si dhe raportet e vlerësimit të progresit.
+2.12 Shfuqizuar.
 2.13. Specializimet afatgjata
 Programet e studimeve specializuese afatgjata janë programe të formimit profesional, që ofrojnë njohuri për profesione të veçanta. Elementet e këtyre programeve, sipas fushave, përcaktohen me udhëzim të ministrit përgjegjës për arsimin.
