@@ -1,0 +1,3 @@
+2. Përdorimi i fondit të rindërtimit, për vitin 2021, për financimin e rikonstruksionit të objekteve arsimore, në Bashkitë Mirditë dhe Kamzë, në masën 93 386 017 (nëntëdhjetë e tre milionë e treqind e tetëdhjetë e gjashtë mijë e shtatëmbëdhjetë) lekë pa TVSH, detajohet, si më poshtë vijon:
+a) Bashkisë Mirditë i transferohet fondi në masën 20 544 017 (njëzet milionë e pesëqind e dyzet e katër mijë e shtatëmbëdhjetë) lekë pa TVSH, në formën e transfertës së pakushtëzuar;
+b) Bashkisë Kamzë i transferohet fondi në masën 72 842 000 (shtatëdhjetë e dy milionë e tetëqind e dyzet e dy mijë) lekë pa TVSH, në formën e transfertës së pakushtëzuar.
