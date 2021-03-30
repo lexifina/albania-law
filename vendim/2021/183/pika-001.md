@@ -1,0 +1,19 @@
+1. Miratimin e ndërtimit të centralit gjenerues të energjisë elektrike fotovoltaike dhe veprave ndihmëse “Blue 2”, i cili nuk përfiton nga masat mbështetëse, në zonën Sheq-Marinas, Bashkia Fier, qarku Fier, nga bashkimi i përkohshëm i shoqërive “Blessed Investment” sh.p.k. dhe “Matrix Konstruksion” sh.p.k., me elementet si më poshtë vijon:
+a) Emri i aplikuesit: bashkimi i përkohshëm i shoqërive “Blessed Investment” sh.p.k. dhe “Matrix Konstruksion” sh.p.k.;
+b) Numri i identifikimit personal të zyrës së taksave NIPT/NUIS:
+“Blessed Investment” sh.p.k. - L71423028S
+“Matrix Konstruksion” sh.p.k. - J91306009Q.
+c) Tipi centralit: fotovoltaik;
+ç) Kapaciteti i instaluar: 50 mw;
+d) Afati i pritshëm i vënies në punë: koha për ndërtimin e vënien në operim të parkut fotovoltaik do të jetë brenda 50 (pesëdhjetë) muajve nga marrja e lejes së ndërtimit;
+dh) Vendndodhja e burimit gjenerues të energjisë: centrali fotovoltaik “Blue 2”, zona Sheq-Marinas, Bashkia Fier, qarku Fier;
+e) Afati i miratimit të ndërtimit: 60 (gjashtëdhjetë) muaj nga hyrja në fuqi e këtij miratimi;
+ë) Koordinatat e tokës sipas aneksit 1, që i bashkëlidhet këtij vendimi;
+f) Ministria e Infrastrukturës dhe Energjisë dhe institucione të tjera të autorizuara prej saj kanë të drejtë të ushtrojnë mbikëqyrje të përgjithshme me afate 3-mujore, gjatë realizimit e vënies në punë, me synim që të verifikojnë se ecuria e punimeve, cilësia dhe konformiteti të jenë në përputhje me programin e përgjithshëm të realizimit e të dokumentacionit të projektit;
+g) Transferimi i së drejtës për ndërtim të burimit gjenerues të energjisë elektrike fotovoltaike dhe veprave ndihmëse, i cili nuk përfiton nga masat mbështetëse, në zonën Sheq-Marinas, Bashkia Fier, qarku Fier, e dhënë sipas këtyre rregullave, mund të transferohet te një person i tretë, tërësisht ose pjesërisht, vetëm me miratimin e Ministrisë së Infrastrukturës dhe Energjisë;
+gj) Bashkimi i përkohshëm i shoqërive “Blessed Investment” sh.p.k. dhe “Matrix Konstruksion” sh.p.k., ka detyrimin që:
+i. të paraqesë periodikisht (çdo tre muaj) pranë Ministrisë së Infrastrukturës dhe Energjisë ose institucioneve të tjera të autorizuara prej saj informacion për ecurinë e ndërtimit të centralit fotovoltaik;
+ii. të respektojë kushtet e cituara në lejet, licencat e autorizimet paraprake mjedisore, lëshuar nga institucionet përgjegjëse kombëtare;
+iii. të dorëzojë sigurimin e kontratës, në masën jo më pak se 5% të vlerës së investimit, përpara nënshkrimit të kontratës ndërmjet bashkimit të përkohshëm të shoqërive “Blessed Investment” sh.p.k. dhe “Matrix Konstruksion” sh.p.k., dhe ministrisë. Në këtë kontratë përcaktohen të drejtat dhe detyrimet e palëve për realizimin e këtij projekti, penalitetet, në rast mosrealizimi, si dhe çështje të tjera, që lidhen me zbatimin e saj. Bashkimi i përkohshëm i shoqërive “Blessed Investment” sh.p.k. dhe “Matrix Konstruksion” sh.p.k. do të krijojë pranë Qendrës Kombëtare të Biznesit një shoqëri për qëllime të veçanta, për ndërtimin, shfrytëzimin dhe administrimin e centralit fotovoltaik “Blue 2”. Bashkimi i përkohshëm i shoqërive “Blessed Investment” sh.p.k. dhe “Matrix Konstruksion” sh.p.k., dhe shoqëria, për qëllime të veçanta, do të jenë bashkërisht përgjegjës për detyrimet, sipas këtij miratimi dhe kontratës së nënshkruar me Ministrinë e Infrastrukturës dhe Energjisë.
+iv. t’i japë falas, në formë royalty, ministrisë përgjegjëse për energjinë, sasinë e energjisë elektrike, në masën 2 (dy) % të sasisë vjetore të prodhimit të energjisë elektrike ose konvertimin e saj në vlerë monetare. Në rast konvertimi në vlerë monetare, bashkimi i përkohshëm i shoqërive “Blessed Investment” sh.p.k. dhe “Matrix Konstruksion” sh.p.k. duhet t’i derdhë tërësisht në buxhetin e shtetit;
+v. të përmbushë kërkesën, sipas rastit, që një pjesë e prodhimit të burimit gjenerues të energjisë t’i shitet furnizuesit publik, sipas legjislacionit në fuqi.
