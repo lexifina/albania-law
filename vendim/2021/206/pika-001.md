@@ -1,0 +1,3 @@
+1. Përdorimin e fondit të rindërtimit, në vlerën 227 211 426 (dyqind e njëzet e shtatë milionë e dyqind e njëmbëdhjetë mijë e katërqind e njëzet e gjashtë) lekë pa TVSH, për financimin e rindërtimit të stacionit të zjarrfikëses dhe godinës së bordit të kullimit, Bashkia Kavajë, sipas detajimit të mëposhtëm:
+a) Rindërtimi i stacionit të zjarrfikëses, Bashkia Kavajë, në vlerën 79 301 115 (shtatëdhjetë e nëntë milionë e treqind e një mijë e njëqind e pesëmbëdhjetë) lekë pa TVSH;
+b) Rindërtimi i godinës së bordit të kullimit, Bashkia Kavajë, në vlerën 147 910 311 (njëqind e dyzet e shtatë milionë e nëntëqind e dhjetë mijë e treqind e njëmbëdhjetë) lekë pa TVSH.

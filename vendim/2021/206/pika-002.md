@@ -1,0 +1,3 @@
+2. Bashkisë Kavajë, në buxhetin e miratuar për vitin 2021, i transferohet fondi në masën 45 442 285 (dyzet e pesë milionë e katërqind e dyzet e dy mijë e dyqind e tetëdhjetë e pesë) lekë pa TVSH, në formën e transfertës së pakushtëzuar, sipas detajimit të mëposhtëm:
+a) Për rindërtimin e stacionit të zjarrfikëses, Bashkia Kavajë, në vlerën 15 860 223 (pesëmbëdhjetë milionë e tetëqind e gjashtëdhjetë mijë e dyqind e njëzet e tre) lekë pa TVSH;
+b) Për rindërtimin e godinës së bordit të kullimit, Bashkia Kavajë, në vlerën 29 582 062 (njëzet e nëntë milionë e pesëqind e tetëdhjetë e dy mijë e gjashtëdhjetë e dy) lekë pa TVSH.
