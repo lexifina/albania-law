@@ -1,0 +1,26 @@
+{
+  "qbz_id": 22880,
+  "title": "Për deklasifikimin plotësisht të informacioneve (dosjeve) të klasifikuara “Sekret shtetëror”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "1",
+  "institution": "Drejtoria e Përgjithshme e Arkivave",
+  "adopted": "2021-03-19",
+  "published": "2021-03-31",
+  "in_force": "2021-03-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/bcae38fe23aea8f67b08abeae4ba9b0e183a9c989a74e333771d6aac1259a319.docx",
+  "source_sha256": "bcae38fe23aea8f67b08abeae4ba9b0e183a9c989a74e333771d6aac1259a319",
+  "official_record": "https://qbz.gov.al/api/v1/acts/22880",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/03/19/1",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
