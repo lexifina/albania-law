@@ -1,0 +1,1 @@
+1. Numri i punonjësve të Ministrisë së Brendshme, për vitin 2021, shtohet me 30 (tridhjetë) veta, për Policinë e Shtetit, duke e çuar numrin e përgjithshëm të sistemit të ministrisë në 15109 (pesëmbëdhjetë mijë e njëqind e nëntë) punonjës.
