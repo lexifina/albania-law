@@ -1,0 +1,1 @@
+2. Delegimi i kompetencave, të parashikuara në pikën 1 të këtij urdhri, bëhet për të gjitha kompetencat për të cilat lejohet delegimi sipas nenit 19, të ligjit nr. 119/2014, “Për të drejtën e Informimit”.
