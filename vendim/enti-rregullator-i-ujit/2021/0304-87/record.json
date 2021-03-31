@@ -1,0 +1,28 @@
+{
+  "qbz_id": 22885,
+  "title": "Për licencimin e shoqërisë Ujësjellës-Kanalizime Lushnjë sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "87",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2021-03-04",
+  "published": "2021-03-31",
+  "in_force": "2021-03-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/6e627c5ae5454d2290c41910e7402b1c83fd01edbd67fc55b2d5f3b7cbeca117.docx",
+  "source_sha256": "6e627c5ae5454d2290c41910e7402b1c83fd01edbd67fc55b2d5f3b7cbeca117",
+  "official_record": "https://qbz.gov.al/api/v1/acts/22885",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/03/04/87",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    24732
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
