@@ -4,6 +4,8 @@ Nr. 17, datë 15.1.2020
 
 PËR PROCEDURAT, KRITERET DHE RREGULLAT PËR ZBATIMIN E PROGRAMEVE TË NXITJES SË PUNËSIMIT NËPËRMJET PUNËSIMIT, FORMIMIT NË PUNË DHE PRAKTIKAVE PROFESIONALE
 
+(ndryshuar me VKM nr. 798, datë 12.10.2020 dhe nr. 194, datë 31.3.2021)
+
 Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 4, të nenit 11, të  ligjit nr. 15/2019, “Për nxitjen e punësimit”, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
 
 VENDOSI:
@@ -32,7 +34,7 @@ II. KRITERET E APLIKIMIT
 
 4. Punëdhënësit me të drejtë aplikimi duhet të plotësojnë kriteret e mëposhtme:
 
-a) të jenë shoqëri tregtare të regjistruara, për jo më pak se 6 (gjashtë) muaj;
+a) të jenë persona fizikë apo juridikë të regjistruar, për jo më pak se 6 (gjashtë) muaj;
 
 b) të mos jenë në proces falimentimi;
 
@@ -44,7 +46,7 @@ d) të kenë paguar rregullisht të gjitha sigurimet e detyrueshme shëndetësor
 
 dh) të ofrojnë punë me kohë të plotë, për një minimum prej 40 (dyzet) orësh në javë, me një pagesë mujore jo më pak se paga minimale, në përputhje me dispozitat e Kodit të Punës. Punësimi me kohë të pjesshme ose punët sezonale afatshkurtra nuk përfitojnë subvencionim;
 
-e) të jenë shoqëri tregtare, të cilat nuk kanë detyrime ndaj organeve tatimore ose, në momentin e aplikimit në program, të vërtetojnë se: 
+e) të jenë persona fizikë apo juridikë, të cilat nuk kanë detyrime ndaj organeve tatimore ose, në momentin e aplikimit në program, të vërtetojnë se: 
 
 i. kanë lidhur marrëveshjet përkatëse për shlyerjen e këtyre detyrimeve dhe janë të rregullta në shlyerjen e tyre; 
 
@@ -52,7 +54,7 @@ ii. kanë shlyer detyrimet, por kanë ende pa paguar gjobat;
 
 iii. kanë shlyer detyrimet ose kanë vendosur garanci bankare për shumën e plotë të detyrimit, në përputhje me nenin 107, të ligjit nr. 9920, datë 19.5.2008, “Për procedurat tatimore në Republikën e Shqipërisë”, të ndryshuar, dhe janë në proces të apelimit administrativ e në procese gjyqësore me organet tatimore;
 
-ë) vendi i punës i financuar nga ky program duhet të vijë si rezultat i rritjes së fuqisë punëtore në aktivitetin e punëdhënësit; 
+ë) vendi i punës i financuar nga ky program duhet të vijë si rezultat i shtimit të vendeve të lira të punës në aktivitetin e punëdhënësit;
 
 f) nuk duhet të ketë pakësuar numrin e të punësuarve, duke reduktuar fuqinë punëtore brenda 4 (katër) muajve të kaluar. 
 
@@ -120,9 +122,9 @@ i. kontributet e detyrueshme shoqërore dhe shëndetësore (pjesën e kontribute
 
 ii. financimin e pagës në shumën 100 (njëqind) % të pagës minimale në shkallë vendi të përcaktuar sipas legjislacionit në fuqi, të kompensuara çdo muaj;
 
-iii. kontributet e detyrueshme shoqërore dhe shëndetësore (pjesën e kontributeve të punëdhënësit) për tetë muajt e ardhshëm, të llogaritura në bazë të pagës minimale në shkallë vendi, në rastet, kur, pas përfundimit të formimit nëpërmjet punës, punëdhënësi lidh kontratë punësimi të paktën tetëmujore me punëmarrësin pas përfundimit të programit;
+iii. kontributet e detyrueshme shoqërore dhe shëndetësore (pjesën e kontributeve të punëdhënësit) për tetë muajt e ardhshëm, të llogaritura në bazë të pagës minimale në shkallë vendi, në rastet, kur, pas përfundimit të formimit nëpërmjet punës, punëdhënësi lidh kontratë punësimi të paktën tetëmujore me punëmarrësin pas përfundimit të programit, të kompensuar çdo muaj;
 
-iv. pagesën për mentorin në vlerën 2 000 (dy mijë) lekë për çdo përfitues, pjesëmarrës të angazhuar nga ky punëdhënës.
+iv. pagesën për mentorin në vlerën 2 000 (dy mijë) lekë për çdo përfitues, pjesëmarrës të angazhuar nga ky punëdhënës, të kompensuar çdo muaj.
 
 3. Programi i praktikave profesionale përmban elementet e mëposhtme:
 
