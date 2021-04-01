@@ -1,0 +1,2 @@
+8. Ngarkohet Drejtoria e Politikave dhe Programeve të Peshkimit dhe Akuakulturës, Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës në varësi të së cilës është Sektori i Kontrollit të Peshkimit, Organizata e Menaxhimit të Peshkimit të Liqenit të Shkodrës, që të monitorojnë zbatimin e Planit Operativ të Veprimit për zbatimin e këtij urdhri, duke bashkëpunuar me strukturat e qeverisjes vendore, Drejtorinë e Policisë së Rendit dhe atë Kufitare në qarkun e Shkodrës.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletore Zyrtare.

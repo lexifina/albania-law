@@ -1,0 +1,1 @@
+4. Për periudhën njëmujore të lejimit të peshkimit të ngjalës, nga ana e Organizatës së Menaxhimit të Peshkimit Shkodër, të ketë monitorim të sasive ditore të peshkuara. Sasia e ngjalës së zënë grumbullohet dhe tregtohet te Qendra e Parë e Ankandit Shirokë.

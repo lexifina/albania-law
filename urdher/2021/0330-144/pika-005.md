@@ -1,0 +1,1 @@
+5. Peshku (speciet e familjes Krap) i bllokuar nga Roja e Peshkimit (OMP-Liqeni Shkodër) dhe nga kontrollet e përbashkëta të Rojes së Peshkimit (OMP-Liqeni Shkodër), Inspektoratit të Peshkimit, Policisë Kufitare apo strukturave të tjera që ngarkon ky urdhër, grumbullohet dhe ruhet në Qendrën e Ankandit të Parë Shirokë.
