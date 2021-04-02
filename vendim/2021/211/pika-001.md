@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 14 820 655 (katërmbëdhjetë milionë e tetëqind e njëzet mijë e gjashtëqind e pesëdhjetë e pesë) lekë pa TVSH, për financimin e supervizimit e të kolaudimit të rindërtimit dhe rikonstruksionit të 9 (nëntë) objekteve arsimore, si dhe të riforcimit të njësive të banimit në ndërtesa (pallat) të ndara me lote, në Bashkinë Kamzë.
