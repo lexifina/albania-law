@@ -1,0 +1,2 @@
+13. Ngarkohen Instituti i Sigurimeve Shoqërore, i cili brenda një muaji nga data e miratimit të tij, të hartojë dhe të dërgojë për botim në “Fletoren zyrtare” tabelën e koeficientëve progresivë të indeksimit të bazës së vlerësuar të arritur nëpërmjet kontributeve të derdhura për periudhën kontributive deri në vitin 2021, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1.4.2021.

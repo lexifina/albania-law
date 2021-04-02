@@ -1,0 +1,1 @@
+2. Indeksimin, sipas përcaktimeve të pikës 1, të këtij vendimi, e përfitojnë edhe pensionet që do të caktohen pas datës së hyrjes në fuqi të këtij vendimi e në vazhdim, me kusht që data e fillimit të pensionit të jetë deri në datën e hyrjes në fuqi të këtij vendimi, përfshirë edhe këtë datë.
