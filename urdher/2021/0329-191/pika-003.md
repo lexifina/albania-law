@@ -1,0 +1,1 @@
+3. Çdo noter është i detyruar që jo më pak se 15 ditë përpara lidhjes së kontratës së sigurimit të përllogaritë dhe të njoftojë Dhomën Kombëtare të Noterisë dhe Ministrinë e Drejtësisë për mesataren e numrave të koleksionit, duke u bazuar në të dhënat që administrohen nga sistemi elektronik dhe nga regjistrat noterialë që mbahen në çdo zyrë noteriale.
