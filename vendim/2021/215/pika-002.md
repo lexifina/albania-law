@@ -1,0 +1,3 @@
+2. Përdorimin e fondit të rindërtimit për vitin 2021, në masën 143 267 602 (njëqind e dyzet e tre milionë e dyqind e gjashtëdhjetë e shtatë mijë e gjashtëqind e dy) lekë pa TVSH, për financimin e rindërtimit të njësive individuale të banimit. të cilat janë klasifikuar si objekte që duhen ndërtuar nga e para, në bashkitë Lezhë dhe Kurbin, sipas detajimit të mëposhtëm:
+a) Bashkisë Lezhë i transferohet fondi, në masën 17 835 093 (shtatëmbëdhjetë milionë e tetëqind e tridhjetë e pesë mijë e nëntëdhjetë e tre) lekë pa TVSH, në formën e transfertës së pakushtëzuar;
+b) Bashkisë Kurbin i transferohet fondi, në masën 125 432 509 (njëqind e njëzet e pesë milionë e katërqind e tridhjetë e dy mijë e pesëqind e nëntë) lekë pa TVSH, në formën e transfertës së pakushtëzuar.
