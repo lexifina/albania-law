@@ -1,1 +1,3 @@
-1. Përdorimin e fondit të rindërtimit, në masën prej 51 550 000 (pesëdhjetë e një milionë e pesëqind e pesëdhjetë mijë) lekësh pa TVSH, për financimin e hartimit të projektpreventivit dhe riforcimin e Hidrovorit të Durrësit, të dëmtuar nga tërmeti i datës 26.11.2019.
+1. Përdorimin e fondit të rindërtimit, në masën 88 128 502 (tetëdhjetë e tetë milionë e njëqind e njëzet e tetë mijë e pesëqind e dy) lekë pa TVSH, për hartimin e studimprojektimit për rehabilitimin e infrastrukturës së rrjetit të kullimit në zonën e Porto-Romanos - Kënetë dhe sistemimi i rrjetit të ujërave të shiut në zonën urbane të qytetit të Durrësit, të detajuar, si më poshtë vijon:
+a) për vitin 2020, në masën 51 550 000 (pesëdhjetë e një milionë e pesëqind e pesëdhjetë mijë) lekë pa TVSH;
+b) për vitin 2021, në masën 36 578 502 (tridhjetë e gjashtë milionë e pesëqind e shtatëdhjetë e tetë mijë e pesëqind e dy) lekë pa TVSH.
