@@ -1,10 +1,10 @@
 4. Punëdhënësit me të drejtë kërkese duhet të plotësojnë kriteret e mëposhtme:
-a) Të jenë shoqëri tregtare të regjistruara;
+a) Të jenë persona fizikë apo juridikë të regjistruar;
 b) Të jenë subjekt i pagimit të taksave dhe të jenë të regjistruar si punëdhënës pranë autoriteteve tatimore;
 c) Të mos kenë shkelur legjislacionin për punësimin në dy vitet e fundit përpara shpalljes së gjendjes së epidemisë, sipas pikës 1, të kreut I, të këtij vendimi;
 ç) Të ofrojnë punë me kohë të plotë, për një minimum prej 40 (dyzet) orësh në javë, me një pagesë mujore jo më pak se paga minimale, në përputhje me dispozitat e Kodit të Punës;
 d) Vendi i punës, i financuar nga ky program, duhet të vijë si rezultat i rritjes së fuqisë punëtore në aktivitetin e punëdhënësit;
-dh) Të jenë shoqëri tregtare, të cilat nuk kanë detyrime ndaj organeve tatimore para datës 10 mars, në bazë të akteve normative në fuqi ose, në momentin e kërkesës për këtë program, të vërtetojnë se:
+dh) Të jenë persona fizikë apo juridikë, të cilat nuk kanë detyrime ndaj organeve tatimore para datës 10 mars, në bazë të akteve normative në fuqi ose, në momentin e kërkesës për këtë program, të vërtetojnë se:
 i. kanë lidhur marrëveshjet përkatëse për shlyerjen e këtyre detyrimeve dhe janë të rregullta në shlyerjen e tyre;
 ii. kanë shlyer detyrimet por kanë ende pa paguar gjobat;
 iii. kanë shlyer detyrimet ose kanë vendosur garanci bankare për shumën e plotë të detyrimit, në përputhje me nenin 107, të ligjit nr. 9920, datë 19.5.2008, “Për procedurat tatimore në Republikën e Shqipërisë”, të ndryshuar, dhe janë në proces të apelimit administrativ e në procese gjyqësore me organet tatimore.
