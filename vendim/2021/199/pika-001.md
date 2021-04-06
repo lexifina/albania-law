@@ -1,0 +1,1 @@
+1. Licenca për veprimtari tregtare të pasurive kulturore materiale të luajtshme është akti administrativ, që i njeh titullarit të saj të drejtën të ushtrojë tipin e veprimtarisë, në përputhje me kushtet e përcaktuara në të.
