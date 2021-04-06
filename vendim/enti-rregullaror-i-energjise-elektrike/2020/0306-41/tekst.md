@@ -4,6 +4,10 @@ Nr. 41, datë 6.3.2020
 
 MBI LICENCIMIN E SHOQËRISË “KROI MBRET ENERGJI” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-et: “BACKA 1”, ME KAPACITET TË INSTALUAR 1600 kw; HEC “BACKA 2”, ME KAPACITET TË INSTALUAR 4000 kw; HEC “BACKA A”, ME KAPACITET TË INSTALUAR 500 kw; HEC “BACKA B”, ME KAPACITET TË INSTALUAR 500 kw; HEC “BACKA C”, ME KAPACITET TË INSTALUAR 720 kw, ME KAPACITET TOTAL TË INSTALUAR 7320 kw
 
+(ndryshuar me vendimin nr. 94, datë 6.4.2021)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike”, i ndryshuar, nenit 4, pika 1, germa “a”, nenit 5, pika 1, germa “a” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, dhe nenit 15 të “Rregullores të organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 6.3.2020, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes nr. 28/5,1 prot., datë 25.2.2020, “Mbi licencimin e shoqërisë ‘Kroi Mbret Energji’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike, nga HEC ‘Backa 1’, me kapacitet të instaluar 1600 kw; HEC ‘Backa 2’, me kapacitet të instaluar 4000 kw; HEC ‘Backa A’, me kapacitet të instaluar 500 kw; HEC ‘Backa B’, me kapacitet të instaluar 500 kw; HEC ‘Backa C’, me kapacitet të instaluar 720 kw, me kapacitet totale të instaluara 7320 kw”,
 
 konstatoi se: 
@@ -52,9 +56,9 @@ Për gjithë sa më sipër cituar, Bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “Kroi Mbret Energji” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et: “Backa 1”; me kapacitet të instaluar 1600 kw; “Backa 2”, me kapacitet të instaluar 4000 kw, “Backa A”, me kapacitet të instaluar 500 kw; “Backa B”, me kapacitet të instaluar 500 kw dhe “Backa C”, me kapacitet të instaluar 720 kV, me kapacitet totale 7320 kw, për një afat 28 vjet e 5 muaj, me kusht që përpara fillimit të operimit të veprimtarisë, shoqëria të depozitojë në ERE lejen e përdorimit të burimit ujor. 
+1. Të licencojë shoqërinë “Kroi Mbret Energji” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC: “Backa 1” me kapacitet të instaluar 1600 kw, “Backa 2” me kapacitet të instaluar 4000 kw, “Backa A” me kapacitet të instaluar 500 kw, “Backa B” me kapacitet të instaluar 500 kw dhe “Backa C” me kapacitet të instaluar 720 kw, me kapacitet total 7320 kw, për një afat 28 vjet e 5 muaj. 
 
-2. Mosplotësimi i kushteve të këtij vendimi përbën shkak për rishikimin e tij.
+2. Shfuqizuar.
 
 3. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e bordit të ERE-s.
 
