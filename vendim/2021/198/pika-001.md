@@ -1,0 +1,1 @@
+1. Përcaktimin e shoqërisë Operatori i Energjisë së Rinovueshme sh.a. si operatori që kryen funksionet e operatorit të energjisë së rinovueshme, sipas parashikimeve të ligjit nr. 7/2017, “Për nxitjen e përdorimit të energjisë nga burimet e rinovueshme”.
