@@ -1,0 +1,1 @@
+1. Kompensimin e veçantë të familjes së ushtarakut, major Xhevair Lefter Jazaj, i cili humbi jetën gjatë kryerjes së detyrës në mision ushtarak jashtë vendit, në masën 10 000 000 (dhjetë milionë) lekë.
