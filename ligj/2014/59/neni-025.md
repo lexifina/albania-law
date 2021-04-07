@@ -2,8 +2,8 @@
 Dalja në rezervë e ushtarakëve
 1. Ushtaraku del në rezervë nga shërbimi aktiv kur ka plotësuar njërin nga kushtet e mëposhtme:
 a) ka plotësuar afatin e parashikuar në kontratë;
-b) ka plotësuar moshën e përcaktuar në nenin 14 të këtij ligji;
-c) ka plotësuar kohën e qëndrimit në shërbimin aktiv, sipas pikës 2, të nenit 13, të këtij ligji, për gradat respektive;
+b pavarësisht numrit të aplikimeve për marrjen e gradës së radhës, ka plotësuar moshën maksimale të qëndrimit në shërbim, përcaktuar në nenin 14 të këtij ligji;
+c) shfuqizuar;
 ç) ka dy vlerësime vjetore “pamjaftueshëm” gjatë kohës së qëndrimit në një gradë;
 d) paraqet kërkesën dhe ajo miratohet nga organi përgjegjës. Organi përgjegjës kthen përgjigje brenda tre muajve. Në rast se organi përgjegjës nuk kthen përgjigje brenda këtij afati, kërkesa quhet e miratuar.
 dh) kur bëhen shkurtime në numrin e përgjithshëm të personelit të Forcave të Armatosura. Në këtë rast, kriteret e përzgjedhjes së ushtarakëve që dalin në rezervë përcaktohen me udhëzim të Ministrit të Mbrojtjes, sipas propozimit të Shefit të Shtabit të Përgjithshëm të Forcave të Armatosura.

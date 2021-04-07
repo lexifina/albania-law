@@ -2,7 +2,7 @@
 Dalja në lirim e ushtarakëve
 1. Ushtaraku del në lirim nga shërbimi aktiv kur ka plotësuar njërin nga kushtet e mëposhtme:
 a) ka plotësuar moshën për pension pleqërie;
-b) dënohet me burgim me vendim gjyqësor të formës së prerë;
+b) vuan dënim me burgim me vendim gjyqësor të formës së prerë ose dënohet me vendim të formës së prerë për kryerjen e një krimi me dashje;
 c) shpallet i paaftë nga ana shëndetësore për shërbim ushtarak me vendim të komisionit përkatës mjekësor;
 ç) paraqet kërkesën dhe ajo miratohet nga organi përgjegjës. Organi përgjegjës kthen përgjigje brenda tre muajve. Në rast se organi përgjegjës nuk kthen përgjigje brenda këtij afati, kërkesa quhet e miratuar;
 d) ka kryer shkelje shumë të rënda disiplinore, sipas përcaktimeve të legjislacionit në fuqi për disiplinën në Forcat e Armatosura të Republikës së Shqipërisë;

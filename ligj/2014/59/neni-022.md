@@ -15,6 +15,7 @@ b) Komisioni i lartë përbëhet nga:
 i) një gjeneral major/nënadmiral kryetar;
 ii) tre gjeneralë brigade/kundëradmiralë anëtarë;
 iii) tre kolonelë/kapitenë të rangut I anëtarë.
+Në rast mungese organike të oficerëve me gradën madhore “gjeneralmajor/nënadmiral”, ata zëvendësohen me oficerë me gradën madhore “gjeneral brigade/kundëradmiral.
 Në rastet kur shqyrtohen oficerë dhe nënoficerë të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes, në komision marrin pjesë respektivisht edhe dy kolonelë kur shqyrtohen oficerët dhe dy kryekapterë kur shqyrtohen nënoficerët nga kjo Agjenci, me të drejtë vote.
 Në rastet kur shqyrtohen nënoficerët e forcave dhe strukturave mbështetëse për marrjen e gradës kryekapter, në komision marrin pjesë edhe dy kryekapterë, me të drejtë vote.
 Komisioni i lartë mblidhet sipas afateve të përcaktuara në urdhrin e Ministrit të Mbrojtjes;

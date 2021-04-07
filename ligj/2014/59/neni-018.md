@@ -5,7 +5,7 @@ a) të ketë plotësuar kohën e qëndrimit në një gradë, sipas pikës 1, të
 b) të ketë arsimimin dhe kualifikimin e nevojshëm për marrjen e gradës së radhës, sipas nenit 20 të këtij ligji;
 c) më shumë se gjysma e vlerësimeve vjetore gjatë viteve të qëndrimit në gradën që mban të mos jetë më e ulët se “kënaqshëm”;
 ç) të jetë i aftë fizikisht dhe në gjendje shëndetësore të mirë.
-2. Nënoficerët me gradë “Nëntetar” dhe oficerët me gradë “Nëntoger”, “Toger”, shqyrtohen dy herë radhazi nga komisionet e karrierës për marrjen e gradës së radhës.
+2. Nënoficerët me gradë “Nëntetar” dhe oficerët me gradë “Nëntoger”, “Toger”, shqyrtohen tre herë radhazi nga komisionet e karrierës për marrjen e gradës së radhës.
 3. Nënoficerët me gradë “Tetar” dhe oficerët me gradë “Kapiten” shqyrtohen tri herë radhazi nga komisionet e karrierës për marrjen e gradës së radhës.
 4. Oficerët e karrierës me gradë “Major”, “Nënkolonel”, “Kolonel” dhe nënoficerët e karrierës me gradë “Rreshter” dhe “Kapter” shqyrtohen tri herë radhazi nga komisionet e karrierës për marrjen e gradës së radhës.
 5. Oficerët me gradë madhore shqyrtohen vetëm një herë nga komisioni i karrierës për marrjen e gradës se radhës.

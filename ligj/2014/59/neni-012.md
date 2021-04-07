@@ -68,9 +68,8 @@ iv) Ushtar
 Ushtar I
 Detar I.
 ç) Për studentët:
-Titulli
-Lloji i gradës
-Student
-Kadet.
+Titulli Lloji i gradës
+Student ushtarak Ushtar I
 2. Studentët shqiptarë, që ndjekin studimet në shkollat ushtarake jashtë vendit, mbajnë uniformën dhe simbolet e gradës së studentit të akademive ushtarake shqiptare, sipas marrëveshjeve dypalëshe me vendet pritëse.
 3. Rekrutët, kur hyjnë në shërbimin aktiv, nuk mbajnë gradë deri në përfundimin me sukses të stërvitjes bazë. Pas përfundimit të kësaj periudhe, kandidatët për ushtarë gradohen “Ushtar I” ose “Detar I”.
+4. Ushtarët dhe nënoficerët, që konkurrojnë për shkolla të larta ushtarake brenda vendit, ruajnë gradën që mbajnë në momentin e pranimit në shkollat e larta ushtarake deri në përfundim të studimeve.

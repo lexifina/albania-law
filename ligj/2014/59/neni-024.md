@@ -1,10 +1,10 @@
 # Neni 24
 Pezullimi i ushtarakëve nga detyra
-1. Pezullimi është ndërprerja e përkohshme e marrëdhënieve të punës për periudhën sa zgjat arsyeja e ndërprerjes. Në mbarim të kësaj periudhe, ushtaraku emërohet në përputhje me gradën që mban, me përjashtim të rastit kur dënohet me burgim.
+1. Pezullimi është ndërprerja e përkohshme e marrëdhënieve të punës për periudhën sa zgjat arsyeja e ndërprerjes. Në mbarim të kësaj periudhe, ushtaraku emërohet në përputhje me gradën që mban, me përjashtim të rastit kur plotëson kushtet për daljen në lirim sipas shkronjës “b” të nenit 26 të këtij ligji.
 2. Ushtaraku pezullohet:
 a) kur ndaj tij fillon ndjekja penale dhe vendoset masa e sigurisë arrest në burg ose arrest në shtëpi, deri në marrjen e një vendimi të formës së prerë nga gjykata ose kur ndaj tij fillon procedimi penal për vepra penale që lidhen me detyrën;
 b) për periudha studimi më shumë se 6 muaj, të ndërmarra me nismën e vetë ushtarakut dhe në lidhje me profesionin që ai ushtron;
-c) me kërkesën e ushtarakut për të shoqëruar bashkëshortin/bashkëshorten, që emërohet jashtë shtetit në funksione zyrtare. Në këtë rast, pezullimi nuk mund të zgjatë më shumë se katër vjet.
+c) me kërkesën e ushtarakut për të shoqëruar bashkëshortin/bashkëshorten, që emërohet jashtë shtetit në funksione zyrtare ose që dërgohet në trajnime/kualifikime afatgjata mbi 9 (nëntë) muaj jashtë vendit. Në këtë rast, pezullimi zgjat sa periudha e emërimit ose trajnimit/kualifikimit, por jo më shumë se 4 (katër) vjet.
 3. Gjatë periudhës së pezullimit, ushtaraku nuk paguhet. Në rastin e parashikuar në shkronjën “a”, të pikës 2, të këtij neni, kur çështja penale pushohet ose kur me vendim gjykate të formës së prerë ushtaraku deklarohet i pafajshëm, ai emërohet në detyrë, i jepet paga bazë me të gjitha përfitimet e tjera që nga çasti i pezullimit.
 4. Periudha e kohës së pezullimit nga detyra njihet si vjetërsi grade dhe shërbimi në Forcat e Armatosura, kur pezullimi ndodh për rastin e parashikuar në shkronjën “a”, të pikës 2, të këtij neni, dhe çështja penale pushohet ose kur me vendim gjykate të formës së prerë ushtaraku deklarohet i pafajshëm, ndërsa për rastet e parashikuara në shkronjat “b” dhe “c”, të pikës 2, të këtij neni, periudha e pezullimit njihet vetëm për efekt të vjetërsisë së gradës.
 5. Pezullimi i oficerit nga detyra bëhet me urdhër të Ministrit të Mbrojtjes, ndërsa pezullimi i nënoficerit dhe ushtarit/detarit bëhet me urdhër të autoritetit që ka kompetencën e emërimit.
