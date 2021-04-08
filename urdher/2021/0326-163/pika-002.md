@@ -1,0 +1,1 @@
+2. Masat e detajuara të referuara në pikën 1 të këtij urdhri, për zbatimin e standardeve themelore të përbashkëta për mbrojtjen e aviacionit civil nga aktet e ndërhyrjes së paligjshme që rrezikojnë sigurinë e aviacionit civil, janë paraqitur në aneksin bashkëlidhur, pjesë përbërëse e këtij urdhri.
