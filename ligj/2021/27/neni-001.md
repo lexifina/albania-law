@@ -1,0 +1,2 @@
+# Neni 1
+Miratohet marrëveshja ndërmjet Ministrisë së Financave dhe Ekonomisë, si autoritet kontraktues, dhe shoqërive “S2 Albania” sh.p.k. dhe “Rapiscan Systems” INC, “Për një ndryshim në marrëveshjen e koncesionit për financimin, ngritjen dhe operimin e shërbimit të skanimit të kontejnerëve e automjeteve të tjera në Republikën e Shqipërisë, miratuar me ligjin nr. 123/2013”, të ndryshuar, sipas tekstit që i bashkëlidhet këtij ligji.
