@@ -1,0 +1,1 @@
+2. Stema dhe flamuri dekorativ i Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes, për nga qëllimi i përdorimit, i përkasin vetëm strukturës së kësaj agjencie. Ndalohet shumëfishimi, imitimi dhe përdorimi i tyre nga institucionet apo subjektet e tjera, që, sipas ligjit, përdorin uniformë.
