@@ -1,0 +1,1 @@
+2. Misioni i ushtarakut është këshillimi për stafin e Universitetit të Mbrojtjes së Irakut, me qëllim zhvillimin dhe përmirësimin e moduleve të programeve të arsimimit dhe detajimin e organizimit të kurseve, duke përfshirë strukturën dhe procedurat, si dhe këshillimi për praktikat më të mira për stafin kryesor të Universitetit të Mbrojtjes.
