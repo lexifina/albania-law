@@ -1,0 +1,4 @@
+27. Për subjektet e interesuara apo personat e stimuluar, të cilëve u është kaluar pronësia mbi truallin funksional, përpara hyrjes në fuqi të këtij vendimi, ASHK-ja vijon me kalimin në bashkëpronësi të detyrueshme të truallit të lirë, sipas procedurës në vijim:
+a) Verifikon në regjistrin kadastral gjendjen juridike të njësisë ndërtimore dhe përcakton sipërfaqen e truallit të lirë për kalim pronësie.
+b) Brenda 10 (dhjetë) ditëve nga verifikimi, harton listën emërore me subjektet përfituese, së bashku me sipërfaqet takuese sipas raporteve/pjesëve takuese. Përjashtimisht, nëse subjektet përfituese paraqesin marrëveshje noteriale për kalimin e të drejtave të truallit të lirë, ASHK-ja kryen kalimin sipas përcaktimeve në marrëveshje.
+c) Informacioni i mësipërm i komunikohet subjekteve përfituese në të njëjtën mënyrë si në pikën 22, të këtij vendimi.

@@ -1,0 +1,1 @@
+3. Personat e stimuluar, që nuk kanë hyrë në marrëdhënie porosie, sipërmarrjeje, premtim-shitjeje, shitjeje, kalimi pronësie, dhurimi apo shkëmbimi për njësitë ndërtimore me të tretët, kanë të drejtë të kërkojnë kalimin e pronësisë për të gjithë truallin funksional dhe të lirë brenda zonës së stimuluar.

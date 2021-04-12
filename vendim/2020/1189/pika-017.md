@@ -1,0 +1,6 @@
+17. Vendimi i kalimit të pronësisë bëhet i ekzekutueshëm dhe i regjistrueshëm në regjistrin e pasurive të paluajtshme, pasi të jetë plotësuar një nga kushtet e mëposhtme:
+a) Të ketë kaluar afati 30-ditor i paraqitjes së ankimit administrativ ndaj vendimit dhe ndaj tij nuk është paraqitur ndonjë ankim. Afati i ankimit llogaritet nga data e njoftimit të vendimit; ose
+b) Të ketë përfunduar shqyrtimi i ankimit nga struktura e posaçme për ankimet në Drejtorinë e Përgjithshme dhe vendimi të jetë lënë në fuqi ose të jetë vendosur mospranimi i ankimit; ose
+c) Në rastet kur struktura e posaçme për ankimet vendos për ndryshimin e përmbajtjes së vendimit të drejtorisë vendore ose shfuqizimin, apo anulimin, e pjesshëm të tij, ekzekutimi kryhet pasi drejtoria vendore të ketë miratuar vendimin e ri.
+Për zbatimin e kësaj pike, drejtoria vendore është e detyruar të kërkojë informacion në rrugë elektronike pranë strukturës së posaçme të ankimeve në Drejtorinë e Përgjithshme, përpara se të vijojë me procedurën e regjistrimit.
+Përveç parashikimeve të mësipërme, në rastet e pikës 18, të këtij vendimi, regjistrimi i kalimit të pronësisë së truallit kryhet pasi të jetë miratuar kompensimi financiar i pronarëve joposedues.

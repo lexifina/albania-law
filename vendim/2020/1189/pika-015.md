@@ -1,0 +1,1 @@
+15. Kur njësia ndërtimore ose pjesë e sipërfaqes së saj nuk është e regjistruar në regjistrin e pasurive të paluajtshme, zbatohen procedurat e legalizimit sipas parashikimeve të nenit 52, të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”, dhe akteve nënligjore mbi rregullat e zbatimit të kritereve për legalizim.

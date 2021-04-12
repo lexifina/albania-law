@@ -1,0 +1,1 @@
+26. Kërkesa e subjekti të interesuar, dorëzuar pranë ASHK-së nga data 7 maj 2020 deri në datën e hyrjes në fuqi të këtij vendimi, njësohet me atë të paraqitur sipas këtij vendimi. Subjekti që ka bërë kërkesë sipas kësaj pike duhet të shlyejë tarifën e shërbimit nëse nuk e ka shlyer atë më parë.

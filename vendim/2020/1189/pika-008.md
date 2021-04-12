@@ -1,0 +1,1 @@
+8. Personit të stimuluar dhe/ose subjekteve të interesuara, përveç kalimit të pronësisë së truallit funksional, njëkohësisht iu kalohet bashkëpronësia e detyrueshme mbi truallin e lirë, proporcionalisht sipas raportit të sipërfaqes ndërtimore të secilit, përkundrejt shlyerjes së detyrimit përkatës, sipas kreut III, të këtij vendimi.

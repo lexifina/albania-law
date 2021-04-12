@@ -1,0 +1,1 @@
+19. Njoftimi drejtuar personit të stimuluar dhe/ose subjektit të interesuar, për detyrimin financiar të kalimit të pronësisë përfshin vlerën e truallit funksional dhe vlerën e pjesës ideale takuese në truallin e lirë.

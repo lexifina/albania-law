@@ -1,0 +1,1 @@
+9. Nëse subjekti i interesuar nuk paraqet kërkesën për kalimin e pronësisë së truallit, si dhe dokumentacionin e përcaktuar në pikën 5, të këtij vendimi, brenda afatit 12-mujor nga hyrja në fuqi e ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”, do të zbatohen parashikimet e nenit 51 të po të njëjtit ligj.

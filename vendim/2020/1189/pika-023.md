@@ -1,0 +1,1 @@
+23. Kryerja e pagesës së vlerës së truallit të njësisë ndërtimore brenda 30 ditëve kalendarike nga data e marrjes së njoftimit të vlerës së detyrimit financiar, sjell reduktim të saj në masën 10%. Nëse shlyerja bëhet pas këtij afati, por brenda tre muajve, atëherë personi i stimuluar/subjekti i interesuar nuk e përfiton zbritjen e vlerës, por as nuk i llogaritet kamatëvonesë.

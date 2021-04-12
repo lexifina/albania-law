@@ -1,0 +1,1 @@
+25. Kërkesat për kalimin e pronësisë së truallit në zonat e stimuluara, të administruara përpara hyrjes në fuqi të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”, për të cilat nuk ka përfunduar procedura administrative, i nënshtrohen rregullave të këtij vendimi.

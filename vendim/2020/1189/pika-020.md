@@ -1,0 +1,1 @@
+20. Llogaritja e vlerës së truallit funksional kryhet nga ASHK-ja në bazë të çmimit për pasurinë e llojit “truall”, të përcaktuar në hartën e vlerës së pronës, miratuar me vendim të Këshillit të Ministrave.

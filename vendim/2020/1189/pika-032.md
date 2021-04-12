@@ -1,0 +1,1 @@
+32. Modelet e procesverbalit për dorëzim vullnetar dhe të urdhrit për dorëzim të detyruar, sipas pikave 10 deri në 10.2, të këtij vendimi, miratohen me udhëzim të drejtorit të Përgjithshëm të ASHK-së.

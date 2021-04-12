@@ -1,0 +1,1 @@
+33. Pas kryerjes së procedurave administrative, sipas këtij vendimi, drejtoria vendore e ASHK-së njofton Agjencinë Kombëtare të Turizmit për përfundimin e procedurave të kalimit të pronësisë në zonën e stimuluar.
