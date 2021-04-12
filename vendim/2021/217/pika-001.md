@@ -1,0 +1,1 @@
+1. Për financimin e fushatës zgjedhore për Kuvendin e Shqipërisë të datës 25 prill 2021, në programin “Mbështetje për partitë politike”, shtohet fondi prej 130 000 000 (njëqind e tridhjetë milionë) lekësh, i cili iu shpërndahet subjekteve zgjedhore, pjesëmarrëse në këto zgjedhje, nga Komisioni Qendror i Zgjedhjeve.
