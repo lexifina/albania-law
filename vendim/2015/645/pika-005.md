@@ -1,1 +1,0 @@
-5. Bashkëpronësia e detyrueshme mbi truallin e lirë, sipas përcaktimeve të nenit 9/1, të ligjit nr. 10186, datë 5.11.2009, “Për rregullimin e pronësisë mbi truallin shtetëror në zonat me përparësi turizmin”, të ndryshuar, është e patjetërsueshme dhe në pjesë të barabarta.

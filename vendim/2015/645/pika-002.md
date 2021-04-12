@@ -1,1 +1,0 @@
-2. Regjistrimi në Zyrën e Regjistrimit të Pasurive të Paluajtshme i kontratës së fitimit të pronësisë mbi njësinë ndërtimore bëhet vetëm pasi të përfundojnë procedurat e kalimit të pronësisë mbi truallin e lirë, brenda kufijve të zonës së stimuluar.

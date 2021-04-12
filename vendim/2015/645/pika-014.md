@@ -1,1 +1,0 @@
-14. Afati për shlyerjen e plotë të detyrimit financiar është një muaj nga data e paraqitjes së kërkesës përkatëse (për blerjen e tërësisë së truallit ose për kalimin e tij në bashkëpronësi të detyrueshme).

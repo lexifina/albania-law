@@ -1,1 +1,0 @@
-17. Për subjektet e interesuara apo personat e stimuluar, që i kanë regjistruar kontratat e fitimit të pronësisë mbi njësitë ndërtimore në ZVRPP, përpara hyrjes në fuqi të këtij vendimi, zbatohen të njëjtat afate dhe procedura të përcaktuara në këtë vendim.
