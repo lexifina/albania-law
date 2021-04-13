@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, për pasuritë e llojit “truall”, me vlerë 79 477 (shtatëdhjetë e nëntë mijë e katërqind e shtatëdhjetë e shtatë) lekë, të përballohet nga fondet e Bashkisë Berat.
