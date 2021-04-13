@@ -1,0 +1,1 @@
+5. Institucioni i specializuar që kryen veprimtari të kërkimit arkeologjik ose subjekti i licencuar në fushën e arkeologjisë, i pajisur me leje për kryerjen e hulumtimeve arkeologjike nga KKTKM-ja, informon sekretarinë teknike të IKTK-së për ecurinë e hulumtimit arkeologjik, në përputhje me kushtet e përcaktuara në aktmarrëveshjen përkatëse.

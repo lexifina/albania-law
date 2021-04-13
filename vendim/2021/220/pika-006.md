@@ -1,0 +1,1 @@
+6. Raporti përfundimtar i monitorimit arkeologjik, i sondazhit arkeologjik dhe i gërmimit arkeologjik dorëzohet pranë sekretarisë teknike të IKTK-së. Në rastin e sondazhit arkeologjik dhe të gërmimit arkeologjik, IKTK-ja prezanton konkluzionet paraprake apo përfundimtare në KKTKM.
