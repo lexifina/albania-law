@@ -1,1 +1,0 @@
-3. Ngarkohen për zbatimin e këtij urdhri Inspektorati Shtetëror Shëndetësor dhe Operatori i Shërbimeve të Kujdesit Shëndetësor, si dhe organet e tjera sipas aktit normativ nr. 3, datë 15.3.2020, “Për marrjen e masave të veçanta administrative gjatë kohëzgjatjes së periudhës së shkaktuar nga COVID-19”, të ndryshuar.

@@ -1,1 +1,0 @@
-2. Vetëkarantinimin e detyrueshëm, për një periudhë 14-ditore, për të gjithë shtetasit që hyjnë në Republikën e Shqipërisë përmes rrugëve ajrore, tokësore ose detare, dhe kanë nisur udhëtimin e tyre nga Britania e Madhe.
