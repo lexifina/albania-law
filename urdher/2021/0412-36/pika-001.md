@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Agjencisë Shtetërore për Shpronësim, znj. Klodiana Guci, drejtor i Drejtorisë së Financës dhe Shërbimeve Mbështetëse, për shkak të mungesës me arsye të titullarit të këtij institucioni.
