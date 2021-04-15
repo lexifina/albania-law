@@ -1,0 +1,6 @@
+# Neni 10
+Detyrime të subjekteve shtetërore dhe private
+1. Protokolli i Shtetit dhe kabinetet e institucioneve, ku ushtrojnë veprimtarinë personalitetet, njoftojnë Gardën Republikës për kohën dhe vendin e zhvillimit të aktivitetit sa më shpejt të jetë e mundur, por jo më vonë se 24 (njëzet e katër) orë përpara fillimit të tij.
+2. Strukturat shtetërore që ofrojnë shërbimin e urgjencës dhe të kujdesit parësor për personalitetet e larta të shtetit dhe struktura që ka përgjegjësi për mirëqenien sociale të tyre detyrohen të bëjnë verifikimin e besueshmërisë.
+3. Personat fizikë dhe juridikë, shtetërorë ose privatë, janë të detyruar të mos pengojnë punonjësit e Gardës të kryejnë detyrat për mbrojtjen e personaliteteve të vendit dhe të huaja, në rastet kur është i nevojshëm përdorimi i mjediseve në administrim apo në pronësi të tyre. Procedurat për kryerjen e veprimeve në mjediset në administrim apo në pronësi të personave fizikë ose juridikë, shtetërorë ose privatë, përcaktohen në rregulloren e Gardës.
+4. Të gjitha institucionet shtetërore detyrohen t’i japin menjëherë Gardës çdo informacion të mundshëm që rrezikon sigurinë e personaliteteve dhe të objekteve në ruajtje, sipas këtij ligji.
