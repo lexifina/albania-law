@@ -1,0 +1,3 @@
+2. Bashkisë Vorë, për vitin 2021, i transferohet fondi në masën 141 460 466 (njëqind e dyzet e një milionë e katërqind e gjashtëdhjetë mijë e katërqind e gjashtëdhjetë e gjashtë) lekë pa TVSH, në formën e transfertës së pakushtëzuar, sipas detajimit të mëposhtëm:
+a) për rindërtimin e godinës së kopshtit publik, Bashkia Vorë, në vlerën 17 686 757 (shtatëmbëdhjetë milionë e gjashtëqind e tetëdhjetë e gjashtë mijë e shtatëqind e pesëdhjetë e shtatë) lekë pa TVSH;
+b) për rindërtimin e godinës së Bashkisë Vorë, Bashkia Vorë, në vlerën 123 773 709 (njëqind e njëzet e tre milionë e shtatëqind e shtatëdhjetë e tre mijë e shtatëqind e nëntë) lekë pa TVSH.

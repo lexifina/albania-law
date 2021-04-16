@@ -1,0 +1,3 @@
+1. Përdorimin e fondit të rindërtimit, në masën 707 302 333 (shtatëqind e shtatë milionë e treqind e dy mijë e treqind e tridhjetë e tre) lekë pa TVSH, për financimin e rindërtimit të godinës së kopshtit publik dhe të godinës së Bashkisë Vorë, Bashkia Vorë, sipas detajimit të mëposhtëm:
+a) rindërtimi i godinës së kopshtit publik, Bashkia Vorë, në masën 88 433 787 (tetëdhjetë e tetë milionë e katërqind e tridhjetë e tre mijë e shtatëqind e tetëdhjetë e shtatë) lekë pa TVSH;
+b) rindërtimi i godinës së Bashkisë Vorë, në masën 618 868 546 (gjashtëqind e tetëmbëdhjetë milionë e tetëqind e gjashtëdhjetë e tetë mijë e pesëqind e dyzet e gjashtë lekë) lekë pa TVSH.
