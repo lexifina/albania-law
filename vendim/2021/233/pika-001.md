@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 360 194 728.38 (treqind e gjashtëdhjetë milionë e njëqind e nëntëdhjetë e katër mijë e shtatëqind e njëzet e tetë pikë tridhjetë e tetë) lekë, për financimin e rikonstruksionit ose të riparimit të mjediseve në bashkëpronësi ose të përbashkëta në ndërtesa (pallat), në Bashkinë Kurbin.
