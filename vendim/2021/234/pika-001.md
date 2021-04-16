@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 43 634 850 (dyzet e tre milionë e gjashtëqind e tridhjetë e katër mijë e tetëqind e pesëdhjetë) lekësh, për financimin e prishjes së njësive individuale të banimit, në Bashkinë Kurbin.

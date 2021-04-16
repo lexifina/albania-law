@@ -1,0 +1,1 @@
+2. Fondi financiar, sipas pikës 1, të këtij vendimi, të përballohet nga shpenzimet e fondit të rindërtimit, miratuar për vitin 2021, dhe t’i transferohet Bashkisë Kurbin në formën e transfertës së pakushtëzuar.
