@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 95 600 000 (nëntëdhjetë e pesë milionë e gjashtëqind mijë) lekë, për financimin e rindërtimit të banesave individuale për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte që duhen rindërtuar nga e para, në Bashkinë Kamzë.
