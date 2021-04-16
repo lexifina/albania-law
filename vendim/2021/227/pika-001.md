@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Kryeministrisë të pronës me emërtimin “Godina e Kryeministrisë”, ndodhur në zonën kadastrale 8160, sipas formularit dhe planrilevimit bashkëlidhur këtij vendimi, për ushtrimin e aktivitetit administrativ.
