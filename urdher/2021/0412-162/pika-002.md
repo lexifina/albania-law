@@ -1,0 +1,1 @@
+2. Për periudhën 20.7.2021 deri më 20.8.2021, ndalimin e peshkimit me rrjeta në fashën bregliqenore prej 300 ml nga bregu për liqenin e Ohrit dhe për periudhën 1.8.2021 deri më 31.8.2021, ndalimin e peshkimit me rrjeta në fashën bregliqenore prej 150 ml nga bregu për liqenin e Prespës, Fierzës, Ulzës e Shkopetit.
