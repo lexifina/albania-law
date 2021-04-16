@@ -1,0 +1,4 @@
+1. Përdorimin e fondit të rindërtimit, për financimin e rikonstruksionit të 3 (tri) objekteve në Bashkinë Mirditë, në masën 108 617 578 (njëqind e tetë milionë e gjashtëqind e shtatëmbëdhjetë mijë e pesëqind e shtatëdhjetë e tetë) lekë pa TVSH, sipas detajimit të mëposhtëm:
+a) rikonstruksionin e Qendrës Kulturore të Fëmijëve Mirditë (ish-kinemaja), në masën 25 244 079 (njëzet e pesë milionë e dyqind e dyzet e katër mijë e shtatëdhjetë e nëntë) lekë pa TVSH;
+b) rikonstruksionin e ish-godinës së Bashkisë Mirditë, në masën 58 438 651 (pesëdhjetë e tetë milionë e katërqind e tridhjetë e tetë mijë e gjashtëqind e pesëdhjetë e një) lekë pa TVSH;
+c) rikonstruksionin e godinës së Muzeut Historik, Mirditë, në masën 24 934 848 (njëzet e katër milionë e nëntëqind e tridhjetë e katër mijë e tetëqind e dyzet e tetë) lekë pa TVSH.

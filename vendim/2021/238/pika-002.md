@@ -1,0 +1,4 @@
+2. Bashkisë Mirditë, për vitin 2021, i transferohet fondi në masën 21 723 515 (njëzet e një milionë e shtatëqind e njëzet e tre mijë e pesëqind e pesëmbëdhjetë) lekë pa TVSH, për financimin e rikonstruksionit të 3 (tri) objekteve, në Bashkinë Mirditë, në formën e transfertës së pakushtëzuar, sipas detajimit të mëposhtëm:
+a) rikonstruksionin e Qendrës Kulturore të Fëmijëve Mirditë (ish-kinemaja), në masën 5 048 815 (pesë milionë e dyzet e tetë mijë e tetëqind e pesëmbëdhjetë) lekë pa TVSH;
+b) rikonstruksionin e ish-godinës së Bashkisë Mirditë, në masën 11 687 730 (njëmbëdhjetë milionë e gjashtëqind e tetëdhjetë e shtatë mijë e shtatëqind e tridhjetë) lekë pa TVSH;
+c) rikonstruksionin e godinës së Muzeut Historik, Mirditë, në masën 4 986 969 (katër milionë e nëntëqind e tetëdhjetë e gjashtë mijë e nëntëqind e gjashtëdhjetë e nëntë) lekë pa TVSH.
