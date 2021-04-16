@@ -1,0 +1,1 @@
+1. Propozimin Kuvendit të Republikës së Shqipërisë të listës së kandidatëve të kualifikuar për anëtarë të Komisionit të Prokurimit Publik, sipas renditjes në aneksin 1, që i bashkëlidhet këtij vendimi.
