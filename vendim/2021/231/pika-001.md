@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është të përcaktojë përbërjen, sipas përgjegjësive, rregullat dhe procedurat për emërimin e shkarkimin e kryetarit dhe të anëtarëve të komisionit, mënyrën e funksionimit, organizimin dhe detyrat e Komisionit për Miratimin dhe Auditimin e Trupave Certifikuese (KMATC).
