@@ -1,0 +1,1 @@
+9. Fushat, mbi të cilat do të bazohet organi përgjegjës për të marrë një vendim për kërkesën e paraqitur nga pala kërkuese, të jenë sipas shtojcës 2, të këtij vendimi, dhe do të fokusohen në analizën e rrezikut, cenueshmërisë dhe ekspozimit të strukturës.

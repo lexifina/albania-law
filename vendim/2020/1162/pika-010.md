@@ -1,0 +1,1 @@
+10. Vlerësimi i organit kompetent për lëshimin e vërtetimit të riskut do të bazohet në dokumentacionin e nevojshëm të paraqitur nga pala kërkuese, siç është parashikuar në shtojcën 1, të këtij vendimi, ekspertizën e organeve të tjera, në rast se është kërkuar, si dhe në studimet për zonën ku do të zhvillohet projekti, për secilën fushë të sipërpërmendur.

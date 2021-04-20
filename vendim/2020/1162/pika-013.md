@@ -1,0 +1,1 @@
+13. Kërkesat për lejet e ndërtimit/zhvillimit, të cilat janë në shqyrtim nga organet kompetente në momentin e hyrjes në fuqi të këtij vendimi, do të vijojnë të shqyrtohen pa u pajisur me vërtetim për riskun.

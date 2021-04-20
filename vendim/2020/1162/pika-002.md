@@ -1,0 +1,1 @@
+2. Kërkesa për t’u pajisur me vërtetim për riskun bëhet online njëkohësisht me depozitimin e dokumenteve të tjera të nevojshme për pajisjen me leje zhvillimi/ndërtimi pranë organit kompetent për lëshimin e një lejeje të tillë.

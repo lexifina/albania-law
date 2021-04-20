@@ -1,0 +1,1 @@
+7. Afati i përmendur në pikën 6, të këtij vendimi, pezullon afatin 45-ditor për t’u kthyer përgjigje subjekteve kërkuese. Pezullimi përfundon me vënien në dispozicion të dokumentacionit ose me skadimin e vetë afatit të caktuar nga organi për depozitimin e dokumentacionit.

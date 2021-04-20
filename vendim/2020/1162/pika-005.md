@@ -1,0 +1,1 @@
+5. Organi kompetent, brenda 45 (dyzet e pesë) ditëve nga data e depozitimit të kërkesës nga subjekti, merr vendim për pajisjen e subjektit me vërtetimin për riskun, për pajisjen me vërtetim për riskun me ndryshime ose refuzon pajisjen me vërtetim për riskun.

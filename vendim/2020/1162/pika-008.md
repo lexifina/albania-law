@@ -1,0 +1,1 @@
+8. Gjatë procedurës së shqyrtimit të kërkesës, organi kompetent për pajisje me leje zhvillimi/ndërtimi mund të kërkojë ekspertizë teknike nga organe të tjera që kanë njohuri teknike mbi fushat për të cilat do të kryhet vlerësimi, për të lëshuar vërtetimin për riskun.

@@ -1,0 +1,1 @@
+3. Ndërfaqja për vërtetimin e riskut të shtohet në bazën e të dhënave e-Lejet nga ana e Agjencisë Kombëtare të Shoqërisë së Informacionit dhe administrohet nga organi përgjegjës për pajisjen me vërtetim për riskun.

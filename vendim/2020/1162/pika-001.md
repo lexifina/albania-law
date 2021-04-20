@@ -1,0 +1,1 @@
+1. Të gjitha subjektet, të cilat kërkojnë të pajisen me leje zhvillimi ose leje ndërtimi, për të cilat nuk nevojitet pajisja paraprake me një leje zhvillimi, duhet që fillimisht të pajisen me një vërtetim për riskun nga organi kompetent që lëshon lejen, për të cilën këto subjekte paraqesin kërkesë.

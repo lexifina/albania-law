@@ -1,0 +1,1 @@
+6. Gjatë periudhës 45-ditore, organi mund të thërrasë palën kërkuese për sqarime ose të kërkojë dokumentacion shtesë, duke caktuar edhe një afat, jo më të gjatë se 5 (pesë) ditë, për vënien në dispozicion të këtij dokumentacioni.

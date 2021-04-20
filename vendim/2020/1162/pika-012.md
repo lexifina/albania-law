@@ -1,0 +1,1 @@
+12. Ndaj vendimit përfundimtar, pala kërkuese mund të ushtrojë ankim të drejtpërdrejtë në gjykatën administrative kompetente, brenda 30 (tridhjetë) ditëve nga data e lëshimit të vërtetimit, ose nga mbarimi i afatit të organit për të marrë një vendim dhe për të cilin ky i fundit nuk është shprehur.
