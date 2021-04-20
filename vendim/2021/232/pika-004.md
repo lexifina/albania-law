@@ -1,0 +1,1 @@
+4. Fondi për procedurën e prokurimit publik të përballohet nga buxheti i miratuar për vitin 2021, për Ministrinë e Bujqësisë dhe Zhvillimit Rural, shpenzimet korrente në programin buxhetor “Siguria ushqimore dhe mbrojtja e konsumatorit”, produkti “Sipërfaqe e trajtuar dhe e mbrojtur nga parazitët në fushën e bujqësisë”.
