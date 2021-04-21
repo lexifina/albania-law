@@ -1,0 +1,1 @@
+1. Vetëkarantinimin e detyrueshëm, për një periudhë 14-ditore, për të gjithë shtetasit që hyjnë në Republikën e Shqipërisë përmes rrugëve ajrore, tokësore ose detare nga Republika e Maqedonisë së Veriut dhe Greqia, nga data 20.4.2021 deri në datën 3.5.2021.
