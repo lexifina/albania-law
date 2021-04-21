@@ -1,3 +1,3 @@
 1. Ndalimin e peshkimit, me çfarëdolloj mjeti dhe metode gjuetie, si dhe mbajtjen në bord, tranzitimin në barkë, zbarkimin e qëllimtë dhe hedhjen në treg ose për konsum të të gjitha llojeve të peshqve në liqenet e Ohrit, Prespës, Fierzës, Ulzës e Shkopetit dhe, konkretisht:
 - Për gjuhcën (cironka), prej 20 prillit deri më 20 korrik 2021, në liqenin e Ohrit, dhe prej 1 prillit deri më 31 korrik 2021, për liqenin e Prespës, Fierzës, Ulzës e Shkopetit.
-- Për krapin, prej 20 prillit deri më 20 korrik 202,1 në liqenin e Ohrit, dhe prej 1 prillit deri më 1 korrik 2021, për liqenin e Prespës, Fierzës, Ulzës e Shkopetit.
+- Për krapin, prej 20 prillit deri më 20 korrik 2021, në liqenin e Ohrit, dhe prej 25 prillit deri më 25 maj 2021, për liqenet e Prespës, Fierzës, Ulzës dhe Shkopetit.
