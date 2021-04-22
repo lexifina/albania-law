@@ -4,6 +4,10 @@ Nr. 242, datë 21.12.2020
 
 MBI LICENCIMIN E SHOQËRISË “HEC ZALL XHUXHË” SHPK NË VEPRIMTARINË E TREGTIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr. 107, datë 22.4.2021)
+
+( I përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “d”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; nenit 4, pika 1, germa “e”, nenit 5, pika 1, germa “e” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të ndryshuar,; të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, si dhe nenit 15, të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, të miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i Entit Rregullator të Energjisë, në mbledhjen e tij të datës 21.12.2020, mbasi shqyrtoi aplikimin e paraqitur nga shoqëria “HEC Zall Xhuxhë” sh.p.k., si dhe relacionin nr. 135/13 prot., datë 17.12.2020, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, për shqyrtimin e aplikimit të shoqërisë “HEC Zall Xhuxhë” sh.p.k., për licencim në veprimtarinë e tregtimit të energjisë elektrike,
 
 konstatoi se: 
@@ -32,15 +36,13 @@ Për gjithë sa më sipër cituar, Bordi i ERE-s,
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “HEC Zall Xhuxhë” sh.p.k. në veprimtarinë e tregtimit të energjisë elektrike, për një afat 5-vjeçar, me kushtin që shoqëria të depozitojë brenda 3 muajve nga marrja e këtij vendimi:
+1. Të licencojë shoqërinë “HEC Zall Xhuxhë” sh.p.k. në veprimtarinë e tregtimit të energjisë elektrike, për një afat 5-vjeçar, me kushtin që shoqëria të depozitojë brenda 60 ditëve, duke filluar ky afat nga data 28.3.2021:
 
-i. vërtetimin për shlyerjen e tatim-taksave dhe detyrimeve ndaj Institucionit të Sigurimeve Shoqërore;
+i. dokumente që vërtetojnë aftësinë ose mbështetjen financiare të aplikuesit, ku shprehen qartë vlerat monetare për financimin dhe struktura e financimit (financim i vetë aplikuesit, kredi bankare, donacion, të tjera, etj.);
 
-ii. dokumente që vërtetojnë aftësinë ose mbështetjen financiare të aplikuesit, ku shprehen qartë vlerat monetare për financimin dhe struktura e financimit (financim i vetë aplikuesit, kredi bankare, donacion, të tjera, etj.);
+ii. sasinë e energjisë elektrike të parashikuar për t’u tregtuar në gWh/për pesë vitet e licencës së tregtimit të energjisë elektrike;
 
-iii. sasinë e energjisë elektrike të parashikuar për t’u tregtuar në GWh/për pesë vitet e licencës së tregtimit të energjisë elektrike;
-
-iv. kapitalin financiar të parashikuar për ushtrimin e veprimtarisë së tregtimit të energjisë elektrike.
+iii. kapitalin financiar të parashikuar për ushtrimin e veprimtarisë së tregtimit të energjisë elektrike.
 
 2. Mos plotësimi i kushteve të këtij vendimi përbën shkak për rishikimin e tij. 
 
