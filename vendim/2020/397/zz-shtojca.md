@@ -102,3 +102,29 @@ banesë
 15,120,000.00
 VLERA TOTALE
 111,393,560.00
+LISTA EMËRORE E PRONARËVE TË PASURIVE PRONË PRIVATE, QË PREKEN NGA DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR. 397, DATË 13.5.2020, “PËR SHPRONËSIMIN PËR INTERES PUBLIK TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA PROJEKTI “NDËRTIMI I SEGMENTIT RRUGOR UNAZA LINDORE LOTI 3, TIRANË”, TË NDRYSHUAR
+Nr.
+Emër Atësi Mbiemër
+Zona kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sip. totale (m2)
+Sipërfaqe shpronësimi
+Vlera totale (lek)
+SHËNIM
+Truall (m2)
+Çmimi truallit/m2
+1
+Genti Haxhi Sauku,
+Artan Haxhi Sauku, Merita Haxhi Bruci (Sauku)
+Hana Haxhi Sauku
+8180
+7/647
+Truall
+8,993.1
+5150
+31,270.0
+161,040,500.0
+Seksioni D: Mbi këtë truall pozicionohen ndërtesat me nr. 7/671-nd., 7/664-nd., 7/650/nd., 7/649nd., 7/648/nd. dhe nr. 7/641 nd. Seksioni E: Vendoset sekuestro konservative nga shoqëria “Besa” sh.p.k., në favor të Banka Credins dhe masa sekuestro konservative.
+VLERA TOTALE
+161,040,500.0
