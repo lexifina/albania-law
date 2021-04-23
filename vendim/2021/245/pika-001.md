@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Vlorë, për Njësinë Administrative Vlorë, të disa pasurive, me vendndodhje në zonën kadastrale 8602, me nr. 1-28, sipas formularit dhe planeve të rilevimit, bashkëlidhur këtij vendimi, me qëllim për t’u përdorur në fushën e zhvillimit ekonomik dhe multifunksional.
