@@ -1,0 +1,1 @@
+7. Për llogaritë ose kasetat e sigurisë të mbyllura para datës 1.1.2020, institucionet financiare raportojnë të dhënat që disponojnë, në përputhje me formatin e skedarit të raportimit, duke mos plotësuar fushat për të cilat nuk disponohet informacion në formatin elektronik.

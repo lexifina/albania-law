@@ -1,0 +1,1 @@
+9. Institucionet financiare caktojnë personat përgjegjës të ngarkuar për komunikimin me Drejtorinë e Përgjithshme të Tatimeve dhe Agjencinë Kombëtare të Shoqërisë së Informacionit, në funksion të përmbushjes së detyrimeve që rrjedhin nga ky udhëzim.

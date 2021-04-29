@@ -1,0 +1,1 @@
+10. Institucionet financiare duhet të transmetojnë të dhënat e kërkuara nga ligji nr. 154/2020, “Për Regjistrin Qendror të Llogarive Bankare” dhe ky udhëzim, jo më vonë se 60 ditë kalendarike nga njoftimi i ngritjes së regjistrit, nga Agjencia Kombëtare e Shoqërisë së Informacionit.

@@ -1,0 +1,1 @@
+6. Raportimi i parë i institucioneve financiare duhet të përfshijë edhe të dhënat për llogaritë bankare ose kasetat e sigurisë të mbyllura 5 vitet e fundit, nga momenti i hyrjes në fuqi të ligjit nr. 154/2020, “Për Regjistrin Qendror të Llogarive Bankare”.

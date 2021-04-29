@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim të përcaktojë formatin e skedarit të raportimit të të dhënave nga institucionet financiare, në zbatim të nenit 9, pika 3, të ligjit nr. 154/2020, “Për Regjistrin Qendror të Llogarive Bankare”, në bazën e të dhënave shtetërore të Regjistrit Qendror të Llogarive Bankare dhe të kasetave të sigurisë, në vijim Regjistri.
