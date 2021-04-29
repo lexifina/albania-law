@@ -1,1 +1,0 @@
-4. Urdhri i ministrit nr. 24, datë 14.1.2021 “Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në shtetin e Polonisë, Sllovakisë, Hungarisë, Gjermanisë, Ukrainës, Izraelit, Çekisë, Rumanisë, Bullgarisë, Belgjikës, Kroacisë, Danimarkës, Francës, Holandës dhe Lituanisë”, shfuqizohet.
