@@ -9,4 +9,4 @@ II. KRITERET DHE STANDARDET E PROGRAMIT TË CERTIFIKIMIT
 1.4 Profesionistët të cilët janë në pension dhe ushtrojnë profesionin.
 1.5 Profesionistët, të cilët punojnë me kohë të pjesshme, duhet të plotësojnë të njëjtat kritere të programit si ata që ushtrojnë profesionin e tyre me kohë të plotë.
 2. Kohëzgjatja e programit të certifikimit
-Programi i certifikimit për profesionistët e shëndetësisë është i organizuar në cikle 4-vjeçare, brenda të cilave profesionistët e shëndetësisë duhet të përmbushin kriteret siç përcaktohen në pikat 3 dhe 4 të këtij kreu.
+Programi i certifikimit, i kryer nga organi certifikues i akredituar sipas ISO/IEC 17024, për profesionistët e shëndetësisë, është i organizuar në cikël individual që përputhet me afatin kohor të licencimit, brenda të cilit profesionistët e shëndetësisë duhet të përmbushin kriteret siç përcaktohen në pikat 3 dhe 4, të këtij kreu.
