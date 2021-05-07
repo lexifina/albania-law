@@ -5,7 +5,7 @@
 6.4 I gjithë dokumentacioni i programit të certifikimit duhet të ruhet nga QKEV- ja sipas legjislacionit në fuqi për arkivat dhe për mbrojtjen e të dhënave personale.
 IV. CERTIFIKIMI I PROFESIONISTËVE
 1. Njoftimi mbi statusin e certifikimit
-Në fund të secilit cikël 4-vjeçar të programit të certifikimit, QKEV-ja njofton në faqen zyrtare profesionistët për përmbushjen e kërkesave të programit të certifikimit dhe njofton institucionet shëndetësore për statusin e certifikimit të profesionistëve të punësuar në to.
+Në fund të secilit cikël individual të programit të certifikimit, QKEV-ja njofton në faqen zyrtare profesionistët për përmbushjen e kërkesave të programit të certifikimit dhe njofton institucionet shëndetësore për statusin e certifikimit të profesionistëve të punësuar në to.
 2. Përgjegjësitë e institucioneve shëndetësore
 2.1 Të gjitha institucionet publike ose private, akademike ose joakademike, fitimprurëse ose jofitimprurëse, të huaja dhe të vendit, që kanë punësuar profesionistë, të cilët ushtrojnë profesionin e tyre sipas ligjeve në fuqi, kanë përgjegjësi:
 2.1.1 Të krijojnë kushte dhe mundësi që profesionistët të përfshihen në aktivitete të edukimit në vazhdim në përputhje me nevojat e pozicionit të tyre të punës;
