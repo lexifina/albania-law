@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese me shkëmbim letrash, të marrëveshjes së kontributit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë (Marrësi) dhe Agjencisë Suedeze për Bashkëpunim Ndërkombëtar (SIDA), për mbështetjen e projektit “Implementimi i taksës së pasurisë të bazuar në vlerën e tregut, versioni 0.93, datë 20 shkurt 2018”, miratuar me vendimin nr. 408, datë 4.7.2018, të Këshillit të Ministrave, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi menjëherë.
