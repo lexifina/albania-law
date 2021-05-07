@@ -1,0 +1,30 @@
+{
+  "qbz_id": 23022,
+  "title": "Mbi licencimin e shoqërisë “Gerti” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Vardari” me kapacitet të instaluar 1972 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "99",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2021-04-16",
+  "published": "2021-05-07",
+  "in_force": "2021-05-07",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/56c4580303a5c43b7f7166fd7c07b5b9a8262a8f7482b9a04d25538b27274cd8.docx",
+  "source_sha256": "56c4580303a5c43b7f7166fd7c07b5b9a8262a8f7482b9a04d25538b27274cd8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23022",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/04/16/99",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31593,
+    26852,
+    24888
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
