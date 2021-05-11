@@ -1,0 +1,5 @@
+17. Në raportin përfundimtar evidentohen të gjitha shkeljet e konstatuara nga strukturat përgjegjëse për zbatimin e legjislacionit të asistencës sociale për ndihmën ekonomike dhe pagesat e aftësisë së kufizuar, propozimet përkatëse për përmirësimin e gjendjes dhe masat për personat përgjegjës, si më poshtë vijon:
+a) Masë disiplinore për shkelje nga strukturat rajonale të shërbimit social, struktura përgjegjëse për shërbimet sociale në bashki, administratori shoqëror pranë njësisë së vetëqeverisjes vendore, mjekët e familjes dhe mjekët specialistë;
+b) Gjobë, nga 50 000 (pesëdhjetë mijë) lekë deri në 100 000 (njëqind mijë) lekë, në rastet kur vërehet që shkeljet janë kryer në mënyrë të përsëritur;
+c) Shpërblimin e dëmit nga administratori shoqëror dhe/ose familja dhe/ose punonjësi i strukturës rajonale të Shërbimit Social Shtetëror dhe/ose mjeku i familjes/specialist, nëse konstatohet se është shkaktuar dëm ekonomik;
+ç) Kallëzim penal, në rast se dyshohet se janë konsumuar elementet e veprës penale.

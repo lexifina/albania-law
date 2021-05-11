@@ -1,0 +1,1 @@
+18. Vendimi nr. 566, datë 29.9.2018, i Këshillit të Ministrave, “Për procedurat e kryerjes së kontrollit të veprimtarisë e të zbatimit të legjislacionit për ndihmën ekonomike dhe aftësinë e kufizuar në strukturat e varësisë së shërbimit social shtetëror dhe pranë njësive të vetëqeverisjes vendore”, shfuqizohet.
