@@ -4,6 +4,8 @@ Nr. 15, datë 31.1.2019
 
 MBI LICENCIMIN NË AKTIVITETIN E TRANSMETIMIT TË GAZIT NATYROR TË TRANS ADRIATIC PIPELINE AG ALBANIA, E REGJISTRUAR PRANË QKB-së, SI DEGË E SHOQËRISË SË HUAJ AKSIONARE (SHA), TRANS ADRIATIC PIPELINE AG
 
+(ndryshuar me vendimin nr. 120, datë 11.5.2021)
+
 Në mbështetje të nenit 4, pika 50; nenit 22, pika 2, germa “a” dhe nenit 35, të ligjit nr. 102/2015, datë 23.9.2015 “Për sektorin gazit natyror”, si dhe nenit 4, pika 1, germa “a”; nenit 5; nenit 8; nenit 9 pika 1, germat “a”, “b”, “c”, “d”, “e”; pika 2, germa “a” dhe nenet 10 dhe 11, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e gazit natyror”; nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 31.1.2019, mbasi shqyrtoi relacionin mbi licencimin në aktivitetin e transmetimit të gazit natyror, të Trans Adriatic Pipeline AG Albania, e regjistruar pranë QKB-së si degë e shoqërisë së huaj aksionare (sh.a.), Trans Adriatic Pipeline AG, 
 
 konstatoi se: 
@@ -139,6 +141,8 @@ VENDOSI:
 1. Të licencojë në aktivitetin e transmetimit të gazit natyror, Trans Adriatic Pipeline AG Albania, e regjistruar pranë QKB-së, si degë e shoqërisë së huaj aksionare (sh.a.), Trans Adriatic Pipeline AG, për një afat 25-vjeçar, nga data e fillimit të operimit. 
 
 2. Jo më vonë se 12 muaj nga fillimi i operimit të gazsjellësit, shoqëria të paraqes në ERE dokumentacionin e plotë që tregon titujt e pronësisë mbi asetet që ka për të kryer funksionet ose plotësuar detyrimet nën licencën e kërkuar në territorin e Shqipërisë.
+
+2.1 Shoqëria “TAP AG Albania” të përcjellë periodikisht në ERE certifikatën (policën) e sigurimit, pas rinovimit të saj, sipas kërkesave të nenit 9, pika 1, germa “e”, “iv”, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, ose heqjen e licencave në sektorin e gazit natyror”, miratuar me vendimin e Bordit të ERE-s nr. 97, datë 4.7.2017.
 
 3. Në rastin e mospërmbushjes së këtij kushti nga ana e subjektit, ERE rezervon të drejtën e rishikimit të këtij vendimi.
 

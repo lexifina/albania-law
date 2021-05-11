@@ -1,9 +1,9 @@
 # Mbi licencimin në aktivitetin e transmetimit të gazit natyror të Trans Adriatic Pipeline AG Albania, e regjistruar pranë QKB-së, si degë e shoqërisë së huaj aksionare (sh.a.), Trans Adriatic Pipeline AG
 
-Official source: [Vendim nr. 15, datë 31.1.2019 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/55355).
+Official source: [Vendim nr. 15, datë 31.1.2019 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/55355); [QBZ versions](https://qbz.gov.al/api/v1/acts/55355/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2019-01-31; published 2019-02-14; in force 2019-02-14.
+Status of this text: `official consolidated version 1`, applying from 2021-05-11; after QBZ act 23200 (nr. 120).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
