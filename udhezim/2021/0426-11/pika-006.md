@@ -1,0 +1,1 @@
+6. Çmimet e inventarizimit të tyre përcaktohen nga vetë autoriteti përgjegjës për magazinimin, duke u bazuar në çmimet e shitjes, kur këto dhurohen me faturë, në çmimet referuese të doganave, kur nuk kanë një faturë ose në çmimet referuese sipas manualeve të ndërtimit në fuqi.

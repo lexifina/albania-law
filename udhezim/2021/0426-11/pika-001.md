@@ -1,0 +1,3 @@
+1. Kontribut në natyrë quhet çdo material ose shërbim (punë), me qëllim dhe destinacion objektet që do të rindërtohen, në kuadër të procesit të rindërtimit. Kontributet do të ndahen në dy kategori të veçanta:
+a) materiale ndërtimore ose mallra e pajisje që shërbejnë për rindërtimin ose rehabilitimin e objekteve dhe ambienteve në funksion të procesit të rindërtimit;
+b) shërbime (punë) të ndryshme që do të ofrohen nga donatorë, subjekte private e shtetërore, të huaj ose vendas, me qëllim ndërtimin e objekteve ose ambienteve përreth tyre, që janë pjesë e programit të miratuar nga Komiteti Shtetëror i Rindërtimit.

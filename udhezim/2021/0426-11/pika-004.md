@@ -1,0 +1,1 @@
+4. Kontributet në natyrë të prodhuara, të projektuara apo të përshtatura për ndërtim ose rikonstruksion përllogariten në vlerën e tyre financiare dhe i vendosen në dispozicion kontraktorit të përzgjedhur për zbatimin e punimeve, me kusht që vlera korresponduese e tyre t’i zbritet kostos së preventivit të projektit që do të zbatohet.
