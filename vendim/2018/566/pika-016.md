@@ -1,1 +1,0 @@
-16. Ngarkohet ministri i Shëndetësisë dhe Mbrojtjes Sociale për nxjerrjen e udhëzimeve për metodologjinë e kontrollit të pagesave të ndihmës ekonomike, metodologjinë e kontrollit të pagesave të aftësisë së kufizuar dhe mekanizmat e monitorimit.

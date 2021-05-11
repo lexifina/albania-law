@@ -1,1 +1,0 @@
-3. Kontrolli i njësive të vetëqeverisjes vendore nga strukturat përgjegjëse në Shërbimin Social Shtetëror në nivel rajonal bazohet në planin vjetor të kontrollit dhe në programet mujore në zbatim të tij. Programi i kontrollit miratohet nga titullari i institucionit, sipas modelit standard, të përcaktuar me udhëzim të ministrit përgjegjës për çështjet sociale.
