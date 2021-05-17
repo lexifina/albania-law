@@ -1,0 +1,1 @@
+2. Bashkisë Shijak, në buxhetin e miratuar për vitin 2021, i transferohet fondi në masën 38 120 227 (tridhjetë e tetë milionë e njëqind e njëzet mijë e dyqind e njëzet e shtatë) lekë pa TVSH, për financimin e rindërtimit të objektit social-kulturor, Pallati i Kulturës, Bashkia Shijak, në formën e transfertës së pakushtëzuar.
