@@ -1,1 +1,1 @@
-9. Tjetërsimi i pronësisë së armëve të koleksionit bëhet duke zbatuar kërkesat e ligjit për trashëgiminë kulturore dhe në përputhje me rregullat e ndryshimit të pronësisë së armëve.
+9. Armët e koleksionit dhe armët e koleksionit të deklaruara pasuri kulturore u nënshtrohen parashikimeve të legjislacionit në fuqi për trashëgiminë kulturore, në përputhje me rregullat e ndryshimit të pronësisë së armëve, sa u përket mbajtjes, mbrojtjes, vlerësimit, administrimit dhe tjetërsimit të pronësisë së tyre.

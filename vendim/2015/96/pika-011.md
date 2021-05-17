@@ -1,1 +1,1 @@
-11. Lëvizja dhe transportimi i armëve të koleksionit bëhet me kërkesë të motivuar.
+11. Lëvizja dhe transportimi i armëve të koleksionit bëhet me kërkesë të motivuar. Për armët e koleksionit të deklaruara pasuri kulturore lëvizja dhe transportimi bëhet në përputhje me procedurat e parashikuara në ligjin nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë.

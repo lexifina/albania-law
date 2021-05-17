@@ -1,1 +1,1 @@
-4. Për armët e paaftësuara, personi fizik ose juridik paraqet dokumentin e lëshuar nga subjekti i licencuar për paaftësimin e armëve, të cilat janë vulosur me shkronjën “D”.
+4. Për armët e paaftësuara, personi fizik ose juridik paraqet online, në portalin unik qeveritar, e-Albania dokumentin e lëshuar nga subjekti i licencuar për paaftësimin e armëve, të cilat janë vulosur me shkronjën “D”.

@@ -1,1 +1,3 @@
 10. Në rastet kur koleksionisti kërkon të blejë armë, më parë ai paraqet armën që kërkon të blejë, të dhënat për armën, subjektin ku do të blihet dhe arsyen e vlerat e armës. Blerja dhe shitja e armëve të koleksionit jashtë vendit bëhet me autorizim të policisë.
+10/1 Për armët e koleksionit të deklaruara pasuri kulturore, importi ose eksporti i tyre kryhet përmes lëshimit të licencave të import/eksportit të pasurive kulturore.
+Shitblerja e armëve të koleksionit të deklaruara pasuri kulturore i nënshtrohet procedurave të parashikuara në vendimin nr. 199, datë 31.3.2021, të Këshillit të Ministrave, “Për shqyrtimin ose anulimin e licencës, tarifat e kërkesës dhe kuotizacionin vjetor të licencave për veprimtari tregtare të pasurive kulturore.

@@ -1,1 +1,1 @@
-12. Titullari i policisë vendore autorizon transportin e armëve të koleksionit, me qëllim riparimi, provash në poligon ose ekspozimi.
+12. Titullari i policisë vendore autorizon transportin e armëve të koleksionit, me qëllim riparimi, provash në poligon ose ekspozimi. Për armët e koleksionit të deklaruara pasuri kulturore kërkohet autorizimi i ministrit përgjegjës për trashëgiminë kulturore, në përputhje me procedurat e parashikuara në ligjin nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë.

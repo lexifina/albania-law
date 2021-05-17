@@ -1,1 +1,1 @@
-14. Paaftësimi i armëve të koleksionit kryhet me të njëjtën procedurë dhe kriter si edhe për armët e tjera. Paaftësimi bëhet nga subjekte shtetërore të licencuara për riparimin e armëve.
+14. Çaktivizimi/paaftësimi i armëve të koleksionit kryhet me të njëjtën procedurë dhe të njëjtat kritere si edhe për armët e tjera. Çaktivizimi/paaftësimi bëhet nga persona fizikë ose juridikë, të pajisur me licencë nga Drejtoria e Përgjithshme e Policisë së Shtetit për çaktivizimin/paaftësimin e armëve të zjarrit për përdorim civil.
