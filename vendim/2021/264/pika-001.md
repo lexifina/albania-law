@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Përmet, të Njësisë Administrative Frashër, të disa pronave me vendndodhje në zonën kadastrale 2822, sipas formularit, gjithsej 1 (një) fletë, dhe planrilevimeve, bashkëlidhur këtij vendimi, me qëllim për t’u përdorur në fushën e bujqësisë.
