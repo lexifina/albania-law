@@ -1,0 +1,1 @@
+3. Vlerat përkatëse të produkteve kullosore, në sipërfaqen, objekt ndërtimi, të pasurisë nr. 28/3, paguhen nga shoqëria “Zagroturizëm” sh.p.k., në llogarinë rrjedhëse të Bashkisë Tepelenë, në bazë të vendimit nr. 391, datë 21.6.2006, të Këshillit të Ministrave, “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”, të ndryshuar.

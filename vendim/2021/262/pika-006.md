@@ -1,0 +1,1 @@
+6. Drejtoria Rajonale e Agjencisë Shtetërore të Kadastrës Tepelenë të bëjë ndryshimin e llojit të pasurisë në certifikatën e pasurisë, sipas të dhënave për pasurinë e përcaktuar në pikën 2 të këtij vendimi.

@@ -1,0 +1,1 @@
+2. Ndryshimin e kategorisë së resursit “kullotë” në “truall”, të pasurisë me numër 28/3, dhe nga kategoria e resursit “tokë bujqësore” në “truall”, të pasurisë me numër 26, zona kadastrale 2936, Bashkia Tepelenë, sipas certifikatave të pasurisë, hartës treguese dhe lidhjes nr. 1, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+1. Heqjen nga fondi kullosor të pasurisë me nr. 28/3, zona kadastrale 2936, Bashkia Tepelenë, me sipërfaqe prej 5.6 ha, pjesë e ekonomisë kullosore “Qendër Tepelenë”, që do të përdoret nga shoqëria “Zagroturizëm” sh.p.k., për resort agroturistik në Peshtan, Bashkia Tepelenë, dhe çregjistrimin nga Regjistri i Kadastrës së Pyjeve Kullotave.

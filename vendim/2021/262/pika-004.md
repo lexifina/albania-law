@@ -1,0 +1,1 @@
+4. Me hyrjen në fuqi të këtij vendimi, shoqëria “Zagroturizëm” sh.p.k. detyrohet të rehabilitojë sipërfaqen kullosore, sipas kushteve të VNM-së paraprake dhe të legjislacionit në fuqi për fondin kullosor.

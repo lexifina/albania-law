@@ -1,0 +1,1 @@
+5. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Gjirokastër, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “kullotë” në “truall”, të pasurisë me numër 28/3, zona kadastrale 2936, dhe nga kategoria e resursit “tokë bujqësore” në “truall”, të pasurisë me numër 26, zona kadastrale 2936, Bashkia Tepelenë.
