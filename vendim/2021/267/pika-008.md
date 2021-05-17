@@ -1,0 +1,1 @@
+8. Veprimet e kryera në bazën e të dhënave regjistrohen dhe ruhen nga AKSHI, duke përdorur kodin identifikues të personit të ngarkuar që ka kryer veprimin, datën e orën e konsultimit, fjalët kyç të përdorura për kërkimin, numrin e dosjes dhe të dhënat e konsultuara.

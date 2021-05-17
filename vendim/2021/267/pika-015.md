@@ -1,0 +1,1 @@
+15. AKSHI, në cilësinë e “kontrolluesit”, sipas legjislacionit në fuqi për mbrojtjen e të dhënave personale, dokumenton masat tekniko-organizative të përshtatura e të zbatuara për garantimin e mbrojtjes së të dhënave personale.

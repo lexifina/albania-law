@@ -1,0 +1,1 @@
+12. Nivelet e sigurisë së të dhënave mund të jenë i lartë (L), mesatar (M) dhe i ulët (U). Niveli i sigurisë së të dhënave përcaktohet në bazë të parametrave të integritetit, konfidencialitetit dhe disponueshmërisë.

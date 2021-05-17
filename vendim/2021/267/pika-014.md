@@ -1,0 +1,1 @@
+14. Baza e të dhënave shtetërore aksesohet nga të gjitha institucionet e interesuara, nëpërmjet kërkesës drejtuar Agjencisë Kombëtare të Shoqërisë së Informacionit, në përputhje me rregulloren për organizimin dhe funksionimin e brendshëm të bazës së të dhënave shtetërore të përcaktuar nga AKSHI dhe kuadrit ligjor rregullues përkatës.
