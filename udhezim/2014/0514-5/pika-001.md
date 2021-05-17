@@ -1,1 +1,0 @@
-1. Niveli maksimal i mbetjeve të pesticideve në produktet ushqimore në banane, domate, grurë, kastravecë, mollë, patate, rrush tavoline, rrush për verë, speca, ullinj tavoline, të jetë sipas përcaktimeve në shtojcën bashkëlidhur këtij udhëzimi.
