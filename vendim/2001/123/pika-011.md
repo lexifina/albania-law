@@ -1,1 +1,0 @@
-11. Në rastet kur, gjatë administrimit nga personat e autorizuar nga informacioni i klasifikuar, shkëputen pjesë të caktuara, informacioni i përftuar do të ruajë të njëjtin nivel klasifikimi si informacioni i parë.

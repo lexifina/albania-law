@@ -1,1 +1,0 @@
-3. Ky komision shqyrton llojet e dokumentacionit që prodhon institucioni dhe propozon atë kategori dokumentesh që duhen klasifikuar, rivlerësuar, nivelin e klasifikimit dhe afatin e ruajtjes së këtij niveli.

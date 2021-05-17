@@ -1,1 +1,0 @@
-9. Drejtuesit e institucioneve janë të detyruar që, për të gjitha ndryshimet e bëra në gjendjen e informacionit të klasifikuar “sekret shtetëror”, të njoftojnë DSIK-në dhe institucionin, të cilit i është përcjellë ky informacion.

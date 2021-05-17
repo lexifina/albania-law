@@ -1,1 +1,0 @@
-2. Pranë çdo institucioni, që ka të drejtën e klasifikimit origjinal, krijohet, me urdhër të titullarit “Komisioni i shqyrtimit të informacionit të klasifikuar “sekret shtetëror””, me jo më pak se 5 anëtarë, kryetar i të cilit është titullari.
