@@ -1,1 +1,1 @@
-2. Armët tërhiqen nga punonjësi i policisë së njësisë ku janë regjistruar dhe merren në ruajtje, në pritje të trashëgimtarit legjitim për t’i marrë e regjistruar në pronësi.
+2. Armët, pjesët përbërëse të tyre, tërhiqen nga punonjësi i policisë së njësisë ku janë regjistruar dhe merren në ruajtje, në pritje të trashëgimtarit për t’i marrë e regjistruar në pronësi. Në momentin e dorëzimit të tyre organi përgjegjës për armën dhe municionin e dorëzuar pajis dorëzuesin me një vërtetim.
