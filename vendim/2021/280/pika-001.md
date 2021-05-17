@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën prej 43 687 591 (dyzet e tre milionë e gjashtëqind e tetëdhjetë e shtatë mijë e pesëqind e nëntëdhjetë e një) lekësh, për financimin e prishjes së njësive individuale të banimit, në Bashkinë Mirditë.
