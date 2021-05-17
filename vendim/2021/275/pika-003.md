@@ -1,0 +1,1 @@
+3. Tarifa, sipas pikës 1, të këtij vendimi, përfshin koston e transportit dhe koston e analizimit të mostrës së kripës ushqimore të jodizuar në laboratorët e brendshëm të saj, kur marrja e mostrës së kripës ushqimore të jodizuar, sipas procedurës realizohet nga struktura rajonale e shëndetësisë në pikën e prodhimit apo në pikat doganore (degët doganore kufitare).
