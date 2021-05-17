@@ -7,9 +7,9 @@ Neni 1
 Qëllimi
 1. Kjo rregullore ka për qëllim përcaktimin e:
 a) kritereve të sigurisë së armëve të zjarrit private, që mbahen nga subjektet e licencuara dhe të autorizuara për veprimtari të lejuara me armë;
-b) kushteve të sigurisë që duhet të plotësohen për veprimtarinë e transportit të armëve, pjesëve dhe municioneve të tyre;
-c) kushteve të sigurisë së objektit për ushtrimin e veprimtarisë së subjektit të tregtimit të armëve;
-ç) kushteve të sigurisë për ndërtimin dhe funksionimin e poligonit civil të qitjes.
+b) kushteve të sigurisë që duhet të plotësohen për veprimtarinë e transportit të armëve, pjesëve kryesore dhe municioneve të tyre;
+c) kushteve të sigurisë së objektit për ushtrimin e veprimtarisë së subjektit të tregtimit të armëve, pjesëve kryesore dhe municioneve të tyre;
+ç) kushteve të sigurisë për ndërtimin dhe funksionimin e poligonit civil të hapur, të mbyllur dhe me pjatel të qitjes.
 2. Rregullorja zbatohet në përputhje me legjislacionin në fuqi, që rregullon përdorimin e kontrolluar të armëve në vendbanim dhe vendet e ruajtjes së armëve, përcakton kushtet që duhet të kenë poligonet civile të qitjes për zhvillimin e qitjeve e ushtrimeve praktike me armët, përcakton kushtet e sigurisë së objektit për ushtrimin e veprimtarisë së subjektit të tregtimit të armëve, si dhe kushtet që duhet të plotësohen për kryerjen e transportit të armëve.
 Neni 2
 Përkufizime
@@ -35,12 +35,12 @@ c) Armët e zjarrit dhe municionit duhet të ruhen të ndara nga njëra-tjetra.
 2. Ndërtesa ku ruhen armët e zjarrit dhe municionet duhet të pajisen me rrufepritëse, me mjete të mbrojtjes dhe shpëtimit nga zjarri.
 Neni 5
 Rastet e sigurisë për armët e zjarrit
-Kushtet e përgjithshme për ruajtjen e armëve të zjarrit dhe municionit bazohen e variojnë sipas numrit të armëve të zjarrit të lejuara për mbajtje dhe sasinë e municionit, sipas kësaj ndarjeje:
+Kushtet e përgjithshme për ruajtjen e armëve të zjarrit, pjesëve kryesore dhe municionit të tyre bazohen e variojnë sipas numrit të armëve të zjarrit të lejuara për mbajtje, pjesëve kryesore dhe sasisë së municioneve të tyre, sipas kësaj ndarjeje:
 a) një deri në dy armë zjarri;
 b) tre deri pesë armë zjarri;
 c) gjashtë deri pesëmbëdhjetë armë zjarri;
 ç) mbi pesëmbëdhjetë armë zjarri;
-d) për subjektet e licencuara për tregtimin e armëve të kategorisë “B”e “C”;
+d) për subjektet e licencuara për tregtimin e armëve, pjesëve kryesore dhe municioneve të tyre të kategorisë “C” dhe “D”, të kategorisë “B” e “C”;
 dh) paraqitja në panairet për armë;
 e) për armët në muze dhe për koleksione;
 ë) prodhimi i filmave, interpretime teatrale dhe manifestime të tjera kulturore;
@@ -137,10 +137,10 @@ PJESA III
 KUSHTET E SIGURISË QË DUHET TË PLOTËSOHEN PËR VEPRIMTARINË E TRANSPORTIT TË ARMËVE, PJESËVE DHE MUNICIONEVE TË TYRE
 Neni 11
 Transporti i armëve
-Transportin me armë, pjesë të armëve dhe municion mund ta bëjnë personat juridikë me seli në Republikën e Shqipërisë, të cilët janë licencuar nga Policia e Shtetit për këtë qëllim.
+Transportin e armëve, pjesëve kryesore dhe municioneve të tyre mund ta bëjë çdo person fizik dhe juridik me seli në Republikën e Shqipërisë, që është licencuar nga Policia e Shtetit për këtë qëllim.
 Neni 12
 Kushtet për kryerjen e transportit
-Subjektet e licencuara për transportin e armëve, pjesëve dhe municioneve të tyre të kategorive “B1”, “B4”, “C” dhe “D”, duhet të plotësojnë këto kushte:
+Subjektet e licencuara për transportin e armëve, pjesëve kryesore dhe municionit të tyre duhet të plotësojnë këto kushte:
 a) Të disponojnë “Certifikatën e miratimit të mjetit, sipas ADR-së”, e lëshuar nga institu-cionet, sipas nenit 37, të ligjit nr. 118/2012, “Për transportin e lëndëve të rrezikshme”, që vërteton se një mjet i vetëm i destinuar për transportin e disa mallrave të rrezikshme plotëson kërkesat teknike përkatëse, sipas marrëveshjes së përmendur në pikën 1, të nenit 5, të këtij ligji.
 b) Të jenë pajisur me “Certifikatë trajnimi”, e lëshuar për personin, i cili ka kaluar një provim të miratuar nga autoriteti përgjegjës në transportin e mallrave të rrezikshme (sipas ligjit nr. 118/2012, “Për lëndët e rrezikshme”);
 c) Të disponojnë certifikatën e vlefshme të ADR-së të drejtuesit të mjetit që do të kryejë transportin e armëve, pjesëve dhe municioneve (sipas ligjit nr. 118/2012, “Për lëndët e rrezikshme”);
@@ -165,11 +165,13 @@ PJESA IV
 LICENCA PËR POLIGONET CIVILE TË QITJES
 Neni 15
 Poligonet civile të qitjes
-Poligonet e qitjes janë:
-a) poligon qitjeje i mbyllur (të mbuluar);
-b) poligon qitjeje i hapur (në terren, të pambuluar);
-a.1. poligon qitjeje i mbyllur është objekt (ndërtesë), i ndërtuar mbi bazën e një projekti me material të veçantë dhe i kompletuar me pajisje specifike për trajnimin dhe zhvillimin e qitjeve me armë zjarri;
-b.1. poligon qitje i hapur është pjesë terreni (territori) e përzgjedhur dhe e përgatitur sipas kritereve standarde për trajnimin e zhvillimin e qitjeve me armët e zjarrit.
+Poligonet civile të qitjes janë:
+a) poligon civil qitjeje i mbyllur (të mbuluar);
+b) poligon civil qitjeje i hapur (në terren, të pambuluar);
+c) poligon civil qitjeje me pjatel;
+a.1. poligon civil qitjeje i mbyllur është objekt (ndërtesë), i ndërtuar mbi bazën e një projekti me material të veçantë dhe i kompletuar me pajisje specifike për trajnimin dhe zhvillimin e qitjeve me armë zjarri;
+b.1. poligon civil qitjeje i hapur është pjesë terreni (territori) e përzgjedhur dhe e përgatitur sipas kritereve standarde për trajnimin e zhvillimin e qitjeve me armët e zjarrit;
+c.1. Poligon civil qitjeje me pjatel është pjesë terreni (territori) e përzgjedhur dhe e përgatitur sipas kritereve standarde për zhvillimin e qitjeve me armët e gjahut.
 Neni 16
 Rregullat e ndërtimit dhe shfrytëzimit të poligoneve të hapura
 Poligoni i ndërtuar në natyrë duhet të plotësojë këto kushte:
@@ -177,20 +179,34 @@ a) Të jetë larg qendrave të banuara dhe drejtimi i zjarrit të jetë në drej
 b) Në drejtim të qitjes, poligoni sigurohet në më shumë se tre kilometra në vijë ajrore dhe po aq në të dy krahët në këndin 90 gradë me drejtimin e qitjes;
 c) Strehimi duhet të jetë 2.2 metër i thellë, duke filluar nga sipërfaqja e tokës dhe 1.5 metër i gjerë, ndërsa gjatësia është në varësi të madhësisë së shenjave që do të vendoset. Muret vishen me gurë ose tulla. Ana e strehimit nga bëhet qitja duhet të jetë më e lartë, e mbuluar me element betoni dhe sipër me plisa dheu, pjesa e prapme duhet të jetë me dhe të shkrifët dhe të mos ketë objekt të fortë që mundëson rikoshetimin e plumbave;
 ç) Kur tabelat shfaqen me anë mekanike (mekanizëm me litar e kavo) dhe tërhiqen nga mbajtësi i tabelave, prej tij mbahet skafandër antiplumb dhe qëndron në fund të strehimit në drejtim të qitjes.
+d) Ambienti të jetë me kushte të tilla që të garantojë që predhat/saçmat të mos bien në lumenj, rezervate apo liqene;
+dh) Të respektojë standardet për mbrojtjen nga ndotja akustike;
+e) Të disponohet leje nga autoriteti shtetëror përkatës ku do të ndërtohet poligoni civil i hapur.
+Neni 16/1
+Rregullat e ndërtimit dhe shfrytëzimit të poligonit civil me pjatel
+Poligoni civil i ndërtuar në natyrë duhet të plotësojë këto kushte:
+a) Të jetë larg qendrave të banuara dhe drejtimi i qitjes me pjatel të jetë në drejtim të kundërt me banesat;
+b) Në drejtim të qitjes, poligoni sigurohet në më shumë se 200 m në vijë ajrore dhe 100 m në të dyja krahët në këndin 90 gradë me drejtimin e qitjes;
+c) Ambienti të jetë me kushte të tilla që të garantojë që saçmat të mos bien në lumenj, rezervate apo liqene;
+ç) Të respektojë standardet për mbrojtjen nga ndotja akustike;
+d) Të disponohet leje nga autoriteti shtetëror përkatës, ku do të ndërtohet poligoni me pjatel;
+dh) Të ketë kushte të përshtatshme për menaxhimin e mbetjeve që krijohen gjatë qitjes apo gjatë shërbimeve të tjera që ofrohen në poligon, në përputhje me legjislacionin në fuqi për menaxhimin e integruar të mbetjeve.
 Neni 17
 Rregullat e ndërtimit dhe shfrytëzimit të poligoneve të mbyllura
 1. Kërkesat teknike të poligonit të mbyllur.
 a) Sipërfaqja e poligonit:
 Jo më pak se 500 m2 për zhvillimin e qitjeve me pistoleta të kalibrit 9 mm, fishek të 9x19/9x21 mm dhe në një largësi prej 25 metrash.
 b) Ndarjet e ambienteve në poligonet e qitjes.
-Çdo poligon ka:
-- dhomën e regjistrimit të mbrojtur me xham antiplumb;
-- dhomën e komandës nga e cila monitorohen veprimet gjatë zhvillimit të qitjes, dy ndarje me nga tre korsi qitjeje.
+Çdo poligon civil ka:
+i. dhomën e regjistrimit të mbrojtur me xham antiplumb;
+ii. dhomën e komandës nga e cila monitorohen veprimet gjatë zhvillimit të qitjes;
+iii. dy ose më shumë korsi të qitjes.
 c) Pajisjet mbrojtëse të poligonit të qitjes.
 Çdo poligon qitjeje siguron:
 - mbrojtje akustike, realizuar me një veshje;
 - mbrojtje për uljen e shpejtësisë së plumbave, realizuar me një veshje me material të përshtatshëm gome, sintetike;
 - mbrojtje nga gazrat helmuese, ku evitohen gazrat e çliruara gjatë zhvillimit të qitjes, janë vendosur pajisje të ndërrimit të ajrit të ndotur.
+ç) Lartësia e poligonit: jo më pak se 280 cm.
 Neni 18
 Klasa mësimore dhe dhomat e ruajtjes së armatimit e municionit
 Në poligon janë:
@@ -253,10 +269,11 @@ b) të gjitha dyert dhe dritaret përgjatë perimetrit të depos të jenë me ma
 2. Kushtet dhe kriteret e sigurisë së armëve, objekt i veprimtarisë tregtare, janë ato të parashikuara në pjesën II, të kësaj rregulloreje.
 Neni 23
 Kushtet e sigurisë brenda objektit
-Objekti që shërben për tregtimin e armëve nga brenda duhet të pajiset me:
-a) kasaforta të sigurta sipas sasisë së armëve si në rastet e përcaktuara në këtë rregullore për armët e kategorisë “B”;
+Objekti që shërben për tregtimin e armëve, pjesëve kryesore dhe municioneve të tyre nga brenda duhet të pajiset me:
+a) kasaforta të sigurta sipas sasisë së armëve, pjesëve kryesore dhe municioneve të tyre, si në rastet e përcaktuara në këtë rregullore për armët e zjarrit;
 b) ambient për municionin, i ndarë nga ai i armëve të tjera;
 c) dollapë ose ekspozita për armët me elemente sigurie të përcaktuara në këtë rregullore.
+ç) të ketë kushte të përshtatshme për menaxhimin e mbetjeve që krijohen gjatë shërbimeve që ofrohen në objekt, në përputhje me legjislacionin në fuqi për menaxhimin e integruar të mbetjeve.
 Neni 24
 Kushtet e sigurisë jashtë objektit
 1. Siguria e jashtme e objektit të bëhet me pajisje sistem alarmi dhe pajisje vëzhgimi vizive, si dhe me roje të shërbimit privat të sigurisë fizike. Objekti të jetë i siguruar me ndriçim të plotë nga jashtë.
