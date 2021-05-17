@@ -1,1 +1,1 @@
-12. Çdo vulosje duhet të vendoset në pjesën kryesore të dukshme të armës. Pjesa e vulosur të jetë e pazëvendësueshme në asnjë rrethanë, në rast thyerjeje të armës.
+12. Markimi vendoset në pjesën kryesore të dukshme të armës së zjarrit dhe në pjesët kryesore të armëve. Markimi duhet të jetë i pazëvendësueshëm në asnjë rrethanë.

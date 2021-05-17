@@ -1,1 +1,1 @@
-16. Vulosen edhe armët e kategorive “A” e “B”, të cilat merren për qëllime studimi apo laboratorike nga policia shkencore. Ato shënohen me shkronjat “LB”. Vulosja bëhet njëlloj, si për ato të përcaktuara në pikën 15, të këtij vendimi.
+16. Shfuqizuar.
