@@ -1,0 +1,26 @@
+{
+  "qbz_id": 23056,
+  "title": "Për miratimin e \"Rregullave të vlerësimit të Gjyqtarëve të komanduar në Gjykatën e Lartë\"",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "194",
+  "institution": "Këshilli i Lartë Gjyqësor",
+  "adopted": "2021-05-12",
+  "published": "2021-05-18",
+  "in_force": "2021-05-18",
+  "in_force_basis": "\"hyn në fuqi në datën e botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/4add86a694780019536ae20733b38dc275306898e61504fd330c58d9d259d127.docx",
+  "source_sha256": "4add86a694780019536ae20733b38dc275306898e61504fd330c58d9d259d127",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23056",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/05/12/194",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
