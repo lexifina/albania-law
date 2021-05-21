@@ -1,1 +1,6 @@
-11. Afati i vlefshmërisë së autorizimit të posaçëm për mbajtje arme varion sipas ekzistencës së kërcënimit dhe rrezikut për jetën.
+11. Afati i vlefshmërisë së autorizimit të posaçëm për mbajtje arme bazohet në vlerësimin e ekzistencës së kërcënimit dhe rrezikut për jetën, vlerësim i cili kryhet të paktën çdo 1 (një) vit.
+11/1 3 (tre) muaj përpara përfundimit të afatit të autorizimit të posaçëm, shtetasi ka të drejtë të paraqesë kërkesë për rivlerësimin e ekzistencës së kërcënimit dhe rrezikut për jetën, me qëllim rinovimin e autorizimit. Për rinovimin e autorizimit shtetasi duhet të ndjekë të njëjtat procedura, si në rastin e pajisjes me autorizim të posaçëm, për herë të parë.
+11/2 Në rast se Komisioni nuk vendos për rinovimin e autorizimit të posaçëm, në zbatim të nenit 42, të ligjit nr. 74/2014, “Për armët”, të ndryshuar, personit i pushon vetiu e drejta për mbajtjen e armës dhe detyrohet që, brenda 3 (tri) ditëve, ta dorëzojë në organin përgjegjës të Policisë së Shtetit që ka për detyrë administrimin e armës.
+Pas dorëzimit të armës në organin përgjegjës të Policisë së Shtetit, që ka për detyrë administrimin e armës, personi ka të drejtë:
+a) të ndjekë procedurën për tjetërsimin (shitjen) e armës sipas nenit 39, të ligjit nr. 74/2014, “Për armët”, të ndryshuar;
+b) të kërkojë autorizim për mbajtje arme në vendbanim. Në këtë rast ndiqen procedurat, rregullat dhe afatet për vlerësimin e përmbushjes së kritereve, për pajisjen me autorizim, për mbajtje arme në vendbanim.
