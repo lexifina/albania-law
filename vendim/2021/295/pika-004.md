@@ -1,0 +1,1 @@
+4. Masa e shpërblimit për pronarët që shpronësohen, prej 20 892 266 (njëzet milionë e tetëqind e nëntëdhjetë e dy mijë e dyqind e gjashtëdhjetë e gjashtë) lekësh, të përballohet nga fondi rezervë i buxhetit të shtetit.
