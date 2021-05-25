@@ -1,1 +1,0 @@
-7. I huaji azilant, i cili provon me dokumente përfundimin e shkollës së mesme, ka të drejtë të konkurrojë për t’u regjistruar në institucionet e arsimit të lartë publik (IAL), sipas udhëzimeve përkatëse që harton MASH, për kriteret e ekuivalentimit dhe regjistrimit në IAL.
