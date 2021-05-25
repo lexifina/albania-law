@@ -1,0 +1,1 @@
+2. Sipërfaqja prej 10 000 (dhjetë mijë) m2, e llojit truall, ndodhur në zonën kadastrale 8561, me numër pasurie 1/911, e përmendur në pikën 1, të këtij vendimi, të hiqet nga lista e inventarit të pronave të paluajtshme në pronësi të Bashkisë Korçë.
