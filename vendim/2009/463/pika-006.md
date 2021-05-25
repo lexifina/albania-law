@@ -1,1 +1,0 @@
-6. Punonjësit e Policisë së Burgjeve, deri në zëvendësimin e plotë të uniformës ekzistuese, me miratimin paraprak të Ministrit të Drejtësisë, lejohen të përdorin uniforma me ndryshime në elemente të veçanta nga uniforma e përcaktuar në këtë vendim.
