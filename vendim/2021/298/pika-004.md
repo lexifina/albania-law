@@ -1,0 +1,1 @@
+4. Fondet publike për mbulimin e shpenzimeve për bursat/kuotat ushqimore, me qëllim zbatimin e këtij vendimi, rialokohen nga Ministria e Arsimit, Sportit dhe Rinisë për Bashkinë Korçë dhe administrohen nga kjo bashki.
