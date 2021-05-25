@@ -1,0 +1,1 @@
+1. Fëmijët e personave, të cilët janë në situatë migrimi/azili, refugjatë apo fëmijëve të huaj të pashoqëruar në Republikën e Shqipërisë, ndjekin arsimin parauniversitar me të njëjtat kushte, si edhe fëmijët me shtetësi shqiptare. Zyrat vendore të arsimit parauniversitar (ZVAP) përcaktojnë institucionet arsimore parauniversitare publike ku do të regjistrohen këta fëmijë.

@@ -1,0 +1,1 @@
+2. Fëmijët e moshës 3-5 vjeç që nuk zotërojnë certifikatë lindjeje apo fëmijëve të huaj të pashoqëruar, të regjistrohen në arsimin parashkollor, sipas deklarimit të prindërve/kujdestarit ligjor dhe dokumentacionit që fëmija zotëron nga autoriteti përgjegjës për azilin dhe refugjatët.
