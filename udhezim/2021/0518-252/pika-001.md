@@ -1,0 +1,1 @@
+1. Miratimin e standardeve minimale për shërbimet e përkujdesjes shoqërore për personat LGBTI+, në qendrat rezidenciale publike dhe jopublike në Shqipëri, sipas dokumentit që i bashkëlidhet këtij udhëzimi.
