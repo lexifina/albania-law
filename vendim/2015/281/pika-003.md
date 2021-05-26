@@ -1,0 +1,4 @@
+3. Vlera e pagesës së qirasë, për tokën shtetërore, të paguhet nga shoqëria TAP AG, në emër të Ministrisë së Energjisë dhe Industrisë, për llogari të buxhetit të shtetit, si kompensim, sipas planit të rehabilitimit të jetesës, për marrjen në përdorim të tokës shtetërore, për një periudhë dyvjeçare, me qëllim ndërtimin e rrugëve hyrëse të projektit TAP, sipas nënndarjes “ii”, të shkronjës “c”, pikës 8.1, të ligjit nr. 116/2013. Pagesa e qirasë, për tokën shtetërore, nga ana e shoqërisë TAP AG, të bëhet sipas pikës 6, të këtij vendimi, për:
+a) sipërfaqet truall, që janë pronë shtetërore;
+b) sipërfaqet tokë bujqësore, të cilave u është ndryshuar statusi nga tokë bujqësore në tokë truall, për ndërtim;
+c) sipërfaqet e fondit pyjor dhe kullosor, të hequra nga ky fond dhe të kaluara në tokë truall, për ndërtim.

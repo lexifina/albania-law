@@ -1,0 +1,1 @@
+1. Vënien në dispozicion të shoqërisë Trans Adriatic Pipeline AG (TAP AG), nëpërmjet marrjes në përdorim, të sipërfaqeve të tokës shtetërore që preken nga ndërtimi i rrugëve hyrëse të projektit të gazsjellësit Trans Adriatik (Projekti TAP), si dhe për hyrjen në rrjetin rrugor shqiptar.

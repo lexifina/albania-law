@@ -1,0 +1,5 @@
+VENDIM
+Nr. 281, datë 1.4.2015
+PËR VËNIEN NË DISPOZICION TË SHOQËRISË TRANS ADRIATIC PIPELINE AG (TAP AG), NËPËRMJET MARRJES NË PËRDORIM, TË SIPËRFAQEVE TË TOKAVE SHTETËRORE QË PREKEN NGA NDËRTIMI I RRUGËVE HYRËSE TË PROJEKTIT TË GAZSJELLËSIT TRANS ADRIATIK (PROJEKTI TAP)
+Në mbështetje të nenit 100 të Kushtetutës, të pikave 3, 5, 7 e 8, të shtojcës 1, të pjesës së parë të marrëveshjes me qeverinë e vendit pritës, ndërmjet Republikës së Shqipërisë, duke vepruar nëpërmjet Këshillit të Ministrave, dhe Trans Adriatic Pipeline AG, lidhur me projektin e gazsjellësit transadriatik (Projekti TAP), ratifikuar me ligjin nr. 116/2013, “Për ratifikimin e marrëveshjes me qeverinë e vendit pritës, ndërmjet Republikës së Shqipërisë, duke vepruar nëpërmjet Këshillit të Ministrave, dhe Trans Adriatic Pipeline AG, lidhur me projektin e gazsjellësit Trans Adriatik (projekti TAP), si dhe të marrëveshjes, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave, dhe Trans Adriatic Pipeline AG, në lidhje me projektin e gazsjellësit Trans Adriatik (projekti TAP)”, me propozimin e ministrit të Energjisë dhe Industrisë, Këshilli i Ministrave
+VENDOSI:
