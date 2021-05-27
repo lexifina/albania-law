@@ -1,0 +1,1 @@
+4. Shpenzimet shtesë të spitaleve të përcaktuara në pikën 1 të këtij urdhri për mbulimin e nevojave për mallra dhe shërbime esenciale të Spitalit Rajonal “Memorial” Fier, do të financohen nga FSDKSH-ja përmes rialokimeve të fondeve për llogari të këtyre institucioneve.

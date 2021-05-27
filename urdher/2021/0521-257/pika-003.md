@@ -1,0 +1,1 @@
+3. Qendra Spitalore Universitare “Nënë Tereza”, Spitali Rajonal Fier, Vlorë, Gjirokastër dhe Spitali Bashkiak Lushnjë do të mbulojnë nevojat e Spitalit Rajonal Memorial Fier për barna dhe materiale mjekësore.

@@ -1,0 +1,1 @@
+2. Mallrat dhe shërbimet esenciale për mbulimin e nevojave gjatë periudhës së mobilizimit do të sigurohen respektivisht nga strukturat e cituara në pikën 1 të këtij urdhri, sipas kërkesave që do të përcillen nga Spitalit Rajonal “Memorial” Fier.
