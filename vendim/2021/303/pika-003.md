@@ -1,0 +1,1 @@
+3. Vendimi nr. 293, datë 8.4.2015, i Këshillit të Ministrave, “Për miratimin e llojeve të armatimit, të lëndëve neuroparalizuese dhe të mjeteve të tjera të përdorimit të forcës nga Policia e Shtetit”, shfuqizohet.
