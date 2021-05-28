@@ -1,0 +1,1 @@
+4. Bashkia Mirditë dhe shoqëria “Vuthaj” sh.p.k. të nënshkruajnë marrëveshjen e bashkëpunimit jo më vonë se 60 (gjashtëdhjetë) ditë nga hyrja në fuqi e këtij vendimi. Një kopje e marrëveshjes, së bashku me projektet e miratuara për pyllëzimin, dërgohen në Ministrinë e Turizmit dhe Mjedisit jo më vonë së 10 (dhjetë) ditë nga data e nënshkrimit të saj.
