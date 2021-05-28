@@ -1,0 +1,1 @@
+1. Miratimin e kontratës shtesë të koncesionit “Për disa ndryshime në kontratën e koncesionit të formës “BOT” (ndërtim-operim-transferim), për ndërtimin e hidrocentraleve mbi lumin Gostimë (Egnatia - Shushicë), me nr. 4 rep. & nr. 1 kol., datë 20.2.2013”, sipas tekstit që i bashkëlidhet këtij vendimi.
