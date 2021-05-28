@@ -1,1 +1,0 @@
-2. Tabela organike e pajisjes me armatim, lëndë neuroparalizuese dhe mjete të tjera të përdorimit të forcës miratohet me urdhër të ministrit të Punëve të Brendshme, me propozimin e drejtorit të Policisë së Shtetit.
