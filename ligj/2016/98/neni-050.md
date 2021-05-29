@@ -3,7 +3,7 @@ Kategoritë e nëpunësve civilë gjyqësorë
 1. Kategoritë e nëpunësve civilë gjyqësorë janë:
 a) kancelari;
 b) këshilltari ligjor në Gjykatën e Lartë;
-c) ndihmësi ligjor në Gjykatën e Apelit;
+c) ndihmësi ligjor në gjykatën e shkallës së parë dhe gjykatën e apelit;
 ç) kryesekretari;
 d) sekretari gjyqësor;
 dh) nëpunësi i financës dhe buxhetit;

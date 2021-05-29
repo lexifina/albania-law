@@ -3,10 +3,9 @@ Kritere të veçanta për pranimin e nëpunësve civilë gjyqësorë
 1. Për t’u pranuar në provimin e pranimit për formimin fillestar për kancelar, kandidatët duhet të plotësojnë edhe kriteret e veçanta si vijon:
 a) të jenë diplomuar në drejtësi ose ekonomi në nivelin “Master shkencor” ose të barasvlershëm me të, sipas përcaktimeve të legjislacionit të arsimit të lartë;
 b) të kenë përvojë profesionale mbi tetë vjet, nga të cilat së paku tre vjet në pozicione administruese ose pesë vjet në sistemin gjyqësor.
-2. Për pozicionin e ndihmësit ligjor në gjykatat e apelit, kandidatët duhet të përmbushin këto kritere të veçanta:
+2. Për pozicionin e ndihmësit ligjor në gjykatat e shkallës së parë dhe gjykatat e apelit, kandidatët duhet të përmbushin këto kritere të veçanta:
 a) të jenë diplomuar në drejtësi në nivelin “Master shkencor”, të barasvlershëm me të, sipas përcaktimeve të legjislacionit të arsimit të lartë;
-b) të kenë përvojë profesionale jo më pak se pesë vjet, duke përfshirë së paku tre vjet përvojë pune profesionale që lidhet me gjykatën.
-3. Për pozicionin e këshilltarit ligjor në Gjykatën e Lartë, kandidatët duhet të përmbushin kriteret e parashikuara në nenin 34, pika 6, të këtij ligji.
+b) të kenë përvojë profesionale jo më pak se tre vjet si nëpunës në sistemin gjyqësor ose të prokurorisë, në administratën publike, profesionet e lira ligjore, mësimdhënie në fakultetet e drejtësisë, ose në çdo pozicion tjetër të barasvlershëm me to, në sektorin privat ose në organizatat ndërkombëtare. 3. Për pozicionin e këshilltarit ligjor në Gjykatën e Lartë, kandidatët duhet të përmbushin kriteret e parashikuara në nenin 34, pika 6, të këtij ligji.
 4. Për pozicionin e kryesekretarit, kandidatët duhet të përmbushin këto kritere të veçanta:
 a) të jenë diplomuar në drejtësi në nivelin “Master profesional” ose të barasvlershëm me të, sipas përcaktimeve të legjislacionit të arsimit të lartë;
 b) të kenë përvojë profesionale jo më pak se pesë vjet, duke përfshirë së paku tre vjet përvojë pune si sekretar gjyqësor.

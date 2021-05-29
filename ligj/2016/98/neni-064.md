@@ -13,4 +13,4 @@ b) rregullat mbi kohëzgjatjen e punës, ditët pushim dhe lejen, orët jashtë 
 a) kandidati nuk ka mundur të përmbushë kërkesat për t’u emëruar sipas nenit 53 të këtij ligji;
 b) mandati i kancelarit, këshilltarit ose ndihmësit ligjor përfundon përpara plotësimit të të paktën pesë viteve në ushtrimin e detyrës.
 9. Për shkaqe shëndetësore ose për shkaqe të tjera të justifikuara, miratuar me vendim nga Këshilli Drejtues i Shkollës së Magjistraturës, detyrimi për kthimin e shumës së përfituar të bursës së shkollimit, sipas parashikimeve të pikës 8, të këtij neni, nuk zbatohet për kandidatin.
-10. Nëpunësi civil gjyqësor në gjykatat e posaçme për gjykimin e veprave penale të korrupsionit dhe krimit të organizuar përfiton shtesë për vështirësi në masën 10 për qind të pagës përkatëse.
+10. Shfuqizuar..

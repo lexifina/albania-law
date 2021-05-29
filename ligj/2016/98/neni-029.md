@@ -1,6 +1,6 @@
 # Neni 29
 Mbledhja e përgjithshme e gjyqtarëve të gjykatës
-1. Mbledhja e përgjithshme e të gjithë gjyqtarëve të gjykatës thirret rregullisht dhe kryesohet nga kryetari i gjykatës.
+1. Mbledhja e përgjithshme e të gjithë gjyqtarëve të gjykatës thirret rregullisht dhe kryesohet nga kryetari i gjykatës. Në mbledhje marrin pjesë të gjithë gjyqtarët që ushtrojnë detyrën. Mbledhja është e vlefshme kur marrin pjesë shumica e gjyqtarëve.
 2. Kryetari siguron që mbledhja të zhvillohet me regjistrim audio dhe të mbahet procesverbal për diskutimet e zhvilluara. Regjistrimi audio dhe procesverbali i mbledhjes i zbardhur ruhet për të paktën dhjetë vjet dhe i vihet në dispozicion gjyqtarëve të gjykatës, anëtarëve të Këshillit të Lartë Gjyqësor dhe Inspektorit të Lartë të Drejtësisë. Akses mund t’u jepet personave dhe institucioneve të tjera të interesuara, duke siguruar mbrojtjen e të dhënave personale.
 3. Kryetari njofton Këshillin e Lartë Gjyqësor për datën dhe rendin e ditës së mbledhjes së përgjithshme të gjyqtarëve kur diskutohet analiza vjetore e gjykatës, të paktën dy javë më parë. Këshilli i Lartë Gjyqësor mund të vendosë për të marrë pjesë në mbledhjen e përgjithshme të gjyqtarëve përmes anëtarëve të tij si vëzhgues.
 4. Kryetari mund të ftojë në mbledhjen e përgjithshme të gjyqtarëve, nëpunës civilë gjyqësorë në detyrë ose që kryejnë praktikën profesionale, ose palë të tjera të interesuara.

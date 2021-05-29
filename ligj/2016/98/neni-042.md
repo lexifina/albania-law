@@ -1,6 +1,7 @@
 # Neni 42
-Ndihmësit ligjorë të gjykatave të apelit
-1. Pranë gjykatave të apelit mund të funksionojë njësia e shërbimit ligjor, e përbërë nga ndihmësit ligjorë, e krijuar me vendim të Këshillit të Lartë Gjyqësor. Numri i ndihmësve ligjorë nuk mund të jetë më i madh se gjysma e numrit të gjyqtarëve në gjykatë.
+Ndihmësit ligjorë të gjykatave të shkallës së parë dhe të gjykatave të apelit
+1. Pranë gjykatave të shkallës së parë dhe gjykatave të apelit mund të funksionojë Njësia e Shërbimit Ligjor, e përbërë nga ndihmësit ligjorë, e krijuar me vendim të Këshillit të Lartë Gjyqësor.
+1/1 Këshilli i Lartë Gjyqësor cakton numrin e ndihmësve ligjorë për çdo gjykatë duke u bazuar në domosdoshmërinë e tyre për mbarëvajtjen e punës në gjykatë, pasi ka vlerësuar kriteret e përcaktuara në nenin 15, pika 3, shkronja “b”, të këtij ligji, llojin dhe natyrën e çështjeve për t’u përpunuar dhe përgatitur nga ndihmësit ligjorë, si dhe pas marrjes së mendimit të Këshillit të Gjykatës, ministrit të Drejtësisë dhe ministrit të Financave. Numri i ndihmësve ligjorë nuk mund të jetë më i madh se numri i përgjithshëm i gjyqtarëve.
 2. Ndihmësi ligjor në veçanti:
 a) analizon praktikën gjyqësore përkatëse mbi interpretimin e dispozitave të zbatueshme për çështjet në gjykim;
 b) përpunon çështjen dhe përgatit çështje të thjeshta standarde me shkallë kompleksiteti të ulët për marrjen e vendimit nga gjyqtari;
@@ -16,4 +17,4 @@ b) me paanshmëri, pa favorizime dhe pa paragjykime.
 a) gjyqtari do të tërheqë çështjen;
 b) zbulon çështje faktike ose ligjore, të cilat, sipas kompleksitetit ose vështirësisë së çështjes, duhet të përpunohen nga një gjyqtar.
 9. Ndihmësi ligjor, ndihmësi magjistrat ose jomagjistrat u nënshtrohen rregullave të papajtueshmërisë, kufizimeve në detyrë dhe konfliktit të interesave ashtu si magjistrati.
-10. Këshilli i Lartë Gjyqësor miraton rregulla të detajuara për kushtet dhe kriteret profesionale që duhet të përmbushin ndihmësit ligjorë në gjykatat e apelit, llojin dhe natyrën e detyrave të ndihmësve ligjorë, llojin dhe natyrën e çështjeve për t’u përpunuar dhe përgatitur nga ndihmësit ligjorë, për kriteret dhe procedurat për ndarjen e çështjeve me short, si dhe vlerëson rregullisht ngarkesën e punës së ndihmësve ligjorë dhe siguron një numër të përshtatshëm të tyre për çdo gjykatë apeli.
+10. Këshilli i Lartë Gjyqësor miraton rregulla të detajuara për kushtet dhe kriteret profesionale që duhet të përmbushin ndihmësit ligjorë në gjykatat e shkallës së parë dhe gjykatat e apelit, llojin dhe natyrën e detyrave të ndihmësve ligjorë, llojin dhe natyrën e çështjeve për t’u përpunuar dhe përgatitur nga ndihmësit ligjorë, për kriteret dhe procedurat për ndarjen e çështjeve me short, si dhe vlerëson rregullisht ngarkesën e punës së ndihmësve ligjorë dhe siguron një numër të përshtatshëm të tyre për çdo gjykatë.
