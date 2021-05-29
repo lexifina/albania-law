@@ -1,0 +1,26 @@
+{
+  "qbz_id": 61313,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 96/2016 “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "50",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2021-03-23",
+  "published": "2021-05-14",
+  "in_force": "2021-05-29",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/1918c3e4aed3622a02e6e41462cf50442516fc06e40ff557ed528f75e0ae25ca.docx",
+  "source_sha256": "1918c3e4aed3622a02e6e41462cf50442516fc06e40ff557ed528f75e0ae25ca",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61313",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2021/03/23/50",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
