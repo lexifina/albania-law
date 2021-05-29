@@ -1,0 +1,8 @@
+# Neni 34
+Seanca gjyqësore
+1. Seanca gjyqësore zhvillohet sipas neneve të Kodit të Procedurës Civile, për aq sa ato janë të pajtueshme me këtë ligj.
+2. Mosparaqitja e palëve në seancë nuk shkakton shtyrjen apo pushimin e gjykimit.
+3. Shqyrtimi i çështjes nga gjykata në seancë gjyqësore bëhet me shkrim, por palët mund të kërkojnë të parashtrojnë, me gojë, shpjegimet e tyre. Në këtë rast gjykata udhëzon palët që të citojnë vetëm çështjet faktike dhe ligjore që, sipas mendimit të saj, janë të rëndësishme për dhënien e vendimit edhe nëse ato nuk ishin referuar në kërkesëpadinë e paraqitur në parë.
+4. Eksperti i kërkuar nga palët paraqitet në seancë gjyqësore për të shpjeguar me gojë njohuritë e tij të posaçme për natyrën e mosmarrëveshjes. Për marrjen në pyetje të tij zbatohen rregullat e Kodit të Procedurës Civile për dëshmitarët. Vlera provuese e pohimeve të tij është e njëjtë me vlerën e thënieve të dëshmitarit. Ai i përgjigjet pyetjeve të bëra nga palët dhe gjykata. Për të ndihmuar kujtesën, eksperti mund të lexojë dokumentet e hartuara prej tij. Në raste të veçanta dhe të ndërlikuara, gjykata mund të vendosë që eksperti të paraqesë me shkrim shpjegimet e tij brenda 10 ditëve.
+5. Eksperti i caktuar nga gjykata paraqitet në gjykim me aktin e përgatitur me shkrim, sipas detyrave të caktuara nga gjyqtari kryesues në veprimet përgatitore. Ai u përgjigjet me gojë pyetjeve të bëra nga palët dhe gjykata.
+6. Në rast se gjykata ka caktuar afat për paraqitjen e pretendimeve përfundimtare me shkrim të palëve, mosparaqitja me shkrim e tyre brenda afatit të caktuar, nuk përbën shkak për shtyrjen e shqyrtimit gjyqësor.

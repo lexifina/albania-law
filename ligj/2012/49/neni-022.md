@@ -1,0 +1,6 @@
+# Neni 22
+Njoftimet
+1. Përveç mjeteve dhe mënyrave të njoftimit, të parashikuara në Kodin e Procedurës Civile, gjykata, kur e çmon të dobishme dhe kur palët kanë dhënë pëlqimin për pranimin e njoftimit, urdhëron:
+a) Njoftimin e palëve ose përfaqësuesve të tyre nga nëpunësi gjyqësor, nëpërmjet telefonit të gjykatës të përcaktuar për këtë qëllim me urdhër të kancelarit të gjykatës. Ky njoftim duhet të pasqyrohet në një procesverbal të posaçëm, në të cilin duhet të tregohen numri i telefonit në të cilin bëhet njoftimi, data dhe ora e saktë e komunikimit, personi me të cilin komunikon nëpunësi gjyqësor dhe qëllimi i njoftimit. Procesverbali hartohet nga sekretari gjyqësor dhe nënshkruhet prej tij dhe nëpunësit gjyqësor të ngarkuar me kryerjen e njoftimeve. Ky procesverbal bëhet pjesë e dosjes së gjykimit.
+b) Njoftimin e palëve ose përfaqësuesve të tyre nga nëpunësi gjyqësor në një adresë elektronike, në përputhje me legjislacionin e komunikimeve elektronike. Në këtë mënyrë palëve mund t’u komunikohen edhe dokumente.
+2. Rregulla të detajuara për mënyrën e njoftimit elektronik, sipas pikës 1 të këtij neni, caktohen me urdhër të Ministrit të Drejtësisë brenda 3 muajve nga hyrja në fuqi e këtij ligji.

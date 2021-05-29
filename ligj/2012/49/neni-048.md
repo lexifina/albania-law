@@ -1,0 +1,6 @@
+# Neni 48
+Ankimi në Gjykatën Administrative të Apelit
+1. Gjykata, ku është paraqitur ankimi, dërgon ankimin, së bashku me aktet që i bashkëlidhen atij, vendimin e gjyqtarit për pranimin e ankimit, aktet e komunikimit të ankimit, si dhe dosjen e gjykimit në Gjykatën Administrative të Apelit, brenda 15 ditëve nga data e depozitimit të ankimit.
+1/1. Relatori i çështjes në Gjykatën Administrative të Apelit, kur çmon se të metat e ankimit nuk janë konstatuar nga gjyqtari i vetëm sipas nenit 46 të këtij ligji, me vendim njofton palën për të plotësuar të metat brenda 5 ditëve, duke e informuar për pasojat ligjore në rastin e mosplotësimit të të metave të ankimit brenda afatit të caktuar. Kur të metat e ankimit nuk plotësohen brenda afatit të caktuar, relatori, në dhomë këshillimi, vendos kthimin e ankimit. Kundër vendimit të relatorit të çështjes në Gjykatën Administrative të Apelit për kthimin e ankimit lejohet rekurs i veçantë.
+2. Gjykata Administrative e Apelit shqyrton çështjen brenda 30 ditëve nga data e ardhjes së ankimit nga gjykata ku është paraqitur ankimi.
+3. Gjykata Administrative e Apelit dërgon dosjen në gjykatën administrative të shkallës së parë jo më vonë se 3 ditë pas kryerjes së njoftimit të vendimit të palëve.

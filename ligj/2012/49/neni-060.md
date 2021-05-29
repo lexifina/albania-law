@@ -1,0 +1,5 @@
+# Neni 60
+Dërgimi i rekursit në Gjykatën e Lartë
+1. Gjykata administrative, që ka dhënë vendimin e kundërshtuar, dërgon rekursin së bashku me aktet që i bashkëlidhen atij, vendimin e gjyqtarit ose relatorit për pranimin e rekursit, aktet e komunikimit të rekursit, kundërrekursin, si dhe dosjen e gjykimit në Gjykatën e Lartë brenda 10 ditëve nga data e përfundimit të komunikimeve.
+1/1. Kur të metat e rekursit nuk janë konstatuar nga gjykata më e ulët, relatori i çështjes në Gjykatën e Lartë me vendim njofton palën për të plotësuar të metat brenda 5 ditëve. Kur të metat e rekursit nuk plotësohen brenda afatit të caktuar, relatori, në dhomë këshillimi, vendos kthimin e rekursit. Kundër vendimit të relatorit të çështjes në Gjykatën e Lartë për kthimin e rekursit nuk lejohet ankim.
+2. Gjykata e Lartë shqyrton çështjen brenda 90 ditëve nga data e ardhjes së rekursit dhe akteve bashkëlidhur prej gjykatës ku është depozituar rekursi. Ky afat është 45 ditë kur rekursi është paraqitur ndaj një vendimi të Gjykatës Administrative të Apelit lidhur me gjykimin e aktit nënligjor normativ.

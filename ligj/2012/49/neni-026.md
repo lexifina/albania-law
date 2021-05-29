@@ -1,0 +1,5 @@
+# Neni 26
+Mosparaqitja e provave nga organi publik
+1. Paraqitja e provave nga palët bëhet, në çdo rast, përpara seancës së parë gjyqësore. Me kërkesë me shkrim të motivuar të organit publik, të paraqitur brenda afatit të caktuar, sipas shkronjës “b” të pikës 1 të nenit 25 të këtij ligji, gjykata i cakton atij një afat të dytë, që duhet të mbarojë jo më vonë se 5 ditë përpara datës së seancës gjyqësore. Në rast të mosparaqitjes së provave edhe brenda afatit të dytë të caktuar, shqyrtimi i çështjes vazhdon vetëm mbi aktet e paraqitura.
+2. Shkelja e pajustifikuar e detyrimit për të paraqitur provat nga organi publik edhe brenda afatit të dytë të caktuar përbën shkak që gjykata, me kërkesë të palës, ose kryesisht, të caktojë gjobë ndaj titullarit të organit publik. Masa e gjobës është e barabartë me 20 për qind të pagës minimale në shkallë vendi, për çdo ditë vonesë.
+3. Në rast se organi publik nuk i paraqet provat deri në datën e seancës gjyqësore, atëherë gjykata, duke vlerësuar provat e tjera dhe rrethanat e çështjes, mund të konsiderojë të provuar faktet e pretenduara nga pala tjetër, për provimin e të cilave janë kërkuar këto prova.

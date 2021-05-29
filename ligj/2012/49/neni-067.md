@@ -1,0 +1,5 @@
+# Neni 67
+Veprime të tjera të gjykatës gjatë ekzekutimit të vendimit
+1. Në rastet kur vendimi i gjykatës për nxjerrjen e një akti administrativ apo për të ndryshuar aktin, objekt padie, nuk është përmbushur pas kalimit të afatit për ekzekutim vullnetar, pavarësisht masave të marra, sipas këtij ligji, gjykata, në dhomë këshillimi, pa praninë e palëve, nëse gjatë shqyrtimit gjyqësor ka konstatuar se janë vërtetuar të gjitha faktet e nevojshme për nxjerrjen e aktit, merr një vendim, që zëvendëson aktin administrativ, i cili prodhon të gjitha pasojat e nevojshme juridike.
+2. Në rastet kur vendimi i gjykatës për detyrimin e organit publik për të kryer një veprim tjetër administrativ apo për të ndaluar kryerjen e një veprimi tjetër administrativ nuk është përmbushur brenda afatit për ekzekutim vullnetar, me kërkesë të paditësit e pavarësisht masave të marra, sipas këtij ligji, gjykata urdhëron përmbaruesin gjyqësor, në përputhje me dispozitivin e vendimit të saj, të kryejë apo të ndalojë veprimin.
+3. Përmbaruesi gjyqësor, në zbatimin e urdhrave të gjykatës, kur është e nevojshme, mbështetet nga Policia e Shtetit.
