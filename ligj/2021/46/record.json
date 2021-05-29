@@ -1,0 +1,26 @@
+{
+  "qbz_id": 61309,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 98/2016 “Për organizimin e pushtetit gjyqësor në Republikën e Shqipërisë",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "46",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2021-03-23",
+  "published": "2021-05-14",
+  "in_force": "2021-05-29",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/26e0664d638cae1e5bba85d977fb1badc28fe772af0436ed8f7a1ab63dc82184.docx",
+  "source_sha256": "26e0664d638cae1e5bba85d977fb1badc28fe772af0436ed8f7a1ab63dc82184",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61309",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2021/03/23/46",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
