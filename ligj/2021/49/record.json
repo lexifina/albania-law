@@ -1,0 +1,26 @@
+{
+  "qbz_id": 61312,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 49/2012 “Për gjykatat administrative dhe gjykimin e mosmarrëveshjeve administrative”, të ndryshuar”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "49",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2021-03-23",
+  "published": "2021-05-14",
+  "in_force": "2021-05-29",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/15a0107cb2472067f741507bf9e8977c71cfe41479a33e6127fbd2db12b183f1.docx",
+  "source_sha256": "15a0107cb2472067f741507bf9e8977c71cfe41479a33e6127fbd2db12b183f1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61312",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2021/03/23/49",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
