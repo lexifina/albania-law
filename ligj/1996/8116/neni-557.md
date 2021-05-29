@@ -1,0 +1,3 @@
+# Neni 557
+Ankandi i dytë
+Në rast se në ankandin e parë nuk është paraqitur asnjë ofertues, atëherë, brenda 10 ditëve nga përfundimi i tij, përmbaruesi gjyqësor përcakton çmimin e ri, jo më të ulët se 30 për qind të çmimit fillestar, të caktuar në ankandin e parë dhe cakton një ankand të dytë për shitjen e sendit. Në rast se në ankandin e dytë nuk është paraqitur asnjë ofertues, përmbaruesi i propozon në fillim kreditorit, që, kundrejt kredisë, të marrë sendin me çmimin e ankandit të dytë. Në rast se kreditori nuk pranon ta marrë sendin, përmbaruesi heq sekuestron mbi këtë send, duke ia kthyer atë debitorit dhe vijon procedurat përmbarimore mbi pasuri të tjera të tij.

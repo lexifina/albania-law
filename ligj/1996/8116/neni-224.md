@@ -1,0 +1,2 @@
+# Neni 224
+Gjykata mund të kërkojë zyrtarisht nga organet e administratës shtetërore të dhëna me shkrim për akte dhe dokumente që ndodhen në atë organ dhe që është e nevojshme të shqyrtohen në procesin gjyqësor. Kur të dhënat e kërkuara përbëjnë sekret shtetëror, gjykata kërkon lejen e organit qendror nga i cili varet administrata shtetërore ku ndodhen të dhënat e kërkuara. Kur kërkesa refuzohet, kërkesa e palës quhet si e paparashtruar.

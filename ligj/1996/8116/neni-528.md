@@ -1,0 +1,2 @@
+# Neni 528
+Me kërkesën e debitorit, sekuestroja mund të vihet edhe mbi një pasuri tjetër të tij të ndryshme nga ajo që ka treguar kreditori, kur përmbaruesi gjyqësor çmon se kjo plotëson kërkesën e kreditorit. Me kërkesë të debitorit, sekuestroja mund të vihet, përveç pasurive të rënduara me peng dhe hipotekë, edhe mbi një pasuri tjetër të tij, të ndryshme nga ajo që ka treguar kreditori, kur përmbaruesi gjyqësor çmon se ajo plotëson kërkesën e kreditorit.

@@ -1,0 +1,3 @@
+# Neni 560
+Vënia e sekuestros
+Ekzekutimi i vendimit të gjykatës apo të titujve të tjerë ekzekutivë mbi sendet e paluajtshme të debitorit bëhet me vendosjen e sekuestros mbi to. Sekuestroja vihet me regjistrimin e saj në zyrën e regjistrit të pasurive të paluajtshme të aktit të përmbaruesit gjyqësor, në të cilin shënohet lloji, natyra dhe të paktën tre kufij të sendit të paluajtshëm, vendi i ndodhjes së tij, si dhe hipotekat dhe të drejtat reale që mund të jenë vënë mbi të. Akti i përmbaruesit gjyqësor regjistrohet nga zyra e regjistrimit të pasurive të paluajtshme brenda 10 ditëve nga data e paraqitjes së tij. Një kopje e aktit të përmbaruesit gjyqësor i komunikohet debitorit.

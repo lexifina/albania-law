@@ -1,0 +1,3 @@
+# Neni 564
+Vlerësimi i sendit të sekuestruar
+Nëse kreditori dhe debitori, brenda një jave, nuk arrijnë një marrëveshje për vlerën e sendit, mbi të cilin është vendosur sekuestro, sendi i paluajtshëm, mbi të cilin është vendosur sekuesto, vlerësohet me vendim nga përmbaruesi gjyqësor, brenda 15 ditëve, në asistencën teknike të një eksperti të licencuar të fushës. Në përcaktimin e vlerës së sendit, përmbaruesi gjyqësor bazohet në metodologjinë e përcaktuar me vendim të Këshillit të Ministrave. Përmbaruesi gjyqësor, brenda 10 ditëve nga data e caktimit të vlerës, njofton kreditorin dhe debitorin për çmimin e caktuar. Kundër vendimit të përmbaruesit gjyqësor palët mund të bëjnë ankim, sipas rregullave të parashikuara në nenin 610 të këtij Kodi.

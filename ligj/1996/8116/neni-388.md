@@ -1,0 +1,3 @@
+# Neni 388
+Kur mund të ngrihet kërkesa
+Kur nga një fakt varet lindja, ndryshimi ose shuarja e të drejtave personale apo pasurore të një personi dhe akti që vërteton atë është zhdukur, ka humbur dhe nuk mund të bëhet përsëri ose nuk mund të merret me ndonjë rrugë tjetër, personi i interesuar ka të drejtë të kërkojë që fakti të vërtetohet me vendim të gjykatës së shkallës së parë. Kërkesa për vërtetimin e fakteve paraqitet në gjykatën e shkallës së parë, në territorin e së cilës ka banimin kërkuesi. Kur kërkohet vërtetimi i faktit për një send të paluajtshëm, ajo paraqitet në gjykatën e shkallës së parë në territorin e së cilës ndodhet sendi. Në mënyrën e treguar më sipër mund të kërkohet edhe korrigjimi i gabimeve të akteve të treguara në paragrafin e parë të këtij neni.

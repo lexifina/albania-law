@@ -1,0 +1,3 @@
+# Neni 178
+Sigurimi i rregullit dhe i qetësisë në seancë gjyqësore
+Kryetari i seancës gjyqësore kujdeset për mbajtjen e rregullit e të qetësisë në seancë. Ai ka të drejtë të urdhërojë largimin nga salla e gjyqit të personave që prishin rregullin e qetësinë e zhvillimit të seancës gjyqësore. Kur prokurori ose avokati nuk u binden urdhrave të kryetarit të seancës gjyqësore, gjykata vë në dijeni organin përkatës të prokurorisë ose të këshillit drejtues të avokatisë dhe kërkon prej tyre marrjen e masave disiplinore. Gjykata mund të shtyjë seancën derisa të caktohet një prokuror ose një avokat tjetër.

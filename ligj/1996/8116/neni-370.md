@@ -1,0 +1,2 @@
+# Neni 370
+Fazat e gjykimit Gjykimi për pjesëtimin e sendeve në bashkëpronësi dhe në trashëgim, në fazën e parë të tij, ka për qëllim të hetojë e të përcaktojë të drejtën e bashkëpronësisë së ndërgjyqësve, pjesët takuese të tyre, si dhe sendet që do të pjesëtohen. Pasi të ketë marrë provat e nevojshme, gjykata, me vendim të ndërmjetëm, lejon pjesëtimin dhe përcakton rrethin e bashkëpjesëtarëve, sendet që do të pjesëtohen, si dhe pjesët takuese të secilit prej tyre. Kundër këtij vendimi lejohet ankim i veçantë, paraqitja e të cilit pezullon vazhdimin e mëtejshëm të gjykimit.

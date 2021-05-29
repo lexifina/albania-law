@@ -1,0 +1,3 @@
+# Neni 124
+Ripërtëritja e aktit (Hequr fjalë në paragrafin e tretë me ligjin nr. 38/2017, datë 30.3.2017)
+Gjykata që shpall pavlefshmërinë e një akti procedural, kur është e mundur, duhet të veprojë për ripërtëritjen e plotë ose të pjesshme të aktit. Kur pavlefshmëria e aktit procedural është rrjedhojë e fajësisë së sekretarit, përmbaruesit ose përfaqësuesit, gjykata me vendim i ngarkon personit përgjegjës shpenzimet për ripërtëritjen e aktit. Me kërkesën e palës së dëmtuar, gjykata në vendimin që vendos për mosmarrëveshjen, detyron personin përgjegjës të shpërblejë dëmin e shkaktuar nga pavlefshmëria.

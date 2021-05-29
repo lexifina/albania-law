@@ -1,0 +1,3 @@
+# Neni 228
+Kryerja dhe vlerësimi i ekspertimit
+Kur ekspertimi kryhet me praninë e gjykatës ose të gjyqtarit të deleguar, mbahet procesverbal, por gjykata mund t’i kërkojë ekspertit që të japë përfundimet e ekspertimit në një raport me shkrim. Kur ekspertimi kryhet pa pjesëmarrjen drejtpërdrejt të gjykatës, eksperti duhet të hartojë një raport me shkrim mbi ekspertizën e kryer, në të cilën duhet të gjejnë pasqyrim edhe vërejtjet e kërkesat e palëve. Deklaratat eventuale të palëve të përmendura në raport vlerësohen nga gjykata, duke pasur parasysh rregullat e parashikuara në nenin 29 të këtij Kodi. Raporti duhet të depozitohet në sekretari në afatin e caktuar nga gjykata.

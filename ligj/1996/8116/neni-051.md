@@ -1,0 +1,2 @@
+# Neni 51
+Paditë për vërtetimin e qenies ose mosqenies së martesës, për anulimin e martesës dhe për zgjidhjen e saj, mund të ngrihen si në gjykatën e vendit ku bashkëshortët kanë pasur banimin e tyre të përbashkët të fundit ose në gjykatën e vendit ku ka banimin i padituri. Kur i padituri nuk ka banim ose vendqëndrim dhe as banesë të përkohshme në Republikën e Shqipërisë, padia ngrihet në gjykatën e vendit ku ka banimin, vendqëndrimin ose banimin e përkohshëm paditësi dhe kur as paditësi nuk i ka ato, padia ngrihet në gjykatën e kryeqytetit.

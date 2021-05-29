@@ -1,0 +1,2 @@
+# Neni 66
+Vlera e padisë që lidhet me ekzistencën, vlefshmërinë ose zgjidhjen e një marrëdhënie juridike detyrimi, përcaktohet në bazë të asaj pjese të raportit që është në mosmarrëveshje. Në rastin kur ka mbaruar kontrata e qirasë për sende të paluajtshme, vlera përcaktohet në bazë të shumës së qirasë që kërkohet, por në qoftë se ka kontestime për vazhdimin e kontratës së qirasë, vlera përcaktohet duke mbledhur qiratë për periudhën në kontestim. Në pjesëtimin e pasurisë, vlera përcaktohet nga vlefta e pjesës që kërkohet.

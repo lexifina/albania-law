@@ -1,0 +1,2 @@
+# Neni 536
+Shteti quhet gjithmonë si kreditor që merr pjesë bashkë me kreditorët e tjerë për detyrimin që po ai debitor i ka shtetit dhe të cilët rrjedhin nga tatimet dhe nga kredi të tjera, shuma e të cilëve i është njoftuar përmbaruesit gjyqësor, para se të bëhet ndarja e shumave të tjera. Për këtë qëllim, përmbaruesi gjyqësor njofton seksionin përkatës të financës për çdo ekzekutim të filluar prej tij dhe për çdo ndarje që ai bën.

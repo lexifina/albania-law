@@ -1,0 +1,3 @@
+# Neni 617
+Ankimi kundër pezullimit dhe pushimit të ekzekutimit
+Pezullimi i ekzekutimit, përveç rastit kur vendoset nga gjykata, si dhe pushimi i ekzekutimit vendosen nga përmbaruesi gjyqësor. Kundër këtyre vendimeve mund të bëhet ankim në gjykatën e shkallës së parë (neni 611 i këtij Kodi). Kur vendimi i pushimit të ekzekutimit merr formën e prerë, përmbaruesi gjyqësor e heq sekuestron e vënë mbi sendet e luajtshme ose të paluajtshme dhe në rastin e parashikuar nga shkronja “b” e nenit 616 të këtij Kodi, i kthen urdhrin e ekzekutimit kreditorit, i cili ka të drejtë të paraqesë kërkesë të re për ekzekutim brenda kohës së parashkrimit. Në këtë rast, parashkrimi i ri fillon nga dita që vendimi për pushimin e ekzekutimit ka marrë formën e prerë.

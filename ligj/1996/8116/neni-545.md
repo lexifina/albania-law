@@ -1,0 +1,3 @@
+# Neni 545
+Detyrimet e debitorit për sendet e lëna në ruajtje
+Sendet e inventarizuara mund t’i lihen në ruajtje debitorit, i cili ka të drejtë edhe t’i përdorë, por me kusht që të mos pakësohet vlefta e tyre. Kur debitori refuzon t’i pranojë për ruajtje, përmbaruesi gjyqësor emëron në këtë detyrë një person tjetër, duke i caktuar këtij një shpërblim. Debitori ose personi i tretë, të cilëve u janë lënë në ruajtje sendet e inventarizuara, duhet të japin llogari për të ardhurat dhe shpenzimet e bëra për sendin. Këta janë përgjegjës, sipas dispozitave të Kodit Penal, për disponimin, dëmtimin ose shkatërrimin e tyre.

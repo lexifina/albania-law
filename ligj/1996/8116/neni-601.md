@@ -1,0 +1,3 @@
+# Neni 601
+Vënia në posedim e sendit të luajtshëm
+Kur sendi i luajtshëm, për të cilin është dhënë vendim, nuk është dorëzuar vullnetarisht nga debitori, brenda afatit të caktuar në lajmërimin e përmbaruesit gjyqësor, merret në mënyrë të detyrueshme prej tij dhe i dorëzohet kreditorit. Kur sendi nuk ndodhet pranë debitorit ose është prishur, ose pranë tij ndodhet vetëm një pjesë, merret nga debitori vlefta e sendit ose e pjesës që mungon. Kur në urdhrin e ekzekutimit nuk tregohet vlefta e sendit, kjo caktohet nga gjykata e vendit të ekzekutimit, pasi të dëgjohen palët dhe, në rast nevoje, të pyeten edhe dëshmitarë dhe ekspertë. Kundër vendimit të gjykatës mund të bëhet ankim i veçantë.

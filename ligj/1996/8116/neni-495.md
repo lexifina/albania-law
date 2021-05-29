@@ -1,0 +1,2 @@
+# Neni 495
+Rishikimi i vendimeve për rrethanat e parashikuara në shkronjat “b”, “c” dhe “ç” të nenit 494 të këtij Kodi lejohet kur ato rrethana janë vërtetuar me vendim penal të formës së prerë. Kur ndjekja penale nuk mund të fillojë ose të përfundojë për ndonjë nga shkaqet e treguara në nenin 290 të Kodit të Procedurës Penale, ose për shkak se nuk është zbuluar personi që ka kryer falsifikimin, për vërtetimin e rrethanave të mësipërme mund të ngrihet padi në gjykatën civile.

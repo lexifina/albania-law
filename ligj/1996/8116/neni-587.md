@@ -1,0 +1,3 @@
+# Neni 587
+Sekuestroja mbi shpërblimet e tjera
+Sekuestroja mbi pagën shtrihet jo vetëm në pagën që tregohet në lajmërimin e sekuestrimit, por edhe në çdo shpërblim tjetër që debitori merr nga e njëjta punë ose nga një punë tjetër, në të njëjtin person fizik apo juridik, shtetëror apo privat. Kur debitori ndërron vendin e punës, lajmërimi i sekuestrimit i dërgohet qendrës së re të punës nga qendra ku punonte më parë debitori dhe quhet se i është dërguar nga përmbaruesi gjyqësor. Në këtë rast si dhe në rastin që debitori pushohet nga puna duhet të lajmërohet përmbaruesi gjyqësor brenda pesë ditëve.

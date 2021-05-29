@@ -1,0 +1,3 @@
+# Neni 383
+Procedura e gjykimit
+Kërkesa për heqjen ose kufizimin e zotësisë për të vepruar i njoftohet prokurorit. Kërkesa duhet të përmbajë faktin në të cilin ajo bazohet si dhe provat e nevojshme. Gjykata vendos lidhur me kërkesën, pasi të ketë pyetur personin për të cilin kërkohet heqja ose kufizimi i zotësisë për të vepruar, persona nga gjinia e afërt e tij, mjekun që e ka kuruar ose pasi të ketë marrë mendimin e mjekëve të tjerë ekspertë, si dhe prova të tjera që do t’i çmojë të nevojshme. Pyetja e personit të cilit i kërkohet t’i hiqet ose kufizohet zotësia për të vepruar, bëhet në institucionin që është shtruar për mjekim ose në banesën e tij nga një gjyqtar i deleguar, kur nuk është e mundur të paraqitet vetë në gjykatë.

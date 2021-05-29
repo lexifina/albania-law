@@ -1,0 +1,6 @@
+# Neni 35
+Gjykata e shkallës së parë gjykon me trup gjykues të përbërë nga një gjyqtar ose tre gjyqtarë. Me trup gjykues të përbërë nga tre gjyqtarë gjykohen këto çështje:
+a) Paditë me vlerë më shumë se 50 milionë lekë.
+b) Shfuqizuar.
+c) Paditë për shpalljen e zhdukjes ose të vdekjes së personit.
+ç) Paditë për heqjen ose kufizimin e zotësisë për të vepruar të personave. Çështjet e tjera gjykohen nga një gjyqtar i vetëm. Gjykata e apelit shqyrton çështjen me trup gjykues të përbërë nga tre gjyqtarë. Gjykata e apelit shqyrton me një gjyqtar të vetëm ankimet kundër vendimeve për paditë me vlerë deri në njëzetfishin e pagës minimale në shkallë vendi, që rrjedhin nga marrëdhënie kontraktore, ankimin e veçantë kundër vendimit të refuzimit të kërkesës për lëshimin e urdhrit të ekzekutimit, ankimet e veçanta kundër vendimit të gjykatës që ka shqyrtuar kundërshtimin e veprimeve të përmbaruesit gjyqësor, si dhe rastet e tjera të parashikuara në këtë Kod. Gjykata e Lartë gjykon në kolegj me trup gjykues të përbërë nga 3 gjyqtarë. Për njësimin dhe zhvillimin e praktikës gjyqësore, Gjykata e Lartë gjykon në kolegj me trup gjykues të përbërë nga 5 gjyqtarë. Gjykata e Lartë gjykon në kolegje të bashkuara me pjesëmarrjen e të gjithë gjyqtarëve, çështjet e parashikuara shprehimisht në dispozita të tjera të këtij Kodi.

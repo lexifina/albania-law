@@ -1,0 +1,2 @@
+# Neni 296
+Mosparaqitja e palës që ka kërkuar marrjen e provës sjell rrëzimin e kërkesës, përveç kur e kërkon pala tjetër, ose gjykata çmon se është në dobi të gjykimit. Për mënyrën e marrjes së provës dhe për fuqinë e saj provuese zbatohen rregullat e përgjithshme. Shpenzimet për marrjen e provës parapaguhen nga kërkuesi dhe, në përfundim të gjykimit i ngarkohen palës, sipas rregullave të përgjithshme.

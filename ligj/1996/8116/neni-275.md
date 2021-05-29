@@ -1,0 +1,2 @@
+# Neni 275
+Sekretaria e gjykatës dërgon menjëherë kopjen e çdo vendimi që shpall shkresën si të falsifikuar te prokurori dhe në organin shtetëror që ka nxjerrë shkresën. Shkresa që shpallet e falsifikuar nuk i jepet ndërgjyqësit, por mbetet në arkivin e gjykatës, së bashku me vendimin që shpall shkresën të falsifikuar. Në këto raste sekretari shënon mbi shkresë se ajo është e falsifikuar. Kur jepet kopja e saj, ajo përmban edhe shënimin që përmendet në paragrafin e sipërm.

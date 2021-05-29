@@ -1,0 +1,2 @@
+# Neni 224/b
+Eksperti e jep mendimin e tij me shkrim, por mund të dëgjohet në seancë gjyqësore dhe të pyetet nga gjykata dhe nga palët. Mendimi i ekspertit nuk është i detyrueshëm për gjykatën dhe, kur kjo ka mendim të kundërt me ekspertin, duhet të arsyetojë me hollësi këtë mendim në vendimin përfundimtar ose në një vendim që jep gjatë gjykimit. Nuk është në misionin e ekspertit të japë një mendim juridik.

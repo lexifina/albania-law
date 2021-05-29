@@ -1,0 +1,3 @@
+# Neni 602
+Vënia në posedim e sendit të paluajtshëm
+Kur sendi i paluajtshëm, për të cilin është dhënë vendim, nuk është liruar vullnetarisht nga debitori brenda afatit të caktuar në lajmërimin e përmbaruesit gjyqësor, kreditori vihet në posedim të sendit. Për këtë përmbaruesi gjyqësor, të paktën tri ditë përpara, i njofton debitorit ditën dhe orën, në të cilën do të vërë kreditorin në posedim të sendit. Në ditën dhe orën e caktuar përmbaruesi gjyqësor, i pajisur me urdhrin e ekzekutimit, shkon në vendin ku ndodhet sendi dhe vë kreditorin në posedim të tij, duke porositur personat e tjerë të cilët mbajnë sendin që ta njohin si pronar kreditorin.

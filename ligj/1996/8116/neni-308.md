@@ -1,0 +1,2 @@
+# Neni 308
+Vendimi duhet të nënshkruhet nga të gjithë anëtarët e trupit gjykues që kanë marrë pjesë në dhënien e tij. Gjyqtari, mendimi i të cilit ka mbetur në pakicë, shkruan fjalën “kundër” dhe nënshkruan vendimin. Gjykata mund të shpallë vetëm dispozitivin e vendimit, duke e dorëzuar atë të arsyetuar në sekretari jo më vonë se njëzet ditë ose të shtyjë shpalljen e arsyetuar të vendimit, deri në njëzet ditë. Arsyetimi i vendimit bëhet nga kryetari i seancës, përveç kur ai del kundër.

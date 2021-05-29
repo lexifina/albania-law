@@ -1,0 +1,2 @@
+# Neni 60
+Kur një institucion shtetëror pretendon se mosmarrëveshja që ka pranuar gjykata për një shqyrtim hyn në juridiksionin administrativ, mosmarrëveshja zgjidhet nga Gjykata e Lartë me kërkesën e institucionit shtetëror ose të prokurorit. Gjykimi i filluar pezullohet derisa të jepet vendimi për zgjidhjen e mosmarrëveshjes për juridiksionin. Gjykata mund të marrë vetëm masa për sigurimin e padisë dhe të kryejë veprime procedurale që nuk presin.

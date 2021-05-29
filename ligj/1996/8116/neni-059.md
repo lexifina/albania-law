@@ -1,0 +1,2 @@
+# Neni 59
+Gjykata në çdo fazë dhe shkallë të gjykimit, qoftë edhe kryesisht, merr në shqyrtim nëse çështja që shqyrton, bën pjesë në juridiksionin gjyqësor apo atë administrativ. Kur gjykata vendos nxjerrjen e çështjes jashtë juridiksionit gjyqësor, lejohet rekurs i veçantë në Gjykatën e Lartë, ndërsa kur vendos që çështja bën pjesë në juridiksionin gjyqësor, kundër vendimit lejohet ankim bashkë me vendimin përfundimtar ose jopërfundimtar.

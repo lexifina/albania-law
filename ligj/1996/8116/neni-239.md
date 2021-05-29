@@ -1,0 +1,2 @@
+# Neni 239
+Dëshmitari pyetet më parë nga pala që e ka kërkuar thirrjen e tij dhe pastaj nga pala tjetër. Secila nga palët ka të drejtë t’i bëjë pyetje plotësuese dëshmitarit për të sqaruar apo plotësuar përgjigjet e dhëna nga ai. Në çdo rast palët i drejtojnë pyetje dëshmitarit me leje dhe nëpërmjet gjykatës. Gjykata mund të bëjë pyetje e të kërkojë sqarime kurdoherë që e konsideron të nevojshme për zgjidhjen e drejtë të çështjes.

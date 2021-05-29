@@ -1,0 +1,2 @@
+# Neni 94
+Kur mungon personi i cili duhet të përfaqësohet në gjyq sipas paragrafit të dytë të nenit 91 të këtij Kodi dhe ekzistojnë arsye të justifikuara që kërkojnë kryerjen e shpejtë të disa veprimeve procedurale, mund të caktohet një kujdestar i posaçëm derisa çështja të ndiqet nga ai që është ngarkuar ta përfaqësojë. Në të njëjtën mënyrë veprohet edhe për emërimin e një kujdestari të posaçëm për të përfaqësuarin, kur ka konflikt interesash me përfaqësuesin.

@@ -1,0 +1,3 @@
+# Neni 518
+Përmbajtja e lajmërimit
+Lajmërimi duhet të përmbajë një shkurtim të përmbajtjes së urdhrit të ekzekutimit, vendin dhe adresën e kreditorit, dhe paralajmërimin që i bëhet debitorit se do të fillojë ekzekutimi i detyrueshëm, në qoftë se ekzekutimi nuk ekzekutohet vullnetarisht prej tij brenda afatit të caktuar në lajmërim. Në rast se debitori vdes pas vënies në ekzekutim të titullit, por para se të jenë përfunduar së kryeri veprimet e nevojshme të ekzekutimit, përmbaruesi gjyqësor, para se të vazhdojë veprimet e tij, duhet t’u dërgojë trashëgimtarëve të debitorit të vdekur, kur këta janë njohur, një lajmërim të ri për të ekzekutuar këta vullnetarisht detyrimin që përmban urdhri i ekzekutimit.

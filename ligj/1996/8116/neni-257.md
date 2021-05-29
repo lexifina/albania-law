@@ -1,0 +1,2 @@
+# Neni 257
+Shkresat që përpilohen në bazë të nenit 253 për kryerjen ose vërtetimin e veprimit juridik, përsa u përket deklarimeve të palëve, përbëjnë provë të plotë për të gjithë. Dispozitat e përmendura në paragrafin e mësipërm kanë fuqi për gjithçka që përmendet në shkresë, përderisa kanë lidhje të drejtpërdrejtë me objektin kryesor të shkresës. Ato që nuk kanë lidhje të drejtpërdrejtë konsiderohen si fillim prove me shkresë.

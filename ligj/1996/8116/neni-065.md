@@ -1,0 +1,2 @@
+# Neni 65
+Vlera e padisë llogaritet në momentin e paraqitjes së saj në gjykatë. Kërkesat e parashtruara në të njëjtin proces kundër të njëjtit person, mblidhen ndërmjet tyre, duke përfshirë edhe kamatat e arrira, shpenzimet e kryera dhe dëmet e pretenduara. Kur kërkohet nga shumë persona ose kundër disa personave përmbushja me kuota e një detyrimi, vlera e padisë përcaktohet nga i gjithë detyrimi.

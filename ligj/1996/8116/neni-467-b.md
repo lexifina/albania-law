@@ -1,0 +1,2 @@
+# Neni 467/b
+Kur gjykata për çështjen që nuk ishte në kompetencën e saj ka dhënë një vendim të drejtë dhe, nga ana tjetër, nuk janë kapërcyer kompetencat e gjykatës së cilës i takonte çështja, gjykata e apelit ka të drejtë të mos e prishë vendimin, por të mjaftohet t’i verë në dukje gjykatës përkatëse parregullsinë e vendimit të saj. Kur gjykata e apelit konstaton se janë kushtet e plotësimit të vendimit, të parashikuara në nenin 313, të këtij Kodi, vendos vetë për plotësimin e tij, duke ia vënë në dukje parregullsinë gjykatës së shkallës së parë.

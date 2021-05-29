@@ -1,0 +1,2 @@
+# Neni 321
+Presidenti i Republikës me propozimin e Ministrit të Drejtësisë cakton gjykatat në të cilat do të krijohen këto seksione, si dhe zonat ku do të shtrijnë kompetencat ato, mbi bazën e bashkimit të kompetencave tokësore të një apo disa gjykatave të shkallës së parë. Ministri i Drejtësisë cakton numrin e gjyqtarëve për çdo seksion dhe kujdeset për kualifikimin e tyre sipas seksionit përkatës.

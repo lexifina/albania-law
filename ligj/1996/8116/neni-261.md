@@ -1,0 +1,2 @@
+# Neni 261
+Shkresa private merr datë të saktë kundrejt personave të tretë vetëm nga dita që është vërtetuar nga noteri ose nëpunësi publik kompetent sipas ligjit ose kur vdes një nga ata që e ka nënshkruar ose nuk ka qenë në gjendje fizike të shkruajë ose kur përmbajtja e tij thelbësore është përsëritur ose konstatuar në një akt zyrtar, si dhe nga dita në të cilën ka ngjarë ndonjë fakt tjetër që provon në të njëjtën mënyrë se shkresa është përpiluar në një datë të mëparshme.

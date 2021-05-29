@@ -1,0 +1,2 @@
+# Neni 37
+Juridiksioni i gjykatave shqiptare për personat fizikë dhe juridikë të huaj rregullohet me ligj. Juridiksioni i gjykatave shqiptare nuk mund t’i kalohet me marrëveshje një juridiksioni të huaj, përveç kur gjykimi ka lidhje me një detyrim ndërmjet të huajve ose ndërmjet një të huaji e një shtetasi shqiptar, ose personi juridik pa banim ose qëndrim në Shqipëri, si dhe kur këto përjashtime janë parashikuar në marrëveshje ndërkombëtare të ratifikuara nga Republika e Shqipërisë.

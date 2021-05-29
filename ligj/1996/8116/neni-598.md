@@ -1,0 +1,3 @@
+# Neni 598
+Sanksionet dhe ankimi ndaj tyre
+Kur përmbaruesi ka bazë të dyshojë se banka pa vend nuk e ekzekuton detyrimin tërësisht ose pjesërisht, shkel afatet e ekzekutimit, ose nuk respekton radhën e preferimit, përmbaruesi ka të drejtë të verifikojë në vend dokumentacionin bankar në prani të punonjësit të ngarkuar nga organi drejtues i bankës, duke mbajtur procesverbalin përkatës. Kur konstatohen shkelje apo parregullsi përmbaruesi fikson në procesverbal veprime dhe afate të detyrueshme për bankën. Për shkeljet dhe parregullsitë përmbaruesi ka të drejtë të zbatojë masat e parashikuara në nenin 588 të këtij Kodi, sipas rastit, ndaj punonjësit bankar fajtor ose ndaj organit drejtues të saj, që ka urdhëruar veprime të parregullta.

@@ -1,0 +1,3 @@
+# Neni 223
+Marrja e provave te të tretët
+Gjykata, me kërkesën e palës së interesuar, mund të urdhërojë palën tjetër ose një person të tretë që nuk merr pjesë në çështje, të paraqesë në gjykim një dokument ose një send tjetër, kur çmohet e nevojshme prej saj. Në këtë rast gjykata jep udhëzimet e nevojshme për kohën, vendin dhe mënyrën e paraqitjes së tyre. Pala që ka kërkuar marrjen e dokumentit është e detyruar të tregojë me hollësi të gjitha rrethanat që bëjnë të besueshme se ku ndodhet dokumenti, karakteristikat e tij, si dhe faktet që do të provohen me këtë dokument. Shpenzimet e nevojshme parapaguhen nga pala që ka bërë kërkesën.

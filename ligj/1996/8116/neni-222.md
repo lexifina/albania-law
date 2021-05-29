@@ -1,0 +1,2 @@
+# Neni 222
+Kërkesa për dhënien e ndihmës juridike të bërë nga gjykata e një shteti të huaj duhet të përmbajë kushtet e parashikuara nga neni i mësipërm, të jetë hartuar në gjuhën shqipe ose të jetë përkthyer në këtë gjuhë dhe t’i jenë bashkëngjitur shpenzimet e nevojshme për përkthim. Në rast të kundërt gjykata ose marrësi mund të refuzojë kryerjen e veprimeve të kërkuara. Kur ndërmjet dy shteteve ka marrëveshje për dhënien e ndërsjellë të ndihmës juridike, zbatohen dispozitat e kësaj marrëveshjeje.

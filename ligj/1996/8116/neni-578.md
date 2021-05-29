@@ -1,0 +1,3 @@
+# Neni 578
+Ekzekutimi mbi një send të paluajtshëm në bashkëpronësi
+Kur ekzekutimi bëhet mbi një send të paluajtshëm që është në bashkëpronësi, për detyrimin që ka ndonjë nga bashkëpronarët bëhet sekuestrimi i sendit. Përmbaruesi gjyqësor i bën kërkesë gjykatës për veçimin e pjesës takuese të debitorit bashkëpronar dhe mbi këtë pjesë bëhet ekzekutimi. Sendi mund të shitet në tërësi, kur për këtë kanë dhënë pëlqimin të gjithë bashkëpronarët e tjerë. Pëlqimi duhet të jepet me akt noterial. Kur sendi është në bashkëpronësi dhe debitorët janë të gjithë bashkëpronarët, për sekuestron dhe shitjen e sendit veprohet njëlloj sikur sendi të ishte në pronësi të një debitori të vetëm.

@@ -1,0 +1,2 @@
+# Neni 280
+Gjykata, pas kontrollimit të vërtetësisë së dokumentit, me vendimin që jep gjatë gjykimit ose me vendimin përfundimtar, shprehet nëse dokumenti është ose jo i vërtetë. Kur rezulton se dokumenti nuk është i vërtetë, gjykata e përjashton këtë nga provat dhe, në qoftë se rezulton se dokumenti është i falsifikuar, ia dërgon prokurorit për të bërë ndjekje penale. Gjykata, me vendimin që pranon se dokumenti është i vërtetë, dënon palën që ka pretenduar falsifikimin ose që ka mohuar shkrimin ose nënshkrimin e saj me gjobë deri në 50 000 lekë.

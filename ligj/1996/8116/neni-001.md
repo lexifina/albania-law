@@ -1,0 +1,2 @@
+# Neni 1
+Kodi i Procedurës Civile i Republikës së Shqipërisë cakton rregulla të detyrueshme, të njëjta e të barabarta, për gjykimin e mosmarrëveshjeve civile e të mosmarrëveshjeve të tjera të parashikuara në këtë Kod e në ligje të veçanta. Gjykata nuk mund të refuzojë të shqyrtojë dhe të japë vendime për çështjet që i paraqiten për shqyrtim, me arsyetim se ligji mungon, nuk është i plotë, ka kundërthënie ose është i paqartë.

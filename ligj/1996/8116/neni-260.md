@@ -1,0 +1,2 @@
+# Neni 260
+Shkresa private quhen edhe: - librat e tregtarëve dhe profesionistëve që i mbajnë sipas Kodit Tregtar ose dispozitave të tjera; - librat e avokatëve, noterëve, përmbaruesve, mjekëve, farmacistëve e të profesioneve të tjera, sipas dispozitave në fuqi. - Kur paraqiten si provë pjesë nga libri ose e tëra dhe përmbajnë edhe të dhëna që nuk kanë lidhje me objektin e gjykimit, mund të merren ato pjesë të shkresës që kanë lidhje me atë.

@@ -1,0 +1,2 @@
+# Neni 371
+Kur palët deklarojnë se nuk kanë ankim ndaj vendimit të ndërmjetëm të përmendur në nenin 370 të këtij Kodi, bëhet shënim në procesverbalin gjyqësor, i cili nënshkruhet edhe nga palët ose përfaqësuesit e tyre. Në një rast të tillë, si dhe në rastin kur vendimi i ndërmjetëm, që ka lejuar pjesëtimin, ka marrë formën e prerë, gjykata vazhdon gjykimin në fazën e dytë, duke marrë në shqyrtim kërkesat që mund të kenë bashkëpronarët për llogaritë që duhet të japin midis tyre dhe që rrjedhin nga marrëdhëniet e bashkëpronësisë.

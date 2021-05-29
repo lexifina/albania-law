@@ -1,0 +1,2 @@
+# Neni 43
+Kur i padituri është person juridik, paditë ngrihen në gjykatën e vendit ku personi juridik ka qendrën e tij. Paditë që rrjedhin nga marrëdhënie juridike me një degë ose agjenci lokale të personit juridik, mund të ngrihen edhe në gjykatën ku ka qendrën dega ose agjencia, si dhe në gjykatën e shkallës së parë ku personi juridik ka një ndërtesë me aktivitet ose një përfaqësues të autorizuar që të paraqitet në gjykim për objektin e padisë.

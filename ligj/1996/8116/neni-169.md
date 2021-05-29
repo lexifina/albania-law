@@ -1,0 +1,3 @@
+# Neni 169
+Kundërshtimi i vendimit të dënimit
+Personat që janë dënuar me gjobë, sipas dispozitave të mësipërme, mund t’i paraqitin gjykatës që i ka dënuar, brenda tri ditëve, kërkesë për heqjen e dënimit, duke treguar dhe shkaqet. Gjykata kur i gjen me vend këto shkaqe, revokon vendimin e dënimit me gjobë si dhe urdhrin e sjelljes me detyrim. Ajo mund edhe vetëm të pakësojë gjobën e caktuar. Në rast të kundërt, refuzon kërkesën. Afati për të paraqitur kërkesën fillon nga dita e seancës gjyqësore dhe, në rastet e parashikuara nga nenet 165 dhe 167, nga dita e njoftimit të vendimit të dënimit. Vendimi i dhënë nga gjykata në rastet e sipërme është i formës së prerë dhe kundër tij nuk lejohet ankim.

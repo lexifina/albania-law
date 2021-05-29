@@ -1,0 +1,3 @@
+# Neni 198
+Dalja jashtë gjykimit e personit të paditur
+Personi që paditet për pagimin e një detyrimi ose për dorëzimin e një sendi ose për njohjen e një të drejte reale, për të cilat ka pretendime edhe një i tretë, ka të drejtë ta thërrasë këtë në gjykim me qëllim që çështja të gjykohet midis paditësit e këtij personi dhe të kërkojë nga gjykata të dalë jashtë gjykimit duke pranuar të derdhë detyrimin ose të depozitojë sendin apo të njohë të drejtën reale, në vendin e mënyrën e caktuar prej saj. Dalja e të paditurit jashtë gjykimit bëhet me leje të gjykatës. Kur personi i tretë nuk pranon të marrë pjesë në gjykim vendoset pushimi i çështjes dhe shuma e derdhur ose sendi i depozituar i dorëzohen paditësit.

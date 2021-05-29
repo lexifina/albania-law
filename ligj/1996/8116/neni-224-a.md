@@ -1,0 +1,2 @@
+# Neni 224/a
+Kur për konstatimin ose sqarimin e fakteve, që kanë lidhje me mosmarrëveshjen në gjykim kërkohen njohuri të posaçme në fushat e shkencës, teknikës ose të artit, gjykata mund të thërrasë një ose më shumë ekspertë. Ekspertët zgjidhen nga një regjistër elektronik i personave të licencuar, i cili administrohet dhe publikohet nga Ministria e Drejtësisë, përveç kur janë kushtet e parashikuara në nenin 224/d, pika 2, të këtij Kodi. Ekspertët caktohen sipas rregullave të përcaktuara në këtë Kod.

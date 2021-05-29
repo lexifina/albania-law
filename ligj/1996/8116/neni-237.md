@@ -1,0 +1,3 @@
+# Neni 237
+Betimi
+Kryetari i seancës gjyqësore, pasi të jetë siguruar për identitetin e dëshmitarëve, i ndërgjegjëson ata për rëndësinë e misionit e të betimit përpara gjykatës dhe u njofton atyre se janë të detyruar të tregojnë të vërtetën për çfarë ata dinë në lidhje me çështjen, i paralajmëron për përgjegjësinë që ata kanë për dëshmi të rreme. Ndërkohë, sekretari gjyqësor lexon formulën e betimit si më poshtë: “I ndërgjegjshëm, betohem se do të them të vërtetën dhe vetëm të vërtetën”. Dëshmitari në këmbë përgjigjet “Betohem” dhe pret jashtë sallës së gjyqit me porosinë të mos merren vesh me njëri- tjetrin.

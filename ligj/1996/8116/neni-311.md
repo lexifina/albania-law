@@ -1,0 +1,2 @@
+# Neni 311
+Kur vendimi përmban detyrimin për dorëzimin e një sendi në natyrë ose detyrimin për kryerjen e një veprimi të caktuar, gjykata mund të tregojë në vendim afatin për ekzekutimin e vendimit. Gjykata mund të caktojë një afat për ekzekutimin e detyrimit në të holla ose ta ndajë atë me këste, me kërkesën e palës së interesuar, duke pasur parasysh gjendjen pasurore të palëve dhe rrethanat e tjera të çështjes.

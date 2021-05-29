@@ -1,0 +1,3 @@
+# Neni 192
+Thirrja e personit të tretë
+Secila palë mund të thërresë në gjykimin e çështjes një person me të cilin mendon se e ka të përbashkët çështjen ose nga i cili mund të kërkohet një garanci ose shpërblim, që lidhet me përfundimin e çështjes. Personi i tretë thirret me kërkesë të shkruar që paraqitet në seancën përgatitore ose në sekretarinë gjyqësore kur ka filluar shqyrtimi i padisë. Kërkesa i njoftohet menjëherë gjyqtarit i cili urdhëron që t’i njoftohet personit të tretë, mundësisht pa shtyrë seancën gjyqësore të caktuar. Thirrja e personit të tretë mund të kryhet derisa nuk është nxjerrë urdhri për caktimin e seancës gjyqësore, sipas nenit 158/c të këtij Kodi.

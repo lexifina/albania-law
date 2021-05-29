@@ -1,0 +1,3 @@
+# Neni 180
+Shpallja e trupit gjykues dhe shpjegimet e palëve
+Pasi të jenë kryer veprimet e mësipërme, shpallet përbërja e trupit gjykues dhe zgjidhen kërkesat paraprake të palëve. Gjykata në seancën e parë gjyqësore u kërkon palëve, që në bazë të fakteve të pretenduara prej tyre, të japin sqarimet e nevojshme, duke u vënë në dukje çështjet që nga pikëpamja procedurale i quan të nevojshme e të dobishme për gjykimin e çështjes. Në fillim paditësi jep shpjegime rreth kërkesave të parashtruara në padi, pastaj i padituri dhe pjesëmarrësit e tjerë në proces. Secili prej tyre është i detyruar të përcaktojë faktet dhe provat mbi të cilat mbështeten pretendimet e prapësimet e tyre. Shfuqizuar. Shfuqizuar.

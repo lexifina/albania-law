@@ -1,0 +1,2 @@
+# Neni 67
+Në rastin e kërkimit të një detyrimi ushqimor periodik, kur titulli kundërshtohet, vlera përcaktohet në bazë të shumës së përgjithshme që duhet të jepet për dy vjet. Në çështjet që kanë lidhje me rentat e përjetshme, kur titulli kundërshtohet, vlera përcaktohet nga shuma e vlerave për njëzet vjet, ndërsa në rastin e rentave të përkohshme vlera përcaktohet nga shumat vjetore të kërkuara deri në dhjetë vjet.

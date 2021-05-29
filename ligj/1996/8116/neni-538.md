@@ -1,0 +1,2 @@
+# Neni 538
+Përmbaruesi gjyqësor njofton për përgatitjen e projektit të ndarjes së shumave të nxjerra debitorin dhe kreditorët, të cilët i thërret për këtë qëllim në një ditë të caktuar prej tij. Në qoftë se brenda 5 ditëve nga dita e paraqitjes prej përmbaruesit gjyqësor të projektit të ndarjes nuk bëhet ankim, ndarja quhet përfundimtare dhe përmbaruesi gjyqësor i dorëzon çdo kreditori shumën që i takon.

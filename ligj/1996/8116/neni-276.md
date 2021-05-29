@@ -1,0 +1,2 @@
+# Neni 276
+Personat, që nuk marrin pjesë në çështje, kur u kërkohet një shkresë që ndodhet pranë tyre dhe nuk ka mundësi ta paraqitin brenda afatit që u ka caktuar gjykata, janë të detyruar të njoftojnë gjykatën për mosparaqitjen e shkresës në afat, duke treguar edhe shkaqet. Gjykata, kur nuk i gjen me vend shkaqet e treguara, si dhe kur nuk është lajmëruar se dokumenti i kërkuar nuk ka mundësi të dërgohet, ka të drejtë të dënojë personat përgjegjës, sipas nenit 167 të këtij Kodi.

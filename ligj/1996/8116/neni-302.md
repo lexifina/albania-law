@@ -1,0 +1,2 @@
+# Neni 302
+Përfundimi i hetimit gjyqësor Pasi të jenë shqyrtuar të gjitha provat që gjykata ka pranuar të merren, pyeten palët nëse kanë kërkesa të tjera në dobi të gjykimit të çështjes dhe, në rast se ato nuk pranohen, gjykata i jep fund hetimit gjyqësor dhe fton palët të parashtrojnë pretendimet përfundimtare të tyre rreth çështjes në gjykim. Si rregull, ato i parashtrohen gjykatës me shkrim. Me kërkesën e palëve, kur kjo shihet me vend, gjykata u jep atyre një afat deri në 5 ditë, për të përgatitur parashtresat e tyre.

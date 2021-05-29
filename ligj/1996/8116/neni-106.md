@@ -1,0 +1,3 @@
+# Neni 106
+Cilës palë i ngarkohen
+Tarifa, shpenzimet e tjera gjyqësore dhe shpërblimi për një avokat, në qoftë se ka pasur të tillë, të paguara nga paditësi, i ngarkohen të paditurit në masën e pjesës së padisë që është pranuar nga gjykata. Tarifa dhe shpenzimet e tjera gjyqësore, nga pagimi i të cilave pala është përjashtuar sipas nenit 105/b, i ngarkohen palës tjetër në masën e pjesës së padisë që është pranuar nga gjykata. I padituri ka të drejtë të kërkojë pagimin e shpenzimeve gjyqësore që ka bërë, në përpjesëtim me pjesën e refuzuar të padisë. I padituri ka të drejtë të kërkojë pagimin e shpenzimeve gjyqësore që ka bërë, edhe në rast se është vendosur pushimi i gjykimit.

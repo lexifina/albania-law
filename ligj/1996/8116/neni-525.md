@@ -1,0 +1,2 @@
+# Neni 525
+Tarifat fikse të përcaktuara për ekzekutimin e urdhrit ekzekutiv paguhen, fillimisht, nga kreditori dhe, pas përfundimit të procedurës së ekzekutimit, i ngarkohen debitorit. Shpenzimet e tjera, gjatë procedurës së ekzekutimit, paguhen nga pala që i ka shkaktuar ato. Masa e tarifës së suksesit, me përjashtim të rasteve kur nuk është e aplikueshme, përcaktohet me marrëveshje midis kreditorit dhe përmbaruesit gjyqësor, sipas legjislacionit që rregullon shërbimin përmbarimor gjyqësor.

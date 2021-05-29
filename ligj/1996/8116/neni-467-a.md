@@ -1,0 +1,2 @@
+# Neni 467/a
+Gjykata e apelit kur prish vendimin nuk mund ta kthejë çështjen për rigjykim për të dytën herë por e shqyrton vetë si gjykatë e shkallës së parë. Kur vendimi prishet për shkak të moszbatimit të detyrave të caktuara nga gjykata më e lartë, pa u marrë vendim i veçantë sipas nenit 467 të këtij Kodi, gjykata e apelit, me kërkesë të palëve ngarkon trupin gjykues përkatës me shpenzimet e bëra për këtë shkak.

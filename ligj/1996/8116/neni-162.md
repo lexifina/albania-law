@@ -1,0 +1,2 @@
+# Neni 162
+Secili nga bashkëndërgjyqësit kundrejt palës kundërshtare paraqitet i pavarur në mënyrë që veprimet ose mosveprimet e tij procedurale nuk u sjellin të tjerëve as dobi as dëm. Kur, për shkak të natyrës së marrëdhënieve juridike që janë në konflikt ose për shkak të një dispozite ligjore, efekti i vendimit, që do të jepet, shtrihet në të gjithë bashkëndërgjyqësit, veprimet procedurale që janë kryer prej disa bashkëndërgjyqësve kanë efekt edhe për bashkëndërgjyqësit e tjerë që nuk janë paraqitur në gjykatë ose që nuk kanë kryer ndonjë veprim në afatin e caktuar.

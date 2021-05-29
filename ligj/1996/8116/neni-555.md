@@ -1,0 +1,2 @@
+# Neni 555
+Çmimi fillestar i ankandit të parë është 80 për qind e çmimit të caktuar sipas nenit 552 të këtij ligji. Kur sendi shitet në ankand, përmbaruesi gjyqësor shpall në zyrën e tij, në vendin ku ndodhet sendi dhe në vendin e caktuar për shitjen në ankand, një lajmërim ku duhet të tregohet çmimi me të cilin do të fillojë shitja në ankand, vendi, dita dhe ora që do të bëhet shitja. Shitja nuk mund të bëhet para se të kenë kaluar pesë ditë nga shpallja.

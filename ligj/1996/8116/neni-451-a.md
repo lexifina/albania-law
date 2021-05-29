@@ -1,0 +1,2 @@
+# Neni 451/a
+Vendimi që ka marrë formë të prerë është i detyrueshëm për palët, për trashëgimtarët e tyre, për personat që heqin të drejta nga palët, për gjykatën që ka dhënë vendimin dhe për të gjitha gjykatat dhe institucionet e tjera. Vendimi që ka marrë formë të prerë ka fuqi vetëm për çka është vendosur midis po atyre palëve, për të njëjtin objekt dhe për të njëjtin shkak. Një konflikt që është zgjidhur me vendim të formës së prerë nuk mund të gjykohet përsëri, përveç kur ligji parashikon ndryshe.

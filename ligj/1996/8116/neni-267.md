@@ -1,0 +1,3 @@
+# Neni 267
+Detyrimi për të provuar se shkresa private është origjinale
+Kur origjinaliteti i shkresës private vihet në dyshim, ai që e paraqet duhet ta provojë atë, përveç kur shkresa është aq e ndryshuar sa gjykata e ka të vështirë të konstatojë se është origjinale. Personi ndaj të cilit paraqitet shkresa private është i detyruar të deklarojë menjëherë se e pranon ose jo origjinalitetin e nënshkrimit, ndryshe shkresa konsiderohet si e pranuar. Në qoftë se njihet ose vërtetohet origjinaliteti i nënshkrimit, quhet se është vërtetuar origjinaliteti i përmbajtjes, me rezervën e goditjes së tij për falsitet.

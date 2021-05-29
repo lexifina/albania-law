@@ -1,0 +1,3 @@
+KREU XII
+PEZULLIMI E PUSHIMI I GJYKIMIT
+A. Pezullimi i gjykimit

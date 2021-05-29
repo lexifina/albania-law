@@ -1,0 +1,3 @@
+# Neni 289
+Kryerja e prodhimeve fotografike dhe e filmimeve
+Gjykata mund të vendosë që të kryhen edhe riprodhime fotografike të objekteve, dokumenteve dhe sendeve dhe kur është e nevojshme dhe e mundshme edhe filmime të tyre ose të përdorë mjete e veprime të tjera mekanike. Gjykata për t’u siguruar në ekzistencën e një fakti mund të urdhërojë që kjo të verifikohet duke proceduar në një mënyrë të caktuar për riprodhimin e tij, duke siguruar prova me anë fotografish ose me filmime. Gjykata drejton vetë eksperimentin, ose kur e sheh me vend ia beson këtë një eksperti duke zbatuar rregullat për emërimin dhe përgjegjësinë e ekspertit, të parashikuara në këtë Kod.

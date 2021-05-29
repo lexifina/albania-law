@@ -1,0 +1,2 @@
+# Neni 101
+Në dokumentet që i paraqiten gjykatës dhe në diskutimet gjatë procesit gjyqësor, palët dhe përfaqësuesit e tyre nuk duhet të përdorin shprehje të papërshtatshme ose fyese. Në çdo fazë të gjykimit, gjykata mund të urdhërojë heqjen e shprehjeve të papërshtatshme ose fyese dhe në vendimin përfundimtar të caktojë në favor të personit të fyer dhe në ngarkim të autorit të fyerjes ose të shprehjeve të papërshtatshme, një shumë lekësh me titull shpërblimi të dëmit jopasuror, kur shprehjet fyese nuk kanë lidhje me objektin e mosmarrëveshjes.

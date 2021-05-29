@@ -1,0 +1,3 @@
+# Neni 588
+Përgjegjësia për moszbatimin e urdhrit të përmbaruesit
+Kur personi kompetent, në qendrën e punës në të cilën punon debitori, nuk bën ndalesat nga paga e debitorit, sipas lajmërimit të përmbaruesit gjyqësor ose nuk lajmëron përmbaruesin gjyqësor për kalimin e debitorit në një punë tjetër ose për pushimin e tij nga puna, dënohen nga përmbaruesi gjyqësor me gjobë deri në 30 000 lekë. Kundër vendimit të përmbaruesit mund të bëhet ankim në gjykatë brenda 5 ditëve nga komunikimi i tij. Personi i dënuar ka të drejtë të kërkojë shkarkimin e tij nga dënimi, sipas rregullave të caktuara në nenin 169 të këtij Kodi.

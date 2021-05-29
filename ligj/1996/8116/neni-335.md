@@ -1,0 +1,2 @@
+# Neni 335
+Padia sipas nenit 334 të këtij Kodi shqyrtohet nga seksioni përkatës i gjykatës së shkallës së parë, në zonën e së cilës ka qendrën personi juridik a fizik tregtar i paditur, përveç kur palët në kontratë kanë caktuar një gjykatë tjetër, që edhe ajo është kompetente. Kur padia paraqitet në gjykatën e shkallës së parë në territorin e së cilës ka qendrën personi juridik a fizik tregtar, kjo ia dërgon atë jo më vonë se tri ditë gjykatës ku është krijuar seksioni për gjykimin e mosmarrëveshjeve tregtare.
