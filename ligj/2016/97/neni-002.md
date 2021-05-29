@@ -9,3 +9,4 @@ ii) drejtuesi i prokurorisë pranë gjykatës së apelit për prokurorët që us
 iii) drejtuesi i prokurorisë pranë gjykatës së shkallës së parë për prokurorët që ushtrojnë funksionet pranë kësaj prokurorie.
 ç) “Prokuroria e Posaçme” është autoriteti përgjegjës për ushtrimin e ndjekjes penale dhe përfaqësimin e akuzës në gjyq në emër të shtetit për veprat penale të korrupsionit, krimit të organizuar dhe çështjet penale, sipas nenit 135, paragrafi 2, të Kushtetutës.
 d) “Prokuroritë e juridiksionit të përgjithshëm” janë prokuroritë pranë gjykatave me juridiksion të përgjithshëm të shkallës së parë, pranë gjykatave me juridiksion të përgjithshëm të apelit dhe Prokuroria e Përgjithshme.
+dh) “Këshilltar ligjor” është këshilltari që ushtron funksionin e tij në Njësinë e Shërbimit Ligjor pranë Prokurorisë së Përgjithshme.

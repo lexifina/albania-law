@@ -2,6 +2,7 @@
 Kategoritë e nëpunësve civilë në prokurori
 1. Kategoritë e nëpunësve civilë të prokurorisë janë:
 a) Sekretari i Përgjithshëm në Prokurorinë e Përgjithshme;
+a/1) këshilltari ligjor në Prokurorinë e Përgjithshme;
 b) kancelari;
 c) nëpunësit e financës dhe buxhetit;
 ç) sekretaria e prokurorisë;

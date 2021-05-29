@@ -2,7 +2,7 @@
 Transferimi i nëpunësve civilë
 1. Dispozitat e parashikuara në ligjin “Për nëpunësin civil” për transferimin e përkohshëm dhe të përhershëm zbatohen për aq sa është e mundur, përveçse kur në këtë ligj parashikohet ndryshe.
 2. Transferimi mund të zbatohet vetëm brenda shërbimit civil të prokurorisë. Nëpunësi civil mund edhe të transferohet përkohësisht për nevojat e organit të prokurorisë apo shtetit, në pozicionet që i përshtaten profilit të punës, në një organizatë ndërkombëtare, në të cilën Republika e Shqipërisë është anëtare apo në një institucion ndërkombëtar.
-3. Drejtuesi i prokurorisë, në të cilën nëpunësi civil transferohet, është kompetent për dhënien e vendimit të transferimit. Në rast transferimi në institucione të ndryshme nga prokuroria, drejtuesi i prokurorisë, në të cilën nëpunësi civil është i punësuar, është organi kompetent që vendos për transferimin. Në rastin e kancelarit, Këshilli i Lartë i Prokurorisë është organi kompetent që vendos për transferimin.
+3. Drejtuesi i prokurorisë, në të cilën nëpunësi civil transferohet, është kompetent për dhënien e vendimit të transferimit. Në rast transferimi në institucione të ndryshme nga prokuroria, drejtuesi i prokurorisë, në të cilën nëpunësi civil është i punësuar, është organi kompetent që vendos për transferimin. Në rastin e kancelarit dhe këshilltarit ligjor, Këshilli i Lartë i Prokurorisë është organi kompetent që vendos për transferimin.
 4. Drejtuesi i prokurorisë njofton Këshillin e Lartë të Prokurorisë në rastet kur nëpunësi civil kërkon transferimin në një institucion tjetër të shërbimit civil për shkak të:
 a) arsyeve mjekësore ose gjatë shtatzënisë;
 b) paaftësisë shëndetësore; ose

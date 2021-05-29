@@ -1,7 +1,7 @@
 # Neni 73
-Vlerësimi kualifikues për kancelar
-1. Shkolla e Magjistraturës ofron formim fillestar për kancelarët, të paktën çdo tre vjet.
-2. Prokurori i Përgjithshëm, pasi merr mendimin e drejtuesve të prokurorive, përcakton numrin e vendeve të lira për kancelarë për tre vitet vijuese dhe ia njofton Këshillit të Lartë të Prokurorisë dhe Shkollës së Magjistraturës.
+Vlerësimi kualifikues për kancelar dhe këshilltarë ligjorë
+1. Shkolla e Magjistraturës ofron formim fillestar për kancelarët, të paktën çdo tre vjet dhe për këshilltarët ligjorë.
+2. Prokurori i Përgjithshëm, pasi merr mendimin e drejtuesve të prokurorive, përcakton numrin e vendeve të lira për këshilltarët ligjorë për vitin e ardhshëm për kancelarë për tre vitet vijuese dhe ia njofton Këshillit të Lartë të Prokurorisë dhe Shkollës së Magjistraturës.
 3. Shkolla e Magjistraturës njofton kandidatët e interesuar për paraqitjen e kërkesave për formim fillestar, nëpërmjet njoftimeve të publikuara pranë gjithë prokurorive, në faqet zyrtare të prokurorive, të Këshillit të Lartë të Prokurorisë dhe të Shkollës së Magjistraturës.
 4. Këshilli i Lartë i Prokurorisë ka për detyrë:
 a) të verifikojë nëse kandidatët i plotësojnë kriteret e përgjithshme dhe të veçanta për vendin e punës;
