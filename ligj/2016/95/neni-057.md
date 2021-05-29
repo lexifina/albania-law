@@ -15,3 +15,5 @@ Dispozita kalimtare
 a) dy prokurorë të Prokurorisë së Posaçme, të zgjedhur me short. Procesi i përzgjedhjes me short monitorohet nga Avokati i Popullit; dhe
 b) një gjyqtar të gjykatave të posaçme kundër korrupsionit dhe krimit të organizuar, i zgjedhur me short. Procesi i përzgjedhjes me short monitorohet nga Avokati i Popullit.
 13. Komisioni i Posaçëm, i ngritur sipas pikës 12, të këtij neni, e ushtron veprimtarinë e tij në bazë të pikës 6, të nenit 6, dhe nenit 7 të këtij ligji.
+Dispozitë kalimtare
+Drejtori, zëvendësdrejtori, hetuesit e Byrosë Kombëtare të Hetimit, oficerët nga shërbimet e Policisë Gjyqësore të Byrosë Kombëtare të Hetimit, punonjësit e sektorit të hetimit financiar, si dhe punonjësit e bërthamës komanduese elektronike përfitojnë pagën, sipas përcaktimeve të këtij ligji, nga data e emërimit të tyre në detyrë.
