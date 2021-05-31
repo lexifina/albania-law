@@ -1,1 +1,0 @@
-11. Ankesat e subjekteve ndaj procedurës së zhvilluar i paraqiten ministrit, brenda 5 (pesë) ditëve pune, nga data e njoftimit, i cili merr vendim brenda 5 (pesë) ditëve kalendarike, nga data e paraqitjes së ankesës.

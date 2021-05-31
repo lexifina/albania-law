@@ -1,1 +1,0 @@
-9. Ministri, brenda 5 (pesë) ditëve kalendarike, nga paraqitja e raportit përmbledhës nga struktura përgjegjëse për borxhin publik, vendos të miratojë ose të refuzojë shpalljen e fituesit për këshilltar financiar për menaxhimin e borxhit shtetëror apo të përsëritë procedurën.
