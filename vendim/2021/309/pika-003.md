@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Koxherri” sh.p.k. detyrohet të rehabilitojë sipërfaqet sipas kushteve të lejes mjedisore, të pyllëzojë me fondet e veta një sipërfaqe pyjore prej 12.14 (dymbëdhjetë pikë katërmbëdhjetë) ha në ngastrat e përcaktuara në marrëveshje me Bashkinë Bulqizë.

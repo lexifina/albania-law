@@ -1,0 +1,1 @@
+6. Drejtoria Vendore e Agjencisë Shtetërore të Kadastrës Dibër bën çregjistrimin e sipërfaqes pyjore të identifikuar, sipas lidhjes 1, të këtij vendimi, nga kategoria “tokë e zënë pyjore” dhe e regjistron në kategorinë “tokë e zënë, objekt shfrytëzimi për ndërtimin e fabrikës së pasurimit të kromit”.

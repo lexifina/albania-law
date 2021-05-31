@@ -1,0 +1,1 @@
+4. Bashkia Bulqizë dhe shoqëria “Koxherri” sh.p.k. nënshkruajnë marrëveshjen e bashkëpunimit, jo më vonë se 60 (gjashtëdhjetë) ditë nga hyrja në fuqi e këtij vendimi. Një kopje e marrëveshjes së bashku me projektet e miratuara për pyllëzimin dërgohet në Ministrinë e Turizmit dhe Mjedisit jo më vonë së 10 (dhjetë) ditë nga data e nënshkrimit të saj.
