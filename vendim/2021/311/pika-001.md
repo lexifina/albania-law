@@ -1,0 +1,1 @@
+1. Përcaktimin e procedurës që do të ndiqet për procesin e përzgjedhjes së këshilltarëve të borxhit shtetëror, në përputhje me parimin e konkurrencës, të mosdiskriminimit, të transparencës, të trajtimit të barabartë të ofertuesve, duke ruajtur konfidencialitetin e sekretin tregtar të subjekteve.

@@ -1,0 +1,1 @@
+2. Përzgjedhja e këshilltarëve të borxhit shtetëror, duke përfshirë këtu edhe këshilltarin ligjor për Eurobondin, bëhet nga ministria përgjegjëse për financat me anë të procedurës së shpalljes publike.

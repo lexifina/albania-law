@@ -1,0 +1,4 @@
+15. Ankesa/at e ofertuesit/ve ndaj procedurës së zhvilluar i paraqiten ministrit, brenda 5 (pesë) ditëve pune, nga dita e nesërme e shpalljes së njoftimit.
+15.1 Ministri ia ngarkon për shqyrtim ankesën/at një komisioni të përbërë nga 3 (tre) persona ekspertë të fushës për të shqyrtuar ankesën dhe për të dhënë një vendim. Përjashtimisht, në rast të mungesës së personelit, ministri ia ngarkon çështjen për shqyrtim 1 (një) zyrtari të vetëm, i cili duhet të jetë ekspert fushe. Komisioni/zyrtari i ngarkuar është përgjegjës për vendimin e dhënë në përfundim të shqyrtimit të ankesës.
+15.2 Anëtarët e komisionit/zyrtari i ngarkuar nuk duhet të kenë marrë pjesë në marrjen e vendimit, për të cilin është paraqitur ankesa.
+15.3 Vendimi duhet të merret brenda 5 (pesë) ditëve pune, nga data e paraqitjes së ankesës dhe është përfundimtar.

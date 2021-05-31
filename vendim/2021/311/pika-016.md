@@ -1,0 +1,2 @@
+16. Ministri, pas përfundimit të afatit të ankimit, negocion dhe nënshkruan kontratën me ofertuesin fitues, e cila përmban, ndërmjet të tjerash, termat kryesorë të ofrimit të shërbimit, si dhe sigurimin e kontratës në vlerën 10% të kontratës.
+16.1 Kur fituesi nuk arrin të nënshkruajë kontratën ose nuk arrin të bëjë sigurimin e kontratës, autoriteti kontraktor fton për lidhjen e kontratës ofertuesin vijues në klasifikimin e ofertuesve.

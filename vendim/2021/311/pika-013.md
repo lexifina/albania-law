@@ -1,0 +1,1 @@
+13. Ministri, brenda 5 (pesë) ditëve kalendarike, nga paraqitja e raportit përmbledhës nga komisioni, vendos të miratojë ose të refuzojë shpalljen e fituesit, apo të anulojë dhe të përsërisë procedurën.

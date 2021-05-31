@@ -1,0 +1,2 @@
+12. Pas përfundimit të vlerësimit, komisioni harton procesverbalin e vlerësimit ku rendit ofertuesit e skualifikuar me arsyet përkatëse dhe ofertuesit e kualifikuar me pikët totale sipas renditjes përfundimtare.
+12.1 Në përfundim të fazës së vlerësimit, komisioni përgatit një raport përmbledhës, ku renditen ofertuesit pjesëmarrës në procedurë, ofertuesit e skualifikuar me arsyet përkatëse, si dhe renditja sipas pikëve totale të ofertuesve të kualifikuar, të cilin ia dërgon për miratim ministrit.

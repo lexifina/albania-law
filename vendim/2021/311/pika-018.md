@@ -1,0 +1,1 @@
+18. Vendimi nr. 201, datë 5.3.2020, i Këshillit të Ministrave, “Për përcaktimin e kushteve dhe të procedurës për përzgjedhjen e këshilltarit financiar për menaxhimin e borxhit shtetëror”, shfuqizohet.

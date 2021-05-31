@@ -1,0 +1,3 @@
+9. Ministri, me shpalljen e ftesës për ofertë, nxjerr urdhrin për përcaktimin e anëtarëve të Komisionit për Vlerësimin e Ofertave, këtu e në vijim “Komisioni”.
+9.1 Komisioni përbëhet nga jo më pak se 3 (tre) persona, specialistë të fushës, ky i fundit është përgjegjës për shqyrtimin e ofertave të paraqitura. Në çdo rast, numri i anëtarëve duhet të jetë tek.
+9.2 Nuk mund të marrin pjesë në këtë komision personat që kanë konflikt interesi me aplikuesit, sipas kuptimit të ligjit “Për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike”. Anëtarët e komisionit kanë detyrimin të ruajnë konfidencialitetin e përmbajtjes së aplikimeve.

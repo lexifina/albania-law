@@ -1,0 +1,1 @@
+8. Në rast se përpara përfundimit të afatit të dorëzimit të propozimeve ofertuesit e interesuar kërkojnë shtyrjen e këtij afati, ministri, pas shqyrtimit të kërkesës dhe arsyeve përkatëse, vendos pranimin ose refuzimin e saj. Vendimi për shtyrjen e afatit publikohet në faqen zyrtare të internetit të ministrisë përgjegjëse për financat.

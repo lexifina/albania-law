@@ -1,0 +1,4 @@
+10. Pas dorëzimit zyrtar të propozimeve nga ofertuesit e interesuar në protokollin e ministrisë përgjegjëse për financat, sipas përcaktimeve të ftesës për ofertë, komisioni fillon vlerësimin e tyre. Afati për kryerjen e vlerësimeve është brenda 7 (shtatë) ditëve kalendarike, nga data e përfundimit të afatit për dorëzimin e propozimeve. Në varësi të analizave paraprake të propozimeve, në rast se komisioni e gjykon të arsyeshme, mund t’u kërkojë ofertuesve propozues të dërgojnë sqarime dhe informacion shtesë, duke u caktuar edhe afatin e paraqitjes së tyre. Në këtë rast, afati i vlerësimit shtyhet me 5 (pesë) ditë pune nga data e paraqitjes së sqarimeve shtesë.
+10.1 Çdo ofertë e dorëzuar pas afatit të përcaktuar në ftesën për ofertë nuk shqyrtohet nga komisioni dhe i kthehet e pahapur ofertuesit.
+10.2 Komisioni vazhdon procedurën e vlerësimit edhe në rast se paraqitet 1 (një) ofertues i vetëm.
+10.3 Në rast se nuk paraqitet asnjë ofertë, komisioni anulon procedurën.
