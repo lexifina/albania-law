@@ -1,0 +1,3 @@
+# Dispozitë kalimtare (Parashikuar me ligjin nr. 147/2020, datë 17.12.2020)
+1. Provat materiale, për të cilat vendimi përfundimtar i organit procedues nuk ka disponuar sipas pikës 1, të nenit 190, të Kodit të Procedurës Penale, përpara hyrjes në fuqi të këtij ligji, kalojnë në favor të organit administrues shtetëror dhe administrohen sipas legjislacionit të posaçëm për administrimin e pasurive të sekuestruara dhe provave materiale.
+2. Provat materiale, sipas pikës 1 të këtij neni, për të cilat kanë kaluar pesë vjet nga vendimi përfundimtar, asgjësohen, me urdhër të gjykatës, pas kërkesës së organit procedues, sipas pikës 6, të nenit 215, të Kodit të Procedurës Penale, duke ruajtur kampionet përkatëse.

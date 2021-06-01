@@ -1,0 +1,3 @@
+# Neni 78
+Kompetenca për procedimin e gjyqtarëve dhe prokurorëve
+1. Procedimet, në të cilat një gjyqtar ose prokuror merr cilësinë e të pandehurit ose të personit viktimë nga vepra penale, që sipas normave të këtij kreu do të ishin në kompetencën e një gjykate të rrethit, ku gjyqtari ose prokurori ushtron funksionet e tij ose i ushtronte në momentin e ngjarjes, janë në kompetencën e gjykatës që ka kompetencën lëndore dhe ndodhet në qendrën e një rrethi tjetër më të afërt, me përjashtim të rasteve kur në këtë rreth gjyqtari ose prokurori ka ardhur më pas për të ushtruar funksionet e tij. Në rastin e fundit është kompetente gjykata e një rrethi tjetër më të afërt me atë, në të cilën gjyqtari ose prokurori ushtronte funksionet e tij në momentin e kryerjes së veprës penale.

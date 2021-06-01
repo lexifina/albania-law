@@ -1,0 +1,6 @@
+# Neni 260
+Revokimi, zëvendësimi dhe bashkimi i masave të sigurimit
+1. Masat shtrënguese dhe ndaluese revokohen menjëherë kur del se mungojnë kushtet dhe kriteret e zbatimit të tyre.
+2. Kur nevojat e sigurimit zbuten ose kur masa e zbatuar nuk i përgjigjet më rëndësisë së faktit ose dënimit që mund të caktohet, gjykata e zëvendëson masën me një tjetër më të lehtë.
+3. Kur nevojat e sigurimit rëndohen apo personi shkel detyrimet që lidhen me masën e sigurimit, gjykata, me kërkesë të prokurorit, mund të vendosë zëvendësimin e saj me një masë më të rëndë ose caktimin e një mase sigurimi shtrënguese ose ndaluese shtesë. Për shkeljen e detyrimeve që lidhen me një masë ndaluese, gjykata mund të vendosë caktimin e një mase ndaluese shtesë ose zëvendësimin e saj me një masë shtrënguese.
+4. Kërkesa e prokurorit ose e të pandehurit për revokimin, zëvendësimin ose bashkimin e masave të sigurimit shqyrtohet nga gjykata ku ndodhen aktet, brenda pesë ditëve nga depozitimi i saj. Kur është rasti, gjykata vendos edhe kryesisht revokimin ose zëvendësimin e masës së sigurimit gjatë marrjes në pyetje të personit të arrestuar, sipas nenit 248, të këtij Kodi, në rastet e parashikuara nga paragrafi 6, i nenit 246, të tij, gjatë procedimit për sigurimin e provës, gjatë seancës paraprake ose gjatë gjykimit.

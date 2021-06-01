@@ -1,0 +1,7 @@
+# Neni 211/a
+Sekuestrimi në zyrat e shërbimeve informative
+1. Kur lind nevoja e sekuestrimit të dokumenteve, akteve ose sendeve të tjera në zyrat e shërbimeve informative, veprimtaria e të cilave lidhet me sigurinë kombëtare, në arsyetimin e vendimit të sekuestrimit, gjykata tregon në mënyrë të detajuar dokumentet, aktet ose sendet objekt sekuestrimi.
+2. Gjykata autorizon prokurorin për shqyrtimin e dokumenteve, akteve dhe sendeve që duhet të sekuestrohen, i cili merr vetëm ato që janë të domosdoshme për qëllimet e hetimit.
+3. Kur ka arsye të bazuara për të besuar se dokumentet, aktet ose sendet nuk janë vënë në dispozicion ose janë të paplota, gjykata informon organin kompetent, i cili disponon dhënien e dokumenteve, akteve apo sendeve të tjera, ose konfirmon mungesën e tyre.
+4. Kur lind nevoja të merret origjinali ose kopja e një dokumenti, akti ose sendi të krijuar nga një shërbim informativ i huaj, i dhënë me kushtin e mospërhapjes së tij, shqyrtimi dhe dorëzimi pezullohen. Në këtë rast, njoftohet menjëherë organi kompetent, me qëllim komunikimin me autoritetin e huaj për të vendosur lidhur me ruajtjen e mëtejshme të sekretit. Brenda 60 ditëve, organi kompetent autorizon dhënien e dokumentit, aktit ose sendit ose konfirmon nevojën e ruajtjes së sekretit shtetëror.
+5. Kur organi kompetent nuk shprehet brenda afatit të parashikuar në paragrafin 4, të këtij neni, gjykata urdhëron marrjen e dokumentit, aktit ose sendit objekt i sekuestrimit.

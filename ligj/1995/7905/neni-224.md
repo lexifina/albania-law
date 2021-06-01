@@ -1,0 +1,4 @@
+# Neni 224
+Ruajtja e dokumentacionit
+1. Procesverbalet dhe regjistrimet ruhen pranë prokurorisë që ka urdhëruar përgjimin derisa vendimi të marrë formë të prerë, me përjashtim të atyre që ndalohet përdorimi. Por, kur ky dokumentacion nuk është i nevojshëm, të interesuarit mund të kërkojnë asgjësimin e tij. Mbi këtë kërkesë vendos gjykata që ka bërë vleftësimin e përgjimit. Asgjësimi bëhet nën kontrollin e gjyqtarit dhe për veprimin mbahet procesverbal.
+2. Kur prokurori vendos pushimin e çështjes, duhet të njoftojë për këtë vendim, me shkrim, gjykatën. Gjykata vendos për asgjësimin e procesverbaleve dhe regjistrimeve në afatin e caktuar prej saj dhe vë në dijeni personin e përgjuar. Me kërkesë të prokurorit, ky njoftim mund të mos bëhet në rastet kur ka rrezik për jetën ose shëndetin e të tjerëve, ose kur vihet në rrezik një hetim i nisur.

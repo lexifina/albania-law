@@ -1,0 +1,7 @@
+# Neni 223
+Veprimet e përgjimit
+1.Veprimet e përgjimit mund të kryhen vetëm me anën e pajisjeve të instaluara në vende të caktuara, të autorizuara dhe të kontrolluara nga prokurori. Kryerja e përgjimit dhe procesverbalet e transkriptimit bëhen nga oficerë të policisë gjyqësore, nën drejtimin dhe kontrollin e prokurorit të çështjes. 1/l. Kur njëri nga kushtet e përgjimit nuk ekziston më, oficeri i policisë gjyqësore njofton menjëherë prokurorin, i cili urdhëron ndalimin e përgjimit dhe vë në dijeni gjykatën, kur urdhri është dhënë nga gjykata.
+2. Komunikimet e përgjuara regjistrohen dhe për veprimet e kryera mbahet procesverbal. Në procesverbal transkriptohet përmbajtja e komunikimeve të përgjuara.
+3. Procesverbalet dhe regjistrimet i dorëzohen menjëherë prokurorit dhe brenda pesë ditëve nga mbarimi i veprimeve ato depozitohen në sekretari bashkë me aktet që kanë urdhëruar, autorizuar, vleftësuar dhe zgjatur përgjimin. Kur nga depozitimi mund të dëmtohen hetimet, gjykata autorizon prokurorin që ta shtyjë depozitimin deri në përfundimin e hetimeve paraprake.
+4. Mbrojtësit dhe përfaqësuesit e palëve lajmërohen menjëherë për depozitimin në sekretari dhe për të drejtën që kanë për të shqyrtuar aktet e për të dëgjuar regjistrimet. Gjykata, pasi dëgjon prokurorin dhe mbrojtësit, vendos për heqjen e regjistrimeve dhe të procesverbaleve, përdorimi i të cilave ndalohet.
+5. Gjykata urdhëron transkriptimin e plotë të regjistrimeve që duhen marrë. Transkriptimet futen në fashikullin e gjykimit. Mbrojtësit mund të nxjerrin kopje të transkriptimeve.

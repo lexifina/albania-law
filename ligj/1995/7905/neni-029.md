@@ -1,0 +1,6 @@
+# Neni 29
+Kërkimi i akteve nga një prokurori tjetër
+1. Kur prokurori merr dijeni se pranë një prokurorie tjetër janë duke u zhvilluar hetime paraprake në ngarkim të të njëjtit person dhe për të njëjtin fakt, në lidhje me të cilin ai procedon, njofton pa vonesë atë prokurori, duke i kërkuar dërgimin e akteve.
+2. Prokurori që ka marrë kërkesën, kur nuk është dakord me të, informon Prokurorin e Përgjithshëm, i cili pasi të ketë marrë të dhënat e nevojshme, vendos, sipas rregullave, mbi kompetencën e gjykatës se cila prokurori duhet të procedojë dhe njofton prokuroritë e interesuara. Prokurorisë së caktuar i dërgohen menjëherë aktet nga prokuroria tjetër.
+3. Nëse prokurori i Prokurorisë së Posaçme merr dijeni se pranë një prokurorie janë duke u zhvilluar hetime paraprake në ngarkim të të njëjtit person dhe për të njëjtin fakt, në lidhje me të cilin ai procedon, njofton pa vonesë drejtuesin e Prokurorisë së Posaçme, i cili vendos, sipas rregullave mbi kompetencën, se cila prokurori duhet të procedojë. Në rast se ai vendos që kompetenca i takon Prokurorisë së Posaçme, njofton prokurorinë e caktuar, e cila duhet t’i dërgojë aktet.
+4. Aktet e hetimit paraprak të kryera nga prokurori të ndryshme janë të përdorshme në rastet dhe në mënyrat e parashikuara nga ligji.

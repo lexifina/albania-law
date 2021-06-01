@@ -1,0 +1,3 @@
+# Neni 299/b
+Ruajtja e përshpejtuar dhe zbulimi i pjesshëm i të dhënave kompjuterike
+Personi i ngarkuar me ruajtjen e përshpejtuar të të dhënave të trafikut detyrohet të marrë të gjitha masat e nevojshme, për të garantuar se të dhënat e ruajtura janë të vlefshme, pavarësisht nëse një apo më tepër dhënës shërbimesh kanë qenë të përfshirë në transmetimin e komunikimit, si dhe t’i sigurojë prokurorisë ose oficerit të policisë gjyqësore, të autorizuar, zbulimin e një sasie të mjaftueshme të të dhënave të trafikut, në mënyrë që të mundësohet identifikimi i dhënësit të shërbimit dhe shtegu, nëpërmjet të cilit komunikimi është transmetuar.

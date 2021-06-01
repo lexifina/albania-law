@@ -1,0 +1,6 @@
+# Neni 325
+Ankimi për zgjatjen e afatit të hetimeve
+1. I pandehuri dhe viktima kanë të drejtë, brenda dhjetë ditëve nga njoftimi, të bëjnë ankim në gjykatën e rrethit kundër vendimit të prokurorit për zgjatjen e afatit të hetimeve. Ankimi u njoftohet menjëherë palëve të tjera. 1/1. Brenda 5 ditëve nga njoftimi i ankimit, prokurori, i pandehuri ose viktima sipas rastit, mund të paraqesin parashtrime me shkrim lidhur me bazueshmërinë e ankimit, si dhe të depozitojnë prova në mbështetje të tyre.
+2. Ankimi shqyrtohet nga gjyqtari që gjykon kërkesat e palëve gjatë hetimeve paraprake në dhomë këshillimi brenda 10 ditëve nga depozitimi i ankimit në sekretarinë e gjykatës.
+3. Kur ankimi pranohet dhe hetimet nuk duhet të vazhdojnë, gjykata urdhëron prokurorin që t’i përfundojë ato brenda një afati jo më të gjatë se 15 ditë. 3/1. Kur ankimi pranohet, por hetimet duhet të vazhdojnë, gjykata urdhëron prokurorin t’i përfundojë ato brenda një afati të caktuar prej saj. Provat e marra brenda këtij afati janë të përdorshme.
+4. Kundër vendimit të gjykatës mund të bëhet ankim, i cili nuk pezullon zbatimin e tij. Gjykata e apelit shqyrton ankimin në dhomë këshillimi brenda 10 ditëve nga depozitimi i ankimit në sekretarinë e gjykatës.

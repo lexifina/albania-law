@@ -1,0 +1,8 @@
+# Neni 215
+Vulosja e sendeve të sekuestruara
+1. Sendet e sekuestruara sigurohen me vulën e organit procedues ose, në varësi nga natyra e sendeve, me mjete të tjera të përshtatshme që tregojnë se ato ruhen për nevojat e drejtësisë.
+2. Organi procedues nxjerr kopje të dokumenteve dhe fotografi ose riprodhime të tjera të sendeve të sekuestruara që mund të ndryshojnë ose që ruhen me vështirësi, të cilat i bashkon me aktet dhe urdhëron ruajtjen e tyre në sekretari.
+3. Për sendet që mund të ndryshojnë, me kërkesë të organit administrues shtetëror ose kryesisht, organi procedues urdhëron, sipas rastit, tjetërsimin ose asgjësimin e tyre.
+4. Me kërkesë të organit procedues, gjykata mund të urdhërojë asgjësimin e sendeve të ndaluara për t’u prodhuar, zotëruar, mbajtur apo tregtuar, në rast se ruajtja e tyre është e vështirë, veçanërisht e kushtueshme ose përbën rrezik për sigurinë, shëndetin apo higjienën publike. Në këtë rast, gjykata urdhëron marrjen e kampionëve dhe ruajtjen e tyre për qëllime të procedimit.
+5. Organi procedues informon mbrojtësin e zgjedhur ose të caktuar kryesisht mbi vendin dhe datën e marrjes së kampionëve, të paktën 24 orë përpara. Mosparaqitja e mbrojtësit në marrjen e kampionëve nuk e ndalon organin procedues për marrjen e tyre.
+6. Procedura për asgjësimin e sendeve të sekuestruara, afati, si edhe organi kompetent përcaktohen me udhëzim të përbashkët të ministrit përgjegjës për rendin dhe sigurinë publike dhe Ministrit të Drejtësisë. Kur është e mundur, veprimet e kryera dokumentohen me mjete audiovizive dhe në çdo rast mbahet procesverbal, kopje e së cilit i dërgohet prokurorisë pranë gjykatës që ka vendosur asgjësimin.

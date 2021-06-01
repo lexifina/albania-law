@@ -1,0 +1,13 @@
+# Neni 329
+Ankimi kundër vendimit të pushimit të akuzës ose çështjes
+1. Kundër vendimit të pushimit të akuzës ose çështjes mund të bëhet ankim brenda 10 ditëve nga marrja dijeni para gjyqtarit të seancës paraprake. Në rastet kur prokurori ka paraqitur kërkesë për dërgimin e çështjes në gjyq, por për njërën ose disa nga akuzat ka vendosur pushimin, ankimi ndaj vendimit të pushimit shqyrtohet bashkërisht me kërkesën për dërgimin e çështjes në gjyq.
+2. Në sekretarinë e gjykatës depozitohen kopje të akteve dhe provave që përmban fashikulli i hetimeve paraprake, duke përfshirë edhe vendimet e marra nga gjyqtari i hetimeve paraprake, si dhe provat materiale, përveç rastit kur ato ruhen në vend tjetër.
+3. Ankimi shqyrtohet në dhomë këshillimi, brenda pesëmbëdhjetë ditëve nga marrja e akteve. Gjykata vendos sipas rastit:
+a) lënien në fuqi të vendimit të pushimit, kur çmon se janë kushtet e parashikuara nga paragrafi 1, i nenit 328, të këtij Kodi;
+b) kthimin e akteve prokurorit dhe vazhdimin e hetimeve, kur çmon se ato janë të paplota, duke përcaktuar drejtimet e thellimit të tyre dhe, kur është rasti, edhe veprimet që duhet të kryhen, si dhe cakton afatin brenda të cilit hetimet duhet të përfundojnë;
+c) kthimin e akteve prokurorit, duke e urdhëruar që të formulojë akuzë dhe të paraqesë kërkesë për gjykimin e çështjes, kur çmon se hetimet janë të plota dhe rezulton se ka prova të mjaftueshme për të mbështetur akuzën në gjyq.
+4. Gjykata nuk mund të urdhërojë prokurorin që të formulojë akuzë për persona të tjerë, emri i të cilëve nuk është regjistruar sipas nenit 287 të këtij Kodi. Kur nga aktet rezultojnë të dhëna për vepra penale të tjera, që ndiqen kryesisht ose në ngarkim të personave të tjerë, gjykata mund të kërkojë që të kryhen hetime, edhe në rastet kur vendos sipas shkronjës “c”, të paragrafit 3, të këtij neni.
+5. Në rastet e parashikuara nga paragrafi 3, shkronjat “b” dhe “c”, dhe paragrafi 4, të këtij neni, vendimi i njoftohet edhe drejtuesit të prokurorisë.
+6. Kundër vendimit të gjyqtarit të seancës paraprake sipas shkronjës “a” të paragrafit 3 të këtij neni, mund të bëjnë ankim në gjykatën e apelit i pandehuri dhe viktima, ndërsa sipas shkronjave “b” dhe “c” të paragrafit 3, të këtij neni, mund të bëjë ankim prokurori.
+7. Gjykata e apelit shqyrton ankimin në dhomë këshillimi brenda 15 ditëve nga data e marrjes së akteve.
+8. Kur pranon ankimin e të pandehurit, gjykata e apelit vendos ndryshimin e vendimit të pushimit me formulimin më të favorshëm për të. Kur pranon ankimin e viktimës, gjykata urdhëron vazhdimin e hetimeve ose dërgimin e çështjes në gjyq. Kur pranon ankimin e prokurorit, gjykata vendos lënien në fuqi të vendimit të pushimit.

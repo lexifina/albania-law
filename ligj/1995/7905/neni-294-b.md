@@ -1,0 +1,6 @@
+# Neni 294/b
+Infiltrimi në përbërje të grupit kriminal
+1. Për qëllimet e zbulimit të krimeve të rënda, oficeri ose agjenti i policisë gjyqësore, me autorizimin dhe nën mbikëqyrjen e prokurorit, mund të futet në përbërjen e një grupi kriminal për të individualizuar pjesëtarët e grupit dhe për të mbledhur të dhënat e nevojshme për hetimin, duke fshehur bashkëpunimin me policinë ose detyrën e vet si punonjës policie.
+2. Punonjësi i policisë gjyqësore i infiltruar nuk duhet të provokojë një akt kriminal, i cili, pa ndërhyrjen e tij, nuk do të ishte kryer. Kur vërtetohet provokimi, rezultati nuk mund të përdoret.
+3. Autorizimi i prokurorit duhet të përcaktojë afatin e infiltrimit, që lejohet të zgjatet nga prokurori deri në gjashtë muaj dhe hapësirën e lejueshme për punonjësin e infiltruar, duke treguar, sipas rastit, veprimet e paligjshme që mund të kryejë ai, pa rrezikuar jetën e të tjerëve.
+4. Punonjësi i policisë gjyqësore i infiltruar mund të pyetet si dëshmitar. Nëse marrja e dëshmisë nga personat e infiltruar është thelbësore për zgjidhjen e çështjes, dëshmia merret duke respektuar rregullat mbi ruajtjen e fshehtësisë së identitetit të informatorit. Kur këta të fundit nuk janë thirrur si dëshmitarë, informacionet e dhëna prej tyre nuk mund të përdoren.

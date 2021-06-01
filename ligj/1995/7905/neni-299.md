@@ -1,0 +1,4 @@
+# Neni 299
+Marrja e plikove dhe e korrespondencës
+1. Kur është e nevojshme për qëllimet e procedimit që të merren pliko të vulosura ose të mbyllura me ndonjë mënyrë tjetër, oficeri i policisë gjyqësore ia dërgon ato prokurorit të paprekura për sekuestro eventuale. Në qoftë se ka shkaqe të bazuara për të menduar se plikot përmbajnë të dhëna që mund të humbasin për shkak të vonesës, oficeri i policisë gjyqësore informon me mjetin më të shpejtë prokurorin, i cili mund të autorizojë hapjen e menjëhershme.
+2. Për letrat, zarfet, pakot, vlerat monetare e pasurore, telegramet ose mjetet e tjera të korrespondencës, për të cilat lejohet sekuestroja, oficerët e policisë gjyqësore, në raste të ngutshme, urdhërojnë atë që kryen shërbimin postar të pezullojë dërgimin. Në qoftë se brenda dyzet e tetë orëve nga urdhri i policisë gjyqësore prokurori nuk vendos sekuestron, objektet e korrespondencës dërgohen në destinacion.

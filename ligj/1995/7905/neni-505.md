@@ -1,0 +1,6 @@
+# Neni 505
+Kompetencat e Ministrisë së Drejtësisë
+1. Ministria e Drejtësisë vendos që t’i jepet rrugë letërporosisë së një autoriteti të huaj për komunikimet, njoftimet dhe për marrjen e provave, përveçse kur çmon se veprimet e kërkuara rrezikojnë sovranitetin, sigurimin ose interesa të rëndësishme të shtetit.
+2. Ministria nuk i jep rrugë letërporosisë kur del e qartë se veprimet e kërkuara janë të ndaluara shprehimisht nga ligji ose kur vijnë në kundërshtim me parimet themelore të rendit juridik shqiptar. Ministria nuk i jep rrugë letërporosisë edhe kur ka arsye të bazuara për të menduar se konsideratat lidhur me racën, fenë, seksin, kombësinë, gjuhën, bindjet politike apo gjendjen shoqërore mund të ndikojnë negativisht në zhvillimin e procesit, si dhe kur nuk del që i pandehuri të ketë shprehur lirisht pëlqimin e tij për letërporosinë.
+3. Në rastet kur letërporosia ka si objekt thirrjen e një dëshmitari, të një eksperti a të një të pandehuri para autoritetit gjyqësor të huaj, Ministria e Drejtësisë nuk i jep rrugë letërporosisë kur shteti kërkues nuk jep garancinë e duhur për paprekshmërinë e personit të thirrur.
+4. Ministria ka të drejtë të mos i japë rrugë letërporosisë kur shteti kërkues nuk jep garancinë e duhur të reciprocitetit.

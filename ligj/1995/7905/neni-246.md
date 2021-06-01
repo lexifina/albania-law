@@ -1,0 +1,8 @@
+# Neni 246
+Zbatimi i masave të sigurimit
+1. Oficeri ose agjenti i policisë i ngarkuar me zbatimin e vendimit të arrestit i dorëzon personit ndaj të cilit është marrë masa kopjen e vendimit dhe e njeh menjëherë me letrën e të drejtave, sipas paragrafit 2, të nenit 34/b, të këtij Kodi. Policia gjyqësore mban procesverbal për veprimet e kryera. Procesverbali i dërgohet gjykatës që ka dhënë vendimin dhe prokurorit.
+2. Në rast se dyshohet për vërtetësinë e vendimit që ka caktuar masën e sigurimit ose për vërtetësinë e identitetit të personit ndaj të cilit është dhënë masa, oficerët dhe agjentët e policisë gjyqësore të ngarkuar nuk e zbatojnë atë.
+3. Vendimet për masat e tjera të sigurimit i njoftohen të pandehurit nga gjykata.
+4. Pas njoftimit ose zbatimit të tyre, vendimet depozitohen në sekretarinë e gjykatës që i ka dhënë. Për depozitimin njoftohen edhe mbrojtësit.
+5. Kopja e vendimit, me të cilin është caktuar një masë ndaluese i dërgohet organit që është kompetent për të vendosur caktimin e një mase të tillë në rastet e zakonshme.
+6. Çdo dy muaj nga zbatimi i vendimit të arrestit, prokurori informon me shkrim gjykatën që ka caktuar masën mbi hetimet e kryera dhe nevojat e sigurimit. Informacioni përmban të dhëna për gjendjen e procedimit, pyetjen e të pandehurit dhe personave të tjerë, përshkrimin e të dhënave të marra dhe shoqërohet me kopje të akteve të fashikullit. Kur prokurori nuk informon në afatin e përcaktuar, gjykata verifikon nevojat e sigurimit me kërkesë të të pandehurit ose kryesisht. Gjykata, pasi dëgjon palët, vendos vazhdimin, zëvendësimin ose revokimin e masës së sigurimit. Zbatohen rregullat e parashikuara në nenet 248 dhe 249 të këtij Kodi.

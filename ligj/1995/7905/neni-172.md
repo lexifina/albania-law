@@ -1,0 +1,5 @@
+# Neni 172
+Zhvillimi i njohjes
+1. Pasi largon atë që duhet të bëjë njohjen, organi procedues siguron praninë e të paktën dy personave sa më të ngjashëm me atë që duhet të njihet. E fton këtë të fundit të zgjedhë vendin e tij në raport me të tjerët duke u kujdesur që të paraqitet, sa të jetë e mundur, në të njëjtat kushte në të cilat do të kishte qenë parë nga personi i thirrur për njohje. Pasi paraqitet personi që do të bëjë njohjen gjykata e pyet nëse njeh ndonjërin nga ata që i paraqiten për njohje dhe, në rast se po, e fton të tregojë se cilin njeh dhe ta saktësojë nëse është i sigurt.
+2. Kur ka arsye të mendohet se personi i thirrur për të bërë njohjen mund të frikësohet ose të ketë ndikime të tjera nga prania e personit që duhet njohur, organi procedues urdhëron që veprimi të kryhet pa e parë ky i fundit të parin.
+3. Në procesverbal shënohen, me pasojë pavlefshmërie, mënyra e zhvillimit të njohjes. Organi procedues mund të urdhërojë që zhvillimi i njohjes të dokumentohet edhe me fotografime ose filmime.

@@ -1,0 +1,4 @@
+# Neni 397
+Detyrimi i palëve private me shpenzimet procedurale
+1. Me vendimin që pranon kërkesën e kthimit të sendit ose të shpërblimit të dëmit, gjykata detyron solidarisht të pandehurin dhe të paditurin civil për pagimin e shpenzimeve procedurale në dobi të paditësit civil, përveçse kur çmon se duhet të vendosë kompensimin tërësor ose të pjesshëm të tyre.
+2. Kur rrëzohet kërkesa ose kur i pandehuri deklarohet i pafajshëm, përveç rastit që është i papërgjegjshëm, gjykata detyron paditësin civil me pagimin e shpenzimeve procedurale të bëra nga i pandehuri dhe nga i padituri civil për efekt të padisë civile, por gjithnjë kur nuk ekzistojnë shkaqe për kompensimin tërësor a të pjesshëm. Kur vërtetohet pakujdesia e rëndë, gjykata mund ta detyrojë edhe me shpërblimin e dëmeve të shkaktuara të pandehurit ose të paditurit civil.

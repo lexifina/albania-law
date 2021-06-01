@@ -1,0 +1,8 @@
+# Neni 350
+Mungesa e të pandehurit ose e mbrojtësit
+1. Kur i pandehuri, qoftë edhe i paraburgosur, ose personi ndaj të cilit ka bërë kërkesë për gjykim viktima akuzuese, nuk paraqitet në seancë dhe del se mungesa është shkaktuar nga forca madhore ose ndonjë pengesë tjetër që e përjashton nga përgjegjësia, gjykata, edhe kryesisht, shtyn ose pezullon shqyrtimin gjyqësor, cakton datën e seancës së re dhe urdhëron që të përsëritet thirrja.
+2. Leximi i vendimit që cakton seancën e re zëvendëson njoftimin për të gjithë ata që janë ose duhet të quhen të pranishëm.
+3. Gjykata vendos sipas paragrafit 1, të këtij neni, edhe kur mbrojtësi mungon dhe mungesa është shkaktuar nga forca madhore, përveçse kur i pandehuri kërkon që të procedohet në mungesë të mbrojtësit dhe prania e tij nuk është e detyrueshme. Kur i pandehuri ndihmohet nga dy mbrojtës dhe pengesa për t’u paraqitur lidhet vetëm me njërin prej tyre, thirrja konsiderohet e vlefshme dhe gjykimi zhvillohet me praninë e njërit mbrojtës.
+4. Kur mbrojtësi i njoftuar rregullisht nuk paraqitet në seancë dhe nuk ka pengesa që e përjashtojnë nga përgjegjësia për t’u paraqitur ose nëse mbrojtësi ikën nga seanca pa leje, gjykata mund të caktojë ndaj tij gjobë nga 5 000 deri në 100 000 lekë dhe mund ta urdhërojë të paguajë shpenzimet e seancës.
+5. Ndaj urdhrit të mësipërm mund të bëhet ankim me shkrim brenda 3 ditëve. Ankimi shqyrtohet në dhomë këshillimi nga e njëjta gjykatë. Kur e sheh të arsyeshme gjykata vendos revokimin e gjobës. Kundër vendimit për revokimin e gjobës nuk lejohet ankim.
+6. Kur del që njoftimi nuk ka qenë i rregullt, gjykata vendos shtyrjen e shqyrtimit gjyqësor dhe urdhëron përsëritjen e njoftimit.

@@ -1,0 +1,5 @@
+# Neni 294/a
+Veprimet simuluese
+1. Oficeri i policisë gjyqësore ose një person i autorizuar, mund të ngarkohet për të kryer blerje ose shitje të simuluar të sendeve që janë të ndaluara për t’u prodhuar, zotëruar, mbajtur apo tregtuar, apo sende që rrjedhin nga një krim, ose simulimin e një akti korruptiv ose të kryejnë veprime të tjera simuluese, për të zbuluar dhe mbledhur prova për personat e dyshuar për kryerjen e një krimi, duke fshehur bashkëpunimin me policinë ose detyrën e tyre si punonjës policie.
+2. Këto veprime bëhen me autorizimin dhe nën mbikëqyrjen e prokurorit që kontrollon hetimet ose të prokurorit që ka në juridiksion territorin ku do të zhvillohet veprimi. Pas kryerjes së këtyre veprimeve, policia gjyqësore duhet t’i dorëzojë prokurorit të gjitha provat e mbledhura dhe një raport përmbledhës.
+3. Nuk duhet provokuar një akt kriminal, duke shtyrë një person të kryejë një krim, të cilin nuk do ta kishte kryer po të mos ishte ndërhyrja e policisë. Kur vërtetohet provokimi, rezultati nuk mund të përdoret.

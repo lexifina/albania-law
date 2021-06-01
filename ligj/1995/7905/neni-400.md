@@ -1,0 +1,6 @@
+# Neni 400
+Rastet e gjykimit të drejtpërdrejtë
+1. Kur i pandehuri është arrestuar në flagrancë dhe hetohet për kryerjen e një vepre penale që gjykohet nga një gjyqtar, prokurori paraqet në gjykatë brenda dyzet e tetë orëve nga arrestimi, kërkesën për vleftësimin e tij dhe gjykimin e njëkohshëm, kur çmon se nuk ka nevojë për hetime të mëtejshme.
+2. Në qoftë se arrestimi vleftësohet i ligjshëm dhe nuk ka nevojë për hetime të tjera, procedohet menjëherë në gjykim, ndërsa kur ai nuk gjendet i bazuar aktet i kthehen prokurorit. Por edhe në rastin e fundit, kur i pandehuri dhe prokurori japin pëlqimin gjykata procedon në gjykimin e drejtpërdrejtë.
+3. Kur i pandehuri është arrestuar në flagrancë dhe ai vleftësohet i ligjshëm, si dhe kur gjykata vendos njërën nga masat e sigurimit të parashikuara nga nenet 237, 238 ose 239, të Kodit, prokurori paraqet në gjykatë kërkesë për gjykimin e drejtpërdrejtë, jo më vonë se tridhjetë ditë nga data e arrestimit, me përjashtim të rastit kur duhet të kryhen hetime të mëtejshme.
+4. Kur vepra penale, për të cilën kërkohet gjykimi i drejtpërdrejtë lidhet me vepra penale të tjera, për të cilat mungojnë kushtet për këtë lloj gjykimi, procedohet ndaras për veprat e tjera dhe ndaj të pandehurve të tjerë, përveçse kur kjo ndarje dëmton hetimet. Kur bashkimi është i domosdoshëm zbatohen rregullat e gjykimit të zakonshëm.

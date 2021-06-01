@@ -1,0 +1,4 @@
+# Neni 301
+Vleftësimi i sekuestros
+1. Kur vë sekuestron, sipas nenit 300, policia gjyqësore shënon në procesverbal shkakun dhe i dorëzon një kopje të aktit personit, të cilit i janë sekuestruar sendet. Procesverbali i dërgohet pa vonesë dhe sidoqoftë jo më vonë se dyzet e tetë orë, prokurorit të vendit ku është zbatuar sekuestroja.
+2. Prokurori, brenda dyzet e tetë orëve të ardhshme, me vendim të motivuar vleftëson sekuestron, në qoftë se ekzistojnë kushtet, ose vendos kthimin e sendeve të sekuestruara. Kopja e vendimit i njoftohet menjëherë, por jo më vonë se 72 orë, të pandehurit, mbrojtësit dhe personit të cilit i janë sekuestruar sendet. Kundër tij mund të bëhet ankim në gjykatë brenda dhjetë ditëve nga i pandehuri dhe mbrojtësi i tij, nga personi të cilit i janë sekuestruar sendet dhe ai që ka të drejtë t’i kthehen ato. Ankimi nuk pezullon zbatimin e sekuestros.

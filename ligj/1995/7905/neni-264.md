@@ -1,0 +1,4 @@
+# Neni 264
+Zgjatja e paraburgimit
+1. Në çdo gjendje dhe shkallë të procedimit, kur është urdhëruar ekspertimi i gjendjes mendore të të pandehurit, afatet e paraburgimit zgjaten për kohën që është caktuar për kryerjen e ekspertimit. Zgjatja vendoset nga gjykata, mbi kërkesën e prokurorit, pasi dëgjohet mbrojtësi. Kundër vendimit mund të bëhet ankim në gjykatën e apelit. 2.Gjatë hetimeve paraprake, prokurori mund të kërkojë zgjatjen e afateve të paraburgimit, që janë në mbarim e sipër, kur ekzistojnë nevoja të rëndësishme sigurimi dhe verifikimet veçanërisht komplekse e bëjnë të domosdoshme këtë zgjatje. Gjykata pasi dëgjon prokurorin dhe mbrojtësin merr vendim. Zgjatja mund të bëhet vetëm një herë dhe nuk mund të jetë më shumë se tre muaj.
+3. Kohëzgjatja e paraburgimit nuk mund të kalojë gjysmën e maksimales së dënimit të parashikuar për veprën penale që procedohet.

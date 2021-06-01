@@ -1,0 +1,6 @@
+# Neni 251
+Arrestimi në flagrancë
+1. Oficerët dhe agjentët e policisë gjyqësore kryejnë detyrimisht arrestimin e cilitdo që kapet në flagrancë për një krim me dashje, të kryer ose të mbetur në tentativë, për të cilin ligji cakton dënimin me burgim jo më të ulët në maksimum se pesë vjet.
+2. Oficerët dhe agjentët e policisë gjyqësore kanë të drejtë të arrestojnë cilindo që kapet në flagrancë për një krim me dashje, të kryer ose të mbetur në tentativë, për të cilin ligji cakton dënimin me burgim jo më të ulët në maksimum se dy vjet ose për një vepër penale të kryer nga pakujdesia, për të cilën ligji cakton dënimin me burgim jo më të ulët në maksimum se dhjetë vjet.
+3. Kur lind nevoja e domosdoshme, për shkak të rëndësisë së faktit ose të rrezikshmërisë së subjektit, e motivuar me akt të veçantë, oficerët dhe agjentët e policisë gjyqësore kanë të drejtë të arrestojnë cilindo që kapet në flagrancë, edhe kur nuk janë kushtet e pikës 2.
+4. Në rastet e parashikuara nga paragrafi 1, çdo person është i autorizuar të kryejë arrestimin në flagrancë për krimet që ndiqen kryesisht. Ai që ka kryer arrestimin duhet të dorëzojë menjëherë të arrestuarit në policinë gjyqësore, e cila mban procesverbal për dorëzimin dhe i jep një kopje të tij.
