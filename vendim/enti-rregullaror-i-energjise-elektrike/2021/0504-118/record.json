@@ -1,0 +1,26 @@
+{
+  "qbz_id": 23127,
+  "title": "Për shqyrtimin e kërkesës së OSSH sh.a. lidhur me rishkimin e vendimit të ERE-s nr.61, datë 25.01.2021",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "118",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2021-05-04",
+  "published": "2021-06-01",
+  "in_force": "2021-06-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/65fcbfa3e128d30e4598282c549bc77db3e4f965096126df456b40928fb1857e.docx",
+  "source_sha256": "65fcbfa3e128d30e4598282c549bc77db3e4f965096126df456b40928fb1857e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23127",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/05/04/118",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
