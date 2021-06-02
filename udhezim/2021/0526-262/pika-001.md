@@ -1,0 +1,1 @@
+1. Miratimin e metodologjisë së punës për menaxhimin e rastit të fëmijës në konflikt me ligjin, nga punonjësi i mbrojtjes së fëmijës, sipas tekstit që i bashkëlidhet këtij udhëzimi dhe është pjesë përbërëse e tij.
