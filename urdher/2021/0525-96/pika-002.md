@@ -1,0 +1,2 @@
+2. Njësia ekonomike do të zbatojë ndryshimet në SNK 1 dhe SNK 8 për periudha vjetore raportuese që fillojnë në datën 1 janar 2023 ose më pas. Lejohet zbatimi përpara kësaj date. Për SNK 1, nëse njësia ekonomike i zbaton këto ndryshime për një periudhë më të hershme, ajo do të japë informacione shpjeguese për këtë fakt.
+Për SNK 8, njësia ekonomike do të zbatojë ndryshimet në vlerësimet kontabël dhe ndryshimet në politikat kontabël që ndodhin në periudhën e parë raportuese vjetore, në të cilën zbaton ndryshimet, ose më pas.
