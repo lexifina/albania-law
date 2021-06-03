@@ -1,0 +1,1 @@
+2. Paragrafi C1C parashikon që një qiramarrës do të zbatojë ndryshimin në SNRF 16 për periudhat raportuese që fillojnë më 1 prill 2021 e më pas. Zbatimi i mëparshëm është i lejuar, duke përfshirë edhe pasqyrat financiare të paautorizuara për t’u publikuar në 31 mars 2021.
