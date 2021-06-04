@@ -2,6 +2,9 @@
 a) “Dalje/nxjerrje nga flota e peshkimit”, çregjistrimi përfundimtar i një anijeje peshkimi nga Regjistri i Anijeve të Peshkimit (RAP), të krijuar sipas nenit 32, të ligjit nr. 64/2012, “Për peshkimin”, të ndryshuar;
 b) “Hyrje në flotën e peshkimit”, regjistrimi i një anijeje peshkimi në Regjistrin e Anijeve të Peshkimit (RAP), sipas specifikimeve të përcaktuara në nenin 32, të ligjit nr. 64/2012, “Për peshkimin”, të ndryshuar;
 c) “Kapacitet peshkimi”, aftësia e një anijeje peshkimi ose një grup anijesh peshkimi për të zënë peshk. Matja e kapacitetit të një anijeje bazohet në dy indikatorë: tonazhin e anijes GT dhe fuqinë motorike të saj në kW.
+ç) “Anije akuakulture”, një anije e pajisur ekskluzivisht për mbledhjen, transportimin, trajtimin dhe/ose zbarkimin e prodhimeve të akuakulturës;
+d) “Fotografi çasti”, lista e ngjarjeve të regjistruara për anijet në regjistrin e flotës së peshkimit për një periudhë të përcaktuar kohe;
+dh) “Ngjarje”, hyrja ose dalja e një anijeje nga flota ose modifikimi i një prej karakteristikave të saj të renditura në shtojcën 1, bashkëlidhur këtij vendimi.
 II. RREGULLIMI I KAPACITETIT TË PESHKIMIT DHE I NUMRIT TË LEJEVE TË PESHKIMIT TREGTAR
 1. Numri i lejeve të peshkimit tregtar profesional, për të gjitha format dhe llojet e këtij peshkimi, deklarohet i mbyllur. Me qëllim ruajtjen dhe mbrojtjen e resurseve të pelagjikëve të vegjël, për anijet që janë të lejuara për të dyja format e peshkimit së bashku, tërheqëse fundore dhe tërheqëse pelagjike, subjekti i peshkimit ka të drejtë të ndryshojë lejen e peshkimit duke kaluar vetëm në rrjeta tërheqëse fundore.
 1/1. Kalimi nga lejet e peshkimit për të dyja format e peshkimit, në rrjeta tërheqëse fundore dhe në rrjeta tërheqëse pelagjike, në formën e peshkimit vetëm tërheqëse fundore, bëhet nga ministria përgjegjëse për peshkimin.
