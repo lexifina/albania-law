@@ -1,0 +1,1 @@
+3. Në përzgjedhjen e anëtarëve të Komisionit të Kualifikimit, preferencë do të kenë kandidatët që zotërojnë tituj ose grada shkencore ose kanë eksperiencë të provuar shkencore dhe/ose profesionale në çështjet e së drejtës civile.

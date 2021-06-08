@@ -1,0 +1,1 @@
+26. Pyetjet e provimit do t’i referohen legjislacionit që zbatohet në ushtrimin e profesionit të përmbaruesit gjyqësor, duke synuar testimin e njohurive dhe të aftësive të kandidatëve në fushën e veprimtarisë përmbarimore dhe zgjidhjen e rasteve konkrete.

@@ -1,0 +1,1 @@
+7. Ministri i Drejtësisë përcakton me urdhër ditën, orën, vendin e zhvillimit të provimit të kualifikimit, afatet e paraqitjes së kërkesave për shprehje interesi për të hyrë në provim dhe dokumentet përkatëse që duhet të shoqërojnë kërkesën.

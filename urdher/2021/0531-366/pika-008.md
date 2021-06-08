@@ -1,0 +1,1 @@
+8. Njoftimi për organizimin e provimit të kualifikimit të përmbaruesve gjyqësorë privatë shpallet në Buletinin e Njoftimeve Zyrtare dhe publikohet, për së paku 15 ditë, në faqen zyrtare të Ministrisë së Drejtësisë dhe të Dhomës.

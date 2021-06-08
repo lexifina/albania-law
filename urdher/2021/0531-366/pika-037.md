@@ -1,0 +1,1 @@
+37. Komisioni i Kualifikimit, pasi skanon fletët e përgjigjeve, kryen vlerësim elektronik (me teknikën scan-tron) të tyre. Administrimi i rezultateve të përfituara nga korrigjimi automatik dokumentohet me procesverbal nga njëri prej anëtarëve të Komisionit, që zgjidhet nga kryetari.

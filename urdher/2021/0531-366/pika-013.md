@@ -1,0 +1,1 @@
+13. Personat që janë renditur në listën skualifikuese, kanë të drejtë t’i drejtohen me ankesë Ministrisë së Drejtësisë, brenda 3 ditëve nga dita e publikimit të listave, sipas pikës 12 të këtij urdhri.

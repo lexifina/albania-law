@@ -1,0 +1,1 @@
+38. Provimi i kualifikimit vlerësohet me maksimumin e mundshëm 100 pikë, nga të cilat provimi me shkrim përmban 75% të numrit total të pikëve (75 pikë). Ndihmëspërmbaruesi që vlerësohet me të paktën 60% të pikëve në pjesën e provimit me shkrim kalon në kontrollin e njohurive me gojë.

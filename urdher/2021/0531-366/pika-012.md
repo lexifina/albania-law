@@ -1,0 +1,1 @@
+12. Lista kualifikuese për të marrë pjesë në provim, si dhe lista e të skualifikuarve publikohet në faqen zyrtare të Ministrisë së Drejtësisë dhe të Dhomës, jo më vonë se 7 ditë para ditës së organizimit të provimit.

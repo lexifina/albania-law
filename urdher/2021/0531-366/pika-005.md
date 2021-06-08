@@ -1,0 +1,1 @@
+5. Komisioni i Kualifikimit mbështetet nga struktura përgjegjëse për profesionet e lira në Ministrinë e Drejtësisë, e cila siguron mbarëvajtjen administrative dhe logjistike të nevojshme për aktivitetet e Komisionit të Kualifikimit.

@@ -1,0 +1,1 @@
+24. Pas shpërndarjes së testit, kandidatëve u kalohet një listë me emrat e tyre dhe secili shënon kodin e testit përbri emrit të vet. Pas përfundimit të shënimit të kodeve nga të gjithë kandidatët, lista mbyllet në një zarf të veçantë, për t’u hapur nga Komisioni i Kualifikimit pas vlerësimit të provimeve.

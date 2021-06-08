@@ -1,0 +1,1 @@
+27. Provimi përbëhet të paktën nga pyetjet në fushën e së drejtës civile, së drejtës procedurale civile, së drejtës publike për aspekte të veçanta, për aq sa lidhen me fushën e përmbarimit gjyqësor, si dhe nga korniza ligjore që rregullon veprimtarinë e përmbarimit gjyqësor privat.

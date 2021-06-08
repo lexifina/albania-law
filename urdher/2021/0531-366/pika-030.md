@@ -1,0 +1,1 @@
+30. Teza e provimit me shkrim përmban vetëm pyetje me alternativa, ku përgjigjet jepen në mënyrë skematike, pa fjalë, sipas teknikës scan-tron. Për plotësimin e saj kandidati rrethon saktë vetëm njërën prej tyre në fletën e përgjigjes. Korrigjimi i mëvonshëm apo zgjedhja e më shumë se një prej alternativave për secilën pyetje e bën përgjigjen automatikisht të pasaktë.

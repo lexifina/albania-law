@@ -1,0 +1,1 @@
+49. Procesverbalet, përgjigjet e tezave, tezat e skualifikuara, si dhe i gjithë dokumentacioni tjetër që krijohet dhe i përket procesit të organizimit të provimit të kualifikimit, shpalljes së rezultateve dhe të personave që kalojnë me sukses provimin, ruhen në një dosje të veçantë në arkivin e Ministrisë së Drejtësisë, sipas legjislacionit në fuqi për arkivat.

@@ -1,0 +1,1 @@
+40. Lista me emrat, kodet dhe pikët e fituara nga ndihmëspërmbaruesit nënshkruhet nga të gjithë anëtarët e Komisionit të Kualifikimit. Një kopje e saj publikohet brenda ditës në faqen zyrtare të Ministrisë së Drejtësisë dhe Dhomës. Për efekt ankimi, ky afishim është i barasvlershëm me njoftimin e çdo kandidati.

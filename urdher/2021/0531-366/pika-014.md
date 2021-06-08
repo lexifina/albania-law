@@ -1,0 +1,1 @@
+14. Pas shqyrtimit të ankesave dhe vënies në dijeni të personave që i kanë paraqitur ato, Ministria e Drejtësisë publikon në faqen zyrtare listën përfundimtare të të kualifikuarve për provim, jo më vonë se 2 ditë para ditës së organizimit të provimit. Lista publikohet edhe në faqen zyrtare të Dhomës.

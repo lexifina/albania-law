@@ -1,0 +1,1 @@
+34. Procesverbali i provimit nënshkruhet nga të gjithë anëtarët e komisionit mbikëqyrës dhe bëhet pjesë e dosjes mbi procedurat e zhvilluara, duke i bashkëlidhur edhe tezat (fletët e përgjigjeve) të personave të skualifikuar.

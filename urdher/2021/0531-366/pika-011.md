@@ -1,0 +1,1 @@
+11. Struktura përgjegjëse për profesionet e lira në Ministrinë e Drejtësisë organizon punën për regjistrimin e kërkesave të ardhura dhe verifikimin e dokumentacionit shoqërues, si dhe informon të interesuarit lidhur me kushtet e organizimit të provimit.

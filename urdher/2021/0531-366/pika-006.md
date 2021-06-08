@@ -1,0 +1,1 @@
+6. Anëtarët e Komisionit të Kualifikimit marrin shpërblim për pjesëmarrje në mbledhje nga buxheti i Dhomës, i cili përcaktohet nga Këshilli Drejtues i Dhomës, pas konsultimit me ministrin e Drejtësisë.

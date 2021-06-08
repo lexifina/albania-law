@@ -1,0 +1,1 @@
+35. Pas përfundimit të kohës së caktuar për provim, bëhet mbledhja e përgjigjeve të tezave të kandidatëve, si dhe të gjitha materialet e tjera të përdorura në provim dhe, nëse është rasti, bëhen shënimet përkatëse sipas parashikimeve të mësipërme.

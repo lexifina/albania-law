@@ -1,0 +1,1 @@
+10. Personat e interesuar paraqesin në Ministrinë e Drejtësisë kërkesën për shprehje interesi, si dhe dokumentacionin përkatës që vërteton se i plotësojnë të gjitha kushtet ligjore për të marrë pjesë në provim, në përputhje me përcaktimet në urdhrin e ministrit të Drejtësisë.

@@ -1,0 +1,1 @@
+41. Kandidatët që kanë vërejtje për vlerësimin, kanë të drejtë të ankohen brenda 3 ditëve nga dita e afishimit të listës. Komisioni i Kualifikimit shqyrton ankimet jo më vonë se 3 ditë pas kalimit të këtij afati dhe vë në dijeni ankuesin mbi shqyrtimin e ankimit.

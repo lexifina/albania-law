@@ -1,0 +1,1 @@
+9. Në rast se kërkohet nga personat e interesuar për të marrë pjesë në provimin e kualifikimit, nëpunësit e strukturës përgjegjëse për profesionet e lira pranë Ministrisë së Drejtësisë janë të detyruar t’u vënë në dispozicion një kopje të urdhrit të ministrit të Drejtësisë dhe t’i sqarojnë e orientojnë, lidhur me kushtet ligjore që duhen plotësuar dhe afatet përkatëse.

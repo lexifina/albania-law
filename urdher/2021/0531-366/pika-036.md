@@ -1,0 +1,1 @@
+36. Pasi janë dorëzuar fletët e përgjigjeve për vlerësim automatik, hapet zarfi me përgjigjet e testit dhe një kopje e përgjigjeve administrohet nga Komisioni i Kualifikimit, ndërsa një kopje tjetër publikohet në faqen zyrtare të Ministrisë së Drejtësisë dhe të Dhomës.

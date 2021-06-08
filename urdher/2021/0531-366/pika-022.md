@@ -1,0 +1,1 @@
+22. Pasi është kryer identifikimi i kandidatëve, udhëzohen të deklarojnë dhe të dorëzojnë të gjitha sendet personale ose pajisjet, si çantë, dosje, laps ose stilolaps, mjete elektronike ose telefonike, të cilat nuk lejohen në sallën e provimit, pranë punonjësve të caktuar për këtë qëllim.

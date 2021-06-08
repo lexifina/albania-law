@@ -1,0 +1,1 @@
+32. Kandidati, që gjatë provimit nuk i respekton udhëzimet e dhëna sipas këtij urdhri, njoftohet pa paralajmërim të ndërpresë provimin dhe të lërë menjëherë sallën e provimit, duke i komunikuar edhe skualifikimin nga procedura e provimit.

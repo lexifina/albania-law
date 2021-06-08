@@ -1,0 +1,1 @@
+2. Provimi i kualifikimit përgatitet nga Komisioni i Kualifikimit, anëtarët e të cilit caktohen nga organet e përcaktuara në nenin 20, pika 3, të ligjit nr. 26/2019, “Për shërbimin përmbarimor gjyqësor privat”, jo më vonë se 3 muaj përpara datës së zhvillimit të provimit të kualifikimit. Kryetar i Komisionit të Kualifikimit është anëtari i caktuar nga Ministria e Drejtësisë.

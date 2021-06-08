@@ -1,0 +1,1 @@
+17. Identifikimi i kandidatëve, mbikëqyrja e tyre deri në dorëzimin e përgjigjeve të tezës dhe përcaktimi i listës emërore të personave që morën pjesë në provim kryhet nga komisioni mbikëqyrës, i cili përbëhet nga të paktën dy përfaqësues nga Ministria e Drejtësisë dhe dy përfaqësues nga Dhoma.

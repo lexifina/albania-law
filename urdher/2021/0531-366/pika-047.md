@@ -1,0 +1,1 @@
+47. Pas shqyrtimit të ankimeve, Komisioni i Kualifikimit përgatit listën me emrat dhe pikët e fituara për secilin ndihmëspërmbarues, e cila nënshkruhet nga të gjithë anëtarët e tij. Lista i bashkëlidhet procesverbalit të mbajtur nga Komisioni i Kualifikimit.
