@@ -1,0 +1,1 @@
+4. Përmbaruesi gjyqësor privat apo zyra e përmbarimit privat nuk duhet të përdorë të njëjtën hapësirë zyre me një avokat, studio avokatie, noter ose ndonjë person tjetër fizik ose juridik, gjatë ushtrimit të funksionit të tij.

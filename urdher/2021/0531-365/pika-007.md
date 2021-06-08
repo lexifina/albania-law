@@ -1,0 +1,1 @@
+7. Zyra e përmbaruesit gjyqësor privat nuk mund të ndodhet pranë objekteve që paraqesin rrezikshmëri për rënien e zjarrit (magazina me lëndë plasëse, djegëse, pika karburanti etj.) dhe dëmtimin e dokumentacionit. Distanca e zyrës nga këto objekte nuk mund të jetë më e vogël se 50 metra, kur mes tyre nuk ka objekte të tjera dhe në çdo rast jo më e vogël se 20 metra.

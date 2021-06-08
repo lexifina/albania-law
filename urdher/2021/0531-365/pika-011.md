@@ -1,0 +1,1 @@
+11. Përmbaruesi gjyqësor privat nuk mund të reklamojë me shkrim apo në forma të ndryshme në tabela, në muret e zyrës ose në afërsi të saj, si dhe në xhamat e portës apo të dritareve ofrimin prej tij të shërbimeve të tjera, përveç atyre të parashikuara në legjislacion në fuqi.

@@ -1,0 +1,1 @@
+3. Zyra e përmbaruesit gjyqësor privat duhet të ketë adresë të saktë, në përputhje me legjislacionin në fuqi për sistemin e adresave, që njihet në territorin e bashkisë, dhe duhet t’i njoftohet me shkrim Ministrisë së Drejtësisë, sipas afateve të përcaktuara në legjislacionin në fuqi për shërbimin përmbarimor gjyqësor privat.

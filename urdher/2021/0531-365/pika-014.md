@@ -1,0 +1,1 @@
+14. Përmbaruesi gjyqësor privat, brenda 10 (dhjetë) ditëve njofton Drejtorinë e Përgjithshme Rregullatore për Çështjet e Drejtësisë në Ministrinë e Drejtësisë, për ndërrimin e zyrës së përmbaruesit gjyqësor privat.

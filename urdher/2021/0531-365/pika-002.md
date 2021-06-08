@@ -1,0 +1,1 @@
+2. Për të mundësuar ushtrimin e veprimtarisë përmbarimore, në përputhje me kërkesat e ligjit përkatës në fuqi për shërbimin përmbarimor gjyqësor privat, çdo përmbarues gjyqësor privat duhet të ketë një zyrë, e cila duhet të përmbushë të paktën kushtet minimale që kanë të bëjnë me infrastrukturën, sipas përcaktimeve të këtij urdhri.

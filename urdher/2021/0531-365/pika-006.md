@@ -1,0 +1,1 @@
+6. Zyra e përmbaruesit gjyqësor privat duhet të jetë e pajisur me ndriçimin e duhur, si dhe e organizuar në mënyrë të tillë që ndihmon mbrojtjen e dokumentacionit nga ndikimi i agjentëve atmosferikë (lagështia, pluhuri, dielli etj.) dhe nga zjarri.
