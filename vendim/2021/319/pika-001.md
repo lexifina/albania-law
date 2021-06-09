@@ -1,0 +1,1 @@
+1. Caktimin e Aeroportit Ndërkombëtar të Tiranës “Nënë Tereza”, si aeroport rezervë i Forcave të Armatosura të Republikës së Shqipërisë, gjatë gjendjeve për të cilat kërkohet marrja e masave të jashtëzakonshme.
