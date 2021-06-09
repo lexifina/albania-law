@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të sipërfaqes prej 4 700 m2, pjesë e pasurisë me numër 1/68, zona kadastrale 3529, Bashkia Pogradec, sipas certifikatës të pasurisë, hartës treguese dhe lidhjes nr. 1, bashkëlidhur këtij vendimi.
