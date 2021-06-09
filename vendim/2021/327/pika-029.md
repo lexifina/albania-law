@@ -1,0 +1,1 @@
+29. KV-së i sigurohet aksesi për informacion lidhur me shërbimet e ofruara për viktimat e dhunës në familje dhe dhunës ndaj grave në çdo njësi të vetëqeverisjes vendore, me qëllim ndjekjen e rastit e të historikut të tij.

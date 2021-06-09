@@ -1,0 +1,1 @@
+7. Përbërja e anëtarëve të komitetit drejtues, sipas përbërjes së përcaktuar në pikën 6, të këtij kreu, zbatohet, për aq sa dhe është e mundur, duke mbajtur në vëmendje strukturat që gjenden në atë bashki.

@@ -1,0 +1,1 @@
+15. Çdo anëtar i komitetit drejtues është i detyruar të informojë me shkrim titullarin e institucionit përkatës, si dhe çdo strukturë tjetër përgjegjëse për vendimet ose masat e marra nga komiteti drejtues, me qëllim marrjen në kohë të masave që lidhen me veprimtarinë e asaj strukture.

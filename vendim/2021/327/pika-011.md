@@ -1,0 +1,1 @@
+11. Komiteti drejtues mblidhet së paku një herë në tre muaj në mbledhje të zakonshme dhe sipas nevojave në mbledhje të jashtëzakonshme. Të drejtën për të kërkuar mbledhjen e komitetit drejtues dhe përfshirjen e çështjeve në rendin e ditës, si dhe të ftuarve sipas pikës 8, të këtij kreu, e kanë kryetari i bashkisë ose jo më pak se tre anëtarë.

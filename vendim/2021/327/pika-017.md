@@ -1,0 +1,2 @@
+17. Komiteti drejtues për veprimtarinë e tij i raporton çdo tre muaj ministrit përgjegjës për çështjet e barazisë gjinore dhe luftës kundër dhunës në familje.
+Pjesë e raportimit janë të dhënat e problemet e evidentuara për dhunën në familje dhe dhunën ndaj grave, në territorin ku komiteti drejtues shtrin juridiksionin e vet, duke paraqitur sipas rastit edhe propozime konkrete për mbështetjen që kërkohet nga autoriteti kryesor përgjegjës ose/dhe autoritetet e tjera të linjës.

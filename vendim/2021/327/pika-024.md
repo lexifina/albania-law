@@ -1,0 +1,1 @@
+24. ETN-ja, në bashkëpunim me grupin teknik ndërdisiplinor për të drejtat e fëmijëve (GTN), organizojnë mbledhje të përbashkëta rast pas rasti, kur dhuna në familje dhe dhuna ndaj grave shoqërohet edhe me dhunën ndaj fëmijëve ose kur përshihen fëmijët si dëshmitarë të dhunës në marrëdhëniet familjare.

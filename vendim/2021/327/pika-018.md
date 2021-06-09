@@ -1,0 +1,1 @@
+18. Komiteti drejtues, sipas problematikës së evidentuar, vë në dijeni, për sa më sipër, njërin prej ose të gjitha autoritetet përgjegjëse të linjës sipas parashikimeve të ligjit në fuqi për masa ndaj dhunës në marrëdhëniet familjare. Një kopje e raportit i vihet në dispozicion këshillit bashkiak dhe këshillit të qarkut.

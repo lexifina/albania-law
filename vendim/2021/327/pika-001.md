@@ -1,0 +1,1 @@
+1. Ky vendim rregullon procedurat standarde bazë për bashkërendimin e punës ndërmjet autoriteteve përgjegjëse, për parandalimin e dhunës në familje, për mbrojtjen, mbështetjen dhe rehabilitimin e viktimave të të gjitha formave të dhunës në familje, duke garantuar të drejtat e njeriut e promovuar barazinë gjinore, si edhe eliminuar të gjitha format e diskriminimit ndaj grave.
