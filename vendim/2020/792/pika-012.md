@@ -28,21 +28,21 @@ a) të ketë një nga nivelet e edukimit sipas aneksit 2;
 b) të ketë eksperiencë pune në profesion sipas aneksit 2;
 c) të plotësojë kriteret sipas aneksit 2, përkatësisht, për:
 i. eksperiencën në institucion të specializuar në kuptim të ligjit nr. 27/2018, të lidhura me nënkategorinë;
-ii. specializimet ose kurset profesionale (kampe zbatimi restaurimi) të lidhura me nënkategorinë;
+ii. specializime profesionale ose kampe restaurimi në fushën e konservimit të trashëgimisë kulturore;
 iii. autorësi ose bashkautorësi në hartim projektesh konservim-restaurim, të miratuara sipas legjislacionit shqiptar të trashëgimisë kulturore të lidhura me nënkategorinë.
 3. Për të përfituar licencë për mbikëqyrje dhe kolaudim të nënkategorive sipas pikës 6, të kreut II, të këtij vendimi, individi duhet:
 a) të ketë një nga nivelet e edukimit sipas aneksit 3;
 b) të ketë eksperiencë pune në profesion sipas aneksit 3;
 c) të plotësojë kriteret sipas aneksit 3, përkatësisht, për:
 i. eksperiencën në institucion të specializuar në kuptim të ligjit nr. 27/2018, të lidhura me nënkategorinë;
-ii. specializimet ose kurset profesionale (kampe zbatimi restaurimi) të lidhura me nënkategorinë;
+ii. specializime profesionale ose kampe restaurimi në fushën e konservimit të trashëgimisë kulturore;
 iii. autorësi ose bashkautorësi në hartim projektesh konservim-restaurim të miratuara sipas legjislacionit shqiptar të trashëgimisë kulturore të lidhura me nënkategorinë.
 C. Kriteret e posaçme për licencim për personin fizik/juridik
 1. Kriteret e posaçme për licencim për personin fizik (F-) për veprimtarinë ndërhyrëse në pasuritë kulturore materiale janë si më poshtë vijon:
 a) Të ketë të punësuar si drejtues teknik individin e licencuar në fushën e veprimtarisë ndërhyrëse në pasuritë kulturore materiale, që plotëson kushtet e posaçme për kategorinë/nënkategorinë e licencës, sipas kreut II të këtij vendimi. Kontrata e punësimit ndërmjet personit fizik dhe individit të licencuar nuk mund të jetë më pak se 1 (një) vit. Personi fizik licencohet për të njëjtën kategori/nënkategori të licencës për veprimtarinë ndërhyrëse në pasuritë kulturore materiale që disponon drejtuesi teknik;
 b) Në rastin kur personi fizik zotëron licencë si individ në fushën e veprimtarisë ndërhyrëse në pasuritë kulturore materiale, nuk ka nevojë të punësojë një drejtues teknik, sipas parashikimit të shkronjës “a”, të kësaj pike.
 2. Kriteret e posaçme për licencim për personin juridik (N-), për veprimtarinë ndërhyrëse në pasuritë kulturore materiale, janë si më poshtë vijon:
-a) Të ketë të paktën 5 (pesë) vjet përvojë si person juridik në veprimtarinë kryesore projektim dhe/ose zbatim dhe/ose mbikëqyrje dhe kolaudim të punimeve të ndërtimit dhe/ose restaurimin e veprave të artit;
+a) Të ketë të paktën 3 (tre) vjet përvojë si person juridik në veprimtarinë kryesore projektim dhe/ose zbatim dhe/ose mbikëqyrje dhe kolaudim të punimeve të ndërtimit dhe/ose restaurimin e veprave të artit;
 b) Të ketë të punësuar si drejtues teknik individ të licencuar në fushën e veprimtarisë ndërhyrëse në pasuritë kulturore materiale, që plotëson kushtet e posaçme për kategorinë/nënkategorinë e licencës, sipas kreut II të këtij vendimi. Kontrata e punësimit ndërmjet personit juridik dhe individit të licencuar nuk mund të jetë më pak se 1 (një) vit. Personi juridik licencohet për të njëjtën kategori/nënkategori të licencës për veprimtarinë ndërhyrëse në pasuritë kulturore materiale që disponon drejtuesi teknik.
 Ç. Kufizime për dhënien dhe përdorimin e licencës
 1. Licenca nuk lejohet të tjetërsohet apo të trashëgohet nga një subjekt (individ, person fizik, person juridik) tek tjetri.
