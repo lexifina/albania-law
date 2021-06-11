@@ -1,0 +1,4 @@
+1. Përdorimin e fondit të rindërtimit, në masën 993 601 000 (nëntëqind e nëntëdhjetë e tre milionë e gjashtëqind e një mijë) lekë, për financimin e rikonstruksionit të njësive individuale të banimit dhe njësive të banimit në ndërtesa (pallat) për ato individë, të cilët përfitojnë nga grantet e rikonstruksionit, banesat e të cilëve janë klasifikuar si objekte të dëmtuara rëndë apo të dëmtuara lehtë, si pasojë e fatkeqësisë natyrore dhe që nuk duhen rindërtuar nga e para, por kanë nevojë për punime rikonstruksioni ose riparime në bashkitë Durrës, Krujë dhe Rrogozhinë, sipas detajimit të mëposhtëm:
+a) Bashkisë Krujë i transferohet fondi, në masën 89 100 000 (tetëdhjetë e nëntë milionë e njëqind mijë) lekë;
+b) Bashkisë Durrës i transferohet fondi, në masën 541 801 000 (pesëqind e dyzet e një milionë e tetëqind e një mijë) lekë;
+c) Bashkisë Rrogozhinë i transferohet fondi, në masën 362 700 000 (treqind e gjashtëdhjetë e dy milionë e shtatëqind mijë) lekë.
