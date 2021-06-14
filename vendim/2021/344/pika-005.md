@@ -1,0 +1,1 @@
+5. Bordi i Fondacionit Shkollor Austriak, pas miratimit të bursave, dërgon dokumentacionin përkatës në institucionin arsimor vendor, përgjegjës për arsimin parauniversitar në Shkodër, i cili, pas konfirmimit të nxënësve që përfitojnë bursë, kalon masën e bursës në llogarinë personale të secilit nxënës.
