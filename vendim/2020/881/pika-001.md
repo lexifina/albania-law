@@ -1,1 +1,1 @@
-1. Akademia e Sigurisë, në vijim “AS”, është institucioni i vetëm publik i arsimit të lartë në fushën e rendit e të sigurisë publike, së cilës i jepet status i veçantë dhe ka varësi nga ministri përgjegjës për rendin dhe sigurinë publike dhe ministri përgjegjës për arsimin.
+1. Akademia e Sigurisë është institucioni i vetëm publik i arsimit të lartë në fushën e rendit dhe sigurisë publike, së cilës i jepet status i veçantë.

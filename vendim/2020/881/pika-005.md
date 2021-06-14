@@ -7,6 +7,6 @@ d) Dekanati;
 dh) Asambleja e personelit akademik;
 e) Drejtuesit e njësive bazë;
 ë) Komisionet e përhershme;
-f) Bordi këshillues;
+f) Shfuqizuar;
 g) Bordi i administrimit;
 gj) Administratori i institucionit.
