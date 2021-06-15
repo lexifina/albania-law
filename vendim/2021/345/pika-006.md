@@ -1,0 +1,1 @@
+6. Pronarët e pasqyruar në tabelën që i bashkëlidhet këtij vendimi, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur certifikatën e pronësisë origjinale ose dublikat, kartelën e pasurisë të rifreskuar, si dhe hartën treguese të regjistrimit, pranë Bashkisë Vorë, referuar aktmarrëveshjes së lidhur.

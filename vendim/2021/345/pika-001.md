@@ -1,0 +1,1 @@
+1. Shpronësimin dhe/ose shkëmbimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, dhe shkëmbimin e pronës, në funksion të procesit të rindërtimit, që do të realizohet në zonën e re për zhvillim në njësinë administrative Vorë, Bashkia Vorë, faza I, sipas tabelës bashkëlidhur këtij vendimi.

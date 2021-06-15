@@ -1,0 +1,5 @@
+12. Gjatë periudhës së zbatimit të projektit (përfundimin e punimeve) qytetarët, nëse nuk kanë në pronësi ose në posedim objekte të tjera banimi, do të strehohen nga njësia e vetëqeverisjes vendore, nëpërmjet programeve të rindërtimit, të parashikuara në aktin normativ nr. 9, datë 16.12.2019, të Këshillit të Ministrave, “Për përballimin e pasojave të fatkeqësisë natyrore”, ose në legjislacionin në fuqi për strehimin social.
+13 Agjencia Shtetërore e Kadastrës të pezullojë të gjitha transaksionet me pasuritë e shpronësuara, deri në momentin kur do të realizohet procesi i hedhjes së gjurmës së projektit mbi hartat kadastrale dhe kalimi i pronësisë në favor të Bashkisë Vorë, për pasuritë e shpronësuara.
+14. Shpenzimet procedurale, në vlerën 70 000 (shtatëdhjetë mijë) lekë, të përballohen nga buxheti i vitit 2021, miratuar për Ministrinë e Infrastrukturës dhe Energjisë.
+15. Ngarkohen Ministria e Infrastrukturës dhe Energjisë, Ministria e Financave dhe Ekonomisë, Agjencia Shtetërore e Kadastrës, Bashkia Vorë dhe Fondi Shqiptar i Zhvillimit për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

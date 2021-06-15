@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e kompensimit financiar, prej 4 771 827 (katër milionë e shtatëqind e shtatëdhjetë e një mijë e tetëqind e njëzet e shtatë) lekësh, që i transferohet Bashkisë Vorë në formën e transfertës së pakushtëzuar do të përballohet nga hapësira buxhetore e siguruar pas ngurtësimit në të njëjtën masë të fondeve të projekteve të rindërtimit me ecuri të ngadaltë.

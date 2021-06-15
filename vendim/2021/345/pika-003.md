@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, pronë private, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës së kompensimit përkatës, që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë e llojit “truall” dhe “ndërtesë”, në shumën 4 771 827 (katër milionë e shtatëqind e shtatëdhjetë e një mijë e tetëqind e njëzet e shtatë) lekë.
