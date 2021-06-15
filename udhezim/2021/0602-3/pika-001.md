@@ -1,0 +1,1 @@
+1. Miratimin e Planit të Veprimit për ruajtjen e gjelit të egër (Tetrao Urogallus), si një nga llojet veçanërisht të mbrojtura, të regjistruar me status “ruajtje të pafavorshme”, ndodhur në Parkun Kombëtar të Malit të Tomorit, Shqipëri, për periudhën 2021-2023, bashkëlidhur këtij Udhëzimi si pjesë integrale e tij.

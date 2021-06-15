@@ -1,0 +1,1 @@
+2. Zbatimi i Planit të Veprimit për ruajtjen e gjelit të egër, të përfshihet dhe të integrohet në politikat, planet e menaxhimit, programet dhe veprimtaritë që lidhen me to, si dhe në vendimmarrjet në nivel kombëtar, rajonal dhe vendor.
