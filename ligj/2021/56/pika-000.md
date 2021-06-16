@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 13, datë 31.3.2021, “Për një ndryshim në ligjin nr. 8668, datë 23.10.2000, ’Për pajisjen e shtetasve shqiptarë me pasaportë për jashtë shtetit’, të ndryshuar”.
