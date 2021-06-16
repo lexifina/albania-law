@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 11, datë 25.3.2021, të Këshillit të Ministrave, “Për një ndryshim në ligjin nr. 8952, datë 10.10.2002, ’Për letërnjoftimin elektronik të shtetasve shqiptarë’, të ndryshuar”.
