@@ -1,1 +1,0 @@
-3. Procedurat udhëhiqen nga parimet e ligjshmërisë e të përgjegjshmërisë, si dhe nga vlerat e profesionalizmit, transparencës, meritës, të drejtës për zgjedhjen e institucionit arsimor, barazisë dhe interesit më të lartë të nxënësve.

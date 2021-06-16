@@ -1,1 +1,0 @@
-5. Drejtoria e Përgjithshme e Arsimit Parauniversitar (në vazhdim “DPAP”) është përgjegjëse për procedurat e konkurrimit dhe të pranimit të mësuesit në një vend të lirë pune në sistemin arsimor parauniversitar, ndërsa drejtoritë rajonale të arsimit parauniversitar (në vazhdim “DRAP”) organizojnë procedurat sipas këtij udhëzimi.

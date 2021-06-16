@@ -1,1 +1,0 @@
-13. Rezultatet e vlerësimit të dosjes dhe të testimit të informatizuar për çdo kandidat bëhen transparente nëpërmjet faqes elektronike zyrtare të çdo DRAP/ZVAP-je dhe në portalin “Mësues për Shqipërinë”.

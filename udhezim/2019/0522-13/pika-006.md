@@ -1,1 +1,0 @@
-6. DPAP, bazuar në të dhënat e dërguara nga DRAP, nëpërmjet portalit “Mësues për Shqipërinë”, shpall vendet e lira të punës për lëvizjet paralele jo më vonë se një ditë para fillimit të vitit mësimor dhe gjatë vitit menjëherë nga njoftimi për vendin e lirë të punës.
