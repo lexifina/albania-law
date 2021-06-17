@@ -1,0 +1,6 @@
+# Neni 1
+Miratimi i tekstit të marrëveshjes
+1. Miratimin e tekstit të marrëveshjes për prodhimin dhe furnizimin nga dhe ndërmjet Pfizer Overseas LLC dhe Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale të Shqipërisë, Institutit të Shëndetit Publik dhe ministrit të Shtetit për Rindërtimin, sipas tekstit që i bashkëlidhet këtij akti normativ.
+2. Marrëveshja për prodhimin dhe furnizimin nga dhe ndërmjet Pfizer Overseas LLC dhe Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale të Shqipërisë, Institutit të Shëndetit Publik dhe ministrit të Shtetit për Rindërtimin, për shkak të sekretit tregtar dhe kërkesës së shprehur në marrëveshje nga Pfizer Overseas LLC, nuk do të publikohet në asnjë website të institucioneve apo në Fletoren Zyrtare.
+3. Të gjitha institucionet e përfshira në dhënien e mendimit, të miratimit apo që janë pjesë e procesit kanë detyrimin të mos bëjnë publike marrëveshjen bashkëlidhur këtij akti normativ apo pjesë të saj.
+4. Detyrimet e organeve shtetërore dhe përjashtimet nga detyrimet për furnizimin e vaksinës anticovid, të përcaktuara në aktin normativ nr. 1, datë 10.1.2021, të Këshillit të Ministrave, të ndryshuar, janë të njëjta edhe për këtë marrëveshje, sipas kushteve të tekstit të saj, bashkëlidhur këtij akti normativ.
