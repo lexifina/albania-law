@@ -1,1 +1,0 @@
-4. Urdhri i ministrit nr. 81, datë 12.2.2021 “Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në shtetin e Polonisë, Sllovakisë, Hungarisë, Gjermanisë, Ukrainës, Izraelit, Çekisë, Rumanisë, Bullgarisë, Belgjikës, Kroacisë, Danimarkës, Francës, Holandës, Lituanisë dhe Italisë”, shfuqizohet.
