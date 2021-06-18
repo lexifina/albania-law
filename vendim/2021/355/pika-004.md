@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 11 056 007.60 (njëmbëdhjetë milionë e pesëdhjetë e gjashtë mijë e shtatë pikë gjashtëdhjetë) lekësh, të përballohet nga buxheti i vitit 2021 të Ujësjellës-Kanalizimeve Tiranë sh.a.

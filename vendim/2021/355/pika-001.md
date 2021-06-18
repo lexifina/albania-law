@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Shtesë e impiantit të përpunimit të ujit të pijshëm Bovillë, me 1 800 l/sek, në fazën e dytë të zbatimit, me 1 200 l/sek”.
