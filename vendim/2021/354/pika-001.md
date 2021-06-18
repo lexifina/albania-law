@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Për projektimin, ndërtimin dhe mirëmbajtjen e rrugës Porti i Jahteve - Bypass Orikum - Dukat (Ura e Shën Elizës)”.

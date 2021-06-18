@@ -1,0 +1,412 @@
+# Shtojca
+LISTA EMËRORE PËRFUNDIMTARE E PRONARËVE TË PASURIVE, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT “PËR PROJEKTIMIN, NDËRTIMIN DHE MIRËMBAJTJEN E RRUGËS PORTI I JAHTEVE - BYPASS ORIKUM - DUKAT (URA E SHËN ELIZËS)”
+Pronari
+Të dhënat (mbi pasurinë sipas ZVRPP-së)
+Vlerësimet për shpronësim sipas llojit të pasurisë
+Nr.
+Emri
+Atësia
+Mbiemri
+ZK
+Nr. i
+Lloji i
+Sip.
+Shpronësim tokë “arë”
+Shpronësim tokë “truall”
+Shpronësim tokë “pyll”
+Ndërtesë banimi (shtëpi)
+Ndërtesë jobanimi
+Ndërtesë total
+Vlera
+pas.
+pas.
+totale
+Sip.
+Çmimi
+Vlera
+Sip.
+Çmimi
+Vlera
+Sip.
+Çmimi
+Vlera
+Sip. ndërt.
+Çmimi mes.
+Vlera
+Sip. nd.
+Vlera
+Sip. nd.
+totale
+SHËNIME
+(m2)
+(m2)
+(lekë/m2)
+(lekë)
+(m2)
+(lekë/m2)
+(lekë)
+(m2)
+(lekë/m2)
+(lekë)
+konf. nga
+sh./blerjeve
+(lekë)
+konf. nga
+sipas
+konf. nga
+(lekë)
+ZVRPP-ja
+sipas ZVRPP-së
+ZVRPP-ja
+preventivit
+ZVRPP-ja
+(m2)
+(l/m2)
+(m2)
+(lekë)
+(m2)
+1
+HALO
+FISTI(DANAJ)
+1569
+192/1
+arë
+2400
+181.3
+204
+36985.2
+36985.2
+Konfirmuar nga ASHK Vlorë
+2
+ARIZ
+JAZOJ
+1569
+195/17
+arë
+14000
+953.4
+204
+194493.6
+194493.6
+Konfirmuar nga ASHK Vlorë
+3
+BEQIR
+JAZOJ
+1569
+195/16
+arë
+6000
+400.8
+204
+81763.2
+81763.2
+Konfirmuar nga ASHK Vlorë
+4
+QAZIM
+MUHARËM
+NELO
+1569
+280/8
+arë
+1520
+256.6
+204
+52346.4
+52346.4
+Konfirmuar nga ASHK Vlorë
+5
+VEXHI
+MUHARËM
+NELO
+1569
+280/5
+arë
+4200
+684.2
+204
+139576.8
+139576.8
+Konfirmuar nga ASHK Vlorë
+6
+MEHMET MEXHAT
+MEHILLI MEHILLI
+1569
+280/4
+arë
+750
+144.3
+204
+29437.2
+29437.2
+Konfirmuar nga ASHK Vlorë
+7
+FIRJAN
+AMET
+MEHILLAJ
+1569
+280/3
+arë
+750
+151
+204
+30804
+30804
+Konfirmuar nga ASHK Vlorë
+8
+QANI
+MEHILLI
+1569
+280/2
+arë
+750
+122.2
+204
+24928.8
+24928.8
+Konfirmuar nga ASHK Vlorë
+9
+BEJKO
+MEHILLAJ
+1569
+280/1
+arë
+750
+261.5
+204
+53346
+53346
+Konfirmuar nga ASHK Vlorë
+10
+TAJAR
+KUTELAJ
+1569
+307/4
+arë
+5500
+652.2
+204
+133048.8
+133048.8
+Konfirmuar nga ASHK Vlorë
+11
+BEJKO
+MEHILLAJ
+1569
+301/5
+arë
+7650
+253.2
+204
+51652.8
+51652.8
+Konfirmuar nga ASHK Vlorë
+12
+XHEBRO
+BEDINI
+1569
+307/3
+arë
+4780
+583.7
+204
+119074.8
+119074.8
+Konfirmuar nga ASHK Vlorë
+13
+ZENEL
+BEDINI
+1569
+307/2
+arë
+4780
+433.4
+204
+88413.6
+88413.6
+Konfirmuar nga ASHK Vlorë
+14
+FEJZI
+KUTELAJ
+1569
+307/1
+arë
+8550
+1881.4
+204
+383805.6
+383805.6
+Konfirmuar nga ASHK Vlorë
+15
+METE
+KUTELI
+1569
+359/2
+arë
+13500
+612.6
+204
+124970.4
+124970.4
+Konfirmuar nga ASHK Vlorë
+16
+FATOSH
+MEHILLI
+1569
+352/1
+arë
+3800
+127.2
+204
+25948.8
+25948.8
+Konfirmuar nga ASHK Vlorë
+17
+IZET
+MEHILLI
+1569
+352/2
+arë
+2400
+156.2
+204
+31864.8
+31864.8
+Konfirmuar nga ASHK Vlorë
+18
+DITURI KRENAR DIANA ALBANA AUREL
+MEHILLAJ MEHILLAJ CIPA BRAIMILO MEHILLAJ
+1569
+352/3
+arë
+4500
+680.4
+204
+138801.6
+138801.6
+Konfirmuar nga ASHK Vlorë
+19
+QEMAL
+MEHILLI
+1569
+352/4
+arë
+3500
+2280
+204
+465120
+465120
+Konfirmuar nga ASHK Vlorë
+20
+METE
+BOZHANI
+1569
+362/6
+arë
+19600
+835
+204
+170340
+170340
+Konfirmuar nga ASHK Vlorë
+21
+LEFTER
+BOZHANI
+1569
+362/5
+arë
+9350
+1123.1
+204
+229112.4
+229112.4
+Konfirmuar nga ASHK Vlorë
+22
+LAVDOSH
+NEIM
+DULE
+1569
+360/12
+arë
+15840
+2097.2
+204
+427828.8
+427828.8
+Konfirmuar nga ASHK Vlorë
+23
+RUSHIT
+CELO
+1569
+360/11
+arë
+9500
+2006.3
+204
+409285.2
+409285.2
+Konfirmuar nga ASHK Vlorë
+24
+RUSHIT
+CELO
+1569
+410/7
+arë
+5500
+695.1
+204
+141800.4
+141800.4
+Konfirmuar nga ASHK Vlorë
+25
+QEMAL
+MEHILLI
+1569
+410/3
+arë
+2500
+135.4
+204
+27621.6
+27621.6
+Konfirmuar nga ASHK Vlorë
+26
+ARMAND
+CANO
+MEHILLAJ
+1569
+410/1
+arë
+540
+74.6
+204
+15218.4
+15218.4
+Konfirmuar nga ASHK Vlorë
+27
+IZET
+MEHILLI
+1569
+410/5
+arë
+1800
+151
+204
+30804
+30804
+Konfirmuar nga ASHK Vlorë
+28
+DITURI KRENAR DIANA ALBANA AUREL
+MEHILLAJ MEHILLAJ CIPA BRAIMILO MEHILLAJ
+1569
+410/4
+arë
+3300
+156.5
+204
+31926
+31926
+Konfirmuar nga ASHK Vlorë
+SHUMA
+3858048
+3858048
+Konfirmuar nga ASHK Vlorë
