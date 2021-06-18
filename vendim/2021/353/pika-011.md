@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohen procesi i hedhjes se gjurmës së projektit mbi hartën kadastrale të regjistrimit dhe kalimi i pronësisë në favor të Bashkisë Krujë për pasurinë e shpronësuar.
