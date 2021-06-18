@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në vlerën 294 682 990.44 (dyqind e nëntëdhjetë e katër milionë e gjashtëqind e tetëdhjetë e dy mijë e nëntëqind e nëntëdhjetë pikë dyzet e katër) lekë pa TVSH, për financimin e rindërtimit të urës në Lezhë.
