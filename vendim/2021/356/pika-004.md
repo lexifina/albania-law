@@ -1,0 +1,1 @@
+4. Në raste të veçanta, kur leja pa të drejtë page kërkohet për shkaqe që nuk mund të parashikoheshin, punonjësi i Policisë së Burgjeve mund të kërkojë të fillojë lejen jo më vonë se 5 (pesë) ditë nga data e paraqitjes së kërkesës.

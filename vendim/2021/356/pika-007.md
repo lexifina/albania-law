@@ -1,0 +1,1 @@
+7. Në rastet kur leja e papaguar kërkohet nga drejtuesi i Policisë së Burgjeve, kërkesa paraqitet pranë drejtorit të Përgjithshëm të Burgjeve dhe, në rast se kërkesa refuzohet, ankimi, sipas rregullave të përcaktuara në pikën 6, të këtij kreu, paraqitet pranë ministrit të Drejtësisë.
