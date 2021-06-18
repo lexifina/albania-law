@@ -1,0 +1,2 @@
+Miratimin e memorandumit të mirëkuptimit të nënshkruar ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Shëndetësisë dhe Mbrojtjes Sociale e ministri i Shtetit për Rindërtimin, dhe korporatës “Oracle”, për dhurimin e së drejtës për të aksesuar dhe përdorur sistemin elektronik “Oracle” të menaxhimit shëndetësor për COVID-19, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
