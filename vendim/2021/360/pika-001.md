@@ -1,0 +1,3 @@
+1. Përdorimin e fondit të rindërtimit për financimin e rindërtimit të dy objekteve arsimore në Bashkinë Rrogozhinë, në masën 310 195 212 (treqind e dhjetë milionë e njëqind e nëntëdhjetë e pesë mijë e dyqind e dymbëdhjetë) lekë pa TVSH, përkatësisht, për:
+a) rindërtimin e shkollës 9-vjeçare “Qamil Gjuzi”, Bashkia Rrogozhinë, në masën 137 062 762 (njëqind e tridhjetë e shtatë milionë e gjashtëdhjetë e dy mijë e shtatëqind e gjashtëdhjetë e dy) lekë pa TVSH;
+b) rindërtimin e shkollës 9-vjeçare “Lekaj”, Bashkia Rrogozhinë, në masën 173 132 450 (njëqind e shtatëdhjetë e tre milionë e njëqind e tridhjetë e dy mijë e katërqind e pesëdhjetë) lekë pa TVSH.
