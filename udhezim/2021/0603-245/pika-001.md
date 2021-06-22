@@ -1,0 +1,1 @@
+1. Autoriteti përgjegjës për azilin dhe refugjatët, me qëllim të zhvillimit të intervistave dhe marrjen e një vendimi përfundimtar, mbledh dhe përpunon të dhënat personale të kërkuesit për mbrojtje ndërkombëtare.

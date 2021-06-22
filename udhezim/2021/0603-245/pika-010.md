@@ -1,0 +1,1 @@
+10. Gjurmët daktiloskopike dhe fotografia, të cilat administrohen nga Policia e Shtetit në bazën e të dhënave për të huajt, vihen në dispozicion të Autoritetit përgjegjës për azilin dhe refugjatët me kërkesën e këtij të fundit.

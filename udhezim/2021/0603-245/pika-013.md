@@ -1,0 +1,1 @@
+13. Rregullat dhe procedura për marrjen e informacionit dhe verifikimin e të dhënave dhe të deklarimeve nga vendi i origjinës për kërkuesin apo përfituesit të mbrojtjes ndërkombëtare, të parashikuara në këtë udhëzim, zbatohen për aq sa është e mundur edhe për personat që kanë përfituar statusin e mbrojtjes së përkohshme.

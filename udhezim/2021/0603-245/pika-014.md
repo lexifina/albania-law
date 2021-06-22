@@ -1,0 +1,1 @@
+14. Udhëzimi i ministrit të Punëve të Brendshme nr. 645, datë 14.12.2015, “Për rregullat dhe procedurat për marrjen e informacionit dhe verifikimin e të dhënave e të deklarimeve nga vendi i origjinës për azilkërkuesin dhe refugjatin”, shfuqizohet.
