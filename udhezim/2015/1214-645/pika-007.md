@@ -1,1 +1,0 @@
-7. Rregullat dhe procedura për marrjen e informacionit dhe verifikimin e të dhënave dhe të deklarimeve nga vendi i origjinës për azilkërkuesin dhe refugjatin, të parashikuara në këtë udhëzim, zbatohen për aq sa është e mundur edhe për personat që kanë përfituar statusin e mbrojtjes plotësuese dhe ata në mbrojtje të përkohshme.
