@@ -1,0 +1,1 @@
+6. Autoriteti përgjegjës për azilin dhe refugjatët depoziton një kopje të këtij vendimi në Zyrën e Protokollit të Ministrisë së Brendshme, si dhe bën regjistrimin e tij në regjistrin elektronik, të kërkuesve dhe personave në mbrojtje ndërkombëtare.

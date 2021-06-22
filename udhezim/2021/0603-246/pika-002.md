@@ -1,0 +1,1 @@
+2. Kërkesa për tërheqjen e aplikimit për mbrojtje ndërkombëtare paraqitet me shkrim, pranë autoritetit përgjegjës për azilin dhe refugjatët, para përfundimit të afateve procedurale të shqyrtimit të kërkesës për mbrojtje ndërkombëtare.

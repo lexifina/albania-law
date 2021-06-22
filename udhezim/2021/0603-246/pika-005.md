@@ -1,0 +1,1 @@
+5. Vendimi i pushimit të kërkesës për mbrojtje ndërkombëtare, merret nga autoriteti përgjegjës për azilin dhe refugjatët në një mbledhje të posaçme me shumicë votash. Ai përpilohet me shkrim dhe është i arsyetuar.

@@ -1,0 +1,1 @@
+9. Udhëzimi i ministrit të Punëve të Brendshme nr. 268, datë 2.6.2016, “Për procedurën dhe afatin për marrjen e vendimit të pushimit të shqyrtimit të aplikimit për azil në Republikën e Shqipërisë”, shfuqizohet.

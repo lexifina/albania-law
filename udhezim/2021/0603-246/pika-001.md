@@ -1,0 +1,1 @@
+1. Autoriteti përgjegjës për azilin dhe refugjatët vendos pushimin e shqyrtimit të kërkesës për mbrojtje ndërkombëtare, brenda 10 (dhjetë) ditëve nga ndërprerja e procedurës, sipas parashikimit të pikës 1, të nenit 32, të ligjit nr. 10/2021 “Për azilin në Republikën e Shqipërisë”.

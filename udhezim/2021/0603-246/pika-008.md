@@ -1,0 +1,1 @@
+8. Autoriteti përgjegjës për azilin dhe refugjatët njofton autoritetin përgjegjës për kufirin dhe migracionin për vendimin e pushimit të kërkesës për mbrojtje ndërkombëtare brenda 5 (pesë) ditëve, nga marrja e këtij vendimi.

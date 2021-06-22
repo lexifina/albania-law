@@ -1,0 +1,1 @@
+4. Nëse autoriteti përgjegjës për kufirin dhe migracionin, merr dijeni se kërkuesi është larguar nga Republika e Shqipërisë, njofton brenda ditës në mënyrë elektronike autoritetin përgjegjës për azilin dhe refugjatët dhe e dërgon këtë informacion me shkresë brenda 5 (pesë) ditëve nga marrja dijeni.

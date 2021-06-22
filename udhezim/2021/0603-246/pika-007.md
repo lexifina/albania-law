@@ -1,0 +1,1 @@
+7. Vendimi i pushimit të kërkesës për mbrojtje ndërkombëtare i komunikohet kërkuesit apo përfaqësuesit të tij ligjor, nga autoriteti përgjegjës për azilin dhe refugjatët brenda 5 (pesë) ditëve nga marrja e këtij vendimi.
