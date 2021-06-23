@@ -1,0 +1,75 @@
+# Shtojca
+LISTA EMËRORE PËRFUNDIMTARE E PRONARËVE TË PASURIVE, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT “NDËRTIMI I TREGUT TË GJËSË SË GJALLË”
+PRONARI
+TË DHËNAT
+(mbi pasurinë sipas ZVRPP-së)
+SHËNIME
+Nr.
+Emri
+Mbiemri
+Z.K.
+Nr.
+i pas.
+Lloji
+i pas.
+Sip.
+totale
+(m2)
+Sip. që shpronësohet
+VLERA
+TOTALE
+(lekë)
+Çmimi
+(lekë/m2)
+Vlera
+(lekë)
+1
+XHEVAIR
+CAUSHLLARI
+8564
+132/17
+arë
+3,000
+3,000
+100
+300,000
+300,000
+Konfirmuar nga ASHK-ja
+2
+VASILIKA
+KOSTA
+8564
+132/16
+arë
+6,000
+6,000
+100
+600,000
+600,000
+Konfirmuar nga ASHK-ja
+3
+AFROVITI
+KOSTA
+8564
+132/15
+arë
+3,000
+3,000
+100
+300,000
+300,000
+Konfirmuar nga ASHK-ja
+4
+HENA
+VASILI
+8564
+132/14
+arë
+9,000
+9,000
+100
+900,000
+900,000
+Konfirmuar nga ASHK-ja
+SHUMA
+2,100,000
