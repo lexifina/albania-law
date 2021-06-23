@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 17, datë 8.4.2021, “Për miratimin e marrëveshjes ndryshuese të marrëveshjes së furnizimit të nënshkruar ndërmjet Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, ministrit të Shtetit për Rindërtimin dhe Institutit të Shëndetit Publik dhe distributorit të autorizuar ’Keymen Ilaç Sanayi ve Ticaret’ AS”.
