@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit, nga Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor tek Autoriteti Rrugor Shqiptar, të pasurisë me nr. 6/30, zona kadastrale 8562, me sipërfaqe totale 560 m2, Korçë, sipas planit të rilevimit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
