@@ -1,1 +1,1 @@
-4. Forma e mësimdhënies në institucionin arsimor privat parauniversitar të arsimit fillor “Scuola Italiana a Tirana” të jetë me kohë të plotë.
+4. Forma e mësimdhënies në institucionin arsimor privat parauniversitar të arsimit bazë “Scuola Italiana a Tirana” të jetë me kohë të plotë.
