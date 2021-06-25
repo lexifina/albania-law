@@ -1,0 +1,9 @@
+LIGJ
+Nr. 67/2021
+PËR RATIFIKIMIN E TRAKTATIT TË EKSTRADIMIT NDËRMJET
+QEVERISË SË REPUBLIKËS SË SHQIPËRISË DHE QEVERISË
+SË SHTETEVE TË BASHKUARA TË AMERIKËS
+Në mbështetje të neneve 78, 83, pika 1, dhe 121, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
