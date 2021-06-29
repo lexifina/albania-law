@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave për ushtrimin e funksioneve të parashikuara në pikën 1, të nenit 4, pikat 1 dhe 2, të nenit 5, pikat 1 dhe 2, të nenit 13, të ligjit nr. 119/2014, “Për të drejtën e informimit”, te Sekretari i Përgjithshëm, z Emis Çërava, si nëpunësi më i lartë civil në KLP, sipas klasifikimit të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar.
