@@ -1,0 +1,1 @@
+2. Të ardhurat, që realizohen nga shërbimet të derdhen në llogarinë e të ardhurave të Buxhetit të Shtetit, sipas ligjit nr. 10109, datë 2.4.2009, “Për administratën detare të Republikës së Shqipërisë”.
