@@ -1,0 +1,1 @@
+10. AKEP-i dhe AMA bashkëpunojnë për krijimin e inventarit të unifikuar, të përbashkët, të spektrit radio. Për hedhjen dhe përditësimin e të dhënave, në lidhje me frekuencat në EFIS, caktohet një person kontakti përkatësisht nga AKEP-i dhe AMA, duke njoftuar për këtë ministrinë dhe CEPT-in.

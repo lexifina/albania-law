@@ -1,0 +1,1 @@
+6. Inventari të krijohet në format të hapur duke synuar shkëmbimin dhe përditësimin e të dhënave me Sistemin e Informacionit për Frekuencat (EFIS) të krijuar nga Konferenca Europiane e Postave dhe Telekomunikacioneve (CEPT/ ECO).

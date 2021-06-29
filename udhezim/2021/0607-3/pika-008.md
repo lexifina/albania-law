@@ -1,0 +1,1 @@
+8. Inventari i spektrit publikohet/është i aksesueshëm për publikun dhe respekton detyrimet e legjislacionit në fuqi për mbrojtjen e të dhënave personale, privatësisë, konfidencialitetit të biznesit dhe sekretin shtetëror.

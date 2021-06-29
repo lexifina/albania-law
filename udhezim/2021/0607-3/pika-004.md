@@ -1,0 +1,1 @@
+4. Krijimi i inventarit të spektrit radio të kryhet përmes një procesi transparent dhe të fokusuar në aspektin teknik të përdorimit me efikasitet të spektrit. Për të vlerësuar dhe/ose realizuar efikasitetin e përdorimit të spektrit, të përdoren treguesit sasior dhe cilësorë të përdorimit të spektrit.

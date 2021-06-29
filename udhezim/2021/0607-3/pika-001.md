@@ -1,0 +1,1 @@
+1. Në zbatim të programit shumëvjeçar për politikën spektrale, me qëllim planifikimin afatgjatë të përdorimit të spektrit të frekuencave, Autoriteti i Komunikimeve Elektronike dhe Postare (AKEP) dhe Autoriteti i Medias Audiovizive (AMA) krijojnë inventarin e unifikuar, të përbashkët për spektrin radio, të përdorur për qëllime komerciale dhe publike.

@@ -1,0 +1,1 @@
+7. Inventari i spektrit të fokusohet në intervalin e frekuencave nga 400 MHz në 6 GHz, por nuk përjashton përfshirjen e brezave të tjerë, që lidhen me zhvillimet teknologjike dhe kërkesat në të ardhmen për shërbime të reja.
