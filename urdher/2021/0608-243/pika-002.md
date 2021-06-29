@@ -1,2 +1,1 @@
-2. Për zbatimin e këtij urdhri ngarkohen, Drejtoria e Politikave dhe Programeve të Sigurisë Ushqimore dhe Veterinarisë, Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve, dhe Autoriteti Kombëtar i Ushqimit.
-Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
+2. Lejimin e tregtimit të shpendëve të gjalla, nga fermat në zonat e lira nga influenca aviare, në treg, të shoqëruara me raport-analizë (PCR) lëshuar nga Instituti i Sigurisë Ushqimore dhe Veterinare, që vërteton që shpendët janë të pastër nga Influenca Aviare dhe certifikatë shëndetësore veterinare lëshuar nga veterineri zyrtar.
