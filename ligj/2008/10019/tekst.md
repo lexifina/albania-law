@@ -4,9 +4,9 @@ Nr. 10 019, datë 29.12.2008
 
 KODI ZGJEDHOR I REPUBLIKËS SË SHQIPËRISË
 
-(Ndryshuar me ligjet nr.74/2012, datë 19.07.2012 , nr. 31/2015, datë 02.04.2015, nr. 101/2020, datë 23.7.2020, nr. 118/2020, datë  5.10.2020)
+(Ndryshuar me ligjet nr.74/2012, datë 19.07.2012 , nr. 31/2015, datë 02.04.2015, nr. 101/2020, datë 23.7.2020, nr. 118/2020, datë  5.10.2020; shfuqizuar një pikë me vendimin e Gjykatës Kushtetuese nr. 28, datë 30.6.2021)
 
-(I përditësuar)
+(i përditësuar)
 
 Në mbështetje të neneve 81 pika 2 dhe 83 pika 1 të Kushtetutës, me propozimin e një grupi deputetësh,
 
@@ -3502,13 +3502,13 @@ Neni 163
 
 Shpërndarja e mandateve për kandidatët fitues të listës
 
- (shfuqizuar pika 6 dhe ndryshuar pika 7 me ligjin nr. 101/2020, datë 23.7.2020, ndryshuar me ligjin  nr. 118/2020, datë  5.10.2020)
+ (shfuqizuar pika 6 dhe ndryshuar pika 7 me ligjin nr. 101/2020, datë 23.7.2020, ndryshuar me ligjin  nr. 118/2020, datë  5.10.2020;  shfuqizuar pika 3 me vendimin e Gjykatës Kushtetuese nr. 28, datë 30.6.2021)
 
 1. Menjëherë pas përfundimit të llogaritjes së rezultatit, sipas nenit 162 të këtij Kodi, KQZ-ja përllogarit shpërndarjen e mandateve për kandidatët fitues për secilin subjekt. 
 
 2. Shpërndarja e mandateve fillon me rend zbritës, në bazë të renditjes së tyre në listën e dorëzuar sipas nenit 67 të këtij Kodi, duke filluar nga numri rendor një, si dhe numrit të votës parapëlqyese të secilit kandidat bazuar në procedurat dhe kriteret vijuese.
 
-3. Në fillim përfitojnë mandat kandidatët që kanë marrë një numër votash parapëlqyese më të madh se herësi që del nga pjesëtimi i numrit të votave të subjektit me numrin e mandateve të fituara nga subjekti, sipas nenit 162 të këtij Kodi. Në çdo rast, herësi nuk mund të jetë më shumë se 10 000 vota. Në rast se herësi që përftohet nga pjesëtimi është një numër me mbetje dhjetore, si herës merret numri i plotë më i afërt. 
+3. Shfuqizuar.
 
 4. Kandidatët me numrin më të lartë të votave parapëlqyese se herësi, sipas pikës 3 të këtij neni, zëvendësojnë me radhë kandidatët në listë, që mund të kishin përfituar mandate, të cilët kanë numrin më të vogël të votave parapëlqyese.
 
