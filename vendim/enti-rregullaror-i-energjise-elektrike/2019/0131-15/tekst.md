@@ -4,7 +4,9 @@ Nr. 15, datë 31.1.2019
 
 MBI LICENCIMIN NË AKTIVITETIN E TRANSMETIMIT TË GAZIT NATYROR TË TRANS ADRIATIC PIPELINE AG ALBANIA, E REGJISTRUAR PRANË QKB-së, SI DEGË E SHOQËRISË SË HUAJ AKSIONARE (SHA), TRANS ADRIATIC PIPELINE AG
 
-(ndryshuar me vendimin nr. 120, datë 11.5.2021)
+(Ndryshuar me vendimin nr. 120, datë 11.5.2021; nr. 154, datë 30.6.2021)
+
+(I përditësuar)
 
 Në mbështetje të nenit 4, pika 50; nenit 22, pika 2, germa “a” dhe nenit 35, të ligjit nr. 102/2015, datë 23.9.2015 “Për sektorin gazit natyror”, si dhe nenit 4, pika 1, germa “a”; nenit 5; nenit 8; nenit 9 pika 1, germat “a”, “b”, “c”, “d”, “e”; pika 2, germa “a” dhe nenet 10 dhe 11, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e gazit natyror”; nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 31.1.2019, mbasi shqyrtoi relacionin mbi licencimin në aktivitetin e transmetimit të gazit natyror, të Trans Adriatic Pipeline AG Albania, e regjistruar pranë QKB-së si degë e shoqërisë së huaj aksionare (sh.a.), Trans Adriatic Pipeline AG, 
 
@@ -138,7 +140,7 @@ Për gjithë sa më sipër, Bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë në aktivitetin e transmetimit të gazit natyror, Trans Adriatic Pipeline AG Albania, e regjistruar pranë QKB-së, si degë e shoqërisë së huaj aksionare (sh.a.), Trans Adriatic Pipeline AG, për një afat 25-vjeçar, nga data e fillimit të operimit. 
+1. Të licencojë në aktivitetin e transmetimit të gazit natyror, Trans Adriatic Pipeline AG Albania, të regjistruar pranë QKB-së si degë e shoqërisë së huaj aksionare (sh.a.), Trans Adriatic Pipeline AG, për një afat 30-vjeçar, nga data e fillimit të operimit.
 
 2. Jo më vonë se 12 muaj nga fillimi i operimit të gazsjellësit, shoqëria të paraqes në ERE dokumentacionin e plotë që tregon titujt e pronësisë mbi asetet që ka për të kryer funksionet ose plotësuar detyrimet nën licencën e kërkuar në territorin e Shqipërisë.
 
