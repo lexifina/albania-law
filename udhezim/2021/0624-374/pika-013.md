@@ -1,0 +1,1 @@
+13. Njësia e monitorimit i rekomandon ministrit përgjegjës për trashëgiminë kulturore ndërprerjen e marrëdhënies juridike me subjektin privat apo publik, kur subjekti administrues ka kryer shkelje të rënda, sipas përcaktimeve të bëra në marrëveshjen apo kontratën e administrimit.

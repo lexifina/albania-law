@@ -1,0 +1,1 @@
+2. Monitorimi është një proces vlerësimi lidhur me administrimin e pasurisë kulturore publike nga subjekti, i cili realizohet nga ministria përgjegjëse për trashëgiminë kulturore me qëllim dhënien e rekomandimeve për vazhdimin apo ndërprerjen e marrëdhënies juridike me subjektin juridik privat apo publik.

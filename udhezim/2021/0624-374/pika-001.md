@@ -1,0 +1,1 @@
+1. Ky udhëzim përcakton rregullat për monitorimin dhe vlerësimin periodik nga ministria përgjegjëse për trashëgiminë kulturore, të veprimtarisë së subjekteve që kanë në administrim pasurinë kulturore në pronësi shtetërore, sipas nenit 171, të ligjit nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë” (në vijim, ligji nr. 27/2018).

@@ -1,0 +1,1 @@
+14. Raporti përfundimtar i monitorimit dhe vlerësimit së bashku me rekomandimet përkatëse i paraqitet ministrit përgjegjës për trashëgiminë kulturore dhe KKMPK-së. Një kopje e raportit përfundimtar i dorëzohet edhe subjektit administrues, objekt monitorimi.

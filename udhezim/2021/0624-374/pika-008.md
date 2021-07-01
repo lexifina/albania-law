@@ -1,0 +1,1 @@
+8. Njësia e monitorimit mund të kërkojë informacion apo dokumentacion shtesë lidhur me çështje të caktuara të konstatuara gjatë shqyrtimit të raportit të dorëzuar nga subjekti administrues, si dhe informacion apo dokumentacion lidhur me kontrollin teknik të kryer sipas nenit 71, të ligjit nr. 27/2018.
