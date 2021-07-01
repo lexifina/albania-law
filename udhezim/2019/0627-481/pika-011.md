@@ -14,12 +14,15 @@ c) evidenton kandidatët që u mbarten pikët, si dhe rastet kur kandidatët sje
 d) shqyrton ankesat e kandidatëve për vlerësimin e marrë;
 e) përgatit listat e kandidatëve që do të marrin pjesë në testimin e informatizuar;
 f) bën renditjen e kandidatëve sipas pikëve të marra në secilën fazë të vlerësimit dhe ato në total në përfundim të vlerësimit;
-g) dërgon elektronikisht dhe zyrtarisht në DQOSHKSH dhe në MSHMS listën me pikët për çdo kandidat.
+g) dërgon elektronikisht dhe zyrtarisht në DQOSHKSH dhe në MSHMS listën me pikët për çdo kandidat;
+h) Komisioni i Vlerësimit monitoron procesin e përzgjedhjes së vendeve të lira të punës, më specifikisht: njoftimin, ofrimin dhe përzgjedhjen e vendeve vakante për profesionistët e shkencave mjekësore teknike.
 5. Anëtarët e Komisionit të Vlerësimit duhet të verifikojnë dhe të shmangin konfliktin e interesit me kandidatët.
 KREU 3
 PROCEDURA E VLERËSIMIT TË KANDIDATËVE
 Vlerësimi i kandidatëve përfshin:
-a) Vlerësimin e dosjes së kandidatëve që konsiston në vlerësimin e arsimimit, të përvojës e të trajnimeve, të lidhura me fushën, deri në 30 pikë;
+a) Vlerësimin e dosjes së kandidatëve që konsiston në vlerësimin e arsimimit, të përvojës e të trajnimeve, të lidhura me fushën, deri në 30 pikë. Brenda numrit total prej 30 pikësh shtohet bonus si më poshtë:
+- studenteve të ekselencës 10 pikë,
+- profesionistëve të shkencave mjekësore teknike, që kanë punuar për diagnostikimin dhe trajtimin e pacientëve të prekur nga COVID-19, në spitalet kovid 1, 2, 3 dhe 4 (të vërtetuar me shkrim nga DROSHKSH Tiranë) për një periudhë mbi tre muaj, 5 pikë;
 b) vlerësimi i testit të informatizuar, deri në 70 pikë;
 3/1 KONKURRIMI ME DOSJE
 1. Në fazën e parë, kandidatët e interesuar regjistrohen në portalin “Infermierë për Shqipërinë”.
