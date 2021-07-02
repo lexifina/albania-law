@@ -1,0 +1,1 @@
+1. Ky vendim ka si objekt përcaktimin e metodologjisë së llogaritjes dhe kufijve të kuotës BID, në kuptim të pikës 2, të nenit 15, të ligjit nr. 63/2020, “Për përmirësimin e zonave të biznesit (BID)”.

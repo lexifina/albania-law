@@ -1,0 +1,1 @@
+6. Kuota BID për çdo pagues të saj përbën shumën e vlerave absolute të llogaritura për secilin kriter objektiv të përzgjedhur. Vlera absolute vjetore e kuotës BID për çdo pagues të kuotës BID, në çdo rast, nuk mund të jetë më shumë se 2 (dy) % e vlerës së njësisë tregtare përkatëse.

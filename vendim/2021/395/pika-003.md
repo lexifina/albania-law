@@ -1,0 +1,1 @@
+3. Deklarimi dhe mënyra e llogaritjes së kuotës BID nga propozuesi i BID-it realizohet në përputhje me parashikimin e pikës 1, të nenit 15, të ligjit nr. 63/2020, “Për përmirësimin e zonave të biznesit (BID)”. Për përcaktimin e vlerës së kuotës BID, propozuesi i BID-it bazohet në planin e biznesit të hartuar për krijimin dhe funksionimin e BID-it.
