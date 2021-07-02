@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese me shkëmbim letrash të marrëveshjes së grantit për asistencë teknike ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Fondit të Kuvajtit për Zhvillimin Ekonomik Arab, për financimin e përgatitjes së një studimi fizibiliteti për projektet e infrastrukturës së transportit në zonat bregdetare jugore të Shqipërisë, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
