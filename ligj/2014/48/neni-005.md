@@ -1,0 +1,7 @@
+# Neni 5
+Llogaritja e kamatëvonesës
+1. Norma bazë e interesit për lekun, e zbatueshme për llogaritjen e kamatëvonesës është:
+Për gjashtëmujorin e parë të vitit, sa norma e interesit të marrëveshjeve të riblerjes dhe të anasjella të riblerjes (REPO dhe REPO të anasjella), miratuar me vendimin e Këshillit Mbikëqyrës të Bankës së Shqipërisë në mbledhjen e fundit të vitit paraardhës, duke i shtuar tetë pikë përqindjeje, dhe për gjashtëmujorin e dytë, sipas normës së miratuar me vendimin e Këshillit Mbikëqyrës të Bankës së Shqipërisë në mbledhjen e fundit përpara datës 1 korrik të vitit korrent, duke i shtuar tetë pikë përqindjeje.
+2. Norma bazë e interesit për monedhën euro, e zbatueshme për llogaritjen e kamatëvonesës, është:
+Për gjashtëmujorin e parë të vitit, sa norma e interesit të operacioneve kryesore të rifinancimit, të miratuara me vendimin e Këshillit Drejtues të Bankës Qendrore Europiane në mbledhjen e fundit të vitit paraardhës, duke i shtuar tetë pikë përqindjeje, dhe për gjashtëmujorin e dytë, sipas normës së miratuar me vendimin e Këshillit Drejtues të Bankës Qendrore Europiane në mbledhjen e fundit përpara datës 1 korrik të vitit korrent duke i shtuar tetë pikë përqindjeje.
+3. Norma bazë e interesit për monedhat e tjera, e zbatueshme për llogaritjen e kamatëvonesës, është sipas llogaritjes në lekë të normës së interesit, duke marrë si kurs të llogaritjes në lekë të detyrimit, kursin e ditës që kërkohet pagesa e kamatëvonesës ligjore.

@@ -1,0 +1,4 @@
+# Neni 10
+Afatet e marrjes në dorëzim të mallrave
+Në ato raste kur, nga kontrata ose marrëveshja e palëve, është parashikuar që mallrat do të merren sipas një procedure dorëzimi apo në rastet kur duhet të bëhet kolaudimi i tyre, afati i marrjes në dorëzim apo i kolaudimit të mallrave nuk mund të jetë më i gjatë se 30 ditë kalendarike. Ky afat fillon të llogaritet nga e nesërmja e mbërritjes së mallit në destinacionin e përcaktuar nga blerësi.
+Nëse në kontratën apo marrëveshjen e palëve është përcaktuar një afat tjetër, i ndryshëm nga ai i parashikuar në paragrafin e parë të këtij neni, ky afat do të quhet i vlefshëm, me kusht që, nisur nga natyra e mallit apo nga praktika tregtare, të mos jetë në dëm të interesave të kreditorit dhe të mos e vërë këtë të fundit në një pozitë diskriminuese.

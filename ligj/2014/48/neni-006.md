@@ -1,0 +1,11 @@
+# Neni 6
+Afati
+Kur nga kontrata apo nga ndonjë dispozitë tjetër ligjore nuk mund të përcaktohet ndonjë afat a datë për kryerjen e pagesës, llogaritja e kamatëvonesës fillon nga data, në të cilën debitori nuk ka ekzekutuar detyrimin e tij, të kërkuar nga kreditori, sipas parashikimeve të nenit 463 të Kodit Civil. Kreditorit, të cilit debitori nuk i ka kundërshtuar furnizimin me mallra apo shërbime, i lind e drejta për të marrë kamatëvonesë, duke filluar nga dita e nesërme pas datës së afatit të pagesës, të përcaktuar në kontratë.
+Në ato raste kur debitori ka refuzuar të marrë në dorëzim mallin apo kryerjen e shërbimeve, për shkak të pretendimeve që ai ka mbi to, afatet e parashikuara në këtë nen llogariten duke filluar nga data e rënies dakord ndërmjet kreditorit dhe debitorit për pranimin e mallrave, punimeve apo shërbimeve të kryera nga kreditori.
+Në rastet kur afati i pagesës nuk është i përcaktuar në kontratë, pas mbarimit të afatit të ekzekutimit të detyrimit nga debitori, sipas nenit 463 të Kodit Civil, kreditori ka të drejtë të marrë kamatëvonesë, duke filluar nga përfundimi i afateve si më poshtë:
+a) 30 ditë kalendarike pas datës së marrjes prej debitorit të faturës ose të një kërkesë-pagese të njëvlershme;
+b) 30 ditë kalendarike pas datës së marrjes së mallrave ose shërbimeve, kur nuk është e qartë data e marrjes së faturës ose kërkesëpagesës së njëvlershme;
+c) kur debitori e merr faturën ose kërkesëpagesën e njëvlershme përpara lëvrimit të mallrave ose shërbimeve, 30 ditë kalendarike pas datës së marrjes së mallrave ose shërbimeve;
+ç) kur ligji a kontrata parashikon një procedurë të marrjes në dorëzim ose të kolaudimit, përmes së cilës vërtetohet përputhshmëria e mallrave a shërbimeve me kontratën dhe nëse debitori e merr faturën ose kërkesëpagesën e njëvlershme përpara ose në datën kur bëhet marrja në dorëzim apo kolaudimi në fjalë, 30 ditë kalendarike pas kësaj date.
+Afati i parashikuar në shkronjën “a” të këtij neni, mund të zgjatet jo më shumë se 60 ditë kalendarike.
+Afatet kontraktore për kryerjen e pagesave nuk mund të jenë më të gjata se 60 ditë nga data e parashikuar në shkronjën “a” të këtij neni. Në ato raste kur me kontratë apo në marrëveshje me palët është caktuar një afat tjetër, ky afat konsiderohet i vlefshëm, me përjashtim të rasteve kur dëmton dhe vë në pozitë diskriminuese kreditorin.
