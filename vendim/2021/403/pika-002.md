@@ -1,0 +1,4 @@
+2. Përveç përkufizimeve të dhëna në nenin 3, të ligjit nr. 115/2017, “Për krijimin e Agjencisë Kombëtare të Diasporës”, të ndryshuar, termat e mëposhtëm kanë këto kuptime:
+a) “Aktivitete/evente”, organizime, si: takime, konferenca, veprimtari kulturore, artistike, që organizohen nga Agjencia Kombëtare e Diasporës, mbështetur në planin e veprimit të përcaktuar në funksion të zbatimit të Strategjisë Kombëtare për Diasporën;
+b) “Bashkëpunëtorë të jashtëm”, ata persona fizikë që angazhohen nga Agjencia Kombëtare e Diasporës, për shkak të cilësive të veçanta që disponojnë dhe për zbatimin e veprimtarive, sipas kontratave të lidhura me parë me ta;
+c) “Figura të njohura të diasporës”, personalitete të spikatura të diasporës në fusha të ndryshme që japin kontribute të konsiderueshme për vendin e origjinës.
