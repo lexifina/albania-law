@@ -1,0 +1,1 @@
+1. Në procedurat e prokurimit “Dialog konkurrues”, “Partneritet për inovacion”, “Konkurruese me negocim” dhe “Konkurs projektimi”, fazat vijuese, pas fazës së parakualifikimit, zhvillohen në formë shkresore.
