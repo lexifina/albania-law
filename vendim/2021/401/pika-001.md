@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është të përcaktojë kriteret e hollësishme për miratimin dhe kompetencat e trupave certifikuese, që do të kryejnë procesin e verifikimit të përputhshmërisë së produkteve bujqësore dhe ushqimore të regjistruara, si: EOM, TGJM dhe STG me specifikimet përkatëse.
