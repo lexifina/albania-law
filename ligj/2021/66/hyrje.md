@@ -1,0 +1,9 @@
+LIGJ
+Nr. 66/2021
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË PROTOKOLLIN
+E VITIT 1988, NË LIDHJE ME KONVENTËN NDËRKOMBËTARE
+PËR SIGURINË E JETËS NË DET, 1974
+Në mbështetje të neneve 78, 83, pika 1, dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
