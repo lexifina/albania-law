@@ -1,0 +1,1 @@
+6. Vendimi përfundimtar për normën tatimore të aplikueshme për nënkontraktorët, në zbatim të pikës 5, të këtij vendimi, merret nga drejtori i Përgjithshëm i Tatimeve në bashkërendim me drejtorinë rajonale tatimore, ku janë të regjistruar personat juridikë nënkontraktorë.

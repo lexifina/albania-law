@@ -1,0 +1,1 @@
+7. Me qëllim zbatimin e këtij vendimi, administrata tatimore bashkëpunon e bashkërendon punët me Agjencinë Kombëtare të Burimeve Natyrore (AKBN), sipas funksioneve dhe veprimtarisë së tyre, të përcaktuara nga legjislacioni në fuqi për regjimin fiskal në sektorin hidrokarbur.
