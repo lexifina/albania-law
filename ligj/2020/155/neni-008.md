@@ -1,0 +1,4 @@
+# Neni 8
+Monitorimi, raportimi dhe verifikimi i shkarkimeve të GES-it nga instalimet
+1. Operatori i një instalimi, që kryen cilindo nga aktivitetet e listuara në shtojcën II-A bashkëlidhur këtij ligji, monitoron shkarkimet që kryhen nga instalimi gjatë një viti kalendarik dhe harton raportin e të dhënave të monitorimit të GES-it, të cilin e dorëzon pranë Agjencisë Kombëtare të Mjedisit brenda muajit shkurt të vitit pasardhës, në përputhje me rregulloren e parashikuar në pikën 2 të këtij neni. AKM-ja pranon raportin e monitorimit të shkarkimeve të GES-it vetëm nëse raporti është verifikuar nga një verifikues i akredituar.
+2. Rregullorja për monitorimin, raportimin dhe verifikimin e shkarkimeve të CO2 dhe gazeve të tjera me efekte serrë nga aktivitetet industriale të listuara në shtojcën II-A të këtij ligji miratohet nga Këshilli i Ministrave me propozimin e ministrit.

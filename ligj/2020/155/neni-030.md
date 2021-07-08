@@ -1,0 +1,7 @@
+# Neni 30
+Transferimi i teknologjive/teknologjitë me pak karbon
+1. Ministritë e linjës, sipas pikës 2 të nenit 23 të këtij ligji, dhe autoritetet e tjera kompetente, të përcaktuara në kreun IV të këtij ligji, në fushat e tyre të përgjegjësisë shtetërore:
+a) dekurajojnë transferimin e teknologjive të vjetra, inkurajojnë kërkime në shkencë e teknologji, si dhe zhvillimin, transferimin dhe përdorimin e teknologjive, pajisjeve dhe proceseve për reduktimin e shkarkimeve të GES-it dhe përshtatjen, me qëllim uljen e vulnerabilitetit ndaj ndryshimeve klimatike, për përmirësimin e performancës mjedisore dhe mbështetjen e zhvillimit të qëndrueshëm;
+b) inkurajojnë vendosjen e bashkëpunimit ndërkombëtar, që synon dhënien e ndihmës për transferimin e njohurive teknike, të aftësive teknike e menaxheriale për zhvillimin e institucioneve dhe rrjeteve të nevojshme, për sigurimin e pjesëmarrjes së aktorëve privatë dhe publikë;
+c) përshtatin standardet e duhura dhe nxisin marrëveshjet vullnetare ndërmjet trupave dhe organizatave që përfaqësojnë interesa të caktuara, grupe operatorësh e operatorë të veçantë dhe autoritetet përkatëse për të nxitur zhvillimin e teknologjive eficiente.
+2. Projektet për kërkim, zhvillim, novacion dhe transferim të teknologjive, sipas pikës 1 të këtij neni, do të jenë në përputhje me prioritetet dhe nevojat e përcaktuara në strategjitë sektoriale të zhvillimit me karbon të ulët, në planin kombëtar për zbutje të GES-it dhe programet për mjedisin e klimën.

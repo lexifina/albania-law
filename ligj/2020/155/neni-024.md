@@ -1,0 +1,8 @@
+# Neni 24
+Bashkëpunimi ndërkombëtar
+1. Republika e Shqipërisë merr pjesë në skemën ndërkombëtare të tregtimit të shkarkimeve të GES-it, në përputhje me vendimin e Këshillit të Ministrave, që përshtat mekanizmat ndërkombëtarë të ndryshimeve klimatike dhe udhëzuesit ndërkombëtarë që zbatohen për këtë qëllim.
+2. Republika e Shqipërisë merr pjesë në projektet e mekanizmit të zhvillimit të pastër, në përputhje me vendimin e Këshillit të Ministrave, që përshtat mekanizmat ndërkombëtarë të ndryshimeve klimatike dhe udhëzuesit ndërkombëtarë që zbatohen për këtë qëllim.
+3. Kontributi Kombëtar i Përcaktuar, sipas nenit 7 të këtij ligji, i komunikohet Konventës deri në fund të vitit të pestë kalendarik pas komunikimit të parë.
+4. Dokumenti Strategjik, Plani Kombëtar për Zbutjen e Gazeve me Efekt Serrë (NMP) dhe Plani Kombëtar për Përshtatjen ndaj Ndryshimeve Klimatike (NAP) i komunikohen Konventës në afatet e përcaktuara në vendimet për zbatimin e Marrëveshjes së Parisit.
+5. Republika e Shqipërisë përfaqësohet në negociatat ndërkombëtare në kuadër të Konventës dhe integrimit evropian nga ministria, në cilësinë e focal point të Konventës dhe institucionit përgjegjës për fushën e ndryshimeve klimatike, në bashkëpunim me ministritë e linjës.
+6. Ministritë e linjës, sipas pikës 2 të nenit 23 të këtij ligji , bashkëpunojnë me komunitetin ndërkombëtar për zbatimin e Konventës dhe inkurajojnë iniciativat dypalëshe e shumëpalëshe, që synojnë shkëmbimin dhe ndarjen e informacionit për eksperiencat që lidhen me hartimin e politikave e të praktikave të mira ekzistuese, që kontribuojnë për zhvillimin e ekonomive me pak karbon dhe për të mbështetur e përhapur masat që lidhen me klimën.
