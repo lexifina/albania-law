@@ -161,9 +161,7 @@ e) sipërfaqja dhe lokalizimi i tokave të ndotura me kimikate dhe mbetje të rr
 ë) shkalla e ekspozimit të popullsisë ndaj ndotjes së tokës;
 f) tejkalimet e normave të cilësisë së treguesve të pikës B6.1 dhe B7.
 Ç) Treguesit mjedisorë të trysnisë në mjedis janë:
-1. Për ndryshimet klimatike:
-a) sasia vjetore e shkarkimit të CO2, NOx dhe CH4;
-b) shpërndarja e shkarkimeve të CO2, NOx dhe CH4 për sektorë të ndryshëm të ekonomisë, si energji, transport, administrim i mbetjeve, bujqësi, industri.
+1. Shfuqizuar.
 2. Për ajrin urban:
 a) sasitë vjetore të shkarkimeve në qendrat urbane të SO2, NOx, CO2, CO;
 b) shpërndarja e shkarkimeve të SO2 e NOx, sipas sektorëve të ekonomisë;
