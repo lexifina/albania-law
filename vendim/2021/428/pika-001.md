@@ -1,0 +1,3 @@
+1. Përdorimin e fondit të rindërtimit, në masën 266 835 173 (dyqind e gjashtëdhjetë e gjashtë milionë e tetëqind e tridhjetë e pesë mijë e njëqind e shtatëdhjetë e tre) lekë pa TVSH, për financimin e rikonstruksionit të objekteve arsimore në Bashkinë Kurbin, sipas detajimit të mëposhtëm:
+a) Rikonstruksioni i shkollës 9-vjeçare “Milot”, Bashkia Kurbin, në masën 147 116 112 (njëqind e dyzet e shtatë milionë e njëqind e gjashtëmbëdhjetë mijë e njëqind e dymbëdhjetë) lekë pa TVSH;
+b) Rikonstruksioni i shkollës së mesme “Milot”, Bashkia Kurbin, në masën 119 719 061 (njëqind e nëntëmbëdhjetë milionë e shtatëqind e nëntëmbëdhjetë mijë e gjashtëdhjetë e një) lekë pa TVSH.

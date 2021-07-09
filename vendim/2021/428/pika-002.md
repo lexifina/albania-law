@@ -1,0 +1,3 @@
+2. Bashkisë Kurbin, për vitin 2021, i transferohet fondi në masën 53 367 034 (pesëdhjetë e tre milionë e treqind e gjashtëdhjetë e shtatë mijë e tridhjetë e katër) lekë pa TVSH, në formën e transfertës së pakushtëzuar, nga hapësira buxhetore e siguruar pas ngurtësimit në të njëjtën masë të fondeve të projekteve të rindërtimit me ecuri të ngadaltë, për rikonstruksionin e objekteve arsimore, detajuar, si më poshtë vijon:
+a) Rikonstruksioni i shkollës 9-vjeçare “Milot”, Bashkia Kurbin, në masën 29 423 222 (njëzet e nëntë milionë e katërqind e njëzet e tre mijë e dyqind e njëzet e dy) lekë pa TVSH;
+b) Rikonstruksioni i shkollës së mesme “Milot”, Bashkia Kurbin, në masën 23 943 812 (njëzet e tre milionë e nëntëqind e dyzet e tre mijë e tetëqind e dymbëdhjetë) lekë pa TVSH.
