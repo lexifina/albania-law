@@ -1,0 +1,1 @@
+8. Ngarkohet për zbatimin e këtij udhëzimi, Autoriteti Përgjegjës për Azilin dhe Refugjatët dhe Drejtoria e Përgjithshme e Gjendjes Civile, Departamenti për Kufirin dhe Migracionin në Drejtorinë e Përgjithshme të Policisë së Shtetit.

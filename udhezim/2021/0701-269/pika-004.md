@@ -1,0 +1,3 @@
+4. Refugjatit ose personit nën mbrojtje plotësuese, të cilit leja e qëndrimit i lëshohet për herë të parë, duhet që brenda 30 ditëve nga dita e tërheqjes së dokumentit të lejes së qëndrimi, të regjistrojë vendbanimin pranë zyrës së gjendjes civile në bashki/njësisë administrative përkatëse, duke paraqitur:
+a) kërkesën me shkrim dhe lejen e qëndrimit;
+b) dokumentin e pronësisë së banesës ose kontratë qiramarrjeje/huadhënie/përdorimi apo banimi; kontratën apo çdo dokument tjetër të ligjshëm, të parashikuar nga legjislacioni në fuqi, që i jep personit të drejtën e përdorimit të banesës; ose vërtetimin e vendbanimit të lëshuar nga autoriteti përgjegjës për azilin dhe refugjatët, nëse personi është me qëndrim pranë Qendrës Kombëtare Pritëse për Azilkërkues.

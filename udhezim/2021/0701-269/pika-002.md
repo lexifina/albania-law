@@ -1,0 +1,1 @@
+2. Të dhënat e refugjatit ose të personit nën mbrojtje plotësuese që i është miratuar leja e qëndrimit, importohen elektronikisht nga Regjistri Elektronik për të Huajt (FER) në Regjistrin Kombëtar të Gjendjes Civile (RKGJC).

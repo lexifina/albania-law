@@ -1,0 +1,1 @@
+6. Autoriteti përgjegjës për azilin dhe refugjatët, sa herë që e çmon të nevojshme, kërkon nga Drejtoria e Përgjithshme e Gjendjes Civile, informacionin e plotë për refugjatin ose personin nën mbrojtje plotësuese të regjistruar në RKGJC.
