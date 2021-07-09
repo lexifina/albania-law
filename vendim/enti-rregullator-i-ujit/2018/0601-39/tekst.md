@@ -4,7 +4,7 @@ Nr. 39, datë 1.6.2018
 
 PËR LICENCIMIN E SHA UJËSJELLËS-KANALIZIME KONISPOL
 
-(Ndryshuar me vendimin nr. 100, datë 25.8.2020)
+(Ndryshuar me vendimin nr. 100, datë 25.8.2020; nr. 270, datë 9.7.2021)
 
 (I përditësuar)
 
@@ -34,7 +34,7 @@ VENDOSI:
 
 Drejtues Ligjor Altier Xhaferi
 
-Drejtues Teknik Aurenc Shehu
+Drejtues Teknik Mikelo Taka
 
 2. Operatori sh.a. Ujësjellës-Kanalizime Konispol autorizohet të kryejë veprimtarinë përkatëse të kualifikuar në kategorinë:
 
