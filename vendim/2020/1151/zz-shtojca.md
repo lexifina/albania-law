@@ -1846,3 +1846,4 @@ Teknik i mesëm
 Vjetore
 TOTAL PUNONJËS ME KONTRATË
 2,472
+Tabela nr. 1
