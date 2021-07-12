@@ -1,0 +1,3 @@
+# Neni 6
+Informacioni për konsumatorët
+Për kontratat që përfshihen në fushën e veprimtarisë së ligjit nr. 9902, datë 17.4.2008, “Për mbrojtjen e konsumatorit”, të ndryshuar, të gjithë tregtarët që lidhin kontrata shitjeje me konsumatorët, të cilat përfshijnë dërgimin e pakove ndërkufitare, kur është e mundur dhe e zbatueshme, vënë në dispozicion, në fazën parakontraktuese, informacionin rreth opsioneve të ofrimit të dërgesave ndërkufitare, në lidhje me kontratën specifike të shitjes, tarifat që paguhen nga konsumatorët për dërgesën e pakove ndërkufitare, si dhe politikat e tyre të trajtimit të ankesave.
