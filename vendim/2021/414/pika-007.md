@@ -1,0 +1,1 @@
+7. Bashkitë, 1 (një) herë në 4 (katër) muaj, duhet të raportojnë për përdorimin e fondeve, mënyrën e përdorimit të tyre te Ministria e Mbrojtjes, Agjencia Kombëtare e Mbrojtjes Civile dhe te Ministria e Financave dhe Ekonomisë.
