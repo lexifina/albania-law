@@ -1,0 +1,1 @@
+1. Ministria e Mbrojtjes, në bashkëpunim me bashkimin e operatorëve ekonomikë “SIGAL LIFE UNIQA GROUP AUSTRIA” sh.a., “SICRED” sh.a., “INSIG JETË” sh.a. dhe “ALBSIG JETË” sh.a., të bëjë sigurimin e jetës së personelit të Forcave të Armatosura të Republikës së Shqipërisë, që dërgohen në misione ushtarake dhe stërvitje jashtë vendit, për vitin 2021.
