@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e miratuar për vitin 2021, t’i shtohet fondi prej 20 000 000 (njëzet milionë) lekësh, në zërin “subvencion”, për financimin e shpenzimeve funksionale deri në fund të vitit 2021.
