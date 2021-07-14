@@ -1,0 +1,1 @@
+2. Në përputhje me nenin 6, të ligjit nr. 154/2020, “Për Regjistrin Qendror të Llogarive Bankare”, Drejtoria e Përgjithshme e Tatimeve dhe Agjencia Kombëtare e Shoqërisë së Informacionit garantojnë funksionimin normal, pa ndërprerje, të Regjistrit Qendror të Llogarive Bankare dhe të kasetave të sigurisë.

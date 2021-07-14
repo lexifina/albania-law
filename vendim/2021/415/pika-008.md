@@ -1,0 +1,1 @@
+8. Ekstrakti i rezultatit të kërkimit në regjistër mundësohet online, menjëherë, dhe mund të shkarkohet apo të printohet nga përdoruesit, i firmosur në mënyrë digjitale nga Drejtoria e Përgjithshme e Tatimeve.
