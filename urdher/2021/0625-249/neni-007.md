@@ -1,0 +1,7 @@
+# Neni 7
+Detyrat funksionale të DSGIK-së
+1. DSGIK-ja përgjigjet për ushtrimin e kontrollit, për:
+a) zbatimin dhe respektimin e normave dhe të kushteve teknike në ndërtimin dhe përdorimin e instalimeve, impianteve dhe pajisjeve përkatëse, nga personat fizikë dhe juridikë, që kryejnë veprimtari në zbatim të dispozitave të ligjit nr. 102/2015, “Për sektorin e gazit natyror”, të ndryshuar, në përputhje me përcaktimet e rregullave teknike në fuqi për sektorin e gazit natyror, sikurse ato janë miratuar me vendimet përkatëse të Këshillit të Ministrave;
+b) zbatimin e kushteve të përcaktuara në licencat apo autorizimet përkatëse, që u janë dhënë personave fizikë dhe juridikë, që ato të respektojnë normat teknike për mbrojtjen ndaj zjarrit dhe ruajtjen e mjedisit gjatë përdorimit dhe shfrytëzimit të instalimeve, impianteve dhe pajisjeve përkatëse në sektorin e gazit natyror, përfshirë depozitat bregdetare të GNL-së dhe territorin e brendshëm;
+c) respektimin e treguesve cilësorë të standardeve apo rregullave shtetërore për cilësinë e gazit natyror, për parandalimin e abuzimeve dhe të falsifikimeve, nëpërmjet marrjes së mostrave të produkteve të gazit që transportohet, depozitohet dhe përdoret në tregun e brendshëm të Republikës së Shqipërisë.
+2. DSGIK-ja bashkërendon punën dhe kërkon çdo informacion të nevojshëm me OMVK-në për respektimin e normave dhe kushteve teknike në instalimet që ushtrojnë veprimtari në sektorin e gazit natyror dhe konsumatorët e mëdhenj industrialë.

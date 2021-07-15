@@ -1,0 +1,17 @@
+# Neni 5
+Funksionet e Inspektoratit Shtetëror Teknik dhe Industrial (ISHTI) në sektorin e gazit natyror
+1. Inspektorati Shtetëror Teknik dhe Industrial (ISHTI) është një institucion shtetëror i autorizuar, për:
+a) inspektimin e kërkesave teknike për sistemin e transportimit dhe shpërndarjes, objektin e depozitimit të gazit natyror, instalimin, zhvillimin, operimin, mirëmbajtjen dhe mbrojtjen e objekteve të GNL-së, kërkesa, të cilat duhet të jenë në përputhje me përcaktimet e rregullave teknike në fuqi për sektorin e gazit natyror, sikurse ato janë miratuar me vendimet përkatëse të Këshillit të Ministrave;
+b) respektimin e rregullave për aktivitetet e operimit të gazit natyror sipas licencave përkatëse; pajtueshmëria e tyre me termat dhe kushtet e aktiviteteve të licencuara të operatorëve të sistemit;
+c) inspektimin e kritereve të sigurisë teknike për pajtueshmërinë me rregullat e sigurisë dhe besueshmërisë së sistemit të gazit natyror; të cilat duhet të jenë në përputhje me përcaktimet e rregullave teknike në fuqi për sektorin e gazit natyror, sikurse ato janë miratuar me vendimet përkatëse të Këshillit të Ministrave, për të siguruar jetën e njerëzve dhe mbrojtjen e pronës, duke vlerësuar në mënyrë jodiskriminuese të gjithë operatorët që sigurojnë ndërveprimin e sistemit dhe përcaktojnë kërkesat minimale për strukturën dhe operacionin teknik, të cilat zbatohen për lidhjen e objekteve të GNL-së me sistemet e tjera të transmetimit ose shpërndarjes dhe linjat direkte në sistem.
+2. Në kryerjen e veprimtarive dhe kryerjen e funksioneve dhe detyrave të tij, ISHTI-ja, kur është e nevojshme, bashkëpunon me institucione dhe organe të tjera në respektim të përcaktimeve të pikës 11, të urdhrit të ministrit të Infrastrukturës dhe Energjisë nr. 280, datë 1.10.2020, “Për miratimin e formës dhe të praktikave në marrëdhëniet ndërmjet strukturës përgjegjëse, që mbulon aktivitetin e sektorit të gazit natyror në ministri, dhe inspektoratit shtetëror përgjegjës për sektorin e gazit natyror”, për të arritur objektivat e mëposhtëm:
+a) sigurimi i kushteve të përshtatshme për funksionimin efektiv dhe të besueshëm të rrjeteve të gazit natyror; të mbikëqyrë kryerjen e shërbimeve të mirëmbajtjes;
+b) nxitjen e zhvillimit të sistemeve të sigurta, të besueshme dhe efikase, jodiskriminuese, që janë të orientuara nga konsumatorët;
+c) pajtueshmërinë me rregullat e menaxhimit të interkonektorëve dhe shpërndarjen e kapaciteteve të tyre; sigurimin e qasjes në sistemet;
+ç) pajtueshmëria me sigurimin e furnizimit me gaz natyror dhe kërkesat e cilësisë së shërbimit;
+d) zbatimin e rregullave kombëtare të menaxhimit të rrjetit të transportit të gazit natyror;
+dh) monitorimin e kohës së marrë nga operatorët e sistemit të transmetimit dhe shpërndarjes për të bërë lidhjet dhe riparimet, dhe kushtet e qasjes për ruajtjen, funksionimin e linjës dhe shërbimet e tjera ndihmëse;
+e) inspektimin e treguesve të kapacitetit teknologjik, teknik dhe menaxherial të operatorëve të gazit natyror dhe krijimin e një procedure për vlerësimin e tyre;
+ë) lehtësimin e aksesit në sistemin për kapacitetin e ri të depozitimit të gazit natyror;
+f) inspektimin e kërkesave standarde për zhvillimin e programeve të bashkërendimit për operatorët e sistemit të shpërndarjes dhe operatorët e sistemit të depozitimit.
+3. Njësia përgjegjëse, në kuadër të Inspektoratit Shtetëror Teknik dhe Industrial (ISHTI), që mbulon aktivitetin e sektorit të gazit natyror është Drejtoria e Sistemeve të Gazifikimit dhe Impianteve Kombëtare (DSGIK).

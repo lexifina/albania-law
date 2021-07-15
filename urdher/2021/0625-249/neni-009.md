@@ -1,0 +1,12 @@
+# Neni 9
+Të drejtat dhe detyrat e inspektorit rajonal pranë Drejtorisë së Sistemeve të Gazifikimit dhe Impianteve Kombëtare
+1. Aktivitetet e një inspektori të gazit natyror mund të kryhen nga individë të cilët kanë kryer studimet e larta pranë Universitetit Politeknik të Tiranës, Fakultetit të Shkencave të Natyrës që ka minimumi pesë vjet përvojë pune në këtë fushë, i cili është i pajisur me certifikatën e lejes profesionale në fushën e duhur sipas kërkesave të VKM-së nr. 551, datë 18.6.2015, “Për miratimin e kritereve dhe të procedurave për pajisjen me certifikatën e lejes profesionale për veprimtaritë studimore-projektuese dhe zbatuese për kërkimin, prodhimin, përpunimin, transportimin, depozitimin dhe tregtimin e lëndëve hidrokarbure”, i ndryshuar, dhe i cili, gjithashtu, plotëson kërkesat e tjera të përcaktuara me ligj.
+2. Inspektori është i pavarur në kryerjen e aktiviteteve në kuadër të kompetencave të përcaktuara me ligj dhe me rregulloret e tjera dhe është personalisht përgjegjës për punën e tij.
+3. Inspektori i gazit kryen mbikëqyrje të objekteve të transmetimit, shpërndarjes, hapësirave të depozitimit nëntokësor, instalimeve të gazit natyror të lëngëzuar (GNL) dhe linjave direkte të gazit natyror, në përputhje me kompetencat e përcaktuara me këtë ligj. Inspektori i gazit natyror nuk kryen mbikëqyrjen e objekteve të tjera të gazit ose pajisjeve nën presion, në qoftë se ajo është e përcaktuar me një ligj tjetër.
+4. Inspektori i sektorit të gazit natyror ka të drejtë dhe detyrë për të kontrolluar:
+a) nëse është siguruar miratimi nga organi përgjegjës për ndërtimin e instalimeve të gazit natyror;
+b) nëse dokumentacioni teknik për ndërtimin dhe instalimin e tubacioneve dhe pajisjeve të gazit është përgatitur në përputhje me ligjet, rregullat teknike dhe standardet;
+c) nëse ndërtimi dhe testimi i pajisjeve të gazit është kryer në përputhje me ligjet, rregullat teknike dhe standardet;
+ç) nëse tubacionet, stacionet e kompresorëve mirëmbahen rregullisht dhe nëse inspektimi i operatorit ekonomik është i rregullt, pasi testimi është kryer në përputhje me rregulloren dhe standardet teknike;
+d) nëse punonjësit, që operojnë në sistemet e gazit natyror, janë pajisur me dëshmi për pajisjet dhe enët nën presion dhe personat plotësojnë kushtet e përcaktuara për kryerjen e këtyre detyrave;
+dh) rregullsinë e dorëzimit dhe cilësinë e gazit natyror të dorëzuar për klientët.
