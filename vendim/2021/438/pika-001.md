@@ -1,0 +1,1 @@
+1. Bashkitë e qarkut të Durrësit të marrin masa të menjëhershme për gjetjen e zgjidhjeve për menaxhimin/trajtimin e mbetjeve urbane në këtë qark, duke mbajtur në konsideratë legjislacionin në fuqi në fushën e mbetjeve.

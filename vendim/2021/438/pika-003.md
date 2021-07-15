@@ -1,0 +1,1 @@
+3. Pas dërgimit të kërkesës financiare, ministritë propozuese të këtij akti i propozojnë Këshillit të Ministrave miratimin e mbështetjes financiare për bashkitë e përfshira në qarkun e Durrësit, në përputhje me instrumentet e parashikuara në legjislacionin në fuqi.
