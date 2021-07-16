@@ -1,0 +1,1 @@
+6. Në zonat kadastrale, ku ka përfunduar regjistrimi fillestar, kur konstatohet se ka mospërputhje ndërmjet hartës kadastrale dhe planit të rilevimit, drejtoria vendore e ASHK-së, kompetente për territorin ku ndodhet zona e stimuluar, kryen procedurat e përmirësimit të regjistrit sipas planit të rilevimit, në përputhje me kreun VI, të ligjit nr. 111/2018, “Për kadastrën”.

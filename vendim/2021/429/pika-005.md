@@ -1,0 +1,1 @@
+5. Plani i rilevimit në format digjital e manual dhe relacioni shpjegues i përcillet drejtorisë vendore të ASHK-së, kompetente për territorin ku ndodhet zona e stimuluar, e cila përgatit kartelat e pasurive të paluajtshme.

@@ -1,0 +1,1 @@
+8. Nga data e përcjelljes së planit të rilevimit nga drejtoria vendore kompetente për zonat e stimuluara, sipas pikës 5, të këtij vendimi, dhe deri në përfundimin e procedurës së konsultimit publik, drejtoria vendore e ASHK-së, kompetente për territorin ku ndodhet zona e stimuluar, duhet të pezullojë veprimet me pasuritë brenda zonës së stimuluar.

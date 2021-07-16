@@ -1,0 +1,1 @@
+7. Plani i rilevimit dhe lista e përfituesve me të dhënat nga kartela e pasurisë së paluajtshme, hartuar sipar pikës 5, të këtij vendimi, i nënshtrohen procesit të konsultimit publik, në përputhje me nenin 31, të ligjit nr. 111/2018, “Për kadastrën”. Procedurat e konsultimit publik ndiqen nga drejtoria vendore e ASHK-së, kompetente për zonat e stimuluara.

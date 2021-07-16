@@ -1,0 +1,1 @@
+4. Drejtoria vendore e ASHK-së, kompetente për zonat e stimuluara, harton planin e rilevimit dhe relacionin shpjegues, jo më vonë se 60 (gjashtëdhjetë) ditë nga data e përfundimit të verifikimit në terren të zonës së stimuluar.

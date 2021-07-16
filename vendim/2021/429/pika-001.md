@@ -1,0 +1,1 @@
+1. Plan rilevimi është harta digjitale dhe manuale, e hartuar nga Agjencia Shtetërore e Kadastrës (në vijim, ASHK), që përftohet nga verifikimi në terren, ku pasqyrohet gjendja faktike ndërtimore, kufijtë e zonës së stimuluar, si dhe të dhënat e hartës kadastrale.

@@ -1,0 +1,1 @@
+11. Kur gjendja faktike, e pasqyruar në planin e rilevimit të miratuar përpara hyrjes në fuqi të këtij vendimi, por të paregjistruar në regjistrat kadastralë, ka pësuar ndryshime, drejtoria vendore e ASHK-së, kompetente për zonat e stimuluara, mund të rishikojë planin e rilevimit. Plani i rishikuar do t’u nënshtrohet rregullave të hartimit të parashikuara në këtë vendim.

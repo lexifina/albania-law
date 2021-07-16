@@ -1,0 +1,1 @@
+10. Kur për shkak të sipërfaqes apo pozicionimit të zonës së stimuluar drejtoria kompetente vendore e ASHK-së e ka të pamundur kryerjen e procesit të verifikimit në terren, në kuadër të hartimit të planit të rilevimit, ky proces mund të kryhet nga subjekte private të licencuara në fushat përkatëse, në përputhje me legjislacionin në fuqi për prokurimin publik.
