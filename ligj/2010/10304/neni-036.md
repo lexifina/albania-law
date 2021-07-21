@@ -6,7 +6,7 @@ Përveç sa parashikohet në këtë ligj, për çdo tip lejeje minerare, zotëru
 3. Të marrë masat e nevojshme të sigurisë për të mbrojtur jetën dhe shëndetin e punonjësve e të personave të tjerë, të cilët hyjnë në zonën e lejes minerare, në përputhje me legjislacionin në fuqi dhe rregulloret e teknikës së sigurimit e të mbrojtjes në punë.
 4. Të marrë masat e nevojshme për sigurimin e kushteve të punës, sipas legjislacionit në fuqi.
 5. Të bëjë sigurimin e punonjësve të punësuar në veprimtarinë minerare nga aksidentet në punë, sipas rregullave të sigurimit, të përcaktuara nga Këshilli i Ministrave.
-6. Të sigurojë shërbimet mjekësore në zonën e lejuar apo pranë saj, sipas legjislacionit në fuqi.
+6. Të sigurojë shërbimet mjekësore në zonën e lejuar apo pranë saj, sipas legjislacionit në fuqi
 7. Të ndërmarrë trajnimin e detyrueshëm të personelit, sipas legjislacionit në fuqi.
 8. Të lejojë dhe të krijojë kushtet optimale për inspektimin e operacioneve të punës nga strukturat përgjegjëse.
 9. Ta ushtrojë veprimtarinë minerare në përputhje me legjislacionin për mbrojtjen e mjedisit.
