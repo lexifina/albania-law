@@ -3,7 +3,7 @@ Detyrimet e zotëruesit të lejes së kërkim-zbulimit për grupin
 e mineraleve ndërtimore
 1. Zotëruesi i lejes së kërkimit-zbulimit për grupin e mineraleve ndërtimore ka këto detyrime:
 a) të realizojë programin minimal të punës, të përcaktuar në projektin e zhvillimit të veprimtarisë minerare;
-b) t’i raportojë strukturës përgjegjëse për punën e bërë në zonën e tij të kërkim-zbulimit, për shpenzimet dhe rezultatet e arritura, çdo 3 muaj, jo më vonë se data 15 e muajit që vijon pas tremujorit përkatës;
+b) t’i paraqesë strukturës përgjegjëse, në përfundim të afatit të vlefshmërisë së lejes, raportin gjeologjik tekniko-ekonomik me një informacion të detajuar për punimet e kryera në zonën e lejuar, investimet e realizuara, rezultatet e provave të marra, sasinë e rezervave dhe materialin grafik ilustrues.
 c) t’i raportojë strukturës përgjegjëse, në përfundim të afatit të së drejtës së kërkim-zbulimit, përmes një informacioni të hollësishëm, për investimet e realizuara gjatë kërkim-zbulimit, për punimet e kryera në zonën e tij të lejuar, shoqëruar me vizatimet inxhinierike dhe për rezultatet e të gjitha provave të marra;
 ç) të marrë të gjitha masat e nevojshme për të parandaluar dhe për të zbutur ndikimet negative në mjedis, peizazh, dëmtimin e bimësisë ose pasurive të tjera;
 d) të rehabilitojë të gjitha dëmtimet e sipërfaqes së tokës, të bëra gjatë zbulimit;

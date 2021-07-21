@@ -1,7 +1,12 @@
 # Neni 57
 Shtrirja e efekteve për lejet e dhëna
 1. Shfuqizuar.
-2. Për të drejtat minerare të fituara në bazë të ligjit nr. 7796, datë 17.2.1994 “Ligji minerar i Shqipërisë”, i ndryshuar, sipërfaqja e zonës së lejuar dhe afati i miratuar nuk ndryshojnë me hyrjen në fuqi të këtij ligji, deri në përfundim të afatit të miratuar. Aplikimi për shtyrje afati kryhet në përputhje me këtë ligj.
+2. Për të drejtat minerare të fituara në bazë të ligjit nr. 7796, datë 17.2.1994, “Ligji minerar i Shqipërisë”, të ndryshuar, sipërfaqja e zonës së lejuar dhe afati i miratuar nuk ndryshojnë me hyrjen në fuqi të këtij ligji deri në përfundim të afatit të miratuar.
+Zotëruesi i lejes së shfrytëzimit të grupit të mineraleve metalore ka të drejtën e shtyrjes së afatit të vlefshmërisë dy herë: shtesa e parë me të drejtë shtyrjeje 10 vjet dhe shtesa e dytë me të drejtë shtyrjeje 5 vjet, me kusht që kjo shtyrje të kërkohet çdo herë të paktën 365 ditë kalendarike para përfundimit të afatit të vlefshmërisë.
+Zotëruesi i lejes së shfrytëzimit të grupit të mineraleve ndërtimore ka të drejtën e shtyrjes së afatit të vlefshmërisë tri herë: shtesa e parë me të drejtë shtyrjeje 10 vjet, shtesa e dytë me të drejtë shtyrjeje 10 vjet dhe shtesa e tretë me të drejtë shtyrjeje 5 vjet, me kusht që kjo shtyrje të kërkohet çdo herë të paktën 180 ditë kalendarike para përfundimit të afatit të vlefshmërisë.
+Afati i aplikimit është prekluziv dhe me kalimin e këtij afati zotëruesi i lejes minerare humbet të drejtën e aplikimit për shtyrje të afatit të lejes së shfrytëzimit.
+Në çdo rast të kërkesës për shtyrje të afatit të vlefshmërisë, zotëruesi i lejes së shfrytëzimit duhet të paraqesë për shqyrtim pranë strukturës përgjegjëse një plan të hollësishëm me afate për zhvillimin e veprimtarisë minerare, në bazë të kërkesave të legjislacionit minerar në fuqi. Ky plan përfshin tërësinë e dokumentacionit teknik, ekonomik, financiar, social, mjedisor, si dhe vlerën e investimit me afatet për lejet e shfrytëzimit, duke garantuar financimin për realizimin e tij.
+Plani miratohet nga strukturat përgjegjëse jo më vonë se 30 ditë nga data e paraqitjes së tij. Në rast mosmiratimi, struktura përgjegjëse e njofton zotëruesin e lejes minerare për arsyet e këtij mosmiratimi. Përmbajtja e planit të punës dhe dokumentet e tjera të nevojshme që e shoqërojnë duhet të jenë në përputhje me aktet nënligjore të miratuara nga ministri.
 2/1. Ndryshimi i koordinatave në lejen minerare lejohet në raste të veçanta, për lejet ekzistuese, të dhëna në bazë të ligjit nr. 7796, datë 17.2.1994, “Ligji minerar i Shqipërisë”, të ndryshuar, kufijtë e të cilave janë dhënë në hapësirë me 3 koordinata, sipas kushteve të përcaktuara me vendim të Këshillit të Ministrave.
 3. Kërkesat dhe afatet e nenit 31 të këtij ligji i shtrijnë efektet për të gjitha lejet minerare, që janë dhënë përpara hyrjes në fuqi të këtij ligji. Zotëruesit e lejes minerare duhet të plotësojnë këto kërkesa brenda 1 viti nga hyrja në fuqi e këtij ligji.
 4. Zotëruesit e lejeve minerare, që shfrytëzojnë zonën dhe trupin minerar nëpërmjet galerive nëntokësore të zotëruesve të tjerë të lejeve minerare, duhet të marrin masa që, brenda 1 viti nga hyrja në fuqi e këtij ligji, të lidhin marrëveshjen, sipas nenit 35 të ligjit, ose të realizojnë hapjen e galerive të tyre.
@@ -10,5 +15,5 @@ Dispozitë kalimtare
 (vendosur me ligjin nr.9/2013, datë 14.2.2013)
 Organi ekzistues inspektues vazhdon të ushtrojë funksionin e vet sipas organizimit aktual deri në krijimin e organit të ri, sikurse parashikohet në ndryshimet e bëra në këtë ligj.
 Dispozitë kalimtare
-(vendosuar me ligjin nr. 68/2019, datë 9.10.2019)
+(vendosur me ligjin nr. 68/2019, datë 9.10.2019)
 Licencat aktuale për kryerjen e veprimtarive studimore-projektuese në fushën minerare, të lëshuara përpara hyrjes në fuqi të këtij ligji, ruajnë vlefshmërinë e tyre deri në përfundim të afatit për të cilin janë lëshuar.
