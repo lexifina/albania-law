@@ -1,0 +1,1 @@
+1. Miratimin e “Marrëveshjes operacionale tip” që do të lidhet midis Organizatës BID dhe Bashkisë përkatëse, sipas modelit të marrëveshjes operacionale bashkëngjitur në shtojcën A të këtij udhëzimi dhe që është pjesë përbërëse integrale e tij.
