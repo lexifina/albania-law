@@ -1,0 +1,4 @@
+# Neni 13
+Procedura në rast të pengesës ligjore dhe konflikti të interesit
+1. Anëtari i Komisionit, nëse ndodhet në kushtet e konfliktit të interesit ose të pengesës ligjore, nuk merr pjesë në veprimtaritë dhe mbledhjet e Komisionit për çështjen ose rastin për të cilin ekzistojnë kushtet e konfliktit të interesit ose pengesës ligjore.
+2. Në rastin kur në lidhje me çështje të caktuara që trajtohen në veprimtaritë dhe mbledhjet e Komisionit, anëtari i Komisionit vihet në dijeni të rrethanave të tilla që, sipas ligjit, e vendosin atë vetë ose një anëtar tjetër, përpara njërit prej rasteve të konfliktit të interesit ose të pengesës ligjore, njofton menjëherë kryetarin e Komisionit dhe deklaron arsyet konkrete që sjellin pengesë për pjesëmarrjen në përgatitjen, diskutimin dhe miratimin e çështjes përkatëse.

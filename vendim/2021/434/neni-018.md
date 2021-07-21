@@ -1,0 +1,5 @@
+# Neni 18
+Zgjedhja e anëtarëve të Komisionit dhe mbledhja e parë e tij
+1. Jo më vonë se 15 (pesëmbëdhjetë) ditë nga data e hyrjes në fuqi të këtij vendimi, organet e emërtesës fillojnë procedurën për caktimin e anëtarit, në përputhje me kriteret e përcaktuara në ligjin në fuqi për ekzekutimin e vendimeve penale dhe këtë vendim.
+2. Jo më vonë se 60 (gjashtëdhjetë) ditë nga data e fillimit të procedurës për caktimin e anëtarit, organi i emërtesës njofton ministrin e Drejtësisë për emrin dhe të dhënat e kontaktit të anëtarit që ka caktuar në Komision.
+3. Ministri i Drejtësisë, jo më vonë se 10 (dhjetë) ditë nga data e marrjes së njoftimit nga organi i emërtesës që ka caktuar i fundit anëtarin e tij, thërret mbledhjen e parë të Komisionit. Në rast se organet e emërtesës nuk kanë njoftuar emrin e anëtarit të caktuar, pas përfundimit të afatit të përcaktuar në pikën 2, të këtij neni, ministri i Drejtësisë thërret mbledhjen e parë të Komisionit kur janë njoftuar caktimi i të paktën 5 (pesë) anëtarëve nga organet e emërtesës.

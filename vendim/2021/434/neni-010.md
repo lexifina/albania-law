@@ -1,0 +1,4 @@
+# Neni 10
+Përgatitja e mbledhjeve të Komisionit
+1. Përcaktimi i çështjeve të rendit të ditës dhe caktimi i ditës së zhvillimit të mbledhjes së Komisionit bëhet nga kryetari, duke mbajtur parasysh mendimin e anëtarëve. Në rendin e ditës përfshihen edhe çështjet që mund të propozohen, me shkrim nga secili prej anëtarëve të tjerë të Komisionit. Nëse dita e mbledhjes së Komisionit është paracaktuar në mbledhjen paraardhëse, njoftimi i anëtarit për çështje që duhet të përfshihen në rendin e ditës duhet të paraqitet jo më vonë se 3 (tre) ditë nga ajo e caktuar për zhvillimin e mbledhjes.
+2. Për përgatitjen e çështjeve të rendit të ditës dhe të dokumentacionit përkatës, kryetari i Komisionit dhe anëtarët nismëtarë për çështjet përkatëse mbështeten nga nëpunës civilë të strukturës përgjegjëse ose, rast pas rasti, nga punonjës të Drejtorisë së Përgjithshme të Burgjeve, sipas përcaktimit të nenit 17, të këtij vendimi.
