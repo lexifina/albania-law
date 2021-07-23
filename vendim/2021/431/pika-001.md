@@ -1,0 +1,1 @@
+1. Në ministritë e linjës krijohen pozicione pune apo sektorë për zvogëlimin e riskut nga fatkeqësitë dhe mbrojtjen civile, bazuar në specifikat, fushën e përgjegjësisë shtetërore dhe kompetencat e secilës ministri.

@@ -1,0 +1,1 @@
+5. Vendimi nr. 655, datë 18.12.2002, i Këshillit të Ministrave, “Për ngritjen dhe funksionimin e strukturës së Sistemit Kombëtar të Planifikimit dhe të Përballimit të Emergjencave Civile”, shfuqizohet.
