@@ -1,0 +1,1 @@
+7. Për personin juridik privat, qendra “Epitech Albania”, administrator i degës “Epitech Albania”, mund të aplikohen masa të tjera, sipas akteve ligjore dhe nënligjore në fuqi, në rast të moszbatimit të këtij urdhri.

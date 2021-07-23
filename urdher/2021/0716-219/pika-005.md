@@ -1,0 +1,1 @@
+5. Personi juridik, qendra “Epitech Albania”, duhet të marrë masa që të ketë në dispozicion staf administrativ dhe personel akademik të nevojshëm deri në mbylljen dhe përfundimin e procesit, sipas afateve të përcaktuara në këtë urdhër.

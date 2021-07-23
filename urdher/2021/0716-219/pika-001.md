@@ -1,0 +1,1 @@
+1. Mbylljen e degës “Epitech Albania”, si njësi bazë “Ekspert i Teknologjisë së Informacionit”, i njësisë kryesore “Ekspert i Teknologjisë së Informacionit” të institucionit të arsimit të lartë të huaj “Ecole pour l’Informatique et les Nouvelle Technologies (EPITECH)” dhe ndërprerjen e veprimtarisë së saj akademike.
