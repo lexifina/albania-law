@@ -1,3 +1,0 @@
-# Nënshkrimi
-KRYEMINISTRi
-Fatos Nano

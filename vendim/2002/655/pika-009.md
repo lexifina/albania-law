@@ -1,1 +1,0 @@
-9. Vendimi nr.292, datë 27.3.1995 i Këshillit të Ministrave “Për kalimin e shërbimit të MCR-së në Ministrinë e Brendshme” dhe çdo vendim e strukturë tjetër që bie në kundërshtim me këtë vendim, shfuqizohen.
