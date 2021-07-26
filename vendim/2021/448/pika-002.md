@@ -1,0 +1,1 @@
+2. Kategoritë, që përfitojnë falas tekstet shkollore të botuara, të siguruara nga Qendra e Botimeve për Diasporën, janë nxënësit dhe mësuesit, sipas përcaktimeve të vendimit nr. 443, datë 26.6.2019, të Këshillit të Ministrave, “Për organizimin e procesit mësimor dhe përzgjedhjen e arsimtarëve në diasporë”.

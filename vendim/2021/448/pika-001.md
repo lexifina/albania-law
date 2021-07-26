@@ -1,0 +1,1 @@
+1. Me qëllim mbështetjen e mësimit të gjuhës shqipe dhe të kulturës shqiptare në diasporë, Qendra e Botimeve për Diasporën boton, siguron dhe shpërndan për kategoritë që përfitojnë falas tekstet shkollore për vitin shkollor 2021-2022, sipas listës 1, që i bashkëlidhet këtij vendimi.
