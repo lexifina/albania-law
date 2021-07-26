@@ -1,0 +1,1 @@
+4. Misionet diplomatike dhe postet konsullore të Republikës së Shqipërisë, të akredituara në vendet e përmendura në pikën 3, të këtij vendimi, bëjnë propozimet për kandidatët për përfitimin e bursës për shtetasit e huaj me origjinë shqiptare për vitin akademik 2021-2022. Ato janë përgjegjëse për dërgimin e dokumentacionit të kërkuar për kandidatët përfitues të bursës.

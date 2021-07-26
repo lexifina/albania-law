@@ -1,0 +1,1 @@
+2. Bursa e studimit për shtetasit e huaj me origjinë shqiptare përfshin mbulimin financiar për tarifën e studimeve, si dhe shpenzimet e akomodimit e të ushqimit për kohëzgjatjen e vitit akademik, në masën e përcaktuar në aneksin 1, që i bashkëlidhet këtij vendimi.
