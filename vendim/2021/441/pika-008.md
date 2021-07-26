@@ -1,0 +1,1 @@
+8. Ofertat duhet të dorëzohen dorazi në adresën e përcaktuar në dokumentet e procedurës konkurruese dhe brenda afatit. Çdo ofertë e dorëzuar pas afatit të përcaktuar do t’i kthehet e pahapur ofertuesit.

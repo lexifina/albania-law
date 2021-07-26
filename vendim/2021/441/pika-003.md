@@ -1,0 +1,1 @@
+3. Me miratimin e planit të detajuar vendor ose, në mungesë të tij, planin e përgjithshëm vendor, struktura përgjegjëse në njësinë e vetëqeverisjes vendore identifikon pronësinë e tokës në zonën që do të zhvillohet me qëllim strehimi.

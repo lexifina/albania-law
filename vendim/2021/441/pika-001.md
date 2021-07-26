@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është të rregullojë procedurat e përzgjedhjes dhe të kontraktimit të subjekteve private që do të hyjnë në marrëveshje me njësitë e vetëqeverisjes vendore për ndërtimin e banesave në zonat e zhvilluara me qëllim strehimin, sipas formave të përcaktuara në shkronjat “a” dhe “c”, të pikës 2, të nenit 52, të ligjit nr. 22/2018.

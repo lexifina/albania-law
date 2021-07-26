@@ -1,0 +1,1 @@
+9. Ofertat do të dorëzohen në dy zarfe të vulosura me vulën e kandidatit/ofertuesit pjesëmarrës në konkurrim, ku në njërin duhet të jetë shënuar “Origjinal” dhe te tjetri “Kopje”. Mosparaqitja sipas përcaktimit bën që oferta të skualifikohet dhe dokumentacioni nuk do t’i kthehet kandidatit/ofertuesit.
