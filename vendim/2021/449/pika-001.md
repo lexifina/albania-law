@@ -1,0 +1,1 @@
+1. Miratimin e çmimeve të shitjes të teksteve të botuara nga Qendra e Botimeve për Diasporën, botimi dygjuhësh “Tregime të moçme shqiptare” dhe revista letrare “Letra nga diaspora”, sipas listës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, me qëllim mundësimin e ruajtjes, të zhvillimit e të mësimit të gjuhës shqipe dhe të kulturës shqiptare në diasporë.

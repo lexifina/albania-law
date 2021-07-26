@@ -1,0 +1,1 @@
+4. Çmimi i teksteve të botuara nga Qendra e Botimeve të Diasporës “Tregime të moçme shqiptare” dhe “Letra nga diaspora” vendoset në kopertinat përkatëse, në përputhje me listën nr. 1, që i bashkëlidhet këtij vendimi.
