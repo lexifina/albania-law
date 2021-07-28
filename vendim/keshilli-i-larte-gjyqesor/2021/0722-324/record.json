@@ -1,0 +1,26 @@
+{
+  "qbz_id": 23370,
+  "title": "Për një ndryshim në vendimin e Këshillit të Lartë Gjyqësor nr.7, datë 21.12.2018 \"Rregullore për miratimin e rregulave për zgjedhjen e zëvendëskryetarëve të Gjykatave\"",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "324",
+  "institution": "Këshilli i Lartë Gjyqësor",
+  "adopted": "2021-07-22",
+  "published": "2021-07-28",
+  "in_force": "2021-07-28",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3991ab37d9fce5b39e9f6315d87afa51deab62a294e3fdd55cdf5b6b063e313e.docx",
+  "source_sha256": "3991ab37d9fce5b39e9f6315d87afa51deab62a294e3fdd55cdf5b6b063e313e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23370",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/07/22/324",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
