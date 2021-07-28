@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 17 543 430 (shtatëmbëdhjetë milionë e pesëqind e dyzet e tre mijë e katërqind e tridhjetë) lekësh, të përballohet nga buxheti i Bashkisë Durrës për vitin 2021.
