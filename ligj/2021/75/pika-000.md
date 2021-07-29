@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 21, datë 19.5.2021, “Për miratimin e tekstit të marrëveshjes së furnizimit ndërmjet Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, Ministrit të Shtetit për Rindërtimin e Institutit të Shëndetit Publik dhe distributorit të autorizuar ’Keymen Ilaç Sanayi ve Ticaret A.S.’”.
