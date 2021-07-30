@@ -1,0 +1,26 @@
+{
+  "qbz_id": 23333,
+  "title": "Për miratimin e rregullores \"Për krijimin dhe funksionimin e shoqërisë për administrimin e aktiveve\"",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "33",
+  "institution": "Banka e Shqipërisë",
+  "adopted": "2021-07-07",
+  "published": "2021-07-15",
+  "in_force": "2021-07-30",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/57d87366bdb0fa1d52bb2e458037dd67992571d0054c56a696a094bc39d1b57d.docx",
+  "source_sha256": "57d87366bdb0fa1d52bb2e458037dd67992571d0054c56a696a094bc39d1b57d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23333",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/07/07/33",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
