@@ -1,0 +1,1 @@
+2. Ndryshimi i referencës ligjore në Standardet Kombëtare të Kontabilitetit të përmirësuara e shtrin efektin që në datën e hyrjes në fuqi të ligjit nr. 25/2018, “Për kontabilitetin dhe pasqyrat financiare”, në datën 1 janar 2019.
