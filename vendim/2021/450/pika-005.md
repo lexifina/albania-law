@@ -1,0 +1,1 @@
+5. Në rast të konstatimit të mospërdorimit të materialeve dhe të pajisjeve sportive, sipas qëllimit për të cilin janë importuar nga organizatat sportive shqiptare, ministria përgjegjëse për sportin informon Drejtorinë e Përgjithshme të Doganave.

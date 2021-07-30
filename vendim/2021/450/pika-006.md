@@ -1,0 +1,1 @@
+6. Vendimi nr. 306, datë 24.5.2006, i Këshillit të Ministrave, “Për miratimin e listës së materialeve dhe të pajisjeve sportive, që do të përjashtohen nga detyrimet doganore dhe tatimi mbi vlerën e shtuar”, të ndryshuar, shfuqizohet.
