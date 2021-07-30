@@ -1,0 +1,1 @@
+3. Administrimi i provimeve të Maturës Shtetërore 2021 dhe të Maturës Shtetërore Profesionale 2021, sesioni dytë, bazohet në Rregulloren e Maturës Shtetërore, miratuar me urdhrin e ministrit të Arsimit, Sportit dhe Rinisë.

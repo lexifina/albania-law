@@ -1,0 +1,1 @@
+13. Shpenzimet e përfaqësuesve të MASR-së në monitorimin e provimeve të Maturës Shtetërore 2021 dhe të Maturës Shtetërore Profesionale 2021, sesioni i dytë, të përballohen nga institucionet përkatëse, sipas dispozitave në fuqi.

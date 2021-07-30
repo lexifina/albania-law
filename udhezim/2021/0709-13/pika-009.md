@@ -1,0 +1,1 @@
+9. Provimet të zhvillohen të përqendruara në ZVAP. ZVAP-të të përcaktojnë qendrat dhe mjediset ku maturantët/kandidatët do të zhvillojnë provimin, duke mundësuar përqendrimin e tyre, sipas kushteve dhe numrit të maturantëve/kandidatëve.

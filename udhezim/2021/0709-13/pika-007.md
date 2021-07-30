@@ -1,0 +1,1 @@
+7. Maturantët/kandidatët e përcaktuar në pikën 5, shkronja “b”, “c” dhe “ç”, të këtij udhëzimi, të plotësojnë formularin AlZ, për dhënien e provimeve të sesionit të dytë të Maturës Shtetërore dhe të Maturës Shtetërore Profesionale 2021, nëse nuk e kanë plotësuar atë në sesionin e parë. Këta kandidatë të plotësojnë formularin A1Z, në datat 18-20 gusht 2021.
