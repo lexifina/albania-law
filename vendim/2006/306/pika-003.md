@@ -1,1 +1,0 @@
-3. Ngarkohet Ministria e Turizmit, Kulturës, Rinisë dhe Sportive të kontrollojë procedurat e shpërndarjes së materialeve, që kanë përfituar përjashtim nga detyrimet doganore, sipas dokumentacionit të dorëzuar nga organizatat sportive.
