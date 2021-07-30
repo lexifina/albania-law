@@ -1,0 +1,1 @@
+4. Në rast se gjatë inspektimeve Drejtoria e Përgjithshme Detare konstaton mjete lundruese që nuk i përmbushin kushtet e përcaktuara në ligj, njofton shërbimet e Policisë Kufitare dhe Migracionit për marrjen e masave administrative.

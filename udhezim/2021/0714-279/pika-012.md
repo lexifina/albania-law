@@ -1,0 +1,1 @@
+12. Në rastet e dënimit me gjobë një kopje e vendimit për vendosjen e gjobës i dorëzohet kundërvajtësit kundrejt firmës dhe pretendimeve të tij, një kopje i dorëzohet Sektorit të Financës në komisariatin/drejtorinë e kufirit dhe migracionit dhe kopja e tretë qëndron në fletën e bllokut të gjobave në stacionin e Policisë Kufitare.

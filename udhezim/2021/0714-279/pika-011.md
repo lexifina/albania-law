@@ -1,0 +1,1 @@
+11. Kur konstatohen shkelje në fabrikat, kantieret detare, ofiçinat e prodhimit dhe riparimit të mjeteve lundruese, referuar germës “ë”, të pikës 1 dhe 3, të nenit 14 të ligjit, shefi i stacionit të Policisë Kufitare merr vendim bazuar në procesverbalin e konstatimit të shkeljes, sipas modelit nr. 7 dhe 8, pjesë përbërëse e këtij udhëzimi.

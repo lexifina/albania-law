@@ -1,0 +1,1 @@
+6. Për shpenzimet e ndërhyrjes, të transportit, të parkimit dhe të zhbllokimit të mjetit lundrues, të kryera nga policia, aplikohen tarifat e përcaktuara sipas pikave 4 dhe 5, të urdhrit nr. 35, datë 5.2.2016, “Për miratimin e tarifave për shërbimet e ofruara nga Policia e Shtetit”, të ministrit të Brendshëm dhe të ministrit të Financave dhe Ekonomisë.

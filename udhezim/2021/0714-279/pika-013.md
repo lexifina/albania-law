@@ -1,0 +1,1 @@
+13. Në zbatim të pikës 3, të nenit 14 të ligjit, dënimi me gjobë mund të shoqërohet me masën plotësuese të mbylljes së fabrikës/kantierit detar/ofiçinës nga 30 (tridhjetë) deri në 60 (gjashtëdhjetë) ditë.
