@@ -2319,3 +2319,1325 @@ S H U M A
 1,224,874,430.42
 Shënim: 1. Vlerësimi për objektet është kryer bazuar në VKM-në nr. 138, datë 23.3.2000
 2. Vlerësimi i pasurisë së llojit “tokë truall” dhe “tokë arë”, është kryer bazuar në VKM-në nr. 89, datë 3.2.2016.
+LISTA EMËRORE E PRONARËVE TË PASURIVE, PRONË PRIVATE, PASURITË E PALUAJTSHME TË TË CILËVE, PREKEN NGA DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR. 231, DATË 17.04.2019 TË KËSHILLIT TË MINISTRAVE, “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT “REHABILITIMI I SEGMENTIT RRUGOR ’PALLATI ME SHIGJETA - RRETHRROTULLIMI ’SHQIPONJA’”’, I NDRYSHUAR
+Nr.
+Emri
+Atësia
+Mbiemri
+TOKË TRUALL
+TOKË ARË
+NDËRTESË SOC. EK
+OBJEKT BANIMI
+VLERA totale (LEKË)
+SHËNIME
+Zona kadastrale
+Numri i pasurisë
+Sip. totale m2
+Lloji i pasurisë
+Sipërfaqja
+Çmimi
+Vlera
+Sipërfaqja
+Çmimi
+Vlera
+Sipërfaqja
+Vlera sipas preventivit
+Sipërfaqja
+Çmimi
+Vlera
+e shpr. (m2)
+(lekë/m2)
+lekë
+e shpr. (m2)
+(lekë/m2)
+lekë
+e shpr.(m2)
+lekë
+e shpr.(m2)
+m2
+lekë
+1
+Bp Llagami,Saraçi
+8210
+7/272
+680
+truall
+680
+38,614.00
+26,257,520.00
+26,257,520.00
+Konfirmuar nga ASHK-ja
+2
+Bp Peto, Rebeshi
+8210
+7/533
+1937
+truall
+310.6
+38,614.00
+11,993,508.40
+11,993,508.40
+Konfirmuar nga ASHK-ja
+3
+Erjon
+Dashi
+Satko
+8210
+7/475
+1422
+truall
+28.8
+38,614.00
+1,112,083.20
+1,112,083.20
+Konfirmuar nga ASHK-ja
+4
+Bp Llagami,Saraçi
+8210
+7/503
+805.6
+truall
+30
+38,614.00
+1,158,420.00
+1,158,420.00
+Konfirmuar nga ASHK-ja (në seksionin D dhe E ka shënimin që mbi këtë pas ka ndërtime informale dhe formale)
+5
+Bp Llagami,Saraçi
+8210
+7/413
+400
+truall
+57
+38,614.00
+2,200,998.00
+2,200,998.00
+Konfirmuar nga ASHK-ja
+6
+Bp Llagami,Saraçi
+8210
+7/530
+255.5
+truall
+186.3
+38,614.00
+7,193,788.20
+7,193,788.20
+Konfirmuar nga ASHK-ja
+7
+Dashi
+Alo
+Satko
+8210
+7/476
+378
+truall
+77.9
+38,614.00
+3,008,030.60
+3,008,030.60
+Konfirmuar nga ASHK-ja
+8
+Bp Llagami,Saraçi
+2679
+440/434
+1050
+truall
+1050
+4,242.00
+4,454,100.00
+4,454,100.00
+Konfirmuar nga ASHK-ja
+9
+Bp Mema, Hyseni, Dorezi, Daiu, Sumbulla
+2679
+440/71
+300
+arë
+206.6
+448
+92,556.80
+92,556.80
+Konfirmuar nga ASHK-ja
+10
+Bp Dervishi, Boçi
+2679
+440/69
+385
+arë
+191
+448
+85,568.00
+85,568.00
+Sek. konsv. nr. 87 prot. datë 18.1.2013
+11
+Bp Dervishi, Boçi
+2679
+440/68
+2000
+arë
+220.8
+448
+98,918.40
+98,918.40
+Sek. konsv. nr. 87 prot. datë 18.1.2014
+12
+Euro-alba-ea shpk
+8310
+12/127
+217
+truall
+21.8
+31,219.00
+680,574.20
+0.00
+680,574.20
+Barrë hipotekore nga Drejtoria e Tatimeve
+13
+Euro-alba-ea shpk
+8310
+12/51
+5443.7
+truall
+199
+31,219.00
+6,212,581.00
+0.00
+0
+6,212,581.00
+Konfirmuar nga ASHK-ja (në seksionin D ka shënimin që mbi këtë truall ndodhet pas me nr. 12/2ND dhe seksionin E ka shënimin ka ndërtim informal)
+14
+Bolv-oil sha
+8310
+12/301
+15432.5
+truall
+141
+31,219.00
+4,401,879.00
+0.00
+0
+4,401,879.00
+Në favor të “Raiffeizen Bank” sh.a. për shumen 5.5 milion euro
+15
+Bp, Spiro , bejleri, Berami, Shijaku
+8310
+12/304
+1251
+truall
+212.7
+31,219.00
+6,640,281.30
+0.00
+0
+6,640,281.30
+Në dispozicion të palës sipërmarrëse shoqëria “Rinia 04” sh.p.k.
+16
+Besnik
+Myrtaj
+8310
+12/24
+300
+truall + ndërtesë
+300
+31,219.00
+9,365,700.00
+0.00
+112
+1,454,546.48
+0
+10,820,246.48
+Në dispozicion të palës sipërmarrëse shoqëria “Rinia 04” sh.p.k.
+17
+Gentian
+Bashkim
+Leskaj
+8310
+12/23
+678
+truall
+57.7
+31,219.00
+1,801,336.30
+0.00
+0
+1,801,336.30
+Në dispozicion të palës sipërmarrëse shoqëria “Rinia 04” sh.p.k.
+18
+Bp Lika,Velo,Sulstarova etj.
+8310
+12/139
+882
+truall
+862.6
+31,219.00
+26,929,509.40
+0.00
+0
+26,929,509.40
+Konfirmuar nga ASHK-ja (në seksionin E ka shënimin mbi këtë pas ka tri ndërtime të paligjshme)
+19
+Anton
+Gjinaj
+8310
+12/115
+1337
+truall
+48.1
+31,219.00
+1,501,633.90
+0.00
+0
+1,501,633.90
+Hipotekohet në favor të “Procredit Bank” për shumën 2 milionë euro
+20
+Sefedin
+Bitri
+8310
+12/116
+850
+truall
+104
+31,219.00
+3,246,776.00
+0.00
+0
+3,246,776.00
+Konfirmuar nga ASHK-ja (në seksionin E ka shënimin mbi këtë pas ka dy ndërtime të paligjshme)
+21
+Bp. Canameri , Çelmeta, Agolli
+8310
+12/21
+922
+truall
+141.4
+31,219.00
+4,414,366.60
+0.00
+0
+4,414,366.60
+Në favor te shoqëria “M.C inerte” sh.p.k.
+22
+Bp Sinani, Veshi,Dado, Çarçani,Gulo,Kondakçiu,Durrsi, Shahu,Zoto
+8310
+12/19
+3934.66
+truall
+23.8
+31,219.00
+743,012.20
+0.00
+0
+743,012.20
+Konfirmuar nga ASHK-ja
+23
+Colombo II Sh.p.k. Veko Sh.p.k.
+8310
+12/298
+6000
+truall
+562.5
+31,219.00
+17,560,687.50
+0.00
+0
+17,560,687.50
+Konfirmuar nga ASHK-ja (në seksionin E ka shënimin mbi këtë pas ka ndërtime të paligjshme)
+24
+Bp Doçi, ALB STAR, Gjinaj, Resuli, Elshani, Euro shpk Alba EA, Bitri, Manushi, Istrefi
+8310
+12/117
+5488
+truall
+94.3
+31,219.00
+2,943,951.70
+0.00
+0
+2,943,951.70
+Sek. konserv. mbi pjesën prej 3.5 % të A. Gjinaj me nr. 150/1 prot. datë 20.2.2012
+25
+Arben
+Lush
+Qokaj
+2679
+440/338
+190.1
+truall
+87.5
+4,242.00
+371,175.00
+0.00
+0
+371,175.00
+Konfirmuar nga ASHK-ja
+26
+Banka
+Amerikane
+Investimeve
+2679
+440/53
+1730
+truall
+186
+4,242.00
+789,012.00
+0.00
+0
+789,012.00
+Masë sekuestro nr. 10294 datë 29.8.2016
+27
+Skender
+Doda
+2679
+440/298
+500
+truall
+8.4
+4,242.00
+35,632.80
+0.00
+0
+35,632.80
+konfirmuar nga ASHK
+28
+Ismail
+Xhetan
+Nesimi
+2679
+440/337
+326.2
+truall
+39
+4,242.00
+165,438.00
+0.00
+0
+165,438.00
+Në favor të “Banka Societe Generale Albania” sha.a
+29
+Bashkim
+Kraja
+2679
+440/430
+96
+truall
+12.2
+4,242.00
+51,752.40
+0.00
+0
+51,752.40
+Konfirmuar nga ASHK-ja
+30
+Fiqirete
+Muharem
+Shima
+2679
+440/278
+205
+truall
+14.7
+4,242.00
+62,357.40
+0.00
+0
+62,357.40
+Konfirmuar nga ASHK-ja
+31
+Flamur
+Matosh
+DajÇi
+2679
+440/327
+714.8
+truall
+32.2
+4,242.00
+136,592.40
+0.00
+0
+136,592.40
+Konfirmuar nga ASHK-ja
+32
+Rasim
+Tahir
+Kraja
+2679
+440/432
+217.7
+truall
+27.5
+4,242.00
+116,655.00
+0.00
+0
+116,655.00
+Konfirmuar nga ASHK-ja
+33
+Ramiz
+Skender
+UruÇi
+2679
+440/365
+293
+truall + ndërtesë
+34.2
+4,242.00
+145,076.40
+0.00
+428.1
+53500
+22903350
+23,048,426.40
+Konfirmuar nga ASHK-ja
+34
+Latif
+Ramiz
+Perkola
+2679
+440/416
+481
+truall
+40.5
+4,242.00
+171,801.00
+0.00
+0
+171,801.00
+Konfirmuar nga ASHK-ja
+35
+Mustafa
+Novruz
+TaÇi
+3866
+306/352
+270
+ndërtesë
+0.00
+0.00
+189.30
+5,141,297.82
+0
+5,141,297.82
+Në favor të “BKT”
+36
+Lefterie
+Gjoka
+8310
+10/243
+1190
+truall
+80.6
+31,219.00
+2,516,251.40
+0.00
+0
+2,516,251.40
+Konfirmuar nga ASHK-ja
+37
+V8F208 - V8F219
+8310
+12/17,
+580
+truall
+134.16
+31,219.00
+4,188,341.04
+4,188,341.04
+Konfirmuar nga ASHK me shkresën nr.12617/1 prot., datë 10.01.2020. Në pritje të saktësimit te bashkëpronarëve nga ASHK, Drejtoria Vendore Tirana Veri.
+38
+Ilir
+Enver
+Hoxha
+8310
+12/17+1-12
+89.85
+apartament
+89.85
+70000
+6289500
+6,289,500.00
+Konfirmuar nga ASHK-ja
+39
+Ilir Enver Hoxha Teuta Reshat Hoxha
+8310
+12/17+1-8
+97.1
+apartament
+97.1
+70000
+6797000
+6,797,000.00
+Konfirmuar nga ASHK-ja
+40
+Rustem
+Shefqet
+Peçi
+8310
+12/17+1-5
+61.7
+apartament
+61.7
+70000
+4319000
+4,319,000.00
+Konfirmuar nga ASHK-ja
+41
+Spartak
+Haki
+Toska
+8310
+12/17+1-7
+90.5
+apartament
+90.5
+70000
+6335000
+6,335,000.00
+Konfirmuar nga ASHK-ja (seksioni E vendoset masë e sekuestros konservative)
+42
+Ekaterina Mihal Toska Hektor Haki Toska
+8310
+12/17+1-6
+81.9
+apartament
+81.9
+70000
+5733000
+5,733,000.00
+Konfirmuar nga ASHK-ja (seksioni E vendoset masë e sekuestros konservative)
+43
+Hasan
+Pasho
+Paja
+8310
+12/17+1-3
+97.1
+apartament
+97.1
+70000
+6797000
+6,797,000.00
+Konfirmuar nga ASHK-ja
+44
+Mimoza
+Polikron
+Lace
+8310
+12/17+1-11
+23.6
+apartament
+23.6
+70000
+1652000
+1,652,000.00
+Konfirmuar nga ASHK-ja
+45
+Blerina
+Klement
+Kolaneci
+8310
+12/17+1-9
+83.9
+apartament
+83.9
+70000
+5873000
+5,873,000.00
+Konfirmuar nga ASHK-ja
+46
+Blerina
+Klement
+Kolaneci
+8310
+12/17+1-10
+47
+apartament
+47
+70000
+3290000
+3,290,000.00
+Konfirmuar nga ASHK-ja
+47
+Arif
+Ibrahim
+Murati
+8310
+12/17+1-2
+90.5
+apartament
+90.5
+70000
+6335000
+6,335,000.00
+konfirmuar nga ASHK-ja (urdhër kufizimi seksioni E në favor të “Union Bank”)
+48
+Shefqet Isa Peci Xhano Muharrem Peci
+8310
+12/17+1-5/1
+61.7
+apartament
+61.7
+70000
+4319000
+4,319,000.00
+Konfirmuar nga ASHK-ja
+49
+Gerantina Felek Peçi Rustem Shefqet Peçi
+8310
+12/17+1-4/1
+64.5
+apartament
+64.5
+70000
+4515000
+4,515,000.00
+Konfirmuar nga ASHK-ja
+50
+Gerantina Felek Peçi Rustem Shefqet Peçi
+8310
+12/17+1-4
+64.5
+apartament
+64.5
+70000
+4515000
+4,515,000.00
+Konfirmuar nga ASHK-ja
+51
+Bp(Bumçi,Koleka)
+8310
+12/17+1-1
+83.79
+apartament
+83.79
+70000
+5865300
+5,865,300.00
+Konfirmuar nga ASHK-ja
+SHUMA TOTALE
+5,886.46
+152,570,822.34
+618.40
+277,043.20
+301.30
+6,595,844.30
+1,465.74
+95,538,150.00
+254,981,859.84
+LISTA EMËRORE E PRONARËVE TË PASURIVE, PRONË PRIVATE, PASURITË E PALUAJSTHME TË TË CILËVE, PREKEN NGA DISA NDRYSHIME NË VENDIMIN NR. 231, DATË 17.4.2019 TË KËSHILLIT TË MINISTRAVE, “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT “REHABILITIMI I SEGMENTIT RRUGOR “PALLATI ME SHIGJETA - RRETHRROTULLIMI “SHQIPONJA”, I NDRYSHUAR
+Tabela A, që pasqyron ndryshimet e bëra në tabelën bashkëlidhur VKM nr. 231, datë 17.4.2019, i ndryshuar
+(Të dhënat për numrat rendorë 9, 4, 17, 103, 36, 35, 11, 12, 47, 20, 48, 45, 90 dhe 115, në tabelën bashkëlidhur këtij vendimi, zëvendësohen me të dhënat në tabelën A dhe në fund shtohet tabela B, që i bashkëlidhen këtij vendimi, me VKM nr. 1097, datë 24.12.2020)
+ISHTE
+BEHËT
+Shënime
+NR
+Të dhënat sipas VKM nr. 231, datë 17.04.2019, i ndryshuar
+Të dhënat sipas VKM nr. 463, datë 10.06.2020
+Të dhënat e ndryshuara dhe shtesa
+Nr. rendor në VKM nr. 231/2019
+Emri
+Atësia
+Mbiemri
+Zona Kadastrale
+Numri Pasurisë
+Sip. Totale m2
+Lloji Pasurise
+TOKË TRUALL
+OBJEKT BANIMI
+OBJEKT SICIAL EKONOMIK
+VLERA Totale (LEKË)
+TOKË TRUALL
+Numri Pasurisë
+Sip. Totale m2
+Lloji Pasurise
+TOKË TRUALL
+OBJEKT BANIMI
+NDËRTESË SOC. EK
+VLERA Totale (LEKË)
+Sipërfaqja e shpr.(m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sipërfaqja e shpr.(m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sipërfaqja e shpr.(m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sipërfaqja e shpr.(m2)
+Vlera e preventivit
+Sipërfaqja e shpr.(m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sipërfaqja e shpr.(m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sipërfaqja e shpr.(m2)
+Vlera e preventivit
+1
+9
+Alma
+Qazim
+Shalsi
+8310
+10/169
+1627
+Truall ndertese
+379
+31,219.00
+11,832,001.00
+40
+21,689,943
+33,521,944.00
+10/169
+1627
+Truall ndertese
+245.8
+31,219.00
+7,673,630.20
+40
+21,689,943
+29,363,573
+konfirmuar nga ASHK (zbritje siperfaqeje trualli prej 133.2) Nuk eshte likujduar sipas vkm 231 dt 17.04.2019
+2
+4
+Përparim Merita Ermira
+Shaban Abdulla Sherif
+Canameri Çelmeta Agolli
+8310
+12/21
+922
+Truall Ndertese
+406
+31,219.00
+12,674,914.00
+794
+5,618,132
+18,293,046.00
+141.40
+31,219.00
+4,414,366.60
+12/21
+922
+Truall
+649.8
+31,219.00
+20,286,106.20
+794
+5,618,132
+25,904,238
+konfirmuar nga ASHK (shtese siperfaqeje trualli 102.4 m2)
+3
+17
+Gjovalin
+Pjetër
+Kuli
+8210
+7/474
+378
+Truall ndertese
+241
+38,614.00
+9,305,974.00
+230
+3,731,287
+13,037,261.00
+7/758
+182
+Truall
+182
+38,614.00
+7,027,748.00
+7,027,748
+konfirmuar nga ASHK (zbritje siperfaqeje trualli 59 m2). Likujduar sipas VKM 231 dt 17.04.2019
+4
+103
+Nazif
+Ram
+Miha
+8210
+7/296-nd
+205.7
+Ndertese
+418.4
+8758638.00
+8,758,638.00
+7/296-nd, 7/757
+209.4
+truall
+186.5
+38,614.00
+7,201,511.00
+418.40
+8,758,638.00
+15,960,149.00
+konfirmuar nga ASHK (shpronesim per truallin)
+5
+36
+Aishe Hysen Pellumb
+Llagami(Saraçi) Saraçi Saraçi
+8210
+7/500
+1,946.00
+Truall
+1,249.00
+38,614.00
+48,228,886.00
+48,228,886.00
+7/549
+1,249.00
+Truall
+916.00
+38,614.00
+35,370,424.00
+35,370,424.00
+konfirmuar nga ASHK (zbritje siperfaqeje trualli 333 m2). Likujduar sipas VKM 231 dt 17.04.2019
+6
+35
+Aishe Hysen Pellumb
+Llagami(Saraçi) Saraçi Saraçi
+8210
+7/493
+803.80
+Truall
+385.00
+38,614.00
+14,866,390.00
+14,866,390.00
+7/551
+385.00
+truall
+209.00
+38,614.00
+8,070,326.00
+8,070,326.00
+konfirmuar nga ASHK (zbritje siperfaqeje trualli 176 m2). Likujduar sipas vkm 231 dt 17.04.2019
+7
+11
+Besnik
+Adem
+Doçi
+8210
+7/521
+254.00
+truall ndertese
+254.00
+38,614.00
+9,807,956.00
+167.52
+65,000.00
+10,888,800.00
+48.00
+1,370,882.00
+22,067,638.00
+7/521
+254.00
+truall
+164.00
+38,614.00
+6,332,696.00
+6,332,696.00
+konfirmuar nga ASHK (zbritje siperfaqeje trualli 90 m2 dhe 215.52 m2 objekti). Nuk eshte likujduar sipas vkm 231 dt 17.04.2019
+8
+12
+Besnik
+Adem
+Doçi
+8210
+7/522
+230.10
+truall ndertese
+24.70
+38,614.00
+953,765.80
+151.48
+65,000.00
+9,846,200.00
+70.70
+2,019,197.00
+12,819,162.80
+0.00
+0.00
+0.00
+0.00
+nuk perfshihet ne shpronesim .Nuk eshte likujduar sipas vkm 231 dt 17.04.2019
+9
+47
+Uke Sose Elira Besnik
+Idriz Syle Idriz Idriz
+Çelkolaj Çelkolaj Çelkolaj Çelkolaj
+8210
+7/44
+300.00
+Truall
+100.70
+38,614.00
+3,888,429.80
+3,888,429.80
+7/44
+300
+Truall
+40.9
+38,614.00
+1,579,312.60
+1,579,312.60
+konfirmuar nga ASHK (zbritje siperfaqeje trualli 59.8 m2). Nuk eshte likujduar sipas vkm 231 dt 17.04.2019
+10
+20
+Uke
+Idris
+Çelkolaj
+8210
+7/46
+300
+Truall
+300
+38,614.00
+11,584,200.00
+11,584,200.00
+7/46
+300
+Truall
+207.4
+38,614.00
+8,008,543.60
+8,008,543.60
+konfirmuar nga ASHK (zbritje siperfaqeje trualli 92.6 m2). Nuk eshte likujduar sipas vkm 231 dt 17.04.2019
+11
+48
+Halil
+Muj
+Muja
+8210
+7/45
+287.60
+Truall
+12
+38,614.00
+463,368.00
+463,368.00
+0
+0
+0
+nuk perfshihet ne shpronesim. Nuk eshte likujduar sipas vkm 231 dt 17.04.2019
+12
+45
+Shoqeria Railing SHPK
+8210
+7/523
+99.5
+Trual ndertese
+91
+38,614.00
+3,513,874.00
+81.6
+65000
+5,304,000.00
+113.40
+6,709,873.46
+15,527,747.46
+7/54
+91.00
+Truall
+78.60
+38,614.00
+3,035,060.40
+81.6
+65000
+5,304,000.00
+113.40
+6,709,873.46
+15,048,933.86
+konfirmuar nga ASHK (zbritje siperfaqeje trualli 12.4 m2). Eshte likujduar sipas VKM 231 dt 17.04.2019
+13
+90
+Skender
+Doda
+2679
+440/298
+500.00
+Truall
+113
+4,242.00
+479,346.00
+479,346.00
+8.40
+4,242.00
+35,632.80
+440/298
+500.00
+Truall
+370.40
+4,242.00
+1,571,236.80
+1,571,236.80
+konfirmuar nga ASHK (shtese siperfaqeje trualli)
+14
+115
+Kujtim
+Medat
+Osmani
+3866
+315/539-ND
+404.40
+Ndertese
+139.80
+53,500.00
+7,479,300.00
+264.60
+4,609,630.00
+12,088,930.00
+315/539-ND, 315/539/1
+250.00
+Truall
+196.40
+4,242.00
+833,128.80
+139.80
+53,500.00
+7,479,300.00
+264.60
+4,609,630.00
+12,922,058.80
+SHUMA në total (lekë)
+215,624,987.06
+4,449,999.40
+167,159,240.06
+LISTA EMËRORE E PRONARËVE TË PASURIVE, PRONË PRIVATE, PASURITË E PALUAJSTHME TË TË CILËVE, SHTOHEN NË VENDIMIN NR. 231, DATË 17.4.2019 TË KËSHILLIT TË MINISTRAVE, “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT “REHABILITIMI I SEGMENTIT RRUGOR “PALLATI ME SHIGJETA - RRETHRROTULLIMI “SHQIPONJA”, I NDRYSHUAR
+Tabela B, që pasqyron shtesat e bëra në tabelën bashkëlidhur VKM nr. 231, datë 17.4.2019, i ndryshuar
+NR
+Të dhënat për pasuritë e shtuara
+Emri
+Atësia
+Mbiemri
+Zona Kadastrale
+Numri Pasurisë
+Sip. Totale m2
+Lloji Pasurise
+TOKË TRUALL
+TOKË ARË
+OBJEKT BANIMI
+NDËRTESË SOC. EK
+VLERA Totale (LEKË)
+Shënime
+Sipërfaqja e shpr.(m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sip. e shpr.(m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sipërfaqja e shpr.(m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sipërfaqja e shpr.(m2)
+Vlera e preventivit
+1
+Bashkepronaret Shijaku, Brahja, Hallulli ..
+8210
+7/260
+3,618.77
+Truall
+3,618.77
+38,614
+139,735,184.78
+139,735,184.78
+Konfirmuar nga ASHK
+2
+Aferdita
+Ramadan
+Ahmetaj
+3866
+301/217-ND1
+87.80
+Ndertese
+87.80
+53,500.00
+4,697,300.00
+4,697,300.00
+Konfirmuar nga ASHK
+3
+Sami
+Allaman
+Asllanaj
+3866
+301/217-ND3
+124.30
+Ndertese
+86.80
+53,500.00
+4,643,800.00
+37.50
+968,488.00
+5,612,288.00
+Konfirmuar nga ASHK
+4
+Perparim
+Gani
+Brahimaj
+3866
+301/217-ND
+84.30
+Ndertese
+83.40
+53,500.00
+4,461,900.00
+4,461,900.00
+Konfirmuar nga ASHK
+5
+Vjollca
+Nenada
+3866
+305/287
+275.60
+Truall ndertese
+99.60
+4,242
+422,503.20
+150.40
+53,500.00
+8,046,400.00
+45.90
+1,625,787.80
+10,094,691.00
+Konfirmuar nga ASHK
+6
+Gazmir
+Nuri
+Hoxhaj
+3866
+215/202
+344.80
+Truall Ndertese
+66.30
+4,242
+281,244.60
+1,632.00
+30,530,736.35
+30,811,980.95
+Konfirmuar nga ASHK
+7
+Haxhi
+Rexhep
+Brahimaj
+3866
+305/285
+281.80
+Truall ndertese
+96.70
+4,242
+410,201.40
+140.30
+53,500.00
+7,506,050.00
+97.50
+3,245,440.27
+11,161,691.67
+Konfirmuar nga ASHK
+8
+Aishe Fahrije Lule Nexhmije Romina Matilda Demir Qanie
+Demir Hamdi - Ruzhdi Ruzhdi Ruzhdi Ruzhdi Ruzhdi
+Avdillari Avdillari Avdillari Avdillari Avdillari Avdillari Avdillari Avdillari
+3866
+315/188
+505.00
+are
+111.00
+448.00
+49,728.00
+49,728.00
+Konfirmuar nga ASHK
+9
+Aishe Fahrije Lule Nexhmije Romina Matilda Demir Qanie
+Demir Hamdi - Ruzhdi Ruzhdi Ruzhdi Ruzhdi Ruzhdi
+Avdillari Avdillari Avdillari Avdillari Avdillari Avdillari Avdillari Avdillari
+3866
+315/184
+300.00
+are
+155.60
+448.00
+69,708.80
+69,708.80
+Konfirmuar nga ASHK
+10
+Aishe Fahrije Lule Nexhmije Romina Matilda Demir Qanie
+Demir Hamdi - Ruzhdi Ruzhdi Ruzhdi Ruzhdi Ruzhdi
+Avdillari Avdillari Avdillari Avdillari Avdillari Avdillari Avdillari Avdillari
+3866
+315/186
+150.00
+are
+97.00
+448.00
+43,456.00
+43,456.00
+Konfirmuar nga ASHK
+11
+Aishe Fahrije Lule Nexhmije Romina Matilda Demir Qanie
+Demir Hamdi - Ruzhdi Ruzhdi Ruzhdi Ruzhdi Ruzhdi
+Avdillari Avdillari Avdillari Avdillari Avdillari Avdillari Avdillari Avdillari
+3866
+315/187
+300.00
+are
+140.00
+448.00
+62,720.00
+62,720.00
+Konfirmuar nga ASHK
+12
+Aqif
+Rasim
+Çuni
+2679
+440/340
+2,105.00
+are
+793.70
+448.00
+355,577.60
+355,577.60
+Konfirmuar nga ASHK
+13
+Selim
+Ahmeti
+3866
+315/203
+707.00
+are
+690.00
+448.00
+309,120.00
+309,120.00
+Konfirmuar nga ASHK
+207,465,346.80
+LISTA EMËRORE E PRONARIT, PRONË PRIVATE, QË PREKET NGA DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR. 231, DATË 17.4.2019, TË KËSHILLIT TË MINISTRAVE, “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT “REHABILITIMI I SEGMENTIT RRUGOR, PALLATI ME SHIGJETA - RRETHRROTULLIMI SHQIPONJA”, I NDRYSHUAR.
+TABELA C
+Nr.
+Emër Atësi Mbiemër
+Z.K.
+Nr. i pasurisë
+Lloj i pasurisë
+Sip.
+totale/m²
+Sip. e shpronësuar/ m²
+Çmimi në lekë /m²
+Vlera totale për shpronësim
+Shënime
+1
+Xhemal Haziz Gaçi
+8310
+11/695
+Truall
+2400
+855.6
+31,219
+26,710,976
+Konfirmuar nga ASHK-ja
+Vlera totale
+2,400.0
+959
+26,710,976
+Shënime.
+1. Për tokën “truall”, çmimi i llogaritur është marrë nga vendimi nr. 89, datë 3.2.2016, i Këshillit të Ministrave, “Për miratimin e hartës së vlerës së tokës në Republikën e Shqipërisë”.
