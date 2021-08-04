@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, pronë private, që shpronësohen, të kompensohen, në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë e llojit tokë “arë” dhe tokë “truall”, me një vlerë të përgjithshme prej 2 474 632 (dy milionë e katërqind e shtatëdhjetë e katër mijë e gjashtëqind e tridhjetë e dy) lekësh.
