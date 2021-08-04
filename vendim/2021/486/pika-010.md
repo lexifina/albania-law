@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës, brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, të nisë procedurat për hedhjen e gjurmës së projektit mbi hartën kadastrale të regjistrimit, sipas planimetrisë së shpronësimit të miratuar dhe të bëjë kalimin e pronësisë për pasurinë e shpronësuar në favor të shtetit.
