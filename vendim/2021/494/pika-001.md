@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi te Ministria e Kulturës të pasurisë së paluajtshme shtetërore “Galeria e Arteve”, lloji “truall”, me sipërfaqe totale 3717 (tre mijë e shtatëqind e shtatëmbëdhjetë) m2, nga të cilat 1 901 (një mijë e nëntëqind e një) m2 ndërtesë, me numër pasurie 1/102, zona kadastrale 8150, Tiranë, sipas planrilevimit, që i bashkëlidhet këtij vendimi.

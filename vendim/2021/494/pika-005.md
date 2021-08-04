@@ -1,0 +1,1 @@
+5. Prona e përcaktuar në pikën 2, të këtij vendimi, hiqet nga lista e pronave të paluajtshme shtetërore që i bashkëlidhet vendimit nr. 502, datë 18.7.2003, të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, me karakter sekret, të cilat i kalojnë në përgjegjësi administrimi Shërbimit Informativ Shtetëror”, të ndryshuar.

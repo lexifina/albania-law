@@ -1,0 +1,1 @@
+3. Kalimin në përgjegjësi administrimi, te Ministria e Kulturës të pasurisë së paluajtshme shtetërore, lloji “truall”, me sipërfaqe totale 99 (nëntëdhjetë e nëntë) m2, nga të cilat 99 (nëntëdhjetë e nëntë) m2 ndërtesë, me numër pasurie 1/260, zona kadastrale 8150, sipas planrilevimit, që i bashkëlidhet këtij vendimi.

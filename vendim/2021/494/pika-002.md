@@ -1,0 +1,1 @@
+2. Kalimin në përgjegjësi administrimi, nga Shërbimi Informativ Shtetëror te Ministria e Kulturës, të pasurisë së paluajtshme shtetërore, lloji “truall”, me sipërfaqe totale 422 (katërqind e njëzet e dy) m2, nga të cilat 89 (tetëdhjetë e nëntë) m2 ndërtesë, me numër pasurie 1/509, zona kadastrale 8150, Tiranë, sipas planrilevimit, që i bashkëlidhet këtij vendimi.

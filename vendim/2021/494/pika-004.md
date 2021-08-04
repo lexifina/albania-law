@@ -1,0 +1,1 @@
+4. Kalimin në përgjegjësi administrimi te Ministria e Kulturës të pasurisë së paluajtshme shtetërore, lloji “shesh”, me sipërfaqe totale 5 194 (pesë mijë e njëqind e nëntëdhjetë e katër) m2, me numër pasurie 1/507, zona kadastrale 8150, Tiranë, sipas planrilevimit, që i bashkëlidhet këtij vendimi.
