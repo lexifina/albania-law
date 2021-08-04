@@ -1,0 +1,1 @@
+1. Drejtorisë së Përgjithshme të Doganave, në buxhetin e miratuar për vitin 2021, në programin 01150 “Menaxhimi i të ardhurave doganore”, i shtohet fondi prej 89 000 000 (tetëdhjetë e nëntë milionë) lekësh në zërin “shpenzime korente”.
