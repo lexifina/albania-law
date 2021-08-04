@@ -1,0 +1,905 @@
+# Shtojca
+LISTA E SHPRONËSIMIT TË PRONARËVE TË PASURIVE PRONË PRIVATE QË PREKEN NGA REALIZIMI I PROJEKTIT
+“REHABILITIMI I RRUGËS SË LUMIT TË VLORËS, AKSI ’SELENICE-KUÇ-QEPARO’”
+Zona
+Numri
+Lloji
+Sip.
+Arë
+Truall
+Banesë
+Vlera
+Ndërtesë jobanim
+Dru
+VLERA TOTALE (lekë)
+Shënime
+Nr.
+Emri
+Atësia
+Mbiemri
+kadastrale
+i pasurisë
+i pasurisë
+tot. (m2)
+Sip. m2
+Çmimi
+Vlera
+SIP m2
+Çmimi
+VLERA
+SIP. m2
+Çmimi
+Sip. m2
+Çmimi
+Vlera (sipas preventivit)
+frutorë
+l/m2
+leke
+l/m2
+lekë
+l/m2
+lekë
+1
+Sokuat
+Kajaj
+1765
+74/20
+Arë
+5,600
+577
+204
+117,708.00
+-
+117,708.00
+Konfirmuar nga ASHK Vlorë
+2
+Maksim
+Lazaj
+1765
+74/19
+Arë
+3,000
+431
+204
+87,924.00
+-
+87,924.00
+Konfirmuar nga ASHK Vlorë
+3
+Muko
+Lulaj
+1765
+74/17
+Arë
+11,600
+811
+204
+165,444.00
+-
+165,444.00
+Konfirmuar nga ASHK Vlorë
+4
+Aleks
+Seferi
+1765
+74/14
+Arë
+1,800
+141
+204
+28,764.00
+-
+28,764.00
+Konfirmuar nga ASHK Vlorë
+5
+Mete
+Seferi
+1765
+74/13
+Arë
+1,800
+134
+204
+27,336.00
+-
+27,336.00
+Konfirmuar nga ASHK Vlorë
+6
+Dervish
+Seferi
+1765
+74/15
+Arë
+3,500
+271
+204
+55,284.00
+-
+55,284.00
+Konfirmuar nga ASHK Vlorë
+7
+Bardhosh
+Seferi
+1765
+74/16
+Arë
+3,800
+258
+204
+52,632.00
+-
+52,632.00
+Konfirmuar nga ASHK Vlorë
+8
+Çerçez
+Seferi
+1765
+74/12
+Arë
+1,370
+139
+204
+28,356.00
+-
+28,356.00
+Konfirmuar nga ASHK Vlorë
+9
+Bujar
+Seferi
+1765
+74/11
+Arë
+2,350
+176
+204
+35,904.00
+-
+35,904.00
+Konfirmuar nga ASHK Vlorë
+10
+Liço
+Seferi
+1765
+74/10
+Arë
+1,600
+160
+204
+32,640.00
+-
+32,640.00
+Konfirmuar nga ASHK Vlorë
+11
+Shero
+Zyka
+1765
+74/21
+Arë
+5,450
+444
+204
+90,576.00
+-
+90,576.00
+Pezullohen veprimet
+12
+Halil
+Shamaj
+1765
+74/22
+Arë
+7,350
+648
+204
+132,192.00
+-
+132,192.00
+Konfirmuar nga ASHK Vlorë
+13
+Mimo
+Veliu
+1765
+74/9
+Arë
+3,500
+299
+204
+60,996.00
+-
+60,996.00
+Konfirmuar nga ASHK Vlorë
+14
+B.p Balla
+1765
+74/8
+Arë
+3,400
+363
+204
+74,052.00
+-
+74,052.00
+Konfirmuar nga ASHK Vlorë
+15
+Camo
+Ballaj
+1765
+74/7
+Arë
+3,400
+399
+204
+81,396.00
+-
+81,396.00
+Konfirmuar nga ASHK Vlorë
+16
+Hajdim
+Glluçi
+1765
+74/6
+Arë
+3,300
+431
+204
+87,924.00
+-
+87,924.00
+Konfirmuar nga ASHK Vlorë
+17
+Batjar
+Halili
+1765
+74/5
+Arë
+4,700
+577
+204
+117,708.00
+-
+117,708.00
+Konfirmuar nga ASHK Vlorë
+18
+Maço
+Delaj
+1765
+74/4
+Arë
+3,600
+264
+204
+53,856.00
+-
+53,856.00
+Konfirmuar nga ASHK Vlorë
+19
+B.p Abazi
+1765
+74/3
+Arë
+10,000
+3
+204
+612.00
+-
+612.00
+Konfirmuar nga ASHK Vlorë
+20
+Latif
+Hodaj
+1765
+144
+Arë
+1,000
+266
+204
+54,264.00
+-
+54,264.00
+Konfirmuar nga ASHK Vlorë
+21
+Lufti
+Sehiti
+1765
+143/1
+Arë
+5,550
+966
+204
+197,064.00
+-
+197,064.00
+Konfirmuar nga ASHK Vlorë
+22
+Ladimir
+Isai
+1765
+143/2
+Arë
+4,500
+42
+204
+8,568.00
+-
+8,568.00
+Konfirmuar nga ASHK Vlorë
+23
+Memet
+Jaupi
+1765
+143/3
+Arë
+6,200
+5
+204
+1,020.00
+-
+1,020.00
+Konfirmuar nga ASHK Vlorë
+24
+Kastriot
+Taraj
+1765
+143/4
+Arë
+4,500
+46
+204
+9,384.00
+-
+9,384.00
+Konfirmuar nga ASHK Vlorë
+25
+Lavdosh
+Seiti
+1765
+143/5
+Arë
+5,300
+60
+204
+12,240.00
+-
+12,240.00
+Konfirmuar nga ASHK Vlorë
+26
+Shezai
+Seiti
+1765
+143/7
+Arë
+4,300
+50
+204
+10,200.00
+-
+10,200.00
+Konfirmuar nga ASHK Vlorë
+27
+Hysem
+Seiti
+1765
+143/8
+Arë
+2,700
+7
+204
+1,428.00
+-
+1,428.00
+Konfirmuar nga ASHK Vlorë
+28
+Memo
+Likaj
+1765
+143/9
+Arë
+7,350
+101
+204
+20,604.00
+-
+20,604.00
+Konfirmuar nga ASHK Vlorë
+29
+Ladimir
+Isaj
+1765
+143/10
+Arë
+3,000
+343
+204
+69,972.00
+-
+69,972.00
+Konfirmuar nga ASHK Vlorë
+30
+B.p Ballaj
+1765
+161/1
+Arë
+5,500
+290
+204
+59,160.00
+-
+59,160.00
+Konfirmuar nga ASHK Vlorë
+31
+Damo
+Tare
+1765
+161/2
+Arë
+10,500
+44
+204
+8,976.00
+-
+8,976.00
+Pezullohen veprimet
+32
+Mustret
+Glluçi
+1765
+161/5
+Arë
+2,500
+8
+204
+1,632.00
+-
+1,632.00
+Konfirmuar nga ASHK Vlorë
+33
+Beqir
+Çeluçi
+1765
+161/6
+Arë
+3,000
+417
+204
+85,068.00
+-
+85,068.00
+Konfirmuar nga ASHK Vlorë
+34
+Kamber
+Beqari
+1765
+167/1
+Arë
+5,900
+1628
+204
+332,112.00
+-
+332,112.00
+Konfirmuar nga ASHK Vlorë
+35
+B.p Shemaj
+1765
+165/4
+Arë
+4,000
+1674
+204
+341,496.00
+-
+341,496.00
+Konfirmuar nga ASHK Vlorë
+36
+Faik
+Shemaj
+1765
+165/3
+Arë
+2,000
+487
+204
+99,348.00
+-
+99,348.00
+Konfirmuar nga ASHK Vlorë
+37
+Muko
+Lulaj
+1765
+188/15
+Arë
+3,100
+415
+204
+84,660.00
+-
+84,660.00
+Konfirmuar nga ASHK Vlorë
+38
+Muko
+Lulaj
+1765
+188/26
+Arë
+600
+123
+204
+25,092.00
+-
+25,092.00
+Konfirmuar nga ASHK Vlorë
+39
+Resmi
+Seferi
+1765
+203/1
+Arë
+1,700
+200
+204
+40,800.00
+-
+40,800.00
+Konfirmuar nga ASHK Vlorë
+40
+Bamush
+Hoxha
+1765
+311/5
+Truall + ndërtesë
+210
+-
+67
+384
+25,728.00
+100
+2,908,177.43
+2,933,905.43
+Konfirmuar nga ASHK Vlorë
+41
+Lirim
+Godaj
+1765
+357/4
+Truall
+240
+-
+44
+384
+16,896.00
+16,896.00
+Sekuestro konservative
+42
+Novruz
+Durmishi
+2416
+55/1
+Arë
+3,335
+53
+204
+10,812.00
+-
+10,812.00
+Konfirmuar nga ASHK Vlorë
+43
+Xhevdet
+Rexhepi
+2416
+55/4
+Arë
+1,400
+248
+204
+50,592.00
+-
+50,592.00
+Konfirmuar nga ASHK Vlorë
+44
+Namik
+Rexhepi
+2416
+55/5
+Arë
+1,400
+601
+204
+122,604.00
+-
+122,604.00
+Konfirmuar nga ASHK Vlorë
+45
+Dane
+Lazaj
+2416
+55/2
+Arë
+1,700
+531
+204
+108,324.00
+-
+108,324.00
+Konfirmuar nga ASHK Vlorë
+46
+Asllan
+Trushaj
+2416
+68/5
+Arë
+2,200
+543
+204
+110,772.00
+-
+110,772.00
+Konfirmuar nga ASHK Vlorë
+47
+Luan
+Selimi
+2416
+68/2
+Arë
+1,200
+371
+204
+75,684.00
+-
+75,684.00
+Konfirmuar nga ASHK Vlorë
+48
+Beshir
+Canaj
+2416
+68/3
+Arë
+1,250
+463
+204
+94,452.00
+-
+94,452.00
+Konfirmuar nga ASHK Vlorë
+49
+Nazif
+Selimaj
+2416
+68/1
+Arë
+1,100
+748
+204
+152,592.00
+-
+152,592.00
+Konfirmuar nga ASHK Vlorë
+50
+Rrapo
+Rrapaj
+2416
+68/4
+Arë
+980
+391
+204
+79,764.00
+-
+79,764.00
+Konfirmuar nga ASHK Vlorë
+51
+B.p Ngucaj
+2416
+54/24
+Arë
+1,300
+814
+204
+166,056.00
+-
+166,056.00
+Konfirmuar nga ASHK Vlorë
+52
+Zeno
+Likaj
+1265
+114/7
+Arë
+1,980
+63
+204
+12,852.00
+-
+12,852.00
+Konfirmuar nga ASHK Vlorë
+53
+Ramadan
+Ferraj
+1265
+476/1/1
+Ndërtesë
+74
+-
+-
+74.07
+2,183,141.00
+2,183,141.00
+Konfirmuar nga ASHK Vlorë
+54
+Qemal
+Malaj
+1265
+158/5
+Arë
+1,950
+139
+204
+28,356.00
+-
+28,356.00
+Konfirmuar nga ASHK Vlorë
+55
+Gogo
+Shakaj
+1265
+158/10
+Arë
+1,950
+37
+204
+7,548.00
+-
+7,548.00
+Konfirmuar nga ASHK Vlorë
+56
+Fenjat
+Sulçaj
+1265
+158/11
+Arë
+5,100
+2083
+204
+424,932.00
+-
+424,932.00
+Konfirmuar nga ASHK Vlorë
+57
+Haxhi
+Malaj
+1265
+223/1
+Pemëtore
+1,350
+480
+204
+97,920.00
+-
+97,920.00
+Konfirmuar nga ASHK Vlorë
+58
+Maze
+Malaj
+1265
+224/4
+Arë
+600
+203
+204
+41,412.00
+-
+41,412.00
+Konfirmuar nga ASHK Vlorë
+59
+Latif
+Hodo
+1265
+435/1
+Arë
+2,470
+370
+204
+75,480.00
+-
+75,480.00
+Konfirmuar nga ASHK Vlorë
+60
+Fetih
+Hodo
+1265
+435/2
+Arë
+4,250
+49
+204
+9,996.00
+-
+9,996.00
+Konfirmuar nga ASHK Vlorë
+61
+Agron
+Deraj
+1265
+435/7
+Arë
+3,100
+246
+204
+50,184.00
+-
+50,184.00
+Konfirmuar nga ASHK Vlorë
+62
+Niazi
+Deraj
+1265
+435/8
+Pemëtore
+2,010
+269
+204
+54,876.00
+-
+54,876.00
+Konfirmuar nga ASHK Vlorë
+63
+Ramis
+Sulaj
+1265
+435/9
+Arë
+3,200
+201
+204
+41,004.00
+-
+41,004.00
+Konfirmuar nga ASHK Vlorë
+64
+Hysni
+Zahaj
+1265
+444/5
+Arë
+1,470
+820
+204
+167,280.00
+-
+167,280.00
+Konfirmuar nga ASHK Vlorë
+65
+Piro
+Durmishi
+1265
+476/10
+Truall + ndërtesë
+150
+-
+99
+384
+38,016.00
+150
+1,006,007.00
+1,044,023.00
+Konfirmuar nga ASHK Vlorë
+66
+Refit
+Lacaj
+3384
+361/8
+Arë
+14,290
+1600
+204
+326,400.00
+-
+1,203,000.00
+1,529,400.00
+Proces konfirmimi
+TOTALI
+12,485,249.43
+Shënime.
+1. Vlerësimi i tokës truall dhe tokës arë është llogaritur bazuar në VKM nr. 89, datë 3.2.2016 “Për miratimin e hartës së vlerës së tokës në Republikën e Shqipërisë”
+2. Vlerësimi i kulturave bujqësore është bërë në bazë të vendimit nr. 138, datë 23.3.2000, të Këshillit të Ministrave “Për kriteret teknike të vlerësimit dhe të përllogaritjes së masës së shpërblimit të pasurive që shpronësohen, të pasurive që zhvlerësohen dhe të të drejtave të personave të tretë, për interes publik”, i ndryshuar, udhëzimit nr. 1, datë 5.10.2000, “Për kriteret teknike të përllogaritjes së vlerës së bimëve drufrutore që shpronësohen për interes publik, në rastet kur mungojnë treguesit e deklaruar të shitblerjes”.
+2. Vlerësimi i objektit ”ndërtesë banimi dhe jobanimi” është bërë në bazë të vendimit nr. 138, datë 23.3.2000, të Këshillit të Ministrave, “Për kriteret teknike të vlerësimit dhe të përllogaritjes së masës së shpërblimit të pasurive që shpronësohen, të pasurive që zhvlerësohen dhe të të drejtave të personave të tretë, për interes publik”, i ndryshuar.

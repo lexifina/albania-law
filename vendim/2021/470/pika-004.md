@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 12 485 249.43 (dymbëdhjetë milionë e katërqind e tetëdhjetë e pesë mijë e dyqind e dyzet e nëntë pikë dyzetë e tre) lekësh, të përballohet nga buxheti i vitit 2021, miratuar për Autoritetin Rrugor Shqiptar, në programin buxhetor “Transporti rrugor”.
