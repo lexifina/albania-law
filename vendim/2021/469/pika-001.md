@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i objektit “Sistemimi dhe rikonstruksioni i infrastrukturës në ’Bllokun Qemal Stafa’, kufizuar nga rrugët ’Kongresi i Manastirit’ dhe ’Bajram Curri’, Tiranë”.
