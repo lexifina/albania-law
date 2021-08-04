@@ -2,3 +2,4 @@
 - 959 423 147.57 (nëntëqind e pesëdhjetë e nëntë milionë e katërqind e njëzet e tre mijë e njëqind e dyzet e shtatë pikë pesëdhjetë e shtatë) lekë, nga buxheti i miratuar për Ministrinë e Infrastrukturës dhe Energjisë, për vitet 2020-2021;
 - 111 393 560 (njëqind e njëmbëdhjetë milionë e treqind e nëntëdhjetë e tre mijë e pesëqind e gjashtëdhjetë) lekë, nga buxheti i miratuar për Autoritetin Rrugor Shqiptar.
 - 161 040 500 (njëqind e gjashtëdhjetë e një milionë e dyzet mijë e pesëqind) lekë, nga buxheti i miratuar në programin e “Transportit rrugor” në Ministrinë e Infrastrukturës dhe Energjisë, për vitin buxhetor 2021.
+4/1. Vlera shtesë prej 62 764 102 (gjashtëdhjetë e dy milionë e shtatëqind e gjashtëdhjetë e katër mijë e njëqind e dy) lekësh të përballohet nga Autoriteti Rrugor Shqiptar.

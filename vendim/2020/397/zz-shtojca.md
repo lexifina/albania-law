@@ -128,3 +128,55 @@ Truall
 Seksioni D: Mbi këtë truall pozicionohen ndërtesat me nr. 7/671-nd., 7/664-nd., 7/650/nd., 7/649nd., 7/648/nd. dhe nr. 7/641 nd. Seksioni E: Vendoset sekuestro konservative nga shoqëria “Besa” sh.p.k., në favor të Banka Credins dhe masa sekuestro konservative.
 VLERA TOTALE
 161,040,500.0
+LISTA EMËRORE PËRFUNDIMTARE PËR PASURINË E PALUAJTSHME PRONË PRIVATE, QË PREKET NGA DISA SHTESA DHE NDRYSHIME NË VKM-në NR. 397, DATË 13.5.2020, “PËR SHPRONËSIMIN PËR INTERES PUBLIK TË PRONARËVE TË PASURIVE TË PALUAJTSHME PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I OBJEKTIT ’NDËRTIMI I OBJEKTIT UNAZA LINDORE TIRANË, LOTI 3’”
+ZK
+Nr. i
+Lloji
+Sip.
+ARË
+TRUALL
+BANESË
+NDËRTESË
+SHËNIME
+Nr.
+Emri
+Atësia
+Mbiemri
+pasurisë
+i pasurisë
+tot. (m2)
+Sip. m2
+Çmimi
+Vlera,
+Sip. m2
+Çmimi
+Vlera,
+Sip. m2
+Çmimi
+Vlera
+Sip. m2
+Çmimi
+Vlera
+Vlera totale,
+l/m2
+lek
+l/m2
+lek
+l/m2
+lek
+(sipas preventivit)
+lek
+1
+REZART RAMAZAN KUPTHI
+8170
+9/705
+TRUALL
+1909
+1909
+32878
+62,764,102.00
+62,764,102.00
+Seksioni D: Mbi këtë truall pozicionohen ndërtesat me nr. 9/612/nd., vol 24, f. 41, hip 1266/93 ksh, mbi këtë truall ka ndërtime pa leje.
+Mbyllet me nr. rendor 1
+TOTALI
+62,764,102.00
