@@ -1,0 +1,1 @@
+1. Miratimin e klauzolave të stabilitetit për kontratën e koncesionit/partneritetit publik privat, për dhënien me koncesion/PPP të portit të jahteve “Marina Rodon”, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Infrastrukturës dhe Energjisë, dhe bashkimit të operatorëve ekonomikë “Praslin Investment” sh.p.k. dhe “R&T” sh.p.k.

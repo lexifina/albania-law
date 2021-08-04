@@ -1,0 +1,5 @@
+VENDIM
+Nr. 497, datë 30.7.2021
+PËR MIRATIMIN E KLAUZOLAVE TË STABILITETIT PËR KONTRATËN E KONCESIONIT/PARTNERITETIT PUBLIK PRIVAT, PËR DHËNIEN ME KONCESION/PPP TË PORTIT TË JAHTEVE “MARINA RODON”, NDËRMJET REPUBLIKËS SË SHQIPËRISË, TË PËRFAQËSUAR NGA MINISTRIA E INFRASTRUKTURËS DHE ENERGJISË, DHE BASHKIMIT TË OPERATORËVE EKONOMIKË “PRASLIN INVESTMENT” SHPK DHE “R&T” SHPK
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 41, të ligjit nr. 125/2013, “Për koncesionet dhe partneritetin publik privat”, të ndryshuar, me propozimin e ministrit të Infrastrukturës dhe Energjisë, Këshilli i Ministrave
+VENDOSI:
