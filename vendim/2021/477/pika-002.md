@@ -1,0 +1,1 @@
+2. Ndalimin e futjes në territorin e Republikës së Shqipërisë të të gjitha llojeve të huaja invazive të paraqitura në seksionin A, si dhe të ekzemplarëve të rinj të llojeve të huaja invazive të paraqitura në seksionin B, që kanë shkallën 3 të invazionit, në shtojcën I, bashkëlidhur këtij vendimi.

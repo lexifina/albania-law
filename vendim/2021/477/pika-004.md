@@ -1,0 +1,1 @@
+4. Për llojet e huaja invazive që synojnë të futen/importohen në territorin e vendit tonë, autoritetet doganore nuk lejojnë futjen e tyre kur konstatojnë se subjekti nuk është pajisur me miratimin përkatës të trajtuar, sipas legjislacionit në fuqi për vlerësimin e ndikimit në mjedis, nga ministria përgjegjëse për mjedisin.

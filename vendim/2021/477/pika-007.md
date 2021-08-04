@@ -1,0 +1,1 @@
+7. Vendimi nr. 241, datë 6.3.2009, i Këshillit të Ministrave, “Për miratimin e listës së llojeve të huaja invazive dhe për përcaktimin e procedurave, për ndalimin dhe/ose futjen e tyre në pikat doganore të vendit”, shfuqizohet.
