@@ -1,0 +1,1 @@
+1. Kalimin, në pronësi të Bashkisë Tiranë, të pasurisë nr. 1/241, lloji “truall”, në zonën kadastrale 8150, Tiranë, me sipërfaqe totale 5 522.7 (pesë mijë e pesëqind e njëzet e dy pikë shtatë) m2, me adresë: rruga “S. Toptani”, Tiranë, sipas kartelës së pasurisë dhe fragmentit të hartës kadastrale, që i bashkëlidhen këtij vendimi.
