@@ -1,1 +1,0 @@
-4. Vlerësimi i rrezikut të një lloji të huaj është vlerësimi i pasojave të introduktimit dhe mundësisë së instalimit të një lloji të huaj, duke përdorur informacionin shkencor. Menaxhimi i rrezikut përcakton masat, që duhen zbatuar për t’i reduktuar ose menaxhuar rreziqet e identifikuara gjatë vlerësimit të rrezikut.

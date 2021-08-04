@@ -1,1 +1,0 @@
-2. Ndalimin e futjes në territorin e Republikës së Shqipërisë të ekzemplarëve të rinj, të llojeve të huaja, me shkallë invazioni 3, sipas shtojcës II, që i bashkëlidhet këtij vendimi, të llojeve, që gjenden, tashmë, në vend, pasi janë futur më parë.
