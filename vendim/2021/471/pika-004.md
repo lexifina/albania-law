@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 26 904 342 (njëzet e gjashtë milionë e nëntëqind e katër mijë e treqind e dyzet e dy) lekësh të përballohet nga Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor.

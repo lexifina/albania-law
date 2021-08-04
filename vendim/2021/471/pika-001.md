@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i godinës qendrore administrative të shërbimeve të qendërzuara të transportit rrugor shqiptar dhe Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor”.
