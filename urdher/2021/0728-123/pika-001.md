@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së nënshkrimit të dokumenteve administrative, që dalin nga Zyra e Inspektorit të Lartë të Drejtësisë, sipas fushës së përgjegjësisë që mbulon Drejtoria e Përgjithshme e Çështjeve dhe Shërbimeve Juridike dhe Drejtoria Ekonomike dhe Shërbimeve Mbështetëse.
