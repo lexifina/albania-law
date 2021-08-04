@@ -1,0 +1,1 @@
+13. Përcaktimi i numrit të krediteve për aktivitetet në rastin e parashikuar në pikën 5, të këtij kreu, bëhet sipas rregullit 1 (një) kredit i studimeve të larta është i barabartë me 25 (njëzet e pesë) kredite të edukimit të vazhdueshëm.

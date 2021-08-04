@@ -1,0 +1,1 @@
+7. Përjashtimisht, profesionistët, të cilët dalin në pension brenda periudhës pesëvjeçare të ciklit dhe që nuk do të vazhdojnë ta ushtrojnë profesionin e tyre, përjashtohen nga detyrimet e programit të certifikimit për atë cikël.

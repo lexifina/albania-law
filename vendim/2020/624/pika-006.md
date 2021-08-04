@@ -1,0 +1,1 @@
+6. Brenda çdo cikli të programit, profesionisti të ketë kryer aktivitete të edukimit të vazhdueshëm, nga të cilat të ketë mbledhur numrin minimal të detyrueshëm të krediteve, sipas kritereve të përcaktuara në këtë vendim. Në përfundim të ciklit të programit të certifikimit çdo profesionist vlerësohet për përmbushjen e kritereve të certifikimit dhe merret vendimi përkatës.

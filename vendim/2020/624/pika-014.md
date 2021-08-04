@@ -1,0 +1,1 @@
+14. Vlerësimi për përcaktimin e numrit të krediteve për aktivitetet e parashikuara në pikën 7, të këtij kreu, bëhet nga struktura përgjegjëse për edukimin e vazhdueshëm të profesionistëve të shërbimeve të kujdesit shoqëror, sipas skemës së përllogaritjes së krediteve, të parashikuara në aneksin nr. 1, bashkëlidhur dhe pjesë përbërëse e këtij vendimi.
