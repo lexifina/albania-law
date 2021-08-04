@@ -1,0 +1,1 @@
+1. Lejimin e përdorimit të brigjeve të detit dhe të zonës përkatëse të plazhit përballë kompleksit, në funksion të realizimit të projektit investues strategjik “Hotel Chaonians DeLuxe”, Dhërmi, Himarë, i cili, me vendimin nr. 14/6, datë 4.2.2021, të Komitetit të Investimeve Strategjike, ka përfituar statusin “Investim/Investitor Strategjik Procedurë e Asistuar”.
