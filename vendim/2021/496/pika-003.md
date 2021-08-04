@@ -1,0 +1,1 @@
+3. Mbështetja financiare e qeverisjes qendrore për Bashkinë Durrës do të bëhet nëpërmjet transfertave specifike vjetore, në përputhje me legjislacionin në fuqi për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë, vetëqeverisjen vendore dhe financat e vetëqeverisjes vendore, duke filluar me mbulimin e nevojës financiare për periudhën gusht-dhjetor 2021.

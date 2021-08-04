@@ -1,0 +1,1 @@
+2. Shuma e mbështetjes financiare, sipas tabelës bashkëlidhur këtij vendimi, negociohet çdo vit fiskal gjatë hartimit të projektbuxhetit afatmesëm dhe atij vjetor, ndërmjet Ministrisë së Financave dhe Ekonomisë dhe Bashkisë Durrës, në varësi të aftësive fiskale.

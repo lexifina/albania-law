@@ -1,0 +1,1 @@
+4. Duke filluar nga viti 2022 dhe në vazhdim, pjesa e financimit për menaxhimin e mbetjeve nga buxheti i shtetit do të jetë pjesë e dokumentit të programit buxhetor afatmesëm dhe ligjit vjetor të buxhetit.
