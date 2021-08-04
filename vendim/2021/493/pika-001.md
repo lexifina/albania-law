@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Vorë, për njësinë administrative Bërxull, të pasurisë 303/1, me vendndodhje në zonën kadastrale 1167, sipas formularit gjithsej 1 (një) fletë dhe planrilevimit, bashkëlidhur këtij vendimi, me qëllim për t’u përdorur në fushën e arsimit.
