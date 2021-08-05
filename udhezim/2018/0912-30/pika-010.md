@@ -1,4 +1,5 @@
-10. Nëndrejtori i shkollës: 8 orë në javë.
+10. Nëndrejtori i shkollës:
+6 orë në javë
 Drejtori dhe nëndrejtorët e shkollës e plotësojnë normën mësimore javore vetëm me orë të profilit të diplomës që zotërojnë.
 Nëndrejtori/nëndrejtorët ngarkohen për amzën dhe inventarin e shkollës.
 E. Norma e vlerësimit të arritjeve
@@ -8,7 +9,7 @@ E. Norma e vlerësimit të arritjeve
 4. Nëndrejtori i shkollës me mbi 900 nxënës: 3 orë në javë (2 orë për vlerësim të cilësisë së procesit mësimor dhe 1 orë për dokumentacionin shkollor).
 III. ARSIMI MESËM I LARTË, GJIMNAZ
 A. Numri i nxënësve për klasë
-1. Klasat në zonat urbane të formohen me jo më pak se 25 nxënës dhe në zonat rurale me jo më pak se 15 nxënës.
+1. Klasat në zonat urbane të formohen me jo më pak se 25 nxënës dhe në zonat rurale me jo më pak se 10 nxënës.
 2. Ndarja e klasave paralele të bëhet sipas këtij rregulli:
 a) Dy klasa paralele, kur numri i nxënësve është 36-70 nxënës.
 b) Tri klasa paralele, kur numri i nxënësve është 71-105 nxënës.
@@ -16,18 +17,25 @@ c) Katër klasa paralele, kur numri i nxënësve është 106-140 nxënës.
 d) Pesë klasa paralele, kur numri i nxënësve është 141-175 nxënës.
 e) Ndarja e nxënësve në më shumë se pesë klasa paralele vazhdon sipas rregullit të përcaktuar në pikën 2.
 B. Numri i drejtuesve
-1. Kur numri i nxënësve është 251-500, emërohet një nëndrejtor shkolle.
-2. Kur numri i nxënësve është 501-900, emërohen dy nëndrejtorë shkolle.
+1. Kur numri i nxënësve është 200-480, emërohet një nëndrejtor shkolle.
+2. Kur numri i nxënësve është 481-900, emërohen dy nëndrejtorë shkolle.
 3. Kur numri i nxënësve është mbi 900, emërohen tre nëndrejtorë shkolle.
 C. Norma mësimore javore e mësuesve dhe e drejtuesve
 1. Mësuesi i gjuhës shqipe dhe i letërsisë: 18 orë në javë.
-2. Mësuesi i gjuhës së huaj, i matematikës, i fizikës, i biologjisë, i kimisë, i informatikës, i historisë, i gjeografisë, i teknologjisë, i shkencave shoqërore (filozofi, psikologji, qytetari, sociologji), i ekonomisë: 20 orë në javë.
+2. Mësuesi i gjuhës së huaj, i matematikës, i fizikës, i biologjisë, i kimisë, i informatikës,
+i historisë, i gjeografisë, i teknologjisë, i shkencave shoqërore
+(filozofi, psikologji, qytetari, sociologji), i ekonomisë: 20 orë në javë.
 3. Mësuesi i lëndëve të tjera: 22 orë në javë.
-4. Drejtori i shkollës me 81-300 nxënës: 8 orë në javë.
-5. Drejtori i shkollës me 301-600 nxënës: 6 orë në javë.
-6. Drejtori i shkollës me 601-900 nxënës: 4 orë në javë.
-7. Drejtori i shkollës me mbi 900 nxënës: nuk jep mësim.
-8. Nëndrejtori i shkollës: 8 orë në javë.
+4. Drejtori i shkollës me 81-300 nxënës:
+6 orë në javë
+5. Drejtori i shkollës me 301-600 nxënës:
+4 orë në javë
+6. Drejtori i shkollës me 601-900 nxënës:
+2 orë në javë
+7. Drejtori i shkollës mbi 900 nxënës:
+0-2 orë në javë
+8. Nëndrejtori i shkollës:
+6 orë në javë”.
 Drejtori dhe nëndrejtorët e shkollës e plotësojnë normën e tyre mësimore javore vetëm me orë të profilit të diplomës që zotërojnë.
 Nëndrejtori/nëndrejtorët e shkollës ngarko-hen për amzën dhe inventarin e shkollës kur shkolla nuk ka sekretar.
 D. Norma e vlerësimit të arritjeve
@@ -91,6 +99,7 @@ V. TË PËRGJITHSHME
 7. Në arsimin fillor, orët suplementare për efekt pagese për mësuesin/kryemësuesin të llogariten mbi normën javore, kur klasa kolektive ka mbi 10 nxënës.
 8. Në arsimin e mesëm të ulët dhe në arsimin e mesëm të lartë mësuesi nuk lejohet të ketë orë suplementare, më shumë se 30% e normës javore.
 9. Puna e mësuesit kujdestar në shkollat e arsimit parauniversitar barasvlerësohet me 2 orë mësimore në javë.
-10. Mësuesi që drejton bibliotekën e shkollës dhe punon me librin i llogariten:
-a) 3 orë në javë, kur shkolla ka bibliotekë dhe ka mbi 201-600 nxënës.
-b) 4 orë në javë, kur shkolla ka bibliotekë dhe ka mbi 600 nxënës.
+10. Mësuesi që drejton bibliotekën e shkollës i llogariten:
+a) 2 orë në javë, kur shkolla ka bibliotekë dhe ka deri në 300 nxënës;
+b) 3 orë në javë, kur shkolla ka bibliotekë dhe ka mbi 301-600 nxënës;
+c) 4 orë në javë, kur shkolla ka bibliotekë dhe ka mbi 600 nxënës.

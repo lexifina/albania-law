@@ -1,1 +1,1 @@
-22. Mësuesve mentorë, për mentorimin e një praktikanti, t’u ulet 1/4 e normës javore. Një mësues mentoron 1-4 praktikantë. Kur mësuesi mentoron më pak se 4 praktikantë e plotëson normën javore si mësues.
+22. Mësuesi mentor, për mentorimin e një praktikanti, u ulet norma me 2 në javë. Një mësues mentoron 1-2 praktikantë.
