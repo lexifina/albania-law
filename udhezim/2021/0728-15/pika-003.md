@@ -1,0 +1,1 @@
+3. Procedurat e hartimit dhe vlerësimit të testeve përcaktohen në rregulloren për zhvillimin e provimeve kombëtare të arsimit bazë në Republikën e Shqipërisë miratuar me urdhrin nr. 72, datë 25.2.2020, “Për miratimin e rregullores për zhvillimin e provimeve kombëtare të arsimit bazë, në Republikën e Shqipërisë”.
