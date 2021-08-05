@@ -1,0 +1,63 @@
+VENDIM
+
+Nr. 474, datë 30.7.2021
+
+PËR NJË NDRYSHIM NË VENDIMIN NR. 486, DATË 17.6.2020, TË KËSHILLIT TË MINISTRAVE, “PËR SHTYPJEN, BOTIMIN, SHPËRNDARJEN DHE SHITJEN E TEKSTEVE SHKOLLORE TË SISTEMIT ARSIMOR PARAUNIVERSITAR”
+
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 47, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, të ndryshuar, dhe të ligjit nr. 9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, të ndryshuar, me propozimin e ministrit të Arsimit, Sportit dhe Rinisë, Këshilli i Ministrave
+
+VENDOSI:
+
+1. Pika 6, e vendimit nr. 486, datë 17.6.2020, të Këshillit të Ministrave, ndryshohet, si më poshtë vijon:
+
+“6. Procedurat dhe kategoritë që përfitojnë tekste në përdorim falas në arsimin parauniversitar janë, si më poshtë vijon: 
+
+a) Nxënësit, që ndjekin arsimin bazë, në klasën e parë, në institucionet arsimore publike, në institucionet e paraburgimit, të vuajtjes së dënimit dhe në institucione të përkujdesjes shoqërore, të cilëve u jepen tekstet shkollore të reja, çdo vit, në përdorim falas. Nxënësve, që ndjekin arsimin bazë në këto institucione, nga klasa e dytë deri në klasën e nëntë, u jepen tekstet shkollore në përdorim falas. 
+
+b) Nxënësit në arsimin e mesëm të lartë në institucionet arsimore publike, që u përkasin kategorive të mëposhtme:
+
+i. Kanë përfituar statusin e jetimit;
+
+ii. Vijnë nga familje të cilat trajtohen me ndihmë ekonomike dhe pagesë papunësie nga zyrat e punësimit;
+
+iii. Janë me aftësi të kufizuara, sipas legjislacionit në fuqi për mbrojtjen sociale;
+
+iv. Vijnë nga familje që kanë në përbërjen e tyre anëtarë me aftësi të kufizuara, të lindur ose të bërë të tillë, të cilët deklarohen të paaftë për punë, sipas legjislacionit në fuqi për mbrojtjen sociale;
+
+v. Vijnë nga familje ku kryefamiljari përfiton pension invaliditeti shteti;
+
+vi. Vijnë nga familje ku kryefamiljari përfiton pension pleqërie shteti dhe kanë fëmijë në ngarkim, të cilët janë pa të ardhura;
+
+vii. I përkasin kategorisë rome dhe egjiptiane. Drejtoritë përkatëse të institucioneve arsimore, ku mësojnë këta nxënës, duhet të dorëzojnë në ZVAP-të përkatëse, brenda muajit mars të çdo viti, listën e nxënësve të këtyre kategorive. Mënyra e shpërndarjes së teksteve për këto kategori nxënësish përcaktohet me udhëzim të ministrit përgjegjës për arsimin;
+
+viii. Gëzojnë statusin e të verbrit. Nxënësit pajisen me tekste shkollore të transkriptuara në shkrimin brail, të regjistruara në audio ose në shkrim të zmadhuar, të cilat janë pronë e shkollës. Administrimi i kërkesave për prodhimin/shumëfishimin e teksteve në brail dhe në shkrim të zmadhuar literal, si dhe pajisja me libra e nxënësve të verbër të realizohen nga Instituti i Nxënësve që nuk Shikojnë, në Tiranë. Drejtoritë përkatëse të institucioneve arsimore, ku mësojnë këta nxënës, duhet të dorëzojnë në ZVAP-të përkatëse, brenda muajit mars të çdo viti, listën e nxënësve të kësaj kategorie;
+
+ix. Janë viktima të trafikimit, të cilëve u ofrohet ndihmë dhe asistencë nga Qendra Kombëtare e Pritjes së Viktimave të Trafikimit, Qendra Kombëtare e Viktimave të Dhunës në Familje dhe Qendra Kombëtare Tranzitore e Emergjencës, sipas kërkesës zyrtare për sasinë e teksteve shkollore të nevojshme;
+
+x. Gëzojnë statusin e viktimës dhe të viktimës së mundshme të trafikimit, në përputhje me vendimin nr. 499, datë 29.8.2018, të Këshillit të Ministrave, “Për miratimin e procedurave standarde të veprimit për mbrojtjen e viktimave dhe viktimave të mundshme të trafikimit”.
+
+xi. Janë të moshës shkollore të arsimit parauniversitar, të cilët janë në institucionet e paraburgimit/vuajtjes së dënimit;
+
+xii. Janë të shtruar në Shërbimin Onkologjik, në Qendrën Spitalore Universitare “Nënë Tereza”. Kërkesa dhe sasia për tekstet shkollore dërgohet nga ky shërbim në muajin gusht të çdo viti;
+
+xiii. Janë fëmijë të punonjësve të Policisë së Shtetit, të Gardës së Republikës, të Shërbimit të Kontrollit të Brendshëm, të Shërbimit të Mbrojtjes nga Zjarri dhe të Shpëtimit, të Forcave të Armatosura, të Shërbimit Informativ të Shtetit dhe të Policisë së Burgjeve, të cilët kanë humbur jetën në krye dhe për shkak të detyrës;
+
+xiv. Janë përfitues në institucionet e përkujdesjes sociale rezidenciale publike, në Qendrën Kombëtare të Pritjes së Viktimave të Trafikimit, Qendrën Kombëtare të Viktimave të Dhunës në Familje dhe Qendrën Kombëtare Tranzitore të Emergjencës. Drejtoritë përkatëse të institucioneve arsimore, ku mësojnë këta nxënës, duhet të bashkërendojnë punën me drejtoritë e institucioneve të sipërpërmendura dhe të dorëzojnë në ZVAP-të përkatëse, brenda muajit mars të çdo viti, listën e nxënësve të kësaj kategorie. Mënyra e shpërndarjes së teksteve për këtë kategori nxënësish përcaktohet me udhëzim të ministrit përgjegjës për arsimin.
+
+c) Procedura për pajisjen me tekste shkollore në përdorim falas realizohet, si më poshtë vijon:
+
+i. Institucionet arsimore publike, institucionet e paraburgimit, të vuajtjes së dënimit dhe institucionet e përkujdesjes shoqërore në bashkëpunim me zyrat vendore të arsimit parauniversitar, brenda muajit korrik të çdo viti, përgatisin listën e parashikuar të teksteve për përdorim falas dhe të reja, nga klasa e parë deri në klasën e nëntë.
+
+ii. Blerja e teksteve të reja shkollore të nxënësve që ndjekin arsimin bazë, nga klasa e parë deri në klasën e nëntë, realizohet nga institucioni arsimor publik, institucionet e paraburgimit, të vuajtjes së dënimit dhe institucionet e përkujdesjes shoqërore, në emër të zyrës vendore të arsimit parauniversitar.
+
+iii. Likuidimi i faturës tatimore ndaj shtëpive botuese dhe/ose distributorëve të autorizuar realizohet nga zyra vendore e arsimit parauniversitar, me fondet e miratuara si “Transfertë tek individët”, në buxhetin e ministrisë përgjegjëse për arsimin, në llogarinë bankare të shitësit. Mënyra e shpërndarjes dhe e administrimit të teksteve për këtë kategori nxënësish përcaktohet me udhëzim të ministrit përgjegjës për arsimin.
+
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti vjetor i miratuar për Ministrinë e Arsimit, Sportit dhe Rinisë, si dhe fondet shtesë me burim financimi buxhetin e shtetit.
+
+3. Ngarkohen Ministria e Arsimit, Sportit dhe Rinisë dhe Ministria e Financave dhe Ekonomisë për zbatimin e këtij vendimi.
+
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
+
+ZËVENDËSKRYEMINISTËR
+
+Erion Braçe
