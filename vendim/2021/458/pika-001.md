@@ -1,0 +1,1 @@
+1. Miratimin e rregullores së licencimit për subjektet që ushtrojnë veprimtarinë e tyre si ofrues të shërbimeve inovative, mënyrën e vlerësimit të kritereve të veçanta për sipërmarrjet e automatizuara të investimeve kolektive DT, si dhe certifikimin e marrëveshjes së teknologjisë inovative, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
