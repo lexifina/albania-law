@@ -1,1 +1,2 @@
-8. Drejtori i shkollës me 601-900 nxënës: 4 orë në javë.
+8. Drejtori i shkollës me 601-900 nxënës:
+2 orë në javë

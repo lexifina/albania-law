@@ -1,1 +1,2 @@
-9. Drejtori i shkollës me mbi 900 nxënës: nuk jep mësim.
+9. Drejtori i shkollës mbi 900 nxënës:
+0-2 orë në javë
