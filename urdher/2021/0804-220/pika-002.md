@@ -1,0 +1,2 @@
+2. Gjyqtari z. Ardian Hajdari për periudhën sipërcituar do të nënshkruajë në emër të kryetarit në mungesë të tij;
+- Shkresat që dalin nga institucioni drejtuar Komisionerit Publik, Komisionit të Pavarur të Kualifikimit, Operacionit Ndërkombëtar të Monitorimit, si dhe denoncuesve, lidhur me denoncimet e paraqitura prej tyre pranë Kolegjit të Posaçëm të Apelimit, të cilat janë brenda afatit të ankimimit.
