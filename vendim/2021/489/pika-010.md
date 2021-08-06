@@ -1,0 +1,1 @@
+10. Vendimi nr. 444, datë 26.6.2019, i Këshillit të Ministrave, “Për miratimin e listës së barnave që rimbursohen nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor dhe masës së mbulimit të çmimit të tyre”, i ndryshuar, shfuqizohet.
