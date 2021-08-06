@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, për pasuritë me numër 261/100 dhe 270/11, zona kadastrale 2704, dhe numër 524/8, zona kadastrale 2529, Bashkia Tiranë, sipas certifikatave të pronësisë, hartave treguese dhe sipërfaqeve të përcaktuara në lejet zhvillimore përkatëse, që i bashkëlidhen këtij vendimi.

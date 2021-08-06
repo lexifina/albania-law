@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Tiranë, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit nga “tokë bujqësore” në “tokë urbane”, për sipërfaqet ndërtimore të përcaktuara në lejet zhvillimore përkatëse, të pasurive me numër 261/100 dhe 270/11, zona kadastrale 2704, dhe numër 524/8, zona kadastrale 2529, Bashkia Tiranë.
