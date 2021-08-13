@@ -1,0 +1,1 @@
+18. Në rastet kur personi i kërcënuar punon në një rreth apo qark dhe familja e tij banon në një tjetër, masat urgjente mbrojtëse merren sipas nevojës për të dhe për familjen, në funksion të mbrojtjes dhe në varësi të intensitetit që ka kërcënimi.

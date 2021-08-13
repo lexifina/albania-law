@@ -1,0 +1,1 @@
+17. Krahas marrjes së masave mbrojtëse, punonjësit e strukturës së posaçme të Policisë së Burgjeve bashkëpunojnë me Policinë e Shtetit dhe institucionet e tjera për marrjen në vazhdimësi të informacioneve në funksion të parandalimit të ngjarjeve të mundshme kriminale, në drejtim të personit të mbrojtur, familjes, banesës apo pasurisë së tij.

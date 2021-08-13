@@ -1,0 +1,1 @@
+15. Struktura e posaçme e Policisë së Burgjeve është përgjegjëse për marrjen e masave për ekzekutimin e urdhrit të ministrit të Drejtësisë, mbi ruajtjen fizike apo edhe masa të tjera, sipas përcaktimeve të bëra në urdhër.

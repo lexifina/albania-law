@@ -1,0 +1,1 @@
+3. Kërkesa drejtuar ministrit të Drejtësisë përmban gjeneralitetet e personit që i kanoset një rrezik apo, kur është rasti, të dhënat e pasurisë, institucionin ku personi punon, arsyet e rrezikut, rrethanat, llojin e rrezikut, si dhe kushtet e emergjencës apo të kompleksitetit të çështjes.

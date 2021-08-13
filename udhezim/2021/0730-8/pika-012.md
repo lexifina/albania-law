@@ -1,0 +1,1 @@
+12. Kur ministri i Drejtësisë urdhëron mbrojtjen e veçantë, struktura e posaçme e Policisë së Burgjeve kryen verifikimin e dokumentacionit identifikues dhe vendos menjëherë nën mbrojtje punonjësin e Policisë së Burgjeve, drejtuesin e institucionit, familjen apo pasurinë e tij.

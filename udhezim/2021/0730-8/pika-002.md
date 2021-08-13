@@ -1,0 +1,1 @@
+2. Në rastet kur punonjësi i Policisë së Burgjeve apo drejtuesi i institucionit ndodhen përballë një rreziku dhe situate emergjente a komplekse për veten e tyre, familjen ose pasurinë, për shkak të detyrës që mbajnë apo që kanë kryer, i paraqet menjëherë kërkesë me shkrim ministrit të Drejtësisë.

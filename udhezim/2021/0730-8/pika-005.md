@@ -1,0 +1,1 @@
+5. Ministri i Drejtësisë vendos mbi sigurimin ose jo të mbrojtjes së veçantë menjëherë dhe, në çdo rast, jo më vonë se 24 (njëzet e katër) orë nga marrja e kërkesës. Urdhri i ministrit për sigurimin e mbrojtjes së veçantë i njoftohet menjëherë drejtorit të Policisë së Burgjeve, i cili siguron zbatimin e tij nga struktura e posaçme e Policisë së Burgjeve.

@@ -1,0 +1,1 @@
+14. Masat mbrojtëse vendosen me afat deri në 3 (tre) muaj dhe me të drejtë shtyrjeje afati jo më shumë se 1 (një) muaj. Kohëzgjatja e masave mbrojtëse vazhdon deri në largimin e kushteve dhe të rrethanave për të cilat është vendosur mbrojtja.

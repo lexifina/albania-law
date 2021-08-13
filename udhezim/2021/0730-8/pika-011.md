@@ -1,0 +1,1 @@
+11. Kundër urdhrit të ministrit të Drejtësisë për mospranim të kërkesës për mbrojtje të veçantë, si dhe kundër urdhrit për ndryshimin apo revokimit, kërkuesi mund të paraqesë ankim në gjykatën kompetente, në përputhje me parashikimet e Kodit të Procedurës Administrative, si dhe legjislacionit në fuqi për gjykimin e mosmarrëveshjeve administrative.
