@@ -1,0 +1,7 @@
+# Neni 36
+Parimet e procedimit disiplinor
+1. Masat disiplinore arsyetohen dhe merren sipas një procedure transparente dhe në përputhje me të drejtën për një proces të rregullt ligjor, e cila garanton të drejtën për t’u informuar, për të kërkuar sqarime rreth fakteve, për t’u dëgjuar e për t’u mbrojtur. Parimi i proporcionalitetit është bazë në përcaktimin e masës disiplinore.
+2. Palët në procedim disiplinor kanë të drejtë të paraqiten dhe të japin shpjegime në seancë vetë ose nëpërmjet përfaqësimit me të tretë. Nëse njëra ose të dyja palët nuk paraqiten në seancë pa shkaqe të arsyeshme, komisioni disiplinor përkatës shqyrton çështjen dhe merr vendim në mungesë të tyre.
+3. Shpjegimet e palëve dhe dëshmitë në seancë mund të jepen me gojë ose me shkrim.
+4. Përkthyesi zyrtar ose interpreti i gjuhës së shenjave, subjekt i procedimit disiplinor, duhet të paraqesë me shkrim shpjegimet e tij për ankesën brenda 10 (dhjetë) ditëve nga dita e marrjes së njoftimit. Njoftimi për këtë qëllim mund të bëhet në rrugë shkresore ose elektronike. Mosparaqitja e shpjegimeve nga ana e përkthyesit zyrtar ose interpretit të gjuhës së shenjave nuk përbën shkak për mosvazhdimin e procedimit disiplinor përkatës.
+5. Komisioni disiplinor përkatës pranon deklaratat nga dëshmitarët e dokumentet e paraqitura para tij, në cilësinë e provës, dhe i çmon ato sipas bindjes së formuar pas shqyrtimit në tërësi të tyre. Procedimi disiplinor duhet t’i përmbahet vetëm objektit të kërkesës për fillimin e procedimit disiplinor.

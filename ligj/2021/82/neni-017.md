@@ -1,0 +1,5 @@
+# Neni 17
+Certifikata e përkthyesit zyrtar
+1. Kandidati për përkthyes zyrtar ose për interpret të gjuhës së shenjave dorëzon kërkesën për pajisjen me certifikatën e ushtrimit të profesionit pranë ministrisë pas kalimit me sukses të provimit të kualifikimit brenda 30 ditëve nga data e shpalljes së rezultatit. Ministri jep certifikatën e përkthyesit zyrtar ose të interpretit të gjuhës së shenjave brenda 45 ditëve nga dorëzimi i kërkesës.
+2. Certifikata e ushtrimit të profesionit të përkthyesit zyrtar ose të interpretit të gjuhës së shenjave është pa afat dhe e patjetërsueshme.
+3. Nëse kandidati për përkthyes zyrtar ose për interpret të gjuhës së shenjave, që ka kaluar me sukses provimin e kualifikimit, nuk paraqet kërkesën për pajisjen me certifikatën e ushtrimit të profesionit në afatin e përcaktuar në pikën 1 të këtij neni, pa shkak të arsyeshëm, konsiderohet se ka hequr dorë nga e drejta për t’u pajisur me certifikatën e ushtrimit të profesionit dhe humb të drejtën për të marrë pjesë në provimet e kualifikimit që do të zhvillohen në 5 vitet e ardhshme.
