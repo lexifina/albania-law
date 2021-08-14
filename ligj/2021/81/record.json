@@ -1,0 +1,26 @@
+{
+  "qbz_id": 23382,
+  "title": "“Për disa shtesa dhe ndryshime në ligjin nr. 102/2015 “Për sektorin e gazit natyror”, të ndryshuar”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "81",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2021-06-24",
+  "published": "2021-07-30",
+  "in_force": "2021-08-14",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/c5604024544ceb42f4e280bfd4bf2bdba535e501a3dfc23c7e7b9030ce00c54f.docx",
+  "source_sha256": "c5604024544ceb42f4e280bfd4bf2bdba535e501a3dfc23c7e7b9030ce00c54f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23382",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2021/06/24/81",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
