@@ -4,6 +4,10 @@ Nr. 90, datë 6.4.2021
 
 MBI LICENCIMIN E SHOQËRISË “ALBPETROL” SHA, NË AKTIVITETIN E FURNIZIMIT TË GAZIT NATYROR (SHITJE ME PAKICË)
 
+(Ndryshuar me vendimin nr. 172, datë 16.8.2021)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; nenit 4, pika 50; nenit 22, pika 2, germa “c”, të ligjit nr. 102/2015, “Për sektorin e gazit natyror”, të ndryshuar; si dhe nenit 4, pika 1, germa “c”; nenit 5 dhe nenit 12, të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e gazit natyror”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 97, datë 4.7.2017, të ndryshuar; si dhe nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s, nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e datës 6.4.2021, mbasi shqyrtoi relacionin nr. 40/7 prot., datë 2.4.2021 dhe atë nr. 40/7-1 prot., datë 5.4.2021, të përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes mbi licencimin e shoqërisë “Albpetrol” sh.a., për licencim në veprimtarinë e furnizimit të gazit natyror,
 
 konstatoi se: 
@@ -46,15 +50,15 @@ Për gjithë sa më sipër cituar, Bordi të ERE-s
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “Albpetrol” sh.a. në aktivitetin e furnizimit të gazit natyror (shitje me pakicë), për një afat 10-vjeçar, me kusht që brenda 3 (tre) muajve nga marrja dijeni e këtij vendimi të depozitojë në ERE:
+	Të licencojë shoqërinë “Albpetrol” sh.a., në aktivitetin e furnizimit të gazit natyror (shitje me pakicë), për një afat 10-vjeçar;
 
-a) vërtetimet e gjykatës dhe të prokurorisë për administratorin e ri të saj, dhe vërtetimet e gjykatës dhe prokurorisë për vetë shoqërinë “Albpetrol” sh.a., me data të përditësuara;
-
-b) deklarime të lëshuara prej autoriteteve përkatëse për shlyerjen e detyrimeve fiskale dhe të sigurimeve shoqërore, në masën që këto detyrime janë plotësuar prej aplikantit;
-
-2. Shoqëria “Albpetrol” sh.a. të depozitojë në ERE përpara fillimit të operimit dokumentacionin pronësor dhe Lejet mjedisore në origjinal ose të njësuar me origjinalin.
+	2. Shoqëria “Albpetrol” sh.a. duhet të depozitojë çdo 3 (tre) muaj në ERE çdo dokument pronësor dhe mjedisor që i shërben ushtrimit të veprimtarisë së licencuar.
 
 3. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë palët e interesit për   vendimin e bordit të ERE-s.
+
+	3. Shoqëria “Albpetrol” sh.a. të dokumentojë në ERE brenda 6 (gjashtë) muajve kryerjen e të gjitha pagesave ndaj institucionit të tatimeve.
+
+	4. Ky vendim është objekt rishikimi nga ERE.
 
 Ky vendim hyn në fuqi menjëherë. 
 
