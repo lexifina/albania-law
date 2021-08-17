@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet vendimi nr. 1/2021, i Këshillit të Stabilizim-Asociimit Bashkimi Evropian-Shqipëri, që ndryshon Marrëveshjen e Stabilizim-Asociimit, ndërmjet Komuniteteve Evropiane dhe Shteteve të tyre Anëtare, nga njëra anë, dhe Republikës së Shqipërisë, nga ana tjetër, duke zëvendësuar protokollin 4 të saj, në lidhje me përkufizimin e konceptit “produkte origjinuese” dhe metodat e bashkëpunimit administrativ, sipas tekstit që i bashkëlidhet këtij ligji.
