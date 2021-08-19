@@ -1,0 +1,1 @@
+1. Tarifat e shërbimeve portuale të portit të llojit MBM në Porto-Romano, Durrës, caktohen sipas lidhjes që i bashkëngjitet këtij udhëzimi dhe është pjesë përbërëse e tij. Niveli i tarifës është shprehur pa TVSH.
