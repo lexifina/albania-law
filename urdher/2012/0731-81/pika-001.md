@@ -1,1 +1,0 @@
-1. Miratimin e rregullores mbi shërbimin e informacionit aeronautik, sipas tekstit, shtojcave, materialeve udhëzuese dhe ilustruese përkatëse, që i bashkëlidhen këtij urdhri dhe janë pjesë përbërëse e tij.
