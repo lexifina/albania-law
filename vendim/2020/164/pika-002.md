@@ -1,5 +1,1 @@
-2. Caktimin e Fondit Shqiptar të Zhvillimit për këtë zonë, si njësi zbatuese, për:
-a) ndërtimin e banesave të reja ose të ndërtesave publike të dëmtuara;
-b) ndërtimin dhe rikonstruksionin e infrastrukturës publike e kritike;
-c) realizimin e ndërtimeve në këtë zonë;
-ç) çdo ndërhyrje tjetër në funksion të rindërtimit të kësaj zone.
+2. Caktimin e Fondit Shqiptar të Zhvillimit si njësi zbatuese për këtë zonë, për ndërtimin dhe rikonstruksionin e infrastrukturës publike e kritike.
