@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 24, datë 16.6.2021, “Për miratimin e tekstit të marrëveshjes për prodhimin dhe furnizimin nga dhe ndërmjet Pfizer Overseas LLC dhe Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale të Shqipërisë, Institutit të Shëndetit Publik dhe ministrit të Shtetit për Rindërtimin”.
