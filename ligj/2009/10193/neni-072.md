@@ -1,0 +1,6 @@
+# Neni 72
+Veprimet e Ministrisë së Drejtësisë
+1. Ministri i Drejtësisë, nëse pranon kërkesën për transferim të procedimit penal, ia përcjell aktet brenda 30 ditëve prokurorit të rrethit të vendbanimit të personit të dyshuar, nëpërmjet Prokurorit të Përgjithshëm, duke njoftuar njëkohësisht edhe shtetin kërkues.
+2. Aktet përkthehen nga Ministria e Drejtësisë. Shpenzimet e përkthimit evidentohen dhe i përcillen organit të prokurorisë për t’u përfshirë në shpenzimet procedurale të parapaguara, sipas nenit 485 të Kodit të Procedurës Penale. Në raste të ndërlikuara, për shkak të vëllimit të akteve për përkthim, afati i përcaktuar në pikën 1 të këtij neni mund të zgjatet edhe 15 ditë.
+3. Ministri i Drejtësisë, nëse ka konstatuar se kërkesës për transferim nuk i janë bashkëngjitur të gjitha aktet e nevojshme, por gjithsesi arrin në përfundimin që nuk është rasti për refuzimin e kërkesës për transferim, pranon transferimin e procedimit dhe ia përcjell aktet Prokurorit të Përgjithshëm. Në këtë rast, Ministria e Drejtësisë vepron, për aq sa është e mundur, sipas nenit 11 të këtij ligji. Aktet plotësuese të paraqitura nga shteti kërkues i përcillen organit të prokurorisë, të përkthyera, brenda 7 ditëve nga marrja e tyre.
+4. Ministria e Drejtësisë vepron në të njëjtën mënyrë edhe në rast se i paraqitet kërkesë për plotësim aktesh nga autoritetet gjyqësore vendase.

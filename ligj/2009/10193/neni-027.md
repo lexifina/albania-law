@@ -1,0 +1,4 @@
+# Neni 27
+Përcjellja e të dhënave pa kërkesë
+1. Autoritetet gjyqësore vendase edhe kryesisht i përcjellin autoriteteve gjyqësore të huaja informacion që lidhet me veprat penale, të mbledhur gjatë procedimit penal, nëse ato vlerësojnë se përcjellja e një informacioni të tillë mund të ndihmojë në fillimin e një procedimi penal apo në paraqitjen e një kërkese për ndihmë juridike nga shteti i huaj. Përcjellja e këtij informacioni bëhet nëse nuk pengohet ecuria e procedimit penal në Shqipëri dhe duke respektuar kushtet e reciprocitetit.
+2. Autoriteti gjyqësor kompetent vendas mund të kërkojë nga autoritetet gjyqësore të huaja, që kanë marrë informacionin e përmendur në pikën 1 të këtij neni, të dhëna për masat e marra në lidhje me informacionin e përcjellë. Gjithashtu, autoriteti gjyqësor kompetent vendas mund të vendosë kushte të tjera në lidhje me përdorimin e këtij informacioni në shtetin, të cilit i është përcjellë informacioni.

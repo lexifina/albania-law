@@ -1,0 +1,6 @@
+# Neni 51
+Garancitë në lidhje me personin e ekstraduar
+1. Kur personi i kërkuar ekstradohet, ai gëzon të gjitha të drejtat e parashikuara në nenin 42 të këtij ligji, me përjashtim të rastit kur i ekstraduari ka hequr dorë nga këto të drejta dhe kur shteti i kërkuar e ka përcaktuar një gjë të tillë shprehimisht në kërkesë.
+2. Kur ekstradimi në Republikën e Shqipërisë i një personi të kërkuar është dhënë sipas kushteve të caktuara, në lidhje me llojin ose afatin e dënimit që mund të jepet ose ekzekutohet dhe është pranuar me këto kushte, autoritetet gjyqësore vendase janë të detyruara t’i respektojnë këto kushte gjatë procedimit penal apo gjatë ekzekutimit të dënimit.
+3. Kur i ekstraduari është ndaluar në shtetin e kërkuar për veprën penale për të cilën ai është ekstraduar, koha që ai ka kaluar në ndalim llogaritet në masën e dënimit.
+4. Vendimi penal i formës së prerë, i dhënë ndaj personit të ekstraduar nga autoritetet gjyqësore vendase, në mungesë të tij, mund të rishikohet me kërkesë të të ekstraduarit, nëse Ministri i Drejtësisë i ka dhënë një garanci të tillë shtetit të kërkuar. Kërkesa për rishikim paraqitet brenda 30 ditëve nga mbërritja e të ekstraduarit në territorin shqiptar dhe shqyrtimi i saj ndjek rregullat e Kodit të Procedurës Penale.

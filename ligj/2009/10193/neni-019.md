@@ -1,0 +1,5 @@
+# Neni 19
+Paprekshmëria e personit të thirrur
+1. Kur personi, për të cilin kërkohet njoftimi për t’u thirrur në procedim në Shqipëri, nuk arrin të veprojë në përputhje me aktin e thirrjes, të lëshuar nga shteti kërkues, ndaj tij nuk ndërmerret asnjë masë detyruese, shtrënguese apo sanksion penal.
+2. Nëse autoritetet gjyqësore vendase thërrasin një dëshmitar ose ekspert me vendbanim ose vendqëndrim jashtë shtetit, ai, gjatë kohës së qëndrimit në Shqipëri, nuk do t’i nënshtrohet procedimit penal për një vepër të kryer përpara paraqitjes në territorin shqiptar dhe as do të dërgohet të vuajë një dënim penal të dhënë me një vendim gjyqësor vendas, të dhënë përpara paraqitjes së tij.
+3. Pika 2 e këtij neni nuk zbatohet nëse dëshmitari apo eksperti, edhe pse i është dhënë mundësia, nuk është larguar nga territori shqiptar brenda 15 ditëve pasi ai është njoftuar se prania e tij nuk është më e nevojshme. Ky afat nuk përfshin periudhën gjatë së cilës dëshmitari apo eksperti nuk mund të largohej nga territori shqiptar për shkaqe të ligjshme të dokumentuara.

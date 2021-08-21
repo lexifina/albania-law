@@ -1,0 +1,5 @@
+# Neni 68
+Vendimi për të kërkuar transferimin
+1. Vendimi për të kërkuar transferimin e procedimit penal merret nga organi i prokurorisë ose gjykata që procedon. Vendimi mund të ankimohet nga i pandehuri, mbrojtësi ose i dëmtuari në gjykatë brenda 10 ditëve nga marrja dijeni. Në këtë rast, gjykata vendos për ankimin brenda 5 ditëve nga paraqitja e tij, mbi bazë dokumentesh.
+2. Vendimi për të kërkuar transferimin në fazën e hetimeve paraprake nuk e pengon prokurorin që të marrë prova. Prokurori vendos zgjatjen e afatit të hetimeve, sipas nenit 324 të Kodit të Procedurës Penale, në pritje të vendimit të shtetit të kërkuar. Ai ia njofton vendimin për zgjatjen e afatit hetimor Ministrisë së Drejtësisë, nëpërmjet Prokurorit të Përgjithshëm.
+3. Nëse vendimi për të kërkuar transferimin merret gjatë shqyrtimit gjyqësor, gjykata pezullon shqyrtimin gjyqësor dhe zbaton, për aq sa është e mundur, rregullat e nenit 343 të Kodit të Procedurës Penale. Pezullimi nuk pengon autoritetin gjyqësor vendas që të marrë prova që mund të çojnë në pafajësinë e të pandehurit dhe, kur vonesa paraqet rrezik, çdo provë tjetër të kërkuar nga palët.
