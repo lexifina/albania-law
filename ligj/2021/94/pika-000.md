@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 27, datë 1.7.2021, i Këshillit të Ministrave, “Për një shtesë në ligjin nr. 9920, datë 19.5.2008, ’Për procedurat tatimore në Republikën e Shqipërisë’, të ndryshuar”.
