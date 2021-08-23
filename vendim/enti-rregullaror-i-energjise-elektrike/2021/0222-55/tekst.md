@@ -4,6 +4,10 @@ Nr. 55, datë 22.2.2021
 
 MBI LICENCIMIN E SHOQËRISË ARIS ALBANIA SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE, NGA HEC “GURI I ZI” ME KAPACITET TË INSTALUAR 1719 kw, HEC “DAZNJANË” ME KAPACITET TË INSTALUAR 1518 kw, DHE HEC “SHËLLI” ME KAPACITET TË INSTALUAR 1518 kw, ME KAPACITET TOTAL TË INSTALUAR 4755 kw
 
+`(Ndryshuar me vendimin Nr. 177, datë 23.8.2021)   
+
+( I përditësuar)
+
 Në mbështetje të nenit 16 dhe të nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të nenit 4, pika 1, germa “a”, të nenit 5, pika 1, germa “a”, dhe të nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë nr. 109, datë 29.6.2016, të ndryshuar, si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, të miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 22.2.2021, mbasi shqyrtoi relacionin nr. 30/8 prot., datë 21.2.2021, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, mbi aplikimin e shoqërisë “Aris Albania” sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike,
 
 konstatoi se: 
@@ -44,7 +48,7 @@ VENDOSI:
 
 2. Në përfundim të afatit të lejeve të shfrytëzimit të burimit ujor (data e përfundimit 27.4.2022), me nr. 99 prot., datë 8.5.2017, për HEC “Daznjanë”; nr. 100 prot., datë 8.5.2017, për HEC “Guri i Zi” dhe nr. 101 prot., datë 8.5.2017, për HEC “Shëlli”, shoqëria “Aris Albania” sh.p.k. t’i paraqesë në ERE me afate të rinovuara, jo më vonë se 1 muaj nga nënshkrimi i rinovimit. 
 
-3. Në përfundim të afatit të kontratave respektive të qirasë me Bashkinë Mat (data e përfundimit 16.7.2021), shoqëria “Aris Albania” sh.p.k. t’i paraqesë në ERE me afate të rinovuara, jo më vonë se 1 muaj nga nënshkrimi i rinovimit.
+3. Në përfundim të afatit të kontratave respektive të qirasë me Bashkinë Mat (data e përfundimit 15.7.2022), shoqëria “Aris Albania” sh.p.k. t’i paraqesë ato në ERE, me afate të rinovuara, jo më vonë se 1 (një) muaj nga nënshkrimi i rinovimit.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
