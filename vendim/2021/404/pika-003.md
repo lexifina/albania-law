@@ -1,1 +1,0 @@
-3. Caktimin e Fondit Shqiptar të Zhvillimit si njësi zbatuese për rikonstruksionin e rrugëve “Miqësia” dhe “Azem Hajdari - Gjelbërimi”, të ndodhura brenda konturit të zonës së re për zhvillim, zona 4, Njësia Administrative Durrës, Bashkia Durrës.
