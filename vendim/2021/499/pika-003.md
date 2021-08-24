@@ -1,0 +1,1 @@
+3. Ngarkohet Qendra Kombëtare Pritëse për Azilkërkues që, për shkak të emergjencës së krijuar nga kërkuesit e mbrojtjes ndërkombëtare, të marrë masa të menjëhershme në funksion të rikonstruksionit të godinës, sipas përcaktimeve të pikës 2, të këtij vendimi, në përputhje me legjislacionin në fuqi.

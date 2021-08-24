@@ -1,0 +1,1 @@
+2. Fondi prej 6 700 000 (gjashtë milionë e shtatëqind mijë) lekësh të përdoret nga Qendra Kombëtare Pritëse për Azilkërkues, për kryerjen e procedurës së prokurimit me objekt: “Rikonstruksion i godinës së QKPA-së”, me qëllim rritjen e kapaciteteve akomoduese për kërkuesit e mbrojtjes ndërkombëtare në Qendrën Kombëtare Pritëse për Azilkërkues në Tiranë.
