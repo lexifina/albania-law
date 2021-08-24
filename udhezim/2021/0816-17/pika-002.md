@@ -1,0 +1,1 @@
+2. Vendosjen e një bashkëpunimi të ngushtë të stafit të kopshteve me prindërit dhe komunitetin, për krijimin e një modeli të ri të sjelljes së fëmijëve, mësuesve dhe prindërve në mjediset e kopshtit dhe jashtë tyre, bazuar në protokollet e situatës COVID-19.

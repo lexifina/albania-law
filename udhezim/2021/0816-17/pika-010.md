@@ -1,0 +1,1 @@
+10. Regjistrimin me përparësi në shkollë të fëmijëve nga shtresat në nevojë, romë, egjiptianë, me aftësi të kufizuara, të kthyer nga emigracioni, të fëmijëve viktima apo viktima të mundshme të trafikut të qenieve njerëzore etj.

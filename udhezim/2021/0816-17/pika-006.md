@@ -1,0 +1,1 @@
+6. Pajisjen e fëmijëve që përfundojnë të paktën grupin e tretë të kopshtit ose klasën përgatitore dhe kanë moshën për të ndjekur klasën e parë, me vërtetimin e ndjekjes së kopshtit për grupin përkatës, të nënshkruar nga drejtuesi i kopshtit.

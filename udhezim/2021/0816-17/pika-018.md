@@ -1,0 +1,1 @@
+18. Zbatimin e veprimtarive në kuadrin e projektit e-Twinning, në përputhje me urdhrin nr. 34, datë 24.2.2021, “Për realizimin e planit të aktiviteteve në kuadër të programit e-Twinning, për periudhën 2021-2022 në përputhje me kushtet e marrëveshjes”.
