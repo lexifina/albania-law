@@ -1,0 +1,2 @@
+2. Për zbatimin e këtij urdhri ngarkohen ministria përgjegjëse për arsimin dhe formimin profesional, Agjencia Kombëtare e Arsimit, Formimit Profesional dhe Kualifikimeve dhe ofruesit publikë e jopublikë të arsimit dhe formimit profesional, të cilët ofrojnë kualifikime profesionale të niveleve 2-5, të Kornizës Shqiptare të Kualifikimeve.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
