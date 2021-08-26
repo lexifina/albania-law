@@ -2,7 +2,7 @@
 KREU 3
 ZHVILLIMI I VETËVLERËSIMIT NË INSTITUCIONET OFRUESE TË AFP-së
 1. Drejtori i institucionit ka përgjegjësinë të planifikojë dhe të mbikëqyrë procesin e vetëvlerësimit
-2. Vetëvlerësimi kryhet nën drejtimin e ekipit përgjegjës, i cili përbëhet nga tri punonjës të institucionit (mësues/instruktorë), ku njëri është zëvendësdrejtori i institucionit. Kur nuk ka zëvendësdrejtor, drejtimin e kryen drejtori.
+2. Vetëvlerësimi kryhet nën drejtimin e ekipit përgjegjës, i cili përbëhet nga 3 anëtarë, nga të cilët kryetari është përgjegjësi i njësisë së zhvillimit në ofruesit publikë të AFP-së ose drejtuesi i njësisë përgjegjëse për sigurimin e cilësisë në ofruesit jopublikë të AFP-së. Ekipi përgjegjës përcakton një prej anëtarëve për përdorimin e platformës digjitale dhe hedhjen e të dhënave dhe gjetjeve në të.
 3. Ekipi përgjegjës miratohet nga drejtoria e institucionit.
 4. Ekipi përgjegjës krijon dhe ekipe mbështetëse, me pjesëmarrjen në to të personelit arsimor, të grupeve të interesit për institucionin, për mbarëvajtjen e procesit të vetëvlerësimit.
 5. Ekipi përgjegjës dhe ekipet mbështetëse gjatë zhvillimit të vetëvlerësimit e ndërtojnë punën duke hartuar dhe duke realizuar:
