@@ -1,0 +1,1 @@
+8. Task-Forca ndihmohet nga sekretariati teknik në detyrat administrative. Ministri për Evropën dhe Punët e Jashtme dhe ministri i Brendshëm janë përgjegjës për ngritjen e këtij sekretariati, përcaktimin e përbërjes dhe të mënyrës së funksionimit të tij.

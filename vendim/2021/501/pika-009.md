@@ -1,0 +1,1 @@
+9. Periudha e veprimit të Task-Forcës është deri në përfundimin e shqyrtimit të kërkesave për mbrojtje ndërkombëtare nga shtetasit afganë dhe personat pa shtetësi, me vendqëndrim të përkohshëm ose të përhershëm në Republikën Islamike të Afganistanit.

@@ -1,0 +1,1 @@
+5. Krijimin e Task-Forcës, si një strukturë e posaçme e përkohshme, për menaxhimin e fluksit të kërkesave për mbrojtje ndërkombëtare nga shtetasit afganë dhe personat pa shtetësi, me vendqëndrim të përkohshëm ose të përhershëm në Republikën Islamike të Afganistanit.
