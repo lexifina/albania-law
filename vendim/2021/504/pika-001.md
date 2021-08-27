@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi projektit “Rigjenerim urban i shëtitores bregdetare qendrore të Vlorës, sheshit ’Isa Boletini’ dhe Portit, Bashkia Vlorë”.
