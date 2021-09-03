@@ -1,0 +1,26 @@
+{
+  "qbz_id": 23449,
+  "title": "Për thirrjen e mbledhjes së Kuvendit të porsazgjedhur të Republikës së Shqipërisë",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "13207",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2021-09-01",
+  "published": "2021-09-03",
+  "in_force": "2021-09-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/fbfe32e983427dafee80f7afc1217e0f4b583fb4cbfe5fca0b040463299ee82a.docx",
+  "source_sha256": "fbfe32e983427dafee80f7afc1217e0f4b583fb4cbfe5fca0b040463299ee82a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23449",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2021/09/01/13207",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
