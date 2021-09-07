@@ -1,0 +1,5 @@
+VENDIM
+Nr.498, datë 30.7.2021
+PËR MIRATIMIN E KLAUZOLAVE TË STABILITETIT PËR KONTRATËN E KONCESIONIT/PARTNERITETIT PUBLIK PRIVAT, PËR DHËNIEN ME KONCESION/PPP TË PORTIT TURISTIK NË QYTETIN E VLORËS “MARINA DI VALONA”, NDËRMJET MINISTRISË SË INFRASTRUKTURËS DHE ENERGJISË DHE BASHKIMIT TË OPERATORËVE EKONOMIKË “MARINA DI VALONA”, SH.P.K., “MARINA PROJECTS” LTD, “BRUNES”, SH.P.K., “NDREGJONI”, SH.P.K.
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 41, të ligjit nr.125/2013, “Për koncesionet dhe partneritetin publik privat”, të ndryshuar”, me propozimin e ministrit të Infrastrukturës dhe Energjisë, Këshilli i Ministrave
+VENDOSI:

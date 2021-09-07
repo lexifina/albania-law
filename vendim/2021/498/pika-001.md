@@ -1,0 +1,1 @@
+1. Miratimin e klauzolave të stabilitetit për kontratën e koncesionit/partneritetit publik privat, për dhënien me koncesion/PPP të portit turistik në qytetin e Vlorës “Marina di Valona”, ndërmjet Ministrisë së Infrastrukturës dhe Energjisë dhe bashkimit të operatorëve ekonomikë “Marina di Valona”, sh.p.k., “Marina projects” LTD, “Brunes”, sh.p.k., “Ndregjoni”, sh.p.k.
