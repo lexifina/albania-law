@@ -1,0 +1,26 @@
+{
+  "qbz_id": 64449,
+  "title": "Për emërrimin e Rektorit të Akademisë së Studimeve Albanologjike",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "13209",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2021-09-07",
+  "published": "2021-09-08",
+  "in_force": "2021-09-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a8c3dd8543e3e6c9c5ac2730bb68ea96c05de2da64368011a7f97b7d80e5f360.docx",
+  "source_sha256": "a8c3dd8543e3e6c9c5ac2730bb68ea96c05de2da64368011a7f97b7d80e5f360",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64449",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2021/09/07/13209",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
