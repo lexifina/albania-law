@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës për nënshkrimin e praktikave për dhënien e ndihmave financiare të menjëhershme për ushtarakët e Forcave të Armatosura, me propozim të Shefit të Shtabit të Përgjithshëm të FA-së, te zëvendësministri i Mbrojtjes, znj. Dallëndyshe Bici.
