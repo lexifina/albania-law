@@ -1,0 +1,1 @@
+2. Të gjitha aktet e nënshkruara para hyrjes në fuqi të këtij urdhri dhe që janë nxjerrë në zbatim të urdhrit nr. 1905, datë 20.10.2017, të Ministrit të Mbrojtjes, “Për delegim kompetence”, do të vazhdojnë të jenë të vlefshme deri në përfundimin e procesit gjyqësor përkatës.
