@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës për nënshkrimin e urdhrave për dhënie dhe ndërprerje të pagesës së papunësisë për bashkëshorten/in e ushtarakut aktiv të Forcave të Armatosura, te zëvendësministri i Mbrojtjes, znj. Dallëndyshe Bici.
