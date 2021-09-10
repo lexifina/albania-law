@@ -1,1 +1,0 @@
-2. Lejimin e tregtimit të shpendëve të gjalla, nga fermat në zonat e lira nga influenca aviare, në treg, të shoqëruara me raport-analizë (PCR) lëshuar nga Instituti i Sigurisë Ushqimore dhe Veterinare, që vërteton që shpendët janë të pastër nga Influenca Aviare dhe certifikatë shëndetësore veterinare lëshuar nga veterineri zyrtar.
