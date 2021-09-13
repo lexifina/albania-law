@@ -1,0 +1,5 @@
+URDHËR
+Nr. 552, datë 31.8.2021
+PËR MOSRIPËRTËRITJEN E LICENCËS SË SHOQATËS “GRAMM-A” SI AGJENCI E ADMINISTRIMIT KOLEKTIV NË FUSHËN E MBAJTËSVE TË TË DREJTAVE TË PRODHUESVE TË FONOGRAMEVE DHE TË VIDEOGRAMEVE
+Në mbështetje të pikës 4, të nenit 102, të Kushtetutës së Republikës së Shqipërisë, të neneve 134, 135, 157 dhe 158, të ligjit nr. 35/2016, “Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to”, udhëzimit nr. 385, datë 13.10.2020, “Për përcaktimin e kritereve dhe procedurave për marrjen e licencës për administrimin kolektiv të të drejtave të autorit, ripërtëritjen e saj, si dhe përcaktimin e kritereve dhe procedurave për pezullimin dhe heqjen e licencës, në zbatim të ligjit nr. 35/2016, datë 31.3.2016, ’Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to’”, të ndryshuar, kërkesës nr. 3714 prot., datë 16.7.2021, të organizatës për administrimin kolektiv dhe mbrojtjen e të drejtave të prodhuesve të fonogrameve dhe të videogrameve “GRAMM-A”, “Për ripërtëritjen e licencës si Agjenci e Administrimit Kolektiv”, si dhe legjislacionit në fuqi për “Për organizatat jofitimprurëse”,
+URDHËROJ:
