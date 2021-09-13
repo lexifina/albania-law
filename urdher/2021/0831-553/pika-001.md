@@ -1,0 +1,1 @@
+1. Mosripërtëritjen e licencës për shoqërinë “Agjencia e Mbrojtjes së Producentëve ’AMP’” në administrimin kolektiv të të drejtave të prodhuesve të fonogramit dhe të prodhuesve të fiksimeve të para të filmave.
