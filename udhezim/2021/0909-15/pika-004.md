@@ -1,0 +1,1 @@
+4. Nëse qëllimi i testimit është të vlerësojë në mënyrë të veçantë pranueshmërinë e një grupi të caktuar ushqimesh ose një procesi, planet e marrjes së mostrave të përcaktuara në shtojcën I do të respektohen si minimum.

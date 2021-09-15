@@ -1,0 +1,1 @@
+3. Numri i njësive të mostrave të planeve të marrjes së mostrave të përcaktuara në shtojcën I, mund të zvogëlohet nëse operatori i biznesit ushqimor mund të demonstrojë me dokumentacion historik se ka procedura efektive të bazuara në HACCP.
