@@ -1,0 +1,1 @@
+6. Urdhri i ministrit përgjegjës për arsimin nr. 246, datë 20.6.2006, “Për funksionimin e institucionit arsimor privat parauniversitar: - shkollë e mesme e përgjithshme e profilizuar ’Konica’”, shfuqizohet.

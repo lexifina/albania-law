@@ -1,0 +1,1 @@
+4. Ministria e Arsimit, Sportit dhe Rinisë dhe institucionet e saj të varësisë të njohin dokumentacionin e lëshuar nga institucioni arsimor jopublik “Konica”, deri në përfundim të vitit shkollor 2020-2021.

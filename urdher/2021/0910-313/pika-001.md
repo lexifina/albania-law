@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor jopublik të nivelit të arsimit të mesëm të lartë, gjimnazi “Konica”, Durrës, licencuar me urdhrin nr. 246, datë 20.6.2006, të ministrit të Arsimit dhe Shkencës, “Për funksionimin e institucionit arsimor privat parauniversitar: - shkollë e mesme e përgjithshme e profilizuar ’Konica’”.
