@@ -1,0 +1,1 @@
+13. Sinjalet e shfaqura sipas figurave të pikave 6, 7, 8 dhe 9, të këtij udhëzimi, përfshihen në kategorinë e sinjaleve të cilat duhen analizuar me kujdes të veçantë dhe që kanë probabilitet të mesëm shkeljeje.

@@ -1,0 +1,1 @@
+4. Sinjali që shfaqet sipas figurës së mëposhtme, me emërtimin “Position Received too late for alert detection”, lexohet dhe interpretohet se janë marrë të dhënat me vonesë dhe nuk mund të përdoren për të gjeneruar alarm.

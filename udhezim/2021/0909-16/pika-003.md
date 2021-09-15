@@ -1,0 +1,1 @@
+3. Sinjali që shfaqet sipas figurës së mëposhtme, me emërtimin “Position Received but not used yet for alert detection”, lexohet dhe interpretohet se janë marrë të dhënat, por nuk janë përpunuar. Anija e peshkimit nuk ka kryer shkelje.

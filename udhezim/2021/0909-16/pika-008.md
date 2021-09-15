@@ -1,0 +1,1 @@
+8. Në rastin e sinjalit që shfaqet sipas figurave të mëposhtme, me emërtimin “Zone entry” ose “Zone Exit”, analizohet ngjarja dhe oficeri i turnit të shërbimit të DSHPA-së pranë QNOD-së njofton (në telefon ose në radio) kapitenin e anijes në kohë reale, në mënyrë që t’i bëhet me dije që ka hyrë në zonë të ndaluar lundrimi/peshkimi.

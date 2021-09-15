@@ -1,0 +1,1 @@
+14. Sinjalet e shfaqura sipas figurave të pikave 10 dhe 11, të këtij udhëzimi, përfshihen në kategorinë e sinjaleve shqetësuese me probabilitet të lartë shkeljeje dhe që vërtetojnë manipulimin e pajisjes, shuarjen ose nxjerrjen jashtë përdorimit të përkohshëm ose të përhershëm të saj.
