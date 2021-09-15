@@ -1,0 +1,1 @@
+4. Me përjashtim të pikës 3, pulat mund të mbahen në një dendësi më të lartë, me kusht që pronari ose kujdestari i tyre t’i vërtetojë AKVMB-së, se përveç kërkesave të përcaktuara në shtojcën I, “Kërkesat që aplikohen në stabilimente”, plotëson edhe kërkesat e përcaktuara në shtojcën II, “Kërkesat në rast të përdorimit të një densiteti më të lartë të stokut”.
