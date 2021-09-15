@@ -1,0 +1,1 @@
+2. Drejtoritë rajonale të veterinarisë dhe mbrojtjes së bimëve të koordinojnë aktivitetet e kalimit të ushtrimit të detyrave me strukturat e veterinarisë, me çdo njësi të vetëqeverisjes vendore, të territorit ku ushtrojnë funksionet dhe kompetencat e tyre, sipas këtij urdhri dhe detyrave të tjera të përcaktuara nga drejtori i Përgjithshëm i AKVMB-së.
