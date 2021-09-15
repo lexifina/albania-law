@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Drejtorisë së Përgjithhshme të Arkivave, z. Arben Dervishllari, drejtor i Financës dhe Shërbimeve Mbështetëse, për shkak të mungesës me arsye të titullarit të këtij institucioni.
