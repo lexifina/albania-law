@@ -5,7 +5,7 @@ I.3 ARSIMI I MESËM I LARTË
 I.3.1 GJIMNAZET
 DRAP-i dhe ZVAP-ja dhe drejtuesit e gjimnazeve, të ndjekin me përparësi:
 1. Marrjen e masave për krijimin e një mjedisi të jashtëm dhe të brendshëm të shkollës sa më të sigurt nxitës dhe gjithëpërfshirës.
-2. Vendosjen e një bashkëpunimi të ngushtë të stafit me prindërit dhe komunitetin, për krijimin e një modeli të ri të sjelljes së nxënësve, mësuesve dhe prindërve në ambientet e shkollës dhe jashtë saj, bazuar në protokollet e situatës së COVID-19. Zbatimin e udhëzuesit të ASCAP-it për arsimin e mesëm të lartë për përsëritjen dyjavore të temave mësimore për të cilat janë evidentuar mangësi për shkak të zhvillimit të mësimit në kushtet e pandemisë. Ky proces do të realizohet gjatë periudhës 1-10 shtator 2021.
+2. Vendosjen e një bashkëpunimi të ngushtë të stafit me prindërit dhe komunitetin, për krijimin e një modeli të ri të sjelljes së nxënësve, mësuesve dhe prindërve në ambientet e shkollës dhe jashtë saj, bazuar në protokollet e situatës së COVID-19. Zbatimin e udhëzuesit të ASCAP-it për arsimin e mesëm të lartë për përsëritjen e temave mësimore për të cilat janë evidentuar mangësi, për shkak të zhvillimit të mësimit në kushtet e pandemisë. Ky proces do të realizohet gjatë periudhës 1-24 shtator 2021.
 3. Zbatimin e planeve mësimore si më poshtë:
 - plani mësimor i gjimnazit, i miratuar me nr. 12789/1 prot., datë 28.12.2017;
 - plani mësimor i gjimnazit gjuhësor, me nr. 5415 prot., datë 26.5.2016;
