@@ -1,0 +1,1 @@
+1. Fillimin e procedurave për punësimin në strukturat e Ministrisë së Mbrojtjes të znj. Distria Krasniqi dhe znj. Nora Gjakova, fituese të medaljeve të arta në Lojërat Olimpike Verore “Tokio 2020”, për performancën e shkëlqyer në arenën ndërkombëtare sportive, për përfaqësimin dinjitoz, nëpërmjet një arritjeje mbarëkombëtare suksesi dhe talenti të sprovuar.
