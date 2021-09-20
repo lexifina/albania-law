@@ -1,0 +1,1 @@
+2. Ngarkohet Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë, Drejtoria e Përgjithshme e Burgjeve, institucionet e ekzekutimit të vendimeve penale, si dhe Komisioni i Apelimit të Masave Disiplinore për ndjekjen dhe zbatimin e tij.
