@@ -1,0 +1,1 @@
+1. Krijimin, organizimin dhe funksionimin e Agjencisë për Media dhe Informim (më poshtë “Agjencia”) e njohur për publikun edhe si “Media and Information Agency - MIA”, si person juridik publik, në varësi të Kryeministrit, me seli në Tiranë.

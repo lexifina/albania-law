@@ -1,0 +1,1 @@
+12. Agjencia ka stemën, logon dhe vulën e saj zyrtare. Stema e Agjencisë përbëhet nga stema e Republikës së Shqipërisë me shënimet: “Republika e Shqipërisë, Kryeministria, Agjencia për Media dhe Informim”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

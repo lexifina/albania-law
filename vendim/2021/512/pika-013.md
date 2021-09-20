@@ -1,0 +1,8 @@
+13. Vula e Agjencisë ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare. Vula prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
+IV. DISPOZITA KALIMTARE DHE TË FUNDIT
+1. Drejtori i përgjithshëm i Agjencisë emërohet brenda 15 (pesëmbëdhjetë) ditëve nga hyrja në fuqi e këtij vendimi.
+2. Deri në plotësimin e strukturës së Agjencisë dhe caktimin e selisë së saj, drejtori i përgjithshëm do të mbështetet në detyrat e tij nga nëpunësit e Kryeministrisë.
+3. Funksionet, numri i punonjësve dhe fondet e dedikuara për informimin dhe monitorimin në Agjencinë Telegrafike Shqiptare, në ministritë apo institucionet e administratës shtetërore në varësi të Këshillit të Ministrave kalojnë pranë Agjencisë, në përputhje me legjislacionin në fuqi për menaxhimin buxhetor. Shpenzimet për këto çështje kryhen nga institucionet në të cilat ndodhen aktualisht, deri në ndryshimin e ligjit të buxhetit të vitit 2021.
+4. Nëpunësit aktualë të marrëdhënieve me mediat/zëdhënësit, pranë ministrive dhe institucioneve të administratës shtetërore, si dhe nëpunësit që kryejnë funksionet e dedikuara për informimin dhe monitorimin në Agjencinë Telegrafike Shqiptare, që kalojnë tek agjencia, trajtohen në bazë të përcaktimeve të legjislacionit në fuqi në rastin e mbylljes dhe ristrukturimit të institucionit.
+5. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi për vitin 2021, të përballohen nga fondet miratuara për secilin institucion dhe të fillojnë nga momenti i emërimit të nëpunësve në detyrë.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

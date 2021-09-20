@@ -1,0 +1,1 @@
+11. Rregullorja që përcakton metodat e brendshme të punës, përfshirë komunikimin me Kryeministrinë, ministritë dhe institucionet e tjera të administratës shtetërore dhe sjelljen e personelit të Agjencisë miratohet nga Kryeministri, me propozimin e drejtorit të përgjithshëm.
