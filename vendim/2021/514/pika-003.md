@@ -1,0 +1,1 @@
+3. Caktimin e Bashkisë Durrës si njësi zbatuese për financimin e zbatimit, mbikëqyrjes dhe kolaudimit për rehabilitimin e infrastrukturës së rrjetit të kullimit në zonën e Porto-Romanos-Kënetë dhe sistemimin e rrjetit të ujërave të shiut në zonën urbane të qytetit të Durrësit.
