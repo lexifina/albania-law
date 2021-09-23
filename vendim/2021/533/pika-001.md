@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik, në funksion të procesit të rindërtimit për zhvillimin e zonës së re, në përputhje me planin e detyruar vendor, përmes kompensimit me shkëmbim, për të gjitha pasuritë që preken nga realizimi projektit “Për zonën e re për zhvillim, në njësitë administrative 4 dhe 8, zona ’5 Maji’, Bashkia Tiranë”, sipas tabelës bashkëlidhur këtij vendimi.

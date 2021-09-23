@@ -1,0 +1,1 @@
+6. Afati i kryerjes së shkëmbimit të pronës private me një pronë shtetërore të ardhshme do të jetë në përfundim të realizimit të projektit “Për zonën e re për zhvillim, në njësitë administrative 4 dhe 8, zona ’5 Maji’, Bashkia Tiranë”.
