@@ -1,0 +1,1 @@
+2. Ministri i Shtetit për Standardet e Shërbimeve, në bashkëpunim me institucionet përgjegjëse harton, bashkërendon dhe zbaton politikat shtetërore që synojnë standarde të larta të shërbimeve publike, të ofruara për ushtrimin e të drejtave të qytetarëve dhe përmirësimin e jetesës, lehtësimin e ofrimit të shërbimeve publike, sigurimin e cilësisë dhe përballueshmërisë së tyre.
