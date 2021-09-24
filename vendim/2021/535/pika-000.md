@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese, me shkëmbim letrash, të marrëveshjes Istisna’a dhe marrëveshjes së Agjencisë Istisna’a, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Islamike për Zhvillim, në lidhje me ndërtimin e seksionit Qukës-Qafëplloçë, të korridorit rrugor Tiranë-Korçë, të ratifikuar me ligjin nr. 128/2013, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
