@@ -1,0 +1,1 @@
+1. Subjektet përfituese, për të cilat është miratuar ndryshimi i destinacionit të fondit pyjor kombëtar, paguajnë paraprakisht kostot e përllogaritura për pyllëzimin kompensues përkatës, si rezultat i ndryshimit të destinacionit të përdorimit të fondit pyjor, të lejuara nga ligji.
