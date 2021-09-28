@@ -1,3 +1,0 @@
-# Nënshkrimi
-KRYETARI
-Gramoz Ruçi
