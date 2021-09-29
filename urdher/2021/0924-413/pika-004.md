@@ -1,0 +1,1 @@
+4. Për studentët që nuk paraqesin Certifikatën e Vaksinimit COVID-19 apo kartën e vaksinimit, drejtuesit e Institucioneve të Arsimit Universitar të marrin masa për ofrimin e studimit në platforma alternative, duke filluar nga 11.10.2021.

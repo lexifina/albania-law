@@ -1,0 +1,1 @@
+1. Të gjithë personat që rrezikohen dhe përbëjnë rrezik për të tjerët, për të penguar përhapjen e sëmundjeve infektive përmbushin detyrimet e përcaktuara në nenin 18, pika 7, germa “a/ii”, të ligjit nr. 15/2016, “Për parandalimin dhe luftimin e infeksioneve dhe sëmundjeve infektive”, të ndryshuar.

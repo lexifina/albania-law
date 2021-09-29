@@ -1,0 +1,1 @@
+7. Instituti i Shëndetit Publik të marrë masat dhe të monitorojë mbulimin vaksinal te grupet e përmendura në pikën 2 të këtij urdhri dhe të raportojë në Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale.

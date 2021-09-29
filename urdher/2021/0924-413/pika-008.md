@@ -1,0 +1,1 @@
+8. Ngarkohet Operatori i Shërbimeve të Kujdesit Shëndetësor, Inspektorati Shtetëror Shëndetësor, Instituti i Shëndetit Publik të bashkëpunojnë me institucionet e arsimit të lartë, për zbatimin e këtij urdhri.

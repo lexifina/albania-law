@@ -1,0 +1,1 @@
+3. Për punonjësit e institucioneve arsimorë që nuk paraqesin Certifikatën e Vaksinimit COVID-19 apo kartën e vaksinimit, do të kërkohet paraqitja, çdo javë, e testit PCR, të kryer sipas procedurës për kryerjen e testeve për efekte administrative, për të verifikuar që nuk janë mbartës të infeksionit Sars-Cov-2, duke filluar nga data 27.9.2021.

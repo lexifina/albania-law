@@ -1,0 +1,1 @@
+2. Personeli i institucioneve arsimore dhe studentët, si një ndër kategoritë e përfshira në pikën 1, të këtij urdhri, duhet të depozitojnë pranë qendrës së punës dhe studentët pranë zyrave të përcaktuara nga IAL-të përkatëse, Certifikatën e Vaksinimit COVID-19 nga e-Albania apo kartën e vaksinimit.

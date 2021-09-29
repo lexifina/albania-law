@@ -1,0 +1,1 @@
+5. Institucionet arsimore të identifikojnë personelin e institucionit arsimor dhe studentët që kanë depozituar Certifikatën e Vaksinimit COVID-19 apo kartën e vaksinimit dhe të raportojnë pranë Institutit të Shëndetit Publik informacion mujor mbi identifikimin e kryer.
