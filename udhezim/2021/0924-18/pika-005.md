@@ -1,0 +1,1 @@
+5. Çdo treg i kafshëve, para miratimit nga AKVMB-ja, në procesin e licencimit duhet të ketë thertore sanitare ose kontratë me një thertore në afërsi, ku mund të kryejë therjet emergjente - sanitare të kafshëve.

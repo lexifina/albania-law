@@ -1,0 +1,1 @@
+3. Territori i destinuar për treg të kafshëve të gjalla, të mos ketë shërbyer si vend groposjeje e kafshëve të ngordhura apo si vendgrumbullim i mbeturinave, për të paktën 20 vjetët e fundit, sipas konfirmimit të njësive bashkiake.

@@ -1,0 +1,1 @@
+2. Tregjet e kafshëve blegtorale duhet të respektojnë kriteret mjedisore dhe kushtet e lejes së mjedisit, për të minimizuar impaktin social-mjedisor në zonë, si dhe të garantohet lidhje e përshtatshme e tyre me rrugët nacionale, me qëllim mënjanimin e pengesave në qarkullimin rrugor.

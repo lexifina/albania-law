@@ -1,0 +1,1 @@
+12. Vendet për lidhjen e kafshëve, për kafshët e mëdha. Për kafshët e imta hapësira të rrethuara dhe për shpendët vendin ku do të vendosen kafazet e tyre. Këto duhet të mundësojnë dhënien e ujit të pijshëm, ushqimin dhe të kenë kanalizim për largimin e mbeturinave;
