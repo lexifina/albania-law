@@ -1,0 +1,1 @@
+5. Përfaqësimi ligjor i Ministrisë së Drejtësisë në proceset gjyqësore, sipas këtij urdhri, i jep të drejtë përfaqësuesve të autorizuar të kryejnë çdo veprim procedural, të parashikuar nga legjislacioni në fuqi, në kuadër të përfaqësimit në shkallën përkatëse të gjykimit.

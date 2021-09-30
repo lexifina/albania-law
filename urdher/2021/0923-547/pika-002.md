@@ -1,0 +1,1 @@
+2. Autorizimet për përfaqësimin ligjor të Ministrisë së Drejtësisë, kur thirret si palë në gjykim, në proceset gjyqësore në të cilat objekti i padisë ka lidhje me institucionin e varësisë, lëshohen në emër të personit/personave që do të përfaqësojnë ministrinë nga drejtuesi i institucionit të varësisë, sipas vendit ku është ngritur kërkesë-padia.
