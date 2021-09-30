@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i rregullave dhe i procedurave të detajuara për trajtimin financiar të familjarëve të punonjësve të Gardës së Republikës së Shqipërisë, që humbin jetën në krye ose për shkak të detyrës.

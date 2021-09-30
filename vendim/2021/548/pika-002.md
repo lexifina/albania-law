@@ -1,0 +1,4 @@
+2. Trajtimi financiar që fëmijët e punonjësve të Gardës së Republikës së Shqipërisë përfitojnë, në bazë të rregullave dhe të procedurave të përcaktuara në këtë vendim, të zbatohet pa krijuar mbivendosje me ndonjë përfitim të mundshëm financiar sipas ligjeve të tjera. Në këtë rast, ata kanë të drejtë të zgjedhin trajtimin financiar më të favorshëm, sipas rregullave dhe procedurave të parashikuara në atë ligj.
+II. NDIHMA E MENJËHERSHME FINANCIARE
+1. Pjesëtarët e familjes, që bashkëjetonin me punonjësin e Gardës së Republikës së Shqipërisë në çastin e humbjes së jetës, në krye apo për shkak të detyrës, përfitojnë ndihmë të menjëhershme financiare për çdo person, në masën e një page, referuar pagës mujore të muajit të fundit të shërbimit.
+2. Përfitimi i ndihmës së menjëhershme nuk duhet të jetë më shumë se 10 (dhjetë) paga në total.
