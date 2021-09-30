@@ -1,0 +1,1 @@
+1. Miratimin e llojeve të armatimit, të lëndëve neuroparalizuese (lëndë kimike për kontrollin e turmave), të mjeteve dhe të pajisjeve të tjera kufizuese, për përdorimin e forcës nga Garda e Republikës së Shqipërisë, sipas tekstit të lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
