@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare, prej 5 000 000 (pesë milionë) lekësh, familjes së Nënkomisarit Saimir Bilal Hoxha, ish-punonjës policie në Komisariatin e Policisë Lezhë, në Drejtorinë Vendore të Policisë Lezhë, i vrarë në krye të detyrës.
