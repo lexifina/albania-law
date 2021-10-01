@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Rehabilitimi i fasadës së pallatit te kryqëzimi i Rrugës së Dibrës me Unazën e Vogël”, Tiranë.
