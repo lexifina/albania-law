@@ -6,15 +6,7 @@
 a) Etiketën përfundimtare të çdo PMB-je, bazuar në p/etiketën e paraqitur nga aplikanti;
 b) Regjistrimin e PMB-ve në procedurë regjistrimi;
 c) Riregjistrimin e PMB-ve që kanë për-funduar afatet dhe që janë në procedurë riregjistrimi;
-ç) Modifikimin e etiketës së PMB-së, për sa u përket:
-i) zgjerimit të fushës së përdorimit;
-ii) dozave të përdorimit;
-iii) parazitëve që kontrollon;
-iv) mënyrave të përdorimit;
-v) ambalazhit bazë (forma, madhësia, lloji, treguesit cilësorë teknikë të tij);
-vi) periudhës dhe kushteve të ruajtjes;
-vii) kushteve të përdorimit për PMB-të që mund përbëjnë rrezik për shëndetin e përdoruesve, të bimëve ku përdoren, konsumatorëve, ndikimit në mjedis;
-d) Ndryshimin e formulimit dhe/ose të përmbajtjes në sasi ose përqindje të lëndës/ve vepruese të një PMB-je të regjistruar më parë.
+ç) Modifikimin e etiketës së PMB-së, sipas përcaktimeve të pikës 4, të kreut VII.
 5.5 Në përfundim të mbledhjes hartohet një procesverbal përmbledhës për vendimet e marra. Procesverbali mbahet në tri kopje, nga të cilat, dy kopje mbahen nga SPMB-ja dhe kopja e tretë depozitohet në arkivin e ministrisë, bashkë me një kopje të dokumenteve të regjistrimit (certifikatë dhe etiketë). Procesverbali nënshkruhet nga anëtarët pjesëmarrës në mbledhje;
 5.6 Dokumentet e regjistrimit (certifikata dhe etiketa) të PMB-ve të miratuara përgatiten nga sekretari dhe firmosen nga kryetari i komisionit brenda 10 ditëve, nga data e mbledhjes së komisionit;
-5.7 Dokumentet e regjistrimit të PMB-ve të miratuara u jepen aplikantëve nëpërmjet zyrës së protokollit të ministrisë, pas kryerjes së pagesës, duke shënuar numrin dhe datën e protokollit në ditën e marrjes së tyre.
+5.7 Shfuqizuar.

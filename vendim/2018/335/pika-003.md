@@ -29,5 +29,5 @@ II. REGJISTRIMI I PMB-ve
 a) Zëvendësministri, i cili kryeson komisionin;
 b) Dy përfaqësues nga ministria;
 c) Një përfaqësues nga Autoriteti Kombëtar i Ushqimit;
-ç) Një përfaqësues nga Instituti i Sigurisë Ushqimore dhe Veterinarisë (ISUV).
+ç) Një përfaqësues nga Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve (AKVMB).
 Sekretar i komisionit të regjistrimit të PMB-ve është specialisti që mbulon PMB-të pranë strukturës përgjegjëse të mbrojtjes së bimëve (SPMB).
