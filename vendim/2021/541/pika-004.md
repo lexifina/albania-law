@@ -1,0 +1,1 @@
+4. Nomenklatura e Shteteve dhe Territoreve për Statistikat e Tregtisë së Jashtme të Mallrave dhe ndarja gjeografike për statistikat e tjera të biznesit zbatohet nga institucionet publike që mbajnë të dhëna administrative të fushës, Instituti i Statistikave dhe prodhuesit e tjerë të statistikave zyrtare.

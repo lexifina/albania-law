@@ -1,0 +1,1 @@
+1. Miratimin e zbatimit të Nomenklaturës së Shteteve dhe të Territoreve për Statistikat e Tregtisë së Jashtme të Mallrave, të miratuar paraprakisht nga Komisioni Kombëtar për Nomenklaturën, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+2. Miratimin e zbatimit të ndarjes gjeografike për statistikat e tjera të biznesit, të miratuar paraprakisht nga Komisioni Kombëtar për Nomenklaturën, sipas lidhjes nr. 2, që i bashkëlidhet këtij vendimi.

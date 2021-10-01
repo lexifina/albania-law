@@ -1,0 +1,1 @@
+3. Nomenklatura e Shteteve dhe Territoreve për Statistikat e Tregtisë së Jashtme të Mallrave dhe ndarja gjeografike për statistikat e tjera të biznesit zbatohet për klasifikimin dhe publikimin e të dhënave statistikore zyrtare për tregtinë ndërkombëtare të mallrave dhe statistikat e tjera të biznesit.
