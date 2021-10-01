@@ -1,0 +1,1 @@
+3. Pronarët të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë e llojit tokë “truall” dhe “ndërtesë me një vlerë të përgjithshme prej 15 134 372.20 (pesëmbëdhjetë milionë e njëqind e tridhjetë e katër mijë e treqind e shtatëdhjetë e dy pikë njëzet) lekësh.

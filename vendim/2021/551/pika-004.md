@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 15 134 372.20 (pesëmbëdhjetë milionë e njëqind e tridhjetë e katër mijë e treqind e shtatëdhjetë e dy pikë njëzet) lekësh të përballohet nga buxheti i Bashkisë Kavajë.
