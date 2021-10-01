@@ -19,25 +19,22 @@ h) Të mos emërtohet me një emër tregtar, i cili:
 i) i korrespondon emrit tregtar të një PMB-je të regjistruar më parë;
 ii) mund të çojë në konfuzion ose mashtrim lidhur me efektin dhe vetitë e një PMB-je.
 2. Regjistrimi duhet të saktësojë kërkesat e tregtimit e të përdorimit të PMB-së dhe, të paktën, ato të nevojshmet, për të qenë në rregull me kërkesat e shkronjave “b” deri në “e”, të pikës 1, të këtij kreu.
-IV. PËRMBAJTJA E DOSJES SË PMB-së. APLIKIMI PËR REGJISTRIM
-1. Aplikimi për regjistrimin e PMB-së përmban:
-a) Kërkesën e aplikantit për regjistrimin e PMB-së, në gjuhën shqipe;
-b) Të dhënat teknike të dosjes së regjistrimit të PMB-së, në gjuhën shqipe ose angleze, në dosje dhe në formë elektronike (CD), të miratuara me urdhër të ministrit;
-c) Të dhënat që provojnë se PMB-ja është e regjistruar nga aplikanti në një nga vendet e Bashkimit Evropian ose aplikanti ka marrë me shkrim aksesin e përdorimit të regjistrimit nga subjekti që e ka regjistruar në një nga vendet e Bashkimit Evropian, të cilat janë: certifikata e regjistrimit ose vërtetimi i lëshuar nga institucionet zyrtare kompetente, numri i regjistrimit, sipas adresës elektronike të shtetit që e ka regjistruar PMB-në dhe etiketa përkatëse. Etiketa të jetë e përkthyer dhe në gjuhën shqipe;
-ç) Dokumentacionin për të dhënat e sigurisë (MSDS), sipas përcaktimeve të ligjit nr. 27/2016, “Për menaxhimin e kimikateve”. MSDS-ja të jetë e përkthyer edhe në gjuhën shqipe.
+IV. PËRMBAJTJA E DOSJES SË PMB-së. KËRKESA PËR REGJISTRIM
+1. Kërkesa për regjistrimin e PMB-së kryhet në sistemin on-line dhe përmban:
+a) të dhënat teknike të dosjes së regjistrimit të PMB-së, në gjuhën shqipe ose angleze, të miratuar me urdhër të ministrit;
+b) tё dhёnat që provojnё se PMB-ja është e regjistruar nga kërkuesi në një nga vendet e Bashkimit Evropian ose kërkuesi ka marrë me shkrim aksesin e përdorimit të regjistrimit nga subjekti, që e ka regjistruar në një nga vendet e Bashkimit Evropian, të cilat janë: certifikata e regjistrimit ose vërtetimi i lëshuar nga institucionet zyrtare kompetente, numri i regjistrimit, sipas adresës elektronike të shtetit që e ka regjistruar PMB-në, dhe etiketa përkatëse. Etiketa të jetë e përkthyer edhe në gjuhën shqipe;
+c) dokumentacionin për të dhënat e sigurisë (MSDS), sipas përcaktimeve të ligjit nr. 27/2016, “Për menaxhimin e kimikateve”. MSDS-ja të jetë e përkthyer edhe në gjuhën shqipe.
 2. Për PMB-të, të cilat në përmbajtje të tyre kanë lëndë vepruese të vjetra, të miratuara me urdhër të ministrit, kërkesat sipas shkronjës “b”, të pikës 1, të këtij kreu, plotësohen në mënyrë të përmbledhur.
 Në rastet kur aplikanti ka mbrojtur në institucionin përgjegjës në BE lëndën/ët vepruese në përmbajtje të PMB-së, në kërkesat e shkronjës “b”, të pikës 1, të këtij kreu, nuk kërkohen të dhënat për lëndën vepruese, por vetëm dokumenti që provon se ajo është mbrojtur në BE nga aplikanti.
 3. Për PMB-të, të cilat në përmbajtje të tyre kanë lëndë vepruese me prejardhje bimore, acidesh yndyrore etj., dhe që përdoren si tërheqëse, vrasëse me tërheqje, larguese (repelentë) etj. të miratuara me urdhër të ministrit, kërkesat sipas shkronjës “b”, të pikës 1, të këtij kreu, plotësohen në mënyrë të përmbledhur vetëm për PMB-në. Regjistrimi bëhet me miratim nga Komisioni i Regjistrimit të PMB-ve, pa kaluar dokumentacioni në ISUV.
-4. Për PMB-të, të cilat në përmbajtje të tyre kanë lëndë vepruese të reja, të miratuara me urdhër të ministrit, aplikimi kryhet vetëm nga patentuesit e tyre ose aplikantët e autorizuar prej tyre dhe kërkesat, sipas shkronjës “b”, të pikës 1 të këtij kreu, plotësohen në mënyrë të përmbledhur, vetëm për PMB-në.
+4. Për PMB-të, të cilat në përmbajtje të tyre kanë lëndë vepruese të reja, të miratuara me urdhër të ministrit, kërkesa kryhet vetëm nga patentuesit e tyre ose aplikantët e autorizuar prej tyre dhe kërkesat, sipas shkronjës “b”, të pikës 1 të këtij kreu, plotësohen në mënyrë të përmbledhur, vetëm për PMB-në.
 5. Për PMB-të me natyrë inorganike, si dhe ato, që në përmbajtje të tyre kanë vajra minerale, dokumentacioni teknik, sipas kërkesave të shkronjës “b” të pikës 1, të këtij kreu, përfshin, në mënyrë të përmbledhur, vetëm të dhënat për PMB-në.
-6. Për PMB-të, të cilat në përmbajtje të tyre kanë lëndë vepruese që nuk janë me status të përcaktuar, të miratuara me urdhër të ministrit, kërkesat sipas shkronjës “b”, të pikës 1 të këtij kreu, plotësohen në mënyrë të përmbledhur. Nëse lënda vepruese në përmbajtje të PMB-së është e re, aplikimi kryhet sipas kërkesave të pikës 4 të këtij kreu.
-7. Të dhënat sipas përcaktimeve të pikës 1, të këtij kreu, mbahen në arkivin e SPMB-së.
+6. Për PMB-të, të cilat në përmbajtje të tyre kanë lëndë vepruese që nuk janë me status të përcaktuar, të miratuara me urdhër të ministrit, kërkesat sipas shkronjës “b”, të pikës 1 të këtij kreu, plotësohen në mënyrë të përmbledhur. Nëse lënda vepruese në përmbajtje të PMB-së është e re, kërkesa kryhet sipas kërkesave të pikës 4 të këtij kreu.
+7. Shfuqizuar.
 V. PROCEDURA E REGJISTRIMIT TË PMB-ve
-1. Sekretari merr në dorëzim dosjen e regjistrimit dhe e fut në procedurë regjistrimi kur ajo përmbush kërkesat e përgjithshme, të përcaktuara në këtë vendim, verifikimi i të cilave bëhet brenda 20 ditëve, nga dita e marrjes në dorëzim të dosjes. Nëse dosja nuk është e plotë ose nuk përmbush kërkesat e përgjithshme, sipas dispozitave të këtij vendimi, brenda 20 ditëve, nga dita e marrjes në dorëzim të dosjes, aplikanti vihet në dijeni, ku i paraqiten edhe arsyet e mospranimit ose kërkesat për të dhëna shtesë.
-2. Në rastet e përmbushjes së kërkesave të përgjithshme, të përcaktuara në këtë vendim, dokumentacioni teknik i PMB-së, në dosje dhe në formë elektronike (CD), dërgohet në ISUV menjëherë pas përfundimit të verifikimit të kryer nga sekretari, por jo më shumë se 25 ditë, nga data e marrjes në dorëzim të dosjes.
-3. Instituti i Sigurisë Ushqimore dhe Veterinarisë (ISUV) bën vlerësimin e dokumentacionit teknik të PMB-ve në procesin e regjistrimit të tyre.
-Vlerësimi bëhet në bazë të njohurive bashkëkohore tekniko-shkencore dhe në bazë të përmbajtjes e të vlerësimit të dokumentacionit teknik, si dhe duke pasur parasysh të gjitha kushtet normale të përdorimit dhe pasojat nga përdorimi.
-ISUV-i bën këtë vlerësim brenda 25 ditëve, nga data e marrjes së dokumentacionit teknik, dhe dërgon me shkrim mendimin në SPMB.
+1. Shfuqizuar.
+2. Brenda 20 (njëzet) ditëve nga kërkesa, sekretari i komisionit shqyrton dokumentacionin sipas pikës 1, të kreut IV, dhe, nëse është në rregull, menjëherë pas pranimit, dërgon me e-mail zyrtar tek ISUV-i, dokumentacionin sipas shkronjës “a”, të pikës 1, të kreut IV. Ndërsa dokumentacionin, sipas shkronjave “b” dhe “c”, të pikës 1, të këtij kreu, si dhe vlerësimin e dërguar nga ISUV-i, ua dërgon anëtarëve të komisionit të regjistrimit të PMB-ve, kur bën njoftimin për mbledhjen e radhës së komisionit.
+3. Instituti i Sigurisë Ushqimore dhe Veterinarisë (ISUV) kryen vlerësimin e dokumentacionit dhe e dërgon mendimin me shkrim tek SPMB-ja brenda 20 (njëzet) ditëve nga data e marrjes.
 4. Sekretari përgatit materialin përmbledhës për mbledhjen e radhës së KRPMB-së brenda 10 ditëve, nga ardhja e mendimeve të ISUV-it.
 5. Sekretari përgatit dokumentin e regjistrimit për çdo PMB të miratuar. Kryetari i komisionit njofton aplikantin për regjistrimin ose jo të PMB-së.
 VI. DOKUMENTI I REGJISTRIMIT
@@ -53,7 +50,7 @@ dh) Emrin e lëndës/ve vepruese të tij;
 e)TIpin e PMB-së (p.sh., fungicid, insekticid, nematocid etj.);
 ë) KLasifikimin e PMB-së (shumë helmues, helmues etj.), duke theksuar shënimin për PMB-të me rrezikshmëri të lartë;
 f) Përmbajtjen e lëndës/ve vepruese në %, g/lit ose g/kg;
-g) TIpin e formulimit;
+g) Tipin e formulimit;
 gj) Pamjen e jashtme të PMB-së (granula me ngjyrë ..., lëng me ngjyrë ..., pluhur me ngjyrë ... etj.);
 h) Kushtëzimet, që, eventualisht, mund të shoqërojnë regjistrimin;
 i) Afatin e përfundimit të regjistrimit;
@@ -88,7 +85,7 @@ iii) rihyrjes së njerëzve apo kafshëve në zonën ku është përdorur PMB-ja
 iv) vjeljes së prodhimit;
 v) përdorimit të bimës për shitje ose për konsum (periudha e sigurisë ose karenca);
 vi) përdorimit të PMB-ve të tjera në të njëjtën zonë ose mbi të njëjtën bimë;
-ë) Të dhënat për fitotoksicitetin, ndjesh-mërinë e kultivarëve të ndryshëm dhe ndaj çdo efekti të padëshirueshëm serioz ose të papritur, të drejtpërdrejtë ose të tërthortë, mbi produktet bimore ose ato me origjinë bimore, bashkërisht me intervalet e vërejtura ndërmjet aplikimit dhe mbjelljes së kulturës në fjalë ose të kulturës pasardhëse;
+ë) Të dhënat për fitotoksicitetin, ndjesh-mërinë e kultivarëve të ndryshëm dhe ndaj çdo efekti të padëshirueshëm serioz ose të papritur, të drejtpërdrejtë ose të tërthortë, mbi produktet bimore ose ato me origjinë bimore, bashkërisht me intervalet e vërejtura ndërmjet kërkesat dhe mbjelljes së kulturës në fjalë ose të kulturës pasardhëse;
 f) Të dhënat për pajtueshmërinë e PMB-së;
 g) Instruksionet për asgjësimin e PMB-së dhe të ambalazheve;
 gj) Instruksionet për përdorimin pa rrezik të PMB-së apo të ambalazhit të saj, sipas legjislacionit në fuqi që rregullon klasifikimin, ambalazhimin dhe etiketimin e kimikateve.
@@ -118,7 +115,7 @@ e) Periudhës dhe kushteve të ruajtjes së PMB-së;
 f) Formulimit të PMB-së;
 g) Zgjerimit të fushës së përdorimit të PMB-së;
 gj) Përmbajtjes në sasi ose përqindje të lëndës/ve vepruese të PMB-së.
-Në të gjitha rastet e përcaktuara në këtë pikë, aplikanti duhet të paraqesë kërkesë në gjuhën shqipe.
+Në të gjitha rastet e përcaktuara në këtë pikë, kërkuesi kryen kërkesën në sistemin on-line, shoqëruar me dokumentacionin provues.
 5. Pezullimi i regjistrimit të një PMB-je kryhet nga kryetari i komisionit, në rastet kur:
 a) PMB-ja nuk plotëson kushtet për të qenë e regjistruar, sipas kërkesave të parashtruara në këtë vendim;
 b) Vërehet se në dosjen e regjistrimit janë paraqitur të dhëna false ose të gabuara;
@@ -135,7 +132,9 @@ b) Aplikanti e kërkon, me shkrim, një gjë të tillë;
 c) Ka përfunduar afati i regjistrimit të saj dhe nuk është bërë kërkesë nga aplikanti për përditësim ose riregjistrim;
 ç) Nuk plotësohen nga aplikanti kërkesat sipas pikës 5, të këtij kreu.
 6.1. Aplikanti duhet të njoftohet në rastet e çregjistrimit.
-6.2. Pas çregjistrimit, nëse PMB-ja është ende në treg, ajo duhet të përdoret brenda afateve të skadencës së saj.
+6.2 Pas çregjistrimit, nëse PMB-ja është ende në treg, ajo të përdoret brenda afateve të skadencës së saj, me përjashtim të përcaktimeve të shkronjave “a” dhe “ç”, të pikës 6, të këtij kreu.
+6.3 Pas çregjistrimit sipas përcaktimit të shkronjës “a”, të pikës 6, nëse PMB-ja është ende në treg, të tregtohet brenda afateve të përcaktuara në urdhrin e ministrit për lëndën vepruese në përmbajtje të PMB-së.
+6.4 Pas çregjistrimit sipas përcaktimit të shkronjës “ç”, të pikës 6, nëse PMB-ja është në treg, të hiqet menjëherë nga tregu.
 7. Rinovimi i regjistrimit (riregjistrimi) të një PMB-je mund të kryhet kur:
 a) Mbaron afati i regjistrimit të saj;
 b) Kjo kërkohet nga aplikanti, para përfundimit të afatit të regjistrimit.
@@ -185,7 +184,7 @@ b) Shënime të tilla si: “jo helmues”, “i padëmshëm” ose shënime të
 c) Sponsorizimet për kongrese, konferenca shkencore, takime promovuese, që ndiqen nga profesionistët e PMB-ve, në bazë të kontratave ligjërisht të rregullta ndërmjet palëve.
 7. Subjektet, që organizojnë veprimtari sipas përcaktimeve të shkronjës “c”, të pikës 6, të këtij kreu, janë të detyruara të raportojnë një herë në vit te SPMB-ja në lidhje me këto veprimtari.
 X. DISPOZITA KALIMTARE DHE TË FUNDIT
-1. Për shqyrtimin e aplikimeve për regjistrimin e PMB-ve të paraqitura përpara hyrjes në fuqi të këtij vendimi do të zbatohen dispozitat në fuqi në momentin e aplikimit.
+1. Për shqyrtimin e kërkesave për regjistrimin e PMB-ve të paraqitura përpara hyrjes në fuqi të këtij vendimi do të zbatohen dispozitat në fuqi në momentin e kërkesës.
 2. Vendimi nr. 1555, datë 12.11.2008, i Këshillit të Ministrave, “Për përcaktimin e rregullave të regjistrimit dhe të kritereve të vlerësimit të produkteve për mbrojtjen e bimëve”, i ndryshuar, shfuqizohet.
 3. Ngarkohet Ministria e Bujqësisë dhe Zhvillimit Rural për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
