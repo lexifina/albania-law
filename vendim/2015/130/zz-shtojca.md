@@ -828,3 +828,32 @@ Banese 1 kt
 Certifikatë pronësie
 SHUMA TOTALE
 8,511,348
+LISTA EMËRORE PËRFUNDIMTARE PËR PASURINË E PALUAJTSHME, PRONË PRIVATE, QË PREKET NGA DISA SHTESA DHE NDRYSHIME NË VKM-në NR. 130 DATË 11.2.2015, “PËR SHPRONËSIMIN PËR INTERES PUBLIK TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, TË CILAT PREKEN NGA REALIZIMI I PROJEKTIT ’NDËRTIMI I SEGMENTIT TIRANË-ELBASAN’”
+Nr.
+Emër Atësi Mbiemër
+ZK
+Nr. i pasurisë
+Lloj i pasurisë
+Sip.
+Sip. e shpronësuar/ m²
+Çmimi në lekë /m²
+Vlera totale për shpronësim
+Shënime
+totale
+/m²
+1
+Xhafer Myrteza Xhabrahimi
+3266
+162/47
+Arë
+1,000
+1,000
+2622.165
+2,622,165
+Konfirmuar nga DVASHK-ja.
+Vlera totale
+1,000.0
+1,000
+2,622,165
+Shënime.
+1. Për tokën “arë”, çmimi i llogaritur është marrë nga vendimi nr. 89, datë 3.2.2016, i Këshillit të Ministrave, “Për miratimin e hartës së vlerës së tokës në Republikën e Shqipërisë”.
