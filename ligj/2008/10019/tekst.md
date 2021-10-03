@@ -4,7 +4,7 @@ Nr. 10 019, datë 29.12.2008
 
 KODI ZGJEDHOR I REPUBLIKËS SË SHQIPËRISË
 
-(Ndryshuar me ligjet nr.74/2012, datë 19.07.2012 , nr. 31/2015, datë 02.04.2015, nr. 101/2020, datë 23.7.2020, nr. 118/2020, datë  5.10.2020; shfuqizuar një pikë me vendimin e Gjykatës Kushtetuese nr. 28, datë 30.6.2021)
+(Ndryshuar me ligjet nr.74/2012, datë 19.07.2012 , nr. 31/2015, datë 02.04.2015, nr. 101/2020, datë 23.7.2020, nr. 118/2020, datë  5.10.2020; shfuqizuar një pikë me vendimin e Gjykatës Kushtetuese nr. 28, datë 30.6.2021; ndryshuar me vendimin e Gjykatës Kushtetuese nr. 31, datë 4.10.2021)
 
 (i përditësuar)
 
@@ -3486,9 +3486,9 @@ Neni 162
 
 Përllogaritja e mandateve të subjekteve zgjedhore
 
-(ndryshuar fjalia e dytë e pikës 2 me ligjin  nr. 118/2020, datë  5.10.2020)
+(ndryshuar fjalia e dytë e pikës 2 me ligjin  nr. 118/2020, datë  5.10.2020; ndryshuar fjalia e dytë e pikës 1 me vendimin e Gjykatës Kushtetuese nr. 31, datë 4.10.2021 )
 
-1. Jo më vonë se 3 ditë nga përfundimi i procesit të ankimit kundër vendimit për miratimin e rezultateve të zonës zgjedhore apo pavlefshmërisë së zgjedhjeve, sipas këtij Kodi, KQZ-ja përllogarit shpërndarjen e mandateve për çdo zonë zgjedhore, mbi bazën e numrit të votave të vlefshme që subjektet kanë marrë në nivel zone zgjedhore. Për zgjedhjet për Kuvendin përjashtohen nga shpërndarja e mandateve subjektet zgjedhore që kanë marrë më pak se 1 për qind të votave të vlefshme në shkallë vendi.
+1. Jo më vonë se 3 ditë nga përfundimi i procesit të ankimit kundër vendimit për miratimin e rezultateve të zonës zgjedhore apo pavlefshmërisë së zgjedhjeve, sipas këtij Kodi, KQZ-ja përllogarit shpërndarjen e mandateve për çdo zonë zgjedhore, mbi bazën e numrit të votave të vlefshme që subjektet kanë marrë në nivel zone zgjedhore. Për zgjedhjet për Kuvendin përjashtohen nga shpërndarja e mandateve subjektet zgjedhore që kanë marrë më pak se 1 për qind të votave të vlefshme në shkallë vendi.[^fn2]
 
 2. Numri i votave të vlefshme në nivel zone zgjedhore të secilit subjekt pjesëtohet në mënyrë të vazhdueshme me numra natyrorë të njëpasnjëshëm, të quajtur pjesëtues, duke filluar me numrin 1 dhe duke përfunduar me numrin natyror që i korrespondon numrit të mandateve që shpërndahen në zonën zgjedhore përkatëse. Hapi nga njëri pjesëtues tek tjetri është 1. Në rast se herësi që përftohet nga pjesëtimi është një numër me mbetje dhjetore, si herës merret numri i plotë më i afërt.
 
@@ -3887,3 +3887,7 @@ SHTOJCA III
 PËRDORIMI I TEKNOLOGJISË SË VERIFIKIMIT DHE REGJISTRIMIT TË PJESËMARRJES SË ZGJEDHËSVE NË DITËN E VOTIMIT (SEV)
 
 (shfuqizuar me ligjin nr. 101/2020, datë 23.7.2020)
+
+---
+
+[^fn2]: Me vendimin nr. 31, datë 4.10.2021 Gjykatës Kushtetuese vendosi: “- Pranimin pjesërisht të kërkesës. - Shfuqizimin, si të papajtueshme me Kushtetutën, të fjalisë së dytë të pikës 1, të nenit 162, të Kodit Zgjedhor, të ndryshuar, në pjesën që barazon kandidatët e propozuar nga zgjedhësit me kandidatët e propozuar nga partitë politike ose nga koalicion partish politike.”
