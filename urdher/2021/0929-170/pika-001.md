@@ -1,0 +1,1 @@
+1. Autorizimin e zotit Klajd Shuka, me detyrë zëvendësdrejtor i përgjithshëm i Drejtorisë së Përgjithshme të Tatimeve, për të firmosur me cilësinë e autoritetit dhe kompetencave ligjore të drejtorit të Përgjithshëm të Tatimeve.

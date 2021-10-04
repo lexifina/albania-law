@@ -1,0 +1,1 @@
+2. Kompetenca e deleguar për firmosjen e shkresave me cilësinë e drejtorit të përgjithshëm të Tatimeve do të ushtrohen nga zyrtari i autorizuar sipas këtij urdhri, duke filluar nga data e hyrjes në fuqi të këtij urdhri deri në një urdhër të dytë të ministrit të Financave dhe Ekonomisë.
