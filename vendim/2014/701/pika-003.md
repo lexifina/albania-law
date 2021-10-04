@@ -1,1 +1,0 @@
-3. Ministritë dhe institucionet shtetërore, në cilësinë e autoriteteve kontraktore, në mënyrë individuale, duhet që, brenda 60 (gjashtëdhjetë) ditëve nga hyrja në fuqi e këtij vendimi, të nxjerrin udhëzimet përkatëse për zbatimin e tij.
