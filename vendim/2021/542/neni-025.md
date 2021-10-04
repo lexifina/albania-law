@@ -1,0 +1,6 @@
+# Neni 25
+Kërkesa për rishqyrtim dhe ankimi
+1. Në rastin e moslëshimit të CSI-së, pezullimit të përkohshëm, revokimit të saj, institucioni shtetëror ose operatori ekonomik i interesuar ka të drejtë të paraqesë kërkesë me shkrim për rishqyrtimin e masës së marrë nga autoriteti përgjegjës për sigurinë e informacionit të klasifikuar, brenda 10 (dhjetë) ditëve kalendarike nga marrja e njoftimit përkatës.
+2. Titullari i autoritetit përgjegjës për sigurinë e informacionit të klasifikuar shqyrton kërkesën dhe, brenda 30 (tridhjetë) ditëve kalendarike nga dita e pranimit të saj, e adreson përgjigjen përkatëse tek institucioni shtetëror ose operatori ekonomik i interesuar.
+3. Në rastet e mospajtimit me përgjigjen e titullarit të autoritetit përgjegjës për sigurinë e informacionit të klasifikuar, institucioni shtetëror ose operatori ekonomik i interesuar, brenda 10 (dhjetë) ditëve kalendarike nga marrja e përgjigjes, ka të drejtë që t’ia adresojë ankesën e tij me shkrim Kryeministrit.
+4. Kryeministri, pas marrjes së ankesës, brenda 30 (tridhjetë) ditëve kalendarike, shprehet me akt të veçantë, i cili është përfundimtar dhe i detyrueshëm për zbatim nga autoriteti përgjegjës për sigurinë e informacionit të klasifikuar dhe institucioni shtetëror ose operatori ekonomik i interesuar.

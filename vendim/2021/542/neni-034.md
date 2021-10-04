@@ -1,0 +1,11 @@
+# Neni 34
+Detyrimet e autoritetit kontraktor për sigurinë e informacionit të klasifikuar gjatë hartimit të dokumentacionit të tenderit
+1. Në çdo rast prokurimi në fushën e mbrojtjes dhe të sigurisë, që përmban informacion të klasifikuar, autoriteti kontraktor specifikon në dokumentacionin e tenderit (njoftimi i kontratës, specifikimet teknike, dokumentet përshkruese apo dokumentet mbështetëse) masat dhe kriteret që duhet të plotësohen për të garantuar sigurinë e këtij informacioni në nivelin e kërkuar.
+Autoriteti kontraktor specifikon rastin lidhur me nivelin e kërkuar të CSI-së dhe CSP-së, që duhet të ketë operatori ekonomik i interesuar dhe personeli i tij.
+Kur informacioni i klasifikuar është në zotërim të një institucioni tjetër, autoriteti kontraktor përcakton së bashku me institucionin përfitues, i cili është edhe zotëruesi i informacionit të klasifikuar, lidhur me masat dhe kriteret që duhet të plotësohen për të garantuar sigurinë e këtij informacioni në nivelin e kërkuar.
+2. Është përgjegjësi e autoritetit kontraktor që gjatë hartimit të dokumentacionit të tenderit, që përmban informacion të klasifikuar, të garantojë në çdo rast që:
+a) në njoftimin e kontratës/ftesën për ofertë të parashikohet që operatorët ekonomikë të ftuar, pavarësisht nëse dorëzojnë ose jo një ofertë konkrete, janë të detyruar të garantojnë sigurinë e informacionit të marrë, duke i kthyer autoritetit kontraktor dokumentacionin e tenderit që përmban informacion të klasifikuar;
+b) të angazhojë vetëm individë të brifuar për procedurat e sigurisë dhe të pajisur me CSP të përshtatshme, me përjashtim të rasteve kur informacioni i klasifikuar është në nivelin “i Kufizuar”;
+c) ta prodhojë dhe ta administrojë informacionin e klasifikuar vetëm në sistemet e komunikimit dhe të informacionit të akredituara përshtatshmërisht dhe brenda zonave të sigurisë të autoritetit kontraktor e sipas rastit të institucionit përfitues;
+ç) të vendosë shenjëzimet dhe të zbatojë rregullat e legjislacionit në fuqi për punën me informacionin e klasifikuar;
+d) të marrë masat përkatëse për të mos ekspozuar informacion të klasifikuar në njoftimin e kontratës apo gjatë çdo forme komunikimi me operatorët ekonomikë për shfaqje interesi.
