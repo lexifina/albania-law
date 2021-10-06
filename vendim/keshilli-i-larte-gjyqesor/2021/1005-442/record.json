@@ -1,0 +1,26 @@
+{
+  "qbz_id": 23567,
+  "title": "Për miratimin e rregullores \"Për hetimin administrativ të sinjalizimit dhe mbrojtjen e konfidencialitetit në Këshillin e Lartë Gjyqësor\"",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "442",
+  "institution": "Këshilli i Lartë Gjyqësor",
+  "adopted": "2021-10-05",
+  "published": "2021-10-06",
+  "in_force": "2021-10-06",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/2ea8211b79dd594785b9ca3ccad4000fcc529d3d163e45c6f6e3031cc7dd4717.docx",
+  "source_sha256": "2ea8211b79dd594785b9ca3ccad4000fcc529d3d163e45c6f6e3031cc7dd4717",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23567",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/10/05/442",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
