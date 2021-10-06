@@ -1,0 +1,26 @@
+{
+  "qbz_id": 23566,
+  "title": "Për miratimin e rregullores \"Për shqyrtimin e praktikave korruptive në Këshillin e Lartë Gjyqësor\"",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "441",
+  "institution": "Këshilli i Lartë Gjyqësor",
+  "adopted": "2021-10-05",
+  "published": "2021-10-06",
+  "in_force": "2021-10-06",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/296b1d9a60e04b1c5a5601588d46f6f22c094c868666519cbbd63ba0c4967f9f.docx",
+  "source_sha256": "296b1d9a60e04b1c5a5601588d46f6f22c094c868666519cbbd63ba0c4967f9f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23566",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/10/05/441",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
