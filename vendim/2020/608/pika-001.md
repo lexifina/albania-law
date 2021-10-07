@@ -1,1 +1,1 @@
-1. Ky vendim përcakton procedurat, kriteret dhe rregullat për zbatimin e programit të nxitjes së punësimit të personave të dalë të papunë si pasojë e COVID-19, nga data 10 mars 2020 deri në datën 31 dhjetor 2020.
+1. Ky vendim përcakton procedurat, kriteret dhe rregullat për zbatimin e programit të nxitjes së punësimit të personave të dalë të papunë si pasojë e COVID-19, nga data 10 mars 2020 deri në datën 30 qershor 2021.
