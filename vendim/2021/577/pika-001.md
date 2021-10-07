@@ -1,0 +1,1 @@
+1. Në buxhetin e vitit 2021, miratuar për Ministrinë e Financave dhe Ekonomisë, në programin e strehimit, shtohet fondi prej 800 000 000 (tetëqind milionë) lekësh, në zërin “shpenzime korrente”, përkatësisht, në produktin për pagesat e subvencionimit të qirasë për familjet e mbetura të pastreha, si pasojë e fatkeqësive natyrore, tërmetit të datës 26.11.2019.
