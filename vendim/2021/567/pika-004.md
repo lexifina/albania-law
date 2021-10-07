@@ -1,0 +1,1 @@
+4. Vendimi nr. 358, datë 24.4.2013, i Këshillit të Ministrave, “Për mënyrën e prokurimit të mallrave, punëve e të shërbimeve, në kuadër të veprimtarive të ceremonialit zyrtar”, i ndryshuar, shfuqizohet.
