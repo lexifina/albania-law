@@ -1,6 +1,6 @@
 1. Përdorimin e fondit të rindërtimit, për financimin e rindërtimit/rikonstruksionit të objekteve arsimore, në Bashkinë Tiranë, në vlerën 1 608 555 182 (një miliard e gjashtëqind e tetë milionë e pesëqind e pesëdhjetë e pesë mijë e njëqind e tetëdhjetë e dy) lekë pa TVSH, përkatësisht, për:
 a) ndërtimin e godinës TIP në RSU Nr. 1 (Nr. 15), në vlerën 313 436 038 (treqind e trembëdhjetë milionë e katërqind e tridhjetë e gjashtë mijë e tridhjetë e tetë) lekë pa TVSH;
-b) ndërtimin e godinës TIP në RSU Nr. 1 (Nr. 16), në vlerën 311 425 288 (treqind e njëmbëdhjetë milionë e katërqind e njëzet e pesë mijë e dyqind e tetëdhjetë e tetë) lekë pa TVSH;
+b) ndërtimin e godinës TIP në RSU nr. 1 (nr. 19), në vlerën 311 425 288 (treqind e njëmbëdhjetë milionë e katërqind e njëzet e pesë mijë e dyqind e tetëdhjetë e tetë) lekë pa TVSH;
 c) ndërtimin e godinës TIP në RSU Nr. 1 (Nr. 18), në vlerën 311 425 288 (treqind e njëmbëdhjetë milionë e katërqind e njëzet e pesë mijë e dyqind e tetëdhjetë e tetë) lekë pa TVSH;
 ç) rikonstruksionin e godinave “Nr. 20-21; Nr. 22-23”, në RSU Nr. 1, në vlerën 456 772 100 (katërqind e pesëdhjetë e gjashtë milionë e shtatëqind e shtatëdhjetë e dy mijë e njëqind) lekë pa TVSH;
 d) ndërtimin e shkollës 9-vjeçare “Dritas”, në vlerën 215 496 468 (dyqind e pesëmbëdhjetë milionë e katërqind e nëntëdhjetë e gjashtë mijë e katërqind e gjashtëdhjetë e tetë) lekë pa TVSH.
