@@ -1,0 +1,24 @@
+15. Kohëzgjatja e pushimit pa të drejtë page, sipas pikës 14, të këtij kreu, përcaktohet nga titullari i institucionit/sekretari i përgjithshëm, me propozimin e eprorit direkt. Kohëzgjatja maksimale e të gjitha pushimeve të papaguara, brenda një viti kalendarik, nuk mund të jetë më e gjatë se 30 (tridhjetë) ditë kalendarike.
+IV. PUNA NË DITËT E FESTAVE ZYRTARE DHE TË PUSHIMIT JAVOR
+1. Si rregull, ditët e festave zyrtare janë ditë pushimi. I punësuari gëzon të drejtën e pagës në këto ditë.
+2. Kur festa zyrtare bie në ditët e punës dhe, me vendim të Këshillit të Ministrave ose në kontratën kolektive, është vendosur të punohet, puna e kryer ditën e festës zyrtare kompensohet me një shtesë page jo më pak se 25 (njëzet e pesë) për qind dhe me një pushim të pagueshëm të barabartë me kohëzgjatjen e punës së kryer në ditët e festave zyrtare. Ky pushim merret një javë para ose pas kryerjes së saj.
+3. Kur festa apo festat zyrtare bie/bien në ditën apo ditët e pushimit javor, atëherë pushimi shtyhet në ditën apo ditët pasardhëse të punës.
+V. VEPRIMTARIA E INSTITUCIONEVE NË RASTE TË VEÇANTA
+1. Gjatë periudhës së gjendjes së epidemive, të përcaktuara si të tilla sipas legjislacionit në fuqi:
+a) institucionet e përcaktuara në pikën 2, të kreut I, të këtij vendimi, janë të detyruara të realizojnë veprimtarinë e tyre nëpërmjet kombinimit të punës në ambientet e institucionit dhe telepunës (puna në distancë on-line), me qëllim respektimin e rregullave të distancimit social ndërmjet të punësuarve, të përcaktuara nga Instituti i Shëndetit Publik, bazuar në sipërfaqen e institucionit;
+b) për realizimin e detyrimit të përcaktuar në shkronjën “a”, të kësaj pike, institucionet duhet të përcaktojnë në mënyrë të detajuar e të qartë grafikun e të punësuarve që do të punojnë në ambientet e institucionit dhe të atyre që do të kryejnë detyrat nëpërmjet telepunës. Grafiku duhet të miratohet nga sekretari i përgjithshëm/titullari i institucionit;
+c) në përcaktimin e të punësuarve që do të kryejnë detyrat nëpërmjet telepunës, institucionet duhet të bazohen në:
+i. vlerësimin e llojit të detyrave që ushtrojnë të punësuarit;
+ii. evidentimin e rasteve të të punësuarve me patologji të ndryshme, të cilët janë më të rrezikuar në rast infektimi;
+iii. evidentimin e të punësuarve që kanë në kujdestari fëmijë deri në moshën 14 (katërmbëdhjetë) vjeç.
+Për rastet e parashikuara në nënndarjet “ii” dhe “iii”, të kësaj shkronje, përpara miratimit të grafikut, institucionet duhet të konsultohen me të punësuarit, me qëllim që të mundësohet realizimi i detyrave;
+ç) puna nëpërmjet telepunës ka të njëjtën kohëzgjatje kohore, si edhe puna në ambientet e punës së institucionit.
+2. Në rastet e kufizimeve të orarit të mësimit gjatë periudhave të gjendjeve të epidemive:
+a) orari i punës për të punësuarit e përcaktuar në pikën 2, të kreut I, të këtij vendimi, që janë prindër apo kujdestarë ligjorë të fëmijëve që frekuentojnë/ndjekin arsimin parashkollor dhe arsimin bazë, për ditët kur ata duhet të kryejnë detyrat në ambientet e institucionit, sipas grafikut të miratuar, përcaktohet nga titullari i institucionit;
+b) orari i punës për këta të punësuar gjatë kësaj periudhe përcaktohet në varësi të orarit që fëmija/fëmijët e tyre do të frekuentojnë mësimin, por duke siguruar që kohëzgjatja maksimale e punës të mos ndryshojë.
+VI. DISPOZITA KALIMTARE DHE TË FUNDIT
+1. Ngarkohen Departamenti i Administratës Publike për institucionet e administratës shtetërore dhe secili institucion i pavarur e njësi e vetëqeverisjes vendore për institucionin e tyre të miratojnë, rast pas rasti, rregullat e procedurat standarde të punës të harmonizuara, në përputhje me përcaktimet e kreut V, të këtij vendimi, dhe udhëzimet e dhëna nga Instituti i Shëndetit Publik apo institucione/organe të tjera të ngarkuara nga legjislacioni në fuqi për përcaktimin e rregullave në rastet e epidemive.
+2. Pushimi vjetor i paguar, pushimet e tjera dhe koha e kryerjes së tyre shënohen në dosjen e personelit të të punësuarit.
+3. Urdhri nr. 80, datë 17.11.2020, i Departamentit të Administratës Publike, “Për miratimin e rregullave dhe procedurave standarde të punës të harmonizuara, gjatë periudhës së gjendjes së epidemisë së shkaktuar nga COVID-19 dhe periudhës së kohëzgjatjes së vitit shkollor 2020-2021”, dhe urdhrat/udhëzimet e institucioneve të pavarura dhe njësive të vetëqeverisjes vendore, të miratuara në zbatim të pikave 4, 5 dhe 6, të kreut III, të vendimit nr. 511, datë 24.10.2002, të Këshillit të Ministrave, “Për kohëzgjatjen e punës dhe të pushimit në institucionet e administratës shtetërore”, të ndryshuar, vazhdojnë të jenë në fuqi deri në përfundim të gjendjes së epidemisë së shkaktuar nga COVID-19.
+4. Vendimi nr. 511, datë 24.10.2002, i Këshillit të Ministrave, “Për kohëzgjatjen e punës dhe të pushimit në institucionet shtetërore”, i ndryshuar, shfuqizohet.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

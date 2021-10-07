@@ -1,0 +1,1 @@
+3. Për të punësuarit dhe/ose institucionet për të cilët/cilat ligjet e tyre specifike kanë përcaktime për kohëzgjatjen e punës e të pushimit, si dhe për rregullat në lidhje me orarin ditor të punës, pushimet, orët shtesë dhe kompensimin e tyre, ky vendim zbatohet për aq sa nuk parashikohet ndryshe në këto akte.

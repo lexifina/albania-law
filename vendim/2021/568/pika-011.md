@@ -1,0 +1,1 @@
+11. Në kuptim të këtij vendimi, veprimtari operacionale, si rregull, konsiderohen ato veprimtari që kanë kohëzgjatje të pandërprerë (sistem 24-orësh/gatishmëri). Për raste të tjera specifike merret mendimi i detyrueshëm nga ministria përgjegjëse për financat dhe Departamenti i Administratës Publike.

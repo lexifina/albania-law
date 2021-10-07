@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i kohëzgjatjes së punës dhe të pushimit, si dhe i rregullave në lidhje me orarin ditor të punës, festat zyrtare, pushimet, orët shtesë dhe kompensimin e tyre.

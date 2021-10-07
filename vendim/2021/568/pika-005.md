@@ -1,0 +1,1 @@
+5. Për institucionet e përcaktuara në pikën 2, të kreut I, të këtij vendimi, për të cilat, për shkak të natyrës së punës, puna duhet të organizohet me turne apo i punësuari duhet të kryejë punë nate, orari ditor i punës përcaktohet nga vetë institucioni, brenda kufijve të përcaktuar në Kodin e Punës.
