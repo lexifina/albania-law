@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 9 637 882 (nëntë milionë e gjashtëqind e tridhjetë e shtatë mijë e tetëqind e tetëdhjetë e dy) lekësh, të përballohet nga buxheti i vitit 2021, i miratuar për Bashkinë Fier.
