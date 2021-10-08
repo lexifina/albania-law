@@ -1,0 +1,1 @@
+13. Instituti Kombëtar i Regjistrimit të Trashëgimisë Kulturore mund të shpërndajë të dhënat për qëllime statistikore dhe në formë të përpunuar për qëllime të studimeve dhe parandalimit të krimeve, me anë të teknikave që nuk lejojnë identifikimin e palëve të interesuara, qoftë edhe tërthorazi.

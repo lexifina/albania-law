@@ -1,0 +1,2 @@
+15. Instituti Kombëtar i Regjistrimit të Trashëgimisë Kulturore, duke marrë parasysh qëllimet e përmendura në pikat 13 e 14, të këtij vendimi, përdor bazën e të dhënave edhe për përpunimin e statistikave, kërkimeve, studimeve e analizave të të dhënave, si dhe për komunikimin ose shpërndarjen e mundshme të tyre, vetëm në formë anonime, në përputhje me dispozitat e ligjit nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, i ndryshuar.
+V. AKSESI I PUBLIKUT NË BAZËN E TË DHËNAVE

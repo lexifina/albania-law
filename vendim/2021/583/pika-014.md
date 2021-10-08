@@ -1,0 +1,1 @@
+14. Institucionet e specializuara të trashëgimisë kulturore mund të kërkojnë informacionin që ruhet në bazën e të dhënave nga Instituti Kombëtar i Regjistrimit të Trashëgimisë Kulturore të kufizuar te të dhënat jopersonale.

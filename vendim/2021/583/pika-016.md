@@ -1,0 +1,1 @@
+16. Personat fizikë ose juridikë privatë mund të kenë qasje të tërthortë në bazën e të dhënave përmes kërkesave në Institutin Kombëtar të Regjistrimit të Trashëgimisë Kulturore, në përputhje me shtojcën “C”.

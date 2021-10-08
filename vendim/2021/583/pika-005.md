@@ -1,0 +1,1 @@
+5. “Të dhënat parësore” janë të dhënat e mbledhura nga Instituti Kombëtar i Regjistrimit të Trashëgimisë Kulturore dhe të përditësuara në bazën e të dhënave të pasurive kulturore të vjedhura “Pasuritë kulturore të vjedhura”.

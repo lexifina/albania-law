@@ -1,0 +1,1 @@
+11. Drejtoria e Përgjithshme e Policisë së Shtetit, Drejtoria e Përgjithshme e Doganave, si dhe institucionet e tyre të varësisë kanë akses të plotë në bazën e të dhënave me të drejta vetëm për shikim (viewer) të të dhënave.

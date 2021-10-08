@@ -1,0 +1,2 @@
+19. Instituti Kombëtar i Regjistrimit të Trashëgimisë Kulturore është përgjegjës për menaxhimin në përputhje me këtë vendim të aksesit në bazën e të dhënave. Në rast të gjetjes së veprimeve të paligjshme do të pezullojë menjëherë qasjen e personit i cili ka vepruar në kundërshtim me ligjin, udhëzimet dhe procedurat për administrimin e bazës të të dhënave. Pezullimi i aksesit nuk e përjashton përgjegjësinë disiplinore, civile ose penale.
+VI. DISPOZITAT E FUNDIT
