@@ -1,0 +1,1 @@
+2. Ngritjen e grupit ndërinstitucional për menaxhimin e emergjencës në furnizimin me energji elektrike, që drejtohet nga zëvendëskryeministri dhe ka në përbërje ministrin e Infrastrukturës dhe Energjisë, ministrin e Financave dhe Ekonomisë dhe çdo përfaqësues nga institucione të tjera, që vlerësohen të nevojshëm nga zëvendëskryeministri.

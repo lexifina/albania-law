@@ -1,0 +1,1 @@
+4. Ngarkohet ministri i Financave dhe Ekonomisë që të sigurojë mekanizmat e duhur financiarë, me qëllim mundësimin e importit të energjisë për sigurimin e furnizimit të pandërprerë të energjisë elektrike.
