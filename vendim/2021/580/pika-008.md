@@ -1,0 +1,1 @@
+8. Bashkia Tiranë, brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të vendimit të Këshillit të Ministrave për shpronësimin, t’i kërkojë Agjencisë Shtetërore të Kadastrës të kryejë regjistrimin e pasurive, pronë private, të shpronësuara, sipas legjislacionit në fuqi, si edhe referuar aktmarrëveshjeve të lidhura nëse ka.
