@@ -1,0 +1,28 @@
+{
+  "qbz_id": 23591,
+  "title": "Mbi dhënien e autorizimit nga ERE për ndryshimin e ortakut kryesor të shoqërisë \"ENERGY PLUS\" sh.p.k., nëpërmjet shitjes së 100% të kuotave të saj",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "196",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2021-09-22",
+  "published": "2021-10-13",
+  "in_force": "2021-10-13",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/88f3d5e9a8d273ea4c4da623c9235f1d2f4ad9ba3b3e67361731b1194f81227f.docx",
+  "source_sha256": "88f3d5e9a8d273ea4c4da623c9235f1d2f4ad9ba3b3e67361731b1194f81227f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23591",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/09/22/196",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    23984
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
