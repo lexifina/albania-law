@@ -1,0 +1,2 @@
+2. Ngarkohen Ministria e Financave dhe Ekonomisë, Agjencia Shqiptare e Zhvillimit të Investimeve, Agjencia Shtetërore e Kadastrës Vlorë dhe Bashkimi i Shoqërive (JV), “Marina di Valona” sh.p.k., me NUIS M01324008A, “Brunes” sh.p.k., me NUIS K37125203H, “Ndregjoni” sh.p.k., me NUIS K31329048I, dhe “Marina Projects” LTD, me numër regjistrimi 04182366, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
