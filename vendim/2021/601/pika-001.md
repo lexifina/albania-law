@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, përmes kompensimit me shkëmbim, për të gjitha pasuritë që preken nga realizimi i projektit në funksion të procesit të rindërtimit, që do të realizohet në zonën e re për zhvillim në Njësinë Administrative Marikaj, Bashkia Vorë, sipas tabelës që i bashkëlidhet këtij vendimi.

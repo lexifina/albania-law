@@ -1,0 +1,1 @@
+9. Agjencia Shtetërore e Kadastrës të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit mbi hartat kadastrale dhe kalimi i pronësisë në favor të Bashkisë Vorë për pasuritë e shpronësuara.

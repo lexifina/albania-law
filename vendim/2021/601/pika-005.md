@@ -1,0 +1,1 @@
+5. Afati i kryerjes së shkëmbimit të pronës private me një pronë shtetërore të ardhshme të jetë në përfundim të realizimit të projektit në funksion të procesit të rindërtimit, që do të realizohet në zonën e re për zhvillim, në Njësinë Administrative Marikaj, Bashkia Vorë.

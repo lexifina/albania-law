@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme shpronësohen përmes kompensimit me shkëmbim, sipas të dhënave që paraqiten në tabelën bashkëlidhur këtij vendimi, për pasuritë e llojit “truall”, “ndërtesë banimi” dhe “ndërtesë jobanimi”.
