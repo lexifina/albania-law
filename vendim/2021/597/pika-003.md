@@ -1,0 +1,1 @@
+3. Automjetet, që përdoren për ruajtjen e shoqërimin e personaliteteve të përcaktuara në pikën 1, të këtij vendimi, vihen në dispozicion nga institucionet përkatëse që ata drejtojnë, me përjashtim të personaliteteve të përcaktuara në shkronjën “j”.
