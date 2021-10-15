@@ -1,0 +1,1 @@
+2. Personeli ushtarak i strukturave të Forcave të Armatosura, gjatë angazhimeve në operacione e stërvitje të ndryshme, brenda dhe jashtë vendit, përveç racionit bazë të ushqimit, të trajtohet me racion shtesë 500 kalori, sipas lidhjes nr. 2, që і bashkëlidhet këtij vendimi.

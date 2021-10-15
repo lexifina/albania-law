@@ -1,0 +1,1 @@
+6. Vendimi nr. 88, datë 28.1.2008, i Këshillit të Ministrave, “Për miratimin e normave të trajtimit me ushqim të efektivave ushtarakë të Forcave të Armatosura të Republikës së Shqipërisë”, shfuqizohet.
