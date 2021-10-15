@@ -1,0 +1,1 @@
+15. Kafshëve të familjes së derrit, kur nuk u hiqet lëkura, t’u hiqen qimet menjëherë. Rreziku i kontaminimit të mishit me ujë të nxehtë duhet të minimizohet. Vetëm produktet e aprovuara përdoren për këtë veprim. Kafshët e familjes së derrit shpëlahen tërësisht më pas me ujë të pijshëm.

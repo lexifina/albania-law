@@ -1,0 +1,1 @@
+37. Kafsha e therur të shoqërohet për në thertore certifikatë shëndetësore për kafshë të therura në fermë, në të cilën regjistrohet rezultati pozitiv i inspektimit ante-mortem, data, ora dhe shkaku i therjes urgjente, si dhe natyra e trajtimit të kryer nga veterineri tek kafsha.

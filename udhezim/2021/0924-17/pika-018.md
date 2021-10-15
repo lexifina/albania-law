@@ -1,0 +1,1 @@
+18. Operatori i biznesit ushqimor i thertores ndjek udhëzimet e AKVMB-së për të siguruar që inspektimi i të gjitha kafshëve pas therjes kryhet në kushtet e përshtatshme, në përputhje me legjislacionin në fuqi.

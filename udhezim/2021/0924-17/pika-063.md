@@ -1,0 +1,1 @@
+63. Procedurat e inspektimit post-mortem që përshkruhen për gjedhët dhe dhentë, derrat shtëpiakë dhe shpendët shtëpiakë, aplikohen për speciet korresponduese të kafshëve të gjahut të rritura në fermë.

@@ -1,0 +1,1 @@
+14. Karkasat dhe pjesët e tjera të trupit, të destinuara për konsum nga njerëzit, rripen krejtësisht, me përjashtim të rastit të kafshëve të familjes së derrit, kokëve të dhenve, të dhive dhe të viçave, si dhe këmbëve të gjedhëve, dhenve e dhive. Kokët dhe këmbët trajtohen në mënyrë që të shmanget kontaminimi.

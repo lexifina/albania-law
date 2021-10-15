@@ -1,0 +1,1 @@
+28. Karkasat e thundrakëve shtëpiakë priten në gjysmë apo çerekkarkasa dhe gjysmëkarkasat në jo më tepër se tri prerje të plota, në thertore. Prerja dhe heqja e mëtejshme e kockave kryhet në një stabiliment prerjeje.

@@ -1,0 +1,1 @@
+3. Operatori i biznesit ushqimor nuk pranon kafshë në thertore, nëse nuk janë të shoqëruara me informacionin përkatës për shëndetin e kafshëve, që mbahet në dokumentacionin e mbajtur në fermën e origjinës.

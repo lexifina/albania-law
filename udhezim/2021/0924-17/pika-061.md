@@ -1,0 +1,1 @@
+61. Pavarësisht parashikimeve të pikës 27, të shkronjës “B”, të këtij kreu, modeli i certifikatës së paraqitur në aneksin V mund të përdoret për transportimin e thundrakëve joshtëpiakë të rritur në fermë, nga ferma drejt thertores.

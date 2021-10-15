@@ -1,0 +1,4 @@
+29. Puna me mishin të organizohet në mënyrë që të parandalojë apo minimizojë kontaminimin. Operatori i biznesit ushqimor duhet të sigurojë veçanërisht, që:
+a) mishi i destinuar për prerje sillet në dhomat e punës në mënyrën e duhur;
+b) mishi, gjatë prerjes, heqjes së kockave, prerjes së anëve, ndarjes në feta, prerjes në kube, mbështjelljes dhe paketimit, ruhet në jo më shumë se 3oC për të përbrendshmet dhe 7 oC për pjesët e tjera të mishit, me anë të një temperature ambienti prej jo më shumë se 12oC ose një sistemi alternativ me efekt të barabartë;
+c) ndërtesat janë të miratuara për prerjen e mishit të specieve të ndryshme, të merren masa parandaluese për të shmangur kontaminimin ndërmjet tyre, duke i ndarë veprimtaritë mbi speciet e ndryshme ose sipas vendit, ose sipas kohës, në rastet e nevojshme.

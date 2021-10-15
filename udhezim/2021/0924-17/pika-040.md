@@ -1,0 +1,1 @@
+40. Operatori i biznesit ushqimor nuk hedh në treg mishin e kafshëve të therura në mënyrë urgjente, nëse ky mish nuk mban një vulë specifike, e cila nuk mund të ngatërrohet as me vulën shëndetësore të parashikuar në pikën 24 deri 32, të kreut III, shkronja “A”, as me vulën identifikuese të parashikuar në legjislacionin në fuqi.

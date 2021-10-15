@@ -1,0 +1,1 @@
+34. Kafsha e therur, së cilës i është hequr gjaku transportohet drejt thertores në mënyrë higjienike dhe pa vonesa të pajustifikueshme. Heqja e stomakut dhe e zorrëve, por pa një shërbim tjetër, kryhet në vend nën mbikëqyrjen e veterinerit. Të gjitha të përbrendshmet e hequra shoqërojnë kafshën e therur drejt thertores dhe identifikohen si pjesë që i përkasin asaj kafshe.

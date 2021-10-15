@@ -1,0 +1,1 @@
+21. Gjaku ose rropulli të tjera të disa kafshëve, të cilat mblidhen në të njëjtën enë para përfundimit të inspektimit post-mortem, deklarohen të papërshtatshme për konsum njerëzor nëse karkasa e një ose më tepër kafshëve të përfshira deklarohet e papërshtatshme për konsum njerëzor.

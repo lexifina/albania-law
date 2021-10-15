@@ -1,0 +1,3 @@
+41. Operatori i biznesit ushqimor siguron depozitimin dhe transportin e mishit të thundrakëve shtëpiakë, në përputhje me kërkesat në vijim:
+a) Me përjashtim të dispozitave të veçanta, të cilat urdhërojnë ndryshe, inspektimi post-mortem pasohet menjëherë nga ftohja në thertore, për të siguruar që temperatura në të gjithë mishin të mos jetë më e lartë se 3oC për rropullitë dhe 7oC për mishrat e tjera. Ky proces realizohet me anë të një kurbe ftohjeje, që siguron ulje të vazhdueshme të temperaturës. Megjithatë, mishi mund të pritet dhe të qërohet nga kockat gjatë ftohjes, në përputhje me pikën 28, të shkronjës “B”, të këtij kreu;
+b) Procesi i ftohjes shoqërohet me ventilim të mjaftueshëm për të parandaluar kondensimin në sipërfaqen e mishit.

@@ -1,0 +1,1 @@
+36. Kafsha e therur të shoqërohet për në thertore me certifikatën shëndetësore për lëvizjen e kafshëve të lëshuar nga AKVMB-ja, në të cilën deklarohet identiteti i kafshës dhe paraqiten të gjitha produktet veterinare apo trajtimet e tjera të kryera mbi të, datat e trajtimit dhe periudhat e ndërprerjes.

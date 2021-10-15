@@ -1,0 +1,1 @@
+57. AKVMB-ja, pavarësisht parashikimeve të pikave 10 deri 14, të shkronjës “A”, të këtij kreu, veçanërisht kur respektohen plotësisht pikat nga 1 deri 4, të shkronjës “Ç”, të kreut II, mund të autorizojë që inspektimi ante-mortem të kryhet në fermën e origjinës. Në këtë rast, një veteriner zyrtar duhet të kryejë një inspektim ante-mortem.

@@ -1,0 +1,3 @@
+6. Pavarësisht kërkesave të pikës 5, të shkronjës “A”, të këtij kreu, nuk është e domosdoshme që operatorit të biznesit ushqimor të thertores t’i jepet:
+a) informacioni i kërkuar në pikën 5, të shkronjës “A”, të këtij kreu, shkronjat “a”, “b”, “dh” dhe “ë”, nëse operatori është tashmë në dijeni, në lidhje me këtë informacion, për shembull, me anë të një marrëveshjeje në fuqi apo të një skeme sigurimi të cilësisë; ose
+b) informacioni i kërkuar në pikën 5, të shkronjës “A”, të këtij kreu, shkronjat “a”, “b”, “e” dhe “ë”, nëse prodhuesi deklaron se nuk ekziston informacion përkatës për t’u raportuar.

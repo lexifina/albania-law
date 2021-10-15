@@ -1,0 +1,1 @@
+8. Operatori i biznesit ushqimor njofton menjëherë veterinerin zyrtar nëse një kafshë arrin në thertore pa informacione mbi zinxhirin ushqimor ose me informacione jo të plota apo me informacione të pasakta. Therja e kafshës nuk kryhet deri sa të lejohet nga veterineri zyrtar.

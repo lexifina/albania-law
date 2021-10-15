@@ -1,0 +1,1 @@
+26. Në thertoret që nuk kanë ambiente të veçanta për therjen e kafshëve të sëmura ose të dyshimta, pas therjes, ambientet dhe pajisjet për therjen e këtyre kafshëve të pastrohen, lahen dhe dezinfektohen nën mbikëqyrjen e veterinerit zyrtar.

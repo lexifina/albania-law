@@ -1,0 +1,1 @@
+60. Një certifikatë, konform modelit të aneksit III, shoqëron kafshët e gjalla të inspektuara në fermën e origjinës. Kafshët e inspektuara dhe të therura në fermën e origjinës i shoqëron një certifikatë konform modelit të paraqitur në aneksin IV.

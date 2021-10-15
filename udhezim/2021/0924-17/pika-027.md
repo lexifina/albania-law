@@ -1,0 +1,1 @@
+27. Operatori i biznesit ushqimor të sigurojë që prerja dhe heqja e kockave të mishit të thundrakëve shtëpiakë kryhet në përputhje me kërkesat e parashikuara në pikat 28 deri 31, të shkronjës “B”, të këtij kreu.

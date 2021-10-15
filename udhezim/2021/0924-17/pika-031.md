@@ -1,0 +1,1 @@
+31. Pronari ose kujdestari i kafshëve duhet të sigurojë se mishi i thundrakëve shtëpiakë që janë therur në mënyrë urgjente jashtë thertores përdoret për konsum njerëzor vetëm nëse përmbush të gjitha kërkesat e parashikuara në pikat 33 deri 41, të shkronjës “B”, të këtij kreu.

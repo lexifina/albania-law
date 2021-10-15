@@ -1,0 +1,1 @@
+62. Inspektimi i kafshëve të rritura në fermë përfshin palpimin dhe kur konsiderohet e domosdoshme prerjen kirurgjikale të atyre pjesëve të kafshës që i janë nënshtruar cilitdo ndryshimi ose dyshohen për çdo arsye tjetër.

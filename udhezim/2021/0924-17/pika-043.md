@@ -1,0 +1,3 @@
+43. Mishi arrin temperaturën e përcaktuar në pikën 42, të shkronjës “B”, të këtij kreu para transportit dhe të mbetet në atë temperaturë gjatë transportit. Transporti kryhet pa përmbushur kushtet e mësipërme nëse Autoriteti Kombëtar i Ushqimit (AKU) e lejon këtë për të mundësuar prodhimin e produkteve specifike, me kusht që:
+a) ky transport të kryhet në përputhje me kërkesat e parashikuara në mënyrë specifike nga Autoriteti Kombëtar i Ushqimit (AKU), në lidhje me transportin nga një stabiliment i caktuar në një tjetër;
+b) mishi largohet menjëherë nga thertorja apo dhoma e prerjes në të njëjtin vend me atë të ndërtesës së thertores dhe transporti nuk zgjat më tepër se dy orë.

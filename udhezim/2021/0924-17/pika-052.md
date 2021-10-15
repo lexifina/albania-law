@@ -1,0 +1,1 @@
+52. Zogjtë nuk mund të theren për konsum njerëzor nëse shfaqin simptoma klinike të ndonjë sëmundjeje. Megjithatë, therja e këtyre zogjve në linjën e therjes mund të kryhet në fund të procesit të zakonshëm të therjes, nëse janë marrë masa për të shmangur rrezikun e përhapjes së organizmave patogjenë dhe për të pastruar e dezinfektuar ambientet menjëherë pas therjes.
