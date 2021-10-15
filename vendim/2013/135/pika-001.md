@@ -1,1 +1,0 @@
-1. Lejimin e Ministrisë së Shëndetësisë, si organ qendror blerës, për kryerjen e procedurave të prokurimit, në emër dhe për llogari të spitaleve publike në varësi të saj, për blerjen e medikamenteve dhe materialeve mjekësore.
