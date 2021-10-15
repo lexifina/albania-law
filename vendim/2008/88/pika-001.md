@@ -1,1 +1,0 @@
-1. Ushtarët e shërbimit të detyrueshëm ushtarak dhe studentët e universitetit ushtarak “Skënderbej” të trajtohen me racionin bazë të ushqimit, і cili përmban 4 300 kalori, dhe me strukturë ushqimore, sipas lidhjeve nr.1 dhe nr.3, që і bashkëlidhen këtij vendimi.
