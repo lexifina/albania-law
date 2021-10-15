@@ -1,0 +1,1 @@
+8. Në çdo rast, drejtori i Institucionit, pas kryerjes së procedurës administrative, me urdhër, pranon ose refuzon një kërkesë për t’u punësuar. Urdhri i drejtorit të Institucionit duhet të plotësojë të gjitha kërkesat e formës dhe arsyetimit të akteve administrative, të parashikuara në nenin 98 e vijues të Kodit të Procedurës Administrative.

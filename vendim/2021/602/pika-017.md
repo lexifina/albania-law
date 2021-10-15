@@ -1,0 +1,1 @@
+17. Komisioni, në rastet kur informacioni i paraqitur sipas pikës 14, të këtij kreu, është i paplotë ose i pasaktë, mund të kërkojë të dhëna shtesë nga punëdhënësi që ka paraqitur projektin ose nga Drejtoria e Përgjithshme e Burgjeve si edhe ka të drejtë të kërkojë nga çdo organ publik konfirmimin e të dhënave të paraqitura personi juridik privat.

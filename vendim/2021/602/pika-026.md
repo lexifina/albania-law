@@ -1,0 +1,1 @@
+26. Ndaj vendimit të drejtorit të Përgjithshëm të Burgjeve për refuzimin e kërkesës për punësimin e të dënuarve nga personat juridikë privatë mund të paraqitet kërkesëpadi drejtpërdrejt në gjykatë, sipas parashikimeve të ligjit për gjykatat administrative dhe gjykimin e mosmarrëveshjeve administrative.

@@ -1,0 +1,1 @@
+35. Punësimi ose vetëpunësimi i personave me aftësi të kufizuara bëhet duke mbajtur parasysh standardet e legjislacionit në fuqi për përfshirjen dhe aksesueshmërinë e personave me aftësi të kufizuara.

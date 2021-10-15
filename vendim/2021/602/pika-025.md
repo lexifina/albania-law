@@ -1,0 +1,1 @@
+25. Komisioni i propozon drejtorit të Përgjithshëm të Burgjeve miratimin ose refuzimin e kërkesës së paraqitur nga personi juridik privat, jo më vonë se 20 (njëzet) ditë nga data e marrjes së saj. Në çdo rast, propozimi i Komisionit duhet të jetë i arsyetuar.

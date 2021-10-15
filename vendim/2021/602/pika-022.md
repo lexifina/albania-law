@@ -1,0 +1,1 @@
+22. Drejtori i Përgjithshëm i Burgjeve e shqyrton dhe merr vendim për kërkesën në përputhje me rregullat dhe procedurat e përcaktuara në Kodin e Procedurës Administrative, jo më vonë se 45 (dyzet e pesë) ditë nga data e marrjes së propozimit nga drejtori i Institucionit, duke u bazuar veçanërisht në nevojat e sigurisë dhe vlerësimin e rrezikshmërisë së të dënuarit.

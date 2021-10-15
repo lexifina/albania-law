@@ -1,0 +1,1 @@
+11. Personat juridikë privatë mund të punësojnë të burgosurit brenda ose jashtë Institucionit, vetëm në rastet kur punësimi i tyre ka si qëllim të garantojë nxënien, ruajtjen dhe zhvillimin e aftësive për punë dhe njohurive profesionale, si dhe i shërben riintegrimit në shoqëri të të dënuarit pas përfundimit të kryerjes së dënimit.

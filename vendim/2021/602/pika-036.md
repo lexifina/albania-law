@@ -1,0 +1,1 @@
+36. Me qëllim mundësimin e punësimit ose të vetëpunësimit të të burgosurit me aftësi të kufizuar, Institucioni siguron kushtet teknike, të sigurisë, të përshtatshmërisë dhe të aksesueshmërisë të ndërtesave.

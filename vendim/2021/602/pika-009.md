@@ -1,0 +1,1 @@
+9. I burgosuri, i cili punësohet në administratën e Institucionit, lidh kontratë individuale të punës me Institucionin, ku përcaktohen lloji i punës që do të kryhet, përgjegjësitë, kohëzgjatja, si dhe shpërblimi i punës, sipas rregullave të parashikuara në këtë vendim dhe legjislacionin në fuqi.

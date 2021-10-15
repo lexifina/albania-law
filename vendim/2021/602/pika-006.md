@@ -1,0 +1,1 @@
+6. I burgosuri, i cili me vullnetin e tij të lirë dëshiron të punojë apo të ushtrojë një profesion gjatë qëndrimit në Institucion, paraqet pranë drejtorit të Institucionit shprehjen e interesit për t’u punësuar. Në kërkesë, si rregull, duhet të përcaktohet edhe vendi vakant për të cilën kërkon të punësohet.

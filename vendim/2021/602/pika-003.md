@@ -1,0 +1,1 @@
+3. Drejtoria e Përgjithshme e Burgjeve dhe çdo Institucion janë të detyruar të krijojnë kushtet dhe mundësitë për punësimin e të burgosurve brenda ose jashtë Institucionit sipas përcaktimeve të legjislacionit në fuqi për të drejtat dhe trajtimin e të dënuarve me burgim dhe të paraburgosurve, si dhe këtij vendimi.

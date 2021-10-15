@@ -1,0 +1,1 @@
+38. I burgosuri i mitur ka të drejtë të kryejë një punë të lehtë, në përputhje me Kodin e Drejtësisë Penale për të Mitur dhe që ndihmon në rehabilitimin dhe riintegrimin pas ekzekutimit të vendimit penal.

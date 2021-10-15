@@ -1,0 +1,1 @@
+23. Përpara marrjes së vendimit, sipas përcaktimit të pikës 22, të këtij kreu, drejtori i Përgjithshëm i Burgjeve i përcjell kërkesën Komisionit të Përhershëm të Vlerësimit të Aktivitetit të Punës në Burgje, i cili shqyrton çdo kërkesë të të burgosurve për punësimin jashtë Institucionit dhe, në çdo rast, propozon miratimin ose refuzimin e kërkesës.

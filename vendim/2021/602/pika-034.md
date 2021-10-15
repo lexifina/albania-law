@@ -1,0 +1,1 @@
+34. I burgosuri me aftësi të kufizuara mund të punësohet kur gjendja e tij e lejon dhe i shërben qëllimeve terapeutike. Vërtetimi i gjendjes së treguar në këtë pikë bëhet kundrejt raportit mjekësor përkatës, të lëshuar sipas legjislacionit në fuqi. Raporti mjekësor përmban rekomandime të posaçme lidhur me kushtet, llojin dhe kohëzgjatjen ditore të punës.

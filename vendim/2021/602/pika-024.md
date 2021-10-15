@@ -1,0 +1,1 @@
+24. Komisioni, në rastet kur informacioni i paraqitur sipas pikës 20, të këtij vendimi, është i paplotë ose i pasaktë, mund të kërkojë të dhëna shtesë nga i dënuari që ka paraqitur kërkesën nga Drejtoria e Përgjithshme e Burgjeve, si edhe ka të drejtë të kërkojë nga çdo organ publik konfirmimin e të dhënave të paraqitura.
