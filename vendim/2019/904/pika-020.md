@@ -7,3 +7,23 @@ c) Kur njësitë e vetëqeverisjes vendore ose autoritetet shtetërore përgjegj
 20.3 Familjet në fshat, që kanë humbur shtëpitë individuale jashtë ose brenda zonës së urbanizuar të territorit rural, si pasojë e shembjes, përfitojnë nga programi i zhvillimit të zonave të reja ose programi i granteve të rindërtimit. Rregullat e përfitimit që parashikohen në këtë vendim në pikën 20.2, zbatohen njësoj, për aq sa është e mundur, dhe për përfituesit që përcaktohen në këtë pikë.
 20.4 Familjet që kanë dëmtime në banesa ose shtëpi individuale nga fatkeqësia natyrore, të cilat nuk kanë nevojë të rindërtohen nga e para, trajtohen me grante rikonstruksioni sipas parashikimeve të aktit normativ nr. 9, datë 16.12.2019, të Këshillit të ministrave, “Për përballimin e pasojave të fatkeqësisë natyrore”.
 20.5 Shoqëritë tregtare, të vogla e të mesme, vendet e kryerjes së aktivitetit të të cilave janë dëmtuar dhe/ose zhvendosur për shkak të fatkeqësisë natyrore, vërtetuar me dokumente zyrtare, me qëllim rikonstruksionin e shpejtë ose sigurimin e mjediseve të përshtatshme për kryerjen e veprimtarisë nga punëmarrësit përfitojnë mbështetje ekonomike sipas parashikimeve të aktit normativ nr. 9, datë 16.12.2019, të Këshillit të Ministrave, “Për përballimin e pasojave të fatkeqësisë natyrore”.
+20.6 Përparësi në hedhjen e shortit me qëllim akomodim në objektet e reja kanë:
+a) përfituesit e renditur sipas parashikimeve të pikës 12, të këtij vendimi;
+b) pronarët e njësive të banimit të objekteve të shembura, në trojet e të cilave janë ndërtuar objektet e reja;
+c) përfituesit, të cilët kanë lidhur marrëveshjen paraprake për kalimin e së drejtës së pronësisë, sipas pikës 23, të këtij vendimi.
+20.7 Kur nuk mund të rindërtohen në të njëjtin truall, përfituesit akomodohen në zonat e reja për zhvillim.
+20.8 Përfituesit e objekteve të reja akomodohen në zonat e reja për zhvillim më të afërta me objektin e dëmtuar nga fatkeqësia natyrore, nëse struktura e objektit të ndërtuar nuk lejon akomodimin e tyre për shkak të akomodimit të kategorive prioritare, përbërjes familjare dhe strukturës së banesës takuese, sipas tabelave të përcaktuara në këtë vendim.
+20.9 Përfituesit akomodohen në njësitë e banimit, në objektet e reja, sipas një shorteu publik dhe të hapur bazuar në:
+a) realizimin e një procesi transparent, mosdiskriminues, të aksesueshëm dhe të kuptueshëm për përfituesit;
+b) njoftimin e të gjithë përfituesve të shpallur me vendim të Këshillit Bashkiak të NJVV-së.
+20.10 Shorti konsiston në një përzgjedhje rastësore dhe realizohet në mënyrë transparente nga njësia e vetëqeverisjes vendore, duke marrë të gjitha masat përkatëse për njoftimin dhe pjesëmarrjen e përfituesve në procesin e shorteut publik. Përzgjedhja me short e njësive të banimit në objektet e reja realizohet në mënyrë elektronike nga njësitë e vetëqeverisjes vendore dhe, kur kjo nuk është e mundur, shorti zhvillohet në mënyrë manuale.
+20.11 Njoftimi i përgjithshëm për shorteun publik duhet të jetë i kuptueshëm dhe i aksesueshëm nga të gjithë dhe bëhet 15 (pesëmbëdhjetë ditë) përpara datës së hedhjes së shorteut nëpërmjet lajmërimeve publike, të cilat afishohen në ambientet e njësisë së vetëqeverisjes vendore, në mediat audiovizive kombëtare, rajonale ose lokale, si dhe me botimin në gazeta lokale ose në dy gazetat më të lexuara në nivel kombëtar. Njoftimi duhet të përmbajë listën e përfituesve dhe vendndodhjen/zonën e objektit.
+20.12 Krahas njoftimit të përgjithshëm për hedhjen e shortit, bëhet edhe thirrja, nëpërmjet njoftimit të çdo përfituesi, pjesë e shortit publik për pjesëmarrje në këtë shorte, e cila duhet të përmbajë:
+a) njësinë e vetëqeverisjes vendore që e ka nxjerrë;
+b) emrin, mbiemrin e personit të thirrur, përfitues nga programi i rindërtimit;
+c) përbërjen familjare dhe strukturën e banesës takuese, sipas përcaktimeve të këtij vendimi;
+ç) vendndodhjen/zonën ku është/janë ndërtuar objekti/objektet ose zona sipas marrëveshjes paraprake për kalimin e së drejtës së pronësisë;
+d) vendin dhe datën e organizimit të shorteut publik;
+dh) si dhe pasojat në rast se personi i thirrur nuk paraqitet në shorte.
+20.13 Njoftimi shkresor nëpërmjet letërthirrjes bëhet nëpërmjet dorëzimit nga nëpunësi i njësisë vendore ose shërbimi postar. Në çdo rast në lidhje me njoftimin e përfituesit mbahen në konsideratë, për aq sa është e mundur, dispozitat e ligjit nr. 44/2015, “Kodi i Procedurave Administrative i Republikës së Shqipërisë”.
+20.14 Rregulla të hollësishme për mënyrën e zhvillimit të procesit të shorteut publik dhe të hapur miratohen me vendim të këshillave bashkiakë të njësive të vetëqeverisjes vendore.
