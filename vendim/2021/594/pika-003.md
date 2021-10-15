@@ -1,0 +1,4 @@
+3. Në kuadër të bashkëpunimit, ndërmjet subjekteve private dhe strukturave përgjegjëse për identifikimin e tyre, subjektet private duhet:
+a) të lejojnë hyrjen e personelit të ngarkuar me mirëmbajtjen dhe funksionimin e mjeteve dhe të pajisjeve të paralajmërimit të hershëm, monitorimit, njoftimit dhe alarmit, pas njoftimit paraprak dy ditë pune para, përveç rasteve kur mjetet apo pajisjet janë dëmtuar apo janë jashtë shërbimit;
+b) të lejojnë kontrollin, pas njoftimit paraprak dy ditë pune para, nga strukturat përgjegjëse të parashikuara në pikën 1, të këtij vendimi, të mjeteve dhe të pajisjeve të paralajmërimit të hershëm, monitorimit, njoftimit dhe alarmit, të vendosura në objektin e tyre;
+c) të njoftojnë menjëherë strukturat përgjegjëse në rastet e dëmtimeve të dukshme të mjeteve dhe të pajisjeve të paralajmërimit të hershëm, monitorimit, njoftimit dhe alarmit.
