@@ -1,0 +1,1 @@
+1. Ngarkimin e Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale si organ qendror blerës për prokurimin e fondeve buxhetore, me vlerë mbi kufirin monetar të prokurimeve me vlera të vogla, në emër dhe për llogari të spitaleve publike, për blerjen e barnave dhe të pajisjeve mjekësore.

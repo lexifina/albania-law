@@ -1,0 +1,1 @@
+2. Autoritetet kontraktore, institucionet e përmendura në pikën 1, të këtij vendimi, brenda 5 (pesë) ditëve nga njoftimi i Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, si organ qendror blerës, të dërgojnë pranë saj të dhënat teknike e sasiore dhe fondin përkatës për mallrat përkatëse.
