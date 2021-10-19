@@ -1,0 +1,1 @@
+6. Regjistrimi i fermës për herë të parë, pas hyrjes në fuqi të këtij udhëzimi, bëhet me kërkesë dhe karta e fermerit lëshohet me plotësimin e të dhënave, sipas pikës 4 të udhëzimit. Përditësimi dhe popullimi i të dhënave bëhet me vetëdeklarim ose si veprimtari administrative.
