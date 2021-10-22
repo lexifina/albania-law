@@ -1,4 +1,0 @@
-2. Ministria e Shëndetësisë dhe Mbrojtjes Sociale ka për mision hartimin dhe zbatimin e politikave e të strategjive të zhvillimit në sektorin e kujdesit shëndetësor, është përgjegjëse për rregullimin e shërbimeve
-të kujdesit shëndetësor dhe për bashkërendimin e punës ndërmjet të gjithë aktorëve, brenda dhe jashtë sistemit të kujdesit shëndetësor, të cilët kontribuojnë dhe synojnë të garantojnë të drejtën kushtetuese, të
-përcaktuar në nenin 55 të Kushtetutës së Republikës së Shqipërisë. Ajo ka si mision, gjithashtu, garantimin e të drejtave kushtetuese për mbrojtje e përfshirje sociale dhe përkujdesje sociale e shanse të
-barabarta.
