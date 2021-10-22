@@ -1847,3 +1847,4 @@ Vjetore
 TOTAL PUNONJËS ME KONTRATË
 2,472
 Tabela nr. 1
+Tabela nr.1
