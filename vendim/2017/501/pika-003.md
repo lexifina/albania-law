@@ -1,1 +1,0 @@
-3. Ministria e Mbrojtjes planifikon e përballon emergjencat civile dhe vendos bazën juridike e administrative për rregullimin e marrëdhënieve që lindin, ekzistojnë dhe shuhen gjatë administrimit, mirëmbajtjes e kontrollit të pronësisë në rezervat materiale të shtetit.
