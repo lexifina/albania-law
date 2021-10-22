@@ -1,0 +1,1 @@
+8. Bashkitë, personat juridikë, publikë e privatë, dhe organizatat jofitimprurëse, që ofrojnë shërbime të përkujdesjes shoqërore, u dërgojnë një kopje të raportit të të dhënave strukturave përgjegjëse për shërbimet e përkujdesjes shoqërore në qark.

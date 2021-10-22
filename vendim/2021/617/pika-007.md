@@ -1,0 +1,1 @@
+7. Drejtoria rajonale e Shërbimit Social Shtetëror vlerëson, përpunon e standardizon të dhënat e grumbulluara sipas pikave 3, 4, 5 dhe 6, të këtij vendimi, dhe ia dërgon, brenda datës 15 të muajit pasardhës, Drejtorisë së Përgjithshme të Shërbimit Social Shtetëror.

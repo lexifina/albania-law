@@ -1,0 +1,1 @@
+12. Vendimi nr. 617, datë 7.9.2006, i Këshillit të Ministrave, “Për përcaktimin e treguesve të vlerësimit dhe të monitorimit të programeve të ndihmës ekonomike, të pagesës për personat me aftësi të kufizuara dhe të shërbimeve shoqërore”, shfuqizohet.

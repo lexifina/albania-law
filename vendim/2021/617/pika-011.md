@@ -1,0 +1,1 @@
+11. Ngarkohet ministri përgjegjës për çështjet sociale të nxjerrë udhëzim për mënyrën e paraqitjes së të dhënave statistikore për programin e ndihmës ekonomike, të aftësisë së kufizuar dhe të shërbimeve të përkujdesjes shoqërore.

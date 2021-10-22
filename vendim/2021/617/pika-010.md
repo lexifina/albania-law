@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Shërbimit Social Shtetëror, të dhënat e grumbulluara dhe të përpunuara, në përputhje me standardet e përcaktuara me udhëzim të ministrit, i dërgon në ministrinë përgjegjëse për çështjet sociale dhe në Institutin e Statistikave.
