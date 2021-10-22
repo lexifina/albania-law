@@ -1,1 +1,0 @@
-9. Drejtoria e Përgjithshme e Shërbimit Social Shtetëror, të dhënat e grumbulluara dhe të përpunuara në përputhje me standardet e përcaktuara me udhëzim të ministrit, i dërgon në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, e cila i përpunon ato për realizimin e qëllimeve të parashikuara në pikën 2 të këtij vendimi.
