@@ -1,0 +1,1 @@
+2. Fondi i rindërtimit për financimin e riforcimit, sipas pikës 1, të këtij vendimi, për vitin 2021, të jetë në masën 112 282 291 (njëqind e dymbëdhjetë milionë e dyqind e tetëdhjetë e dy mijë e dyqind e nëntëdhjetë e një) lekë.

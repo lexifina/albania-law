@@ -1,0 +1,1 @@
+3. Efekti financiar, sipas pikës 2, të këtij vendimi, të përballohet nga hapësira buxhetore e siguruar pas ngurtësimit në të njëjtën masë të fondeve të projekteve të rindërtimit me ecuri të ngadaltë dhe t’i kalojë Bashkisë Durrës, në formën e transfertës së pakushtëzuar.
