@@ -1,0 +1,1 @@
+5. Në institucionet e administratës shtetërore, entet publike dhe shoqëritë tregtare me kapital shtetëror, pjesë e Rrjetit të Koordinatorëve, krijohet pozicioni “Koordinator i Rrjetit të Koordinatorëve kundër Korrupsionit”, i cili emërohet nga titullari i institucionit, për një afat 2-vjeçar, pas propozimit të Koordinatorit Kombëtar Kundër Korrupsionit.

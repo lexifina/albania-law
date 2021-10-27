@@ -1,0 +1,1 @@
+13. Koordinatori Kombëtar kundër Korrupsionit, në varësi të shkeljes së konstatuar, i propozon titullarit të institucionit apo shoqërisë tregtare me kapital shtetëror pezullimin e koordinatorit ose marrjen e masës disiplinore për largimin nga funksioni.

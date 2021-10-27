@@ -1,0 +1,1 @@
+16. Në rastin kur raporti përfundimtar i hartuar nga koordinatori përmban elemente të veprës penale, struktura përgjegjëse kundër korrupsionit në Ministrinë e Drejtësisë i propozon Koordinatorit Kombëtar kundër Korrupsionit përcjelljen e çështjes në organin e Prokurorisë, së bashku me të gjithë dokumentacionin e administruar.

@@ -1,0 +1,1 @@
+10. Procedurat e përzgjedhjes e të rekrutimit të kandidatëve për koordinator përcaktohen në rregulloren e brendshme të Rrjetit të Koordinatorëve, të miratuar me urdhër të Koordinatorit Kombëtar kundër Korrupsionit.

@@ -1,0 +1,1 @@
+12. Struktura përgjegjëse kundër korrupsionit në Ministrinë e Drejtësisë vë në dijeni Koordinatorin Kombëtar kundër Korrupsionit, në rast se konstaton parregullsi gjatë ushtrimit të detyrave nga koordinatori.
