@@ -1,1 +1,0 @@
-22. Punonjësit e Njësisë, përfshirë punonjësit me kohë të plotë nga institucionet e tjera, përfitojnë shtesë mbi pagë në masën 50 000 (pesëdhjetë mijë) lekë në muaj, ndërsa punonjësit me kohë të pjesshme përfitojnë shtesë mbi pagë në masën 25 000 (njëzet e pesë mijë) lekë në muaj.

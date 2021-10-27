@@ -1,1 +1,0 @@
-16. Njësia drejtohet nga drejtori i Përgjithshëm, i cili organizon dhe drejton të gjithë veprimtarinë e Njësisë dhe përgjigjet përpara Kryeministrit. Drejtori i Përgjithshëm emërohet nga Kryeministri.

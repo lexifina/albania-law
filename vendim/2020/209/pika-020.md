@@ -1,1 +1,0 @@
-20. Rregullat për përzgjedhjen e punonjësve të Njësisë përcaktohen në rregulloren e brendshme të Njësisë, të miratuar nga drejtori i Përgjithshëm. Punonjësit e institucioneve të tjera, me kohë të plotë ose të pjesshme, përcaktohen nga titullari përkatës, me propozimin e drejtorit të Përgjithshëm të Njësisë Speciale Antikorrupsion dhe Antievazion.

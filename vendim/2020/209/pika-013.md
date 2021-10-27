@@ -1,1 +1,0 @@
-13. Njësia bashkëpunon me struktura të vendeve të tjera përgjegjëse për çështjet antikorrupsion, sipas marrëveshjeve të lidhura për këtë qëllim. Në këtë rast, marrëveshjet bëhen nëpërmjet ministrit të Drejtësisë.
