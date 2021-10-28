@@ -1,0 +1,1 @@
+13. Mbas miratimit nga titullari i autoritetit kontraktor, oferta e shpallur fituese u njoftohet kandidatëve ofertues me shkrim, të cilëve u njoftohet e drejta për ankim ndaj vendimit të Komisionit të Vlerësimit. Afati i ankimit është 5 (pesë) ditë nga data e njoftimit.

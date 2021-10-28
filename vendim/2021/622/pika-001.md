@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i procedurës për lidhjen e kontratave të mallrave, punëve dhe/ose shërbimeve që diktohen nga interesa thelbësorë të shtetit. Qëllimi i këtij vendimi është përdorimi efektiv i fondeve publike dhe i çdo mjeti financiar ose kapital, i të drejtave të lidhura me to, për kryerjen e procedurave që diktohen nga interesat thelbësorë të shtetit.

@@ -1,0 +1,1 @@
+6. Komisioni i Vlerësimit, mbas administrimit të ofertave, cakton një afat për shpalljen e ofertës fituese, i cili nuk duhet të jetë më shumë se 20 (njëzet) ditë kalendarike nga data e hapjes së ofertës. Afati i shpalljes së ofertës fituese, data, vendi dhe ora e shpalljes u njoftohen me shkrim kandidatëve ofertues që kanë paraqitur ofertë.

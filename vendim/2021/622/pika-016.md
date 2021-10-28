@@ -1,0 +1,1 @@
+16. Pas negocimit, kontrata së bashku me relacionin përkatës i dërgohet titullarit të autoritetit kontraktor për miratim. Në rast se ofertuesi fitues nuk pranon të lidhë kontratë dhe tërhiqet, kjo dokumentohet dhe shpallet fituese oferta e klasifikuar e dyta. Në rast se edhe ofertuesi i klasifikuar i dyti nuk pranon të lidhë kontratë, atëherë procedura anulohet.
