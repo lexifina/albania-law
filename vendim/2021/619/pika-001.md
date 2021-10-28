@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Restaurimi dhe rijetësimi i ’Banesës së Toptanasve’ Muzeu Etnografik i Tiranës”.
