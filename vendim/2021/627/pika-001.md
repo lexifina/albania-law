@@ -1,0 +1,1 @@
+1. Kalimin te bashkitë Kurbin e Lezhë, përkatësisht, të objekteve arsimore, shkolla 9-vjeçare dhe kopshti “Dan Bajrami”, Bashkia Kurbin, shkolla e mesme dhe parashkollori “Llesh Nik Daka”, Bashkia Lezhë, sipas listës së inventarit që i bashkëlidhet këtij vendimi.
