@@ -1,0 +1,1 @@
+9. Marrëdhëniet e punës së drejtorit të Përgjithshëm, të zëvendësdrejtorit të Përgjithshëm dhe të nëpunësve të Agjencisë rregullohen në bazë të dispozitave të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë të Agjencisë rregullohen në bazë të dispozitave të Kodit të Punës.

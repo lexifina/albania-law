@@ -1,0 +1,1 @@
+5. Për akreditimin e institucioneve të kujdesit shëndetësor, pjesë e procesit është dhe rekomandimi nga Bordi i Akreditimit, i cili funksionon sipas përcaktimeve të legjislacionit në fuqi për kujdesin shëndetësor në Republikën e Shqipërisë.

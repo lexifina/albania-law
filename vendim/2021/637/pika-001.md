@@ -1,0 +1,1 @@
+1. Krijimin e Agjencisë së Sigurimit të Cilësisë së Kujdesit Shëndetësor dhe Shoqëror (në vijim “Agjencia”), si person juridik publik buxhetor, në varësi të ministrit përgjegjës për shëndetësinë dhe mbrojtjen sociale (në vijim “ministri”).
