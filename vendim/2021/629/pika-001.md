@@ -1,0 +1,1 @@
+1. Kalimin në pronësi, nga Ministria e Mbrojtjes te Bashkia Gramsh, të pronës nr. 1439, me emërtim “Ish-repart ushtarak”, me vendndodhje në Çekrez, fshati Koçaj, Gramsh, sipas plan-rilevimit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, për ta përdorur për ndërtimin e varrezave të reja të qytetit Gramsh.
