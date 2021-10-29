@@ -1,0 +1,1 @@
+11. Qendra e Pritjes për Azil ka stemën, logon dhe vulën e vet zyrtare. Stema e qendrës përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Ministria e Brendshme, Qendra e Pritjes për Azil”.

@@ -1,0 +1,1 @@
+1. Organizimin dhe funksionimin e Qendrës së Pritjes për Azil (këtu e në vijim “QPA”) si person juridik publik buxhetor, në varësi të ministrit përgjegjës për çështjet e azilit (këtu e në vijim ministri), me seli në Tiranë.
