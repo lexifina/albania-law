@@ -1,0 +1,1 @@
+2. Vendimi nr. 1701, datë 17.12.2008, i Këshillit të Ministrave, “Për miratimin e rregullores për procedurat e dhënies së autorizimeve për ndërtimin e objekteve të reja gjeneruese të energjisë, që nuk janë objekt koncesioni”, të ndryshuar, shfuqizohet.
