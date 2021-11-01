@@ -1,1 +1,1 @@
-1. Miratimin e procedurës së kryerjes së testimeve molekurale RT-PCR për SARS-CoV-2 dhe njohjes së laboratorëve jopublikë për kryerjen e testimit për nevoja administrative të qytetarëve, sipas tekstit që i bashkëlidhet këtij urdhri.
+1.1. Laboratorët e përcaktuar në pikën 1, të këtij urdhri, kryejnë edhe testimin e antigenit, sipas udhëzimeve të përcaktuara nga Ministria e Shëndetësisë dhe Mbrojtjes Sociale.
