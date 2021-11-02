@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 25, datë 22.6.2021, i Këshillit të Ministrave, “Për disa ndryshime dhe shtesa në ligjin 9936, datë 26.6.2008, ’Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë’, të ndryshuar”.
