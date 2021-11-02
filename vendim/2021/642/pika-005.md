@@ -1,0 +1,1 @@
+5. Marrëdhëniet e punës së drejtorit të Përgjithshëm dhe punonjësve administrativë të SASPAC-së rregullohen në bazë të Kodit të Punës. Marrëdhëniet e punës së nëpunësve të SASPAC-së rregullohen në bazë të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar.

@@ -1,0 +1,1 @@
+6. Struktura dhe organika e SASPAC-së hartohen në përputhje me përgjegjësitë funksionale të parashikuara në këtë vendim dhe miratohen me urdhër të Kryeministrit, sipas legjislacionit në fuqi për organizimin dhe funksionimin e administratës shtetërore.

@@ -1,0 +1,1 @@
+7. Strukturat përgjegjëse të projekteve pranë institucioneve të administratës shtetërore bashkërendojnë punën e tyre me SASPAC-në. Këto struktura informojnë periodikisht dhe sipas kërkesës pranë SASPAC-së, sipas formatit të miratuar nga drejtori i Përgjithshëm i SASPAC-së.

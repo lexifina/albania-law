@@ -1,0 +1,1 @@
+9. SASPAC-ja mbështet ministrinë përgjegjëse për Evropën në përmbushjen e përgjegjësive të saj për procesin e integrimit të Republikës së Shqipërisë në Bashkimin Evropian dhe misionet diplomatike në koordinimin e punës së tyre me donatorët e huaj. Formati dhe procedura e mbështetjes dhe koordinimit përcaktohen me urdhër të Kryeministrit.

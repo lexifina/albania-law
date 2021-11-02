@@ -1,0 +1,1 @@
+14. SASPAC-ja ka stemën, logon dhe vulën e saj zyrtare. Stema e SASPAC-së përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Kryeministria, Agjencia Shtetërore e Programimit Strategjik dhe Bashkërendimit të Ndihmës”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

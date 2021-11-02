@@ -1,0 +1,1 @@
+8. SASPAC-ja koordinon punën me Zyrtarin Kombëtar Autorizues dhe strukturat përgjegjëse të menaxhimit pranë tij, Drejtorinë e Përgjithshme të Financimeve dhe Kontraktimeve për Fondet e BE-së, BB-së dhe donatorëve të tjerë. Formati dhe procedura e mbështetjes dhe koordinimit përcaktohen me urdhër të Kryeministrit.

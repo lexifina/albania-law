@@ -1,0 +1,1 @@
+1. Krijimin, organizimin dhe funksionimin e Agjencisë Shtetërore të Programimit Strategjik dhe Koordinimit të Ndihmës, e njohur edhe si State Agency for Strategic Programming and Aid Coordination, (këtu e në vijim SASPAC-ja), si person juridik publik buxhetor, në varësi të Kryeministrit, me seli në Tiranë.

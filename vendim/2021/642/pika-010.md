@@ -1,0 +1,1 @@
+10. SASPAC-ja mbështet Kryenegociatorin dhe grupin negociator në programimin dhe monitorimin e asistencës financiare të BE-së në funksion të procesit të aderimit në BE dhe të zbatimit të marrëveshjes së stabilizim-asociimit. Formati dhe procedura e mbështetjes dhe koordinimit përcaktohen me urdhër të Kryeministrit.
