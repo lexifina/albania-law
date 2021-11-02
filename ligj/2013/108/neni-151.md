@@ -1,5 +1,0 @@
-# Neni 151
-Aktet nënligjore
-Ngarkohet Këshilli i Ministrave që, brenda 6 muajve nga hyrja në fuqi e këtij ligji, të nxjerrë aktet nënligjore në zbatim të neneve 6 pika 1 shkronja “e”, 16 pika 8, 17 pika 3, 19 pika 2, 20 pika 4, 22 pika 5, 24 pikat 1, 5 dhe 6, 30 pikat 1, 2 dhe 6, 33 pika 2, 34 pikat 4 dhe 5, 38 pikat 1 dhe 4, 56 pika 1 shkronja “a”, 65 pika 3, 70 pika 3, 71 pika 1, 73 pika 4, 75 pika 2, 76 pika 3, 82 pika 2, 86 pika 2, 105 pika 1, 120 pika 4, 141 pika 6 dhe 145 pika 3.
-Ngarkohet Këshilli i Ministrave që, brenda 3 muajve nga hyrja në fuqi e këtij ligji, të nxjerrë aktet nënligjore për të përcaktuar kriteret, procedurat dhe dokumentacionin për pajisjen me vizë elektronike, në zbatim të nenit 22, pika 5, dhe për formatin e aplikimit për vizën elektronike, në zbatim të nenit 24, pika 1, të ligjit.
-Ngarkohet ministria përgjegjëse për punët e jashtme, ministria përgjegjëse për punët e brendshme dhe Shërbimi Informativ Shtetëror që, brenda 3 muajve nga hyrja në fuqi e këtij ligji, të nxjerrin udhëzimin e përbashkët për lëshimin e vizës elektronike, në zbatim të nenit 25, pika 2, të ligjit.

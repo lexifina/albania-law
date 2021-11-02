@@ -1,9 +1,0 @@
-# Neni 12
-Ftuarja e të huajit
-1. Ftuesi është shtetasi shqiptar ose i huaji, banor në Republikën e Shqipërisë, ose personi juridik shqiptar apo i huaj që ushtron veprimtari sipas legjislacionit shqiptar, i cili deklaron me shkrim se merr përsipër përgjegjësitë për qëndrimin dhe largimin e të huajit në/nga Republika e Shqipërisë, sipas dispozitave ligjore në fuqi.
-2. Një person fizik ose juridik, shqiptar, ose i huaji, banor në Republikën e Shqipërisë, mund t’i bëjë ftesë një të huaji të hyjë në vend me vizë, nëse plotëson kushtet dhe angazhohet si më poshtë:
-a) t’i sigurojë të huajit pritje, akomodimin gjatë kohës së qëndrimit në Republikën e Shqipërisë, si dhe kthimin e tij në vendin e origjinës apo vendin nga ka ardhur i huaji;
-b) të mbulojë shpenzimet e kthimit në vendin e destinacionit, në rast se për të huajin është nxjerrë një urdhër largimi ose dëbimi dhe kur ky nuk ka mjete financiare.
-3. Ftesa i dërgohet të huajit dhe domosdoshmërisht një kopje e saj depozitohet nga ftuesi në autoritetin rajonal përgjegjës për kufirin dhe migracionin ku ftuesi ka vendbanimin ose vendqëndrimin.
-4. Autoriteti qendror përgjegjës për çështjet e kufirit dhe migracionit, në bashkëpunim me autoritetet përgjegjëse në ministrinë përgjegjëse për punët e jashtme, për periudha të caktuara kohe, për aq kohë sa vlerësohet e nevojshme, në interes të parandalimit të migracionit të paligjshëm, mund të kërkojë pajisjen me ftesë para se të hyjnë në Republikën e Shqipërisë dhe të shtetasve të vendeve, të cilët hyjnë pa vizë në vend. Procedura e marrjes së një vendimi të tillë miratohet me udhëzim të përbashkët të Ministrit të Brendshëm dhe Ministrit të Punëve të Jashtme.
-5. Forma dhe përmbajtja e ftesës miratohen me udhëzim të përbashkët të Ministrit të Brendshëm dhe Ministrit të Punëve të Jashtme.

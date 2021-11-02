@@ -1,6 +1,0 @@
-# Neni 37
-Kritere për lëshimin e lejeve të përkohshme të qëndrimit
-1. I huaji pajiset me leje të përkohshme qëndrimi, e cila është e vlefshme për periudhën e përcaktuar në aplikim, por jo më shumë se një vit kur aplikohet për herë të parë, nëse nuk është e përcaktuar ndryshe në këtë ligj apo marrëveshje ndërkombëtare të ratifikuar nga Republika e Shqipërisë.
-2. I huaji, i pajisur me leje të përkohshme qëndrimi, i cili largohet përkohësisht nga territori i Republikës së Shqipërisë për një afat deri në 6 muaj, ka të drejtë për të rihyrë në vend brenda afatit të lejes së qëndrimit.
-3. I huaji, i pajisur me leje të përkohshme të qëndrimit me afat të paktën 1-vjeçar, quhet banor i përkohshëm në Republikën e Shqipërisë vetëm pasi regjistrohet në zyrat e gjendjes civile të njësisë së qeverisjes vendore, ku ka vendqëndrimin e përkohshëm, si dhe duhet të njoftojë autoritetet përgjegjëse sa herë ndryshon vendqëndrimin, në përputhje me legjislacionin në fuqi. Procedura dhe formulari i regjistrimit të të huajit në gjendjen civile miratohet me udhëzim të Ministrit të Brendshëm.
-4. Ka të drejtë të aplikojë për leje të përkohshme qëndrimi për të miturit prindi ose kujdestari ligjor apo institucioni i ngarkuar me trajtimin e të miturve të pashoqëruar.
