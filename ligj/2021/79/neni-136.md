@@ -1,0 +1,8 @@
+# Neni 136
+Detyrime për individë dhe subjekte
+1. Për të huajt, të cilët nuk janë të pajisur me një dokument të vlefshëm udhëtimi, të njohur nga ky ligj, apo nuk kanë vizë ose leje qëndrimi të vlefshme, është e ndaluar dhënia me qira e pasurive të paluajtshme.
+2. Menaxherët/pronarët e hoteleve dhe qendrave të pushimit duhet të informojnë autoritetin shtetëror përgjegjës në nivel rajonal/vendor për trajtimin e të huajve, për mbërritjen dhe largimin e të huajve, të cilët ata presin në mjediset e tyre. Hotelet dhe qendrat e pushimit e kanë të ndaluar të pranojnë të huaj, të cilët nuk provojnë se janë me qëndrim të ligjshëm në Republikën e Shqipërisë.
+3. Në rast se i huaji qëndron në Republikën e Shqipërisë në mënyrë të paligjshme dhe nuk disponon mjete të mjaftueshme financiare për kthim, ftuesi i tij apo organizuesi i transportit të tij në Republikën e Shqipërisë është i detyruar të mbulojë koston e kthimit.
+4. Struktura shtetërore apo subjekte private ose individë janë të detyruar të njoftojnë menjëherë strukturat përgjegjëse të policisë kufitare dhe migracionit nëse marrin dijeni për të huaj që qëndrojnë ose punojnë në mënyrë të paligjshme në territorin e Republikës së Shqipërisë, përveç rasteve kur janë të detyruar të ruajnë një sekret sipas përcaktimeve të legjislacionit në fuqi.
+5. Gjykata, e cila merr një vendim të formës së prerë, me të cilin shpall një të huaj fajtor për një vepër penale, njofton autoritetin rajonal përgjegjës për kufirin dhe migracionin për vendimin e marrë.
+6. Institucionet e vuajtjes së dënimit duhet të njoftojnë autoritetet përgjegjëse rajonale për kufirin dhe migracionin 24 orë para lirimit të të huajit nga ky institucion.

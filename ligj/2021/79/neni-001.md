@@ -1,0 +1,3 @@
+# Neni 1
+Objekti i ligjit
+Ky ligj rregullon regjimin e hyrjes, të qëndrimit, të punësimit dhe të daljes së të huajve në/nga Republika e Shqipërisë. Ligji përcakton funksionet dhe kompetencat e autoriteteve shtetërore dhe të subjekteve të tjera, publike e private, shqiptare ose të huaja, që në përputhje me parimin e interesit më të mirë të fëmijës, parimin e së drejtës për jetë familjare, parimin e moskthimit, parimin e procedurave të drejta dhe transparente dhe parimin e mosdiskriminimit kryejnë aktivitete në Republikën e Shqipërisë, të cilat kanë të bëjnë me të huajt që kërkojnë të hyjnë, që hyjnë, qëndrojnë dhe dalin nga Republika e Shqipërisë.
