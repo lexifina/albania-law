@@ -1,0 +1,1 @@
+11. Autoriteti përgjegjës për parandalimin e konfliktit të interesave njofton me shkresë zyrtare subjektin deklarues për llogarinë e hapur brenda 48 orëve nga krijimi i saj, duke i komunikuar emrin e përdoruesit dhe fjalëkalimin që duhet të përdorë në llogarinë e tij.

@@ -1,0 +1,1 @@
+9. Autoriteti përgjegjës për parandalimin e konfliktit të interesave regjistron në sistemin EACIDS të dhënat e subjektit deklarues dhe personave të lidhur me të, në përputhje me fushat e kërkuara dhe mënyrës së përcaktuar në manualet e përdorimit të sistemit.

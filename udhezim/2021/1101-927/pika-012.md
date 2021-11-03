@@ -1,0 +1,1 @@
+12. Subjekti deklarues, krahas njoftimit me shkresë sipas pikës 11, merr njëkohësisht edhe një komunikim elektronik (email) në adresën e njoftuar prej tij/saj, pranë autoritetit përgjegjës, në të cilin i komunikohet emri i përdoruesit dhe fjalëkalimi i llogarisë, me të cilat kryen hyrjen e parë në sistemin EACIDS.

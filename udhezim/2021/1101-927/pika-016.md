@@ -1,0 +1,1 @@
+16. Autoritetet përgjegjëse duhet të kryejnë në mënyrë efektive detyrat e tyre sipas dispozitave ligjore në fuqi, këtij udhëzimi, si dhe manualeve për përdorimin e sistemit EACIDS, që janë pjesë integrale e këtij udhëzimi.

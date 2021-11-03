@@ -1,0 +1,1 @@
+13. Subjekti deklarues, që kryen hyrjen për herë të parë në llogarinë e tij në sistemin EACIDS, duhet të bëjë ndryshimin e fjalëkalimit të dhënë me një fjalëkalim të zgjedhur prej tij. Fjalëkalimi duhet të jetë minimalisht me 6 karaktere, si dhe duhet të përmbajë një kombinim të shkronjave kapitale dhe të vogla, numrave dhe karaktereve speciale, si: (! , @, #, etj.);
