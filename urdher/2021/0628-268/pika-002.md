@@ -1,0 +1,1 @@
+2. Zbatimin e Regjistrit të Kërkesave dhe Përgjigjeve të Rishikuar, sipas modelit të miratuar nga Komisioneri për të Drejtën e Informimit dhe Mbrojtjes së të Dhënave Personale me urdhrin nr. 188, datë 18.12.2020.
