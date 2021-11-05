@@ -1,7 +1,6 @@
-5. Kërkesa për kryerjen e trajnimit bëhet nga vetë personi fizik dhe duhet të dorëzojë pranë subjektit të licencuar për zhvillimin e kurseve këto dokumente:
-a) fotokopje të letërnjoftimit;
-b) formular aplikimi dhe autodeklarimi për certifikimin/licencimin/autorizimin
+5. Për kryerjen e trajnimit teorik dhe praktik për përdorimin e armës personi fizik duhet të dorëzojë, pranë subjektit të licencuar për zhvillimin e kurseve, këto dokumente:
+a) kërkesa për trajnim teorik e praktik për përdorimin e armës;
+b) fotokopje të letërnjoftimit/pasaportës, të njohur sipas legjislacionit në fuqi;
 c) certifikatë të gjendjes gjyqësore;
-d) raport mjekësor, që të vërtetojë që është i aftë nga ana mendore dhe fizike;
-e) fotografi, 4 copë.
-Kopjet e dokumenteve të përcaktuara në germat “a”, “c”, dhe “d” duhet të jenë të noterizuara.
+ç) certifikatë mjekësore për veprimtaritë e lejuara me armët, sipas udhëzimit në fuqi për llojet e vizitave mjekësore dhe përmbajtjen e raportit mjekësor për veprimtaritë me armët, lëshuar nga autoriteti përkatës brenda 6 (gjashtë) muajve të fundit, që vërteton se është i aftë nga ana mendore dhe fizike;
+d) fotografi personale të 6 (gjashtë) muajve të fundit, 2 copë.
