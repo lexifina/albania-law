@@ -1,0 +1,1 @@
+4. Përdorimi i mjeteve lëvizëse motorike dhe i mjeteve të blinduara për shërbime të veçanta kryhet sipas përcaktimeve të lidhjes nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
