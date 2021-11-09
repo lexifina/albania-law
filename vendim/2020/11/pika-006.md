@@ -1,1 +1,0 @@
-6. Informon vazhdimisht dhe në kohë Kryeministrin, kur është rasti, edhe Këshillin e Ministrave, për realizimin e programeve të procesit të rindërtimit e të përdorimit të burimeve materiale e njerëzore.
