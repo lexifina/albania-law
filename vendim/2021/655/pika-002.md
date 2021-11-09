@@ -1,0 +1,1 @@
+2. Numri i punonjësve të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, për vitin 2021, shtohet me 3 (tre) punonjës për Shërbimin Social Shtetëror, duke e çuar numrin e përgjithshëm të sistemit të ministrisë në 4 296 (katër mijë e dyqind e nëntëdhjetë e gjashtë) punonjës.
