@@ -1,0 +1,1 @@
+6. Në buxhetin e vitit 2021, të miratuar për Ministrinë e Drejtësisë, në programin “Planifikimi, menaxhimi dhe administrimi”, shtohet fondi prej 13 808 365 (trembëdhjetë milionë tetëqind e tetë mijë e treqind e gjashtëdhjetë e pesë) lekësh, në zërin “shpenzime korrente”.

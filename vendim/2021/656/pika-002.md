@@ -1,0 +1,1 @@
+2. Numri i punonjësve të Njësisë Speciale Antikorrupsion dhe Evazion, për vitin 2021, pakësohet me 7 (shtatë) punonjës, duke e çuar numrin e përgjithshëm të institucioneve në varësi të Kryeministrisë në 1 198 (një mijë e njëqind e nëntëdhjetë e tetë) punonjës.

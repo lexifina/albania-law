@@ -1,0 +1,1 @@
+4. Numri i punonjësve të Ministrisë së Drejtësisë, për vitin 2021, shtohet me 21 (njëzet e një) punonjës, duke e çuar numrin e përgjithshëm të ministrisë në 5 352 (pesë mijë e treqind e pesëdhjetë e dy) punonjës.

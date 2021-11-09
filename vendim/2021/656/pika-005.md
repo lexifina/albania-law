@@ -1,0 +1,1 @@
+5. Në buxhetin e vitit 2021, të miratuar për grupin buxhetor nr. 87, “Institucionet në varësi të Kryeministrisë”, në programin “Shërbime të tjera”, pakësohet fondi prej 13 808 365 (trembëdhjetë milionë tetëqind e tetë mijë e treqind e gjashtëdhjetë e pesë) lekësh, në zërin “shpenzime korrente”.
