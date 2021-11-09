@@ -4,6 +4,10 @@ Nr. 216, datë 11.10.2018
 
 MBI TRANSFERIMIN E LICENCËS PËR OPERIMIN E SISTEMIT TË SHPËRNDARJES SË ENERGJISË ELEKTRIKE, TË SHOQËRISË “OPERATORI I SHPËRNDARJES SË ENERGJISË ELEKTRIKE” SHA (OSHEE SHA), ME NR. 250, SERIA P14SH, MIRATUAR ME VENDIMIN E BORDIT TË KOMISIONERËVE TË ERE-s NR. 96, DATË 27.10.2014, TE SHOQËRIA “OPERATORI I SISTEMIT TË SHPËRNDARJES” SHA (OSSH SHA), E VLEFSHME DERI NË DATËN 27.10.2044
 
+(ndryshuar me vendimin nr. 224, datë 9.11.2021)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16, të nenit 37, pika 2, germa “c”, si dhe të nenit 44 të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike” të ndryshuar; të nenit 4, pika 1, germa “c”; të nenit 5, pika 1, germa “c”; të nenit 13 dhe të nenit 17, pikat 1, 2, 4 dhe 5, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s, nr. 109, datë 29.6.2016, si dhe të nenit 15 të “Rregullave të organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 11.10.2018, mbasi shqyrtoi relacionin e përgatitur nga Drejtoritë Teknike, mbi transferimin e licencës së operimit në sistemin e shpërndarjes së energjisë elektrike, të shoqërisë “Operatori i shpërndarjes së energjisë elektrike” sh.a. (OSHEE sh.a.), me nr. 250, seria P14SH, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 27.10.2014, e vlefshme deri në datën 27.10.2044 te shoqëria “Operatori i sistemit të shpërndarjes” sh.a. (OSSH sh.a.),
 
 konstatoi se: 
@@ -48,7 +52,7 @@ VENDOSI:
 
 1. Transferimin e licencës në operimin e sistemit të shpërndarjes së energjisë elektrike, të shoqërisë “Operatori i shpërndarjes së energjisë elektrike” sh.a. (OSHEE sh.a.), me nr. 250, seria P14SH, miratuar me vendimin e Bordit të Komisionerëve të ERE-s nr. 96, datë 27.10.2014, te shoqëria “Operatori i sistemit të shpërndarjes” sh.a. (OSSH sh.a.), e vlefshme deri në datën 27.10.2044.
 
-2. Shoqëria “Operatori i sistemit të shpërndarjes” sh.a. (OSSH sh.a.) të paraqesë në ERE listën e personelit, sipas profilit, në përputhje me aktivitetin për të cilin kërkohet licenca, pasi të përfundojë transferimi i personelit për këtë shoqëri, “Operatori i sistemit të shpërndarjes” sh.a. (OSSH sh.a.), nga struktura përkatëse.
+2. Shfuqizuar.
 
 3. Drejtoria e Licencimit dhe e Monitorimit të Tregut të njoftojë aplikuesit për vendimin e Bordit të ERE-s.
 
