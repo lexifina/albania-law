@@ -1,1 +1,0 @@
-1. Uniforma, forma dhe elementet e gradave dhe të shenajve dalluese të efektivave të Gardës së Republikës së Shqipërisë të jenë sipas modeleve dhe specifikimeve teknike, të paraqitura, përkatësisht, në lidhjen nr.1 e në lidhjen nr.2, që i bashkëlidhen këtij vendimi.

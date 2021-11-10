@@ -1,1 +1,0 @@
-4. Vendimi nr.511, datë 9.11.1999 i Këshillit të Ministrave “Për miratimin e uniformës të truprojës së nderit dhe të stemës së Gardës së Republikës” dhe vendimi nr.67, datë 22.1.2004 i Këshillit të Ministrave “Për miratimin e uniformës dhe të shenjave dalluese të Gardës së Republikës së Shqipërisë”, i ndryshuar, shfuqizohen.
