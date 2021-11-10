@@ -1,0 +1,1 @@
+6. Vendimi nr. 136, datë 11.2.2009, i Këshillit të Ministrave, “Për miratimin e uniformës, të formës dhe elementeve të gradave e të shenjave dalluese të efektivave të Gardës së Republikës së Shqipërisë”, shfuqizohet.

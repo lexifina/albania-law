@@ -1,0 +1,1 @@
+3. Uniforma për punonjësit e Gardës së Republikës është sipas lidhjes nr. 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij. Për shërbime të veçanta punonjësit e Gardës përdorin veshje civile.
