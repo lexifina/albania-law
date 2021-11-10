@@ -1,0 +1,6 @@
+1. Planet e menaxhimit të ekosistemeve dhe të habitateve me status mbrojtjeje, të cilat ndodhen brenda territorit administrativ të njësive të vetëqeverisjes vendore, hartohen nga njësitë e vetëqeverisjes vendore, duke u mbështetur në kriteret e mëposhtme:
+a) të përshkruhet territori i ekosistemeve dhe i habitateve si një kompleks dinamik, duke përfshirë bimësinë, kafshët e mikroorganizmat, pyjet, kullotat, ligatinat, sipërfaqet ujore dhe bregdetare, vlerat e kërcënimet e tyre, të cilat ndërveprojnë ndërmjet tyre si një njësi funksionale;
+b) të përshkruhen veprimtaritë ekonomike që janë kërcënuese për zonën;
+c) të parashikohen masa rregullatore ose administrative të nevojshme për të shmangur ose për të pakësuar kërcënimet e identifikuara në ekosistem;
+ç) të parashikohen masat për menaxhimin e habitatit, të ekosistemeve, objektivat e menaxhimit, masat e veprimet e menaxhimit, programet e monitorimit, inventarizimit dhe kërkimit shkencor brenda habitateve dhe ekosistemeve;
+d) të ketë afat zbatimi 10-vjeçar nga njësitë e vetëqeverisjes vendore, komuniteti lokal, si dhe subjektet që ushtrojnë veprimtaritë e miratuara në territorin përkatës, sipas pikës 2, të nenit 8, të ligjit nr. 10006, datë 23.10.2009, “Për mbrojtjen dhe konservimin e faunës së egër”, të ndryshuar.

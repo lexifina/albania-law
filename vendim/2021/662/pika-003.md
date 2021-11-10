@@ -1,0 +1,1 @@
+3. Kriteret për përcaktimin e popullatave të faunës së egër për shpalljen e tyre të mbrojtur mbështeten në të dhënat e reja dhe në ato ekzistuese, të siguruara nga strategjia e plani i veprimit të biodiversitetit, nga rrjeti i inventarizimit dhe i monitorimit të biodiversitetit, si dhe nga burime zyrtare ndërkombëtare.
