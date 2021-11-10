@@ -1,0 +1,1 @@
+10. Palët përgjigjen reciprokisht për përmbushjen e detyrimeve dhe të kushteve të parashikuara deri në fund të marrëdhënieve, sipas marrëveshjes së nënshkruar. Çdo mosmarrëveshje ndërmjet palëve zgjidhet nga gjykata kompetente.

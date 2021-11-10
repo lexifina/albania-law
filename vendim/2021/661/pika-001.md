@@ -1,0 +1,1 @@
+1. Institucionet e arsimit të lartë (IAL) në fushën e shëndetësisë lidhin marrëveshje, për të gjitha ciklet e studimit, me qendrat/institucionet e kujdesit shëndetësor, publike apo private, të licencuara dhe të akredituara, sipas llojit e që plotësojnë kriteret e përcaktuara me këtë vendim.

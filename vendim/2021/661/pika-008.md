@@ -1,0 +1,1 @@
+8. Ministria përgjegjëse për shëndetësinë publikon listën e qendrave/institucioneve të kujdesit shëndetësor, të përcaktuara në pikën 2 të këtij vendimi, që mund të lidhin marrëveshje me institucionet e arsimit të lartë në fushën e shëndetësisë, sipas natyrës së shërbimeve shëndetësore që ofrojnë qendrat/institucionet e kujdesit shëndetësor.

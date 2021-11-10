@@ -1,0 +1,1 @@
+5. Mënyra e ndjekjes së praktikave mësimore dhe kërkimore-shkencore, sipas cikleve të studimit, përcaktohet në marrëveshjen që do të lidhin qendra/institucioni i kujdesit shëndetësor dhe institucioni i arsimit të lartë në fushën e shëndetësisë.

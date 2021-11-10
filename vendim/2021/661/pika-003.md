@@ -1,0 +1,1 @@
+3. Ministri përgjegjës për shëndetësinë përcakton kapacitetet pritëse të qendrave/institucioneve të kujdesit shëndetësor, të përcaktuara në pikën 2 të këtij vendimi, përpara se ata të lidhin marrëveshje me IAL-et, sipas standardeve shtetërore për sigurimin e cilësisë në institucionet e arsimit të lartë.

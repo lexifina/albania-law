@@ -1,0 +1,1 @@
+9. Qendrat/institucionet e kujdesit shëndetësor, për çdo marrëveshje të lidhur, njoftojnë brenda 10 (dhjetë) ditëve ministrinë përgjegjëse për shëndetësinë, ndërsa institucionet e arsimit të lartë njoftojnë brenda 10 (dhjetë) ditëve ministrinë përgjegjëse për arsimin.
