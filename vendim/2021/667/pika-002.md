@@ -1,0 +1,6 @@
+2. Sigurimi i jetës dhe i shëndetit, për vullnetarët që angazhohen në aktivitete të mbrojtjes civile apo në operacionet e parandalimit e të përballimit të fatkeqësive, bëhet sipas kontratës së lidhur me shoqërinë e sigurimit, të përzgjedhur sipas rregullave të përcaktuara në legjislacionin në fuqi për prokurimin publik nga institucioni apo struktura qendrore dhe vendore e mbrojtjes civile, përgjegjëse për parandalimin e përballimin e fatkeqësisë, sipas natyrës së saj. Ky sigurim mbulon shpenzimet për trajtimin e dëmtimeve që vijnë si rezultat i angazhimit në aktivitete të mbrojtjes civile apo në operacionet e parandalimit e të përballimit të fatkeqësive, si më poshtë vijon:
+a) vdekje si rezultat i dëmtimeve;
+b) paaftësi e përhershme ose aftësi e kufizuar, ose një lloj i caktuar dëmtimi si rezultat i një aksidenti gjatë kohëzgjatjes së vullnetarizmit;
+c) paaftësi e përkohshme, si rezultat i një aksidenti gjatë kohëzgjatjes së vullnetarizmit dhe për shkak të tij;
+ç) paaftësi e përkohshme, si rezultat i një sëmundjeje të pësuar gjatë kohëzgjatjes së vullnetarizmit dhe për shkak të saj;
+d) shërbime spitalore dhe/ose mjekësore në spitalet publike ose private brenda shtetit, kur mbulimet shëndetësore nuk ofrohen në spitalet publike të vendit.
