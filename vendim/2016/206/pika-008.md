@@ -1,1 +1,0 @@
-8. Komisioni, gjatë ushtrimit të funksioneve të tij, asistohet nga një specialist i autoritetit përgjegjës për azilin dhe refugjatët, me detyrën e sekretarit, i cili caktohet nga drejtuesi i këtij autoriteti.
