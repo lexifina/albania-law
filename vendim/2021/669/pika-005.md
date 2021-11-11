@@ -1,0 +1,1 @@
+5. Anëtarët e Komisionit të shpërblehen sipas vendimit të Këshillit të Ministrave për përcaktimin e masës së shpërblimit të anëtarëve të këshillave, bordeve ose të komisioneve të përhershme të njësive të qeverisjes qendrore.
