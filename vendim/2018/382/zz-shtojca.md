@@ -4,7 +4,7 @@ PËR VEPRIMTARINË E STANDARDIZIMIT
 KREU I
 DISPOZITA TË PËRGJITHSHME
 1. Qëllimi
-Kjo rregullore përcakton rregullat lidhur me bashkëpunimin ndërmjet organizatave evropiane të standardizimit, organeve kombëtare të standardizimit, shteteve anëtare dhe Komisionit, hartimin dhe miratimin e standardeve dhe dokumenteve evropiane të standardizimit (të publikuara nga CEN, CENELEC dhe ETSI) për produktet dhe shërbimet në mbështetje të legjislacionit dhe politikave të Bashkimit Evropian, identifikimin e specifikimeve teknike të teknologjisë së informacionit dhe komunikimit (TIK), që përdoren për referencë, si dhe financimin nga Bashkimi Evropian për veprimtaritë e standardizimit.
+Kjo rregullore përcakton rregullat lidhur me bashkëpunimin ndërmjet organizatave evropiane të standardizimit, organeve kombëtare të standardizimit, shteteve anëtare dhe Komisionit, hartimin dhe miratimin e standardeve dhe dokumenteve evropiane të standardizimit (të publikuara nga CEN, CENELEC dhe ETSI) për produktet dhe shërbimet në mbështetje të legjislacionit dhe politikave të Bashkimit Evropian, identifikimin e specifikimeve teknike të teknologjisë së informacionit dhe komunikimit (TIK), që përdoren për referencë, si dhe financimin nga Bashkimi Evropian për veprimtaritë e standardizimit dhe pjesëmarrjen e palëve të interesit në proceset e standardizimit.
 2. Përkufizime
 Për qëllimet e kësaj rregulloreje përdoren përkufizimet e dhëna në ligjin nr. 9870, datë 4.2.2008, “Për standardizimin”, të ndryshuar, ndërsa termat e mëposhtëm kanë këtë kuptim:
 “Projektstandard”, dokument që përmban tekstin e specifikimeve teknike në lidhje me një temë/fushë të caktuar, i cili miratohet në përputhje me procedurën përkatëse të standardeve dhe qarkullon për komente në publik;
@@ -15,7 +15,16 @@ Karakteristikat që kërkohen nga një shërbim, duke përfshirë nivelet e cil�
 ç) Metodat dhe kriteret për vlerësimin e performancës së produkteve të ndërtimit, që përcaktojnë kriteret e harmonizuara për tregtimin e produkteve të ndërtimit , në lidhje me karakteristikat e tyre thelbësore;
 “Specifikim teknik i TIK”, specifikim teknik në fushën e teknologjisë së informacionit dhe të komunikimit;
 “Produkt”, çdo produkt i prodhuar në mënyrë industriale dhe çdo produkt bujqësor, duke përfshirë produktet e peshkut;
-“Shërbim”, çdo veprimtari ekonomike vetëpunësimi, e cila, në kushte normale, ofrohet kundrejt shpërblimit.
+5. “Shërbim” është çdo aktivitet ekonomik vetëpunësimi, i cili normalisht sigurohet për shpërblim, përfshirë aktivitete të karakterit:
+- industrial;
+- tregtar;
+- zejtar;
+- të profesionistëve.
+6. “Standard” është një specifikim teknik, i miratuar nga një organ i njohur standardizimi, për zbatim të përsëritur ose të vazhdueshëm, përputhshmëria me të cilin nuk është e detyrueshme dhe që është një nga përcaktimet e mëposhtme:
+a) “Standard ndërkombëtar”, një standard i miratuar nga një organ ndërkombëtar standardizimi;
+b) “Standard evropian”, një standard i miratuar nga një organizatë evropiane standardizimi;
+c) “Standard i harmonizuar”, një standard evropian i miratuar në bazë të një kërkese të bërë nga Komisioni Evropian për zbatimin e legjislacionit të harmonizuar të Bashkimit Evropian;
+ç) “Standard kombëtar”, një standard i miratuar nga një organ kombëtar standardizimi.
 KREU II
 TRANSPARENCA DHE PJESËMARRJA E GRUPEVE TË INTERESIT
 Transparenca për programet e punës së organizmave të standardizimit
@@ -25,7 +34,7 @@ a) Titullin dhe fushën e zbatimit;
 b) Statusin aktual të publikimeve (standardeve dhe dokumenteve të standardizimit);
 c) Referencat e çdo standardi ndërkombëtar që është marrë për bazë.
 3.3 DPS-ja e bën të disponueshëm programin e punës në faqen e tij të internetit ose në çdo faqe tjetër interneti të aksesueshme për publikun, si dhe bën njoftimin e jep link-un përkatës se ku gjendet ky program.
-3.4 DPS-ja njofton organizatat evropiane të standardizimit dhe organet e tjera kombëtare të standardizimit për programin e punës, menjëherë pas botimit të tij.
+3.4 DPS-ja njofton organizatat e tjera të standardizimit në nivel rajonal dhe/ose ndërkombëtar për ekzistencën e programit të punës në përputhje me legjislacionin, rregulloret e brendshme dhe procedurat e saj në fuqi.
 3.5 DPS-ja nuk do të kundërshtojë që një projektstandard dhe/ose një dokument standardi-zimi i planifikuar në programin e saj të punës të diskutohet në nivel evropian, në përputhje me rregullat e përcaktuara nga organet evropiane të standardizimit, dhe nuk do të ndërmarrë asnjë veprim që mund të cenojë një vendim që vjen si rezultat i këtij diskutimi.
 3.6 Gjatë përgatitjes së një standardi të harmonizuar ose pas miratimit të tij, DPS-ja nuk do të ndërmarrë asnjë veprim që mund të cenojë harmonizimin e synuar dhe, në veçanti, nuk do të hartojë dhe publikojë në fushën në fjalë një standard kombëtar të ri ose të rishikuar që nuk është plotësisht në përputhje me standardin e harmonizuar ekzistues. Pas publikimit nga CEN, CENELEC dhe ETSI të një standardi të ri të harmonizuar, të gjitha standardet kombëtare, në konflikt me të, do të shfuqizohen brenda një afati kohor të arsyeshëm.
 4. Transparenca për përmbajtjen e standardeve
@@ -47,6 +56,8 @@ DPS-ja bashkëpunon me homologët e saj të shteteve të tjera anëtare me qëll
 5.3 DPS-ja u dërgon organeve evropiane të standardizimit raporte vjetore në lidhje me veprimtarinë e saj, referuar nënpikave 5.1 e 5.2 të kësaj rregulloreje, dhe të gjitha masat e tjera që ndërmerr për të përmirësuar kushtet që NVM të përdorë standardet dhe të marrë pjesë në procesin e hartimit/adaptimit dhe miratimit të standardeve. DPS-ja i publikon këto raporte në faqen e saj të internetit.
 6. Pjesëmarrja e autoriteteve publike në veprimtaritë e standardizimit
 6.1 Qeveria, kur është e përshtatshme, nxit pjesëmarrjen e autoriteteve publike, duke përfshirë autoritetet për mbikëqyrjen e tregut në veprimtaritë kombëtare të standardizimit për hartimin/ adaptimin dhe miratimin e standardeve ose për rishikimin e standardeve që kërkohen nga Komisioni.
+6.2 Kundërshtitë zyrtare ndaj standardeve të harmonizuara
+6.2.1 Kur autoritetet shqiptare, përfshirë DPS-në ose ministrinë përgjegjëse konsiderojnë se një standard shqiptar i harmonizuar nuk përmbush plotësisht kërkesat që synon të mbulojë dhe që përcaktohen në legjislacionin përkatës (rregulloret teknike), Këshilli i Ministrave, me propozimin e ministrisë përgjegjëse për çështjet tregtare dhe/ose ekonomike, pas konsultimit me DPS-në, mund të anulojë referencën për këtë standard dhe ta heqë atë nga lista e botuar për standardet e referencës. Procedura do të kryhet në përputhje me detyrimet e autoriteteve shqiptare dhe me legjislacionin, rregulloret e brendshme dhe procedurat e DPS-së në fuqi.
 KREU III
 SPECIFIKIMET TEKNIKE TË TIK-ut
 7. Identifikimi i specifikimeve teknike të TIK-ut që përdoren për referencë
@@ -67,16 +78,33 @@ Përkthimin e standardeve evropiane ose dokumenteve të standardizimit evropian,
 dh) Përgatitjen e informacionit për të shpjeguar, interpretuar dhe thjeshtësuar standardet evropiane ose të dokumenteve të standardizimit evropian, duke përfshirë hartimin e udhëzuesve të përdoruesit, abstrakteve të standardeve, informacionit për praktikën më të mirë dhe veprimet ndërgjegjësuese, strategjitë dhe programet e trajnimit;
 Veprimtaritë që kërkojnë të kryejnë programe të asistencës teknike, bashkëpunim me vende të treta dhe nxitjen dhe përmirësimin e sistemit evropian të standardizimit e të standardeve evropiane dhe dokumenteve të standardizimit evropian ndërmjet palëve të interesuara në nivel të Bashkimit Evropian dhe në nivel ndërkombëtar.
 9.2 Financimi nga Bashkimi Evropian mund të jepet edhe për:
-Organet kombëtare të standardizimit për veprimtaritë e standardizimit, që përmenden në nënpikën 9.1, që ata ndërmarrin bashkërisht me organizatat evropiane të standardizimit, si dhe organizatat evropiane të grupeve të interesit, të përcaktuara në shtojcën II të kësaj rregulloreje;
+Organet kombëtare të standardizimit për veprimtaritë e standardizimit, që përmenden në nënpikën 9.1, që ata ndërmarrin bashkërisht me organizatat evropiane të standardizimit, si dhe organizatat evropiane të grupeve të interesit, të përcaktuara në shtojcën II të kësaj rregulloreje si dhe organizatat evropiane të grupeve të interesit, siç përcaktohen në shtojcën II të vendimit;
 Organizma të tjerë të cilëve u është besuar kontributi për veprimtaritë që përmenden në shkronjën “a”, të nënpikës 9.1 ose që kryejnë veprimtaritë që përmenden në shkronjat “c” dhe “e”, të nënpikës 9.1, në bashkëpunim me organizatat evropiane të standardizimit.
 10. Organet kombëtare të standardizimit
-10.1 Qeveria informon Komisionin për organin kombëtar të standardizimit në Shqipëri dhe për çdo ndryshim që lidhet me të në rast se do të ketë.
+10.1 Drejtoria e Përgjithshme e Standardizimit informon Komisionin për organin kombëtar të standardizimit në Shqipëri dhe për çdo ndryshim që lidhet me të në rast se do të ketë.
 10.2 Komisioni Evropian boton një listë të organeve kombëtare të standardizimit dhe çdo përditësim të asaj liste në gazetën zyrtare të Bashkimit Evropian.
-KREU V
+10.3 Drejtoria e Përgjithshme e Standardizimit dërgon një raport vjetor në organizmat evropianë të standardizimit, në përputhje me detyrimet e autoriteteve shqiptare dhe me legjislacionin, rregulloret e brendshme dhe procedurat e saj në fuqi. Raporti përmban informacione të hollësishme për sa vijon:
+a) transparencën e standardeve;
+b) pjesëmarrjen e palëve të interesuara në standardizimin shqiptar dhe evropian;
+c) financimet nga Bashkimi Evropian;
+ç) përfaqësimin e NVM-ve, organizatave të konsumatorëve dhe aktorëve mjedisorë e socialë në organet kombëtare të standardizimit;
+d) publikimin në faqen e internetit të DPS-së për lehtësirat e krijuara për NVM-të, për përdorimin e standardeve dhe pjesëmarrjen e tyre në proceset e hartimit e adoptimit të standardeve;
+dh) përdorimin e specifikimeve teknike të TIK-ut në sistemin e standardizimit;
+e) bashkëpunimin ndërmjet organeve kombëtare të standardizimit dhe organizatave evropiane të standardizimit.
+11. Pjesëmarrja e palëve të interesuara në standardizimin shqiptar dhe evropian
+11.1 DPS-ja zbaton qasjen e procedurave të mëposhtme në veprimtarinë kombëtare në fushën e standardizimit dhe bashkëpunon për zbatimin e saj në nivelin rajonal (evropian).
+11.2 DPS-ja inkurajon e lehtëson përfaqësimin dhe pjesëmarrjen efektive të të gjithë aktorëve relevantë, përfshirë NVM-të, organizatat e konsumatorëve dhe palët e interesit mjedisor dhe social në aktivitetet e saj të standardizimit. Ajo e realizon këtë veçanërisht përmes organizatave evropiane të interesit, që marrin financime nga Bashkimi Evropian, në përputhje me këtë rregullore në nivelin e zhvillimit të politikave dhe në fazat vijuese të zhvillimit të standardeve evropiane ose çdo publikim tjetër për standardizimin evropian:
+a) propozimin e pranimin e titujve të rinj të punës;
+b) diskutimin teknik për propozimet;
+c) paraqitjen e komenteve për draftet e përgatitura;
+ç) rishikimin e standardeve ekzistuese evropiane ose të publikimeve të tjera të standardizimit evropian;
+d) shpërndarjen e informacionit dhe rritjen e ndërgjegjësimit në nivel kombëtar për standardet evropiane të miratuara ose publikimet e standardizimit evropian.
+11.3 DPS-ja bashkëpunon me autoritetet e mbikëqyrjes së tregut në rajon, objektet kërkimore të Komisionit Evropian dhe organizatat evropiane të interesit, që marrin financime nga Bashkimi Evropian, në përputhje me këtë rregullore, dhe lehtëson përfaqësimin, në nivelin teknik, të ndërmarrjeve, qendrave kërkimore, universiteteve dhe personave të tjerë juridikë (kur këta të fundit kanë marrë pjesë në projekte të kësaj fushe dhe që është financuar nga Bashkimi Evropian me programe shumëvjeçare në fushën e kërkimit, të inovacionit dhe zhvillimit teknologjik) në aktivitetet e standardizimit lidhur me një fushë në zhvillim me ndikime të rëndësishme teknologjike.
+Kreu V
 DISPOZITA KALIMTARE
-11. Periudhat e zbatimit të rregullores
-11.1 Pikat 1, 2, 3 (me përjashtim të nënpikës 3.4), 4, 5, 6, 8 e 9 zbatohen me hyrjen në fuqi të kësaj rregulloreje.
-11.2 Pikat 7, 10 dhe nënpika 3.4 e kësaj rregulloreje aplikohen në momentin e anëtarësimit të Republikës së Shqipërisë në Bashkimin Evropian.
+12. Periudhat e zbatimit të rregullores
+12.1 Me përjashtim të pikës 7, pikat 1 deri në 11 zbatohen me hyrjen në fuqi të vendimit të Këshillit të Ministrave, që miraton këtë rregullore.
+12.2 Pika 7, e kësaj rregulloreje, zbatohet drejtpërdrejt me anëtarësimin e Shqipërisë në Bashkimin Evropian.”.
 SHTOJCA I
 KËRKESAT PËR IDENTIFIKIMIN E SPECIFIKIMEVE TEKNIKE TË TIK-ut
 1. Specifikimet teknike pranohen nga tregu dhe zbatimet e tyre nuk pengojnë ndërfunksionimin me zbatimet e standardeve ekzistuese evropiane ose ndërkombëtare. Pranimi nga tregu tregohet nëpërmjet shembujve operativë ose zbatimeve të pajtueshme nga shitës të ndryshëm.
