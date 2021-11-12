@@ -1,0 +1,1 @@
+1. Hapjen e institucionit të arsimit të lartë, jopublik, Kolegji Profesional i Lartë Gjerman i Teknologjisë, në emër të shoqërisë “Kolegji Profesional Gjerman i Teknologjisë” sh.p.k., i cili e ushtron veprimtarinë në qytetin e Tiranës.

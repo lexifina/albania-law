@@ -1,0 +1,1 @@
+5. Kolegji Profesional i Lartë Gjerman i Teknologjisë t’i nënshtrohet procesit të akreditimit institucional e të programeve të studimit, brenda afateve të përcaktuara në aktet ligjore dhe nënligjore në fuqi.
