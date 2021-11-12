@@ -1,6 +1,7 @@
-3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës së kompensimit përkatës, që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë “truall”, “arë”, “kullotë”, “pyll” dhe “drufrutorë”, me vlerë të përgjithshme 245 827 297 (dyqind e dyzet e pesë milionë e tetëqind e njëzet e shtatë mijë e dyqind e nëntëdhjetë e shtatë) lekë, si më poshtë vijon:
-- truall, me sipërfaqe 22 141 (njëzet e dy mijë e njëqind e dyzet e një) m², me vlerë 230 691 978 (dyqind e tridhjetë milionë e gjashtëqind e nëntëdhjetë e një mijë e nëntëqind e shtatëdhjetë e tetë) lekë;
-- arë, me sipërfaqe 55 316 (pesëdhjetë e pesë mijë e treqind e gjashtëmbëdhjetë) m², me vlerë 11 284 464 (njëmbëdhjetë milionë e dyqind e tetëdhjetë e katër mijë e katërqind e gjashtëdhjetë e katër);
-- kullotë, me sipërfaqe 11 800 (njëmbëdhjetë mijë e tetëqind) m2, me vlerë 2 360 000 (dy milionë e treqind e gjashtëdhjetë mijë) lekë;
-- pyll, me sipërfaqe 4 187 (katër mijë e njëqind e tetëdhjetë e shtatë) m2, me vlerë 690 855 (gjashtëqind e nëntëdhjetë mijë e tetëqind e pesëdhjetë e pesë);
-- drurë frutorë, me vlerë 800 000 (tetëqind mijë) lekë.
+3. Pronarët e pasurive të paluajtshme, pronë private, që shpronësohen, të kompensohen, në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë e llojit “truall”, “arë”, “kullotë”, “pyll”, “drurë frutorë” dhe “ullishte”, me një vlerë të përgjithshme prej 254 371 689 (dyqind e pesëdhjetë e katër milionë e treqind e shtatëdhjetë e një mijë e gjashtëqind e tetëdhjetë e nëntë) lekësh, si më poshtë vijon:
+- truall, me sipërfaqe 22 141 (njëzet e dy mijë e njëqind e dyzet e një) m2, me vlerë 230 691 978 (dyqind e tridhjetë milionë e gjashtëqind e nëntëdhjetë e një mijë e nëntëqind e shtatëdhjetë e tetë) lekë;
+- arë, me sipërfaqe 55 316 (pesëdhjetë e pesë mijë e treqind e gjashtëmbëdhjetë) m2, me vlerë 11 284 464 (njëmbëdhjetë milionë e dyqind e tetëdhjetë e katër mijë e katërqind e gjashtëdhjetë e katër) lekë;
+- kullotë, me sipërfaqe 19 639 (nëntëmbëdhjetë mijë e gjashtëqind e tridhjetë e nëntë) m2, me vlerë 3 948 628 (tre milionë e nëntëqind e dyzet e tetë mijë e gjashtëqind e njëzet e tetë) lekë;
+- pyll, me sipërfaqe 4 187 (katër mijë e njëqind e tetëdhjetë e shtatë) m2, me vlerë 690 855 (gjashtëqind e nëntëdhjetë mijë e tetëqind e pesëdhjetë e pesë) lekë;
+- drurë frutorë, me vlerë 6 732 500 (gjashtë milionë e shtatëqind e tridhjetë e dy mijë e pesëqind) lekë;
+- ullishte, me sipërfaqe 5 016 (pesë mijë e gjashtëmbëdhjetë) m2, me vlerë 1 023 264 (një milion e njëzet e tre mijë e dyqind e gjashtëdhjetë e katër) lekë.
