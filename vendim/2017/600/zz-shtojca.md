@@ -31,7 +31,7 @@ Panajot Rauf Levendi
 1,287,835.56
 Vërtetim hipotekor
 2
-Fatos Rauf Levendi
+Lulëzime Sheme Rapushaj
 2890
 10/106 -N1
 21
