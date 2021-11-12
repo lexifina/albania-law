@@ -1,0 +1,1 @@
+10. Anëtarët e Komitetit të Etikës Mjekësore për Pajisjet Mjekësore shprehin interesin për t’u zgjedhur si kryetar apo zëvendëskryetar në mbledhjen e parë. Drejtuesi i mbledhjes garanton kohë të mjaftueshme dhe të barabartë për prezantimin e anëtarëve që kanë shprehur interesin.
