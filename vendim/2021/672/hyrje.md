@@ -1,0 +1,5 @@
+VENDIM
+Nr. 672, datë 10.11.2021
+PËR DHËNIEN E MIRATIMIT, PËR LIDHJEN E KONTRATËS, PËR KALIMIN E PRONËS SHTETËRORE NË PRONË PRIVATE, NË FUNKSION TË PLANEVE TË PËRGJITHSHME VENDORE, NDËRMJET MINISTRISË SË FINANCAVE DHE EKONOMISË, SI SHITËS, DHE SHOQËRISË “BUILDING CONSTRUCTION” SHPK, SI BLERËS, PËR PASURINË SHTETËRORE QË NDODHET NË TIRANË, ZONA KADASTRALE 8270, E CILA PREK PASURITË NR. 7/102, NR. 8/657 E NR. 8/682, ME SIPËRFAQE 2137 m2
+Në mbështetje të nenit 100 të Kushtetutës; të nenit 2, të aktit normativ nr. 4, datë 9.7.2008, të Këshillit të Ministrave, “Për privatizimin dhe dhënien në përdorim shoqërive tregtare dhe institucioneve shtetërore të ndërmarrjeve apo objekteve të veçanta, mjeteve kryesore dhe mjeteve të xhiros së këtyre ndërmarrjeve”, miratuar me ligjin nr. 9967, datë 24.7.2008, të ndryshuar, dhe në vijim të pikës 7, të vendimit nr. 807, datë 11.12.2019, të Këshillit të Ministrave, “Për përcaktimin e kritereve dhe të kushteve për kalimin e pronës shtetërore në pronë private, në funksion të planeve të përgjithshme vendore”, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:
