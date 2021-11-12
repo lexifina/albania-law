@@ -1,0 +1,1 @@
+1. Hapjen e institucionit të arsimit të lartë, jopublik, universiteti “Western Balkans” (në vijim, universiteti “Western Balkans”), në emër të shoqërisë “Western Balkans University” sh.p.k., i cili ushtron veprimtarinë në qytetin e Tiranës.
