@@ -1,1 +1,0 @@
-3. Standardet e harmonizuara shqiptare, numrat dhe titujt e të cilave janë përfshirë në listën e përmendur në pikën 2, të këtij vendimi, shërbejnë si dokumente reference për prezumimin e konformitetit të pajisjeve referuar në pikën 1 me kërkesat thelbësore të sigurisë, të përcaktuara në rregullin teknik që i bashkëlidhet këtij vendimi.
