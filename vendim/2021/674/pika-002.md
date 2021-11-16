@@ -1,0 +1,1 @@
+2. Standardet e harmonizuara shqiptare, numrat dhe titujt e të cilave janë përshirë në listën bashkëlidhur këtij vendimi, shërbejnë si dokumente reference për prezumimin e konformitetit të PMP-së me kërkesat thelbësore të objektivave të shëndetit dhe sigurisë, të përcaktuara në rregullin teknik, sipas pikës 1, të këtij vendimi.
