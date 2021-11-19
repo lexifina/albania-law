@@ -1,0 +1,1 @@
+4. Procesi i inventarizimit koordinohet dhe mbikëqyret nga Ministria me pjesëmarrjen e AKZM-së, strukturave përgjegjëse për pyjet dhe kullotat në bashki, instituteve kërkimore shkencore, OJF-ve dhe të shoqatave që mbulojnë fushën e biodiversitetit.

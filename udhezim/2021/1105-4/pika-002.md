@@ -1,0 +1,1 @@
+2. Procesi i inventarizimit kryhet për të evidentuar gjendjen konkrete të popullatave si gjitarët e mëdhenj, gjitarët e vegël, shpendët, amfibet dhe peshqit e ujërave të ëmbla, sasinë dhe dendësinë e individëve të tyre në habitate të caktuara, për të siguruar një status të favorshëm ruajtjeje dhe për t’i mirëmbajtur ato, sipas përcaktimeve në shtojcën nr. 1, të këtij udhëzimi.

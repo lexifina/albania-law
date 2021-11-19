@@ -1,0 +1,1 @@
+3. Procesi i inventarizimit kryhet çdo vit duke marrë në konsideratë që, gjatë kryerjes së tij, të shmanget shqetësimi i qëllimshëm i llojeve të faunës së egër, veçanërisht gjatë periudhës së shumimit dhe rritjes së të vegjëlve të tyre.
