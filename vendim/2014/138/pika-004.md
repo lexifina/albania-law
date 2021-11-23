@@ -1,0 +1,1 @@
+4. Këshilli drejtues i ASPA-së, për rregullat e votimit, agjendës së mbledhjeve e kuorumit të tyre, gjatë punës së tij bazohet në legjislacionin që rregullon organizimin dhe funksionimin e organeve kolegjiale.

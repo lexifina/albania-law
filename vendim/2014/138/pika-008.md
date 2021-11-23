@@ -1,0 +1,1 @@
+8. Anëtarët e këshillit drejtues të parashikuar në shkronjat “a”, “ë”, “f” dhe “g” të pikës 1 të këtij vendimi, paguhen për çdo mbledhje 10 000 (dhjetë mijë) lekë. Pagesa kryhet nga ASPA dhe llogaritet në buxhetin vjetor të saj.

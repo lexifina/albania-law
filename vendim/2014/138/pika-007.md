@@ -1,0 +1,1 @@
+7. Anëtarët e këshillit drejtues, të përcaktuar sipas shkronjave “b”, “c”, “ç”, “d”, “dh”, “e” dhe “h” të pikës 1 të këtij vendimi, nuk mund të dorëhiqen. Anëtarët e tjerë mund të dorëhiqen dhe të zëvendësohen nga i njëjti organ që bën përzgjedhjen e tyre. Anëtarët e dorëhequr qëndrojnë në detyrë deri në momentin e zëvendësimit të tyre.
