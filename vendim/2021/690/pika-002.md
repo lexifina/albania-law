@@ -1,0 +1,1 @@
+2. Pasuritë e përcaktuara në pikën 1, të këtij vendimi, shtohen në listën e inventarit të pronave të paluajtshme publike të miratuar me vendimin nr. 662, datë 8.10.2004, të Këshillit të Ministrave, “Për miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore, që transferohen në pronësi ose në përdorim të Bashkisë së Kuçovës”, të ndryshuar.

@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Kuçovë, për njësinë administrative Kuçovë, të pasurive 6/570 dhe 6/571, me vendndodhje në zonën kadastrale 2310, sipas formularit gjithsej 1 (një) fletë dhe planeve të rilevimit, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, me qëllim implementimin e projektit “Rikualifikimi i Parkut Industrial Kuçovë”.
