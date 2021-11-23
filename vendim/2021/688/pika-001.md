@@ -1,0 +1,5 @@
+1. Struktura e pagës mujore dhe vlerat e pagave e të shtesave mbi pagë për punonjësit e Gardës së Republikës së Shqipërisë janë, si më poshtë vijon:
+a) paga mujore për gradë është sipas kolonës 3, të lidhjes nr. 1, që i bashkëlidhet këtij vendimi e është pjesë përbërëse e tij, dhe përfaqëson nivelin e pagës së punonjësit, në përputhje me gradën që ka fituar brenda rolit përkatës;
+b) shtesa mujore për natyrë të veçantë pune, për punonjësit e Gardës së Republikës së Shqipërisë, është sipas lidhjes nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij;
+c) shtesa mujore mbi pagë për punë të vështira e të dëmshme për shëndetin është sipas lidhjes nr. 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij;
+ç) shtesa mujore mbi pagë për vjetërsi shërbimi është shtesa që përfiton punonjësi i Gardës së Republikës së Shqipërisë për çdo vit shërbimi. Kjo shtesë aplikohet në përqindje mbi pagën për gradë të gradës “Inspektor” dhe jepet në masën 1% për çdo vit, por jo më shumë se 25 vjet.

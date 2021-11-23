@@ -1,0 +1,1 @@
+5. Masa e “ruajtjes së pagës”, sipas pikës 4, të këtij vendimi, do të jetë e barabartë me diferencën e pagës mujore që punonjësi përfitonte përpara miratimit të këtij vendimi me pagën mujore sipas përcaktimit të këtij vendimi. Kjo shtesë rillogaritet në çdo rast kur bëhen ndryshimet për pagat për gradë, sipas strukturës dhe organikës së miratuar.
