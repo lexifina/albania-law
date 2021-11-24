@@ -4,7 +4,7 @@ Shkeljet disiplinore dhe masat kundër noterit
 a) vepron në kundërshtim me dispozitat ligjore ose nënligjore;
 b) kryen veprime ose mosveprime që janë në kundërshtim me Kodin e Etikës Profesionale dhe që cenojnë rëndë besimin e publikut në sistemin noterial;
 c) shkel detyrimet ligjore të anëtarit të Dhomës të parashikuara në këtë ligj.
-Shkelje disiplinore janë edhe veprimet ose mosveprimet që përbëjnë vepër penale, pavarësisht faktit nëse vepra penale është shlyer, ndjekja penale nuk është filluar ose nuk mund të vazhdojë, noteri është rehabilituar ose ka përfituar nga falja apo amnistia, me kushtin që nuk kanë kaluar më shumë se 5 vjet nga momenti i shkeljes.
+Shfuqizuar fjalia.
 2. Për shkelje të dispozitave që rregullojnë ushtrimin e profesionit dhe veprimtarinë e noterit, jepen masat disiplinore të mëposhtme:
 a) paralajmërim me shkrim;
 b) vërejtje me paralajmërim për heqjen e licencës për ushtrimin e profesionit të noterit;
