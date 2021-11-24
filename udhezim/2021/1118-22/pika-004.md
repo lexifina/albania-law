@@ -1,0 +1,1 @@
+4. Drejtoritë rajonale të arsimit parauniversitar (DRAP) dhe zyrat vendore të arsimit parauniversitar (ZVAP) caktojnë numrin e administratorëve përgjegjës për zhvillimin e testimit të nxënësve të klasave të bashkuara II-IX për çdo institucion arsimor parauniversitar, ku do të zhvillohet testimi.
