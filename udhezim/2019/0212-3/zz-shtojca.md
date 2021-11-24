@@ -1,2 +1,0 @@
-# Shtojca
-Besa Shahini
