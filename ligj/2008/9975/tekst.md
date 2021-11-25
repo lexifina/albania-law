@@ -4,9 +4,9 @@ Nr.9975, datë 28.7.2008
 
 PËR TAKSAT KOMBËTARE
 
-(Ndryshuar me ligjet: nr. 10065, datë 29.1.2009; nr.10 131, datë 11.5.2009; nr.10145, datë 28.9.2009; nr.10280, datë 20.5.2010; nr.10 458, datë 21.7.2011; nr.83/2012, datë 13.9.2012; nr.120/2013, datë 18.4.2013; nr.178, datë 28.12.2013; nr. 86/2014, datë 17.7.2014; nr.157, datë 27.11.2014; nr.141/2015, datë 17.12.2015; nr.127/2016, datë 15.12.2016, nr. 68/2017, datë  27.4.2017, nr. 104/2017, datë 30.11.2017, nr. 93/2018, datё 3.12.2018, nr. 55/2019, datë 18.7.2019, nr. 86/2019, 18.12.2019, nr. 153/2020, datë  17.12.2020; nr. 151/2020, datë 17.12.2020)
+(Ndryshuar me ligjet: nr. 10065, datë 29.1.2009; nr.10 131, datë 11.5.2009; nr.10145, datë 28.9.2009; nr.10280, datë 20.5.2010; nr.10 458, datë 21.7.2011; nr.83/2012, datë 13.9.2012; nr.120/2013, datë 18.4.2013; nr.178, datë 28.12.2013; nr. 86/2014, datë 17.7.2014; nr.157, datë 27.11.2014; nr.141/2015, datë 17.12.2015; nr.127/2016, datë 15.12.2016, nr. 68/2017, datë  27.4.2017, nr. 104/2017, datë 30.11.2017, nr. 93/2018, datё 3.12.2018, nr. 55/2019, datë 18.7.2019, nr. 86/2019, 18.12.2019, nr. 153/2020, datë  17.12.2020; nr. 151/2020, datë 17.12.2020, nr. 112/2021, datë 25.11.2021)
 
-(I përditësuar) 
+(i përditësuar) 
 
 Në mbështetje të neneve 78, 83 pika 1 dhe 155 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -54,7 +54,7 @@ Neni 3
 
 Llojet e taksave kombëtare
 
- (ndryshuar pikat 3 dhe  6 me ligjin nr.10280, datë 20.5.2010; ndryshuar pikat 2 dhe  6 me ligjin nr.10458 datë 21.7.2011; shtuar pika 8 me ligjin nr.83/2012, datë 13.9.2012; ndryshuar pika 8, shtuar pika 8.1 me ligjin nr.178/2013, datë 28.12.2013; shtuar pika 9 me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar pikat 2, 6, shtuar pika10 me ligjin nr.157, datë 27.11.2014; shtuar pika 11 me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar pikat 2,6 me ligjin nr. ligjin nr.127/2016, datë 15.12.2016; ndryshuar pika 8 dhe 8/1 dhe shtuar pika 8/2 me ligjin nr. 93/2018, datё 3.12.2018)
+ (ndryshuar pikat 3 dhe  6 me ligjin nr.10280, datë 20.5.2010; ndryshuar pikat 2 dhe  6 me ligjin nr.10458 datë 21.7.2011; shtuar pika 8 me ligjin nr.83/2012, datë 13.9.2012; ndryshuar pika 8, shtuar pika 8.1 me ligjin nr.178/2013, datë 28.12.2013; shtuar pika 9 me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar pikat 2, 6, shtuar pika10 me ligjin nr.157, datë 27.11.2014; shtuar pika 11 me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar pikat 2,6 me ligjin nr. ligjin nr.127/2016, datë 15.12.2016; ndryshuar pika 8 dhe 8/1 dhe shtuar pika 8/2 me ligjin nr. 93/2018, datё 3.12.2018, shtuar pikat 12-16 me ligjin nr. 112/2021, datë 25.11.2021)
 
 Taksat kombëtare janë: 
 
@@ -84,13 +84,23 @@ Taksat kombëtare janë:
 
 11. Taksë regjistrimi fillestar dhe taksë e përvitshme për automjetet luksoze.
 
+12. Taksë për importimin dhe prodhimin e qumështit pluhur, të përfshirë në kodet 0402 10 19 dhe 0402 21 18 të NKM-së.
+
+13. Taksë për importimin dhe prodhimin e pijeve të homogjenizuara, të përfshirë në kodet 0404 90 21, 0404 90 23 dhe 0404 90 29 të NKM-së.
+
+14. Taksë për importimin dhe prodhimin e hirrës së qumështit, të përfshirë në kreun 0404 10 të NKM-së.
+
+15. Taksë për importimin dhe prodhimin e krem qumështit, të përfshirë në kreun 0402 të NKM-së.
+
+16. Taksë për lëndën djegëse të përdorur si karburant për mjetet lundruese për qëllime turistike dhe argëtimi, sipas përcaktimeve të legjislacionit në fuqi për aktivitetet e turizmit detar, me destinacion përdorimi jashtë ujërave territoriale shqiptare.
+
 Neni 4
 
 Niveli i taksave kombëtare
 
 (shfuqizuar fjalia e fundit e pikës 2 dhe ndryshuar pika 6 me ligjin nr.10 065, datë 29.1.2009; ndryshuar pikat 2, 3, 4, 6 me ligjin nr.10280, datë 20.5.2010; ndryshuar pikat 2, 3, 6 me ligjin nr.10 458, datë 21.7.2011; shtuar pika 8 me ligjin nr.83/2012, datë 13.9.2012; ndryshuar pika 3  me ligjin nr. 120/2013, datë 18.4.2013; ndryshuar pikat 2, 8 me ligjin nr. 178/2013, datë 28.12.2013; shtuar pika 9 me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar pikat 2,4, shtuar pika 9 me ligjin nr.157, datë 27.11.2014; ndryshuar pikat 4, 5, 9, shtuar pika 11 me ligjin  nr. 141/2015, datë 17.12.2015; ndryshuar pikat  2,3, 4, 8,  me ligjin nr.127/2016, datë 15.12.2016; ndryshuar pika 3 e nenit 4 e ligjit nr. 68/2017, datë  27.4.2017
 
-“Për financat e vetëqeverisjes vendore”, ndryshuar fjalë në pikën 4, shtuar një fjali në pikën 6 dhe ndryshuar pika 8 me ligjin nr. 93/2018, datё 3.12.2018, shtuar një fjali pas fjalisë së parë të pikës 8, ndryshuar fjalë në pikën 8/1 dhe riformuluar pika 8.5 me ligjin nr. 55/2019, datë 18.7.2019, ndryshuar fjalë në pikën 3 me ligjin nr. 86/2019, 18.12.2019, shtuar paragraf në fund të pikës 4 me ligjin nr. 153/2020, datë  17.12.2020; ndryshuar fjalë në paragrafin e parë dhe të tretë të pikës 4 nr. 151/2020, datë 17.12.2020)
+“Për financat e vetëqeverisjes vendore”, ndryshuar fjalë në pikën 4, shtuar një fjali në pikën 6 dhe ndryshuar pika 8 me ligjin nr. 93/2018, datё 3.12.2018, shtuar një fjali pas fjalisë së parë të pikës 8, ndryshuar fjalë në pikën 8/1 dhe riformuluar pika 8.5 me ligjin nr. 55/2019, datë 18.7.2019, ndryshuar fjalë në pikën 3 me ligjin nr. 86/2019, 18.12.2019, shtuar paragraf në fund të pikës 4 me ligjin nr. 153/2020, datë  17.12.2020; ndryshuar fjalë në paragrafin e parë dhe të tretë të pikës 4 nr. 151/2020, datë 17.12.2020, shtuar pikat 12-16 me ligjin nr. 112/2021, datë 25.11.2021)
 
 1. Taksa portuale është 1 euro. Kjo taksë paguhet, për çdo prekje, për të gjitha anijet që prekin portet dhe radat e Republikës së Shqipërisë e që kryejnë veprime tregtare. 
 
@@ -134,6 +144,16 @@ Taksa e rentës minerare për hidrokarburet e nxjerra përcaktohet me ligjin “
 
 Taksa e përvitshme për automjetet luksoze është e vlefshme për 365 ditë. Detyrimi për pagimin e taksës i takon pronarit të mjetit. E ardhura nga taksa, për çdo rast, mblidhet nga strukturat e Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor, Drejtoritë Rajonale, në momentin e vjeljes së taksës vjetore të mjeteve të përdorura. Pronari i mjetit, i cili nuk kryen pagesën e kësaj takse brenda 10 ditëve nga mbarimi i afatit të vlefshmërisë së parashikuar, detyrohet të paguajë një gjobë prej 5 për qind të shumës së detyrimit të papaguar për çdo muaj vonesë, por jo më shumë se 25 për qind për çdo vit.
 
+12. Taksa për importimin dhe prodhimin e qumështit pluhur është në vlerën 100 lekë/kg.
+
+13. Taksa për importimin dhe prodhimin e pijeve të homogjenizuara është në vlerën 16 lekë/litër.
+
+14. Taksa për importimin dhe prodhimin e hirrës së qumështit është në vlerën 150 lekë/litër.
+
+15. Taksa për importimin dhe prodhimin e krem qumështit është në vlerën 150 lekë/litër.
+
+16. Taksa për lëndën djegëse të përdorur si karburant për mjetet lundruese për qëllime turistike dhe argëtimi, sipas përcaktimeve të legjislacionit në fuqi për aktivitetet e turizmit detar, me destinacion përdorimi jashtë ujërave territoriale shqiptare, është në vlerën 40 lekë/litri.
+
 Neni 4/1
 
 Deklarata për pagesën e taksave kombëtare
@@ -154,7 +174,7 @@ Neni 5
 
 Agjentët e taksave
 
- (ndryshuar shkronjat “c”  “dh” me ligjin nr. nr.10280, datë 20.5.2010; ndryshuar shkronjat “b” “c” “dh” me ligjin nr. 10 458, datë 21.7.2011; shtuar shkronja “ë” me ligjin nr.83/2012, datë 13.9.2012; shtuar shkronja “f” me ligjin nr. 86/2014, datë 17.7.2014; shtuar  shkronja “g” me ligjin nr.157, datë 27.11.2014; shtuar  shkronja “gj” me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar shkronja “g”  me ligjin nr.127/2016, datë 15.12.2016, ndryshuar shkronja “ë” me ligjin nr. 93/2018, datё 3.12.2018)
+ (ndryshuar shkronjat “c”  “dh” me ligjin nr. nr.10280, datë 20.5.2010; ndryshuar shkronjat “b” “c” “dh” me ligjin nr. 10 458, datë 21.7.2011; shtuar shkronja “ë” me ligjin nr.83/2012, datë 13.9.2012; shtuar shkronja “f” me ligjin nr. 86/2014, datë 17.7.2014; shtuar  shkronja “g” me ligjin nr.157, datë 27.11.2014; shtuar  shkronja “gj” me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar shkronja “g”  me ligjin nr.127/2016, datë 15.12.2016, ndryshuar shkronja “ë” me ligjin nr. 93/2018, datё 3.12.2018, shtuar shkronjat “h-l” me ligjin nr. 112/2021, datë 25.11.2021)
 
 Sipas llojit të taksave kombëtare, agjentët që ngarkohen me vjeljen e tyre janë: 
 
@@ -183,6 +203,16 @@ f) Drejtoria e Përgjithshme e Tatimeve, nëpërmjet drejtorive të saj rajonale
 g) Shoqëritë e sigurimit të licencuara nga Autoriteti i Mbikëqyrjes Financiare (AMF) ngarkohen me mbledhjen e taksës mbi primet e shkruara. Për qëllime të mbledhjes së taksës, këto shoqëri e evidentojnë atë veçmas nga primi.
 
 gj) për taksën e regjistrimit fillestar dhe taksën e përvitshme për automjetet luksoze ngarkohet Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor.
+
+h) për taksën e importimit dhe prodhimit të qumështit pluhur, në import organet doganore dhe në prodhim organet tatimore;
+
+ i) për taksën e importimit dhe prodhimit për pijet e homogjenizuara, në import organet doganore dhe në prodhim organet tatimore;
+
+j) për taksën e importimit dhe prodhimit për hirrën e qumështit, në import organet doganore dhe në prodhim organet tatimore;
+
+k) për taksën e importimit dhe prodhimit për krem qumështin, në import organet doganore dhe në prodhim organet tatimore;
+
+ l) për taksën për lëndën djegëse të përdorur si karburant për mjetet lundruese për qëllime turistike dhe argëtimi, sipas përcaktimeve të legjislacionit në fuqi për aktivitetet e turizmit detar, me destinacion përdorimi jashtë ujërave territoriale shqiptare, organet doganore.
 
 Neni 6
 
@@ -246,7 +276,7 @@ Neni 9
 
 Përjashtimet nga pagimi i taksave kombëtare
 
-(ndryshuar me ligjin nr.10280, datë 20.5.2010; ndryshuar pika 1  me ligjin nr. 10 458, datë 21.7.2011; shtuar pika 1/1 me ligjin nr.120/2013, datë 18.4.2013; shtuar pika 4 me ligjin nr. 178, datë 28.12.2013; shtuar pika 4me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar shkronja “b” e pikës 1, shkronja “c” , shtuar pika 6 me ligjin nr. 157, datë 27.11.2014; shtuar pika 7 me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar shkronjat “c” , “ç’ e pikës 1 dhe shkronja “c” e pikës 7 me ligjin nr.127/2016, datë 15.12.2016; shtuar fjalë në pikën 1/1, ndryshuar fjalia e parë në pikën 4, hequr nënpikat “i”-“vii” të shkronjës “ç”, shtuar fjalë në pikën 7 me ligjin nr. 93/2018, datё 3.12.2018, shtuar shkronjat “dh”, “e”, “ë” dhe “f” në pikën 4 me ligjin nr. 55/2019, datë 18.7.2019, shtuar fjalë në shkronjën “ç” të pikës 1 me ligjin nr. 86/2019, 18.12.2019)
+(ndryshuar me ligjin nr.10280, datë 20.5.2010; ndryshuar pika 1  me ligjin nr. 10 458, datë 21.7.2011; shtuar pika 1/1 me ligjin nr.120/2013, datë 18.4.2013; shtuar pika 4 me ligjin nr. 178, datë 28.12.2013; shtuar pika 4me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar shkronja “b” e pikës 1, shkronja “c” , shtuar pika 6 me ligjin nr. 157, datë 27.11.2014; shtuar pika 7 me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar shkronjat “c” , “ç’ e pikës 1 dhe shkronja “c” e pikës 7 me ligjin nr.127/2016, datë 15.12.2016; shtuar fjalë në pikën 1/1, ndryshuar fjalia e parë në pikën 4, hequr nënpikat “i”-“vii” të shkronjës “ç”, shtuar fjalë në pikën 7 me ligjin nr. 93/2018, datё 3.12.2018, shtuar shkronjat “dh”, “e”, “ë” dhe “f” në pikën 4 me ligjin nr. 55/2019, datë 18.7.2019, shtuar fjalë në shkronjën “ç” të pikës 1 me ligjin nr. 86/2019, 18.12.2019, shtuar pika 8 me ligjin nr. 112/2021, datë 25.11.2021 )
 
 1. Përjashtohen nga pagimi i taksës vjetore të mjeteve të përdorura:
 
@@ -329,6 +359,8 @@ b) personat fizikë apo juridikë, të cilët deklarojnë se nuk do të qarkullo
 c) pagesat e taksës së mjeteve të bllokuara me vendim të gjykatës, të prokurorisë, për periudhën në të cilën mjeti ka qenë i bllokuar, dhe pagesat e taksës së mjeteve të vjedhura, të djegura, të shkatërruara nga aksidentet, të vërtetuara nga organet e prokurorisë.
 
 ç) të gjitha detyrimet e prapambetura të taksës së përvitshme dhe të regjistrimit të mjeteve luksoze të sekuestruara apo të konfiskuara me vendim të formës së prerë të gjykatës, të cilat i kalojnë në administrim Agjencisë së Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara ose Drejtorisë së Përgjithshme të Rezervave Materiale të Shtetit për qëllime përdorimi apo rishitjeje.
+
+8. Përjashtohen nga pagimi i taksës për qumështin pluhur, taksës për hirrë qumështi dhe taksës për krem qumështi, fabrikat e prodhimit dhe përpunimit të qumështit dhe nënprodukteve të tij, të cilat në etiketën e miratuar nga Autoriteti Kombëtar i Ushqimit kanë të evidentuar sasinë në përqindje të këtyre produkteve që janë trupëzuar në produktin përfundimtar. Kriteret, kushtet dhe procedurat e përjashtimit sipas kësaj pike përcaktohen me udhëzim të përbashkët të ministrit përgjegjës për financat dhe ministrit përgjegjës për kontrollin ushqimor.
 
 Neni 10
 
