@@ -1,0 +1,1 @@
+5. Për periudhën prej 1.1.2022 deri më 1.3.2022 të lejohet vetëm peshkimi i riprodhuesve të koranit për qëllime të grumbullimit të vezëve deri në 200 kg, të cilat do të shtrohen për inkubim në impiantet e Qendrës së Prodhimit të Rasateve të Koranit, në fshatin Lin të Pogradecit.

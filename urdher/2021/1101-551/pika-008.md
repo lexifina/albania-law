@@ -1,0 +1,1 @@
+8. DSHPA, nëpërmjet Qendrës së Prodhimit të Rasateve të Koranit në fshatin Lin të Pogradecit, të lidhë kontratë me OMP-në Pogradec, për mbledhjen dhe dorëzimin e vezëve të koranit, të ndara sipas zonave specifike buzë liqenit.
