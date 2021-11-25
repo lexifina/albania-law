@@ -6,7 +6,7 @@ PËR TATIMIN MBI VLERËN E SHTUAR NË REPUBLIKËN E SHQIPËRISË
 
 (Ndryshuar me ligjet: nr. 90/2015, datë 23.7.2015, nr. 71/2017, datë 27.4.2017, 
 
-nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018,  ndryshuar me aktin normativ nr. 4, datë 30.11.2019[^fn2], nr. 85/2019, datë 18.12.2019[^fn3], nr. 64/2020, datё 14.5.2020, nr. 123/2020, datë 15.10.2020)
+nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018,  ndryshuar me aktin normativ nr. 4, datë 30.11.2019[^fn2], nr. 85/2019, datë 18.12.2019[^fn3], nr. 64/2020, datё 14.5.2020, nr. 123/2020, datë 15.10.2020, nr. 111/2021, datë 25.11.2021)
 
  (i përditësuar, 2020)
 
@@ -640,7 +640,7 @@ Neni 49
 
 Shkallët e reduktuara
 
-(shtuar pika 3 me ligjin nr. 71/2017, datë 27.4.2017,  pika 4 me ligjin nr. 107/2017, datë 30.11.2017 dhe pika 5 me ligjin nr. 40/2018, datë 9.7.2018, shtuar pikat 6, 7 dhe 8 me ligjin nr. 96/2018, datё 3.12.2018, ndryshuar pika 7 me ligjin nr. 85/2019, datë 18.12.2019, shtuar pika 9  me ligjin nr. 123/2020, datë 15.10.2020) 
+(shtuar pika 3 me ligjin nr. 71/2017, datë 27.4.2017,  pika 4 me ligjin nr. 107/2017, datë 30.11.2017 dhe pika 5 me ligjin nr. 40/2018, datë 9.7.2018, shtuar pikat 6, 7 dhe 8 me ligjin nr. 96/2018, datё 3.12.2018, ndryshuar pika 7 me ligjin nr. 85/2019, datë 18.12.2019, shtuar pika 9  me ligjin nr. 123/2020, datë 15.10.2020, shtuar pika 10 me ligjin nr. 111/2021, datë 25.11.2021) 
 
 1. Përveç shkallës standarde të TVSH-së, kur parashikohet në këtë ligj, mund të aplikohet shkalla e reduktuar e TVSH-së, e cila aplikohet si një përqindje e vlerës së tatueshme.
 
@@ -662,6 +662,8 @@ Kushtet, kriteret dhe procedurat për zbatimin e kësaj pike përcaktohen me ven
 
 9. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e shërbimit të punimeve të ndërtimit për investimet shtetërore të klubeve sportive/federatave sportive apo për investimet e subjekteve private në infrastrukturën sportive, të përcaktuar në legjislacionin e fushës për sportin, është në nivelin 6 për qind.
 
+10. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e inputeve bujqësore, ku përfshihen plehrat kimike, pesticidet, farat dhe fidanët, me përjashtim të hormoneve të klasifikuara në kodet 2937 të Nomenklaturës së Kombinuar të Mallrave, është 10 për qind. Lista e kategorive të inputeve bujqësore, sipas këtij neni, përcaktohet me vendim të Këshillit të Ministrave.
+
 Neni 50
 
 Shkalla e TVSH-së në importimin e mallrave
@@ -680,7 +682,7 @@ Neni 51
 
 Përjashtimi i disa veprimtarive me interes të përgjithshëm
 
-(shtuar shkronjat n”, “nj” dhe “o” me ligjin nr. 96/2018, datё 3.12.2018, shtuar shkronja “p” me ligjin nr. 85/2019, datë 18.12.2019)
+(shtuar shkronjat n”, “nj” dhe “o” me ligjin nr. 96/2018, datё 3.12.2018, shtuar shkronja “p” me ligjin nr. 85/2019, datë 18.12.2019, shfuqizuar shkronja “nj” me ligjin nr. 111/2021, datë 25.11.2021)
 
 Janë furnizime të përjashtuara nga TVSH-ja transaksionet me interes të përgjithshëm si më poshtë:
 
@@ -724,7 +726,7 @@ m) veprimtaritë e kryera nga radiotelevizionet publike shqiptare, përveç vepr
 
 n) furnizimi i makinave bujqësore. Lista e makinave bujqësore përcaktohet me vendim të Këshillit të Ministrave;
 
-nj) furnizimi i inputeve bujqësore, siç janë plehrat kimike, pesticidet, farat dhe fidanët, përveç hormoneve të klasifikuar në kodet 2937 të NKM-së. Lista e kategorive të imputeve bujqësore përcaktohet me vendim të Këshillit të Ministrave;
+nj) Shfuqizuar;
 
 o) furnizimi i shërbimeve veterinare, me përjashtim të shërbimeve veterinare për kafshët shtëpiake.
 
@@ -824,7 +826,7 @@ Neni 56
 
 Përjashtime të veçanta në import
 
-(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018, shtuar një paragraf në pikën 28 dhe shtuar pika 43 me aktin normativ nr. 4, datë 30.11.2019, ndryshuar fjalë në pikën 28 me ligjin nr. 85/2019, datë 18.12.2019, shtuar pika 44 me ligjin nr. 64/2020, datё 14.5.2020)
+(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018, shtuar një paragraf në pikën 28 dhe shtuar pika 43 me aktin normativ nr. 4, datë 30.11.2019, ndryshuar fjalë në pikën 28 me ligjin nr. 85/2019, datë 18.12.2019, shtuar pika 44 me ligjin nr. 64/2020, datё 14.5.2020, ndryshuar shifra në shkronjën “a” dhe shfuqizuar shkronja “c” e pikës 38 me ligjin nr. 111/2021, datë 25.11.2021)
 
 Janë furnizime të përjashtuara nga tatimi mbi vlerën e shtuar në import:
 
@@ -904,11 +906,11 @@ Janë furnizime të përjashtuara nga tatimi mbi vlerën e shtuar në import:
 
 38. Importimi i makinerive dhe pajisjeve:
 
-a) në funksion të realizimit të kontratave të investimeve me vlerë të barabartë ose më të madhe se 50 milionë lekë; 
+a) në funksion të realizimit të kontratave të investimeve me vlerë të barabartë ose më të madhe se 500 milionë lekë; 
 
 b) në funksion të realizimit të kontratave të investimeve në sektorin e përpunimit aktiv dhe të agrobiznesit, pavarësisht nga vlera e investimit; si dhe
 
-c) importimi i makinerive prodhuese nga subjektet e tatimit të thjeshtuar mbi fitimin. 
+c) Shfuqizuar. 
 
 Lista e makinerive dhe pajisjeve që janë direkt të lidhura me investimin, procedura e përjashtimeve, kriteret përkatëse dhe kategoritë e operatorëve ekonomikë, që përfshihen në sektorin e përpunimit aktiv dhe të agrobiznesit, përcaktohen me vendim të Këshillit të Ministrave. 
 
@@ -2094,9 +2096,9 @@ Neni 148
 
 Norma e kompensimit të prodhuesit bujqësor
 
-(ndryshuar fjalë me ligjin nr. 96/2018, datё 3.12.2018)
+(ndryshuar fjalë me ligjin nr. 96/2018, datё 3.12.2018, ndryshuar shifra me ligjin nr. 111/2021, datë 25.11.2021)
 
-Norma e kompensimit të prodhuesve bujqësorë është 6 për qind.
+Norma e kompensimit të prodhuesve bujqësorë është 0 për qind.
 
 Neni 149
 
@@ -2241,6 +2243,10 @@ a) të lëshojë fatura tatimore me përmbajtjen dhe në formatin, në përputhj
 b) të dorëzojë deklaratën e TVSH-së, në përputhje me nenin 106, të ligjit për tatimin mbi vlerën e shtuar në Republikën e Shqipërisë, deri në datën e fillimit të efekteve të nenit 15 të këtij ligji; 
 
 c) të dorëzojë librin e blerjeve dhe librin e shitjeve, në përputhje me nenin 109, të ligjit për tatimin mbi vlerën e shtuar në Republikën e Shqipërisë, deri në datën e fillimit të efekteve të nenit 16, të këtij ligji. 
+
+Dispozitë e vendosur me ligjin nr. 111/2021, datë 25.11.2021
+
+Dispozitat e këtij ligji nuk zbatohen për autorizimet e përjashtimit nga TVSH-ja, të lëshuara nga administrata doganore, para hyrjes në fuqi të këtij ligji dhe për këtë kategori autorizimesh nuk lejohet shtyrja e afatit të përmbushjes së tyre.
 
 Neni 161
 
