@@ -1,0 +1,1 @@
+3. Në rast se në përfundim të procedurës së përzgjedhjes i huaji klasifikohet si kërkues, autoriteti vendor për kufirin dhe migracionin njofton menjëherë autoritetin përgjegjës për azilin dhe refugjatët, si dhe autoritetin qendror përgjegjës për trajtimin e të huajve.

@@ -1,0 +1,1 @@
+1. Autoriteti vendor për kufirin dhe migracionin është autoriteti shtetëror përgjegjës për kryerjen e procedurës së përzgjedhjes dhe regjistrimit të shtetasit të huaj ose personit pa shtetësi, që ka paraqitur kërkesë për mbrojtje ndërkombëtare në pikat e kalimit kufitar ose brenda territorit të Republikës së Shqipërisë.

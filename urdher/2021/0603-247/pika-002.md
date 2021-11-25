@@ -1,0 +1,1 @@
+2. Autoriteti vendor për kufirin dhe migracionin, nëse ka vështirësi në përzgjedhjen e shtetasit të huaj apo personit pa shtetësi që kërkon mbrojtje ndërkombëtare, kërkon praninë dhe asistencën e autoritetit përgjegjës për azilin dhe refugjatët.

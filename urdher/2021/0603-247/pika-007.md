@@ -1,0 +1,1 @@
+7. Autoritetit përgjegjës për azilin dhe refugjatët, në çdo rast, i dërgohet një kopje e formularit të gjurmëve daktiloskopike dhe atij të përzgjedhjes, së bashku me një informacion për rastin, brenda 48 orësh nga përfundimi i procedurës së përzgjedhjes, në postën elektronike zyrtare të këtij Autoriteti.

@@ -1,0 +1,1 @@
+6. Në rast se kërkuesi paraqet drejtpërdrejtë kërkesën për mbrojtje ndërkombëtare, pranë autoritetit përgjegjës për azilin dhe refugjatët, ky i fundit, njofton autoritetin shtetëror përgjegjës për kufirin dhe migracionin, i cili mundëson marrjen e gjurmëve daktiloskopike, si dhe bën regjistrimin e kërkuesit në databazën e azilit.

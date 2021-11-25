@@ -1,0 +1,1 @@
+10. Urdhri nr. 611, datë 1.12.2015, “Për procedurën dhe rregullat për dërgimin e rastit nga autoriteti përgjegjës për kufirin dhe migracionin tek autoriteti përgjegjës për azilin dhe refugjatët”, shfuqizohet.
