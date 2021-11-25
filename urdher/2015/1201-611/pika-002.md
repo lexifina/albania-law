@@ -1,1 +1,0 @@
-2. Autoriteti rajonal/vendor për kufirin dhe migracionin, në rast vështirësie për kryerjen e procesit të përzgjedhjes për azilkërkuesit, kërkon praninë e autoritetit përgjegjës për azilin dhe refugjatët.

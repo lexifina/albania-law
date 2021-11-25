@@ -1,1 +1,0 @@
-1. Autoriteti rajonal/vendor për kufirin dhe migracionin është struktura policore përgjegjëse për kryerjen e procedurës së përzgjedhjes së të huajit, në pikat e kalimit kufitar ose brenda territorit të Republikës së Shqipërisë.
