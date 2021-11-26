@@ -1,1 +1,0 @@
-3. Fondi për shpenzimet e pagave për punonjësit e Muzeut të Pavarësisë, të cilët do të përfshihen brenda numrit të përgjithshëm të punonjësve buxhetorë të Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, dhe shpenzimet e tjera të përballohen nga buxheti i vitit 2006, miratuar për këtë ministri.
