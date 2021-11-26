@@ -1,0 +1,1 @@
+3. Efekti financiar, për vitin 2021, të përballohet nga hapësira buxhetore e siguruar pas ngurtësimit në të njëjtën masë të fondeve të projekteve të rindërtimit me ecuri të ngadaltë dhe t’u transferohet bashkive Tiranë, Durrës dhe Mirditë në formën e transfertës së pakushtëzuar.

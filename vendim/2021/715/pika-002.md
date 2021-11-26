@@ -1,0 +1,4 @@
+2. Përdorimin e fondit të rindërtimit, për vitin 2021, në masën 164 967 303 lekë (njëqind e gjashtëdhjetë e katër milionë e nëntëqind e gjashtëdhjetë e shtatë mijë e treqind e tre) lekë, për financimin e rikonstruksionit ose të riparimit të mjediseve në bashkëpronësi ose të përbashkëta në ndërtesa (pallat), në bashkitë Tiranë, Durrës dhe Mirditë, sipas detajimit të mëposhtëm:
+a) Bashkisë Tiranë i transferohet fondi, në masën 48 000 000 (dyzet e tetë milionë) lekë;
+b) Bashkisë Durrës i transferohet fondi, në masën 77 636 567 (shtatëdhjetë e shtatë milionë e gjashtëqind e tridhjetë e gjashtë mijë e pesëqind e gjashtëdhjetë e shtatë) lekë;
+c) Bashkisë Mirditë i transferohet fondi, në masën 39 330 736 (tridhjetë e nëntë milionë e treqind e tridhjetë mijë e shtatëqind e tridhjetë e gjashtë) lekë.
