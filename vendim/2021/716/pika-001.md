@@ -1,0 +1,1 @@
+1. Kalimin te bashkitë Tiranë dhe Shijak, përkatësisht, të 20 njësive individuale të banimit në Njësinë Administrative Vaqar, Bashkia Tiranë, dhe 25 njësive individuale të banimit, Bashkia Shijak, sipas listës së inventarit, që i bashkëlidhet këtij vendimi.
