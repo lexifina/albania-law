@@ -423,7 +423,7 @@ b) operatori ekonomik nuk është dënuar për asnjë nga veprat penale, të par
 c) personi/at në cilësinë e anëtarit të organit administrativ, drejtuesit ose mbikëqyrësit, aksionarit ose ortakut, ose që ka kompetenca përfaqësuese, vendimmarrjeje ose kontrolluese brenda operatorit ekonomik, nuk është ose ka qenë i dënuar me vendim gjyqësor të formës së prerë për asnjë nga veprat penale, të përcaktuara në pikën 1, të nenit 76, të LPP-së;
 ç) operatori ekonomik nuk është dënuar me vendim të gjykatës së formës së prerë, për vepra që lidhen me veprimtarinë profesionale;
 d) operatori ekonomik nuk është në proces falimentimi;
-dh) operatori ekonomik ka paguar të gjitha detyrimet për pagimin e tatimeve e të kontributeve të sigurimeve shoqërore, sipas parashikimeve të pikës 2, të nenit 76, të LPP-së;
+dh) operatori ekonomik ka paguar të gjitha detyrimet për pagimin e taksave dhe tatimeve e të kontributeve të sigurimeve shoqërore, sipas parashikimeve të pikës 2, të nenit 76, të LPP-së;
 e) operatori ekonomik ka shlyer të gjitha detyrimet e maturuara të energjisë elektrike dhe përmbush kërkesat që rrjedhin nga legjislacioni i fushës në fuqi. Ky informacion kërkohet për operatorët ekonomikë, të cilët ushtrojnë veprimtarinë në territorin e Republikës së Shqipërisë;
 ë) operatori ekonomik nuk ndodhet në kushtet e konfliktit të interesit, sipas legjislacionit në fuqi;
 f) operatori ekonomik ushtron aktivitetin në zbatim të kërkesave ligjore të legjislacionit mjedisor, social dhe të punës;
@@ -436,7 +436,7 @@ k) operatori ekonomik ushtron aktivitetin konform kërkesave të legjislacionit 
 3. Informacioni i pasqyruar në formularin e vetëdeklarimit, i cili gjendet në një bazë të dhënash, ku autoriteti/enti kontraktor mund të aksesojë direkt këtë informacion dhe/ose dokumentin, duhet të shoqërohet me adresën përkatëse për këtë bazë të dhënash.
 4. Për përmbushjen e detyrimit sipas këtij neni, operatorët ekonomikë mund të përdorin një formular vetëdeklarimi që është përdorur gjatë një procedure prokurimi të mëparshme, nëse informacioni që ajo përmban vazhdon të jetë i saktë dhe i vlefshëm.
 5. Operatorëve ekonomikë nuk u kërkohet të dorëzojnë dokumente mbështetëse, kur autoriteti ose enti kontraktor që ka dhënë kontratën ose ka lidhur marrëveshjen kuadër, i ka këto dokumente.
-6. Në çdo rast, përpara se të japë kontratën, autoriteti/enti kontraktor duhet t’i kërkojë ofertuesit fitues që të dorëzojë dokumentet provuese për vetëdeklarimet në formularin përmbledhës të vetëdeklarimit, si dhe dokumentet e paraqitura si pjesë e ofertës në rrugë elektronike. Këto dokumente duhet të paraqiten në origjinal ose në kopje të njësuara me origjinalin.
+6. Përpara publikimit të njoftimit të fituesit dhe nisjes së afateve të ankimit, autoriteti/enti kontraktor i kërkon ofertuesit të kualifikuar, i pari dorëzimin e dokumenteve provuese të parashikuara në shkronjat “a”, “b”, “d”, “dh”, “e”, “h” “i”, “j”, të pikës 2, të këtij neni, si dhe dokumentet e tjera shoqëruese të ofertës, të dorëzuara në rrugë elektronike. Këto dokumente duhet të paraqiten në origjinal ose në kopje të njësuara me origjinalin.
 Autoriteti/enti kontraktor pranon një dokument të lëshuar nga i njëjti institucion ose palë e tretë dhe që ka të njëjtin informacion me atë të paraqitur në procedurën e zhvilluar në mënyrë elektronike.
 Operatorët ekonomikë të huaj duhet të paraqesin dokumentet në formën e kërkuar nga legjislacioni në fuqi për njohjen e dokumentacionit të lëshuar në një shtet të huaj.
 Për dokumentet që nuk lëshohen në vendin e origjinës, operatorët ekonomikë duhet të vetëdeklarojnë këtë fakt, përndryshe dokumentacioni do të konsiderohet i paparaqitur.
@@ -461,7 +461,7 @@ Sigurimi i ofertës
 Enti kontraktor duhet të kërkojë paraqitjen e sigurimit të ofertës nga ofertuesit në të gjitha llojet e procedurave të prokurimit, me përjashtim të procedurave të prokurimit me vlerë të vogël, sikurse përcaktohet në nenin 83, të LPP-së.
 Enti kontraktor, sipas vlerësimit të tij, mund të kërkojë ose jo sigurim oferte për procedurat nën kufirin e lartë monetar.
 2. Në çdo rast, autoriteti/enti kontraktor pranon mundësinë e pagesës së vlerës së sigurimit, nga ofertuesi, në vlerë monetare në llogarinë e autoritetit/entit kontraktor. Përveç kësaj forme të paraqitjes së sigurimit të ofertës, sigurimi i ofertës mund të ketë formën e një depozite apo garancie, të lëshuar nga një bankë ose një shoqëri sigurimi, e licencuar nga shteti për të ushtruar këtë veprimtari.
-3. Autoriteti/enti kontraktor duhet të specifikojë në dokumentet e tenderit vlerën e sigurimit të ofertës, e cila është sa 2% e vlerës së fondit limit. Në dokumentet e tenderit duhet të parashikohet një periudhë vlefshmërie, bazuar në kohëzgjatjen e mundshme të procedurës. Sigurimi i ofertës duhet të jetë i vlefshëm gjatë gjithë kësaj periudhe.
+3. Autoriteti/enti kontraktor duhet të specifikojë në dokumentet e tenderit vlerën e sigurimit të ofertës, e cila është sa 2% e vlerës së fondit limit të kontratës ose lotit. Në dokumentet e tenderit duhet të parashikohet një periudhë vlefshmërie, bazuar në kohëzgjatjen e mundshme të procedurës. Sigurimi i ofertës duhet të jetë i vlefshëm gjatë gjithë kësaj periudhe.
 4. Lëshuesi i sigurimit të ofertës duhet:
 a) të mos vendosë asnjë kusht për pagimin;
 b) të paguajë shumën brenda 15 (pesëmbëdhjetë) ditëve nga data e marrjes së kërkesës zyrtare të autoritetit/entit kontraktor.
@@ -527,14 +527,14 @@ Njoftimi i lidhjes së kontratës
 3. Autoriteti kontraktor duhet të dërgojë për publikim kontratën fituese për çdo kontratë të lidhur nga një marrëveshje kuadër.
 Neni 38
 Njoftimi i anulimit
-1. Autoriteti/enti kontraktor publikon njoftimin për anulimin e procedurës së prokurimit, menjëherë, por jo më vonë se 5 (pesë) ditë nga marrja e vendimit.
+1. Autoriteti/enti kontraktor u komunikon të gjithë kandidatëve ose ofertuesve vendimin dhe arsyet për të mos e vazhduar procedurën e prokurimit menjëherë, por jo më vonë se 3 (tri) ditë nga marrja e vendimit.
 2. Njoftimi i anulimit duhet të përmbajë të paktën:
 - emrin dhe adresën e autoritetit/entit kontraktor;
 - numrin e referencës së procedurës;
 - objektin e procedurës së prokurimit (përshkrimin e punëve/mallrave/shërbimeve);
 - emrin, NIPT-et dhe adresat e ofertuesve;
 - arsyet dhe bazën ligjore të anulimit të procedurës, sipas përcaktimeve të nenit 98, të LPP-së.
-3. Në përfundim të afatit për paraqitjen e ankesave apo dhënies së një vendimi përfundimtar për ankesën, autoriteti/enti kontraktor vijon me publikimin e vendimit përfundimtar.
+3. Autoriteti/enti kontraktor vijon me publikimin e vendimit përfundimtar për anulimin e procedurës së prokurimit jo më vonë se 5 (pesë) ditë nga data e skadimit të afatit të fundit për paraqitjen e ankesave ose dhënien e vendimit përfundimtar për ankimin, duke e publikuar njoftimin në të njëjtën mënyrë siç publikon njoftimin e kontratës.
 SEKSIONI III
 KËRKESA TË VEÇANTA SIPAS TIPAVE TË KONTRATAVE
 Neni 39
@@ -630,13 +630,14 @@ Ky detyrim nuk zbatohet në rastin e kontratave sektoriale.
 9. Në çdo rast, lotet janë të organizuara si procedura të veçanta brenda një procedure. Fillimi dhe përfundimi i njërit lot nuk ndikon në lotin tjetër të procedurës.
 Neni 43
 Kërkesat për kapacitetet ekonomiko-financiare
-1. Autoriteti/enti kontraktor, për të provuar kapacitetet financiare dhe ekonomike, kërkon kopje të deklaratave të xhiros vjetore të realizuar nga operatori ekonomik dhe, sipas rastit, të xhiros që mbulon kontrata, për një periudhë maksimumi deri në 3 (tre) vjetët e fundit financiarë.
+(hiqen fjalë në pikën 1, zëvendësuar fjalë në pikën 2, ndryshuar fjalia e dytë e pikës 4 me VKM nr. 710, datë 24.11.2021)
+1. Autoriteti/enti kontraktor, për të provuar kapacitetet financiare dhe ekonomike, kërkon kopje të deklaratave të xhiros vjetore të realizuar nga operatori ekonomik për një periudhë maksimumi deri në 3 (tre) vjetët e fundit financiarë.
 2. Vlera e xhiros minimale vjetore që u kërkohet operatorëve ekonomikë nuk mund të tejkalojë:
-a) dyfishin e vlerës së parashikuar të kontratës, në procedurat e prokurimit mbi kufirin e lartë monetar;
-b) vlerën e parashikuar të kontratës, në procedurat e prokurimit ndërmjet kufirit të lartë dhe të ulët monetar;
-c) 40 % të vlerës së parashikuar të kontratës, në procedurat e prokurimit nën kufirin e ulët monetar, dhe në procedurat e prokurimit “Shërbim konsulence”.
+a) dyfishin e vlerës së përllogaritur të kontratës ose lotit, në procedurat e prokurimit mbi kufirin e lartë monetar;
+b) vlerën e përllogaritur të kontratës ose lotit, në procedurat e prokurimit ndërmjet kufirit të lartë dhe të ulët monetar;
+c) 40 % vlerës së përllogaritur të kontratës ose lotit, në procedurat e prokurimit nën kufirin e ulët monetar, dhe në procedurat e prokurimit “Shërbim konsulence”.
 3. Kërkesa për plotësimin e kapaciteteve financiare konsiderohet e përmbushur, nëse operatorët ekonomikë arrijnë vlerën e xhiros minimale, në të paktën një vit të periudhës së kërkuar nga autoriteti/enti kontraktor.
-4. Nëse vlerësohet, autoriteti/enti kontraktor mund të kërkojë që operatorët ekonomikë të japin informacione në bilancet e tyre vjetore, për një periudhë maksimumi tre vjetët e fundit financiarë, që të tregojnë raportet, ndërmjet aktivit dhe pasivit. Kjo kërkesë konsiderohet e përmbushur, nëse në dy bilance të njëpasnjëshme nuk ka raport negativ ndërmjet aktivit dhe pasivit.
+4. Nëse vlerësohet, autoriteti/enti kontraktor mund të kërkojë që operatorët ekonomikë të japin informacione në bilancet e tyre vjetore, për një periudhë maksimumi tre vjetët e fundit financiarë, që të tregojnë raportet, ndërmjet aktivit dhe pasivit. Nëse kërkohen një ose dy bilance, kërkesa konsiderohet e përmbushur nëse në bilancin/et e kërkuara nuk ka raport negativ ndërmjet aktivit dhe pasivit.
 5. Në rastin e kontratave që bazohen në një marrëveshje kuadër, kërkesa për xhiron minimale llogaritet mbi bazën e vlerës maksimale të kontratave specifike që do të zbatohen në të njëjtën kohë ose, kur përmasat nuk dihen, mbi bazën e vlerës së parashikuar të marrëveshjes kuadër.
 6. Në çdo rast, kërkesat e mësipërme duhet të jenë në përpjesëtim dhe të lidhura ngushtë me objektin e kontratës. Ato i shërbejnë autoritetit/entit kontraktor për njohjen e gjendjes financiare të operatorëve ekonomikë dhe të mundësisë së tyre për përmbushjen me sukses të kontratës.
 Neni 44
@@ -651,6 +652,10 @@ Neni 45
 Kriteret për shpalljen e ofertës fituese
 1. Autoriteti/enti kontraktor përcakton dhënien e kontratave publike bazuar në ofertën ekonomikisht më të favorshme.
 2. Oferta, ekonomikisht më e favorshme, identifikohet në bazë të çmimit ose të kostos, duke përdorur metodën e efektivitetit të kostos, siç janë kostot gjatë ciklit jetësor, në përputhje me nenet 87 dhe 88 të LPP-së dhe mund të bazohet në raportin më të mirë çmim-cilësi, që vlerësohet mbi bazën e kritereve, që lidhen me objektin e kontratës në fjalë, duke përfshirë cilësinë, aspektet mjedisore dhe/ose sociale.
+2.1 Për furnizimin me karburant, gazoil, benzol dhe karburant për ngrohje, në rastet kur oferta ekonomikisht më e favorshme bazohet në çmimin më të ulët, ky i fundit përllogaritet, bazuar në:
+a) çmimin e bursës, livruar sipas kushtit CIF-Shqipëri, i cili dërgohet për publikim çdo javë nga Drejtoria e Përgjithshme e Doganave në Buletinin e Njoftime Publike;
+b) elementet fiskale;
+c) normën e fitimit të shprehur në vlerë absolute, e cila duhet të jetë e pandryshuar gjatë gjithë kohës së zbatimit të kontratës.
 3. Për punët/mallrat/shërbimet, që kanë specifikime të thjeshta, standarde teknike të mirënjohura dhe janë lehtësisht të gjendura në treg, oferta ekonomikisht më e favorshme bazohet në çmimin si i vetmi element i ndryshueshëm ndërmjet ofertave.
 4. Në kontratat, që përveç çmimit për punën/mallin/shërbimin, objekt i kontratës, përmban dhe elemente të tjera, që kanë vlerë ekonomike dhe i ngarkojnë autoritetit/entit kontraktor shpenzime gjatë fazës së zbatimit të saj ose dhe më tej, kriteri i ofertës ekonomikisht më të favorshme bazohet, në:
 a) cilësinë, duke përfshirë meritat teknike, karakteristikat estetike dhe funksionale, aksesueshmërinë, projektimin për të gjithë përdoruesit, karakteristikat mjedisore dhe novatore, si dhe tregtimin dhe kushtet e tij; dhe/ose
@@ -688,10 +693,7 @@ Procedura e hapur
 Neni 48
 Procedura e kufizuar
 1. Procedura e kufizuar, sipas nenit 43, të LPP-së, është procedurë prokurimi me dy faza, që mund të përdoret nga çdo autoritet/ent kontraktor që prokuron punë/shërbime/mallra, në të cilën mund të marrë pjesë çdo operator ekonomik i interesuar.
-2. Autoriteti/enti kontraktor, në përzgjedhjen e kësaj procedure, duhet të mbajë parasysh:
-a) komplekstitetin e objektit të kontratës;
-b) gjendjen e tregut;
-c) numrin e pritshëm të ofertuesve.
+2. Shfuqizuar.
 3. Urdhri për prokurim, siç parashikohet në nenin 77, të këtyre rregullave, duhet të japë arsyet për përdorimin e kësaj procedure.
 4. Njoftimi i kontratës hartohet dhe publikohet në sistemin e prokurimit elektronik dhe në Buletinin e Njoftimeve Publike, në përputhje me LPP-në dhe me këto rregulla. Në çdo rast, njoftimi i kontratës shoqërohet me ftesën për shprehje interesi për procedurën e prokurimit. Çdo operator i interesuar ekonomik mund të dorëzojë një kërkesë për pjesëmarrje në fazën e parë të kualifikimit.
 5. Autoriteti/enti kontraktor mund të kufizojë numrin e kandidatëve të përshtatshëm për t’u ftuar që të marrin pjesë në procedurë.
@@ -823,7 +825,7 @@ Shërbim konsulence
 Njësia e prokurimit apo edhe struktura të specializuara duhet të hartojnë projektkontratën me përkufizime të qarta të objektivave, qëllimeve dhe të synimit të detyrës në fjalë dhe dokumentet e tenderit.
 Çdo operator i interesuar ekonomik mund të dorëzojë një kërkesë për pjesëmarrje në fazën e parë të kualifikimit, duke dhënë informacionin që kërkohet, nga autoriteti/enti kontraktor.
 6. Në këtë procedurë kontrata jepet vetëm mbi bazën e kriterit të raportit çmim-cilësi, sipas parashikimeve në LPP.
-7. Pas mbylljes së fazës së kualifikimit dhe në përfundim të afateve të ankimit, autoriteti/enti kontraktor fton kandidatët e përzgjedhur me anë të një kërkese për propozim, për të negociuar.
+7. Pas mbylljes së fazës së kualifikimit dhe në përfundim të afateve të ankimit, autoriteti/enti kontraktor fton kandidatët e përzgjedhur për paraqitjen e propozimeve.
 8. Autoriteti/enti kontraktor cakton një afat të arsyeshëm për paraqitjen e kërkesës për propozim, por jo më të shkurtër se afatet e parashikuara në nenin 50 të LPP-së.
 Autoriteti/enti kontraktor siguron trajtim të barabartë për të gjithë pjesëmarrësit, dhe në asnjë rast nuk jep informacione në mënyrë diskriminuese, të cilat mund të favorizojnë një ose disa prej pjesëmarrësve.
 Autoriteti/enti kontraktor nuk u tregon pjesëmarrësve të tjerë, zgjidhjet e propozuara ose informacionin konfidencial që është komunikuar nga një kandidat ose një ofertues që merr pjesë në këtë procedurë.
@@ -862,8 +864,7 @@ Autoriteti/enti kontraktor vë në dijeni ofertuesit që kanë dorëzuar propozi
 d) Në përfundim të afateve të ankimit, autoriteti/enti kontraktor njofton konsulentët që kanë realizuar pikët minimale kualifikuese për datën, orën dhe adresën për hapjen e propozimeve ekonomike.
 Propozimet ekonomike hapen publikisht, në prani të përfaqësuesve të konsulentëve që marrin pjesë, vetë ose përmes telekonferencës apo mjeteve të tjera elektronike, nëse është e mundur. Emri i ofertuesit, pikët e vlerësimit teknik dhe çmimet e propozuara lexohen me zë të lartë dhe regjistrohen gjatë hapjes së propozimeve ekonomike. Për vlerësimin në çmim përfshihen të gjitha pagesat e konsulentëve, si dhe shpenzimet e tjera, si p.sh., shpenzimet për udhëtime, përkthimin, printimin e raporteve ose shpenzimet sekretariale. Propozimit me çmimin më të ulët i jepet vlerësimi financiar prej 100 pikësh, ndërsa propozimeve të tjera u jepen vlerësime financiare ku çmimet e tyre janë në përpjesëtim me çmimin më të ulët.
 dh) Vlerësimi përfundimtar total në pikë realizohet duke mbledhur pikët për cilësinë dhe koston. Pikët për “koston” caktohen duke marrë parasysh kompleksitetin e objektit të kontratës së prokurimit, si dhe rëndësinë përkatëse të cilësisë.
-e) Në vijim, autoriteti/enti kontraktor identifikon ofertën më të mirë dhe shpall ofertuesin fitues. Në përfundim të afateve të ankimit, autoriteti/enti kontraktor fillon bisedimet me fituesin për të sqaruar dhe për të përmirësuar kushtet e kontratës, metodologjinë, përbërjen e stafit dhe kushtet e veçanta. Bisedimet nuk duhet t’i ndryshojnë në mënyrë thelbësore kushtet fillestare të kontratës ose propozimin e përzgjedhur.
-Oferta ekonomike nuk duhet të ndryshohet në asnjë rast.
+e) Në vijim, autoriteti/enti kontraktor identifikon ofertën më të mirë dhe shpall ofertuesin fitues. Në përfundim të afateve të ankimit, autoriteti/enti kontraktor fton ofertuesin fitues për të nënshkruar kontratën.
 ë) Kur fituesi nuk arrin të nënshkruajë kontratën ose nuk arrin të bëjë sigurimin e kontratës, autoriteti/enti kontraktor fton për lidhjen e kontratës ofertuesin vijues në klasifikimin e ofertuesve;
 f) Në rast se kontrata lidhet me një bashkim operatorësh, të gjithë anëtarët e bashkimit të operatorëve duhet të nënshkruajnë kontratën dhe të jenë, individualisht dhe bashkërisht, përgjegjës për detyrën.
 Neni 55
@@ -875,8 +876,8 @@ Procedurë e hapur e thjeshtuar
 Kërkesat ekonomike financiare duhet të kërkohen në raport me objektin e prokurimit, duke marrë në konsideratë që plotësimi i këtyre kërkesave mund të bëhet vetëm me paraqitjen e xhiros vjetore të realizuar nga operatorët ekonomikë. Vlera e xhiros së kërkuar në këtë lloj procedure prokurimi nuk mund të tejkalojë 40% të vlerës së përllogaritur të kontratës, sipas parashikimeve në nenin 43, të këtyre rregullave.
 Lidhur me kërkesat për përvojën e ngjashme, vlera e kërkuar në procedurat e thjeshtuara duhet të jetë:
 a) Për kontratat e punëve:
-i. punë të ngjashme për një objekt të vetëm në një vlerë jo më të madhe se 30% e vlerës së përllogaritur të kontratës që prokurohet dhe që është realizuar gjatë pesë vjetëve të fundit, nga data e shpalljes së njoftimit të kontratës.
-ii. punë të ngjashme deri në një kufi, ku vlera monetare totale e punëve të kryera, e marrë së bashku gjatë pesë vjetëve të fundit, është jo më e madhe se vlera limit e kontratës që prokurohet.
+i. punë të ngjashme për një objekt të vetëm në një vlerë jo më të madhe se 30% e vlerës së përllogaritur të kontratës ose lotit që prokurohet dhe që është realizuar gjatë pesë vjetëve të fundit, nga data e shpalljes së njoftimit të kontratës.
+ii. punë të ngjashme deri në një kufi, ku vlera monetare totale e punëve të kryera, e marrë së bashku gjatë pesë vjetëve të fundit, është jo më e madhe se vlera limit e kontratës ose lotit që prokurohet.
 Plotësimi i njërit prej dy kushteve të sipërpërmendura e bën ofertën të kualifikueshme.
 b) Për kontratat e mallrave dhe shërbimeve vlera totale e kërkuar duhet të jetë në një vlerë jo më të madhe se 20% të vlerës së përllogaritur të kontratës, që prokurohet dhe që është realizuar gjatë tre vjetëve të fundit, nga data e shpalljes së njoftimit të kontratës.
 5. Shqyrtimi i ofertave duhet të bëhet jo më vonë se 5 (pesë) ditë nga dorëzimi i ofertave.
@@ -970,6 +971,7 @@ Rregulla për prokurimin e marrëveshjes kuadër
 a) Vlera e parashikuar e një marrëveshjeje kuadër duhet të përfshijë shumën e përllogaritur të të gjitha vlerave të kontratave që parashikohen të jepen gjatë kohës së vlefshmërisë së marrëveshjes kuadër.
 b) Në rastin kur, autoriteti/enti kontraktor e ka të pamundur të përcaktojë sasinë e objektit të prokurimit, për efekt të përllogaritjes së vlerës së marrëveshjes kuadër duhet t’u referohet, për aq sa është e mundur, nevojave të planifikuara dhe/ose nevojave të mëparshme për këtë objekt. Në çdo rast, përllogaritja e nevojave duhet të jetë sa më e plotë dhe gjithëpërfshirëse, me qëllim shmangien e situatave kur dalin nevoja të reja, për të njëjtin objekt, të papërfshira në marrëveshjen kuadër.
 5. Operatorët ekonomikë përzgjidhen si palë të marrëveshjes kuadër, duke zbatuar kriteret e përcaktimit të ofertës fituese, sipas përcaktimeve të neneve 80 dhe 87, të LPP-së. Në rast se autoriteti/enti kontraktor e ka objektivisht të pamundur të përcaktojë sasinë që do të prokurohet, atëherë do të vlerësojë ofertën/ofertat fituese duke u bazuar në çmimin për njësi.
+Kur, autoriteti/enti kontraktor vendos vlerësimin e ofertave mbi bazën e “çmim për njësi”, përveç vlerës së pritshme të kontratave përllogarit edhe shumatoren e çmimeve për njësi për çdo artikull apo shërbim, e cila publikohet bashkë me vlerën e pritshme të kontratave në njoftimin e kontratës. Në këtë rast, ofertimi nga operatorët ekonomikë do të bëhet me shumatoren e çmimeve për njësi. Për efekt krahasimi, vlerësimi i ofertave të paraqitura do të bëhet mbi bazën e shumatores së çmimeve për njësi, të përllogaritur për çdo artikull apo shërbim nga autoriteti/enti kontraktor.
 Kjo metodë vlerësimi nuk do të përdoret nga autoritetet/entet kontraktore, kur sasitë janë të llogaritshme në bazë vjetore sipas eksperiencës së mëparshme, dhe kur marrëveshja kuadër përdoret për prokurimin e mallrave dhe të shërbimeve të vazhdueshme. Në këtë rast, çmimi i ulët do të vlerësohet me vlerën totale më të ulët të ofruar.
 6. Nëse një operator ekonomik, palë në marrëveshjen kuadër, nuk përmbush më kriteret e kualifikimit, për të cilat është shpallur fitues në këtë marrëveshje, është i detyruar të njoftojë autoritetin/entin kontraktor menjëherë, por jo më vonë se 15 (pesëmbëdhjetë) ditë nga momenti i ndodhjes së një ndryshimi të tillë. Në rast se autoriteti/enti kontraktor konstaton mospërmbushjen e këtij detyrimi, duhet të veprojë në përputhje me nenin 78, të LPP-së.
 7. Në rast se operatorët ekonomikë palë në një marrëveshje kuadër, për shkak të forcës madhore (lufta ose revolucionet, zjarri, përmbytja, tërmeti, epidemitë, shtrëngime të karantinës dhe embargo transiti) nuk mundet që të furnizojnë autoritetin/autoritetet kontraktore palë në këtë marrëveshje, me një ose disa artikuj/shërbime objekt i kësaj marrëveshje, atëherë vlefshmëria dhe efektiviteti marrëveshjes pushojnë së ekzistuari vetëm për këto artikuj/shërbime, dhe vijon për artikujt/shërbimet e tjera, sipas kushteve të marrëveshjes.
@@ -1024,6 +1026,7 @@ Prokurimi i përqendruar dhe delegimi i prokurimit
 a) blerja e përqendruar mundëson përfitime ekonomike, për shkak të rritjes së sasisë së mallrave, punëve ose shërbimeve homogjene dhe që ofrohen në treg me kushte të ngjashme;
 b) autoriteti kontraktor, që luan rolin e organit qendror blerës, ka njohuri të mjaftueshme për zhvillimin e procedurave të prokurimit për mallrat, punët ose shërbimet që do të prokurohen.
 2. Në përputhje me nenin 53, të LPP-së dhe me qëllim realizimin dhe përdorimin më të mirë të fondeve publike, Këshilli i Ministrave mund t’ia ngarkojë rolin e organit qendror blerës një autoriteti tjetër kontraktor për zhvillimin e procedurave të prokurimit për blerjen e mallrave, kryerjen e punëve ose të shërbimeve të njëjta, si dhe/ose lidhjen e marrëveshjes kuadër për punë, furnizime ose shërbime të caktuara, në emër dhe për llogari të institucioneve në varësi të Kryeministrit dhe ministrave.
+2.1 Me kërkesë të një autoriteti ose enti kontraktor ose me nismën e vet, Këshilli i Ministrave, sipas pikës 2, të nenit 53, të LPP-së, mund të ngarkojë për procedura të veçanta prokurimi një autoritet ose ent tjetër kontraktor si organ qendror blerës.
 3. Ministritë ose institucionet e tjera, që kanë në varësi disa autoritete kontraktore, mund të prokurojnë në mënyrë të përqendruar për autoritetet kontraktore të varësisë.
 Në këtë rast, ministritë ose institucionet e tjera, që kanë në varësi disa autoritete kontraktore, mund të përdorin blerjen e përqendruar, duke nxjerrë udhëzimet e duhura për autoritetet kontraktore të varësisë.
 4. Nëse disa autoritete kontraktore kanë nevojë të prokurojnë të njëjtin mall, punë ose shërbim, ata mund të bien dakord t’i caktojnë njërit prej tyre rolin e organit qendror blerës për të zhvilluar procedurat e prokurimit në emër të tyre.
@@ -1059,7 +1062,7 @@ d) Autoriteti/enti kontraktor bën njoftime periodike, sipas përcaktimit në nj
 dh) kur ka nevojë për punë/mallra/shërbime, sipas përcaktimeve për krijimin e sistemit dinamik të blerjes, autoriteti/enti kontraktor u dërgon ftesën për ofertë operatorëve ekonomikë në sistemin dinamik të blerjes, duke u lënë një afat të arsyeshëm, por jo më pak se 48 orë për paraqitjen e një oferte.
 e) Autoriteti/enti kontraktor bën vlerësimin e ofertave sipas nenit 87, të LPP-së dhe përcaktimeve në ftesën për ofertë. Në përfundim të vlerësimit, fton ofertuesin e renditur i pari sa herë është e mundur nënshkruan kontratë.
 8. Operatorët ekonomikë, që janë pjesë e sistemit dinamik të blerjes, nëse gjatë afatit të vlefshmërisë së këtij sistemi, humbasin një ose disa nga kapacitetet e nevojshme për kualifikim, duhet të venë në dijeni autoritetin ose entin kontraktor menjëherë, por jo më vonë se 5 (pesë) ditë nga marria dijeni për faktin. Nëse autoriteti/enti kontraktor merr dijeni për një situatë të tillë, por nuk është njoftuar nga operatori ekonomik, vepron sipas parashikimit në nenin 78, të LPP-së.
-9. Autoriteti/enti kontraktor përdor sistem të thjeshtuar të blerjes dinamike për blerjen e biletave të transportit ajror ndërkombëtar, në përputhje më udhëzimet e APP-së.
+9. Autoriteti/enti kontraktor përdor sistem të thjeshtuar të blerjes dinamike për blerjen e biletave të transportit ajror ndërkombëtar, në përputhje më udhëzimet e APP-së, për të cilin nuk zbatohen parashikimet e nenit 116, të LPP-së, për ankimin administrativ.
 KREU VIII
 PROKURIMI I KONTRATAVE SEKTORIALE
 Neni 69
@@ -1506,6 +1509,8 @@ e) administron kërkesat për ndryshime/modifikime/përshtatje të zbatimit të 
 ë) mban korrespondencën e përditësuar me të gjitha dokumentet e shkëmbyera me kontraktorin lidhur me zbatimin e kontratës;
 f) përgatit informacion për çështjet e sipërcituara dhe ia përcjell personit përgjegjës për prokurimin, i cili raporton pranë APP-së.
 8. Raportimi, sipas parashikimeve të këtij neni do të bëhet në përputhje me udhëzimet e APP-së.
+9. Gjatë kohës së zbatimit të kontratës për furnizimin me karburant, gazoil, benzol dhe karburant për ngrohje, vlera absolute e normës së fitimit nuk do të ndryshojë gjatë ekzekutimit të kontratës, në rast të luhatjes së çmimeve. Nëse çmimi gjatë kohës së zbatimit të kontratës për furnizimin me karburant, gazoil, benzol dhe karburant për ngrohje ndryshon në raport me çmimin e kontratës, atëherë autoritetet/entet kontraktore duhet të bëjnë likuidimin e mallit sipas faturave periodike të shitjes, mbështetur në çmimin e bursës të publikuar në Buletinin e Njoftimeve Publike, i dërguar nga Drejtoria e Përgjithshme e Doganave, livruar sipas kushtit CIF-Shqipëri në këtë moment.
+10. Autoriteti kontraktor, para pagimit të faturës së mallit duhet të kontrollojë përqindjen e pranuar të rritjes apo të uljes të çmimit të bursës, të publikuar në Buletinin e Njoftimeve Publike, dërguar nga Drejtoria e Përgjithshme e Doganave livruar, sipas kushtit CIF-Shqipëri, në momentin e shitjes së mallit, objekt kontrate, autoriteteve kontraktore, si dhe cilësinë e mallit të livruar, nëse është e njëjtë me atë për të cilën është shpallur fitues kontraktori.
 Neni 108
 Raportimi në rastet e mospërmbushjes së detyrimeve kontraktuale
 1. Mospërmbushja e detyrimeve të kontratës nga ana e kontraktorit përbën shkak për përjashtimin e këtij kontraktori nga pjesëmarrja në prokurimet publike, sipas përcaktimeve të shkronjës “b”, të pikës 1, të nenit 78, të LPP-së.
