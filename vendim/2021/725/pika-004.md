@@ -1,0 +1,1 @@
+4. Misioni i Muzeut Kombëtar të Pavarësisë është përkujtimi dhe promovimi i vlerave të periudhës historike të shpalljes së pavarësisë së shtetit shqiptar, trashëgimisë historike, që lidhet me një nga ngjarjet më të rëndësishme të Shqipërisë, shpalljen e Pavarësisë më 28 Nëntor 1912, si një nga momentet më të rëndësishme në historinë e kombit shqiptar.

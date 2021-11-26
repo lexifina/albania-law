@@ -1,0 +1,1 @@
+2. Muzeu Kombëtar i Pavarësisë është person juridik, publik, buxhetor në varësi të ministrit përgjegjës për trashëgiminë kulturore, me seli në Vlorë. Muzeu Kombëtar i Pavarësisë është institucion i specializuar në fushën muzeore dhe ka statusin “Muze kombëtar”.

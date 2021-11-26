@@ -1,0 +1,1 @@
+7. Muzeu Kombëtar i Pavarësisë drejtohet nga drejtori i muzeut, i cili organizon e drejton të gjithë veprimtarinë e institucionit dhe përgjigjet përpara ministrit përgjegjës për trashëgiminë kulturore.
