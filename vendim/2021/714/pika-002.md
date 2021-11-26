@@ -1,0 +1,1 @@
+2. Përdorimin e fondit të rindërtimit, për vitin 2021, për financimin e rindërtimit të shkollës 9-vjeçare “Halit Coka”, Bashkia Kamzë, në masën 88 800 000 (tetëdhjetë e tetë milionë e tetëqind mijë) lekë pa TVSH, i cili do të përballohet nga hapësira buxhetore e siguruar pas ngurtësimit në të njëjtën masë të fondeve të projekteve të rindërtimit me ecuri të ngadaltë.
