@@ -1,0 +1,26 @@
+{
+  "qbz_id": 65252,
+  "title": "Për një ndryshim në vendimin nr.221, datë 12.3.2020, të Këshillit të Ministrave, “Për emërimin e kryetarit dhe të anëtarëve të Këshillit Drejtues të Autoritetit të Aviacionit Civil”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "721",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2021-11-24",
+  "published": "2021-11-26",
+  "in_force": "2021-11-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/dd12a05c6ba9d0b38d87e54b7dcc651427f33517d41ceeda0c54807757fb7d5a.docx",
+  "source_sha256": "dd12a05c6ba9d0b38d87e54b7dcc651427f33517d41ceeda0c54807757fb7d5a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65252",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/11/24/721",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
