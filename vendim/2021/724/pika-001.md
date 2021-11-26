@@ -1,0 +1,1 @@
+1. Përjashtimin nga procedura e përzgjedhjes nga mësuesit në bazë shkolle të tekstit të abetares dhe unifikimin e saj si tekst i vetëm “Abetare”, për të gjithë nxënësit në institucionet e arsimit parauniversitar.

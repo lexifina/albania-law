@@ -1,0 +1,1 @@
+2. Teksti i vetëm “Abetare” sigurohet nga botues, mbi bazën e standardeve të teksteve shkollore, nëpërmjet një konkurrimi të hapur, të barabartë dhe transparent, sipas procedurave të përcaktuara me udhëzim të ministrit përgjegjës për arsimin.
