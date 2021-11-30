@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja e garancisë ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim (BERZH) për marrëveshjen e huas ndërmjet Operatorit të Shpërndarjes së Energjisë Elektrike sh.a. (OSHEE), dhe Bankës Evropiane për Rindërtim dhe Zhvillim për projektin e OSHEE-së për reagimin ndaj krizës së pandemisë COVID-19, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
