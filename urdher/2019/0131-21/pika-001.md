@@ -1,1 +1,0 @@
-1. Autorizimet për përfaqësimin ligjor të Ministrisë së Turizmit dhe Mjedisit në proceset gjyqësore kur thirret si palë në një gjykim, lëshohen nga Sekretari i Përgjithshëm, në emër të personit/personave që do të përfaqësojnë ministrinë.
