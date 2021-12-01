@@ -1,0 +1,1 @@
+9. Ky urdhër nuk cenon vlefshmërinë e autorizimeve të lëshuara nga Sekretari i Përgjithshëm i Ministrisë së Turizmit dhe Mjedisit, për proceset gjyqësore në të cilat ky institucion ka qenë palë dhe që kanë filluar përpara hyrjes në fuqi të këtij urdhri.
