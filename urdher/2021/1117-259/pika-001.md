@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave Sekretarit të Përgjithshëm, për nënshkrimin e praktikave të Drejtorisë së Miradministrimit të Burimeve Njerëzore, Aseteve dhe Shërbimeve Mbështetëse, në përputhje me legjislacionin në fuqi.
