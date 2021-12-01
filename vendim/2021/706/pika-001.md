@@ -1,0 +1,1 @@
+1. Miratimin e garancisë shtetërore në favor të Bankës OTP Albania sh.a., për kontratën e kredisë ndërmjet Bankës OTP Albania sh.a. dhe Furnizuesit të Shërbimit Universal sh.a., dhe Operatorit të Shpërndarjes së Energjisë Elektrike (OSHEE) Group sh.a., për financimin e kapitalit punues, në kuadër të nevojave për import të energjisë, në shumën 20 000 000 (njëzet milionë) euro.
