@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për licencimin e subjekteve që ushtrojnë veprimtarinë si kujdestare të portofolit të palëve të treta, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
