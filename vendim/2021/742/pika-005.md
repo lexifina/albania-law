@@ -1,0 +1,1 @@
+5. Subjekte për sistemin SMIP janë institucionet arsimore parauniversitare, zyrat vendore të arsimit parauniversitar, ministria përgjegjëse për arsimin dhe institucionet në varësi të ministrisë përgjegjëse për arsimin.

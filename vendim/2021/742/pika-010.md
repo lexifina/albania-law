@@ -1,0 +1,2 @@
+10. Ngarkohen Ministria e Arsimit dhe Sportit, Ministria e Financave dhe Ekonomisë, Qendra e Shërbimeve Arsimore, Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar, Agjencia Kombëtare e Arsimit, Formimit Profesional dhe Kualifikimit, Drejtoria e Përgjithshme e Arsimit Parauniversitar, drejtoritë rajonale të arsimit parauniversitar, zyrat vendore të arsimit parauniversitar dhe institucionet arsimore parauniversitare për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
