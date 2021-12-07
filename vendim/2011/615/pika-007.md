@@ -22,3 +22,4 @@ v) çdo dispozitë kontraktuale mbi ligjin e zbatueshëm në kontratë dhe/ose m
 ç) Dëmshpërblimin për konsumatorin në rastin:
 i) kur ekziston apo jo një mekanizëm për zgjidhjen jashtë gjyqësorit të mosmarrëveshjeve dhe për dëmshpërblimin e konsumatorëve, dhe, nëse po, mënyrat për mundësinë e përdorimit të tij;
 ii) e ekzistencës së një fondi garancie ose të mënyrave të tjera për kompensimin e konsumatorëve.
+7.1 Përjashtimisht sa më sipër, pika 7, e këtij vendimi, lidhur me informimin, nuk aplikohet, me përjashtim të nënndarjeve “iii-vii”, të shkronjës “b”; nënndarjeve “i” dhe “iv”, të shkronjës “c” dhe nënndarjes “ii”, të shkronjës “ç”, të kësaj pike, në rastet kur dispozitat përkatëse të ligjit në fuqi për shërbimet e pagesave gjejnë zbatim.

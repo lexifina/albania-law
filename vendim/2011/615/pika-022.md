@@ -1,1 +1,1 @@
-22. Pikat 17 dhe 18 të këtij vendimi, nuk zbatohen për anulimin e kontratave të kredisë, të parashikuara në nenet 37, pika 4, e 43, pika 7, të ligjit nr.9902, datë 17.4.2008 “Për mbrojtjen e konsumatorëve”, të ndryshuar.
+22. Pikat 17 dhe 18 të këtij vendimi, nuk zbatohen për anulimin e kontratave të kredisë, të parashikuara në nenet 37/7, e 43, pika 7, të ligjit nr.9902, datë 17.4.2008 “Për mbrojtjen e konsumatorëve”, të ndryshuar.
