@@ -1,1 +1,0 @@
-5. Organi Kombëtar i Investigimit të Aksidenteve/Incidenteve Ajrore, për të realizuar detyrat, përgjegjësitë dhe objektivat e përcaktuar në këtë vendim, bashkëpunon dhe bashkërendon veprimtarinë me institucionet e ndryshme të vendit, publike dhe/ose private, grupet e interesit, vendase dhe/ose të huaja.

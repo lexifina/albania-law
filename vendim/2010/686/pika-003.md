@@ -1,1 +1,0 @@
-3. Kriteret dhe procedurat, sipas të cilave Organi Kombëtar i Investigimit të Aksidenteve/Incidenteve Ajrore kryen funksionet dhe organizon procesin e investigimit, janë të përcaktuara në rregulloren “Për kriteret dhe procedurat e investigimit të aksidenteve/incidenteve në aviacionin civil”, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
