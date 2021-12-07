@@ -1,0 +1,1 @@
+5. Subjekte për sistemin SPSH janë kandidatët për provimin e shtetit, ZVAP-të, DRAP-të, urdhrat profesionalë, institucionet e arsimit të lartë, ministritë përgjegjëse, komisionet e provimit të shtetit, si dhe palë të tjera të interesuara për kryerjen e provimeve të digjitalizuara pranë QSHA-së, sipas kuadrit ligjor e nënligjor në fuqi.
