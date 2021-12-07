@@ -1,0 +1,1 @@
+11. Autoriteti i Investigimit ka stemën, logon dhe vulën e vet zyrtare. Stema e autoritetit përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Ministria ... (emri i ministrisë përgjegjëse për transportin ajror), Autoriteti Kombëtar i Investigimit për Sigurinë e Operimit në Aviacionin Civil.

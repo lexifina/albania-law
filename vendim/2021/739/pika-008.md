@@ -1,0 +1,1 @@
+8. Autoriteti i Investigimit, në funksion të ushtrimit të kompetencave të tij, kryen detyrat sipas përcaktimeve në Kodin Ajror të Republikës së Shqipërisë, të këtij vendimi, si dhe çdo detyrë tjetër të ngarkuar nga legjislacioni në fuqi.

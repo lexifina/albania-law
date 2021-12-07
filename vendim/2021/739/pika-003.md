@@ -1,0 +1,1 @@
+3. Autoriteti i Investigimit ka si mision përmirësimin e sigurisë ajrore dhe parandalimin e aksidenteve dhe incidenteve, nëpërmjet investigimit të tyre dhe nxjerrjes së shkaqeve, në zbatim të legjislacionit në fuqi.

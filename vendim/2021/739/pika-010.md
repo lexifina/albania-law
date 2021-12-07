@@ -1,0 +1,1 @@
+10. Struktura dhe organika e Autoritetit të Investigimit miratohen me urdhër të Kryeministrit, me propozimin e ministrit, sipas përcaktimeve të legjislacionit në fuqi për organizimin dhe funksionimin e administratës shtetërore.

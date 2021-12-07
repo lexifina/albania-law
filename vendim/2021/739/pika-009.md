@@ -1,0 +1,1 @@
+9. Rregullorja, që përcakton metodat e brendshme të punës dhe sjelljen e personelit të Autoritetit të Investigimit dhe/apo ndryshimet e saj, miratohet nga ministri, pas propozimit të drejtorit të autoritetit.
