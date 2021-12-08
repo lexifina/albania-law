@@ -1,0 +1,5 @@
+# Neni 6
+Përmbajtja dhe metodat e testimit
+1. Për kategoritë e mjeteve që janë brenda fushëveprimit të këtij udhëzimi, kontrollet teknike duhet të sigurojnë që të mbulojnë së paku zonat e përmendura në pikën 2 të aneksit I.
+2. Për secilën zonë të referuar në paragrafin 1, qendrat e kontrollit duhet të kryejnë një kontroll teknik që mbulon të paktën elementet e referuara në pikën 3 të aneksit I, duke përdorur metodën e rekomanduar ose ekuivalente të miratuar nga një autoritet kompetent i zbatueshëm për kontrollin e atyre elementeve, siç përcaktohet në pikën 3 të aneksit I. Kontrolli mund të përfshijë gjithashtu një verifikim nëse pjesët dhe komponentët përkatës të mjetit i korrespondojnë karakteristikave të kërkuara të sigurisë dhe mjedisit që ishin në fuqi në kohën e miratimit ose, nëse është e përshtatshme, në kohën e modifikimit (zëvendësimeve).
+3. Kontrollet duhet të kryhen duke përdorur teknikat dhe pajisjet aktualisht në dispozicion pa përdorimin e mjeteve për të çmontuar ose hequr ndonjë pjesë të mjetit.
