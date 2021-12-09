@@ -1,1 +1,1 @@
-8. Sipas fushës së tyre të përgjegjësisë, të përcaktuar në këtë vendim, anëtarët e Grupit Negociator janë anëtarë me të drejta të plota të Komitetit përkatës Sektorial të Monitorimit të asistencës financiare të Bashkimit Evropian.
+8. Shfuqizuar.

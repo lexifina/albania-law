@@ -1,8 +1,8 @@
 6. Anëtaret e Grupit Negociator bashkëkryesojnë nënkomitetet e stabilizimit dhe asociimit, Bashkimi Evropian - Shqipëri, si më poshtë vijon:
 a) Nënkomiteti i Stabilizimit dhe Asociimit, Bashkimi Evropian-Shqipëri, “Drejtësia, liria dhe siguria” bashkëkryesohet nga negociatori përgjegjës për kapitullin 23;
-b) Nënkomiteti i Stabilizimit dhe Asociimit, Bashkimi Evropian-Shqipëri, “Tregu i brendshëm dhe konkurrenca” bashkëkryesohet nga negociatori përgjegjës për kapitujt 1, 3, 7, 20, 28 dhe 30;
-c) Nënkomiteti i Stabilizimit dhe Asociimit, Bashkimi Evropian-Shqipëri, “Transporti, mjedisi, energjia dhe zhvillimi rajonal” bashkëkryesohet nga negociatori përgjegjës për kapitujt 10, 14, 15 dhe 21;
-ç) Nënkomiteti i Stabilizimit dhe Asociimit, Bashkimi Evropian-Shqipëri, “Tregtia, industria, doganat dhe tatimet” bashkëkryesohet nga negociatori përgjegjës për kapitujt 6, 16, 29 dhe 32;
-d) Nënkomiteti i Stabilizimit dhe Asociimit, Bashkimi Evropian-Shqipëri, “Për inovacionin, shoqërinë e informacionit dhe politikat sociale” bashkëkryesohet nga negociatori përgjegjës për kapitujt 10, 14, 15 dhe 21;
-dh) Nënkomiteti i Stabilizimit dhe Asociimit, Bashkimi Evropian-Shqipëri, “Çështjet ekonomike, financiare dhe statistikat” bashkëkryesohet nga negociatori përgjegjës për kapitujt 6, 16, 29 dhe 32;
+b) Nënkomiteti i Stabilizimit dhe Asociimit Bashkimi Evropian-Shqipëri, “Tregu i Brendshëm dhe Konkurrenca”, bashkëkryesohet nga negociatori përgjegjës për kapitujt 1, 2, 3, 6, 7, 20 dhe 30, si dhe bashkënegociatori përgjegjës për kapitujt 19 dhe 28;
+c) Nënkomiteti i Stabilizimit dhe Asociimit Bashkimi Evropian-Shqipëri “Transporti, mjedisi, energjia dhe zhvillimi rajonal”, bashkëkryesohet nga negociatori përgjegjës për kapitujt 14 dhe 21, dhe bashkënegociator përgjegjës për kapitullin 10;
+ç) Nënkomiteti i Stabilizimit dhe Asociimit Bashkimi Evropian-Shqipëri, “Tregtia, industria, doganat dhe tatimet” bashkëkryesohet nga negociatori përgjegjës për kapitujt 16 dhe 29;
+d) Nënkomiteti i Stabilizimit dhe Asociimit Bashkimi Evropian-Shqipëri “Për inovacionin, shoqërinë e informacionit dhe politikat sociale” bashkëkryesohet nga negociatori përgjegjës për kapitujt 14 dhe 21 dhe bashkënegociatori përgjegjës për kapitullin 10;
+dh) Nënkomiteti i Stabilizimit dhe Asociimit Bashkimi Evropian-Shqipëri, “Çështjet ekonomike, financiare dhe statistikat”, bashkëkryesohet nga negociatori përgjegjës për kriteret ekonomike, dhe kapitujt 4, 32 dhe 33;
 e) Nënkomiteti i Stabilizimit dhe Asociimit, Bashkimi Evropian-Shqipëri, “Bujqësia dhe peshkimi” bashkëkryesohet nga negociatori përgjegjës për kapitujt 11 dhe 12.
