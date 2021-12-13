@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 109 555 139 (njëqind e nëntë milionë e pesëqind e pesëdhjetë e pesë mijë e njëqind e tridhjetë e nëntë) lekësh, përballohet nga Komanda e Forcës Ajrore, sipas buxhetit të akorduar nga Ministria e Mbrojtjes, në programin buxhetor “Forcat e luftimit” 02120, për vitin 2021.

@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës të pezullojë të gjitha transaksionet me pasuritë e shpronësuara, deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit mbi hartat kadastrale dhe kalimi i pronësisë në favor të shtetit, në përgjegjësi administrimi të Ministrisë së Mbrojtjes për Komandën e Forcës Ajrore.
