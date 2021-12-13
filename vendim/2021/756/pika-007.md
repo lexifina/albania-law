@@ -1,0 +1,3 @@
+7. Agjencia e Kombëtare për Punësim dhe Aftësi bashkëpunon e ndihmon ofruesit AFP-së të akredituar për njohjen e të nxënit të mëparshëm joformal dhe informal:
+a) duke identifikuar e orientuar kandidatë potencialë nga punëkërkuesit e papunë për sistemin e njohjes së të nxënit të mëparshëm joformal dhe informal;
+b) duke vendosur në dispozicion burimet e nevojshme për procesin e njohjes së të nxënit të mëparshëm për institucionet publike ofruese të AFP-së të akredituara si ofrues të njohjes së të nxënit të mëparshëm, sipas shkronjës “ç”, të pikës 3, të vendimit nr. 554, datë 31.7.2019, të Këshillit të Ministrave, “Për krijimin, mënyrën e organizimit dhe të funksionimit të Agjencisë Kombëtare për Punësim dhe Aftësi”.

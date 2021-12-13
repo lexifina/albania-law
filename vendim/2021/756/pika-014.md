@@ -1,0 +1,1 @@
+14. Procedura e vlerësimit të rezultateve të të nxënit, sipas shkronjës “c”, të pikës 13, të këtij vendimi, realizohet sipas pikave 1 dhe 2, të nenit 28, të ligjit nr. 15/2017, “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”, të përcaktuara në standardet e kualifikimeve profesionale të niveleve 2, 3, 4 dhe 5, të KSHK-së.

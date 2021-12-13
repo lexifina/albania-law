@@ -1,0 +1,3 @@
+6. Agjencia Kombëtare e Arsimit, Formimit Profesional dhe Kualifikimeve, me qëllim funksionimin e sistemit të njohjes së të nxënit të mëparshëm joformal e informal:
+a) propozon udhëzimin për procedurat e vlerësimit e të certifikimit, sipas pikës 2, të nenit 21, të ligjit nr.15/2017, “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”;
+b) akrediton ofruesit e AFP-së si njohës të të nxënit të mëparshëm joformal dhe informal, sipas shkronjës “k”, të pikës 3, të vendimit nr. 673, datë 16.10.2019, të Këshillit të Ministrave, “Për organizimin dhe funksionimin e Agjencisë Kombëtare të Arsimit, Formimit Profesional dhe Kualifikimeve”.

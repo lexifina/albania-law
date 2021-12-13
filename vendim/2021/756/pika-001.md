@@ -1,0 +1,1 @@
+1. Ky vendim ka për objekt përcaktimin e rregullave për njohjen e të nxënit të mëparshëm joformal dhe informal për arritjen e kualifikimeve profesionale në nivelet 2 deri në 5 të Kornizës Shqiptare të Kualifikimeve (KSHK), me përjashtim të kualifikimeve që lëshohen nga institucionet e arsimit të lartë, niveli 5, KSHK.

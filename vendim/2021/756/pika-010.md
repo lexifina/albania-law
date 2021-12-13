@@ -1,0 +1,1 @@
+10. Ofruesit e akredituar për njohjen e të nxënit të mëparshëm janë institucione të AFP-së, sipas përkufizimit të pikës 5, të nenit 4, të ligjit nr. 15/2017, “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”, me kapacitetet e nevojshme, që përmbushin standardet e akreditimit për procesin e njohjes së të nxënit të mëparshëm.

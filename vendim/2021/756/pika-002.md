@@ -1,0 +1,4 @@
+2. Përveç parimeve të përcaktuara në nenin 5, të ligjit nr.15/2017, “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”, sistemi i njohjes së të nxënit të mëparshëm joformal dhe informal mbështetet edhe në parimet e mëposhtme:
+a) e drejta individuale, e cila përfshin procesin e njohjes së të nxënit të mëparshëm, është zgjedhje vullnetare e individit;
+b) besueshmëria, e cila konsiston në proces, procedura dhe kritere për njohjen e të nxënit joformal dhe informal, i cili duhet të jetë i drejtë, transparent dhe i mbështetur në mekanizmat e sigurimit të cilësisë;
+c) aksesi i barabartë dhe trajtim i drejtë, si një sistem i njohjes së të nxënit të mëparshëm joformal dhe informal, që duhet të respektojnë interesat legjitimë të kandidatëve, si dhe të garantojnë pjesëmarrje të balancuar e trajtim të barabartë për të gjithë kandidatët.
