@@ -1,0 +1,1 @@
+1. Kalimin te Bashkia Krujë të 260 (dyqind e gjashtëdhjetë) apartamenteve në 13 (trembëdhjetë) njësitë e banimit në ndërtesa (pallat), në Njësinë Administrative Thumanë, Bashkia Krujë, sipas listës së inventarit që i bashkëlidhet këtij vendimi.
