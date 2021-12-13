@@ -1,0 +1,1 @@
+8. Inspektimi i orientuar nënkupton një inspektim specifik për një proces konkret të veprimtarisë së ofruesve të AFP-së, për të cilin ka një ankesë apo ka informacion për shkelje të legjislacionit për arsimin profesional. Inspektimi i orientuar është i paplanifikuar.

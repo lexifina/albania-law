@@ -1,0 +1,1 @@
+9. Inspektimi tematik është i planifikuar dhe synon kontrollin, monitorimin dhe vlerësimin e fushave të caktuara të funksionimit të ofruesit të AFP-së, të cilat konsiderohen përparësi për politikat e AFP-së.

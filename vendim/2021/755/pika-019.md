@@ -1,0 +1,2 @@
+19. Në rast të moszbatimit të rekomandimeve të dhëna, sipas pikës 18, të këtij vendimi, në mënyrë të përsëritur, ministri përgjegjës për AFP-në mund të vendosë mbylljen e një ofruesi të AFP-së, kur nuk respektohen kriteret e përcaktuara me vendim të Këshillit të Ministrave, sipas shkronjës “e”, të nenit 7, të ligjit nr. 15/2017, “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”.
+IV. DISPOZITA TRANZITORE DHE T FUNDIT

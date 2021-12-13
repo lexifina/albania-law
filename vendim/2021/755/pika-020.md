@@ -1,0 +1,1 @@
+20. Ministria përgjegjëse për AFP-në, me hyrjen në fuqi të këtij vendimi, ngarkohet të marrë masat e nevojshme, në bashkëpunim me Departamentin e Administratës Publike, për shtimin e njësisë përgjegjëse për inspektimin në strukturën dhe organikën e ministrisë.
