@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për financimin e rikonstruksionit të godinës së Institutit të Ndërtimit, me vlerë të plotë, në masën 68 930 414 (gjashtëdhjetë e tetë milionë e nëntëqind e tridhjetë mijë e katërqind e katërmbëdhjetë) lekë, pa TVSH.
