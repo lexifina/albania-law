@@ -1,0 +1,1 @@
+1. Kryeministrisë, në buxhetin e miratuar për vitin 2021, i shtohet fondi prej 652 000 000 (gjashtëqind e pesëdhjetë e dy milionë) lekësh, në formën e transfertës në artikullin 604, për Agjencinë Shtetërore të Kadastrës, me qëllim mbulimin e shpenzimeve për projektin “Digjitalizimi i të dhënave kadastrale të pasurive të paluajtshme”.
