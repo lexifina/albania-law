@@ -415,7 +415,7 @@ Qeveria është plotësisht e angazhuar për të përmirësuar efikasitetin, kap
 a) Reduktimin e mëtejshëm të humbjeve dhe përmirësimin e mbledhjes së të ardhurave duke përshpejtuar zbatimin e Projektit të Rimëkëmbjes të Energjisë. Arritja e afateve të caktuara operacionale (në përqindje) është thelbësore për marrjen e kthesës në sektor, duke minimizuar mbështetjen e kërkuar nga aksionarët, konsumatorët e energjisë, furnizuesit dhe taksapaguesit:
 Tabela 6: Reduktimi i humbjeve të rishikuara dhe synimet për grumbullimin e të ardhurave/arkëtimeve
 Humbjet totale (%)
-Mbledhja e të ardhurave1 (%)
+Mbledhja e të ardhurave (%)
 2014
 37.8
 91.9
@@ -429,21 +429,28 @@ Mbledhja e të ardhurave1 (%)
 26.4
 97.0
 2018
-25.0
+23.9
 95.0
 2019
-23.0
+21.8
 95.0
 2020
-20.0
+21.5
 95.0
 2021
-16.5
+20.5
 95.0
 2022
-15.0
+19.6
 95.0
-1 Përfaqëson arkëtimet totale duke përfshirë shitjet nga vitet paraprake
+2023
+19.0
+2024
+18.5
+2025
+18.1
+2026
+17.8
 Figura 3: OSHEE-ja, balancat e parashikuara të parave
 b) Riorganizimi i sektorit, forcimi i pozicionit financiar dhe mobilizimi i burimeve për të mbyllur deficitin e parashikuar të financimit. Megjithëse parashikohet, asaj i është shtuar thatësira në vitin 2017 dhe kostoja e importit shtesë. Këto ristrukturime përfshijnë ndër të tjera:
 - Në përputhje me nenet 26 dhe 31 të direktivës 2009/72 / EC dhe nenit 35 të ligjit të ri të sektorit të energjisë elektrike, ndarja formale e OSHEE-së në pjesët përbërëse të saj të pavarura, OSSH-në dhe FPP-në, duke ndarë FPP-në dhe transferimin e personelit, pasurive dhe detyrimeve të lidhura me një shoqëri aksionere të re (kjo u realizua gjatë vitit 2018 dhe është juridikisht funksionale), dhe instalimi i një sistemi të ri komercial të faturimit në përputhje me strukturën e re.
