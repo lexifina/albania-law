@@ -1,0 +1,26 @@
+{
+  "qbz_id": 23835,
+  "title": "Për lejimin e lënies së shtësisë shqiptare",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "13360",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2021-12-07",
+  "published": "2021-12-14",
+  "in_force": "2021-12-14",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/944ecab1a7dffa1e0a83d072cd9c20a4851629976d75d5de418df3015e822b43.docx",
+  "source_sha256": "944ecab1a7dffa1e0a83d072cd9c20a4851629976d75d5de418df3015e822b43",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23835",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2021/12/07/13360",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
