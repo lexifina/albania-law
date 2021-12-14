@@ -1,0 +1,1 @@
+4. Të gjitha anijet që në lejen e tyre të peshkimit janë të autorizuara të ushtrojnë aktivitetin e peshkimit jashtë ujërave territoriale të Republikës së Shqipërisë dhe që nuk janë të pajisura me numër IMO, duhet të dorëzojnë pranë Inspektoratit të Peshkimit lejen e vjetër dhe të kryhet aplikim për leje të re.
