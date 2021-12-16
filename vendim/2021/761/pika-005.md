@@ -1,0 +1,1 @@
+5. Në rezervat strategjike të miratuara ndalohen ndërhyrjet silvikulturore me përjashtim të prerjeve shëndetësore, kullotja, ndezja e zjarreve, dhënia në përdorim, heqja nga fondi pyjor, si dhe ushtrimi i çdo veprimtarie tjetër.

@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve dhe të procedurave për krijimin e rezervave strategjike të lëndës drusore në këmbë (të paprerë), si sipërfaqe pyjore të vëna në ruajtje për të përballuar ngjarje madhore, si dhe ruajtjen e trajtimin e pyjeve të virgjëra ose pothuajse të virgjëra, deri në kalimin e tyre në konservim të plotë, në përputhje me parashikimet e këtij vendimi.

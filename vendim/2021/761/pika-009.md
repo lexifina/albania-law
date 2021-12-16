@@ -1,0 +1,1 @@
+9. Me hyrjen në fuqi të këtij vendimi, vendimi nr. 734, datë 1.9.2010, i Këshillit të Ministrave, “Për përcaktimin e kritereve dhe të procedurave për krijimin e rezervave strategjike të lëndës drusore në këmbë”, shfuqizohet.
