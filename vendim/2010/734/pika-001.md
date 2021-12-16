@@ -1,1 +1,0 @@
-1. Krijimin e rezervës strategjike, me rëndësi kombëtare, të lëndës drusore në këmbë, për t’u përdorur vetëm në raste emergjente, për plotësimin e nevojave të ekonomisë për lëndë drusore dhe furnizimin e popullatës me dru zjarri e lëndë ndërtimi.
