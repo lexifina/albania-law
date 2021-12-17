@@ -1,0 +1,7 @@
+3. Prodhuesit dhe importuesit e artikujve piroteknikë kanë detyrimin që:
+a) të mbajnë një regjistër fizik dhe elektronik të të gjithë numrave të regjistrimit të artikujve piroteknikë të prodhuar ose të importuar prej tyre, së bashku me emrin e tyre tregtar, llojin e përgjithshëm dhe/apo nëntipin, dhe vendin e prodhimit për 10 vjet, pas vendosjes në treg të artikullit, sipas formatit të përcaktuar në shtojcën I, që i bashkëlidhet këtij vendimi;
+b) të transferojnë të dhënat tek autoritetet kompetente licencuese për veprimtarinë e tyre, në rast se prodhuesi ose importuesi pushon veprimtarinë e tij;
+c) të regjistrojnë vendndodhjen e çdo artikulli piroteknik, ndërkohë që artikulli piroteknik është në zotërimin ose kujdestarinë e tyre, derisa ai të transferohet drejt një operatori tjetër ekonomik ose të përdoret;
+ç) të testojnë, në intervale të rregullta, sistemin për mbledhjen e të dhënave, me qëllim që të sigurohen që ai të mbetet i vlefshëm dhe të sigurohen për cilësinë e të dhënave të regjistruara;
+d) administratori i subjektit ose drejtuesi teknik të japin informacion në lidhje me sistemin në çdo kohë që kërkohet nga autoritetet kompetente edhe jashtë orarit normal të punës;
+dh) të vendosin në dispozicion të autoriteteve kompetente dhe të autoriteteve të mbikëqyrjes së tregut të gjithë informacionin e përmendur në shkronjën “a”, të kësaj pike, sipas kërkesës së bërë nga këto autoritete.

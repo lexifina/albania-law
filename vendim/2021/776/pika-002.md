@@ -1,0 +1,1 @@
+2. Numri i regjistrimit strukturohet “XXXX - YY - ZZZZ …”, ku XXXX i referohet shkronjës “a”, të pikës 1; YY i referohet shkronjës “b”, të pikës 1, dhe ZZZZ… i referohet shkronjës “c”, të pikës 1, të këtij vendimi.
