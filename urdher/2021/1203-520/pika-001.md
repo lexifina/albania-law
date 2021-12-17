@@ -1,0 +1,1 @@
+1. Ndalimin e hyrjes në Republikën e Shqipërisë të shtetasve të huaj me histori udhëtimi brenda 14 ditëve të fundit në vendet: Afrikë e Jugut, Kenia, Angola, Zambia, Bostwana, Senegal, Lesoto dhe Eswati, duke filluar nga data 3.12.2021 deri në datë 23.12.2021.

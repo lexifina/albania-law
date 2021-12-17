@@ -1,0 +1,1 @@
+2. Vetëkarantinimin e detyrueshëm, për një periudhë 14-ditore, për personat rezidentë në Republikën e Shqipërisë, që vijnë në Shqipëri dhe kanë histori udhëtimi 14 ditët e fundit para mbërritjes, në vendet e përcaktuara në pikën 1 të këtij urdhri.
