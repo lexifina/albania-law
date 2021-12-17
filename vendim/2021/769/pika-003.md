@@ -1,0 +1,1 @@
+3. Fondi për pakicat kombëtare, pas miratimit, administrohet nga Komiteti për Pakicat Kombëtare, në përputhje me rregullat e parashikuara në legjislacionin në fuqi për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë.

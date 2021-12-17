@@ -1,0 +1,5 @@
+VENDIM
+Nr. 769, datë 15.12.2021
+PËR KRITERET E MBËSHTETJES SË NISMAVE, TË PROJEKTEVE QË SYNOJNË MBROJTJEN E TË DREJTAVE TË PAKICAVE KOMBËTARE, RUAJTJEN DHE PROMOVIMIN E IDENTITETIT TË TYRE TË DALLUESHËM KULTUROR, ETNIK, GJUHËSOR, TRADICIONAL E FETAR DHE KRITERET E PËRZGJEDHJES PËR FINANCIMIN DHE ADMINISTRIMIN E FONDIT PËR PAKICAT KOMBËTARE
+Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 3, të nenit 21, të ligjit nr. 96/2017, “Për mbrojtjen e pakicave kombëtare në Republikën e Shqipërisë’’, me propozimin e Kryeministrit, Këshilli i Ministrave
+VENDOSI:

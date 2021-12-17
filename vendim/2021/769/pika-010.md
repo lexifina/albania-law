@@ -1,0 +1,2 @@
+10. Vlerësimi mbështetet në përputhjen e projektpropozimit të paraqitur nga kandidati aplikues në procedurat e konkurrimit për financime me grante, me qëllimin e organizatës/kandidatit dhe programin që zbaton, në kapacitetet e kandidatit, në efektshmërinë e aktiviteteve, në pritshmërinë dhe koston e tyre.
+Projektet përmbajnë të dhëna për qëllimin, objektivat specifikë, veprimtaritë, buxhetin, rezultatet e synuara. Vlerësimi i tyre parashtrohet sipas treguesve të qartë e përcaktimeve të argumentuara.

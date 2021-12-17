@@ -1,0 +1,1 @@
+2. Fondi për pakicat kombëtare parashikohet si zë më vete në buxhetin vjetor të shtetit. Kërkesa për këtë fond bëhet pasi Komiteti për Pakicat Kombëtare të jetë konsultuar me përfaqësuesit e pakicave kombëtare dhe, pas konsultimit, përgatit një relacion vjetor, të argumentuar.

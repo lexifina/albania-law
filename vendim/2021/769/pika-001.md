@@ -1,0 +1,1 @@
+1. Me qëllim sigurimin e mbrojtjes e të promovimit të të drejtave të pakicave kombëtare përdoret fondi i krijuar për pakicat kombëtare, për mbështetjen e nismave dhe të projekteve që synojnë mbrojtjen e të drejtave të pakicave kombëtare, ruajtjen dhe promovimin e identitetit të tyre të dallueshëm kulturor, etnik, gjuhësor, tradicional e fetar.
