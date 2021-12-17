@@ -1,0 +1,1 @@
+1. Miratimin e planit të shpenzimeve, për vitin 2022, të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura, në shumën 53 154 530 (pesëdhjetë e tre milionë e njëqind e pesëdhjetë e katër mijë e pesëqind e tridhjetë) lekë, sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi.
