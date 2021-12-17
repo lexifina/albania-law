@@ -1,0 +1,1 @@
+5. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, që llogariten në shumën 3 440 000 000 (tre miliardë e katërqind e dyzet milionë) lekë për shpërblimin dhe 60 000 000 (gjashtëdhjetë milionë) lekë shpenzime administrative, përballohen nga buxheti i sigurimeve shoqërore, i miratuar për vitin 2021.

@@ -1,0 +1,1 @@
+2. Të drejtën për të përfituar shpërblimin, në masën e përcaktuar në pikën 1 të këtij vendimi, e kanë edhe ata persona, që kanë datë të fillimit të pensionit deri në datën 31.12.2021, duke përfshirë edhe këtë datë.

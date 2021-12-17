@@ -1,0 +1,1 @@
+4. Administrimi i fondeve buxhetore të shpërblimit të pensionistëve, caktimi i shpërblimit për çdo përfitues dhe pagesa realizohen nga Instituti i Sigurimeve Shoqërore, Posta Shqiptare sh.a., dhe bankat e nivelit të dytë, sipas të njëjtave procedura që zbatohen për administrimin e fondit të sigurimeve shoqërore.
