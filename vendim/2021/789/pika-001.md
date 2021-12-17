@@ -1,0 +1,1 @@
+1. Miratimin e kritereve për përfitimin nga sportisti të statusit të nivelit të lartë, sipas rezultateve të arritura në veprimtaritë ndërkombëtare apo kombëtare. Klasifikimi i këtyre rezultateve në veprimtaritë ndërkombëtare dhe kombëtare jepet sipas tabelave I dhe II, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+2. Sportistët mbajnë statusin e nivelit të lartë nga momenti i marrjes së rezultatit zyrtar në veprimtaritë ndërkombëtare apo kombëtare deri në marrjen zyrtare të rezultatit nga një sportist tjetër pasardhës në atë sport.

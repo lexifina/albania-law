@@ -1,0 +1,1 @@
+4. Masa e shpërblimit financiar, për çdo rezultat të arritur, jepet sipas tabelave I e II, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij, e jepet pas shpalljes së rezultateve përfundimtare zyrtare të veprimtarisë sportive nga federata ndërkombëtare/kombëtare e atij sporti.

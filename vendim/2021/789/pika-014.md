@@ -1,0 +1,1 @@
+14. Gjatë vitit kalendarik, përjashtuar periudhën e grumbullimit dhe të pjesëmarrjes në veprimtaritë ndërkombëtare zyrtare të sportistit, sipas tabelës I, sportisti dhe trajneri i tij përfitojnë trajtim ushqimor e mjekësor për përgatitjen sportive dhe pjesëmarrjen në veprimtaritë kombëtare zyrtare.

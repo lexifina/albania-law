@@ -1,0 +1,1 @@
+11. Trajtimi ushqimor e mjekësor për periudhën e grumbullimit dhe të pjesëmarrjes në veprimtaritë ndërkombëtare zyrtare të sportistit, sipas tabelës I, në përbërje të ekipit përfaqësues kombëtar, mbulohet nga federata sportive përkatëse.

@@ -1,0 +1,1 @@
+17. Sportistët, të cilët kanë përfituar statusin e nivelit të lartë, pas hyrjes në fuqi të ligjit nr. 105/2020, “Për disa shtesa dhe ndryshime në ligjin nr. 79/2017, ’Për sportin’”, trajtohen sipas parashikimeve të këtij vendimi.

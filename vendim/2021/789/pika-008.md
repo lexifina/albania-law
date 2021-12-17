@@ -1,0 +1,1 @@
+8. Sportistët e nivelit të lartë dhe trajnerët e tyre, pjesëmarrës në veprimtaritë kombëtare, të përcaktuara në rregulloret e federatave sportive përkatëse dhe në veprimtari ndërkombëtare, për përgatitjen e tyre përfitojnë trajtim ushqimor në natyrë ose në vlerë, si dhe trajtim mjekësor.

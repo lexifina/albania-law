@@ -1,0 +1,1 @@
+6. Sportistët e sporteve individuale, të kategorisë “të rinj”, që arrijnë rezultate në veprimtaritë ndërkombëtare, sipas tabelës I, shpërblehen në masën 30 (tridhjetë) % të vlerës së përcaktuar për kategorinë “të rritur”.

@@ -1,0 +1,1 @@
+5. Integrimi i sportistëve në sistemin arsimor me drejtim sportiv, i sigurisë kombëtare e mbrojtjes dhe punësimi i tyre në strukturat e Ministrisë së Mbrojtjes dhe Ministrisë së Brendshme përfitohet vetëm 1 (një) herë brenda periudhës së përcaktuar në pikën 2, të këtij vendimi.

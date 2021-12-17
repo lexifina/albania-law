@@ -1,0 +1,1 @@
+18. Vendimi nr. 687, datë 14.11.2018, i Këshillit të Ministrave, “Për kriteret, mënyrën e shpërblimit dhe përfitimin e trajtimit për përgatitjen sportive të sportistëve, që përfitojnë statusin e nivelit të lartë”, shfuqizohet.
