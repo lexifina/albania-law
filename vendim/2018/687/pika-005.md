@@ -1,7 +1,0 @@
-5. Federatat dhe klubet mund të grumbullojnë ekipet e tyre përfaqësuese për veprimtari kombëtare dhe ndërkombëtare. Vlera ditore për akomodimin dhe ushqimin është 7 000 (shtatë mijë) lekë (4 000 lekë ushqimi + 3 000 lekë fjetja) në ditë, sipas nevojave që ato kanë, dhe mbulohet nga buxhetet e federatave apo klubeve, sipas marrëveshjes ndërmjet palëve.
-IV. Dispozita të fundit
-1. Efektet financiare për zbatimin e pikave 1.1 deri në 1.5, të kreut II, të këtij vendimi, përballohen nga fondet e buxhetit të shtetit, miratuar për ministrinë përgjegjëse për sportin.
-2. Efektet financiare për zbatimin e pikës 1.6, të kreut II, të këtij vendimi, dhe shpërblimet e dhëna nga ministri përgjegjës për sportin, deri në 500 000 (pesëqind mijë lekë), për veprimtari të tjera të rëndësishme ndërkombëtare, në sporte individuale dhe në përbërje të ekipeve kombëtare, përballohen nga fondet e buxhetit të shtetit, miratuar për ministrinë përgjegjëse për sportin.
-3. Vendimi nr. 1720, datë 29.10.2008, i Këshillit të Ministrave, “Për kriteret e përcaktimit të nivelit të lartë sportiv, për mënyrën e shpërblimit të sportistëve, që i arrijnë këto nivele, si dhe për përfitimin e trajtimit për përgatitjen sportive”, i ndryshuar, shfuqizohet.
-4. Ngarkohen Ministria e Arsimit, Sportit dhe Rinisë dhe Ministria e Financave dhe Ekonomisë për zbatimin e këtij vendimi.
-Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

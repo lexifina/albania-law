@@ -1,1 +1,0 @@
-I. Dispozita të përgjithshme

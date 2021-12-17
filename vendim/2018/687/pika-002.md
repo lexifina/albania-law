@@ -1,1 +1,0 @@
-2. Sportistët gëzojnë statusin e sportistit të nivelit të lartë nga momenti i marrjes së rezultatit zyrtar në veprimtaritë ndërkombëtare apo kombëtare, sipas përcaktimeve të bëra në pikat 1.1 dhe 2.1, të kreut II, të këtij vendimi, deri në marrjen zyrtare të të njëjtit rezultat nga një sportist tjetër pasardhës.

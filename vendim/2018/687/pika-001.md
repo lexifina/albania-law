@@ -1,1 +1,0 @@
-1. Sportistët që kanë arritur rezultate të larta në aktivitete kombëtare apo ndërkombëtare, sipas përcaktimeve të këtij vendimi, konsiderohen sportistë të nivelit të lartë dhe gëzojnë status e trajtim të veçantë, sipas përcaktimeve të bëra në këtë vendim.

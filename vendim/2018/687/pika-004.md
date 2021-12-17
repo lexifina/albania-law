@@ -1,1 +1,0 @@
-4. Trajnerët e kontraktuar me kohë të pjesshme pranë klubeve sportive/shumësportesh do të paguhen në masën 500 (pesëqind) lekë për orë stërvitore dhe jo më shumë se 1 000 (një mijë) lekë në ditë për 25 (njëzet e pesë) ditë në muaj.
