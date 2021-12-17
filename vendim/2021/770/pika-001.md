@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për financimin e rindërtimit të shkollës 9-vjeçare “Demokracia”, Valias i Ri, Bashkia Kamzë, në masën 387 798 722 (treqind e tetëdhjetë e shtatë milionë e shtatëqind e nëntëdhjetë e tetë mijë e shtatëqind e njëzet e dy) lekë pa TVSH.
