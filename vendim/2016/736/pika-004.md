@@ -1,1 +1,0 @@
-4. Vlera e përgjithshme e shpronësimit, prej 1 401 137 (një milion e katërqind e një mijë e njëqind e tridhjetë e shtatë) lekësh, të përballohet nga llogaria “Fondi i shpronësimeve”, në Bankën e Shqipërisë. Shpenzimet procedurale, në vlerën 50 000 (pesëdhjetë mijë) lekë, të përballohen nga buxheti i vitit 2016, miratuar për Ministrinë e Zhvillimit Urban.
