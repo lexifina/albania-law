@@ -1,0 +1,1 @@
+2. Sinjalet e alarmit për njoftimin e hershëm të popullsisë, për marrjen e masave të menjëhershme, për mbrojtjen nga fatkeqësitë, të jenë të kuptueshme nga të gjitha kategoritë e popullsisë. Gjuha e përdorur të jetë e thjeshtë dhe të përdoren mesazhe me figura.

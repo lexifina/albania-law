@@ -1,0 +1,1 @@
+7. Institucionet publike dhe subjektet private, përgjegjëse për administrimin e sinjaleve të alarmit, vetëm ose në bashkëpunim me Agjencinë Kombëtare të Mbrojtjes Civile, sigurojnë trajnimin e personelit të tyre për mënyrën e përdorimit të sistemeve të alarmit.

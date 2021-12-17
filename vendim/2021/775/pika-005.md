@@ -1,0 +1,1 @@
+5. Në varësi të shtrirjes territoriale, sinjalet pamore të jenë jo më pak se një shenjë paralajmëruese për 1 000 banorë. Autoriteti përgjegjës për caktimin e vendeve, ku vendosen sinjalet e alarmit për ruajtjen dhe mbajtjen në gatishmëri, është prefekti i qarkut në bashkëpunim me kryetarin e bashkisë.
