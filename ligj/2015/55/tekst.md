@@ -4,7 +4,7 @@ Nr. 55/2015
 
 PËR INVESTIMET STRATEGJIKE NË REPUBLIKËN E SHQIPËRISË
 
-(Ndryshuar me ligjin nr. 67/2018, datë 4.10.2018; nr. 102/2018, datë 13.12.2018; nr. 89/2019,  datë 18.12.2019, nr. 142/2020, datë 3.12.2020)
+(ndryshuar me ligjin nr. 67/2018, datë 4.10.2018; nr. 102/2018, datë 13.12.2018; nr. 89/2019,  datë 18.12.2019, nr. 142/2020, datë 3.12.2020, nr. 130/2021, datë 20.12.2021)
 
 (i përditësuar)
 
@@ -244,7 +244,7 @@ Rregulla me të hollësishme në lidhje me këtë pikë përcaktohen me vendim t
 
 5. Rolin e Sekretariatit të Komitetit të Investimeve Strategjike e kryen Agjencia, e cila mundëson të gjithë mbështetjen e nevojshme për mbarëvajtjen e mbledhjeve. Për këtë qëllim, pranë Agjencisë ngrihet sekretariati teknik, përbërja dhe mënyra e funksionimit të të cilit përcaktohen në rregulloren për organizimin dhe funksionimin e Komitetit të Investimeve Strategjike.
 
-Neni10
+Neni 10
 
 Organet administrative
 
@@ -264,7 +264,7 @@ Organet administrative
 
 8. Ministria përgjegjëse për ekonominë monitoron veprimtarinë  e Agjencisë në rolin e “dritares unike”, në kuadër të zbatimit të detyrave funksionale e të ofrimit të shërbimeve për investitorin, të përcaktuara nga ky ligj,  si dhe treguesit e  cilësisë së shërbimeve që kryen Agjencia.
 
-Neni11
+Neni 11
 
 Strukturat administrative ndihmëse
 
@@ -588,9 +588,9 @@ Neni 36
 
 Afati përfundimtar i paraqitjes së kërkesave
 
-(ndryshuar afati ligjor me ligjin nr. 67/2018, datë 4.10.2018, nr. 89/2019, datë 18.12.2019, nr. 142/2020, datë 3.12.2020)
+(ndryshuar afati ligjor me ligjin nr. 67/2018, datë 4.10.2018, nr. 89/2019, datë 18.12.2019, nr. 142/2020, datë 3.12.2020, nr. 130/2021, datë 20.12.2021)
 
-Afati i fundit për paraqitjen e kërkesave nga subjektet investuese të interesuara për përfshirjen në procedurat për përfitimin e statusit “Investim/ investitor strategjik, procedurë e asistuar/e veçantë”, në zbatim të këtij ligji, është data 31 dhjetor 2021.
+Afati i fundit për paraqitjen e kërkesave nga subjektet investuese të interesuara për përfshirjen në procedurat për përfitimin e statusit “Investim/ investitor strategjik, procedurë e asistuar/e veçantë”, në zbatim të këtij ligji, është data 31 dhjetor 2023.
 
 Neni 37
 
