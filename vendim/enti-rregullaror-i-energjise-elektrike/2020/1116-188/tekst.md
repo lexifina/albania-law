@@ -4,6 +4,10 @@ Nr. 188, datë 16.11.2020
 
 MBI LICENCIMIN E SHOQËRISË “IDI 2005” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “KAMIÇAN”, ME KAPACITET TË INSTALUAR 1860 kW
 
+(Ndryshuar me vendimin nr. 259, datë 21.12.2021)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; nenit 4, pika 1, germa “a”; nenit 5, pika 1, germa “a”, dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, të ndryshuar, si dhe nenit 15, të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 16.11.2020, mbasi shqyrtoi relacionin nr. 119/5 prot., datë 12.11.2020, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes mbi aplikimin e shoqërisë “IDI 2005” sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike,
 
 konstatoi se: 
@@ -66,7 +70,7 @@ c) lejen për përdorim të burimit ujor, me nr. 1196 prot., datë 30.10.2018.
 
 3. Mos plotësimi i kushteve të parashikuara në pikën 2, të këtij vendimi, përbën shkak për rishikimin e vendimit nga ERE.
 
-4. Shoqëria “IDI 2005” sh.p.k. të depozitojë në ERE qëndrimin e OSSH sh.a. në lidhje me kërkesën për korrigjimin e gabimit material në miratimin e pikës së lidhjes nga OSSH sh.a., për kapacitet të instaluar 1860 kW, brenda 3 muajve nga hyrja në fuqi e këtij vendimi.
+4. Shfuqizuar.
 
 5. Shoqëria të depozitojë në ERE miratimin e lejes së ndërtimit, me qëllim plotësimin e kushtit të parashikuar në pikën 3.78, të VNM-së paraprake, lëshuar nga Agjencia Kombëtare e Mjedisit me nr. 7 vendimi, datë 11.2.2020, jo më vonë se data 11.2.2022.
 
