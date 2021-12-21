@@ -1,0 +1,1 @@
+7. Në përfundim të proceseve gjyqësore, në çdo shkallë të gjyqësorit, brenda një afati 5-ditor nga shpallja/njoftimi i vendimit, të paraqitet informacion i detajuar, i shoqëruar (aty ky është e mundur) me vendimet përkatëse në Ministrinë e Bujqësisë dhe Zhvillimit Rural.
