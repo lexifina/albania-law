@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve të Autoritetit të Komunikimeve Elektronike e Postare (AKEP), për vitin 2022, në shumën 384 700 000 (treqind e tetëdhjetë e katër milionë e shtatëqind mijë) lekë, sipas pasqyrës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
