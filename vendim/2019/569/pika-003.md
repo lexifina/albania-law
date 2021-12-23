@@ -3,6 +3,7 @@ II. KOMPETENCAT/PËRGJEGJËSITË FUNKSIONALE TË AGJENCISË KOMBËTARE TË BREGD
 AKB-ja ka këto kompetenca/përgjegjësi:
 a) Sigurimin e performancës në zonat bregdetare;
 b) Organizimin e punës për menaxhimin e integruar të zonës bregdetare;
+b/1) Sigurimin e zhvillimit të qëndrueshëm të zonës bregdetare, nëpërmjet ofrimit të shërbimit të pastrimit gjatë sezonit turistik, sipas kreut III/1, të këtij vendimi;
 c) Organizimin e punës për nxitjen e investimeve në zonën bregdetare;
 ç) Organizimin e punës për bashkërendimin e programeve, të projekteve zhvilluese me rëndësi për menaxhimin e integruar të zonës bregdetare;
 d) Sigurimin e zhvillimit të qëndrueshëm të turizmit, nëpërmjet inspektimit dhe kontrollit të veprimtarive turistike.
