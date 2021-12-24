@@ -1,0 +1,4 @@
+1. Punonjësit e administratës publike, punonjësit e supermarketeve dhe të qendrave tregtare, si një ndër kategoritë që rrezikohen dhe përbëjnë rrezik për të tjerët, me qëllim për të penguar përhapjen e infeksionit të shkaktuar nga Sars-Cov-2 (COVID-19), duhet të depozitojnë pranë qendrës së punës, duke filluar nga data 4.1.2022, një nga dokumentet e mëposhtme:
+a) certifikatë vaksinimi COVID-19, të lëshuar nga e-Albania, që vërteton vaksinimin e plotë, në formë digjitale apo të printuar;
+b) test PCR-je, çdo 5 ditë, të kryer sipas procedurës për kryerjen e testeve për efekte administrative, për të verifikuar që nuk janë mbartës të infeksionit Sars-Cov-2;
+c) certifikatë shërimi COVID-19 të lëshuar nga e-Albania ose dokument të lëshuar nga autoritetet shëndetësore të vendit, që provon shërimin nga infeksioni Sars-Cov-2, me vlefshmëri deri në 6 muaj pas shërimit.
