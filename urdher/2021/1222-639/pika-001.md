@@ -1,0 +1,1 @@
+1. Zbatimin e Rekomandimit GFCM/44/2021/1 të Komisionit të Përgjithshëm të Peshkimit për Mesdheun, “Për vendosjen e një regjimi sforco të peshkimit për speciet kryesore fundore në detin Adriatik (nënzonat gjeografike 17 dhe 18)”, që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
