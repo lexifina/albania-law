@@ -1,0 +1,1 @@
+3. Gjithashtu, udhëzuesi për aplikantët dhe formatet zyrtare të dokumenteve që duhet të përdoren (formulari i aplikimit, plani biznesit) mund të shkarkohen në versionin zyrtar nga data 10 dhjetor 2021, nga faqja e internetit: www.azhbr.gov.al, www.ipard.gov.al dhe www.bujqësia.gov.al.
