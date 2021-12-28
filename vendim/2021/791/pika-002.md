@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, që llogariten në shumën 413 658 000 (katërqind e trembëdhjetë milionë e gjashtëqind e pesëdhjetë e tetë mijë) lekë, përballohen nga fondi rezervë i buxhetit të shtetit për vitin 2021.
