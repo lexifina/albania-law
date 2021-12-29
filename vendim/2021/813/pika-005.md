@@ -1,0 +1,1 @@
+5. Mbledhja e të dhënave të pyetësorit të këshillimit kombëtar kryhet vetëm për qëllime statistikore, në përputhje me parashikimet e legjislacionit në fuqi për statistikat zyrtare dhe legjislacionin në fuqi për mbrojtjen e të dhënave personale.

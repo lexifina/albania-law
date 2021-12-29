@@ -1,0 +1,1 @@
+6. Rezultatet e përgjigjeve të pyetësorit të programit të “Këshillimit Kombëtar” bëhen publike nëpërmjet publikimit në media dhe në faqen zyrtare të Agjencisë për Dialog dhe Bashkëqeverisje, brenda 4 (katër) javëve nga momenti i përfundimit të afatit për dërgimin e përgjigjeve të pyetësorit.

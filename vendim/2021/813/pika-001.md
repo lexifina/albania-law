@@ -1,0 +1,1 @@
+1. Agjencisë për Dialog dhe Bashkëqeverisje, në buxhetin e miratuar për vitin 2021, në llogarinë ekonomike 604 “Transferta korente të brendshme”, i shtohet fondi prej 40 000 000 (dyzet milionë) lekësh, për financimin e programit të “Këshillimit Kombëtar”.
