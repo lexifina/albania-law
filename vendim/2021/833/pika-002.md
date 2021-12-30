@@ -1,0 +1,1 @@
+2. Agjencia Kombëtare për Rininë (në vijim “AKR”), si institucioni përgjegjës për rininë, administron RER-in dhe është dhënës i informacionit, në kuptim të legjislacionit për bazat e të dhënave shtetërore.

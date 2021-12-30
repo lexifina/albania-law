@@ -1,0 +1,1 @@
+5. Të dhënat e mbledhura nga RER-i mund të përdoren për kërkime shkencore e statistikore, analiza, vlerësime apo projekte të ndryshme, sipas legjislacionit në fuqi për mbrojtjen e të dhënave personale.
