@@ -1,0 +1,1 @@
+4. Vendimi nr. 776, datë 2.11.2016, i Këshillit të Ministrave, “Për shpalljen e qendrës historike të fshatit Bënjë dhe miratimin e rregullores për administrimin e saj e të zonës së mbrojtur përreth”, shfuqizohet.
