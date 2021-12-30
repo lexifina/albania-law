@@ -1,0 +1,4 @@
+4. Tregtari siguron që:
+a) të dhënat sipas pikës 3 t’u prezantohen konsumatorëve në mënyrë të qartë e të dukshme në çdo vend, ku autoveturat e reja janë të ekspozuara për qëllime promovuese. Të dhënat të jenë të vërteta, të sakta dhe të qarta, sipas informacionit të pasqyruar në etiketën, udhërrëfyesin, posterat, literaturën dhe materialet promovuese, reklama, që shoqërojnë autoveturën e re;
+b) të dhënat e prezantuara të mos kenë shenja, simbole ose mbishkrime, në lidhje me konsumin e lëndës djegëse ose shkarkimet e CO2, që nuk janë në përputhje me kërkesat e këtij vendimi, si dhe të mos shkaktojnë konfuzion për konsumatorin e mundshëm të autoveturave të reja;
+c) dokumentacioni promovues për shitjen e autoveturave të reja të orientojë konsumatorët në vendimmarrjen e tyre të blerjes në pikën e shitjes, për modelin e autoveturave të reja, i cili gjendet në atë pikë shitjeje e që përdor më pak lëndë djegëse dhe, për pasojë, shkarkon më pak CO2 në mjedis.

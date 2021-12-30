@@ -1,0 +1,1 @@
+6. Etiketa të jetë në gjuhën shqipe e në përputhje me kërkesat e përcaktuara në shtojcën I, që i bashkëlidhet këtij vendimi. Etiketa vendoset ose shfaqet në mënyrë të qartë e të dukshme, pranë çdo modeli të ri autoveture në pikën e shitjes.

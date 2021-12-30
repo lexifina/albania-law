@@ -1,0 +1,1 @@
+10. Tregtari siguron që literatura promovuese të ndryshme nga ato në pikën 9, të këtij vendimi, për secilin model të autoveturave të reja që ofrohen për shitje, të përmbajë të dhëna për konsumin zyrtar të lëndës djegëse dhe për shkarkimet specifike zyrtare të CO2.
