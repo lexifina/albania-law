@@ -129,7 +129,7 @@ programit në momentin e vlerësimit e të akreditimit të tyre.
 4. Tarifat që paguajnë IAL-të, në kuadër të plotësimit të kushteve apo për vlerësimin paraprak në kuadër të hapjes dhe/ose riorganizimit të institucioneve të arsimit të lartë e të programeve të studimit është në masën 30% të tarifës bazë të parashikuar për vlerësimin e jashtëm të IAL-së dhe/ose programit të studimit, sipas tabelave 2/a dhe 2/b.
 5. Programet e studimit sipas pikës 5, të nenit 35, të ligjit nr.80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”, paguajnë 50% të tarifës së vlerësimit dhe akreditimit të programit të të njëjtit cikël dhe lloj.
 6. Për vlerësimin e kërkesës dhe miratimin e agjencisë së huaj të vlerësimit, sipas pikës 3, të nenit 15, të ligjit nr.80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”, tarifa është në masën 120 000 lekë.
-7. Për shqyrtimin e vlerësimit të jashtëm dhe vendimmarrjen e akreditimit që kryhet sipas pikës 3, të nenit 15, të ligjit nr. 80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”, tarifa është në masën 180 000 lekë.
+7. Për shqyrtimin e vlerësimit të jashtëm dhe vendimmarrjen e akreditimit që kryhet sipas pikës 3, të nenit 15, të ligjit nr.80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”, tarifa është në masën 180 000 lekë.
 8. Tarifa për shqyrtimin e aplikimit për vlerësim në kuadër të akreditimit është në masën 3 000 lekë.
 9. Llogaritja e tarifës për çdo vlerësim të kërkuar nga IAL-të bëhet nga ASCAL dhe i njoftohet IAL-së, e cila para fillimit të procesit të vlerësimit e arkëton pranë bankave të nivelit të dytë për llogari të ASCAL-it, në degën e thesarit Tiranë.
 10. Tarifat për shërbime të tjera të ofruara nga ASCAL, për individë, ekspertë apo institucione, janë të parashikuara në tabelën 2/c.
@@ -166,46 +166,46 @@ Universitet me 1-2 fusha studimi, deri në 2000 studentë
 1 888 625 lekë
 Tarifa bazë rritet me 10% për çdo fushë të shtuar dhe 5% për çdo 2000 studentë mbi atë që parashikon tarifa bazë
 (Tarifa bazë + 10% të tarifës bazë për çdo fushë studimi +5% të tarifës bazë për çdo 2000 studentë plus)
-Tabela 2/b: Tarifat për vlerësimin e jashtëm dhe akreditimin e programeve të studimit
+Tabela 2/b Tarifat për vlerësimin e jashtëm dhe akreditimin e programeve të studimit
 Nr.
 Programet e studimit
 Tarifa
 1
 2-vjeçar profesional
-204 260 lekë
+173 621
 2
 Bachelor
-265 585 lekë
+225 747
 3
 Bachelor 4-vjeçar
-326 910 lekë
+277 874
 4
-Master Profesional 1 vit
-204 260 lekë
+Master profesional 1 vit
+173 621
 5
-Master Profesional 2 vite
-265 585 lekë
+Master profesional 2 vjet
+225 747
 6
-Master i Shkencave
-428 844 lekë
+Master i shkencave
+364 517
 7
-Master i Shkencave i Integruar
-706 994 lekë
+Master i shkencave i integruar
+600 945
 8
 Master ekzekutiv 1 vit
-362 844 lekë
+308 417
 9
-Master ekzekutiv 2 vite
-428 844 lekë
+Master ekzekutiv 2 vjet
+364 517
 10
-SPA 2 vite
-428 844 lekë
+SPA 2 vjet
+364 517
 11
-SPA 3-4 vite
-567 919 lekë
+SPA 3-4 vjet
+482 731
 12
 Doktoratë
-718 224 lekë
+610 490
 Tabela 2/c: Tarifa për shërbime të tjera
 Nr.
 Përshkrimi
