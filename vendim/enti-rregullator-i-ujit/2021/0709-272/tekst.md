@@ -4,6 +4,10 @@
 
 	PËR LICENCIMIN E SHOQËRISË UJËSJELLËS-KANALIZIME KRUJË SHA
 
+(Ndryshuar me vendimin nr. 535, datë 30.12.2021)
+
+(I përditësuar)
+
 Në mbështetje të nenit 13, 14, 15, 16 dhe 17, të ligjit nr. 8102, datë 28.3.1996, “Për kuadrin rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, të ndryshuar (ligji nr. 8102); të VKM-së nr. 958, datë 6.5.2009, “Për miratimin e kategorive të licencimit dhe të procedurave për aplikim për licencë” (VKM-ja nr. 958), si dhe të vendimit të Komisionit Kombëtar Rregullator nr. 29, datë 8.12.2009, “Për procedurat e dhënies dhe rinovimit të licencave profesionale për subjektet juridike e fizike që ushtrojnë veprimtari në sektorin e furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, të ndryshuar (Rregullore e licencimit), 
 
 Komisioni Kombëtar Rregullator,
@@ -40,7 +44,7 @@ VENDOSI:
 
 	2. Shoqëria Ujësjellës-Kanalizime Krujë sh.a. autorizohet të kryejë veprimtaritë e licencuara me:
 
-	a) Drejtues ligjor: Ledio Çela;
+	a) Drejtues ligjor: z. Edi Salaj;
 
 	b) Drejtues teknik: Alfred Avllaj.
 
