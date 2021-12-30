@@ -1,0 +1,1 @@
+1. Miratimin e dokumentacionit shoqërues të formularit, afateve dhe procedurës së shqyrtimit të kërkesës për pajisje me deklaratë të kontrollit të detajuar ndaj kërkimit shkencor për burimet gjenetike, si dhe të deklaratës për arritjen e fazës së zhvillimit përfundimtar të kërkimit shkencor, sipas përcaktimeve të këtij vendimi.

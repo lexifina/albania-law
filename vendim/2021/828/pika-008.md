@@ -1,0 +1,1 @@
+8. Pas vlerësimit pozitiv nga struktura përgjegjëse, ministri miraton me urdhër deklaratën për arritjen e fazës së zhvillimit përfundimtar të kërkimit shkencor të burimeve gjenetike brenda 10 (dhjetë) ditëve.

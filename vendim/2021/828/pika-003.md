@@ -1,0 +1,1 @@
+3. Formulari i kërkesës së bashku me dokumentacionin shoqërues të përcaktuar në pikën 2, të këtij vendimi, depozitohet pranë strukturës përgjegjëse në ministri, e cila e shqyrton brenda 15 (pesëmbëdhjetë) ditëve nga data e dorëzimit.

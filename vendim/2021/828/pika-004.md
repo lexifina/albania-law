@@ -1,0 +1,1 @@
+4. Në rast se gjatë shqyrtimit të kërkesës struktura përgjegjëse pranë ministrisë konstaton se dokumentacioni i depozituar sipas pikës 2, të këtij vendimi, nuk është i plotë, njofton me shkrim palën kërkuese për plotësimin e të metave brenda 10 (dhjetë) ditëve.
