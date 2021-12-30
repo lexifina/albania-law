@@ -1,0 +1,1 @@
+12. Kur veprimtaria kërkimore-shkencore kërkohet në Fondin Pyjor të Zonave të Mbrojtura Mjedisore, zbatohen përcaktimet e bëra në vendimin nr. 302, datë 10.5.2019, të Këshillit të Ministrave, “Për kriteret e ushtrimit, të miratimit e monitorimit të veprimtarive kërkimore-shkencore në zonat e mbrojtura mjedisore”.

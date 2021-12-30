@@ -1,0 +1,1 @@
+4. Për miratimin e veprimtarisë kërkimore-shkencore në fondin pyjor bashkiak, si pjesë e Fondit Pyjor Kombëtar, institucionet arsimore e shkencore dhe/ose subjektet fizike e juridike paraqesin kërkesën me shkrim për miratim pranë bashkisë përkatëse, që ka në pronësi këtë fond.

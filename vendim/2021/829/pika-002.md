@@ -1,0 +1,1 @@
+2. Veprimtaritë kërkimore-shkencore në fushën e pyjeve kryhen nga institucione arsimore e shkencore, subjekte fizike e juridike, që përmbushin kushtet dhe kriteret, sipas legjislacionit të posaçëm në fushën kërkimore-shkencore, duke konsideruar edhe respektimin e barazisë gjinore.

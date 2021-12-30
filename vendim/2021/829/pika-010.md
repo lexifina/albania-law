@@ -1,0 +1,1 @@
+10. Në rastet e studimeve, marrjes dhe programeve të tjera lidhur me përdorimin e bazës gjenetike të florës/faunës, bashkia për dhënien e miratimit për ushtrimin e veprimtarisë së kërkimit shkencor në Fondin Pyjor Kombëtar dhe subjekti që ushtron këtë veprimtari duhet të bazohen në kërkesat e ligjit nr. 9587, datë 20.7.2006, “Për mbrojtjen e biodiversitetit”, të ndryshuar.
