@@ -1,0 +1,1 @@
+2. Efekti financiar sipas pikës 1, të këtij vendimi, në masën 13 600 000 (trembëdhjetë milionë e gjashtëqind mijë) lekë, përballohet nga buxheti i Ministrisë së Kulturës, i miratuar për vitin 2021, në artikullin 604 “Transferta të brendshme”, të programit “Arti dhe kultura”.

@@ -1,0 +1,1 @@
+1. Qendrës Kombëtare të Kinematografisë, në buxhetin e miratuar për vitin 2021, t’i shtohet fondi prej 13 600 000 (trembëdhjetë milionë e gjashtëqind mijë) lekësh, në formën e grantit për Akademinë e Filmit dhe Multimedias “Marubi”, për mbështetjen e veprimtarive krijuese.
