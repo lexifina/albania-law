@@ -1,0 +1,1 @@
+7. Drejtori i Përgjithshëm i Policisë së Shtetit, pas marrjes së dakordësisë, nxjerr urdhrin e pezullimit të punonjësit. Urdhri i pezullimit i përcillet institucionit kërkues, i cili vijon me procedurën e emërimit.

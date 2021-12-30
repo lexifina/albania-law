@@ -1,0 +1,1 @@
+9. Departamenti i Administratës Publike, brenda 5 (pesë) ditëve kalendarike nga marrja e kërkesës, e përcjell atë pranë Drejtorit të Përgjithshëm të Policisë së Shtetit, me qëllim dërgimin e kandidaturës që plotëson kriteret e kërkuara.

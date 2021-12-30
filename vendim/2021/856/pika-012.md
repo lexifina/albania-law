@@ -1,0 +1,10 @@
+12. Vlerësimi i performancës së punonjësit bëhet sipas procedurës së përcaktuar në legjislacionin që rregullon marrëdhënien e punës së pozicionit ku punonjësi i policisë është transferuar.
+KREU II
+RIKTHIMI NË POLICINË E SHTETIT TË PUNONJËSVE TË POLICISË SË SHTETIT TË TRANSFERUAR NË STRUKTURA TË TJERA TË ADMINISTRATËS SHTETËRORE
+1. Punonjësit e Policisë së Shtetit të emëruar/transferuar në struktura të institucioneve të administratës shtetërore, sipas këtij vendimi, pas mbarimit të afatit, emërohen në detyrë brenda strukturave të Policisë së Shtetit, në përputhje me kualifikimin profesional dhe gradën policore që mbajnë.
+2. Për rikthimin në strukturat e Policisë së Shtetit, institucioni në të cilin është emëruar punonjësi, i cili nuk është pjesë e shërbimit civil, paraqet në Drejtorinë e Përgjithshme të Policisë së Shtetit kërkesën me shkrim për rikthimin e tij. Drejtori i Përgjithshëm i Policisë së Shtetit ka të drejtë që, për nevoja pune, të kërkojë rikthimin e punonjësit në Policinë e Shtetit, para plotësimit të afatit të transferimit, por jo më parë se 6 (gjashtë) muaj nga transferimi.
+3. Drejtori i Përgjithshëm i Policisë së Shtetit, pas marrjes së kërkesës për rikthimin e punonjësit, procedon me emërimin e tij brenda strukturave të Policisë së Shtetit.
+4. Për pozicionet e punës, të cilat përfshihen në shërbimin civil, njësia e burimeve njerëzore të institucionit kërkues, njofton Departamentin e Administratës Publike për përfundimin e afatit përkohshmërisë së pozicionit ku është emëruar punonjësi. Departamenti i Administratës Publike njofton Drejtorin e Përgjithshëm të Policisë së Shtetit për rikthimin e punonjësit.
+5. Kur rikthimi në Policinë e Shtetit bëhet pas një periudhe mbi 1 (një) vit kërkohet vërtetimi i besueshmërisë.
+6. Ngarkohen Ministria e Brendshme, Drejtoria e Përgjithshme e Policisë së Shtetit, Departamenti i Administratës Publike dhe strukturat e tjera shtetërore të cilat kanë në organikë funksione që mund të kryhen profesionalisht nga punonjës të Policisë së Shtetit, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+5. Për rastet e përcaktuara në pikën 4, të këtij kreu, Drejtori i Përgjithshëm i Policisë së Shtetit, brenda 10 (dhjetë) ditëve kalendarike nga marrja e kërkesës, për çdo funksion të kërkuar nga institucionet kërkuese, përzgjedh kandidaturën që plotëson kriteret e kërkuara dhe e përcjell atë tek institucioni kërkues së bashku me dokumentacionin shoqërues.

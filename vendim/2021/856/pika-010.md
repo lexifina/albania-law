@@ -1,0 +1,1 @@
+10. Drejtori i Përgjithshëm i Policisë së Shtetit, brenda 10 (dhjetë) ditëve kalendarike nga marrja e kërkesës, sipas përcaktimit të pikës 9, të këtij kreu, përcjell kandidaturën e përzgjedhur pranë Departamentit të Administratës Publike.
