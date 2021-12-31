@@ -1,0 +1,1 @@
+3. Autoritetet përgjegjëse shtetërore për trajtimin e të huajve, në përputhje me parashikimet e ligjit nr. 79/2021, “Për të huajt”, mbledhin, administrojnë, hedhin e përditësojnë të dhënat personale për të huajt në këtë regjistër.

@@ -1,0 +1,1 @@
+2. Administrimi i të dhënave të regjistrit bëhet nga struktura përgjegjëse për menaxhimin e informacionit e mbrojtjen e të dhënave në Drejtorinë e Përgjithshme të Policisë së Shtetit. Administrimi teknik i infrastrukturës hardware dhe software të sistemit bëhet nga Agjencia Kombëtare e Shoqërisë së Informacionit (AKSHI).

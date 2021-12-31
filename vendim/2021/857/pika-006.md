@@ -1,0 +1,1 @@
+6. Struktura informatike e ruajtjes së të dhënave të REKH-it është subjekt i ndryshimeve të mëvonshme, për qëllime mirëmbajtjeje, përmirësimi, të cilat nuk prekin integritetin e të dhënave dhe kanë pjesë të tyre të gjitha modulet e përmendura më lart.

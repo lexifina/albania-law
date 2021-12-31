@@ -1,0 +1,1 @@
+1. Regjistri Elektronik Kombëtar për të Huajt (në vijim “REKH”) është një bazë të dhënash shtetërore, që përmban të dhëna për të huajt, të cilët hyjnë ose synojnë të hyjnë në Republikën e Shqipërisë, me qëllim qëndrimin, kalimin tranzit, punësimin, studimin, si dhe daljen nga Republika e Shqipërisë.
