@@ -1,0 +1,1 @@
+4. Komiteti Olimpik Kombëtar Shqiptar (KOKSH) raporton, periodikisht, mbi bazë katërmujore pranë Ministrisë së Arsimit dhe Sportit, mbi ecurinë e aktiviteteve/produkteve dhe realizimin financiar të projektit.
