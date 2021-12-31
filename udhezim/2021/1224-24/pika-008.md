@@ -1,0 +1,2 @@
+8. Ngarkohen për zbatimin e këtij udhëzimi, Sekretari i Përgjithshëm i Ministrisë së Arsimit dhe Sportit, Drejtoria e Përgjithshme e Politikave dhe Zhvillimit të Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme Rregullatore dhe Përputhshmërisë për Arsimin, Sportin dhe Rininë, Drejtoria e Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse si dhe Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

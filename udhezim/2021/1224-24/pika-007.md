@@ -1,0 +1,1 @@
+7. Shpenzimet për mbarëvajtjen e punës të anëtarëve përfaqësues të Ministrisë së Arsimit dhe Sportit në Komisionin e Përbashkët, përfshirë udhëtimin, akomodimin dhe dietat për realizimin e takimeve të përbashkëta mbulohen nga buxheti i Ministrisë së Arsimit dhe Sportit, sipas legjislacionit në fuqi.

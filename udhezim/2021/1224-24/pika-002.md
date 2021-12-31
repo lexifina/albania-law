@@ -1,0 +1,1 @@
+2. Hartimi dhe ndjekja e procedurave të konkursit për tekstin e vetëm të përbashkët “Abetare”, deri në miratimin e tekstit fitues, do të realizohet nga një Komision i Përbashkët mbi bazën e programit të përbashkët të nënshkruar për këtë qëllim, ndërmjet ministrit përgjegjës për arsimin në Republikën e Shqipërisë dhe ministrit përgjegjës për arsimin në Republikën e Kosovës.

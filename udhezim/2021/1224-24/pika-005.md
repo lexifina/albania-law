@@ -1,0 +1,1 @@
+5. Ankesat për procedurat e organizimit të konkursit për tekstin e vetëm të përbashkët “Abetare”, paraqiten pranë Komisionit të Përbashkët nga subjekti botues respektiv i secilit shtet. Komisioni shqyrton ankimin brenda 15 ditëve dhe shprehet me vendim në lidhje me ankesën.

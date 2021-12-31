@@ -1,0 +1,1 @@
+1. Realizimin e procedurave të konkursit për përzgjedhjen e tekstit të vetëm të përbashkët “Abetare”, që do të përdoret në Republikën e Shqipërisë dhe në Republikën e Kosovës, duke filluar nga viti shkollor 2022-2023, e në vijim, nëpërmjet një konkurrimi të hapur, të barabartë dhe transparent, mbi bazën e standardeve të përbashkëta të abetares.
