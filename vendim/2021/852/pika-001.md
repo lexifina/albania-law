@@ -1,0 +1,1 @@
+1. Kompensimin financiar të pronarëve të pasurisë së paluajtshme, pronë private, për sipërfaqen takuese, të zënë nga objekti i legalizuar në drejtorinë vendore të Agjencisë Shtetërore të Kadastrës Tiranë Jug, në emër të Fondit Shqiptar të Zhvillimit (FSHZH).
