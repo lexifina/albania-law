@@ -1,0 +1,1 @@
+2. Me hyrjen në fuqi të këtij vendimi, Ministria e Infrastrukturës dhe Energjisë vijon procedurat për dërgimin e studimit të ri të fizibilitetit për mendim dhe shqyrtim pranë Ministrisë së Financave dhe Ekonomisë.
