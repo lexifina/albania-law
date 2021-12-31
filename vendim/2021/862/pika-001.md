@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga vendosja e servitutit të kalimit, pjesë e projektit të gazsjellësit Trans Adriatik Pipeline (projekti TAP), në zonat Berat, Skrapar, Fier, Lushnjë, Devoll dhe Korçë.

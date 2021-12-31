@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme të kompensohen, në vlerë të plotë, sipas masës së kompensimit përkatës të paraqitur në tabelën bashkëlidhur këtij vendimi, me një vlerë të përgjithshme prej 1 948 630.36 (një milion e nëntëqind e dyzet e tetë mijë e gjashtëqind e tridhjetë pikë tridhjetë e gjashtë) lekësh.
