@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja ndryshuese me shkëmbim notash të marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Italisë, për zbatimin e programit për përgatitjen e studimeve të fizibilitetit dhe hartimit në nivel përfundimtar dhe studimin e impaktit mjedisor në sektorin e infrastrukturave, ratifikuar me ligjin nr. 86/2016, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
