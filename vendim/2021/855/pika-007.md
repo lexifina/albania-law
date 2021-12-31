@@ -1,0 +1,1 @@
+7. Institucioni strehues duhet të plotësojë nevojat e domosdoshme për akomodim, duke pasur parasysh grup-moshat, me prioritet fëmijët, fëmijët e pashoqëruar, grupet vulnerabël, të cilët kanë nevojë për trajtime të veçanta.

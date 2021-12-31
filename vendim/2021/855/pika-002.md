@@ -1,0 +1,1 @@
+2. Për trajtimin e kërkuesve të mbrojtjes ndërkombëtare në Qendrën e Pritjes për Azil zbatohen standardet e shërbimeve të përkujdesjes shoqërore, që mbështeten në paketën e standardeve të përgjithshme të shërbimeve, sipas legjislacionit në fuqi.

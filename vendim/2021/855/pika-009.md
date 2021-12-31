@@ -1,0 +1,1 @@
+9. Niveli i kuotave financiare për shpenzimet ditore të kërkuesit të mbrojtjes ndërkombëtare përcaktohen me udhëzim të ministrit përgjegjës për çështjet sociale, të ministrit përgjegjës për financat dhe të ministrit përgjegjës për azilin e refugjatët. Këto efekte financiare përballohen nga ministria përgjegjëse për azilin dhe refugjatët.

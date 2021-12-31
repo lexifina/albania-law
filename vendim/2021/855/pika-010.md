@@ -1,0 +1,1 @@
+10. Në rast fluksi dhe mungese kapaciteti strehues, ministria përgjegjëse për azilin dhe refugjatët, rast pas rasti, me marrëveshje të përbashkët me ministrinë përgjegjëse për çështjet sociale, strehon kërkuesit e mbrojtjes ndërkombëtare në qendrat rezidenciale publike.

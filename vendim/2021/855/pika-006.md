@@ -1,0 +1,1 @@
+6. Fëmijët marrin një dietë të shëndetshme, ushqyese dhe të ekuilibruar sipas nevojave të tyre të rritjes e të zhvillimit të nevojave kulturore dhe fetare. Lëngje të shëndetshme sigurohen në çdo kohë dhe ofrohen sipas kërkesës së fëmijëve. Në çdo rast duhet të garantohet këshillimi me mjekun.
