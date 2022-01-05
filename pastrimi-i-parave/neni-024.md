@@ -6,7 +6,7 @@ b) Autoriteti i Mbikëqyrjes Financiare, për subjektet e përcaktuara në shkro
 c) ministritë dhe/ose autoritetet përkatëse për mbikëqyrjen e subjekteve të përcaktuara në shkronjat “f”, “g”, “gj”, “h”, “i”, “k” dhe “l”, të nenit 3, të këtij ligji;
 ç) Dhoma Kombëtare e Avokatisë për avokatët;
 d) Ministria e Drejtësisë për noterët;
-dh) shfuqizuar.
+dh) Bordi i Mbikëqyrjes Publike për audituesit ligjorë dhe kontabilistët e miratuar.
 2. Autoritetet mbikëqyrëse mbikëqyrin, nëpërmjet inspektimeve, përputhshmërinë e veprimtarisë së subjekteve me detyrimet e parashikuara në këtë ligj. Për qëllimin e këtij ligji, pavarësisht nga parashikimet e ligjeve të tjera, autoritetet mbikëqyrëse mund të kërkojnë nga subjektet akses dhe vënien në dispozicion të çdo lloj informacioni dhe dokumenti që lidhet me përputhshmërinë e detyrimeve të subjekteve në zbatim të këtij ligji.
 3. Autoritetet mbikëqyrëse i raportojnë menjëherë autoritetit përgjegjës çdo dyshim, informacion ose të dhënë, që lidhet me pastrim parash ose financim terrorizmi, për veprimtaritë nën juridiksionin e tyre.
 4. Autoritetet mbikëqyrëse kryejnë edhe këto detyra:
