@@ -1,0 +1,26 @@
+{
+  "qbz_id": 23918,
+  "title": "Për deklasifikimin plotësisht të informacioneve (dosjeve) të klasifikuara “Sekret shtetëror”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "4",
+  "institution": "Drejtoria e Përgjithshme e Arkivave",
+  "adopted": "2021-12-24",
+  "published": "2022-01-05",
+  "in_force": "2022-01-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d09805f00446e03eaaddfa22b22d57b752ba26999823896a76ed70d57315308c.docx",
+  "source_sha256": "d09805f00446e03eaaddfa22b22d57b752ba26999823896a76ed70d57315308c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23918",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/12/24/4",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
