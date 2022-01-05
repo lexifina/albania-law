@@ -1,0 +1,1 @@
+7. Pronarët e pasurive të paluajtshme, pronë private, që pasqyrohen në tabelën që i bashkëlidhet këtij vendimi, kompensohen, për efekt shpronësimi, pasi kanë paraqitur dokumentacionin për likuidim, certifikatën e pronësisë, kartelën e pasurisë, si dhe hartën treguese të regjistrimit, pranë Autoritetit Rrugor Shqiptar.
