@@ -1,0 +1,5 @@
+VENDIM
+Nr. 869, datë 29.12.2021
+PËR MIRATIMIN E MARRËVESHJES NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE KONFEDERATËS ZVICERANE, PËRFAQËSUAR NGA AGJENCIA ZVICERANE PËR ZHVILLIM DHE BASHKËPUNIM (SDC) E DEPARTAMENTIT FEDERAL TË PUNËVE TË JASHTME TË ZVICRËS, E CILA VEPRON PËRMES AMBASADËS ZVICERANE NË SHQIPËRI, PËR PROJEKTIN “SHKOLLAT PËR SHËNDETËSI”, FAZA E PARË, MARS 2021-SHKURT 2025, NJË PROJEKT DYPALËSH BASHKËPUNIMI DHE ZHVILLIMI
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 19, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e ministrit të Shëndetësisë dhe Mbrojtjes Sociale dhe të ministrit të Arsimit dhe Sportit, Këshilli i Ministrave
+VENDOSI:

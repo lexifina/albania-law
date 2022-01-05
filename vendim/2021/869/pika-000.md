@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Konfederatës Zvicerane, përfaqësuar nga Agjencia Zvicerane për Zhvillim dhe Bashkëpunim (SDC) e Departamentit Federal të Punëve të Jashtme të Zvicrës, e cila vepron përmes Ambasadës Zvicerane në Shqipëri për projektin “Shkollat për shëndetësi”, faza e parë, mars 2021-shkurt 2025, një projekt dypalësh bashkëpunimi dhe zhvillimi, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
