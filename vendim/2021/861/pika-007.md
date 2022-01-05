@@ -1,0 +1,1 @@
+7. Aplikimi për leje/licenca dhe autorizimet e nevojshme për realizimin e projektit strategjik “Marina dhe jahtet e Durrësit (Durrës Yachts & Marina)”, në përputhje me afatet e parashikuara, do të realizohen sipas legjislacionit për investimet strategjike.

@@ -1,0 +1,1 @@
+5. Përdorimi i pronës së paluajtshme shtetërore për projektin strategjik “Marina dhe jahtet e Durrësit (Durrës Yachts & Marina)” të realizohet sipas fazave të përcaktuara në vendimin nr. 14/6, datë 2.12.2021, të Komitetit të Investimeve Strategjike, i cili fillon me fazën e zhvillimit pilot.

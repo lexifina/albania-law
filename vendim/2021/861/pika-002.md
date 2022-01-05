@@ -1,0 +1,1 @@
+2. Ndryshimin e përgjegjësisë së administrimit, nga Autoriteti Portual Durrës te Ministria e Financave dhe Ekonomisë, të pasurive të paluajtshme të përcaktuara në shtojcën 1 dhe në planvendosjen, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
