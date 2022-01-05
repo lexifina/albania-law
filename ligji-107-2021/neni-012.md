@@ -1,0 +1,16 @@
+# Neni 12
+Kompetencat e Agjencisë për Dialog dhe Bashkëqeverisje
+Agjencia për Dialog dhe Bashkëqeverisje, më poshtë “Agjencia”, ka këto kompetenca:
+a) zhvillon mekanizmat dhe monitoron zbatimin e tyre për gjithëpërfshirjen e qytetarëve në politikëbërje, garantimin e pjesëmarrjes së tyre në procedurat administrative vendimmarrëse dhe rritjen e përgjegjshmërisë e të llogaridhënies së administratës shtetërore;
+b) koordinon nëpërmjet mekanizmave të posaçëm institucionalë institucionet e administratës shtetërore për zhvillimin e praktikave të mira dhe përdorimin e tyre në të gjithë administratën shtetërore për gjithëpërfshirjen e çdo qytetari në politikëbërje, garantimin e pjesëmarrjes së tyre në procedurat administrative vendimmarrëse dhe rritjen e përgjegjshmërisë e të llogaridhënies së administratës shtetërore;
+c) publikon dhe informon publikun në mënyrë të vazhdueshme për çdo veprimtari për rritjen e rolit të qytetarëve në përmirësimin e cilësisë së ofrimit të shërbimeve publike, si dhe ndërmarrjen e nismave, të projekteve ose të programeve të përbashkëta, që kanë si qëllim përfshirjen e qytetarëve në bashkëqeverisje dhe mënyrën e pjesëmarrjes së qytetarëve në to;
+ç) informon për rregullat dhe procedurat që duhet të ndiqen për ndërmarrjen e nismave me interes publik, në përmbushje të qëllimeve të këtij ligji;
+d) kërkon dhe merr nga institucionet e administratës shtetërore çdo informacion të nevojshëm për përmbushjen e përgjegjësive të saj;
+dh) shqyrton kërkesat dhe organizon në bashkëpunim me institucionin përkatës të administratës shtetërore interpelancat e Kryeministrit, të zëvendëskryeministrit dhe të ministrave me grupet e interesit, sipas kërkesës së tyre, për çështje me interes publik ose komunitar, me përjashtim të takimeve publike që organizohen sipas ligjit për njoftimin dhe konsultimin publik;
+e) rekomandon ndryshimin e rregullave dhe të procedurave të brendshme të institucioneve ose të strukturës së tyre, si dhe i propozon institucionit përgjegjës ndërmarrjen e nismës për ndryshimin e akteve ligjore ose nënligjore në rastet kur çmon se ofrimi i shërbimeve publike nuk mund të realizohet me efektivitet për shkak të pengesave që krijohen nga rregullat dhe procedurat e brendshme, nga struktura e institucionit të administratës shtetërore ose aktet ligjore ose nënligjore në fuqi;
+ë) kontrollon veprimtarinë administrative që kryhet nga institucionet e administratës shtetërore për ofrimin e shërbimeve publike sipas rregullave dhe procedurave të përcaktuara në këtë ligj;
+f) ndërmjetëson zgjidhjen e mosmarrëveshjeve ndërmjet institucionit të administratës shtetërore, qytetarëve apo subjekteve private sipas përcaktimeve të këtij ligji;
+g) inspekton zbatueshmërinë e detyrimeve të parashikuara në këtë ligj, si dhe monitoron ndjekjen e masave të dhëna në zbatim të nenit 56 të tij;
+gj) administron bazën e të dhënave të platformës “Me ty për Shqipërinë që duam” dhe propozon ndryshime në varësi të nevojës për përmirësim të platformës;
+h) administron bazën e të dhënave të Sistemit të Qarkullimit të Dokumenteve me Nënshkrim Elektronik dhe propozon ndryshime në varësi të nevojës për përmirësim;
+i) ushtron çdo kompetencë tjetër të përcaktuar nga legjislacioni në fuqi.

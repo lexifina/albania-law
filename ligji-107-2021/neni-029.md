@@ -1,0 +1,4 @@
+# Neni 29
+“Interpelanca ime”
+1. Nëpërmjet platformës në seksionin “Interpelanca ime” një komunitet, grup interesi, shkollë apo universitet, i përbërë nga së paku 50 persona, paraqesin kërkesat e tyre për takim publik sipas parashikimeve të nenit 17, pika 3, shkronja “dh”, të këtij ligji për çështje që kanë të bëjnë me shërbimet publike, si dhe për të gjitha problematikat që lidhen me veprimtarinë e administratës ose me politikat e qeverisë dhe që prekin ata ose komunitetin e tyre. Këto kërkesa, pas vlerësimit paraprak, shqyrtohen nga Agjencia në bashkëpunim me institucionin përkatës, të cilët organizojnë së bashku me Agjencinë një kalendar të përcaktuar dhe të publikuar në platformë për zhvillimin e interpelancës.
+2. Pas përfundimit të interpelancës, pjesëmarrësit njoftohen nëpërmjet platformës për realizueshmërinë e angazhimeve çdo 30 ditë kalendarike deri në trajtimin e plotë të çështjes apo të çështjeve të trajtuara në interpelancë.

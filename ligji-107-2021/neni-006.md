@@ -1,0 +1,3 @@
+# Neni 6
+Parimi i rritjes së aksesit në shërbimet publike
+Institucionet e administratës shtetërore, në përputhje me kompetencat e tyre dhe në përmbushje të parimit të bashkëpunimit ndërinstitucional, duhet të garantojnë përfitimin e shërbimeve publike ndaj çdo shtetasi, pavarësisht nga gjinia, raca, feja, etnia, gjuha, bindjet politike, fetare a filozofike, gjendja ekonomike, arsimore, sociale ose përkatësia prindërore, nëpërmjet procedurave administrative të thjeshta dhe transparente, të cilat nëpërmjet zgjidhjeve inovative e teknologjike mundësojnë një akses më të madh të qytetarëve në shërbimet publike.

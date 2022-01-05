@@ -1,0 +1,5 @@
+# Neni 25
+“Biznesi im”
+1. Nëpërmjet platformës në seksionin “Biznesi im” paraqiten ankesa ose kërkesa të lidhura me veprimtarinë e administratës shtetërore, që ndikojnë drejtpërdrejt veprimtarinë tregtare të ankuesit dhe që janë të njëjta me ato të parashikuara në nenin 24 të këtij ligji.
+2. Afati i trajtimit të ankesave është 10 ditë pune nga data e regjistrimit të ankesës. Për arsye objektive, për shkak të kompleksitetit të çështjes apo të nevojës për ndërveprim ndërinstitucional, kur çështja nuk mund të shqyrtohet brenda afatit prej 10 ditësh pune, institucioni i administratës shtetërore informon Agjencinë për kohën e nevojshme dhe kërkon shtyrjen e afatit me jo më shumë se 10 ditë të tjera pune, shtyrje që miratohet nga Agjencia jo më shumë se dy herë.
+3. Agjencia mbikëqyr procedurat e shqyrtimit të shkresave të paraqitura zyrtarisht nga personi fizik apo juridik pranë institucionit, si dhe respektimin e afatit dhe cilësisë së përgjigjes në përputhje me legjislacionin specifik që rregullon fushën.
