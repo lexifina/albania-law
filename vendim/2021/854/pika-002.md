@@ -1,0 +1,1 @@
+2. Vendimet e Këshillit të Ministrave nr. 493, datë 6.5.2009, “Për miratimin e formës, të përmbajtjes dhe elementeve të sigurisë së vizës pullë”, dhe nr. 655, datë 27.8.2020, “Për miratimin e formës, të përmbajtjes dhe elementeve të sigurisë së vizës elektronike”, shfuqizohen.
