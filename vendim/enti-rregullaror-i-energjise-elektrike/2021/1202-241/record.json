@@ -1,0 +1,29 @@
+{
+  "qbz_id": 23938,
+  "title": "Mbi licencimin e shoqërisë \"ALBESP TRADING & CONSULTING\" sh.p.k., në veprimtarinë e furnizimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "241",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2021-12-02",
+  "published": "2022-01-10",
+  "in_force": "2022-01-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a74f37e3a88f6d02de453b6fca7b39643d1ebb9cf30942ce107f36939cb6f6a7.docx",
+  "source_sha256": "a74f37e3a88f6d02de453b6fca7b39643d1ebb9cf30942ce107f36939cb6f6a7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23938",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/12/02/241",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31618,
+    62893
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
