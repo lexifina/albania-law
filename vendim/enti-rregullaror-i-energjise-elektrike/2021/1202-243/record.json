@@ -1,0 +1,28 @@
+{
+  "qbz_id": 23940,
+  "title": "Mbi licencimin e shoqërisë \"Noa Energy Trade\" sh.p.k., në veprimtarinë e furnizimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "243",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2021-12-02",
+  "published": "2022-01-10",
+  "in_force": "2022-01-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d5999659079e5581c9a2784f9380e4096c084e59a1212d19bfd629561ab5fa93.docx",
+  "source_sha256": "d5999659079e5581c9a2784f9380e4096c084e59a1212d19bfd629561ab5fa93",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23940",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/12/02/243",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    60732
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
