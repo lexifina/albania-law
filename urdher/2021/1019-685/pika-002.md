@@ -1,0 +1,1 @@
+2. Ngarkohen Drejtoria e Përgjithshme e Arkivave, Agjencia Kombëtare e Mbrojtjes Civile, institucionet dhe strukturat vendore të mbrojtjes civile, strukturat operacionale të mbrojtjes civile dhe të gjitha institucionet qendrore dhe vendore për zbatimin e këtij urdhri.
