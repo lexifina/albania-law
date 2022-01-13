@@ -4,6 +4,8 @@ Nr. 196, datë 22.9.2021
 
 		MBI DHËNIEN E AUTORIZIMIT NGA ERE PËR NDRYSHIMIN E ORTAKUT KRYESOR TË SHOQËRISË “ENERGY PLUS” SHPK, NËPËRMJET SHITJES SË 100% TË KUOTAVE TË SAJ
 
+		(ndryshuar me vendimin nr. 5, datë 13.1.2022)
+
 		Në mbështetje të nenit 16, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; nenit 15, të rregullores “Për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; pikës 6.2, të “Kushteve të licencës së veprimtarisë së prodhimit të energjisë elektrike”, miratuar me vendimin e Bordit të ERE-s nr. 99, datë 17.6.2016; pikës 5.2, të “Kushteve të licencës së veprimtarisë së tregtimit të energjisë elektrike”, miratuar me vendimin e Bordit të ERE-s nr. 97, datë 17.6.2016; Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 22.9.2021, mbasi shqyrtoi relacionin me nr. 122/2 prot., datë 15.9.2021, të përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi dhënien e autorizimit nga ERE për ndryshimin e ortakut kryesor të shoqërisë “Energy Plus” sh.p.k., nëpërmjet shitjes së 100% të kuotave të saj”, 
 
 konstatoi se: 
@@ -34,7 +36,7 @@ VENDOSI:
 
 1 Dhënien e autorizimit nga ERE për ndryshimin e ortakut kryesor të shoqërisë “Energy Plus” sh.p.k., nëpërmjet shitjes së 100% të kuotave të saj.
 
-2. Shoqëria “Energy Plus” sh.p.k. të njoftojë ERE-n për bërjen efektive të këtij transferimi sipas përcaktimeve të pikës 1, të këtij vendimi.
+2. Shfuqizuar.
 
 3. Shoqëria “Energy Plus” sh.p.k. nuk çlirohet nga detyrimi për të marrë autorizimet/ miratimet përkatëse nga organet e tjera për këtë transferim, nëse kjo kërkohet nga këto organe.
 
