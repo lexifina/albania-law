@@ -1,0 +1,3 @@
+# Neni 12
+Ankimimi
+Kundër vendimit të Komisionit Qendror të Statusit “Fëmijë në përkujdesje të Republikës”, si dhe në rastet kur ky komision nuk shprehet brenda afatit të përcaktuar në nenin 11 të këtij ligji, subjektet e interesuara mund të paraqesin ankim pranë ministrit përgjegjës për çështjet sociale, i cili shprehet brenda 15 ditëve nga depozitimi i ankimit. Kundër urdhrit të ministrit ose kur ministri nuk shprehet brenda afatit të parashikuar në këtë pikë paraqitet ankim pranë gjykatës kompetente, në përputhje me rregullat e parashikuara nga legjislacioni në fuqi për gjykatat administrative dhe gjykimin e mosmarrëveshjeve administrative.
