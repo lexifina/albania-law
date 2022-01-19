@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Devoll, të Njësisë Administrative Miras, të pasurive 408/1 dhe 408/2, me vendndodhje në zonën kadastrale 3129, sipas formularit, gjithsej 1 (një) fletë, dhe planrilevimeve, që i bashkëlidhen këtij vendimi, për t’u përdorur në fushën e bujqësisë.
