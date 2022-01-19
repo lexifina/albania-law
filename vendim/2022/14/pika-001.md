@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Elbasan, për Njësinë Administrative Elbasan, të pasurisë 13/61, të llojit “Truall dhe ndërtesë 5-katëshe”, me vendndodhje në zonën kadastrale 8525, sipas formularit, planimetrive dhe planit të rilevimit, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, për t’u përdorur për interes vendor.
