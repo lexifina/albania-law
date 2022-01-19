@@ -1,0 +1,1 @@
+1. Përcaktimin e kategorive të ndërtesave që përjashtohen nga detyrimi për të pasur pikë aksesi në godinë, për infrastrukturën e rrjeteve të komunikimeve elektronike, sipas shtojcës nr. 1, që i bashkëlidhet këtij vendimi.
