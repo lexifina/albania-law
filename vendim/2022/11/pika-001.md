@@ -1,0 +1,1 @@
+1. Dhënien me qira, me tarifë të reduktuar, të sallës së konferencave “A” dhe të zyrave me numrat 2, 3, 5, 6, 7, 12, 14, veri, në mjediset e Pallatit të Kongreseve (në administrim të Drejtorisë së Shërbimeve Qeveritare), Agjencisë për Media dhe Informim, për ushtrimin e veprimtarisë së saj.

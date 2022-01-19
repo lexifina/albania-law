@@ -1,0 +1,1 @@
+2. Tarifa e qirasë së sallës së konferencave “A” dhe të zyrave me numrat 2, 3, 5, 6, 7, 12, 14, veri është në masën ekuivalente të shpenzimeve për furnizimin me energji elektrike dhe ujë gjatë gjithë periudhës së dhënies me qira.
