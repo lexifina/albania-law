@@ -5,7 +5,7 @@ ii. Të dhëna lidhur me qëllimin e politikave të programeve buxhetore;
 iii. Të dhëna lidhur me objektivat specifikë të programeve buxhetore;
 iv. Masat prioritare strategjike lidhur me programet zhvillimore dhe projektet kombëtare strategjike;
 v. Të dhëna për treguesit e performancës në nivel qëllimi dhe objektivi specifik.
-b) Sistemi Informatik i Menaxhimit të Ndihmës së Huaj (SIMNH), që administrohet nga ministria përgjegjëse për financat:
+b) Sistemi Informatik i Menaxhimit të Ndihmës së Huaj (SIMNH), që administrohet nga Agjencia Shtetërore e Programimit Strategjik dhe Koordinimit të Ndihmës:
 i. Shtyllat dhe objektivat strategjikë të SKZHI-së;
 ii. Treguesit e SKZHI-së dhe të strategjive sektoriale;
 iii. Masat prioritare lidhur me programet zhvillimore dhe projektet kombëtare strategjike;

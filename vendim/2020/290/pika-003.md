@@ -11,7 +11,8 @@ vi. Planet e veprimit.
 ç) Korniza e treguesve të performancës;
 d) Programi vjetor ligjor i qeverisë;
 dh) Masat kombëtare prioritare:
-- Paketa Kombëtare e Projekteve Strategjike.
+- Paketa Kombëtare e Projekteve Strategjike;
+- Paketa Kombëtare e Projekteve.
 e) Kalendari i planifikimit të integruar;
 ë) Analiza e treguesve;
 f) Raportet e monitorimit;
