@@ -16,3 +16,6 @@ a) bën shënimet në sistemin informatik për përfundimin e heqjes së përkoh
 b) dokumentet e dorëzuara, i sistemon në fashikullin e krijuar për heqjen e përkohshme të mjetit nga qarkullimi, të cilin e sistemon në dosjen e mjetit;
 c) konfirmon rikthimin në qarkullim me vërtetimin përkatës;
 d) i kthen personit lejen e qarkullimit dhe targat e mjetit.
+5. Heqja e përkohshme nga qarkullimi i mjetit bëhet me kërkesë të pronarit edhe në rastet kur ky i fundit dorëzon dokument ligjor nga institucionet ligjzbatuese, të cilat kanë sekuestruar mjetin.
+6. Administrimi dhe ruajtja nga zyrat e DPSHTRR-së, i lejes së qarkullimit dhe i targave bëhet pa kosto deri në 5 vjet.
+Për mosparaqitje të zotëruesit të mjetit, brenda 5 vjetësh nga data e çregjistrimit të përkohshëm, ruajtja e dokumenteve të qarkullimit dhe e targave bëhet kundrejt pagesës. Tarifa përcaktohet nga ministria përgjegjëse për transportin, me propozim të DPSHTRR-së.

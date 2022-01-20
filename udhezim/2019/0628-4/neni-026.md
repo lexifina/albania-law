@@ -1,3 +1,2 @@
 # Neni 26
-Regjistrimi i mjeteve rrugore historike
-Për procedurat e regjistrimit të mjeteve historike në regjistrin përkatës, ngarkohet DPSHTRR-ja të miratojë aktet të tjera në zbatim të këtij udhëzimi, në varësi të kategorisë së mjetit. Zyra e regjistrimit lëshon certifikatë njohje si mjet historik apo me interes koleksionimi, sipas formatit të miratuar nga DPSHTRR-ja.
+Për procedurat e regjistrimit të mjeteve historike në regjistrin përkatës, ngarkohet DPSHTRR-ja të miratojë aktet të tjera në zbatim të ligjit nr. 8378, datë 22.7.1998, “Kodi Rrugor i Republikës së Shqipërisë”, të ndryshuar; VKM-së nr. 153, datë 7.4.2000, të ndryshuar dhe këtij udhëzimi, në varësi të kategorisë së mjetit. Zyra e regjistrimit lëshon certifikatë njohjeje si mjet historik apo me interes koleksionimi, sipas formatit të miratuar nga DPSHTRR-ja.

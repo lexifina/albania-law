@@ -1,5 +1,6 @@
 # Neni 24
-Humbja, vjedhja ose shkatërrimi i shenjës së identifikimit, dëshmisë së shenjës së identifikimit, certifikatës së përshtatshmërisë teknike
-1. Në rast humbje, vjedhje ose shkatërrimi të shenjës së identifikimit, dëshmisë së shenjës së identifikimit, certifikatës së përshtatshmërisë teknike:
-a) kur personi, mbajtës i shenjës së identifikimit, paraqitet vetëm për të bërë deklarimin, zyra e regjistrimit bën shënimet përkatëse në Regjistrin e shenjave të identifikimit;
-b) kur aplikanti, kërkon pajisjen me shenjën e re të identifikimit, dëshminë përkatëse apo certifikatën e përshtatshmërisë teknike, dorëzon vetëm aplikimin pranë Drejtorisë Rajonale për shërbimin e kërkuar, i cili përmban dhe formularin e shërbimit, sipas modelit të hartuar nga DPSHTRR-ja. Zyra e regjistrimit, lëshon shenjën e re të identifikimit të ciklomotorit dhe dëshminë e shenjës e re të identifikimit.
+Humbja, vjedhja, shkatërrimi ose dëmtimi i shenjës së identifikimit, dëshmisë së shenjës së identifikimit, certifikatës së përshtatshmërisë teknike
+1. Në rast humbjeje, vjedhjeje, shkatërrimi ose dëmtimi të shenjës së identifikimit (targë ciklomotori) apo certifikatës së përshtatshmërisë teknike, veprohet njëlloj si për rastet e ngjashme për automjete.
+2. Për rastet:
+a) e humbjes, vjedhjes ose shkatërrimit të dëshmisë së shenjës së identifikimit, pronari i ciklomotorit bën deklarim dhe pajiset nga zyra e regjistrimit me dëshmi të shenjës identifikuese dhe certifikatë të përshtatshmërisë teknike;
+b) e dëmtimit të dëshmisë së shenjës së identifikimit, mbajtës i saj e dorëzon atë dhe pajiset nga zyra e regjistrimit me dëshminë e shenjës së identifikimit.
