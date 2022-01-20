@@ -1,0 +1,1 @@
+1. Miratimin e kuadrit makroekonomik e fiskal për periudhën 2023-2025, si dhe të lidhjeve nr. 1, “Treguesit kryesorë makroekonomikë”, nr. 2/1 e nr. 2/2, “Treguesit fiskalë sipas buxhetit të konsoliduar”, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
