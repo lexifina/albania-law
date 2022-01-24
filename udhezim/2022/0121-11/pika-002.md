@@ -1,0 +1,1 @@
+2. Brenda datës 23.1.2022, nga Regjistri Kombëtar gjenerohet ekstrakti elektronik për zyrat e gjendjes civile në bashki/njësi administrative, për hartimin e listës së zgjedhësve për zgjedhjet e pjesshme vendore.

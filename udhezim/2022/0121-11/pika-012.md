@@ -1,0 +1,1 @@
+12. Brenda datës 25.1.2022, kryetari i bashkisë i emëruar me vendim të këshillit bashkiak miraton, firmos dhe vulos listën dhe e dërgon në të tre formatet e parashikuara në Kodin Zgjedhor, në KZAZ-të përkatëse.

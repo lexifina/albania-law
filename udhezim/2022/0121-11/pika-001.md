@@ -1,0 +1,1 @@
+1. Brenda datës 25.1.2022, nga Regjistri Kombëtar gjenerohet lista e zgjedhësve për bashkitë Shkodër, Dibër, Durrës, Vorë, Rrogozhinë dhe Lushnjë, në përbërje të së cilës janë të gjithë shtetasit me të drejtë vote, të cilët deri në datën e zhvillimit të zgjedhjeve të pjesshme vendore, më 6.3.2022, do të mbushin 18 vjeç.

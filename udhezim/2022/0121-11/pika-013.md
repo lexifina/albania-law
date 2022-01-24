@@ -1,0 +1,1 @@
+13. Në ushtrim të veprimtarisë së tyre, zyrat e gjendjes civile në bashki/njësi administrative ku do të zhvillohen zgjedhjet e pjesshme vendore për kryetar bashkie, zbatojnë dhe vendimet gjyqësore, sipas nenit 57, të ligjit nr. 10 019, datë 29.12.2008, “Kodi Zgjedhor i Republikës së Shqipërisë”, i ndryshuar.

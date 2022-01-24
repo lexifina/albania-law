@@ -1,0 +1,2 @@
+16. Ngarkohen me zbatimin e këtij udhëzimi kryetarët e emëruar me vendim të këshillit bashkiak në bashkitë Shkodër, Dibër, Durrës, Vorë, Rrogozhinë dhe Lushnjë, ku do të zhvillohen zgjedhjet e pjesshme vendore, Drejtoria e Përgjithshme e Gjendjes Civile, zyrat e gjendjes civile në bashki/njësi administrative, si dhe institucionet e tjera shtetërore të parashikuara nga Kodi Zgjedhor.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

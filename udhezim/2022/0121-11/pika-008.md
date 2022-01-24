@@ -1,0 +1,1 @@
+8. Zyrat e gjendjes civile në bashki/njësi administrative, ku do të zhvillohen zgjedhjet e pjesshme vendore kryejnë veprimet për zbatimin e vendimeve të kryetarit të emëruar me vendim të këshillit bashkiak, për ndarjen/bashkimin e qendrave të votimit në Regjistrin Kombëtar. Ky informacion përditësohet deri në orën 24:00 të së njëjtës ditë.
