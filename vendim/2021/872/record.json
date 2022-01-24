@@ -1,0 +1,28 @@
+{
+  "qbz_id": 55154,
+  "title": "Për miratimin e Planit Kombëtar për Energjinë dhe Klimën 2020-2030",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "872",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2021-12-29",
+  "published": "2022-01-24",
+  "in_force": "2022-01-24",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/9750fa3f98a6b5ea79bc5febc391dd3b62a2258910b9201e4a6c5abc525f1b85.docx",
+  "source_sha256": "9750fa3f98a6b5ea79bc5febc391dd3b62a2258910b9201e4a6c5abc525f1b85",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55154",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2021/12/29/872",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    34202
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
