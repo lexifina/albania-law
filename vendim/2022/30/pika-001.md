@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Krujë, për Njësinë Administrative Bubq, të pasurisë 143/1, me vendndodhje në zonën kadastrale 1294, sipas formularit dhe planit të rilevimit bashkëlidhur këtij vendimi, me qëllim për t’u përdorur për zhvillimin e zonës në kuadër të procesit të rindërtimit.
