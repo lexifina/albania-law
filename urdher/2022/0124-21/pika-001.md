@@ -1,0 +1,1 @@
+1. Ndërprerjen e procesit mësimor në të gjitha institucionet e arsimit profesional publik dhe jopublik për një periudhë 3 (tri) ditore, duke filluar nga data 24.1.2022-26.1.2022, për shkak të uljes së temperaturave në vlera të konsiderueshme.
