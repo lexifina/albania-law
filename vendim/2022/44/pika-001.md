@@ -1,0 +1,1 @@
+1. Caktimin e datave 24, 25 dhe 26 janar 2022 ditë pushimi për njërin nga prindërit kujdestarë të fëmijëve, që frekuentojnë/ndjekin ose jo çerdhet, arsimin parashkollor dhe arsimin bazë, që janë nëpunës civilë dhe punonjës të tjerë të administratës publike, të nivelit qendror e vendor, si dhe në institucionet e tjera shtetërore.

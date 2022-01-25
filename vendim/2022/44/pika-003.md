@@ -1,0 +1,1 @@
+3. Për shkak të mbylljes së çerdheve dhe të institucioneve arsimore, si pasojë e motit të ftohtë të këtyre ditëve, jo të zakonshëm në vend, dhe përshkallëzimit të përhapjes së infeksionit nga COVID-19, iu bëjmë thirrje të gjithë punëdhënësve privatë që të gjejnë mundësitë për trajtimin me pushim të punëmarrësve të tyre, sipas pikës 1, të këtij vendimi.

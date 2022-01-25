@@ -1,0 +1,1 @@
+2. Nëpunësit civilë dhe punonjësit e përmendur në pikën 1, të këtij vendimi, gjatë kësaj periudhe, për aq sa është e mundur, përjashtimisht, me kërkesë të eprorit të drejtpërdrejtë ose titullarit të institucionit, mund të kryejnë detyrat më të domosdoshme funksionale të cilat përmbushen në kushtet e banesës, nëpërmjet telepunës.
