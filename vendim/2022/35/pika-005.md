@@ -1,0 +1,1 @@
+5. Punonjësit me kontratë në funksionin “operator EDRMS” paguhen në përputhje me kategorinë e pagës së funksionit “operator” në vendimin nr. 717, datë 23.6.2009, të Këshillit të Ministrave, të ndryshuar.

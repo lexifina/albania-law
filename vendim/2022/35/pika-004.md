@@ -1,0 +1,1 @@
+4. Punonjësit me kontratë në funksionin “specialist” paguhen në përputhje me kategorinë e pagës së funksionit të ngjashëm organik, të përcaktuar në strukturën e institucionit, por, në asnjë rast, kategoria e pagës së tyre në institucionet e pavarura dhe në aparatet e ministrive nuk kalon nivelin IV-a dhe, në institucionet në varësi të institucioneve qendrore, nivelin IV-b.
