@@ -1,67 +1,52 @@
 # Shtojca
 Lidhja nr. 1
 Kategoritë e pagave dhe shtesat për kushte pune të pozicioneve të punës së nëpunësve për emërtesat “Specialist” deri në “Titullar institucioni” në Drejtorinë e Përgjithshme të Agjencisë Shtetërore të Kadastrës
-|POZICIONI |KATEGORIA |KRITERI MINIMAL |SHTESA |
-| | |I DIPLOMËS SË SHKOLLËS SË LARTË PËR |PËR KUSHTE PUNE |
-| | |EFEKT TË PRANIMIT NË POZICIONIN PËRKATËS| |
-| | |TË PUNËS | |
-| | |PAGA E GRUPIT | |
-|Titullar i institucionit. |I-b |1 |15.000 |
-|Zëvendëstitullar i institucionit. |II-a |1 |20.000 |
-|Drejtor Njësie. | | | |
-|Drejtor drejtorie në drejtoritë e përmbajtjes.|II-b |1 |15.000 |
-|Drejtor drejtorie në drejtoritë që lidhen me |II-b |1 |20.000 |
-|procesin e informatizimit. | | | |
-|Drejtor drejtorie në drejtoritë e mbështetjes.|II-b |1 |12.000 |
-|Përgjegjës sektori në sektorët e përmbajtjes. |III-a |1 |15.000 |
-|Përgjegjës sektori në sektorët që lidhen me |III-a |1 |20.000 |
-|procesin e informatizimit. | | | |
-|Përgjegjës sektori në sektorët mbështetës. |III-a/1 |1 |12.000 |
-|Koordinator. | | | |
-|Specialist në drejtoritë dhe sektorët e |IV-a |1 ose 2 ose 3 |15.000 |
-|përmbajtjes. | | | |
-|Specialist në pozicionet që lidhen me procesin|IV-a |1 ose 2 ose 3 |20.000 |
-|e informatizimit. | | | |
-|Specialist në drejtoritë dhe sektorët |IV-a |1 ose 2 ose 3 |12.000 |
-|mbështetës. | | | |
-| |IV-b | | |
+|Pozicioni |Kategoria |Kriteri minimal i diplomës së shkollës |Shtesa për kushte pune |
+| | |së lartë për efekt të pranimit në | |
+| | |pozicionin përkatës të punës | |
+| | |paga e grupit | |
+|Titullar i institucionit |I-a |1 |20.000 |
+|Zëvendëstitullar i institucionit, |I-b |1 |20.000 |
+|Drejtor njësie | | | |
+|Drejtor drejtorie |II-b |1 |20.000 |
+|Përgjegjës sektori |III-a |1 |18.000 |
+|Përgjegjës sektori që lidhen me procesin e |III-a |1 |20.000 |
+|informatizimit | | | |
+|Koordinator |III-a/1 |1 |18.000 |
+|Specialist në pozicionet që lidhen me procesin|III-b |1 ose 2 |20.000 |
+|e informatizimit | | | |
+| |IV-a |1 ose 2 ose 3 | |
+|Specialist |III-b |1 ose 2 |18.000 |
+| |IV-a |1 ose 2 ose 3 | |
 Lidhja nr. 2
-Kategoritë e pagave dhe shtesat për kushte pune të pozicioneve të punës së nëpunësve për emërtesat “Specialist” deri në “Titullar institucioni” në Drejtoritë Vendore dhe Zyrat Vendore të Agjencisë Shtetërore të Kadastrës
-|POZICIONI |KATEGORIA |KRITERI MINIMAL I DIPLOMËS SË |SHTESA PËR KUSHTE PUNE |
-| | |SHKOLLËS SË LARTË PËR EFEKT TË | |
-| | |PRANIMIT NË POZICIONIN PËRKATËS | |
-| | |TË PUNËS | |
-| | |PAGA E GRUPIT | |
+Kategoritë e pagave dhe shtesat për kushte pune të pozicioneve të punës së nëpunësve për emërtesat “Specialist” deri në “Titullar institucioni” në drejtoritë vendore dhe zyrat vendore të Agjencisë Shtetërore të Kadastrës
+|Pozicioni |Kategoria |Kriteri minimal i diplomës së |Shtesa për kushte pune |
+| | |shkollës së lartë për efekt të | |
+| | |pranimit në pozicionin përkatës | |
+| | |të punës | |
+| | |paga e grupit | |
 |Titullar i drejtorive vendore të kategorisë së |III-a |1 |20.000 |
-|parë. | | | |
+|parë | | | |
 |Titullar i drejtorive vendore të kategorisë së |III-a/1 |1 |18.000 |
-|dytë. | | | |
-|Zëvendëstitullar i drejtorive vendore të |III-a/1 |1 |16.500 |
-|kategorisë së parë. | | | |
-|Zëvendëstitullar i drejtorive vendore të |III-b |1 |16.500 |
-|kategorisë së dytë. | | | |
-|Drejtor në drejtoritë e përmbajtjes në drejtoritë |III-a/1 |1 |15.000 |
-|vendore të kategorisë së parë. | | | |
-|Drejtor në drejtoritë e mbështetjes në drejtoritë |III-a/1 |1 |12.000 |
-|vendore të kategorisë së parë. | | | |
-|Drejtor në drejtoritë e përmbajtjes në drejtoritë |III-b |1 |15.000 |
-|vendore të kategorisë së dytë. | | | |
-|Drejtor në drejtoritë e mbështetjes në drejtoritë |III-b |1 |12.000 |
-|vendore të kategorisë së dytë. | | | |
-|Përgjegjës sektori në sektorët e përmbajtjes në |III-b |1 |15.000 |
-|drejtoritë vendore të kategorisë së parë. | | | |
-|Përgjegjës sektori në sektorët e përmbajtjes në |IV-a |1 |15.000 |
-|drejtoritë vendore të kategorisë së dytë. | | | |
-|Përgjegjës sektori në sektorët mbështetës në |III-b |1 |12.000 |
-|drejtoritë vendore të kategorisë së parë. | | | |
-|Përgjegjës sektori në sektorët mbështetës në |IV-a |1 |12.000 |
-|drejtoritë vendore të kategorisë së dytë. | | | |
-|Titullar i Zyrës Vendore |IV-a |1 |15.000 |
-|Specialist në drejtoritë dhe sektorët e |IV-b |1 ose 2 ose 3 |15.000 |
-|përmbajtjes në drejtoritë vendore. | | | |
-|Specialist në zyrat vendore. | | | |
-|Specialist në drejtoritë dhe sektorët mbështetës |IV-b |1ose 2 ose 3 |12.000 |
-|në drejtoritë vendore. | | | |
+|dytë | | | |
+|Zëvendëstitullar i drejtorive vendore të |III-a/1 |1 |18.000 |
+|kategorisë së parë | | | |
+|Zëvendëstitullar i drejtorive vendore të |III-b |1 |18.000 |
+|kategorisë së dytë | | | |
+|Drejtor drejtorie në drejtoritë vendore të |III-a/1 |1 |18.000 |
+|kategorisë së parë | | | |
+|Drejtor drejtorie në drejtoritë vendore të |III-b |1 |18.000 |
+|kategorisë së dytë | | | |
+|Përgjegjës sektori në drejtoritë vendore të |III-b |1 |18.000 |
+|kategorisë së parë | | | |
+|Përgjegjës sektori në drejtoritë vendore të |IV-a |1 |18.000 |
+|kategorisë së dytë | | | |
+|Titullar i zyrës vendore |IV-a |1 |18.000 |
+|Specialist në drejtoritë vendore të kategorisë së |IV-a |1 ose 2 ose 3 |18.000 |
+|parë | | | |
+|Specialist në drejtoritë vendore të kategorisë së |IV-b |1 ose 2 ose 3 |18.000 |
+|dytë, | | | |
+|Specialist në zyrat vendore | | | |
 Kategorizimi i drejtorive vendore është si vijon:
-- Kategoria e parë: Drejtoritë Vendore të Agjencisë Shtetërore të Kadastrës Durrës, Elbasan, Tiranë Veri, Tiranë Jug, Tirana Rurale 1, Tirana Rurale 2, Vlorë, Fier, Kamëz - Vorë, Shkodër, Korçë, Lezhë, Berat, Kavajë, Gjirokastër, Krujë, Lushnje, Pogradec, Sarandë, Dibër, Kukës dhe Zonat e Stimuluara.
-- Kategoria e dytë: Drejtoritë Vendore të Agjencisë Shtetërore të Kadastrës Kuçovë dhe Tepelenë.
+- Kategoria e parë: drejtoritë vendore të Agjencisë Shtetërore të Kadastrës Durrës, Elbasan, Tiranë Veri, Tiranë Jug, Tirana Rurale 1, Tirana Rurale 2, Vlorë, Fier, Kamzë-Vorë, Shkodër, Korçë, Lezhë, Berat, Kavajë, Gjirokastër, Krujë, Lushnjë, Pogradec, Sarandë, Dibër, Kukës dhe zonat e stimuluara.
+- Kategoria e dytë: drejtoritë vendore të Agjencisë Shtetërore të Kadastrës Kuçovë dhe Tepelenë.
