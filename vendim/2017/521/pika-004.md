@@ -1,2 +1,0 @@
-4. Sekretari i Përgjithshëm i Këshillit të Ministrave ngre një komision ad-hoc, të përbërë nga 3 anëtarë, nga të cilët një përfaqësues i Kryeministrisë, një përfaqësues i Departamentit të Administratës Publike
-dhe një përfaqësues i Fakultetit të Drejtësisë, në Universitetin e Tiranës.
