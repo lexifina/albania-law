@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së projektit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Infrastrukturës dhe Energjisë, dhe Konfederatës Zvicerane, të përfaqësuar nga Sekretariati i Shtetit Zviceran për Çështjet Ekonomike, mbi dhënien e asistencës teknike dhe financiare, në kuadrin e “Projektit të bashkive me energji inteligjente (SEMP)”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
