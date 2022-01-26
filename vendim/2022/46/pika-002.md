@@ -1,0 +1,1 @@
+2. Përzgjedhja e kandidaturave për kryetar dhe anëtarë të Komisionit të Prokurimit Publik kryhet nëpërmjet zbatimit të procedurave të hapura të konkurrimit, në përputhje me parashikimet e këtij vendimi.

@@ -1,0 +1,1 @@
+3. Procedura përzgjedhëse për kandidaturat për kryetar dhe anëtarë të Komisionit të Prokurimit Publik zhvillohet nën përgjegjësinë e Sekretarit të Përgjithshëm të Këshillit të Ministrave, sipas përcaktimeve të këtij vendimi dhe në përputhje me pikën 3, të nenit 25, të ligjit nr.162/2020, “Për prokurimin publik”.
