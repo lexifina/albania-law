@@ -4,9 +4,9 @@ Nr. 187, datë 10.11.2017
 
 MBI LICENCIMIN E SHOQËRISË ALBGAZ SHA NË AKTIVITETIN E SHPËRNDARJES SË GAZIT NATYROR 
 
-(Ndryshuar me vendimin e ERE-s nr. 177, datë 20.8.2018, nr. 261, datë 19.12.2018; nr. 36, datë 4.3.2019 dhe nr. 220, datë 20.12.2019, nr. 108, datë 2.7.2020; nr. 262, datë 28.12.2020; nr. 153, datë 30.6.2021; nr. 201, datë 1.10.2021)
+(Ndryshuar me vendimin e ERE-s nr. 177, datë 20.8.2018, nr. 261, datë 19.12.2018; nr. 36, datë 4.3.2019 dhe nr. 220, datë 20.12.2019, nr. 108, datë 2.7.2020; nr. 262, datë 28.12.2020; nr. 153, datë 30.6.2021; nr. 201, datë 1.10.2021, nr. 14, datë 26.1.2022 )
 
-( I përditësuar)
+(i përditësuar)
 
 Në mbështetje të neneve 4, pika 50 dhe nenit 22, pika 2, germa “b”; 24, pika 2 dhe nenit 50, të ligjit nr. 102/2015, “Për sektorin gazit natyror”, si dhe neneve 4, pika 1, germa “b”; neneve 5, 11 dhe 12 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e gazit natyror”; Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 10.11.2017, mbasi shqyrtoi relacionin për licencimin e shoqërisë Albgaz sh.a. në aktivitetin e shpërndarjes së gazit natyror, të përgatitur nga Drejtoria e Licencimit dhe e Monitorimit të Tregut, 
 
@@ -42,7 +42,9 @@ Për gjithë sa më sipër, bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë shoqërinë ‘Albgaz’ sh.a. në veprimtarinë e shpërndarjes së gazit natyror, për një afat 30-vjeçar, me kushtin që brenda datës 20.1.2022, të depozitojë në ERE lejet dhe autorizimet mjedisore dhe certifikatën e sigurimit.
+1. Të licencojë shoqërinë “Albgaz” sh.a. në veprimtarinë e shpërndarjes së gazit natyror, për një  afat 30-vjeçar, me kushtin që brenda datës 21.12.2022, të depozitojë në ERE Lejet dhe Autorizimet mjedisore dhe certifikatën e sigurimit.
+
+2. Shoqëria e licencuar ka detyrimin të respektojë kushtet e parashikuara në licencën për aktivitetin e shpërndarjes së gazit natyror që miraton bordi i ERE-s.
 
 3. Drejtoria e Licencimit dhe e Monitorimit të Tregut të njoftojë palët e interesuara për vendimin e bordit të ERE-s.
 
