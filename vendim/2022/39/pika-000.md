@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese, me shkëmbim notash, të marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Italisë, mbi njohjen e ndërsjellë të lejeve të drejtimit me qëllim konvertimi, miratuar me vendimin nr. 209, datë 29.3.2021, të Këshillit të Ministrave, që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
