@@ -1,10 +1,10 @@
 LIGJ
 
-Nr.9723, datë 3.5.2007
+Nr. 9723, datë 3.5.2007
 
 Për regjistrimin e biznesit
 
-(ndryshuar me ligjet: nr.9916, datë 12.5.2008, nr. 92/2012, datë 27.9.2012, nr. 8/2015, datë 19.02.2015, nr. 131/2015, datë 26.11.2015, nr. 30/2019, datë 17.6.2019)
+(ndryshuar me ligjet: nr.9916, datë 12.5.2008, nr. 92/2012, datë 27.9.2012, nr. 8/2015, datë 19.02.2015, nr. 131/2015, datë 26.11.2015, nr. 30/2019, datë 17.6.2019; nr. 7/2022, datë 27.1.2022)
 
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -40,11 +40,11 @@ Në këtë ligj termat e mposhtëm kanë këto kuptime:
 
 3. “Regjistri” është regjistri tregtar, në të cilin regjistrohen subjektet, sipas këtij ligji.
 
-4.   “Regjistrim fillestar” është regjistrimi për herë të parë në regjistër.
+4. “Regjistrim fillestar” është regjistrimi për herë të parë në regjistër.
 
-5.   “Regjistrim tjetër” është çdo ndryshim, shtesë apo fshirje të dhënash në regjistër.
+5. “Regjistrim tjetër” është çdo ndryshim, shtesë apo fshirje të dhënash në regjistër.
 
-6.  “Regjistrim” është regjistrimi fillestar dhe çdo regjistrim tjetër, përfshirë dhe çregjistrimin e subjektit nga regjistri.
+6. “Regjistrim” është regjistrimi fillestar dhe çdo regjistrim tjetër, përfshirë dhe çregjistrimin e subjektit nga regjistri.
 
 7. “Të dhëna” janë faktet, aktet dhe informacionet që regjistrohen, njoftohen apo depozitohen në regjistër.
 
@@ -864,13 +864,13 @@ Neni 74
 
 Kundërvajtjet administrative
 
-(ndryshuar pika 4 dhe shfuqizuar pika 5 me ligjin nr. 8/2015, datë 19.02.2015, shtuar pikat 3/1 dhe 3/2 me ligjin nr. 30/2019, datë 17.6.2019)
+(ndryshuar pika 4 dhe shfuqizuar pika 5 me ligjin nr. 8/2015, datë 19.02.2015, shtuar pikat 3/1 dhe 3/2 me ligjin nr. 30/2019, datë 17.6.2019; ndryshuar pika 2 dhe 3 nr. 7/2022, datë 27.1.2022)
 
 1. Subjekti përgjigjet, sipas ligjeve në fuqi, për vërtetësinë e fakteve, të të dhënave të njoftuara dhe të dokumenteve shoqëruese, të depozituara në regjistër.
 
-2. Deklarimi në regjistër i të dhënave të pavërteta, kur nuk përbën vepër penale, përbën kundërvajtje administrative dhe dënohet me gjobë 15 000 lekë.
+2. Deklarimi në regjistër i të dhënave të pavërteta, kur nuk përbën vepër penale, përbën kundërvajtje administrative dhe dënohet me gjobë 60 000 (gjashtëdhjetë mijë) lekë.
 
-3. Moskryerja e detyrimit për regjistrimin fillestar dhe regjistrimet e tjera të detyrueshme, brenda afateve të parashikuara nga ky ligj, përbën kundërvajtje administrative dhe dënohet me gjobë 15 000 lekë.
+3. Moskryerja e detyrimit për regjistrimin fillestar dhe regjistrimet e tjera të detyrueshme brenda afateve të parashikuara nga ky ligj, përbën kundërvajtje administrative dhe dënohet me gjobë 60 000 (gjashtëdhjetë mijë) lekë.
 
 3/1. Mosrespektimi i detyrimit të përcaktuar në pikën 4/1, të nenin 22, të këtij ligji, përbën kundërvajtje administrative dhe dënohet me gjobë në masën 50 000 lekë. 
 
