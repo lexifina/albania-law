@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Pustec, për Njësinë Administrative Pustec, të disa pasurive me vendndodhje në zonat kadastrale 2462 dhe 1797, me nr. 6-8, sipas lidhjes 1, formularëve dhe planeve të rilevimit, që i bashkëlidhen këtij vendimi, me qëllim për t’u përdorur në fushën e kulturës, arsimit, shëndetësisë dhe administratës.
