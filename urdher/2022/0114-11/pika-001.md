@@ -1,0 +1,1 @@
+1. Zbatimin e Rekomandimit GFCM/44/2021/20 të Komisionit të Përgjithshëm të Peshkimit për Mesdheun, “Për një plan menaxhimi shumëvjeçar për një shfrytëzim të qëndrueshëm të pelagjikëve të vegjël në detin Adriatik (nënzonat gjeografike 17 dhe 18)”, që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
