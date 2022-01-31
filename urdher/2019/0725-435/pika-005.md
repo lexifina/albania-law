@@ -1,1 +1,0 @@
-5. Anijet e peshkimit që peshkojnë pelagjikë të vegjël (sardele dhe açuge) nuk duhet të kalojnë 180 ditë peshkimi në vit, me maksimumin 144 ditë peshkimi për sardelen dhe me maksimumin 144 ditë peshkimi për açugen.

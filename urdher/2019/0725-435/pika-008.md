@@ -1,2 +1,0 @@
-8. Peshkimi i pelagjikëve të vegjël do të kryhet me mjetet lundruese që përdorin formën e peshkimit me koshilok (me rrethim) dhe formën e peshkimit me trata pelagjike sipas përcaktimeve të VKM-së nr. 719, datë 12.10.2016 “Për menaxhimin e kapaciteteve të peshkimit tregtar dhe disa rregullime të mënyrës së funksionimit të regjistrit të anijeve të peshkimit”.
-Ky urdhër hyn në fuqi pas botimit në Fletoren Zyrtare.

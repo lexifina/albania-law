@@ -1,1 +1,0 @@
-1. Zbatimin e Rekomandimi GFCM/42/2018/8 “Për masat e mëtejshme urgjente në vitet 2019-2021 për rezervat e pelagjikëve të vegjël në detin Adriatik (nënzona gjeografike 17 dhe 18)”, që i bashkëngjitet këtij urdhri dhe është pjesë përbërëse e tij.
