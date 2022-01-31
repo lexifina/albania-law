@@ -1,1 +1,0 @@
-16. Numri i përgjithshëm i punonjësve të spitaleve është 12 016 (dymbëdhjetë mijë e gjashtëmbëdhjetë) veta, nga të cilët 141 (njëqind e dyzet e një) punonjës në Spitalin Universitar të Traumës për Shërbimin e Urgjencës Ambulatore dhe Shërbimin e Ortopedi-Traumatologjisë. Numri dhe struktura e punonjësve për çdo spital miratohen nga ministri i Shëndetësisë dhe Mbrojtjes Sociale.
