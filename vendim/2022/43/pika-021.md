@@ -1,0 +1,1 @@
+21. Vendimi nr. 20, datë 20.1.2021, i Këshillit të Ministrave, “Për financimin e shërbimeve shëndetësore spitalore nga skema e detyrueshme e sigurimeve të kujdesit shëndetësor për vitin 2021”, të ndryshuar, shfuqizohet.
