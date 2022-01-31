@@ -1,0 +1,7 @@
+# Neni 16
+Bileta dhe të dhënat e mbajtësit të saj
+1. Organizatori i veprimtarisë sportive mban të dhëna personale të personave, të cilëve u shiten ose u jepen biletat, ku përfshihen emri, data e lindjes dhe adresa.
+2. Të dhënat personale, të përcaktuara në pikën 1 të këtij neni, për veprimtaritë e kategorive 1 dhe 2, vihen në dispozicion, sipas kërkesës të Policisë së Shtetit, në vendin ku zhvillohet veprimtaria, në përputhje me legjislacionin për mbrojtjen e të dhënave personale.
+3. Kur biletat u ndahen palëve të treta për shpërndarje, duke përfshirë klubet e tifozëve, organizatori i ndeshjes, federata ose klubi përkatës sigurohen që këto palë të treta të mos u japin bileta marrësve, të cilët nuk kanë paraqitur dokumente identifikimi.
+4. Kur pala, sipas përcaktimit të pikës 3 të këtij neni, nuk i plotëson kërkesat në lidhje me regjistrimin e të dhënave të mbajtësit dhe vënien në dispozicion të këtyre të dhënave, mund të vendoset si masë disiplinore një ulje e pjesshme, prej 5 (pesë) % ose totale e numrit të biletave për ndeshjet e ardhshme që përfshijnë këtë palë.
+5. Pala, sipas përcaktimit të pikës 3 të këtij neni, ofron të gjitha informacionet e mundshme për numrin e personave që besohet se po udhëtojnë për të ndjekur një ndeshje në vendin pritës, pa bileta. Informacioni ofrohet, gjithashtu, për kërkesën e mundshme për bileta nga tifozët e ekipit mik, që jetojnë në vendin pritës.
