@@ -1,0 +1,30 @@
+{
+  "qbz_id": 23994,
+  "title": "Mbi licencimin e shoqërisë \"Breçani R.O.S.P\"sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC \"Drita\" me kapacitet të instaluar 1980 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "9",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2022-01-21",
+  "published": "2022-02-02",
+  "in_force": "2022-02-02",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/99610794626896e534ee64d57cfaf8f103f6e1d0d98feceaca75ff8dab98b317.docx",
+  "source_sha256": "99610794626896e534ee64d57cfaf8f103f6e1d0d98feceaca75ff8dab98b317",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23994",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/01/21/9",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    29139,
+    28075,
+    24954
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
