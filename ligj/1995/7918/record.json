@@ -1,0 +1,27 @@
+{
+  "qbz_id": 122550,
+  "title": "PËR MIRATIMIN ME NDRYSHIME TË DEKRETIT NR.1030, DATË 23.2.1995 “PËR EMETIMIN DHE SHPËRNDARJEN E BONOVE TË PRIVATIZIMIT (LEKË PRIVATIZIMI)” DHE DEKRETIT NR.1049, DATË 27.3.1995 “PËR DISA PLOTËSIME NË DEKRETIN NR.103O, DATË 23.2.1995 “PËR EMETIMIN DHE SHPËRNDARJEN E BONOVE TË PRIVATIZIMIT”",
+  "type": "Ligj",
+  "number": "7918",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1995-04-13",
+  "version_no": 2,
+  "qbz_version_id": 10630,
+  "in_force": "2022-02-03",
+  "in_force_basis": "QBZ consolidated version 2 validFrom 2022-02-03",
+  "changed_by_qbz_id": 24083,
+  "changed_by_number": "14",
+  "changed_by_title": "Për një ndryshim në ligjin nr. 7918, datë 13.4.1995, “Për miratimin me ndryshime të dekretit nr. 1030, datë 23.2.1995, “Për emetimin dhe shpërndarjen e bonove të privatizimit (lekëve të privatizimit)” dhe dekretit nr. 1049, datë 27.3.1995, “Për disa plotësime në dekretin nr. 1030, datë 23.2.1995” , të ndryshuar",
+  "source": "https://qbz.gov.al/files/c89840127173a350b543806cb20f1fd12b0be49f8327ed816b5463b711770a8b.docx",
+  "source_sha256": "c89840127173a350b543806cb20f1fd12b0be49f8327ed816b5463b711770a8b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122550",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/122550/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
