@@ -1,0 +1,12 @@
+# Shtojca
+Shtojca nr. 1
+PEMA E PROGRAMIT TE ASHK-së PËR VITIN 2022
+[pic]
+Shtojca nr. 2
+BUXHETI I AGJENCISË SHTETËRORE TË KADASTRËS 2022
+000/lekë
+[pic]
+Shtojca nr. 3
+BUXHETI I AGJENCISË SHTETËRORE TË KADASTRËS 2022
+000/lekë
+[pic]
