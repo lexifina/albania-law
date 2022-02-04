@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 3 145 710.50 (tre milionë e njëqind e dyzet e pesë mijë e shtatëqind e dhjetë pikë pesëdhjetë) lekësh, përballohet nga buxheti i Bashkisë Fier për vitin 2022.

@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Fier, pezullon të gjitha transaksionet me pasuritë e shpronësuara, deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit për hartën kadastrale të regjistrimit dhe kalimi i pronësisë në favor të Bashkisë Fier për pasuritë e shpronësuara.
