@@ -1,0 +1,1 @@
+3. Marrja e vendimeve të Komisionit Qendror të Statusit “Fëmijë në përkujdesje të Republikës” kryhet sipas dispozitave të ligjit nr. 8480, datë 27.5.1999, “Për funksionimin e organeve kolegjiale të administratës shtetërore dhe enteve publike”.

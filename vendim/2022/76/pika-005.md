@@ -1,0 +1,1 @@
+5. Shpërblimi për pjesëmarrje në mbledhje bëhet sipas përcaktimeve në vendimin e Këshillit të Ministrave për përcaktimin e masës së shpërblimit të anëtarëve të këshillave, bordeve ose komisioneve të përhershme të njësive të qeverisjes qendrore.
