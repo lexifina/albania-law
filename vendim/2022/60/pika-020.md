@@ -1,0 +1,1 @@
+20. Shpalljen “park natyror” (kategoria IV e zonave të mbrojtura) të ekosistemit natyror “Lugina e Shalës”, me sipërfaqe 10 619.35 (dhjetë mijë e gjashtëqind e nëntëmbëdhjetë pikë tridhjetë e pesë) ha, sipas aneksit nr. 20, i cili përmban hartën në shtojcën 1 dhe tabelën e koordinatave në shtojcën 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

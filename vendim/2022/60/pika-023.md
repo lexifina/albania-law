@@ -1,0 +1,1 @@
+23. Shpalljen “rezervat natyror i menaxhuar” (kategoria IV e zonave të mbrojtura) të ekosistemit natyror “Lugina e Gjergjovicës”, me sipërfaqe 2 966.3 (dy mijë e nëntëqind e gjashtëdhjetë e gjashtë pikë tre) ha, sipas aneksit nr. 23, i cili përmban hartën në shtojcën 1 dhe tabelën e koordinatave në shtojcën 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

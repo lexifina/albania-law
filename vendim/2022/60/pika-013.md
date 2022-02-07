@@ -1,0 +1,1 @@
+13. Miratimin e ndryshimit të sipërfaqes së ekosistemit natyror “Dardhë-Xhyrë”, shpallur “rezervat natyror i menaxhuar” (kategoria IV e zonave të mbrojtura), nga 400 (katërqind) ha në 400.3 (katërqind pikë tre) ha, sipas aneksit nr. 13, i cili përmban hartën në shtojcën 1 dhe tabelën e koordinatave në shtojcën 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

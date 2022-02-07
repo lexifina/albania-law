@@ -1,0 +1,1 @@
+18. Miratimin e ndryshimit të sipërfaqes së ekosistemit natyror “Polis”, shpallur “rezervat natyror i menaxhuar” (kategoria IV e zonave të mbrojtura), nga 45 (dyzet e pesë) ha në 45.1 (dyzet e pesë pikë një) ha, sipas aneksit nr. 18, i cili përmban hartën në shtojcën 1 dhe tabelën e koordinatave në shtojcën 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

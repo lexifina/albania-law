@@ -1,0 +1,1 @@
+22. Shpalljen “park natyror” (kategoria IV e zonave të mbrojtura) të ekosistemit natyror “Munellë”, me sipërfaqe 20 760.05 (njëzet mijë e shtatëqind e gjashtëdhjetë pikë zero pesë) ha, sipas aneksit nr. 22, i cili përmban hartën në shtojcën 1 dhe tabelën e koordinatave në shtojcën 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
