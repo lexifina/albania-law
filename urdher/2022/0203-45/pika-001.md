@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, kopshti “Flatrat e Dijes”, Fier, në emër të personit juridik “Erma” sh.p.k. dhe licencuar me licencë të QKL-së nr. DN-8801-04-2013-01, me NIPT: K23317402O.
