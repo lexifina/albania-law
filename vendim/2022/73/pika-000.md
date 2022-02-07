@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave dhe Ekonomisë (përfituesi), dhe KfW Frankfurt am Main (KfW), për masat shoqëruese për rehabilitimin me efiçencë energjetike të konvikteve studentore të universiteteve publike në Shqipëri, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
