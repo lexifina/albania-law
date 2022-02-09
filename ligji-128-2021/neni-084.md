@@ -1,0 +1,6 @@
+# Neni 84
+Nxjerrja e akteve nënligjore
+1. Ngarkohet Këshilli i Ministrave të nxjerrë aktet nënligjore në zbatim të neneve 8, pika 2; 26, pika 11; 34, pika 6; 36, pika 3; 40, pika 8; 41, pika 3; 45, pika 6; 50, pika 3; 53, pika 5; 54, pika 3; 55, pika 4; 56, pika 3; 57, pika 4; 60, pika 5; 61, pika 2; 62, pikat 4 e 6; 63, pika 4; 64, pika 4; 65, pika 3; 66, pika 6; 69, pika 5; 70 pika 3; 71, pika 3; 72, pika 2; 73, pika 2; 75, pika 2; 77, pika 2; 79, pika 4, dhe 82, pika 2, të këtij ligji brenda 6 muajve nga data e botimit të tij në Fletoren Zyrtare.
+2. Ngarkohet ministri përgjegjës për rendin dhe sigurinë publike të nxjerrë aktet nënligjore në zbatim të neneve 29, pika 3, dhe 30, pika 1, të këtij ligji brenda 6 muajve nga data e botimit të tij në Fletoren Zyrtare.
+3. Ngarkohen ministri përgjegjës për rendin dhe sigurinë publike, Prokurori i Përgjithshëm dhe drejtuesit e Prokurorisë së Posaçme kundër Korrupsionit dhe Krimit të Organizuar të nxjerrin aktet nënligjore në zbatim të nenit 30, pika 4, të këtij ligji brenda 6 muajve nga data e botimit të tij në Fletoren Zyrtare.
+4. Efektet financiare për aktet nënligjore të parashikuara në pikën 1 të këtij neni fillojnë të zbatohen nga hyrja në fuqi e tyre, përveç akteve nënligjore në zbatim të pikës 3 të nenit 71, si dhe pikës 2 të nenit 72, të cilat do të fillojnë të zbatohen nga data 1 janar 2024.
