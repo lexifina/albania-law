@@ -1,0 +1,1 @@
+6. Kandidatët, që në Maturat Shtetërore 2012-2021 nuk kanë rezultuar kalues në asnjë prej provimeve që kanë zgjedhur për të dhënë, japin vetëm një lëndë nga lista e lëndëve me zgjedhje të këtij udhëzimi.

@@ -1,0 +1,1 @@
+12. Zyrat vendore arsimore parauniversitare (ZVAP-të) pasi marrin nga institucionet e arsimit të mesëm të lartë listat e maturantëve mbetës të vitit shkollor 2021-2022 i pasqyrojnë ato në portalin e Maturës Shtetërore online, sipas udhëzimit dhe kalendarit të përcaktuar nga QSHA-ja. Këto lista dërgohen në QSHA, në format të printuar dhe elektronik.
