@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2022, i shtohet fondi prej 190 000 000 (njëqind e nëntëdhjetë milionë) lekësh, për mbulimin e shpenzimeve të organizimit të zgjedhjeve të pjesshme për organet e vetëqeverisjes vendore, të datës 6 mars 2022.
