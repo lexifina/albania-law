@@ -2,4 +2,5 @@
 a) arsimi parauniversitar;
 b) arsimi i lartë;
 c) zhvillimi i sportit;
-ç) kërkimi shkencor.
+ç) kërkimi shkencor;
+d) botimi për diasporën.
