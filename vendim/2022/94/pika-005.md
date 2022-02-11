@@ -1,0 +1,1 @@
+5. Regjistri elektronik i organizatave jofitimprurëse përmban të dhëna, që lidhen me themelimin, fushën e veprimtarisë dhe çregjistrimin e organizatave jofitimprurëse, çdo ndryshim në status dhe formën e organizimit të tyre, të dhëna që i përkasin atyre lidhur me përfaqësimin, si dhe të dhëna të tjera të parashikuara me ligj.

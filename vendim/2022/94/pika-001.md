@@ -1,0 +1,1 @@
+1. Ky vendim ka si objekt përcaktimin e rregullave të detajuara për të dhënat parësore dhe dytësore, që regjistrohen në regjistrin elektronik të organizatave jofitimprurëse, për dhënësit e informacionit, ndërveprimin me bazat e tjera të të dhënave, si dhe për nivelin e aksesimit për subjektet e interesuara në regjistrin elektronik të organizatave jofitimprurëse.

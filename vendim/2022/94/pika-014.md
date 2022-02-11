@@ -1,0 +1,1 @@
+14. Rregulloret për organizimin e funksionimin e brendshëm të regjistrit elektronik të organizatave jofitimprurëse përcaktohen nga Gjykata e Rrethit Gjyqësor Tiranë, në përputhje me standardet, rregullat dhe procedurat e përcaktuara sipas nenit 10, të ligjit nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”.

@@ -1,0 +1,1 @@
+2. Regjistri elektronik i organizatave jofitimprurëse është një bazë e të dhënave shtetërore, nëpërmjet së cilës grumbullohet informacioni i organizuar dhe i ruajtur në formë elektronike për organizatat jofitimprurëse, ku përpunimi e përditësimi i tij kryhen përmes një sistemi kompjuterik.
