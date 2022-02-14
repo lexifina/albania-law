@@ -1,1 +1,1 @@
-1. Autorizimin e “Noval Laboratory”, me NIPT: L81904506I, si laborator të autorizuar për kryerjen e analizave laboratorike të mostrave të marra gjatë kontrollit zyrtar, për llojin e analizave, sipas shtojcës I, bashkëlidhur këtij urdhri, deri më datë 25.11.2022.
+1. Autorizimin e “Tenuis Laboratories”, me NIPT: L81904506I, si laborator të autorizuar për kryerjen e analizave laboratorike të mostrave të marra gjatë kontrollit zyrtar, për llojin e analizave, sipas shtojcës I, bashkëlidhur këtij urdhri, deri më datë 25.11.2022.
