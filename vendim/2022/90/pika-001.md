@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për ndërtimin e godinës kopsht/çerdhe në zonën e re për zhvillim, Njësia Administrative Rrëshen, Bashkia Mirditë, në masën 78 537 828 (shtatëdhjetë e tetë milionë e pesëqind e tridhjetë e shtatë mijë e tetëqind e njëzet e tetë) lekë pa TVSH.
