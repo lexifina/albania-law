@@ -4,6 +4,10 @@ Nr. 146, datë 10.9.2020
 
 MBI LICENCIMIN E SHOQËRISË “SEKA HYDROPOWER” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-et “SEKË”, ME KAPACITET TË INSTALUAR 12667 kw, DHE “ZAIS”, ME KAPACITET TË INSTALUAR 2295 kw, ME KAPACITET TOTAL TË INSTALUAR 14962 kw
 
+(Ndryshuar me vendimin nr. 29, datë 14.2.2022)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike”, i ndryshuar, nenit 4, pika 1, germa “a”, nenit 5, pika 1, germa “a” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, e ndryshuar, dhe nenit 15 të “Rregullores të organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i Entit Rregullator te Energjisë (ERE), në mbledhjen e tij të datës 10.9.2020, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, nr. 92/2 prot., datë 2.9.2020, “Mbi licencimin e shoqërisë ‘Seka Hydropower’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -56,7 +60,7 @@ Për gjithë sa më sipër cituar, Bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “Seka Hydropower” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et: “Sekë”, me kapacitet të instaluar 12667 kw, dhe “Zais”, me kapacitet të instaluar 2295 kw, me kapacitet total 14962 kw, për një afat 28-vjeçar. 
+1. Të licencojë shoqërinë ‘Seka Hydropower’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC ‘Sekë’, me kapacitet të instaluar 12667 kw, për një afat 28-vjeçar.
 
 2. Drejtoria Juridike dhe Zgjidhjes së Mosmarrëveshjeve të njoftojë aplikuesin dhe palët e interesit për vendimin e bordit të ERE-s.
 
