@@ -1,0 +1,1 @@
+1. Përdorimi i përbashkët nga aviacioni civil dhe ushtarak i hapësirës ajrore dhe shërbimet që ofrohen për këtë qëllim do të organizohen në mënyrë që të garantojnë sigurinë në operim (safety), rregullsinë dhe efikasitetin ekonomik të operatorëve civilë të aviacionit, si dhe për të siguruar përmbushjen e kërkesave kombëtare të trafikut ajror.

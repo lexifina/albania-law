@@ -1,0 +1,1 @@
+2. Ofruesit e shërbimeve të lundrimit ajror dhe strukturat ushtarake të Forcave Ajrore të Republikës së Shqipërisë të planëzojnë dhe të zbatojnë programe për ndarjen e infrastrukturave dhe burimeve reciproke për të gjitha shërbimet respektive të lundrimit ajror, për sa kohë kjo nuk kufizon misionin e forcave ajrore.
