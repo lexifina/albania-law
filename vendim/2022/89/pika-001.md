@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për financimin e rikonstruksionit të godinave, spitali “Shenjta Mari” dhe Drejtoria e Shëndetit Publik (ish- Spitali Infektiv), Njësia Administrative Rrëshen, Bashkia Mirditë, në masën 413 452 654 (katërqind e trembëdhjetë milionë e katërqind e pesëdhjetë e dy mijë e gjashtëqind e pesëdhjetë e katër) lekë pa TVSH.

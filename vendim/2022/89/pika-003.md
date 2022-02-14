@@ -1,0 +1,1 @@
+3. Caktimin e Bashkisë Mirditë si njësi zbatuese për financimin e rikonstruksionit të godinave, spitali “Shenjta Mari” dhe Drejtoria e Shëndetit Publik (ish-Spitali Infektiv), Njësia Administrative Rrëshen, Bashkia Mirditë.
