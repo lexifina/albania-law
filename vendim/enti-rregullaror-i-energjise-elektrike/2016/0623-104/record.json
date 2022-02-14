@@ -1,0 +1,27 @@
+{
+  "qbz_id": 15473,
+  "title": "MBI PËRCAKTIMIN E METODOLOGJISË SË VLERAVE REFERUESE NË RAST SE TË DHËNAT E MATJES JANË PËRKOHËSISHT TË PADISPONUESHME DHE TË PAARRITSHME, SI DHE MBI SHFUQIZIMIN E VENDIMEVE TË ERE-s NR. 49, DATË 21.10.2004 DHE NR. 146, DATË 24.12.2013",
+  "type": "Vendim",
+  "number": "104",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2016-06-23",
+  "version_no": 1,
+  "qbz_version_id": 1677,
+  "in_force": "2022-02-14",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2022-02-14",
+  "changed_by_qbz_id": 24121,
+  "changed_by_number": "28",
+  "changed_by_title": "Mbi kërkesën e OSSH sh.a., për ndryshimin e vendimit të ERE-s nr. 181, datë 23.11.2016, \"Për disa ndryshime në vendimin nr. 104, datë 23.6.2016, të bordit të ERE, \"Mbi përcaktimin e metodologjisë së vlerave referuese në rast se të dhënat e matjes janë përkohësisht të padisponueshme dhe të paarritshme, si dhe mbi shfuqizimin e vendimeve të ERE nr. 49, datë 21.10.2004 dhe nr. 146, datë 24.12.2013\"\"",
+  "source": "https://qbz.gov.al/files/d56a010765403f436a016f603e9be22a2312810fb062cab2817e3e3ed0b7c0c4.docx",
+  "source_sha256": "d56a010765403f436a016f603e9be22a2312810fb062cab2817e3e3ed0b7c0c4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15473",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/15473/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
