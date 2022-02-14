@@ -1,0 +1,4 @@
+2. Bashkisë Kurbin, në buxhetin e vitit 2022, i transferohet fondi në formën e transfertës së pakushtëzuar, në masën 44 788 793 (dyzet e katër milionë e shtatëqind e tetëdhjetë e tetë mijë e shtatëqind e nëntëdhjetë e tre) lekë pa TVSH, që do të përballohet nga shpenzimet buxhetore të fondit të rindërtimit, miratuar për vitin 2022, sipas detajimit të mëposhtëm:
+a) 15 509 236 (pesëmbëdhjetë milionë e pesëqind e nëntë mijë e dyqind e tridhjetë e gjashtë) lekë për rikonstruksionin e gjimnazit “At’Shtjefen “Kurti”;
+b) 10 676 563 (dhjetë milionë e gjashtëqind e shtatëdhjetë e gjashtë mijë e pesëqind e gjashtëdhjetë e tre) lekë për rikonstruksionin e Kopshtit nr.3 Laç;
+c) 18 602 993 (tetëmbëdhjetë milionë e gjashtëqind e dy mijë e nëntëqind e nëntëdhjetë e tre) lekë për rikonstruksionin shkollës 9-vjeçare “Nike Tom Prela”.
