@@ -1,1 +1,1 @@
-1. Shpalljen si zonë e përshtatshme për zhvillimin e detyruar, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi, të zonës “5 Maji”, Njësitë Administrative 4 dhe 8, Bashkia Tiranë, zonë e re për zhvillim.
+1. Shpalljen si zonë e përshtatshme për zhvillimin e detyruar, të zonës “5 Maji”, njësitë administrative 4 dhe 8, Bashkia Tiranë, zonë e re për zhvillim, sipas hartës dhe koordinatave të aneksi nr. 1, që i bashkëlidhet këtij vendimi.
