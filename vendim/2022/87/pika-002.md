@@ -1,0 +1,1 @@
+2. Përdorimin e fondit për vitin 2022 nga Bashkia Mirditë në masën 76 756 018 (shtatëdhjetë e gjashtë milionë e shtatëqind e pesëdhjetë e gjashtë mijë e tetëmbëdhjetë) lekë, për financimin e rikonstruksionit/riparimit të mjediseve në bashkëpronësi ose të përbashkëta në ndërtesa (pallat), në Bashkinë Mirditë.

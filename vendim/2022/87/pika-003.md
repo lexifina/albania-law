@@ -1,0 +1,1 @@
+3. Efekti financiar për vitin 2022 të përballohet nga shpenzimet buxhetore të fondit të rindërtimit, miratuar për vitin 2022, dhe t’i transferohet Bashkisë Mirditë në formën e transfertës së pakushtëzuar.
