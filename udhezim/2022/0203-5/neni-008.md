@@ -1,0 +1,6 @@
+# Neni 8
+Informacioni për organet e kontrollit në terren dhe autoriteteve përkatëse
+1. Çdo subjekti, që i kërkohet nga ky udhëzim për të caktuar një apo disa këshilltarë të sigurisë, duhet:
+a) të njoftojë brenda 15 ditëve kalendarike nga data e caktimit, autoritetin përgjegjës/ autoritetin kombëtar të investigimit të aksidenteve dhe të incidenteve hekurudhore, për identitetin e këshilltarit/ve të sigurisë, si dhe për çdo ndryshim të mundshëm që ka lidhje me këtë/këta person/a.
+b) të ofrojë një kopje të raportit të çdo aksidenti dhe të raportit vjetor, të cilat janë përgatitur në përputhje me këtë udhëzim, kur kjo kërkohet nga ministria, autoritetet përgjegjëse për sigurinë hekurudhore dhe kombëtare të investigimit të aksidenteve dhe të incidenteve hekurudhore ose nga personat e autorizuar të organeve të kontrollit.
+2. Kur ndodh një aksident me pasojë dëme në persona, prona apo mjedis gjatë kryerjes së transportimit, shkarkimit ose ngarkimit të kryer nga subjekti, këshilltari i sigurisë, pas mbledhjes së të gjithë informacionit të nevojshëm, përgatit një raport mbi aksidentin për organet drejtuese të subjektit, si dhe për personat e autorizuar për kontroll, sipas neneve 30 dhe 39, të ligjit për transportin e mallrave të rrezikshme, për ministritë e interesuara ose institucionet e tjera të ngarkuara me ligj, sa herë kërkohet prej tyre.
