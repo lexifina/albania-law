@@ -1,0 +1,1 @@
+7. Pezullimi i licencës për ushtrimin e veprimtarisë së institucionit arsimor parauniversitar privat, kopshti “Anxhes”, Roskovec, licencuar nga institucioni përgjegjës i licencimit me nr. LN-0690-12-2015 të publikohet në Regjistrin Kombëtar të Licencave, Autorizimeve dhe Lejeve.

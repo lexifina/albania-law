@@ -1,0 +1,1 @@
+6. Drejtoria e Përgjithshme e Arsimit Parauniversitar dhe Drejtoria Rajonale e Arsimit Parauniversitar, Fier të monitorojnë veprimtarinë e Zyrës Vendore të Arsimit Parauniversitar, Roskovec, për zbatimin e detyrave, sipas këtij urdhri.

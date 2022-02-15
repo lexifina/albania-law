@@ -1,0 +1,1 @@
+3. Në rast të mospërmbushjes së kritereve të licencimit, brenda afatit të pezullimit, ministri përgjegjës për arsimin revokon licencën e institucionit arsimor parauniversitar privat dhe publikon vendimin për revokimin e licencës në Regjistrin Kombëtar të Licencave, Autorizimeve dhe Lejeve.
