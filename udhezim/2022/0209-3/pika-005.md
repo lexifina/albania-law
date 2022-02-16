@@ -1,0 +1,1 @@
+5. Anëtarët e Komisionit nuk duhet të jenë në konflikt interesi me aplikantin, në kuptim të legjislacionit në fuqi për parandalimin e konfliktit të interesit. Në mbledhjen e parë të Komisionit, anëtarët plotësojnë deklaratën e konfliktit të interesit, sipas shtojcës 3/1, bashkëlidhur këtij udhëzimi.

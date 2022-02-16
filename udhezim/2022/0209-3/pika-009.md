@@ -1,0 +1,1 @@
+9. Anëtari i Komisionit që mungon ose që është në konflikt interesi me aplikantin, zëvendësohet. Zëvendësimi kryhet brenda 1 (një) dite pune nga titullari i ZVAP-së, për anëtarin e zgjedhur prej tij; bordi i IPAP-së; këshilli i prindërve të IPAP-së ose këshilli i mësuesve, për anëtarët e zgjedhur prej tyre.

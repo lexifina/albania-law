@@ -1,0 +1,1 @@
+3. ZVAP-ja shpall vendin e lirë për nëndrejtor të IPAP-së në faqen elektronike zyrtare të ZVAP-së, si dhe në këndin e njoftimeve të ZVAP-së. Shpallja publikohet edhe në këndin e njoftimeve të IPAP-së, për të cilin bëhet shpallja e vendit të lirë për nëndrejtor.

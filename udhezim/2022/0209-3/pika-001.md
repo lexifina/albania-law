@@ -1,0 +1,1 @@
+1. Drejtori i institucionit publik të arsimit parauniversitar (IPAP), jo më vonë se 5 (pesë) ditë pune nga krijimi i vendit të lirë për nëndrejtor, njofton zyrtarisht zyrën vendore të arsimit parauniversitar (ZVAP), për vendin e lirë të punës.
