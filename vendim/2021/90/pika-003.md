@@ -1,1 +1,0 @@
-3. Ministritë dhe institucionet e tjera koordinuese të GNPIE-së raportojnë çdo muaj pranë Ministrisë për Evropën dhe Punët e Jashtme dhe pranë Kryenegociatorit për negociatat e anëtarësimit në Bashkimin Evropian për ecurinë e zbatimit të PKIE-së 2021-2023.
