@@ -1,0 +1,1 @@
+6. Legjislacioni i BE-së, për masat afatmesme të planifikuara në PKIE 2022-2024, t’i nënshtrohet procedurës së përkthimit dhe miratimit të materialeve të përkthyera, sipas parashikimeve të akteve nënligjore përkatëse.

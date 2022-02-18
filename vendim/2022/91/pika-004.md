@@ -1,0 +1,1 @@
+4. Ministria për Evropën dhe Punët e Jashtme ngarkohet të raportojë, çdo 3 (tre) muaj, në Këshillin e Ministrave dhe te Kryenegociatori për negociatat e anëtarësimit në Bashkimin Evropian për ecurinë e zbatimit të PKIE-së 2022-2024.
