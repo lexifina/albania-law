@@ -1,0 +1,1 @@
+7. Pronarët e pasurive të paluajtshme, pronë private, përmendur në tabelën, që i bashkëlidhet këtij vendimi, kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin justifikues për likuidim pranë Bashkisë Kavajë.
