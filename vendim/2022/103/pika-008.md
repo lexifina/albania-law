@@ -1,0 +1,1 @@
+8. Të gjitha ndryshimet në arkitekturën software dhe hardware të sistemit “Baza e të dhënave shtetërore për trafikun detar”, të cilat mund të ndodhin në varësi të nevojave të institucionit dhe praktikave evropiane e ndërkombëtare në fushën e mbrojtjes së të dhënave, bëhen në përputhje me legjislacionin në fuqi.

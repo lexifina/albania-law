@@ -1,0 +1,1 @@
+7. Çdo përdorues identifikohet në sistem nëpërmjet llogarisë së tij personale dhe ka role me nivele aksesi e të drejtash, sipas rregullores “Për organizimin dhe funksionimin e brendshëm të bazës së të dhënave shtetërore për trafikun detar”, e cila miratohet nga drejtori administrativ i QNOD-së.

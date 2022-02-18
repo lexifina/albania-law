@@ -1,0 +1,1 @@
+5. Baza e të dhënave të sistemit “Baza e të dhënave shtetërore për trafikun detar” ndërvepron me baza të tjera të dhënash: sistemin e monitorimit të anijeve të peshkimit VMS (Vessel Monitoring System), sistemin qendror të inspektimeve (e-inpektimi), portalin unik qeveritar e-Albania dhe regjistrin e mjeteve lundruese.
