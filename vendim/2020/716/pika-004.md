@@ -1,1 +1,0 @@
-4. Kategoritë e pagave të pozicioneve “Koordinator”, pjesë të Rrjetit të Koordinatorëve Antikorrupsion, për institucionet e përcaktuara në pikën 1.2, të këtij vendimi, janë sipas lidhjes nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
