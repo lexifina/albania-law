@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës për nënshkrimin e kontratave me subjektet fituese të thirrjes për mbështetje financiare të projekteve në fushën e turizmit, për vitin 2022, znj. Ledina Beqiraj Agalliu, Sekretar i Përgjithshëm.
