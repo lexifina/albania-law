@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Korçë, brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, nis procedurat për hedhjen e gjurmës së projektit mbi hartën kadastrale të regjistrimit, sipas planimetrisë së shpronësimit të miratuar, dhe bën kalimin e pronësisë për pasuritë e shpronësuara në favor të Bashkisë Maliq.

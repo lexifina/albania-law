@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Korçë, pezullon të gjitha transaksionet me pasurinë e shpronësuar, deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale të regjistrimit dhe kalimi i pronësisë në favor të Bashkisë Maliq për pasurinë e shpronësuar.
