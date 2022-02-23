@@ -1,1 +1,0 @@
-1. Nënshkrimin e autorizimeve për përfaqësimin e Ministrisë për Evropën dhe Punët e Jashtme përpara gjykatave, prokurorisë, zyrave të përmbarimit gjyqësor, në çështjet në të cilat Ministria për Evropën dhe Punët e Jashtme është palë.
