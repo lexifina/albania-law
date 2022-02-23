@@ -12,6 +12,9 @@ Gjithashtu, do të pranohen dokumente të lëshuara nga çdo bankë, institucion
 c) Certifikata e kompetencës profesionale për drejtuesin e veprimtarisë, i cili mund të jetë ortaku i vetëm ose një prej ortakëve, apo administratori i subjektit ose një person i punësuar me kontratë për një periudhë të paktën 5 vjeçare;
 d) Regjistrimi në Regjistrin Tregtar pranë Qendrës Kombëtare të Biznesit (QKB), ku objekti i veprimtarisë duhet të jetë “Për transport udhëtarësh brenda vendit”.
 e) Licenca origjinale e lëshuar nga bashkia, dhe në rast se dokumenti origjinal ka humbur, apo është dëmtuar, kopja e njehsuar me origjinalin.
+f) Vërtetim nga administrata tatimore dhe nga bashkia përkatëse për shlyerjen e detyrimeve tatimore (dokumenti do të gjenerohet nëpërmjet ndërveprimit institucion me institucion nga sistemi i qarkullimit të dokumenteve me nënshkrim elektronik SQDNE);
+h) Vërtetim i gjendjes gjyqësore (dëshmi penaliteti) për administratorin dhe drejtuesin teknik të shoqërisë; (dokumenti do të gjenerohet nëpërmjet ndërveprimit institucion me institucion nga sistemi i qarkullimit të dokumenteve me nënshkrim elektronik SQDNE);
+i) Dokument i lëshuar nga gjykata, i cili të vërtetojë se administratori dhe drejtuesi teknik i shoqërisë nuk janë në proces penal.
 1.2 Për mjetet, numrin e nevojshëm të kërkuar për shërbimin që do të operohet dhe për secilin mjet dokumentet si më poshtë:
 a) Leja e qarkullimit;
 b) Certifikata e kontrollit teknik të mjeteve;
