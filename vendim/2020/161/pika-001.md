@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është përcaktimi i rregullave dhe plotësimi i kuadrit nënligjor që lidhet me parandalimin dhe reduktimin e ndotjes nga asbesti, në interes të mbrojtjes së shëndetit të njeriut dhe të mjedisit.

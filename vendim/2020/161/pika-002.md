@@ -1,0 +1,1 @@
+2. Këto rregulla zbatohen në përputhje dhe pa cenuar legjislacionin specifik për mbrojtjen e punëmarrësve nga risqet që lidhen me asbestin në vendin e punës, legjislacionin që përcakton ndalimet mbi prodhimin, vendosjen në treg dhe përdorimin e fibrave të asbestit, të përzierjeve dhe produkteve që përmbajnë asbest dhe legjislacionin për menaxhimin e integruar të mbetjeve.

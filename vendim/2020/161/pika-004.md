@@ -1,0 +1,4 @@
+4. Trajtimi i mbetjeve të asbestit dhe paketimeve që përmbajnë pluhur asbesti ose fibra asbesti kryhet nga persona fizikë/juridikë të pajisur me leje mjedisi, në përputhje me legjislacionin në fuqi “Për lejet e mjedisit”, të ndryshuar, dhe licencën për veprimtaritë e tjera profesionale, lidhur me ndikimin në mjedis, me kodin III.2.B, të cilët duhet të marrin masat e nevojshme për të siguruar se:
+a) menaxhimi i mbetjeve të asbestit bëhet në përputhje me legjislacionin në fuqi për menaxhimin e integruar të mbetjeve;
+b) gjatë transportimit dhe depozitimit të mbetjeve të asbestit ndalohet çlirimi në ajër i fijeve ose pluhurit të asbestit, si dhe derdhja e shkarkimeve të lëngëta, që mund të përmbajnë fibra asbesti;
+c) mbetjet, që përmbajnë fibra ose pluhur asbesti, të cilat transportohen dhe asgjësohen në landfill, janë të trajtuara, të paketuara dhe të etiketuara me qëllim parandalimin e lëshimit dhe të përhapjes së fibrave ose pluhurit të asbestit në mjedis.
