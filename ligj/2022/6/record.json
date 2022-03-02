@@ -1,0 +1,26 @@
+{
+  "qbz_id": 65534,
+  "title": "Për disa ndryshime dhe shtesa në ligjin nr.112/2020 “Për regjistrin e pronarëve përfitues”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "6",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2022-01-27",
+  "published": "2022-02-15",
+  "in_force": "2022-03-02",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/bbd21912d91471ff97604f57a5a3cf4813a7aecdf593c1fcd8969db16f6a4710.docx",
+  "source_sha256": "bbd21912d91471ff97604f57a5a3cf4813a7aecdf593c1fcd8969db16f6a4710",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65534",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2022/01/27/6",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
