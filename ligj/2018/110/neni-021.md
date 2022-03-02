@@ -13,4 +13,6 @@ e) ka marrë masë disiplinore për heqje të licencës së ushtrimit të profes
 ë) nuk ushtron veprimtarinë noteriale për një periudhë kohe deri në 60 ditë rresht pa shkak të arsyeshëm, të dokumentuar dhe të njoftuar me shkrim pranë Dhomës Kombëtare të Noterisë dhe Ministrinë e Drejtësisë;
 f) është shpallur i falimentuar, me vendim gjyqësor të formës së prerë;
 g) nuk kryen pagesën e kontributit për sigurimin e detyrueshëm profesional.
+gj) përfshihet në listën e personave të shpallur sipas legjislacionit në fuqi për masat kundër financimit të terrorizmit;
+h) kur pranohet kërkesa e autoritetit përgjegjës për revokimin e licencës së noterit, në përputhje me legjislacionin në fuqi për parandalimin e pastrimit të parave dhe financimit të terrorizmit.
 2. Ministri i Drejtësisë ose organet drejtuese të Dhomës kërkojnë, me vendim të arsyetuar, një akt ekspertimi nga Instituti i Mjekësisë Ligjore për certifikimin e paaftësisë për të ushtruar profesionin e noterit.

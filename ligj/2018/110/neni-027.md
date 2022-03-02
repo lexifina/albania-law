@@ -1,6 +1,10 @@
 # Neni 27
 Shkeljet disiplinore dhe masat kundrejt zëvendësnoterit
-1. Zëvendësnoteri kryen shkelje disiplinore në rastet kur shkel detyrimet ligjore të parashikuara në këtë ligj dhe në legjislacionin në fuqi.
+1. Zëvendësnoteri kryen shkelje disiplinore gjatë ushtrimit të funksionit në rastet kur shkel detyrimet ligjore të parashikuara në këtë ligj dhe në legjislacionin në fuqi.
+1/1. Zëvendësnoteri kryen një shkelje disiplinore jashtë ushtrimit të funksionit kur në veçanti, por pa u kufizuar në to, kryen veprimet, mosveprimet ose sjelljen e mëposhtme:
+a) përdorimi i paligjshëm i statusit të zëvendësnoterit, me qëllim krijimin e përfitimeve për vete ose për të tjerët;
+b) përfitimi i padrejtë, në mënyrë të drejtpërdrejtë ose të tërthortë i dhuratave, favoreve, premtimeve ose trajtimeve preferenciale të çfarëdo lloji, të cilat jepen për shkak të funksionit që ushtron ose si rrjedhojë e shfrytëzimit të pozicionit të zëvendësnoterit, edhe në rastin kur formalizohen me një veprim juridik;
+c) raste të tjera të sjelljes së rëndë të papërshtatshme etike dhe morale që cenojnë besimin e publikut në sistemin noterial, të kryera jashtë ushtrimit të detyrës.
 2. Për shkelje të dispozitave që rregullojnë ushtrimin e profesionit dhe të veprimtarisë së zëvendësnoterit, jepen masat disiplinore të mëposhtme:
 a) vërejtje me shkrim;
 b) vërejtje me paralajmërim për heqjen e lejes për ushtrimin e veprimtarisë së zëvendësnoterit;
