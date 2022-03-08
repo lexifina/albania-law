@@ -1,0 +1,1 @@
+2. Këta shtetas mund të rihyjnë dhe të qëndrojnë pa leje qëndrimi në Republikën e Shqipërisë për një afat të ri deri në një vit, nëse kanë qëndruar më shumë se 90 ditë jashtë territorit të Republikës së Shqipërisë.
