@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për financimin e rindërtimit, mbikëqyrjes dhe kolaudimit të shkollës 9-vjeçare “Picar”, Bashkia Vorë, në masën 139 613 966.96 (njëqind e tridhjetë e nëntë milionë e gjashtëqind e trembëdhjetë mijë e nëntëqind e gjashtëdhjetë e gjashtë pikë nëntëdhjetë e gjashtë) lekë pa TVSH.
