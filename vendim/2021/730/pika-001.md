@@ -1,1 +1,1 @@
-1. Përjashtimisht, për vitin 2021, procedura e pranimit të drejtpërdrejtë në TND është e hapur edhe për kandidatë të tjerë jashtë shërbimit civil, që plotësojnë kërkesat specifike për pranimin në TND.
+1. Përjashtimisht vitet 2021 dhe 2022, procedura e pranimit të drejtpërdrejtë në TND është e hapur edhe për kandidatë të tjerë jashtë shërbimit civil, që plotësojnë kërkesat specifike për pranimin në TND.

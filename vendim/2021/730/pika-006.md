@@ -1,0 +1,2 @@
+6. Në rast se numri i pozicioneve vakante të TND-së, sipas pikës 3, të këtij vendimi, nuk plotësohet nëpërmjet procedurës së konkurrimit të nisur në vitin 2021, Departamenti i Administratës Publike zhvillon një procedurë të re pranimi të drejtpërdrejtë në TND gjatë vitit 2022 për numrin e pozicioneve të mbetura vakante dhe brenda numrit të përcaktuar në pikën 3, të këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
