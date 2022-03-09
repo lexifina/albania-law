@@ -1,0 +1,1 @@
+2. Organet përgjegjëse mund të autorizojnë një avion të ulet, të ngrihet ose të fluturojë mbi territorin e Republikës së Shqipërisë nëse autoritetet kompetente kanë përcaktuar se një ulje, ngritje ose fluturim i tillë kërkohet për qëllime humanitare ose për çdo qëllim tjetër, në përputhje me objektivat e këtij vendimi.

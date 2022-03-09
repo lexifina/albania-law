@@ -1,0 +1,1 @@
+4. Ky vendim do të jetë në fuqi deri në miratimin nga Këshilli i Ministrave të vendimit të Këshillit të Bashkimit Evropian (CFSP) 2022/335, të datës 28 shkurt 2022, i cili ndryshon vendimin (CFSP )2014/512, në lidhje me masat kufizuese, në përgjigje të veprimeve të Rusisë që destabilizojnë situatën në Ukrainë.

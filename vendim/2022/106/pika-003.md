@@ -1,0 +1,1 @@
+3. Organet përgjegjëse do të refuzojnë të gjitha planet e fluturimit të paraqitura nga operatorët e avionëve, që tregojnë një synim për të kryer aktivitete mbi territorin e Republikës së Shqipërisë, që përbëjnë shkelje të dispozitave të këtij vendimi ose të masave të tjera të sigurisë dhe sigurisë në fuqi, në mënyrë që piloti të mos lejohet të fluturojë.
