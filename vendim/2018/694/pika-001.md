@@ -1,1 +1,0 @@
-1. Miratimin e modelit të uniformave ushtarake, gradave, simboleve, flamujve dhe shenjave të tjera dalluese të uniformës ushtarake, që mbajnë Forcat e Armatosura të Republikës së Shqipërisë, sipas albumit bashkëlidhur këtij vendimi.

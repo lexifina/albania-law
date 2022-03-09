@@ -1,1 +1,0 @@
-3. Vendimi nr. 503, datë 13.7.2011, i Këshillit të Ministrave, “Për miratimin e modelit të uniformave, gradave e shenjave që mbahen në uniformë, si dhe të stemave të strukturave e të flamujve dekorativë, që mbajnë forcat e armatosura të Republikës së Shqipërisë”, shfuqizohet.
