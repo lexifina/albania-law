@@ -1,0 +1,1 @@
+6. Ministria e Financave dhe Ekonomisë ka rol të përgjithshëm këshillues në interes të politikave qeveritare për promovimin e efektshmërisë, performancës së lartë dhe mirëqeverisjes financiare në të gjithë sektorin publik dhe në ato institucione financiare në të cilat qeveria merr pjesë.
