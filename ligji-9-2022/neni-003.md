@@ -1,0 +1,10 @@
+# Neni 3
+Përkufizime
+Në këtë ligj termat e mëposhtëm kanë këto kuptime:
+1. “Ministri” ose “ministria” është ministri ose ministria përgjegjëse për drejtësinë.
+2. “Ndërmjetës i pasurive të paluajtshme” është personi fizik i certifikuar nga ministria përgjegjëse për drejtësinë për të ndërmjetësuar përfundimin e një marrëveshjeje për realizimin e veprimit juridik të kalimit të pronësisë së pasurive të paluajtshme ose të të drejtave reale mbi to.
+3. “Pasuri e paluajtshme” ose “pasuri” është çdo send i paluajtshëm sipas kuptimit të Kodit Civil.
+4. “Person i lidhur” është rrethi i personave që kanë marrëdhënie me ndërmjetësin e pasurive të paluajtshme ose kandidatin për ndërmjetës të pasurive të paluajtshme, i përbërë nga bashkëshorti, bashkëjetuesi, prindërit, fëmijët dhe çdo person tjetër i përmendur në certifikatën familjare të lëshuar nga zyra e gjendjes civile, si dhe çdo person fizik ose juridik, që dihet botërisht se ka ose ka pasur marrëdhënie të ngushta biznesi.
+5. “Regjistri i Ndërmjetësve të Pasurive të Paluajtshme” është regjistri i të dhënave për zyrat e ndërmjetësimit të pasurive të paluajtshme dhe ndërmjetësit e pasurive të paluajtshme administruar në përputhje me këtë ligj, në të cilin regjistrohen të dhënat për marrjen dhe heqjen e certifikatës së ushtrimit të profesionit të ndërmjetësit të pasurive të paluajtshme, përmbushjen e detyrimeve ligjore, si dhe ecurinë disiplinore të tyre.
+6. “Veprime juridike me pasuritë e paluajtshme” janë çdo lloj veprimi juridik, që ka si objekt kalimin e të drejtës së pronësisë së pasurive të paluajtshme ose të të drejtave reale mbi to, ku përfshihen, por pa u kufizuar, kontratë shitjeje, shkëmbimi, qiraje ose enfiteoze.
+7. “Veprimtaria e ndërmjetësimit të pasurive të paluajtshme” është çdo veprimtari që kryen ndërmjetësi i pasurive të paluajtshme për të ndërmjetësuar përfundimin e një marrëveshjeje për realizimin e veprimit juridik të kalimit të pronësisë së pasurive të paluajtshme ose të të drejtave reale mbi to, duke përfshirë edhe publicitetin kur kryhet nga ndërmjetësi me qëllim promovimin e pasurisë së paluajtshme për palët e treta.

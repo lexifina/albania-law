@@ -1,0 +1,6 @@
+# Neni 9
+Programi i detyrueshëm i trajnimit
+1. Programi i detyrueshëm i trajnimit për kandidatët për ndërmjetës të pasurive të paluajtshme zhvillohet për një kohëzgjatje prej jo më pak se 60 orësh dhe ka si qëllim aftësimin e tyre me njohuritë e duhura profesionale për ushtrimin e veprimtarisë e veçanërisht për të raportuar transaksionet e dyshimta me pasuritë e paluajtshme, të cilat mund të kenë si qëllim realizimin e pastrimit të parave ose financimin e terrorizmit, sipas legjislacionit përkatës në fuqi.
+2. Programi i detyrueshëm i trajnimit realizohet nga Shkolla Shqiptare e Administratës Publike, nga institucione të arsimit të lartë të akredituara sipas ligjit ose nga shoqatat profesionale të ndërmjetësve të pasurive të paluajtshme pas miratimit nga ministri.
+3. Pas përfundimit të programit të detyrueshëm të trajnimit, kandidati për ndërmjetës i pasurive të paluajtshme pajiset me certifikatën për përfundimin e tij.
+4. Përmbajtja dhe organizimi i programit të detyrueshëm të trajnimit, pjesëmarrja në trajnim, kohëzgjatja, mënyra e zhvillimit dhe e kontrollit të njohurive, si dhe tarifat e trajnimit përcaktohen në rregulloren e programit të detyrueshëm të trajnimit, e cila miratohet me urdhër të ministrit.

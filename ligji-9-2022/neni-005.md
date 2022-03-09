@@ -1,0 +1,5 @@
+# Neni 5
+Ushtrimi i profesionit të ndërmjetësit të pasurive të paluajtshme
+1. Profesioni i ndërmjetësit të pasurive të paluajtshme mund të ushtrohet vetëm nga personi që është certifikuar për kryerjen e kësaj veprimtarie dhe është i regjistruar në Regjistrin e Ndërmjetësve të Pasurive të Paluajtshme në përputhje me kushtet e kriteret e parashikuara në këtë ligj.
+2. Ndërmjetësi i pasurive të paluajtshme mund të ushtrojë veprimtarinë e tij edhe nëpërmjet mjeteve elektronike ose në distancë. Në çdo rast, kur veprimtaria ushtrohet nëpërmjet mjeteve elektronike ose në distancë, ndërmjetësi është i detyruar të njoftojë identitetin e tij, numrin e certifikatës, si dhe numrin unik të identifikimit të subjektit.
+3. Çdo person tjetër që nuk është certifikuar për ushtrimin e profesionit të ndërmjetësit të pasurive të paluajtshme nuk lejohet të ndërmjetësojë kryerjen e veprimeve juridike për kalimin e pasurive të paluajtshme ose të të drejtave reale mbi to, pavarësisht formës ose mjetit që përdoret për ndërmjetësimin.

@@ -1,0 +1,5 @@
+# Neni 7
+Organi certifikues
+1. Ministri është autoriteti shtetëror përgjegjës, i cili u jep certifikatën individuale për ushtrimin e veprimtarisë së ndërmjetësimit të pasurive të paluajtshme personave fizikë që kërkojnë të ushtrojnë veprimtarinë e tyre si ndërmjetës të pasurive të paluajtshme në përputhje me rregullat dhe procedurat e parashikuara në këtë ligj.
+2. Ministri jep certifikatën brenda 60 ditëve nga data e paraqitjes së dokumentacionit të nevojshëm, që vërteton përmbushjen e kritereve të parashikuara në pikat 1, 2 dhe 3 të nenit 8 të këtij ligji. Ndërmjetësi i pasurive të paluajtshme pas marrjes së certifikatës dhe përpara fillimit të veprimtarisë regjistrohet në organet tatimore në përputhje me aktet ligjore në fuqi.
+3. Kërkesa për pajisjen me certifikatën individuale për ushtrimin e veprimtarisë së ndërmjetësimit të pasurive të paluajtshme konsiderohet e miratuar në heshtje nëse ministri nuk i njofton vendimin përkatës subjektit kërkues brenda afatit të përcaktuar në pikën 2 të këtij neni, ose nuk njofton zgjatjen e afatit sipas përcaktimeve të nenit 97 të ligjit nr. 44/2015 “Kodi i Procedurave Administrative i Republikës së Shqipërisë”.
