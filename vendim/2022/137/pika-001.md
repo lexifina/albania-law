@@ -1,0 +1,1 @@
+1. Lejimin e përdorimit të brigjeve të detit dhe të zonës përkatëse të plazhit përballë kompleksit, në funksion të realizimit të projektit investues strategjik “Dreamades Luxury Suites”, Gjilekë, Himarë, i cili me vendimin nr. 3/5, datë 29.3.2021, të Komitetit të Investimeve Strategjike, të ndryshuar, ka përfituar statusin “Investim/investitor strategjik, procedurë e asistuar”.
