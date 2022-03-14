@@ -1,1 +1,0 @@
-13. Ministri përgjegjës për sportin ka të drejtë të urdhërojë pezullimin e dhënies së grandit apo ndryshimin e destinacionit të tij, nëse konstatohet se nuk zbatohen kërkesat e këtij udhëzimi ose për arsye/shkaqe të tjera të motivuara.

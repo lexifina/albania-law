@@ -1,1 +1,0 @@
-1. Për qëllim të zbatimit të këtij udhëzimi, fonde “Grand/transfertë korrente e brendshme”, janë fondet publike që alokohen nga buxheti i shtetit për federatat shqiptare sportive dhe për Komitetin Olimpik Kombëtar Shqiptar.

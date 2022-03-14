@@ -1,1 +1,0 @@
-7. Federata plotëson formularin, shoqëruar me dokumentacionin mbështetës, sipas shtojcës nr. 3, bashkëlidhur dhe pjesë e këtij udhëzimi, dhe e dërgon në rrugë postare në ministrinë përgjegjëse për sportin nga data 1 dhjetor deri në datën 15 dhjetor.

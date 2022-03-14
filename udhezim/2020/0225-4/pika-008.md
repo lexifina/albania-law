@@ -1,1 +1,0 @@
-8. Drejtoria e Përgjithshme e Politikave dhe Zhvillimit të Arsimit, Sportit dhe Rinisë shqyrton dhe vlerëson aplikimet e federatave, duke u mbështetur në kriteret e përcaktuara me këtë udhëzim dhe bën renditjen përfundimtare të federatave, sipas pikëve të përfituara.

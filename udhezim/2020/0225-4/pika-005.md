@@ -1,3 +1,0 @@
-5. Zërat e shpenzimeve që lejohen të përballohen nga fondi “Grand/transfertë korrente e brendshme” për Komitetin Olimpik Kombëtar Shqiptar janë si më poshtë:
-a) financimi i kontratave të punësimit, për jo më shumë se dy punonjës, në nivelin e pagës së një institucioni qendror/ministri, në kategorinë III-b dhe IV-a, në rast se Komiteti Olimpik Kombëtar Shqiptar e vlerëson të nevojshëm punësimin e tyre me vendim të Asamblesë së Përgjithshme;
-b) financimi/bashkëfinancimi i shpenzimeve operative, në varësi edhe me të ardhurat nga burime të tjera në dispozicion, për mbështetjen e sportistëve elitarë, ekipeve kombëtare për sportet verore dhe dimërore.

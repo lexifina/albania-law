@@ -1,1 +1,0 @@
-12. Federatat shqiptare sportive duhet të bëjnë transparente për anëtarët e tyre ndarjen e të gjitha fondeve të përfituara në vitin korrent, si dhe të publikojnë këtë informacion në website-t e çdo organizate. Drejtoria përgjegjëse për programet e zhvillimit të sportit monitoron zbatimin e këtij detyrimi.

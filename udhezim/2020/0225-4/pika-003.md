@@ -1,1 +1,0 @@
-3. Ministria e Arsimit, Sportit dhe Rinisë do të trajtojë ndarjen e fondeve “Grand” për federatat shqiptare të sportit, mbështetur në renditjen përfundimtare të tyre, sipas pikëve të përfituara në kriteret e përcaktuara në shtojcën nr. 1, bashkëlidhur dhe pjesë përbërëse e këtij udhëzimi, si dhe Komitetin Olimpik Kombëtar Shqiptar.
