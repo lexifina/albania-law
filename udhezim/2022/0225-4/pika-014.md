@@ -1,0 +1,1 @@
+14. Federatat sportive olimpike, Komiteti Olimpik Kombëtar Shqiptar dhe Organizata Kombëtare Antidoping duhet të bëjnë transparente për anëtarët e tyre, ndarjen e fondeve të përfituara në vitin korrent, si dhe të publikojnë këtë informacion në faqen zyrtare të çdo organizate. Struktura përgjegjëse për sportin monitoron zbatimin e këtij detyrimi.

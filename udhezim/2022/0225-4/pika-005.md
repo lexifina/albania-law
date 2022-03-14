@@ -1,0 +1,4 @@
+5. Financimi i organizatave në funksion të sportit (KOKSH dhe Organizata Kombëtare Antidoping), si dhe i federatave sportive joolimpike, do të jetë në kufijtë e mëposhtëm, në varësi me buxhetin vjetor në dispozicion:
+a) Komiteti Olimpik Kombëtar Shqiptar do të financohet në masën deri në 7% të fondit total;
+b) Organizata Kombëtare Antidoping, në masën deri në 3% të fondit total;
+c) Federatat joolimpike, për projektpropozimet e paraqitura, financimi total vjetor do të jetë deri në 20% e fondit total. Në rast se aplikimet e projektpropozimeve të federatave joolimpike nuk ezaurojnë fondin vjetor në dispozicion të tyre, fondi i mbetur i papërdorur do të alokohet për të shtuar financimin e federatave sportive olimpike dhe organizatave në funksion të sportit (KOKSH dhe Organizata Kombëtare Antidoping).

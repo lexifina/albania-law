@@ -1,0 +1,1 @@
+3. Shpërndarja e fondeve për çdo federatë sportive olimpike bazohet në vlerësimin e tyre, sipas një sistemi pikëzimi, në përputhje me kriteret e përcaktuara në shtojcën nr. 1, bashkëlidhur dhe pjesë përbërëse e këtij udhëzimi dhe metodikës së përcaktuar në këtë udhëzim.

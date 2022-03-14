@@ -1,0 +1,1 @@
+1. Për qëllim të zbatimit të këtij udhëzimi, fonde “Grant/transfertë korrente e brendshme”, janë fondet publike që alokohen nga buxheti i shtetit për federatat sportive, Komitetin Olimpik Kombëtar Shqiptar dhe Organizatën Kombëtare Antidoping.

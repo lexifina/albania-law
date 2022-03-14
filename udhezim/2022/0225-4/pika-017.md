@@ -1,0 +1,1 @@
+17. Udhëzimi i përbashkët nr. 4, datë 25.2.2020, “Për mënyrën e përdorimit të fondit ’grant/transfertë korrente e brendshme’, për federatat sportive dhe Komitetin Olimpik Kombëtar Shqiptar dhe sistemin e pikëzimit të kritereve prioritare të vlerësimit”, shfuqizohet.

@@ -1,0 +1,3 @@
+6. “Shuma e financimit” për federatat sportive olimpike përllogaritet si prodhim i “shumës totale të fondit në dispozicion” me “koeficientin e financimit” të përllogaritur për çdo federatë olimpike, ku:
+- “Shuma vjetore e fondit në dispozicion” është shuma e grandit/transfertës, që mbetet pas zbritjeve të parashikuara në pikën 5 të këtij udhëzimi, e cila do të shpërndahet për federatat sportive olimpike, në përputhje me koeficientin e saj të financimit.
+- “Koeficienti i financimit” për çdo federatë sportive olimpike përllogaritet si raport i shumës së pikëve, që siguron çdo federatë olimpike ndaj shumës totale të pikëve të të gjitha federatave olimpike, që kanë aplikuar për financim gjatë vitit, sipas metodikës dhe kritereve të përcaktuar në shtojcën 1.
