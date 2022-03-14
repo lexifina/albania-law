@@ -1,0 +1,1 @@
+3. Reduktimi i shpenzimeve sipas pikës 1, të këtij vendimi, të zbatohet deri në datën kur do të shpallet përfundimi i situatës së veçantë të përcaktuar në aktin normativ nr.5, datë 12.3.2022, të Këshillit të Ministrave, “Për disa shtesa në ligjin nr.8450, datë 24.2.1999, “Për përpunimin, transportimin dhe tregtimin e naftës, të gazit dhe nënprodukteve të tyre”, të ndryshuar”.
