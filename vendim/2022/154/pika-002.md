@@ -1,0 +1,1 @@
+2. Numri i punonjësve, për vitin 2022, për Agjencinë Kombëtare të Shoqërisë së Informacionit shtohet me 12 (dymbëdhjetë) punonjës dhe për Komitetin e Pakicave Kombëtare shtohet me 4 (katër) punonjës, duke e çuar numrin e përgjithshëm të institucioneve në varësi të Kryeministrisë në 1 363 (një mijë e treqind e gjashtëdhjetë e tre) veta.

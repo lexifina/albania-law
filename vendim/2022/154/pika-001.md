@@ -1,0 +1,1 @@
+1. Numri i punonjësve të Ministrisë së Bujqësisë dhe Zhvillimit Rural, për vitin 2022, shtohet me 42 (dyzet e dy) punonjës, duke e çuar numrin e përgjithshëm në 2 459 (dy mijë e katërqind e pesëdhjetë e nëntë) veta.
