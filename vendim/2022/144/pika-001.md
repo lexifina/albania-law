@@ -1,0 +1,6 @@
+1. Përdorimin e fondit të rindërtimit, në masën 489 472 928 (katërqind e tetëdhjetë e nëntë milionë e katërqind e shtatëdhjetë e dy mijë e nëntëqind e njëzet e tetë) lekë, për financimin e rikonstruksionit të njësive individuale të banimit dhe njësive të banimit në ndërtesa (pallat) për ata individë, të cilët përfitojnë nga grantet e rikonstruksionit, banesat e të cilëve janë klasifikuar si objekte të dëmtuara rëndë apo të dëmtuara lehtë si pasojë e fatkeqësisë natyrore dhe që nuk duhen rindërtuar nga e para, por kanë nevojë për punime rikonstruksioni ose riparime në bashkitë Shijak, Krujë, Kavajë, Kamzë dhe Mirditë, sipas detajimit të mëposhtëm:
+a) Bashkisë Shijak i transferohet fondi, në masën 247 352 928 (dyqind e dyzet e shtatë milionë e treqind e pesëdhjetë e dy mijë e nëntëqind e njëzet e tetë) lekë pa TVSH;
+b) Bashkisë Krujë i transferohet fondi, në masën 16 350 000 (gjashtëmbëdhjetë milionë e treqind e pesëdhjetë mijë) lekë pa TVSH;
+c) Bashkisë Kavajë i transferohet fondi, në masën 184 300 000 (njëqind e tetëdhjetë e katër milionë e treqind mijë) lekë pa TVSH;
+ç) Bashkisë Kamzë i transferohet fondi, në masën 12 540 000 (dymbëdhjetë milionë e pesëqind e dyzet mijë) lekë pa TVSH;
+d) Bashkisë Mirditë i transferohet fondi në masën 28 930 000 (njëzet e tetë milionë e nëntëqind e tridhjetë mijë) lekë pa TVSH.
