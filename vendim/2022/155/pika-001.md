@@ -1,0 +1,1 @@
+1. Miratimin e rregullave të përgjithshme për procedurat e dhënies të së drejtës së kalimit për ndërtimin e rrjeteve të komunikimeve elektronike me shpejtësi të lartë, sipas tekstit që i bashkëlidhet këtij vendimi.
