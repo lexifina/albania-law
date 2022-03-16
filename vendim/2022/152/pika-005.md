@@ -1,0 +1,3 @@
+5. Mbledhjet e KM-së thërriten nga kryetari i KM-së ose me kërkesën me shkrim nga së paku 50 (pesëdhjetë) % e anëtarëve. Mbledhja e KM-së është e vlefshme kur janë të pranishëm të paktën 50 (pesëdhjetë) % + 1 (një) të anëtarëve. KM-ja mblidhet të paktën dy herë në vit (muajin e parë të gjashtëmujorit).
+5.1 Anëtarët e këshillit janë të detyruar të njoftojnë lidhur me pjesëmarrjen apo mospjesëmarrjen e tyre 48 (dyzet e tetë) orë para datës së zhvillimit të mbledhjes. Kur në mbledhje nuk janë të pranishëm anëtarët e nevojshëm për kuorumin e mbledhjes, kryetari vendos thirrjen e mbledhjes në një ditë tjetër të afërt.
+5.2 Për të prezantuar, analizuar apo diskutuar çështje specifike, mund të thërriten apo të ftohen punonjës të DPM-së me kërkesë të kryetarit të KM-së.
