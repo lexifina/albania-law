@@ -1,0 +1,5 @@
+2. Përdorimin e fondit të rindërtimit, për vitin 2022, nga bashkitë Shijak, Kamzë, Kavajë dhe Krujë, në masën 997 465 533 (nëntëqind e nëntëdhjetë e shtatë milionë e katërqind e gjashtëdhjetë e pesë mijë e pesëqind e tridhjetë e tre) lekë, për financimin e rindërtimit të banesave individuale, për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte që duhen rindërtuar nga e para, në bazë të aktekspertizave të thelluara, sipas detajimit të mëposhtëm:
+a) Bashkisë Shijak i transferohet fondi, në masën 64 717 949 (gjashtëdhjetë e katër milionë e shtatëqind e shtatëmbëdhjetë mijë e nëntëqind e dyzet e nëntë) lekë;
+b) Bashkisë Kamzë i transferohet fondi, në masën 14 160 000 (katërmbëdhjetë milionë e njëqind e gjashtëdhjetë mijë) lekë;
+c) Bashkisë Kavajë i transferohet fondi, në masën 31 774 892 (tridhjetë e një milionë e shtatëqind e shtatëdhjetë e katër mijë e tetëqind e nëntëdhjetë e dy) lekë;
+ç) Bashkisë Krujë i transferohet fondi, në masën 886 812 692 (tetëqind e tetëdhjetë e gjashtë milionë e tetëqind e dymbëdhjetë mijë e gjashtëqind e nëntëdhjetë e dy) lekë.

@@ -1,0 +1,5 @@
+1. Përdorimin e fondit të rindërtimit, në masën 1 662 442 555 (një miliard e gjashtëqind e gjashtëdhjetë e dy milionë e katërqind e dyzet e dy mijë e pesëqind e pesëdhjetë e pesë) lekë, për financimin e rindërtimit të banesave individuale për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte që duhen rindërtuar nga e para, në bazë të aktekspertizave të thelluara në bashkitë Shijak, Kamzë, Kavajë e Krujë, sipas detajimit të mëposhtëm:
+a) Për Bashkinë Shijak, në masën 107 863 248 (njëqind e shtatë milionë e tetëqind e gjashtëdhjetë e tre mijë e dyqind e dyzet e tetë) lekë;
+b) Për Bashkinë Kamzë, në masën 23 600 000 (njëzet e tre milionë e gjashtëqind mijë) lekë;
+c) Për Bashkinë Kavajë, në masën 52 958 153 (pesëdhjetë e dy milionë e nëntëqind e pesëdhjetë e tetë mijë e njëqind e pesëdhjetë e tre) lekë;
+ç) Për Bashkinë Krujë, në masën 1 478 021 154 (një miliard e katërqind e shtatëdhjetë e tetë milionë e njëzet e një mijë e njëqind e pesëdhjetë e katër) lekë.
