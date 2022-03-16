@@ -1,0 +1,2 @@
+Miratimin e notës së aderimit, për t’u bërë pjesë në memorandumin e mirëkuptimit, ndërmjet qeverisë së Malit të Zi dhe Shtabit Suprem të Fuqive Aleate në Evropë dhe Shtabit të Komandës Supreme Aleate për Transformimin, në lidhje me dhënien e mbështetjes së shtetit pritës për ekzekutimin e operacioneve/stërvitjeve të Organizatës së Traktatit të Atlantikut Verior”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
