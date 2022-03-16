@@ -1,0 +1,1 @@
+22. Vendimi përmban masat konkrete të mbrojtjes së veçantë, numrin e shoqëruesve personalë, kur është rasti, afatin, brenda të cilit sigurohet mbrojtja, si dhe masa të tjera, që lidhen me këtë mbrojtje.

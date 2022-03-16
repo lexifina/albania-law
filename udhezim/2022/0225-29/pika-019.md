@@ -1,0 +1,1 @@
+19. Pjesëmarrja në mbledhjet e Komisionit është e detyrueshme. Kryetari i komisionit, në bashkëpunim më Sekretarin e Përgjithshëm të Ministrisë së Drejtësisë, cakton një sekretar, nga radhët e nëpunësve të Ministrisë, i cili mban procesverbalin e zhvillimit të mbledhjes.

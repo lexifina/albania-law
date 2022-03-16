@@ -1,0 +1,1 @@
+1. Përcaktimin e rasteve, kushteve dhe mënyrën e mbrojtjes së veçantë për punonjësit e Policisë së Burgjeve, drejtuesit e institucioneve të ekzekutimit të vendimeve penale (këtu e në vijim, “Institucioneve”) dhe familjen apo pronën e tyre, për shkak të detyrës që mbajnë apo që kanë kryer.

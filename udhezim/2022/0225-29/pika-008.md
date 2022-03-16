@@ -1,0 +1,1 @@
+8. Kërkesa për mbrojtje i paraqitet komisionit, sipas rastit, nga subjektet e përcaktuara në pikën 6, të këtij udhëzimi, kur ka të dhëna të besueshme që provojnë se punonjësit së Policisë së Burgjeve apo drejtuesit të Institucionit i rrezikohet jeta, familja ose prona.

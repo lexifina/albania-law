@@ -1,0 +1,1 @@
+18. Komisioni e ushtron veprimtarinë e tij në mënyrë kolegjiale, sipas rregullave dhe procedurave të parashikuara në këtë udhëzim, si dhe rregullat e parashikuara në legjislacionin në fuqi për organizimin e funksionimin e organeve kolegjiale.

@@ -1,0 +1,1 @@
+5. Pavarësisht mungesës së lidhjes shkakësore të përcaktuar në shkronjën “b”, të pikës 4, të këtij udhëzimi, punonjësit të Policisë së Burgjeve apo drejtuesit të Institucionit i sigurohet mbrojtje e veçantë edhe në rast të pranisë së rrethanave serioze që rrezikojnë jetën, familjen ose pronën gjatë kohës së ushtrimit të detyrës.

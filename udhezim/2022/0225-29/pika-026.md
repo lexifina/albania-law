@@ -1,0 +1,1 @@
+26. Në rast se punonjësit të Policisë së Burgjeve apo drejtuesit të Institucionit i shkaktohen dëme për jetën, shëndetin, pronën e tij ose familjes së tij, gjatë ushtrimit të funksionit ose për shkak të tij, dëmet shpërblehen nga shteti, në përputhje me legjislacionin në fuqi.

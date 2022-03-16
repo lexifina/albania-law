@@ -1,0 +1,1 @@
+13. Ministria e Drejtësisë, Ministria e Brendshme, Drejtoria e Përgjithshme e Burgjeve dhe Drejtoria e Përgjithshme e Policisë së Shtetit, brenda 15 (pesëmbëdhjetë) ditëve nga hyrja në fuqi e këtij udhëzimi caktojnë përfaqësuesit e Komisionit.

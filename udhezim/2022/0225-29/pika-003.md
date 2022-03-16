@@ -1,0 +1,1 @@
+3. Me mbrojtje të veçantë personale, të familjes dhe të pronës, sipas këtij udhëzimi, do të kuptohen masat me karakter organizativ e profesional, për sigurimin dhe ruajtjen e veçantë fizike, mbrojtjen e familjes e të pronës së punonjësit të Policisë së Burgjeve dhe drejtuesit të Institucionit, si dhe masat e tjera, që lidhen me këtë mbrojtje.

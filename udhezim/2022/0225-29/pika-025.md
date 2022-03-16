@@ -1,0 +1,1 @@
+25. Në rast se rreziku ndaj jetës, familjes ose pronës pushon së ekzistuari përpara përfundimit të afatit të mbrojtjes, sipas përcaktimit në vendimin e Komisionit, me kërkesën e çdo subjekti të përcaktuar në pikën 6 të këtij udhëzimi, Komisioni mund të vendosë të ndërpresë mbrojtjen e veçantë.
