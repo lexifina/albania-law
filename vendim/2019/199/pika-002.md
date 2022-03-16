@@ -2,4 +2,4 @@
 - znj. Elva Margariti, ministër i Kulturës;
 - znj. Adela Xhemali, zëvendësministër i Financave dhe Ekonomisë;
 - znj. Ornela Çuçi, zëvendësministër i Turizmit dhe Mjedisit;
-- z. Hantin Bonati, zëvendësministër i Infrastrukturës dhe Energjisë.
+- znj. Edona Bilali, ministër i Shtetit për Mbrojtjen e Sipërmarrjes.
