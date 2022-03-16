@@ -1,0 +1,2 @@
+Miratimin e notës së aderimit, për t’u bërë pjesë në memorandumin e mirëkuptimit (MOU), ndërmjet qeverisë së Dukatit të Madh të Luksemburgut dhe Shtabit të Komandës Supreme Aleate për Transformimin, si dhe Shtabit Suprem të Fuqive Aleate në Evropë, në lidhje me dhënien e mbështetjes së shtetit pritës për ekzekutimin e operacioneve/stërvitjeve/aktiviteteve të ngjashme ushtarake të NATO-s, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
