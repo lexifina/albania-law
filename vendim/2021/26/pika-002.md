@@ -2,3 +2,9 @@
 a) Bashkisë Kamzë i transferohet fondi në masën 645 562 231 (gjashtëqind e dyzet e pesë milionë e pesëqind e gjashtëdhjetë e dy mijë e dyqind e tridhjetë e një) lekë pa TVSH, në formën e transfertës së pakushtëzuar.
 b) Bashkisë Kavajë i transferohet fondi në masën 468 999 117 (katërqind e gjashtëdhjetë e tetë milionë e nëntëqind e nëntëdhjetë e nëntë mijë e njëqind e shtatëmbëdhjetë) lekë pa TVSH, në formën e transfertës së pakushtëzuar.
 Efekti financiar, sipas kësaj pike, të përballohet nga hapësira buxhetore e siguruar pas ngurtësimit në të njëjtën masë të fondeve të projekteve të rindërtimit me ecuri të ngadaltë.
+2/1. Përdorimin e fondit të rindërtimit, për vitin 2022, për financimin e rindërtimit/rikonstruksionit të objekteve arsimore, në Bashkinë Kamzë, në masën 93 387 241 (nëntëdhjetë e tre milionë e treqind e tetëdhjetë e shtatë mijë e dyqind e dyzet e një) lekë pa TVSH, i cili përballohet nga shpenzimet buxhetore të fondit të rindërtimit, miratuar për vitin 2022, i cili i transferohet Bashkisë Kamzë, në formën e transfertës së pakushtëzuar dhe detajohet, si më poshtë vijon:
+a) Rikonstruksionin e shkollës 9-vjeçare “Ahmet Zogu”, në masën 55 548 600 (pesëdhjetë e pesë milionë e pesëqind e dyzet e tetë mijë e gjashtëqind) lekë;
+b) Rikonstruksionin e shkollës 9-vjeçare “Kamza e re”, në masën 8 303 236 (tetë milionë e treqind e tre mijë e dyqind e tridhjetë e gjashtë) lekë;
+c) Rikonstruksionin e kopshtit “Kamza e re”, në masën 3 953 757 (tre milionë e nëntëqind e pesëdhjetë e tre mijë e shtatëqind e pesëdhjetë e shtatë) lekë;
+ç) Rikonstruksionin e kopshtit “Ahmet Zogu”, në masën 15 581 648 (pesëmbëdhjetë milionë e pesëqind e tetëdhjetë e një mijë e gjashtëqind e dyzet e tetë) lekë;
+d) Rindërtimin e çerdhes Kamzë, në masën 10 000 000 (dhjetë milionë) lekë.
