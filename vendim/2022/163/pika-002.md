@@ -1,0 +1,1 @@
+2. Në buxhetin e miratuar për vitin 2022, për Ministrinë e Drejtësisë, në programin buxhetor “Planifikim, menaxhim dhe administrim” 03440, në zërin “Shpenzime kapitale me financim të brendshëm”, shtohet fondi prej 20 000 000 (njëzet milionë) lekësh pa TVSH, për financimin e hartimit të projektit për rindërtimin e infrastrukturës ndërtimore dhe të rrjetit të jashtëm në IEVP Lezhë.

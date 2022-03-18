@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për financimin e hartimit të projektit për rindërtimin e infrastrukturës ndërtimore e të rrjetit të jashtëm në IEVP Lezhë, në masën 49 000 000 (dyzet e nëntë milionë) lekë pa TVSH.
