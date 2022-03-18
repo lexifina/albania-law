@@ -1,0 +1,5 @@
+1. Përdorimin e fondit të rindërtimit, në masën 1 509 744 532 (një miliard e pesëqind e nëntë milionë e shtatëqind e dyzet e katër mijë e pesëqind e tridhjetë e dy) lekë, për financimin e rindërtimit të banesave individuale për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte që duhen rindërtuar nga e para, në bazë të aktekspertizave të thelluara në bashkitë Durrës, Vorë, Kamzë dhe Rrogozhinë, sipas detajimit të mëposhtëm:
+a) Bashkisë Durrës, në masën 462 554 300 (katërqind e gjashtëdhjetë e dy milionë e pesëqind e pesëdhjetë e katër mijë e treqind) lekë;
+b) Bashkisë Vorë, në masën 369 471 748 (treqind e gjashtëdhjetë e nëntë milionë e katërqind e shtatëdhjetë e një mijë e shtatëqind e dyzet e tetë) lekë;
+c) Bashkisë Kamzë, në masën 88 600 000 (tetëdhjetë e tetë milionë e gjashtëqind mijë) lekë;
+ç) Bashkisë Rrogozhinë, në masën 589 118 484 (pesëqind e tetëdhjetë e nëntë milionë e njëqind e tetëmbëdhjetë mijë e katërqind e tetëdhjetë e katër) lekë.

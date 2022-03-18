@@ -1,0 +1,5 @@
+2. Përdorimin e fondit të rindërtimit, për vitin 2022, nga bashkitë Durrës, Vorë, Kamzë dhe Rrogozhinë, në masën 905 846 718 (nëntëqind e pesë milionë e tetëqind e dyzet e gjashtë mijë e shtatëqind e tetëmbëdhjetë) lekë, për financimin e rindërtimit të banesave individuale për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte që duhen rindërtuar nga e para, në bazë të aktekspertizave të thelluara, sipas detajimit të mëposhtëm:
+a) Bashkisë Durrës i transferohet fondi, në masën 277 532 580 (dyqind e shtatëdhjetë e shtatë milionë e pesëqind e tridhjetë e dy mijë e pesëqind e tetëdhjetë) lekë;
+b) Bashkisë Vorë i transferohet fondi, në masën 221 683 048 (dyqind e njëzet e një milionë e gjashtëqind e tetëdhjetë e tre mijë e dyzet e tetë) lekë;
+c) Bashkisë Kamzë i transferohet fondi, në masën 53 160 000 (pesëdhjetë e tre milionë e njëqind e gjashtëdhjetë mijë) lekë;
+ç) Bashkisë Rrogozhinë i transferohet fondi, në masën 353 471 090 (treqind e pesëdhjetë e tre milionë e katërqind e shtatëdhjetë e një mijë e nëntëdhjetë) lekë.
