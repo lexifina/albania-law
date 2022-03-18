@@ -1,0 +1,1 @@
+14. Kryeinspektori i ISHMT-së i raporton drejtpërdrejt ministrit dhe bashkërendon punën me strukturën administrative të referuar në shkronjën “dh”, të pikës 8, të këtij vendimi, siç parashikohet në legjislacionin për sigurinë e përgjithshme të produkteve joushqimore dhe legjislacionin për tregtimin e mbikëqyrjen e tregut për produktet joushqimore.

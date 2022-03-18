@@ -1,0 +1,1 @@
+24. Nëpunësit civilë, që kryejnë funksionet e inspektimit metrologjik e që janë aktualisht pjesë e Drejtorisë së Përgjithshme të Metrologjisë, transferohen me përparësi në ISHMT, në zbatim dhe sipas procedurave të parashikuara në legjislacionin për nëpunësin civil.

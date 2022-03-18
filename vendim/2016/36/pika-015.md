@@ -1,0 +1,1 @@
+15. Ministri apo struktura administrative sipas shkronjës “dh”, të pikës 8, të këtij vendimi, ka të drejtë të kërkojë raporte, informacione, dokumente për menaxhimin institucional dhe financiar të inspektoratit dhe veprimtarinë e inspektimit në përgjegjësi apo për çështje konkrete. Informacioni apo dokumentet paraqiten brenda 5 (pesë) ditëve nga data e marrjes së kërkesës.

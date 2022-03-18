@@ -1,0 +1,1 @@
+22. Stema e ISHMT-së përbëhet nga stema e Republikës dhe shënimet: “Republika e Shqipërisë, Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, Inspektorati Shtetëror i Mbikëqyrjes së Tregut”.

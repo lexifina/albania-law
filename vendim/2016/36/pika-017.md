@@ -1,0 +1,1 @@
+17. Programi vjetor i inspektimit, parashikuar në shkronjën “a”, të pikës 14, të këtij vendimi, i paraqitet ministrit për miratim, brenda datës 15 dhjetor të vitit paraardhës, pas marrjes së mendimit këshillimor të Inspektoratit Qendror sipas legjislacionit në fuqi.
