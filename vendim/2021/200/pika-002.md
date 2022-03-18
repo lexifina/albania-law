@@ -1,3 +1,7 @@
 2. Përdorimi i fondit të rindërtimit, për vitin 2021, për financimin e rikonstruksionit të objekteve arsimore, në Bashkitë Mirditë dhe Kamzë, në masën 93 386 017 (nëntëdhjetë e tre milionë e treqind e tetëdhjetë e gjashtë mijë e shtatëmbëdhjetë) lekë pa TVSH, detajohet, si më poshtë vijon:
 a) Bashkisë Mirditë i transferohet fondi në masën 20 544 017 (njëzet milionë e pesëqind e dyzet e katër mijë e shtatëmbëdhjetë) lekë pa TVSH, në formën e transfertës së pakushtëzuar;
 b) Bashkisë Kamzë i transferohet fondi në masën 72 842 000 (shtatëdhjetë e dy milionë e tetëqind e dyzet e dy mijë) lekë pa TVSH, në formën e transfertës së pakushtëzuar.
+2/1. Përdorimin e fondit të rindërtimit, për vitin 2022, nga Bashkia Kamzë për rikonstruksionin e objekteve arsimore, në masën 162 543 450 (njëqind e gjashtëdhjetë e dy milionë e pesëqind e dyzet e tre mijë e katërqind e pesëdhjetë) lekë pa TVSH, i cili do të përballohet nga shpenzimet buxhetore të fondit të rindërtimit, miratuar për vitin 2022, dhe i transferohet Bashkisë Kamzë, në formën e transfertës së pakushtëzuar, sipas detajimit të mëposhtëm:
+a) Për rikonstruksionin e shkollës 9-vjeçare “Azem Hajdari”, Zall Mner, Bashkia Kamzë, fondi, në masën 55 923 450 (pesëdhjetë e pesë milionë e nëntëqind e njëzet e tre mijë e katërqind e pesëdhjetë) lekë pa TVSH;
+b) Për rikonstruksionin e gjimnazit “Isa Boletini”, fondi në masën 50 000 000 (pesëdhjetë milionë) lekë;
+c) Për rikonstruksionin e kopshtit Zall Mner, fondi në masën 56 620 000 (pesëdhjetë e gjashtë milionë e gjashtëqind e njëzet mijë) lekë pa TVSH.
