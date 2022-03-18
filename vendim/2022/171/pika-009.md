@@ -1,0 +1,1 @@
+9. Të dhënat e detajuara për informacionin që regjistrohet në Regjistër, modulet, tabelat përbërëse, formatet e raportimit dhe afatet kohore të shkëmbimit të informacioneve dhe të evidentimit e pranimit të ndryshimeve përcaktohen në aneksin nr. 2, që i bashkëlidhet vendimi.

@@ -1,0 +1,1 @@
+6. Baza e të dhënave disenjohet e konceptohet duke u mbështetur në përkufizimet e “administratorit” dhe të “përdoruesit”, si dhe ndërtohet në përputhje me objektivat e nivelit të aksesimit për subjektet e interesuara.
