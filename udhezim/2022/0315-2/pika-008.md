@@ -1,0 +1,1 @@
+8. Inspektimi dhe kontrolli për cilësinë e PMB-ve të ambalazhuara, lidhur me plotësimin e kërkesave ligjore për tregtim, kryhet nga AKU-ja, në magazinat e ambalazhuesit të PMB-ve në bazë tё planit kombëtar tё inspektimeve me bazë risku dhe marrjes së mostrave, tё miratuar nga ministri, si dhe në bazë të rasteve të parashikuara nga legjislacioni i posaçëm në fushën e inspektimit.
