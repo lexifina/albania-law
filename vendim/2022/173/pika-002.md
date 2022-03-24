@@ -1,0 +1,1 @@
+2. Mbrojtja e përkohshme jepet edhe për ata shtetas ukrainas apo persona pa shtetësi dhe persona që kanë fituar statusin e mbrojtjes ndërkombëtare në Ukrainë, me vendqëndrim të përkohshëm ose të përhershëm në Ukrainë, të cilët kanë hyrë dhe po qëndrojnë në territorin e Republikës së Shqipërisë për shkaqet e përcaktuara në pikën 1, të këtij vendimi.

@@ -1,0 +1,1 @@
+6. Krijimin e Task-Forcës, si një strukturë e posaçme e përkohshme me afat 1-vjeçar, për menaxhimin e fluksit të kërkesave për mbrojtje ndërkombëtare nga shtetasit e përcaktuar në pikën 1, të këtij vendimi.

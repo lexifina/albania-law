@@ -1,0 +1,1 @@
+4. Përjashtohen nga e drejta e mbrojtjes së përkohshme të gjithë personat të cilët plotësojnë një nga kushtet e përcaktuara në nenin 83, të ligjit nr. 10/2021, “Për azilin në Republikën e Shqipërisë”.

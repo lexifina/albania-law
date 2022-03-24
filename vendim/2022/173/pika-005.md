@@ -1,0 +1,1 @@
+5. Autoriteti përgjegjës për azilin dhe refugjatët mund të vendosë që kërkuesit t’i kufizohet liria e lëvizjes, nëse e konsideron të nevojshme, bazuar në vlerësimin individual të secilit rast, sipas përcaktimeve të neneve 46 e 47, të ligjit nr. 10/2021, “Për azilin në Republikën e Shqipërisë”.
