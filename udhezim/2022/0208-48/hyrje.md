@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 48, datë 8.2.2022
+PËR MËNYRËN DHE PROCEDURËN E KOMPENSIMIT, PËR ORËT SHTESË TË KRYERA MBI KOHËN NORMALE TË PUNËS, NGA NËPUNËSIT CIVILË GJYQËSORË DHE PUNONJËSIT E TJERË ADMINISTRATIVË, NË GJYKATË
+Këshilli i Lartë Gjyqësor, mbështetur në nenet 61, 95, 96 dhe 97, të ligjit nr. 115/2016, “Për organet e qeverisjes së sistemit të drejtësisë”, i ndryshuar, nenet 90 e 91, të ligjit nr. 7971, datë 12.7.1995, “Kodi i Punës i Republikës së Shqipërisë”, i ndryshuar, në ligjin nr. 9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, i ndryshuar, të ligjit nr. 10296, datë 8.7.2010, “Për menaxhimin financiar dhe kontrollin”, i ndryshuar, vendimin e Këshillit të Ministrave nr. 732, datë 13.11.2019, “Për rregullat për kohëzgjatjen e punës, ditët pushim dhe lejen, orët jashtë orarit dhe shpërblimin e tyre, si dhe kompensimin e shpenzimeve për kryerjen e detyrës jashtë vendit të punës për nëpunësit civilë gjyqësorë dhe të prokurorisë” dhe udhëzimin nr. 9, datë 20.3.2018, të ministrit të Financave, “Për procedurat standarde të zbatimit të buxhetit”,
+UDHËZON:

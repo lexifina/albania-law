@@ -1,0 +1,1 @@
+6. Nëpunësi, për orët e punës shtesë të kryera mbi kohën normale të punës, kompensohet me orë/ditë pushimi, të barabartë me orët shtesë të kryera plus 25 për qind të tyre, kur këto orë janë kryer në ditë të zakonshme pune apo me orët shtesë të kryera plus 50 për qind të tyre, kur orët janë kryer në ditë pushimi, ditë feste apo nga ora 22:00-6:00.

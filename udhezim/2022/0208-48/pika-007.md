@@ -1,0 +1,1 @@
+7. Në përgjithësi, nëpunësi, për punën e kryer jashtë kohës normale të punës, nuk kompensohet financiarisht. Vetëm në raste përjashtimore, dhe vetëm të një pamundësie të kompensimit me pushim për orët shtesë të punës së kryer, nëpunësi mund të kompensohet financiarisht.

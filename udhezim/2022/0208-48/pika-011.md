@@ -1,0 +1,1 @@
+11. Programimi i fondeve buxhetore të nevojshme për shpenzime, për orët shtesë, mbi kohën normale të punës, të bëhet gjatë procesit të hartimit të projektbuxhetit të vitit pasardhës nga secila gjykatë.

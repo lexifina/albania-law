@@ -1,0 +1,4 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave më të detajuara dhe procedurës që duhet të ndiqet në gjykata, për rastet kur nëpunësve civilë gjyqësorë dhe punonjësve të tjerë të administratës gjyqësore në gjykatë, do t’u kërkohet të kryejnë orë shtesë mbi kohën normale dhe mënyrën e kompensimit të këtyre orëve shtesë. Ky udhëzim do të bëjë të mundur njehsimin e praktikës për trajtimin e orëve shtesë të punës që kryhen si dhe të rritjes së transparencës, në përdorimin e fondeve buxhetore me ekonomi, efektivitet dhe eficiencë.
+II. Përkufizime
+Në kuptim të këtij udhëzimi termat e mëposhtëm kanë këto kuptime:
+1. “Nëpunës”, janë të gjithë nëpunësit sipas kategorive të nëpunësve civilë gjyqësorë të parashikuar në pikën 1, të nenin 50, të ligjit nr. 98/2016, “Për organizimin e pushtetit gjyqësor” si dhe punonjësit e tjerë në gjykatë që kryejnë veprimtari të cilat nuk kryhen nga nëpunësit civilë gjyqësorë.

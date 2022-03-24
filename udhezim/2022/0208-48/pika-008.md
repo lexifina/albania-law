@@ -1,0 +1,1 @@
+8. Në rast se brenda 2 muajve nga dita e kryerjes së punës, kryetari i gjykatës, vlerëson se është e pamundur kompensimi i punës së kryer mbi kohën normale të punës me orë/ditë pushimi, vendos kompensimin financiar të punonjësve.
