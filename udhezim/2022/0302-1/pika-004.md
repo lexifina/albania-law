@@ -1,0 +1,43 @@
+4. LLOGARITJA E SHUMËS QË PASQYRON KRITERIN E LLOJIT DHE TË MADHËSISË SË VEPRIMTARISË
+4.1 Llogaritja e shumës që pasqyron kriterin e llojit të veprimtarisë
+4.1.1 Subjektet që aplikojnë për licencim dhe subjektet e licencuara për të ofruar vetëm shërbimin e inicimit të pagesës, vendosin vlerën 0 të këtij treguesi në formulë.
+4.1.2 Subjektet që aplikojnë për regjistrim dhe subjektet e regjistruara për të ofruar vetëm shërbimin e informimit të llogarisë, vendosin vlerën 0 si vlerë të këtij treguesi në formulë.
+4.1.3 Në rastet kur një subjekt aplikon për licencim ose kur një subjekt është i licencuar për të ofruar të dyja shërbimet njëkohësisht (shërbimin e inicimit të pagesës dhe shërbimin e informimit të llogarisë), shuma monetare minimale llogaritet për secilin nga shërbimet në mënyrë të veçuar dhe më pas mblidhen shumat që rezultojnë, për të llogaritur shumën monetare minimale që mbulon të dyja shërbimet. Në këtë rast, siguracioni i dëmshpërblimit profesional ose garancitë e krahasueshme mbulojnë ofrimin e të dyja shërbimeve (shërbimin e inicimit të pagesës dhe shërbimin e informimit të llogarisë), duke reflektuar detyrimet dhe përgjegjësitë e ndryshme të referuara në nenin 7, pikat 2 dhe 3, të ligjit “Për shërbimet e pagesave”.
+4.1.4 Në rastet kur subjekti ofron ndonjë shërbim tjetër pagesash, të parashikuar në pikat 1-6, të aneksit 1, të ligjit “Për shërbimet e pagesave”, së bashku me shërbimin e inicimit të pagesës ose shërbimin e informimit të llogarisë, ose të dyja këto shërbime njëkohësisht, llogaritet shuma monetare minimale e siguracionit të dëmshpërblimit profesional ose e garancive të krahasueshme për ofrimin e shërbimit të inicimit të pagesës, ose të shërbimit të informimit të llogarisë, ose të dyja shërbimeve njëkohësisht, pa cenuar kërkesat lidhur me llogaritjen e kapitalit fillestar minimal, në përputhje me nenin 9, të ligjit “Për shërbimet e pagesave” dhe/ose kapitalit rregullator në përputhje me nenin 11, të ligjit “Për shërbimet e pagesave” dhe me aktet nënligjore të Bankës së Shqipërisë, për institucionet e pagesave dhe institucionet e parasë elektronike.
+4.1.5 Në rastet kur subjekti përfshihet në veprimtari të tjera, përveç ofrimit të shërbimeve të pagesave të parashikuara në aneksin 1, të ligjit “Për shërbimet e pagesave” (veprimtari të tjera tregtare të ndryshme nga shërbimet e pagesave), subjekti shton në formulë, përveç vlerave të kërkuara për llojin e veprimtarisë që subjekti ofron/synon të ofrojë, edhe vlerën prej 50.000.
+4.1.6 Në çdo rast, nëse një subjekt që kryen veprimtari të tjera tregtare (të ndryshme nga shërbimet e pagesave), mund të provojë se përfshirja e tij (subjektit) në këto veprimtari të tjera nuk ka ndikim në ofrimin e shërbimit të inicimit të pagesës ose shërbimit të informimit të llogarisë, për shkak se disponon një garanci që mbulon detyrimet e veprimtarive të tjera tregtare të ndryshme nga shërbimet e pagesave, ose për shkak se Banka e Shqipërisë ka kërkuar krijimin e një subjekti të veçantë për veprimtarinë e shërbimeve të pagesave, në përputhje me pikën 5, të nenit 13, të ligjit “Për shërbimet e pagesave”, në formulë vendoset vlera 0.
+4.2 Llogaritja e shumës që pasqyron kriterin e madhësisë së veprimtarisë
+4.2.1 Subjektet që ofrojnë shërbimin e inicimit të pagesës, llogarisin shumën që pasqyron kriterin e madhësisë së veprimtarisë, si shumë të elementeve të mëposhtme:
+a) 40% e pjesës së N, deri në vlerën ekuivalente në lekë të shumës 500.000 euro;
+plus
+b) 25% e pjesës së N, mbi vlerën ekuivalente në lekë të shumës 500.000 euro deri në 1 milion euro;
+plus
+c) 10% e pjesës së N, mbi vlerën ekuivalente në lekë të shumës 1 milion deri në 5 milionë euro;
+plus
+d) 5% e pjesës së N, mbi vlerën ekuivalente në lekë të shumës 5 milionë deri në 10 milionë euro;
+plus
+e) 0.025% e pjesës së N, mbi vlerën ekuivalente në lekë të shumës 10 milionë euro;
+ku, N përfaqëson vlerën totale të të gjitha transaksioneve të iniciuara në 12 muajt paraardhës, ndërsa vlera ekuivalente në lekë llogaritet sipas kursit të këmbimit të aplikuar nga subjekti në datën e llogaritjes së shumës monetare minimale të siguracionit të dëmshpërblimit profesional.
+4.2.2 Subjektet, që ofrojnë shërbimin e informimit të llogarisë, llogarisin shumën që pasqyron kriterin e madhësisë së veprimtarisë, si shumë të elementeve të mëposhtme:
+a) 40% e pjesës së N, deri në 100 klientë;
+plus
+b) 25% e pjesës së N, mbi 100 deri në 10.000 klientë;
+plus
+c) 10% e pjesës së N, mbi 10.000 deri në 100.000 klientë;
+plus
+d) 5% e pjesës së N, mbi 100.000 deri në 1 milion klientë;
+plus
+e) 0.025% e pjesës së N, mbi 1 milion klientë;
+ku, N përfaqëson numrin e përdoruesve (klientëve) të shërbimit të informimit të llogarisë, ku çdo klient që ka përdorur shërbimin e informimit të llogarisë gjatë 12 muajve paraardhës, konsiderohet në mënyrë të veçuar.
+4.2.3 Për subjektet që nuk kanë ofruar shërbime gjatë 12 muajve paraardhës përdoret vlera e të gjitha transaksioneve të iniciuara, në rast se subjekti ofron shërbimin e inicimit të pagesës ose numri i klientëve, në rast se subjekti ofron shërbimin e informimit të llogarisë, të parashikuara nga subjekti, për qëllime të aplikimit për licencim ose regjistrim.
+4.2.4 Për subjektet në vitin e parë të ushtrimit të aktivitetit (pas marrjes së licencës/pas regjistrimit), që nuk kanë mbushur 1 vit të plotë kalendarik në ushtrimin e aktivitetit, përdoret vlera e të gjitha transaksioneve të iniciuara, në rast se subjekti ofron shërbimin e inicimit të pagesës, ose numri i klientëve, në rast se subjekti ofron shërbimin e informimit të llogarisë, të parashikuara nga subjekti, për qëllime të aplikimit për licencim ose regjistrim.
+4.2.5 Nëse subjekti nuk disponon asnjë parashikim lidhur me vlerën e të gjitha transaksioneve të iniciuara, në rastin e një subjekti që ofron shërbimin e inicimit të pagesës, ose parashikim lidhur me numrin e klientëve, në rastin e një subjekti që ofron shërbimin e informimit të llogarisë ose nëse vlera që rezulton nga aplikimi i vlerës së parashikuar të të gjitha transaksioneve të iniciuara, në rastin e një subjekti që ofron shërbimin e inicimit të pagesës, ose të numrit të klientëve, në rastin e një subjekti që ofron shërbimin e informimit të llogarisë, është më e ulët se 50.000, në formulë vendoset vlera 50.000 si vlerë për këta tregues.
+4.3 Dokumentacioni dhe kriteret e siguracionit të dëmshpërblimit profesional dhe të garancive të krahasueshme
+4.3.1 Subjektet e këtij udhëzimi mbajnë, në çdo rast, siguracionin e dëmshpërblimit profesional ose një garanci të krahasueshme.
+4.3.2 Si evidencë të siguracionit të dëmshpërblimit profesional ose të garancisë së krahasueshme, subjekti siguron një kontratë sigurimi (policë sigurimi) ose një dokument tjetër të ngjashëm që konfirmon ekzistencën e siguracionit, ose të garancisë, duke specifikuar edhe detyrimet përkatëse të mbuluara nga siguracioni ose garancia.
+4.3.3 Siguracioni i dëmshpërblimit profesional ose garancia e krahasueshme lëshohet nga shoqëri sigurimi, nga një bankë ose nga një institucion tjetër, që nuk i përket të njëjtit grup bankar/financiar, pjesë e të cilit është subjekti.
+4.3.4 Polica e sigurimit ose garancia e krahasueshme duhet të jetë e pagueshme, në rast se subjekti nuk është në gjendje të përmbushë detyrimet e tij ndaj përdoruesve të shërbimeve të pagesave dhe ofruesve të shërbimit të pagesës për shërbimin e llogarisë, sipas shkaqeve/ngjarjeve (triggers) që aktivizojnë zbatimin e tyre dhe të cilat janë të përcaktuara përkatësisht në kontratën e sigurimit ose në kontratën e garancisë së krahasueshme.
+4.4 Llogaritja periodike dhe raportimi në Bankën e Shqipërisë i shumës monetare minimale të siguracionit të dëmshpërblimit profesional ose të garancive të krahasueshme
+4.4.1 Subjektet rillogaritin shumën monetare minimale të siguracionit të dëmshpërblimit profesional të tyre ose të garancive të krahasueshme, të paktën një herë në vit, brenda muajit janar të çdo viti, bazuar në të dhënat vjetore të vitit kalendarik të mëparshëm.
+4.4.2 Subjektet raportojnë, brenda muajit janar të çdo viti, në Bankën e Shqipërisë, sipas formularëve përkatës të parashikuar në aneksin 1 të këtij udhëzimi, elementet përbërëse dhe shumën monetare minimale të siguracionit të dëmshpërblimit profesional të tyre ose të garancive të krahasueshme, të llogaritur sipas formulave të parashikuara në këtë udhëzim.
+4.4.3 Subjektet, pas rillogaritjes së shumës monetare minimale të siguracionit të dëmshpërblimit profesional ose të garancive të krahasueshme, rinovojnë dhe nënshkruajnë kontratën e sigurimit ose të garancisë, për shumën e rillogaritur dhe njoftojnë Bankën e Shqipërisë (Departamenti i Mbikëqyrjes), brenda 10 ditë pune nga data e nënshkrimit të kontratës përkatëse.
