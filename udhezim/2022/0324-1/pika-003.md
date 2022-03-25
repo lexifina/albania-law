@@ -1,0 +1,1 @@
+3. Kryetarët e njësive të vetëqeverisjes vendore, në cilësinë e strukturës përgjegjëse lokale për zbatimin e masave për rregullimin e qarkullimit të mjeteve në qendrat e banuara, miratojnë urdhëresë të veçantë, të motivuara, për rregullimin e qarkullimit të dielën e parë të çdo muaj, si ditë pa makina në qendrat e banuara.

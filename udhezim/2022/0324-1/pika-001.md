@@ -1,0 +1,1 @@
+1. Kryetarët e Njësive të Vetëqeverisjes Vendore, për nevoja të mbrojtjes së mjedisit, parandalimit të ndotjes në mjedis dhe përmirësimit të cilësisë së ajrit, të marrin masat e nevojshme për kufizimin e përkohshëm të qarkullimit, të dielën e parë të çdo muaji, të të gjitha kategorive të mjeteve private, në zonat e banuara, në njësitë përkatëse që ata administrojnë.

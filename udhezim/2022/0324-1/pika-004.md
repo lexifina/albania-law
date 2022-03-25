@@ -1,0 +1,1 @@
+4. Kryetarët e njësive të qeverisjes vendore informojnë me të gjitha mjetet dhe format informuese për realizimin e kësaj nisme banorët e njësive administrative, brenda juridiksionit territorial të tyre.
