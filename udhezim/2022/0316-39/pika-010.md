@@ -1,0 +1,1 @@
+10. Për përfitimin e ndihmës juridike dytësore, kërkuesi për mbrojtje ndërkombëtare nënshkruan një vetëdeklarim, sipas formularit të vetëdeklarimit të miratuar nga ministri i Drejtësisë, të shoqëruar me dokumentacionin justifikues.

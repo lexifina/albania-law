@@ -1,0 +1,1 @@
+7. Për të përfituar ndihmën juridike parësore, kërkuesi për mbrojtje ndërkombëtare nënshkruan një vetëdeklarim, sipas formularit përkatës të miratuar nga Ministria e Drejtësisë, të shoqëruar me dokumentacionin justifikues.

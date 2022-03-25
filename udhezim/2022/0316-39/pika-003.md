@@ -1,0 +1,1 @@
+3. Ndihmën juridike, sipas pikës 2 të këtij udhëzimi, mund ta japin ofruesit e shërbimit të ndihmës juridike, sipas përcaktimeve të bëra në ligjin nr. 111/2017, “Për ndihmën juridike të garantuar nga shteti”.

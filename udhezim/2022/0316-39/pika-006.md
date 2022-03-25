@@ -1,0 +1,1 @@
+6. Kërkesa për ndihmë juridike parësore bëhet me gojë ose me shkrim nga kërkuesi për mbrojtje ndërkombëtare, pranë qendrave, që ofrojnë shërbimin e ndihmës juridike parësore, organizatave jofitimprurëse të autorizuara nga ministri i Drejtësisë ose klinikave ligjore pranë institucioneve të arsimit të lartë.

@@ -1,0 +1,1 @@
+1. Kërkuesit për mbrojtje ndërkombëtare, në çdo fazë të procedurës për përcaktimin e statusit, në kushtet e pamundësisë financiare për të mbuluar shpenzimet përkatëse, i ofrohet ndihma juridike falas e garantuar nga shteti.

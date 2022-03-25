@@ -1,0 +1,1 @@
+12. Drejtoria e Ndihmës Juridike Falas mund të bashkëpunojë me autoritetin përgjegjës për azilin dhe refugjatët për lehtësimin e aksesit të kërkuesve për mbrojtje ndërkombëtare në qendrat e shërbimit të ndihmës juridike parësore, me qëllim ofrimin e ndihmës pranë institucioneve rezidenciale, ku janë të strehuar kërkuesit.

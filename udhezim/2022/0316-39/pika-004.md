@@ -1,0 +1,1 @@
+4. Kërkuesi për mbrojtje ndërkombëtare, që plotëson kushtin e përcaktuar në shkronjën “h”, të nenit 11, të ligjit nr. 111/2017, “Për ndihmën juridike të garantuar nga shteti”, konsiderohet përfitues në mënyrë të drejtpërdrejtë të ndihmës juridike falas.

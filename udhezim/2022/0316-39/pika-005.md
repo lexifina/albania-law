@@ -1,0 +1,1 @@
+5. Kërkuesit për mbrojtje ndërkombëtare i ofrohet ndihmë juridike parësore ose dytësore, në varësi të shërbimit të kërkuar, në përputhje me kushtet dhe kriteret e përcaktuara në legjislacionin në fuqi për ndihmën juridike të garantuar nga shteti.

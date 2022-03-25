@@ -1,0 +1,1 @@
+13. Procesverbalet e mbajtura gjatë ofrimit të ndihmës juridike parësore kërkuesit për mbrojtje ndërkombëtare nga qendrat e shërbimit të ndihmës juridike parësore apo organizatat jofitimprurëse të autorizuara i vendosen në dispozicion autoritetit përgjegjës për azilin dhe refugjatët, në përputhje me legjislacionin për mbrojtjen e të dhënave personale.

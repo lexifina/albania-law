@@ -1,0 +1,1 @@
+9. Kërkesa, sipas pikës 8 të këtij udhëzimi, mund të paraqitet edhe nëpërmjet një përfaqësuesi ligjor apo të pajisur me prokurë ose nëpërmjet bashkëshortit/es, bashkëjetuesit/es, ose një të afërmi të shkallës së parë.
