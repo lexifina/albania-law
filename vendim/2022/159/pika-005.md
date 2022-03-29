@@ -1,0 +1,1 @@
+5. Mbështetjen financiare e përfitojnë personat e kategorive të përcaktuara në pikën 1, të këtij vendimi, të cilët kanë të drejtë për përfitim deri në datën 31 mars 2022 dhe kanë të drejtë të marrin vetëm një herë këtë mbështetje financiare pavarësisht se mund të jenë të përfshirë në më shumë se një kategori.

@@ -1,0 +1,1 @@
+6. Instituti i Sigurimeve Shoqërore dhe Shërbimi Social Shtetëror bashkëpunojnë për verifikimin e personave që përfshihen në më shumë se një kategori me qëllim shmangien e pagesës së mbështetjes financiare më shumë se një herë.

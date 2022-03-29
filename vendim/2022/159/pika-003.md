@@ -1,0 +1,1 @@
+3. Mbështetja financiare e përcaktuar në pikën 1, të këtij vendimi, paguhet çdo muaj, duke filluar nga data 1 prill 2022 deri në datën 30 qershor 2022. E drejta për përfitimin e mbështetjes financiare është deri në datën 30 qershor 2022.
