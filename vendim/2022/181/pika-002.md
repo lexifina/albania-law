@@ -1,0 +1,6 @@
+2. Përdorimin e fondit të rindërtimit, për vitin 2022, në masën 850 896 290 (tetëqind e pesëdhjetë milionë e tetëqind e nëntëdhjetë e gjashtë mijë e dyqind e nëntëdhjetë) lekë pa TVSH, i cili përballohet nga shpenzimet buxhetore të fondit të rindërtimit, miratuar për vitin 2022, dhe i transferohet bashkive Tiranë, Durrës, Shijak, Lezhë dhe Krujë, në formën e transfertës së pakushtëzuar, sipas detajimit të mëposhtëm:
+a) Bashkisë Tiranë i transferohet fondi, në masën 233 273 046 (dyqind e tridhjetë e tre milionë e dyqind e shtatëdhjetë e tre mijë e dyzet e gjashtë) lekë pa TVSH;
+b) Bashkisë Durrës i transferohet fondi, në masën 483 911 184 (katërqind e tetëdhjetë e tre milionë e nëntëqind e njëmbëdhjetë mijë e njëqind e tetëdhjetë e katër) lekë pa TVSH;
+c) Bashkisë Shijak i transferohet fondi, në masën 6 125 761 (gjashtë milionë e njëqind e njëzet e pesë mijë e shtatëqind e gjashtëdhjetë e një) lekë pa TVSH;
+ç) Bashkisë Lezhë i transferohet fondi, në masën 27 235 226 (njëzet e shtatë milionë e dyqind e tridhjetë e pesë mijë e dyqind e njëzet e gjashtë) lekë pa TVSH;
+d) Bashkisë Krujë i transferohet fondi, në masën 100 351 073 (njëqind milionë e treqind e pesëdhjetë e një mijë e shtatëdhjetë e tre) lekë pa TVSH.
