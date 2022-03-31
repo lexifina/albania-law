@@ -1,0 +1,1 @@
+4. Urdhri nr. 124, datë 23.3.2022 “Për marrjen e masave kufizuese për parandalimin dhe kontrollin e sëmundjes së influencës aviare në shpendë, në mjediset e hapura dhe në tregjet e kafshëve të gjalla”, shfuqizohet.
