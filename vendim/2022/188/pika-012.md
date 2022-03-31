@@ -1,0 +1,1 @@
+12. Indeksi, sipas pikës 11, të këtij vendimi, të aplikohet për rivlerësimin e bazës së vlerësuar të arritur nëpërmjet kontributeve të derdhura dhe rivlerësimeve të tyre, të kryera deri në vitin 2020 dhe zbatohet për efekt të llogaritjes së shumës fillestare mujore të pensioneve, që do të caktohet me datë fillimi pas hyrjes në fuqi të këtij vendimi e në vazhdim.

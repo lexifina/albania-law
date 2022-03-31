@@ -1,0 +1,1 @@
+11. Indeksimi i bazës së vlerësuar të vitit 2020 të jetë 3.7 %, i llogaritur sipas kritereve të përcaktuara në nenin 59, të ligjit nr. 7703, datë 1.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar.

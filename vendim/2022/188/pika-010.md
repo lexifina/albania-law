@@ -1,0 +1,1 @@
+10. Shuma bazë e pensionit, e përcaktuar sipas pikës 2, të nenit 32, të ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, duke filluar nga data e hyrjes në fuqi të këtij vendimi e në vazhdim të jetë 8 102 (tetë mijë e njëqind e dy) lekë.
