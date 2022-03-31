@@ -1,0 +1,1 @@
+1. Përcaktimin e rregullave për infrastrukturën e brendshme për rrjetet e komunikimeve elektronike me shpejtësi të lartë dhe administrimin e pikës së aksesit në godina, sipas shtojcës 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
