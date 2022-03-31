@@ -1,0 +1,2 @@
+3. Ngarkohen për zbatimin e këtij urdhri Sekretari i Përgjithshëm, Drejtoria e Përgjithshme e Politikave të Zhvillimit të Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme e Arsimit Parauniversitar, Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar, institucionet arsimore vendore përgjegjëse për arsimin parauniversitar dhe institucionet arsimore parauniversitare.
+Ky Urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
