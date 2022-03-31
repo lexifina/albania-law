@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën prej 115 965 523 (njëqind e pesëmbëdhjetë milionë e nëntëqind e gjashtëdhjetë e pesë mijë e pesëqind e njëzet e tre) lekësh pa TVSH, për financimin e shembjeve të njësive individuale të banimit të pabanueshme, të dëmtuara nga tërmeti i datës 26.11.2019, dhe transportimin e materialeve të dala nga shembja e tyre në Bashkinë Krujë.
