@@ -1,1 +1,0 @@
-1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor për Ministrinë e Mbrojtjes, drejtorit të Drejtorisë së Përgjithshme Rregullatore dhe Përputhshmërisë në Fushën e Mbrojtjes, z. Ardit Çollaku.

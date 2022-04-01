@@ -1,3 +1,0 @@
-# Nënshkrimi
-TITULLAR I AUTORITETIT KONTRAKTOR
-Niko Peleshi
