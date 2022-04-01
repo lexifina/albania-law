@@ -4,6 +4,10 @@ Nr. 84, datë 4.3.2021
 
 PËR LICENCIMIN E SHOQËRISË UJËSJELLËS-KANALIZIME TIRANË SHA
 
+	(Ndryshuar me vendimin nr. 150, datë 1.4.2022)
+
+	(I përditësuar)
+
 Në mbështetje të nenit 13, 14, 15, 16 dhe 17, të ligjit nr. 8102, datë 28.3.1996, “Për kuadrin rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, të ndryshuar (ligji nr. 8102); të VKM-së nr. 958, datë 6.5.2009, “Për miratimin e kategorive të licencimit dhe të procedurave për aplikim për licencë” (VKM nr. 958), si dhe të vendimit të Komisionit Kombëtar Rregullator nr. 29, datë 8.12.2009, “Për procedurat e dhënies dhe rinovimit të licencave profesionale për subjektet juridike e fizike që ushtrojnë veprimtari në sektorin e furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, të ndryshuar (Rregullore e licencimit),
 
 Komisioni Kombëtar Rregullator,
@@ -52,9 +56,7 @@ b) Drejtues teknik: Enton Osmani;
 
 c) Drejtues teknik: Edgar Cani.
 
-3. Zona e shërbimit të shoqërisë Ujësjellës-Kanalizime Tiranë sh.a., për të cilën jepet kjo licencë është:
-
-Njësia administrative nr. 1; Njësia Administrative nr. 2; Njësia Administrative nr. 3; Njësia Administrative nr. 4; Njësia Administrative nr. 5; Njësia Administrative nr. 6; Njësia Administrative nr. 7; Njësia Administrative nr. 8; Njësia Administrative nr. 9; Njësia Administrative nr. 10; Njësia Administrative nr. 11; Njësia Administrative Dajt; Njësia Administrative Kashar; Njësia Administrative Ndroq; Njësia Administrative Petrelë; Njësia Administrative Shëngjergj; Njësia Administrative Vaqarr; Njësia Administrative Zall Bastar; Njësia Administrative Zall Herr.
+	3. Zona e shërbimit të shoqërisë Ujësjellës-Kanalizime Tiranë sh.a. është Bashkia Tiranë.
 
 4. Kjo licencë është e vlefshme për një periudhë 2-vjeçare me qëllim lënien e një afati kohor të arsyeshëm për shkak të pandemisë COVID-19, në mënyrë që shoqëria Ujësjellës-Kanalizime Tiranë sh.a. të sigurojë aktet e miratimit higjieno-sanitar dhe për njësitë administrative për të cilat ende nuk është arritur të merret ky akt.
 
