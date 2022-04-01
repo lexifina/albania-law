@@ -1,0 +1,29 @@
+{
+  "qbz_id": 24245,
+  "title": "Mbi licencimin e shoqërisë “Age Kuç” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Kuç”, me kapacitet të instaluar 1930 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "41",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2022-03-10",
+  "published": "2022-04-01",
+  "in_force": "2022-04-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/1200e3269e6eb1b2117a686ef5c686499a93645fd67ad8e446cf01e60eb0c85d.docx",
+  "source_sha256": "1200e3269e6eb1b2117a686ef5c686499a93645fd67ad8e446cf01e60eb0c85d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/24245",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/03/10/41",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    26424,
+    25231
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
