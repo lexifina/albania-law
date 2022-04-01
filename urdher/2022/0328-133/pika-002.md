@@ -1,0 +1,1 @@
+2. Ndalimin e lëvizjes së shpendëve të gjallë nga ferma në fermë dhe nga ferma në tregjet e kafshëve të gjalla në qarkun Durrës, Dibër, Korçë, Fier dhe Vlorë.
