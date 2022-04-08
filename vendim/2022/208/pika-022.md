@@ -1,0 +1,1 @@
+22. Vendimi i komisionit u njoftohet përkthyesit apo interpretit, sipas rastit, nga Ministria e Drejtësisë, dhe strukturave përgjegjëse për mbrojtjen nga përfaqësuesi i Drejtorisë së Përgjithshme të Policisë së Shtetit.

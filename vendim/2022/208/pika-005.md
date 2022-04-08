@@ -1,0 +1,1 @@
+5. Kërkesa paraqitet vetëm kur ka të dhëna të besueshme, të cilat provojnë rrethanat serioze, që vënë në rrezik jetën, familjen ose pronën e përkthyesit/interpretit, për shkak të detyrës ose gjatë ushtrimit të saj.

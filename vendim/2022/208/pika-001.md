@@ -1,0 +1,1 @@
+1. Ky vendim ka për objekt përcaktimin e rregullave të hollësishme për kriteret dhe procedurën e përfitimit të mbrojtjes së veçantë nga shteti për përkthyesit zyrtarë dhe interpretët e gjuhës së shenjave, kur u rrezikohet jeta, familja ose prona gjatë ushtrimit të detyrës ose për shkak të saj.

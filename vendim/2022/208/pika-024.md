@@ -1,0 +1,1 @@
+24. Në rast se rreziku ndaj jetës, familjes ose pronës së përkthyesit apo të interpretit të shenjave nën mbrojtje pushon së ekzistuari përpara përfundimit të afatit të mbrojtjes, sipas përcaktimit në vendimin e komisionit, me kërkesën e çdo subjekti të përcaktuar në pikën 4, të këtij vendimi, komisioni mund të vendosë të ndërpresë mbrojtjen e veçantë.

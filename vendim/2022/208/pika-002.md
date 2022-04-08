@@ -1,0 +1,1 @@
+2. Me mbrojtje të veçantë të jetës, të familjes dhe të pronës, sipas këtij vendimi, kuptohen masat operacionale, që merren për sigurimin e ruajtjen e veçantë fizike, mbrojtjen e familjes dhe të pronës së përkthyesit e interpretit, si dhe masat e tjera, që lidhen me këtë mbrojtje.
