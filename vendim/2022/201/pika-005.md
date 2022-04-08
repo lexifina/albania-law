@@ -1,0 +1,1 @@
+5. Afati për përfundimin e procedurës së përshpejtuar nga autoriteti përgjegjës për azilin dhe refugjatët është 15 (pesëmbëdhjetë) ditë kalendarike nga paraqitja e kërkesës për mbrojtje ndërkombëtare.

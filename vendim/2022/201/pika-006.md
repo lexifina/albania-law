@@ -1,0 +1,1 @@
+6. Pavarësisht llojit të vendimit që merret në procedurën e përshpejtuar, kërkuesit të mbrojtjes ndërkombëtare i garantohet zgjidhje e efektshme ligjore, në përputhje me nenin 22, të ligjit për azilin.

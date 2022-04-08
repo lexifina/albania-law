@@ -1,0 +1,1 @@
+3. Shqyrtimi i kërkesave për mbrojtje ndërkombëtare nëpërmjet procedurës së përshpejtuar do të zhvillohet nëpërmjet një procedurë të drejtë dhe efikase mbi baza individuale. Autoriteti përgjegjës për azilin dhe refugjatët do të realizojë një vlerësim material të kërkesës, duke shkurtuar afatet kohore të përfundimit të procesit të regjistrimit, intervistimit dhe vendimit.
