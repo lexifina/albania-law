@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “Përfundimi i punimeve të mbetura dhe plotësimi me rrugë dytësore, Nyja e Milotit”.
