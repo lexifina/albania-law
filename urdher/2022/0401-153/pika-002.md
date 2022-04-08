@@ -1,0 +1,1 @@
+2. Ndalimin e peshkimit me çfarëdolloj mjeti dhe metode gjuetie, si dhe mbajtjen në bord, tranzitimin në barkë, zbarkimin e qëllimtë dhe hedhjen në treg ose për konsum të gjuhcës (cironkës) - Alburnus Albidus Alborella në liqenin e Shkodrës, për periudhën 1.4.2022 deri më 31.7.2022.
