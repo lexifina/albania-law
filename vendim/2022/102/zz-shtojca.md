@@ -84,3 +84,42 @@ Kategoritë e pagave për pozicionet “Koordinator”, pjesë e Rrjetit të Koo
 |Kadastrës; | | |
 |- Drejtoritë rajonale të Arsimit Parauniversitar. | | |
 Shënim. Kategorizimi i drejtorive vendore të Agjencisë Shtetërore të Kadastrës është sipas vendimit përkatës të Këshillit të Ministrave, për pagat e këtij institucioni.
+Lidhja nr. 3
+SHTESA MUJORE PËR NATYRË TË VEÇANTË PUNE
+PËR NËPUNËSIT NË POZICIONET “KOORDINATOR”, PJESË E RRJETIT TË KOORDINATORËVE KUNDËR KORRUPSIONIT PËR INSTITUCIONET QË JANË PJESË E FUSHËS SË VEPRIMIT TË KËTIJ VENDIMI
+|POZICIONI |SHTESA MUJORE PËR NATYRË TË VEÇANTË |
+|KOORDINATOR, NË: |PUNE |
+|- Drejtorinë e Përgjithshme të Agjencisë Shtetërore të Kadastrës |18.000 |
+|- Drejtoritë vendore të kategorisë së parë të Agjencisë Shtetërore të Kadastrës | |
+|- Drejtoritë vendore të kategorisë së dytë të Agjencisë Shtetërore të Kadastrës | |
+|- Drejtorinë e Përgjithshme të Tatimeve |15.000 |
+|- Drejtorinë e Përgjithshme të Doganave | |
+|- Inspektoratin Kombëtar të Mbrojtjes së Territorit |10.000 |
+|- Agjencinë Kombëtare të Zonave të Mbrojtura | |
+|- Drejtorinë e Përgjithshme të Agjencisë Kombëtare të Mjedisit | |
+|- Agjencinë e Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara | |
+|- Qendrën Spitalore Universitare “Nënë Tereza” |5.000 |
+|- Spitalin Obsetrik Gjinekologjik “Mbretëresha Geraldinë” | |
+|- Spitalin Universitar të Traumës. | |
+|- Spitalin Universitar Obsetrik Gjinekologjik “Koço Glozheni” | |
+|- Spitalin Universitar “Shefqet Ndroqi”. | |
+|- Agjencinë Kombëtare të Barnave dhe Pajisjeve Mjekësore | |
+|- Spitalin Psikiatrik “Ali Mihali”, Vlorë | |
+|- Spitalin Psikiatrik “Sadik Dinci”, Elbasan | |
+|- Spitalet rajonale | |
+|- Drejtorinë e Përgjithshme të Gjendjes Civile | |
+|- Inspektoratin Shtetëror të Punës dhe Shërbimeve Shoqërore | |
+|- Agjencinë për Zhvillimin Bujqësor dhe Rural | |
+|- Drejtorinë e Përgjithshme të Autoritetit Kombëtar të Ushqimit | |
+|- Drejtorinë Qendrore të Agjencisë Kombëtare të Bregdetit | |
+|- Drejtorinë Qendrore të Operatorit të Shërbimeve të Kujdesit Shëndetësor | |
+|- Drejtorinë Qendrore të Drejtorisë së Përgjithshme të Arsimit Parauniversitar | |
+|- Agjencinë për Sigurimin e Cilësisë në Arsimin e Lartë | |
+|- Agjencinë e Blerjeve të Përqendruara | |
+|- Autoritetin Rrugor Shqiptar në nivel qendror | |
+|- Institutin e Shëndetit Publik | |
+|- Inspektoratin Shtetëror Shëndetësor në nivel qendror | |
+|- Inspektoratin Shtetëror Teknik dhe Industrial | |
+|- Shërbimin Social Shtetëror në nivel qendror | |
+|- Drejtoritë rajonale të Operatorit të Shërbimeve të Kujdesit Shëndetësor | |
+|- Drejtoritë rajonale të Arsimit Parauniversitar | |
