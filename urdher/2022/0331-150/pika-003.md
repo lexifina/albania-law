@@ -1,0 +1,1 @@
+3. Për anijet e peshkimit me gjatësi të barabartë ose mbi 10 metra, raportimi i zënieve aksidentale të kryhet në librin e anijes, duke përcaktuar specien e zënë, si dhe statusin e saj (i zënë, i ngordhur/i gjallë, i lëshuar, i ngordhur/i gjallë).

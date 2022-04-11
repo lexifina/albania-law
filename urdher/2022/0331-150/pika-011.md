@@ -1,0 +1,1 @@
+11. Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës ushtron kontrollin e aktivitetit, me qëllim zvogëlimin e ndikimit të peshkimit. Sektori i Monitorimit, Përpunimit dhe Analizës së të Dhënave, në bashkëpunim me Drejtorinë e Shërbimeve të Peshkimit dhe Akuakulturës, grumbullon të dhënat mbi zëniet rastësore të specieve të rrezikuara, të përmendura në këtë urdhër.

@@ -1,0 +1,1 @@
+12. Drejtoria e Politikave dhe Programeve të Peshkimit dhe Akuakulturës harton masa të mëtejshme për zvogëlimin e ndikimit të aktivitetit të peshkimit dhe ruajtjen e specieve të rrezikuara të përmendura në këtë urdhër.

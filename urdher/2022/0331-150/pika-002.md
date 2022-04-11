@@ -1,0 +1,1 @@
+2. Të gjitha anijet e peshkimit duhet të raportojnë menjëherë Inspektoratin e Peshkimit për zëniet aksidentale të specieve të rrezikuara si: breshkat e detit, cetacet, elasmobrankët, si dhe të shpendëve detarë.

@@ -1,0 +1,1 @@
+4. Për anijet e peshkimit me gjatësi nën 10 metra, raportimi i zënieve aksidentale me anë të vetëdeklarimit, duke përcaktuar specien e zënë, si dhe statusin e saj (i zënë, i ngordhur/i gjallë, i lëshuar, i ngordhur/i gjallë).

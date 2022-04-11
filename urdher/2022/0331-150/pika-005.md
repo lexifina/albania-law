@@ -1,0 +1,1 @@
+5. Përveç raportimit të përcaktuar në pikat 3 dhe 4 të këtij urdhri, kur është e mundur, anijet e peshkimit dërgojnë pamje fotografike dhe/ose filmike të këtyre specieve, si edhe gjatë lëshimit të tyre.
