@@ -1,0 +1,1 @@
+2. Nxënësit e pakicave kombëtare zhvillojnë edhe provimin kombëtar të arsimit bazë në lëndën “Gjuhë amtare”. Provimi kombëtar i arsimit bazë në lëndën “Gjuhë amtare’’ do të zhvillohet më datë 21 qershor 2022.

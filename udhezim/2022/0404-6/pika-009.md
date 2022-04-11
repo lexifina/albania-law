@@ -1,0 +1,1 @@
+9. Nxënësit me aftësi të kufizuara, që ndjekin shkollat e zakonshme, i zhvillojnë provimet kombëtarë të arsimit bazë, mbështetur në planin edukativ individual me të cilin punojnë, në përshtatje me veçoritë e tyre.
