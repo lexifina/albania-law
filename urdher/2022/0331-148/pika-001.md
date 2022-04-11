@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së titullarit të Ministrisë së Bujqësisë dhe Zhvillimit Rural, për nënshkrimin e urdhrit për miratimin e Planit Kombëtar të Monitorimit të Mbetjeve për vitin 2022, zëvendësministrit të Ministrisë së Bujqësisë dhe Zhvillimit Rural, znj. Ermira Gjeçi.
