@@ -1,0 +1,1 @@
+2. Ngarkohet Ministria e Drejtësisë, Dhoma Kombëtare e Përmbaruesve Gjyqësorë Privatë, Qendra Kombëtare e Trajnimit të Përmbaruesve, ndihmëspërmbaruesit dhe përmbaruesit gjyqësorë privatë për ndjekjen dhe zbatimin e këtij urdhri.
