@@ -1,0 +1,1 @@
+2. Ngarkohen Ministria e Drejtësisë, Ministria e Shëndetësisë dhe Mbrojtjes Sociale, Drejtoria e Përgjithshme e Burgjeve dhe institucionet e ekzekutimit të vendimeve penale për ndjekjen dhe zbatimin e këtij udhëzimi.
