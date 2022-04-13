@@ -1,0 +1,1 @@
+1. Ngarkimin e znj. Ledina Beqiraj Agalliu për ushtrimin e detyrave të drejtorit të përgjithshëm, të Agjencisë Kombëtare të Zonave të Mbrojtura (AKZM), krahas ushtrimit të detyrës aktuale të Sekretarit të Përgjithshëm të Ministrisë së Turizmit dhe Mjedisit.
