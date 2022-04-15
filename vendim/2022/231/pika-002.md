@@ -1,0 +1,1 @@
+2. Prona me numër rendor 8 hiqet nga formulari dhe lidhja 1, që i bashkëlidhen vendimit nr. 780, datë 7.10.2020, të Këshillit të Ministrave, “Për transferimin në pronësi të Bashkisë Tiranë, të Njësisë Administrative Tiranë, të disa pronave”.
