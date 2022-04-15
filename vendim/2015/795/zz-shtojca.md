@@ -2643,3 +2643,96 @@ SHUMA
 2565.6
 148,595,779
 Shënim. Vlerësimi i tokës është bërë referuar VKM-së nr. 89, datë 3.2.2016, “Për miratimin e hartës së vlerës së tokës në Republikën e Shqipërisë”, si dhe vlerësimi i ndërtesave është bërë në bazë të VKM-së nr. 138, datë 23.8.2000, “Për kriteret teknike të vlerësimit dhe të përllogaritjes së masës së shpërblimit të pasurive pronë private që shpronësohen, të pasurive që zhvlerësohen dhe të të drejtave të personave të tretë, për interes publik”, i ndryshuar.
+LISTA EMËRORE E PRONARËVE, PASURITË PRONË PRIVATE TË TË CILËVE PREKEN NGA DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR. 795, DATË 22.9.2015, TË KËSHILLIT TË MINISTRAVE, PËR SHPRONËSIMIN PËR INTERES PUBLIK TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR “UNAZA LINDORE TIRANË (LOTET I, II)”, TË NDRYSHUAR
+Nr.
+Emri
+Atësia
+Mbiemri
+ZK
+Nr. pas
+Lloji pasurisë
+Sipërfaqja totale (m²)
+Sipërfaqja e shpronësuar
+Çmimi (lek/m²)
+Vlera (lekë)
+Sip. ndërtimi (m²)
+Çmimi mes. sipas sh/blerjeve nga ASHK
+Vlera totale (lek)
+Adresa
+Shënime
+1
+Bajram
+Haxhi
+Zhllima
+1604
+868/15
+Arë
+3,359.20
+1,315
+448
+589,120
+589,120
+Nj. Administrative Farkë
+Konfirmuar nga ASHK
+2
+Hasan
+Musa
+Qordja
+3550
+170/3
+Truall
+470
+53
+457
+24,221
+24,221
+Nj. Administrative Farkë
+Konfirmuar nga ASHK
+3
+Hasan
+Musa
+Qordja
+3550
+170/2
+Arë
+10,060
+642
+448
+287,616
+287,616
+Nj. Administrative Farkë
+Konfirmuar nga ASHK
+4
+Zenel
+Hajdar
+Balla
+3550
+165/9
+Arë
+3,400
+1,225
+230
+28,175
+281,750
+Nj. Administrative Farkë
+Konfirmuar nga ASHK (Miratuar me VKM nr. 795, datë 22.09.2015 me nr. Pasurie 165/9 për Arë 2175 m²)
+5
+Ejup
+Rexhep
+Iskurti
+3976
+170/16-ND
+Ndërtesë
+106
+212
+66,500
+14,098,000
+Nj. Administrative Farkë
+Konfirmuar nga ASHK
+VLERA TOTALI
+17,395.20
+3,235
+1,182,707
+212
+66,500
+15,280,707
