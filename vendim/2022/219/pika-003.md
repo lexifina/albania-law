@@ -1,0 +1,1 @@
+3. Pronari kompensohet në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasurinë e llojit “arë”, me një vlerë të përgjithshme prej 366 212 (treqind e gjashtëdhjetë e gjashtë mijë e dyqind e dymbëdhjetë) lekësh.
