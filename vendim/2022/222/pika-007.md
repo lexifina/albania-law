@@ -1,0 +1,1 @@
+7. Pronarët e pasqyruar në tabelën, që i bashkëlidhet këtij vendimi, kompensohen, për efekt shpronësimi, pasi kanë paraqitur dokumentacionin për likuidim, certifikatën e pronësisë, kartelën e pasurisë, si dhe hartën treguese të regjistrimit pranë Bashkisë Tiranë.

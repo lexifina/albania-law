@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Tirana Rurale 1, pezullon të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale dhe regjistrimi i kalimit të pronësisë në favor të Bashkisë Tiranë.

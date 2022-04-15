@@ -1,0 +1,203 @@
+# Shtojca
+LISTA EMËRORE E PRONARËVE PRONË PRIVATE QË SHPRONËSOHEN NGA NDËRTIMI I PROJEKTIT “ZGJERIMI I SIPËRFAQEVE TË VARREZAVE PUBLIKE “TUFINË”, FAZA 2
+Nr.
+Pronari
+Të dhëna kadastrale
+Vlerësimet për shpronësim
+Shënime (kufizime hipotekare barre mbi pasurinë etj.)
+arë/vresht/pemëtore
+Vlera totale (lek)
+Emër
+Atësia
+Mbiemër
+Qyteti
+Z. kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sip. totale Arë/vresht/pemëtore (m²)
+Arë/vresht/pemëtore (m2)
+Vol
+Faqe
+Sipërfaqja (m2)
+Çmimi (lekë/m²)
+Vlera (lekë)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+1
+Qazim
+Veli
+Daja
+Tiranë
+3426
+26/6
+Arë
+620
+620
+1
+4
+501
+448
+224,448.00
+224,448.00
+2
+Qafile Lulzim
+Reshit
+Daja; Daja
+Tiranë
+3426
+26/58
+Arë
+1676
+1676
+7
+144
+1650
+448
+739,200.00
+739,200.00
+3
+Ali
+Haxhi
+Daja
+Tiranë
+3426
+26/31
+Arë
+500
+500
+6
+58
+500
+448
+224,000.00
+224,000.00
+4
+Bashkim
+Nezir
+Hasmeta
+Tiranë
+3426
+26/65
+Arë
+3600
+3600
+7
+196
+3001
+448
+1,344,448.00
+1,344,448.00
+5
+Eqerem
+Selman
+Lala
+Tiranë
+3426
+26/61
+Arë
+1330
+1330
+7
+192
+1330
+448
+595,840.00
+595,840.00
+6
+Ali
+Haxhi
+Daja
+Tiranë
+3426
+26/32
+Arë
+600
+600
+60
+59
+600
+448
+268,800.00
+268,800.00
+7
+Ali
+Haxhi
+Daja
+Tiranë
+3426
+26/33
+Arë
+1500
+1500
+6
+60
+1500
+448
+672,000.00
+672,000.00
+8
+Fatime; Besnik; Hasan; Edmond; Lindita Shqipe
+Rustem; Xhelal; Xhelal; Xhelal; Xhelal; Xhelal
+Shima
+Tiranë
+3426
+26/53
+Arë
+4400
+4400
+7
+139
+3771
+448
+1,689,408.00
+1,689,408.00
+9
+Qamil
+Selman
+Lala
+Tiranë
+3426
+26/63
+Arë
+2060
+2060
+7
+194
+40
+448
+17,920.00
+17,920.00
+10
+Kadri
+Cakmaku
+Tiranë
+3426
+26/60
+Arë
+873
+873
+7
+146
+119
+448
+53,312.00
+53,312.00
+13012
+Shuma
+5,829,376.00
+1. Për tokën bujqësorë, çmimi i llogaritur është marrë nga VKM nr. 89, datë 3.2.2016.
