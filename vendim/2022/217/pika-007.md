@@ -1,0 +1,1 @@
+7. Drejtori i Përgjithshëm i drejtorisë përgjegjëse për metrologjinë miraton rregulloren për organizimin e funksionimin e brendshëm të bazës së të dhënave shtetërore, që krijohet nëpërmjet këtij vendimi.

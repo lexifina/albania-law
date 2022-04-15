@@ -1,0 +1,1 @@
+8. Plotësimi i të dhënave parësore dhe dytësore në regjistrin elektronik nga strukturat përkatëse për plotësimin, administrimin duhet të ketë përfunduar brenda 1 (një) viti kalendarik nga data e hyrjes në fuqi të këtij vendimi.

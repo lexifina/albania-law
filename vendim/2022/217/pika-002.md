@@ -1,0 +1,1 @@
+2. Baza e të dhënave të Regjistrit Elektronik të Drejtorisë së Përgjithshme të Metrologjisë administrohet e përditësohet periodikisht nga Drejtoria e Përgjithshme e Metrologjisë (DPM), si institucioni administrues, sa herë është e nevojshme apo ka ndryshime të tyre, në kuptim të ligjit nr. 126/2020, “Për metrologjinë”.

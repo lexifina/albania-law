@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Metrologjisë ruan konfidencialitetin dhe besueshmërinë e këtyre të dhënave personale, në përputhje me nenin 28, të ligjit nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, të ndryshuar.
