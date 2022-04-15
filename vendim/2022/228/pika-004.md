@@ -1,0 +1,1 @@
+4. Vendimi nr. 826, datë 7.10.2015, i Këshillit të Ministrave, “Për përcaktimin e procedurave, kritereve dhe afateve për ndjekjen e programeve të formimit e të kualifikimit profesional për individët që ushtrojnë profesionin e punonjësit social për një periudhë të caktuar kohe, por nuk kanë formimin dhe kualifikimin profesional minimal për punonjës social”, shfuqizohet.
