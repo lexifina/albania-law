@@ -1,0 +1,1 @@
+7. Ministria e Shëndetësisë i dërgon Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor informacionin për pajisjet mjekësore, importuesit dhe prodhuesit, si dhe çmimet e importit, të mbledhura nga Agjencia Kombëtare e Barnave dhe Pajisjeve Mjekësore e Drejtoria e Përgjithshme e Doganave, brenda datës 31 dhjetor të çdo viti.

@@ -1,0 +1,1 @@
+11. Për vitin 2017, Agjencia Kombëtare e Barnave dhe Pajisjeve Mjekësore dhe Drejtoria e Përgjithshme e Doganave, do të dërgojnë informacionin e përcaktuar në këtë projektvendim në Ministrinë e Shëndetësisë, brenda datës 28 shkurt 2017.

@@ -1,0 +1,2 @@
+9. Marzhet e tregtimit me shumicë dhe pakicë në rrjetin e hapur farmaceutik, si dhe marzhet e tregtimit të rrjetit spitalor, përcaktohen çdo vit, bashkë me listën përkatëse vjetore.
+“9/1. Lista e pajisjeve mjekësore (fisha diabeti) që do të rimbursohen nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, për vitin 2022, për pacientët e grupmoshës 0-25 vjeç, është sipas shtojcës nr. 1, që i bashkëlidhet këtij vendimi.

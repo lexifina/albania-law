@@ -1,0 +1,1 @@
+5. Ministri i Shëndetësisë, brenda datës 15 tetor të çdo viti, i kërkon Drejtorisë së Përgjithshme të Doganave çmimet e deklaruara nga subjektet importuese të regjistruara të pajisjeve mjekësore gjatë vitit kalendarik.

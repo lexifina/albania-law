@@ -1,0 +1,1 @@
+4. Agjencia Kombëtare e Barnave dhe Pajisjeve Mjekësore, brenda datës 30 shtator të çdo viti, i dërgon Ministrisë së Shëndetësisë, listën e pajisjeve mjekësore të importuara dhe të prodhuara gjatë vitit kalendarik, si dhe subjektet përkatëse importuese e prodhuese.

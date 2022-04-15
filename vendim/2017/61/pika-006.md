@@ -1,0 +1,1 @@
+6. Drejtoria e Përgjithshme e Doganave, brenda 20 ditëve pune nga data e marrjes së kërkesës për informacion, dërgon pranë Ministrisë së Shëndetësisë çmimet e deklaruara nga importuesit dhe prodhuesit e regjistruar të pajisjeve mjekësore gjatë vitit kalendarik.

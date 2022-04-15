@@ -1,0 +1,1 @@
+1. Paketa e pajisjeve mjekësore të rimbursueshme, si pjesë e paketave të shërbimeve të sigurimit të detyrueshëm, financohet nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, sipas legjislacionit në fuqi.
