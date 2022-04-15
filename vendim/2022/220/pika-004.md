@@ -1,0 +1,1 @@
+4. Masa e shpërblimit për pronarët që shpronësohen është 1 569 618.16 (një milion e pesëqind e gjashtëdhjetë e nëntë mijë e gjashtëqind e tetëmbëdhjetë pikë gjashtëmbëdhjetë) lekë dhe përballohet nga buxheti i Bashkisë Patos.
