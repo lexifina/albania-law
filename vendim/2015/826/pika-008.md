@@ -1,1 +1,0 @@
-8. Urdhri i Punonjësve Socialë, menjëherë pas përfundimit të periudhës së përcaktuar në pikat 3, 5 dhe 6, të këtij vendimi, pasi verifikon se individi nuk ka kryer kursin e kualifikimit profesional apo nuk ka dhënë provimin e shtetit, njofton institucionin publik ose privat, pranë të cilit është punësuar individi, për ndërprerjen e marrëdhënies së punës me individin.

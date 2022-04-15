@@ -1,1 +1,0 @@
-4. Profesionisti i përcaktuar në pikat 1, 2 dhe 3, të këtij vendimi, aplikon për regjistrim për ushtrim të profesionit të punonjësit social në Republikën e Shqipërisë pranë Urdhrit të Punonjësve Socialë. Pas shqyrtimit të aplikimit, kur plotësohen kriteret e pikave 1, 2 dhe 3, të këtij vendimi, Urdhri i Punonjësve Socialë kryen regjistrimin e profesionistit.
