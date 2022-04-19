@@ -1,0 +1,1 @@
+2. Për periudhën 20.7.2022 deri më 20.8.2022, ndalimin e peshkimit me rrjeta në fashën bregliqenore prej 300 ml nga bregu për liqenin e Ohrit dhe për periudhën 25.4.2022 deri më 25.6.2022, ndalimin e peshkimit me rrjeta në fashën bregliqenore prej 150 ml nga bregu për liqenet e Prespës, Fierzës, Ulzës e Shkopetit.
