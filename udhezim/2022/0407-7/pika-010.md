@@ -1,0 +1,5 @@
+10. Konflikti i interesit:
+a) çdo punonjësi të MAS-it dhe të institucioneve të varësisë i ndalohet ndikimi, në çfarëdolloj forme, në procesin e përzgjedhjes së teksteve shkollore;
+b) tekstet shkollore që kanë autorë, redaktorë, korrektorë, ilustrues etj., që janë mësues ose drejtues të shkollave, nuk mund të përzgjidhen në shkollat në të cilat ata punojnë;
+c) titullari i ZVAP-së, DRAP-së, DPAP-së, çdo punonjës i këtyre institucioneve dhe drejtuesit e shkollave e kanë të ndaluar të bëjnë presion të rekomandojnë apo të ndikojnë në çfarëdolloj forme apo mënyre te mësuesit në përzgjedhjen e teksteve shkollore. Atyre nuk u lejohet favorizimi i botuesve/distributorëve apo i autorëve të veçantë, si dhe dallimi i teksteve të veçanta në raport me të tjerat. Në rast të verifikimit të shkeljeve të sipërpërmendura, personat përgjegjës penalizohen deri në largim nga detyra;
+ç) gjatë procesit të përzgjedhjes së teksteve në shkolla nuk lejohet asnjë veprimtari e botuesve/distributorëve, që ka për qëllim publicitetin e teksteve të tyre.

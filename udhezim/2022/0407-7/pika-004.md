@@ -1,0 +1,5 @@
+4. Mësuesit e klasave dhe të ekipeve lëndore kanë për detyrë:
+a) të njihen me të gjitha alternativat e teksteve shkollore të përfshira në katalog dhe pas diskutimeve për to, të vendosin për tekstin që do të përdoret në secilën klasë/lëndë;
+b) përzgjedhja e tekstit bëhet me konsensus. Në rast se mësuesit e klasave ose të ekipeve lëndore nuk bien dakord, përzgjedhja bëhet me votim. Fitues është teksti që merr shumicën e votave;
+c) në procesin e përzgjedhjes së teksteve shkollore ftohen për të qenë të pranishëm prindërit e nxënësve. Prindërit vëzhgojnë procedurat e përzgjedhjes, por nuk marrin pjesë në votim;
+ç) mbledhja e mësuesve të klasave dhe e ekipeve lëndore për përzgjedhjen e teksteve bëhet e hapur për prindërit dhe median. Në përfundim, mësuesit e klasave dhe ata të ekipeve lëndore plotësojnë dhe nënshkruajnë procesverbalet e përzgjedhjes së teksteve. Në këto procesverbale pasqyrohet detyrimisht dhe saktë titulli/titujt e përzgjedhur, botuesi/distributori përkatës dhe sasia që do të porositet. Procesverbalet i dorëzohen KA-së.

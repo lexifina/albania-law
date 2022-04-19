@@ -1,0 +1,1 @@
+13. Kreu IX i udhëzimit nr. 26, datë 11.12.2017, i ministrit të Arsimit Sportit dhe Rinisë, “Për procedurat e konkurrimit, miratimit, porositjes, shpërndarjes dhe shitjes së teksteve shkollore të reja dhe/ose përmbajtjeve digjitale” shfuqizohet.

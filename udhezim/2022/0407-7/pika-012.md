@@ -1,0 +1,1 @@
+12. Përzgjedhja e teksteve përcaktohet me urdhër të ministrit përgjegjës për arsimin, për çdo vit shkollor. Procedurat e përzgjedhjes, shpërndarjes dhe shitjes së teksteve shkollore bëhen në përputhje me rregullat e parashikuara në këtë udhëzim.
