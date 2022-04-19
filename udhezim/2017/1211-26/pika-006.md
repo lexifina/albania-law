@@ -45,13 +45,7 @@ VIII. Porositja e teksteve shkollore të reja dhe/ose përmbajtjeve digjitale
 3. Drejtori i institucionit arsimor të dërgojë zyrtarisht porosinë për tekste te botuesit/ distributorët. Drejtori të përcjellë në DAR/ZA tabelën përmbledhëse me titujt dhe sasinë e teksteve shkollore dhe/ose përmbajtjeve digjitale të përzgjedhura, brenda afateve të përcaktuara.
 4. DAR/ZA-ja, brenda afateve të përcaktuara, dërgon në MASR tabelën përmbledhëse me titujt dhe sasinë e teksteve të përzgjedhura dhe/ose përmbajtjeve digjitale të porositura nga institucionet arsimore.
 5. Drejtorët e institucioneve arsimore të pakicave kombëtare, t’u dërgojnë shtëpive botuese dhe/ose distributorëve, si dhe BOTEM-it, për aq tekste sa BOTEM-i do të administrojë në vijim, brenda afateve të përcaktuara, porosinë e tyre për tekste shkollore të reja.
-IX. Shpërndarja dhe shitja e teksteve shkollore të reja dhe/ose përmbajtjeve digjitale
-1. Për shpërndarjen dhe shitjen e teksteve shkollore të reja dhe/ose përmbajtjeve digjitale janë përgjegjës botuesit/distributorët.
-2. Shitja e teksteve shkollore të bëhet në njësitë tregtare të shitjes së librave ose në pika të tjera shitjeje pranë institucioneve arsimore, nga subjekte të licencuara.
-3. Institucioni arsimor mund të vërë falas në dispozicion të personave të ngarkuar nga shpërndarësit e teksteve (librashitësit), një ose dy klasa të sigurta për shitjen e teksteve shkollore me hologramën e MASR-së.
-4. Subjekteve të licencuara për shitjen e teksteve shkollore të mos u lejohet të shesin në shkollë libra që nuk i përkasin katalogut të teksteve shkollore të vitit shkollor përkatës.
-5. DAR/ZA-të, gjatë dy javëve para fillimit të vitit të ri shkollor dhe një javë pas tij, të raportojnë në MASR çdo ditë, në mënyrë të vazhdueshme, për pajisjen e nxënësve me tekste shkollore.
-6. Institucioni i ngarkuar nga MASR-ja, pas monitorimit të procesit të shpërndarjes dhe të shitjes së teksteve shkollore, t’i raportojë me shkrim ministrit të Arsimit, Sportit dhe Rinisë.
+IX. Shfuqizuar.
 X. Dispozita të fundit
 1. Dokumentacioni ligjor lidhur me procesin e konkurrimit, miratimit, porositjes, shpërndarjes dhe shitjes së teksteve shkollore të reja (aktet, programet mësimore, standardet e teksteve shkollore etj.), si dhe çdo material tjetër shpjegues për të interesuarit, publikohen në faqen zyrtare të MASR-së, www.arsimi.gov.al.
 2. Udhëzimi nr. 2, datë 23.2.2016, “Për procedurat e konkurrimit, miratimit, porositjes, shpërndarjes dhe shitjes së teksteve shkollore të reja”, i ndryshuar, shfuqizohet.
