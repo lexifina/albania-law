@@ -2136,3 +2136,63 @@ Teknik i mesëm
 Vjetore
 TOTAL PUNONJËS ME KONTRATË
 2,354
+Gr.
+Emri i institucionit
+Nr. i punonjësve 2022
+Emërtesa
+Koha mesatare ditore
+Periudhë kohore
+11
+Ministria e Arsimit dhe Sportit
+1
+Zyrat vendore arsimore Poliçan
+1
+Sanitar
+6 orë/ditë
+vjetore
+14
+Ministria e Drejtësisë
+2
+Komiteti Shqiptar i Birësimeve
+1
+Operator
+6 orë/ditë
+vjetore
+Komiteti Shqiptar i Birësimeve
+1
+Punonjës Arkiv-Protokolli
+6 orë/ditë
+6 muaj
+31
+Agjencia Telegrafike Shqiptare
+10
+Agjencia Telegrafike Shqiptare
+9
+Specialist
+6 orë / ditë
+vjetore
+Agjencia Telegrafike Shqiptare
+1
+Teknik i mesëm
+6 orë / ditë
+vjetore
+87
+Institucione të tjera qeveritare
+6
+Shkolla Shqiptare e Administratës Publike
+4
+Specialist
+6 orë/ditë
+vjetore
+Agjencia Kombëtare e Rinisë
+1
+Sanitar
+6 orë/ditë
+vjetore
+Agjencia Shtetërore e Programimit Strategjik dhe Koordinimit të Ndihmës
+1
+Specialist
+8 orë/ditë
+6 muaj
+TOTAL PUNONJËS ME KONTRATË
+19
