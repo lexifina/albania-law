@@ -1,0 +1,10 @@
+# Neni 3
+Përkufizime
+Përkufizimet e mëposhtme zbatohen për qëllimin e këtij udhëzimi:
+1. “prodhues” nënkupton çdo person fizik ose juridik, i cili është përgjegjës për të gjitha aspektet e miratimit të tipit të mjetit, sistemit, komponentit ose njësisë teknike të veçantë, ose miratimit individual të mjetit ose të pjesëve të këmbimit dhe pajisjeve, për të siguruar konformitetin e prodhimit dhe çështjeve të mbikëqyrjes së tregut që lidhen me mjetin, sistemin, pajisjen ose njësinë e veçantë teknike të prodhuar, pavarësisht në se personi/subjekti është direkt i përfshirë në të gjitha fazat e projektimit dhe ndërtimit të mjetit, sistemit, pajisjes ose njësisë teknike të veçantë;
+2. “përfaqësues i prodhuesit” nënkupton çdo person fizik ose juridik me seli në Republikën e Shqipërisë, i cili është caktuar siç duhet të përfaqësojë prodhuesin përpara autoritetit të miratimit ose autoritetit të mbikëqyrjes së tregut dhe të veprojë në emër të prodhuesit për çështje të këtij udhëzimi;
+3. “makinë e lexueshme” nënkupton përdorimin direkt të një kompjuteri;
+4. “informacioni i riparimit dhe mirëmbajtjes” nënkupton të gjitha informacionet, që përfshijnë amendimet dhe shtesat e herëpashershme dhe nevojitet për diagnozën, shërbimet dhe inspektimin e mjetit, përgatitjen për kontroll teknik, riparim, riprogramimin apo riinstalimin e mjetit, ose nevojitet për suportin diagnostik në distancë të mjetit ose për përshtatjen në mjet të pjesëve të këmbimit apo pajisjeve dhe që u jepet nga prodhuesi partnerëve të tij të autorizuar, agjentëve tregtarë dhe riparuesve, ose përdoret nga prodhuesi për qëllim të mirëmbajtjes dhe të riparimit;
+5. “regjistrim” nënkupton autorizimin administrativ për qarkullimin në rrugë të mjetit;
+6. “autoritet kompetent” nënkupton një autoritet ose organ publik i ngarkuar nga ministri përgjegjës për transportin, përgjegjës për menaxhimin e sistemit të kontrollit teknik të mjeteve, duke përfshirë, aty ku është e përshtatshme, kryerjen e kontrolleve teknike;
+7. “qendra e kontrollit” do të thotë një organ ose institucion publik ose privat i autorizuar nga ministri përgjegjës për transportin për të kryer kontrollet teknike.
