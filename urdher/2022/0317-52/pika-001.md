@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për metodologjinë, rregullat, procedurat, standardet dhe praktikat për kryerjen e investigimit të aksidenteve dhe të incidenteve hekurudhore dhe detare”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
