@@ -1,0 +1,1 @@
+2. Bashkisë Kavajë, në buxhetin e vitit 2022, i transferohet fondi në formën e transfertës së pakushtëzuar, në masën 39 431 333 (tridhjetë e nëntë milionë e katërqind e tridhjetë e një mijë e treqind e tridhjetë e tre) lekë pa TVSH, për financimin e rikonstruksionit të shkollës 9-vjeçare “Bago”, Bashkia Kavajë, i cili përballohet nga shpenzimet buxhetore të fondit të rindërtimit.

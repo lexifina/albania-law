@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për financimin e rikonstruksionit të shkollës 9-vjeçare “Bago”, Bashkia Kavajë, në masën 197 156 668 (njëqind e nëntëdhjetë e shtatë milionë e njëqind e pesëdhjetë e gjashtë mijë e gjashtëqind e gjashtëdhjetë e tetë) lekë pa TVSH.
