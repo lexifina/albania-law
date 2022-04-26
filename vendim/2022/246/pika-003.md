@@ -1,0 +1,1 @@
+3. Depistimi te të porsalindurit kryhet nga neonatologët, në maternitetet publike ose jopublike, sipas protokolleve të përcaktuara. Nëse konstatohen probleme, njoftohet prindi dhe rekomandohet për ekzaminim të specializuar.

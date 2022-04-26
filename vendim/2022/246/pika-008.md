@@ -1,0 +1,1 @@
+8. Për moshën 6 (gjashtë) deri në 14 (katërmbëdhjetë) vjeç, depistimi, sipas udhëzimeve, kryhet në shkollë nga mjekët e shkollave dhe, në mungesë të personelit shëndetësor në shkolla, depistimi kryhet nga mjekët e familjes, sipas zonave përkatëse që mbulon qendra shëndetësore.

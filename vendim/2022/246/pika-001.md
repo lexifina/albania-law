@@ -1,0 +1,1 @@
+1. Miratimin e paketës së Programit Kombëtar për Kujdesin e Shikimit për Fëmijët si një paketë shërbimesh ndihmëse në shëndetin publik, me qëllim identifikimin e hershëm të dëmtimeve të shikimit dhe parandalimin e problematikave të shikimit e dëmtimeve të tjera të shikimit.

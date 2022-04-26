@@ -1,0 +1,1 @@
+5. Depistimi deri në moshën 4 (katër) vjeç kryhet nga mjekët e familjes në qendrat shëndetësore dhe nga mjekët e konsultorit të fëmijës. Paraqitja e fëmijës në konsultor për vaksinat, sipas kalendarit të vaksinimit, shoqërohet edhe me depistimin për shikimin. Depistimi dokumentohet në regjistër.

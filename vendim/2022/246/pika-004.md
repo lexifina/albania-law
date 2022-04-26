@@ -1,0 +1,1 @@
+4. Depistimi në 6-mujorin e dytë të lindjes kryhet nga mjekët pediatër/të familjes në konsultorin e fëmijës, në qendrat e konsultorit në të gjithë vendin. Fëmijët që shfaqin probleme rekomandohen nga mjeku i familjes për ekzaminim të specializuar.
