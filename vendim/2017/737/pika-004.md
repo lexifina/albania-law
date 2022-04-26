@@ -1,1 +1,1 @@
-4. Për qëllime të këtij vendimi do të gjejnë zbatim përkufizimet e përcaktuara në Strategjinë Kombëtare për Luftën kundër Ekstremizmit të Dhunshëm dhe planin e veprimit të saj, miratuar me vendimin nr. 930, datë 18.11.2015, të Këshillit të Ministrave.
+4. Për qëllime të këtij vendimi do të gjejnë zbatim përkufizimet e përcaktuara në Strategjinë Kombëtare për Luftën kundër Ekstremizmit të Dhunshëm dhe planin e veprimit të saj.
