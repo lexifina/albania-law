@@ -1,0 +1,1 @@
+2. Qëllimi i këtij vendimi është plotësimi i nevojave operacionale të Forcave të Armatosura të Republikës së Shqipërisë në rastet e dislokimit jashtë vendit dhe kur është i pamundur krijimi i strukturave përgjegjëse të procesit të prokurimit e kryerja e procedurave standarde të blerjes së mallit/shërbimit/punës.

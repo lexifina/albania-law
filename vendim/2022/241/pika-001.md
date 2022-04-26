@@ -1,0 +1,1 @@
+1. Ky vendim ka si objekt përcaktimin e procedurave, që ndiqen për prokurimet e bëra në një vend të tretë, përfshirë prokurimet civile të kryera, kur Forcat e Armatosura të Republikës së Shqipërisë janë dislokuar jashtë territorit të vendit dhe kur, për nevoja operacionale, duhet të lidhen kontrata me operatorët ekonomikë, që janë në vendin ku po kryhet operacioni.
