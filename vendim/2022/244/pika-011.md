@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës pezullon të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohet procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale dhe regjistrimi i kalimit të pronësisë në favor të Bashkisë Tiranë për pasuritë e shpronësuara.
