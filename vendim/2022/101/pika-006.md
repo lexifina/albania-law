@@ -1,3 +1,4 @@
 6. Nga fondi i programit për bujqësinë dhe zhvillimin rural, për vitin 2022, të përdoret shuma:
 a) deri në 37 600 872 (tridhjetë e shtatë milionë e gjashtëqind mijë e tetëqind e shtatëdhjetë e dy) lekë, për pagesën e vlerës së palikuiduar, për subjektet e shpallura fituese nga Agjencia për Zhvillimin Bujqësor dhe Rural, në zbatim të vendimit nr. 1102, datë 24.12.2020, të Këshillit të Ministrave, “Për përcaktimin e kritereve bazë të sektorëve që do të mbështeten dhe të masës së financimit nga fondi i programit për bujqësinë dhe zhvillimin rural, për vitin 2021”.
 b) deri në 50 000 (pesëdhjetë mijë) lekë detyrime, për pagesat e normës së interesave bankare për kontratat e lidhura.
+6/1. Efektet financiare shtesë prej 500 000 000 (pesëqind milionë) lekësh, për mbështetjen me naftë, do të përballohen nga paketa e rezistencës sociale ndaj pasojave të krizës.
