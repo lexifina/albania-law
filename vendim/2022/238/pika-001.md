@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për financimin e rindërtimit të objektit të Institutit të Policisë Shkencore, në masën 653 582 498 (gjashtëqind e pesëdhjetë e tre milionë e pesëqind e tetëdhjetë e dy mijë e katërqind e nëntëdhjetë e tetë) lekë pa TVSH.

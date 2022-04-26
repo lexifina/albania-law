@@ -1,0 +1,1 @@
+2. Në buxhetin e miratuar për vitin 2022, për Ministrinë e Brendshme, në programin buxhetor “Policia e Shtetit” 03440, në zërin “Shpenzime kapitale me financim të brendshëm”, shtohet fondi prej 130 716 500 (njëqind e tridhjetë milionë e shtatëqind e gjashtëmbëdhjetë mijë e pesëqind) lekësh pa TVSH, për financimin e rindërtimit të objektit të Institutit të Policisë Shkencore.
