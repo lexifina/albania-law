@@ -1,0 +1,1 @@
+4. Punonjësit e institucioneve të përmendura në shkronjën “b”, të pikës 1, të këtij vendimi, trajtohen me sistemin e pagës bazë për klasë me 13 klasa, sipas lidhjes II, “Nivelet e pagës bazë për klasë të punonjësve të institucioneve të përmendura në shkronjën ’b’, të pikës 1, të këtij vendimi”.

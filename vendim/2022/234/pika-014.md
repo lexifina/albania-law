@@ -1,0 +1,1 @@
+14. Vendimi nr. 717, datë 23.6.2009, i Këshillit të Ministrave, “Për pagat e punonjësve mbështetës në institucionet buxhetore dhe të nëpunësve të disa institucioneve buxhetore”, i ndryshuar, shfuqizohet.

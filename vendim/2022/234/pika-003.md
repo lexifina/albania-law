@@ -1,0 +1,1 @@
+3. Punonjësit e institucioneve të përmendura në shkronjën “a”, të pikës 1, të këtij vendimi, trajtohen me sistemin e pagës bazë për klasë me 9 klasa, sipas lidhjes I, “Nivelet e pagës bazë për klasë të punonjësve të institucioneve të përmendura në shkronjën ’a’, të pikës 1, të këtij vendimi”.
