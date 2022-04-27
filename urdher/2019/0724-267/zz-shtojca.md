@@ -6,9 +6,10 @@ Objekti
 Objekti i kësaj rregulloreje është përcaktimi i mënyrës, kritereve dhe procedurës për kategorizimin e strukturave akomoduese, në përputhje me parashikimet e ligjit nr. 93/2015, “Për turizmin”, të ndryshuar dhe VKM-në nr. 730, datë 20.10.2016, të Këshillit të Ministrave, “Për miratimin e rregullores për kushtet, kriteret, tarifat, afatet dhe procedurën për klasifikimin e strukturave akomoduese”, të ndryshuar.
 Neni 2
 Kriteret
+(hequr togfjalësh në pikën 3 me urdhrin nr. 157, datë 22.4.2022)
 1. Çdo subjekt duhet të plotësojë kriteret e detyrueshme për nivelin më të ulët të sistemit të klasifikimit, të kategorisë për të cilën aplikon, të përcaktuar në VKM-në nr. 730, datë 20.10.2016 “Për miratimin e rregullores për kushtet, kriteret, tarifat, afatet dhe procedurën për klasifikimin e strukturave akomoduese”, të ndryshuar, sipas modelit, shtojca 4, bashkëngjitur kësaj rregulloreje.
 2. Çdo subjekt që do të ushtrojë veprimtarinë si strukturë akomoduese duhet të pajiset me certifikatën e kategorizimit, brenda 30 ditëve nga regjistrimi pranë Qendrës Kombëtare të Biznesit.
-3. Çdo subjekt, që aktualisht ushtron veprimtarinë si strukturë akomoduese duhet t’i nënshtrohet procedurës për kategorizimin brenda afatit të përcaktuar në pikën 4 të urdhrit të ministrit, sipas rregullave të parashikuara në këtë rregullore.
+3. Çdo subjekt, që aktualisht ushtron veprimtarinë si strukturë akomoduese duhet t’i nënshtrohet procedurës për kategorizimin sipas rregullave të parashikuara në këtë rregullore.
 Neni 3
 Kategoritë e strukturave akomoduese të ndara në klasat e Nomenklaturës së Veprimtarive Ekonomike (NVE)
 Strukturat akomoduese, sikurse përcaktohen në ligjin nr. 93/2015, “Për turizmin”, të ndryshuar, përfshijnë kategoritë:
@@ -31,37 +32,31 @@ Fjetje dhe mëngjes (B&B), bujtinë
 Neni 4
 Procedura e kategorizimit të strukturave akomoduese
 1. Procedura e kategorizimit të strukturave akomoduese u nënshtrohet tri fazave:
-a) faza e parë përfshin procesin e vetëdeklarimit të sipërmarrësit turistik, i cili konsiston në plotësimin e formularit të vetëdeklarimit dhe dorëzimit të dokumentacionit shoqërues, të parashikuar në nenin 6 të kësaj rregulloreje;
+a) faza e parë përfshin procesin e vetëdeklarimit të sipërmarrësit turistik, i cili konsiston në plotësimin e formularit të aplikimit në portalin e-Albania dhe ngarkimit të dokumentacionit shoqërues, të parashikuar në nenin 6 të kësaj rregulloreje;
 b) faza e dytë përfshin procesin e shqyrtimit nga ana e Komisionit të Standardizimit të Veprimtarive Turistike të dokumentacionit të dorëzuar nga sipërmarrësi turistik, sipas përcaktimeve të bëra në nenin 7;
 c) faza e tretë përfshin verifikimin në terren, rast pas rasti, të të dhënave të vetëdeklarimit nga një grup pune ngritur me urdhër të ministrit, nëse komisioni i standardizimit e kërkon këtë proces.
 Neni 5
 Procesi i vetëdeklarimit për kategorizimin e strukturës akomoduese
-1. Sipërmarrësi turistik, që ushtron veprimtarinë si strukturë akomoduese, duhet të paraqesë pranë ministrisë përgjegjëse për turizmin formularin e vetëdeklarimit dhe dokumentacionin përkatës, të përcaktuar në nenin 6 të kësaj rregulloreje.
+1. Sipërmarrësi turistik, që ushtron veprimtarinë si strukturë akomoduese, duhet të aplikojë online në portalin e-Albania duke plotësuar formularin e aplikimit dhe dokumentacionin përkatës, të përcaktuar në nenin 6 të kësaj rregulloreje.
 Formulari i vetëdeklarimit shkarkohet nga faqja zyrtare e Ministrisë së Turizmit dhe Mjedisit: turizmi.gov.al, në menunë “Turizmi/Udhëzues për qytetarët”.
 2. Sipërmarrësi turistik mban përgjegjësi për vërtetësinë e të dhënave të deklaruara, të cilat janë objekt i verifikimit, sipas rregullave të parashikuara në këtë rregullore.
 Neni 6
 Dokumentacioni i aplikimit për pajisjen me certifikatë kategorizimi
-1. Dokumentacioni që duhet të paraqesë subjekti:
-1.1 Dokumentacioni i detyrueshëm:
-a) kërkesë për t’u pajisur me certifikatë kategorizimi sipas modelit, shtojca 2, bashkëlidhur kësaj rregulloreje;
-b) formularin e vetdeklarimit, sipas modelit, shtojca 3, bashkëngjitur kësaj rregulloreje;
-c) vërtetim për regjistrimin në Qendrën Kombëtare të Biznesit si person fizik/juridik me objekt veprimtarie si strukturë akomoduese;
-d) vërtetim i gjendjes gjyqësore të pronarit/administratorit.
-1.2 Dokumentacioni shoqërues:
+Subjekti plotëson formularin e aplikimit në portalin e-Albania dhe ngarkon dokumentacionin e mëposhtëm:
 a) akti i pronësisë ose përdorimit të strukturës;
-b) planimetrinë e strukturës akomoduese;
-c) vërtetimin që struktura plotëson kushtet për masat e mbrojtjes nga zjarri lëshuar nga Drejtoria e Përgjithshme e Mbrojtjes nga Zjarri dhe Shpëtimi;
+b) vërtetim për regjistrimin në Qendrën Kombëtare të Biznesit si person fizik/juridik me objekt veprimtarie si strukturë akomoduese;
+c) planimetrinë e strukturës akomoduese;
+ç) vërtetimin që struktura plotëson kushtet për masat e mbrojtjes nga zjarri lëshuar nga Drejtoria e Përgjithshme e Mbrojtjes nga Zjarri dhe Shpëtimi;
 d) vërtetimin që struktura plotëson kushtet higjeno-sanitare, lëshuar nga Instituti i Shëndetit Publik;
-e) foto të brendshme dhe të jashtme të objektit.
-2. Dokumentacioni dhe/ose vërtetimet e kërkuara në pikën 1 të këtij neni, paraqiten në format origjinal ose kopje të noterizuara.
-3. Dokumentacioni i germave “c” dhe “d”, të pikës 1.1, në rast se nuk paraqitet nga subjekti do të sigurohet, nëpërmjet portalit e-albania nga ministria përgjegjëse për turizmin.
-4. Dokumentacioni shoqërues, në rast se nuk është depozituar nga subjekti në momentin e aplikimit, duhet të dorëzohet brenda datës 31.12.2020, pranë ministrisë përgjegjëse për turizmin.
+dh) vërtetim i gjendjes gjyqësore të pronarit/administratorit (dëshmi penaliteti).
+ë) foto të brendshme dhe të jashtme të objektit;
 Neni 7
 Procedura e shqyrtimit të dokumentacionit për kategorizimin e strukturave akomoduese
-1. Komisioni i standardizimit, brenda 45 ditëve nga data e depozitimit të kërkesës, formularit të vetëdeklarimit, dokumentacionit të parashikuar në nenin 6 të kësaj rregulloreje dhe raportit përmbledhës, rast pas rasti, të grupit të punës, shqyrton dhe vlerëson dokumentet dhe të dhënat për përmbushjen e kritereve të kërkuara për kategorizimin e strukturës akomoduese.
+(zëvëndësuar togëfjalësh në pikën 1 dhe 4 me urdhrin nr. 157, datë 22.4.2022)
+1. Komisioni i standardizimit, brenda 45 ditëve nga data e e plotësimit të formularit të aplikimit, dokumentacionit të parashikuar në nenin 6 të kësaj rregulloreje dhe raportit përmbledhës, rast pas rasti, të grupit të punës, shqyrton dhe vlerëson dokumentet dhe të dhënat për përmbushjen e kritereve të kërkuara për kategorizimin e strukturës akomoduese.
 2. Komisioni i standardizimit, në rast të konstatimit të mangësive të dokumentacionit të dorëzuar nga ana e subjektit, njofton brenda 10 ditëve nga data e aplikimit subjektin për plotësimin e dokumentacionit.
 3. Sipërmarrësi turistik duhet të plotësojë dokumentacionin brenda 5 ditëve nga dita e njoftimit për mangësitë e konstatuara.
-4. Në rast se komisioni i standardizimit, gjatë shqyrtimit të formularit të vetëdeklarimit dhe dokumentacionit shoqërues konstaton parregullsi apo lindin dyshime të arsyeshme për të dhënat e deklaruara, si dhe për përmbajtjen e dokumentacionit, i kërkon grupit të punës verifikimin në terren të të dhënave. Komisioni i standardizimit, nëpërmjet sekretarisë, njofton subjektin dhe grupin e verifikimit, si dhe koordinon vizitën në terren.
+4. Në rast se komisioni i standardizimit, gjatë shqyrtimit të formularit të aplikimit dhe dokumentacionit shoqërues konstaton parregullsi apo lindin dyshime të arsyeshme për të dhënat e deklaruara, si dhe për përmbajtjen e dokumentacionit, i kërkon grupit të punës verifikimin në terren të të dhënave. Komisioni i standardizimit, nëpërmjet sekretarisë, njofton subjektin dhe grupin e verifikimit, si dhe koordinon vizitën në terren.
 5. Grupi i punës, i ngritur me urdhër ministri, verifikon në terren parregullsitë e konstatuara nga komisioni i standardizimit dhe kriteret e detyrueshme për nivelin më të ulët të klasifikimit, të përcaktuara në VKM-në nr. 730, datë 20.10.2016, “Për miratimin e rregullores për kushtet, kriteret, tarifat, afatet dhe procedurën për klasifikimin e strukturave akomoduese”, të ndryshuar.
 6. Grupi i punës i paraqet Komisionit të Standardizimit të Veprimtarive Turistike raportin përmbledhës të gjetjeve të konstatuara, brenda 5 ditëve nga dita e autorizimit të verifikimit.
 7. Afati i parashikuar në pikën 1 të këtij neni, mund të shtyhet, në mënyrë të arsyetuar, por jo më shumë se 60 ditë, duke i dërguar sipërmarrësit turistik një njoftim me shkrim, jo më vonë se përfundimi i afatit të parashikuar në pikën 1 të këtij neni.
