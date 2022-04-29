@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit dhe projektit të BE-së ndërmjet Republikës së Shqipërisë (marrësi), të përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt am Main (KfW) dhe Korporatës Elektroenergjetike Shqiptare (KESH) (agjencia e zbatimit të projektit), rehabilitimi i hidrocentralit të Fierzës, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
