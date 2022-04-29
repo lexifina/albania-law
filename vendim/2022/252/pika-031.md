@@ -1,0 +1,1 @@
+31. Vendim nr.43, datë 15.1.2020, i Këshillit të Ministrave, “Për funksionimin e procesit të shkëmbimit të dokumenteve ndërmjet institucioneve, nëpërmjet sistemit të qarkullimit të dokumenteve me nënshkrim elektronik”, i ndryshuar, shfuqizohet.

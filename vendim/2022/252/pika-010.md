@@ -1,0 +1,4 @@
+10. Në mungesë të një afati të shprehur në legjislacionin e posaçëm, atëherë zbatohen, sipas rastit, afatet e mëposhtme për realizimin e shërbimeve on-line:
+a) 10 (dhjetë) ditë pune nga paraqitja e kërkesës, në përputhje me pikën 1, të nenit 15, të ligjit nr.119/2014, “Për të drejtën e informimit”, kur shërbimi ka të bëjë vetëm me vendosjen në dispozicion të informacionit apo lëshimin e një dokumenti që realizohet apo hartohet pa nevojën e hetimit administrativ;
+b) 10 (dhjetë) ditë kalendarike nga paraqitja e kërkesës, në përputhje me pikën 5, të nenit 49, të Kodit të Procedurave Administrative, kur shërbimi ka të bëjë me njësimin e dokumenteve;
+c) 60 (gjashtëdhjetë) ditë kalendarike nga paraqitja e kërkesës, në përputhje me pikën 2, të nenit 91, të Kodit të Procedurave Administrative, kur shërbimi kërkon kryerjen e hetimit administrativ ose në rastet kur për kryerjen e shërbimit nevojiten procedura vendimmarrjeje dhe miratimi nga komisione të posaçme.

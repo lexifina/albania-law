@@ -1,0 +1,1 @@
+17. Aksesimi në sistem i punonjësit të administratës bëhet nëpërmjet kredencialeve personale, duke bërë të mundur identifikimin e tij në sistemin SQDNE, sipas legjislacionit që rregullon identifikimin elektronik dhe shërbimet e besuara.

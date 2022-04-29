@@ -1,0 +1,1 @@
+20. Bëjnë përjashtim nga pika 19, e këtij vendimi, rastet kur shërbimi i kërkuar nga kërkuesi duhet t’i mundësohet atij brenda 1 (një) dite pune. Në varësi të këtyre shërbimeve, shkëmbimi i dokumenteve ndërmjet institucioneve, nëpërmjet SQDNE-së duhet të kryhet brenda 1 (një) dite pune nga e nesërmja e marrjes së kërkesës për dokumentet shoqëruese në sistem.

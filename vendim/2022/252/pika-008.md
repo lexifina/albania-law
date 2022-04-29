@@ -1,0 +1,1 @@
+8. Afati i institucionit shtetëror për realizimin e shërbimit, në kuptim të neneve 56 dhe 57 të Kodit të Procedurave Administrative, llogaritet dhe fillon të ecë pas ditës kur kërkuesi ka paraqitur kërkesën në platformën “e-Albania”.

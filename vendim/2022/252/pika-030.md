@@ -1,0 +1,1 @@
+30. Ngarkohen institucionet shtetërore për të miratuar, brenda 30 (tridhjetë) ditëve nga hyrja në fuqi e këtij vendimi, rregullore me karakter të brendshëm për mënyrën e zbatimit nga ana e punonjësve dhe strukturave të tyre përgjegjëse të detyrimeve që burojnë nga ky vendim.

@@ -1,0 +1,1 @@
+19. Të gjitha institucionet, që marrin kërkesën për dokumentacion shoqërues nga institucionet kërkuese, kanë detyrimin t’u vendosin atyre në dispozicion në SQDNE dokumentet shoqëruese të kërkuara, brenda afatit të përcaktuar në ligjin përkatës ose, në mungesë të tij, brenda 2 (dy) ditëve pune nga e nesërmja e marrjes së kërkesës për dokumentet shoqëruese në sistem.

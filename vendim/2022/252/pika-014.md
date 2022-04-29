@@ -1,0 +1,1 @@
+14. SQDNE-ja mundëson komunikimin për shkëmbimin e dokumenteve shoqëruese të kërkuara ndërmjet institucioneve për ofrimin e shërbimit, aplikimi i të cilit realizohet nëpërmjet platformës “e-Albania”, deri në lëshimin e dokumentit përfundimtar me vulë elektronike ose nënshkrim elektronik, si dhe monitorimin e ofrimit të shërbimit, sipas afateve ligjore.

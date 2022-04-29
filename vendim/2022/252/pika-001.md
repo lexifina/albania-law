@@ -1,0 +1,1 @@
+1. Në fushën e veprimit të këtij vendimi përfshihen shërbimet e të gjitha institucioneve shërbimofruese, aplikimet e të cilave kryhen nëpërmjet platformës “e-Albania” dhe që duhet të realizohen vetëm elektronikisht, duke siguruar lëshimin e dokumentit përfundimtar me vulë elektronike ose nënshkrim elektronik.

@@ -1,0 +1,2 @@
+22. Për ndërveprimin e institucionit shtetëror me kërkuesin dhe për realizimin përfundimtar të shërbimit në favor të kërkuesit, zbatohen të njëjtat rregulla si në pikat 6 deri në 11 të këtij vendimi, duke vendosur në dispozicion të tij dokumentin përfundimtar me vulë elektronike ose nënshkrim elektronik, nëpërmjet platformës “e-Albania”.
+III. MONITORIMI DHE KONTROLLI I ZBATIMIT, SHKELJET DHE PASOJAT

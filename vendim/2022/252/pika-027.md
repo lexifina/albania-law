@@ -1,0 +1,2 @@
+27. Mosrespektimi i detyrimeve të përcaktuara në këtë vendim përbën kundërvajtje administrative dhe trajtohet sipas përcaktimeve të nenit 56, të ligjit nr.107/2021, “Për bashkëqeverisjen”, duke nisur procedurën e inspektimit. Në përfundim të inspektimit, në rast se konstatohen shkeljet e afateve dhe të procedurave të përcaktuara në këtë vendim, ndaj punonjësit apo nëpunësit përgjegjës të administratës dhe/ose titullarit të institucionit merren masat e parashikuara në dispozitën e sipërpërmendur të ligjit nr.107/2021.
+IV. DISPOZITA TË FUNDIT

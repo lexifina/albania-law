@@ -1,0 +1,1 @@
+2. Ky vendim ka për qëllim të sigurojë që ofrimi në mënyrë elektronike i shërbimeve të institucioneve shtetërore të jetë sa më cilësor dhe në përputhje me përcaktimet e nenit 61, të ligjit nr.107/2021, “Për bashkëqeverisjen”, dhe të legjislacionit në fuqi.

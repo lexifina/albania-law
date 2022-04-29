@@ -1,0 +1,1 @@
+25. Nëpunësit përgjegjës raportojnë pranë Agjencisë për Dialog dhe Bashkëqeverisje për vonesat, kërkesat e refuzuara apo gabimet gjatë procesit për kërkim dokumentacioni, ofrimin e shërbimit dhe masat e marra nga institucioni në rast vonese në ofrimin e shërbimit.

@@ -1,0 +1,1 @@
+16. Në rastet kur nëpunësi i caktuar, për shkak pamundësie apo të kryerjes së pushimeve vjetore të pagueshme apo pushimeve të tjera me ose pa pagesë, nuk është prezent në punë, institucioni duhet të marrë masa për personin zëvendësues, i cili akseson sistemin me kredencialet e tij, me qëllim respektimin e afateve të shërbimit.
