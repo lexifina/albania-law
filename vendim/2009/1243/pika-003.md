@@ -1,2 +1,2 @@
-3. Bashkimi i një personi ose i një familjeje me një familje tjetër bëhet me pëlqimin e të gjithë pjesëtarëve madhorë me anën e deklarimit përpara nëpunësit të shërbimit të gjendjes civile dhe kur plotësohet minimumi i sipërfaqes së banimit, 4 m2 për frymë, përveç bashkimit me martesë dhe birësim.
+3. Shtetasi, i cili kërkon të bashkohet në një familje, paraqet kërkesën në rrugë elektronike (on-line) nëpërmjet portalit qeveritar “e-Albania”, duke depozituar në portal konfirmimin e të gjithë anëtarëve madhorë të familjes pritëse, duke pasur në konsideratë standardet e banimit, të miratuara nga legjislacioni në fuqi.
 II.VEPRIMET QË KRYHEN NGA INSTITUCIONET SHTETËRORE, DOKUMENTACIONI I NEVOJSHËM DHE AFATET E KOMUNIKIMIT
