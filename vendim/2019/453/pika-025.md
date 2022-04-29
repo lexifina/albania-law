@@ -1,1 +1,1 @@
-25. Kur familja paraqitet pranë institucionit financiar dhe institucionit që monitoron subvencionim e kredisë brenda 6 muajve nga data e njoftimit (publik/shpallja e listave/me shkresë), duke kërkuar shtyrje të afatit, emri i subjektit vazhdon të qëndrojë në listë pritjeje edhe për 6 muaj të tjerë.
+25. Shfuqizuar.

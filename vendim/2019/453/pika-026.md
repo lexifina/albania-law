@@ -1,3 +1,4 @@
-26. Në rast se familja nuk paraqitet brenda 6 muajve dhe as ka kërkuar shtyrje të afatit, veprohet, si më poshtë vijon:
+26. Në rast se familja nuk paraqet kërkesë për shtyrje, sipas afateve të përcaktuara në pikën 24, të këtij vendimi, veprohet, si më poshtë vijon:
 a) Kur nga njësitë e vetëqeverisjes vendore janë dërguar lista rezervë, sipas pikës 21, të këtij vendimi, institucioni financiar vijon me listën emërore rezervë;
 b) Kur lista rezervë është shteruar, njësia e vetëqeverisjes vendore harton listën e radhës me subjekte që plotësojnë kriteret ligjore dhe janë renditur më poshtë me pikë.
+26/1. Individët/familjet e miratuara për të përfituar kredi me interes 0 (zero) %, duhet të kujdesen për gjetjen e blerjen e një banese në treg të lirë. Këto familje vazhdojnë të qëndrojnë në listë pritjeje deri në kryerjen e procedurave të kreditimit dhe të lidhjes së kontratës me institucionin financiar për përfitimin e kredisë.
