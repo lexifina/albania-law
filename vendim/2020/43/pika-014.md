@@ -1,1 +1,0 @@
-14. Moskthimi brenda afatit të përcaktuar në këtë vendim i një dokumenti shoqërues nga institucioni përgjegjës nuk përbën pengesë për institucionin kërkues që të vijojë procedurat e mëtejshme të trajtimit të kërkesës.

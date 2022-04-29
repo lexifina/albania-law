@@ -1,1 +1,0 @@
-7. Në rastet kur nëpunësi i caktuar, për shkak pamundësie ose lejeje të zakonshme nuk do të jetë prezent në punë, institucioni duhet të marrë masa për personin zëvendësues i cili do të aksesojë sistemin me kredencialet e tij, me qëllim respektimin e afateve të shërbimit.

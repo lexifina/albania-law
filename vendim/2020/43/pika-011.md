@@ -1,1 +1,0 @@
-11. Bëjnë përjashtim nga pika 10, e këtij vendimi, rastet kur shërbimi i kërkuar nga aplikuesi duhet t’i mundësohet atij brenda 24 orëve. Në varësi të këtyre shërbimeve, shkëmbimi i dokumenteve ndërmjet institucioneve, nëpërmjet SQDNE-së duhet të kryhet brenda 24 orëve nga momenti i marrjes së kërkesës për dokumentet shoqëruese në sistem.

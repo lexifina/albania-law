@@ -1,1 +1,0 @@
-1. Ky vendim ka për qëllim rregullimin e procedurave për funksionimin e procesit të shkëmbimit të dokumenteve ndërmjet institucioneve, nëpërmjet Sistemit të Qarkullimit të Dokumenteve me Nënshkrim Elektronik, me qëllim ofrimin e aplikimeve/shërbimeve të cilat kanë kaluar/do të ofrohen në rrugë elektronike (on-line).

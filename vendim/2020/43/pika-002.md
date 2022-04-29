@@ -1,1 +1,0 @@
-2. Ky vendim ka për objekt përcaktimin e procedurave dhe të afateve të shkëmbimit të dokumenteve ndërmjet institucioneve, nëpërmjet Sistemit të Qarkullimit të Dokumenteve me Nënshkrim Elektronik, me qëllim ofrimin e shërbimit/aplikimit të qytetarit apo të biznesit.
