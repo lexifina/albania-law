@@ -1,2 +1,0 @@
-15. Njësia e burimeve njerëzore të institucionit bën vlerësimin e dhuratave dhe inventarizon dhuratat me vlerë më të madhe se 10 000 lekë, të cilat përdoren për qëllime të veprimtarisë së institucionit. Dhuratat që kanë vlera artistike, muzeale apo historike, u dorëzohen institucioneve të specializuara.
-Në të njëjtën mënyrë administrohen edhe dhuratat, që nuk mund të kthehen, sipas nenit 11 të ligjit nr.9131, datë 8.9.2003 “Për rregullat e etikës në administratën publike”.

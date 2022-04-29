@@ -1,1 +1,0 @@
-11. Nuk konsiderohen si dhurata, në kuptim të këtij kreu, dhuratat, të cilat i ofrohen nëpunësit si pasojë e lidhjeve farefisnore apo njohjeve personale që ai ka me dhuruesit, si edhe në rastin kur është e qartë se dhurata nuk ka asnjë lidhje me pozicionin dhe cilësinë si nëpunës i administratës publike, të personit që merr dhuratën.

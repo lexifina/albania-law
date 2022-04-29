@@ -1,1 +1,0 @@
-4. Në mungesë të një autorizimi, nëpunësi nuk duhet të dëshmojë si ekspert përpara ndonjë trupi gjykues apo të përfaqësojë ndonjë person fizik ose juridik, vendas apo të huaj, organizatë, entitet apo qeveri të huaj, nëse institucionet e administratës publike janë palë apo kanë ndonjë interes të drejtpërdrejtë dhe të rëndësishëm në çështjen që shqyrtohet.

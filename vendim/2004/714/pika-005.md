@@ -1,2 +1,0 @@
-5. Nëpunësi i administratës publike njofton zyrtarisht eprorin direkt dhe njësinë e burimeve njerëzore të institucionit për veprimtarinë e jashtme që do të kryejë, duke bërë një përshkrim të shkurtër të veprimtarisë, të objektivave dhe qëllimeve të organizatës për të cilën kryen veprimtarinë e jashtme.
-Kur nëpunësi kryen veprimtari të jashtme përpara fillimit të marrëdhënieve të punës me institucionin e administratës publike, në çastin e punësimit, ai njofton me shkrim eprorin direkt dhe njësinë e burimeve njerëzore.

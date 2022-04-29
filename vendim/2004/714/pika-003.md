@@ -1,1 +1,0 @@
-3. Nuk konsiderohet si veprimtari e jashtme, e palejueshme, veprimtaria në kuadër të shoqatave kulturore, shoqërore apo sportive, pjesëmarrja në organet drejtuese të këtyre shoqatave, me përjashtim të rastit kur pengohet kryerja normale e detyrës zyrtare.
