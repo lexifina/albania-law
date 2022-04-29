@@ -1,18 +1,18 @@
 7. Shërbimet e punësimit në kategorinë e programeve pasive të tregut të punës ofrohen për të gjithë punëkërkuesit, të cilët kanë marrë statusin “Punëkërkues i papunë”, sipas nevojave të tyre dhe sipas përcaktimeve në nenin 13, të ligjit nr. 15/2019, “Për nxitjen e punësimit”, dhe në ligjin nr. 7703, “Për sigurimet shoqërore në Republikën e Shqipërisë”, që përfshin pagesën e të ardhurës nga papunësia. Kjo pagesë jepet vetëm pas regjistrimit e vlerësimit të punëkërkuesve të papunë pranë strukturave rajonale/vendore përkatëse të punësimit të AKPA-s. Plotësimi i dokumentacionit bëhet sipas legjislacionit në fuqi.
 III. PROCEDURAT, KRITERET DHE RREGULLAT E OFRIMIT TË SHËRBIMEVE TË PUNËSIMIT PËR PUNËDHËNËSIT
-1. Çdo punëdhënës, që kërkon të përfitojë shërbime nga zyra përkatëse e punësimit, mund të regjistrohet në mënyrë elektronike apo duke u paraqitur vetë pranë strukturave rajonale/vendore përkatëse të punësimit të AKPA-së, duke plotësuar formularin përkatës, ku përfshihet edhe deklarimi për kontrollin e të dhënave.
+1. Çdo punёdhёnёs, që kërkon të përfitojë shërbime nga zyra përkatëse e punësimit, regjistrohet nëpërmjet portalit e-Albania, duke plotësuar formularin përkatës, ku përfshihet edhe deklarimi për kontrollin e të dhënave.
 2. Pas regjistrimit në sistemin e shërbimeve të punësimit, ndërmjet punëdhënësit dhe AKPA-së lidhet një marrëveshje bashkëpunimi, në të cilën listohen të gjitha shërbimet që do të marrë punëdhënësi, si dhe të gjitha detyrimet e palëve. Punëdhënësit, të cilët interesohen vetëm për një shërbim specifik, i cili është detyrim ligjor, nuk do të jenë të detyruar për të nënshkruar marrëveshjen, por do të kenë mundësi të marrin shërbimin e kërkuar menjëherë.
 3. Struktura rajonale/vendore e AKPA-së u mundëson punëdhënësve të regjistruar këto shërbime:
 a) informim lidhur me:
 i. kërkesat për punësim të tregut të punës;
-ii. programet e punësimit, arsimit e formimit profesional dhe mënyrat e aplikimit;
+ii. programet e punësimit, arsimit e formimit profesional dhe mënyrat e kërkesës;
 iii. këshillimin për paraqitjen e vendit të lirë të punës;
 iv. këshillimin për ndërmjetësimin;
 v. legjislacionin e punës dhe të nxitjes së punësimit;
 b) regjistrim i punëdhënësit në sistemin informatik të shërbimeve të punësimit;
 c) publikim i vendeve të lira të punës, të ofruara nga punëdhënësit;
 ç) përditësim i të dhënave të tij në sistemin informatik të shërbimeve të punësimit;
-d) aplikim e përfshirje në programet e mbështetjes për ndërmjetësim e nxitje të punësimit sipas legjislacionit përkatës;
+d) kërkesë e përfshirje në programet e mbështetjes për ndërmjetësim e nxitje të punësimit sipas legjislacionit përkatës;
 dh) ndërmjetësim/rekrutim/ofrim kandidatësh potencialë dhe të përshtatshëm për vendet e lira të punës, të ofruara nga punëdhënësi;
 e) pajisje me dokumentacionin përkatës, në zbatim të legjislacionit në fuqi për të huajt, shtetasit e huaj, të punësuar pranë punëdhënësit;
 ë) informim/këshillim/mbështetje në proceset e marrëdhënieve të punës sipas legjislacionit përkatës;
