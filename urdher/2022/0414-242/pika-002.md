@@ -1,0 +1,1 @@
+2. Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësosr përditëson çdo vit alternativat e reja sipas listës së barnave të rimbursueshme në fuqi, bazuar në regjistrin e barnave të autorizuara për tregtim në Republikën e Shqipërisë, të përditësuar nga Agjencia Kombëtare e Barnave dhe Pajisjeve Mjekësore.
