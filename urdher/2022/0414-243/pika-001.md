@@ -1,0 +1,1 @@
+1. Mjekët dhe stomatologët të ruajnë dhe përdorin në klinikat e tyre barna në lloje e sasi të mjaftueshme vetëm për ndihmën urgjente ose për procedurat e nevojshme, që lidhen me ushtrimin e profesionit.

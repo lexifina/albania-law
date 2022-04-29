@@ -1,0 +1,1 @@
+3. Agjencia e Sigurimit të Cilësisë së Kujdesit Shëndetësor dhe Shoqëror të hartojë protokollet dhe udhëzimet, sipas parashikimeve të këtij urdhri, brenda datës 30 maj 2022, dhe të njoftojë ofruesit e shërbimeve për protokollet dhe udhëzimet.
