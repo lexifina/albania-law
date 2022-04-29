@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për zbatimin e parimeve të etikës, të klasifikimit të veprimtarive të jashtme dhe vlerën e dhuratave, që mund të pranohen gjatë veprimtarisë së nëpunësit të administratës publike, sipas tekstit që i bashkëlidhet këtij vendimi.
