@@ -1,0 +1,1 @@
+6. Procedurat e hartimit dhe të vlerësimit të testeve përcaktohen në rregulloren “Për procedurat e organizimit dhe të zhvillimit të vlerësimit të arritjeve të nxënësve të arsimit fillor”, miratuar me urdhrin nr. 78, datë 27.2.2020.
