@@ -1,1 +1,1 @@
-3. Shoqëritë “KESH” sh.a., “OST” sh.a. dhe “OSHEE Group” sh.a., të pezullojnë planet e investimeve, përveç investimeve të domosdoshme për ushtrimin e veprimtarisë. Këto shoqëri të koordinojnë ushtrimin e aktivitetit, në përputhje me udhëzimet e ministrit të Infrastrukturës dhe Energjisë, me qëllim garantimin e pandërprerë të energjisë elektrike.
+3. Shfuqizuar.
