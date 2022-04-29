@@ -4,7 +4,9 @@ Nr. 17, datë 15.1.2020
 
 PËR PROCEDURAT, KRITERET DHE RREGULLAT PËR ZBATIMIN E PROGRAMEVE TË NXITJES SË PUNËSIMIT NËPËRMJET PUNËSIMIT, FORMIMIT NË PUNË DHE PRAKTIKAVE PROFESIONALE
 
-(ndryshuar me VKM nr. 798, datë 12.10.2020 dhe nr. 194, datë 31.3.2021)
+(ndryshuar me VKM-të nr. 798, datë 12.10.2020 dhe nr. 194, datë 31.3.2021; nr. 266, datë 29.4.2022)
+
+(i përditësuar)
 
 Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 4, të nenit 11, të  ligjit nr. 15/2019, “Për nxitjen e punësimit”, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
 
@@ -24,15 +26,15 @@ c) praktikave profesionale.
 
 3. Ministria përgjegjëse për çështjet e punësimit përcakton çdo vit prioritetet dhe miraton planin e zbatimit të fondeve të nxitjes së punësimit, sipas   pikës 1 të këtij vendimi, pas propozimit nga drejtoria e përgjithshme e institucionit përgjegjës për punësimin dhe aftësitë.
 
-II. KRITERET E APLIKIMIT
+II. KRITERET E KËRKESËS
 
-1. Punëkërkuesit me të drejtë përfitimi janë të gjithë punëkërkuesit e papunë të regjistruar dhe aktivë, për jo më pak se 3 (tre) muaj në zyrën e punës, pasi të kenë marrë shërbimet e nevojshme të punësimit të përcaktuara në legjislacionin në fuqi nga specialisti përkatës i punësimit. Nevojat dhe profili i punëkërkuesit duhet të përshtaten me kërkesat për aftësi të vendit të lirë të punës të ofruar nga punëdhënësi.
+1. Punëkërkuesit me të drejtë përfitimi janë të gjithë punëkërkuesit e papunë të regjistruar dhe aktivë, për jo më pak se 1 (një) muaj në zyrën e punës, pasi të kenë marrë shërbimet e nevojshme të punësimit të përcaktuara në legjislacionin në fuqi nga specialisti përkatës i punësimit. Nevojat dhe profili i punëkërkuesit duhet të përshtaten me kërkesat për aftësi të vendit të lirë të punës të ofruar nga punëdhënësi.
 
 2. Punëkërkuesi, pjesëmarrës në programet, sipas pikës 1 të këtij vendimi, nuk mund të zëvendësohet.
 
 3. Një punëkërkues mund të marrë pjesë vetëm një herë në të njëjtin program brenda një periudhe pesëvjeçare.
 
-4. Punëdhënësit me të drejtë aplikimi duhet të plotësojnë kriteret e mëposhtme:
+4. Punëdhënësit me të drejtë kërkese duhet të plotësojnë kriteret e mëposhtme:
 
 a) të jenë persona fizikë apo juridikë të regjistruar, për jo më pak se 6 (gjashtë) muaj;
 
@@ -40,13 +42,13 @@ b) të mos jenë në proces falimentimi;
 
 c) të jenë subjekt i pagimit të taksave dhe të jenë të regjistruar si punëdhënës pranë autoriteteve tatimore;
 
-ç) të mos kenë shkelur legjislacionin për punësimin në dy vitet e fundit para aplikimit në program; 
+ç) të mos kenë shkelur legjislacionin për punësimin në dy vitet e fundit para kërkesës në program; 
 
 d) të kenë paguar rregullisht të gjitha sigurimet e detyrueshme shëndetësore dhe shoqërore; 
 
 dh) të ofrojnë punë me kohë të plotë, për një minimum prej 40 (dyzet) orësh në javë, me një pagesë mujore jo më pak se paga minimale, në përputhje me dispozitat e Kodit të Punës. Punësimi me kohë të pjesshme ose punët sezonale afatshkurtra nuk përfitojnë subvencionim;
 
-e) të jenë persona fizikë apo juridikë, të cilat nuk kanë detyrime ndaj organeve tatimore ose, në momentin e aplikimit në program, të vërtetojnë se: 
+e) të jenë persona fizikë apo juridikë, të cilat nuk kanë detyrime ndaj organeve tatimore ose, në momentin e kërkesës në program, të vërtetojnë se: 
 
 i. kanë lidhur marrëveshjet përkatëse për shlyerjen e këtyre detyrimeve dhe janë të rregullta në shlyerjen e tyre; 
 
@@ -56,9 +58,9 @@ iii. kanë shlyer detyrimet ose kanë vendosur garanci bankare për shumën e pl
 
 ë) vendi i punës i financuar nga ky program duhet të vijë si rezultat i shtimit të vendeve të lira të punës në aktivitetin e punëdhënësit;
 
-f) nuk duhet të ketë pakësuar numrin e të punësuarve, duke reduktuar fuqinë punëtore brenda 4 (katër) muajve të kaluar. 
+f) nuk duhet të ketë pakësuar numrin e të punësuarve, duke reduktuar fuqinë punëtore brenda 2 (dy) muajve të kaluar. 
 
-5. Punëdhënësit kanë të drejtë të aplikojnë në më shumë se një program për një numër punëkërkuesish jo më të madh se 20 (njëzet) % të fuqisë punëtore aktuale, por jo më shumë se 21 (njëzet e një) pjesëmarrës. Punëdhënësit me më  pak se 5 (pesë)  punonjës mund të aplikojnë për maksimumi dy pjesëmarrës. 
+5. Punëdhënësit kanë të drejtë të aplikojnë në një ose më shumë se një program për një numër punëkërkuesish jo më të madh se 20 (njëzet) % të fuqisë punëtore aktuale, por jo më shumë se 21 (njëzet e një) pjesëmarrës. Punëdhënësit me më  pak se 5 (pesë)  punonjës mund të aplikojnë për maksimumi dy pjesëmarrës. 
 
 III. PROGRAMET, PËRFITUESIT DHE MBËSHTETJA
 
@@ -128,9 +130,9 @@ iv. pagesën për mentorin në vlerën 2 000 (dy mijë) lekë për çdo përfitu
 
 3. Programi i praktikave profesionale përmban elementet e mëposhtme:
 
-a) programi i praktikave profesionale ka si qëllim të garantojë tranzicion të shpejtë në tregun e punës, në të njëjtën fushë ose në një fushë të ngjashme me atë, në të cilën ka studiuar i diplomuari, për një kohëzgjatje 6-mujore;
+a )  Programi i praktikave profesionale ka si qëllim të garantojë  tranzicion të shpejtë në tregun e punës, në të njëjtën fushë ose në një fushë të ngjashme me atë, në të cilën ka studiuar i diplomuari ose nxënësit e diplomuar në shkollat e mesme profesionale publike apo private, për një kohëzgjatje 6-mujore;
 
-b) përfitues të këtij programi janë të gjithë punëkërkuesit e papunë, të cilët janë të sapodiplomuar, deri në 24 (njëzet e katër) muajt e fundit pas diplomimit, të cilët janë regjistruar si punëkërkues të papunë; 
+b) përfitues të këtij programi janë të gjithë punëkërkuesit e papunë, të cilët janë të sapodiplomuar, deri në 36 (tridhjetë e gjashtë) muajt e fundit pas diplomimit, të cilët janë regjistruar si punëkërkues të papunë; 
 
 c) programi subvencionon kostot e mëposhtme:
 
@@ -152,15 +154,15 @@ Procedura e përgjithshme e zbatimit të këtyre programeve përfshin hapat, si 
 
 1. Institucioni përgjegjës për punësimin dhe aftësitë, nëpërmjet strukturave të tij, publikon informacionin e nevojshëm në Buletinin e Njoftimeve Publike dhe në platforma të tjera (faqe interneti, media sociale, shtyp etj.) lidhur me zbatimin e programeve dhe informon rregullisht punëdhënësit e punëkërkuesit e regjistruar.
 
-2. Punëdhënësit mund të aplikojnë për përfshirjen në program në rrugë elektronike ose në zyrat përkatëse të institucionit përgjegjës për punësimin dhe aftësitë, duke ngarkuar në faqen e internetit ose duke dorëzuar fizikisht dokumentacionin e mëposhtëm:
+2. Punëdhënësit paraqesin kërkesën për përfshirjen në program nëpërmjet portalit “e-Albania”, duke ngarkuar dokumentacionin e mëposhtëm:
 
-a) formularin e aplikimit të plotësuar, sipas modelit standard të miratuar dhe publikuar nga institucioni përgjegjës për punësimin dhe aftësitë; 
+a) formularin e kërkesës të plotësuar, sipas modelit standard të miratuar dhe publikuar nga institucioni përgjegjës për punësimin dhe aftësitë; 
 
-b) autorizimin e punëdhënësit, me të cilin autorizohet institucioni përgjegjës për punësimin dhe aftësitë për të kryer të gjitha verifikimet dhe kërkimet e nevojshme të dokumenteve dhe të të dhënave të aplikimit;
+b) autorizimin e punëdhënësit, me të cilin autorizohet institucioni përgjegjës për punësimin dhe aftësitë për të kryer të gjitha verifikimet dhe kërkimet e nevojshme të dokumenteve dhe të të dhënave të kërkesës;
 
 c) vetëdeklarim për mospasjen në ngarkim të punëdhënësit, të shkeljeve apo të sanksioneve që lidhen me legjislacionin e punës, përgjatë dy viteve të fundit.
 
-3. Pas marrjes së aplikimit nga punëdhënësi, struktura vendore e punësimit kryen verifikimet e përmbushjes së kritereve të punëdhënësve, nëpërmjet dokumenteve të mëposhtme:
+3. Pas marrjes së kërkesës nga punëdhënësi, struktura vendore e punësimit kryen verifikimet e përmbushjes së kritereve të punëdhënësve, nëpërmjet dokumenteve të mëposhtme:
 
 a) ekstraktit historik të punëdhënësit, të lëshuar nga Qendra Kombëtare e Biznesit;
 
@@ -168,13 +170,13 @@ b) vërtetimit për pagimin e detyrimeve tatimore;
 
 c) vërtetimit për derdhjen e kontributeve shoqërore e shëndetësore për tatimpaguesin për 12 (dymbëdhjetë) muajt e fundit.
 
-4. Struktura vendore e punësimit verifikon, brenda 7 (shtatë) ditëve pune, plotësimin e kushteve formale paraprake të aplikimit dhe përputhshmërinë e tij me rregullat e zbatueshme të 3 (tri) programeve të përcaktuara në pikën 1 të këtij vendimi.
+4. Struktura vendore e punësimit verifikon, brenda 7 (shtatë) ditëve pune, plotësimin e kushteve formale paraprake të kërkesës dhe përputhshmërinë e tij me rregullat e zbatueshme të 3 (tri) programeve të përcaktuara në pikën 1 të këtij vendimi.
 
-5. Në rast të mosplotësimit të kushteve paraprake, struktura vendore e punësimit i kërkon aplikuesit plotësimin e dokumentacionit. 
+5. Në rast të mosplotësimit të kushteve paraprake, struktura vendore e punësimit i kërkon kërkuesit plotësimin e dokumentacionit. 
 
-6. Në rast të plotësimit të kushteve  paraprake, struktura vendore i përcjell për miratim aplikimin strukturës rajonale të punësimit, e cila, brenda 5 (pesë) ditëve pune, vendos miratimin ose mosmiratimin e projektit, sipas rregullave të përcaktuara në manualin e zbatimit të programeve të nxitjes së punësimit.
+6. Në rast të plotësimit të kushteve  paraprake, struktura vendore i përcjell për miratim kërkesën strukturës rajonale të punësimit, e cila, brenda 5 (pesë) ditëve pune, vendos miratimin ose mosmiratimin e projektit, sipas rregullave të përcaktuara në manualin e zbatimit të programeve të nxitjes së punësimit.
 
-7. Struktura vendore e punësimit i komunikon punëdhënësit aplikues përgjigjen përfundimtare për pranimin apo refuzimin e aplikimit brenda 2 (dy) ditëve pune.
+7. Struktura vendore e punësimit i komunikon punëdhënësit kërkues përgjigjen përfundimtare për pranimin apo refuzimin e kërkesës brenda 2 (dy) ditëve pune.
 
 8. Punëdhënësi dhe punëkërkuesi, në cilësinë e punëmarrësit, lidhin një kontratë pune, ku përcaktohen të drejtat dhe detyrimet e secilës palë, në përputhje me programet e përcaktuara në pikën 1 të këtij vendimi. Një kopje e kontratës së punësimit dorëzohet në strukturën vendore të institucionit përgjegjës për punësimin dhe aftësitë, i cili do të monitorojë zbatimin e saj deri në përfundim të projektit. 
 
