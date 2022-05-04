@@ -1,0 +1,1 @@
+2. Përdorimin e fondit të rindërtimit, për vitin 2022, në masën 326 781 285 (treqind e njëzet e gjashtë milionë e shtatëqind e tetëdhjetë e një mijë e dyqind e tetëdhjetë e pesë) lekë pa TVSH, i cili do të përballohet nga hapësira buxhetore e siguruar pas ngurtësimit në të njëjtën masë të fondeve të projekteve të rindërtimit me ecuri të ngadaltë.
