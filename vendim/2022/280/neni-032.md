@@ -1,0 +1,21 @@
+# Neni 32
+Ndërtesat e institucioneve
+1. Të burgosurve me aftësi të kufizuara u garantohen të drejtat dhe liritë themelore të njeriut, trajtimi pa diskriminim i çdo forme për shkak të aftësisë së kufizuar, duke plotësuar nevojat specifike për aftësimin dhe riaftësimin e tyre, duke mbajtur parasysh standardet e legjislacionit në fuqi për përfshirjen dhe aksesueshmërinë e personave me aftësi të kufizuara.
+2. Në raport me kapacitetin e institucionit të ekzekutimit të vendimeve penale, një numër i caktuar mjedisesh fjetjeje përshtaten për të burgosurit me aftësi të kufizuar, si dhe krijohen lehtësi për aksesimin dhe përshtatshmërinë e tyre gjatë ekzekutimit të vendimeve penale.
+3. Për të burgosurit me probleme të shëndetit mendor, për të cilët gjykata ka vendosur zbatimin e masave mjekësore të detyrueshme, ndërtesat e institucioneve të ekzekutimit të vendimeve penale janë të posaçme, me qëllim akomodimin e kësaj kategorie të burgosurish, në përputhje me legjislacionin në fuqi për shëndetin mendor.
+4. Gjatë projektimit dhe ndërtimit të institucioneve të ekzekutimit të vendimeve penale apo rikonstruktimit të tyre, sipas legjislacionit në fuqi, aplikohen zgjidhje teknike për eliminimin e barrierave penguese për personat me aftësi të kufizuara, me qëllim mosdiskriminimin dhe sigurimin e lëvizjes pa pengesa dhe qëndrim të barabartë në këto ambiente me personat e tjerë.
+5. Ndërtesat e institucioneve të ekzekutimit të vendimeve penale duhet të plotësojnë elemente teknike për të mundësuar aksesueshmërinë e personave me aftësi të kufizuar në të gjitha ambientet e ndërtesës dhe për të përdorur të gjitha shërbimet që ofron institucioni, duke mbajtur në konsideratë përdorimin e krevateve, vendeve ulëse, shkallëve, shërbimet e higjienës, aksesin në vendin e ngrënies, aksesin në ambientet e takimeve, në ambientet e ajrimit si dhe çdo ambient tjetër pune, argëtimi apo mësimi.
+6. Ndërtesat e institucioneve të ekzekutimit të vendimeve penale duhet të plotësojnë elementet e mëposhtme:
+a) dyert e hyrjes së çdo ndërtese janë lehtësisht të manovrueshme, ku lloji dhe hapësirat e tyre lejojnë kalimin me lehtësi të personave me aftësi të kufizuara;
+b) pragu i derës, përpara dhe pas saj, vendoset në të njëjtin nivel me sipërfaqet e ambienteve. Ndryshimi i nivelit lidhur me madhësinë e derës së hyrjes të një ndërtese ose në ndërhyrjet në rikonstruksion nuk duhet të pengojë kalimin e një personi me aftësi të kufizuara;
+c) përmasat e hapësirës para dhe pas derës lejojnë manovrat që kryhen me karrige me rrota. Hapësira duhet të mundësojë hapjen e derës nga të dyja anët e përdorimit;
+ç) në ambientet e përbashkëta dyshemetë janë të sheshta dhe jorrëshqitëse;
+d) ndryshimet e nivelit kapërcehen nëpërmjet platformave të pjerrëta, të përshtatura në mënyrë të tillë që të mos krijojnë pengesa për kalimin e personave me aftësi të kufizuara;
+dh) pajisjet e palëvizshme në njësitë e ambientit duhet të vendosen në mënyrë të tillë që të lejojnë kalimin e personave me aftësi të kufizuara si dhe përdorimin me lehtësi të karrocave me rrota ose mjeteve ndihmëse. Duhet t’u jepet përparësi përdorimit të pajisjeve me material joprerës dhe pa kënde të mprehta;
+e) në shkallët e ndërtesës montohen edhe kangjella mbajtëse për të lehtësuar përdorimin e shkallëve nga personat që kanë vështirësi në lëvizje;
+ë) shërbimet higjienike duhet të garantojnë, nëpërmjet hapësirave të llogaritura, manovrimet e nevojshme të një karrigeje me rrota, për përdorimin e pajisjeve sanitare, në veçanti:
+i. hapësira e nevojshme për afrimin anësor të karriges me rrota te WC-ja, bideja, dushi;
+ii. hapësira e nevojshme për afrimin ballor të karriges me rrota te lavamani;
+iii. vendosja e një mbajtëseje të përshtatshme dhe e një zileje emergjence e vendosur afër WC-së dhe dushit;
+f) gjerësia e rampave të pjerrëta dhe e sheshpushimeve duhet të lejojë kalimin në të njëjtën kohë të dy personave ose kalimin horizontal të një barele, me një pjerrësi maksimumi 15% përgjatë boshtit gjatësor;
+g) gjatësia e rampës së pjerrët duhet të jetë e kufizuar, në të kundërt ajo duhet të ndërpritet me një sheshpushim. Rampat e shkallëve duhet të jenë lehtësisht të perceptueshme edhe nga personat me kufizime në shikim dhe dëgjim.
