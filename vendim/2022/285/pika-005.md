@@ -1,0 +1,13 @@
+5. Stacioni sezonal i ankorimit/bregëzimit të mjeteve lundruese për qëllime turistike dhe argëtimi plotëson kriteret e mëposhtme:
+a) të përballojë në kushte sigurie, përveç peshës së tij dhe ngarkesa të tjera të përhershme, veprimet e transmetuara nga lëvizja e valëve, nga rrymat detare, nga tërheqjet gjatë ankorimit, nga erërat, nga çdo lëkundje eventuale sizmike, nga mbingarkesa vertikale të ndryshueshme dhe veprime horizontale, kushtet lokale të motit, ndryshimet në nivelin e detit, karakteristikat e mjeteve lundruese dhe mënyra e ankorimit;
+b) të sigurojë dhe të marrë të gjitha masat për mbrojtjen maksimale të mjedisit detar;
+c) të ketë lartësinë minimale mbi nivelin e detit 0.5 m;
+ç) të ketë shërbimet higjienike të vendosura në raport 1 njësi higjienike (përbëhet nga të paktën tualete të dedikuara për femra dhe meshkuj, lavamanë dhe dush) për 25 mjete lundruese, si dhe të respektojë kriteret e parashikuara në legjislacionin në fuqi për personat me aftësi të kufizuara;
+d) të sigurojë një sistem për grumbullimin e ujërave të zeza që do të gjenerohen gjatë sezonit turistik dhe të bëhet trajtimi i tyre me impiante depurimi sipas legjislacionit në fuqi;
+dh) të realizojë furnizimin me energji elektrike nëpërmjet një sistemi me materiale rezistente ndaj korrozionit dhe në përputhje me rregulloret aktuale të sigurisë teknike;
+e) të realizojë ndriçimin e zonës së ankorimit të mjeteve lundruese me minimumi 5-7 lux, ndërkohë ndriçimi i zonës së parkimit të mjeteve dhe karelave të realizohet minimumi me 7-10 lux;
+ë) të sigurojë furnizimin me ujë në kushtet e mungesës së rrjetit të ujit të pijshëm, nëpërmjet vendosjes së depozitave për ujë të pijshëm dhe ujë industrial në raport me kapacitetin e stacionit (200 m3 ujë industrial për 200 mjete lundruese dhe 40 m3 ujë të pijshëm për 200 mjete lundruese);
+f) të vendosë mjetet e sigurisë në det (kamerdare dhe litari i nevojshëm) në çdo 25 metra;
+g) të instalojë sinjalistikën detare (fenerë, bova sinjalizuese, litarë lundrues kufizues, fare etj.) në përputhje me dispozitat e Kodit Detar dhe aktet ligjore në zbatim të tij dhe me standardet specifike kombëtare dhe ndërkombëtare;
+gj) të realizojë trajtimin e mbetjeve, nëpërmjet vendosjes së kontejnerëve, me një kapacitet 1.5 m3 për çdo 50 mjete lundruese. Tërheqja e mbetjeve të ngurta dhe vajore nga mjetet lundruese dhe nga kontejnerët të bëhet nga shoqëri të licencuara në zbatim të legjislacionit në fuqi;
+h) Të sigurojë ndihmën e parë nëpërmjet njoftimit të mjekut të dedikuar (kontraktuar) dhe përdorimit të kasetës së emergjencës, pajisur me mjetet dhe produktet më të rëndësishme të ndihmës së parë.

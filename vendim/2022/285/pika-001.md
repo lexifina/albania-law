@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve të vendosjes të stacioneve sezonale të ankorimit/bregëzimit të mjeteve lundruese për qëllime turistike dhe argëtimi si dhe mënyrës së funksionimit për vendosjen e tyre, në vijën bregdetare të Republikës së Shqipërisë, sipas parashikimeve të këtij vendimi.

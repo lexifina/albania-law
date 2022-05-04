@@ -1,0 +1,1 @@
+8. Tarifa minimale e dhënies me qira të sipërfaqes së truallit në funksion të stacionit sezonal të ankorimit/bregëzimit të mjeteve lundruese për qëllime turistike dhe argëtimi është, në përputhje me legjislacionin në fuqi për dhënien me qira të pasurisë së paluajtshme shtetërore.

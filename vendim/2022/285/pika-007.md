@@ -1,0 +1,1 @@
+7. Dhënia me qira realizohet nëpërmjet kontratës së qirasë të lidhur ndërmjet Agjencisë Kombëtare të Bregdetit dhe subjektit fitues me afat deri në 10 (dhjetë) vjet sipas kontratës tip, të miratuar me urdhër të ministrit përgjegjës për turizmin. Subjektit fitues i ndalohet ta japë atë apo pjesë të saj te të tretë me nënkontratë.

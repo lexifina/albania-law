@@ -1,0 +1,1 @@
+19. Drejtoria e Përgjithshme Detare monitoron zbatimin e kritereve teknike kundër ndotjeve në zbatim të konventës MARPOL dhe, në rast se konstaton shkelje, merr masë administrative në zbatim të Kodit Detar dhe akteve ligjore në zbatim të tij përkundrejt subjektit dhe i propozon njësisë përgjegjëse (AKB) plotësimin e kushteve.
