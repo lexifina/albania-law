@@ -1,0 +1,1 @@
+8. Me përjashtim të pikës 7, të këtij vendimi, hartimi dhe miratimi i planeve të menaxhimit të peshkimit në zonat e mbrojtura detare e bregdetare bëhet nga ministria përgjegjëse për peshkimin në bashkëpunim me ministrinë përgjegjëse për zonat e mbrojtura, në përputhje me kuadrin ligjor në fuqi.

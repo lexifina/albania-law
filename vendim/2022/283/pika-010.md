@@ -1,0 +1,1 @@
+10. Planet shumëvjeçare miratohen si çështje prioritare në bazë të mendimeve shkencore, teknike dhe ekonomike, që përmbajnë masa për ruajtjen dhe që synojnë rivendosjen e ruajtjen e rezervave të peshkut mbi nivelet e afta për të prodhuar rendimentin maksimal të qëndrueshëm, sipas shkronjës “c”, të pikës 1, të këtij vendimi.
