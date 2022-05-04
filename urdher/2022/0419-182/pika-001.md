@@ -1,0 +1,1 @@
+1. Gjatë aktivitetit të peshkimit për anijet e peshkimit që përdorin trata pelagjike dhe koshilok, lejohen të hidhen në det si hedhurina jo më shumë se 5% e zënieve totale vjetore, sipas përcaktimeve të shtojcës I, bashkëlidhur dhe pjesë përbërëse e këtij urdhri.
