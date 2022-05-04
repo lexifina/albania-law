@@ -1,0 +1,1 @@
+1. Ministrisë së Kulturës, në buxhetin e miratuar për vitin 2022, në zërin “Shpenzime korrente”, të programit buxhetor “Arti dhe kultura”, i shtohet fondi prej 700 000 000 (shtatëqind milionë) lekësh, për Bashkinë Tiranë, për financimin e projektit “Tirana, kryeqyteti evropian i rinisë 2022”.
