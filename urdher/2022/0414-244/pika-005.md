@@ -1,0 +1,1 @@
+5. Të gjitha pajisjet mjekësore që do të tregtohen nëpërmjet internetit duhet të jenë të pajisura me markimin CE ose certifikimin FDA, si dhe duhet të jenë të regjistruara sipas legjislacionit në fuqi.

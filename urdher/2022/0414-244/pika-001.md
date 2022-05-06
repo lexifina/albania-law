@@ -1,0 +1,1 @@
+1. Tregtimi me shumicë i pajisjeve mjekësore nëpërmjet internetit kryhet nga tregtuesit me shumicë, të cilët janë persona juridikë të licencuar, sipas legjislacionit në fuqi për licencat, autorizimet dhe lejet, dhe në zbatim të kritereve të vendosura në këtë urdhër.

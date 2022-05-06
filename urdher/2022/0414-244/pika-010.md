@@ -1,0 +1,1 @@
+10. Tregtuesi me shumicë apo me pakicë i pajisjeve mjekësore duhet të ruajë në një regjistër të veçantë të gjitha shitjet e pajisjeve mjekësore të kryera nëpërmjet internetit. Regjistri i shitjeve të pajisjeve mjekësore të kryera nëpërmjet internetit është subjekt kontrolli nga institucionet përgjegjëse për inspektim, sipas legjislacionit në fuqi.

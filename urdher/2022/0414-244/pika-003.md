@@ -1,0 +1,1 @@
+3. Lejohet tregtimi i pajisjeve mjekësore nëpërmjet internetit për përdoruesit joprofesionistë vetëm për klasën I dhe IIa dhe pajisjet mjekësore të destinuara për mbrojtje kundër përhapjes së sëmundjeve ngjitëse, nëse ato mund të përdoren në mënyrë të sigurt.

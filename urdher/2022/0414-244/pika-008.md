@@ -1,0 +1,1 @@
+8. Pajisjet mjekësore që do të tregtohen nëpërmjet internetit duhet të jenë të etiketuara dhe pajisura me fletudhëzuesin e përdorimit në gjuhën shqipe. Ky informacion duhet të jetë gjithmonë i disponueshëm dhe lehtësisht i aksesueshëm në platformën elektronike ku kryhen veprimet e marketimit dhe të shitblerjes së pajisjes mjekësore.
