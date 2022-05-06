@@ -1,0 +1,1 @@
+3. Lejimin e lëvizjes së shpendëve të gjallë, vetëm për në thertore, në bashkitë Lushnjë, Divjakë, Shkodër, Shijak dhe Durrës, të shoqëruar me dokumentacionin e parashikuar, sipas legjislacionit në fuqi.
