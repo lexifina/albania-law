@@ -1,0 +1,1 @@
+7. Financimi i projekteve të infrastrukturës shkollore dhe sportive do të kryhet në dy vite buxhetore. Financimi për projektet fituese në vitin e parë është jo më pak se 20% e vlerës së plotë të projektit.

@@ -1,0 +1,1 @@
+11. NJVV-ja dhe/ose MAS-i, merr konfirmim paraprak nga zyrat arsimore vendore parauniversitare lidhur me nevojën për ndërtimin e objekteve të reja, rehabilitimin e atyre ekzistuese apo mundësive për përqendrimin ose racionalizimin e institucioneve arsimore. Në rast të mosparaqitjes apo moskonfirmimit nga zyra arsimore përkatëse, aplikimi nuk i nënshtrohet fazës së vlerësimit.

@@ -1,0 +1,1 @@
+3. Afatet, formati, kriteret dhe dokumentacioni i aplikimit, si dhe vlera dysheme e bashkëfinancimit nga njësitë e vetëqeverisjes vendore (NJVV) përcaktohen në shtojcat I, II, III dhe IV bashkëlidhur këtij udhëzimi, si dhe në thirrjen e shpallur për aplikim. Shpallja e thirrjes për aplikim publikohet në website-n e MAS-it, si dhe në Agjencinë e Prokurimit Publik.

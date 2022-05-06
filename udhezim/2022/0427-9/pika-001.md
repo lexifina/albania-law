@@ -1,0 +1,1 @@
+1. Ministria e Arsimit dhe Sportit (MAS) shpall thirrjen për aplikim nga njësitë e vetëqeverisjes vendore (NJVV), për financimin/bashkëfinancimin e projekteve të reja të infrastrukturës shkollore dhe sportive, pas miratimit të buxhetit vjetor të detajuar.

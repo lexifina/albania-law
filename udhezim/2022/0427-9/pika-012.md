@@ -1,0 +1,1 @@
+12. Projektet shpallen fituese me urdhër të ministrit të Arsimit dhe Sportit dhe njoftimi i fituesve publikohet në website-in e MAS-it. NJVV-të njoftohen zyrtarisht për financimin e përfituar, në përputhje me përcaktimet e ligjit nr. 10296, datë 8.7.2010, “Për menaxhimin financiar dhe kontrollin”, të ndryshuar.

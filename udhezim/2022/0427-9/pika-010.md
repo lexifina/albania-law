@@ -1,0 +1,1 @@
+10. NJVV-të, në aplikimin e projekteve për ndërtime të reja të institucioneve arsimore apo zgjerimin e atyre ekzistuese, duhet të paraqesin projekte sipas përcaktimeve të vendimit nr. 319, datë 12.4.2017, të Këshillit të Ministrave, “Për miratimin e standardeve të projektimit të shkollave”, të ndryshuar.

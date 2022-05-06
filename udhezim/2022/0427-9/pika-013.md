@@ -1,0 +1,1 @@
+13. Për vlerësimin e projekteve ngarkohet Komisioni për vlerësimin e projekteve. Sekretari i Përgjithshëm dhe Drejtoria e Buxhetit dhe Menaxhimit Financiar në MAS ngarkohen edhe për administrimin e aplikimeve, njoftimet e NJVV-ve dhe detajimin e fondeve buxhetore, në përputhje me aktet ligjore dhe nënligjore në fuqi për menaxhimin financiar dhe kontrollin.

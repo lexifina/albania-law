@@ -1,0 +1,1 @@
+5. Procedura e vlerësimit të projekteve të paraqitura nga NJVV-të kryhet nga Komisioni i ngritur nga ministri i Arsimit dhe Sportit, sipas kritereve të dhëna në shtojcën IV, bashkëlidhur këtij udhëzimi dhe metodologjisë së hartuar nga Komisioni, e cila miratohet me urdhër të ministrit të Arsimit dhe Sportit.
