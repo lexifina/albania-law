@@ -1,1 +1,0 @@
-1. Duke filluar nga viti shkollor 2011-2012 të zhvillohen procedurat e organizimit dhe zhvillimit të praktikave profesionale për profesionin e rregulluar të mësuesit në përputhje me rregulloren e “Organizimit dhe zhvillimit të praktikave profesionale për profesionin e rregulluar të mësuesit”.
