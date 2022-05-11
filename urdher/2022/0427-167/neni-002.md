@@ -1,0 +1,4 @@
+# Neni 2
+Publikimi i thirrjes për paraqitjen e shprehjeve të interesit
+1. Pas miratimit të ministrit të Drejtësisë të hapjes së thirrjes për paraqitjen e shprehjeve të interesit për përkthyes zyrtar dhe për interpret të gjuhës së shenjave, thirrja publikohet në Buletinin e Njoftimeve Zyrtare dhe në faqen zyrtare të internetit të Ministrisë së Drejtësisë, 90 (nëntëdhjetë) ditë përpara datës së provimit të kualifikimit, të përcaktuar në urdhrin e ministrit të Drejtësisë.
+2. Kur provimi i kualifikimit zhvillohet përpara afatit 2-vjeçar, sipas pikës 2, të nenit 16, të ligjit nr. 82/2021, “Për përkthimin zyrtar dhe profesionin e përkthyesit zyrtar” (më tej ligji), thirrja për paraqitjen e shprehjeve të interesit publikohet në Buletinin e Njoftimeve Zyrtare dhe në faqen zyrtare të internetit të Ministrisë së Drejtësisë, 60 (gjashtëdhjetë) ditë përpara datës së provimit të kualifikimit, të përcaktuar në urdhrin e ministrit të Drejtësisë.
