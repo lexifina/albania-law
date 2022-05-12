@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit/partneritet publik privat, për projektimin, ndërtimin dhe mirëmbajtjen e “Portit të integruar” në Triport Vlorë, ndërmjet Ministrisë së Infrastrukturës dhe Energjisë dhe bashkimit të operatorëve ekonomikë “Agbes Construcion” sh.p.k., “Besta” sh.p.k., “Premium Construction & Maintenance” sh.p.k., “ITE Grup” sh.p.k. dhe “ArkonStudio” sh.p.k.
