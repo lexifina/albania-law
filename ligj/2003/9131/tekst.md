@@ -4,6 +4,8 @@ Nr.9131, datë 8.9.2003
 
 PËR RREGULLAT E ETIKËS NË ADMINISTRATËN PUBLIKE
 
+(korrigjuar me ndreqje gabimi botuar në Fletoren Zyrtare nr. 90, 2003)
+
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 K U V E N D I 
@@ -28,7 +30,7 @@ Fusha e veprimit
 
 1. Dispozitat e këtij ligji janë të detyrueshme për të gjithë nëpunësit e administratës publike për sa kohë nuk parashikohet ndryshe në dispozita të tjera ligjore.
 
-2. Dispozitat e këtij ligji përbëjnë detyrim për të zgjedhurit, anëtarët e Këshillit të Ministrave dhe gjyqtarët.
+2. Dispozitat e këtij ligji nuk përbëjnë detyrim për të zgjedhurit, anëtarët e Këshillit të Ministrave dhe gjyqtarët.
 
 3. Dispozitat e këtij ligji përbëjnë detyrim edhe për personat e punësuar nga organizatat private që kryejnë shërbime publike.
 
