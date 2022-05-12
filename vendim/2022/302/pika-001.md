@@ -1,0 +1,1 @@
+1. Qëllimi i riorganizimit të sektorit të furnizimit me ujë dhe të largimit, trajtimit dhe përpunimit të ujërave të ndotura është të përmirësojë sigurimin e furnizimit me ujë dhe të shërbimeve të kanalizimeve në të gjithë territorin e Republikës së Shqipërisë, duke plotësuar nevojat e një ekonomie në zhvillim, si dhe duke mbrojtur mjedisin, shëndetin e sigurinë e qytetarëve.
