@@ -1,0 +1,1 @@
+3. Ministria e Turizmit dhe Mjedisit dhe Agjencia Kombëtare e Pyjeve (AKP), në bashkëpunim me Ministrinë e Bujqësisë dhe Zhvillimit Rural dhe njësitë e vetëqeverisjes vendore/bashkitë, të monitorojnë respektimin e kërkesave teknike trajtuese, të vendosura në zbatim të këtij procesi.

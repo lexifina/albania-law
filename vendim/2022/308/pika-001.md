@@ -1,0 +1,1 @@
+1. Caktimin e Ministrisë së Bujqësisë dhe Zhvillimit Rural si organ përgjegjës për realizimin e procedurës së deratizimit të bimës së gështenjës, me qëllim mbrojtjen e saj nga paraziti grerëza galeformuese (Dryocosmus Kuriphilus Hymenoptera: Cynipidae).

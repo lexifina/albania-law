@@ -1,0 +1,1 @@
+2. Ministria e Bujqësisë dhe Zhvillimit Rural ngarkohet për kryerjen e prokurimit dhe lidhjen e kontratës për kryerjen e shërbimit, sipas pikës 1, të këtij vendimi, si dhe monitorimin e zbatimit të kontratës.
