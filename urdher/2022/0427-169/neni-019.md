@@ -1,0 +1,5 @@
+# Neni 19
+Mbledhja e Komisionit
+1. Komisioni mblidhet dhe zhvillon seancën dëgjimore jo më vonë se 10 ditë nga paraqitja e raportit të hetimit së bashku me dosjen hetimore nga ministri i Drejtësisë për procedim disiplinor.
+2. Kryetari cakton datën e mbledhjes jo më vonë se 3 ditë nga marrja e raportit të hetimit dhe njofton çdo ndryshim për datën e mbledhjes.
+3. Kur nuk plotësohet kuorumi i nevojshëm për mbledhjen, kryetari vendos thirrjen e mbledhjes në një ditë tjetër të afërt. Në rast se subjekti i procedimit disiplinor ose përfaqësuesi ligjor i tij nuk është i pranishëm, vlerëson shkaqet e mosparaqitjes në seancë. Në rast se mosparaqitja ka ndodhur për shkaqe që nuk vlerësohen të arsyeshme, vendos vijimin e seancës pa praninë e subjektit ose përfaqësuesit të tij ligjor. Në rastet kur vlerësohet se subjekti i procedimit ka paraqitur shkaqe të arsyeshme apo shkaqe të cilat vlerësohen si të tilla, kryetari shtyn mbledhjen duke kryer një njoftim të dytë për një datë tjetër sa më të afërt. Nëse edhe në këtë datë subjekti i njoftuar rregullisht dhe/ose përfaqësuesi i tij nuk paraqiten para komisionit, vendoset vazhdimi i seancës në mungesë.
