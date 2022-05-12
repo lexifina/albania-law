@@ -1,0 +1,1 @@
+4. Kërkesa e arsyetuar përmban shkakun e pezullimit, sipas shkaqeve të përcaktuara në nenin 20, pika 1, të ligjit, kohëzgjatjen e periudhës së pezullimit, si dhe shoqërohet nga dokumentacioni përkatës vërtetues i shkakut për të cilat kërkohet pezullimi i ushtrimit të profesionit, sipas pikës 6 të këtij udhëzimi.

@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim përcaktimin e rregullave të hollësishme për dokumentacionin dhe procedurën e shqyrtimit të kërkesës për pezullimin e përkohshëm të ushtrimit të profesionit të përkthyesit zyrtar dhe interpretit të gjuhës së shenjave.

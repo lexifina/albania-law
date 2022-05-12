@@ -1,0 +1,1 @@
+2. Kur përkthyesi zyrtar ose interpreti i gjuhës së shenjave çmon se përmbushet një nga kushtet e parashikuara në nenin 20, pika 1, të ligjit nr. 82/2021, “Për përkthimin zyrtar dhe profesionin e përkthyesit zyrtar”, i paraqet kërkesë të arsyetuar ministrit të Drejtësisë për pezullimin e përkohshëm të ushtrimit të profesionit.

@@ -1,0 +1,1 @@
+7. Brenda 10 (dhjetë) ditëve nga administrimi i kërkesës, nga struktura përgjegjëse në Ministrinë e Drejtësisë, ministri i Drejtësisë vendos mbi miratimin ose refuzimin e argumentuar të kërkesës për pezullimin e përkohshëm të ushtrimit të profesionit të përkthyesit zyrtar/interpretit të gjuhës së shenjave.

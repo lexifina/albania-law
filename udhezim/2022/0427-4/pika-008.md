@@ -1,0 +1,1 @@
+8. Ngarkohet Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë në Ministrinë e Drejtësisë, përkthyesit zyrtarë dhe interpretët e gjuhës së shenjave për ndjekjen dhe zbatimin e këtij udhëzimi.
