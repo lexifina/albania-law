@@ -1,1 +1,0 @@
-6. Titullari i institucionit ngre komisionin e vlerësimit, i cili në përbërje të tij ka specialistë të fushës përkatëse të cilët bëjnë vlerësimin e ofertës më të mirë të paraqitur duke u bazuar te cilësia e specifikuar prej artistit.

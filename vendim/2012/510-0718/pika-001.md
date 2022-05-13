@@ -1,1 +1,0 @@
-1. Ky vendim ka për qëllim përcaktimin e rregullave dhe të procedurës për shpalljen e konkurseve kombëtare dhe ndërkombëtare për realizimin e veprave publike të artit pamor (monumente, shtatore, skulptura, buste, mozaikë etj.), që do të ndiqen nga organet e qeverisjes qendrore, si dhe organet e qeverisjes vendore në Republikën e Shqipërisë.

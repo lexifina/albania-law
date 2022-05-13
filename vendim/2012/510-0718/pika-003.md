@@ -1,1 +1,0 @@
-3. Titullari i institucionit urdhëron me shkrim shpalljen e konkurseve kombëtare dhe ndërkombëtare për realizimin e veprave publike të artit pamor, duke përcaktuar, për çdo rast, objektin e konkursit, si dhe detyrën e projektimit.
