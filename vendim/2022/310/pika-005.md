@@ -1,0 +1,1 @@
+5. Për programet e studimit të formimit të vazhduar, elementet e kodit, që përcaktojnë identifikimin e llojit të programit të studimit, përbëhen nga lloji i programit të studimit “SFV” (studim i formimit të vazhduar). Elementet e tjera të kodifikimit për këto programe studimi janë sipas përcaktimeve të shkronjave “b” dhe “c”, të pikës 1, të këtij vendimi.

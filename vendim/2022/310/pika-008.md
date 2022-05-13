@@ -1,0 +1,1 @@
+8. Për programet e reja të studimit, kodi i programit të studimit përfshihet në aplikimin e institucionit të arsimit të lartë për hapjen e programit të studimit dhe vlerësohet nga ministria përgjegjëse për arsimin në funksion të procedurave për hapjen e programit të studimit.

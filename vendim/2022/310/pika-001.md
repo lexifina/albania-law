@@ -1,0 +1,4 @@
+1. Grupimin e programeve të studimit, të ofruara nga institucionet e arsimit të lartë, sipas elementeve të mëposhtme:
+a) Identifikimi i llojit të programit të studimit. Ky element përmban 4 (katër) karaktere, ku përcaktohet niveli i tij referuar Kornizës Shqiptare të Kualifikimeve, kohëzgjatja e programit të studimit dhe lloji i programit;
+b) Fusha e detajuar, në të cilën bën pjesë programi i studimit. Ky element përbëhet nga 4 (katër) shifra, sipas shtojcës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, referuar Klasifikimit Standard Ndërkombëtar të Arsimit 2011 (KSNA 2011), Fushat e Arsimit dhe Trajnimit 2013 ( KSNA-F 2013);
+c) Një shkronjë, e cila identifikon gjuhën në të cilën zhvillohet programi i studimit, sipas shtojcës nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

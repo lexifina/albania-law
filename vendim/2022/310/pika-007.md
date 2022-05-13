@@ -1,0 +1,1 @@
+7. Për programet ekzistuese të studimit, institucionet e arsimit të lartë dërgojnë zyrtarisht në ministrinë përgjegjëse për arsimin, propozimin/et e tyre të argumentuar/a lidhur me kodet, që duhet të përmbajnë të gjitha programet e studimit që ato ofrojnë, në përputhje me përcaktimet e këtij vendimi.

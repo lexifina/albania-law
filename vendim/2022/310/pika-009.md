@@ -1,0 +1,1 @@
+9. Kodifikimi i programeve të studimit kryhet nga ministria përgjegjëse për arsimin, në bashkëpunim me institucionet e arsimit të lartë, të cilat ofrojnë programet që do të kodifikohen, bazuar në procedurat e miratuara me udhëzim të ministrit përgjegjës për arsimin.
