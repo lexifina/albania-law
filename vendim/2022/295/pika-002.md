@@ -1,0 +1,1 @@
+2. Numri i punonjësve i Ministrisë së Arsimit dhe Sportit, për vitin 2022, shtohet me 15 (pesëmbëdhjetë) punonjës, duke e çuar numrin e përgjithshëm të ministrisë në 31 005 (tridhjetë e një mijë e pesë) punonjës.

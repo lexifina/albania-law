@@ -1,0 +1,1 @@
+1. Numri i punonjësve i Ministrisë për Evropën dhe Punët e Jashtme, për vitin 2022, reduktohet me 15 (pesëmbëdhjetë) punonjës, duke e çuar numrin e përgjithshëm të ministrisë në 584 (pesëqind e tetëdhjetë e katër) punonjës.
