@@ -1,0 +1,6 @@
+4. Struktura përgjegjëse për ofrimin e shërbimit start up one-stop-shop pranë ministrit përgjegjës për sipërmarrjen bashkëpunon me institucionet publike të përmendura në pikën 3, të këtij vendimi. Për ofrimin e shërbimit start up one-stop-shop ndiqet procedura, si më poshtë vijon:
+a) struktura përgjegjëse për ofrimin e shërbimit start up one-stop-shop u përgjigjet nevojave të start up-eve për shërbime dhe informacion bazuar në parimin “pa letër dhe tarifa zero”, për shërbimet e përcaktuara në pikën 7, të këtij vendimi;
+b) struktura përgjegjëse për ofrimin e shërbimit start up one-stop-shop mban kontakte të vazhdueshme me institucionet për të asistuar start up-et, për fushën e tyre të përgjegjësisë dhe kompetencave;
+c) start up-i dhe kërkesa e tij asistohet e ndiqet nga struktura përgjegjëse për ofrimin e shërbimit start up one-stop-shop, deri në përmbushjen e saj nga institucionet, brenda fushës së përgjegjësisë dhe kompetencave të tyre;
+ç) struktura përgjegjëse për ofrimin e shërbimit start up one-stop-shop bashkëpunon me institucionet për ndërgjegjësimin e start up-eve, sipas fushës së përgjegjësisë dhe kompetencave të tyre;
+d) institucionet japin informacion sipas kërkesës së komisionit të vlerësimit për projektet aplikuese, për përfitim nga granti për start up-et dhe lehtësuesit, për fushën e tyre të përgjegjësisë dhe kompetencave.

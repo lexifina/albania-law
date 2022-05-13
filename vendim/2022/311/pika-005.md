@@ -1,0 +1,1 @@
+5. Struktura përgjegjëse për ofrimin e shërbimit start up one-stop-shop përgjigjet dhe informon për procedurën e kriteret e aplikimit në skemën e grantit, të parashikuar në nenin 14, të ligjit nr. 25/2022, “Për mbështetjen dhe zhvillimin e start up-eve”, dhe akteve nënligjore në zbatim të tij.

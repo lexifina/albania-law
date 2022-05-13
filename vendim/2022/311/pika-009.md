@@ -1,0 +1,1 @@
+9. Për sa nuk është parashikuar shprehimisht në këtë vendim dhe nuk bie në kundërshtim me të, zbatohen rregullat e përcaktuara me vendimin nr. 867, datë 10.12.2014, të Këshillit të Ministrave, “Për procedurat e bashkëpunimit në institucionet e administratës shtetërore”, të ndryshuar.

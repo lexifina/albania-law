@@ -1,0 +1,1 @@
+1. Objekt i këtij vendimi është përcaktimi i rregullave të hollësishme për veprimtarinë dhe mënyrën e ofrimit të shërbimit start up one-stop-shop, pranë ministrit përgjegjës për sipërmarrjen, si dhe përcaktimi i shërbimeve për mbështetjen e start up-eve, për të cilat do të aplikohet tarifa zero.
