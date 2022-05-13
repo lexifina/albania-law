@@ -1,0 +1,1 @@
+6. Në përfundim të mbikëqyrjes së dënimit alternativ në shtetin e kërkuar, Ministria e Drejtësisë i dërgon Shërbimit të Provës dokumentet e përcjella nga shteti ku është ekzekutuar dënimi që vërtetojnë ekzekutimin e dënimit.

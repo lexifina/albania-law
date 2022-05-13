@@ -1,0 +1,1 @@
+3. Pas administrimit të dosjes, Ministria e Drejtësisë, nëpërmjet strukturës përkatëse të saj, i paraqet shtetit ku i dënuari ka vendbanimin apo vendqëndrimin kërkesë për mbikëqyrjen e dënimit alternativ.

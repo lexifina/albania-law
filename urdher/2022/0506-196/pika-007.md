@@ -1,0 +1,1 @@
+7. Dega territoriale e Shërbimit të Provës, pas vënies në dispozicion nga Drejtoria e Shërbimit të Provës të dokumentacionit, sipas pikës 6 të këtij kreu, vlerëson mënyrën e mbikëqyrjes së vendimit në shtetin e huaj, lidhur me përmbushjen e kushteve të dënimit alternativ dhe ecurisë së zbatimit të dënimit në bazë të legjislacionit që rregullon fushën e përgjegjësisë së saj.

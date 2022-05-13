@@ -1,0 +1,1 @@
+5. Dega territoriale e Shërbimit të Provës është përgjegjëse për ndjekjen e proceduarve në territorin shqiptar lidhur me komunikimet dhe me mbajtjen e korrespodencës zyrtare me Drejtorinë e Përgjithshme të Shërbimit të Provës, organin e prokurorisë dhe gjykatën, kur është e nevojshme.
