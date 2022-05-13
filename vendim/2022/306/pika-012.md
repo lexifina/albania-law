@@ -1,0 +1,1 @@
+12. Pas shqyrtimit dhe vlerësimit të kërkesave e propozimeve të dorëzuara, Kolegjiumi i propozon ministrit përgjegjës për artin dhe kulturën klasifikimin përfundimtar të artistëve konkurrues me të cilët ministria përgjegjëse për artin lidh kontratën përkatëse.

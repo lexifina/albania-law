@@ -1,0 +1,1 @@
+10. Kolegjiumi, në zbatim të nenit 27/1, të ligjit nr. 10352, datë 18.11.2010, “Për artin dhe kulturën”, i ndryshuar, përzgjedh me sistem pikëzimi fituesin e konkursit, bazuar në listën e përcjellë nga juria, sipas pikës 9, të këtij kreu. Metoda e sistemit të pikëzimit përcaktohet në urdhrin e ministrit që ngre Kolegjiumin.

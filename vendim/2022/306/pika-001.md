@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim përcaktimin e procedurës për financimin e projekteve artistike në fushën e artit pamor, si dhe shpalljen e konkurseve kombëtare dhe/ose ndërkombëtare për realizimin e tyre në hapësira publike, në zbatim të parashikimit të dhënë në shkronjën “b”, të pikës 1, të nenit 26, të ligjit nr. 10352, datë 18.11.2010, “Për artin dhe kulturën”, të ndryshuar.
