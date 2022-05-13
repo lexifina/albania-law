@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Pogradec, në bashkëpunim me Bashkinë Pogradec, brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, fillon procedurat për hedhjen e gjurmës së projektit mbi hartat kadastrale, sipas planimetrisë së shpronësimit të miratuar, dhe bën regjistrimin e kalimit të pronësisë në favor të Bashkisë Pogradec.
