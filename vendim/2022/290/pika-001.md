@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 19.10.2021, për çështjen “Laçi kundër Shqipërisë”, kërkesa nr. 28142/17, përfundimtar në datën 19.1.2022, në shumën 10 500 (dhjetë mijë e pesëqind) euro për mbulimin e dëmit jopasuror dhe kosto e shpenzime, plus çdo taksë që mund të jetë e aplikueshme.
