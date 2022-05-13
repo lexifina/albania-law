@@ -1,0 +1,1 @@
+16. Ngarkohen institucionet e përmendura në pikën 3 të këtij vendimi, të caktojnë dhe të komunikojnë anëtarin e tyre pranë ministrit përgjegjës për sipërmarrjen, brenda 5 (pesë) ditëve nga hyrja në fuqi e këtij vendimi.
