@@ -1,0 +1,1 @@
+20. Sipas përdorimit, armët dhe pajisjet kufizuese mbahen me vete ose në depo të veçanta, në rafte të individualizuara, gati për përdorim të menjëhershëm dhe u jepen punonjësve sipas planit të masave para fillimit të veprimeve.

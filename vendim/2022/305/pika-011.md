@@ -1,0 +1,1 @@
+11. Në rastet kur është objektivisht i pamundur njoftimi paraprak për përdorimin e armës, punonjësi i Policisë së Burgjeve e përdor armën në atë masë që është e nevojshme për të kontrolluar situatën, por duke sjellë sa më pak dëmtime në shëndetin e personit.

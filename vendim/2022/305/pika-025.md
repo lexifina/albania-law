@@ -1,0 +1,1 @@
+25. Punonjësi, para se të marrë detyrën, trajnohet për teknikat e përdorimit të pajisjeve kufizuese dhe teknikat që bëjnë të mundur përdorimin minimal të forcës për të kthyer vetëkontrollin te të burgosurit agresivë.

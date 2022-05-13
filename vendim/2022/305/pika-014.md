@@ -1,0 +1,1 @@
+14. Përdorimi i pajisjeve të tjera kufizuese gjatë ushtrimit të detyrës bëhet në mënyrë të përshkallëzuar dhe në proporcion me situatën. Intensiteti i përdorimit të pajisjeve kufizuese duhet të jetë i atillë që masa e vendosur është efektive për të arritur neutralizimin apo kontrollin e situatës.

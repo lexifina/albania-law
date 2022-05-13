@@ -1,0 +1,7 @@
+8. Punonjësi i Policisë së Burgjeve, në përmbushje të detyrave funksionale, mund të përdorë armë në rastet e mëposhtme:
+a) kur i burgosuri ndërmerr veprime të drejtpërdrejta, me qëllim largimin nga vendi i qëndrimit të detyrueshëm ose gjatë transportimit të tij nga njëri vend në tjetrin;
+b) kur persona të tjerë ndërmarrin veprime të drejtpërdrejta, me qëllim krijimin e kushteve lehtësuese për largimin e të burgosurit nga vendi i qëndrimit të detyrueshëm ose gjatë transportimit të tij nga njëri vend në tjetrin;
+c) kur punonjësi i Policisë së Burgjeve, gjatë ose për shkak të detyrës, ose persona të tretë sulmohen në institucionet e ekzekutimit të vendimeve penale me mjete të rrezikshme për shëndetin apo jetën, vetëm në masën e nevojshme për të parandaluar dhe neutralizuar sulmin;
+ç) në rast se, për shkak të situatave emergjente, është e nevojshme ruajtja e rendit dhe e sigurisë në institucionin e ekzekutimit të vendimeve penale, ose e jetës dhe e shëndetit të të burgosurve, të punonjësve të Policisë së Burgjeve, të punonjësve të tjerë apo të personave të tjerë të pranishëm në institucionet e ekzekutimit të vendimeve penale;
+d) kur është e nevojshme për të siguruar që një i burgosur të ndalojë kryerjen e një veprimi të paligjshëm ose të ndjekë udhëzime të caktuara të ligjshme;
+dh) në çdo rast tjetër kur punonjësi i Policisë së Burgjeve është i detyruar të mbrojë jetën, shëndetin, të drejtat dhe interesat e tij ose të një tjetri, nga një sulm i padrejtë, i vërtetë dhe i çastit, vetëm në masën e nevojshme për të parandaluar e neutralizuar sulmin.

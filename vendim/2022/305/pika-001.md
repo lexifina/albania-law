@@ -1,0 +1,1 @@
+1. Objekt i këtij vendimi është përcaktimi i rregullave të hollësishme për rastet dhe mënyrën e përdorimit të armëve, të ndryshme nga armët e zjarrit, si dhe rastet dhe mënyrën e përdorimit të pajisjeve kufizuese nga Policia e Burgjeve.

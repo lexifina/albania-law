@@ -1,0 +1,1 @@
+3. Armët dhe pajisjet e tjera kufizuese përdoren vetëm nga punonjësit e Policisë së Burgjeve, që kanë përfunduar me sukses trajnimin e detyruar për përdorimin e mjeteve të forcës. Armët dhe pajisjet e tjera kufizuese nuk mund të përdoren në kundërshtim me udhëzimet e trajnimit të detyruar për përdorimin e mjeteve të forcës.

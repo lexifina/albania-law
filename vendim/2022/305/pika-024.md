@@ -1,0 +1,1 @@
+24. Punonjësi, që ka kontakt të drejtpërdrejtë me të burgosurit, dhe personeli që punon me grupe të veçanta të burgosurish, para se të marrë detyrën, i nënshtrohet trajnimit të detyrueshëm për përdorimin e armëve dhe pajisjeve kufizuese.
