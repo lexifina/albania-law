@@ -1,0 +1,1 @@
+1. Objekt i këtij vendimi është përcaktimi i rregullave të organizimit e të funksionimit të Këshillit të Start Up-eve pranë ministrit përgjegjës për sipërmarrjen, përcaktimi i kritereve, procedurës së përzgjedhjes dhe rasteve të mbarimit të mandatit dhe të shkarkimit të anëtarëve, si dhe të masës së shpërblimit financiar të anëtarëve.

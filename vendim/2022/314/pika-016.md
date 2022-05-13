@@ -1,0 +1,1 @@
+16. Funksionimi i Këshillit të Start Up-eve u nënshtrohet rregullave të parashikuara në legjislacionin për organet kolegjiale të administratës shtetërore, për çështjet që nuk janë të rregulluara posaçërisht në këtë vendim.
