@@ -1,0 +1,1 @@
+9. Me lëshimin e konfirmimit të paraqitjes së kërkesës, regjistri elektronik ua kalon, për shqyrtim e vendimmarrje, nëpunësve të autorizuar kërkesën dhe dokumentet shoqëruese, të paraqitura nëpërmjet portalit “e-Albania”.

@@ -1,0 +1,1 @@
+4. Pas shfaqjes së formularit dhe hapjes së numrit të çështjes në regjistrin elektronik, personi i autentifikuar plotëson elektronikisht formularin në të gjitha rubrikat e tij, sipas llojit të regjistrimit që kërkohet të kryhet.

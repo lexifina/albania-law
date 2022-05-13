@@ -1,0 +1,1 @@
+3. Pas autentifikimit, sipas pikës 2, të këtij kreu, personi akseson portalin “e-Albania” dhe zgjedh llojin e regjistrimit që kërkohet të kryhet. Pas përzgjedhjes së llojit të regjistrimit, shfaqet formulari përkatës i kërkesës, sipas formatit të miratuar, duke krijuar një numër çështjeje CN në regjistrin elektronik të organizatave jofitimprurëse.

@@ -1,0 +1,1 @@
+11. Gjatë afatit të shqyrtimit dhe vlerësimit të kërkesës, Gjykata e Rrethit Gjyqësor Tiranë i mundëson kërkuesit ndjekjen e statusit të kërkesës në portalin unik qeveritar “e-Albania”, nëpërmjet përdorimit të numrit të çështjes (CN), të dhënë me konfirmimin e dërgimit me sukses të kërkesës.

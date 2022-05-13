@@ -1,0 +1,1 @@
+12. Sekretaria e regjistrit elektronik lëshon një konfirmim, sipas formatit të miratuar për çdo kërkesë të dorëzuar, ku përcaktohen koha e dorëzimit, numri rendor i paraqitjes së kërkesës, objekti i kërkesës, lista e dokumenteve të dorëzuara dhe shuma e tarifës së paguar, i cili i dërgohet elektronikisht kërkuesit.
