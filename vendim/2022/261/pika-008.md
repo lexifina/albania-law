@@ -1,0 +1,1 @@
+8. Emri, simboli, përkufizimi dhe vlera në njësi SI e njësive matëse të pranuara për t’u përdorur në Sistemin Ndërkombëtar të Matjeve SI, vlera e të cilave është përcaktuar në mënyrë eksperimentale, jepen në tabelën nr.7, që i bashkëlidhet këtij vendimi.

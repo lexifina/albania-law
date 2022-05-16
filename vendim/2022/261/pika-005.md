@@ -1,0 +1,4 @@
+5. Madhësia, emri dhe simboli i njësive të rrjedhura të Sistemit Ndërkombëtar të Njësive (SI). Njësitë e rrjedhura të Sistemit Ndërkombëtar të Njësive (SI) formohen nga njësitë bazë nëpërmjet shprehjeve algjebrike, që lidhin madhësitë korresponduese.
+5.1 Madhësia, emri dhe simboli i njësive të rrjedhura të Sistemit Ndërkombëtar të Njësive (SI), të cilat shprehen vetëm nga njësitë bazë të këtij sistemi matjeje, jepen në tabelën nr. 2, që i bashkëlidhet këtij vendimi.
+5.2 Madhësia, emri dhe simboli i njësive të rrjedhura të Sistemit Ndërkombëtar të Njësive (SI), të cilat shprehen me emra dhe simbole të veçanta jepen në tabelën nr. 3, që i bashkëlidhet këtij vendimi.
+5.3 Madhësia, emri dhe simboli i njësive të rrjedhura të Sistemit Ndërkombëtar të Njësive (SI), të cilat shprehen nga kombinimi i disa njësive të rrjedhura të Sistemit Ndërkombëtar të Matjeve SI me emra dhe simbole të veçanta, jepen në tabelën nr. 4, që i bashkëlidhet këtij vendimi.

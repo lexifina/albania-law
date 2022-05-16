@@ -1,0 +1,1 @@
+1. Në Republikën e Shqipërisë përdoren njësitë bazë të Sistemit Ndërkombëtar të Njësive (SI), njësitë që rrjedhin prej tyre, shumëfishat dhe nënfishat, njësitë shtesë të vendosura ndërkombëtarisht, të përcaktuara në këtë vendim.

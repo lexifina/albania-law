@@ -1,0 +1,1 @@
+9. Emri, simboli dhe vlera në njësi SI e njësive të tjera të pranuara për t’u përdorur në Sistemin Ndërkombëtar të Njësive (SI) jepen në tabelat nr. 8 (a), 8 (b) dhe 8 (c), që i bashkëlidhen këtij vendimi.

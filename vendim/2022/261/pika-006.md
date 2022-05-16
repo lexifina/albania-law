@@ -1,0 +1,1 @@
+6. Sistemi Ndërkombëtar i Njësive (SI) shpreh shumëfishat dhe nënfishat dhjetorë të njësive të matjes me ndihmën e parashtesave. Faktori i fuqisë, emri dhe simboli i parashtesave të njësive të matjes të Sistemit Ndërkombëtar të Njësive (SI) jepen në tabelën nr. 5, që i bashkëlidhet këtij vendimi.
