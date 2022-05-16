@@ -1,1 +1,0 @@
-6. Sistemi Ndërkombëtar i Matjeve SI shpreh shumëfishat dhe nënfishat dhjetorë të njësive të matjeve me ndihmën e parashtesave. Faktori i fuqisë, emri dhe simboli i parashtesave të njësive të matjes të Sistemit Ndërkombëtar të Matjeve SI jepen në tabelën nr.5, që i bashkëlidhet këtij vendimi.

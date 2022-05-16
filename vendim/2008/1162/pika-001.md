@@ -1,1 +1,0 @@
-1. Ministritë, institucionet qendrore, organet e pushtetit vendor, personat fizikë, juridikë, që ushtrojnë aktivitet në territorin e Republikës së Shqipërisë, detyrohen të përdorin njësitë ligjore të matjes. Njësitë ligjore të matjes janë njësitë bazë të Sistemit Ndërkombëtar SI, dhe ato jashtë sistemit SI të paraqitura në tabelën 6, 7 dhe 8 të këtij vendimi.

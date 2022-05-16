@@ -1,1 +1,0 @@
-2. Në transportin ajror, detar dhe hekurudhor, krahas njësive të sistemit SI të paraqitura në këtë vendim, lejohen të përdoren edhe njësi të tjera të përcaktuara në konventa apo marrëveshje ndërkombëtare të këtyre llojeve të transporteve.
