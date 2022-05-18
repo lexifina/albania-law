@@ -4,7 +4,9 @@ Nr. 1088, datë 24.12.2020
 
 PËR PËRCAKTIMIN E MËNYRËS DHE TË PROCEDURAVE TË REGJISTRIMIT E PUBLIKIMIT TË TË DHËNAVE PËR PRONARËT PËRFITUES, SI DHE TË NJOFTIMIT NGA AUTORITETET SHTETËRORE KOMPETENTE E NGA SUBJEKTET E DETYRUARA
 
-(ndryshuar me VKM nr. 273, datë 12.5.2021)
+(ndryshuar me VKM nr. 273, datë 12.5.2021; nr. 328, datë 18.5.2022)
+
+(i përditësuar)
 
 Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 4, pika 7, 6, pikat 8, 9 e 10, e 15, pika 4, të ligjit nr. 112/2020, “Për regjistrin e pronarëve përfitues”, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
 
@@ -20,9 +22,13 @@ b) “Lloji i regjistrimit”, regjistrimi fillestar, ndryshimi ose përditësim
 
 c) “Kërkesa” është aplikimi që i drejtohet Qendrës Kombëtare të Biznesit për kryerjen e veprimeve në regjistër, sipas ligjit për regjistrin e pronarëve përfitues.
 
-2. Kërkesa për regjistrimin fillestar dhe/ose për përditësimin ose ndryshimin e të dhënave për pronarët përfitues bëhet nga personi i autorizuar për të përfaqësuar subjektin raportues nëpërmjet sportelit elektronik, pasi të jetë identifikuar elektronikisht dhe duke përdorur një certifikatë të kualifikuar për nënshkrimin elektronik, sipas përcaktimeve të legjislacionit në fuqi për nënshkrimin elektronik.
+ç) “Regjistrim fillestar” është regjistrimi për herë të parë i pronarëve përfitues të subjekteve raportuese, në përputhje me parashikimet e ligjit për regjistrin e pronarëve përfitues.
 
-3. Personi i autorizuar deklaron, nëpërmjet plotësimit të kërkesës, të gjitha të dhënat, sipas fushave të formularëve të miratuar, në përputhje me ligjin për regjistrin e pronarëve përfitues për kryerjen e regjistrimit të kërkuar dhe paraqet dokumentacionin shoqërues përkatës.
+d) “Regjistrim i ndryshimeve” është regjistrimi i çdo ndryshimi faktik të personit të regjistruar më parë si pronar përfitues, sipas ligjit për regjistrin e pronarëve përfitues (zëvendësimi, shtimi i një personi të ri apo heqja e një personi nga regjistri i pronarëve përfitues), si dhe regjistrimi i çdo ndryshimi tjetër në të dhënat e regjistruara të pronarëve përfitues.
+
+2. Kërkesa për regjistrimin fillestar, regjistrimin e ndryshimeve apo përditësimin e të dhënave të pronarëve përfitues bëhet sipas afateve të përcaktuara në pikën 3, të nenit 5, të ligjit për regjistrin e pronarëve përfitues.
+
+3. Kërkesa për regjistrimin fillestar, regjistrimin e ndryshimeve apo përditësimin e të dhënave të pronarëve përfitues paraqitet nga personi i autorizuar për të përfaqësuar subjektin raportues, në përputhje me parashikimet e kreut II, të këtij vendimi.
 
 4. Të gjitha dokumentet e lidhura me kërkesat e kryera pranë Qendrës Kombëtare të Biznesit (QKB) ruhen dhe arkivohen nga QKB-ja vetëm në formatin elektronik.
 
@@ -30,9 +36,9 @@ c) “Kërkesa” është aplikimi që i drejtohet Qendrës Kombëtare të Bizne
 
 II. PROCEDURAT E KËRKESËS PËR REGJISTRIMIN E TË DHËNAVE NË REGJISTRIN E PRONARËVE PËRFITUES
 
-1. Personi i autorizuar për të përfaqësuar subjektin raportues që kërkon të kryejë një kërkesë për regjistrimin fillestar dhe/ose për përditësimin ose ndryshimin e të dhënave për pronarët përfitues, nëpërmjet sportelit elektronik të QKB-së, duhet të identifikohet elektronikisht nëpërmjet autentifikimit nga portali unik i shërbimeve qeveritare e-Albania. 
+1. Kërkesa për regjistrimin fillestar të pronarëve përfitues të subjekteve raportuese, që regjistrohen në regjistrin tregtar, paraqitet nga personi i autorizuar për të përfaqësuar subjektin raportues, sipas procedurave të parashikuara nga legjislacioni që rregullon procedurat e regjistrimit fillestar të personit juridik në regjistrin tregtar.
 
-2. Pasi është autentifikuar, sipas pikës 1, të këtij kreu, personi i autorizuar për të përfaqësuar subjektin raportues akseson sportelin elektronik dhe zgjedh llojin e regjistrimit që kërkohet të kryhet. Pas përzgjedhjes së llojit të regjistrimit, sistemi i informatizuar shfaq formularin përkatës të kërkesës, sipas formatit të miratuar, dhe hap dosjen elektronike, e cila mban numrin përkatës (një numër për çdo dosje ose 	kërkesë) të dhënë nga sistemi i informatizuar (numri i çështjes).
+2. Kërkesa për kryerjen e të gjitha regjistrimeve të tjera sipas këtij vendimi paraqitet nga personi i autorizuar për të përfaqësuar subjektin raportues, duke u identifikuar elektronikisht në sportelin elektronik të QKB-së nëpërmjet autentifikimit nga portali unik i shërbimeve qeveritare “e-Albania”. Pas këtij autentifikimi, personi i autorizuar për të përfaqësuar subjektin raportues akseson sportelin elektronik dhe zgjedh llojin e regjistrimit që kërkohet të kryhet. Pas përzgjedhjes së llojit të regjistrimit, sistemi i informatizuar shfaq formularin përkatës të kërkesës, sipas formatit të miratuar, dhe hap dosjen elektronike, e cila mban numrin përkatës (një numër për çdo dosje ose aplikim), të dhënë nga sistemi i informatizuar (numri i çështjes).
 
 3. Pas shfaqjes së formularit dhe hapjes së dosjes elektronike, personi i autorizuar për të përfaqësuar subjektin raportues plotëson elektronikisht formularin, në të gjitha rubrikat e tij, sipas llojit të regjistrimit që kërkohet të kryhet.
 
@@ -46,7 +52,7 @@ II. PROCEDURAT E KËRKESËS PËR REGJISTRIMIN E TË DHËNAVE NË REGJISTRIN E PR
 
 8. Me lëshimin e konfirmimit të kryerjes së kërkesës, sistemi i informatizuar kalon kërkesën dhe dokumentet shoqëruese në format elektronik te nëpunësit e autorizuar (regjistruesit) të QKB-së, për shqyrtim e vendimmarrje.
 
-9. Procedura e regjistrimit fillestar nga subjektet raportuese ekzistuese të të dhënave për pronarët e tyre përfitues realizohet sipas parashikimeve të këtij kreu dhe sipas pikës 3, të nenit 15, të ligjit për regjistrin e pronarëve përfitues. Subjektet raportuese ekzistuese, të cilat rezultojnë me status të pezulluar në regjistrin tregtar, regjistrojnë pronarin përfitues në regjistrin e pronarit përfitues, përpara kërkesës për ndryshimin e statusit të tyre në regjistrin tregtar. Ndryshimi i statusit të subjekteve raportuese ekzistuese në regjistrin tregtar kryhet pas verifikimit se është regjistruar pronari përfitues i tyre, në regjistrin e pronarëve përfitues.
+9. Për plotësimin e të metave në rastin e pezullimit të një kërkese të paraqitur për regjistrim fillestar, të ndryshimeve apo përditësimit të të dhënave të pronarëve përfitues, zbatohen procedurat e parashikuara sipas këtij kreu.
 
 III. DOKUMENTACIONI DHE FORMA E KËRKUAR
 
@@ -58,9 +64,9 @@ i. dokumentacionin që vërteton numrin unik të identifikimit dhe emrin e subje
 
 ii. dokumentacionin që vërteton të dhënat e identifikimit të pronarit përfitues, sipas pikës 3.2.1, të nenit 4, të ligjit për regjistrin e pronarëve përfitues;
 
-iii. dokumentacionin e autoritetit kompetent regjistrues, që vërteton se pronari përfitues i regjistruar është zotërues i 25 (njëzet e pesë) % ose më tepër të aksioneve/kuotave të kapitalit, të të drejtave të votimit ose të interesave të pronësisë, nëse nuk përmban datën e përcaktimit si pronar përfitues, duhet të depozitohet një dokument tjetër që përmban këtë të dhënë; ose
+iii. dokumentacionin e autoritetit kompetent regjistrues, që vërteton se pronari përfitues i regjistruar është zotërues i 25 (njëzet e pesë) % ose më tepër të aksioneve/kuotave të kapitalit, të të drejtave të votimit ose të interesave të pronësisë, si dhe që përmban datën e përcaktimit si pronar përfitues; dhe
 
-iv. dokumentacionin tjetër që zotëron subjekti raportues, që përmban informacionin e nevojshëm për identifikimin dhe regjistrimin e pronarit përfitues të tij, sipas ligjit për regjistrin e pronarëve përfitues.
+iv. çdo dokumentacion tjetër që zotëron subjekti raportues për identifikimin dhe regjistrimin e pronarit, përfitues të tij, sipas ligjit për regjistrin e pronarëve përfitues, përfshirë datën e përcaktimit si pronar përfitues, nëse ky informacion nuk rezulton në dokumentacionin sipas nënndarjes “iii” të kësaj shkronje.
 
 b) Në rastin e regjistrimit të ndryshimeve të të dhënave të pronarëve përfitues të subjekteve raportuese:
 
@@ -68,13 +74,13 @@ i. dokumentacionin që vërteton numrin unik të identifikimit dhe emrin e subje
 
 ii. dokumentacionin që vërteton të dhënat e identifikimit të pronarit përfitues, sipas pikës 3.2.1, të nenit 4, të ligjit për regjistrin e pronarëve përfitues;
 
-iii. dokumentacionin e autoritetit kompetent regjistrues, që vërteton se pronari përfitues i regjistruar është zotërues i 25 (njëzet e pesë) % ose më tepër të aksioneve/kuotave të kapitalit, të të drejtave të votimit ose të interesave të pronësisë, nëse nuk përmban datën e përcaktimit si pronar përfitues, duhet të depozitohet një dokument tjetër që përmban këtë të dhënë; ose
+iii. dokumentacionin e autoritetit kompetent regjistrues, që vërteton se pronari përfitues i regjistruar është zotërues i 25 (njëzet e pesë) % ose më tepër të aksioneve/kuotave të kapitalit, të të drejtave të votimit ose të interesave të pronësisë, si dhe që përmban datën e përcaktimit si pronar përfitues; dhe
 
-iv. dokumentacion tjetër që zotëron subjekti raportues, që përmban informacionin e nevojshëm për identifikimin dhe regjistrimin e pronarit përfitues të tij, sipas ligjit për regjistrin e pronarëve përfitues.
+iv. çdo dokumentacion tjetër që zotëron subjekti raportues për identifikimin dhe regjistrimin e pronarit përfitues të tij, sipas ligjit për regjistrin e pronarëve përfitues, përfshirë datën e përcaktimit si pronar përfitues, nëse ky informacion nuk rezulton në dokumentacionin sipas nënndarjes “iii” të kësaj shkronje.
 
-c) Dokumentacioni i përcaktuar në nënndarjet “i” dhe “iii”, të shkronjës “a”, të kësaj pike, duhet të jetë hartuar brenda 90 (nëntëdhjetë) ditëve kalendarike nga data e regjistrimit fillestar të subjekteve raportuese në regjistrat përkatës.
+c) Dokumentacioni i përcaktuar në nënndarjet “i” dhe “iii”, të shkronjës “a”, të kësaj pike, duhet të jetë hartuar brenda 90 (nëntëdhjetë) ditëve kalendarike nga data e paraqitjes së kërkesës për regjistrimin fillestar të pronarëve përfitues.
 
- ç) Dokumentacioni i përcaktuar në nënndarjet “i” dhe “iii”, të shkronjës “b”, të kësaj pike, duhet të jetë hartuar brenda të njëjtit afat të përcaktuar në shkronjën “b”, të pikës 3, të nenit 5, të ligjit për regjistrin e pronarëve përfitues.
+ç) Dokumentacioni i përcaktuar në nënndarjet “i” dhe “iii”, të shkronjës “b”, të kësaj pike, duhet të jetë hartuar brenda 90 (nëntëdhjetë) ditëve kalendarike nga data e paraqitjes së kërkesës për regjistrimin e ndryshimeve të të dhënave të pronarëve përfitues.
 
 d) Në rast se pas shterimit të të gjitha mjeteve të mundshme për identifikimin e pronarit përfitues dhe nëse nuk ka arsye për dyshime, subjektet raportuese nuk arrijnë të identifikojnë si pronar përfitues individin, i cili ka në pronësi ose kontrollon i fundit një person juridik, përmes pronësisë direkte ose indirekte të 25 (njëzet e pesë) % ose më tepër të aksioneve/kuotave të kapitalit ose të interesave të pronësisë në një subjekt raportues, sipas përcaktimeve të ligjit për regjistrin e pronarëve përfitues, atëherë subjektet raportuese duhet të identifikojnë e të regjistrojnë në Regjistrin e Pronarëve Përfitues, si pronar përfitues, individin që: 
 
@@ -86,7 +92,7 @@ Në këtë rast, subjektet raportuese duhet të mbajnë dokumentacionin që arsy
 
 dh) Në rastin e përcaktuar në shkronjën “d”, të pikës 1, të këtij kreu, përveç dokumenteve të përcaktuara në shkronjën “a” ose në shkronjën “b”, të pikës 1, të këtij kreu, sipas rastit, subjektet raportuese duhet të dorëzojnë edhe një deklaratë me shkrim të nënshkruar nga përfaqësuesi ligjor i subjektit raportues, në të cilën të përcaktohen saktësisht hapat e ndërmarrë për identifikimin si pronar përfitues të individit, i cili ka në pronësi ose kontrollon i fundit një person juridik, përmes pronësisë direkte ose indirekte të 25 (njëzet e pesë) % ose më tepër të aksioneve/kuotave të kapitalit ose të interesave të pronësisë në një subjekt raportues, si dhe arsyet për identifikimin dhe regjistrimin në Regjistrin e Pronarëve Përfitues, si pronar përfitues individin, sipas nënndarjeve “i” e “ii”, të shkronjës “d”, të pikës 1, të këtij kreu. 
 
-Deklarata me shkrim e nënshkruar nga përfaqësuesi ligjor i subjektit raportues, e përcaktuar në shkronjën “dh”, të pikës 1, të këtij kreu, duhet të jetë hartuar jo më vonë se 30 (tridhjetë) ditë kalendarike nga data e regjistrimit fillestar të subjekteve raportuese ose jo më vonë se 30 (tridhjetë) ditë kalendarike nga data e ndodhjes së ndryshimit faktik të të dhënave të pronarëve përfitues. 
+Deklarata me shkrim e nënshkruar nga përfaqësuesi ligjor i subjektit raportues, e përcaktuar në këtë shkronjë, duhet të jetë hartuar brenda afateve të kërkuara për dokumentet e tjera të përcaktuara sipas shkronjës “a” ose shkronjës “b”, të pikës 1, të këtij kreu.
 
 e) Në rast se pas shterimit të të gjitha mjeteve të mundshme për identifikimin e pronarit përfitues dhe nëse nuk ka arsye për dyshime, subjektet raportuese: 
 
@@ -98,7 +104,7 @@ atëherë subjektet raportuese duhet të identifikojnë dhe të regjistrojnë n�
 
 ë) Në rastin e përcaktuar në shkronjën “e”, të pikës 1, të këtij kreu, përveç dokumenteve të përcaktuara në shkronjën “a” ose në shkronjën “b”, të pikës 1, të këtij kreu, sipas rastit, subjektet raportuese duhet të dorëzojnë edhe një deklaratë me shkrim të nënshkruar nga përfaqësuesi ligjor i subjektit raportues, në të cilën të përcaktohen saktësisht hapat e ndërmarrë për identifikimin si pronar përfitues të individit, i cili ka në pronësi ose kontrollon i fundit një person juridik, përmes pronësisë direkte ose indirekte të 25 (njëzet e pesë) % ose më tepër të aksioneve/kuotave të kapitalit ose të interesave të pronësisë në një subjekt raportues, si dhe arsyet për identifikimin e regjistrimin në Regjistrin e Pronarëve Përfitues, si pronar përfitues, të individit/individëve të përcaktuar sipas shkronjës “e”, të pikës 1, të këtij kreu. 
 
-Deklarata me shkrim e nënshkruar nga përfaqësuesi ligjor i subjektit raportues, e përcaktuar në këtë shkronjë, duhet të jetë hartuar jo më vonë se 30 (tridhjetë) ditë kalendarike nga data e regjistrimit fillestar të subjekteve raportuese dhe jo më vonë se 30 (tridhjetë) ditë kalendarike nga data e ndodhjes së ndryshimit faktik të të dhënave të pronarëve përfitues.
+Deklarata me shkrim e nënshkruar nga përfaqësuesi ligjor i subjektit raportues, e përcaktuar në këtë shkronjë, duhet të jetë hartuar brenda afateve të kërkuara për dokumentet e tjera të përcaktuara sipas shkronjës “a” ose shkronjës “b”, të pikës 1, të këtij kreu.
 
 2. Personi i autorizuar për të përfaqësuar subjektin raportues, nëpërmjet kërkesës, konfirmon njësinë e dokumentit në format elektronik me origjinalin.
 
@@ -108,9 +114,11 @@ Deklarata me shkrim e nënshkruar nga përfaqësuesi ligjor i subjektit raportue
 
 5. Në rast mospërputhjeje të dokumentit shoqërues në gjuhën shqipe me atë në gjuhë të huaj, ky i fundit nuk mund t’u kundrejtohet palëve të treta. Gjithsesi, palët e treta mund t’i kundrejtojnë subjektit të dhënat e përmbajtura në dokumentin në gjuhë të huaj, përveç rastit kur subjekti provon se i treti kishte dijeni për përmbajtjen e dokumentit në gjuhën shqipe.
 
-IV. PROCEDURA E VLERËSIMIT TË KËRKESËS DHE ARSYET E REFUZIMIT PËR REGJISTRIMIN E TË DHËNAVE TË PRONARËVE PËRFITUES TË SUBJEKTEVE RAPORTUESE
+6. Në rastin e një kërkesë sipas pikës 1, të kreut II, të këtij vendimi, paraqitet i njëjti dokumentacion i kërkuar sipas parashikimeve të mësipërme të këtij kreu, me përjashtim të dokumentacionit, që vërteton numrin unik të identifikimit së bashku me datën e regjistrimit të subjektit në regjistrin tregtar, si dhe ekstraktin e të dhënave të regjistruara të subjektit raportues, të lëshuar sipas legjislacionit përkatës që rregullon procedurat e regjistrimit në regjistrin tregtar. Dokumentet e kërkuara në lidhje me këtë kërkesë paraqiten në të njëjtat mënyra dhe në të njëjtin format me dokumentacionin e kërkuar sipas legjislacionit përkatës që rregullon procedurat e regjistrimit në regjistrin tregtar.
 
-1. Kërkesa dhe dokumentet shoqëruese në format elektronik, dërguar sipas parashikimeve të krerëve II e III, të këtij vendimi, merren në shqyrtim nga nëpunësit e autorizuar të QKB-së për vendimmarrje, sipas radhës së paraqitjes së tyre.
+IV. PROCEDURA E VLERËSIMIT TË KËRKESËS DHE ARSYET E PEZULLIMIT APO REFUZIMIT PËR REGJISTRIMIN E TË DHËNAVE TË PRONARËVE PËRFITUES TË SUBJEKTEVE RAPORTUESE
+
+1. Kërkesa dhe dokumentet shoqëruese të paraqitura sipas parashikimeve të krerëve II e III, të këtij vendimi, merren në shqyrtim nga nëpunësit e autorizuar të QKB-së për vendimmarrje, sipas radhës së paraqitjes së tyre.
 
 2. Nëpunësi i autorizuar (regjistruesi) i QKB-së verifikon:
 
@@ -124,25 +132,35 @@ c) paraqitjen në formën e kërkuar të dokumentacionit shoqërues, që vërtet
 
 d) nëse regjistrimi i të dhënave për pronarët përfitues është paraqitur brenda afateve ligjore të përcaktuara në ligjin për regjistrin e pronarëve përfitues; 
 
-dh) faktin nëse janë shlyer sanksionet administrative, të dhëna sipas pikave 2 dhe 3, të nenit 13, të ligjit për regjistrin e pronarëve përfitues. 
+dh) faktin nëse janë shlyer sanksionet administrative të zbatuara, sipas parashikimeve të ligjit për regjistrin e pronarëve përfitues.
 
-3. Gjatë shqyrtimit të kërkesës, nëpunësi i autorizuar (regjistruesi) i QKB-së vlerëson vetëm plotësimin e kërkesave të përcaktuara në pikën 2, të këtij kreu. Në këtë vlerësim, nëpunësi i autorizuar (regjistruesi) nuk mund të shqyrtojë saktësinë e të dhënave, vërtetësinë e dokumenteve, që i bashkëlidhen kërkesës për regjistrim apo përputhshmërinë e përmbajtjes së tyre me kërkesat e ligjit në fuqi. Përgjegjësia për saktësinë dhe vërtetësinë e fakteve, të të dhënave të njoftuara dhe të dokumenteve shoqëruese, të depozituara në regjistrin elektronik, mbahet nga subjektet raportuese dhe personat e autorizuar për të bërë regjistrimin, sipas ligjeve në fuqi. 
+e) faktin nëse të dhënat që kërkohen të regjistrohen janë të ndryshme nga të dhënat e regjistrueshme, sipas dispozitave të ligjit për regjistrin e pronarëve përfitues.
 
-4. Nëpunësi i autorizuar (regjistruesi) i QKB-së nuk mund ta refuzojë regjistrimin, nëse kërkesa është dorëzuar sipas parashikimeve të ligjit për regjistrin e pronarëve përfitues dhe në përputhje me kërkesat e pikës 2, të këtij kreu.
+5. Nëse nëpunësi i autorizuar (regjistruesi) i QKB-së, pas verifikimeve sipas pikave të sipërpërmendura, vëren se kërkesa është në përputhje me parashikimet e ligjit për regjistrin e pronarëve përfitues dhe të këtij vendimi:
 
-5. Nëse nëpunësi i autorizuar (regjistruesi) i QKB-së, pas verifikimeve sipas pikave të mësipërme, vëren se kërkesa është në përputhje me kërkesat e ligjit për regjistrin e pronarëve përfitues dhe këtij vendimi, miraton kërkesën e kryerjen e regjistrimit, jo më vonë se 2 (dy) ditë pune nga marrja e kërkesës nga subjektet raportuese.
+a) në rastin e një kërkese të paraqitur sipas pikës 1, të kreut II, të këtij vendimi, miraton kërkesën njëkohësisht me regjistrimin e subjektit raportues si person juridik në regjistrin tregtar;
 
-6. Nëpunësi i autorizuar (regjistruesi) i QKB-së refuzon regjistrimin e të dhënave të pronarëve përfitues, nëse:
+b) në rastet e një kërkese të paraqitur sipas pikës 2, të kreut II, të këtij vendimi, miraton kërkesën jo më vonë se 2 (dy) ditë pune nga paraqitja e saj.
 
-a) kërkesa nuk është në përputhje me kushtet e përcaktuara në ligj dhe të pikës 2, të këtij kreu;
+6. Nëse nëpunësi i autorizuar (regjistruesi) i QKB-së, pas verifikimeve sipas pikave të sipërpërmendura, vëren se kërkesa nuk është në përputhje me parashikimet e ligjit për regjistrin e pronarëve përfitues dhe të këtij vendimi:
 
-b) të dhënat, që kërkohen të regjistrohen janë të ndryshme nga të dhënat e regjistrueshme, sipas dispozitave të këtij ligji.
+a) në rastin e një kërkesë të paraqitur sipas pikës 1, të kreut II, të këtij vendimi, jo më vonë se 1 (një) ditë pune nga marrja e kërkesës, pezullon veprimet për regjistrimin fillestar të pronarëve përfitues të subjektit raportues. Pezullimi i veprimeve sipas kësaj pike përbën shkak për pezullimin e procedurave të regjistrimit fillestar të personit juridik në regjistrin tregtar. Plotësimi i të metave që pengojnë regjistrimin kryhet nga subjekti raportues brenda afateve dhe në përputhje me parashikimet e legjislacionit në fuqi që rregullon procedurat e regjistrimit në regjistrin tregtar si dhe me parashikimet e kreut III, të këtij vendimi. Mosplotësimi i të metave që pengojnë regjistrimin në regjistrin e pronarëve përfitues, sipas këtij vendimi, nga subjekti raportues me pronësi direkte përbën shkak për refuzimin e aplikimit për regjistrimin e personit juridik në regjistrin tregtar sipas legjislacionit përkatës;
 
-7. Refuzimi bëhet jo më vonë se 2 (dy) ditë pune nga marrja e kërkesës nga subjektet raportuese, shoqëruar me arsyen e refuzimit.
+b) në rastin e një kërkese të paraqitur sipas pikës 2, të kreut II, të këtij vendimi, jo më vonë se 2 (dy) ditë pune nga marrja e kërkesës, pezullon veprimet për regjistrimin e kërkesës dhe QKB-ja e njofton subjektin raportues sipas kreut VII, të këtij vendimi, për shkakun e saktë të pezullimit. Plotësimi i të metave që pengojnë regjistrimin kryhet nga subjekti raportues brenda 30 (tridhjetë) ditëve kalendarike, në përputhje me parashikimet e krerëve II dhe III, të këtij vendimi.
 
-8. Me refuzimin e kërkesës për regjistrimin e pronarit përfitues, subjektet raportuese kanë të drejtë të riaplikojnë për regjistrimin e pronarit përfitues, brenda afatit të parashikuar në ligj. 
+7. Në rastet e pezullimit të veprimeve sipas pikës 6, të këtij kreu, nëse subjekti raportues plotëson të metat që pengojnë regjistrimin, brenda afateve përkatëse, nëpunësi i autorizuar (regjistruesi) i QKB-së miraton kërkesën sipas pikës 5, të këtij kreu. Në këto raste, regjistrimi mban datën e paraqitjes së kërkesës së parë.
 
-9. Riparaqitja e kërkesës pas refuzimit trajtohet si kërkesë e re.
+8. Nëpunësi i autorizuar (regjistruesi) i QKB-së refuzon kërkesën si vijon:
+
+a) njëkohësisht me refuzimin e aplikimit për regjistrimin e personit juridik në regjistrin tregtar sipas legjislacionit përkatës, në rastin e një kërkese të paraqitur sipas pikës 1, të kreut II, të këtij vendimi, nga një subjekt me pronësi direkte;
+
+b) jo më vonë se 2 (dy) ditë pune pas përfundimit të afatit të përcaktuar sipas shkronjës “a”, të pikës 6, të këtij kreu, nëse subjekti raportues me pronësi indirekte nuk plotëson të metat që pengojnë regjistrimin, në rastin e një kërkesë të paraqitur sipas pikës 1, të kreut II, të këtij vendimi;
+
+c) jo më vonë se 2 (dy) ditë pune pas përfundimit të afatit të përcaktuar sipas shkronjës “b”, të pikës 6, të këtij kreu, nëse subjekti raportues nuk plotëson të metat që pengojnë regjistrimin, në rastin e një kërkese të paraqitur sipas pikës 2, të kreut II, të këtij vendimi;
+
+ç) jo më vonë se 2 (dy) ditë pune pas paraqitjes së kërkesës, nëse të dhënat që kërkohen të regjistrohen janë të ndryshme nga të dhënat e regjistrueshme, sipas dispozitave të ligjit për regjistrin e pronarëve përfitues.
+
+	9. Me refuzimin e një kërkese, subjektet raportuese kanë të drejtë të riaplikojnë, sipas ligjit dhe këtij vendimi, paraqitja e së cilës trajtohet si kërkesë e re. Paraqitja e një kërkesë të re nuk çliron subjektin raportues nga sanksionet e parashikuara sipas ligjit për regjistrin e pronarëve përfitues, në lidhje me moskryerjen e regjistrimeve të detyrueshme brenda afateve ligjore.
 
 V. MËNYRA DHE AFATET E NJOFTIMIT NGA AUTORITETET SHTETËRORE KOMPETENTE, SI DHE MËNYRA E PËRDITËSIMIT APO E NDRYSHIMIT TË TË DHËNAVE NGA QENDRA KOMBËTARE E BIZNESIT
 
@@ -184,7 +202,7 @@ b) konfirmimin në regjistër të të dhënave për pronarët e tyre përfitues,
 
 VII. DISPOZITA PËR NJOFTIMIN E VENDIMEVE
 
-1. Çdo vendim i QKB-së në lidhje me miratimin apo refuzimin e një kërkese njoftohet nëpërmjet publikimit në regjistër. Data e njoftimit është data e publikimit në regjistër.
+1. Çdo vendim i QKB-së në lidhje me miratimin, pezullimin apo refuzimin e një kërkese njoftohet nëpërmjet publikimit në regjistër. Data e njoftimit është data e publikimit në regjistër. Në rastin e një kërkese për regjistrimin fillestar të pronarëve përfitues nga subjektet raportuese, që regjistrohen në regjistrin tregtar, njoftimi bëhet nga QKB-ja, në përputhje me parashikimet e legjislacionit në fuqi që rregullon procedurat e regjistrimit në regjistrin tregtar.
 
 2. Gjithashtu, vendimi i publikuar sipas pikës 1, të këtij kreu, i njoftohet me shkrim personit të autorizuar për të përfaqësuar subjektin raportues, edhe në adresën e postës elektronike të deklaruar në sportelin elektronik, pranë portalit unik të shërbimeve qeveritare e-Albania. 
 
@@ -217,6 +235,24 @@ d) lloji dhe përqindja e pronësisë:
 3. Nëse personi i interesuar dëshiron të marrë ekstrakte në format shkresor, duhet të paraqesë një kërkesë me shkrim, sipas formatit të miratuar nga ministri përgjegjës në fushën e ekonomisë, shoqëruar me mandatpagesën e tarifës përkatëse. QKB-ja, pas vlerësimit të kërkesës, lëshon ekstraktin në format shkresor, brenda 5 (pesë) ditëve nga data e paraqitjes së kërkesës.
 
 4. Ekstraktet lëshohen sipas formatit të miratuar nga ministri përgjegjës në fushën e ekonomisë, me propozimin e titullarit të QKB-së. 
+
+     IX. DISPOZITA TRANSITORE
+
+1. Regjistrimi fillestar i të dhënave për pronarët përfitues nga subjektet raportuese ekzistuese, të regjistruara në regjistrin tregtar me pronësi direkte, kryhet sipas pikave 2–5, të këtij kreu.
+
+2. QKB-ja identifikon subjektet raportuese ekzistuese të regjistruara në regjistrin tregtar me pronësi direkte, të cilat, në datën e hyrjes në fuqi të ligjit nr. 6/2022, “Për disa ndryshime dhe shtesa në ligjin nr. 112/2020, ‘Për regjistrin e pronarëve përfitues’”, të ndryshuar, nuk kanë përmbushur detyrimin për regjistrimin fillestar të pronarëve të tyre përfitues.
+
+3. QKB-ja, në bashkëpunim me Agjencinë Kombëtare për Shoqërinë e Informacionit, brenda datës 30.6.2022, transferon nga baza e të dhënave ekzistuese në Regjistrin Tregtar në regjistrin e pronarëve përfitues të dhënat e pronarëve përfitues që identifikohen sipas përcaktimeve ligjore, në lidhje me subjektet e përcaktuara sipas pikës 2 të këtij kreu.
+
+4. Detyrimi për regjistrimin fillestar të pronarëve përfitues nga subjektet e përcaktuara sipas pikës 2, të këtij kreu, quhet i përmbushur në datën e transferimit në regjistrin e pronarëve përfitues të të dhënave të pronarëve të tyre përfitues sipas pikës 3 të këtij kreu.
+
+5. Subjektet e përcaktuara sipas pikës 2, të këtij kreu, kanë të drejtë të përditësojnë të dhënat e pronarëve të tyre përfitues, që janë transferuar në regjistrin e pronarëve përfitues sipas pikës 3 të këtij kreu, duke paraqitur kërkesë sipas parashikimeve të kreut II, të këtij vendimi. Në lidhje me kërkesën e paraqitur nga këto subjekte për herë të parë, pas transferimit të të dhënave në regjistrin e pronarëve përfitues, nuk zbatohen kundërvajtje administrative.
+
+6. Subjektet raportuese, të regjistruara në Regjistrin Tregtar me pronësi indirekte, si dhe subjektet raportuese të regjistruara në Regjistrin e Organizatave Jofitimprurëse, të cilat, në datën e hyrjes në fuqi të ligjit nr. 6/2022, “Për disa ndryshime dhe shtesa në ligjin nr. 112/2020, ‘Për regjistrin e pronarëve përfitues’”, të ndryshuar, nuk kanë përmbushur detyrimin për regjistrimin fillestar apo për regjistrimin e ndryshimeve të të dhënave të pronarëve të tyre përfitues, duhet t’i përmbushin këto detyrime brenda datës 30.6.2022, duke paraqitur kërkesë, në përputhje me parashikimet e kreut II, të këtij vendimi.
+
+7. Ndaj subjekteve raportuese, që, brenda datës 30.6.2022, nuk përmbushin detyrimet sipas pikës 6, të këtij kreu, QKB-ja zbaton gjobën e parashikuar nga pika 4, e nenit 15/1, të ligjit nr. 112/2020, “Për regjistrin e pronarëve përfitues”, të ndryshuar.
+
+8. Subjektet raportuese ekzistuese, të regjistruara në Regjistrin Tregtar me pronësi indirekte, si dhe ato të regjistruara në Regjistrin e Organizatave Jofitimprurëse ekzistuese, që rezultojnë me status të pezulluar, regjistrojnë pronarin përfitues në regjistrin e pronarëve përfitues, përpara kërkesës për ndryshimin e statusit të tyre në Regjistrin Tregtar apo në Regjistrin e Organizatave Jofitimprurëse ekzistuese. Ndryshimi i statusit të këtyre subjekteve raportuese ekzistuese në Regjistrin Tregtar apo në Regjistrin e Organizatave Jofitimprurëse bëhet pas verifikimit të kryerjes së regjistrimit të pronarit përfitues në regjistrin e pronarëve përfitues.
 
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
 
