@@ -1,0 +1,4 @@
+# Neni 6
+Publikimi i thirrjes për paraqitjen e shprehjeve të interesit
+1. Thirrja për paraqitjen e shprehjeve të interesit për anëtarë të komisioneve të posaçme për provimin e kualifikimit për çdo gjuhë të huaj dhe për anëtar të komisionit të posaçëm për provimin e kualifikimit për intrepret të gjuhës së shenjave shqipe publikohet në Buletinin e Njoftimeve Zyrtare dhe në faqen zyrtare të internetit të Ministrisë së Drejtësisë 90 ditë përpara datës së provimit të kualifikimit të përcaktuar në urdhrin e ministrit të Drejtësisë.
+2. Kur provimi i kualifikimit zhvillohet përpara afatit 2-vjeçar, thirrja për paraqitjen e shprehjeve të interesit publikohet në Buletinin e Njoftimeve Zyrtare dhe në faqen zyrtare të internetit të Ministrisë së Drejtësisë dhe qëndron e hapur për 60 ditë nga data e publikimit.
