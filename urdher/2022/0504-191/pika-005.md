@@ -1,0 +1,1 @@
+5. Çdo ndryshim i adresës zyrtare të postës elektronike i njoftohet strukturës përgjegjëse në Ministrinë e Drejtësisë, me shkresë dhe në rrugë elektronike, brenda dy ditëve nga kryerja e këtij ndryshimi.

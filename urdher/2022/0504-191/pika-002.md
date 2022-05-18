@@ -1,0 +1,1 @@
+2. Adresa zyrtare e postës elektronike mund të përdoret nga Ministria e Drejtësisë, autoritetet e tjera publike dhe organet proceduese për komunikimin me përkthyesin zyrtar dhe interpretin e gjuhës së shenjave.

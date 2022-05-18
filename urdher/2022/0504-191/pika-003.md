@@ -1,0 +1,1 @@
+3. Përkthyesi zyrtar ose interpreti i gjuhës së shenjave, ose kur përkthyesit janë të organizuar në zyra përkthimi, zyra e përkthimit, e regjistron këtë të dhënë dhe çdo ndryshim të saj në regjistrin tregtar, sipas parashikimeve të legjislacionit përkatës.

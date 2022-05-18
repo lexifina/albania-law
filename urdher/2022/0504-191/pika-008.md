@@ -1,0 +1,1 @@
+8. Ngarkohen përkthyesit zyrtarë, interpretët e gjuhës së shenjave, Drejtoria e Monitorimit të Profesioneve të Lira dhe Drejtoria për Marrëdhëniet Juridiksionale dhe Bashkëpunimin Ndërgjyqësor në Ministrinë e Drejtësisë për ndjekjen dhe zbatimin e këtij urdhri.

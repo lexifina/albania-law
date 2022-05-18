@@ -1,0 +1,1 @@
+4. Kur Ministria e Drejtësisë, autoritetet e tjera publike dhe organet proceduese dërgojnë njoftime ose çdo lloj komunikimi në adresën zyrtare të postës elektronike të njoftuar, konsiderohet se njoftimi ose komunikimi është kryer.

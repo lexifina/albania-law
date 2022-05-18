@@ -1,0 +1,1 @@
+6. Në rast se përkthyesi zyrtar ose interpretit të gjuhës së shenjave nuk njofton ndryshimin e adresës zyrtare të postës elektronike, sipas parashikimit të pikës 5 të këtij urdhri, çdo njoftim ose komunikim që kryhet në adresën e njoftuar më parë prej tij, konsiderohet si i kryer, kur është dërguar në adresën e mëparshme.

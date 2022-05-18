@@ -1,0 +1,1 @@
+7. Çdo përkthyes zyrtar dhe interpret i gjuhës së shenjave, merr masa për zbatimin e këtij urdhri dhe njofton në Ministrinë e Drejtësisë, me shkresë dhe në rrugë elektronike, adresën zyrtare të postës elektronike, brenda 10 ditëve nga hyrja në fuqi e këtij urdhri.
