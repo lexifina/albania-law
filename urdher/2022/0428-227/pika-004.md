@@ -1,0 +1,2 @@
+4. Ngarkohen për zbatimin e këtij urdhri, Ministria e Arsimit dhe Sportit, Ministria e Financave dhe Ekonomisë, Qendra e Shërbimeve Arsimore, Agjencia Kombëtare e Arsimit, Formimit Profesional dhe Kualifikimeve, Drejtoria e Përgjithshme e Arsimit Parauniversitar, drejtoritë rajonale të arsimit parauniversitar, zyrat vendore të arsimit parauniversitar dhe të gjitha institucionet arsimore të sistemit arsimor parauniversitar.
+Ky urdhër hyn në fuqi pas botimit në Fletoren Zyrtare.
