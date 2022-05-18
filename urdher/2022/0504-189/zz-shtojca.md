@@ -1,0 +1,11 @@
+# Shtojca
+SHTOJCË
+DEKLRATA E PËRKTHYESIT ZYRTAR
+Data ___.___._____
+Unë, __________________________________, përkthyes zyrtar për gjuhën __________________________, i certifikuar nga Ministria e Drejtësisë me nr._____ datë ____.____.______ dhe regjistruar në Regjistrin Elektronik të Përkthyesve Zyrtarë me nr. ________, deklaroj se, kam përkthyer:
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________, nga gjuha e burimit ________________________ në gjuhën _______________________, me saktësi, kujdesin e duhur dhe me përgjegjësi ligjore, duke ruajtur plotësisht kuptimin e fjalisë dhe përmbajtjen e tij/saj.
+________________________________________ _______________
+Emri, mbiemri dhe nënshkrimi Vula
+Adresa postare: ______________________________________
+Adresa elektronike: ______________________________________
+Numri i kontaktit: ____________________
