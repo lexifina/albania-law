@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim përcaktimin e rregullave, procedurave dhe kritereve për pajisjen me certifikatë të ekspertëve në fushën e pyjeve dhe kullotave, në përputhje me veprimtaritë që kërkojnë shërbimin e ekspertizës profesionale në pyje dhe kullota.

@@ -1,0 +1,1 @@
+5. Tarifa e aplikimit për pajisjen me certifikatën e ekspertit në pyje është 2 000 (dy mijë) lekë. Kjo tarifë depozitohet në llogarinë e ministrisë përgjegjëse për pyjet dhe kullotat, në degën e thesarit ose/dhe elektronikisht përmes platformës qeveritare të pagesave elektronike. Të ardhurat e përfituara prej tyre derdhen në buxhetin e shtetit.

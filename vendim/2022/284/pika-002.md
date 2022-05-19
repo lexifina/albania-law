@@ -1,0 +1,1 @@
+2. Pajisja me certifikatën e ekspertit në fushën e pyjeve është e detyrueshme për çdo individ, që kërkon të ushtrojë ekspertizë profesionale për veprimtari të tilla, si supervizimi, studimi, projektimi dhe zbatimi për investimet në pyje dhe kullota në Republikën e Shqipërisë me fonde publike e private.

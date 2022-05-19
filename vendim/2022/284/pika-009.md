@@ -1,0 +1,1 @@
+9. Struktura përgjegjëse për pyjet dhe kullotat në ministri njofton nëpërmjet portalit qeveritar “e-Albania” brenda 3 (tre) ditëve kërkuesin për urdhrin e ministrit me objekt shfuqizimin e certifikatës dhe arsyet shfuqizimit, si dhe përditëson regjistrin e ekspertëve të pyjeve, të publikuar në faqen zyrtare të ministrisë.
