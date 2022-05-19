@@ -1,2 +1,0 @@
-3. Urdhri i ministrit nr. 68, datë 10.6.2011 “Për miratimin e rregullores për raportimin e ngjarjeve në aviacionin civil” dhe urdhri i ministrit nr. 123, datë 22.12.2011 “Për miratimin e rregullores për integrimin në një bazë qendrore të informacionit për ngjarjet në aviacionin civil dhe shpërndarjen e këtij informacioni te palët e interesuara” shfuqizohen.
-Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
