@@ -1,0 +1,1 @@
+2. Fushat e arsimit dhe trajnimit të KSNA 2013 (KSNA-F 2013) dhe përshkrimet e tyre të detajuara, miratuar nga Komisioni Kombëtar për Nomenklaturën, janë përkatësisht sipas lidhjeve nr. 2 dhe nr. 3, që i bashkëlidhen këtij vendimi.

@@ -1,0 +1,1 @@
+3. Klasifikimi Standard Ndërkombëtar i Arsimit KSNA 2011 (ISCED 2011), fushat e arsimit dhe trajnimit të KSNA-së (KSNA-F 2013) dhe përshkrimet e tyre të detajuara zbatohen për unifikimin e sistemit arsimor në Republikën e Shqipërisë në drejtim të klasifikimit e të publikimit të të dhënave statistikore zyrtare për nivelet dhe fushat e arsimit.

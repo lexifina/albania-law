@@ -1,0 +1,1 @@
+1. Miratimin e zbatimit të Klasifikimit Standard Ndërkombëtar të Arsimit KSNA 2011 (ISCED 2011), miratuar nga Komisioni Kombëtar për Nomenklaturën, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi.
