@@ -1,0 +1,1 @@
+3. Pas publikimit të shpalljes së interesit, për hartues të testeve të provimeve kombëtare dhe vlerësues të testeve të provimeve të Maturës Shtetërore, në adresën elektronike zyrtare të QSHA, secili kandidati i interesuar plotëson formularin e aplikimit dhe dërgon zyrtarisht në QSHA dokumentacionin e kërkuar.

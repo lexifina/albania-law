@@ -1,0 +1,1 @@
+9. Të gjithë vlerësuesit e testeve të maturës shtetërore, të cilët janë pajisur me certifikatë nga QSHA-ja, kanë të drejtë të përfshihen në vlerësimin e testeve të maturës shtetërore. Numri i tyre do të përcaktohet në varësi të nevojave të QSHA-së.

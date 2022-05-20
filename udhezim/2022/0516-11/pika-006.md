@@ -1,0 +1,1 @@
+6. Kandidati për hartues i testeve të provimeve kombëtare dhe vlerësues i testeve të provimeve të Maturës Shtetërore, pas përfundimit të programit të trajnimit i nënshtrohet provimit me test, të hartuar nga QSHA-ja. Nëse rezulton kalues në provim, pajiset me certifikatën përkatëse.
