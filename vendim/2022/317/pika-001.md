@@ -1,0 +1,1 @@
+1. Caktimin e ditës së mërkurë, datë 25.5.2022, ditë pushimi për punonjësit e administratë shtetërore, të institucioneve me seli në qarkun e Tiranës, me përjashtim të Policisë së Shtetit, Gardës së Republikës, shërbimit zjarrfikës, dhe punonjësve të sistemit shëndetësor.
