@@ -1,0 +1,1 @@
+1. Caktimin e Autoritetit Kombëtar të Ushqimit si institucioni përgjegjës për mbikëqyrjen dhe kontrollin e prodhimit, importimit, eksportimit, ruajtjes, tregtimit dhe përdorimit të produkteve plehëruese.
