@@ -1,1 +1,1 @@
-1. Përdorimin e fondit të rindërtimit, në masën 190 601 138 (njëqind e nëntëdhjetë milionë e gjashtëqind e një mijë e njëqind e tridhjetë e tetë) lekë pa TVSH, për financimin e rindërtimit të objektit social-kulturor, Pallati i Kulturës, Bashkia Shijak.
+1. Përdorimin e fondit të rindërtimit, në masën 192 687 839 (njëqind e nëntëdhjetë e dy milionë e gjashtëqind e tetëdhjetë e shtatë mijë e tetëqind e tridhjetë e nëntë) lekë pa TVSH, për financimin e rindërtimit, mbikëqyrjes dhe kolaudimit të objektit social-kulturor, Pallati i Kulturës, Bashkia Shijak.
