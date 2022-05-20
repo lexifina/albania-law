@@ -95,3 +95,17 @@ Komisioni Kombëtar për Azilin dhe Refugjatët
 4
 10,000
 10,000
+TABELA
+Emërtesa e Bordit/Këshillit/Komisionit
+Numri maksimal i pagesave për një vit
+Përbërja
+Masa e shpërblimit
+në lekë
+Këshilli Drejtues i Autoritetit Rregullator Hekurudhor
+10
+Kryetari
+Nr. i anëtarëve
+15,000
+10,000
+1
+4
