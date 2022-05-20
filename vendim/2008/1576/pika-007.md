@@ -1,1 +1,0 @@
-7. Ministri i Ekonomisë, Tregtisë dhe Energjetikës miraton planin vjetor të punës, planin ekonomiko-financiar të Drejtorisë së Përgjithshme të Metrologjisë dhe informohet sistematikisht për zbatimin e detyrave në Drejtorinë e Përgjithshme të Metrologjisë.

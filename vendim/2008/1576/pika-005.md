@@ -1,1 +1,0 @@
-5. Drejtoria e Përgjithshme e Metrologjisë harton rregulloren e vet të funksionimit, e cila miratohet nga Ministri i Ekonomisë, Tregtisë dhe Energjetikës, ku përcaktohen të drejtat, detyrat dhe përshkrimi i vendit të punës të çdo hallke dhe të çdo funksioni, në veçanti.
