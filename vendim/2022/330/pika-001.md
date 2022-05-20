@@ -1,0 +1,1 @@
+1. Ministrisë së Arsimit dhe Sportit, në buxhetin e miratuar për vitin 2022, në zërin “Shpenzime korrente”, në artikullin 604 “Të tjera transferta korrente të brendshme”, të programit buxhetor “Zhvillimi i sportit”, i shtohet fondi prej 160 000 000 (njëqind e gjashtëdhjetë milionë) lekësh, për financimin e veprimtarisë së federatave sportive dhe shpërblimin e sportistëve elitarë.
