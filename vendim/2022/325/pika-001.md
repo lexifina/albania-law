@@ -1,0 +1,1 @@
+1. Organizimin dhe funksionimin e Drejtorisë së Përgjithshme të Metrologjisë (në vijim “DPM”) si person juridik publik buxhetor, i specializuar për metrologjinë, në varësi të ministrit përgjegjës për ekonominë (në vijim “ministri”), me seli në Tiranë.

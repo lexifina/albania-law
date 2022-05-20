@@ -1,0 +1,1 @@
+3. DPM-ja, si institucioni kombëtar shtetëror për metrologjinë në Republikën e Shqipërisë, ka si mision të sigurojë rregullimin e sistemit kombëtar të metrologjisë në Shqipëri dhe të kërkesave për të kryer veprimtaritë në metrologjinë shkencore, industriale dhe atë ligjore.

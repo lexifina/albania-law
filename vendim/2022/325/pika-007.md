@@ -1,0 +1,1 @@
+7. DPM-ja ka stemën, logon dhe vulën zyrtare. Stema e DPM-së ka shënimet “Republika e Shqipërisë, Ministria (emri i ministrisë përgjegjëse), Drejtoria e Përgjithshme e Metrologjisë”, në përputhje me përcaktimin e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.
