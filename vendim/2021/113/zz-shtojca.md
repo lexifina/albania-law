@@ -227,28 +227,22 @@ Peshq
 ZPA_SAR_F01_01
 5
 2000
-Tabela 2: Koordinatat e ZPA_SAR_F01_01
+Tabela 2. Koordinatat e ZPA_SAR_F01_01
 Gjerësia gjeografike
 Gjatësia gjeografike
 1
-39°53’27.84”N
-19°53’35.61”E
+39°57’59.57”N
+19°52’0.19”E
 2
-39°53’31.09”N
-19°55’50.45”E
+39°58’16.25”N
+19°52’49.27”E
 3
-39°52’31.09”N
-19°55’51.47”E
+39°56’20.97”N
+19°53’47.91”E
 4
-39°52’29.91”N
-19°54’51.65”E
-5
-39°52’46.46”N
-19°54’50.64”E
-6
-39°52’45.67”N
-19°53’34.89”E
-Figura 1: Identifikimi i kategorisë 01 të ZPA - peshqit në zonën e Sarandës
+39°56’02.59”N
+19°52’59.32”E
+Figura nr. 1. Identifikimi i kategorisë 01 të ZPA - peshqit në zonën e Sarandës
 2. SEKSIONI II
 2.1 Hyrje
 Seksioni II paraqet informacionin bazë mbi të cilin është mbështetur përzgjedhja e ZPA-ve të sipërpërmendura në Shqipëri.
