@@ -1,0 +1,5 @@
+# Neni 6
+Masa e kompensimit të shtesës së kontratës
+1. Kompensimi i secilit prej operatorëve ekonomikë që përmbushin kriteret e këtij akti normativ, sipas përcaktimeve të bëra në nenin 2, të këtij akti normativ, bëhet në masën nga 5% deri në 30% të vlerës që zënë materialet e hekurit, bitumit, çimentos, tubave plastikë, aluminit, bakrit dhe zinkut në kontratat publike respektive. Në çdo rast, vlera e kompensimit nuk tejkalon masën nga 5% deri në 30% të vlerës të materialeve të përmendura.
+2. Shtesa e kontratës sipas kompensimit të materialeve sipas pikës 1, të këtij neni, nuk do të konsiderohet si shtesë kontrate, sipas legjislacionit në fuqi për prokurimin publik dhe të procesit të rindërtimit.
+3. Në rast se operatori ekonomik nuk bie dakord me vlerën e vendosur të kompensimit nga autoriteti kontraktor, kontrata ndërmjet palëve zgjidhet dhe rihapet një procedurë e re prokurimi për realizimin e punimeve të papërfunduara. Gjithashtu, ndaj operatorit ekonomik merret masa e përjashtimit nga procedurat e përfitimit të kontratave publike për një periudhë 3-vjeçare nga Agjencia e Prokurimit Publik.
