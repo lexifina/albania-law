@@ -1,0 +1,1 @@
+11. Ngarkohet për zbatimin e këtij udhëzimi, Drejtoria e Përgjithshme e Shërbimit të MZSH-së, Drejtoria e Miradministrimit të Burimeve Njerëzore dhe Shërbimeve, si dhe Njësitë e Qeverisjes Vendore që kanë strukturat përkatëse të këtij shërbimi.

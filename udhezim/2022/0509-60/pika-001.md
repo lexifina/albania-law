@@ -1,0 +1,1 @@
+1. Ngritjen e Komisioneve të Vlerësimit të Gradave për strukturat e shërbimit të mbrojtjes nga zjarri dhe shpëtimin në nivel qendror për punonjësit e nivelit të lartë, të mesëm, si dhe në nivel vendor për punonjësit e nivelit bazë.

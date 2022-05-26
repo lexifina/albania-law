@@ -1,0 +1,1 @@
+10. Ankimi i punonjësve të shërbimit të MZSH-së, mbi propozimin e Komisionit të Vlerësimit të Gradave, trajtohet rast pas rasti, në përputhje me parashikimet e kreut II, të ligjit nr. 44/2015 “Kodi i Procedurave Administrative në Republikën e Shqipërisë”.

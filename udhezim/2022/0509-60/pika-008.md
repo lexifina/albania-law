@@ -1,0 +1,1 @@
+8. Anëtarët e Komisionit të Vlerësimit të Gradave nuk mund të vlerësojnë dhe të trajtojnë një kërkesë nëse ekziston një nga shkaqet e parashikuara në ligjin nr. 9367, datë 7.4.2005 “Mbi parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike”, i ndryshuar, dhe neneve 30 dhe 31, të ligjit nr. 44/2015 “Kodi i Procedurave Administrative në RSH”.
