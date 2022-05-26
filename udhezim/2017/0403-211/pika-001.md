@@ -1,1 +1,0 @@
-1. Ngritjen e komisioneve të vlerësimit të gradave, për strukturat e shërbimit të mbrojtjes nga zjarri dhe shpëtimin në nivel qendror për punonjësit e nivelit të mesëm, të lartë dhe madhor dhe në nivel vendor për punonjësit e nivelit bazë.
