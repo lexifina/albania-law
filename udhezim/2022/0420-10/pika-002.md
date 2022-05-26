@@ -1,0 +1,1 @@
+2. Çdo kërkesë për marrjen e shërbimeve të parashikuara në pikën 1, bëhet vetëm nëpërmjet portalit unik të shërbimeve qeveritare e-Albania (në vijim portali e-Albania), nga qytetarët, bizneset apo institucionet.
