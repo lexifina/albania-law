@@ -1,0 +1,1 @@
+16. Vendimet e Komisionit Disiplinor merren me shumicën e votave të të gjithë anëtarëve. Abstenimi nuk lejohet. Kryetari i Komisionit voton i fundit. Anëtari në pakicë mund të kërkojë që të shënohet në procesverbal fakti dhe arsyet e votimit kundër një vendimi të marrë nga Komisioni.

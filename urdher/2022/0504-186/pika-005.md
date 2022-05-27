@@ -1,0 +1,1 @@
+5. Kryetari dhe anëtarët e Komisionit Disiplinor zgjidhen për një mandat 4-vjeçar, me të drejtë rizgjedhjeje vetëm një herë. Kryetari i Komisionit është një nga përfaqësuesit e caktuar nga ministri i Drejtësisë, në përputhje me pikën 2, të kreut II, të këtij urdhri.

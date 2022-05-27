@@ -1,0 +1,1 @@
+4. Përfaqësuesit në Komisionin Disiplinor caktohen nga strukturat përgjegjëse që lidhen me fushën e profesioneve të rregulluara dhe të pasurive të paluajtshme, në përputhje me fushën e përgjegjësisë respektive.

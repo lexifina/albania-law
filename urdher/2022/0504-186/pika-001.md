@@ -1,0 +1,1 @@
+1. Objekti i urdhrit është përcaktimi i rregullave të hollësishme për kriteret, procedurat për përzgjedhjen e përfaqësuesve dhe funksionimin e Komisionit Disiplinor, mënyrën e ushtrimit të përgjegjësive prej tij dhe organizimin e procedimit disiplinor për ndërmjetësit e pasurive të paluajtshme.

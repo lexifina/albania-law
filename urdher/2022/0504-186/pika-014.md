@@ -1,0 +1,1 @@
+14. Marrja e vendimeve në mbledhjen e Komisionit Disiplinor bëhet me votim, i cili është individual dhe i hapur. Përjashtimisht, votimet që kanë të bëjnë me etikën, cilësitë ose sjelljet e subjektit të procedimit disiplinor merren me votim të fshehtë.

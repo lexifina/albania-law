@@ -1,0 +1,1 @@
+12. Komisioni Disiplinor merr vendim në lidhje me shtyrjen e seancave, pranueshmërinë e provave, zgjidhjen e çështjes, si dhe çdo çështje tjetër që e vlerëson të nevojshme ose të përshtatshme në trajtimin e çështjes.
