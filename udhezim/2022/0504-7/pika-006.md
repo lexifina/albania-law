@@ -1,0 +1,1 @@
+6. Kur kandidati nuk plotëson pasaktësitë brenda afatit të përcaktuar në pikën 5 të këtij udhëzimi dhe këto pasaktësi nuk mund të plotësohen nga vetë struktura përgjegjëse, kërkesa quhet se nuk është regjistruar dhe i kthehet kandidatit bashkë me aktet e tjera.

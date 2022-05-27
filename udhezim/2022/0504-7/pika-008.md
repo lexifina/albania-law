@@ -1,0 +1,1 @@
+8. Në rastin e pikës 7 të këtij udhëzimi, ministri kërkon të dhëna, dokumente, fakte apo mjete të tjera të provës për përfshirjen e kandidatit për ndërmjetës në veprimtarinë e paligjshme të personit të lidhur nga çdo organ publik, person fizik ose juridik që disponon të dhëna të vlefshme për qëllimet e verifikimit.

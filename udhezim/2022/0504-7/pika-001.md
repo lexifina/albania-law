@@ -1,0 +1,1 @@
+1. Përcaktimin e rregullave të hollësishme për njohjen e së drejtës së ushtrimit të profesionit në mënyrë të pavarur nga ndërmjetësi i huaj i pasurive të paluajtshme, si dhe të bashkëpunimit të tij me zyrat e ndërmjetësimit të pasurive të paluajtshme.

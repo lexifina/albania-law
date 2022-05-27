@@ -1,0 +1,1 @@
+7. Ndërmjetësit të huaj mund t’i refuzohet e drejta e ushtrimit në mënyrë të pavarur të profesionit në rast se dyshohet se personat e lidhur me të janë të dënuar me vendim të formës së prerë për veprat penale në fushën e pastrimit të parave, financimit të terrorizmit apo të armëve të shkatërrimit në masë.

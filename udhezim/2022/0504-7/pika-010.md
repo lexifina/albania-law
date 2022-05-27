@@ -1,0 +1,1 @@
+10. Regjistrimi pezullohet deri në marrjen e vendimit të formës së prerë të gjykatës, nëse kandidati në kohën e paraqitjes së kërkesës është i dyshuar, nën hetim apo në gjykim për një nga veprat penale të pastrimit të parave, financimit të terrorizmit apo armëve të shkatërrimit.
