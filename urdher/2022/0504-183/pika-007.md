@@ -1,0 +1,1 @@
+7. Regjistri manual numërtohet në çdo faqe dhe përmban përkatësisht 100 fletë (200 faqe) me letër format “A4”. Çdo fletë duhet të jetë e vulosur me vulën e Ministrisë së Drejtësisë. Numërtimi fillon me numrin 1 (një). Numrat në regjistër nuk mund të kenë fraksion, ato janë unike për çdo ndërmjetës të pasurive të paluajtshme.

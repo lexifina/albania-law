@@ -1,0 +1,1 @@
+5. Regjistri i ndërmjetësve të pasurive të paluajtshme ruhet, mirëmbahet dhe përditësohet në formën manuale (me shkrim) dhe atë elektronike (digjitale) nga personi i ngarkuar nga Sekretari i Përgjithshëm pranë Drejtorisë së Përgjithshme Rregullatore e Çështjeve të Drejtësisë.

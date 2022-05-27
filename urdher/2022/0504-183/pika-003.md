@@ -1,0 +1,1 @@
+3. Ministria e Drejtësisë publikon në faqen zyrtare të dhëna për ndërmjetësit e pasurive të paluajtshme të certifikuar për ushtrimin e veprimtarisë, si dhe për zyrat e ndërmjetësve të pasurive të paluajtshme, sipas formatit në shtojcën nr. 2, bashkëlidhur dhe pjesë përbërëse e këtij urdhri.

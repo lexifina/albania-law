@@ -1,0 +1,1 @@
+10. Shënimet në regjistër bëhen personalisht nga nëpunësi i ngarkuar i strukturës përgjegjëse nga Sekretari i Përgjithshëm, me shkrim dore, me bojë blu. Çdo faqe e regjistrit në krye emërtohet “Regjistër i Ndërmjetësve të Pasurive të Paluajtshme”.

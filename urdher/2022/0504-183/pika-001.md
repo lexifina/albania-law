@@ -1,0 +1,1 @@
+1. Regjistri i Ndërmjetësve të Pasurive të Paluajtshme ruhet, mirëmbahet dhe përditësohet në format të integruar manual dhe elektronik nga Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë, si strukturë përgjegjëse e Ministrisë së Drejtësisë, sipas modelit të përcaktuar në shtojcën nr. 1, bashkëlidhur këtij urdhri dhe pjesë përbërëse e tij.
