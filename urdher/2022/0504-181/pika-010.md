@@ -1,0 +1,1 @@
+10. Urdhri për fillimin e hetimit disiplinor ose arkivimin e ankesës i njoftohet ankuesit dhe ndërmjetësit të pasurive të paluajtshme ndaj të cilit kryhet hetimi, brenda 3 ditëve pune nga hyrja në fuqi e urdhrit sipas kësaj pike.

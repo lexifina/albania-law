@@ -1,0 +1,1 @@
+17. Ministri mund ta riçelë hetimin, në rast të daljes së provave rishtazi, pas kalimit të afateve të parashikuara në pikat 8 ose 19 të këtij urdhri, mbi bazën e shkaqeve të arsyeshme. Ky vendim i njoftohet ankuesit dhe ndërmjetësit të pasurive të paluajtshme.

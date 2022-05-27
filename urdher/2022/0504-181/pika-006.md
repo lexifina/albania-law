@@ -1,0 +1,1 @@
+6. Tërheqja e ankesës nuk sjell arkivimin e ankesës, nëse ministri vlerëson që pretendimi ka shkaqe të mjaftueshme për kryerjen e hetimit me iniciativën e tij, si dhe nuk sjell mbylljen e një hetimi të filluar.

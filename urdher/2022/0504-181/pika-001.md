@@ -1,0 +1,1 @@
+1. Miratimin e rregullave të hollësishme për procedurën e hetimit disiplinor të ndërmjetësit të pasurive të paluajtshme dhe formularit të ankesave, sipas shtojcës 1, bashkëlidhur dhe pjesë përbërëse e këtij urdhri.

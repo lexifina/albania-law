@@ -1,0 +1,1 @@
+16. Për shkak të kompleksitetit të çështjes, ministri mund ta zgjasë afatin e hetimit, të parashikuar në pikën 19 të këtij urdhri, në përputhje me dispozitat e Kodit të Procedurave Administrative. Ky vendim i njoftohet ankuesit dhe/ose ndërmjetësit.

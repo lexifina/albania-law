@@ -1,0 +1,1 @@
+5. Ministri shqyrton ankesat e paraqitura nga çdo person fizik ose juridik, përveç atyre që vijnë në mënyrë anonime. Ankuesi mund të kërkojë ruajtjen e konfidencialitetit, por kërkesa për ruajtje konfidencialiteti duhet të përcaktohet shprehimisht prej tij me shkrim. Ankesa paraqitet personalisht, me postë ose në rrugë elektronike.

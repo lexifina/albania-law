@@ -1,0 +1,1 @@
+13. Në rast se gjatë hetimit ngrihen dyshime të arsyeshme se një shkelje tjetër mund të ketë ndodhur, ministri urdhëron shtimin ose ndryshimin e objektit të hetimit dhe njofton ndërmjetësin e pasurive të paluajtshme në lidhje me këtë ndryshim të procesit të hetimit ndaj tij.

@@ -1,0 +1,1 @@
+19. Ministri, brenda 60 ditëve nga data e marrjes së vendimit për fillimin e hetimit disiplinor, i paraqet Komisionit Disiplinor raportin e hetimit së bashku me dosjen hetimore për fillimin e procedimit disiplinor, në të kundërt merr vendim për mbylljen e hetimit. Ky vendim i njoftohet ndërmjetësit të pasurive të paluajtshme dhe ankuesit në të njëjtën kohë.

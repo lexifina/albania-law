@@ -1,0 +1,1 @@
+2. Hetimi disiplinor ndaj ndërmjetësit fillon kryesisht ose me ankesë, bazuar në informacione prej të cilave lindin dyshime të arsyeshme mbi kryerjen e një shkelje disiplinore gjatë ushtrimit të veprimtarisë së ndërmjetësimit.

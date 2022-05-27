@@ -1,0 +1,1 @@
+3. Hetimi kryhet për veprime ose mosveprime të ndërmjetësit të pasurive të paluajtshme për të cilat ka dyshime të arsyeshme se janë në kundërshtim me ligjin apo që përbëjnë shërbime të papërshtatshme profesionale, në kundërshtim me legjislacionin në fuqi ose Kodin e Etikës Profesionale.
