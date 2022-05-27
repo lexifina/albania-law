@@ -1,0 +1,1 @@
+6. Procedura për verifikimin e kritereve ligjore të subjekteve përfundon jo më vonë se 45 ditë nga data e paraqitjes së kërkesës. Ky afat mund të zgjatet nga struktura për arsye të vonesave të justifikuara, në përputhje me Kodin e Procedurave Administrative.

@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme të Parandalimit të Pastrimit të Parave jep informacion, brenda 30 ditëve nga data e marrjes së kërkesës nga Ministria e Drejtësisë, për ekzistencën e çdo informacioni për përfshirjen e subjekteve në pastrimin e parave, financimin e terrorizmit apo armëve të shkatërrimit në masë.

@@ -1,0 +1,1 @@
+4. Afati për paraqitjen e kërkesës për regjistrim në Regjistrin e Ndërmjetësve të Pasurive të Paluajtshme, të shoqëruar me dokumentacionin përkatës, sipas përcaktimit të pikave 2 dhe 3 të këtij urdhri, është deri më datë 9.9.2022.

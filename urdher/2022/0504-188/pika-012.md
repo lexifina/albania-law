@@ -1,0 +1,1 @@
+12. Për zbatimin e këtij urdhri ngarkohet struktura përgjegjëse për profesionet e lira në Ministrinë e Drejtësisë dhe subjektet që kërkojnë të regjistrohen në Regjistrin e Ndërmjetësve të Pasurive të Paluajtshme.

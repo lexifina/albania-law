@@ -1,0 +1,1 @@
+9. Kur kërkuesi nuk plotëson pasaktësitë brenda afatit, sipas pikës 8 të këtij urdhri, dhe këto pasaktësi nuk mund të plotësohen nga struktura përgjegjëse, kërkesa quhet se nuk është regjistruar dhe i kthehet atij bashkë me aktet e tjera.

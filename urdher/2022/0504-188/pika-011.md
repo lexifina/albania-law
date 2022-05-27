@@ -1,0 +1,1 @@
+11. Kur kërkuesi plotëson kriteret ligjore, ministri, brenda 60 ditëve nga data e paraqitjes së kërkesës, lëshon certifikatën përkatëse për ushtrimin e veprimtarisë së ndërmjetësimit për pasuritë e paluajtshme dhe i regjistron ato në Regjistrin e Ndërmjetësve të Pasurive të Paluajtshme.

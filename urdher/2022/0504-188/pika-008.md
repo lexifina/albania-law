@@ -1,0 +1,1 @@
+8. Gjatë shqyrtimit të kërkesës, struktura përgjegjëse për monitorimin e profesioneve të lira në Ministrinë e Drejtësisë mund të kërkojë nga kërkuesit plotësimin e dokumentacionit, nëse nuk paraqitet në përputhje me parashikimet e këtij urdhri. Afati për plotësimin e tij është 10 ditë.

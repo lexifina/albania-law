@@ -1,0 +1,1 @@
+5. Verifikimi i kritereve ligjore të subjekteve që kërkojnë të regjistrohen në Regjistrin e Ndërmjetësve të Pasurive të Paluajtshme kryhet nga struktura përgjegjëse për monitorimin e profesioneve të lira në Ministrinë e Drejtësisë.

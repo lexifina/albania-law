@@ -1,0 +1,3 @@
+3. Subjektet që kanë më pak se 12 muaj që ushtrojnë veprimtarinë e ndërmjetësimit të pasurive të paluajtshme, në momentin e hyrjes në fuqi të ligjit nr. 9/2022, “Për profesionin e ndërmjetësit të pasurive të paluajtshme”, përveç dokumenteve të përcaktuara në shkronjat “a”, “b”, “c”, “ç”, “dh”, “e”, “ë”, “f” dhe “g”, të pikës 2 të këtij urdhri, duhet të paraqesin edhe:
+a) dokument që vërteton se subjekti i interesuar për regjistrim ushtron profesionin për më pak se 12 muaj nga hyrja në fuqi e ligjit nr. 9/2022, “Për profesionin e ndërmjetësit të pasurive të paluajtshme”;
+b) vërtetim për përfundimin me sukses të programit të detyrueshëm të trajnimit.
