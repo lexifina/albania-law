@@ -1,0 +1,1 @@
+4. Kandidati për ndërmjetës të pasurive të paluajtshme paraqet shprehjen e interesit dhe dokumentacionin shoqërues, brenda 15 ditëve nga përfundimi i afatit të publikimit, të përcaktuar në pikën 3 të këtij urdhri.

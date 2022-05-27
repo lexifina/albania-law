@@ -1,0 +1,1 @@
+1. Përcaktimin e rregullave për paraqitjen, trajtimin e shprehjeve të interesit, si dhe verifikimin e plotësimit të kritereve ligjore të personave që kërkojnë të certifikohen si ndërmjetës të pasurive të paluajtshme.

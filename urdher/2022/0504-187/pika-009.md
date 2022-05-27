@@ -1,0 +1,1 @@
+9. Kandidatit të interesuar për ndërmjetës të pasurive të paluajtshme mund t’i refuzohet e drejta e marrjes së certifikatës, në rast se personat e lidhur me të janë të dënuar me vendim të formës së prerë për veprat penale në fushën e pastrimit të parave, financimit të terrorizmit apo të armëve të shkatërrimit në masë.

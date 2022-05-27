@@ -1,0 +1,1 @@
+2. Trajtimi i shprehjeve të interesit dhe verifikimi i kritereve ligjore të kandidatëve për ndërmjetës të pasurive të paluajtshme kryhet nga struktura përgjegjëse për monitorimin e profesioneve të lira në Ministrinë e Drejtësisë.

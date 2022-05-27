@@ -1,0 +1,1 @@
+3. Thirrja për shprehje interesi hapet të paktën 4 herë në vit dhe publikohet në faqen zyrtare të Ministrisë së Drejtësisë dhe në Buletinin e Njoftimeve Zyrtare të Republikës së Shqipërisë dhe qëndron e hapur për një periudhë prej 15 ditësh nga data e publikimit.

@@ -1,0 +1,1 @@
+7. Në qoftë se kërkesa e palës së interesuar për fillimin e procedurës administrative nuk është paraqitur në përputhje me kërkesat e këtij urdhri, struktura përgjegjëse për monitorimin e profesioneve të lira në Ministrinë e Drejtësisë njofton kërkuesin për plotësimin e pasaktësive. Afati për plotësimin e tyre është 5 ditë nga dita e marrjes së njoftimit.

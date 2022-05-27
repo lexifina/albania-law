@@ -1,0 +1,1 @@
+14. Ministri jep certifikatën brenda 60 ditëve nga data e paraqitjes së dokumentacionit të nevojshëm, që vërteton përmbushjen e kritereve ligjore për ndërmjetës të pasurive të pasurive të paluajtshme.
