@@ -1,0 +1,9 @@
+8. Vula e secilës degë thesari ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave për rregullat e prodhimit, të administrimit, kontrollit dhe ruajtjes së vulave zyrtare. Vula prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
+III. DISPOZITA KALIMTARE DHE TË FUNDIT
+1. Për nëpunësit civilë aktualë të Drejtorisë së Përgjithshme të Thesarit dhe degëve të saj zbatohen dispozitat e legjislacionit për nëpunësin civil në rastin e mbylljes dhe ristrukturimit të institucionit. Për punonjësit administrativë zbatohen dispozitat e Kodit të Punës.
+2. Deri në miratimin e strukturës e të organikës së Ministrisë së Financave dhe Ekonomisë dhe të degëve të thesarit, sipas këtij vendimi, struktura ekzistuese vazhdon funksionimin e saj sipas strukturës dhe organikës së miratuar.
+3. Ministri përgjegjës për financat, brenda një muaji nga hyrja në fuqi e këtij vendimi, përgatit e ndjek zbatimin e procedurave për miratimin e strukturës dhe të organikës së Ministrisë së Financave dhe Ekonomisë, përfshirë si pjesë përbërëse të saj njësinë përgjegjëse për thesarin, si dhe strukturën e organikën e degëve të thesarit.
+4. Numri i punonjësve dhe fondet e miratuara për Drejtorinë e Përgjithshme të Thesarit kalojnë në Ministrinë e Financave dhe Ekonomisë, ndërsa numri i punonjësve dhe fondet e miratuara për degët e thesarit kalojnë pranë këtyre të fundit, si degë territoriale të Ministrisë së Financave dhe Ekonomisë.
+5. Vendimi nr. 298, datë 23.5.2018, i Këshillit të Ministrave, “Për krijimin, organizimin dhe funksionimin e Drejtorisë së Përgjithshme të Thesarit”, shfuqizohet.
+6. Ngarkohen Ministria e Financave dhe Ekonomisë, Drejtoria e Përgjithshme e Thesarit, degët e thesarit dhe Departamenti i Administratës Publike për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

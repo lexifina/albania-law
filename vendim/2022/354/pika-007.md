@@ -1,0 +1,1 @@
+7. Degët e thesarit kanë stemat, logot dhe vulat e tyre zyrtare. Stema e secilës degë thesari ka shënimet “Republika e Shqipërisë, Ministria e Financave dhe Ekonomisë, Dega e Thesarit ...”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës.

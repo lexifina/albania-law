@@ -1,0 +1,1 @@
+6. Rregullorja për metodat e brendshme të punës dhe për sjelljen e personelit të çdo dege të thesarit miratohet nga ministri përgjegjës për financat, me propozimin e titullarit përkatës të degës, nëpërmjet njësisë përgjegjëse për thesarin në ministri.

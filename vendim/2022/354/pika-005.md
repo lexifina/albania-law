@@ -1,0 +1,1 @@
+5. Marrëdhëniet e punës së titullarëve të degëve të thesarit dhe nëpunësve të tyre rregullohen në bazë të dispozitave të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë rregullohen në bazë të dispozitave të Kodit të Punës.
