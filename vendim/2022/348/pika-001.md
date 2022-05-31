@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e standardeve dhe teknikave të çaktivizimit të armëve të zjarrit dhe pjesëve kryesore të tyre”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
