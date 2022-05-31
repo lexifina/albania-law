@@ -1,0 +1,5 @@
+VENDIM
+Nr. 349, datë 26.5.2022
+PËR MIRATIMIN E GARANCISË SHTETËRORE TË HUAS ME BANKAT TREGTARE PËR GARANTIMIN E HUAMARRJES SË SUBJEKTEVE, QË TREGTOJNË ME SHUMICË PRODUKTE USHQIMORE BAZË PËR TË MUNDËSUAR FINANCIMIN E NEVOJSHËM PËR MBAJTJEN E REZERVAVE, ME QËLLIM PËRBALLIMIN E SITUATËS SË VEÇANTË TË KRIJUAR NË TREG, SI DHE PËR PËRCAKTIMIN E KUSHTEVE DHE KRITEREVE TË MARRËVESHJES SË GARANCISË DHE MARRËVESHJES SË MIRËKUPTIMIT
+Në mbështetje të nenit 100 të Kushtetutës, të neneve 3 e 38, të ligjit nr. 9665, datë 18.12.2006, “Për huamarrjen shtetërore, borxhin shtetëror dhe garancitë shtetërore të huas në Republikën e Shqipërisë”, të ndryshuar, të nenit 57, të ligjit nr. 9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, të ndryshuar, dhe të pikës 2, të nenit 8, të aktit normativ nr. 7, datë 18.3.2022, të Këshillit të Ministrave, “Për transparencën dhe monitorimin e çmimit për disa produkte ushqimore bazë dhe produkte të tjera të lidhura me to si pasojë e situatës së veçantë të krijuar në treg”, të ndryshuar, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:

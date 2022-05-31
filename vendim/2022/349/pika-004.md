@@ -1,0 +1,1 @@
+4. Ministri i Financave dhe Ekonomisë mundëson, nëse rezulton e nevojshme, rialokimin e shumës së garancisë nga huadhënësi që nuk e ka ezauruar shumën e garancisë në favor të tij te huadhënësi, që e ka ezauruar atë plotësisht, duke ndryshuar për këtë qëllim edhe marrëveshjet e lidhura/nënshkruara të garancisë.

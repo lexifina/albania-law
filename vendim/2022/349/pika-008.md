@@ -1,0 +1,1 @@
+8. Ministri i Financave dhe Ekonomisë, me urdhër të posaçëm, mund të ngarkojë ndjekjen dhe administrimin e të dhënave të kësaj skeme garancie, duke përfshirë mbajtjen, përllogaritjen, rakordimin dhe raportimin e të dhënave nga punonjës të Agjencisë së Trajtimit të Kredive.
