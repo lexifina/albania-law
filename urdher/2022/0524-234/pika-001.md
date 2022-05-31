@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Drejtësisë te drejtori i përgjithshëm, z.Ergys Qirici për dërgimin me shërbim brenda vendit jashtë qendrës së punës, të punonjësve të Ndihmës Juridike Falas.
