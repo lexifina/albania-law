@@ -1,0 +1,1 @@
+5. Heqja dorë nga rekursi bëhet me shkrim, sipas rregullave të përcaktuara në legjislacionin procedural civil dhe administrativ, pasi organi administrativ ta ketë arsyetuar atë në bazë të një prej rasteve të parashikuara në dispozitat e këtij udhëzimi.

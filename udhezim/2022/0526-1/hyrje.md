@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 1, datë 26.5.2022
+PËR PËRCAKTIMIN E RREGULLAVE PËR HEQJEN DORË NGA REKURSET E DEPOZITUARA NGA ADMINISTRATA SHTETËRORE NËN PËRGJEGJËSINË E KËSHILLIT TË MINISTRAVE, TË PASHQYRTUARA NGA GJYKATA E LARTË, PËR DISA ÇËSHTJE ME NATYRË CIVILE DHE ADMINISTRATIVE
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 472 e vijues të Kodit të Procedurës Civile dhe të nenit 56 e vijues të ligjit nr. 49/2012, “Për gjykatat administrative dhe gjykimin e mosmarrëveshjeve administrative”, të ndryshuar, duke mbajtur në konsideratë stokun e çështjeve gjyqësore të prapambetura dhe numrin e lartë të çështjeve të reja që regjistrohen në Gjykatën e Lartë, ngarkesën e krijuar për shkak të numrit të vogël të gjyqtarëve efektivë në Gjykatën e Lartë, si dhe rëndësinë jetike të rritjes së eficiencës në sistemin e drejtësisë dhe zbatimin e plotë të reformës në drejtësi, si një nga objektivat dhe prioritetet madhore të Këshillit të Ministrave, me propozimin e ministrit të Drejtësisë, Këshilli i Ministrave
+UDHËZON:

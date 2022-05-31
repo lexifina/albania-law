@@ -1,0 +1,1 @@
+3. Rregullat e parashikuara në pikat 1 dhe 2, të këtij udhëzimi, zbatohen edhe nga shoqëritë tregtare me mbi 50% kapital shtetëror, aksionet ose kuotat e të cilave zotërohen nga institucionet e administratës shtetërore, nën përgjegjësinë e Këshillit të Ministrave.

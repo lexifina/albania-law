@@ -1,0 +1,1 @@
+4. Heqja dorë nga rekursi, sipas këtij udhëzimi, bëhet vetëm në rastet kur Gjykata e Lartë nuk ka vendosur pezullimin e ekzekutimit të vendimit të formës së prerë deri në momentin e hyrjes në fuqi të këtij udhëzimi.
