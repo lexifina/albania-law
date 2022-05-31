@@ -1,1 +1,0 @@
-12. Marrëdhëniet e punës të drejtorit të Përgjithshëm, të nëpunësve të Drejtorisë së Përgjithshme të Thesarit dhe të degëve të saj rregullohen në bazë të dispozitave të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë rregullohen në bazë të dispozitave të Kodit të Punës.

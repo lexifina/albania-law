@@ -1,1 +1,0 @@
-17. Numri i punonjësve dhe fondet e miratuara për Drejtorinë e Përgjithshme të Thesarit në Ministrinë e Financave dhe Ekonomisë dhe për degët e thesarit kalojnë në Drejtorinë e Përgjithshme të Thesarit sipas këtij vendimi.

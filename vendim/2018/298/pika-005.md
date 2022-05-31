@@ -1,1 +1,0 @@
-5. Vula e Drejtorisë së Përgjithshme të Thesarit dhe vula e secilës degë thesari ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave për rregullat e prodhimit, të administrimit, kontrollit dhe ruajtjes së vulave zyrtare. Vula prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.

@@ -1,1 +1,0 @@
-2. Misioni i Drejtorisë së Përgjithshme të Thesarit është sigurimi dhe realizimi i shërbimeve operacionale për qeverisjen e përgjithshme, që garanton paranë e gatshme për kryerjen e transaksioneve të pagesave.
