@@ -1,5 +1,0 @@
-10. Subjektet minerare, që aplikojnë për shtyrje afati për lejet e tyre minerare, duhet të paraqesin kërkesën e aplikimit pranë sporteleve të QKL-së.
-Kërkesa duhet të përmbajë një informacion të plotë për realizimin e detyrimeve të lejes së tyre minerare, në përputhje me kushtet e lejes dhe detyrimet sipas legjislacionit në fuqi, si dhe arsyet e shtyrjes së afatit të lejes.
-Strukturat përgjegjëse, sipas tipit të lejes, realizojnë brenda 30 (tridhjetë) ditëve kalendarike nga data e kërkesës, vlerësimin e kërkesës për shtyrje afati, duke vlerësuar në mënyrë dokumentare dhe në terren realizimin e detyrimeve nga zotëruesit e lejeve minerare dhe arsyet e shtyrjes së afatit dhe e paraqesin për miratim në ministri.
-Ministri, brenda një afati prej 60 (gjashtëdhjetë) ditëve kalendarike nga data e paraqitjes së dokumentacionit, nxjerr aktin e miratimit ose refuzimit të shtyrjes së afatit të një lejeje minerare, të cilin e dërgon në QKL.
-Të gjitha subjekteve, që, në respekt të legjislacionit të ri minerar, kanë aplikuar për zgjatje afati, deri në miratimin e këtij vendimi, u lind e drejta e riaplikimit pranë QKL-së.

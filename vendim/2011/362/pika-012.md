@@ -1,1 +1,0 @@
-12. Për rastet e parashikuara në pikat 10 dhe 11 të këtij vendimi, për zonën e lejuar minerare për të cilën kërkohet shtyrje në afat ose shndërrim i tipit të lejes, kërkuesi ka të drejtën ekskluzive për plotësimin e dokumentacionit përkatës për këtë zonë, sipas afateve kohore të përcaktuara në legjislacionin në fuqi.

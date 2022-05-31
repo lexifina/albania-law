@@ -1,1 +1,0 @@
-6. Vlerësimi i kushteve të transferimit dhe dokumentet vërtetuese për kërkesat për transferimin e një lejeje minerare realizohen nga drejtoria përkatëse në ministrinë që mbulon veprimtarinë minerare në Republikën e Shqipërisë. Kjo drejtori harton aktin e transferimit të lejes minerare, që miratohet nga ministri.
