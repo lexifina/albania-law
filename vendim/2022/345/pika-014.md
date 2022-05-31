@@ -1,0 +1,1 @@
+14. Ministritë e linjës, institucionet qendrore dhe njësitë e vetëqeverisjes vendore ushtrojnë të drejtat dhe detyrimet që kanë për Bazën e të Dhënave të Humbjeve nga Fatkeqësitë, nëpërmjet të paktën një përdoruesi me privilegjet përkatëse.

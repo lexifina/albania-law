@@ -1,0 +1,1 @@
+7. AKMC-ja, kur vlerëson se një subjekt privat, i cili, për shkak të veprimtarisë, zotëron informacion për një fatkeqësi apo është cenuar nga një fatkeqësi, kërkon zyrtarisht prej tij dhënien e informacionit.

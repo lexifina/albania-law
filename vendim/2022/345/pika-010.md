@@ -1,0 +1,1 @@
+10. Në rastet kur për shkaqe objektive informacioni i kërkuar është i pamundur të jepet brenda afatit 15-ditor, institucionet e tjera publike dhe subjektet private i kërkojnë AKMC-së shtyrjen e afatit të dhënies së informacionit, duke shpjeguar arsyet. Afati për dhënien e informacionit mund të shtyhet deri në 15 ditë, pas përfundimit të afatit 15-ditor.

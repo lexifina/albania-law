@@ -1,0 +1,1 @@
+8. Në kërkesën për informacion drejtuar institucioneve të tjera publike dhe subjekteve private, AKMC-ja duhet të përcaktojë qartësisht informacionin dhe të dhënat konkrete që kërkohen, formën dhe mënyrën e dhënies së informacionit.
