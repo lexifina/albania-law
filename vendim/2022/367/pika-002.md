@@ -1,0 +1,1 @@
+2. Përjashtohen nga zbatimi i këtij vendimi qeset plastike mbajtëse me trashësi për çdo anë 70 dhe më të madhe se 70 mikronë, me kapacitet mbajtës 10 dhe mbi 10 kilogramë, me përmasa 50 cm gjatësia dhe 24 cm gjerësia dhe më të mëdha se kaq, pa përfshirë gjerësinë e palosjeve.

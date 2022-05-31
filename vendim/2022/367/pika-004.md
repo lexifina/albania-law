@@ -1,0 +1,12 @@
+4. Agjencia Kombëtare e Mjedisit është institucioni përgjegjës për zbatimin e masave të hollësishme për ndalimin e prodhimit të qeseve plastike mbajtëse, si më poshtë vijon:
+a) organizon dhe zhvillon fushata ndërgjegjësuese mbi ndalimin e prodhimit, përdorimit, importit dhe futjes së qeseve plastike mbajtëse, qeseve plastike të oxo-degradueshme apo oxo-biodegradueshme, sipas përcaktimit të këtij vendimi;
+b) njofton menjëherë, nga data e hyrjes në fuqi të këtij vendimi, subjektet e pajisura me leje mjedisore për prodhimin e qeseve plastike, mbi ndalimin e prodhimit të qeseve plastike sipas parashikimeve të ligjit nr. 10463/2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar dhe kërkesave të këtij vendimi;
+c) inspekton dhe kontrollon subjektet që prodhojnë qese plastike për përmbushjen e kritereve të prodhimit, sipas përcaktimeve të pikës 1, të këtij vendimi;
+ç) në rastet kur subjektet nuk respektojnë kërkesat e parashikuara në pikën 1, të këtij vendimi, AKM-ja procedon me sekuestrimin dhe vendosjen e gjobës ndaj prodhuesve të qeseve plastike, sipas parashikimeve të pikës 25/1, të nenit 62, të ligjit nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar;
+d) merr masa për sigurimin e transportit dhe të ambienteve të përshtatshme për ruajtjen e përkohshme dhe magazinimin e qeseve plastike mbajtëse, qeseve plastike të oxo-degradueshme apo oxo-biodegradueshme, të cilat janë sekuestruar me vendim të strukturave përgjegjëse të inspektimit, sipas përcaktimeve të këtij vendimi;
+dh) merr masa deri në lidhjen e kontratës për vijimin e procedurës për riciklimin e sasisë së qeseve plastike të sekuestruara sipas legjislacionit në fuqi për mbetjet, kur vendimi për sekuestrimin e qeseve plastike ka marrë formë të prerë sipas legjislacionit në fuqi;
+e) krijon regjistër të dhënash, për:
+i. masat e marra ndaj subjekteve që prodhojnë qeset plastike mbajtëse dhe qese plastike të oxo-degradueshme dhe oxo-biodegradueshme;
+ii. të dhënat e raportuara nga Drejtoria e Përgjithshme e Doganave dhe Inspektorati Shtetëror i Mbikëqyrjes së Tregut për subjektet e inspektuara;
+iii. sasitë e sekuestruara të qeseve plastike mbajtëse dhe qese plastike të oxo-degradueshme dhe oxo-biodegradueshme nga subjektet që kryejnë importin, futjen dhe përdorimin në territorin e Republikes së Shqipërisë të qeseve plastike të ndaluara;
+iv. prodhuesit e qeseve plastike mbajtëse, qeseve të oxo-degradueshme dhe oxo- biodegradueshme dhe subjektet te të cilat tregtohen për qëllime përdorimi qeset e prodhuara.

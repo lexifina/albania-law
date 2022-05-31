@@ -1,0 +1,1 @@
+7. Personi/subjekti, që importon qese plastike, objekt të këtij vendimi, deklaron në degët doganore se qeset plastike mbajtëse dhe qeset plastike të oxo-degradueshme dhe oxo-biodegradueshme përmbajnë elementet sipas pikës 1, të këtij vendimi, dhe mban përgjegjësi për mosdeklarim apo deklarim të rremë sipas legjislacionit në fuqi.

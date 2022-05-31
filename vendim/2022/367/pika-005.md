@@ -1,0 +1,1 @@
+5. Agjencia Kombëtare e Mjedisit është institucioni përgjegjës për pajisjen e strukturës përgjegjëse për inspektimin në mjedis dhe asaj të mbikëqyrjes së tregjeve me mjete të certifikuara për verifikimin e parametrave të trashësisë së mureve të qeses plastike 70 mikronë për çdo anë.

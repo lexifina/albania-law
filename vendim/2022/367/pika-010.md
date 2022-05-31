@@ -1,0 +1,1 @@
+10. Të ardhurat e krijuara nga procesi i riciklimit të qeseve plastike të sekuestruara klasifikohen si të ardhura dytësore dhe përdoren nga Agjencia Kombëtare e Mjedisit sipas përcaktimeve të vendimit të Këshillit të Ministrave nr. 432, datë 28.6.2006, “Për krijimin dhe administrimin e të ardhurave që krijojnë institucionet buxhetore”.
