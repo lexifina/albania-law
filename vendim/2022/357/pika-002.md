@@ -1,0 +1,1 @@
+2. Lejet e tjera minerare, të dhëna sipas procedurave të ligjit nr. 7796, datë 17.2.1994, “Ligji minerar i Shqipërisë”, të ndryshuar, janë të transferueshme vetëm pas miratimit paraprak nga ministri përgjegjës për veprimtarinë minerare.

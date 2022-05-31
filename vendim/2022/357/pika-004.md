@@ -1,0 +1,1 @@
+4. Zotëruesi i lejes minerare paraqet në Qendrën Kombëtare të Biznes (QKB) dokumentacionin e plotë për transferimin e lejes minerare. QKB-ja, pas verifikimit të dokumentacionit, e përcjell atë pranë ministrisë përgjegjëse për veprimtarinë minerare.

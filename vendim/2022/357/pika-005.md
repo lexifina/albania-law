@@ -1,0 +1,5 @@
+5. Dokumentet për vlerësimin e përmbushjes së kritereve të transferimit, që duhet të plotësojnë kërkuesit për transferimin e një lejeje minerare, janë, si më poshtë vijon:
+a) kërkesa në QKB për transferimin e lejes minerare nga zotëruesi i lejes minerare, ku të jetë përcaktuar arsyeja/arsyet e transferimit;
+b) vendimi i asamblesë së ortakëve/asamblesë së përgjithshme të shoqërisë zotëruese të lejes minerare për transferimin e lejes minerare;
+c) vendimi për marrjen e lejes i asamblesë së ortakëve/asamblesë së përgjithshme të shoqërisë që kërkon t’i transferohet leja minerare;
+ç) aktmarrëveshja e nënshkruar përpara noterit ndërmjet dy shoqërive për transferimin e lejes minerare, ku të jetë përcaktuar që subjekti, i cili kërkon t’i transferohet leja minerare, pranon, së bashku me transferimin e lejes minerare, përgjegjësinë për të gjitha detyrimet kundrejt shtetit apo palëve të treta, të cilat rrjedhin nga leja minerare që transferohet, si dhe detyrimet, sipas përcaktimeve të ligjit nr. 10304, datë 15.7.2010, “Për sektorin minerar në Republikën e Shqipërisë”, të ndryshuar, dhe akteve nënligjore në zbatim të tij.

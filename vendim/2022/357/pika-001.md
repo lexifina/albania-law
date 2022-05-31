@@ -1,0 +1,1 @@
+1. Lejet minerare, të dhëna sipas procedurave konkurruese, janë të transferueshme pas një periudhe 5-vjeçare nga data e dhënies së lejes dhe me miratimin paraprak të ministrit përgjegjës për veprimtarinë minerare.
