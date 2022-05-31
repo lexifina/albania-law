@@ -1,1 +1,0 @@
-3. Vendimi nr. 1060, datë 14.12.2013, i Këshillit të Ministrave, “Për caktimin e numrit të përfaqësuesve të organizatave të punëmarrësve dhe të punëdhënësve në Këshillin Kombëtar të Punës”, shfuqizohet.
