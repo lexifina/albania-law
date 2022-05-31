@@ -1,0 +1,1 @@
+2. Regjistri elektronik i armëve të zjarrit, pjesëve kryesore të tyre dhe municioneve, në pronësi të personave fizikë dhe juridikë, krijohet mbi bazën e të dhënave të armëve, pjesëve kryesore të tyre, municioneve, si dhe të dhënave për personat fizikë dhe juridikë, që i kanë ato në pronësi.

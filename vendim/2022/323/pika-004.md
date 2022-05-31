@@ -1,0 +1,1 @@
+4. Regjistri elektronik i armëve të zjarrit, pjesëve kryesore të tyre dhe municioneve në pronësi të personave fizikë dhe juridikë është sipas formatit, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

@@ -1,0 +1,4 @@
+7. Regjistri elektronik i armëve të zjarrit, pjesëve kryesore të tyre dhe municioneve në pronësi të personave fizikë dhe juridikë menaxhohet nga Policia e Shtetit, duke garantuar, si vijon:
+a) organet përgjegjëse të Policisë së Shtetit janë subjekte, të cilat plotësojnë të dhënat në regjistër, sipas fushës së tyre të përgjegjësisë;
+b) organeve përgjegjëse të Policisë së Shtetit u garantohet aksesi për leximin e të dhënave, me qëllim përmbushjen e detyrave të tyre;
+c) organit të prokurorisë dhe gjykatës u garantohet aksesi për leximin e të dhënave në regjistrin elektronik të armëve të zjarrit, pjesëve kryesore të tyre dhe municioneve në pronësi të personave fizikë e juridikë. Aksesimi i të dhënave do të mundësohet duke përdorur lidhje VPN (Virtual Private Network) me rrjetin e Policisë së Shtetit.
