@@ -1,0 +1,5 @@
+# Neni 101
+Punimet dhe ndërhyrjet për riparime në depozita
+1. Për qëllime të pikës 3 të nenit 53 të ligjit, depozituesi i miratuar nuk duhet të ndërhyjë për të bërë riparime, zëvendësime dhe punime të tjera në rezervuarët (depozitat) e magazinës fiskale, të cilat kërkojnë heqjen e plumbçeve të vëna nga autoritetet doganore. Punimet e mësipërme bëhen pasi janë njoftuar, me shkrim, autoritetet doganore, pasi janë miratuar prej tyre dhe në prani të autoriteteve doganore.
+2. Depozituesi i miratuar nuk duhet të bëjë ndërhyrje për të ndryshuar formën apo kapacitetin e depozitave të magazinës fiskale, pa njoftuar me shkrim autoritetet doganore dhe më pas ta pajisë rezervuarin (depozitën), ku ka ndërhyrë, me një certifikatë rikapacitimi, të lëshuar nga Drejtoria e Përgjithshme e Metrologjisë.
+3. Nëse rezervuari (depozita) ka pësuar një aksident ose është dëmtuar, pas riparimit apo modifikimit të tij, duhet t’i bëhet një verifikim paraprak për t’u pajisur me një certifikatë rikapacitimi nga Drejtoria e Përgjithshme e Metrologjisë.

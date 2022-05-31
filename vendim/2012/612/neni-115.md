@@ -1,0 +1,6 @@
+# Neni 115
+Kushtet për kryerjen e denatyrimit të përgjithshëm
+1. Në një magazinë fiskale prodhimi (fabrikë alkooli), ambientet ku kryhet denatyrimi, vendet ku vendosen alkoolet e denatyruara, si dhe produktet e prodhuara me këto alkoole duhet të jenë krejtësisht të ndara nga ambientet ku janë vendosur pajisjet e distilimit apo të transformimit nga ato ku janë vendosur alkoolet e padenatyruara.
+2. Në një magazinë fiskale që nuk është fabrikë alkooli, ambientet ku kryhet denatyrimi dhe vendet ku janë vendosur alkoolet e denatyruara e produktet e prodhuara me këto alkoole duhet të komunikojnë vetëm me kalime publike me ambientet ku janë vendosur lambikët dhe me ato ku është vendosur alkooli i padenatyruar, i destinuar për shitje.
+3. Megjithatë, drejtori i Përgjithshëm i Doganave mund të autorizojë komunikimin ndryshe ndërmjet ambienteve ku kryhet denatyrimi dhe vendeve ku janë vendosur alkoolet e denatyruara dhe ambienteve ku është vendosur alkooli i padenatyruar, i destinuar për shitje, me kusht që këto ambiente të jenë krejtësisht të ndara nga njëra-tjetra.
+4. Nëse natyra e prodhimit kërkon përdorimin e pajisjeve të distilimit apo transformimit autoritetet doganore, në përputhje me kushtet e vendosura prej tyre, mund të autorizojnë instalimin e këtyre pajisjeve në ambientet ku kryhet denatyrimi ose ku kryhet magazinimi i alkooleve të denatyruara.

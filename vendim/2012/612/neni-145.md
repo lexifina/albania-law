@@ -1,0 +1,10 @@
+# Neni 145
+Modalitetet e vlerësimit (matjes) të alkoolit etilik
+1. Për qëllime të nenit 65 të ligjit, kontatorët, të cilët përdoren për vlerësimin e alkoolit etilik, janë të tipit volumetrik e janë të pajisur me marrës automatik për mbledhjen e kampionit, si dhe kanë një kapacitet të tillë që të sigurojnë funksionimin e vazhdueshëm për një periudhë të paktën prej 15 ditësh.
+2. Impianti i prodhimit është i pajisur me enë mbledhëse, montuar mbi një bosht dhe të kalibruar, me një kapacitet minimal të tillë që të lejojë stokimin e prodhimit, të paktën, për tri ditë dhe maksimalisht deri në një limit të përcaktuar nga autoritetet doganore, duke pasur parasysh kërkesat e sigurisë fiskale.
+3. Përcaktimi i volumit të mbledhur të alkoolit etilik bëhet, duke e korrigjuar atë për temperaturën 200C. Përcaktimi me anë të kontatorit volumetrik dhe ai me anë të enës mbledhëse (ky i fundit quhet përcaktim i drejtpërdrejtë) bëhet në prani të autoriteteve doganore dhe depozituesit të miratuar ose të përfaqësuesit të tij.
+4. Në rastin e impianteve që kanë kapacitet maksimal prodhimi jo më të lartë se 300 litra/orë, si titull alkoolometrik volumor i pajisjes matëse (kontatorit) do të pranohet mesatarja e ponderuar e gradacioneve përkatëse të përcaktimeve direkte, të cilave u referohet ky kontator.
+5. Impianti i prodhimit, kontatorët, marrësit automatikë të produktit dhe ena mbledhëse duhet të vulosen (me plumbçe ose me dryn) nga autoritetet doganore.
+6. Në rastin e defekteve të kontatorëve ose të prishjes së vulave të vendosura si për kontatorët, si për pjesët e tjera të aparatit të distilimit dhe në rastin e prishjes së aparatit të distilimit ose të pjesëve të tij, duhet të lajmërohen menjëherë autoritetet doganore.
+7. Nëse alkooli del nga aparati i distilimit para se të arrijë në enën mbledhëse ose del nga ena mbledhëse, duhet të pezullohet prodhimi.
+8. Nëse verifikohen humbje të alkoolit, përcaktimi duhet të bëhet në bazë të potencialit prodhues të impiantit ose mbi bazën e çdo elementi të domosdoshëm për vlerësimin e prodhimit.
