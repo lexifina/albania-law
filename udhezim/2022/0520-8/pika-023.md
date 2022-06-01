@@ -1,0 +1,2 @@
+23. Ngarkohet drejtoria përgjegjëse për politikat e peshkimit, drejtoria përgjegjëse për buxhetin dhe Agjencia për Zhvillim Bujqësor dhe Rural për përfshirjen e kostove të pranueshme të parashikuara në këtë udhëzim, në skemën e masave mbështetëse që financohen nga buxheti vjetor i programit për bujqësinë dhe zhvillimin rural, i alokuar për këtë qëllim.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
