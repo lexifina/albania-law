@@ -1,0 +1,1 @@
+1. Ngarkimin e znj. Daniel Pirushi për ushtrimin e detyrave të drejtorit të përgjithshëm të Agjencisë Kombëtare të Zonave të Mbrojtura (AKZM), krahas ushtrimit të detyrës aktuale të drejtorit të përgjithshëm të Drejtorisë së Përgjithshme të Politikave dhe zhvillimit të mjedisit, në Ministrinë e Turizmit dhe Mjedisit.
