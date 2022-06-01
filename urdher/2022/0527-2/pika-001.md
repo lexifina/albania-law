@@ -1,0 +1,1 @@
+1. Shpalljen e “Thirrjes së shtatë”, në kuadër të Programit Kombëtar të Praktikave të Punës, me mbështetjen e institucioneve të administratës shtetërore, në nivel qendror dhe vendor, institucioneve të tjera publike, njësive të vetëqeverisjes vendore, shoqërive tregtare dhe organizatave jofitimprurëse brenda muajit korrik 2022.
