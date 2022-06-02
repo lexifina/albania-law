@@ -1,0 +1,9 @@
+LIGJ
+Nr. 46/2022
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË AKTET
+DHE DOKUMENTET E KONGRESIT TË 26-të TË BASHKIMIT
+TË PËRBOTSHËM POSTAR, STAMBOLL 2016
+Në mbështetje të neneve 78, 83, pika 1, dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
