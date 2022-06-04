@@ -1,0 +1,24 @@
+# Neni 3
+Përkufizime
+Në kuptim të këtij ligji termat e mëposhtëm kanë këto kuptime:
+1. “Biznese të palistuara” janë sipërmarrjet individuale që ofrojnë kapital në shuma të vogla për bizneset, në këmbim të një pjese të aksioneve të tyre, për rastet kur bankat ose institucionet financiare nuk kanë interes të ndërveprojnë.
+2. “Fonde të zhvillimit” janë ato fonde që sigurojnë mbështetje financiare për zhvillimin e zonave në fusha të caktuara, të tilla si: investimet në kapacitetet e prodhimit, ndërtimi dhe modernizimi i infrastrukturës, si dhe investimet në fushën e kujdesit shëndetësor e të edukimit.
+3. “Fondi për zhvillimin e ndërmarrjeve NMVM” është fondi i krijuar nga buxheti i shtetit me qëllim zhvillimin e ndërmarrjeve NMVM.
+4. “Investimi i kapitalit të përbashkët” është përdorimi i kapitalit të përbashkët në ndërmarrjet mikro, të vogla dhe të mesme, në çastin e krijimit të tyre ose në fazën fillestare të zhvillimit të tyre.
+5. “Ndërmarrje” është çdo person fizik ose juridik, i regjistruar në regjistrin tregtar, i cili ushtron veprimtari ekonomike.
+6. NMVM-të janë ndërmarrjet mikro, të vogla dhe të mesme, që janë regjistruar në regjistrin tregtar, në të cilat me përjashtim të rasteve të përcaktuara në pikën 7 të këtij neni, organet publike direkt ose indirekt nuk mund të zotërojnë më shumë se 25% të kapitalit apo të të drejtave të votës. “Ndërmarrje të reja” janë ndërmarrjet mikro, të vogla e të mesme, të cilat janë regjistruar në regjistrin tregtar prej jo më shumë se 12 muajsh.
+7. “Ndërmarrje autonome” është çdo ndërmarrje, e cila e vetme ose bashkërisht me një ose më shumë ndërmarrje të lidhura, nuk zotëron më shumë se 25% të kapitalit ose të të drejtave të votës së një ndërmarrjeje tjetër, si dhe nuk është e lidhur me një ndërmarrje tjetër në asnjë nga format e parashikuara në pikën 8 të këtij neni. Një ndërmarrje mund të jetë autonome edhe nëse pragu prej 25% plotësohet ose tejkalohet nga investitorët si vijon, me kusht që këta investitorë të mos jenë të lidhur në kuptim të pikës 8 të këtij neni individualisht ose bashkërisht me ndërmarrjen në fjalë:
+a) korporatat publike të investimeve, shoqëritë e kapitalit sipërmarrës, individët ose grupet e individëve me aktivitet të rregullt në investimet e kapitalit sipërmarrës, të cilët investojnë kapitalin e vet në ndërmarrje të palistuara, me kusht që investimi total i bizneseve të palistuara në të njëjtën ndërmarrje të jetë më pak se 30 000 000 lekë;
+b) institucionet e arsimit të lartë ose qendrat jofitimprurëse kërkimore;
+c) investitorët institucionalë, përfshirë fondet rajonale të zhvillimit, në përputhje me legjislacionin në fuqi për zhvillimin rajonal dhe kohezionin;
+ç) njësitë e vetëqeverisjes vendore me një buxhet vjetor me më pak se 10 milionë lekë dhe më pak se 5 000 banorë.
+Në kuptim të kësaj pike, nuk ekziston asnjë ndikim dominues nëse investitorët e përcaktuar në shkronjat “a” deri “ç”, pavarësisht nga të drejtat e tyre si aksionarë, nuk përfshihen direkt ose indirekt në menaxhimin e ndërmarrjes në fjalë.
+8. “Ndërmarrje të lidhura” janë ndërmarrjet që kanë një nga lidhjet e mëposhtme:
+a) një ndërmarrje ka shumicën e të drejtave të votave të aksionarëve ose anëtarëve në një ndërmarrje tjetër;
+b) një ndërmarrje ka të drejtë të emërojë ose të largojë shumicën e anëtarëve të organeve administrative, menaxhuese ose mbikëqyrëse të një ndërmarrjeje tjetër;
+c) një ndërmarrje ka të drejtë të ushtrojë një ndikim dominues mbi një ndërmarrje tjetër në bazë të një kontrate të lidhur me atë ndërmarrje ose të një përcaktimi në memorandum apo nenet e statutit;
+ç) një ndërmarrje, e cila është aksionare ose anëtare e një ndërmarrjeje tjetër, kontrollon e vetme, në përputhje me një marrëveshje me aksionarët e tjerë ose anëtarët e asaj ndërmarrjeje, shumicën e të drejtave të votave të aksionarëve ose anëtarëve në atë ndërmarrje.
+9. “Ndërmarrje partnere” janë të gjitha ndërmarrjet që nuk klasifikohen si ndërmarrje të lidhura në kuptim të pikës 8 të këtij neni, ndërmjet të cilave një ndërmarrje zotëron vetëm ose së bashku me një ose më shumë ndërmarrje të lidhura 25% ose më shumë të kapitalit ose të të drejtave të votës së një ndërmarrjeje tjetër. Ndërmarrjet e lidhura me një ose më shumë ndërmarrje të tjera ose ndonjë prej investitorëve të përmendur në këtë pikë konsiderohen se janë të lidhura.
+10. “Shifër afarizmi” janë shumat e faturuara nga ndërmarrja gjatë një viti, të cilat i korrespondojnë shitjes në treg të të mirave dhe shërbimeve, ofruar të tretëve.
+11. “Shoqëri sipërmarrëse e kapitalit” janë shoqëritë aksionare dhe shoqëritë me përgjegjësi të kufizuar, që kanë për objekt investimin e kapitalit në ndërmarrjet mikro, të vogla e të mesme.
+12. “Treg i lidhur” është tregu i produkteve apo shërbimeve në diversifikim, të vendosura direkt sipër ose poshtë tregut përkatës.
