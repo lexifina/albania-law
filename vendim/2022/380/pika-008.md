@@ -1,0 +1,1 @@
+8. Zonat minerare, në të cilat është revokuar leja minerare apo mund të revokohet leja minerare për shkaqe ligjore, mund të shpallen si zona të reja konkurruese, pavarësisht se nuk janë përfshirë në programin e veprimit për zbatimin e strategjisë minerare, për periudhën 3-vjeçare 2022-2024.

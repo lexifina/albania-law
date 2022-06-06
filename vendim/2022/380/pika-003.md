@@ -1,0 +1,1 @@
+3. Zonat minerare, për të cilat do të jepen lejet minerare, përmes procesit të konkurrimit apo procedurave të hapura, për periudhën 3-vjeçare 2022-2024, janë të përcaktuara, sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi.
