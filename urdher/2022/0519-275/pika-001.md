@@ -1,0 +1,1 @@
+1. Pezullimin e veprimtarisë së Kolegjit Universitar “Pavarësia”, Vlorë, për një afat maksimal dyvjeçar, duke filluar nga viti akademik 2022-2023 e në vijim, deri në plotësimin e kushteve, sipas shtojcës nr. 1, bashkëlidhur dhe pjesë përbërëse e këtij urdhri.

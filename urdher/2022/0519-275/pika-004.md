@@ -1,0 +1,1 @@
+4. Ministria e Arsimit dhe Sportit, në rast të mospërmbushjes të kushteve të vendosura në shtojcën nr. 1 të këtij urdhri, i propozon Këshillit të Ministrave mbylljen e veprimtarisë së institucionit të arsimit të lartë.

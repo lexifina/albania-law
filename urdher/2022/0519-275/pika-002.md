@@ -1,0 +1,1 @@
+2. Pezullimi i veprimtarisë së Kolegjit Universitar “Pavarësia”, Vlorë, konsiston në detyrimin që të mos regjistrojë studentë të rinj në asnjë nga programet e studimit që ofron, përfshirë studentë në vitin e parë, në vite të ndërmjetme apo dhe transferime, për të gjithë periudhën e kohëzgjatjes së pezullimit të veprimtarisë.
