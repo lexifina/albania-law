@@ -1,0 +1,1 @@
+1. Ministrisë së Financave dhe Ekonomisë, në programin 04130 “Mbështetje për zhvillimin ekonomik”, në zërin “Shpenzime korrente” (art. 604), i shtohet fondi prej 300 000 000 (treqind milionë) lekësh në buxhetin e miratuar për Agjencinë Shqiptare të Zhvillimit të Investimeve për vitin 2022, për zbatimin e ligjit nr. 25/2022, “Për mbështetjen dhe zhvillimin e startup-eve”.
