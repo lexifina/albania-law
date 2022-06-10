@@ -1,0 +1,2 @@
+1. Autoriteti Kombëtar i Ushqimit siguron që procedura e marrjes së mostrave dhe metoda e analizës së nevojshme për inspektimin zyrtar të temperaturave të ushqimeve me ngrirje të shpejtë të kryhet në përputhje me dispozitat e parashikuara në shtojcat I dhe II të këtij udhëzimi.
+1.1 Metoda e analizës e përcaktuar në shtojcën II të këtij udhëzimi të përdoret vetëm në rastin kur inspektimi lë dyshime të arsyeshme, në lidhje me pragun e temperaturave të parashikuara në urdhrin nr. 482, datë 31.12.2007, “Për ushqimet me ngrirje të shpejtë për konsum njerëzor”.

@@ -1,0 +1,2 @@
+2. Zbatimi i kërkesave të parashikuara në pikën 1 të këtij udhëzimi dhe shtojcat I dhe II të tij nuk pengon AKU-në të përdorë metoda të tjera të vlefshme shkencërisht për kontrollin e temperaturës, të njohura në përputhje me rregullat, në bazë të metodës së përshkruar në shtojcën II të këtij udhëzimi, me kusht që kjo të mos pengojë lëvizjen e lirë të ushqimeve me ngrirje të shpejtë.
+Në rast të diferencave në rezultate do të merren për bazë rezultatet e marra nga përdorimi i metodave të përcaktuara në pikën 1 të këtij udhëzimi.
