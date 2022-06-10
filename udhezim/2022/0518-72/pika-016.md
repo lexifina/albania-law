@@ -1,0 +1,1 @@
+16. Autoriteti përgjegjës për azilin dhe refugjatët njofton Drejtorinë e Mbrojtjes dhe Përpunimit të të Dhënave në Policinë e Shtetit për shënime të veçanta, për çdo dokument të lëshuar për këta persona.

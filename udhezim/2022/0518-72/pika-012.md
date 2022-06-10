@@ -1,0 +1,1 @@
+12. Tërheqja e dokumenteve të udhëtimit kryhet në Drejtorinë Vendore të Policisë Tiranë, nga personi ose i ngarkuari me prokurë të posaçme apo një pjesëtar i afërt i familjes (bashkëshortja/prindi, fëmija madhor) apo kujdestari ligjor për të miturit.

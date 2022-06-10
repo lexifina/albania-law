@@ -1,0 +1,1 @@
+14. Pas lëshimit të dokumentit të udhëtimit, në Sistemin e Kontrollit të Kufirit (TIMS) kryhet transferimi i të dhënave online, nëpërmjet përditësimit të procedurës aktuale për transferimin e të dhënave të dokumenteve të lëshuara për këtë kategori personash.

@@ -1,0 +1,1 @@
+17. Për çdo ndryshim në statusin e personit të pajisur me letërnjoftim elektronik dhe/ose dokument udhëtimi, autoriteti përgjegjës për azilin dhe refugjatët njofton Drejtorinë e Përgjithshme të Gjendjes Civile, Drejtorinë e Përgjithshme të Policisë së Shtetit dhe Shërbimin Informativ të Shtetit për pasqyrimin e këtij ndryshimi në bazën e të dhënave.

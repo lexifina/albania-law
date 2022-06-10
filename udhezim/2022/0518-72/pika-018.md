@@ -1,0 +1,1 @@
+18. Udhëzimi i ministrit të Punëve të Brendshme nr. 346, datë 27.11.2014, “Për procedurat për pajisjen me letërnjoftim elektronik dhe dokument udhëtimi të shtetasve që kanë përfituar statusin e refugjatit dhe mbrojtje plotësuese në Republikën e Shqipërisë”, shfuqizohet.

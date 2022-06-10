@@ -1,0 +1,1 @@
+2. Pas marrjes së kërkesës për pajisjen me dokument udhëtimi dhe/ose letërnjoftimi elektronik, autoriteti përgjegjës për azilin dhe refugjatët kryen verifikimet e nevojshme dhe përcjell pranë Drejtorisë së Përgjithshme të Gjendjes Civile kërkesën me të dhënat përkatëse të personave me status refugjati dhe mbrojtje plotësuese.

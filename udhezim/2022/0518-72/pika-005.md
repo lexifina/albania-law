@@ -1,0 +1,1 @@
+5. Personi, nën moshën 16 (gjashtëmbëdhjetë) vjeç, aplikon vetëm për dokument udhëtimi me kërkesë dhe në praninë e të paktën njërit prej prindërve, të kujdestarit ose të përfaqësuesit ligjor me prokurë të posaçme.

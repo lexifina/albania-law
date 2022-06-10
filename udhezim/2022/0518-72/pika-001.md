@@ -1,0 +1,1 @@
+1. Personi që ka fituar status refugjati apo mbrojtje plotësuese në Republikën e Shqipërisë, i cili identifikohet me anë të lejes së qëndrimit dhe vendimit të statusit, paraqet kërkesën për pajisje me letërnjoftim elektronik dhe/ose dokument udhëtimi pranë autoritetit përgjegjës për azilin dhe refugjatët.

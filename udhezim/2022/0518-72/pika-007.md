@@ -1,0 +1,1 @@
+7. Vlefshmëria e dokumentit të udhëtimit për personin nën moshën 16 (gjashtëmbëdhjetë) vjeç është 5 (pesë) vjet, ndërsa vlefshmëria e dokumentit të udhëtimit dhe e letërnjoftimit elektronik për personin mbi këtë moshë është 10 (dhjetë) vjet për secilin dokument.
