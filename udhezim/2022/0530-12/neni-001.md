@@ -1,0 +1,3 @@
+# Neni 1
+Qëllimi
+1. Kartat e memories së tahografit digjital lëshohen nga Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor për drejtuesit e mjeteve, të përfshirë në ligjin nr. 9514, datë 18.4.2006, “Për aderimin e Republikës së Shqipërisë në marrëveshjen evropiane ’Për punën e ekuipazheve të mjeteve të përfshira në transportin ndërkombëtar rrugor (AETR) dhe në protokollin e nënshkrimit e në amendamentin nr. 4 të saj’”, dhe/ose të përfshirë në rregulloren “Për organizimin e kohës së punës së personave, që kryejnë transport rrugor për orët e drejtuesve të mjeteve dhe pajisjet e regjistrimit”, të miratuar me vendimin e Këshillit të Ministrave nr. 1243, datë 10.9.2008.
