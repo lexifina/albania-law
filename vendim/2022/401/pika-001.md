@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes hidrokarbure me ndarje prodhimi për zhvillimin dhe prodhimin e hidrokarbureve në vendburimin e gazit natyror Frakull, në Shqipëri, ndërmjet “Albetrol” sh.a. dhe “EDG Natural Gas” sh.p.k.
