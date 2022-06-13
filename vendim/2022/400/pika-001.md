@@ -1,0 +1,21 @@
+1. Miratimin e ndërtimit të centralit gjenerues të energjisë elektrike fotovoltaike “Erseka Solar Park 1” dhe veprave ndihmëse, i cili nuk është objekt koncesioni dhe nuk përfiton nga masat mbështetëse, në zonën e Ersekës, Bashkia Kolonjë, qarku i Korçës, nga bashkimi i përkohshëm i shoqërive “Favina” sh.p.k., “Favina 1” sh.p.k. dhe “M&K Energy Trading Co” sh.p.k., me elementet si më poshtë vijon:
+a) emrin e aplikuesit: bashkimi i përkohshëm i shoqërive “Favina” sh.p.k., “Favina 1” sh.p.k. dhe “M&K Energy Trading Co” sh.p.k.;
+b) numrin e identifikimit personal të zyrës së taksave NIPT/NUIS:
+“Favina” sh.p.k.: J64104078V,
+“Favina 1” sh.p.k.: K54624001I,
+“M&K Energy Trading Co” sh.p.k.: M04516001I;
+c) tipin e centralit: fotovoltaik;
+ç) kapacitetin e instaluar: 20 mw;
+d) afatin e pritshëm të vënies në punë: koha për ndërtimin dhe vënien në operim të parkut fotovoltaik do të jetë brenda 24 (njëzet e katër) muajve nga marrja e lejes së ndërtimit;
+dh) vendndodhjen e burimit gjenerues të energjisë: Në zonën e Ersekës, Bashkia Kolonjë, qarku i Korçës;
+e) afatin e operimit: 49 (dyzet e nëntë) vite nga hyrja në fuqi e këtij vendimi;
+ë) koordinatat e tokës sipas aneksit 1, bashkëlidhur këtij vendimi;
+f) Ministria e Infrastrukturës dhe Energjisë, Agjencia Kombëtare e Burimeve Natyrore ose institucione të tjera të autorizuara kanë të drejtë të ushtrojnë mbikëqyrje të përgjithshme me afate 3-mujore gjatë realizimit, vënies në punë dhe operimit, me synim që të verifikojnë se ecuria e punimeve, cilësia, konformiteti dhe operimi janë në përputhje me programin e përgjithshëm të realizimit dhe të dokumentacionit të projektit;
+g) bashkimit të përkohshëm të shoqërive “Favina” sh.p.k., “Favina 1” sh.p.k. dhe “M&K Energy Trading Co” sh.p.k., i lind e drejta të krijojë pranë Qendrës Kombëtare të Biznesit një shoqëri për qëllime të veçanta, për ndërtimin, shfrytëzimin dhe administrimin e centralit fotovoltaik. Bashkimi i përkohshëm i shoqërive “Favina” sh.p.k., “Favina 1” sh.p.k. dhe “M&K Energy Trading Co” sh.p.k., dhe shoqëria për qëllime të veçanta do të jenë bashkërisht përgjegjëse për detyrimet sipas këtij miratimi dhe kontratës së nënshkruar me Ministrinë e Infrastrukturës dhe Energjisë;
+gj) e drejta për ndërtimin e burimit gjenerues të energjisë elektrike fotovoltaike “Erseka Solar Park 1” dhe veprave ndihmëse, me kapacitet të instaluar 20 mw, i cili nuk është objekt koncesioni dhe nuk përfiton nga masat mbështetëse, në zonën e Ersekës, Bashkia Kolonjë, qarku i Korçës, e dhënë sipas këtyre rregullave, si dhe më shumë se 10% e kuotave të shoqërisë për qëllime të veçanta mund të transferohet te një subjekt i tretë, tërësisht ose pjesërisht, vetëm me miratimin e Ministrisë së Infrastrukturës dhe Energjisë;
+h) bashkimi i përkohshëm i shoqërive “Favina” sh.p.k., “Favina 1” sh.p.k. dhe “M&K Energy Trading CO” sh.p.k., ose shoqëria për qëllime të veçanta ka detyrimin, që:
+i. të paraqesë periodikisht (çdo tre muaj) pranë Ministrisë së Infrastrukturës dhe Energjisë, Agjencisë Kombëtare të Burimeve Natyrore ose institucioneve të tjera të autorizuara informacion mbi ecurinë e ndërtimit të centralit fotovoltaik;
+ii. të respektojë kushtet e cituara në lejet, licencat dhe autorizimet paraprake mjedisore, lëshuar nga institucionet përgjegjëse kombëtare;
+iii. të dorëzojë sigurimin e kontratës, në masën jo më pak se 5% të vlerës së investimit, përpara nënshkrimit të kontratës ndërmjet bashkimit të përkohshëm të shoqërive “Favina” sh.p.k., “Favina 1” sh.p.k. dhe “M&K Energy Trading Co” sh.p.k. ose shoqërisë për qëllime të veçanta dhe ministrisë. Në këtë kontratë përcaktohen të drejtat dhe detyrimet e palëve për realizimin e këtij projekti, penalitetet, në rast mosrealizimi, si dhe çështje të tjera, që lidhen me zbatimin e saj;
+iv. t’i japë falas, në formë royalty, ministrisë përgjegjëse për energjinë, sasinë e energjisë elektrike, në masën 2 (dy) % të sasisë vjetore të prodhimit të energjisë elektrike ose konvertimin e saj në vlerë monetare. Në rast konvertimi në vlerë monetare shuma duhet të derdhet tërësisht në buxhetin e shtetit;
+v. të përmbushë kërkesën, sipas rastit, që një pjesë e prodhimit të burimit gjenerues të energjisë t’i shitet furnizuesit publik, sipas legjislacionit në fuqi.
