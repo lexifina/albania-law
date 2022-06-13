@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën prej 26 001 919 (njëzet e gjashtë milionë e një mijë e nëntëqind e nëntëmbëdhjetë) lekësh pa TVSH, për financimin e shembjeve të objekteve të dëmtuara nga tërmeti i datës 26.11.2019, dhe transportimin e materialeve të dala nga shembja e tyre, në Bashkinë Kurbin.

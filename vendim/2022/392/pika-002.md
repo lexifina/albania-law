@@ -1,0 +1,1 @@
+2. Efektet financiare përballohen nga hapësira buxhetore e siguruar pas ngurtësimit në të njëjtën masë të fondeve të projekteve të rindërtimit me ecuri të ngadaltë dhe i transferohen Bashkisë Kurbin, në formën e transfertës së pakushtëzuar.
