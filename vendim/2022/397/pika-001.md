@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Ndërtimi i segmentit të kryqëzimit ish-kombinati ’Josif Pashko’ - ish-uzina ’Dinamo e Re’”.
