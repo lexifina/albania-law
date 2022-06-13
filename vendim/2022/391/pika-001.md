@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 157 532 742 (njëqind e pesëdhjetë e shtatë milionë e pesëqind e tridhjetë e dy mijë e shtatëqind e dyzet e dy) lekë pa TVSH, për sistemimin e hapësirave publike brenda zonës së re për zhvillim, në fshatin Valias, Bashkia Kamzë.
