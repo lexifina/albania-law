@@ -1,0 +1,1 @@
+2. Trajtimi financiar i anëtarëve të Komisionit të Ndihmës Shtetërore bëhet sipas vendimit nr. 656, datë 31.10.2018, të Këshillit të Ministrave, “Për përcaktimin e masës së shpërblimit të anëtarëve të këshillave, bordeve ose komisioneve të përhershme të njësive të qeverisjes qendrore”, të ndryshuar.
