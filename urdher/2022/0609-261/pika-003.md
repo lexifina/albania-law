@@ -1,0 +1,1 @@
+3. Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë në Ministrinë e Drejtësisë mund të kërkojë bashkëpunimin e Dhomës Kombëtare të Përmbaruesve Gjyqësorë Privatë për të evidentuar nëse arkivat janë marrë në dorëzim nga Ministria e Drejtësisë.

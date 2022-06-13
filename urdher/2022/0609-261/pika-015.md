@@ -1,0 +1,1 @@
+15. Në rast se ish-përmbaruesi gjyqësor/personi që dorëzon arkivin refuzon nënshkrimin e procesverbalit, nëpunësi i Drejtorisë së Përgjithshme Rregullatore të Çështjeve të Drejtësisë bën shënimin përkatës në procesverbal dhe kur është e mundur, e vërteton me nënshkrimin e një dëshmitari të pranishëm faktin e refuzimit të nënshkrimit.

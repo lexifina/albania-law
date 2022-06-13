@@ -1,0 +1,1 @@
+16. Arkivi i marrë në dorëzim sipas përcaktimeve të këtij urdhri i dorëzohet me procesverbal nga nëpunësi i Drejtorisë së Përgjithshme Rregullatore të Çështjeve të Drejtësisë i ngarkuar për të marrë në dorëzim arkivin, Sektorit të Arkiv-Protokollit në Ministrinë e Drejtësisë.

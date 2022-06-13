@@ -1,0 +1,1 @@
+9. Në rastet kur përmbaruesit gjyqësorë privatë i është hequr licenca dhe është çregjistruar për shkak të dënimit me vendim gjyqësor të formës së prerë, ekzekutimi i të cilit nuk ka përfunduar ende, ose për shkak të humbjes së zotësisë për të vepruar, arkiva dorëzohet nga një i afërm i tij.

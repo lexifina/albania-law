@@ -1,0 +1,1 @@
+14. Procesverbali hartohet në 3 (tri) kopje, prej të cilave një kopje mbahet në Ministrinë e Drejtësisë, një nga ish-përmbaruesi gjyqësor/personi që dorëzon arkivin dhe një kopje i dërgohet për dijeni Dhomës Kombëtare të Përmbaruesve Gjyqësorë Privatë.

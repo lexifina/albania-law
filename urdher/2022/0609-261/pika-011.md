@@ -1,0 +1,1 @@
+11. Në rastet kur nuk vendbanimi nuk dihet dhe kur njoftimi nuk është i mundur, sipas nenit 151 të Kodit të Procedurave Administrative, ndiqen rregullat për njoftimin publik sipas nenit 162 të këtij Kodi.

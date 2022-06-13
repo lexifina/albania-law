@@ -1,0 +1,1 @@
+12. Gjatë marrjes në dorëzim të arkivit, bëhet verifikimi fizik i tyre nga nëpunësi i Drejtorisë së Përgjithshme Rregullatore të Çështjeve të Drejtësisë duke i numëruar fletë për fletë, si dhe duke mbajtur shënime për çdo parregullsi të hasur.

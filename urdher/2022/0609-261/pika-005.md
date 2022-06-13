@@ -1,0 +1,1 @@
+5. Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë në Ministrinë e Drejtësisë në bashkëpunim me Dhomën Kombëtare të Përmbaruesve Gjyqësorë Privatë identifikon ish-përmbaruesit gjyqësorë privatë që kanë ndërruar jetë, si dhe trashëgimtarët e tyre ligjorë apo testamentarë që mund të jenë në dijeni apo kanë marrë në ngarkim arkivin e padorëzuar.

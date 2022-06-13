@@ -1,0 +1,1 @@
+6. Për përmbushjen e detyrimit në pikën 5 të këtij urdhri, Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë në Ministrinë e Drejtësisë kërkon bashkëpunimin e Zyrave të Gjendjes Civile për dërgimin e certifikatave familjare të ish-përmbaruesve gjyqësorë privatë për të identifikuar personat që mund të jenë në dijeni apo kanë marrë në ngarkim arkivin e padorëzuar.

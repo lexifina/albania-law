@@ -1,0 +1,1 @@
+13. Për dorëzimin e arkivit mbahet procesverbal, i cili nënshkruhet nga ish-përmbaruesi gjyqësor privat ose personi i autorizuar për dorëzimin e tyre apo personi i tretë dhe nga nëpunësi i Drejtorisë së Përgjithshme Rregullatore të Çështjeve të Drejtësisë, i ngarkuar për të marrë në dorëzim arkivin.

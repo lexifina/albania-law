@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë mund të kërkojë informacione nga subjekte të tjera publikë a privatë, të cilat kanë detyrimin për dhënien e informacionit të kërkuar, sipas afatit të përcaktuar nga Drejtoria në kërkesën e tyre.
