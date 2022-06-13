@@ -1,0 +1,1 @@
+1. Krijimin, organizimin dhe funksionimin e Agjencisë Shtetërore të Prokurimeve të Përqendruara (këtu e në vijim “ASHPP”), si person juridik publik buxhetor, në varësi të ministrit të Brendshëm (këtu e në vijim “ministri”), me seli në Tiranë.

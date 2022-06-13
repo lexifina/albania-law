@@ -1,0 +1,1 @@
+14. ASHPP-ja ka stemën, logon dhe vulën e vet zyrtare. Stema e agjencisë përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Ministria e Brendshme, Agjencia Shtetërore e Prokurimeve të Përqendruara”.

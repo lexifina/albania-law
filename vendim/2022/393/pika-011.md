@@ -1,0 +1,1 @@
+11. Rregullorja, që përcakton metodat e brendshme të punës dhe sjelljen e personelit të ASHPP-së, dhe/apo ndryshimet e saj miratohen nga ministri, me propozimin e drejtorit të përgjithshëm të ASHPP-së.

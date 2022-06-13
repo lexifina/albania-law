@@ -1,0 +1,1 @@
+9. ASHPP-ja për nevojat e saj mund të nënshkruajë marrëveshje bashkëpunimi me institucione përkatëse brenda fushës së kompetencave të tyre për ofrimin e asistencës teknike, në përputhje me legjislacionin në fuqi.
