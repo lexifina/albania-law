@@ -1,0 +1,1 @@
+1. “Grupi i balancimit”, një grup i përbërë prej dy ose më shumë palëve përgjegjëse balancuese në tregun e energjisë elektrike, që, për qëllim të balancimit, bashkojnë skedulet e tyre dhe matjet nga pikat matëse duke transferuar përgjegjësinë e tyre të balancimit te lideri i grupit të balancimit dhe duke vepruar si palë e vetme përgjegjëse balancuese për shlyerjen e disbalancave.

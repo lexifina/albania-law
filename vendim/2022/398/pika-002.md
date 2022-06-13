@@ -1,0 +1,1 @@
+2. “Lideri i grupit të balancimit”, pala përgjegjëse balancuese, tek e cila pjesëmarrësit e tjerë të grupit balancues kanë transferuar përgjegjësinë e tyre të balancimit. Ai përfaqëson grupin në komunikim, skedulim dhe shlyerjen e disbalancave kundrejt OST sh.a., në përputhje me rregullat e balancimit në fuqi.
