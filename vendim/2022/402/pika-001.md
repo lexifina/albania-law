@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes hidrokarbure me ndarje prodhimi për zhvillimin dhe prodhimin e hidrokarbureve në vendburimin e gazit natyror Povelçë, në Shqipëri, ndërmjet “Albpetrol” sh.a., dhe “EDG Natural Gas” sh.p.k., sipas tekstit që i bashkëlidhet këtij vendimi.
