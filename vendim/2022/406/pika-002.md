@@ -1,0 +1,1 @@
+2. Ministrisë për Evropën dhe Punët e Jashtme, në buxhetin e miratuar për vitin 2022, në programin buxhetor 01120 “Mbështetje diplomatike jashtë shtetit”, llogaria ekonomike 605, t’i shtohet kundërvlera në lekë e fondit prej 1 000 000 (një milion) eurosh.
