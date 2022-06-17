@@ -1,0 +1,3 @@
+1. Përdorimin e fondit të rindërtimit, në masën 152 560 950 (njëqind e pesëdhjetë e dy milionë e pesëqind e gjashtëdhjetë mijë e nëntëqind e pesëdhjetë) lekë, për financimin e rindërtimit të banesave individuale për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte që duhen rindërtuar nga e para sipas aktekspertizave të thelluara, në bashkitë Kamzë dhe Lezhë, sipas detajimit të mëposhtëm:
+a) Bashkisë Kamzë, në masën 127 500 000 (njëqind e njëzet e shtatë milionë e pesëqind mijë) lekë;
+b) Bashkisë Lezhë, në masën 25 060 950 (njëzet e pesë milionë e gjashtëdhjetë mijë e nëntëqind e pesëdhjetë) lekë.
