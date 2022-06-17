@@ -1,0 +1,6 @@
+4. Me miratimin e projektit të veprës publike nga organi kompetent, nëse në zonën e realizimit të tij rezultojnë objekte të cilat në bazën e të dhënave të proceseve kalimtare pranë ASHK-së kanë statusin si objekte të palegalizueshme, midis institucionit kompetent për realizimin e projektit të veprës publike, organi përgjegjës sipas pikës 3, të kreut II, të këtij vendimi, dhe subjektit zbatues të veprës publike, nëse janë të ndryshëm, lidhet një marrëveshje bashkëpunimi në të cilën përcaktohen:
+a) detyrat specifike të secilit prej tyre në cilësinë e organit përgjegjës, në kuadër të realizimit dhe zbatimit të procedurës së trajtimit, në kuptim të këtij vendimi;
+b) fondi i banesave që do të vihet në dispozicion të përfituesve, në kuadër të shkronjave “a” dhe “b”, të pikës 1, të kreut II, të këtij vendimi;
+c) fondi i nevojshëm financiar me qëllim kryerjen e pagesave të qirasë që akordohen në favor të përfituesve, në kuptim të pikës 2, të kreut II, të këtij vendimi;
+ç) një sekretariat përgjegjës për mbarëvajtjen e procesit, i përbërë nga përfaqësues të secilit institucion/subjekt.
+Moslidhja e marrëveshjes së bashkëpunimit nuk përjashton organin përgjegjës nga detyrimi për të proceduar në kuadër të detyrimeve të këtij vendimi.

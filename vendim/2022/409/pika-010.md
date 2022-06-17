@@ -1,0 +1,5 @@
+10. Organi përgjegjës për trajtimin e subjektit përfitues pas administrimit të dokumentacionit dhe informacionit nga drejtoria vendore e ASHK-së fillon procedurën e akordimit të trajtimit dhe kryen veprimet, si më poshtë vijon:
+a) Njofton mbajtësin e statusit të përfituesit për fillimin e negociatave për lidhjen e marrëveshjes MPT, ku i bën me dije formën e trajtimit dhe procedurën e realizimit të saj, duke i kërkuar të zgjedhë një nga format e trajtimit, përcaktuar në pikat 1 dhe 2, të kreut II, të këtij vendimi.
+Moslidhja e marrëveshjes MPT nga ana e përfituesit brenda afatit 30-ditor nga njoftimi i kryer nga organi përgjegjës nuk pezullon zbatimin e projektit.
+Në rastet kur është e nevojshme shembja e menjëhershme e ndërtimit, institucioni përgjegjës zbaton detyrimisht përcaktimet e pikës 2, të kreut II, të këtij vendimi.
+b) Me lidhjen e marrëveshjes MPT, përfituesi brenda 20 (njëzet) ditëve përfiton pagesën e qirasë në kushtet e pikës 2, të kreut II, të këtij vendimi për një afat 3-vjeçar.
