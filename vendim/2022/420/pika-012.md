@@ -1,0 +1,1 @@
+12. Personat e ngarkuar për kontrollin dhe mbrojtjen e vlerave kulturore, të miratuar nga ministria përgjegjëse për mbrojtjen, mbajnë shenjat dalluese dhe letërnjoftimet, sipas kritereve të përcaktuara në konventën “Mbi mbrojtjen e vlerave kulturale në rast konflikti të armatosur”.

@@ -1,0 +1,1 @@
+8. Ministri përgjegjës për trashëgiminë kulturore, në konsultim paraprak me ministrinë përgjegjëse për mbrojtjen dhe ministrinë përgjegjëse për çështjet e rendit dhe të sigurisë publike, miraton listën përfaqësuese për regjistrim në “Regjistrin ndërkombëtar të vlerave kulturore të vëna nën mbrojtje të veçantë”.

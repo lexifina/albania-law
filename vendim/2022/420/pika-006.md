@@ -1,0 +1,1 @@
+6. Institucionet e specializuara për trashëgiminë kulturore dhe muzetë paraqesin pranë sekretarisë teknike të Këshillit Kombëtar të Trashëgimisë Kulturore Materiale kërkesën për vënien në mbrojtje të veçantë të pasurisë kulturore, në varësi të pasurive kulturore që administrojnë apo posedojnë gjatë konfliktit të armatosur.

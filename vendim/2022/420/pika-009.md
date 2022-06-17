@@ -1,0 +1,1 @@
+9. Lista i propozohet drejtorit të përgjithshëm të Organizatës së Kombeve të Bashkuara për arsimin, shkencën dhe kulturën për regjistrimin në “Regjistrin ndërkombëtar të vlerave kulturore të vëna nën mbrojtje të veçantë”, për pasuritë kulturore në territorin e Republikës së Shqipërisë.

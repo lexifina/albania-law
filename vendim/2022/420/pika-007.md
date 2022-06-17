@@ -1,0 +1,1 @@
+7. Kërkesa shoqërohet me relacion shpjegues sipas kategorizimeve dhe kritereve të përmendura në këtë vendim dhe udhëzimeve të konventës “Mbi mbrojtjen e vlerave kulturale në rast konflikti të armatosur”.
