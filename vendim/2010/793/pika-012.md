@@ -1,1 +1,1 @@
-12. periudha e shërbimit si punonjës i Shërbimit të Kontrollit të Brendshëm, nga grada më e ulët e nivelit bazë në gradën më të lartë në nivelin madhor deri në daljen në rezervë ose lirim;
+12. Periudha e shërbimit si punonjës i Agjencisë së Mbikëqyrjes Policore nga data e pranimit në Agjenci deri në datën e ndërprerjes së marrëdhënies së punës me Agjencinë;
