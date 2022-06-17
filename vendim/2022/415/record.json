@@ -1,0 +1,26 @@
+{
+  "qbz_id": 24554,
+  "title": "Për disa ndryshime dhe shtesa në vendimin nr. 793, datë 24.9.2010, të Këshillit të Ministrave, “Për zbatimin e ligjit nr. 10142, datë 15.5.2009, ‘Për sigurimin shoqëror suplementar të ushtarakëve të Forcave të Armatosura, të punonjësve të Policisë së Shtetit, të Gardës së Republikës, të Shërbimit Informativ të Shtetit, të Policisë së Burgjeve, të Policisë së Mbrojtjes nga Zjarri dhe të Shpëtimit e të punonjësve të Shërbimit të Kontrollit të Brendshëm në Republikën e Shqipërisë’, të ndryshuar”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "415",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2022-06-15",
+  "published": "2022-06-17",
+  "in_force": "2022-06-17",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/c0fb791e0755d633374c9600d2c154ce79ccf969d513df6f04304d98222f50e8.docx",
+  "source_sha256": "c0fb791e0755d633374c9600d2c154ce79ccf969d513df6f04304d98222f50e8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/24554",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/06/15/415",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
