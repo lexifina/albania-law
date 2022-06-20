@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e kompensimit prej 26 107 432 (njëzet e gjashtë milionë e njëqind e shtatë mijë e katërqind e tridhjetë e dy) lekësh, përballohet nga shpenzimet e fondit të rindërtimit dhe i transferohet Bashkisë Krujë, në buxhetin e vitit 2022, në formën e transfertës së pakushtëzuar.

@@ -1,0 +1,1 @@
+1. Shpronësimin dhe/ose shkëmbimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, dhe shkëmbimin e pronës, në funksion të procesit të rindërtimit, që realizohet në zonën e re për zhvillim Krujë, Bashkia Krujë, sipas tabelës që i bashkëlidhet këtij vendimi.
