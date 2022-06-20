@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për kërkesat, përmbajtjen e regjistrit dhe procedurat e regjistrimit, çregjistrimit ose ndryshimit të të dhënave, në Regjistrin e Avionëve Civilë të Republikës së Shqipërisë”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
