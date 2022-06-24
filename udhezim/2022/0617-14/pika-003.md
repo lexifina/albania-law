@@ -1,0 +1,1 @@
+3. Përmbajtja e dokumentacionit të plotë të aplikimit, procedurat e shqyrtimit dhe e miratimit të tij janë të njëjta me ato kërkesa që aplikojnë subjektet për marrjen e një lejeje minerare në zonat e hapura. Ky dokumentacion duhet të përmbajë dhe vlerësimin nga Shërbimi Gjeologjik Shqiptar, për realizimin e detyrimeve të lejes së kërkim-zbulimit.

@@ -1,0 +1,1 @@
+2. Dokumentacioni i plotë i aplikimit për një leje minerare shfrytëzimi, nga ana e zotëruesve të lejeve minerare të kërkim-zbulimit, paraqitet në QKB. Data e aplikimit të dokumentacionit të plotë është data e përllogaritjes së afatit për miratimin e heshtur.

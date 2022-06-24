@@ -1,0 +1,1 @@
+5. Për rastet e parashikuara në pikat 1 dhe 2 të këtij udhëzimi, për zonën e lejuar minerare për të cilën kërkohet shndërrimi i tipit të lejes, kërkuesi ka të drejtën ekskluzive për plotësimin e dokumentacionit përkatës për këtë zonë, sipas afateve kohore të përcaktuara në legjislacionin në fuqi.
