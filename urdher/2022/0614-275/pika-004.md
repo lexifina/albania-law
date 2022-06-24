@@ -1,0 +1,1 @@
+4. Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve dhe agjencitë rajonale të ekstensionit bujqësor organizojnë fushata informimi, trajnimi dhe asistencë për plotësimin e regjistrit nga fermerët.
