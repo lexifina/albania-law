@@ -1,0 +1,1 @@
+4. Zëvendësministri bashkëpunon dhe koordinon punën me zëvendësministrat e tjerë të Arsimit dhe Sportit për çështje të caktuara që konvergjojnë në fushën e përgjegjësisë dhe veprimtarisë së dy ose më shumë zëvendësministrave.
