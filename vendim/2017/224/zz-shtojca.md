@@ -1,234 +1,92 @@
 # Shtojca
 Lidhja nr. 1
 PAGA BAZË SIPAS GRADËS DHE VITEVE TË SHËRBIMIT PËR USHTARAKËT AKTIVË TË FORCAVE TË ARMATOSURA
-Vitet e shërbimit
-OFICERË
-P.bazë
-Mbi 1 vit
-Mbi 2 vjet
-Mbi 3 vjet
-Mbi 4 vjet
-Mbi 6 vjet
-Mbi 8 vjet
-Mbi 10 vjet
-Mbi 12 vjet
-Mbi 14 vjet
-Mbi 16 vjet
-Mbi 18 vjet
-Mbi 20 vjet
-Mbi 22 vjet
-Mbi 24 vjet
-Mbi 26 vjet
-Gj. lejtnant (admiral)
-169500
-Gj. major (nënadmiral)
-162000
-Gj. brigade (kundëradmiral)
-127500
-Kolonel (kapiten i rangut I)
-106200
-108400
-110000
-Nënkolonel (kapiten i rangut II)
-86700
-88100
-89500
-90900
-92300
-Major (kapiten i rangut III)
-68800
-70600
-71800
-73400
-74500
-75700
-77500
-78700
-Kapiten (kapiten lejtnant)
-61500
-62500
-64000
-65300
-66000
-Toger (lejtnant)
-57800
-58700
-59800
-61300
-62000
-63600
-64800
-Nëntoger (nënlejtnant)
-55600
-56000
-56900
-57800
-58600
-59000
-60400
-Vitet e shërbimit
-NËNOFICERË
-Nën 2
-Mbi 2
-Mbi 3
-Mbi 4
-Mbi 6
-Mbi 8
-Mbi 10
-Mbi 12
-Mbi 14
-Mbi 16
-Mbi 18
-Mbi 20
-Mbi 22
-Mbi 24
-Mbi 26
-K/kapter
-59500
-60600
-62500
-63700
-64800
-Kapter
-52500
-53600
-54700
-55800
-57000
-58700
-59800
-60900
-Rreshter
-48200
-49400
-50900
-52300
-53500
-54500
-55500
-Tetar
-46700
-47800
-48300
-49500
-Nëntetar
-43700
-44600
-45700
-46200
-47200
-48500
-Vitet e shërbimit
-USHTARË AKTIVË
-P.bazë
-Mbi
-1 vit
-Mbi
-2 vjet
-Mbi
-3 vjet
-Mbi
-4 vjet
-Mbi
-5 vjet
-Mbi
-6 vjet
-Mbi
-8 vjet
-Mbi
-10 vjet
-Mbi
-12 vjet
-Mbi
-14 vjet
-Ushtar IV/ detar IV
-42000
-42400
-43000
-43400
-44000
-45000
-45900
-47000
-48000
-Ushtar III/ detar III
-40900
-41500
-Ushtar II/ detar II
-40000
-40500
-Ushtar I/ detar I
-39300
-LIDHJA NR. 2
+Lidhja nr. 2
 STRUKTURA DHE NIVELI I PAGAVE PËR USHTARAKËT AKTIVË TË PERSONELIT AKADEMIK, NË AKADEMINË E FORCAVE TË ARMATOSURA
 Nr.
-GRADA E FUNKSIONIT
+Grada e funksionit
 Pozicioni
 Paga
+Masa e shtesës për kushte të veçanta pune e shërbimi
 1
 Kolonel (kapiten i rangut I)
 Rektor/komandant
 139.800
+10.000
 2
 Kolonel (kapiten i rangut I)
-Zv./rektor, nga kategoria “Profesor”
+Zëvendësrektor, nga kategoria “Profesor”
 132.200
+10.000
 3
 Kolonel (kapiten i rangut I)
-Zv./rektor, nga kategoria “Docent/Doktor”
+Zëvendësrektor, nga kategoria “Docent/doktor”
 130.500
+10.000
 4
 Kolonel (kapiten i rangut I)
 Dekan nga kategoria “Profesor”
 132.200
+10.000
 5
 Kolonel (kapiten i rangut I)
-Dekan nga kategoria “Docent/Doktor”
+Dekan nga kategoria “Docent/doktor”
 130.500
+10.000
 6
 Kolonel (kapiten i rangut I)
-Përgjegjësi i njësisë bazë nga kategoria “Profesor”
+Përgjegjës i njësisë bazë nga kategoria “Profesor”
 123.800
+15.000
 7
 Kolonel (kapiten i rangut I)
-Përgjegjësi i njësisë bazë nga kategoria “Docent/Doktor”.
+Përgjegjës i njësisë bazë nga kategoria “Docent/doktor”
 106.700
+15.000
 8
 Kolonel (kapiten i rangut I)
-Titullar i grupit mësimor-kërkimor nga kategoria “Profesor”
+Titullar i grupit mësimor - kërkimor nga kategoria “Profesor”.
 123.800
+15.000
 9
 Nënkolonel (kapiten i rangut II)
-Titullar i grupit mësimor-kërkimor nga kategoria “Docent/ Doktor”
+Titullar i grupit mësimor - kërkimor nga kategoria “Docent/doktor”
 106.700
+15.000
 10
 Kolonel (kapiten i rangut I)
 Profesor
 121.000
+15.000
 11
 Nënkolonel (kapiten i rangut II)
-Profesor i asocuar
+Profesor i asociuar
 105,200
+15.000
 12
 Nënkolonel (kapiten i rangut II)
-Docent/Doktor
+Docent/doktor
 95.800
+15.000
 13
 Nënkolonel (kapiten i rangut II)
-Docent/Master
+Docent/master
 91.800
+15.000
 14
 Nënkolonel (kapiten i rangut II)
-Lektor/i parë/Kërkues i parë
+Lektor/i parë/kërkues i parë
 90.300
+15.000
 15
-Major (kapiten i rangut III)
-Lektor/Kërkues
+Major (kapiten i rangut III-të)
+Lektor/kërkues
 73.400
+15.000
 16
 Kapiten (kapiten lejtnant)
 64.700
-LIDHJA NR. 3
+15.000
 MASA E SHTESËS PËR KUSHTE TË VEÇANTA PUNE E SHËRBIMI PËR USHTARAKËT AKTIVË FLUTURUES TË FORCAVE TË ARMATOSURA
 Nr.
 Emërtimi i funksionit
@@ -282,7 +140,8 @@ Teknik avioni/helikopteri
 12.000
 10.000
 10.000
-LIDHJA NR. 4
+Lidhja nr. 3
+Lidhja nr. 4
 MASA E SHTESËS PËR NATYRË TË VEÇANTË PUNE DHE VËSHTIRËSI SHËRBIMI PËR USHTARAKËT AKTIVË NË AGJENCINË E INTELIGJENCËS DHE SIGURISË SË MBROJTJES
 Nr.
 Emërtimi i funksionit (pozicioni)
@@ -320,132 +179,135 @@ Teknik i mesëm/Operator/Roje me armë/M. Krujës, Krujë.
 Mbështetës
 Për punonjësit në funksionet e tjerë ushtarake të AISM-së.
 5.000
-LIDHJA NR.5
+Lidhja nr. 5
 MASA E SHTESËS PËR KUSHTE TË VEÇANTA PUNE E SHËRBIMI QË PËRFITOJNË USHTARAKËT AKTIVË, TË TJERË, NË FORCAT E ARMATOSURA
-Nr.
+Nr. rendor
 Niveli
-Struktura/ Funksioni/Specialiteti - Ushtarakë të tjerë që përfitojnë shtesë për kushte të veçanta pune e shërbimi
-Masa e shteses, Lekë në muaj
+Struktura/funksioni/specialiteti - ushtarakë të tjerë që përfitojnë shtesë për kushte të veçanta pune e shërbimi
+Masa e shtesës (lekë në muaj)
 1
 2
 3
 4
-1.
 1
-Kompanitë e aksioneve direkte në Batalionin e Forcave Speciale në Forcën Tokësore
-15.000
-2.
-Kompanitë Komando dhe Kompania e Zbulimit në Batalionin Komando të Forcës Tokësore
-15.000
-3.
-Grupi Bordingut në Flotiljen Detare në Forcën Detare
-15.000
-4.
-Grupi i Parë, i Dytë dhe Grupi AME i Zhytjeve në Qendrën e Zhytjeve në Forcën Detare
-15.000
-5.
+Personeli ushtarak aktiv, në Njësinë e Mbrojtjes dhe Sigurisë Kibernetike
+20.000
 2
-Kompania EOD në Batalionin e Xhenjos në Komandën Mbështetëse
+1
+Kompanitë e aksioneve direkte në Batalionin e Forcave Speciale, në Forcën Tokësore
+15.000
+3
+Kompanitë komando dhe Kompania e Zbulimit në Batalionin Komando, të Forcës Tokësore
+15.000
+4
+Grupi i bordingut në Flotiljen Detare, në Forcën Detare
+15.000
+5
+Grupi i parë, i dytë dhe grupi AME i Zhytjeve në Qendrën e Zhytjeve, në Forcën Detare
+15.000
+6
+2
+Kompania EOD në Batalionin e Xhenjos, në Komandën Mbështetëse
 12.000
-6.
-Grupi i parë dhe i dytë i flotiljes detare në Flotiljen Detare në Forcën Detare
+7
+Grupi i parë dhe i dytë i flotiljes detare në flotiljen detare, në Forcën Detare
 12.000
-7.
-Kompania e parë dhe e dytë Operacionale në Policinë Ushtarake të Forcave të Armatosura.
+8
+Kompania e parë dhe e dytë operacionale në Policinë Ushtarake të Forcave të Armatosura
 12.000
-8.
+9
 Sektori i Policisë Kriminale në Policinë Ushtarake të Forcave të Armatosura
 12.000
-9.
-Komandant, Zv.Komandant dhe Funksionet me specialitet ”Polumbar” në Qendrën e Zhytjeve në Forcën Detare
+10
+Komandant, zëvendëskomandant dhe funksionet me specialitet “Polumbar”, në Qendrën e Zhytjeve në Forcën Detare
 12.000
-10.
+11
 3
-Kompania e Parë e Këmbësorisë në Forcën Tokësore
+Kompanitë në Batalionin e Parë të Këmbësorisë, në Forcën Tokësore
 10.000
-11.
-Kompania e Dytë e Këmbësorisë në Forcën Tokësore
+12
+Kompanitë në Batalionin e Dytë të Këmbësorisë, në Forcën Tokësore
 10.000
-12.
-Kompania e Tretë e Këmbësorisë në Forcën Tokësore
+13
+Kompanitë në Batalionin e Tretë të Këmbësorisë, në Forcën Tokësore
 10.000
-13.
-Orkestra Frymore në Batalionin e Mbështetjes së SHPFA
+14
+Orkestra Frymore në Batalionin e Mbështetjes së SHPFA-së
 10.000
-14.
+15
 4
 Mjekët në Strukturat e Forcave te Armatosura
 8.000
-15.
-Parashutistet në Strukturat e Forcave të Armatosura
+16
+Parashutistët në Strukturat e Forcave të Armatosura
 8.000
-16.
-Funksione organike me detyra operacionale dhe taktike në Batalionin e Forcave Speciale në Forcën Tokësore
+17
+Funksione organike me detyra operacionale dhe taktike, në Batalionin e Forcave Speciale në Forcën Tokësore
 8.000
-17.
-Funksione organike me detyra operacionale dhe taktike në Batalionin Komando të Forcës Tokësore
+18
+Funksione organike me detyra operacionale dhe taktike, në Batalionin Komando të Forcës Tokësore
 8.000
-18.
-Kompania e Ruajtjes në Batalionin e Mbështetjes së SHPFA
+19
+Kompania e Ruajtjes, në Batalionin e Mbështetjes së SHPFA-së
 8.000
-19.
-Kompania e Ceremonialit në Batalionin e Mbështetjes së SHPFA
+20
+Kompania e Ceremonialit, në Batalionin e Mbështetjes së SHPFA-së
 8.000
-20.
-Grupi i Sigurisë Fizike në MM në Batalionin e Mbështetjes së SHPFA
+21
+Grupi i Sigurisë Fizike në MM, në Batalionin e Mbështetjes së SHPFA-së
 8.000
-21.
-Kompania e Transportit në Batalionin e Mbështetjes së SHPFA
+22
+Kompania e Transportit, në Batalionin e Mbështetjes së SHPFA-së
 8.000
-22.
+23
 Infermierët në Strukturat e Forcave të Armatosura
 8.000
-23.
+24
 Në strukturat e Policisë Ushtarake, të cilat angazhohen direkt në punën operative dhe funksionale që kryen Policia Ushtarake
 8.000
-24.
+25
 5
-Funksione organike në Batalionin e Forcave Speciale në Forcën Tokësore të papërfshira në pikat e mësipërme
+Funksione organike në Batalionin e Forcave Speciale, në Forcën Tokësore të papërfshira në pikat e mësipërme
 5.000
-25.
+26
 Funksione organike në Batalionin Komando të Forcës Tokësore të papërfshira në pikat e mësipërme
 5.000
-26.
+27
 Qendrën e Stërvitjes Bazë, që janë të emëruar në funksione dhe që kryejnë direkt stërvitjen bazë
 5.000
-27.
+28
 Qendrën e Stërvitjes Bazë deri në nivel kompanie
 5.000
-28.
+29
 Strukturën e Rojës Bregdetare
 5.000
-29.
+30
 Në nivel kompanie në Forcën Tokësore
 5.000
-30.
+31
 Në Kurset në Akademinë e Nënoficerëve
 5.000
-31.
+32
 6
 Oficerët me specialitete detare të emëruar në pozicione organike, që kërkojnë kryerjen e lundrimeve
 3.000
-32.
-Funksione organike në Policinë Ushtarake te pa përfshira në pikat e mësipërme
+33
+Funksione organike në Policinë Ushtarake të pa përfshira në pikat e mësipërme
 3.000
-33.
+34
 Funksione organike në Forcën Tokësore të papërfshira në pikat e mësipërme
 3.000
-34.
+35
 Personeli ushtarak i Qendrës së Stërvitjes Bazë të papërfshirë në pikat e mësipërme
 3.000
-35.
+36
 Personeli ushtarak i postave radioteknike dhe postave sinjal-vrojtuese, në Forcat Detare
 3.000
-36.
+37
 Ushtarakë të tjerë në Akademinë e Nënoficerëve
 3.000
-Shënim: Ushtarakët funksioni i të cilëve përmban dy apo më shumë emërtime që përfitojnë shtesë për kushte të veçanta pune e shërbimi, do të trajtohen vetëm me një shtesë sipas kësaj lidhje.
-LIDHJA NR. 6
+Shënim. Ushtarakët, funksioni i të cilëve përmban dy apo më shumë emërtime, që përfitojnë shtesë për kushte të veçanta pune e shërbime, do të trajtohen vetëm me një shtesë sipas kësaj lidhjeje.
+Lidhja nr. 6
 FUNKSIONET USHTARAKE QË PËRFITOJNË SHTESË PËR PUNË TË VËSHTIRË E TË DËMSHME NË SHËNDET NË STRUKTURAT E FORCAVE TË ARMATOSURA
 Nr.
 Emërtimi i funksionit
