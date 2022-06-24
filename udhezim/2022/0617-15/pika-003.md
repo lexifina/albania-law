@@ -1,0 +1,1 @@
+3. Ministri, brenda një afati prej 60 (gjashtëdhjetë) ditëve kalendarike nga data e paraqitjes së dokumentacionit të plotë, nxjerr aktin e miratimit ose të refuzimit të shtyrjes së afatit të një leje minerare, të cilin e dërgon në QKB.

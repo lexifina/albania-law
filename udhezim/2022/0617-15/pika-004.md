@@ -1,0 +1,1 @@
+4. Të gjitha subjekteve, që në përputhje me ndryshimet e legjislacionit minerar, kanë aplikuar për zgjatje afati para miratimit të këtij udhëzimi, do t’u vlerësohet kërkesa, sipas parashikimeve të pikave 2 dhe 3 të këtij udhëzimi.
