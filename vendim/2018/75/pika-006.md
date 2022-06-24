@@ -31,6 +31,8 @@ q) Numrin e projekteve/kontratave të përbashkëta kërkimore me sektorin e biz
 V. DISPOZITA TË FUNDIT
 1. Zbatimi i skemës së financimit, sipas këtij vendimi, për institucionet publike të arsimit të lartë kryhet sipas udhëzimit të përbashkët të ministrit përgjegjës për financat dhe ministrit përgjegjës për arsimin.
 2. Fondet e buxhetit të shtetit, të miratuara në formë transferte për “Shoqëritë e trajtimit të studentëve”, sh.a., në Tiranë dhe në rrethe, paguhen në llogarinë bankare të përfituesit nga struktura përgjegjëse për thesarin, me urdhër të njësisë së qeverisjes së përgjithshme dhënëse dhe me paraqitjen nga kjo e fundit të dokumenteve justifikuese të shpenzimit (situacion, fatura, listëpagesa etj.).
+2.1 Fondet e miratuara për financimin e programeve të përbashkëta të studimit në institucionet publike të arsimit të lartë, sipas marrëveshjeve të nënshkruara, në kuadër të procesit të ndërkombëtarizimit me institucionet e arsimit të lartë të shteteve të tjera, do të shpërndahen në bazë të kërkesave specifike që do të paraqesin IAL-të publike.
+Institucionet publike të arsimit të lartë kërkojnë pranë ministrisë përgjegjëse për arsimin për përfitimin e financimit nga fondet grant për ndërkombëtarizimin, sipas thirrjes së shpallur nga ministria përgjegjëse për arsimin.
 3. Kompetencat dhe funksionet e AKFAL-it do të ushtrohen nga Ministria e Arsimit, Sportit dhe Rinisë, deri në momentin e ushtrimit të plotë të funksioneve dhe të kompetencave nga AKFAL-i.
 4. Ngarkohen Ministria e Arsimit, Sportit dhe Rinisë, Ministria e Financave dhe Ekonomisë dhe institucionet publike të arsimit të lartë për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
