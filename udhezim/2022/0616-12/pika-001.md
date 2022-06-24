@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave mbi mënyrën e organizimit dhe funksionimit të Komisionit për Vlerësimin Psikosocial të Punonjësve Arsimorë dhe Punonjësve të Tjerë në institucionet arsimore parauniversitare (në vijim “Komisioni”).
