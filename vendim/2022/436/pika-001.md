@@ -1,0 +1,1 @@
+1. Miratimin e rregullave, të procedurave dhe të kritereve të ofrimit të shërbimeve për një jetesë të pavarur për personat me aftësi të kufizuara, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
