@@ -7,7 +7,7 @@ b) Stema e institucionit përkatës të arsimit të lartë;
 c) Lloji dhe emri i IAL-së, me germa të mëdha në përputhje me përcaktimet e kuadrit ligjor në fuqi dhe dokumentit të hapjes/riorganizimit të tij;
 ç) Emri i njësisë kryesore që ofron programin e studimit, me germa të mëdha dhe stemën përkatëse (nëse ka). Në rastin e një Kolegji Profesional të Lartë ose kur organizohet si njësi kryesore pranë një IAL-je vendoset emri i njësisë bazë qe ofron programin e studimit, me gema të mëdha dhe stemën përkatëse nëse ka;
 d) Emërtimi i diplomës ose certifikatës, sipas përcaktimit në aktin e hapjes/riorganizimit të programit të studimit, i shkruar me germa të mëdha;
-i. “Diplomë Profesionale” në “fusha e arsimimit të kryer”;
+i. Shfuqizuar;
 ii. “Certifikatë Profesionale” në “fusha e arsimimit të kryer”;
 iii. Diplomë “Bachelor” në “fusha e arsimimit të kryer”;
 iv. Diplomë “Master profesional” në “fusha e arsimimit të kryer”;
@@ -29,10 +29,10 @@ h) Numri i matrikullimit të studentit. Kjo pikë nuk aplikohet për programet e
 i) Data e regjistrimit të studentit në institucionin që lëshon diplomën për programin përkatës të studimit;
 j) Data e përfundimit të studimeve (të shlyerjes së detyrimeve akademike, mbrojtje diplome/provim përfundimtar);
 k) Tema e tezës së diplomës (vetëm në rastet e studimeve të doktoratës);
-l) Forma e studimeve;
+l. Forma e studimeve dhe kohëzgjatja normale e programit të studimit;
 ll) Numri unik i identifikimit të diplomës i lëshuar nga QShA/MASR në momentin e regjistrimit të formës së diplomës;
 m) Numri i matrikullimit të ciklit paraardhës të studimeve në diplomat e ciklit të dytë dhe të tretë/numri i regjistrit që gjendet në vërtetimin e njësimit të diplomës, për diplomat që janë lëshuar jashtë Republikës së Shqipërisë, si dhe ID e Maturës Shtetërore/numri i dokumentit të njëvlershmërisë së dëftesës/diplomës së arsimit të mesëm të lartë që është lëshuar jashtë Republikës së Shqipërisë (numri i regjistrit të veçantë për studentët që kanë përfunduar arsimin e mesëm të lartë para vitit 2006) në diplomat “Bachelor”, diplomat ose certifikatat profesionale dhe diplomat “Master i shkencave” të programeve të integruara të studimeve;
-n) Numri i diplomës së studimeve universitare të përfunduara më parë për diplomat e ciklit të dytë dhe të tretë/Numri i regjistrit që gjendet në vërtetimin e njësimit të diplomës;
+n) Numri i diplomës për studimet e ciklit të parë dhe për diplomat e ciklit të dytë e të tretë, numri i diplomës së studimeve universitare të përfunduara më parë /numri i regjistrit që gjendet në vërtetimin e njohjes dhe njësimit të diplomës/certifikatës së lëshuar nga një institucion i huaj i arsimit të lartë.
 nj) Numri dhe data e Vendimit të Komisionit për dhënien e Gradës Shkencore “Doktor”;
 o) Numri në regjistrin shtetëror të gradave shkencore dhe titujve akademikë për diplomën përkatëse të Gradës Shkencore “Doktor”.
 2. Në përputhje me legjislacionin në fuqi, Senatet akademike miratojnë formulimin grafik dhe përmbajtjen e diplomave, në përputhje me përcaktimet e këtij udhëzimi, përfshirë elementët e sigurisë.
@@ -47,10 +47,9 @@ PROCEDURA PËR REGJISTRIMIN E FORMËS SË DIPLOMËS OSE CERTIFIKATËS NË REGJIS
 1. Regjistrimi fillestar i formave të diplomave dhe certifikatave të lëshuara nga IAL-të, si dhe çdo regjistrim tjetër i mëvonshëm, që ndryshon formën apo përmbajtjen e tyre, bëhet në bazë të aplikimit drejtuar QShA-së.
 2. Aplikimi për regjistrimin e formës së diplomës ose certifikatës kryhet në QShA i cili përmban kërkesën për regjistrim të rektorit të IAL-së dhe dokumentacion shoqërues bashkëlidhur saj, si më poshtë:
 a) Kopje të statutit të miratuar në fuqi të IAL-së, dhe aktit të miratimit, të cilit i bashkëngjitet edhe forma e miratuar nga Senati Akademik e diplomës ose certifikatës dhe përmbajtja dhe forma e suplementit të saj për çdo cikël dhe lloj programi studimi,
-b) Kopjen e aktit të hapjes /riorganizmit (nëse ka) dhe kopjen e aktit të akreditimit të IAL-së.
+b) Kopjen e aktit të hapjes/riorganizimit (nëse ka) dhe kopjen e aktit të akreditimit të IAL-së ose kur afati i akreditimit ka përfunduar, kopjen e dokumentit, me anë të të cilit vërtetohet aplikimi në organin kompetent për akreditimin periodik institucional.
 c) Kopjen e aktit të hapjes/riorganizmit (nëse ka) së programit të studimit për të cilin lëshohet diploma, që regjistrohet.
-ç) Kopjen e aktit të akreditimit të programit të studimit për të cilin lëshohet diploma,
-që regjistrohet (për certifikatat që lëshohen në përfundim të programeve të formimit të vazhduar kjo pikë aplikohet vetëm në rastet kur është kryer akreditimi i programit përkatës të studimit).
+ç) Kopjen e aktit të akreditimit të programit të studimit për të cilin lëshohet diploma që regjistrohet ose kopjen e dokumentit me anë të të cilit vërtetohet aplikimi në organin kompetent për akreditimin periodik të programit të studimit, me përjashtim të programit të studimit për të cilin legjislacioni në fuqi nuk parashikon akreditimin e tij.
 d) Forma e diplomës apo certifikatës që do të regjistrohet, si dhe suplementin e diplomës (kur parashikohet);
 dh) Dokumenti i pagesës së tarifës për regjistrim, në regjistrin shtetëror, për llogari të QShA-së.
 Dokumentet e parashikuara në germën “a dhe “d” të kësaj pike, nënshkruhen dhe vulosen në çdo faqe nga rektori i IAL-së.
