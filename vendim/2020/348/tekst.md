@@ -4,6 +4,10 @@ Nr.348, datë 29.4.2020
 
 PËR PROCEDURAT, KRITERET DHE RREGULLAT PËR ZBATIMIN E PROGRAMIT TË NXITJES NËPËRMJET VETËPUNËSIMIT
 
+(Ndryshuar me vendimin nr. 452, datë 29.6.2022)
+
+(I përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 4, të nenit 11, të ligjit nr.15/2019, “Për nxitjen e punësimit”, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
 
 VENDOSI:
@@ -12,7 +16,7 @@ I. DISPOZITA TË PËRGJITHSHME
 
 1. Ky vendim përcakton kriteret, procedurat dhe rregullat për zbatimin e programit të vetëpunësimit, i cili ka si qëllim nxitjen e vetëpunësimit nëpërmjet krijimit të sipërmarrjeve të reja të punëkërkuesve të papunë të interesuar.
 
-2. Programi i vetëpunësimit është program njëvjeçar për mbështetjen e  sipërmarrjeve të reja, nëpërmjet të cilit ofrohet trajnim për sipërmarrjen dhe zhvillimin e planeve të biznesit për aplikuesit dhe grant për përfituesit. 
+2. Programi i vetëpunësimit është program njëvjeçar për mbështetjen e  sipërmarrjeve të reja, nëpërmjet të cilit ofrohet trajnim për sipërmarrjen dhe zhvillimin e planeve të biznesit për kërkuesit  dhe grant për përfituesit. 
 
 3. Fondi i nxitjes së punësimit për programin sipas pikës 1, të këtij kreu, mbulon shpenzimet për:
 
@@ -20,15 +24,15 @@ a) grantin për hapjen e biznesit të ri;
 
 b) vlerësimin e planeve të biznesit.
 
-4. Ky program zbatohet bazuar në një proces të drejtë dhe konkurrues aplikimi.
+4. Ky program zbatohet bazuar në një proces të drejtë dhe konkurrues kërkese.
 
 5. Ky program zbatohet dhe administrohet nga Agjencia Kombëtare e Punësimit dhe Aftësive (AKPA).
 
 6. AKPA-ja, sipas nevojës, mund të kontraktojë subjekte të tjera publike, private apo organizata të shoqërisë civile, veprimtaria e të cilave është e lidhur me fushën e punësimit, për të bërë të mundur zbatimin me cilësi dhe në kohë të programeve të nxitjes së punësimit, sipas legjislacionit në fuqi.
 
-II. KRITERET E APLIKIMIT, PËRFITUESIT DHE MBËSHTETJA
+II. KRITERET E KËRKESËS, PËRFITUESIT DHE MBËSHTETJA
 
-1. Për të aplikuar në këtë program, aplikuesi duhet të plotësojë kriteret e mëposhtme:
+1. Për të aplikuar në këtë program, kërkuesi duhet të plotësojë kriteret e mëposhtme:
 
 a) Është punëkërkues i papunë i regjistruar në strukturën vendore të punësimit;
 
@@ -62,13 +66,13 @@ c) shpenzimet e kryera përpara nënshkrimit të marrëveshjes së grantit;
 
 III. RREGULLAT DHE PROCEDURAT PËR PËRFITIMIN E PROGRAMIT TË VETËPUNËSIMIT
 
-1. AKPA-ja, nëpërmjet strukturave të saj, publikon informacionin e nevojshëm në Buletinin e Njoftimeve Publike dhe në platforma të tjera në lidhje me zbatimin e programit dhe zhvillon një fushatë informuese për aplikim për të gjithë personat e interesuar, për mundësinë e pjesëmarrjes si dhe për kriteret e procedurat e aplikimit.
+1. AKPA-ja, nëpërmjet strukturave të saj, publikon informacionin e nevojshëm në Buletinin e Njoftimeve Publike dhe në platforma të tjera në lidhje me zbatimin e programit dhe zhvillon një fushatë informuese për kërkesë për të gjithë personat e interesuar, për mundësinë e pjesëmarrjes si dhe për kriteret e procedurat e kërkesës.
 
 2. Afati për të aplikuar në program, për të gjithë punëkërkuesit e papunë, është 30 (tridhjetë) ditë kalendarike nga data e shpalljes së thirrjes. 
 
 3. Punëkërkuesi duhet të paraqesë pranë strukturës përkatëse të punësimit ose të ngarkojë në mënyrë elektronike dokumentet e mëposhtme:
 
-a) Formularin e aplikimit, i cili duhet të përmbajë: 
+a) Formularin e kërkesës, i cili duhet të përmbajë: 
 
 i. projektidenë e detajuar të biznesit; 
 
@@ -80,7 +84,7 @@ b) Vërtetimin që personi nuk ka detyrime tatimore;
 
 c) Kopjen e dokumentit identifikues.
 
-4. Struktura vendore e punësimit verifikon plotësimin e kushteve formale paraprake të aplikimit dhe përputhshmërinë e tij me rregullat e zbatimit të këtij programi dhe, brenda 5 (pesë) ditëve pune, dërgon në strukturën rajonale të punësimit listat e aplikantëve, që i kanë përmbushur këto kushte.
+4. Struktura vendore e punësimit verifikon plotësimin e kushteve formale paraprake të kërkesës dhe përputhshmërinë e tij me rregullat e zbatimit të këtij programi dhe, brenda 5 (pesë) ditëve pune, dërgon në strukturën rajonale të punësimit listat e a kërkuesve, që i kanë përmbushur këto kushte.
 
 5. Struktura rajonale e punësimit, në bashkëpunim me ofruesit e arsimit dhe formimit profesional, harton, brenda 5 (pesë) ditëve pune, planin e zhvillimit të trajnimit për sipërmarrjen dhe zhvillimin e planeve të biznesit.
 
@@ -106,29 +110,25 @@ b) Procesi i vlerësimit nga komisioni i ngritur në Drejtorinë e Përgjithshme
 
 i. Zbatimin e procedurës në bazë të rregullores përkatëse;
 
-ii. Bën renditjen e aplikuesve në varësi të pikëve;
+ii. Bën renditjen e kërkuesve në varësi të pikëve;
 
 iii. Shqyrton mundësitë e financimit dhe bën renditjen sipas pikëve dhe mundësive të financimit. 
 
 10. Komisioni për vlerësimin e planit të biznesit ngrihet me fillimin e procesit të këtij programi dhe përbëhet nga tre anëtarë, si më poshtë vijon:
 
-a) Një përfaqësues nga AKPA-ja; 
+a) Dy përfaqësues nga AKPA-ja; 
 
 b) Një përfaqësues nga Drejtoria Rajonale;
 
-c) Një përfaqësues nga ministria përgjegjëse për punësim. 
+c) Shfuqizuar. 
 
-11. Përzgjedhja e anëtarëve të këtij komisioni bëhet, si më poshtë vijon:
-
-a) Përfaqësuesi i ministrisë caktohet nga ministri përkatës;
-
-b) Përfaqësuesi i AKPA-së dhe i Drejtorisë Rajonale do të caktohen nga drejtori i Përgjithshëm i institucionit.
+11. Përzgjedhja e anëtarëve të këtij komisioni bëhet nga drejtori i përgjithshëm i AKPA-së.
 
 12. Mënyra e organizimit, e vlerësimit të projekteve, e funksionimit të punës, e informimit si dhe përbërja e komisionit përcaktohen në rregulloren e zbatimit të programeve të nxitjes së punësimit.
 
 13. Drejtoria e Përgjithshme e AKPA-së shpall listën e fituesve nëpërmjet strukturave vendore të punësimit dhe njofton njëkohësisht strukturat rajonale të punësimit për ndjekjen e procedurave në vijim.
 
-14. Aplikuesit e përzgjedhur duhet të regjistrojnë, brenda 5 (pesë) ditëve pune, sipërmarrjet e reja në Qendrën Kombëtare të Biznesit, të hapin një llogari bankare për biznesin dhe të depozitojnë te struktura rajonale e punësimit dokumentet provuese.  
+14. Kërkuesit e përzgjedhur duhet të regjistrojnë, brenda 5 (pesë) ditëve pune, sipërmarrjet e reja në Qendrën Kombëtare të Biznesit, të hapin një llogari bankare për biznesin dhe të depozitojnë te struktura rajonale e punësimit dokumentet provuese.  
 
 15. Pas dorëzimit të këtyre dokumenteve, struktura rajonale e punësimit dhe çdo përfitues nënshkruajnë kontratën për përfitimin e grantit.
 
