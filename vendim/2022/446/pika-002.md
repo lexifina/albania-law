@@ -1,0 +1,1 @@
+2. Bashkisë Kavajë, në buxhetin e vitit 2022, i transferohet fondi prej 35 040 000 (tridhjetë e pesë milionë e dyzet mijë) lekësh pa TVSH, në formën e transfertës së pakushtëzuar, i cili do të përballohet nga hapësira buxhetore e siguruar pas ngurtësimit në të njëjtën masë të fondeve të projekteve të rindërtimit me ecuri të ngadaltë.

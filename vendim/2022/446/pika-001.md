@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në vlerën 175 200 000 (njëqind e shtatëdhjetë e pesë milionë e dyqind mijë) lekë pa TVSH, për financimin e rindërtimit të godinës së ish-prefekturës, Bashkia Kavajë.
