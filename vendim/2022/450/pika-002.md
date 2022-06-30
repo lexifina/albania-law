@@ -1,0 +1,1 @@
+2. Për të huajt, që me marrëveshje qeveritare është parashikuar një format standard i aprovimit për qëndrim në territorin e Republikës së Shqipërisë, zbatohet formati i parashikuar në marrëveshjen qeveritare.
