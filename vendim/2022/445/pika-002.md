@@ -1,0 +1,1 @@
+2. Efekti financiar të përballohet nga hapësira buxhetore e siguruar pas ngurtësimit në të njëjtën masë të fondeve të projekteve të rindërtimit me ecuri të ngadaltë dhe i transferohet Bashkisë Tiranë në formën e transfertës së pakushtëzuar.
