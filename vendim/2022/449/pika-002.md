@@ -1,0 +1,1 @@
+2. Numri i punonjësve të sistemit të Ministrisë së Brendshme, për vitin 2022, shtohet me 8 (tetë) veta për aparatin e Ministrisë së Brendshme, duke e çuar numrin e përgjithshëm të sistemit të Ministrisë së Brendshme në 15 119 (pesëmbëdhjetë mijë e njëqind e nëntëmbëdhjetë) punonjës.

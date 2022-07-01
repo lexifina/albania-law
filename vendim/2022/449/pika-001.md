@@ -1,0 +1,1 @@
+1. Numri i punonjësve të sistemit të institucioneve të tjera qeveritare (Qendra e Koordinimit Kundër Ekstremizmit të Dhunshëm), për vitin 2022, reduktohet me 8 (tetë) veta, duke e çuar numrin e përgjithshëm të sistemit të institucioneve të tjera qeveritare në 1 355 (një mijë e treqind e pesëdhjetë e pesë) punonjës.
