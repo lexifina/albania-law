@@ -8,7 +8,7 @@ Neni 2
 Përfaqësimi
 1. Personat fizikë dhe juridikë, të cilët nuk e kanë vendbanimin apo selinë në territorin e Republikës së Shqipërisë, duhet të emërojnë përfaqësuesin e tyre për çështje të pronësisë industriale, si: të markave tregtare, treguesve gjeografikë, disenjove industriale dhe patentave, i cili do t’i përfaqësojë gjatë procedurave në DPPI.
 2. Personat që kanë vendqëndrim të përhershëm në Republikën e Shqipërisë ose që kryejnë veprimtari brenda territorit të saj, mund të përfaqësohen në DPPI vetë ose nëpërmjet përfaqësuesve të tjerë që nuk janë të regjistruar në këtë drejtori, por drejtojnë ose janë të punësuar te ky person dhe janë të pajisur me autorizim përfaqësimi.
-3. Përfaqësimi në DPPI bëhet nga personat fizikë dhe juridikë që janë të regjistruar në regjistrin e përfaqësuesve të autorizuar, të cilin e mban DPPI-ja.
+3. Shfuqizuar.
 Neni 3
 Përfaqësuesit e autorizuar
 të pronësisë industriale
@@ -17,14 +17,14 @@ a) Përfaqësuesit e patentave të shpikjeve dhe modeleve të përdorimit;
 b) Përfaqësuesit e markave tregtare, treguesve gjeografikë dhe disenjove industriale.
 2. Përfaqësues i autorizuar i pronësisë industriale është çdo ish-punonjës i DPPI-së, i diplomuar, që ka jo më pak se 3 vjet eksperiencë pune në çështjet e pronësisë industriale në DPPI.
 Neni 4
-Licencimi si përfaqësues i autorizuar
-1. Kandidati, që kërkon të licencohet si përfaqësues i autorizuar për markat tregtare, treguesit gjeografikë dhe disenjot industriale, duhet të depozitojë dokumentacionin e nevojshëm pranë komisionit të vlerësimit të DPPI-së, si më poshtë vijon:
+Certifikimi si përfaqësues i autorizuar
+1. Kandidati, që kërkon të certifikohet si përfaqësues i autorizuar për markat tregtare, treguesit gjeografikë dhe disenjot industriale, duhet të depozitojë dokumentacionin e nevojshëm pranë komisionit të vlerësimit të DPPI-së, si më poshtë vijon:
 a) Kërkesën për certifikim si përfaqësues i autorizuar;
 b) Jetëshkrimin;
 c) Diplomën e noterizuar;
 ç) Certifikatën e kualifikimeve/trajnimeve;
 d) Pagesën e tarifës përkatëse për të marrë pjesë në testim.
-2. Kandidati, që kërkon të licencohet si përfaqësues i autorizuar për patentat e shpikjeve dhe të modeleve të përdorimit, duhet të depozitojë dokumentacionin e nevojshëm pranë komisionit të vlerësimit të DPPI-së, si më poshtë vijon:
+2. Kandidati, që kërkon të certifikohet si përfaqësues i autorizuar për patentat e shpikjeve dhe të modeleve të përdorimit, duhet të depozitojë dokumentacionin e nevojshëm pranë komisionit të vlerësimit të DPPI-së, si më poshtë vijon:
 a) Kërkesën për certifikim si përfaqësues i autorizuar;
 b) Jetëshkrimin;
 c) Diplomën e noterizuar;
@@ -33,18 +33,18 @@ d) Pagesën e tarifës përkatëse për të marrë pjesë në testim.
 3. Dokumenti i ekstraktit të regjistrimit të QKB-së do të sigurohet nga vetë komisioni i vlerësimit të DPPI-së.
 Neni 5
 Komisioni i vlerësimit
-1. Komisioni i vlerësimit funksionon si një strukturë e ngritur brenda DPPI-së, për licencimin e përfaqësuesve të autorizuar të pronësisë industriale, në përputhje me parashikimet e nenit 193/ç, të ligjit nr. 9947, “Për pronësinë industriale”, të ndryshuar.
+1. Komisioni i vlerësimit funksionon si një strukturë e ngritur brenda DPPI-së, për certifikimin e përfaqësuesve të autorizuar të pronësisë industriale, në përputhje me parashikimet e nenit 193/ç, të ligjit nr. 9947, “Për pronësinë industriale”, të ndryshuar.
 2. Komisioni i shqyrton kërkesat një herë në 3 muaj dhe vendos për datën kur zhvillohet testimi. Data e zhvillimit të testimit caktohet jo më shumë se 1 (një) muaj nga shqyrtimi i kërkesave.
-3. Drejtori i përgjithshëm i DPPI-së urdhëron krijimin e komisionit të licencimit të përfaqësuesve të autorizuar të pronësisë industriale, të përbërë nga tre punonjës të DPPI-së si anëtarë të komisionit, njëri nga të cilët emërohet kryetar.
-4. Kryetari cakton një nga anëtarët e komisionit të mbajë dokumentet e kandidatëve, si dhe të kryejë veprimet e ndërmjetme deri në përfundim të procedurës së licencimit.
+3. Drejtori i përgjithshëm i DPPI-së urdhëron krijimin e komisionit të certifikimit të përfaqësuesve të autorizuar të pronësisë industriale, të përbërë nga tre punonjës të DPPI-së si anëtarë të komisionit, njëri nga të cilët emërohet kryetar.
+4. Kryetari cakton një nga anëtarët e komisionit të mbajë dokumentet e kandidatëve, si dhe të kryejë veprimet e ndërmjetme deri në përfundim të procedurës së certifikimit.
 5. Komisioni i shqyrton kërkesat për përfaqësues një herë në 3 muaj dhe vendos për datën e zhvillimit të testimit.
 6. Testimi vlerësues për përfaqësuesit e autorizuar bëhet me shkrim.
 7. Tezat e testimit vlerësues i përgatit komisioni i vlerësimit.
 8. Kandidati që ka plotësuar dokumentacionin e nevojshëm për të marrë pjesë në testim lajmërohet nga komisioni me anë të postës elektronike/telefonit për vendin, datën dhe orën kur do të zhvillohet testimi.
 9. Nëse kandidati nuk plotëson dokumen-tacionin e nevojshëm për të marrë pjesë në testim, njoftohet që, brenda 5 ditëve nga njoftimi, të plotësojë dokumentacionin; në të kundërt, kërkesa e tij për të marrë pjesë në testim refuzohet.
-10. Komisioni i licencimit, brenda 30 ditëve nga data e testimit kualifikues, njofton kandidatët që i janë nënshtruar testimit nëse janë kualifikuar apo jo.
-11. Kandidatët e kualifikuar ftohen të kryejnë pagesën e licencimit brenda 30 ditëve nga data e njoftimit, sipas pikës 8 të këtij neni.
-12. Kandidatët e kualifikuar, që kryejnë pagesën brenda afatit të parashikuar në pikën 8 të këtij neni, pajisen nga DPPI-ja me licencën e përfaqësuesit të autorizuar të pronësisë industriale brenda 15 ditësh nga data e pagesës.
+10. Komisioni i vlerësimit, brenda 30 ditëve nga data e testimit kualifikues, njofton kandidatët që i janë nënshtruar testimit nëse janë kualifikuar apo jo.
+11. Kandidatët e kualifikuar ftohen të kryejnë pagesën e certifikimit brenda 30 ditëve nga data e njoftimit, sipas pikës 8 të këtij neni.
+12. Kandidatët e kualifikuar, që kryejnë pagesën brenda afatit të parashikuar në pikën 8 të këtij neni, pajisen nga DPPI-ja me certifikatën e përfaqësuesit të autorizuar të pronësisë industriale brenda 15 ditësh nga data e pagesës.
 Neni 6
 Fitimi i së drejtës së ushtrimit të veprimtarisë së përfaqësuesit të autorizuar
 1. E drejta për ushtrimin e veprimtarisë së përfaqësuesit të autorizuar fitohet me regjistrimin e tij në regjistër dhe më dhënien e certifikatës për përfaqësues të autorizuar nga DPPI-ja.
