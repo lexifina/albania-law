@@ -1,0 +1,1 @@
+1. Miratimin e kushteve për vendosjen e detyrimit të shërbimit publik, që do të zbatohen ndaj të licencuarve në sektorin e energjisë elektrike, të cilët ushtrojnë aktivitetin e prodhimit, transmetimit, shpërndarjes dhe furnizimit me energji elektrike, sipas tekstit që i bashkëlidhet këtij vendimi.
