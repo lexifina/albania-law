@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të Sekretarit të Përgjithshëm të Kolegjit të Posaçëm të Apelimit, në përputhje me parashikimet e ligjit nr. 84/2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, znj. Manjola Kelolli, drejtor i Drejtorisë së Menaxhimit të Çështjeve dhe Marrëdhënieve me Median dhe Publikun.

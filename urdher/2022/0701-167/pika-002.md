@@ -1,0 +1,1 @@
+2. Delegimin e kompetencave, si nëpunës autorizues, për kryerjen e pagesave për të gjithë zërat e shpenzimeve (paga, sigurime shoqërore, shpenzime operative dhe investime), znj. Manjola Kelolli, drejtor i Drejtorisë së Menaxhimit të Çështjeve dhe Marrëdhënieve me Median dhe Publikun.
