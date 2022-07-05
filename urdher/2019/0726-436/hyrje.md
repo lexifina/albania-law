@@ -1,5 +1,0 @@
-URDHËR
-Nr. 436, datë 26.7.2019
-PËR DELEGIM KOMPETENCASH
-Në mbështetje të pikës 4, neni 102, i Kushtetutës së Republikës së Shqipërisë, nenit 28, 29, të ligjit nr. 44/2015, “Kodi i Procedurave Administrative të Republikës së Shqipërisë”, të ndryshuar, të ligjit nr. 10 296, datë 8.7.2010, “Për menaxhimin financiar dhe kontrollin”, ligjit nr. 8318, datë 1.4.1998, “Për dhënien me qira të tokës bujqësore e pyjore, të livadheve dhe kullotave që janë pasuri shtetërore”, i ndryshuar, vendimit nr. 373, datë 20.6.2018, të Këshillit të Ministrave, “Për përcaktimin e kritereve, të rregullave, procedurave dhe kontratës TIP për dhënien me qira të tokave bujqësore në pronësi të shtetit”, kreut IV “Kriteret e përcaktimit të vlerës minimale të qirasë së tokës bujqësore shtetërore”, të udhëzimit nr. 12, datë 30.7.2018 të ministrit të Bujqësisë dhe Zhvillimit Rural, “Për organizimin dhe funksionimin e Bordit të Qiradhënies, të Komisionit të Shqyrtimit të Ankesave, kriteret e vlerësimit dhe mënyra e përllogaritjes së ofertave, si dhe kriteret dhe mënyra e llogaritjes së vlerës së qirasë, në procesin dhe marrjen me qira të tokës bujqësore në pronësi të shtetit”,
-URDHËROJ:

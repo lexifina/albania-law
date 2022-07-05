@@ -1,1 +1,0 @@
-1. Delegimin e kompetencës së nënshkrimit të kontratave të qirasë së tokës bujqësore, në pronësi të shtetit, në administrim të Ministrisë së Bujqësisë dhe Zhvillimit Rural (MBZHR), në vijim të urdhrit të ministrit për miratimin e lidhjes së kontratës, z. Enea Hoti, me detyrë Sekretar i Përgjithshëm i MBZHR-së.
