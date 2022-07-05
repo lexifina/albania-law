@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së nënshkrimit të kontratave të qirasë së tokës bujqësore në pronësi të shtetit, në përgjegjësi administrimi të Ministrisë së Bujqësisë dhe Zhvillimit Rural, z. Edvin Simo, me detyrë drejtor në Drejtorinë e Prokurimeve dhe Partneriteteve. Delegimi i kompetencave mbaron me revokimin e aktit të delegimit.
