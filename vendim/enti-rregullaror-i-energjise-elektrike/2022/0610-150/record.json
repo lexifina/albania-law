@@ -1,0 +1,28 @@
+{
+  "qbz_id": 24656,
+  "title": "Mbi rinovimin e licencës së shoqërisë “Danske Commodities Albania” sh.p.k., në veprimtarinë e tregtimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "150",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2022-06-10",
+  "published": "2022-07-07",
+  "in_force": "2022-07-07",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/e9051b0dfe6707a6940e962c8ae22892b2418833aabd67d8bcec4d07cfc92b19.docx",
+  "source_sha256": "e9051b0dfe6707a6940e962c8ae22892b2418833aabd67d8bcec4d07cfc92b19",
+  "official_record": "https://qbz.gov.al/api/v1/acts/24656",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/06/10/150",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    25170
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
