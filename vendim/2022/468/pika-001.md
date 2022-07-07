@@ -1,0 +1,1 @@
+1. Numri i punonjësve organikë të Ministrisë së Brendshme, për vitin 2022, shtohet me 30 (tridhjetë) veta, për Drejtorinë e Përgjithshme të Policisë së Shtetit dhe numri i përgjithshëm i sistemit të ministrisë bëhet 15 141 (pesëmbëdhjetë mijë e njëqind e dyzet e një) punonjës.
