@@ -1,0 +1,28 @@
+{
+  "qbz_id": 24634,
+  "title": "Mbi rinovimin e licencës së shoqërisë “Energy Financing Team Tirana” sh.p.k., në veprimtarinë e furnizimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "126",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2022-05-31",
+  "published": "2022-07-07",
+  "in_force": "2022-07-07",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/53c64c70c12f6515c36d15b6e2135c26e40dfbeffbd5d5a01e1b3089e3f72375.docx",
+  "source_sha256": "53c64c70c12f6515c36d15b6e2135c26e40dfbeffbd5d5a01e1b3089e3f72375",
+  "official_record": "https://qbz.gov.al/api/v1/acts/24634",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/05/31/126",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    60734
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
