@@ -2,45 +2,46 @@
 KREU II
 PROCEDURAT E APLIKIMIT DHE DOKUMENTACIONI
 1. Aplikimi për njohjen dhe njësimin e kualifikimeve që i përkasin nivelit 5 deri në 8, të Kornizës Shqiptare, Kornizës Evropiane të Kualifikimeve, si dhe titujve akademikë kryhet online nëpërmjet portalit e-Albania.
-2. Dokumentacioni shoqërues i kërkuar duhet të depozitohet detyrimisht në formatin elektronik gjatë aplikimit online, si dhe të dërgohet brenda 5 (pesë) ditëve nga data e aplikimit online edhe në rrugë postare sipas përcaktimeve të mëposhtme.
+2. Dokumentacioni shoqërues i kërkuar duhet të depozitohet detyrimisht në formatin elektronik gjatë aplikimit online.
 3. Aplikimi për njohjen dhe njësimin e kualifikimeve akademike që i përkasin nivelit 5 deri në 8, të Kornizës Shqiptare ose Evropiane të Kualifikimeve, përveç gradës shkencore “Doktor”, kryhet online sipas procedurës së mëposhtme:
 a) formulari i aplikimit plotësohet online në portalin e-Albania, sipas shtojcës nr. 1 bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij;
 b) aplikanti ngarkon në format elektronik (PDF) dokumentacionin e mëposhtëm:
 i. diplomën/certifikatën profesionale, diplomën ose dokumentin zyrtar përkatës të lëshuar nga institucionet përgjegjëse për lëshimin e kualifikimit në vendin e origjinës ekuivalent me diplomën që vërteton përfundimin e studimeve, të pajisur me vulë apostile ose legalizim nga vendi i lëshimit, të njësuar me origjinalin (noterizuar), si dhe të përkthyer në gjuhën shqipe nga përkthyes të licencuar në Republikën e Shqipërisë.
-ii. suplementin e diplomës dhe/ose listën e notave, të pajisur me vulë apostile ose legalizim nga vendi i lëshimit, të njësuar me origjinalin (noterizuar), si dhe të përkthyer në gjuhën shqipe nga përkthyes të licencuar në Republikën e Shqipërisë.
+ii. Suplementin e diplomës dhe/ose listën e notave, të njësuar me origjinalin (noterizuar), si dhe të përkthyer në gjuhën shqipe nga përkthyes të licencuar në Republikën e Shqipërisë.
 iii. fotokopjen e kartës së identitetit ose të pasaportës (vetëm për shtetasit e huaj);
 iv. mandatpagesën ose konfirmimin e pagesës online, sipas shtojcës nr. 2 bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
-3.1 Në rrugë postare, pas kryerjes së aplikimit online, dërgohet në QSHA, dokumentacioni i specifikuar në pikën 3/a, 3/b/i dhe 3/b/ii, të kreut II, të këtij udhëzimi.
+3.1 Shfuqizuar.
 4. Aplikimi për njohjen dhe njësimin e gradës shkencore “Doktor” kryhet online, sipas procedurës së mëposhtme:
 a) formulari i aplikimit plotësohet online në portalin e-Albania, sipas shtojcës nr. 1;
 b) aplikanti ngarkon në format elektronik (PDF) dokumentacionin e mëposhtëm:
 i. diplomën dhe suplementin e saj (nëse ka të tillë), lëshuar nga institucioni përkatës i arsimit të lartë, që dëshmon fitimin e gradës shkencore “Doktor” ose dokumentin origjinal të barasvlershëm me diplomën në rastet kur ky përbën dokumentin zyrtar përkatës në vendin e origjinës ekuivalent me diplomën, të pajisur me vulë apostile ose legalizim nga vendi i lëshimit, të njësuar me origjinalin (noterizuar), si dhe të përkthyer në gjuhën shqipe nga përkthyes të licencuar në Republikën e Shqipërisë.
-ii. diplomën e studimeve pararendëse të arsimit të lartë dhe/ose vërtetimin e njësimit të diplomës i lëshuar nga institucioni përgjegjës në Republikën e Shqipërisë;
+ii. Shfuqizuar;
 iii. disertacionin e doktoratës. Në rast se disertacioni është në gjuhë të huaj, aplikanti paraqet një përmbledhje në gjuhën shqipe;
 iv. fotokopjen e kartës së identitetit ose të pasaportës (vetëm për shtetasit e huaj);
 v. mandatpagesën ose konfirmimin e pagesës online, sipas shtojcës nr. 2;
 c) aplikanti duhet të depozitojë një kopje të disertacionit përkatës në Bibliotekën Kombëtare të Shqipërisë (BKSH) dhe të paraqesë vërtetimin përkatës.
-4.1 Në rrugë postare pas kryerjes së aplikimit online, dërgohet në QSHA, dokumentacioni i specifikuar në pikën 4/a, 4/b/i dhe 4/b/ii, të kreut II, të këtij udhëzimi.
+4.1 Shfuqizuar.
 5. Institucioni përgjegjës për njohjen në Republikën e Shqipërisë të titujve akademikë të fituar jashtë vendit, bazohet në kriteret dhe standardet shtetërore të përcaktuar në legjislacionin në fuqi, në Republikën e Shqipërisë, për fitimin e titujve akademikë.
 5.1 Aplikimi për njohjen e titujve akademikë kryhet online sipas procedurës së mëposhtme:
 a) formulari i aplikimit plotësohet online në portalin e-Albania, sipas shtojcës nr. 1;
 b) aplikanti ngarkon në format elektronik (PDF) dokumentacionin e mëposhtëm:
 i. dokumentin e fitimit të titullit akademik, të pajisur me vulë apostile ose legalizim nga vendi i lëshimit, të njësuar me origjinalin (noterizuar), si dhe të përkthyer në gjuhën shqipe nga përkthyes të licencuar në Republikën e Shqipërisë;
-ii. diplomën e studimeve pararendëse universitare, nëse kjo diplomë është fituar në Republikën e Shqipërisë ose kopje e doktoratës e noterizuar shoqëruar me vërtetimin e njohjes së gradës shkencore “Doktor” në Republikën e Shqipërisë, nëse studimet pararendëse janë ndjekur jashtë vendit;
+ii. Kopjen e dokumentit që vërteton fitimin e gradës shkencore “Doktor”, e noterizuar dhe shoqëruar me vërtetimin e njohjes së gradës shkencore “Doktor” në Republikën e Shqipërisë, nëse studimet pararendëse janë ndjekur jashtë vendit.
 iii. vërtetimin e regjistrimit të titullit akademik në bazën e të dhënave përkatëse në zbatim të kuadrit ligjor të vendit ku është fituar titulli akademik (nëse ky regjistrim është parashikuar nga legjislacioni përkatës i huaj);
 iv. fotokopjen e kartës së identitetit apo pasaportës (vetëm për shtetasit e huaj);
 v. mandatpagesën ose konfirmimin e pagesës online, sipas shtojcës nr. 2;
 vi. deklaratën/skedën e nënshkruar në të cilin të jepet informacion për eksperiencën akademike në mësimdhënie; aktivitetin shkencor - lista e artikujve/botimeve shkencore, pjesëmarrje në simpoziume, konferenca, kongrese shkencore të shoqëruar me titujt e materialeve të paraqitura; si dhe botime të punimeve shkencore në organe shkencore ndërkombëtare. Informacioni i parashikuar në këtë skedë duhet të shoqërohet me dokumentacionin provues përkatës.
-5.2 Në rrugë postare, pas kryerjes së aplikimit online, dërgohet në QSHA, dokumentacioni i specifikuar në pikën 5/a dhe 5/b/i, të kreut II, të këtij udhëzimi.
+5.2 Shfuqizuar.
 KREU III
 PROCEDURAT E NJOHJES DHE TË NJËSIMIT
 1. Procedura e njohjes dhe njësimit, pas aplikimit online, e kualifikimeve akademike që i përkasin nivelit 5 deri në 8, përveç gradave shkencore “Doktor”, të Kornizës Shqiptare ose Evropiane të Kualifikimeve vijon me shqyrtimin dhe verifikimin e dokumentacionit nga ana e Komisionit të Njohjes së Diplomave në QSHA. Kjo procedurë, kur dosja e aplikimit është e plotësuar me të gjithë dokumentacionin e kërkuar sipas këtij udhëzimi, përfundon brenda 45 ditëve.
 1.1 Sektori i Njohjes së Diplomave të Arsimit të Lartë (SENJOD) në QSHA shërben si sekretariat teknik i Komisionit të Njohjes së Diplomave.
-1.2 Aplikimi nuk konsiderohet i plotë nëse mungon një nga dokumentet e cituara në këtë udhëzim.
-Informimi për plotësim dokumentacioni bëhet me postë elektronike. Procedura e njohjes dhe e njësimit fillon menjëherë pasi QSHA-së i është shfaqur aplikimi në sistemin online në rastet kur dokumentacioni i ngarkuar në formë elektronike është i plotë sipas përcaktimeve të këtij udhëzimi.
-Brenda 3 (tri) ditëve nga fillimi i procedurës së njohjes dhe njësimit SENJOID kontakton me anë të postës elektronike me institucionin përgjegjës që ka lëshuar diplomën ose certifikatën përkatëse.
-1.3 Në çdo rast, procedura e njohjes dhe njësimit nuk mund të përfundojë nëse aplikanti nuk paraqet në formatin shkresor dokumentacionin e parashikuar në këtë udhëzim, në QSHA.
-1.4 Në rast të konstatimit të mangësive në dokumentacion, SENJOD-ja i kërkon aplikantit fillimisht plotësimin e dokumentacionit me anë të postës elektronike, brenda 15 ditëve nga momenti i depozitimit të aplikimit. Në rast të mos depozitimit të plotësimeve brenda 30 ditëve, aplikantit i kërkohen plotësime për herë të dytë me anë të postës elektronike, të cilat duhet të depozitohen brenda 30 ditëve në QSHA, në të kundërt, shqyrtimi i aplikimit përkatës ndërpritet dhe dokumentacioni arkivohet në QSHA.
+1.2 Procedura e njohjes dhe njësimit fillon menjëherë pasi QSHA-së i është shfaqur aplikimi në sistemin online, në rastet kur dokumentacioni i ngarkuar në formë elektronike është i plotë, sipas përcaktimeve të këtij udhëzimi.
+SENJOD vetëm në ato raste kur ka dyshime të arsyeshme për autenticitetin e diplomës ose certifikatës se lëshuar kontakton me anë të postës elektronike me institucionin përgjegjës që ka lëshuar diplomën ose certifikatën përkatëse.
+Aplikimi nuk konsiderohet i plotë nëse mungon një nga dokumentet e cituara në këtë udhëzim. Informimi për plotësim dokumentacioni bëhet nëpërmjet sistemit online.
+1.3 Për arsye objektive QSHA, gjatë procedurës së njohjes dhe njësimit mund të kërkojë dokumentin/et, të parashikuar në këtë udhëzim, në formë shkresore.
+Në rast të mos depozitimit të dokumentit, në formë shkresore, brenda 30 ditëve, QSHA-ja ndërpret shqyrtimin e aplikimit dhe dokumentacioni arkivohet.
+1.4 Në rast të konstatimit të mangësive në dokumentacion, SENJOD i kërkon aplikantit plotësimin e dokumentacionit me anë të sistemit online, brenda 15 ditëve nga momenti i depozitimit të aplikimit. Në rast të mos depozitimit të plotësimeve brenda 30 ditëve, QSHA-ja ndërpret shqyrtimin e aplikimit dhe dokumentacioni arkivohet.
 1.5 SENJOD-ja llogarit afatet e përcaktuara në këtë udhëzim për njohjen dhe njësimin e kualifikimeve, duke iu referuar datës së plotësimit të praktikës me të gjithë dokumentacionin e plotë.
 2. QSHA-ja në zbatim të procedurës së verifikimit:
 a) kërkon informacion nëse programi i studimit i përfunduar nga aplikanti në një institucion të huaj të arsimit të lartë apo institucion tjetër i autorizuar është i hapur/licencuar si program studimi online;
@@ -53,17 +54,17 @@ d) materialet shkresore ose të printuara për të gjitha verifikimet e kryera, 
 4. Në zbatim të parimit të barazisë dhe mos diskriminimit, bazuar në përcaktimet e shkronjës “b”, të nenit 75 të pikës 2, të nenit 124, të ligjit nr. 80/2015:
 a) Diplomat e fituara nga institucionet e huaja të arsimit të lartë, përpara aplikimit të sistemit të Bolonjës në Shqipëri, të cilat e kanë datën e lëshimit të diplomës deri në vitin 2010, me kohëzgjatje normale minimale 4 (katër) vite (tetë semestra), me kohë të plotë, të njësohen si ekuivalentët e tyre që ofroheshin në institucionet e arsimit të lartë në Republikën e Shqipërisë, në të njëjtën periudhë kohore.
 b) Diplomat e lëshuara nga institucione të huaja të arsimit të lartë, për programet e studimit të cilat përmbajnë të paktën 300 ECTS, me kohëzgjatje normale minimale 5 (pesë) vite akademike, të njësohen si ekuivalentët e tyre që ofrohen në institucionet e arsimit të lartë në Republikën e Shqipërisë.
-5. Komisioni i Njohjes së Diplomave merr vendimin për njohje dhe njësim të certifikatës/diplomës ose mund të vendosë ta kthejë për plotësime të tjera të nevojshme të dokumentacionit te sekretaria teknike (SENJOD), sipas këtij udhëzimi. Sekretaria teknike (SENJOD) zbardh raportin dhe vendimin e Komisionit të Njohjes së Diplomave, i cili lëshon vërtetimin e njohjes dhe njësimit për çdo aplikant, sipas shtojcës nr. 3, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij. Në rastet kur ky Komision nuk merr vendim për njohjen dhe njësimin e diplomës ose certifikatës, i kthen përgjigje të arsyetuar aplikantit për arsyet dhe mangësitë e aplikimit.
+5. Komisioni i Njohjes së Diplomave merr vendimin për njohje dhe njësim të certifikatës/diplomës ose mund të vendosë ta kthejë për plotësime të tjera të nevojshme të dokumentacionit te sekretaria teknike (SENJOD), sipas këtij udhëzimi. Sekretaria teknike (SENJOD) zbardh raportin dhe vendimin e Komisionit të Njohjes së Diplomave, i cili lëshon vërtetimin e njohjes dhe njësimit për çdo aplikant, nëpërmjet sistemit online dhe nënshkrim dhe vulë elektronike, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij. Në rastet kur ky Komision nuk merr vendim për njohjen dhe njësimin e diplomës ose certifikatës, i kthen përgjigje të arsyetuar aplikantit nëpërmjet sistemit online për arsyet dhe mangësitë e aplikimit.
 6. Për njohjen e gradave shkencore “Doktor” ngrihet me urdhër të ministrit përgjegjës për arsimin, Komisioni i Njohjes dhe Njësimit të Gradave Shkencore (KNJG), i cili kryesohet nga ministri përgjegjës për arsimin.
 6.1 KNJG-ja përbëhet nga kryetari dhe nga një anëtar, për secilën prej fushave të studimit dhe kërkimit shkencor, pedagog i kategorisë “Profesor”.
 6.2 Sektori i Njohjes së Diplomave në QSHA shërben si sekretariat teknik i KNJG-së.
 6.3 KNJG-ja mblidhet periodikisht në varësi të numrit të aplikimeve. Procedura për shqyrtimin e dosjeve nga KNJG-ja fillon në momentin që SENJOD-ja në QSHA vlerëson se janë të plota për shqyrtim dosjet për njohjen e gradës shkencore “Doktor”, sipas përcaktimeve të këtij udhëzimi.
-6.4 Në përfundim të procedurave të shqyrtimit, kryetari dhe anëtarët e komisionit, nënshkruajnë procesverbalin dhe vendimin përkatës. Kryetari lëshon vërtetimin për njohjen e gradës shkencore, sipas shtojcës nr. 4, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
+6.4 Në përfundim të procedurave të shqyrtimit, kryetari dhe anëtarët e komisionit, nënshkruajnë procesverbalin dhe vendimin përkatës. Vërtetimi lëshohet nëpërmjet sistemit online me nënshkrim dhe vulë elektronike të kryetarit, sipas shtojcës nr. 4, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
 6.5 Procedura e njohjes dhe njësimit të gradës shkencore të fituar jashtë vendit, kur dosja e aplikimit është e plotësuar me të gjithë dokumentacionin e kërkuar sipas këtij udhëzimi, përfundon brenda 45 ditëve.
 6.6 Përcaktimet e pikave 1.2 dhe 1.3, të kreut III, të këtij udhëzimit, lidhur me afatet procedurale, aplikohen edhe për aplikimet për njohjen dhe njësimin e gradave shkencore të fituara jashtë vendit.
 7. Për njohjen e titujve akademikë ngrihen me urdhër të ministrit përgjegjës për arsimin komisione ad hoc, për secilin aplikim për njohje titulli akademik të fituar jashtë vendit, me pedagogë ekspertë të fushës përkatëse të kategorisë “Profesor”. Komisionet ad-hoc për njohjen e titujve akademikë kryesohen nga ministri përgjegjës për arsimin dhe përbëhen nga kryetari dhe katër anëtarë.
 7.1 Sektori i Njohjes së Diplomave në QSHA shërben si sekretariat teknik i komisioneve ad hoc.
 7.2 Kërkesa për ngritjen e komisionit ad hoc kryhet nga Sektori i Njohjes së Diplomave në QSHA, menjëherë pas depozitimit të aplikimit për njohjen e titullit akademik të fituar jashtë vendit, në përputhje me përcaktimet e këtij udhëzimi.
-7.3 Në përfundim të procedurave të shqyrtimit dhe vlerësimit, kryetari dhe anëtarët e komisionit ad hoc nënshkruajnë procesverbalin dhe vendimin përkatës. Nëse është vendosur njohja e titullit akademik, atëherë kryetari lëshon vërtetimin përkatës sipas shtojcës nr. 5, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
+7.3 Në përfundim të procedurave të shqyrtimit dhe vlerësimit, kryetari dhe anëtarët e komisionit ad hoc nënshkruajnë procesverbalin dhe vendimin përkatës. Nëse është vendosur njohja e titullit akademik, vërtetimi lëshohet nëpërmjet sistemit online me nënshkrim dhe vulë elektronike të kryetarit, sipas shtojcës nr. 5, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
 7.4 Procedura e njohjes së titullit akademik të fituar jashtë vendit, kur dosja e aplikimit është e plotësuar me të gjithë dokumentacionin e kërkuar sipas këtij udhëzimi, përfundon brenda 45 ditëve.
 7.5 Përcaktimet e pikave 1.2 dhe 1.3 të kreut III të këtij udhëzimit, lidhur me afatet procedurale, aplikohen edhe për aplikimet për njohjen dhe njësimin e gradave shkencore të fituara jashtë vendit.
