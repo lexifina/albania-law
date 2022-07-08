@@ -4,6 +4,10 @@ Nr. 370, datë 29.7.2014
 
 PËR MIRATIMIN E RREGULLORES “MBI PRODUKTET MJEKËSORE VETERINARE”
 
+(ndryshuar me urdhër nr. 325, datë 8.7.2022)
+
+(i përditësuar)
+
 Në mbështetje të nenit 102, pika 4, të Kushtetutës së Republikës së Shqipërisë, nenit 85, nenit 88, nenit 92, nenit 94, nenit 102 dhe nenit 104, të ligjit nr. 10465, datë 29.9.2011, “Për shërbimin veterinar në Republikën e Shqipërisë”, me propozim të Drejtorisë së Përgjithshme e Shërbimeve Bujqësore dhe Peshkimit,
 
 URDHËROJ:
@@ -68,6 +72,8 @@ Neni 3
 
 Përkufizimet
 
+(riformuluar pika 12 me urdhrin nr. 325, datë 8.7.2022)
+
 1. Për qëllimet e kësaj rregulloreje zbatohen përkufizimet e përcaktuara në nenin 4, të ligjit nr. 10465, datë 29.9.2011, “Për shërbimin veterinar në Republikën e Shqipërisë”. 
 
 2. Përveç këtyre, zbatohen edhe përkufizimet e mëposhtme: 
@@ -102,7 +108,7 @@ d) kimike, si p.sh., elemente, lëndë kimike që gjenden në natyrë dhe produk
 
 11.“Tregtim me shumicë i PMV” quhet çdo veprimtari që përfshin blerjen, shitjen, importin, eksportin ose çdo veprim tjetër tregtar me PMV, me ose pa fitim, me përjashtim të: a) furnizimit nga një prodhues të PMV të prodhuara prej vetë atij; b) furnizimit me pakicë të PMV nga persona që lejohen t’i kryejnë këto furnizime në përputhje me nenin 56. 
 
-12.“Përfaqësuesi i mbajtësit të certifikatës së tregtimit” quhet personi i njohur si përfaqësues, i caktuar nga mbajtësi i certifikatës tregtimit për ta përfaqësuar atë.
+12. “Përfaqësuesi i mbajtësit të certifikatës së tregtimit” quhet personi i njohur si përfaqësues, i caktuar nga mbajtësi i autorizimit të tregtimit për ta përfaqësuar atë në Shqipëri dhe që mban certifikatën e tregtimit për Shqipërinë”.
 
 13.“EMA” quhet Agjencia Europiane e Medikamenteve (EMA). 
 
@@ -152,21 +158,25 @@ Neni 4
 
 Shtrirja dhe efekti i certifikatës së tregtimit
 
-1. Asnjë PMV nuk mund të tregtohet në Republikën e Shqipërisë pa certifikatën e tregtimit, që lëshohet nga autoriteti kompetent, në përputhje me ligjin nr. 10465, datë 29.9.2011, “Për shërbimin veterinar në Republikën e Shqipërisë” dhe me këtë rregullore.
+(zëvendësuar togfjalësh në paragrafin e parë, ndryshuar ndryshuar numri në paragrafin e dytë, riformuluar paragrafi i katërt me urdhrin nr. 325, datë 8.7.2022)
 
-2. PMV që kanë një certifikatë tregtimi të lëshuar nga Agjencia Europiane e Medikamenteve (EMA), mund të marrin certifikatën e tregtimit për në territorin e Republikës së Shqipërisë, brenda 60 ditëve pune, pas verifikimit të vërtetësisë së dokumentacionit të dorëzuar. 
+1. Asnjë PMV nuk mund të tregtohet në Republikën e Shqipërisë pa certifikatën e tregtimit, që nënshkruhet nga drejtori përgjegjës për veterinarinë në ministri, në përputhje me ligjin nr. 10465, datë 29.9.2011, “Për shërbimin veterinar në Republikën e Shqipërisë” dhe me këtë rregullore.
+
+2. PMV që kanë një certifikatë tregtimi të lëshuar nga Agjencia Europiane e Medikamenteve (EMA), mund të marrin certifikatën e tregtimit për në territorin e Republikës së Shqipërisë, brenda 100 ditëve pune, pas verifikimit të vërtetësisë së dokumentacionit të dorëzuar. 
 
 3. Kur një PMV lejohet për tregtim në Republikën e Shqipërisë sipas pikës 1, lejohen të tregtohen edhe variacionet dhe shtesat e këtij produkti që kanë të bëjnë me llojet e tjera të kafshëve ku mund të përdoret, përqendrimin, formën farmaceutike, rrugët e përdorimit, paraqitjen. Variacionet dhe shtesat, pas miratimit përfshihen në të njëjtën certifikatë tregtimi dhe konsiderohen se i përkasin së njëjtës certifikatë tregtimi global, veçanërisht për qëllimin e zbatimit të nenit 12, pika 1.
 
-4. Mbajtësi i certifikatës së tregtimit është përgjegjës për tregtimin e PMV. Percaktimi i një përfaqësuesi nuk e liron mbajtësin e certifikatës së tregtimit nga përgjegjësitë e tij ligjore. 
+4. Mbajtësi i certifikatës së tregtimit është përgjegjës për tregtimin e PMV me përgjegjësi të plotë ligjore. 
 
 Neni 5
 
 Certifikata e tregtimit për PMV për kafshët që prodhojnë ushqime
 
+(riformuluar paragrafi i dytë me urdhrin nr. 325, datë 8.7.2022)
+
 1. Certifikata e tregtimit lëshohet për PMV për qëllime të përdorimit në një ose më shumë lloje kafshësh që prodhojnë ushqime, vetëm nëse lëndët aktive që përmban PMV përfshihen në anekset I, II ose III të udhëzimit nr. 15 datë 5.10.2010, “Për limitet maksimalë të mbetjeve për produktet mjekësore veterinare në ushqimet me origjinë shtazore”, e ndryshuar.
 
-2. Nëse ndodhin ndryshime në anekset e udhëzimit nr. 15, datë 5.10.2010, “Për limitet maksimalë të mbetjeve për produktet mjekësore veterinare në ushqimet me origjinë shtazore”, e ndryshuar, mbajtësi i certifikatës së tregtimit ose autoriteti kompetent, ndërmarrin hapat e nevojshëm për të ndryshuar ose tërhequr certifikatën e tregtimit brenda 60 ditëve nga data e botimit të ndryshimeve të anekseve të kësaj rregulloreje në Gazetën Zyrtare të BE-së. 
+2. Pas miratimit të ndryshimeve lidhur me limitet maksimalë të mbetjeve për produktet mjekësore veterinare në ushqimet me origjinë shtazore, SPV i propozon Komisionit, brenda 60 ditëve nga data e botimit të ndryshimeve në Fletoren Zyrtare, ndryshimin ose tërheqjen e certifikatës së tregtimit. Komisioni shqyrton dhe merr vendim brenda 10 ditë pune nga propozimi. 
 
 3. Në përjashtim nga pika 1, një PMV që përmban lëndë aktive që nuk përfshihen në anekset I, II dhe III të udhëzimit nr. 15, datë 5.10.2010, “Për limitet maksimalë të mbetjeve për produktet mjekësore veterinare në ushqimet me origjinë shtazore”, e ndryshuar, mund të autorizohet për kafshë të veçanta të familjes së ekuideve, që nuk do të theren për konsum mishi nga njerëzit. Këto PMV nuk duhet të përmbajnë lëndë që përfshihen në aneksin IV të udhëzimit nr. 15, datë 5.10.2010, “Për limitet maksimalë të mbetjeve për produktet mjekësore veterinare në ushqimet me origjinë shtazore”, e ndryshuar dhe as të përdoren për trajtimin e sëmundjeve, siç përshkruhet në Përmbledhjen e Karakteristikave të Produktit, për të cilat ka një PMV të autorizuar për kafshët e familjes së ekuideve.
 
@@ -174,13 +184,19 @@ Neni 6
 
 Përdorimi i PMV të certifikuara në vende të BE-së
 
-Në raste të veçanta të gjendjeve shëndetësore, autoriteti kompetent mund të certifikojë tregtimin ose përdorimin në kafshë të PMV që janë autorizuar nga një vend anëtar i BE-së në përputhje me këtë rregullore. 
+(riformuluar me urdhrin nr. 325, datë 8.7.2022)
+
+Përdorimi i PMV të certifikuara në vende të BE-së në raste të veçanta.
+
+Ministri, në rastet e veçanta të gjendjeve shëndetësore, me propozimin e Komisionit Shtetëror të PMV-ve, urdhëron lejimin e përkohshëm të tregtimit ose të përdorimit në kafshë të PMV-ve të autorizuara në një nga vendet anëtare të BE-së, në përputhje me legjislacionin përkatës. 
 
 Neni 7
 
 PMV imunologjike pa certifikatë tregtimi
 
-1. Në rastet e një gjendjeje të rëndë shëndetësore ose epidemiologjike në popullatën e kafshëve, në mbështetje të ligjit nr. 10465, datë 29.9.2011, “Mbi shërbimin veterinar në Republikën e Shqipërisë”, nenit 85, pika 6, mund të lejohet përkohësisht përdorimi në kafshë i PMV imunologjike pa certifikatë tregtimi në Republikën e Shqipërisë.
+(hequr pika 1 me urdhrin nr. 325, datë 8.7.2022)
+
+1. Shfuqizuar.
 
 2. Komisioni Shtetëror i PMV i propozon ministrit PMV imunologjike, si dhe kushtet e hollësishme të përdorimit, përfshi edhe kohëzgjatjen e përdorimit të saj.
 
@@ -192,33 +208,23 @@ Neni 8
 
 Ndalimi i përdorimit të PMV pa certifikatë tregtimi
 
-Ndalohet përdorimi në kafshë i PMV pa certifikatë tregtimi të lëshuar nga autoriteti kompetent, me përjashtim të rasteve të provave të PMV të përmendura në nenin 11, pika 3, germa “j” që janë pranuar nga autoriteti kompetent në përputhje me legjislacionin veterinar në fuqi.
+(riformuluar me urdhrin nr. 325, datë 8.7.2022)
+
+Ndalohet përdorimi në kafshë i PMV pa certifikatë tregtimi të nënshkruar nga drejtori përgjegjës për veterinarinë në ministri, me përjashtim të rasteve të provave të PMV të përmendura në nenin 11, pika 3, germa “j” që janë pranuar nga Laboratori Shtetëror i Kontrollit Veterinar (LSHKV) në përputhje me legjislacionin veterinar në fuqi.
 
 Neni 9
 
 Përjashtimet e përdorimit të PMV për kafshët joprodhuese të ushqimeve
 
-1. Në rastet kur nuk ka PMV të miratuar, për të mjekuar një sëmundje të caktuar në një lloj kafshe joprodhuese të ushqimit, në mënyrë përjashtimore, mjeku veterinar nën përgjegjësinë e tij/saj personale dhe me qëllim shmangien e vuajtjeve të tepërta te kafsha, mund të mjekojë kafshën në fjalë me: 
-
-a) Një PMV të autorizuar në Republikën e Shqipërisë, për përdorim në kafshë të llojeve të tjera ose për një sëmundje tjetër tek e njëjta lloj kafshe; ose 
-
-b) Nëse nuk ka asnjë PMV që plotëson kushtet e germës “a” ose me: 
-
-i) një produkt mjekësor të autorizuar për përdorim te njerëzit në Republikën e Shqipërisë; në këtë rast produkti mjekësor do të lejohet vetëm me recetë veterinare që nuk përsëritet; ose 
-
-ii) në përputhje me legjislacionin veterinar në fuqi, me një PMV të autorizuar në një nga shtetet e BE-së në përputhje me legjislacionin përkatës të BE-së (që përafron kjo rregullore), për përdorim në të njëjtat lloje kafshësh ose në lloje të tjera kafshësh për të njëjtën sëmundje ose për sëmundje të tjera; ose
-
-c) Nëse nuk ka asnjë produkt mjekësor që plotëson kushtet e germës “b” dhe brenda kufijve të legjislacionit shqiptar, një PMV e përgatitur në çast (ex tempora) nga një farmacist ose farmacist veterinar në përputhje me kushtet e recetës veterinare.
-
-Mjeku veterinar mund ta përdorë vetë PMV ose të lejojë një person tjetër ta përdorë nën përgjegjësinë dhe mbikëqyrjen e tij/saj. 
-
-2. Kërkesat e pikës 1 të këtij neni do të zbatohen edhe për trajtimet nga mjeku veterinar të kafshëve të familjes ekuide, me kusht që pronari i kafshës të deklarojë me shkrim se kafsha nuk do të theret për konsum mishi nga njerëzit. 
+(shfuqizuar me urdhrin nr. 325, datë 8.7.2022)
 
 Neni 10
 
 Përjashtimet e përdorimit të PMV për kafshët prodhuese të ushqimeve
 
-1. Në rastet kur nuk ka PMV të miratuar, për të mjekuar një sëmundje të caktuar në një lloj kafshe joprodhuese të ushqimit, në mënyrë përjashtimore, mjeku veterinar nën përgjegjësinë e tij/saj personale dhe me qëllim shmangien e vuajtjeve të tepërta te kafsha, mund të mjekojë kafshën në fjalë në një fermë të caktuar me: 
+(ndryshuar fjalë në paragrafin e parë, ndryshuar nënparagrafi “ii” i shkronjës “b” të pikës 1, me urdhrin nr. 325, datë 8.7.2022)
+
+1. Në rastet kur nuk ka PMV të miratuar, për të mjekuar një sëmundje të caktuar në një lloj kafshe prodhuese të ushqimit, në mënyrë përjashtimore, mjeku veterinar nën përgjegjësinë e tij/saj personale dhe me qëllim shmangien e vuajtjeve të tepërta te kafsha, mund të mjekojë kafshën në fjalë në një fermë të caktuar me: 
 
 a) Një PMV të autorizuar në Republikën e Shqipërisë, për përdorim në kafshë të llojeve të tjera ose për një sëmundje tjetër tek e njëjta lloj kafshe; ose 
 
@@ -226,7 +232,7 @@ b) Nëse nuk ka asnjë PMV që plotëson kushtet e germës “a” ose me:
 
 i) një produkt mjekësor të autorizuar për përdorim te njerëzit në Republikën e Shqipërisë; ose 
 
-ii) në përputhje me legjislacionin veterinar në fuqi, me një PMV të autorizuar në një nga shtetet e BE-së në përputhje me legjislacionin përkatës të BE-së (që përafron kjo rregullore), për përdorim në të njëjtat lloje kafshësh ose në lloje të tjera kafshësh për të njëjtën sëmundje ose për sëmundje të tjera; ose
+ii) me një PMV të autorizuar në Republikën e Shqipërisë, për përdorim në të njëjtat lloje kafshësh ose në lloje të tjera kafshësh për të njëjtën sëmundje ose për sëmundje të tjera; ose
 
 c) Nëse nuk ka asnjë produkt mjekësor që plotëson kushtet e germës “b” dhe brenda kufijve të legjislacionit shqiptar, një PMV e përgatitur në çast (ex tempora) nga një farmacist ose farmacist veterinar në përputhje me kushtet e recetës veterinare.
 
@@ -250,9 +256,9 @@ Neni 11
 
 Kërkesa për certifikatën e tregtimit
 
-1. Kërkesa për të marrë një certifikatë tregtimi për një PMV i paraqitet autoritetit kompetent në Republikën e Shqipërisë. 
+(riformuluar pika 1 dhe shkronja “n” e pikes 3 me urdhrin nr. 325, datë 8.7.2022)
 
-Kërkesa për certifikatën e tregtimit të PMV nuk pranohet, nëse një PMV synohet të përdoret për një ose më shumë lloje kafshësh prodhuese të ushqimeve dhe lëndët farmakologjike aktive të PMV, për këto lloje kafshësh, nuk përfshihen në anekset I, II dhe III të udhëzimit nr. 15 datë 5.10.2010, “Për limitet maksimale të mbetjeve për produktet mjekësore veterinare në ushqimet me origjinë shtazore”, i ndryshuar. 
+1. Aplikimi për të marrë certifikatë tregtimi për një PMV bëhet online në portalin qeveritar e-Albania. Dosja dërgohet pranë LSHKV-së 
 
 2. Certifikata e tregtimit mund t’i jepet vetëm kërkuesit që është shtetas shqiptar ose me banim të përhershëm në Republikën e Shqipërisë.
 
@@ -292,7 +298,13 @@ l) Një përmbledhje e karakteristikave të produktit në përputhje me nenin 16
 
 m) Një dokument që vërteton se prodhuesi është i miratuar në vendin e tij për të prodhuar PMV;
 
-n) Kopje të çdo certifikate tregtimi të marrë në vendet anëtare të BE-së ose çdo vend tjetër për PMV në fjalë; një listë të vendeve të BE-së në të cilat është në shqyrtim kërkesa për certifikatën e tregtimit në përputhje me legjislacionin përkatës të BE-së (që përafron kjo rregullore); kopje të përmbledhjes të karakteristikave të produktit të propozuara nga kërkuesi në përputhje me nenin 16 ose të atyre të miratuara nga autoriteti kompetent i vendit të BE-së ku është autorizuar përdorimi i PMV; kopje të fletë-udhëzuesit të propozuar; hollësi mbi ndonjë vendim që kundërshton certifikatën në vendet e BE-së ose ndonjë vend tjetër dhe arsyet për këtë vendim. I gjithë ky informacion duhet të përditësohet rregullisht nga kërkuesi i certifikatës së tregtimit;
+n) Kopje të çdo certifikate tregtimi të marrë në vendet anëtare të BE-së, kopje të përmbledhjes të karakteristikave të produktit të propozuara nga kërkuesi në përputhje me nenin 16 ose të atyre të miratuara nga autoriteti kompetent i vendit të BE-së ku është autorizuar përdorimi i PMV-së; 
+
+Kopje të fletudhëzuesit të propozuar; 
+
+Hollësi mbi ndonjë vendim që kundërshton certifikatën në vendet e BE-së ose ndonjë vend tjetër dhe arsyet për këtë vendim. 
+
+I gjithë ky informacion duhet të përditësohet rregullisht nga kërkuesi i certifikatës së tregtimit. Brenda datës 30 janar të çdo viti, mbajtësi i certifikatës së tregtimit dorëzon pranë SPV kopje origjinale ose të noterizuar të certifikatës së tregtimit në një nga vendet e BE-së, linkun ku është publikuar, si dhe autorizimin nga mbajtësi i autorizuar i certifikatës së tregtimit;
 
 o) Vërtetimin që kërkuesi ka një person të kualifikuar përgjegjës për farmakovigjilencën dhe se ka mjetet e duhura për të njoftuar çdo reaksion të kundërt të mundshëm që ndodh në vend ose vende të tjera;
 
@@ -412,7 +424,9 @@ Neni 17
 
 Ekspertët që përgatitin dokumentacionin
 
-1. Kërkuesi për certifikatën e tregtimit të PMV siguron se përmbledhjet e hollësishme dhe kritike të përmendura në nenin 11, pika 3, paragrafi i dytë, përpara se të dorëzohen tek autoriteti kompetent, janë hartuar dhe nënshkruar nga persona me kualifikimin e duhur teknik dhe profesional. Këto dokumente shoqërohen me një CV të shkurtër të tyre.
+(ndryshuar togfjalësh në pikën 1 me urdhrin nr. 325, datë 8.7.2022)
+
+1. Kërkuesi për certifikatën e tregtimit të PMV siguron se përmbledhjet e hollësishme dhe kritike të përmendura në nenin 11, pika 3, paragrafi i dytë, përpara se të dorëzohen tek LSHKV, janë hartuar dhe nënshkruar nga persona me kualifikimin e duhur teknik dhe profesional. Këto dokumente shoqërohen me një CV të shkurtër të tyre.
 
 2. Personat me kualifikimin teknik ose profesional të përmendur në pikën 1 do të shpjegojnë çdo përdorim të literaturës shkencore të përmendur në nenin 13, pika 1, në përputhje me kushtet e përcaktuara në aneksin I. 
 
@@ -486,33 +500,37 @@ Neni 23
 
 Kohëzgjatja e procedurës për certifikatën e tregtimit
 
-1. Në zbatim të nenit 87 të ligjit nr. 10465, datë 29.9.2011, “Për shërbimin veterinar në Republikën e Shqipërisë”, procedura për shqyrtimin e dosjes së PMV, miratimin nga Komisioni Shtetëror i PMV dhe lëshimin e certifikatës së tregtimit, përfundon brenda një afati prej 210 ditësh pas dorëzimit të një kërkese të rregullt.
+(riformuluar me urdhrin nr. 325, datë 8.7.2022)
 
-2. Kërkesa për certifikatën e tregtimit dorëzohet në Drejtorinë Veterinare (DV) në Ministri, ku për çdo PMV të kërkuar caktohet një numër reference.
+1. Në zbatim të nenit 87, të ligjit nr. 10465, datë 29.9.2011, “Për shërbimin veterinar në Republikën e Shqipërisë”, të ndryshuar, procedura për shqyrtimin e dosjes së PMV-së nga LSHKV-ja, miratimi nga Komisioni Shtetëror i PMV-së dhe lëshimi i certifikatës së tregtimit, përfundon brenda një afati prej 100 ditësh pas aplikimit online. 
 
-3. Numri i referencës së kërkesës dhe dosjet përkatëse për secilën PMV së bashku me kampionet e PMV dorëzohen në Laboratorin Shtetëror të Kontrollit Veterinar, ditën e parë të punës, pas dorëzimit të kërkesës për certifikatën e tregtimit në DV.
+2. Aplikimi dhe numri i referencës së kërkesës dërgohen me email nga SPV-ja në LSHKV. Dosjet përkatëse për secilën PMV së bashku me kampionet e PMV-së, si dhe kampionin e substancës aktive, dorëzohen nga kërkuesi në Laboratorin Shtetëror të Kontrollit Veterinar, pas aplikimit të kryer online dhe pranimit të aplikimit.
 
-4. Kërkuesi, brenda 30 ditëve pune nga dorëzimi i dosjes për PMV ose ditën e parë të punës pas këtij afati 30-ditor, njoftohet me shkrim nëse dosja e dorëzuar për PMV është në përputhje me kërkesat e aneksit I të kësaj rregulloreje.
+3. Kërkuesi, brenda 30 ditëve pune nga dorëzimi i dosjes për PMV ose ditën e parë të punës pas këtij afati 30- ditor, njoftohet me shkrim nga LSHKV-ja nëse dosja e dorëzuar për PMV është në përputhje me kërkesat e aneksit I të kësaj rregulloreje.
 
 Neni 24
 
 Shqyrtimi i kërkesës për certifikatën e tregtimit
 
-Autoriteti kompetent dhe Laboratori Shtetëror i Kontrollit Veterinar, gjatë shqyrtimit të kërkesës së paraqitur për certifikatën e tregtimit në përputhje me kërkesat e neneve 11, 12, 13, 14 dhe 15 ndërmarrin hapat e mëposhtëm:
+(riformuluar paragrafi i parë, hequr fjalë në pikën 2, zëvendësuar togfjalësh në pikën 4 me urdhrin nr. 325, datë 8.7.2022)
+
+Laboratori Shtetëror i Kontrollit Veterinar, gjatë shqyrtimit të dosjes së paraqitur për certifikatën e tregtimit në përputhje me kërkesat e neneve, 11, 12, 13, 14, 15, kryhen veprimet si më poshtë: 
 
 1. Kontrollojnë nëse dokumentacioni i dorëzuar në mbështetje të kërkesës përputhet me kërkesat e neneve 11, 12, 13, 14 dhe 15 dhe nëse janë plotësuar kushtet për lëshimin e certifikatës së tregtimit.
 
-2. Mund të kryejnë në Laboratorin Shtetëror të Kontrollit Veterinar testimin e PMV, lëndëve aktive të tij dhe nëse është e nevojshme produktet e ndërmjetme ose lëndë të tjera përbërëse, në mënyrë që të sigurohet që metodat e testimit, të përdorura nga prodhuesi, dhe të përshkruara në dokumentet e kërkesës, në përputhje me nenin 11, pika 3, germa “i” janë të kënaqshme.
+2. Të kryejnë në Laboratorin Shtetëror të Kontrollit Veterinar testimin e PMV, lëndëve aktive të tij dhe nëse është e nevojshme produktet e ndërmjetme ose lëndë të tjera përbërëse, në mënyrë që të sigurohet që metodat e testimit, të përdorura nga prodhuesi, dhe të përshkruara në dokumentet e kërkesës, në përputhje me nenin 11, pika 3, germa “i” janë të kënaqshme.
 
 3. Mund të këshillohen me laboratorët e mbetjeve të PMV në produktet shtazore, në Institutin e Sigurisë Ushqimore dhe Veterinarisë ose me laboratorë ndërkombëtarë të referencës, që të kontrollojë, nëse metodat analitike të përdorura për të zbuluar mbetjet në produktet shtazore, të paraqitura nga kërkuesi në përputhje me nenin 11, pika 3, germa “j”, paragrafi 2, janë të kënaqshme.
 
-4. Nëse shihet e nevojshme, kërkojnë informacion shtesë nga kërkuesi i certifikatës së tregtimit në lidhje me elementet e listuara në nenet 11, 12, 13, 14 dhe 15. Në një rast të tillë të kërkesës nga autoriteti kompetent, afatet e përcaktuar në nenin 23, pika 1 do të ndërpriten, deri sa të sigurohen dhe paraqiten të dhënat e kërkuara. Po kështu, këto afate kohore do të ndërpriten për çdo kohë që kërkuesit i jepet për të dhënë shpjegime me gojë ose me shkrim në kohë 30 ditë kalendarike.
+4. Nëse shihet e nevojshme, kërkojnë informacion shtesë nga kërkuesi i certifikatës së tregtimit në lidhje me elementet e listuara në nenet 11, 12, 13, 14 dhe 15. Në një rast të tillë të kërkesës nga LSHKV, afatet e përcaktuar në nenin 23, pika 1 do të ndërpriten, deri sa të sigurohen dhe paraqiten të dhënat e kërkuara. Po kështu, këto afate kohore do të ndërpriten për çdo kohë që kërkuesit i jepet për të dhënë shpjegime me gojë ose me shkrim në kohë 30 ditë kalendarike.
 
 Neni 25
 
 Përgatitja për mbledhjen e Komisionit Shtetëror të PMV
 
-1. Pas shqyrtimit të plotë të dokumentacionit të PMV dhe testeve të përcaktuara në certifikatën e analizës që shoqëron kampionin, Laboratori Shtetëror i Kontrollit Veterinar dërgon në DV informacionin mbi PMV që janë gati për t’u miratuar nga Komisioni Shtetëror i PMV.
+(zëvendësuar fjalë në paragrafin e parë dhe në pikën 3, shtuar shkronja  “e” dhe “f” në paragrafin e dytë, zëvendësuar togfjalësh në pikën 5 me urdhrin nr. 325, datë 8.7.2022)
+
+1. Pas shqyrtimit të plotë të dokumentacionit të PMV dhe testeve të përcaktuara në certifikatën e analizës që shoqëron kampionin, Laboratori Shtetëror i Kontrollit Veterinar dërgon në SPV informacionin mbi PMV që janë gati për t’u miratuar nga Komisioni Shtetëror i PMV.
 
 2. Informacioni i dërguar nga LSHKV-ja përmban të dhënat e mëposhtme:
 
@@ -522,13 +540,17 @@ b) përbërjen e secilit PMV, llojet e kafshëve ku përdoret, si dhe kohët e p
 
 c) përmbledhjen e karakteristikave të produktit për secilin PMV (formatin elektronik në shqip);
 
-d) fletë-udhëzuesin për secilin PMV (formatin elektronik në shqip).
+d) fletë-udhëzuesin për secilin PMV (formatin elektronik në shqip);
 
-3. Personi përgjegjës për PMV në DV, kryen funksionin e sekretarit të Komisionit Shtetëror të PMV. 
+e) fotokopje të certifikatës së tregtimit në një vend të BE-së të dorëzuar në LSHKV;
+
+f) fletën e analizave të kryera në LSHKV.
+
+3. Personi përgjegjës për PMV në SPV, kryen funksionin e sekretarit të Komisionit Shtetëror të PMV. 
 
 4. Përgjegjësi i LSHKV-së përgatit dokumentacionin e nevojshëm për mbledhjen e Komisionit për miratimin e certifikatës së tregtimit për PMV. Sekretari u dërgon në formë elektronike anëtarëve të komisionit të gjithë informacionin që përfshihet në pikën 2 të këtij neni.
 
-5. Kryetari i Komisionit Shtetëror të PMV, vendos datën dhe thërret mbledhjen e Komisionit në periudhën 15 deri 30 ditë nga dërgimi i informacionit nga sekretari i Komisionit. Certifikata e tregtimit përgatitet nga autoriteti kompetent. 
+5. Kryetari i Komisionit Shtetëror të PMV, vendos datën dhe thërret mbledhjen e Komisionit në periudhën jo më pak se 5 ditë nga dërgimi i informacionit nga sekretari i Komisionit. Certifikata e tregtimit përgatitet nga sekretari i komisionit. 
 
 Neni 26
 
@@ -546,15 +568,19 @@ Neni 27
 
 Informacioni për certifikatën e tregtimit
 
-1. Autoriteti kompetent njofton kërkuesin për miratimin e kërkesës për tregtimin e PMV, përmbledhjen e karakteristikave të produktit dhe të gjitha ndryshimet e miratuara nga Komisioni Shtetëror i PMV. 
+(zëvendësuar togfjalësh në pikën 1, riformuluar pika 3, zëvendësuar togfjalësh në pikën 4, shtuar pika 5  me urdhrin nr. 325, datë 8.7.2022)
+
+1. SPV njofton kërkuesin për miratimin e kërkesës për tregtimin e PMV, përmbledhjen e karakteristikave të produktit dhe të gjitha ndryshimet e miratuara nga Komisioni Shtetëror i PMV. 
 
 2. Informacioni mbi PMV dhe veçanërisht etiketa dhe udhëzuesi i paketimit duhet të jenë në përputhje me përmbledhjen e karakteristikave të produktit të miratuara në kohën kur u pranua kërkesa për certifikatën e tregtimit.
 
-3. Autoriteti kompetent lëshon certifikatën e tregtimit për secilin produkt të miratuar brenda 10 ditëve kalendarike nga miratimi prej komisionit shtetëror, së bashku me përmbledhjen e karakteristikave të produktit për secilin PMV të autorizuar. Certifikata e tregtimit mban datën e miratimit nga Komisioni Shtetëror i PMV dhe lëshohet pas pagesës së tarifës përkatëse të përcaktuar në udhëzimin e përbashkët të ministrit dhe ministrit të Financave.
+3. Drejtori i SPV-së lëshon certifikatën e tregtimit për secilin produkt të miratuar brenda 10 ditëve kalendarike nga kryerja e pagesës nga kërkuesi, së bashku me përmbledhjen e karakteristikave të produktit për secilin PMV të autorizuar. Certifikata e tregtimit mban datën e miratimit nga Komisioni Shtetëror i PMV-së. Tarifa përkatëse përcaktohet në udhëzimin e përbashkët të ministrit dhe ministrit të Financave.
 
-4. Autoriteti kompetent harton një raport vlerësimi dhe shënon vërejtjet mbi dokumentacionin në lidhje me rezultatet e testeve farmaceutike, të sigurisë, të mbetjeve dhe të provave paraklinike dhe klinike të PMV në fjalë. Raporti i vlerësimit përditësohet sa herë që merren informacione të reja që janë me rëndësi për cilësinë, sigurinë ose efektin e PMV në fjalë.
+4. LSHKV harton një raport vlerësimi dhe shënon vërejtjet mbi dokumentacionin në lidhje me rezultatet e testeve farmaceutike, të sigurisë, të mbetjeve dhe të provave paraklinike dhe klinike të PMV në fjalë. Raporti i vlerësimit përditësohet sa herë që merren informacione të reja që janë me rëndësi për cilësinë, sigurinë ose efektin e PMV në fjalë.
 
 Autoriteti kompetent e bën publik dhe pa vonesë raportin e vlerësimit dhe arsyet e tij, pasi ka hequr prej tij çdo informacion sekret të natyrës tregtare.
+
+5. Sekretari i Komisionit regjistron PMV-të e miratuara në regjistrin zyrtar të PMV-ve brenda 10 ditëve nga lëshimi i certifikatës. Regjistrimi i përditësuar publikohet në faqen zyrtare të Ministrisë, si dhe u dërgohet në rrugë zyrtare AKVMB-së dhe AKU-së.
 
 Neni 28
 
@@ -598,11 +624,13 @@ Neni 31
 
 Kohëzgjatja, rinovimi, tërheqja dhe heqja e certifikatës së tregtimit
 
+(zëvendësuar fjalë në fjalinë e fundit të pikes 2, shtuar pika 8 me urdhrin nr. 325, datë 8.7.2022)
+
 1. Certifikata e tregtimit të PMV është e vlefshëm për një periudhë 5-vjeçare, pa cenuar kërkesat e pikës 6 të këtij neni.
 
 2. Certifikata e tregtimit mund të rinovohet pas përfundimit të afatit të vlefshmërisë mbështetur në rivlerësimin e raportit përfitim-risk.
 
-Për këtë qëllim, të paktën 6 muaj përpara përfundimit të vlefshmërisë së certifikatës së tregtimit, mbajtësi i certifikatës së tregtimit dorëzon një listë të plotë të të gjitha dokumenteve të paraqitura në lidhje me cilësinë, sigurinë dhe efektin, duke përfshirë të gjitha variacionet e përfshira që nga koha e miratimit të certifikatës së tregtimit. Autoriteti kompetent mund të kërkojë, në çdo kohë, që kërkuesi i rinovimit të certifikatës së tregtimit të dorëzojë dokumentacionin e sipërpërmendur.
+Për këtë qëllim, të paktën 6 muaj përpara përfundimit të vlefshmërisë së certifikatës së tregtimit, mbajtësi i certifikatës së tregtimit dorëzon një listë të plotë të të gjitha dokumenteve të paraqitura në lidhje me cilësinë, sigurinë dhe efektin, duke përfshirë të gjitha variacionet e përfshira që nga koha e miratimit të certifikatës së tregtimit. SPV mund të kërkojë, në çdo kohë, që kërkuesi i rinovimit të certifikatës së tregtimit të dorëzojë dokumentacionin e sipërpërmendur.
 
 3. Në rast se kërkesa për rinovimin e certifikatës së tregtimit nuk paraqitet në kufirin kohor të përcaktuar në pikën 2, certifikata e tregtimit humbet vlefshmërinë e saj në përfundim të afatit të përcaktuar. Në këtë rast, nevojitet që të paraqitet një kërkesë e re për certifikatën e tregtimit në përputhje me kërkesat e nenit 11. 
 
@@ -614,6 +642,10 @@ Për këtë qëllim, të paktën 6 muaj përpara përfundimit të vlefshmërisë
 
 7. Komisioni Shtetëror i PMV, me propozim të autoritetit kompetent ose kërkesën e paraqitur nga mbajtësi i certifikatës së tregtimit, në rrethana të jashtëzakonshme ose mbështetur në arsye që kanë të bëjnë me shëndetin e njeriut apo të kafshëve, mund të lejojë përjashtime nga pika 6. Këto përjashtime duhet të jenë të argumentuara shkencërisht. 
 
+	8. SPV i propozon Komisionit çregjistrimin e certifikatave për tregtim të PMV-ve të regjistruara për produkte që nuk kanë certifikatë tregtimi nga një prej vendeve të BE-së ose të lëshuara nga EMA-ja, ose janë regjistruar në kundërshtim me ligjin. nr. 10465, datë 29.9.2011. Komisioni merr vendim brenda 20 ditë pune, i cili i njoftohet, menjëherë AKU-në e cila ndalon importin e produkteve mjekësore veterinare të çregjistruara. 
+
+Ndalohet tregtimi i produkteve të importuara pas çregjistrimit të certifikatës së tregtimit të tyre, dhe hiqen nga tregu brenda 1 muaji nga data e çregjistrimit të certifikatës.
+
 Neni 32
 
 Efektet e certifikatës së tregtimit
@@ -624,7 +656,9 @@ Neni 33
 
 Hedhja poshtë e kërkesës për certifikatën e tregtimit
 
-1. Kërkesa për certifikatën e tregtimit hidhet poshtë nëse dosja e dorëzuar tek autoriteti kompetent nuk përputhet me nenet 11, 12, 13, 14, 15 dhe 17. 
+(zëvendësuar fjalë në pikën 1 me urdhrin nr. 325, datë 8.7.2022)
+
+1. Kërkesa për certifikatën e tregtimit hidhet poshtë nëse dosja e dorëzuar tek  LSHKV nuk përputhet me nenet 11, 12, 13, 14, 15 dhe 17. 
 
 2. Kërkesa për certifikatën e tregtimit hidhet poshtë nëse pas shqyrtimit të dokumentacionit dhe informacionit të dorëzuar në përputhje me nenet 11 dhe 12, pika 1 del qartë se:
 
@@ -652,7 +686,9 @@ Neni 34
 
 Licencimi i prodhimit të PMV
 
-1. Prodhimi i PMV në territorin e Republikës së Shqipërisë, si për përdorim në tregun e brendshëm ashtu edhe për qëllime eksporti, kryhet nga subjekte të licencuara nga QKL-ja, pas miratimit të dërguar nga autoriteti kompetent.
+(zëvendësuar fjalë në pikën 1 me urdhrin nr. 325, datë 8.7.2022)
+
+1. Prodhimi i PMV në territorin e Republikës së Shqipërisë, si për përdorim në tregun e brendshëm ashtu edhe për qëllime eksporti, kryhet nga subjekte të licencuara nga QKL-ja, pas miratimit të dërguar nga Komisioni Shtetëror i PMV-ve.
 
 2. Licencimi i kërkuar në pikën 1 zbatohet si për prodhimin e plotë ashtu dhe atë të pjesshëm dhe për proceset e ndryshme të ndarjes, paketimit ose formës së paraqitjes.
 
