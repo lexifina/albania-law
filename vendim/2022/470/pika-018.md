@@ -1,0 +1,1 @@
+18. Ministria përgjegjëse për çështjet e aftësisë së kufizuar, bashkitë dhe organizatat për aftësinë e kufizuar bashkëpunojnë për nxitjen dhe ndërgjegjësimin e personave me aftësi të kufizuara për të përdorur vendimmarrjen e mbështetur si një mjet për fuqizimin e autonomisë e të pavarësisë së personave me aftësi të kufizuara.

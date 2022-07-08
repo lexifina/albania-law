@@ -1,0 +1,1 @@
+21. Mbështetësi në vendimmarrje të mbështetur nuk duhet të jetë i dënuar me vendim gjykate të formës së prerë për kryerjen e një vepre penale, kundërvajtjeje penale me dashje apo vendim gjykate me një nga masat mbrojtëse ndaj dhunës në familje.

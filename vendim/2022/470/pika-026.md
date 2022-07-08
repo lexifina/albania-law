@@ -1,0 +1,1 @@
+26. Punonjësi nga strukturat përgjegjëse për shërbimet e kujdesit shoqëror pranë bashkive dhe njësive administrative identifikon dhe referon rastet e mosofrimit të shërbimit të vendimmarrjes së mbështetur.

@@ -1,0 +1,1 @@
+2. Në kuptim të këtij vendimi, vendimmarrje e mbështetur është ushtrimi i vullnetit nga një person me aftësi të kufizuara, nëpërmjet një kompetence specifike të shtuar, që mbështet qëllimin dhe interesin më të mirë të personit të aftësisë së kufizuara, duke i mundësuar kryerjen e veprimeve për të fituar të drejta dhe për të marrë përsipër detyrime.

@@ -1,0 +1,1 @@
+3. Mbështetja në vendimmarrje ofrohet si alternativë fuqizuese, me qëllim realizimin e të drejtave dhe lirive të personit me aftësi të kufizuara dhe pjesëmarrjen efektive të personit në shoqëri si përfitues i shërbimeve në institucionet publike dhe jopublike, duke respektuar parimin e konfidencialitetit.

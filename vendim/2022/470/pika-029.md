@@ -1,0 +1,1 @@
+29. Ministria përgjegjëse për çështjet e aftësisë së kufizuar bashkëpunon me strukturat e shërbimeve sociale në nivel rajonal dhe vendor për të përforcuar referimin e shërbimeve që ndihmojnë në vendimmarrjen e mbështetur.

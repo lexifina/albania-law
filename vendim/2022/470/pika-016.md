@@ -1,0 +1,1 @@
+16. Në rastin kur një grup individësh janë deklaruar si mbështetës në vendimmarrje, ata bashkëpunojnë për procesin e mbështetjes me personin me aftësi të kufizuara, sipas përzgjedhjes së personit me aftësi të kufizuara.

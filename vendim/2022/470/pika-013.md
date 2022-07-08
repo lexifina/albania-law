@@ -1,0 +1,1 @@
+13. Personi me aftësi të kufizuara, që përfiton mbështetjen për vendimmarrje, nuk prezumohet si i paaftë për të marrë vendime, në rastet kur informacioni i ofruar nuk është në formë të përshtatur, duke përfshirë gjuhën e thjeshtuar, komunikimin joverbal nga interpreti i gjuhës së shenjave, shoqëruesi për të verbrit dhe ndihmën e mjeteve ndihmëse.

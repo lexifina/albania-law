@@ -1,0 +1,1 @@
+12. Personi me aftësi të kufizuara, i cili përfiton mbështetjen në vendimmarrje, është personi që ka aftësi për të marrë vetë vendime dhe kërkon mbështetje, sipas aneksit nr. 1 bashkëlidhur këtij vendimi.

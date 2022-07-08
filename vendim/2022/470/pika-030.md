@@ -1,0 +1,1 @@
+30. Institucionet publike dhe jopublike kanë detyrimin që të shpjegojnë të drejtat dhe detyrimet personave me aftësi të kufizuara/mbështetësve, pasojat e veprimeve me natyrë juridike, duke përdorur teknika të përshtatshme për nivelin dhe llojin e aftësisë së kufizuar.

@@ -1,0 +1,1 @@
+14. Marrëveshja e vendimmarrjes së mbështetur është alternativë për vendimmarrje të mbështetur për personat me aftësi të kufizuara, që janë në gjendje të marrin vendimet e tyre, por që kanë nevojë për një kompetencë specifike të shtuar.

@@ -1,0 +1,1 @@
+28. Ministria përgjegjëse për çështjet e aftësisë së kufizuar dhe Shërbimi Social Shtetëror nxitin dhe promovojnë përgatitjen e institucioneve për vendimmarrje të mbështetur përmes programeve të trajnimit në bashki, me qëllim mirëfunksionimin e këtij shërbimi.

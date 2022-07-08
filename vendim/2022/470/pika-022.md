@@ -1,0 +1,1 @@
+22. Personi me aftësi të kufizuara dhe mbështetësi/t në vendimmarrje nënshkruajnë një marrëveshje sipas aneksit nr. 1, bashkëlidhur këtij vendimi, të cilën e dorëzojnë në njësinë administrative/strukturat vendore të shërbimeve sociale në bashki. Marrëveshja nuk përjashton që personi me aftësi të kufizuara të kryejë veprime në mënyrë të pavarur nga marrëveshja.

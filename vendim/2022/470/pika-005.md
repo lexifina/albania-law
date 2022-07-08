@@ -1,0 +1,1 @@
+5. Mbështetja në vendimmarrje për personat me aftësi të kufizuara, fizike, mendore, intelektuale ose ndijore ofrohet për të rritur aksesin për mbështetjen e nevojshme, kur personat me aftësi të kufizuara janë në pamundësi për të marrë vendime, sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi.
