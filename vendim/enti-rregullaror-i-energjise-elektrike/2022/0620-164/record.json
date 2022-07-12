@@ -1,0 +1,28 @@
+{
+  "qbz_id": 24680,
+  "title": "Mbi transferimin e plotë të licencës së shoqërisë “Hera” sh.p.k., nr. 49, seria NPM07P, dhënë me vendimin e Bordit nr. 61, datë 2.11.2007, “Për ndërtim, instalim, shfrytëzimin dhe prodhimin e energjisë elektrike nga centrale me erë (projekti ‘Kappet’)”, i ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "164",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2022-06-20",
+  "published": "2022-07-12",
+  "in_force": "2022-07-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ec321bfc292481c77ce5e9a1c128a113ef21bec9dedd30b07a7e314d11954ba8.docx",
+  "source_sha256": "ec321bfc292481c77ce5e9a1c128a113ef21bec9dedd30b07a7e314d11954ba8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/24680",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/06/20/164",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    25118
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
