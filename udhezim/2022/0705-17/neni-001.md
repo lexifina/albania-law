@@ -1,0 +1,3 @@
+# Neni 1
+Qëllimi i vlerësimit të nxënësit
+Vlerësimi është proces gjatë të cilit mblidhen të dhëna dhe gjykohet për vlerën e arritjes së rezultateve të të nxënit, duke u bazuar në nivelet e arritjes. Qëllimi i vlerësimit është gjykimi mbi arritjet e nxënësit, duke iu referuar përmbajtjes së kurrikulës që bazohet në kompetenca, si dhe mbështetja e të nxënit dhe përparimit të nxënësit. Ky qëllim përmbushet nga kombinimi i vlerësimit për të nxënë dhe i vlerësimit të të nxënit, mbështetur në kornizën e vlerësimit të nxënësit në arsimin parauniversitar, miratuar më datë 23.7.2015, nga ministri i Arsimit dhe Sportit.
