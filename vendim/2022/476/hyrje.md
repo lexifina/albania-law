@@ -1,0 +1,5 @@
+VENDIM
+Nr. 476, datë 13.7.2022
+PËR MIRATIMIN E KALIMIT TË PASURIVE NR. 68/121/1, NR. 68/137/2 DHE NR. 5212/7/1, ME SIPËRFAQE, PËRKATËSISHT 5532 m2, 2649 m2 DHE 593 m2, TË NDODHURA NË ZONËN KADASTRALE 1739, NGA PRONË SHTETËRORE, NË PRONË PRIVATE, PËR SHOQËRINË “GREEN COAST” SHPK, DHE MIRATIMIN E PROJEKTKONTRATËS QË DO TË LIDHET PËR KËTË QËLLIM, NDËRMJET MINISTRISË SË FINANCAVE DHE EKONOMISË DHE SHOQËRISË “GREEN COAST” SHPK
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 2, të aktit normativ nr. 4, datë 9.7.2008, të Këshillit të Ministrave, “Për privatizimin dhe dhënien në përdorim shoqërive tregtare dhe institucioneve shtetërore të ndërmarrjeve apo objekteve të veçanta, mjeteve kryesore dhe mjeteve të xhiros së këtyre ndërmarrjeve”, miratuar me ligjin nr. 9967, datë 24.7.2008, të ndryshuar, dhe në vijim, të pikës 7, të vendimit nr. 807, datë 11.12.2019, të Këshillit të Ministrave, “Për përcaktimin e kritereve dhe të kushteve për kalimin e pronës shtetërore në pronë private, në funksion të planeve të përgjithshme vendore”, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:

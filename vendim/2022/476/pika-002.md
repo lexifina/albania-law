@@ -1,0 +1,2 @@
+2. Miratimin e projektkontratës, ndërmjet Ministrisë së Financave dhe Ekonomisë, si shitës, dhe shoqërisë “Green Coast”, sh.p.k., si blerës, për pasuritë shtetërore nr. 68/121/1, me sipërfaqe 5532 m2, nr. 68/137/2, me sipërfaqe 2649 m2, dhe nr. 5212/7/1, me sipërfaqe 593 m2, të cilat ndodhen në Palasë, Himarë, zona kadastrale 1739, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
