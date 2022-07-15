@@ -1,0 +1,1 @@
+5. Pagesa e tarifës për caktimin për riautorizim të barit bëhet e plotë në momentin e dorëzimit të dokumentacionit përkatës. Nëse aplikanti dorëzon dosjen për riautorizim tregtimi 90 ditë para afatit të përfundimit të autorizimit për tregtim do të aplikohet një kamatëvonesë 1.5% e tarifës fillestare për çdo ditë vonesë.

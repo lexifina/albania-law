@@ -1,0 +1,1 @@
+4. Caktimi i tarifës për Rinovimin e Autorizimit për Tregtim për çdo formëdozë bari, që pajiset me riautorizimin për tregtim, është 350 euro. Për barnat homeopatike për rinovimin e autorizimit për tregtim tarifa është 150 euro.

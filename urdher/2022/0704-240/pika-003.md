@@ -1,0 +1,1 @@
+3. Caktimi i tarifës për autorizim të kushtëzuar është 800 euro. Pagesa e tarifës kryhet jo më vonë se 30 (tridhjetë) ditë nga data e miratimit nga Agjencia Kombëtare e Barnave dhe Pajisjeve Mjekësore.
