@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese, me shkëmbim letrash, të marrëveshjes së financimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe Artigiancassa S.P.A., për financimin e programit të ndihmës së integruar për zhvillimin e ndërmarrjeve të vogla dhe të mesme shqiptare, ratifikuar me ligjin nr. 147/2013, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
