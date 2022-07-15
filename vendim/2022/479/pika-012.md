@@ -1,0 +1,1 @@
+12. Pajisjet mjekësore nuk duhet të tregojnë ndonjë shenjë që mund të jetë keqinformuese/mashtruese, referuar qëllimit të synuar të përdorimit të pajisjes dhe as të jenë në ndonjë mënyrë, në konflikt me markimin CE ose certifikimin FDA ose të zvogëlojnë dukjen dhe lexueshmërinë e tyre.

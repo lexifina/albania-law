@@ -1,0 +1,1 @@
+2. Publiciteti i pajisjeve mjekësore, sipas këtij vendimi, nënkupton çdo aktivitet që promovon shitjen ose përdorimin e një pajisjeje mjekësore nga subjektet e përcaktuara në pikën 7, në çdo formë të shkruar ose verbalisht, duke përdorur foto dhe zë, në formë elektronike, digjitale ose të tjera.

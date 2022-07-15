@@ -1,0 +1,1 @@
+7. Publiciteti bëhet vetëm nga prodhuesit e pajisjeve mjekësore, përfaqësuesit e prodhuesve të huaj, që kanë të regjistruar aktivitetin në Republikën e Shqipërisë, tregtuesit me shumicë të pajisjeve mjekësore.
