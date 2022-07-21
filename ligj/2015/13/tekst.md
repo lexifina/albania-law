@@ -4,6 +4,10 @@ Nr. 13/2015
 
 PËR POLICINË USHTARAKE NË FORCAT E ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË
 
+(ndryshuar me ligjin nr. 61/2022, datë 21.7.2022)
+
+(i përditësuar)
+
 	Në mbështetje të neneve 78 dhe 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 KUVENDI
@@ -26,19 +30,25 @@ Neni 2
 
 Misioni
 
-	Misioni i Policisë Ushtarake është ruajtja e rendit ushtarak, garantimi i zbatimit të ligjit nga veprimtaritë e kundërligjshme në Forcat e Armatosura të Republikës së Shqipërisë, mbrojtja e jetës së personelit, mbrojtja e pronës shtetërore në administrim dhe përdorim të Ministrisë së Mbrojtjes dhe Forcave të Armatosura, angazhimi në luftën kundër terrorizmit dhe pjesëmarrja në operacionet paqeruajtëse e humanitare.
+(zëvëndësuar fjalë me ligjin nr. 61/2022, datë 21.7.2022)
+
+	Misioni i Policisë Ushtarake është ruajtja e rendit ushtarak, garantimi i zbatimit të ligjit nga veprimtaritë e kundërligjshme në Forcat e Armatosura të Republikës së Shqipërisë, mbrojtja e jetës së personelit, mbështetja për mbrojtjen e pronës dhe të pasurisë shtetërore në administrim dhe përdorim të Ministrisë së Mbrojtjes dhe Forcave të Armatosura, angazhimi në luftën kundër terrorizmit dhe pjesëmarrja në operacionet paqeruajtëse e humanitare.
 
 Neni 3
 
 Juridiksioni
 
-	Policia Ushtarake e ushtron juridiksionin e saj në territorin e Republikës së Shqipërisë, si dhe kur dërgohet me mision, shërbim ose në mbështetje të Forcave të Armatosura të Republikës së Shqipërisë, jashtë vendit.
+(shtuar fjalë me ligjin nr. 61/2022, datë 21.7.2022)
+
+	Policia Ushtarake e ushtron juridiksionin e saj në territorin e Republikës së Shqipërisë, si dhe kur dërgohet me mision, shërbim stërvitje  ose në mbështetje të Forcave të Armatosura të Republikës së Shqipërisë, jashtë vendit.
 
 Neni 4
 
 Statusi 
 
-	Policia Ushtarake është strukturë e specializuar në përbërje të Forcave të Armatosura, në varësi të Shefit të Shtabit të Përgjithshëm të Forcave të Armatosura të Republikës së Shqipërisë.
+(shtuar fjalë me ligjin nr. 61/2022, datë 21.7.2022)
+
+	Policia Ushtarake është strukturë e specializuar për veprimet policore në përbërje të Forcave të Armatosura, në varësi të Shefit të Shtabit të Përgjithshëm të Forcave të Armatosura të Republikës së Shqipërisë.
 
 Neni 5
 
@@ -86,7 +96,9 @@ Neni 7
 
 Fusha e veprimit
 
-	Veprimtaria e Policisë Ushtarake ushtrohet mbi të gjitha subjektet ushtarake e civile, vendase dhe të huaja, me ose pa shtetësi, të cilat, me veprimet e tyre, cenojnë veprimtarinë e Forcave të Armatosura të Republikës së Shqipërisë brenda e jashtë vendit dhe mbështetet në dispozitat e këtij ligji dhe në legjislacionin në fuqi.
+(shtuar fjalë me ligjin nr. 61/2022, datë 21.7.2022)
+
+	Veprimtaria e Policisë Ushtarake ushtrohet mbi të gjitha subjektet ushtarake e civile, vendase dhe të huaja, me ose pa shtetësi, të cilat, me veprimet ose mosveprimet e tyre, cenojnë veprimtarinë e Forcave të Armatosura të Republikës së Shqipërisë brenda e jashtë vendit dhe mbështetet në dispozitat e këtij ligji dhe në legjislacionin në fuqi.
 
 KREU II
 
@@ -108,23 +120,37 @@ Neni 10
 
 Policia Kriminale Ushtarake
 
+(shfuqizuar pika 4 me ligjin nr. 61/2022, datë 21.7.2022)
+
 	1. Në Policinë Ushtarake organizohet dhe funksionon Policia Kriminale Ushtarake, si organ i specializuar për parandalimin, zbulimin, ndjekjen e veprimtarisë kriminale, kapjen e personave që kanë kryer ose përgatiten të kryejnë vepra penale ndaj Forcave të Armatosura të Republikës së Shqipërisë. 
 
 	2. Për sigurimin e informacionit të nevojshëm, gjatë ushtrimit të veprimtarisë së saj, Policia Kriminale Ushtarake shfrytëzon burime njerëzore, dokumente, mjete teknike e elektronike, mbikëqyrje të fshehtë, si dhe krijon bazë të dhënash të veçantë për personat që kanë kryer apo janë të dyshuar për kryerjen e një vepre penale. 
 
 	3. Gjatë ushtrimit të veprimtarisë së saj, Policia Kriminale, me atributet e Policisë Gjyqësore, kryen veprimtari procedurale në fazat e procedimit penal, në përputhje me dispozitat e Kodit të Procedurës Penale. 
 
-4. Pozicionet e punës dhe gradat për punonjësin e Policisë Ushtarake që do të ketë atributet e Policisë Gjyqësore përcaktohen me udhëzim të përbashkët të Ministrit të Mbrojtjes dhe Prokurorit të Përgjithshëm.
+       4. Shfuqizuar.
 
 Neni 11
 
-Seksioni i Policisë Gjyqësore 
+Shërbimi i Policisë Gjyqësore
 
-	1. Seksioni i Policisë Gjyqësore është seksioni përgjegjës, i cili ushtron detyrat e saj në përputhje me legjislacionin në fuqi për organizimin dhe funksionimin e Policisë Gjyqësore.
+(ndryshuar emërtimi i nenit dhe pika 1  me ligjin nr. 61/2022, datë 21.7.2022)
+
+	1. Shërbimi i Policisë Gjyqësore në Policinë Ushtarake është struktura përgjegjëse, e cila ushtron detyrat e saj në përputhje me legjislacionin në fuqi për organizimin dhe funksionimin e Policisë Gjyqësore dhe Kodin e Procedurës Penale.
 
 	2. Policia Gjyqësore në Policinë Ushtarake kryen veprimtari procedurale përgjatë të gjitha fazave të procedimit penal, të urdhëruara apo të deleguara nga organi procedues ose me nismën e vet, në përputhje me legjislacionin procedural në fuqi.
 
-	3. 	Policia Gjyqësore në Policinë Ushtarake kryen të njëjtat funksione të parashikuara në ligjin për Policinë Gjyqësore. 
+	3. Policia Gjyqësore në Policinë Ushtarake kryen të njëjtat funksione të parashikuara në ligjin për Policinë Gjyqësore. 
+
+Neni 11/1
+
+(shtuar me ligjin nr. 61/2022, datë 21.7.2022)
+
+Subjektet që ushtrojnë funksionet e Policisë Gjyqësore në Policinë Ushtarake janë:
+
+a) oficerët e Policisë Gjyqësore në Policinë Ushtarake, drejtuesit dhe inspektorët e strukturave në Policinë Kriminale, në Qarkullimin Rrugor dhe Mbrojtjen nga Zjarri dhe Shpëtimin, që përmbushin kriteret sipas ligjit;
+
+b) agjentët e Policisë Gjyqësore në Policinë Ushtarake, agjentët e strukturave në Policinë Kriminale, specialistët në strukturën e Qarkullimit Rrugor dhe në Inspektoratin e Mbrojtjes nga Zjarri dhe Shpëtimin.
 
 Neni 12
 
@@ -214,6 +240,8 @@ Neni 21
 
 Njoftimi për paraqitje në Policinë Ushtarake
 
+(shtuar shkronja “ç” e pikës 1  me ligjin nr. 61/2022, datë 21.7.2022)
+
 	1. Ushtaraku ose civili që punon në Forcat e Armatosura të Republikës së Shqipërisë njoftohet nëpërmjet titullarit të strukturës ushtarake për t’u paraqitur në zyrat e Policisë Kriminale Ushtarake në këto raste:
 
 	a) për të marrë informacion në lidhje me parandalimin e veprimit ose për raste të mosveprimit, që përbën vepër penale; 
@@ -222,7 +250,9 @@ Njoftimi për paraqitje në Policinë Ushtarake
 
 	c) për të identifikuar shkelësin e mundshëm të ligjit.
 
-	2. Njoftimi për paraqitje bëhet me anë të fletënjoftimit, duke përcaktuar arsyen e paraqitjes, punonjësin e Policisë Ushtarake, kohën, vendin dhe informacionin për të kontaktuar punonjësin e Policisë Ushtarake në rast pamundësie për t’u paraqitur.
+	ç)  për të dhënë deklarime për rrethanat e ngjarjes sipas parashikimeve në Kodin e Procedurës Penale.
+
+2. Njoftimi për paraqitje bëhet me anë të fletënjoftimit, duke përcaktuar arsyen e paraqitjes, punonjësin e Policisë Ushtarake, kohën, vendin dhe informacionin për të kontaktuar punonjësin e Policisë Ushtarake në rast pamundësie për t’u paraqitur.
 
 	3. Kur, për shkak të kushteve personale dhe familjare, personi që njoftohet nuk mund të paraqitet në zyrat e Policisë Ushtarake, punonjësi i Policisë Ushtarake mund ta marrë këtë informacion në vendbanimin e personit të njoftuar.
 
@@ -322,6 +352,8 @@ Neni 29
 
 Të dhënat në rastet e shoqërimit, ndalimit dhe arrestimit
 
+(shtuar fjalë në shkronjën “b” të  pikës 1  me ligjin nr. 61/2022, datë 21.7.2022)
+
 	1. Për të regjistruar të dhënat e personit të dyshuar për kryerjen e një vepre penale, punonjësi i Policisë Ushtarake kryen këto veprime: 
 
 	a) Në rast shoqërimi, punonjësi i Policisë Ushtarake evidenton për çdo person të shoqëruar të dhënat për:
@@ -340,7 +372,7 @@ Të dhënat në rastet e shoqërimit, ndalimit dhe arrestimit
 
 	vii) punonjësin e Policisë Ushtarake, i cili ka kryer shoqërimin.
 
-	b) Në rast arrestimi apo ndalimi, punonjësi i Policisë Ushtarake evidenton për çdo person të arrestuar apo të ndaluar të dhënat për:
+	b) Në rast arrestimi apo ndalimi, punonjësi i Policisë Ushtarake evidenton për çdo person të arrestuar apo të ndaluar si dhe i dërgon në Policinë e Shtetit të dhënat për:
 
 	i) gjenealitetet;
 
@@ -404,6 +436,8 @@ Neni 33
 
 Detyrat
 
+(ndryshuar  shkronja “f” , shtuar fjalë në shkronjën “k” , ndryshuar shkronja “n” me ligjin nr. 61/2022, datë 21.7.2022)
+
 	Policia Ushtarake, në përmbushje të misionit të saj, ka këto detyra:
 
 	a) mbron jetën, shëndetin dhe dinjitetin e ushtarakut nga çdo veprim i paligjshëm, kur ato cenohen për shkak të detyrës;
@@ -422,19 +456,19 @@ Detyrat
 
 	ë) ndërhyn për të ndërprerë aktet e terrorizmit në Forcat e Armatosura të Republikës së Shqipërisë;
 
-	f) mbron pronën shtetërore në administrim dhe përdorim të Forcave të Armatosura të Republikës së Shqipërisë nga veprimtari të kundërligjshme;
+	f) mbështet mbrojtjen e pronës dhe të pasurisë shtetërore në administrim e në përdorim të Ministrisë së Mbrojtjes dhe të Forcave të Armatosura të Republikës së Shqipërisë nga veprimtari të kundërligjshme;
 
-	g)	ndërhyn përkrah Policisë së Shtetit për të rivendosur rendin në rast të shpalljes së gjendjes së jashtëzakonshme, të krijuar si rezultat i kryerjes së veprave me qëllime terroriste dhe krimeve kundër autoritetit të shtetit; 
+	g) ndërhyn përkrah Policisë së Shtetit për të rivendosur rendin në rast të shpalljes së gjendjes së jashtëzakonshme, të krijuar si rezultat i kryerjes së veprave me qëllime terroriste dhe krimeve kundër autoritetit të shtetit; 
 
-	gj)	realizon, me urdhër të autoritetit epror, lirimin e pronave në administrim ose përdorim  të Ministrisë së Mbrojtjes, të zëna forcërisht;
+	gj) realizon, me urdhër të autoritetit epror, lirimin e pronave në administrim ose përdorim  të Ministrisë së Mbrojtjes, të zëna forcërisht;
 
-	h)	kryen detyra policore në interes të ushtarakëve shqiptarë që kryejnë misione jashtë vendit, si dhe forcave ushtarake të huaja, që veprojnë në territorin shqiptar, në përputhje me legjislacionin në fuqi; 
+	h) kryen detyra policore në interes të ushtarakëve shqiptarë që kryejnë misione jashtë vendit, si dhe forcave ushtarake të huaja, që veprojnë në territorin shqiptar, në përputhje me legjislacionin në fuqi; 
 
-	i) kryen funksionet e Policisë Ushtarake në operacionet ushtarake dhe paqeruajtëse jashtë vendit, në bazë të marrëveshjeve ndërkombëtare të ratifikuara;
+	i)  kryen funksionet e Policisë Ushtarake në operacionet ushtarake dhe paqeruajtëse jashtë vendit, në bazë të marrëveshjeve ndërkombëtare të ratifikuara;
 
 	j) kontrollon e siguron transportin, lëvizjen dhe shfrytëzimin e mjeteve dhe të teknikës ushtarake; 
 
-	k) shoqëron e siguron personalitetet e larta ushtarake të Ministrisë së Mbrojtjes dhe të Forcave të Armatosura të Republikës së Shqipërisë, delegacionet e huaja ushtarake të njësuara me to, si dhe forcat e huaja ushtarake që kalojnë në territorin e Republikës së Shqipërisë; 
+	k) shoqëron e siguron personalitetet e larta ushtarake dhe civile  të Ministrisë së Mbrojtjes dhe të Forcave të Armatosura të Republikës së Shqipërisë, delegacionet e huaja ushtarake të njësuara me to, si dhe forcat e huaja ushtarake që kalojnë në territorin e Republikës së Shqipërisë; 
 
 	l) mban nën kontroll rrjetin rrugor në zonat e operacioneve;
 
@@ -442,7 +476,7 @@ Detyrat
 
 	m) kryen ekspertizën autoteknike, në rastet e aksidenteve dhe incidenteve rrugore në teknikë ushtarake;
 
-	n) kontrollon e merr masa për zbatimin e legjislacionit në fuqi për mbrojtjen nga zjarri;
+	n) kontrollon masat parandaluese, jep asistencë teknike e ndërhyn për forcimin e masave dhe zbatimin e legjislacionit në fuqi për mbrojtjen nga zjarri;
 
 	nj)	 mbështet kryerjen e operacioneve ku angazhohen Forcat e Armatosura, brenda dhe jashtë vendit;
 
@@ -468,11 +502,15 @@ Neni 36
 
 Detyrimi për të mos dhënë informacion 
 
+(shtuar pika 4 me ligjin nr. 61/2022, datë 21.7.2022)
+
 	1. Punonjësi i Policisë Ushtarake nuk duhet të japë informacion, për të cilin ka marrë dijeni gjatë kryerjes së detyrës ose jashtë saj, përveç personave të autorizuar me ligj.
 
 	2. Detyrimi për të mos dhënë informacion zbatohet edhe për punonjësin e Policisë Ushtarake të liruar ose të larguar nga Policia Ushtarake.
 
 	3. Për informacione, që kanë të bëjnë me identitetin e dëshmitarëve dhe  informatorëve, Policia Ushtarake zbaton legjislacionin në fuqi.
+
+        4. Oficerët e Policisë Gjyqësore në Policinë Ushtarake dhe persona të tjerë që gëzojnë atributet e OPGJ-së, sipas përcaktimeve ligjore në fuqi të ngarkuara nga prokurori me hetimin e procedimeve penale, zbatojnë rregullat e legjislacionit në fuqi për ndalimin e publikimit të akteve, që dokumentojnë veprimtarinë procedurale penale dhe çdo informacion tjetër që rrjedh prej tyre.
 
 KREU V
 
@@ -490,15 +528,21 @@ Neni 38
 
 Trajnimi profesional i punonjësit të shërbimeve të Policisë Ushtarake
 
+(shtuar paragraf në fund të pikës 1 me ligjin nr. 61/2022, datë 21.7.2022)
+
 	1. Punonjësi i shërbimeve të Policisë Ushtarake i nënshtrohet trajnimit profesional nga institucionet arsimore të Forcave të Armatosura të Republikës së Shqipërisë ose jashtë tyre, të cilat ofrojnë trajnim në përputhje me ligjin. 
+
+           Trajnimi fillestar i punonjësit të shërbimit në Policinë Ushtarake, që plotëson kriteret ligjore për pranimin në shërbimin e Policisë Gjyqësore, dhe trajnimi vazhdues i tij kryhen në zbatim të ligjit për organizimin dhe funksionimin e Policisë Gjyqësore.
 
 	2. Programet, kohëzgjatja dhe vendi i kryerjes së trajnimeve profesionale jashtë institucioneve arsimore të Forcave të Armatosura të Republikës së Shqipërisë përcaktohen me akt normativ të përbashkët të Ministrit të Mbrojtjes dhe titullarit të institucionit që kryen trajnimin.
 
 Neni 39
 
-Etika dhe përgjegjësia disiplinore e punonjësit të Policisë Ushtarake
+Rregullorja e brendshme e funksionimit dhe përgjegjësia disiplinore e punonjësit të Policisë Ushtarake
 
-	1. Gjatë përmbushjes së detyrave të caktuara me ligj, punonjësi i Policisë Ushtarake zbaton Kodin e Etikës së Policisë. 
+(zëvëndësuar fjalë në titullin e nenit, ndryshuar pika 1  me ligjin nr. 61/2022, datë 21.7.2022)
+
+	1. Gjatë përmbushjes së detyrave të caktuara me ligj, punonjësi i Policisë Ushtarake zbaton rregulloren e brendshme të funksionimit të Policisë Ushtarake, të miratuar me urdhër të ministrit të Mbrojtjes.
 
 	2. Procedimi disiplinor dhe masat disiplinore ndaj punonjësit të Policisë Ushtarake rregullohen nga legjislacioni në fuqi për disiplinën ushtarake në Forcat e Armatosura të Republikës së Shqipërisë.
 
@@ -514,11 +558,13 @@ Neni 41
 
 Trajtimi i veçantë
 
+(ndryshuar fjalë në pikën 3  me ligjin nr. 61/2022, datë 21.7.2022)
+
 	1. Kur punonjësi i Policisë Ushtarake vdes ose bëhet i paaftë për punë gjatë kryerjes së detyrës ose për shkak të detyrës, familja e tij ose ai vetë përfitojnë pension në masën e pagës së plotë që ka pasur në çastin që i ka lindur e drejta për këtë përfitim.
 
 	2. Kur punonjësi i Policisë Ushtarake, gjatë kryerjes së detyrës ose për shkak të saj, i dëmtohet prona, ai ka të drejtën e kompensimit. Masa dhe kriteret për kompensim përcaktohen me vendim të Këshillit të Ministrave.
 
-	3. Punonjësi i Policisë Ushtarake trajtohet me veshmbathje civile, në vlerë leku, një herë në vit, në masën e gjysmës së pagës mujore, sipas vendit të punës. Kriteret e përfitimit të veshmbathjeve civile përcaktohen me vendim të Këshillit të Ministrave. 
+	3. Punonjësi i Policisë Ushtarake trajtohet me veshmbathje civile, në vlerë leku, një herë në vit, në masën e një page mujore  sipas vendit të punës. Kriteret e përfitimit të veshmbathjeve civile përcaktohen me vendim të Këshillit të Ministrave. 
 
 	4. Punonjësi i Policisë Ushtarake përfiton shtesë mbi pagë për kushte të veçanta pune dhe shërbimi. Masa e këtyre shtesave rregullohet sipas legjislacionit në fuqi.
 
