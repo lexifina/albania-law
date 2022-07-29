@@ -1,0 +1,1 @@
+6. Nivelet maksimale të përcaktuara në shtojcën e këtij udhëzimi, nuk paragjykojnë dispozitat dhe MRL-të e përcaktuara në udhëzimin nr. 15, datë 5.10.2010, “Për limitet maksimale të mbetjeve të produkteve mjekësore veterinare në produktet ushqimore me origjinë shtazore”.

@@ -1,0 +1,1 @@
+4. Në rast se Autoriteti Kombëtar i Ushqimit konstaton mbetje të kontaminantëve nën nivelin maksimal të përcaktuar në shtojcën bashkëlidhur këtij udhëzimi, në këtë rast ai kryen kontrolle për të vërtetuar që mbetja në ushqime është e pranishme si pasojë e bartjes së pashmangshme në ushqim dhe jo si pasojë e administrimit të paligjshëm të koksidiostatikëve dhe histomonostatikëve.

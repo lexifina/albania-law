@@ -1,0 +1,1 @@
+3. Ndalohet tregtimi i ushqimeve të cilat janë listuar në shtojcën e këtij udhëzimi nëse ato përmbajnë kontaminantë të renditur në këtë shtojcë në një nivel që tejkalon nivelet maksimale të përcaktuara në shtojcë.

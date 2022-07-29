@@ -1,0 +1,1 @@
+1. Ky udhëzim ka si qëllim dhënien e informacionit mbi përcaktimin e niveleve maksimale të pranisë së koksidiostatikëve dhe histomonostatikëve në produktet ushqimore të listuara në aneksin e udhëzimit.

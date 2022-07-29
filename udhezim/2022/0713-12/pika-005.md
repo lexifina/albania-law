@@ -1,0 +1,1 @@
+5. Kur zbatohen nivelet maksimale të përcaktuara në shtojcën e këtij udhëzimi tek produktet ushqimore të thara, të holluara, të përpunuara ose të përbëra nga më shumë se një përbërës, ndryshimet e përqendrimit të ndotësve të shkaktuara nga tharja, hollimi ose përpunimi, do të merret parasysh proporcioni relativ i përbërësve në produkt.
