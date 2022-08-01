@@ -1,0 +1,1 @@
+2. Bashkisë Kurbin, në buxhetin e vitit 2022, i transferohet fondi në masën 52 381 840 (pesëdhjetë e dy milionë e treqind e tetëdhjetë e një mijë e tetëqind e dyzet) lekë pa TVSH, në formën e transfertës së pakushtëzuar, i cili do të përballohet nga hapësira buxhetore e siguruar pas ngurtësimit në të njëjtën masë të fondeve të projekteve të rindërtimit me ecuri të ngadaltë.

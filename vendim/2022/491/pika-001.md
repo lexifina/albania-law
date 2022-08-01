@@ -1,0 +1,6 @@
+1. Përdorimin e fondit të rindërtimit, për financimin e rindërtimit dhe rikonstruksionit të 5 (pesë) qendrave shëndetësore në Bashkinë Kurbin, në masën 261 909 200 (dyqind e gjashtëdhjetë e një milionë e nëntëqind e nëntë mijë e dyqind) lekë pa TVSH, sipas detajimit të mëposhtëm:
+a) Rindërtimi i qendrës shëndetësore në fshatin Gjorëm, Njësia Administrative Mamurras, Bashkia Kurbin, në masën 62 744 700 (gjashtëdhjetë e dy milionë e shtatëqind e dyzet e katër mijë e shtatëqind) lekë pa TVSH;
+b) Rindërtimi i qendrës shëndetësore Sanxhak-Laç, Njësia Administrative Laç, Bashkia Kurbin, në masën 31 004 500 (tridhjetë e një milionë e katër mijë e pesëqind) lekë pa TVSH;
+c) Rindërtimi i qendrës shëndetësore në qytet Mamurras, Njësia Administrative Mamurras, Bashkia Kurbin, në masën 76 407 700 (shtatëdhjetë e gjashtë milionë e katërqind e shtatë mijë e shtatëqind) lekë pa TVSH;
+ç) Rikonstruksioni i qendrës shëndetësore në qytet Laç, Njësia Administrative Laç, Bashkia Kurbin, në masën 72 729 200 (shtatëdhjetë e dy milionë e shtatëqind e njëzet e nëntë mijë e dyqind) lekë pa TVSH;
+d) Rikonstruksioni i qendrës shëndetësore në Fushë-Milot, Njësia Administrative Milot, Bashkia Kurbin, në masën 19 023 100 (nëntëmbëdhjetë milionë e njëzet e tre mijë e njëqind) lekë pa TVSH.
