@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 215 993 495 (dyqind e pesëmbëdhjetë milionë e nëntëqind e nëntëdhjetë e tre mijë e katërqind e nëntëdhjetë e pesë) lekë pa TVSH, për financimin e rikonstruksionit ose riparimit të mjediseve në bashkëpronësi ose të përbashkëta në ndërtesa (pallat), në Bashkinë Mirditë.
