@@ -1,0 +1,1 @@
+8. Nëpunësit civilë në pozicionet “specialist”, “përgjegjës sektori” apo “drejtor drejtorie”, që punojnë në pozicione, që lidhen me procesin e informatizimit të Agjencisë, përfitojnë shtesën përkatëse, sipas kushteve dhe procedurës së përcaktuar në vendimin e Këshillit të Ministrave për pagat e nëpunësve civilë të institucioneve të administratës publike.

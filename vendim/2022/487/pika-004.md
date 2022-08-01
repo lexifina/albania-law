@@ -1,0 +1,1 @@
+4. Gjatë periudhës së trajnimit në Akademinë e Sigurisë, aplikantët, të cilët shpallen fitues dhe që në momentin e shpalljes fitues nga procesi i konkurrimit emërohen në funksionet organike, përfitojnë pagën për funksion të funksionit organik ku ata janë emëruar.
