@@ -1,0 +1,1 @@
+2. Vlera e përgjithshme e kompensimit financiar është 532 519 146,1 (pesëqind e tridhjetë e dy milionë e pesëqind e nëntëmbëdhjetë mijë e njëqind e dyzet e gjashtë presje një) lekë, për sipërfaqen 47 551,53 (dyzet e shtatë mijë e pesëqind e pesëdhjetë e një presje pesëdhjetë e tre) m² , sipas shtojcës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
