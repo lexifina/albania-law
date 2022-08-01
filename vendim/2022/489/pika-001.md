@@ -1,0 +1,3 @@
+1. Përdorimin e fondit të rindërtimit, për financimin e rindërtimit në truallin ekzistues të 2 (dy) njësive të banimit në ndërtesa (pallat), në Bashkinë Kurbin, në masën 325 219 895 (treqind e njëzet e pesë milionë e dyqind e nëntëmbëdhjetë mijë e tetëqind e nëntëdhjetë e pesë) lekë pa TVSH, sipas detajimit të mëposhtëm:
+a) Rindërtimin e pallatit nr. 5, në masën 166 576 136 (njëqind e gjashtëdhjetë e gjashtë milionë e pesëqind e shtatëdhjetë e gjashtë mijë e njëqind e tridhjetë e gjashtë) lekë pa TVSH;
+b) Rindërtimin e pallatit nr. 6, në masën 158 643 759 (njëqind e pesëdhjetë e tetë milionë e gjashtëqind e dyzet e tre mijë e shtatëqind e pesëdhjetë e nëntë) lekë pa TVSH.
