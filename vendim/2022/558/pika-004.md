@@ -1,0 +1,1 @@
+4. Sanksionet financiare përcaktohen, për çdo rast, në përpjesëtim të drejtë me rëndësinë dhe natyrën e shkeljes së konstatuar dhe pasojat e ardhura, duke u mbështetur në tarifat për shpërblimin e dëmeve të shkaktuara në Fondin Pyjor Kombëtar dhe të gjobave, të përcaktuara në nenin 36, të ligjit nr. 57/2020, “Për pyjet”.
