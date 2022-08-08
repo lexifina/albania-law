@@ -1,0 +1,1 @@
+2. Në rastet kur subjektet apo personat e përcaktuar më sipër janë të vetëpunësuar, të cilët nuk kanë të punësuar persona të tjerë, për efekt të zbatimit të këtij vendimi, veprojnë në cilësinë e strukturës përgjegjëse.

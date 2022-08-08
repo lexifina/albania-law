@@ -1,0 +1,1 @@
+8. Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave, brenda 72 (shtatëdhjetë e dy) orëve nga marrja e njoftimit, sipas mënyrës së përcaktuar në pikën 6 të këtij vendimi, i propozon ministrit përgjegjës për financat nxjerrjen e urdhrit të bllokimit të përkohshëm, në përputhje me parashikimet e legjislacionit në fuqi për masat kundër financimit të terrorizmit.
