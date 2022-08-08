@@ -1,5 +1,5 @@
 1. Grupi Negociator, përgjegjës për zhvillimin e procesit teknik të negociatave të aderimit me institucionet e Bashkimit Evropian, i ngritur me vendimin nr.749, datë 19.12.2018, të Këshillit të Ministrave, “Për krijimin, organizimin dhe funksionimin e strukturës shtetërore, përgjegjëse për zhvillimin e negociatave dhe lidhjen e traktatit të aderimit të Republikës së Shqipërisë në Bashkimin Evropian”, në kryerjen e detyrave të parashikuara në pikën 3, të kreut V, të vendimit të sipërpërmendur, përbëhet nga:
-- Z. Zef Mazi, Kryenegociator;
+- Znj. Majlinda Dhuka, ministër Shteti dhe Kryenegociator (në vijim “Kryenegociatori”);
 - Znj. Adea Pirdeni, zëvendësministër i Drejtësisë, negociator përgjegjës për kriteret politike dhe kapitulin 23 të legjislacionit të Bashkimit Evropian;
 - Z. Besfort Lamallari, zëvendësministër i Brendshëm dhe z. Julian Hodaj, zëvendësministër i Brendshëm, bashkënegociatorë përgjegjës për kapitullin 24;
 - Znj. Megi Fino, zëvendësministër për Evropën dhe Punët e Jashtme, negociator përgjegjës për kapitullin 31;
@@ -15,7 +15,7 @@
 - Znj. Ornela Çuçi, zëvendësminitër i Turizmit dhe Mjedisit, negociator për kapitullin 27;
 - Znj. Natasha Ahmetaj, zëvendësguvernator i dytë në Bankën e Shqipërisë, negociator përgjegjës për kapitullin 17;
 - Znj. Reida Kashta, drejtor i Përgjithshëm i Agjencisë së Prokurimit Publik, negociator për kapitullin 5;
-- Znj. Juliana Latifi, kryetar i Autoritetit të Konkurrencës, negociator për kapitullin 5;
+- Z. Denar Biba, kryetar i Autoritetit të Konkurrencës, negociator për kapitullin 8;
 - Z. Ervin Mete, Autoriteti i Mbikëqyrjes Financiare, negociator për kapitullin 9;
 - Znj. Elsa Dhuli, INSTAT, negociatore për kapitullin 18.
 - Znj. Romina Kuko, zëvendësministër i Brendshëm, negociator përgjegjës për kapitullin 22;
