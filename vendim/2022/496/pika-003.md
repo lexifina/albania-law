@@ -1,0 +1,1 @@
+3. Kryeministria i vendos në dispozicion Fondit Shqiptar të Zhvillimit paketën e projektit teknik, shoqëruar me preventivin, të hartuar nga Agjencia Kombëtare e Planifikimit të Territorit në bashkëpunim me Institutin e Ndërtimit.
