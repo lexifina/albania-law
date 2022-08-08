@@ -181,21 +181,21 @@ FORMULARI I PRIVATIZIMIT
 Apartamenti nr. _____
 Banesa: __________________________________________
 Blerësi: __________________________________________
-1. Tarifa e privatizimit të apartamentit (Ta)
-a) Tarifa bazë e privatizimit, sipas kategorisë dhe llojit (sipas tab.1) (lekë) ______________
-b) Koeficienti i korrigjimit të vlerës në bazë të nivelit të banimit
-(sipas tab.2) (në %) (1a x 1b)
-c) Koeficienti i korrigjimit të vlerës sipas vendndodhjes
+Tarifa e privatizimit të apartamentit (Ta)
+Tarifa bazë e privatizimit, sipas kategorisë dhe llojit (sipas tab.1) (lekë) ______________
+Koeficienti i korrigjimit të vlerës në bazë të nivelit të banimit
+(sipas tab.2) (në %) (1a x 1b) ______________
+Koeficienti i korrigjimit të vlerës sipas vendndodhjes
 së apartamentit në godinë (sipas tab.3) (në %) (1a x 1c) ______________
-ç) Tarifa e privatizimit të ap. (1a+1b+1c) lekë
-2. Tarifa e privatizimit të truallit (Tt) _____________
-a) Vlera e truallit (sipas pikës 22 e VKM nr. __ datë ___) (lekë/m2) _____________
-b) Përqindja e pjesëmarrjes në bashkëpronësi për ap. (në %) _____________
-c) Sipërfaqja totale e truallit funksional të objektit (m2) _____________
+ç) Tarifa e privatizimit të ap. (1a+1b+1c) lekë ______________
+Tarifa e privatizimit të truallit (Tt) _____________
+Vlera e truallit (sipas pikës 22 e VKM nr. __ datë ___) (lekë/m2) _____________
+Përqindja e pjesëmarrjes në bashkëpronësi për ap. (në %) _____________
+Sipërfaqja totale e truallit funksional të objektit (m2) _____________
 ç) Sipërfaqja që i takon apartamentit (2b x 2c) (m2) _____________
-d) Tarifa e privatizimit të truallit (2d x 2a) (lekë) _____________
-3. Indeksi i korrigjimit të çmimit (I) (sipas pikës 22 të vendimit) _____________
-4. Tarifa e plotë e privatizimit (Tp)
+Tarifa e privatizimit të truallit (2d x 2a) (lekë) _____________
+Indeksi i korrigjimit të çmimit (I) (sipas pikës 22 të vendimit) _____________
+Tarifa e plotë e privatizimit (Tp)
 (1d + 2e) x (3) (lekë) _____________
 Data e llogaritjes: ____________
 Llogaritjet u kryen nga (emër, mbiemër, firma): ___________________________________
