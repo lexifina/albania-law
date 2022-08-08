@@ -1,0 +1,1 @@
+1. Kalimin te bashkitë Durrës, Kamzë, Kavajë dhe Krujë të njësive të banimit në ndërtesa (pallat), njësive të ndërtimit nën tokë, si dhe të njësive teknike, sipas aneksit 1 të listës së inventarit që i bashkëlidhet këtij vendimi.
