@@ -132,7 +132,7 @@ b) aplikuesi që banon në qytetin/fshatin ku gjendet IAPP-ja, për të cilin ka
 4. Nëse në ZVAP, për të cilën është aplikuar, nuk disponohet ndonjë IAPP në sistemin arsimor publik ose privat për zhvillimin e praktikës profesionale, DRAP-ja i ofron aplikuesit për praktikant IAPP në ZVAP të tjera, në juridiksion të saj.
 Neni 16
 Norma e praktikantit
-1. Praktikanti kryen praktikën profesionale për një vit të plotë shkollor.
+1. Kohëzgjatja e praktikës profesionale që kryhet nga praktikanti është një periudhë mësimore.
 2. Praktikanti e ka normën e praktikës profesionale sa norma e mësuesit të profilit përkatës.
 3. Praktikanti jep mësim 1/4 e normës javore të mësuesit përkatës. Pjesa tjetër e normës ndahet: 1/2 e orëve si mësues ndihmës dhe 1/2 e orëve për vëzhgime të procesit mësimdhënës.
 4. Praktikanti ka detyrime profesionale të njëjta me ato të mësuesve të institucionit arsimor, përfshirë pjesëmarrjen në mbledhjet e ekipit lëndor e të këshillit të mësuesve, si dhe detyrën e mësuesit kujdestar.
@@ -158,7 +158,7 @@ a) planin lëndor vjetor;
 b) planin e periudhave për lëndën përkatëse;
 c) plane ditore të orëve mësimore (2-3 modele);
 ç) teste të kapitujve ose të periudhave (2-3 modele);
-d) detyrat e portofolit të nxënësit për një periudhë, përfshirë projektin kurrikuar (1-2 modele);
+d) projektin kurrikular të nxënësit (1-2 modele);
 dh) 2-3 shembuj të përdorimit nga praktikanti të burimeve të mësimdhënies, përveç tekstit të nxënësit, veçanërisht të përdorimit të TIK-ut në procesin e mësimdhënies dhe të nxënët;
 e) 3-4 shembuj të metodave që ka përdorur praktikanti, për të formuar te nxënësit aftësitë e:
 i. komunikimit me gojë dhe me shkrim;
@@ -175,9 +175,9 @@ KREU VI
 VLERËSIMI I PRAKTIKANTIT
 Neni 19
 Vlerësimi i praktikantit nga mentori
-1. Praktikanti që ka munguar me shumë se 30% të orëve mësimore vjetore, përsërit të plotë praktikën profesionale.
-2. Praktikantit që ka munguar 20-30% të orëve mësimore vjetore, i shtyhet praktika 3 muaj.
-3. Praktikanti që ka munguar më pak se 20% të orëve mësimore vjetore, i nënshtrohet vlerësimit.
+1. Praktikanti që ka munguar me shumë se 30% të orëve mësimore të kohës së përcaktuar për realizimin e praktikës, përsërit të plotë praktikën profesionale.
+2. Praktikantit që ka munguar 20-30% të orëve mësimore të kohës së përcaktuar për realizimin e praktikës, i shtyhet praktika 1 muaj.
+3. Praktikanti që ka munguar më pak se 20% të orëve mësimore të kohës së përcaktuar për realizimin e praktikës, i nënshtrohet vlerësimit.
 4. Mentori vlerëson praktikantin në mbarim të praktikës, duke u mbështetur te vëzhgimet e tij, në intervistat që realizon me praktikantin dhe në portofolin e praktikantit.
 5. Mentori vlerëson praktikantin për secilën kompetencë, të përshkruar në një format standard, sipas shtojcës 3, “Vlerësimi i praktikantit”.
 6. Vlerësimi për secilën kompetencë bëhet në katër nivele:
@@ -188,12 +188,13 @@ c) niveli “Mjaftueshëm”, kur praktikanti ka vështirësi në realizimin e k
 7. Dokumenti i vlerësimit të praktikantit nënshkruhet nga mentori dhe nga drejtori i IAPP-së.
 Neni 20
 Komisioni i vlerësimit të praktikantëve
-1. Komisioni i vlerësimit të praktikantëve ngrihet me vendim të drejtuesit të ZVAP-së, kryesohet nga përgjegjësi i sektorit të monitorimit të kurrikulës dhe zhvillimit profesional dhe përbëhet nga: një specialist i këtij sektori, një specialist jurist, një drejtor IAPP-je dhe një kryetar ekipi lëndor përkatës.
+1. Për vlerësimin e praktikantëve ngrihet Komisioni i vlerësimit të praktikantëve (në vijim “Komisioni”), me vendim të drejtuesit të ZVAP-së. Komisioni kryesohet nga përgjegjësi i sektorit të monitorimit të kurrikulës dhe i zhvillimit profesional dhe përbëhet nga një specialist i këtij sektori, një specialist jurist, një drejtor IAPP-je dhe një kryetar ekipi lëndor përkatës.
+1/1. Brenda një afati 30-ditor nga data e përfundimit të praktikës profesionale nga praktikantët drejtoria e institucionit arsimor, ku praktikantët kanë kryer praktikën dhe ZVAP-ja organizon, realizon dhe përfundon procedurat për vlerësimin e praktikantëve.
 2. Komisioni:
 a) shqyrton dosjen e praktikantit që përmban dokumentin “Vlerësimi i praktikantit” nga mentori dhe portofolin e praktikantit;
 b) interviston praktikantin.
-3. Komisioni vlerëson “Dobët” praktikantin, kur në të paktën një kompetencë ka vlerësimin “Dobët”. Në këtë rast, komisioni shtyn afatin e zhvillimit të praktikës profesionale në tre muaj. Shtyrja prej tre muajsh mund të përsëritet deri në tri herë. Praktikanti mund të zhvillojë praktikën profesionale në të njëjtin institucion arsimor.
-4. Komisioni vlerëson “Dobët” praktikantin, kur në vlerësimin tërësor ka vlerësimin “Dobët”. Në këtë rast, komisioni shtyn afatin e zhvillimit të praktikës profesionale në një vit shkollor.
+3. Komisioni vlerëson ’Dobët’ praktikantin, kur në të paktën një kompetencë ka vlerësimin ’Dobët’. Në këtë rast, komisioni shtyn afatin e zhvillimit të praktikës profesionale me një muaj. Shtyrja prej një muaji mund të përsëritet deri në tri herë. Praktikanti mund të zhvillojë praktikën profesionale në të njëjtin institucion arsimor.
+4. Komisioni vlerëson “Dobët” praktikantin, kur në vlerësimin tërësor ka vlerësimin “Dobët”. Në këtë rast, komisioni shtyn afatin e zhvillimit të praktikës profesionale në një periudhë mësimore.
 5. Komisioni vendos për certifikimin e praktikantit në bazë të shqyrtimit të dosjes dhe intervistës së tij. Komisioni i merr vendimet me shumicën e votave.
 6. Certifikata e praktikës profesionale përgatitet nga ZVAP-ja, nënshkruhet nga drejtuesi i ZVAP-së përkatëse, vuloset dhe i dorëzohet praktikantit. Një fotokopje e certifikatës ruhet në arkivin e ZVAP-së.
 KREU VII
@@ -405,7 +406,7 @@ Mësuesi dhe praktikanti planifikojnë së bashku veprimtaritë e praktikantit s
 - qortimin e detyrave të shtëpisë dhe të provimeve me shkrim;
 - punën me nxënësit e talentuar;
 - vëzhgimin e ecurisë së projekteve kurrikulare etj.;
-- vlerësimin e portofolave të nxënësve.
+- vlerësimin e projekteve të nxënësve.
 Gjithashtu, praktikanti mund të ngarkohet nga mësuesi për të punuar me nxënës që përgatiten për konkurse a olimpiada.
 Praktikanti mban shënim vështirësitë ose nevojat e nxënësve të cilëve u qëndron më afër dhe i diskuton më pas me mentorin për të përcaktuar rrugët e përmirësimit.
 Jashtë orëve mësimore, praktikanti, sipas planifikimit me mentorin, zhvillon konsultime me grupe të caktuar nxënësish me kërkesën e tyre ose me porosinë e tij.
@@ -549,7 +550,7 @@ Gjatë vlerësimeve të nxënësve me gojë a me shkrim formulon kërkesa që i 
 3
 Zhvillon dhe analizon me nxënësit teste ose detyrat e ndërmjetme apo të periudhës
 4
-Vlerëson portofolin e nxënësit duke inkurajuar ata të zhvillojnë detyra sa më krijuese
+Vlerëson projektin e nxënësit duke inkurajuar ata të zhvillojnë detyra sa më krijuese
 5
 Vlerëson secilin nxënës, duke përdorur nivelet e arritjes
 6
@@ -649,7 +650,7 @@ TREGUESIT
 Organizon periodikisht përsëritje efektive të njohurive.
 Organizon nxënësit, në klasë dhe jashtë saj, në mënyrë individuale dhe në grupe të vogla, të përmbledhin çfarë kanë nxënë gjatë disa orëve mësimore, të lidhin njohuritë e mësuara rishtas, me ato të kapitujve paraardhës, me ato të vitit të kaluar dhe me njohuri të lëndëve të tjera.
 2
-Gjatë vitit shkollor bën ndryshime në planifikimin lëndor në përshtatje me rrethanat e reja që i krijohen.
+Gjatë periudhës mësimore bën ndryshime në planifikimin lëndor në përshtatje me rrethanat e reja që i krijohen.
 Mund të ndryshojë numrin e orëve për një kapitull, duke shtuar ose pakësuar deri në 10% të orëve të kapitullit, për shkak të përvetësimit të pamjaftueshëm ose përvetësimit të shpejtë të njohurive sipas objektivave të programit lëndor.
 Mund të ndryshojë temat e projekteve kurrikulare, të rishpërndajë orët për një temë mësimore që ka nevojë për t’u trajtuar ende nga nxënësit.
 3
@@ -665,8 +666,8 @@ Gjatë vlerësimeve të nxënësve me gojë a me shkrim formulon kërkesa që i 
 Kërkesat nuk kufizohen vetëm në njohuritë e kapitullit ose kapitujve aktualë por lidhin këto njohuri me të kapitujve paraardhës, të lëndëve të tjera dhe të viteve paraardhëse.
 Si rregull, kërkesat nuk janë fotokopje e kërkesave të librit, por parashtrojnë situata të patakuara në tekst, por që shfrytëzojnë njohuritë e tekstit. Ato janë të llojeve dhe niveleve të ndryshme.
 2
-Nxënësit mbajnë dhe pasurojnë rregullisht portofolin e tyre.
-Portofoli përmban punimet më të mira të nxënësve, si: provime me shkrim, ese, projekte kurrikulare etj.
+Nxënësit punojnë dhe përditësojnë rregullisht projektin e tyre.
+Projekti kurrikular shtrihet në një ose më shumë fusha të të nxënit dhe mund të zhvillohet individualisht ose në grup.
 Pikët e kompetencës
 VLERËSIMI
 KOMPETENCA 5: RESPEKTON NORMAT E ETIKËS DHE TË SJELLJES NË INSTITUCIONIN ARSIMOR
