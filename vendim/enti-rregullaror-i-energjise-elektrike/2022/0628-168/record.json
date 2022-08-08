@@ -1,0 +1,28 @@
+{
+  "qbz_id": 24809,
+  "title": "Mbi licencimin e shoqërisë “Salillari Energy Trade” sh.p.k., në veprimtarinë e tregtimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "168",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2022-06-28",
+  "published": "2022-08-08",
+  "in_force": "2022-08-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/6d1b577091ea5355e4b93ce057e0149de5e20e76aa84002d19b98ea999316328.docx",
+  "source_sha256": "6d1b577091ea5355e4b93ce057e0149de5e20e76aa84002d19b98ea999316328",
+  "official_record": "https://qbz.gov.al/api/v1/acts/24809",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/06/28/168",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    24890
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
