@@ -1,0 +1,1 @@
+2. KKZHRK-ja është organ ndërinstitucional, përgjegjës për hartimin, monitorimin e zbatimit dhe vlerësimin e politikës së zhvillimit rajonal, si dhe koordinimin e zbatimit të masave të ndërmarra në kuadër të programit operacional për zhvillimin rajonal.
