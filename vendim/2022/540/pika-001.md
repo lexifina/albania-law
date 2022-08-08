@@ -1,0 +1,1 @@
+1. Ky vendim ka si qëllim përcaktimin e masës së përfitimit, kritereve dhe kushteve të veçanta të përfitimit nga fondi i zhvillimit për ndërmarrjet mikro, të vogla dhe të mesme, të cilat zhvillojnë projekte, që nxisin e përmirësojnë digjitalizimin.
