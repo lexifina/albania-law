@@ -1,0 +1,1 @@
+4. Vendimet e Këshillit të Ministrave nr. 446, datë 22.5.2017, “Për miratimin e numrit të përgjithshëm të personelit të Policisë së Shtetit”, të ndryshuar, dhe nr. 892, datë 21.12.2016, “Për përcaktimin e funksioneve korresponduese dhe kategorizimin për gradat në Policinë e Shtetit”, të ndryshuar, shfuqizohen.

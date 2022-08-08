@@ -1,0 +1,1 @@
+2. Funksionet korresponduese dhe kategorizimi për çdo gradë në Policinë e Shtetit përcaktohen në lidhjen nr. 1 “Tabela e funksioneve korresponduese dhe kategorizimi për çdo gradë”, që i bashkëlidhet këtij vendimi.
