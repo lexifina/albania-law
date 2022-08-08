@@ -1,0 +1,7 @@
+6. E drejta për të kërkuar detyrimet nga palët e treta
+6.1 Afati procedural dhe procedura për mbledhjen e detyrimit të transferuar
+Struktura e taksave dhe tarifave vendore kur ka dijeni që palë të treta kanë për të paguar shuma të caktuara në favor të taksapaguesit debitor, kërkon nga këta persona që detyrimet e tyre monetare kundrejt taksapaguesit t’i derdhin në favor të administratës tatimore vendore.
+Palët e treta për të kryer këto pagesa duhet të jenë njoftuar me shkrim, ndërkohë që detyrimi i tyre fillon brenda 30 ditëve nga data e marrjes së njoftimit, por jo më vonë se sa 37 ditë prej datës së nisjes së njoftimit zyrtar.
+Në çdo rast administrata tatimore vendore, brenda 10 ditëve nga data e marrjes dijeni për pagesat që kanë për të kryer palët e treta kundrejt taksapaguesit, duhet të përgatisë e nisë për palën e tretë “Njoftimin dhe kërkesën për pagesë”.
+6.2 Fillimi i procedurave të mbledhjes me forcë të detyrimit të transferuar
+Nëse me kalimin e 37 ditëve nga data kur është nxjerrë “Njoftimi dhe kërkesa për pagesë” nuk janë kryer pagesat dhe nëse personi që i transferohet detyrimi edhe pas njoftimit të bërë nga administrata tatimore, nuk e kundërshton atë brenda afateve kohore të parashikuara në ligj, inspektori përgjegjës për çështjen duhet të fillojë mbledhjen me masa shtrënguese të këtij detyrimi ndaj personit të tretë. Procedura e mbledhjes me forcë të detyrimit tatimor ndaj personit të tretë është e njëjtë me procedurën për mbledhjen e detyrimeve tatimore të papaguara nga taksapaguesi debitor.
