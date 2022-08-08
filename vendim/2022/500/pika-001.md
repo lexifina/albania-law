@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit për financimin e rindërtimit të objektit arsimor shkolla e mesme “Isa Boletini”, Bashkia Vorë, në masën 282 864 046 (dyqind e tetëdhjetë e dy milionë e tetëqind e gjashtëdhjetë e katër mijë e dyzet e gjashtë) lekë pa TVSH.

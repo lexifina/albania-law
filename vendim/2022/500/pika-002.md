@@ -1,0 +1,1 @@
+2. Bashkisë Vorë, në buxhetin e vitit 2022, i transferohet fondi, në masën 56 572 809 (pesëdhjetë e gjashtë milionë e pesëqind e shtatëdhjetë e dy mijë e tetëqind e nëntë) lekë pa TVSH, në formën e transfertës së pakushtëzuar, i cili do të përballohet nga hapësira buxhetore e siguruar pas ngurtësimit në të njëjtën masë të fondeve të projekteve të rindërtimit me ecuri të ngadaltë.

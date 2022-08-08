@@ -1,0 +1,1 @@
+3. Caktimin e Bashkisë Vorë si njësi zbatuese për financimin e rindërtimit të objektit arsimor, sipas pikave 1 dhe 2, të këtij vendimi.
