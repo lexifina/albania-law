@@ -1,0 +1,1 @@
+7. Këshilli merr vendime me shumicë të thjeshtë të votave të anëtarëve të pranishëm. Anëtarët e Këshillit, në përputhje me legjislacionin në fuqi për konfliktin e interesit, nuk marrin pjesë në proceset e diskutimit dhe këshillimit dhe vendimmarrëse, kur kanë dyshime për ekzistencën e konfliktit të interesit.

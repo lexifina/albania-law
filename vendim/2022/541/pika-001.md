@@ -1,0 +1,1 @@
+1. Ky vendim ka si qëllim përcaktimin e kritereve të përzgjedhjes të anëtareve, si dhe rregullave të hollësishme për organizimin, funksionimin dhe kompetencat e Këshillit Konsultativ për ndërmarrjet mikro, të vogla dhe të mesme.

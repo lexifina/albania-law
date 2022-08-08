@@ -1,0 +1,1 @@
+8. Në ushtrimin e detyrave, sipas përcaktimeve të këtij vendimi, Këshilli Konsultativ për ndërmarrjet mbështetet nga Sekretariati teknik. Detyrat e Sekretariatit teknik të Këshillit kryhen nga anëtarët e përzgjedhur nga ministria përgjegjëse për ekonominë dhe Agjencia Shqiptare e Zhvillimit të Investimeve (AIDA).
