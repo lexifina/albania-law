@@ -1,0 +1,1 @@
+1. Hapjen e institucionit arsimor privat parauniversitar të arsimit bazë “Rruga e Dijes”, me kohë të plotë, në të cilin zhvillohen edhe lëndë fetare dhe ku mësimi zhvillohet në gjuhën shqipe. Institucioni arsimor privat parauniversitar ushtron veprimtarinë arsimore në adresën: “Dy vilat trekatëshe”, rruga “Don Bosko”, Tiranë.
