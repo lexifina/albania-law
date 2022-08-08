@@ -1,6 +1,6 @@
 9. Grupi Negociator mbështetet në funksionet e tij nga Sekretariati i Integrimit Evropian, siç përcaktohet në kreun VII, të vendimit nr.749, datë 19.12.2018, të Këshillit të Ministrave.
 II. KRYENEGOCIATORI
-1. Kryenegociatori barazohet me ministrin e shtetit dhe, në zbatim të parashikimeve të vendimit nr.749, datë 19.12.2018, të Këshillit të Ministrave, ka përgjegjësi për kryerjen e negociatave teknike të anëtarësimit në BE për të gjithë kapitujt negociues. Në veçanti, Kryenegociatori ka këto detyra:
+1. Kryenegociatori në zbatim të parashikimeve të vendimit nr.749, datë 19.12.2018, të Këshillit të Ministrave, ka përgjegjësi për kryerjen e negociatave teknike të anëtarësimit në BE për të gjithë kapitujt negociues. Në veçanti, Kryenegociatori ka këto detyra:
 a) Drejton punën e Grupit Negociator;
 b) Udhëzon Sekretariatin e Integrimit Evropian në zbatimin e detyrave përkatëse;
 c) Siguron unitetin e veprimit të Grupit Negociator duke bashkërenduar punën e tij;
@@ -15,7 +15,7 @@ gj) Informon institucionet e Bashkimit Evropian dhe vendet anëtare të BE-së l
 h) Përcjell, përmes Ministrisë për Evropën dhe Punët e Jashtme, udhëzimet e Grupit Negociator për misionet diplomatike të Republikës së Shqipërisë;
 i) I përcjell Grupit Negociator të gjitha informacionet përkatëse nga institucionet e Bashkimit Evropian, shtetet anëtare të BE-së dhe vendet e tjera kandidate të BE-së;
 j) Përcjell pranë shteteve të BE-së, institucioneve të BE-së dhe vendeve të tjera kandidate, përmes Ministrisë për Evropën dhe Punët e Jashtme, kërkesat e Grupit Negociator për informacion dhe mendime lidhur me hartimin e qëndrimeve negociuese dhe çdo kërkesë tjetër të Grupit Negociator për informacion të nevojshëm në lidhje me një kapitull të veçantë apo me procesin e negociatave;
-k) Miraton kërkesat e Grupit Negociator në lidhje me angazhimin profesional të organizatave profesionale apo çdo subjekti të ndryshëm nga anëtarët e Grupit Negociator dhe kryen angazhimin e ekspertëve të fushave të ndryshme për të mbështetur kryerjen e detyrave të tij apo të detyrave dhe nevojave të grupit negociator për çështje të veçanta komplekse, pasi të ketë marrë miratimin e kryetarit të Delegacionit Shtetëror apo të personit të autorizuar prej tij. Nëse një veprim i tillë kërkon alokim fondesh shtesë, Kryenegociatori, pas marrjes së mendimit të ministrisë përgjegjëse për financat, paraqet përmes ministrit përgjegjës për Evropën kërkesën pranë Këshillit të Ministrave;
+k) Miraton kërkesat e Grupit Negociator në lidhje me angazhimin profesional të organizatave profesionale apo çdo subjekti të ndryshëm nga anëtarët e Grupit Negociator dhe kryen angazhimin e ekspertëve të fushave të ndryshme për të mbështetur kryerjen e detyrave të tij apo të detyrave dhe nevojave të grupit negociator për çështje të veçanta komplekse, pasi të ketë marrë miratimin e kryetarit të Delegacionit Shtetëror apo të personit të autorizuar prej tij. Nëse një veprim i tillë kërkon alokim fondesh shtesë, Kryenegociatori, pas marrjes së mendimit të ministrisë përgjegjëse për financat, paraqet kërkesën pranë Këshillit të Ministrave;
 l) I paraqet, të paktën çdo tre muaj, Komitetit Shtetëror për Integrimin Evropian dhe Këshillit të Ministrave një raport të konsoliduar mbi përparimin e negociatave të anëtarësimit në Bashkimin Evropian, bazuar në raportet tremujore të anëtarëve të Grupit Negociator sipas pikës 3, të kreut I, të këtij vendimi;
 ll) Bashkëkryeson Komitetin e Stabilizimit dhe Asociimit BE-Shqipëri dhe është pjesë e delegacionit shqiptar në Këshillin e Stabilizimit dhe Asociimit BE-Shqipëri;
 m) Merr pjesë në cilësinë e zëvendëskryetarit në Delegacionin Shtetëror dhe në cilësinë e anëtarit në Komitetin Shtetëror për Integrimin Evropian;
@@ -23,7 +23,7 @@ n) Harton një udhëzim kuadër të koordinimit të punës së Sekretariatit të
 nj) Nënshkruan marrëveshje bashkëpunimi me qëllim rritjen e efikasitetit të punës së Grupit Negociator dhe kryerjen e detyrave përkatëse pas marrjes së miratimit nga kryetari i Komitetit Shtetëror për Integrimin Evropian;
 o) Çdo detyrë dhe funksion të parashikuar në vendimin nr.749, datë 19.12.2018, të Këshillit të Ministrave.
 2. Kryenegociatori siguron pjesëmarrjen e anëtarëve të Grupit Negociator në programimin dhe monitorimin e asistencës financiare të BE-së në kapitujt, për të cilët ata janë përgjegjës.
-3. Kryenegociatori merr pjesë rregullisht, pa të drejtë vote, në mbledhjet e Këshillit të Ministrave.
+3. Shfuqizuar.
 4. Në rastet e mungesave, të pamundësisë apo të paaftësisë fizike për të vepruar të Kryenegociatorit, detyrat e përcaktuara në këtë kre kryhen nga zëvendëskryenegociatori, i cili përcaktohet me akt të veçantë të Kryenegociatorit nga radhët e negociatorëve. Zëvendëskryenegociatori kryen dhe detyra të tjera me kërkesë të Kryenegociatorit.
 III. KABINETI I KRYENEGOCIATORIT
 1. Kabineti i Kryenegociatorit funksionon pranë Kryeministrisë dhe në Misionin e Republikës së Shqipërisë në Bashkimin Evropian. Struktura dhe funksionimi i tij miratohen me urdhër të Kryeministrit.
