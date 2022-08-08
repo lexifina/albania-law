@@ -1,1 +1,2 @@
 6. Marrëdhëniet e punës së oficerëve të sigurisë fillojnë pas përfundimit me sukses të trajnimit pranë Akademisë së Sigurisë dhe rregullohen në përputhje me dispozitat e Kodit të Punës.
+6/1. Oficerët e sigurisë, që ushtrojnë detyrën në institucionet arsimore parauniversitare, të cilave u hiqet shërbimi i sigurisë publike, transferohen në institucionet arsimore parauniversitare, brenda së njëjtës zyrë vendore arsimore parauniversitare.
