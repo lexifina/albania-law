@@ -1,1 +1,1 @@
-31. Privatizimi, sipas këtij vendimi, ka afat deri në 2 (dy) vjet nga hyrja në fuqi e tij.
+31. Privatizimi i banesave, sipas këtij vendimi, ka afat 2 (dy) vjet pas daljes së certifikatës së pronësisë.
