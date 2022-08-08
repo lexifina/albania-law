@@ -1,0 +1,1 @@
+1. Institucionet e administratës shtetërore organizojnë çdo muaj, sipas një grafiku të përcaktuar prej tyre, në bashkëpunim me Qendrën Kombëtare të Transfuzionit të Gjakut, veprimtari të dhurimit vullnetar të gjakut, pa pagesë, nga punonjësit /nëpunësit e administratës shtetërore.
