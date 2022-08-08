@@ -1,0 +1,4 @@
+1. Përdorimin e fondit të rindërtimit, në masën 245 913 398 (dyqind e dyzet e pesë milionë e nëntëqind e trembëdhjetë mijë e treqind e nëntëdhjetë e tetë) lekë, pa TVSH, për financimin e rindërtimit të banesave individuale për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte që duhen rindërtuar nga e para sipas aktekspertizave të thelluara në bashkitë Durrës, Vorë dhe Shijak, sipas detajimit të mëposhtëm:
+a) Bashkisë Durrës, në masën 72 409 932 (shtatëdhjetë e dy milionë e katërqind e nëntë mijë e nëntëqind e tridhjetë e dy) lekë pa TVSH;
+b) Bashkisë Vorë, në masën 100 000 000 (njëqind milionë) lekë pa TVSH;
+c) Bashkisë Shijak, në masën 73 503 466 (shtatëdhjetë e tre milionë e pesëqind e tre mijë e katërqind e gjashtëdhjetë e gjashtë) lekë pa TVSH.
