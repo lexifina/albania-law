@@ -1,0 +1,2 @@
+# Neni 4
+Kur DPSHTRR-ja merr njoftimin nga organet ligjzbatuese për pezullimin e lejes qarkullimit, për shkak të moskryerjes së kontrollit teknik, pezullimi regjistrohet në mënyrë elektronike. Regjistrimi i pezullimit anulohet kur lëshohet certifikata e kryerjes së kontrollit teknik. Kur një mjet i regjistruar në një shtet anëtar të Bashkimit Evropian është hequr në mënyrë të përhershme nga qarkullimi, shërbimi i regjistrimit të këtij mjeti nga DPSHTRR do të refuzohet.
