@@ -1,0 +1,1 @@
+1. Miratimin e planit vjetor minerar për vitin 2022, sipas propozimeve të strukturave përgjegjëse AKBN (shkresa nr. 4669/2 prot., datë 15.07.2022) dhe SHGJSH (shkresa nr. 4669/1 prot., datë 17.6.2022).
