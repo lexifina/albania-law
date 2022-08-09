@@ -1,0 +1,31 @@
+{
+  "qbz_id": 60220,
+  "title": "Mbi licencimin e shoqërisë “Vokopola Energji” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et “Vokopola 1”, me kapacitet të instaluar 274 kW, “Vokopola 2”, me kapacitet të instaluar 3104 kW, dhe “Vokopola 3”, me kapacitet të instaluar 2297 kW, me kapacitet total të instaluar 5675 kW",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "161",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2022-06-17",
+  "published": "2022-08-09",
+  "in_force": "2022-08-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/69033007ba560399ac97554878100329febb0b82450946877c9079fb18dbf9a0.docx",
+  "source_sha256": "69033007ba560399ac97554878100329febb0b82450946877c9079fb18dbf9a0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60220",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/06/17/161",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31594,
+    27424,
+    25901,
+    25352
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
