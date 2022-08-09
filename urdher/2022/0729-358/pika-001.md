@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Bujqësisë dhe Zhvillimit Rural, zëvendësministrit të Ministrisë së Bujqësisë dhe Zhvillimit Rural z. Dhimitër Kote nga data 1.8.2022 deri më datë 14.8.2022.
