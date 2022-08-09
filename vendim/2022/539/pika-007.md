@@ -1,0 +1,1 @@
+7. Bordi merr vendime me shumicë të thjeshtë të anëtarëve të pranishëm. Anëtarët e Bordit, në përputhje me legjislacionin në fuqi për konfliktin e interesit, nuk marrin pjesë në proceset përzgjedhëse dhe vendimmarrëse, kur kanë dyshime për ekzistencën e konfliktit të interesit.

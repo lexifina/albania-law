@@ -1,0 +1,1 @@
+8. Në ushtrimin e detyrave, sipas përcaktimeve të këtij vendimi, Bordi Vlerësues i Kërkesave mbështetet nga sekretariatit teknik. Detyrat e sekretariatit teknik të Bordit Vlerësues të Kërkesave kryhen nga njësia përgjegjëse për menaxhimin e grantit, pranë Agjencisë Shqiptare të Zhvillimit të Investimeve (AIDA), siç përcaktohen në rregulloren e funksionimit të grantit.
