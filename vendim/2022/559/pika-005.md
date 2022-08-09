@@ -1,0 +1,2 @@
+5. Tarifat dhe çmimet për prodhimet drusore dhe jodrusore pyjore, për grumbullimin dhe nxjerrjen e prodhimeve të dyta pyjore dhe jopyjore janë sipas shtojcës nr. 3, që i bashkëlidhet këtij vendimi.
+Për shitjen e lëndës drusore në këmbë, lëndë punimi dhe dru zjarri për njësi/m3 dhe materialit drusor të asortuar, që shitet në anë të rrugës, çmimi i shitjes përcaktohet, sipas çmimeve të tregut, por jo nën çmimin e kostos së prodhimit, e cila llogaritet sipas tarifave të kësaj shtojce.
