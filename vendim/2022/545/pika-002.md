@@ -1,0 +1,1 @@
+2. Pasuritë e paluajtshme shtetërore, të përmendura në pikën 1 të këtij vendimi, vihen në dispozicion për zhvillimin e realizimin e projektit investues strategjik “White Roads Hotel”, me subjekt investues “White Roads Hotel” sh.p.k., me NUIS: M02407023J.
