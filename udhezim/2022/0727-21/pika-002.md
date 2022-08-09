@@ -1,0 +1,5 @@
+2. Nderohet me “Medaljen e artë” nxënësi që është fitues i njërit prej tri çmimeve të para në olimpiadat ndërkombëtare me më shumë se 15 vende pjesëmarrëse, sipas procedurave të rregullores “Për zhvillimin e olimpiadave kombëtare në arsimin parauniversitar dhe pjesëmarrja e nxënësve në olimpiadat ndërkombëtare”.
+KREU 2
+PROCEDURA PËR DHËNIEN E “MEDALJES SË ARTË”
+1. Në javën e parë të vitit shkollor, Qendra e Shërbimeve Arsimore (QSHA) dërgon në Drejtorinë e Përgjithshme të Arsimit Parauniversitar (DPAP) listën emërore të nxënësve që plotësojnë kriteret sipas shkronjave “a” dhe “b”, të pikës 1, të kreut 1, të udhëzimit. DPAP-ja e përcjell këtë listë nëpërmjet drejtorive rajonale të arsimit parauniversitar (DRAP) dhe zyrave vendore të arsimit parauniversitar (ZVAP), në institucionet arsimore të arsimit të mesëm të lartë parauniversitar (IAP).
+2. Në javën e dytë të vitit shkollor, institucionet e arsimit të mesëm të lartë, përgatisin dhe dërgojnë në ZVAP, listat dhe dosjet e nxënësve, që plotësojnë kriteret për “Medaljen e artë”, sipas kreut 1 të këtij udhëzimi.

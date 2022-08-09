@@ -1,0 +1,1 @@
+5. Në javën e tretë të vitit shkollor DPAP-ja përcjell në QSHA listën emërore të nxënësve të shoqëruar me certifikatën përkatëse, që nxënësi ka fituar në olimpiadën ndërkombëtare, sipas kritereve të pikës 2, të kreut 1, të këtij udhëzimi. QSHA-ja pasi kryen verifikimet e përcjell atë në DPAP.
