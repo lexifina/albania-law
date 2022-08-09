@@ -1,1 +1,0 @@
-1. Tarifat e materialit drusor të asortuar, që shitet në anë të rrugës, përcaktohen sipas çmimeve të tregut, por jo nën çmimin e kostos së prodhimit, e cila përllogaritet mbi tarifat bazë të lëndës drusore në këmbë, që jepen në lidhjet 1/a e 1/b, të shtojcës, që i bashkëlidhet këtij vendimi.
