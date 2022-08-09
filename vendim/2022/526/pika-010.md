@@ -1,0 +1,1 @@
+10. Agjencia ka stemën dhe logon e vet zyrtare, sipas modeleve që i bashkëlidhen këtij vendimi. Stema e Drejtorisë së Përgjithshme përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Agjencia për Dialog dhe Bashkëqeverisje, Drejtoria e Përgjithshme”.
