@@ -1,0 +1,1 @@
+5. Në institucionet arsimore parauniversitare, ku mësojnë nxënësit e pakicave kombëtare, kur nuk plotësohen kushtet për zhvillimin e lëndëve mësimore në gjuhën amtare, sipas përcaktimeve ligjore, në klasat VI-IX, lëndët mësimore mund të zhvillohen në gjuhën shqipe.

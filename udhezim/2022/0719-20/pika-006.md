@@ -1,0 +1,1 @@
+6. Në institucionet arsimore parauniversitare, ku mësojnë nxënësit e pakicave kombëtare, punohet me programet dhe tekstet e përgatitura në Republikën e Shqipërisë, si në gjuhën shqipe, ashtu edhe në gjuhën amtare.
