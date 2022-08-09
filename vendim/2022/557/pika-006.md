@@ -1,0 +1,1 @@
+6. Zonat urbane brenda perimetrit të zonës së mbrojtur të jenë pjesë e planit të menaxhimit të kësaj zone, duke u harmonizuar me rregullat e parashikuara nga planet e përgjithshme vendore dhe planet e detajuara urbane të miratuara.

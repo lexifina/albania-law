@@ -1,0 +1,1 @@
+2. Zona e mbrojtur përfshin sipërfaqe ujore/detare dhe sipërfaqe tokësore, që përfshin shkurre, tokë me bimësi pyjore, sipërfaqe kullosore, sipas tabelës nr. 1, të aneksit 1, që i bashkëlidhet këtij vendimi.

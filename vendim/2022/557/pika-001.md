@@ -1,0 +1,1 @@
+1. Shpalljen e ekosistemit natyror detar - bregdetar të Gjirit të Porto-Palermos “Park Natyror” (kategoria IV e zonave të mbrojtura), sipas hartës në shtojcën 1, dhe kufirit të paraqitur, sipas tabelës së koordinatave në shtojcën 2, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
