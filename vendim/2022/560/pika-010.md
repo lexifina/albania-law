@@ -1,0 +1,1 @@
+10. Brenda 30 (tridhjetë) ditëve nga përfundimi i afatit të dorëzimit, komisioni i vlerësimit të ofertave përcakton renditjen e subjekteve pjesëmarrëse të kualifikuara, sipas pikëve të përfituara, si dhe përcakton listën e subjekteve të shkualifikuara.

@@ -1,0 +1,1 @@
+8. Pas shqyrtimit të kritereve formale ligjore, nëse dokumentacioni i paraqitur konsiderohet me të meta, subjekti i interesuar njoftohet me shkrim për mangësitë, duke i caktuar afatin 5-ditor (pesëditor) për plotësimin e të metave.

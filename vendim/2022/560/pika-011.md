@@ -1,0 +1,1 @@
+11. Vendimi për vlerësimin i përcillet ministrit përgjegjës për trashëgiminë kulturore dhe shpallet në Buletinin e Njoftimeve Zyrtare brenda 5 (pesë) ditëve kalendarike nga data e marrjes së vendimit.

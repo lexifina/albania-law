@@ -1,0 +1,1 @@
+13. Pas përfundimit të afatit të parashikuar në pikën 12 të këtij kreu ose vendimit të ministrit, ministri njofton fituesin për lidhjen e kontratës për dhënien në administrim indirekt të pasurisë kulturore.

@@ -1,0 +1,1 @@
+6. Komisioni i vlerësimit të ofertave shqyrton dhe vlerëson dosjet e subjekteve konkurruese, sipas këtij vendimi dhe vendimit të KKMPK-së, sipas pikës 2 të këtij kreu, mbi baza krahasimore të projekteve të propozuara.

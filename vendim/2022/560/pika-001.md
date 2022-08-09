@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i procedurave publike për dhënien në administrim indirekt të pasurive kulturore në pronësi publike personave fizikë apo juridikë, publikë ose privatë, dhe përcaktimi i kushteve të kontratës për dhënien në administrim indirekt të pasurisë kulturore.
