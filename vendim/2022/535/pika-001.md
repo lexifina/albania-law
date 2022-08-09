@@ -1,0 +1,1 @@
+1. Miratimin e tavaneve përfundimtare të shpenzimeve të programit buxhetor afatmesëm 2023-2025, sipas lidhjes nr. 1 “Tavanet e ministrive dhe institucioneve buxhetore”, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
