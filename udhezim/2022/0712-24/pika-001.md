@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim të përcaktojë mënyrën e llogaritjes së të dhënave për kategorizimin e ndërmarrjeve mikro, të vogla dhe të mesme (NMVM) dhe modelin e deklarimit të kategorisë përkatëse në zbatim të nenit 5 dhe 8, të ligjit nr. 43/2022, “Për zhvillimin e ndërmarrjeve mikro, të vogla dhe të mesme”, sipas shtojcave I, II dhe III bashkëlidhur këtij udhëzimi.
