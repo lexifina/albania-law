@@ -4,9 +4,10 @@ IV. PRODHIMI I AMBALAZHEVE
 a) zvogëlimin e sasisë së mbetjeve të përftuara nga ambalazhet;
 b) parandalimin dhe pakësimin e materialeve përbërëse të ambalazhit të dëmshme për mjedisin;
 c) shfrytëzimin e ambalazhit duke e ripërdorur, përpunuar, ricikluar dhe duke e rikuperuar atë.
-2. Pa rënë ndesh me kërkesat e tjera të posaçme të këtij vendimi, prodhimi i qeseve plastike mbajtëse, sipas përcaktimeve të këtij vendimi, bëhet duke përdorur aditivë biodegradues me një cikël veprimi jo më pak se 36 muaj, i cili mundëson realizimin e ciklit të plotë të përdorimit nga prodhimi, magazinimi, tregtimi, përdorimi dhe kthimi për riciklim përpara se ky produkt të ketë humbur vlerat për riciklim. Qeset plastike mbajtëse të oxo-degradueshme nuk konsiderohen si të biodegradueshme sipas përcaktimit të këtij vendimi.
-3. Pa rënë ndesh me kërkesat e tjera të posaçme të këtij vendimi, prodhimi i qeseve plastike mbajtëse, me trashësinë e mureve me të madhe se 35 mikron, bëhet duke përdorur jo më pak se 55% lëndë të parë të përftuar nga riciklimi, ose lëndë të parë ndihmëse alternative joplastike.
-4. Prodhuesi i qeseve plastike mbajtëse, sipas përcaktimeve të pikave 2 dhe 3, të këtij kreu, ruan, administron dhe jep informacionin që vërteton respektimin e përcaktimeve të këtij kreu, sipas kërkesave të përcaktuara në këtë vendim.
+2. Shfuqizuar.
+3. Pa rënë ndesh me kërkesat e tjera të posaçme të këtij vendimi, prodhimi i qeseve plastike mbajtëse, me trashësi të mureve të qeses për çdo anë 70 mikron ose më të madhe se 70 mikron, me kapacitet mbajtës 10 kilogram, ose më të madh se 10 kilogramë dhe me përmasa 50 cm, ose më të mëdha se 50 cm gjatësi dhe 24 cm, ose më të mëdha se 24 cm gjerësi, pa përfshirë gjerësinë e palosjeve, bëhet duke përdorur jo më pak se 55% lëndë të parë, të përftuar nga riciklimi, ose lëndë të parë ndihmëse alternative joplastike.
+4. Prodhuesi i qeseve plastike mbajtëse, sipas përcaktimeve të pikës 3, të këtij kreu, ruan, administron dhe jep informacionin që vërteton respektimin e përcaktimeve të këtij kreu, sipas kërkesave të përcaktuara në këtë vendim.
+5. Çdo prodhues/importues i qeseve plastike mbajtëse me karakteristikat, sipas pikës 3, të këtij kreu, të ketë skedën teknike për llojin e qeses plastike mbajtëse që prodhon/tregton dhe t’ia paraqesë strukturave inspektuese në rast inspektimi..
 V. MASAT PËR PARANDALIMIN E GJENERIMIT TË MBETJEVE NGA AMBALAZHET
 1. Operatorët ekonomikë marrin masat e nevojshme për parandalimin e gjenerimit të mbetjeve të ambalazheve, duke përmbushur kriteret e përcaktuara në kreun VI, të këtij vendimi, për kërkesat specifike për ambalazhet.
 2. Shitësit përcaktojnë çmimin e ambalazhit të mallrave që ambalazhohen në pikën e tyre të shitjes dhe e pasqyrojnë atë si zë më vete në faturën përkatëse që i lëshojnë blerësit.
@@ -25,16 +26,10 @@ b) dyqind e pesëdhjetë ppm të peshës, deri më 30 qershor 2015;
 c) njëqind ppm të peshës, deri më 30 qershor 2017.
 2. Kërkesat e pikës 1 të këtij kreu, nuk zbatohen për ambalazhet që përbëhen tërësisht prej qelqit, me kristal prej plumbi.
 VIII. SISTEMI I SHENJIMIT DHE IDENTIFIKIMIT TË AMBALAZHEVE
-1. Prodhuesi ose importuesi lejohet të hedhë në treg apo të vendosë në qarkullim qese plastike mbajtëse, sipas përcaktimeve të këtij vendimi, vetëm pasi sigurohet që në të janë të dukshme:
-a) inicialet identifikuese të prodhuesit;
-b) shenjat treguese që përcaktojnë llojin e plastikës që është përdorur për prodhimin e qeses apo ambalazhit;
-c) shenjën e aditivit vetëshkatërrues të përdorur;
-ç) datën, muajin dhe vitin e prodhimit;
-d) shenjën identifikuese që tregon se qesja është e riciklueshme dhe duhet depozituar dhe mbledhur e ndarë nga mbetjet organike;
-dh) shenjën për përdorim në kontakt drejtpërdrejt me produktin ushqimor, nëse është prodhuar për atë qëllim.
-2. Prodhuesi, importuesi, tregtuesi apo çdo subjekt tjetër ekonomik, privat apo publik, mban dhe ruan informacion mbi hallkën e mëparshme apo pasuese të qeseve plastike mbajtëse, për një periudhë jo më të vogël se 36 muaj, me qëllim identifikimin dhe gjurmimin e procesit të daljes në qarkullim të këtyre qeseve.
-3. Informacioni i përmendur në pikën 1, të këtij kreu, i jepet inspektorit të mjedisit apo nëpunësit të agjencisë së mjedisit, sipas kërkesës së tij me shkrim.
-4. Agjencia Kombëtare e Mjedisit, në bashkëpunim me Inspektoratin Kombëtar të Mjedisit, organet doganore e tatimore dhe Inspektoratin Qendror Teknik, mbledh dhe administron në mënyrë periodike vjetore informacionin e dërguar nga njësitë e vetëqeverisjes vendore mbi sasinë e qeseve plastike mbajtëse, të kategorizuara sipas përcaktimeve të kreut XII, të këtij vendimi, në qarkullim në territorin e Republikës së Shqipërisë, si dhe sasinë e tyre të përdorur në industrinë ricikluese..
+1. Prodhuesi ose importuesi lejohet të hedhë në treg apo të vendosë në qarkullim qese plastike mbajtëse, sipas përcaktimeve të këtij vendimi, vetëm pasi sigurohet që në të janë të dukshme elementët e përcaktuar në aneksin 7, bashkëlidhur këtij vendimi.
+2. Shfuqizuar.
+3. Shfuqizuar.
+4. Agjencia Kombëtare e Mjedisit, në bashkëpunim me Inspektoratin Kombëtar të Mjedisit, organet doganore e tatimore dhe Inspektoratin Qendror Teknik, mbledh dhe administron në mënyrë periodike vjetore informacionin e dërguar nga njësitë e vetëqeverisjes vendore mbi sasinë e qeseve plastike mbajtëse, të kategorizuara sipas përcaktimeve të kreut XII, të këtij vendimi, në qarkullim në territorin e Republikës së Shqipërisë, si dhe sasinë e tyre të përdorur në industrinë ricikluese.
 IX. RIPËRDORIMI I MBETJEVE TË AMBALAZHEVE
 1. Operatorët ekonomikë marrin masa për të nxitur ripërdorimin e ambalazheve, sikurse përcaktohet në kreun XI të këtij vendimi.
 2. Operatorët ekonomikë marrin masat e nevojshme dhe i njoftojnë përdoruesit për mundësinë e ripërdorimit të ambalazheve.
@@ -89,16 +84,16 @@ b) përdorimin e materialeve ambalazhuese që nuk përmbajnë substanca të rrez
 3. Qeset plastike mbajtëse, të lejuara për t’u hedhur në treg sipas përcaktimeve të këtij vendimi, mund të ofrohen në pikat e shitjes së mallrave apo produkteve, vetëm kundrejt një pagese të posaçme të identifikuar në faturën apo kuponin tatimor.
 XV. NDALIME
 1. Ndalohen prodhimi, importimi dhe hedhja në treg e ambalazheve kur nuk respektohen nga subjektet përgjegjëse kërkesat për nivelet e përqendrimit të metaleve të rënda në ambalazhe, të përcaktuara në kreun VII të këtij vendimi.
-2. Pas 2 muajsh nga hyrja në fuqi e këtij vendimi, ndalohet hedhja në treg apo përdorimi në çdo rast i qeseve të lehta plastike mbajtëse.
-3. Pas 2 muajsh nga hyrja në fuqi e këtij vendimi, ndalohet hedhja në treg apo përdorimi në çdo rast i qeseve plastike mbajtëse të pabiodegradueshme.
+2. Shfuqizuar.
+3. Shfuqizuar.
 4. Shfuqizuar.
 5. Shfuqizuar.
 6. Ndalohet transporti i mbetjeve të ambalazheve me mjetet që transportojnë mbetje organike të përziera shtëpiake/bashkiake.
 DISPOZITA TË FUNDIT
 XVI. ORGANET PËRGJEGJËSE DHE AKTE TË MINISTRIT PËRGJEGJËS PËR MJEDISIN
-Ngarkohen Ministria, Agjencia Kombëtare e Mjedisit, Inspektorati Qendror Teknik, Inspektorati Kombëtar i Mjedisit, autoritetet doganore dhe ato tatimore, njësitë e vetëqeverisjes vendore, në përputhje me detyrimet ligjore që rrjedhin nga legjislacioni në fuqi që rregullon fushën e veprimtarisë së tyre për zbatimin e këtij vendimi.
+Ngarkohen Ministria, Agjencia Kombëtare e Mjedisit, Inspektorati Qendror Teknik, Inspektorati Shtetëror i Mbikëqyrjes së Tregut, Inspektorati Kombëtar i Mjedisit, autoritetet doganore dhe ato tatimore, njësitë e vetëqeverisjes vendore, në përputhje me detyrimet ligjore që rrjedhin nga legjislacioni në fuqi që rregullon fushën e veprimtarisë së tyre për zbatimin e këtij vendimi.
 XVII. SANKSIONET
-Shkelja e parashikimit të: pikës 2, të kreut IV; të pikave 1, 2 e 3, të kreut V; të pikës 1, të kreut VI; të pikës 1, të kreut VII; kreut VIII; të pikave 1 e 2, të kreut IX; të pikës 1, të kreut X; të kreut XI; të pikës 1, të kreut XII; dhe të kreut XV, të këtij vendimi, dënohet sipas përcaktimit të pikës 25, të nenit 62, të ligjit nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar.
+Shkelja e parashikimit të: pikës 2, të kreut IV; të pikave 1, 2 e 3, të kreut V; të pikës 1, të kreut VI; të pikës 1, të kreut VII; kreut VIII; të pikave 1 e 2, të kreut IX; të pikës 1, të kreut X; të kreut XI; të pikës 1, të kreut XII; dhe të kreut XV, të këtij vendimi, dënohet sipas përcaktimit të pikës 25 dhe 25/1,të nenit 62, të ligjit nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar.
 XVIII. SHTOJCAT
 Shtojcat bashkëlidhur këtij vendimi janë pjesë përbërëse e tij.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
