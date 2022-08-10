@@ -2,3 +2,4 @@
 a) konstatimin e rasteve të shkeljes të kërkesave të këtij vendimi;
 b) vendimet përkatëse të marra nga inspektoratet përgjegjëse;
 c) sasitë e importuara në territorin e Republikës së Shqipërisë.
+8.1. Për zbatimin e këtij vendimi krijohet Task-Forca për qeset plastike mbajtëse. Përbërja, mënyra e organizimit dhe funksionimit përcaktohet me urdhër të Kryeministrit.
