@@ -1,0 +1,1 @@
+1. Transferimin, në pronësi të Bashkisë Përmet, për njësinë administrative Frashër, të disa pronave me vendndodhje në zonat kadastrale 1637 dhe 3744, sipas formularëve të inventarizimit të pronave të paluajtshme shtetërore, gjithsej, 2 (dy) fletë, dhe planrilevimeve, bashkëlidhur këtij vendimi, me qëllim për t’u përdorur në fushën e bujqësisë dhe për funksione administrative.
