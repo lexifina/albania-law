@@ -1,0 +1,1 @@
+4. Vlera e shpërblimit për pronarët që shpronësohen është 9 348 835.54 (nëntë milionë e treqind e dyzet e tetë mijë e tetëqind e tridhjetë e pesë pikë pesëdhjetë e katër) lekë dhe përballohet nga buxheti i Ministrisë së Kulturës për vitin 2022.
