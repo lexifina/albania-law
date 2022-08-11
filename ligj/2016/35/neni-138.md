@@ -1,14 +1,15 @@
 # Neni 138
-Agjencia unike për kryerjen e funksionit të mbledhjes së shpërblimeve (Sporteli unik)
-1. Me anë të një marrëveshjeje me shkrim AAK-të bien dakord dhe vendosin cilës prej tyre do t’i transferohet funksioni i mbledhjes së tarifave për të gjitha kategoritë e mbajtësve të të drejtave.
-2. Nëse ato nuk arrijnë marrëveshjen e sipërpërmendur, brenda afatit 30-ditor nga hyrja në fuqi e tarifave të shpërblimit, këtë vendimmarrje e realizon Këshilli Kombëtar i të Drejtave të Autorit (në vijim KKDA), për një nga agjencitë e licencuara, në bazë të kritereve të mëposhtme:
-a) të ketë kapacitetin administrativ për mbulimin e territorit;
-b) të zbatojë me përpikëri dispozitat për procedurën e mbledhjes së shpërblimeve, sipas këtij ligji;
-c) të ketë kohëzgjatje të aktivitetit të subjektit ndër vite;
-ç) të ketë kontrata të përfaqësimit të ndërsjellë me agjenci homologe dhe njohje ndërkombëtare;
-d) të zotërojë infrastrukturën më të përshtatshme, e cila garanton respektimin e transparencës në mbledhjen dhe shpërndarjen e të ardhurave për anëtarët e saj;
-dh) të ketë pasuritë e platformës më të përshtatshme dhe me koston më efektive për administrimin e të drejtave.
-3. Marrëveshja e parashikuar në pikën 1, të këtij neni, ose vendimi i KKDA-së, i parashikuar në pikën 2, të këtij neni, duhet të përmbajë detyrimisht mënyrën dhe përqindjen e ndarjes së tarifës dhe shpërblimit të mbledhur ndaj AAK-ve, si më poshtë:
-a) 40 për qind do t’i shkojë agjencisë, përfaqësuesi i të drejtave të autorit;
-b) 30 për qind do t’i shkojë agjencisë, përfaqësuesi i të drejtave të interpretuesve;
-c) 30 për qind do t’i shkojë agjencisë, përfaqësuesi i të drejtave të prodhuesve, përfshirë botuesit dhe prodhuesit e fonogrameve.
+Sporteli unik për kryerjen e funksionit të mbledhjes së shpërblimeve
+1. Për të siguruar një shërbim efektiv dhe të thjeshtuar për subjektet përdoruese, krijohet sporteli unik që kryen shërbimet për funksionin e mbledhjes së tarifave të shpërblimit për të gjitha kategoritë e mbajtësve të të drejtave në administrimin kolektiv, të mbrojtura nga të gjitha agjencitë e administrimit kolektiv të licencuara.
+2. Sporteli unik krijohet si subjekt juridik dhe regjistrohet si organizatë jofitimprurëse në zbatim të legjislacionit në fuqi.
+3. Sporteli unik përbëhet nga përfaqësues të agjencive të administrimit kolektiv të licencuara në Republikën e Shqipërisë. Secila prej AAK-ve ka një përfaqësues anëtar në organin më të lartë vendimmarrës.
+4. Përcaktimi i organit më të lartë ekzekutiv kryhet nëpërmjet një vendimi të anëtarëve të organit më të lartë vendimmarrës të sportelit unik. Përzgjedhja e organit më të lartë ekzekutiv përmes një konkurrimi të hapur, kryhet duke marrë parasysh shmangien nga çdo interes direkt ose indirekt i mundshëm i veprimtarisë së ushtruar nga secila AAK. Organi më i lartë ekzekutiv është i pavarur dhe i ndryshëm nga organet vendimmarrëse dhe ekzekutive të agjencive të administrimit kolektiv të licencuara. Afati për vendimmarrjen për zgjedhjen e organit më të lartë ekzekutiv është 30 ditë kalendarike para përfundimit të vlefshmërisë së vendimit mbi përzgjedhjen e organit më të lartë ekzekutiv.
+5. Nëse nuk arrihet një vendimmarrje mes AAK-ve për përzgjedhjen e organit më të lartë ekzekutiv brenda afatit të përcaktuar, këtë vendimmarrje e realizon Këshilli Kombëtar për të Drejtën e Autorit (në vijim “KKDA”), nëpërmjet një procedure të hapur dhe transparente, bazuar në kritere të miratuara prej tij.
+6. AAK-të vendosin në dispozicion të sportelit unik bazën e të dhënave të anëtarëve të tyre me të cilët kanë lidhur kontrata, si dhe çdo informacion të nevojshëm për të kryer funksionin e mbledhjes së tarifave të shpërblimit.
+7. Mënyra e organizimit dhe e funksionimit dhe veprimtaria e sportelit unik miratohen me udhëzim të ministrit përgjegjës për të drejtën e autorit.
+8. Ndarja e shpërblimeve të mbledhura ndaj AAK-ve kryhet si më poshtë:
+a) 40% do t’u shkoje përfaqësuesve të te drejtave te autorit;
+b) 30% do t’u shkoje përfaqësuesve të te drejtave te interpretuesve;
+c) 30% do t’u shkoje përfaqësuesve të te drejtave te prodhuesve (producentëve) të filmave, të botuesve dhe prodhuesve të fonogramit.
+9. Në zbatim të pikës 8 të këtij neni, KKDA-ja përcakton me vendim përqindjen e ndarjes së shpërblimeve të mbledhura për agjencitë e administrimit kolektiv, të licencuara sipas nenit 130 të këtij ligji.
+10. Statuti i sportelit unik miratohet nga themeluesit e organizatës jofitimprurëse. Çdo propozim për ndryshimin e statutit është objekt i miratimit nga ministri përgjegjës për të drejtat e autorit, sipas propozimit të Drejtorisë për të Drejtën e Autorit. DDA-ja shqyrton brenda 10 ditëve nga data e paraqitjes së kërkesës propozimin për ndryshim të statutit të sportelit unik. Miratimi ose refuzimi i propozimit duhet të jetë i argumentuar dhe të shprehet në lidhje me përputhshmërinë e ndryshimeve të statutit. Miratimi i paraqitet gjykatës së rrethit gjyqësor, me qëllim regjistrimin e ndryshimit. Çdo ndryshim i statutit, i kryer në kundërshtim me parashikimet e kësaj pike, ngarkon me përgjegjësi anëtarët e organit vendimmarrës sipas ligjit për organizatat jofitimprurëse.
