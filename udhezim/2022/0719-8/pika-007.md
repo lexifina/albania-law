@@ -1,0 +1,1 @@
+7. Personi i cili përfiton uljen e tarifave të shërbimit të përkthimit zyrtar ose interpretimit të gjuhës së shenjave ose përjashtimin nga pagesa e tyre njofton përkthyesin zyrtar ose interpretin e gjuhës së shenjave të zgjedhur prej tij dhe i vendos në dispozicion një kopje të njoftimit ose të urdhrit të ministrit të Drejtësisë.

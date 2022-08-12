@@ -1,0 +1,1 @@
+1. Masa e tarifës për shërbimin e përkthimit të një teksti, dokumenti zyrtar ose i një akti normativ të miratuar në Republikën e Shqipërisë, i një marrëveshjeje ndërkombëtare ose normave të nxjerra nga organizatat ndërkombëtare, me shkrim, nga gjuha e burimit në gjuhën e synuar, llogaritet për faqe kompjuterike.

@@ -1,0 +1,6 @@
+9. Pas verifikimit të dokumentacionit, sipas pikës 8 të këtij kreu, Ministria e Drejtësisë kompenson përkthyesin zyrtar ose interpretin e gjuhës së shenjave në masën 50 për qind të tarifës kur është përfituar ulja e saj ose në masën 100 për qind të tarifës, në rastin kur kërkuesi është përjashtuar nga pagesa e tarifës. Kompensimi mbulohet nga buxheti i miratuar i Ministrisë së Drejtësisë dhe derdhet në llogarinë bankare të përkthyesit zyrtar ose interpretit të gjuhës së shenjave.
+VI. Dispozita kalimtare dhe të fundit
+1. Ky udhëzim zbatohet për të gjitha shërbimet e përkthimit zyrtar dhe interpretimit të gjuhës së shenjave që kryhen pas hyrjes në fuqi të tij.
+2. Udhëzimi i përbashkët i ministrit të Drejtësisë dhe i ministrit të Financave nr. 3165, datë 12.5.2004, “Për kriteret dhe procedurat e përzgjedhjes së përkthyesve të jashtëm, tarifat e shpërblimit të përkthyesve të jashtëm dhe tarifat e përkthimit zyrtar që duhet të paguajnë të tretët”, i ndryshuar, shfuqizohet.
+3. Ngarkohet Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë në Ministrinë e Drejtësisë, përkthyesit zyrtarë dhe interpretët e gjuhës së shenjave për ndjekjen dhe zbatimin e këtij udhëzimi.
+Ky udhëzim hyn në fuqi pas publikimit në Fletoren Zyrtare.

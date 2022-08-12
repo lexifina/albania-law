@@ -1,0 +1,1 @@
+2. Faqja kompjuterike përmban 1800 (një mijë e tetëqind) shkronja e shenja, duke përfshirë dhe ndarjet e nevojshme të materialit të shkruar në fjalë, kryeradhë, paragrafë, kapituj dhe pjesë. Skicat, fotot, tabelat e skemat që përfshihen në tekstin e përkthyer, llogariten e shpërblehen mekanikisht si faqe kompjuterike sipas vendit që zënë në tekst.

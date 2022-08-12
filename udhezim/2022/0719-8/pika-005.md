@@ -1,0 +1,1 @@
+5. Masa e tarifës për shërbimin e përkthimit me gojë, kur palët nuk dinë gjuhën shqipe, gjatë hetimit të një çështjeje penale, si dhe gjatë zhvillimit të proceseve gjyqësore civile, penale ose administrative, sipas parashikimeve të legjislacionit procedural në fuqi ose gjatë shqyrtimit të çështjeve nga Gjykata Kushtetuese llogaritet në bazë të një kohëzgjatje prej një ore.
