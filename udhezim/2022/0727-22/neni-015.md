@@ -1,0 +1,7 @@
+# Neni 15
+Edukimi mjedisor
+1. Institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar dhe institucionet arsimore të marrin masa për zbatimin me përparësi të urdhrit të përbashkët nr. 336, datë 14.7.2021, midis Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, Ministrisë së Arsimit dhe Sportit dhe Ministrisë së Bujqësisë dhe Zhvillimit Rural “Për miratimin e rregullores për standardet e ushqimit në mjediset e institucioneve arsimore parauniversitare”.
+2. Zhvillimi i studimit COSI (Childhood Obesity Surveillance Initiative) dhe studimit “Ndikimi i pandemisë COVID-19 në rutinën e përditshme dhe sjelljet e fëmijëve të moshës shkollore në Evropë” te fëmijët e moshës 6-8.99 vjeç, gjatë vitit shkollor 2022-2023, në bashkëpunim me MSHMS-në, në kuadër të nismës së Organizatës Botërore të Shëndetësisë (OBSH), në zbatim të Sistemit Evropian të Survejances së Obezitetit të Moshës Fëminore të Organizatës Botërore të Shëndetësisë (COSI/WHO Evropë).
+3. Zhvillimin e veprimtarive jashtëshkollore dhe plotësuese në institucionet arsimore parauniversitare në kuadër të Ditës Botërore të Mjedisit dhe Ditës Botërore të Tokës.
+4. Zbatimin e projekteve “Miqtë e ujit” dhe “Sfida botërore e monitorimit të ujit”, në përputhje me marrëveshjet e nënshkruara midis MAS-it dhe SHUKALB[1].
+5. Zbatimin e Memorandumit të Mirëkuptimit ndërmjet MAS-it dhe UNFPA-së, për programin “Edukimi shëndetësor me fokus aftësitë për jetën dhe edukimin seksual”.
