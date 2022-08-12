@@ -1,1 +1,0 @@
-3. Autoriteti Kombëtar i Ushqimit të informojë rregullisht, brenda 24 orëve Autoritetin Kombëtar të Veterinarisë dhe Mbrojtjes së Bimëve, Drejtorinë e Politikave dhe Programeve të Sigurisë Ushqimore dhe Veterinarisë për çdo ngarkesë të kafshëve të llojit derra, produkteve dhe nënprodukteve të tyre, materialit biologjik, embrioneve, mishit dhe nënprodukteve të tyre.
