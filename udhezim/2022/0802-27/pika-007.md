@@ -1,0 +1,1 @@
+7. Bursa financiare u jepet studentëve përfitues çdo muaj, në llogarinë bankare të deklaruar nga studentët, në bankat e nivelit të dytë, pas konfirmimit të frekuentimit të programit përkatës të studimit te struktura përgjegjëse për ndjekjen e ecurisë së studentëve gjatë studimeve, brenda datës 5 të çdo muaji.

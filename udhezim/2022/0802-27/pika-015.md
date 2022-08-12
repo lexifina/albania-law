@@ -1,0 +1,2 @@
+15. Ngarkohen për zbatimin e këtij udhëzimi, Sekretari i Përgjithshëm, Drejtoria e Buxhetit dhe Menaxhimit Financiar, Drejtoria e Programimit, Standardizimit dhe Harmonizimit të Kuadrit Rregullator në Ministrinë e Arsimit dhe Sportit, Qendra e Shërbimeve Arsimore, Drejtoria e Përgjithshme e Arsimit Parauniversitar dhe Institucionet publike të arsimit të lartë.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

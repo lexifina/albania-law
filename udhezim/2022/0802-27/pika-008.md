@@ -1,0 +1,1 @@
+8. MAS-i, pas marrjes së konfirmimeve përkatëse, harton listën përfundimtare, me të gjithë studentët përfitues të cilët përfitojnë, sipas pikës 10, të vendimit nr. 386, datë 1.6.2022 të Këshillit të Ministrave.

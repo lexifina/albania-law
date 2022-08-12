@@ -1,0 +1,1 @@
+12. Studentët të cilët mund të kenë kryer pagesën e tarifës së shkollimit pranë IAL-së përkatëse, menjëherë, pas nënshkrimit të marrëveshjes trepalëshe, IAL-ja duhet të bëjë rimbursimin e tarifës së paguar nga këta studentë.

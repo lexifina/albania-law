@@ -1,0 +1,1 @@
+5. Ministria përgjegjëse për arsimin merr informacion zyrtar nga Qendra e Shërbimeve Arsimore (QSHA) dhe/ose Drejtoria e Përgjithshme e Arsimit Parauniversitar (DPAP) dhe institucionet publike të arsimit të lartë për vërtetimin e kritereve të sipërpërmendura.

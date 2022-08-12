@@ -1,0 +1,1 @@
+9. Lista përfundimtare me të gjithë përfituesit i përcillet Ministrisë së Arsimit dhe Sportit dhe IAL-ve publike, për nënshkrimin e marrëveshjes me studentët përfitues, brenda datës 30 nëntor, pasi të jenë njoftuar edhe studentët përfitues.
