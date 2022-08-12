@@ -12,6 +12,7 @@ b) Dy klasa, kur numri i nxënësve është 11-25.
 c) Tri klasa, kur numri i nxënësve është 26-40.
 d) Klasa të veçanta, kur numri i nxënësve i të gjitha klasave VI-IX është mbi 40, pavarësisht nga numri i nxënësve për klasë.
 e) në klasat kolektive, kur ka më shumë se 10 nxënës, mësimi zhvillohet i ndarë vetëm për lëndët Gjuhë shqipe, Gjuhë e huaj dhe Matematikë.
+Në klasat 1-9 të pakicave kombëtare mësimi zhvillohet në klasa të veçanta, pavarësisht numrit të nxënësve për klasë.
 C. Numri i drejtuesve
 1. Kur numri i nxënësve është më shumë se 80, emërohet një drejtor shkolle.
 2. Kur numri i nxënësve është 200-480, emërohet një nëndrejtor shkolle.

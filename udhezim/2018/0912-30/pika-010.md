@@ -1,7 +1,7 @@
 10. Nëndrejtori i shkollës:
 6 orë në javë
 Drejtori dhe nëndrejtorët e shkollës e plotësojnë normën mësimore javore vetëm me orë të profilit të diplomës që zotërojnë.
-Nëndrejtori/nëndrejtorët ngarkohen për amzën dhe inventarin e shkollës.
+Nëndrejtori/nëndrejtorët ngarkohen për amzën, inventarin e shkollës dhe Sistemin e Menaxhimit të Informacionit Parauniversitar në shkollë.
 E. Norma e vlerësimit të arritjeve
 1. Drejtori i shkollës me 81-900 nxënës: 4 orë në javë (3 orë për vlerësim të cilësisë së procesit mësimor dhe 1 orë për dokumentacionin shkollor).
 2. Drejtori i shkollës me mbi 900 nxënës: 3 orë në javë (2 orë për vlerësim të cilësisë së procesit mësimor dhe 1 orë për dokumentacionin shkollor).
@@ -37,7 +37,7 @@ i historisë, i gjeografisë, i teknologjisë, i shkencave shoqërore
 8. Nëndrejtori i shkollës:
 6 orë në javë”.
 Drejtori dhe nëndrejtorët e shkollës e plotësojnë normën e tyre mësimore javore vetëm me orë të profilit të diplomës që zotërojnë.
-Nëndrejtori/nëndrejtorët e shkollës ngarko-hen për amzën dhe inventarin e shkollës kur shkolla nuk ka sekretar.
+Nëndrejtori/nëndrejtorët ngarkohen për amzën, inventarin e shkollës dhe Sistemin e Menaxhimit të Informacionit Parauniversitar në shkollë, kur shkolla nuk ka sekretar.
 D. Norma e vlerësimit të arritjeve
 1. Drejtori i shkollës me 81-900 nxënës: 4 orë në javë (3 orë për vlerësim të cilësisë së procesit mësimor dhe 1 orë për dokumentacionin shkollor).
 2. Drejtori i shkollës me mbi 900 nxënës: 3 orë në javë (2 orë për vlerësim të cilësisë së procesit mësimor dhe 1 orë për dokumentacionin shkollor).
@@ -54,21 +54,33 @@ d) Pesë klasa paralele, kur numri i nxënësve është 141-175 nxënës.
 e) Ndarja e nxënësve në më shumë se pesë klasa paralele vazhdon sipas rregullit të përcaktuar në pikën 2.
 B. Numri i drejtuesve
 1. Kur numri i nxënësve është 201-400, emërohet një nëndrejtor shkolle.
-2. Kur numri i nxënësve është 401-600, emërohen dy nëndrejtorë shkolle.
-3. Kur numri i nxënësve mbi 600, emërohen tre nëndrejtorë shkolle.
+2. Kur numri i nxënësve është mbi 400, emërohen tre nëndrejtorë.
+3. Kur numri i nxënësve është nën 400, në shkollat e baletit emërohet një nëndrejtor.
 C. Norma mësimore javore e mësuesve dhe e drejtuesve
 1. Mësuesi i gjuhës shqipe dhe i letërsisë: 18 orë në javë.
 2. Mësuesi i gjuhës së huaj, i matematikës, i fizikës, i biologjisë, i kimisë, i informatikës, i historisë, i gjeografisë, i teknologjisë, i shkencave shoqërore (filozofi, psikologji, qytetari, sociologji), i ekonomisë: 20 orë në javë.
 2/1 Mësuesi i specialitetit: 22 orë në javë.
-3. Mësues i lëndëve të tjera: 22 orë në javë
-4. Ngarkesa mësimore e mësuesit shoqërues në piano: 30 orë në javë.
+3. Dega “Muzikë”:
+i. Mësuesit e specialiteteve muzikore: 18 orë në javë;
+ii. Mësuesit e specialitetit pianist shoqërues: 24-26 orë në javë;
+iii. Mësuesit e lëndëve teorike muzikore: 18-20 orë në javë;
+iv. Grupet e lëndëve teoriko-praktike formohen me 6 nxënës.
+Dega “Arte figurative”:
+i. Mësuesit e specialiteteve: 16-18 orë në javë (8+8)/(9 + 9);
+ii. Mësuesit e lëndëve teorike artistike: 16-18 orë në javë;
+iii. Grupet për lëndët pikturë/vizatim: 4-6 nxënës për grup;
+iv. Grupet për lëndët skulpturë dhe specialitetet: 3-4 nxënës për grup.
+Dega “Balet”:
+i. Mësuesit e specialiteteve të baletit: 20 orë në javë.
+ii. Mësuesit e lëndëve pianist shoqërues dhe piano sekondare: 20 orë në javë.
+iii. Lënda e baletit klasik zhvillohet e ndarë vajza/djem, pavarësisht numrit.
 5. Drejtori i shkollës me 81-200 nxënës: 8 orë në javë.
 6. Drejtori i shkollës me 201-600 nxënës: 6 orë në javë.
 7. Drejtori i shkollës me mbi 600 nxënës: nuk jep mësim.
 8. Nëndrejtori i shkollës me 201-400 nxënës: 8 orë në javë.
 9. Nëndrejtori i shkollës me mbi 400 nxënës: 6 orë në javë.
 Drejtori dhe nëndrejtorët e shkollës e plotësojnë normën e tyre mësimore javore vetëm me orë të profilit të diplomës që zotërojnë.
-Nëndrejtori/nëndrejtorët e shkollës ngarko-hen për amzën dhe inventarin e shkollës kur shkolla nuk ka sekretar.
+Nëndrejtori/nëndrejtorët ngarkohen për amzën, inventarin e shkollës dhe Sistemin e Menaxhimit të Informacionit Parauniversitar në shkollë, kur shkolla nuk ka sekretar.
 D. Norma e vlerësimit të arritjeve
 1. Drejtori i shkollës me 81-600 nxënës: 4 orë në javë (3 orë për vlerësim të cilësisë së procesit mësimor dhe 1 orë për dokumentacionin shkollor).
 2. Drejtori i shkollës me mbi 600 nxënës: 3 orë në javë (2 orë për vlerësim të cilësisë së procesit mësimor dhe 1 orë për dokumentacionin shkollor).
