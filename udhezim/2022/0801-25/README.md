@@ -1,0 +1,9 @@
+# Për disa ndryshime në udhëzimin nr. 30, datë 12.9.2018, "Për numrin e nxënësve për klasë dhe normat e punës mësimore në institucionet e arsimit parauniversitar", i ndryshuar
+
+Official source: [Udhëzimi nr. 25, datë 1.8.2022 (Ministria e Arsimit, Sportit dhe Rinisë)](https://qbz.gov.al/api/v1/acts/24837).
+
+Status of this text: `as-enacted`. Adopted 2022-08-01; published 2022-08-12; in force 2022-08-12.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
