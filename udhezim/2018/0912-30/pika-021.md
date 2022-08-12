@@ -1,1 +1,1 @@
-21. Në shkollat që nuk kanë as nëndrejtor, as sekretar ngarkohet një mësues për plotësimin e amzës së shkollës, të cilit i ulet norma 2 orë në javë.
+21. Mësuesit që jep lëndën e TIK/informatikës apo nëndrejtorit të shkollës, të ngarkuar si administratorë të shkollës për SMIP, u ulet norma me 2 orë mësimore në javë.
