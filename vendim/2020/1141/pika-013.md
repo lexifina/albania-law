@@ -1,1 +1,0 @@
-13. Aplikimi për mbështetje financiare, dërgimi i projektpropozimit dhe i dokumentacionit shoqërues nga organizatat rinore dhe/ose për të rinjtë, si dhe njësitë e vetëqeverisjes vendore realizohet elektronikisht, përmes portalit përkatës të shërbimeve publike apo në faqen zyrtare të AKR-së.

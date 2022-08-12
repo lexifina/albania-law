@@ -1,1 +1,0 @@
-22. Vlerësimi mbështetet në përputhje me projektpropozimin e paraqitur nga kandidati aplikues në procedurat e konkurrimit për financime me grante me qëllimin e organizatës/aplikantëve dhe programin që zbaton, në kapacitetet e kandidatit/aplikantit, në efektshmërinë e aktiviteteve, në pritshmërinë dhe koston e tyre.

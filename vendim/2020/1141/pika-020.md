@@ -1,1 +1,0 @@
-20. Përzgjedhja e projektpropozimeve, që plotësojnë kriteret dhe janë pjesë e listës sipas shkronjës “c”, të pikës 19, të këtij vendimi, bëhet nga Bordi Përzgjedhës i Projekteve, i cili ka në përbërje 5 (pesë) anëtarë dhe ngrihet me urdhër të ministrit përgjegjës për arsimin.

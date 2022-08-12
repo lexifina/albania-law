@@ -1,1 +1,0 @@
-9. AKR-ja konsulton me Këshillin Kombëtar të Rinisë dhe grupet e interesit programin vjetor të financimit të projekteve rinore, si dhe skemën e shpërndarjes së pjesës së fondit grant, që do të përdoret për financimin e projekteve rinore.

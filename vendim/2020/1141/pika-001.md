@@ -1,1 +1,0 @@
-1. Agjencia Kombëtare e Rinisë (në vijim AKR-ja), nëpërmjet fondit grant të dedikuar për rininë, të miratuar në ligjin vjetor të buxhetit, financon projektet e propozuara nga organizatat rinore dhe/ose për të rinjtë apo njësitë e vetëqeverisjes vendore.
