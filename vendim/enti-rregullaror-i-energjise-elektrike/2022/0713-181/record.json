@@ -1,0 +1,28 @@
+{
+  "qbz_id": 24847,
+  "title": "Mbi licencimin e shoqërisë “NRG POWER” sh.p.k., në veprimtarinë e tregtimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "181",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2022-07-13",
+  "published": "2022-08-12",
+  "in_force": "2022-08-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/80c0af1bb72e1a46fe66cdda404d1eaf09fd34bc9ba5ff0942fe1eabd2b23301.docx",
+  "source_sha256": "80c0af1bb72e1a46fe66cdda404d1eaf09fd34bc9ba5ff0942fe1eabd2b23301",
+  "official_record": "https://qbz.gov.al/api/v1/acts/24847",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/07/13/181",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    24875
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
