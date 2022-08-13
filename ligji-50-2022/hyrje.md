@@ -1,0 +1,10 @@
+LIGJ
+Nr. 50/2022
+PËR MIRATIMIN E MARRËVESHJES PËR ADMINISTRIMIN E NËNZONAVE
+TË TRASHËGIMISË KULTURORE DHE PEIZAZHIT KULTUROR, PJESË
+E PARKUT KOMBËTAR TË BUTRINTIT, NDËRMJET MINISTRISË
+SË KULTURËS DHE FONDACIONIT PËR MENAXHIMIN E BUTRINTIT
+Në mbështetje të neneve 78 e 83, pika 1, të Kushtetutës, dhe nenit 172, pika 5, të ligjit nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë”, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
