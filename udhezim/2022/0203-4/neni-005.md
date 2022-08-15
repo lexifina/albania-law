@@ -1,0 +1,4 @@
+# Neni 5
+Objektivat e kursit
+1. Trajnimi, që do të jepet në kurset përkatëse, do të ketë si objektiva kryesorë sensibilizimin e drejtuesit të mjeteve, në lidhje me rreziqet që vijnë nga transporti i materialeve të rrezikshme dhe t’u sigurojë atyre trajnimin thelbësor dhe informacionin bazë, në mënyrë që të minimizohet probabiliteti i një aksidenti ose incidenti, që mund të ndodhë dhe, nëse do të ndodhë, për t’i trajnuar këta drejtues mjetesh, në mënyrë që të mund të marrin masat e nevojshme për të garantuar sigurinë e tyre, të palëve të treta dhe të mjedisit, si dhe për të kufizuar efektet e aksidentit ose të incidentit.
+2. Rifreskimi i njohurive dhe i informacionit do të kenë, gjithashtu, objektivin e përditësimit dhe të përsosjes së njohurive të drejtuesve, veçanërisht në lidhje me inovacionet e prodhuara në çështjet e teknologjisë, rregulloreve dhe materialeve të rrezikshme, që i përkasin transportit.
