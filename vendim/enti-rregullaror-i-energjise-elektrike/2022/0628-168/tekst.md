@@ -4,6 +4,10 @@ Nr. 168, datë 28.6.2022
 
 MBI LICENCIMIN E SHOQËRISË “SALILLARI ENERGY TRADE” SHPK NË VEPRIMTARINË E TREGTIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr. 210, datë 17.8.2022)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16 dhe 37, pika 2, germa “d”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; nenit 4, pika 1, germa “e”, nenit 5, pika 1, germa “e”, nenit 13 dhe nenit 14, pika 2, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e energjisë elektrike”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 28.6.2022, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes me nr. 935/4 prot., datë 23.6.2022, “Mbi licencimin e shoqërisë “Salillari Energy Trade” sh.p.k., në veprimtarinë e tregtimit të energjisë elektrike”,
 
  konstatoi se: 
@@ -40,9 +44,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Salillari Energy Trade” sh.p.k. në veprimtarinë e tregtimit të energjisë elektrike, për një afat 5-vjeçar.
 
-2. Shoqëria “Salillari Energy Trade” sh.p.k. të informojë ERE-n, çdo tre muaj, në lidhje me ecurinë e procesit gjyqësor, deri në përfundim të këtij procesi.
+2. Shfuqizuar. 
 
-3. Ky vendim është objekt rishikimi nga ERE.
+3. Shfuqizuar.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e bordit të ERE-s.
 
