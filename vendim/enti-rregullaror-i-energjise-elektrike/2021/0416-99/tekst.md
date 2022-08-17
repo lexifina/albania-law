@@ -6,6 +6,10 @@ MBI LICENCIMIN E SHOQËRISË “GERTI” SHPK, NË VEPRIMTARINË E PRODHIMIT TË
 
 ME KAPACITET TË INSTALUAR 1972 kw
 
+(ndryshuar me vendimin nr. 208, datë 17.8.2022)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, të nenit 4, pika 1, germa “a”, të nenit 5, pika 1, germa “a” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar, si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, të miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 16.4.2021, mbasi shqyrtoi relacionin nr. 30/3 prot., datë 16.2.2021 dhe relacionin nr. 46/7 prot., datë 13.4.2021, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi licencimin e shoqërisë ‘Gerti’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC ‘Vardari’, me kapacitet të instaluar 1972 kw”,
 
  konstatoi se: 
@@ -58,17 +62,19 @@ Për gjithë sa më sipër, Bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “Gerti” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Vardari”, me kapacitet të instaluar 1972 kw, për një afat 30-vjeçar, me kushtin që brenda 3 muajve nga marrja dijeni e këtij vendimi të depozitojë në ERE kontratën e qirasë, të lidhur midis shoqërisë “Drini Bulqizë” sh.p.k. dhe Bashkisë Librazhd, “Për dhënien në përdorim të fondit pyjor dhe kullosor publik, ndërtimin dhe shfrytëzimin e HEC ‘Vardari’”, me palën qiramarrëse të zëvendësuar.
+1. Të licencojë shoqërinë “Gerti” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Vardari”, me kapacitet të instaluar 1972 kw, për një afat 30-vjeçar.
 
-2. Shoqëria të depozitojë në ERE pasqyrat financiare të vitit 2020, ku pasqyrohen asetet fikse të transferuara nga shoqëria “Drini Bulqizë” sh.p.k. te shoqëria “Gerti” sh.p.k., brenda datës 30.6.2021.
+2. Brenda 6 (gjashtë) muajve nga marrja dijeni e këtij vendimi, shoqëria “Gerti” sh.p.k. duhet të depozitojë në ERE çdo dokument që vërteton kalimin e pronësisë apo dhënien në përdorim të aseteve nga shoqëria “Drini Bulqizë” sh.p.k. tek shoqëria “GERTI” sh.p.k.
 
-3. Shoqëria duhet të përcjellë në ERE finalizimin e heqjes nga fondi pyjor, kullosor të sipërfaqes së përcaktuar për zhvillimin e projektit, jo më vonë se një muaj nga disponimi i tij.
+3. Shfuqizuar.
 
 4. Në përfundim të afatit të lejes së përdorimit të burimit ujor (data e përfundimit 16.10.2022), shoqëria “Gerti” sh.p.k. ta depozitoje atë me afate të rinovuara, jo më vonë se një muaj pas nënshkrimit të rinovimit të saj.
 
-5. Ky vendim është objekt rishikimi nga ERE.
+5. Brenda 6 (gjashtë) muajve nga marrja dijeni e këtij vendimi, shoqëria “Gerti” sh.p.k. duhet të dokumentojë në ERE transferimin e kontratës së qirasë “Për dhënien në përdorim të fondit pyjor dhe kullosor publik, ndërtim dhe shfrytëzim HEC-i Vardari”, të lidhur me Bashkinë Librazhd nga “Drini Bulqizë” sh.p.k. tek shoqëria “GERTI” sh.p.k.
 
-6. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
+6. Ky vendim është objekt rishikimi nga ERE.
+
+7. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
 Ky vendim hyn në fuqi menjëherë.
 

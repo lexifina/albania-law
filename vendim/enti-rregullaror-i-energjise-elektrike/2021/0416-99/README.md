@@ -1,9 +1,9 @@
 # Mbi licencimin e shoqërisë “Gerti” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Vardari” me kapacitet të instaluar 1972 kw
 
-Official source: [Vendim nr. 99, datë 16.4.2021 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/23022).
+Official source: [Vendim nr. 99, datë 16.4.2021 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/23022); [QBZ versions](https://qbz.gov.al/api/v1/acts/23022/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2021-04-16; published 2021-05-07; in force 2021-05-07.
+Status of this text: `official consolidated version 1`, applying from 2022-08-17; after QBZ act 24888 (nr. 208).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
