@@ -1,0 +1,28 @@
+{
+  "qbz_id": 24857,
+  "title": "Mbi licencimin e shoqërisë “Sun Beat System” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet të instaluar 2 MW",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "193",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2022-07-21",
+  "published": "2022-08-22",
+  "in_force": "2022-08-22",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a2cf81049e2f2fa9fc6cee59f646545740644b0129bbc0dbb7167c2294824694.docx",
+  "source_sha256": "a2cf81049e2f2fa9fc6cee59f646545740644b0129bbc0dbb7167c2294824694",
+  "official_record": "https://qbz.gov.al/api/v1/acts/24857",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/07/21/193",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31600
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
