@@ -1,0 +1,28 @@
+{
+  "qbz_id": 24855,
+  "title": "Mbi licencimin e shoqërisë “Korça Photovoltaic Park” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me vendndodhje në zonën Bitinckë, Bilisht, qarku Korçë, me kapacitet të instaluar 2 MW",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "191",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2022-07-21",
+  "published": "2022-08-22",
+  "in_force": "2022-08-22",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/9ec22bafb8e698b6236fc5680b7dd04beaade88007c484cfe88d56c3a99f516e.docx",
+  "source_sha256": "9ec22bafb8e698b6236fc5680b7dd04beaade88007c484cfe88d56c3a99f516e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/24855",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/07/21/191",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31598
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
