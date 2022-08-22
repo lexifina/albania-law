@@ -1,0 +1,1 @@
+14. Në çdo rast, kur agjenti verifikues merr masë administrative plotësuese, për mjetin apo dokumentet e drejtuesit të mjetit, plotësohet raporti i shërbimit sipas modelit lidhja nr. 7 bashkëlidhur dhe pjesë përbërëse e këtij udhëzimi. Ky raport administrohet si pjesë e procesverbalit të konstatimit shkeljes.

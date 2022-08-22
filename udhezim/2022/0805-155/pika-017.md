@@ -1,0 +1,3 @@
+17. Heqja e masës administrative plotësuese në lidhje me automjetin (sekuestrimi, ndalimi administrativ, heqja dhe bllokimi) bëhet nga organi që e ka vendosur;
+a) Nga agjenti verifikues, në rastet e nenit 203 të Kodit Rrugor, kur paraqiten faturat e kryerjes së të gjitha pagesave, duke plotësuar formularin sipas modelit nr. 10.
+OASH-ja, pas shqyrtimit të ankimit të kundërvajtësit, kur rezulton se veprimi i agjentit verifikues është i pabazuar, në vendimin e saj përcakton detyrimet ndaj mjetit dhe bën kthimin e tij. Për heqjen e masës administrative plotësuese merret konfirmimi nga shefi i KRPRR-së Tiranë/shefi i Sektorit të Policisë Rrugore në vende.

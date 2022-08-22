@@ -1,0 +1,1 @@
+6. Punonjësi i policisë, në përfundim të shërbimit i raporton dhe i dorëzon eprorit të drejtpërdrejtë, ose atij të caktuar në këtë detyrë, origjinalin dhe kopjen e tretë të procesverbalit të konstatimit të shkeljes, për verifikim dhe evidentim të mëtejshëm në regjistrat dhe sistemet e policisë.

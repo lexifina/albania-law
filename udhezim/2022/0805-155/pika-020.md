@@ -1,0 +1,1 @@
+20. Regjistrat plotësohen në mënyrë kronologjike dhe kanë afat ruajtjeje 10 (dhjetë) vjet pas mbylljes. Dokumentet e përpiluara për bllokimin e mjeteve, ruhen sipas kërkesave ligjore të administrimit të dokumentacionit në sistemin e Policisë së Shtetit, por jo për më pak se 5 (pesë) vjet pas përfundimit të ekzekutimit të vendimit.

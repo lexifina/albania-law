@@ -1,0 +1,1 @@
+11. Procesverbali i konstatimit të shkeljes i plotësuar gabim dhe procesverbali i rregullimit të tij, dorëzohen brenda 16 orësh pranë SAD/AIS, SVSHA&A në KRPRRT, të cilat e dërgojnë në sektorin e financës, për ta hedhur në sistemin e-gjoba, sipas dispozitave të Kodit Rrugor.

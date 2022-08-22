@@ -1,0 +1,1 @@
+3. Për evidentimin e shkeljes së kryer, mbahet procesverbali i konstatimit të shkeljes, sipas modelit të përcaktuar në vendimin e Këshillit të Ministrave nr. 153, datë 7.4.2000 “Rregullore për zbatimin e Kodit Rrugor” (i ndryshuar) (lidhja nr. 1) dhe sipas formatit elektronik për gjobën elektronike (lidhja nr. 2 bashkëlidhur).

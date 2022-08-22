@@ -1,0 +1,1 @@
+1. Kanë atributet e agjentit verifikues për konstatimin dhe evidentimin e shkeljeve në fushën e qarkullimit rrugor, punonjësit e policisë të shërbimit të Policisë Rrugore, si dhe të Patrullës së Përgjithshme të Policisë e SPZ-të, për sektorin e shërbimit/zonës policore që ata mbulojnë, në rastet e konstatimit të shkeljeve të parashikuara në nenet 155 dhe 156, të Kodit Rrugor.
