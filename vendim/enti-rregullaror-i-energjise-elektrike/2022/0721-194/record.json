@@ -1,0 +1,29 @@
+{
+  "qbz_id": 24858,
+  "title": "Mbi licencimin e shoqërisë “Green Energy Bilisht” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet të instaluar 2 MW",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "194",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2022-07-21",
+  "published": "2022-08-22",
+  "in_force": "2022-08-22",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/7487621750749a6858f6818165219e10d97d6d79b0b35fbce7453a9a02bd4cc7.docx",
+  "source_sha256": "7487621750749a6858f6818165219e10d97d6d79b0b35fbce7453a9a02bd4cc7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/24858",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/07/21/194",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31601,
+    24970
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
