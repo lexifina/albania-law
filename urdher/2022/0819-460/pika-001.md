@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të drejtorit të përgjithshëm të Arkivave, z. Armando Boçe, drejtor i Arkivit Qendror Shtetëror, për shkak të mungesës me arsye të titullarit të këtij institucioni.
