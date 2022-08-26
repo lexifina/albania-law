@@ -1,0 +1,1 @@
+5. Për veprimet e kryera në zbatim të këtij urdhri, drejtori i Financës dhe Shërbimeve Mbështetëse, do të ruajë kopje të kartelave shoqëruese të praktikave shkresore, të iniciuara apo të përfunduara prej tij, së bashku me afatet e përcaktuara dhe ecurinë e mbarëvajtjen e çështjeve, dhe do t’ia bëjë të ditura titullarit me rikthimin e tij në detyrë.
