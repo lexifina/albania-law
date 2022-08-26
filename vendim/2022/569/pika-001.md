@@ -1,0 +1,1 @@
+1. Kërkesa për të përfituar kompensimin financiar, të përcaktuar në pikën 1, të kreut I, të këtij vendimi, bëhet nga subjekti çdo muaj pranë administratës tatimore, nën juridiksionin e së cilës është regjistruar, e cila bën verifikimin e dokumentacionit të paraqitur.
