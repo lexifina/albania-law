@@ -2481,3 +2481,50 @@ TOTALI
 1350
 884232
 15662447
+LISTA EMËRORE E PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE QË PREKEN NGA DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR. 657, DATË 8.10.2014, TË KËSHILLIT TË MINISTRAVE, “PËR SHPRONËSIM, PËR INTERES PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR “QUKËS - POGRADEC - QAFË-PLLOÇË”
+Nr.
+Pronari
+ZK
+Nr. i pasurisë
+Sipërfaqe totale e pronës. m2
+Lloji i pasurisë
+VLERA TOTALE (Lek)
+Adresa e pronarit
+Shënime
+Emri
+Atësia
+Mbiemri
+ARË
+Sip. m2
+Çmimi m2
+Vlera në lek
+1
+Vasil
+Kristaq
+Shkira
+3627
+244/1
+4550
+2112
+192
+405,504
+405,504
+Bashkia Pogradec
+Konfirmuar nga ASHK-ja
+2
+Vasil
+Kristaq
+Shkira
+3627
+251/1
+1300
+147
+192
+28,224
+28,224
+Bashkia Pogradec
+Konfirmuar nga ASHK-ja
+TOTALI
+2259.0
+433,728
+433,728
