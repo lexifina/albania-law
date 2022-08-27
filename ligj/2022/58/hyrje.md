@@ -1,0 +1,7 @@
+LIGJ
+Nr. 58/2022
+PËR KRIJIMIN, ORGANIZIMIN DHE FUNKSIONIMIN E PARQEVE TEKNOLOGJIKE DHE SHKENCORE
+Në mbështetje të neneve 78, 81, 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
