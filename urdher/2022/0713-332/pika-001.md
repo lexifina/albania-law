@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Bujqësisë dhe Zhvillimit Rural për nënshkrimin e urdhrit “Për miratimin dhe transferimin e menaxhimit të tregut të shitjes me shumicë të produkteve të peshkimit, në Portin e Peshkimit Shëngjin, Lezhë”, zëvendësministrit Roland Kristo.
