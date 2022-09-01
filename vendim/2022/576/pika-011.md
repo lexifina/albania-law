@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Elbasan, pezullon të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale të regjistrimit dhe regjistrimi i aktit të kalimit të pronësisë në favor të Bashkisë Elbasan për pasuritë e shpronësuara.
