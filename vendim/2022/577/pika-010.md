@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Pogradec, pezullon të gjitha transaksionet me pasuritë e shpronësuara, deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale dhe regjistrimi i kalimit të pronësisë në favor të Bashkisë Pogradec për pasuritë e shpronësuara.
