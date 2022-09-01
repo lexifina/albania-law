@@ -4,6 +4,10 @@ Nr. 240, datë 21.12.2020
 
 MBI LICENCIMIN E SHOQËRISË “ERDY ENERGY” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE, NGA HEC “KALIS” ME KAPACITET TË INSTALUAR 2138 kw
 
+(ndryshuar me vendimin nr. 219, datë 1.9.2022)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe të nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të nenit 4, pika 1, germa “a”, të nenit 5, pika 1, germa “a”, nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s, nr. 109, datë 29.6.2016, të ndryshuar, si dhe të nenit 15, të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, të miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 21.12.2020, mbasi shqyrtoi relacionin nr. 135/10 prot., datë 16.12.2020, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes mbi aplikimin e shoqërisë “Erdy Energy” sh.p.k., për licencim në veprimtarinë e prodhimit të energjisë elektrike,
 
  konstatoi se: 
@@ -34,11 +38,11 @@ Vendosi:
 
 1. Të licencojë shoqërinë “Erdy Energy” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Kalis”, me kapacitet të instaluar 2138 kw, për një afat 30-vjeçar.
 
-2. Pas përfundimit të afatit të kontratës së qirasë me Bashkinë Librazhd (datë 21.9.2025), shoqëria duhet të depozitojë kontratën me afate të rinovuara, jo më vonë se një muaj pas nënshkrimit të rinovimit të saj.
+2. Shoqëria “Erdy Energy” sh.p.k. të depozitojë në ERE kontratën e rinovuar të qirasë me Bashkinë Librazhd, jo më vonë se data 21.10.2025.
 
-3. Shoqëria, pasi të pajiset me miratimin final për heqjen nga fondi pyjor kullosor publik të sipërfaqes së përcaktuar me sipër, ta depozitojë atë në ERE.
+3. Shoqëria “Erdy Energy” sh.p.k. të depozitojë në ERE informacion/dokumentacion mbi statusin e aplikimit për heqjen nga fondi pyjor bazuar në komunikimet shkresore me autoritetet përgjegjëse, brenda 3 muajve nga marrja dijeni e këtij vendimi.
 
-4. Pas përfundimit të afatit të lejes së përdorimit të burimit ujor (datë 25.4.2022), shoqëria të depozitojë lejen me afate të rifreskuara, jo më vonë se një muaj pas nënshkrimit të rinovimit të saj.
+4. Shoqëria “Erdy Energy” sh.p.k. të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor, jo më vonë se data 4.7.2027.
 
 5. Mos plotësimi i kushteve të këtij vendimi përbën shkak për rishikimin e tij.
 
