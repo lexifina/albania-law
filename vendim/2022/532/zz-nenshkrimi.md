@@ -1,0 +1,3 @@
+# Nënshkrimi
+kryeministËr
+Edi Rama
