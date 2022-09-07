@@ -1,0 +1,1 @@
+5. Për të vlerësuar realizimin/përfundimin e rehabilitimit mjedisor, sipas planit të rehabilitimit nga zotëruesi i lejes minerare, kryhet verifikimi dhe kontrolli në terren i zbatimit të planit të rehabilitimit.

@@ -1,0 +1,1 @@
+4. Vlera e garancisë financiare i kthehet zotëruesit të saj pas përfundimit të procesit të rehabilitimit të mjedisit për lejet e kërkim-zbulimit dhe miratimit të raportit përkatës mbi realizimin e planit.

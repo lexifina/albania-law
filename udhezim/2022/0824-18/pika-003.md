@@ -1,0 +1,1 @@
+3. SHGJSH-ja, pas rivlerësimit të vlerës së garancisë për realizimin e planit të rehabilitimit progresiv dhe përfundimtar të mjedisit të lejeve minerare, për lejet e kërkim-zbulimit, për vitin e dytë e në vazhdim, i përcjellë Agjencisë Kombëtare të Mjedisit (AKM) një kopje të dokumentit të garancisë financiare vjetore të përllogaritur.

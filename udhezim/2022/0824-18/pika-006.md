@@ -1,0 +1,1 @@
+6. Verifikimi dhe kontrolli kryhet nga një grup pune i përbashkët, i ngritur me urdhër të përbashkët të ministrit përgjegjës për mjedisin dhe ministrit përgjegjës për veprimtaritë minerare. Grupi i punës ka në përbërje 3(tre) anëtarë nga SHGJSH-ja dhe 2 (dy) anëtarë nga AKM-ja.

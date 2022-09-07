@@ -1,0 +1,1 @@
+8. Këshilli Teknik i SHGJSH-së vlerëson raportin e grupit të punës dhe, së bashku me vendimin e tij, ia përcjell për miratim ministrit përgjegjës për veprimtaritë minerare dhe ministrit përgjegjës për mjedisin, të cilët e miratojnë ose jo brenda 15 ditëve.
