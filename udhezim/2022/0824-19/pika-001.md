@@ -1,0 +1,1 @@
+1. Subjektet që kërkojnë të pajisen me leje për zhvillimin e veprimtarisë minerare apo që zhvillojnë veprimtari minerare, hartojnë planin e rehabilitimit, sipas formatit standard të përcaktuar në aneksin 1 (një) bashkëlidhur që është pjesë përbërëse e këtij udhëzimi.

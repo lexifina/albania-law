@@ -1,0 +1,2 @@
+5. Subjektet minerare kanë detyrimin të raportojnë çdo gjashtë muaj në SHGJSH/AKBN (sipas llojit të lejes minerare) dhe në AKM, mbi ecurinë e rehabilitimit mjedisor progresiv dhe të menaxhimit të mbetjeve të dala nga veprimtaritë minerare, në zbatim të kërkesave të ligjit nr. 10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”, të ndryshuar.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
