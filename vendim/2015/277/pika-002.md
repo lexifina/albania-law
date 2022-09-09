@@ -1,1 +1,0 @@
-2. Ministrisë së Bujqësisë dhe Zhvillimit Rural i ndalohet të ndryshojë destinacionin e objekteve dhe të sipërfaqes së truallit funksional, të pronës me numër rendor 90, me emërtim “Reparti ushtarak nr. 4400 (ish-Shtabi i KML-së)”, me vend-ndodhje në Brar, Tiranë, të përcaktuar në pikën 1, të këtij vendimi, ta tjetërsojë ose t’ua japë në përdorim të tretëve.
