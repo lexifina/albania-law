@@ -1,1 +1,1 @@
-1. Përcaktimin e zëvendëskryeministrit, z. Arben Ahmetaj, kryetar të këshillit drejtues të Fondit Shqiptar të Zhvillimit.
+1. Përcaktimin e zëvendëskryeministrit, znj. Belinda Balluku, kryetar të këshillit drejtues të Fondit Shqiptar të Zhvillimit.
