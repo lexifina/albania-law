@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Sistemimi i hapësirave publike dhe parkim, lagjja e re, blloku pas ish-Bashkisë Patos”.
