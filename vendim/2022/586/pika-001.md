@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 14.6.2022, për çështjen “Balkasi dhe të tjerë kundër Shqipërisë”, kërkesa nr. 14800/18, përfundimtar në datën 14.6.2022, në shumën totale 13 500 (trembëdhjetë mijë e pesëqind) euro, në lidhje me dëmin jopasuror, plus çdo taksë që mund të jetë e aplikueshme.
