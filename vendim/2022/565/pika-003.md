@@ -1,0 +1,1 @@
+3. Ministrisë së Infrastrukturës dhe Energjisë dhe Ministrisë së Bujqësisë dhe Zhvillimit Rural u ndalohet të ndryshojnë destinacionin e përdorimit të pronës, të përcaktuar në pikat 1 dhe 2, të këtij vendimi, ta tjetërsojnë ose t’ua japin atë në përdorim të tretëve.

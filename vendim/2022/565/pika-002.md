@@ -1,0 +1,1 @@
+2. Dhënien në përdorim të përkohshëm, për një periudhë 25-vjeçare, nga Ministria e Mbrojtjes te Ministria e Bujqësisë dhe Zhvillimit Rural, të një sipërfaqeje të përgjithshme 611 (gjashtëqind e njëmbëdhjetë) m2, sipas planimetrisë, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse të tij, për ta përdorur për ambiente zyrash për institucionet e varësisë.
