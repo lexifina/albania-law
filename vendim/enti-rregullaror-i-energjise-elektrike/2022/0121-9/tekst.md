@@ -4,6 +4,10 @@ Nr. 9, datë 21.1.2022
 
 	MBI LICENCIMIN E SHOQËRISË “BREÇANI R.O.S.P.” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE, NGA HEC “DRITA” ME KAPACITET TË INSTALUAR 1980 kw
 
+	(Ndryshuar me vendimin nr.232, datë 12.9.2022)
+
+	(i përditësuar)
+
 	Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, si dhe të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar, dhe nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 21.1.2022, mbasi shqyrtoi relacionet e përgatitura nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes nr. 164/9 prot., datë 11.1.2022 dhe nr. 164/9-1 prot., datë 18.1.2022, “Mbi licencimin e shoqërisë ‘Breçani R.O.S.P.’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC ‘Drita’ me kapacitet të instaluar 1980 kw”,
 
 	 konstatoi se:
@@ -42,7 +46,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Breçani R.O.S.P.” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike, nga HEC “Drita”, me kapacitet të instaluar 1980 kw, për një afat 30-vjeçar.
 
-2. Shoqëria “Breçani R.O.S.P.” sh.p.k. duhet të paraqesë në ERE, çdo vit, kontratën nr. 2693/5 prot., datë 18.7.2018, të rinovuar, brenda datës 18 gusht të çdo viti, deri në përfundim të afatit 10-vjeçar që ajo përcakton.
+2. Shoqëria “Breçani R.O.S.P.” sh.p.k. duhet të paraqesë në ERE kontratën nr. 2693/5 prot., datë 18.7.2018, të rinovuar, apo çdo dokument tjetër që i shërben realizmit të saj brenda 30 ditëve pune nga marrja dijeni.
 
 3. Shoqëria “Breçani R.O.S.P.” sh.p.k., në përfundim të afatit të vlefshmërisë së lejes për përdorimin e burimit ujor (data 10.12.2023), duhet ta depozitojë atë në ERE, jo më vonë se një muaj pas rinovimit.
 
