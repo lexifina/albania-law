@@ -1,0 +1,1 @@
+5. Nga momenti i kryerjes se aktit të konstatimit të paligjshmërisë në ndërtim deri në përfundim të procedurës së konfiskimit, punimet pezullohen me urdhër të drejtorit të Përgjithshëm të Inspektoratit Kombëtar të Mbrojtjes së Territorit, me përjashtim të rasteve të parashikuara në pikën 2, të këtij vendimi.

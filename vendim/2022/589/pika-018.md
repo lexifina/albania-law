@@ -1,0 +1,2 @@
+18. Ngarkohen ministria përgjegjëse për administrimin e pronave shtetërore, autoritetet inspektuese të përcaktuara në ligjin nr.9780, datë 16.7.2007, “Për inspektimin dhe mbrojtjen e territorit nga ndërtimet e kundërligjshme”, të ndryshuar, si dhe autoritetet e zhvillimit të përcaktuara në ligjin nr.107/2014, “Për planifikimin dhe zhvillimin e territorit”, të ndryshuar, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+17. Ministria përgjegjëse për administrimin e pronave shtetërore, brenda 6 (gjashtë) muajve nga hyrja në fuqi e këtij vendimi, krijon dhe administron një regjistër të veçantë për regjistrimin dhe inventarizimin e objekteve të konfiskuara me çdo të dhënë të tyre.

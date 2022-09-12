@@ -1,0 +1,1 @@
+1. Miratimin e rregullave dhe procedurave për konfiskimin për interes publik të objekteve të ndërtuara pa leje me qëllim fitimi në përputhje me parashikimet e ligjit nr.107/2014, “Për planifikimin dhe zhvillimin e territorit”, të ndryshuar.

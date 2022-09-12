@@ -1,0 +1,1 @@
+8. IKMT-ja përcjell dokumentacionin e parashikuar në pikën 6, të këtij vendimi, pranë Agjencisë së Zhvillimit të Territorit, e cila e administron në cilësinë e sekretariatit teknik të Këshillit Kombëtar të Territorit dokumentacionin e sipërcituar dhe kryen përgatitjet për shqyrtimin e propozimit nga ana e KKT-së.

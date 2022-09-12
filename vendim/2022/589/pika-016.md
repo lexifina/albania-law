@@ -1,0 +1,1 @@
+16. Të gjitha të ardhurat e përftuara nga përdorimi i objekteve të konfiskuara, të ndryshme nga ato të parashikuara në pikën 12, të këtij vendimi, kalojnë në buxhetin e shtetit. Shpenzimet për administrimin e objekteve të konfiskuara përballohen nga buxheti i shtetit.

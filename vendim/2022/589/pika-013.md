@@ -1,0 +1,1 @@
+13. Autoriteti përgjegjës për ndjekjen e procedurës së konfiskimit të objektit, sipas përcaktimeve të pikës 11, brenda 7 (shtatë) ditëve nga nxjerrja e urdhrit të ministrit përgjegjës për administrimin e pronave shtetërore, i njofton masën e konfiskimit të objektit personave apo subjekteve që preken nga masa.

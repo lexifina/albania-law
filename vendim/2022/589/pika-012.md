@@ -1,0 +1,1 @@
+12. Nëse subjekti shpreh interesin për të parablerë punimet pa leje, ministri përgjegjës për administrimin e pronave shtetërore kryen procedurën e parablerjes dhe bën derdhjen e fondit përkatës në llogarinë e të ardhurave të thesarit në degë me destinacion llogarinë speciale të shpronësimeve pranë Bankës së Shqipërisë.
