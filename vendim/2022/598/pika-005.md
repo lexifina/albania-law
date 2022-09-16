@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e kompensimit prej 890 820 (tetëqind e nëntëdhjetë mijë e tetëqind e njëzet) lekësh përballohet nga shpenzimet e fondit të rindërtimit dhe i transferohet Bashkisë Vorë, në buxhetin e vitit 2022, në formën e transfertës së pakushtëzuar.
