@@ -1,0 +1,1 @@
+5. Pagesa e komisioneve bankare për të gjitha veprimet bankare për trajtimin dhe mbulimin e shpenzimeve financiare të personelit ushtarak dhe civil që emërohet me detyrë jashtë vendit, të përmendura në këtë vendim, mbulohen nga Ministria e Mbrojtjes.

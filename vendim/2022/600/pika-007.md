@@ -1,0 +1,1 @@
+7. Në rast humbjeje të jetës së personelit ushtarak dhe civil, që emërohet me detyrë jashtë vendit, apo të pjesëtarit të familjes që e shoqëron në detyrë, shpenzimet për transportin e trupit në atdhe, si dhe ato të ceremonisë mortore përballohen nga buxheti i Ministrisë së Mbrojtjes.
