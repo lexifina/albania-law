@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, dhe shkëmbimin e pronës, në funksion të procesit të rindërtimit në zonën e planifikuar për rindërtim, sipas planit të detyruar vendor për zonën e dëmtuar pikësore, për 5 banesa kolektive, në Bashkinë Durrës, sipas tabelës që i bashkëlidhet këtij vendimi.

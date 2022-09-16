@@ -1,0 +1,1 @@
+11. Bashkia Durrës brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të vendimit të Këshillit të Ministrave për shpronësimin, i kërkon Agjencisë Shtetërore të Kadastrës të kryejë regjistrimin e pasurive, pronë private, të shpronësuara, sipas legjislacionit në fuqi dhe referuar aktmarrëveshjes së lidhur.

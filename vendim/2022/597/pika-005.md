@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e kompensimit prej 7 270 855 (shtatë milionë e dyqind e shtatëdhjetë mijë e tetëqind e pesëdhjetë e pesë) lekë përballohet nga shpenzimet e fondit të rindërtimit dhe i transferohet Bashkisë Durrës, në buxhetin e vitit 2022, në formën e transfertës së pakushtëzuar.
