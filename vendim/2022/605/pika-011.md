@@ -1,0 +1,3 @@
+11. Efektet financiare për zbatimin e këtij vendimi përllogariten në shumën 2 060 000 000 (dy miliardë e gjashtëdhjetë milionë) lekë, përballohen nga fondi për politikat e indeksimit të pensioneve, i parashikuar në buxhetin e Institutit të Sigurimeve Shoqërore të vitit 2022, të cilat ndahen:
+a) 2 045 000 000 (dy miliardë e dyzet e pesë milionë) lekë, për mbulimin e pagesave të përfitimeve;
+b) 15 000 000 (pesëmbëdhjetë milionë) lekë, për procedurat teknike të zbatimit të këtij vendimi dhe për pagesën e komisioneve të shërbimit të pagesave të pensioneve nga Posta Shqiptare sh.a., dhe bankat e nivelit të dytë.
