@@ -1,0 +1,1 @@
+11. Dorëzimi i fëmijës tek autoritetet përgjegjëse të vendit të kthimit dokumentohet rregullisht, nëpërmjet procesverbalit të dorëzimit të fëmijës. Procesverbali nënshkruhet në tri kopje nga personat përgjegjës që kanë marrë në dorëzim fëmijën dhe personi përgjegjës për shoqërimin e tij. Një kopje e procesverbalit i dërgohet agjencisë.

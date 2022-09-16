@@ -1,0 +1,1 @@
+1. Autoriteti vendor për kufirin dhe migracionin është autoriteti shtetëror përgjegjës për kryerjen e procedurës së përzgjedhjes së të huajit, i cili nuk plotëson ose nuk plotëson më kushtet për hyrje dhe qëndrim në territorin e Republikës së Shqipërisë.

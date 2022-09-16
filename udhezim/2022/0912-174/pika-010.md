@@ -1,0 +1,1 @@
+10. Fëmija shoqërohet nga kujdestari i tij ligjor gjatë udhëtimit e deri në dorëzimin tek autoritetet përgjegjëse të vendit të kthimit. Nëse rrethanat nuk e mundësojnë shoqërimin nga kujdestari ligjor, fëmija shoqërohet nga një psikolog i mbështetur nga punonjës të policisë kufitare dhe migracionit.
