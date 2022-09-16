@@ -1,1 +1,0 @@
-2. Kur zhvillimet në një ose më shumë vende mund të sjellin ndryshime në kushtet e atyre vendeve, ministri i Punëve të Brendshme, sipas parashikimeve të nenit 10, të ligjit nr. 121/2014, “Për azilin në Republikën e Shqipërisë”, pas marrjes së mendimit zyrtar të Ministrisë së Punëve të Jashtme, propozon ndryshimin e kësaj liste.
