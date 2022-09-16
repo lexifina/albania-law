@@ -1,1 +1,0 @@
-2. Kur ushtaraku dërgohet me shërbim jashtë venddislokimit të komandës ose kur vjen në atdhe, por në shtetin ku kryen detyrën ka lënë bashkëshorten dhe fëmijët, ka të drejtë të marrë 100 për qind të trajtimit financiar, që është për përkujdesje ndaj familjes.

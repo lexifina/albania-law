@@ -1,1 +1,0 @@
-7. Vendimi nr.155, datë 13.3.2003 i Këshillit të Ministrave “Për përballimin e shpenzimeve të atasheve ushtarakë dhe oficerëve të Forcave të Armatosura, që shërbejnë në shtabet e NATO-s”, të ndryshuar, shfuqizohet.
