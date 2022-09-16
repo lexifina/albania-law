@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Ndërtimi i hidrocentralit ’Grabova 2’ mbi pellgun ujëmbledhës të përroit të Grabovës, degë e lumit të Devollit, në qarkun Elbasan”.
