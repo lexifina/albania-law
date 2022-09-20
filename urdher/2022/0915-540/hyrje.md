@@ -1,0 +1,11 @@
+URDHËR
+Nr. 540, datë 15.9.2022
+PëR MBYLLJEN E VEPRIMTARISË SË INSTITUCIONIT ARSIMOR PARAUNIVERSITAR PRIVAT, KOPSHTI “ZUBEYDE HANIM”, TIRANË
+Në mbështetje të nenit 102 të Kushtetutës së Republikës së Shqipërisë dhe pikës 3, të nenit 70, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, të ndryshuar,
+KONSTATOJ:
+Me urdhrin nr. 277, datë 14.9.2022, të Drejtorisë së Përgjithshme të Arsimit Parauniversitar është ngritur grupi i punës, i cili ka kryer verifikimet e nevojshme pranë institucionit arsimor parauniversitar privat, kopshti “Zubeyde Hanim”, Tiranë, dhe në bazë të pikës 3, të nenit 70, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, të ndryshuar, Drejtoria e Përgjithshme të Arsimit Parauniversitar, ka propozuar: “Heqjen e licencës për ushtrimin e veprimtarisë së institucionit arsimor parauniversitar privat, kopshti ’Zubeyde Hanim’”, Tiranë, hapur me urdhrin nr. 67, datë 15.10.1998, të Ministrit të Arsimit dhe Shkencës.
+Heqja e licencës për ushtrimin e veprimtarisë së këtij kopshti bëhet për shkak të konstatimit të shkeljeve të rënda të legjislacionit në fuqi, që përbëjnë mosplotësim të kushteve të licencimit, për institucionin arsimor parauniversitar privat, kopshti “Zubeyde Hanim”, Tiranë, të evidentuar në Raportin e Vlerësimit nr. 1697/7 prot., datë 14.9.2022, të Drejtorisë së Përgjithshme të Arsimit Parauniversitar, si më poshtë:
+- Institucioni arsimor parauniversitar privat, kopshti “Zubeyde Hanim”, Tiranë, ushtron aktivitetin në një godinë, për të cilin nuk është marrë miratimi nga ministri përgjegjës për arsimin dhe institucioni përkatës i licencimit, në kundërshtim me pikën 2, të nenit 43, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, të ndryshuar, si dhe mosplotësimit të rekomandimit të lënë brenda afatit kohor të përcaktuar në raportin e vlerësimit të DPAP-së, me nr. 249/100 prot., datë 12.5.2022.
+PËR KËTO ARSYE,
+Në mbështetje të nenit 102 të Kushtetutës së Republikës së Shqipërisë dhe të pikës 3, të nenit 70, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, të ndryshuar, bazuar në Raportin e Vlerësimit nr. 1697/7 prot., datë 14.9.2022, të Drejtorisë së Përgjithshme të Arsimit Parauniversitar,
+URDHËROJ:

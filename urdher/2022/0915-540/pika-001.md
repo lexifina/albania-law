@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, kopshti “Zubeyde Hanim”, Tiranë, në emër të personit juridik “Turgut Ozal Education” sh.a., i hapur me urdhrin nr. 67, datë 15.10.1998, të Ministrit të Arsimit dhe Shkencës.

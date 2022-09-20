@@ -1,0 +1,1 @@
+5. Në rast moszbatimi të detyrimeve, nga institucioni arsimor parauniversitar privat, kopshti “Zubeyde Hanim”, Tiranë, të përcaktuar në pikën 2 të këtij urdhri, institucioni arsimor vendor, përgjegjës për arsimin parauniversitar, të marrë të gjitha masat, sipas legjislacionit në fuqi.
