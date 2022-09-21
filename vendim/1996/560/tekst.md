@@ -4,7 +4,7 @@ Nr. 560, datë 26.8.1996
 
 PËR DHËNIE LEJE PËR FUNKSIONIMIN E INSTITUCIONEVE ARSIMORE PRIVATE
 
-(Ndryshuar me VKM nr. 750, datë 23.9.2020)
+(Ndryshuar me VKM nr. 750, datë 23.9.2020; nr. 614, datë 22.9.2022)
 
 (i përditësuar)
 
@@ -16,7 +16,7 @@ V E N D O S I:
 
 a) Shkolla “Gjerasim Qiriazi” e nivelit të arsimit 8-vjeçar në qytetin e Tiranës. Ky institucion do të frekuentohet vetëm nga nxënës të huaj.
 
-b) Kolegji turk “Turgut Ozal” i nivelit të arsimit 8-vjeçar dhe kolegji “Mehmet Akif Ersoy” i nivelit të arsimit të mesëm në qytetin e Tiranës.
+b) Kolegji turk “Turgut Ozal” i nivelit të arsimit 8-vjeçar.
 
 c) Kolegji “Preka” i nivelit të arsimit të mesëm në qytetin e Korçës.
 
