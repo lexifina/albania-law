@@ -1,0 +1,9 @@
+# Mbi fillimin e procedurës për licencimin e shoqërisë "Erni Solar" sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet të instaluar 2 mw
+
+Official source: [Vendim nr. 227, datë 6.9.2022 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/56528).
+
+Status of this text: `as-enacted`. Adopted 2022-09-06; published 2022-09-23; in force 2022-09-23.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
