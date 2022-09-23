@@ -1,0 +1,1 @@
+1. Miratimin e formatit të dokumentit të identifikimit të detarit “Pasaportë Detari”, për shtetasit e huaj/pa shtetësi, për qëllime peshkimi, në Republikën e Shqipërisë, për shërbimet e ofruara nga Drejtoria e Përgjithshme Detare, sipas lidhjes nr. 1, bashkëlidhur këtij urdhri dhe pjesë përbërëse e tij.
