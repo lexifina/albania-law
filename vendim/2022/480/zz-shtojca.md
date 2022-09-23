@@ -3,11 +3,12 @@ SHTOJCA 1
 FITUESIT STARTUP
 Nr.
 Emri i fituesit
-Individ/Person Fizik/
-person juridik
+Individ/
+person fizik/person puridik
 Numri i identifikimit/NIPT
-Numri i pasaportës start-up
-Vlera e financimit të miratuar (në lek)
+Numri i pasaportës startup
+Vlera e financimit të miratuar
+(në lek)
 1
 MELIHA ZYBERAJ
 Person fizik
@@ -146,15 +147,50 @@ Person juridik
 M12406047F
 L0036 (startup me pasaportë lehtësuesi)
 2,520,000
+24
+e-FRUTZA sh.p.k
+Person juridik
+M21730027E
+S0497
+3’000’000
+25
+OPENPAY sh.p.k
+Person juridik
+M21802045D
+S0657
+2’000’000
+26
+Akademi.al sh.p.k
+Person juridik
+L92116025A
+S0390
+4’996’966
+27
+Dupron sh.p.k
+Person juridik
+M02124006D
+S0340
+4’997’920
+28
+Wolf Technologies sh.p.k
+Person juridik
+M21622007Q
+S0685
+2’966’400
+29
+RPay sh.p.k
+Person juridik
+M11328018F
+S0500
+5’000’000
 FITUESIT LEHTËSUES TË STARTUP-EVE
 Nr.
 Emri i fituesit
-OJF/
-person fizik/
-person juridik/ent publik
+OJF/Person fizik/person juridik/ent publik
 NIPT
 Numri i pasaportës lehtësues
-Vlera e financimit të miratuar (në lek)
+Vlera e financimit të miratuar
+(në lek)
 1
 BARLETI GROUP sh.p.k.
 Person juridik
@@ -253,7 +289,7 @@ L0136
 2,000,000
 17
 FAKULTETI I SHKENCAVE TË NATYRËS, UNIVERSITETI I TIRANËS
-Ent publik
+Ent Publik
 K51713059D
 L0235
 9,184,200
@@ -271,13 +307,13 @@ L0193
 5,000,000
 20
 SHKOLLA TEKNIKE ELEKTRIKE
-Ent publik
+Ent Publik
 K51717012I
 L0030
 5,215,200
 21
 UNIVERSITETI BUJQËSOR I TIRANËS
-Ent publik
+Ent Publik
 J61915028N
 L0098
 5,000,000
