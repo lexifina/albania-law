@@ -1,0 +1,3 @@
+# Neni 38
+1. Korrespondenca e mbikëqyrësit të punimeve me zhvilluesin dhe zbatuesin e punimeve është pjesë e dokumentacionit të objektit.
+2. Në dosjen e mbikëqyrjes së punimeve pasqyrohen të gjitha aktet e mbajtura gjatë zbatimit të objektit, si akti i dorëzimit të sheshit të ndërtimit, urdhrat e ndryshëm të dhënë nga mbikëqyrësi i punimeve, kundërshtitë dhe kontradiktat e lindura gjatë punës, si dhe zgjidhjet e tyre, ndërprerjet e punimeve dhe shkaqet që kanë diktuar këto ndërprerje, relacionet teknike të kërkuara ose të paraqitura gjatë zbatimit, si dhe të gjitha rrethanat e nevojshme për të dhënë kuadrin e plotë të të gjitha fazave të zbatimit të punimeve.

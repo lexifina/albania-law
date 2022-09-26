@@ -1,0 +1,3 @@
+# Neni 1
+1. Mbikëqyrja e punimeve bëhet për të gjitha llojet e objekteve të ndërtimit dhe kryhet nga mbikëqyrës/grupi i mbikëqyrësve të punimeve, i cili ka përgjegjësi kontrollin e mbarëvajtjes të të gjithë procesit të zbatimit të punimeve, në përputhje me projektin, rregullat dhe standardet teknike të projektimit, zbatimit, si dhe destinacionin e objektit, duke pasur parasysh edhe anën ekonomike të tij.
+2. Mbikëqyrja e punimeve kryhet nga persona fizikë apo juridikë, vendas apo të huaj, të licencuar për ushtrimin e mbikëqyrjes së punimeve, të regjistruar në Qendrën Kombëtare të Biznesit dhe të pajisur me NIPT.

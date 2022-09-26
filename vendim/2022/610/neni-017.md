@@ -1,0 +1,3 @@
+# Neni 17
+1. Mbikëqyrësi pezullon përkohësisht punimet për zbatimin teknik të gabuar ose paaftësi teknike zbatimi, në çdo rast me miratimin e zhvilluesit, për aq kohë sa është i nevojshëm korrigjimi i punimeve me defekt.
+2. Kur vërehen shkelje të dispozitave ligjore në fuqi në fushën e ndërtimit, zhvilluesi dhe Inspektorati Vendor i Mbrojtjes së Territorit/Inspektorati Kombëtar i Mbrojtjes së Territorit, urdhërojnë mbikëqyrësin e punimeve për ndërprerjen e procesit të punës në kantier, deri në përcaktimin e llojit të shkeljes nga IMT-ja dhe deri në përcaktimin dhe marrjen e masave përkatëse për normalizimin e gjendjes.

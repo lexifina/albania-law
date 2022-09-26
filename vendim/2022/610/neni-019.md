@@ -1,0 +1,3 @@
+# Neni 19
+1. Mbikëqyrësi i punimeve njoftohet nga zbatuesi i punimeve kur punimet që do të mbulohen, do të maskohen ose do të betonohen janë gati për t’u kontrolluar prej tij. Me marrjen e njoftimit nga zbatuesi i punimeve, mbikëqyrësi i punimeve kontrollon dhe miraton çdo punim përpara se të mbulohet, maskohet ose betonohet.
+2. Në rast se mbikëqyrësi nuk njoftohet në kohë dhe punimet për maskimin ose betonimin janë kryer, mbikëqyrësi mban një procesverbal në prezencë të drejtuesit të punimeve, dhe njofton zhvilluesin dhe IKMT-në. Punimet fillojnë pas përcaktimit nga IKMT-ja për ecurinë e procesit të ndërtimit.

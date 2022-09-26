@@ -1,0 +1,2 @@
+# Neni 4
+Tarifa për shërbimin e mbikëqyrjes, për vepra publike, të financuara me fonde publike apo private, llogaritet në përputhje me tarifat në fuqi për shërbimin në planifikim territori, projektim, mbikëqyrje dhe kolaudim. Tarifa për shërbimin e mbikëqyrjes, me financim nga subjekte private, nuk mundet të jetë më e vogël se tarifa minimale referuese në fuqi. Në rastet e shtyrjeve të afateve kontraktuale, për shërbimin e mbikëqyrjes llogaritet tarifë shtesë për kohën e shtyrjes së kontratës, sipas legjislacioneve në fuqi sipas fushës, për të cilën kërkohet shërbimi shtesë.

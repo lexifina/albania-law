@@ -1,0 +1,2 @@
+# Neni 15
+Mbikëqyrësi i punimeve kryen matjet në kantier në bashkëpunim me zbatuesin e punimeve dhe për çdo shmangie të konstatuar mbi atë të lejuarën, të përcaktuar në aktet ligjore për planifikimin dhe zhvillimin e territorit, pezullon punimet dhe njofton menjëherë zhvilluesin, autoritetin e lëshimit të lejes së ndërtimit dhe Inspektoratin Vendor të Mbrojtjes së Territorit/Inspektoratin Kombëtar të Mbrojtjes së Territorit në sistemin e-leje.

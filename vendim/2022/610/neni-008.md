@@ -1,0 +1,3 @@
+# Neni 8
+1. Mbikëqyrësi ka detyrimin të raportojë te zhvilluesi, çdo 45 (dyzet e pesë) ditë për kryerjen e punimeve, sipas fazave të akteve të kontrollit, në përputhje me nenin 42, të këtij vendimi.
+2. Mbikëqyrësi ka detyrimin të njoftojë on-line në sistemin e-leje pranë autoriteteve përkatëse kryerjen e punimeve, sipas fazave të akteve të kontrollit, në përputhje me nenin 42, të këtij vendimi. Ai njofton on-line brenda 5 (pesë) ditëve pune në sistemin e-leje pranë autoriteteve përkatëse në rastet kur vëren se punimet e kryera janë në shkelje apo tejkalim të lejes së ndërtimit, si dhe kryen on-line çdo 45 (dyzet e pesë) ditë raportimin e kryerjes së punimeve, sipas metodologjisë së përcaktuar nga organi i lëshimit të lejes së ndërtimit.
