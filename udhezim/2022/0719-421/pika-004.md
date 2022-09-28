@@ -1,0 +1,1 @@
+4. Mjekët e përcaktuar në pikën 1 të këtij udhëzimi, të cilët janë emëruar dhe kanë filluar detyrën para datës 1 korrik 2022 do të jenë përfitues të kompensimit për kosto jetese për pjesën e mbetur të kohëzgjatjes së kontratës 3-vjeçare.

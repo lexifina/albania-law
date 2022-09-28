@@ -1,0 +1,1 @@
+3. Mjekët e përcaktuar në pikën 1 të këtij udhëzimi duhet të vërtetojnë që ushtrojnë detyrën larg vendbanimit të tyre, duke depozituar pranë institucionit shëndetësor ku janë emëruar një vërtetim banimi nga institucionet kompetente sipas ligjit.

@@ -1,0 +1,1 @@
+1. Mjekët, pas përfundimit të specializimit në spitalet universitare, në bazë të detyrimit kontraktor me Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale emërohen sipas nevojave të sistemit shëndetësor për një periudhë trevjeçare.
