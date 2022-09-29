@@ -1,0 +1,2 @@
+22. Vendimi nr. 1619, datë 2.7.2008, i Këshillit të Ministrave, “Për klasifikimin e funksioneve dhe grupimin e njësive të qeverisjes vendore, për efekt page, e për përcaktimin e kufijve të pagave të punonjësve të organeve të qeverisjes vendore”, të ndryshuar, si dhe të gjitha dispozitat e tjera në kundërshtim me këtë vendim, shfuqizohen.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1 shkurt 2016.

@@ -1,0 +1,1 @@
+18. Në raste të veçanta, në bashkitë me deri në 20 000 banorë, kur, për mungesë kapacitetesh, ka punonjës që nuk kanë arsimin e lartë dhe punojnë në pozicione të nivelit ekzekutiv të shërbimit civil, pagat e tyre caktohen nga këshillat përkatës, në kufirin maksimal deri në 41 700 lekë në muaj.
