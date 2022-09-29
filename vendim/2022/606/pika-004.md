@@ -1,0 +1,1 @@
+4. Ministrisë përgjegjëse për arsimim, në buxhetin e miratuar për vitin 2022, nga fondi rezervë i Këshillit të Ministrave i shtohet fondi prej 276 000 000 (dyqind e shtatëdhjetë e gjashtë milionë) lekësh për mbulimin e shpenzimeve të këtij programi kombëtar.

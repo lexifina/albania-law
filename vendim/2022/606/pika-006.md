@@ -1,0 +1,1 @@
+6. Procedurat e prokurimit për blerjen e bazës materiale didaktike dhe infrastruktura mbështetëse, sipas kurrikulave të hartuara për secilën tematikë të Programit Kombëtar për Aktivitetet jashtë Orarit Mësimor realizohen nga Agjencia Shtetërore e Prokurimeve të Përqendruara.

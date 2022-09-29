@@ -1,0 +1,1 @@
+2. Programi Kombëtar për Aktivitetet jashtë Orarit Mësimor (JOM) për orët e zhvilluara në “Art, zeje e sport” të realizohet në 200 (dyqind) institucione arsimore pilot të arsimit parauniversitar, shkolla të arsimit bazë dhe arsimit të mesëm të lartë.

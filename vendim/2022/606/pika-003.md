@@ -1,0 +1,1 @@
+3. Plani i veprimit, kriteret për përzgjedhjen e institucioneve arsimore, të mësuesve e trajnerëve për programe specifike të Programit Kombëtar për Aktivitetet jashtë Orarit Mësimor miratohen me urdhër të ministrit përgjegjës për arsimin.
