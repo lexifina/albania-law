@@ -1,6 +1,7 @@
 # Shtojca
 Lidhja I
 Nivelet e pagës bazë për klasë të punonjësve të institucioneve të përmendura në shkronjën “a”, të pikës 1, të këtij vendimi
+(zëvëndësuar me vendimin nr. 627, datë 28.9.2022)
 Nr.
 rendor
 Klasa e
@@ -9,33 +10,34 @@ Paga bazë mujore
 për klasë
 1
 I
-32000
+34.000
 2
 II
-32700
+35.000
 3
 III
-33400
+35.800
 4
 IV
-34100
+36.500
 5
 V
-35250
+37.700
 6
 VI
-36300
+38.800
 7
 VII
-38300
+41.000
 8
 VIII
-39800
+41.800
 9
 IX
-41000
+43.000
 Lidhja II
 Nivelet e pagës bazë për klasë të punonjësve të institucioneve të përmendura në shkronjën “b”, të pikës 1, të këtij vendimi
+(zëvëndësuar me vendimin nr. 627, datë 28.9.2022)
 Nr.
 rendor
 Klasa e
@@ -44,43 +46,43 @@ Paga bazë
 mujore për klasë
 1
 I
-32000
+34.000
 2
 II
-32700
+35.000
 3
 III
-33400
+35.800
 4
 IV
-34100
+36.500
 5
 V
-34500
+36.900
 6
 VI
-35000
+37.500
 7
 VII
-35400
+38.100
 8
 VIII
-36000
+38.800
 9
 IX
-36500
+39.500
 10
 X
-37000
+40.200
 11
 XI
-37500
+40.700
 12
 XII
-38200
+41.000
 13
 XIII
-39800
+42.000
 Lidhja III
 Kriteret e ndarjes së punëve sipas shkallës të vështirësisë dhe dëmshmërisë për shëndetin
 Në zbatim të pikës nr. 9 të këtij vendimi, punë që kryhen në kushte të vështira e të dëmshme për shëndetin, konsiderohen ato punë që kryhen në ambiente që kapërcejnë kufijtë e lejueshëm të faktorëve të dëmshëm për shëndetin, që përcaktohen në dispozita të veçanta ose në norma të detyrueshme higjieno-sanitare.
