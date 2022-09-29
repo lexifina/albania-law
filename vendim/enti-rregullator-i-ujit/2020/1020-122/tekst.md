@@ -4,6 +4,10 @@ Nr. 122, datë 20.10.2020
 
 PËR LICENCIMIN E SHOQËRISË UJËSJELLËS-KANALIZIME KUKËS SHA
 
+(ndryshuar me vendimin nr. 418, datë 29.9.2022)
+
+(i përditësuar)
+
 Në mbështetje të nenit 13, 14, 15, 16 dhe 17, të ligjit nr. 8102, datë 28.3.1996, “Për kuadrin rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, të ndryshuar (ligji nr. 8102), të VKM-së nr. 958, datë 6.5.2009, “Për miratimin e kategorive të licencimit dhe të procedurave për aplikim për licencë”, (VKM-së nr. 958), si dhe vendimit të Komisionit Kombëtar Rregullator nr. 29, datë 8.12.2009, “Për procedurat e dhënies dhe rinovimit të licencave profesionale për subjektet juridike e fizike që ushtrojnë veprimtari në sektorin e furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, të ndryshuar (rregullore e licencimit), 
 
 Komisioni Kombëtar Rregullator,
@@ -46,7 +50,7 @@ b) Kategoria C - Për largimin e ujërave të ndotura.
 
 2. Shoqëria Ujësjellës-Kanalizime Kukës sh.a autorizohet të kryejë veprimtaritë e licencuara me:
 
-a) Drejtues ligjor – Asllan Hoxha;
+a) Drejtues ligjor - z. Eduard Spahia;
 
 b) Drejtuese teknike –Hazbije Onuzi.
 
