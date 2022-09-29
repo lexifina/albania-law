@@ -1,0 +1,1 @@
+2. Ngarkohet Sektori i Politikave të Peshkimit dhe Akuakulturës, në Drejtorinë e Politikave dhe Programeve të Peshkimit dhe Akuakulturës për zbatimin e pikave 1-10, 12-29, 32-33, 36-50, 52-54, 56-73, 76, 80-91, 93-109, 113-118, 120, 122-123, 125-129, 131-139, 140-141, 143-146, 151-158, 160-166, 168-192, 198-217, 236 si dhe shtojcat 1, 2, 5, dhe 8-13.
