@@ -1,1 +1,0 @@
-1. Miratimin e rregullores “Për përcaktimin e kërkesave dhe procedurave administrative që lidhen me aerodromet në Republikën e Shqipërisë”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
