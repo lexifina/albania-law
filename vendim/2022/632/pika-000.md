@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit (asistenca teknike) për konektivitetin e rrugëve rajonale dhe lokale për Shqipërinë - mbështetje për zbatimin e projektit, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave dhe Ekonomisë (marrësi), Fondit Shqiptar të Zhvillimit (enti i projektit) dhe Bankës Evropiane për Rindërtim dhe Zhvillim, mbështetur nga fondi i posaçëm i aksionarëve të BERZH-it, në shumën 1 200 000 USD (një milion e dyqind mijë dollarë), sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
