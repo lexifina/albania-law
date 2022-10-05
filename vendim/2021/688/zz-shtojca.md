@@ -7,30 +7,30 @@ Paga mujore për gradë
 1
 2
 3
-Për punonjësit e niveli madhor
+Për punonjësit e nivelit madhor
 Drejtues Madhor
-125 000
+125.000
 Drejtues i lartë
-115 000
+115.000
 Për punonjësit e nivelit të lartë
 Drejtues i parë
-109 000
+109.000
 Drejtues
-99 000
+99.000
 Për punonjësit e nivelit të mesëm
 Kryekomisar
-87 000
+87.000
 Komisar
-72 000
+77.000
 Nënkomisar
-65 500
+70.000
 Për punonjësit e nivelit bazë
 Inspektor i parë
-54 500
+58.400
 Inspektor i dytë
-52 000
+55.700
 Inspektor
-50 000
+53.500
 Lidhja nr. 2
 MASA E SHTESËS MUJORE PËR NATYRË TË VEÇANTË PUNE, PËR PUNONJËSIT E GARDËS SË REPUBLIKËS SË SHQIPËRISË
 Nr.
