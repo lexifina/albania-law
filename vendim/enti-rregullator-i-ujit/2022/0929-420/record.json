@@ -1,0 +1,29 @@
+{
+  "qbz_id": 25002,
+  "title": "Për licencat dhe tarifat e shërbimit të operatorëve UK deri në përfundim të procedurave të riorganizimit dhe transferimit të shoqërive UK në subjekte me kompetenca të përbashkëta",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "420",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2022-09-29",
+  "published": "2022-10-05",
+  "in_force": "2022-10-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe publikohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/5063af65a8574dcfdeb7e890a750700baa8ed1b3fadf935a369084890673f6ef.docx",
+  "source_sha256": "5063af65a8574dcfdeb7e890a750700baa8ed1b3fadf935a369084890673f6ef",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25002",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/09/29/420",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    25647,
+    25137
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
