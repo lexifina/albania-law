@@ -1,37 +1,39 @@
 # Shtojca
-LIDHJA NR.1
-STRUKTURA DHE NIVELET E PAGAVE PËR PUNONJËSIT E SHËRBIMIT TË
-MBROJTJES NGA ZJARRI DHE SHPËTIMIN
+Lidhja nr. 1
+STRUKTURA DHE NIVELET E PAGAVE PËR PUNONJËSIT E SHËRBIMIT TË MBROJTJES NGA ZJARRI DHE SHPËTIMIN
 Niveli
 Grada
-Paga bazë
-për gradë
+Paga bazë për gradë
 Shtesa për natyrë të veçantë pune
+1
+2
+3
+4
 Niveli bazë
 Asistent Zjarrfikës
-40000
+43000
 7000
 Zjarrfikës
-46000
+49000
 8000
 Kryezjarrfikës
-48000
+51500
 8000
 Niveli i mesëm
 Inspektor Zjarrfikës
-56000
+60000
 6000
 Kryeinspektor Zjarrfikës
-65000
+69500
 6000
 Komisar Zjarrfikës
-85000
+91000
 6000
-Niveli I lartë
+Niveli i lartë
 Drejtues Zjarrfikës
-97000
+101000
 Drejtues i Parë Zjarrfikës
-108000
+112000
 Niveli madhor
 Drejtues i Lartë Zjarrfikës
-118000
+123000
