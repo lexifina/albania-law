@@ -1,0 +1,1 @@
+1. Ngarkimin e Fondit Shqiptar të Zhvillimit, si organ qendror blerës dhe njësi zbatuese, për kryerjen e procedurës së prokurimit publik për zbatimin e projektit për vendosjen e paneleve fotovoltaike në tarracën e Kryeministrisë dhe të ministrive të linjës.
