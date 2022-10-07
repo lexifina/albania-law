@@ -4,6 +4,8 @@ Nr. 150, datë 10.6.2022
 
 MBI RINOVIMIN E LICENCËS SË SHOQËRISË “DANSKE COMMODITIES ALBANIA” SHPK, NË VEPRIMTARINË E TREGTIMIT TË ENERGJISË ELEKTRIKE
 
+(ndryshuar me vendimin e bordit të ERE-s nr. 284, datë 7.11.2022)
+
 	Në mbështetje të neneve 16, 37, pika 2, germa “d”, të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike”, neneve 4, pika 1, germa “e”; pika 5, pika 1 germa “e”; 13, nenit 16, të rregullores “Për procedurat dhe afatet për dhënie, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; nenit 15 të rregullores “Për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 10.6.2022, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes nr. 900/2 prot., datë 9.6.2022, “Mbi rinovimin e licencës së shoqërisë ‘Danske Commodities Albania’ sh.p.k., me nr. 374, seria T12/T17 në veprimtarinë e tregtimit të energjisë elektrike, miratuar me vendimin e Bordit të ERE-s nr. 94, datë 4.7.2017”,
 
 	konstatoi se: 
@@ -32,9 +34,9 @@ VENDOSI:
 
 1. Të rinovojë licencën e shoqërisë “Danske Commodities Albania” sh.p.k., me nr. 374, seria T12/T17 në veprimtarinë e tregtimit të energjisë elektrike, miratuar me vendimin e Bordit të ERE-s nr. 94, datë 4.7.2017, për një afat 5-vjeçar (pesëvjeçar), duke filluar nga data 4.7.2022. 
 
-2. Shoqëria “Danske Commodities Albania” sh.p.k. në përfundim të procesit të vlerësimit nga organi tatimor, të paraqesë në ERE, vërtetimin e detyrimeve tatimore të pastër.
+2. Shfuqizuar.
 
-3. Ky vendim është objekt rishikimi nga ERE në varësi të vendimmarrjes së organit tatimor në përfundim të procesit të vlerësimit mbi procesin e apelimit të nisur nga shoqëria “Danske Commodities Albania” sh.p.k., që mund të ndryshojë rrethanat e kësaj vendimmarrjeje.
+3. Shfuqizuar.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
