@@ -1,0 +1,1 @@
+3. Komiteti për Planifikimin Kombëtar Spitalor, gjatë veprimtarisë së tij, asistohet nga sekretari i këtij komiteti, i cili është një specialist pranë drejtorisë përgjegjëse për politikat dhe menaxhimin e shërbimit spitalor në ministrinë përgjegjëse për shëndetësinë.
