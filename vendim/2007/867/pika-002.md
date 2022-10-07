@@ -1,1 +1,1 @@
-2. Shpronësimi të bëhet në favor të Drejtorisë së Përgjithshme të Rrugëve.
+2. Shpronësimi të bëhet në favor të Autoritetit Rrugor Shqiptar.

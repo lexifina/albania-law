@@ -1,1 +1,1 @@
-7. Pronarët e përcaktuar në listën që i bashkëlidhet këtij vendimi, për të cilët janë bërë shënimet “Konfirmim nga ZRPP-ja” dhe “Proces regjistrimi”, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve.
+7. Pronarët e përcaktuar në listën që i bashkëlidhet këtij vendimi, për të cilët janë bërë shënimet “Konfirmim nga ZRPP-ja” dhe “Proces regjistrimi”, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Autoritetit Rrugor Shqiptar.
