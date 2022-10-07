@@ -2,27 +2,28 @@
 Lidhja nr. 1
 Paga bazë për gradë për punonjësit e Policisë së Shtetit
 Grada
-Paga bazë për gradë
+Paga bazë
+për gradë
 Inspektor
-50000
+57.500
 Inspektor i dytë
-52000
+59.800
 Inspektor i parë
-54500
+62.680
 Nënkomisar
-65500
+70.000
 Komisar
-72000
+77.000
 Kryekomisar
-87000
+87.000
 Drejtues
-99000
+99.000
 Drejtues i parë
-103000
+103.000
 Drejtues i lartë
-115000
+115.000
 Drejtues madhor
-125000
+125.000
 Lidhja nr. 2
 Shtesa për natyrë të veçantë pune për punonjësit e Policisë së Shtetit në strukturat e Luftës ndaj Krimit të Organizuar, Krimeve të Rënda, Antiterrorit dhe në strukturat e Policisë Shkencore
 Grada
