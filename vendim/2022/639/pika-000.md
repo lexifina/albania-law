@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese të marrëveshjes së grantit ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim, për financimin e projektit “Hekurudhat shqiptare - Rehabilitimi i linjës hekurudhore Tiranë-Durrës dhe ndërtimi i linjës hekurudhore për në Aeroportin Ndërkombëtar të Tiranës”, në kuadër të grantit të investimit nga Fondi i Përbashkët Evropian i Ballkanit Perëndimor, ratifikuar me ligjin nr. 52/2018, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
