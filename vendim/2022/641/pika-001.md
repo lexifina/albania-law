@@ -1,0 +1,1 @@
+1. Numri i punonjësve të Ministrisë së Infrastrukturës dhe Energjisë, për vitin 2022, shtohet me 35 (tridhjetë e pesë) veta dhe numri i përgjithshëm i sistemit të ministrisë bëhet 1 188 (një mijë e njëqind e tetëdhjetë e tetë) veta.
