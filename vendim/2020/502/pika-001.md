@@ -1,1 +1,1 @@
-1. Krijimin e bazës së të dhënave shtetërore “Regjistri elektronik i ekspertëve” (këtu e në vijim “REE”).
+1. Krijimin e bazës së të dhënave shtetërore “Regjistri elektronik i ekspertëve, i përkthyesve zyrtarë dhe interpretëve të gjuhëve të shenjave”. Regjistri elektronik i ekspertëve, i përkthyesve zyrtarë dhe interpretëve të gjuhëve të shenjave përbëhet nga regjistri elektronik i ekspertëve (në vijim, “REE”) dhe nga seksioni i veçantë, regjistri elektronik i përkthyesve zyrtarë dhe interpretëve të gjuhës së shenjave (në vijim, “regjistri elektronik i përkthyesve”).
