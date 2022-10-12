@@ -1,2 +1,2 @@
-4. Qendra si fushë përgjegjësie ka parandalimin e krimeve të të miturve dhe të rinjve.
+4. Qendra si fushë përgjegjësie ka parandalimin e krimeve të të miturve dhe të rinjve. Qendra ushtron veprimtarinë parandaluese edhe nëpërmjet aktiviteteve dhe fushatave sensibilizuese në kuadër të rritjes së ndërgjegjësimit të komunitetit që do të mirëpresë të miturit pas përfundimit të periudhës së dënimit apo lirimit me kusht.
 II. RREGULLAT PËR ORGANIZIMIN DHE PËRGJEGJËSITË FUNKSIONALE TË QENDRËS

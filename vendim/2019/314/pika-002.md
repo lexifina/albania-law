@@ -1,1 +1,1 @@
-2. Qendra e Parandalimit të Krimeve të të Miturve dhe të Rinjve ka si mision kryesor realizimin e veprimtarisë rehabilituese dhe riintegruese nëpërmjet mbikëqyrjes dhe mbrojtjes të të miturit/të rinjve pas kryerjes së dënimit.
+2. Qendra e Parandalimit të Krimeve të të Miturve dhe të Rinjve ka si mision kryesor realizimin e veprimtarisë rehabilituese dhe riintegruese nëpërmjet mbikëqyrjes dhe mbrojtjes të të miturit/të rinjve pas kryerjes së dënimit ose pas lirimit me kusht.
