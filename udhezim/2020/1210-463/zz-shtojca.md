@@ -110,26 +110,10 @@ Vendbanimi (adresa)/vendqëndrimi për personat (shkaktarë/përfitues) të një
 Në formë shkresore, sipas kërkesës, si dhe në formë elektronike.
 10
 Drejtoria e Përgjithshme e Burgjeve
-Ligji nr. 8328, datë 16.4.1998, “Për të drejtat dhe trajtimin e të dënuarve me burgim dhe të paraburgosurve”, i ndryshuar.
-Ligji nr. 10032, datë 11.12.2008, “Për policinë e burgjeve” , i ndryshuar.
-VKM-ja nr. 437, datë 20.5.2015, “Për miratimin e Rregullores së Përgjithshme të Burgjeve”:
-neni 10, “Kushtet e pranimit të të dënuarve”;
-neni 11, “Regjistrimi i të paraburgosurit apo i të dënuarit”;
-neni 16, “Dosja personale”;
-neni 17, “Regjistrat themeltarë të dënuarve dhe të të paraburgosurve”;
-neni 40, pika “Takimet me familjen, të afërmit dhe miqtë;
-neni 53 “Lejet e veçanta”.
-Të dhënat që ndodhen edhe në dokumentin e identifikimit të të dënuarit:
-emër;
-mbiemër;
-numri personal;
-atësi;
-amësi;
-datëlindje;
-vendlindje;
-vendbanimi (adresa);
-çdo informacion tjetër që kërkohet për të plotësuar dokumentacionin e personit të privuar nga liria.
-Në formë shkresore, sipas objektit të kërkesës.
+Ligji nr. 81/2020, “Për të drejtat dhe trajtimin e të dënuarve me burgim dhe të paraburgosurve”, nenet 38, 39, 76, 78
+Vendimi nr. 209, datë 6.4.2022, i Këshillit të Ministrave, “Për miratimin e rregullores së përgjithshme, të Burgjeve”, nenet 10, 11, 12, 18, 19, 38, 49, 73
+Të dhënat që lidhen me identifikimin e të dënuarit si dhe të dhënat e nevojshme për takimet, vizitat dhe lejet e veçanta si dhe çdo informacion tjetër i nevojshëm për plotësimin e dosjes/ dokumentacionit të personit në paraburgim apo të burgosur.
+Në formë shkresore, sipas kërkesës
 11
 Drejtoria e Përgjithshme e Doganave dhe degët doganore
 Ligj nr. 102, datë 31.7.2014, “Kodi Doganor i Republikës së Shqipërisë”.
@@ -367,17 +351,9 @@ Të gjitha të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuar
 Elektronikisht, nëpërmjet ndërfaqes elektronike, të miratuar midis DPGJC- së dhe Prokurorisë, në zbatim të ligjit nr. 10325, datë 23.9. 2010 “Për bazat e të dhënave shtetërore”.
 33
 Shërbimi i Provës
-Ligji nr. 8331, datë 21.4.1998, i ndryshuar me ligjin nr. 10024, datë 27.11.2008, “Për ekzekutimin e vendimeve penale”, neni 31/7, “Shërbimi i provës”.
-Të dhënat që përmban certifikata e vdekjes.
-Të dhënat që ndodhen në dokumentin e identifikimit të të dënuarit si:
-emër;
-mbiemër;
-atësi;
-mëmësi;
-datëlindje;
-vendlindje;
-vendbanimi (adresa), si dhe çdo informacion tjetër që kërkohet për të plotësuar qëllimin.
-Në formë shkresore, sipas kërkesës.
+Ligji nr. 78/2020, “Për organizimin dhe funksionimin e Shërbimit të Provës”, neni 31
+Të dhënat që lidhen me identifikimin e personit nën mbikëqyrje dhe të dhënat e nevojshme për plotësimin e raportit.
+Në formë shkresore, sipas kërkesës
 34
 Shërbimi Informativ i Shtetit
 Ligji nr. 8391, datë 28.10.1998, “Për Shërbimin Informativ Kombëtar”, i ndryshuar, neni 3.
@@ -400,12 +376,12 @@ data e përditësimit të të dhënave.
 Në formë elektronike.
 35
 Zyra vendore e Përmbarimit
-Përmbaruesi Gjyqësor Privat/Zyra e Përmbarimit Privat
-Ligji nr. 8730, datë 18.1.2001, “Për organizimin dhe funksionimin e Shërbimit të Përmbarimit Gjyqësor” i ndryshuar, neni 26, “Mbledhja e të dhënave”.
-Ligji nr. 26, datë 8.5.2019, “Për Shërbimin Përmbarimor Gjyqësor Privat”, neni 36, “Të drejtat e përmbaruesit gjyqësor privat”.
+Përmbaruesi Gjyqësor Privat/ Zyra e Përmbarimit Privat
+Ligji nr. 8116 datë 29.03.1996 “Kodi i Procedurës Civile i Republikës së Shqipërisë”, i ndryshuar, neni 516/a
+Ligji nr. 8730, datë 18.1.2001, “Për organizimin dhe funksionimin e Shërbimit të Përmbarimit Gjyqësor”, i ndryshuar, neni 26, “Mbledhja e të dhënave”
+Ligji nr. 26, datë 8.5.2019, “Për Shërbimin Përmbarimor Gjyqësor Privat”, neni 24, “Sistemi i menaxhimit elektronik të çështjeve të përmbarimit gjyqësor”, neni 36, “Të drejtat e përmbaruesit gjyqësor privat”, neni 53 “Marrëdhëniet me të tretët”
 Të gjitha të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj dhe të vlerësuar në përputhje me qëllimin e përcaktuar në kërkesë.
-Vetëm adresa/vendndodhja e debitorit.
-Në formë shkresore, sipas kërkesës, si dhe në formë elektronike.
+Në formë shkresore, sipas kërkesës, si dhe në formë elektronike
 36
 Noterët
 Ligji nr. 110/2018, “Për noterinë”:
@@ -415,6 +391,21 @@ neni 112, “Përmbajtja e dëshmisë së trashëgimisë”;
 neni 125, “Tërheqja e akteve të gjendjes civile pranë zyrave të gjendjes civile nga noteri dhe aplikimi nëpërmjet sistemit”.
 Të gjitha të dhënat e domosdoshme për çeljen e trashëgimisë sipas përcaktimeve ligjore.
 Në formë shkresore, sipas kërkesës, si dhe në formë elektronike.
+37
+Ministria e Drejtësisë
+Vendimi nr. 149, datë 20.3.2019 i Këshillit të Ministrave, “Për krijimin, organizimin, funksionimin, karakteristika te përdorimit e aksesimit, të dhënat parësore e dytësore dhe dhënësin e informacionit të sistemit të integruar të të dhënave të drejtësisë penale për të mitur”, pika 10, shkronja “b”, nënndarja “iv”
+Të dhënat referenciale të gjendjes civile, si: numri personal, emri, mbiemri, atësia, vendlindja, datëlindja, gjinia, bashkia/njësia administrative, adresa.
+Në formë elektronike
+Ligji nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, neni 4
+Vendimi nr. 618, datë 20.10.2021, i Këshillit të Ministrave, “Për krijimin, organizimin e funksionimin e Rrjetit të Koordinatorëve kundër Korrupsionit”, i ndryshuar
+Të dhënat e identifikimit të kërkuesit, si: emri, atësia, mbiemri
+Në formë elektronike
+Ligji nr. 10 193, datë 3.12.2009, “Për marrëdhëniet juridiksionale me autoritetet e huaja në çështjet penale”, të ndryshuar, neni 29, pika 5
+Të dhëna të gjendjes civile, si emri e mbiemri, numri personal, datëlindja, vendlindja, gjinia, shtetësia, raportet e atësisë e amësisë, gjendja civile, vendbanimi dhe vendqëndrimi.
+Në formë elektronike
+Ligji nr. 82/2021, “Për përkthimin zyrtar dhe profesionin e përkthyesit zyrtar”, neni 10, pika 3
+Të dhëna referenciare të gjendjes civile, si numri personal i identifikimit, emri, mbiemri, atësia, vendlindja, datëlindja, gjinia, bashkia, adresa.
+Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse
 ANEKS II
 Protokolluar me nr. ________ , datë ________.
 FORMULAR
