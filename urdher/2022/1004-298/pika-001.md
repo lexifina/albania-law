@@ -1,0 +1,1 @@
+1. Ngarkimin e znj. Rudina Luka për ushtrimin e detyrave të drejtorit të Prokurimeve dhe Partneriteteve në Ministrinë e Turizmit dhe Mjedisit (MTM), krahas ushtrimit të detyrës aktuale të Përgjegjësit të Sektorit të Financës dhe Prokurimeve, në Drejtorinë e Financës dhe Shërbimeve Mbështetëse, në Agjencinë Kombëtare te bregdetit (AKB).
