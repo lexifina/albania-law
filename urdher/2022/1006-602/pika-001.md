@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave znj. Albana Tole, zëvendësministër i Arsimit dhe Sportit, për ngritjen e komsioneve ad-hoc për njohjen e titujve akademikë për secilin aplikim për njohje titulli akademik të fituar jashtë vendit, me pedagogë ekspertë të fushës përkatëse të kategorisë “Profesor”, si dhe kryesimin e tyre.
