@@ -7,3 +7,4 @@ iii. të gjitha gjykatat/seksionet në nivel rrethi dhe apeli, që gjykojnë ç�
 iv. Gjykata e Lartë;
 v. Drejtoria e Përgjithshme e Burgjeve;
 vi. Drejtoria e Përgjithshme e Shërbimit të Provës.
+vii. Qendra e Parandalimit të Krimeve të të Miturve dhe të Rinjve.

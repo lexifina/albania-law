@@ -6,3 +6,4 @@ c) gjykatat/seksionet në nivel rrethi dhe apeli, që gjykojnë çështje penale
 d) Prokuroria e Përgjithshme;
 dh) institucionet e ekzekutimit të vendimeve penale, ku ndodhen të miturit e dënuar ose të paraburgosur;
 e) zyrat vendore të shërbimit të provës që trajtojnë rastet e të miturve me masë shmangieje ose masë alternative të dënimit me burgim.
+ë) Qendra e Parandalimit të Krimeve të të Miturve dhe të Rinjve.
