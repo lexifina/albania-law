@@ -1,0 +1,1 @@
+2. Kompetencat e deleguara të kryetarit të Komisionit të Njohjes dhe Njësimit të Gradave Shkencore (KNJG), do të ushtrohen deri në shfuqizimin e këtij urdhri, si dhe pushimin e ekzistencës së organit delegues apo të deleguar.
