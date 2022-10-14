@@ -4,6 +4,8 @@ Nr. 164, datë 20.6.2022
 
 MBI TRANSFERIMIN E plotË tË LICENCËs sË SHOQËRISË “HERA” SHPK, NR. 49, SERIA NPM07P, DHëNË ME VENDIMIN E BORDIT NR. 61, DATË 2.11.2007, “PËr ndËrtim, instalim, shfrytËzimin dhe prodhimin e energjisË elektrike nga centrale me erË (Projekti ‘Kappet’)”, i ndryshuar
 
+(ndryshuar me vendimin e bordit të ERE-s nr. 268, datë 14.10.2022)
+
 Në mbështetje të neneve 16 dhe 44, pika 1, të ligjit nr. 43/2015 ,“Për sektorin e energjisë elektrike”, i ndryshuar; neneve 13; 17 pikat 1, 2 dhe 4, të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; dhe nenit 15 të rregullores “Për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96 datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 20.6.2022, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizime dhe Mbikëqyrjes, me nr. 925/1 prot., datë 14.6.2022, “Mbi transferimin e plotë të licencës së shoqërisë ‘Hera’ sh.p.k., me nr. 49, seria NPM07P, miratuar me vendimin e Bordit të ERE-s nr. 61, datë 2.11.2007, i ndryshuar, “Për ndërtim, instalim, shfrytëzimin dhe prodhimin e energjisë elektrike nga centrale me erë (projekti ‘KAPPET’)”, me kapacitet instaluar 150 MW, për një afat 30-vjeçar”,
 
 	konstatoi se:
@@ -56,7 +58,7 @@ VENDOSI:
 
 1. Të miratojë transferimin e plotë të licencës së shoqërisë “Hera” sh.p.k., me nr. 49 Seria NPM07P, miratuar me vendimin e Bordit të ERE-s nr. 61, datë 2.11.2007, i ndryshuar, “Për ndërtim, instalim, shfrytëzimin dhe prodhimin e energjisë elektrike nga centrale me erë (projekti ‘KAPPET’)”, me kapacitet të instaluar 150 mw, për një afat 30-vjeçar, me kushtin që shoqëria “SOT-AL” sh.p.k të plotësojë kushtet e vendimit nr. 61, datë 2.11.2007, i ndryshuar brenda datës 13.9.2022.
 
-2. Së bashku me licencën nr. 49, seria NPM07P, transferohen te shoqëria “SOT-AL” sh.p.k. edhe të drejtat dhe detyrimet që shoqëria “HERA” sh.p.k ka në kuptim të kësaj licence dhe vendimit nr. 250, datë 13.12.2021, “Mbi rishikimin e vendimit nr. 112, datë 26.4.2021, “Mbi kërkesën e shoqërisë “Hera” sh.p.k., për rishikimin e vendimit nr. 34, datë 4.2.2021, “Mbi kërkesën e shoqërisë “Hera” sh.p.k., për shtyrjen e afateve të vendimit nr. 61, datë 2.11.2007, i ndryshuar”, i cili ka shtyrë deri në datën 13.9.2022 afatin e plotësimit të kushteve respektive të licencimit, dhe gjithashtu detyrimin që shoqëria “SOT-AL” sh.p.k. brenda këtij afati të dokumentojë edhe mbështetjen financiare që do të sigurojë për projektin “KAPPET”.
+2. Shfuqizuar.
 
 3. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s. 
 
