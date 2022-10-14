@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja financiare kuadër e partneritetit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, dhe Komisionit Evropian për rregullat specifike të zbatimit të asistencës financiare të BE-së për Republikën e Shqipërisë në kuadër të Instrumentit për Asistencën e Paraanëtarësimit (IPA III) sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
