@@ -1,0 +1,1 @@
+Miratimin e aktit normativ, me fuqinë e ligjit, nr. 11, datë 29.7.2022, “Për disa shtesa në ligjin nr. 8926, datë 22.7.2002, ’Për formën dhe përmasat e flamurit kombëtar, përmbajtjen e himnit kombëtar, formën dhe përmasat e stemës së Republikës së Shqipërisë dhe mënyrën e përdorimit të tyre’”.
