@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Tirana Veri, pezullon të gjitha transaksionet me pasurinë e shpronësuar, deri në momentin e realizimit të procesit të hedhjes së gjurmës së projektit mbi hartën kadastrale të regjistrimit, si dhe regjistrimit të aktit të kalimit të pronësisë për pasurinë e shpronësuar në favor të Bashkisë Tiranë.
