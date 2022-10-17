@@ -1,0 +1,1 @@
+14. Agjencia Kombëtare e Barnave dhe Pajisjeve Mjekësore, brenda 30 (tridhjetë) ditëve nga paraqitja e kërkesës nëpërmjet portalit e-Albania, konfirmon vlefshmërinë e kërkesës dhe bën vlerësimin paraprak të dokumentacionit të paraqitur për barin homeopatik, në përputhje me dispozitat e ligjit dhe të këtij vendimi.

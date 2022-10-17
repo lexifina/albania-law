@@ -1,0 +1,1 @@
+24. Tarifa paguhet jo më vonë se 40 (dyzet) ditë nga data e daljes së urdhrit të ministrit përgjegjës për shëndetësinë. Tarifa paguhet sipas legjislacionit në fuqi. Të gjitha tarifat e përcaktuara në këtë rregullore paguhen me formatpagesën e publikuar nga Agjencia Kombëtare e Barnave dhe Pajisjeve Mjekësore.

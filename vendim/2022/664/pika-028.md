@@ -1,0 +1,1 @@
+28. Kërkuesi nuk mund të kërkojë për asnjë procedurë tjetër administrative lidhur me barin homeopatik, për sa kohë nuk është pajisur me certifikatën e autorizimit të tregtimit të gjeneruar nga portali e-Albania me nënshkrim elektronik.

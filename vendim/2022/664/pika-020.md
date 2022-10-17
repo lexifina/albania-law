@@ -1,0 +1,1 @@
+20. Në rast se dokumentacioni përmbush kërkesat, sipas përcaktimeve në këtë vendim, Agjencia Kombëtare e Barnave dhe Pajisjeve Mjekësore e kalon atë në Komisionin e Përhershëm të Barnave për shqyrtim të mëtejshëm të dokumentacionit.

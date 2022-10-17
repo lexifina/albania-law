@@ -1,0 +1,1 @@
+7. Personi përgjegjës, që përfaqëson shoqërinë, edhe të huaj, duhet të ngarkojë online në portalin e-Albania një deklaratë me shkrim të mbajtësit të autorizimit të tregtimit, që nuk është me seli në Republikën e Shqipërisë.

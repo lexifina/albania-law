@@ -1,0 +1,1 @@
+3. Kërkesa për dhënien e autorizimit për tregtim plotësohet veçmas për çdo formë dhe dozë farmaceutike, e shoqëruar nga formulari i kërkesës, sipas shtojcës I, që i bashkëlidhet këtij vendimi. Kërkuesi plotëson formularin e kërkesës me të gjitha të dhënat e barit homeopatik, që do të hidhet në treg.

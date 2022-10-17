@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i rregullave procedurale për mënyrën e marrjes dhe të rinovimit të autorizimit për tregtim të barnave homeopatike në Republikën e Shqipërisë nga Agjencia Kombëtare e Barnave dhe Pajisjeve Mjekësore.

@@ -1,0 +1,1 @@
+16. Në rast se dokumentacioni, pas vlerësimit paraprak, nuk i përmbush kërkesat, sipas përcaktimeve në këtë vendim, Agjencia Kombëtare e Barnave dhe Pajisjeve Mjekësore informon kërkuesin se dokumentacioni refuzohet, duke specifikuar arsyet e këtij vendimi dhe, në këtë rast, është e nevojshme një kërkesë e re. Tarifa e paguar për kërkesën nuk kthehet.

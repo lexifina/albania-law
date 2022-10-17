@@ -1,0 +1,1 @@
+27. Për çdo ndryshim, që i ndodh barit homeopatik gjatë periudhës 5-vjeçare të autorizimit të tregtimit, kërkuesi është i detyruar ta paraqesë atë pranë Agjencisë Kombëtare të Barnave dhe Pajisjeve Mjekësore, përpara procedurës së kërkesës për rinovim të autorizimit të tregtimit, nëse ky ndryshim është i aplikueshëm për Shqipërinë, sipas kapitullit për ndryshimet.

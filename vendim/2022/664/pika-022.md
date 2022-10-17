@@ -1,0 +1,1 @@
+22. Pas dhënies së një vlerësimi pozitiv nga Komisioni i Përhershëm i Barnave, Agjencia Kombëtare e Barnave dhe Pajisjeve Mjekësore përgatit për ministrin përgjegjës për shëndetësinë propozimin për dhënien e autorizimit të tregtimit për barin përkatës homeopatik.

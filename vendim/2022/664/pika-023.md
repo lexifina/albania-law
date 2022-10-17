@@ -1,0 +1,1 @@
+23. Ministri përgjegjës për shëndetësinë miraton me urdhër, dhënien e autorizimit të tregtimit. Pas miratimit nga ministri përgjegjës për shëndetësinë, Agjencia Kombëtare e Barnave dhe Pajisjeve Mjekësore njofton zyrtarisht nëpërmjet portalit e-Albania kërkuesin për dhënien e autorizimit për tregtim për barin homeopatik, si dhe për tarifën përkatëse që duhet të paguhet.
