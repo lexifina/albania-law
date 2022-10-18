@@ -1,0 +1,7 @@
+2. Në ushtrim të kompetencave të titullarit të Ministrisë së Bujqësisë dhe Zhvillimit Rural, sipas pikës 1 të këtij urdhri, zëvendësministri ushtron këto përgjegjësi kryesore:
+a) trajton dhe nënshkruan përgjigjet zyrtare drejtuar institucioneve shtetërore, personave fizikë ose juridikë, publikë ose privatë, për të gjitha çështjet që janë brenda fushës së veprimtarisë së Ministrisë së Bujqësisë dhe Zhvillimit Rural dhe që lidhen me ushtrimin e funksionit të drejtimit administrativ të institucionit, përveç kompetencave të titullarit të Autoritetit Kontraktor;
+b) ndjek dhe kontrollon veprimtarinë e nëpunësve të aparatit të Ministrisë së Bujqësisë dhe Zhvillimit Rural, si dhe të institucioneve të varësisë së Ministrisë së Bujqësisë dhe Zhvillimit Rural;
+c) bën ndarjen dhe mbikëqyr realizimin e detyrave nga nëpunësit e Ministrisë së Bujqësisë dhe Zhvillimit Rural, në funksion të drejtimit dhe të administrimit të përditshëm të veprimtarisë së Ministrisë së Bujqësisë dhe Zhvillimit Rural.
+4. Në ushtrimin e kompetencave, sipas këtij urdhri, zëvendësministri ndihmohet dhe mbështetet nga Sekretari i Përgjithshëm i Ministrisë së Bujqësisë dhe Zhvillimit Rural ose personi që ushtron detyrat e tij në rast mungese. Zëvendësministri ndalohet të nëndelegojë te një organ i tretë kompetencat e përfituara përmes këtij akti delegimi.
+5. Për zbatimin e këtij urdhri ngarkohet zëvendësministri i Ministrisë së Bujqësisë dhe Zhvillimit Rural, z. Dhimitër Kote.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
