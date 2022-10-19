@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Arsimit dhe Sportit, për Universitetin e Sporteve të Tiranës, të pasurive të paluajtshme, në zonën kadastrale 8210, Bashkia Tiranë, të përcaktuara në formularin për inventarizimin e pronave të paluajtshme shtetërore, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

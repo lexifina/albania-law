@@ -1,0 +1,1 @@
+3. Universitetit të Sporteve të Tiranës i ndalohet të ndryshojë destinacionin e pasurive të paluajtshme, të përcaktuara në formularin për inventarizimin e pronave të paluajtshme shtetërore, bashkëlidhur këtij vendimi, t’i tjetërsojë apo t’ua japë ato në përdorim të tretëve.
