@@ -1,0 +1,1 @@
+1. Ngarkimin e znj. Pranvera Alijaja për ushtrimin e detyrave si përgjegjëse për sistemin E-Leje, në Agjencinë Kombëtare të Zonave të Mbrojtura (AKZM), krahas ushtrimit të detyrës aktuale të Specialistit në Drejtorinë e Politikave dhe Strategjive të Zhvillimit të Mjedisit, në Ministrinë e Turizmit dhe Mjedisit (MTM).
