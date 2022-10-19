@@ -1,0 +1,6 @@
+# Neni 9
+1. Kursantët, të cilët përfitojnë nga ky vendim kanë detyrimin të qëndrojnë dhe të kërkojnë punë brenda Republikës së Shqipërisë, për një periudhë jo më pak se 2-vjeçare, menjëherë pas mbarimit të kursit, në të kundërt janë të detyruar të kthejnë 100% të vlerës së mbështetjes financiare të përfituar, sipas skemës së përcaktuar në këtë vendim.
+2. Niveli i punësimit të të certifikuarve nga institucionet e formimit profesional, publike apo private, përfitues të mbështetjes financiare duhet të jetë jo më pak se 50% brenda 6 (gjashtë) muajve nga certifikimi. Në rast se niveli i punësimit është më pak nga parashikimi i dhënë më sipër, institucioni i formimit profesional publik apo privat fitues humb të drejtën e mbështetjes së mëtejshme në thirrjen pasardhëse për kursin e formimit profesional, për të cilin është dhënë mbështetja financiare.
+3. Në rast se nuk përmbushet niveli i punësimit të kursantëve, sipas pikës 2 të këtij neni, nuk kthehet mbështetja financiare e përfituar.
+4. Pranimi i kërkesave nga institucionet e formimit profesional, publik apo privat, bëhet brenda fondit të alokuar, sipas programit të miratuar, sipas pikës 2, të nenit 2, të këtij vendimi.
+5. AKPA-ja nëpërmjet strukturave të saj monitoron institucionet publike apo private të formimit profesional gjatë zbatimit dhe në përfundim të kursit.

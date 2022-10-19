@@ -1,0 +1,6 @@
+# Neni 3
+1. Kurset e formimit profesional synojnë kualifikimin dhe rikualifikimin e punëkërkuesve, me qëllim përgatitjen për integrim të shpejtë në tregun e punës dhe kanë një kohëzgjatje nga 3 deri në 12 muaj.
+2. Nga mbështetja financiare përfitojnë të gjithë punëkërkuesit, si më poshtë vijon:
+a) Pjesëmarrësit punëkërkues të papunë të regjistruar, sipas pikës 14 , të nenit 3, të ligjit nr. 15/2019, “Për nxitjen e punësimit”, financohen në masën 100%, por, në asnjë rast, më të lartë se 300 000 (treqind mijë) lekë të kostos së kursit të formimit profesional;
+b) Çdo pjesëmarrës punëkërkues, sipas pikave 13 dhe 15, të nenit 3, të ligjit nr. 15/2019, “Për nxitjen e punësimit”, financohet në vlerën 50% të kostos së kursit të formimit profesional, por, në asnjë rast, më të lartë se 150 000 (njëqind e pesëdhjetë mijë) lekë.
+3. Për personat me aftësi të kufizuara, institucionit të formimit profesional, publik apo privat, i financohen elementet e përshtatjes së arsyeshme, për sa u përket programeve të veçanta të trajnimit, kurrikulës së përshtatur, në përputhje me shkallën dhe llojin e aftësisë së kufizuar, përgatitjen e instruktorëve për të ofruar trajnim të posaçëm për këtë kategori, deri në shumën 200 000 (dyqind mijë) lekë.
