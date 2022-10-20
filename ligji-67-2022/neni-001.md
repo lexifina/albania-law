@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet memorandumi i mirëkuptimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Brendshme e Republikës së Shqipërisë, dhe qeverisë së Mbretërisë së Bashkuar të Britanisë së Madhe dhe Irlandës së Veriut, të përfaqësuar nga Ministria e Punëve të Brendshme, për shkëmbimin e informacionit për qëllime të lidhura me migracionin, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
