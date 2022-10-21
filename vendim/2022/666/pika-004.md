@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 7 164 536.75 (shtatë milionë e njëqind e gjashtëdhjetë e katër mijë e pesëqind e tridhjetë e gjashtë pikë shtatëdhjetë e pesë) lekësh, përballohet nga buxheti i Bashkisë Mallakastër.

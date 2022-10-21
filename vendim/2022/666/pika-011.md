@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Mallakastër, pezullon të gjitha transaksionet me pasuritë e shpronësuara deri në momentin e realizimit të procesit të hedhjes së gjurmës së projektit mbi hartën kadastrale të regjistrimit dhe të regjistrimit të aktit të kalimit të pronësisë për pasuritë e shpronësuara në favor të Bashkisë Mallakastër.
