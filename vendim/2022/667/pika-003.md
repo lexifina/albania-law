@@ -1,0 +1,1 @@
+3. Pronarët e pasurive pronë private, që shpronësohen, kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për pasuritë e llojit “truall” dhe “arë”, me një vlerë të përgjithshme prej 650 118 (gjashtëqind e pesëdhjetë mijë e njëqind e tetëmbëdhjetë) lekësh.
