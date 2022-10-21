@@ -1,0 +1,1 @@
+2. Ngarkohen për zbatimin e këtij udhëzimi, Ministria e Infrastrukturës dhe Energjisë, Agjencia Kombëtare e Ujësjellës-Kanalizimeve dhe Infrastrukturës së Mbetjeve, të gjitha shoqëritë e ujësjellës-kanalizime.
