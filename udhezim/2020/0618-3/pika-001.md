@@ -1,1 +1,0 @@
-1. Zbatimin e metodologjisë “Për kriteret dhe procedurat për shpërndarjen dhe përdorimin e subvencioneve shtetërore, për shoqëritë aksionare të ujësjellës-kanalizimeve për vitet buxhetore 2020 dhe 2021”, sipas aneksit 1 dhe aneksit 2, bashkëlidhur këtij udhëzimi.
