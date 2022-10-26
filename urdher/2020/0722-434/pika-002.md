@@ -24,7 +24,7 @@ iv. Ervina Lila
 c) Komisioni (KMCAP/KMVP) për verbëri:
 i. Vilma Mema
 (Okulist)
-ii. Julinda Jaho
+ii. Johana Vruho (okulist)
 (Okulist)
 iii. Anila Prifti
 (Jurist)
