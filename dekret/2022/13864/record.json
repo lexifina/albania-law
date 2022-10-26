@@ -1,0 +1,26 @@
+{
+  "qbz_id": 25074,
+  "title": "Për caktimin e datës së zgjedhjeve për organet e qeverisjes vendore",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "13864",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2022-10-24",
+  "published": "2022-10-26",
+  "in_force": "2022-10-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/fd6349decca630708e80497c3a59ee5da4703074006fa2ea92ba51c916ef2fbb.docx",
+  "source_sha256": "fd6349decca630708e80497c3a59ee5da4703074006fa2ea92ba51c916ef2fbb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25074",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2022/10/24/13864",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
