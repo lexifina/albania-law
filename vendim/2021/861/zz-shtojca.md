@@ -1,7 +1,7 @@
 # Shtojca
 SHTOJCA 1
 LISTA E PASURIVE
-(ndryshar me VKM-në nr. 494, datë 21.7.2022)
+(ndryshar me VKM-në nr. 494, datë 21.7.2022; hequr pasuritë me nr. 17/3, 17/10, 17/56 me VKM nr. 685, datë 26.10.2022)
 |Nr. rendor |Zona kadastrale |Numri i pasurisë |Pronari |Sipërfaqja (m2) |Sipërfaqja (m2) |
 | | | | |truall |ndërtesë |
 |1 |8514 |10/22 |Republika e Shqipërisë |177 | |
@@ -270,8 +270,6 @@ LISTA E PASURIVE
 | | | |Në administrim APD | | |
 |133 |8514 |16/9 |Republika e Shqipërisë |1827.7 | |
 | | | |Në administrim APD | | |
-|134 |8514 |17/10 |Republika e Shqipërisë |320 | |
-| | | |Në administrim APD | | |
 |135 |8514 |17/11 |Republika e Shqipërisë |1230 | |
 | | | |Në administrim APD | | |
 |136 |8514 |17/12 |Republika e Shqipërisë |690.6 |496.2 |
@@ -290,8 +288,6 @@ LISTA E PASURIVE
 | | | |Në administrim APD | | |
 |143 |8514 |17/24 |Republika e Shqipërisë |742 | |
 | | | |Në administrim APD | | |
-|144 |8514 |17/3 |Republika e Shqipërisë |117 | |
-| | | |Në administrim APD | | |
 |145 |8514 |17/34 |Republika e Shqipërisë |280 |280 |
 | | | |Në administrim APD | | |
 |146 |8514 |17/35 |Republika e Shqipërisë |1207.01 |1077.01 |
@@ -309,8 +305,6 @@ LISTA E PASURIVE
 |152 |8514 |17/48 |Republika e Shqipërisë |613.96 | |
 | | | |Në administrim APD | | |
 |153 |8514 |17/54 |Republika e Shqipërisë |400 | |
-| | | |Në administrim APD | | |
-|154 |8514 |17/56 |Republika e Shqipërisë |140 | |
 | | | |Në administrim APD | | |
 |155 |8514 |17/57 |Republika e Shqipërisë |780 | |
 | | | |Në administrim APD | | |
@@ -491,3 +485,51 @@ LISTA E PASURIVE
 |257 |8514 |9/21 |Republika e Shqipërisë | |526 |
 |258 |8514 |9/18 |Republika e Shqipërisë | |30 |
 |259 |8514 |9/22 |Republika e Shqipërisë | |400 |
+LISTA E PASURIVE
+|Nr. rendor |Zona kadastrale |Numri i pasurisë |Pronari |Sipërfaqja (m2) |Sipërfaqja (m2) |
+| | | | |truall |ndërtesë |
+|1 |8514 |11/16/ND10 |Republika e Shqipërisë. Në | |5352 |
+| | | |administrim APD | | |
+|2 |8514 |11/16/ND5 |Republika e Shqipërisë. Në | |18 |
+| | | |administrim APD | | |
+|3 |8514 |11/25/ND25 |Republika e Shqipërisë. Në | |14 |
+| | | |administrim APD | | |
+|4 |8514 |11/41/ND |Republika e Shqipërisë. Në | |91 |
+| | | |administrim APD | | |
+|5 |8514 |11/5/ND3 |Republika e Shqipërisë. Në | |353 |
+| | | |administrim APD | | |
+|6 |8514 |12/1/ND21 |Republika e Shqipërisë. Në | |160 |
+| | | |administrim APD | | |
+|7 |8514 |12/6/ND7 |Republika e Shqipërisë. Në | |336 |
+| | | |administrim APD | | |
+|8 |8514 |13/14/ND1 |Republika e Shqipërisë. Në | |50 |
+| | | |administrim APD | | |
+|9 |8514 |14/16/ND2 |Republika e Shqipërisë. Në | |13 |
+| | | |administrim APD | | |
+|10 |8514 |14/29/ND1 |Republika e Shqipërisë. Në | |72 |
+| | | |administrim APD | | |
+|11 |8514 |15/20/ND1 |Republika e Shqipërisë. Në | |137 |
+| | | |administrim APD | | |
+|12 |8514 |16/19/ND3 |Republika e Shqipërisë. Në | |64 |
+| | | |administrim APD | | |
+|13 |8514 |17/1-ND3 |Republika e Shqipërisë. Në | |51 |
+| | | |administrim APD | | |
+|14 |8514 |17/54/ND1 |Republika e Shqipërisë. Në | |317 |
+| | | |administrim APD | | |
+|15 |8514 |6/24/ND15 |Republika e Shqipërisë. Në | |133 |
+| | | |administrim APD | | |
+|16 |8514 |7/17/ND1 |Republika e Shqipërisë. Në | |27 |
+| | | |administrim APD | | |
+|17 |8514 |6/10/ND1 |Republika e Shqipërisë. Në | |45 |
+| | | |administrim APD | | |
+|18 |8514 |Plan rilevimi | |35 | |
+|19 |8514 |Plan rilevimi | |70 | |
+|20 |8514 |Plan rilevimi | |83 | |
+|21 |8514 |Plan rilevimi | |891 | |
+|22 |8514 |Plan rilevimi | |5216 | |
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
