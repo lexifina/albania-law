@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, në masën 160 121.49 (njëqind e gjashtëdhjetë mijë e njëqind e njëzet e një pikë dyzet e nëntë) lekë, përballohet nga Operatori i Shpërndarjes së Energjisë Elektrike.

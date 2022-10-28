@@ -1,0 +1,1 @@
+7. Pronarët e pasurive, pronë private, të pasqyruar në tabelën, që i bashkëlidhet këtij vendimi, kompensohen, për efekt shpronësimi, pasi paraqesin dokumentacionin justifikues për likuidim pranë Operatorit të Shpërndarjes së Energjisë Elektrike.
