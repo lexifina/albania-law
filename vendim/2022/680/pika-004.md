@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 1 425 312 (një milion e katërqind e njëzet e pesë mijë e treqind e dymbëdhjetë) lekësh përballohet nga shpenzimet e fondit të rindërtimit dhe i transferohet Bashkisë Vorë, në buxhetin e vitit 2022, në formën e transfertës së pakushtëzuar.

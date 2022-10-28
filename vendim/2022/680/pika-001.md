@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, në funksion të procesit të rindërtimit të godinës së kopshtit publik Vorë, Bashkia Vorë, sipas tabelës që i bashkëlidhet këtij vendimi.
