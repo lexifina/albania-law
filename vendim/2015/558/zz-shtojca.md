@@ -225,3 +225,30 @@ TOTALI
 1111.0
 10,200,880
 10,200,880
+NR.
+PRONARI
+Zona kad.
+Numri I pasurisë
+Sip. totale
+Lloji i pas.
+Sipërfaqe e shpronësuar
+Çmimi lek/m2
+Vlera totale (lek)
+Adresat
+Shënime
+Emri
+Atësia
+Mbiemri
+19
+Llambi Andon Tona
+8563
+2/150
+352
+Truall
+98
+7535
+738,430
+Bashkia Korçë
+Konfirmuar nga ASHK-JA
+Vlera
+738,430
