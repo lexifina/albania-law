@@ -1,0 +1,1 @@
+5. Agjencia publikon në faqen e saj të internetit thirrjen për subjektet që ofrojnë tregtimin dhe instalimin e sistemeve diellore. Afati i lejuar për dërgimin e dokumentacionit të nevojshëm për pjesëmarrje nga subjektet tregtare nuk mund të jetë më pak se 12 ditë pune.

@@ -1,0 +1,1 @@
+7. Klientët familjarë aplikojnë për përfitimin e financimit në platformën online të krijuar për këtë qëllim pranë Agjencisë. Aplikimi duhet të jetë në përputhje me kushtet dhe kriteret e përcaktuara në këtë udhëzim.

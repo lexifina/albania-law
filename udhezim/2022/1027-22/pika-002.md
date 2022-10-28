@@ -1,0 +1,1 @@
+2. Financimi përfshin 70% të vlerës së investimit. Financimi i masës mbështetëse bëhet vetëm nga të ardhurat për shërbime ndaj të tretëve, të arkëtuara nga Agjencia gjatë vitit buxhetor. Të ardhurat e Agjencisë për këtë qëllim, të cilat nuk janë shpenzuar gjatë vitit ushtrimor, në zbatim të aktit normativ, mbarten në vitin pasardhës.
