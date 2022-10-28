@@ -1,0 +1,1 @@
+2. Miratimin e dëmshpërblimit financiar për ish-të dënuarit politikë të dënuar me dënim kapital ose të ekzekutuar pa gjyq, sipas listës së përcaktuar në aneksin B, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
