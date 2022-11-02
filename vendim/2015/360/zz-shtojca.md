@@ -1,210 +1,351 @@
 # Shtojca
 ANEKSI I
-LISTA E SUBSTANCAVE QË JANË OBJEKT NDALIMI
-Pjesa A - Substancat e listuara në Konventë dhe në Protokoll
+PJESA A
+SUBSTANCAT E LISTUARA NË KONVENTË DHE NË PROTOKOLL, SI DHE SUBSTANCAT E LISTUARA VETËM NË KONVENTË
 Nr. rendor
 Emri i substancës
 Nr. CAS
-Kodi tarifor sipas NK Mallrave 2014
+Kodi tarifor sipas NK së mallrave
 Nr. KE
 Përjashtime specifike për përdorim të ndërmjetëm ose specifikime të tjera
-Eteri i Tetrabromodifenilit C12H6Br4O
+1
+Eteri i Tetrabromodifenilit
+(Tetrabromodiphenyl ether)
+C12H6Br4O
 40088-47-9
+dhe të tjera
 2909 30 38
-254-787-2
-Për qëllime të hyrjes së kësaj substance, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit zbatohet për përqendrimet e Eterit të Tetrabromodifenilit të barabarta me ose nën 10 mg/kg (0,001% të peshës), që ndodhen në substanca, përzierje ose si zëvendësues i pjesëve që gjenden në artikuj për parandalimin e zjarrit.
-2. Pa anashkaluar kërkesat e shkronjës “b”, të pikës 1, të përmendur më sipër, lejohet prodhimi, vendosja në treg dhe përdorimi:
-a) i artikujve dhe i përzierjeve që përmbajnë përqendrime të Eterit të Tetrabromodifenilit nën 0,1% të peshës, kur prodhohen pjesërisht ose plotësisht nga materiale të riciklueshme ose materiale nga mbetjet e përgatitura për ripërdorim;
-b) i pajisjeve elektrike dhe elektronike, në përputhje me legjislacionin që rregullon kufizimet dhe përdorimin e disa substancave të rrezikshme në pajisjet elektrike dhe elektronike.
-3. Lejohet përdorimi i artikujve, që janë në përdorim në vend, përpara datës 1 korrik 2015, që kanë Eter Tetrabromodifenili në përbërje.
-Eteri i Pentabromodifenilit C12H5Br5O
+254-787-2 dhe të tjera
+1. Për qëllime të hyrjes së kësaj substance, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e eterit të tetrabromodifenilit, që është i barabartë me ose nën 10 mg/kg (0,001 % të peshës), kur është i pranishëm në substanca.
+2. Për qëllime të hyrjes së substancave tetra-, penta-, hekza-, hepta- dhe dekabromodifenil, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e këtyre substancave deri në 500 mg/kg, që ndodhen në përzierje ose artikuj.
+3. Lejohet përdorimi i artikujve, që janë në përdorim në vend, përpara datës 1 korrik 2015, të cilat përmbajnë eter tetrabromodifenili në përbërje.
+2
+Eteri i Pentabromodifenilit
+(Pentabromodiphenyl ether)
+C12H5Br5O
 32534-81-9
+dhe të tjera
 2909 30 31
-251-084-2
-Për qëllime të hyrjes së kësaj substance, pika 1 (b), e seksionit 2, të kreut II, të vendimit, zbatohet për përqendrimet e Eterit të Pentabromodifenilit që është i barabartë me ose nën 10 mg/kg (0,001% të peshës), kur ndodhet në substanca, përzierje ose si zëvendësues i pjesëve që gjenden në artikuj për parandalimin e zjarrit.
-2. Pa anashkaluar kërkesat e pikës 1 (b), të përmendur më sipër, lejohet prodhimi, vendosja në treg dhe përdorimi:
-a) i artikujve dhe i përzierjeve që përmbajnë përqendrime të Eterit të Pentabromodifenilit nën 0,1% të peshës, kur prodhohen pjesërisht ose plotësisht nga materiale të riciklueshme ose materiale nga mbetjet e përgatitura për ripërdorim;
-b) i pajisjeve elektrike dhe elektronike, në përputhje me legjislacionin që rregullon kufizimet dhe përdorimin e disa substancave të rrezikshme në pajisjet elektrike dhe elektronike.
-3. Lejohet përdorimi i artikujve, që janë në përdorim në vend, përpara datës 1 korrik 2015, që kanë Eter Pentabromodifenili në përbërje.
-3.
-Eteri i Hekzabromodifenilit C12H4Br6O
+251-084-2 dhe të tjera
+1. Për qëllime të hyrjes së kësaj substance, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e eterit të pentabromodifenilit, që është i barabartë me ose nën 10 mg/kg (0,001 % të peshës), kur ndodhet në substanca.
+2. Për qëllime të hyrjes së substancave tetra-, penta-, hekza-, hepta- dhe dekabromodifenil, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e këtyre substancave deri në 500 mg/kg, që ndodhen në përzierje ose artikuj.
+3. Lejohet përdorimi i artikujve, që janë në përdorim në vend, përpara datës 1 korrik 2015, të cilat kanë eter pentabromodifenili në përbërje.
+3
+Eteri i Hekzabromodifenilit
+(Hexabromodiphenyl ether)
+C12H4Br6O
 36483-60-0
+dhe të tjera
 2909 30 38
-253-058-6
-1. Për qëllime të hyrjes së kësaj substance, pika 1 (b), të seksionit 2, të kreut II, të vendimit, zbatohet për përqendrimet e Eterit të Hekzabromodifenilit që është i barabartë me ose nën 10 mg/kg (0,001% të peshës), kur ndodhet në substanca, përzierje ose si zëvendësues i pjesëve që gjenden në artikuj për parandalimin e zjarrit.
-2. Pa anashkaluar kërkesat e pikës 1 (b), të përmendur më sipër, lejohet prodhimi, vendosja në treg dhe përdorimi:
-a) i artikujve dhe i përzierjeve që përmbajnë përqendrime të Eterit të Hekzabromodifenilit nën 0,1% të peshës, kur prodhohen pjesërisht ose plotësisht nga materiale të riciklueshme ose materiale nga mbetjet e përgatitura për ripërdorim;
-b) i pajisjeve elektrike dhe elektronike, në përputhje me legjislacionin që rregullon kufizimet dhe përdorimin e disa substancave të rrezikshme në pajisjet elektrike dhe elektronike.
-3. Lejohet përdorimi i artikujve, që janë në përdorim në vend, përpara datës 1 korrik 2015, që kanë Eter Hekzabromodifenili në përbërje.
-4.
-Eteri i Heptabromodifenilit C12H3Br7O
-68928-80-3
+253-058-6 dhe të tjera
+1. Për qëllime të hyrjes së kësaj substance shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e eterit të hekzabromodifenilit, që është i barabartë me ose nën 10 mg/kg (0,001% të peshës), kur është i pranishëm në substanca.
+2. Për qëllime të hyrjes së substancave tetra-, penta-, hekza-, hepta- dhe decaBDE, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për masën e përqendrimit të këtyre substancave deri në 500 mg/kg, që ndodhen në përzierje ose në artikuj.
+3. Lejohet përdorimi i artikujve, që janë në përdorim në vend, përpara datës 1 korrik 2015, të cilat kanë eter hekzabromodifenili në përbërje.
+4
+Eteri i Heptabromodifenilit
+(Heptabromodiphenyl ether)
+C12H3Br7O
+68928-80-3 dhe të tjera
 2909 30 38
-273-031-2
-Për qëllime të hyrjes së kësaj substance, pika 1 (b), e seksionit 2, të kreut II, të vendimit, zbatohet për përqendrimet e Eterit të Heptabromodifenilit që është i barabartë me ose nën 10 mg/kg (0,001% të peshës), kur ndodhet në substanca, përzierje ose si zëvendësues i pjesëve që gjenden në artikuj për parandalimin e zjarrit.
-2. Pa anashkaluar kërkesat e pikës 1(b), të përmendur më sipër, lejohet prodhimi, vendosja në treg dhe përdorimi:
-a) i artikujve dhe i përzierjeve që përmbajnë përqendrime të Eterit të Heptabromodifenilit poshtë 0,1% të peshës, kur prodhohen pjesërisht ose plotësisht nga materiale të riciklueshme ose materiale nga mbetjet e përgatitura për ripërdorim;
-b) i pajisjeve elektrike dhe elektronike, në përputhje me legjislacionin që rregullon kufizimet dhe përdorimin e disa substancave të rrezikshme në pajisjet elektrike dhe elektronike.
-3. Lejohet përdorimi i artikujve, që janë në përdorim në vend, përpara datës 1 korrik 2015, që kanë Eter të Heptabromodifenili në përbërje.
-5.
-Acidi Sulfonik i Perfluorooktaneve (PFOS) (3)
+273-031-2 dhe të tjera
+1. Për qëllime të hyrjes së kësaj substance, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e eterit të heptabromodifenilit, që është i barabartë me ose nën 10 mg/kg (0,001% të peshës), kur ndodhet në substanca.
+2. Për qëllime të hyrjes së substancave tetra-, penta-, hekza-, hepta- dhe decaBDE, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për masën e përqendrimit të këtyre substancave deri në 500 mg/kg, që ndodhen në përzierje ose në artikuj.
+3. Lejohet përdorimi i artikujve, që janë në përdorim në vend, përpara datës 1 korrik 2015, të cilat kanë eter heptabromodifenili në përbërje.
+5
+Eter bis(pentabromofenili) eter (dekabromodifenili; decaBDE)
+(Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE))
+1163-19-5
+2909 30 38
+214-604-9
+1. Për qëllime të hyrjes së kësaj substance, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e decaBDE, që janë të barabarta me ose nën 10 mg/kg (0,001 % të peshës), kur ndodhet në substanca.
+2. Për qëllime të hyrjes së substancave tetra-, penta-, hekza-, hepta- dhe decaBDE, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për masën e përqendrimit të këtyre substancave deri në 500 mg/kg, që ndodhen në përzierje ose në artikuj;
+3. Si përjashtim, lejohet prodhimi, vendosja në treg dhe përdorimi i decaBDE për qëllimet e mëposhtme dhe në përputhje me parashikimet e Konventës:
+a) në prodhimin e një mjeti ajror, për të cilin miratimi i tipit është kërkuar përpara datës 2 mars 2019 dhe është marrë përpara dhjetorit të vitit 2022, deri më 18 dhjetor 2023 ose, në rastet kur arsyetohet nevoja për shtyrje, deri më 2 mars 2027;
+b) në prodhimin e pjesëve të këmbimit për:
+i. një mjet ajror, për të cilin miratimi i tipit është kërkuar përpara datës 2 mars 2019 dhe është marrë përpara dhjetorit të vitit 2022, prodhuar përpara datës 18 dhjetor 2023 ose, në rastet kur arsyetohet nevoja për shtyrje, prodhuar përpara datës 2 mars 2027, deri në përfundim të kohëzgjatjes së shërbimit të atij mjeti ajror;
+ii) mjete motorike që janë objekt i udhëzimit të ministrit përgjegjës për transportin nr. 11, datë 30.5.2011, “Për miratimin e mjeteve motorike dhe rimorkiot e tyre dhe sistemet e komponentëve dhe njësitë e këmbyeshme të parashikuar për këto mjete”, prodhuar përpara datës 15 korrik 2019, ose deri në vitin 2036 apo deri në përfundim të kohëzgjatjes së shërbimit të këtyre mjeteve motorike, cilado datë që vjen e para;
+4. Përjashtimet specifike për pjesët e këmbimit të mjeteve motorike referuar në pikën 3(b)(ii) me sipër, zbatohen për prodhimin dhe përdorimin e decaBDE, që përkon me një ose më shumë nga kategoritë e mëposhtme:
+a) sistem transmisioni dhe lidhje nën kofanon e mjetit, siç janë përcjellësit e baterisë, kabllot ndërlidhëse të baterisë, tubat e lëvizshëm të ajrit të kondicionuar (MAC), sistemet e transmisionit, unazat e tubave të shkarkimit, izolimi nën kofano, lidhjet elektrike dhe rripat nën kofano (lidhjet elektrike në motor etj.), sensorët e shpejtësisë, zorra, njësi ventilimi dhe sensorët e trokitjes;
+b) aplikimet në sistemin e karburantit, siç janë tubat, serbatorët dhe serbatorët e karburantit nën trupin e mjetit;
+c) pajisje piroteknike dhe aplikime të ndikuara nga pajisje piroteknike, siç janë jastëku i ajrit, kabllot e ndezjes, mbulesat/veshjet e ndenjëseve (vetëm nëse janë të përshtatshme për jastëkun e ajrit) dhe jastëkët e ajrit (të përparmë dhe të pasmë).
+5. Lejohet përdorimi i artikujve, që janë në përdorim në vend, përpara hyrjes në fuqi të këtij vendimi, të cilat kanë decaBDE në përbërje.
+6. Pa cenuar zbatimin e parashikimeve të tjera të legjislacioneve që rregullojnë klasifikimin, etiketimin dhe ambalazhimin e kimikateve, artikujt në të cilët përdoren decaBDE do të identifikohen nëpërmjet etiketimit ose mënyrave të tjera gjatë ciklit të tyre të jetës.
+7. Lejohet vendosja në treg dhe përdorimi i artikujve që përmbajnë decaBDE, të importuar për qëllime të përjashtimeve specifike në pikën 3, me sipër, deri në datën e mbarimit të përjashtimit. Pika 6, zbatohet sikur këta artikuj të ishin prodhuar në përputhje me përjashtimin në pikën 3. Artikuj të tillë që janë në përdorim deri në datën e mbarimit të përjashtimit përkatës mund të vazhdojnë të përdoren.
+8. Për qëllime të kësaj hyrjeje, “mjet ajror” nënkupton si më poshtë:
+a) mjet ajror civil i prodhuar në përputhje me certifikatën e tipit të lëshuar sipas udhëzimit të ministrit përgjegjës për transportin nr. 3, datë 7.2.2011, “Për rregullat e përbashkëta në fushën e Aviacionit Civil”, të ndryshuar, ose me miratimin e projektimit të lëshuar sipas rregulloreve kombëtare të një shteti nënkontraktues të Organizatës Ndërkombëtare të Aviacionit Civil ((ICAO), ose për të cilin është lëshuar një certifikatë e vlefshmërisë ajrore nga një Shtet Kontraktues i ICAO-s, sipas aneksit 8 të Konventës për Aviacionin Civil Ndërkombëtar;
+b) mjet ajror ushtarak.
+6
+Acidi sulfonik i perfluorooktanit dhe derivatët e vet (PFOS)
+(Perfluorooctane sulfonic acid and its derivatives (PFOS)
 C8F17SO2X
-X = OH,
-kripëra metalike (O-M+),
-halide, amide dhe derivate të tjera, duke përfshirë polimeret
+(X = OH, kripëra metalike (O-M+), halide, amide, dhe derivate të tjera, duke përfshirë polimeret)
 1763-23-1
-2904 90 95
-----
-1. Për qëllime të hyrjes së kësaj substance, pika 1 (b), e seksionit 2, të kreut II, të vendimit zbatohet për përqendrimet e PFOS-ve, që është i barabartë me ose nën 10 mg/kg (0,001% të peshës), kur ajo ndodhet në substanca ose në përzierje.
-2. Për qëllime të hyrjes së kësaj substance, pika 1 (b), e seksionit 2, të kreut II, të vendimit, zbatohet për përqendrimet e PFOS-ve, që gjenden në produkte gjysmë të gatshme apo artikuj ose pjesë të tyre, nëse përqendrimi i PFOS-ve është më i ulët se 0,1% e peshës, e llogaritur duke u bazuar në masën e pjesëve të dallueshme strukturore ose mikrostrukturore, që përmbajnë PFOS ose, për tekstil ose materiale të tjera të veshura, nëse shuma e PFOS-ve është më e ulët sesa 1 mg/m2 i materialit të veshur.
-3. Lejohet përdorimi i artikujve, që janë në përdorim në vend, përpara datës 1 korrik 2015, që kanë PFOS në përbërje.
-4. Lejohet përdorimi, deri në vitin 2018, i shkumave që shërbejnë për fikjen e zjarrit, të cilat janë vendosur në treg para 27 dhjetorit 2006.
-5. Lejohet prodhimi dhe vendosja në treg për përdorimet e veçanta, të parashikuara më poshtë, në rast se sasia e çliruar në mjedis minimizohet. Agjencia Kombëtare e Mjedisit mban database të parashikuar në pikën 1, të seksionit 5, të kreut III, dhe raporton, çdo katër vjet, mbi progresin e bërë për të eliminuar PFOS-të:
-deri më 1 korrik 2018, agjentët lagës që përdoren në sistemet e kontrollluara elektrodike;
-veshje fotoresistente apo antireflektuese për proceset fotolitografike;
-veshjet fotografike që përdoren në filma, letra ose pjata printimi;
-ç) avujt e shtypur që përdoren për veshjet jodekorative me krom (VI), në sisteme të mbyllura;
-d) lëngjet hidraulike për aviacionin.
-Në rastin kur përjashtimet e parashikuara në shkronjat “a” deri “d”, të përmendura më sipër, përbëjnë shqetësim për prodhimin ose përdorimin në një instalim industrial, në përputhje me legjislacionin “Për lejet e mjedisit”, zbatohen teknikat përkatëse me të mira të disponueshme (TMD), për parandalimin dhe minimizimin e shkarkimeve të PFOS-ve.
-Mbi bazën e informacioneve të reja për përdorimin dhe alternativat e sigurta të substancave, ose teknologjive për përdorimet sipas shkronjave “b” deri në “e”, Ministria rishikon përjashtimet e përcaktuara, në mënyrë që:
-i) PFOS-të të hiqen nga përdorimi sapo përdorimi i alternativave më të sigurta të jetë teknikisht dhe ekonomikisht i mundur;
-ii) format përjashtimore të vazhdojnë të përdoren vetëm për përdorim thelbësor, për të cilat ende nuk ekziston një alternativë e sigurt;
-iii) çlirimet e PFOS-ve në mjedis të jenë minimizuar nëpërmjet përdorimit të TMD-së;
-6. Drejtoria e Përgjithshme e Standardeve miraton standardet (bazuar në metodat e miratuara nga Komiteti Evropian për Standardizim CEN) për metodat analitike të testimit për të treguar konformitetin e substancave, përzierjeve dhe artikujve të përmendur në pikat 1 dhe 2.
-6.
+2795-39-3
+29457-72-5
+29081-56-9
+70225-14-8
+56773-42-3
+251099-16-8
+4151-50-2
+31506-32-8
+1691-99-2
+24448-09-7
+307-35-7 dhe të tjera
+2909 30 38
+2904 34 00
+2904 32 00
+2922 16 00
+2923 30 00
+217-179-8
+220-527-1
+249-644-6
+249-415-0
+274-460-8
+260-375-3
+223-980-3
+250-665-8
+216-887-4
+246-262-1
+206-200-6
+dhe të tjera
+1. Për qëllime të hyrjes së kësaj substance, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e PFOS-së, që janë të barabarta me ose nën 10 mg/kg (0,001 % të peshës), kur ndodhet në substanca ose në përzierje.
+2. Për qëllime të kësaj hyrjeje, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e PFOS-së në produkte ose artikuj gjysmë të gatshëm, ose pjesë të tyre, nëse përqendrimi i PFOS-së është më i ulët sesa 0,1% e peshës së përllogaritur, duke marrë si referencë masën e pjesëve të veçanta të strukturuara ose mikro të strukturuara që përmbajnë PFOS, ose për tekstile apo materiale të veshura, nëse sasia e PFOS është më e ulët se sa 1 μg/m2 e materialit të veshur.
+3. Lejohet përdorimi i artikujve, që janë në përdorim në vend, përpara datës 1 korrik 2015, të cilat kanë PFOS në përbërje.
+4. Nëse sasia e çliruar në mjedis është zvogëluar, prodhimi dhe vendosja në treg lejohet deri më 7 shtator 2025, për t’u përdorur për kontrollin e avullit nga veshjet me krom të ashpër jodekorativ (VI) në sistemet me qark të mbyllur.
+Kur një përjashtim i tillë përben shqetësim për prodhimin ose përdorimin në një instalim industrial që rregullohet sipas ligjit nr. 10488, datë 14.7.2011, “Për lejet e mjedisit”, të ndryshuar, zbatohen teknikat përkatëse më të mira në dispozicion për parandalimin dhe minimizimin e shkarkimeve të PFOS-së, në përputhje me atë legjislacion.
+5. Standardet e miratuara nga Komiteti Evropian për Standardizimin (CEN), dhe/ose me Standardet Shqiptare (SSH), që janë adoptime të Standardeve Evropiane (EN), të miratuara nga Drejtoria e Përgjithshme e Standardizimit (DPS), përdoren si metoda analitike testimi për të treguar përputhshmërinë e substancave, përzierjeve dhe artikujve të pikave 1 dhe 2. Çdo metodë tjetër analitike për të cilën përdoruesi mund të tregojë performancë ekuivalente mund të përdoret si alternativë për standardet CEN dhe/ose SSH.
+7
 DDT
-(1,1,1-trikloro-2,2-bis(4-klorofenol)
-etani)
+(1,1,1-trikloro-2,2-bis(4- klorofenol) etani)
+((1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane))
 50-29-3
-2903 92 00*
+2903 92 00
 200-024-3
 -
-7.
-Klordane
+8
+Klordan
+(Chlordane)
 57-74-9
-2903 82 00*
+2903 82 00
 200-349-0
 -
-8.
+9
 Hekzaklorciklohekzani, përfshirë lindanin
+(Hexachlorocyclohexanes, including lindane)
 58-89-9
-319-84-6
-319-85-7
-608-73-1
 2903 81 00
 200-401-2
+319-84-6
 206-270-8
+319-85-7
 206-271-3
+608-73-1
 210-168-9
---
-9.
+10
 Dieldrin
 60-57-1
 2910 40 00
 200-484-5
 -
-10.
+11
 Endrin
 72-20-8
 2910 90 00
 200-775-7
 -
-11.
+12
 Heptaklor
+(Heptachlor)
 76-44-8
 2903 82 00
 200-962-3
 -
-12.
+13
 Endosulfan
 115-29-7
+959-98-8
 33213-65-9
-2920 90 85
+2920 30 00
 204-079-4
-13.
-Hekzaklorbenzeni
+Lejohet vendosja në treg dhe përdorimi i artikujve që janë në përdorim përpara ose deri në datën 1 korrik 2015, që përmbajnë endosulfan.
+14
+Hekzaklorobenzeni
+(Hexachlorobenzene)
 118-74-1
 2903 92 00
-200-273-9
+204-273-9
 -
-14.
-Klordekone
+15
+Klordekoni
+(Chlordecone)
 143-50-0
-2914 70 00
 205-601-3
-15.
+-
+16
 Aldrin
 309-00-2
-2903 82 00*
+2903 82 00
 206-215-8
 -
-16.
+17
 Pentaklorobenzeni
+(Pentachlorobenzene)
 608-93-5
 2903 82 00
-210-172-5
-17.
-Bifenile të Poliklorinuara (PCB)
+210-172-0
+-
+18
+Bifenile të Poliklorinuara
+(Polychlorinated Biphenyls)
+(PCB)
 1336-36-3
-dhe të tjerë
+dhe të tjera
 2903 92 00
-215-648-1
-dhe të tjerë
-Lejohet përdorimi i artikujve që janë në përdorim në momentin e hyrjes në fuqi të këtij vendimi pa rënë ndesh me kërkesat e përcaktuara në legjislacionin specifik për PCB/PCT.
-18.
-Mireks(4)
+215-648-1 dhe të tjera
+Lejohet përdorimi i artikujve që janë në përdorim në momentin e hyrjes në fuqi të këtij vendimi, pa rënë ndesh me VKM-në nr. 387, datë 6.5.2015, “Për miratimin e rregullave për kontrollin e asgjësimit të PCB-ve, çndotjen apo asgjësimin e pajisjeve që përmbajnë PCB dhe/ose asgjësimin e mbetjeve të PCB-ve të përdorura”.
+Institucionet përgjegjëse identifikojnë dhe heqin nga përdorimi pajisje (p.sh., transformatorë, kondensatorë ose enë që mbajnë stoqe lëngjesh) që përmbajnë më shumë se sa 0,005% PCB dhe vëllime më të mëdha sesa 0,05 dm3, sa më shpejt që është e mundur, por jo më vonë se data 31 dhjetor 2025.
+19
+Mireks
+(Mirex)
 2385-85-5
-2903 99 90
 219-196-6
-19.
+-
+20
 Toksafen
-8001-35-2
-3808 50 00
+(Toxaphen)
+001-35-2
 232-283-3
 -
-20.
-Hekzabromobifenilet
+21
+Hekzabromobifenil
+(Hexabromobiphenyl)
 36355-01-8
-2903 99 90.
+2903 99 90
 252-994-2
-_____
-(1) GZ L 37, 13.2.2003, f. 19.
-(2) GZ L 24, 29.1.2008, f. 8.
-(3)”Acidi Sulfonik i Perfluorooktaneve dhe derivatet e tij” (PFOS), është anion plotësisht i fluorinuar, i cili është përdorur gjerësisht si një kripë ose e inkorporuar në polimere të mëdhenj. PFOS dhe komponimet e tij janë pjesë e një familjeje të madhe të substancave perfluoroalkil sulfonate. Në kuadër të Konventës së Stokholmit, Acidi Sulfonik i Perfluorooktaneve dhe derivatet e tij (PFOS) është identifikuar me nr. CAS: 1763-23-1.
-(4) Në kuadër të Konventës së Stokholmit, substanca “Mireks”, është identifikuar me numrin CAS 2385-85-5.
-Pjesa B - Substancat e listuara vetëm në Protokoll
-Nr.
-rendor
-Emri i substancës
-Nr. CAS
-Kodi tarifor sipas NK Mallrave 2014
-Nr. KE
-Përjashtime specifike për përdorim të ndërmjetëm ose specifikime të tjera
-Hekzaklorobutadien
+-
+22
+Hekzabromociklododekani
+Hexabromocyclododecane)
+“Hekzabromociklododekani” do të thotë:
+hekzabromociklododekan
+1,2,5,6,9,10-hexab
+romociklododekani
+dhe diastereomeret e tij
+kryesore: alfa-
+hekzabromociklo
+dodekani; beta-
+hekzabromociklo
+dodekani; dhe
+gama-hekzabromo
+ciklododekani
+25637-99-4
+3194-55-6,
+134237-50-6
+134237-51-7
+134237-52-8
+2903 89 80
+3824 99 92
+247-148-4,
+221-695-9
+1. Për qëllime të hyrjes së kësaj substance, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrime të hekzabromociklododekanit të barabarta me ose nën 100 mg/kg (0,01 % të peshës) kur ndodhet në substanca, përzierje, artikuj ose në përbërje të artikujve rezistentë ndaj flakës.
+2. Artikujt prej polistireni të zgjeruar që përmbajnë hekzabromociklododekan, që janë tashmë në përdorim në ndërtesa përpara datës 21 shkurt 2018, dhe artikujt prej polistireni të ekstruduar që përmbajnë hekzabromociklododekan tashmë në përdorim në ndërtesa përpara datës 23 korrik 2016, mund të vazhdojnë të përdoren.
+3. Pa cenuar zbatimin e dispozitave të tjera të legjislacionit për klasifikimin, paketimin dhe etiketimin e kimikateve, polistireni i zgjeruar i vendosur në treg pas datës 23 mars 2016, në të cilin është përdorur hekzabromociklododekan, identifikohet nëpërmjet etiketimit ose mënyrave të tjera gjatë ciklit të tyre të jetës.
+23
+Hekzaklorobu-tadieni
+(Hexachlorobutadiene)
 87-68-3
-2903 29 00
+Për t’u përcaktuar sipas NKM
 201-765-5
-1. Lejohet, deri më 1 korrik 2016, vendosja në treg dhe përdorimi i artikujve të prodhuar para ose deri më 1 korrik 2015, që kanë Hekzaklorbutadiene në përbërje.
-2. Lejohet vendosja në treg dhe përdorimi i artikujve që janë në përdorim që përpara ose deri më 1 korrik 2015, që kanë Hekzaklorbutadiene në përbërje.
-Naftalene të Poliklorinuara(1)
-1. Lejohet, deri më 1 korrik 2016, vendosja në treg dhe përdorimi i artikujve të prodhuar para ose deri më 1 korrik 2015, që përmbajnë Naftalene të Poliklorinuara në përbërje.
-2. Lejohet vendosja në treg dhe përdorimi i artikujve që janë në përdorim që përpara ose deri më 1 korrik 2015, që përmbajnë Naftalene të Poliklorinuara si përbërës në artikuj.
-Alkanet,
-С10-С13 kloro
-parafinat e klorinuara. (parafina të klorinuara me zinxhir të shkurtër) (SCCPs)
+Lejohet vendosja në treg dhe përdorimi i artikujve që janë në përdorim përpara ose deri me 1 korrik 2015, që përmbajnë hekzaklorobutadien.
+24
+Pentaklorofenoli dhe kripërat dhe esteret e tij
+(Pentachlorophenol and its salts and esters)
+87-86-5
+dhe të tjera
+2903 29 00
+201-778-6 dhe të tjera
+Për qëllime të hyrjes së kësaj substance, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e pentaklorofenolit dhe të kripërave dhe estereve të tij, që janë të barabarta me ose nën 5 mg/kg (0,0005 % të peshës), kur ndodhen në substanca, përzierje ose artikuj.
+25
+Naftalene të Poliklorinuara
+(Polychlorinated naphthalenes ) (7)
+70776-03-3
+dhe të tjera
+274-864-4 dhe të tjera
+Lejohet vendosja në treg dhe përdorimi i artikujve që janë në përdorim përpara ose deri me 1 korrik 2015, që përmbajnë naftalene të poliklorinuara.
+26
+Alkanet C10-C13, kloro parafinat e klorinuara (parafina të klorinuara me zinxhir të shkurtër) (SCCP)
+(Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs))
 85535-84-8
+dhe të tjera
 3824 90 97
 287-476-5
-1. Lejohet prodhimi, hedhja në treg dhe përdorimi i substancave ose i përzierjeve që kanë SCCP në përbërje, në përqendrime me të ulëta se 1% e peshës.
-2. Lejohet prodhimi, hedhja në treg dhe përdorimi i aplikimeve të mëposhtme:
-a) në parandaluesit e zjarrit në gomat që përdoren në rripat e transmisionit në industrinë minerare,
-b) në parandaluesit e zjarrit në ngjitësit që përdoren në diga, pellgje.
-Agjencia Kombëtare e Mjedisit mban database të parashikuar në pikën 1, të seksionit 5, të kreut III, dhe raporton çdo katër vjet mbi progresin e bërë për të eliminuar SCCP-të.
-3. Lejohet, deri më 1 korrik 2016, vendosja në treg dhe përdorimi i artikujve të prodhuar para ose deri më 1 korrik 2015, që përmbajnë SCCP.
-2. Lejohet vendosja në treg dhe përdorimi i artikujve që janë në përdorim që përpara ose deri më 1 korrik 2015, që përmbajnë SCCP si përbërës në artikuj.
-Mbi bazën e informacioneve të reja mbi përdorimin dhe alternativat e sigurta të substancave ose teknologjive për përdorimet e artikujve të përmendur në pikën 2, Ministria rishikon përjashtimet e përcaktuara, me qëllim heqjen nga përdorimi të SCCPs-ve.
-1. Naftalene të poliklorinuara, nënkupton komponimet kimike që përbëhen nga sistemi unazor i naftalinës, ku një ose më shumë atome hidrogjeni zëvendësohen nga atome klori.
+1. Si përjashtim, lejohet prodhimi, vendosja në treg dhe përdorimi i substancave ose përzierjeve që përmbajnë SCCP në përqendrime më të ulëta se sa 1% të peshës, ose artikuj që përmbajnë SCCP në përqendrime më të ulëta sesa 0,15% të peshës.
+2. Lejohet përdorimi, për:
+a) Shiritat transportues në industrinë minerare dhe izolues për diga, që përmbajnë SCCP tashmë në përdorim përpara ose deri në datën e fillimit të zbatimit të këtij vendimi; dhe
+b) artikuj që përmbajnë SCCP, të ndryshëm nga ata të përmendur në germën “a”, tashmë në përdorim përpara ose deri më 1 korrik 2015.
+27
+Acidi perfluorooktanoik (PFOA), kripërat e tij dhe komponimet lidhur me PFOA
+(Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds)
+“Acidi perfluorooktanik (PFOA), kripërat e tij dhe komponimet lidhur me PFOA” nënkuptojnë si më poshtë:
+i. acid perfluorooktanik, duke përfshirë polimeret e tij
+ii. kripërat e tij;
+iii. komponime të lidhura me PFOA, të cilat, për qëllime të Konventës, janë substanca që shpërbëhen në PFOA,
+duke përfshirë çdo substancë (përfshi kripërat dhe polimeret) që ka një grup linear ose të degëzuar perfluoroheptil me formulë (C7F15)C e lidhur direkt me një atom tjetër të karbonit, si një nga elementët strukturorë.
+Komponimet e mëposhtme nuk përfshihen si komponime të lidhura me PFOA:
+i. C8F17-X,
+ku X = F, Cl, Br;
+ii. fluoropolimeret që përfshihen nga CF3[CF2]n-R’,
+ku R’=çdo grup, n> 16;
+iii. acide karboksilike perfluoroalkil (duke përfshirë kripërat, esteret, halidet dhe anhidridet e tyre) me ≥ 8 karbone të perfluorinuara;
+iv. acide sulfonike perfluoroalkane dhe acide perfluoro-fosforike (duke përfshirë kripërat, esteret, halidet dhe anhidridet e tyre) me ≥ 9 karbone të perfluorinuara;
+v. acidi sulfonik i perfluorooktaneve dhe derivatet e tij (PFOS), siç renditet në këtë aneks.
+335-67-1
+dhe të tjera
+Për t’u përcaktuar sipas NKM
+206-397-9
+dhe të tjera
+1. Për qëllime të hyrjes së kësaj substance, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e PFOA ose të kripërave të saj, që janë të barabarta me ose nën 0,025 mg/kg (0,0000025% të peshës), kur ndodhen në substanca, përzierje ose artikuj.
+2. Për qëllime të kësaj hyrjeje, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e komponimeve individuale lidhur me PFOA ose të kombinimeve të komponimeve lidhur me PFOA, që janë të barabarta me ose nën 1 mg/kg (0,0001% të peshës), kur ndodhen në substanca, përzierje ose artikuj.
+3. Për qëllime të hyrjes së kësaj substance, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e komponimeve lidhur me PFOA, që janë të barabarta me ose nën 20 mg/kg (0,002% të peshës), kur ndodhen në një substancë që përdoret si Ndërmjetës i izoluar i transportuar sipas kuptimit të pikës 1.28(iii), neni 5, kreu I, i ligjit 27/2016, “Për menaxhimin e kimikateve”, dhe duke përmbushur në mënyrë strikte kushtet e kontrolluara të përcaktuara, sipas legjislacionit në fuqi për prodhimin e fluorokimikateve me anë të zinxhirit të perfluorokarbonit të barabartë me ose më të shkurtër sesa 6 atome.
+4. Për qëllime të hyrjes së kësaj substance, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e PFOA dhe kripërave të saj të barabarta me ose nën 1mg/kg (0,0001 % e peshës), kur ato janë të pranishme në mikropudër politetrafluoroetileni (PTFE), prodhuar nëpërmjet rrezatimit jonizues ose shpërbërjes termike, si dhe në përzierje dhe artikuj për përdorime industriale dhe profesionale, që përmbajnë mikropudër PTFE. Të gjitha shkarkimet e PFOA-së gjatë prodhimit dhe përdorimit të mikropudrës PTFE duhet të shmangen dhe, nëse është e mundur, të reduktohen sa më shumë që të jetë e mundur.
+5. Si përjashtim, lejohet prodhimi, vendosja në treg dhe përdorimi i PFOA-së, kripërave të saj dhe komponimeve lidhur me PFOA për qëllimet e mëposhtme:
+a) në proceset fotolitografike ose në proceset zinkografike në prodhimin e gjysmëpërçuesit, deri më 4 korrik 2025;
+b) në veshjet fotografike që aplikohen në filma, deri më 4 korrik 2025;
+c) tekstile të papërshkueshme nga vaji dhe uji për mbrojtjen e punëtorëve nga lëngjet e rrezikshme që përbëjnë rrezik për shëndetin dhe sigurinë e tyre, deri më 4 korrik 2023;
+d) pajisje mjekësore invazive dhe të implantueshme, deri më 4 korrik 2025;
+e) prodhimi i politetrafluoroetilenit (PTFE) dhe fluorid polivinilidenit (PVDF) për prodhimin e:
+i. membranave të filtrit të gazit rezistente ndaj korrozionit dhe me performancë të lartë, membranave të filtrit të ujit dhe membranave për tekstilet mjekësore;
+ii. pajisjeve të shkëmbimit të nxehtësisë për mbetjet industriale,
+iii. izoluesve industrialë që parandalojnë rrjedhjen e komponimeve organike të paqëndrueshme dhe të grimcave PM2.5;
+deri më 4 korrik 2023.
+6. Si përjashtim, lejohet përdorimi i PFOA-së, kripërave të saj dhe komponimeve lidhur me PFOA-në në shkumat kundër zjarrit për fikjen e avujve të karburantit të lëngshëm dhe të zjarrit nga karburanti i lëngshëm (zjarre të klasës B), tashmë të instaluar në sisteme, duke përfshirë si sistemet e lëvizshme ashtu dhe ato fikse, deri më 4 korrik 2025, sipas kushteve të mëposhtme:
+a) shkuma kundër zjarrit që përmban ose mund të përmbajë PFOA, kripërat e saj dhe/ose komponime lidhur me PFOA nuk përdoret për trajnime;
+b) shkuma kundër zjarrit që përmban ose mund të përmbajë PFOA, kripërat e saj dhe/ose komponime lidhur me PFOA nuk përdoret për testime përveçse nëse kufizohen të gjitha çlirimet;
+c) që nga 1 janari 2023, përdorimet e shkumës kundër zjarrit që përmban ose mund të përmbajë PFOA, kripërat e saj dhe/ose komponime lidhur me PFOA lejohen vetëm në zona ku kufizohen të gjitha çlirimet;
+d) stoqet e shkumave kundër zjarrit që përmbajnë ose mund të përmbajnë PFOA, kripërat e saj dhe/ose komponime lidhur me PFOA, menaxhohen në përputhje me seksionin I, kreu III, i vendimit 360/2015.
+7. Si përjashtim, lejohet përdorimi i bromidit perfluoroktil (perfluooroctyl bromide), që përmban jodur perfluoroktil (perfluoroctyl iodide) për qëllime të prodhimit të produkteve farmaceutike.
+8. Lejohet përdorimi i artikujve, që janë në përdorim në vend, përpara datës së zbatimit të këtij vendimi, të cilat kanë PFOA, kripërat e saj dhe/ose komponime lidhur me PFOA-në në përbërje.
+9. Si përjashtim, lejohet prodhimi, vendosja në treg dhe përdorimi i PFOA-së, kripërave të saj dhe komponimeve lidhur me PFOA deri në datën e fillimit të zbatimit të këtij vendimi, për qëllimet e mëposhtme:
+a) pajisje mjekësore, të ndryshme nga ato të implantueshme, që janë objekt i legjislacionit për pajisjet mjekësore;
+b) bojëra printimi lateks;
+c) nanoveshjet e plazmës.
+10. Për qëllime të kësaj hyrje, shkronja “b”, e pikës 1, të seksionit 2, të kreut II, të vendimit 360/2015, zbatohet për përqendrimet e PFOA dhe kripërave të saj, dhe/ose komponimeve lidhur me PFOA, që janë të barabarta me ose nën 2 mg/kg (0,0002% të peshës), kur ndodhen në pajisje mjekësore të ndryshme nga pajisjet invazive dhe ato implantuese.
+28
+Dikofoli
+(Dicofol)
+115-32-2
+2906 29 00
+204-082-0
+Asnjë.
+PJESA B
+SUBSTANCAT E LISTUARA VETËM NË PROTOKOLL
+Emri i substancës
+Nr. CAS
+Nr. KE
+Përjashtime specifike për përdorim të ndërmjetëm ose specifikime të tjera
 ANEKSI II
+ANEKSI III
+1. Naftalene të poliklorinuara, nënkupton komponimet kimike që përbëhen nga sistemi unazor i naftalinës, ku një ose më shumë atome hidrogjeni zëvendësohen nga atome klori.
 LISTA E SUBSTANCAVE SUBJEKT I MASAVE PËR REDUKTIMIN
 E SHKARKIMEVE
 Emri i substancës
@@ -236,7 +377,6 @@ Benzo(k)floraten dhe
 Inden(1,2,3-cd) piren.
 193-39-5
 Hidrokarbure Policiklike Aromatike (PAH), i referohet një grupi komponimesh kimike, organike të qëndrueshme në mjedis me struktura dhe toksicitet të ndryshëm. PAH mund të ekzistojnë në mbi 100 kombinime të ndryshme. Këto substanca krijohen dhe çlirohen në atmosferë gjatë procesit të djegies jo të plotë të produkteve, si: qymyri, nafta, gazi dhe mbetjeve. Katër substancat e fundit në aneksin II (PAH), do të përdoren për përgatitjen e inventarëve të shkarkimeve në ajër.
-ANEKSI III
 LISTA E SUBSTANCAVE, SUBJEKT I MENAXHIMIT TË MBETJEVE
 (referuar seksionit 2, të kreut III)
 Nr. Rendor
@@ -353,123 +493,129 @@ Hekzabromobifenilet
 252-994-2
 50 mg/kg
 1. Aty ku aplikohet, duhet të përdoren/aplikohen metodat llogaritëse të përcaktuara e standardet evropiane EN 12766-1 dhe EN 12766-2.
-2. Limiti është llogaritur si PCDD dhe PCDF sipas faktorëve ekuivalentë toksikë (FET) të mëposhtëm:
+2. Limiti është llogaritur si PCDD dhe PCDF sipas Faktorëve Ekuivalentë Toksikë (FET) të mëposhtëm:
+PCDD
+FET
+PCDF
+FET
 PCDD
 FET
 2,3,7,8-TeCDD
 1
-1,2,3,7,8-PeCDD
-1
-1,2,3,4,7,8-HxCDD
-0.1
-1,2,3,6,7,8-HxCDD
-0.1
-1,2,3,7,8,9-HxCDD
-0.1
-1,2,3,4,6,7,8-HpCDD
-0.01
-OCDD
-0.0003
-PCDF
 2,3,7,8-TeCDF
-0.1
-1,2,3,7,8-PeCDF
-0,03
-2,3,4,7,8-PeCDF
-0,3
-1,2,3,4,7,8-HxCDF
 0,1
-PCDF
 1,2,3,6,7,8-HxCDF
 0,1
+1,2,3,7,8-PeCDD
+1
+1,2,3,7,8-PeCDF
+0,03
 1,2,3,7,8,9-HxCDF
 0,1
+1,2,3,4,7,8-HxCDD
+0,1
+2,3,4,7,8-PeCDF
+0,3
 2,3,4,6,7,8-HxCDF
+0,1
+1,2,3,6,7,8-HxCDD
+0,1
+1,2,3,4,7,8-HxCDF
 0,1
 1,2,3,4,6,7,8-HpCDF
 0,01
+1,2,3,7,8,9-HxCDD
+0,1
 1,2,3,4,7,8,9-HpCDF
 0,01
+1,2,3,4,6,7,8-HpCDD
+0,01
 OCDF
-0.0003
+0,0003
+OCDD
+0,0003
+3. Zbatohet metoda e llogaritjes e përcaktuar në standardet evropiane EN 12766-1 dhe EN 12766-2.
+4.“Hekzabromociklododekani” do të thotë hekzabromociklododekan, 1,2,5,6,9,10-hekzabromociklododekan dhe diastereomeret e tij kryesore: alfa-hekzabromociklododekan, beta-hekzabromociklododekan dhe gama-hekzabromociklododekan.
 ANEKSI IV
 MENAXHIMI I MBETJEVE
 PJESA 1
 ASGJËSIMI DHE RIKUPERIMI
-Zbatimi i operacioneve të mëposhtme të asgjësimit dhe të rikuperimit, për qëllime të pikës 2, të seksionit 2, të kreut III, sigurojnë që përmbajtja e ndotësve organikë të qëndrueshëm është shkatërruar ose është transformuar në mënyre të pakthyeshme:
-D9 - Trajtimi fizik-kimik sipas përcaktimit në ligjin nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar;
-D10 - Incinerimi mbi tokë;
-R1 - Përdorimi kryesisht si lëndë djegëse ose mënyra të tjera për të prodhuar energji, duke përjashtuar mbetjet që përmbajnë PCB;
-R4 - Riciklimi/rigjenerimi i metaleve dhe komponimeve metalike, në kushtet e mëposhtme: Operacionet janë të kufizuara për mbetjet nga proceset e prodhimit të çelikut dhe të hekurit, sikurse janë pluhurat ose llumrat nga trajtimi i gazeve, pluhuri i filtrave me përmbajtje Zn gjatë prodhimit të çelikut, pluhurat nga sistemet e pastrimit të gazit gjatë shkrirjes së bakrit dhe mbetjet e ngjashme, si dhe mbetjet nga rrjedhjet gjatë prodhimeve metalike joferrore që përmbajnë plumb. Përjashtohen mbetjet që përmbajnë PCB.
-Operacionet janë të kufizuara për proceset për rikuperimin e hekurit dhe lidhjeve të hekurit (furrat elektrike) dhe metaleve joferrore (proceset e furrës rrotulluese Waelz, proceset e shkrirjes në vaska kimike (duke përdorur furrat vertikale ose horizontale), me kusht që impiantet të përmbushin, të paktën, kërkesat minimale për vlerat kufi të shkarkimeve për PCDDs dhe PCDFs të përcaktuara në vendimin nr. 178, datë 6.3.2012, “Për incinerimin e mbetjeve”, pavarësisht nëse proceset janë apo jo subjekt i këtij vendimi, dhe pa cenuar dispozitat e vendimit nr. 452, datë 11.7.2012, “Për lendfillet e mbetjeve”, dhe dispozitat e ligjit “Për lejet e mjedisit”, në rastin kur zbatohen.
-Operacionet e trajtimit paraprak për shkatërrim ose transformim në mënyrë përfundimtare dhe të pakthyeshme, në përputhje me këtë pjesë të këtij aneksi, mund të kryhen, duke siguruar se substanca e listuar në aneksin IV, që është e izoluar nga mbetjet gjatë trajtimit paraprak, asgjësohet më pas, në përputhje me këtë pjesë të këtij aneksi. Në rastin kur kemi vetëm një pjesë të një produkti apo mbetjeje, të tilla si pajisjet e mbetjeve, që përmbajnë ose janë kontaminuar me ndotës organikë të qëndrueshëm, ato veçohen dhe më pas asgjësohen, në përputhje me kërkesat e këtij vendimi.
-Gjithashtu, operacionet e riambalazhimit dhe të ruajtjes së përkohshme mund të zbatohen përpara këtij trajtimi paraprak ose përpara shkatërrimit, apo transformimit përfundimtar, në mënyrë të pakthyeshme, në përputhje me këtë pjesë të këtij aneksi.
+Operacionet e mëposhtme të asgjësimit dhe rikuperimit, siç parashikohet në Shtojcat I dhe II, të Ligjit nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar, lejohen për qëllime të pikës 2, të seksionit II, të kreut III, të vendimit 360/2015, kur zbatohen në mënyrë të tillë që siguron se përmbajtja e ndotësve organikë të qëndrueshëm është shkatërruar ose është transformuar në mënyrë të pakthyeshme:
+D9
+Trajtimi fiziko-kimik.
+D10
+Incenerimi mbi tokë.
+R1
+Përdorimi kryesisht si lëndë djegëse ose mënyra të tjera për të prodhuar energji, duke përjashtuar mbetjet që përmbajnë PCB
+R4
+Riciklimi/rigjenerimi i metaleve dhe komponimeve metalike, në kushtet e mëposhtme:
+Operacionet janë të kufizuara për mbetjet nga proceset e prodhimit të çelikut dhe të hekurit, sikurse janë pluhurat ose llumrat nga trajtimi i gazeve, pluhuri i filtrave me përmbajtje zinku gjatë prodhimit të çelikut, pluhurat nga sistemet e pastrimit të gazit gjatë shkrirjes së bakrit dhe mbetjet e ngjashme, si dhe mbetjet nga rrjedhjet gjatë prodhimeve metalike joferrore që përmbajnë plumb. Përjashtohen mbetjet që përmbajnë PCB.
+Operacionet janë të kufizuara për proceset për rikuperimin e hekurit dhe lidhjeve të hekurit (furrat elektrike) dhe metaleve joferrore (proceset e furrës rrotulluese Waelz, proceset e shkrirjes në vaska kimike (duke përdorur furrat vertikale ose horizontale), me kusht që impiantet të përmbushin, të paktën, kërkesat minimale për vlerat kufi të shkarkimeve për PCDD dhe PCDF të përcaktuara në përputhje me ligjin nr. 10488, datë 14.7.2011, “Për lejet e mjedisit”, të ndryshuar, pavarësisht nëse proceset janë apo jo subjekt i atij legjislacioni, dhe pa cenuar parashikimet e tjera të tij.
+Operacionet e trajtimit paraprak për shkatërrim ose transformim në mënyrë përfundimtare dhe të pakthyeshme, në përputhje me këtë pjesë të këtij aneksi, mund të kryhen, duke siguruar se substanca e listuar në aneksin III, të këtij vendimi, që është e izoluar nga mbetjet gjatë trajtimit paraprak, asgjësohet më pas, në përputhje me parashikimet në këtë pjesë të këtij aneksi. Në rastin kur kemi vetëm një pjesë të një produkti apo mbetjeje, të tilla si pajisjet e mbetjeve, që përmbajnë ose janë kontaminuar me ndotës organikë të qëndrueshëm, ato veçohen dhe më pas asgjësohen, në përputhje me kërkesat e këtij vendimi. Gjithashtu, operacionet e riambalazhimit dhe të ruajtjes së përkohshme mund të zbatohen përpara këtij trajtimi paraprak ose përpara shkatërrimit, apo transformimit përfundimtar, në mënyrë të pakthyeshme, në përputhje me këtë pjesë të këtij aneksi.
 PJESA 2
-LISTA E MBETJEVE DHE OPERACIONET
-Operacionet e mëposhtme janë të lejueshme për qëllime të pikës 4, të seksionit 2, të kreut III, në përputhje me mbetjet e specifikuara, të përcaktuara nga kodi digjital me gjashtë numra.
-Operacionet e trajtimit paraprak, mund të zbatohen përpara se të kryhet ruajtja e përhershme, në përputhje me këtë pjesë të këtij aneksi, duke siguruar se substanca e listuar në aneksin III, që është izoluar nga mbetjet gjatë trajtimit paraprak, është asgjësuar më pas në përputhje me pjesën 1, të këtij aneksi.
-Gjithashtu, riambalazhimi dhe operacionet e ruajtjes së përkohshme mund të kryhen përpara këtij trajtimi paraprak ose përpara ruajtjes së përhershme, në përputhje me këtë pjesë të këtij aneksi.
-Klasifikimi
-i mbetjeve
-Limitet maksimale të
-përqendrimit të substancave të listuara në aneksin IV1
+MBETJET DHE OPERACIONET PËR TË CILAT ZBATOHET PIKA 4(b), SEKSIONI II, KREU III
+Operacionet e mëposhtme janë të lejueshme për qëllime të pikës 4(b), të seksionit II, të kreut III, të vendimit 360/2015, në përputhje me mbetjet e specifikuara, të përcaktuara nga kodi digjital gjashtëshifror të klasifikuara sipas VKM-së nr. 402, datë 30.6.2021, “Për miratimin e katalogut të mbetjeve”.
+Operacionet e trajtimit paraprak, mund të zbatohen përpara se të kryhet ruajtja e përhershme, në përputhje me këtë pjesë të këtij Aneksi, duke siguruar se substanca e listuar në aneksin III, që është e izoluar nga mbetjet gjatë trajtimit paraprak, është asgjësuar më pas në përputhje me pjesën 1, të këtij aneksi. Gjithashtu, riambalazhimi dhe operacionet e ruajtjes së përkohshme mund të kryhen përpara këtij trajtimi paraprak ose përpara ruajtjes së përhershme, në përputhje me këtë pjesë të këtij aneksi.
+Mbetje të klasifikuara sipas VKM-së nr. 402, datë 30.6.2021, “Për miratimin e katalogut të mbetjeve”
+Limitet maksimale të përqendrimit të substancave të listuara në aneksin III (1)
 Operacionet
 10
 MBETJE NGA PROCESE TERMIKE
-Aldrin: 5 000 mg/kg;
-Klordane: 5 000 mg/kg;
-Klorddekone: 5 000 mg/kg;
-DDT (1,1,1-triklor-2,2-bis
-(4-klorfenil)etani): 5 000 mg/kg;
-Dieldrin: 5 000 mg/kg;
-Endrin: 5 000 mg/kg;
-Eteri i Heptabromodifenilit (C12H3Br7O): 5 000 mg/kg;
-HeptaKlor: 5 000 mg/kg;
-Hekzabromodifenili: 5 000 mg/kg;
-Eteri i Hekzabromodifenilit (C12H4Br6O): 5 000 mg/kg;
-HekzaKlorociklohekzanet, duke përfshirë lindanin: 5000 mg/kg;
-Mireks: 5 000 mg/kg;
-Eteri i Pentabromodifenilit (C12H5Br5O): 5 000 mg/kg;
-Pentaklorobenzeni: 5000 mg/kg;
-Acidi Sulfonik i Perfluorooktaneve
-(PFOS) C8F17SO2X
-X = OH, kripëra metalike (O-M+),
-halide, amide, dhe derivate të tjera, duke përfshirë polimeret
-Bifenile të Polikloruara (PCB)(3): 50 mg/kg;
-PCDD/PCDF(4) (Polichlorinated dibenzo-pdioxins and dibenzofurans) : 5 mg/kg;
-Eteri i Tetrabromodifenilit (C12H6Br4O);
-Toksafenë: 5 000 mg/kg
-1. Ruajtja e përhershme lejohet vetëm nëse plotësohen kushtet e mëposhtme:
-Ruajtja bëhet në një nga vendet e mëposhtme:
-- në formacione të forta shkëmbore, nëntokësore, të thella dhe të sigurta;
-- në minierat e kripës;
-- në lendfille të mbetjeve të rrezikshme (duke siguruar që mbetjet janë ngurtësuar ose stabilizuar, aty ku është teknikisht e mundshme);
-Janë respektuar masat e parashikuara në vendimin nr. 452, datë 11.7.2012, “Për lendfillet e mbetjeve”;
-Demonstrohet se masat e përzgjedhura janë të preferueshme nga ana mjedisore.
+Alkanet, С10-С13 kloro parafinat e klorinuara (parafina të klorinuara me zinxhir të shkurtër) (SCCP): 10 000 mg/kg;
+Ruajtja e përhershme lejohet vetëm nëse plotësohen kushtet e mëposhtme:
+1. Ruajtja bëhet në një nga vendet e mëposhtme:
 10 01
 Mbetje nga stacionet elektrike dhe impiantet e djegies së brendshme (përveç 19)
-10 01 14 *
-Hi nga fundi, skorie dhe pluhur kaldajash që përmbajnë substanca
-të rrezikshme, si rezultat i bashkëdjegies
+Aldrin: 5 000 mg/kg;
+Klordani: 5 000 mg/kg;
+Klordekoni: 5 000 mg/kg;
+- në formacione të forta shkëmbore, nëntokësore, të thella dhe të sigurta;
+- në minierat e kripës;
+10 01 14 * (2)
+Hi nga fundi, skorie dhe pluhur kaldajash që përmbajnë substanca të rrezikshme, si rezultat i bashkëdjegies
+DDT (1,1,1-trikloro-2,2-bis(4- klorofenol)etani):
+5 000 mg/kg;
+Dieldrin: 5 000 mg/kg;
+Endosulfan: 5 000 mg/kg;
+Endrin: 5 000 mg/kg;
+Heptaklor: 5 000 mg/kg;
+Hekzabromobifenili:
+5 000 mg/kg;
+Hekzabromociklododekan(3): 1 000 mg/kg;
+Hekzaklorbenzeni: 5 000 mg/kg;
+Hekzaklorobutadieni:
+1 000 mg/kg;
+Hekzaklorciklohekzani, përfshirë lindanin: 5 000 mg/kg;
+- në lendfille të mbetjeve të rrezikshme, duke siguruar që mbetjet janë ngurtësuar ose janë stabilizuar pjesërisht, aty ku është teknikisht e mundshme, siç kërkohet për klasifikimin e mbetjeve në nënkapitullin 19 03 të VKM-së nr. 402, datë 30.6.2021, “Për miratimin e katalogut të mbetjeve”.
+2. Janë respektuar masat e parashikuara në VKM-në nr. 452, datë 11.7.2002, “Për lendfillet e mbetjeve”, i ndryshuar;
+3. Demonstrohet se masat e përzgjedhura janë të preferueshme nga ana mjedisore.
 10 01 16 *
 Hi fluturues nga bashkincenerimi, që përmbajnë substanca të rrezikshme
+Mireks: 5 000 mg/kg;
+Pentaklorobenzeni: 5 000 mg/kg;
 10 02
 Mbetje nga industria e hekurit dhe e çelikut
+Acidi sulfonik i perfluorooktaneve dhe derivatet e tij (PFOS) (C8F17SO2X)
+(X = OH, kripëra metalike (O-M+), halide, amide dhe derivate të tjera, duke përfshirë polimeret): 50 mg/kg;
 10 02 07 *
 Mbetje të ngurta nga trajtimet e gazeve, që përmbajnë substanca të rrezikshme
+Bifenile të Poliklorinuara (PCB) (4): 50 mg/kg;
+Dibenzo-p-dioksinat dhe Dibenzofuranet e Poliklorinuara: 5 mg/kg;
 10 03
 Mbetje nga metalurgjia termike e aluminit
+Naftalene të Poliklorinuara (*): 1 000 mg/kg;
 10 03 04 *
 Skrape të prodhimit primar
+Shuma e përqendrimeve të eterit të tetrabromodifenilit (C12H6Br4O), eterit të pentabromodifenilit (C12H5Br5O), eterit të hakzabromodifenilit (C12H4Br6O), dhe eterit të heptabromodifenilit (C12H3Br7O): 10 000 mg/kg;
 10 03 08 *
 Zgjyra kripore nga prodhimi dytësor
+Toksafen: 5 000 mg/kg
 10 03 09 *
 Zgjyra të zeza nga prodhimi dytësor
 10 03 19 *
 Pluhur nga oxhakët e gazeve që përmbajnë substanca të rrezikshme
-10 03 21 *
-Mbetje të tjera të imëta dhe pluhur (përfshirë pluhurin e guzhinjetave të
-mullirit) që përmbajnë substanca të rrezikshme
+10 03 21*
+Mbetje të tjera të imëta dhe pluhur (përfshirë pluhurin e kushinetave të mullirit) që përmbajnë substanca të rrezikshme
 10 03 29 *
 Mbetje nga trajtimet e zgjyrave të kripës dhe zgjyrave të zeza që përmbajnë substanca të rrezikshme
 10 04
@@ -478,7 +624,7 @@ Mbetje nga metalurgjia termike e plumbit
 Zgjyra nga prodhimi primar dhe dytësor
 10 04 02 *
 Shkuma nga prodhimi primar dhe dytësor
-10 04 04 *
+4 04 *
 Pluhur nga oxhakët e gazeve
 10 04 05 *
 Mbetje të tjera të imëta dhe pluhur
@@ -486,14 +632,14 @@ Mbetje të tjera të imëta dhe pluhur
 Mbetje të ngurta nga trajtimet e gazeve
 10 05
 Mbetje nga metalurgjia termike e zinkut
-10 05 03 *
+5 03 *
 Pluhur nga oxhakët e gazeve
 10 05 05 *
 Mbetje të ngurta nga trajtimet e gazeve
 10 06
 Mbetje nga metalurgjia termike e bakrit
-10 06 03 *
-Pluhur nga oxhakët e gazit
+6 03 *
+Pluhur nga oxhakët e gazeve
 10 06 06 *
 Mbetje të ngurta nga trajtimet e gazeve
 10 08
@@ -501,25 +647,25 @@ Mbetje nga metalurgjitë e tjera termike joferrore
 10 08 08 *
 Zgjyrë kripe nga prodhimi primar dhe dytësor
 10 08 15 *
-Pluhur nga oxhakët e gazit që përmbajnë substanca të rrezikshme
+Pluhur nga oxhakët e gazeve që përmbajnë substanca të rrezikshme
 10 09
 Mbetje nga derdhjet e pjesëve të hekurit
 10 09 09 *
-Pluhur nga oxhakët e gazit që përmbajnë substanca të rrezikshme
+Pluhur nga oxhakët e gazeve që përmbajnë substanca të rrezikshme
 16
-Mbetje të paspecifikuara në listë
+MBETJE TË PASPECIFIKUARA NË LISTË
 16 11
 Mbetje të veshjeve të brendshme dhe materialeve zjarrduruese
 16 11 01 *
 Mbetje të veshjeve të brendshme me bazë karboni dhe materialeve zjarrduruese nga procese metalurgjike që përmbajnë substanca të rrezikshme
 16 11 03 *
-Mbetje të veshjeve të brendshme dhe materialeve zjarrduruese nga procese metalurgjike që përmbajnë substanca të rrezikshme
+Mbetje të tjera të veshjeve të brendshme dhe materialeve zjarrduruese nga procese metalurgjike që përmbajnë substanca të rrezikshme
 17
-Mbetje nga ndërtimet dhe prishjet (përfshi dhera të gërmuara nga zona të kontaminuara)
+MBETJE NGA NDËRTIMET DHE PRISHJET (PËRFSHI DHERA TË GËRMUARA NGA ZONA TË KONTAMINUARA)
 17 01
 Beton, tulla, tjegulla dhe qeramika
 17 01 06 *
-Përzierje ose fraksione të ndara betoni, tullash, tjegulla dhe të qeramikës që përmbajnë substanca të rrezikshme
+Përzierje të, ose fraksione të ndara betoni, tullash, tjegulla dhe të qeramikës që përmbajnë substanca të rrezikshme
 17 05
 Dhera (duke përfshirë dhera të gërmuara nga toka të kontaminuara, gurë dhe balta të tjera)
 17 05 03 *
@@ -527,15 +673,15 @@ Dhera dhe gurë që përmbajnë substanca të rrezikshme
 17 09
 Mbetje të tjera ndërtimi dhe të prishjeve
 17 09 02 *
-Mbetje ndërtimi dhe të prishjeve që përmbajnë PCB
+Mbetje ndërtimi dhe të prishjeve që përmbajnë PCB, duke përjashtuar pajisjet që përmbajnë PCB
 17 09 03 *
-Mbetje nga ndërtimi dhe të prishjeve, duke përfshirë mbetjet e përziera që përmbajnë substanca të rrezikshme
+Mbetje të tjera nga ndërtimi dhe të prishjeve (duke përfshirë mbetjet e përziera) që përmbajnë substanca të rrezikshme
 19
-Mbetje nga impiantet e trajtimit të mbetjeve, të ujërave të ndotura (jo në vend) dhe përgatitja e ujit për përdorim njerëzor dhe industrial
+MBETJE NGA IMPIANTET E TRAJTIMIT TË MBETJEVE, IMPIANTET E TRAJTIMIT TË UJËRAVE TË NDOTURA (JO NË VEND) DHE PËRGATITJA E UJIT ME QELLIM PËR PËRDORIM NJERËZOR DHE UJIT NGA PËRDORIMET INDUSTRIALE
 19 01
-Mbetje nga inceneratorët ose piroliza e mbetjeve
+Mbetje nga incenerimi ose piroliza e mbetjeve
 19 01 07 *
-Mbetjet e ngurta nga trajtimi i gazeve
+Mbetje të ngurta nga trajtimet e gazeve
 19 01 11 *
 Hirëra fundore dhe llumra që përmbajnë substanca të rrezikshme
 19 01 13 *
@@ -544,54 +690,53 @@ Hi fluturues që përmban substanca të rrezikshme
 Pluhur kaldajash që përmbajnë substanca të rrezikshme
 19 04
 Mbetje të qelqëzuara dhe mbetje nga qelqëzimet
-19 04 02*
+19 04 02 *
 Hi fluturues dhe mbetje të tjera nga trajtimi i gazeve
-19 04 03 *
+4 03 *
 Faza të ngurta të paqelqëzuara
-(1) Këto limite do të zbatohen vetëm në zonat e lendfilleve dhe nuk do të zbatohen në objektet e përkohshme që gjenden nën tokë, për mbetjet e rrezikshme, duke përfshirë minierat e kripës.
-(2) Çdo mbetje e shënuar me shenjën yll (*) konsiderohet si mbetje e rrezikshme, në përputhje me legjislacionin përkatës të mbetjeve të rrezikshme, dhe është subjekt i masave të këtij legjislacioni.
-(3) do të aplikohen/zbatohen metodat llogaritëse të përcaktuara në standardet evropiane EN 12766-1 dhe 12766-2.
-(4) kufiri është llogaritur si PCDD dhe PCDF, në përputhje me faktorët ekuivalentë toksikë të mëposhtëm:
+1. Këto limite do të zbatohen vetëm në zonat e lendfilleve dhe nuk do të zbatohen në objektet e përkohshme që gjenden nën tokë, për mbetjet e rrezikshme, duke përfshirë minierat e kripës.
+2. Çdo mbetje e shënuar me yll (*) konsiderohet mbetje e rrezikshme, sipas legjislacionit përkatës për menaxhimin e integruar të mbetjeve dhe u nënshtrohet parashikimeve të atij legjislacioni.
+3. Hekzabromociklododekani’ do të thotë hekzabromociklododekan, 1,2,5,6,9,10-hekzabromociklododekan dhe diastereomeret e tij kryesore: alfa-hekzabromociklododekan, beta-hekzabromociklododekan dhe gama-hekzabromociklododekan;
+4. Zbatohet metoda e llogaritjes e përcaktuar në standardet evropiane EN 12766-1 dhe EN 12766-2.
+Limiti maksimal i përqendrimit të Dibenzo-p-dioksinave dhe Dibenzofuraneve të Poliklorinuara (PCDD dhe PCDF) llogaritet sipas Faktorëve Ekuivalentë Toksikë (FET) të mëposhtëm:
 PCDD
 FET
-2,3,7,8-TeCDD
+2, 3, 7, 8-TeCDD
 1
-1,2,3,7,8-PeCDD
+1, 2, 3, 7, 8-PeCDD
 1
-1,2,3,4,7,8-HxCDD
-0.1
-1,2,3,6,7,8-HxCDD
-0.1
-1,2,3,7,8,9-HxCDD
-0.1
-1,2,3,4,6,7,8-HpCDD
-0.01
+1, 2, 3, 4, 7, 8-HxCDD
+0,1
+1, 2, 3, 6, 7, 8-HxCDD
+0,1
+1, 2, 3, 7, 8, 9-HxCDD
+0,1
+, 2, 3, 4, 6, 7, 8-HpCDD
+0,01
 OCDD
-0.0003
+0,0003
 PCDF
 FET
-2,3,7,8-TeCDF
-0.1
-1,2,3,7,8-PeCDF
-0.03
-2,3,4,7,8-PeCDF
-0.3
-1,2,3,4,7,8-HxCDF
-0.1
-1,2,3,6,7,8-HxCDF
-0.1
-1,2,3,7,8,9-HxCDF
-0.1
-PCDD
-FET
-2,3,4,6,7,8-HxCDF
-0.1
-1,2,3,4,6,7,8-HpCDF
-0.01
-1,2,3,4,7,8,9-HpCDF
-0.01
+2, 3, 7, 8-TeCDF
+0,1
+1, 2, 3, 7, 8-PeCDF
+0,03
+2, 3, 4, 7, 8-PeCDF
+0,3
+1, 2, 3, 4, 7, 8-HxCDF
+0,1
+1, 2, 3, 6, 7, 8-HxCDF
+0,1
+1, 2, 3, 7, 8, 9-HxCDF
+0,1
+2, 3, 4, 6, 7, 8-HxCDF
+0,1
+1, 2, 3, 4, 6, 7, 8-HpCDF
+0,01
+1, 2, 3, 4, 7, 8, 9-HpCDF
+0,01
 OCDF
-0.0003
+0,0003
 ANEKSI V
 FORMATI I RAPORTIMIT TË STOQEVE
 Pjesa 1. Informacion mbi kompaninë dhe të dhënat e kontaktit
