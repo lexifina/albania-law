@@ -1,0 +1,1 @@
+1. Krijimin në Drejtorinë e Përgjithshme të Agjencisë Kombëtare të Punësimit dhe Aftësive të “Komisionit vlerësues për plotësimin e kritereve të lejes unike si i investitor”, quajtur në vijim “Komisioni Vlerësues”.

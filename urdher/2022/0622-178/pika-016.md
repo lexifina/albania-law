@@ -1,0 +1,1 @@
+16. Vlerësimi i komisionit është i vlefshëm për kohëzgjatjen e planifikuar të investimit, por jo më shumë se 2 (dy) vjet, bazuar në dokumentacionin e paraqitur, kohë që nuk kanë ndryshuar kushtet për të cilat është bërë vlerësimi.
