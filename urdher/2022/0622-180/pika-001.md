@@ -1,0 +1,1 @@
+1. Krijimin pranë çdo drejtorie rajonale të Agjencisë Kombëtare të Punësimit dhe Aftësive të “Komisionit vlerësues për plotësimin e kushteve të lejes unike si i vetëpunësuar”, quajtur në vijim “Komisioni Vlerësues”.

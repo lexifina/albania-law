@@ -1,0 +1,1 @@
+17. Vlerësimi i komisionit është i vlefshëm për kohëzgjatjen e planifikuar të biznesit, por jo më shumë se 3 (tre) vjet, bazuar në dokumentacionin e paraqitur, sa kohë që nuk kanë ndryshuar kushtet për të cilat është bërë vlerësimi.

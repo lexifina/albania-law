@@ -1,0 +1,1 @@
+16. Vlerësimi për plotësimin e kushteve të lejes unike si i vetëpunësuar kryhet brenda 10 (dhjetë) ditëve pune nga marrja e dokumentacionit të përcaktuar në pikën 7 të këtij urdhri dhe njoftohet online.
