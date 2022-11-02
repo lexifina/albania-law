@@ -1,0 +1,1 @@
+6. Konfirmimi për kryerjen e deklarimit për punësim jepet në rrugë elektronike nga sistemi, jo më vonë se 5 (pesë) ditë kalendarike nga momenti i plotësimit të të dhënave dhe i ngarkimit të dokumenteve online.
