@@ -1,4 +1,4 @@
-15. Gjatë tremujorit të parë të çdo viti eksportuesi dhe importuesi raportojnë pranë Ministrisë së Mjedisit sasitë e importuara dhe të eksportuara të substancave, përzierjeve ose artikujve që përmbajnë NOQ, sipas listës së paraqitur në aneksin I, bashkëlidhur këtij vendimi, si dhe të dhënat për eksportin e mbetjeve që kanë në përbërje të tyre NOQ. Informacioni i raportuar përfshin një listë të emrave dhe adresave të çdo importuesi/eksportuesi, me të cilët është kryer import-eksporti.
+15. Gjatë tremujorit të parë të çdo viti eksportuesi dhe importuesi raportojnë pranë ministria përgjegjëse për mjedisin sasitë e importuara dhe të eksportuara të substancave, përzierjeve ose artikujve që përmbajnë NOQ, sipas listës së paraqitur në aneksin I, bashkëlidhur këtij vendimi, si dhe të dhënat për eksportin e mbetjeve që kanë në përbërje të tyre NOQ. Informacioni i raportuar përfshin një listë të emrave dhe adresave të çdo importuesi/eksportuesi, me të cilët është kryer import-eksporti.
 Seksioni 2
 Përjashtime nga masat e kontrollit
 1. Masat e ndalimit, të parashikuara në pikën 1, të seksionit 1, të këtij kreu, nuk zbatohen:
@@ -70,7 +70,7 @@ KREU IV
 INSPEKTIMI
 1. Në zbatim të kërkesave të këtij vendimi, ministria përgjegjëse për mjedisin dhe Agjencia Kombëtare e Mjedisit janë autoriteti kompetent që bashkërendon punën midis institucioneve përgjegjëse të specifikuara në pikën 2, të këtij kreu.
 2. Për zbatimin e kërkesave të këtij vendimi, autoritetet e inspektimit janë:
-a) Inspektorati Shtetëror i Mjedisit dhe Pyjeve, në përputhje me legjislacionin në fuqi për mjedisin (ajrin, mbetjet dhe kimikatet);
+a) Struktura përgjegjëse për kontrollin dhe inspektimin në fushën e mjedisit, në përputhje me legjislacionin në fuqi për mjedisin (ajrin, mbetjet dhe kimikatet);
 b) Inspektorati Shtetëror Shëndetësor, në përputhje me rregullat që rregullojnë fushëveprimin dhe autoritetin e inspektimit sanitar;
 c) Inspektorati (fitosanitar) në përputhje me rregullat që rregullojnë fushëveprimin dhe kompetencat e inspektimit të produkteve për mbrojtjen e bimëve;
 ç) Inspektorati Shtetëror për Mbikëqyrjen e Tregut, në ministrinë përgjegjëse për tregtinë, në përputhje me rregullat që rregullojnë fushëveprimin dhe kompetencat e tij për të monitoruar vendosjen në treg dhe mbikëqyrjen e kimikateve të rrezikshme.
@@ -81,7 +81,7 @@ a) prodhimit, importimit, vendosjes në treg dhe përdorimit të NOQ-ve në kund
 b) eksportit të NOQ-ve në kundërshtim me kërkesat e përcaktuara në pikat 5, 6, dhe 7, të seksionit I, të kreut II, të këtij vendimi;
 c) eksportit të mbetjeve të kontaminuara me NOQ në kundërshtim me kërkesat e përcaktuara në pikat 9 dhe 10, të seksionit I, të kreut II, të këtij vendimi;
 ç) transitit të NOQ-ve dhe mbetjeve që kanë në përbërje NOQ, në kundërshtim me kërkesat e përcaktuara në pikat 11 dhe 12, të seksionit I, të kreut II, të këtij vendimi;
-d) mosvënies në dispozicion të Ministrisë së Mjedisit të të dhënave të përcaktuara në pikën 15, të seksionit I, të kreut II, të këtij vendimi;
+d) mosvënies në dispozicion të ministria përgjegjëse për mjedisin të të dhënave të përcaktuara në pikën 15, të seksionit I, të kreut II, të këtij vendimi;
 dh) mosvënies në dispozicion të Agjencisë Kombëtare të Mjedisit të të dhënave për stoqet, të përcaktuara në pikat 1 dhe 5, të seksionit 1, të kreut III, të këtij vendimi.
 e) mosmenaxhimit të sigurt dhe eficient të stoqeve deri në asgjësimin përfundimtar të tyre nga mbajtësi i stoqeve, sipas kërkesave të përcaktuara në pikat 6 dhe 7, të seksionit 1, të kreut III, të këtij vendimi.
 2. Mospërmbushja e kërkesave të këtij vendimi përbën kundërvajtje administrative dhe ndëshkohet sipas pikës 26, të nenit 62, të ligjit nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, për veprimet/mosveprimet, në rastet e:
@@ -90,5 +90,5 @@ b) mosmarrjes së masave nga krijuesit dhe mbajtësit e mbetjeve për rikuperimi
 c) kryerjes së operacioneve të asgjësimit ose të rikuperimit që mund të çojnë në rikuperimin, riciklimin ose ripërdorimin e substancave të referuara në aneksin III, bashkëlidhur këtij vendimi, në kundërshtim me kërkesat e përcaktuara në pikën 3, të seksionit 2, të kreut III, të këtij vendimi.
 KREU VI
 DISPOZITA PËRFUNDIMTARE
-Ngarkohen Ministria e Mjedisit, Drejtoria e Përgjithshme e Doganave, Inspektorati Shtetëror i Mjedisit, Pyjeve dhe Ujërave, Agjencia Kombëtare e Mjedisit dhe institucionet përgjegjëse të linjës për zbatimin e këtij vendimi.
+Ngarkohen ministria përgjegjëse për mjedisin, Drejtoria e Përgjithshme e Doganave, struktura përgjegjëse për kontrollin dhe inspektimin në fushën e mjedisit, Agjencia Kombëtare e Mjedisit dhe institucionet përgjegjëse të linjës për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet nga data 1 korrik 2015.
