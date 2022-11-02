@@ -1,0 +1,1 @@
+4. Drejtoria që mbulon politikat e punësimit dhe të aftësimit profesional në ministrinë përgjegjëse për migracionin e punës, bazuar në informacionin e dërguar nga çdo ministri/institucion, brenda muajit qershor të çdo viti, përgatit një draftraport përmbledhës dhe rekomandime për përcaktimin e kuotave.

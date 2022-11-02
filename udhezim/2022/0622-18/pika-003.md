@@ -1,0 +1,3 @@
+3. Brenda gjashtëmujorit të parë të çdo viti, drejtoria që mbulon politikat e punësimit dhe të aftësimit profesional në ministrinë përgjegjëse për migracionin e punës, bashkëpunon me drejtorinë që mbulon politikat për zhvillimin ekonomik dhe drejtorinë që mbulon çështje të makroekonomisë në ministrinë përgjegjëse për ekonominë dhe financat, si dhe me ministritë e linjës dhe të INSTAT-it për marrjen e informacionit të përpunuar, lidhur me:
+a) projeksionet për zhvillimin ekonomik në sektorë të caktuar (investimet e planifikuar sipas sektorëve ekonomikë);
+b) fuqinë punëtore të nevojshme për ata sektorë, sipas profesioneve (bazuar në investimet e planifikuar).
