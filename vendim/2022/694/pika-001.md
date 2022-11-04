@@ -1,0 +1,1 @@
+1. Ndryshimin e statusit të ekosistemit natyror/ligatinor “Pishë Poro-Nartë” nga “Rezervat Natyror i Menaxhuar” (kategoria IV e zonave të mbrojtura) në “Peizazh i Mbrojtur” (kategoria V e zonave të mbrojtura).

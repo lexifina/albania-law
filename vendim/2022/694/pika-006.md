@@ -1,0 +1,1 @@
+6. Veprimtaritë, që zhvillohen brenda territorit të Peizazhit të Mbrojtur dhe që janë pajisur me leje mjedisore dhe vendim të KKT-së deri në datën e hyrjes në fuqi të këtij vendimi, do të lejohet të vazhdojnë ushtrimin e tyre nëse përmbushin kushtet e parashikuara në nenin 20, të ligjit nr. 81/2017, “Për zonat e mbrojtura”.

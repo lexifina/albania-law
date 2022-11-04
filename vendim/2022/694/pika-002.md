@@ -1,0 +1,1 @@
+2. Ndryshimin e sipërfaqes së këtij ekosistemi nga 21238.0 ha në 16124.61 ha, sipas hartës bashkëlidhur në shtojcën 1 dhe kufirit të paraqitur, sipas tabelës së koordinatave në shtojcën 2, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

@@ -1,0 +1,1 @@
+7. Zonat urbane brenda perimetrit të zonave të mbrojtura, të identifikuara në vendimin nr. 10, datë 28.12.2020, të Këshillit Kombëtar të Territorit, do të jenë pjesë e planit të menaxhimit të zonës së mbrojtur duke u harmonizuar me rregullat e parashikuara nga planet e përgjithshme vendore dhe planet e detajuara urbane të miratuara.

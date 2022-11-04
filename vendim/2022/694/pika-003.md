@@ -1,0 +1,1 @@
+3. Heqjen e statusit “Zonë e mbrojtur” të sipërfaqes prej 5 551.7 (pesë mijë e pesëqind e pesëdhjetë e një pikë shtatë) hektarësh nga ekosistemi “Pishë Poro-Nartë”, sipas hartës bashkëlidhur në shtojcën 3 dhe kufirit të paraqitur, sipas tabelës së koordinatave në shtojcën 4, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
