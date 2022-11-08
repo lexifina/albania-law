@@ -1,1 +1,0 @@
-9. Çdo përdorues i Sistemit Elektronik për Regjistrimin dhe Gjurmimin e të Dhënave mbi Rastet e Korrupsionit dhe Statistikave të Harmonizuara, pajiset, nga Koordinatori Kombëtar kundër Korrupsionit, me emrin e përdoruesit, “user name”, fjalëkalimin, “password”, dhe me manualet për hedhjen e të dhënave në sistem, operimin dhe përdorimin e faqes web.

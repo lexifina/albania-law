@@ -1,1 +1,0 @@
-4. Sistemi Elektronik për Regjistrimin dhe Gjurmimin e të Dhënave mbi Rastet e Korrupsionit dhe Statistikave të Harmonizuara, si bazë të dhënash shtetërore, hostohet në serverët e Agjencisë Kombëtare të Shoqërisë së Informacionit (AKSHI).
