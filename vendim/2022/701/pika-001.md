@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, dhe shkëmbimin e pronës, në funksion të procesit të rindërtimit në zonën e re për zhvillim, Laç 1/2, Bashkia Kurbin, faza 1, sipas tabelës që i bashkëlidhet këtij vendimi.

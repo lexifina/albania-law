@@ -1,0 +1,1 @@
+9. Afati i kryerjes së shpronësimit në vlerë monetare do të jetë momenti i fillimit të realizimit të projektit. Afati i kryerjes së shkëmbimit të pronës private me një pronë shtetërore të ardhshme, sipas marrëveshjeve të nënshkruara, do të jetë në përfundim të realizimit të rindërtimit në zonën e re për zhvillim, Laç 1/2, Bashkia Kurbin, faza 1.

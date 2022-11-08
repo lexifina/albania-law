@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e kompensimit, prej 5 944 008 (pesë milionë e nëntëqind e dyzet e katër mijë e tetë) lekësh, përballohet nga shpenzimet e fondit të rindërtimit dhe i transferohet Bashkisë Kurbin në buxhetin e vitit 2022, në formën e transfertës së pakushtëzuar.

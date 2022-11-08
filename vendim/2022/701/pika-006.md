@@ -1,0 +1,1 @@
+6. Pronarët e pasqyruar në tabelën, që i bashkëlidhet këtij vendimi, kompensohen për efekt shpronësimi, pasi të kenë paraqitur certifikatën e pronësisë origjinale ose dublikatë, kartelën e pasurisë të rifreskuar, si dhe hartën treguese të regjistrimit pranë Bashkisë Kurbin, referuar aktmarrëveshjes së lidhur.
