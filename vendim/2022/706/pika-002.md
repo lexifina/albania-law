@@ -1,0 +1,1 @@
+2. SEMDRK-ja është një bazë e të dhënave shtetërore, nëpërmjet së cilës grumbullohet informacion i organizuar dhe i ruajtur në formë elektronike për denoncimet e rasteve të korrupsionit, informacion për menaxhimin, trajtimin e statusin e tyre, si dhe raportimin e të dhënave korruptive nga struktura përgjegjëse kundër korrupsionit dhe koordinatorët e Rrjetit kundër Korrupsionit.
