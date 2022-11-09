@@ -1,0 +1,10 @@
+# Vendim nr. 00-2022-2889, datë 9.11.2022 (Gjykata e Lartë)
+
+Court: Gjykata e Lartë (High Court of Albania). Verdict number: 00-2022-2889. Verdict date: 2022-11-09.
+Case number: 11243-01535-00-2018 (case id 2018-03380). Registered at the High Court: 2018-05-10.
+Category: Çështje Civile (civil). Decided in: council chamber (dhomë këshillimi).
+
+Official decision document (High Court register): <https://be.gjykataelarte.gov.al/public/verdict?caseId=2018-03380&caseNumber=11243-01535-00-2018>.
+Official search page: <https://www.gjykataelarte.gov.al/kerko-vendimet/>.
+
+Metadata record: the High Court publishes its decisions with the parties' names (not anonymised), so the parties, the case title and the decision text are not reproduced here.
