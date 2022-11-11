@@ -7,5 +7,6 @@ d) të mos jetë në ndjekje penale ose i dënuar me një vendim të formës së
 dh) të ketë përmbushur detyrimet për taksat vendore;
 e) të provojë që ka aftësitë financiare për të realizuar projektin e propozuar, që institucioni vlerëson të nevojshme;
 ë) të jetë i licencuar për projektim, zbatim, mbikëqyrje ose kolaudim, në pasuritë kulturore, sipas legjislacionit për trashëgiminë kulturore në varësi të objektit të konkurrimit;
-f) ) të ketë përvojë të mëparshme në kryerjen e ndërhyrjeve ruajtëse të projektimit, të zbatimit, të mbikëqyrjes dhe të kolaudimit në pasuritë kulturore, deri në masën 50% të vlerës së fondit limit të procedurës së konkurrimit;
+f) të ketë përvojë të mëparshme deri në 50% të vlerës së projektit të miratuar nga KKTKM-ja në kryerjen e ndërhyrjeve ruajtëse të projektimit, të mbikëqyrjes dhe të kolaudimit në pasuritë kulturore;
 g) çdo kriter tjetër teknik që provon aftësitë teknike për të realizuar shërbimet/punimet e kërkuara, në bazë të të dhënave të përcaktuara në dokumentacionin për konkurrim, që institucioni i vlerëson të nevojshme.
+14/1 Kriteret e përcaktuara në shkronjat “a”, “b”, “c”, “d” dhe “dh” plotësohen me vetëdeklarim të ofertuesit. Fituesi i procedurës së konkurrimit publik dorëzon dokumentacionin origjinal ose kopje të njësuar me origjinalin para lidhjes së kontratës.
