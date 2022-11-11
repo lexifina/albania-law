@@ -1,0 +1,1 @@
+4. Ankimi administrativ ndaj aktit të refuzimit të paraqitet brenda 30 ditëve, nga data kur shtetasi ka marrë njoftim për refuzimin e lëshimit të lejes, pranë Autoritetit Vendor për Kufirin dhe Migracionin ose organit epror të tij.

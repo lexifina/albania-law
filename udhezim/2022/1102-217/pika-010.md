@@ -1,0 +1,1 @@
+10. Banorët e zonës kufitare, të cilët janë të pajisur me dokumentin Leje e Trafikut Lokal të Kufirit të vlefshme për qarkullim në zonat kufitare, mund të udhëtojnë dhe të qëndrojnë në zonën kufitare.

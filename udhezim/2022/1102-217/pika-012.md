@@ -1,0 +1,1 @@
+12. Sistemi AMS jep mundësinë e pritjes të aplikimeve online, që realizohet nëpërmjet portalit eAlbania, marrjen në shqyrtim të tyre dhe aksesimin e dokumenteve që ngarkohen për aplikimin specifik, përcjelljen në hallkat e mëtejshme, sipas workflow specifik për Autoritetin që akseson sistemin.

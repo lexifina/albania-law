@@ -1,0 +1,1 @@
+6. Kur Autoriteti Vendor për Kufirin dhe Migracionin vlerëson se ankimi nuk është i pranueshëm dhe plotësisht i bazuar, atëherë e përcjell atë për shqyrtim dhe vendimmarrje tek organi epror, Departamenti për Kufirin dhe Migracionin, së bashku me të gjitha dokumentet përkatëse të dosjes dhe një raport me shkrim të qëndrimit të tij.

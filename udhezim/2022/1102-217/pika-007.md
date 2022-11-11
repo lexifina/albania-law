@@ -1,0 +1,1 @@
+7. Nëse organi epror vlerëson se refuzimi është i ligjshëm, por arsyet e dhëna janë të tjera nga ato që ka dhënë autoriteti vendor apo vlerëson se arsyetimi i tij nuk është i plotë, ai refuzon ankimin dhe paraqet arsyetimin e ri.
