@@ -1,1 +1,0 @@
-13. Fondet për mbështetjen financiare të studentëve sipas këtij udhëzimi, përballohen nga buxheti i ministrisë së arsimit dhe sportit që i akordohet IAL-ve publike, në programin 09450, në formë grandi.

@@ -1,1 +1,0 @@
-14. Për mbulimin e efekteve financiare për vitin 2022, për ato IAL publike të cilat do të kenë nevojë për fonde shtesë për përballimin e efekteve financiare që burojnë nga zbatimi i këtij udhëzimi, efektet financiare do të kompensohen nga ministria përgjegjëse për arsimin.
