@@ -35,6 +35,8 @@ e) kohëzgjatjen e kontratës;
 ë) garancinë e punimeve (në rastin e punimeve të zbatimit);
 f) të drejtat dhe detyrimet e palëve;
 g) kushte të tjera, të përcaktuara në dokumentet e procedurës.
+2/1. Modifikimi i kontratës, pa zhvilluar një procedurë të re konkurrimi, gjatë afatit të zbatimit të saj, kryhet kur është bërë i nevojshëm, për shkak të rrethanave të paparashikuara nga autoriteti kontraktor dhe që nuk ndryshojnë në thelb natyrën e kontratës publike të konkurrimit. Modifikimi i kontratës kryhet për një kontratë që është ende në zbatim, për zëra që janë bërë të domosdoshëm për zbatimin e saj. Nga autoriteti kontraktor mund të bëhen disa modifikime të njëpasnjëshme me kusht që vlera e tyre të mos kalojë 25% të vlerës së kontratës. Arsyet dhe argumentimet për modifikimin e kontratës dokumentohen nga autoriteti kontraktor.
+2/2. Autoriteti kontraktor cakton ndjekësin e kontratës, si person përgjegjës, i cili do të mbajë marrëdhëniet ndërmjet autoritetit kontraktor dhe kontraktorit.
 3. Pas përfundimit të punimeve, kartelës së pasurisë kulturore, objekt i ndërhyrjes detyruese ruajtëse, i përditësohen të dhënat mbi ndërhyrjet e kryera dhe regjistrohen në Institutin Kombëtar të Regjistrimit të Trashëgimisë Kulturore.
 V. DISPOZITA TË FUNDIT
 1. Vendimi nr. 216, datë 18.4.2007, i Këshillit të Ministrave, “Për procedurat e konkurrimit publik për përzgjedhjen e subjekteve të licencuara për restaurimin e monumenteve të kulturës”, i ndryshuar, shfuqizohet.
