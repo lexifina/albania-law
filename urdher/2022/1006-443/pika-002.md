@@ -1,0 +1,1 @@
+2. Tarifat për shërbimet që organizata e peshkimit ofron për një mjet lundrues dhe për personat që hyjnë dhe shfrytëzojnë portin ose qendrën e peshkimit përcaktohen sipas tabelave nr. 2 dhe nr. 3, bashkëlidhur këtij urdhri.

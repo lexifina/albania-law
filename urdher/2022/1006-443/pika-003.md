@@ -1,0 +1,1 @@
+3. Të ardhurat e gjeneruara nga tarifa e autorizimit të peshkimit çlodhës-argëtues do të derdhen në buxhetin e shtetit apo në njësitë e vetëqeverisjes vendore, në përputhje me autoritetin përgjegjës që lëshon autorizimin për peshkim.
