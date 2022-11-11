@@ -1,0 +1,4 @@
+2. Studentët kanë mundësinë e aplikimit për përfitimin e mbështetjes financiare, nëse plotësojnë njërin nga tri kriteret si më poshtë:
+a) studenti ka përfunduar arsimin e mesëm të lartë me notë mesatare 10.00 dhe në secilin prej provimeve kombëtare të detyruara të maturës shtetërore është vlerësuar me jo më pak se nota e përshkallëzuar 9.5 deri në 10.00;
+b) studenti është fitues i njërit prej tri çmimeve të para në olimpiadat ndërkombëtare të arsimit parauniversitar, me më shumë se 15 vende pjesëmarrëse, pavarësisht notës mesatare, kur pranohet në programe studimi, që lidhen me lëndën(t)/disiplinën ku ka fituar çmimin;
+c) studenti ka zgjedhur të ndjekë një prej programeve të studimit, që përbën prioritet kombëtar dhe që ka përfunduar arsimin e mesëm të lartë me notë mesatare, jo më pak se 8.5, përfshirë notën e përshkallëzuar të provimeve kombëtare të detyruara të maturës shtetërore.

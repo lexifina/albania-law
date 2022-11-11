@@ -1,0 +1,1 @@
+15. Udhëzimi nr. 27, datë 2.8.2022, i ministrit të Arsimit dhe Sportit “Për përcaktimin e rregullave, afateve të aplikimit, shqyrtimit dhe procedurat e masës dhe mënyrës së financimit të studentëve të shkëlqyer dhe atyre që ndjekin programe që përbëjnë prioritet kombëtar” shfuqizohet.

@@ -1,0 +1,1 @@
+8. Pas nënshkrimit të marrëveshjes trepalëshe, çdo muaj, institucioni publik i arsimit të lartë duhet të kryejë pagesën në llogarinë bankare të përfituesit, e cila është përcaktuar në marrëveshjen e nënshkruar. Masa e financimit nuk mund të tejkalojë nivelin e pagës minimale në shkallë vendi.

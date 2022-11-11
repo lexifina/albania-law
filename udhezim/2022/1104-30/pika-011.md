@@ -1,0 +1,1 @@
+11. Për vitet akademike pasardhëse, pas vitit akademik të nënshkrimit të marrëveshjes trepalëshe, lista me të gjithë përfituesit e çdo viti akademik do të miratohet brenda muajit dhjetor, duke njoftuar studentët përfitues dhe institucionet publike të arsimit të lartë.

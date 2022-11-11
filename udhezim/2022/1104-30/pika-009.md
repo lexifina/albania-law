@@ -1,0 +1,1 @@
+9. Për studentët, të cilët mund të kenë kryer pagesën e tarifës së shkollimit, institucioni publik i arsimit të lartë, menjëherë pas nënshkrimit të marrëveshjes trepalëshe, duhet të bëjë rimbursimin e tarifës së paguar.

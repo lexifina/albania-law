@@ -1,0 +1,1 @@
+14. Për vitin 2022, për ato institucione publike të arsimit të lartë, të cilat do të kenë nevojë për fonde shtesë për përballimin e efekteve financiare që burojnë nga zbatimi i këtij udhëzimi, këto fonde shtesë do të kompensohen nga ministria përgjegjëse për arsimin.

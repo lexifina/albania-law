@@ -1,0 +1,1 @@
+6. Brenda 10 ditëve nga miratimi i listës përfundimtare, sipas pikës së mësipërme, studentët përfitues dhe institucionet publike të arsimit të lartë, ku ata janë regjistruar, njoftohen për të lidhur marrëveshjen trepalëshe mes përfituesit të financimit ose përfaqësuesit ligjor të tij, ministrisë përgjegjëse për arsimin dhe institucionit publik të arsimit të lartë.

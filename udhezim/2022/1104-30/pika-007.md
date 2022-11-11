@@ -1,0 +1,1 @@
+7. Një kopje zyrtare e marrëveshjes së nënshkruar, jo më vonë se dy ditë nga data e nënshkrimit, i përcillet çdo institucioni publik të arsimit të lartë, ku është regjistruar studenti përfitues i fondit të mbështetjes financiare.

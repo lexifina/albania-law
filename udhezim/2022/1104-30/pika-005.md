@@ -1,0 +1,1 @@
+5. Pas marrjes së konfirmimeve përkatëse, AKFAL-ja harton listën përfundimtare me të gjithë studentët përfitues, të cilët plotësojnë kriteret për të përfituar mbështetje financiare dhe ia përcjell ministrisë përgjegjëse për arsimin. Bazuar në këtë listë, ministria përgjegjëse për arsimin akordon fondin për çdo institucion publik të arsimit të lartë.

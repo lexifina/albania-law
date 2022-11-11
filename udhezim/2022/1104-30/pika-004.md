@@ -1,0 +1,1 @@
+4. Pas përfundimit të afatit të aplikimeve, AKFAL-ja bën verifikimin e informacionit të paraqitur në aplikimin e çdo studenti. Për këtë qëllim merret informacion zyrtar nga Qendra e Shërbimeve Arsimore dhe/ose Drejtoria e Përgjithshme e Arsimit Parauniversitar, për të verifikuar përmbushjen e kritereve.

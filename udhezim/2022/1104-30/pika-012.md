@@ -1,0 +1,1 @@
+12. Pas nënshkrimit të marrëveshjes trepalëshe, konfirmimi i frekuentimit të programit përkatës të studimit nga studentët përfitues, për çdo muaj të pjesës së mbetur të vitit akademik kur është nënshkruar marrëveshja, si dhe për çdo muaj të viteve akademike në vijim, do të bëhet nga institucioni publik përkatës i arsimit të lartë.
