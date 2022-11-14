@@ -1,0 +1,1 @@
+1. Miratimin e standardeve për qendrat e trajtimit të fëmijëve viktima apo dëshmitarë të abuzimit seksual dhe formave të rënda të dhunës, emergjent, me një ndalesë, në mënyrë të integruar, 24/7 dhe afatshkurtër, të vendosura pranë qendrave spitalore, sipas dokumentit, që i bashkëlidhet këtij udhëzimi.
