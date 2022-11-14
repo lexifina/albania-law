@@ -1,0 +1,1 @@
+1. Shpalljen “Zonë e teknologjisë dhe zhvillimit ekonomik” (TEDA), Tiranë, të territorit me sipërfaqe 342 185 m2 (treqind e dyzet e dy mijë e njëqind e tetëdhjetë e pesë) m2, pjesë të zonave kadastrale nr. 3866, nr. 2105 dhe nr. 1867, në Tiranë, të përbërë nga parcelat me numrat e pasurive dhe sipërfaqet përkatëse, sipas listës dhe genplanit, që i bashkëlidhen këtij vendimi.

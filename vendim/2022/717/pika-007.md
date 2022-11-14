@@ -1,0 +1,1 @@
+7. Për pjesët e sipërfaqes së “Zonës së teknologjisë dhe zhvillimit ekonomik” (TEDA), Tiranë, që janë pronë private, të bëhet shpronësimi dhe/ose kompensimi, sipas ligjit nr. 8561, datë 22.12.1999, “Për shpronësimet dhe marrjen në përdorim të përkohshëm të pasurisë, pronë private, për interes publik”, të ndryshuar.

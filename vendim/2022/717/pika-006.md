@@ -1,0 +1,1 @@
+6. Masat mbështetëse të përfituara nga Bashkia Tiranë, si subjekt përfitues i statusit “Investim/investitor, procedurë e veçantë”, bazohen në vendimin nr. 1/8, datë 15.7.2021, të Komitetit të Investimeve Strategjike.
