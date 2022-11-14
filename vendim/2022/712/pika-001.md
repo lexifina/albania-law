@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni i rrugës ’Ago Çeli’ dhe ’Rrugës së Re”’, si dhe ’Rikonceptimi i palestrës së lagjes ’15 Shtatori’, Tepelenë’”.
