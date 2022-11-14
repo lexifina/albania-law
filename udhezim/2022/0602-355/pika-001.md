@@ -1,0 +1,1 @@
+1. Miratimin e standardeve të shërbimit të integruar lëvizës në familje, për fëmijët me aftësi të kufizuara dhe familjet e tyre dhe manuali i zbatimit, sipas dokumentit që i bashkëlidhet këtij udhëzimi.
