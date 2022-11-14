@@ -1,0 +1,1 @@
+4. Në rastin e institucioneve të posaçme (burgjet, vendet e paraburgimit, si dhe spitalet ose institucionet e tjera shëndetësore, që pranojnë pacientë për më shumë se tri ditë), limiti i poshtëm për qendrën e votimit i referohet një numri prej 15 (pesëmbëdhjetë) zgjedhësish.

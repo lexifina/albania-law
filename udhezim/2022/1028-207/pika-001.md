@@ -1,0 +1,1 @@
+1. Brenda datës 7.11.2022, nga Regjistri Kombëtar i Gjendjes Civile (RKGJC) i vitit 2010, të gjenerohet ekstrakti elektronik i përbërësve zgjedhorë, në përbërje të të cilit janë të gjithë shtetasit me të drejtë vote, të lindur që nga data 14.5.2005, të cilët deri në datën e zhvillimit të zgjedhjeve, më 14.5.2023, mbushin 18 vjeç.
