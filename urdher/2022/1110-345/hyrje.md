@@ -1,0 +1,5 @@
+URDHËR
+Nr. 345, datë 10.11.2022
+për DELEGIMIN E KOMPETENCAVE
+Në mbështetje të pikës 4, të nenit 102, të Kushtetutës së Republikës së Shqipërisë; të ligjit nr. 44, datë 30.4.2015, “Kodi i Procedurave Administrative i Republikës së Shqipërisë”; të ligjit nr. 9000, datë 30.1.2003, “Për organizimin dhe funksionimin e Këshillit të Ministrave’’; të nenit 11, pika 2, të ligjit nr. 90/2012, “Për organizimin dhe funksionimin e Administratës Shtetërore”; të VKM-së nr. 298, datë 20.4.2016, “Për organizimin dhe funksionimin e Agjencisë Kombëtare të Turizmit”; të shkresës së Agjencisë Kombëtare të Turizmit nr. 607 prot, datë 7.11.2022, protokolluar në Ministrinë e Turizmit dhe Mjedisit me nr. 8126 prot., datë 7.11.2022, lënda “Kërkesë për revokim urdhri nr. 481, datë 26.12.2018, ’Për ngarkim në detyrë’”; si dhe të urdhrit të ministrit të Turizmit dhe Mjedisit nr. 344, datë 9.11.2022, “Për shfuqizimin e urdhrit nr. 481, datë 26.12.2018, ’Për ngarkim në detyrë’”, deri në plotësimin e këtij pozicioni, konform procedurave të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar,
+URDHËROJ:

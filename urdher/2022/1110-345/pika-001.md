@@ -1,0 +1,1 @@
+1. Znj. Ledina Beqiraj Agalliu, Sekretar i Përgjithshëm i Ministrisë së Turizmit dhe Mjedisit, të ushtrojë detyrat e drejtorit të përgjithshëm të Agjencisë Kombëtare të Turizmit, krahas detyrave si Sekretar i Përgjithshëm i MTM-së.
