@@ -1,0 +1,1 @@
+1. Zëvendësimin e znj. Elsa Saka, drejtore e Drejtorisë së Komunikimit, me z. Lorenc Agalliu, drejtor i Drejtorisë së Arkivave Shtetërorë Vendorë, i cili autorizohet të nënshkruaj kërkesat social-juridike të Drejtorisë së Përgjithshme të Arkivave.
