@@ -1,0 +1,1 @@
+16. Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, pas miratimit nga Ministria e Financave, të bëjë rishpërndarjen e fondeve të miratuara brenda buxhetit të saj, për vitin 2006, në përputhje me strukturën dhe numrin e punonjësve buxhetorë, të miratuar pas hyrjes në fuqi të këtij vendimi.

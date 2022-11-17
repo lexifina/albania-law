@@ -1,0 +1,1 @@
+17. Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, në buxhetin e miratuar për vitin 2006, t’i shtohet fondi prej 8 000 000 (tetë milionë) lekësh, për të përballuar kostot e zhvendosjes së bazës materiale, për arsye të ristrukturimit dhe përshtatjen e mjediseve laboratorike.

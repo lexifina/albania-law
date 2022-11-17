@@ -1,0 +1,1 @@
+19.Vendimet nr.29, datë 9.2.1971, nr. 199, datë 13.5.1980; nr.86, datë 18.6.1969; nr. 549, datë 29.12.1992, nr.388, datë 3.9.1992; nr.428, datë 24.9.1995 dhe nr.197, datë 18.3.1996 të Këshillit të Ministrave, shfuqizohen.

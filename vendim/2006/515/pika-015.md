@@ -1,0 +1,2 @@
+15.Rishpërndarja e fondeve ndërmjet institucioneve buxhetore, që preken nga ky ristrukturim, të bëhet pas hyrjes në fuqi të këtij vendimi.
+Punonjësit e Bankës Gjenetike, të Stacionit të Pemtarisë, Tiranë dhe të IMB-së, Durrës, me buxhetin përkatës, që nga hyrja në fuqi e këtij vendimi, deri më datë 31.12.2006, të kalojnë nga Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit në Ministrinë e Arsimit dhe Shkencës (Universitetin Bujqësor Tiranë). Ky kalim bëhet në përputhje me organikën e re që do të miratohet nga Ministria e Arsimit dhe Shkencës.
