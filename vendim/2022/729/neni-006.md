@@ -1,0 +1,5 @@
+# Neni 6
+Parime të përgjithshme
+1. Objektet e pranishme, siç përcaktohet në nenet 3, 4 dhe 5, ndriçohen nga dritat me intensitet të ulët, të mesëm ose të lartë të pengesave ose një kombinim i dritave të tilla.
+2. Dritat me intensitet të ulët të tipit A B, C, D dhe E të pengesave, dritat me intensitet të mesëm të llojeve A, B dhe C të pengesave, dritat me intensitet të lartë të tipave A dhe B të pengesave duhet të jenë në përputhje me specifikimet në shtojcën 1, tabela A1-1.
+3. Numri dhe rregullimi i dritave me intensitet të ulët, të mesëm ose të lartë të pengesave, në çdo nivel që shënjohet, të jetë i tillë që objekti të tregohet nga çdo kënd rrethor. Kur një dritë është e mbuluar në çdo drejtim nga një pjesë tjetër e objektit ose nga një objekt ngjitur, duhet të sigurohen dritat shtesë në atë objekt ngjitur ose një pjesë të objektit që mbulon dritën, në mënyrë të tillë që të ruajë pamjen e përgjithshme të objektit që ndriçohet. Nëse drita e mbuluar nuk kontribuon në ruajtjen e pamjes se përgjithshme të ndriçuar, të hiqet.

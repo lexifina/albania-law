@@ -1,0 +1,4 @@
+# Neni 12
+Shënjimi i objekteve të palëvizshme me anë të shënjuesve
+1. Shënjuesit e shfaqur në ose në afërsi të objekteve vendosen në pozicione të dukshme, në mënyrë që të mbajnë përkufizimin e përgjithshëm të objektit dhe duhet të jenë të dukshme në një mot të pastër, nga një distancë prej të paktën 1 000 m për një objekt që shihet nga ajri dhe 300 m për një objekt që shihet nga toka në të gjitha drejtimet, në të cilat një avion ka të ngjarë të afrohet me objektin. Forma e shënjuesve të jetë e dallueshme për të siguruar, që ato nuk ngatërrohen me shënjuesit e përdorur për të përcjellë informacione të tjera që ato shënjojnë, të atilla që nuk rrisin rrezikun që paraqitet nga objekti.
+2. Shënjuesit kanë vetëm një ngjyrë. Kur të instalohen, shënjuesit e bardhë dhe të kuq ose të bardhë dhe portokalli të shfaqen në mënyrë të alternuar. Ngjyra e përzgjedhur të bëjë kontrast me sfondin, kundrejt të cilit do të shihet.
