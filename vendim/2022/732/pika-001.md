@@ -1,0 +1,1 @@
+1. Organizimin dhe funksionimin e Institutit të Sigurisë Ushqimore dhe Veterinarisë (në vijim “ISUV”), si institucion qendror, juridik, publik, me seli në Tiranë, në varësi të ministrit përgjegjës për ushqimin dhe veterinarinë.

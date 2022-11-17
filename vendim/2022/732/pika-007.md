@@ -1,0 +1,1 @@
+7. ISUV-i ka stemën dhe logon e vet zyrtare. Stema përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Ministria... (emri i ministrisë përgjegjëse për ushqimin, veterinarinë dhe mbrojtjen e bimëve), Instituti i Sigurisë Ushqimore dhe Veterinarisë.”.

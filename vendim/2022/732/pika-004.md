@@ -1,0 +1,1 @@
+4. ISUV-i ka si mision të garantojë sigurinë dhe cilësinë e ushqimeve, e ushqimeve për kafshë, mbrojtjen e shëndetit dhe të mirëqenies së kafshëve, mbrojtjen e bimëve dhe produkteve bimore dhe mbrojtjen e shëndetit publik në Republikën e Shqipërisë nëpërmjet kryerjes së veprimtarive laboratorike dhe vlerësimeve shkencore në këto fusha.

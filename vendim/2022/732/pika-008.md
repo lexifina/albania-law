@@ -1,0 +1,1 @@
+8. Vula ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave, për rregullat e prodhimit, të administrimit, të kontrollit dhe të ruajtjes së vulave zyrtare. Vulat prodhohen, administrohen dhe ruhen në përputhje me legjislacionin në fuqi.
