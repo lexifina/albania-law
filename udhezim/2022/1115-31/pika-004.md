@@ -1,0 +1,1 @@
+4. Komisioni, vlerëson propozimet e IAL-ve, sipas Klasifikimit Standard Ndërkombëtar të Arsimit KSNA 2011 (ISCED 2011) dhe Fushat e Arsimit dhe Trajnimit të KSNA-së (KSNA-F 2013) dhe legjislacionit në fuqi për kodifikimin, brenda 45 ditëve nga përcjellja e dokumentacionit nga ministria përgjegjëse për arsimin.

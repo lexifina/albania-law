@@ -1,0 +1,1 @@
+3. Vlerësimi i propozimeve të IAL-së kryhet nga Komisioni i Përkohshëm (në vijim “Komisioni”), i përbërë nga 3 (tre) ekspertë, sipas fushës, të përzgjedhur nga lista e ekspertëve të jashtëm të miratuar nga Bordi i Akreditimit. Këto Komisione ngrihen me urdhër të ministrit përgjegjës për arsimin.

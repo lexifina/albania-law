@@ -1,0 +1,1 @@
+13. Kundër vendimit të Komisionit mund të bëhet ankim nga IAL-ja, pranë ministrisë përgjegjëse për arsimin, e cila ia përcjell për rishikim komisionit përkatës. Komisioni, brenda 15 ditëve, pas rishqyrtimit të ankimit, merr vendimin përfundimtar.

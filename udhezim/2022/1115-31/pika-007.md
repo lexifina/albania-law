@@ -1,0 +1,1 @@
+7. Në rast se Komisioni gjatë vlerësimit konstaton që propozimi i IAL-së është në përputhje me përcaktimet ligjore mbi kodifikimin e programit të studimit, ministri përgjegjës për arsimin konfirmon kodin për programin përkatës, duke njoftuar IAL-në dhe Qendrën e Shërbimeve Arsimore me shkresë zyrtare.

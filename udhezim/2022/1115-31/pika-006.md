@@ -1,0 +1,1 @@
+6. Në rast se Komisioni gjatë vlerësimit konstaton që propozimi i IAL-së nuk është i plotë, ministria përgjegjëse për arsimin njofton zyrtarisht IAL-në mbi mangësitë e konstatuara. IAL dërgon plotësimet brenda 10 (dhjetë) ditëve nga marrja e njoftimit.

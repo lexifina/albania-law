@@ -1,0 +1,1 @@
+5. Komisioni, pas vlerësimit, harton raportin me vlerësimin përkatës dhe e depoziton në ministrinë përgjegjëse për arsimin. Në raportin e vlerësimit Komisioni i propozon ministrit konfirmimin e Kodit për Programin e Studimit ose jep rekomandim lidhur me atë program studimi.
