@@ -4,6 +4,10 @@ Nr. 41, datë 10.3.2022
 
 MBI LICENCIMIN E SHOQËRISË “AGE KUÇ” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “KUÇ”, ME KAPACITET TË INSTALUAR 1930 kw
 
+(ndryshuar me vendimin nr. 299, datë 18.11.2022)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa” a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; si dhe neneve 4, pika 1, germa “a”, 5, pika 1, germa “a” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimi, rinovimi ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016; dhe nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 10.3.2022, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes nr. 322/4-1 prot., datë 8.3.2022, “Mbi licencimin e shoqërisë ‘Age Kuç’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC ‘Kuç’, me kapacitet të instaluar 1930 kw”,
 
 konstatoi se: 
@@ -48,9 +52,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Age Kuç” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Kuç”, me kapacitet të instaluar 1930 kw, për një afat 30-vjeçar.
 
-2. Shoqëria “Age Kuç” sh.p.k., të depozitojë lejen e shfrytëzimit të burimit ujor me afate të rinovuara, brenda datës 3.10.2022.
+2. Shoqëria “Age Kuç” sh.p.k. të depozitojë në ERE lejen e shfrytëzimit të burimit ujor të rinovuar, brenda 90 ditëve nga data e aplikimit në Agjencinë e Menaxhimit të Burimeve Ujore, për rinovim.
 
-3. Shoqëria “Age Kuç” sh.p.k. të depozitojë në ERE VNM-në paraprake të lëshuar nga Agjencia Kombëtare e Mjedisit, brenda datës 19.4.2022.
+3. Shfuqizuar.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
