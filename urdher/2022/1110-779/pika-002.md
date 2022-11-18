@@ -1,0 +1,4 @@
+2. Në ushtrim të kompetencave të titullarit të Ministrisë së Kulturës, sipas pikës 1 të këtij urdhri, zëvendësministri ushtron këto përgjegjësi kryesore:
+a) trajton dhe nënshkruan përgjigjet zyrtare drejtuar institucioneve shtetërore, personave fizikë ose juridikë, publikë ose privatë, për të gjitha çështjet që janë brenda fushës së veprimtarisë së Ministrisë së Kulturës dhe që lidhen me ushtrimin e funksionit të drejtimit administrativ të institucioni;
+b) ndjek dhe kontrollon veprimtarinë e nëpunësve të aparatit të Ministrisë së Kulturës, si dhe të institucioneve të varësisë së Ministrisë së Kulturës;
+c) bën ndarjen dhe mbikëqyr realizimin e detyrave nga nëpunësit e Ministrisë së Kulturës, në funksion të drejtimit dhe të administrimit të përditshëm të veprimtarisë së Ministrisë së Kulturës.
