@@ -1,0 +1,1 @@
+1. Znj. Meri Kumbe, me detyrë zëvendësministre e Ministrisë së Kulturës, të nënshkruajë në emër dhe për llogari të Ministrisë së Kulturës në datë, 13.11.2022, Memorandumin e Mirëkuptimit ndërmjet Ministrisë së Kulturës së Republikës së Shqipërisë dhe Ministrisë së Kulturës dhe Rinisë të Emirateve të Bashkuara Arabe mbi Bashkëpunimin në Fushën e Kulturës.
