@@ -1,0 +1,1 @@
+1. Miratimin e formularit të vetëdeklarimit për gjendjen gjyqësore për marrjen e kualifikimit të drejtimit të mjetit lundrues, për shërbimet e ofruara nga Drejtoria e Përgjithshme Detare, sipas lidhjes nr. 1, bashkëlidhur këtij urdhri dhe pjesë përbërëse e tij.
