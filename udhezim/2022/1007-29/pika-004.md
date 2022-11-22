@@ -1,0 +1,1 @@
+4. Institucionet e arsimit të lartë, në aktet e tyre rregullatore dhe për fusha specifike të programeve të studimit mund të rritin masën e frekuentimit të procesit mësimor, të përcaktuar në këtë udhëzim.
