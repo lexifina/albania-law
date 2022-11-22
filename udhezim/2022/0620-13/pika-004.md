@@ -1,1 +1,0 @@
-4. Institucionet e arsimit të lartë në aktet e tyre rregullatore dhe për fusha specifike të programeve të studimit mund të rrisin masën e detyrueshme të frekuentimit të procesit mësimor, të përcaktuar në pikën 3 të këtij udhëzimi, si dhe përcaktojnë rregulla të tjera më të detajuara mbi frekuentimin e procesit mësimor.
