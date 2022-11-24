@@ -4,9 +4,9 @@ Nr. 92/2014
 
 PËR TATIMIN MBI VLERËN E SHTUAR NË REPUBLIKËN E SHQIPËRISË
 
-(Ndryshuar me ligjet: nr. 90/2015, datë 23.7.2015, nr. 71/2017, datë 27.4.2017, 
+(ndryshuar me ligjet: nr. 90/2015, datë 23.7.2015, nr. 71/2017, datë 27.4.2017, 
 
-nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018,  ndryshuar me aktin normativ nr. 4, datë 30.11.2019[^fn2], nr. 85/2019, datë 18.12.2019[^fn3], nr. 64/2020, datё 14.5.2020, nr. 123/2020, datë 15.10.2020, nr. 111/2021, datë 25.11.2021)
+nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018,  ndryshuar me aktin normativ nr. 4, datë 30.11.2019[^fn2], nr. 85/2019, datë 18.12.2019[^fn3], nr. 64/2020, datё 14.5.2020, nr. 123/2020, datë 15.10.2020, nr. 111/2021, datë 25.11.2021; nr. 82/2022, datë 24.11.2022)
 
  (i përditësuar, 2020)
 
@@ -682,7 +682,7 @@ Neni 51
 
 Përjashtimi i disa veprimtarive me interes të përgjithshëm
 
-(shtuar shkronjat n”, “nj” dhe “o” me ligjin nr. 96/2018, datё 3.12.2018, shtuar shkronja “p” me ligjin nr. 85/2019, datë 18.12.2019, shfuqizuar shkronja “nj” me ligjin nr. 111/2021, datë 25.11.2021)
+(shtuar shkronjat “n”, “nj” dhe “o” me ligjin nr. 96/2018, datё 3.12.2018, shtuar shkronja “p” me ligjin nr. 85/2019, datë 18.12.2019, shfuqizuar shkronja “nj” me ligjin nr. 111/2021, datë 25.11.2021; shtuar shkronja “q”  me ligjin nr. 82/2022, datë 24.11.2022)
 
 Janë furnizime të përjashtuara nga TVSH-ja transaksionet me interes të përgjithshëm si më poshtë:
 
@@ -731,6 +731,8 @@ nj) Shfuqizuar;
 o) furnizimi i shërbimeve veterinare, me përjashtim të shërbimeve veterinare për kafshët shtëpiake.
 
 p) furnizimi i automjeteve vetëm me motor elektrik, të reja, me zero km e që nuk janë regjistruar më parë për qarkullim në asnjë shtet tjetër, përveç atyre të përcaktuara në pikën 7, të nenit 49, të ligjit.
+
+q) Furnizimi i artikujve të përfshirë në kreun 4401 të Nomenklaturës së Kombinuar të Mallrave, me efekt deri më 31 dhjetor 2023.
 
 Neni 52
 
@@ -826,7 +828,7 @@ Neni 56
 
 Përjashtime të veçanta në import
 
-(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018, shtuar një paragraf në pikën 28 dhe shtuar pika 43 me aktin normativ nr. 4, datë 30.11.2019, ndryshuar fjalë në pikën 28 me ligjin nr. 85/2019, datë 18.12.2019, shtuar pika 44 me ligjin nr. 64/2020, datё 14.5.2020, ndryshuar shifra në shkronjën “a” dhe shfuqizuar shkronja “c” e pikës 38 me ligjin nr. 111/2021, datë 25.11.2021)
+(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018, shtuar një paragraf në pikën 28 dhe shtuar pika 43 me aktin normativ nr. 4, datë 30.11.2019, ndryshuar fjalë në pikën 28 me ligjin nr. 85/2019, datë 18.12.2019, shtuar pika 44 me ligjin nr. 64/2020, datё 14.5.2020, ndryshuar shifra në shkronjën “a” dhe shfuqizuar shkronja “c” e pikës 38 me ligjin nr. 111/2021, datë 25.11.2021; shtuar pikat 45 dhe 46 me ligjin nr. 82/2022, datë 24.11.2022)
 
 Janë furnizime të përjashtuara nga tatimi mbi vlerën e shtuar në import:
 
@@ -926,6 +928,12 @@ Lista e makinerive dhe pajisjeve që janë direkt të lidhura me investimin, pro
 
 44. Importimi i jahteve dhe mjeteve të tjera ujore, që përdoren për qëllime turistike, kënaqësie dhe argëtimi, jo më të vjetra se 20 vjet, që përfshihen në kodin 8903 të Nomenklaturës së Kombinuar të Mallrave.
 
+45. Mallrat e destinuara për realizimin e projekteve të financuara me fonde të marra në bazë të një marrëveshje donacioni/granti të lidhur ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë/Republikës së Shqipërisë dhe donatorëve të huaj, nëse në marrëveshje është parashikuar se fondet e marra nuk do të përdoren për të paguar tatime.
+
+Kriteret dhe procedurat për zbatimin e kësaj pike përcaktohen me udhëzim të ministrit të financave.
+
+ 46. Importimi i artikujve të përfshirë në kreun 4401 të Nomenklaturës së Kombinuar të Mallrave, me efekt deri më 31 dhjetor 2023.
+
 Seksioni 3
 
 Furnizimet me shkallë zero për qind të TVSH-së
@@ -1002,11 +1010,15 @@ Neni 60
 
 Furnizime të përngjashme me eksportet
 
+(shtuar shkronja “c” në pikën 1 me ligjin nr. 82/2022, datë 24.11.2022)
+
 1. Trajtohen si furnizime të ngjashme me eksportet: 
 
 a) furnizimet e mallrave dhe shërbimet e kryera në kuadrin e marrëdhënieve diplomatike dhe konsullore;
 
 b) furnizimet e mallrave dhe shërbimeve ndaj organizatave ndërkombëtare, si dhe anëtarëve të këtyre organizatave, të njohura si të tilla nga ana e autoriteteve publike të Republikës së Shqipërisë ose nga anëtarët e këtyre organizatave, brenda limiteve dhe sipas kushteve të marrëveshjeve ndërkombëtare, në bazë të të cilave janë themeluar.
+
+c) Furnizimi i mallrave/shërbimeve, të destinuara për realizimin e projekteve të financuara me fonde të marra në bazë të një marrëveshjeje donacioni/granti të lidhur ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë/Republikës së Shqipërisë dhe donatorëve të huaj, nëse në marrëveshje është parashikuar se fondet e marra nuk do të përdoren për të paguar tatime.
 
 2. Furnizimet e mallrave dhe shërbimeve në Republikën e Shqipërisë, të destinuara për forcat e armatosura të shteteve të tjera anëtare të NATO-s për t’u përdorur nga këto forca apo personeli civil që i shoqëron ato, si dhe për të furnizuar mensat përkatëse për qëllimin e përbashkët të mbrojtjes.
 
@@ -1244,7 +1256,7 @@ Neni 77
 
 Rimbursimi i TVSH-së
 
-(Ndryshuar pika 4 me ligjin nr.90/2015, datë 23.7.2015, shfuqizuar fjalia e dytë, e pikës 2 me aktin normativ nr. 4, datë 30.11.2019)
+(Ndryshuar pika 4 me ligjin nr.90/2015, datë 23.7.2015, shfuqizuar fjalia e dytë, e pikës 2 me aktin normativ nr. 4, datë 30.11.2019; shtuar fjalë në fund të pikës 2 me ligjin nr. 82/2022, datë 24.11.2022)
 
 1. Një person i tatueshëm kërkon rimbursim të tepricës së kreditimit tatimor të TVSH-se nëse:
 
@@ -1252,11 +1264,11 @@ a) personi i tatueshëm ka mbartur tepricën e TVSH-së së zbritshme për  3 mu
 
 b) TVSH-ja e kërkuar për t’u rimbursuar tejkalon shumën prej 400 000 (katërqind mijë) lekësh.
 
-2. Për rastet kur në marrëveshjet financiare të ratifikuara nga Kuvendi ose në marrëveshjet e granteve të miratuara nga Këshilli i Ministrave parashikohet mospërdorimi i burimeve financiare të huaja për të paguar taksa e tatime, duke përfshirë ose jo tatimin mbi vlerën e shtuar, tatimi mbi vlerën e shtuar i paguar u rimbursohet financuesve të huaj nga sistemi i thesarit, brenda 30 ditëve, sipas rregullave të caktuara nga Ministri i Financave. 
+2. Për rastet kur në marrëveshjet financiare të ratifikuara nga Kuvendi ose në marrëveshjet e granteve të miratuara nga Këshilli i Ministrave parashikohet mospërdorimi i burimeve financiare të huaja për të paguar taksa e tatime, duke përfshirë ose jo tatimin mbi vlerën e shtuar, tatimi mbi vlerën e shtuar i paguar u rimbursohet financuesve të huaj nga sistemi i thesarit, brenda 30 ditëve, sipas rregullave të caktuara nga Ministri i Financave me përjashtim të rasteve të parashikuara në pikën 45 të nenit 56 dhe germës “c” të pikës 1 të nenit 60 të këtij ligji.
 
 3. Eksportuesit kanë të drejtë të kërkojnë rimbursim kur teprica e tyre tejkalon shumën 400 000 (katërqind mijë) lekë. Këshilli i Ministrave përcakton kategorinë e eksportuesve, sipas këtij neni.	
 
-4. Brenda 60 ditëve nga data e paraqitjes së kërkesës së tatimpaguesit dhe brenda 30 ditëve nga data e paraqitjes së kërkesës së tatimpaguesve eksportues, administrata tatimore kryen procedurën e rimbursimit, siç përcaktohet për këtë qëllim në ligjin “Për procedurat tatimore në Republikën e Shqipërisë.
+4. Brenda 60 ditëve nga data e paraqitjes së kërkesës së tatimpaguesit dhe brenda 30 ditëve nga data e paraqitjes së kërkesës së tatimpaguesve eksportues, administrata tatimore kryen procedurën e rimbursimit, siç përcaktohet për këtë qëllim në ligjin “Për procedurat tatimore në Republikën e Shqipërisë”.
 
 Administrata tatimore, para se të procedojë një kërkesë për rimbursim të TVSH-së për një person të tatueshëm, ka të drejtë ta detyrojë atë person të provojë që qëllimi i veprimtarisë ekonomike është realizimi i transaksioneve të tatueshme, që i japin të drejtën e zbritjes së TVSH-së.
 
@@ -2185,6 +2197,48 @@ Në kuptim të këtij neni, Ministri i Financave përcakton me udhëzim veprimet
 2. Operatorët i ruajnë të dhënat sipas përcaktimit të bërë në pikën 1, të këtij neni, për një periudhë prej të paktën pesë vjetësh, sipas ligjit për procedurat tatimore në Republikën e Shqipërisë.
 
 3. Personat e tatueshëm duhet të regjistrojnë veçmas llogaritë kontabël për transaksionet mbi arin për investim, të përjashtuara sipas nenit 152 nga ato me të drejtë zgjedhjeje sipas nenit 153, të këtij ligji.  
+
+SEKSIONI 6
+
+REGJIMI I VEÇANTË PËR BURSËN SHQIPTARE TË ENERGJISË
+
+(shtuar me ligjin nr.82/2022, datë 24.11.2022)
+
+Neni 155/1
+
+Përkufizime
+
+(shtuar me ligjin nr.82/2022, datë 24.11.2022)
+
+Për qëllime të këtij seksioni, me termat e mëposhtëm kuptohet:
+
+a) “Bursa Shqiptare e Energjisë Elektrike” është struktura përgjegjëse për menaxhimin dhe administrimin e tregut të organizuar ndërmjet platformës së tregut për shitjen dhe blerjen e energjisë elektrike, në bazë të ditës në avancë dhe/ose brenda së njëjtës ditë, si dhe për të gjitha aktivitetet e lidhura me të, duke përfshirë edhe aktivitetin e kompensimit financiar (clearing) mes pjesëmarrësve të tregut, në përputhje me rregullat dhe modelin e tregut. 
+
+b) “Treg energjie elektrike” është një sistem ku kryhen shitje dhe blerje efektive, përfshirë edhe derivativët e energjisë elektrike, nëpërmjet kërkesave dhe ofertave, të paraqitura në periudha afatgjata dhe afatshkurtra.
+
+c) “Derivativ elektrik” është një instrument financiar që mund të përdoret nga pjesëmarrësit e tregut të energjisë elektrike si mjet sigurie ndaj luhatjeve të mundshme të çmimit të energjisë elektrike në treg.
+
+d) “Pjesëmarrës i tregut të energjisë elektrike” është një person juridik, i regjistruar si pjesëtar i tregut të energjisë elektrike, që përfshin prodhuesit, tregtarët, furnizuesit, klientët, Operatorin e Sistemit të Transmetimit, Operatorin e Sistemit të Shpërndarjes, sistemet e mbyllura të shpërndarjes dhe operatorin e tregut. Operatori i Sistemit të Transmetimit dhe Operatori i Sistemit të Shpërndarjes janë pjesëmarrës të tregut të energjisë elektrike vetëm për qëllim të sigurimit të energjisë elektrike të nevojshme për mbulimin e humbjeve në rrjet, balancimin dhe shërbimet ndihmëse.
+
+Neni 155/2
+
+Përjashtimi nga tatimi
+
+(shtuar me ligjin nr.82/2022, datë 24.11.2022)
+
+Përjashtohen nga tatimi mbi vlerën e shtuar importimi dhe furnizimi brenda vendit i energjisë elektrike të destinuar për t’u shitur nëpërmjet Bursës Shqiptare të Energjisë Elektrike.
+
+Neni 155/3
+
+Pagesa e TVSH-së
+
+(shtuar me ligjin nr.82/2022, datë 24.11.2022)
+
+1. Në rastin e furnizimit të energjisë elektrike të tregtuar nëpërmjet Bursës Shqiptare të Energjisë Elektrike, TVSH-ja bëhet e kërkueshme në momentin kur shpallen rezultatet në tregjet e ankandeve të ditës në avancë ose brenda së njëjtës ditë ose në momentin kur urdhër porositë përputhen në rastin e tregut të vazhdueshëm brenda së njëjtës ditë.
+
+2. Deri më 31 dhjetor 2026 TVSH-ja është e pagueshme nga personi i tatueshëm për të cilin kryhet furnizimi me energji elektrike nga Bursa Shqiptare e Energjisë Elektrike në përputhje me parashikimet e këtij seksioni dhe përcaktimet e nenit 21. Për efekt të përllogaritjes së TVSH-së blerësi i energjisë elektrike nga Bursa Shqiptare e Energjisë Elektrike kryen autongarkesën (reverse-charge) e TVSH-së në cilësinë e personit përgjegjës për pagesën e TVSH-së. 
+
+Procedurat për zbatimin e kësaj pike dhe fillimi i aplikimit të kësaj skeme të veçantë përcaktohen me vendim të Këshillit të Ministrave.
 
 KREU XII
 
