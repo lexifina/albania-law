@@ -4,9 +4,9 @@ Nr.9920, datë 19.5.2008
 
 PËR PROCEDURAT TATIMORE NË REPUBLIKËN E SHQIPËRISË
 
-(ndryshuar me ligjet: nr. 10137, datë 11.5.2009, nr. 10 148, datë 28.9.2009, nr. 10 209, datë 23.12.2009, nr. 10 261, datë 1.4.2010, nr. 10415, datë 7.4.2011,  nr. 62/2012, datë 24.5.2012, nr. 124/2012, datë 20.12.2012, nr. 179/2013, datë 28.12.2013, nr. 43/2014, datë 24.4.2014, nr. 84/2014, datë 17.7.2014,nr.164/2014, datë 4.12.2014, nr. 91/2015, datë 23.7.2015, 
+(ndryshuar me: ligjet nr. 10137, datë 11.5.2009, nr. 10 148, datë 28.9.2009, nr. 10 209, datë 23.12.2009, nr. 10 261, datë 1.4.2010, nr. 10415, datë 7.4.2011,  nr. 62/2012, datë 24.5.2012, nr. 124/2012, datë 20.12.2012, nr. 179/2013, datë 28.12.2013, nr. 43/2014, datë 24.4.2014, nr. 84/2014, datë 17.7.2014, nr.164/2014, datë 4.12.2014, nr. 91/2015, datë 23.7.2015, 
 
-nr.99/2015, datë 23.9.2015, nr. 110/2016, datë 27.10.2016, nr. 112/2016, datë 3.11.2016, nr. 97/2018, datë 3.12.2018, aktin normativ nr. 36, datë 24.12.2021[^fn1]) 
+nr.99/2015, datë 23.9.2015, nr. 110/2016, datë 27.10.2016, nr. 112/2016, datë 3.11.2016, nr. 97/2018, datë 3.12.2018; nr.  31/2019, datë 17.6.2019; nr. 83/2019, datë  18.12.2019; nr. 110/2020, datë 29.7.2020; aktin normativ nr. 27, datë 1.7.2020[^fn2]; aktin normativ nr. 36, datë 24.12.2021[^fn3], ligjin nr. 83/2022, datë 24.11.2022) 
 
 (i përditësuar)
 
@@ -86,7 +86,7 @@ Neni 5
 
 Përkufizime
 
-(ndryshuar shkronja “a“ me ligjin nr. 62/2012, datë 24.5.2012; shtuar shkronja “j”me ligjin nr. 112/2016, datë 3.11.2016)
+(ndryshuar shkronja “a“ me ligjin nr. 62/2012, datë 24.5.2012; shtuar shkronja “j”me ligjin nr. 112/2016, datë 3.11.2016, ndryshuar pikat “g”, “h”, “j” dhe shtuar shkronjat “k”, “l”, “m”, “n” dhe “nj” me ligjin nr. 83/2022, datë 24.11.2022)
 
 1. Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 
@@ -108,23 +108,57 @@ e) “Përfaqësues i tatimpaguesit” është personi i autorizuar ligjërisht 
 
 f) “Taksë” është pagesa e detyrueshme dhe e pakthyeshme në Buxhetin e Shtetit apo në buxhetin e organeve të qeverisjes vendore, e vendosur me ligj dhe që paguhet nga çdo person, që ushtron një të drejtë publike apo përfiton një shërbim publik në territorin e Republikës së Shqipërisë. Dispozitat e këtij ligji për tatimet dhe detyrimet tatimore zbatohen njëlloj edhe për taksat;
 
-g) “Tatimpagues” është personi apo individi, i cili detyrohet nga ligji të paguajë tatime, taksa ose kontributet e sigurimeve shoqërore dhe shëndetësore, si dhe agjenti i mbajtjes së tatimit në burim;
+g) “Tatimpagues” nënkupton çdo person që është:
+
+i. subjekt i tatimeve sipas parashikimeve të shkronjave “a” deri në “dh” të pikës 2 të nenit 4 të këtij ligji;
+
+ii. subjekt i tatimeve, taksave dhe tarifave vendore sipas pikës 3 të nenit 4 të këtij ligji;
+
+iii. subjekt i pagesës së kontributeve të sigurimeve shoqërore dhe shëndetësore sipas legjislacionit përkatës në fuqi për kontributet e sigurimeve shoqërore dhe shëndetësore;
+
+iv. agjent i mbajtjes së tatimit në burim në rastet kur parashikohet nga ky ligj apo ligjet e tjera tatimore.
 
 gj) “Vend kryesor i biznesit” është vendi i administrimit efektiv të biznesit;
 
-h) “Person i lidhur” me tatimpaguesin, sipas rastit, janë:
+h) “Person i lidhur” nënkupton çdo person që është i lidhur me një person tjetër në një marrëdhënie që ndikon drejtpërdrejt ose tërthorazi në përcaktimin e bazës tatimore nëpërmjet menaxhimit, kontrollit apo pronësisë. Dy persona janë të lidhur nëse njëri ose të dy personat do të vepronin sipas udhëzimeve, kërkesave, sugjerimeve ose vullnetit të personit tjetër ose të një personi të tretë.
 
-i) personat, me të cilët është/janë lidhur një/shumë marrëveshje biznesi;
+Personat e mëposhtëm do të trajtohen si persona të lidhur:
 
-ii) kontrolluesi apo i kontrolluari prej tij;
+i. bashkëshorti, bashkëshortja, paraardhës dhe pasardhës, ndërmjet tyre ose ndërmjet njëri-tjetrit;
 
-iii) individët, që kanë lidhje gjaku deri në shkallën e dytë në rastin e individit tregtar;
+ii. një njësi ekonomike në të cilën çdo person zotëron drejtpërdrejt ose tërthorazi të paktën 50 për qind të të drejtave të votimit ose të menaxhimit, të drejtave të shpërndarjes së dividentit ose të drejtave të kapitalit;
 
-iv) individët, që ushtrojnë detyra drejtuese në organizimin e më shumë se një tregtari;
+iii. çdo dy ose më shumë njësi ekonomike në të cilën një person tjetër zotëron ose mbart të paktën 50 për qind të të drejtave të votimit ose menaxhimit, të drejtave të shpërndarjes së dividentit ose të drejtave të kapitalit në të dy njësitë ekonomike.
 
-v) individët, që kanë marrëdhënie punësimi edhe me tatimpagues të tjerë.
+Kur zbatohen nënndarjet “ii” ose “iii” më sipër, zotërimi që i atribuohet një personi nga një person i lidhur nuk mund t’i atribuohet një personi tjetër të lidhur. Dy persona nuk do të konsiderohen të lidhur vetëm sepse njëri prej tyre konsiderohet i punësuar ose klient i personit tjetër, ose të dy konsiderohen të punësuar ose klientë të një personi të tretë, përveç rastit kur një marrëdhënie e tillë ndikon në përcaktimin e bazës tatimore, drejtpërdrejt ose në mënyrë indirekte.
 
-j) “Ambulant” është personi fizik, i cili tregton mallra ose shërbime për publikun pa pasur një vend biznesi fiks, që ushtron aktivitetin në njësi të vetme tregtimi të lëvizshme dhe lejohet të tregtojë në ambiente publike pasi është pajisur me leje nga bashkia nën juridiksionin territorial dhe administrativ.
+j) “Ambulant” nënkupton një person tatimpagues, i cili tregton mallra ose shërbime për publikun pa pasur një vend biznesi fiks, por ushtron aktivitet në njësi të vetme tregtimi të lëvizshme, apo lejohet të tregtojë në ambiente publike të autorizuara nga strukturat e pushtetit vendor që administrojnë territorin dhe që për qëllime të pagesës së tatimeve dhe kontributeve regjistrohen si tatimpagues ambulant në administratën tatimore.
+
+k) “person” nënkupton çdo person fizik dhe entitet;
+
+l) “person fizik” nënkupton çdo individ, individ të vetëpunësuar apo individ tregtar. Ai përfshin të punësuarit, të vetëpunësuarit, tregtarët individualë, si dhe çdo person tjetër fizik, i cili ka të ardhura nga çdo burim, të ardhura të marra nga trashëgimitë apo dhurimet, apo fitime nga lojërat e fatit;
+
+m) “entitet” nënkupton: 
+
+i.  çdo shoqëri apo çdo strukturë të organizimeve të korporuara apo jokorporuara (pavarësisht formës) të natyrës fitimprurëse ose jofitimprurëse; 
+
+ii. organizatat fitimprurëse dhe jofitimprurëse; 
+
+iii. ndonjë formë “trusti” të huaj, apo strukture të ngjashme; 
+
+iv. ndonjë formë partnership-i apo ndonjë entitet të natyrës personale; 
+
+v. çdo formë të joint-venture; 
+
+vi. çdo formë kompanie menaxhimi kapitalesh apo asetesh;
+
+vii. çdo formë e shoqërive sipas Kodit Civil apo ligjit të shoqërive tregtare;
+
+viii. partnership-et pasive apo në “fjetje”;   
+
+n) “individ i vetëpunësuar” nënkupton çdo person fizik i angazhuar në furnizimin e çdo lloj shërbimi, apo i angazhuar në veprimtari të tjera profesionale, të ndryshme nga veprimtaria tregtare;
+
+nj) “individ tregtar” nënkupton çdo person fizik të angazhuar në veprimtari tregtare.
 
 Neni 6
 
@@ -170,25 +204,9 @@ Neni 8
 
 Tatimpaguesi rezident dhe jorezident
 
-1. Tatimpagues rezident është:
+(ndryshuar me ligjin me ligjin nr. 83/2022, datë 24.11.2022)
 
-a) individi, i cili:
-
-i) ka një vendbanim në Republikën e Shqipërisë, në kuptim të nenit 12 të Kodit Civil;
-
-ii) ka nënshtetësi shqiptare dhe është funksionar diplomatik ose kryen një funksion të ngjashëm, në emër të Republikës së Shqipërisë, jashtë territorit të saj; 
-
-iii) në mënyrë të vazhdueshme ose me ndërprerje, qëndron në Republikën e Shqipërisë më tepër se 183 ditë në një periudhë prej 365 ditësh; 
-
-b) personi juridik, i cili:
-
-i) është regjistruar si person juridik shqiptar; 
-
-ii) e ka vendin e administrimit efektiv të veprimtarisë në Republikën e Shqipërisë; 
-
-c) personi fizik, i cili është regjistruar në organin kompetent me këtë cilësi, në bazë të legjislacionit shqiptar.
-
-2. Tatimpaguesi, që nuk plotëson të paktën njërën nga parashikimet e pikës 1 të këtij neni, është tatimpagues jorezident.
+Personat rezidentë dhe jorezidentë kanë kuptimin si në ligjin për tatimin mbi të ardhurat.
 
 Neni 9
 
@@ -276,35 +294,49 @@ Neni 15
 
 Zyrat tatimore të qeverisjes vendore
 
-(ndryshuar me ligjin nr. 179/2013, datë 28.12.2013)
+(ndryshuar me ligjin nr. 179/2013, datë 28.12.2013, nr. 83/2022, datë 24.11.2022)
 
-Zyrat tatimore të qeverisjes vendore funksionojnë dhe zbatojnë ligjin nr. 9632, datë 30.10.2006, “Për sistemin e taksave vendore” dhe administrojnë taksat, detyrimet tatimore dhe pagesat publike vendore, me përjashtim të tatimit të thjeshtuar mbi fitimin për biznesin e vogël. Drejtoria e Përgjithshme e Tatimeve vlerëson, mbledh, kontrollon dhe arkëton tatimin e thjeshtuar mbi fitimin për biznesin e vogël.
+Zyrat tatimore të qeverisjes vendore funksionojnë dhe administrojnë taksat, tarifat dhe pagesat publike vendore në përputhje me legjislacionin në fuqi për sistemin e taksave vendore.
 
 Neni 16
 
 Struktura e administratës tatimore qendrore
 
-(shtuar shkronja “e “ me ligjin nr. 10209, datë 23.12.2009; shtuar shkronja “ë” e pikës 2 me ligjin nr. 10 261, datë 1.4.2010; shtuar shkronja “f“ në pikën 3 me ligjin nr. 91/2015, datë 23.7.2015; ndryshuar me ligjin nr. 112/2016, datë 3.11.2016)
+(shtuar shkronja “e “ me ligjin nr. 10209, datë 23.12.2009; shtuar shkronja “ë” e pikës 3 me ligjin nr. 10 261, datë 1.4.2010; shtuar shkronja “f“ në pikën 3 me ligjin nr. 91/2015, datë 23.7.2015; ndryshuar pika 3 e shfuqizuar pika 4, ndryshuar fjalë në pikën 6 me ligjin nr. 112/2016, datë 3.11.2016, ndryshuar pika 3 me ligjin nr. 83/2022, datë 24.11.2022)
 
 1. Struktura organizative dhe numri i përgjithshëm i personelit të administratës tatimore qendrore miratohen nga Kryeministri, me propozimin e Ministrit të Financave, pas bashkërendimit me DAP-in.
 
 2. Organigrama e administratës tatimore qendrore miratohet nga Ministri i Financave, me propozimin e drejtorit të Përgjithshëm të Tatimeve.
 
- 3. Administrata tatimore qendrore është e organizuar në drejtori dhe njësi të tjera sipas funksioneve të mëposhtme:
+3. Administrata tatimore qendrore është e organizuar në drejtori dhe njësi të tjera sipas funksioneve të mëposhtme:
 
-	a) Funksionet bazë dhe operacionale, ku bëjnë pjesë:
+a) funksionet bazë dhe operacionale, ku bëjnë pjesë: 
 
-	i) shërbimi, regjistrimi dhe edukimi i tatimpaguesit; 
+i. shërbimi, regjistrimi dhe edukimi i tatimpaguesit;
 
-	ii) menaxhimi i riskut, rimbursimi i tatimeve, kontrolli tatimor;
+ii. menaxhimi i riskut, kontrolli i tatimpaguesve, kontabiliteti dhe statistika;
 
-	iii) mbledhja e detyrimeve tatimore/zbatimi i masave shtrënguese; 
+iii. mbledhja e detyrimeve tatimore të papaguara/zbatimi i masave shtrënguese; 
 
-	iv) hetimi tatimor; 
+iv. hetimi tatimor, verifikimi në terren;
 
-	v) investigimi i brendshëm antikorrupsion, auditi i brendshëm.
+v. investigimi i brendshëm antikorrupsion, auditi i brendshëm.
 
-b) Funksionet mbështetëse, ku bëjnë pjesë: financa, statistikat dhe analiza, teknologjia e informacionit, shërbimi ligjor e teknik, shërbimet administrative, burimet njerëzore dhe marrëdhëniet institucionale.
+b) funksionet mbështetëse, ku bëjnë pjesë: 
+
+i. financa dhe buxheti;
+
+ii. rimbursimi i tatimeve; 
+
+iii. shërbimi teknik dhe ligjor; 
+
+iv. shërbimet mbështetëse;
+
+v. burimet njerëzore;
+
+vi. marrëdhëniet me jashtë dhe menaxhimi i projekteve; 
+
+vii. proceset e biznesit.
 
 4. Shfuqizuar.
 
@@ -364,7 +396,7 @@ Neni 21
 
 Shpërblimet e personelit dhe shpenzimet për investime
 
-(riformuluar me ligjin nr. 164/2014, datë 4.12.2014)
+(ndryshuar me ligjin nr. 164/2014, datë 4.12.2014)
 
 1. Drejtorisë së Përgjithshme të Tatimeve i lihet deri në 2 për qind të të ardhurave tatimore të mbledhura, për t’u përdorur për investime për përmirësimin dhe modernizimin e infrastrukturës së mbledhjes së të ardhurave dhe për shpërblime stimuluese të personelit të administratës tatimore.  
 
@@ -382,7 +414,7 @@ Neni 22
 
 Procedura disiplinore
 
-(shtuar pika 3 me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar me ligjin nr. 112/2016, datë 3.11.2016)
+(shtuar pika 4  me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar me ligjin nr. 112/2016, datë 3.11.2016)
 
 	1.Procedurat për shkeljet dhe masat disiplinore të nëpunësve të administratës tatimore qendrore, që janë nëpunës civilë, bëhen në përputhje me ligjin për nëpunësin civil. 
 
@@ -398,7 +430,7 @@ Neni 23
 
 Mënyrat e komunikimit me tatimpaguesin
 
-(ndryshuar pikat 2 dhe 3 me ligjin nr. 84/2014, datë 17.7.2014; ndryshuar me ligjin nr. 112/2016, datë 3.11.2016)
+(ndryshuar pikat 2 dhe 3 me ligjin nr. 84/2014, datë 17.7.2014; ndryshuar lidhëza n[ pikën 2 dhe shtuar pika 3/1 me ligjin nr. 112/2016, datë 3.11.2016)
 
 1. Administrata tatimore mund të kërkojë përdorimin nga tatimpaguesit të formularëve të veçantë, për dorëzimin e dokumentacionit, informacionit apo kërkesave. Kur nuk kërkohet formular, çdo komunikim, i kërkuar sipas legjislacionit tatimor, dërgohet në mënyrë elektronike ose dorëzohet me shkrim, me përjashtim të rasteve kur parashikohet ndryshe.
 
@@ -624,15 +656,23 @@ Neni 39
 
 Regjistri i individëve
 
-1. Si numër identifikimi për qëllime tatimore, për tatimpaguesin që është individ, shërben numri personal i identifikimit, i marrë në përputhje me legjislacionin e fushës.
+(ndryshuar me ligjin me ligjin nr. 83/2022, datë 24.11.2022)
 
-2. Administrata tatimore qendrore mban regjistër të veçantë të individëve.
+1. Administrata tatimore mban regjistër të veçantë të individëve sipas të dhënave të gjendjes civile, të cilët kanë fituar zotësi të plotë për të vepruar, për efekt të deklarimit nga ana e tyre të të ardhurave individuale të realizuara. 
+
+2. E dhëna bazë e identifikimit të tatimpaguesit individ, për qëllime tatimore, është numri personal sipas Regjistrit Kombëtar të Gjendjes Civile. 
+
+3. Përbërësit e gjendjes civile të tatimpaguesit dhe çdo përditësim i tyre shkëmbehen nëpërmjet platformës qeveritare të ndërveprimit në përputhje me legjislacionin në fuqi. 
+
+4. Individët që mbartin detyrimin ligjor të dorëzimit të deklaratës individuale të të ardhurave vjetore, të cilët nuk e përmbushin këtë detyrim, njoftohen nga administrata tatimore me qëllim vetëpërmbushjen.  
+
+5. Nëse individi nuk përmbush detyrimin sipas pikës 4 të këtij neni, drejtorisë rajonale të juridiksionit i lind e drejta të kryejë vlerësimin e detyrimeve tatimore përkatëse.
 
 Neni 40
 
 Regjistrimi i personave, që ushtrojnë veprimtari tregtare dhe jotregtare
 
-(ndryshuar titulli me ligjin nr. 10209, datë 23.12.2009; ndryshuar me ligjin nr. 84/2014, datë 17.7.2014; shtuar pikat 2.1 dhe 2.2 me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar pika 2.2, shkronja “ç” e pikës 4, me ligjin nr. 112/2016, datë 3.11.2016; shtuar një fjali në pikën 1 me ligjin nr. 97/2018, datë 3.12.2018)
+(ndryshuar titulli me ligjin nr. 10209, datë 23.12.2009; ndryshuar pika 4, shtuar pika 4/1 me ligjin nr. 84/2014, datë 17.7.2014; shtuar pikat 2.1 dhe 2.2 me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar pika 2.2, shkronja “ç” e pikës 4, me ligjin nr. 112/2016, datë 3.11.2016; shtuar një fjali në pikën 1 me ligjin nr. 97/2018, datë 3.12.2018)
 
 1. Personat fizikë dhe juridikë ushtrojnë veprimtari ekonomiko-tregtare vetëm pas regjistrimit të tyre, në përputhje me ligjin nr. 9723, datë 3.5.2007 “Për Qendrën Kombëtare të Regjistrimit”. Një person fizik me të njëjtin numër të identifikimit personal regjistrohet vetëm një herë nga Qendra Kombëtare e Biznesit. Atij i lind e drejta të regjistrohet dhe të pajiset me një NIPT/NUIS të ri nga Qendra Kombëtare e Biznesit, vetëm mbas çregjistrimit të NIPT-it/NUIS-it ekzistues.
 
@@ -670,9 +710,9 @@ Neni 41
 
 Identifikimi i personave, që ushtrojnë veprimtari tregtare pa u regjistruar
 
-(ndryshuar me ligjin nr. 10415, datë 7.4.2011; shtuar pika 3 me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar me ligjin nr. 112/2016, datë 3.11.2016)
+(ndryshuar me ligjin nr. 10415, datë 7.4.2011; shtuar pika 3 me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar me ligjin nr. 112/2016, datë 3.11.2016; ndryshuar fjalë në fjalinë e dytë të pikës 1 me ligjin nr. 83/2019, datë 18.12.2019)
 
-	1. Kur administrata tatimore identifikon persona, të cilët ushtrojnë veprimtari ekonomiko-tregtare pa u regjistruar në Qendrën Kombëtare të Biznesit, vendos masën e bllokimit të mallrave dhe detyron personin të regjistrohet menjëherë në Qendrën Kombëtare të Biznesit, si tatimpagues i tatimit mbi vlerën e shtuar. Masa e bllokimit hiqet pas kryerjes së regjistrimit për veprimtarinë ekonomike, duke aplikuar masat dhe dënimin, sipas shkronjës “b”, të pikës 1, të nenit 121, të këtij ligji. 
+	1. Kur administrata tatimore identifikon persona, të cilët ushtrojnë veprimtari ekonomiko-tregtare pa u regjistruar në Qendrën Kombëtare të Biznesit, vendos masën e bllokimit të mallrave dhe detyron personin të regjistrohet menjëherë në Qendrën Kombëtare të Biznesit, si tatimpagues i tatimit mbi vlerën e shtuar. Masa e bllokimit hiqet pas kryerjes së regjistrimit për veprimtarinë ekonomike, duke aplikuar masat dhe dënimin, sipas pikës 2, të nenit 121, të këtij ligji. 
 
 	2. Në rast se një person ushtron veprimtari në fushën e shërbimeve, i pajisur me leje /licencë/autorizim profesional, por nuk e ka regjistruar veprimtarinë në QKB, përveç sa është parashikuar në pikën 1, të këtij neni, për mallrat që disponon, administrata tatimore u propozon strukturave kompetente pezullimin e lejes /licencës/autorizimit për ushtrim veprimtarie për një periudhë gjashtëmujore.
 
@@ -712,7 +752,7 @@ Neni 43
 
 Përditësimi i të dhënave të regjistrimit
 
-(shfuqizuar shkronja “dh” me ligjin nr. 84/2014, datë 17.7.2014; shtuar pika 1/1, me ligjin nr. 112/2016, datë 3.11.201; shtuar pika 1/2  me ligjin nr. 97/2018, datë 3.12.2018)
+(shfuqizuar shkronja “dh” e pikës 3 me ligjin nr. 84/2014, datë 17.7.2014; shtuar pika 1/1, me ligjin nr. 112/2016, datë 3.11.201; shtuar pika 1/2  me ligjin nr. 97/2018, datë 3.12.2018)
 
 1. Tatimpaguesi, person fizik dhe juridik, regjistron çdo ndryshim të të dhënave në Qendrën Kombëtare të Regjistrimit, siç përcaktohet në ligjin nr. 9723, datë 3.5.2007 “Për Qendrën Kombëtare të Regjistrimit”.
 
@@ -742,7 +782,7 @@ Neni 44
 
 Kalimi në regjistrin pasiv
 
-(shtuar pika 6 me ligjin nr. 10415, datë 7.4.2011; ndryshuar pikat 1 dhe 2 me ligjin nr. 84/2014, datë 17.7.2014; shtuar pika 7 me ligjin nr. 164/2014, datë 4.12.2014; ndryshuar pika 2 dhe 5 me ligjin nr. 112/2016, datë 3.11.2016; shtuar fjalë në shkronjën “c” të pikës 1, shtuar pika 4/1 dhe ndryshuar pika 7 me ligjin nr. 97/2018, datë 3.12.2018)
+(shtuar pika 6 me ligjin nr. 10415, datë 7.4.2011; ndryshuar pikat 1 dhe 2 me ligjin nr. 84/2014, datë 17.7.2014; shfuqizuar pika 6 e shtuar pika 7 me ligjin nr. 164/2014, datë 4.12.2014; ndryshuar pika 2 dhe 5 me ligjin nr. 112/2016, datë 3.11.2016; shtuar fjalë në shkronjën “c” të pikës 1, shtuar pika 4/1 dhe ndryshuar pika 7 me ligjin nr. 97/2018, datë 3.12.2018)
 
 1. Administrata tatimore transferon regjistrimin e tatimpaguesit nga regjistri aktiv në regjistrin pasiv, që mbahet nga administrata tatimore, në rast se përmbushet, të paktën, një nga kushtet e mëposhtme:
 
@@ -850,9 +890,9 @@ Dokumentimi dhe mbajtja e të dhënave tatimore
 
 për tatimpaguesit, subjekt i TVSH-së ose i tatim-fitimit
 
-(shtuar pika 3 me ligjin nr. 99/2015, datë 23.9.2015)
+(shtuar pika 3 me ligjin nr. 99/2015, datë 23.9.2015; zëvendësuar fjalë në pikën 1, ndryshuar pika 3 me ligjin nr. 83/2019, datë 18.12.2019)
 
-1. Tatimpaguesit, që janë subjekt i TVSH-së ose i tatim-fitimit, për përllogaritjen e detyrimit tatimor, mbajnë regjistrat, dokumentacionin kontabël, librat dhe informacionin financiar, si dhe lëshojnë faturë tatimore, dëftesë tatimore ose kupon tatimor, në përputhje me ligjet e fushës, si dhe aktet nënligjore, të nxjerra në zbatim të tyre. 
+1. Tatimpaguesit, që janë subjekt i TVSH-së ose i tatim-fitimit, për përllogaritjen e detyrimit tatimor, mbajnë regjistrat, dokumentacionin kontabël, librat dhe informacionin financiar, si dhe lëshojnë faturë, në përputhje me ligjet e fushës, si dhe aktet nënligjore, të nxjerra në zbatim të tyre. 
 
 2. Tatimpaguesi, subjekt i TVSH-së, regjistron menjëherë të gjitha veprimet financiare dhe përgatit e mban libra e regjistra kontabël, ku regjistrohen:
 
@@ -864,9 +904,7 @@ c) veprimet e patatueshme;
 
 ç) pagesat për mallra dhe shërbime, përfshi shumën e secilës blerje apo pagesë, shumën e tatimit të paguar dhe emrin e adresën e furnizuesit.
 
-3. Çdo blerësi, person fizik, juridik ose individ, i lind e drejta të mos kryejë transaksionin për vlerën e mallit ose shërbimit të ofruar, nëse shitësi nuk lëshon faturën tatimore ose kuponin tatimor, në përputhje me këtë ligj. 
-
-Për këtë qëllim, tatimpaguesi detyrohet të afishojë në një vend të dukshëm, në adresën ku kryen veprimtarinë, një njoftim për blerësin në përputhje me këtë nen.  
+3. Tatimpaguesi nuk është i detyruar të mbajë regjistra të veçantë, sipas pikës 2, të këtij neni, për të cilët administrata tatimore harton raporte automatike, në përputhje me legjislacionin në fuqi për faturën dhe sistemin e monitorimit të qarkullimit.
 
 Neni 47
 
@@ -874,59 +912,39 @@ Dokumentimi dhe mbajtja e të dhënave tatimore
 
 për tatimpaguesit e klasifikuar “biznes i vogël”
 
-(ndryshuar me ligjin nr. 164/2014, datë 4.12.2014)
+(ndryshuar me ligjin nr. 164/2014, datë 4.12.2014, ndryshuar dhe shtuar fjalë me ligjin nr. 83/2019, datë 18.12.2019)
 
-Tatimpaguesit, që janë subjekt i ligjit “Për sistemin e taksave vendore”, për përllogaritjen e detyrimit tatimor, mbajnë regjistra, libra dhe dokumente të tjera, si dhe lëshojnë një faturë të thjeshtë tatimore apo kupona tatimorë, në përputhje me dispozitat e ligjit nr. 9632, datë 30.10.2006 “Për sistemin e taksave vendore”, si dhe dispozitat e ligjit “Për tatimin mbi të ardhurat”. 
+Tatimpaguesit, që janë subjekt i ligjit “Për sistemin e taksave vendore”, për përllogaritjen e detyrimit tatimor, mbajnë regjistra, libra dhe dokumente të tjera, si dhe lëshojnë një faturë, në përputhje me dispozitat e ligjit nr. 9632, datë 30.10.2006 “Për sistemin e taksave vendore”, si dhe dispozitat e ligjit “Për tatimin mbi të ardhurat” dhe legjislacionit në fuqi për faturën dhe sistemin e monitorimit të qarkullimit. 
 
 Neni 48
 
 Mbajtja dhe ruajtja e dokumenteve të të dhënave tatimore
 
+(shfuqizuar pika 3 me ligjin nr. 83/2019, datë 18.12.2019)
+
 1. Regjistrat, librat dhe informacioni financiar janë dokumente, që përmbajnë informacionin e regjistruar, në mënyrë kronologjike dhe sistematike, të veprimeve tregtare të tatimpaguesit, të cilat mbahen për përcaktimin e shumës së detyrimeve tatimore të këtij tatimpaguesi.
 
 2. Të dhënat dhe informacioni financiar e kontabël ruhen nga tatimpaguesi, për të paktën 5 vjet, duke filluar nga fundi i vitit tatimor, të cilit i përkasin dokumentet.
 
-3. Tatimpaguesi, për çdo shitje, lëshon faturë tatimore ose kupon tatimor.
+3. Shfuqizuar.
 
 Neni 49
 
 Fatura tatimore
 
-1. Çdo shitblerje mallrash apo të drejtash, si dhe çdo kryerje punimi apo shërbimi, që është pjesë e veprimtarisë tregtare, është objekt faturimi.
-
-2. Faturat për shitjen e sendeve apo kryerjen e punimeve e të shërbimeve janë fatura tatimore, të cilat përfshihen në përllogaritjet e detyrimit tatimor.
-
-3. Fatura tatimore përmban numrin rendor dhe numrin personal të identifikimit, numrin e identifikimit të tatimpaguesit, datën dhe vendin e lëshimit, emrin dhe adresën e palëve, datën e realizimit të shitjes ose të punimit apo shërbimit, emërtimin e saktë të tyre, çmimin e plotë të shitjes dhe, nëse është rasti, rritjet ose zbritjet e tjera, të zbatuara, si dhe shumat e shifruara, cilado qoftë mënyra e likuidimit të faturës.
+(shfuqizuar me ligjin nr. 83/2019, datë 18.12.2019)
 
 Neni 50
 
 Fatura tatimore me TVSH
 
-(ndryshuar fjalë në pikën 1, me ligjin nr. 112/2016, datë 3.11.2016)
-
-1. Tatimpaguesi, që i nënshtrohet tatimit mbi vlerën e shtuar (TVSH), sa herë që ofron mallra apo shërbime për një person tjetër, duhet të lëshojë fature tatimore me TVSH, në përputhje me ligjin nr. 92/2014, “Për tatimin mbi vlerën e shtuar”, të ndryshuar.
-
-2. Ministri i Financave, me udhëzim, mund të parashikojë transaksione, për të cilat nuk ekziston detyrimi i lëshimit të një fature tatimore, duke përcaktuar kriteret për dokumentimin e këtyre transaksioneve.
-
-3. Përveç përshkrimeve dhe të dhënave, të parashikuara në pikën 3 të nenit 49 të këtij ligji, fatura tatimore me TVSH përmban:
-
-a) vlerën, mbi të cilin përllogaritet TVSH -ja;
-
-b) vlerën me TVSH, të zbatuar sipas kategorive të sendeve, punimeve e shërbimeve;
-
-c) shumën e TVSH-së.
-
-4. Ministri i Financave, me udhëzim, mund të përcaktojë kërkesa të tjera, që duhet të përmbajë një faturë tatimore, për rastet që rrjedhin nga veçoritë e veprimtarive të zhvilluara, të sendeve të tregtueshme, të punimeve apo të shërbimeve.
+(ndryshuar fjalë në pikën 1, me ligjin nr. 112/2016, datë 3.11.2016; shfuqizuar me ligjin nr. 83/2019, datë 18.12.2019)
 
 Neni 51
 
 Lëshimi i faturës tatimore
 
-1. Shitësi lëshon faturë tatimore dhe blerësi duhet ta kërkojë atë në kohën e realizimit të shitjes apo të kryerjes së punimit ose shërbimit. Fatura tatimore përgatitet nga shitësi në jo më pak se dy kopje, nga të cilat njërën e merr dhe e ruan blerësi, kurse tjetrën e mban dhe e ruan shitësi. Faturat përgatiten me numër rendor progresiv.
-
-2. Tatimpaguesi, që mban në ruajtje, përdor apo transporton mallra të pashoqëruara me dokumente tatimore, dënohet, në përputhje me nenin 121 të këtij ligji. 
-
-3. Ministri i Financave, për efekt të llogaritjes së vlerës së gjobës, në përputhje me shkronjën “b” të pikës 1 të nenit 121 të këtij ligji, përcakton, me udhëzim, mënyrën e përllogaritjes së vlerës së tregut, për mallrat, që janë në qarkullim, të pashoqëruara me faturë tatimore.
+(shfuqizuar me ligjin nr. 83/2019, datë 18.12.2019)
 
 Neni 51/1
 
@@ -940,41 +958,19 @@ Neni 52
 
 Prodhimi dhe shpërndarja e dokumenteve tatimore
 
-(ndryshuar fjalë në pikën 3 me ligjin nr. 10137, datë 11.5.2009; shtuar pika 4 me ligjin nr. 112/2016, datë 3.11.2016)
-
-1. Drejtori i Përgjithshëm i Tatimeve miraton formatin e faturës tatimore, e cila shtypet dhe shpërndahet nga autoritetet tatimore apo nga subjekte private të autorizuara.
-
-2. Kriteret, që duhet të plotësojnë personat, që licencohen për shtypjen dhe shpërndarjen e dokumentacionit tatimor, kushtet e shtypjes, informacionin që duhet të përmbajnë, standardet e sigurisë, si dhe rregullat e shpërndarjes e të vënies në dispozicion të tatimpaguesve të faturave tatimore, miratohen me vendim të Këshillit të Ministrave. 
-
-3. Në rastet kur shërbimi i shtypjes dhe shpërndarjes së dokumenteve tatimore bëhet nga subjekte tregtare private, licenca për shtypjen dhe shpërndarjen e dokumenteve tatimore lëshohet nga Drejtori i Përgjithshëm i Tatimeve.
-
-4. Drejtori i Përgjithshëm i Tatimeve, me kërkesë të tatimpaguesit, pavarësisht nga numri i transaksioneve të kryera, lejon mospërdorimin e faturave tatimore, sipas pikës 1, të këtij neni, kur tatimpaguesi është i aftë të lëshojë fatura tatimore kompjuterike, me numër serial unik dhe të papërsëritshëm, të printuara nga sistemi i tij i regjistrimeve. 
-
-	Ministri i Financave përcakton me udhëzim procedurën për zbatimin e kësaj pike.
+(ndryshuar fjalë në pikën 3 me ligjin nr. 10137, datë 11.5.2009; shtuar pika 4 me ligjin nr. 112/2016, datë 3.11.2016; shfuqizuar me ligjin nr. 83/2019, datë 18.12.2019 )
 
 Neni 53
 
 Faturat tatimore, të përgatitura nga blerësi
 
-1. Në rastin e shitjeve nga individët, që nuk kanë cilësinë e tregtarit, fatura përgatitet nga blerësi, ushtrues i veprimtarisë tregtare, me kusht që dokumenti të përmbajë përshkrimet dhe të dhënat e parashikuara në këtë ligj dhe vërtetohet nga furnizuesi. Blerësi, për çdo rast të tillë, shënon në faturë edhe numrin e tij të identifikimit.
-
-2. Ministri i Financave, me udhëzim, mund të parashikojë forma të posaçme dokumentesh, që zëvendësojnë faturën tatimore.
+(shfuqizuar me ligjin nr. 83/2019, datë 18.12.2019
 
 Neni 54
 
 Kuponi tatimor
 
-(ndryshuar me ligjin nr. 164/2014, datë 4.12.2014; shtuar pika 5 me ligjin nr. 99/2015, datë 23.9.2015)
-
-1. Kuponi tatimor është dokumenti i lëshuar me anë të pajisjeve fiskale apo të pajisjeve të tjera elektronike me aparat shtypshkrimi.
-
-2. Subjektet, që detyrohen të lëshojnë kupona tatimorë, lëshojnë njëherazi edhe faturë, nëse shitja apo shërbimi i kryer është për një përdorim tregtar dhe, për këtë shkak, blerësi është i detyruar ta kërkojë faturën.
-
-3. Të gjithë tatimpaguesit e shitjeve me pakicë, që shesin mallra apo ofrojnë shërbime në mjedise apo njësi të përhershme, të hapura për publikun, duhet të instalojnë pajisje fiskale dhe të lëshojnë kupona tatimorë për çdo transaksion.
-
-4. Kuponi tatimor, i pashoqëruar me faturë, nuk njihet si dokument justifikues i shpenzimeve për blerësin, ushtrues të një veprimtarie tregtare.
-
-5. Deri në datën 31.3.2016, për të gjithë tatimpaguesit që kryejnë shitje me shumicë të mallrave te blerës, joushtrues të një veprimtarie tregtare (individë), shitjet me kupon tatimor, të lëshuar nga pajisja fiskale, nuk duhet të tejkalojnë 10 për qind të vlerës së tatueshme të mallrave të shitura në të njëjtën periudhë tatimore të muajit të vitit të kaluar, pa përfshirë TVSH-në. Nga data 1 prill 2016, tatimpaguesit, që kryejnë shitje me shumicë të mallrave, nuk lejohen të shesin me kupon tatimor te blerës, joushtrues të një veprimtarie tregtare (individë).
+(hequr fjalë me ligjin nr. 164/2014, datë 4.12.2014; shtuar pika 5 me ligjin nr. 99/2015, datë 23.9.2015; shfuqizuar me ligjin nr. 83/2019, datë 18.12.2019)
 
 Neni 54/1
 
@@ -1004,35 +1000,13 @@ Neni 55
 
 Detyrimi për përdorimin e pajisjeve fiskale dhe për vendosjen e sistemeve të monitorimit të qarkullimit
 
-(ndryshuar fjalë me ligjin nr. 10137, datë 11.5.2009; ndryshuar me ligjin nr. 164/2014, datë 4.12.2014; shtuar fjali në pikën 1  me ligjin nr. 99/2015, datë 23.9.2015; shtuar fjalë në pikën 1 me ligjin nr. 112/2016, datë 3.11.2016)
-
-	1. Tatimpaguesit, që kryejnë qarkullimin e mallrave dhe të shërbimeve, për të cilat pagesat nuk kryhen nëpërmjet bankës, ose institucioneve financiare të parasë elektronike, të licencuara nga Banka e Shqipërisë,  janë të detyruar të instalojnë dhe të përdorin sistemin fiskal, nëpërmjet përdorimit të pajisjeve fiskale, për regjistrimin e pagesave me para në dorë dhe për lëshimin, në mënyrë të detyrueshme, të kuponit tatimor. Ndalohet mbajtja apo përdorimi i pajisjeve fiskale dhe sistemeve të monitorimit të qarkullimit, të ndryshme nga ato të përcaktuara në këtë ligj apo aktet nënligjore në zbatim të këtij ligji.
-
-	2. Tatimpaguesit në sektorë të veçantë të ekonomisë, sipas përcaktimeve me vendim të Këshillit të Ministrave, janë të detyruar të instalojnë dhe të përdorin sisteme të monitorimit të qarkullimit.
-
-3. Këshilli i Ministrave miraton:
-
-a) karakteristikat teknike e funksionale të pajisjeve fiskale dhe sistemeve të monitorimit të qarkullimit;
-
-b) sistemet e integruara të kompjuterizuara për transferimet dhe deklarimet financiare;
-
-c) sistemet e komunikimit, procedurën dhe dokumentacionin për miratimin e tyre;
-
-ç) kriteret për pajisjen me autorizim të shoqërive, që ofrojnë pajisjet fiskale dhe sistemet e monitorimit të qarkullimit, si dhe kushtet e heqjes së autorizimit për këto shoqëri;
-
-d) rastet e përjashtimit. 
-
-4. Ministri i Financave, me udhëzim, miraton procedurën dhe dokumentacionin për miratimin për përdorim të pajisjeve fiskale dhe sistemeve të monitorimit të qarkullimit, elementet e kuponit tatimor, mënyrën e kontrollit dhe kontrollin e pajisjes fiskale e të sistemeve të monitorimit të qarkullimit, distancën e ruajtjes së kuponit tatimor dhe rregullat për mirëmbajtjen e tyre teknike e të shërbimit.
+(ndryshuar fjalë me ligjin nr. 10137, datë 11.5.2009; ndryshuar me ligjin nr. 164/2014, datë 4.12.2014; shtuar fjali në pikën 1  me ligjin nr. 99/2015, datë 23.9.2015; shtuar fjalë në pikën 1 me ligjin nr. 112/2016, datë 3.11.2016; shfuqizuar me ligjin nr. 83/2019, datë 18.12.2019)
 
 Neni 56
 
 Kontrolli i sistemit automatik të mbledhjes së të dhënave të pajisjeve fiskale
 
-(ndryshuar fjalë me ligjin nr. 10137, datë 11.5.2009)
-
-1. Ministri i Financave mund të vendosë që mbledhja e të dhënave të pajisjeve fiskale të bëhet nëpërmjet një sistemi automatik.
-
-2. Shërbimi i sistemit të kontrollit automatik mund të kryhet nga subjektet e pajisura me licencë nga Drejtori i Përgjithshëm i Tatimeve, në bazë të kritereve të parashikuara me vendim të Këshillit të Ministrave.
+(ndryshuar fjalë me ligjin nr. 10137, datë 11.5.2009; shfuqizuar me ligjin nr. 83/2019, datë 18.12.2019)
 
 Seksioni III
 
@@ -1042,13 +1016,15 @@ Neni 57
 
 Dokumentimi dhe mbajtja e llogarive për qëllime tatimore
 
-1. Tatimpaguesi mban kontabilitetin, në përputhje me dispozitat e ligjit nr. 9228, datë 29.4.2004 “Për kontabilitetin dhe pasqyrat financiare” dhe me aktet e nxjerra në zbatim të tij.
+(zëvendësuar fjalë në pikën 4 me ligjin 83/2019, datë 18.12.2019; ndryshuar pika 1 me ligjin me ligjin nr. 83/2022, datë 24.11.2022)
+
+1. Tatimpaguesi është përgjegjës për mbajtjen e kontabilitetit në përputhje me legjislacionin në fuqi për kontabilitetin dhe pasqyrat financiare.
 
 2. Për regjistrimin e veprimeve ekonomike, që lidhen me tatimet dhe taksat, përdoren edhe librat, regjistrat apo dokumentacioni i përcaktuar në ligjet tatimore specifike dhe në dispozitat përkatëse nënligjore. 
 
 3. Tatimpaguesit janë të detyruar të përdorin dokumentacionin bazë, përfshirë faturën tatimore, në përputhje me legjislacionin tatimor dhe dispozitat nënligjore përkatëse.
 
-4. Tatimpaguesit, subjekte të ligjit nr. 9632, datë 30.10.2006 “Për sistemin e taksave vendore”, për përllogaritjen e detyrimit tatimor, mbajnë regjistra, libra dhe dokumente të tjera, si dhe lëshojnë fatura të thjeshta tatimore, dëftesa tatimore dhe kupona tatimorë, në përputhje me ligjin e fushës dhe me aktet nënligjore, të nxjerra në zbatim të tij. Gjithashtu, këta tatimpagues mbajnë dokumentacion tatimor, sipas kërkesave të këtij ligji, të ligjeve specifike tatimore dhe të dispozitave nënligjore, të dala në zbatim të tyre.
+4. Tatimpaguesit, subjekte të ligjit nr. 9632, datë 30.10.2006 “Për sistemin e taksave vendore”, për përllogaritjen e detyrimit tatimor, mbajnë regjistra, libra dhe dokumente të tjera, si dhe lëshojnë faturë, në përputhje me ligjin e fushës dhe me aktet nënligjore, të nxjerra në zbatim të tij. Gjithashtu, këta tatimpagues mbajnë dokumentacion tatimor, sipas kërkesave të këtij ligji, të ligjeve specifike tatimore dhe të dispozitave nënligjore, të dala në zbatim të tyre.
 
 5. Të dhënat dhe regjistrat e nevojshëm për tatimet mund të mbahen në formë elektronike, kur legjislacioni tatimor apo dispozitat përkatëse nënligjore nuk e pengojnë një gjë të tillë, me kusht që të garantojnë, në çdo kohë, një pasqyrim të plotë të veprimeve ekonomike dhe të të dhënave për tatimet. 
 
@@ -1060,19 +1036,63 @@ Neni 58
 
 Dokumentimi i mallrave
 
- Tatimpaguesit që mbajnë, tregtojnë, përdorin ose transportojnë mallra, duhet të kenë dokumentet e nevojshme tatimore, që provojnë pronësinë ose kontrollin mbi këto mallra dhe, me kërkesën e zyrtarëve të administratës tatimore, i vënë këto dokumente në dispozicion të tyre.
+(shtuar fjalë me ligjin 83/2019, datë 18.12.2019)
+
+ Tatimpaguesit që mbajnë, tregtojnë, përdorin ose transportojnë mallra, duhet të kenë dokumentet e nevojshme tatimore duke përfshirë faturën e shoqërimit, në përputhje me legjislacionin në fuqi për faturën dhe sistemin e monitorimit të qarkullimit, që provojnë pronësinë ose kontrollin mbi këto mallra dhe, me kërkesën e zyrtarëve të administratës tatimore, i vënë këto dokumente në dispozicion të tyre.
 
 Neni 59
 
 Pagesat me para në dorë
 
-(Ndryshuar pika 1 me ligjin nr. 179, datë 28.12.2013; shtuar pika 1/1 me ligjin nr. 112/2016, datë 3.11.2016)
+(Ndryshuar pika 1 me ligjin nr. 179/2013, datë 28.12.2013; shtuar pika 1/1 me ligjin nr. 112/2016, datë 3.11.2016; shtuar pika 1/2 dhe 1/3 me ligjin nr. 31/2019, datë 17.6.2019)
 
 1. Tatimpaguesit, persona fizikë apo juridikë, tregtarë, nuk mund të kryejnë ndërmjet tyre transaksione shitjeje ose blerjeje me para në dorë, kur vlera e transaksionit  është më e madhe se 150 000 lekë.
 
 1/1. Për qëllime të kësaj dispozite, nuk konsiderohet si transaksion i kryer me para në dorë pagesa për transaksionet, e cila kryhet nëpërmjet institucioneve financiare të parasë elektronike, të licencuara nga Banka e Shqipërisë, ose pagesat e kryera me kartë krediti.
 
+1/2. Tatimpaguesit persona fizikë tregtarë, të regjistruar për tatimin mbi vlerën e shtuar, tatimpaguesit persona juridikë, pavarësisht nga qarkullimi që realizojnë, si dhe organizatat jofitimprurëse të regjistruara në organin tatimor, janë të detyruar të kenë llogari bankare të biznesit/organizatës së regjistruar dhe ta deklarojnë atë në administratën tatimore.
+
+1/3. Tatimpaguesit e regjistruar rishtas, janë të detyruar të hapin llogarinë bankare të biznesit/organizatës jo më vonë se 20 ditë kalendarike nga e nesërmja e   regjistrimit në Qendrën Kombëtare të Biznesit/administratën tatimore dhe ta deklarojnë atë në administratën tatimore.
+
 2. Përveç detyrimeve të tjera, të parashikuara në këtë ligj, tatimpaguesi, në përputhje me legjislacionin tatimor, duhet të reklamojë në vende të dukshme, çmimet e mallrave dhe të shërbimeve që ofron. Në rastet kur ushtron njëkohësisht tregti me shumicë dhe me pakicë, është i detyruar që t’i organizojë këto veprimtari në vende të veçanta, të ndara nga njëri-tjetri.
+
+Neni 59/1
+
+Detyrimi për të depozituar paratë (kartëmonedhat dhe monedhat)
+
+në llogarinë bankare
+
+(shtuar me ligjin me ligjin nr. 83/2022, datë 24.11.2022)
+
+1. Tatimpaguesi, që lëshon faturë, detyrohet që t’i depozitojë në llogarinë e vet bankare ose në llogarinë e tij të hapur në institucione të tjera financiare jobankare, që mund të mbajnë depozita në përputhje me ligjin përkatës, paratë (kartëmonedha dhe monedha) që ka grumbulluar gjatë ditës për furnizimin e mallrave apo të shërbimeve, të cilat tejkalojnë nivelin maksimal të arkës, në përputhje me nenin 59/2 të këtij ligji, ditën e nesërme  të punës, pas ditës që maksimumi i arkës është tejkaluar.
+
+2. Tatimpaguesi, që lëshon faturë, të cilit i janë bllokuar llogaritë bankare të biznesit për mospagim të detyrimeve, nuk mund të paguajë me para në dorë ose të mbajë para në arkë, por duhet që këto para t’i depozitojë në llogarinë bankare për veprimtarinë e rregullt të biznesit menjëherë ose në ditën e ardhshme të punës.
+
+Neni 59/2
+
+Limiti i arkës
+
+(shtuar me ligjin me ligjin nr. 83/2022, datë 24.11.2022)
+
+1. Tatimpaguesi, që lëshon faturë, përveç në rastet e përcaktuara në pikën 2 të nenit 59/1 të këtij ligji, mund të mbajë para cash (kartëmonedha dhe monedha) në arkën e vet në fillim të çdo dite pune deri në shumën maksimale të arkës. Shuma e parave cash është shuma fillestare e parave (kartëmonedha dhe monedha) që tatimpaguesi mund të ketë në arkën e tij në fillim të ditës së punës ose të ndërrimit të çdo operatori. Shumën maksimale të parave cash e përcakton tatimpaguesi që lëshon faturë, në mënyrë të pavarur, duke nxjerrë një akt të brendshëm, në përputhje me nevojat dhe kushtet e sigurisë, por kjo nuk mund të jetë më shumë se maksimumi i përcaktuar në pikën 2 të këtij neni.
+
+2. Kriteri për përcaktimin e shumës maksimale të arkës së tatimpaguesit, që lëshon faturë, është niveli i qarkullimit vjetor të tatimpaguesit që lëshon faturë. Shuma maksimale e lejuar e parave cash në arkë për tatimpaguesit skedulohet si më poshtë:
+
+a) për tatimpaguesit me qarkullim vjetor, gjatë vitit të mëparshëm tatimor, deri në 2 milionë lekë, shuma maksimale e lejuar e parave cash në arkë është deri në 150 000 lekë;
+
+b) për tatimpaguesit me qarkullim vjetor, gjatë vitit të mëparshëm tatimor, mbi 2 milionë lekë deri në 10 milionë lekë, shuma maksimale e lejuar e parave cash në arkë është deri në 500 000 lekë;
+
+c) për tatimpaguesit me qarkullim vjetor, gjatë vitit të mëparshëm tatimor, mbi 10 milionë lekë, shuma maksimale e lejuar e parave cash në arkë është deri në 500 000 lekë ose 5% të qarkullimit vjetor të vitit të kaluar, cilado qoftë vlera më e lartë.
+
+Në rastet kur një tatimpagues fillon veprimtarinë gjatë vitit kalendarik, limiti maksimal i lejuar i parave cash në arkë përcaktohet në përputhje me shkronjat “a”, “b” dhe “c” të kësaj pike, referuar shumës së qarkullimit të parashikuar deri në fund të vitit.
+
+3. Shuma maksimale e arkës përcaktohet për tatimpaguesin, që lëshon faturë, në tërësi dhe brenda kësaj shume tatimpaguesi që lëshon faturë mund të përcaktojë maksimumin e parave cash në arkë për çdo njësi të organizimit ose vendit të ushtrimit të aktivitetit të biznesit.
+
+4. Shuma maksimale cash e arkës, sipas pikës 2 të këtij neni, nuk zbatohet për bankat dhe institucionet e tjera financiare jobankare.
+
+5. Tatimpaguesi që lëshon faturë, i cili kryen transaksione këmbimi monedhe, pavarësisht nga dispozitat e pikave 2 e 3 të këtij neni, mund të përcaktojë maksimumin e arkës deri në shumën 5 000 000 lekë ose 5% të qarkullimit vjetor të vitit të kaluar, cilado qoftë vlera më e lartë.
+
+6. Tatimpaguesi, që lëshon faturë, detyrohet në fillim të çdo dite pune dhe para lëshimit të faturës së parë, nëpërmjet lidhjes elektronike (internetit) të vendosur me administratën tatimore qendrore, që e përdor për zbatimin e procedurës së fiskalizimit, të paraqesë informacionin mbi shumën fillestare të parave cash në arkë për çdo pajisje elektronike të faturimit. 
 
 Neni 60
 
@@ -1096,7 +1116,7 @@ Neni 61
 
 Detyrimi i të tretëve për të dhënë informacion
 
-(shtuar  pika  3 me ligjin nr. 10415, datë 7.4.2011)
+(shtuar  pika  3 me ligjin nr. 10415, datë 7.4.2011, ndryshuar pika 3 me ligjin nr. 83/2022, datë 24.11.2022)
 
 1. Me kërkesën e administratës tatimore, palët e treta japin informacion, me shkrim ose me gojë, vënë në dispozicion librat dhe regjistrimet, si dhe informacion tjetër për detyrimin tatimor të një tatimpaguesi, me të cilin ata kanë hyrë në transaksione tregtare ose financiare. Ky detyrim përfshin, por nuk kufizohet në:
 
@@ -1106,7 +1126,13 @@ b) takimin me punonjësit e administratës tatimore gjatë orarit zyrtar të pun
 
 2. Kur tatimpaguesi ose një palë e tretë nuk përmbush detyrimet e parashikuara sipas këtij kreu, administrata tatimore mund të ushtrojë autoritetin e vet, në përputhje me dispozitat e këtij ligji.
 
-3. Ministri i Financave cakton me udhëzim rastet kur palët e treta janë të detyruara të dërgojnë informacion për administratën tatimore, në mënyrë periodike, sipas formës dhe përmbajtjes së kërkuar.
+3. Ministri përgjegjës për financat përcakton me udhëzim:
+
+a) mënyrën, kohën dhe formën në të cilën palëve të treta u kërkohet të paraqesin informacion në administratën tatimore, si dhe përmbajtjen e këtij informacioni;
+
+b) natyrën dhe/ose llojin e informacionit që kërkohet të dorëzohet në rrugë elektronike nga palët e treta, në baza periodike, sipas një formati të standardizuar dhe me përdorimin e teknologjisë së përshtatshme;
+
+c) kategoritë e caktuara të personave, të cilëve u kërkohet të japin automatikisht informacion  në lidhje me transaksionet e tyre financiare me tatimpaguesit apo edhe  të dhënat që ata mbajnë në lidhje me tatimpaguesit, si dhe termat dhe kushtet për dhënien e këtij informacioni.
 
 Neni 61/1
 
@@ -1124,45 +1150,51 @@ Dhënie informacioni për zbatimin e marrëveshjeve ndërkombëtare
 
 Neni 62
 
-Personat, të cilëve u adresohet kërkesa për të dhënë informacion
+Personat të cilëve u adresohet kërkesa për të dhënë informacion
 
-1. Kërkesa me shkrim bëhet për të dhënat e nevojshme, për të përllogaritur detyrimin tatimor dhe u drejtohet: 
+(ndryshuar me ligjin nr. 83/2022, datë 24.11.2022)
 
-a) personave juridikë, për:
+Administrata tatimore kërkon çdo lloj informacioni që e konsideron të nevojshëm për zbatimin e legjislacionit tatimor në fuqi  nga çdo person, duke përfshirë, por pa u kufizuar në sa vijon:
 
-i) dividendët, që u paguhen aksionarëve ose ortakëve;
+a) nga çdo entitet, duke përfshirë informacionin për:
 
-ii) personat, me të cilët janë duke kryer ose kanë kryer transaksione financiare apo tregtare; 
+i. dividentët e paguar aksionarëve ose ortakëve;
 
-iii) pagesat e bëra për nënkontraktorët apo në pozicionin e nënkontraktorit;
+ii. personat me të cilët personi juridik ka kryer transaksione financiare ose biznesi;
 
-iv) debitorët dhe kreditorët;
+iii. pagesat e bëra për nënkontraktorët; 
 
-b) bankave dhe institucioneve financiare, për: 
+iv. debitorët dhe kreditorët.
 
-i) pagesat e interesit;
+b) nga bankat dhe institucionet financiare, duke përfshirë informacion mbi:
 
-ii) depozitat dhe detyrimet në fund të vitit;
+i. të dhënat e llogarisë bankare dhe gjendjet e hapjes dhe mbylljes së këtyre llogarive brenda një viti tatimor;
 
-iii) veprime të tjera bankare;
+ii. pagesat e interesit;
 
-iv) regjistrin elektronik të llogarisë bankare, në emër të tatimpaguesve, përfshirë emrin tregtar dhe numrin personal të identifikimit;
+iii. aktive të tjera që ata mbajnë në emër të një personi;
 
-c) shoqërive komisionere ose fondeve të investimeve kolektive, për transaksionet e titujve; 
+iv. çdo transaksion tjetër financiar të nevojshëm për nevoja kontrolli dhe përcaktimi të detyrimit tatimor.
 
-ç) agjentëve të pasurisë së paluajtshme, për veprimet ndaj klientëve;
+c) nga kompanitë e ndërmjetësimit ose menaxherët e fondeve të investimeve, përfshirë transaksionet e letrave me vlerë ose llogaritë e menaxhimit të aktivit/portofolit;
 
-d) blerësve ose shitësve të pasurisë së paluajtshme, për përshkrimin dhe çmimin e pasurisë së paluajtshme;
+ç) nga fondet e pensioneve në lidhje me planet e pensioneve private;
 
-dh) noterëve, për veprime noteriale, për shitblerje të pasurive, të luajtshme apo të paluajtshme, apo kontrata sipërmarrjeje; 
+d) nga agjentët e pasurive të paluajtshme në lidhje me transaksionet e klientëve të tyre;
 
-e) personave juridikë, rezidentë dhe jorezidentë, për pagesat e bëra personave jorezidentë; 
+dh) nga noterët për noterizimin e transaksioneve të shitblerjes së pasurive të paluajtshme ose të luajtshme, ose kontratat e shërbimit;
 
-ë) institucioneve shtetërore dhe nëpunësve të administratës shtetërore;
+e) nga entitetet rezidente dhe jorezidente për pagesat e bëra ndaj personave jorezidentë;
 
-f) kontraktorëve të tjerë të tatimpaguesit;
+ë)  nga institucionet shtetërore dhe punonjësit e administratës shtetërore;
 
-g) donatorëve, organizatave ndërkombëtare, organizatave jofitimprurëse, vendase dhe të huaja, për pagesën bërë tatimpaguesve për furnizimin e mallrave dhe të shërbimeve.
+f) nga çdo person në transaksione financiare ose biznesi me një tatimpagues;
+
+g) nga donatorë, organizata ndërkombëtare, organizata jofitimprurëse, vendase ose të huaja, në lidhje me pagesat e bëra ndaj tatimpaguesve për furnizimin e mallrave dhe shërbimeve;
+
+gj) nga tregjet elektronike, ndërfaqet elektronike dhe platformat digjitale në lidhje me furnitorët, përdoruesit dhe transaksionet e tyre;
+
+h) nga bazat e të dhënave dhe regjistrat e të dhënave publike dhe private, përfshirë kadastrën, regjistrin e pronarëve përfitues, regjistrin elektronik të llogarive bankare dhe Qendrën Kombëtare të Regjistrimit, në lidhje me të dhënat e tatimpaguesve që mbahen në to.
 
 Neni 63
 
@@ -1332,19 +1364,19 @@ Neni 70
 
 E drejta për të nxjerrë njoftimin e vlerësimit tatimor
 
-(shtuar fjali në pikën 3 me ligjin nr. 179, datë 28.12.2013)
+(shtuar fjali në pikën 3 me ligjin nr. 179, datë 28.12.2013, ndryshuar pikat 1 dhe 3 me ligjin nr. 83/2022, datë 24.11.2022)
 
-1. Drejtoria rajonale tatimore nxjerr njoftimin e vlerësimit tatimor për tatimpaguesit e regjistruar në administratën tatimore qendrore.
+1. Drejtoritë rajonale tatimore apo strukturat e tjera të autorizuara në Drejtorinë e Përgjithshme të Tatimeve, që mund të kryejnë të njëjtat funksione me to, autorizohen të nxjerrin njoftim vlerësimi tatimor për tatimpaguesit e regjistruar në administratën tatimore qendrore, përfshirë entitetet, personat fizikë tregtarë, të vetëpunësuarit, individët që kanë detyrimin për deklarimin e të ardhurave individuale në rastet kur ndaj tyre është ushtruar kontroll nga strukturat përgjegjëse sipas procedurave të përcaktuara në kreun X të këtij ligji, si dhe ndaj çdo personi tjetër që ka detyrimin për të deklaruar dhe/ose paguar tatime apo taksa sipas legjislacionit në Republikën e Shqipërisë.
 
 2. Për detyrimet tatimore, të lidhura me kontributet e sigurimeve shoqërore dhe shëndetësore, njoftimin e vlerësimit tatimor, në të gjitha rastet, nxirret nga drejtori i drejtorisë rajonale.
 
-3. Zyra tatimore e qeverisjes vendore ka të drejtë të nxjerrë njoftimin e vlerësimit tatimor për tatimpaguesit, që klasifikohen si biznes i vogël. Për detyrimet tatimore, të lidhura me tatimin e thjeshtuar mbi fitimin e biznesit të vogël, njoftimi i vlerësimit tatimor nxirret nga drejtoria rajonale tatimore.
+3. Strukturat e menaxhimit të taksave dhe tarifave të njësive të vetëqeverisjes vendore, nxjerrin njoftim vlerësimi për kategoritë e detyrimeve dhe tatimpaguesve sipas legjislacionit në fuqi për taksat dhe tarifat vendore.
 
 Neni 71
 
 E drejta për të përdorur mënyra alternative vlerësimi
 
-(ndryshuar shkronja “e“ me ligjin nr. 179, datë 28.12.2013; shtuar shkronja “f” me ligjin nr. 97/2018, datë 3.12.2018)
+(ndryshuar shkronja “e“ me ligjin nr. 179, datë 28.12.2013; shtuar shkronja “f” me ligjin nr. 97/2018, datë 3.12.2018; ndryshuar shkronja “ë” me ligjin 83/2019, datë 18.12.2019)
 
 1. Administrata tatimore ka të drejtë të përdorë mënyra alternative vlerësimi të detyrimit tatimor të tatimpaguesit dhe të nxjerrë një vlerësim, në rastet kur: 
 
@@ -1360,9 +1392,9 @@ d) tatimpaguesi nuk vë në dispozicion informacionin e kërkuar dhe dokumente t
 
 dh) tatimpaguesi hyn në transaksione me persona të lidhur jo në bazë të parimit të vlerës së tregut, ose hyn në transaksione pa efekte ekonomike thelbësore; 
 
-e) tatimpaguesi hyn në transaksione shitblerjeje me para në dorë, që tejkalojnë shumën150 000  lekë;
+e) tatimpaguesi hyn në transaksione shitblerjeje me para në dorë, që tejkalojnë shumën 150 000  lekë;
 
-ë) tatimpaguesi nuk përdor rregullisht pajisjen fiskale.
+ë) tatimpaguesi nuk lëshon faturë dhe/ose nuk kryen procedurat e fiskalizimit, në përputhje me legjislacionin në fuqi për faturën dhe sistemin e monitorimit të qarkullimit.
 
 f) tatimpaguesi me status “person fizik tregtar”, i cili, për qëllime të shmangies tatimore dhe minimizimit të detyrimit tatimor, regjistron/mban më tepër se një numër identifikimi unik të subjektit, dhe dorëzon deklarata të veçanta për çdo NIPT/NUIS.
 
@@ -1384,33 +1416,41 @@ Letërkujtesa
 
 Neni 71/2
 
-Përdorimi i metodave alternative të vlerësimit në rastet e veprimeve për shmangien 
+Përdorimi i metodave alternative të vlerësimit në rastet e veprimeve për shmangien e tatimit dhe abuzimit me parimet e ligjit tatimor
 
-e tatimit dhe abuzimit me parimet e ligjit tatimor
+(shtuar me ligjin nr. 97/2018, datë 3.12.2018, ndryshuar me ligjin nr. 83/2022, datë 24.11.2022)
 
-(shtuar me ligjin nr. 97/2018, datë 3.12.2018)
+1. Në përllogaritjen e të ardhurave dhe fitimit të tatueshëm, administrata tatimore mund të mos marrë në konsideratë marrëveshje ose seri marrëveshjesh të lidhura ndërmjet tatimpaguesve, të cilat kanë si qëllim kryesor apo një ndër qëllimet kryesore sigurimin e përfitimeve tatimore. Marrëveshje të tilla për qëllime tatimore trajtohen duke iu referuar substancës së tyre ekonomike.
 
-1. Në rastet kur një apo disa tatimpagues kryejnë një veprim/transaksion apo seri veprimesh/ transaksionesh direkte apo indirekte me persona të tretë, ku:
+2. Për qëllime të pikës 1 të këtij neni, “marrëveshje apo seri marrëveshjesh” nënkupton çdo transaksion, veprim, operacion, marrëveshje, grant, mirëkuptim, premtim, ndërveprim ose ngjarje. Një marrëveshje mund të përbëhet nga më shumë se një veprim ose pjesë veprimi.
 
-a) veprimet e ndërmarra nga tatimpaguesi deformojnë parimet e ligjit tatimor;
+3. Për të përcaktuar nëse një marrëveshjeje ose një sërë marrëveshjeve iu mungon thelbi ekonomik, administrata tatimore shqyrton nëse ekziston një ose më shumë nga situatat e mëposhtme:
 
-b)veprimet/transaksionet nuk bazohen në parimin e vlerës së tregut; 
+a) thelbi ligjor i hapave individualë nga e cila përbëhet një marrëveshje, nuk është në përputhje me substancën ligjore të marrëveshjes në tërësi;
 
-c) veprimet/transaksionet janë pa efekte ekonomike thelbësore;
+b) marrëveshja ose seria e marrëveshjeve zbatohet në një mënyrë e cila nuk është në pajtim me një sjellje të rregullt biznesi;
 
-ç) forma e veprimit/transaksionit  nuk  reflekton  thelbin  e  tij  ekonomik;
+c) marrëveshja ose seria e marrëveshjeve përfshin elemente që kanë efektin e kompensimit ose anulimit të njëra-tjetrës;
 
-d) evidentohen elemente të veprimeve/transaksioneve që synojnë shmangien ose uljen e detyrimeve tatimore.
+ç) transaksionet e lidhura janë të natyrës qarkulluese;
 
-Për përcaktimin e detyrimit tatimor, administrata tatimore nuk merr parasysh një veprim/transaksion apo një seri veprimesh/transaksionesh, të cilat, duke qenë se janë ndërmarrë me synim përfitimin e një avantazhi tatimor që vjen në kundërshtim me qëllimin e ligjit, rezultojnë fiktive në bazë të të gjitha fakteve dhe rrethanave. 
+d) marrëveshja ose seria e marrëveshjeve çon në një përfitim të konsiderueshëm tatimor, por kjo nuk reflektohet në risqet e biznesit të tatimpaguesit ose në fluksin e tij monetar;
 
-2. Kur një veprim/transaksion apo seri veprimesh/transaksionesh janë në kushtet e pikës 1 më sipër, veprimi/transaksioni rikarakterizohet dhe detyrimi tatimor llogaritet në përputhje me dispozitat për vlerësimin tatimor alternativ të këtij ligji dhe ligjeve të tjera tatimore. Në këto raste, barrën e provës e ka kryesisht administrata tatimore.
+dh) marzhi i parashikuar para tatimit është i rëndësishëm në krahasim me shumën e përfitimit tatimor të parashikuar.
+
+4. Për qëllim të pikës 1 të këtij neni, qëllimi i këtyre marrëveshjeve ose seri marrëveshjesh konsiston në shmangien e tatimit edhe nëse, pavarësisht mungesës së këtij qëllimi nga tatimpaguesit, por nëse ky qëllim vjen në kundërshtim me objektin, arsyetimin dhe qëllimin e dispozitave tatimore që do të duhej të zbatoheshin.
+
+5. Për qëllim të pikës 1 të këtij neni, një qëllim i caktuar duhet të konsiderohet kritik kur çdo qëllim tjetër që i atribuohet ose mund t’i atribuohet marrëveshjes ose serisë së marrëveshjeve duket i papërfillshëm, duke pasur parasysh të gjitha rrethanat e rastit.
+
+6. Për të përcaktuar nëse një marrëveshje ose një seri marrëveshjesh ka sjellë një përfitim tatimor në kuptim të pikës 1 të këtij neni, administrata tatimore krahason shumën e tatimit që detyrohet të paguajë një tatimpagues, duke marrë parasysh marrëveshjen, me shumën që i njëjti tatimpagues do të detyrohej të paguante në të njëjtat rrethana në mungesën e një marrëveshjeje të tillë.
+
+7. Për qëllime të këtij neni, barra e provës i takon administratës tatimore.
 
 Neni 72
 
 Baza e mënyrave alternative të vlerësimit 
 
-(ndryshuar shkronjat“ ç” dhe ”d” me ligjin nr. 164, datë 4.12.2014)
+(ndryshuar shkronjat“ ç” dhe ”d” me ligjin nr. 164/2014, datë 4.12.2014)
 
 1. Mënyrat alternative të vlerësimit nuk kufizohen, por bazohen në:
 
@@ -1432,7 +1472,7 @@ Neni 73
 
 E drejta e administratës tatimore për të bërë vlerësim tatimor, si dhe e drejta e tatimpaguesit për të kërkuar tepricën kreditore
 
-(ndryshuar me ligjin nr. 164, datë 4.12.2014; shtuar fjalë në pikat 1 dhe 4 me ligjin nr. 112/2016, datë 3.11.2016)
+(ndryshuar me ligjin nr. 164/2014, datë 4.12.2014; shtuar fjalë në pikat 1 dhe 4 me ligjin nr. 112/2016, datë 3.11.2016)
 
 1. E drejta e administratës tatimore për të bërë një vlerësim tatimor parashkruhet brenda 5 vjetëve nga data e fundit e dorëzimit të deklaratës tatimore, fillestare ose të ndryshuar të përcaktuar në legjislacionin tatimor përkatës.
 
@@ -1484,7 +1524,7 @@ Neni 75
 
 Detyrimet tatimore të paguara më tepër
 
-(shtuar pika 3 me ligjin nr. 97/2018, datë 3.12.2018)
+(shtuar pika 3 me ligjin nr. 97/2018, datë 3.12.2018;  shtuar pika 4  me ligjin 83/2019, datë 18.12.2019)
 
 1. Kur shuma e detyrimit tatimor të paguar është më e madhe se shuma e tatimit të vlerësuar në njoftimin për vlerësimin tatimor, administrata tatimore e kalon shumën e paguar më tepër për llogari të detyrimeve të tjera tatimore, të papaguara nga tatimpaguesi. 
 
@@ -1498,11 +1538,13 @@ b) kalohet për llogari të detyrimeve tatimore të ardhshme të tatimpaguesit.
 
 3. Kompensimi nga teprica kreditore i detyrimeve tatimore brenda çdo tatimi, me përjashtim të kontributeve të sigurimeve shoqërore dhe shëndetësore, kryhet automatikisht nga sistemi informatik.
 
+4. Në raste të veçanta, shumat e tatimeve dhe të taksave për t’u paguar apo të paguara më tepër në administratën tatimore ose administratën doganore mund të kompensohen përkundrejt njëra-tjetrës. Ministri përgjegjës për financat përcakton me udhëzim rastet e veçanta, procedurat dhe kriteret për zbatimin e kësaj pike.
+
 Neni 75/1
 
 Rimbursimi i TVSH-së dhe kompensimi i detyrimeve tatimore
 
-(shtuar me ligjin nr. 10148, datë 28.9.2009; ndryshuar fjalë me ligjin nr. 179, datë 28.12.2013; ndryshuar me ligjin nr. 164, datë 4.12.2014; riformuluar pika 1 me ligjin nr. 91/2015, datë 23.7.2015; shtuar pika 1.1 me ligjin nr.  112/2016, datë 3.11.2016)
+(shtuar me ligjin nr. 10148, datë 28.9.2009; ndryshuar fjalë me ligjin nr. 179/2013, datë 28.12.2013; ndryshuar me ligjin nr. 164/2014, datë 4.12.2014; riformuluar pika 1 me ligjin nr. 91/2015, datë 23.7.2015; shtuar pika 1.1 me ligjin nr.  112/2016, datë 3.11.2016; shtuar pika 1/2  me ligjin 83/2019, datë 18.12.2019)
 
 1. Personat e tatueshëm, të regjistruar për TVSH-në, që rezultojnë me tepricë kreditore, kanë të drejtë të paraqesin kërkesën për rimbursimin e TVSH-së së paguar tepër pranë Drejtorisë së Rimbursimit të TVSH-së nëDrejtorinë e Përgjithshme të Tatimeve. Kjo kërkesë paraqitet sipas formularit të miratuar “Kërkesë për rimbursimin e TVSH-së”.
 
@@ -1510,7 +1552,9 @@ Brenda 60 ditëve nga data e paraqitjes së kërkesës së tatimpaguesit dhe bre
 
 Pagesa e tepricës kreditore të rimbursueshme kryhet brenda pesë ditëve, nëpërmjet sistemit të thesarit, në bazë të rregullave të përcaktuara në udhëzimin e Ministrit të Financave. Në rast të kundërt, personit të tatueshëm i lind e drejta e mospagesës së detyrimeve të tjera tatimore në masën e TVSH-së së pretenduar për rimbursim.
 
-1.1. Në rastin kur tatimpaguesi, i cili ka kërkuar rimbursim, i nënshtrohet kontrollit, sipas analizës së riskut, me qëllim respektimin e afatit të rimbursimit, sipas këtij neni, afatet e përcaktuara nga nenet 83 dhe 84 nuk do të zbatohen dhe çdo afat do të jetë 5 ditë kalendarike.
+1/1.  Në rastin kur tatimpaguesi, i cili ka kërkuar rimbursim, i nënshtrohet kontrollit, sipas analizës së riskut, me qëllim respektimin e afatit të rimbursimit, sipas këtij neni, afatet e përcaktuara nga nenet 83 dhe 84 nuk do të zbatohen dhe çdo afat do të jetë 5 ditë kalendarike.
+
+1/2. Përjashtimisht përcaktimeve të pikave 1 dhe 1/1, të këtij neni, në raste të veçanta, me kërkesë të administratës tatimore dhe me dakordësinë e tatimpaguesit mund të lidhet një marrëveshje për pagesë me këste, e cila përmban një plan të skeduluar pagesash për detyrimet që administrata tatimore ka ndaj tatimpaguesve, si rezultat i kërkesave të miratuara për rimbursimin e TVSH-së. Në këto raste, detyrimi i administratës tatimore ndaj tatimpaguesit konsiderohet i shlyer dhe nuk aplikohen kamatëvonesat. Rastet kur do të aplikohet, procedurat dhe kriteret për zbatimin e kësaj pike përcaktohen me vendim të Këshillit të Ministrave.
 
 2. Mënyra dhe procedurat e hollësishme teknike për zbatimin e pikës 1, të këtij neni, përcaktohen me udhëzim të Ministrit të Financave.
 
@@ -1536,7 +1580,7 @@ Neni 77
 
 Marrëveshja e pagesës me këste
 
-(ndryshuar pika 1, 3, shtuar fjali në pikën  6, shtuar pikat 7 e 8 me ligjin nr. 112/2016, datë 3.11.2016)
+(ndryshuar pika 1, 3, shtuar fjali në pikën  6, shtuar pikat 7 e 8 me ligjin nr. 112/2016, datë 3.11.2016; ndryshuar pika 7 me ligjin 83/2019, datë 18.12.2019)
 
  1. Kur një rrethanë financiare pengon tatimpaguesin për të paguar në afat detyrimet tatimore, ai mund të lejohet të lidhë në çdo kohë marrëveshje pagese me këste. Në të njëjtën kohë tatimpaguesi duhet të vërtetojë që është në kushtet e pamundësisë financiare për të paguar të plotë detyrimin tatimor, si dhe të tregojë që pavarësisht nga rrethana financiare, ai është në gjendje të përmbushë marrëveshjen.
 
@@ -1550,9 +1594,13 @@ Marrëveshja e pagesës me këste
 
 6. Tatimpaguesi duhet të paguajë kamatëvonesë për të gjitha detyrimet tatimore, pagesa e të cilave shtyhet, sipas marrëveshjes së pagesës me këste. Në rastin kur tatimpaguesi hyn në një marrëveshje të pagesës me këste me administratën tatimore, duke filluar nga muaji që pason muajin në të cilin marrëveshja është vendosur deri në përfundimin e afatit të marrëveshjes, me kushtin që marrëveshja të jetë përmbushur tërësisht, tatimpaguesi paguan kamatëvonesë për detyrimin tatimor, pagesa e të cilit shtyhet, por nuk llogaritet gjobë për pagesë të vonuar sipas nenit 114 të këtij ligji.
 
-7. Marrëveshja për pagesë me këste mund të lidhet për detyrime tatimore të vendosura nga administrata tatimore për një vlerësim tatimor të kryer, sipas nenit 68, të këtij ligji, si dhe për detyrime tatimore të vetëdeklaruara nga tatimpaguesi. 
+7. Marrëveshja për pagesë me këste mund të lidhet për detyrime tatimore të vendosura nga administrata tatimore, si rezultat i një vlerësimi tatimor të kryer, sipas nenit 68, të këtij ligji, si dhe për detyrime tatimore të vetëdeklaruara nga tatimpaguesi. 
 
-Përjashtimisht, administrata tatimore nuk hyn në një marrëveshje të pagesës me këste për detyrim tatimor të vetëdeklaruar nga tatimpaguesi, i cili është llogaritur, ose mbledhur, ose mbajtur prej tij, përfshirë kontributet e sigurimeve shoqërore dhe shëndetësore. 
+Pavarësisht sa më sipër, administrata tatimore nuk hyn në një marrëveshje të pagesës me këste, për detyrim tatimor mbi të ardhurat, të mbajtur në burim dhe të vetëdeklaruar nga tatimpaguesi, si dhe për detyrim nga kontributet e sigurimeve shoqërore e shëndetësore, i cili është llogaritur ose mbledhur, ose mbajtur prej tatimpaguesit.
+
+Përjashtimisht, në rastet kur në cilësinë e tatimpaguesit janë institucione apo ente shtetërore apo publike, qendrore apo vendore, apo ente të tjera ku shteti është palë, për raste të një interesi të lartë publik ose të nevojës për moslejimin e cenimit të rendit e të sigurisë kombëtare, mund të lidhet një marrëveshje me këste edhe për detyrimet e kontributeve të sigurimeve shoqërore e shëndetësore. 
+
+Marrëveshja me këste nuk lehtëson pozitën ligjore të personit përgjegjës në rastet e prezumimit apo të konsumimit të veprës penale të parashikuar ligjërisht, lidhur me detyrimin tatimor të vetëdeklaruar nga tatimpaguesi, i cili është llogaritur ose mbledhur, ose mbajtur prej tij, përfshirë kontributet e sigurimeve shoqërore e shëndetësore.
 
 	8. Në rastin kur për tatimpaguesin ka filluar mbledhja me forcë e detyrimeve tatimore, hiqet urdhërbllokimi i llogarive bankare të tatimpaguesit, i vendosur në përputhje me nenin 90 të këtij ligji. 
 
@@ -1608,9 +1656,11 @@ Neni 80
 
 Kontrolli tatimor
 
-(shtuar paragraf  në pikën 4 me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar paragrafi i dytë i pikës 4 me ligjin nr. 112/2016, datë 3.11.2016)
+(shtuar paragraf  në pikën 4 me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar paragrafi i dytë i pikës 4 me ligjin nr. 112/2016, datë 3.11.2016, shtuar pika 1/1  me ligjin 83/2019, datë 18.12.2019; ndryshuar pika 5 me ligjin nr. 83/2022, datë 24.11.2022 )
 
 1. Administrata tatimore kontrollon deklaratat tatimore, llogaritë, librat dhe regjistrimet tatimore të tatimpaguesit, përfshirë të gjithë dokumentacionin, që ka të bëjë me të ardhurat, shpenzimet, aktivet dhe pasivet dhe marrëdhëniet financiare me palë të treta.
+
+1/1. Administrata tatimore kryen mbikëqyrjen e dispozitave të lëshimit të faturave dhe të monitorimit të qarkullimit (në vijim, kontrolli i lëshimit të faturave), në përputhje me legjislacionin në fuqi për faturën e sistemin e monitorimit të qarkullimit dhe tatimin mbi vlerën e shtuar.
 
 2. Kontrolli i tatimpaguesit bazohet në deklaratat e dhëna nga tatimpaguesi, si dhe në librat, regjistrimet e informacionin e dhënë nga palët e treta ose në përputhje me mënyrat alternative të vlerësimit, parashikuar në nenin 72 të këtij ligji.
 
@@ -1622,7 +1672,7 @@ Në rast se tatimpaguesi ka të certifikuara, nga kompani të njohura audituese,
 
 Procedurat, kriteret dhe lista e kompanive audituese ose kompani të klasifikuara si të tilla me ligj të veçantë përcaktohen me udhëzim të Ministrit të Financave në zbatim këtij neni.
 
-5. Kontrollet, që kryhen nga administrata tatimore qendrore, urdhërohen nga drejtori i drejtorisë rajonale të tatimeve apo drejtuesit e njësive të ngjashme me të. Kontrollet, që kryhen nga administrata tatimore vendore, urdhërohen nga titullari i zyrës tatimore të qeverisjes vendore.
+5. Për kontrollet e kryera nga administrata tatimore qendrore, autoritetin për të iniciuar kontrollin tatimor e ka Drejtoria Rajonale Tatimore ose njësitë e tjera në Drejtorinë e Përgjithshme të Tatimeve me funksione të njëjta me të. Për kontrolle që kryhen nga struktura të kontrollit në Drejtorinë e Përgjithshme, kompetencën për të iniciuar kontrollin tatimor e ka titullari i institucionit ose i deleguari i tij. Për kontrollet e kryera nga administrata tatimore vendore, njësia tatimore e qeverisjes vendore ka autoritetin për të iniciuar kontroll tatimor.
 
 6. Procedurat për kryerjen e kontrolleve tatimore dhe llojet e kontrolleve tatimore miratohen nga Ministri i Financave, me propozimin e Drejtorit të Përgjithshëm të Tatimeve. 
 
@@ -1630,7 +1680,7 @@ Neni 81
 
 Njoftimi i kontrollit tatimor
 
-(shtuar pika 1/1,  ndryshuar shkronja “f” dhe shtuar një paragraf në  pikën 2, e  pikat 3, 4, 5, 6  me ligjin nr. 112/2016, datë 3.11.2016)
+(shtuar pika 1/1,  ndryshuar shkronja “f” dhe shtuar një paragraf në  pikën 2, e  pikat 3, 4, 5, 6  me ligjin nr. 112/2016, datë 3.11.2016; shtuar pikat 7-10 me ligjin 83/2019, datë 18.12.2019)
 
 1. Administrata tatimore i dërgon tatimpaguesit njoftimin, i cili përcakton tatimpaguesin si subjekt të kontrollit tatimor.
 
@@ -1676,6 +1726,28 @@ Afati për kryerjen e kontrollit, i përcaktuar në përputhje me shkronjën “
 
 	6. Nëse tatimpaguesi nuk deklaron sipas pikës 3, të këtij neni, përpara fillimit të kontrollit prezumohet që nuk ka për të deklaruar dhe për çdo detyrim tatimor apo shkelje të konstatuar gjatë kontrollit aplikohen dënimet administrative sipas këtij ligji.
 
+7. Njoftimi i kontrollit tatimor i lëshimit të faturave i dërgohet tatimpaguesit në të njëjtën ditë kur fillon kontrolli tatimor në vendndodhjen e biznesit të tatimpaguesit.
+
+8. Njoftimi, sipas pikës 7, të këtij neni, përveç të dhënave të përcaktuara në shkronjat “a”, “b”, “c” dhe “ç”, të pikës 2, të këtij neni, përmban edhe të dhënat e mëposhtme:
+
+a) përshkrimin e të drejtave dhe të detyrimeve të tatimpaguesit gjatë dhe pas përfundimit të kontrollit tatimor;
+
+b) nënshkrimin e personit përgjegjës të administratës tatimore. 
+
+9. Me përjashtim të pikave 7 e 8, të këtij neni, njoftimi i kontrollit tatimor i lëshimit të faturave nuk është i nevojshëm t’i dërgohet tatimpaguesit përpara fillimit të kontrollit tatimor, nëse kontrolli tatimor ka filluar mbi bazën e informacionit nga strukturat kompetente, sipas këtij ligji dhe legjislacionit në fuqi dhe njoftimi paraprak i tatimpaguesit do të rrezikonte qëllimin e kontrollit tatimor. Në këtë rast kontrolli tatimor fillon menjëherë.
+
+10. Në rastet e përcaktuara në pikën 9, të këtij neni, njoftimi i kontrollit tatimor i dërgohet tatimpaguesit në të njëjtën kohë me raportin e kontrollit tatimor, sipas nenit 83 të këtij ligji.
+
+Neni 81/1
+
+(shtuar me ligjin 83/2019, datë 18.12.2019)
+
+1. Administrata tatimore kryhen verifikime në terren për zbulimin në kohë të shkeljeve lidhur me regjistrimin e personave të tatueshëm; përdorimin e pajisjeve fiskale; dokumentimin e mallrave në ruajtje, përdorim dhe transport; dokumentimin e çdo transaksioni shitjeje të mallrave apo të shërbimeve dhe lëshimin e faturave tatimore; regjistrimin e punonjësve, si dhe çdo verifikim tjetër për zbatimin e legjislacionit tatimor. 
+
+2. Verifikimet, sipas pikës 1, të këtij neni, kryhen pa njoftimin paraprak të personit të tatueshëm. Përpara verifikimit, punonjësi i administratës tatimore tregon dokumentin personal të identifikimit si dhe urdhrin ditor të punës, të lëshuar nga drejtori i drejtorisë përgjegjëse për verifikimin në terren. 
+
+Për kundërvajtjet administrative tatimore, të evidentuara gjatë verifikimit në terren, merren masat administrative sipas këtij ligji.
+
 Neni 82
 
 Përjashtimi i inspektorit nga kontrolli tatimor
@@ -1694,13 +1766,13 @@ Neni 83
 
 Raporti i kontrollit tatimor
 
-(ndryshuar pika 4 me ligjin nr. 179, datë 28.12.2013; ndryshuar pika 3 me ligjin nr. 112/2016, datë 3.11.2016)
+(ndryshuar pika 4 me ligjin nr. 179, datë 28.12.2013; ndryshuar pika 3 me ligjin nr. 112/2016, datë 3.11.2016, shtuar pikat 7-11 me ligjin 83/2019, datë 18.12.2019; ndryshuar pika 3 me ligjin nr. 83/2022, datë 24.11.2022)
 
 1. Inspektori i grupit të kontrollit tatimor është përgjegjës për përgatitjen e raportit të kontrollit, brenda shtatë ditëve kalendarike pas datës së përfundimit të kontrollit tatimor. 
 
 2. Raporti i kontrollit jep rezultatet e kontrollit, shumën e vlerësimit të propozuar dhe referencat ligjore, që justifikojnë propozimin e bërë, dhe nënshkruhet nga inspektori/inspektorët e kontrollit tatimor.
 
-3. Raporti i kontrollit miratohet nga struktura përkatëse e Drejtorisë Rajonale Tatimore, përfshirë përgjegjësin e sektorit, drejtorin e kontrollit, si dhe drejtorin e drejtorisë rajonale. Një kopje e raportit të kontrollit i dërgohet me postë tatimpaguesit.
+3. Një kopje e raportit të kontrollit i jepet për miratim drejtorit të drejtorisë rajonale tatimore dhe një kopje e raportit i njoftohet tatimpaguesit. Për kontrollet e kryera nga strukturat e Drejtorisë së Përgjithshme, raporti i kontrollit miratohet nga titullari i institucionit ose i deleguari i tij.
 
 4. Tatimpaguesi ka të drejtë t’i kundërshtojë rezultatet e kontrollit tatimor brenda 15 ditëve kalendarike pas datës, kur vlerësohet se raporti është marrë nga tatimpaguesi. 
 
@@ -1708,15 +1780,27 @@ Raporti i kontrollit tatimor
 
 6. Grupi i kontrollit e shqyrton kundërshtimin, brenda 5 ditëve pune nga data e marrjes së kundërshtimit, ose që vlerësohet të jetë marrë dhe arsyetimi i dhënë nga grupi i kontrollit për kundërshtimin përfshihet në raportin përfundimtar të kontrollit. 
 
+7. Në rastin e kontrolleve për lëshimin e faturave, raporti i kontrollit tatimor përmban rezultatet e kontrollit tatimor dhe listën e shkeljeve të konstatuara, përfshirë edhe përshkrimin e dispozitave ligjore, të cilat janë shkelur. Raporti i kontrollit tatimor i lëshimit të faturave nënshkruhet nga inspektori/inspektorët, i cili/të cilët kanë marrë pjesë në kontrollin tatimor.
+
+8. Raportin e kontrollit tatimor të lëshimit të faturave, sipas pikës 7, të këtij neni, e miraton struktura përkatëse e ngarkuar me atë detyrë. Një kopje e raportit të kontrollit i dërgohet me postë tatimpaguesit. 
+
+9. Tatimpaguesi ka të drejtë t’i kundërshtojë rezultatet e kontrollit tatimor brenda 15 ditëve kalendarike, duke filluar nga e nesërmja e datës së marrjes së aktit.
+
+10. Pas marrjes së kundërshtimit ndaj raportit të kontrollit tatimor, kryhet një raport plotësues, i cili nënshkruhet nga personi që mbikëqyr inspektorët, të cilët kanë kryer kontrollin tatimor, ndërsa miratohet nga personi përgjegjës i drejtorisë rajonale të tatimeve, duke përfshirë përgjegjësin e sektorit, drejtorin e drejtorisë përkatëse dhe drejtorin e drejtorisë rajonale të tatimeve.
+
+11. Nëse në raportin e kontrollit tatimor konstatohen shkelje, zbatohen dënimet administrative të parashikuara në legjislacionin tatimor.
+
  Neni 84
 
 Raporti përfundimtar i kontrollit tatimor
+
+(ndryshuar pika 3 me ligjin nr. 83/2022, datë 24.11.2022)
 
 1. Raporti përfundimtar i kontrollit tatimor plotësohet dhe nënshkruhet nga të gjithë pjesëtarët e grupit të kontrollit dhe miratohet nga urdhëruesi i kontrollit, brenda 14 ditëve kalendarike nga data e marrjes së kundërshtimit të tatimpaguesit, ose që vlerësohet të jetë marrë nga grupi i kontrollit tatimor. 
 
 2. Raporti përfundimtar i kontrollit tatimor përshkruan vendin e kontrollit, periudhën, për të cilën është kryer kontrolli, një përshkrim të dokumenteve të shqyrtuara, personat e intervistuar, arsyetimin e tatimpaguesit, të marrë parasysh dhe rezultatin e argumentuar të kontrollit. 
 
-3. Një kopje e raportit përfundimtar të kontrollit tatimor dhe shuma e vlerësimit, nëse ka, i dërgohet tatimpaguesit me postë dhe një kopje dorëzohet në drejtorinë rajonale tatimore apo në njësinë e ngjashme me të.
+3. Një kopje e raportit përfundimtar të kontrollit tatimor dhe shumës së llogaritur, nëse ka, i  dërgohet me postë tatimpaguesit dhe një kopje i dorëzohet Drejtorisë së Kontrollit Tatimor që ka kryer kontrollin.
 
 4. Tatimpaguesi ka të drejtë t’i kundërshtojë rezultatet e kontrollit tatimor brenda 15 ditëve kalendarike pas datës kur vlerësohet se raporti është marrë nga tatimpaguesi.
 
@@ -1768,7 +1852,7 @@ Neni 88
 
 Autoriteti dhe kompetencat për mbledhjen e detyrimit tatimor të papaguar
 
-(shtuar pika 4 me ligjin nr. 112/2016, datë 3.11.2016)
+(shtuar pika 4 me ligjin nr. 112/2016, datë 3.11.2016; shtuar pika 5 me ligjin 83/2019, datë 18.12.2019)
 
 1. Administrata tatimore ka autoritetin dhe kompetencat e dhëna sipas këtij kreu për të mbledhur detyrimet tatimore të papaguara, për të cilat nuk është ushtruar e drejta e ankimit apo kanë kaluar të gjitha fazat e shqyrtimit administrativ dhe gjyqësor.
 
@@ -1778,11 +1862,13 @@ Autoriteti dhe kompetencat për mbledhjen e detyrimit tatimor të papaguar
 
 4. Administrata tatimore, pasi ka ezauruar procedurat e mbledhjes me forcë të detyrimit tatimor të papaguar, sipas këtij kreu, mund të mbledhë detyrimin tatimor të mbetur të papaguar edhe nëpërmjet një personi juridik publik, i cili  përfiton komision mbi shumën e mbledhur, në masën e përcaktuar me vendim të Këshillit të Ministrave.
 
+5. Mbledhja e detyrimeve të papaguara kryhet nga drejtoritë përgjegjëse të mbledhjes me forcë të detyrimeve të papaguara, në varësi të Drejtorisë së Përgjithshme të Tatimeve.
+
 Neni 89
 
 Njoftimi dhe kërkesa për të paguar
 
-(shtuar paragrafë në fund të pikës 2, me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar pika 1 me ligjin nr. 97/2018, datë 3.12.2018)
+(shtuar paragrafë në fund të pikës 2, me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar pika 1 me ligjin nr. 97/2018, datë 3.12.2018, shtuar një paragraf në fund të pikës 2 me ligjin nr. 83/2022, datë 24.11.2022)
 
 1. Kur administrata tatimore konstaton se një tatimpagues nuk ka paguar plotësisht dhe në datën e caktuar detyrimet tatimore, ajo i dërgon atij, me postë rekomande ose në rrugë elektronike, një njoftim me shkrim, ku kërkon pagesën e plotë të detyrimit tatimor. Për njoftimin dhe kërkesën për të paguar detyrimet tatimore zbatohen afatet dhe procedurat e parashikuara në nenin 69 të këtij ligji.
 
@@ -1790,7 +1876,7 @@ Njoftimi dhe kërkesa për të paguar
 
 Gjithashtu, në funksion të mbledhjes së detyrimit tatimor të papaguar të tatimpaguesit, administrata tatimore mund të angazhojë strukturat e saj për të verifikuar dhe monitoruar në vend aktivitetin tregtar të tatimpaguesit, me qëllim konfiskimin në fund të çdo dite të një shume jo më pak se 50 për qind të qarkullimit të realizuar, por jo më shumë se detyrimi tatimor, për të cilin ka filluar procedura e mbledhjes me forcë të detyrimeve tatimore, për llogari të detyrimeve tatimore të pashlyera të tatimpaguesit. Pagesa e shumës së qarkullimit të sekuestruar kalohet në llogarinë bankare të administratës tatimore ditën e nesërme.
 
-Tatimpaguesi, për të cilin administrata tatimore ka filluar mbledhjen me forcë të detyrimeve tatimore të papaguara, nuk mund të kryejë transferim të shumave të parave nga llogaria e tij apo të shesë\të transferojë aktivet ose kapitalet e shoqërisë, me përjashtim të rasteve kur, nëpërmjet shitjes\transferimit të aktiveve, synohet shlyerja në masën 100 për qind e detyrimit tatimor të papaguar.
+Tatimpaguesi, për të cilin administrata tatimore ka filluar mbledhjen me forcë të detyrimeve tatimore të papaguara, nuk mund të kryejë transferim të shumave të parave nga llogaria e tij apo të shesë\të transferojë aktivet ose kapitalet e shoqërisë, me përjashtim të rasteve kur, nëpërmjet shitjes\transferimit të aktiveve, synohet shlyerja në masën 100 për qind e detyrimit tatimor të papaguar. Transferimi i shumave të parave nga llogaria e tatimpaguesit, shitja/transferimi i aktiveve ose kapitaleve të shoqërisë në këtë rast kryhet vetëm në bashkëpunim me administratën tatimore.
 
 3. Detyrimi për dërgimin e njoftimit dhe të kërkesës për të paguar nuk zbatohet, nëse administrata tatimore zotëron prova konkrete dhe të besueshme, se tatimi është në rrezik dhe tatimpaguesi, për të shmangur mbledhjen me forcë të detyrimit tatimor, mund të fshehë ose të transferojë aktivet.
 
@@ -1804,9 +1890,9 @@ b) ndalimin e transferimit jashtë shtetit të shumave të depozituara në lloga
 
 Urdhri i bllokimit të llogarive bankare të tatimpaguesit
 
-(ndryshuar pika 2 me ligjin nr. 179, datë 28.12.2013; ndryshuar pika 1me ligjin nr. 164, datë 4.12.2014; shtuar fjalë në pikën 1 me ligjin nr. 97/2018, datë 3.12.2018)
+(ndryshuar pika 2 me ligjin nr. 179, datë 28.12.2013; ndryshuar pika 1me ligjin nr. 164, datë 4.12.2014; shtuar fjalë në pikën 1 me ligjin nr. 97/2018, datë 3.12.2018; shtuar fjalë në pikën 1  me ligjin 83/2019, datë 18.12.2019)
 
-1. Nëse tatimpaguesi nuk paguan detyrimin tatimor në datën e caktuar, në përputhje me nenin 89 të këtij ligji, për njoftimin dhe kërkesën për pagesë, administrata tatimore, nëpërmjet një urdhri me shkrim, të lëshuar nga drejtori i drejtorisë rajonale apo drejtuesi i njësisë së ngjashme me të, apo titullari i zyrës tatimore të qeverisjes vendore, i kërkon çdo banke me postë rekomande ose në rrugë elektronike, ku tatimpaguesi ka llogari në emër të vet, të bllokojë një shumë, e cila duhet të jetë më e vogla ndërmjet:
+1. Nëse tatimpaguesi nuk paguan detyrimin tatimor në datën e caktuar, në përputhje me nenin 89 të këtij ligji, për njoftimin dhe kërkesën për pagesë, administrata tatimore, nëpërmjet një urdhri me shkrim, të lëshuar nga drejtori i drejtorisë përgjegjëse për mbledhjen e detyrimeve të papaguara apo drejtuesi i njësisë së ngjashme me të, apo titullari i zyrës tatimore të qeverisjes vendore, i kërkon çdo banke shqiptare të nivelit të dytë, sipas përcaktimeve në udhëzimin e ministrit përgjegjës për financat me postë rekomande ose në rrugë elektronike, ku tatimpaguesi ka llogari në emër të vet, të bllokojë një shumë, e cila duhet të jetë më e vogla ndërmjet:
 
 a) shumës që kërkohet të mbahet; 
 
@@ -1820,9 +1906,11 @@ Neni 91
 
 Masa e sigurimit të detyrimit tatimor
 
-1. Nëse tatimpaguesi nuk paguan në datën e caktuar detyrimin tatimor, në përputhje me nenin 89 të këtij ligji, detyrimi tatimor i papaguar sigurohet në favor të administratës tatimore mbi të gjithë pasurinë e tatimpaguesit, në masën e nevojshme, për të përmbushur detyrimin tatimor të tij. 
+(shtuar fjalë në pikën 1  me ligjin 83/2019, datë 18.12.2019)
 
-2. Masa e sigurimit të detyrimit tatimor të papaguar mund të jetë, sipas rastit, barrë siguruese dhe/ose barrë hipotekore. Vendimi për të vendosur një barrë siguruese dhe/ose barrë hipotekore mbi pasurinë e tatimpaguesit bëhet me shkrim nga drejtori i drejtorisë rajonale tatimore apo drejtuesi i njësisë së ngjashme me të ose titullari i zyrës tatimore të qeverisjes vendore.
+1. Nëse tatimpaguesi nuk paguan në datën e caktuar detyrimin tatimor, në përputhje me nenin 89 të këtij ligji, detyrimi tatimor i papaguar sigurohet në favor të administratës tatimore mbi të gjithë pasurinë e tatimpaguesit, në përputhje me rregullat e detajuara me udhëzim të ministrit përgjegjës për financat, në masën e nevojshme, për të përmbushur detyrimin tatimor të tij. 
+
+2. Masa e sigurimit të detyrimit tatimor të papaguar mund të jetë, sipas rastit, barrë siguruese dhe/ose barrë hipotekore. Vendimi për të vendosur një barrë siguruese dhe/ose barrë hipotekore mbi pasurinë e tatimpaguesit bëhet me shkrim nga drejtori i drejtorisë përgjegjëse për mbledhjen e detyrimeve të papaguara apo drejtuesi i njësisë së ngjashme me të ose titullari i zyrës tatimore të qeverisjes vendore.
 
 3. Para vendosjes së një barre siguruese dhe/ose barre hipotekore mbi pasurinë e tatimpaguesit, ky i fundit duhet të njoftohet me shkrim. Njoftimi duhet të përmbajë të gjithë informacionin lidhur me to.
 
@@ -1836,19 +1924,19 @@ Neni 92
 
 Ankimimi i masës së sigurimit të detyrimit tatimor
 
-1. Tatimpaguesi ka të drejtë të ankimojë vendimin për masën e sigurimit të detyrimit tatimor të papaguar te drejtori i drejtorisë rajonale tatimore apo drejtuesi i njësisë të ngjashme me të dhe të kërkojë çlirimin nga sigurimi, vetëm kur është ekzekutuar në mënyrë të parregullt. Ankimi bëhet brenda 30 ditëve kalendarike nga çasti i marrjes dijeni për këtë parregullsi. 
+1. Tatimpaguesi ka të drejtë të ankimojë vendimin për masën e sigurimit të detyrimit tatimor të papaguar te drejtori i drejtorisë përgjegjëse për mbledhjen e detyrimeve të papaguara apo drejtuesi i njësisë të ngjashme me të dhe të kërkojë çlirimin nga sigurimi, vetëm kur është ekzekutuar në mënyrë të parregullt. Ankimi bëhet brenda 30 ditëve kalendarike nga çasti i marrjes dijeni për këtë parregullsi. 
 
-2. Kur kërkesa e tatimpaguesit miratohet nga drejtori i drejtorisë rajonale tatimore apo drejtuesi i njësisë së ngjashme me të, në bazë të një vendimi të marrë me shkrim, drejtori і drejtorisë rajonale ose titullari і njësisë së ngjashme me të ndërmerr menjëherë të gjitha masat e nevojshme, sipas legjislacionit në fuqi, për zhbllokimin e masës së sigurimit mbi pasurinë e tatimpaguesit.
+2. Kur kërkesa e tatimpaguesit miratohet nga drejtori i drejtorisë përgjegjëse për mbledhjen e detyrimeve të papaguara apo drejtuesi i njësisë së ngjashme me të, në bazë të një vendimi të marrë me shkrim, drejtori i drejtorisë përgjegjëse për mbledhjen e detyrimeve të papaguara ose titullari і njësisë së ngjashme me të ndërmerr menjëherë të gjitha masat e nevojshme, sipas legjislacionit në fuqi, për zhbllokimin e masës së sigurimit mbi pasurinë e tatimpaguesit.
 
 Vendimi futet në dosjen e tatimpaguesit.
 
-Në qoftë se drejtori i drejtorisë rajonale tatimore apo titullari i njësisë së ngjashme me të nuk miraton kërkesën e tatimpaguesit, tatimpaguesi mund ta ankimojë këtë vendim në përputhje me kreun XIII të këtij ligji.
+Në qoftë se drejtori i drejtorisë përgjegjëse për mbledhjen e detyrimeve të papaguara apo titullari i njësisë së ngjashme me të nuk miraton kërkesën e tatimpaguesit, tatimpaguesi mund ta ankimojë këtë vendim në përputhje me kreun XIII të këtij ligji.
 
 Neni 93
 
 Sekuestrimi dhe konfiskimi i pasurisë
 
-(ndryshuar me ligjin nr. 10 415, datë 7.4.2011)
+(ndryshuar fjalë në pikat 1 e 2 me ligjin nr. 10 415, datë 7.4.2011)
 
 1. Nëse tatimpaguesi nuk paguan detyrimin tatimor në datën e caktuar, në përputhje me nenin 89 të këtij ligji, për njoftimin dhe kërkesën për pagesë, administrata tatimore mund ta mbledhë detyrimin tatimor të papaguar nëpërmjet sekuestrimit, e më pas konfiskimit, të pasurisë së siguruar në favor të administratës tatimore, në pronësi të tatimpaguesit.
 
@@ -1856,7 +1944,7 @@ Sekuestrimi dhe konfiskimi i pasurisë
 
 sipas këtij kreu, është objekt i dispozitave të ligjit “Për kundërvajtjet administrative” dhe realizohet nga administrata tatimore. 
 
-3. Urdhri për sekuestrimin e pasurisë bëhet me shkrim nga drejtori i drejtorisë rajonale tatimore ose titullari i zyrës tatimore të qeverisjes vendore. Urdhri duhet të identifikojë tatimpaguesin, pasuria e të cilit është objekt i sekuestrimit, vendndodhjen e pasurisë dhe vlerësimin e tatimit, për të cilin vihet sekuestroja. Urdhri i dërgohet tatimpaguesit me postë rekomande. 
+3. Urdhri për sekuestrimin e pasurisë bëhet me shkrim nga drejtori i drejtorisë përgjegjëse për mbledhjen e detyrimeve të papaguara ose titullari i zyrës tatimore të qeverisjes vendore. Urdhri duhet të identifikojë tatimpaguesin, pasuria e të cilit është objekt i sekuestrimit, vendndodhjen e pasurisë dhe vlerësimin e tatimit, për të cilin vihet sekuestroja. Urdhri i dërgohet tatimpaguesit me postë rekomande. 
 
 4. Administrata tatimore mund ta sekuestrojë pasurinë sipas detyrimit vetëm pas vendosjes së masës së sigurisë mbi pasurinë, në përputhje me nenin 91 të këtij ligji dhe vetëm 30 ditë kalendarike pas datës, kur urdhri i sekuestrimit është marrë ose vlerësohet të jetë marrë nga tatimpaguesi, në formën e parashikuar në nenin 94 të këtij ligji. 
 
@@ -1888,15 +1976,17 @@ E gjithë pasuria e tatimpaguesit është objekt i sekuestrimit në masën e det
 
 Neni 96
 
-Shitja e pasurisë së sekuestruar
+Shitja e pasurisë së konfiskuar 
 
-(ndryshuar pika 1 me ligjin nr. 10 415, datë 7.4.2011; ndryshuar pika 2 me ligjin nr. 164, datë 4.12.2014)
+(ndryshuar pika 1 me ligjin nr. 10 415, datë 7.4.2011; ndryshuar pika 2 me ligjin nr. 164, datë 4.12.2014; ndryshuar titulli, shtuar pika 4  me ligjin 83/2019, datë 18.12.2019)
 
 1. Nëse edhe me kalimin e 15 ditëve kalendarike nga sekuestrimi i pasurisë, bërë në përputhje me nenin 93 të këtij ligji, tatimpaguesi nuk shlyen të plotë detyrimin tatimor të prapambetur, pasuria e sekuestruar konfiskohet nga administrata tatimore dhe shitet në ankand publik, në përputhje me dispozitat procedurale të ligjit për ankandin publik.
 
 2.Të ardhurat nga shitjet përdoren fillimisht për të paguar shpenzimet e shitjes dhe më pas zbatohet radha e pagesës, në përputhje me nenin 79 të këtij ligji.
 
 3. Shuma e mbetur i kthehet tatimpaguesit brenda pesë ditëve pune nga data e përfundimit të ankandit. 
+
+4. Ministria përgjegjëse e drejtësisë dhe ministria përgjegjëse për financat, me udhëzim të përbashkët, përcaktojnë procedurat që do të zbatohen për shitjen e pasurisë së konfiskuar sipas aktit administrativ të konfiskimit.
 
 Neni 97
 
@@ -1954,21 +2044,23 @@ Neni 101
 
 Detyrimi për t’u paraqitur
 
+(ndryshuar pika 3 me ligjin nr. 83/2022, datë 24.11.2022)
+
 1. Administrata tatimore ka të drejtë të thërrasë çdo person që ka dijeni për dokumentacionin apo procedurat tatimore, kur ajo e gjykon se prania e tij është e nevojshme për zbatimin e duhur të legjislacionit tatimor.
 
 2. Administrata tatimore ka të drejtë të thërrasë çdo person për të dëshmuar, për të dhënë ekspertizë ose për të paraqitur librat e regjistrimet, në rastet kur informacioni i kërkuar nuk mund të dërgohet lehtësisht dhe pa shpenzime të mëdha me postë ose në mënyrë elektronike.
 
-3. Kërkesa e administratës tatimore për t’u paraqitur bëhet me shkrim dhe nënshkruhet nga drejtori i drejtorisë rajonale tatimore ose titullari i zyrës tatimore të qeverisjes vendore dhe .  përmban: 
+3. Administrata tatimore duhet të lëshojë një kërkesë thirrjeje me shkrim të autorizuar nga titullari i strukturës përgjegjëse të administratës tatimore, për kontrollet e kryera nga strukturat e kontrollit tatimor në administratën tatimore qendrore, ose nga titullari i njësisë tatimore të qeverisjes vendore, kërkesë që përfshin informacionin e mëposhtëm:
 
-a) identifikimin e zyrës tatimore, qendrore ose vendore, që nxjerr kërkesën për paraqitje;
+a) identifikimin e strukturës tatimore qendrore ose vendore që nxjerr kërkesën për thirrje;
 
 b) emrin dhe identifikimin tatimor të personit të thirrur;
 
-c) vendin, datën dhe orën e paraqitjes;
+c) vendin, datën dhe orën e procedurës së thirrjes;
 
-ç) objektin e kërkesës dhe cilësinë e personit të thirrur (tatimpagues, palë e tretë ose ekspert); 
+ç) lëndën e thirrjes dhe pozicionin e personit të thirrur (tatimpagues, personi i tretë ose ekspert); dhe
 
-d) një listë të librave, regjistrimeve dhe dokumenteve të tjera, që personi duhet të dorëzojë.
+d) një listë të librave dhe të dhënave specifike, si dhe dokumentacion tjetër që personi duhet të dorëzojë.
 
 4. Kërkesa për paraqitje dërgohet me postë rekomande, të paktën 15 ditë kalendarike para datës së caktuar për paraqitje.
 
@@ -1996,7 +2088,7 @@ Neni 103
 
 Procedurat për deklarimin e detyrimit tatimor si të pambledhshëm
 
-(ndryshuar pika 3  me ligjin nr. 164, datë 4.12.2014; ndryshuar pika 7 dhe shtuar pikat 8 dhe 9 me ligjin nr. 97/2018, datë 3.12.2018)
+(ndryshuar pika 3  me ligjin nr. 164, datë 4.12.2014; ndryshuar pika 7 dhe shtuar pikat 8 dhe 9 me ligjin nr. 97/2018, datë 3.12.2018; ndryshuar pika 6  me ligjin 83/2019, datë 18.12.2019; shfuqizuar pika 5 me ligjin nr. 83/2022, datë 24.11.2022)
 
 1. Deklarimi i një pjese apo i të gjithë detyrimit tatimor të interesit dhe gjobës, si të pambledhshëm, bëhet pasi të jenë zbatuar dhe evidentuar të gjitha procedurat e mbledhjes, sipas këtij ligji, përfshirë: 
 
@@ -2024,9 +2116,15 @@ dh) një vlerësim të mundësisë për mbledhjen e borxheve.
 
 4. Deklarimi і detyrimit tatimor si i pambledhshëm i të gjithë ose i një pjese të tij nuk mund të bëhet kur ka prova të evazionit tatimor ose të mashtrimit.
 
-5. Deklarimi i pambledhshëm i detyrimit tatimor apo i një pjese të tij bëhet me vendim të Drejtorit të Përgjithshëm të Tatimeve.
+5. Shfuqizuar.
 
-6. Deklarimi i pambledhshëm i detyrimit tatimor apo i një pjese të tij, për shuma të barabarta apo më të mëdha se 5 000 000, lekë bëhet me urdhër të Ministrit të Financave, sipas dokumentacionit dhe rekomandimit, dhënë nga administrata tatimore.
+6. Deklarimi i pambledhshëm i detyrimit tatimor apo i një pjese të tij bëhet si më poshtë:
+
+a) për shuma deri në 1 000 000 (një milion) lekë bëhet me urdhër të drejtorit rajonal të tatimeve, bazuar në vendimin e marrë nga komisioni i ngritur për këtë qëllim në DRT, i cili funksionon sipas përcaktimeve të bëra në udhëzimin e ministrit përgjegjës për financat, në zbatim të këtij ligji. 
+
+b) për shuma mbi 1 000 000 (një milion) lekë deri në 5 000 000 (pesë milionë) lekë, sipas propozimit të DRT-së, bëhet me urdhër të Drejtorit të Përgjithshëm të Tatimeve, bazuar në vendimin e marrë nga komisioni i ngritur për këtë qëllim në DPT. Komisioni funksionon sipas përcaktimeve të bëra në udhëzimin e ministrit përgjegjës për financat, në zbatim të këtij ligji. 
+
+c) për shuma mbi 5 000 000 (pesë milionë) lekë, sipas propozimit të DPT-së, bazuar në vendimin e marrë nga komisioni i ngritur për këtë qëllim në DPT, bëhet me urdhër të ministrit përgjegjës për financat. Komisioni funksionon sipas përcaktimeve të bëra në udhëzimin e ministrit përgjegjës për financat, në zbatim të këtij ligji.
 
 7. Pas deklarimit të pambledhshëm të detyrimit tatimor ose të një pjese të tij, organi tatimor evidenton në regjistrin kontabël detyrimet që janë deklaruar të pambledhshme në zbatim të ligjit.
 
@@ -2050,19 +2148,15 @@ Neni 105
 
 Struktura dhe funksionet e njësive të hetimit tatimor
 
-(ndryshuar shkronja “c”, shtuar shkronja “ç” të pikës 2, ndryshuar pika 4 me ligjin nr. 164, datë 4.12.2014; shtuar pika 6 me ligjin nr. 112/2016 datë 3.11.2016)
+(ndryshuar shkronja “c”, shtuar shkronja “ç” të pikës 2, ndryshuar pika 4 me ligjin nr. 164/2014, datë 4.12.2014; shtuar pika 6 me ligjin nr. 112/2016 datë 3.11.2016, hequr fjalë në pikën 1 dhe 6, ndryshuar pika 2 me ligjin nr. 83/2022, datë 24.11.2022 )
 
-1. Strukturat e hetimit tatimor janë njësi të specializuara hetimi dhe zbatimi në administratën tatimore qendrore. 
+1. Strukturat e hetimit tatimor janë njësi të specializuara hetimi në administratën tatimore qendrore. 
 
-2. Strukturat e hetimit tatimor kanë si funksion parësor:
+2. Strukturat e hetimit tatimor kanë si funksion:
 
-a) mbledhjen e informacionit tatimor; 
+a) mbledhjen dhe analizën  e informacionit tatimor; 
 
 b) hetimin tatimor;
-
-c)  zbatimin e masave shtrënguese;
-
-ç) marrjen e masave administrative edhe për kundërvajtjet administrative tatimore.
 
 3. Punonjësit e njësive të hetimit tatimor gëzojnë atributet e Policisë Gjyqësore, në përputhje me Kodin e Procedurës Penale dhe ligjin për organizimin dhe funksionimin e Policisë Gjyqësore.
 
@@ -2070,7 +2164,7 @@ c)  zbatimin e masave shtrënguese;
 
 5. Detyrat dhe funksionet e drejtorisë së hetimit tatimor, në zbatim të këtij neni, përcaktohen me vendim të Këshillit të Ministrave.
 
-6. Drejtori i Drejtorisë së Hetimit Tatimor, në Drejtorinë e Përgjithshme të Tatimeve, dhe drejtorët e hetimit tatimor në drejtoritë rajonale tatimore emërohen nga Ministri i Financave.
+6. Drejtori i Drejtorisë së Hetimit Tatimor, në Drejtorinë e Përgjithshme të Tatimeve, emërohen nga Ministri i Financave.
 
 Neni 105/1
 
@@ -2142,6 +2236,22 @@ f) nxjerr rekomandime me karakter të përgjithshëm në lidhje me çështjet e 
 
  8. Manuali i Avokatit të Tatimpaguesve, i cili përmban procedura të hollësishme për mbledhjen e informacionit, evidentimin dhe shqyrtimin e ankesave të tatimpaguesve, zgjedhjen dhe trajtimin e ankesave e të shqetësimeve të tatimpaguesve dhe procedurat e raportimit, si dhe rregullat për përgjithësimin e gjetjeve individuale, mbylljen e shqyrtimeve, kohën brenda të cilës do të shqyrtohen ankesat, si dhe treguesit e matjes së performancës miratohet nëpërmjet një udhëzimi të Ministrit të Financave.
 
+Neni 105/3
+
+Struktura dhe funksionet e Drejtorisë së Verifikimit dhe Koordinimit në Terren
+
+(shtuar me ligjin nr. 83/2022, datë 24.11.2022)
+
+1. Strukturat e verifikimit dhe koordinimit në terren janë njësi të specializuara zbatimi në administratën tatimore qendrore.
+
+2. Strukturat e verifikimit dhe koordinimit në terren kanë si funksion parësor:
+
+a) marrjen e masave administrative për kundërvajtjet administrative tatimore;
+
+b) zbatimin e masave shtrënguese.
+
+3. Drejtoria e Verifikimit dhe Koordinimit në Terren është e organizuar në nivel qendror dhe rajonal.
+
 KREU XIII
 
 ANKIMIMI ADMINISTRATIV TATIMOR
@@ -2164,7 +2274,7 @@ Neni 107
 
 Pagesa e detyrimit tatimor, objekt ankimi
 
-(ndryshuar pikat 1, 2,3 me ligjin nr. 179, datë 28.12.2013; shtuar fjalë në pikën 1 me ligjin nr. 164, datë 4.12.2014; shtuar fjalë në pund të pikës 2 me ligjin nr. 97/2018, datë 3.12.2018)
+(ndryshuar pikat 1, 2,3 me ligjin nr. 179/2013, datë 28.12.2013; shtuar fjalë në pikën 1 me ligjin nr. 164/2014, datë 4.12.2014; shtuar fjalë në pund të pikës 2 me ligjin nr. 97/2018, datë 3.12.2018)
 
 1. Tatimpaguesi, i cili kërkon të ankimojë, sipas pikës 1 të nenit 106 të këtij ligji, duhet që bashkë me ankesën të paguajë shumën e plotë të detyrimit tatimor ose të vendosë garanci bankare minimalisht 6 muaj, por jo më pak se afati, sipas të cilit vendimi ka marrë formë të prerë për shumën e plotë të detyrimit tatimor, të përcaktuar në njoftimin e vlerësimit të administratës tatimore.
 
@@ -2252,27 +2362,29 @@ Neni 112
 
 Mungesa e ekzekutimit të detyrimit për regjistrim
 
-(ndryshuar me ligjin nr. 164, datë 4.12.2014)
+(ndryshuar me ligjin nr. 164, datë 4.12.2014 dhe nr. 83/2022, datë 24.11.2022)
 
-Përveç sanksioneve administrative, të parashikuara në ligje të tjera, mosrespektimi i detyrimit për regjistrim apo detyrimit për përditësimin e të dhënave, dënohet për çdo shkelje me gjobë prej 10 000 lekësh për organizatat jofitimprurëse dhe për tatimpaguesit e tatimit të thjeshtuar mbi fitimin dhe 15 000 lekësh për tatimpaguesit e tatimit mbi fitimin.
+Përveç sanksioneve administrative të parashikuara në legjislacionin në fuqi për këtë qëllim, mosrespektimi i detyrimit për regjistrim apo detyrimit për përditësimin e të dhënave dënohet për çdo shkelje me gjobë prej 10 000 lekësh për personat fizikë dhe 15 000 lekësh për personat juridikë.
 
 Neni 113
 
 Mosdeklarimi në afat
 
-(ndryshuar me ligjin nr. 179, datë 28.12.2013; ndryshuar me ligjin nr. 112/2016 datë 3.11.2016)
+(ndryshuar me ligjin nr. 179, datë 28.12.2013; ndryshuar me ligjin nr. 112/2016 datë 3.11.2016, ndryshuar shkronja “b” dhe shtuar shkronja “c” nr. 83/2022, datë 24.11.2022)
 
 	Tatimpaguesi, i cili nuk dorëzon në afatin e përcaktuar sipas ligjit përkatës deklaratën tatimore, për të cilën detyrohet sipas ligjit të deklarojë, dënohet me gjobë për çdo deklaratë tatimore të padorëzuar në afat, si më poshtë:
 
 	a) 10 000 lekë për tatimpaguesit e tatimit mbi fitimin;
 
-	b) 5 000 lekë për tatimpaguesit e tjerë.
+	b) 5 000 lekë për tatimpaguesit e tjerë me përjashtim të tatimpaguesit individë.
+
+	c) 3 000 lekë për tatimpaguesit individë.
 
 Neni 114
 
 Mospagimi në afat i detyrimit tatimor apo і kontributit 
 
-(ndryshuar me ligjin nr..10209, datë 23.12.2009; shtuar pika 4, me ligjin nr. 124/2012, datë 20.12.2012; shfuqizuar pika 3 me ligjin nr. 179, datë 28.12.2013; ndryshuar pika 2  me ligjin nr. 84/2014, datë 17.7.2014; ndryshuar pika 1 me ligjin nr. 164, datë 4.12.2014; ndryshuar fjalia e dytë e pikës 2 me ligjin nr. 112/2016 datë 3.11.2016)
+(ndryshuar me ligjin nr..10209, datë 23.12.2009; shtuar pika 4, me ligjin nr. 124/2012, datë 20.12.2012; shfuqizuar pika 3 me ligjin nr. 179, datë 28.12.2013; ndryshuar pika 2  me ligjin nr. 84/2014, datë 17.7.2014; ndryshuar pika 1 me ligjin nr. 164/2014, datë 4.12.2014; ndryshuar fjalia e dytë e pikës 2 me ligjin nr. 112/2016 datë 3.11.2016)
 
 1. Tatimpaguesi, i cili nuk arrin që, brenda afatit të parashikuar në këtë ligj për pagesë, të paguajë shumën e detyrimit tatimor e të kontributit, detyrohet të paguajë një gjobë, të barabartë me 0,06 për qind të shumës së detyrimit të papaguar për çdo ditë, gjatë së cilës pagesa nuk është kryer. Në asnjë rast, gjoba nuk llogaritet për një periudhë më të gjatë se 365 ditë kalendarike.
 
@@ -2284,15 +2396,17 @@ Mospagimi në afat i detyrimit tatimor apo і kontributit
 
 Neni 114/1
 
- (shtuar me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar me ligjin nr. 112/2016 datë 3.11.2016)
+	Mospagimi i kësteve të tatimit mbi fitimin korporativ dhe mbi të ardhurat personale
 
-	Mospagimi në afat i kësteve paraprake të tatimit mbi fitimin ose kësteve paraprake të tatimit të thjeshtuar mbi fitimin, përkatësisht sipas nenit 30, të ligjit nr. 8438, datë 28.12.1998, “Për tatimin mbi të ardhurat”, të ndryshuar, dhe nenit 15, të ligjit nr. 9632, datë 30.10.2006, “Për sistemin e taksave vendore”, të ndryshuar, dënohet me gjobë, në masën 10 për qind të shumës së këstit për t’u paguar.
+(shtuar me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar me ligjin nr. 112/2016 datë 3.11.2016, nr. 83/2022, datë 24.11.2022)
+
+Mospagimi në afat i kësteve paraprake të tatimit mbi fitimin korporativ dhe tatimit mbi të ardhurat personale nga biznesi dhe vetëpunësimi, sipas legjislacionit në fuqi për tatimin mbi të ardhurat, dënohet me gjobë në masën 10 për qind të shumës së këstit për t’u paguar plus kamatëvonesën e llogaritur për ditët e vonuara, por jo më shumë se 365 ditë.
 
 Neni 115
 
 Plotësim i pasaktë i deklaratës tatimore
 
-(ndryshuar  pika 1 me ligjin nr. 10209, datë 23.12.2009; ndryshuar me ligjin nr. 164, datë 4.12.2014; ndryshuar pika 2 me ligjin nr. 112/2016 datë 3.11.2016; shtuar pika 3 me ligjin nr. 97/2018, datë 3.12.2018)
+(ndryshuar  pika 1 me ligjin nr. 10209, datë 23.12.2009; ndryshuar me ligjin nr. 164/2014, datë 4.12.2014; shfuqizuar fjalia e dytë e  pikës  2 me ligjin nr. 112/2016 datë 3.11.2016; shtuar pika 3 me ligjin nr. 97/2018, datë 3.12.2018)
 
 1. Dorëzimi i një deklarate tatimore të pasaktë dënohet me një gjobë të barabartë me 0,06 për qind të shumës së detyrimit të papaguar për çdo ditë, gjatë së cilës pagesa nuk është kryer. Në asnjë rast, gjoba nuk llogaritet për një periudhë më të gjatë se 365 ditë kalendarike.
 
@@ -2330,7 +2444,7 @@ Neni 116
 
 Evazioni tatimor
 
- (riformuluar me ligjin nr. 164, datë 4.12.2014)
+ (riformuluar me ligjin nr. 164/2014, datë 4.12.2014)
 
 1. Fshehja apo shmangia nga pagimi i detyrimeve tatimore, nëpërmjet mosdorëzimit të dokumenteve ose mosdeklarimit të të dhënave të nevojshme, sipas legjislacionit në fuqi, dorëzimi i dokumenteve të falsifikuara apo deklaratave ose informacioneve të rreme, që çojnë në përllogaritjen e pasaktë të shumës së tatimit, taksës apo kontributit, përbën evazion tatimor dhe dënohet me gjobë të barabartë me 100 për qind të diferencës së shumës së përllogaritur nga ajo që duhet të ishte në fakt.
 
@@ -2348,7 +2462,7 @@ Dënimet për agjentët e mbajtjes së tatimit në burim, agjentët e taksave dh
 
 e tarifave
 
-(ndryshuar me ligjin nr. 179, datë 28.12.2013; ndryshuar me ligjin nr. 112/2016 datë 3.11.2016)
+(ndryshuar me ligjin nr. 179/2013, datë 28.12.2013; ndryshuar me ligjin nr. 112/2016 datë 3.11.2016)
 
 	Agjenti i mbajtjes së tatimit, agjenti i taksave apo ai i tarifave detyrohen të paguajnë gjobë, në masën e mëposhtme:
 
@@ -2360,25 +2474,31 @@ e tarifave
 
 Neni 118
 
-Mosmbajtja e saktë e librave, regjistrave dhe dokumentacionit 
+Mosmbajtja e saktë e librave, regjistrave dhe dokumentacionit
 
-Tatimpaguesi, që nuk arrin të mbajë regjistrat dhe dokumentacionin tatimor, të kërkuar sipas këtij ligji, detyrohet të paguajë një gjobë me 10 000 lekë, për çdo shkelje, në rastet kur është klasifikuar si biznes i vogël, dhe me 50 000 lekë për çdo shkelje, në rastet kur është klasifikuar si lloj tjetër biznesi.
+(ndryshuar me ligjin nr. 83/2022, datë 24.11.2022)
+
+Tatimpaguesi që nuk arrin të mbajë regjistrat dhe dokumentacionin tatimor, të kërkuar sipas këtij ligji, detyrohet të paguajë një gjobë me 10 000 lekë për çdo shkelje, në rastet kur është person fizik që ushtron veprimtari ekonomike tregtare apo si i vetëpunësuar dhe 50 000 lekë kur është person juridik.
 
 Neni 119
 
 Mosdeklarimi i punonjësve dhe fshehja e pagës
 
-(ndryshuar me ligjin nr.10209, datë 23.12.2009; ndryshuar me ligjin nr. 10415, datë 7.4.2011; ndryshuar shkronjat “a” dhe “b” me ligjin nr. 124/2012, datë 20.12.2012; ndryshuar me ligjin nr. 164, datë 4.12.2014; ndryshuar me ligjin nr. 112/2016 datë 3.11.2016)
+(ndryshuar me ligjin nr.10209, datë 23.12.2009; ndryshuar me ligjin nr. 10415, datë 7.4.2011; ndryshuar shkronjat “a” dhe “b” me ligjin nr. 124/2012, datë 20.12.2012; ndryshuar me ligjin nr. 164/2014, datë 4.12.2014; ndryshuar me ligjin nr. 112/2016 datë 3.11.2016, ndryshuar fjalia e dytë e shkronjës “b” me ligjin 83/2019, datë 18.12.2019; ndryshuar pika 3 me ligjin nr. 83/2022, datë 24.11.2022)
 
 	1. Nëse nga verifikimi dhe kontrolli në vendndodhjen e biznesit rezulton se tatimpaguesi nuk ka deklaruar në organin tatimor çdo të punësuar rishtazi, të paktën një ditë kalendarike përpara fillimit të punës, përveç detyrimit për pagimin e shumës së detyrimeve tatimore dhe kontributeve të sigurimeve shoqërore e shëndetësore, të llogaritura nga data e konstatimit, dënohet me gjobë për çdo punonjës të padeklaruar:
 
 	a) tatimpaguesit e regjistruar si subjekte të tatimit mbi vlerën e shtuar dhe tatimit mbi fitimin, me gjobë prej 200 000 (dyqind mijë) lekësh;
 
-	b) tatimpaguesit e tjerë, me gjobë prej 50 000 (pesëdhjetë mijë) lekësh.
+	b) tatimpaguesit e tjerë, me gjobë prej 50 000 (pesëdhjetë mijë) lekësh. 
 
-	Kjo gjobë nuk aplikohet në rastin kur nga verifikimi dhe kontrolli në vendndodhjen e aktivitetit të personit fizik të vetëpunësuar, evidentohen persona mbi 16 vjeç, të cilët kategorizohen si persona të papaguar të familjes. Në këtë rast, pas konstatimit, tatimpaguesit përkatës i lihet kohë deri në 5 ditë kalendarike që të vërtetojë pranë organit tatimor se personi i evidentuar në vendin e aktivitetit është person i papaguar i familjes ose që bashkëjeton ligjërisht me të vetëpunësuarin, sipas kuptimit në Kodin Civil.  
+2. Këto gjoba nuk aplikohen në rastin kur nga verifikimi dhe kontrolli në vendndodhjen e aktivitetit të tatimpaguesit me status ligjor person fizik, evidentohen persona mbi 16 vjeç, të cilët deklarohen si “të vetëpunësuar me punonjës të papaguar të familjes”. Pas konstatimit, organi tatimor vërteton në portalin “e-Albania”, nëpërmjet certifikatës familjare të të vetëpunësuarit, nëse ai plotëson ose jo kushtet për t’u konsideruar si person i papaguar i familjes apo si bashkëjetues, sipas kuptimit të Kodit Civil.
 
-	2. Nëse nga verifikimi dhe kontrolli rezulton se tatimpaguesi ka fshehur dhe nuk ka deklaruar pagën e saktë të përfituar nga punëmarrësi, si rezultat i marrëdhënies së punësimit, tatimpaguesi-punëdhënës, përveç detyrimit për pagimin e shumës së detyrimit tatimor dhe kontributit të sigurimeve shoqërore dhe shëndetësore, të llogaritur për gjithë periudhën që provohet se është kryer shkelja, dënohet me gjobë në masën 100 për qind të detyrimit dhe kontributit të llogaritur.
+3. Nëse nga verifikimi dhe kontrolli rezulton se tatimpaguesi ka fshehur dhe nuk ka deklaruar pagën e saktë të përfituar nga punëmarrësi, si rezultat i marrëdhënieve të punësimit, punëdhënësi përveç detyrimit për pagimin e shumës së duhur të detyrimit tatimor dhe kontributet për këtë punonjës, të llogaritur për gjithë periudhën e provuar se është kryer shkelja, dënohet me gjobë në masën:
+
+a) 200% të detyrimit dhe kontributit të llogaritur për tatimpaguesit entitete juridike;
+
+b) 100% të detyrimit dhe kontributit për të gjithë tatimpaguesit e tjerë.
 
 Neni 119/1
 
@@ -2392,153 +2512,221 @@ Pagesat ose arkëtimet me para në dorë
 
 mbi 150 000 lekë
 
-(ndryshuar me ligjin nr. 179, datë 28.12.2013; ndryshuar me ligjin nr. 112/2016 datë 3.11.2016)
+(ndryshuar me ligjin nr. 179, datë 28.12.2013; ndryshuar me ligjin nr. 112/2016 datë 3.11.2016; shtuar paragrafë me ligjin nr. 31/2019, datë 17.6.2019)
 
 	Tatimpaguesit, persona fizikë apo juridikë, tregtarë, që kryejnë ndërmjet tyre transaksione shitjeje apo blerjeje me para në dorë, jo në përputhje me përcaktimin e pikës 1, të nenit 59, të këtij ligji, dënohen me gjobë në masën 10 për qind të vlerës së secilit transaksion.
 
+Mospërmbushja e detyrimit të përcaktuar në pikën 1/2 dhe 1/3 të nenit 59, të këtij ligji nga tatimpaguesit dënohen si më poshtë: 
+
+	a) për tatimpaguesit, persona fizikë tregtarë, të regjistruar për tatimin mbi vlerën e shtuar, me qarkullim deri në 8 000 000 (tetë milionë) lekë, gjobë në masën 25 000 lekë; 
+
+	b) për tatimpaguesit persona juridikë, pavarësisht nga qarkullimi, si dhe tatimpaguesit persona fizikë tregtarë, me qarkullim mbi 8 000 000 (tetë milionë) lekë, gjobë në masën 50 000 lekë; 
+
+	c) për organizatat jofitimprurëse, gjobë në masën 37 000 lekë. 
+
+	Në rast të vazhdimit të mosrespektimit të detyrimit të pikës 1/2 dhe 1/3, të nenit 59, të këtij ligji, edhe pas dënimit, sipas shkronjave “a”, “b” dhe “c”, të këtij paragrafi, tatimpaguesi dënohet me dyfishin e gjobës së parë.
+
 Neni 121
 
-Mallrat e pashoqëruara me dokumente tatimore
+Mallrat e pashoqëruara me dokumente tatimore 
 
-(shtuar pika 3 me ligjin nr. 10415, datë 7.4.2011; shtuar paragrafi i fundit  me ligjin nr. 164, datë 4.12.2014; shtuar me ligjin nr. 99/2015, datë 23.9.2015; shtuar pikat 4 dhe 5 me ligjin nr. 99/2015, datë 23.9.2015; shfuqizuar pika 4 me vendimin e gjykatës kushtetuese nr. 33, datë 8.6.2016; ndryshuar pikat 1 dhe 3, dhe shfuqizuar pika 2, me ligjin nr. 112/2016 datë 3.11.2016)
+(shtuar pika 3 me ligjin nr. 10415, datë 7.4.2011; shtuar paragrafi i fundit  me ligjin nr. 164, datë 4.12.2014; shtuar me ligjin nr. 99/2015, datë 23.9.2015; shtuar pikat 4 dhe 5 me ligjin nr. 99/2015, datë 23.9.2015; shfuqizuar pika 4 me vendimin e Gjykatës Kushtetuese nr. 33, datë 8.6.2016; ndryshuar pikat 1 dhe 3, dhe shfuqizuar pika 2, me ligjin nr. 112/2016 datë 3.11.2016, ndryshuar me ligjin 83/2019, datë 18.12.2019; ndryshuar me ligjin nr. 83/2022, datë 24.11.2022 )
 
-1. Për tatimpaguesin që mban në ruajtje, përdor ose transporton mallra të pashoqëruara me dokumente tatimore, në përputhje me dispozitat e këtij ligji, aplikohen masat dhe dënimet si më poshtë:
+1. Tatimpaguesit që mbajnë në ruajtje, përdorin ose transportojnë mallra të pashoqëruara me dokumente tatimore, në përputhje me dispozitat e këtij ligji dhe të legjislacionit në fuqi për faturën dhe sistemin e monitorimit të qarkullimit, penalizohen si më poshtë: 
 
-a) Tatimpaguesit të tatimit të thjeshtuar të fitimit, që nuk është i regjistruar për TVSH-në, menjëherë në momentin e konstatimit i ndryshohet përgjegjësia tatimore duke kaluar si tatimpagues i TVSH-së. Për qëllim të konstatimit të mosdokumentimit të mallit detyrohet të lëshojë faturë, sipas nenit 53, të këtij ligji, me qëllim dokumentimin e mallit dhe aplikohet dënim, sipas pikës 1, të nenit 124, të këtij ligji. 
+a) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit mbi të ardhurat personale nga biznesi apo vetëpunësimi, të cilët nuk janë të regjistruar për TVSH-në, dhe tatimpagues të tjerë dënohen me gjobë prej 25 000 lekësh; 
 
-b) Tatimpaguesi i regjistruar për TVSH-në detyrohet të dokumentojë mallin duke lëshuar faturë tatimore, sipas nenit 53, të këtij ligji. Për qëllim të konstatimit të mosdokumentimit të mallit i kryhet rivlerësim i shitjeve në të njëjtën vlerë me vlerën e tregut të mallit të padokumentuar dhe aplikohet dënim, sipas pikës 1, të nenit 124, të këtij ligji.
+b) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit mbi të ardhurat personale nga biznesi apo vetëpunësimi dhe për TVSH-në dënohen me gjobë prej 50 000 lekësh, por jo më pak se vlera e  TVSH-së së munguar;
 
-2. Shfuqizuar.
+c) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit mbi fitimin korporativ dënohen me gjobë prej 750 000 lekësh, por jo më pak se vlera e TVSH-së së munguar;
 
-3. Personi i identifikuar i paregjistruar, në kuptim të nenit 41, të këtij ligji, për sasinë e mallit që mban në ruajtje, përdor ose transporton, dënohet sipas shkronjës “b”, të pikës 1, të këtij neni.Gjithashtu, në përputhje me nenin 116, të këtij ligji, administrata tatimore ushtron të drejtën e parashikuar në nenin 131, të këtij ligji, duke e kallëzuar penalisht tatimpaguesin.
+ç) personi, i cili ushtron veprimtari ekonomike tregtare i paregjistruar, sipas përcaktimeve të nenit 41 të këtij ligji, dënohet me gjobë prej 50 000 lekësh.
 
-4. Shfuqizuar.
+2. Përcaktimi i vlerës së TVSH-së së munguar bëhet nga administrata tatimore në momentin e konstatimit të shkeljes duke vlerësuar mallin e gjetur pa faturë me çmimin e tregut. 
 
-5. Përjashtimit, për të gjithë tatimpaguesit, të cilët me vullnetin e tyre bëjnë vetëdeklarimin e mallit që kanë gjendje pa dokumente tatimore, me anë të një fature të përgatitur nga blerësi, sipas nenit 53, të këtij ligji, brenda datës 31.12.2015, nuk do të zbatohen penalitetet e përcaktuara në pikat 1, 2 dhe 4 të këtij neni. Procedurat e vetëdeklarimit të mallrave gjendje nga tatimpaguesi përcaktohen me Udhëzim të Ministrit të Financave. Tatimpaguesit nuk përfitojnë nga kjo dispozitë, nëse shkelja, sipas pikave 1, 2 dhe 4, të këtij neni, është konstatuar paraprakisht nga administrata tatimore.
+3. Për shkeljet e parashikuara në pikën 1 të këtij neni, në rast përsëritjeje, administrata tatimore, përveç penaliteteve të përcaktuara në pikën 1, kallëzon penalisht tatimpaguesin në përputhje me përcaktimet e neneve 116 dhe 131 të këtij ligji.
 
 Neni 122
 
-Kundërvajtjet administrative në përdorimin e pajisjeve fiskale, për lëshimin e kuponave fiskalë e të biletave
+Shkeljet për mosregjistrimin e të dhënave të subjekteve që lëshojnë fatura
 
-(ndryshuar  me ligjin nr.10209, datë 23.12.2009; ndryshuar  me ligjin nr. 10415, datë 7.4.2011; ndryshuar  me ligjin nr. 164, datë 4.12.2014; ndryshuar  me ligjin nr. 99/2015, datë 23.9.2015; shfuqizuar pikat “b”, “c” të pikës 1 dhe “d/1, me vendimin e Gjykatës Kushtetuese nr. 33, datë 8.6.2016; ndryshuar me ligjin nr. 112/2016 datë 3.11.2016)
+(ndryshuar  me ligjin nr.10209, datë 23.12.2009; ndryshuar  me ligjin nr. 10415, datë 7.4.2011; ndryshuar  me ligjin nr. 164/2014, datë 4.12.2014; ndryshuar  me ligjin nr. 99/2015, datë 23.9.2015; shfuqizuar pikat “b”, “c” të pikës 1 dhe “d/1, me vendimin e Gjykatës Kushtetuese nr. 33, datë 8.6.2016; ndryshuar me ligjin nr. 112/2016 datë 3.11.2016; ndryshuar me ligjin 83/2019, datë 18.12.2019)
 
-1. Tatimpaguesi, person juridik ose fizik, tregtar, i cili detyrohet të përdorë pajisjen fiskale ose sistemet e monitorimit të qarkullimit, në përputhje me përcaktimet e këtij ligji, dënohet në rast se:
+1. Personi, i cili është subjekt i lëshimit të faturës ose i faturës shoqëruese, në përputhje me legjislacionin në fuqi për faturën dhe sistemin e monitorimit të qarkullimit, dënohet me gjobë si më poshtë:
 
-a) nuk instalon pajisjen fiskale dhe sistemet e monitorimit të qarkullimit:
+a) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit të thjeshtuar mbi fitimin për biznesin e vogël, të cilët nuk janë të regjistruar për TVSH-në, dhe tatimpagues të tjerë dënohen me gjobë prej 25 000 lekësh;
 
-i) herën e parë të konstatimit të mosinstalimit të pajisjes fiskale dhe sistemet e monitorimit të qarkullimit, me gjobë në masën 50 000 (pesëdhjetë  mijë) lekë; 
+b) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit të thjeshtuar mbi fitimin për biznesin e vogël dhe për TVSH-në dënohen me gjobë prej 50 000  lekësh; 
 
-Për tatimpaguesit e regjistruar për herë të parë ose që plotësojnë për herë të parë detyrimin ligjor për instalimin e pajisjes fiskale dhe sistemet e monitorimit të qarkullimit aplikohet një afat prej 15 ditësh pune për vendosjen dhe instalimin e pajisjes fiskale dhe sistemet e monitorimit të qarkullimit;
+c) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit mbi fitimin dhe për TVSH-në dënohen me gjobë prej 75 000  lekësh.
 
-	ii)  nëse pas verifikimit të parë, sipas nënndarjes “i”, të këtij neni, konstatohet se tatimpaguesi vazhdon të mos e instalojë pajisjen fiskale për regjistrimin e pagesave me para në dorë ose sistemin e monitorimit të qarkullimit, merret masa e bllokimit të veprimtarisë në vendin ku është konstatuar shkelja për 15 ditë kalendarike. Nëse tatimpaguesi, brenda këtij afati, nuk instalon pajisjen fiskale në vendin ku është konstatuar shkelja, masa e bllokimit shtyhet deri në instalimin e pajisjes fiskale. Në rastin kur situata nuk është rregulluar brenda 15 ditëve, tatimpaguesit i publikohen emri, NIPT-i dhe emri i përfaqësuesit të biznesit, në faqen zyrtare të internetit të Drejtorisë së Përgjithshme të Tatimeve. 
+2. Gjobat, sipas shkronjave “a”, “b”, “c”, të pikës 1, të këtij neni, aplikohen nëse:
 
-iii) çdo konstatim i mëpasshëm i mosinstalimit të pajisjes fiskale dhe sistemet e monitorimit të qarkullimit, si shkelje e përsëritur, konsiderohet evazion tatimor siç parashikohet në nenin 116, të ligjit, dhe administrata tatimore ushtron të drejtën e parashikuar në nenin 131, të këtij ligji, duke bërë kallëzim penal për tatimpaguesin;    
+a) brenda 24 orëve përpara lëshimit të faturës së parë, nuk njofton administratën tatimore për fillimin e kryerjes së furnizimit me mallra e shërbime, mbi bazën e së cilës është i detyruar të lëshojë fatura në përputhje me këtë ligj, përveç nëse është person i regjistruar në regjistrin e administratës tatimore si tatimpagues i TVSH-së, tatimpagues i tatimit mbi fitimin ose tatimpagues i tatimit të thjeshtuar mbi fitimin për biznesin e vogël;
 
-b) nuk lëshon kupon tatimor për të dokumentuar qarkullimin e realizuar të mallrave apo të shërbimeve për:
+b) brenda 24 orëve përpara lëshimit të faturës së parë, nuk dorëzon në administratën tatimore të dhënat për vendndodhjen e biznesit që përdor për ushtrimin e veprimtarisë ekonomike;
 
-	i) konstatimin (verifikimin) e kryer, me gjobë në masën 50 000 (pesëdhjetë mijë) lekë dhe përveç masës së gjobës për tatimpaguesit e regjistruar për TVSH-në bëhet vlerësim tatimor për tre muajt e fundit, duke përdorur metodat  alternative, të parashikuara në nenet 71 dhe 72 të këtij ligji;
+c) nuk i dorëzon të dhënat për çdo operator, person fizik i autorizuar për të lëshuar faturat, brenda 24 orëve përpara fillimit të lëshimit të faturës nga secili operator;
 
-ii) konstatimin (verifikimin) tjetër pas konstatimit të parë, sipas nënndarjes “i”, të kësaj shkronje, nëse tatimpaguesi vazhdon të mos e lëshojë kuponin tatimor për të dokumentuar qarkullimin e realizuar të mallrave apo të shërbimeve, përveç aplikimit të dënimit si në nënndarjen “i”, dhe në këtë rast merret masa e bllokimit të veprimtarisë në vendin ku është konstatuar shkelja për 30 ditë kalendarike;
+ç) nuk dorëzon informacionin për mirëmbajtësin e software-it brenda 24  orëve nga lidhja e kontratës për këtë shërbim;
 
-	iii) çdo konstatim të përsëritur të moslëshimit të kuponit tatimor, pas dy konstatimeve të sipërpërmendura, përveç aplikimit të dënimit, si në nënndarjen “i”, konsiderohet evazion tatimor sipas pikës 2, të nenit 116, të këtij ligji. Gjithashtu, publikohen emri i tatimpaguesit, NIPT-i dhe emri i përfaqësuesit të biznesit në faqen zyrtare të internetit të Drejtorisë së Përgjithshme të Tatimeve;
-
-	c) lëshon një kupon tatimor/dëftesë tatimore /biletë, me vlerë të parashtypur, që nuk përmban elementet e përcaktuara në këtë ligj dhe në aktet nënligjore, për kuponin tatimor/dëftesën tatimore/biletën me vlerë të parashtypur, me gjobë, në masën 50 000 (pesëdhjetë mijë) lekë; 
-
-	ç) lëshon kupon tatimor/dëftesë tatimore, ku ka shënuar një vlerë të ndryshme nga vlera e furnizimit ose e çmimit të afishuar, me gjobë në masën 50 000 (pesëdhjetë mijë) lekë; 
-
-d) nuk afishon në një vend të dukshëm një poster që tregon detyrimin e blerësit të mallrave apo të përfituesit të shërbimit për të kërkuar kupon tatimor, si dhe të drejtën e blerësit për të mos paguar për mallrat dhe shërbimet e blera në zbatim të pikës 3, të nenit 46, të këtij ligji, me gjobë në masën 50000 (pesëdhjetë mijë) lekë, për secilën nga kërkesat në këtë paragraf;
-
-dh) nuk mban kontrollin e gjurmës së kuponit tatimor në mjedisin e ofrimit të mallrave apo të shërbimeve, me gjobë në masën 30 000 (tridhjetë mijë) lekë;
-
-e) shfuqizuar.
-
-ë) nuk mban libër llogarie për qarkullimin e kryer të mallrave, me dënim, sipas përcaktimeve të nenit 118 të këtij ligji;
-
-f) shfuqizuar.
-
-g) nuk mban dhe mirëmban në kushte pune pajisjet fiskale dhe sistemet e monitorimit të qarkullimit, me gjobë në masën 40 000 (dyzet mijë) lekë;
-
-gj) nuk njofton menjëherë për defektin e ndodhur në pajisjen fiskale dhe sistemet e monitorimit të qarkullimit dhe nuk plotëson në rregull librezën fiskale të defekteve, me gjobë në masën  25 000 (njëzet e pesë mijë) lekë.
-
-h) mban ose përdor pajisje fiskale apo sisteme të monitorimit të qarkullimit, të cilat nuk janë në përputhje me këtë ligj apo aktet nënligjore në zbatim të tij, dënohet me konfiskim të mallrave gjendje. Gjithashtu, në përputhje me nenin 116, të këtij ligji, administrata tatimore ushtron të drejtën e parashikuar në nenin 131, të këtij ligji, duke e kallëzuar penalisht tatimpaguesin.
-
-2. Konstatimi, shqyrtimi dhe dënimi i shkeljeve të parashikuara në këtë nen bëhen nga organet tatimore të juridiksionit, ku tatimpaguesi ushtron veprimtarinë ose kryen shkeljet.
-
-3. Moslëshimi i biletave të shërbimit me vlerë të parashtypur, të prodhuara nga institucionet e autorizuara, të përdorura në sektorë të ndryshëm, dënohet me gjobë, në masën 10 000 (dhjetë mijë) lekë për çdo biletë.			
-
-	4. Në rast se një tatimpaguesi i është bllokuar veprimtaria nga administrata tatimore dhe ai prish shenjat dalluese të vendosura për bllokim të veprimtarisë,  atij i konfiskohet e gjithë sasia e mallit.
+d) nuk dorëzon të dhënat në administratën tatimore për ndryshimin e të dhënave, sipas shkronjave “b”, “c” dhe “ç”, të kësaj pike, brenda afateve kohore të përcaktuara.
 
 Neni 123
 
-Dënimet për shoqëritë e autorizuara dhe të paautorizuara
+Shkeljet për moslëshimin e faturave dhe të faturave shoqëruese
 
-(ndryshuar fjalë në pikën 2 me ligjin nr. 10137, datë 11.5.2009; ndryshuar pika 2  me ligjin rn.10209, datë 23.12.2009; ndryshuar  me ligjin nr. 10415, datë 7.4.2011)
+(ndryshuar fjalë në pikën 2 me ligjin nr. 10137, datë 11.5.2009; ndryshuar pika 2  me ligjin rn.10209, datë 23.12.2009; ndryshuar  me ligjin nr. 10415, datë 7.4.2011, ndryshuar me ligjin 83/2019, datë 18.12.2019; ndryshuar shkronja “a” e pikës 3 me ligjin nr. 83/2022, datë 24.11.2022)
 
-1. Shoqëritë e autorizuara, që tregtojnë dhe/ose mirëmbajnë pajisje fiskale, dënohen me gjobë, 50 000 (pesëdhjetë mijë) - 100 000 (njëqind mijë) lekë, nëse:
+1. Personi, i cili është subjekt i lëshimit të faturës ose i faturës shoqëruese, në përputhje me legjislacionin në fuqi për faturën dhe sistemin e monitorimit të qarkullimit dhe për TVSH-në, kryen shkelje nëse:
 
-a) nuk  sigurojnë  miratimin e  tipit  në  Drejtorinë  e  Përgjithshme  të Metrologjisë, përpara hedhjes në treg të një tipi të caktuar të pajisjeve;
+a) nuk lëshon faturë për çdo furnizim të mallrave ose të shërbimeve në Republikën e Shqipërisë;
 
-b) nuk sigurojnë mirëmbajtjen e pajisjeve fiskale, kur janë të autorizuara për një shërbim të tillë;
+b) nuk lëshon faturë për çdo pagesë të bërë përpara furnizimit të mallit ose përpara përfundimit të shërbimit (për parapagimin);
 
-c) nuk kryejnë kontrollin periodik të pajisjeve fiskale, në mjediset e tatimpaguesit, sipas afateve dhe kushteve të përcaktuara në aktet nënligjore në zbatim të këtij ligji;
+c) nuk lëshon faturë për çdo pranim të mallrave ose të ofrimit të shërbimit, nëse është subjekt i “vetëfaturimit”;
 
-ç) nuk ndjekin procedurat dhe nuk respektojnë afatet e përcaktuara në aktet nënligjore, në lidhje me instalimin dhe mirëmbajtjen e pajisjeve fiskale;
+ç) nuk lëshon faturë në kohën e furnizimit të mallrave ose shërbimeve ose brenda afateve kohore të parashikuara që përbëjnë përjashtim të këtij rregulli;
 
-d) nuk afishojnë në vend të dukshëm autorizimin e dhënë nga Ministri i Financave dhe autorizimet për tipat e pajisjeve, të cilat ato i tregtojnë në mjediset e shitjes.
+d) lëshon faturë që nuk përmban të gjitha elementet e përcaktuara të faturës;
 
-2. Subjektet tatimpaguese, të cilat tregtojnë apo mirëmbajnë pajisje fiskale të subjekteve të tjera tatimpaguese, të paautorizuara nga Ministri i Financave, dënohen me gjobë, në masën 1 000 000 (një milion) lekë dhe sekuestrim të pajisjeve fiskale, ndërsa shoqëritë, që blejnë dhe përdorin pajisje të tilla fiskale, dënohen me gjobë, në masën 100 000 (njëqind mijë) lekë dhe sekuestrim të pajisjes fiskale.
+dh) faturën që lëshon për pagesat me para në dorë dhe, në raste të veçanta, faturën për pagesat pa para në dorë, nuk i shtyp në letër e nuk zbaton procedurën e fiskalizimit, si dhe nuk i dorëzon faturën blerësit në kohën e furnizimit;
 
-3. Shoqëritë e autorizuara nga Ministri i Financave dënohen me gjobë, në masën 30 000 (tridhjetë mijë) - 60 000 (gjashtëdhjetë mijë) lekë, për çdo rast, nëse:
+e) shuma e parave në dorë të arkëtuara mbi maksimumin e arkës ose nëse shuma totale, në rastet e përcaktuara, nuk depozitohet në një llogari të hapur në bankë, jo më vonë se fundi i ditës së ardhshme të punës;
 
-a)  nuk hapin skedarë dhe nuk mbajnë librin e mirëmbajtjes;
+ë) nuk lëshon faturë shoqëruese për çdo lëvizje të mallrave nga një vend në tjetrin pa tjetërsim të pronësisë ndaj mallrave.
 
-b)  nuk shkruajnë të dhënat e nevojshme në librin e mirëmbajtjes;
+Tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit të thjeshtuar mbi fitimin për biznesin e vogël, të cilët nuk janë të regjistruar për TVSH-në, dhe tatimpagues të tjerë dënohen me gjobë prej 25 000 lekësh.
 
-c) nuk nënshkruajnë, si pjesë të kontratës, marrjen përsipër të mirëmbajtjes së pajisjes fiskale;
+Tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit të thjeshtuar mbi fitimin për biznesin e vogël dhe për TVSH-në, dënohen me gjobë prej 50 000  lekësh, por jo më pak se vlera e TVSH-së së munguar. 
 
-ç) nuk mirëmbajnë pajisjen fiskale dhe elementet e saj, brenda kushteve të përcaktuara;
+Tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit mbi fitimin dhe për TVSH-në dënohen me gjobë prej 75 000 lekësh, por jo më pak se vlera e TVSH-së së munguar.
 
-d)  nuk kryejnë vulosje të pajisjes fiskale;
+2. Për tatimpaguesit, të cilët kryejnë shkeljet, sipas shkronjave “a”, “b” dhe “c”, të pikës 1, të këtij neni, përveç masës së gjobës, siç përcaktohet në pikën 1, për tatimpaguesit e regjistruar për TVSH-në bëhet vlerësim tatimor për tre muajt e fundit, duke përdorur metodat alternative, të parashikuara në nenet 71 e 72 të këtij ligji.
 
-dh) nuk vënë në dijeni administratën tatimore, në rastet kur tatimpaguesi ka ndërmarrë veprime për ndryshimin e të dhënave;
+3. Për tatimpaguesin, i cili, për herë të dytë brenda vitit kalendarik, kryen një shkelje, sipas shkronjave “a”, “b” dhe “c”, të pikës 1, të këtij neni, merren edhe masat e mëposhtme:
 
-e) nuk vënë në dijeni tatimpaguesin, me të cilin kanë kontratë mirëmbajtjeje rreth heqjes apo pezullimit të autorizimit;
+a) gjobë prej 50 000 lekësh për tatimpaguesit e tatimit mbi të ardhurat personale nga biznesi apo vetëpunësimi, gjobë 100 000 lekë për tatimpaguesit e tatimit mbi të ardhurat personale nga biznesi apo vetëpunësimi me TVSH-në, gjobë 500 000 lekë për tatimpaguesit e tatimit mbi fitimin korporativ;
 
-ë) nuk marrin në dorëzim të dhënat nga memoria fiskale, në prani të tatimpaguesit dhe të përfaqësuesve të administratës tatimore;
+b) për tatimpaguesit e regjistruar për TVSH-në bëhet vlerësim tatimor për periudhat e fundit të pavlerësuara, por jo më tepër se tre muaj, duke përdorur metodat alternative, të parashikuara në nenet 71 e 72 të këtij ligji;
 
-f) nuk ruajnë memorien fiskale në mënyrën e parashikuar nga dispozitat përkatëse.
+c) merret masa e bllokimit të veprimtarisë në vendin ku është konstatuar shkelja për 30 ditë kalendarike.
 
-4. Shoqëritë e autorizuara, që tregtojnë pajisje fiskale, dënohen me gjobë, në masën 1 000 000 (një milion) lekë, kur konstatohet se tregtojnë pajisje fiskale me funksione të ndryshme nga ato të miratuara nga komisioni i ngritur për këtë qëllim në Ministrinë e Financave.
+Masa e bllokimit, sipas shkronjës “c”, të kësaj pike, hiqet, nëse tatimpaguesi paguan penalitetet e vendosura.
+
+4. Tatimpaguesi, i cili, për herë të tretë e në vijim brenda vitit kalendarik, kryen shkeljet e përcaktuara në shkronjat “a”, “b” dhe “c”, të pikës 1, të këtij neni, përveç dënimit, sipas pikës 3, të këtij neni, procedohet për ndjekje penale, sipas pikës 2, të nenit 116, të këtij ligji. Gjithashtu, publikohen emri i tatimpaguesit, NIPT-i dhe emri i përfaqësuesit të biznesit në faqen zyrtare të internetit të Drejtorisë së Përgjithshme të Tatimeve.
+
+5. Për tatimpaguesin, ndaj të cilit, pas rikontrollit tatimor të kryer brenda 15  ditëve nga konstatimi i parë i shkeljeve, sipas shkronjës “e”, të pikës 1, të këtij neni, përsëri konstatohet shkelje e njëjtë, zbatohen dënimet e përcaktuara në shkronjën “a”, të pikës 3, të këtij neni.
+
+6. Tatimpaguesi, i cili lëshon një dëftesë tatimore/biletë me vlerë të parashtypur, që nuk përmban elementet e përcaktuara në këtë ligj dhe në aktet nënligjore, për dëftesën tatimore/biletën me vlerë të parashtypur dënohet me gjobë në masën 25 000 lekë.
+
+7. Tatimpaguesi, i cili lëshon dëftesë tatimore, ku ka shënuar një vlerë të ndryshme nga vlera e furnizimit ose e çmimit të afishuar, dënohet me gjobë në masën 25 000 lekë.
+
+     8. Moslëshimi i biletave të shërbimit me vlerë të parashtypur, të prodhuara nga institucionet e autorizuara, të përdorura në sektorë të ndryshëm, dënohet me gjobë në masën 5 000 lekë për çdo biletë.
 
 Neni 124
 
-Kundërvajtjet në lëshimin e faturave tatimore, dëftesave tatimore dhe dokumentimin e transaksioneve
+Shkeljet në procedurën e fiskalizimit të faturave dhe sistemin e monitorimit 
 
-(ndryshuar  me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar pikat 1 dhe 2  me ligjin nr. 112/2016 datë 3.11.2016; shtuar një paragraf në pikën 1 me ligjin nr. 97/2018, datë 3.12.2018)
+të qarkullimit 
 
-1. Moslëshimi i faturës tatimore, dëftesës tatimore apo і faturës tatimore me TVSH dënohet me gjobë të barabartë me 100 për qind të tatimit të padeklaruar, si rezultat i moslëshimit të faturës, përveç tatimit dhe kamatëvonesave që llogariten dhe paguhen në përputhje me dispozitat e këtij ligji apo të ligjeve specifike tatimore.
+(ndryshuar  me ligjin nr. 99/2015, datë 23.9.2015; ndryshuar pikat 1 dhe 2  me ligjin nr. 112/2016 datë 3.11.2016; shtuar një paragraf në pikën 1 me ligjin nr. 97/2018, datë 3.12.2018; ndryshuar me ligjin nr. 83/2019, datë 18.12.2019;  ndryshuar shkronjat “a”, “b” e “c” të pikës 1 me ligjin nr. 83/2022, datë 24.11.2022)
 
-Nëse tatimpaguesi pranon vlerësimin tatimor dhe e paguan detyrimin, gjoba, sipas paragrafit më lart të kësaj pike, zbritet me 30 për qind.
+1. Tatimpaguesi, i cili është subjekt i lëshimit të faturës ose i faturës shoqëruese, në përputhje me legjislacionin në fuqi për faturën dhe sistemin e monitorimit të qarkullimit, dënohet me gjobë si më poshtë:
 
-	2. Për tatimpaguesit që kryejnë shkelje të përsëritur të moslëshimit të faturës, përveçse aplikohet dënimi me gjobë të barabartë me 100 për qind të tatimit të padeklaruar, sipas pikës 1, të këtij neni, gjithashtu ndërmerren masat e mëposhtme:
+a) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit mbi të ardhurat personale nga biznesi apo vetëpunësimi, por që nuk janë të regjistruar për TVSH-në, dhe tatimpagues të tjerë dënohen me gjobë  25 000 lekë.
 
-	a) Tatimpaguesi, që nuk është i regjistruar për TVSH-në, në momentin kur konstatohet shkelja e përsëritur, sipas këtij neni, regjistrohet për TVSH-në.
+b) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit mbi të ardhurat personale nga biznesi apo vetëpunësimi dhe për TVSH-në, dënohen me gjobë prej 50 000 lekësh;
 
-	b) Tatimpaguesi i regjistruar për TVSH-në dhe tatimin e thjeshtuar të fitimit, në momentin kur konstatohet shkelja e përsëritur, sipas këtij neni, regjistrohet për tatimin mbi fitimin.  
+c) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit mbi fitimin korporativ dënohen me gjobë 75 000 lekë. 
 
-	c) Tatimpaguesi i tatimit mbi fitimin përfshihet menjëherë në listën e subjekteve me risk për efekt të analizës së riskut. Në rastet kur moslëshimi i faturës tatimore, dëftesës tatimore apo і faturës tatimore me TVSH është shkelje e përsëritur e më shumë se 2 herë, atëherë përveç sa përcaktohet në pikat 1 dhe 2, të këtij neni, zbatohen edhe dispozitat e neneve 116 dhe 131 të këtij ligji.
+2. Gjobat, sipas shkronjave “a”, “b” dhe “c”, të pikës 1, të këtij neni, aplikohen nëse:
 
-3. Në rast konstatimi të mospërmbushjes së detyrimit, sipas pikës 5, të nenit 54, të këtij ligji, tatimpaguesit i llogaritet TVSH-ja në masën që ky mall do të tregtohej me pakicë për konsumatorin final, si dhe do të dënohet me gjobë në masën 100 për qind të vlerës së TVSH-së të llogaritur që i përket vlerës së shitjeve që tejkalojnë kufirin e lejuar për shitjet me kupon tatimor, siç përcaktohet në pikën 5, të nenit 54, të këtij ligji, deri në datën 31.3.2016.
+a) nuk instalojnë pajisjen elektronike të faturimit ose nuk pajisen me pajisje elektronike të faturimit të lëvizshëm dhe me printer fiskal, i cili përmban një software për nënshkrimin elektronik të faturës dhe nuk sigurojnë një lidhje interneti për shkëmbimin elektronik të të dhënave me administratën tatimore, në rast të pagesave me para në dorë;
 
-	4. Nga data 1.4.2016, në rast konstatimi të mospërmbushjes së detyrimit sipas pikës 5, të nenit 54, të këtij ligji, tatimpaguesi dënohet me gjobë në masën 100 për qind të vlerës së TVSH-së.
+b) nuk instalojnë pajisjen elektronike ose nuk pajisen me pajisje elektronike të lëvizshme dhe një printer, i cili përmban një software për nënshkrimin elektronik të faturës shoqëruese dhe nuk sigurojnë një lidhje interneti për shkëmbimin elektronik të të dhënave me administratën tatimore;
+
+c) nuk pajisen nga AKSHI me certifikatën digjitale të përcaktuar për nënshkrimin elektronik të faturës ose të faturës shoqëruese dhe për identifikimin e tatimpaguesit që lëshon fatura;
+
+ç) nuk lëshojnë faturat nëpërmjet pajisjeve elektronike të faturimit të përcaktuar në shkronjën “a”, të kësaj pike, ose nëpërmjet përdorimit të një software-i të përcaktuar për lëshimin e faturave pa para në dorë;
+
+d) nuk zbatojnë procedurën e fiskalizimit për shitje nëpërmjet pajisjeve të vetëshërbimit;
+
+dh) nuk përdorin software që mundësojnë shmangien nga zbatimi i fiskalizimit të lëshimit të faturave ose zbatimit të fiskalizimit të shitjes nëpërmjet pajisjeve të vetëshërbimit;
+
+e) në rast të ndërprerjes së internetit, nuk krijojnë lidhje elektronike brenda 48 orëve nga data kur lidhja është ndërprerë dhe nuk i dorëzojnë të gjitha faturat e lëshuara pa të dhënat e numrit identifikues të veçantë të faturës (NIVF-së) tek administrata tatimore, ose në atë afat nuk njoftojnë administratën tatimore për pamundësinë e krijimit të një lidhjeje elektronike (internet);
+
+ë) në rast të ndërprerjes së plotë të punës së pajisjes fiskale, nuk lëshojnë dëftesat e vërtetuara nga administrata tatimore dhe, në afatin e përcaktuar, nuk rivendosin punën e pajisjeve fiskale për lëshimin e faturave ose nuk pajisen brenda afatit të caktuar me pajisje të re, nuk dorëzojnë të gjitha faturat e lëshuara në administratën tatimore, gjatë kohës së ndërprerjes së punës së pajisjes fiskale;
+
+f) ushtrojnë veprimtari ekonomike në vendndodhjen e biznesit, ku nuk është e mundur të vendoset një lidhje elektronike (internet) dhe për këtë ka një vërtetim të AKEP-it, të cilin nuk e dorëzojnë në administratën tatimore dhe nuk dorëzojnë të dhënat për faturat e lëshuara brenda afatit të përcaktuar e në mënyrën e përcaktuar;
+
+g) nuk afishojnë një njoftim në secilën pajisje elektronike të faturimit ose në një vend tjetër të dukshëm në vendndodhjen e biznesit, që tregon detyrimin për të lëshuar faturën, si dhe detyrimin e blerësit për të marrë dhe ruajtur faturën.
+
+Neni 124/1
+
+Mosregjistrimi i prodhuesit dhe i mirëmbajtësit të software-it 
+
+për lëshimin e faturave 
+
+(shtuar me ligjin 83/2019, datë 18.12.2019)
+
+1. Prodhuesi dhe/ose mirëmbajtësi i software-it, i cili nuk është regjistruar në regjistrin e prodhuesve ose të mirëmbajtësit të software-it, përpara fillimit të ofrimit ose të mirëmbajtjes së software-it për lëshimin e faturave ose të faturave shoqëruese, në administratën tatimore, në përputhje me ligjin që rregullon faturën e sistemin e monitorimit të qarkullimit, dënohet me gjobë 1 000 000 lekë për këtë shkelje.
+
+2. Prodhuesi dhe/ose mirëmbajtësi i software-it, programi i të cilit përdoret nga subjekti që lëshon fatura, nuk mundëson procedurën e fiskalizimit dhe nëse software përmban mundësi, të cilat shmangin procedurën e fiskalizimit të faturës së lëshuar, në përputhje me ligjin që rregullon faturën dhe sistemin e monitorimit të qarkullimit, dënohet me gjobë 1 000 000 lekë për këtë shkelje.
+
+Neni 124/2
+
+Shkeljet në procedurën e lëshimit, dërgimit dhe pranimit të e-Faturës
+
+(shtuar me ligjin 83/2019, datë 18.12.2019)
+
+1. Personi, i cili është subjekt i lëshimit të e-Faturës, në përputhje me legjislacionin në fuqi për faturën dhe sistemin e monitorimit të qarkullimit, dënohet me gjobë si më poshtë:
+
+a) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit të thjeshtuar mbi fitimin për biznesin e vogël, por që  nuk janë të regjistruar për TVSH-në, dhe tatimpagues të tjerë dënohen me gjobë prej 50 000 lekësh;
+
+b) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit të thjeshtuar mbi fitimin për biznesin e vogël dhe për TVSH-në dënohen me gjobë prej 100 000 lekësh, por jo më pak se vlera e TVSH-së së munguar; 
+
+c) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit mbi fitimin, në përputhje me ligjin për tatimin mbi të ardhurat dhe për TVSH-në, dënohen me gjobë prej 150 000 lekësh, por jo më pak se vlera e TVSH-së së munguar. 
+
+2. Gjobat, sipas shkronjave “a”, “b” dhe “c”, të pikës 1, të këtij neni, aplikohen nëse:
+
+a) nuk lëshojnë apo dërgojnë e-Faturën dhe dokumentet shoqëruese, në përputhje me ligjin që rregullon faturën dhe sistemin e monitorimit të qarkullimit;
+
+b) lëshojnë dhe dërgojnë e-Faturat dhe dokumentet shoqëruese që nuk janë në përputhje me rregullat e përdorimit të e-Faturës;
+
+c) nuk janë regjistruar në regjistrin qendror të shkëmbimit të e-Faturave.
+
+3. Personat, të cilët janë të detyruar të pranojnë e-Faturën, në përputhje me ligjin që rregullon faturën dhe sistemin e monitorimit të qarkullimit, dënohen me gjobë si më poshtë:
+
+a) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit të thjeshtuar mbi fitimin për biznesin e vogël, por që  nuk janë të regjistruar për TVSH-në, dhe tatimpagues të tjerë dënohen me gjobë prej 50 000 lekësh;
+
+b) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit të thjeshtuar mbi fitimin për biznesin e vogël dhe për TVSH-në dënohen me gjobë prej 100 000 lekësh; 
+
+c) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit mbi fitimin dhe për TVSH-në dënohen me gjobë prej 150 000 lekësh, por jo më pak se vlera e TVSH-së së munguar. 
+
+4. Gjobat, sipas shkronjave “a”, “b” dhe “c”, të pikës 3, të këtij neni, aplikohen nëse:
+
+a) pranojnë dhe përpunojnë e-Fatura dhe dokumentet shoqëruese që nuk janë në përputhje me rregullat e përdorimit të e-Faturës;
+
+b) nuk pranojnë ose nuk përpunojnë e-Faturat dhe dokumentet shoqëruese, në përputhje me ligjin që rregullon faturën dhe sistemin e monitorimit të qarkullimit;
+
+c) kryejnë pagesat e e-Faturës, në kundërshtim me dispozitat e ligjit që rregullon faturën dhe sistemin e monitorimit të qarkullimit.
+
+5. Personi, i cili është ndërmjetës i teknologjisë së informacionit që ofron shërbime për lëshim/dërgim të e-Faturës, të cilat nuk janë në përputhje me ligjin që rregullon faturën dhe sistemin e monitorimit të qarkullimit ose ofron shërbime për lëshim/dërgim të e-Faturës dhe të dokumenteve tjera shoqëruese, të cilat nuk janë në përputhje me rregullat e përdorimit të e-Faturës, sipas legjislacionit në fuqi, dënohet me gjobë 50 000 lekë për çdo faturë.
 
 Neni 125
 
-Mosmarrja e kuponit tatimor
+Mosmarrja e faturës 
 
-1. Blerësi ose përfituesi i shërbimit, i cili gjatë kontrollit në distancat e parashikuara në udhëzimin e Ministrit të Financave, nga vendi i shitjes apo ofrimit të shërbimit, nuk ka kupon tatimor, dënohet me gjobë me 1 000 lekë.
+(ndryshuar me ligjin 83/2019, datë 18.12.2019)
 
-2. Konstatimi, shqyrtimi dhe dënimi i shkeljes së parashikuar në këtë nen bëhen nga organet e administratës tatimore të juridiksionit, ku kryhen shkeljet.
+Blerësi ose çdo pranues i faturës së lëshuar për pagesë me para në dorë, i cili nuk e merr faturën e lëshuar dhe me kërkesë të personit të autorizuar të administratës tatimore, nuk i tregon faturën e marrë pas largimit nga vendndodhja e biznesit të shitësit, dënohet me:
+
+a) 50 000 lekë, nëse është tatimpagues i regjistruar për TVSH-në dhe/ose tatimin mbi fitimin;
+
+b) 25 000  lekë, nëse është tatimpagues i regjistruar për tatimin e thjeshtuar mbi fitimin;
+
+c) 1 000  lekë, nëse është individ, konsumator final.
 
 Neni 126
 
@@ -2550,11 +2738,11 @@ Neni 127
 
 Pengimi i kontrollit ose i hetimit tatimor 
 
-(shtuar  pika 3  me ligjin nr. 10209, datë 23.12.2009)
+(shtuar  pika 3  me ligjin nr. 10209, datë 23.12.2009, ndryshuar pikat 1 e 2 me ligjin nr. 83/2022, datë 24.11.2022)
 
-1. Tatimpaguesi, i cili, në mënyrë të drejtpërdrejtë apo të tërthortë, pengon ushtrimin e të drejtave të administratës tatimore për kontrollin apo hetimin tatimor, dënohet me një gjobë nga 100 000 lekë, për biznesin e vogël dhe 1 000 000 lekë për bizneset e tjera.
+1. Tatimpaguesi që pengon direkt ose indirekt një kontroll tatimor ose hetim nga administrata tatimore, i nënshtrohet një gjobe prej 100 000 lekësh për tatimpaguesit e klasifikuar si persona fizikë tregtarë apo të vetëpunësuar, dhe 1 000 000 lekë për tatimpaguesit e klasifikuar si entitete ose individë me pasuri të lartë.
 
-2. Të drejtën për miratimin e masës së gjobës, të parashikuar në pikën 1 të këtij neni, e ka drejtori i drejtorisë rajonale apo titullari i njësisë së ngjashme me të. Për tatimpaguesit e klasifikuar si biznes i vogël, kjo e drejtë i takon titullarit të zyrës së tatim-taksave të qeverisjes vendore.
+2.  Masa e gjobës, e parashikuar në pikën 1 të këtij neni, miratohet nga drejtori i Drejtorisë Rajonale Tatimore ose njësitë e ngjashme me të, ose nga titullari i institucionit apo i deleguari prej tij për kontrollet e kryera nga strukturat e Drejtorisë së Përgjithshme të Tatimeve, dhe nga titullari i njësisë tatimore të qeverisjes vendore për tatimpaguesit që paguajnë taksa dhe tarifa vendore.
 
 3. Në rast se organet tatimore kanë të dhëna të besueshme se tatimpaguesi fsheh informacione për gjendjen e tij ekonomike-financiare, organet tatimore kanë të drejtë t'ia sekuestrojnë dokumentacionin, pajisjet kompjuterike dhe fiskale dhe mjete të tjera të mbajtjes së dokumentacionit të tatimpaguesit në mjediset e ushtrimit të veprimtarisë së tij.
 
@@ -2572,17 +2760,17 @@ Neni 128/1
 
 Dënime të tjera
 
-(shtuar  me ligjin nr. 164, datë 4.12.2014)
+(shtuar  me ligjin nr. 164/2014, datë 4.12.2014; ndryshuar fjalë në shkronjën “a”, shfuqizuar shkronjat  “c” dhe “ç” me ligjin 83/2019, datë 18.12.2019)
 
 Për shkeljet e konstatuara në rastin kur përgjegjës për TVSH-në është personi i tatueshëm blerës nëpërmjet “autongarkesës së TVSH-së”, aplikohen dënimet si më poshtë:
 
-a) Me gjobë në përputhje me nenin 118, të këtij ligji, kur ky person nuk ka lëshuar faturë me TVSH, sipas kërkesave të parashikuara në ligjin për TVSH-në, por moslëshimi i faturës nuk sjell pasoja në TVSH-në e pagueshme.
+a) Me gjobë në përputhje me nenin 118, të këtij ligji, kur ky person nuk ka lëshuar faturë me TVSH, në përputhje me legjislacionin në fuqi për faturën dhe sistemin e monitorimit të qarkullimit, por moslëshimi i faturës nuk sjell pasoja në TVSH-në e pagueshme.
 
 b) Me gjobë në përputhje me nenin 124, të këtij ligji, kur vepron sipas shkronjës “a”, të këtij neni, por, në këtë rast, moslëshimi i faturës sjell pasoja në TVSH-në e pagueshme.
 
-c) Me gjobë, në përputhje me pikën 1, të nenit 128, të këtij ligji, kur ky person ka lëshuar faturë tatimore jo në përputhje me kërkesat e parashikuara në ligjin për TVSH-në.
+c) Shfuqizuar.
 
-ç) Me gjobë në përputhje me nenin 115, të këtij ligji, kur ky person i tatueshëm ka lëshuar faturë me TVSH, sipas kërkesave të ligjit për TVSH-në dhe nuk e ka deklaruar atë duke sjellë pasoja në TVSH-në e pagueshme.
+ç) Shfuqizuar.
 
 Neni 128/2
 
@@ -2604,7 +2792,7 @@ Neni 129
 
 Dënimet për tatimpaguesit, që janë banka apo institucione financiare
 
-(ndryshuar shkronja “ ç” e pikës 1 me ligjin nr. 164, datë 4.12.2014; shtuar një fjali në fund të shkronjës “ç” me ligjin nr. 97/2018, datë 3.12.2018)
+(ndryshuar shkronja “ ç” e pikës 1 me ligjin nr. 164/2014, datë 4.12.2014; shtuar një fjali në fund të shkronjës “ç” me ligjin nr. 97/2018, datë 3.12.2018; shtuar shkronja  “d” me ligjin 83/2019, datë 18.12.2019)
 
 1. Shkeljet e mëposhtme, të kryera nga bankat dhe institucionet e tjera financiare, që kryejnë operacione bankare, kur nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative dhe dënohen me gjobë si më poshtë: 
 
@@ -2615,6 +2803,8 @@ b) 40 000 lekë për çdo shkelje për mosrespektimin e afatit të njoftimit të
 c) 125  për qind  të interesit ndërbankar të Bankës së Shqipërisë, të llogaritur për çdo ditë, deri në transferimin e pagesës në buxhet, për mostransferimin e pagesave nga tatimpaguesi në buxhet, brenda një dite pune nga dorëzimi i urdhrit të transferimit nga tatimpaguesi;
 
 ç)  kur banka nuk bllokon shumën e kërkuar, ajo paguan gjobë të barabartë me 0,2 për qind në ditë të detyrimit të pambajtur, por jo më pak se 100 000 (njëqind mijë) lekë në ditë. Në çdo rast, shuma e gjobës që zbatohet nuk mund të jetë më e madhe se shuma e kërkuar për t’u bllokuar.
+
+d) 100 000 lekë për çdo rast, nëse banka apo institucioni financiar që ofron shërbime të pagesave pa para në dorë të e-Faturave të lëshuara nga subjekti, i cili ka zbatuar procedurën e fiskalizimit, nuk e regjistron pagesën e kryer, si dhe për këtë pagesë nuk e njofton administratën tatimore nëpërmjet sistemit elektronik, menjëherë pas pagesës, në përputhje me ligjin që rregullon faturën dhe sistemin e monitorimit të qarkullimit.
 
 Neni 130
 
@@ -2630,7 +2820,7 @@ Neni 131
 
 Veprat penale
 
-(ndryshuar me ligjin nr. 164, datë 4.12.2014; shtuar pikat 3 dhe 4 me ligjin nr. 99/2015, datë 23.9.2015; shfuqizuar pika 4, me ligjin nr. 112/2016 datë 3.11.2016)
+(ndryshuar me ligjin nr. 164/2014, datë 4.12.2014; shtuar pikat 3 dhe 4 me ligjin nr. 99/2015, datë 23.9.2015; shfuqizuar pika 4, me ligjin nr. 112/2016 datë 3.11.2016)
 
 1. Personi, i cili, për çdo tatim të vendosur nga një ligj tatimor, kryen ndonjërën nga veprat që vijojnë, dënohet në përputhje me Kodin Penal kur:
 
@@ -2732,25 +2922,41 @@ Neni 136
 
 Shfuqizime
 
+(shfuqizimet e paragrafit të tretë janë parashikuar me ligjin nr. 83/2019, datë  18.12.2019 dhe ndryshuar fjalë në paragrfin e tretë me ligjin nr. 110/2020, datë 29.7.2020)
+
 1. Me hyrjen në fuqi të këtij ligji, ligji nr. 8560, datë 22.12.1999 “Për procedurat tatimore në Republikën e Shqipërisë”, të ndryshuar, shfuqizohet. 
 
 2. Me hyrjen në fuqi të këtij ligji, ligji nr. 7758, datë 12.10.1993 “Për dokumentimin dhe mbajtjen e llogarive për tatimet”, shfuqizohet.
 
-Dispozita kalimtare[^fn2]
+Në momentin e shfuqizimit të neneve 55 dhe 56 të këtij ligji, shfuqizohen udhëzimi nr. 16, datë 3.5.2010, i Ministrit të Financave, “Për administrimin dhe dokumentimin e procedurave të pajisjeve fiskale”, vendimi nr. 781, datë 14.11.2007, i Këshillit të Ministrave, “Për karakteristikat teknike e funksionale të pajisjeve fiskale, sistemit të integruar të kompjuterizuar për transferimet periodike, automatike, të deklarimeve financiare, sistemit të komunikimit, për procedurën e dokumentacionin për miratimin e tyre dhe për kriteret për pajisjen, me autorizim, të shoqërive të autorizuara për ofrimin e pajisjeve fiskale”, i ndryshuar, dhe dispozitat e tjera të ligjeve zbatuese të nxjerra në zbatim të këtij ligji, të cilat janë në kundërshtim me këtë ligj. 
 
-(e  parashikuar me ligjin nr. 164, datë 4.12.2014)
+Dispozita kalimtare[^fn4]
 
-	1. Të gjithë tatimpaguesit që, në datën e hyrjes në fuqi të këtij ligji, rezultojnë mosdeklarues për më shumë se 12 muaj të njëpasnjëshëm, transferohen automatikisht nga regjistri aktiv në regjistrin pasiv të administratës tatimore.
+(shtuar me ligjin nr. 164/2014, datë 4.12.2014, shtuar pika me ligjet: nr. 112/2016 datë 3.11.2016, nr. 31/2019 datë 17.6.2019,  nr. 110/2020, datë 29.7.2020, aktin normativ nr. 27, datë 1.7.2021, me aktin normativ nr. 36, datë 24.12.2021)
 
-	2. Përfaqësuesit tatimorë që janë regjistruar në drejtorinë rajonale tatimore ose do të regjistrohen si të tillë deri më 31.12.2014, në përputhje me nenin 9, të këtij ligji, janë përgjegjës për të paguar detyrimin tatimor për TVSH-në dhe nuk do të çregjistrohen deri në përfundim të përmbushjes së detyrimit të tyre si përfaqësues tatimor.
+1. Të gjithë tatimpaguesit që, në datën e hyrjes në fuqi të këtij ligji, rezultojnë mosdeklarues për më shumë se 12 muaj të njëpasnjëshëm, transferohen automatikisht nga regjistri aktiv në regjistrin pasiv të administratës tatimore.
 
-Dispozita kalimtare
+2. Përfaqësuesit tatimorë që janë regjistruar në drejtorinë rajonale tatimore ose do të regjistrohen si të tillë deri më 31.12.2014, në përputhje me nenin 9, të këtij ligji, janë përgjegjës për të paguar detyrimin tatimor për TVSH-në dhe nuk do të çregjistrohen deri në përfundim të përmbushjes së detyrimit të tyre si përfaqësues tatimor.
 
-(e  parashikuar me ligjin nr. 112/2016 datë 3.11.2016)
+3.[^fn5] Drejtoria e Apelimit Tatimor kryen funksionet si strukturë e Drejtorisë së Përgjithshme të Tatimeve deri në datën 1 janar 2017. Procedurat për ankimet administrative tatimore në proces përcaktohen me udhëzim të Ministrit të Financave.
 
-	1. Drejtoria e Apelimit Tatimor kryen funksionet si strukturë e Drejtorisë së Përgjithshme të Tatimeve deri në datën 1 janar 2017. Procedurat për ankimet administrative tatimore në proces përcaktohen me udhëzim të Ministrit të Financave.
+4. Drejtoria e Apelimit Tatimor shqyrton dhe merr vendim për të gjitha ankimet administrative tatimore, pavarësisht nga vlera e detyrimeve të apeluara, deri me hyrjen në fuqi të vendimit të Këshillit të Ministrave për përbërjen dhe procedurat e funksionimit të Komisionit për Shqyrtimin e Apelimit Tatimor. 
 
-	2. Drejtoria e Apelimit Tatimor shqyrton dhe merr vendim për të gjitha ankimet administrative tatimore, pavarësisht nga vlera e detyrimeve të apeluara, deri me hyrjen në fuqi të vendimit të Këshillit të Ministrave për përbërjen dhe procedurat e funksionimit të Komisionit për Shqyrtimin e Apelimit Tatimor. 
+ 5[^fn6]. Tatimpaguesit e regjistruar pranë Qendrës Kombëtare të Biznesit/administratës tatimore janë të detyruar të hapin llogarinë bankare, jo më vonë se 90 ditë nga hyrja në fuqi e këtij ligji dhe ta deklarojnë atë në administratën tatimore. 
+
+6.[^fn7] Pajisjet fiskale, të ofruara nga shoqëritë e autorizuara, me të cilat janë pajisur tatimpaguesit para hyrjes në fuqi të këtij ligji, do të vijojnë të funksionojnë dhe të mirëmbahen nga këto shoqëri për aq sa nuk bien në kundërshtim me ligjin nr. 87/2019 “Për faturën dhe sistemin e monitorimit të qarkullimit”.
+
+Deri në datën e fillimit të efekteve juridike, sipas nenit 48 të ligjit nr. 87/2019, shoqëritë që kanë qenë të autorizuara, sipas vendimit nr.781, datë 14.11.2007, të Këshillit të Ministrave, të ndryshuar, dhe iu ka përfunduar afati i autorizimit përpara apo gjatë periudhës kalimtare, vazhdojnë të ofrojnë shërbimin e mirëmbajtjes së pajisjeve fiskale për tatimpaguesit. Përcaktimet e këtij paragrafi nuk përjashtojnë përmbushjen e detyrimeve sipas ligjit nr. 87/2019.
+
+  7[^fn8]. Përjashtimisht parashikimeve në këtë ligj, për kundërvajtjet administrative që lidhen me afatet e hyrjes në fuqi dhe zbatimin efektiv të ligjit nr. 87/2019, “Për faturën dhe sistemin e monitorimit të qarkullimit”, të ndryshuar, zbatimi i sanksioneve do të fillojë të aplikohet pas datës 1 janar 2022.
+
+8[^fn9]. Përjashtimisht parashikimeve në këtë ligj, zbatimi i sanksioneve për kundërvajtjet administrative që lidhen me zbatimin efektiv të ligjit nr. 87/2019, “Për faturën dhe sistemin e monitorimit të qarkullimit”, të ndryshuar, do të fillojë të aplikohet pas datës 30.6.2022, për tatimpaguesit, si më poshtë:
+
+a) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit të thjeshtuar mbi fitimin për biznesin e vogël dhe që nuk janë të regjistruar për TVSH-në, të cilët kryejnë vetëm shitje me para në dorë kundrejt konsumatorëve finalë, persona të patatueshëm;
+
+b) tatimpaguesit që ofrojnë furnizimin me ujë për konsumatorët finalë, si dhe tregu i rregulluar i energjisë elektrike;
+
+c) bankat apo institucionet financiare për njoftimin e pagesave të e-Faturave të lëshuara nga subjektet tatimpaguese.
 
 Neni 137
 
@@ -2762,6 +2968,18 @@ Shpallur me dekretin nr. 5749, datë 9.6.2008 të Presidentit të Republikës s�
 
 ---
 
-[^fn1]: Akti normativ nr. 36, datë 24.12.2021 është miratuar me ligjin nr. 2/2022, datë 27.1. 2022, botuar në Fletoren Zyrtare nr. 29, datë 22.2.2022.
+[^fn2]: Akti normativ nr. 27, datë 1.7.2020 është miratuar me ligjin nr. 94/2020, datë 23.7.2020, botuar në Fletoren Zyrtare nr. 153, datë 24.8.2020.
 
-[^fn2]: Me aktin normativ nr. 36, datë 24.12.20021: Në kreun XV “Dispozita tranzitore dhe të fundit”, pas pikës 7, të nenit “Dispozita kalimtare”, shtohet pika 8, me këtë përmbajtje:  “8. Përjashtimisht parashikimeve në këtë ligj, zbatimi i sanksioneve për kundërvajtjet administrative që lidhen me zbatimin efektiv të ligjit nr. 87/2019, “Për faturën dhe sistemin e monitorimit të qarkullimit”, të ndryshuar, do të fillojë të aplikohet pas datës 30.6.2022, për tatimpaguesit, si më poshtë: a) tatimpaguesit e regjistruar me përgjegjësinë tatimore të tatimit të thjeshtuar mbi fitimin për biznesin e vogël dhe që nuk janë të regjistruar për TVSH-në, të cilët kryejnë vetëm shitje me para në dorë kundrejt konsumatorëve finalë, persona të patatueshëm; b) tatimpaguesit që ofrojnë furnizimin me ujë për konsumatorët finalë, si dhe tregu i rregulluar i energjisë elektrike; c) bankat apo institucionet financiare për njoftimin e pagesave të e-Faturave të lëshuara nga subjektet tatimpaguese.”.
+[^fn3]: Akti normativ nr. 36, datë 24.12.2021 është miratuar me ligjin nr. 2/2022, datë 27.1. 2022, botuar në Fletoren Zyrtare nr. 29, datë 22.2.2022.
+
+[^fn4]: 
+
+[^fn5]: Pika 3 dhe 4 janë parashikuar me ligjin nr. 112/2016 datë 3.11.2016.
+
+[^fn6]: Pika 5 është parashikuar me ligjin nr. 31/2019 datë 17.6.2019.
+
+[^fn7]: Pika 6 është shtuar me ligjin nr. 110/2020, datë 29.7.2020.
+
+[^fn8]: Pika 7 është shtuar me aktin normativ nr. 27, datë 1.7.2021.
+
+[^fn9]: Pika 8 është shtuar me aktin normativ nr. 36, datë 24.12.2021.
