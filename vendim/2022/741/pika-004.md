@@ -1,0 +1,9 @@
+4. IAL-të, që kërkojnë të transformohen në IALPP, kryejnë procedurat paraprake, si më poshtë vijon:
+a) administratori i IAL-së, së bashku me auditues të jashtëm, referuar nenit 116, të ligjit nr. 80/2015, bëjnë paraprakisht vlerësimin e pasurive të luajtshme dhe të paluajtshme, duke i kontabilizuar me vlerën e tregut. Shpenzimet për audituesin përballohen nga vetë IAL-ja;
+b) administratori i IAL-së, bazuar në pasqyrat financiare të 3 (tri) viteve të fundit, harton raportin e ecurisë financiare të institucionit, ku identifikon masën e financimit nga të ardhurat e IAL-së, e cila duhet të garantojë zhvillimin e veprimtarisë së IAL-së për të paktën 3 (tri) vite akademike;
+c) administratori harton planin e zhvillimit të IAL-së për 5 (pesë) vitet e ardhshme;
+ç) administratori i IAL-së paraqet për mendim në senatin akademik dokumentacionin për plotësimin e kritereve të mësipërme dhe gjendjes financiare, si dhe propozimin për transformim të IAL-së në IALPP;
+d) në rast se mendimi i Senatit Akademik është pozitiv, atëherë Senati Akademik ia paraqet për vendimmarrje Bordit të Administrimit;
+dh) Bordi i Administrimit shprehet brenda 1 (një) muaji për propozimin e administratorit. Vendimi i Bordit të Administrimit për transformim duhet të merret me tre të katërtat e votave të anëtarëve të tij;
+e) në rast të një vendimi pozitiv për transformim nga Bordi i Administrimit, dokumentacioni dhe vendimi i paraqitet ministrit përgjegjës për arsimin;
+ë) fondacioni i themeluar, sipas kuadrit ligjor në fuqi për organizatat jofitimprurëse, Kodit Civil dhe ligjit nr. 80/2015, përgatit dokumentacionin e nevojshëm për ngritjen e IALPP-së dhe e paraqet në ministrinë përgjegjëse për arsimin, e cila pas vlerësimit të dokumentacionit, sipas këtij vendimi dhe kritereve ligjore të përcaktuara në nenin 119, të ligjit nr. 80/2015, propozon në Këshillin e Ministrave krijimin e IALPP-së.
