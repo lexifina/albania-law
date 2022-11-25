@@ -1,0 +1,1 @@
+1. Miratimin e një shtese fondi, në shumën prej 46 000 000 (dyzet e gjashtë milionë) lekësh, në buxhetin e vitit 2022, miratuar për Ministrinë e Financave dhe Ekonomisë, për Qendrën Kombëtare të Biznesit, për rimbursimin e masave administrative të paguara, të falura, sipas ligjit nr. 112/2020, “Për regjistrin e pronarëve përfitues”, të ndryshuar.

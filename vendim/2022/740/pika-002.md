@@ -1,0 +1,1 @@
+2. Efekti financiar sipas pikës 1, të këtij vendimi, përballohet nga fondi rezervë i buxhetit të shtetit, i miratuar për vitin 2022, dhe i shtohet Ministrisë së Financave dhe Ekonomisë, në buxhetin e miratuar për vitin 2022, në zërin “Shpenzime korrente” të programit buxhetor 04130 “Mbështetje për zhvillimin ekonomik”.
