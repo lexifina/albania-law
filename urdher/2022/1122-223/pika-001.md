@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të autoritetit kontraktor z. Enea Hoti, Sekretar i Përgjithshëm, për të gjitha procedurat e prokurimit publik, koncesionet dhe partneritetin publik privat, për Ministrinë e Brendshme.
