@@ -1,1 +1,1 @@
-5. Shpenzimet procedurale, në vlerën 50 000 (pesëdhjetë mijë) lekë, përballohen nga Autoriteti Rrugor Shqiptar.
+5. Shpenzimet procedurale, në vlerën 100 000 (njëqind mijë) lekë, përballohen nga Autoriteti Rrugor Shqiptar.
