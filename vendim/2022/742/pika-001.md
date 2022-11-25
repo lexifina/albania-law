@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e miratuar për vitin 2022, i shtohet fondi prej 50 000 000 (pesëdhjetë milionë) lekësh, për përballimin e shpenzimeve të organizimit të “Samitit të BE-BP”, që do të organizohet në Tiranë, në datën 6 dhjetor 2022.
