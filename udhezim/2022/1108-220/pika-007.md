@@ -1,0 +1,1 @@
+7. Shtetasi i huaj, kur largohet nga territori i Republikës së Shqipërisë, paraqet dokumentin e zgjatjes së qëndrimit në Pikën e Kalimit Kufitar për të evituar penalitetet për qëndrimin e parregullt në territor.

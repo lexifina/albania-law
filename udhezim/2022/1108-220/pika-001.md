@@ -1,0 +1,3 @@
+1. I huaji, i pajisur me vizë për të hyrë dhe qëndruar në territorin e Republikës së Shqipërisë, ose i huaji i cili i nënshtrohet regjimit për hyrjen dhe qëndrimin pa vizë për një periudhë të përcaktuar, sipas ligjin nr. 79/2021, “Për të huajt”, mund të kërkojë zgjatjen e afatit të qëndrimit, duke paraqitur një kërkesë online drejtuar autoritetit përgjegjës vendor për kufirin dhe migracionin ku ka banimin e përkohshëm, ku të përcaktojë:
+a) arsyen për të cilën nuk ka pasur mundësi të largohet nga territori i Republikës së Shqipërisë para përfundimit të afatit të qëndrimit të përcaktuar në vizë/ligj;
+b) afatin për të cilin kërkon zgjatjen e qëndrimit.
