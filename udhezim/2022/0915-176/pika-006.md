@@ -1,0 +1,1 @@
+6. Autoriteti shtetëror përgjegjës në nivel vendor për kufirin dhe migracionin, pasi njoftohet zyrtarisht për urdhrin e dëbimit të nxjerrë nga ministri i Brendshëm, njofton të huajin dhe ekzekuton urdhrin e dëbimit, bazuar në kërkesat e nenit 106, të ligjit nr. 79/2021, “Për të huajt”.

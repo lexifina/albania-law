@@ -1,0 +1,1 @@
+5. Ministri i Brendshëm, pas nxjerrjes së urdhrit të dëbimit, njofton zyrtarisht Drejtorinë e Përgjithshme të Policisë së Shtetit, e cila nëpërmjet autoritetit shtetëror përgjegjës për kufirin dhe migracionin, e përcjell atë për ekzekutim pranë autoritetit shtetëror përgjegjës në nivel vendor për kufirin dhe migracionin.

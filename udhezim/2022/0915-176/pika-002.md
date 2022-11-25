@@ -1,0 +1,1 @@
+2. Strukturat përkatëse në Drejtorinë e Përgjithshme të Policisë së Shtetit në Ministrinë e Brendshme, sipas fushës së tyre të përgjegjësive ligjore, kanë të drejtën të propozojnë shpalljen e të huajit si “person i padëshiruar”, duke argumentuar arsyen e propozimit/kërkesës.

@@ -1,0 +1,1 @@
+4. Pasi njoftohet zyrtarisht nga ministri i Brendshëm për urdhrin e shpalljes “person i padëshiruar”, drejtori i përgjithshëm i Policisë së Shtetit, nëpërmjet autoritetit shtetëror përgjegjës për kufirin dhe migracionin, përgatit urdhrin e dëbimit për të huajin “person i padëshiruar” dhe e dërgon për nënshkrim pranë ministrit të Brendshëm.

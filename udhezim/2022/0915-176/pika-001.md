@@ -1,0 +1,1 @@
+1. Autoritetet përgjegjëse për trajtimin e të huajve të përcaktuara në nenin 4, të ligjit nr. 79/2021, “Për të huajt”, sipas fushës së tyre të përgjegjësive ligjore dhe përcaktimeve në nenin 104, të ligjit nr. 79/2021, “Për të huajt”, i propozojnë ministrit të Brendshëm shpalljen e të huajit si “person i padëshiruar”, duke argumentuar arsyen e kërkesës/propozimit.
