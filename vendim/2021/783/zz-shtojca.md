@@ -147,3 +147,113 @@ Ullishte
 Konfirmim ASHK
 VLERA TOTALE E SHPRONËSIMIT
 64,499,504
+LISTA EMËRORE E PRONARËVE TË PASURIVE, PRONË PRIVATE, PASURITË E PALUAJTSHME TË TË CILËVE PREKEN NGA DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR. 783, DATË 15.12.2021, TË KËSHILLIT TË MINISTRAVE, “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT ’NDËRTIMI I SEGMENTIT RRUGOR, NYJA TEG’”.
+(tabela e vendimit nr. 736, datë 23.11.2022)
+Tabela që pasqyron ndryshimet dhe shtesën e bëra në tabelën bashkëlidhur VKM-në nr. 783, datë 15.12.2021.
+Të dhënat sipas VKM-së nr. 783, datë 15.12.2021
+Të dhënat e ndryshuara dhe shtesa
+Nr.
+Nr. rendor në VKM-në nr. 783, datë 15.12.2021
+Numri i pasurisë
+Emër/atësi/mbiemër
+Sip. totale m2
+Lloji i pasurisë
+TOKË TRUALL
+TOKË ARË
+Vlera totale (lek)
+Shënime
+Sipërfaqja e shpronësimit (m2)
+Çmimi (lek/m2)
+Vlera, lek
+Sip. e shpronësimit (m2)
+Çmimi (lek/m2)
+Vlera, lek
+Seksioni A që pasqyron pasurinë që ndryshohet në tabelën bashkëlidhur VKM-së nr. 783, datë 15.12.2021
+1
+3
+583/13
+Besart Avni Shehu Iva Arben Shehu
+4635
+ARE
+0.00
+245
+523.00
+128,135.00
+128,135
+2
+4
+583/24
+Theofilos Fuat Alimeta Arben Avni Paja Petrit Avni
+4000
+ARE + TRUALL
+0.00
+204
+523.00
+106,692.00
+106,692
+Seksioni B që pasqyron pasurinë që shtohet në tabelën bashkëlidhur VKM-së nr. 783, datë 15.12.2021
+3
+583/34
+Lazam Isak Doda
+1000
+TRUALL
+135
+3283.00
+443,205.00
+0.00
+443,205
+4
+583/21
+Lazam Isak Doda
+8000
+ARE
+0.00
+2282
+523
+1,193,486.00
+1,193,486
+5
+484/10
+Refat Skender Shehu Bojken Skender Kola Tefta Haxhi Zekaj
+6,800.00
+ARE
+0.00
+493.50
+523.00
+258,100.50
+258,101
+6
+484/6/1
+Arben Hysen Çala
+2,000.00
+ARE
+0.00
+136.50
+523.00
+71,389.50
+71,390
+Në favor të Arber Luarasi K. Qira
+7
+484/7
+Arben Hysen Çala
+2,000.00
+TRUALL
+84.50
+3,283.00
+277,413.50
+0.00
+277,414
+Në favor të B.K. Greqisë për shumën 100.000 euro
+8
+484/17
+Shoqëria “Megapharma” sh.p.k.
+2,000.00
+truall
+55.50
+3,283.00
+182,206.50
+0.00
+182,207
+Vendoset hipotekë ligjore në favor të banka OTP Albania sh.a. për shumën 1,500,000 euro
+Vlera totale (lek)
+2,660,628.00
