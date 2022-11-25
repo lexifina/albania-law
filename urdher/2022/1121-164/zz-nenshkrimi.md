@@ -1,0 +1,3 @@
+# Nënshkrimi
+KRYETAR
+Alfred Balla

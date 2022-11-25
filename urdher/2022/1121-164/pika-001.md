@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të autoritetit kontraktor, për të gjitha procedurat e prokurimit publik me fonde buxhetore për Këshillin e Lartë të Prokurorisë, Sekretarit të Përgjithshëm të Këshillit të Lartë të Prokurorisë, zotit Emis Çërava.
