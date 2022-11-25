@@ -1,0 +1,1 @@
+3. Autoriteti shtetëror qendror përgjegjës për trajtimin e të huajve që dëshiron të kthejë në rrugë ajrore një shtetas të një vendi të tretë, shqyrton mundësinë e përdorimit të një fluturimi direkt drejt shtetit të destinacionit.

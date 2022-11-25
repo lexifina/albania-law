@@ -1,0 +1,1 @@
+6. Në rastin e paragrafit 5, germa “d”, shteti kontraktues i kërkuar duhet të informojë brenda 24 orëve autoritetin kompetent të shtetit kontraktues kërkues për një datë sa më afër datës së kërkuar në fillim, në të cilën mund të realizohet tranziti ajror për sa kohë që janë plotësuar kushtet e tjera.

@@ -1,0 +1,1 @@
+14. Autoriteti shtetëror qendror përgjegjës për trajtimin e të huajve cakton pikat e kontaktit për aeroportin/et përkatëse të tranzitit, të cilat mund të kontaktohen gjatë gjithë operacioneve të tranzitit.

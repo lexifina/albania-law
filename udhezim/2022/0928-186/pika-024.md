@@ -1,0 +1,1 @@
+24. Pala e kërkuar ndihmon në ripranimin e shtetasit të një vendi të tretë në shtetin e palës kërkuese, në rastet e përmendura në paragrafin 23. Pala kërkuese mbulon shpenzimet për kthimin shtetasit të një vendi të tretë.

@@ -1,0 +1,1 @@
+26. Shoqëruesit nuk mbajnë armë gjatë tranzitit ajror dhe mbajnë veshur rroba civile. Ata paraqesin mjetet e duhura të identifikimit, përfshirë autorizimin e tranzitit të dhënë nga shteti i tranzitit ose, kur është e zbatueshme, njoftimin e përmendur në paragrafin 8, me kërkesën e shtetit të kërkuar.

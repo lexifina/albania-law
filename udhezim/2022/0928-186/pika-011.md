@@ -1,0 +1,1 @@
+11. Për të kërkuar dhe autorizuar tranzitin ajror, autoriteti i shtetit kontraktues kërkues i përcjell autoritetit të shtetit kontraktues të kërkuar informacionin e duhur nëpërmjet postës elektronike zyrtare.

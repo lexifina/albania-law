@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i masave për ndihmën midis autoriteteve kompetente në aeroportet e shteteve të tranzitit, në lidhje me largim/dëbimet e pashoqëruara dhe të shoqëruara në rrugë ajrore.

@@ -1,0 +1,1 @@
+7. Autorizimet për tranzit ajror të cilat janë lëshuar tashmë, mund të revokohen nga shteti kontraktues i kërkuar, nëse pas autorizimit shfaqen rrethana sipas kuptimit të paragrafit 5, të cilat justifikojnë refuzimin e tranzitit.

@@ -1,0 +1,1 @@
+8. Shteti kontraktues i kërkuar njofton menjëherë shtetin kontraktues kërkues për refuzimin ose revokimin e autorizimit për tranzitin ajror, në zbatim të paragrafit 5 ose 7, ose për çdo arsye tjetër pse tranziti nuk është i mundur duke dhënë një shpjegim për arsyet përkatëse.
