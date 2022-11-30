@@ -4,6 +4,10 @@ Nr. 161, datë 17.6.2022
 
 MBI LICENCIMIN E SHOQËRISË “VOKOPOLA ENERGJI” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-et: “VOKOPOLA 1”, ME KAPACITET TË INSTALUAR 274 kw; “VOKOPOLA 2”, ME KAPACITET TË INSTALUAR 3104 kw; DHE “VOKOPOLA 3”, ME KAPACITET TË INSTALUAR 2297 kw, ME KAPACITET TOTAL TË INSTALUAR 5675 kw
 
+(ndryshuar me vendimin nr. 311, datë 30.11.2022)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16 dhe 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, si dhe neneve 4, pika 1, germa “a”, 5, pika 1, germa “a” dhe nenit 10, pika 3, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e energjisë elektrike”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe nenit 19, pika 1, germa “a” të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 17.6.2022, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes me nr. 925/4 prot., datë 16.6.2022, “Mbi licencimin e shoqërisë ‘Vokopola Energji’ sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et: ‘Vokopola 1’, me kapacitet të instaluar 274 kw; ‘Vokopola 2’, me kapacitet të instaluar 3104 kw; dhe ‘Vokopola 3’, me kapacitet të instaluar 2297 kw, me kapacitet total të instaluar 5675 kw”,
 
  konstatoi se: 
@@ -60,17 +64,15 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Vokopola Energji” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et: “Vokopola 1”, me kapacitet të instaluar 274 kw; “Vokopola 2”, me kapacitet të instaluar 3104 kw; dhe “Vokopola 3”, me kapacitet të instaluar 2297 kw, me kapacitet total të instaluar 5675 kw, për një afat 25 vjet e 8 muaj.
 
-2. Shoqëria “Vokopola Energji” sh.p.k. të depozitojë brenda 30 ditëve nga marrja e vendimit:
+2. Shoqëria “Vokopola Energji” sh.p.k. të depozitojë brenda 30 ditëve nga marrja dijeni e vendimit: 
 
-a) vërtetimet e gjykatës dhe prokurorisë për vetë shoqërinë dhe administratorin e saj; 
+d) vërtetimet e gjykatës për vetë shoqërinë dhe administratorin e saj; 
 
-b) licencën për drejtuesin teknik elektrik, për HEC-et “Vokopola 2” dhe “Vokopola 3”; 
+e) kontratat e qirave për zonën ku do të shtrihet projekti të rinovuara, ose çdo dokument tjetër që rregullon pronësinë në këtë zonë; 
 
-c) kontratat e qirave për zonën ku do të shtrihet projekti të rinovuar ose çdo dokument tjetër që rregullon pronësinë në këtë zonë;
+f) dokumente që vërtetojnë aftësinë ose mbështetjen financiare të aplikuesit, ku shprehen qartë vlerat monetare që mbulojnë vlerën e investimit për HEC-et “Vokopola 2” dhe “Vokopola 3”.
 
-d) dokumente që vërtetojnë aftësinë ose mbështetjen financiare të aplikuesit, ku shprehen qartë vlerat monetare që mbulojnë vlerën e investimit për për HEC-et “Vokopola 2” dhe “Vokopola 3”.
-
-3. Shoqëria “Vokopola Energji” sh.p.k. të depozitojë lejen për përdorimin e burimit ujor për HEC “Vokopola 1” përpara fillimit të operimit të këtij HEC-i.
+3. Shfuqizuar.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e bordit të ERE-s.
 
