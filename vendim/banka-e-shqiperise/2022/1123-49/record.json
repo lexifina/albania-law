@@ -1,0 +1,26 @@
+{
+  "qbz_id": 64943,
+  "title": "Për dhënien e miratimit paraprak për bashkimin me përthithje të Bankës OTP Albania sh.a. me Bankën Alpha Albania sh.a.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "49",
+  "institution": "Banka e Shqipërisë",
+  "adopted": "2022-11-23",
+  "published": "2022-11-30",
+  "in_force": "2022-11-30",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/8b9b4ec35bd7e8809d10c9d905de51cd238e0b4318a134df990334d1e31302b4.docx",
+  "source_sha256": "8b9b4ec35bd7e8809d10c9d905de51cd238e0b4318a134df990334d1e31302b4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64943",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2022/11/23/49",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
