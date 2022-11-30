@@ -1,0 +1,2 @@
+7. VENDI I PAGESËS
+Kontributet e detyrueshme të sigurimeve shoqërore dhe shëndetësore paguhen në degët e bankave të nivelit të dytë ose në “Postën Shqiptare”, të cilat kanë marrëveshje bashkëpunimi me Drejtorinë e Përgjithshme të Tatimeve. Këto marrëveshje bashkëpunimi përcaktojnë mekanizmin e pranimit dhe transferimit të pagesës, kushtet që duhet të përmbushen, procedurat e raportimit dhe të dhënat për pagesat e kryera. Në bazë të VKM-së përkatëse procedurat teknike për transferimin e shumave të arkëtuara përcaktohen në udhëzimet përkatëse.

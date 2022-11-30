@@ -1,0 +1,3 @@
+2. NUMRI PERSONAL I INDIVIDËVEQË PAGUAJNË KONTRIBUTE
+2.1 Personat juridikë dhe fizikë, për punonjësit shtetas shqiptarë, deklarojnë në rubrikën përkatëse të deklaratës “Listëpagesa e kontributeve të sigurimeve shoqërore, shëndetësore dhe tatimit mbi të ardhurat nga punësimi” dhe “Deklarata e të punësuarve për herë të parë, atyre rishtazi, si dhe e të larguarve nga puna”, numrin personal të letërnjoftimit të çdo individi.
+2.2 Pёr të punësuarit apo të vetëpunësuarit shtetas të huaj që punojnë në Shqipëri, si numër personal për efekt të deklarimit të kontributeve të detyrueshme të sigurimeve shoqërore dhe shëndetësore shërben numri i lejes së qëndrimit ose i lejes provizore të qëndrimit.

@@ -1,0 +1,1 @@
+12. Ngarkohet Drejtoria e Përgjithshme e Tatimeve dhe drejtoritë rajonale tatimore për zbatimin e këtij udhëzimi. Për problemet përkatëse udhëzimi zbatohet nga Instituti i Sigurimeve Shoqërore dhe Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor,
