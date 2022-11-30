@@ -4,9 +4,9 @@ Nr. 27, datë 29.1.2021
 
 MBI LICENCIMIN E SHOQËRISË “AGETA” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “BORIE – LURË 1” ME KAPACITET TË INSTALUAR 1800 kw
 
-(Ndryshuar me vendimin nr. 104, datë 22.4.2021)
+(ndryshuar me vendimet nr. 104, datë 22.4.2021dhe nr. 310, datë 30.11.2022)
 
-(I përditësuar)
+(i përditësuar)
 
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të nenit 4, pika 1, germa “a”, të nenit 5, pika 1, germa “a”, dhe të nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s, nr. 109, datë 29.6.2016, të ndryshuar, si dhe të nenit 15, të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, të miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 29.1.2021, mbasi shqyrtoi relacionin nr. 15/3 prot., datë 26.1.2021, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, mbi aplikimin e shoqërisë “Ageta” sh.p.k., për licencim në veprimtarinë e prodhimit të energjisë elektrike,
 
@@ -48,9 +48,9 @@ VENDOSI:
 
 2. Shfuqizuar.
 
- 3. Në përfundim të afatit të kontratës së qirasë me Bashkinë Dibër (data e përfundimit 16.11.2027), shoqëria duhet ta depozitojë atë me afate të rinovuara, jo më vonë se një muaj pas nënshkrimit të rinovimit.
+3. Shoqëria do të depozitojë në ERE kontratën e rinovuar jo më vonë se data 17.11.2027.
 
-4. Në përfundim të afatit të lejes së përdorimit të burimit ujor (data e përfundimit 9.4.2022), do t’i kërkohet shoqërisë ta depozitojë atë me afate të rinovuara një muaj pas rinovimit të saj.
+4. Shoqëria do të depozitojë në ERE lejen e përdorimit të burimit ujor të rinovuar jo më vonë se data 25.10.2027.
 
 5. Shfuqizuar.
 
