@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, llogariten në shumën 396 642 000 (treqind e nëntëdhjetë e gjashtë milionë e gjashtëqind e dyzet e dy mijë) dhe përballohen nga fondi rezervë i buxhetit, për vitin 2022.

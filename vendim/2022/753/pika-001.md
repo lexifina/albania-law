@@ -1,0 +1,1 @@
+1. Kompensimin, në masën 6 000 (gjashtë mijë) lekë të personave, që përfitojnë pension invaliditeti, sipas ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, për vitin 2022.
