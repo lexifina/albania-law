@@ -7,3 +7,4 @@ c) një përfaqësues i propozuar nga shoqatat e të përndjekurve politikë, ng
 ç) një përfaqësues i propozuar nga Shoqata për Mbrojtjen e të Drejtave të Njeriut, nga radhët e kandidatëve të mbështetur nga jo më pak se 28 deputetë.
 2. Mandati i anëtarit të Autoritetit është 5 vjet, me të drejtë rizgjedhjeje vetëm një herë.
 3. Kuvendi zgjedh një kryetar nga radhët e anëtarëve të Autoritetit.
+4. Anëtari i Autoritetit, të cilit i ka mbaruar mandati, qëndron në detyrë deri në zëvendësimin e tij.

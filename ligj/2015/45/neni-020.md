@@ -1,6 +1,7 @@
 # Neni 20
 Garantimi i së drejtës për informim
 1. Kërkuesit i njihet e drejta për t’u njohur me dokumentet kur ai ka cilësinë e të prekurit, palës së tretë, bashkëpunëtorit apo të favorizuarit të ish-Sigurimit të Shtetit ose është një përfaqësues me prokurë i këtyre të fundit. Kjo e drejtë përfshin njohjen dhe shqyrtimin e dokumenteve origjinale ose dublikatave të tyre.
+1.1 Çdo person gëzon të drejtën të njihet me dokumentet e ish-Sigurimit të Shtetit dhe të kërkojë një kopje të tyre në përputhje me ligjin për të drejtën e informimit, me kusht që kërkuesi të paraqesë të dhëna në kërkesën e tij që mundësojnë lokalizimin e informacioneve. Informacioni jepet vetëm kur angazhimi i nevojshëm për gjetjen dhe vënien në dispozicion të informacionit është në përpjesëtim të drejtë me interesin e argumentuar të kërkuesit në marrjen e këtij informacioni. Kërkuesi mban përgjegjësi për keqpërdorimin e informacionit të marrë.
 2. Autoriteti mund ta kufizojë pjesërisht ose plotësisht garantimin e së drejtës për informim, kur të dhënat përbëjnë kërcënim real për Sigurinë Kombëtare.
 3. Kur, për shkaqe aftësie të kufizuar, kërkuesi, për të shqyrtuar dokumentet, ka nevojë për ndihmën e një të treti, Autoriteti lejon praninë e të tretit kur kërkuesi deklaron me shkrim se ai është person i besuar dhe ka arsye të mjaftueshme për të besuar nevojën për shoqërim.
 4. Kur dokumentet ose dublikatat, përveç informacioneve personale mbi kërkuesin, përmbajnë edhe të dhëna për të prekur të tjerë apo palë të treta, shqyrtimi i dokumenteve origjinale garantohet vetëm kur:

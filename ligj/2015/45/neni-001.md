@@ -7,4 +7,4 @@ b) organizimin dhe funksionimin e Autoritetit për Informimin mbi Dokumentet e i
 c) njohjen e personave me të dhënat e ruajtura nga ish-Sigurimi i Shtetit për ta;
 ç) vënien në dispozicion të institucioneve shtetërore dhe joshtetërore të informacioneve të domosdoshme për qëllimet e parashikuara në këtë ligj;
 d) detyrimet e autoriteteve publike dhe arkivave për vënien në dispozicion, për qëllime të zbatimit të këtij ligji, të dokumenteve të disponuara prej tyre.
-3. Në funksion të zbatimit të këtij ligji, autoritetet publike i referohen dhe zbatojnë legjislacionin në fuqi për mbrojtjen e të dhënave personale, për aq sa është e mundur, edhe legjislacionin në fuqi për të drejtën e informimit, arkivat dhe informacionin e klasifikuar “Sekret shtetëror”.
+3. Në funksion të zbatimit të këtij ligji, autoritetet publike i referohen dhe zbatojnë legjislacionin në fuqi për mbrojtjen e të dhënave personale, për aq sa është e mundur, edhe legjislacionin në fuqi për të drejtën e informimit, arkivat dhe informacionin e klasifikuar “Sekret shtetëror” si dhe Kodin e Procedurave Administrative.
