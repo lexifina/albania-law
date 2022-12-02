@@ -1,0 +1,1 @@
+1. Grave të papuna me tre apo më shumë fëmijë të moshës deri në 18 vjeç, ku njëri prej fëmijëve është nën moshën 5 vjeç dhe familja ka të ardhura nën 100 000 (njëqind mijë) lekë në muaj, periudha e kujdesit ndaj fëmijës deri në moshën 5-vjeçare njihet si periudhë sigurimi për efekt përfitimi pensioni pleqërie dhe barrëlindjeje.
