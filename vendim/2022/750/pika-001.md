@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve të Autoritetit të Komunikimeve Elektronike e Postare (AKEP), për vitin 2023, në shumën 381 500 000 (treqind e tetëdhjetë e një milionë e pesëqind mijë lekë), sipas pasqyrës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
