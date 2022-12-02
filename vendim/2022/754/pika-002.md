@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, llogariten në shumën 399 000 000 (treqind e nëntëdhjetë e nëntë milionë) lekë dhe përballohen nga fondi rezervë i buxhetit, për vitin 2022.
