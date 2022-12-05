@@ -1,0 +1,1 @@
+7. Në kanalet artificiale, zona, distanca dhe gjerësia e bregut është hapësira që krijohet nga vija ujore deri në kuotën e sipërme të skarpatës së kanalit. Në rastet kur ka PPV të miratuara, sipas përcaktimeve në legjislacionin për planifikimin dhe zhvillimin e territorit, zona dhe gjerësia e bregut është sipas përcaktimeve të planit.
