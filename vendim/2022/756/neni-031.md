@@ -1,0 +1,3 @@
+# Neni 31
+Mosraportimi i të dhënave
+Kur QNOD-ja dhe institucioni përgjegjës për shërbimet e peshkimit dhe të akuakulturës nuk kanë marrë të dhënat e transmetuara, në përputhje me nenet 12, 18 dhe 22 të këtij vendimi, oficerët e shërbimit të peshkimit në sallën operacionale në QNOD informojnë menjëherë kapitenin ose pronarin e anijes ose përfaqësuesin e tyre. Nëse për një anije të caktuar kjo situatë ndodh më shumë se tri herë brenda një viti, institucioni përgjegjës për shërbimet e peshkimit dhe të akuakulturës siguron që të kryhet një kontroll në sistemin e tij elektronik të transmetimit. Institucioni përgjegjës për shërbimet e peshkimit dhe të akuakulturës kryen hetime për të përcaktuar shkaqet e mosmarrjes së të dhënave.
