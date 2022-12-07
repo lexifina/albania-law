@@ -1,0 +1,1 @@
+2. Urdhri nr. 365, datë 10.8.2022 “Për importin e kafshëve të llojit derra, produkteve, nënprodukteve të tyre, materialit biologjik, embrioneve, mishit dhe nënprodukteve të tyre nga Hungaria, Letonia, Ukraina, Rumania, Italia, Gjermania, Lituania, Moldavia, Sllovakia, Serbia, Estonia, Bullgaria, Polonia dhe Maqedonia e veriut”, shfuqizohet.
