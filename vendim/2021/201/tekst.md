@@ -4,7 +4,7 @@ Nr. 201, datë 25.3.2021
 
 PËR PËRDORIMIN E FONDIT TË RINDËRTIMIT PËR FINANCIMIN E RIFORCIMIT TË NJËSIVE TË BANIMIT NË NDËRTESA (PALLAT) NË BASHKITË DURRËS DHE KAMZË
 
-(Ndryshuar me VKM nr. 291, datë 11.5.2022)
+(Ndryshuar me VKM nr. 291, datë 11.5.2022; nr. 768, datë 12.12.2022)
 
 (i përditësuar)
 
@@ -29,6 +29,8 @@ b) Bashkisë Kamzë i transferohet fondi në masën 44 646 476 (dyzet e katër m
 a) Bashkisë Durrës i transferohet fondi, në masën 100 000 000 (njëqind milionë) lekë pa TVSH;
 
 b) Bashkisë Kamzë i transferohet fondi, në masën 178 585 905 (njëqind e shtatëdhjetë e tetë milionë e pesëqind e tetëdhjetë e pesë mijë e nëntëqind e pesë) lekë pa TVSH.
+
+2/2. Përveç përcaktimeve të pikës 2/1 të këtij vendimi, përdorimin e fondit të rindërtimit, miratuar për vitin 2022, në masën 568 048 796 (pesëqind e gjashtëdhjetë e tetë milionë e dyzet e tetë mijë e shtatëqind e nëntëdhjetë e gjashtë) lekë pa TVSH, për financimin e riforcimit të njësive të banimit në ndërtesa (pallat), të cilat janë klasifikuar si objekte të pabanueshme ose të dëmtuara rëndë apo të dëmtuara lehtë dhe që nuk duhen rindërtuar nga e para, por kanë nevojë për punime rikonstruksioni ose riparime, nga Bashkia Durrës, i cili përballohet nga shpenzimet buxhetore të fondit të rindërtimit, miratuar për vitin 2022, dhe i transferohet Bashkisë Durrës në formën e transfertës së pakushtëzuar. 
 
 3. Ngarkohen ministri i Shtetit për Rindërtimin, Ministria e Financave dhe Ekonomisë dhe bashkitë Durrës e Kamzë për zbatimin e këtij vendimi.
 

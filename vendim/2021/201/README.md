@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 201, datë 25.3.2021](https://qbz.gov.al/api/v1/acts/58852); [QBZ versions](https://qbz.gov.al/api/v1/acts/58852/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2022-12-11; after QBZ act 25250 (nr. 768).
+Status of this text: `official consolidated version 2`, applying from 2022-12-11; after QBZ act 25250 (nr. 768).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
