@@ -1,9 +1,9 @@
 # Për përdorimin e fondit të rindërtimit për financimin e riforcimit të njësive të banimit në ndërtesa (pallat) në bashkitë Durrës dhe Kamzë
 
-Official source: [Vendimi i Këshillit të Ministrave nr. 201, datë 25.3.2021](https://qbz.gov.al/api/v1/acts/58852).
+Official source: [Vendimi i Këshillit të Ministrave nr. 201, datë 25.3.2021](https://qbz.gov.al/api/v1/acts/58852); [QBZ versions](https://qbz.gov.al/api/v1/acts/58852/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2021-03-25; published 2021-03-30; in force 2021-03-30.
+Status of this text: `official consolidated version 1`, applying from 2022-12-11; after QBZ act 25250 (nr. 768).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
