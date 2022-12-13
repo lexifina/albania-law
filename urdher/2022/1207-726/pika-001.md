@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, gjimnazit “Çelësi Magjik”, të subjektit juridik “Çelësi Magjik” sh.p.k., i hapur me urdhrin nr. 280, datë 31.7.2007, të ministrit të Arsimit dhe Shkencës, në emër të këtij subjekti, me kërkesën e tij për mbylljen e veprimtarisë arsimore nr. 148 prot., datë 29.8.2022.

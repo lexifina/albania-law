@@ -1,0 +1,1 @@
+6. Urdhri nr. 280, datë 31.7.2007, i ministrit të Arsimit dhe Shkencës, “Për funksionimin e institucionit arsimor privat parauniversitar: - Shkollë e mesme e përgjithshme “Çelësi Magjik”, shfuqizohet.
