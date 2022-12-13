@@ -1,0 +1,1 @@
+1. Masa e shtesës për natyrë të veçantë pune për drejtorin e përgjithshëm dhe nëpunësit e njësive teknike të përmbajtjes së Autoritetit Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike është sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

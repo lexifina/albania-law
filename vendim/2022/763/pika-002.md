@@ -1,0 +1,1 @@
+2. Përjashtimisht, deri në datën 1 janar 2023, masa e shtesës për natyrë të veçantë pune për nëpunësit e përcaktuar në rreshtat 4 dhe 6, të lidhjes nr. 1, që i bashkëlidhet këtij vendimi, të jetë përkatësisht, 20 000 (njëzet mijë) lekë në muaj dhe 25 000 (njëzet e pesë mijë) lekë në muaj.
