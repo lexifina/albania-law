@@ -1,0 +1,5 @@
+VENDIM
+Nr. 764, datë 12.12.2022
+PËR MIRATIMIN E MARRËVESHJES NDRYSHUESE NR. 1, TË MARRËVESHJES, NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE AGJENCISË AUSTRIAKE PËR ZHVILLIM, PËR PROJEKTIN “MBËSHTETJA E BASHKIMIT EVROPIAN PËR MENAXHIMIN E INTEGRUAR TË UJIT NË SHQIPËRI”, TË MIRATUAR ME VENDIMIN NR. 587, DATË 4.9.2019, TË KËSHILLIT TË MINISTRAVE
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 19 e 23, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e Kryeministrit, Këshilli i Ministrave
+Vendosi:

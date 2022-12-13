@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese nr. 1 të marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Agjencisë Austriake për Zhvillim, për projektin “Mbështetja e Bashkimit Evropian për menaxhimin e integruar të ujit në Shqipëri”, të miratuar me vendimin nr. 587, datë 4.9.2019, të Këshillit të Ministrave, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
