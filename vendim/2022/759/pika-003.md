@@ -1,0 +1,1 @@
+3. Autorizimin e Agjencisë Kombëtare të Shoqërisë së Informacionit për të lidhur marrëveshjet e parashikuara për zbatimin e projektit strategjik, sipas përcaktimeve në marrëveshjen ndryshuese të marrëveshjes së rinovuar për partneritetin strategjik, që i bashkëlidhet këtij vendimi.

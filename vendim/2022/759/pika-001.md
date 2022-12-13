@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes ndryshuese të marrëveshjes së rinovuar për partneritetin strategjik ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe shoqërisë “Microsoft Corporation”, miratuar me vendimin nr. 55, datë 3.2.2021, të Këshillit të Ministrave, sipas tekstit që i bashkëlidhet këtij vendimi.

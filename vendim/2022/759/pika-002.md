@@ -1,0 +1,1 @@
+2. Fondi total prej 2 392 794 278 (dy miliardë e treqind e nëntëdhjetë e dy milionë e shtatëqind e nëntëdhjetë e katër mijë e dyqind e shtatëdhjetë e tetë) lekësh pa TVSH, për realizimin e ndryshimit të projektit të partneritetit strategjik në fushën e teknologjisë së informacionit të përballohet nga Agjencia Kombëtare e Shoqërisë së Informacionit.
