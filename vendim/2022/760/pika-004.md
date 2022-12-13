@@ -1,0 +1,1 @@
+4. Pagimi i shumës së depozituar, sipas përcaktimeve në pikën 3, të këtij vendimi, në favor të kërkuesve, të bëhet nga Ministria e Financave dhe Ekonomisë, pas paraqitjes së dokumentacionit të nevojshëm ligjor për kryerjen e pagesave nga buxheti i shtetit, brenda afatit 3-mujor nga dita kur vendimi i Gjykatës Evropiane për të Drejtat e Njeriut është bërë përfundimtar.

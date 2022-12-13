@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 31.5.2022, për çështjen “X dhe të tjerë kundër Shqipërisë”, për kërkesat nr. 73548/17 dhe nr. 45521/19, përfundimtar në datën 31.8.2022, në shumën 22 500 (njëzet e dy mijë e pesëqind) euro në lidhje me dëmin jopasuror, plus çdo taksë që mund të jetë e aplikueshme.
