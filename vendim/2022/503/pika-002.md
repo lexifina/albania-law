@@ -1,4 +1,1 @@
-2. Përdorimin e fondit të rindërtimit, për vitin 2022, nga bashkitë Durrës, Vorë dhe Shijak, në masën 147 548 038 (njëqind e dyzet e shtatë milionë e pesëqind e dyzet e tetë mijë e tridhjetë e tetë) lekë, pa TVSH, për financimin e rindërtimit të banesave individuale për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte që duhen rindërtuar nga e para, sipas aktekspertizave të thelluara, sipas detajimit të mëposhtëm:
-a) Bashkisë Durrës i transferohet fondi në formën e transfertës së pakushtëzuar, në masën 43 445 959 (dyzet e tre milionë e katërqind e dyzet e pesë mijë e nëntëqind e pesëdhjetë e nëntë) lekë pa TVSH;
-b) Bashkisë Vorë i transferohet fondi në formën e transfertës së pakushtëzuar, në masën 60 000 000 (gjashtëdhjetë milionë) lekë, pa TVSH;
-c) Bashkisë Shijak i transferohet fondi në formën e transfertës së pakushtëzuar, në masën 44 102 079 (dyzet e katër milionë e njëqind e dy mijë e shtatëdhjetë e nëntë) lekë, pa TVSH.
+2. Shfuqizuar.
