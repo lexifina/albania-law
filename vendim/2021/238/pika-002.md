@@ -2,3 +2,7 @@
 a) rikonstruksionin e Qendrës Kulturore të Fëmijëve Mirditë (ish-kinemaja), në masën 5 048 815 (pesë milionë e dyzet e tetë mijë e tetëqind e pesëmbëdhjetë) lekë pa TVSH;
 b) rikonstruksionin e ish-godinës së Bashkisë Mirditë, në masën 11 687 730 (njëmbëdhjetë milionë e gjashtëqind e tetëdhjetë e shtatë mijë e shtatëqind e tridhjetë) lekë pa TVSH;
 c) rikonstruksionin e godinës së Muzeut Historik, Mirditë, në masën 4 986 969 (katër milionë e nëntëqind e tetëdhjetë e gjashtë mijë e nëntëqind e gjashtëdhjetë e nëntë) lekë pa TVSH.
+2/1. Bashkisë Mirditë, për vitin 2022, i transferohet fondi në masën 83 451 289 (tetëdhjetë e tre milionë e katërqind e pesëdhjetë e një mijë e dyqind e tetëdhjetë e nëntë) lekë pa TVSH, për financimin e rikonstruksionit të 3 (tri) objekteve në Bashkinë Mirditë, në formën e transfertës së pakushtëzuar, të detajuara, si më poshtë vijon:
+a) Rikonstruksionin e Qendrës Kulturore të Fëmijëve Mirditë (ish-kinemaja), në masën 22 108 052 (njëzet e dy milionë e njëqind e tetë mijë e pesëdhjetë e dy) lekë pa TVSH;
+b) Rikonstruksionin e ish-godinës së Bashkisë Mirditë, në masën 41 655 628 (dyzet e një milionë e gjashtëqind e pesëdhjetë e pesë mijë e gjashtëqind e njëzet e tetë) lekë pa TVSH;
+c) Rikonstruksionin e godinës së Muzeut Historik Mirditë, në masën 19 687 609 (nëntëmbëdhjetë milionë e gjashtëqind e tetëdhjetë e shtatë mijë e gjashtëqind e nëntë) lekë pa TVSH.
