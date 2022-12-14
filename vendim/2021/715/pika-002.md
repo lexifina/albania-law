@@ -2,3 +2,6 @@
 a) Bashkisë Tiranë i transferohet fondi, në masën 48 000 000 (dyzet e tetë milionë) lekë;
 b) Bashkisë Durrës i transferohet fondi, në masën 77 636 567 (shtatëdhjetë e shtatë milionë e gjashtëqind e tridhjetë e gjashtë mijë e pesëqind e gjashtëdhjetë e shtatë) lekë;
 c) Bashkisë Mirditë i transferohet fondi, në masën 39 330 736 (tridhjetë e nëntë milionë e treqind e tridhjetë mijë e shtatëqind e tridhjetë e gjashtë) lekë.
+2/1. Përdorimin e fondit të rindërtimit, për vitin 2022, në masën 458 142 074 (katërqind e pesëdhjetë e tetë milionë e njëqind e dyzet e dy mijë e shtatëdhjetë e katër) lekë, për financimin e rikonstruksionit ose të riparimit të mjediseve në bashkëpronësi ose të përbashkëta në ndërtesa (pallat), në bashkitë Durrës dhe Mirditë, sipas detajimit të mëposhtëm:
+a) Bashkisë Durrës i transferohet fondi, në masën 310 546 268 (treqind e dhjetë milionë e pesëqind e dyzet e gjashtë mijë e dyqind e gjashtëdhjetë e tetë) lekë, në formën e transfertës së pakushtëzuar;
+b) Bashkisë Mirditë i transferohet fondi, në masën 147 595 806 (njëqind e dyzet e shtatë milionë e pesëqind e nëntëdhjetë e pesë mijë e tetëqind e gjashtë) lekë, në formën e transfertës së pakushtëzuar.
