@@ -1,1 +1,2 @@
 6. Procedurat e prokurimit për blerjen e bazës materiale didaktike dhe infrastruktura mbështetëse, sipas kurrikulave të hartuara për secilën tematikë të Programit Kombëtar për Aktivitetet jashtë Orarit Mësimor realizohen nga Agjencia Shtetërore e Prokurimeve të Përqendruara.
+6/1. Përjashtimisht, për vitin 2022, procedurat e prokurimit për blerjen e bazës materiale didaktike dhe infrastrukturës mbështetëse, sipas kurrikulave të hartuara për secilën tematikë të Programit Kombëtar për Aktivitetet jashtë Orarit Mësimor, realizohen nga zyrat vendore të arsimit parauniversitar.
