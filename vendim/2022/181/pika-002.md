@@ -4,3 +4,6 @@ b) Bashkisë Durrës i transferohet fondi, në masën 483 911 184 (katërqind e 
 c) Bashkisë Shijak i transferohet fondi, në masën 6 125 761 (gjashtë milionë e njëqind e njëzet e pesë mijë e shtatëqind e gjashtëdhjetë e një) lekë pa TVSH;
 ç) Bashkisë Lezhë i transferohet fondi, në masën 27 235 226 (njëzet e shtatë milionë e dyqind e tridhjetë e pesë mijë e dyqind e njëzet e gjashtë) lekë pa TVSH;
 d) Bashkisë Krujë i transferohet fondi, në masën 100 351 073 (njëqind milionë e treqind e pesëdhjetë e një mijë e shtatëdhjetë e tre) lekë pa TVSH.
+2/1. Përveç përcaktimeve të bëra në shkronjat “b” dhe “c”, të pikës 2, të këtij vendimi ,përdorimin e fondit të rindërtimit, miratuar për vitin 2022, për bashkitë Durrës dhe Shijak, sipas detajimit të mëposhtëm:
+a) Bashkisë Durrës i transferohet fondi, në masën 50 812 754 (pesëdhjetë milionë e tetëqind e dymbëdhjetë mijë e shtatëqind e pesëdhjetë e katër) lekë pa TVSH, në formën e transfertës së pakushtëzuar;
+b) Bashkisë Shijak i transferohet fondi, në masën 24 503 046 (njëzet e katër milionë e pesëqind e tre mijë e dyzet e gjashtë) lekë pa TVSH, në formën e transfertës së pakushtëzuar.
