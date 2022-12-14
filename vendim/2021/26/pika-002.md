@@ -8,3 +8,4 @@ b) Rikonstruksionin e shkollës 9-vjeçare “Kamza e re”, në masën 8 303 23
 c) Rikonstruksionin e kopshtit “Kamza e re”, në masën 3 953 757 (tre milionë e nëntëqind e pesëdhjetë e tre mijë e shtatëqind e pesëdhjetë e shtatë) lekë;
 ç) Rikonstruksionin e kopshtit “Ahmet Zogu”, në masën 15 581 648 (pesëmbëdhjetë milionë e pesëqind e tetëdhjetë e një mijë e gjashtëqind e dyzet e tetë) lekë;
 d) Rindërtimin e çerdhes Kamzë, në masën 10 000 000 (dhjetë milionë) lekë.
+2/2. Përdorimin e fondit të rindërtimit, për vitin 2022, për financimin e rindërtimit/rikonstruksionit të objekteve arsimore, në Bashkinë Kamzë, në masën 13 272 319 (trembëdhjetë milionë e dyqind e shtatëdhjetë e dy mijë e treqind e nëntëmbëdhjetë) lekë pa TVSH, për rindërtimin e çerdhes “Kamzë”, i cili i transferohet Bashkisë Kamzë, në formën e transfertës së pakushtëzuar.
