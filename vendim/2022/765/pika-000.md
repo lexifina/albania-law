@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, dhe Komisionit Evropian, në lidhje me programin vjetor kombëtar për Shqipërinë, për vitin 2021, në kuadër të Instrumentit të Asistencës së Paraanëtarësimit (IPA III), sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

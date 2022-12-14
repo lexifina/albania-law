@@ -1,0 +1,5 @@
+VENDIM
+Nr. 765, datë 12.12.2022
+PËR MIRATIMIN E MARRËVESHJES SË FINANCIMIT NDËRMJET REPUBLIKËS SË SHQIPËRISË, PËRFAQËSUAR NGA KËSHILLI I MINISTRAVE I REPUBLIKËS SË SHQIPËRISË, DHE KOMISIONIT EVROPIAN, NË LIDHJE ME PROGRAMIN VJETOR KOMBËTAR PËR SHQIPËRINË, PËR VITIN 2021, NË KUADËR TË INSTRUMENTIT TË ASISTENCËS SË PARAANËTARËSIMIT (IPA III)
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 19, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e Kryeministrit, Këshilli i Ministrave
+VENDOSI:
