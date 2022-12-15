@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor, për procedurën me objekt: “Parku i Artit, rivitalizimi dhe rikualifikimi i territorit të ish-Kinostudios ’Shqipëria e Re’, Tiranë, faza II” drejtorit të përgjithshëm, Drejtoria e Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse, znj. Edlira Cimbi.
