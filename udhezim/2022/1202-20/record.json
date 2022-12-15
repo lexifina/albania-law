@@ -1,0 +1,26 @@
+{
+  "qbz_id": 25300,
+  "title": "Për disa ndryshime në udhëzimin e ministrit nr. 2, datë 15.3.2022, \"Për miratimin e rregullave specifike për ambalazhimin dhe etiketimin e PMB-ve\"",
+  "type": "Udhëzim",
+  "kind": "Akt ndryshues",
+  "number": "20",
+  "institution": "Ministria e Bujqësisë dhe Zhvillimit Rural",
+  "adopted": "2022-12-02",
+  "published": "2022-12-15",
+  "in_force": "2022-12-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/eda49d258c9761ec2bdac2287540942bff1f9b57fdd3e1ef38417c4e5abda9c9.docx",
+  "source_sha256": "eda49d258c9761ec2bdac2287540942bff1f9b57fdd3e1ef38417c4e5abda9c9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25300",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2022/12/02/20",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
