@@ -1,0 +1,1 @@
+2. Ministria e Bujqësisë dhe Zhvillimit Rural të bashkëpunojë me Ministrinë e Turizmit dhe Mjedisit dhe Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale për zbatimin e Planit të Veprimit, për çështjet sipas fushës së tyre të përgjegjësisë.
