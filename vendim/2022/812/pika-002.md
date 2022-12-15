@@ -1,0 +1,2 @@
+2. Miratimin e projektkontratës, ndërmjet Ministrisë së Financave dhe Ekonomisë, si shitës, dhe z. Filip Gjergjindreaj dhe znj. Diana Gjergjindreaj, si blerës, për pasuritë shtetërore nr. 3/411, me sipërfaqe 61 m2 dhe nr. 3/1116, sipërfaqe 74.5 m2, të cilat ndodhen në Korçë, zona kadastrale 8564, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
