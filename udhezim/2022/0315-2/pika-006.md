@@ -5,4 +5,4 @@ c) datën e prodhimit të PMB-së, e cila duhet të përkojë me datën e prodhi
 ç) datën e skadencës së PMB-së (sipas dokumentacionit të regjistrimit);
 d) vendosë numrin e serisë të PMB-së të prodhuar;
 dh) regjistrojë në një regjistër të veçantë sasitë e PMB-ve të ambalazhuara sipas serive përkatëse;
-e) ketë autorizim nga prodhuesi i PMB-ve, në rastin e ambalazhimit të PMB-ve të importuara nga vetë ambalazhuesi, si dhe autorizim nga prodhuesi i PMB-ve dhe aktmarrëveshje me importuesin në rast se ambalazhimi kryhet për të tretë.
+e) ketë autorizim nga prodhuesi i PMB-ve, në rastin e ambalazhimit të PMB-ve të importuara nga vetë ambalazhuesi, dhe/ose autorizim nga prodhuesi i PMB-ve dhe aktmarrëveshje me importuesin në rast se ambalazhimi kryhet për të tretë.
