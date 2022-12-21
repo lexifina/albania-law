@@ -4,6 +4,10 @@ Nr. 28, datë 14.2.2022
 
 MBI KËRKESËN E OSSH SHA, PËR NDRYSHIMIN E VENDIMIT TË ERE-s NR. 181, DATË 23.11.2016, “PËR DISA NDRYSHIME NË VENDIMIN NR. 104, DATË 23.6.2016, TË BORDIT TË ERE-s, ‘MBI PËRCAKTIMIN E METODOLOGJISË SË VLERAVE REFERUESE, NË RAST SE TË DHËNAT E MATJES JANË PËRKOHËSISHT TË PADISPONUESHME DHE TË PAARRITSHME, SI DHE MBI SHFUQIZIMIN E VENDIMEVE TË ERE-s NR. 49, DATË 21.10.2004, DHE NR. 146, DATË 24.12.2013’”
 
+(ndryshuar me vendimin nr. 339, datë 21.12.2022)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 76, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 15 dhe 26, të rregullores “Për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 96, datë 3.9.2016, Bordi i ERE-s, në mbledhjen e tij të datës 14.2.2022, mbasi shqyrtoi relacionin e përgatitur nga drejtoritë teknike, me nr. 128/4 prot., datë 24.1.2022, “Mbi shqyrtimin e kërkesës së OSSH sh.a., për ndryshimin e vendimit të ERE-s nr. 181, datë 23.11.2016, ‘Për disa ndryshime në vendimin nr. 104, datë 23.6.2016, të Bordit të ERE-s, ‘Mbi përcaktimin e metodologjisë së vlerave referuese në rast se të dhënat e matjes janë përkohësisht të padisponueshme dhe të paarritshme, si dhe mbi shfuqizimin e vendimeve të ERE-s nr. 49, datë 21.10.2004 dhe nr. 146, datë 24.12.2013”” dhe informacionin shtesë nr. 128/4-1 prot., datë 4.2.2022,
 
 konstatoi se:
@@ -66,9 +70,9 @@ d) Konsumatorët që nuk kanë referencë asnjë muaj të leximit të matjes së
 
 dh) Konsumatorët që kanë lexim me matje të energjisë elektrike në një periudhë nga 1 (një) deri në 11 (njëmbëdhjetë) muaj, do të faturohen me vlerë referuese bazuar në vlerën mesatare për muajt e matur të konsumit të energjisë elektrike.
 
-4. Ndryshimet e parashikuara në pikën 2, të këtij vendimi hyjnë në fuqi më datë 15 shkurt 2022 dhe i shtrijnë efektet juridike deri më 31 dhjetor 2022. 
+4. Ndryshimet e parashikuara në pikat 2 dhe 3 të vendimit nr. 28, datë 14.2.2022, i shtrijnë efektet juridike deri në një afat të pacaktuar. 
 
-5. Me përfundimin e afateve të parashikuara në pikën 4, të këtij vendimi, për përcaktimin e vlerave referuese në rast se të dhënat e matjes janë përkohësisht të padisponueshme dhe të paarritshme do të aplikohet metodologjia e parashikuar në vendimin e Bordit të ERE-s nr. 104, datë 23.6.2016, i ndryshuar, me vendimin e Bordit të ERE-s nr. 181, datë 23.11.2016, “Për disa ndryshime në vendimin nr. 104, datë 23.6.2016, të Bordit të ERE-s, ‘Mbi përcaktimin e metodologjisë së vlerave referuese në rast se të dhënat e matjes janë përkohësisht të padisponueshme dhe të paarritshme, si dhe mbi shfuqizimin e vendimeve të ERE-s nr. 49, datë 21.10.2004 dhe nr. 146, datë 24.12.2013’”. 
+5. Shfuqizuar. 
 
 6. Për periudhën e përcaktuar në pikën 4, të këtij vendimi, furnizuesit të cilët lëshojnë faturë me vlerë referuese, të raportojnë në ERE periodikisht çdo 2 (dy) muaj, jo më vonë se data 20 e muajit pasardhës të periudhës se raportimit, në lidhje me gjetjet e tyre mbi këto modalitete faturimi duke përfshirë analizë krahasimore të ankesave të regjistruara përgjatë aplikimit, si dhe rezultatet e të dhënave reale të matjes. 
 
