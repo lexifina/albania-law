@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Rikonstruksion rruge në lagjen ’18 Tetori’ dhe rikonstruksion i rrugës ’Sali Gjuka’ (rikualifikim urban i bllokut të banimit në lagjen ’18 Tetori’ dhe rikonstruksion i rrugës ’Sali Gjuka’)”.
