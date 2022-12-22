@@ -1,0 +1,1 @@
+3. Vlera e përcaktuar si detyrim në pikën 1, të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të kërkuesit Arben Strazimiri, në vlerën që shteti shqiptar detyrohet, sipas vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 21.1.2020, “Strazimiri kundër Shqipërisë”, kërkesa nr. 34602/16.
