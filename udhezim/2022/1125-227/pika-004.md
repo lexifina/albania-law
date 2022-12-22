@@ -1,0 +1,1 @@
+4. Lista e shteteve publikohet në faqet zyrtare të institucioneve të përcaktuara në pikën 1, të këtij udhëzimi, u bëhet e njohur përfaqësive të posteve konsullore shqiptare, si dhe autoriteteve shtetërore të vendeve pjesë e kësaj liste.

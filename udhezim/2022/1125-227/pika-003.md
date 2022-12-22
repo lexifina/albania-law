@@ -1,0 +1,1 @@
+3. Vendimi i marrë për listën e shteteve të përcaktuara në pikën 2, të këtij udhëzimi, dërgohet zyrtarisht pranë MEPJ-së, autoriteteve përgjegjëse vendore të kufirit dhe migracionit në pikat e kalimit kufitar dhe autoriteteve përgjegjëse për trajtimin e të huajve në territor.
