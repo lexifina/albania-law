@@ -1,0 +1,1 @@
+1. Përdorimin e fondit rezervë të buxhetit të shtetit, të miratuar për vitin 2022, për dhënien e kontributit financiar nga Këshilli i Ministrave i Republikës së Shqipërisë, për mbështetjen e Fondit Global për Angazhimin dhe Qëndrueshmërinë në Komunitet (GCERF) në misionin e tij për parandalimin e ekstremizmit të dhunshëm, në shumën 60 000 (gjashtëdhjetë mijë) euro.
