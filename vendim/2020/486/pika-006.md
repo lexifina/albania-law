@@ -1,5 +1,5 @@
 6. Procedurat dhe kategoritë që përfitojnë tekste në përdorim falas në arsimin parauniversitar janë, si më poshtë vijon:
-a) Nxënësit, që ndjekin arsimin bazë, në klasën e parë, në institucionet arsimore publike, në institucionet e paraburgimit, të vuajtjes së dënimit dhe në institucione të përkujdesjes shoqërore, të cilëve u jepen tekstet shkollore të reja, çdo vit, në përdorim falas. Nxënësve, që ndjekin arsimin bazë në këto institucione, nga klasa e dytë deri në klasën e nëntë, u jepen tekstet shkollore në përdorim falas.
+a) Nxënësit, që ndjekin arsimin bazë, nga klasa e parë deri në klasën e tretë, në institucionet arsimore publike, në institucionet e paraburgimit, të vuajtjes së dënimit dhe në institucionet e përkujdesjes shoqërore, të cilëve u jepen tekstet shkollore të reja, çdo vit, në përdorim falas. Nxënësve, që ndjekin arsimin bazë në këto institucione, nga klasa e katërt deri në klasën e nëntë, u jepen tekstet shkollore në përdorim falas.
 b) Nxënësit në arsimin e mesëm të lartë në institucionet arsimore publike, që u përkasin kategorive të mëposhtme:
 i. Kanë përfituar statusin e jetimit;
 ii. Vijnë nga familje të cilat trajtohen me ndihmë ekonomike dhe pagesë papunësie nga zyrat e punësimit;
