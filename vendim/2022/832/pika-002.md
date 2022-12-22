@@ -1,0 +1,1 @@
+2. Ministria e Arsimit dhe Sportit i transferon Federatës Shqiptare të Futbollit (FSHF) në llogarinë e saj në një bankë të nivelit të dytë, fondin e përcaktuar në pikën 1 të këtij vendimi, pas përcjelljes nga ana e FSHF-së së dokumentacionit justifikues, në masën e shumës që transferohet.
