@@ -1,0 +1,1 @@
+1. I huaji, sipas përcaktimeve të nenit 29 dhe nenit 136 të ligjit nr. 79/2021 “Për të huajt”, regjistrohet brenda 10 ditëve nga dita e hyrjes, pranë autoritetit përgjegjës vendor për kufirin dhe migracionin ku ka vendqëndrimin, nëpërmjet formularit të plotësuar sipas modelit në aneksin nr. 1 të këtij udhëzimi.
