@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Selenicë, për njësinë administrative Brataj, të pasurisë nr. 490/48, me vendndodhje në zonën kadastrale 1265, sipas formularit dhe planit të rilevimit bashkëlidhur këtij vendimi, me qëllim për t’u përdorur për interes vendor.

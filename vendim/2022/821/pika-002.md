@@ -1,0 +1,1 @@
+2. Pasuria e përcaktuar në pikën 1, të këtij vendimi, i shtohet listës së inventarit të miratuar me vendimin nr. 195, datë 6.3.2013, të Këshillit të Ministrave, “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të Bashkisë Selenicë të Qarkut Vlorë”.
