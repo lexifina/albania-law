@@ -1,0 +1,1 @@
+2. Urdhri nr. 558, datë 22.11.2022, “Për importin e kafshëve të llojit derra, produkteve, nënprodukteve të tyre, materialit biologjik, embrioneve, mishit dhe nënprodukteve të tyre nga Maqedonia e Veriut”, shfuqizohet.
