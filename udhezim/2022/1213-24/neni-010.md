@@ -1,0 +1,6 @@
+# Neni 10
+Vlefshmëria, ndryshimi, rinovimi i deklaratës së njohjes së një qendre formimi profesional
+1. Deklarata e njohjes së qendrës së formimit profesional është e vlefshme për 5 vjet.
+2. Qendra e trajnimit që zotëron deklaratë të vlefshme njohjeje, mund të kërkojë në çdo kohë për të zgjeruar fushëveprimin e detyrave të trajnimit. Duke u bazuar në dokumentet e duhura plotësuese të ofruara nga kërkuesi, lëshohet një deklaratë njohjeje e ndryshuar por pa ndryshuar datën e vlefshmërisë.
+3. Kur kërkesat për një ose më shumë detyra trajnimi të specifikuara në deklaratën e njohjes nuk përmbushen më, qendra e njohur e trajnimit duhet të ndërpresë menjëherë trajnimin, në lidhje me detyrat në fjalë dhe të informojë me shkrim Autoritetin, i cili vlerëson informacionin dhe lëshon një deklaratë të ndryshuar të njohjes, por pa ndryshuar datën e vlefshmërisë.
+4. Deklarata e njohjes rinovohet me kërkesë të qendrës së formimit profesional, duke dorëzuar të dhënat e aktiviteteve të trajnimit të kryera gjatë dy viteve të mëparshme dhe lëshohet në të njëjtat kushte si deklarata fillestare e njohjes. Kur periudha e mëparshme e vlefshmërisë është shkurtuar në më pak se 2 vjet, në përputhje me pikën 1, duhet të dorëzohen të dhënat për të gjithë periudhën.
