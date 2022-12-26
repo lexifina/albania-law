@@ -1,0 +1,27 @@
+{
+  "qbz_id": 19462,
+  "title": "Vendim Nr.723 Dt.19.11.1998",
+  "type": "Vendim",
+  "number": "723",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1998-11-19",
+  "version_no": 1,
+  "qbz_version_id": 2160,
+  "in_force": "2022-12-26",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2022-12-26",
+  "changed_by_qbz_id": 66627,
+  "changed_by_number": "885",
+  "changed_by_title": "Për një ndryshim në vendimin nr. 723, datë 19.11.1998, të Këshillit të Ministrave, “Për zbatimin e ligjit nr. 7889, datë 14.12.1994, “Për statusin e invalidit”, të ndyshuar”",
+  "source": "https://qbz.gov.al/files/3fabd7f16f2397abede312f14a8b5807a5bf361d14069d93c927587f5c1e71a9.docx",
+  "source_sha256": "3fabd7f16f2397abede312f14a8b5807a5bf361d14069d93c927587f5c1e71a9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19462",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/19462/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
