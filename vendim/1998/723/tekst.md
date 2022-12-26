@@ -2,7 +2,9 @@
 
                                                 Nr.723, datë  19.11.1998
 
-(ndryshuar me vendimin nr. 687, datë 15.12.2000; nr.874, datë 18.6.2008; nr.1692, datë 17.12.2008; nr. 885, datë 27.12.2022)
+PËR ZBATIMIN E LIGJIT NR.7889, DATË 14.12.1994 “PËR STATUSIN E INVALIDIT”
+
+(Ndryshuar me vendimin nr. 183, datë 15.4.1999; nr. 687, datë 15.12.2000; nr.874, datë 18.6.2008; nr.1692, datë 17.12.2008; nr. 885, datë 27.12.2022)
 
 (I përditësuar)
 
@@ -13,6 +15,8 @@ Në zbatim të ligjit nr.7889, datë  14.12.1994 “Për statusin e invalidit”
 1. Përfitojnë rimbursimin e shpenzimeve për blerjen e karburanteve dhe të lubrifikanteve, 
 
 invalidët që kanë mjete motorike për invalidë.
+
+Përfitojnë rimbursimin e shpenzimeve, për blerjen e karburanteve dhe të lubrifikantëve, edhe ata invalidë, që nuk përcaktohen si të tillë në nenin 1, të ligjit nr.7889, datë  14.12.1994 “ Për statusin e invalidit”, por që për arsye riaftësimi janë pajisur nga Instituti i Sigurimeve Shoqërore me mjete motorike, para vitit 1994.
 
  2. E drejta e invalidëve për të përfituar rimbursimin e shpenzimeve, për blerjen e karburanteve dhe të lubrifikanteve, përcaktohet nga komisionet mjekësore  të caktimit të aftësisë për punë, pranë Institutit të Sigurimeve Shoqërore dhe organeve rajonale në varësi të tij, sipas kritereve të përcaktuara nga ky Institut.
 
