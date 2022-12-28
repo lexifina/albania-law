@@ -1,1 +1,1 @@
-1. Ministritë dhe institucionet qendrore të paraqesin në Ministrinë e Financave - Drejtorinë e Përgjithshme të Thesarit kërkesën për shpronësim, e cila duhet të ketë bashkëngjitur vendimin e Këshillit të Ministrave për shpronësimin e kërkuar.
+1. Agjencia Shtetërore për Shpronësimin nëpërmjet Ministrisë së infrastrukturës dhe Energjisë paraqet në strukturën përgjegjëse për Thesarin në qendër, pranë Ministrisë së Financave dhe Ekonomisë, kërkesën për shpronësim, e cila duhet të ketë bashkëngjitur vendimin e Këshillit të Ministrave për shpronësimin e kërkuar.
