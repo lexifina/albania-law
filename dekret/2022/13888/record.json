@@ -1,0 +1,26 @@
+{
+  "qbz_id": 25353,
+  "title": "Për një ndryshim në dekretin nr. 13872, datë 17.11.2022, \"Për lënien e shtetësisë shqiptare\"",
+  "type": "Dekret",
+  "kind": "Akt ndryshues",
+  "number": "13888",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2022-12-23",
+  "published": "2022-12-28",
+  "in_force": "2022-12-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3e5fc1f9f4575358ca531f6ff6f7961ee10d00225dc3f25806b883a09e9ee0b7.docx",
+  "source_sha256": "3e5fc1f9f4575358ca531f6ff6f7961ee10d00225dc3f25806b883a09e9ee0b7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25353",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2022/12/23/13888",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
