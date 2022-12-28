@@ -1,0 +1,1 @@
+5. Shërbimi Social Shtetëror, brenda datës 20 të çdo muaji pasardhës, përgatit listëpagesën me kontributet shoqërore dhe shëndetësore të personave që rezultojnë përfitues, ia përcjell Drejtorisë së Përgjithshme të Tatimeve, si edhe kryen pagesën sipas legjislacionit në fuqi.

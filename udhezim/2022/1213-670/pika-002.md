@@ -1,0 +1,1 @@
+2. Aplikimi dhe verifikimi për përfshirje në programin e veçantë të subvencionit nga shteti për pagesat e sigurimit të detyrueshëm shoqëror dhe shëndetësor bëhet në mënyrë elektronike, përmes shërbimit elektronik qeveritar e-Albania.

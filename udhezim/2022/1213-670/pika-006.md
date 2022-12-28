@@ -1,0 +1,1 @@
+6. Shërbimi Social Shtetëror të bashkëpunojë me Drejtorinë e Përgjithshme të Tatimeve, Institutin e Sigurimeve Shoqërore, Fondin e Sigurimeve të Detyrueshme të Kujdesit Shëndetësor dhe Agjencinë Kombëtare të Shkëmbimit të Informacionit për procedurat e përcaktuara në këtë udhëzim.
