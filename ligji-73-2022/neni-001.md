@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja ndryshuese e marrëveshjes Istisna’a dhe marrëveshja ndryshuese e marrëveshjes së Agjencisë Istisna’a ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Islamike për Zhvillim për ndërtimin e segmentit Qukës-Qafëplloçë, si pjesë e korridorit rrugor Tiranë-Korçë, ratifikuar me ligjin nr. 128/2013, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
