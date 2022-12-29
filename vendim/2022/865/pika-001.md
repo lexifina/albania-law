@@ -1,0 +1,1 @@
+1. Ky vendim rregullon kushtet, kriteret dhe procedurat e përfitimit, të individëve dhe familjeve, të cilët posedojnë ndërtime pa leje me funksion banimi, që pësojnë dëme, për shkak të fatkeqësive natyrore.

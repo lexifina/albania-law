@@ -1,0 +1,1 @@
+3. Brenda 30 (tridhjetë) ditëve nga paraqitja e kërkesës nga organi përgjegjës/njësia zbatuese, drejtoria vendore e ASHK-së evidenton në terren ndërtimet pa leje dhe verifikon, nëse për to është paraqitur kërkesë për legalizim. Kur rezulton se është paraqitur kërkesë, brenda të njëjtit afat, kryhet dhe procedura e përjashtimit nga legalizimi.
