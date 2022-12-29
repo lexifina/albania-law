@@ -1,0 +1,1 @@
+1. Për plotësimin e nevojave të veçanta, në Gardën e Republikës pranohen ushtarakë të shërbimit aktiv të Forcave të Armatosura të Republikës së Shqipërisë dhe ushtarakë në rezervë, që mbajnë gradat ushtarake, sipas pikës 9, të këtij vendimi.

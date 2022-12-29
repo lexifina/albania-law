@@ -1,0 +1,3 @@
+5. Struktura përgjegjëse për burimet njerëzore në Drejtorinë e Përgjithshme të Gardës së Republikës kryen një verifikim paraprak të kërkesës dhe brenda 3 (tri) ditëve nga përfundimi i afatit për paraqitjen e saj kryen veprimet e mëposhtme:
+a) Kur kërkesa është paraqitur, sipas parashikimeve të këtij vendimi, njofton me shkrim ushtarakun për vazhdimin e procedurës për ekuivalentimin e gradës;
+b) Kur kërkesa nuk është paraqitur, sipas parashikimeve të këtij vendimi, njofton kandidatin për plotësimin e të metave brenda 5 (pesë) ditëve nga marrja e njoftimit. Në këtë rast, struktura përgjegjëse për burimet njerëzore në Drejtorinë e Përgjithshme të Gardës së Republikës ndihmon në mënyrë aktive ushtarakun për plotësimin e të metave të konstatuara.

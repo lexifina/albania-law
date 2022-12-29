@@ -1,0 +1,1 @@
+7. Kundër vendimit të drejtorit të Përgjithshëm të Gardës së Republikës, sipas pikës 6, të këtij vendimi, mund të paraqitet ankim pranë ministrit përgjegjës për çështjet e rendit dhe sigurisë publike, në përputhje me rregullat e parashikuara në Kodin e Procedurave Administrative.

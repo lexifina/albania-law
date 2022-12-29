@@ -1,0 +1,1 @@
+2. Pas përfundimit të procedurës së konkurrimit për funksione të veçanta të ushtarakëve, të përcaktuar në pikën 1, të këtij vendimi, Garda e Republikës njofton ushtarakun aktiv ose ushtarakun në rezervë për miratimin e pranimit.

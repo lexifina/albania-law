@@ -1,0 +1,1 @@
+3. Brenda 3 (tri) ditëve nga njoftimi për miratimin e pranimit në Gardën e Republikës, ushtaraku i Forcave të Armatosura paraqet kërkesën për ekuivalentimin e gradës ushtarake me gradën e Gardës së Republikës.
