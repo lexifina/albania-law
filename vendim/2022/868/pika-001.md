@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksion i rrugës ekzistuese ’Grigor Nosi’, ’Hasan Ali Kopili’ dhe ’Xhaferr Duhanxhiu’ në ZK 8527”.
