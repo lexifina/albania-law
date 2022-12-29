@@ -1,0 +1,1 @@
+2. Ministri përgjegjës për financat, me udhëzim, përcakton kufirin financiar të vlerës së plotë të projektit në përputhje me specifikat e sektorit, mbi bazën e të cilit, përcaktohet mënyra dhe procedura e vlerësimit të projektit të investimit publik.

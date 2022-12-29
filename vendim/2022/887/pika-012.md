@@ -1,0 +1,1 @@
+12. Monitorimi dhe raportimi i ecurisë së zbatimit të projekteve të investimeve kryhen, sipas afateve dhe procedurave specifike, që jepen në aneksin 2, që i bashkëlidhet këtij vendimi dhe udhëzimet përkatëse të monitorimit të buxhetit të shtetit.
