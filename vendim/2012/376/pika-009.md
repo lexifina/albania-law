@@ -1,1 +1,0 @@
-9. Kërkuesi, që paraqet kërkesë për kryerjen e një shërbimi nga Zyra e Regjistrimit të Pasurive të Paluajtshme, pajiset me një numër identifikimi të kërkesës dhe kodin e sigurisë, me anë të të cilëve mund të verifikojë gjendjen e trajtimit të kërkesës së tij.

@@ -1,1 +1,0 @@
-5. Kryeregjistruesi miraton, me udhëzim, procedurat standarde të veprimeve me regjistrin elektronik të përpunimit të kërkesave, përfshirë përshkrimin e veprimeve të kryera nga zyra, që pasqyrohen në këtë regjistër. Minimalisht, në regjistër regjistrohen numri i kërkesës, data e paraqitjes dhe data e përfundimit të afatit për trajtim, sipas rendit kronologjik.

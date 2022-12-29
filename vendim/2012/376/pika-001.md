@@ -1,1 +1,0 @@
-1. Kërkesa për kryerjen e një shërbimi nga Zyra e Regjistrimit të Pasurive të Paluajtshme, në zbatim të ligjit nr. 33/2012 “Për regjistrimin e pasurive të paluajtshme”, bëhet nga kërkuesi, vetë ose nëpërmjet përfaqësuesit të tij, noteri apo asistenti i noterit.
