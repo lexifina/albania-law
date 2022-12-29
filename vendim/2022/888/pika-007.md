@@ -1,0 +1,1 @@
+7. Agjencia shtetërore përgjegjëse për pyjet bën vlerësimin e saktësisë së raportit tekniko-ekonomik, sipas informacionit të regjistrit kombëtar të fondit pyjor dhe sistemit ALFIS dhe e përcjell këtë vlerësim në ministri, brenda 10 (dhjetë) ditëve pune.

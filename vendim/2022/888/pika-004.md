@@ -1,0 +1,1 @@
+4. Mosplotësimi i dokumentacionit të kërkuar brenda afatit të përcaktuar në pikën 3, të këtij kreu, përbën shkak për mospranimin e kërkesës. Kërkuesi njoftohet nëpërmjet portalit qeveritar e-Albania për arsyet e refuzimit, si dhe për të drejtën e ankimimit në përputhje me legjislacionin në fuqi për ankimimet administrative. Procedurat për të njëjtën kërkesë fillojnë nga e para.

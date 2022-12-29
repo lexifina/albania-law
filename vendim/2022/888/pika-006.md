@@ -1,0 +1,1 @@
+6. Njësia e vetëqeverisjes vendore, brenda 30 (tridhjetë) ditëve nga data e administrimit të kërkesës, përcjell pranë ministrisë përgjegjëse për pyjet raportin tekniko-ekonomik së bashku me vendimin e Këshillit Bashkiak, i cili jep pëlqimin ose jo për vazhdimin e procedurës së ndryshimit të kategorisë së përdorimit të sipërfaqes pyjore në pronësi të saj ose private.
