@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Korçë, pezullon të gjitha transaksionet me pasuritë e shpronësuara, deri në momentin e realizimit të procesit të hedhjes së gjurmës së projektit mbi hartën kadastrale dhe regjistrimit të aktit të kalimit të pronësisë në favor të Bashkisë Korçë për pasuritë e shpronësuara.
