@@ -1,0 +1,2 @@
+# Neni 10
+Shuma e sigurimit llogaritet duke mbuluar të paktën çdo shpenzim të nevojshëm e të domosdoshëm për kryerjen e punimeve të reja, si dhe shpenzimet shtesë të kryera nga zhvilluesi ose organet e administratës publike, që kanë rrjedhur si pasojë e zbatimit të punimeve në kundërshtim me kontratën përkatëse për zbatimin e punimeve të ndërtimit, me dokumentet e planifikimit dhe zhvillimit, si dhe me legjislacionin në fuqi, që rregullon veprimtarinë e ndërtimit.
