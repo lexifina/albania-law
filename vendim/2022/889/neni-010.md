@@ -1,0 +1,7 @@
+# Neni 10
+Raportimi në Sekretariatin e Komuniteti të Energjisë
+1. RSH-ja raporton pranë Sekretariatit të Komunitetit të Energjisë informacion, për:
+a) politikat dhe masat kombëtare ose tërësinë e masave, të përcaktuara në shtojcën III, të këtij vendimi, deri më 15 mars 2023, dhe në vijim, një herë në dy vjet;
+b) projeksionet kombëtare antropogjene të GES-it, sipas burimeve dhe të përthithjes nga përthithësit, të organizuar sipas gazit apo grupit të gazeve (HFCs dhe PFCs), të listuara në shtojcën I, të ligjit, deri më 15 mars 2025 dhe më pas, një herë në dy vite. Projeksionet kombëtare marrin në konsideratë të gjitha politikat dhe masat e detyruara për t’u zbatuar, të cilat janë miratuar nga ana e Komunitetit të Energjisë dhe përfshijnë informacionin e përcaktuar në shtojcën IV, të këtij vendimi.
+2. Një herë në dy vite, deri më 15 mars, RSH-ja raporton projeksionet më të përditësuara të mundshme. Në pamundësi të dorëzimit të vlerësimeve të plota të projeksioneve brenda këtij afati dhe kur Sekretariati vlerëson se këto mangësi nuk është e mund të plotësohen nga RSH-ja, Sekretariati i Komunitetit të Energjisë përgatit vlerësime për të hartuar projeksionet e RSH-së, në bashkëpunim me këtë të fundit.
+3. RSH-ja i komunikon Sekretariatit çdo ndryshim thelbësor në informacionin e raportuar, sipas pikës 1, të këtij neni, gjatë vitit të parë të periudhës raportuese, brenda datës 15 mars të vitit që përkon me raportin e mëparshëm.

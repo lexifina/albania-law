@@ -1,0 +1,5 @@
+# Neni 11
+Raportimi i integruar për veprimet kombëtare për përshtatje ndaj ndryshimeve klimatike
+1. Duke filluar nga data 15 mars 2024, RSH-ja raporton çdo dy vjet pranë Sekretariatit informacionin për planin dhe strategjitë kombëtare të përshtatjes ndaj ndryshimeve klimatike, duke evidentuar masat e marra dhe ato të planifikuara për të lehtësuar përshtatjen ndaj ndryshimeve klimatike, duke përfshirë informacionin e parashikuar në shtojcën V, pjesa 1, në përputhje me kërkesat e raportimit të Konventës dhe Marrëveshjes së Parisit.
+2. Deri në datën 31 korrik 2023, e në vijim, një herë në vit (viti X), RSH-ja i raporton Sekretariatit të Komunitetit të Energjisë informacion për përdorimin e çdo të ardhure të krijuar nga mekanizmat e çmimit të karbonit, duke përfshirë informacionin e parashikuar në shtojcën V, pjesa 2.
+3. Informacioni i përcaktuar në pikën 1, të këtij neni, vihet në dispozicion të publikut/institucioneve shtetërore/aktorëve, që tregojnë aksionet e planifikuara apo të zbatuara për të lehtësuar përshtatjen ndaj ndryshimeve klimatike.
