@@ -257,3 +257,111 @@ SHUMA 2
 185,405,443
 TOTAL (1+2)
 445,657,671
+LISTA E PRONARËVE QË PREKEN NGA DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR. 769, DATË 20.12.2017, TË KËSHILLIT TË MINISTRAVE “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR ’UNAZA LINDORE TIRANË, LOTI Ⅲ (SHTESA)’”
+NR.
+PRONARI
+TË DHËNA HIPOTEKARE
+VLERËSIMET PËR SHPRONËSIM
+S H Ë N I M E (kufizime hipotekare, barrë mbi pasurinë etj.)
+ARË
+TRUALL
+NDËRTESË
+VLERA TOTALE (lek)
+Emri
+Atësia
+Mbiemri
+Fshati ose qyteti
+Z. kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sipërfaqja totale
+Arë (m2)
+Truall (m2)
+Ndërtesë (m2)
+Sipërfaqja (m2)
+Çmimi (lek/m2)
+Vlera (lek)
+Sipërfaqja (m2)
+Çmimi (lek/m2)
+Vlera (lek)
+Sipërfaqja (m2)
+Çmimi (lek/m2)
+Vlera (lek)
+A
+B
+C
+C
+Ç
+D
+E
+F
+G
+H
+I
+L
+M
+N
+O
+P
+Q
+Y
+Z
+1
+Vjollca
+Hajdar
+Alla
+TIRANË
+3976
+155/50
+ARE
+1180
+1180
+334
+448
+149,632
+149,632
+Konfirmuar nga ASHK-ja
+Avni
+Hajdar
+Qosja
+Myzejen
+Hajdar
+Miccolis
+Alime
+Qosja
+2
+Sadik
+Murat
+Luga
+TIRANË
+8180
+7/634
+Truall
+1500
+1500
+1,340
+31,270
+41,901,800
+41,901,800
+Konfirmuar nga ASHK
+3
+Adriana
+Muharrem
+Gega
+TIRANË
+8170
+8/523
+Truall
+520
+520
+85
+40
+90,000
+3,600,000
+3,600,000
+Konfirmuar nga ASHK-ja. Shpronësuar për truallin në VKM-në nr. 557, datë 27.5.2016
+Donald
+Bexhet
+Gega
+Vlera totale
+45,651,432
