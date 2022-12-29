@@ -1,1 +1,0 @@
-10. Për projektet e reja të investimeve publike shumëvjeçare, të miratuara si pjesë e dokumentit buxhetor afatmesëm, gjatë vitit të parë të zbatimit të tyre, në buxhetin e njësisë përkatëse të qeverisjes qendrore nuk duhet të alokohet më pak se 20 për qind e vlerës së plotë të projektit përkatës.

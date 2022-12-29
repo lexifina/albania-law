@@ -1,1 +1,0 @@
-9. Bazuar në DPP-në e miratuar nga Komiteti i Planifikimit Strategjik, ministria përgjegjëse për financat përgatit dokumentin e PBA-së, duke përfshirë prioritetet buxhetore, miratimin e politikave të reja dhe tavanin e vendosur të shpenzimeve, i cili i paraqitet për miratim Këshillit të Ministrave.
