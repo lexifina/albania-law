@@ -1,0 +1,1 @@
+2. Kërkesa për shërbime kadastrale bëhet nga kërkuesi, vetë apo nëpërmjet përfaqësuesit, sipas dispozitave të Kodit Civil të Republikës së Shqipërisë, si dhe nga noteri, në respektim të shkronjës “k”, të pikës 1, të nenit 63, të ligjit nr.110/2018, “Për noterinë”.

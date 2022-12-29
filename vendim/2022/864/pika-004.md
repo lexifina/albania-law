@@ -1,0 +1,1 @@
+4. Për kërkesat për shërbime kadastrale, për të cilat është njoftuar subjekti për kryerjen e pagesës së tarifës së shërbimit dhe nuk është konfirmuar kryerja e saj, ASHK-ja njofton subjektin për mosofrimin e shërbimit.

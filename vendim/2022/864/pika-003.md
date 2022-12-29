@@ -1,0 +1,8 @@
+3. “Përdorues i brendshëm i bazës shtetërore të të dhënave kadastrale” (ALBSCAD), është punonjësi i Agjencisë Shtetërore të Kadastrës, që ka të drejtën e përdorimit, administrimit dhe ruajtjes së të dhënave të pasurive të paluajtshme, në përputhje me vendimin nr.1179, datë 24.12.2020, të Këshillit të Ministrave, “Për rregullat e përdorimit, administrimit dhe ruajtjes së bazës së të dhënave për pasuritë e paluajtshme dhe për miratimin e listës së institucioneve që kanë të drejtën e aksesit në sistemin elektronik të të dhënave”.
+II. RREGULLAT E PROCEDURËS SË TRAJTIMIT TE KERKESAVE
+1. Kërkesa për shërbime kadastrale pranohet vetëm on-line, nëpërmjet portalit qeveritar “e-Albania” dhe sistemeve elektronike të regjistruara si baza të të dhënave shtetërore.
+2. Me dërgimin e kërkesës për shërbime kadastrale, ajo regjistrohet në mënyrë automatike në regjistrin elektronik të kërkesave dhe trajtohet nga drejtoria/zyra vendore e ASHK-së, sipas kompetencave të përdoruesve të brendshëm të bazës shtetërore të të dhënave kadastrale (ALBSCAD).
+3. Trajtimi i kërkesave për shërbime kadastrale bëhet në mënyrë kronologjike, dhe llogaritja e afateve për marrjen e këtyre shërbimeve fillon nga e nesërmja e ditës së konfirmimit bankar të pagesës së tarifës së shërbimit. Përjashtohen këtu:
+a) Shërbimet kadastrale që gjenerohen në mënyrë automatike nga baza shtetërore e të dhënave kadastrale (ALBSCAD);
+b) Shërbimet që ofrohen për institucionet shtetërore me paspagim, sipas vendimit nr. 389, datë 13.5.2020, të Këshillit të Ministrave, “Për miratimin e listës dhe të shërbimeve kadastrale”, të ndryshuar;
+c) Shërbimet për të cilat dokumentacioni shoqërues përcillet nëpërmjet shërbimit postar.

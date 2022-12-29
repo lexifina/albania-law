@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim miratimin e rregullave për procedurën e trajtimit nga Agjencia Shtetërore e Kadastrës të kërkesave për shërbime kadastrale që paraqiten nga pronari i pasurisë së paluajtshme, titullari i një të drejte reale apo personi fizik/juridik, që ka një interes të ligjshëm mbi një pasuri të paluajtshme.

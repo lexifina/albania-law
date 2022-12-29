@@ -1,0 +1,7 @@
+6. Drejtoritë/zyrat vendore të ASHK-së ofrojnë vetëm në mënyrë digjitale shërbimet kadastrale për të cilat është kryer konfirmimi i pagesës së tarifës, sipas afateve të miratuara. Ato pranojnë kërkesën duke dhënë shërbimin kadastral ose kërkojnë plotësimin e mangësive të dokumentacionit, sipas pikës 26, të vendimit nr.782, datë 7.10.2020, të Këshillit të Ministrave, “Për miratimin e modeleve të akteve kadastrale dhe të dhënave në përmbajtje të hartës kadastrale”.
+III. DISPOZITA TË FUNDIT
+1. Modeli i kërkesës për shërbime kadastrale, në përputhje me pikën 1, të nenit 29, të ligjit nr.111/2018, “Për kadastrën”, miratohet nga Drejtoria e Përgjithshme e Agjencisë Shtetërore të Kadastrës. Drejtori i Përgjithshëm miraton me udhëzim procedurat standarde të veprimeve me regjistrin elektronik të kërkesave.
+2. Shlyerja e pagesave të tarifave për shërbime kadastrale bëhet në llogarinë bankare të drejtorisë/zyrës vendore përkatëse të ASHK-së, ku kërkohet shërbimi, sipas vendimit nr. 389, datë 13.5.2020, të Këshillit të Ministrave, “Për miratimin e listës dhe të tarifave të shërbimeve kadastrale”, të ndryshuar.
+3. Vendimi nr. 376, datë 6.6.2012, i Këshillit të Ministrave, “Për procedurën e lëshimit të dokumenteve nga zyrat e regjistrimit të pasurive të paluajtshme”, të ndryshuar, shfuqizohet.
+4. Ngarkohet Agjencia Shtetërore e Kadastrës për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
