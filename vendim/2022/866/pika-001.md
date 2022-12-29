@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “Sistemim, asfaltim e masa inxhinierike në km 21+050-22+050, në rrugën ’Qafëthanë-Lin-Pogradec’”.
