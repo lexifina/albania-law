@@ -1,0 +1,1 @@
+1. Ky vendim rregullon përcaktimin e të dhënave që do të regjistrohen si të dhëna parësore dhe dytësore në Regjistrin Elektronik të Profesionistëve të Licencuar (në vijim Regjistri elektronik), që ushtrojnë veprimtarinë e tyre në fushën e planifikimit, zhvillimit dhe disiplinimit të punimeve të ndërtimit pavarësisht nëse janë të regjistruar si persona fizikë ose juridik.

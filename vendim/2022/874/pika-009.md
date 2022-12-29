@@ -1,0 +1,1 @@
+9. Çdo veprim në Regjistrin elektronik lidhur me aksesin, ndryshimin, korrigjimin apo përhapjen e të dhënave duhet të lërë gjurmë, me qëllim garantimin e sigurisë dhe konfidencialitetit të të dhënave personale.

@@ -1,0 +1,1 @@
+13. AKSHI, në cilësinë e autoritetit rregullator koordinues të bazave të të dhënave shtetërore, është përgjegjës për krijimin e kushteve të nevojshme teknike dhe organizative, që sigurojnë ndërveprimin e Regjistrit elektronik me bazat e tjera të të dhënave shtetërore.
