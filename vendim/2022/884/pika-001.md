@@ -1,0 +1,1 @@
+1. Miratimin e planit të shpenzimeve, për vitin 2023, të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura, në shumën 56 403 200 (pesëdhjetë e gjashtë milionë e katërqind e tre mijë e dyqind ) lekë, sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi.
