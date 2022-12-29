@@ -18,7 +18,7 @@ Modeli Shqiptar i Tregut merr në konsideratë:
 - nevojën për të hartuar dhe zbatuar rregulla për kryerjen e transaksioneve në tregje transpa-rente dhe jodiskriminuese, për të shmangur manipulimin dhe abuzimin e tregut, si dhe kryerjen e tregtimit të brendshëm, në përputhje me praktikat më të mira evropiane;
 - integrimin e tregut shqiptar të energjisë elektrike me tregun rajonal të Evropës Jug-lindore, dhe, më vonë, me tregun evropian të energjisë elektrike, i cili do të jetë një udhëzues i parimeve të funksionimit të këtij tregu.
 Në këtë Model, termat e mëposhtëm kanë këto kuptime:
-“Bursa Shqiptare e Energjisë” - platforma e organizuar për shitjen dhe blerjen e energjisë elektrike në bazë të ditës në avancë dhe/ose brenda së njëjtës ditë;
+“Operatori i tregut - Bursa Shqiptare e Energjisë (BSHE)” është struktura përgjegjëse për menaxhimin dhe operimin e tregut të organizuar me shumicë të energjisë elektrike nëpërmjet platformës elektronike të tregtimit, platformës elektronike të klerimit dhe të shlyerjeve financiare për tregjet e ankandeve të ditës në avancë dhe brenda së njëjtës ditë, si dhe tregjeve të vazhdueshme brenda së njëjtës ditë, ndërmjet anëtarëve të Bursës, në përputhje me modelin e tregut të energjisë elektrike dhe rregullat e tregut të energjisë elektrike;
 “Treg energjie elektrike” - një sistem ku kryhen shitje dhe blerje efektive, përfshirë edhe derivativët e energjisë elektrike, nëpërmjet kërkesave dhe ofertave, të paraqitura në periudha afatgjata dhe afatshkurtra;
 “SEE CAO” - Zyra e Koordinuar e Ankandeve në Evropën Juglindore, e krijuar në Podgoricë, Mali i Zi, dhe që ka kompetencë kryerjen e ankandeve të kapaciteteve të transmetimit të OST-ve pjesëmarrëse në këtë zyrë;
 “Kontratë për diferencë” (CfD) - një marrëveshje tip, e miratuar nga Këshilli i Ministrave, ndërmjet operatorit të energjisë së rinovueshme dhe prodhuesit të energjisë nga burimet e rinovueshme, i cili është deklaruar ofertuesi i suksesshëm në ankandin për të marrë ndihmë operacionale dhe në investime;
@@ -51,15 +51,13 @@ iii) funksionimit të tregut të energjisë si treg i energjisë balancuese, mb�
 iv) sigurimit të likuiditetit të nevojshëm, duke nxitur masa për një funksionim efikas të tregut/tregjeve të flukseve fizike të energjisë;
 v) rritjes së efikasitetit dhe qëndrueshmërisë së sektorit, duke qartësuar përgjegjësitë dhe detyrimet, si dhe duke siguruar informacion të mjaftueshëm në lidhje me operimin e tregut dhe krijimin e një strukture të qartë për transaksionet e tregut të energjisë elektrike.
 Parimet kryesore të modelit të tregut, janë:
-- zbatimi i parimit të kostos marxhinale të ofertave në tregjet e organizuara, si pjesë e mbikëqyrjes së tregut, me qëllim shmangien e abuzimit në treg;
+- zbatimi i mbikëqyrjes dhe monitorimit të tregut, me qëllim shmangien e abuzimit në treg;
 - funksionimi si një treg i organizuar i ditës në avancë dhe tregut brenda ditës, për tregtimin e flukseve fizike të energjisë elektrike, në periudhën kohore të ditës në avancë;
 - tregtimi i kontratave fizike afatgjata dypalëshe do të lejohet në përputhje me kapacitetin e blerë dhe të nominuar në ankandet eksplicite të organizuara nga SEE CAO;
-- të gjitha format e tjera të tregtimit do të jenë vetëm financiare;
+- të gjitha format e tjera të tregtimit mund të jenë financiare ose fizike;
 - marrëdhëniet kontraktuale janë skemat bazë që shërbejnë për menaxhimin e marrëdhënieve ndërmjet subjekteve të ndryshme në treg.
-Objektivi përfundimtar i modelit të tregut është të integrojë tregun energjetik shqiptar në bashkimin e tregut panevropian. Deri në përmbushjen e këtij objektivi, si një zgjidhje e përkohshme,:
-- përdorimi i zonave të import/eksportit nënkupton caktimin e ditës në avancë në kapacitetin e import/eksportit nëpërmjet tregut, ku OST-ja vë në dispozicion, si pjesë e shpërndarjes së kapacitetit të tyre të përditshëm, një sasi minimumi (50%) të kapacitetit në dispozicion të tregut e organizuar. Sasia e vlerës minimale duhet të rishikohet në baza mujore. Vlera minimale mund të ndryshohet në bazë të një vlerësimi të përcaktuar nga ana e OST-së, miratuar nga ERE;
-- detyrimet për pjesëmarrjen në të, të KESH-it dhe OSHEE-së, ku vëllimet e reduktuara nga kontrata aktuale e furnizimit KESH-OSHEE, bëhen të detyrueshme për t’u tregtuar në tregun e organizuar. Bazuar në një vlerësim nga ERE, një pjesë ose i gjithë volumi i kësaj kontrate do të mund të zbatohet si një kontratë për diferencë (CFD);
-- qeveria e Shqipërisë do të ofrojë skemat mbështetëse, në përputhje me acquis përkatëse të Komunitetit të Energjisë, në formën e kontratave për diferencë (CFDs) për prodhuesit e pavarur të energjisë elektrike dhe furnizuesit e energjisë së rinovueshme, për të zëvendësuar marrëveshjet e tyre aktuale për blerje të energjisë, duke i lejuar ata të bëhen Palë Përgjegjëse Balancuese (PPB), sipas modelit të tregut. Çdo ndryshim në skemën mbështetëse do të përcaktohet në ligjin për burimet e rinovueshme.
+Për përmbushjen e këtij objektivi kërkohet:
+- OST-ja të vendosë në dispozicion të tregut të organizuar një sasi minimum (50%) të kapaciteteve ndërkufitare të disponueshme, që i përket bashkimit respektiv të tregjeve. Sasia e vlerës minimale duhet të rishikohet në vijueshmëri dhe mund të ndryshohet në bazë të një vlerësimi të propozuar nga ana e OST-së dhe të miratuar nga ERE. BSHE-ja ka të drejtë t’i kërkojë OST-së iniciimin e procesit të mësipërm të rishikimit të sasisë minimale.
 Marrëdhëniet dhe roli i pjesëmarrësve të tregut në operimin fizik të modelit të tregut përcaktohen me marrëveshje ndërmjet pjesëmarrësve individualë dhe BSHE-së e OST-së, ose rregullohet nëpërmjet marrëveshjeve standarde të zbatueshme dypalëshe.
 3. Rolet e modelit të tregut
 3.1 Operatori i Sistemit të Transmetimit (OST)
@@ -90,32 +88,47 @@ Të gjitha subjektet juridike, që zotërojnë njësi të prodhimit dhe konsumit
 Çdo subjekt juridik, që zotëron njësi të gjenerimit dhe konsumit, të lidhura me rrjetin dhe nën një kapacitet të caktuar nga OST-ja dhe të miratuar nga ERE, mund të aplikojnë për t’u bërë një PPB.
 Çdo tregtar, që tregton në Shqipëri apo që furnizon energjinë ndërkufitare, është PPB.
 PPB-ja lejohet të skedulojë kontratat dypalëshe fizike për të blerë/shitur kapacitet e shpërndara në SEE CAO.
-Të gjitha tregtimet e brendshme afatgjata OTC do të bazohen në një kontratë financiare, ku energjia elektrike fizike do të tregtohet nga BSHE-ja dhe çmimi i BSHE-së do të jetë çmimi i referencës për kontratën financiare. ERE do të miratojë kontratën tip financiare OTC.
+Tregtimet e brendshme afatgjata OTC mund të bazohen në një kontratë financiare ose fizike. Në rast kur OTC-ja bazohet në një kontratë financiare, energjia elektrike fizike do të tregtohet nga BSHE-ja dhe çmimi i BSHE-së do të jetë çmimi i referencës për kontratën financiare. ERE do të miratojë kontratën tip financiare OTC.
 Të gjitha PPB-të do të jenë përgjegjëse për llogaritjet e disbalancave.
 Një PPB mund të marrë përgjegjësitë e PPB-ve të tjera ose të njësive të prodhimit dhe konsumit nën një kapacitet të miratuar.
 Të gjitha PPB-të janë përgjegjëse për parashikimin e tyre të prodhimit dhe konsumit.
 Të gjitha PPB-të janë të detyruara të mbrojnë informacionin konkurrues dhe konfindencial, kur është e nevojshme, si dhe çdo informacion të kërkuar nga ERE dhe OST-ja, sipas legjislacionit në fuqi.
 Çdo palë që do të ushtrojë aktivitetin e furnizuesit është e detyruar të jetë PPB.
+BSHE do të trajtohet si PPB me të drejta të veçanta, sipas parashikimeve në Rregullat e Tregut Shqiptar të Balancimit (RrTSHB). OST-ja ngarkohet të reflektojë këto parashikime në RrTSHB.
 3.4 Ofruesi i Shërbimeve të Balancimi (OSB)
 OSB-ja është një PPB që ofron shërbime balancimi për OST-në.
 Kushtet dhe kriteret për t’u bërë OSB përcaktohen nga OST-ja dhe rregullohen në një marrëveshje ndërmjet OSB-së dhe OST-së.
-3.5 Bursa Shqiptare e Energjisë
-Bursa e energjisë kryen këto funksione:
-a) siguron të gjitha sistemet dhe ndërveprimet e nevojshme për operimin BSHE (tregun e ditës në avancë);
-b) pranon aplikime dhe oferta për të blerë dhe shitur energji nga PPB-të;
-c) merr dhe proceson kapacitetet e inteko-njeksionit nga OST-ja, si dhe informacione të tjera përkatëse;
-ç) kryen ankandet e nevojshme dhe operacionet tregtare, në përputhje me rregullat e miratuara, duke përdorur për këtë qëllim algoritmat e evropean market coupling;
-d) i dërgon PPB-ve përkatëse dhe OST-së, sipas afateve të përcaktuara, konfirmimet tregtare, duke përfshirë sasitë e alokuara dhe çmimet;
+3.5. BSHE kryen funksionet:
+a) e Operatorit të Tregut në Shqipëri, sipas parashikimeve të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, të këtij vendimi dhe rregullave të tregut, me licencimin nga ERE-ja;
+b) e sigurimit të platformës elektronike të nevojshme për tregtimin e energjisë elektrike në tregun e ditës në avancë dhe tregjet brenda së njëjtës ditë;
+c) e sigurimit të platformës elektronike të klerimit dhe shlyerjes financiare të transaksioneve në tregjet e BSHE-së;
+ç) e kundërpalës qendrore në garantimin e transaksioneve të palëve të tjera pjesëmarrëse në Bursë, nëpërmjet kërkesave të saj, rregullave përkatëse të tregut për nevojën e garancive, llojeve të tyre, të cilat do të ekzekutohen nga BSHE-ja, në rast të mospërmbushjes së detyrimeve;
+d) e monitorimit dhe mbikëqyrjes së tregut të organizuar, në përputhje me kërkesat e rregullores për integritet, transparencë (REMIT);
+dh) e hartuesit të rregullave për tregtimin në Bursë, për t’u paraqitur për aprovim tek ERE-ja.
+Në kuadër të përmbushjes së këtyre funksioneve, BSHE-ja kryen këto detyra:
+a) siguron të gjitha platformat e mësipërme për operimin e tregjeve të BSHE-së;
+b) pranon kërkesa dhe oferta për të blerë dhe shitur energji nga anëtarët e Bursës;
+c) merr dhe proceson kapacitetet e interkonjeksionit nga OST-ja, si dhe informacione të tjera përkatëse;
+ç) kryen ankandet e nevojshme dhe operacionet tregtare, në përputhje me rregullat e miratuara, duke përdorur për këtë qëllim, algoritmet e Evropean Market Coupling;
+d) i dërgon anëtarëve përkatës të Bursës/anëtarëve të klerimit dhe OST-së, sipas afateve të përcaktuara, konfirmimet tregtare, duke përfshirë sasitë e alokuara dhe çmimet;
 dh) publikon sasitë e shpërndara dhe çmimet përkatëse, sipas afateve të përcaktuara;
-e) i dërgon PPB-ve përkatëse dhe OST-së, në përputhje me afatin e rënë dakord, njoftimet e kredive, llogaritë financiare;
-ë) ekzekuton mjetet e shtrëngimit dhe pagesat për PPB-të përkatëse, në përputhje me rregullat dhe afatet e përcaktuara;
+e) i dërgon anëtarëve përkatës të Bursës/anëtarëve të klerimit , në përputhje me afatin e rënë dakord, njoftimet e rezultateve;
+ë) ekzekuton garancitë për shlyerjen e detyrimeve për anëtarët përkatës të Bursës/klerimit, në përputhje me rregullat dhe afatet e përcaktuara;
 f) mban dokumentet e transaksioneve;
-g) mban dhe përditëson kalendarin e tregtimeve;
+g) mban dhe përditëson kalendarin e tregtimeve dhe të klerimeve;
 gj) respekton kërkesat për transparencë dhe ushtron kompetenca të monitorimit të tregut;
-h) garanton që platforma tregtare është e aksesueshme nga gjitha palët e interesuara.
-Bursa e energjisë mund të kontraktojë kryerjen e një apo më shumë shërbimeve të sipërcituara nga çdo subjekt që mund të ushtrojë këtë aktivitet, në përputhje me licencën e lëshuar nga ERE.
-Si pjesë e krijimit të Bursës Shqiptare të Energjisë do të implementohet ndarja ligjore dhe financiare e Operatorit të Tregut nga OST-ja, deri më 31 dhjetor 2017, siç është përcaktuar në ligjin për sektorin e energjisë elektrike.
-Për krijimin e Bursës Shqiptare të Energjisë do të implementohet plani i masave, i përcaktuar në anekset 1 dhe 2, të këtij modeli.
+h) garanton që platformat e BSHE-së janë të aksesueshme nga personat e certifikuar nga BSHE-ja;
+i) të vlerësojë kërkesat për anëtarësim në BSHE, në përputhje me kërkesat e anëtarësimit;
+j) të lidhë marrëveshje me aplikantët për pranimin e tyre në BSHE, në përputhje me kërkesat e anëtarësimit;
+k) të konsultojë në vazhdimësi me palët e interesuar rregullat eBSHE, për çdo ndryshim të nevojshëm;
+l) të procesojë urdhërporositë nga anëtarët e Bursës, duke i dërguar ato tek Operatori i Bashkimit të Tregjeve, për procesimin e nxjerrjes së rezultateve, duke përdorur algoritmet evropiane;
+ll) të publikojë volumet e energjisë elektrike të alokuara dhe çmimet përkatëse, sipas afateve të përcaktuara;
+m) të regjistrojë të gjitha transaksionet mbi tregjet e BSHE-së, të cilat do të jenë automatikisht të detyrueshme për t’u shlyer;
+n) të marrë vendimet e nevojshme për integritetin dhe operimin e rregullt, duke përfshirë:
+i. monitorimin e përputhshmërisë së anëtarëve të Bursës me rregullat dhe procedurat e BSHE-së;
+ii. kryerjen e auditimeve dhe inspektimeve për aktivitetet e anëtarëve të Bursës.
+Bursa Shqiptare e Energjisë kontrakton kryerjen e një apo më shumë shërbimeve të sipërcituara nga çdo subjekt që mund të ushtrojë këtë aktivitet, në përputhje me licencën e lëshuar nga ERE-ja.
+Bursa Shqiptare e Energjisë zbaton planin e masave për implementimin e Tregut Shqiptar të Energjisë Elektrike, të përcaktuar në aneksin 1, që i bashkëlidhet këtij vendimi.
 4. Roli i rregullatorit të pavarur (ERE)
 ERE ushtron kompetencat e saj në zbatim të ligjit për sektorin e energjisë elektrike dhe direktivën 2009/72/CE.
 Në përputhje me ligjin nr. 43/2015, “Për sektorin e energjisë elektrike”, ERE do të reflektojë ndryshimet në Rregullat e Tregut dhe legjislacionin sekondar të nevojshëm për funksionimin e tregut. Në hartimin e këtyre rregullave, ERE do bashkëpunojë ngushtësisht me Sekretariatin e Komunitetit të Energjisë.
@@ -150,133 +163,63 @@ Të gjitha marrëveshjet tip, që hartohen dhe miratohen në përputhje me kët�
 Modeli i tregut të organizuar, siç është përcaktuar në këtë tekst, do të jetë i aplikueshëm në momentin e fillimit të punës së Bursës Shqiptare të Energjisë.
 ANEKS 1
 PLANI I MASAVE PËR IMPLEMENTIMIN E TREGUT SHQIPTAR TË ENERGJISË ELEKTRIKE
-Faza e parë, nga 1 janari
-2017 (ose në momentin e hapjes së tregut)
+Faza e parë- duke filluar nga 1 janari 2023
 Tregu i rregulluar
-Blerje MWh
-Shitje MWh
-Tarifa të rregulluara për konsumatorët në 10,6 dhe 0.4 kv
-4.450.000
-3.250.000
+Blerjet (MWh)
+Shitjet (MWh)
+Tarifat e rregulluara në nivelet 20, 10, 6 *dhe 0,4 kV
+5,213,143
+5,213,143
 KESH
-1.200.000
-IPP
-TOTALI
-4.450.000
-4.450.000
-TOTALI
+Humbjet e OSSH
+1,366,592
+1,366,592
+Total
+6,579,735
+6,579,735
+Total
 Tregu i parregulluar
-Blerje MWh
-Shitje MWh
-Klientë në TL
-1.000.000
-2 655 000
-Import ose gjenerim nga PPB
-Klientë në 35 kv
-45.000
-Klientë në 20 kv
-310.000
-Humbjet e OSHEE
-1.300.000
-TOTALI
-2.655.000
-2.655.000
-TOTALI
-Faza e dytë, nga 1 janari 2018
-Treg i rregulluar
-Blerje MWh
-Shitje MWh
-Klientë me tarifa të rregulluara në 0.4 kv
-3.500.000
-3.500.000
-KESH
-CFD për 50% të volumit të tarifave të rregulluara
-(1.750.000)
-(1.750.000)
-TOTALI
-1.750.000
-1.750.000
-TOTALI
-Tregu i parregulluar
-Blerje MWh
-Shitje MWh
-CFD2 për 50% të volumit të tarifave të rregulluara
-1.750.000
-1.750.000
-Klientë në TL
-1.000.000
-3 505 000
-Import ose gjenerim nga PPB
-Klientë në 35 kv
-45.000
-Klientë në 20 kv
-310.000
-Klientë në 10.6 kv
-550.000
-Klientë në 0.4 kv
-400.000
-Humbjet e OSHEE-së
-1.200.000
-TOTALI
-5.255.000
-5.255.000
-TOTALI
-Faza e tretë, nga 1 janari 2019
+Blerjet (MWh)
+Shitjet (MWh)
+Konsumatorët në 35 kV
+80,120
+Total
+80,120
+80,120
+Total
+Faza e dytë- duke filluar nga janari 2024
 Tregu i rregulluar
-Blerje MWh
-Shitje MWh
-Konsumatorë me tarifa të rregulluara 0.4 kv
-2.900.000
-2.900.000
+Blerjet (MWh)
+Shitjet (MWh)
+Tarifat e rregulluara në nivelin 0,4 kV
+4,887,058
+6,238,045
 KESH
-CFD2 për 70% të volumit të tarifave të rregulluara
-(2.030.000)
-(2.030.000)
-TOTALI
-870.000
-870.000
-TOTALI
+Humbjet e OSSH
+1,350,987
+Total
+6,238,045
+6,238,045
+Total
 Tregu i parregulluar
-Blerje MWh
-Shitje MWh
-CFD2 për 70% të volumit të tarifave të rregulluara
-2.030.000
-2.030.000
-Klientë në TL
-1.000.000
-4 205 000
-Import ose gjenerim nga PPB
-Klientë në 35 kv
-45.000
-Klientë në 20 kv
-310.000
-Klientë në 10.6 kv
-550.000
-Klientë në 0.4 kv - tregtare, jobuxhetore
-1.000.000
-Humbjet e OSHEE-së
-850.000
-Klientë jashtë Shqipërisë
-450.000
-TOTALI
-6.235.000
-6.235.000
-TOTALI
-Në asnjë fazë të planit të masave për implementimin e tregut të energjisë elektrike, nuk do ndalohen pjesëtarët e tregut që, nëse dëshirojnë, të marrin pjesë në tregun e parregulluar të shumicës për blerje dhe shitje të energjisë
+Blerjet (MWh)
+Shitjet (MWh)
+N/A
+N/A
+Blerjet në voltazhin e lartë
+435,482
+Konsumatorët në 35 kV
+80,563
+Konsumatorët në 20 kV
+245,086
+Konsumatorët në 10/6 kV
+109,833
+Total
+435,482
+435,482
+Total
+*Duke filluar nga janari 2022 të gjithë konsumatorët e lidhur në 20/10/6 kV janë në treg të liberalizuar dhe mund të zgjedhin lirisht furnizuesin e tyre.
+Bazuar në ligjin nr. 43/2015 ”Për sektorin e energjisë elektrike”, të ndryshuar, ata do të vijojnë të furnizohen nga furnizuesi i mundësisë së fundit për një periudhë 2-vjeçare, deri në 31 dhjetor 2023.
 ANEKSI 2
 PLANI I VEPRIMIT PËR KRIJIMIN E BSHE-së
-1. Këshilli i Ministrave, nëpërmjet këtij vendimi, autorizon MEI-n dhe OST sh.a. për marrjen e masave dhe përgatitjen e akteve të nevojshme për krijimin e Bursës Shqiptare të Energjisë (BSHE).
-2. Në përputhje me pikën 3.5, të modelit të tregut, BSHE-ja do të jetë një person juridik, i cili do të krijohet sipas legjislacionit shqiptar, përgjegjës për funksionimin e tregut të organizuar të energjisë elektrike.
-3. BSHE-ja do të kryejë funksionet e përcaktuara në pikën 3.5, të modelit të tregut dhe, fillimisht, ndër të tjera, do të kryejë grumbullimin e ofertave nga ana e pjesëmarrësve të tregut, si dhe përputhjen dhe likuidimin e produkteve me shumicë të energjisë elektrike mbi baza orare. Likuidimi i kontratave, për një periudhë ndërmjetëse, do të menaxhohet nga një ofrues shërbimi, për llogari të BSHE-së. Produktet e tregtueshme në BSHE do të zhvillohen gradualisht, bazuar në nevojën e pjesëmarrësve të tregut, në mënyrë që të lejojë balancimin e portofolave të tyre përkatësisht për prodhimin, konsumin, importin dhe eksportin, si dhe për t’u integruar më mirë në tregun me shumicë evropian.
-4. Aktivitetet për shitjen dhe blerjen e energjisë elektrike, si produkt fizik, do të mund të kryhen nga gjithë pjesëmarrësit e tregut të regjistruar në BSHE, pa u kufizuar nga një detyrim i shërbimit publik, në përputhje me modelin e tregut dhe ligjin për sektorin e energjisë elektrike.
-5. Procesi i krijimit dhe i përcaktimit të strukturës së pronësisë së BSHE-së do të drejtohet nga ministri përgjegjës për energjinë, në përputhje me këtë plan:
-a) Deri më 1 shtator 2016, ministri përgjegjës për energjinë do të ngrejë, zyrtarisht, një njësi pranë OST sh.a., që do të shërbejë në një hap të mëvonshëm si bërthama e strukturës së BSHE-së. Kjo njësi raporton periodikisht te ministri për çdo detyrë të ngarkuar nga urdhri i ministrit dhe ky model tregu. Kjo njësi do të përgatisë bazën ligjore të nevojshme për krijimin e BSHE-së dhe dokumentacionin e nevojshëm, për aplikimin për licencë për BSHE-në në ERE. Kjo njësi do të përgatisë marrëveshjet e bashkëpunimit me kompanitë partnere dhe mund të shikojë mundësinë për të marrë pjesë në projekte rajonale dhe evropiane për bashkimin e tregjeve;
-b) Brenda datës 31 dhjetor 2016, njësia e ngritur do t’i propozojë ministrit të energjisë dhe industrisë strukturën organizative të shoqërisë, bazën ligjore të nevojshme si dhe gjithë dokumentacionin përkatës, për ngritjen dhe funksionimin e BSHE-së;
-c) Ministri vendos për krijimin e personit juridik dhe strukturën përkatëse brenda datës 31 mars 2017. OST-ja do të kërkojë ofrues shërbimesh me eksperiencë ndërkombëtare, të interesuar për t’u bërë aksionarë të mundshëm në BSHE dhe, në të njëjtën kohë, për të siguruar pjesën më të madhe të shërbimeve operacionale për shoqërinë. Këto shërbime duhet të mbulojnë, së paku, por pa u kufizuar në, mbledhjen e ofertave të pjesëmarrësve të tregut, përputhjen e ofertave, përllogaritjen e marzhet e tregtimit për pjesëmarrësit e tregut, bazuar në skema garantuese/kolaterale të miratuara, si dhe plotësimin e gjitha detyrimeve për raportim dhe publikim. Fillimisht ofruesi i shërbimeve do të drejtojë, gjithashtu, proceset që lidhen me shlyerjen dhe pagesën e pjesëmarrësve të tregut, duke përfshirë faturimin dhe arkëtimin. BSHE-ja do marrë gradualisht përgjegjësinë për faturimin dhe arkëtimin;
-ç) BSHE-ja, nëse kërkohet dhe miratohet nga aksionarët fillestarë, do të jetë e hapur për pronarët e tjerë në shoqëri;
-d) Procedura e krijimit dhe struktura e pronësisë së BSHE-së do të marrë parasysh praktikat më të mira në Bashkimin Evropian dhe Komunitetin e Energjisë dhe, nga ana tjetër, do të promovojë cilësinë dhe qëndrueshmërinë e shërbimeve, do të përmirësojë reputacionin e Shqipërisë si vend tregtues dhe do të sigurojë qëndrueshmëri financiare afatgjatë. Sekretariati i Komunitetit të Energjisë do të mbështesë BSHE-në, si dhe autoritetet e tjera dhe pjesëmarrësit e tregut, në këtë drejtim;
-dh) Ministri përgjegjës për energjinë do të shikojë mundësinë për përfshirjen e OST-ve të tjera në strukturën e pronësisë, në përputhje me legjislacionin në fuqi dhe sipas një procedure standarde për pranimin e aksionarëve të rinj, që do të detajohet në statutin e shoqërisë. Në statut do të parashikohet që të gjitha OST-ve fqinje, të licencuara dhe që shprehin vullnetin e tyre për t’u bashkuar me strukturën e aksionarëve të BSHE-së, do t’u jepet mundësia për t’u bërë aksionar, mbi baza të barabarta me të gjithë OST-të e mëparshme;
-e) Në datën 30 qershor 2017, BSHE-ja do jetë gati për fillimin e operacioneve të tregut shqiptar të energjisë, në përputhje me këtë model tregu.
-6. Pas themelimit të saj, BSHE-ja mund të bëhet palë nënshkruese e Memorandumit të Mirëkuptimit të Ballkanit Perëndimor 6, për Zhvillimin e Tregut Rajonal të Energjisë Elektrike dhe krijimin e një kuadri për bashkëpunime të tjera në të ardhmen, dhe të marrë të gjitha të drejtat e përgjegjësitë që rezultojnë prej tij. Ky proces do të mbështesë integrimin e tregut shqiptar të energjisë elektrike të ditës në avancë, në atë rajonal dhe evropian.
-7. Deri më 31 dhjetor 2017, ministri përgjegjës për energjinë do të marrë vendimin për fillimin operacional të Bursës Shqiptare të Energjisë, bazuar në përmbushjen e hapave ligjorë, teknikë dhe rregullatorë, të përshkruar më sipër, për implementimin e Modelit Shqiptar të Tregut.
-8. Ministri përgjegjës për energjinë bashkëpunon me ERE-n si dhe me ministritë dhe institucionet e tjera publike për krijimin e Bursës Shqiptare të Energjisë. Ministria do të koordinojë hapat e nevojshëm edhe me Sekretariatin e Komunitetit të Energjisë, IFC-në dhe institucionet e tjera ndërkombëtare finan-ciare.
+(shfuqizar me VKM-në nr. 872, datë 27.12.2022)
