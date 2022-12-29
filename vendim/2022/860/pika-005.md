@@ -1,0 +1,1 @@
+5. Mbi shumën e përcaktuar në pikën 1 të këtij vendimi, duke filluar nga data 12.12.2019, deri në datën e ekzekutimit të këtij vendimi, të paguhen interesa të thjeshtë të barabartë me kursin margjinal të huas së Bankës Qendrore Evropiane, gjatë periudhës së mospagimit, plus 3%.

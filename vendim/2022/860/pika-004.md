@@ -1,0 +1,1 @@
+4. Pagimi i shumës të depozituar, sipas përcaktimeve në pikën 3, të këtij vendimi, në favor të kërkuesit Fatos Prizreni, të bëhet nga Ministria e Financave dhe Ekonomisë, pas paraqitjes së dokumentacionit të nevojshëm ligjor për kryerjen e pagesave nga buxheti i shtetit.
