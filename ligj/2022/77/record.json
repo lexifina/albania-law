@@ -1,0 +1,29 @@
+{
+  "qbz_id": 25295,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 133/2015, \"Për trajtimin e pronës dhe përfundimin e procesit të kompensimit të pronave\"",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "77",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2022-11-17",
+  "published": "2022-12-15",
+  "in_force": "2022-12-30",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/a907474feb4de865feed9e10b04a8051c1f15a04f0ce3ac46c78a56bab7db1f5.docx",
+  "source_sha256": "a907474feb4de865feed9e10b04a8051c1f15a04f0ce3ac46c78a56bab7db1f5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25295",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2022/11/17/77",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    27788,
+    26902
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
