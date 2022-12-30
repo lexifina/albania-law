@@ -1,0 +1,1 @@
+4. Shpërblimet kalohen në llogaritë e pensionistëve në muajin dhjetor 2022 dhe paguhen gjatë këtij muaji. Në rastet kur pagesat efektive nuk kryhen brenda muajit dhjetor 2022, ato të paguhen gjatë vitit të ardhshëm. Shpërblimet e patërhequra parashkruhen me kalimin e 36 muajve nga data e miratimit të këtij vendimi.
