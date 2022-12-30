@@ -1,0 +1,1 @@
+4. Përjashtohen nga përcaktimet e pikës 3 institucionet e rivlerësimit kalimtar të magjistratëve, efektet financiare të të cilëve përballohen brenda buxhetit të miratuar për këto institucione, për vitin 2022.

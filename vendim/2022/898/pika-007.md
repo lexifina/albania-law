@@ -1,0 +1,1 @@
+7. Ngarkohet Ministria e Financave dhe Ekonomisë për shpërndarjen e fondeve të nevojshme nga fondi rezervë i buxhetit, për vitin 2022, për të përballuar efektet financiare për institucionet e përfshira në shkronjën “a”, të pikës 6, të këtij vendimi, në rast se fondi nga shpenzimet korrente në dispozicion nuk është i mjaftueshëm.
