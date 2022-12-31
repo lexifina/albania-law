@@ -1,0 +1,1 @@
+Kërkesa të përgjithshme
