@@ -1,0 +1,1 @@
+38. Nëpunësit dhe asetet e Qendrës së krijuar me vendimin nr. 1264, datë 16.12.2009, të Këshillit të Ministrave, “Për krijimin dhe funksionimin e Qendrës së Trajnimit të Administratës Tatimore dhe Doganore”, transferohen në Qendrën e krijuar me këtë vendim.

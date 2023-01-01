@@ -1,0 +1,1 @@
+2. Qendra ka për mision të sigurojë që kapacitetet e burimeve njerëzore të administratës tatimore dhe doganore në fushën fiskale të jenë në nivele të larta, me qëllim rritjen e performancës së tyre në kryerjen e detyrave dhe rritjen e cilësisë së shërbimeve, që ofrojnë këto administrata ndaj tatimpaguesve.

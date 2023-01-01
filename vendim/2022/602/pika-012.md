@@ -1,0 +1,1 @@
+12. Rregullorja e trajnimeve, që përmban rregullat për zhvillimin e trajnimeve, organizimin e testimit në përfundim të trajnimeve, vlerësimin e të trajnuarve, si dhe bashkëpunimin e Qendrës me administratën tatimore dhe doganore miratohet nga ministri, pas propozimit të drejtorit të Përgjithshëm të Qendrës.

@@ -1,0 +1,1 @@
+17. Qendra ka stemën, logon dhe vulën zyrtare. Stema e Qendrës përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Ministria e Financave dhe Ekonomisë, Qendra e Trajnimit të Administratës Tatimore dhe Doganore”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

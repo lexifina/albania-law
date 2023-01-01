@@ -1,0 +1,1 @@
+10. Marrëdhëniet e punës së drejtorit të Përgjithshëm, nëpunësve të Qendrës dhe trajnerëve të brendshëm rregullohen në bazë të dispozitave të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë rregullohen në bazë të dispozitave të Kodit të Punës. Trajnerët e jashtëm kontraktohen nëpërmjet kontratave të shërbimit.

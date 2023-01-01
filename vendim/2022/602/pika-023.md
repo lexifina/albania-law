@@ -1,0 +1,1 @@
+23. Trajnimet për punonjësit dhe nëpunësit e administratës tatimore dhe doganore jepen pa pagesë dhe gjatë kohës së trajnimit nëpunësi merr pagën e plotë. Punonjësit e tjerë të administratës shtetërore përfitojnë trajnimin pa pagesë, në rastet kur ka kërkesë nga institucionet përkatëse.

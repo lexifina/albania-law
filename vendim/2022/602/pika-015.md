@@ -1,0 +1,1 @@
+15. Gjatë punës së tij, Këshilli Konsultativ bazohet në legjislacionin përkatës për funksionimin e organeve te ngjashme, në lidhje me rregullat e votimit, rendin e ditës, kuorumin dhe çështje të tjera të funksionimit të Këshilli Konsultativ.

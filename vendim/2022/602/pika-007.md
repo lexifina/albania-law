@@ -1,0 +1,1 @@
+7. Qendra e shtrin veprimtarinë e saj për administratën tatimore dhe doganore në të gjithë territorin e Republikës së Shqipërisë dhe organizohet në nivel qendror, në formën e Drejtorisë së Përgjithshme.

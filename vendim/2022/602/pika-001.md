@@ -1,0 +1,1 @@
+1. Krijimin, organizimin dhe funksionimin e Qendrës së Trajnimit të Administratës Tatimore dhe Doganore (në vijim, Qendra), si person juridik publik buxhetor, në varësi të ministrit përgjegjës për financat (në vijim, ministri), me seli në Tiranë.
