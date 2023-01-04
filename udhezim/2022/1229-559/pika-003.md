@@ -1,0 +1,1 @@
+3. “Caktimi i përkohshëm i gjyqtarit” nënkupton caktimin e përkohshëm të një gjyqtari, në një gjykatë tjetër të ndryshme nga ajo ku ushtron funksionin, me vendim të Këshillit të Lartë Gjyqësor, sipas nenit 59, të ligjit nr. 96/2016, “Për statusin e gjyqtarëve dhe të prokurorëve në Republikën e Shqipërisë”, të ndryshuar.

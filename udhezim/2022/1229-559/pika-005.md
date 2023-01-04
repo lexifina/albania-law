@@ -1,0 +1,1 @@
+5. “Paga bruto fillestare”, në kuptim të ligjit nr. 96/2016, “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, të ndryshuar, përfaqëson pagën referuese bazë dhe shtesën e pagës në grup, sipas grupeve të pagave (G1, G2, G3), në gjykatën ku gjyqtari është i caktuar në mënyrë të përhershme.

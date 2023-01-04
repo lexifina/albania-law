@@ -1,0 +1,1 @@
+8. “Gjyqtar në skemë delegimi, i caktuar për të gjykuar një çështje gjyqësore të veçantë pranë gjykatave të posaçme”, është gjyqtari i skemës së delegimit, i cili me vendim të Këshillit të Lartë Gjyqësor është caktuar për të gjykuar një çështje të veçantë pranë gjykatave të posaçme.

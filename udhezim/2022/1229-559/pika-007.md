@@ -1,0 +1,1 @@
+7. “Gjyqtar në skemë delegimi pranë gjykatave të posaçme” është gjyqtari i skemës së delegimit, i cili përmbush kriteret dhe kushtet e sigurisë, sipas parashikimeve të ligjit nr. 95/2016, “Për organizimin dhe funksionimin e institucioneve për të luftuar korrupsionin dhe krimin e organizuar”, i caktuar për të shërbyer pranë gjykatave të posaçme.

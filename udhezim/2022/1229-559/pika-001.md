@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave më të detajuara dhe procedurës që duhet të ndiqet në gjykata, për trajtimin financiar të gjyqtarit lidhur me shërbimin e tij në skemën e delegimit, gjatë transferimit të përkohshëm, caktimit të përkohshëm dhe caktimit për një çështje të veçantë, si dhe masën e tij.
