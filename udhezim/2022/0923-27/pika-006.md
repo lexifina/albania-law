@@ -1,0 +1,1 @@
+6. Me njoftimin e vendimit të KKT-së për konfiskimin e sipërfaqes të ndërtuar pa leje ose në tejkalim të lejes së ndërtimit, Drejtoria e Administrimit të Pronës Shtetërore pranë ministrisë përgjegjëse për administrimin e pronës shtetërore, regjistron vendimin pranë Agjencisë Shtetërore të Kadastrës dhe nxjerr urdhrin për marrjen në dorëzim të objektit.

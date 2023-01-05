@@ -1,0 +1,1 @@
+10. Të ardhurat e krijuara nga shitja do të përdoren për shpronësim, trajtim të posaçëm apo kompensime, me qëllim realizimin e punëve publike. Me urdhër të ministrit përgjegjës për administrimin e pronës shtetërore, një pjesë e të ardhurave nga shitja kalojnë në llogarinë speciale të shpronësimeve pranë Bankës së Shqipërisë.

@@ -1,0 +1,1 @@
+5. Procedura dhe afatet e konfiskimit për interes publik, sipas pikës 6 deri në pikën 10 të VKM-së, do të miratohen me vendim të KKT-së dhe do t’u njoftohen institucioneve të përfshira në procedurën e konfiskimit.

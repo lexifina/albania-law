@@ -1,0 +1,1 @@
+1. Në zbatim të pikës 1, të VKM-së nr. 589, datë 7.9.2022, “Për rregullat dhe procedurat për konfiskimin për interes publik të objekteve të ndërtuara pa leje, për qëllim fitimi”, të gjitha objektet e ndërtuara pa leje për qëllime fitimi dhe të konfiskuara për interes publik, administrohen nga ministria përgjegjëse për administrimin e pronës shtetërore.
