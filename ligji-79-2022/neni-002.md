@@ -1,0 +1,5 @@
+# Neni 2
+Regjimi i posaçëm në zbatim të marrëveshjes
+1. Shoqëria e përbashkët për realizimin e projektit “Marina & Jahtet e Durrësit” përjashtohet nga detyrimi për të paguar taksën e ndikimit në infrastrukturë për ndërtimet e reja dhe kontributin e strehimit social sipas legjislacionit në fuqi për sistemin e taksave vendore dhe legjislacionit në fuqi për strehimin social. Vlera e detyrimit të përjashtuar është pjesë e kontributit të shtetit shqiptar në investim, sipas marrëveshjes së përcaktuar në nenin 1 të këtij ligji.
+2. Dhënia e lejeve, licencave dhe akteve të tjera administrative të nevojshme për realizimin e projektit të investimit strategjik “Marina & Jahtet e Durrësit” bëhet sipas legjislacionit në fuqi, por, në çdo rast, brenda një afati prej jo më shumë se 150 ditësh.
+3. Pronat e paluajtshme shtetërore, të transferuara në Fondin e Pasurive të Paluajtshme për Mbështetjen e Investimeve Strategjike, për zhvillimin dhe realizimin e projektit investues strategjik “Marina & Jahtet e Durrësit” (Durrës Yachts & Marina), me vendim të Këshillit të Ministrave i kalojnë në pronësi shoqërisë “Albanian Seaports Development Company” sh.a.
