@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor, z. Endrit Musaj, me detyrë drejtor i Drejtorisë së Inspektimit dhe Trajnimit, pranë Drejtorisë së Përgjithshme të Arkivave, për të gjitha procedurat e prokurimit publik me fonde buxhetore, për Drejtorinë e Përgjithshme të Arkivave.
