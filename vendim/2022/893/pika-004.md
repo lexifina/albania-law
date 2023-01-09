@@ -1,0 +1,1 @@
+4. KOKSH-i raporton periodikisht mbi bazë katërmujore në Ministrinë e Arsimit dhe Sportit, për ecurinë e aktiviteteve/produkteve dhe realizimin financiar të projektit. Brenda muajit janar 2023 të depozitohet në Ministrinë e Arsimit dhe Sportit raporti vjetor i veprimtarisë së projektit “Ekipet sportive 2022”, përfshirë raportimin financiar.

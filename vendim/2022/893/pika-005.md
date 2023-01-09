@@ -1,0 +1,1 @@
+5. Ministria e Arsimit dhe Sportit cakton një grup pune për mbikëqyrjen e realizimit të mbështetjes financiare të KOKSH-it. Përbërja dhe detyrat e grupit të punës përcaktohen me urdhër të ministrit përgjegjës për sportin.

@@ -1,0 +1,1 @@
+1. Financimin, në masën 250 000 000 (dyqind e pesëdhjetë milionë) lekë, të projektit “Ekipet sportive në shkolla”, në kuadër të lëvizjes olimpike shqiptare të Komitetit Olimpik Kombëtar Shqiptar (KOKSH).
