@@ -1,0 +1,1 @@
+4. Ministria e Arsimit dhe Sportit cakton një grup pune për mbikëqyrjen e realizimit të mbështetjes financiare të ekipit kombëtar të futbollit. Përbërja dhe detyrat e grupit të punës përcaktohen me urdhër të ministrit të Arsimit dhe Sportit.

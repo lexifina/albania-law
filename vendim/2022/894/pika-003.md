@@ -1,0 +1,1 @@
+3. FSHF-ja, brenda muajit janar 2023, të paraqesë në Ministrinë e Arsimit dhe Sportit planin e detajuar dhe të miratuar nga Asambleja e Përgjithshme e FSHF-së të veprimtarisë për të cilën do të përdoret ky fond.
