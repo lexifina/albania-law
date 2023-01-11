@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINISTËR I ARSIMIT
-DHE SPORTIT
