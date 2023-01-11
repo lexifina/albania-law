@@ -4,7 +4,7 @@ Nr. 146, datë 10.3.2021
 
 PËR KRIJIMIN, ORGANIZIMIN, DHE FUNKSIONIMIN E MUZEUT TË ARSIMIT KORÇË
 
-(ndryshuar me vendimin e Këshillit të Ministrave nr. 99, datë 9.2.2022)
+(ndryshuar me vendimin e Këshillit të Ministrave nr. 99, datë 9.2.2022; nr. 12, datë 11.1.2023)
 
 (i përditësuar)
 
@@ -108,7 +108,7 @@ e) çdo kompetencë tjetër në bazë të akteve ligjore dhe nënligjore në fuq
 
 IV. DISPOZITA KALIMTARE DHE TË FUNDIT
 
-1. Deri më 1.1.2023, datë në të cilën fillon funksionimi i plotë i Muzeut të Arsimit Korçë si institucion më vete, misioni, përgjegjësitë dhe detyrat e këtij muzeu do të vijojnë të përmbushen nga Muzeu Kombëtar i Artit Mesjetar.
+1. Deri më 1.1.2024, datë në të cilën fillon funksionimi i plotë i Muzeut të Arsimit Korçë si institucion më vete, misioni, përgjegjësitë dhe detyrat e këtij muzeu do të vijojnë të përmbushen nga Muzeu Kombëtar i Artit Mesjetar.
 
 2. Vendimi nr.13, datë 13.1.1997, i Këshillit të Ministrave, “Për shpalljen e Muzeut të Arsimit në Korçë muze kombëtar”, shfuqizohet.
 
