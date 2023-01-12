@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Rehabilitimi i hapësirave pranë kopshtit në fshatin Fushë, Njësia Administrative Topojë, Bashkia Fier”.
