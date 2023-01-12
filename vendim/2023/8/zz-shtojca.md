@@ -1,0 +1,566 @@
+# Shtojca
+LISTA EMËRORE PËRFUNDIMTARE E PRONARËVE, TË PASURIVE, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR “STUDIM PROJEKTIM MBIKALIMI I FLLAKËS”
+PRONARI
+TË DHËNAT (mbi pasurinë sipas ASHK-së)
+VLERËSIMET PËR SHPRONËSIM SIPAS LLOJIT TË PASURISË
+VLERA TOTALE
+SHËNIME
+Nr.
+Emri
+Atësia
+Mbiemri
+ZK
+Nr. i pas.
+Lloji i pasurisë
+Sip. totale m2
+Shpronësim tokë “arë”
+Shpronësim tokë “truall”
+Ndërtesë banimi (shtëpi)
+Ndërtesë jo banimi
+Ndërtesë total Sip. nd konf. nga ZVRPP-ja (m2)
+Sip. m2
+Çmimi (lek/m2)
+Vlera (lekë)
+Sip. (m2)
+Çmimi (lek/m2)
+Vlera (lekë)
+Sip. ndërt. konf.
+ZVRPP (m2)
+Çmimi sh/blerje d/m?)
+Vlera (lek)
+Sip. nd. konf. nga ZVRPP-ja (m2)
+Vlera e preventivit (lek)
+1
+AGIM
+REXHEP
+NEZA
+2574
+159/14
+arë
+1500
+179
+227
+40,633.00
+40,633.00
+Konfirmuar nga ASHK-ja
+2
+ASLLAN
+REXHEP
+NEZA
+2574
+159/15
+arë
+500
+57
+227
+12,939.00
+12,939.00
+Konfirmuar nga ASHK-ja
+3
+BESNIK
+REXHEP
+NEZA
+2574
+159/16
+arë
+1254
+181
+227
+41,087.00
+41,087.00
+Konfirmuar nga ASHK-ja
+4
+FADIL
+SULEJMAN
+NEZA
+2574
+159/17
+arë
+2280
+255
+227
+57,885.00
+57,885.00
+Konfirmuar nga ASHK-ja
+5
+RIZA
+BAJRAM
+NEZA
+2574
+159/18
+arë
+1234
+151
+227
+34,277.00
+34,277.00
+Konfirmuar nga ASHK-ja
+6
+REXH
+HASAN
+NEZA
+2574
+159/19
+arë
+1706
+254
+227
+57,658.00
+57,658.00
+Konfirmuar nga ASHK-ja
+7
+FERIZ
+HASAN
+NEZA
+2574
+159/20
+arë
+1500
+261
+227
+59,247.00
+59,247.00
+Konfirmuar nga ASHK-ja
+8
+MEHMET
+ALI
+DEMA
+2574
+159/21
+arë
+980
+193
+227
+43,811.00
+43,811.00
+Konfirmuar nga ASHK-ja
+9
+MEHMET
+ALI
+DEMA
+2574
+159/22
+Arë + truall + ndërtesë
+1670
+270
+335
+90,450.00
+539.00
+15,571,678
+15,662,128.00
+Konfirmuar nga ASHK-ja rivihet në hip. ligjore në favor të ProCredit
+10
+MEHMET
+ALI
+DEMA
+2574
+159/192
+Truall+ ndërtesë
+750
+180
+335
+60,300.00
+90.88
+43,875.00
+3,987,360.00
+36.00
+860,494.00
+126.88
+4,908,154.00
+Konfirmuar nga ASHK-ja
+11
+RUSTEM
+HAXHI
+NEZA
+2574
+159/32
+arë
+355
+116
+227
+26,332.00
+26,332.00
+Konfirmuar nga ASHK-ja
+12
+AGIM
+REXHEP
+NEZA
+2574
+159/31
+arë
+456
+177
+227
+40,179.00
+40,179.00
+Konfirmuar nga ASHK-ja
+13
+BESNIK
+REXHEP
+NEZA
+2574
+159/30
+arë
+304
+115
+227
+26,105.00
+26,105.00
+Konfirmuar nga ASHK-ja
+14
+FADIL
+SULEJMAN
+NEZA
+2574
+159/29
+arë
+456
+176
+227
+39,952.00
+39,952.00
+Konfirmuar nga ASHK-ja
+15
+DAN
+HAZIR
+NEZA
+2574
+159/28
+arë
+254
+122
+227
+27,694.00
+27,694.00
+Konfirmuar nga ASHK-ja
+16
+REXH
+HASAN
+NEZA
+2574
+159/27
+arë
+304
+130
+227
+29,510.00
+29,510.00
+Konfirmuar nga ASHK-ja
+17
+FERIZ
+HASAN
+NEZA
+2574
+159/26
+arë
+355
+125
+227
+28,375.00
+28,375.00
+Konfirmuar nga ASHK-ja
+18
+FADIL
+SYL
+NEZA
+2574
+159/25
+arë
+250
+162
+227
+36,774.00
+36,774.00
+Konfirmuar nga ASHK-ja
+19
+MEHMET
+ALI
+DEMA
+2574
+159/23
+are
+406
+27
+227
+6,129.00
+6,129.00
+20
+RIZA
+BAJRAM
+NEZA
+2574
+159/24
+arë
+102
+51
+227
+11,577.00
+11,577.00
+Konfirmuar nga ASHK-ja
+21
+MUSTAF
+ADEM
+NEZA
+2574
+159/44
+arë
+304
+187
+227
+42,449.00
+42,449.00
+Konfirmuar nga ASHK-ja
+22
+SHKELZEN
+SADIK
+NEZA
+2574
+159/45
+arë
+206
+162
+227
+36,774.00
+36,774.00
+Konfirmuar nga ASHK-ja
+23
+AHMET
+NEZA
+2574
+159/143
+arë
+900
+108
+227
+24,516.00
+24,516.00
+Konfirmuar nga ASHK-ja
+24
+DAN
+NEZA
+2574
+159/142
+arë
+1335
+169
+227
+38,363.00
+38,363.00
+Konfirmuar nga ASHK-ja
+25
+SHEFQET
+NEZA
+2574
+159/146
+arë
+1618
+83
+227
+18,841.00
+18,841.00
+Konfirmuar nga ASHK-ja
+26
+SHKUMBIN
+SADRI
+BULICA
+3852
+344/41
+Arë
+3000
+32
+339
+10,848.00
+10,848.00
+Konfirmuar nga ASHK-ja Mbi këtë pas. ndodhet ndërtesa nr. 344/101-ND
+27
+BP (SMOQI, META, DOMI)
+3852
+344/77
+Truall
+4987
+298
+549
+163,602.00
+163,602.00
+Konfirmuar nga ASHK-ja
+28
+AGRON
+HALIT
+DAJA
+3852
+14/57
+Arë
+3935
+318
+339
+107,802.00
+107,802.00
+Konfirmuar nga ASHK-ja Vihet në favor të Banka Amerikane e Investimeve
+29
+IMPULS
+SHA
+3852
+14/59
+Truall
+2804
+814
+549
+446,886.00
+150.75
+20,558,786
+150.75
+21,005,672.00
+Konfirmuar nga ASHK-ja Vihet në favor te “Aplpha Bank” sh.p.k.
+30
+ASLLAN
+ALLAMAN
+GASA
+3852
+14/47
+Arë
+580
+11
+339
+3,729.00
+3,729.00
+Konfirmuar nga ASHK-ja
+31
+ASLLAN
+ALLAMAN
+GASA
+3852
+14/55
+Arë
+2661
+401
+339
+135,939.00
+135,939.00
+Konfirmuar nga ASHK-ja
+32
+ALI
+MAMICA
+3852
+14/78
+Arë
+2121
+221
+339
+74,919.00
+74,919.00
+Konfirmuar nga ASHK-ja
+33
+BASHKEPRONARET
+MAMICA
+3852
+14/81
+Arë
+1629
+159
+339
+53,901.00
+53,901.00
+Konfirmuar nga ASHK-ja
+34
+MEMLI
+ALI
+MAMICA
+3852
+14/128
+Arë
+2000
+190
+339
+64,410.00
+64,410.00
+Konfirmuar nga ASHK-ja
+35
+ARJAN KLARITA
+RESHIT RIZA
+TIVARI TIVARI
+3852
+14/130
+Arë
+1500
+74
+339
+25,086.00
+25,086.00
+Konfirmuar nga ASHK-ja Vihet në H/L në favor të OTP Banke
+36
+BASHKIM
+FADIL
+BALLA
+3852
+14/131
+Arë
+5420
+128
+339
+43,392.00
+43,392.00
+Konfirmuar nga ASHK-ja
+37
+MUSA
+MEMA
+3852
+14/88
+Arë
+8324
+358
+339
+121,362.00
+121,362.00
+Konfirmuar nga ASHK-ja
+38
+SHOQERIA
+THERMO-SWISS
+SHA
+3852
+14/119
+Truall
+4744
+276
+549
+151,524.00
+151,524.00
+Konfirmuar nga ASHK-ja Vihet në H/L në favor të Raiffeisen Banke
+39
+DIANA ARDIAN LLAZAN
+Sofka(BARDHI) BARDHI TATI
+3852
+14/75
+Arë
+1788
+27
+339
+9,153.00
+9,153.00
+40
+DIANA ARDIAN
+BARDHI BARDHI
+3852
+14/76
+Arë
+10949
+180
+339
+61,020.00
+61,020.00
+Konfirmuar nga ASHK-ja
+41
+ZYHDI
+OSMAN
+LAÇI
+3852
+14/15
+Arë
+7880
+82
+339
+27,798.00
+27,798.00
+Konfirmuar nga ASHK-ja
+SHUMA
+TOTALE
+43,411,546.00

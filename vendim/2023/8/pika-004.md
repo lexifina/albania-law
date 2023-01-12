@@ -1,0 +1,1 @@
+4. Masa e shpërblimit për pronarët që shpronësohen është 43 411 546 (dyzet e tre milionë e katërqind e njëmbëdhjetë mijë e pesëqind e dyzet e gjashtë) lekë dhe do të përballohet nga Autoriteti Rrugor Shqiptar.
