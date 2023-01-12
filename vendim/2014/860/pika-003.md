@@ -1,1 +1,0 @@
-3. Për ndërtimet pa leje, me funksion të përzier, subjekti të paguajë tarifë shërbimi, në vlerën e përcaktuar në pikën 2, të këtij vendimi, vetëm për katin e shfrytëzuar për veprimtari social-ekonomike.

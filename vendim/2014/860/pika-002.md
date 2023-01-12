@@ -1,1 +1,0 @@
-2. Tarifa e shërbimit për legalizim, për ndërtimet pa leje me funksion social-ekonomik, si dhe për objektet e dyta, në kuptim të nenit 25, të ligjit nr. 9482, datë 3.4.2006, “Për legalizimin, urbanizimin dhe integrimin e ndërtimeve pa leje”, të ndryshuar, është 8 000 (tetë mijë) lekë, për çdo kat të ndërtimit.

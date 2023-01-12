@@ -1,1 +1,0 @@
-8. Vendimet e Këshillit të Ministrave nr. 1180, datë 5.8.2008, “Për përcaktimin e vlerës së tarifës së shërbimit për legalizim dhe mbledhjen e administrimin e të ardhurave të procesit të legalizimit”, të ndryshuar, dhe nr. 870, datë 27.12.2006, “Për koeficientin e shfrytëzimit të ndërtesës në legalizim, me destinacion social-ekonomik”, shfuqizohen.
