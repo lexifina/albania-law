@@ -1,1 +1,0 @@
-13. Regjistruesi i ZVRPP-së përkatëse i propozon kryeregjistruesit fillimin e procesit për përmirësimin sporadik, duke i bashkëlidhur kërkesën e palës së interesuar dhe dokumentacionin shoqërues të saj.

@@ -1,1 +1,0 @@
-22. Pretendimet e paraqitura gjatë afishimit publik shqyrtohen nga regjistruesi. Mosmarrëveshjet, që nuk zgjidhen ndërmjet palëve, zgjidhen nga organet gjyqësore dhe fakti i ekzistencës së kësaj mosmarrëveshjeje pasqyrohet në kartelën e pasurisë/ve të paluajtshme, objekt shqyrtimi.

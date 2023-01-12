@@ -1,1 +1,0 @@
-16. Regjistruesi, bazuar në informacionin e nxjerrë pas verifikimeve të kryera, nxjerr urdhër për kryerjen e shënimit “Mbi pasurinë A/B po kryhet procesi i përmirësimit sporadik, sipas kërkesës së (emri i subjektit), me nr.__, datë___”, në seksionin “D” të kartelave të pasurive të paluajtshme, që preken nga përmirësimi, dhe njofton të gjithë pronarët përkatës për këtë shënim.

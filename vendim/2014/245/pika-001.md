@@ -1,1 +1,0 @@
-1. Përcaktimin e kushteve dhe procedurave për kryerjen e përmirësimit dhe përditësimit të të dhënave të regjistrit të pasurive të paluajtshme që administrohet në zyrat e regjistrimit të pasurive të paluajtshme në formate digjitale dhe manuale.

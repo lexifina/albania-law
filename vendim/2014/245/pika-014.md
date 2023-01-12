@@ -1,1 +1,0 @@
-14. Kryeregjistruesi, brenda 15 (pesëmbëdhjetë) ditëve pas marrjes së propozimit, urdhëron ZVRPP-në për fillimin e procesit të përmirësimit sporadik, duke i vënë në dispozicion pjesë të produktit fotogrametrik ku ndodhet zona kadastrale përkatëse, si dhe modulet përkatëse të programit ALBSReP.

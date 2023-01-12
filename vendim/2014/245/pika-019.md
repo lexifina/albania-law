@@ -1,1 +1,0 @@
-19. Me paraqitjen e studimit topografik, ZVRPP-ja kryen procesin e përmirësimit të të dhënave digjitale dhe manuale të regjistrit të pasurive të paluajtshme që janë përfshirë në procesin e përmirësimit sporadik. Procesi i përmirësimit sporadik të pasurive në formatin digjital do të kryhet në programin ALBSReP.

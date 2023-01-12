@@ -1,1 +1,0 @@
-10. I ngarkuari për kryerjen e procesit të përmirësimit, sipas pikës 8 të këtij vendimi, paralelisht me kryerjen e këtij procesi bën dhe verifikime në terren për pasurinë e paluajtshme, pjesë e procesit të përmirësimit. Të gjitha fondet që do të nevojiten për këtë proces, do të sigurohen nga ZRPP-ja, në bazë të buxhetit të saj.

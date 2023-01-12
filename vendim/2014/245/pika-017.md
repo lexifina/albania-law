@@ -1,1 +1,0 @@
-17. Pas verifikimit të kryer nga ZVRPP-ja, regjistruesi informon palën e interesuar për sa është verifikuar dhe i kërkon asaj të kryejë studimin hartografik të zonës ku do të kryhet procesi i përmirësimit sporadik, nëpërmjet inxhinierëve gjeodetë të licencuar, duke i bashkëlidhur fragmente të hartës kadastrale ekzistuese dhe pjesë të produktit fotogrametrik.

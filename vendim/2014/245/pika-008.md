@@ -1,1 +1,0 @@
-8. Procesi i përmirësimit dhe përditësimit të të dhënave të regjistrit të pasurive të paluajtshme do të kryhet nga ZRPP-ja ose nga çdo person apo grup i autorizuar, me urdhër nga kryeregjistruesi, pas propozimit të regjistruesit. Urdhri i kryeregjistruesit publikohet dhe njoftohet sipas rregullave të përcaktuara në legjislacionin në fuqi.

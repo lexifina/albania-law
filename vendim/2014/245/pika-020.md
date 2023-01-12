@@ -1,1 +1,0 @@
-20. Nëse studimi nuk paraqitet brenda 30 (tridhjetë) ditëve, atëherë regjistruesi refuzon kryerjen e procesit të përmirësimit sporadik, nxjerr urdhrin për heqjen e shënimit të vendosur mbi pasuritë që do të ishin pjesë e përmirësimit sporadik, duke njoftuar kryeregjistruesin.

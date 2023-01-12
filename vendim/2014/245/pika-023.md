@@ -1,1 +1,0 @@
-23. Urdhri i kryeregjistruesit për fillimin e procesit të përmirësimit sistematik/sporadik publikohet në faqen zyrtare të internetit të Zyrës së Regjistrimit të Pasurive të Paluajtshme, me qëllim informimin e publikut.
