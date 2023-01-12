@@ -1,1 +1,1 @@
-3. Indeksi i ndryshimit mesatar vjetor të çmimeve të grupmallrave e shërbimeve llogaritet nga Instituti i Statistikave dhe i njoftohet Institutit të Sigurimeve Shoqërore deri në datën 10 shkurt të çdo viti.
+3. Indeksi i ndryshimit mesatar vjetor të çmimeve të grup-mallrave e shërbimeve llogaritet çdo muaj nga Instituti i Statistikave dhe i njoftohet Institutit të Sigurimeve Shoqërore çdo datë 10 të muajit pasardhës.
