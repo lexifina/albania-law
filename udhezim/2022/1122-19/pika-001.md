@@ -1,0 +1,1 @@
+1. Të ardhurat që institucionet buxhetore në varësi të Ministrisë së Bujqësisë dhe Zhvillimit Rural realizojnë nëpërmjet aplikimit të tarifave të shërbimeve kryesore apo veprimtarive të tjera që kryejnë për të tretë, të jenë sipas tabelave bashkëlidhur udhëzimit.
