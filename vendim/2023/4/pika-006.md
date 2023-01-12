@@ -1,0 +1,1 @@
+6. Fillimi i procedurës të përmirësimit të regjistrit për zonën/bllokun kadastral publikohet dhe njoftohet sipas parashikimeve të kreut II, të pjesës së shtatë, të Kodit të Procedurave Administrative.

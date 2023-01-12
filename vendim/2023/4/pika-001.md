@@ -1,0 +1,1 @@
+1. Objekt i këtij vendimi është përcaktimi i procedurave dhe rregullave për përmirësimin e pasaktësive në tërësi dhe gabimeve materiale në regjistrin kadastral për zona kadastrale ose blloqe kadastrale.
