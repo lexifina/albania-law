@@ -1,0 +1,1 @@
+6. Regjistrimi i pasurive në pronësi apo përgjegjësi administrimi të institucioneve shtetërore dhe njësive të vetëqeverisjes vendore i nënshtrohet tarifave dhe procedurave të përcaktuara, në zbatim të ligjit nr.111/2018, “Për kadastrën”.

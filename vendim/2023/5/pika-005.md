@@ -1,0 +1,1 @@
+5. Për procedurën e kalimit në pronësi të truallit shtetëror në përdorim, tarifa e shërbimit është në vlerën 10 000 (dhjetë mijë) lekë. Pagesa kryhet nëpërmjet sistemit bankar, në llogarinë e drejtorisë vendore të ASHK-së, në momentin e paraqitjes së kërkesës në portalin qeveritar e-Albania.

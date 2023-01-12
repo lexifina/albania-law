@@ -1,0 +1,19 @@
+8. Tarifa për pajisjen me vërtetim pozitiv/negativ për procesin e legalizimit dhe për kalimin e pronësisë mbi truallin funksional apo mbi oborrin në përdorim është 300 (treqind) lekë/drejtori dhe 1 000 (një mijë) lekë/për të gjithë territorin. Pagesa kryhet nëpërmjet sistemit bankar, në llogarinë e Drejtorisë së Përgjithshme të ASHK-së, në momentin e paraqitjes së kërkesës në portalin qeveritar “e-Albania”.
+III. PËRCAKTIMI I MASËS SË PENALITETEVE PËR SHTESAT/NDRYSHIMIN E FUNKSIONIT TË HAPËSIRAVE
+1. Penaliteti për mosrespektimin e lejes së ndërtimit aplikohet ndaj shoqërive ndërtuese apo investitorëve (persona juridikë ose fizikë), që kanë kryer shtesa anësore/lartësi apo ndryshim të funksionit të hapësirave, në kundërshtim me lejen e ndërtimit/zhvillimit, me qëllim për t’i kaluar të tretëve të drejtën e pronësisë apo për t’i dhënë këto sipërfaqe me qira.
+2. Penaliteti llogaritet si përqindje mbi koston mesatare të ndërtimit të zonës përkatëse, të miratuar sipas shkronjës “dh”, të nenit 72, të ligjit nr. 22/2018, “Për strehimin social”, për çdo metër katror sipërfaqe shtesë apo ndryshim destinacioni, sipas rregullit në vijim:
+a) 2% të kostos mesatare vjetore të ndërtimit për çdo metër katror sipërfaqe shtesë që ka funksion banimi;
+b) 5% të kostos mesatare vjetore të ndërtimit për çdo metër katror sipërfaqe shtesë që ka funksion social-ekonomik;
+c) 10% të kostos mesatare vjetore të ndërtimit për çdo metër katror sipërfaqe që i është ndryshuar funksioni.
+3. Përcaktimi i sipërfaqes shtesë dhe i asaj që i ka ndryshuar funksioni kryhet, duke i evidentuar ato në raport me sipërfaqet e projektit të miratuar me lejen e ndërtimit/zhvillimit.
+4. Për të llogaritur penalitetin në zona ku nuk ka vlerë të miratuar të kostos mesatare të ndërtimit, përdoret mesatarja aritmetike e kostos së ndërtimit, për zonat në kufi.
+IV. MBLEDHJA DHE ADMINISTRIMI I TË ARDHURAVE
+1. Të ardhurat që mblidhen nga kalimi i pronësisë mbi parcelën ndërtimore të ndërtimit pa leje kalojnë në masën 70% në fondin financiar të kompensimit dhe përdoren në përputhje me ligjin nr. 133/2015, “Për trajtimin e pronës dhe përfundimin e procesit të kompensimit të pronave”, ndërsa diferenca përdoret nga ASHK-ja.
+2. Të ardhurat, që mblidhen nga kalimi i pronësisë mbi sipërfaqet shtetërore shtesë të tokës bujqësore dhe mbi truallin në zonat e stimuluara, kalojnë në masën 50% në fondin financiar të kompensimit dhe përdoren në përputhje me ligjin nr. 133/2015, “Për trajtimin e pronës dhe përfundimin e procesit të kompensimit të pronave”, ndërsa pjesa tjetër përdoret nga ASHK-ja.
+3. Drejtoritë vendore të ASHK-së, sipas mënyrës dhe afatit të parashikuar në legjislacionin buxhetor, kalojnë në llogarinë e thesarit pjesën takuese të të ardhurave, sipas përcaktimeve të pikave 1 dhe 2, të kreut IV, të këtij vendimi.
+4. Agjencia Shtetërore e Kadastrës administron dhe përdor në masën 100% të ardhurat nga kalimi i pronësisë mbi truallin funksional të objektit pa titull ose mbi oborrin në përdorim, nga kalimi i pronësisë mbi truallin shtetëror në përdorim me destinacion social-ekonomik, si dhe nga tarifat dhe penalitetet, të parashikuara në këtë vendim. Këto të ardhura përdoren në funksion të veprimtarisë së ASHK-së, sipas parashikimeve të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”.
+V. DISPOZITA KALIMTARE DHE TË FUNDIT
+1. Drejtori i Përgjithshëm i ASHK-së miraton modelet për formularët e pagesave, që kryhen nga subjektet, në përputhje me përcaktimet e këtij vendimi.
+2. Vendimi nr. 860, datë 10.12.2014, i Këshillit të Ministrave, “Për përcaktimin e mënyrës së mbledhjes dhe administrimit të të ardhurave për ndërtimet pa leje dhe vlerave të zbatueshme për legalizim”, të ndryshuar, shfuqizohet.
+3. Ngarkohet Agjencia Shtetërore e Kadastrës për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

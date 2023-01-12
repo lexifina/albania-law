@@ -1,0 +1,2 @@
+4. Për miratimin e dokumentit të pronësisë për objektet pa titull dhe truallit funksional dhe oborret në përdorim, tarifa për procedurën administrative standarde është në vlerën 10 000 (dhjetë mijë) lekë. Kur subjekti kërkon kryerjen e procedurës administrative në mënyrë të përshpejtuar, tarifa është në vlerën 18 000 (tetëmbëdhjetë mijë) lekë.
+Pagesa kryhet nëpërmjet sistemit bankar, në llogarinë e drejtorisë vendore të ASHK-së, në momentin e paraqitjes së kërkesës në portalin qeveritar e-Albania.

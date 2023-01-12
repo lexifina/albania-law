@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim të detajojë llojet e të ardhurave që arkëtohen gjatë zbatimit të procedurave të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”, si dhe mënyrën e mbledhjes dhe administrimit të tyre.
