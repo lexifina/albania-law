@@ -4,7 +4,7 @@ Nr. 167, datë 28.6.2022
 
 MBI LICENCIMIN E SHOQËRISË “SALILLARI ENERGY TRADE” SHPK NË VEPRIMTARINË E FURNIZIMIT TË ENERGJISË ELEKTRIKE
 
-(ndryshuar me vendimn e bordit të ERE-s nr. 209, datë 17.8.2022)
+(ndryshuar me vendimet  e bordit të ERE-s nr. 209, datë 17.8.2022, nr. 7, datë 16.1.2023)
 
 (i përditësuar)
 
@@ -48,13 +48,13 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Salillari Energy Trade” sh.p.k. në veprimtarinë e furnizimit të energjisë elektrike, për një afat 5-vjeçar.
 
-2. Përpara fillimit të operimit të veprimtarisë së licencuar, shoqëria të informojë ERE-n mbi implementimin konkret të sistemit IT.
+2. Shfuqizuar..
 
 3. Shfuqizuar. 
 
-4. Shoqëria të depozitojë në ERE kontratën e rinovuar për disponimin e zyrave, brenda datës 1.3.2023. 
+4. Shfuqizuar. 
 
-5. Ky vendim është objekt rishikimi nga ERE.
+5. Shfuqizuar.
 
 6. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
