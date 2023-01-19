@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave z. Besmir Gjokutaj, zëvendësdrejtor i përgjithshëm i Agjencisë për Media dhe Informim, për të gjitha procedurat që lejon ligji, për aq sa është e mundur dhe në përputhje me legjislacionin në fuqi.
