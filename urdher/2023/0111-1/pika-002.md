@@ -1,0 +1,1 @@
+2. Urdhri i përbashkët i ministrit të Punëve Publike dhe Transportit dhe i ministrit të Brendshëm nr. 4103, datë 19.9.2011, “Për miratimin e Programit Kombëtar të Trajnimeve të Sigurisë në Aviacionin Civil”, shfuqizohet.
