@@ -1,1 +1,1 @@
-7. Marrëdhëniet e punës për nëpunësit e Agjencisë rregullohen sipas dispozitave të legjislacionit për nëpunësin civil, ndërsa për punonjësit administrativë sipas dispozitave të Kodit të Punës.
+7. Marrëdhëniet e punës të drejtorit të përgjithshëm dhe të punonjësve të Agjencisë rregullohen sipas dispozitave të ligjit nr. 7961, datë 12.7.1995, ’Kodi i Punës i Republikës së Shqipërisë’, të ndryshuar.
