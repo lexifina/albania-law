@@ -1,0 +1,1 @@
+3. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Gjirokastër kryen ndryshimin e llojit të pasurisë në certifikatën e pasurisë, sipas të dhënave për pasuritë e përcaktuara në pikën 1 të këtij vendimi.

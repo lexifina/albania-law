@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Gjirokastër, pasqyron në dokumentacionin kadastral (LN) ndryshimin e resursit nga “tokë bujqësore” vresht në “tokë urbane”, të sipërfaqes 390.99 m2, pjesë e pasurisë me numër 1/394, dhe të sipërfaqes 269.13 m2, pjesë e pasurisë me numër 2/465, zona kadastrale 1476, Bashkia Dropull.
