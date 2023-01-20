@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor, znj. Mimoza Dhëmbi, me detyrë drejtor i përgjithshëm pranë Ministrisë së Financave dhe Ekonomisë, për të gjitha procedurat e prokurimit publik me fonde buxhetore për Ministrinë e Financave dhe Ekonomisë.
