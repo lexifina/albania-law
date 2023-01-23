@@ -1,0 +1,99 @@
+VENDIM
+
+Nr. 358, datë 30.12.2022
+
+MBI  ZGJIDHJEN E MOSMARRËVESHJES NDËRMJET SHOQËRISË “KROI MBRET ENERGJI” SHPK DHE SHOQËRISË FURNIZUESI I TREGUT TË LIRË SHA DHE SHOQËRISË OPERATORI I SISTEMIT TË SHPËRNDARJES SHA
+
+Në mbështetje të nenit 16 dhe nenit 20, germat “a” dhe “ë”, nenit 24, pikat 1, 2 dhe 3, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; vendimit të Këshillit të Ministrave (VKM) nr. 456, datë 29.6.2022 “Për miratimin e kushteve për vendosjen e detyrimit të shërbimit publik, që do të zbatohen ndaj të licencuarve në sektorin e energjisë elektrike, të cilët ushtrojnë aktivitetin e prodhimit, transmetimit, shpërndarjes dhe furnizimit me energji elektrik”; VKM nr. 650, datë 10.10.2022 “Për disa shtesa dhe ndryshime në VKM nr. 584 date 8.10.2021, “Për shpalljen e gjendjes se emergjencës në furnizimin me energji elektrike”, të ndryshuar; si dhe  nenit 23, pika 12, të rregullores “Për organizimin, funksionimin dhe procedurat e ERE-s”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE), nr. 96, datë 3.9.2016; Rregullores për trajtimin e ankesave të paraqitura nga klientët dhe për zgjidhjen e mosmarrëveshjeve midis të licencuarve, në sektorin e energjisë elektrike dhe të gazit natyror, miratuar me vendimin e Bordit të ERE-s nr. 114, datë 8.7.2016 dhe “Kontratës për shit-blerje të energjisë elektrike ndërmjet Operatorit të Shpërndarjes së Energjisë Elektrike (OSHEE sh.a.) dhe prodhuesve me përparësi të energjisë elektrike”, miratuar me vendimin e Bordit të ERE-s nr. 101, datë 23.6.2016, ndryshuar me vendimin nr. 147 datë 30.9.2016, ndryshuar me vendimin nr. 255 datë 24.12.2018; Bordi i ERE-s, në mbledhjen e tij të datës 30.12.2022, mbasi shqyrtoi relacionin e përgatitur nga grupi i punës me nr. 2129/3  prot., datë  29.12.2022, “Mbi  kërkesën për zgjidhjen e mosmarrëveshjes ndërmjet  shoqërisë “Kroi Mbret Energji” sh.p.k. dhe Shoqërisë Furnizuesi i Tregut të lirë sh.a.”, 
+
+konstatoi se:  
+
+- Bordi i ERE-s, me vendimin nr. 113, datë 19.05.2022, “Mbi kërkesën për zgjidhjen e mosmarrëveshjes ndërmjet shoqërisë “Kroi Mbret Energji” sh.p.k. dhe shoqërisë Furnizuesi i Tregut të Lirë sh.a., vendosi:
+
+Pranimin për shqyrtim nga ERE të kërkesës së paraqitur nga Shoqëria “Kroi Mbret Energji” sh.p.k., për zgjidhjen e mosmarrëveshjes ndërmjet shoqërisë “Kroi Mbret Energji” sh.p.k. dhe Shoqërisë “FTL” sh.a. dhe OSSH sh.a., duke filluar procedurën për zgjidhjen e mosmarrëveshjes në përputhje me rregulloren “Për trajtimin e ankesave të paraqitura nga klientët dhe për zgjidhjen e mosmarrëveshjeve midis të licencuarve, në sektorin e energjisë elektrike dhe të gazit natyror”, miratuar me vendimin e Bordit të ERE-s nr. 114, datë 8.7.2016.
+
+- Rezulton se gjatë seancave dëgjimore të zhvilluara në datat 5.4.2022 dhe 15.4.2022 dhe shqyrtimit të mosmarrëveshjes, palët parashtruan qëndrimet dhe argumentet e tyre duke u fokusuar kryesisht në qëndrimet/pretendimet si më poshtë vijon:
+
+i) nga shoqëria “Kori Mbret Energji” sh.p.k., pretendohet: kompensimi i energjisë referuar sasisë në kWh të prodhuar dhe çmimeve të miratuara nga ERE për prodhuesit e energjisë elektrike nga hidrocentralet Backa 1 A dhe C për periudhën nga data 15.11.2019–30.4.2021, ku rezulton energji elektrike e prodhuar në vlerën prej  130.763.110 lekë;
+
+ii) nga shoqëria “FTL” sh.a., pretendohet: se nuk ka asnjë dokumentacion provues përkatës dhe respektivisht për periudhën e pretenduar nga shoqëria “Kori Mbret Energji” sh.p.k., nuk ka pasur një marrëveshje shit-blerjeje energjie respektivisht: Kontrata për shit-blerje të energjisë elektrike ndërmjet Operatorit të Shpërndarjes së Energjisë Elektrike (OSHEE sh.a.) dhe prodhuesve me përparësi të energjisë elektrike”, miratuar me vendimin e Bordit të ERE-s nr. 101, datë 23.06.2016, e ndryshuar;
+
+iii) shoqëria “OSSH” sh.a., (në mënyrë të përmbledhur), parashtron: Shoqëria “Kroi Mbret Energji” sh.p.k., nuk ka zbatuar detyrimet e Kodit të Shpërndarjes, rregullores së lidhjeve të reja dhe rregullores së shfrytëzimit teknik, sipas të cilave specifikohet mënyra e operimit të centralit në rrjetin e shpërndarjes. Shoqëria “Kroi Mbret Energji” sh.p.k., ka aplikuar për lidhje të re në rrjetin e shpërndarjes për burimin gjenerues HEC Backa me shkresën nr. 5612 prot., data 25.4.2018. Për sa i përket energjizimit të HEC Backa 1, A, C, OSSH sh.a., në datën 6.11.2019 ka urdhëruar vënien në tension të HEC për qëllime testimi me ngarkesë, për një periudhë 72 orë, nga data 8.11.2019–12.11.2019 kur është njoftuar përfundimi i provës 72-orëshe të HEC Backa dhe janë shkëputur nga rrjeti i shpërndarjes në datë 15.11.2019
+
+- Në mbështetje të neneve 13 dhe 20, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar, nenit 26, pika 1, të rregullores “Për organizimin, funksionimin dhe procedurat e ERE” miratuar me vendimin e Bordit të ERE-s nr. 96 datë 17.6.2016, me urdhrin nr. 38 prot., datë 29.3.2022 dhe urdhrin nr. 88 prot., datë 6.6.2022 është ngritur dhe zgjeruar grupi i punës për zgjidhjen dhe shqyrtimin e mosmarrëveshjes ndërmjet shoqërisë “FTL” sh.a., dhe shoqërisë “Kroi Mbret Energji” sh.p.k. 
+
+- OSHEE sh.a. nëpërmjet shkresës nr. 5612/5 prot. datë 25.06.2018 ka dhënë miratimin e   pikës së lidhjes për kaskadën e HEC-eve Backa 1, Backa 2, Backa A, Backa B, Backa C, për shoqërinë  “Kroi Mbret Energji” sh.p.k. ku ndër të tjera përcaktohet se: kaskada e HEC-eve Backa 1, Backa 2, Backa A, Baca B, Backa C do të lidhet me rrjetin e shpërndarjes nëpërmjet zbarave 10 kV të nënstacionit 35/10 kV Çorovodë e Re. Si dhe matja e energjisë elektrike do të realizohet me matës statik me dy drejtime (marrje–dhënie) për energjinë aktive dhe reaktive sipas kërkesave të Kodit të Matjes.
+
+- Shoqëria “Kroi Mbret Energji” sh.p.k. nëpërmjet shkresës me nr. 23 prot., datë 30.10.2019, drejtuar Operatorit të Shpërndarjes së Energjisë Elektrike (OSSH) sh.a. parashtron se: duke qenë se punimet për ndërtimin e këtyre HEC-eve kane përfunduar, po paraqesim te ju kërkesën për energjizim të linjës si dhe kërkesën për lidhje kontrate shitblerje të energjisë elektrike me shoqërinë OSHEE sh.a.
+
+- Nëpërmjet procesverbalit montim sistemi matje ndërmjet palëve OSHEE sh.a. dhe shoqërisë  “Kroi Mbret Energji” sh.p.k., datë 15.11. 2019, procesverbal ndërmjet shitësit PPE shoqërisë  “Kroi Mbret Energji” sh.p.k, dhe OSHEE sh.a. Blerësi. Procesverbali është nënshkruar nga përfaqësuesit e dy palëve si të shoqërisë OSHEE sh.a. dhe shoqërisë “Kroi Mbret Energji” sh.p.k., i cili evidenton gjithë elementet e sigurisë së kërkuar ku përfshihen; fuqia e instaluar, pika e livrimit, pika e matjes, skema e lidhjes, të dhëna për sistemin e matjes, tipi i matësit, viti i prodhimit, koeficienti i leximit, vulat përkatëse me numrat serial të OSHEE sh.a., si dhe element të tjerë që tregojnë të dhëna të sistemit të matjes. Në këtë procesverbal evidentohet edhe energjia e prodhuar dhe energjia e konsumuar.
+
+- Gjithashtu rezulton se palët FTL sh.a./OSHEE Group sh.a., dhe shoqëria “Kroi Mbret Energji” sh.p.k., më datë 30.4.2021, kanë nënshkruar procesverbalin “Procesverbal montim sistemi matje”, ndërmjet shitësit PPE shoqërisë “Kroi Mbret Energji” sh.p.k. dhe FTL sh.a./OSHEE Group sh.a., Blerësi. Procesverbali i nënshkruar evidenton gjithë elementet e sigurisë së kërkuar ku përfshihen; Fuqia e instaluar, pika e livrimit, pika e matjes, skema e lidhjes, të dhëna për sistemin e matjes, tipi i matësit, viti i prodhimit, koeficienti i leximit, vulat përkatëse me numrat serial të OSHEE sh.a., si dhe elemente të tjera që tregojnë të dhëna të sistemit të matjes. Në këtë procesverbal ndër të tjera evidentohet: energjia e prodhuar dhe energjia e konsumuar.
+
+- Rezulton se, ERE nëpërmjet shkresës nr. 697/1 prot., datë 3.6.2021 ka bërë me dije se: i) palët  kanë pranuar me veprime konkludente kontratën si veprim juridik, nëpërmjet shprehjes së vullnetit të tyre bazuar dhe në nenin 80 të Kodit Civil, i cili parashikon se; veprimi juridik mund të kryhet me shkrim, me gojë dhe me çdo lloj shfaqje tjetër të padyshimtë të vullnetit, i cili sipas arsyetimit të vendimit të Kolegjit Civil të Gjykatës së Lartë të Republikës së Shqipërisë me nr. 11243-01443-00-2008 i Regj. Themeltar nr. 00-2013-763 i vendimit (172), ku parashikohet se: …me shprehjen “shfaqje tjetër e padyshimtë e vullnetit”, do të kuptojmë pikërisht, shfaqjen e vullnetit me veprime konkludente ose me heshtje. Një gjë e tillë parashikohet qartë dhe në nenet 669 dhe 676 të Kodit Civil, të cilat nuk bëjnë gjë tjetër, veçse plotësojnë kuptimin e nenit 80 të K.Civil.”; ii).... fakti që Operator i sistemit të shpërndarjes ka vijuar pranimin në rrjet të energjisë elektrike, tregon qartë që ajo ka pranuar këtë propozim dhe ka qenë dakord me vazhdimin e këtij bashkëpunimi, me kushtet e mësipërme, në të kundërt do të kishte ndërprerë kryerjen e shërbimeve,. iii) ....Furnizuesi i Tregut të Lirë sh.a. duhet të marrë masat për rakordimin dhe njohjen e kompensimit të energjisë elektrike të prodhuar nga ana e shoqërisë “Kroi Mbret Energji” sh.p.k. nëpërmjet HEC-ve Backa 1, A dhe C në bazë të legjislacionit në fuqi. 
+
+- Veç sa më sipër lidhur me pretendimet e shprehura nga shoqëria OSSH sh.a. mbi shoqërinë “Kroi Mbret Energji” sh.p.k., duke qenë se jemi në rastin e mosmarrëveshjes ndërmjet Përdoruesit të rrjetit të shpërndarjes respektivisht shoqërisë “Kroi Mbret Energji” sh.p.k me operatorin e OSSH sh.a. ka një  mospërputhje të lindur në kushtet e periudhës së emergjencës COVID-19. Konstatojmë se periudha në të cilën kjo situatë ka ndodhur rezulton dhe në kushtet e pandemisë COVID-19. 
+
+- Rezulton se ndikimi kryesor i pandemisë tek operatorët  e rrjetit të vendeve të EU sikurse ka raportuar CEER (Këshilli Evropiani i Rregullatorëve të Energjisë) më 8 shkurt 2022 në analizën e bërë për efektet e pandemisë COVID-19 mbi sektorin e energjisë për periudhën janar 2020–qershor 2021, pasi qeveritë filluan të vendosin masa për të frenuar përhapjen e COVID-19, operatorët e rrjetit të EU morën masa mbrojtëse shëndetësore në përputhje me udhëzimet e qeverisë ku përcaktuan se cilat detyra do të kishin prioritet duke u fokusuar tek aktivitetet që mund të shtyhen dhe kjo bëri ndarjen e stafit operacional nga pjesa tjetër e fuqisë punëtore për të siguruar vazhdimësinë e aktiviteteve thelbësore.  
+
+- Bordi i ERE-s, me vendimin nr. 96, datë 27.10.2014, ka vendosur për licencimin e shoqërisë Operatori i Shpërndarjes së Energjisë Elektrike (OSHE) sh.a. në aktivitetin e shpërndarjes të energjisë elektrike, në të njëjtën kohë bordi i ERE-s me vendimin nr. 216, datë 11.10.2018, ka vendosur  transferimin e licencës për operimin e sistemit të shpërndarjes së energjisë elektrike, të shoqërisë Operatori i Shpërndarjes së Energjisë Elektrike sh.a. (OSHEE  sh.a.), me nr. 250, seria P14Sh, miratuar me vendimin e bordit të komisionerëve të ERE-s nr. 96, datë 27.10.2014, te shoqëria “Operatori i Sistemit të Shpërndarjes” sh.a. (OSSH sh.a. ).
+
+- Bordi i ERE-s me vendimin nr. 198, datë 3.9.2018 mori vendim për licencimin e shoqërisë “Furnizuesi i Tregut të Lirë” (FTL) sh.a. në veprimtarinë e tregtimit të energjisë elektrike për një afat 5 vjecar.
+
+- Rezulton se shoqëria FTL sh.a. në datën 30.4.2021 ka montuar dhe vulosur të njëjtin sistem matje me atë të realizuar nga shoqëria OSHEE sh.a. në datën 15.11.2019, pasi të gjithë elementët matësi, transformatorët e rrymës dhe të tensionit janë të njëjtë. 
+
+- Ky element ka ndikuar në faktin e evidentimit të sasisë së prodhuar nga shoqëria “Kroi Mbret Energji” sh.p.k., para datës 30.4.2021, kur është nënshkruar edhe kontrata e shit-blerjes së energjisë elektrike ndërmjet palëve. Pranimi i të njëjtit sistem matje dhe nga FTL sh.a. sikurse evidentuar në procesverbalet e mbajtura më datë 15.11.2019 dhe datë 30.4.2021 është një argument që nuk mbështet sa pretenduar nga FTL sh.a. me shkresën nr. 1413/1 prot., datë 9.6.2022 të sipërcituar.
+
+- Nëse shoqëritë FTL sh.a. dhe OSSH sh.a. kanë konstatuar se shoqëria “Kroi Mbret Energji” sh.p.k., po operonte pa përmbushur kushtet e licencës së dhënë nga ERE, do të duhej të kishin bërë me dije që në momentin që evidentohej ky fakt në mënyrë që ERE të mund të ndërhynte dhe të merrte masat përkatëse. Kushti i licencës sikurse dhe vet FTL sh.a. bën me dije  nëpërmjet shkresës nr. 1413/1 prot., datë 9.6.2022 është shfuqizuar me vendimin nr. 95, datë 6.4.2021 të Bordit të ERE dhe evidentimi i këtij fakti pas shfuqizimit të këtij kushti e bën të pamundur ndërhyrjen e ERE kur kushti nuk ekziston.
+
+- Në çdo rast nëse shoqëritë prodhuese përfshi dhe shoqërinë “Kroi Mbret Energji” sh.p.k., nuk operojnë në zbatim të kushteve të licencës përbën një shkelje të këtyre kushteve dhe i ngarkon me përgjegjësi këto shoqëri, operatorët e rrjetit dhe FTL sh.a. të cilët kërkojnë depozitimin e licencës nga shoqëritë prodhuese për të vijuar marrëdhëniet kontraktore duhet të njoftojnë në kohë ERE për çdo problematikë të ndeshur, që t’i krijojnë mundësi ERE të ndërhyjë me masat respektive.
+
+- Në këto rrethana duhet marrë në konsideratë fakti se energjia elektrike është një produkt i cili prodhohet, livrohet dhe konsumohet në kohë reale. Sikurse evidentohet dhe nëpërmjet shkresës së OSHEE sh.a. nr. 5612/5 prot. datë 25.6.2018 u është dhënë miratim pike lidhje kaskadës së Heceve Backa 1, Backa 2, Backa A, Backa B, Backa C, në rrjetin e shpërndarjes nëpërmjet zbarave 10 kV të nëstacionit 35/10 kV Çorovodë e Re, si dhe matja e energjisë elektrike do të realizohet me matës statik me dy drejtime (marrje - dhënie) për energjinë aktive dhe reaktive sipas kërkesave të kodit të matjes. Për rrjedhojë prodhimi i realizuar dhe që aktualisht realizohet nga kjo shoqëri livrohet në rrjetin e shpërndarjes.
+
+- Bazuar në VKM-në nr. 244, datë 30.3.2016, “Për miratimin e kushteve për vendosjen e detyrimit të shërbimit publik, që do të zbatohen ndaj të licencuarve në sektorin e energjisë elektrike, të cilët ushtrojnë aktivitetin e prodhimit, transmetimit, shpërndarjes dhe furnizimit me energji elektrike”, i ndryshuar, neni 11 pika 3 përcakton se: (vendim i cili ka qënë në fuqi atë periudhë kohore).
+
+Shoqëria publike e furnizimit në tregun e lirë, deri në krijimin e Operatorit të Energjisë së Rinovueshme dhe krijimin e tregut të ditës në avancë, do ta tregtojë këtë energji për mbulimin e humbjeve të Operatorit të Sistemit të Shpërndarjes me të njëjtin çmim me të cilin e blen këtë energji nga prodhuesit me përparësi të energjisë elektrike, deri në përfundimin e kontratave të shitblerjes së energjisë. Në rast të tepricave të krijuara ato do të tregtohen në treg të parregulluar me çmimin që ofron ky treg në përputhje me kushtet dhe procedurat e përcaktuara, bazuar në rregulloren për tregtimin e energjisë elektrike, që miratohet me vendim të Entit Rregullator të Energjisë.
+
+- Aktualisht VKM nr. 244, datë 30.3.2016, e ndryshuar është shfuqizuar me VKM-në nr. 456, datë 29.6.2022 “Për miratimin e kushteve për vendosjen e detyrimit të shërbimit publik, që do të zbatohen ndaj të licencuarve në sektorin e energjisë elektrike, të cilët ushtrojnë aktivitetin e prodhimit, transmetimit, shpërndarjes dhe furnizimit me energji elektrike” ku ndër të tjera përcakton si më poshtë vijon:
+
+1. Çdo detyrim i vendosur ndaj të licencuarve, në përputhje me legjislacionin në fuqi, në lidhje me burimet e rinovueshme të energjisë, do të konsiderohet detyrim i shërbimit publik. 
+
+2. Detyrimi i shërbimit publik për blerjen e energjisë elektrike nga burimet e rinovueshme të energjisë i vendoset shoqërisë publike të furnizimit në tregun e lirë, në përputhje me legjislacionin në fuqi dhe kontratën tip, të miratuar nga ERE. Shoqëria publike e prodhimit ka të drejtë të lidhë kontratë blerjeje të energjisë elektrike nga burime të rinovueshme që shërbejnë për diversifikimin e prodhimit e saj. 
+
+3. Shoqëria publike e furnizimit në tregun e lirë, deri në krijimin e operatorit të energjisë së rinovueshme dhe krijimin e tregut të ditës në avancë, do ta tregtojë këtë energji për mbulimin e humbjeve të Operatorit të Sistemit të Shpërndarjes, me të njëjtin çmim me të cilin e blen këtë energji nga prodhuesit me përparësi të energjisë elektrike, deri në përfundimin e kontratave të shitblerjes së energjisë.
+
+- VKM nr. 456, datë 29.6.2022 sipërcituar ka të njëjtat detyrime ligjore për shoqërinë FTL sh.a. lidhur me energjinë elektrike të prodhuar nga burimet e rinovueshme ku përfshihen dhe burimet e shoqërisë “Kroi Mbret Energji” sh.p.k.
+
+- Energjia e prodhuar nga Hec-et e shoqërisë “Kroi Mbret Energji” sh.p.k., e livruar në rrjetin e shpërndarjes dhe për të cilën nuk evidentohen transaksione me furnizues të tjerë të energjisë elektrike për periudhën 15.11.2019–30.4.2021, ka shkuar për nevojë të përmbushjes së detyrimit të shërbimit publik.
+
+- Për sa parashtruar më lart vlerësojmë se shoqëritë FTL sh.a. dhe “Kroi Mbret Energji” sh.p.k. duhet të marrin masa për të rakorduar ndërmjet tyre sasinë e energjisë elektrike të evidentuar në matës për periudhën 15.11.2019–30.4.2021, duke marrë në konsideratë procesverbalet përkatës të instalimit të sistemit të matjes evidentuar më sipër. Gjithashtu shoqëria duhet të rakordojë bilancin energjetik me OSSH sh.a. për këtë sasi energjie në përputhje me përcaktimin e mësipërm të VKM-së nr. 456/2022.
+
+- Vlerësojmë se, mbështetur në parashikimet e ligjit  nr. 43/2015, për sa parashikohet në lidhje me kërkesat për energji elektrike, mënyra dhe masat e plotësimit të saj përcaktohen në Bilancin vjetor të energjisë dhe në kërkesën  afatgjatë për energji elektrike që miratohen dhe publikohen nga Rregullatori si dhe, faktin se operatorët e sistemit energjetik ofrojnë të dhëna për prodhimin bruto dhe neto të energjisë elektrike, kapacitetin e instaluar të centraleve, importin eksportin, energjinë elektrike të furnizuar, humbjet në transmetim dhe shpërndarjen, të dhëna lidhur me nënstacionet, të dhëna lidhur me gjatësinë dhe nivelin  e tensioneve të linjave, linjat e reja dhe të planifikuara si dhe të dhënat e tjera relevante.
+
+Për gjithë sa më sipër, Bordi i ERE-s 
+
+VENDOSI:
+
+1. Shoqëritë OSSH sh.a., dhe Kroi Mbret Energji sh.p.k., të marrin masa për të evidentuar sasinë e energjisë elektrike në matës për periudhën 15.11.2019–30.4.2021, shoqëritë FTL sh.a. dhe “Kroi Mbret Energji” sh.p.k. të marrin masa për të rakorduar ndërmjet tyre sasinë e energjisë elektrike për periudhën 15.11.2019–30.4.2021.
+
+2. Shoqëria FTL sh.a. të realizojë rakordimet përkatëse në bilancin energjetik me shoqërinë OSSH sh.a. për këtë sasi të energjisë elektrike.
+
+3. Shoqëria FTL sh.a. të njohë dhe të paguajë shoqërinë “Kroi Mbret Energji” sh.p.k. për sasinë e energjisë elektrike të rakorduar dhe të evidentuar në sistemin matës sipas çmimit të miratuar nga ERE për periudhën përkatëse 2019–2021.
+
+4. Në asnjë rast shoqëria OSSH sh.a., nuk do të lejojë lidhjen në rrjetin e shpërndarjes dhe shoqëria  FTL sh.a., nuk do të lejojë lidhjen e kontratës së shitblerjes së energjisë elektrike për vendimet e licencimit të dhëna nga ERE  përpara operimit të veprës në sistemin energjetik.
+
+5. Ky vendim vlen vetëm për këtë rast të shqyrtuar.
+
+6. Brenda 5 ditëve nga marrja dijeni palët të njoftojnë zyrtarisht ERE për zbatimin e vendimit.
+
+7. Drejtoria Juridike dhe Zgjidhjes së Mosmarrëveshjeve të njoftojë shoqëritë FTL sh.a., OSSH sh.a. dhe “Kroi Mbret Energji” sh.p.k. për vendimin e Bordit të ERE-s.
+
+Ky vendim hyn në fuqi menjëherë.
+
+Çdo palë e përfshirë në këtë procedurë mund t’i kërkojë ERE-s, brenda 7 ditëve kalendarike nga data e marrjes së vendimit, rishikimin e vendimit të Bordit në rast se ka siguruar prova të reja që mund ta çojnë Bordin në marrjen e një vendimi të ndryshëm nga i mëparshmi apo për gabime materiale të konstatuara. Për këtë vendim mund të bëhet ankim në Gjykatën Administrative Tiranë, brenda 30 ditëve kalendarike nga dita e publikimit në Fletoren Zyrtare.
+
+Ky vendim botohet në Fletoren Zyrtare.
+
+KRYETAR
+
+ Petrit Ahmeti
