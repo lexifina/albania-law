@@ -1,0 +1,9 @@
+# Mbi një ndryshim në vendimin nr. 247, datë 29.9.2022, për licencimin e shoqërisë "Bursa Shqiptare e Energjisë Elektrike-Alpex" sh.a. në veprimtarinë e operimit të tregut të energjisë elektrike
+
+Official source: [Vendim nr. 329, datë 14.12.2022 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/54789).
+
+Status of this text: `as-enacted`. Adopted 2022-12-14; published 2023-01-23; in force 2023-01-23.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
