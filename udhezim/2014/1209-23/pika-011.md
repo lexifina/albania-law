@@ -40,6 +40,11 @@ Personi fizik, për vete, me dëshirën e tij, kontributet e sigurimeve shoqëro
 - Kategoria 31. I punësuar, i cili për gjithë muajin ka qenë me raport leje barrëlindjeje dhe merr përfitime nga skema e sigurimeve shoqërore, por nuk i ka shkëputur (zgjidhur) marrëdhëniet e punës me subjektin përkatës.
 - Kategoria 32. I punësuar, i cili për gjithë muajin ka qenë me raport mjekësor pas ditës së 14 dhe merr përfitime nga skema e sigurimeve shoqërore, por nuk i ka shkëputur (zgjidhur) marrëdhëniet e punës me subjektin përkatës.
 - Kategoria 33. I punësuari me aftësi të kufizuara, përfshirë personat që nuk dëgjojnë dhe invalidët e punës të vlerësuar pjesërisht të aftë për punë nga komisionet përkatëse, për të cilët lind detyrimi i derdhjes së kontributeve nga punëdhënësi, sipas dispozitave të ligjit nr. 15/2019, “Për nxitjen e punësimit”.
+- Kategoria 34. Person i papunë (grua) me tre apo më shumë fëmijë të moshës deri në 18 vjeç, ku njëri prej fëmijëve është nën moshën 5 vjeç dhe familja ka të ardhura nën 100 000 (njëqind mijë lekë në muaj).
+- Kategoria 35. Kujdestar i personit invalid paraplegjik dhe tetraplegjik, i cili nuk është ekonomisht aktiv, si dhe nuk përfiton të ardhura nga skema e sigurimit të detyrueshëm shoqëror.
+- Kategoria 36. I vetëpunësuar i vetëm që është përfitues i pensionit të pleqërisë.
+- Kategoria 37. Person i trajtuar me pagesë kalimtare, sipas ligjit nr. 10142, datë 15.5.2009, të ndryshuar.
+- Kategoria 38. Person i papunë që përfiton pagesë papunësie.
 10.9 Për kohën që të dhënat e formularit listëpagesa e sigurimeve shoqërore, shëndetësore dhe tatimit mbi të ardhurat nga punësimi, nga administrata tatimore nuk janë dërguar akoma në Institutin e Sigurimeve Shoqërore dhe Fondin e Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, vërtetimet për kontributet e paguara, që kërkojnë tatimpaguesit dhe individët kontribuues, lëshohen zyrtarisht nga drejtoria rajonale tatimore përkatëse sipas rregullave dhe afateve të miratuara nga drejtori i Përgjithshëm i Tatimeve. Këto vërtetime, të cilat konfirmojnë situatën e tatimpaguesit dhe individit përkatës lidhur me kontributet, janë si më poshtë:
 - Për kontributet e sigurimeve shoqërore e shëndetësore për tatimpaguesin;
 - Për kontributet e sigurimeve shoqërore e shëndetësore për individët.
