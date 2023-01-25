@@ -1,0 +1,1 @@
+14. Institucionet e arsimit të mesëm të lartë të organizojnë konsultimet në ndihmë të nxënësve maturantë për provimet e Maturës Shtetërore, sipas një kalendari të miratuar nga ZVAP-ja. Këto konsultime do të jenë objekt monitorimi nga Drejtoria Rajonale e Arsimit Parauniversitar.
