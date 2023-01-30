@@ -1,0 +1,9 @@
+# Mbi përfundimin e procedurës së filluar me vendimin ERE-s nr. 112, datë 19.5.2022, mbi kërkesën e shoqërisë "HEC - i Tërvolit" sh.p.k.,, "Për zgjidhjen e mosmarrëveshjes ndërmjet shoqërisë Furnizuesi i Tregut të Lirë (FTL) sh.a. dhe shoqërisë "HEC i Tërvolit" sh.p.k."
+
+Official source: [Vendim nr. 360, datë 30.12.2022 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/63440).
+
+Status of this text: `as-enacted`. Adopted 2022-12-30; published 2023-01-30; in force 2023-01-30.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
