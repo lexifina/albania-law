@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, pronë private, që shpronësohen, kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për pasuritë e llojit “arë” dhe “drufrutorë”, me një vlerë të përgjithshme prej 2 374 693 (dy milionë e treqind e shtatëdhjetë e katër mijë e gjashtëqind e nëntëdhjetë e tre) lekësh.
