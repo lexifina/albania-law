@@ -1,0 +1,1 @@
+6. Në rast se pranë institucioneve qendrore paraqiten ankesa/kërkesa, shqyrtimi i të cilave, pavarësisht adresimit të kryer nga ankuesi, janë në kompetencë të Agjencisë, në përputhje me ligjin nr. 17/2021, ato i përcillen në rrugë zyrtare kësaj të fundit për ndjekje dhe kompetencë.

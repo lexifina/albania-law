@@ -1,0 +1,3 @@
+1. Ky vendim ka si objekt përcaktimin e rregullave për:
+a) funksionimin e bazës së të dhënave të platformës “Me ty për Shqipërinë që duam”, në vijim “Platforma”, seksioneve të saj, së bashku me elementet përkatëse, si: të dhënat parësore e dytësore, dhënësit e informacionit, si dhe për ndërveprimin me bazat e tjera të të dhënave;
+b) procedurën dhe metodologjinë e ndërveprimit mes sistemeve elektronike dhe protokolleve të institucioneve për kalimin automatik në platformë të çështjeve të parashikuara në ligjin nr. 107/2021, “Për bashkëqeverisjen”, në vijim “ligji”, si dhe për monitorimin e trajtimit të shkresave të subjekteve private, drejtuar institucioneve të administratës shtetërore.

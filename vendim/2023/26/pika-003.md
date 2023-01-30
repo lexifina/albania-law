@@ -1,0 +1,1 @@
+3. Baza e të dhënave të “Platformës” është e organizuar në pjesë, në vijim të quajtura seksione, të cilat pasqyrojnë seksionet e parashikuara në kreun VI të ligjit. Në rast të miratimit të seksioneve të reja të “Platformës” nga Këshilli i Ministrave, në përputhje me pikën 4, të nenit 16, të ligjit, ky ndryshim pasqyrohet në bazën e të dhënave.

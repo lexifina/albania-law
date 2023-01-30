@@ -1,0 +1,1 @@
+8. Denoncimet e ardhura në rrugë shkresore, që i drejtohen Rrjetit të Koordinatorëve kundër Korrupsionit, nuk trajtohen nga Agjencia, por i përcillen për ndjekje dhe kompetencë strukturës përkatëse pranë Ministrisë së Drejtësisë.

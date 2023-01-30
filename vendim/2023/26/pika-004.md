@@ -1,0 +1,1 @@
+4. Baza e të dhënave të “Platformës”, sipas seksioneve përkatëse, përmban të dhëna për ankesat dhe kërkesat e subjekteve dhe për ecurinë e përfundimin e shqyrtimit të tyre (ankesave/kërkesave). Këto të dhëna përftohen nga Agjencia gjatë zbatimit të procedurave të parashikuara në ligj dhe në aktet nënligjore në zbatim të tij.

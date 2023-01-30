@@ -1,0 +1,6 @@
+9. Në kuptim të shkronjës “c”, të pikës 4, të kreut II, të këtij vendimi, akses në rolin e lexuesit në ankesat dhe kërkesat e ardhura nga protokolli shkresor i institucionit, të regjistruara në “Platformën” e bashkëqeverisjes, përveç punonjësve të ngarkuar me ndjekjen e tyre, kanë dhe titullari i institucionit, drejtori i kabinetit dhe sekretari i përgjithshëm.
+IV. DISPOZITA TË FUNDIT
+1. Agjencia, në bashkëpunim me AKSHI-n, bashkërendojnë punën për zhvillimet teknike të nevojshme, që të mundësohen funksionimi i bazës së të dhënave dhe ndërveprimi i sistemeve, sipas përcaktimeve të këtij vendimi.
+2. Agjencia për Dialog dhe Bashkëqeverisje ndërvepron dhe bashkëpunon me Agjencinë e Ofrimit të Shërbimeve Publike të Integruara (ADISA) për ndjekjen e ecurisë së trajtimit të ankesave dhe kërkesave të administruara nga Agjencia përmes “Platformës” së bashkëqeverisjes www.shqipëriaqeduam.al, si dhe monitorimin e shërbimeve on-line sipas përcaktimeve në ligjin nr. 107/2021, “Për bashkëqeverisjen”, dhe në aktet nënligjore në zbatim të tij.
+3. Ngarkohen Agjencia për Dialog dhe Bashkëqeverisje, Agjencia Kombëtare e Shoqërisë së Informacionit dhe institucionet që ndërveprojnë në “Platformën” e bashkëqeverisjes për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
