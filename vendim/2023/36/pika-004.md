@@ -1,0 +1,1 @@
+4. Qendra Spitalore Rajonale krijohet kur një spital i përgjithshëm, terciar apo rajonal, administron një ose më shumë spitale të përgjithshme dhe/ose të specializuara dhe/ose ditore, në nivel bashkie ose qarku, me qëllim optimizimin e menaxhimit të burimeve financiare, njerëzore dhe ato kapitale, për ofrimin e një shërbimi spitalor cilësor dhe të aksesueshëm afër vendbanimit.

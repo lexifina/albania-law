@@ -1,0 +1,1 @@
+1. Spitalet rajonale terciare dhe qendrat spitalore rajonale krijohen, organizohen dhe funksionojnë, sipas përcaktimeve të bëra në ligjin nr. 55/2022, “Për shërbimin spitalor në Republikën e Shqipërisë”, dhe në këtë vendim. Hapja e spitaleve, rast pas rasti, bazuar në parashikimet e planit spitalor kombëtar bëhet nga ministri përgjegjës për shëndetësinë.

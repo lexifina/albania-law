@@ -1,0 +1,1 @@
+14. Komisioni Mjekësor për Qendrën Spitalore Rajonale përbëhet nga drejtuesit e spitaleve, të cilat janë pjesë e Qendrës Spitalore Rajonale dhe drejtuesit e shërbimeve ose përfaqësues të zgjedhur nga vetë shërbimet e këtyre spitaleve.

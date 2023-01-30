@@ -1,0 +1,1 @@
+7. Spitali mund të ofrojë shërbime të nivelit terciar për një ose më shumë specialitete që përbëjnë një njësi funksionale, të organizuar dhe të aftë për të shërbyer si qendër reference për rajonin përkatës vetëm për këtë shërbim terciar, bazuar në organizimin territorial dhe sistemin e referimit.

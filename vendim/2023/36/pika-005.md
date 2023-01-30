@@ -1,0 +1,1 @@
+5. Qendra Spitalore Rajonale menaxhon dhe administron burimet financiare dhe njerëzore, në bazë të nevojave për shërbim spitalor të popullatës që ajo mbulon, sipas udhëzimit të miratuar nga ministri përgjegjës për shëndetësinë.

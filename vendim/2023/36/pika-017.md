@@ -1,0 +1,1 @@
+17. Financimi i spitaleve bëhet në bazë të legjislacionit në fuqi dhe nga tarifat për shërbime klinike dhe joklinike për pacientë jashtë sistemit të referimit. Tarifat për shërbime klinike dhe joklinike jashtë sistemit të referimit përcaktohen në mekanizmin e sistemit të referimit.

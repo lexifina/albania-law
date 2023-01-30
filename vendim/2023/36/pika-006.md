@@ -1,0 +1,1 @@
+6. Spitali terciar është ai spital, i cili ofron shërbim mjekësor terciar, procedura diagnostike, terapeutike, konsulta të specializuara për diagnostikim e trajtim mjekësor me pajisje biomjekësore të teknologjisë së lartë.

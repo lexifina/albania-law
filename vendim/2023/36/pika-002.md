@@ -1,0 +1,1 @@
+2. Spitali rajonal, qendra spitalore rajonale dhe spitali terciar e ushtrojnë veprimtarinë e tyre, në përputhje me standardet, protokollet e shërbimeve për trajtimin spitalor dhe udhërrëfyesve, të miratuara nga ministria përgjegjëse për shëndetësinë.

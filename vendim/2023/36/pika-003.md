@@ -1,0 +1,1 @@
+3. Spitali rajonal është institucioni i kujdesit shëndetësor me shtretër, i përgjithshëm ose i specializuar, që ofron kujdes shëndetësor ndaj popullatës së një qarku të caktuar, sipas sistemit të referimit.
