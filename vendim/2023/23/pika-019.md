@@ -1,0 +1,1 @@
+19. Vendimi nr. 43, datë 19.1.2022, i Këshillit të Ministrave, “Për financimin e shërbimeve shëndetësore spitalore nga skema e detyrueshme e sigurimeve të kujdesit shëndetësor për vitin 2022”, të ndryshuar, shfuqizohet.
