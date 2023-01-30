@@ -1,0 +1,1 @@
+3. Në ushtrimin e kompetencave, sipas këtij urdhri, zëvendësministri ndihmohet dhe mbështetet nga Sekretari i Përgjithshëm i Ministrisë së Kulturës ose personi që ushtron detyrat e tij, në rast mungese.
