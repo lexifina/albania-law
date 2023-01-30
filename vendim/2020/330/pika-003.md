@@ -15,3 +15,4 @@ xi. Drejtoria e Përgjithshme e Doganave (DPD);
 xii. Operatori i Shpërndarjes së Energjisë Elektrike (OSHEE);
 xiii. Bankat, institucionet financiare jobankare, përfshirë edhe fondet e investimeve dhe të pensioneve;
 xiv. Çdo bazë tjetër të dhënash që mund të ndërveprojë me “Sistemin e Deklarimit të Pasurisë dhe Konfliktit të Interesit - EACIDS”.
+3/1. Të dhënat, që përmban “Sistemi i Deklarimit të Pasurisë dhe Konfliktit të Interesit -EACIDS”, mbrohen nëpërmjet një niveli sigurie që siguron enkriptimin e të dhënave që ruhen në të.
