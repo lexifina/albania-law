@@ -1,0 +1,5 @@
+# Neni 37
+Kërkesat për tregtim për verërat e vendit
+1. Vetëm produktet e përftuara nga përpunimi i rrushit për verë të përftuara nga varietete rrushi të përcaktuara në nenin 10 të këtij ligji, që prodhohen në parcela vreshti të ndodhura në Republikën e Shqipërisë, të cilat janë të regjistruara në regjistrin e vreshtarisë sipas nenit 11 të këtij ligji dhe të etiketuara në përputhje me këtë ligj mund të tregtohen.
+2. Produktet e përftuara nga përpunimi i rrushit për verë pa EOM-në ose TGJM-në me vit vere ose emër të një apo më shumë varieteteve të rrushit për verë të vendosur në etiketë mund të tregtohen vetëm në rast se këto produkte të rrushit për verë plotësojnë kushtet e përcaktuara në pikën 1 të këtij neni dhe janë certifikuar sipas rregullave të përcaktuara në nenin 36 të këtij ligji.
+3. Produktet e përftuara nga përpunimi i rrushit për verë, që përdorin në etiketë termat EOM, TGJM ose termat tradicionalë, mund të shiten vetëm në rast se këto produkte të rrushit për verë kanë EOM-në ose TGJM-në dhe kjo mund të vërtetohet mbi bazën e certifikatës.

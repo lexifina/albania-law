@@ -1,0 +1,6 @@
+# Neni 20
+Dorëzimi i kërkesave për TGJ-në dhe EO-në për verën
+dhe vlerësimi nga Komisioni i Verës
+1. Struktura përgjegjëse pas marrjes së kërkesës për vlerësim për regjistrim të një vere me TGJ-në ose EO-në nga Drejtoria e Përgjithshme e Pronësisë Industriale e dërgon atë te Komisioni i Verës brenda 5 (pesë) ditëve pune.
+2. Komisioni i Verës brenda 15 (pesëmbëdhjetë) ditëve pune nga marrja e kërkesës, sipas nenit 31 të këtij ligji, vlerëson dhe vendos nëse ato përmbushin kërkesat e përcaktuara në nenin 176 të ligjit nr. 9947, datë 7.7.2008, “Për pronësinë industriale”, të ndryshuar, si dhe referuar kompetencave të specifikuara në pikat 1 dhe 3 të nenit 182/c të tij. Vendimi i komisionit dërgohet te ministri për miratim dhe më pas përcillet te Drejtoria e Përgjithshme e Pronësisë Industriale.
+3. Në rast të paraqitjes së një kundërshtimi të kërkesës për regjistrim të një vere me TGJ ose EO nga Drejtoria e Përgjithshme e Pronësisë Industriale, Komisioni i Verës brenda 14 (katërmbëdhjetë) ditëve pune shqyrton dhe merr vendim për përmbushjen e kërkesave të përcaktuara në nenin 176 të ligjit nr. 9947, datë 7.7.2008, “Për pronësinë industriale”, të ndryshuar, duke iu referuar kërkesave të përcaktuara në pikën 7 të nenit 182/ç të tij. Vendimi i Komisionit dërgohet te ministri për miratim dhe më pas përcillet te Drejtoria e Përgjithshme e Pronësisë Industriale.
