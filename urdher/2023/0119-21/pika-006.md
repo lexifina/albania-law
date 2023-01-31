@@ -1,0 +1,1 @@
+6. Ndalohet peshkimi deri në gjashtë milje detare nga bregu ose deri në katër milje detare për anijet që nuk lejohen të peshkojnë më shumë se gjashtë milje detare, për të gjitha anijet e peshkimit fundor (trata koçe), që peshkojnë peshq fundor, për periudhën 1 korrik deri më 15 shtator.

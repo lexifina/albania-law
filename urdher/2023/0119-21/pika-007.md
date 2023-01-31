@@ -1,0 +1,1 @@
+7. Pas tremujorit të tretë të çdo viti, Sektori i Monitorimit, Përpunimit dhe Analizës së të Dhënave kryen verifikimin dhe rishpërndarjen e ditëve të peshkimit midis segmentit të flotës, në zbatim të faktorit kombëtar të konvertimit, i cili mbështetet në këshillat më të mira shkencore të disponueshme.

@@ -1,0 +1,2 @@
+11. Urdhri nr. 216, datë 29.5.2020, “Për një plan menaxhimi shumëvjeçar për peshkimin fundor të qëndrueshëm në detin Adriatik (nënzonat gjeografike 17 dhe 18) [rekomandimi GFCM/43/2019/5] dhe urdhri nr. 639, datë 22.12.2021, “Për vendosjen e një regjimi sforco të peshkimit për speciet kryesore fundore në detin Adriatik (nënzonat gjeografike 17 dhe 18) [rekomandimi GFCM/44/2021/1]”, shfuqizohen.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

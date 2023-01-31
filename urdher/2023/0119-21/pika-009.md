@@ -1,0 +1,1 @@
+9. Drejtoria e Politikave dhe Programeve të Peshkimit dhe Akuakulturës propozon ndalimin e peshkimit fundor, në rastin kur kuota ose kufiri i sforcos është arritur nga të gjitha anijet e peshkimit, sipas segmentit të flotës.
