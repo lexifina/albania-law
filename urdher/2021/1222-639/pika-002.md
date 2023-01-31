@@ -1,1 +1,0 @@
-2. Të gjitha anijet e peshkimit fundor, që peshkojnë peshq fundorë, nuk duhet të kalojnë 22 109 ditë peshkimi në vitin 2022, të ndara sipas llojit të veglës së peshkimit dhe segmentit të flotës, në përputhje me shtojcën 1 të rekomandimit, bashkëlidhur këtij urdhri.

@@ -1,1 +1,0 @@
-4. Ngarkohet Sektori i Monitorimit, Përpunimit dhe Analizës së të Dhënave në Drejtorinë e Politikave dhe Programeve të Peshkimit dhe Inspektorati i Peshkimit të monitorojnë konsumin e kuotës së sforcos ose kufirin e sforcos, në përputhje me pikën 3 të këtij urdhri, të shprehur në ditët e peshkimit për çdo segment flote.

@@ -1,1 +1,0 @@
-8. Pas tremujorit të tretë të çdo viti, Sektori i Politikave të Peshkimit dhe Akuakulturës, në Drejtorinë e Politikave dhe Strategjive të Bujqësisë, Sigurisë Ushqimore dhe Zhvillimit Rural, bën verifikimin dhe rishpërndarjen e ditëve të peshkimit ndërmjet anijeve të të njëjtit port ose edhe nga njëri port në tjetrin.

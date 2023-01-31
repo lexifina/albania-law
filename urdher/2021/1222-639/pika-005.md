@@ -1,1 +1,0 @@
-5. Sektori i Monitorimit, Përpunimit dhe Analizës së të Dhënave në Drejtorinë e Politikave dhe të Programeve të Peshkimit bën verifikimin dhe rishpërndarjen e ditëve të peshkimit midis veglës së peshkimit të përdorur ose segmentit të flotës, në zbatim të një faktori kombëtar konvertimi, i cili mbështetet në këshillat më të mira shkencore të disponueshme.
