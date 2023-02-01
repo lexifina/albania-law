@@ -1,0 +1,1 @@
+5. Përjashtimisht, për punonjësit me kontratë në funksionin “Specialist”, në Kryeministri, kohëzgjatja e punës është 8 orë përgjatë gjithë vitit buxhetor dhe niveli i pagës për këta punonjës është kategoria III-b.
