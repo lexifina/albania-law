@@ -4,6 +4,8 @@ Nr.9867, datë 31.1.2008
 
 PËR PËRCAKTIMIN E RREGULLAVE DHE TË PROCEDURAVE PËR TREGTIMIN NDËRKOMBËTAR TË LLOJEVE TË RREZIKUARA TË FAUNËS DHE TË FLORËS SË EGËR
 
+(ndryshuar me ligjet: nr. 40/2013, datë 14.2.2013, nr. 5/2015, datë 12.02.2015, nr. 15/2018, datë 5.4.2018, nr. 11/2023, datë 2.2.2023 )
+
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 KUVENDI
@@ -180,7 +182,9 @@ Neni 9
 
 Organet kontrolluese
 
-Policia Pyjore dhe Inspektorati i Peshkimit për llojet e faunës e florës ujore, të listuara në anekse dhe në listën vendase, janë organet kontrolluese për zbatimin e dispozitave të këtij ligji e të akteve nënligjore në zbatim të tij.
+(ndryshuar termi me ligjin nr. 40/2013, datë 14.2.2013)
+
+Struktura përgjegjëse për kontrollin në pyje dhe Inspektorati që mbulon fushën e peshkimit për llojet e faunës e florës ujore, të listuara në anekse dhe në listën vendase, janë organet kontrolluese për zbatimin e dispozitave të këtij ligji e të akteve nënligjore në zbatim të tij.
 
 Neni 10
 
@@ -202,7 +206,7 @@ Regjistrimi
 
 3. Personat fizikë dhe juridikë dhe institutet kërkimore-shkencore, publike dhe private, që regjistrohen, shënohen në regjistrin e subjekteve, i cili administrohet nga autoriteti menaxhues.
 
-4. Rregullat e hollësishme për aplikimin, shqyrtimin dhe miratimin e kërkesës për regjistrim përcaktohen në rregulloren që miratohet nga ministri.
+4. Rregullat e hollësishme për kërkesën, shqyrtimin dhe miratimin e kërkesës për regjistrim përcaktohen në rregulloren që miratohet nga ministri.
 
 Neni 12
 
@@ -218,6 +222,8 @@ Neni 13
 
 Lejet
 
+(ndryshuar fjalë në pikën 4 me ligjin nr. 11/2023, datë 2.2.2023)
+
 1. Eksporti, importi dhe rieksporti i çdo individi të llojeve, të përfshira në anekse dhe në listën vendase, kryhen vetëm pasi personi fizik apo juridik pajiset me lejen përkatëse, të cilën e paraqet në organet doganore.
 
 2. Personi fizik apo juridik nuk pajiset me leje për:
@@ -230,13 +236,15 @@ c) importin dhe eksportin e individëve të llojeve të listuara në anekse, në
 
 3. Individët e llojeve të listuara në aneksin 1, që kanë lindur dhe janë shumuar në gjendje jo të lirë ose që janë shtuar artificialisht, trajtohen në përputhje me dispozitat që zbatohen për individë të llojeve të listuara në aneksin 2.
 
-4. Autoriteti menaxhues njofton rregullisht Drejtorinë e Përgjithshme të Doganave për lejet që jep, formatin e tyre, emrat e subjekteve të pajisura me leje, si dhe rastet e revokimit të lejeve.
+4. Autoriteti menaxhues njofton rregullisht Drejtorinë e Përgjithshme të Doganave për lejet që jep, formatin e tyre, emrat e subjekteve të pajisura me leje, si dhe rastet e shfuqizimit të lejeve.
 
 Neni 14
 
 Kushtet për marrjen e lejes për import
 
-1. Lejet për importimin e individëve të llojeve të listuara në anekset 1 e 2 lëshohen nga autoriteti shkencor kur:
+(ndryshuar fjalë  në fund të pikës 1 me ligjin nr. 5/2015, datë 12.02.2015)
+
+1. Lejet për importimin e individëve të llojeve të listuara në anekset 1 e 2 lëshohen vetëm kur autoriteti shkencor:
 
 a) sigurohet se importimi nuk dëmton mbijetesën e llojeve përkatëse;
 
@@ -282,9 +290,11 @@ Kushte të përbashkëta për marrjen e lejes së importit e të eksportit
 
 Neni 17 
 
-Aplikimi
+Kërkesa
 
-1. Çdo aplikant, që kërkon një leje për llojet e listuara në anekse, paraqet një aplikim me shkrim në ministri, së bashku me kërkesën dhe dokumentet shoqëruese të saj.
+(shfuqizuar shkronjat “b” dhe “d” të pikës 3 dhe “b” e pikës 4 me ligjin nr. 15/2018, datë 5.4.2018, ndryshuar pikat 1 e 5  me ligjin nr. 11/2023, datë 2.2.2023)
+
+1. Çdo kërkues, që kërkon një leje për llojet e listuara në anekse, paraqet kërkesën me shkrim në ministri së bashku me dokumentet shoqëruese të saj.
 
 2. Kërkesa për një leje importi për individë të llojeve të listuara në anekse përmban:
 
@@ -302,13 +312,13 @@ d) përshkrimin e kushteve, ku individët e gjallë të importuar do të vendose
 
 a) kopje të lejes së eksportit ose të rieksportit, të lëshuar paraprakisht nga autoriteti menaxhues i shtetit eksportues;
 
-b) kopje të vendimit të gjykatës, që ka regjistruar personin fizik apo juridik për të kryer këtë veprimtari;
+b) Shfuqizuar;
 
 c) certifikatë mjekësore për individë të gjallë të llojeve bimore e shtazore; 
 
 ç) fotokopje të dokumentit të identitetit të kërkuesit;
 
-d) fotokopje të dokumentit të regjistrimit të personit në regjistrin e autoritetit menaxhues;
+d) Shfuqizuar;
 
 dh) një deklarim me shkrim të personit se individi importohet për qëllime tregtimi ose për përdorim vetjak.
 
@@ -316,7 +326,7 @@ dh) një deklarim me shkrim të personit se individi importohet për qëllime tr
 
 a) dokumentin që vërteton origjinën e individit;
 
-b) fotokopjen e dokumentit të regjistrimit të personit në regjistrin e autoritetit menaxhues;
+b) Shfuqizuar;
 
 c) fotokopjen e dokumentit të identitetit të kërkuesit;
 
@@ -326,7 +336,7 @@ d) kur leja kërkohet për një individ të shtuar në gjendje jo të lirë, edh
 
 dh) deklarimin me shkrim të personit, që vërteton se individi eksportohet për qëllime tregtimi ose për përdorim vetjak.
 
-5. Kur autoriteti menaxhues, në bashkëpunim me autoritetin shkencor, vëren mangësi në dokumentet e paraqitura, i kërkon aplikantit dokumente shtesë.
+5. Kur autoriteti menaxhues në bashkëpunim me autoritetin shkencor vëren mangësi në dokumentet e paraqitura brenda 7 (shtatë) ditëve nga dita e regjistrimit të kërkesës, i kërkon kërkuesit plotësimin e mangësive dhe pasaktësive të konstatuara brenda 15 (pesëmbëdhjetë) ditëve nga marrja e kërkesës. Në rast se kërkuesi nuk plotëson pasaktësitë brenda afatit të kërkuar, kërkesa quhet se nuk është regjistruar dhe i kthehet kërkuesit bashkë me aktet e tjera.
 
 Neni 18
 
@@ -340,9 +350,9 @@ Neni 19
 
 Afatet e miratimit
 
-1. Brenda tri ditëve pune pas marrjes së aplikimit për lëshimin e një lejeje importi ose eksporti për individët e llojeve të listuara në anekse, autoriteti menaxhues kërkon mendim nga autoriteti shkencor, i cili i përgjigjet me shkrim brenda 10 ditëve pune nga data e marrjes së saj. Ky afat është i vlefshëm edhe kur nevojitet një ekzaminim në vend, i cili kryhet nga specialistë të certifikuar.
+1. Brenda tri ditëve pune pas marrjes së kërkesës  për lëshimin e një lejeje importi ose eksporti për individët e llojeve të listuara në anekse, autoriteti menaxhues kërkon mendim nga autoriteti shkencor, i cili i përgjigjet me shkrim brenda 10 ditëve pune nga data e marrjes së saj. Ky afat është i vlefshëm edhe kur nevojitet një ekzaminim në vend, i cili kryhet nga specialistë të certifikuar.
 
-2. Leja lëshohet brenda 15 ditëve pune pas datës së dorëzimit të aplikimit.
+2. Leja lëshohet brenda 15 ditëve pune pas datës së dorëzimit të kërkesës.
 
 Neni 20
 
@@ -350,33 +360,33 @@ Vlefshmëria
 
 1. Lejet e eksportit dhe të rieksportit janë të vlefshme për një periudhë 6-mujore nga data e lëshimit.
 
-2. Leja e importit për individë të llojeve të përfshira në ankeset 1 e 2 është e vlefshme për një periudhë 12-mujore nga data e lëshimit.
+2. Leja e importit për individë të llojeve të përfshira në anekset 1 e 2 është e vlefshme për një periudhë 12-mujore nga data e lëshimit.
 
 Neni 21
 
-Revokimi
+Shfuqizimi
 
-Ministri revokon, në çdo kohë, çdo leje të lëshuar, kur provohet se është lëshuar si rezultat i deklaratave të pavërteta ose me qëllim mashtrues të aplikantit. 
+(ndryshuar me ligjin nr. 11/2023, datë 2.2.2023)
+
+Ministria shfuqizon lejen kur:
+
+a) konstaton se është lëshuar në kundërshtim me konventën ose me rezolutat dhe vendimet e konferencës së palëve; 
+
+b) provon se mbajtësi i lejes nuk ka përmbushur një nga kushtet e përcaktuara në leje ose certifikatë.
 
 Neni 22
 
 Pavlefshmëria
 
-Leja vlerësohet e pavlefshme kur:
+(shfuqizuar me ligjin nr. 11/2023, datë 2.2.2023)
 
-a) autoriteti menaxhues zbulon se është lëshuar në kundërshtim me legjislacionin e një vendi të huaj, me konventën ose me rezolutat dhe vendimet e konferencës së palëve;
-
-b) autoriteti menaxhues provon se mbajtësi i lejes nuk ka përmbushur ndonjërën nga kushtet e përcaktuara në leje ose certifikatë; 
-
-c) ka mbaruar afati i vlefshmërisë së saj;
-
-ç) mbajtësi i lejes, person fizik, vdes, ose person juridik, pushon së ekzistuari.
+.
 
 Neni 23
 
 Tarifat
 
-1. Personat fizikë dhe juridikë që pajisen me leje, si dhe ata që regjistrohen, paguajnë një tarifë shërbimi, e cila derdhet në llogarinë e ministrisë përgjegjëse, në fillim të procedurës së aplikimit dhe është e pakthyeshme, pavarësisht nëse jepet apo jo leja ose regjistrimi.
+1. Personat fizikë dhe juridikë që pajisen me leje, si dhe ata që regjistrohen, paguajnë një tarifë shërbimi, e cila derdhet në llogarinë e ministrisë përgjegjëse, në fillim të procedurës së kërkesës dhe është e pakthyeshme, pavarësisht nëse jepet apo jo leja ose regjistrimi.
 
 2. Ministri miraton udhëzimin për caktimin e tarifave të shërbimit për pajisjen me leje dhe për regjistrim.
 
@@ -420,9 +430,9 @@ c) identifikimin e veprimtarive, që synojnë shumimin, në gjendje jo të lirë
 
 ç) mbikëqyrjen e veprimtarisë së qendrave të shpëtimit, i cili kryhet nga personeli i qendrës;
 
-d) mbikëqyrjen efektive nga autoriteti menaxhues, në bashkëpunim me Agjencinë e Mjedisit dhe të Pyjeve, për jo më pak se 5 vjet, të rimëkëmbjes së llojeve, ndaj të cilave nuk është e nevojshme marrja e masave, sipas parashikimeve të këtij ligji, sepse ato mund të dalin në anekse. 
+d) mbikëqyrjen efektive nga autoriteti menaxhues, në bashkëpunim me Agjencinë Kombëtare të Mjedisit, për jo më pak se 5 vjet, të rimëkëmbjes së llojeve, ndaj të cilave nuk është e nevojshme marrja e masave, sipas parashikimeve të këtij ligji, sepse ato mund të dalin në anekse. 
 
-3. Për realizimin e synimeve të parashikuara në pikën 2 të këtij neni autoriteti menaxhues, në bashkëpunim me autoritetin shkencor, me doganat e me Agjencinë e Mjedisit dhe të Pyjeve, ndërton dhe zbaton një sistem të detyrueshëm monitorimi, i cili miratohet nga ministri.
+3. Për realizimin e synimeve të parashikuara në pikën 2 të këtij neni autoriteti menaxhues, në bashkëpunim me autoritetin shkencor, me doganat e me Agjencinë Kombëtare të Mjedisit, ndërton dhe zbaton një sistem të detyrueshëm monitorimi, i cili miratohet nga ministri.
 
 Neni 26
 
@@ -432,7 +442,7 @@ Të dhënat dhe raportimi
 
 2. Autoriteti menaxhues inspekton, në çdo kohë, mjediset ku kryhen veprimtaritë e përmendura në pikën 1 të këtij neni, si dhe verifikon të dhënat e shënuara në regjistër për personat e regjistruar.
 
-3. Personat e regjistruar i raportojnë Agjencisë së Mjedisit dhe Pyjeve të dhënat, që mbajnë në regjistër, brenda 20 ditëve nga data e kërkesës së kësaj agjencie.
+3. Personat e regjistruar i raportojnë Agjencinsë Kombëtare të Mjedisit të dhënat, që mbajnë në regjistër, brenda 20 ditëve nga data e kërkesës së kësaj agjencie.
 
 KREU V
 
@@ -496,7 +506,9 @@ Neni 32
 
 Kundërvajtjet administrative
 
-1. Kur shkeljet e përmendura më poshtë nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative dhe dënohen me gjobë:
+(ndryshuar paragrafi i parë i pikës 1 dhe pika 3 me ligjin nr. 40/2013, datë 14.2.2013)
+
+1. Kur shkeljet e përmendura më poshtë nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative dhe dënohen me dënim kryesor me gjobë:
 
 a) importi, eksporti ose rieksporti i çdo individi të një lloji të listuar në anekse me leje false, të pavlefshme ose të ndryshuar pa miratimin e ministrit, nga 70 000 deri në 100 000 lekë;
 
@@ -518,15 +530,15 @@ f) transporti i individëve të gjallë, në kundërshtim me kërkesat e pikës 
 
 2. Kur kundërvajtja përsëritet brenda 1 viti kalendarik, gjoba vendoset sa dyfishi i gjobës së përcaktuar për atë shkelje.
 
-3. Për shkelje të rënda, krahas gjobës, mund të vendoset edhe heqja e lejes.
+3. Krahas dënimit kryesor me gjobë, mund të vendosen edhe dënimet plotësuese të heqjes së lejes ose sekuestrimit të parashikuar në nenin 34 të këtij ligji.
 
 Neni 33
 
 Kontrolli
 
-1. Kur inspektori i Policisë Pyjore ka prova të mjaftueshme të një kundërvajtjeje, në zbatim të funksioneve dhe kompetencave të përcaktuara në ligjin nr.9385, datë 4.5.2005 “Për pyjet dhe shërbimin pyjor”, të ndryshuar, ndalon personin e dyshimtë dhe konfiskon çdo objekt, që lidhet me kundërvajtjen e dyshuar. 
+1. Kur inspektori i strukturës përgjegjëse për kontrollin në pyje ka prova të mjaftueshme të një kundërvajtjeje, në zbatim të funksioneve dhe kompetencave të përcaktuara në ligjin nr.9385, datë 4.5.2005 “Për pyjet dhe shërbimin pyjor”, të ndryshuar, ndalon personin e dyshimtë dhe konfiskon çdo objekt, që lidhet me kundërvajtjen e dyshuar. 
 
-2. Inspektori i Policisë Pyjore:
+2. Inspektori i strukturës përgjegjëse për kontrollin në pyje:
 
 a) hyn dhe ushtron kontrolle në territore, ndërtesa e mjete transporti, për të cilat ai dyshon se mbahet një individ në kundërshtim me dispozitat e këtij ligji; 
 
@@ -552,29 +564,27 @@ Neni 35
 
 Dokumentimi
 
-1. Çdo shkelje e dispozitave të këtij ligji, e cila vërtetohet e më pas ndëshkohet, duhet të pasqyrohet në dokumentet e standardizuara e të miratuara nga ministri, të tilla si procesverbale e fletëgjoba.
+(ndryshuar me ligjin nr. 40/2013, datë 14.2.2013)
 
- 2. Dokumentet plotësohen nga inspektori kontrollues, i cili, kur vëren shkelje të këtyre dispozitave, harton procesverbalin, që duhet të nënshkruhet nga hartuesi, i proceduari dhe dëshmitarët e pranishëm dhe, kur nuk ka të tillë, procesverbali është i vlefshëm vetëm me nënshkrimin e proceduesit.
+1. Procesi i inspektimit dhe dënimit të shkeljeve bëhet në përputhje me ligjin nr. 10 433, datë 16.6.2011 “Për inspektimin në Republikën e Shqipërisë”.
 
-3. Të drejtën e vendosjes së gjobës për kundërvajtjet administrative, të parashikuara në nenin 31 të këtij ligji, e kanë inspektori i Policisë Pyjore, inspektori i peshkimit ose punonjësi i autoritetit menaxhues, i pajisur me autorizim nga ministri.
+2. Të drejtën e vendosjes së gjobës për kundërvajtjet administrative, të parashikuara në nenin 31 të këtij ligji, e kanë inspektorët e strukturës përgjegjëse për kontrollin në pyje, inspektorati që mbulon fushën e peshkimit.
 
 Neni 36
 
-Shqyrtimi
+Shqyrtimi dhe ankimi
 
-1. Kundërvajtja administrative shqyrtohet nga komisioni i shqyrtimit të kundërvajtjeve administrative, që funksionon pranë drejtorive rajonale të shërbimit pyjor.
+(ndryshuar me ligjin nr. 40/2013, datë 14.2.2013)
 
-2. Vendimi për kundërvajtjet administrative merret nga komisionet përkatëse, që mbulojnë territorin ku ndodh kundërvajtja, brenda 15 ditëve nga data e dorëzimit të procesverbalit.
+Shqyrtimi, marrja e vendimit përfundimtar dhe ankimi ndaj tij bëhen në përputhje me ligjin për inspektimin.
 
 Neni 37
 
-Ankimi
+Pagimi i gjobës
 
-1. Personi, ndaj të cilit është vendosur gjoba, brenda 15 ditëve nga data e marrjes së njoftimit ose e vënies në dijeni, mund të ankohet te ministri, i cili i përgjigjet brenda 30 ditëve nga data e depozitimit të ankimit.
+(ndryshuar me ligjin nr. 40/2013, datë 14.2.2013)
 
-2. Kundër vendimit të titullarit, kundërvajtësi mund të ankohet në gjykatë brenda 30 ditëve nga data e shpalljes së tij. 
-
-3. Gjoba paguhet brenda 30 ditëve nga data e njoftimit të vendimit të formës së prerë. Pas kalimit të këtij afati, personi paguan një kamatë në masën 0,1 për qind të vlerës së gjobës për çdo ditë.
+Gjoba paguhet brenda 30 ditëve nga data e njoftimit të vendimit të formës së prerë. Pas kalimit të këtij afati, personi paguan një kamatë në masën 2 për qind të vlerës së gjobës për çdo ditë për një afat deri në 30 ditë. Me kalimin e këtij afati zbatohen dispozitat në fuqi për kundërvajtjet administrative.
 
 KREU VII
 
@@ -585,6 +595,12 @@ Neni 38
 Aktet nënligjore
 
 Ngarkohet ministri që, në zbatim të neneve 3 pika 1, 7 pika 1, 8 pika 3, 11 pika 4, 23 pika 2, 24 pika 2, 25 pika 3 dhe 34 pika 3, të nxjerrë aktet nënligjore në zbatim të këtij ligji.
+
+Dispozitë kalimtare
+
+(parashikuar me ligjin nr. 40/2013, datë 14.2.2013)
+
+Organi ekzistues inspektues vazhdon të ushtrojë funksionin e vet sipas organizimit aktual deri në krijimin e organit të ri, sikurse parashikohet në ndryshimet e bëra në këtë ligj.
 
 Neni 39
 
