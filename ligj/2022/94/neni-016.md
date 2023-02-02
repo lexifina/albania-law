@@ -1,0 +1,7 @@
+# Neni 16
+Shqyrtimi i propozimit
+1. Komisioni këshillimor brenda 30 (tridhjetë) ditëve nga marrja e vendimit për vijimin e shqyrtimit të propozimit ose nga plotësimi i të metave të tij, shqyrton dhe dërgon mendimin për përmbushjen ose jo të kritereve për nderim.
+2. Krahas informacionit dhe dokumentacionit të paraqitur në nismën ose propozimin për nderim, komisioni kërkon informacione ose dokumentacion shtesë nga shtetasi i propozuar për nderim, si dhe nga çdo person fizik ose juridik apo organ publik, vendas ose i huaj, që disponon të dhëna të vlefshme për shqyrtimin e plotë të nismës ose të propozimit.
+3. Çdo subjekt i përmendur në pikën 2 të këtij neni përmbush kërkesat e komisionit për informacione dhe dokumentacion, me përjashtim të rasteve të kufizuara me ligj, brenda një afati ligjor të arsyeshëm të përcaktuar nga komisioni në kërkesën e tij.
+4. Në çdo rast, komisioni çmon, sipas bindjes së tij, se cilat fakte konsiderohen të provuara bazuar në parimet e përcaktuara në nenin 3 të këtij ligji, në vlerësimin e hollësishëm të informacioneve dhe dokumentacioneve në dispozicion, si dhe në rezultatin tërësor të shqyrtimit, duke hartuar për këtë qëllim raportin përkatës.
+5. Procesi i shqyrtimit të nismës ose propozimit mund të shtyhet për shkak të rrethanave të paparashikuara, që dëmtojnë reputacionin dhe vlerën e aktit të nderimit në opinionin publik, deri në sqarimin e këtyre rrethanave.
