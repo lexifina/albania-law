@@ -1,0 +1,1 @@
+3. Krijimi i metodave ose seksioneve të reja të “Platformës” mund të nisë nga vetë Agjencia me nismën e saj ose me propozimin e Kryeministrit, ministrit apo institucionit qendror që ka në përgjegjësi çështjet shtetërore për të cilat kërkohet krijimi i metodës ose seksionit.
