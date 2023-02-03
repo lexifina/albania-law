@@ -1,0 +1,1 @@
+4. Masa e shpërblimit për pronarët, që shpronësohen, prej 25 284 520 (njëzet e pesë milionë e dyqind e tetëdhjetë e katër mijë e pesëqind e njëzet) lekësh, të përballohet nga Operatori i Sistemit të Transmetimit (OST) sh.a.
