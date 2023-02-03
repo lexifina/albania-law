@@ -1,0 +1,1 @@
+11. AKMC-ja për fondet e akorduara njësive të vetëqeverisjes vendore për parandalimin, rehabilitimin ndaj fatkeqësive, në infrastrukturën e dëmtuar, si dhe në veprimtari të tjera në fushën e mbrojtjes civile, ushtron kompetencat për inspektim, sipas legjislacionit në fuqi.

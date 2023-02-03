@@ -1,0 +1,1 @@
+10. Prefekti i qarkut siguron dhe kontrollon zbatimin e urdhrit të nxjerrë nga AKMC-ja për akordimin e fondit njësisë së vetëqeverisjes vendore, si dhe mënyrën e administrimit të tij, sipas destinacionit të përcaktuar.

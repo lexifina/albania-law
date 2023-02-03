@@ -1,0 +1,3 @@
+5. Për përballimin e situatave emergjente të shkaktuara nga fatkeqësitë e përcaktuara në pikat 9 dhe 10, të nenit 3, të ligjit nr. 45/2019, “Për mbrojtjen civile”, dokumentacioni për akordimin e fondeve në njësitë e vetëqeverisjes vendore me destinacion sigurimin e kushteve të përkohshme për jetesë të qytetarëve, si dhe për shpenzime të tjera, duhet të përbëhet nga:
+a) kërkesa e argumentuar nga kryetari i bashkisë, ku të përfshihet destinacioni i përdorimit të fondit, shoqëruar me preventivat dhe projektet, sipas rastit;
+b) miratimi i kërkesës nga prefekti i qarkut, duke dhënë dhe argumente shtesë për nevojën e mbështetjes financiare.

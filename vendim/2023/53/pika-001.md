@@ -1,0 +1,1 @@
+1. Agjencia Kombëtare e Mbrojtjes Civile (në vijim AKMC), në kuadrin e zvogëlimit të riskut nga fatkeqësitë dhe mbrojtjes civile, planifikon në buxhetin vjetor të saj fonde për marrjen e masave parandaluese dhe rehabilituese ndaj fatkeqësive, në infrastrukturën e dëmtuar, si edhe në veprimtari të tjera në fushën e mbrojtjes civile.
