@@ -1,7 +1,6 @@
 # Shtojca
 Lidhja I
 Nivelet e pagës bazë për klasë të punonjësve të institucioneve të përmendura në shkronjën “a”, të pikës 1, të këtij vendimi
-(zëvëndësuar me vendimin nr. 627, datë 28.9.2022)
 Nr.
 rendor
 Klasa e
