@@ -1,0 +1,1 @@
+2. Ndryshimet e SNRF 16, “Qiratë”, të publikuara në shtator 2022, do të zbatohen për periudhat raportuese që fillojnë më 1 janar 2024, po lejohet zbatimit i mëhershëm me kusht që të jepen shënimet e duhura shpjeguese.
