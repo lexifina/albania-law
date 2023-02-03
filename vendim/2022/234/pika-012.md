@@ -8,3 +8,5 @@ dh) punonjësve, të cilët punojnë në institucionet e ekzekutimit të vendime
 e) punonjësve në pozicionin “shofer” në urgjencën e spitaleve, në masën 10 000 (dhjetë mijë) lekë në muaj;
 ë) punonjësve në pozicionin “roje mjedisore” në administratat e zonave të mbrojtura, në masën 4 000 (katër mijë) lekë në muaj;
 f) punonjësve në pozicionet “përgjegjës (shërbimi i ushqimit dhe restorantit)”, “kuzhinier”, “administrues hoteli” dhe “ndihmëskuzhinier” në Shtëpinë e Pushimit të Ministrisë së Brendshme, Durrës, në masën 5 000 (pesë mijë) lekë në muaj.
+g) punonjësve në pozicionet “laborant” dhe “teknik i mesëm aparaturash” në Institutin e Sigurisë Ushqimore dhe Veterinarisë, në masën 15 000 (pesëmbëdhjetë mijë) lekë në muaj;
+gj) punonjësve në pozicionin “punëtor mirëmbajtjeje (krematoriumi)” në Institutin e Sigurisë Ushqimore dhe Veterinarisë, në masën 10 000 (dhjetë mijë) lekë në muaj.
