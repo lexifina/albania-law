@@ -2,7 +2,7 @@
 
 Official source: [Vendim nr. 146, datë 10.9.2020 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/22128); [QBZ versions](https://qbz.gov.al/api/v1/acts/22128/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2022-02-14; after QBZ act 24122 (nr. 29).
+Status of this text: `official consolidated version 2`, applying from 2023-02-06; after QBZ act 25564 (nr. 17).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
