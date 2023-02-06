@@ -1,0 +1,1 @@
+10. Autoriteti përgjegjës vendor për kufirin dhe migracionin informon periodikisht AKPA-në nëpërmjet sistemit elektronik online, për fillimin e punësimit të të huajit në bazë të deklarimit të punëdhënësit.

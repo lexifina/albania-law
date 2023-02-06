@@ -1,0 +1,1 @@
+11. Autoritetet shtetërore përgjegjëse që mbulojnë çështjet e kufirit dhe migracionit, autoritetet shtetërore përgjegjëse që mbulojnë çështjet e punësimit të të huajve, apo dhe autoritetet që mbulojnë çështjet e sigurisë kombëtare, rendit kushtetues dhe rendit publik, shkëmbejnë informacion për rastet e refuzimit dhe anulimit të lejes unike.

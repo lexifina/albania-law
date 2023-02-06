@@ -1,0 +1,1 @@
+1. Bashkëpunimin ndërinstitucional ndërmjet autoriteteve shtetërore përgjegjëse që mbulojnë çështjet e kufirit dhe migracionit dhe autoriteteve shtetërore përgjegjëse që mbulojnë çështjet e punësimit të të huajve, mbi zbatimin e procedurave të miratimit të lejes unike, për kategoritë e të huajve që kërkojnë miratim për punësim.
