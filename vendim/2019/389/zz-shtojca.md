@@ -29,8 +29,10 @@ c) Kryeministrit.
 23. Kryetari i Kontrollit të Lartë të Shtetit;
 24. Kryetari dhe anëtarët e Komisionit Qendror të Zgjedhjeve (KQZ);
 25. Drejtuesi dhe anëtarët e Strukturës së Posaçme kundër Korrupsionit dhe Krimit të Organizuar (SPAK);
+25/1. Gjyqtarët e Gjykatës së Posaçme të Shkallës së Parë për Korrupsionin dhe Krimin e Organizuar;
+25/2. Gjyqtarët e Gjykatës së Posaçme të Apelit për Korrupsionin dhe Krimin e Organizuar.
 26. Prokurori i Përgjithshëm;
-27. Sekretari i Përgjithshëm në institucionin e Presidentit, Kuvend, Kryeministri;
+27. Sekretari i Përgjithshëm në institucionin e Presidentit, Kuvend, Kryeministri, Gjykatë Kushtetuese;
 28. Drejtori i kabinetit në institucionin e Presidentit, Kuvend, Kryeministri, ministrinë përgjegjëse për Punët e Jashtme;
 29. Këshilltarët në kabinetin e institucionit të Presidentit, Kuvend, Kryeministri, në rastet kur janë të ngarkuar me çështje diplomatike dhe protokollare, jo më shumë se tre këshilltarë për secilin institucion;
 30. Këshilltarët e ministrit përgjegjës për punët e jashtme, kur janë diplomatë karriere;
@@ -55,6 +57,7 @@ LIDHJA 2
 Pajisen me pasaporta biometrike shërbimi, subjektet e mëposhtme:
 1. Guvernatori i Bankës së Shqipërisë;
 2. Inspektori i Përgjithshëm i ILKPD-së;
+2/1. Gjyqtarët;
 3. Sekretari i Përgjithshëm në ministri dhe institucionet kushtetuese, të cilët nuk janë parashikuar në lidhjen 1;
 4. Drejtori i kabinetit pranë Zëvendëskryeministrit, në ministri dhe institucionet kushtetuese, të cilët nuk janë parashikuar në lidhjen 1;
 5. Drejtorët e departamentit në Kryeministri;
@@ -67,7 +70,7 @@ Pajisen me pasaporta biometrike shërbimi, subjektet e mëposhtme:
 12. Kryetari i Kryegjyshatës Botërore Bektashiane;
 13. Kryetari i Konferencës Ipeshkvore;
 14. Kryetari i Kishës Ortodokse Autoqefale Shqiptare;
-15. Kryetarët e partive politike;
+15. Kryetarët e partive politike parlamentare;
 16. Asistent/ndihmës, kameraman dhe fotograf i Presidentit, Kryetarit të Kuvendit, Kryeministrit;
 17. Personat që me ligj të posaçëm gëzojnë të drejtën për pajisjen me pasaportë shërbimi.
 18. Funksionarët dhe nëpunësit publikë, me miratimin e ministrit përgjegjës për punët e jashtme, për shkak të specifikës së funksionit apo detyrës shtetërore që kryejnë.
