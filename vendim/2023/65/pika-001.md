@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikualifikimi i akseve rrugore ’Unaza Lindore, loti II’ dhe problematikat e rrugëve dytësore të objektit”.
