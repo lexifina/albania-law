@@ -6,4 +6,4 @@ i) normën mesatare të kthimit të arsyeshëm të vlerës së investimeve të b
 ii) kostot e shmangura të shërbimit të transmetimit;
 iii) kostot e alokimit të kapaciteteve të interkoneksionit të energjisë nga importi.
 ç) “Niveli minimal i çmimit të llogaritur të blerjes së energjisë elektrike”, në çdo rast, nuk do të jetë më i ulët se i çmimit të miratuar nga Enti Rregullator i Energjisë për vitin 2016 për këta prodhues.
-d) “Niveli maksimal i çmimit të llogaritur të blerjes së energjisë elektrike”, në çdo rast, nuk do të jetë më i lartë se 15% e çmimit të miratuar nga ERE për vitin 2016 për këta prodhues.
+d) Niveli maksimal i çmimit të llogaritur të blerjes së energjisë elektrike”, në çdo rast, nuk do të jetë më i lartë se çmimi 10 lekë/kWh (pa TVSH).
