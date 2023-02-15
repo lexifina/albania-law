@@ -1,0 +1,1 @@
+13. Efektet financiare për zbatimin e këtij vendimi për krijimin e kapitalit fillestar të shoqërisë, në vlerën 20 000 000 (njëzet milionë) lekë, përballohen nga fondi rezervë i buxhetit të shtetit. Ministria e Brendshme transferon këtë shumë pranë kësaj shoqërie menjëherë pas regjistrimit të saj në Qendrën Kombëtare të Biznesit.

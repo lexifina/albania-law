@@ -1,0 +1,1 @@
+1. Krijimin e shoqërisë aksionare, me kapital 100 (njëqind) % shtetëror, për prodhimin dhe shpërndarjen e dokumenteve biometrike të shtetasve shqiptarë dhe/ose shtetasve të huaj me banim të përkohshëm apo të përhershëm në Republikën e Shqipërisë, të cilëve u njihet kjo e drejtë në përputhje me kërkesat e legjislacionit përkatës në fuqi.

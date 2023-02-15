@@ -1,0 +1,1 @@
+3. Shoqëria aksionare, sipas përcaktimeve në pikën 1, të këtij vendimi, themelohet, organizohet dhe funksionon, në përputhje me parashikimet e ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar.
