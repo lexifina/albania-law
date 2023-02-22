@@ -4,7 +4,7 @@ Nr. 420, datë 29.9.2022
 
 PËR LICENCAT DHE TARIFAT E SHËRBIMIT TË OPERATORËVE UK DERI NË PËRFUNDIM TË PROCEDURAVE TË RIORGANIZIMIT DHE TRANSFERIMIT TË SHOQËRIVE UK NË SUBJEKTE ME KOMPETENCA TË PËRBASHKËTA
 
-(ndryshuar me VKM nr. 510, datë 27.10.2022)
+(ndryshuar me VKM nr. 510, datë 27.10.2022; nr. 8, datë 22.2.2023)
 
 (i përditësuar)
 
@@ -17,6 +17,8 @@ VENDOSI:
 2. Shoqëritë UK që përfundojnë procedurat e riorganizimit në formën e Subjekteve me Kompetenca të Përbashkëta, sipas vendimit të Këshillit të Ministrave nr. 302, datë 11.5.2022, “Për politikat kombëtare për riorganizimin e sektorit të furnizimit me ujë dhe të largimit, trajtimit dhe përpunimit të ujërave të ndotura”, duhet të aplikojnë pranë ERRU-së, brenda tre muajve nga përfundimi i procesit të plotë të transferimit, për pajisjen me licencë të re shërbimi në përputhje me kërkesat e legjislacionit në fuqi për licencimin e tyre.
 
 3. Shoqëritë SKP-UK do të përdorin tarifat aktuale për zonat e shërbimit të miratuara nga ERRU-ja, deri në miratimin e tyre, nga Komisioni Kombëtar Rregullator. SKP-ja, mbas marrjes së licencës nga ERRU-ja, paraqet aplikimin për rishikimin dhe miratimin e tarifave, që do të kryhet bazuar në të dhënat e vitit ushtrimor të aktivitetit të shoqërive UK dhe të shoqërive SKP. Procedurat për miratimin e tyre do të kryhen në përputhje me nenin 22, të ligjit nr. 8102, datë 28.3.1996, “Për kuadrin rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura” dhe të vendimit të Komisionit Kombëtar Rregullator nr. 539, datë 30.12.2021, “Për miratimin e metodologjisë dhe procedurës për miratimin e tarifave të shërbimeve ujësjellës-kanalizime”.
+
+3/1. Shoqëritë SKP-UK gjatë periudhës tranzitore, për zonat e shërbimit që janë bërë pjesë e tyre, të cilat nuk kanë pasur tarifa të miratuara nga ERRU për shërbimet UK të ofruara ndaj konsumatorëve, do të përdorin tarifat aktuale me të cilat janë faturuar konsumatorët e këtyre zonave të shërbimit përpara reformës deri në miratimin e tyre nga Komisioni Kombëtar Rregullator. Gjithashtu zonat e bardha (pa shërbim) dhe pa infrastrukturë inxhinierike të cilat nuk kanë qenë të shërbyera më parë nga shoqëritë UK ekzistuese, por ndërkohë janë plotësuar me infrastrukturë inxhinierike për ofrimin e shërbimeve të furnizimit me ujë, do të konsiderohen si pjesë e zonës së shërbimit dhe do të aplikohen tarifat e shoqërive UK ekzistuese sipas bashkive përkatëse deri në miratimin e tyre nga Komisioni Kombëtar Rregullator.
 
 4. Shoqëritë SKP-UK, të krijuara sipas përcaktimeve të vendimit të Këshillit të Ministrave nr. 302, datë 11.5.2022, “Për politikat kombëtare për riorganizimin e sektorit të furnizimit me ujë dhe të largimit, trajtimit dhe përpunimit të ujërave të ndotura”, kreu II, pika 3, kanë detyrimin për të shlyer pagesat rregullatore vjetore sipas kontratave respektive të secilës shoqëri UK deri në aplikimin dhe miratimin e tarifave të reja.
 
