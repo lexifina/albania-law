@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare humanitare, në shumën 1 000 000 (një milion) euro nga Këshilli i Ministrave i Republikës së Shqipërisë për mbështetjen e qeverisë së Turqisë për dëmet e shkaktuara nga tërmeti i datës 6 shkurt 2023.
