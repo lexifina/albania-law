@@ -1,0 +1,3 @@
+1. Profesioni i mësuesit në institucionet arsimore të sistemit arsimor parauniversitar, mund të ushtrohet edhe nga individë që plotësojnë kriteret e mëposhtme:
+a) zotërojnë diploma të programeve të studimit të lëshuara në Republikën e Shqipërisë, që kanë zgjatur së paku 4 (katër) vite akademike (8 semestra), deri në përshtatjen e studimeve sipas parimeve të procesit të Bolonjës, diplomë universitare të ciklit të parë dhe ciklit të dytë ose diplomë universitare të integruar, të ngjashme ose të përafërt me fushën/lëndët e mësimdhënies në arsimin parauniversitar;
+b) zotërojnë certifikatë për formimin psiko-pedagogjik, të lëshuar nga institucione të arsimit të lartë (IAL), që ofrojnë programe të studimeve të formimit të vazhduar në fushën e mësuesisë.
