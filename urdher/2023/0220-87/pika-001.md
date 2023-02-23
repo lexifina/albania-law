@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Bujqësisë dhe Zhvillimit Rural, zëvendësministrit të Ministrisë së Bujqësisë dhe Zhvillimit Rural, z. Enio Civici, nga data 20.2.2023 deri më datë 25.2.2023.
