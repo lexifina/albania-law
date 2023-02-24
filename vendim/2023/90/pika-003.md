@@ -1,0 +1,1 @@
+3. Bashkëpronarët e pasurisë së paluajtshme, pronë private, që shpronësohet, kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për pasurinë e llojit “arë”, me një vlerë të përgjithshme prej 491 260 (katërqind e nëntëdhjetë e një mijë e dyqind e gjashtëdhjetë) lekësh.
