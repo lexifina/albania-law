@@ -1,0 +1,1 @@
+2. Masat administrative, të parashikuara në nenin 141, të ligjit nr. 79/2021, “Për të huajt”, vendosen nga autoriteti shtetëror përgjegjës vendor, sipas formatit të aktit administrativ, të parashikuar në aneksin nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
