@@ -1,0 +1,1 @@
+3. Komandimi operacional i anijes gjatë periudhës së angazhimit në operacion kryhet nga komandanti i grupit të gatshëm të anijeve të NATO-s, SNMG2. Për çdo rast, anija ruan varësinë në nivelin kombëtar, duke raportuar në mënyrë periodike për mbarëvajtjen e operacionit.
