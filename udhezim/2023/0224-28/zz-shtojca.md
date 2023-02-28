@@ -1,0 +1,5 @@
+# Shtojca
+MINISTËR PËR EVROPËN DHE PUNËT E JASHTME
+Olta Xhaçka
+MINISTËR I FINANCAVE DHE EKONOMISË
+Delina Ibrahimaj
