@@ -1,0 +1,1 @@
+1. Znj. Vilma Bello, zëvendësministër i ministrit të Turizmit dhe Mjedisit, të zëvendësojë përkohësisht znj. Mirela Kumbaro Furxhi, ministër i Turizmit dhe Mjedisit, në ushtrimin e kompetencave të saj.
