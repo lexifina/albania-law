@@ -1,0 +1,1 @@
+11. Zyra vendore e arsimit parauniversitar merr nga Qendra e Vlerësimit të Testit dhe ruan të dhënat e çdo nxënësi, të vlerësuesve të jashtëm dhe të mjediseve ku është realizuar vlerësimi i arritjeve të nxënësve të arsimit fillor. Këto të dhëna dërgohen në QSHA, në DPAP dhe në drejtoritë rajonale të arsimit parauniversitar.
