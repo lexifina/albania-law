@@ -1,0 +1,1 @@
+3. Kompensimi financiar për subjektet, për periudhën prill-dhjetor 2023, jepet për numrin e të punësuarve me pagë minimale të deklaruar në muajin që kërkon kompensim, por jo më shumë se numri maksimal i të punësuarve me pagë minimale të deklaruar për muajin dhjetor 2022.

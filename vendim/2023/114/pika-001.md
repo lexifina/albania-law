@@ -1,0 +1,1 @@
+1. Dhënie kompensimi financiar për subjektet e përcaktuara në pikën 2, të këtij kreu, për kontributet shoqërore dhe shëndetësore, llogaritur mbi shtesën e pagës minimale nga 34 000 (tridhjetë e katër mijë) lekë në 40 000 (dyzet mijë) lekë, për çdo të punësuar me pagë minimale, për çdo muaj, për periudhën kontributive prill-dhjetor 2023.
