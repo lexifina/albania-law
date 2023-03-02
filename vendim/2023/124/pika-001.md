@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, për Shërbimin Social Shtetëror, të objekteve “Godina nr. 1 (3 kate + 1 kat nëntokë)” dhe “Godina nr. 3 (6 kate + 1 kat nëntokë)”, të konfiskuara, për interes publik, me adresë njësia administrative Golem, Bashkia Kavajë, sipas planvendosjes, që i bashkëlidhet këtij vendimi.

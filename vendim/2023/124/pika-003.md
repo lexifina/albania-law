@@ -1,0 +1,1 @@
+3. Autoritetit përfitues, sipas pikës 1, të këtij vendimi, i ndalohet t’i tjetërsojë, t’u ndryshojë destinacionin apo t’ua japë në përdorim të tretëve objektet e përcaktuara në pikën 1, të këtij vendimi.
