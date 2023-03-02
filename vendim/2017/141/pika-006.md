@@ -1,1 +1,3 @@
 6. Autoriteti drejtohet nga drejtori i Përgjithshëm, i cili organizon dhe mbikëqyr veprim-tarinë e institucionit dhe është përgjegjës për mirëfunksionimin e tij, si dhe përfaqëson institucionin në marrëdhëniet me të tretët.
+6/1. Marrëdhëniet e punës së drejtorit të përgjithshëm, nëpunësve dhe punonjësve administrativë të Autoritetit rregullohen në bazë të Kodit të Punës.
+6/2. Drejtori i përgjithshëm mbështetet nga zëvendësdrejtori i përgjithshëm. Në detyrën e zëvendësdrejtorit të përgjithshëm caktohet një nga drejtorët e përmbajtjes së Autoritetit, i cili krahas detyrave funksionale, kryen çdo detyrë tjetër të caktuar nga drejtori i përgjithshëm për të mbështetur atë në mbarëvajtjen e institucionit.

@@ -1,1 +1,1 @@
-2. Autoriteti Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike, organizohet si Drejtori e Përgjithshme, me seli në Tiranë, dhe e shtrin veprimtarinë e tij në të gjithë territorin e Republikës së Shqipërisë.
+2. Autoriteti Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike, organizohet si Drejtori e Përgjithshme, dhe e shtrin veprimtarinë e tij në të gjithë territorin e Republikës së Shqipërisë.
