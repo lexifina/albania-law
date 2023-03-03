@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të shtetit dhe kalimin në përgjegjësi administrimi të Fondit Shqiptar të Zhvillimit të objektit “Atrium Center Thumana”, Njësia Administrative Thumanë, Bashkia Krujë, sipas tabelës së inventarit, që i bashkëlidhet këtij vendimi.
