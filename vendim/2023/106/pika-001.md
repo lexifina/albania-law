@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rijetëzimi i siteve dhe i monumenteve të trashëgimisë kulturore të prekura nga tërmeti në Shqipëri, brenda kufirit të zonës arkeologjike “B”, të qytetit të Durrësit”.

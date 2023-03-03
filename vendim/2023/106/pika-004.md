@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 28 892 636 (njëzet e tetë milionë e tetëqind e nëntëdhjetë e dy mijë e gjashtëqind e tridhjetë e gjashtë) lekësh, përballohet nga buxheti i Ministrisë së Kulturës.
