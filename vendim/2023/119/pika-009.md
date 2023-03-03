@@ -1,0 +1,1 @@
+9. Vendimi nr. 682, datë 29.7.2015, i Këshillit të Ministrave, “Për përdorimin e fondeve publike për transportimin e punonjësve arsimorë që punojnë dhe të nxënësve që mësojnë jashtë vendbanimit”, të ndryshuar, shfuqizohet.
