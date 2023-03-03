@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtim argjinature mbrojtëse nga lumi Shkumbin, në Krastë, në kuadër të projektit ’Lungo Fiume’, Elbasan”.
