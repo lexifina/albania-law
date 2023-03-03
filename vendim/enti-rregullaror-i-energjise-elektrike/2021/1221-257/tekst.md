@@ -4,6 +4,10 @@ Nr. 257, datë 21.12.2021
 
 MBI LICENCIMIN E SHOQËRISË “ALBANIAN ENERGY SUPPLIER 2” SHPK, NË VEPRIMTARINË E TREGTIMIT TË ENERGJISË ELEKTRIKE
 
+(ndryshuar me vendimin nr. 67, datë 3.3.2023)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “d”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të nenit 4, pika 1, germa “e”, nenit 5, pika 1, germa “e”, nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 21.12.2021, mbasi shqyrtoi relacionin nr. 156/7 prot., datë 17.12.2021, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi licencimin e shoqërisë ‘Albanian Energy Supplier 2’ sh.p.k., në veprimtarinë e tregtimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -38,9 +42,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Albanian Energy Supplier 2” sh.p.k. në veprimtarinë e tregtimit të energjisë elektrike, për një afat 5-vjeçar.
 
-2. Shoqëria “Albanian Energy Supplier 2” sh.p.k. të depozitojë në ERE, brenda 1 (një) muaji nga marrja dijeni, strukturën e ndërtimit dhe funksionimit administrativ të saj, në përputhje me ushtrimin e veprimtarisë së tregtimit të energjisë elektrike.
+2. Shfuqizuar.
 
-3. Mosplotësimi i kushtit të mësipërm përbën shkak për rishikimin e këtij vendimi.
+3. Shfuqizuar.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
