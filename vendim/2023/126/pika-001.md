@@ -1,0 +1,1 @@
+1. Shpalljen ditë zie kombëtare ditën e diel, datë 5.3.2023, në nderim të viktimave, si pasojë e aksidentit tragjik hekurudhor që ndodhi në Republikën e Greqisë, në datën 28.2.2023, ku humbën jetën një numër i madh qytetarësh të vendit fqinj, ndër të cilët edhe disa shqiptarë.
