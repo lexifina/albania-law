@@ -1,0 +1,1 @@
+4. Ministri i Turizmit dhe Mjedisit, me hyrjen në fuqi të këtij vendimi, pajis me autorizimin përkatës për marrjen e kampionëve të dhelprës së kuqe për çdo qark, punonjësit e Agjencisë Kombëtare të Zonave të Mbrojtura, që marrin pjesë në këtë proces.
