@@ -1,0 +1,1 @@
+5. Ngarkohet Ministria e Financave dhe Ekonomisë, në bashkëpunim me ministrin e Shtetit dhe Kryenegociator, të monitorojë përfshirjen nga ministritë dhe institucionet e tjera qendrore, në programin buxhetor afatmesëm, të nevojave financiare për zbatimin e përparësive afatshkurtra dhe afatmesme, të parashikuara në PKIE-në 2023-2025.

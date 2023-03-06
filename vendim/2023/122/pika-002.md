@@ -1,0 +1,1 @@
+2. Ministri i Shtetit dhe Kryenegociator ngarkohet të bashkërendojë dhe të monitorojë zbatimin e PKIE-së 2023-2025 me ministrat dhe/ose drejtuesit e institucioneve përgjegjëse për kryesimin e grupeve ndërinstitucionale të punës për integrimin evropian (GNPIE), si dhe negociatorin përgjegjës të secilit kapitull, të acquis-it të BE-së.
