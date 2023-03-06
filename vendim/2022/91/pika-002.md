@@ -1,1 +1,0 @@
-2. Ministria për Evropën dhe Punët e Jashtme ngarkohet të bashkërendojë dhe të monitorojë zbatimin e PKIE-së 2022-2024 me institucionet përgjegjëse për kryesimin e grupeve ndërinstitucionale të punës për integrimin evropian (GNPIE), për çdo kapitull.

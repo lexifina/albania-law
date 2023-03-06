@@ -1,1 +1,0 @@
-3. Institucionet përgjegjëse për kryesimin e grupeve ndërinstitucionale të punës për integrimin evropian raportojnë çdo javë pranë Ministrisë për Evropën dhe Punët e Jashtme për ecurinë e zbatimit të PKIE-së 2022-2024.
