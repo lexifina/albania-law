@@ -1,0 +1,6 @@
+# Neni 51
+Inicimi i procedurave të sigurisë
+1. Institucionet e administratës publike, të cilat gjatë veprimtarisë së tyre prodhojnë, administrojnë dhe qarkullojnë informacion të klasifikuar, kanë të drejtë të iniciojnë procedurat për kryerjen e një prokurimi në fushën e mbrojtjes dhe të sigurisë që përmban informacion të klasifikuar, sipas parashikimeve të legjislacionit të posaçëm të prokurimit në këtë fushë.
+2. Çdo institucion i administratës publike, në cilësinë e autoritetit kontraktor, ka përgjegjësi që gjatë hartimit të dokumentacionit të tenderit apo zbatimit të kontratës në fushën e mbrojtjes dhe të sigurisë, që përmban informacion të klasifikuar, të aplikojë sistemin e masave të sigurisë që garanton mbrojtjen e këtij informacioni, sipas kërkesave të përcaktuara në të gjitha disiplinat e sigurisë së informacionit të klasifikuar.
+3. Operatorët ekonomikë të interesuar për të marrë pjesë në një prokurim në fushën e mbrojtjes dhe të sigurisë, i cili përmban informacion të klasifikuar, u nënshtrohen rregullave specifike të sigurisë.
+4. Angazhimi i operatorëve ekonomikë në një prokurim në fushën e mbrojtjes dhe të sigurisë, që përmban informacion të klasifikuar në nivelin “Konfidencial” e lart, bëhet vetëm pasi më parë operatori ekonomik është i pajisur me nivelin e kërkuar të Certifikatës së Sigurisë Industriale (CSI).
