@@ -1,6 +1,154 @@
 # Shtojca
 Lidhja nr. 1
 PAGA BAZË SIPAS GRADËS DHE VITEVE TË SHËRBIMIT PËR USHTARAKËT AKTIVË TË FORCAVE TË ARMATOSURA
+Vitet e shërbimit
+OFICERË
+Nën 1 vit
+Mbi 1 vit
+Mbi 2 vjet
+Mbi 3 vjet
+Mbi 4 vjet
+Mbi 6 vjet
+Mbi 8 vjet
+Mbi 10 vjet
+Mbi 12 vjet
+Mbi 14 vjet
+Mbi 16 vjet
+Mbi 18 vjet
+Mbi 20 vjet
+Mbi 22 vjet
+Mbi 24 vjet
+Mbi 26 vjet
+Gj.Lejtnant (Admiral)
+217.000
+Gj.Major (Nënadmiral)
+207.000
+Gj.Brigade (Kundëradmiral)
+175.000
+Kolonel (Kapiten i rangut I)
+147.700
+150.700
+153.000
+Nënkolonel (Kapiten i rangut II)
+120.600
+122.500
+124.500
+126.500
+128.400
+Major (Kapiten i rangut III)
+95.700
+98.200
+99.800
+102.100
+103.600
+105.300
+107.800
+109.400
+Kapiten (Kapiten lejtnant)
+85.500
+86.900
+89.000
+90.800
+91.800
+Toger (Lejtnant)
+80.400
+81.700
+83.200
+85.200
+86.250
+88.500
+90.100
+Nëntoger (Nënlejtnant)
+77.340
+77.900
+79.150
+80.400
+81.500
+82.100
+84.000
+Vitet e shërbimit
+NËNOFICERË
+Nën 2 vjet
+Mbi 2 vjet
+Mbi 3 vjet
+Mbi 4 vjet
+Mbi 6 vjet
+Mbi 8 vjet
+Mbi 10 vjet
+Mbi 12 vjet
+Mbi 14 vjet
+Mbi 16 vjet
+Mbi 18 vjet
+Mbi 20 vjet
+Mbi 22 vjet
+Mbi 24 vjet
+Mbi 26 vjet
+K/Kapter
+82.800
+84.300
+86.900
+88.600
+90.100
+Kapter
+73.000
+74.500
+76.000
+77.600
+79.300
+81.600
+83.200
+84.700
+Rreshter
+67.000
+68.700
+70.800
+72.700
+77.400
+75.800
+77.200
+Tetar
+64.950
+66.500
+67.200
+68.900
+Nëntetar
+60.800
+62.000
+63.600
+64.300
+65.700
+67.500
+Vitet e shërbimit
+USHTARË AKTIVË
+Nën 1 vit
+Mbi 1 vit
+Mbi 2 vjet
+Mbi 3 vjet
+Mbi 4 vjet
+Mbi 5 vjet
+Mbi 6 vjet
+Mbi 8 vjet
+Mbi 10 vjet
+Mbi 12 vjet
+Mbi 14 vjet
+Ushtar profesionist II/ detar profesionist II
+58.400
+59.000
+59.800
+60.400
+61.200
+62.600
+63.850
+65.400
+66.800
+Ushtar profesionist I/ detar profesionist I
+56.900
+57.750
+Ushtar rekrut II/ detar II
+55.640
+56.350
+Ushtar rekrut I/ detar I
+54.700
 Lidhja nr. 2
 STRUKTURA DHE NIVELI I PAGAVE PËR USHTARAKËT AKTIVË TË PERSONELIT AKADEMIK, NË AKADEMINË E FORCAVE TË ARMATOSURA
 Nr.
