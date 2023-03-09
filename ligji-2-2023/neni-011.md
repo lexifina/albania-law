@@ -1,0 +1,5 @@
+# Neni 11
+Kufizimet për vendosjen në treg
+1. Kufizimet për vendosjen në treg të produkteve dhe pajisjeve, të përcaktuara në aneksin III bashkëlidhur këtij ligji, me përjashtim të pajisjeve për përdorim ushtarak, përcaktohen sipas detyrimeve që rrjedhin nga Amendamenti i Kigalit të Protokollit të Montrealit “Për substancat që hollojnë shtresën e ozonit”, ku Republika e Shqipërisë është palë.
+2. Shitja dhe blerja e gazeve serrë të fluoruara në funksion të kryerjes së instalimit, shërbimeve, mirëmbajtjes ose riparimit të pajisjeve, që përmbajnë gaze serrë të fluoruara ose funksionimi i të cilave mbështetet mbi ato gaze, kryhet vetëm nga sipërmarrësit që punësojnë persona të certifikuar sipas nenit 10 të këtij ligji.
+3. Pajisjet e mbyllura jo hermetikisht, të mbushura me gaze serrë të fluoruara, vendosen në treg për konsumatorët nga sipërmarrësit vetëm nëse instalimi i pajisjes do të realizohet nga persona të certifikuar, pasi të jetë provuar mbi bazën e certifikatës përkatëse, të lëshuar sipas parashikimeve të këtij ligji.

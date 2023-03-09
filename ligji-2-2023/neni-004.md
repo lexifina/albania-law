@@ -1,0 +1,7 @@
+# Neni 4
+Parandalimi i shkarkimeve të gazeve serrë të fluoruara
+1. Operatorët e pajisjeve, që përmbajnë gaze serrë të fluoruara, ndërmarrin masat e nevojshme teknike dhe ekonomike paraprake, sipas kërkesave të këtij ligji, për të parandaluar lëshimin e paqëllimshëm apo rrjedhjet e këtyre gazeve, si dhe për të minimizuar rrjedhjen e tyre.
+2. Lëshimi i qëllimshëm i gazeve serrë të fluoruara në atmosferë, ndalohet në rastet kur lëshimi i tyre nuk është teknikisht i nevojshëm për përdorimin e synuar.
+3. Në rast se ndodh një rrjedhje e gazeve serrë të fluoruara, operatori siguron riparimin e pajisjes që përmban gaz pa vonesa të panevojshme. Kur pajisja u nënshtrohet kontrolleve për rrjedhje, sipas përcaktimeve të pikës 1 të nenit 5 të këtij ligji, si dhe kur pajisja është riparuar, operatori verifikon brenda 30 ditëve nga dita e riparimit nëse ky riparim ka qenë efektiv. Kontrolli dhe verifikimi kryhet nga persona të certifikuar sipas përcaktimeve të nenit 10 të këtij ligji.
+4. Personi që ngarkohet për marrjen e masave teknike për të parandaluar rrjedhjen e gazeve serrë të fluoruara certifikohet sipas përcaktimeve në nenin 10 të këtij ligji.
+5. Sipërmarrësi që kryen instalimin, mirëmbajtjen, riparimin ose çaktivizimin e pajisjeve të listuara në shkronjat “a” deri në “d” të pikës 4 të nenit 5 të këtij ligji, ka detyrimin të ofrojë shërbimin nëpërmjet personave të pajisur me certifikatën e parashikuar në nenin 10 të këtij ligji dhe të marrë masa paraprake për të parandaluar rrjedhjen e gazeve serrë të fluoruara.

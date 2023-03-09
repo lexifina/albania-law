@@ -1,0 +1,6 @@
+# Neni 14
+Parambushja e pajisjeve me hidrofluorokarbon
+1. Pajisjet e ftohjes, ajrit të kondicionuar dhe pompave të ngrohjes të mbushura me hidrofluorokarbon vendosen në treg vetëm kur sasia e hidrofluorokarboneve në pajisje është llogaritur brenda sistemit të kuotave të përcaktuara në kreun VI të këtij ligji.
+2. Në rast se pajisjet e parambushura vendosen në treg sipas përcaktimit në pikën 1 të këtij neni, prodhuesit dhe importuesit e pajisjeve sigurojnë që përputhshmëria me këtë përcaktim të jetë plotësisht e dokumentuar sipas përcaktimit në pikën 2 të nenit 20 të këtij ligji.
+3. Në rast se hidrofluorokarbonet që gjenden brenda në pajisje nuk janë vendosur në treg para mbushjes së pajisjes, atëherë importuesit e këtyre pajisjeve pajisen me autorizimin përkatës për ndarjen e kuotës vjetore të lëshuar nga ministria përgjegjëse për mjedisin.
+4. Sipërmarrësit, që prodhojnë dhe importojnë pajisjet e përcaktuara në pikën 2 të këtij neni, mbajnë dokumentacionin për një periudhë jo më pak se 5 (pesë) vjet pas vendosjes në treg të pajisjeve. Sipërmarrësit që importojnë dhe vendosin në treg pajisje të parambushura, kur hidrofluorokarbonet që gjenden brenda në pajisje nuk janë vendosur në treg para mbushjes së pajisjes, sigurojnë që ato janë të regjistruara në përputhje me nenin 16 të këtij ligji.

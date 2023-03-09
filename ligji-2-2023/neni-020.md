@@ -1,0 +1,6 @@
+# Neni 20
+Autorizimi për ndarjen e kuotës vjetore të importit të hidrofluorokarboneve
+1. Sipërmarrësit, që kryejnë importin e hidrofluorokarboneve dhe/ose pajisjeve të parambushura me hidrofuorokarbone, pajisen me autorizim të ministrit përgjegjës për mjedisin, sipas modelit të miratuar nga ministri, i cili përcakton kuotën vjetore të importit të hidrofluorokarboneve të caktuar për sipërmarrësit përkatës, në përputhje me parimet dhe procedurat e përcaktuara në legjislacionin në fuqi për licencat, autorizimet dhe lejet në Republikën e Shqipërisë.
+2. Kushtet e posaçme, dokumentacioni shoqërues, procedura, afatet për dhënien e autorizimit të përcaktuar në pikën 1 të këtij neni, miratohen nga Këshilli i Ministrave, me propozim të ministrit përgjegjës për mjedisin.
+3. Mënyra e ndarjes së kuotave vjetore të importit të hidrofluorokarboneve dhe/ose pajisjeve të parambushura me hidrofluorokarbone, si dhe kriteret për ndarjen e kuotave, miratohen me vendim të Këshillit të Ministrave, me propozim të ministrit përgjegjës për mjedisin.
+4. Formati i autorizimit për importin e hidrofluorokarboneve dhe/ose pajisjeve të parambushura me hidrofluorokarbone miratohet me urdhër të ministrit përgjegjës për mjedisin.
