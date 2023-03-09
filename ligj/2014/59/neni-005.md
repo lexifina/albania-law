@@ -15,3 +15,5 @@ b) kandidat për ushtar, i cili është shpallur fitues pas procedurave të rekr
 10. “Gradë për specialitete” është kategoria e gradave ushtarake, e cila u jepet ushtarakëve të profesioneve specifike.
 11. “Epror” është ushtaraku i cili, në bazë të gradës apo funksionit, ushtron autoritet mbi ushtarakët vartës.
 12. “Vartës” është ushtaraku, i cili është nën autoritetin e një ushtaraku që ka gradë apo funksion më të lartë.
+13. “Sportistë të nivelit të lartë” ka të njëjtin kuptim sipas përcaktimeve të ligjit nr. 79/2017, “Për sportin”, të ndryshuar;
+14. “Gradë honorifike” është grada, e ndryshme nga gradat ushtarake të përcaktuara në nenin 12 të këtij ligji, e cila i jepet sportistit të nivelit të lartë.

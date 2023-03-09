@@ -5,31 +5,31 @@ a) Për oficerët aktivë:
 Klasifikimi
 Grada Forca Tokësore/Ajrore
 Grada Forca Detare
-i) Gradë madhore
+i)Gradë madhore
 Gjeneral lejtnant
 Admiral;
-ii) Gradë madhore
+ii)Gradë madhore
 Gjeneral major
 Nënadmiral;
-iii) Gradë madhore
+iii)Gradë madhore
 Gjeneral brigade
 Kundëradmiral;
-iv) Gradë e lartë
+iv)Gradëe lartë
 Kolonel
 Kapiten i rangut I;
-v) Gradë e lartë
+v)Gradë e lartë
 Nënkolonel
 Kapiten i rangut II;
-vi) Gradë e lartë
+vi)Gradëe lartë
 Major
 Kapiten i rangut III;
-vii) Gradë e ulët
+vii)Gradëe ulët
 Kapiten
 Kapiten Lejtnant;
-viii) Gradë e ulët
+viii)Gradëe ulët
 Toger
 Lejtnant;
-ix) Gradë e ulët
+ix)Gradë e ulët
 Nëntoger
 Nënlejtnant.
 b) Për nënoficerët aktivë:
@@ -69,7 +69,8 @@ Ushtar I
 Detar I.
 ç) Për studentët:
 Titulli Lloji i gradës
-Student ushtarak Ushtar I
+Student ushtarak Kadet
 2. Studentët shqiptarë, që ndjekin studimet në shkollat ushtarake jashtë vendit, mbajnë uniformën dhe simbolet e gradës së studentit të akademive ushtarake shqiptare, sipas marrëveshjeve dypalëshe me vendet pritëse.
 3. Rekrutët, kur hyjnë në shërbimin aktiv, nuk mbajnë gradë deri në përfundimin me sukses të stërvitjes bazë. Pas përfundimit të kësaj periudhe, kandidatët për ushtarë gradohen “Ushtar I” ose “Detar I”.
 4. Ushtarët dhe nënoficerët, që konkurrojnë për shkolla të larta ushtarake brenda vendit, ruajnë gradën që mbajnë në momentin e pranimit në shkollat e larta ushtarake deri në përfundim të studimeve.
+5. Grada “Kadet” për efekt të pagesës njësohet me gradën “Ushtar I”.
