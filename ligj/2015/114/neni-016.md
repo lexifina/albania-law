@@ -8,4 +8,4 @@ c) të veprojnë në përputhje me kërkesat e përcaktuara në Kodin e Etikës,
 d) të ruajnë konfidencialitetin e të dhënave, fakteve apo rasteve të gjetura gjatë kryerjes së auditimit apo të lidhur me të, si dhe të ruajnë dokumentet për çdo angazhim auditimi të kryer, bazuar në detyrimet, që rrjedhin nga ligjet në fuqi për të drejtat e përdorimit dhe të arkivimit të informacionit zyrtar;
 dh) të përditësojnë rregullisht njohuritë dhe aftësitë e tyre profesionale, në mënyrë që t’i përdorin ato me efikasitet dhe për të garantuar cilësinë e shërbimit;
 e) të japin rekomandime për njësinë e audituar për përmirësimin e veprimtarisë, efektivitetin e sistemit të kontrollit të brendshëm, si dhe për masat që duhen ndërmarrë në rastet e konstatimit të dëmeve ekonomike e financiare për zhdëmtimin e tyre dhe për të ulur mundësinë e përsëritjes;
-ë) të raportojnë menjëherë te drejtuesi i njësisë së auditimit kur zbulohen parregullsi apo veprime, që në vlerësimin e audituesve të brendshëm përbëjnë vepër penale.
+ë) Shfuqizuar.
