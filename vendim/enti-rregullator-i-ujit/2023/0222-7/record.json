@@ -1,0 +1,28 @@
+{
+  "qbz_id": 25646,
+  "title": "Për licencimin e shoqërisë rajonale Ujësjellës-Kanalizime Gjirokastër sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "7",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2023-02-22",
+  "published": "2023-03-10",
+  "in_force": "2023-03-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d5815dcaa599cd737baf96d7e46750851af8d4eac1a0c9904ec93353174f9ded.docx",
+  "source_sha256": "d5815dcaa599cd737baf96d7e46750851af8d4eac1a0c9904ec93353174f9ded",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25646",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/02/22/7",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    62011
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
