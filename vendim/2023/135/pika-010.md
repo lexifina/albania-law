@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Berat, pezullon të gjitha transaksionet me pasurinë e shpronësuar, deri në momentin e realizimit të procesit të hedhjes së gjurmës së projektit mbi hartën kadastrale dhe regjistron kalimin e pronësisë për pasurinë e shpronësuar në favor të Bashkisë Berat, sipas këtij vendimi.

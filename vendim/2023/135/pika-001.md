@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Ujësjellësi i fshatit Duhanas, fshati Lapardha 1, Otllak dhe Orizaj”, Berat.
