@@ -1,0 +1,31 @@
+{
+  "qbz_id": 25645,
+  "title": "Për licencimin e shoqërisë rajonale Ujësjellës-Kanalizime Durrës sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "6",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2023-02-22",
+  "published": "2023-03-10",
+  "in_force": "2023-03-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/de56e76425028643873304b591ce5ebbb2df47501b648b2a1d577fc358bd6d54.docx",
+  "source_sha256": "de56e76425028643873304b591ce5ebbb2df47501b648b2a1d577fc358bd6d54",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25645",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/02/22/6",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    68872,
+    31848,
+    29057,
+    28133
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
