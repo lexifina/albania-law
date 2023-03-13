@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit ndërmjet Republikës së Shqipërisë (Marrësi), përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt am Main (KfW), e Fondit Shqiptar të Zhvillimit (FSHZH), (Agjencia e zbatimit të projektit), masat shoqëruese për projektin “Zhvillimi i integruar rajonal”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
