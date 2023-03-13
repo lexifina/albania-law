@@ -1,0 +1,1 @@
+3. Fondi prej 61 000 000 (gjashtëdhjetë e një milionë) lekësh, me kërkesë të Drejtorisë së Shërbimeve Qeveritare, alokohet me destinacion projektin zbatues, përfshirë rikonstruksionet e nevojshme për krijimin e infrastrukturës mbështetëse, të paraqitur nga kjo drejtori pranë Ministrisë së Financave dhe Ekonomisë.

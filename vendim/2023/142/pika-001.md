@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e vitit 2023, në programin “Shërbime qeveritare”, t’i shtohet fondi prej 61 000 000 (gjashtëdhjetë e një milionë) lekësh, për financimin e infrastrukturës mbështetëse, në kuadër të organizimit në Tiranë të Samitit të Procesit të Berlinit.
