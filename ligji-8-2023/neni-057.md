@@ -1,0 +1,5 @@
+# Neni 57
+Aftësitë drejtuese dhe organizative
+1. Me anë të kriterit të aftësive drejtuese dhe organizative vlerësohen aftësitë e kryetarit të zyrës përmbarimore për organizimin e qartë të veprimtarive administrative nëpërmjet dhënies së vendimeve dhe urdhrave për të siguruar respektimin e afateve dhe përdorimin sa më të mirë të burimeve të disponueshme, si dhe transparencën në zyrë.
+2. Kriteri i aftësive drejtuese dhe organizative matet duke u bazuar në treguesit që kanë lidhje me mirorganizimin e punës dhe shpërndarjen e dosjeve përmbarimore në raport të drejtë me ngarkesën e përmbaruesve, komunikimin e prioriteteve, aftësinë për të përdorur me efektshmëri burimet financiare dhe njerëzore, zëvendësimin në kohë të përmbaruesve, që kanë pengesa për kryerjen e procedurës së ekzekutimit, krijimit të ambienteve të përshtatshme në zyrë, në përputhje me nevojat e palëve dhe zhvillimin e mbledhjeve me përmbaruesit.
+3. Përfshirja e kryetarit të zyrës përmbarimore në veprimtari ndërinstitucionale për përmirësimin e sistemit përmbarimor ose në trajnime profesionale për drejtimin dhe organizimin e zyrave përmbarimore vlerësohet me përparësi në matjen e këtij kriteri.

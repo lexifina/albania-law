@@ -1,0 +1,19 @@
+# Neni 62
+Procedura e vlerësimit
+1. Këshilli i Përmbarimit, jo më vonë se muaji nëntor i çdo viti, miraton programin, që përcakton listën e përmbaruesve dhe kryetarëve të zyrave përmbarimore për të cilët do të kryhet vlerësimi përgjatë vitit pasardhës dhe periudhën e vlerësimit. Programi publikohet në faqen zyrtare të Drejtorisë së Përgjithshme të Përmbarimit.
+2. Kryetarët e zyrave përmbarimore dhe përmbaruesit, të cilët do të vlerësohen sipas programit të miratuar, njoftohen në kohën e duhur nga Këshilli, por, në çdo rast, jo më vonë se 3 javë nga momenti i vlerësimit sipas përcaktimeve të kësaj dispozite.
+3. Përmbaruesi kryen vlerësimin etik dhe profesional të tij sipas formularit standard të vendosur nga Këshilli i Përmbarimit brenda 3 (tre) javëve nga marrja e njoftimit, nëpërmjet të cilit përmbaruesi:
+a) vlerëson detyrat e ushtruara përkundrejt kritereve vlerësuese;
+b) paraqet një analizë të të dhënave statistikore që lidhen me veprimtarinë e tij si përmbarues;
+c) përshkruan masat që ka ndërmarrë për përmbushjen e objektivave të përcaktuara në vlerësimin e mëparshëm;
+ç) përshkruan shkallën, në të cilën janë përmbushur këto objektiva, duke dhënë edhe shpjegimin përkatës;
+d) përshkruan objektivat për zhvillimin e tij profesional për vlerësimin e ardhshëm të tij;
+dh) përshkruan nevojat për trajnim dhe, nëse ka, rrethanat të cilat përbëjnë pengesë për zhvillimin e tij profesional dhe propozon zgjidhje konkrete për periudhën e ardhshme të vlerësimit.
+4. Përmbaruesi dorëzon formularin e plotësuar pranë kryetarit të zyrës përmbarimore.
+5. Kryetari i zyrës përmbarimore jep mendimin për veprimtarinë e përmbaruesit në përputhje me standardet e vendosura nga Këshilli i Përmbarimit brenda 10 ditëve nga dorëzimi i formularit. Në mendimin e kryetarit të zyrës përmbarimore përshkruhet veprimtaria e përmbaruesit gjyqësor dhe vlerësimi i tij për këtë veprimtari, sipas kritereve të vlerësimit, duke u bazuar në nivelet e vlerësimit të parashikuara në këtë ligj. Gjithashtu, në mendimin e kryetarit të zyrës përmbarimore pasqyrohet një analizë e të dhënave statistikore të veprimtarisë së përmbaruesit.
+6. Brenda tri ditëve nga njoftimi i mendimit të kryetarit të zyrës përmbarimore, përmbaruesi gëzon të drejtën për t’u dëgjuar dhe paraqet kërkesë për zhvillimin e një takimi me kryetarin e zyrës përmbarimore.
+7. Kryetari i zyrës përmbarimore zhvillon takimin me përmbaruesin brenda dy javëve nga data e depozitimit të kërkesës dhe merr masat për pasqyrimin e takimit në procesverbal, i cili i bashkëlidhet mendimit të kryetarit të zyrës përmbarimore.
+8. Jo më vonë se 5 ditë nga realizimi i takimit, kryetari i zyrës përmbarimore i dërgon Këshillit të Përmbarimit aktet e vlerësimit të përmbaruesit, ku përfshihen vlerësimi i kryer nga përmbaruesi, mendimi përfundimtar i kryetarit të zyrës përmbarimore për veprimtarinë e përmbaruesit, kundërshtitë e mundshme të përmbaruesit ndaj mendimit të kryetarit të zyrës përmbarimore dhe procesverbalin e dëgjesës. Nëse është e nevojshme për qëllime të vlerësimit, Këshilli i Përmbarimit mund të kërkojë informacione shtesë nga kryetari i zyrës përmbarimore apo përmbaruesi gjyqësor shtetëror.
+9. Brenda një muaji nga marrja e akteve të vlerësimit, sipas pikës 8 të këtij neni, Këshilli i Përmbarimit, pasi shqyrton dokumentacionin, merr vendimin për vlerësimin, të cilin ia njofton brenda 20 ditëve përmbaruesit dhe zyrës përmbarimore ku është i emëruar, Drejtorisë së Përgjithshme të Përmbarimit dhe ministrit.
+10. Në rastet kur përmbaruesi vlerësohet “I pamjaftueshëm”, i ulet paga me 2% gjatë dy viteve kalendarike pas këtij vlerësimi.
+11. Përmbaruesi, kur nuk është dakord me vendimin e Këshillit të Përmbarimit për vlerësimin e tij, ka të drejtë ta ankimojë në gjykatën administrative kompetente, brenda 45 ditëve nga data e njoftimit të vendimit.

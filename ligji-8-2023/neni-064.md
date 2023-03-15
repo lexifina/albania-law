@@ -1,0 +1,5 @@
+# Neni 64
+Efektet e pezullimit
+1. Në përfundim të afatit apo zhdukjes së shkakut të pezullimit, përveçse kur vendoset largimi nga detyra, sipas këtij ligji, përmbaruesi gjyqësor rikthehet në pozicionin e mëparshëm të punës ose në rast se pozicioni i mëparshëm është i plotësuar përfundimisht, ai transferohet në një zyrë tjetër përmbarimore sipas rregullave të parashikuara në këtë ligj.
+2. Periudha e pezullimit në rastet e parashikuara nga shkronjat “ç” dhe “d” të pikës 1 të nenit 63 të këtij ligji, llogaritet si vjetërsi pune në profesion.
+3. Përmbaruesi gjyqësor shtetëror gjatë periudhës së pezullimit nuk përfiton pagë. Në rastet e parashikuara nga shkronjat “ç” dhe “d” të pikës 1 të nenit 63 të këtij ligji, përmbaruesi përfiton 50% të pagës së plotë. Në rastin e parashikuar nga shkronja “a” e pikës 1 të nenit 63 të këtij ligji, kur vendoset pushimi i çështjes apo pafajësia me vendim gjyqësor të formës së prerë, përmbaruesit gjyqësor shtetëror i jepet paga e plotë që nga momenti i pezullimit.

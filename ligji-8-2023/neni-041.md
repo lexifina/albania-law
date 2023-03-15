@@ -1,0 +1,7 @@
+# Neni 41
+Marrëdhëniet me të tretët
+1. Përmbaruesi gjyqësor shtetëror ka të drejtë të kërkojë informacionin e nevojshëm për procedurat e ekzekutimit nga organet publike, entet publike ose nga personat juridikë dhe fizikë që zotërojnë informacionin përkatës në përputhje me legjislacionin në fuqi.
+2. Informacioni i kërkuar i jepet përmbaruesit gjyqësor shtetëror brenda pesë ditëve pune nga marrja e kërkesës zyrtare dhe jo më vonë se dy ditë pune kur informacioni kërkohet nëpërmjet komunikimit me postë elektronike, përveç rasteve kur parashikohet ndryshe nga dispozitat e Kodit të Procedurës Civile.
+3. Ndaj personave fizikë ose juridikë, që paraqesin pengesë gjatë procedurave të ekzekutimit ose fshehin, deklarojnë apo japin të dhëna të pasakta në lidhje me prona, të ardhura, të drejta mbi pasuritë e debitorit, të kërkuara nga përmbaruesi gjyqësor shtetëror, kur këto veprime përbëjnë vepër penale në kuptim të nenit 320 të Kodit Penal, përmbaruesi gjyqësor shtetëror bën kallëzim penal.
+4. Për ekzekutimin e titujve ekzekutivë me objekt “Takim dhe kujdestari fëmije”, përmbaruesi gjyqësor shtetëror njofton njësinë për mbrojtjen e fëmijës pranë strukturës përgjegjëse për shërbimet shoqërore në bashki dhe kërkon asistencën e një psikologu.
+5. Të dhënat e marra në përputhje me këtë nen trajtohen në përputhje me detyrimin e konfidencialitetit dhe sipas legjislacionit në fuqi për mbrojtjen e të dhënave personale.

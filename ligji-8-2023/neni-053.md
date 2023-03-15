@@ -1,0 +1,6 @@
+# Neni 53
+Aftësitë personale dhe angazhimi profesional
+1. Me anë të kriterit të aftësisë personale dhe angazhimit profesional vlerësohen aftësitë e komunikimit, aftësia për të bashkëpunuar me kolegët dhe gatishmëria për punë në grup, si dhe aftësia për t’u angazhuar në trajnime profesionale.
+2. Aftësia e komunikimit të përmbaruesit matet duke u bazuar në treguesit e komunikimit të qartë dhe transparent me palët, subjektet e tjera, të tretët, në respektim edhe të parimit të konfidencialitetit. Vlerësimi i aftësive drejtuese si kryetar i zyrës përmbarimore me të paktën “shumë mirë” ka përparësi në vlerësimin si përmbarues, i cili kryhet pas vlerësimit si kryetar i zyrës përmbarimore.
+3. Aftësia për të bashkëpunuar me kolegët dhe gatishmëria në grup matet duke u bazuar në treguesit e komunikimit dhe bashkëveprimit me kolegët apo stafin administrativ të zyrës përmbarimore, si dhe shkëmbimit të njohurive apo të përvojës profesionale me ta.
+4. Gatishmëria për t’u angazhuar në trajnime profesionale matet duke u bazuar në tregues të tillë, si: pjesëmarrja e përmbaruesit në trajnimet vazhduese, pjesëmarrja në trajnime të tjera profesionale, pjesëmarrja në veprimtari ndërinstitucionale dhe publikimet akademike.

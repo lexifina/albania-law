@@ -1,0 +1,6 @@
+# Neni 51
+Aftësitë organizative
+1. Me anë të kriterit të aftësisë organizative vlerësohet aftësia e përmbaruesit për të përballuar ngarkesën e punës dhe për të kryer procedurat përmbarimore, si dhe aftësia për të administruar dosjet përmbarimore duke shmangur rrethanat, të cilat nuk varen nga përmbaruesi dhe që kanë efekt negativ në rezultatet e vlerësimit.
+2. Aftësia për të përballuar ngarkesën e punës matet duke u bazuar në treguesit për respektimin e afateve ligjore, plotësimin e standardeve minimale kohore, kohën mesatare që i dedikohet çdo dosjeje, në rendimentin e përfundimit të çështjeve përmbarimore dhe kohën mesatare për ekzekutimin e detyrueshëm të një titulli ekzekutiv, kryerjen e njoftimit të akteve gjyqësore dhe dokumenteve zyrtare, shitjes së sendeve në ankand publik dhe konstatimit të fakteve, sendeve dhe dukurive lehtësisht të verifikueshme që nuk kërkojnë njohuri specifike teknike sipas legjislacionit në fuqi.
+3. Aftësia e përmbaruesit për të kryer në mënyrë të efektshme procedurat përmbarimore matet duke u bazuar në treguesit e kryerjes së veprimeve të nevojshme procedurale brenda afatit kohor të përcaktuar për ekzekutimin e dosjeve përmbarimore.
+4. Aftësia për të administruar dosjet përmbarimore matet duke u bazuar në treguesit e rregullshmërisë, plotësisë dhe saktësisë së dokumentacionit të dosjes.

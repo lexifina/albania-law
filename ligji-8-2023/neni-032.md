@@ -1,0 +1,8 @@
+# Neni 32
+Përfitime të tjera
+1. Përmbaruesi gjyqësor shtetëror gëzon të drejtën e pushimeve vjetore të paguar prej 4 (katër) javësh kalendarike. Si rregull, pushimi vjetor përfshin një periudhë prej tre javësh, pa ndërprerje në muajt korrik dhe gusht. Përmbaruesi gjyqësor shtetëror, i ngarkuar me detyra të ngutshme në këtë periudhë, pushimin vjetor e kryen në një periudhë tjetër, duke përfituar 5 (pesë) ditë pushimi shtesë.
+2. Pushimi vjetor jepet nga kryetari i zyrës përmbarimore.
+3. Përmbaruesi gjyqësor shtetëror ka të drejtë që në raste të veçanta, për nevoja personale ose familjare, të kërkojë leje pa të drejtë page. Kohëzgjatja e kësaj leje përcaktohet nga kryetari i zyrës përmbarimore. Kohëzgjatja maksimale e lejeve të papaguara brenda një viti kalendarik nuk mund të jetë më e gjatë se 30 ditë.
+4. Përmbaruesi gjyqësor shtetëror mund të kërkojë leje të papaguar deri në 2 (dy) vjet për arsye shëndetësore, familjare ose për qëllime kualifikimi apo specializimi profesional. Leja e papaguar mund të merret e gjitha njëherësh ose në periudha të ndryshme, sipas kërkesës së përmbaruesit.
+5. Drejtoria e Përgjithshme e Përmbarimit mund të japë lejen e papaguar sipas pikës 4, pasi ka marrë mendimin e kryetarit të zyrës përmbarimore, nëse leja nuk cenon interesat e funksionit dhe nuk vë në rrezik në tërësi përmbushjen e funksionit me eficiencë dhe në kohë në zyrën përmbarimore. Periudha e lejes së papaguar nuk merret në konsideratë për vjetërsinë në punë ose për efekt të përfitimeve të tjera.
+6. Ministri miraton rregulla më të detajuara për kriteret dhe procedurat për dhënien e lejes së papaguar, sipas këtij neni.
