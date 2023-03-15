@@ -1,0 +1,1 @@
+20. Kur grupi i verifikimit ka mendime të ndryshme me subjektin përfitues, në lidhje me gjetjet faktike në terren, përkundrejt formularit të vetëdeklarimit, një ekip i Drejtorisë së Kontrollit në AZHBR, bën riverifikim të rastit, vendimi i argumentuar i të cilit është i përfundimtar nga pikëpamja administrative.

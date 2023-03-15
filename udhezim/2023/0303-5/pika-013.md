@@ -1,0 +1,1 @@
+13. Për masat mbështetëse 1-4, kur fondi në dispozicion sipas alokimit të bërë, rezulton më i vogël se totali i kërkesës së aplikimeve të bëra për masën përkatëse sipas listës përfundimtare të përfituesve, vlera e financimit që përfitohet për njësi (krerë, zgjua apo ha), si dhe në total për subjekt, reduktohet në përputhje me këtë fond.

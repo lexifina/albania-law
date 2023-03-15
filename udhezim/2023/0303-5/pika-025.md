@@ -1,0 +1,26 @@
+25. Procedurat mbi procesin e verifikimeve sipas këtij kreu, përcaktohen në një manual të veçantë nga AZHBR-ja.
+XI. PAGESA E VLERËS SË PA LIKUIDUAR PËR VITIN 2022 DHE MBËSHTETJA PËR UBT-në
+1. Në zbatim të VKM-së nr. 125, datë 1.3.2023, pika 6, për pagesën e vlerës së pa likuiduar për subjektet e shpallur fitues nga AZHBR-ja, në zbatim të vendimit nr. 101, datë 9.2.2022, të Këshillit të Ministrave, “Për përcaktimin e kritereve bazë, të sektorëve që do të mbështeten dhe të masës së financimit nga fondi i programit për bujqësinë dhe zhvillimin rural, për vitin 2022”, të ndryshuar:
+Hartohet shtesa e kontratës midis AZHBR-së dhe subjekteve përkatës, e cila bazohet në Kodin Civil, neni 690, dhe do të shtrijë efektet e saj si pjesë integrale dhe e pandarë e kontratës bazë. Palët me nënshkrimin e shtesës së kontratës, njohin dhe bien dakord për faktin se ndryshimet e propozuara nuk kanë si qëllim ndryshimin e kushteve thelbësore të kontratës, por duke gjetur të argumentuar dhe të provuar kërkesën e subjekteve kontraktore, përcaktojnë se afati i realizimit të investimit është jo më vonë se data 30.9.2023.
+2. Në zbatim të VKM-së nr. 125, datë 1.3.2023, pika 2.4, UBT-ja të paraqesë në AZHBR dhe MBZHR një raport për aktivitetet e kryera brenda datës 15 dhjetor 2023.
+XII. KONTROLLI PËR ADMINISTRIMIN E FONDIT DHE ÇËSHTJE TË TJERA
+1. AZHBR-ja është përgjegjëse për zbatimin, auditimin dhe likuidimin financiar të përfituesve sipas masave të mbështetjes dhe kritereve të përfitueshmërisë.
+2. AZHBR-ja gëzon të drejtën për të kërkuar çdo informacion /dokumentacion shtesë, në rast se e gjykon të arsyeshme brenda kritereve dhe procedurave të miratuara.
+3. Për ofertat dhe faturat në valutë të huaj do të zbatohet kursi i këmbimit të Bankës së Shqipërisë në ditën e çeljes së thirrjes për aplikim. AZHBR-ja ka të drejtë të bëjë korrigjime aritmetike para kontraktimit, nëse subjektet kanë përdorur kurse të tjera këmbimi. Nëse në ofertë janë përfshirë zëra të listuara në shpenzimet e papranueshme, AZHBR-ja ka të drejtë t’i fshijë para lidhjes së kontratës.
+4. Dokumentet e dorëzuara bëhen pronë e AZHBR-së sipas përcaktimeve nga ligji për ruajtjen e dokumentacionit, dhe nuk i kthehen aplikantit.
+5. MBZHR-ja, AZHBR-ja dhe AKSHI hartojnë dhe zbatojnë një plan trajnimi me stafin që do të përfshihet në procesin e implementimit të masave mbështetëse, për të cilat aplikimi bëhet on line.
+6. MBZHR-ja dhe AZHBR-ja hartojnë dhe zbatojnë një plan informimi dhe ndërgjegjësimi me të gjithë grupet e interesit për masat e përfitimit, kriteret dhe kushtet që duhet të plotësojnë të gjithë përfituesit potencialë për të përfituar mbështetje financiare nga fondi i programit për bujqësinë dhe zhvillimin rural.
+7. Alokimi i fondit sipas masave mbështetëse bëhet me urdhër të ministrit të Bujqësisë dhe Zhvillimit Rural, sipas propozimit të AZHBR-së.
+8. Në rastet kur numri i aplikuesve të një mase nuk plotëson tavanin e financimit për masën përkatëse, rialokimi i fondeve në masat e tjera bëhet me urdhër të ministrit të Bujqësisë dhe Zhvillimit Rural, me propozim të AZHBR.
+9. Aplikimi, kontrolli administrativ, verifikimi në terren, autorizimi dhe ekzekutimi i pagesës së aplikimeve përshkruhen në “Manualin e procedurave për implementimin e masave kombëtare”, të miratuar nga drejtori i përgjithshëm i AZHBR-së.
+10. Formularët/raportet e verifikimit në terren, sipas masave mbështetëse, përgatiten nga AZHBR-ja në përputhje dhe në zbatim të këtij udhëzimi.
+11. Aplikuesit, të cilët skualifikohen gjatë implementimit të masave mbështetëse paraqesin ankesën e tyre brenda 15 ditëve kalendarike nga marrja e njoftimit pranë AZHBR-së.
+AZHBR-ja brenda 15 ditëve kalendarike nga marrja e ankesës bën verifikimin përkatës dhe i jep përgjigje ankimuesit.
+12. Për vlerësime të aplikimeve në masat e investimeve, AZHBR-ja mund të kontraktojë me kohë të kufizuar ekspertë të licencuar të fushës.
+13. Mbështetja financiare llogaritet mbi vlerën e faturës tatimore, përjashtuar vlerën e TVSH-së.
+14. Në kontratën që AZHBR-ja do të nënshkruajë më aplikuesin fitues, duhet të përcaktohen qartë penalitetet në rastet kur përfituesi i fondeve të masave mbështetëse nuk pranon të kontrollohet prej inspektorëve të AZHBR-së.
+15. Në momentin e aplikimit, aplikanti pranon që të dhënat e tij personale të përdoren vetëm për qëllim të këtij aplikimi. AZHBR-ja garanton mbrojtjen e të dhënave personale të aplikantëve sipas ligjeve në fuqi.
+16. Në rast të konstatimit të “kundërvajtjeve administrative”, nga ana e përfituesit në drejtim të tjetërsimit të qëllimit për të cilën janë marrë fondet apo mos mbajtjes së dokumentacionit të përdorur për përfitimin e fondeve për një periudhë 5 vjeçare, AZHBR-ja propozon sanksione të përcaktuara në nenin 39 të ligjit nr. 9817, datë 22.10.2007, “Për bujqësinë dhe zhvillimin rural”.
+17. Për menaxhimin e fondeve, AZHBR-ja raporton në mënyrë periodike në MBZHR, e cila raporton çdo katër mujor në MFE për ecurinë e realizimit të programit të mbështetjes financiare.
+18. Për zbatimin e këtij udhëzimi ngarkohen Agjencia për Zhvillim Bujqësor dhe Rural, Ministria e Financës dhe Ekonomisë, si dhe Ministria e Bujqësisë dhe Zhvillimit Rural.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

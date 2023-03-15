@@ -1,0 +1,1 @@
+22. Në vlerësimin e përputhshmërisë së vetëdeklarimeve me situatën reale në terren, shmangia e lejuar e faktit të verifikuar të kulturave dhe e sipërfaqes së kultivuar, në raport me naftën e tërhequr sipas aplikimit të miratuar, duhet të jetë jo më e madhe se 20%. Devijimi mban parasysh, si diferencën në sipërfaqen e kulturave, ashtu edhe ndryshimet në kulturat e kultivuara.

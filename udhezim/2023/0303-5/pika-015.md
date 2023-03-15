@@ -1,0 +1,1 @@
+15. Të gjitha aplikimet e kryera nëpërmjet e-Albania, i nënshtrohen procesit të kontrollit administrativ, që shqyrton përputhjet e vetëdeklarimeve, në lidhje me parcelat, sipërfaqet, kulturat dhe dokumentacionin që i mbështet këto deklarime.
