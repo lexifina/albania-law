@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes me shkëmbim notash për ndryshimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Emirateve të Bashkuara Arabe, për përjashtimin e ndërsjellë të vizës hyrëse për mbajtësit e pasaportave diplomatike, të shërbimit/speciale, nënshkruar më 13 prill 2015, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
