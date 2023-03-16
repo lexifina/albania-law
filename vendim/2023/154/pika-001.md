@@ -1,0 +1,1 @@
+1. Shpalljen e habitatit të tulipanit shqiptar (Tulipa albanica) “Monument natyror”, kategoria III e zonave të mbrojtura, sipas hartës në shtojcën 1, dhe kufirit të paraqitur sipas tabelës së koordinatave në shtojcën 2, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
