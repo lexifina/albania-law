@@ -1,0 +1,1 @@
+5. Për veprimtaritë që zhvillohen brenda territorit të Parkut Kombëtar të lumit të Vjosës, që janë pajisur me leje mjedisore dhe vendim të Këshillit Kombëtar të Territorit, si dhe janë lidhur kontratat për zhvillimin e këtyre veprimtarive, deri në datën e hyrjes në fuqi të këtij vendimi, zbatohen parashikimet e ligjit nr. 81/2017, “Për zonat e mbrojtura”.

@@ -1,0 +1,1 @@
+9. Pika 21, e vendimit nr. 60, datë 26.1.2022, të Këshillit të Ministrave, “Për shpalljen e ekosistemeve natyrore rezervat natyror i menaxhuar/park natyror (kategoria IV), si dhe miratimin e ndryshimit të statusit të sipërfaqeve ekzistuese të zonave të mbrojtura mjedisore, që i përkasin kësaj kategorie”, shfuqizohet.

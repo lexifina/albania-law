@@ -1,0 +1,1 @@
+8. Forma e administrimit të Parkut Kombëtar të lumit Vjosa është shtetërore dhe administrimi kryhet nga Agjencia Kombëtare e Zonave të Mbrojtura (AKZM), nëpërmjet përfshirjes së administratave rajonale të zonave të mbrojtura (ADZM), në territorin e të cilave shtrihet Parku. Mënyra e administrimit përcaktohet në përputhje me kuadrin ligjor dhe nënligjor në fuqi.

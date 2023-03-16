@@ -1,0 +1,1 @@
+1. Shpalljen e ekosistemit natyror të lumit Vjosa “Park Kombëtar” (kategoria II e zonave të mbrojtura), sipas hartës në shtojcën 1, kufiri i zonës së mbrojtur, dhe tabelës së koordinatave në shtojcën 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
