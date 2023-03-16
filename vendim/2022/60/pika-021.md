@@ -1,1 +1,1 @@
-21. Shpalljen “park natyror” (kategoria IV e zonave të mbrojtura) të ekosistemit natyror “Lugina e lumit Vjosë”, me sipërfaqe 7 989.5 (shtatë mijë e nëntëqind e tetëdhjetë e nëntë pikë pesë) ha, sipas aneksit nr. 21, i cili përmban hartën në shtojcën 1 dhe tabelën e koordinatave në shtojcën 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+21. Shfuqizuar.
