@@ -1,0 +1,1 @@
+2. Ushtarakët e Forcave të Armatosura, të cilët dërgohen në misione ushtarake jashtë vendit, trajtohen me uniformë stërvitjeje shtesë për çdo mision, në bazë të natyrës dhe kushteve specifike të misionit, sipas shtojcës 12, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

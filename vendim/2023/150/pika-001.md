@@ -1,0 +1,1 @@
+1. Miratimin e kritereve dhe të normave të trajtimit me uniformë për ushtarakët aktivë të Forcave të Armatosura të Republikës së Shqipërisë dhe studentët ushtarakë, brenda dhe jashtë vendit, sipas shtojcave 1-11, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

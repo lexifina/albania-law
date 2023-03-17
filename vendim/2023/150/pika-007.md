@@ -1,0 +1,1 @@
+7. Vendimi nr. 614, datë 7.9.2011, i Këshillit të Ministrave, “Për miratimin e kritereve dhe të normave të trajtimit me uniformë të ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë”, të ndryshuar, shfuqizohet.

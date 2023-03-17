@@ -1,0 +1,1 @@
+5. Kur ushtaraku aktiv i Forcave të Armatosura apo ushtaraku në rezervë i thirrur në shërbim aktiv humbet jetën në krye të detyrës, familjes së tij i jepet falas për ceremoninë e varrimit një uniformë ceremoniale (xhaketë, pantallona, kapelë, këmishë me mëngë të gjata, kollare dhe këpucë gjysmëceremoniale).
