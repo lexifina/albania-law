@@ -1,1 +1,0 @@
-7. Vendimi nr.464, datë 2.7.2004 i Këshillit të Ministrave “Për miratimin e kritereve dhe të normave të trajtimit me uniformë të ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë”, shfuqizohet.
