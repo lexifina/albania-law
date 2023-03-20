@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për vendosjen e pikave të referencës për veprim për substancat farmakologjikisht aktive të palejuara të pranishme në ushqimet me origjinë shtazore, në kuadër të implementimit të Planit Kombëtar të Monitorimit të Mbetjeve.
