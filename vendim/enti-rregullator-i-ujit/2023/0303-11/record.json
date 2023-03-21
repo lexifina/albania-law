@@ -1,0 +1,26 @@
+{
+  "qbz_id": 62123,
+  "title": "Për licencimin e shoqërisë rajonale Ujësjellës-Kanalizime Berat sh.a.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "11",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2023-03-03",
+  "published": "2023-03-21",
+  "in_force": "2023-03-21",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/2e168b7d3697548609798c8a4c3ef720c8df1c74b4c9eea35824b6561ce01f4b.docx",
+  "source_sha256": "2e168b7d3697548609798c8a4c3ef720c8df1c74b4c9eea35824b6561ce01f4b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/62123",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/03/03/11",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
