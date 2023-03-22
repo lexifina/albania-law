@@ -1,0 +1,26 @@
+{
+  "qbz_id": 25611,
+  "title": "Për disa ndryshime në ligjin nr. 10296, datë 8.7.2010, \"Për menaxhimin financiar dhe kontrollin\", të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "14",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2023-02-16",
+  "published": "2023-03-07",
+  "in_force": "2023-03-22",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/0b6c422961939f174bf666a7c9d0860e7906e5da7842354f9f089d07c83e78ef.docx",
+  "source_sha256": "0b6c422961939f174bf666a7c9d0860e7906e5da7842354f9f089d07c83e78ef",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25611",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2023/02/16/14",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
