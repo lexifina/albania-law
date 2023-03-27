@@ -4,7 +4,7 @@ Nr. 161, datë 17.6.2022
 
 MBI LICENCIMIN E SHOQËRISË “VOKOPOLA ENERGJI” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-et: “VOKOPOLA 1”, ME KAPACITET TË INSTALUAR 274 kw; “VOKOPOLA 2”, ME KAPACITET TË INSTALUAR 3104 kw; DHE “VOKOPOLA 3”, ME KAPACITET TË INSTALUAR 2297 kw, ME KAPACITET TOTAL TË INSTALUAR 5675 kw
 
-(ndryshuar me vendimin nr. 311, datë 30.11.2022)
+(ndryshuar me vendimin nr. 311, datë 30.11.2022, nr. 112, datë 27.3.2023)
 
 (i përditësuar)
 
@@ -64,13 +64,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Vokopola Energji” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et: “Vokopola 1”, me kapacitet të instaluar 274 kw; “Vokopola 2”, me kapacitet të instaluar 3104 kw; dhe “Vokopola 3”, me kapacitet të instaluar 2297 kw, me kapacitet total të instaluar 5675 kw, për një afat 25 vjet e 8 muaj.
 
-2. Shoqëria “Vokopola Energji” sh.p.k. të depozitojë brenda 30 ditëve nga marrja dijeni e vendimit: 
-
-d) vërtetimet e gjykatës për vetë shoqërinë dhe administratorin e saj; 
-
-e) kontratat e qirave për zonën ku do të shtrihet projekti të rinovuara, ose çdo dokument tjetër që rregullon pronësinë në këtë zonë; 
-
-f) dokumente që vërtetojnë aftësinë ose mbështetjen financiare të aplikuesit, ku shprehen qartë vlerat monetare që mbulojnë vlerën e investimit për HEC-et “Vokopola 2” dhe “Vokopola 3”.
+2. Shoqëria “Vokopola Energy” sh.p.k., të paraqesë në ERE kontratat e qirasë me afate të rinovuara, jo më vonë se data 21.12.2023 (me Bashkinë Skrapar dhe Memaliaj) dhe jo më vonë se data 31.10.2024 (me Bashkinë Poliçan),  ose çdo dokumentacion tjetër që rregullon pronësinë.
 
 3. Shfuqizuar.
 
