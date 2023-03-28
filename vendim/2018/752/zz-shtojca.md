@@ -8,10 +8,10 @@ Qëllimi
 Neni 2
 Përbërja, emërimi dhe lirimi i
 anëtarëve të BA-së
-1. Bordi i apelit përbëhet nga pesë anëtarë, nga të cilët tre janë punonjës të DPPI-së dhe dy anëtarë të jashtëm të fushës së PI-së, të cilët plotësojnë kushtet për ekspertë të PI-së.
+1. Bordi i Apelit përbëhet nga 5 anëtarë, nga të cilët 2 janë punonjës të DPPI-së dhe 3 anëtarë të jashtëm të fushës së PI-së, të cilët plotësojnë kushtet për ekspertë të PI-së.
 2. Kryetari i BA-së është drejtori i Përgjithshëm i DPPI-së.
-3. Kandidatët për anëtarë në BA, nga radhët e punonjësve të DPPI-së, si dhe 2 anëtarët e jashtëm të përzgjedhur nga drejtori i Përgjithshëm nga kandidaturat e paraqitura, i propozohen për miratim këshillit mbikëqyrës, në fillim të çdo viti kalendarik, nga drejtori i Përgjithshëm i DPPI-së, për emërim si anëtarë të BA-së. Drejtori i Përgjithshëm, gjithashtu, e njeh këshillin mbikëqyrës me të gjitha kandidaturat që plotësojnë kushtet e pikës 1, të nenit 193/b, të ligjit nr. 9947, datë 7.7.2008, “Për pronësinë industriale”, të ndryshuar, si dhe me arsyet e përzgjedhjes.
-4. Në muajin nëntor të çdo viti do të shpallen dy vende vakante për vitin e ardhshëm kalendarik, për anëtarët e jashtëm të BA-së. Shpallja e vendeve vakante do të bëhet me njoftim në faqen zyrtare web të DPPI-së.
+3. Kandidatët për anëtarë në BA, nga radhët e punonjësve të DPPI-së, si dhe 3 anëtarët e jashtëm të përzgjedhur nga drejtori i Përgjithshëm nga kandidaturat e paraqitura, i propozohen për miratim këshillit mbikëqyrës, në fillim të çdo viti kalendarik, nga drejtori i Përgjithshëm i DPPI-së, për emërim si anëtarë të BA-së. Drejtori i Përgjithshëm, gjithashtu, e njeh këshillin mbikëqyrës me të gjitha kandidaturat që plotësojnë kushtet e pikës 1, të nenit 193/b, të ligjit nr. 9947, datë 7.7.2008, “Për pronësinë industriale”, të ndryshuar, si dhe me arsyet e përzgjedhjes.
+4. Në muajin nëntor të çdo viti do të shpallen tre vende vakante për vitin e ardhshëm kalendarik, për anëtarët e jashtëm të BA-së. Shpallja e vendeve vakante do të bëhet me njoftim në faqen zyrtare web të DPPI-së.
 5. Kërkesa zyrtare për të kandiduar si anëtar i jashtëm i BA-së duhet të nënshkruhet nga vetë kandidati dhe duhet të shoqërohet me dokumentet e mëposhtme:
 a) Të dhënat mbi identitetin personal, adresë korrespondence, e-mail dhe çdo pikë të saktë kontakti tjetër të parashikuar me ligj;
 b) Jetëshkrim;
@@ -47,7 +47,7 @@ Mbledhja e BA-së dhe vendimmarrja
 3. BA-ja, nën drejtimin e kryetarit, shtron për diskutim me radhë të gjitha çështjet që janë vendosur në rendin e ditës.
 4. Në përfundim të të gjithë procedurës së shqyrtimit dhe të shkëmbimit të opinioneve nga anëtarët e BA-së, kryetari i fton anëtarët të votojnë. Së pari voton anëtari më i ri në moshë dhe së fundi voton kryetari i seancës. Asnjë nga anëtarët nuk mund të abstenojë nga vendimmarrja. Votimi është i hapur në të gjitha rastet. Mendimi i anëtarit të mbetur në pakicë, i parashtruar me shkrim, bashkohet me vendimin.
 5. Në rast se rreth një çështjeje propozohen disa zgjidhje dhe votimi i parë është i barabartë, vota e kryetarit është vendimtare në përputhje kjo me nenin 15, të ligjit nr. 8480, datë 27.5.1999, “Për funksionimin e organeve kolegjiale të administratës shtetërore dhe enteve publike”.
-6. Drejtori i Përgjithshëm cakton një anëtar të BA-së që, brenda 3 (tri) ditëve nga marrja e vendimit, të përgatisë vendimin e arsyetuar, një kopje e të cilit i dorëzohet sekretarit teknik për t’ia bashkëlidhur dosjes së çështjes.
+6. Kryetari i Bordit të Apelit cakton një anëtar të Bordit të Apelit, që brenda 10 (dhjetë) ditëve nga marrja e vendimit, të përgatitë vendimin e arsyetuar, një kopje e të cilit i dorëzohet sekretarit teknik nëpërmjet zyrës së protokollit për t’ia bashkëlidhur dosjes së çështjes.
 7. Vendimi duhet të nënshkruhet nga të gjithë anëtarët e BA-së që kanë marrë pjesë në dhënien e tij. Anëtari, mendimi i të cilit ka mbetur në pakicë, shkruan fjalën “kundër” dhe nënshkruan vendimin.
 8. Vendimi i marrë i dorëzohet zyrës së protokollit të DPPI-së, për t’ia njoftuar atë palëve.
 Neni 5
