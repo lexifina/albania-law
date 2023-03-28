@@ -1,0 +1,1 @@
+13. Ndërmarrjet sociale, që përfitojnë subvencione, raportojnë pranë ministrisë përgjegjëse për çështjet sociale lidhur me përdorimin e subvencionit të përfituar, sipas formatit të raportimit, të miratuar me udhëzim të ministrit përgjegjës për çështjet sociale.

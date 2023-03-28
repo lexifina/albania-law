@@ -1,0 +1,1 @@
+1. Krijimin e fondit në mbështetje të ndërmarrjeve sociale, të njohura si të tilla nga ministri përgjegjës për çështjet sociale, me vlerë të përgjithshme prej 240 000 000 (dyqind e dyzet milionë) lekësh, për periudhën 2023-2025, sipas produktit përkatës të parashikuar në Programin Buxhetor Afatmesëm “Përkujdesja sociale”.

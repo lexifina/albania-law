@@ -1,0 +1,1 @@
+6. Financimi i dy formave të subvencioneve, të përcaktuara në pikën 2, të këtij vendimi, të pagës minimale dhe i sigurimeve të detyrueshme shoqërore dhe shëndetësore të punëdhënësit dhe punëmarrësit, sipas përcaktimeve të legjislacionit në fuqi, bëhet në masën 100%, kundrejt paraqitjes së listë-pagesave të punonjësve pranë Shërbimit Social Shtetëror.
