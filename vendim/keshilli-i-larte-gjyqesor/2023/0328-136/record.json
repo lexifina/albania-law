@@ -1,0 +1,28 @@
+{
+  "qbz_id": 25715,
+  "title": "Për fillimin e funksionimit të Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Shkodër",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "136",
+  "institution": "Këshilli i Lartë Gjyqësor",
+  "adopted": "2023-03-28",
+  "published": "2023-03-29",
+  "in_force": "2023-03-29",
+  "in_force_basis": "\"hyn në fuqi me botimin në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/9f254aa5f8cfaaf876f54796f884bcf9cef1cc056729c4493b8fdcdb8b88eca0.docx",
+  "source_sha256": "9f254aa5f8cfaaf876f54796f884bcf9cef1cc056729c4493b8fdcdb8b88eca0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25715",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/03/28/136",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    62000
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
