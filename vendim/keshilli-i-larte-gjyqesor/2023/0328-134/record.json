@@ -1,0 +1,26 @@
+{
+  "qbz_id": 25713,
+  "title": "Për fillimin e funksionimit të Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Korçë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "134",
+  "institution": "Këshilli i Lartë Gjyqësor",
+  "adopted": "2023-03-28",
+  "published": "2023-03-29",
+  "in_force": "2023-03-29",
+  "in_force_basis": "\"hyn në fuqi me botimin në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/defe85dc5f9b6bf5055a945e382333241ca421d51da274420578408f3844cf52.docx",
+  "source_sha256": "defe85dc5f9b6bf5055a945e382333241ca421d51da274420578408f3844cf52",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25713",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/03/28/134",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
