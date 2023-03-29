@@ -1,0 +1,26 @@
+{
+  "qbz_id": 25712,
+  "title": "Për fillimin e funksionimit të Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Lezhë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "133",
+  "institution": "Këshilli i Lartë Gjyqësor",
+  "adopted": "2023-03-28",
+  "published": "2023-03-29",
+  "in_force": "2023-03-29",
+  "in_force_basis": "\"hyn në fuqi me botimin në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/e09a099d866cd99ed632a5a6f52cbfb28ef1da4e510ee3f79329e9e04f686700.docx",
+  "source_sha256": "e09a099d866cd99ed632a5a6f52cbfb28ef1da4e510ee3f79329e9e04f686700",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25712",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/03/28/133",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
