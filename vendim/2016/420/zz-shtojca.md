@@ -269,7 +269,19 @@ Hartimi i programit bëhet duke bashkëpunuar ngushtë me përfaqësinë diploma
 - kryetarët e klerit;
 - Sekretar i Përgjithshëm i Presidencës, Kuvendit, Këshillit të Ministrave;
 - grada gjeneral për kryetar delegacioni në vizitë zyrtare;
-- homologët e tyre të huaj.
+- homologët e tyre të huaj;
+- Anëtarët e Gjykatës Kushtetuese;
+- Kryetari i Kolegjit të Posaçëm të Apelimit;
+- Inspektori i Lartë i Drejtësisë;
+- Kryetari i Këshillit të Lartë Gjyqësor;
+- Drejtuesi i Prokurorisë së Posaçme;
+- Kryetari i Këshillit të Lartë të Prokurorisë;
+- Kryetari i Këshillit të Emërimeve në Drejtësi;
+- Kryetari i Gjykatës së Posaçme;
+- Kryetari i Komisionit të Pavarur të Kualifikimit;
+- Komisionerët publikë;
+- Drejtori i Shkollës së Magjistraturës;
+- Drejtuesi i Byrosë Kombëtare të Hetimit.
 2.4 Kërkesa për shfrytëzimin e sallës VIP bëhet në formën e një shkrese/note verbale dhe i drejtohet Protokollit të Shtetit për miratim, minimalisht 48 orë para udhëtimit. Përjashtimet nga rregulli i mësipërm gjykohen rast pas rasti.
 2.5 Në sallën VIP të Aeroportit ka edhe një sallë konferencash shtypi, ku Presidenti, kryetari i Kuvendit, Kryeministri dhe ministri i Punëve të Jashtme e personalitetet e tyre homologe mund t’u drejtohen gazetarëve. Ky mjedis është i vetmi i dedikuar për konferenca dhe intervista apo takime të veçanta me mediat. Si rregull, vetëm në këtë mjedis kameramanët dhe fotografët mund të marrin plane. Përjashtime mund të autorizohen vetëm me miratim të Drejtorisë së Protokollit të Shtetit.
 3. Bisedimet
@@ -334,6 +346,10 @@ Kryetarët e komisioneve parlamentare
 Deputetët
 Kryetari i Bashkisë së Tiranës
 Kryetari i Gjykatës së Lartë
+Kryetari i Këshillit të Lartë Gjyqësor
+Kryetari i Këshillit të Lartë të Prokurorisë
+Drejtuesi i Prokurorisë së Posaçme
+Kryetari i Gjykatës së Posaçme
 Kryetari i Kontrollit të Lartë të Shtetit
 Prokurori i Përgjithshëm i Republikës
 Guvernatori i Bankës së Shqipërisë
@@ -342,7 +358,19 @@ Avokati i Popullit
 Kryetari i SHISH-it
 Krerët e komuniteteve fetare
 Anëtarët e Gjykatës Kushtetuese
+Kryetari i Kolegjit të Posaçëm të Apelimit
 Anëtarët e Gjykatës së Lartë
+Inspektori i Lartë i Drejtësisë;
+- Anëtarët e Këshillit të Lartë Gjyqësor;
+- Anëtarët e Këshillit të Lartë të Prokurorisë;
+- Anëtarët e Prokurorisë së Posaçme;
+- Kryetari i Këshillit të Emërimeve në Drejtësi;
+- Anëtarët e Këshillit të Emërimeve në Drejtësi;
+- Anëtarët e Gjykatës së Posaçme;
+- Kryetari i Komisionit të Pavarur të Kualifikimit;
+- Anëtarët e Komisionit të Pavarur të Kualifikimit;
+- Komisionerët publikë;
+- Drejtori i Shkollës së Magjistraturës
 Trashëgimtarët e familjes mbretërore
 Sekretari i Përgjithshëm i Presidencës, Kuvendit, Këshillit të Ministrave
 Zëvendësministrat
@@ -355,6 +383,7 @@ Komandantët e Armëve të Ushtrisë me gradë gjeneral
 Kryetarët e partive parlamentare jodeputetë
 Avokati i Shtetit
 Drejtori i përgjithshëm i Policisë së Shtetit
+Drejtuesi i Byrosë Kombëtare të Hetimit
 Komandanti i Gardës së Republikës
 Personalitete të dekoruar me urdhra dhe medalje kombëtare
 Kryetari i Akademisë së Shkencave
