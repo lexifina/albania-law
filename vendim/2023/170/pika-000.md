@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit për Programin Kombëtar të Modernizimit të Sektorit të Ujësjellës-Kanalizimeve në Shqipëri, nga Fondi i Mirëbesimit me një Donator, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, që vepron si administratore e Programit Kombëtar të Modernizimit të Sektorit të Ujësjellës-Kanalizimeve në Shqipëri, nga Fondi i Mirëbesimit me Një Donator, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
