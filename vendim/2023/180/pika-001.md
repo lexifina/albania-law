@@ -1,0 +1,1 @@
+1. Dërgimin e 1 (një) anijeje të klasit “Iliria”, e kompletuar me efektivë, të përbërë nga 21 (njëzet e një) ushtarakë të Forcave të Armatosura të Republikës së Shqipërisë, në operacionin e NATO-s, në detin Egje (Aegean Sea Nato Activity), pjesë e operacionit “Sea Guardian”, në detin Egje.

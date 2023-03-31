@@ -1,0 +1,1 @@
+2. Misioni i anijes është kryerja e detyrave të patrullimit, zbulimit detar, dhënies së ndihmës, njohjes së situatës detare, identifikimit, verifikimit, ndalimit të objekteve detare, në përbërje të grupit të gatshëm të anijeve të NATO-s, Standing NATO Maritime Group-2 (SNMG2), në detin Egje, në kuadër të operacionit të NATOS-s, “Sea Guardian”, në detin Egje.

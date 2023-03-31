@@ -1,0 +1,1 @@
+4. Kohëzgjatja e këtij operacioni është deri në 6 (gjashtë) muaj, me rotacion çdo 90 (nëntëdhjetë) ditë, afat i cili fillon të llogaritet nga data e nisjes së anijes dhe kontingjentit të parë për në operacion.
