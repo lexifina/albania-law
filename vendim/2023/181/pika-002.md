@@ -1,0 +1,1 @@
+2. Misioni i ushtarakëve është këshillimi i institucioneve të sigurisë së Irakut, në lidhje me menaxhimin e burimeve njerëzore, analizimin e trajnimeve të nevojshme dhe identifikimi i mangësive, si pjesë e mësimeve të nxjerra.

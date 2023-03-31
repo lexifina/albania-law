@@ -1,0 +1,1 @@
+3. Kohëzgjatja e këtij operacioni është deri në 3 (tre) vjet, afat i cili llogaritet nga data e dërgimit të ushtarakëve të parë në operacion. Periudha e qëndrimit është me sistem rotacioni në çdo 6 (gjashtë) muaj, periudhë së cilës i shtohen edhe ditët e qëndrimit për ndërrimin me kontingjentin e radhës (marrjen dhe dorëzimin e detyrës, vonesa të transportit strategjik).
