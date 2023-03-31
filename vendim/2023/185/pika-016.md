@@ -1,0 +1,1 @@
+16. Rregullorja për organizimin dhe funksionimin e brendshëm të regjistrit elektronik të gjendjes gjyqësore të shtetasve të dënuar jashtë vendit miratohet nga ministri i Drejtësisë, në përputhje me standardet, rregullat dhe procedurat e përcaktuara, sipas nenit 10, të ligjit nr. 10325, datë 23.9.2010, “Për bazën e të dhënave shtetërore”.

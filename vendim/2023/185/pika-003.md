@@ -1,0 +1,1 @@
+3. Regjistri elektronik i gjendjes gjyqësore të shtetasve të dënuar jashtë vendit administrohet e mirëmbahet nga Ministria e Drejtësisë, në përputhje me legjislacionin në fuqi për bazat e të dhënave shtetërore.

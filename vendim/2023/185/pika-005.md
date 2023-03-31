@@ -1,0 +1,1 @@
+5. Regjistri elektronik i gjendjes gjyqësore të shtetasve të dënuar jashtë vendit përmban të dhënat për çdo vendim penal të dhënë jashtë shtetit ndaj shtetasve shqiptarë, shtetasve të huaj ose pa shtetësi, por me banim të përhershëm në shtetin shqiptar, që rezultojnë të regjistruar në Regjistrin Kombëtar të Gjendjes Civile (RKGJC) të vitit 2010.

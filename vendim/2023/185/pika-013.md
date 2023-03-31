@@ -1,0 +1,4 @@
+13. Niveli i aksesit në sistemin dhe bazën e të dhënave të regjistrit elektronik të gjendjes gjyqësore, të shtetasve shqiptarë, shtetasve të huaj dhe pa shtetësi, të dënuar jashtë vendit, por me banim të përhershëm në shtetin shqiptar është, si më poshtë vijon:
+a) Veprimet në regjistër kryhen nga struktura përgjegjëse në Ministrinë e Drejtësisë, e cila ka të drejta regjistrimi, përpunimi, raportimi, leximi, shkrimi dhe përditësimi për të dhënat e regjistruara në regjistër;
+b) Subjektet e përcaktuara në shkronjat “a”, “b” dhe “c”, të pikës 12, të këtij vendimi, kanë të drejtë të kenë akses të drejtpërdrejtë dhe të pakufizuar në leximin e të dhënave, kur është e nevojshme për të hetuar një vepër penale;
+c) Subjektet e interesuara, të përcaktuara në shkronjat “ç” dhe “d”, të pikës 11, të këtij vendimi, kanë të drejtë leximi të të dhënave të regjistrit elektronik.
