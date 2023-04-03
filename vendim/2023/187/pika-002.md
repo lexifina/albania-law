@@ -1,0 +1,1 @@
+2. Të drejtën për të përfituar shpërblimin, në masën e përcaktuar në pikën 1, të këtij vendimi, e kanë edhe ata persona që kanë datë të fillimit të përfitimit, deri në datën 31.3.2023, duke përfshirë edhe këtë datë dhe kanë të drejtë të marrin vetëm një herë këtë shpërblim, pavarësisht, se mund të përfitojnë më shumë se një përfitim.

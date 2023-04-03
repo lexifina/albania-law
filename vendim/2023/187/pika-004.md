@@ -1,0 +1,1 @@
+4. Shpërblimet kalohen në llogaritë e pensionistëve në muajin prill 2023 dhe paguhen gjatë këtij muaji. Në rastet kur pagesat efektive nuk kryhen brenda muajit prill 2023, ato të paguhen gjatë vitit. Shpërblimet e patërhequra, parashkruhen me kalimin e 36 (tridhjetë e gjashtë) muajve nga data e miratimit të këtij vendimi.
