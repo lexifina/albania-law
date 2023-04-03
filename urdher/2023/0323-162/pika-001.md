@@ -1,0 +1,1 @@
+1. Miratimin e kërkesave për Planin e Kontrollit të Substancave Farmakologjikisht Aktive, Pesticideve dhe Kontaminantëve dhe Planin e Përditësuar të Kontrollit për Substancat Farmakologjikisht Aktive, Pesticidet dhe Kontaminantët, të përcaktuara në anekset, bashkëlidhur këtij urdhri.
