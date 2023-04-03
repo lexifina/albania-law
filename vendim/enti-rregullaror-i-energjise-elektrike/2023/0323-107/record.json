@@ -1,0 +1,28 @@
+{
+  "qbz_id": 25776,
+  "title": "Mbi licencimin e shoqërisë \"Ateani Energy\" sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga hidrocentralet \"Shutri 1\", me kapacitet të instaluar 370 kw dhe \"Shutri 2\", me kapacitet 1600 kw, me kapacitet total të instaluar 1970 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "107",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2023-03-23",
+  "published": "2023-04-03",
+  "in_force": "2023-04-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/161ce0e93309866ea12197b954fc84503f4bf1cf42e0b380a37a04c125bd0a30.docx",
+  "source_sha256": "161ce0e93309866ea12197b954fc84503f4bf1cf42e0b380a37a04c125bd0a30",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25776",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/03/23/107",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    25969
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
