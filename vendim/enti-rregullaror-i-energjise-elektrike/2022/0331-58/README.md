@@ -1,9 +1,9 @@
 # Mbi licencimin e shoqërisë “Hec Terfoja” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Terfoja” me kapacitet të instaluar 1980 kw
 
-Official source: [Vendim nr. 58, datë 31.3.2022 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/24339).
+Official source: [Vendim nr. 58, datë 31.3.2022 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/24339); [QBZ versions](https://qbz.gov.al/api/v1/acts/24339/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2022-03-31; published 2022-04-19; in force 2022-04-19.
+Status of this text: `official consolidated version 1`, applying from 2023-04-04; after QBZ act 25878 (nr. 125).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.

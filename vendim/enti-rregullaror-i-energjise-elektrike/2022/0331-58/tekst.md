@@ -4,6 +4,10 @@ Nr. 58, datë 31.3.2022
 
 MBI LICENCIMIN E SHOQËRISË “HEC TERFOJA” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “TERFOJA”, ME KAPACITET TË INSTALUAR 1980 kw
 
+(ndryshuar me vendimin nr. 125, datë 4.4.2023)
+
+(i përditësuar)
+
 	Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; nenit 4, pika 1, germa “a”, nenit 5, pika 1, germa “a”, nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 31.3.2022, mbasi shqyrtoi relacionin me nr. 411 prot., datë 28.3.2022, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi licencimin e shoqërisë “HEC Terfoja” sh.p.k, në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Terfoja” me kapacitet të instaluar 1980 kw,
 
 konstatoi se: 
@@ -44,7 +48,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “HEC Terfoja” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Terfoje”; me kapacitet të instaluar 1980 kw, për një afat 30-vjeçar.
 
-2. Shoqëria “HEC Terfoja” sh.p.k. duhet të depozitojë lejen e përdorimit të burimit ujor me afat të rinovuar, brenda datës 23.1.2023.
+2. Shoqëria “HEC Terfoja” sh.p.k. të depozitojë në ERE lejen e përdorimit të burimit ujor të rinovuar brenda datës 18.4.2023.
 
 3. ERE ka të drejtë të rishikojë këtë vendim në çdo kohë, në përputhje me plotësimin/mosplotësimin e kushteve, sipas përcaktimeve dhe afateve si më sipër.
 
