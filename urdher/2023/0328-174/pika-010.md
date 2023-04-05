@@ -1,0 +1,2 @@
+10. Për zbatimin e këtij urdhri, ngarkohet Drejtoria e Politikave dhe Programeve të Peshkimit dhe Akuakulturës, Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës, Organizata e Menaxhimit të Peshkimit të Liqenit të Shkodrës, Drejtoria Rajonale e AKU Shkodër, duke bashkëpunuar me strukturat e qeverisjes vendore, Drejtorinë e Policisë së Rendit dhe atë Kufitare në qarkun e Shkodrës dhe Policinë Bashkiake të Shkodër dhe Malësisë së Madhe.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

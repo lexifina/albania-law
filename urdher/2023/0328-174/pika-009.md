@@ -1,0 +1,1 @@
+9. Organizata e Menaxhimit të Peshkimit të Liqenit të Shkodrës të marrë të gjitha masat e zhvendosjes së objekteve ku peshqit kanë lëshuar vezët, në rastet e rënies së nivelit të ujit në liqenin e Shkodrës.
