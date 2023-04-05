@@ -1,0 +1,1 @@
+3. Drejtoria e Përgjithshme e Tatimeve gjeneron nga sistemi i tatimeve listën e subjekteve private, të ndarë sipas çdo drejtorie rajonale tatimore, që plotësojnë kriteret sipas pikës 4/kreut II, të VKM-së nr. 114/2023, me të dhënat e muajit dhjetor 2022 dhe i dërgojnë në Drejtorisë së Përgjithshme të AKPA-s.
