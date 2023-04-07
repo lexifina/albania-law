@@ -250,3 +250,67 @@ Vlera totale
 355,395
 Shënime.
 1. Për tokën “arë” çmimi i llogaritur është marrë nga vendimi nr. 89, datë 3.2.2016, i Këshillit të Ministrave, “Për miratimin e hartës së vlerës së tokës në Republikën e Shqipërisë”.
+LISTA EMËRORE E PRONARËVE QË PREKEN NGA SHPRONËSIMI, PËR DISA SHTESA DHE NDRYSHIME NË VKM-në NR. 587, DATË 7.9.2022, PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT “NDËRTIMI I HIDROCENTRALIT ’GRABOVA 2’, MBI PELLGUN UJËMBLEDHËS TË PËRROIT TË GRABOVËS, DEGË E LUMIT TË DEVOLLIT, NË QARKUN ELBASAN”
+Nr.
+PRONARI
+Të dhënat (mbi pasurinë sipas ASHK-së)
+Vlerësimet për shpronësim sipas llojit të pasurisë
+Vlera totale (lek)
+Shënime
+Shpronësim tokë “arë”
+Emri
+Atësia
+Mbiemri
+ZK
+Nr. i pasurisë
+Volumi
+Faqe
+Lloji i pasurisë
+Sipërfaqja totale
+Sipërfaqja (m2)
+Çmimi (lek/m2)
+Vlera (lek)
+Prona në zonën kadastrale ZK 2413, Gramsh
+12
+LULËZIM
+SEFER
+TAÇE
+2413
+33
+3
+63
+Arë
+1150
+167.85
+174
+29,205.90
+29,205.90
+Konfirmuar nga ASHK-ja
+13
+SHTET
+2413
+34
+3
+157
+Arë
+11800
+74.38
+174
+12,942.12
+12,942.12
+Konfirmuar nga ASHK-ja
+14
+SHTET
+2413
+273
+4
+5
+Arë
+4500
+253.61
+174
+44,128.14
+44,128.14
+Konfirmuar nga ASHK-ja
+Vlera totale
+86,276.16
