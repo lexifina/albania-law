@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për performancën e metodave analitike për mbetjet e substancave farmakologjikisht aktive të përdorura në kafshët që prodhojnë ushqim, interpretimin e rezultateve, si dhe metodat që do të përdoren për marrjen e mostrave sipas tekstit bashkëlidhur të këtij urdhri.
