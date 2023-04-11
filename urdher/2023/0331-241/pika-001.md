@@ -1,0 +1,1 @@
+1. Miratimin e modelit të kontratës që lidhet midis përmbaruesit gjyqësor privat dhe palës së interesuar për shitjen e sendeve në ankand publik, sipas tekstit të shtojcës nr. 1, bashkëlidhur këtij urdhri dhe pjesë përbërëse e tij.
