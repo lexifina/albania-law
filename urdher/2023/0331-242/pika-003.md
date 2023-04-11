@@ -1,0 +1,1 @@
+3. Ngarkohet Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë, zyrat e përmbarimit privat, përmbaruesit gjyqësorë privatë, si dhe Dhoma Kombëtare e Përmbaruesve Gjyqësorë Privatë, për ndjekjen dhe zbatimin këtij urdhri.

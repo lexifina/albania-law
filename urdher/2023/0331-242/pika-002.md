@@ -1,0 +1,1 @@
+2. Marrëdhëniet kontraktore ndërmjet zyrës së përmbarimit privat ose përmbaruesit gjyqësor privat dhe palës së interesuar rregullohen sipas legjislacionit në fuqi dhe përcaktimeve të të drejtave dhe detyrimeve të parashikuara në kontratën e shërbimit.
