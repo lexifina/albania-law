@@ -1,0 +1,1 @@
+2. Në rastin e sendeve të luajtshme të përdorimit të zakonshëm dhe që nuk kanë veçanërisht vlerë muzeale, numizmatike, koleksioni, artistike, pronësia e të cilave nuk mund të vërtetohet ndryshe, përmbaruesi gjyqësor privat pranon vetëdeklarimin për pronësinë e palës së interesuar mbi sendin, sipas shtojcës nr. 1 bashkëlidhur këtij udhëzimi, pjesë përbërëse e tij.

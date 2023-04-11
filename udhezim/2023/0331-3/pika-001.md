@@ -1,0 +1,3 @@
+1. Objekti i këtij udhëzimi është përcaktimi i tarifave për kryerjen e shitjes së sendeve në ankand publik, me kërkesë të të interesuarve, nga përmbaruesit gjyqësorë privatë dhe i mënyrës së pagesës së tyre, kur ankandi zhvillohet në kuadër të veprimtarisë dytësore të përmbaruesit gjyqësor privat.
+II. Fusha e zbatimit të udhëzimit
+1. Ky udhëzim zbatohet vetëm në rastet e kryerjes së shitjes së sendeve në ankand publik si veprimtari dytësore e përmbaruesit gjyqësor privat, bazuar në kërkesën e personave fizikë dhe juridikë privatë, për shitjen në ankand të sendeve të cilat janë në pronësi të tyre.
