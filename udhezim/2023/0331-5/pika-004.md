@@ -1,0 +1,1 @@
+4. Në rastet kur palët bien dakord për shitjen e një sendi që ofrohet nga debitori për shlyerjen e detyrimit financiar, shitja e sendit i nënshtrohet procedurës dhe tarifave të zhvillimit të ankandit, në përputhje me udhëzimin e ministrit të Drejtësisë për përcaktimin e tarifave të veprimtarisë dytësore të përmbaruesit gjyqësor privat për shitjen e sendeve në ankand publik.

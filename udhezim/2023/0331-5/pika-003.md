@@ -1,0 +1,3 @@
+3. Tarifës së shërbimit sipas pikës 2 të këtij kreu, i shtohen shpenzimet e procedurës së njoftimit dhe komunikimit ndërmjet palëve për arritjen e marrëveshjes së mirëkuptimit, si më poshtë:
+a) shpenzime për njoftimin dhe propozimin e marrëveshjes së mirëkuptimit nga përmbaruesi gjyqësor privat ose dokumentimi i refuzimit të marrëveshjes së mirëkuptimit nga pala, së cilës i drejtohet përmbaruesi gjyqësor, në shumë fikse prej 10 000 (dhjetë mijë) lekësh;
+b) shpenzime të realizimit të procesit të komunikimit ndërmjet dy palëve, për arritjen e marrëveshjes së mirëkuptimit, kur pala tjetër pranon njoftimin dhe propozimin e përmbaruesit gjyqësor privat për mbledhjen e detyrimit me mirëkuptim nga pala e interesuar, në shumën 10 000 (dhjetë mijë) lekë/orë.
