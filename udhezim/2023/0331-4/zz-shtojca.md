@@ -1,0 +1,24 @@
+# Shtojca
+SHTOJCA NR. 1
+PROCESVERBALI I KONSTATIMIT
+PROCESVERBAL KONSTATIMI
+Sot më datë ___.___.______, në orën ___:___, vendi _______________________________ (qyteti, adresa) në bazë të kërkesës së datës ___.___.______, të bërë nga i interesuari ___________________, unë përmbaruesi gjyqësor privat ______________________________, i identifikuar licencën me nr._______________________, mbaj këtë procesverbal konstatimi sipas kërkesës së palës së interesuar, i cili për shkak të ______________________________________ (përshkruhet motivi i kërkesës) kërkoi konstatimin e faktit/dukurisë/sendit ________________
+_______________________________________________________________________ (përshkruhet në mënyrë të detajuar fakti/dukuria/sendi objekt konstatimi).
+Të pranishëm në këtë konstatim janë personat e mëposhtëm:
+1. __________________________________________
+2. __________________________________________
+3. __________________________________________
+(Emër, mbiemër, numri personal i identifikimit, si dhe nënshkrimi i tyre. Në rast se i pranishmi nuk pranon të nënshkruajë, ky fakt evidentohet në këtë procesverbal nga përmbaruesi gjyqësor privat)
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+(Përshkruhet me detaje nga përmbaruesi gjyqësor privat informacioni konstatues, duke pasqyruar të dhëna dhe detaje që fiksohen dhe referojnë veprimet e konstatimit që kryhen nga përmbaruesi, si dhe mjetet e përdorura për bërjen e konstatimit, vendi ku bëhet konstatimi dhe detaje lidhur me transportin deri në vendndodhjen e konstatimit.)
+Pjesë e domosdoshme e procesverbalit janë:
+1. Kërkesa e të interesuarit e nënshkruar prej tij;
+2. Fatura përmbarimore me TVSH që pasqyron tarifën e aplikuar.
+Pjesë përbërëse të procesverbalit janë dokumentet që lidhen drejtpërdrejtë me faktin/dukurinë/sendin e konstatuar:
+____________________________
+____________________________
+(Përshkruhen me detaje elementet identifikuese dhe të dhënat kryesore të dokumentit që i bashkëlidhen këtij procesverbali.)
+PËRMBARUESI GJYQËSOR PRIVAT
+(EMËR MBIEMËR)
+(Nënshkrimi dhe vula personale)
+Data ___.___.______

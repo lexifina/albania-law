@@ -1,0 +1,1 @@
+1. Ky udhëzim zbatohet vetëm në rastet e kryerjes së konstatimeve të fakteve, sendeve dhe dukurive lehtësisht të verifikueshme, që nuk kërkojnë njohuri specifike teknike, sipas legjislacionit në fuqi, bazuar në kërkesën e personave të interesuar fizikë dhe juridikë privatë.
