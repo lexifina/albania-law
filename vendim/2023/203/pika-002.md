@@ -1,0 +1,1 @@
+2. Tregtimi i energjisë elektrike në Bursën Shqiptare të Energjisë Elektrike kryhet në përputhje me modelin e tregut të energjisë elektrike dhe rregullat e tregtimit, miratuar me vendimin nr. 347, datë 27.12.2022, të Këshillit të Ministrave, “Për miratimin e rregullave të tregut të energjisë elektrike”.

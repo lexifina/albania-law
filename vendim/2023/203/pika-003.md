@@ -1,0 +1,1 @@
+3. Bursa Shqiptare e Energjisë Elektrike, në rolin e saj si kundërpalë qendrore, vendoset ndërmjet transaksioneve të palëve brenda tregut të energjisë elektrike dhe merr rolin e blerësit kundrejt kundërpalës shitëse dhe rolin e shitësit kundrejt kundërpalës blerëse me qëllim garantimin e transaksioneve.
