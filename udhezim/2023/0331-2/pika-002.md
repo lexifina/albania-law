@@ -1,0 +1,5 @@
+2. Për kryerjen e njoftimit të dokumenteve zyrtare, me kërkesë të personave fizikë dhe juridikë privatë, vlera e tarifës përllogaritet, si më poshtë:
+a) kur nuk kryhet njoftimi në adresën e deklaruar dhe adresa e deklaruar është e saktë, tarifa është 5 000 (pesë mijë) lekë;
+b) kur nuk kryhet njoftimi në adresën e deklaruar dhe adresa e deklaruar është e pasaktë, tarifa është e barabartë me shumën që rezulton prej mbledhjes së vlerës prej 7 000 (shtatë mijë) lekësh dhe vlerës së tarifës për konstatimin e adresës, të parashikuar në udhëzimin në fuqi të ministrit të Drejtësisë;
+c) kur njoftimi kryhet në adresën e deklaruar në një qytet tjetër, tarifa është e barabartë me shumën që rezulton prej vlerës 10 000 (dhjetë mijë) lekësh dhe vlerës së parapaguar të shpenzimeve të udhëtimit dhe qëndrimit;
+ç) kur njoftimi kryhet në adresën e padeklaruar në një qytet tjetër, tarifa është e barabartë me shumën që rezulton prej mbledhjes së vlerës së gjysmës së pagës minimale në shkallë vendi, vlerës së parapaguar të shpenzimeve të udhëtimit dhe qëndrimit, si dhe tarifës për konstatimin e adresës, të parashikuar në udhëzimin e ministrit të Drejtësisë.
