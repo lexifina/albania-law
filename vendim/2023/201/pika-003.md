@@ -1,0 +1,1 @@
+3. Punonjësit të Gardës së Republikës, që trajtohet me ushqim, sipas shkronjave “a”, dhe “b”, të pikës 1, të këtij vendimi, vaktet e ushqimit, sipas normave të përcaktuara në lidhjen nr. 1, i kompensohen në formë financiare për çdo ditë efektive në punë.
