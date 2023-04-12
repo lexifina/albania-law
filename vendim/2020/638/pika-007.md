@@ -1,1 +1,0 @@
-7. Vendimi nr. 702, datë 21.8.2013, i Këshillit të Ministrave, “Për trajtimin me ushqim të punonjësve të Gardës së Republikës, të punonjësve të Policisë së Shtetit, të studentëve dhe kursantëve në shkolla të Policisë së Shtetit, si dhe të shtetasve të ndaluar deri në sqarimin e pozitës së tyre”, shfuqizohet.
