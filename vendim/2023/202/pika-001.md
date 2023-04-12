@@ -1,0 +1,1 @@
+1. Ministrisë së Kulturës, në buxhetin e vitit 2023, në programin “Trashëgimia kulturore dhe muzetë”, t’i shtohet fondi prej 57 515 644 (pesëdhjetë e shtatë milionë e pesëqind e pesëmbëdhjetë mijë e gjashtëqind e dyzet e katër) lekësh në shpenzime kapitale, për financimin e projektit teknik të ndërhyrjes emergjente në objektin, Monument Kulture, kategoria I “Ura e Matit”.
