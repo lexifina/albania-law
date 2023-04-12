@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikualifikim i bllokut të banesave të kufizuar nga bulevardi ’Çamëria’, rruga ’Pelivan Leskaj’, rruga ’Piro Sava’ dhe rruga ’Kujtim Beqiri’”, Bashkia Vlorë.

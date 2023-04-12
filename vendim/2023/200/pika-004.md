@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 36 852 455.36 (tridhjetë e gjashtë milionë e tetëqind e pesëdhjetë e dy mijë e katërqind e pesëdhjetë e pesë pikë tridhjetë e gjashtë) lekësh, përballohet nga buxheti i Bashkisë Vlorë.
