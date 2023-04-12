@@ -1,0 +1,1 @@
+8. Garanton hetim dhe trajtim efektiv të rasteve të dyshuara për parregullsi, mashtrim, korrupsion dhe konflikt interesi gjatë zbatimit, si dhe funksionimin e një mekanizmi kontrolli dhe raportimi për to, në përputhje me nenin 51(2), (3) dhe (4) të marrëveshjes financiare kuadër të partneritetit.

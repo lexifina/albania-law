@@ -1,0 +1,1 @@
+5. ZKA-ja harton dhe dorëzon, pranë Komisionit, duke vënë në dijeni KKIPA-në dhe autoritetin auditues, deri në 15 shkurt të vitit financiar pasardhës, dokumentacionin, sipas kërkesave të parashikuara në pikën 2, të nenit 61, të marrëveshjes financiare kuadër të partneritetit.
