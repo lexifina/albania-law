@@ -1,0 +1,1 @@
+1. Miratimin e modelit të kontratës që lidhet midis përmbaruesit gjyqësor privat dhe palës së interesuar për kryerjen e konstatimeve të fakteve, sendeve dhe dukurive lehtësisht të verifikueshme, që nuk kërkojnë njohuri specifike teknike, sipas legjislacionit në fuqi, sipas tekstit të shtojcës nr. 1, bashkëlidhur këtij urdhri dhe pjesë përbërëse e tij.
