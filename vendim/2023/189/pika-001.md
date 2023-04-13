@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim krijimin e Platformës së Monitorimit dhe Verifikimit për Eficiencën e Energjinë, në vazhdim PMVEE, e cila shërben si bazë të dhënash për të vlerësuar arritjen e objektivave kombëtarë të eficiencës së energjisë.

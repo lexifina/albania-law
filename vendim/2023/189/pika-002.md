@@ -1,0 +1,5 @@
+2. Termat e përcaktuar në ligjin nr. 124/2015, “Për eficiencën e energjisë”, kanë të njëjtin kuptim edhe në këtë vendim, ndërsa me termat e mëposhtëm nënkuptohet:
+a) “PMVEE”, baza e të dhënave shtetërore në përgjegjësi administrimi të Agjencisë për Eficiencën e Energjisë dhe që shërben për monitorimin e planeve kuadër të eficiencës së energjisë apo planeve për zvogëlimin e ndryshimeve klimatike, në nivel kombëtar, rajonal dhe lokal.
+b) “Sektorët”, të gjithë sektorët ku do të realizohet monitorimi i konsumit energjetik dhe monitorimi i zbatimit të masave për rritjen e eficiencës së energjisë, duke përfshirë sektorin e ndërtesave publike apo private, sektorin e industrisë, transportin, ndriçimin publik, furnizimin me ujë dhe trajtimin e ujërave të ndotura e bujqësinë.
+c) “Konsumatorët e tjerë të energjisë”, konsumatorët të cilët kanë një konsum energjie elektrike ekuivalente më të vogël se 1 milion kWh;
+ç) “Shoqëri e shitjes me pakicë të energjisë”, një person fizik ose juridik që shet energji te konsumatorët fundorë.
