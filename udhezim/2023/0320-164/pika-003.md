@@ -1,0 +1,1 @@
+3. Spitalet për llogaritjen e kostove spitalore, do të bazohen në parashikimet lidhur me numrin e pacientëve që do të trajtohen, bazuar në shërbimet ekzistuese, shërbimet që planifikohen të shtohen, apo transferohen etj. Për grumbullimin e të dhënave do të shërbejë aktiviteti spitalor i vitit të mëparshëm dhe ndryshimet e parashikueshme.
