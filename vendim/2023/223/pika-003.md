@@ -1,0 +1,1 @@
+3. Autoritetit Shtetëror për Informacionin Gjeohapësinor, në buxhetin e miratuar për vitin 2023, në grupin buxhetor nr. 87, “Institucione të tjera qeveritare”, në programin “e-Qeverisja”, i shtohet fondi prej 40 (dyzet) milionë lekësh, përkatësisht, 25 (njëzet e pesë) milionë lekë për shpenzime korrente dhe 15 (pesëmbëdhjetë) milionë lekë për shpenzime kapitale.

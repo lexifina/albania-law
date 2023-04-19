@@ -1,0 +1,1 @@
+1. Numri i punonjësve të Autoritetit Shtetëror për Informacionin Gjeohapësinor, për vitin 2023, shtohet me 27 (njëzet e shtatë) punonjës, duke e çuar numrin e përgjithshëm në 73 (shtatëdhjetë e tre) punonjës.
