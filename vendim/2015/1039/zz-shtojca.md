@@ -94,9 +94,10 @@ PROCEDURAT E PRODHIMIT TË PULLAVE POSTARE
 Neni 23
 Shoqëria Posta Shqiptare sh.a., për prodhimin e të gjitha pullave postare zbaton procedurat sipas legjislacionit në fuqi.
 Neni 24
-Pullat postare shqiptare shtypen në ente të specializuara, të zgjedhura në mbështetje të dispozitave në fushën e prokurimeve. Në çdo rast, konkurrentët duhet të jenë të pajisur me dokumentacionin e nevojshëm për shtypjen e letrave me vlerë, certifikatë cilësie dhe sigurie të shtypit.
+Pullat postare shqiptare shtypen në ente të specializuara, të pajisura me dokumentacionin e nevojshëm për shtypjen e letrave me vlerë, certifikatë cilësie dhe sigurie të shtypit.
 Neni 25
-Shtypja, marrja në dorëzim, administrimi, shpërndarja dhe shitja e pullave postare shqiptare bëhen nga Posta Shqiptare sh.a., në përputhje me dispozitat ligjore në fuqi, të cilat rregullojnë shërbimet e letrave me vlerë.
+(hequr fjalë me VKM nr. 217, datë 13.4.2023)
+Marrja në dorëzim, administrimi, shpërndarja dhe shitja e pullave postare shqiptare bëhen nga Posta Shqiptare sh.a., në përputhje me dispozitat ligjore në fuqi, të cilat rregullojnë shërbimet e letrave me vlerë.
 KREU IX
 VËNIA NË QARKULLIM E EMISIONEVE TË PULLAVE POSTARE VJETORE
 Neni 26
