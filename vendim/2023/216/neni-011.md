@@ -1,0 +1,2 @@
+# Neni 11
+Sistemi i integruar i manualit të çmimeve për zërat e punimeve në ndërtim përditësohet në mënyrë të vazhdueshme nëpërmjet informacionit të ardhur nga subjektet publike dhe/ose private, që kryejnë veprimtari në fushën e ndërtimit, të prodhimit të materialeve të ndërtimit, si dhe të tregtimit të tyre, nëpërmjet këtij sistemi, sipas strukturës së kostos së punimeve të ndërtimit, të përcaktuar në aktet ligjore në fuqi.

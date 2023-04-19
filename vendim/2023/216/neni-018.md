@@ -1,0 +1,2 @@
+# Neni 18
+Të gjitha detyrimet tatimore ndaj shtetit dhe detyrimet e tjera, të lidhura me veprimtarinë ndërtuese në fushën e ndërtimit, përfshirë sigurimet shëndetësore dhe shoqërore, llogariten sipas vlerave faktike të punimeve, bazuar në analizat teknike të çmimeve, që përfshihen në manualin e çmimeve të ndërtimit, të zbërthyera sipas strukturës së kostos, në përputhje me udhëzimin nr. 2, datë 8.5.2003, të Këshillit të Ministrave, “Për klasifikimin dhe strukturën e kostos së punimeve të ndërtimit”.

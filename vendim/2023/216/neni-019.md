@@ -1,0 +1,5 @@
+# Neni 19
+1. Vendimet e Këshillit të Ministrave nr. 629, datë 15. 7.2015, “Për miratimin e manualeve teknike të çmimeve të punimeve të ndërtimit dhe analizave teknike të tyre”, të ndryshuar, dhe nr. 514, datë 15.8.2007, “Për informatizimin e llogaritjes së kostos dhe hartimin e manualit të çmimeve të punimeve të ndërtimit”, të ndryshuar, shfuqizohen.
+2. Rregullat e përcaktuara në vendimet e Këshillit të Ministrave nr. 629, datë 15.7.2015, “Për miratimin e manualeve teknike të çmimeve të punimeve të ndërtimit dhe analizave teknike të tyre”, të ndryshuar, dhe nr. 514, datë 15.8.2007, “Për informatizimin e llogaritjes së kostos dhe hartimin e manualit të çmimeve të punimeve të ndërtimit”, të ndryshuar, do të zbatohen deri në 3 (tre) muaj nga publikimi i sistemit të integruar në portalin unik qeveritar e-Albania.
+3. Ngarkohen Ministria e Infrastrukturës dhe Energjisë, Ministria e Financave dhe Ekonomisë, Agjencia Kombëtare e Shoqërisë së Informacionit, Drejtoria e Përgjithshme e Tatimeve dhe çdo institucion shtetëror për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
