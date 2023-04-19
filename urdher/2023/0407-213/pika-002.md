@@ -1,0 +1,1 @@
+2. Për periudhën 20.7.2023 deri më 20.8.2023, ndalimin e peshkimit me rrjeta në fashën bregliqenore prej 300 ml nga bregu për liqenin e Ohrit dhe për periudhën 25.4.2023 deri më 25.6.2023, ndalimin e peshkimit me rrjeta në fashën breqliqenore prej 150 ml nga bregu për liqenet e Prespës, Fierzës, Ulzës e Shkopetit.

@@ -1,0 +1,2 @@
+6. Për zbatimin e këtij urdhri, ngarkohen Drejtoria e Politikave dhe Programeve të Peshkimit dhe Akuakulturës, Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës, Organizatat e Menaxhimit të Peshkimit të liqeneve të Ohrit, Prespës, Fierzës, Ulzës e Shkopetit, Drejtoritë Rajonale të AKU-së, duke bashkëpunuar me strukturat e vetëqeverisjes vendore, Drejtorinë e Policisë së Rendit dhe atë Kufitare të qarqeve përkatëse dhe me policitë bashkiake përkatëse.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
