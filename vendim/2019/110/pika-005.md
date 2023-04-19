@@ -4,5 +4,5 @@ b) numrin e organizatave jofitimprurëse të autorizuara që mund të përfitojn
 c) kriteret e përgjithshme dhe të veçanta që duhet të plotësojnë organizatat jofitimprurëse të autorizuara;
 ç) listën e dokumenteve të nevojshme për t’u paraqitur;
 d) afatin e përfundimit të thirrjes;
-dh) të dhëna për mënyrën e dorëzimit të aplikimeve;
-e) udhëzime të tjera të nevojshme për plotësimin e aplikimit, të cilat përcaktohen me urdhër të drejtorit të Ndihmës Juridike Falas dhe që publikohet së bashku me thirrjen.
+dh) të dhëna për mënyrën e paraqitjes së kërkesës për përfitimin e financimit;
+e) udhëzime të tjera të nevojshme për plotësimin e kërkesës për përfitimin e financimit, të cilat përcaktohen me urdhër të drejtorit të Ndihmës Juridike Falas dhe që publikohet së bashku me thirrjen.

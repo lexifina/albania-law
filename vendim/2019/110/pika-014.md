@@ -1,1 +1,2 @@
-14. Komisioni vlerësues shqyrton aplikimet dhe vlerëson përmbushjen e kritereve të përgjithshme dhe të veçanta, si dhe cakton masën financiare përfituese brenda 10 (dhjetë) ditëve nga dita e mbylljes së thirrjes publike.
+14. Komisioni vlerësues shqyrton kërkesat për përfitimin e financimit dhe vlerëson përmbushjen e kritereve të përgjithshme dhe të veçanta, si dhe cakton masën financiare përfituese sa më shpejt të jetë e mundur, por jo më vonë se 60 (gjashtëdhjetë) ditë nga dita e mbylljes së thirrjes publike.
+14/1. Komisioni vlerësues vlerëson përmbushjen e kritereve të përgjithshme dhe të veçanta, bazuar në metodologjinë e miratuar me urdhër të drejtorit të përgjithshëm të Drejtorisë së Ndihmës Juridike Falas.

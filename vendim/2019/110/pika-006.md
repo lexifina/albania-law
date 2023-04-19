@@ -2,7 +2,7 @@
 a) Kritere të përgjithshme:
 i) të kenë marrë autorizimin nga ministri i Drejtësisë për ofrimin e ndihmës juridike parësore të garantuar nga shteti;
 ii) të mos kenë dy burime të njëjta financimi për të njëjtin aktivitet;
-iii) të mos ekzistojë ndonjë konflikt interesi që cenon zhvillimin e drejtë të procesit të përzgjedhjes me drejtorin e Ndihmës Juridike Falas.
+iii) shfuqizuar.
 b) Kritere të veçanta:
 i) projektpropozimin, i cili përmban të dhënat teknike-financiare për ofrimin e shërbimit, qëllimin, objektivat specifikë, aktivitetet, kalendarin e realizimit, rezultatet e synuara, përfituesit e drejtpërdrejtë;
 ii) të dhëna për personelin, duke specifikuar detyrat dhe siguruar jetëshkrimin e tyre;

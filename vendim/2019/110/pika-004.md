@@ -2,5 +2,5 @@
 a) shumën e përfitimit financiar për vitin fiskal;
 b) objektivat e përfitimit financiar, sipas nevojave të identifikuara;
 c) numrin e përafërt të organizatave jofitimprurëse të autorizuara që mund të përfshihen në procesin e përzgjedhjes;
-ç) kohën e hapjes së thirrjes për aplikime; dhe
+ç) kohën e hapjes së thirrjes për paraqitjen e kërkesës për përfitimin e financimit; dhe
 d) kohën e fillimit të zbatimit të ofrimit të shërbimit të ndihmës juridike parësore të garantuar nga shteti.
