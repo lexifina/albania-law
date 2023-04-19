@@ -1,0 +1,1 @@
+3. Asgjësimi i sendeve të sekuestruara bëhet me djegie në inceneratorin e ndërtuar për këtë qëllim, por në varësi të llojit dhe sasisë, si dhe në mungesë të inceneratorit përcaktohet një vend i përshtatshëm për kryerjen e asgjësimit, i cili plotëson kriteret sipas legjislacionit në fushën e mjedisit.

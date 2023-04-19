@@ -1,0 +1,1 @@
+4. Në çdo rast asgjësimi, përfaqësuesi i ministrisë përgjegjëse për shëndetësinë udhëzon Komisionin mbi mënyrën e asgjësimit me qëllim shmangien e dëmtimeve në shëndetin e personave që marrin pjesë në procesin e asgjësimit.
