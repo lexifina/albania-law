@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikualifikimi urban i rrugëve ’Ura e Re-Shish’, ’Antipatrea’, shëtitorja ’Osumi’ dhe ’Santa Lucia Filipine’, Berat”.
