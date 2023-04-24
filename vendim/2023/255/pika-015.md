@@ -1,0 +1,1 @@
+15. Shteti financon qiranë e ndërtesës për një sipërfaqe jo më shumë se 100 m2 për selinë qendrore dhe jo më shumë se 50 m2 për zyrat vendore të partisë politike, për një vlerë jo më shumë se 1 000 lekë/m2 në muaj për zyra me pajisje dhe jo më shumë se 750 lekë/m2 në muaj për zyra pa pajisje.

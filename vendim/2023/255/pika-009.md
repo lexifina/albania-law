@@ -1,0 +1,1 @@
+9. Kur kërkesa është pranuar dhe ka ndërtesa të lira, sipas pikës 5, të këtij vendimi, ministri i Brendshëm apo kryetari i bashkisë, sipas rastit, lidh kontratë huapërdorjeje me partinë politike që ka të drejtën për pajisjen me ndërtesë.

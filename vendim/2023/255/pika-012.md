@@ -1,0 +1,1 @@
+12. Komisioni Qendror i Zgjedhjeve përcakton masën konkrete të fondit publik, që përfiton çdo parti politike në formën e ndihmës financiare vjetore. Fondi publik i miratuar në buxhetin e shtetit, si ndihmë financiare, përdoret nga partia edhe për qiranë.

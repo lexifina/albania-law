@@ -1,0 +1,1 @@
+1. Ky vendim ka si objekt përcaktimin e rregullave të hollësishme për llojin e dokumenteve, që duhet të paraqesë partia politike bashkëlidhur kërkesës për pajisjen me ndërtesë, procedurën administrative të shqyrtimit të kërkesës, mënyrën e pagesës së qirasë, numrin e ndërtesave për zyrat vendore, si dhe kufijtë maksimalë të qirasë që merr përsipër të paguajë shteti.

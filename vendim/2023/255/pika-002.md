@@ -1,0 +1,1 @@
+2. Partia politike që përmbush kushtet sipas shkronjës “b”, të nenit 22, të ligjit nr. 8580, datë 17.2.2000, “Për partitë politike”, të ndryshuar, ka të drejtë të paraqesë kërkesë për pajisjen me ndërtesë pranë ministrit të Brendshëm ose kryetarit të bashkisë, në territorin e së cilës kërkohet pajisja me zyrë.

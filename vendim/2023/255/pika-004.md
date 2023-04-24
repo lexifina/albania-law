@@ -1,0 +1,3 @@
+4. Struktura përgjegjëse për shqyrtimin e kërkesës në Ministrinë e Brendshme apo bashki, brenda 5 (pesë) ditëve nga data e paraqitjes së kërkesës, kryen veprimet e mëposhtme:
+a) Kur kërkesa dhe dokumentacioni shoqërues është paraqitur sipas parashikimeve të këtij vendimi, njofton partinë politike me shkrim për vazhdimin e procedurës së shqyrtimit të kërkesës;
+b) Kur kërkesa dhe dokumentacioni shoqërues nuk është paraqitur sipas parashikimeve të këtij vendimi, njofton partinë politike për plotësimin e të metave, brenda 10 (dhjetë) ditëve nga marrja e njoftimit. Mosplotësimi i të metave brenda afatit të caktuar përbën shkak për mospranimin e kërkesës.

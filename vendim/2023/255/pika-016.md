@@ -1,0 +1,1 @@
+16. Efektet financiare për përballimin e shpenzimeve për pagesën e qirave të ndërtesave për selinë qendrore ose zyrat vendore të partive politike, sipas përcaktimeve të këtij vendimi, përballohen nga buxheti i shtetit në formën e fondit, që shërben si ndihmë financiare publike për kryerjen e veprimtarisë vjetore të partive politike.
