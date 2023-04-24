@@ -1,0 +1,1 @@
+24. Ngarkohen Policia e Shtetit dhe/ose Drejtoria e Parandalimit dhe Pastrimit të Parave t’i raportojnë, me shkrim, Task-Forcës çdo rast kur konstatojnë përdorim në procesin zgjedhor të mjeteve financiare të krijuara nga veprimtari të paligjshme.

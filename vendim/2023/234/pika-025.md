@@ -1,0 +1,1 @@
+25. Task-Forca, brenda sferës së veprimtarisë së saj, kur e gjykon të nevojshme, mund t’i kërkojë Komisionit Qendror të Zgjedhjeve informacion me shkrim për veprimtari në kundërshtim me Kodin Zgjedhor, për të cilat ky i fundit merr dijeni nëpërmjet mjeteve të komunikimit elektronik.
