@@ -1,0 +1,1 @@
+5. Vendimi nr. 261, datë 17.3.2010, i Këshillit të Ministrave, “Për përcaktimin e tarifës dhe të rregullave për pagimin e saj në një procedurë ankimi, pranë Komisionit të Prokurimit Publik”, shfuqizohet.
