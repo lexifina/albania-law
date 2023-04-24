@@ -1,0 +1,1 @@
+12. Për pasurinë me numër rendor 5, në tabelën që i bashkëlidhet këtij vendimi, për likuidimin e vlerës së shpronësimit, zbatohen parashikimet në nenin 16, pika 2, të ligjit nr. 8561, datë 22.12.1999, “Për shpronësimet dhe marrjen në përdorim të përkohshëm të pasurisë pronë private, për interes publik”, të ndryshuar.
