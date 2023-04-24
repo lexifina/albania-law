@@ -1,3 +1,3 @@
 # Nënshkrimi
 KRYEMINISTRI
-Edi Rama
+Edi Ram
