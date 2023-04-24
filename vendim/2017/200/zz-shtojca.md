@@ -5,25 +5,25 @@ Grada
 Paga bazë
 për gradë
 Inspektor
-57.500
+61 500
 Inspektor i dytë
-59.800
+64 000
 Inspektor i parë
-62.680
+67 000
 Nënkomisar
-70.000
+75 000
 Komisar
-77.000
+82 500
 Kryekomisar
-87.000
+93 000
 Drejtues
-99.000
+106 000
 Drejtues i parë
-103.000
+110 000
 Drejtues i lartë
-115.000
+123 000
 Drejtues madhor
-125.000
+133 700
 Lidhja nr. 2
 Shtesa për natyrë të veçantë pune për punonjësit e Policisë së Shtetit në strukturat e Luftës ndaj Krimit të Organizuar, Krimeve të Rënda, Antiterrorit dhe në strukturat e Policisë Shkencore
 Grada
@@ -55,7 +55,8 @@ Terrorizmit dhe Sigurinë;
 Sektorit të Analizës dhe
 Kartotekës dhe në të tjera struktura në Drejtorinë e Antiterrorit me gradë policore;
 Për hetimin e krimeve të
-rënda (pronës, personit dhe jetës, vetitë e cilësuara)
+rënda (pronës, personit dhe
+jetës, vetitë e cilësuara)
 në strukturat qendrore e vendore të Policisë së Shtetit
 Në funksione të:
 Sektorit të
@@ -749,3 +750,25 @@ Ndihmësmjek trupë operacionale
 Në repartin special RENEA
 Në repartet e Ndërhyrjes së Shpejtë
 4,000
+Lidhja nr. 7
+Masa e trajtimit shtesë të veçantë financiar, për punonjësit e policisë me grada policore, nëpunësit civilë dhe punonjësit administrativë, që punojnë në strukturën e posaçme “Operacioni Forca e Ligjit” - OFL dhe në Drejtorinë e Antiterrorit
+Grada
+Masa e trajtimit shtesë të veçantë financiar në vlerë
+Inspektor
+40000
+Inspektor i dytë
+41600
+Inspektor i parë
+43600
+Nënkomisar
+52400
+Komisar
+57600
+Kryekomisar
+69600
+Drejtues
+79200
+Drejtues i parë
+82400
+Drejtues i lartë
+92000
