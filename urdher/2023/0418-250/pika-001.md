@@ -1,0 +1,1 @@
+1. Spitali bashkiak është institucioni shëndetësor me shtretër që ofron kujdes shëndetësor për pacientët e të gjithë grupmoshave, të një ose më shumë bashkive, bazuar në shpërndarjen demografike dhe në planin spitalor rajonal, sipas sistemit të referimit.

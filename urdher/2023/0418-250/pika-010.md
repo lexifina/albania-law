@@ -1,0 +1,1 @@
+10. Spitali ditor është spitali që ofron ndihmën e parë mjekësore për trajtim dhe kurim brenda 24 orëve dhe realizon diagnostikim, trajtim dhe/ose ndërhyrje kirurgjikale sipas shërbimeve të spitalit të përcaktuara në aktin e ngritjes së spitalit.

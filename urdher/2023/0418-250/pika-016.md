@@ -1,0 +1,1 @@
+16. Në Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale ngrihet një grup pune i cili vlerëson statusin e spitaleve aktuale rajonale dhe bashkiake dhe bën propozimet përkatëse sipas përcaktimeve të këtij urdhri.

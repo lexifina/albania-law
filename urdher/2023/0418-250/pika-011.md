@@ -1,0 +1,1 @@
+11. Tipologjitë e përgjithshme të shërbimeve spitalore që ofron spitali ditor janë të përcaktuara në planin spitalor rajonal dhe shërbimet specifike të përcaktohen në aktin e miratimit të ngritjes së spitaleve.

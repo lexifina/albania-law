@@ -1,0 +1,1 @@
+2. Spitali bashkiak ushtron veprimtarinë e tij, në përputhje me standartet bazë dhe/ose ato optimale të akreditimit, të protokolleve të diagnozës e të trajtimit dhe udhërrëfyesve, të miratuara nga ministria përgjegjëse për shëndetësinë.
