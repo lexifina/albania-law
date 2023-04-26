@@ -1,0 +1,5 @@
+VENDIM
+Nr. 252, datë 20.4.2023
+PËR MIRATIMIN E STRATEGJISË NDËRSEKTORIALE PËR DECENTRALIZIMIN DHE QEVERISJEN VENDORE 2023-2030, TË PLANIT TË SAJ TË VEPRIMIT 2023-2025 E TË PASAPORTËS SË INDIKATORËVE
+Në mbështetje të nenit 100 të Kushtetutës, me propozimin e ministrit të Brendshëm, Këshilli i Ministrave
+VENDOSI:

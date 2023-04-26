@@ -1,0 +1,1 @@
+1. Miratimin e Strategjisë Ndërsektoriale për Decentralizimin dhe Qeverisjen Vendore 2023-2030, të planit të saj të veprimit 2023-2025 dhe të pasaportës së indikatorëve, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
