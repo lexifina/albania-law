@@ -1,9 +1,9 @@
 # Për funksionimin e Këshillit Kombëtar të punës dhe për caktimin e përfaqësuesve të Këshillit të Ministrave në këtë këshill
 
-Official source: [Vendimi i Këshillit të Ministrave nr. 1039, datë 4.12.2013](https://qbz.gov.al/api/v1/acts/10283).
+Official source: [Vendimi i Këshillit të Ministrave nr. 1039, datë 4.12.2013](https://qbz.gov.al/api/v1/acts/10283); [QBZ versions](https://qbz.gov.al/api/v1/acts/10283/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2013-12-04; published 2013-12-13; in force 2013-12-13.
+Status of this text: `official consolidated version 3`, applying from 2023-04-27; after QBZ act 64026 (nr. 265).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
