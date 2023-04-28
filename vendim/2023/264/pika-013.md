@@ -1,0 +1,1 @@
+13. Në rast të mospërmbushjes së detyrimeve kontraktuale nga punëdhënësi, ai detyrohet të kthejë 100% të subvencionit të përfituar dhe përjashtohet nga përfshirja në këtë program për të paktën 3 (tre) vjet. Në këtë rast, kursanti dhe ofruesi publik i AFP-së duhet të njoftojnë menjëherë strukturën rajonale të punësimit.

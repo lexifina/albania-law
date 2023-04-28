@@ -1,0 +1,1 @@
+8. Pasi punëdhënësi ka finalizuar programin e trajnimit, struktura përkatëse e punësimit harton listën e punëkërkuesve të papunë, që plotësojnë kriteret për pjesëmarrje në këtë program brenda 7 (shtatë) ditëve pune.

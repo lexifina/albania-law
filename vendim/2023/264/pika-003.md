@@ -1,0 +1,1 @@
+3. Ministri përgjegjës për çështjet e punësimit dhe aftësive miraton planin e shpërndarjes së fondeve dhe pjesëmarrësve në programin e nxitjes së punësimit dhe rajonet, ku do të zbatohet programi në bazë të planit të zbatimit të garancisë rinore, pas propozimit nga institucioni përgjegjës për punësimin dhe aftësitë.

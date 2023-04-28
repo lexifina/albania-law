@@ -1,0 +1,1 @@
+2. Programi i nxitjes së punësimit, sipas skemës së garancisë rinore, ka për qëllim përfshirjen në tregun e punës të të rinjve të moshës 15-29 vjeç, që nuk janë në punësim, arsim ose formim profesional, nëpërmjet të nxënit në vendin e punës.
