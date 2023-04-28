@@ -6,11 +6,11 @@ c) ekspozimin e materialeve të dëgjesës në zyrat e NJQV-së përkatëse.
 6.2 AKM-ja, brenda 5 (pesë) ditëve nga data e njoftimit që merr nga zhvilluesi sipas pikës 5.1, kryen këto veprime:
 a) Publikon në faqen e saj elektronike njoftimin dhe përmbledhjen joteknike të raportit të thelluar të VNM-së;
 b) Afishon në hapësirën e informimit të publikut një kopje të njoftimit për dëgjesën publike.
-6.3 ARM-ja, brenda 3 (tri) ditëve nga data e njoftimit të AKM-së, sipas pikës 5.2, kryen këto veprime:
+6.3 DRM-ja, brenda 3 (tri) ditëve nga data e njoftimit të AKM-së, sipas pikës 5.2, kryen këto veprime:
 a) Publikon në faqen e saj elektronike njoftimin dhe përmbledhjen joteknike të raportit të thelluar të VNM-së;
 b) Afishon në zyrën e informimit të publikut një kopje të njoftimit për dëgjesën publike;
 c) Ekspozon në zyrën e saj kopje të shtypura të raportit të thelluar të VNM-së dhe të përmbledhjeve joteknike të tij.
-6.4 NJQV-ja, brenda 3 (tri) ditëve nga data e njoftimit të ARM-së, sipas pikës 5.3, kryen këto veprime:
+6.4 NJQV-ja, brenda 3 (tri) ditëve nga data e njoftimit të DRM-së, sipas pikës 5.3, kryen këto veprime:
 a) Afishon në mjediset e saj, deri në datën e mbajtjes së seancës dëgjimore, njoftimin për dëgjesën publike;
 b) Publikon në faqen e saj elektronike njoftimin dhe përmbledhjen joteknike të raportit të thelluar të VNM-së;
 c) Ekspozon në zyrën e saj kopje të shtypura të raportit të thelluar të VNM-së dhe të përmbledhjeve joteknike të tij.
