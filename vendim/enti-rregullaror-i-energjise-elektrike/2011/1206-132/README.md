@@ -1,9 +1,9 @@
 # PËR LICENcIMIN E SHOQËRISË “HEC ULËZ SHKOPET” SHA NË AKTIVITETIN E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC ULËZ DHE HEC SHKOPET
 
-Official source: [Vendim nr. 132, datë 6.12.2011 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/18183).
+Official source: [Vendim nr. 132, datë 6.12.2011 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/18183); [QBZ versions](https://qbz.gov.al/api/v1/acts/18183/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2011-12-06; published 2011-12-31; in force 2011-12-31.
+Status of this text: `official consolidated version 1`, applying from 2023-04-28; after QBZ act 26025 (nr. 150).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
