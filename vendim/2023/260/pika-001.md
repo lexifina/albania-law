@@ -1,0 +1,1 @@
+1. Miratimin e listës së projekteve fituese të financuara nga Fondi për Parandalimin dhe Menaxhimin e Fatkeqësive Natyrore, si edhe të autoritetit kontraktor për zbatimin e projekteve, sipas njësive të vetëqeverisjes vendore, sipas shtojcës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
