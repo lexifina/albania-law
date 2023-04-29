@@ -1,9 +1,10 @@
 # Neni 3
 Përkufizime
 Në këtë ligj termat e mëposhtëm kanë këto kuptime:
-1. “Veprimi juridik tregtar” është kontrata apo çdo veprim tjetër juridik, i kryer ndërmjet ndërmarrjeve tregtare ose ndërmjet ndërmarrjeve tregtare, nga njëra anë, dhe autoriteteve publike, nga ana tjetër, të cilat çojnë në livrimin e mallrave ose realizimin e shërbimeve kundrejt një kundërpagese.
+1. ’Veprimi juridik tregtar’ është kontrata apo çdo veprim tjetër juridik, përfshirë dhe faturën tatimore, i kryer ndërmjet ndërmarrjeve tregtare ose ndërmjet ndërmarrjeve tregtare nga njëra anë dhe prodhuesve bujqësore apo autoriteteve publike nga ana tjetër, të cilat çojnë në lëvrimin e mallrave ose realizimin e shërbimeve kundrejt një kundërpagese.
 2. “Autoritet publik” është çdo autoritet kontraktues shtetëror, si njësi e qeverisjes së përgjithshme, ku përfshihen njësitë e qeverisjes qendrore, vendore dhe të fondeve speciale.
 3. “Sipërmarrje tregtare” është çdo person juridik, i krijuar sipas ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar, me përjashtim të një autoriteti publik, i cili vepron në kuadër të veprimtarisë së tij të pavarur ekonomike a profesionale.
+3/1. ’Prodhues bujqësor’ është subjekti që zhvillon aktivitetin e vet në kuadrin e një sipërmarrjeje bujqësore, pyjore dhe peshkimi, i cili në zbatim të legjislacionit në fuqi për tatimin mbi vlerën e shtuar në Republikën e Shqipërisë, është i pajisur me një numër identifikimi të personit të tatueshëm, lëshuar nga Drejtoria Rajonale Tatimore, ku ushtron aktivitetin prodhuesi bujqësor.
 4. “Pagesë me vonesë” është pagesa që nuk kryhet brenda afatit të përcaktuar me kontratë a me ligj, nga ana e sipërmarrjes tregtare dhe e autoritetit publik, kur janë përmbushur kushtet e parashikuara në nenin 4 të këtij ligji.
 5. “Pagesë me vonesë e thesarit” është pagesa që nuk bëhet brenda afatit të përcaktuar me kontratë a me ligj, kur janë përmbushur kushtet e parashikuara në nenin 4 të këtij ligji, por kur ka gjendje me mungesë likuiditeti në llogarinë e unifikuar të thesarit pas datës së regjistrimit në sistemin informatik financiar të qeverisë.
 6. “Sistem i thesarit”, ky term ka të njëjtin kuptim me atë të parashikuar në ligjin nr. 9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, të ndryshuar.
