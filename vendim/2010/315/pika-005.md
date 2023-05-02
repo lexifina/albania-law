@@ -1,1 +1,0 @@
-5. Subjekti i specializuar, i interesuar për t’u pajisur me autorizim për përdorim civil të lëndëve plasëse, përveç kritereve të përgjithshme, duhet të plotësojë edhe kriteret specifike, të përcaktuara me udhëzim të veçantë të Ministrit të Ekonomisë, Tregtisë dhe Energjetikës.
