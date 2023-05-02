@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim krijimin e kuadrit rregullues për bashkërendimin, harmonizimin dhe mbështetjen e veprimtarisë së inspektorateve shtetërore dhe vendore në fushën e inspektimit të pyjeve, në zbatim të ligjit 57/2020, “Për pyjet”.

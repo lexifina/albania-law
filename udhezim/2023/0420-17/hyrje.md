@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 17, datë 20.4.2023
+PËR BASHKËRENDIMIN E FUNKSIONEVE INSPEKTUESE NË FUSHËN E MBROJTJES SË PYJEVE
+Në zbatim të germës “a”, të pikës 2, të nenit 16, të ligjit nr. 10433, datë 16.6.2011, “Për inspektimin në Republikën e Shqipërisë”; ligjit nr. 57/2020, “Për pyjet”, ligjit nr. 139/2015, “Për vetëqeverisjen vendore”; VKM-së nr. 696, datë 16.8.2013, “Për përcaktimin e procedurave të ushtrimit, të kompetencave të Inspektoratit Qendror dhe të rregullave për përmbajtjen dhe administrimin e portalit unik e-Inspektimi”; urdhrit nr. 15, datë 17.5.2015, “Për përcaktimin e procedurave dhe mënyrave, për përdorimin e portalit unik të inspektimit e-Inspektimi”, të ndryshuar; urdhrit nr. 25, datë 10.8.2018, “Për miratimin e rregullores ’Për përcaktimin e procedurës së inspektimeve, si një proces i rregullt administrativ’”, të Inspektorit të Përgjithshëm, me qëllim unifikimin e procesit të inspektimeve për fushën e mbrojtjes së pyjeve, nën juridiksionin e disa institucioneve, për të rritur harmonizimin, efektivitetin, përgjegjshmërinë, gjurmueshmërinë e transparencën e veprimtarisë së inspektimit,
+UDHËZOJ:

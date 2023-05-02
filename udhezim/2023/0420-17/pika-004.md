@@ -1,0 +1,1 @@
+4. AKP-ja mbikëqyr zbatimin e akteve ligjore/nënligjore, akteve administrative, politikave, programeve dhe planeve në nivel kombëtar nga strukturat e kontrollit të pyjeve në bashki dhe në zonat e mbrojtura, si dhe ndërhyn në mënyrë të drejtpërdrejtë dhe të pakufizuar në rastet kur vëren pamundësinë ose mosushtrimin e kompetencave ligjore nga ana e tyre.

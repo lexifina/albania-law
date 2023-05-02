@@ -1,0 +1,3 @@
+3. Për mbrojtjen dhe sigurinë e pyjeve ndaj veprave penale të kryera në to, bëhet referim në strukturat e specializuara për mbrojtjen dhe sigurinë në pyje, pranë ministrisë përgjegjëse për mbrojtjen dhe sigurinë e mjedisit dhe pyjeve, ku IKMT-ja ka si përgjegjësi:
+a) të garantojnë mbrojtjen dhe sigurinë e pyjeve përmes parandalimit, zbulimit dhe hetimit të veprave penale kundër pyjeve dhe procedimit penal të autorëve të tyre në përputhje me parashikimet e legjislacionit penal;
+b) të bashkëpunojnë me strukturat përgjegjëse për kontrollin në pyje AKP, AKZM dhe bashkitë dhe i mbështesin ato sipas kërkesës dhe nevojës.
