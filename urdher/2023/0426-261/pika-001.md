@@ -1,0 +1,1 @@
+1. Drejtorin e Përgjithshëm të Politikave dhe Zhvillimit të Kulturës, znj. Entela Çipa, që në mungesë dhe me porosi të kryejë nënshkrimin e korrespodencave të përditshme shkresore, që janë kompetencë e Sekretarit të Përgjithshëm të Ministrisë së Kulturës.
