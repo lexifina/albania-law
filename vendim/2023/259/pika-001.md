@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rehabilitimi i zonës së mbrojtur nga lumi Osum dhe rijetëzimi i fasadave të qendrës së qytetit Ura Vajgurore, Bashkia Dimal”.
