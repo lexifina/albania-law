@@ -1,2 +1,1 @@
-6. Ngarkohen ministri i Shtetit për Rindërtimin, Ministria e Financave dhe Ekonomisë dhe Fondi Shqiptar i Zhvillimit për zbatimin e këtij vendimi.
-Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
+6. Fondet e mbetura të papërdorura, pas përfundimit të procedurave të prokurimit në zbatim të këtij vendimi, kthehen në zërin “Fondi për rindërtim”, të buxhetit të shtetit.
