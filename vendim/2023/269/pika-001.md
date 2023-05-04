@@ -1,0 +1,1 @@
+1. Për financimin e fushatës zgjedhore për organet e vetëqeverisjes vendore të datës 14 maj 2023, në programin “Mbështetje për partitë politike” shtohet fondi prej 100 000 000 (njëqind milionë) lekësh, i cili u shpërndahet subjekteve zgjedhore pjesëmarrëse në këto zgjedhje nga Komisioni Qendror i Zgjedhjeve.
