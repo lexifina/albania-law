@@ -1,0 +1,1 @@
+9. Studime, vrojtime, shërbime, përgjithësime e monitorime gjeologjike, konkretisht punime kërkimi dhe zbulimi të detajuara, të cilat mund të kryhen në vendburimet metalore, jometalore e hidrokarbureve ekzistuese, në objektet përreth tyre dhe ato të reja.

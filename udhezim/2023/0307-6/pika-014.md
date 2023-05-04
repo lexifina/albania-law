@@ -1,0 +1,1 @@
+14. Monitorime dhe aktverifikime të lejeve minerare të kërkim-zbulimit dhe të atyre të shfrytëzimit (për anën gjeologjike, minerale e mjedisore, konform ligjit nr. 10304 datë 15.7.2010, “Për sektorin minerar në Republikën e Shqipërisë”, të ndryshuar).

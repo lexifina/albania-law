@@ -1,0 +1,1 @@
+4. Studime, vrojtime, shërbime, përgjithësime dhe monitorime gjeologo-inxhinierike në fushën e ndërtimeve të rrugëve, banesave, bazamenteve të shtyllave të linjave elektrike, kanaleve të ujësjellësve, porteve, aeroporteve etj.

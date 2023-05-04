@@ -1,0 +1,1 @@
+I. Në zbatim të ligjit nr. 111/2015, datë 15.10.2015, “Për Shërbimin Gjeologjik Shqiptar (SHGJSH)”, shërbimet me pagesë për të tretët që kryen Shërbimi Gjeologjik Shqiptar, janë sipas listës së mëposhtme:
