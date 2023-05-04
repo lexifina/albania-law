@@ -694,6 +694,55 @@ iv. në strukturat peshkuese dhe funksionimin e aktivitetit në tërësi.
 Neni 49
 Kundërvajtjet, sanksionet dhe përgjegjësitë
 Kundërvajtjet, sanksionet dhe përgjegjësitë e subjekteve për shkeljet e legjislacionit në fuqi, bazohen në nenet 128, 129, 130 të ligjit të peshkimit. Qëllimi i tyre, është të heqin në mënyrë efektive përfitimin ekonomik të kryer nga shkelja e konstatuar dhe të krijojnë efekte në proporcion me shkallën e shkeljes së kryer, duke shërbyer si një masë penguese për shkelje të tjera të së njëjtës natyrë.
+Neni 49/1
+Regjistri i Shkeljeve të Rënda në Peshkim
+1. Sektori i Inspektimit dhe Kontrollit pranë Drejtorisë së Shërbimeve të Peshkimit dhe Akuakulturës krijon dhe plotëson Regjistrin e Shkeljeve të Rënda sipas formatit të përcaktuar në shtojcën 2, të kësaj rregulloreje.
+2. Inspektori i peshkimit njofton DSHPA-në, në rrugë elektronike, për të gjitha rastet kur ka pasur shkelje të rënda në peshkim, të cilat janë konstatuar dhe kanë qenë objekt i një inspektimi zyrtar, duke specifikuar natyrën e shkeljeve sipas shtojcës 12, të vendimit nr. 407, datë 8.5.2013, “Për përcaktimin e një regjimi kontrolli për të garantuar respektimin e rregullave të politikave menaxhuese në peshkim”, të ndryshuar, të Këshillit të Ministrave.
+3. Raportimi i shkeljeve kryhet duke dhënë detaje të shkeljeve, në përputhje me formatin e përcaktuar në shtojcën 2, si dhe duke përdorur kodet e përcaktuara në shtojcën 3, të kësaj rregulloreje.
+4. Në regjistër shënohet lloji i procedimit të nisur, vendimin e marrë dhe natyrën e dënimeve të vendosura, në terma specifikë.
+5. Sektori i Inspektimit dhe Kontrollit dërgon informacionin e përcaktuar në pikën 3 të këtij neni, pranë Drejtorisë së Politikave dhe Programeve të Peshkimit dhe Akuakulturës, brenda datës 15 të çdo muaji.
+6. Sektori i Inspektimit dhe Kontrollit harton raportin vjetor mbi shkeljet e rënda dhe dërgon në Drejtorinë e Politikave dhe Programeve të Peshkimit dhe Akuakulturës brenda datës 31 janar të vitit pasardhës.
+7. Raporti vjetor duhet të përmbajë:
+a) të gjitha shkeljet e rënda, të përmendura në pikën 3 të këtij neni, të konstatuara gjatë vitit paraardhës;
+b) shkeljet e konstatuara, gjatë viteve të tjera, për të cilat është marrë një vendim në vitin paraardhës;
+c) tabelën përmbledhëse të pikëve dhe penaliteteve për çdo anije.
 Neni 50
 Forma e inspektimit
 Inspektorët e peshkimit, sa herë kryejnë inspektime, duhet të mbajnë me vete dhe të plotësojnë online dokumentacionin, sipas modelit të miratuar me urdhër të Inspektoratit Qendror.
+Shtojca 1
+Shtojca nr. 2
+Regjistri i shkeljeve të rënda në peshkim
+Të dhëna të përgjithshme
+Rastet e evidentuara
+Lloji i procedurës së zbatuar
+Vendimi
+Subjekti
+NIPT/ID
+Emri i M/P
+NFR
+Nr.
+Tipologjia dhe elementet perberes(data, zona/porti, flamuri/kombësia)
+Data
+Administrativ
+Po/Jo
+Penale
+Po/Jo
+Gjykatë
+Po/Jo
+Vendimi i inspektorit
+KSHKA
+Data
+Data
+Gjoba në lekë
+Heqje leje
+Peshkimi/autorizimi tjetër
+Sekuestrim (specifik)
+Tjeter
+(specifik)
+Pikët
+Në rast shlyerje
+Kohëzgjatja në muaj
+Provizore
+Kohëzgjatja në ditë
+Përfundimtar
+Shtojca 3
