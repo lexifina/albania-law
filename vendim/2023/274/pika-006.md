@@ -1,0 +1,1 @@
+6. Vendimi nr. 122, datë 3.3.2021, i Këshillit të Ministrave, “Për miratimin e kategorisë së ndërtesave, që përjashtohen nga ligji nr. 116/2016, “Për performancën e energjisë së ndërtesave”, shfuqizohet.

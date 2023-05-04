@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim përcaktimin e kategorive të tjera të ndërtesave dhe njësive të ndërtesave që do të jenë objekt përjashtimi prej detyrimeve që rrjedhin nga ligji nr. 116/2016, “Për performancën e energjisë së ndërtesave”.
