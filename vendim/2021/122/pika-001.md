@@ -1,1 +1,0 @@
-1. Përjashtohen nga zbatimi i ligjit nr. 116/2016, “Për performancën e energjisë së ndërtesave”, objektet që do të ndërtohen në zbatim të aktit normativ nr. 9, datë 16.12.2019, “Për përballimin e pasojave të fatkeqësisë natyrore”, dhe ndërtimi i të cilave miratohet nga Komisioni Shtetëror i Rindërtimit.
