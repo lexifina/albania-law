@@ -1,0 +1,1 @@
+13. AAPSK-ja vlerëson se një ofertë është e vlefshme edhe nëse ajo përmban devijime të vogla, të cilat nuk ndryshojnë materialisht ose nuk devijojnë nga karakteristikat, kushtet dhe kërkesat e tjera, të përcaktuara në dokumentet e ankandit, apo gabime të cilat mund të korrigjohen pa prekur përmbajtjen e saj.

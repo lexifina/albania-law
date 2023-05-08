@@ -1,0 +1,1 @@
+5. AAPSK-ja detyrohet të mbajë procesverbale dhe dokumentacion të plotë për procedurat e kryera në përcaktimin e fituesit të ankandit, në mënyrë të tillë që të mundësojë kontrollin e ligjshmërisë së procedurës nga strukturat kompetente shtetërore, të cilat ligji i autorizon të mbikëqyrin ankandet.

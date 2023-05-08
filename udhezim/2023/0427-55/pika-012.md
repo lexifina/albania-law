@@ -1,0 +1,1 @@
+12. Njësia e ankandit vlerëson se oferta është e vlefshme, vetëm nëse ajo është në përputhje me të gjitha kërkesat dhe specifikimet e përcaktuara në shpalljen për shitjen në ankand dhe në dokumentet e ankandit.

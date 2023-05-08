@@ -1,0 +1,1 @@
+2. Administratori pasurisë i paraqet kryeadministratorit një raport tekniko-financiar dhe kërkesë të arsyetuar, për vijimin e procedurave të ankandit, me qëllim nxjerrjen në shitje të pasurive mbi të cilat nuk rëndon asnjë barrë apo detyrim.

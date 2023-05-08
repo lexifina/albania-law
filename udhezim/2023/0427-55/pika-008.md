@@ -1,0 +1,2 @@
+8. I gjithë dokumentacioni, njoftimet, vendimet, informacionet dhe komunikimet e parashikuara në legjislacionin në fuqi për ankandet publike dhe në këtë udhëzim bëhen ose dokumentohen me shkrim dhe janë pjesë e praktikës shkresore që administrohet nga AAPSK-ja.
+Komunikimi, shkëmbimi dhe ruajtja e informacionit kryhet në mënyrë të tillë, që të sigurojë ruajtjen e integritetit të të dhënave, konfidencialitetin e ofertave dhe të kërkesave për pjesëmarrje.

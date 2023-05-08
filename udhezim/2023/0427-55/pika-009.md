@@ -1,0 +1,1 @@
+9. AAPSK-ja vendos në dispozicion të çdo personi që ka interes të ligjshëm e të drejtpërdrejtë nga procedura e ankandit, me kërkesë të tij, pasi është përcaktuar oferta fituese apo pasi procedurat e ankandit kanë përfunduar pa përcaktuar një fitues, informacionin e administruar për çdo ankand, brenda 5 (pesë) ditëve nga paraqitja e kërkesës.

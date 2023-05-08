@@ -1,0 +1,1 @@
+15. Në përfundim të procedurës së shqyrtimit të ofertave, njësia e ankandit vlerëson dhe krahason ofertat e vlefshme për të përcaktuar ofertën fituese, në përputhje me procedurat dhe kriteret e përcaktuara në dokumentet e ankandit. Që të vazhdojë procesi i përzgjedhjes së fituesit duhet të pranohet të paktën një ofertë e vlefshme.
