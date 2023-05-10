@@ -64,7 +64,7 @@ Vërtetimi
 Importuesit ose përfaqësuesit e tyre duhet të jenë të pajisur me një vërtetim të shkruar, edhe në gjuhën shqipe, vërtetim i cili të jetë i nënshkruar nga personi përgjegjës i njësisë ose i qendrës karantinore që vërteton se zogjtë do të pranohen për hyrjen e tyre në karantinë.
 Ky vërtetim, duhet:
 a) të tregojë qartë emrin, adresën dhe numrin e miratimit të objektit ose qendrës së karantinës;
-b) të arrijë në pikën e inspektimit kufitar 24 orë para datës së mbërritjes së ngarkesës në territorin e vendit tonë ose të paraqitet importuesi apo përfaqësuesi i tij para lëshimit të zogjve nga pika e inspektimit kufitar.
+b) të njoftojë pikën e inspektimit kufitar 24 orë para datës së mbërritjes së ngarkesës në mënyrë elektronike ose duke u paraqitur fizikisht importuesi apo përfaqësuesi i ngarkesës në fjalë dhe duke plotësuar në PIK dokumentin veterinar për importin dhe tranzitin (DVIT) në territorin e vendit tonë.
 Neni 9
 Transitimi për në Republikën e Shqipërisë
 Kur zogjtë hyjnë në Republikën e Shqipërisë, duhet të merren të gjitha masat për të siguruar që dërgesa të arrijë në vendin e synuar të destinacionit.
@@ -72,7 +72,7 @@ Neni 10
 Monitorimi i transportit të zogjve
 1. Monitorimi e zogjve nga pika e inspektimit kufitar në objektin e miratuar të karantinës ose qendrën në vendin e destinacionit bëhet në bazë të legjislacionit në fuqi dhe siguron shkëmbimet e mëposhtme të informacionit:
 a) inspektori veterinar përgjegjës për pikën e inspektimit kufitar, njofton autoritetin përgjegjës për Pikën e inspektimit kufitar PIK, si dhe ministrinë dhe ARSHVMB për njësinë ose qendrën karantinore të miratuar në vendin e destinacionit të ngarkesës, vendin e origjinës dhe vendin e destinacionit të zogjve nëpërmjet sistemit Trace;
-b) personi përgjegjës për objektin e miratuar të karantinës ose qendrës së destinacionit duhet të njoftojë menjëherë, veterinerin zyrtar përgjegjës të miratimit të objektit karantinor ose qendrës në vendin e destinacionit të mbërritjes së dërgesës.
+b. personi përgjegjës për objektin e miratuar të karantinës ose qendrës së destinacionit duhet të njoftojë brenda 1 dite pune nga data e mbërritjes së ngarkesës, veterinerin zyrtar përgjegjës të miratimit të objektit karantinor ose qendrës në vendin e destinacionit të mbërritjes së dërgesës.
 2. Nëse që nga konfirmimi i dhënë nga autoriteti kompetent përgjegjës për pikën e inspektimit kufitar, zogjtë e deklaruar konform pranimit në njësinë e karantinës nuk kanë mbërritur ende në destinacionin e tyre, pas tri ditësh pune të datës së deklaruar për dorëzim në qendrën karantinore, shërbimi veterinar duhet të marrë masat e duhura dhe të menjëhershme kundrejt personit përgjegjës për dërgesën.
 Neni 11
 Masat karantinore
