@@ -1,8 +1,10 @@
 VENDIM
 
-Nr. 107, Datë 23.3.2023
+Nr. 107, datë 23.3.2023
 
 MBI LICENCIMIN E SHOQËRISË “ATEANI ENERGY” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HIDROCENTRALET “SHUTRI 1”, ME KAPACITET TË INSTALUAR 370 kw DHE “SHUTRI 2”, ME KAPACITET 1600 kw, ME KAPACITET TOTAL TË INSTALUAR 1970 kw
+
+(ndryshuar me VKM-në nr. 169, datë 15.5.2023)
 
 Në mbështetje të neneve 16 dhe 37, pika 2, gema “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; nenit 4, pika 1, gema “a”, nenit 5, pika 1, gema “a” dhe nenit 13 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 23.3.2023, mbasi shqyrtoi relacionin me nr. 22/13 prot., datë 23.3.2023, të përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes “Mbi kërkesën e shoqërisë ‘Ateani Energy’ sh.p.k., për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
@@ -32,9 +34,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Ateani Energy” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike, nga hidrocentralet “Shutri 1” me kapacitet të instaluar 370 kw dhe “Shutri 2” me kapacitet 1600 kw, me kapacitet total të instaluar 1970 kw, për një afat 29 vjet e 2 muaj.
 
-2. Shoqëria “Ateani Energy” sh.p.k., të informojë çdo 2 (dy) muaj në ERE mbi ecurinë e marrjes së lejes për përdorimin e burimit ujor me afat të saktësuar dhe ta depozitojë atë në ERE jo më vonë se data 25.7.2023. 
+2. Shfuqizuar. 
 
-3. Ky vendim është objekt rishikimi nga ERE.
+3. Shfuqizuar.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë për vendimin e bordit të ERE-s.
 
