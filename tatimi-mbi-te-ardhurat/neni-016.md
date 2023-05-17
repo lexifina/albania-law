@@ -1,0 +1,9 @@
+# Neni 16
+Të ardhurat e tatueshme nga investimi për tjetërsimin e titujve, instrumenteve financiare dhe mjeteve virtuale
+1. E ardhura e tatueshme e investimit nga tjetërsimi i titujve apo instrumenteve financiare përcaktohet si diferencë ndërmjet çmimit të shitjes dhe çmimit të blerjes së këtyre aseteve të tjetërsuara. Çdo shpenzim që lidhet drejtpërdrejt me blerjen dhe shitjen e titujve apo instrumenteve financiare përfshihet në çmimin e blerjes dhe në çmimin e shitjes dhe nuk shtohet apo zbritet përkatësisht.
+2. Nëse të ardhurat e tatueshme nga tjetërsimi i titujve apo instrumenteve financiare rezultojnë me humbje në një vit tatimor, një humbje e tillë mund të kompensohet me të ardhura të tatueshme të investimeve nga tjetërsimi i titujve apo instrumenteve financiare të tjera në të njëjtin vit tatimor.
+3. E ardhura e tatueshme e investimit nga tjetërsimi i mjeteve virtuale përcaktohet si diferencë midis vlerës në shitje dhe vlerës në blerje të këtyre mjeteve. Nëse të ardhurat e tatueshme të investimit nga tjetërsimi i mjeteve virtuale rezultojnë me humbje në një vit tatimor, të ardhurat e tatueshme të investimit konsiderohen të jenë zero.
+4. Për titujt apo instrumentet financiare të listuara në bursë, çmimet e blerjes dhe të shitjes përcaktohen nga dokumentet përkatëse të tregtimit në datën e shitjes.
+5. Në rastin e titujve apo instrumenteve financiare të fituara me trashëgimi ose dhurim, çmimi i blerjes për qëllime tatimore është vlera e tatueshme e titujve apo instrumenteve financiare të dhuruara ose të trashëguara në momentin e përfitimit.
+6. Tjetërsimi i titujve përfshin kontributin në natyrë të titujve si kapital fillestar ose një rritje kapitali të një entiteti.
+7. Ministri përgjegjës për financat miraton me udhëzim rregullat e përgjithshme dhe mënyrën e llogaritjes për zbatimin e këtij neni.

@@ -1,0 +1,33 @@
+# Neni 5
+Selia e përhershme
+1. Seli e përhershme nënkupton një vend të caktuar biznesi, ku zhvillohet tërësisht ose pjesërisht veprimtaria e biznesit të një personi jorezident.
+2. Selia e përhershme përfshin veçanërisht:
+a) një vend administrimi;
+b) një degë;
+c) një zyrë;
+ç) një fabrikë;
+d) një punishte;
+dh) një minierë, një pus nafte ose gazi, një gurore ose çdo vend tjetër për nxjerrjen e burimeve natyrore;
+e) një ndërtesë ose një kantier ndërtimi, instalimi ose projekti montimi ose çdo aktivitet mbikëqyrës të lidhur vetëm nëse një kantier, projekt ose aktivitet i tillë vazhdon në Republikën e Shqipërisë për një periudhë ose periudha në total prej më shumë se gjashtë muajsh gjatë çdo periudhe dymbëdhjetëmujore;
+ë) çdo aktivitet, duke përfshirë përdorimin ose instalimin e pajisjeve të konsiderueshme të kryera në Republikën e Shqipërisë në lidhje me kërkimin, nxjerrjen ose shfrytëzimin e burimeve natyrore për një periudhë ose periudha në total prej më shumë se tre muajsh gjatë çdo periudhe dymbëdhjetëmujore;
+f) kryerja e shërbimeve, duke përfshirë shërbimet e konsulencës të ofruara nga një person jorezident nëpërmjet punonjësve të tij ose individëve të tjerë, vetëm nëse këto aktivitete vazhdojnë (për të njëjtin person ose një person të lidhur) në Republikën e Shqipërisë për një periudhë ose periudha në total prej më shumë se gjashtë muajsh gjatë çdo periudhe dymbëdhjetë mujore.
+3. Pavarësisht nga pikat 1 dhe 2 të këtij neni, termi “seli e përhershme” nuk përfshin:
+a) përdorimin e objekteve vetëm për qëllim të ruajtjes, ekspozimit ose dërgimit të mallrave që i përkasin personit jorezident;
+b) mbajtjen e një stoku mallrash që i përkasin personit jorezident vetëm për qëllime magazinimi, ekspozimi ose shpërndarjeje;
+c) mbajtjen e një stoku mallrash që i përkasin personit jorezident vetëm për qëllime përpunimi nga një person tjetër;
+ç) mbajtjen e një vendi fiks biznesi vetëm për qëllimin e blerjes së mallrave ose të mbledhjes së informacionit për personin jorezident;
+d) mbajtjen e një vendi fiks biznesi vetëm për qëllimin e ushtrimit të çdo veprimtarie tjetër për personin jorezident;
+dh) mbajtjen e një vendi fiks biznesi vetëm për kombinimin e aktiviteteve të përcaktuara në shkronjat “a” deri “d” të kësaj pike, me kusht që aktiviteti i përgjithshëm i vendit fiks të biznesit të jetë i një karakteri përgatitor ose ndihmës.
+4. Pika 3 e këtij neni nuk zbatohet për një vend fiks biznesi, që përdoret ose mirëmbahet nga një person jorezident nëse i njëjti person ose një person i lidhur ngushtësisht me të ushtron aktivitete biznesi në të njëjtin vend ose në një vend tjetër në Republikën e Shqipërisë, dhe:
+a) ai vend ose një vend tjetër përbën një seli të përhershme për personin ose personin e lidhur ngushtësisht sipas parashikimeve të këtij neni, ose
+b) aktiviteti i përgjithshëm që rezulton nga kombinimi i aktiviteteve të kryera nga të dy personat në të njëjtin vend ose nga i njëjti person ose nga personat e lidhur ngushtësisht në të dyja vendet, nuk është i një karakteri përgatitor ose ndihmës, me kushtin që aktivitetet e biznesit të kryera nga të dy personat në të njëjtin vend, ose nga i njëjti person ose person i lidhur ngushtësisht në të dyja vendet, përbëjnë funksione plotësuese që janë pjesë e një operacioni të lidhur biznesi.
+5. Pavarësisht nga parashikimet e pikave 1 dhe 2 të këtij neni, por në zbatim të parashikimeve të pikës 7 të këtij neni, kur një person vepron në Republikën e Shqipërisë në emër të një personi jorezident, personi jorezident konsiderohet se ka një seli të përhershme në Republikën e Shqipërisë në lidhje me çdo aktivitet që ai person ndërmerr, nëse një person i tillë:
+a) lidh zakonisht kontrata, ose zakonisht luan rolin kryesor në lidhjen e kontratave që lidhen në mënyrë rutinore pa modifikime materiale nga personi jorezident dhe këto kontrata janë:
+i. në emër të personit jorezident, ose
+ii. për transferimin e pronësisë ose për dhënien e të drejtës së përdorimit të pronës në pronësi të personit jorezident ose që personi jorezident ka të drejtën e përdorimit, ose
+iii. për ofrimin e shërbimeve nga personi jorezident, përveç nëse aktivitetet e një personi të tillë janë të kufizuara në ato të përcaktuara në pikën 4 të këtij neni, të cilat, nëse ushtrohen nëpërmjet një vendi fiks biznesi, nuk do ta bëjnë atë vend fiks biznesi një seli të përhershme sipas dispozitave të pikës 4 të këtij neni; ose
+b) personi zakonisht nuk lidh kontrata, as luan rolin kryesor për lidhjen e kontratave të tilla, por mban një stok mallrash ose produkti tregtar nga të cilat personi dorëzon rregullisht mallra ose produkt në emër të personit jorezident.
+6. Pavarësisht nga dispozitat e mësipërme të këtij neni, por në përputhje me pikën 7 të këtij neni, një entitet që operon në fushën e sigurimeve të një shteti tjetër, përjashtuar veprimtarinë e risigurimit, do të konsiderohet se ka një seli të përhershme në Republikën e Shqipërisë nëse nëpërmjet një personi tjetër mbledh prime në Republikën e Shqipërisë ose siguron rreziqe që ndodhen në Republikën e Shqipërisë.
+7. Pikat 5 dhe 6 të këtij neni nuk zbatohen kur personi që vepron në Republikën e Shqipërisë në emër të një personi jorezident, ushtron biznes në Republikën e Shqipërisë si agjent i pavarur dhe vepron për personin jorezident në rrjedhën e zakonshme të atij biznesi. Kur një person vepron ekskluzivisht në emër të një ose më shumë personave me të cilët është i lidhur ngushtë, ky person nuk do të konsiderohet si agjent i pavarur sipas kuptimit të kësaj pike lidhur me ndonjë person të tillë.
+8. Vetëm fakti që një person jorezident është person i lidhur me një person rezident në Republikën e Shqipërisë (kontrollon ose kontrollohet nga ky person rezident) nuk do të përbëjë në vetvete arsye që ky person jorezident të konsiderohet se ka një seli të përhershme në Republikën ë Shqipërisë.
+9. Një person konsiderohet i lidhur ngushtë me një person tjetër nëse, bazuar në të gjitha faktet dhe rrethanat relevante, njëri ka kontroll mbi tjetrin ose të dy janë nën kontrollin e të njëjtëve persona. Në çdo rast, një person do të konsiderohet se është i lidhur ngushtë me një person tjetër nëse njëri zotëron direkt ose indirekt të paktën 50 për qind të interesit përfitues në tjetrin (ose, në rastin e një shoqërie, jo më pak se 50 për qind të votës dhe vlerës së përgjithshme e aksioneve të shoqërisë ose e interesit të kapitalit të dobishëm në shoqëri) ose nëse një person tjetër zotëron direkt ose indirekt jo më pak se 50 për qind të interesit përfitues (ose, në rastin e një shoqërie, jo më pak se 50 për qind të votës dhe vlerës së përgjithshme të aksioneve të shoqërisë ose të interesit të kapitalit të dobishëm në shoqëri) të personit ose të të dy personave.

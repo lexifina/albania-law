@@ -1,0 +1,6 @@
+# Neni 25
+Kreditimi i tatimit të huaj
+1. Nëse gjatë një viti tatimor tatimpaguesi rezident i tatimit mbi të ardhurat personale realizon të ardhura tatimore nga burime jashtë territorit të Republikës së Shqipërisë, tatimit për t’u paguar nga ai tatimpagues për këto të ardhura duhet t’i zbritet shuma e tatimit të paguar në një vend të huaj mbi këto të ardhura. Shuma e tatimit të huaj të pagueshëm duhet të vërtetohet nga dokumentacioni specifik i lëshuar për këtë qëllim nga vend-i/et i/e huaj-a ku janë realizuar të ardhurat dhe sipas afateve dhe procedurave të përcaktuara në udhëzimin e ministrit përgjegjës për financat.
+2. Shuma e zbritur e tatimit të huaj të paguar, e përcaktuar në pikën 1 të këtij neni, nuk mund të tejkalojë shumën e tatimit mbi të ardhurat personale që do të ishte e pagueshme për këto të ardhura, nëse ato do të ishin realizuar në territorin e Republikës së Shqipërisë.
+3. Kreditimi i tatimit të huaj duhet të llogaritet veçmas për secilin shtet, nëse të ardhurat realizohen nga burime të huaja në më shumë se një shtet.
+4. Kreditimi i tatimit të huaj duhet të llogaritet veçmas për të ardhurat e përfshira në bazën tatimore vjetore dhe për të ardhurat vjetore nga investimi.

@@ -1,0 +1,5 @@
+# Neni 42
+Kreditimi i tatimit të huaj për tatimin mbi të ardhurat nga korporatat
+1. Nëse gjatë një viti tatimor entiteti rezident realizon të ardhura tatimore nga burime jashtë territorit të Republikës së Shqipërisë, tatimit për t’u paguar nga ai entitet për këto të ardhura duhet t’i zbritet shuma e tatimit të paguar në një vend të huaj për këto të ardhura. Shuma e tatimit të huaj të paguar vërtetohet me dokumentacionin specifik të lëshuar për këtë qëllim nga vendi i huaj ku janë realizuar të ardhurat dhe sipas afateve dhe procedurave të përcaktuara në udhëzimin e ministrit përgjegjës për financat.
+2. Kreditimi i tatimit të huaj të paguar të përshkruar në pikën 1 të këtij neni nuk mund të kalojë tatimin e pagueshëm mbi fitimin e tatueshëm për të ardhurat e korporatave nga burimi i huaj nëse këto të ardhura do të ishin realizuar në Republikën e Shqipërisë.
+3. Kreditimi tatimor, siç përcaktohet në këtë nen, llogaritet veçmas për secilin vend të huaj, i cili është burim të ardhurash ose fitimesh, nëse e ardhura është realizuar nga burime të huaja në më shumë se një vend.

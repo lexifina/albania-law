@@ -1,0 +1,4 @@
+# Neni 37
+Kërkesat për dokumentacion
+1. Një tatimpagues duhet të paraqesë informacion dhe analiza të mjaftueshme për të vërtetuar se kushtet e transaksioneve të tij të kontrolluara janë në përputhje me parimet e tregut. Dokumentacioni i transferimit të çmimit duhet t’i vihet në dispozicion administratës tatimore, me kërkesë të saj, brenda 45 ditëve nga marrja e kërkesës së administratës tatimore. Përmbajtja dhe forma e dokumentacionit të transferimit të çmimit përcaktohen me udhëzim të ministrit përgjegjës për financat.
+2. Tatimpaguesit e përfshirë në transaksione të kontrolluara mbi një vlerë të përcaktuar duhet të paraqesin një njoftim apo formular vjetor për transaksionet e kontrolluara. Ministri përgjegjës për financat përcakton me udhëzim kufirin apo vlerën e sipërpërmendur, formatin dhe afatin kohor për paraqitjen e informacionit mbi transaksionet e kontrolluara.

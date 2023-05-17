@@ -1,0 +1,7 @@
+# Neni 29
+Përjashtimi në pjesëmarrje
+1. Në përcaktimin e fitimit të tatueshëm të një entiteti rezident, dividendët e marrë përjashtohen nga e ardhura e tatueshme në qoftë se:
+a) entiteti marrës ka aksione apo pjesëmarrje prej të paktën 10%, në vlerë ose në numër në kapitalin aksionar ose të drejtat e votimit të entitetit shpërndarës; dhe
+b) aksionet ose pjesëmarrja minimale janë mbajtur për një periudhë të pandërprerë prej së paku 24 muajsh.
+2. Pika 1 e këtij neni zbatohet edhe për entitetin jorezident të tatimit mbi të ardhurat e korporatës nëse pjesëmarrja ka të bëjë me veprimtaritë e biznesit të kryera nga një jorezident në Republikën e Shqipërisë nëpërmjet një entiteti të krijuar në Republikën e Shqipërisë.
+3. Nëse dividendët janë shpërndarë nga entiteti pagues për një entitet marrës, i cili nuk i ka mbajtur ende aksionet apo pjesëmarrjen për një periudhë 24-mujore, por që i plotëson kushtet e pikave 1, shkronja “a”, ose 2 të këtij neni, entiteti marrës mund që përkohësisht të kërkojë përjashtimin e dhënë në këto pika, me kusht që të vendosë për administratën tatimore garanci për shumën e tatimit që do të ishte e pagueshme në mungesë të atij përjashtimi. Administrata tatimore mund të tërheqë garancinë nëse entiteti marrës nuk i mban aksionet apo pjesëmarrjet minimalisht për të paktën 24 muaj. Përjashtimi bëhet i formës së prerë dhe garancia i kthehet marrësit në datën që aksionet ose pjesëmarrja është mbajtur minimalisht për 24 muaj.
