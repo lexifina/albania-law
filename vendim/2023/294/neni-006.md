@@ -1,0 +1,5 @@
+# Neni 6
+Verifikimi paraprak
+Struktura përgjegjëse për licencimin e administratorëve, pranë Agjencisë Kombëtare të Falimentimit, administron shprehjet e interesit dhe dokumentacionin shoqërues të kandidatit dhe, brenda 5 (pesë) ditëve nga përfundimi i afatit për paraqitjen e tyre, kryen veprimet e mëposhtme:
+a) kur shprehja e interesit dhe dokumentacioni shoqërues është në përputhje me nenin 5, të këtij vendimi, njofton kandidatin, përmes portalit qeveritar “e-Albania” në rubrikën “Hapësira ime”, për vazhdimin e procedurës së verifikimit të kritereve;
+b) kur shprehja e interesit dhe dokumentacioni shoqërues nuk është në përputhje me nenin 5, të këtij vendimi, njofton kandidatin, përmes portalit qeveritar “e-Albania” në rubrikën “Hapësira ime”, për plotësimin e të metave brenda 5 (pesë) ditëve nga marrja e njoftimit. Struktura përgjegjëse ndihmon në mënyrë aktive kandidatin për plotësimin e të metave të konstatuara. Mosplotësimi i të metave brenda afatit 5-ditor përbën shkak për mospranimin e kërkesës.
