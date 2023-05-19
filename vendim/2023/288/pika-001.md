@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i rrugës Shëngjin-Baks-Rrjoll, segmenti nga km + 0.00 deri në km 7 + 310”.
