@@ -1,0 +1,1 @@
+2. Ministrisë së Turizmit dhe Mjedisit, në buxhetin e vitit 2023, në programin “Zhvillimi i turizmit”, në artikullin 604, i shtohet fondi prej 45 000 000 (dyzet e pesë milionë) lekësh për zhvillimin dhe promovimin e destinacioneve, produkteve dhe diversifikimin e ofertës turistike në turizëm.
