@@ -1,0 +1,1 @@
+1. Dërgimin e 3 (tre) ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë si pjesë e Forcës Shumëkombëshe dhe Vëzhguesve (Multinational Force and Observers, MFO), në Sinai, Republika Arabe e Egjiptit.
