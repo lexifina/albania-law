@@ -7,7 +7,7 @@ c) shërbime të ndërhyrjes së menjëhershme në shpëtimin e jetës së shtet
 d) mirëmbajtjen dhe për funksionimin e sistemit të monitorimit, të paralajmërimit të hershëm të njoftimit dhe alarmit;
 dh) mbajtjen në gatishmëri të sistemeve të mbrojtjes nga zjarri, kalueshmërinë e pandërprerë të rrugëve rurale, vendet e strehimit, si dhe mbledhjen e administrimin e rezervave ushqimore për njerëzit dhe gjënë e gjallë;
 e) mbajtjen në gatishmëri të infrastrukturës së ujitjes, të kullimit, të mbrojtjes nga përmbytja dhe digat e rezervuarëve në administrim të tyre;
-ë) shpenzime të kryera për blerje karburanti dhe pjesë ndërrimi për automjete dhe makineri, të cilat përdoren për përballimin e situatave emergjente të krijuara si pasojë e një fatkeqësie;
+ë) blerjen e automjeteve për përdorim të veçantë, makinave teknologjike dhe mjeteve rrugore të veçanta, të përcaktuara si të tilla, sipas parashikimeve të Kodit Rrugor të Republikës së Shqipërisë, të cilat përdoren për përballimin e situatave emergjente, të krijuara si pasojë e një fatkeqësie, si edhe për shpenzime të kryera për blerje karburanti dhe pjesësh ndërrimi për automjete dhe makineri, të cilat përdoren për përballimin e situatave emergjente, të krijuara si pasojë e një fatkeqësie.
 f) mbulimin e shpenzimeve të tjera operative të kryera gjatë përballimit të ngjarjeve dhe situatave të emergjencës civile;
 g) blerje materialesh të ndryshme, që i shërbejnë veprimtarisë së strukturave të emergjencës civile në nivel vendor;
 gj) marrjen e masave mbrojtëse, parandaluese dhe për financimin e objekteve që ndikojnë në rikthimin e jetës normale për komunitetin dhe veprimtaritë e tij ekonomike;
