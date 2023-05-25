@@ -1,0 +1,1 @@
+9. Marrëveshja e posaçme pas vlerësimit nga Komisioni Ad-hoc i Vlerësimit të Marrëveshjeve të Posaçme dhe nënshkrimit nga palët i përcillet Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor ose institucioneve spitalore universitare për zbatim.

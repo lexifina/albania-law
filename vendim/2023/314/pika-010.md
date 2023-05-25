@@ -1,0 +1,1 @@
+10. Kreu VIII, “Kontrata të posaçme (MEA)”, i vendimit nr.622, datë 22.10.2021, të Këshillit të Ministrave, “Për procedurat që përdoren për lidhjen e kontratave që diktohen nga interesa thelbësorë të shtetit”, shfuqizohet.

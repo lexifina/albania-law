@@ -1,0 +1,1 @@
+8. Propozimet vlerësohen nga Komisioni Ad-hoc i Vlerësimit të Marrëveshjeve të Posaçme (MEA), i ngritur nga ministri përgjegjës për shëndetësinë. Procesi i vlerësimit kryhet brenda 60 (gjashtëdhjetë) ditëve nga data e regjistrimit të propozimit pranë ministrisë përgjegjëse për shëndetësinë.

@@ -1,0 +1,1 @@
+4. Marrëveshjet e posaçme (MEA) të bazuara në performancë janë ato marrëveshje të cilat lidhen për barna origjinatorë me çmimin CIF më të ulët se çmimi i miratuar nga ministria përgjegjëse për shëndetësinë, që përfshihen në skemat e trajtimit terapeutik për grup të caktuar pacientësh ku risku i efektshmërisë së barit apo efikasiteti i trajtimit ndahet ndërmjet palëve.
