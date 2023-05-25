@@ -8,7 +8,7 @@ E SHQIPËRISË
 
 (Shfuqizuar nene me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017, ndryshuar me ligjin nr. 48/2019, datë 18.7.2019, nr. 15/2020, datë 12.2.2020; nr. 149/2020, datë 17.12.2020;
 
-nr. 50/2021, datë 23.3.2021)
+nr. 50/2021, datë 23.3.2021; nr. 33/2023, datë 25.5.2023)
 
 (i përditësuar)
 
@@ -336,7 +336,7 @@ Neni 12
 
 Caktimi i pagës së magjistratit
 
-(ndryshuar shkronja “d” e pikës 5 me ligjin nr. 15/2020, datë 12.2.2020; ndryshuar shkronja “a” e pikës 5, ndryshuar fjalë në shkronjën “d” të pikës 5 me ligjin nr. 50/2021, datë 23.3.2021)
+(ndryshuar shkronja “d” e pikës 5 me ligjin nr. 15/2020, datë 12.2.2020; ndryshuar shkronja “a” e pikës 5, ndryshuar fjalë në shkronjën “d” të pikës 5 me ligjin nr. 50/2021, datë 23.3.2021; ndryshuar shkronja “a” e pikës 5 me ligjin nr. 33/2023, datë 25.3.2023)
 
 1. Paga e magjistratit caktohet sipas përkatësisë së magjistratit në grupin dhe nivelin e pagës. 
 
@@ -354,7 +354,7 @@ c) magjistrati që ushtron funksionin në Gjykatën e Lartë dhe Prokurorinë e 
 
 5. Paga mujore bruto e magjistratit përbëhet nga elementet si vijon: 
 
-a) paga referuese bazë për funksionet gjyqësore dhe të prokurorisë, e cila është e njëjtë me vlerën e elementit “shtesa për pozicion” të pagës mujore të pozicionit drejtor i drejtorisë së përgjithshme apo të çdo pozicioni tjetër të barasvlershëm me të në Kryeministri. “Shtesa për pozicion” është elementi bazë i pagës mujore të nëpunësve civilë, nëpërmjet së cilës caktohet vlera e çdo vendi pune në shërbimin civil, pa u diktuar nga ndryshimet e pagës që shkaktohen nga rrethanat e posaçme ose individuale të vetë nëpunësit civil si vjetërsia apo shtesa për kushte pune. Për qëllimet e caktimit të pagës referuese bazë për funksionet gjyqësore dhe të prokurorisë, “shtesa për pozicion”  është i njëjti element i pagës si edhe elementi “paga bazë e kategorisë”, sipas përcaktimeve të ligjit për nëpunësin civil, apo me çdo lloj emërtimi tjetër që cakton elementin bazë të pagës mujore të pozicionit drejtor i drejtorisë së përgjithshme apo të çdo pozicioni tjetër të barasvlershëm me të në Kryeministri. Referimi i pagës mujore bazë për funksionet gjyqësore dhe të prokurorisë me vlerën e elementit “shtesa për pozicion” ose “paga bazë e kategorisë” sipas përcaktimeve të mësipërme, nuk ka si qëllim të përcaktojë vlerën relative të funksioneve gjyqësore dhe të prokurorisë me pozicionet e punës në shërbimin civil ose të mundësojë klasifikimin e tij në kategorinë ose klasën përkatëse;
+a) paga referuese bazë për funksionet gjyqësore dhe të prokurorisë, e cila është e njëjtë me shumëzimin e koeficientit 0.36 me pagën e Presidentit të Republikës. Paga referuese bazë për funksionet gjyqësore dhe të prokurorisë indeksohet me vendim të Këshillit të Ministrave jo më vonë se dy vjet nga indeksimi i fundit. Niveli i indeksimit në çdo rast nuk kalon një pikë përqindjeje mbi nivelin e targetuar të inflacionit nga Banka e Shqipërisë;
 
 b) shtesa për pagën në grup, e cila është shuma që rezulton nga shumëzimi i pagës referuese bazë me koeficientin në përqindje, sipas funksionit që magjistrati ushtron, referuar pikës 2, të këtij neni, përkatësisht:
 
@@ -3860,6 +3860,14 @@ b) Brenda një viti nga krijimi i Këshillit, aktet e tjera.
 
 6. Çdo akt nënligjor i miratuar përpara hyrjes në fuqi të këtij ligji zbatohet për sa nuk bie në kundërshtim me këtë ligj.
 
+Dispozitë tranzitore
+
+(e ligjit nr. 33/2023, datë 25.5.2023)
+
+1. Paga referuese bazë për funksionet gjyqësore dhe të prokurorisë indeksohet për herë të parë nga Këshilli i Ministrave jo më herët se data 1.1.2026.
+
+2. Për vitin 2023 paga referuese bazë për funksionet gjyqësore dhe të prokurorisë përllogaritet sipas këtij ligji nga data 1 prill, duke u bazuar, për efekt të përllogaritjes, në pagën e Presidentit të Republikës me vlerë 425000 (katërqind e njëzet e pesë mijë) lekë.
+
 Neni 175
 
 Hyrja në fuqi
@@ -3870,4 +3878,4 @@ KRYETARI
 
 Ilir Meta
 
-Miratuar në datën 6.10.2016
+Miratuar në datën 6.10.2016.
