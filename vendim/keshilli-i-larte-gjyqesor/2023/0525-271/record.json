@@ -1,0 +1,28 @@
+{
+  "qbz_id": 25956,
+  "title": "Për fillimin e funksionimit të Gjykatës Administrative të Shkallës së Parë Tiranë të riorganizuar",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "271",
+  "institution": "Këshilli i Lartë Gjyqësor",
+  "adopted": "2023-05-25",
+  "published": "2023-05-26",
+  "in_force": "2023-05-26",
+  "in_force_basis": "\"hyn në fuqi me botimin në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/63d903c8a7a7b3d356620620ee92789d24d5280c2ccde33bd919b497ab6cfa46.docx",
+  "source_sha256": "63d903c8a7a7b3d356620620ee92789d24d5280c2ccde33bd919b497ab6cfa46",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25956",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/05/25/271",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    26079
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
