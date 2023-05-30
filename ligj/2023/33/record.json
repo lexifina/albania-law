@@ -1,0 +1,28 @@
+{
+  "qbz_id": 25972,
+  "title": "Për një ndryshim në ligjin nr. 96/2016, “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "33",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2023-05-25",
+  "published": "2023-05-30",
+  "in_force": "2023-05-30",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/9b7d3f589468ef4323740303897914005c9db4b08cd373260720048a69b64429.docx",
+  "source_sha256": "9b7d3f589468ef4323740303897914005c9db4b08cd373260720048a69b64429",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25972",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2023/05/25/33",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    33034
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
