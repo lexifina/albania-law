@@ -1,0 +1,1 @@
+4. Vendimi nr. 399, datë 27.3.2008, i Këshillit të Ministrave, “Për miratimin e masës së shpërblimit të anëtarëve të rregullt, të anëtarëve të përhershëm dhe të anëtarëve të asociuar të Akademisë së Shkencave”, i ndryshuar, shfuqizohet.

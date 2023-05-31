@@ -1,0 +1,1 @@
+3. Akademisë së Shkencave, në buxhetin e miratuar për vitin 2023, i shtohet fondi prej 15 900 000 (pesëmbëdhjetë milionë e nëntëqind mijë) lekësh, i cili përballohet nga fondi i kontingjencës, i buxhetit të vitit 2023.

@@ -1,0 +1,1 @@
+1. Anëtarët e Asamblesë së Akademisë së Shkencave përfitojnë një shpërblim mujor të përhershëm, për titullin “Akademik”, në masën 100 000 (njëqind mijë) lekë, dhe për titullin “Akademik i asociuar”, në masën 70 000 (shtatëdhjetë mijë), edhe nëse marrin statusin e anëtarit “Emeritus”.
