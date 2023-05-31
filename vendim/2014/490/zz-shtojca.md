@@ -966,3 +966,53 @@ konfirmuar nga ZVRPP
 SHUMA
 32724
 173753243
+LISTA EMËRORE E PRONARËVE QË SHPRONËSOHEN PËR INTERES PUBLIK, PËR REALIZIMIN E PROJEKTIT “PËR NJË SHTESË DHE DISA NDRYSHIME NË VKM-në NR. 490, DATË 22.7.2014, ’PËR SHPRONËSIMIN PËR INTERES PUBLIK TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE TË CILAT PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR ’BY PASS PLEPA-KAVAJË-RROGOZHINË (LOTI 7, RRUGËT DYTËSORE)’”
+Nr.
+Pronari
+Të dhënat kadastrale (sipas kartelës së pasurisë)
+Të dhënat për shpronësim
+Adresa
+Emri
+Atësia
+Mbiemri
+Z.K.
+Nr. i pasurisë
+Lloji i pasurisë
+Sip.totale (m2)
+Sip. e shpronësimit (m2)
+Çmimi (lek/m2)
+Vlera totale (lek)
+Shënime
+96
+MYRIBAN
+ABDYL
+PERPALI
+8552
+12/308
+arë
+420
+420
+329
+138,180.00
+Konfirmuar nga ASHK-ja pjesë autostrade
+BASHKIA KAVAJË
+97
+LINDITA
+MYSLIM
+SHTINI
+8552
+18/469
+arë
+140
+119
+329
+39,151.00
+Konfirmuar nga ASHK-ja kalon autostrada dhe rruga dytësore
+BASHKIA KAVAJË
+ARLIND
+ASTRIT
+SHTINI
+VLERA TOTALE
+560
+539
+177,331.00
