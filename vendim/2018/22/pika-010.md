@@ -1,1 +1,1 @@
-10. Struktura/objekti, ku ofrohet ushqim dhe pije, duhet të ketë 6 deri në 60 tavolina. Ofrimi i ushqimit dhe i pijeve bëhet në ambiente të përshtatshme dhe duhet të plotësojë kriteret e parashikimeve të legjislacionit në fuqi për sigurinë e ushqimeve dhe kushtet higjieno-sanitare.
+10. Struktura/objekti, ku ofrohet ushqim dhe pije, duhet të ketë 10 deri në 80 vende uljeje. Ofrimi i ushqimit dhe i pijeve bëhet në ambiente të përshtatshme dhe duhet të plotësojë kriteret e parashikimeve të legjislacionit në fuqi për sigurinë e ushqimeve dhe kushtet higjieno-sanitare.

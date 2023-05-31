@@ -1,6 +1,6 @@
 2. Agroturizmi mbështet zhvillimin e turizmit të qëndrueshëm të zonave rurale nëpërmjet mbrojtjes së mjedisit, ruajtjes së traditave dhe promovimit të produkteve tipike të zonës.
 2.1. Agroturizmi, si formë e veçantë e turizmit rural, është i orientuar drejt përdorimit të burimeve lokale të turizmit dhe ka si synim nxitjen e modeleve alternative të zhvillimit të produkteve turistike, nxitjen e prodhimit bujqësor/blegtoral, zhvillimin e zonave rurale, si dhe krijimin e një tregu të ri për produktet bujqësore/blegtorale.
-2.2. Agroturizmi duhet të ofrojë njëkohësisht zotërimin e një ferme bujqësore/blegtorale, shërbimin e akomodimit, të ushqimit dhe të aktiviteteve rekreative.
+2.2 Agroturizmi duhet të zotërojë një fermë bujqësore ose blegtorale ose njësi agrikulturore dhe të ofrojë aktivitete argëtuese/edukative, shërbimin e ushqimit e pijes dhe akomodim .
 2.3. Veprimtaria pritëse zhvillohet në fermat bujqësore/blegtorale, në të cilat ofrohen aktivitete të lidhura me prodhimin bujqësor/blegtoral, por duke mos cenuar mjedisin. Përfshirja e vizitorëve në aktivitetet e lidhura me fermën duhet të jetë me qëllim argëtues, edukues apo veprimtari të tjera të lidhura me mjedisin përreth.
 2.4. Në kuptim të këtij vendimi, me termat e mëposhtëm nënkuptojmë:
 a) “Strukturë/objekt akomodues në funksion të agroturizmit”, struktura që vë në dispozicion të turistëve, vendas apo të huaj, individë ose të organizuar në grupe, shërbimet e akomodimit e të pritjes dhe aktiviteteve rekreative në përputhje me kriteret e përcaktuara në këtë vendim.

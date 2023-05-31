@@ -1,5 +1,6 @@
 8. Struktura/objekti akomodues dhe pritës, në funksion të agroturizmit, duhet të respektojë:
 a) kushtet e zhvillimit për ndërtim, të përcaktuara në planet e përgjithshme vendore ose në legjislacionin sektorial për planifikimin dhe zhvillimin e territorit;
+a/1) në varësi të llojit të strukturës/objektit, kriteret dhe kushtet e përcaktuara në vendimin nr. 711, datë 12.10.2016, të Këshillit të Ministrave, “Për miratimin e rregullores për kushtet dhe kriteret për projektimin dhe ndërtimin e strukturave akomoduese.
 b) në varësi të llojit të strukturës/objektit, kriteret dhe kushtet e përcaktuara në vendimin nr.730, datë 20.10.2016, të Këshillit të Ministrave, “Për miratimin e rregullores për kushtet, kriteret, tarifat, afatet dhe procedurën për klasifikimin e strukturave akomoduese”, të ndryshuar;
 c) atje ku është e mundur, karakteristikat/gjuhën arkitektonike të zonës.
 8/1. Kriteret e përcaktuara në këtë vendim shërbejnë dhe janë të detyrueshme për zbatim nga ana e autoriteteve përgjegjëse të planifikimit dhe zhvillimit të territorit për hartimin e dokumenteve të planifikimit në të gjitha nivelet.
