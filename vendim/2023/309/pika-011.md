@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës, Zyra Vendore Skrapar, pezullon të gjitha transaksionet me pasurinë e shpronësuar, deri në momentin e realizimit të procesit të hedhjes së gjurmës së projektit mbi hartën kadastrale dhe regjistrimin e kalimit të pronësisë në favor të Bashkisë Skrapar për pasurinë e shpronësuar, sipas këtij vendimi.

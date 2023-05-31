@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, pronë private, që shpronësohet, kompensohet në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për pasurinë e llojit “njësi”, me një vlerë të përgjithshme prej 643 857 (gjashtëqind e dyzet e tre mijë e tetëqind e pesëdhjetë e shtatë) lekësh.
