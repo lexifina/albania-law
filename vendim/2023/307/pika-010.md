@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Elbasan, brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, nis procedurat për hedhjen e gjurmës së projektit mbi hartën kadastrale, sipas planimetrisë së shpronësimit të miratuar, dhe regjistrimin e kalimit të pronësisë, sipas këtij vendimi, për pasuritë e shpronësuara në favor të Bashkisë Elbasan.

@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i rrugës ’Nezir Muzhaqi’, në zonën kadastrale 8522”, Bashkia Elbasan.
