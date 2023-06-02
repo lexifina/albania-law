@@ -1,0 +1,1 @@
+2. Njësitë kryesore ekzistuese, Qendra Kërkimore e Enciklopedisë Shqiptare dhe Botimeve dhe personeli akademik i këtyre njësive, aktualisht pranë Akademisë së Studimeve Albanologjike riorganizohen si njësi të kërkim-studimit pranë Akademisë së Shkencave të Shqipërisë, brenda datës 31 dhjetor 2023.

@@ -1,0 +1,1 @@
+5. Akademia e Studimeve Albanologjike të marrë masa që të vijojë ushtrimin e veprimtarisë së saj akademike, kërkimore-shkencore, administrative dhe financiare, deri në transferimin e plotë të njësive përbërëse pranë Akademisë së Shkencave të Shqipërisë, sipas përcaktimeve të këtij vendimi.
