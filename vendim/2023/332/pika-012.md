@@ -1,0 +1,2 @@
+12. Ngarkohen Ministria e Infrastrukturës dhe Energjisë, shoqëria “G2 Infra” sh.p.k., Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Krujë, Drejtoria e Administrimit dhe e Mbrojtjes së Tokës pranë Këshillit të Qarkut Durrës, Drejtoria e Administrimit dhe e Mbrojtjes së Tokës pranë Këshillit të Qarkut Tiranë dhe Agjencia Shtetërore për Shpronësimin për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
