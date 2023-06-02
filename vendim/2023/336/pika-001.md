@@ -1,0 +1,1 @@
+1. Miratimin e kontratës, ndërmjet Ministrisë së Mbrojtjes së Republikës së Shqipërisë dhe BAYKAR MAKINA SAN. VE. TIC. A.Ş., për furnizimin me sistem mjetesh ajrore pa pilot BAYRAKTAR TB2, që i bashkëlidhet këtij vendimi.
