@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 250 489 332 (dyqind e pesëdhjetë milionë e katërqind e tetëdhjetë e nëntë mijë e treqind e tridhjetë e dy) lekë pa TVSH, për financimin e realizimit të projektzbatimit, me objekt “Përforcim struktural dhe rikompozim i godinës së Ministrisë së Drejtësisë”.
