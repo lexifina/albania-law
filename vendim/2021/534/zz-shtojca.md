@@ -702,3 +702,185 @@ are
 Konfirmuar nga ASHK-ja
 Shuma totale
 27,694,048
+Me VKM-në nr. 333, datë 31.5.2023 në tabelën, që i bashkëlidhen vendimit nr. 534, datë 22.9.2021 bëhen këto ndryshime dhe shtesa:
+i. të dhënat e nënndarjeve me numrat rendorë 8, 28 dhe 30, që i përkasin, përkatësisht, pasurive nr. 6/13, nr. 3/1 dhe nr. 2/221, zona kadastrale 8517, si dhe nënndarja “Shuma totale”, zëvendësohen me të dhënat e pasqyruara në seksionin A, të tabelës që i bashkëlidhet këtij vendimi;
+ii. përmbajtja e nënndarjes me numrin rendor 27, që i përket pasurisë me nr. 5/4, zona kadastrale 8517, shfuqizohet;
+iii. pas nënndarjes me numër rendor 62 shtohen nënndarjet me numrat rendorë 63, 64, 65, 66, 67, 68, 69, 70 dhe 71, që i përkasin, përkatësisht, pasurive nr. 5/8, nr. 3/6, nr. 3/5, nr. 3/15, nr. 3/3, nr. 3/7, nr. 3/13, nr. 3/12 dhe nr. 2/220, sipas të dhënave të pasqyruara në seksionin B, të tabelës që i bashkëlidhet këtij vendimi.
+SEKSIONI A
+Nr.
+Pronari
+Lloji i pasurisë
+Sipërfaqe shpronësimi
+Çmimi lekë/(m2)
+Vlera (lekë)
+Shënime
+Emri
+Atësia
+Mbiemri
+Zona
+Numri i
+Sip.
+kadastrale
+pasurisë
+totale
+8
+Vivjana
+Luca
+8517
+6/13
+4000
+Arë
+1017
+420
+427,140.00
+Konfirmuar nga ASHK-ja
+28
+Çezarina
+Çezar
+Larushi
+8517
+3/1
+4000
+Arë
+143
+420
+60,060.00
+Konfirmuar nga ASHK-ja
+30
+Aldoch Farma sh.p.k.
+8517
+2/221
+5000
+Truall
+821
+3119
+2,560,699.00
+Konfirmuar nga ASHK-ja
+Vihet në favor të Credins Bank
+Shuma totale
+30 349 958
+SEKSIONI B
+Nr.
+Pronari
+Lloji i pasurisë
+Sipërfaqe shpronësimi
+Çmimi lekë/(m2)
+Vlera (lekë)
+Shënime
+Emri
+Atësia
+Mbiemri
+Zona
+Numri i
+Sip.
+kadastrale
+pasurisë
+totale
+63
+Merita
+Ramadan
+Doçi
+8517
+5/8
+8000
+Arë
+6907
+420
+2,900,940.00
+Konfirmuar nga ASHK-ja
+64
+Hene
+Xhani
+8517
+3/6
+24000
+Arë
+7469
+420
+3,136,980.00
+Konfirmuar nga ASHK-ja
+Etleva
+Aliaj
+Majlinda
+Xhani
+Altin
+Xhani
+Kastriot
+Xhan
+65
+Suzana
+Abdyl
+Gjuzi
+8517
+3/5
+8000
+Arë
+1633
+420
+685,860.00
+Konfirmuar nga ASHK-ja
+66
+Bajram
+Alla
+8517
+3/15
+14000
+Arë
+2783
+420
+1,168,860.00
+Konfirmuar nga ASHK-ja
+67
+Hatixhe
+Besim
+Papa
+8517
+3/3
+4000
+Arë
+875
+420
+367,500.00
+Konfirmuar nga ASHK-ja
+68
+Komuniteti Mysliman Shqiptar
+8517
+3/7
+200
+Arë
+20
+420
+8,400.00
+Konfirmuar nga ASHK-ja
+69
+Dashnor
+Xhamuça
+8517
+3/13
+3000
+Arë
+947
+420
+397,740.00
+Konfirmuar nga ASHK-ja Vihet në hipotekë në favor të Bankës Popullore 2008. Hiqen nga hipoteka në vitin 2008
+70
+Dashnor
+Xhamuça
+8517
+3/12
+5530
+Arë
+918
+420
+385,560.00
+Konfirmuar nga ASHK-ja Vihet në hipotekë në favor të Bankës Popullore 2008. Hiqen nga hipoteka në vitin 2009
+71
+Aldoch Farma sh.p.k.
+8517
+2/220
+1600
+Truall
+30
+3119
+93,570.00
+Konfirmuar nga ASHK-ja Në favor të Bankës Credins në vitet 2014-2019
