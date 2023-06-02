@@ -1,0 +1,6 @@
+# Neni 20
+Dorëzimi i ofertave
+1. Ofertat duhet të dorëzohen dorazi në adresën e përcaktuar në dokumentet e procedurës konkurruese, brenda afatit kohor të specifikuar në dokumentet e procedurës konkurruese, të përcaktuar si afati i fundit për dorëzimin e ofertave. Çdo ofertë e dorëzuar pas afatit të përcaktuar në njoftimin e institucionit përgjegjës nuk do të shqyrtohet nga komisioni i vlerësimit të ofertave dhe do t’i kthehet e pahapur ofertuesit.
+2. Ofertat do të dorëzohen në zarf dhe do të paraqiten sipas kushteve të publikuara në dokumentet standarde të procedurës konkurruese. Zarfet duhet të jenë të nënshkruara dhe të vulosura me vulën e kandidatit/ofertuesit pjesëmarrës në konkurrim. Mosparaqitja, sipas përcaktimit apo mungesa e një elementi të përcaktuar për prezantimin e tij, e bën ofertën të pavlefshme. Në këtë rast, zarfi nuk do të hapet, oferta do të skualifikohet dhe dokumentacioni nuk do t’i kthehet kandidatit/ofertuesit.
+3. Afati për paraqitjen e ofertave është jo më pak se 30 (tridhjetë) ditë kalendarike nga data në të cilën është botuar formulari për njoftimin e kontratës.
+4. Procesi i përzgjedhjes së fituesit nga komisioni i vlerësimit të ofertave do të vazhdojë edhe në qoftë se është dorëzuar vetëm 1 (një) ofertë.

@@ -1,0 +1,7 @@
+# Neni 24
+Ankimi në institucionin përgjegjës
+Çdo kandidat/ofertues ka të drejtë të paraqesë ankesë kur pretendon se një vendim i institucionit përgjegjës është marrë në kundërshtim me aktet ligjore dhe nënligjore në fuqi, duke ndjekur procedurën, si më poshtë vijon:
+1. Ankesa i paraqitet me shkrim institucionit përgjegjës, brenda 7 (shtatë) ditëve pune nga data kur ankimuesi është vënë në dijeni për mospranimin e ofertës.
+2. Me marrjen e ankesës me shkrim, institucioni përgjegjës pezullon vazhdimin e procedurës, derisa ankesa të jetë shqyrtuar plotësisht dhe njofton ankuesin për pezullimin.
+3. Ankesa në institucionin përgjegjës bëhet me formularin përkatës, i cili miratohet me DST, ku shënohen emri dhe adresa e ankuesit, referimi për procedurën konkrete, baza ligjore dhe përshkrimi i shkeljes, pretendimi i ankuesit për vendimin përfundimtar dhe dokumentacionin përkatës dhe vendimi i institucionit përgjegjës. Elementet e lartpërmendura janë të domosdoshme për shqyrtimin e ankesës.
+4. Institucioni përgjegjës ngarkon për shqyrtimin e ankesës një komision të posaçëm të miratuar nga titullari, shqyrton ankesën dhe merr një vendim të arsyetuar brenda 7 (shtatë) ditëve pas marrjes së ankesës, të cilin duhet t’ia njoftojë ankuesit, jo më vonë se në ditën vijuese të punës. Në çdo rast, shtyrja e afatit të shqyrtimit të ankesës bëhet me vendim të arsyetuar dhe i njoftohet elektronikisht subjektit ankues nëpërmjet adresës elektronike të kontaktit të publikuar në formularin e njoftimit.

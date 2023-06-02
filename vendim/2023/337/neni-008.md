@@ -1,0 +1,8 @@
+# Neni 8
+Udhëzimet për ofertuesit
+1. Udhëzimet duhet të përmbajnë të gjithë informacionin e duhur për përgatitjen e ofertës. Në to, ndër të tjera, jepet informacion për vendndodhjen e parkut, statusin e truallit, për të cilën do të ndërtohet parku, lidhjen me infrastrukturën e jashtme, kushtet gjeoteknike dhe hidrogjeologjike të tokës, nëse disponohen, për infrastrukturën rrugore, sistemin e kanalizimeve të ujërave, sistemin e ujërave të pijshme dhe industriale, sistemin energjetik, informacion për tregun e punës.
+2. Në udhëzim duhet të përcaktohet edhe mënyra e dhënies së informacionit (on-line/me shkresë) për të gjithë kandidatët/ofertuesit që mund të kërkojnë sqarime për dokumentacionin e procedurës konkurruese.
+3. Kërkesa për sqarime duhet të paraqitet me shkrim ose on-line në adresën elektronike të kontaktit të publikuar, jo më vonë se 5 (pesë) ditë para përfundimit të afatit të dorëzimit të ofertave dhe përgjigjet përkatëse të institucionit përgjegjës duhet t’u dërgohen të gjithë ofertuesve, pa asnjë përjashtim.
+4. Çdo ndryshim në dokumentet e procedurës konkurruese duhet t’i komunikohet çdo kandidati/ofertuesi të interesuar, në përputhje me rregullat e mësipërme.
+5. Në këtë rast, afati i dorëzimit të ofertave mund të shtyhet në përputhje me rrethanat, por jo më shumë se 7 (shtatë) ditë. Shtyrja e afatit kohor, nëse kërkohet si rezultat i modifikimit të dokumenteve të procedurës konkurruese, hyn në fuqi vetëm pas miratimit me shkrim nga titullari i institucionit përgjegjës.
+6. Në udhëzime duhet të jepen informacione për procedurat e rishikimit dhe të dorëzimit të ankesave.
