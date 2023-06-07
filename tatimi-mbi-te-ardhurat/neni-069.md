@@ -44,3 +44,5 @@ Më tepër
 Më tepër
 22 100 lekë + 23% të shumës mbi 200 000 lekë
 3. Neni 54 i këtij ligji aplikohet për humbjet e krijuara nga viti 2024 e në vijim.
+4. Përjashtimisht parashikimeve të ligjit nr. 8438, datë 28.12.1998, “Për tatimin mbi të ardhurat”, të ndryshuar, tatimpaguesit, eksportues të mallrave në regjimin e përpunimit aktiv, të cilët në vitin 2022 kanë eksportuar jo më pak se 70% të vlerës së përgjithshme të shitjeve, përfshirë eksportet, nuk paguajnë këstet që parapaguhen në muajt qershor, shtator dhe dhjetor të vitit 2023.
+5. Deri në datën e fillimit të efekteve të këtij ligji, sipas përcaktimit të nenit 72 të tij, zbatohen parashikimet e ligjit nr. 8438, datë 28.12.1998, “Për tatimin mbi të ardhurat”, të ndryshuar.
