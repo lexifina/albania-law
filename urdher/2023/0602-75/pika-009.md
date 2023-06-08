@@ -1,0 +1,1 @@
+9. Autoritetet shtetërore përgjegjëse kryejnë mbledhjen, përpunimin, evidentimin dhe fshirjen e të dhënave personale për shtetasit e huaj, në përputhje edhe me aktet e tjera ligjore dhe nënligjore të miratuara sipas fushës së përgjegjësisë.

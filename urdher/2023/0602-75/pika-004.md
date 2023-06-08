@@ -1,0 +1,1 @@
+4. Personat e autorizuar për mbledhjen dhe përpunimin e të dhënave, si dhe ata që kanë akses në këto të dhëna, për shkak të detyrës, i nënshtrohen detyrimit të ruajtjes së konfidencialitetit dhe mospërhapjes së asnjë të dhëne personale, përveç kur parashikohet ndryshe me ligj.

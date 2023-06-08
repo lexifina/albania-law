@@ -1,0 +1,1 @@
+8. Në zbatim të legjislacionit në fuqi për mbrojtjen e të dhënave personale, të merren masa nga autoritetet shtetërore përgjegjëse për garantimin e sigurisë së të dhënave gjatë mbledhjes, përpunimit, evidentimit dhe fshirjes së tyre.

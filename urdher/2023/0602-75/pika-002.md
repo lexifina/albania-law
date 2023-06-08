@@ -1,0 +1,1 @@
+2. Autoritetet përgjegjëse shtetërore mbledhin dhe administrojnë nga organet shtetërore, subjektet private, shtetas shqiptarë apo të huaj, të dhëna personale për të huajt vetëm në funksion të procedurave të pajisjes me vizë, pajisjes me leje qëndrimi dhe leje unike, procedurave të miratimit për punësim dhe deklarimit për punësim.

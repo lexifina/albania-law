@@ -1,0 +1,1 @@
+5. Mbledhja dhe përpunimi i të dhënave personale të kryhet vetëm për qëllime legjitime të përcaktuara qartë, duke respektuar dhe garantuar të drejtat dhe liritë themelore të njeriut dhe në veçanti, të drejtën e ruajtjes së jetës private.
