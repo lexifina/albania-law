@@ -4,7 +4,7 @@ Nr.9975, datë 28.7.2008
 
 PËR TAKSAT KOMBËTARE
 
-(Ndryshuar me ligjet: nr. 10065, datë 29.1.2009; nr.10 131, datë 11.5.2009; nr.10145, datë 28.9.2009; nr.10280, datë 20.5.2010; nr.10 458, datë 21.7.2011; nr.83/2012, datë 13.9.2012; nr.120/2013, datë 18.4.2013; nr.178, datë 28.12.2013; nr. 86/2014, datë 17.7.2014; nr.157, datë 27.11.2014; nr.141/2015, datë 17.12.2015; nr.127/2016, datë 15.12.2016, nr. 68/2017, datë  27.4.2017, nr. 104/2017, datë 30.11.2017, nr. 93/2018, datё 3.12.2018, nr. 55/2019, datë 18.7.2019, nr. 86/2019, 18.12.2019, nr. 153/2020, datë  17.12.2020; nr. 151/2020, datë 17.12.2020, nr. 112/2021, datë 25.11.2021)
+(Ndryshuar me ligjet: nr. 10065, datë 29.1.2009; nr.10 131, datë 11.5.2009; nr.10145, datë 28.9.2009; nr.10280, datë 20.5.2010; nr.10 458, datë 21.7.2011; nr.83/2012, datë 13.9.2012; nr.120/2013, datë 18.4.2013; nr.178, datë 28.12.2013; nr. 86/2014, datë 17.7.2014; nr.157, datë 27.11.2014; nr.141/2015, datë 17.12.2015; nr.127/2016, datë 15.12.2016, nr. 68/2017, datë  27.4.2017, nr. 104/2017, datë 30.11.2017, nr. 93/2018, datё 3.12.2018, nr. 55/2019, datë 18.7.2019, nr. 86/2019, 18.12.2019, nr. 153/2020, datë  17.12.2020; nr. 151/2020, datë 17.12.2020, nr. 112/2021, datë 25.11.2021, nr. 38/2023, datën 8.6.2023)
 
 (i përditësuar) 
 
@@ -276,7 +276,7 @@ Neni 9
 
 Përjashtimet nga pagimi i taksave kombëtare
 
-(ndryshuar me ligjin nr.10280, datë 20.5.2010; ndryshuar pika 1  me ligjin nr. 10 458, datë 21.7.2011; shtuar pika 1/1 me ligjin nr.120/2013, datë 18.4.2013; shtuar pika 4 me ligjin nr. 178, datë 28.12.2013; shtuar pika 4me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar shkronja “b” e pikës 1, shkronja “c” , shtuar pika 6 me ligjin nr. 157, datë 27.11.2014; shtuar pika 7 me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar shkronjat “c” , “ç’ e pikës 1 dhe shkronja “c” e pikës 7 me ligjin nr.127/2016, datë 15.12.2016; shtuar fjalë në pikën 1/1, ndryshuar fjalia e parë në pikën 4, hequr nënpikat “i”-“vii” të shkronjës “ç”, shtuar fjalë në pikën 7 me ligjin nr. 93/2018, datё 3.12.2018, shtuar shkronjat “dh”, “e”, “ë” dhe “f” në pikën 4 me ligjin nr. 55/2019, datë 18.7.2019, shtuar fjalë në shkronjën “ç” të pikës 1 me ligjin nr. 86/2019, 18.12.2019, shtuar pika 8 me ligjin nr. 112/2021, datë 25.11.2021 )
+(ndryshuar me ligjin nr.10280, datë 20.5.2010; ndryshuar pika 1  me ligjin nr. 10 458, datë 21.7.2011; shtuar pika 1/1 me ligjin nr.120/2013, datë 18.4.2013; shtuar pika 4 me ligjin nr. 178, datë 28.12.2013; shtuar pika 4me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar shkronja “b” e pikës 1, shkronja “c” , shtuar pika 6 me ligjin nr. 157, datë 27.11.2014; shtuar pika 7 me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar shkronjat “c” , “ç’ e pikës 1 dhe shkronja “c” e pikës 7 me ligjin nr.127/2016, datë 15.12.2016; shtuar fjalë në pikën 1/1, ndryshuar fjalia e parë në pikën 4, hequr nënpikat “i”-“vii” të shkronjës “ç”, shtuar fjalë në pikën 7 me ligjin nr. 93/2018, datё 3.12.2018, shtuar shkronjat “dh”, “e”, “ë” dhe “f” në pikën 4 me ligjin nr. 55/2019, datë 18.7.2019, shtuar fjalë në shkronjën “ç” të pikës 1 me ligjin nr. 86/2019, 18.12.2019, shtuar pika 8 me ligjin nr. 112/2021, datë 25.11.2021, ndryshuar pika 8 me ligjin nr. 38/2023, datë 8.6.2023)
 
 1. Përjashtohen nga pagimi i taksës vjetore të mjeteve të përdorura:
 
@@ -360,7 +360,9 @@ c) pagesat e taksës së mjeteve të bllokuara me vendim të gjykatës, të prok
 
 ç) të gjitha detyrimet e prapambetura të taksës së përvitshme dhe të regjistrimit të mjeteve luksoze të sekuestruara apo të konfiskuara me vendim të formës së prerë të gjykatës, të cilat i kalojnë në administrim Agjencisë së Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara ose Drejtorisë së Përgjithshme të Rezervave Materiale të Shtetit për qëllime përdorimi apo rishitjeje.
 
-8. Përjashtohen nga pagimi i taksës për qumështin pluhur, taksës për hirrë qumështi dhe taksës për krem qumështi, fabrikat e prodhimit dhe përpunimit të qumështit dhe nënprodukteve të tij, të cilat në etiketën e miratuar nga Autoriteti Kombëtar i Ushqimit kanë të evidentuar sasinë në përqindje të këtyre produkteve që janë trupëzuar në produktin përfundimtar. Kriteret, kushtet dhe procedurat e përjashtimit sipas kësaj pike përcaktohen me udhëzim të përbashkët të ministrit përgjegjës për financat dhe ministrit përgjegjës për kontrollin ushqimor.
+8. Subjektet e përpunimit të qumështit dhe nënprodukteve të tij, si dhe subjektet e prodhimit të produkteve ushqimore të ambalazhuara, të cilat kanë në përbërje të tyre qumësht pluhur të klasifikuar në kodet 0402 10 19 dhe 0402 21 18 të NKM-së, hirrë qumështi të klasifikuar në kreun 0404 10 të NKM-së dhe krem qumështi të klasifikuar në kreun 0402 të NKM-së, përjashtohen nga pagimi i taksës për qumështin pluhur, taksës për hirrë qumështi dhe taksës për krem qumështi vetëm për sasinë e importuar, për qëllim prodhimi, në përputhje me etiketën e produktit të miratuar nga Autoriteti Kombëtar i Ushqimit, ku evidentohet sasia në përqindje të këtyre produkteve, që janë trupëzuar në produktin përfundimtar.
+
+Në rast të përdorimit të qumështit pluhur, hirrës së qumështit dhe krem qumështit, jo për qëllimet e veta dhe me destinacion të ndryshëm nga ai për të cilin përfitohet përjashtimi sipas kësaj pike, subjektet e përpunimit dhe prodhimit të këtyre produkteve detyrohen të paguajnë të gjithë vlerën e taksës për të cilën kanë përfituar përjashtimin. Për qëllime të zbatimit të kësaj pike, autoritetet tatimore kryejnë kontrolle periodike. Kriteret, kushtet dhe procedurat e përjashtimit, si dhe periodiciteti i kontrollit, sipas kësaj pike, përcaktohen me udhëzim të përbashkët të ministrit përgjegjës për financat dhe ministrit përgjegjës për kontrollin ushqimor.
 
 Neni 10
 
