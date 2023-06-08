@@ -110,43 +110,129 @@ Shënime
 3. Për birrën e pastazhonuar e paraqitur në kushte të ndryshme nga hedhja për konsum, firo e pranueshme përcaktohet për qëllime të llogaritjes së detyrimeve doganore ndryshe nga ato të akcizës.
 4. Firot e lidhura me alkoolet dhe produkteve të tjera të kodeve 2207 dhe 2208 të NK jo të denatyruar, të ruajtura në fuçi druri, shtohen me 1% kur bëhet fjalë për fuçi druri me kapacitet jo më shumë se 4 hektolitra; e njëjta shtesë, e akumulueshme me të mëparshmen aplikohet në rastet e fuçive me dru qershie.
 5. Për alkoolin etilik të denatyruar të kodit 2207 të NK, firoja përfshin edhe humbjet gjatë filtrimit, futjes në shishe dhe për çdo arsye tjetër teknike.
-Shenim: Me VKM nr. 38, datë 21.1.2016, neni 9: “Në pikën 3 “prodhim birre”, të aneksit 10, “Tabela referuese e disa normativave të harxhimit të lëndës djegëse”, fjalët “Sterilizim, pjekje malti” zëvendësohen me “Sterilizim, zierje malti”.
-Me VKM nr.28, datë 18.1.2017 është zëvendësuar tabela e tretë industria me tabelën e mëposhtme:
-Me VKM nr. 655, datë 31.10.2018 në aneksin 10, “Tabela referuese e disa normativave të harxhimit të lëndës djegëse”, bëhen shtesa dhe ndryshimi, si më poshtë vijon:
-1. Në tabelën e rubrikës Industria*, pas ndarjes 3 shtohet ndarja 4, me këto të dhëna:
-Në kolonën “Aktiviteti” shtohet “Prodhim lingotash”;
-Në kolonën “Proceset teknologjike” shtohet “Shkrirja e skrapit”;
-Në kolonën “Sasia e lëndës djegëse për njësi të produktit final” shtohet “Sipas kartës teknologjike”.
-2. Rubrika “Shënime në lidhje me plotësimin e aneksit 10”, pas aneksit 10, spostohet pas aneksit 11 dhe korrigjohet: “Shënime në lidhje me plotësimin e aneksit 11”.
-“Industria”
+ANEKS 10
+TABELA REFERUESE E DISA NORMATIVAVE TË HARXHIMIT TË LËNDËS DJEGËSE
+Agro-industria
+Nr.
+Aktiviteti
+Procesi teknologjik
+Sasia e lëndës djegëse për 1 ton prodhim
+Mazut
+Solar
+Gaz GLN
+1
+Përpunim qumështi
+Sterilizim pasterizim
+26-32
+24-29
+Sipas kartës
+teknologjike të miratuar
+2
+Prodhim ëmbëlsira
+Pjekje
+42-53
+39-48
+3
+Prodhim birre
+Sterilizim, zierje malti
+26-32
+24-29
+4
+Prodhim pije alkoolike
+Sterilizim, pjekje
+26-32
+24-29
+5
+Përpunim fruta- perime
+Sterilizim, pasterizim
+26-32
+24-29
+6
+Prodhim vaji
+Sterilizim
+26-32
+24-29
+Nr.
+Aktiviteti
+Procesi teknologjik
+Sasia e lëndës djegëse për 1 ton prodhim
+Gazoil
+Mazut
+Solar
+Gaz GLN
+1
+Prodhim buke
+Pjekje
+45-50
+42-53
+39-48
+Sipas kartës
+teknologjike të miratuar
+Serrat me ngrohje
+Nr.
+Aktiviteti
+Procesi teknologjik
+Sasia e lëndës djegëse litër/1 dynym sipërfaqe
+Mazut
+Solar
+Gaz GLN
+1
+Prodhim perime
+Ngrohje e ambientit në
+10 000
+10 000
+Sipas kartës
+teknologjike të miratuar
+Industria
 Nr.
 Aktiviteti
 Proceset teknologjike
-Sasia e lëndëve djegëse për njësi të produktit final
 Gazoil D1 ose D2
+Sasia e lëndëve djegëse për njësi të produktit final
 Solar ose mazut
-Koks Nafte
+Koks nafte
+Gaz GLN
 1
-Prodhim tullash dhe tjegullash me pjekje termike. Etj
-Ngrohje tharje dhe pjekje të tullave dhe tjegullave
-Sipas kartës teknologjike jo më shumë se 4-kg, solar për 1-kv produkt final
-Sipas kartës teknologjike
+Prodhim tullash
+dhe tjegullash me
+pjekje termike, etj.
+Ngrohje, tharje dhe
+pjekje të tullave
+dhe tjegullave
+Sipas kartës
+teknologjike të miratuar jo më shumë se 4 kg, solar për 1 kV produkt final
+Sipas kartës teknologjike të miratuar
+Sipas kartës teknologjike të miratuar
 2
 Prodhim çimento
-Sipas kartës teknologjike
-Sipas kartës teknologjike
+Sipas kartës teknologjike të miratuar
+Sipas kartës teknologjike të miratuar
+Sipas kartës teknologjike të miratuar
 3
-Riciklim i plastikës, qelqit dhe të përzier
-Sipas kartës teknologjike
+Riciklim i
+plastikës, qelqit
+dhe të përzier
+Sipas kartës teknologjike të miratuar
+Sipas kartës teknologjike të miratuar
 4
-Prodhim barnash
-Sipas kartës teknologjike
-Sipas kartës teknologjike
+Prodhim lingotash
+Shkrirja e skrapit
+Sipas kartës teknologjike të miratuar
+Sipas kartës teknologjike të miratuar
+Sipas kartës teknologjike të miratuar
 5
+Prodhim barnash
+Sipas kartës teknologjike të miratuar
+Sipas kartës teknologjike të miratuar
+Sipas kartës teknologjike të miratuar
+6
 Rafineri
 Përpunim i naftës bruto
-Sipas kartës teknologjike
+Sipas kartës teknologjike të miratuar
+Sipas kartës teknologjike të miratuar
+*Shënim. Ministria e Infrastrukturës dhe Energjisë në bashkëpunim me Ministrinë e Bujqësisë dhe Zhvillimit Rural, do të bëjë përditësimin e normativave të harxhimit të lëndëve djegëse për të gjithë sektorët e industrisë që përfitojnë nga skema e rimbursimit të akcizës.
 Firma8
+Shenim: Rubrika “Shënime në lidhje me plotësimin e aneksit 10”, pas aneksit 10, spostohet pas aneksit 11 dhe korrigjohet: “Shënime në lidhje me plotësimin e aneksit 11” me VKM nr. 655, datë 31.10.2018.
 Aneksi 16
 SHËNIME SHPJEGUESE
 1. Të përgjithshme
