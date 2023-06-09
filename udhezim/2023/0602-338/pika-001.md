@@ -1,0 +1,10 @@
+1. Për të kryer administrimin kolektiv të të drejtave të autorit dhe të drejtave të tjera të lidhura me to, organizata jofitimprurëse, përveç sa është parashikuar në nenet 131, 133, 134 dhe 135 të ligjit 35/2016, datë 31.3.2016 “Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to”, i ndryshuar, duhet të plotësojë kriteret si vijon:
+a) disponon kontratat e lidhura me mbajtësit e të drejtave, të cilët i kanë dhënë kompetencat e tyre të përfaqësimit për administrimin e të drejtave të tyre, sipas ligjit nr. 35/2016 “Për të drejtat e autorit dhe të drejta të tjera të lidhura me to”, i ndryshuar. Këto kontrata do të shoqërohen me lista të plota të titujve të veprave të cilat do të administrohen;
+b) dëshmon shprehjen e vullnetit për përfaqësim reciprok me agjencitë e huaja, në gjuhën shqipe;
+c) ka kushte të përshtatshme dhe pajisje teknologjike për të kryer funksionet e saj;
+ç) ka ekspertizë profesionale me një punonjës jurist dhe financier të dokumentuar me dokument punësimi, njohës i të paktën një gjuhe të huaj të vërtetuar me dëshminë përkatëse;
+d) deklaron se ka përcaktuar rregulla për shpërndarjen dhe pagesën e shpërblimeve, në mënyrë të drejtë dhe transparente, bazuar në përdorimin e veprës së mbrojtur nga e drejta e autorit dhe objekteve të tjera të lidhura me to;
+dh) deklaron se ka përcaktuar rregulla dhe ka mekanizma të mjaftueshëm për të monitoruar përdorimin të të drejtës së autorit dhe të drejtave të tjera të lidhura me to;
+e) vërteton plotësimin e kritereve të parashikuara në shkronjat “a”, “b”, të germës B, brenda 6 (gjashtë) muajve nga marrja e licencës për kategorinë përkatëse të të drejtave të autorit ose të drejtave të tjera të lidhura me to”;
+ë) dokumentacioni i parashikuar në shkronjën “a” dhe “b”, të kësaj pike, do të shoqërohet me listën e plotë të titujve të veprave të cilat do të administrohen, jo më shumë se 6 (gjashtë) muaj nga marrja e licencës për kategorinë përkatëse të të drejtave të autorit ose të drejtave të tjera të lidhura me to;
+f) depoziton pagesën e tarifës për aplikim për licencim të organizatës si AAK, sipas akteve nënligjorë në fuqi që miratojnë këto tarifa;
