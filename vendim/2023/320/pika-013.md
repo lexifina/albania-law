@@ -1,0 +1,1 @@
+13. Shpenzimet për pagën e kryetarit të Task-Forcës, nëse është punonjës i institucioneve të administratës shtetërore, paguhen nga institucioni ku është i punësuar. Nëse nuk është i tillë, ato përballohen nga Kryeministria.

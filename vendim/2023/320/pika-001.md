@@ -1,0 +1,1 @@
+1. Krijimin e Task-Forcës ndërinstitucionale për mënyrën e trajtimit të pasurive të paluajtshme “tokë bujqësore”, në përdorim të personave fizikë (individë) pa titull pronësie, të cilët gjenden në kushtet e nenit 12, të ligjit nr. 20/2020.

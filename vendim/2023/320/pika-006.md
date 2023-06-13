@@ -1,0 +1,1 @@
+6. Në mbështetje të veprimtarisë së Task-Forcës, pranë Agjencisë Shtetërore të Kadastrës formohet sekretariati teknik i saj, i përbërë nga punonjës të kësaj Agjencie. Punonjësit e sekretariatit caktohen nga drejtori i përgjithshëm i ASHK-së.

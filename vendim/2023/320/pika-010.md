@@ -1,0 +1,1 @@
+10. Drejtuesit e institucioneve të përcaktuara në pikën 3, të këtij vendimi, i përcjellin sekretariatit të Task-Forcës emrat e përfaqësuesve të tyre brenda 5 (pesë) ditëve nga hyrja në fuqi e këtij vendimi.

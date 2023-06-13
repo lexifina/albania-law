@@ -1,0 +1,1 @@
+5. Kryetari i Task-Forcës përgjigjet para Kryeministrit për veprimtarinë e Task-Forcës dhe raporton në mënyrë periodike çdo muaj pranë tij. Në rast se Kryetari nuk është njëkohësisht edhe punonjës në ndonjë nga institucionet e administratës shtetërore, ai trajtohet me pagë me nivelin e drejtorit të përgjithshëm të përmbajtjes në ministri.

@@ -1,0 +1,1 @@
+4. Krahas anëtarëve të përcaktuar në pikën 3, të këtij vendimi, në veprimtarinë e Task-Forcës mund të ftohen të marrin pjesë përfaqësues nga njësitë e vetëqeverisjes vendore në njësinë administrative vendore pranë së cilës Task-Forca do të ushtrojë detyrat e saj.

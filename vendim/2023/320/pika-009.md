@@ -1,0 +1,1 @@
+9. Për zbatimin e detyrave të përcaktuara në pikën 8, të këtij vendimi, Task-Forca mbështetet në strukturat administrative dhe burimet e institucioneve të përfshira në formimin e saj, sipas kompetencave dhe ekspertizës përkatëse.
