@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së nënshkrimit të kontratave të qirasë së tokës bujqësore në pronësi të shtetit, në përgjegjësi administrimi të Ministrisë së Bujqësisë dhe Zhvillimit Rural, z. Mirgen Dobruna, me detyrë Sekretar i Përgjithshëm (i komanduar).
