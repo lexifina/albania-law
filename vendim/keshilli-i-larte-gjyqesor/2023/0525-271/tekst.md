@@ -4,6 +4,10 @@ Nr. 271, datë 25.5.2023
 
 PËR FILLIMIN E FUNKSIONIMIT TË GJYKATËS ADMINISTRATIVE TË SHKALLËS SË PARË TIRANË TË RIORGANIZUAR
 
+(ndryshuar me vendimin nr. 328, datë 14.6.2023)
+
+(i përditësuar)
+
 Këshilli i Lartë Gjyqësor, mbështetur në nenet 135, pika 1, 147, pika 1, 147/a, shkronja “ë” të Kushtetutës së Republikës së Shqipërisë, nenet 13 dhe 66 të ligjit nr.98/2016 “Për organizimin e pushtetit gjyqësor në Republikën e Shqipërisë” i ndryshuar, nenin 44 të ligjit nr. 96/2016 “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, i ndryshuar, si dhe nenin 61, paragrafi 2, shkronja “ë” të ligjit nr.115/2016 “Për organet e qeverisjes së sistemit të drejtësisë”, i ndryshuar, me propozim të Komisionit të Planifikimit Strategjik, Administrimit dhe Buxhetit,
 
 V E N D O S I :
@@ -100,7 +104,9 @@ Neni 7
 
 Përgjegjësitë buxhetore dhe financiare
 
-Gjykata Administrative të Shkallës së Parë Tiranë, mbështetur në legjislacionin në fuqi, përmbush të gjitha detyrimet dhe përgjegjësitë që rrjedhin nga mbyllja në datë 30.6.2023 e aktivitetit ekonomiko-financiar të gjykatave administrative të shkallës së parë Durrës, Korçë dhe Shkodër. 
+(shtuar togfjalësh me vendimin nr. 328, datë 14.6.2023)
+
+Gjykata Administrative e Shkallës së Parë Tiranë, brenda muajit korrik 2023, mbështetur në legjislacionin në fuqi, përmbush të gjitha detyrimet dhe përgjegjësitë që rrjedhin nga mbyllja, në datën 30.6.2023, e aktivitetit ekonomiko-financiar të gjykatave administrative të shkallës së parë Durrës, Korçë dhe Shkodër.
 
 Neni 8
 
