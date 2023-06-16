@@ -1,1 +1,1 @@
-2. Thirrja në gjykatë, nëpërmjet lëtërthirrjes, urdhërohet të bëhet nëpërmjet njoftimit me mjete të komunikimit elektronik, në rast se çmohet e dobishme nga gjykata dhe kur pala ka dhënë pëlqimin paraprak, sipas rregullave të parashikuara në Kodin e Procedurës Civile.
+2. Thirrja në gjykatë, nëpërmjet lëtërthirrjes, urdhërohet të bëhet nëpërmjet njoftimit me mjete të komunikimit elektronik, në rast se çmohet e dobishme nga gjykata dhe kur pala ose personi i tretë ka dhënë pëlqimin paraprak, sipas rregullave të parashikuara në Kodin e Procedurës Civile.
