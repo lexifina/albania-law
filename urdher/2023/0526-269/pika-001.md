@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të drejtorit të Përgjithshëm të Drejtorisë së Ndihmës Juridike Falas z. Ergys Qirici, te drejtori i Drejtorisë së Financës dhe Shërbimeve Mbështetëse, znj. Lefkothea Lite, për periudhën 20 qershor 2023-27 qershor 2023.
