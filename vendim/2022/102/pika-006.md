@@ -1,1 +1,0 @@
-6. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përballohen nga buxheti i secilit institucion, të përcaktuar në nënpikat 1.1 e 1.2, të këtij vendimi, dhe fillojnë nga momenti i emërimit të nëpunësve në detyrë.
