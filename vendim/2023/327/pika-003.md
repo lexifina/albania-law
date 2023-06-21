@@ -1,0 +1,1 @@
+3. Elementet përbërëse të pagës bruto mujore për secilën klasë të përcaktuar në lidhjen nr. 1, si dhe vlerat për secilin element janë të njëjta me ato të miratuara në vendimin e Këshillit të Ministrave për pagat e nëpunësve civilë në institucionet e administratës shtetërore.

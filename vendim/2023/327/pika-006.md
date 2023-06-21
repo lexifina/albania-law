@@ -1,0 +1,1 @@
+6. Vendimi nr. 881, datë 20.12.2006, i Këshillit të Ministrave, “Për përcaktimin e kritereve për funksionet drejtuese dhe përcaktimin e kategorisë së pagës së nëpunësve me grada diplomatike në Ministrinë e Punëve të Jashtme”, i ndryshuar, shfuqizohet.

@@ -1,0 +1,1 @@
+5. Në rastet kur në funksione drejtuese emërohen nëpunës të shërbimit të jashtëm, me gradë më të lartë se minimumi i përcaktuar për funksionin përkatës, sipas pikës 4, të këtij vendimi, ata paguhen sipas gradës diplomatike/konsullore, që kanë.

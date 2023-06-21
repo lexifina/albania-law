@@ -1,0 +1,1 @@
+2. Paga e diplomatit të karrierës, i cili punon në ministrinë përgjegjëse për punët e jashtme, caktohet në bazë të gradës diplomatike personale dhe funksionit që ai kryen, sipas përcaktimit në lidhjen nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
