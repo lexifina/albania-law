@@ -1,0 +1,1 @@
+5. Vlera e pagës së grupit dhe shtesa për vjetërsi, të përcaktuara në lidhjet nr. 3 dhe nr. 4, të këtij vendimi, kanë të njëjtën vlerë dhe mënyrë llogaritjeje me atë të miratuar në vendimin përkatës të Këshillit të Ministrave për pagat e personelit mjekësor dhe të punonjësve të tjerë më arsim të lartë në sistemin e ministrisë përgjegjëse për shëndetësinë.
