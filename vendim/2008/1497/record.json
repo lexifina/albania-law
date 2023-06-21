@@ -1,0 +1,27 @@
+{
+  "qbz_id": 68072,
+  "title": "PËR SHTYPJEN E LETRAVE ME VLERË",
+  "type": "Vendim",
+  "number": "1497",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-11-19",
+  "version_no": 1,
+  "qbz_version_id": 5229,
+  "in_force": "2023-06-21",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2023-06-21",
+  "changed_by_qbz_id": 26092,
+  "changed_by_number": "373",
+  "changed_by_title": "Për një shtesë në vendimin nr. 1497, datë 19.11.2008, të Këshillit të Ministrave, “Për shtypjen e letrave me vlerë”, të ndryshuar",
+  "source": "https://qbz.gov.al/files/e3f6f98a9536fed425701575f2fd1d9fc684f3d831398187cc7392abf443c44b.docx",
+  "source_sha256": "e3f6f98a9536fed425701575f2fd1d9fc684f3d831398187cc7392abf443c44b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/68072",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/68072/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
