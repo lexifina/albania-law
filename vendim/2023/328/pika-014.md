@@ -1,0 +1,1 @@
+14. Vendimi nr. 165, datë 2.3.2016, i Këshillit të Ministrave, “Për grupimin e njësive të vetëqeverisjes vendore, për efekt page, dhe caktimin e kufijve të pagave të funksionarëve të zgjedhur e të emëruar, të nëpunësve civilë e të punonjësve administrativë të njësive të vetëqeverisjes vendore”, i ndryshuar, shfuqizohet.

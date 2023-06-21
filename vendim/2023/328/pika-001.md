@@ -1,0 +1,1 @@
+1. Grupimi i njësive të vetëqeverisjes vendore, për efekt page, me përjashtim të Bashkisë së Tiranës dhe Këshillit të Qarkut, bëhet në bazë të numrit të banorëve të Regjistrit Kombëtar të Gjendjes Civile.

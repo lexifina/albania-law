@@ -1,0 +1,1 @@
+12. Punonjësit administrativë, përveç pagës bazë, përfitojnë shtesën për vjetërsi në punë. Kjo shtesë aplikohet në masën 1 për qind mbi pagën bazë të përcaktuar për çdo klasë. Për llogaritjen e kësaj shtese merret për bazë vjetërsia e përgjithshme në punë, por jo më shumë se 25 vjet.

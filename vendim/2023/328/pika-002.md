@@ -1,0 +1,1 @@
+2. Kufijtë e pagave mujore për funksionarët e zgjedhur të organeve përfaqësuese dhe ekzekutive të njësive të vetëqeverisjes vendore janë sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

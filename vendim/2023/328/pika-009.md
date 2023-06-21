@@ -1,0 +1,1 @@
+9. Këshillat e njësive të vetëqeverisjes vendore, kur shikohet e nevojshme të krijojnë funksione të reja, të cilat nuk janë përcaktuar në lidhjet që i bashkëlidhen këtij vendimi, bëjnë njësimin e tyre, për efekt page, me klasifikimin e miratuar në lidhjet përkatëse të pagave.
