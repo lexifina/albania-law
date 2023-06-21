@@ -1,1 +1,0 @@
-10. Vendimi nr. 149, datë 18.2.2015, i Këshillit të Ministrave, “Për pagat e punonjësve të Shërbimit për Çështjet e Brendshme dhe Ankesat, në Ministrinë e Punëve të Brendshme”, të ndryshuar, shfuqizohet.
