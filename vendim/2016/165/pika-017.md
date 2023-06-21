@@ -1,1 +1,0 @@
-17. Këshillat e njësive të vetëqeverisjes vendore miratojnë pagat e punonjësve të njësive ekonomike dhe institucioneve të varësisë, me përjashtim të rasteve kur, me ligj, është parashikuar ndryshe, duke respektuar hierarkinë e pagave të nëpunësve apo punonjësve të bashkisë përkatëse.

@@ -1,1 +1,0 @@
-3. Struktura dhe nivelet e pagave për nëpunësit civilë në bashkitë e tjera, janë, përkatësisht, sipas lidhjeve nr. 2, 3, 4, 5 e 6, në përputhje me numrin e banorëve për çdo bashki, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
