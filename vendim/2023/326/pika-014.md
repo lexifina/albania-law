@@ -1,0 +1,1 @@
+14. Vendimi nr. 234, datë 20.4.2022, i Këshillit të Ministrave, “Për pagat e punonjësve mbështetës dhe punonjësve të tjerë të specialiteteve të ndryshme në disa institucione të administratës publike”, i ndryshuar, shfuqizohet.
