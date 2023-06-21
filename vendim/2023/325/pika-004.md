@@ -1,0 +1,1 @@
+4. Masa e shtesës për kushte pune (natyrë të veçantë pune) për disa nga funksionarët e kabineteve, nëpunësit civilë dhe nëpunësit e përcaktuar në pikën 1, të kreut I, të këtij vendimi, është sipas lidhjes nr. 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
