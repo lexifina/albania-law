@@ -1,8 +1,12 @@
-V E N D I M
+VENDIM
 
 Nr. 429, datë 12.9.2002
 
 Për kushtet e përfitimit, shumën dhe procedurën e dhënies së pensioneve të posaçme shtetërore dhe të shtesave të pensioneve të posaçme shtetërore
+
+(ndryshuar me VKM nr. 374, datë 21.6.2023)
+
+(i përditësuar)
 
 Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 5 të ligjit nr. 7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, me ndryshimet përkatëse, me propozimin e Ministrit të Punës dhe Çështjeve Sociale, Këshilli i Ministrave
 
@@ -38,9 +42,11 @@ Në rastin e propozimit të drejtpëdrejtë, gjeneralitetet jepen në vendim.
 
 - kopjen e noterizuar të dokumentit të statusit për përfituesit, sipas shkronjës “c” të nenit 5 të ligjit nr.7703, datë 11.5.1993.
 
-6. Pensioni i posaçëm shtetëror nuk mund të jetë më i ulët se pensioni bazë dhe as më i lartë dhe dyfishi i pensionit maksimal.
+6. Pensioni i posaçëm shtetëror është sa dhjetëfishi i pensionit social.
 
-Kufiri maksimal i shtesës së pensionit të posaçëm shtetëror  të jetë deri në pensionin maksimal, por shuma e pensionit që i takon sipas ligjit nr. 7703, datë 11.5.1993, plus këtë shtesë të mos kalojë dyfishin e pensionit maksimal.
+Shtesa e pensionit të posaçëm shtetëror të jetë sa dhjetëfishi i pensionit social, por shuma e pensionit, që i takon sipas ligjeve nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar; nr. 8097, datë 21.3.1996, “Për pensionet shtetërore suplementare të personave që kryejnë funksione kushtetuese dhe të punonjësve të shtetit”, të ndryshuar; nr. 10139, datë 15.5.2009, “Për pensionet shtetërore suplementare të punonjësve të universiteteve, të shkollave të larta, Qendrës së Studimeve Albanologjike, Akademisë së Shkencave dhe të gjitha institucioneve të tjera kërkimore publike në Republikën e Shqipërisë, të cilët kanë tituj shkencorë”; nr. 8685, datë 9.11.2000, “Për një trajtim të veçantë të punonjësve që kanë punuar në miniera në nëntokë”, të ndryshuar; nr. 150/2014, “Për pensionet e punonjësve që kanë punuar në miniera, në nëntokë”; nr. 10142, datë 15.5.2009, “Për sigurimin shoqëror suplementar të ushtarakëve të Forcave të Armatosura, të punonjësve të Policisë së Shtetit, të Gardës së Republikës, të Shërbimit Informativ të Shtetit, të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes, të Policisë së Burgjeve, të Policisë së Mbrojtjes nga Zjarri dhe të Shpëtimit e të punonjësve të Shërbimit të Kontrollit të Brendshëm në Republikën e Shqipërisë”, të ndryshuar; nr. 9179, datë 29.1.2004, “Për një trajtim të veçantë të punonjësve që kanë punuar në disa ndërmarrje të industrisë ushtarake”, të ndryshuar; nr. 9128, datë 29.7.2003, “Për një trajtim të veçantë financiar të pilotëve fluturues në pension”, të ndryshuar; nr. 9361, datë 24.3.2005, “Për një trajtim të veçantë financiar të efektivave, oficerë dhe nënoficerë lundrues, të nëndetëseve dhe polumbarëve të Forcave Detare, në pension”; nr. 29, datë 23.5.2019, “Për trajtimin financiar, suplementar të punonjësve që kanë punuar në miniera në nëntokë, të punonjësve të industrisë së naftës e të gazit dhe të punonjësve që kanë punuar në metalurgji”; nr. 8607, datë 27.4.2000, “Statusi Dëshmor i Atdheut”, të ndryshuar, me këtë shtesë, të mos kalojë dymbëdhjetëfishin e pensionit social. 
+
+Në rastet kur shuma e shtesës së pensionit të posaçëm shtetëror, sipas kësaj pike, me pensionet e përfituara nga ligjet e tjera e kalon dymbëdhjetëfishin e pensionit social, reduktohet shtesa e pensionit të posaçëm shtetëror, deri në masën që së bashku me pensionet e përfituara nga ligjet e tjera të jetë sa dymbëdhjetëfishi i pensionit social.
 
 7. Për shqyrtimin e dokumentacionit për pension të posaçëm shtetëror ose shtesë pensioni të posaçëm shtetëror ngrihet një komision i veçantë. Përbërja dhe rregullorja e funksionimit të këtij komisioni miratohen nga Kryeministri. Komisioni përgatit relacion për plotësimin ose jo të kushteve të përcaktuara me ligj dhe me këtë vendim dhe ia paraqet Kryeministrit.
 
