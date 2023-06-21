@@ -1,1 +1,0 @@
-9. Paga mujore e punonjësve që përfshihen në fushën e veprimit të këtij vendimi i nënshtrohet tatimit mbi të ardhurat personale, sipas legjislacionit në fuqi. Në bazë të saj do të paguhen edhe detyrimet për sigurimet shoqërore dhe shëndetësore.
