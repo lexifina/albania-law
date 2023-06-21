@@ -1,1 +1,0 @@
-4. Kategoritë e pagave dhe shtesat për kushte pune të pozicioneve të punës së nëpunësve për emërtesat “Specialist” deri në “Titullar institucioni”, në drejtoritë vendore dhe zyrat vendore të Agjencisë Shtetërore të Kadastrës, janë sipas lidhjes nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
