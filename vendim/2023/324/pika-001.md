@@ -1,0 +1,8 @@
+1. Në fushën e veprimit të këtij vendimi përfshihen:
+a) punonjësit e personelit diplomatik të sistemit të ministrisë përgjegjëse për punët e jashtme në misionet diplomatike të Republikës së Shqipërisë në shtetet e huaja;
+b) punonjësit e personelit administrativo-teknik të sistemit të ministrisë përgjegjëse për punët e jashtme në misionet diplomatike të Republikës së Shqipërisë në shtetet e huaja;
+c) ushtarakët e Forcave të Armatosura, si dhe punonjësit civilë të sistemit të Ministrisë së Mbrojtjes (vetëm në rastet kur në strukturë parashikohet përfaqësimi i barasvlershëm me një ushtarak me gradë të caktuar) për kohën që shërbejnë në misionet diplomatike të Republikës së Shqipërisë, në përfaqësinë ushtarake të Republikës së Shqipërisë pranë NATO-s, në stafin ndërkombëtar, stafin ushtarak ndërkombëtar, strukturën e komandës, strukturën e forcës, agjencitë dhe qendrat e NATO-s në organizatat ndërkombëtare dhe rajonale;
+ç) punonjësit e sistemit të ministrisë përgjegjëse për punët e brendshme, të atashuar në misionet diplomatike të Republikës së Shqipërisë, për kohën që shërbejnë si “oficerë kontakti” pranë ministrive të brendshme homologe të shteteve të ndryshme;
+d) punonjësit e sekretariatit të ministrisë përgjegjëse për bujqësinë, për kohën që shërbejnë si përfaqësues të kësaj ministrie pranë misionit të Republikës së Shqipërisë në Bruksel;
+dh) punonjësit e ministrisë përgjegjëse për punët e brendshme dhe ministrisë përgjegjëse për financat, për kohën që shërbejnë si “nëpunës ndërlidhës”, pranë qendrës SECI;
+e) prokurori i sistemit të prokurorisë për kohën që shërben si “prokuror ndërlidhës” pranë Eurojust në Hagë, Holandë.

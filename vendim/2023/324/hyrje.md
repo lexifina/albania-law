@@ -1,0 +1,5 @@
+VENDIM
+Nr. 324, datë 31.5.2023
+PËR PËRCAKTIMIN E PAGAVE TË PUNONJËSVE TË PERSONELIT SHQIPTAR TË MISIONEVE DIPLOMATIKE TË REPUBLIKËS SË SHQIPËRISË NË SHTETET E HUAJA, NË PËRFAQËSITË USHTARAKE TË REPUBLIKËS SË SHQIPËRISË PRANË NATO-s, NË ORGANIZATAT NDËRKOMBËTARE DHE NË SHTABET USHTARAKE NDËRKOMBËTARE, SI DHE TË PUNONJËSVE TË TJERË SHQIPTARË PËR KOHËN QË SHËRBEJNË SI NËPUNËS NDËRLIDHËS, SI OFICERË KONTAKTI, SI PËRFAQËSUES TË MINISTRISË PËRGJEGJËSE PËR BUJQËSINË DHE SI PROKUROR NDËRLIDHËS PRANË EUROJUST NË HAGË, HOLANDË
+Në mbështetje të nenit 100 të Kushtetutës, të shkronjës “a”, të pikës 2, të nenit 8, të ligjit nr. 35/2023, “Për kompetencat për caktimin e pagave, trajtimeve të tjera financiare dhe përfitimeve të të punësuarve në institucionet e administratës publike, si dhe të pagës bazë minimale në shkallë vendi”, të neneve 31, pika 2, dhe 53, pikat 1 e 3, të ligjit nr. 23/2015, “Për shërbimin e jashtëm të Republikës së Shqipërisë”, me propozimin e zëvendëskryeministrit, Këshilli i Ministrave
+VENDOSI:

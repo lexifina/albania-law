@@ -1,0 +1,3 @@
+2. Elementet përbërëse të pagës bruto mujore dhe vlerat për secilin element për punonjësit e përcaktuar në shkronjat “a” dhe “c”, të pikës 1, të këtij vendimi, janë, si më poshtë vijon:
+a) Paga bazë për gradë dhe apo funksion, e shprehur në dy monedhat kryesore, në euro apo në dollar amerikan, në varësi të vendit ku e ushtrojnë detyrën, sipas përcaktimit, përkatësisht, në lidhjet nr. 1 dhe nr. 4, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij;
+b) Shtesa për koston e jetesës, që është shtesë që jepet në një vlerë të caktuar, në dy monedhat kryesore, në euro apo në dollar amerikan, bazuar në indeksin sipas nivelit të jetesës, sipas kategorizimit të vendit pritës, në masën e përcaktuar në pikën 15 të këtij vendimi.

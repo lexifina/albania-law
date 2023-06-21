@@ -1,0 +1,1 @@
+6. Trajtimi me pagë, sipas përcaktimeve të këtij vendimi, për punonjësit e përcaktuar në shkronjën “c”, të pikës 1, fillon nga data e mbërritjes në vendin e punës. Deri në këtë datë, punonjësit vazhdojnë të paguhen me pagën e vendit të mëparshëm të punës.

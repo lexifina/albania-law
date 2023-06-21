@@ -1,0 +1,1 @@
+11. Trajtimi me pagë, sipas këtij vendimi, për punonjësit e përcaktuar në shkronjat “ç”, “d” dhe “dh”, të pikës 1, fillon përkatësisht, nga data e mbërritjes së tyre në misionin diplomatik apo pranë qendrës SECI. Deri në këtë datë, ata trajtohen me pagën e vendit të mëparshëm të punës.

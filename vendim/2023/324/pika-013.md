@@ -1,0 +1,1 @@
+13. Punonjësit e përcaktuar në shkronjën “e”, të pikës 1, të këtij vendimi, përveç pagës bruto mujore, të përcaktuar në pikën 12 të këtij vendimi, përfitojnë edhe kompensimin për koston e jetesës, në masën 280 (dyqind e tetëdhjetë) euro në muaj.
