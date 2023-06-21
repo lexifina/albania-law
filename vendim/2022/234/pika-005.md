@@ -1,1 +1,0 @@
-5. Renditja e pozicioneve të punës për punonjësit e institucioneve të përmendura në shkronjën “a”, të pikës 1, të këtij vendimi, është sipas krerëve I/1 deri në I/11, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

@@ -1,1 +1,0 @@
-6. Renditja e pozicioneve të punës për punonjësit e institucioneve të përmendura në shkronjën “b”, të pikës 1, të këtij vendimi, është sipas krerëve II/1 deri në II/3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
