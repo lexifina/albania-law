@@ -1,0 +1,1 @@
+6. Shtesa për kushte pune (natyrë të veçantë pune) për nëpunësit civilë të Agjencisë është sipas përcaktimit në kolonën 3, të lidhjes nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

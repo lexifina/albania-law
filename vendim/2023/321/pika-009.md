@@ -1,0 +1,1 @@
+9. Pagat e punonjësve administrativë/mbështetës të Agjencisë përcaktohen në vendimin përkatës të Këshillit të Ministrave për pagat e punonjësve mbështetës dhe punonjësve të tjerë të specialiteteve të ndryshme në disa institucione të administratës publike.

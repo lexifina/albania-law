@@ -1,0 +1,1 @@
+12. Ngarkohet Agjencia e Mbikëqyrjes Policore të propozojë deri në datën 30 qershor 2023, sipas legjislacionit në fuqi, ndryshimin e strukturës dhe organikës ekzistuese për përshtatjen e saj, sipas klasave të pagave të përcaktuara në këtë vendim.

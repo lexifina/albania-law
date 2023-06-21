@@ -1,0 +1,1 @@
+11. Ngarkohet Departamenti i Administratës Publike të mbështesë dhe të sqarojë Agjencinë e Mbikëqyrjes Policore për zbatimin e klasave të pagave, deri në momentin e miratimit të strukturës dhe organikës së re.
