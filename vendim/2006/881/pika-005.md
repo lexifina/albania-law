@@ -1,1 +1,0 @@
-5. Elementët e pagës për secilën kategori të përcaktuar në lidhjen nr. 1, si dhe vlerat për secilin element, janë të njëjta me ato të miratuara në vendimin e Këshillit të Ministrave për pagat e nëpunësve civilë.

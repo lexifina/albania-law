@@ -1,3 +1,0 @@
-1.Nёpunёsit e Ministrisё sё Punёve tё Jashtme, qё gёzojnё tё drejtёn e gradёs, tё paguhen nё bazё tё gradёs diplomatike/konsullore, e cila pёrcaktohet nё lidhjen nr.1, qё i bashkёlidhet kёtij vendimi dhe ёshtё pjesё pёrbёrёse e tij.
-1/1. Shfuqizuar.
-1/2. Shfuqizuar.
