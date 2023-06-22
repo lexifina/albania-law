@@ -1,0 +1,1 @@
+6. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përballohen nga buxheti i miratuar për vitin 2023 për Drejtorinë e së Shërbimeve Qeveritare dhe nga fondi i kontigjencës, i miratuar për buxhetin e shtetit për vitin 2023.

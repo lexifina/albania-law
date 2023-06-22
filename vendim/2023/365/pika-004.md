@@ -1,0 +1,1 @@
+4. Klasat e pagës dhe shtesat për kushte pune të punonjësve mbështetës në Drejtorinë e së Shërbimeve Qeveritare janë sipas lidhjes nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
