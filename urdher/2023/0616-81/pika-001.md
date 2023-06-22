@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave për nënshkrimin e akteve administrative në kompetencë të Komisionerit për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale, sipas rregullores së institucionit, te znj. Elona Hoxhaj, drejtor i përgjithshëm i Drejtorisë së Përgjithshme për të Drejtën e Informimit, nga data 19.6.2023 deri në datë 23.6.2023.
