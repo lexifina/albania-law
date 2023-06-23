@@ -4,7 +4,7 @@ Nr. 41, datë 10.3.2022
 
 MBI LICENCIMIN E SHOQËRISË “AGE KUÇ” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “KUÇ”, ME KAPACITET TË INSTALUAR 1930 kw
 
-(ndryshuar me vendimin nr. 299, datë 18.11.2022)
+(ndryshuar me vendimin nr. 299, datë 18.11.2022; nr. 201, datë 23.6.2023)
 
 (i përditësuar)
 
@@ -52,7 +52,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Age Kuç” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Kuç”, me kapacitet të instaluar 1930 kw, për një afat 30-vjeçar.
 
-2. Shoqëria “Age Kuç” sh.p.k. të depozitojë në ERE lejen e shfrytëzimit të burimit ujor të rinovuar, brenda 90 ditëve nga data e aplikimit në Agjencinë e Menaxhimit të Burimeve Ujore, për rinovim.
+2. Shoqëria “Age Kuç” sh.p.k. të informojë ERE-n çdo 2 muaj mbi ecurinë e marrjes së lejes së rinovuar të përdorimit të burimit ujor për prodhim hidroenergjie nga HEC “Kuç” dhe ta depozitojë atë në ERE , përpara fillimit të prodhimit të energjisë elektrike nga HEC “Kuç”.
 
 3. Shfuqizuar.
 
