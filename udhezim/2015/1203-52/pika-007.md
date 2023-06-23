@@ -1,0 +1,1 @@
+7. Institucionet e arsimit të lartë duhet të garantojnë akses dhe mundësi të barabarta për të gjitha subjektet që gëzojnë të drejtën e pronësisë intelektuale mbi testimet ndërkombëtare dhe certifikimin të njohur nga Ministria e Arsimit dhe Sportit.

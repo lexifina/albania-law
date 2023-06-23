@@ -1,0 +1,1 @@
+2. Klasifikimi i aftësive gjuhësore dhe niveleve të njohjes së gjuhëve, bëhet sipas tabelës bashkëlidhur këtij udhëzimi në referencë të pikëve të testimeve të ndryshme ndërkombëtare dhe shërben si standard për njohjen e gjuhëve të huaja dhe testeve ndërkombëtare përkatëse në Shqipëri.

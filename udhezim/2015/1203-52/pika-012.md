@@ -1,0 +1,1 @@
+12. Udhëzimi i ministrit të MASH-it nr. 14, datë 28.3.2011, “Për njohjen e testimeve dhe certifikimeve për gjuhën angleze për programet e studimit të ciklit të dytë dhe të tretë në institucionet e arsimit të lartë”, shfuqizohet.

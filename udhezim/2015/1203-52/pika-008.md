@@ -1,0 +1,1 @@
+8. Institucionet e arsimit të lartë, përcaktojnë në rregulloret e tyre, modalitetet e dorëzimit dhe verifikimit të certifikimit të nivelit të njohjes së gjuhës së huaj, në përputhje me procedurat e tjera të pranimit të kandidatit në programet e studimit të ciklit të dytë apo të tretë.

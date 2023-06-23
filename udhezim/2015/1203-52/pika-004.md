@@ -1,0 +1,1 @@
+4. Kandidati që aplikon për t’u pranuar në programe studimit të ciklit të dytë apo të tretë në institucionin e arsimit të lartë, duhet të ketë certifikime dhe rezultate të testimeve ndërkombëtare për nivelet e njohjes së gjuhëve, brenda afateve të vlefshmërisë së certifikimeve të lëshuara.
