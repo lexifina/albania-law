@@ -1,3 +1,4 @@
 1. Ministrisë së Kulturës, në buxhetin e miratuar për vitin 2023, i shtohet fondi prej 130 065 200 (njëqind e tridhjetë milionë e gjashtëdhjetë e pesë mijë e dyqind) lekësh, për financimin e Festivalit Folklorik Kombëtar Gjirokastër, që do të zhvillohet në datat 24 qershor-2 korrik 2023, i ndarë, si më poshtë vijon:
 a) Në shpenzimet korrente, “Projekte të trashëgimisë kulturore”, shtohet fondi prej 117 335 200 (njëqind e shtatëmbëdhjetë milionë e treqind e tridhjetë e pesë mijë e dyqind) lekësh për mbulimin e shpenzimeve për akomodim, transport, publicitet, honorare, skenë, drita, foni, në kuadër të festivalit;
-b) Në shpenzimet kapitale “Investime”, shtohet fondi prej 12 730 000 (dymbëdhjetë milionë e shtatëqind e tridhjetë mijë) lekësh për grantet e qarqeve dhe blerje pajisjesh për zonën e spektatorëve dhe ambiente të tjera në kala.
+b) Në shpenzimet kapitale “Investime” shtohet fondi prej 830 000 (tetëqind e tridhjetë mijë) lekësh për blerje pajisjesh për zonën e spektatorëve dhe ambiente të tjera në kala.
+c) Në shpenzimet “Operative” shtohet fondi prej 11 900 000 (njëmbëdhjetë milionë e nëntëqind mijë) lekësh për grantet e qarqeve.
