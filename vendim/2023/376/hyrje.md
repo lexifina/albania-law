@@ -1,0 +1,5 @@
+VENDIM
+Nr. 376, datë 21.6.2023
+PËR DHËNIEN E MIRATIMIT PËR FILLIMIN E PROCEDURAVE TË PRIVATIZIMIT PËR PRONËN NR. 338, ME EMËRTIM “ISH-REPARTI USHTARAK NR. 5012/20”, ME VENDNDODHJE NË ÇEKREZ, GRAMSH, NË ADMINISTRIM TË MINISTRISË SË MBROJTJES, DHËNË ME QIRA ME TARIFËN 1 EURO/KONTRATA SHOQËRISË “ROZAFA” SHPK
+Në mbështetje të nenit 100 të Kushtetutës; të nenit 2, të aktit normativ nr. 4, datë 9.7.2008, të Këshillit të Ministrave, “Për privatizimin dhe dhënien në përdorim të shoqërive tregtare dhe institucioneve shtetërore, të ndërmarrjeve apo objekteve të veçanta, mjeteve kryesore dhe mjeteve të xhiros të këtyre ndërmarrjeve”, miratuar me ligjin nr. 9967, datë 24.7.2008, të ndryshuar, dhe në vijim të pikës 32, të kreut III, të vendimit nr. 926, datë 29.12.2014, të Këshillit të Ministrave, “Për kriteret e vlerësimit të pronës shtetërore që privatizohet apo transformohet dhe procedurën e shitjes”, të ndryshuar, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:
