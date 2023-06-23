@@ -1,3 +1,0 @@
-# Nënshkrimi
-KRYEMINISTËR
-Edi Rama
