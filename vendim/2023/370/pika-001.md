@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, për Njësinë Vendore të Kujdesit Shëndetësor Durrës, të pasurive nr. 2/235, 2/238, 2/371 dhe 4/131, zona kadastrale 8514, Durrës, sipas formularit dhe planrilevimeve, që i bashkëlidhen këtij vendimi.
