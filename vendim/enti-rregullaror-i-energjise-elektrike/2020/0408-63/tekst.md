@@ -4,6 +4,10 @@ Nr. 63, datë 8.4.2020
 
 MBI LICENCIMIN E SHOQËRISË “GEGA-G” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “PREVALLI”, ME KAPACITET TË INSTALUAR 1750 kw
 
+(ndryshuar me vendimin e bordit të ERE-s nr. 207, datë 27.6.2023)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe të nenit 37, pika 2 germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të nenit 4, pika 1, germa “a”, të nenit 5, pika 1, germa “a” dhe të nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, të ndryshuar; dhe të nenit 15, të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 8.4.2020, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi licencimin e shoqërisë “GEGA-G” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -54,11 +58,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “GEGA-G” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Prevalli”, me kapacitet të instaluar 1750 kw, për një afat 30-vjeçar.
 
-2. Shoqëria të depozitojë në ERE, tre muaj para përfundimit të afatit të saj, kontratën e qirasë për truallin ku do të ushtrohet veprimtaria, të rinovuar.
+2. Shoqëria “Gega-G” sh.p.k. të depozitojë në ERE kontratën e rinovuar të qirasë të lidhur me Bashkinë Librazhd brenda datës 4.10.2027, ose çdo dokument tjetër që rregullon pronësinë në territorin ku shtrihet projekti i HEC “Prevalli”.
 
-3. Shoqëria të depozitojë në ERE lejen “Për përdorimin e burimit ujor”, të rinovuar, jo më vonë se data 16.12.2022.
+ 3. Shoqëria “GEGA-G” sh.p.k. të depozitojë në ERE lejen e rinovuar për përdorim burimi ujor sipërfaqësor për prodhim hidroenergjie nga HEC Prevalli jo më vonë se data 6.10.2027.
 
-4. Shoqëria, në përfundim të procesit gjyqësor, me objekt shfuqizimin e aktit administrativ “Njoftim vlerësimi për detyrimet” nr. 7647/7 prot., datë 29.3.2016, të depozitojë në ERE vendimin përfundimtar të gjykatës. 
+4. Shfuqizuar. 
 
 5. Mosplotësimi i kushteve të këtij vendimi përbën shkak për rishikimin e tij. 
 
