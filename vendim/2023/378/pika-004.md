@@ -1,0 +1,1 @@
+4. Ministrisë së Drejtësisë dhe Prokurorisë së Posaçme i ndalohet ndryshimi i destinacionit të përdorimit të pasurisë së përcaktuar në pikën 1, të këtij vendimi, tjetërsimi ose dhënia në përdorim të tretëve.

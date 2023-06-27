@@ -1,0 +1,1 @@
+2. Kalimi në përgjegjësi administrimi i pronës te Ministria e Drejtësisë, për Prokurorinë e Posaçme, sipas pikës 1, të këtij vendimi, bëhet duke përfshirë të gjitha të drejtat dhe detyrimet që lindin nga ndërtimi i objektit mbi këtë pronë, sipas lejes së ndërtimit nr. S-6519/6, miratuar me vendimin nr. S-6519/7, datë 8.10.2020, të kryetarit të Bashkisë Tiranë.
