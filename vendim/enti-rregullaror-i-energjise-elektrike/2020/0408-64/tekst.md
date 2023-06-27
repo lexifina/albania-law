@@ -4,6 +4,10 @@ Nr. 64, datë 8.4.2020
 
 MBI LICENCIMIN E SHOQËRISË “GEGA-G” SHPK, NË VEPRIMTARINË E TREGTIMIT TË ENERGJISË ELEKTRIKE
 
+(ndryshuar me vendimin nr. 208, datë 27.6.2023)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe të nenit 37, pika 2, germa “d”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, germa “e”, 5, pika 1, germa “e” dhe të nenit 13 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, të ndryshuar; dhe të nenit 15, të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 8.4.2020, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi licencimin e shoqërisë ‘GEGA-G’ sh.p.k., në veprimtarinë e tregtimit të energjisë elektrike”,
 
  konstatoi se: 
@@ -36,9 +40,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “GEGA-G” sh.p.k., në veprimtarinë e tregtimit të energjisë elektrike, për një afat 5-vjeçar.
 
-2. Shoqëria, në përfundim të procesit gjyqësor, me objekt shfuqizimin e aktit administrativ, “Njoftim vlerësimi për detyrimet” nr. 7647/7 prot., datë 29.3.2016, të depozitojë në ERE vendimin përfundimtar të gjykatës. 
+2. Shfuqizuar.
 
-3. Mosplotësimi i kushteve të këtij vendimi përbën shkak për rishikimin e tij. 
+3. Shfuqizuar. 
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
