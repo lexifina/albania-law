@@ -4,9 +4,9 @@ Nr. 188, datë 16.11.2020
 
 MBI LICENCIMIN E SHOQËRISË “IDI 2005” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “KAMIÇAN”, ME KAPACITET TË INSTALUAR 1860 kW
 
-(Ndryshuar me vendimin nr. 259, datë 21.12.2021)
+(ndryshuar me vendimin nr. 259, datë 21.12.2021; nr. 209, datë 27.6.2023)
 
-(I përditësuar)
+(i përditësuar)
 
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; nenit 4, pika 1, germa “a”; nenit 5, pika 1, germa “a”, dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, të ndryshuar, si dhe nenit 15, të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 16.11.2020, mbasi shqyrtoi relacionin nr. 119/5 prot., datë 12.11.2020, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes mbi aplikimin e shoqërisë “IDI 2005” sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike,
 
@@ -60,19 +60,17 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “IDI 2005” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Kamiçan”, me kapacitet të instaluar 1860 kW, për një afat 30-vjeçar.
 
-2. Shoqëria “IDI 2005” sh.p.k. të bëjë me dije ERE-n mbi ecurinë e procesit të rinovimit, si dhe të depozitojë në ERE, jo më vonë se 1 muaj pas rinovimit të tyre:
+2. Shoqëria “IDI 2005” sh.p.k. të depozitojë në ERE:
 
-a) kontratën e qirasë “Për dhënien në përdorim të fondit pyjor dhe kullosor publik”, me nr. 1322 prot., datë 28.2.2018, të lidhur me Bashkinë Elbasan; 
+a) Brenda datës 19.9.2032, kontratën e rinovuar “Për dhënien në përdorim të fondit pyjor dhe kullosor publik”, të lidhur me Bashkinë Elbasan, si dhe kontratën e rinovuar “Për dhënien në përdorim të fondit pyjor dhe kullosor publik”, të lidhur me Bashkinë Gramsh, ose çdo dokument tjetër që rregullon pronësinë në territorin ku shtrihet projekti i HEC Kamiçan.
 
-b) kontratën e qirasë “Për dhënien në përdorim të fondit pyjor dhe kullosor publik”, me nr. 7126 prot., datë 10.12.2017, të lidhur me Bashkinë Gramsh; 
-
-c) lejen për përdorim të burimit ujor, me nr. 1196 prot., datë 30.10.2018.
+b) Brenda datës 25.10.2023, Lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC Kamiçan.
 
 3. Mos plotësimi i kushteve të parashikuara në pikën 2, të këtij vendimi, përbën shkak për rishikimin e vendimit nga ERE.
 
 4. Shfuqizuar.
 
-5. Shoqëria të depozitojë në ERE miratimin e lejes së ndërtimit, me qëllim plotësimin e kushtit të parashikuar në pikën 3.78, të VNM-së paraprake, lëshuar nga Agjencia Kombëtare e Mjedisit me nr. 7 vendimi, datë 11.2.2020, jo më vonë se data 11.2.2022.
+5. Shfuqizuar.
 
 6. Drejtoria e Licencimit Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin dhe palët e interesit për vendimin e Bordit të ERE-s.
 
