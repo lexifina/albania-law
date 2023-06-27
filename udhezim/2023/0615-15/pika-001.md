@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim përcaktimin e kritereve dalluese mes ushqimit për kafshë, aditivëve ushqimorë për ushqime për kafshë, produkteve biocide dhe produkteve mjekësore veterinare, duke krijuar një profil për secilin produkt sipas karakteristikave specifike, në përputhje me shtojcën e këtij udhëzimi.
