@@ -1,3 +1,3 @@
 # Neni 2
 Objekti
-Ky ligj përcakton rregullat bazë, procedurat, si dhe organet shtetërore kompetente për vetëdeklarimin, mbështetjen, zhvillimin dhe monitorimin e startup-eve dhe të ekosistemit mbështetës të tyre në Republikën e Shqipërisë.
+Ky ligj përcakton rregullat bazë, procedurat dhe organet shtetërore, që rregullojnë, mbështesin, zhvillojnë dhe integrojnë ekosistemin e startup-eve të Republikës së Shqipërisë, si dhe format e mbështetjes së punonjësve lëvizës digjitalë.
