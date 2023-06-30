@@ -1,0 +1,1 @@
+8. Autoritetet drejtuese të strukturës spitalore publike afishojnë listën e stafit mjekësor të angazhuar në regjimin e praktikës së dyfishtë dhe tarifat përkatëse të shërbimit dhe i bëjnë ato transparente për publikun.

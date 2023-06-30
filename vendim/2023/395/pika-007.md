@@ -1,0 +1,1 @@
+7. Të ardhurat që gjenerohen nga spitali nëpërmjet praktikës se dyfishtë do të futen në zërin e të ardhurave dytësore dhe do të përdoren nga spitali për të përmirësuar më tej cilësinë e shërbimit të ofruar, bazuar në legjislacionin në fuqi.

@@ -1,0 +1,1 @@
+6. Spitali është përgjegjës për sistemin e mbledhjes së tarifës së konsultës ambulatore, duke mundësuar, sipas një sistemi periodik mujor, shpërndarjen e të ardhurave të grumbulluara te mjeku specialist nga llogaria e spitalit.
