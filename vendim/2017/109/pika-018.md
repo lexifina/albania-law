@@ -1,1 +1,1 @@
-18. Mbledhja e Bordit të Akreditimit zhvillohet kur marrin pjesë jo më pak se 8 (tetë) anëtarë të tij. Ajo nuk zhvillohet nëse, së paku, dy ekspertë të huaj nuk janë të pranishëm. Vendimet e bordit merren me shumicë të cilësuar, prej 3/4 të anëtarëve të pranishëm.
+18. Mbledhja e Bordit të Akreditimit zhvillohet kur marrin pjesë jo më pak se 8 (tetë) anëtarë të tij. Vendimet e Bordit merren me shumicë prej ¾ të anëtarëve të pranishëm.

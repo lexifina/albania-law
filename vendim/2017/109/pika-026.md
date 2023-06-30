@@ -1,1 +1,1 @@
-26. Kryetari dhe anëtarët e Bordit të Akreditimit paguhen për çdo pjesëmarrje në mbledhje për jo më shumë se 9 (nëntë) mbledhje për një vit kalendarik.
+26. Kryetari dhe anëtarët e Bordit të Akreditimit paguhen për çdo pjesëmarrje në mbledhje. Për çdo vit kalendarik zhvillohen 12 (dymbëdhjetë) mbledhje. Nëse është e nevojshme, Bordi mund të mblidhet deri në 3 (tri) herë të tjera, brenda të njëjtit vit kalendarik, me kërkesë të ministrit përgjegjës për arsimin.
