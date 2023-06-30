@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Rehabilitimi i rrugës së ish-repartit ushtarak për në Aeroportin e Rinasit”.
