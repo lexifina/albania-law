@@ -1,0 +1,1 @@
+2. Shoqëria “Karavasta Solar” sh.p.k. të paguajë shpërblimin e ofruar dhe/ose kërkuar nga pronarët e pasurisë/pasurive të paluajtshme, për marrjen në përdorim të përkohshëm të pasurisë private. Në çdo rast vlera për përdorim të përkohshëm të pasurisë/pasurive private të paluajtshme, duhet të jetë jo më pak se tarifat shtetërore.
