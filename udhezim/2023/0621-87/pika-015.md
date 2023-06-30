@@ -1,0 +1,1 @@
+15. Pas zhvillimit të intervistës punonjësi, sektori përgjegjës nis procesin e verifikimit dhe nëse është e nevojshme merr informacione edhe përmes institucioneve relevante të përfaqësive të huaja diplomatike dhe organizatave ndërkombëtare.
