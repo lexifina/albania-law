@@ -1,12 +1,12 @@
 # Shtojca
-LISTA EMËRORE E PRONARËVE, PASURITË E PALUAJTSHME, PRONË PRIVATE, E TË CILËVE PREKEN NGA NDËRTIMI I PROJEKTIT “NDËRTIMI I SHKOLLËS 9-VJEÇARE ’QAZIM TURDIU’”
+LISTA EMËRORE E BASHKËPRONARËVE, PASURITË E PALUAJTSHME, PRONË PRIVATE, TË TË CILËVE PREKET PËR NJË NDRYSHIM NË VKM-në NR. 663, DATE 13.10.2022, “NDËRTIMI I SHKOLLËS 9-VJECARE ’QAZIM TURDIU’”
 Nr.
-PRONARI
+Pronari
 Zona kad.
 Numri i pasurisë
 Sip. totale
-Lloji pas.
-Sipërfaqe e shpronësuar
+Lloji i pas.
+Sipërfaqja e shpronësuar
 Çmimi lekë/m2
 Vlera totale (lekë)
 Shënime
@@ -14,15 +14,21 @@ Emri
 Atësia
 Mbiemri
 1
-Hajredin Boka Jemine Boka Menduhie Boka Merita Boka Naile Boka Saimir Boka Sinan Boka Skender Boka
+Sinan Qazim Boka
+Hajredin Qazim Boka
+Menduhie Hush Boka
+Saimir Rexhep Boka
+Skënder Qazim Boka
+Merita Rexhep Boka
 8330
-9/216
-1755
+9/1029
+317.8
 Truall
-318
+317.8
 34,068
-10,833,624
+10,826,810
 Konfirmuar nga ASHK-ja
 Vlera
-10,833,624
-Për tokën “truall”, çmimi i llogaritur është marrë nga vendimi nr. 89, datë 3.2.2016, i Këshillit të Ministrave, “Për miratimin e hartës së vlerës së tokës në Republikën e Shqipërisë”.
+10,826,810
+Për tokën “truall”, çmimi i llogaritur është marrë nga vendimi nr. 89, datë 3.2.2016, i Këshillit të Ministrave
+“Për miratimin e hartës së vlerës së tokës në Republikën e Shqipërisë”.
