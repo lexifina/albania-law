@@ -4,6 +4,10 @@ Nr. 16, datë 23.1.2020
 
 MBI LICENCIMIN E SHOQËRISË “DIEZELA” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-i “LJUSA”, ME KAPACITET TË INSTALUAR 1980 kw
 
+(ndryshuar me vendimin nr. 218, datë 4.7.2023)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, nenit 4, pika 1, germa “a”, nenit 5, pika 1, germa “a” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, si dhe nenit 15, të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 23.1.2020, mbasi shqyrtoi relacionin e Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes nr. 67/2 prot., datë 12.7.2019; relacionin plotësues nr. 89/3 prot., datë 11.9.2019 dhe relacionin nr. 19/3 prot., datë 18.1.2020, “Për licencimin e shoqërisë “Diezela” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike, nga HEC-i ‘Ljusa’, me kapacitet të instaluar 1980 mw”,
 
 konstatoi se: 
@@ -68,13 +72,15 @@ Kontrata e lidhur midis METE-s dhe subjektit “Diezela” sh.p.k., ka një afat
 
 Për gjithë sa më sipër cituar, Bordi i ERE-s, 
 
-Vendosi:
+VENDOSI:
 
-1. Të licencojë shoqërinë “Diezela” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC-i “Ljusa” me kapacitet të instaluar 1980 kW, për një afat 30-vjeçar, me kusht që, përpara fillimit të operimit të HEC-it “Ljusa”, shoqëria të përcjellë në ERE lejen mjedisore për qëllime të ushtrimit të aktivitetit të licencuar. 
+1. Të licencojë shoqërinë “Diezela” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Ljusa”, me kapacitet të instaluar 1980 kw, për një afat 30-vjeçar (duke filluar nga data 23.1.2020), me kusht që përpara fillimit të operimit të depozitojë në ERE lejen e rinovuar për përdorimin e burimit ujor për prodhim hidroenergjie nga HEC “Ljusa”. 
 
-2. Shoqëria “Diezela” sh.p.k. të depozitojë në ERE lejen e ujit, të rinovuar, përpara përfundimit të saj në datën 22.12.2022. 
+2. Shoqëria “Diezela” sh.p.k. të informojë ERE çdo tre muaj në lidhje me:
 
-3. Shoqëria “Diezela” sh.p.k. të depozitojë në ERE çdo dokument/leje që i nënshtrohet procedurës së rinovimit, nga institucionet që i lëshojnë ato, jo më vonë se 2 muaj para përfundimit të afatit të parashikuar në këto dokumente/leje.
+i) pajisjen me lejen e rinovuar për përdorimin e burimit ujor; ii) fillimin e punimeve të ndërtimit të veprës, por jo më vonë se afati i fundit i vlefshmërisë së VNM-së paraprake, deri më 9.3.2024.
+
+3. Shoqëria “Diezela” sh.p.k. të depozitojë në ERE kontratën e rinovuar të qirasë të lidhur me Bashkinë Burrel brenda datës 24.1.2033 ose regjistrimin në ASHK-në përkatëse të kontratës së nënshkruar me Ministrinë e Infrastrukturës dhe Energjisë.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
