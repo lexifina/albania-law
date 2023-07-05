@@ -1,1 +1,0 @@
-1. Tarifat për shërbimet portuale në Autoritetin Portual Durrës për vitin 2023, caktohen sipas lidhjes që i bashkëlidhet këtij udhëzimi dhe është pjesë përbërëse e tij. Niveli i tarifës është shprehur pa TVSH.
