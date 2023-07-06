@@ -1,0 +1,1 @@
+17. Lejet e papaguara të dhëna përpara hyrjes në fuqi të ligjit nr. 8/2023, “Për organizimin dhe funksionimin e Shërbimit Përmbarimor Gjyqësor Shtetëror”, do të vazhdojnë të zbatohen sipas kushteve të vendosura në to.

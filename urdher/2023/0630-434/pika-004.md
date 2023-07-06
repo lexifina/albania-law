@@ -1,0 +1,1 @@
+4. Leja e papaguar sipas pikës 3 të këtij urdhri jepet sipas kritereve dhe rasteve të përcaktuara në vendimin nr. 568, datë 6.10.2021, të Këshillit të Ministrave, “Për miratimin e rregullave për kohëzgjatjen e punës dhe të pushimit, orët shtesë dhe kompensimin e tyre në institucionet e administratës shtetërore, institucionet e pavarura dhe njësitë e vetëqeverisjes vendore”.

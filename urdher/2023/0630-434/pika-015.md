@@ -1,0 +1,1 @@
+15. Në vendimin e arsyetuar për dhënien e lejes së papaguar, drejtori i përgjithshëm i Përmbarimit shprehet lidhur me shpërndarjen e dosjeve në ngarkim të përmbaruesit gjyqësor shtetëror, subjekt i përfitimit të lejes së papaguar dhe hedhjen në short ose jo të dosjeve përmbarimore që përmbaruesi gjyqësor shtetëror ka në ekzekutim apo proces.

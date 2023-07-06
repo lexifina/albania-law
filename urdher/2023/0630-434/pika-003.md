@@ -1,0 +1,1 @@
+3. Përmbaruesi gjyqësor shtetëror ka të drejtë që, në raste të veçanta, për nevoja personale ose familjare, të kërkojë leje pa të drejtë page nga kryetari i zyrës përmbarimore, me një kohëzgjatje maksimale brenda një viti kalendarik jo më të gjatë se 30 (tridhjetë) ditë.
