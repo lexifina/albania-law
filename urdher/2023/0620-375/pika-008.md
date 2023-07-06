@@ -1,0 +1,1 @@
+8. Kompania mbajtëse e autorizimit për tregtim ose kompania prodhuese, importuesi i autorizuar dhe farmacitë publike dhe jopublike ruajnë recetat dhe dokumentacionin e nevojshëm, sipas legjislacionit në fuqi dhe i vendosin ato në dispozicion të autoriteteve kompetente.
