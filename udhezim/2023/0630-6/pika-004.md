@@ -1,0 +1,1 @@
+4. Drejtoria e Përgjithshme e Përmbarimit, në bazë të vlerësimit të nevojave të punës, publikon në faqen zyrtare të saj kërkesën për kandidatura për plotësimin e pozicionit të inspektorit përmes procedurës së komandimit.

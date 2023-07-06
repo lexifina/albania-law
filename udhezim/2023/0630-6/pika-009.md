@@ -1,0 +1,1 @@
+9. Struktura përgjegjëse pranë Drejtorisë së Përgjithshme të Përmbarimit, brenda 2 (dy) javëve pas afatit të aplikimit, përgatit një relacion për çdo kandidat dhe vlerëson nëse komandimi nuk është në përputhje me interesat e lartë të zyrës përmbarimore vendore ku përmbaruesi gjyqësor shtetëror ushtron funksionin.

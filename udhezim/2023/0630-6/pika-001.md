@@ -1,0 +1,1 @@
+1. Përmbaruesi gjyqësor shtetëror mund të komandohet si inspektor në strukturën përgjegjëse për inspektimin pranë Drejtorisë së Përgjithshme të Përmbarimit, me urdhër të drejtorit të përgjithshëm të Përmbarimit.

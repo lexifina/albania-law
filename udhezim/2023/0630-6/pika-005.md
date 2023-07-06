@@ -1,0 +1,1 @@
+5. Drejtoria e Përgjithshme e Përmbarimit pranon kandidaturat e përmbaruesve gjyqësorë shtetërorë që përmbushin kriteret specifike të pozicionit të inspektorit në strukturën përgjegjëse të saj për inspektimin.

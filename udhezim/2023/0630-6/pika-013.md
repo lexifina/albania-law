@@ -1,0 +1,1 @@
+13. Nëse asnjë prej kandidatëve nuk plotëson kushtet dhe/ose kriteret e komandimit apo kur asnjë prej tyre nuk përzgjidhet dhe kërkohet për nevoja të punës komandimi, Drejtoria e Përgjithshme e Përmbarimit, mund të rishpallë kërkesën për kandidatura nga radhët e përmbaruesve gjyqësorë shtetërorë.

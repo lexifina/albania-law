@@ -1,0 +1,1 @@
+12. Drejtori i përgjithshëm i Përmbarimit, pas kryerjes së verifikimit, sipas përcaktimeve në pikat 9, 10 dhe 11 të këtij udhëzimi, brenda 5 (pesë) ditëve nxjerr urdhrin për komandimin e përmbaruesit gjyqësor shtetëror të përzgjedhur, si inspektor në strukturën përgjegjëse për inspektimin pranë Drejtorisë së Përgjithshme të Përmbarimit.

@@ -1,0 +1,1 @@
+8. Struktura përgjegjëse pranë Drejtorisë së Përgjithshme të Përmbarimit mund të kërkojë informacion dhe të dhëna për kandidatët nga zyrat përmbarimore përkatëse ku kanë emërimin, lidhur me aftësitë e tyre profesionale, organizative dhe etike të shfaqura gjatë ushtrimit të funksionit.
