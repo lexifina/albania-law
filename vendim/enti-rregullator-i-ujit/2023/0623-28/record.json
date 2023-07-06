@@ -1,0 +1,28 @@
+{
+  "qbz_id": 26196,
+  "title": "Për shtyrje afati të aplikimit nga shoqëritë ujësjellës-kanalizime për tarifa të ujit të pijshëm dhe të ujërave të ndotura për vitin 2023",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "28",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2023-06-23",
+  "published": "2023-07-06",
+  "in_force": "2023-07-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/8abffe113e6a3a284f376d964e00334739e722e7e6b39d6c42ecc57ddc6946ec.docx",
+  "source_sha256": "8abffe113e6a3a284f376d964e00334739e722e7e6b39d6c42ecc57ddc6946ec",
+  "official_record": "https://qbz.gov.al/api/v1/acts/26196",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/06/23/28",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    26587
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
