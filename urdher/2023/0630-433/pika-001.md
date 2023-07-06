@@ -1,0 +1,1 @@
+1. Miratimin e Rregullores për organizimin dhe përmbajtjen e programit të trajnimit për përmbaruesit gjyqësorë shtetërorë në periudhë prove, pjesëmarrjen në trajnime, si dhe testimin e njohurive të përfituara, sipas tekstit bashkëlidhur këtij urdhri dhe pjesë përbërëse të tij.
