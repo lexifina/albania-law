@@ -1,0 +1,1 @@
+1. Gjykatës Kushtetuese, në buxhetin e miratuar për vitin 2023, në zërin “Shpenzime kapitale”, të programit buxhetor 03320 “Veprimtaria gjyqësore kushtetuese”, i shtohet fondi prej 35 000 000 (tridhjetë e pesë milionë) lekësh, për rikonstruksionin e godinës së Gjykatës Kushtetuese.
