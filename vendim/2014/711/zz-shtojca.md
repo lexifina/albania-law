@@ -38,6 +38,7 @@ Përkufizimet
 19. “Lëvizje e kufomës” është lëvizja e trupit të vdekur nga vendi i vdekjes, prehjes, ceremonive, në krematorium ose nga një prej këtyre vendeve, nëpërmjet përdorimit të burimeve të përshtatshme dhe të personelit të nevojshëm. Koncepti përfshin vendosjen e kufomës në arkivol, lëvizjen e arkivolit dhe transferimin e tij, ofrimin e personelit për kryerjen e procedurave, kremimin apo procesin e varrimit.
 20. “Lëvizja e mbetjeve mortore” është lëvizja e mbetjeve mortore nga vendi i vdekjes ose zbulimit në vendin e vëzhgimit, morgun, morgun civil, në dhomat e dezinfektimit, në sallën e lamtumirës, përmes përdorimit të mjeteve të përshtatshme dhe të personelit të nevojshëm.
 21. “Varrimi” është procesi i vendosjes në varr i kufomës dhe/ose i mbetjeve mortore, që i bëhet të vdekurit.
+22. “Shtëpi funerale” është ambienti i padukshëm nga jashtë, i cili shërben si shtëpi pritjeje për kryerjen e ritualeve të lamtumirës dhe riteve të tjera në nderim të personave të vdekur.
 KREU II
 PROCEDURAT E ZHVILLIMIT TË VARRIMIT
 Neni 4
@@ -247,12 +248,13 @@ PROCEDURAT E SHËRBIMIT FUNERAL
 Neni 36
 Agjencitë e shërbimit funeral
 1. Kushtet për ushtrimin e aktivitetit të agjencive të shërbimit funeral kryhen në përputhje me ligjin nr. 9220/2004, të ndryshuar.
-2. Agjencitë e shërbimit funeral duhet të licencohen për ushtrimin e aktivitetit në drejtim të:
+2. Agjencitë e shërbimit funeral licencohen nga njësitë e vetëqeverisjes vendore për ushtrimin e aktivitetit të shërbimit funeral dhe/ose ofrimin e shërbimit për shtëpi funerale, në drejtim të:
 a) kapacitetit teknik dhe burimeve njerëzore, si garanci e vazhdimësisë dhe përshtatshmërisë të shërbimit;
 b) garancisë së sipërmarrjes;
 c) respektimit të rregullave të sigurisë dhe të shëndetit të punëmarrësve;
 d) respektimit të legjislacionit në lidhje me realizimin e shërbimeve.
 3. Agjencitë janë të detyruara të komunikojnë çdo ndryshim mbi aktivitetin e licencuar.
+4. Njësitë e vetëqeverisjes vendore parashikojnë kriteret dhe kushtet plotësuese që agjencitë e shërbimit funeral duhet të plotësojnë për ushtrimin e aktivitetit të shërbimit funeral dhe/ose ofrimin e shërbimit për shtëpi funerale, në lidhje me kapacitetet teknike dhe burimet njerëzore.
 Neni 37
 Përgjegjësitë profesionale të agjencive funerale
 Agjencitë kanë përgjegjësi të:
@@ -267,10 +269,11 @@ Neni 39
 Përshtatshmëria e mjeteve dhe ambienteve
 1. Inspektorati që mbulon fushën e shëndetësisë sipas kritereve të përcaktuara, verifikojnë kushtet e mjeteve që merren me transportin e kufomave.
 2. Njësia bazëe qeverisjes vendore përcakton zonat e qytetit për qëndrimin e makinave funerale dhe zyrat e shërbimit, të cilat nuk duhet të jenë në godina banimi dhe nëvende të dukshme për publikun.
-3. Agjencitë duhet të zhvillojnë aktivitetin, si: plotësimi i formaliteteve, shitja e artikujve të varrimit dhe çdo aktivitet tjetër që lidhet me funeralin, brenda ambienteve të miratuara dhe që janë jo të dukshëm nga jashtë.
+3. Agjencitë dhe shtëpitë funerale duhet të zhvillojnë aktivitetin, si: plotësimi i formaliteteve, shitja e artikujve të varrimit dhe çdo aktivitet tjetër që lidhet me funeralin, brenda ambienteve të miratuara dhe që janë jo të dukshëm nga jashtë.
 4. Agjencitëtë kenë:
 a) të paktën një autofuneral, në përputhje me kërkesat e rregullave në fuqi;
 b) garazhtë përshtatshëm në përputhje me kërkesat e kësaj rregulloreje.
+5. Njësitë e vetëqeverisjes vendore kontrollojnë agjencitë e shërbimit funeral dhe shtëpitë funerale për plotësimin dhe respektimin e kushteve e të kritereve për ushtrimin e aktivitetit të tyre, të parashikuara në këtë vendim dhe në rregullat e vendosura nga njësitë e vetëqeverisjes vendore, lidhur me kapacitetet teknike dhe burimet njerëzore.
 Neni 40
 Ankesat
 1. Për mosfunksionimin e zhvillimit të aktivitetit funeral ankesat dhe sinjalizimet i drejtohen kryetarit të njësisë bazë të qeverisjes vendore.
