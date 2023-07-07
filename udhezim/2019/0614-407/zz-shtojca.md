@@ -1,3 +1,0 @@
-# Shtojca
-MINISTËR I FINANCAVE DHE EKONOMISË
-Anila Denaj
