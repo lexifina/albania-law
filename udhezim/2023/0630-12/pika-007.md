@@ -1,0 +1,1 @@
+7. Për kandidatët që kanë përfunduar arsimin e mesëm të lartë në vitet e mëparshme dhe që kanë aplikuar me formularin A1Z, drejtoritë e institucioneve arsimore, ku ata kanë kryer aplikimin, hedhin në sistemin SMIP të dhënat e lidhura me rezultatet e shkollimit të të gjitha viteve të arsimit të mesëm të lartë.

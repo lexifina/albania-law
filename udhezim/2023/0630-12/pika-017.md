@@ -1,0 +1,1 @@
+17. IAL-të, për çdo program studimi që ofrojnë, publikojnë listat paraprake me renditjen e kandidatëve brenda datës së përcaktuar në kalendar. Në listën e publikuar nga ana e IAL-ve, fituesi i fundit përcaktohet me vijë të kuqe, në varësi të kuotave të ofruara për programin përkatës të studimit. Në këtë listë bëhen me dije pikët vlerësuese për çdo kriter vlerësimi.
