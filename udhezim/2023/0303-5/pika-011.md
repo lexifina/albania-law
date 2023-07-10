@@ -31,7 +31,7 @@ V. DOKUMENTACIONI QË GJENEROHET NGA REGJISTRAT ZYRTARË DHE PLATFORMA e-ALBANIA
 Aplikantët për masat mbështetëse 1-6, për të cilët ndonjë dokument nuk arrihet të gjenerohet nga regjistrat zyrtarë apo nuk plotësojnë kriteret e përfitueshmërisë, informohen nëpërmjet listës së aplikimeve të kualifikuara, ndërsa aplikantët për masat 7 dhe 8 njoftohen me shkresë për plotësim dokumentacioni.
 Dorëzimi i dokumentacionit për masat mbështetëse 1-6, bëhet në agropikën më të afërt ose në zyrat qendrore të AZHBR-së fizikisht ose me postë, ndërsa për masat mbështetëse 7 dhe 8 dorëzimi bëhet në zyrat qendrore të AZHBR-së.
 Afati i fundit i dorëzimit të dokumentacionit është 15 ditë kalendarike pas publikimit së listës së aplikantëve të kualifikuar, në faqen zyrtare www.azhbr.gov.al.
-Mosplotësimi i kritereve të përfitueshmërisë brenda afatit të përcaktuar, është kriter skualifikimi.
+Dokumentacioni që dorëzohet sipas këtij kreu, për masat 1-6, paraqitet brenda datës 31 korrik 2023.
 VI. KRITERET SPECIFIKE DHE DOKUMENTACIONI I NEVOJSHËM PËR MASAT MBËSHTETËSE DIREKTE 1-6
 Masa 1. Për tufën bazë të matrikulluar (kafshët riprodhuese), për fermat me jo më pak se 10 (dhjetë) krerë lopë, në vlerën deri në 10 000 (dhjetë mijë) lekë/krerë, por jo më shumë se 500 000 (pesëqind mijë) lekë për subjekt
 i. Kriteret specifike për masën

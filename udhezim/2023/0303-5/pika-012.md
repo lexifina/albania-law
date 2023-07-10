@@ -7,7 +7,7 @@ Pagesa bëhet pas verifikimit në terren për sipërfaqen faktike të kultivuar,
 Për masën 4, për perimet në serra, bëhet të paktën një verifikim në terren.
 2. Me përfundimin e fazës së aplikimit, sistemi gjeneron automatikisht listat e aplikantëve për çdo masë mbështetëse.
 3. Me përfundimin e aplikimeve dhe kontrollit administrativ të dokumenteve që gjenerohen online, AZHBR-ja shpall brenda 15 ditëve kalendarike, listën e aplikimeve të kualifikuara dhe dokumentet e kërkuara sipas masës përkatëse, në faqen zyrtare të saj www.azhbr.gov.al.
-4. Aplikantët, sipas evidentimeve në listën e shpallur, kanë afat deri në 15 ditë kalendarike nga data e shpalljes së listës, të dorëzojnë dokumentet e kërkuar në agropikën më të afërt ose në zyrat qendrore të AZHBR-së ose me postë në zyrat qendrore të AZHBR-së.
+4. Aplikantët, bazuar në listat e shpallura nga Agjencia për Zhvillim Bujqësor dhe Rural, dorëzojnë, brenda datës 31 korrik 2023, dokumentacionin e kërkuar. Dokumentacioni konsiderohet i dorëzuar me depozitimin në Agropikë ose në zyrën qendrore të Agjencisë për Zhvillim Bujqësor dhe Rural, ose i dërguar me postë.
 5. Inspektori/specialisti i agropikës për çdo dokument të paraqitur nga aplikanti/përfaqësuesi ligjor apo çdo dokument tjetër të gjeneruar nga regjistrat publik, mban proces verbal në dy kopje, të marrjes në dorëzim të dokumenteve dhe i dërgon në AZHBR, Tiranë.
 6. Dosja origjinale transferohet nga zyrat e aplikimit në AZHBR përmes protokollit në sektorin e SPAP/AZHBR.
 7. DPAP/SPAP bën kontrollin administrativ të dokumentacionit, si të atyre që gjenerohen nga sistemi online dhe të atyre që ndodhen në dosjen e aplikimit dhe në përputhje me kriteret, aprovon/s’kualifikon aplikimet përkatëse.
