@@ -28,7 +28,7 @@ v. riparim i përgjithshëm i anijes, por jo më shumë se 9 000 000 (nëntë mi
 vi. dokimi periodik i anijes, por jo më shumë se 3 000 000 (tre milionë) lekë. Dokimi periodik përfshin ngritjen dhe uljen nga kantieri, pastrimin dhe heqjen e bojës së vjetër, blerje boje, stuko, protektor (zinqe), riparim aksi helike.
 i. Kriteret specifike të përfitimit
 Përfitues të mundshëm: persona fizikë ose juridikë, të regjistruar në Qendrën Kombëtare të Biznesit:
-a) të jenë pronarë të anijeve të peshkimit tregtar;
+a) të jenë pronarë të anijeve të peshkimit tregtar ose subjekte posedues sipas kontratave noteriale me pronarin me afat jo më pak se 5 vite nga lidhja e kontratës me Agjencinë për Zhvillim Bujqësor dhe Rural. Në rastin e posedimit me kontratë, aplikanti duhet të jetë i përcaktuar në lejen e peshkimit;
 b) anija e peshkimit, duhet të jetë e regjistruar në regjistrin e mjeteve lundrues të Shqipërisë;
 c) anija e peshkimit, për të cilën aplikohet për të marrë mbështetje financiare, duhet të ketë leje të vlefshme peshkimi tregtar;
 d) anija e peshkimit duhet të ketë kryer veprimtarinë e peshkimit në det për të paktën 120 ditë gjatë dy vjetëve të fundit nga data e hapjes së aplikimit ose duhet të vërtetojë që ka qenë në kantier gjatë kësaj periudhe;
@@ -113,12 +113,13 @@ e) dokumentin e lejes së vlefshme të peshkimit; AZHBR dërgon listën e subjek
 f) dokumentin e pagesës për taksën vjetore të lejes së peshkimit;
 g) dokument që vërteton që personi fizik ose juridik, ka shlyer tatimet dhe taksat;
 h) dëshmi penaliteti e pronarit të mjetit;
-i) për blerjen e pajisjeve dhe punimet përkatëse duhet të paraqiten (tri) 3 oferta: origjinale dhe të vlefshme të cilat duhet të përmbajnë:
+i) Për blerjen e pajisjeve dhe punimeve paraqiten 3 oferta origjinale, me afat vlefshmërie jo më pak se 6 muaj nga dita e aplikimit, por në çdo rast me afat vlefshmërie që përfshin datën e lidhjes së kontratës me Agjencinë për Zhvillim Bujqësor dhe Rural, dhe që përmban:
 - numrin dhe datën e lëshimit;
 - emrin e kompanisë prodhuese;
 - një përshkrim të hollësishëm të karakteristikave kryesore të pajisjeve (p.sh. përmasat, konsumi i energjisë, fuqia në kw e motorit, kapaciteti ngritës i vinçit etj.);
 - informacione të tjera të dobishme në lidhje me garancinë, kohën e dorëzimit të pajisjes/pajisjeve dhe çmimin përfundimtar.
 Ofertuesit nuk duhet të jenë në konflikt interesi me aplikuesin dhe me njëri-tjetrin;
+Kur një subjekt shpallet fitues me më shumë se një aplikim, Agjencia për Zhvillim Bujqësor dhe Rural dhe subjekti lidhin një kontratë për të gjitha aplikimet që financohen.
 j) dokumentin që vërteton se anija e peshkimit ka kryer veprimtarinë e peshkimit në det për të paktën 120 ditë gjatë dy vjetëve të fundit nga data e thirrjes (Regjistri i Zënieve (logbook) ose vërtetim me firmë dhe vulë nga inspektori i peshkimit të portit ku anija kryen veprimtarinë) ose vërtetim nga Drejtoria e Përgjithshme Detare se anija ka qenë në kantier për riparim;
 k) vërtetim se anija e peshkimit nuk ka përfituar mbështetje për blerjen e motorit kryesor nga projekti IPA 2016 “Support to Fishery Sector ref. no. EuropeAid/ 155184/ DD/ACT/AL, Contract No. 2018/399/301” për rastet kur aplikohet për blerjen dhe instalimin e motorit kryesor.
 Kontrata për zërat në lidhje me blerjen e materialeve, punimet e dokimit dhe riparimit lidhet mbi bazën e zërave të punimeve të parashikuara, çmimet dhe volumet për njësi bazuar në çmimet më të ulëta, sipas zërave të të gjithë ofertave të paraqitura nga aplikantët, të cilët janë të përzgjedhur nga kontrolli administrativ.
@@ -166,7 +167,7 @@ IX. PROCEDURAT E APLIKIMIT, PËRZGJEDHJES, VERIFIKIMIT DHE EKZEKUTIMIT TË PAGES
 4. Mbas plotësimit të dosjes dhe përputhshmërisë së kritereve, aplikimet vlerësohen me pikë, sipas kritereve të vlerësimit për çdo masë përkatëse.
 5. Aplikantët renditen sipas rendit zbritës të pikëve. Për aplikimet me pikë të barabarta, zbatohet parimi “Kush vjen i pari renditet i pari”.
 6. Për masën 7:
-- Referuar tavaneve të financimit, AZHBR-ja njofton aplikantët e renditur mbi vijën e financimit dhe që do të kryejnë riparimet e anijeve në Republikën e Shqipërisë, për nxjerrjen në dok të anijes jo më vonë se 30 korrik 2023, në mënyrë që të vijohet me realizimin e kontrollit para lidhjes së kontratës. Kontrolli para lidhjes së kontratës do të kryhet për të evidentuar zërat e punimeve të parashikuar, bazuar në ofertat e dorëzuara nga aplikantët dhe të vlerësuara nga AZHBR-së, sipas kritereve të përcaktuara në këtë udhëzim. Nëse gjetjet e kontrollit në terren, rezultojnë në përputhje me kushtet dhe kriteret e përcaktuara në këtë udhëzim, AZHBR-ja lidh kontratën përkatëse dhe shpall listën e fituesve.
+- Referuar tavaneve të financimit, AZHBR-ja njofton aplikantët e renditur mbi vijën e financimit dhe që do të kryejnë riparimet e anijeve në Republikën e Shqipërisë, për nxjerrjen në dok të anijes jo më vonë se 31 gusht 2023, në mënyrë që të vijohet me realizimin e kontrollit para lidhjes së kontratës. Kontrolli para lidhjes së kontratës do të kryhet për të evidentuar zërat e punimeve të parashikuar, bazuar në ofertat e dorëzuara nga aplikantët dhe të vlerësuara nga AZHBR-së, sipas kritereve të përcaktuara në këtë udhëzim. Nëse gjetjet e kontrollit në terren, rezultojnë në përputhje me kushtet dhe kriteret e përcaktuara në këtë udhëzim, AZHBR-ja lidh kontratën përkatëse dhe shpall listën e fituesve.
 - Grupi i kontrollit në terren bën verifikimin në vend të aplikimit, duke lajmëruar paraprakisht aplikantin për praninë e tij ose të përfaqësuesit ligjor të pajisur me prokurë.
 - Kontrolli për rastet (nënpika “v” dhe “vi”), kur parashikohet lyerje me bojë përfundimtare të skafit të anijes duhet të kryhet brenda 36 orëve nga momenti i përfundimit të lyerjes, për arsye të mos degradimit të bojës.
 - Në momentin e kontrollit para pagesës, investimi të ketë përfunduar, në përputhje me kontratën e nënshkruar.

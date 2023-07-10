@@ -289,3 +289,15 @@ TVSH respektive (20%)13,4 lekë/L
 ---------------------------------------------
 TOTAL 80,4 lekë/L
 ** Koeficienti i përfitimit të naftës falas mbi normativë = 80,4 lekë/158,4 *100 = 50,8%
+ANEKS 10/1
+PROCESVERBAL DORËZIMI ME SHËRBIM POSTAR
+Sot, më datë ___.___.2023, u dorëzua te z./znj. _______________, ose te personi i autorizuar me prokurë z./znj. _______________.
+Sasia e naftës e përfituar _______________ litra
+Sasia e naftës që tërhiqet:
+1. Sasia _______________ litra, brenda datës ___.___.2023.
+1. Sasia _______________ litra, brenda datës ___.___.2023
+Sasia e naftës bëhet aktive brenda 7 (shtatë) ditësh nga dorëzimi.
+Bashkëlidhur fotokopje e letërnjoftimit elektronik.
+Prokurë përfaqësimi (nëse ka).
+Dorëzues për “Posta Shqiptare” sh.a. Marrësi në dorëzim
+____________________ ___________________
