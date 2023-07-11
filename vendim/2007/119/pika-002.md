@@ -1,1 +1,0 @@
-2. Ministria e Integrimit, në bashkëpunim me të gjitha ministritë e linjës dhe institucionet e tjera qendrore, përkatësisht sipas fushës së veprimtarisë së tyre, përcakton kalendarin vjetor të përkthimit të legjislacionit të Bashkimit Europian në gjuhën shqipe dhe të legjislacionit shqiptar në njërën nga gjuhët e vendeve anëtare të BE-së.

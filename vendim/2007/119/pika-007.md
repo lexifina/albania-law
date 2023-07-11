@@ -1,1 +1,0 @@
-7. Ministritë e linjës dhe institucionet e tjera qendrore janë të detyruara t’i vënë në dispozicion Ministrisë së Integrimit bazën e të dhënave të legjislacionit të Bashkimit Europian, të përkthyer në gjuhën shqipe dhe të legjislacionit shqiptar, të përkthyer në njërën nga gjuhët e BE-së.
