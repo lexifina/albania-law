@@ -1,0 +1,1 @@
+6. Përfitimi i lehtësirave tatimore, sipas shkronjës “c”, të pikës 1, të nenit 12, të ligjit nr. 58/2022, “Për krijimin, organizimin dhe funksionimin e parqeve teknologjike dhe shkencore”, nuk e përjashton zhvilluesin nga dorëzimi i deklaratës tatimore, sipas parashikimeve të legjislacionit përkatës në fuqi.

@@ -1,0 +1,1 @@
+5. Zhvilluesi duhet të mbajë regjistrat dhe dokumentacionin kontabël, që përmbajnë informacionin e regjistruar në mënyrë kronologjike dhe sistematike të veprimeve ekonomike, të përcaktuar në legjislacionin tatimor.

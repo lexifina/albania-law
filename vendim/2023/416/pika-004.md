@@ -1,0 +1,1 @@
+4. Zhvilluesi, në mjediset ku ushtron veprimtarinë ekonomike, krijon aksesin e nevojshëm për nëpunësit e administratës tatimore dhe vë në dispozicion të saj librat, regjistrimet, informacionin dhe dokumentacionin e kërkuar.

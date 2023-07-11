@@ -1,0 +1,10 @@
+8. Përfiton, sipas parashikimeve të shkronjës “ç”, të nenit 12, të ligjit nr. 58/2022, “Për krijimin, organizimin dhe funksionimin e parqeve teknologjike dhe shkencore”, stafi i zhvilluesit që ka lidhur kontratë pune, sipas dispozitave të Kodit të Punës të Republikës së Shqipërisë.
+III. RREGULLAT DHE PROCEDURAT PËR PËRFITIMIN E LEHTËSIRAVE FISKALE NGA PËRDORUESI
+1. Përdoruesi përfiton lehtësirat fiskale vetëm pasi zhvilluesi ka njoftuar institucionin përgjegjës, institucionet e tjera qendrore dhe lokale për fillimin e aktivitetit të përdoruesit.
+2. Drejtoria e Përgjithshme e Doganave në bashkëpunimin me zhvilluesin krijon strukturën përkatëse me personel doganor për kryerjen e formaliteteve doganore dhe administrative në park.
+3. Llogaritja dhe përjashtimi nga tatimi mbi fitimin për përdoruesit e parkut teknologjik dhe shkencor fillon nga data kur zhvilluesi lidh kontratë me përdoruesin.
+4. Përdoruesi, që ushtron veprimtari ekonomike sipas kontratës së qirasë të lidhur me zhvilluesin, brenda territorit të parkut teknologjik dhe shkencor, dhe selia e regjistruar e të cilit është në park, do të përfitojë lehtësira fiskale sipas parashikimeve të shkronjës “c”, të pikës 1, të nenit 12, të ligjit.
+5. Përfitimi i lehtësirave tatimore sipas pikës 4, të këtij kreu, nuk e përjashton përdoruesin nga dorëzimi i deklaratës tatimore, sipas parashikimeve të legjislacionit përkatës në fuqi.
+6. Sipërmarrësit, që ofrojnë dhe kryejnë shërbime ndërtimi, montimi dhe punë të ngjashme, për llogari të “përdoruesit” në parkun teknologjik dhe shkencor, nuk përfitojnë lehtësirat fiskale për veprimtarinë që kryejnë në parkun teknologjik dhe shkencor.
+7. Përdoruesi duhet të mbajë regjistrat dhe dokumentacionin kontabël, që përmbajnë informacionin e regjistruar në mënyrë kronologjike dhe sistematike të veprimeve ekonomike, të përcaktuar në legjislacionin tatimor.
+8. Përfiton sipas parashikimeve të shkronjës “ç”, të pikës 1, të nenit 12, të ligjit nr. 58/2022, “Për krijimin, organizimin dhe funksionimin e parqeve teknologjike dhe shkencore”, stafi i përdoruesit që ka lidhur kontratë pune sipas dispozitave të Kodit të Punës të Republikës së Shqipërisë.

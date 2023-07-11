@@ -1,0 +1,1 @@
+7. Sipërmarrësit, që ofrojnë dhe kryejnë shërbime ndërtimi, montimi dhe punë të ngjashme, për llogari të “zhvilluesit” në parkun teknologjik dhe shkencor, nuk përfitojnë lehtësirat fiskale për veprimtarinë që kryejnë në parkun teknologjik dhe shkencor.
