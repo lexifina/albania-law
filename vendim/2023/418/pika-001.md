@@ -1,0 +1,1 @@
+1. Çdo person fizik ose juridik, shqiptar ose i huaj, mund të paraqesë te zhvilluesi kërkesën për miratimin si përdorues për të ushtruar aktivitet brenda parkut. Forma dhe mënyra e paraqitjes së kërkesës përcaktohen me udhëzim të ministrit përgjegjës për ekonominë.

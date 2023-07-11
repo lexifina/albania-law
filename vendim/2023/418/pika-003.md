@@ -1,0 +1,1 @@
+3. Kur kandidati për përdorues është person fizik, juridik, i huaj, duhet të paraqesë dokumentin zyrtar i cili vërteton se ofertuesi është i regjistruar në regjistrat përkatës tregtarë ose dokument të ngjashëm, të lëshuar nga institucionet përkatëse në shtetin e origjinës.

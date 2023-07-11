@@ -1,0 +1,1 @@
+4. Dokumentet e siguruara jashtë territorit të Republikës së Shqipërisë nga subjekte juridike të huaja duhet të jenë të notifikuara, në zbatim të legjislacionit në fuqi për ligjërimin e dokumentacionit të shtetasve të huaj që ushtrojnë veprimtari në Republikën e Shqipërisë.
