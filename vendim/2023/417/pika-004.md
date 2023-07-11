@@ -1,0 +1,1 @@
+4. Pasuritë e paluajtshme shtetërore, që përdoren për krijimin e parkut teknologjik, merren në përdorim nga zhvilluesi për një periudhë kohore jo më pak se 20 (njëzet) vjet. Elementet e kontratës së qirasë janë të përcaktuara në aneksin 1, bashkëlidhur vendimit.
