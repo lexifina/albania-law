@@ -1,0 +1,26 @@
+{
+  "qbz_id": 26110,
+  "title": "Për një ndryshim në ligjin nr. 9975, datë 28.7.2008, “Për taksat kombëtare”” të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "38",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2023-06-08",
+  "published": "2023-06-27",
+  "in_force": "2023-07-12",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/79390c9ead210d7d82719e7581eebecb81963d5c87ebd85a80cfe1cf633fc03d.docx",
+  "source_sha256": "79390c9ead210d7d82719e7581eebecb81963d5c87ebd85a80cfe1cf633fc03d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/26110",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2023/06/08/38",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
