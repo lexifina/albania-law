@@ -1,7 +1,7 @@
 # Neni 14
 Mbajtja dhe përdorimi i armëve dhe mjeteve të tjera
 1. Punonjësi i Policisë së Burgjeve, gjatë ushtrimit të detyrës dhe për shkak të saj, ka të drejtë të mbajë armë dhe pajisje të tjera kufizuese vetëm në rastet dhe sipas kritereve të përcaktuara në legjislacionin në fuqi.
-2. Punonjësit e strukturës së posaçme në Policinë e Burgjeve, grupet e shoqërimit, përgjegjësit e shërbimit në regjimin e brendshëm dhe të jashtëm, si dhe forcat operacionale e mbajnë armën në përdorim personal edhe jashtë orëve të shërbimit. Përjashtim bën mbajtja e armës së njësisë, e cila i jepet punonjësit të caktuar përpara fillimit të turnit të shërbimit apo një operacioni të caktuar dhe nuk mbahet me vete jashtë orëve të shërbimit.
+2. Punonjësit në Policinë e Burgjeve e mbajnë armën në përdorim personal edhe jashtë orëve të shërbimit, sipas kushteve të përcaktuara me vendim të Këshillit të Ministrave.
 3. Punonjësi i Policisë së Burgjeve ndalohet të përdorë armë brenda regjimit të brendshëm të institucioneve të ekzekutimit të vendimeve penale, përveçse në situatat emergjente, sipas legjislacionit në fuqi për përdorimin e armëve të zjarrit.
 4. Në çdo rast ndalohet përdorimi i zinxhirëve dhe i hekurave dhe çdo mjet tjetër që e vendos personin në kushtet e torturës, trajtimit ose dënimit çnjerëzor apo degradues. Përdorimi i pajisjeve të tjera kufizuese në regjimin e brendshëm të institucionit lejohet vetëm në raste të veçanta me qëllim:
 a) garantimin e rendit dhe sigurisë së institucionit, apo të sigurisë fizike personale apo shëndetit të vetë të burgosurit;

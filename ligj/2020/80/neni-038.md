@@ -1,8 +1,8 @@
 # Neni 38
 Përcaktimi i gradave në funksion
 1. Punonjësit e rolit bazë mbajnë gradat si më poshtë:
-a) nëninspektorë janë punonjësit e rolit ekzekutiv në detyra mbikëqyrjeje;
-b) inspektorë janë punonjësit e rolit bazë me funksione ekzekutive dhe kontrolluese;
+a) shfuqizuar;
+b) inspektorë janë punonjësit e rolit bazë me funksione ekzekutive, mbikëqyrëse dhe kontrolluese;
 c) kryeinspektorë janë punonjësit e rolit bazë në funksione: ndihmës specialistë të policisë, përgjegjës shërbimi në regjimin e posaçëm dhe përgjegjës grupi në forcat operacionale.
 2. Punonjës të nivelit të mesëm:
 a) nënkomisarë janë punonjësit e rolit të mesëm në funksione mbështetje dhe menaxhimi të shërbimeve dhe sigurisë në seksione;

@@ -11,4 +11,4 @@ c) nënkomisar.
 4. Gradat për punonjësin e rolit bazë janë:
 a) kryeinspektor;
 b) inspektor;
-c) nëninspektor.
+c) shfuqizuar.
