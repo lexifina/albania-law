@@ -1,0 +1,1 @@
+9. Pasi ZVAP-ja ka njohur dhe njësuar dëftesën e përfundimit të arsimit bazë/dëftesa klase të arsimit bazë, njofton zyrtarisht drejtorin e shkollës për klasën ku nxënësi do të regjistrohet, si dhe i dërgon një kopje të vërtetimit të njohjes dhe njësimit, i cili përmban vlerësimet e njëvlerësuara.

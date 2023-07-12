@@ -1,0 +1,1 @@
+4. Njohja dhe njësimi i dëftesës së përfundimit të arsimit bazë, dëftesave të klasave të nxënësve të arsimit parauniversitar të fituara jashtë vendit, bazuar në procedurën zyrtare të njëvlershmërisë, ka për qëllim njohjen e së drejtës për të vazhduar arsimin parauniversitar në Republikën e Shqipërisë.

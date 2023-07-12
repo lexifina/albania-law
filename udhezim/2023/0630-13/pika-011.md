@@ -1,0 +1,47 @@
+11. Pasi ZVAP-ja ka njohur dhe njësuar dëftesën e klasës së arsimit të mesëm të lartë, mbi bazën e dokumentacionit të dorëzuar dhe planit mësimor të shkollës, ku nxënësi do të regjistrohet, dërgon zyrtarisht në shkollë vërtetimin e njëvlershmërisë për lëndët që nxënësi ka kryer sipas planit mësimor të shkollës pritëse, si dhe lëndët të cilat duhet të japë provim.
+a) Kur nxënësi ka plotësuar më pak se gjysmën e lëndëve të planit mësimor të klasës ku kërkon të regjistrohet, atëherë përsërit klasën.
+b) Kur nxënësi ka plotësuar më shumë se gjysmën e lëndëve të planit mësimor të klasës ku kërkon të regjistrohet, atëherë regjistrohet në klasën që kërkon dhe jep provim çdo lëndë që nuk ka kryer dhe i përket planit mësimor. Provimet jepen brenda 3 ditëve, pasi ka marrë miratimin për regjistrim.
+c) Drejtori i shkollës cakton datat e provimeve lëndore në periudhën e përcaktuar në shkronjën “b” të kësaj pike.
+KREU IV
+PROCEDURAT E NJOHJES DHE TË NJËSIMIT TË DIPLOMËS
+SË ARSIMIT TË MESËM TË LARTË
+1. Procedura e njohjes dhe njësimit e diplomës së shkollës së mesme, që i përket nivelit 4 të Kornizës Shqiptare dhe Kornizës Evropiane të Kualifikimeve, pas aplikimit online, vijon me shqyrtimin dhe verifikimin e dokumentacionit nga ana e Komisionit të Njohjes së Diplomave në QSHA. Kjo procedurë, kur dosja e aplikimit është e plotësuar me të gjithë dokumentacionin e kërkuar sipas këtij udhëzimi, përfundon brenda 45 ditëve.
+1.1 Sektori i Njohjes së Diplomave të Arsimit Parauniversitar (SNjD) në QSHA shërben si sekretariat teknik i Komisionit të Njohjes së Diplomave.
+1.2 Aplikimi nuk konsiderohet i plotë nëse mungon një nga dokumentet e cituara në këtë udhëzim.
+1.3 Informimi dhe kërkesa për plotësim dokumentacioni bëhet me postë elektronike. Procedura e njohjes dhe njësimit fillon menjëherë pasi QSHA-së i është shfaqur aplikimi në sistemin online në rastet kur dokumentacioni i ngarkuar në formë elektronike është i plotë sipas përcaktimeve të këtij udhëzimi.
+1.4 Brenda 5 (pesë) ditëve nga fillimi i procedurës së njohjes dhe njësimit, SNJD-ja kontakton me anë të postës elektronike me institucionin përgjegjës që ka lëshuar diplomën.
+1.5 Në çdo rast, procedura e njohjes dhe e njësimit nuk mund të përfundojë, nëse aplikanti nuk paraqet me postë në QSHA në formatin shkresor dokumentacionin e parashikuar në këtë udhëzim.
+1.6 Në rast të konstatimit të mangësive në dokumentacion, SNJD-ja i kërkon aplikantit fillimisht plotësimin e dokumentacionit me anë të postës elektronike, brenda 15 ditëve nga momenti i depozitimit të aplikimit. Në rast të mosdepozitimit të plotësimeve brenda 30 ditëve, aplikantit i kërkohen plotësime për herë të dytë me anë të postës elektronike, të cilat duhet të depozitohen brenda 30 ditëve në QSHA. Në të kundërt, shqyrtimi i aplikimit përkatës ndërpritet dhe dokumentacioni arkivohet në QSHA.
+1.7 SNJD-ja llogarit afatet e përcaktuara në këtë udhëzim për njohjen dhe njësimin e diplomës, duke iu referuar datës së plotësimit të praktikës me të gjithë dokumentacionin e plotë.
+2. QSHA-ja, në zbatim të procedurës së verifikimit:
+a) Kërkon çdo informacion shtesë që e konsideron të nevojshëm për vlerësimin objektiv për njohjen dhe njësimin e diplomës;
+b) I kërkon IA-së përkatëse, përmes postës elektronike, konfirmimin e autenticitetit, të paktën dy herë, dhe në rast mospërgjigjeje, konfirmimi kërkohet me shkresë zyrtare (dërguar me postë zyrtare). Gjithashtu, konfirmimi kërkohet edhe nga institucionet e tjera përgjegjëse sipas rastit.
+c) Në rast se pas 1 (një) viti nga momenti i kërkesës së konfirmimit me shkresë zyrtare, ende nuk ka një përgjigje nga IA-ja, shqyrtimi i aplikimit përkatës ndërpritet dhe dokumentacioni arkivohet në QSHA. Aplikanti njoftohet për vendimin e Komisionit të Njohjes së Diplomave mbi arkivimin e dokumentacionit.
+d) QSHA-ja, sipas rastit, kërkon informacion pranë qendrave të Rrjetit Evropian të Informimit dhe Njohjes së Diplomave (ENIC-NARIC) dhe institucioneve përgjegjëse të shteteve të tjera mbi statusin e institucioneve të arsimit parauniversitar, vlefshmërinë e diplomave, nivelin e tyre sipas kornizës kombëtare apo evropiane të kualifikimeve, si dhe informacion tjetër shtesë në funksion të njësimit të diplomës.
+e) Materialet shkresore ose të printuara për të gjitha verifikimet e kryera, depozitohen në dosjen e aplikantit. Për verifikimet e kryera online, dokumentacioni i printuar nënshkruhet nga nëpunësi që kryen verifikimet dhe depozitohet në dosjen e aplikantit.
+3. Komisioni i Njohjes së Diplomave ngrihet me urdhër të titullarit të QSHA-së, si dhe drejtohet nga kryetari dhe përbëhet nga tre anëtarë. Komisioni i Njohjes së Diplomave shqyrton, njeh dhe njëson diplomën e arsimit të mesëm të lartë.
+4. Njëvlershmëria e rezultateve të arritura në shtetin përkatës të kryhet sipas shtojcës nr. 3, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
+4.1 Njëvlershmëria e notave në sistemin shqiptar bëhet me nota të plota, duke krahasuar sistemimin e vlerësimit në shtetin që ka lëshuar dokumentin shkollor me sistemin e vlerësimit në Republikën e Shqipërisë.
+4.2 Për shtete të tjera që nuk pasqyrohen në tabelë, njëvlershmëria bëhet me sistemin e vlerësimit të shtetit përkatës nga faqet zyrtare në internet dhe ENIC/NARIC.
+4.3 Në rastet kur nga dokumentacioni i paraqitur rezulton se sistemi i vlerësimit është i ndryshëm nga ai i parashikuar në shtojcën nr. 3, njëvlershmëria bëhet sipas sistemit të vlerësimit të kohës kur është lëshuar dokumenti, duke shkarkuar sistemin e vlerësimit të shtetit përkatës nga faqet zyrtare në internet dhe ENIC/NARIC.
+5. Njëvlershmëria e rezultateve të provimeve të maturës shtetërore të arritura në shtetin përkatës kryhet duke krahasuar sistemin e vlerësimit të maturës në shtetin që ka lëshuar dokumentin e maturës me sistemin e vlerësimit të maturës në Republikën e Shqipërisë.
+5.1 Njëvlershmëria e notave të maturës në sistemin shqiptar bëhet me nota të shkallëzuara, duke krahasuar sistemin e vlerësimit të maturës në shtetin që ka lëshuar dokumentin e maturës, me sistemin e vlerësimit në Republikën e Shqipërisë.
+5.2 Për shtetet, sipas legjislacionit të të cilave nxënësit mund të regjistrohen në institucionet e arsimit të lartë edhe duke qenë mbetës në provimet e maturës, si dhe janë pajisur me dokumentin zyrtar të përfundimit të arsimit të mesëm të lartë, njëvlershmëria e notave të maturës do të kryhet sipas mesatares të shkallëzuar të notave të lëndëve përkatëse gjatë viteve të shkollës së mesme.
+5.3 Për shtetet, sipas legjislacionit të të cilave nuk ka sistem mature dhe nxënësit janë pajisur me dokumentin zyrtar të përfundimit të arsimit të mesëm të lartë, njëvlershmëria e notave të maturës do të kryhet sipas mesatares të shkallëzuar të notave të lëndëve përkatëse gjatë viteve të shkollës së mesme. Ata nuk kanë detyrim që të japin provim mature në Republikën e Shqipërisë.
+6. Komisioni i Njohjes së Diplomave njëvlerëson lëndën, e cila përcakton njohuritë gjuhësore dhe letrare të shtetit nga vjen nxënësi, me lëndën/lëndët “Gjuhë shqipe dhe letërsi”.
+7. Komisioni i Njohjes së Diplomave merr vendimin për njohje dhe njësim të diplomës së shkollës së mesme, ose mund të vendosë ta kthejë për plotësime të tjera të nevojshme të dokumentacionit te sekretaria teknike (SNJD), sipas këtij udhëzimi. Sekretaria teknike (SNJD) zbardh raportin dhe vendimin e Komisionit të Njohjes së Diplomave, i cili lëshon vërtetimin e njohjes dhe njësimit për çdo aplikant, sipas shtojcës nr. 5, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij. Në rastet kur Komisioni nuk merr vendim për njohjen dhe njësimin e diplomës, i kthen përgjigje të arsyetuar aplikantit për arsyet dhe mangësitë e aplikimit.
+8. Komisioni i Njohjes së Diplomave në QSHA, për njohjen dhe njësimin e diplomës, interpreton dhe merr vendim të argumentuar mbi njohjen ose jo, të mbështetur në legjislacionin shqiptar për arsimin parauniversitar, marrëveshjet ndërkombëtare të ratifikuara, si edhe në praktikat më të mira të njohura të vendeve perëndimore.
+9. Vërtetimi i njohjes dhe i njësimit për diplomën e shkollës së mesme, që i përket nivelit 4 të Kornizës Shqiptare dhe Kornizës Evropiane të Kualifikimeve, lëshohet i nënshkruar nga titullari i QSHA-së dhe nga kryetari i Komisionit të Njohjes së Diplomave në dy kopje origjinale (njëra kopje i bashkëngjitet vendimit përkatës të Komisionit të Njohjes së Diplomave dhe ruhet në dosjen e aplikimit përkatës).
+10. Vërtetimi i njohjes dhe i njësimit të diplomës së shkollës së mesme përmban minimalisht elementet e mëposhtme:
+a) emrin, atësinë dhe mbiemrin e aplikantit;
+b) institucionin e huaj të arsimit parauniversitar që ka lëshuar diplomën;
+c) shtetin përkatës;
+d) njëvlershmërinë e rezultateve të arritura në shtetin përkatës;
+e) datën e lëshimit të diplomës;
+f) lloji i arsimit të mesëm të lartë;
+g) tabelën e njëvlershmërisë të notave dhe notën mesatare të të gjitha viteve të arsimit të mesëm të lartë;
+h) notat e njëvlershme me provimet e maturës shtetërore në Republikën e Shqipërisë;
+i) notën mesatare të provimeve të maturës;
+j) notën mesatare të përgjithshme të njëvlerësuar, sipas vendimit të Këshillit të Ministrave për notën mesatare;
+k) njohjen dhe njësimin e diplomës të arsimit parauniversitar në Republikën e Shqipërisë.
+11. QSHA-ja është institucioni përgjegjës për mbajtjen dhe plotësimin e regjistrit zyrtar të njohjes dhe njësimit të diplomave. Regjistrat mbahen në formatin hard copy dhe në atë elektronik.

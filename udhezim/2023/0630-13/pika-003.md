@@ -1,0 +1,1 @@
+3. Njohja dhe njësimi i diplomës së arsimit të mesëm të lartë, bazuar në procedurën zyrtare të njëvlershmërisë, ka për qëllim njohjen e së drejtës për të vazhduar arsimin e lartë, ose punësimin në Republikën e Shqipërisë.
