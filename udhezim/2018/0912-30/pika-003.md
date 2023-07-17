@@ -1,1 +1,0 @@
-3. Grupet e përziera të nxënësve në zonat rurale të formohen me jo më pak se 10 nxënës që frekuentojnë. Në rastet kur ky numër nxënësish nuk sigurohet, me miratim të njësisë së vetëqeverisjes vendore mund të formohet grup me jo më pak se 5 nxënës që frekuentojnë.

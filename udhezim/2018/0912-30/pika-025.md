@@ -1,1 +1,0 @@
-25. Si rregull mësuesit të cilëve u është ulur norma për kryerjen e veprimtarive të ndryshme të përcaktuara në këtë udhëzim nuk mund të ngarkohen me orë shtesë të pagueshme përveç rasteve kur shkolla në bashkëpunim me Zyrën Vendore Arsimore nuk mund t’i mbulojë ato me mësues të tjerë.
