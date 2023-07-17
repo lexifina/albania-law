@@ -1,0 +1,1 @@
+22. Për zhvillimin e praktikës në shkollat e mesme të gjuhëve të huaja, të lëndëve të specialitetit në shkollat koreografike dhe teori solfezhi në shkollat e muzikës, kur klasa ka mbi 20 nxënës, ndahet në dy grupe.

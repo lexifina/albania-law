@@ -1,0 +1,1 @@
+17. Mësuesit që merret me veprimtaritë artistike dhe mësuesit që kryen detyrën e koordinatorit të qeverisë së nxënësve për shkollat nën 700 nxënës i llogariten secilit 2 orë në javë dhe për shkollat mbi 700 nxënës i llogariten secilit 4 orë në javë.

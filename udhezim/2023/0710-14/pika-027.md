@@ -1,0 +1,1 @@
+27. Në shkollat që nuk kanë as nëndrejtor, as sekretar, ngarkohet një mësues për plotësimin e amzës së shkollës, si dhe një mësues për Sistemin e Menaxhimit të Informacionit Parauniversitar në shkollë, të cilëve u ulet ngarkesa me 2 orë mësimore në javë.

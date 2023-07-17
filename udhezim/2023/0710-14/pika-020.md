@@ -1,0 +1,1 @@
+20. Mësuesit të specialitetit në shkollat sportive, kur stërvit grupet/ekipet sportive të shkollës për pjesëmarrje në takimet sportive (kampionate rajonale, kombëtare dhe ndërkombëtare), sipas kalendarëve sportivë të federatave shqiptare përkatëse, në përmbushje të veprimtarive sportive të parashikuara në kurrikulën sportive, i llogariten si ngarkesë mësimore 3 orë në javë.

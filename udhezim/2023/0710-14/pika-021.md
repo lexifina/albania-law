@@ -1,0 +1,4 @@
+21. Mësimi në lëndën e edukimit fizik zhvillohet i ndarë sipas gjinisë dhe, kur është e mundur, mësuesi të jetë i së njëjtës gjini me nxënësit. Ndarja sipas gjinisë bëhet sipas këtij rregulli:
+a) Në arsimin e mesëm të ulët dhe atë të mesëm të lartë, kur numri i nxënësve për çdo gjini është jo më pak se 10 nxënës, mësimi i edukimit fizik të bëhet i ndarë në gjini.
+b) Në arsimin e mesëm të ulët dhe atë të mesëm të lartë që kanë klasa paralele, kur numri i nxënësve për çdo gjini në të paktën një paralel, është më i vogël se 10 nxënës, mësimi i edukimit fizik të bëhet i ndarë në gjini, por duke bashkuar dy paralele.
+c) Në arsimin e mesëm të ulët dhe atë të mesëm të lartë që nuk kanë klasa paralele, kur numri i nxënësve për çdo gjini është më i vogël se 10, mësimi i edukimit fizik të bëhet pa u ndarë në gjini.

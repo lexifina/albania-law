@@ -1,0 +1,1 @@
+29. Si rregull, mësuesit të cilëve u është ulur ngarkesa për kryerjen e veprimtarive të ndryshme të përcaktuara në këtë udhëzim, nuk mund të ngarkohen me orë shtesë të pagueshme, përveç rasteve kur shkolla në bashkëpunim me institucionin arsimor vendor, përgjegjës për arsimin parauniversitar, nuk mund t’i mbulojë ato orë me mësues të tjerë.
