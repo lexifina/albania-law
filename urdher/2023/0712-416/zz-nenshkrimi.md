@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTËR BUJQËSISË DHE ZHVILLIMIT RURAL
+Frida Krifca
