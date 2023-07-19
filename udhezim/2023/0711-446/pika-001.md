@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim përcaktimin e rregullave të hollësishme për formatin e kërkesës, dokumentacionin shoqërues të kërkesës për akreditim të institucionit muzeor pranë Muzeut Historik Kombëtar (MHK), me qëllim dhënien ose jo të akreditimit për muzeun.

@@ -1,0 +1,1 @@
+10. Raporti përfundimtar në vijim të vëzhgimeve të subjekteve të interesuara i paraqitet KKM-së jo më vonë se 8 muaj, nga paraqitja e kërkesës. Bordi i Akreditimit të Muzeve, në fund të raportit i propozon KKM-së dhënien ose jo të akreditimit për muzeun.

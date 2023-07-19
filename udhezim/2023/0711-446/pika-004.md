@@ -1,0 +1,1 @@
+4. Çdo institucion qendror dhe vendor, person fizik apo juridik i regjistruar, sipas legjislacionit shqiptar në fuqi, ka të drejtë të paraqesë kërkesë për akreditimin e muzeut, sipas formatit bashkëlidhur këtij udhëzimi, jo më vonë se një periudhë kohore prej 5 vitesh nga krijimi i tyre.

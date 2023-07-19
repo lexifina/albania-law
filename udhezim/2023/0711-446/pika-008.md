@@ -1,0 +1,1 @@
+8. Në rast se MHK-ja konstaton se kërkesa e paraqitur nga kërkuesi nuk plotëson dokumentacionin e përcaktuar në pikën 5 të këtij udhëzimi njofton kërkuesin për të bërë plotësimet e nevojshme brenda një afati 10-ditor.

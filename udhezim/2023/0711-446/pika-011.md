@@ -1,0 +1,1 @@
+11. Vendimi i KKM-së për akreditimin e muzeut apo rrëzimin e kërkesës i njoftohet palës propozuese dhe ministrisë përgjegjëse për trashëgiminë kulturore, e cila, nëse propozimi është pozitiv, lëshon certifikatën e akreditimit për muzeun.
