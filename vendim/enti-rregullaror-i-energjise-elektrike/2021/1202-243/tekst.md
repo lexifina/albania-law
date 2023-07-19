@@ -4,6 +4,10 @@ Nr. 243, datë 2.12.2021
 
 MBI LICENCIMIN E SHOQËRISË “NOA ENERGY TRADE” SHPK NË VEPRIMTARINË E FURNIZIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendim ERE nr. 235, datë 19.7.2023)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “ç”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të nenit 4, pika 1, germa “d”, nenit 5, pika 1, germa “d” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, të ndryshuar, si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i Entit Rregullator të Energjisë, në mbledhjen e tij të datës 2.12.2021, mbasi shqyrtoi relacionin e përgatitur me nr. 145/1 prot., datë 25.11.2021, nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi licencimin e shoqërisë ‘Noa Energy Trade’ sh.p.k. në veprimtarinë e furnizimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -38,7 +42,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Noa Energy Trade” sh.p.k. në veprimtarinë e furnizimit të energjisë elektrike, për një afat 5-vjeçar.
 
-2. Me fillimin e operimit, shoqëria “Noa Energy Trade” sh.p.k. të depozitojë në ERE sistemin IT.
+2. Shfuqizuar. 
 
 3. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
