@@ -4,7 +4,7 @@ Nr.1497, datë 19.11.2008
 
 Për shtypjen e letrave me vlerë
 
-(ndryshuar me VKM-të nr.150, datë 3.3.2010, nr.277, datë 6.4.2011, nr. 475, datë 25.7.2012, nr. 393, datë 18.6.2014, nr. 373, datë 21.6.2023)
+(ndryshuar me VKM-të nr.150, datë 3.3.2010, nr.277, datë 6.4.2011, nr. 475, datë 25.7.2012, nr. 393, datë 18.6.2014, nr. 373, datë 21.6.2023; nr. 431, datë 19.7.2023)
 
 (i përditësuar)
 
@@ -20,7 +20,7 @@ Me pamundësi të kapacitetit teknologjik nënkuptohet mungesa e software-ve dhe
 
 Me marrjen e kërkesës për shtypjen e biletave të lojërave të fatit, për të cilat Shtypshkronja e Letrave me Vlerë dyshon se nuk ka kapacitetin e duhur teknologjik të shtypjes, ajo mbledh bordin drejtues, i cili analizon ekonomikisht në mënyrë të hollësishme, pamundësinë e shtypjes së këtyre biletave dhe argumenton pamundësinë e kthimit ekonomik, nëse do të investohej për blerjen e teknologjisë së munguar për këto raste. Në përfundim, bordi drejtues i Shtypshkronjës së Letrave me Vlerë merr vendim për pamundësinë e ofrimit të shërbimit, i cili i komunikohet operatorit kërkues. Në vijim, operatori mund të procedojë me nënshkrimin e kontratës për shtypjen e këtyre biletave në shtypshkronja të akredituara, brenda ose jashtë vendit, dhe vë në dijeni institucionin mbikëqyrës të aktivitetit të tij.
 
-2. Letra me vlerë, në kuptimin e këtij vendimi, do të vlerësohen pullat fiskale, biletat e lojërave të fatit, biletat e transportit rrugor dhe atij hekurudhor, pullat e postës shqiptare, si dhe diplomat e maturës shtetërore, bileta, procesverbale, akte kontrolli, vendim për kundërvajtjen administrative, procesverbal i konstatimit të kundërvajtjes administrative, akt verifikimi, vendim dënimi, vërtetim transporti, bileta për hyrje në zonat e mbrojtura/parqe kombëtare për invalidë dhe automjete, fatura, raporte mjekësore, receta me rimbursim 100%, receta me rimbursim të pjesshëm, receta pa rimbursim, formularë vizite, formularët e procedurave mjekësore, rekomandime, kartela, libreza shëndetësore të lëshuara nga institucione shtetërore, si dhe dokumente të prodhuara e të lëshuara nga njësitë e qeverisjes vendore, të cilat përmbajnë numër serial . 
+2. Letra me vlerë, në kuptimin e këtij vendimi, do të vlerësohen pullat fiskale, biletat e lojërave të fatit, biletat e transportit rrugor dhe atij hekurudhor, kuponët për dokumente biometrike, pullat e postës shqiptare, si dhe diplomat e maturës shtetërore, bileta, procesverbale, akte kontrolli, vendim për kundërvajtjen administrative, procesverbal i konstatimit të kundërvajtjes administrative, akt verifikimi, vendim dënimi, vërtetim transporti, bileta për hyrje në zonat e mbrojtura/parqe kombëtare për invalidë dhe automjete, fatura, raporte mjekësore, receta me rimbursim 100%, receta me rimbursim të pjesshëm, receta pa rimbursim, formularë vizite, formularët e procedurave mjekësore, rekomandime, kartela, libreza shëndetësore të lëshuara nga institucione shtetërore, si dhe dokumente të prodhuara e të lëshuara nga njësitë e qeverisjes vendore, të cilat përmbajnë numër serial . 
 
 3.Procedurat, afatet dhe çështje të tjera, që lidhen me prodhimin e letrave me vlerë, rregullohen me udhëzimin e Ministrit të Financave që do të dalë brenda një muaji nga hyrja në fuqi e këtij vendimi.
 
