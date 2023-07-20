@@ -1,0 +1,5 @@
+# Neni 46
+Përfitimi i shërbimit elektronik publik me regjistrim dhe identifikim
+1. Ofrimi i shërbimeve elektronike joinformative apo kërkesa për marrjen e një dokumenti elektronik administrativ bëhet vetëm pasi kryhet regjistrimi dhe autentifikimi i përdoruesit. Origjinaliteti i kërkesës vërtetohet në mënyrë elektronike në përputhje me këtë ligj dhe legjislacionin në fuqi për identifikimin elektronik dhe shërbimet e besuara.
+2. Kërkesa e kryer përmes portalit “e-Albania”, pas verifikimit, i përcillet elektronikisht përmes platformës qeveritare të ndërveprimit autoritetit publik ose subjektit privat përgjegjës për shqyrtimin e kërkesës dhe dhënien e shërbimit elektronik apo për lëshimin e dokumentit elektronik administrativ. Dhënia e shërbimit kryhet sipas afateve të përcaktuara në Kodin e Procedurave Administrative dhe legjislacionit të posaçëm që rregullon shërbimin e kërkuar.
+3. Përpara procesit të regjistrimit, personat informohen për qëllimet e mbledhjes dhe përpunimin e të dhënave personale në kuadër të ofrimit të shërbimeve elektronike.
