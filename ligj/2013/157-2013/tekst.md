@@ -4,6 +4,10 @@ Nr. 157/2013
 
 PËR MASAT KUNDËR FINANCIMIT TË TERRORIZMIT
 
+(ndryshuar me ligjin nr. 43/2017, datë 6.4.2017; nr. 32/2019, datë 17.6.2019, nr. 63/2023, datë 21.7.2023)
+
+(i përditësuar)
+
 Në mbështetje të neneve 78, pika 1 dhe 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 KUVENDI
@@ -32,13 +36,15 @@ Neni 3
 
 Përkufizime
 
+(ndryshuar fjalia e parë e pikës 1 dhe pikës 2, zëvendësuar fjalë në pikën 3, shtuar pika 8 me ligjin nr. 32, datë 17.6.2019)
+
 Në këtë ligj, përveçse kur përcaktohet shprehimisht ndryshe në dispozita të veçanta të tij, termat e mëposhtëm kanë këto kuptime:
 
-1. “Bllokim i përkohshëm” është ndalimi i çdo transanksioni ose pjesëmarrjeje në transferimin, shndërrimin, tjetërsimin ose lëvizjen e fondeve dhe të pasurive të tjera, sipas kushteve dhe kohëzgjatjes së vlefshmërisë të veprimeve të ndërmarra nga organet përkatëse, në përputhje me këtë ligj. Fondet dhe pasuritë e tjera, të bllokuara përkohësisht mbeten në pronësi të personave që kanë të drejtë pronësie mbi to në çastin e vendosjes së masës të bllokimit të përkohshëm.
+1. Bllokim i përkohshëm” është ndalimi i çdo transaksioni, shërbimi financiar apo të tjera të lidhura, pjesëmarrjeje në transferimin, shndërrimin, tjetërsimin ose lëvizjen e fondeve e të pasurive të tjera, për pasuri të luajtshme apo të paluajtshme, sipas kushteve dhe kohëzgjatjes së vlefshmërisë të veprimeve të ndërmarra nga organet përkatëse, në përputhje me këtë ligj. Fondet dhe pasuritë e tjera, të bllokuara përkohësisht mbeten në pronësi të personave që kanë të drejtë pronësie mbi to në çastin e vendosjes së masës të bllokimit të përkohshëm.
 
-2. “Sekuestrim” është ndalimi i çdo transanksioni ose pjesëmarrjeje në transferimin, shndërrimin, tjetërsimin ose lëvizjen e fondeve dhe të pasurive të tjera, sipas kushteve dhe kohëzgjatjes së vlefshmërisë të veprimeve të ndërmarra nga organet përkatëse, në përputhje me këtë ligj. Fondet ose pasuritë e sekuestruara mbeten në pronësi të personave që kanë të drejtë pronësie mbi to në çastin e vendosjes së masës së sekuestrimit.
+2. “Sekuestrim” është ndalimi i çdo transaksioni, shërbimi financiar apo të tjera të lidhura, pjesëmarrjeje në transferimin, shndërrimin, tjetërsimin ose lëvizjen e fondeve dhe të pasurive të tjera, për pasuri të luajtshme apo të paluajtshme, sipas kushteve dhe kohëzgjatjes së vlefshmërisë të veprimeve të ndërmarra nga organet përkatëse, në përputhje me këtë ligj. Fondet ose pasuritë e sekuestruara mbeten në pronësi të personave që kanë të drejtë pronësie mbi to në çastin e vendosjes së masës së sekuestrimit.
 
-3. “Fonde dhe pasuri të tjera” janë pasuritë financiare, depozitat monetare dhe pronat e çdo lloji, të luajtshme ose të paluajtshme, pavarësisht nga mënyra e fitimit, si dhe dokumentet ligjore apo instrumentet e çdo lloji, përfshirë ato elektronike ose digjitale, që provojnë pronësinë ose interesat në këto fonde dhe pasuri të tjera. Këtu përfshihen, por pa u kufizuar vetëm në to, kreditë bankare, çeqet bankare ose të udhëtarëve, urdhërpagesat, aksionet, letrat me vlerë, bonot, pagesat, letërkreditet dhe çfarëdo interesi, dividendi ose të ardhurat e tjera, si dhe vlerat që grumbullohen a gjenerohen nga fonde ose pasuri të tjera.
+3. “Fonde dhe pasuri të tjera” janë pasuritë e çdo lloji, të përfshira, por pa u kufizuar në ato financiare, depozitat monetare, burimet ekonomike dhe pasuritë e çdo lloji, të luajtshme ose të paluajtshme, pavarësisht nga mënyra e fitimit, si dhe dokumentet ligjore apo instrumentet e çdo lloji, përfshirë ato elektronike ose digjitale, që provojnë pronësinë ose interesat në këto fonde dhe pasuri të tjera. Këtu përfshihen, por pa u kufizuar vetëm në to, kreditë bankare, çeqet bankare ose të udhëtarëve, urdhërpagesat, aksionet, letrat me vlerë, bonot, pagesat, letërkreditet dhe çfarëdo interesi, dividendi ose të ardhurat e tjera, si dhe vlerat që grumbullohen a gjenerohen nga fonde ose pasuri të tjera.
 
 4. “Terrorist” është çdo person, shtetas shqiptar, i huaj ose pa shtetësi, person fizik apo juridik, që dyshohet se ka kryer ose ka tentuar të kryejë një apo disa nga veprat e parashikuara në nenin 230 të Kodit Penal.
 
@@ -52,6 +58,16 @@ b) i cili shpallet i tillë me vendim të Këshillit të Ministrave, në bazë t
 
 7. “Person i interesuar” është çdo person që, në mirëbesim, ka ose pretendon se ka një të drejtë të ligjshme pronësie a pasurore në fonde dhe pasuri të tjera të personit të shpallur.
 
+8. “Ngrirja e përkohshme” është ndalimi i transferimit, shndërrimit, disponimit apo lëvizjes së çfarëdo fondi ose pasurie tjetër të zotëruar apo kontrolluar nga personi ose enti i shpallur ku përfshihen:
+
+	a) të gjitha fondet apo pasuritë e tjera që zotërohen ose kontrollohen nga personi apo enti i shpallur dhe jo vetëm ato që mund të lidhen me një kërcënim, përgatitje apo akt terrorist të veçantë; dhe
+
+	b) ato fonde apo pasuri të tjera që tërësisht ose pjesërisht zotërohen apo kontrollohen, drejtpërdrejt ose tërthorazi, nga personi apo enti i shpallur; dhe 
+
+	c) fondet ose pasuritë e tjera të rrjedha apo të prodhuara nga fondet ose pasuritë e tjera që zotërohen apo kontrollohen, drejtpërdrejt ose tërthorazi, nga personi apo enti i shpallur; si dhe
+
+ç) fondet apo pasuritë e personave ose enteve që veprojnë për llogari të apo sipas orientimeve të peronave ose enteve të shpallura.
+
 Neni 4  
 
 Fusha e zbatimit
@@ -62,9 +78,9 @@ Neni 5
 
 Përfshirja në listën e personave të shpallur
 
-1. Këshilli i Ministrave, me propozim të Ministrit të Punëve të Jashtme, në zbatim të rezolutave përkatëse të Këshillit të Sigurimit të Kombeve të Bashkuara, miraton listën e personave të shpallur dhe marrjen e masave për zbatimin e detyrimeve që rrjedhin nga këto rezoluta. 
+1. Këshilli i Ministrave, me propozim të ministrit përgjegjës për punët e jashtme, në zbatim të rezolutave përkatëse të Këshillit të Sigurimit të Kombeve të Bashkuara, miraton listën e personave të shpallur dhe marrjen e masave për zbatimin e detyrimeve që rrjedhin nga këto rezoluta. 
 
-2. Këshilli i Ministrave, me propozim të Ministrit të Financave, në zbatim të Rezolutës 1373 (2001) të Këshillit të Sigurimit të Kombeve të Bashkuara, të çdo marrëveshjeje ndërkombëtare, ku Shqipëria është palë, të vendimeve të Bashkimit Europian apo vendimit të një shteti tjetër, që lidhen me luftën kundër terrorizmit dhe financimit të tij, mund të vendosë përfshirjen e tyre në listën e personave të shpallur. Këshilli i Ministrave mund të refuzojë përfshirjen në listë të personave, kur ky veprim:
+2. Këshilli i Ministrave, me propozim të ministrit përgjegjës për financat, në zbatim të Rezolutës 1373 (2001) të Këshillit të Sigurimit të Kombeve të Bashkuara, të çdo marrëveshjeje ndërkombëtare, ku Shqipëria është palë, të vendimeve të Bashkimit Europian apo vendimit të një shteti tjetër, që lidhen me luftën kundër terrorizmit dhe financimit të tij, mund të vendosë përfshirjen e tyre në listën e personave të shpallur. Këshilli i Ministrave mund të refuzojë përfshirjen në listë të personave, kur ky veprim:
 
 a) është në kundërshtim me parimet themelore të rendit juridik; 
 
@@ -74,13 +90,27 @@ Neni 6
 
 Masa për fondet dhe pasuritë e tjera
 
-1. Ministri  i Financave, deri në miratimin me vendim të Këshillit të Ministrave për përfshirjen në listën e personave të shpallur, mund të urdhërojë bllokimin e përkohshëm për fondet ose pasuritë e tjera të personave, për të cilët ka filluar procedura e shpalljes dhe për të cilët ka dyshime të bazuara për përfshirje, në çdo formë, në vepra të terrorizmit dhe të financimit të tij, të kryera apo që tentohet të kryhen, brenda ose jashtë territorit të Republikës së Shqipërisë.
+(shtuar pika 4/1 me ligjin nr. 32/2019, datë 17.6.2019)
+
+1. Ministri përgjegjës për financat, deri në miratimin me vendim të Këshillit të Ministrave për përfshirjen në listën e personave të shpallur, mund të urdhërojë bllokimin e përkohshëm për fondet ose pasuritë e tjera të personave, për të cilët ka filluar procedura e shpalljes dhe për të cilët ka dyshime të bazuara për përfshirje, në çdo formë, në vepra të terrorizmit dhe të financimit të tij, të kryera apo që tentohet të kryhen, brenda ose jashtë territorit të Republikës së Shqipërisë.
 
 2. Këshilli Ministrave vendos për ndalimin për të kryer shërbime financiare, transaksione me fonde dhe pasuri të tjera personave të shpallur.
 
-3. Ministri i Financave urdhëron sekuestrimin e fondeve dhe pasurive të tjera të personave të shpallur nga Këshilli i Ministrave, të evidentuara e të verifikuara nga organet përgjegjëse.
+3. Ministri përgjegjës për financat urdhëron sekuestrimin e fondeve dhe pasurive të tjera të personave të shpallur nga Këshilli i Ministrave, të evidentuara e të verifikuara nga organet përgjegjëse.
 
 4. Masat e parashikuara vendosen për të gjitha fondet dhe pasuritë e tjera, ku personi i shpallur ushtron të drejta pronësie, kontrolli ose të drejta apo interesa të tjerë, pavarësisht nga fakti se kush i ka në zotërim apo në përdorim fondet apo pasuritë e tjera, sikurse edhe për çdo fond e pasuri tjetër, që është gjetur në posedim ose mbahet nga persona të shpallur.
+
+4/1. Të njëjtat masa merren edhe për fondet dhe pasuritë e tjera: 
+
+	a) në të cilat personi i shpallur ushtron të drejta kontrolli faktike; 
+
+	b) që zotërohen apo kontrollohen nga personi i shpallur, duke mos i kufizuar masat për fondet dhe pasuritë e tjera që mund të lidhen me një akt terrorist specifik, komplot apo kërcënim; 
+
+	c) që janë individualisht apo bashkërisht të zotëruara ose kontrolluara, direkt apo indirekt, nga persona të shpallur;  
+
+	ç) të rrjedhura apo të krijuara nga fondet ose pasuritë e zotëruara apo të kontrolluara, direkt apo indirekt, nga personat e shpallur;
+
+d) të personave që veprojnë për llogari ose nën drejtimin e personave të shpallur.
 
 5. Zbatimi i masës së bllokimit të përkohshëm ose të sekuestrimit nuk pengon mbledhjen e interesave dhe marrjen e përfitimeve nga fondet dhe pasuritë e tjera. Këto masa shtrihen automatikisht edhe mbi fonde dhe pasuri të tjera që fitohen pas zbatimit të tyre.
 
@@ -96,11 +126,15 @@ Neni 7
 
 Organet përgjegjëse për zbatimin e masave kundër financimit të terrorizmit
 
+(hequr fjalë në shkronjën “b”, shtuar shkronja “b/1” me ligjin nr. 32/2019, datë 17.6.2019, ndryshuar emërtime në shkronjat “b” e “c” të pikës 3 me ligjin nr. 63/2023, datë 21.7.2023 )
+
 1. Organet përgjegjëse për zbatimin dhe mbikëqyrjen e masave të marra, të parashikuara në këtë ligj, janë:
 
 a) Banka e Shqipërisë dhe Autoriteti i Mbikëqyrjes Financiare, për subjektet që licencojnë dhe/ose mbikëqyrin;
 
-b) Ministria e Drejtësisë, për Zyrën Qendrore të Regjistrimit të Pasurive të Paluajtshme dhe noterët;
+b) ministria përgjegjëse për çështjet e drejtësisë, për noterët;
+
+b/1) Agjencia Shtetërore e Kadastrës;
 
 c) ministritë apo autoritetet përkatëse, për institucionet në vartësi dhe për subjektet që licencojnë dhe/ose mbikëqyrin, që mbajnë ose administrojnë regjistra të fondeve dhe pasurive të tjera.
 
@@ -110,9 +144,9 @@ c) ministritë apo autoritetet përkatëse, për institucionet në vartësi dhe 
 
 a) kontrollojnë zbatimin e masave kundër financimit të terrorizmit nga subjektet dhe sigurohen se këto masa janë të përshtatshme;
 
-b) informojnë në kohë dhe bashkëpunojnë me Drejtorinë e Përgjithshme të Parandalimit të Pastrimit të Parave për çështjet e mospërputhshmërisë, rezultatet e inspektimeve të tyre, masat përmirësuese që do të merren dhe masat administrative, nëse ka pasur;
+b) informojnë në kohë dhe bashkëpunojnë me Agjencinë e Inteligjencës Financiare për çështjet e mospërputhshmërisë, rezultatet e inspektimeve të tyre, masat përmirësuese që do të merren dhe masat administrative, nëse ka pasur;
 
-c) bashkëpunojnë me Drejtorinë e Përgjithshme të Parandalimit të Pastrimit të Parave dhe ofrojnë asistencë të specializuar, sipas veprimtarisë së tyre, në fushën e zbatimit të masave kundër financimit të terrorizmit;
+c) bashkëpunojnë me Agjencinë e Inteligjencës Financiare dhe ofrojnë asistencë të specializuar, sipas veprimtarisë së tyre, në fushën e zbatimit të masave kundër financimit të terrorizmit;
 
 ç) përgatitin dhe shpërndajnë programe trajnimi për zbatimin e këtij ligji.
 
@@ -120,31 +154,57 @@ Neni 8
 
 Mbledhja dhe administrimi i të dhënave
 
-1. Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave merr masa për mbledhjen dhe administrimin e të dhënave për:
+(ndryshuar emërtime në pikat 1 e 2 me ligjin nr. 63/2023, datë 21.7.2023)
+
+1. Agjencia e Inteligjencës Financiare merr masa për mbledhjen dhe administrimin e të dhënave për:
 
 a) personat e shpallur apo personat, për të cilët është filluar procedura e brendshme e shpalljes;
 
 b) fondet dhe pasuritë e tjera që disponojnë ose lidhen me të drejta ose interesa të tjerë të personave të shpallur apo në procedurë të brendshme për shpallje.      
 
-2. Mbledhja, përpunimi, analiza, ruajtja dhe përdorimi i të dhënave për zbatimin e masave kundër financimit të terrorizmit, sipas këtij ligji, bëhen nga Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave.
+2. Mbledhja, përpunimi, analiza, ruajtja dhe përdorimi i të dhënave për zbatimin e masave kundër financimit të terrorizmit, sipas këtij ligji, bëhen nga Agjencia e Inteligjencës Financiare.
 
 Neni 9
 
 Shkëmbimi i të dhënave
 
-Ministri i Financave, Ministri i Brendshëm, Ministri i Punëve të Jashtme, Ministri i Drejtësisë, Ministri i Mbrojtjes, Prokurori i Përgjithshëm, Drejtori i Shërbimit Informativ të Shtetit dhe Guvernatori i Bankës së Shqipërisë, sipas fushës dhe përgjegjësive, shkëmbejnë informacione dhe të dhëna në nivel kombëtar e ndërkombëtar për personat e shpallur, për të cilët ka dyshime të bazuara për përfshirje, në çdo formë, në vepra të terrorizmit dhe të financimit të tij, ose për të cilët ka filluar procedura e brendshme e shpalljes.
+(shtuar fjalë me ligjin nr. 43/2017, datë 6.4.2017)
+
+Ministri përgjegjës për financat, ministri përgjegjës për çështjet e rendit dhe sigurisë publike, ministri përgjegjës për punët e jashtme, ministri përgjegjës për çështjet e drejtësisë, ministri përgjegjës për çështjet e mbrojtjes, Prokurori i Përgjithshëm, Drejtuesi i Prokurorisë së Posaçme, Drejtori i Shërbimit Informativ të Shtetit dhe Guvernatori i Bankës së Shqipërisë, sipas fushës dhe përgjegjësive, shkëmbejnë informacione dhe të dhëna në nivel kombëtar e ndërkombëtar për personat e shpallur, për të cilët ka dyshime të bazuara për përfshirje, në çdo formë, në vepra të terrorizmit dhe të financimit të tij, ose për të cilët ka filluar procedura e brendshme e shpalljes.
 
 Neni 10
 
 Detyrimi për raportim
 
-1. Subjektet apo institucionet raportuese, të parashikuara në ligjin nr. 9917, datë 19.5.2008, “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit”, të ndryshuar, janë të detyruara të raportojnë menjëherë në Drejtorinë e Përgjithshme të Parandalimit të Pastrimit të Parave kur kanë të dhëna ose dyshime për veprime financiare, transanksione, fonde ose veprime të tjera, të kryera apo që tentohet të kryhen, që kanë për qëllim kryerjen apo financimin e veprave terroriste, pavarësisht nga vlera e tyre. 
+(shtuar fjalë në pikën 1, zëvendësuar fjalë në pikën 2 me ligjin nr. 32/2019, datë 17.6.2019, ndryshuar emërtimi në pikat 1, 2 e 4 me ligjin nr. 63/2023, datë 21.7.2023)
 
-2. Çdo person që ka dijeni për veprime financiare, transanksione, fonde ose veprime të tjera, të kryera apo që tentohet të kryhen, që kanë për qëllim kryerjen apo finacimin e veprave terroriste, është i detyruar të njoftojë menjëherë organet e zbatimit të ligjit ose Drejtorinë e Përgjithshme të Parandalimit të Pastrimit të Parave.
+1. Subjektet apo institucionet raportuese, të parashikuara në ligjin nr. 9917, datë 19.5.2008, “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit”, të ndryshuar, janë të detyruara të raportojnë menjëherë, pa njoftim paraprak të personave të dyshuar,  në Agjencinë e Inteligjencës Financiare kur kanë të dhëna ose dyshime për veprime financiare, transanksione, fonde ose veprime të tjera, të kryera apo që tentohet të kryhen, që kanë për qëllim kryerjen apo financimin e veprave terroriste, pavarësisht nga vlera e tyre. 
+
+2. Çdo person që ka dijeni për veprime financiare, transanksione, fonde ose veprime të tjera, të kryera apo që tentohet të kryhen, që kanë për qëllim kryerjen apo finacimin e veprave terroriste, është i detyruar që, pa njoftim paraprak dhe përfshirje të personave të dyshuar apo të prekur, të njoftojë menjëherë Agjencinë e Inteligjencës Financiare.
 
 3. Njoftimi dhe raportimi duhet të përmbajnë të dhëna për identifikimin e fondeve dhe të pasurive të tjera, të dhëna për pronësinë dhe interesa të tjerë rreth tyre, si dhe shpjegime për motivet ku mbështeten të dhënat e arsyeshme për financim të terrorizmit.
 
-4. Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave, kur ka arsye të bazuara në fakte apo rrethana konkrete për financim terrorizmi, i propozon menjëherë Ministrit të Financave bllokimin e përkohshëm për fondet dhe pasuritë e tjera.
+4. Agjencia e Inteligjencës Financiare, kur ka arsye të bazuara në fakte apo rrethana konkrete për financim terrorizmi, i propozon menjëherë ministrit përgjegjës për financat bllokimin e përkohshëm për fondet dhe pasuritë e tjera.
+
+Neni 10/1
+
+Ngrirja e përkohshme
+
+(shtuar me ligjin nr. 32/2019, datë 17.6.2019, ndryshuar emërtimi në pikat 4 e  5  me ligjin nr. 63/2023, datë 21.7.2023)
+
+	1. Subjektet, institucionet dhe personat e parashikuar në nenin 10, të këtij ligji, si dhe çdo person në Republikën e Shqipërisë, ngrijnë përkohësisht fondet apo asetet e tjera të personave ose enteve të shpallura, në mënyrë të drejtpërdrejtë, sapo marrin dijeni për shpalljen nga strukturat përkatëse të Këshillit të Sigurimit të Kombeve të Bashkuara, organizatat ndërkombëtare ku Republika e Shqipërisë është palë, pa u kushtëzuar nga nxjerrja e urdhrit të bllokimit të përkohshëm apo vendimit përkatës të Këshillit të Ministrave, sipas parashikimeve të këtij ligji.
+
+	2. Ndalohet vënia në dispozicion të personave apo enteve  të shpallura nga strukturat përkatëse, sipas pikës 1, të këtij neni, të enteve të zotëruara apo kontrolluara në mënyrë të drejtpërdrejtë apo të tërthortë prej tyre dhe të personave apo enteve që veprojnë për llogari apo sipas orientimeve të personave apo enteve të shpallura, të  fondeve apo pasurive të tjera, burimeve ekonomike, shërbimeve financiare apo të tjera, në mënyrë të drejtpërdrejtë apo të tërthortë, pjesërisht apo tërësisht. 
+
+	3. Ndalohet njoftimi paraprak i personave të shpallur, sipas pikës 1, të këtij neni, dhe të interesuar apo prekur, sipas pikës 2, të këtij neni, për ngrirjen e përkohshme. 
+
+	4. Të dhënat e plota për rastet e ngrirjes së përkohshme, përfshirë transaksionet e mbetura në tentativë, i njoftohen menjëherë  Agjencisë së Inteligjencës Financiare, e cila jep udhëzimet e nevojshme.
+
+	5. Vendimet e strukturave përkatëse, sipas pikës 1, të këtij neni, kanë fuqi të drejtpërdrejtë dhe të menjëhershme, i njoftohen zyrtarisht subjekteve të parashikuara në nenin 10, të këtij ligji, si dhe publikohen në faqen zyrtare të Agjencisë së Inteligjencës Financiare .
+
+	6. Zbatimi i masës së ngrirjes së përkohshme vijon deri në daljen e urdhrit të bllokimit nga ministri përgjegjës për financat, sipas parashikimeve të këtij ligji.
+
+7. Rregullat dhe procedura më të detajuara për zbatimin e këtij neni përcaktohen me vendim të Këshillit të Ministrave.
 
 Neni 11
 
@@ -160,7 +220,7 @@ Ndalimi i publikimit të të dhënave
 
 2. Organet përgjegjëse, subjektet raportuese dhe personat e punësuar pranë tyre, që marrin të dhëna, njoftime dhe raportime në zbatim të këtij ligji, nuk mund të bëjnë publike fakte, për të cilat janë vënë në dijeni gjatë ose për shkak të detyrës.
 
-3. Organet përgjegjëse, subjektet raportuese dhe personat e punësuar pranë tyre detyrohen t’i vënë në dispozicion gjykatës dokumentet e kërkuara, si dhe të dëshmojnë vetëm në rastet e lejuara, sipas nenit 160 të Kodit të Procedurës Penale. 
+3. Organet përgjegjëse, subjektet raportuese dhe personat e punësuar pranë tyre detyrohen t’i vënë në dispozicion gjykatës dokumentet e kërkuara, si dhe të dëshmojnë vetëm në rastet e lejuara, sipas nenit 160 të Kodit të Procedurës Penale.
 
 Neni 13 
 
@@ -178,61 +238,75 @@ Procedura e shpalljes, mbështetur në rezolutat e Këshillit të Sigurimit
 
 të Kombeve të Bashkuara
 
-1. Ministri i Punëve të Jashtme, brenda 5 ditëve nga marrja e vendimit nga Këshilli i Sigurimit të Kombeve të Bashkuara, i propozon Këshillit të Ministrave përfshirjen në listën e personave të shpallur, duke njoftuar njëkohësisht organet përgjegjëse, organet e zbatimit të ligjit, shërbimet informative dhe Ministrin e Financave, i cili mund të vendosë bllokimin e përkohshëm për fondet dhe pasuritë e tjera të këtyre personave.
+(ndryshuar pika 1, zëvendësuar fjalë në pikën 3, shtuar pika 4 me ligjin nr. 32/2019, datë 17.6.2019)
+
+1. Ministri përgjegjës për punët e jashtme, menjëherë dhe jo më vonë se 3 ditë nga marrja e vendimit nga Këshilli i Sigurimit të Kombeve të Bashkuara, i propozon Këshillit të Ministrave përfshirjen në listën e personave të shpallur, duke njoftuar, njëkohësisht, organet përgjegjëse, organet e zbatimit të ligjit, shërbimet informative dhe ministrin përgjegjës për financat, i cili miraton bllokimin e përkohshëm për fondet dhe pasuritë e tjera të këtyre personave, nëse ka të dhëna për ekzistencën e tyre brenda vendit.
 
 2. Përcaktimet e rezolutave të Këshillit të Sigurimit të Kombeve të Bashkuara përbëjnë të dhëna të bazuara se personi është terrorist ose person që financon terrorizmin.
 
-3. Këshilli i Ministrave, brenda 15 ditëve nga marrja e propozimit nga Ministri i Punëve të Jashtme, vendos për përfshirjen e tyre në listën e personave të shpallur.
+3. Këshilli i Ministrave, në mbledhjen e parë të radhës nga marrja e propozimit nga ministri përgjegjës për punët e jashtme, vendos për përfshirjen e tyre në listën e personave të shpallur.
+
+4. Në rastet e listimit, sipas këtij neni, ndiqen procedurat dhe formularët standardë për listim, të miratuara nga strukturat përkatëse të Këshillit të Sigurimit të Kombeve të Bashkuara.
 
 Neni 15
 
 Procedura e brendshme e shpalljes 
 
-1. Organet përgjegjëse, organet e zbatimit të ligjit, shërbimet informative, Ministria e Punëve të Jashtme dhe Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave që, gjatë ushtrimit të detyrave dhe funksioneve të tyre, kanë marrë dijeni ose kanë dyshime të bazuara në indicie për përfshirje personash, në çdo formë, në vepra të terrorizmit dhe të financimit të tij, të kryera apo që tentohet të kryhen, brenda ose jashtë territorit të Republikës së Shqipërisë, janë të detyruara t’i propozojnë menjëherë Ministrit të Financave përfshirjen e tyre në listën e personave të shpallur, si dhe marrjen e masave të parashikuara në këtë ligj.
+(shtuar fjalë në pikën 2 me ligjin nr. 43/2017, datë 6.4.2017; shtuar fjalë në pikën 1, shtuar pika 1/1 me ligjin nr. 32/2019, datë 17.6.2019, ndryshuar emërtimi në pikat 1 e 2  me ligjin nr. 63/2023, datë 21.7.2023)
 
-2. Për shqyrtimin e rasteve të propozuara, sipas pikës 1 të këtij neni, dhe ato të parashikuara në pikën 2 të nenit 5 të këtij ligji, Ministri i Financave mund të thërrasë një komitet të posaçëm këshillimor, me përfaqësues në nivel të lartë drejtues nga Ministria e Brendshme, Ministria e Punëve të Jashtme, Ministria e Drejtësisë, Ministria e Mbrojtjes, Prokuroria e Përgjithshme, Shërbimi Informativ i Shtetit, Banka e Shqipërisë dhe Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave.
+1. Organet përgjegjëse, organet e zbatimit të ligjit, shërbimet informative, ministria përgjegjëse për punët e jashtme dhe Agjencia e Inteligjencës Financiare që, gjatë ushtrimit të detyrave dhe funksioneve të tyre, kanë marrë dijeni ose kanë dyshime të bazuara në indicie për përfshirje personash, në çdo formë, në mënyrë të drejtpërdrejtë apo nëpërmjet personave të tjerë fizikë dhe juridikë, në vepra të terrorizmit dhe të financimit të tij, të kryera apo që tentohet të kryhen, brenda ose jashtë territorit të Republikës së Shqipërisë, janë të detyruara t’i propozojnë menjëherë ministrit përgjegjës për financat përfshirjen e tyre në listën e personave të shpallur, si dhe marrjen e masave të parashikuara në këtë ligj.
 
-3. Ministri i Financave mund t’i propozojë Këshillit të Ministrave përfshirjen e personave të propozuar sipas pikës 1 të këtij neni, në listën e personave të shpallur.
+1/1. Procedura dhe standardet e parashikuara në këtë nen ndiqen edhe në rastet e propozimeve për listim të kërkuara sipas pikës 2, të nenit 5, të këtij ligji.
 
-4. Këshilli i Ministrave, brenda 15 ditëve nga marrja e propozimit nga Ministri i Financave, mund të vendosë për përfshirjen e personave apo subjekteve të propozuara nga Ministri i Financave, sipas pikës 3 të këtij neni, në listën e personave të shpallur.
+2. Për shqyrtimin e rasteve të propozuara, sipas pikës 1 të këtij neni, dhe ato të parashikuara në pikën 2 të nenit 5 të këtij ligji, ministri përgjegjës për financat mund të thërrasë një komitet të posaçëm këshillimor, me përfaqësues në nivel të lartë drejtues nga ministri përgjegjës për çështjet e rendit dhe sigurisë publike, ministria përgjegjëse për punët e jashtme, ministriaa përgjegjëse për çështjet e drejtësisë, ministria përgjegjëse për çështjet e mbrojtjes, Prokuroria e Përgjithshme, Prokuroria e Posaçme, Shërbimi Informativ i Shtetit, Banka e Shqipërisë dhe Agjencia e Inteligjencës Financiare, Byroja Kombëtare e Hetimit.
+
+3. Ministri përgjegjës për financat mund t’i propozojë Këshillit të Ministrave përfshirjen e personave të propozuar sipas pikës 1 të këtij neni, në listën e personave të shpallur.
+
+4. Këshilli i Ministrave, brenda 15 ditëve nga marrja e propozimit nga ministri përgjegjës për financat, mund të vendosë për përfshirjen e personave apo subjekteve të propozuara nga ministri përgjegjës për financat, sipas pikës 3 të këtij neni, në listën e personave të shpallur.
 
 Neni 16
 
 Bllokimi i përkohshëm
 
-1. Ministri i Financave mund të urdhërojë, pa njoftim paraprak, bllokimin e përkohshëm të fondeve dhe të pasurive të tjera, përpara nxjerrjes së vendimit përkatës të Këshillit të Ministrave, kur kjo është e vetmja mënyrë për të parandaluar shmangien nga zbatimi i masave të parashikuara në këtë ligj dhe mund të njoftojë Prokurorin e Përgjithshëm për efekt të procedimit të mundshëm penal.
+(ndryshuar pika 1 me ligjin nr. 43/2017, datë 6.4.2017; zëvendësuar fjalë  në pikën 1 dhe 2, shtuar shprehje në fund të fjalisë së dytë në pikën 2 me ligjin nr. 32/2019, datë 17.6.2019)
 
-2. Urdhri i Ministrit të Financave për bllokimin e përkohshëm të fondeve dhe të pasurive të tjera hyn në fuqi menjëherë dhe është i vlefshëm për një periudhë jo më shumë se 30 ditë pune, duke filluar nga dita e parë pas nxjerrjes së urdhrit. Ky urdhër u komunikohet për zbatim organeve përgjegjëse, të përcaktuara në nenin 7 të këtij ligji.
+1. Ministri përgjegjës për financat urdhëron, pa njoftim paraprak, bllokimin e përkohshëm të fondeve dhe të pasurive të tjera, përpara nxjerrjes së vendimit përkatës të Këshillit të Ministrave, kur kjo është e vetmja mënyrë për të parandaluar shmangien nga zbatimi i masave të parashikuara në këtë ligj dhe duhet të njoftojë Prokurorin e Përgjithshëm dhe Drejtuesin e Prokurorisë së Posaçme për efekt të procedimit të mundshëm penal.
+
+2. Urdhri i ministrit përgjegjës për financat për bllokimin e përkohshëm të fondeve dhe të pasurive të tjera hyn në fuqi menjëherë dhe është i vlefshëm për një periudhë jo më shumë se 45 ditë pune, duke filluar nga dita e parë pas nxjerrjes së urdhrit. Ky urdhër u komunikohet për zbatim organeve përgjegjëse, të përcaktuara në nenin 7 të këtij ligji, si dhe subjekteve të parashikuara në nenin 10 të këtij ligji.
 
 Neni 17
 
 Ankimi kundër bllokimit të përkohshëm
 
-1. Kundër urdhrit të Ministrit të Financave për bllokimin e përkohshëm të fondeve dhe të pasurive të tjera, personit të interesuar i lind e drejta të bëjë ankim në gjykatën kompetente brenda 5 ditëve nga marrja dijeni.
+1. Kundër urdhrit të ministrit përgjegjës për financat për bllokimin e përkohshëm të fondeve dhe të pasurive të tjera, personit të interesuar i lind e drejta të bëjë ankim në gjykatën kompetente brenda 5 ditëve nga marrja dijeni.
 
-2. Gjykata e shqyrton çështjen brenda 10 ditëve, duke zbatuar dispozitat për gjykimet administrative. Në çdo rast, ankimi nuk pezullon ekzekutimin e menjëhershëm të urdhrit të Ministrit të Financave.
+2. Gjykata e shqyrton çështjen brenda 10 ditëve, duke zbatuar dispozitat për gjykimet administrative. Në çdo rast, ankimi nuk pezullon ekzekutimin e menjëhershëm të urdhrit të ministrit përgjegjës për financat.
 
 3. Personi i interesuar ka detyrimin të provojë para gjykatës se:
 
-a) ka një të drejtë të ligjshme në fondet dhe pasuritë e tjera të personit, të përcaktuara në urdhrin e Ministrit të Financave;
+a) ka një të drejtë të ligjshme në fondet dhe pasuritë e tjera të personit, të përcaktuara në urdhrin e ministrit përgjegjës për financat;
 
 b) ka burime të justifikuara ligjërisht për të drejtat dhe interesat e tij në fondet dhe pasuritë e tjera;
 
 c) fondet dhe pasuritë e tjera, objekt gjykimi, nuk kanë lidhje me terroristë, persona që financojnë terrorizmin ose persona të tjerë të lidhur me ta.
 
-4. Personi i interesuar quhet i njoftuar për urdhrin e Ministrit të Financave duke filluar nga data kur ka marrë dijeni. Në çdo rast, çështja shqyrtohet brenda afatit të përcaktuar në pikën 2 të këtij neni.
+4. Personi i interesuar quhet i njoftuar për urdhrin e ministrit përgjegjës për financat duke filluar nga data kur ka marrë dijeni. Në çdo rast, çështja shqyrtohet brenda afatit të përcaktuar në pikën 2 të këtij neni.
 
 Neni 18
 
 Vendimi i Këshillit të Ministrave
 
-1. Këshilli i Ministrave, me propozimin e Ministrit të Punëve të Jashtme apo Ministrit të Financave, vendos miratimin, ndryshimin ose revokimin e listës së personave të shpallur, për të cilët zbatohen masat kundër financimit të terrorizmit.
+(ndryshuar pika 4, shtuar pika 5 me ligjin nr. 32/2019, datë 17.6.2019)
+
+1. Këshilli i Ministrave, me propozimin e ministrit përgjegjës për punët e jashtme apo ministrit përgjegjës për financat, vendos miratimin, ndryshimin ose revokimin e listës së personave të shpallur, për të cilët zbatohen masat kundër financimit të terrorizmit.
 
 2. Vendimi i Këshillit të Ministrave hyn në fuqi menjëherë, u komunikohet organeve përgjegjëse, të përcaktuara në nenin 7 të këtij ligji, dhe botohet në Fletoren Zyrtare.
 
-3. Ministri i Financave, brenda 5 ditëve nga botimi në Fletoren Zyrtare të vendimit të Këshillit të Ministrave, njofton Ministrin e Punëve të Jashtme për personat e shpallur me indicie brenda vendit.
+3. Ministri përgjegjës për financat, brenda 5 ditëve nga botimi në Fletoren Zyrtare të vendimit të Këshillit të Ministrave, njofton ministrin përgjegjës për punët e jashtme për personat e shpallur me indicie brenda vendit.
 
-4. Ministria e Punëve të Jashtme, pas marrjes së njoftimit, sipas pikës 3 të këtij neni, brenda 15 ditëve informon strukturat përkatëse pranë Këshillit të Sigurimit të Kombeve të Bashkuara, si dhe propozon përfshirjen e personave në listat përkatëse.
+4. Ministria përgjegjëse për punët e jashtme, pas marrjes së njoftimit, sipas pikës 3, të këtij neni, informon strukturat përkatëse pranë Këshillit të Sigurimit të Kombeve të Bashkuara, sipas afateve dhe modaliteteve të përcaktuara prej tyre, duke ndjekur format, procedurat dhe/ose kërkesat e strukturave përkatëse në lidhje me informacionin e kërkuar për identifikimin e personave të shpallur dhe të lidhur me ta, të dhëna për rastin dhe arsyet e propozimit, si dhe nëse statusi i vendit, si propozues, mund të bëhet i njohur. I njëjti standard të dhënash dhe procedure, për aq sa është e zbatueshme, përdoret edhe në rastet kur i kërkohet një vendi tjetër marrja e masave për bllokim të përkohshëm apo sekuestrim, sipas parashikimeve të këtij ligji.
+
+5. Kërkesa për shpallje pranë strukturave përkatëse në Këshillin e Sigurimit të Kombeve të Bashkuara dërgohet në rastet kur rezulton se ka shkaqe të arsyeshme që krijojnë dyshimin  për përfshirjen e personit ose subjektit përkatës, për të cilin kërkohet shpallja në vepra të terrorizimit ose të financimit të tij.   Kërkesat e bëra në përputhje me këtë pikë duhet të bëhen pa njoftim paraprak të personit apo subjektit përkatës.
 
 Neni 19
 
@@ -256,45 +330,53 @@ Neni  21
 
 Verifikimi i identitetit, i fondeve dhe i pasurive të tjera
 
-1. Ministria e Brendshme bën verifikimin e identitetit të personave që u nënshtrohen procedurave si person i shpallur, apo për të cilët është filluar procedura e shpalljes dhe janë evidentuar fonde e pasuri të tjera.
+(zëvendësuar fjalë në pikën 2 dhe 3 me ligjin nr. 32/2019, datë 17.6.2019, ndryshuar emërtimi në pikat 5 e 6  me ligjin nr. 63/2023, datë 21.7.2023)
 
-2. Organet përgjegjëse, të përcaktuara në nenin 7 të këtij ligji, brenda 3 ditëve nga njohja me vendimin e Këshillit të Ministrave, ua përcjellin për zbatim institucioneve të varësisë, subjekteve që licencojnë dhe/ose mbikëqyrin.
+1. Ministria përgjegjëse për çështjet e rendit dhe sigurisë publike bën verifikimin e identitetit të personave që u nënshtrohen procedurave si person i shpallur, apo për të cilët është filluar procedura e shpalljes dhe janë evidentuar fonde e pasuri të tjera.
 
-3. Institucionet e varësisë apo subjektet, brenda 10 ditëve nga njoftimi, verifikojnë dhe raportojnë tek organi përgjegjës përkatës për fondet dhe pasuritë e tjera, të zotëruara në mënyrë të drejtpërdrejtë apo të tërthortë ose ku ata kanë ndonjë të drejtë apo interes tjetër.
+2. Organet përgjegjëse, të përcaktuara në nenin 7 të këtij ligji, menjëherë nga njohja me vendimin e Këshillit të Ministrave, ua përcjellin për zbatim institucioneve të varësisë, subjekteve që licencojnë dhe/ose mbikëqyrin.
+
+3. Institucionet e varësisë apo subjektet, menjëherë nga njoftimi, verifikojnë dhe raportojnë tek organi përgjegjës përkatës për fondet dhe pasuritë e tjera, të zotëruara në mënyrë të drejtpërdrejtë apo të tërthortë ose ku ata kanë ndonjë të drejtë apo interes tjetër.
 
 4. Fondet dhe pasuritë e tjera, për të cilat nuk ka qenë e mundur të evidentohen brenda afateve të mësipërme, raportohen menjëherë pas evidentimit tek organi përgjegjës përkatës.
 
-5. Organet përgjegjëse, menjëherë, por jo më vonë se 3 ditë nga marrja e njoftimit nga institucionet e varësisë, subjektet që licencojnë dhe/ose mbikëqyrin, i paraqesin Drejtorisë së Përgjithshme të Parandalimit të Pastrimit të Parave një raport me shkrim, ku jepen të dhënat që personi i shpallur ka të drejta dhe interesa në fondet dhe pasuritë e tjera. 
+5. Organet përgjegjëse, menjëherë, por jo më vonë se 3 ditë nga marrja e njoftimit nga institucionet e varësisë, subjektet që licencojnë dhe/ose mbikëqyrin, i paraqesin Agjencisë së Inteligjencës Financiare një raport me shkrim, ku jepen të dhënat që personi i shpallur ka të drejta dhe interesa në fondet dhe pasuritë e tjera. 
 
-6. Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave, brenda 3 ditëve nga marrja e njoftimit nga organet përgjegjëse për fonde dhe pasuri të tjera të evidentuara, i propozon Ministrit të Financave nxjerrjen e urdhrit të sekuestrimit.
+6. Agjencia e Inteligjencës Financiare, brenda 3 ditëve nga marrja e njoftimit nga organet përgjegjëse për fonde dhe pasuri të tjera të evidentuara, i propozon ministrit përgjegjës për financat nxjerrjen e urdhrit të sekuestrimit.
 
 Neni 22
 
 Sekuestrimi i fondeve dhe pasurive të tjera
 
-1. Në zbatim të vendimit të Këshillit të Ministrave, Ministri  i Financave, brenda 5 ditëve nga marrja e propozimit nga Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave, nxjerr urdhër për sekuestrimin e fondeve dhe pasurive të tjera dhe kalimin në administrim të Agjencisë së Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara. Urdhri hyn në fuqi menjëherë dhe i komunikohet personit të shpallur, sipas parashikimeve të Kodit të Procedurave Administrative.
+(ndryshuar pika 4 me ligjin nr. 32/2019, datë 17.6.2019, ndryshuar emërtimi  me ligjin nr. 63/2023, datë 21.7.2023)
 
-2. Urdhri i Ministrit të Financave i dërgohet Agjencisë së Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara, si dhe  institucioneve, subjekteve e organeve përgjegjëse, në të cilat janë evidentuar fonde dhe pasuri të tjera, të cilat marrin masa për ekzekutimin e menjëhershëm të  këtij urdhri.
+1. Në zbatim të vendimit të Këshillit të Ministrave, ministrit përgjegjës për financat, brenda 5 ditëve nga marrja e propozimit nga Agjencia e Inteligjencës Financiare, nxjerr urdhër për sekuestrimin e fondeve dhe pasurive të tjera dhe kalimin në administrim të Agjencisë së Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara. Urdhri hyn në fuqi menjëherë dhe i komunikohet personit të shpallur, sipas parashikimeve të Kodit të Procedurave Administrative.
+
+2. Urdhri i ministrit përgjegjës për financat i dërgohet Agjencisë së Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara, si dhe  institucioneve, subjekteve e organeve përgjegjëse, në të cilat janë evidentuar fonde dhe pasuri të tjera, të cilat marrin masa për ekzekutimin e menjëhershëm të  këtij urdhri.
 
 3. Pas vendosjes së masës të sekuestrimit, Agjencia e Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara ushtron të gjitha të drejtat e kontrollit mbi fondet dhe pasuritë e tjera të sekuestruara, përfshirë posedimin, administrimin dhe veprime të tjera, që i çmon të nevojshme.
 
-4. Procedurat dhe rregullat e marrjes në administrim, shpenzimet për administrim dhe kthim të fondeve e pasurive të tjera të sekuestruara, sipas këtij ligji, përcaktohen me vendim të Këshillit të Ministrave. 
+4. Procedurat dhe rregullat e marrjes në administrim, shpenzimet për administrim dhe kthim të fondeve e pasurive të tjera të sekuestruara rregullohen në përputhje me legjislacionin në fuqi për administrimin e pasurive të sekuestruara dhe të konfiskuara.
 
 Neni 23
 
 Shpenzime të lejuara nga fondet dhe pasuritë e tjera
 
-1. Ministri  i Financave, brenda 5 ditëve nga paraqitja e kërkesës, autorizon pagesa nga fondet dhe pasuritë e tjera të sekuestruara për t’i përdorur për nevoja jetese, mjekësore, familjare dhe vetjake të personit të shpallur, për pagimin e detyrimeve ndaj shtetit ose të atyre që rrjedhin nga puna e kryer dhe sigurimet e detyrueshme.
+(shtuar pika 4 me ligjin nr. 32/2019, datë 17.6.2019)
 
-2. Kundër urdhrit të Ministrit të Financave për refuzimin e autorizimit të kërkuar mund të bëhet ankim në gjykatën kompetente, brenda 5 ditëve nga marrja dijeni. 
+1. Ministri përgjegjës për financat, brenda 5 ditëve nga paraqitja e kërkesës, autorizon pagesa nga fondet dhe pasuritë e tjera të sekuestruara për t’i përdorur për nevoja jetese, mjekësore, familjare dhe vetjake të personit të shpallur, për pagimin e detyrimeve ndaj shtetit ose të atyre që rrjedhin nga puna e kryer dhe sigurimet e detyrueshme.
 
-3. Ministri i Financave, me udhëzim të veçantë, vendos rregulla dhe procedura të hollësishme për shpenzimet e lejueshme, duke pasur parasysh kriteret e parashikuara në rezolutat e Këshillit të Sigurimit të Kombeve të Bashkuara.
+2. Kundër urdhrit të ministrit përgjegjës për financat për refuzimin e autorizimit të kërkuar mund të bëhet ankim në gjykatën kompetente, brenda 5 ditëve nga marrja dijeni. 
+
+3. Ministri përgjegjës për financat, me udhëzim të veçantë, vendos rregulla dhe procedura të hollësishme për shpenzimet e lejueshme, duke pasur parasysh kriteret e parashikuara në rezolutat e Këshillit të Sigurimit të Kombeve të Bashkuara.
+
+4. Autorizimi për shpenzimet e lejuara, sipas këtij neni, kryhet pasi të jenë realizuar procedurat dhe kërkesat përkatëse, të vendosura nga strukturat përkatëse të Këshillit të Sigurimit të Kombeve të Bashkuara.
 
 Neni 24
 
 Ankimi ndaj urdhrit të sekuestrimit
 
-1. Personat e shpallur dhe personat e interesuar, që pretendojnë se janë në mirëbesim, mund të bëjnë ankim ndaj urdhrit të Ministrit të Financave për sekuestrimin e fondeve dhe pasurive të tjera në gjykatën kompetente jo më vonë se 30 ditë nga marrja dijeni për këtë urdhër sekuestrimi. Në çdo rast, ankimi nuk pezullon ekzekutimin e menjëhershëm të urdhrit të sekuestrimit dhe të masave të tjera, që merren në zbatim të tij.
+1. Personat e shpallur dhe personat e interesuar, që pretendojnë se janë në mirëbesim, mund të bëjnë ankim ndaj urdhrit të ministrit përgjegjës për financat për sekuestrimin e fondeve dhe pasurive të tjera në gjykatën kompetente jo më vonë se 30 ditë nga marrja dijeni për këtë urdhër sekuestrimi. Në çdo rast, ankimi nuk pezullon ekzekutimin e menjëhershëm të urdhrit të sekuestrimit dhe të masave të tjera, që merren në zbatim të tij.
 
 2. Personat e interesuar, që pretendojnë se janë në mirëbesim, zbatojnë detyrimet e parashikuara në pikën 3 të nenit 17 të këtij ligji.
 
@@ -302,11 +384,13 @@ Neni 25
 
 Ndryshimi dhe revokimi i vendimit për personat e shpallur
 
-1. Këshilli i Ministrave mund të vendosë ndryshimin ose revokimin e vendimit për listën e personave të shpallur brenda 15 ditëve nga paraqitja e propozimit të Ministrit të Financave, Ministrit të Punëve të Jashtme ose mbështetur në kërkesën e personit të shpallur, të shoqëruar me shpjegimet për ndryshimin e rrethanave përkatëse, që kanë motivuar nxjerrjen e tij.
+(zëvendësuar fjalë në pikën 1, shtuar shkronja “e” në pikën 4, shtuar pikat 4/1 dhe 4/2, zëvendësuar fjalë në pikën 5 me ligjin nr. 32/2019, datë 17.6.2019)
 
-2. Ministri i Punëve të Jashtme, mbështetur në ndryshimet dhe revokimet në rezolutat e Këshillit të Sigurimit të Kombeve të Bashkuara, brenda 5 ditëve nga publikimi i tyre, i propozon Këshillit të Ministrave ndryshimin ose revokimin e personave nga lista e personave të shpallur, duke njoftuar njëkohësisht Ministrin e Financave.
+1. Këshilli i Ministrave mund të vendosë ndryshimin ose revokimin e vendimit për listën e personave të shpallur brenda 15 ditëve nga paraqitja e propozimit të ministrit përgjegjës për financat, ministrit përgjegjës për punët e jashtme, kërkesën e personit të shpallur ose të personit të cenuar  gabimisht, të shoqëruar me shpjegimet për ndryshimin e rrethanave përkatëse, që kanë motivuar nxjerrjen e tij.
 
-3. Ministri i Financave, mbështetur në propozimet e organeve dhe institucioneve të parashikuara në pikën 1 të nenit 15 të këtij ligji, ose në vlerësimet e komitetit të posaçëm këshillimor, i propozon Këshillit të Ministrave ndryshimin ose revokimin e personave nga lista e personave të shpallur.
+2. Ministri përgjegjës për punët e jashtme, mbështetur në ndryshimet dhe revokimet në rezolutat e Këshillit të Sigurimit të Kombeve të Bashkuara, brenda 5 ditëve nga publikimi i tyre, i propozon Këshillit të Ministrave ndryshimin ose revokimin e personave nga lista e personave të shpallur, duke njoftuar njëkohësisht ministrin përgjegjës për financat.
+
+3. Ministri përgjegjës për financat, mbështetur në propozimet e organeve dhe institucioneve të parashikuara në pikën 1 të nenit 15 të këtij ligji, ose në vlerësimet e komitetit të posaçëm këshillimor, i propozon Këshillit të Ministrave ndryshimin ose revokimin e personave nga lista e personave të shpallur.
 
 4. Ndryshimi ose revokimi i vendimit të Këshillit të Ministrave për listën e personave të shpallur bëhet kur vërtetohen rrethana dhe fakte, që e bëjnë të panevojshëm zbatimin e mëtejshëm të tij:
 
@@ -320,9 +404,15 @@ c) për shkak të një vendimi përkatës të organizatave të tjera ndërkombë
 
 d) për shkak të vendimit të formës së prerë të gjykatës kompetente, të marrë pas ankimit të personit të shpallur, sipas pikave 1 dhe 3 të nenit 19 të këtij ligji;
 
-dh) kur kanë ndryshuar rrethanat, faktet dhe arsyet, për të cilat është bërë shpallja, sipas nenin 15 të këtij ligji.
+dh) kur kanë ndryshuar rrethanat, faktet dhe arsyet, për të cilat është bërë shpallja, sipas nenin 15 të këtij ligji;
 
-5. Heqja e masës së sekuestros ndaj fondeve dhe pasurive të tjera të personave të shpallur, si rezultat i ndryshimit ose i revokimit të listës për personat e shpallur, kryhet brenda 3 muajve nga hyrja në fuqi e vendimit të Këshillit të Ministrave.
+e) për shkak të kërkesës së bazuar të personave të cenuar gabimisht nga masat e parashikuara në këtë ligj.
+
+4/1. Ministri përgjegjës për punët e jashtme publikon procedurat për dërgimin e kërkesave për heqje nga lista, drejtuar strukturave përkatëse të Këshillit të Sigurimit të Kombeve të Bashkuara, në përputhje me procedurat dhe kriteret e vendosura nga këto struktura.
+
+4/2. Në rast se Këshilli i Ministrave vlerëson se personi apo subjekti i shpallur nuk i plotëson kriteret e shpalljes apo të vijimit të përfshirjes së tij në listat përkatëse, ministri përgjegjës për punët e jashtme, në përputhje me procedurat e miratuara nga strukturat përkatëse të Këshillit të Sigurimit të Kombeve të Bashkuara, paraqet kërkesë për heqjen nga lista e shpalljes.
+
+5. Heqja e masës së sekuestros ndaj fondeve dhe pasurive të tjera të personave të shpallur, si rezultat i ndryshimit ose i revokimit të listës për personat e shpallur, kryhet sa më shpejt të jetë e mundur, por jo më vonë se brenda 15 ditëve nga hyrja në fuqi e vendimit të Këshillit të Ministrave.
 
 6. Kur hiqet masa e sekuestros ndaj fondeve dhe pasurive të tjera, zotëruesi i pasurisë ka të drejtë të kërkojë frutat e pasurisë, të realizuara gjatë administrimit. Ai ka të drejtë të kërkojë kompensimin në masën e pakësimit të vlerës së pasurisë ose të dëmit që, me faj, i është shkaktuar pasurisë.
 
@@ -340,11 +430,13 @@ Neni 27
 
 Kundërvajtjet administrative
 
+(ndryshuar emërtimi në pikat 2 e 3 me ligjin nr. 63/2023, datë 21.7.2023)
+
 1. Nëse nuk përbën vepër penale, mospërmbushja nga organet përgjegjëse dhe subjektet e detyrimeve të parashikuara në këtë ligj përbën kundërvajtje  administrative dhe dënohet me  gjobë  nga 50 000 (pesëdhjetë mijë) lekë deri në 10 000 000 (dhjetë milionë) 1ekë.
 
-2. Autoritet përgjegjës për kontrollin dhe mbikëqyrjen e përputhshmërisë së veprimtarisë së subjekteve të ligjit me kërkesat e akteve ligjore dhe nënligjore për masat kundër financimit të terrorizmit është Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave.
+2. Autoritet përgjegjës për kontrollin dhe mbikëqyrjen e përputhshmërisë së veprimtarisë së subjekteve të ligjit me kërkesat e akteve ligjore dhe nënligjore për masat kundër financimit të terrorizmit është Agjencia e Inteligjencës Financiare.
 
-3. Dënimet administrative, sipas pikës 1 të këtij neni, vendosen nga Ministri  i Financave, me propozim të Drejtorisë së Përgjithshme të Parandalimit të Pastrimit të Parave.
+3. Dënimet administrative, sipas pikës 1 të këtij neni, vendosen nga ministri përgjegjës për financat, me propozim të Agjencisë së Inteligjencës Financiare.
 
 4. Procedurat e shqyrtimit, ankimit dhe të ekzekutimit të vendimeve për kundërvajtjet administrative bëhen në përputhje me ligjin nr. 10 279, datë 20.5.2010, “Për kundërvajtjet administrative”.
 
@@ -364,7 +456,7 @@ Neni 29
 
 Miratimi i akteve nënligjore
 
-Ngarkohet Këshilli i Ministrave dhe Ministri i Financave që, brenda 3 muajve nga hyrja në fuqi e këtij ligji, të nxjerrin aktet nënligjore në zbatim të pikës 4 të nenit 22 dhe të pikës 3 të nenit 23 të këtij ligji.
+Ngarkohet Këshilli i Ministrave dhe ministri përgjegjës për financat që, brenda 3 muajve nga hyrja në fuqi e këtij ligji, të nxjerrin aktet nënligjore në zbatim të pikës 4 të nenit 22 dhe të pikës 3 të nenit 23 të këtij ligji.
 
 Neni 30
 
