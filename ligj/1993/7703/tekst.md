@@ -4,15 +4,15 @@ Nr. 7703, datë 11.05.1993
 
 PËR SIGURIMET SHOQËRORE NË REPUBLIKËN E SHQIPËRISË
 
-(Ndryshuar me ligjet: nr. 7932, datë 17.05.1995; nr. 8286, datë 16.02.1998; nr. 8392, datë 02.09.1998; nr. 8575, datë 03.02.2000; nr. 8776, datë 26.04.2001; nr. 8852, datë 27.12.2001; nr. 8889, datë 25.04.2002; nr. 9058, datë 20.03.2003; nr. 9114, datë 24.07.2003;nr. 9377, datë 21.04.2005; nr. 9498, datë 03.04.2006; nr. 9600, datë 27.07.2006; nr. 9708, datë 05.04.2007; nr. 9768, datë 09.07.2007; nr. 10070, datë 05.02.2009; nr. 10447, datë 14.07.2011; nr. 13/2014, datë 13.2.2014; nr. 104/2014, datë 31.07.2014, nr. 144/2015, datë 17.12.2015;  nr. 111/2016, datë 3.11.2016; aktin normativ nr. 1, datë 25.1.2017; aktin normativ nr. 7, datë 30.11.2019, ndryshuar me ligjin nr. 65/2020, datё 21.5.2020, aktin normativ nr. 33, datë 11.12.2020)
+(ndryshuar me ligjet: nr. 7932, datë 17.05.1995; nr. 8286, datë 16.02.1998; nr. 8392, datë 02.09.1998; nr. 8575, datë 03.02.2000; nr. 8776, datë 26.04.2001; nr. 8852, datë 27.12.2001; nr. 8889, datë 25.04.2002; nr. 9058, datë 20.03.2003; nr. 9114, datë 24.07.2003;nr. 9377, datë 21.04.2005; nr. 9498, datë 03.04.2006; nr. 9600, datë 27.07.2006; nr. 9708, datë 05.04.2007; nr. 9768, datë 09.07.2007; nr. 10070, datë 05.02.2009; nr. 10447, datë 14.07.2011; nr. 13/2014, datë 13.2.2014; nr. 104/2014, datë 31.07.2014, nr. 144/2015, datë 17.12.2015;  nr. 111/2016, datë 3.11.2016; aktin normativ nr. 1, datë 25.1.2017; aktin normativ nr. 7, datë 30.11.2019, ndryshuar me ligjin nr. 65/2020, datё 21.5.2020, aktin normativ nr. 33, datë 11.12.2020; ligjin nr. 64/2023, datë 21.7.2023)
 
-(I përditësuar)
+(i përditësuar)
 
-Në  mbështetje  të  nenit  16,  të  Ligjit  nr.  7491,  datë  29.04.1991  “Për  dispozitat  kryesore kushtetuese”, me propozimin e Këshillit të Ministrave,
+Në mbështetje të nenit 16,  të Ligjit nr. 7491,  datë 29.04.1991 “Për dispozitat kryesore kushtetuese”, me propozimin e Këshillit të Ministrave,
 
 KUVENDI POPULLOR
 
-I REPUBLIKËS SE SHQIPËRISË V E N D O S I:
+I REPUBLIKËS SE SHQIPËRISË VENDOSI:
 
 PJESA I
 
@@ -22,9 +22,9 @@ Neni 1
 
 Sistemi i përgjithshëm i sigurimeve shoqërore
 
-(Ndryshuar me nenin 1, të ligjit nr. 104/2014, datë 31.07.2014)
+(ndryshuar me nenin 1, të ligjit nr. 104/2014, datë 31.07.2014)
 
-Ligji për sigurimet shoqërore të Republikës së Shqipërisë rregullon marrëdhëniet në fushën  e sigurimeve shoqërore.
+Ligji për sigurimet shoqërore të Republikës së Shqipërisë rregullon marrëdhëniet në fushën e sigurimeve shoqërore.
 
 Sistemi i përgjithshëm i sigurimeve shoqërore përbëhet nga:
 
@@ -42,11 +42,9 @@ Neni 2
 
 Sigurimet shoqërore të detyrueshme
 
-(Shtuar fjala në titull me ligjin nr. 8776, datë 26.04.2001,;
+(shtuar fjala në titull me ligjin nr. 8776, datë 26.04.2001,;
 
-shtuar fjala në paragrafin e parë me ligjin nr. 8776, datë 26.04.2001; shtuar fjalia në fund të paragrafit të dytë me ligjin nr. 9708, datë 05.04.2007;
-
-shfuqizuar paragrafi i dytë, i tretë dhe i katërt me ligjin nr. 104/2014, datë 31.07.2014)
+shtuar fjala në paragrafin e parë me ligjin nr. 8776, datë 26.04.2001; shtuar fjalia në fund të paragrafit të dytë me ligjin nr. 9708, datë 05.04.2007;shfuqizuar paragrafi i dytë, i tretë dhe i katërt me ligjin nr. 104/2014, datë 31.07.2014)
 
 Sigurimi shoqëror i detyrueshëm është jofitimprurës, që mbron me të ardhura:
 
@@ -84,7 +82,7 @@ Neni 4
 
 Sigurimi shoqëror suplementar
 
-(Shtuar fjala në paragrafin e tretë me ligjin nr. 8776, datë 26.04.2001;
+(shtuar fjala në paragrafin e tretë me ligjin nr. 8776, datë 26.04.2001;
 
 shtuar fjalia në paragrafin e tretë me ligjin nr. 8776, datë 26.04.2001; ndryshuar neni me ligjin nr. 9377, datë 21.04.2005; ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
@@ -102,7 +100,7 @@ Neni 5
 
 Pensionet shtetërore të posaçme
 
-(Shtuar shprehja në pikën a, me ligjin nr. 8286, datë 16.02.1998,shtuar fjalë 
+(shtuar shprehja në pikën a, me ligjin nr. 8286, datë 16.02.1998,shtuar fjalë 
 
 në shkronjën “b”, me ligjin nr. 65/2020, datё 21.5.2020)
 
@@ -126,7 +124,7 @@ Neni 5/1
 
 Pensioni social
 
-(Shtuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+(shtuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
 Pensioni social është një përfitim që i jepet çdo shtetasi shqiptar, i cili ka mbushur moshën 70 vjeç, është me qëndrim të përhershëm në Shqipëri të paktën për pesë vitet e fundit, nuk plotëson kushtet për asnjë lloj pensioni nga skema e detyrueshme e sigurimeve shoqërore dhe nuk ka të ardhura, ose të ardhurat që përfiton nga çdo burim tjetër, janë më të ulëta se të ardhurat që jep pensioni social.
 
@@ -140,7 +138,7 @@ Neni 5/1/a
 
 Trajtim i veçantë financiar
 
-(Shtuar me aktin normative nr. 7, datë 30.11.2019)
+(shtuar me aktin normative nr. 7, datë 30.11.2019)
 
 Pensionistët, që kanë humbur pjesëtarë të familjes si pasojë e fatkeqësisë natyrore të shkaktuar nga tërmeti i datës 26.11.2019, përfitojnë trajtim të veçantë financiar deri në masën e tetëfishit të pensionit social, ndërsa personat, që kanë humbur të gjithë pjesëtarët e familjes, përfitojnë deri në masën e trembëdhjetëfishit të pensionit social.
 
@@ -152,7 +150,7 @@ Neni 5/1/b
 
 Trajtim i veçantë familjar
 
-(Shtuar me aktin normative nr. 33, datë 11.12.2020[^fn2])
+(shtuar me aktin normative nr. 33, datë 11.12.2020[^fn2])
 
 Familja, e cila ka humbur aksidentalisht pjesëtarë të saj, si pasojë e veprimeve të kryera gjatë ushtrimit të detyrës nga punonjës të organeve ligjzbatuese, përfiton trajtim të veçantë financiar deri në masën e tetëfishit të pensionit social.
 
@@ -162,7 +160,7 @@ Neni 5/2
 
 Fondet profesionale dhe fondet e pensionit vullnetar
 
-(Shtuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+(shtuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
 Krijimi, veprimtaria dhe mbikëqyrja e fondeve profesionale dhe fondeve të pensionit vullnetar bëhen sipas ligjit të veçantë.
 
@@ -174,7 +172,7 @@ Neni 6
 
 Mbrojtja e detyrueshme
 
-(Shtuar shkronja “d”  me ligjin nr. 144/2015, datë 17.12.2015 ; shfuqizuar shkronja “d” me aktin normativ nr. 1, datë 25.1.2017)
+(shtuar shkronja “d”  me ligjin nr. 144/2015, datë 17.12.2015; shfuqizuar shkronja “d” me aktin normativ nr. 1, datë 25.1.2017)
 
 Sigurimet shoqërore mbrojnë në mënyrë të detyrueshme të gjithë shtetasit ekonomikisht aktivë në Shqipëri, në rastin e pakësimit të të ardhurave si pasojë e barrëlindjes, pleqërisë, invaliditetit dhe humbjes së mbajtësit të familjes.
 
@@ -192,7 +190,7 @@ Neni 7
 
 Mbrojtja për shtetasit shqiptarë jashtë shtetit dhe shtetasit e huaj
 
-(Ndryshuar me ligjin nr. 9377, datë 21.04.2005)
+(ndryshuar me ligjin nr. 9377, datë 21.04.2005)
 
 Sigurimet shoqërore iu japin mbrojtje edhe:
 
@@ -216,11 +214,9 @@ Neni 9
 
 Llojet e kontributeve për t’u paguar
 
-(Ndryshuar paragrafi i fundit me ligjin nr. 8776, datë 26.04.2001;
+(ndryshuar paragrafi i fundit me ligjin nr. 8776, datë 26.04.2001;
 
-ndryshuar paragrafi i tretë me ligjin nr. 104/2014, datë 31.07.2014; shtuar paragrafi i katërt me ligjin nr. 104/2014, datë 31.07.2014, 
-
-shtuar një paragraf pas paragrafit të 4-ët, me ligjin nr. 144/2015, datë 17.12.2015 dhe shfuqizuar ky paragraf me aktin normativ nr. 1, datë 25.1.2017)
+ndryshuar paragrafi i tretë me ligjin nr. 104/2014, datë 31.07.2014; shtuar paragrafi i katërt me ligjin nr. 104/2014, datë 31.07.2014, shtuar një paragraf pas paragrafit të 4-ët, me ligjin nr. 144/2015, datë 17.12.2015 dhe shfuqizuar ky paragraf me aktin normativ nr. 1, datë 25.1.2017)
 
 Personat e punësuar dhe punëdhënësit e tyre janë të detyruar të paguajnë kontribut për sëmundje, barrëlindje dhe pensione, në një shumë që varet nga paga e tyre totale (bruto). Kontributi nuk mund të caktohet nën një pagë minimale dhe mbi një pagë maksimale mujore.
 
@@ -238,9 +234,9 @@ Neni 10
 
 Masa e kontributeve
 
-(Ndryshuar shifra në paragrafin e dytë me ligjin nr. 8852, datë 27.12.2001;
+(ndryshuar shifra në paragrafin e dytë me ligjin nr. 8852, datë 27.12.2001;
 
-ndryshuar shifra në shkronjën “a” dhe “b”, me ligjin nr. 8889, datë 25.04.2002; ndryshuar shifra në shkronjën “a”, të paragrafit të parë, me ligjin nr. 9600, datë 27.07.2006; ndryshuar shifra në paragrafin e parë të shkronjës “a”  me ligjin nr. 10 070, datë; 05.02.2009; ndryshuar paragrafi i dytë dhe i tretë me ligjin nr. 104/2014, datë 31.07.2014)
+ndryshuar shifra në shkronjën “a” dhe “b”, me ligjin nr. 8889, datë 25.04.2002; ndryshuar shifra në shkronjën “a”, të paragrafit të parë, me ligjin nr. 9600, datë 27.07.2006; ndryshuar shifra në paragrafin e parë të shkronjës “a”  me ligjin nr. 10 070, datë; 05.02.2009; ndryshuar paragrafi i dytë dhe i tretë me ligjin nr. 104/2014, datë 31.07.2014; shtuar fjali pas fjalisë së tretë, shtuar paragraf në fund të nenit me ligjin nr. 64/2023, datë 21.7.2023)
 
 Kontributi që paguhet për sigurimet shoqërore në fondet e sigurimeve për sëmundje, barrëlindje dhe pensione do të jetë:
 
@@ -248,17 +244,19 @@ a) për punëdhënësit 13,8 për qind e shumës bruto të listëpagesave;
 
 b) për personin e punësuar 9.5 për qind e pagesës së tij totale (bruto).
 
-Kontributi llogaritet dhe paguhet mbi pagën bruto, brenda kufijve të pagës minimale në shkallë vendi dhe pagës maksimale për efekt kontributi për sigurimet shoqërore, miratuar me Vendim të Këshillit të Ministrave, e cila është në fuqi në datën 31.12.2014. Pas datës 01.01.2015, paga maksimale për efekt
+Kontributi llogaritet dhe paguhet mbi pagën bruto, brenda kufijve të pagës minimale në shkallë vendi dhe pagës maksimale për efekt kontributi për sigurimet shoqërore, miratuar me Vendim të Këshillit të Ministrave, e cila është në fuqi në datën 31.12.2014. Pas datës 01.01.2015, paga maksimale për efekt kontributi indeksohet në të njëjtën kohë dhe në atë masë që indeksohet paga minimale në shkallë vendi. Kontributi minimal për personin e punësuar, punëdhënësin dhe të vetëpunësuarin është i barabartë dhe llogaritet mbi bazën e pagës minimale në shkallë vendi.
 
-kontributi indeksohet në të njëjtën kohë dhe në atë masë që indeksohet paga minimale në shkallë vendi. Kontributi minimal për personin e punësuar, punëdhënësin dhe të vetëpunësuarin është i barabartë dhe llogaritet mbi bazën e pagës minimale në shkallë vendi.
+Paga maksimale, për efekt kontributi, rritet me të njëjtën masë dhe në të njëjtën kohë me masën që rritet paga minimale në shkallë vendi.
 
 Personat e vetëpunësuar në bujqësi paguajnë kontribut për pension dhe barrëlindje, të llogaritur mbi pagën minimale në shkallë vendi. Pagesa e kontributit bëhet çdo tremujor.
+
+Personat e punësuar me profesion në fushën e teknologjisë së informacionit (IT) dhe të regjistruar në subjektet me aktivitet kryesor në fushën e teknologjisë së informacionit, të cilët ushtrojnë aktivitetin e tyre sipas ligjit nr. 58/2022, “Për krijimin, organizimin dhe funksionimin e parqeve teknologjike dhe shkencore”, të miratuara sipas legjislacionit në fuqi për këtë kategori, paguajnë kontributet e sigurimeve shoqërore në nivelin e pagës minimale mujore në shkallë vendi, me miratimin paraprak të punëmarrësit, të evidentuar në kontratën e punës, pavarësisht pagës bruto të deklaruar.
 
 Neni 11
 
 Kontributi vullnetar
 
-(Shtuar shprehje në paragrafin e parë dhe të dytë, me ligjin nr. 104/2014, datë 31.07.2014)
+(shtuar shprehje në paragrafin e parë dhe të dytë, me ligjin nr. 104/2014, datë 31.07.2014)
 
 Kontributi vullnetar llogaritet në kufijtë e pagës minimale dhe maksimale të caktuar nga Këshilli i Ministrave dhe paguhet nga personi i siguruar në shumën dhe afatin e përcaktuar në kontratën e sigurimit vullnetar.
 
@@ -266,9 +264,7 @@ Kontributi vullnetar llogaritet në kufijtë e pagës minimale dhe maksimale të
 
 Neni 12
 
-(Zëvendësuar shprehja në shkronjën “b”, me ligjin nr. 7932, datë 17.05.1995; shtuar paragraf me ligjin nr. 8392, datë 02.09.1998;
-
-shtuar fjali në paragrafin e tretë, me ligjin nr. 8776, datë 26.04.2001, shfuqizohet neni me ligjin nr. 104/2014, datë 31.07.2014)
+(zëvendësuar shprehja në shkronjën “b”, me ligjin nr. 7932, datë 17.05.1995; shtuar paragraf me ligjin nr. 8392, datë 02.09.1998; shtuar fjali në paragrafin e tretë, me ligjin nr. 8776, datë 26.04.2001, shfuqizohet neni me ligjin nr. 104/2014, datë 31.07.2014)
 
 MBLEDHJA E KONTRIBUTEVE
 
@@ -276,7 +272,7 @@ Neni 13
 
 Detyrimi për të paguar kontributet
 
-(Shtuar paragraf në pikën 3 me ligjin nr. 7932, datë 17.05.1995;
+(shtuar paragraf në pikën 3 me ligjin nr. 7932, datë 17.05.1995;
 
 zëvendësuar fjala në pikën 4, me ligjin nr. 8776, datë 26.04.2001,; shtuar fjalët në pikën 3 me ligjin nr. 9114, datë 24.07.2003; ndryshuar fjalët në pikën 4 me ligjin nr. 9114, datë 24.07.2003; ndryshuar pika 3 dhe 4, me ligjin nr. 104/2014, datë 31.07.2014)
 
@@ -292,11 +288,13 @@ Neni 14
 
 Shpërndarja e kontributeve
 
-(Ndryshuar shifrat në shkronjat "a, b dhe c të pikës 1, me ligjin nr. 8889, datë 25.04.2002;
+(ndryshuar shifrat në shkronjat “a, b dhe c të pikës 1, me ligjin nr. 8889, datë 25.04.2002;
 
 ndryshuar shifra në shkronjën b të pikës 2, me ligjin nr. 8889, datë 25.04.2002; ndryshuar shifra në shkronjën c të pikës 1, me ligjin nr. 9600, datë 27.07.2006; ndryshuar shifra në shkronjën b të pikës 2, me ligjin nr. 9600, datë 27.07.2006; ndryshuar shifra në shkronjën a të pikës 1, me ligjin nr. 10070,
 
-datë 05.02.2009; ndryshuar shifra në shkronjën b të pikës 1, me ligjin nr.10 070, datë 05.02.2009; ndryshuar shifra në shkronjën c të pikës 1, me ligjin nr.10 070, datë 05.02.2009; ndryshuar shifra në shkronjën a të pikës 2, me ligjin nr.10 070, datë 05.02.2009; ndryshuar shifra në shkronjën b të pikës 2, me ligjin nr.10 070, datë 05.02.2009)
+datë 05.02.2009; ndryshuar shifra në shkronjën b të pikës 1, me ligjin nr.10 070, datë 05.02.2009; ndryshuar shifra në shkronjën c të pikës 1, me ligjin nr.10 070, datë 05.02.2009; ndryshuar shifra në shkronjën a të pikës 2, me ligjin nr.10 070, datë 05.02.2009; ndryshuar shifra në shkronjën b të pikës 2, me ligjin 
+
+nr.10 070, datë 05.02.2009)
 
 1. Kontributet e paguara nga personat e punësuar shpërndahen në tri degë, që administrojnë fondet e sigurimeve shoqërore:
 
@@ -318,7 +316,7 @@ Neni 15
 
 Pagesa e kontributeve
 
-(Shtuar paragraf me ligjin nr. 7932, datë 17.05.1995; shtuar paragraf me ligjin nr. 8392, datë 02.09.1998; zëvendësuar fjalët në fjalinë e dytë të paragrafit të parë me ligjin nr. 8776,datë 26.04.2001; shtuar paragraf pas paragrafit të dytë, me ligjin nr. 8776, datë 26.04.2001; shtuar fjalia në paragrafin e fundit, me ligjin nr. 8776, datë 26.04.2001; ndryshuar neni me ligjin nr. 9600, datë 27.07.2006)
+(shtuar paragraf me ligjin nr. 7932, datë 17.05.1995; shtuar paragraf me ligjin nr. 8392, datë 02.09.1998; zëvendësuar fjalët në fjalinë e dytë të paragrafit të parë me ligjin nr. 8776,datë 26.04.2001; shtuar paragraf pas paragrafit të dytë, me ligjin nr. 8776, datë 26.04.2001; shtuar fjalia në paragrafin e fundit, me ligjin nr. 8776, datë 26.04.2001; ndryshuar neni me ligjin nr. 9600, datë 27.07.2006)
 
 Punëdhënësit dhe të vetëpunësuarit, përjashtuar personat e vetëpunësuar në bujqësi, i paguajnë kontributet në fondin e sigurimeve shoqërore, sipas afatit dhe procedurave të përcaktuara në Ligjin nr. 9136, datë 11.09.2003 “Për mbledhjen e kontributeve të detyrueshme të sigurimeve shoqërore dhe shëndetësore në Republikën e Shqipërisë”, të ndryshuar.
 
@@ -328,15 +326,19 @@ Këshilli i Ministrave përcakton mënyrën dhe procedurat e derdhjes së kontri
 
 Akti që përmban detyrimin për pagesën e kontributeve përbën titull ekzekutiv dhe ekzekutohet nga zyra e përmbarimit.
 
+Neni 15/1
+
+(shtuar me ligjin nr. 64/2023, datë 21.7.2023)
+
+Përjashtohen nga detyrimi për të paguar kontributet e detyrueshme të sigurimeve shoqërore përfituesit e pensionit të pleqërisë, që vetëpunësohen si të vetëm në sektorin privat.
+
 Neni 16
 
 Sanksionet
 
-(Shtuar fjalët në pikën 1 dhe 2, rreshti i parë me ligjin nr. 7932, datë 17.05.1995;
+(shtuar fjalët në pikën 1 dhe 2, rreshti i parë me ligjin nr. 7932, datë 17.05.1995;
 
-ndryshuar pika 3 me ligjin nr. 7932, datë 17.05.1995; shtuar pika 4 me ligjin nr. 7932, datë 17.05.1995; zëvendësuar fjalët në pikën 3 me ligjin nr. 8392, datë 02.09.1998; ndryshuar neni me ligjin nr. 8776, datë 26.04.2001; ndryshuar neni me ligjin nr. 9114, datë 24.07.2003; ndryshuar neni
-
-me ligjin nr. 9600, datë 27.07.2006; shtuar fjali në fund të paragrafit të dytë me ligjin nr. 104/2014, datë 31.07.2014; shfuqizuar paragrafi i tretë me ligjin nr. 104/2014, datë 31.07.2014)
+ndryshuar pika 3 me ligjin nr. 7932, datë 17.05.1995; shtuar pika 4 me ligjin nr. 7932, datë 17.05.1995; zëvendësuar fjalët në pikën 3 me ligjin nr. 8392, datë 02.09.1998; ndryshuar neni me ligjin nr. 8776, datë 26.04.2001; ndryshuar neni me ligjin nr. 9114, datë 24.07.2003; ndryshuar neni me ligjin nr. 9600, datë 27.07.2006; shtuar fjali në fund të paragrafit të dytë me ligjin nr. 104/2014, datë 31.07.2014; shfuqizuar paragrafi i tretë me ligjin nr. 104/2014, datë 31.07.2014)
 
 Ndaj punëdhënësve dhe të vetëpunësuarve, përjashtuar personat e vetëpunësuar në bujqësi, që nuk zbatojnë afatet dhe procedurat e pagesës së kontributeve të sigurimeve shoqërore, zbatohen sanksionet e përcaktuara në Ligjin nr. 9136, datë 11.09.2003 “Për mbledhjen e kontributeve të detyrueshme të sigurimeve shoqërore dhe shëndetësore në Republikën e Shqipërisë”, të ndryshuar.
 
@@ -348,7 +350,7 @@ Neni 17
 
 Apelimet
 
-(Shtuar fjalë me ligjin nr. 8776, datë 26.04.2001)
+(shtuar fjalë me ligjin nr. 8776, datë 26.04.2001)
 
 Personi ka të drejtën e apelit në gjyq kundër vendimeve të gjobave, të inspektorëve të Agjencive Lokale të Sigurimeve Shoqërore.
 
@@ -356,9 +358,7 @@ Neni 18
 
 Përparësia e kontributeve
 
-(Shtuar paragraf me ligjin nr. 8392, datë 02.09.1998;
-
-zëvendësuar fjalët në fjalinë e parë me ligjin nr. 8776, datë 26.04.2001; shtuar fjalia në fund të paragrafit të dytë me ligjin nr. 8776, datë 26.04.2001)
+(shtuar paragraf me ligjin nr. 8392, datë 02.09.1998; zëvendësuar fjalët në fjalinë e parë me ligjin nr. 8776, datë 26.04.2001; shtuar fjalia në fund të paragrafit të dytë me ligjin nr. 8776, datë 26.04.2001)
 
 Pagesat e kontributeve gëzojnë përparësi në raport me detyrimet fiskale dhe borxhet.
 
@@ -404,7 +404,7 @@ Neni 22
 
 Shuma e të ardhurave
 
-(Ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
 1. Të ardhurat për sëmundje janë 70 për qind e mesatares ditore të bazës së vlerësuar neto të gjashtë muajve të fundit nga data e lindjes së të drejtës, kur i siguruari ka deri në 10 vjet sigurim dhe 80 për qind kur i siguruari ka mbi 10 vjet sigurim;
 
@@ -426,7 +426,7 @@ Neni 24
 
 Të ardhurat për kompensim sëmundjeje, kur ndryshon vendi i punës ose redukton orarin e punës
 
-(Ndryshuar pika 2, me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar pika 2, me ligjin nr. 104/2014, datë 31.07.2014)
 
 1. Personi i siguruar që për arsye shëndetësore, me vendim të komisionit mjekësor kompetent, ndryshon vendin e punës, ka të drejtë të përfitojë, nga sigurimet shoqërore, kompensimin e të ardhurave;
 
@@ -444,7 +444,9 @@ KREU II
 
 TË ARDHURAT PËR BARRËLINDJE
 
-Neni 26 Në degën e sigurimit për barrëlindje paguhen:
+Neni 26 
+
+Në degën e sigurimit për barrëlindje paguhen:
 
 a) të ardhurat për barrëlindje;
 
@@ -456,9 +458,9 @@ Neni 27
 
 E ardhura për barrëlindje
 
-(Ndryshuar pika 1, me ligjin nr. 9377, datë 21.04.2005;
+(ndryshuar pika 1 me ligjin nr. 9377, datë 21.04.2005; ndryshuar neni me ligjin 
 
-ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+nr. 104/2014, datë 31.07.2014)
 
 1. E ardhura për barrëlindje i paguhet gruas së siguruar për barrën dhe lindjen e fëmijës, kur ajo ka 12 muaj periudhë sigurimi, për çdo rast përfitimi. Përjashtohet nga rregulli për periudhën e sigurimit rasti kur e drejta e pagesës për barrëlindjen e radhës ndodh brenda 24 muajve nga data e lindjes së fëmijës së mëparshëm;
 
@@ -482,7 +484,7 @@ Neni 28
 
 E ardhura për kompensimin për shtatzëni
 
-(Ndryshuar pika 2, me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar pika 2, me ligjin nr. 104/2014, datë 31.07.2014)
 
 1. Gruaja e siguruar, që me vendim të komisionit mjekësor kompetent ndryshon vendin e punës për arsye shtatzënie, ka të drejtë të përfitojë kompensim të ardhurash për pakësimin që pëson nga ndryshimi i vendit të punës. Ky kompensim jepet në rast se është derdhur kontribut për një kohë jo më pak se 12 muaj;
 
@@ -492,17 +494,21 @@ Neni 29
 
 Shpërblimi për lindje fëmije
 
-(Zëvendësuar fjalët në pikën 2, me ligjin nr. 8392, datë 02.09.1998)
+(zëvendësuar fjalët në pikën 2, me ligjin nr. 8392, datë 02.09.1998)
 
 1. Shpërblim për lindje fëmije i paguhet një personi të siguruar, i cili është nëna ose babai i një fëmijë që lind, me kusht që njëri prej tyre të ketë kontribuar për një vit para lindjes se fëmijës. Shpërblimi do të bëhet i pagueshëm vetëm një herë dhe nëna do të ketë përparësi në përfitimin e pagesës, në rast se ajo është e siguruar;
 
 2. Shpërblimi për çdo fëmijë të lindur do të jetë një shumë e barabartë me 50 për qind të pagës minimale mujore.
 
-KREU III PENSIONET
+KREU III 
+
+PENSIONET
 
 Neni 30
 
-(Shtuar shkronja b/1, me ligjin nr. 8889, datë 25.04.2002; shfuqizuar shkronja b, me ligjin nr. 104/2014, datë 31.07.2014; shtuar shkronja ç/1, me ligjin nr. 104/2014, datë 31.07.2014)
+(shtuar shkronja b/1, me ligjin nr. 8889, datë 25.04.2002; shfuqizuar shkronja b, me ligjin 
+
+nr. 104/2014, datë 31.07.2014; shtuar shkronja ç/1, me ligjin nr. 104/2014, datë 31.07.2014)
 
 Në degën e sigurimit të pensioneve paguhet:
 
@@ -512,13 +518,13 @@ b/1) pension pleqërie i reduktuar;
 
 c) pension invaliditeti;
 
-ç)	pension invaliditeti i pjesshëm; ç/1) pension invaliditeti i reduktuar
+ç) pension invaliditeti i pjesshëm; ç/1) pension invaliditeti i reduktuar
 
 d) të ardhura shtesë për kujdesje;
 
 dh) të ardhura shtesë për fëmijën në ngarkim;
 
-e) pensione familjare; ë)	pagesë për vdekje.
+e) pensione familjare; ë) pagesë për vdekje.
 
 PENSIONET E PLEQËRISË
 
@@ -526,7 +532,7 @@ Neni 31
 
 Pension pleqërie
 
-(Hequr fjala në pikën 1 me ligjin nr. 8776, datë 26.04.2001; ndryshuar shprehja në paragrafin e parë të pikës 1 me ligjin nr. 8889, datë 25.04.2002; ndryshuar titulli me ligjin nr. 9377, datë 21.04.2005;
+(hequr fjala në pikën 1 me ligjin nr. 8776, datë 26.04.2001; ndryshuar shprehja në paragrafin e parë të pikës 1 me ligjin nr. 8889, datë 25.04.2002; ndryshuar titulli me ligjin nr. 9377, datë 21.04.2005;
 
 ndryshuar pika 1, me ligjin nr. 9377, datë 21.04.2005; ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
@@ -538,9 +544,9 @@ Neni 31/1
 
 Pension pleqërie i reduktuar
 
-(Shtuar neni me ligjin nr. 8889, datë 25.04.2002;
+(shtuar neni me ligjin nr. 8889, datë 25.04.2002; ndryshuar paragrafi i dytë me ligjin nr. 9058, datë 20.03.2003; shfuqizuar paragrafi i fundit me ligjin nr. 9058, datë 20.03.2003; ndryshuar neni me ligjin
 
-ndryshuar paragrafi i dytë me ligjin nr. 9058, datë 20.03.2003; shfuqizuar paragrafi i fundit me ligjin nr. 9058, datë 20.03.2003; ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+ nr. 104/2014, datë 31.07.2014)
 
 Personat e siguruar kanë të drejtë për pension pleqërie të reduktuar, deri tre vjet para mbushjes së moshës së daljes në pension të përcaktuar në nenin 92, kur:
 
@@ -554,7 +560,7 @@ Neni 32
 
 Masa e pensionit
 
-(Shtuar paragraf në fund të pikës 4, me ligjin nr. 9377, datë 21.04.2005;
+(shtuar paragraf në fund të pikës 4, me ligjin nr. 9377, datë 21.04.2005;
 
 ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
@@ -570,9 +576,7 @@ Neni 33
 
 Shtesë pensioni për shtyrje të datës së daljes në pension
 
-(Ndryshuar titulli dhe neni me ligjin nr. 8776, datë 26.04.2001;
-
-ndryshuar neni me ligjin nr. 9377, datë 21.04.2005; ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar titulli dhe neni me ligjin nr. 8776, datë 26.04.2001; ndryshuar neni me ligjin nr. 9377, datë 21.04.2005; ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
 I siguruari, i cili ka plotësuar kushtet për pension pleqërie, sipas nenit 92, të këtij ligji, merr shtesë në masën 0,5 për qind të pensionit për çdo muaj që shtyn datën e daljes në pension dhe vazhdon të paguajë kontribute.
 
@@ -580,7 +584,7 @@ Përfituesi i pensionit të pleqërisë, që ndërpret pensionin, vazhdon të pu
 
 Neni 34
 
-(Zëvendësuar shprehja me ligjin nr. 8889, datë 25.04.2002; zëvendësuar fjalët në pikën 1, me ligjin nr. 9377, datë 21.04.2005; shfuqizuar me ligjin nr. 104/2014, datë 31.07.2014)
+(zëvendësuar shprehja me ligjin nr. 8889, datë 25.04.2002; zëvendësuar fjalët në pikën 1, me ligjin nr. 9377, datë 21.04.2005; shfuqizuar me ligjin nr. 104/2014, datë 31.07.2014)
 
 PENSIONET E INVALIDITETIT
 
@@ -588,7 +592,7 @@ Neni 35
 
 Kushtet e përfitimit
 
-(Shtuar 3 paragrafë në fund të pikës 1, me ligjin nr. 7932, datë 17.05.1995; hequr fjalët në paragrafin e parë të pikës 1, me ligjin nr. 9377, datë 21.04.2005; ndryshuar pika 2, me ligjin nr. 9377, datë 21.04.2005; shfuqizuar paragrafi i katërt i pikës 1, me ligjin nr. 10447, datë 14.07.2011; ndryshuar paragrafi i pestë i pikës 1, me ligjin nr. 10447, datë 14.07.2011; ndryshuar paragrafi i parë, pika 2, me ligjin nr. 104/2014, datë 31.07.2014)
+(shtuar 3 paragrafë në fund të pikës 1, me ligjin nr. 7932, datë 17.05.1995; hequr fjalët në paragrafin e parë të pikës 1, me ligjin nr. 9377, datë 21.04.2005; ndryshuar pika 2, me ligjin nr. 9377, datë 21.04.2005; shfuqizuar paragrafi i katërt i pikës 1, me ligjin nr. 10447, datë 14.07.2011; ndryshuar paragrafi i pestë i pikës 1, me ligjin nr. 10447, datë 14.07.2011; ndryshuar paragrafi i parë, pika 2, me ligjin nr. 104/2014, datë 31.07.2014)
 
 Personi që bëhet i paaftë merr pension invaliditeti, kur ka plotësuar periudhën minimale të sigurimit dhe për çdo arsye, veç aksidentit në punë ose sëmundjes profesionale. Ai e merr këtë 
 
@@ -606,17 +610,17 @@ Rregullat për organizimin dhe funksionimin e KMCAP-ve Eprore caktohen me këtë
 
 Rregullore të ISSH-së dhe Ministrisë së Shëndetësisë.
 
-1. Periudha minimale e sigurimit për pension invaliditeti është sa 3/4 e diferencës së moshës së personit të siguruar në kohën që bëhet i paaftë dhe moshës 20 vjeç dhe në 5 vitet e fundit para lindjes së të drejtës të ketë së paku 12 muaj sigurim shoqëror.
+2. Periudha minimale e sigurimit për pension invaliditeti është sa 3/4 e diferencës së moshës së personit të siguruar në kohën që bëhet i paaftë dhe moshës 20 vjeç dhe në 5 vitet e fundit para lindjes së të drejtës të ketë së paku 12 muaj sigurim shoqëror.
 
 Personi, që është në kushtet e invaliditetit të plotë, por që nuk plotëson periudhën minimale të sigurimit, ka të drejtë për pension invaliditeti të reduktuar, në masën që rezulton nga raporti i periudhës së tij të sigurimit me periudhën e duhur për pension të plotë invaliditeti;
 
-2. Personi që përfiton pension për invaliditet, kur plotëson moshën, ka të drejtë të kërkojë pension pleqërie, nëse ky do të jetë më i favorshëm për të.
+3. Personi që përfiton pension për invaliditet, kur plotëson moshën, ka të drejtë të kërkojë pension pleqërie, nëse ky do të jetë më i favorshëm për të.
 
 Neni 36
 
 Shuma e pensionit
 
-(Shtuar paragraf në fund të pikës 4, me ligjin nr. 9377, datë 21.04.2005,;
+(shtuar paragraf në fund të pikës 4, me ligjin nr. 9377, datë 21.04.2005,;
 
 ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
@@ -636,7 +640,7 @@ Neni 37/1
 
 Pension invaliditeti i reduktuar
 
-(Shtuar neni me ligjin nr. 9377, datë 21.04.2005)
+(shtuar neni me ligjin nr. 9377, datë 21.04.2005)
 
 Masa e pensionit të invaliditetit të reduktuar llogaritet duke shumëzuar masën e llogaritur të invaliditetit të plotë me koeficientin që rezulton nga raporti i periudhës së tij të sigurimit me periudhën e duhur për pension të plotë invaliditeti.
 
@@ -644,7 +648,7 @@ Neni 38
 
 E ardhura shtesë për kujdesje
 
-(Zëvendësuar fjalë në fund të fjalisë së parë, me ligjin nr. 104/2014, datë 31.07.2014)
+(zëvendësuar fjalë në fund të fjalisë së parë, me ligjin nr. 104/2014, datë 31.07.2014)
 
 Kur përfituesi i një pensioni invaliditeti bëhet fizikisht ose psikikisht i paaftë dhe ka nevojë për një kujdesje të vazhdueshme të një personi tjetër, atij i jepet një pagesë shtesë prej 15 për qindtë bazës së vlerësuar neto. Nevoja për kujdesje të vazhdueshme e një personi tjetër përcaktohet nga Komisioni Mjekësor i Caktimit të Aftësisë për Punë (KMCAP).
 
@@ -652,7 +656,7 @@ Neni 39
 
 E ardhura shtesë për fëmijë në ngarkim
 
-(Ndryshuar neni me ligjin nr. 9377, datë 21.04.2005)
+(ndryshuar neni me ligjin nr. 9377, datë 21.04.2005)
 
 Një person i siguruar i paaftë, që merr pension invaliditeti, sipas nenit 35, dhe që ka në ngarkim fëmijët deri në moshën 18 vjeç, ose kur këta studiojnë apo janë të paaftë për punë deri në moshën 25 vjeç, merr një të ardhur shtesë familjare për çdo fëmijë në masën 5 për qind të pensionit bazë, por jo më shumë se 30 për qind.
 
@@ -660,7 +664,7 @@ Neni 39/1
 
 Ankimi në Komisionin Epror
 
-(Shtuar me ligjin nr. 10 447, datë 14.07.2011)
+(shtuar me ligjin nr. 10 447, datë 14.07.2011)
 
 1. Kundër vendimit të Komisionit Mjekësor të Caktimit të Aftësisë për Punë të nivelit të parë, personi mund të bëjë ankim brenda 30 ditëve në Komisionin Epror Mjekësor të Caktimit të Aftësisë për Punë (më poshtë Komisioni Epror);
 
@@ -672,7 +676,7 @@ Neni 39/2
 
 Përbërja e Komisioneve Eprore
 
-(Shtuar me ligjin nr. 10 447, datë 14.07.2011)
+(shtuar me ligjin nr. 10 447, datë 14.07.2011)
 
 1. Komisionet Eprore përbëhen nga 5 anëtarë secili, të cilët zgjidhen në detyrë me Vendim të Këshillit të Ministrave;
 
@@ -680,7 +684,7 @@ Përbërja e Komisioneve Eprore
 
 3. Anëtar i Komisionit Epror mund të emërohet shtetasi që përmbush këto kritere:
 
-a) të jetë me gradë shkencore "Profesor", "Profesor i asociuar" ose "Doktor shkencash";
+a) të jetë me gradë shkencore “Profesor”, “Profesor i asociuar” ose “Doktor shkencash”;
 
 b) të ketë përvojë profesionale prej jo më pak se 10 vjet punë në fushën e vet të ekspertizës;
 
@@ -694,7 +698,7 @@ Neni 39/3
 
 Mandati i anëtarit të Komisionit Epror
 
-(Shtuar me ligjin nr. 10 447, datë 14.07.2011)
+(shtuar me ligjin nr. 10 447, datë 14.07.2011)
 
 1. Anëtari i Komisionit Epror ka mandat 4-vjeçar me të drejtë rizgjedhjeje;
 
@@ -710,7 +714,7 @@ Neni 39/4
 
 Mbarimi para kohe i mandatit
 
-(Shtuar me ligjin nr. 10 447, datë 14.07.2011)
+(shtuar me ligjin nr. 10 447, datë 14.07.2011)
 
 1. Mandati i anëtarit të Komisionit Epror mbaron para kohe kur:
 
@@ -736,7 +740,7 @@ Neni 40
 
 Kushtet e përfitimit
 
-(Shtuar shprehja në pikën 1, me ligjin nr. 7932, datë 17.05.1995; ndryshuar shkronja ç e pikës 2, me ligjin nr. 7932, datë 17.05.1995; ndryshuar pika 1, me ligjin nr. 9377, datë 21.04.2005;
+(shtuar shprehja në pikën 1, me ligjin nr. 7932, datë 17.05.1995; ndryshuar shkronja ç e pikës 2, me ligjin nr. 7932, datë 17.05.1995; ndryshuar pika 1, me ligjin nr. 9377, datë 21.04.2005;
 
 zëvendësuar shprehje në pikën 2, shkronja a, paragrafi i fundit, me ligjin nr. 104/2014, datë 31.07.2014)
 
@@ -762,7 +766,7 @@ b) Burri i ve, kur provohet se ai është:
 
 c) Jetimi kur provohet që ai ishte në ngarkim të atij që vdiq dhe ka një moshë nën 18 vjeç, ose deri në 25 vjeç, nëse studion ose është i paaftë për punë, para se të arrijë moshat e mësipërme;
 
-ç) Prindërit, kur kanë arritur moshën 65 vjeç ose janë të paaftë për punë, prindërit e prindërve, njerku e njerka, kur nuk kanë persona që detyrohen t`i mbajnë, nëse provohet se ata jetonin në të njëjtën familje me atë që vdiq, jo më pak se një vit para momentit të vdekjes dhe kanë arritur moshën 65 vjeç, ose janë të paaftë për punë;
+ç) Prindërit, kur kanë arritur moshën 65 vjeç ose janë të paaftë për punë, prindërit e prindërve, njerku e njerka, kur nuk kanë persona që detyrohen t‘i mbajnë, nëse provohet se ata jetonin në të njëjtën familje me atë që vdiq, jo më pak se një vit para momentit të vdekjes dhe kanë arritur moshën 65 vjeç, ose janë të paaftë për punë;
 
 d) Nipërit e mbesat, kur janë në ngarkim të atij që vdiq dhe bënin pjesë në të njëjtën familje me të. Në një rast të tillë ata trajtohen si jetimë.
 
@@ -772,7 +776,7 @@ Neni 41
 
 Shuma e pensionit
 
-(Shtuar paragraf pas paragrafit të parë të shkronjës b të pikës 1, me ligjin nr. 7932, datë 17.05.1995; riformuluar shkronja b e pikës 1, me ligjin nr. 8776, datë 26.04.2001; riformuluar paragrafi i dytë i pikës 1, me ligjin nr. 8776, datë 26.04.2001; riformuluar fjalia e dytë e pikës 2, me ligjin nr. 8776, datë 26.04.2001; ndryshuar pika 1, paragrafi i parë me ligjin nr. 104/2014, datë 31.07.2014)
+(shtuar paragraf pas paragrafit të parë të shkronjës b të pikës 1, me ligjin nr. 7932, datë 17.05.1995; riformuluar shkronja b e pikës 1, me ligjin nr. 8776, datë 26.04.2001; riformuluar paragrafi i dytë i pikës 1, me ligjin nr. 8776, datë 26.04.2001; riformuluar fjalia e dytë e pikës 2, me ligjin nr. 8776, datë 26.04.2001; ndryshuar pika 1, paragrafi i parë me ligjin nr. 104/2014, datë 31.07.2014)
 
 1. Pensioni familjar është pjesë e pensionit që kishte ose i takonte të ndjerit. Pensioni, që do t’i takonte të ndjerit, llogaritet sipas rregullave për pensionet e invaliditetit. Pensioni familjar jepet në masën:”.
 
@@ -792,7 +796,7 @@ PAGESAT PËR VDEKJE
 
 Neni 42
 
-(Ndryshuar pika 2 me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar pika 2 me ligjin nr. 104/2014, datë 31.07.2014)
 
 1. Pagesa për vdekje i jepet:
 
@@ -810,7 +814,7 @@ Neni 43
 
 Llojet e përfitimeve
 
-(Ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
 Personat e siguruar, në rastet e aksidenteve në punë ose sëmundjeve profesionale, përfitojnë të drejtën e së ardhurës, pavarësisht nga vjetërsia në punë:
 
@@ -824,9 +828,11 @@ Neni 44
 
 Aksidenti në punë dhe sëmundje profesionale
 
-(Ndryshuar neni me ligjin nr. 9377, datë 21.04.2005)
+(ndryshuar neni me ligjin nr. 9377, datë 21.04.2005)
 
 Aksidenti në punë ose për shkak të punës përcaktohet me vendim të Këshillit të Ministrave. Sëmundjet profesionale përcaktohen me vendim të Këshillit të Ministrave, me propozimin e Ministrit të Shëndetësisë.
+
+Neni 45
 
 Kujdesi mjekësor shtesë dhe riaftësimi
 
@@ -848,7 +854,7 @@ Neni 47
 
 E ardhura për paaftësi të përkohshme
 
-(Ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
 E ardhura për paaftësi të përkohshme, si pasojë e një aksidenti në punë ose sëmundjeje profesionale, e provuar nga një komision mjekësh ekspertë kompetentë (KML), do të jetë e barabartë me 100 për qind të mesatares ditore të bazës së vlerësuar neto të gjashtë muajve të fundit, nga data e lindjes së të drejtës, paguar për një periudhë përfitimi deri në 12 muaj.
 
@@ -856,7 +862,7 @@ Neni 48
 
 E ardhura për invaliditet të përhershëm
 
-(Shtuar paragraf me ligjin nr. 9377, datë 21.04.2005;ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+(shtuar paragraf me ligjin nr. 9377, datë 21.04.2005; ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
 E ardhura për invaliditet të përhershëm në punë, që ka shkaktuar të paktën humbjen e 67 për qind të aftësisë për punë, e vërtetuar nga një Komision Mjekësor i Caktimit të Aftësisë për Punë (KMCAP), është e barabartë me 80 për qind të bazës së vlerësuar mesatare neto, të vitit të fundit para lindjes së të drejtës, por jo më pak se 80 për qind e pagës minimale neto në shkallë vendi.
 
@@ -868,7 +874,7 @@ Neni 49
 
 E ardhura për invaliditet të pjesshëm të përhershëm
 
-(Ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
 E ardhura për invaliditet të pjesshëm të përhershëm në punë, që ka shkaktuar të paktën humbjen e 33 për qind të aftësisë për punë, e vërtetuar nga KMCAP-ja, është e barabartë me një pjesë të 80-përqindëshit të bazës mesatare të vlerësuar neto të vitit të fundit para lindjes së të drejtës, në varësi nga shkalla e humbjes së aftësisë për punë, por jo më pak se 50 për qind dhe që përcaktohet në rregulloren e Institutit të Sigurimeve Shoqërore.
 
@@ -888,7 +894,7 @@ Neni 52
 
 Të ardhurat në rast vdekjeje dhe pensioni familjar
 
-(Shtuar paragraf në pikën 4, me ligjin nr. 8392, datë 02.09.1998; ndryshuar pika 4 dhe hequr pika 5, me ligjin nr. 8776, datë 26.04.2001)
+(shtuar paragraf në pikën 4, me ligjin nr. 8392, datë 02.09.1998; ndryshuar pika 4 dhe hequr pika 5, me ligjin nr. 8776, datë 26.04.2001)
 
 1. Personi që paguan shpenzimet e vdekjes të një personi të siguruar, që vdes si rezultat i një aksidenti në punë ose sëmundjeje profesionale, do të ripaguhet plotësisht në nivelet që do të përcaktohen nga Rregullorja e Institutit të Sigurimeve Shoqërore;
 
@@ -906,7 +912,7 @@ Neni 53
 
 Kushtet e përfitimit
 
-(Shtuar fjalët në shkronjën a të pikës 1, me ligjin nr. 9377, datë 21.04.2005;
+(shtuar fjalët në shkronjën a të pikës 1, me ligjin nr. 9377, datë 21.04.2005;
 
 ndryshuar shkronja b e pikës 1, me ligjin nr. 9377, datë 21.04.2005)
 
@@ -924,9 +930,11 @@ c) nuk  marrin  përfitime të tjera  nga ky Ligj,  me përjashtim  të pensioni
 
 2. Sigurimi i papunësisë mund të paguhet edhe në rastet e pjesëmarrjes në programet speciale publike shtetërore e lokale, me kusht që ai të mos marrë më shumë se paga minimale mujore.
 
+Neni 54
+
 Shuma e së ardhurës
 
-(Ndryshuar pika 3, me ligjin nr. 9377, datë 21.04.2005)
+(ndryshuar pika 3, me ligjin nr. 9377, datë 21.04.2005)
 
 1. E ardhura nga papunësia do të jetë një shumë bazë që siguron të paktën një nivel jetese minimale çdo vit e indeksuar me Vendim të Këshillit të Ministrave, lidhur me llogaritjen e indeksit të çmimeve të mallrave të zgjedhura;
 
@@ -938,7 +946,7 @@ Neni 55
 
 Periudha e përfitimit
 
-(Ndryshuar pika 1, me ligjin nr. 9377, datë 21.04.2005)
+(ndryshuar pika 1 me ligjin nr. 9377, datë 21.04.2005)
 
 1. E ardhura e papunësisë paguhet deri në 12 muaj, sipas përcaktimit të VKM;
 
@@ -964,6 +972,8 @@ Neni 57
 
 Tërheqja e kësteve të përfitimit
 
+(shtuar pika 5 me ligjin nr. 64/2023, datë 21.7.2023)
+
 1. Përfitimet duhet të zëvendësojnë pakësimin e të ardhurave nga punësimi ose nga një veprimtari
 
 tjetër ekonomike;
@@ -974,9 +984,13 @@ tjetër ekonomike;
 
 4. Pagesa nuk ndalohet vetëm kur Ligji parashikon qartë punësim dhe veprimtari ekonomike (psh, pension invaliditeti të pjesshëm).
 
+5. Pagesa nuk ndalohet nëse përfituesi i pensionit të pleqërisë punon në sektorin privat si i punësuar apo i vetëpunësuar
+
+Neni 58
+
 Periudha e sigurimit
 
-(Shtuar fjalët në fund të shkronjës b, me ligjin nr. 8392, datë 02.09.1998)
+(shtuar fjalët në fund të shkronjës b, me ligjin nr. 8392, datë 02.09.1998)
 
 1. Periudhat e sigurimit përfshijnë të gjitha periudhat:
 
@@ -986,11 +1000,17 @@ b) gjatë të cilave është bërë pagesa nga sigurimet shoqërore, përfshirë
 
 2. Këshilli i Ministrave mund të deklarojë edhe periudha të tjera si periudha të sigurimit, duke u derdhur kontributi në fondin e sigurimit shoqëror nga Buxheti i Shtetit.
 
+Neni 58/1
+
+(shtuar me ligjin nr. 64/2023, datë 21.7.2023)
+
+Përfituesve të pensionit të pleqërisë, të cilët, ndërkohë që tërheqin këstin mujor të pensionit, janë të punësuar ose të vetëpunësuar në sektorin privat, nuk u njihet periudha e punësimit si periudhë sigurimi për efekte përfitimi nga ky ligj.
+
 Neni 59
 
 Baza e vlerësuar për llogaritjen e përfitimeve
 
-(Ndryshuar titulli i nenit me ligjin nr. 9377,datë 21.04.2005; riformuluar pika 1 me ligjin nr. 9377, datë 21.04.2005; riformuluar pika 3 me ligjin nr. 9377, datë 21.04.2005; riformuluar pika 5 me ligjin nr. 9377, datë 21.04.2005; ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar titulli i nenit me ligjin nr. 9377, datë 21.04.2005; riformuluar pika 1 me ligjin nr. 9377, datë 21.04.2005; riformuluar pika 3 me ligjin nr. 9377, datë 21.04.2005; riformuluar pika 5 me ligjin nr. 9377, datë 21.04.2005; ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
 1. Baza e vlerësuar për llogaritjen e pensioneve llogaritet si raport i shumës së pagave, për të cilat janë paguar kontributet, me periudhën që njihet si periudhë sigurimi.
 
@@ -1006,11 +1026,13 @@ Për efekt të llogaritjes së pensioneve me datë fillimi pas 01.01.2015 e në 
 
 2. Baza e vlerësuar neto për llogaritjen e pagesave për sëmundje e barrëlindje dhe për të ardhura të tjera afatshkurtra do të jenë pagat mbi të cilat janë paguar kontributet pasi zbritet tatimi mbi të ardhurat personale, norma e kontributit të sigurimeve shoqërore, shëndetësore dhe suplementare që mbahet nga paga e punonjësit, sipas dispozitave në fuqi për periudhën përkatëse;
 
-3. Çdo vit, pas 01.01.2015, duke  filluar  nga  data 1 janar, baza e vlerësuar vjetore individuale indeksohet me koeficientin, që llogaritet si raport i kontributit mesatar të personave të siguruar, të mbledhur në vitin e fundit kalendarik, kundrejt të njëjtit tregues të vitit pararendës. Ky koeficient caktohet me Vendim të Këshillit të Ministrave;
+3. Çdo vit, pas 01.01.2015, duke filluar  nga  data 1 janar, baza e vlerësuar vjetore individuale indeksohet me koeficientin, që llogaritet si raport i kontributit mesatar të personave të siguruar, të mbledhur në vitin e fundit kalendarik, kundrejt të njëjtit tregues të vitit pararendës. Ky koeficient caktohet me Vendim të Këshillit të Ministrave;
 
 4. Pensionet e invaliditetit nuk do të llogariten me një bazë të vlerësuar më të ulët se ajo e paguar më parë. Sapo të jetë përfituar një pension invaliditeti, shuma e pensionit do të merret si kufi minimal, kur llogaritet çdo pension tjetër sipas ligjit të sigurimeve shoqërore.
 
-(Shtuar fjalët me ligjin nr. 9377, datë 21.04.2005)
+Neni 60
+
+(shtuar fjalët me ligjin nr. 9377, datë 21.04.2005)
 
 Për personat që nuk kanë pagë ose që nuk kanë dokumentin, i cili vërteton pagën, përfitimet llogariten mbi pagën minimale.
 
@@ -1018,7 +1040,7 @@ Neni 61
 
 Indeksimi i përfitimeve
 
-(Ndryshuar neni me ligjin nr. 9377, datë 21. 04.2005; ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar neni me ligjin nr. 9377, datë 21. 04.2005; ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
 Pensioni social, pensionet e pleqërisë, të invaliditetit, familjare, si edhe të ardhurat nga aksidentet në punë dhe sëmundjet profesionale indeksohen çdo vit për të kompensuar pasojat e ndryshimit të çmimeve të mallrave dhe të shërbimeve të zgjedhura për nivelin minimal të jetesës së pensionistëve. Këshilli i Ministrave cakton listën e mallrave të zgjedhura, mbi të cilën llogaritet indeksi, metodën e llogaritjes dhe datën e indeksimit.
 
@@ -1026,9 +1048,11 @@ Neni 62
 
 E drejta për përfitim
 
-(Ndryshuar pika 2 dhe 3, me ligjin nr. 8392, datë 02.09.1998; ndryshuar titulli me ligjin nr. 8776,
+(ndryshuar pika 2 dhe 3, me ligjin nr. 8392, datë 02.09.1998; ndryshuar titulli me ligjin nr. 8776,
 
-datë 26.04.2001; shtuar fjalia në fund të pikës 1, me ligjin nr. 9377, datë 21.04.2005; shtuar fjalët në paragrafin e tretë të pikës 3, me ligjin nr. 9377, datë 21.04.2005; shtuar fjalët në paragrafin e katërt të pikës 3, me ligjin nr. 9377, datë 21.04.2005; ndryshuar paragrafi i katërt i pikës 3, me ligjin nr. 9768, datë 09.07.2007)
+datë 26.04.2001; shtuar fjalia në fund të pikës 1, me ligjin nr. 9377, datë 21.04.2005; shtuar fjalët në paragrafin e tretë të pikës 3, me ligjin nr. 9377, datë 21.04.2005; shtuar fjalët në paragrafin e katërt të pikës 3, me ligjin nr. 9377, datë 21.04.2005; ndryshuar paragrafi i katërt i pikës 3, me ligjin 
+
+nr. 9768, datë 09.07.2007)
 
 1. Personat që kanë të drejtë për më shumë se 1 lloj pensioni, mund të zgjedhin vetëm një prej tyre, kjo e drejtë mund të ushtrohet jo më shumë se tre herë;
 
@@ -1038,10 +1062,9 @@ E drejta për të ardhurat e tjera parashkruhet me kalimin e një viti nga data 
 
 3. Pensionet e njohura, por të patërhequra do të paguhen në çdo kohë, por jo më shumë se për 3 vjet.
 
-vjet.
-
-
 Pensionet e caktuara, por të paguara më pak, jepen në çdo kohë, por jo më shumë se për 3
+
+vjet.
 
 E drejta për të kërkuar shumat e marra tepër gjatë një viti, ushtrohet jo më vonë se 3 vjet
 
@@ -1055,7 +1078,7 @@ Neni 62/1
 
 E drejta për informim
 
-(Shtuar neni me ligjin nr. 9377, datë 21.04.2005)
+(shtuar neni me ligjin nr. 9377, datë 21.04.2005)
 
 Personi i siguruar ka të drejtë të informohet në lidhje me kontributet dhe/ose përfitimet nga sigurimet shoqërore. Procedura dhe periudhat për informim caktohen me Vendim të Këshillit të Ministrave.
 
@@ -1063,14 +1086,13 @@ PJESA V
 
 FONDI I SIGURIMIT SHOQËROR
 
-Përfitimet nga ky ligj nuk taksohen.
-
-
 Neni 63
+
+Përfitimet nga ky ligj nuk taksohen.
 
 Neni 64
 
-(Shtuar paragrafi i tretë me ligjin nr. 104/2014, datë 31.07.2014)
+(shtuar paragrafi i tretë me ligjin nr. 104/2014, datë 31.07.2014)
 
 Përfitimet që parashikon ky ligj, financohen nga fondi i sigurimeve shoqërore, tek i cili do të kontribuojnë rregullisht punëdhënësit, të punësuarit dhe personat e tjerë vullnetarisht  të siguruar.
 
@@ -1086,7 +1108,7 @@ Neni 66
 
 Të ardhurat
 
-(Ndryshohet emërtimi në shkronjën d, me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshohet emërtimi në shkronjën d, me ligjin nr. 104/2014, datë 31.07.2014)
 
 Të ardhurat e fondit të sigurimeve shoqërore përbëhen nga:
 
@@ -1108,7 +1130,9 @@ c) subvencione të Buxhetit të Shtetit për të mbështetur shpenzimet shtesë,
 
 ç) pagesa për veprimtari shtesë, të përcaktuara nga Këshilli i Ministrave;
 
-d) subvencione të Buxhetit të Shtetit, të miratuara nga Kuvendi i Republikës së Shqipërisë; dh) të ardhurat nga investimet e fondit të sigurimeve shoqërore;
+d) subvencione të Buxhetit të Shtetit, të miratuara nga Kuvendi i Republikës së Shqipërisë; 
+
+dh) të ardhurat nga investimet e fondit të sigurimeve shoqërore;
 
 e) të ardhura të tjera, duke përfshire gjobat, të ardhura nga veprimtaritë administrative të sigurimit shoqëror, dhurata, trashëgimi etj.
 
@@ -1116,7 +1140,7 @@ Neni 67
 
 Shpenzimet
 
-(Ndryshuar pika 3, me ligjin nr. 9377, datë 21.04.2005)
+(ndryshuar pika 3, me ligjin nr. 9377, datë 21.04.2005)
 
 1. Shpenzimet e fondit të sigurimeve shoqërore përfshijnë:
 
@@ -1132,9 +1156,11 @@ Neni 68
 
 Përdorimi i fondeve për sigurimet shoqërore
 
-(Shtuar fjalët në fund të paragrafit të parë të pikës 2, me ligjin nr. 8392, datë 02.09.1998; shtuar
+(shtuar fjalët në fund të paragrafit të parë të pikës 2, me ligjin nr. 8392, datë 02.09.1998; shtuar
 
-pika 4, me ligjin nr. 9114, datë 24.07.2003; ndryshuar paragrafi i dytë i pikës 2, me ligjin nr. 9377, datë 21.04.2005)
+pika 4, me ligjin nr. 9114, datë 24.07.2003; ndryshuar paragrafi i dytë i pikës 2, me ligjin 
+
+nr. 9377,  datë 21.04.2005)
 
 1. Kontributet administrohen në mënyrë të ndarë në 5 degët e sigurimit shoqëror:
 
@@ -1156,7 +1182,7 @@ d) dega e sigurimit të papunësisë.
 
 Neni 69
 
-(Ndryshuar neni me ligjin nr. 9377, datë 21.04.2005)
+(ndryshuar neni me ligjin nr. 9377, datë 21.04.2005)
 
 Shteti garanton fondin e sigurimeve shoqërore të detyrueshme në rast falimentimi. Këshilli i Ministrave ka të drejtën e mbikqyrjes së financimit për sigurimet shoqërore, të revizionimit të llogarive vjetore dhe të miratimit të buxhetit.
 
@@ -1164,7 +1190,7 @@ Neni 70
 
 Fondi rezervë
 
-(Ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
 1. Instituti i Sigurimeve Shoqërore krijon një fond rezervë që të mbulojë të paktën 1 muaj shpenzimet për pensione.
 
@@ -1176,7 +1202,7 @@ DREJTIMI DHE ADMINISTRIMI
 
 Neni 71
 
-(Ndryshuar pika 2, me ligjin nr. 9377, datë 21.04.2005)
+(ndryshuar pika 2, me ligjin nr. 9377, datë 21.04.2005)
 
 1. Sigurimet Shoqërore në Republikën e Shqipërisë do të drejtohen e administrohen nga Instituti i Sigurimeve Shoqërore (ISSH);
 
@@ -1194,29 +1220,29 @@ Neni 72
 
 Përbërja dhe emërimi i Këshillit Administrativ
 
-(Ndryshuar neni me ligjin nr. 9377, datë 21.04.2005; ndryshuar nënndarjet “i” “ii” “iii” “iv” “v” të shkronjës a, të pikës 1, me ligjin nr. 13/2014, datë 13.02.2014)
+(ndryshuar neni me ligjin nr. 9377, datë 21.04.2005; ndryshuar nënndarjet “i” “ii” “iii” “iv” “v” të shkronjës a, të pikës 1, me ligjin nr. 13/2014, datë 13.02.2014; ndryshuar shkronja “a” e pikës 1 me ligjin nr. 64/2023, datë 21.7.2023)
 
 1. Këshilli Administrativ i Institutit të Sigurimeve Shoqërore përbëhet nga 12 anëtarë, nga të cilët:
 
-a) 6 anëtarë të ndarë si më poshtë:
+a) Këshilli Administrativ i Institutit të Sigurimeve Shoqërore përbëhet nga 12 anëtarë, nga të cilët 6 anëtarë të ndarë si më poshtë:
 
-i) një përfaqësues nga ministria përgjegjëse për çështjet e financave;
+i. përfaqësuesi i ministrisë përgjegjëse për çështjet e sigurimeve shoqërore;
 
-ii) një përfaqësues nga ministria përgjegjëse për çështjet e ekonomisë;
+ii. zëvendësministri që mbulon marrëdhëniet e punës dhe çështjet e sigurimeve shoqërore ose çështjet financiare;
 
-iii) një përfaqësues nga ministria përgjegjëse për çështjet e sigurimeve shoqërore;
+iii. përfaqësuesi i agjencisë së ngarkuar për mbledhjen e kontributeve të sigurimeve shoqërore;
 
-iv) një përfaqësues nga ministria përgjegjëse për çështjet e shëndetësisë;
+iv. përfaqësuesi i Ministrisë së Drejtësisë;
 
-v) një përfaqësues nga ministria përgjegjëse për çështjet e drejtësisë.
+v. përfaqësuesi i institucionit që mbulon çështjet e sigurimit të kujdesit shëndetësor;
 
-vi) një përfaqësues nga Instituti i Statistikave.
+vi. përfaqësuesi i Institutit të Statistikave.
 
-Funksionet e këtyre përfaqësuesve caktohen me Vendim të Këshillit të Ministrave.
+Përfaqësuesit sipas ministrive apo institucioneve janë titullarët ose personat e deleguar prej tyre.
 
-b) 3 anëtarë caktohen nga organizatat më të përfaqësuara të punëdhënësve, të cilat përzgjidhen me Vendim të Këshillit të Ministrave;
+ b)3 anëtarë caktohen nga organizatat më të përfaqësuara të punëdhënësve, të cilat përzgjidhen me Vendim të Këshillit të Ministrave;
 
-c) 3 anëtarë caktohen nga sindikatat më të përfaqësuara, të cilat përzgjidhen me Vendim të Këshillit të Ministrave.
+ c) 3 anëtarë caktohen nga sindikatat më të përfaqësuara, të cilat përzgjidhen me Vendim të Këshillit të Ministrave.
 
 2. Emërimi i anëtarëve të përcaktuar në shkronjat “b” dhe “c” është i vlefshëm për një periudhë jo më shumë se 5 vjet, me të drejtë rizgjedhjeje vetëm një herë;
 
@@ -1232,7 +1258,9 @@ Neni 74
 
 Kompetencat e Këshillit Administrativ
 
-(Shtuar shkronja “ë” me ligjin nr. 8776, datë 26.04.2001; shtuar shkronja “b/1”, me ligjin nr. 9377, datë 21.04.2005; ndryshuar shkronja “e”, me ligjin nr. 9377, datë 21.04.2005; ndryshuar shkronja “ç”, e pikës 1, me ligjin nr. 9498, datë 03.04.2006; ndryshuar shkronja “ç”, pika 1, me ligjin nr. 13/2014, datë 13.02.2014)
+(shtuar shkronja “ë” me ligjin nr. 8776, datë 26.04.2001; shtuar shkronja “b/1”, me ligjin nr. 9377, datë 21.04.2005; ndryshuar shkronja “e”, me ligjin nr. 9377, datë 21.04.2005; ndryshuar shkronja “ç”, e pikës 1, me ligjin nr. 9498, datë 03.04.2006; ndryshuar shkronja “ç”, pika 1, me ligjin 
+
+nr. 13/2014, datë 13.02.2014)
 
 1. Këshilli Administrativ ka këto kompetenca:
 
@@ -1258,7 +1286,7 @@ Neni 75
 
 Detyrat dhe përgjegjësitë e Drejtorit të Përgjithshëm
 
-(Ndryshuar neni me ligjin nr. 9377, datë 21.04.2005)
+(ndryshuar neni me ligjin nr. 9377, datë 21.04.2005; ndryshuar shkronja “d” me ligjin nr. 64/2023, datë 21.7.2023)
 
 Drejtori i Përgjithshëm i Institutit të Sigurimeve Shoqërore ka këto detyra e përgjegjësi:
 
@@ -1270,7 +1298,7 @@ c) Mbledh bordin e  drejtuesve, si  një organ këshillues pranë tij, ku bëjn�
 
 ç) Përcakton rregullat e brendshme të Institutit të Sigurimeve Shoqërore;
 
-d) Emëron punonjësit e Drejtorisë së Përgjithshme të Institutit të Sigurimeve Shoqërore, drejtorët e Drejtorive Rajonale të Sigurimeve Shoqërore, si dhe përcakton rregullat e rekrutimit të personelit për këto drejtori;
+d) emëron punonjësit e Institutit të Sigurimeve Shoqërore, si dhe përcakton rregullat e rekrutimit të personelit. Procedurat përcaktohen në rregulloren e personelit të miratuar me vendim të Këshillit Administrativ;
 
 dh) Vendos për të gjitha çështjet e veprimtarisë së Institutit të Sigurimeve Shoqërore brenda kufijve të planit financiar dhe dispozitave ligjore në fuqi;
 
@@ -1280,7 +1308,7 @@ e) Përgjigjet për të gjitha çështjet e administrimit të Institutit të Sig
 
 Neni 76
 
-(Shfuqizuar me ligjin nr. 9377, datë 21.04.2005)
+(shfuqizuar me ligjin nr. 9377, datë 21.04.2005)
 
 Neni 77
 
@@ -1292,7 +1320,7 @@ Marrëdhëniet e Institutit të Sigurimeve Shoqërore me ministrinë përgjegjë
 
 Raportimi:
 
-1. Këshilli Administrativ i Institutit të Sigurimeve Shoqërore do t`i paraqesë çdo vit nëpërmjet ministrisë përgjegjëse për çështjet e sigurimeve shoqërore Këshillit të Ministrave:
+1. Këshilli Administrativ i Institutit të Sigurimeve Shoqërore do t‘i paraqesë çdo vit nëpërmjet ministrisë përgjegjëse për çështjet e sigurimeve shoqërore Këshillit të Ministrave:
 
 a) raportin vjetor dhe bilancin e Institutit të Sigurimeve Shoqërore;
 
@@ -1310,7 +1338,7 @@ Neni 78
 
 Statuti i Institutit të Sigurimeve Shoqërore
 
-(Ndryshuar me ligjin nr. 9377, datë 21.04.2005; zëvendësuar fjalët me ligjin nr. 9498, datë 03.04.2006; zëvendësuar fjalë me ligjin nr. 13/2014, datë 13.02.2014)
+(ndryshuar me ligjin nr. 9377, datë 21.04.2005; zëvendësuar fjalët me ligjin nr. 9498, datë 03.04.2006; zëvendësuar fjalë me ligjin nr. 13/2014, datë 13.02.2014)
 
 Këshilli i Ministrave miraton Statutin e Institutit të Sigurimeve Shoqërore, i cili rregullon veprimtarinë e këtij institucioni dhe marrëdhëniet ndërmjet ministrisë përgjegjëse për çështjet e sigurimeve shoqërore, Këshillit Administrativ dhe Drejtorit të Përgjithshëm të Institutit të Sigurimeve Shoqërore.
 
@@ -1320,7 +1348,7 @@ Neni 79
 
 Detyrimet e punëdhënësit dhe të vetëpunësuarit
 
-(Ndryshuar me ligjin nr. 8776, datë 26.04.2001; shtuar paragraf në fund të pikës 1, me ligjin nr. 9114, datë 24.07.2003; ndryshuar neni me ligjin nr. 10 070, datë 05.02.2009)
+(ndryshuar me ligjin nr. 8776, datë 26.04.2001; shtuar paragraf në fund të pikës 1, me ligjin nr. 9114, datë 24.07.2003; ndryshuar neni me ligjin nr. 10 070, datë 05.02.2009)
 
 Punëdhënësi dhe i vetëpunësuari janë të detyruar:
 
@@ -1342,7 +1370,9 @@ Neni 81
 
 Regjistrimi
 
-(Ndryshuar me ligjin nr. 8776, datë 26.04.2001; shtuar paragraf pas paragrafit të parë me ligjin nr. 9114, datë 24.07.2003; ndryshuar neni me ligjin nr. 9600, datë 27.07.2006; ndryshuar neni me ligjin nr. 10 070, datë 05.02.2009)
+(ndryshuar me ligjin nr. 8776, datë 26.04.2001; shtuar paragraf pas paragrafit të parë me ligjin nr. 9114, datë 24.07.2003; ndryshuar neni me ligjin nr. 9600, datë 27.07.2006; ndryshuar neni me ligjin 
+
+nr. 10 070, datë 05.02.2009)
 
 Personat juridikë, publikë, privatë dhe personat fizikë, që fillojnë veprimtari ekonomike për herë të parë, janë të detyruar të regjistrohen në Qendrën Kombëtare të Regjistrimit dhe në strukturat tatimore, sipas rregullave të përcaktuara me Ligj. Regjistrimi i subjekteve, në bazë të të dhënave të sigurimeve shoqërore dhe mbyllja e veprimtarisë bëhen sipas rregullave të përcaktuara me Vendim të Këshillit të Ministrave.
 
@@ -1352,7 +1382,9 @@ Neni 82
 
 Procedura për transferimin dhe pagimin e kontributeve
 
-(Ndryshuar pika 1, me ligjin nr. 9114, datë 24.07.2003; ndryshuar titulli me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar pika 1, me ligjin nr. 9114, datë 24.07.2003; ndryshuar titulli me ligjin 
+
+nr. 104/2014, datë 31.07.2014)
 
 1. Të gjitha të ardhurat nga kontributet e sigurimeve shoqërore dhe nga kamatëvonesat e tyre, të mbledhura nga organet tatimore, transferohen në llogaritë e Institutit të Sigurimeve Shoqërore dhe organeve në vartësi të tij. Procedurat e transferimit përcaktohen me Vendim të Këshillit të Ministrave;
 
@@ -1360,7 +1392,7 @@ Procedura për transferimin dhe pagimin e kontributeve
 
 Neni 83
 
-(Ndryshuar me ligjin nr. 9377, datë 21.04.2005)
+(ndryshuar me ligjin nr. 9377, datë 21.04.2005)
 
 Personeli mjekësor dhe anëtarët e komisionit mjekësor ose të KMCAP-it, që gjatë ushtrimit të veprimtarisë së tyre veprojnë në kundërshtim me normat e caktuara dhe cenojnë fondet e sigurimeve shoqërore dënohen me gjobë, në masën nga 3 deri në 5-fishin e pagës minimale në shkallë vendi. Gjoba vendoset nga personeli i ISSH-së, përgjegjës për paaftësinë e përkohshme, barrëlindjen dhe ekspertizën mjekësore
 
@@ -1370,11 +1402,11 @@ Neni 84
 
 Kërkesa
 
-(Ndryshuar pika 2 me ligjin nr. 104/2014, datë 31.07.2014, ndryshuar pika 2 me ligjin nr. 111/2016, 3.11.2016)
+(ndryshuar pika 2 me ligjin nr. 104/2014, datë 31.07.2014, ndryshuar pika 2 me ligjin nr. 111/2016, 3.11.2016; ndryshuar pika 2 me ligjin nr. 64/2023, datë 21.7.2023)
 
 1. Personi i siguruar ka të drejtë të kërkojë përfitime sa herë që mendon se i plotëson kushtet për përfitimin e tyre;
 
-2. Kërkesat, së bashku me dokumentet e përcaktuara në rregulloren e Institutit të Sigurimeve Shoqërore,  paraqiten dhe administrohen në sportelet e shërbimit, në ato bashki ku ndodhet vendbanimi i përhershëm i personit, sipas procedurave të parashikuara në legjislacionin që rregullon mënyrën e ofrimit të shërbimeve publike në sportel.
+2. Kërkesat së bashku me dokumentet e përcaktuara në rregulloren e Institutit të Sigurimeve Shoqërore paraqiten në portalin qeveritar “e-Albania”, ndërsa dokumentet origjinale ose të njësuara dërgohen me postë.
 
 3. Kërkesat për përfitimin e papunësisë bëhen në zyrat e punës me procedurë, sipas qendrës së punës ose vendbanimit.
 
@@ -1382,19 +1414,19 @@ Neni 85
 
 Përllogaritjet
 
-(Zëvendësuar fjalë në pikën 3 me ligjin nr. 8776, datë 26.04.2001; shtuar fjalët në fund të pikës 3 me ligjin nr. 9377, datë 21.04.2005; ndryshuar pika 2, me ligjin nr. 104/2014, datë 31.07.2014)
+(zëvendësuar fjalë në pikën 3 me ligjin nr. 8776, datë 26.04.2001; shtuar fjalët në fund të pikës 3 me ligjin nr. 9377, datë 21.04.2005; ndryshuar pika 2, me ligjin nr. 104/2014, datë 31.07.2014; ndryshuar pika 3 me ligjin nr. 64/2023, datë 21.7.2023)
 
 1. Përfitimet afatshkurtra për degët e sëmundjes, barrëlindjes dhe aksidenteve në punë për personat e punësuar, do të llogariten nga qendrat e punës, kurse për personat e tjerë ekonomikisht aktivë, nga zyrat lokale të sigurimeve shoqërore;
 
 2. Përfitimet afatshkurtra për papunësinë caktohen nga zyrat e punësimit. Dokumentacioni, kriteret dhe procedurat e caktimit të tyre përcaktohen me vendim të Këshillit të Ministrave;
 
-3. Pensionet do caktohen nga zyrat rajonale të Institutit të Sigurimeve Shoqërore, brenda ditës së fundit të muajit të ardhshëm nga data e pranimit të kërkesës dhe dokumentave të plota e të sakta për pension.
+3. Pensionet caktohen nga Instituti i Sigurimeve Shoqërore nëpërmjet zyrave rajonale ose një strukture të posaçme të ngritur për këtë qëllim, brenda ditës së fundit të muajit të ardhshëm nga data e pranimit të kërkesës dhe dokumenteve të plota të sakta për pension.
 
 Neni 86
 
 Ankimimi
 
-(Ndryshuar me ligjin nr. 9377, datë 21.04.2005; shtuar një fjali pas fjalisë së parë të pikës 1)
+(ndryshuar me ligjin nr. 9377, datë 21.04.2005; shtuar një fjali pas fjalisë së parë të pikës 1)
 
 1. Ankimi kundër vendimeve të përfitimeve bëhet në Komisionin e Ankimit pranë Drejtorive Rajonale të Sigurimeve Shoqërore. Ankimi, në këto raste, depozitohet pranë sporteleve të shërbimit, në përputhje me legjislacionin që rregullon mënyrën e ofrimit të shërbimeve publike në sportel.
 
@@ -1408,11 +1440,17 @@ Neni 87
 
 Pagesat
 
-(Ndryshuar me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar me ligjin nr. 104/2014, datë 31.07.2014)
 
-Pagesa  e  përfitimeve  nga  sigurimet  shoqërore  u  ngarkohet  institucioneve  financiare profesionale, që do të caktohen nga Këshilli Administrativ i Institutit të Sigurimeve Shoqërore.
+Pagesa e përfitimeve nga sigurimet shoqërore u ngarkohet institucioneve financiare profesionale, që do të caktohen nga Këshilli Administrativ i Institutit të Sigurimeve Shoqërore.
 
-Pagesa për përfitimin e papunësisë bëhet nga institucione financiare profesionale ose nga zyrat e punës, sipas përcaktimit me vendim të Këshillit të Ministrave.”.
+Pagesa për përfitimin e papunësisë bëhet nga institucione financiare profesionale ose nga zyrat e punës, sipas përcaktimit me vendim të Këshillit të Ministrave.
+
+Neni 87/1
+
+(shtuar me ligjin nr. 64/2023, datë 21.7.2023)
+
+Instituti i Sigurimeve Shoqërore dërgon zyrtarisht në bankë vendimin për bllokimin e llogarisë bankare të pensionistit dhe kthimin në llogarinë e fondit të sigurimeve shoqërore të kësteve të pensionit që u përkasin periudhave pasi pensionisti ka ndërruar jetë dhe që i janë kredituar padrejtësisht në llogari për shkak të mosçregjistrimit nga Regjistri i Gjendjes Civile.
 
 PJESA VIII
 
@@ -1422,7 +1460,7 @@ Neni 88
 
 Të drejtat e fituara
 
-(Shtuar shprehje në pikën 7 me ligjin nr. 7932, datë 17.05.1995; ndryshuar fjalia e fundit e pikës 1 me ligjin nr. 9377, datë 21.04.2005; ndryshuar fjalia e fundit e pikës 2 me ligjin nr. 9377, datë 21.04.2005; shfuqizuar pika 5 me ligjin nr. 9377, datë 21.04.2005; shtuar fjalët në pikën 7 me ligjin nr. 9377, datë 21.04.2005;
+(shtuar shprehje në pikën 7 me ligjin nr. 7932, datë 17.05.1995; ndryshuar fjalia e fundit e pikës 1 me ligjin nr. 9377, datë 21.04.2005; ndryshuar fjalia e fundit e pikës 2 me ligjin nr. 9377, datë 21.04.2005; shfuqizuar pika 5 me ligjin nr. 9377, datë 21.04.2005; shtuar fjalët në pikën 7 me ligjin nr. 9377, datë 21.04.2005;
 
 shtuar fjalët në fund të fjalisë së parë të pikave 1 e 2 me ligjin nr. 9708, datë 05.04.2007; ndryshuar neni me ligjin nr. 104/2014, datë 31.07.2014)
 
@@ -1452,7 +1490,7 @@ Neni 90
 
 Pagesat e kontributeve
 
-(Ndryshuar paragrafi i fundit i pikës 1 me ligjin nr. 8889, datë 25.04.2002; ndryshuar pika 2, me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar paragrafi i fundit i pikës 1 me ligjin nr. 8889, datë 25.04.2002; ndryshuar pika 2, me ligjin nr. 104/2014, datë 31.07.2014)
 
 1. Kontributi prej 10 për qind që i takon të derdhin të punësuarit, sipas nenit 9 të këtij ligji, do të derdhet në ketë mënyrë:
 
@@ -1468,19 +1506,19 @@ Pagesat e kontributeve
 
 3. Rritja vjetore e masës së kontributit caktohet me Vendim të Këshillit të Ministrave.
 
-					Neni 91
+Neni 91
 
 Periudhat e quajtura si periudha sigurimi
 
-(Shtuar fjalët në pikën 4, me ligjin nr. 8392, datë 02.09.1998; shtuar paragraf në fund të pikës 4, me ligjin nr. 8392, datë 02.09.1998; ndryshuar pika 4, me ligjin nr. 9377, datë 21.04.2005; ndryshuar pika 4 me ligjin nr. 104/2014, datë 31.07.2014)
+(shtuar fjalët në pikën 4, me ligjin nr. 8392, datë 02.09.1998; shtuar paragraf në fund të pikës 4, me ligjin nr. 8392, datë 02.09.1998; ndryshuar pika 4, me ligjin nr. 9377, datë 21.04.2005; ndryshuar pika 4 me ligjin nr. 104/2014, datë 31.07.2014)
 
-	1. Të gjitha periudhat e punësimit para hyrjes në fuqi të këtij ligji, të njohura si vjetërsi pune, të vlefshme për sistemin e sigurimit shoqëror të kaluar, do të quhen si periudha sigurimi edhe për këtë ligj.
+ 1. Të gjitha periudhat e punësimit para hyrjes në fuqi të këtij ligji, të njohura si vjetërsi pune, të vlefshme për sistemin e sigurimit shoqëror të kaluar, do të quhen si periudha sigurimi edhe për këtë ligj.
 
-	2. Periudhat, në të cilat nuk është punuar, por të njohura si vjetërsi pune për sigurimet shoqërore përpara hyrjes në fuqi të këtij ligji, do të njihen si periudha të sigurimit edhe për këtë ligj;
+ 2. Periudhat, në të cilat nuk është punuar, por të njohura si vjetërsi pune për sigurimet shoqërore përpara hyrjes në fuqi të këtij ligji, do të njihen si periudha të sigurimit edhe për këtë ligj;
 
-	3. Koha pas hyrjes në fuqi të këtij ligji njihet si periudhë e sigurimit shoqëror vetëm kur është derdhur kontribut, sipas këtij ligji.
+ 3. Koha pas hyrjes në fuqi të këtij ligji njihet si periudhë e sigurimit shoqëror vetëm kur është derdhur kontribut, sipas këtij ligji.
 
-	4. Periudha e kryerjes së studimeve në shkollën e lartë, me shkëputje nga puna për gruan, duke filluar nga data 01.09.2000 dhe deri më 31.12.2032, pavarësisht nga vendi se ku janë kryer studimet dhe për jo më shumë se 6 vjet, njihet periudhë sigurimi vetëm për efekt pensioni pleqërie. Në kuptim të këtij neni, viti shkollor është me 12 muaj.
+ 4. Periudha e kryerjes së studimeve në shkollën e lartë, me shkëputje nga puna për gruan, duke filluar nga data 01.09.2000 dhe deri më 31.12.2032, pavarësisht nga vendi se ku janë kryer studimet dhe për jo më shumë se 6 vjet, njihet periudhë sigurimi vetëm për efekt pensioni pleqërie. Në kuptim të këtij neni, viti shkollor është me 12 muaj.
 
 Në këtë rast, kontributet përballohen nga Buxheti i Shtetit, në kohën kur merret vendim për caktimin e pensionit.
 
@@ -1488,7 +1526,7 @@ Neni 92
 
 Zgjatja graduale e moshës dhe periudhës së sigurimit për pension
 
-(Ndryshuar me ligjin nr. 8889, datë 25.04.2002; ndryshuar me ligjin nr. 104/2014, datë 31.07.2014)
+(ndryshuar me ligjin nr. 8889, datë 25.04.2002; ndryshuar me ligjin nr. 104/2014, datë 31.07.2014)
 
 1. Mosha dhe periudha e sigurimit për pension pleqërie, deri në arritjen e moshës dhe plotësimin e periudhës së sigurimit, që përcaktohet në pikën 1, të nenit 31, të këtij Ligji, do të rriten sipas tabelave që vijojnë:
 
@@ -1496,7 +1534,9 @@ MOSHA DHE PERIUDHA E SIGURIMIT QË KËRKOHET NË VITE PËR SECILËN KATEGORI
 
 BURRI
 
-|  | Kategoria I |  | Kategoria<br>II | Kategoria<br>III |  |  |
+ Kategoria I  KategoriaII KategoriaIII  
+
+|  | Kategoria I | Kategoria II | Kategoria III |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vitet | Mosha | Vjetërsia e<br>punës | Mosha | Vjetërsia e<br>punës | Mosha | Vjetërsia e<br>punës |
 | 1993 | 50 | 20 | 55 | 25 | 60 | 25 |
@@ -1512,9 +1552,7 @@ BURRI
 | 01.07.2003 - 30.06.2004 | 55 | 25 | 60 | 34 | 61v | 34 |
 | 01.07.2004 - 30.06.2005 | 55 | 25 | 60v 6m | 35 | 61v 6m | 35 |
 | 01.07.2005 - 30.06.2006 | 56 | 26 | 61v | 35 | 62v | 35 |
-
 | 01.07.2006 - 30.06.2007 | 56 | 27 | 61v 6m | 35 | 62v 6m | 35 |
-| --- | --- | --- | --- | --- | --- | --- |
 | 01.07.2007 - 30.06.2008 | 57 | 28 | 62v | 35 | 63v | 35 |
 | 01.07.2008 - 30.06.2009 | 57 | 29 | 62v 6m | 35 | 63v 6m | 35 |
 | 01.07.2009 - 30.06.2010 | 58 | 30 | 63v | 35 | 64v | 35 |
@@ -1560,9 +1598,7 @@ BURRI
 | 01.01.2049- 31.12.2049 | 66v 5m | 40v | 66v 5m | 40v | 66v 5m | 40v |
 | 01.01.2050- 31.12.2050 | 66v 6m | 40v | 66v 6m | 40v | 66v 6m | 40v |
 | 01.01.2051- 31.12.2051 | 66v 7m | 40v | 66v 7m | 40v | 66v 7m | 40v |
-
 | 01.01.2052- 31.12.2052 | 66v 8m | 40v | 66v 8m | 40v | 66v 8m | 40v |
-| --- | --- | --- | --- | --- | --- | --- |
 | 01.01.2053- 31.12.2053 | 66v 9m | 40v | 66v 9m | 40v | 66v 9m | 40v |
 | 01.01.2054- 31.12.2054 | 66v10m | 40v | 66v10m | 40v | 66v10m | 40v |
 | 01.01.2055- 31.12.2055 | 66v11m | 40v | 66v11m | 40v | 66v11m | 40v |
@@ -1570,10 +1606,9 @@ BURRI
 
 GRUAJA
 
-
 MOSHA DHE PERIUDHA E SIGURIMIT QË KËRKOHET NË VITE PËR SECILËN KATEGORI
 
-|  | Kategoria I |  | Kategoria II | Kategoria III |  |  |
+|  | Kategoria I | Kategoria II | Kategoria III |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vitet | Mosha | Vjetërsia e<br>punës | Mosha | Vjetërsia e<br>punës | Mosha | Vjetërsia e<br>punës |
 | 1993 | 45 | 15 | 50 | 20 | 55 | 20 |
@@ -1611,9 +1646,7 @@ MOSHA DHE PERIUDHA E SIGURIMIT QË KËRKOHET NË VITE PËR SECILËN KATEGORI
 | 01.01.2025 - 31.12.2025 | 60v8m | 36v | 61v10m | 38v8m | 61v10m | 38v8m |
 | 01.01.2026 - 31.12.2026 | 61v | 36v6m | 62v | 39v | 62v | 39v |
 | 01.01.2027 - 31.12.2027 | 61v4m | 37v | 62v2m | 39v4m | 62v2m | 39v4m |
-
 | 01.01.2028 - 31.12.2028 | 61v8m | 37v6m | 62v4m | 39v8m | 62v4m | 39v8m |
-| --- | --- | --- | --- | --- | --- | --- |
 | 01.01.2029 - 31.12.2029 | 62v | 38v | 62v6m | 40v | 62v6m | 40v |
 | 01.01.2030 - 31.12.2030 | 62v4m | 38v6m | 62v8m | 40 v | 62v8m | 40v |
 | 01.01.2031 - 31.12.2031 | 62v8m | 39v | 62v10m | 40v | 62v10m | 40v |
@@ -1649,7 +1682,7 @@ Neni 93
 
 Për nënat me shumë fëmijë
 
-(Zëvendësuar fjalë dhe ndryshuar paragrafi i dytë me ligjin nr. 104/2014, datë 31.07.2014, neni
+(zëvendësuar fjalë dhe ndryshuar paragrafi i dytë me ligjin nr. 104/2014, datë 31.07.2014, neni
 
 44)
 
@@ -1682,7 +1715,7 @@ Neni 95
 
 Pensioni i pjesshëm
 
-(Shtuar një paragraf pas paragrafit të dytë me ligjin nr. 7932, datë 17.05.1995; ndryshuar neni me ligjin nr. 8889, datë 25.04.2002; ndryshuar tabela me ligjin nr. 9377, datë 21.04.2005;
+(shtuar një paragraf pas paragrafit të dytë me ligjin nr. 7932, datë 17.05.1995; ndryshuar neni me ligjin nr. 8889, datë 25.04.2002; ndryshuar tabela me ligjin nr. 9377, datë 21.04.2005;
 
 shtuar paragrafi i fundit me ligjin nr. 104/2014, datë 31.07.2014)
 
@@ -1719,7 +1752,7 @@ Pensioni i pjesshëm jepet në raport me vjetërsinë në punë, që kërkohet n
 
 Neni 96
 
-(Hequr dhe zëvendësuar fjalët në paragrafin e parë me ligjin nr. 7932, datë 17.05.1995; ndryshuar
+(hequr dhe zëvendësuar fjalët në paragrafin e parë me ligjin nr. 7932, datë 17.05.1995; ndryshuar
 
 paragrafi i fundit me ligjin nr. 7932, datë 17.05.1995; ndryshuar neni me ligjin nr. 8392, datë 02.09.1998; zëvendësuar fjalia në paragrafin 3 me ligjin nr. 8575, datë 03.02.2000; ndryshuar neni me ligjin nr. 9377, datë 21.04.2005; ndryshuar paragrafi i tretë me ligjin nr. 104/2014, datë 31.07.2014, neni 46; shtuar paragraf i gjashtë me ligjin nr. 104/2014, datë 31.07.2014)
 
@@ -1737,7 +1770,7 @@ Për personat, të cilëve e drejta për përfitim u lind në datën 01.01.2015 
 
 Neni 97
 
-(Shtuar paragraf pas paragrafit të parë me ligjin nr. 7932, datë 17.05.1995; shtuar fjalët në paragrafin e tretë me ligjin nr. 8889, datë 25.04.2002)
+(shtuar paragraf pas paragrafit të parë me ligjin nr. 7932, datë 17.05.1995; shtuar fjalët në paragrafin e tretë me ligjin nr. 8889, datë 25.04.2002)
 
 Gratë që deri me 31 dhjetor 1994 kanë punuar në punët e kategorisë së parë dhe të dytë dhe që kanë plotësuar jo më pak se 23 vjet në këto profesione, me kërkesën e tyre marrin pension të parakohshëm në masën 60 për qind të pagës mesatare mujore që nxirret nga shuma e përgjithshme e pagave të marra gjatë 3 vjetëve rresht brenda 10 vjetëve të fundit të punës.
 
@@ -1749,39 +1782,40 @@ Pensioni i parakohshëm nuk mund të jetë më i lartë se pensioni maksimal i p
 
 Neni 98
 
-(Shtuar paragraf me ligjin nr. 7932, datë 17.05.1995; shfuqizuar paragrafi i parë me ligjin nr. 104/2014, datë 31.07.2014)
+(shtuar paragraf me ligjin nr. 7932, datë 17.05.1995; 
+
+shfuqizuar paragrafi i parë me ligjin nr. 104/2014, datë 31.07.2014)
 
 Këshilli i Ministrave mund të vendosë që pensionistët e punësuar ose të vetëpunësuar në sektorin privat gjatë periudhës së tranzicionit të tërheqin pensionin mujor të pleqërisë dhe të derdhin kontribut për kohën që kryejnë veprimtari ekonomike.
 
-PJESA IX DISPOZITAT E FUNDIT
+PJESA IX 
+
+DISPOZITAT E FUNDIT
 
 Neni 99
 
-(Shtuar me ligjin nr. 104/2014, datë 31.07.2014)
+(shtuar me ligjin nr. 104/2014, datë 31.07.2014)
 
 Ligjet, dekretet, vendimet, udhëzimet dhe çdo dispozitë tjetër që bie ndesh me këtë ligj shfuqizohen.
 
 Ngarkohet Këshilli i Ministrave që, brenda vitit 2014, të nxjerrë aktet nënligjore për zbatimin e këtij ligji.
 
-Ky ligj hyn në fuqi me 1 tetor 1993.
-
-
 Neni 100
+
+Ky ligj hyn në fuqi me 1 tetor 1993.
 
 Në ato nene të ligjit:
 
-- ku është përdorur termi "të ardhura" për të shprehur fjalën përfitime ose pensione, ky term zëvendësohet me termin "përfitime";
+- ku është përdorur termi “të ardhura” për të shprehur fjalën përfitime ose pensione, ky term zëvendësohet me termin “përfitime”;
 
-- ku është përdorur termi "kontribucione", zëvendësohet me termin "kontribute";
+- ku është përdorur termi “kontribucione”, zëvendësohet me termin “kontribute”;
 
-- ku  është  përdorur  termi  "Ministria  e  Punës,	Emigracionit,	Përkrahjes  Sociale  dhe  të Përndjekurve Politike", zëvendësohet me emërtimin "Ministria e Punës dhe Çështjeve Sociale”.
+- ku është përdorur termi “Ministria e Punës, Emigracionit, Përkrahjes Sociale dhe të Përndjekurve Politike”, zëvendësohet me emërtimin “Ministria e Punës dhe Çështjeve Sociale”.
 
 - Kudo në Ligj fjalët “Ministria e Punës dhe Çështjeve Sociale” zëvendësohen me fjalët “Ministria përgjegjëse për çështjet e sigurimeve shoqërore”.
 
-Shpallur më dekretin nr. 542, datë 03.06.1993 të Presidentit të Republikës së Shqipërisë, Sali
-
-Berisha.
+Shpallur më dekretin nr. 542, datë 03.06.1993 të Presidentit të Republikës së Shqipërisë, Sali Berisha.
 
 ---
 
-[^fn2]: Akti normativ nr. 33, datë 11.12.2020 është miratuar me ligjin 161/2020, datë 23.12.2020.
+[^fn2]: Akti normativ nr. 33, datë 11.12.2020  është miratuar me ligjin 161/2020,  datë 23.12.2020
