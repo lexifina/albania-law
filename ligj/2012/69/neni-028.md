@@ -6,6 +6,7 @@ a) ndërtimi dhe rikonstruksioni i godinave të institucioneve arsimore publike,
 b) garantimi i paprekshmërisë së institucioneve arsimore në juridiksionin e saj, si dhe i mjediseve të tyre;
 c) ruajtja dhe mirëmbajtja e institucionit arsimor publik;
 ç) garantimi i kushteve higjieno-sanitare e atyre të ngrohjes në godinat e institucioneve arsimore publike.
+d) planifikimin e nevojave për ndërtimin dhe rikonstruksionin e godinave të institucioneve arsimore parauniversitare pas marrjes së mendimit të ministrisë përgjegjëse për arsimin për planifikimin dhe shpërndarjen e nxënësve në territorin e njësisë së vetëqeverisjes vendore përkatëse.
 3. Njësia bazë e vetëqeverisjes vendore, në bashkëpunim me institucionin arsimor vendor, përgjegjës për arsimin parauniversitar dhe institucionet arsimore publike, është përgjegjëse për regjistrimin e nxënësve në shkollat publike të arsimit të detyrueshëm me kohë të plotë.
 4. Njësia bazë e vetëqeverisjes vendore, mbështetur në propozimet e institucionit arsimor vendor, përgjegjës për arsimin parauniversitar dhe këshillat e mësuesve të institucioneve, sipas kritereve të miratuara në këshillat e njësive vendore, mbështet:
 a) nxënësit e familjeve në nevojë;

@@ -8,3 +8,4 @@ Diplomat e njëvlershme, diplomat e ngjashme ose të përafërta me diplomat e s
 5. Mësuesi i arsimit fillor, i arsimit të mesëm të ulët dhe i arsimit të mesëm të lartë, mësuesi i shkollave të arsimit të orientuar, mësuesi i kulturës së përgjithshme në shkollat profesionale, mësuesi që punon me nxënësit me aftësi të kufizuara dhe mësuesi me diplomë të ngjashme ose të përafërt me diplomat në fushat/lëndët e mësimdhënies në arsimin parauniversitar ushtron profesionin pasi:
 a) të ketë kryer me sukses praktikën profesionale;
 b) të ketë kaluar me sukses provimin e shtetit në fushën e formimit të tij, siç parashikohet në ligjin nr. 10 171, datë 22.10.2009, “Për profesionet e rregulluara në Republikën e Shqipërisë”, të ndryshuar, dhe në aktet nënligjore të nxjerra në zbatim të tij.
+6. Për nevoja të procesit mësimor, institucioni vendor përgjegjës për arsimin parauniversitar emëron mësues në dispozicion, që plotësojnë kriteret e këtij neni.

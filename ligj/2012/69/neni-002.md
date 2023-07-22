@@ -10,6 +10,9 @@ c) “Niveli me kodin 2”, arsimi i mesëm i ulët;
 3. “Fushë e të nxënit” është një lëndë ose bashkësi lëndësh që shqyrtojnë realitetin nga këndvështrime të caktuara.
 4. “Gjimnaz” është shkolla e mesme e përgjithshme.
 5. “Institucion arsimor” është kopshti ose shkolla.
+5/1. “Shkollë e bashkuar” është institucioni arsimor parauniversitar publik, që përfshin nxënës të disa niveleve arsimore, sipas përcaktimeve të këtij ligji;
+5/2. “Qendër Burimore” është institucioni arsimor parauniversitar, që ofron arsim special dhe shërbime të veçanta për fëmijët me aftësi të kufizuara;
+5/3. “Shkollë me status të veçantë” është institucioni arsimor parauniversitar publik, i arsimit të orientuar me drejtim artistik dhe sportiv.
 6. “Institucion arsimor plotësues” është institucioni që pasuron përvojat mësimore dhe jetësore të nxënësve.
 7. “Këshilli i prindërve” është organ i përbërë nga përfaqësues të prindërve të nxënësve të institucionit arsimor.
 8. “Kurrikula” është sistem i përbërë nga disa elemente, si: korniza kurrikulare, kurrikula bërthamë, programet mësimore, vlerësimi, që, të lidhura mes tyre, lejojnë të orientohet dhe të funksionojë sistemi arsimor, nëpërmjet planeve arsimore dhe administrative. Kurrikula siguron arsimim cilësor dhe të barabartë për çdo pjesëtar të shoqërisë, pavarësisht nga përkatësia etnike, seksi, pozita shoqërore.
