@@ -11,3 +11,7 @@ Dispozita kalimtare
 1. Kriteri i trajnimit dhe pajisjes me certifikatën e drejtuesit të institucionit arsimor parauniversitar, sipas nenit 14, të këtij ligji, hyn në fuqi 2 vjet nga hyrja në fuqi e këtij ligji.
 2. Kriteri i trajnimit dhe pajisjes me certifikatën e drejtuesit të institucionit arsimor parashkollor, sipas nenit 15, të këtij ligji, hyn në fuqi 4 vjet nga hyrja në fuqi e këtij ligji.
 3. Drejtorët dhe zëvendësdrejtorët e institucioneve arsimore parauniversitare, që janë në detyrë në datën e hyrjes në fuqi të këtij ligji, vazhdojnë të kryejnë funksionin e tyre. Kriteret dhe procedurat për kualifikimin, trajnimin dhe certifikimin e drejtorëve e zëvendësdrejtorëve në detyrë, për periudhën deri në plotësimin e kritereve, sipas pikave 1 dhe 2, të këtij neni, përcaktohen me udhëzim të ministrit.
+Dispozita kalimtare
+(e ligjit nr. 44/2023, datë 15.6.2023)
+1. Kriteri i trajnimit dhe pajisjes me certifikatën e drejtuesit të institucionit arsimor, si dhe drejtuesit të institucionit arsimor parashkollor, sipas pikës 3 të nenit 55 dhe të pikës 2 të nenit 55/1 të ligjit, nuk zbatohet deri në 2 vjet nga hyrja në fuqi e këtij ligji.
+2. Ngarkohet ministri përgjegjës për arsimin për nxjerrjen e aktit nënligjor në zbatim të nenit 60/1, shkronja “c”, brenda 3 muajve nga hyrja në fuqi e këtij ligji.
