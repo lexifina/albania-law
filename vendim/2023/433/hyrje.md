@@ -1,0 +1,5 @@
+VENDIM
+Nr. 433, datë 19.7.2023
+PËR TRANSFERIMIN NË FONDIN E PASURIVE TË PALUAJTSHME PËR MBËSHTETJEN E INVESTIMEVE STRATEGJIKE PËR VËNIEN NË DISPOZICION TË INVESTITORIT STRATEGJIK TË PRONËS SË PALUAJTSHME SHTETËRORE, NË ZONËN KADASTRALE NR. 8561, BASHKIA KORÇË, PËR ZHVILLIMIN DHE REALIZIMIN E PROJEKTIT INVESTUES STRATEGJIK “GREEN HOUSE KORÇA RESORT”
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 13, të ligjit nr. 8743, datë 22.2.2001, “Për pronat e paluajtshme të shtetit”, të ndryshuar, të nenit 27, të ligjit nr. 55/2015, “Për investimet strategjike në Republikën e Shqipërisë”, të ndryshuar, dhe në vijim të pikës 3, të kreut II, të vendimit nr. 1030, datë 16.12.2015, të Këshillit të Ministrave, “Për organizimin dhe formën e pjesëmarrjes së shtetit në investimet strategjike dhe rregullat për krijimin, funksionimin e administrimin e fondit të pasurive të paluajtshme për mbështetjen e investimeve strategjike”, të ndryshuar, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:

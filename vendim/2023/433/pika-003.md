@@ -1,0 +1,1 @@
+3. E drejta e përdorimit të pronës së përmendur në pikën 1, të këtij vendimi, nga investitori strategjik “Investment and Development Albania” sh.p.k., me NUIS L91703053C, detyrimet dhe kushtet e përdorimit bazohen në pikën 7, shkronja “c”, dhe 11, të vendimit nr. 29/4, datë 1.2.2023, të Komitetit të Investimeve Strategjike.

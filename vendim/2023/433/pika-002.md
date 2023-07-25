@@ -1,0 +1,1 @@
+2. Prona e përmendur në pikën 1, të këtij vendimi, vihet në dispozicion për zhvillimin dhe realizimin e projektit investues strategjik “Green House Korça Resort”, me subjekt investues “Investment and Development Albania” sh.p.k., me NUIS L91703053C.
