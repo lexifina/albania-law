@@ -13,8 +13,8 @@ ii) numrin e familjeve që janë trajtuar brenda një viti;
 iii) të ardhurat e njësisë së vetëqeverisjes vendore, që do të përdoren për programet sociale të strehimit në vitin pasardhës, dhe sasinë e fondeve që kërkohet nga buxheti i shtetit, në bazë të programit 5-vjeçar të strehimit;
 iv) sipërfaqet e trojeve, të miratuara për programet sociale të strehimit;
 v) nivelin e qirasë së miratuar me vendim të këshillit të njësisë së vetëqeverisjes vendore.
-e) Krijon bazën e të dhënave, në nivel vendor, për aplikimet e bëra për programet sociale të strehimit, sipas udhëzimit të ministrit përgjegjës për strehimin.
-ë) Krijon dhe administron, në nivel vendor, bazën e të dhënave për familjet që përfitojnë strehim, sipas këtij ligji.
+e) Krijon dhe përditëson bazën e të dhënave në nivel vendor, e cila ndërvepron me bazën e të dhënave në nivel kombëtar, të miratuar me vendim të Këshillit të Ministrave, sipas shkronjës “d” të nenit 72 të këtij ligji.
+ë) Shfuqizuar.
 f) Përcakton kostot maksimale të lejueshme, brenda kufijve të përcaktuar nga ministri përgjegjës për strehimin, për ndërtimin e banesave, sipas këtij ligji.
 g) Siguron ndërtimin, administrimin dhe mirëmbajtjen e banesave sociale me qira.
 gj) Organizon fushata të informimit dhe ndërgjegjësimit të qytetarëve për mundësitë që ofrohen nga programet sociale të strehimit.
@@ -23,5 +23,5 @@ i) Njofton, çdo vit, ministrin përgjegjës për strehimin për ecurinë e prog
 j) Kryen të gjitha funksionet e tjera të parashikuara në këtë ligj.
 3. Organet e njësisë së vetëqeverisjes vendore hartojnë planin e veprimit dhe projektbuxhetin përkatës për zbatimin e programeve afatgjata të strehimit.
 4. Kryetari dhe këshilli i njësisë së vetëqeverisjes vendore duhet të kryejnë, brenda afateve të parashikuara në këtë ligj, detyrimet dhe të përmbushin kompetencat e tyre.
-5. Në rastet kur programi i strehimit financohet plotësisht ose pjesërisht me fondet e buxhetit të shtetit dhe njësia e vetëqeverisjes vendore nuk përmbush detyrimin e dakordësuar në marrëveshjen e posaçme, zbatimi i programeve të strehimit për afatin e marrëveshjes i kalon ministrisë përgjegjëse për strehimin.
-6. Procedurat për zbatimin e pikës 5, të këtij neni, përcaktohet me udhëzim të Këshillit të Ministrave.
+5. Shfuqizuar.
+6. Shfuqizuar.

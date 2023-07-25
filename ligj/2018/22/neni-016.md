@@ -12,17 +12,18 @@ b) Kushtet familjare, në bazë të të cilave përcaktohen me përparësi:
 i) familjet njëprindërore që kanë në ngarkim fëmijë, ku përfshihen edhe vajzat nëna;
 ii) të moshuarit, që kanë mbushur moshën e pensionit dhe që nuk përzgjidhen për t’u strehuar në institucionet publike të përkujdesjes shoqërore;
 iii) familjet me më shumë se katër fëmijë;
-iv) bashkëshortët, mosha e përgjithshme e përbashkët e të cilëve arrin deri në 60 vjeç.
+iv) familje të reja;
+v. të rinj që në momentin e paraqitjes së kërkesës kanë një moshë jo më të madhe se 40 vjeç.
 c) Kushtet sociale, në bazë të të cilave përcaktohen me përparësi:
-i) personat me aftësi të kufizuara, në përputhje me përcaktimet e bëra me vendim të Këshillit të Ministrave;
+i) personat me aftësi të kufizuara, sipas pikës 28 të nenit 2 të këtij ligji;
 ii) individët me statusin e jetimit, që nga çasti i daljes nga qendrat e përkujdesjes shoqërore dhe deri në moshën 30 vjeç;
 iii) familjet e mbetura të pastreha për shkak të lirimit të banesave ish-pronarëve;
-iv) emigrantët e rikthyer, punëtorët emigrantë dhe azilkërkuesit;
+iv) emigrantët e rikthyer, punëtorët migrantë dhe refugjatët apo personat me mbrojtje plotësuese”, në kuptim të legjislacionit përkatës;
 v) familjet e policëve të rënë në detyrë;
 vi) punonjësit e reparteve të ndërhyrjes së shpejtë (FNSH);
 vii) punonjësit e repartit RENEA;
 viii) punonjësit e shërbimit të mbrojtjes nga zjarri dhe shpëtimin;
-ix) viktimat e dhunës në familje;
+ix) shfuqizuar;
 x) viktimat e trafikimit/viktimat e mundshme të trafikimit;
 xi) anëtarët e komunitetit rom;
 xii) anëtarë të komunitetit egjiptian;

@@ -2,7 +2,7 @@
 Llojet e programeve sociale të strehimit
 1. Në programet sociale të strehimit përfshihen:
 a) programi i banesave sociale me qira, në vijim BSQ;
-b) programi për përmirësimin e kushteve të banesave ekzistuese, deri në një ndërtim të ri;
+b) programi për përmirësimin e kushteve të banesave ekzistuese dhe zonave të papërshtatshme;
 c) programi i banesave me kosto të ulët, në vijim BKU;
 ç) programi për zhvillimin e zonës me qëllim strehimi;
 d) programi për krijimin e banesave të përkohshme;
