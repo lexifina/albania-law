@@ -1,0 +1,1 @@
+6. Në buxhetin e miratuar për vitin 2023, për institucionin e Inspektorit të Lartë të Drejtësisë shtohet fondi prej 6 000 000 (gjashtë milionë) lekësh, për përballimin e efekteve financiare nga data 1 prill 2023-31 dhjetor 2023, të përcaktimit ligjor të pagës referuese bazë të magjistratit, në zërin buxhetor “Shpenzime personeli”.

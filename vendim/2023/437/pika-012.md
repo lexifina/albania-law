@@ -1,0 +1,1 @@
+12. Në buxhetin e miratuar për vitin 2023, për institucionin e Shkollës së Magjistraturës shtohet fondi prej 40 000 000 (dyzet milionë) lekësh, për përballimin e efekteve financiare nga data 1 prill 2023-31 dhjetor 2023, të përcaktimit ligjor të pagës referuese bazë të magjistratit, në zërin buxhetor 606 “Transferta për buxhetet familjare dhe individët”.

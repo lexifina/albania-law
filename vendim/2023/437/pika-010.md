@@ -1,0 +1,1 @@
+10. Në buxhetin e miratuar për vitin 2023, për institucionin e Komisionit Qendror të Zgjedhjeve shtohet fondi prej 5 500 000 (pesë milionë e pesëqind mijë) lekësh, për përballimin e efekteve financiare nga data 1 prill 2023-31 dhjetor 2023, të përcaktimit ligjor të pagës referuese bazë të magjistratit, në zërin buxhetor 606 “Transferta për buxhetet familjare dhe individët”.

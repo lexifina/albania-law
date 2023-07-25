@@ -1,0 +1,1 @@
+8. Në buxhetin e miratuar për vitin 2023, për institucionin e Kolegjit të Posaçëm të Apelimit shtohet fondi prej 15 600 000 (pesëmbëdhjetë milionë e gjashtëqind mijë) lekësh, për përballimin e efekteve financiare nga data 1 prill 2023-31 dhjetor 2023, të përcaktimit ligjor të pagës referuese bazë të magjistratit, në zërin buxhetor “Shpenzime personeli”.

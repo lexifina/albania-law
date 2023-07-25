@@ -1,0 +1,1 @@
+3. Në buxhetin e miratuar për vitin 2023, për institucionin e Këshillit të Lartë Gjyqësor shtohet fondi prej 300 000 000 (treqind milionë) lekësh, për përballimin e efekteve financiare nga data 1 prill 2023 - 31 dhjetor 2023, të përcaktimit ligjor të pagës referuese bazë të magjistratit, në zërin buxhetor “Shpenzime personeli”.

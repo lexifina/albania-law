@@ -1,0 +1,1 @@
+4. Në buxhetin e miratuar për vitin 2023, për institucionin e Gjykatës Kushtetuese shtohet fondi prej 17 000 000 (shtatëmbëdhjetë milionë) lekësh, për përballimin e efekteve financiare nga data 1 prill 2023-31 dhjetor 2023, të përcaktimit ligjor të pagës referuese bazë të magjistratit, në zërin buxhetor “Shpenzime personeli”.
