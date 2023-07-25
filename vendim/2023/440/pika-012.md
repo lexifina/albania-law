@@ -1,0 +1,1 @@
+12. Pasi vlerëson respektimin e kushteve të skemës së kredisë studentore nga banka, për çdo kontratë kredie studentore, Agjencia Kombëtare e Financimit të Arsimit të Lartë miraton financimin e pjesës së interesit të çdo kësti kredie të disbursuar kundrejt studentit, bazuar në nivelin e përcaktuar në marrëveshjen përkatëse të financimit.

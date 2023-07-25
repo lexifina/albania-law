@@ -1,0 +1,1 @@
+2. Kostoja e studimeve, për efekt të masës së kredidhënies, përfshin tarifën e studimeve dhe kostot e jetesës. Kostot e jetesës përllogariten deri në kufirin e pagës minimale në shkallë vendi, të përcaktuar me vendim të Këshillit të Ministrave.

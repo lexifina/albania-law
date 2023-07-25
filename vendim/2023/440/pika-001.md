@@ -1,0 +1,1 @@
+1. Studenti, me shtetësi dhe vendbanim në Shqipëri, i cili është regjistruar dhe ndjek studimet në një institucion të arsimit të lartë, ka të drejtë të paraqesë kërkesë për kredi studentore, për financimin e kostove të studimeve.

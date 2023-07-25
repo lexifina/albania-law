@@ -1,0 +1,1 @@
+5. Agjencia Kombëtare e Financimit të Arsimit të Lartë informon ministrinë përgjegjëse për arsimin për negocimet e zhvilluara me bankat e nivelit të dytë, duke i listuar ato sipas normës më të ulët të interesit të ofruar për kreditë studentore.

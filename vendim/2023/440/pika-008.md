@@ -1,0 +1,1 @@
+8. Brenda afatit të përcaktuar në pikën e mësipërme, Agjencia Kombëtare e Financimit të Arsimit të Lartë shpall renditjen e kërkesave për kredi studentore dhe informon ministrinë përgjegjëse për arsimin për këtë renditje.

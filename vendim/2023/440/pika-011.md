@@ -1,0 +1,1 @@
+11. Brenda muajit maj, me miratim të ministrisë përgjegjëse për arsimin, Agjencia Kombëtare e Financimit të Arsimit të Lartë lidh me bankën e nivelit të dytë marrëveshje për të financuar një pjesë të normës së interesit të kredive studentore, që banka do të kontraktojë me studentët, por jo më shumë se 5 (pesë) pikë përqindje të normës së interesit.

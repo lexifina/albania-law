@@ -1,0 +1,1 @@
+10. Numri i kërkesave për të përfituar kredi studentore, të cilat do të paraqiten te banka/bankat e nivelit të dytë, sipas përcaktimeve të pikës së mësipërme të këtij vendimi, do të rakordohet me fondin, i cili angazhohet çdo vit nga Ministria e Arsimit dhe Sportit për financimin e normës së interesit të kredive studentore.
