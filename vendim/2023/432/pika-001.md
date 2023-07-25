@@ -1,0 +1,1 @@
+1. Transferimin e pronësisë së 67.21% të aksioneve të shoqërisë “Tregu i shitjes me shumicë fruta-perime” sh.a., Shkodër, nga Ministria e Financave dhe Ekonomisë tek Bashkia Shkodër, me të gjitha të drejtat dhe detyrimet.
