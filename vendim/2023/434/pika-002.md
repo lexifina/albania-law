@@ -1,0 +1,1 @@
+2. Indeksi i përcaktuar sipas pikës 1, të këtij vendimi, aplikohet për rivlerësimin e bazës së vlerësuar të arritur nëpërmjet kontributeve të derdhura dhe rivlerësimeve të tyre, të kryera deri në vitin 2021, dhe zbatohet për efekt të llogaritjes së shumës fillestare mujore të pensioneve që do të caktohet me datë fillimi nga data 1 korrik 2023 e në vazhdim.
