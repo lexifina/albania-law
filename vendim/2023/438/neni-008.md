@@ -1,0 +1,12 @@
+# Neni 8
+Leja pa të drejtë page deri në 2 muaj
+1. Punonjësit gëzojnë të drejtën e lejes pa të drejtë page për një periudhë afatshkurtër deri në 2 (dy) muaj.
+2. Punonjësi ka të drejtë që të kërkojë leje pa të drejtë page, për arsye personale ose për arsye shëndetësore që lidhen me fëmijët, bashkëshorten/in, bashkëjetuesen/in apo prindërit.
+3. Për përfitimin e lejes vlerësohet çdo faktor i rëndësishëm, veçanërisht shkaku për të cilin kërkohet leja, kohëzgjatja e saj, planifikimet e lejeve të zakonshme për të gjithë punonjësit, numri i vendeve vakante, si dhe nevoja për të garantuar funksionimin e Byrosë Kombëtare të Hetimit.
+4. Për përfitimin e lejes pa të drejtë page për një periudhë afatshkurtër deri në 2 (dy) muaj, punonjësi i Byrosë Kombëtare të Hetimit paraqet në njësinë e burimeve njerëzore, jo më vonë se 30 (tridhjetë) ditë përpara datës së parashikuar të fillimit të lejes pa të drejtë page, dokumentacionin e mëposhtëm:
+a) kërkesën me shkrim;
+b) sipas rastit, dokumentin që provon shkakun ose rrethanën për të cilën i lind e drejta për të përfituar leje pa të drejtë page, sipas këtij vendimi.
+5. Në raste të veçanta, kur leja pa të drejtë page kërkohet për shkaqe që nuk mund të parashikoheshin, punonjësi i Byrosë Kombëtare të Hetimit mund të kërkojë fillimin e lejes jo më vonë se 5 (pesë) ditë nga data e paraqitjes së kërkesës.
+6. Kërkesa për leje pa të drejtë page për një periudhë afatshkurtër deri në 2 (dy) muaj shqyrtohet nga drejtori i Byrosë Kombëtare të Hetimit jo më vonë se 48 (dyzet e tetë) orë nga data e paraqitjes së saj. Drejtori i Byrosë Kombëtare të Hetimit, me vendim të arsyetuar, miraton ose refuzon kërkesën për marrjen e lejes pa të drejtë page. Në çdo rast, për miratimin e lejes afatshkurtër deri në 2 (dy) muaj, drejtori i Byrosë Kombëtare të Hetimit merr pëlqimin e drejtuesit të Prokurorisë së Posaçme.
+7. Në rastet kur drejtori i Byrosë Kombëtare të Hetimit refuzon kërkesën për marrjen e lejes pa të drejtë page, punonjësi ka të drejtë të paraqesë padi në gjykatën kompetente për çështjet administrative, sipas parashikimit të legjislacionit në fuqi për gjykatat administrative dhe gjykimin e mosmarrëveshjeve administrative.
+8. Periudha e lejes pa të drejtë page për një periudhë afatshkurtër deri në 2 (dy) muaj nuk llogaritet në vjetërsi pune dhe as për efekt të ecurisë në karrierë. Pas përfundimit të saj punonjësi kthehet në pozicionin e mëparshëm.

@@ -1,0 +1,12 @@
+# Neni 17
+Përzgjedhja e bankës dhe shqyrtimi i kërkesave
+1. Kredia për strehim financohet nga bankat e nivelit të dytë, sipas një marrëdhënieje trepalëshe, ku shteti do të ketë detyrimin për të paguar diferencën e interesit të kredisë së paguar nga punonjësi në masën 3 (tre) për qind me interesin e përcaktuar në marrëveshjen me bankën e përzgjedhur.
+2. Trajtimi me kredi bëhet sipas marrëveshjes kuadër të nënshkruar ndërmjet Këshillit të Ministrave dhe bankave të nivelit të dytë. Këshilli i Ministrave përfaqësohet nga ministri përgjegjës për strehimin, i cili vepron në emër dhe për llogari të Këshillit të Ministrave.
+3. Përzgjedhja e bankës bëhet nëpërmjet një oferte publike dhe transparente, e cila u vihet në dispozicion të gjitha bankave që kryejnë shërbime në territorin e Republikës së Shqipërisë, së bashku me kriteret e përzgjedhjes së ofertës fituese.
+4. Përzgjedhja e ofertës fituese bëhet nga një komision vlerësimi që ngrihet me urdhër të ministrit përgjegjës për strehimin, me përfaqësues të ministrit përgjegjës për drejtësinë, Prokurorisë së Posaçme, Byrosë Kombëtare të Hetimit dhe të Bankës së Shqipërisë.
+5. Trajtimi me kredi për strehim me një interes në masën 3 (tre) për qind, sipas këtij vendimi, mund të bëhet edhe nëpërmjet bankave që kanë lidhur marrëveshje për zbatimin e programit të strehimit, në zbatim të legjislacionit në fuqi për strehimin social. Në këtë rast, menaxhimi i procesit pas miratimit të listës së përfituesve bëhet nga Enti Kombëtar i Banesave.
+6. Kërkesa e punonjësit për përfitimin e kredisë paraqitet pranë njësisë së burimeve njerëzore e cila kryen verifikimin e plotësimit të kushteve dhe dokumentacionit përkatës.
+7. Njësia e burimeve njerëzore harton një raport të detajuar dhe të argumentuar mbi pranimin ose refuzimin e kërkesës, të cilin e përcjell për miratim pranë drejtorit të Byrosë Kombëtare të Hetimit.
+8. Kur gjatë apo pas zbatimit të kredisë rezultojnë se në kërkesë janë bërë deklarime të rreme apo punonjësi është shkarkuar apo larguar nga detyra, kredia konvertohet drejtpërdrejt në kredi tregtare, kusht i përcaktuar edhe në kontratën e kredisë.
+9. Në rastin e bërjes së deklarimeve të rreme punonjësi është i detyruar të kthejë interesin e paguar nga shteti për kredinë, sipas marrëveshjes, të përcaktuar në vendim.
+10. Në rast konstatimi të deklarimit të rremë, ndaj punonjësit bëhet referimi në organet e ushtrimit të ndjekjes penale.

@@ -1,0 +1,8 @@
+# Neni 14
+Kredi për strehim
+1. Punonjësit, të cilët kanë nevojë për strehim, kanë të drejtë që një herë gjatë ushtrimit të detyrës të përfitojnë kredi për strehim me interesa të butë në masën 3 (tre) për qind. Shteti mbulon diferencën e interesave të kredisë përmbi çdo interes mbi 3 (tre) për qind për të gjithë shumën e kredisë, sipas marrëveshjes së lidhur me bankat e nivelit të dytë.
+2. Me “nevojë për strehim”, sipas këtij vendimi, do të kuptohen rastet kur punonjësi nuk disponon një banesë për strehim ose kur disponon banesë në pronësi me sipërfaqe më të vogël se ajo e përcaktuar në legjislacionin në fuqi për normativat e projektimit të banesave.
+3. Kredia për strehim përfitohet në shumën e vlerës mesatare të një apartamenti prej 50 m2 në vendin ku punonjësi ushtron detyrën. Për çdo anëtar të familjes, i cili jeton në të njëjtën banesë me punonjësin e Byrosë Kombëtare të Hetimit, masa referuese e sipërfaqes së banesës shtohet me 10 m2 për person.
+4. Kredia për strehim jepet në vlerën deri në 5 000 000 (pesë milionë) lekë me interes në masën (tre) për qind dhe me afat kthimi deri në 25 (njëzet e pesë) vjet dhe për sipërfaqe shtesë banimi, në vlerën deri në 2 500 000 (dy milionë e pesëqind mijë) lekë, me interes në masën (tre) për qind dhe me afat kthimi deri në 15 (pesëmbëdhjetë) vjet.
+5. Mbulimi i interesave të kredisë ndërpritet kur punonjësi shkarkohet apo largohet nga Byroja Kombëtare e Hetimit.
+6. Punonjësi nuk ka të drejtë të japë me qira banesën e përfituar me kredi për strehim me një interes në masën 3 (tre) për qind gjatë kohëzgjatjes së përfitimit të kredisë për strehim.
