@@ -1,0 +1,27 @@
+{
+  "qbz_id": 12720,
+  "title": "Për integrimin e Spitalit Universitar të Traumës dhe Spitalit Ushtarak të Forcave të Armatosura në një strukturë të bashkuar.",
+  "type": "Vendim",
+  "number": "1001",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-12-02",
+  "version_no": 1,
+  "qbz_version_id": 1319,
+  "in_force": "2023-07-26",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2023-07-26",
+  "changed_by_qbz_id": 26347,
+  "changed_by_number": "460",
+  "changed_by_title": "Për disa ndryshime në vendimin nr. 1001, datë 2.12.2015, të Këshillit të Ministrave, \"Për integrimin e Spitalit Universitar të Traumës dhe Spitalit Ushtarak të Forcave të Armatosura në një strukturë të bashkuar\"",
+  "source": "https://qbz.gov.al/files/53a32654d2b8ab6e1d6681ca778efda3bc9301b235e5b880507f3767ba3856ce.docx",
+  "source_sha256": "53a32654d2b8ab6e1d6681ca778efda3bc9301b235e5b880507f3767ba3856ce",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12720",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/12720/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
