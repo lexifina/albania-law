@@ -1,1 +1,0 @@
-Miratohet akti normativ, me fuqinë e ligjit, nr. 2, datë 25.7.2012, i Këshillit të Ministrave “Për krijimin e task-forcës për marrjen e masave të menjëhershme ndaj subjekteve që gjenerojnë zhurmë tej normave të lejuara në qendrat urbane dhe zonat turistike e bregdetare”.
