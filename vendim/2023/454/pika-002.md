@@ -1,0 +1,1 @@
+2. Hapja e një ofruesi publik të AFP-së është procesi i ngritjes dhe funksionimit për herë të parë të një shkolle të mesme profesionale, qendre shumëfunksionale të AFP-së apo qendre të formimit profesional.

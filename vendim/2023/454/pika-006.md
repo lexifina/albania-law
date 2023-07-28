@@ -1,0 +1,1 @@
+6. Ministria përgjegjëse për AFP-në shqyrton propozimin e dërguar për hapjen e ofruesit publik të arsimit dhe formimit profesional nëpërmjet strukturave përgjegjëse për arsimin dhe formimin profesional, si dhe konsultohet me palën propozuese dhe grupet e interesit, brenda një afati tremujor.

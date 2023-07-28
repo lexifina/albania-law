@@ -1,0 +1,1 @@
+3. Riorganizimi i një ofruesi publik të AFP-së është procesi i bashkimit me një ose disa ofrues të AFP-së, ndarja në më shumë se një institucion, zgjerimi apo zvogëlimi i objektit të veprimtarisë apo të ofertës së kualifikimeve profesionale.
