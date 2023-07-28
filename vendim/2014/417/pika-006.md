@@ -1,1 +1,1 @@
-6. Tarifa vjetore paguhet brenda 3-mujorit të parë të vitit dhe një kopje e mandatpagesës dorëzohet pranë ARM-së së qarkut ku ndodhet instalimi.
+6. Tarifa vjetore paguhet brenda vitit, duke e identifikuar nëpërmjet numrit të lejes (PN-së) përkatëse. Një kopje e mandatpagesës dorëzohet pranë Agjencisë Kombëtare të Mjedisit dhe Agjencisë Rajonale të Mjedisit ku ndodhet instalimi.

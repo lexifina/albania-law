@@ -1,2 +1,2 @@
-9. Ngarkohen Ministria e Mjedisit, Agjencia Kombëtare e Mjedisit, agjencitë rajonale të mjedisit, Inspektorati Shtetëror i Mjedisit, Pyjeve dhe Ujërave dhe Qendra Kombëtare e Licencimit për zbatimin e këtij vendimi.
+9. Ngarkohen ministria përgjegjëse për mjedisin, Agjencia Kombëtare e Mjedisit, agjencitë rajonale të mjedisit dhe Qendra Kombëtare e Biznesit për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
