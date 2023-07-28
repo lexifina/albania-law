@@ -1,0 +1,1 @@
+15. Lista e pajisjeve/materialeve, të cilat bëjnë të mundur riprodhimin e veprave të autorit për përdorim privat ose për përdorim tjetër personal nëpërmjet fotokopjimit në letër ose në çdo teknikë tjetër riprodhimi, që njësohet dhe ka të njëjtin efekt me fotokopjimin, përcaktohet në shtojcën nr. 2, që i bashkëlidhet këtij vendimi.

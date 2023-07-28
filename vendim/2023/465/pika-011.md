@@ -1,0 +1,1 @@
+11. Tarifat për shpërblim të arsyeshëm për përdorim privat ose përdorim tjetër personal për listën e pajisjeve/materialeve të reja për regjistrimin vizual dhe zanor, kasetave dhe videokasetave boshe ose çdo mjeti të fiksimit të tekstit paguhen çdo muaj, deri në 30 (tridhjetë) ditë të muajit pasardhës në llogarinë bankare të Sportelit Unik.

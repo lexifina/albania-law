@@ -1,0 +1,1 @@
+3. Ky shpërblim paguhet në emër dhe për llogari të Sportelit Unik nga të gjithë prodhuesit vendas në rastin e shitjes së parë dhe/ose importuesit e këtyre pajisjeve, të cilat bëjnë të mundur riprodhimin e veprave të autorit për përdorim privat ose për përdorim tjetër personal në territorin e Republikës së Shqipërisë.

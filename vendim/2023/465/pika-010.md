@@ -1,0 +1,1 @@
+10. Shkëmbimi i të dhënave, të përcaktuara në pikat 8 dhe 9, të këtij vendimi, kryhet bazuar në një marrëveshje të lidhur, ndërmjet organeve kompetente doganore dhe ministrisë përgjegjëse për të drejtën e autorit.

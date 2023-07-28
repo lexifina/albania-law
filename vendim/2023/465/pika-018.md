@@ -1,0 +1,1 @@
+18. Pikat 8, 9, 10, 11 e 12, të këtij vendimi, zbatohen në të njëjtën mënyrë edhe për prodhuesit dhe importuesit e pajisjeve/materialeve, të cilat bëjnë të mundur riprodhimin e veprave të autorit për përdorim privat dhe vetjak ose për përdorim tjetër personal nëpërmjet fotokopjimit në letër ose në çdo teknikë tjetër riprodhimi që njësohet dhe ka të njëjtin efekt me fotokopjimin.

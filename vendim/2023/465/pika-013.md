@@ -1,0 +1,1 @@
+13. Sporteli Unik llogarit dhe përcakton shumën për shpërblim të arsyeshëm që do të paguhet nga importuesi dhe/ose prodhuesit vendas, në bazë të informacionit të vënë në dispozicion nga Drejtoria e Përgjithshme e Doganave dhe prodhuesit vendas.

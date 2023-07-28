@@ -1,0 +1,1 @@
+12. Prodhuesi vendas, i cili prodhon pajisjet/materialet e reja për regjistrimin vizual dhe zanor, kasetat dhe videokasetat boshe ose çdo mjet të fiksimit të tekstit, ka detyrimin të njoftojë dhe t’i japë informacionin e nevojshëm Sportelit Unik, me qëllim lidhjen e kontratës ose marrëveshjes dhe në vijim kryerjen e pagesës së tarifës për shpërblim të arsyeshëm.

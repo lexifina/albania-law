@@ -1,0 +1,1 @@
+4. Lista e pajisjeve dhe materialeve të reja për regjistrimin vizual dhe zanor, kasetave dhe videokasetave boshe ose çdo mjeti të fiksimit të teksti, si dhe çdo pajisje që ofron të njëjtin efekt me regjistrimin vizual dhe zanor është përcaktuar në shtojcën nr. 1, që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+6. Tarifat për shpërblim të arsyeshëm për listën e pajisjeve/materialeve të reja për regjistrimin vizual dhe zanor, kasetave dhe videokasetave boshe ose çdo mjeti të fiksimit të tekstit është 0.5 (zero pikë pesë) %.
