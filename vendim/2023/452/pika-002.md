@@ -1,0 +1,1 @@
+2. Urdhri i përbashkët nr. 27-1, datë 18.4.2003, i ministrit të Pushtetit Vendor dhe Decentralizimit dhe ministrit të Rendit Publik, “Për miratimin e rregullores së brendshme “tip” të Policisë Bashkiake e të Komunës”, shfuqizohet.
