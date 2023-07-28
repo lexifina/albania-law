@@ -1,6 +1,6 @@
 16. AKM-ja, kur e gjykon të arsyeshme, delegon ARM-në e qarkut përkatës për të marrë pjesë në dëgjesën me publikun.
 KREU VII
-TRANSFERIMI I LEJEVE TË MJEDISIT TË TIPIT A, B DHE C
+TRANSFERIMI I LEJEVE TË MJEDISIT TË TIPIT A dhe B
 1. Për transferimin e aktit të miratimit të lejes së mjedisit për një instalim të tipit A ose B personi fizik apo juridik i cili kërkon t’i transferohet leja, bën kërkesë në AKM për transferimin.
 2. Kërkesa referuar në pikën 1, të këtij kreu, shoqërohet nga:
 a) Kopje të lejes ekzistuese të mjedisit të tipit A ose B;
