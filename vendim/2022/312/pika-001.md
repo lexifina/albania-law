@@ -1,1 +1,1 @@
-1. Krijimin e regjistrit të startup-eve dhe lehtësuesve për mbajtjen e të dhënave të startup-eve dhe të lehtësuesve të vetëdeklaruar për kërkuesit dhe përfituesit e granteve e të masave mbështetëse nga ministri përgjegjës për sipërmarrjen.
+1. Krijimin e regjistrit të startup-eve dhe lehtësuesve për mbajtjen e të dhënave të startup-eve dhe të lehtësuesve të vetëdeklaruar për kërkuesit dhe përfituesit e granteve e të masave mbështetëse nga “Startup Albania”.

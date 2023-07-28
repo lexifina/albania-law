@@ -14,6 +14,6 @@ b) emrin e lehtësuesit;
 c) numrin personal të lehtësuesit, gjeneruar nga plotësimi i formularit të vetëdeklarimit ne regjistrin e lehtësuesve;
 ç) vitin e krijimit.
 V. DISPOZITA TË FUNDIT
-1. Ministri përgjegjës për sipërmarrjen është përgjegjës për menaxhimin e regjistrit dhe krijimin e manualit të përdorimit të regjistrit.
-2. Ngarkohen ministri përgjegjës për sipërmarrjen dhe Agjencia Kombëtare e Shoqërisë së Informacionit për zbatimin e këtij vendimi.
+1. “Startup Albania” është përgjegjës për menaxhimin e regjistrit dhe krijimin e manualit të përdorimit të regjistrit.
+2. Ngarkohen “Startup Albania” dhe Agjencia Kombëtare e Shoqërisë së Informacionit për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
