@@ -1,0 +1,1 @@
+5. Formimi dhe përditësimi i njohurive të specialistëve, restauratorëve dhe subjekteve të licencuara në fushën e trashëgimisë kulturore janë me ose pa pagesë, sipas përcaktimeve me urdhër të ministrit përgjegjës për trashëgiminë kulturore.

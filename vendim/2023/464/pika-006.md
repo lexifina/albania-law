@@ -1,0 +1,1 @@
+6. Tarifat për formimin dhe përditësimin e njohurive të specialistëve përcaktohen me urdhër të përbashkët të ministrit përgjegjës për trashëgiminë kulturore dhe ministrit përgjegjës për financat. Të ardhurat e siguruara nga këto tarifa, përdoren për pagesat e trajnerëve të jashtëm.

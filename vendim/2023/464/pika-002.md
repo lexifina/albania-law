@@ -1,0 +1,1 @@
+2. Misioni i QRKR-së është formimi dhe përditësimi i njohurive të restauratorëve dhe të subjekteve të licencuara, sipas legjislacionit për trashëgiminë kulturore, hartimi dhe zbatimi i programeve të kualifikimit të specialistëve në fushën e trashëgimisë kulturore materiale.
