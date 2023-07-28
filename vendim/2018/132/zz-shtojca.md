@@ -2,7 +2,7 @@
 ANEKSI 1
 ÇMIMET MESATARE REFERUESE PËR METËR KATROR SIPËRFAQE NDËRTIMI PËR VLERËSIMIN E VLERËS SË TAKSUESHME PËR BANESAT
 Çmimet mesatare referuese të shitblerjes së:
-a) ndërtesave që përdoren për qëllim banimi, sipas qyteteve, për çdo bashki, sipas qarqeve.
+ndërtesave që përdoren për qëllim banimi, sipas qyteteve, për çdo bashki, sipas qarqeve.
 a.1) Çmimet mesatare referuese të shitblerjes së ndërtesave që përdoren për qëllim banimi, sipas qyteteve, për çdo bashki, sipas qarqeve (me përjashtim të Bashkisë Tiranë):
 Nr. r. qarkut
 Qarku
@@ -11,7 +11,7 @@ Bashkia
 Nr. r. qytete
 Nr. r. qytet i qarkut
 Qytetet
-Lekë/m2 sipërfaqe shfrytëzimi
+Lek/m2 sipërfaqe shfrytëzimi
 1
 Berat
 1
@@ -92,7 +92,7 @@ Krujë
 48 500,00 lekë
 13
 4
-Fushë Krujë
+Fushë-Krujë
 51 000,00 lekë
 4
 Elbasan
@@ -294,12 +294,6 @@ Lezhë
 2
 Shëngjin
 56 000,00 lekë
-43
-Kurbin
-46
-3
-Laç
-42 500,00 lekë
 47
 4
 Milot
@@ -341,10 +335,10 @@ Pukë
 Pukë
 22 000,00 lekë
 49
-Fushë Arës
+Fushë-Arës
 54
 5
-Fushë Arës
+Fushë-Arës
 7 500,00 lekë
 11
 Tiranë
@@ -425,175 +419,176 @@ Bashkia Tiranë
 Nr. i njësisë administrative
 Nr. rendor
 Zona
-Lekë/m2 sipërfaqe shfrytëzimi
+Lek/m2 sipërfaqe shfrytëzimi
 Qyteti Tiranë sipas ndarjeve zonale për çdo njësi administrative
 1
 1
 1/1
-97 700,00 lekë
+102,800.00
 2
 1/2
-78 000,00 lekë
+97,200.00
 2
 3
 2/1
-187 000,00 lekë
+202,400.00
 4
 2/2
-134 500,00 lekë
+148,400.00
 5
 2/3
-95 000,00 lekë
+110,600.00
 6
 2/4
-110 000,00 lekë
+120,300.00
 7
 2/5
-80 000,00 lekë
+85,700.00
 3
 8
 3/1
-77 000,00 lekë
+98,500.00
 9
 3/2
-60 000,00 lekë
+86,300.00
 4
 10
 4/1
-70 000,00 lekë
+95,900.00
 11
 4/2
-60 000,00 lekë
+95,300.00
 5
 12
 5/1
-190 000,00 lekë
+228,400.00
 13
 5/2
-132 000,00 lekë
+175,800.00
 14
 5/3
-107 000,00 lekë
+164,800.00
 15
 5/4
-82 000,00 lekë
+117,800.00
 6
 16
 6
-65 000,00 lekë
+81,700.00
 7
 17
 7/1
-120 000,00 lekë
+159,100.00
 18
 7/2
-100 000,00 lekë
+123,400.00
 19
 7/3
-85 000,00 lekë
+124,500.00
 20
 7/4
-65 000,00 lekë
+114,300.00
 8
 21
 8/1
-110 000,00 lekë
+145,650.00
 22
 8/2
-100 000,00 lekë
+156,700.00
 23
 8/3
-72 000,00 lekë
+89,900.00
 9
 24
 9/1
-130 000,00 lekë
+163,600.00
 25
 9/2
-100 000,00 lekë
+135,800.00
 26
 9/3
-77 000,00 lekë
+113,850.00
 10
 27
 10/1
-145 000,00 lekë
+192,800.00
 28
 10/2
-139 500,00 lekë
+178,300.00
 29
 10/3
-102 000,00 lekë
+121,200.00
 11
 30
 11/1
-87 000,00 lekë
+113,000.00
 31
 11/2
-75 000,00 lekë
+103,500.00
 32
 11/3
-70 000,00 lekë
+93,600.00
 Njësitë administrative Bashkia Tiranë
 12
 33
 Baldushk
-32 000,00 lekë
+32,000.00
 13
 34
 Bërzhitë
-34 000,00 lekë
+34,000.00
 14
 35
 Dajt
-53 500,00 lekë
+75,500.00
 15
 36
 Farkë
-66 500,00 lekë
+115,200.00
 16
 37
 Kashar
-53 500,00 lekë
+69,000.00
 17
 38
 Kërrabë
-28 200,00 lekë
+28,200.00
 18
 39
 Ndroq
-34 000,00 lekë
+34,000.00
 19
 40
 Petrelë
-53 500,00 lekë
+85,800.00
 20
 41
 Pezë
-53 500,00 lekë
+85,800.00
 21
 42
 Shëngjergj
-23 000,00 lekë
+23,000.00
 22
 43
-Vaqarr
-34 000,00 lekë
+Vaqar
+34,000.00
 23
 44
 Zall-Bastar
-25 000,00 lekë
+25,000.00
 24
 45
 Zall-Herr
-28 200,00 lekë
+28,200.00
 b) Çmimi për metër katror sipërfaqe ndërtimi të destinuara për banim në njësitë administrative jashtë qytetit përkatës, të cilat iu bashkuan njësive të vetëqeverisjes vendore pas hyrjes në fuqi të ligjit nr. 115/2014, “Për ndarjen administrativo-territoriale të njësive të qeverisjes vendore në Republikën e Shqipërisë”, reduktohet deri në 35 (tridhjetë e pesë) për qind, krahasuar me çmimin e zonës më të afërt, përjashtuar zonat rezidenciale. Në zonat që përfshihen në Bashkinë Tiranë, ky reduktim është deri në 30 (tridhjetë) për qind krahasuar me çmimin e zonës më të afërt.
 c) Për ndërtesat e privatizuara me ligjin nr. 7652, datë 23.12.1992, “Për privatizimin e banesave shtetërore”, të ndryshuar, çmimi për metër katror është 70 (shtatëdhjetë) për qind e çmimit sipas zonave të tabelës, vetëm në rastin e shitjes së parë.
 ANEKSI 2
-ÇMIMET MESATARE REFERUESE PËR METËR KATROR SIPËRFAQE NDËRTIMI PËR VLERËSIMIN E VLERËS SË TAKSUESHME PËR NDËRTIME DHE AMBIENTE JO-BANIMI
-a) Çmimi për metër katror sipërfaqe ndërtimi për veprimtari ekonomike tregtimi shërbimi është 1.5 (një pikë pesë) herë më i lartë se çmimi i sipërfaqeve të banimit sipas qyteteve. Në këtë kategori përfshihen edhe njësitë tregtare, ku njëkohësisht realizohen edhe procese të përziera prodhimi, tregtimi apo shërbimi me pakicë. Në zonat që përfshihen në Bashkinë Tiranë ky koeficient është 2 (dy) herë më i lartë.
+ÇMIMET MESATARE REFERUESE PËR METËR KATROR SIPËRFAQE NDËRTIMI PËR VLERËSIMIN E VLERËS SË TAKSUESHME PËR NDËRTIME DHE AMBIENTE JOBANIMI
+a) Çmimi për metër katror sipërfaqe ndërtimi për veprimtari ekonomike tregtimi shërbimi është 1.5 (një pikë pesë) here më i lartë se çmimi i sipërfaqeve të banimit sipas qyteteve. Në këtë kategori përfshihen edhe njësitë tregtare, ku njëkohësisht realizohen edhe procese të përziera prodhimi, tregtimi apo shërbimi me pakicë. Në zonat që përfshihen në Bashkinë Tiranë ky koeficient është 2 (dy) herë më i lartë.
 b) Çmimi për metër katror sipërfaqe ndërtimi për parkim të mbuluar dhe bodrume është 70 (shtatëdhjetë) për qind e çmimit të sipërfaqeve të apartamenteve të banimit sipas qyteteve.
 c) Çmimi për metër katror sipërfaqe ndërtimi për ambiente parkim i hapur, pishinë e hapur, ambiente sportive të hapura, të tilla si: fusha futbolli, minifutbolli, basketbolli, volejbolli, tenisi, golfi, pista për gara të ndryshme sportive të atletikës, motorike, garave me kuaj e të tjera të ngjashme me to; porte dhe aeroporte të çdo kategorie, për të gjithë sipërfaqen e shtrirë që ato zënë, është 30 (tridhjetë) % e çmimit të sipërfaqeve të apartamenteve të banimit sipas qyteteve, ose sipas njësive administrative për Bashkinë Tiranë.
 ç) Çmimi për metër katror sipërfaqe ndërtimi të destinuara për veprimtari industriale, të tilla si: prodhim, përpunim apo magazinim të lëndëve të para, të gjysmëprodukteve apo të produkteve të gatshme industriale, si: fabrika, magazina, depo, silos, magazina frigoriferike të produkteve ushqimore (përjashtuar ato të njësive të tregtimit dhe të shërbimit), si dhe objektet e tjera të ngjashme me to, është 50 (pesëdhjetë) % e çmimit të sipërfaqeve të banesave të zonës përkatëse, sipas qyteteve ose sipas njësive administrative për Bashkinë Tiranë.
 Në këtë kategori përfshihen dhe ndërtesat që shërbejnë për veprimtari arsimore jopublike të çdo niveli, si dhe ambientet sportive të mbyllura, përfshirë dhe pishinat e mbyllura.
 d) Çmimi për metër katror sipërfaqe ndërtimi që përdoren për bujqësi dhe blegtori, apo veprimtari mbështetëse, si: grumbullim, magazinim dhe ruajtje të produkteve bujqësorë dhe blegtorale, është 30 (tridhjetë) për qind e çmimit të sipërfaqeve të banesave të zonës përkatëse, me përjashtim të përpunimit ushqimor.
+dh) Çmimi për metër katror sipërfaqe ndërtimore për ndërtimet e reja regjistruar sipas lejes së përdorimit në ASHK, pas hyrjes në fuqi të këtij vendimi, do të indeksohet me koeficientin 0.2 (zero pikë dy) herë më i lartë se çmimi i sipërfaqes së apartamentit të banimit sipas listës së përcaktuar aneksin 1 që i bashkëlidhet këtij vendimi, për 5 vitet e para pas regjistrimit të lejes së përdorimit në ASHK.
