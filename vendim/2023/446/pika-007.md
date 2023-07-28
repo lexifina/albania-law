@@ -1,0 +1,1 @@
+7. Kur parcela ndërtimore shtrihet mbi pasuri të paluajtshme, që referuar të dhënave të regjistrit kadastral rezultojnë si “pronar i pavërtetuar” (PPV), Agjencia Shtetërore e Kadastrës miraton vendimmarrjen për legalizim, si për rastin kur pronësia mbi parcelën rezulton shtetërore.

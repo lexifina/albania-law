@@ -1,0 +1,2 @@
+8. Kur parcela ndërtimore shtrihet në pronë private të të tretëve, drejtoritë vendore të ASHK-së dërgojnë propozimet për masën dhe vlerën e kompensimit financiar të pronarëve joposedues, pranë drejtorisë së përgjithshme të ASHK-së, brenda 60 (gjashtëdhjetë) ditëve nga vendimmarrja për legalizim. Kjo e fundit përcjell në Këshillin e Ministrave, për miratim, masën dhe vlerën e kompensimit.
+Regjistrimi në regjistrat kadastralë nga ASHK-ja kryhet brenda 10 (dhjetë) ditëve nga data e hyrjes në fuqi të vendimit të Këshillit të Ministrave për kompensimin e pronarëve joposedues.
