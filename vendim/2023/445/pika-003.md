@@ -1,0 +1,1 @@
+3. Vlera e përcaktuar si detyrim në pikën 1 të këtij vendimi, depozitohet në një nga bankat e nivelit të dytë, në emër të kërkueses Antoneta Sevdari, në vlerën që shteti shqiptar detyrohet, sipas vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 13.12.2022, “Sevdari kundër Shqipërisë”, kërkesa nr. 40662/19.
