@@ -11,7 +11,7 @@ c) aftësimit profesional, kualifikimit plotësues, rikualifikimit me programet 
 a) individët me statusin e jetimit që ndodhen në kushte të vështira ekonomike;
 b) kryefamiljarë të vetëm, me fëmijë në ngarkim;
 c) persona me aftësi të kufizuara, përfshirë personat që nuk dëgjojnë dhe invalidët e punës të vlerësuar pjesërisht të aftë për punë nga komisionet përkatëse;
-ç) prindërit e fëmijëve me aftësi të kufizuar;
+ç) familjarët e individëve me aftësi të kufizuar;
 d) persona me moshë mbi 55 vjeç;
 dh) persona nga komuniteti rom dhe egjiptian;
 e) persona që kanë vuajtur dënimin me burgim, apo ndaj të cilëve është vendosur pezullimi i vendimit me burgim dhe zëvendësimi i tij me një dënim alternativ;
@@ -19,7 +19,7 @@ e) persona që kanë vuajtur dënimin me burgim, apo ndaj të cilëve është ve
 f) punëkërkues të papunë afatgjatë (të regjistruar si punëkërkues të papunë prej më shumë se një viti);
 g) punëkërkues të papunë, të kthyer prej jo më shumë se dy vjetësh nga emigracioni;
 gj) të mitur dhe të rinj në konflikt me ligjin, sipas parashikimeve të Kodit të Drejtësisë Penale për të Mitur;
-h) të rinjtë me moshë nën 29 vjeç;
+h) të rinjtë me moshë nën 29 vjeç që nuk janë në punësim, arsim ose formim profesional;
 i) viktimat e trafikimit/viktimat e mundshme të trafikimit;
 j) viktimat e dhunës me bazë gjinore dhe viktimat e dhunës në familje;
 k) nënat nën moshën 18 vjeç.
@@ -39,3 +39,4 @@ k) nënat nën moshën 18 vjeç.
 18. “Shërbime punësimi” janë shërbimet, të cilat synojnë të informojnë, të këshillojnë, të orientojnë dhe të ndërmjetësojnë punësimin sa më të shpejtë të punëkërkuesve dhe punëkërkuesve të papunë të regjistruar, nëpërmjet ndihmës së shënjestruar dhe të zhvillojnë konkurrueshmërinë në tregun e punës.
 19. “Struktura përkatëse rajonale/vendore e punësimit”, është struktura që ka kompetencën territoriale në zonën e vendbanimit të personit apo selisë/degës së punëdhënësit, i cili pretendon të përfitojë nga një ose disa shërbime apo programe të ofruara nga kjo strukturë.
 20. “Struktura rajonale/vendore e punësimit” është struktura, pjesë e rrjetit të shërbimeve publike të punësimit, në varësi të institucionit përgjegjës për punësimin dhe aftësitë.
+21. Kuponi për financimin e formimit profesional” është kuponi që u jepet punëkërkuesve të papunë, të cilët ndjekin një kurs formimi profesional në subjektet private të formimit profesional.

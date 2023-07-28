@@ -12,11 +12,12 @@ e) pajisjen e vendit të punës dhe përshtatjen e arsyeshme;
 ë) zbatimin e programeve për mbështetjen e kualifikimit profesional në formën e dyfishtë të arsimit dhe formimit profesional;
 f) punësimin e të diplomuarve/certifikuarve në arsimin e formimin profesional;
 g) praktikat profesionale;
-gj) programin e garancisë rinore;
+gj) programe sipas skemës së garancisë rinore;
 h) programet e riintegrimit social;
 i) transport për në vendin e punës;
 j) ndjekjen e kopshteve dhe çerdheve për fëmijët në ngarkim;
-k) të tjera.
+k) këshillimin për punësim për grupet e veçanta;
+l) skemën e kuponit për financimin e formimit profesional.
 3. Programet e nxitjes së punësimit zbatohen dhe administrohen nga institucioni përgjegjës për punësimin dhe aftësitë, në bashkëpunim me institucione të tjera publike, përgjegjëse për zhvillimin ekonomik e kualifikimin, si dhe në bashkëpunim me sektorin privat dhe organizata të shoqërisë civile.
 Institucioni përgjegjës për punësimin dhe aftësitë mund të kontraktojë subjekte të tjera publike, private apo organizata të shoqërisë civile, veprimtaria e të cilëve është e lidhur me fushën e punësimit, për të bërë të mundur zbatimin me cilësi dhe në kohë të programeve të nxitjes së punësimit.
-4. Procedurat, kriteret dhe rregullat për zbatimin e programeve të nxitjes së punësimit, sipas pikave 2 dhe 3, të këtij neni, miratohen me vendim të Këshillit të Ministrave.
+4. Procedurat, kriteret dhe rregullat për zbatimin e programeve të nxitjes së punësimit, sipas pikave 2 dhe 3, të këtij neni, miratohen me vendime të Këshillit të Ministrave.
