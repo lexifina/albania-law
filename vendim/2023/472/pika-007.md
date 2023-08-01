@@ -1,0 +1,1 @@
+7. Pranë Qendrës ngrihet bordi këshillimor, i cili funksionon sipas përcaktimeve të ligjit nr. 8480, datë 27.5.1999, “Për funksionimin e organeve kolegjiale të administratës shtetërore dhe enteve publike”, dhe rregullores për metodat e brendshme të punës dhe sjelljen e personelit të Qendrës.

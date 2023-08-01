@@ -1,0 +1,1 @@
+16. Marrëdhëniet e punës së punonjësve civilë të Qendrës rregullohen në bazë të dispozitave të Kodit të Punës, ndërsa marrëdhëniet e punës së personelit ushtarak të Qendrës rregullohen sipas legjislacionit në fuqi për ushtarakët e Forcave të Armatosura të Republikës së Shqipërisë.

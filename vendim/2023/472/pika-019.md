@@ -1,0 +1,1 @@
+19. Qendra ka stemën, logon dhe vulën zyrtare. Stema e Qendrës përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Ministria e Mbrojtjes, Qendra e Inovacionit të Sigurisë dhe Mbrojtjes”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

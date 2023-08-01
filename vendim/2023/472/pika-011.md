@@ -1,0 +1,1 @@
+11. Anëtarët e bordit këshillimor emërohen dhe shkarkohen nga ministri. Anëtarët e bordit këshillimor, të cilët nuk janë përfaqësues të Ministrisë së Mbrojtjes dhe institucioneve të saj të varësisë, duhet të kenë jo më pak se 5 (pesë) vjet eksperiencë pune në fushën e kërkimit-shkencor ose teknologjisë, ose inovacionit.

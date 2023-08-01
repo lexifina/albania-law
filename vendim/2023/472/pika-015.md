@@ -1,0 +1,1 @@
+15. Kryetari dhe anëtarët e bordit këshillimor të Qendrës, për çdo pjesëmarrje në mbledhje, shpërblehen nga buxheti i Qendrës, sipas përcaktimeve të vendimit nr. 656, datë 31.10.2018, të Këshillit të Ministrave, “Për përcaktimin e masës së shpërblimit të anëtarëve të këshillave, bordeve ose komisioneve të përhershme të njësive të qeverisjes qendrore”, të ndryshuar.
