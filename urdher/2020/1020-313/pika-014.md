@@ -14,7 +14,7 @@ c) të jetë pjesë e urdhrit përkatës;
 d) të zotërojë njohuri bazë në kompjuter;
 e) zotërimi i gjuhëve të huaja përbën avantazh (dëshmi, certifikata).
 3. Psikologu/punonjësi social ka formim si vijon:
-a) psikologu duhet të ketë diplomë të ciklit të parë dhe diplomë të ciklit të dytë ose ekuivalente në fushën e psikologjisë në përputhje me përcaktimet e ligjit nr. 80/2015.
+a) Psikologu duhet të ketë diplomë të ciklit të parë dhe të ciklit të dytë, ose ekuivalente me to në përputhje me përcaktimet e ligjit 80/2015, dhe pas vitit 2019, licencë në fushën e psikologjisë së edukimit të lëshuar nga Urdhri i Psikologut.
 b) punonjësi social duhet të ketë diplomë të ciklit të parë dhe diplomë të ciklit të dytë ose ekuivalente në fushën e punës sociale në përputhje me përcaktimet e ligjit nr. 80/2015.
 KREU IV
 PROCEDURAT E KONKURRIMIT
@@ -27,7 +27,7 @@ PROCEDURAT E KONKURRIMIT
 a) vlerësimi i dokumentacionit të paraqitur në dosje;
 b) testimi me shkrim për vlerësimin e njohurive të profesionit dhe për njohuritë mbi legjislacionin që lidhet me ushtrimin e profesionit;
 c) intervista e strukturuar.
-7. Për realizimin procedurave të konkurrimit dhe të shpalljes së listës të kandidatëve fitues, DRAP-i përkatës krijon një komision ad-hoc, i cili përbëhet nga 2 (dy) përfaqësues nga MASR-ja, 1 (një) përfaqësues nga DPAP-ja, 1 (një) përfaqësues nga DRAP-i dhe 1 (një) përfaqësues nga Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar (ASCAP).
+7. Për realizimin procedurave të konkurrimit dhe të shpalljes së listës të kandidatëve fitues, DRAP-i përkatës krijon një komision ad-hoc, i cili përbëhet nga 2 (dy) përfaqësues nga MAS-i, nga 1 (një) përfaqësues nga DPAP-ja, 1 (një) përfaqësues nga njëra prej ZVAP-ve, 1 (një) përfaqësues nga DRAP-i.
 8. Komisioni ad-hoc shqyrton dhe vlerëson dosjet e kandidatëve sipas shtojcës 2 të këtij urdhri.
 9. DRAP-i është përgjegjës për njoftimin e kandidatëve për datën, orën, mjedisin ku do të zhvillohet testimi, si dhe për caktimin e administratorëve për testimin me shkrim.
 10. DRAP-i përcakton datën, orën dhe vendin e intervistës së strukturuar si dhe bën njoftimin e kandidatëve dhe anëtarëve të komisionit ad-hoc.
@@ -35,6 +35,18 @@ c) intervista e strukturuar.
 12. Komisioni ad-hoc realizon intervistën e strukturuar me kandidatët që janë kualifikuar nga testi me shkrim. Kandidatët duhet të vlerësohen me të paktën 50% të pikëve të testit me shkrim për t’u kualifikuar për në fazën e intervistës së strukturuar.
 13. Në përfundim të intervistës, komisioni ad-hoc shpall listën e kandidatëve për psikologë dhe listën e kandidatëve për punonjës social në nivel DRAP-i, të renditur sipas pikëve gjithsej (pikë të dosjes + pikë të testimit + pikët e intervistës). Lista me rezultatet përfundimtare, i dorëzohet drejtorit të DRAP-it, i cili e publikon me ID përkatëse në faqen zyrtare të institucionit.
 14. Anëtarët e komisionit ad-hoc dhe administratorët e provimit duhet të plotësojnë deklaratën e konfliktit të interesit sipas shtojcës 6 të këtij urdhri.
+KREU IV/1
+1. Në përfundim të vitit shkollor procedurat e lëvizjes paralele administrohen nga DRAP-ja, për punonjësit e SHPS që ushtrojnë profesionin në institucionet arsimore publike parauniversitare, brenda juridiksionit të zyrave vendore të arsimit parauniversitar.
+2. Punonjësi i SHPS që dëshiron të kryejë lëvizje paralele në përfundim të vitit shkollor, dërgon me postë në DRAP kërkesën për lëvizje paralele.
+3. Dorëzimi i dosjeve për lëvizje paralele bëhet sipas afateve të përcaktuara nga DPAP- ja.
+4. DRAP-ja krijon komisionin e vlerësimit të dosjeve për lëvizje paralele, me këtë përbërje:
+a) drejtuesi i DRAP-së (kryetar);
+b) një specialist i kurrikulës dhe zhvillimit profesional në DRAP (anëtar);
+c) juristi i DRAP-së (anëtar).
+5. Komisioni i vlerësimit të dosjeve në DRAP bën vlerësimin e dosjeve të kandidatëve për lëvizje paralele sipas shtojcës nr. 2 të urdhrit, brenda muajit korrik.
+6. Komisioni i vlerësimit të dosjeve shpall renditjen e konkurrentëve për lëvizje paralele sipas zyrave vendore dhe pikëve në rendin zbritës. Lista me renditjen e punonjësve të SHPS-së shpallet në faqen elektronike zyrtare të DRAP-së, e cila dërgon një kopje të listës në DPAP.
+7. Punonjësi i renditur me numrin më të madh të pikëve, ka të drejtën e zgjedhjes për vendin e lirë të punës brenda ZVAP-së ku ka emërimin e përhershëm. Ai dërgon brenda 24 orëve me e-mail konfirmimin ose refuzimin e vendit të propozuar. Në rast të mos konfirmimit nga kandidati, ky vend pune i ofrohet punonjësit të listuar një rend më poshtë.
+8. Pas përzgjedhjes së vendit të punës nga kandidati, DRAP-i përkatës nxjerr aktin e emërimit të kandidatit në institucionin arsimor parauniversitar të përzgjedhur prej tij dhe nënshkruan kontratën e punës me të.
 KREU V
 PROCEDURAT E EMËRIMIT
 1. Titullari i DRAP-it, bazuar në renditjen përfundimtare të kandidatëve për psikologë/punonjës socialë, të dorëzuar nga komisioni ad-hoc, iu ofron kandidatëve vendet e lira të punës me të drejtë përzgjedhjeje sipas renditjes, duke filluar nga kandidati i renditur i pari.
