@@ -1,0 +1,1 @@
+4. Në rast se rezultojnë më shumë kandidatë me pikë të barabarta sesa kuotat e përcaktuara në pikën 1, të këtij vendimi, përzgjedhja e tyre do të realizohet sipas sistemit të pikëzimit, të përcaktuar nga vetë institucioni përfitues.

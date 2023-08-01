@@ -1,0 +1,1 @@
+2. Për kategoritë e përcaktuara në shkronjat “b” dhe “c”, të pikës 1, të këtij vendimi, përfituesit janë familjet e reja, të krijuara si rezultat i martesës së lidhur përpara nëpunësit të gjendjes civile, që përzgjidhen në bazë të sistemit të pikëzimit, të përcaktuar në tabelën 1 që i bashkëlidhet këtij vendimi.
