@@ -1,0 +1,1 @@
+10. Institucionet përgjegjëse, pas miratimit të listës nga ministri përgjegjës që mbulon institucionin ose Kryeministria, publikojnë listën e përfituesve në portalin “e-Albania” dhe në faqen zyrtare të tyre.

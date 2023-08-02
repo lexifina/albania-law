@@ -1,0 +1,1 @@
+11. Lista përfundimtare e përfituesve përcillet me shkrim pranë Entit Kombëtar të Banesave nga ministria përgjegjëse ose Kryeministria. Enti Kombëtar i Banesave përcjell pranë bankave të nivelit të dytë në vend listat e miratuara nga institucionet dhe një kopje të tyre pranë ministrisë përgjegjëse për strehimin.

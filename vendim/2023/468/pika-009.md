@@ -1,0 +1,1 @@
+9. Pas përfundimit të afatit për paraqitjen e ankimit dhe shqyrtimin e ankimeve të paraqitura, titullari i institucionit të administratës publike përgatit listën e përfituesve dhe ia përcjell për miratim ministrit përgjegjës që mbulon institucionin ose Kryeministrisë.

@@ -1,0 +1,1 @@
+8. Kërkuesit kanë të drejtën e ankimit brenda 5 (pesë) ditëve pune nga njoftimi, sipas pikës 7, të këtij kreu, pranë ministrisë që ka në fushën e përgjegjësisë institucionin, ku është paraqitur kërkesa.

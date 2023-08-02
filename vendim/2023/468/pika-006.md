@@ -1,0 +1,1 @@
+6. Kur kërkesa ka mangësi, struktura i cakton kërkuesit një afat 5-ditor (pesëditor) për plotësimin e saj. Në rast mosplotësimi të mangësive brenda këtij afati, kërkesa i kthehet kërkuesit nëpërmjet portalit “e-Albania”.
