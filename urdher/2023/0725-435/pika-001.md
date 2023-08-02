@@ -1,0 +1,1 @@
+1. Miratimin e “Rregullores për metodologjinë e përcaktimit të masës së dënimit në procesin e inspektimit të Zyrës së Mbrojtjes nga Rrezatimet për subjektet që ushtrojnë veprimtari me burime rrezatimi jonizues pa licencë”, sipas tekstit bashkëlidhur këtij urdhri.
