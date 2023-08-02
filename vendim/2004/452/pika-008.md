@@ -1,1 +1,0 @@
-8. Në strukturat e varësisë së Ministrisë së Mbrojtjes dhe të Shtabit të Përgjithshëm të ngrihen komisionet bazë për dhënien e kredisë që, në përputhje me kriteret e përcaktuara në këtë vendim, të shqyrtojnë dhe të përgatisin dokumentacionin e duhur për dhënien e kredisë ushtarakut, i cili i dërgohet për shqyrtim komisionit qendror për dhënien e kredisë.
