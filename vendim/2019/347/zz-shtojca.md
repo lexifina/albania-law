@@ -7,7 +7,7 @@ DRAFT-KONTRATË
 Me çmimin simbolik 1 euro/kontrata
 Lidhur
 Në Tiranë, sot më datë ________të muajit _____ të vitit (dymijë e _____), u paraqitën para meje noterit_______________, palët kontraktuese si më poshtë vijon:
-Ministria e Bujqësisë dhe Zhvillimit Rural, përfaqësuar me autorizim të ministrit, nr. _____ prot., datë ___.___.20__ nga Z. ____________________me detyrë_________________________, në Ministrinë e Bujqësisë dhe Zhvillimit Rural, i datëlindjes___.___.____________, banues në_____________________, me shtetësi shqiptare, i pajisur me letër njoftimin nr. ___, që më poshtë do të quhet “ENFITEOZËDHËNËSI/QIRADHËNËSI”
+institucioni përgjegjës për shërbimet e peshkimit dhe akuakulturës, përfaqësuar me autorizim të ministrit, nr. _____ prot., datë ___.___.20__ nga Z. ____________________me detyrë_________________________, në Ministrinë e Bujqësisë dhe Zhvillimit Rural, i datëlindjes___.___.____________, banues në_____________________, me shtetësi shqiptare, i pajisur me letër njoftimin nr. ___, që më poshtë do të quhet “ENFITEOZËDHËNËSI/QIRADHËNËSI”
 DHE
 ________________________ me seli qendrore në ______________, me adresë, ____________________ regjistruar si person juridik dhe pajisur nga QKB-ja me NIPT: __________________________, përfaqësuar nga Z. __________________________, i biri i _________________________, i datëlindjes __.__._____, lindur në _____________________ dhe banues në _______________________, me shtetësi shqiptare, identifikuar me letër njoftimin personal me nr. ____________, që më poshtë do të quhet “ENFITOEZËMARRËSI/QIRAMARRËS”.
 Ministria e Bujqësisë dhe Zhvillimit Rural, mbështetur në vendimin nr.______, datë _________të Këshillit të Ministrave “_________________________________________________________”, pas konkurrimit të zhvilluar më datë ___.___.____________, në zbatim të urdhrit nr._____, datë ___.___.______ të ministrit të Bujqësisë dhe Zhvillimit Rural, shpalli fitues ___________________. Në zbatim të vendimit nr. ____, datë ___.___.20__ të Këshillit të Ministrave “_______________________”, dhe bazuar në nenet 784-800 të Kodit Civil, palët bien dakord të hartojnë këtë kontratë, me kushtet si më poshtë:
@@ -97,13 +97,13 @@ REPUBLIKA E SHQIPËRISË
 ZYRA E NOTERISË TIRANË
 Nr. ______ Rep.
 Nr. ______ Kol.
-DRAFT-KONTRATË QIRAJE
+DRAFTKONTRATË QIRAJE
 Lidhur
 Në Tiranë, sot më datë ________të muajit _____ të vitit 20__(dymijë e _____), u paraqitën para meje noterit_______________, palët kontraktuese si më poshtë vijon:
-Ministria e Bujqësisë dhe Zhvillimit Rural, përfaqësuar me autorizim të ministrit, nr. _____ prot., datë ___.___.20__ nga Z. ____________________me detyrë_________________________, në Ministrinë e Bujqësisë dhe Zhvillimit Rural, i datëlindjes___.___.____________, banues në_____________________, me shtetësi shqiptare, i pajisur me letër njoftimin nr. ___, që më poshtë do të quhet “QIRADHËNËSI”
+Institucioni përgjegjës për shërbimet e peshkimit dhe akuakulturës, përfaqësuar me autorizim të ministrit, nr. _____ prot., datë ___.___.20__ nga Z. ____________________me detyrë_________________________, në institucionin përgjegjës për shërbimet e peshkimit dhe akuakulturës, i datëlindjes___.___.____________, banues në_____________________, me shtetësi shqiptare, i pajisur me letër njoftimin nr. ___, që më poshtë do të quhet “QIRADHËNËSI”
 DHE
 ________________________ me seli qendrore në ______________, me adresë, ____________________ regjistruar si person juridik dhe pajisur nga QKB-ja me NIPT: __________________________, përfaqësuar nga Z. __________________________, i biri i _________________________, i datëlindjes __.__._____, lindur në _____________________ dhe banues në _______________________, me shtetësi shqiptare, identifikuar me letër njoftimin personal me nr. ____________, që më poshtë do të quhet “QIRAMARRËSI”.
-Ministria e Bujqësisë dhe Zhvillimit Rural, mbështetur në vendimin nr.______, datë ______të Këshillit të Ministrave “___________________________________________________”, pas konkurrimit të zhvilluar më datë ___.___.____________, në zbatim të Urdhrit nr._____, datë ___.___.______ të ministrit të Bujqësisë dhe Zhvillimit Rural, shpalli fitues ___________________. Në zbatim të vendimit nr. ____, datë ___.___.20__ të Këshillit të Ministrave “_______________________”, dhe bazuar në nenet 801-825 të Kodit Civil, palët bien dakord të hartojnë këtë kontratë, me kushtet si më poshtë:
+Institucioni përgjegjës për shërbimet e peshkimit dhe akuakulturës, mbështetur në vendimin nr.______, datë ______të Këshillit të Ministrave “___________________________________________________”, pas konkurrimit të zhvilluar më datë ___.___.____________, në zbatim të Urdhrit nr._____, datë ___.___.______ të institucionit përgjegjës për shërbimet e peshkimit dhe akuakulturës, shpalli fitues ___________________. Në zbatim të vendimit nr. ____, datë ___.___.20__ të Këshillit të Ministrave “_______________________”, dhe bazuar në nenet 801-825 të Kodit Civil, palët bien dakord të hartojnë këtë kontratë, me kushtet si më poshtë:
 Neni 1
 Objekti i kontratës
 Objekti i kësaj kontrate, është dhënia me qira “___________________________________”, sipas genplanit dhe dokumentit të ZVRPP-së_____________, bashkëlidhur kontratës.
@@ -185,92 +185,85 @@ Ministria e Bujqësisë dhe Shoqëria “____________” Zhvillimit Rural
 Përfaqësuar nga Përfaqësuar nga
 __________ __________
 MARRËVESHJE TIP
-PËR TRANSFERIMIN E MENAXHIMIT TË INFRASTRUKTURËS TË PORTIT TË PESHKIMIT/TREGUT TË SHITJES ME SHUMICË, NDËRMJET DREJTORISË SË SHËRBIMEVE TË PESHKIMIT DHE AKUAKULTURËS DHE ORGANIZATËS SË PESHKIMIT/NJËSIVE TË VETËQEVERISJES VENDORE
-Kjo marrëveshje përbën kuadrin e bashkëpunimit ndërmjet Ministrisë së Bujqësisë dhe Zhvillimit Rural dhe Njësisë së Vetëqeverisjes Vendore/Organizatës së Peshkimit, regjistruar si OJF me vendimin nr. ____, datë ___.___._____ të Gjykatës së Rrethit Gjyqësor ________, në kuadër të mirëfunksionimit të infrastrukturës së Portit të Peshkimit. Marrëveshja është hartuar në përputhje me dispozitat e ligjit nr. 64/2012, “Për peshkimin” të ndryshuar si dhe vendimit nr.___, datë _._.201_, “_________________________________”.
+PËR TRANSFERIMIN E MENAXHIMIT TË INFRASTRUKTURËS SË PORTIT TË PESHKIMIT/TREGUT TË SHITJES ME SHUMICË DHE/OSE QENDRËS SË GRUMBULLIMIT NDËRMJET INSTITUCIONIT PËRGJEGJËS PËR SHËRBIMET E PESHKIMIT DHE AKUAKULTURËS DHE ORGANIZATËS SË PESHKIMIT/NJËSIVE TË VETËQEVERISJES VENDORE/SUBJEKTEVE PRIVATE
+Kjo marrëveshje përbën kuadrin e bashkëpunimit ndërmjet institucionit përgjegjës për shërbimet e peshkimit dhe akuakulturës dhe Organizatës së Peshkimit/njësisë së Vetëqeverisjes vendore/subjekteve private. Marrëveshja është hartuar në përputhje me dispozitat e ligjit nr. 64/2012, “Për peshkimin”, të ndryshuar, Kodit Civil të Republikës së Shqipërisë,
 Neni 1
 Palët
-Palët në këtë Marrëveshje janë Ministria e Bujqësisë dhe Zhvillimit Rural dhe ____________________________________________________________________________________________________________________________.
+Palët në këtë marrëveshje janë:
+- Institucioni përgjegjës për shërbimet e peshkimit dhe akuakulturës,
+- ____________________________, identifikuar me NUIS _____________, me adresë në ________________, përfaqësuar nga ____________________.
 Neni 2
 Qëllimi i marrëveshjes
-Qëllimi i kësaj Marrëveshjeje është transferimi i menaxhimit të infrastrukturës së portit të peshkimit/tregut të shitjes me shumicë, nga Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës tek organizata e peshkimit/njësitë e vetëqeverisjes vendore, duke përcaktuar kushtet për kryerjen e veprimtarive, të drejtat dhe detyrimet e Palëve.
+Qëllimi i kësaj marrëveshjeje është transferimi i menaxhimit të infrastrukturës së portit të peshkimit/tregut të shitjes me shumicë dhe/ose Qendrës së Grumbullimit tek organizata e peshkimit/njësitë e vetëqeverisjes vendore/subjekteve private, duke përcaktuar kushtet për kryerjen e veprimtarive, të drejtat dhe detyrimet e palëve.
 Neni 3
 Kohëzgjatja
-Kjo Marrëveshje ndërmjet Palëve të lartpërmendura lidhet për një afat prej _____ vjetësh (jo më shumë se 20 vjet), afat i cili fillon nga momenti i nënshkrimit të kësaj Marrëveshjeje.
+Kjo marrëveshje ndërmjet palëve të lartpërmendura lidhet për një afat prej _____ vjetësh (jo më shumë se 20 vjet), afat i cili fillon nga momenti i nënshkrimit të kësaj marrëveshjeje.
 Neni 4
 Pronësia
-4.1 Porti i peshkimit/tregu i shitjes me shumicë është pronë publike, infrastruktura e të cilit i transferohet organizatës së peshkimit.
-4.2 Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës është përfaqësuesi i shtetit në marrëdhëniet e pronësisë.
+Porti i peshkimit/tregu i shitjes me shumicë/qendra e grumbullimit janë prona publike, infrastruktura e të cilit transferohet tek organizata e peshkimit/njësitë e vetëqeverisjes vendore/subjekteve private.
 Neni 5
-Territori i infrastrukturës së portit që transferohet
-5.1 Organizatës së peshkimit/Njësisë se Vetëqeverisjes vendore, i transferohet menaxhimi i infrastrukturës së portit të peshkimit/tregu i shitjes me shumicë, nëpërmjet kësaj Marrëveshjeje, mbi bazën e kufijve të përcaktuar në genplanin bashkëngjitur marrëveshjes.
-5.2 Organizata e peshkimit/Njësia e vetëqeverisjes vendore garanton ruajtjen e territorit të portit të peshkimit/tregut të shitjes me shumicë.
+Territori i infrastrukturës së portit që transferohet në menaxhim
+5.1. Sipërfaqet dhe objektet që transferohen në menaxhim identifikohen me genplanin, që i bashkëlidhet marrëveshjes dhe dokumentacionin e lëshuar nga Agjencia Shtetërore e Kadastrës.
+5.2. Subjekti, që merr në menaxhim, detyrohet të ruajë sipërfaqen dhe ambientet që merr në menaxhim.
 Neni 6
-Veprimtaritë kryesore që kryhen në portin e peshkimit/tregun e shitjes me shumicë
-Në këtë nen do të parashikohen veprimtaritë kryesore që do të kryhen nga Njësia e vetëqeverisjes vendore/OP, në përputhje me kreun IV dhe V të vendimit të Këshillit të Ministrave që përcakton rregullat për transferimin e menaxhimit të infrastrukturës lidhur me peshkimin dhe dispozitave të tjera ligjore/nënligjore që rregullojnë fushën përkatëse.
-Tarifat e qirasë dhe të shërbimeve përcaktohen në përputhje me parashikimet e udhëzimit të përbashkët të ministrit të Bujqësisë dhe ministrit të Financave.
-Neni 7
 Ruajtja e destinacionit dhe e interesit publik
-7.1 Organizata e peshkimit/Njësia e vetëqeverisjes vendore, gjatë menaxhimit të infrastrukturës së portit dhe të strukturave të lidhura me veprimtarinë e peshkimit, zbaton kushtet e parashikuara në nenin 64, të ligjit nr. 64/2012, “Për peshkimin”, i ndryshuar duke garantuar:
+Organizata e peshkimit/njësia e vetëqeverisjes vendore/subjektet private, gjatë menaxhimit të infrastrukturës së portit dhe të infrastrukturave të lidhura me peshkimin zbatojnë kushtet e parashikuara në ligjin nr. 64/2012, “Për peshkimin”, të ndryshuar, duke garantuar:
 a) mosndryshimin e destinacionit dhe qëllimit;
-b) përdorimin e infrastrukturës së peshkimit nga ana e shtetit në rastet e masave të jashtëzakonshme;
-c) ruajtjen dhe garantimit të interesit publik;
-ç) ruajtjen dhe rritjen vlerës ekonomike të strukturave portuale të peshkimit që i janë transferuar për menaxhim, duke riparuar infra-strukturën ekzistuese, ndërtimin e infrastrukturave të reja.
+b) përdorimin e infrastrukturës së peshkimit nga ana institucioneve shtetërore në rastet e masave të jashtëzakonshme ose sa herë i kërkohet;
+c) ruajtjen dhe garantimin e interesit publik;
+ç) ruajtjen dhe rritjen vlerës ekonomike të strukturave portuale të peshkimit që i janë transferuar për menaxhim, duke riparuar infrastrukturën ekzistuese, ndërtimin e infrastrukturave të reja.
+Neni 7
+Përgjegjësitë e organizatës së peshkimit dhe e njësisë së vetëqeverisjes vendore/subjekteve private
+7.1. Organizata e peshkimit/njësia e vetëqeverisjes vendore/subjektet private duhet të përdorin infrastrukturën e transferuar në mënyrë të drejtë e të barabartë, duke iu ofruar mundësinë të gjithë anëtarëve/subjekteve private në portin e peshkimit/tregun e shitjes me shumicë dhe qendrës së grumbullimit, në mënyrë që të nxisin dhe të mbrojnë interesat e tyre.
+7.2. Organizata e peshkimit/njësia e vetëqeverisjes vendore/subjekti privat merr përsipër përballimin e kostove të përdorimit dhe të mirëmbajtjes së portit/tregut të shitjes me shumicë dhe përgjigjet për mirëmbajtjen e tij, ku përfshihen mirëmbajtja e ndërtesave të administratës dhe të reparteve ndihmëse, shërbimet e grumbullimit të mbetjeve të ngurta apo të lëngëta të gjeneruara në territorin e portit, sipas legjislacionit në fuqi për menaxhimin e mbetjeve, mirëmbajtja e infrastrukturës për furnizim me energji elektrike, karburante dhe ujë të pijshëm, si dhe pagesat kundrejt enteve shtetërore përkatëse, mirëmbajtja e mjediseve higjieno-sanitare të portit/tregut, mirëmbajtja e kalatave, bankinave notuese, kalunave.
+7.3. Organizata e peshkimit/njësia e vetëqeverisjes vendore/subjekti privat duhet të administrojë portin e peshkimit/tregun/qendrën në mënyrë racionale, duke zbatuar legjislacionin në fuqi për të nxitur mbrojtjen e mjedisit dhe një zhvillim të qëndrueshëm.
+7.4. Organizata e peshkimit/ njësia e vetëqeverisjes vendore/subjekti privat është përgjegjëse për sigurinë dhe sigurimin në territorin që ka në menaxhim.
+7.5. Organizata e peshkimit programon dhe merr masa për vendosjen e sigurt të anijeve të peshkimit në kalatë apo bankina notuese, duke respektuar rregullat dhe rregulloret e hartuara për këtë qëllim.
+7.6. Organizata e peshkimit krijon kushte për përpunimin e anijeve të peshkimit në port (shkarkimin e peshkut të zënë, furnizimin me karburant, energji elektrike me ujë të pijshëm dhe bazë materiale e teknike të nevojshme për zhvillimin e veprimtarisë së peshkimit).
+7.7. Tarifat e qirasë dhe të shërbimeve përcaktohen me udhëzimin e përbashkët të ministrit përgjegjës për bujqësinë dhe ministrit përgjegjës për financat.
+7.8. Të ardhurat e krijuara nga tarifat e qirasë dhe nga ofrimi i shërbimeve, në rastin e organizatave të peshkimit, nuk shpërndahen, por shërbejnë për investime në infrastrukturën e transferuar dhe/ose për rritjen e shërbimeve të ofruara, sipas qëllimit për të cilin kjo infrastrukturë është transferuar.
+7.9. Çdo investim i kryer në infrastrukturë pavarësisht nga vlera duhet të marrë më parë miratim nga ministri përgjegjës për peshkimin.
+7.10. Organizatat e peshkimit/njësia e vetëqeverisjes vendore/subjektet private janë të detyruara të raportojnë çdo 6 muaj pranë institucionit përgjegjës për peshkimin dhe për akuakulturën lidhur me zbatimin e planit të menaxhimit, veprimtaritë e kryera, të ardhurat e realizuara etj., të shoqëruar me dokumentacion përkatës provues.
+7.11. Organizatat e peshkimit/njësia e vetëqeverisjes vendore/subjektet private janë të detyruara të depozitojnë në çdo kohë çdo informacion të kërkuar, si dhe të krijojnë akses për inspektimin nga përfaqësuesit e ministrisë të dokumentacionit teknik e financiar.
 Neni 8
-Përgjegjësitë e organizatës së peshkimit
-8.1 Organizata e peshkimit/Njësia e vetëqeverisjes vendore, duhet të përdorë infrastrukturën e transferuar, në mënyrë të drejtë e të barabartë duke iu ofruar mundësinë të gjithë anëtarëve/subjekteve private, në portin e peshkimit/tregun e shitjes me shumicë, në mënyrë që të nxisë dhe të mbrojë interesat e tyre.
-8.2 Organizata e peshkimit/Njësia e vetëqeverisjes vendore merr përsipër përballimin e kostove të përdorimit dhe të mirëmbajtjes së portit/tregut të shitjes me shumicë dhe përgjigjet për mirëmbajtjen e tij, ku përfshihen mirëmbajtja e ndërtesave të administratës dhe të reparteve ndihmëse, shërbimet e grumbullimit të mbetjeve të ngurta apo të lëngëta të gjeneruara në territorin e portit, sipas legjislacionit në fuqi për menaxhimin e mbetjeve, mirëmbajtja e infrastrukturës për furnizim me energji elektrike, karburante dhe ujë të pijshëm, si dhe pagesat kundrejt enteve shtetërore përkatëse, mirëmbajtja e mjediseve higjieno-sanitare të portit/tregut, mirëmbajtja e kalatave, bankinave notuese, kalunave.
-8.3 Organizata e peshkimit/ Njësia e vetëqeverisjes vendore, duhet të administrojë portin e peshkimit/tregun në mënyrë racionale, duke zbatuar legjislacionin në fuqi, për të nxitur mbrojtjen e mjedisit dhe një zhvillim të qëndrueshëm.
-8.4 Organizata e peshkimit/ Njësia e vetëqeverisjes vendore, është përgjegjëse për sigurinë dhe sigurimin në territorin e portit të peshkimit/tregut që ka në menaxhim.
-8.5 Organizata e peshkimit programon dhe merr masa për vendosjen e sigurt të anijeve të peshkimit në kalatë apo bankina notuese, duke respektuar rregullat dhe rregulloret e hartuara për këtë qëllim.
-8.6 Organizata e peshkimit krijon kushte për përpunimin e anijeve të peshkimit në port (shkarkimin e peshkut të zënë, furnizimin me karburant, energji elektrike me ujë të pijshëm dhe bazë materiale e teknike të nevojshme për zhvillimin e veprimtarisë së peshkimit).
-8.7 Tarifat e qirasë dhe të shërbimeve përcaktohen me udhëzimin e përbashkët të ministrit të Bujqësisë dhe ministrit të Financave.
-8.8 Të ardhurat e krijuara nga tarifat e qirasë dhe nga ofrimi i shërbimeve, në fund të vitit, nuk shpërndahen, por shërbejnë për investime në infrastrukturën e transferuar dhe/ose për rritjen e shërbimeve të ofruara, sipas qëllimit për të cilin kjo infrastrukturë është transferuar.
-8.9 Çdo investim i kryer në infrastrukturë pavarësisht nga vlera duhet të marrë më parë miratim nga Ministri përgjegjës për peshkimin.
-8.10 Organizatat e peshkimit/Njësia e vetëqeverisjes vendore janë të detyruara të raportojnë çdo 6 muaj pranë DSHPA-së lidhur me zbatimin e planit të menaxhimit, veprimtaritë e kryera, të ardhurat e realizuara etj. të shoqëruar me dokumentacion përkatës provues.
-8.11 Organizatat e peshkimit/Njësia e vetëqeverisjes vendore, janë të detyruara të depozitojnë në çdo kohë çdo informacion të kërkuar, si dhe të krijojë akses për inspektimin nga përfaqësuesit e ministrisë, të dokumentacionit teknik, financiar.
+Të drejtat dhe përgjegjësitë e institucionit përgjegjës për peshkimin dhe akuakulturën
+Institucionit përgjegjës për peshkimin dhe akuakulturën ka të drejtë të inspektojë infrastrukturën e transferuar, dokumentacionin dhe përmbushjen e detyrimeve ligjore dhe të marrëveshjes.
 Neni 9
-Të drejta dhe përgjegjësitë e palës shtetërore
-9.1 Pala shtetërore, e ngarkuar nga legjislacionin në fuqi, ka të drejtë të inspektojë infrastrukturën e transferuar si dhe dokumentacionin përkatës.
-9.2 Ministria është përgjegjëse për sa parashikohet bazuar në shkronjën “c”, të pikës 3, të nenit 18, të ligjit nr. 64/2012, “Për peshkimin”, i ndryshuar.
-Neni 10
 Inspektimi
-Organizata e peshkimit/Njësia e vetëqeverisjes vendore duhet të krijojë të gjitha kushtet për inspektimin nga ana e organeve shtetërore, të ngarkuara nga ligji, të portit dhe të strukturave të lidhura me veprimtarinë e peshkimit që ajo administron.
-Neni 11
+Organizata e peshkimit/njësia e vetëqeverisjes vendore duhet të krijojë të gjitha kushtet për inspektimin nga ana e organeve shtetërore, të ngarkuara nga ligji, të portit dhe të strukturave të lidhura me veprimtarinë e peshkimit që ajo administron.
+Neni 10
 Marrëdhëniet e organizatës së peshkimit me organet shtetërore
-11.1. Marrëdhëniet e organizatës së peshkimit me organet shtetërore rregullohen sipas parashikimeve të nenit 64 të ligjit nr. 64/2012, “Për peshkimin”, i ndryshuar.
-11.2 Kompetencat dhe përgjegjësitë e zyrës së kapitanerisë së portit ndaj anijeve të peshkimit, ekuipazheve të tyre dhe koordinimit të veprimtarive të lundrimit rregullohen mbi bazën e ligjeve në fuqi dhe të Kodit Detar. Organizata e peshkimit bashkëpunon me kapitanerinë si në drejtim të këmbimit të informacionit të mbërritjes e largimit të anijeve, ashtu edhe për lëvizjen e anijeve brenda portit.
-11.3 Organizata e peshkimit bashkëpunon me kapitanerinë dhe regjistrin detar për ndjekjen në vazhdimësi të çështjeve që lidhen me sigurimin e lundrimit të anijeve mbi bazën e konventave ndërkombëtare.
-11.4 Organizata e peshkimit bashkëpunon dhe i krijon kushtet e duhura doganës në mënyrë që ajo të kryejë detyrat funksionale të saj brenda territorit të portit të peshkimit.
-11.5 Organizata e peshkimit bashkëpunon me policinë kufitare dhe migracionit, me qëllim që të sigurojë zhvillimin normal të veprimtarive në portin e peshkimit.
-Neni 12
+10.1. Marrëdhëniet e organizatës së peshkimit me organet shtetërore rregullohen sipas parashikimeve të nenit 64, të ligjit nr. 64/2012, “Për peshkimin”, të ndryshuar.
+10.2. Kompetencat dhe përgjegjësitë e zyrës së kapitanerisë së portit ndaj anijeve të peshkimit, ekuipazheve të tyre dhe koordinimit të veprimtarive të lundrimit rregullohen në bazë të ligjeve në fuqi dhe të Kodit Detar. Organizata e peshkimit bashkëpunon me kapitanerinë si në drejtim të këmbimit të informacionit të mbërritjes e largimit të anijeve, ashtu edhe për lëvizjen e anijeve brenda portit.
+10.3. Organizata e peshkimit bashkëpunon me kapitanerinë dhe regjistrin detar për ndjekjen në vazhdimësi të çështjeve që lidhen me sigurimin e lundrimit të anijeve mbi bazën e konventave ndërkombëtare.
+10.4. Organizata e peshkimit bashkëpunon dhe i krijon kushtet e duhura administratës doganore në mënyrë që ajo të kryejë detyrat funksionale të saj brenda territorit të portit të peshkimit.
+10.5. Organizata e peshkimit bashkëpunon me policinë kufitare dhe migracionit, me qëllim që të sigurojë zhvillimin normal të veprimtarive në portin e peshkimit.
+Neni 11
 Dokumentacioni
-12.1 Dokumentacioni i procedurës së transferimit të menaxhimit të infrastrukturës së portit të peshkimit/tregut të shitjes me shumicë, mbahet në Drejtorinë e Shërbimeve të Peshkimit dhe Akuakulturës dhe një kopje të saj i dërgohen dhe Ministrisë së Bujqësisë dhe Zhvillimit Rural.
-12.2 Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës dhe OP-ja/ Njësia e vetëqeverisjes vendore, kryejnë inventarin e portit të peshkimit/ tregut, të cilin e merr në ngarkim së bashku me dokumentacionet përkatëse.
-Neni 13
+11.1. Dokumentacioni i procedurës së transferimit të menaxhimit të infrastrukturës së portit të peshkimit/tregut të shitjes me shumicë mbahet në institucionin përgjegjës për peshkimin dhe akuakulturën dhe një kopje e tij i dërgohet edhe Ministrisë së Bujqësisë dhe Zhvillimit Rural.
+11.2. Institucioni përgjegjës për peshkimin dhe akuakulturën dhe OP-ja/njësia e vetëqeverisjes vendore kryejnë inventarin e portit të peshkimit/tregut, të cilin e merr në ngarkim së bashku me dokumentacionet përkatëse.
+Neni 12
 Mbarimi i marrëveshjes
-13.1 Kjo marrëveshje mbaron kur përfundon afati i përcaktuar në nenin 3 të saj;
-13.2 Kjo marrëveshje mbaron para afatit të përcaktuar në nenin 3 të saj, kur:
-a) në përfundim të vitit të parë të zbatimit të Marrëveshjes, në varësi të performancës së organizatës së peshkimit/njësisë së vetëqeverisjes vendore dhe efektivitetit ekonomik, ministria zgjidh në mënyrë të njëanshme Marrëveshjen. Në këtë rast, ministria nuk mban përgjegjësi ligjore, përfshirë edhe përgjegjësi financiare, ndaj OP-së/Njësisë së vetëqeverisjes vendore;
-b) organizata e peshkimit shpërndahet;
-c) organizata e peshkimit/Njësia e vetëqeverisjes vendore, ndryshon destinacionin dhe qëllimin e përdorimit të portit/tregut, të përcaktuar sipas kësaj Marrëveshjeje;
-d) organizata e peshkimit/Njësia e vetëqeverisjes vendore, nuk merr përsipër të vazhdojë administrimin e portit/tregut, sipas kushteve të përcaktuara në këtë Marrëveshje;
-e) organizata e peshkimit/ Njësia e vetëqeverisjes vendore, shkel parashikimet e ligjit nr. 64/2012, “Për peshkimin”, i ndryshuar, legjislacionit në fuqi të aplikueshëm në menaxhimin e infrastrukturës dhe/ose në funksionimin e tregjeve me shumicë, detyrimet e marrëveshjes, ose dështon në përmbushjen e kushteve të planit të menaxhimit.
-Neni 14
+12.1. Kjo marrëveshje mbaron kur përfundon afati i përcaktuar në nenin 3 të saj;
+12.2. Kjo marrëveshje mbaron para afatit të përcaktuar në nenin 3 të saj:
+a) kur organizata e peshkimit shpërndahet;
+b) kur organizata e peshkimit/njësia e vetëqeverisjes vendore nuk kryen administrimin sipas kushteve të përcaktuara në këtë marrëveshje;
+c) kur organizata e peshkimit/njësia e vetëqeverisjes vendore shkel parashikimet e ligjit nr. 64/2012, “Për peshkimin”, të ndryshuar;
+ç) për shkelje të përsëritura që cenojnë kryerjen e aktiviteteve të peshkimit ose ndryshohet destinacioni për të cilin është kryer transferimi;
+d) kur nuk përmbushen detyrimet sipas planit të menaxhimit, mbi të cilin është kryer transferimi.
+dh) me mirëkuptim mes palëve.
+Neni 13
 Zgjidhja e mosmarrëveshjeve
-14.1 Palët respektojnë legjislacionin shqiptar në fuqi dhe përpiqen që mosmarrëveshjet, të cilat mund të lindin gjatë zbatimit të saj, t’i zgjidhin me mirëkuptim midis tyre.
-14.2 Pala që gjykon se ekziston një mosmarrëveshje, njofton palën tjetër duke bërë një përshkrim të plotë të çështjeve që kërkojnë zgjidhje.
-14.3 Personat e autorizuar të palëve të përfshira në mosmarrëveshje duhet të bëjnë personalisht apo nëpërmjet përfaqësuesve të tyre përpjekje për zgjidhjen e mosmarrëveshjes, mbi parimin e ruajtjes së vazhdimësisë së punës.
-14.4 Nëse personat e autorizuar të palëve apo përfaqësuesit e tyre nuk janë në gjendje të zgjidhin mosmarrëveshjen, brenda 15 (pesëmbëdhjetë) ditëve nga marrja e njoftimit, njëra palë njofton palën tjetër se çështja nuk është zgjidhur.
-14.5 Procedurat e zgjidhjes së mosmarrëveshjeve mbikëqyren dhe aprovohen nga ministria.
-14.6 Për të gjitha mosmarrëveshjet që nuk mund të zgjidhen me mirëkuptim, organi kompetent është Gjykata Administrative e Shkallës së Parë ______________.
-Neni 15
+13.1. Palët respektojnë legjislacionin shqiptar në fuqi dhe përpiqen që mosmarrëveshjet, të cilat mund të lindin gjatë zbatimit të saj, t’i zgjidhin me mirëkuptim midis tyre.
+13.2. Pala që gjykon se ekziston një mosmarrëveshje, njofton palën tjetër duke bërë një përshkrim të plotë të çështjeve që kërkojnë zgjidhje.
+13.3. Personat e autorizuar të palëve të përfshira në mosmarrëveshje duhet të bëjnë personalisht apo nëpërmjet përfaqësuesve të tyre përpjekje për zgjidhjen e mosmarrëveshjes mbi parimin e ruajtjes së vazhdimësisë së punës.
+13.4. Nëse personat e autorizuar të palëve apo përfaqësuesit e tyre nuk janë në gjendje të zgjidhin mosmarrëveshjen, brenda 15 (pesëmbëdhjetë) ditëve nga marrja e njoftimit, njëra palë njofton palën tjetër se çështja nuk është zgjidhur.
+13.5. Procedurat e zgjidhjes së mosmarrëveshjeve mbikëqyren dhe aprovohen nga ministria.
+13.6. Për të gjitha mosmarrëveshjet që nuk mund të zgjidhen me mirëkuptim, organi kompetent është Gjykata Administrative e Shkallës së Parë ______________.
+Neni 14
 Të ndryshme
-15.1 Kjo Marrëveshje nënshkruhet në 4 kopje origjinale, nga të cilat tri depozitohen në ministri dhe një tek organizata e peshkimit.
-15.2 Çdo ndryshim i kësaj Marrëveshjeje duhet të negociohet ndërmjet palëve dhe të bëhet me shkrim.
-15.3 Në këtë rast të mospërputhjeve ndërmjet parashikimeve të marrëveshjes dhe parashikimeve të ligjit dhe/ose vendimit nr.________, datë___.____.____, të Këshillit të Ministrave, “Për përcaktimin e kushteve dhe procedurave të transferimit të menaxhimit të infrastrukturës së peshkimit, tek organizatat e peshkimit, njësitë e vetëqeverisjes vendore dhe subjektet private”, do të konsiderohet se mbizotërojnë parashikimet e ligjit dhe/ose vendimit.
-15.4 Të gjitha kushtet e parashikuara në ligjin nr. 64/2012, “Për peshkimin”, i ndryshuar, legjislacionin tjetër në fuqi të aplikueshëm në menaxhimin e infrastrukturës, dhe vendimin, “Për përcaktimin e kushteve dhe procedurave të transferimit të menaxhimit të infrastrukturës së peshkimit, tek organizatat e peshkimit, njësitë e vetëqeverisjes vendore dhe subjektet private”, janë drejtpërdrejt të zbatueshme në këtë marrëveshje.
+14.1. Kjo marrëveshje nënshkruhet në 4 kopje origjinale, nga 2 për secilën palë.
+14.2. Çdo ndryshim i kësaj marrëveshjeje duhet të negociohet ndërmjet palëve dhe të bëhet me shkrim.
+14.3. Të gjitha kushtet e parashikuara në ligjin nr. 64/2012, “Për peshkimin”, të ndryshuar, legjislacionin tjetër në fuqi të aplikueshëm në menaxhimin e infrastrukturës, dhe vendimin, “Për përcaktimin e kushteve dhe procedurave të transferimit të menaxhimit të infrastrukturës së peshkimit tek organizatat e peshkimit, njësitë e vetëqeverisjes vendore dhe subjektet private”, janë drejtpërdrejt të zbatueshme në këtë marrëveshje.
 PALËT NËNSHKRUESE
-Ministria e Bujqësisë dhe Organizata e peshkimit/Njësia
-Zhvillimit Rural e Vetëqeverisjes Vendore
-Përfaqësuar nga _________________________
-__________
+Përfaqësuar nga:
