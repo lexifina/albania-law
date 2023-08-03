@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor të Kolegjit të Posaçëm të Apelimit, për procedurat e prokurimit publik, te znj. Laerta Rooze, Sekretar i Përgjithshëm i Kolegjit të Posaçëm të Apelimit.
