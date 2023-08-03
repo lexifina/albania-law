@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Tiranë Jug, brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, nis procedurat për hedhjen e gjurmës së projektit mbi hartën kadastrale, sipas planimetrisë së shpronësimit të miratuar, dhe regjistrimin e aktit të kalimit të pronësisë në favor të Bashkisë Tiranë për pasuritë e shpronësuara, sipas këtij vendimi.
