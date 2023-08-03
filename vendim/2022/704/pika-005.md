@@ -1,5 +1,5 @@
 5. Ministria e Mbrojtjes, për ushtarakët pjesëmarrës në këtë operacion, përballon shpenzimet, për:
-a) dieta për ditët e qëndrimit, në masën 6 000 (gjashtë mijë) lekë në ditë, përveç pagës mujore;
+a) dieta për ditët e qëndrimit, në masën 8 000 (tetë mijë) lekë në ditë, përveç pagës mujore;
 b) akomodim;
 c) ushqim;
 ç) lavanderi;
