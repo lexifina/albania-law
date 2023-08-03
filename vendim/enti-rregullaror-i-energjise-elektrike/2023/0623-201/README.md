@@ -1,0 +1,9 @@
+# Mbi një ndryshim në vendimin e Bordit të ERE-s nr. 41, datë 10.3.2022, “Mbi licencimin e shoqërisë “AGE Kuç” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Kuç”, me kapacitet të instaluar 1930 kw”, i ndryshuar
+
+Official source: [Vendim nr. 201, datë 23.6.2023 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/26424).
+
+Status of this text: `as-enacted`. Adopted 2023-06-23; published 2023-08-03; in force 2023-08-03.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
