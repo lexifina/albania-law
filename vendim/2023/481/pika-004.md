@@ -1,0 +1,1 @@
+4. Në buxhetin e miratuar për vitin 2023, për grupin nr. 87 “Institucione të tjera qeveritare”, në programin “Shërbime të tjera”, në zërin “Transferta korrente të brendshme”, shtohet fondi prej 50 000 000 (pesëdhjetë milionë) lekësh.

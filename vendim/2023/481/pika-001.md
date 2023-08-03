@@ -1,0 +1,1 @@
+1. Numri i punonjësve organikë të grupit nr. 87, “Institucione të tjera qeveritare”, për vitin 2023, shtohet me 10 (dhjetë) veta, për Agjencinë Shtetërore për Mbështetjen dhe Zhvillimin e Startup-eve dhe Lehtësuesve dhe numri i përgjithshëm i këtij grupi bëhet 1 455 punonjës.
