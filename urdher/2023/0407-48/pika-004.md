@@ -1,0 +1,1 @@
+4. Urdhri nr. 125, datë 26.12.2011, i ministrit të Punëve Publike dhe Transportit, “Për miratimin e hartave të azhurnuara të rrjetit rrugor kombëtar dhe distancave kilometrike ndërmjet qyteteve të Shqipërisë”, shfuqizohet.

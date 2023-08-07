@@ -1,0 +1,1 @@
+3. Autoriteti Rrugor Shqiptar dhe Instituti i Transportit të bëjnë vazhdimisht përditësimin e tabelës së distancave kilometrike ndërmjet qyteteve të Republikës së Shqipërisë dhe të hartës së Rrjetit Rrugor Kombëtar, sa herë të ketë ndryshime në segmentet rrugore të Rrjetit Rrugor Kombëtar.
