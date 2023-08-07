@@ -1,10 +1,10 @@
-5. Subjektet private duhet të dorëzojnë kërkesë për aplikim elektronikisht nëpërmjet portalit e-Albania, jo më vonë se data 20 e muajit pasardhës, nga muaji i pritshëm i deklarimit, për periudhën që kërkojnë kompensim, në të kundërt humbasin kompensimin për atë periudhë.
+5. Subjektet private duhet të dorëzojnë kërkesë për aplikim elektronikisht nëpërmjet portalit “e-Albania”, për periudhën që kërkojnë kompensim
 III. PROCEDURA E VERIFIKIMIT PËR DHËNIEN E KOMPENSIMIT FINANCIAR
 1. Zyra përkatëse e punësimit, brenda 5 (pesë) ditëve pune nga data e kërkesës, bën verifikimet përkatëse në sistemin tatimor mbi të dhënat e deklaruara nga kërkuesit.
 2. Zyra përkatëse e punësimit, brenda 10 (dhjetë) ditëve, pasi bën verifikimet, sipas pikës 1, të këtij kreu, harton listat përmbledhëse të përfituesve, të ndara për çdo bankë të nivelit të dytë, ku përfituesit kanë llogarinë rrjedhëse bankare dhe i dërgon këto lista pranë këtyre bankave.
 3. Zyra përkatëse e punësimit ruan dhe administron dokumentacionin e përcaktuar sipas këtij vendimi, në përputhje me dispozitat ligjore e nënligjore të parashikuara për ruajtjen e dokumentacionit dhe arkivat.
 IV. MASA E PËRFITIMIT PËR KOMPENSIMIN FINANCIAR
-1. Kompensimi financiar jepet në masën e kontributeve shoqërore dhe shëndetësore, llogaritur mbi shtesën e pagës minimale nga 34 000 (tridhjetë e katër mijë) lekë në 40 000 (dyzet mijë) lekë, për çdo të punësuar me pagë minimale, për çdo muaj, për periudhën kontributive prill -dhjetor 2023. Kompensimi financiar është në masën 1 674 (një mijë e gjashtëqind e shtatëdhjetë e katër) lekë/muaj për çdo të punësuar.
+1. Kompensimi financiar jepet në masën e kontributeve shoqërore dhe shëndetësore, llogaritur mbi shtesën e pagës bruto nga 34 000 (tridhjetë e katër mijë) lekë në 40 000 (dyzet mijë) lekë, për çdo muaj, për periudhën kontributive prill-dhjetor 2023.
 2. Verifikimi, llogaritja dhe shpërndarja për përfituesit e këtij vendimi do të bëhen sipas procedurave të dokumentimit e të shpërndarjes nga institucionet e përcaktuara sipas këtij vendimi.
 V. DISPOZITA TË FUNDIT
 1. Rregulla të hollësishme për mënyrën dhe procedurat e aplikimit, mënyrën e llogaritjes së kompensimit, verifikimit dhe ankimimit përcaktohen me udhëzim të ministrit të Financave dhe Ekonomisë.
