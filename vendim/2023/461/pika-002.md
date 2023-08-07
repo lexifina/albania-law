@@ -1,0 +1,1 @@
+2. Vendimi nr. 113, datë 17.2.2021, i Këshillit të Ministrave, “Për miratimin e dokumentit udhëzues të politikave mbi zonat e përcaktuara për akuakulturë (ZPA) në Shqipëri”, të ndryshuar, shfuqizohet.
