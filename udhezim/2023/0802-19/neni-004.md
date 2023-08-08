@@ -1,0 +1,7 @@
+# Neni 4
+Ekzaminimi i trikinelës dhe aplikimi i vulës shëndetësore
+1. Karkasat e përmendura në nenin 2 ose pjesë të tyre, me përjashtim të atyre të përmendura në nenin 3(4), nuk duhet të largohen nga ndërtesat përpara se rezultatet e ekzaminimit për trikinelën të rezultojnë negative.
+Në mënyrë të ngjashme, pjesët e tjera të një kafshe të destinuara për konsum nga njerëzit ose kafshët, të cilat përmbajnë inde të muskujve të strijuar nuk duhet të largohen nga ndërtesat përpara se rezultatet e ekzaminimit për trikinelën të rezultojnë negative.
+2. Mbetjet e kafshëve dhe nënproduktet shtazore që nuk janë të destinuara për konsum njerëzor dhe që nuk përmbajnë muskuj të strijuar mund të largohen nga ndërtesat përpara se të jenë të disponueshme rezultatet e ekzaminimit të trikinelës.
+Megjithatë, veterineri zyrtar i thertores mund të kërkojë që të kryhet një ekzaminim për trikinelën ose një trajtim paraprak i nënprodukteve shtazore jo për konsum njerëzor përpara se t’i lejojë ato të largohen nga ndërtesat.
+3. Kur ekziston dhe zbatohet një procedurë në thertore, që siguron se asnjë pjesë e karkasave të ekzaminuara nuk largohet nga ndërtesat derisa rezultati i ekzaminimit për trikinelën të rezultojë negativ dhe procedura të aprovohet zyrtarisht nga veterineri zyrtar ose kur zbatohet përjashtimi i parashikuar në nenin 3(4), mund të aplikohet vula shëndetësore përpara se rezultatet e ekzaminimit të trikinelës të jenë të disponueshme.
