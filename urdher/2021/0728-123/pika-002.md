@@ -5,3 +5,4 @@ c) Informacionet në kuadër të përgatitjes së raportimeve dhe të dhënave s
 d) Kërkesat të cilat nuk janë kompetencë e njësisë së inspektorëve;
 e) Korrespondenca që lidhet me çështje dhe shërbime juridike;
 f) Aktet në zbatim të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar dhe Kodi i Punës, për personelin administrativ të Zyrës së Inspektorit të Lartë të Drejtësisë.
+g) Nënshkrimin e autorizimeve për përfaqësimin e çështjeve në gjykatë dhe në të gjitha shkallët e gjykimit, në mungesë të Inspektorit të Lartë të Drejtësisë.
