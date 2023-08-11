@@ -1,0 +1,6 @@
+# Neni 34
+Ekspertët
+1. Përveç kur palët kanë rënë dakord ndryshe, gjykata e arbitrazhit mund të caktojë një ose më shumë ekspertë, të cilët duhet të paraqesin mendimin e tyre me shkrim për çështje të caktuara nga gjykata e arbitrazhit.
+2. Gjykata e arbitrazhit mund të urdhërojë një palë për t’i lejuar ekspertit kryerjen e detyrave të caktuara nga gjykata e arbitrazhit, nëpërmjet njohjes me sende, evidenca, llogari e dokumente të tjera ose të lejojë këqyrjen në vend të tyre.
+3. Pas marrjes së raportit me shkrim, gjykata e arbitrazhit ua dërgon raportin palëve, të cilat kanë të drejtë të paraqesin mendimin dhe vërejtjet e tyre me shkrim për raportin e ekspertimit. Përveç kur palët kanë rënë dakord ndryshe, gjykata e arbitrazhit, me kërkesë të palëve ose kryesisht, pas depozitimit të raportit me shkrim, mund të thërrasë në seancë dëgjimore ekspertin për të dhënë shpjegime dhe për të parashtruar përfundimet e ekspertimit dhe, pasi të ketë dhënë mendimin, ekspertit mund t’i bëhen pyetje. Në seancën dëgjimore, palët mund të thërrasin ekspertët e tyre, me qëllim që të paraqesin mendimin për çështjet e caktuara nga gjykata e arbitrazhit ose të japin sqarime plotësuese për to.
+4. Palët kanë të drejtë të kundërshtojnë emërimin ose të kërkojnë përjashtimin e një eksperti kur ekziston një nga shkaqet e përcaktuara në nenin 18 të këtij ligji.
