@@ -1,0 +1,5 @@
+# Neni 4
+Shërbimi psiko-social (ShPS)
+1. Drejtoritë rajonale të arsimit parauniversitar (DRAP) dhe zyrat vendore të arsimit parauniversitar (ZVAP) të marrin masa për funksionimin e shërbimit psiko-social, në zbatim të urdhrit nr. 313, datë 20.10.2020, “Për organizimin dhe funksionimin e shërbimit psiko-social në institucionet e arsimit parauniversitar dhe procedurat e emërimit, pezullimit dhe largimit nga shërbimi psiko-social”, të ndryshuar.
+2. DRAP/ZVAP-të të monitorojnë realizimin e planit të punës së njësive të ShPS-së dhe të raportojnë në DPAP, në muajt janar dhe qershor 2024, për realizimin e tij. DPAP-ja të raportojë në MAS në muajt shkurt dhe korrik 2024.
+3. Puna e punonjësve të ShPS-së në institucionet e arsimit parauniversitar të mbështetet në “Manualin e punës për punonjësit e shërbimit psiko-social në sistemin arsimor parauniversitar”, “Standardet e përgjithshme profesionale të shërbimit psiko-social shkollor”, “Parimet për etikën profesionale të shërbimit psiko-social shkollor”, të miratuara me shkresën e MAS-it nr. 2116/2 prot., datë 8.7.2022.

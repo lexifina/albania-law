@@ -1,0 +1,13 @@
+# Neni 8
+Arsimi parauniversitar privat
+1. DRAP/ZVAP-të të realizojnë me përparësi detyrat si vijon:
+a) Të mbajnë kontakte me të gjitha institucionet e arsimit parauniversitar privat, t’i informojnë rregullisht për çdo ndryshim apo akt të ri ligjor në fushën e arsimit dhe t’i monitorojnë për realizimin e planeve dhe të programeve mësimore;
+b) Të kërkojnë dhe të administrojnë të dhëna statistikore që lidhen me procesin mësimor;
+c) Të bëjnë vlerësimin e kritereve të licencimit dhe ushtrimit të veprimtarisë për çdo institucion arsimor dhe të raportojnë në DPAP, e cila raporton në MAS;
+ç) Të sistemojnë nxënësit, në rast mbylljeje të institucioneve arsimore private.
+2. Institucionet arsimore parauniversitare private të marrin masat e mëposhtme:
+a) Të raportojnë në institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar, në fillim të vitit shkollor, numrin e nxënësve dhe listën e mësuesve, sipas statistikave të miratuara, certifikatën e regjistrimit në organin tatimor dhe planin vjetor të shkollës sipas formatit të parashikuar në rregulloren për funksionimin e institucioneve arsimore parauniversitare;
+b) Të zbatojnë rregulloren për funksionimin e institucioneve arsimore parauniversitare, për transferimin e nxënësve, si dhe udhëzimin nr. 21, datë 9.7.2015, “Për procedurat e transferimit të nxënësve nga një nivel/drejtim i arsimit profesional në gjimnaz”;
+c) Të realizojnë detyrimet e tyre në përdorimin dhe ruajtjen e dokumentacionit (regjistra, amza, evidenca për lëvizjet e nxënësve, rregullore e brendshme e kopshtit/shkollës, dëftesa, kontrata me prindërit etj.), sipas udhëzimit nr. 15, datë 12.7.2013, “Për procedurat e posaçme për shqyrtimin e kërkesave për licencë të institucioneve arsimore private dhe institucioneve arsimore plotësuese private parauniversitare”, i ndryshuar;
+ç) Institucionet mund ta ndërpresin veprimtarinë e tyre arsimore vetëm në fund të vitit shkollor. Për mbylljen e veprimtarisë arsimore duhet të njoftojnë institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar, DPAP-në, MAS-in, Qendrën Kombëtare të Biznesit dhe të dorëzojnë të gjithë dokumentacionin e plotë në ZVAP-të përkatëse.
+3. Institucionet arsimore parauniversitare private që funksionojnë në gjuhë të huaj, të bashkëpunojnë me ZVAP-të përkatëse për njoftimin në kohë të maturantëve të cilët dëshirojnë të vijojnë studimet e larta në institucionet e arsimit të lartë të Republikës së Shqipërisë, për zbatimin e procedurave të përcaktuara në Rregulloren e Maturës Shtetërore të vitit përkatës. Për maturantët që dëshirojnë të vijojnë studimet e larta jashtë vendit, të bashkëpunojnë me përfaqësitë e huaja të shtetit përkatës për njohjen e kritereve të aplikimeve në institucionet e huaja të arsimit të lartë.
