@@ -1,0 +1,1 @@
+15. Shpenzimet e përfaqësuesve të MAS-it në monitorimin e provimeve të Maturës Shtetërore 2023 dhe Maturës Shtetërore Profesionale 2023, sesioni i dytë, të mbulohen nga institucionet ku janë të punësuar.

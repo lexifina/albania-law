@@ -1,0 +1,5 @@
+1. Lëndët dhe datat e provimeve të Maturës Shtetërore 2023, sesioni i dytë, të jenë:
+|a) Gjuhë e huaj |21 gusht 2023; |
+|b) Gjuhë shqipe dhe letërsi |25 gusht 2023; |
+|c) Matematikë |30 gusht 2023; |
+|ç) Provimi me zgjedhje |4 shtator 2023. |

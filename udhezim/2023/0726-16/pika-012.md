@@ -1,0 +1,1 @@
+12. ZVAP-të dhe drejtoritë e institucioneve arsimore parauniversitare, të marrin masa për njoftimin e maturantëve për datat, qendrën dhe orën kur do të zhvillohet secili nga provimet e detyruara, dhe me zgjedhje të Maturës Shtetërore 2023, dhe provimet e detyruara të Maturës Shtetërore Profesionale 2023, sesioni i dytë.

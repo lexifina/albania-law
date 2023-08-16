@@ -1,0 +1,1 @@
+11. Provimet të zhvillohen të përqendruara. Drejtoria e Përgjithshme e Arsimit Parauniversitar (DPAP) përcakton qendrat e provimeve, duke u bazuar në numrin e maturantëve dhe në largësinë nga qendra e provimit.

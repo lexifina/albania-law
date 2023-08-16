@@ -1,0 +1,1 @@
+10. Drejtori i institucionit arsimor parauniversitar të dërgojë zyrtarisht në ZVAP listën e maturantëve që do të marrin pjesë në provimet e detyruara dhe me zgjedhje të Maturës Shtetërore 2023, dhe në provimet e detyruara të Maturës Shtetërore Profesionale 2023, sesioni i dytë, deri më datë 15 gusht 2023. Drejtori i ZVAP-së ta dërgojë këtë listë në QSHA, në datën 15 gusht 2023.
