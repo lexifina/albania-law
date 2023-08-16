@@ -1,0 +1,12 @@
+# Neni 9
+Procedura e kthimit të garancisë, huas dhe nënhuas
+1. Me kryerjen e pagesës së garancisë apo skemave të veçanta të garancisë, sipas përcaktimeve në marrëveshjet specifike të garancisë ndaj institucionit huadhënës, sipas legjislacionit në fuqi për huamarrjen shtetërore, borxhin shtetëror dhe garancitë shtetërore të huas në Republikën e Shqipërisë, ministri përgjegjës për financat njofton Agjencinë për fillimin e procedurave për kthimin e garancisë shtetërore të huas.
+2. Në rast se një huamarrës nuk shlyen detyrimet në masën dhe kohën e duhur kundrejt ministrisë përgjegjëse për financat, ministri përgjegjës për financat njofton menjëherë Agjencinë për fillimin e procedurave për kthimin e huas apo nënhuas.
+3. Me qëllim kthimin e garancive, huave dhe nënhuave, Agjencia:
+a) ndjek shlyerjen e detyrimeve të huamarrësve ndaj ministrisë përgjegjëse për financat për pagesat e kryera nga kjo e fundit në kuadër të marrëveshjeve të garancisë sipas skemave përkatëse të garancisë dhe marrëveshjeve të lidhura me institucionet financiare, si dhe për detyrimet e pakthyera, që rrjedhin sipas marrëveshjeve të huas apo nënhuas me anë të verifikimit të mandatpagesave;
+b) i drejtohet me kërkesë me shkrim institucionit financiar për dorëzimin e dokumentacionit të nevojshëm për realizimin e qëllimit të shkronjës “a” të kësaj pike në rastin e skemave të veçanta të garancive dhe vetëm pasi institucioni financiar ka mbledhur/arkëtuar pjesën e detyrimit të pambuluar nga garancia;
+c) kërkon nga shërbimi përmbarimor fillimin e procedurave të kthimit të detyrimeve për të cilat nga ministria përgjegjëse për financat, sipas skemës së garancisë, është paguar tërësisht kredia bankare, kundrejt personave fizikë apo juridikë, të cilët kanë detyrime në momentin e kalimit të afatit të maturimit për shlyerjen vullnetare të detyrimit;
+ç) kërkon nga organet gjyqësore fillimin e procedurave të falimentimit ose likuidimit kundrejt personave fizikë apo juridikë, të cilët kanë detyrime sipas parashikimeve të ligjit për falimentimin;
+d) ka të drejtë të shesë sendet e luajtshme ose të paluajtshme, të kaluara në pronësi të Agjencisë, sipas parashikimeve të ligjit në fuqi për ankandin publik;
+dh) pas procedurës përmbarimore, ka të drejtë të kalojë si kapital të vetë asetet e marra sipas shkronjave “b” dhe “c” të kësaj pike.
+4. Nëse kthimi i detyrimeve në marrëveshjen e garancisë është parashikuar të realizohet nga institucioni financiar, kthimi i detyrimeve do të realizohet nga ky i fundit sipas parashikimeve të marrëveshjes specifike të garancisë.
