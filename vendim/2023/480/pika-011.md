@@ -1,0 +1,1 @@
+11. Kryetari i degës doganore kompetente, brenda 24 (njëzet e katër) orëve nga momenti i mbajtjes së procesverbalit të verifikimit të shkeljes, bën verifikimin në sistemin informatik doganor, nëse shkelja është e përsëritur dhe merr vendimin përkatës, një kopje të të cilit ia njofton menjëherë kundërvajtësit.

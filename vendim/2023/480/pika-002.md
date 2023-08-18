@@ -1,0 +1,1 @@
+2. Në përmbajtje të këtij projektvendimi, termat “metale dhe gurë të çmuar”, “objekte antike”, “para fizike” dhe “instrumente të negociueshme të mbajtësit” kanë të njëjtin kuptim me përkufizimet e dhëna në sistemin e harmonizuar për përshkrimin dhe kodifikimin e mallrave dhe ligjin nr. 9917/2008, të ndryshuar.
