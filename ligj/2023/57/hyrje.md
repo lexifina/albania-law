@@ -1,0 +1,8 @@
+LIGJ
+Nr. 57/2023
+PËR MIRATIMIN E AKTIT NORMATIV, ME FUQINË E LIGJIT, NR. 2, DATË 7.6.2023 “PËR DISA SHTESA NË LIGJIN NR. 29/2023
+’PËR TATIMIN MBI TË ARDHURAT’”
+Në mbështetje të neneve 78 dhe 101 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
