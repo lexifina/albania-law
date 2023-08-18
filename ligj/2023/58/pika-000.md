@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 3, datë 21.6.2023, “Për disa ndryshime në aktin normativ nr. 1, datë 20.3.2019, të Këshillit të Ministrave, ’Për pjesëmarrjen e personelit të Forcave të Armatosura të Republikës së Shqipërisë në Misionin e Kombeve të Bashkuara në Sudanin e Jugut (UNMISS)’, miratuar me ligjin nr. 23/2019”.
