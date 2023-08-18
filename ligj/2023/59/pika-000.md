@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 4, datë 21.6.2023 “Për pjesëmarrjen e personelit të forcave të armatosura të Republikës së Shqipërisë në misionin e Kombeve të Bashkuara në Abyei (UNISFA)”.
