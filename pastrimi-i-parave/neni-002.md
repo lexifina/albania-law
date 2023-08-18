@@ -1,7 +1,7 @@
 # Neni 2
 Përkufizime
 Në këtë ligj termat e mëposhtëm kanë këto kuptime:
-1. “Autoritet përgjegjës” është Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave, e cila i raporton drejtpërdrejt Ministrit të Financave dhe shërben si Njësi e Inteligjencës Financiare të Shqipërisë.
+1. “Autoritet përgjegjës” është Agjencia e Inteligjencës Financiare (AIF), e cila i raporton drejtpërdrejt Ministrit të Financave dhe shërben si Njësi e Inteligjencës Financiare të Shqipërisë.
 2. “Bankë guaskë” është një bankë ose institucion financiar apo një institucion që kryen aktivitete të ngjashme me ato që kryhen nga bankat ose institucionet financiare, e cila, pavarësisht se është themeluar në territorin e një vendi, nuk ka prani fizike në të, si dhe nuk është pjesë e një grupi të rregulluar financiar. Për qëllime të këtij përkufizimi, prania fizike nënkupton ekzistencën e funksioneve drejtuese dhe administruese në territorin e vendit në të cilin është themeluar banka. Ekzistenca vetëm e agjentëve lokalë apo e punonjësve të nivelit të ulët nuk përbën prani fizike.
 3. “Bankë korrespondente” është banka që ofron shërbime bankare për llogari të një banke tjetër (banka iniciuese) ose klientëve të saj, te një bankë e tretë (banka pritëse), në bazë të një marrëveshjeje ose marrëdhënieje kontraktuale të lidhur ndërmjet tyre.
 3.1. Shfuqizuar.

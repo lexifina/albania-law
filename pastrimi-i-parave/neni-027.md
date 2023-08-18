@@ -29,7 +29,7 @@ ii. subjekti është person fizik vendoset gjoba deri në 625 000 000 (gjashtëq
 5. Shfuqizuar.
 6. Shfuqizuar.
 7. Shfuqizuar.
-8. Gjobat përcaktohen dhe vendosen nga autoriteti përgjegjës.
+8. Masat administrative përcaktohen dhe vendosen nga Agjencia e Inteligjencës Financiare.
 9. Autoriteti përgjegjës informon autoritetet licencuese dhe/ose mbikëqyrëse për sanksionet e vendosura.
-10. Këshilli i Ministrave përcakton me vendim procedurat e konstatimit, të shqyrtimit, të propozimit dhe të vendosjes së masave administrative nga autoriteti përgjegjës. Procedurat e ankimit dhe të ekzekutimit të gjobave, të vendosura me vendim të autoritetit përgjegjës, bëhen në përputhje me ligjin nr. 10 279, datë 20.5.2010 “Për kundërvajtjet administrative”.
+10. Këshilli i Ministrave përcakton me vendim procedurat e konstatimit, të shqyrtimit, të propozimit dhe të vendosjes së masave administrative nga autoriteti përgjegjës. Procedurat e ankimit dhe të ekzekutimit të gjobave, të vendosura me vendim të autoritetit përgjegjës, bëhen në përputhje me ligjin nr. 10 279, datë 20.5.2010 “Për kundërvajtjet administrative”. Masa e kamatëvonesës për gjobat e vendosura nuk mund të kalojë vlerën e gjobës.
 11. E drejta për shqyrtimin e kundërvajtjeve administrative, të parashikuara në këtë nen, nuk mund të ushtrohet kur kanë kaluar 5 vjet nga çasti i kryerjes së kundërvajtjes administrative.

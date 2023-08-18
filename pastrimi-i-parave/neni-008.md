@@ -13,7 +13,7 @@ a) të mbledhin informacione të mjaftueshme për to, për të kuptuar plotësis
 b) të përcaktojnë nëpërmjet informacionit publik ose me mjete të tjera reputacionin e tyre;
 c) të marrin miratimin nga instancat më të larta të administrimit/drejtimit përpara vendosjes së një marrëdhënieje biznesi me ta;
 ç) të ofrojnë monitorim të zgjeruar të marrëdhënies së biznesit.
-4. Subjektet duhet t’u kushtojnë vigjilencë të zgjeruar marrëdhënieve të biznesit dhe transaksioneve me klientët jorezidentë, veçanërisht kur këto transaksione kryhen pa praninë fizike të klientit.
+4. Subjektet duhet t’u kushtojnë vigjilencë të zgjeruar marrëdhënieve të biznesit dhe transaksioneve me klientët jorezidentë të vlerësuara me risk të lartë.
 5. Subjektet duhet të verifikojnë dhe t’u kushtojnë vigjilencë të zgjeruar marrëdhënieve të biznesit dhe transaksioneve me të gjitha kategoritë e klientëve, të cilët banojnë ose e ushtrojnë veprimtarinë e tyre në vende për të cilat kërkohet marrja e masave të posaçme, sipas përcaktimeve apo kërkesave të autoritetit përgjegjës. Subjektet duhet të analizojnë arsyet dhe qëllimin e kryerjes së transaksioneve të tilla dhe të mbajnë të dhëna me shkrim për konkluzionet, të cilat duhet t’u vihen në dispozicion autoritetit përgjegjës mbikëqyrës dhe audituesve, nëse kërkohet. Autoriteti përgjegjës mund të kërkojë marrje masash shtesë dhe kufizime përtej vigjilencës së zgjeruar.
 5/1. Në lidhje me marrëdhëniet e biznesit apo transaksionet që përfshijnë vendet me risk të lartë sipas shkronjës “f” të nenit 22 të këtij ligji, subjektet duhet të zbatojnë masat e mëposhtme të vigjilencës së zgjeruar ndaj klientit:
 a) të marrin informacion shtesë për klientin dhe pronarin përfitues;
