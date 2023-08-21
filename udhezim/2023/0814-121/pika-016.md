@@ -1,0 +1,1 @@
+16. Drejtoria e Përgjithshme e Gjendjes Civile dërgon në KZAZ të 3 (tre) formatet e listës së zgjedhësve, në rast se nga kryetari i komanduar për Bashkinë Kukës nuk përmbushen kompetencat, sipas pikës 15 të këtij udhëzimi.

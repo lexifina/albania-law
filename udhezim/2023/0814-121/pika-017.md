@@ -1,0 +1,1 @@
+17. Zyrat e gjendjes civile në Bashkinë Kukës/njësitë administrative nën juridiksionin e saj, ku do të zhvillohen zgjedhjet për kryetar të Bashkisë Kukës, zbatojnë dhe vendimet gjyqësore, sipas nenit 57, të ligjit nr. 10 019, datë 29.12.2008, “Kodi Zgjedhor i Republikës së Shqipërisë”, të ndryshuar.

@@ -1,0 +1,1 @@
+10. Përgjegjësi i zyrës së gjendjes civile në Bashkinë Kukës/njësitë administrative nën juridiksionin e saj kryen veprimet përkatëse në Regjistrin Kombëtar, brenda 24 orëve nga marrja e vendimit të kryetarit të komanduar në Bashkinë Kukës, për ndarjen e qendrave të votimit referuar kritereve të parashikuara ligjore.

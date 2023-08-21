@@ -1,0 +1,1 @@
+1. Hartimin e listës së zgjedhësve nga Regjistri Kombëtar i Gjendjes Civile (RKGjC) i vitit 2010, brenda datës 16.8.2023. Në përbërje të listës së zgjedhësve janë të gjithë shtetasit me të drejtë vote, të lindur që nga data 24.9.2005, të cilët deri në datën e zhvillimit të zgjedhjeve për kryetar të Bashkisë Kukës, më 24.9.2023, mbushin 18 vjeç.

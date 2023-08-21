@@ -1,0 +1,1 @@
+2. Miratimin dhe shpalljen e listës së zgjedhësve për zgjedhjet për kryetar të Bashkisë Kukës, në përputhje me nenin 48 të Kodit Zgjedhor, brenda datës 18.8.2023, nga kryetari i Bashkisë Kukës, i komanduar në detyrë.

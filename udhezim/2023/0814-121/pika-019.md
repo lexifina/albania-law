@@ -1,0 +1,1 @@
+19. Drejtoria e Përgjithshme e Gjendjes Civile i dërgon për ruajtje Drejtorisë së Përgjithshme të Arkivave një kopje të printuar të listës së zgjedhësve, jo më vonë se 10 ditë pas shpalljes së listës së zgjedhësve për kryetar të Bashkisë Kukës.

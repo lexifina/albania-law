@@ -1,0 +1,1 @@
+15. Kryetari i komanduar në detyrë dërgon në KZAZ të 3 (tre) formatet e parashikuara në shkronjat “a”, “b” dhe “c”, të pikës 2, të nenit 48, të Kodit Zgjedhor, jo më vonë se 35 ditë nga data e zhvillimit të zgjedhjeve për kryetar të Bashkisë Kukës.
