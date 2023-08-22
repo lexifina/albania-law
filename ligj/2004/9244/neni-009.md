@@ -1,0 +1,5 @@
+# Neni 9
+Kryetari i këshillit të qarkut dhe strukturat e tjera në qark
+1. Kryetari i këshillit të qarkut shqyrton dhe vendos për ankesat që i paraqiten nga persona fizikë e juridikë, për sanksionet që janë vendosur ndaj tyre nga Inspektorati i Mbrojtjes së Tokës në qark, si dhe për vendimet që janë marrë ndaj tyre nga strukturat e tjera të pushtetit vendor, për mbrojtjen e tokës bujqësore.
+2. Pranë seksionit të administrimit dhe mbrojtjes së tokës në qark krijohet Inspektorati i Mbrojtjes së Tokës, i përbërë nga specialistë të emëruar, në përputhje me ligjin nr.8549, datë 11.11.1999 ”Statusi i nëpunësit civil”. IMT-ja në qark ka varësi teknike nga Inspektorati i Mbrojtjes së Tokës pranë Ministrisë së Bujqësisë dhe të Ushqimit.
+3. Seksioni i administrimit të mbrojtjes së tokës në këshillin e qarkut krijon regjistrin e mbrojtjes së tokës bujqësore. Sistemi i të dhënave, përmbajtja dhe forma e regjistrit të mbrojtjes së tokës bujqësore miratohen nga Ministri i Bujqësisë dhe i Ushqimit dhe Ministri i Mjedisit.
