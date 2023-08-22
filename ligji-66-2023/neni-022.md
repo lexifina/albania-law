@@ -1,0 +1,5 @@
+# Neni 22
+Metodologjia e vlerësimit të objekteve të konfiskuara
+1. Procedurat për vlerësimin e pasurisë së konfiskuar fillojnë me daljen e urdhrit të ministrit përgjegjës për administrimin e pronës shtetërore apo titullarit të njësisë së zbatimit për caktimin e ekspertit/ekspertëve vlerësues të licencuar të pasurisë së paluajtshme, të cilët do të hartojnë raportin e vlerësimit të objektit të konfiskuar apo pjesëve të tij. Numri i ekspertëve përcaktohet në proporcion me volumin e objektit.
+2. Vlerësimi i objekteve të konfiskuara, pavarësisht fazës së tyre të zhvillimit, bëhet nga ekspertët e vlerësimit në përputhje me vlerën reale të tregut, duke përdorur metodat e vlerësimit të objektit, referuar strukturës dhe gjendjes së tij faktike në zbatim të legjislacionit në fuqi.
+3. Ekspertët e vlerësimit mbajnë përgjegjësi për vlerësimin e kryer dhe për dokumentet e hartuara e të nënshkruara prej tyre (genplane, situacione, aktvlerësime etj.). Afati i vlerësimit duhet të jetë jo më shumë se 30 (tridhjetë) ditë nga data e daljes së urdhrit për vlerësimin nga titullari.

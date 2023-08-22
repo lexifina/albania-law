@@ -1,0 +1,6 @@
+# Neni 24
+Personat e tretë
+1. Komisioni njeh proporcionalisht detyrimin financiar të paguar nga personat e tretë në favor të subjektit ndërtues/zhvillues nëse bazohet në një kontratë të hartuar përpara noterit dhe të regjistruar në Agjencinë Shtetërore të Kadastrës përpara konstatimit të paligjshmërisë në zhvillim/ndërtim.
+2. Në zbatim të vendimit të Komisionit sipas pikës 1, njësia e zbatimit i paguan palës së tretë, sipas një marrëveshjeje të veçantë, modeli i së cilës miratohet me udhëzim të përbashkët të ministrit përgjegjës për drejtësinë dhe ministrit përgjegjës për administrimin e pronës shtetërore, atë vlerë të objektit të porositur prej tij, e cila korrespondon me vlerën e punimeve të realizuara sipas aktit të vlerësimit të kryer në momentin e konfiskimit, në zbatim të parashikimeve të këtij ligji. Nëse vlera e paguar, sipas parashikimeve të pikës 1, është më e madhe se vlera e përcaktuar në aktin e vlerësimit që korrespondon me gjendjen e objektit, personi i tretë mund të kërkojë nga ndërtuesi/zhvilluesi vlerën e përfituar pa të drejtë.
+3. Parashikimet e pikës 2 të këtij neni zbatohen, për aq sa është e mundur, edhe për kontratat e klering-ut.
+4. Palët e treta kanë të drejtën të marrin pjesë në programin e shitjes së objekteve të konfiskuara në cilësinë e subjekteve me të drejtë parablerjeje në kushtet e parashikuara në këtë ligj.
