@@ -4,7 +4,7 @@ Nr. 16, datë 23.1.2020
 
 MBI LICENCIMIN E SHOQËRISË “DIEZELA” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-i “LJUSA”, ME KAPACITET TË INSTALUAR 1980 kw
 
-(ndryshuar me vendimin nr. 218, datë 4.7.2023)
+(ndryshuar me vendimin nr. 218, datë 4.7.2023; nr. 258, datë 23.8.2023)
 
 (i përditësuar)
 
@@ -74,15 +74,13 @@ Për gjithë sa më sipër cituar, Bordi i ERE-s,
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “Diezela” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Ljusa”, me kapacitet të instaluar 1980 kw, për një afat 30-vjeçar (duke filluar nga data 23.1.2020), me kusht që përpara fillimit të operimit të depozitojë në ERE lejen e rinovuar për përdorimin e burimit ujor për prodhim hidroenergjie nga HEC “Ljusa”. 
+1. Të licencojë shoqërinë “Diezela” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Ljusa” me kapacitet të instaluar 1980 kw, për një afat 30-vjeçar (duke filluar nga data 23.1.2020). 
 
-2. Shoqëria “Diezela” sh.p.k. të informojë ERE çdo tre muaj në lidhje me:
-
-i) pajisjen me lejen e rinovuar për përdorimin e burimit ujor; ii) fillimin e punimeve të ndërtimit të veprës, por jo më vonë se afati i fundit i vlefshmërisë së VNM-së paraprake, deri më 9.3.2024.
+2. Shoqëria “Diezela” sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Ljusa” brenda datës 29.5.2028, si dhe të informojë ERE-n, çdo tre muaj, në lidhje me fillimin e punimeve të ndërtimit të veprës, por jo më vonë se afati i fundit i vlefshmërisë së VNM-së paraprake, deri më 9.3.2024.
 
 3. Shoqëria “Diezela” sh.p.k. të depozitojë në ERE kontratën e rinovuar të qirasë të lidhur me Bashkinë Burrel brenda datës 24.1.2033 ose regjistrimin në ASHK-në përkatëse të kontratës së nënshkruar me Ministrinë e Infrastrukturës dhe Energjisë.
 
-4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
+4. ERE ka të drejtë të rishikojë këtë vendim në çdo kohë, në përputhje me plotësimin/mosplotësimin e kushteve, sipas përcaktimeve dhe afateve si më sipër.
 
 Ky vendim hyn në fuqi menjëherë. 
 
