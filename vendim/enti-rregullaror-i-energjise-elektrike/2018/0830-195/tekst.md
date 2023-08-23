@@ -4,6 +4,10 @@ Nr. 195, datë 30.8.2018
 
 MBI LICENCIMIN E SHOQËRISË “DERBI-E” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “ANTENA”, ME FUQI TË INSTALUAR 1105 kw 
 
+(ndryshuar me vendimin nr. 257, datë 23.8.2023)
+
+(i përditësuar)
+
  Në mbështetje të neneve 16, 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, neneve 4, pika 1, germa “a”; 5, pika 1, germa “a” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s, nr. 109, datë 29.6.2016, si dhe nenit 15 të “Rregullave të organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 30.8.2018, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit dhe e Monitorimit të Tregut mbi licencimin e shoqërisë “Derbi-E” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Antena”, me vendndodhje në lumin e Zallit të Shtamës, Bashkia Mat, qarku Dibër, me fuqi të instaluar 1105 kw, 
 
 konstatoi se: 
@@ -42,7 +46,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Derbi-E” sh.p.k., në aktivitetin e prodhimit të energjisë elektrike nga HEC “Antena”, me fuqi 1105 kw, për një afat 30-vjeçar.
 
-2. Shoqëria “Derbi -E” sh.p.k. në përfundim të afati 5-vjeçar të kontratës së qirasë me Bashkinë Mat, të depozitojë në ERE kontratën e rifreskuar.
+2. Shoqëria “Derbi-E” sh.p.k. duhet të depozitojë në ERE kontratën e qirasë të rinovuar me Bashkinë Mat, jo më vonë se data 7.4.2033, ose çdo dokument tjetër që rregullon pronësinë në zonën ku shtrihet projekti, si dhe lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Antena”, brenda datës 8.2.2028.
 
 3. Drejtoria e Licencimit dhe e Monitorimit të Tregut të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
