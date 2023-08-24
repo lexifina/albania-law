@@ -1,0 +1,1 @@
+2. Misioni i personelit, sipas pikës 1, të këtij vendimi, është të mbështesë autoritetet që menaxhojnë dhe drejtojnë operacionet e përballimit të situatës së krijuar nga rënia e zjarreve në muajin gusht 2023 dhe do të zhvillojë operacione kërkim-shpëtimi në ambiente urbane (USAR) si dhe dhënie ndihme mjekësore të menjëhershme.

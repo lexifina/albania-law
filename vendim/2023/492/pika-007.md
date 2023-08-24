@@ -1,0 +1,1 @@
+7. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përballohen nga buxheti i Ministrisë së Mbrojtjes, për personelin ushtarak, dhe nga Agjencia Kombëtare e Mbrojtjes Civile, për personelin civil dhe personelin e mbrojtjes nga zjarri dhe shpëtimi, për vitin 2023.

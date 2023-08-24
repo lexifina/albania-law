@@ -1,0 +1,1 @@
+1. Dërgimin e personelit të përbërë nga 38 (tridhjetë e tetë) personel të Forcave të Armatosura të Republikës së Shqipërisë, 3 (tre) personel i Agjencisë Kombëtare të Mbrojtjes Civile dhe 7 (shtatë) punonjës të Shërbimit të Mbrojtjes nga Zjarri dhe Shpëtimit të bashkive Korçë dhe Maliq, në mision humanitar, në Greqi.
