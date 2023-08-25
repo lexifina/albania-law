@@ -1,0 +1,6 @@
+3. Në kuadër të veprimtarisë së ofruesve të AFP-së, realizimi, menaxhimi dhe përdorimi i të ardhurave të gjeneruara nga veprimtaria ekonomike e ofruesit publik të arsimit dhe formimit profesional, administrohen në llogarinë ekonomike të të ardhurave të ofruesve, me sistem të plotë të menaxhimit të fondeve pranë degëve të thesarit.
+II. GENERIMI I TË ARDHURAVE
+2.1 Mënyrat e kryerjes së veprimtarisë fitimprurëse
+1. Aktiviteti për gjenerimin e të ardhurave të ofruesve publikë të AFP-së realizohet vetëm në fushat që kanë lidhje me programet dhe praktikat mësimore që ofron institucioni i AFP-së dhe realizohet vetëm në funksion të tyre. Veprimtaria fitimprurëse nuk duhet të përbëjë qëllim në vetvete.
+2. Kryeja e aktiviteteve ekonomike të ofruesve të AFP-s ë nuk duhet të cenojë në asnjë aspekt veprimtarinë normale të institucionit, në përputhje me qëllimin dhe objektivat e tij, por përkundrazi duhet të shërbejë për përmirësimin e ofertës së institucionit.
+3. Kryerja e aktiviteteve ekonomike të ofruesve të AFP-së bëhet në bazë të buxhetit të planifikuar për ofruesin dhe në përputhje me planifikimin e përgjithshëm të të ardhurave dhe mënyrën e të përdorimit të tyre, të miratuar nga bordi drejtues.

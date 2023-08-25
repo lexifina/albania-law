@@ -1,0 +1,1 @@
+4. Kryerja e veprimtarisë ekonomike të ofruesve të AFP-së konsiderohet vetëm nëse institucioni ka burime njerëzore të mjaftueshme dhe infrastrukturë të përshtatshme, që mundëson kryerjen e saj në mënyrë të përshtatshme dhe në përputhje me përcaktimet ligjore e kontraktuale.

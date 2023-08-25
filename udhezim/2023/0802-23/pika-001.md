@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim rregullimin e mënyrës së gjenerimit (realizimit) dhe të shpenzimit të të ardhurave të realizuara nga veprimtaria (aktivitetet) e ofruesve publikë të arsimit dhe formimit profesional.
