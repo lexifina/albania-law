@@ -1,0 +1,28 @@
+{
+  "qbz_id": 26479,
+  "title": "Mbi licencimin e shoqërisë “Nova Solar System” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 50 mw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "242",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2023-08-03",
+  "published": "2023-08-29",
+  "in_force": "2023-08-29",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/0e11c2944d13349f337144fc257826b5dbea0dd1706c36742f4763dd3b8eaab4.docx",
+  "source_sha256": "0e11c2944d13349f337144fc257826b5dbea0dd1706c36742f4763dd3b8eaab4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/26479",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/08/03/242",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    30829
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
