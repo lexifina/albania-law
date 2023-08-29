@@ -1,0 +1,1 @@
+1. Përjashtimin nga ndalimi i gjuetisë, duke lejuar gjuetinë e dhelprës së kuqe, për qëllime shkencore pasvaksinale, në kuadër të projektit IPA 2020, “Kontrollin dhe çrrënjosjen e sëmundjes së tërbimit - faza IV”, financuar nga Bashkimi Evropian.

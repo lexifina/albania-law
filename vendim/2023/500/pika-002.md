@@ -1,0 +1,1 @@
+2. Gjuetia e dhelprës së kuqe për marrjen e kampionëve të dhelprës kryhet në të gjithë territorin e vendit, me përjashtim të territorit të zonave të mbrojtura mjedisore, përgjatë muajve shtator, nëntor dhe dhjetor 2023. Brenda kësaj periudhe, gjuetia të kryhet vetëm në ditët e mërkurë, e enjte, e premte dhe e shtunë.

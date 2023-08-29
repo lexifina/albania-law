@@ -1,0 +1,1 @@
+5. Gjatë të gjithë kohës së kryerjes së kësaj veprimtarie në zonat ku do të kryhet gjuetia dhe marrja e kampionëve nga dhelprat, procesi kontrollohet nga strukturat vendore përgjegjëse për pyjet në njësitë e vetëqeverisjes vendore, shërbimet veterinare përkatëse dhe Policia e Shtetit.
