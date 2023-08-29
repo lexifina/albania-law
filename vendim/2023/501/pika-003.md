@@ -1,0 +1,1 @@
+3. Agjencia Shtetërore e Kadastrës, sipas përcaktimeve të ligjit nr. 111/2018, “Për kadastrën”, të pasqyrojë në kartelën e pasurisë së paluajtshme 26/144, zona kadastrale 8642 (seksioni A - “të dhënat e pasurisë”), sipërfaqet e ndërtesave të përcaktuara në pikën 2, të këtij vendimi.

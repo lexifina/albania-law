@@ -1,0 +1,1 @@
+2. Kalimin në përgjegjësi administrimi të Ministrisë së Kulturës, të ndërtesave nr. 1, nr. 4, nr. 5, nr. 6, nr. 7, nr. 8, nr. 9, sipas planit të rilevimit dhe formularit bashkëlidhur këtij vendimi, që ndodhen në pasurinë e llojit “truall”, me nr. 26/144, zona kadastrale 8642.

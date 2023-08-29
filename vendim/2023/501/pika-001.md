@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Kulturës të pronës me emërtimin “Kalaja e Lëkurësit”, Sarandë, me numër pasurie 26/144, 26/139, 26/487, zona kadastrale 8642, e llojit “truall”, me sipërfaqe totale 8211.4 (tetë mijë e dyqind e njëmbëdhjetë pikë katër) m2, sipas formularit dhe planrilevimit që i bashkëlidhen këtij vendimi.
