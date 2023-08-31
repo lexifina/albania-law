@@ -1,0 +1,29 @@
+{
+  "qbz_id": 26439,
+  "title": "Për trajtimin e veçantë të studentëve që ndjekin programin e integruar të studimit të ciklit të dytë \"Mjeksi e përgjithshme\" në institucionet publike të arsimit të lartë",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "60",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2023-07-21",
+  "published": "2023-08-16",
+  "in_force": "2023-08-31",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/0827852e249fa08e19121277968ee501e450892aa891c4f89f36a7357ea56828.docx",
+  "source_sha256": "0827852e249fa08e19121277968ee501e450892aa891c4f89f36a7357ea56828",
+  "official_record": "https://qbz.gov.al/api/v1/acts/26439",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2023/07/21/60",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    29030,
+    27593
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
