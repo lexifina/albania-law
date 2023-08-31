@@ -4,6 +4,10 @@ Nr. 167, datë 5.8.2021
 
 MBI SHQYRTIMIN E KËRKESËS PËR DEROGIM TË SHOQËRISË “HIDROPOWER ELEKTRIK” SHPK
 
+(ndryshuar me vendimin nr. 261, datë 31.8.2023)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; nenit 54, paragrafi 1 dhe nenit 55, paragrafi 1, të Kodit të Transmetimit, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 186, datë 10.11.2017, të ndryshuar me vendimin e Bordit të ERE-s nr. 129, datë 4.6.2018; neneve 16, 60 dhe 61, pika 1, të Kodit të Rrjetit mbi Kërkesat për Lidhjen me Rrjetin e Gjeneruesve, miratuar me vendimin e Bordit të ERE-s nr. 129, datë 4.6.2018; kritereve për të vendosur derogime për modulet gjeneruese të energjisë elektrike, miratuar me vendimin e Bordit të ERE-s nr. 85, datë 12.5.2020, si dhe nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 5.8.2021, pasi shqyrtoi relacionin me nr. 110/2 prot., datë 29.7.2021, të përgatitur nga drejtoritë teknike, “Mbi shqyrtimin e kërkesës për derogim të shoqërisë ‘Hidropower Elektrik’ sh.p.k.”,
 
 konstatoi se:
@@ -52,11 +56,11 @@ VENDOSI:
 
 1. Të miratojë derogimin e kërkuar nga shoqëria “Hidropower Elektrik” sh.p.k., si më poshtë vijon:
 
-a) Derogimin/pezullimin e përkohshëm të përcaktimeve të nenit 54, paragrafi 1, dhe nenit 55, paragrafi 1, të Kodit të Transmetimit, miratuar me vendimin e Bordit të ERE-s, nr. 186, datë 10.11.2017, për njësitë gjeneruese të shoqërisë “Hidropower Elektrik” sh.p.k.
+a) Derogimin/pezullimin e përkohshëm të përcaktimeve të nenit 41, pika 3, germa “d”, të “Kodit të Transmetimit”, miratuar me vendimin e Bordit të ERE-s nr. 63, datë 11.4.2022, për njësitë gjeneruese të shoqërisë “Hidropower Elektrik” sh.p.k.
 
 b) Shoqëria “Hidropower Elektrik” sh.p.k. të vijojë të operojë e lidhur me sistemin e transmetimit, duke marrë në konsideratë sa përcaktuar në këtë derogim.
 
-c) Afati i derogimit është për një periudhë 24 muaj.
+c) Afati i derogimit i përcaktuar në vendimin nr. 167, datë 5.8.2021, shtyhet për një periudhë 24 muaj deri në 5.8.2025.
 
 2. Shoqëria “Hidropower Elektrik” sh.p.k. të informojë ERE-n dhe OST sh.a. çdo 6 muaj mbi ecurinë e implementimit të teknologjisë SCADA lokale, për integrimin dhe ndërfaqen me sistemin SCADA të OST sh.a.
 
