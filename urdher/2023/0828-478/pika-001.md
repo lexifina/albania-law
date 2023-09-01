@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave për ndjekjen e procedurave, për shqyrtimin dhe miratimin e shpërblimeve të sportistëve që përfitojnë statusin e nivelit të lartë, sipas rezultateve sportive në veprimtaritë ndërkombëtare zyrtare, zëvendësministrit të Arsimit dhe Sportit, z. Endrit Hoxha.
