@@ -1,0 +1,1 @@
+7. Analiza kosto-përfitim duhet të përfshijë një vlerësim në nivel kombëtar në mënyrë që të vendoset opsioni më kosto-efektiv dhe më i dobishëm për ngrohjen ose ftohjen, për një zonë të caktuar gjeografike, me qëllim planifikimin e ngrohjes dhe ftohjes efiçente.

@@ -1,0 +1,1 @@
+1. Vlerësimi në nivel kombëtar i potencialit për përdorimin e kogjenerimit me efiçencë të lartë, si dhe të ngrohjes dhe ftohjes efiçente në sistemet qendrore realizohet nga agjencia përgjegjëse për efiçencën e energjisë.

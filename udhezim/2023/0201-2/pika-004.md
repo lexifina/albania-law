@@ -1,0 +1,1 @@
+4. Për realizimin e vlerësimit agjencia përgjegjëse për efiçencën e energjisë duhet të shfrytëzojë parimet e përgjithshme për llogaritjen e energjisë elektrike nga kogjenerimi, të paraqitura në shtojcën I dhe metodologjinë për përcaktimin e efiçencës së proceseve të kogjenerimit sipas shtojcës II, bashkëlidhur këtij udhëzimi.
