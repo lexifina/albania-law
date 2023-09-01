@@ -1,0 +1,7 @@
+# Neni 12
+Miratimi ose refuzimi i licencave
+1. Miratimi ose refuzimi i licencave të importit dhe eksportit të artikujve piroteknikë jepet brenda 60 (gjashtëdhjetë) ditëve nga data e paraqitjes së kërkesës për pajisjen me licencë, me shkrim ose nëpërmjet platformave online, të shoqëruar me dokumentacionin e plotë.
+2. Miratimi ose refuzimi i licencës së prodhimit të artikujve piroteknikë jepet brenda 60 (gjashtëdhjetë) ditëve nga data e paraqitjes së kërkesës për pajisjen me licencë, me shkrim ose nëpërmjet platformave online, të shoqëruar me dokumentacionin e plotë.
+Miratimi i testimit të artikujve piroteknikë pezullon afatet e shqyrtimit të subjektit për licencën e prodhimit.
+3. Miratimi ose refuzimi i autorizimeve për importin, eksportin, transitin e artikujve piroteknikë jepet brenda 45 (dyzet e pesë) ditëve nga data e paraqitjes së kërkesës për pajisjen me autorizim, me shkrim ose nëpërmjet platformave online, të shoqëruar me dokumentacionin e plotë.
+4. Për çdo ndryshim që mund të bëjë operatori ekonomik, pas marrjes së licencës në kushtet dhe kriteret e përcaktuara në këtë vendim, duhet të njoftojë, brenda 10 (dhjetë) ditëve pune, Autoritetin e Kontrollit Shtetëror të Eksporteve. Ndryshimet e kërkuara duhet të miratohen nga Autoriteti i Kontrollit Shtetëror të Eksporteve me të njëjtën procedurë shqyrtimi si ajo e miratimit të licencës. Në rast se ndryshimet e kërkuara nuk përputhen me kushtet dhe kriteret e përcaktuara në këtë vendim, licenca apo autorizimi i lëshuar shfuqizohet.
