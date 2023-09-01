@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i tregut për shitjet me shumicë dhe pakicë i produkteve ushqimore (Tirana Agrikulturë)”.
