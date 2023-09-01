@@ -1,0 +1,1 @@
+2. Agjencisë Kombëtare të Planifikimit të Territorit, në buxhetin e miratuar për vitin 2023, t’i shtohet fondi prej 23 705 000 (njëzet e tre milionë e shtatëqind e pesë mijë) lekësh, në zërin “Shpenzime korrente”, për përballimin e shpenzimeve për realizimin e procedurave të prokurimit, sipas pikës 1, të këtij vendimi.

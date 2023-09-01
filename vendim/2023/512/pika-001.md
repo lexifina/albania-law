@@ -1,0 +1,1 @@
+1. Ngarkimin e Agjencisë Kombëtare të Planifikimit të Territorit (AKPT), si organ qendror blerës, për realizimin e konkursit të projektimit për projektidetë e zhvillimit të Tirana Expo, një hapësirë fleksibël për ekspozita, panaire, koncerte, takime, evenimente, rekreacion dhe logjistikë.
