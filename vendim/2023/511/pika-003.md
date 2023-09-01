@@ -1,0 +1,1 @@
+3. Titullarët e institucioneve kërkuese, të cilët shprehin interes për emërimin e punonjësve të Gardës së Republikës në strukturat e tyre, paraqesin kërkesën me shkrim pranë drejtorit të përgjithshëm të Gardës së Republikës, duke specifikuar kriteret dhe kualifikimin që duhet për të kryer detyrën.

@@ -1,0 +1,1 @@
+4. Drejtori i përgjithshëm i Gardës së Republikës, brenda 10 (dhjetë) ditëve nga marrja e kërkesës, për çdo funksion të kërkuar nga institucionet kërkuese, përzgjedh kandidaturën që plotëson kriteret e kërkuara dhe e përcjell atë tek institucioni kërkues, së bashku me dokumentacionin që vërteton kualifikimin e tij për pozicionin e propozuar.

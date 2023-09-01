@@ -1,0 +1,1 @@
+9. Punonjësi i transferuar pranë strukturave/institucioneve të tjera me gradë, në varësi të ministrisë, sipas këtij vendimi, në përfundim të periudhës së qëndrimit në detyrë, ka të drejtë të rikthehet në strukturat e Gardës në një funksion, në përputhje me gradën që mban aktualisht.

@@ -1,0 +1,1 @@
+8. Drejtori i përgjithshëm i Gardës së Republikës ka të drejtë që për nevoja pune të kërkojë rikthimin e punonjësit në Gardën e Republikës, para plotësimit të afatit të transferimit, por jo më parë se 6 (gjashtë) muaj nga transferimi.

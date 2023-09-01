@@ -1,0 +1,1 @@
+1. Punonjësit e Gardës së Republikës mund të transferohen, për arsye shërbimi, në struktura të tjera me gradë, në varësi të ministrisë përgjegjëse për rendin dhe sigurinë publike, me kërkesën e këtyre të fundit.
