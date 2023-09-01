@@ -1,0 +1,1 @@
+2. Kur punonjësi nuk ka në ngarkim persona të tjerë familjarë, me të cilët zhvendoset jashtë vendbanimit të përhershëm, i paguhet qiraja e banesës për sipërfaqe banimi deri në 30 m² neto. Për çdo person familjar shtesë, sipërfaqja neto shtohet me 10 m2.

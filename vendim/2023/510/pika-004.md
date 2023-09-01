@@ -1,0 +1,1 @@
+4. Garda e Republikës bën kompensimin e qirasë së banesës së punonjësit, përkundrejt paraqitjes së kontratës së noterizuar të qirasë, sipas legjislacionit përkatës në fuqi. Në kontratë përcaktohet qartë adresa ku ndodhet ndërtesa, sipërfaqja në metër katror dhe vlera mujore e qirasë së objektit.

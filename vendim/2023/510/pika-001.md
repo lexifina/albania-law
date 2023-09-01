@@ -1,0 +1,1 @@
+1. Përcaktimin e masës ditore të përfitimit dhe procedurës së kompensimit për strehim për punonjësit e nivelit të mesëm e të lartë të Gardës së Republikës, të cilët emërohen ose transferohen në detyrë jashtë vendbanimit të përhershëm dhe nuk u sigurohet nga Garda mjedisi për akomodim.

@@ -1,0 +1,1 @@
+5. Masa ditore e përfitimit të kompensimit për strehim do të jetë sa 1/30 e vlerës minimale të qirasë mujore, sipas përcaktimeve në vendimin nr. 469, datë 3.6.2015, të Këshillit të Ministrave, “Për përcaktimin e vlerës minimale të çmimit të referencave të qirave të ndërtesave për qëllime tatimore”.
