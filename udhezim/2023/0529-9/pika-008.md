@@ -1,0 +1,1 @@
+8. AEE raporton në Ministritë e Infrastrukturës dhe Energjisë për çdo vit, para datës 30 shtator, të gjithë informacionin e vënë në dispozicion dhe aktivitetet që ka ndërmarrë për zbatimin e këtij udhëzimi.
