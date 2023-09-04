@@ -1,0 +1,1 @@
+1. Miratimin e përmbajtjes dhe modeleve të akteve për kundërvajtjet në pyje, si pjesë e dokumenteve standard, për inspektimin on-line nga strukturat përgjegjëse inspektuese në nivel qendror, rajonal dhe vendor, sipas tekstit bashkëlidhur këtij urdhri.
