@@ -1,0 +1,26 @@
+{
+  "qbz_id": 26447,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr.53/2019 \"Për Akademinë e Shkencave në Republikën e Shqipërisë\"",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "69",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2023-07-21",
+  "published": "2023-08-21",
+  "in_force": "2023-09-05",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/b3c5ed79edea63a18d41132ef604626ba71dad2f52682fe9bfb3c2516453a1e7.docx",
+  "source_sha256": "b3c5ed79edea63a18d41132ef604626ba71dad2f52682fe9bfb3c2516453a1e7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/26447",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2023/07/21/69",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
