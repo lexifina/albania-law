@@ -1,0 +1,6 @@
+# Neni 20
+Ndryshimi i të dhënave të licencës
+1. Gjatë ushtrimit të veprimtarisë, mbajtësi i licencës është i detyruar të njoftojë Agjencinë për të gjitha ndryshimet dhe devijimet nga masat e planifikuara më herët në planin e zhvillimit të biznesit, ndryshimet në dokumentacionin e paraqitur në momentin e paraqitjes së kërkesës për pajisje me licencë dhe ndryshimin e të dhënave që kanë të bëjnë me ndryshimin e subjekteve të treta apo përfundimin e marrëveshjes në lidhje me aktivitetet që do të ushtrohen pjesërisht apo tërësisht nga subjektet e treta.
+2. Subjekti i licencuar i drejtohet Agjencisë me një informacion me shkrim, brenda 10 ditëve pune nga momenti që ka ndodhur ndryshimi, duke përshkruar çdo fakt e rrethanë që ka sjellë ndryshime apo devijime nga planifikimi.
+3. Agjencia jep ose refuzon miratimin për këto ndryshime brenda 1 muaji nga paraqitja e plotë e informacionit, mbështetur në dokumentacionin e përcaktuar me akt nënligjor nga Agjencia dhe i propozon masa konkrete ministrit përgjegjës për shëndetësinë.
+4. Ministri përgjegjës për shëndetësinë, me marrjen e propozimit të Agjencisë, nëse konstaton se ndryshimet lidhen me aktivitetet e përcaktuara në licencë, miraton ndryshimet e licencës, të cilat publikohen në të njëjtën mënyrë si publikimi i licencës.
