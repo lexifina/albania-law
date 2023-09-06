@@ -24,7 +24,7 @@ e) Niveli përkatës në KSHK, i shprehur me shifra arabe dhe siglën KSHK-së. 
 ë) Emri, atësia (në rastet kur nuk ka atësi në certifikatën e lindjes, ajo lihet bosh) dhe mbiemrin e studentit para martesës si dhe në kllapa mbiemri që mban në momentin e diplomimit (nëse është i ndryshëm);
 f) Vendi dhe data e lindjes;
 g) Data e lëshimit të diplomës ose certifikatës;
-gj) Emri, mbiemri dhe firma e rektorit dhe të drejtuesit të njësisë kryesore që plotësohen me shkrim dore. Në rastin e një Kolegji Profesional të Lartë ose kur organizohet si njësi kryesore pranë një IAL-je vendoset emri, mbiemri dhe firma e rektorit dhe e drejtuesit të njësisë bazë që plotësohen me shkrim dore.
+gj) Emri dhe mbiemri i rektorit dhe i drejtuesit të njësisë kryesore që plotësohen me shtypshkrim dhe nënshkrimi i rektorit dhe i drejtuesit të njësisë kryesore që plotësohen me shkrim dore. Në rastin e një Kolegji Profesional të Lartë ose kur organizohet si njësi kryesore pranë një IAL-je vendoset emri dhe mbiemri i rektorit dhe i drejtuesit të njësisë bazë që plotësohen me shtypshkrim dhe nënshkrimi i rektorit dhe i drejtuesit të njësisë bazë që plotësohen me shkrim dore.
 h) Numri i matrikullimit të studentit. Kjo pikë nuk aplikohet për programet e studimit të formimit të vazhduar/ kualifikimit, për të nxënit gjatë gjithë jetës, të ofruara nga IAL-të;
 i) Data e regjistrimit të studentit në institucionin që lëshon diplomën për programin përkatës të studimit;
 j) Data e përfundimit të studimeve (të shlyerjes së detyrimeve akademike, mbrojtje diplome/provim përfundimtar);
