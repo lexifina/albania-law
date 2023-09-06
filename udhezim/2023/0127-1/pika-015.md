@@ -1,0 +1,1 @@
+15. Për përmbushjen e detyrave të saj, AEE-ja mbledh të dhëna lidhur me konsumin e energjisë nga persona ose individë nga organe të tjera publike nëse ato kanë autoritetin ligjor për mbledhjen e këtyre të dhënave.

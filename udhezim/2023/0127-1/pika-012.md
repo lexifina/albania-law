@@ -1,0 +1,1 @@
+12. Për sektorët rezidencialë, bujqësisë dhe transportit, AEE-ja, në bashkëpunim me INSTAT-in dhe me mbështetjen e autoriteteve vendore, ndërmerr kryerjen e sondazheve për mbledhjen e të dhënave për konsumin e energjisë nga konsumatorët në këta sektorë.

@@ -1,0 +1,1 @@
+14. Të dhënat për konsumin e energjisë nga institucionet dhe entitetet e Ministrisë së Mbrojtjes dhe forcave të armatosura, mblidhen nga AEE-ja në koordinim me ministrin e Mbrojtjes dhe në përputhje me dispozitat e legjislacionit specifik në fuqi.

@@ -1,0 +1,1 @@
+1. Agjencia për Efiçencën e Energjisë (AEE) siguron informacionin dhe të dhënat, lidhur me konsumin e energjisë në vend dhe kostot e tyre përkatëse, në përputhje me aktet ligjore në fuqi dhe dispozitat e këtij udhëzimi.
