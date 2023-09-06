@@ -1,0 +1,1 @@
+4. Konsumatorët e mëdhenj të energjisë, që kanë certifikuar sistemin e tyre të menaxhimit të energjisë sipas standardit ISO 50001, përdorin formatin e shtojcës 2, për të raportuar arritjet në reduktimin e energjisë.
