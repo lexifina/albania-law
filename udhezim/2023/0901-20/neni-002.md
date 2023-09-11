@@ -1,0 +1,11 @@
+# Neni 2
+Përgjegjësitë e institucioneve
+1. Ministria e Arsimit dhe Sportit ka përgjegjësitë si më poshtë:
+a) bashkëpunon me Universitetin e Mjekësisë, Tiranë për të mundësuar kalimin zyrtarisht ministrisë përgjegjëse për shëndetësinë, të diplomës dhe suplementit të saj të studentit të sapodiplomuar në programin e ciklit të dytë të studimeve “Mjekësi e Përgjithshme”, që ka nënshkruar marrëveshjen me Universitetin e Mjekësisë Tiranë, ministrinë përgjegjëse për arsimin dhe ministrinë përgjegjëse për shëndetësinë;
+b) bashkëpunon me Universitetin e Mjekësisë, Tiranë për t’i kaluar zyrtarisht Urdhrit të Mjekëve një kopje të njehsuar të diplomës dhe suplementit të saj të studentit që ka nënshkruar marrëveshjen, me qëllim pajisjen me lejen e ushtrimit të profesionit të mjekut, bazuar në dispozitat ligjore në fuqi.
+2. Ministria e Shëndetësisë dhe Mbrojtjes Sociale ka përgjegjësitë si më poshtë:
+a) vlerëson nevojat, identifikon dhe përditëson çdo vit dhe në mënyrë dinamike, listën e vendeve vakante për pozicionin “mjek i përgjithshëm” në institucionet shëndetësore, me qëllim punësimin me prioritet të mjekëve të sapodiplomuar;
+b) organizon procedurën për njoftimin për vendet e lira të punës dhe punësimin e këtyre mjekëve, sipas nevojave të sistemit shëndetësor;
+c) pas procedurës për njoftimin e emërimit të mjekut, dërgon diplomën me suplementin në institucionin shëndetësor ku punësohet, për t’u administruar në dosjen personale të mjekut, sipas dispozitave ligjore në fuqi;
+d) dërgon çdo vit pranë Urdhrit të Mjekëve listën e studentëve që kanë nënshkruar marrëveshjen me Universitetin e Mjekësisë Tiranë, ministrinë përgjegjëse për arsimin dhe ministrinë përgjegjëse për shëndetësinë, sipas afateve të parashkruara në këtë marrëveshje mes palëve, që hyn në fuqi pas licencimit të tyre si mjek dhe fillimit të punësimit me institucionin shëndetësor sipas nevojave të sistemit shëndetësor, si dhe listën e mjekëve të punësuar bazuar në këtë marrëveshje;
+e) me përfundimin e angazhimit të punësimit të mjekut, për periudhën kohore të parashikuar në marrëveshjen mes palëve, institucioni shëndetësor i dorëzon atij diplomën dhe suplementin origjinal, dhe administron në dosjen e tij individuale kopjen e njehsuar të këtij dokumentacioni.
