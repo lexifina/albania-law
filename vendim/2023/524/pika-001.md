@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i linjës kryesore dhe shpërndarëse të furnizimit me ujë të fshatrave ’Velabisht-Statrovë-Remanicë-Veterik’”.
