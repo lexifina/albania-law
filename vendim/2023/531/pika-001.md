@@ -1,0 +1,1 @@
+1. Krijimin e shoqërisë aksionare, me kapital 100% shtetëror, me emërtimin Operatori i Blerjeve të Përqendruara (në vijim “OBP”), për ofrimin e shërbimeve të prokurimeve për autoritetet/entet kontraktore, në përputhje me kërkesat e legjislacionit përkatës në fuqi.

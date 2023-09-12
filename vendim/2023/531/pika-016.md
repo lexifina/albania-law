@@ -1,0 +1,1 @@
+16. Shoqëria aksionare financohet nga të ardhurat e veta, të ardhura nga shërbimet ndaj të tretëve, të konsulencёs, nga ofrimi i shërbimeve dhe burime të tjera të ligjshme. Të ardhurat e shoqërisë aksionare përdoren për ushtrimin e veprimtarisë së saj.

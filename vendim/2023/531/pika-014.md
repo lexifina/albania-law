@@ -1,0 +1,1 @@
+14. Mënyra e organizimit dhe komunikimit institucional mes OBP sh.a. dhe autoriteteve kontraktore rregullohet në rregulloren e miratuar nga OBP sh.a., sipas parashikimit të legjislacionit të prokurimit publik në fuqi.

@@ -1,0 +1,1 @@
+10. Me qëllim realizimin me efektivitet dhe efektshmëri të procedurave të prokurimit, drejtori i OBP sh.a., mund të marrë këshilltarë të jashtëm apo ndihmës të jashtëm, në përputhje me parashikimet e legjislacionit të fushës në fuqi.

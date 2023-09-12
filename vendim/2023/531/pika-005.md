@@ -1,0 +1,1 @@
+5. OBP sh.a. është organ qendror blerës, misioni i të cilit konsiston në kryerjen e procedurave të përqendruara të prokurimit për mallra, punë, shërbime, të fondeve buxhetore me vlerë mbi kufirin monetar të prokurimeve me vlera të vogla, në emër dhe për llogari të Kryeministrisë, ministrive, institucioneve në varësi të Kryeministrit e të ministrave të linjës.

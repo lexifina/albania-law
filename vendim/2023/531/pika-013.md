@@ -1,0 +1,1 @@
+13. Autoritetet/entet kontraktore duhet t’i dërgojnë OBP sh.a., si organ qendror blerës, të dhënat teknike e sasiore dhe të dhëna për fondin përkatës për mallrat e shërbimet përkatëse, jo më vonë se 15 (pesëmbëdhjetë) ditë nga miratimi i ligjit për buxhetin për vitin pasardhës.

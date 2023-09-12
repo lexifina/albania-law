@@ -1,0 +1,1 @@
+22. Me mbylljen e veprimtarisë së ASHPP-së brenda 30 (tridhjetë) ditëve, inventari ekonomik, dokumentar dhe arkivi elektronik në Sistemin e Prokurimit Elektronik transferohet pranë OBP sh.a.-së. Për punonjësit aktualë të Agjencisë Shtetërore të Prokurimeve të Përqendruara, në rastin e mbylljes së institucionit, zbatohen dispozitat e Kodit të Punës.

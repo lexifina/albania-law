@@ -1,0 +1,1 @@
+12. OBP sh.a., me kërkesë të një apo të disa autoriteteve/enteve kontraktore, zhvillon procedura prokurimi edhe për punë/mallra/shërbime, të cilat nuk janë listuar në pikën 11, të këtij vendimi, në rastet kur autoriteti/enti kontraktor kërkues nuk ka kapacitete apo njohuri të mjaftueshme për realizimin e një procedure prokurimi.
