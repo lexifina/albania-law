@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës (DAMT) në Këshillin e Qarkut Vlorë pasqyron në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë urbane/truall”, për sipërfaqen ndërtimore të pasurisë me nr. 1, zona kadastrale 2264, Bashkia Finiq, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi.
