@@ -1,0 +1,11 @@
+2. Institucioni i arsimit të lartë publik, në përllogaritjen e kostos së studimit të programit “Mjekësi e përgjithshme”, merr në konsideratë kostot direkte dhe ato indirekte, sipas klasifikimit të mëposhtëm:
+a) Kostot direkte përfaqësohen nga të gjitha shpenzimet, që parashikohen të kryhen në një vit buxhetor për ofrimin e shërbimit të mësimdhënies dhe kërkimit shkencor e që lidhen drejtpërsëdrejti me treguesit, si më poshtë vijon:
+i. Numrin e kuotave të certifikuara nga ministria përgjegjëse për arsimin, në vitin përkatës akademik të studimeve;
+ii. Numrin e studentëve për një grup mësimor, sipas përcaktimeve në legjislacionin në fuqi;
+iii. Numrin e personelit akademik, të personelit ndihmësakademik, të personelit administrativ e të punonjësve të shërbimeve mbështetëse të miratuar me vendim të organeve kolegjiale të IAL-së;
+iv. Shpenzimet (bruto) për personelin: paga, kontributet e sigurimeve shoqërore dhe shëndetësore, që paguan punëdhënësi për personelin akademik, ndihmësakademik, administrativ e atë të shërbimeve mbështetëse, si dhe shpërblime apo ndihma financiare, që përballohen nga fondi i veçantë, sipas kuadrit ligjor në fuqi;
+v. Shpenzimet për bursa dhe trajtime të tjera për studentët.
+b) Kostot indirekte përfshijnë shpenzimet kapitale dhe shpenzime të tjera operative, që parashikohen të kryhen nga institucioni i arsimit të lartë, si më poshtë vijon:
+i. Shpenzime kapitale për ndërtime dhe rehabilitime të godinave, krijimin e infrastrukturës kapitale për realizimin e procesit të mësimdhënies e të mësimnxënies, përfshirë edhe infrastrukturën mësimore-didaktike dhe atë të kërkimit shkencor;
+ii. Shpenzime operative për sigurimin e jetës së studentëve në shoqëritë e sigurimit, sigurimin e infrastrukturës fizike (godinave) dhe të bazës laboratorike e mësimore-didaktike, shpenzime për energjinë elektrike, ujin, ruajtjen, mirëmbajtjen dhe pastrimin e objekteve;
+iii. Shpenzime për kancelari, karburant për ngrohje dhe mjete transporti, shpenzime për shërbime bankare, shpenzime për qira, pritje-përcjellje, si dhe shpenzime të tjera të institucionit të arsimit të lartë, të papërfshira më lart e që janë në funksion të shërbimit të mësimdhënies e të mësimnxënies dhe të kërkimit shkencor.

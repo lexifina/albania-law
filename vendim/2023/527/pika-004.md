@@ -1,0 +1,1 @@
+4. Institucioni i arsimit të lartë publik, i cili ofron program studimi të integruar të ciklit të dytë në “Mjekësi e përgjithshme”, bazuar në metodologjinë e parashikuar më sipër, përllogarit, çdo vit, në mënyrë të detajuar, koston e plotë për këtë program studimi.

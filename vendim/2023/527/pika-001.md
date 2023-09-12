@@ -1,0 +1,1 @@
+1. Kostoja e studimeve në programin e integruar të studimit të ciklit të dytë “Mjekësi e përgjithshme” në institucionet publike të arsimit të lartë (IAL), të cilat ofrojnë këtë program studimi, si dhe çdo mbështetje tjetër për studentët e këtij programi, të llogaritet sipas metodologjisë së përcaktuar në këtë vendim.
