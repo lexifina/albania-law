@@ -1,0 +1,2 @@
+2. Ngarkohen për zbatimin e këtij urdhri, Drejtoria e Politikave Veterinare në Drejtorinë e Përgjithshme të Zhvillimit në Fushën e Sigurisë Ushqimore, Veterinarisë, Mbrojtjes së Bimëve dhe Peshkimit në Ministrinë e Bujqësisë dhe Zhvillimit Rural, Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve dhe çdo njësi private dhe shtetërore e licencuar për aktivitetet e klinikës apo spitalit veterinar në territorin e Republikës së Shqipërisë.
+Ky urdhër hyn në fuqi 6 muaj pas botimit në Fletoren Zyrtare.
