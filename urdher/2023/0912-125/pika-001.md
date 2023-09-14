@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Departamentit të Administratës Publike, z. Ened Kërçini, drejtor i Drejtorisë së Programeve të Reformës në Administratën Publike, në Departamentin e Administratës Publike.
