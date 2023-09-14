@@ -1,0 +1,1 @@
+5. Programet mësimore të lëndëve të specialitetit për klasat e arsimit të orientuar në arsimin bazë, hartohen nga Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar dhe miratohen nga ministri përgjegjës për arsimin.

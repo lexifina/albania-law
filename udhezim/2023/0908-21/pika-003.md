@@ -1,0 +1,1 @@
+3. Nxënësit që pranohen në klasat e arsimit të orientuar të arsimit bazë, kurrikulën e përgjithshme e zhvillojnë të përbashkët me nxënësit e tjerë, ndërsa lëndët e specialitetit i zhvillojnë të veçanta.

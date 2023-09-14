@@ -1,0 +1,1 @@
+7. Shkollat e arsimit bazë ku krijohen klasa të arsimit të orientuar miratohen nga Drejtoria Rajonale e Arsimit Parauniversitar (DRAP), pas propozimit të Zyrës Vendore të Arsimit Parauniversitar (ZVAP), sipas rregullave të përcaktuara në këtë udhëzim.

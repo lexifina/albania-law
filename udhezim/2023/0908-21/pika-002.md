@@ -1,0 +1,1 @@
+2. Shkollat e arsimit bazë, ku krijohen klasa të arsimit të orientuar, duhet të plotësojnë kushtet infrastrukturore, personelin mësimor të specializuar, si dhe bazën materiale dhe didaktike të nevojshme për zhvillimin e mësimit në klasën e arsimit të orientuar, sipas legjislacionit në fuqi.

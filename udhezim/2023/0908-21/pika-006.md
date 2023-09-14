@@ -1,0 +1,1 @@
+6. Norma mësimore për mësuesit e lëndëve të specialitetit përcaktohet sipas udhëzimit përkatës të ministrit përgjegjës për arsimin, për numrin e nxënësve për klasë dhe ngarkesën mësimore të punonjësve arsimorë në institucionet e arsimit parauniversitar.
