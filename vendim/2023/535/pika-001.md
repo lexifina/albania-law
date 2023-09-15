@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Impianti i trajtimit të ujërave të ndotura Himarë dhe largimi i ujërave të trajtuara në det për ITUN Himarë”.

@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, pronë private, që shpronësohet, kompensohet në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për pasurinë e llojit “godinë”, me vlerë të përgjithshme shpronësimi, prej 783 000 (shtatëqind e tetëdhjetë e tre mijë) lekësh.
