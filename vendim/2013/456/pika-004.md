@@ -1,4 +1,4 @@
-4. Sektori i shëndetit mendor dhe adiktologjisë në Ministrinë e Shëndetësisë, shërben si sekretariat teknik i këtij Komiteti dhe kryen këto detyra:
+4. Sektori që mbulon çështje të shëndetit mendor në ministrinë përgjegjëse për shëndetësinë, shërben si sekretariat teknik i këtij Komiteti dhe kryen këto detyra:
 a) merr të gjitha masat organizative për përgatitjen e mbledhjeve të Komitetit;
 b) informon me shkrim të gjithë anëtarët e Komitetit për mbledhjet e ardhshme dhe u dërgon të gjitha dokumentet;
 c) mban procesverbalin e mbledhjeve;
