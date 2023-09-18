@@ -1,0 +1,1 @@
+2. Urdhri nr. 467, datë 25.7.2023, “Për importin e kafshëve të llojit derra, produkteve, nënprodukteve të tyre, materialit biologjik, embrioneve, mishit dhe nënprodukteve të tyre nga Italia”, shfuqizohet.
