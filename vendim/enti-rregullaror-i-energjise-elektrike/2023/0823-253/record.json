@@ -1,0 +1,28 @@
+{
+  "qbz_id": 26573,
+  "title": "Mbi licencimin e shoqërisë “Erseka Solar Park 2” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 20 MW (AC)",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "253",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2023-08-23",
+  "published": "2023-09-18",
+  "in_force": "2023-09-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/6f57704bce0c3f28c13284e8cf4162fa1cd5e6adc2c2149971023b4cf021b97e.docx",
+  "source_sha256": "6f57704bce0c3f28c13284e8cf4162fa1cd5e6adc2c2149971023b4cf021b97e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/26573",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/08/23/253",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    27922
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
