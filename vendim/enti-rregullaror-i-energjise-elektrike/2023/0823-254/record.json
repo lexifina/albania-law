@@ -1,0 +1,29 @@
+{
+  "qbz_id": 26574,
+  "title": "Mbi licencimin e shoqërisë “G.S.K” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 2 MW",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "254",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2023-08-23",
+  "published": "2023-09-18",
+  "in_force": "2023-09-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/bf26b786e9505a7d2edadb7cd0f26fa8a0ef81db897dcd42250487b296c36a12.docx",
+  "source_sha256": "bf26b786e9505a7d2edadb7cd0f26fa8a0ef81db897dcd42250487b296c36a12",
+  "official_record": "https://qbz.gov.al/api/v1/acts/26574",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/08/23/254",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    62902,
+    28904
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
