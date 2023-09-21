@@ -1,0 +1,7 @@
+# Neni 30
+Dokumentimi dhe ruajtja e të dhënave
+1. Shoqëria administruese krijon procedura të qarta dhe transparente për ruajtjen e të dhënave dhe dokumenteve në lidhje me veprimtarinë e saj dhe fondeve nën administrim.
+2. Procedura për ruajtjen e të dhënave dhe dokumenteve përfshin rregulla të qarta, që sigurojnë se çdo transaksion të mund të gjurmohet dhe të dokumentohet që nga fillimi dhe dokumentacioni përkatës të vërtetojë se aktivet e çdo fondi administrohen në përputhje me dispozitat ligjore në fuqi, si dhe garantojnë mbrojtje për të dhënat individuale të anëtarit.
+3. Shoqëria administruese është e detyruar të organizojë veprimtarinë e saj dhe të mbajë dokumentet dhe të dhëna të përditësuara në mënyrë që të mundësojë që puna individuale e kryer për llogari të saj ose për llogari të një fondi të kontrollohet në çdo kohë për t’i mundësuar Autoritetit mbikëqyrje efektive në përputhje me dispozitat e këtij ligji dhe rregulloreve të miratuara në zbatim të tij.
+4. Shoqëria administruese duhet të mbajë të ndarë të dhënat dhe dokumentet për fondin e pensionit nga të dhënat dhe dokumentet për shoqërinë administruese.
+5. Shoqëria administruese është përgjegjëse për humbje apo për pasaktësi të të dhënave dhe dokumenteve të veprimtarisë së saj apo të fondeve nën administrim. Ruajtja e dokumenteve bëhet në mënyrë të tillë që, kur kërkohet, të mund të riprodhohet në formë të lexueshme dhe të qartë.

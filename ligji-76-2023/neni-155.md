@@ -1,0 +1,9 @@
+# Neni 155
+Komisionet dhe tarifat
+1. Për të mbuluar kostot e fondit të pensionit, në përputhje me prospektin dhe çdo rregull tjetër të fondit, shoqëria administruese mund të zbatojë komisione vetëm në rastet dhe mënyrat e mëposhtme:
+a) komision vjetor për administrimin e fondit të pensionit duke zbritur çdo vit një përqindje të caktuar të vlerës neto të aktiveve të administruara, përfshirë tarifat dhe kostot që i paguhen depozitarit, kostot e auditimit vjetor, tarifat e licencimit ose tarifa të tjera që i paguhen Autoritetit, e të tjera.
+b) komision transferimi nëse aktivet transferohen nga anëtarët e një fondi pensioni në një fond pensioni të ri deri në 0,5% të shumës së transferuar.
+2. Shoqëria administruese është e detyruar të deklarojë shumën totale të kostove dhe komisioneve të parashikuara në paragrafin 1 të këtij neni dhe t’i publikojë në raportin vjetor të audituar të fondit të pensionit.
+3. Të gjitha komisionet e zbatuara nga shoqëria administruese duhet të përfshihen në prospekt, si dhe në kontratën e anëtarësimit të fondit, të listuara në mënyrë të detajuar dhe t’i bëhen të njohura çdokujt që kërkon të bëhet anëtar në fondin e pensionit. Shoqëria administruese duhet të përshkruajë qartë komisionet që do të aplikojë dhe t’i paraqesë ato në formë lehtësisht të kuptueshme nga çdo individ. Kostoja totale vjetore që do t’u zbritet aktiveve të fondit të pensionit, sipas pikës 1, shkronja “a”, nuk mund të kalojë në asnjë rast 2.5 % të vlerës neto të aktiveve të fondit.
+4. Çdo rritje e komisioneve të zbatuara nga shoqëria administruese brenda kufirit të përcaktuar më sipër duhet t’u njoftohet anëtarëve të paktën 6 (gjashtë) muaj përpara se ato të hyjnë në fuqi.
+5. Autoriteti nxjerr rregullore që përcaktojnë më hollësisht elementet dhe nivelet e tarifave dhe kostos, si dhe mënyrën e llogaritjes së tyre.

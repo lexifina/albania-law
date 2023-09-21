@@ -1,0 +1,3 @@
+# Neni 203
+Dispozitë kalimtare
+Sponsori ose punëdhënësi, i cili në datën e hyrjes në fuqi të këtij ligji derdh kontribute për punëmarrësit e tij në fondet e pensionit vullnetar, brenda 18 muajve nga data e hyrjes në fuqi të këtij ligji mund të vendosë të shkëputet nga fondi me pjesëmarrje të hapur dhe të krijojë një fond pensioni me pjesëmarrje të mbyllur brenda të njëjtës shoqëri ose në një shoqëri tjetër administruese. Për të gjithë anëtarët, që transferohen brenda kësaj periudhe nga fondi me pjesëmarrje të hapur në fondin me pjesëmarrje të mbyllur, shoqëria administruese nuk aplikon tarifë transferimi.

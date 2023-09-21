@@ -1,0 +1,5 @@
+# Neni 74
+Pagesa e pensionit përmes shoqërisë së sigurimit të jetës
+1. Nëse anëtari i fondit të pensionit, me plotësimin e kushteve të parashikuara në nenin 73, pika 1, të këtij ligji, vendos të blejë një kontratë të sigurimit të jetës në formë “anuiteti” nga një shoqëri sigurimi jete, vlera neto e aktiveve në llogarinë e anëtarit të fondit do të transferohet te shoqëria e sigurimit të jetës sipas opsionit të zgjedhur nga anëtari i fondit.
+2. Shoqëria administruese njofton shoqërinë e sigurimit të jetës për kërkesën e anëtarit të fondit dhe merr një konfirmim nga kjo e fundit për blerjen e kontratës së sigurimit të jetës në formë “anuiteti”. Shoqëria e sigurimit të jetës që ofron shërbimin e pagesës së pensionit, përveç dispozitave të këtij ligji, duhet të zbatojë gjithashtu dispozitat e ligjit që rregullojnë krijimin dhe veprimtarinë e shoqërive të sigurimit.
+3. Vlera neto në llogarinë e anëtarit të fondit të pensionit, e transferuar te shoqëria e sigurimit të jetës, sipas paragrafit 1 të këtij neni, duhet të përdoret vetëm për qëllim të blerjes së një kontrate të sigurimit të jetës në formë “anuiteti” të lëshuar nga një shoqëri e sigurimit të jetës.

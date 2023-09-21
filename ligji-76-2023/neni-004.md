@@ -1,0 +1,5 @@
+# Neni 4
+Parimet e përgjithshme të funksionimit të shoqërisë administruese
+1. Shoqëria administruese mbledh dhe investon aktivet e fondeve të pensionit privat në përputhje me dispozitat e këtij ligji, si dhe në përputhje me parimin e shpërndarjes së rrezikut, për ofrimin e përfitimeve të pensionit për personat që anëtarësohen në fondin e pensionit privat.
+2. Shoqëria administruese, gjatë pranimit të anëtarëve të rinj dhe administrimit të aktiveve të fondit të pensionit privat, vepron në mënyrë të ndershme, të drejtë dhe profesionale në përputhje me interesin më të mirë të anëtarit ose të anëtarëve të mundshëm. Shoqëria administruese siguron se çdo këshillë për investim vlerësohet e përshtatshme përpara se t’i jepet anëtarit ose anëtarëve të mundshëm.
+3. Shoqëria administruese ndërmerr të gjithë hapat e nevojshëm për arritjen e rezultateve më të mira të mundshme në administrimin e aktiveve të fondit të pensionit, përfshirë, të paktën, çmimin e realizimit, koston, shpejtësinë, probabilitetin e realizimit dhe probabilitetin e shlyerjes, si dhe çdo faktor tjetër të vlerësuar të nevojshëm për administrimin e aktiveve të fondit të pensionit.

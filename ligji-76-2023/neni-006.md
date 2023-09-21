@@ -1,0 +1,5 @@
+# Neni 6
+Përdorimi i emrit “Shoqëri administruese e fondit të pensionit privat”
+1. Emri i shoqërisë administruese duhet të përfshijë fjalët “Shoqëri administruese e fondit të pensionit privat”. Nëse shoqëria nuk licencohet si shoqëri administruese, ajo duhet që brenda 1 (një) muaji të ndryshojë emërtimin “Shoqëri administruese e fondit të pensionit privat”.
+2. Emri i shoqërisë administruese nuk duhet të përmbajë fjalë të cilat mund të keqorientojnë anëtarët aktualë ose të ardhshëm apo cilindo tjetër dhe emri nuk duhet të bëjë referenca të drejtpërdrejta ose të tërthorta, që tregojnë se investimet janë të garantuara.
+3. Emërtimi “Shoqëri administruese e fondeve të pensionit privat” ose çdo emërtim i ngjashëm me këtë përdoret në Republikën e Shqipërisë vetëm nga subjekte që kanë licencën përkatëse të lëshuar nga Autoriteti në zbatim të këtij ligji ose subjekte që kanë licencë të lëshuar nga një autoritet i vendit anëtar në zbatim të një ligji të barasvlershëm dhe janë njohur nga Autoriteti.

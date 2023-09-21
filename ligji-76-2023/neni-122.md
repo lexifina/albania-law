@@ -1,0 +1,7 @@
+# Neni 122
+Konflikti i interesit
+1. Depozitari gjatë kryerjes së detyrave të tij, të parashikuara nga ky ligj dhe kontrata për kryerjen e veprimtarisë së depozitarit, duhet të veprojë me kujdesin e një eksperti të mirë, me ndërgjegje dhe ndershmëri, i pavarur nga shoqëria administruese, aksionarët e saj ose anëtarët e fondit për të cilin kryen veprimtari depozitari.
+2. Depozitari nëpërmjet strukturës së tij organizative dhe akteve të brendshme gjatë kryerjes së veprimtarisë dhe detyrave të parashikuara nga ky ligj dhe kontrata për kryerjen e veprimtarisë së depozitarit duhet të shmangë konfliktin e interesit midis vetë depozitarit, aksionarëve dhe/ose mbajtësit të pjesëmarrjes influencuese dhe shoqërisë administruese.
+3. Konflikti i mundshëm i interesit identifikohet, administrohet dhe monitorohet në mënyrë të përshtatshme nga strukturat përgjegjëse, në mënyrë që të parandalohet çdo pasojë e padëshirueshme në interes të anëtarëve të fondit.
+4. Shoqëria e licencuar si depozitar nuk zotëron licencë si shoqëri administruese, por mund të zotërojë pjesërisht ose plotësisht një shoqëri, e cila ka licencë si shoqëri administruese e fondeve. Në këtë rast shoqëria administruese dhe banka depozitare si aksionar i kësaj shoqërie nuk mund të kryejnë funksionet e tyre për të njëjtin fond pensioni.
+5. Personat kyç, personeli kyç dhe punonjës të tjerë të depozitarit nuk mund të jenë persona kyç, personel kyç dhe punonjës të shoqërisë administruese dhe anasjelltas.

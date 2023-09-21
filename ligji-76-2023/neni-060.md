@@ -1,0 +1,12 @@
+# Neni 60
+Përgjegjësia për llogaritjen e vlerës neto të aktiveve të fondit të pensionit,
+si dhe të çmimit të kuotës
+1. Vlera neto e aktiveve dhe çmimi i kuotës së fondit do të llogariten nga shoqëria administruese në përputhje me politikat e miratuara të kontabilitetit, si dhe metodologjisë së vlerësimit, sipas këtij ligji, rregulloret e miratuara në bazë të tij dhe prospektit të fondit.
+2. Metodologjia e vlerësimit të aktiveve të fondit të pensionit miratohet nga shoqëria administruese e fondeve dhe nga depozitari dhe përshkruhet në mënyrë të përgjithshme në prospektin e fondit të pensionit.
+3. Depozitari i fondit kontrollon dhe verifikon llogaritjen e vlerës neto të aktiveve të fondit dhe çmimin e kuotës në përputhje me politikat e kontabilitetit dhe metodologjinë e vlerësimit. Depozitari është përgjegjës për saktësinë e llogaritjes dhe nënshkruan dokumentin që përmban përcaktimin e vlerës së aktiveve dhe mban një kopje në dosjen e vet, e cila i vihet në dispozicion Autoritetit në inspektim, sipas kërkesës.
+4. Nëse depozitari gjatë kontrollit të llogaritjes së vlerës neto të aktiveve të fondit identifikon pasaktësi dhe/ose parregullsi, njofton menjëherë me shkrim ose në mënyrë elektronike shoqërinë administruese.
+5. Audituesi i jashtëm i fondit të pensionit gjatë auditimit vjetor kontrollon për të siguruar që janë respektuar kërkesat e vlerësimit, çmimi i llogaritur i kuotave është i saktë dhe tarifa e administrimit është në përputhje me këtë ligj dhe me aktet rregullative të miratuara nga Autoriteti në zbatim të këtij ligji.
+6. Shoqëria administruese publikon në faqen zyrtare të internetit çdo ditë çmimin e kuotës së fondeve dhe vlerën neto të aktiveve pas rakordimit dhe konfirmimit me depozitarin e fondit.
+7. Shoqëria administruese është përgjegjëse për vlerësimin e saktë të aktiveve të fondit, saktësinë e llogaritjes së vlerës neto të aktiveve dhe çmimin e kuotës.
+8. Në rast se llogaritja dhe kontrolli i vlerës neto të aktiveve të fondit nuk kryhen brenda afatit të parashikuar, shoqëria administruese dhe depozitari duhet të njoftojnë Autoritetin duke specifikuar arsyet për të cilat është e pamundur të përcaktohet vlera neto e aktiveve të fondit të pensionit.
+9. Autoriteti nxjerr rregullore për mënyrën dhe afatin e përllogaritjes së vlerës neto të aktiveve të fondit të pensionit dhe shndërrimin e kontributeve në kuota, përfshirë çmimin e kuotës, si dhe mënyrën e raportimit.

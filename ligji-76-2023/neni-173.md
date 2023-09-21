@@ -1,0 +1,6 @@
+# Neni 173
+Paralajmërimi
+1. Kur Autoriteti gjatë mbikëqyrjes, verifikimit dhe vlerësimit të gjendjes financiare dhe pozitës së shoqërisë administruese dhe fondeve që ajo administron, si dhe vlerësimit të rrezikut ndaj të cilit shoqëria administruese dhe fondet që ajo administron janë të ekspozuara ose mund të ekspozohen, identifikon parregullsi dhe/ose shkelje që për nga natyra dhe qëllimi nuk kanë ndikim dhe pasoja të konsiderueshme në veprimtarinë dhe operacionet e shoqërisë administruese, fondeve, tregut dhe/ose anëtarëve të fondit, Autoriteti nxjerr një paralajmërim për shoqërinë administruese.
+2. Autoriteti, sipas rrethanave, mund të vendosë të publikojë paralajmërimin ose një pjesë të tij.
+3. Paralajmërimi i Autoritetit mund të përmbajë dhe një urdhër për korrigjimin e parregullsive ose të shkeljeve të konstatuara, si dhe afatet brenda të cilave shoqëria administruese është e detyruar të veprojë dhe njoftojë Autoritetin për masat e marra.
+4. Nëse shoqëria administruese nuk merr masa sipas paralajmërimit të parashikuar në paragrafin 3 të këtij neni, Autoriteti nxjerr vendim që urdhëron shoqërinë të eliminojë parregullsitë ose shkeljet e konstatuara. Autoriteti kontrollon eliminimin në mënyrën e duhur të parregullsive të konstatuara.

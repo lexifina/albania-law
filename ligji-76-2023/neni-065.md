@@ -1,0 +1,6 @@
+# Neni 65
+Përfundimi i anëtarësisë
+1. Nëse anëtari i fondit të pensionit ka zgjedhur të marrë pagesën e pensionit nëpërmjet një shoqërie të sigurimit të jetës sipas nenit 74, anëtarësia e tij në fond përfundon me kalimin e aktiveve në llogarinë e anëtarit në shoqërinë e sigurimit të jetës, sipas zgjedhjes së anëtarit, në përputhje me dispozitat e nenit 74 të këtij ligji.
+2. Nëse anëtari i fondit plotëson kushtet për marrjen e pagesës së pensionit dhe ka zgjedhur marrjen e pagesës nëpërmjet shoqërisë administruese, anëtarësia e tij në fond nuk do të përfundojë me lidhjen e kontratës me shoqërinë administruese, të përcaktuar në nenin 75, por vetëm kur të jenë shlyer dhe kuotat e fundit në llogarinë e anëtarit në fondin e pensionit në përputhje me dispozitat e kontratës në fjalë.
+3. Anëtari në një fond më pjesëmarrje të hapur mund të tërhiqet nga anëtarësia në atë fond nën kushtet dhe në mënyrën e përcaktuar në kontratën e anëtarësimit, ndërsa anëtari i një fondi me pjesëmarrje të mbyllur mund të tërhiqet nga anëtarësia në fond në rastin kur nuk plotëson më kushtet e përcaktuara në nenin 66 të këtij ligji.
+4. Nëse anëtari, përkohësisht ose përgjithmonë, pushon së kontribuari në fondin e pensionit, ai mbetet anëtar në fondin e pensionit dhe ka të njëjtat të drejta si anëtarët e tjerë të fondit të pensionit.
