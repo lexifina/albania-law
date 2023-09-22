@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të ministrit të Bujqësisë dhe Zhvillimit Rural, për trajtimin dhe nënshkrimin e urdhrave për shërbimet jashtë vendit, për punonjësit e aparatit të Ministrisë së Bujqësisë dhe Zhvillimit Rural dhe të institucioneve të varësisë, Sekretarit të Përgjithshëm.
