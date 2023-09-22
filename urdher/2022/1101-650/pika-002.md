@@ -1,1 +1,0 @@
-2. Kompetencat e deleguara të titullarit të autoritetit kontraktor të Ministrisë së Arsimit dhe Sportit, në zbatim të dispozitave ligjore për prokurimin publik, do të ushtrohen për një periudhë të pacaktuar nga hyrja në fuqi e këtij urdhri, deri në shfuqizimin e këtij urdhri, si dhe pushimin e ekzistencës së organit delegues apo të deleguar.

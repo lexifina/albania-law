@@ -1,1 +1,0 @@
-1. Delegimin e kompetencave të titullarit të autoritetit kontraktor për të gjitha procedurat e prokurimit publik me fonde buxhetore për Ministrinë e Arsimit dhe Sportit, Sekretarit të Përgjithshëm të Ministrisë së Arsimit dhe Sportit, z. Erzen Tola.
