@@ -1,0 +1,7 @@
+# Neni 11
+Marrësi fundor
+1. Marrësi fundor respekton udhëzimet e Autoritetit Menaxhues për të përmbushur detyrimet e tij lidhur me programimin, procedurat e prokurimit, procedurat e dhënies së granteve dhe procedurat e tjera kontraktuese, zbatimin e qëndrueshmërinë e kontratave të financuara sipas IPA III nën përgjegjësinë e tij, si dhe me dispozitat e marrëveshjes së marrësit fundor me Autoritetin Menaxhues dhe organet e ndërmjetme.
+2. Marrësi fundor mban përgjegjësi përfundimtare për qëndrueshmërinë e rezultateve të projekteve të financuara sipas programeve IPA III, në përputhje me marrëveshjen e nënshkruar ndërmjet palëve.
+3. Marrësi fundor informon rregullisht Autoritetin Menaxhues për përdorimin e rezultateve të prekshme dhe/ose jo të prekshme dhe mirëmbajtjen e tyre, si dhe mbi caktimin e përdorimin e buxhetit të mirëmbajtjes, për aktivitetet e kryera në përputhje me rekomandimet e bëra gjatë kontrolleve në vend, si dhe për aspekte të tjera të qëndrueshmërisë gjatë periudhës së qëndrueshmërisë në përputhje me marrëveshjen e nënshkruar ndërmjet palëve.
+4. Marrësi fundor informon menjëherë Autoritetin Menaxhues për çdo ndryshim që ndikon ose mund të ndikojë në qëndrueshmërinë e projekteve të financuara sipas programeve IPA III.
+5. Në rast se kushtet për qëndrueshmërinë e rezultateve të prekshme dhe/ose të paprekshme të fituara sipas kontratave të financuara sipas programeve IPA III nuk përmbushen, marrësi fundor siguron në buxhetin e tij fondin e nevojshëm për rimbursimin e ndihmës financiare IPA III, sipas kërkesës.

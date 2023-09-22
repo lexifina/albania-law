@@ -1,0 +1,6 @@
+# Neni 16
+Mbikëqyrja, kontrolli dhe auditi
+1. Strukturat dhe autoritetet përgjegjëse për menaxhimin indirekt të IPA III u nënshtrohen mbikëqyrjes, kontrollit dhe auditimit nga Komisioni Evropian ose nga audituesit e jashtëm të mandatuar nga Komisioni Evropian, Zyra Evropiane kundër Mashtrimit (OLAF) dhe Gjykata Evropiane e Audituesve.
+2. Strukturat dhe autoritetet përgjegjëse për menaxhimin indirekt të IPA III i nënshtrohen auditimit nga Autoriteti i Auditimit dhe/ose mbikëqyrjes nga ZKA-ja, ose ekspertë e auditues të jashtëm të autorizuar nga Autoriteti i Auditimit ose ZKA-ja. Organet e ndërmjetme i nënshtrohen gjithashtu mbikëqyrjes nga Autoriteti Menaxhues.
+3. Zyra e KKIPA-së, struktura menaxhuese, autoritetet menaxhuese dhe organet e ndërmjetme janë përgjegjëse për marrjen e masave korrigjuese për të respektuar rekomandimet e për të trajtuar mangësitë e identifikuara si rezultat i mbikëqyrjes dhe auditit të kryer nga njësitë e përmendura në pikat 1 e 2, të këtij neni.
+4. Zyra e KKIPA-së, struktura menaxhuese, autoritetet menaxhuese, organet e ndërmjetme dhe AFCOS-ja sigurojnë informacionin e dokumentacionin e nevojshëm dhe marrin të gjitha masat e duhura për të ndihmuar autoritetet e përmendura në pikat 1 e 2, të këtij neni, në ushtrimin e funksioneve të tyre.
