@@ -4,6 +4,10 @@ Nr. 21, datë 25.1.2021
 
 MBI LICENCIMIN E SHOQËRISË “GREENTECH ENERGY SYSTEMS” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE, NGA HEC “PISHAT”, ME KAPACITET TË INSTALUAR 1991 kw
 
+( i ndryshuar me Vendimin nr. 283, datë 25.9.2023)
+
+( i përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të nenit 4, pika 1, germa “a”, të nenit 5, pika 1, germa “a” dhe të nenit 13 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar, si dhe të nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, të miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 25.1.2021, mbasi shqyrtoi relacionin nr. 13/1 prot., datë 19.1.2021, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, mbi aplikimin e shoqërisë “Greentech Energy Systems” sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike,
 
 konstatoi se:
@@ -44,7 +48,7 @@ Vendosi:
 
 2. Në përfundim të afatit të kontratës së qirasë me Bashkinë Gramsh (data e përfundimit 5.4.2027), shoqëria duhet ta depozitojë atë me afate të rinovuara, jo më vonë se një muaj pas nënshkrimit të rinovimit.
 
-3. Në përfundim të afatit të lejes së përdorimit të burimit ujor (data e përfundimit 11.05.2022), shoqëria “Greentech Energy Systems” sh.p.k. duhet ta dorëzojë atë me afate të rinovuara jo më vonë se një muaj pas rinovimit.
+3 Shoqëria “Greentech Energy Systems” sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Pishat” brenda datës 29.6.2028.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
