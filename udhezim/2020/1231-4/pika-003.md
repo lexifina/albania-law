@@ -15,7 +15,7 @@ c) zonën dhe/ose zonat e ushtrimit të aktivitetit, në përputhje me zonat e m
 ç) përshkrimin e aktivitetit/aktiviteteve të parashikuara në vendimin e Këshillit të Ministrave nr. 845, datë 28.10.2020, “Për miratimin e rregullave të hollësishme për zhvillimin e aktiviteteve turistike detare, që kryhen nëpërmjet mjeteve lundruese për qëllime turistike dhe argëtimi”;
 d) vendin, datën dhe nënshkrimin e përfaqësuesit ligjor.
 2. Kërkesa duhet të shoqërohet me dokumentacionin, si më poshtë vijon:
-a) fotokopjen e letërnjoftimit ose pasaportës të përfaqësuesit ligjor;
+a) shfuqizuar;
 b) fotokopje të licencës XIII.1.B dhe një kopje të ekstraktit historik të QKR-së;
 c) kontratën e vendbazimit lidhur midis subjektit aplikues dhe subjektit që administron vendbazimin;
 d) plan menaxhimi të emergjencave të nënshkruar nga përfaqësuesi ligjor i subjektit;
@@ -25,6 +25,6 @@ g) certifikatën e sigurisë apo të klasës së lëshuar nga shoqëria klasifik
 h) policë sigurimi e mjetit lundrues, të përgjegjësisë ndaj palëve të treta;
 i) deklaratë të nënshkruar nga subjekti, ku angazhohet të respektojë kriteret e përcaktuara në Kodin e Etikës së Operatorit të Turizmit Detar.
 IV. PROCEDURA E APLIKIMIT DHE E SHQYRTIMIT TË DOKUMENTACIONIT
-1. Kërkesa me dokumentacionin, sipas kreut 3, pika 2, të këtij udhëzimi, depozitohet pranë ministrisë përgjegjëse për turizmin dhe shqyrtohet nga Komisioni i Standardizimit të Veprimtarive Turistike.
-2. Komisioni, brenda 15 ditëve nga data e regjistrimit të kërkesës së aplikuesit dhe e paraqitjes së dokumentacionit, sipas pikës 2, të kreut III, nis shqyrtimin e kërkesës.
-3. Në qoftë se kërkesa e subjektit për pajisjen me certifikatë nuk është në përputhje me sa parashikohet në pikat 1 deri në 2, të kreut III, ministria përgjegjëse për turizmin, brenda 7 ditëve nga data e regjistrimit të kërkesës, njofton aplikuesin, me shkrim ose email, për plotësimin e dokumentacionit ose korrigjimin e pasaktësive dhe i cakton atij një afat 7-ditor për paraqitjen e dokumentacionit përkatës.
+1. Kërkesa me dokumentacionin, sipas kreut 3, pika 2, të këtij udhëzimi depozitohet online, nëpërmjet portalit qeveritar “e-Albania” dhe shqyrtohet nga Komisioni i Standardizimit të Veprimtarive Turistike.
+2. Komisioni, brenda 10 ditëve pune nga data e aplikimit dhe ngarkimit të dokumentacionit në portalin qeveritar “e-Albania”, sipas pikës 2, të kreut III, nis shqyrtimin e kërkesës.
+3. Në qoftë se kërkesa e subjektit për pajisjen me certifikatë nuk është në përputhje me sa parashikohet në pikat 1 deri në 2, të kreut III, Komisioni, brenda 5 ditëve pune nga data e shqyrtimit të kërkesës, njofton aplikuesin nëpërmjet portalit qeveritar “e-Albania, për plotësimin e dokumentacionit ose korrigjimin e pasaktësive dhe i cakton atij një afat prej 7 ditë pune për paraqitjen e dokumentacionit përkatës.
