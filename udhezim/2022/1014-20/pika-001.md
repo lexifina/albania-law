@@ -1,1 +1,0 @@
-1. Zbatimin e metodologjisë “Për kriteret dhe procedurat për shpërndarjen dhe përdorimin e subvencioneve shtetërore për ofruesit e shërbimeve në sektorin e ujësjellës-kanalizimeve, për vitin buxhetor 2022”, sipas lidhjes 1, bashkëlidhur këtij udhëzimi.
