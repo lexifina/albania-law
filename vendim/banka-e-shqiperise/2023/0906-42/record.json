@@ -1,0 +1,26 @@
+{
+  "qbz_id": 26546,
+  "title": "Për një ndryshim në rregulloren \"Për licencimin dhe ushtrimin e veprimtarisë së shoqërive të kursim-kreditit dhe të unioneve të tyre\"",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "42",
+  "institution": "Banka e Shqipërisë",
+  "adopted": "2023-09-06",
+  "published": "2023-09-14",
+  "in_force": "2023-09-29",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/3fdf5abcaac3fc976d119ddd82924c3bdb85e49fc17efb252da97160948f7ed0.docx",
+  "source_sha256": "3fdf5abcaac3fc976d119ddd82924c3bdb85e49fc17efb252da97160948f7ed0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/26546",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/09/06/42",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
