@@ -1,0 +1,3 @@
+3. Efektet financiare për zbatimin e këtij vendimi përllogariten në shumën 3 184 000 000 (tre miliardë e njëqind e tetëdhjetë e katër milionë) lekë, të cilat përballohen nga fondi për politikat e indeksimit të pensioneve, të parashikuar në buxhetin e Institutit të Sigurimeve Shoqërore (ISSH) të vitit, të cilat ndahen, si më poshtë vijon:
+a) 3 144 000 000 (tre miliardë e njëqind e dyzet e katër milionë) lekë, për mbulimin e pagesave të përfitimeve;
+b) 40 000 000 (dyzet milionë) lekë, për procedurat teknike të zbatimit të këtij vendimi dhe për pagesën e komisioneve të shërbimit të pagesave të pensioneve nga Posta Shqiptare sh.a., dhe bankat e nivelit të dytë.
