@@ -1,0 +1,1 @@
+4. Subjektet e anijeve të peshkimit apo të fermës zbatojnë detyrimet që rrjedhin nga pikat 74-75, 77, 79, 92, 110-112, 119, 121, 124, 130, 133, 146-150, 167-168, 192-194, 195-198, 215-217, si dhe shtojcat 2, 3, 4, 8, 9, 11 dhe 112, të rekomandimit 22-08 të ICCAT-it.

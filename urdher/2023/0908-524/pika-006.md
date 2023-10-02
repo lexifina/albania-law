@@ -1,0 +1,1 @@
+6. Peshkimi i tonit do të kryhet vetëm me mjetet lundruese që përdorin formën e peshkimit me koshilok (me rrethim) sipas parashikimeve të vendimit të Këshillit të Ministrave nr. 719, datë 12.10.2016, “Për menaxhimin e kapaciteteve të peshkimit tregtar dhe disa rregullime të mënyrës së funksionimit të regjistrit të anijeve të peshkimit”, të ndryshuar.

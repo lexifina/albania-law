@@ -1,0 +1,1 @@
+5. Pikat e tjera të rekomandimit 22-08, të paparashikuara në pikat 2-4 të këtij urdhri, janë të detyrueshme për institucionet dhe subjektet e mësipërme, në rast se Shqipëria do të zhvillojë aktivitetet e rregulluara sipas këtyre pikave.

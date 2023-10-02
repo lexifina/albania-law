@@ -1,0 +1,1 @@
+1. Zbatimin e Rekomandimit 22-08 të ICCAT-it, “Për ndryshimin e rekomandimit 21-08, për hartimin e një plani menaxhimi shumëvjeçar për tonin në Atlantikun Lindor dhe Detin Mesdhe”, bashkëlidhur këtij urdhri, dhe që është pjesë përbërëse e tij.
