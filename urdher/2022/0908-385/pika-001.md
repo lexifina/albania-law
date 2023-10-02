@@ -1,1 +1,0 @@
-1. Zbatimin e rekomandimit ICCAT “Për ndryshimin e rekomandimit 19-04, për ndryshimin e rekomandimit 18-02 për hartimin e një plani menaxhimi shumëvjeçar për tonin në Atlantikun Lindor dhe Detin Mesdhe” [rec. ICCAT 21-08], që i bashkëngjitet këtij urdhri dhe është pjesë përbërëse e tij.
