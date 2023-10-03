@@ -1,0 +1,1 @@
+2. Në GIS-in kombëtar integrohen të dhënat dhe sistemet e informacionit gjeografik të krijuara për temat e nenit 11, të ligjit nr. 72/2012, “Për organizimin dhe funksionimin e infrastrukturës kombëtare të informacionit gjeohapësinor në Republikën e Shqipërisë”, sipas standardeve të miratuara me vendim të Këshillit të Ministrave.
