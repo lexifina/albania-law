@@ -1,0 +1,1 @@
+5. Autoriteti Përgjegjës ndjek regjistrimin dhe raportimin periodik të të dhënave për rastet e trafikimit të identifikuara dhe të referuara nga institucione shtetërore dhe organizatat në përputhje me procedurat standarde të veprimit për mbrojtjen e viktimave dhe viktimave të mundshme të trafikimit.

@@ -1,0 +1,1 @@
+10. Sekretariati është përgjegjës për mbledhjen, regjistrimin dhe administrimin e të dhënave që raportohen nga anëtarët e Autoritetit Përgjegjës dhe hartimin e raporteve sipas kërkesave. Raportet e hartuara nga Sekretariati janë objekt vlerësimi dhe miratimi i të gjithë anëtarëve të Autoritetit Përgjegjës.

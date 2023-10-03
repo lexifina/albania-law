@@ -1,0 +1,1 @@
+9. Sekretariati është përgjegjës për njoftimin e anëtarëve të Autoritetit Përgjegjës, organizimin e takimeve periodike dhe të takimeve jashtë radhe, sipas nevojave, mbajtjen e korrespondencës me anëtarët, dokumentimin e takimeve dhe të veprimeve të ndërmarra nga Autoriteti Përgjegjës.

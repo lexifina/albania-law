@@ -1,0 +1,1 @@
+3. Në mbledhjet e Autoritetit Përgjegjës ftohen të jenë të pranishëm përfaqësues nga Prokuroria kompetente dhe përfaqësues nga anëtarë të tjerë të Mekanizmit Kombëtar të Referimit, në varësi të nevojave për mbështetje dhe ekspertizë, sipas rasteve që do të trajtohen.

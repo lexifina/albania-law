@@ -1,0 +1,1 @@
+11. Autoriteti Përgjegjës i raporton, në mënyrë periodike një herë në muaj, për gjithë veprimtarinë e tij, drejtorit të përgjithshëm dhe zëvendësministrit në Ministrinë e Brendshme, të cilët mbulojnë fushën e përgjegjësisë së antitrafikut.

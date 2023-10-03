@@ -1,0 +1,1 @@
+4. Autoriteti Përgjegjës është struktura mbështetëse e Mekanizmit Kombëtar të Referimit në procesin e identifikimit, referimit për ndihmë, mbrojtje, riintegrim të viktimave dhe viktimave të mundshme të trafikimit, në përputhje me procedurat standarde të veprimit për mbrojtjen e viktimave dhe viktimave të mundshme të trafikimit.

@@ -1,0 +1,1 @@
+12. Të merren të gjitha masat për krijimin, plotësimin e infrastrukturës, logjistikës dhe financimit të nevojshëm, në drejtoritë përkatëse të këtyre institucioneve, për të trajtuar referimet e të gjitha viktimave dhe viktimave të mundshme të trafikimit, si dhe për të kryer të gjitha funksionet e tjera të bashkërendimit dhe raportimit, të cilat iu kërkohen sipas këtij udhëzimi.

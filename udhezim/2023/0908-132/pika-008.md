@@ -1,0 +1,1 @@
+8. Koordinimi i veprimtarisë administrative të Autoritetit Përgjegjës ndiqet nga sekretariati, i cili përbëhet nga përgjegjësi i sektorit dhe specialisti i Sektorit të Antitrafikut në Drejtorinë e Politikave të Antitrafikut dhe Migracionit, në Ministrinë e Brendshme.
