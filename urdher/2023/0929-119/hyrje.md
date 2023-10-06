@@ -1,0 +1,5 @@
+URDHËR
+Nr. 119, datë 29.9.2023
+PËR MIRATIMIN E RREGULLORES “MBI KUADRIN RREGULLATOR PËR HAPËSIRËN - U TË HAPËSIRËS AJRORE”[1]
+Në zbatim të nenit 102, pika 4, të Kushtetutës dhe në përputhje me nenin 7, pika 2, nenin 50, pika 3 dhe nenin 84, pika 6, të ligjit nr. 96/2020, datë 23.8.2020, “Kodi Ajror i Republikës së Shqipërisë”, të neneve 43 dhe 44, të vendimit të Këshillit të Ministrave nr. 1095, datë 24.12.2020, “Për miratimin e kërkesave thelbësore në fushën e Aviacionit Civil” dhe ligjin nr. 9658, datë 18.12.2006, “Për ratifikimin e marrëveshjes shumëpalëshe ndërmjet Komunitetit Evropian dhe shteteve anëtare të tij, Republikës së Shqipërisë, Bosnjës dhe Hercegovinës, Republikës së Bullgarisë, Republikës së Kroacisë, Republikës së Maqedonisë, Republikës së Islandës, Republikës së Malit të Zi, Mbretërisë së Norvegjisë, Republikës së Rumanisë, Republikës së Serbisë dhe Misionit Administrativ të Përkohshëm të Kombeve të Bashkuara në Kosovë, për krijimin e një zone të përbashkët të aviacionit evropian”,
+URDHËROJ:
