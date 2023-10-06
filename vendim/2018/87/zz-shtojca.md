@@ -162,13 +162,15 @@ Entet rregullatore gjithashtu përpiqen të mbrojnë investitorët nga veprimet 
 Siç u tha më lart, një nga argumentet kryesore për rregullimin e tregut te gazit është ekzistenca e monopoleve. Kur një furnizues i vetëm është teknikisht në gjendje të furnizojë të gjithë tregun me kosto totale më të ulët se çdo kombinim i mundshëm i dy ose më shumë furnizuesve, atëhere tregu konsiderohet si një monopol natyral. Në mënyrë empirike, monopolet natyrale shoqërohen me ato industri që kërkojnë hedhjen e sasive të mëdha dhe të pandashme të kapitalit fiks. Për më tepër, monopoli natyror përcaktohet nga ekzistenca e ekonomisë së fushës (dmth kur është më lirë për të prodhuar dy produkte bashkërisht sesa një produkt
 të vetëm) dhe ekonomisë së shkallës (dmth kur kostoja mesatare për njësi uljet si pasojë e rritjes së volumit). Sektorët e transmetimit dhe shpërndarjes së gazit karakterizohen nga të gjithë këto përcaktues të monopolit natyror.
 Figura në vijim tregon grafikisht sjelljen e monopolit natyror në tre raste: tregun e parregulluar, tregun e rregulluar dhe tregun e drejtë social.
-priceFigura 5-1 Sjelljet e monopolit natyror
+pricepriceFigura 5-1 Sjelljet e monopolit natyror
+price
 price
 çmimi
 Pm
 Pr ATC MC
 MR D=AR=P
-quantityQm Qr Qs
+quantityquantityQm Qr Qs
+quantity
 quantity
 sasia e prodhuar
 Monopoli natyror karakterizohet nga rënia e kostove afatgjata, mesatare dhe marxhinale si rezultat i ekonomisë së shkallës. Në krahasim me një treg konkurrues, ku kurba e kërkesës është krejtësisht elastike, (meqë çdo firmë është një konkurrente), në tregun e monopolizuar kurba e kërkesës është në rënie për shkak se rënia e çmimeve çon në rritje të sasisë së kërkuar. Për më tepër, ky fakt nënkupton rënien e pjerrësisë së kurbës së të ardhurave margjinale.
@@ -193,32 +195,45 @@ Si përmbledhje, qëllimet e rregullimit mund të përmblidhen si më poshtë:
 Para se të bëjë përcaktimin e tarifave, en ti rregullator duhet të përcaktojë shumën e të ardhurave që operatori i transmetimit të gazit ka të drejtë të mbledhë për të mbuluar shpenzimet në rrjet. Këto quhen të ardhurat e lejuara. Mbasi janë përcaktuar të ardhurat e lejuara, tarifat përcaktohen në mënyrë të tillë që shuma e tyre të mos tejkalojë të ardhurat e lejuara.
 Enti rregullator ka në dispozicion opsione të ndryshme për të përcaktuar të ardhurat e lejuara, duke përfshirë kostot e shërbimit dhe rregullimin e bazuar mbi incentivat, të cilat janë përshkruar më hollësisht në kapitujt në vijim. Sidoqoftë, sasia e të ardhurave të lejuara është e njëjtë pavarësisht mënyrës së përdorur. Figura në vijim tregon elementët kryesorë që duhet të merren parasysh gjatë përcaktimit të të ardhurave të lejuara. Të gjithë elementët e të ardhurave të lejuara shtjellohen me hollësi në kapitujt në vijim.
 Figura 6-1 Mënyra e përgjithshme për përcaktimin e të ardhurave të lejuara
-Productivity TargetObjektivi i
+Productivity TargetProductivity TargetObjektivi i
+Productivity Target
 Productivity Target
 Prodhimit
-Investment hypotesisHipotezë
+Investment hypotesisInvestment hypotesisHipotezë
+Investment hypotesis
 Investment hypotesis
 Investimi
-Cost of capitalKosto e Kapitalit
+Cost of capitalCost of capitalKosto e Kapitalit
 Cost of capital
-Capital employed (Regulated Asset Base)Original assetsAsetet fillestare
+Cost of capital
+Capital employed (Regulated Asset Base)Capital employed (Regulated Asset Base)Original assetsOriginal assetsAsetet fillestare
+Capital employed (Regulated Asset Base)
 Capital employed (Regulated Asset Base)
 Original assets
-Operators’ business planPlani i
+Original assets
+Operators’ business planOperators’ business planPlani i
+Operators’ business plan
 Operators’ business plan
 Biznesit
 të Operatorit
 Kapitali i përdorur
 (Bazë asetesh e rregulluar)
-Asset depreciationAsetet e amortizuara
+Asset depreciationAsset depreciationAsetet e amortizuara
 Asset depreciation
-Return onAssetFitimi mbi asetet
+Asset depreciation
+Return onAssetReturn onAssetFitimi mbi asetet
 Return on
 Asset
-OperatingcostKostot e shfrytëzimit
+Return on
+Asset
+OperatingcostOperatingcostKostot e shfrytëzimit
 Operating
 cost
-AllowedrevenueTe ardhurat e lejuara
+Operating
+cost
+AllowedrevenueAllowedrevenueTe ardhurat e lejuara
+Allowed
+revenue
 Allowed
 revenue
 Referenca: [3]
@@ -293,23 +308,32 @@ dhe mjaftueshmërisht i lartë që konsumatori të përfitojë nga përmirësime
 kompani operatore përdor asetet e saj në mënyrë më produktive, kostot rriten më pak se shuma e kontributeve të përdorura dhe e kundërta. Prandaj, ndryshimet në produktivitet duhet të llogariten.
 Figura në vijim paraqet ndryshimin e çmimeve të bazuar në metodën e çmimeve tavan. Nëse vlera e faktorit X është pozitive, çmimi real do të ulet, gjë që përfaqëson përfitim për konsumatorin. Nëse kompania operatore arrin të zvogëlojë shpenzimet nëpërmjet përmirësimit të efikasitetit të saj në një nivel më të ulët nga sa i kërkohet nga rregullatori, ajo merr fitime shtesë.
 Figura 6-2 Rregullimi i bazuar mbi metodën e çmimeve tavan
-priceçmimi
+pricepriceçmimi
 price
-Benefit to customer(lower prices)Përfitimi i klientëve
+price
+Benefit to customer(lower prices)Benefit to customer(lower prices)Përfitimi i klientëve
+Benefit to customer
+(lower prices)
 Benefit to customer
 (lower prices)
 (çmime të ulta)
-Expected improvement(RPI-X)Përmirësimi i pritur
+Expected improvement(RPI-X)Expected improvement(RPI-X)Përmirësimi i pritur
 Expected improvement
 (RPI-X)
-Actual improvementBenefit to company (higher profit(RPI-X)
+Expected improvement
+(RPI-X)
+Actual improvementActual improvementBenefit to company (higher profitBenefit to company (higher profit(RPI-X)
+Actual improvement
 Actual improvement
 Benefit to company (higher profit
+Benefit to company (higher profit
 Përfitimi i kompanisë
-time(fitim më i )madh)
+timetime(fitim më i )madh)
+time
 time
 Përmirësimi real
-Regulatory periodperiudha rregullatore
+Regulatory periodRegulatory periodperiudha rregullatore
+Regulatory period
 Regulatory period
 koha
 6.2.2 Rregullimi sipas tavanit të të ardhurave
@@ -379,21 +403,28 @@ Figura e mëposhtme ilustron parimin e metodave OLS dhe COLS. Në figurë jepet 
 mesatare sepse kostot e tyre aktuale janë më të ulta se shpenzimet e parashikuara nga funksioni. Vlerat e ndryshimit rezidual për firmat A, F dhe G janë pozitive, pasi kostot e tyre janë më të ulëta se kostot e parashikuara nga funksioni.
 OLS tregon tendencat mesatare, dhe si i tillë nuk ka kufij. Duke zhvendosur funksionin OLS poshtë derisa ndryshimet reziduale për të gjitha kompanitë janë negative ose zero fitohet funksioni COLS, i cili përfaqëson një kufi. Vlera e ndryshimit residual për kompanitë A dhe G është 0, ndërsa për të gjitha kompanitë e tjera, është negativ. Prandaj, sipas metodes COLS vetëm kompanitë A dhe G janë efiçente.
 Figura 6-3 Metodologjia krahasuese OLS dhe COLS
-st CokostoC
+st Cost CokostokostoC
+st Co
 st Co
 kosto
+kosto
 D
-InefficiencyE
+InefficiencyInefficiencyE
+Inefficiency
 Inefficiency
 mungesë efikasiteti
-COLS frontierOLS: y=f(x,β)+ε
+COLS frontierCOLS frontierOLS: y=f(x,β)+ε
 COLS frontier
-Efficient firm Kufiri COLS
+COLS frontier
+Efficient firm Efficient firm Kufiri COLS
+Efficient firm
 Efficient firm
 B
-Efficient firm A
+Efficient firm Efficient firm A
 Efficient firm
-Outputs kompani efikase
+Efficient firm
+Outputs Outputs kompani efikase
+Outputs
 Outputs
 F G
 kompani efikase
@@ -415,30 +446,42 @@ këto përfaqësojnë vlerat kufitare.
 Prodhimi për kompaninë A qëndron poshtë kufirit për shkak të vlerës negative të parametrit të variacionit statistikor, ndërsa prodhimi i kompanisë B qëndron sipër kufirit. Nga ana tjetër, të dy rezultatet aktuale të kompanisë A dhe B shtrihen mbi kufirin. Në praktikë, rezultate të tilla janë të zakonshme. Prodhimi aktual mund të qëndrojnë nën kufirin vetëm në rast kur termi i zhurmës statistikore anulon joefikasitetin. Nga ana tjetër, prodhimet priren të jenë të shpërndara rreth kufirit për shkak të parametrit të zhurmës statistikore i cili është mesatarisht zero, por mund
 të marrë edhe vlera pozitive edhe negative.
 Siç u tha në fillim, përparësia kryesore e ASK është aftësia për të veçuar paefektshmërinë nga zhurma statistikore. Megjithate, ASK nuk është pa të meta. Kritika më e madhe ndaj ASK është se ajo është shumë e ndjeshme ndaj pranisë së ekstremeve. Nëse ka kompani që janë në ekstrem, mund të rezultojë që ASK përcakton shumicën e firmave si të efektshme.
-st o c-yy-kostoFigura 6-4 Kufiri stokastic i prodhimit
+st o c-yst o c-yy-kostoy-kostoFigura 6-4 Kufiri stokastic i prodhimit
+st o c
+-
+y
 st o c
 -
 y
 y-kosto
-inefficiencyyB=XBβ+uB+vB
+y-kosto
+inefficiencyinefficiencyyB=XBβ+uB+vB
+inefficiency
 inefficiency
 =XBβ+uB
-inefficiencyyA=XAβ+uA+vA
+inefficiencyinefficiencyyA=XAβ+uA+vA
 inefficiency
-noise effectnoise effectinefikasitet
+inefficiency
+noise effectnoise effectnoise effectnoise effectinefikasitet
+noise effect
+noise effect
 noise effect
 noise effect
 inefikasitet zhurma
 kufiri përcaktueshmërisë
-Deterministic frontier: y=Xβ
+Deterministic frontier: Deterministic frontier: y=Xβ
+Deterministic frontier:
 Deterministic frontier:
 =XAβ+uA
 zhurma
-x - OutputxA xB
+x - Outputx - OutputxA xB
+x - Output
 x - Output
 x-rezultati
-frontier valuesobserved valuesvlera kufitare vlera reale
+frontier valuesfrontier valuesobserved valuesobserved valuesvlera kufitare vlera reale
 frontier values
+frontier values
+observed values
 observed values
 Referenca: [6]
 6.3.3 Analiza Gjithëpërfshirëse e të Dhënave (AED) AED është një teknikë jo-parametrike që përdor programimin linear për të përcaktuar kompanitë që funksionojnë më mirë. Ndryshe nga metodat ekonometrike, AED nuk kërkon specifikimin e funksionit të kostos. Duke përdorur
@@ -470,17 +513,22 @@ Figura 6-5 Analiza gjithëpërfshirëse e të dhënave
 160 C
 140
 120
-Y PUT UTOrezultati Y100
+Y PUT UTOY PUT UTOrezultati Yrezultati Y100
 Y
 PUT UT
 O
+Y
+PUT UT
+O
+rezultati Y
 rezultati Y
 80 G
 60
 40 B
 20 A
 0
-OUTPUT X 0 200 400 600 800 1000 1200
+OUTPUT X OUTPUT X 0 200 400 600 800 1000 1200
+OUTPUT X
 OUTPUT X
 rezultati X
 Avantazhi kryesor i kësaj metode është se nuk është e nevojshme për të bërë supozime në lidhje me formën funksionale të funksionit të prodhimit apo kufirit të gabimit. Por në të njëjtën kohë, mungesa e specifikimit të modelit nuk lejon të përcaktohet se sa mirë i përshtatet analiza (është e vështirë për t’u përcaktuar se cili specifikim funksionon më mirë). Nga ana teorike, AED përcakton të gjithë shmangiet nga kufiri i efikasitetit, por shmangiet nga kufiri efikasitetit mund të vijnë për shkak të arsyeve të ndryshme si gabimi në matje, faktorët ekzogjenë, dhe mosaplikimi i parametrave përkatës.
@@ -585,37 +633,52 @@ Mbasi janë përcaktuar të ardhurat e lejueshme, dmth pasi enti rregullator ka 
 Pas përcaktimit të të ardhurave të lejuara dhe tarifave paraprake, OST-G përdor tarifat paraprake (ex ante) për të faturuar përdoruesit për shërbimet e tij. Në qoftë se përcaktimi i të ardhurave të lejuara dhe tarifat përkatëse është bërë në mënyrë korrekte, të ardhurat e mbledhura duhet të jenë të përafërta me të ardhurat e lejuara. Megjithatë, është plotësisht e mundur që të ardhurat e mbledhura të ndryshojnë nga të ardhurat e lejuara për shkak të ndryshimeve në vlerat e supozuara dhe ato të realizuara në lidhje me shpenzimet operative, investimet, kostot e kapitalit dhe shfrytëzimit të infrastrukturës.
 7.4 Rakordimi i të ardhurave të lejuara dhe atyre të realizuara
 Mbasi është përcaktuar ndryshimi midis të ardhurave të lejuara dhe atyre të realizuara (të mbledhura), është e nevojshme që të rakordohen diferencat. Zakonisht mund të lejohet një diferencë në baza vjetore midis të ardhurave të lejuara dhe atyre të realizuara për aq kohë sa ky dallim nuk është aq i madh që të ndikojë në funksionimin e kompanisë operatore. Në përgjithësi, rakordimi kryhet në periudhën e ardhshme rregullatore ku të ardhurat e lejuara rriten nëse kompania operatore ka realizuar më pak të ardhura, ose ulen nëse kompania operatore ka realizuar më shumë se të ardhurat e lejuara në periudhën e kaluar rregullatore. Figura në vijim përshkruan grafikisht procesin e rakordimit të të ardhurave.
-Revenue reconciliationFigura 7-1 Procesi i rakordimit të të ardhurave të lejuara
+Revenue reconciliationRevenue reconciliationFigura 7-1 Procesi i rakordimit të të ardhurave të lejuara
+Revenue reconciliation
 Revenue reconciliation
 rakordimi i të ardhurave
-per Entry orExit point and per yearalokimi i kostos
+per Entry orExit point and per yearper Entry orExit point and per yearalokimi i kostos
 per Entry or
 Exit point and per year
-Cost allocationpër pikë Hyrje ose Dalje dhe për vit
+per Entry or
+Exit point and per year
+Cost allocationCost allocationpër pikë Hyrje ose Dalje dhe për vit
+Cost allocation
 Cost allocation
 mbledhja e të ardhurave
-Revenue collectionalokimi i të ardhurave të pa-realizuara, për pikë H yrje ose Dalje dhe për vit, që mbeten deri në fund të
+Revenue collectionRevenue collectionalokimi i të ardhurave të pa-realizuara, për pikë H yrje ose Dalje dhe për vit, që mbeten deri në fund të
 Revenue collection
-Allowed revenueForecasted allowed revenue year NCollected revenue year NMissing revenue Year Nperiudhës së rregulluar
+Revenue collection
+Allowed revenueAllowed revenueForecasted allowed revenue year NForecasted allowed revenue year NCollected revenue year NCollected revenue year NMissing revenue Year NMissing revenue Year Nperiudhës së rregulluar
+Allowed revenue
 Allowed revenue
 Forecasted allowed revenue year N
+Forecasted allowed revenue year N
 Collected revenue year N
+Collected revenue year N
+Missing revenue Year N
 Missing revenue Year N
 të ardhurat e lejuara
 të ardhurat e lejuara të parashikuara, viti N
 të ardhurat e mbledhura, viti N
 të ardhurat e pa-realizuara, viti N
 të ardhurat e lejuara të parashikuara fillimisht,
-Allocation of the missing revenue per entry or Exit point and per year remaining until the end of the regulatory periodBefore the begining of the tariff periodRevenue reconcilation Year Nviti N+1
+Allocation of the missing revenue per entry or Exit point and per year remaining until the end of the regulatory periodAllocation of the missing revenue per entry or Exit point and per year remaining until the end of the regulatory periodBefore the begining of the tariff periodBefore the begining of the tariff periodRevenue reconcilation Year NRevenue reconcilation Year Nviti N+1
+Allocation of the missing revenue per entry or Exit point and per year remaining until the end of the regulatory period
 Allocation of the missing revenue per entry or Exit point and per year remaining until the end of the regulatory period
 Before the begining of the tariff period
+Before the begining of the tariff period
+Revenue reconcilation Year N
 Revenue reconcilation Year N
 rakordimi i të ardhurave, viti N
 rishikimi i parashikimit të të ardhurave të lejuara,
-Repeatedly here, yearly) while a given Tariff structure is in useviti N+1
+Repeatedly here, yearly) while a given Tariff structure is in useRepeatedly here, yearly) while a given Tariff structure is in useviti N+1
 Repeatedly here, yearly) while a given Tariff structure is in use
-Initialy Forecasted allowed revenue Year N+1Revised Forecasted allowed revenue Year N+1përpara fillimit të periudhës së tarifës
+Repeatedly here, yearly) while a given Tariff structure is in use
+Initialy Forecasted allowed revenue Year N+1Initialy Forecasted allowed revenue Year N+1Revised Forecasted allowed revenue Year N+1Revised Forecasted allowed revenue Year N+1përpara fillimit të periudhës së tarifës
 Initialy Forecasted allowed revenue Year N+1
+Initialy Forecasted allowed revenue Year N+1
+Revised Forecasted allowed revenue Year N+1
 Revised Forecasted allowed revenue Year N+1
 duke u përser( itur (këtu, çdo vit) ndërkohë që përdoret një Tarifë
 Referenca: [3]
@@ -707,7 +770,8 @@ Formalisht, shpenzimet operative për vitin e parë të periudhës rregullatore 
 Ku:
 !”!
 = !”!!! ∙ 1 + !”#!!! − ! ∙ 1 + !”#! − !
-!OP!
+!!OP!
+!
 !
 - shpenzimet operative të parashikuara për vitin t (në Lek)
 !”!!! - shpenzimet aktuale dhe të arsyeshme operative për vitin t-2 (në Lek)
@@ -749,16 +813,21 @@ Vlera e bazës së aseteve rregullatore në fund të një viti përcaktohet në 
 = !”! + !”! + !!
 − !”!
 Ku:
-!!”#!
+!!!”#!
 !
-!!”!
 !
 !!!”!
 !
 !
+!!!!!”!
 !
 !
-!!”!
+!
+!
+!
+!
+!!!”!
+!
 !
 - vlera e parashikuar e Bazës së Aseteve Rregullatore (Regulatory
 Asset Base - RAB) në fund të vitit t [në Lek]
@@ -771,18 +840,22 @@ Vlera e parametrave duhet të merret nga raportet vjetore të OST-G, pra nga bil
 Fitimi mbi bazën rregullatore të aseteve aplikohet mbi vlerën mesatare të bazës së aseteve gjatë një viti. Vlera mesatare e bazës së aseteve për vitin t llogaritet si mesatarja aritmetike e vlerës së bazës së aseteve më 31 dhjetor të vitit t-1, dhe vlerës bazë të aseteve të regjistruara më 31 dhjetor të vitit t, sipas formulës së
 mëposhtme:
 ! + !”#!
-!!”#!,!”#
+!!!”#!,!”#
+!
 !
 !”#!
 =
 2
 !!!
 Ku:
-!!”#!,!
+!!!”#!,!
 !
-!!”#!
 !
 !!!”#!
+!
+!
+!!!!!”#!
+!!
 !!
 - vlera mesatare e parashikuar e bazës së aseteve të rregulluara për vitin t [Lek] (Average Forecasted Regulated Aset Base)
 - vlera e bazës së aseteve të rregulluara për vitin t [Lek] (Regulated Aset
@@ -800,7 +873,8 @@ tatimit.
 KMPK përcaktohet nga formula e mëposhtme:
 Ku:
 !
-!”#! =!”#” !”#$”%&,!”#$!%&
+!”#! = !”#! =!”#” !”#$”%&,!”#$!%&
+!”#! =
 !”#! =
 !! ∙ ! + !! ∙ ! ∙ (1 − !)
 %
@@ -830,7 +904,8 @@ e mëposhtme:
 ! ! !
 !”#$! = !”! ∙ !”#!
 Ku:
-!!”#$!
+!!!”#$!
+!
 !
 !
 - norma e parashikuar e interesit mbi bazën e aseteve për vitin t
@@ -860,7 +935,8 @@ njëjta. Formalisht, relacioni i mëposhtëm duhet të jetë i vërtetë:
 !
 !!!
 !
-!”!!!!!
+!”!”!!!!!
+!”
 !”
 1 + !”#!! !
 Figura 8-2 tregon dallimin në mes të ardhurave të lejuara të normalizuara dhe të pa normalizuara. Të ardhurat e lejuara mund të jenë mjaft të çrregullta, siç tregohet nga vija e gjelbër, gjë që do t’i bënte edhe tarifat të ishin gjithashtu të çrregullta.
@@ -871,7 +947,8 @@ Figura 8-2 Të ardhurat e normalizuara përkundër të ardhurave të pa normaliz
 270
 250
 230
-Revenue210
+RevenueRevenue210
+Revenue
 Revenue
 190
 170
@@ -1000,8 +1077,10 @@ Figura 8-4 Llogaria rregullatore:
 3000
 1,2
 2500
-€/kWh€1 2000
+€/kWh€/kWh€€1 2000
 €/kWh
+€/kWh
+€
 €
 0,8
 1500
@@ -1083,7 +1162,8 @@ Figura 9-2 Përdorimi i tarifave afatshkurtra
 140
 120
 Slack Capacity
-Index of gas quantity100
+Index of gas quantityIndex of gas quantity100
+Index of gas quantity
 Index of gas quantity
 80
 60
@@ -4861,7 +4941,7 @@ Përveç detyrave të lidhura me ndarjen e OSSH-së, ERE duhet t’i rezervohet 
 Në këtë aspekt, sfida kryesore për ERE-s do të jetë sigurimi i një kuadri rregullator që sjell përfitime për konsumatorët nëpërmjet shërbimeve që ofron rrjeti i shpërndarjes së gazit, dhe aftësive matëse të kapaciteteve të gazit, duke përfshirë edhe përgjigjen ndaj kërkesave për gaz. Detyra e ERE-s është që të sigurojë se OSSH-G-të nuk funksionojnë në mënyra të cilat diskriminojnë ose deformojnë tregun konkurrues të gazit, jo vetëm nga ana e furnizimit por edhe nga ana e kërkesës për gaz.
 14 Shtojca I: Plani i Veprimit për
 Legjislacionin Dytësor të Tregut të Gazit
-4.Procedure and altena for e appantmen1of anadminis1Jata responsible ln 111Eiim managunent d the undooaluOg whk:hlicense was reVOkedAtbcle 27(5)Counct ofM.rrste30.10.2016.30.042016ME5Gasmallet modelMde 88(1)CV U”cl il dl.’111ste”!\3010.2016.31.01.2018E6.Conchhons and p-oce<iJre for des,gnataon ct fle supplier of last resortMde89(2)Miele 90(1)Counell dl.m:Ste30.10.2016.23.12.2015E7.Prooedue tJr estat:ish11g the stalls of soc:aally wk”lerable011stcmersMde 97(1)Coundl of’·’lllste...30.10.2016.30.042016EaRulesand prooedures for supeiVisory fuo::tions of the ministryArtde 100(1)CounCil ctM.rrste3010.2016.30.0420169.TechmcalrulesArticle 10{1)Council dl.tVT;s.ters30.10201730.102016MEI.M
+4.Procedure and altena for e appantmen1of anadminis1Jata responsible ln 111Eiim managunent d the undooaluOg whk:hlicense was reVOkedAtbcle 27(5)Counct ofM.rrste30.10.2016.30.042016ME5Gasmallet modelMde 88(1)CV U”cl il dl.’111ste”!\3010.2016.31.01.2018E6.Conchhons and p-oce<iJre for des,gnataon ct fle supplier of last resortMde89(2)Miele 90(1)Counell dl.m:Ste30.10.2016.23.12.2015E7.Prooedue tJr estat:ish11g the stalls of soc:aally wk”lerable011stcmersMde 97(1)Coundl of’·’lllste...30.10.2016.30.042016EaRulesand prooedures for supeiVisory fuo::tions of the ministryArtde 100(1)CounCil ctM.rrste3010.2016.30.0420169.TechmcalrulesArticle 10{1)Council dl.tVT;s.ters30.10201730.102016MEI.4.Procedure and altena for e appantmen1of anadminis1Jata responsible ln 111Eiim managunent d the undooaluOg whk:hlicense was reVOkedAtbcle 27(5)Counct ofM.rrste30.10.2016.30.042016ME5Gasmallet modelMde 88(1)CV U”cl il dl.’111ste”!\3010.2016.31.01.2018E6.Conchhons and p-oce<iJre for des,gnataon ct fle supplier of last resortMde89(2)Miele 90(1)Counell dl.m:Ste30.10.2016.23.12.2015E7.Prooedue tJr estat:ish11g the stalls of soc:aally wk”lerable011stcmersMde 97(1)Coundl of’·’lllste...30.10.2016.30.042016EaRulesand prooedures for supeiVisory fuo::tions of the ministryArtde 100(1)CounCil ctM.rrste3010.2016.30.0420169.TechmcalrulesArticle 10{1)Council dl.tVT;s.ters30.10201730.102016MEI.M
 4.
 Procedure and altena for e appantmen1of anadminis1Jata responsible ln 111Eiim managunent d the undooaluOg whk:hlicense was reVOked
 Atbcle 27(5)
@@ -4911,7 +4991,102 @@ l.tVT;s.ters
 30.102017
 30.102016
 MEI.
-10.lnlerim teohnlcal rules and safety artcfltl10(2JMF.I30.10.201630.04.2016M11.lns1ruction of des\gnalion oftflilnsmls.s.lon and dlstrib.Jtion zonesArude 23(4)MEl30.10201630.042016M12General terms andoondlf.ioos fOf tne access to upstn am pdl8hne actMiles.ArtiCle (21MEl30 10 201630 04 201613.Rulation on Stael lns.pectorS1e in oharge of the na ralgassectOf surveillaoooArtide 101(1)MEl30.10201630.04201614.Conditions and Pfooedures fOfl ti’Y”y’ing finesAr1icle 106(3)MEl30.10.201630.04.201615.Report on securrty of gas su,p yArtkle 7MEl31.07201630.05201616.PdlclllsJ’p rammes for nat ral gas sector developmentArtkle 5MElNfAN’(.el.E
+4.
+Procedure and altena for e appantmen1of anadminis1Jata responsible ln 111Eiim managunent d the undooaluOg whk:hlicense was reVOked
+Atbcle 27(5)
+Counct of
+M.rrste
+30.10.2016.
+30.042016
+ME
+5
+Gasmallet model
+Mde 88(1)
+CV U”cl il d
+l.’111ste”!\
+3010.2016.
+31.01.2018
+E
+6.
+Conchhons and p-oce<iJre for des,gnataon ct fle supplier of last resort
+Mde89(2)
+Miele 90(1)
+Counell d
+l.m:Ste
+30.10.2016.
+23.12.2015
+E
+7.
+Prooedue tJr estat:ish11g the stalls of soc:aally wk”lerable
+011stcmers
+Mde 97(1)
+Coundl of
+’·’lllste...
+30.10.2016.
+30.042016
+E
+a
+Rulesand prooedures for supeiVisory fuo::tions of the ministry
+Artde 100(1)
+CounCil ct
+M.rrste
+3010.2016.
+30.042016
+9.
+Techmcalrules
+Article 10{1)
+Council d
+l.tVT;s.ters
+30.102017
+30.102016
+MEI.
+10.lnlerim teohnlcal rules and safety artcfltl10(2JMF.I30.10.201630.04.2016M11.lns1ruction of des\gnalion oftflilnsmls.s.lon and dlstrib.Jtion zonesArude 23(4)MEl30.10201630.042016M12General terms andoondlf.ioos fOf tne access to upstn am pdl8hne actMiles.ArtiCle (21MEl30 10 201630 04 201613.Rulation on Stael lns.pectorS1e in oharge of the na ralgassectOf surveillaoooArtide 101(1)MEl30.10201630.04201614.Conditions and Pfooedures fOfl ti’Y”y’ing finesAr1icle 106(3)MEl30.10.201630.04.201615.Report on securrty of gas su,p yArtkle 7MEl31.07201630.05201616.PdlclllsJ’p rammes for nat ral gas sector developmentArtkle 5MElNfAN’(.el.10.lnlerim teohnlcal rules and safety artcfltl10(2JMF.I30.10.201630.04.2016M11.lns1ruction of des\gnalion oftflilnsmls.s.lon and dlstrib.Jtion zonesArude 23(4)MEl30.10201630.042016M12General terms andoondlf.ioos fOf tne access to upstn am pdl8hne actMiles.ArtiCle (21MEl30 10 201630 04 201613.Rulation on Stael lns.pectorS1e in oharge of the na ralgassectOf surveillaoooArtide 101(1)MEl30.10201630.04201614.Conditions and Pfooedures fOfl ti’Y”y’ing finesAr1icle 106(3)MEl30.10.201630.04.201615.Report on securrty of gas su,p yArtkle 7MEl31.07201630.05201616.PdlclllsJ’p rammes for nat ral gas sector developmentArtkle 5MElNfAN’(.el.E
+10.
+lnlerim teohnlcal rules and safety artcfltl
+10(2J
+MF.I
+30.10.2016
+30.04.2016
+M
+11.
+lns1ruction of des\gnalion of
+tflilnsmls.s.lon and dlstrib.Jtion zones
+Arude 23(4)
+MEl
+30.102016
+30.042016
+M
+12
+General terms andoondlf.ioos fOf tne access to upstn am pdl8hne actMiles.
+ArtiCle (21
+MEl
+30 10 2016
+30 04 2016
+13.
+Rulation on Stael lns.pectorS1e in oharge of the na ralgassectOf surveillaooo
+Artide 101(1)
+MEl
+30.102016
+30.042016
+14.
+Conditions and Pfooedures fOf
+l ti’Y”y’ing fines
+Ar1icle 106(3)
+MEl
+30.10.2016
+30.04.2016
+15.
+Report on securrty of gas su,p y
+Artkle 7
+MEl
+31.072016
+30.052016
+16.
+PdlclllsJ’p rammes for nat ral gas sector development
+Artkle 5
+MEl
+NfA
+N’(.el.
 10.
 lnlerim teohnlcal rules and safety artcfltl
 10(2J
@@ -4972,7 +5147,8 @@ prooedures f«the allocaon of capacity and oonges1ion management
 byE
 1Q . Es!ablis.tiing piioesaooordJ-lg 1o Aiticle 16(2) ERE 30.04.2017 30.04.2017 E
 tariff methodologies
-1 20.General oondrhonsofsuppty, Atide 16(10) f.RF. 30.04.2017 30.10.2016 E
+1 20.1 20.General oondrhonsofsuppty, Atide 16(10) f.RF. 30.04.2017 30.10.2016 E
+1 20.
 1 20.
 uldudong transparent Qeneral oonlrac\lal 1enns and oondlioos
 21. Roqu1t0ments br me TSO for Altde 16(13) ERE 30.04.2017 30.10.2016 ERE
@@ -4980,7 +5156,8 @@ m<iin1enanoe and developmen1of
 tra nsmls.s4on gnd
 (b be d
 22. Acoounling unbundling guidelines Artde 16(14) ERE 30.04.2017 30.10.2016 E
-rei1 23. Dispule resolution mecllansns for Artcle 16(16) ERE 30.04.2017 30.10.2016 E
+reirei1 23. Dispule resolution mecllansns for Artcle 16(16) ERE 30.04.2017 30.10.2016 E
+rei
 rei
 natu gas oodertak.ings
 1 24 E>CemJ:(iOns f«new mtastrucl.lre Aride 16(171 em: 30 04 2017 30 10.20113 E
@@ -4988,7 +5165,95 @@ prooedt.n
 25, Quality of ser’lftce andsu.p y Ntde 16(18) fRE 30 04.2017 30 10.2016 ER
 mll’lmum standards oonsu
 assi s
-26.Reoort.na reRW tsrot natural gas undertak111gsAtkle 16(241ERE30.04 201730.102016’D.Mtllh:ldology for calculatflll 111e pooe for ancilary andbalanring NloesAt!de 16(27)ERE30.04 201730.102016o28Rules and regulauons tlr ICoonsult.abonsMde 16(21ERE04.201730.10.201629Rules of prooeecLngsArticle 20ERE04.201730.10.2016LIIOeil$1119 oond,tiOnsArtiCle 23(1)Artlcle 24(1}CRI:04.201730.10.201631Regula•on on proceduresforuansfeiMg t11e assetsArtiCle .29{21ERE30 04.201730.10.2016o32.Cert.ftcatoo rule s ndUdllg t11erules for exem.pled TSOAt11cleArtlc:le 36{21ERE30.042017N/A33TransmissionCodeArticle 44(1)ERE30 04.201730.10.2016oa[t>34Re gu atoo on tl’le l)rocedll’es for the Sltillli!>SIOn..-.d awroval d TSO onvestmeot piMSAtkle46(121ERE30.04 201730.10201635T so oompianoe progranmeMde 47(1)FRF30.04201730.10201636Cornpkance oftOEI’ oon raclMde 47(3)F’RF.30.04 201730.10201637.TmnspaiQ’Icy requsemmtsMkle 48(2}ERE30.04 201730.10201638.DiSi’ibut:iOii Gild C«JeAltide 54(1}ERE30.04201730.102016oa
+26.Reoort.na reRW tsrot natural gas undertak111gsAtkle 16(241ERE30.04 201730.102016’D.Mtllh:ldology for calculatflll 111e pooe for ancilary andbalanring NloesAt!de 16(27)ERE30.04 201730.102016o28Rules and regulauons tlr ICoonsult.abonsMde 16(21ERE04.201730.10.201629Rules of prooeecLngsArticle 20ERE04.201730.10.2016LIIOeil$1119 oond,tiOnsArtiCle 23(1)Artlcle 24(1}CRI:04.201730.10.201631Regula•on on proceduresforuansfeiMg t11e assetsArtiCle .29{21ERE30 04.201730.10.2016o32.Cert.ftcatoo rule s ndUdllg t11erules for exem.pled TSOAt11cleArtlc:le 36{21ERE30.042017N/A33TransmissionCodeArticle 44(1)ERE30 04.201730.10.2016oa[t>34Re gu atoo on tl’le l)rocedll’es for the Sltillli!>SIOn..-.d awroval d TSO onvestmeot piMSAtkle46(121ERE30.04 201730.10201635T so oompianoe progranmeMde 47(1)FRF30.04201730.10201636Cornpkance oftOEI’ oon raclMde 47(3)F’RF.30.04 201730.10201637.TmnspaiQ’Icy requsemmtsMkle 48(2}ERE30.04 201730.10201638.DiSi’ibut:iOii Gild C«JeAltide 54(1}ERE30.04201730.102016o26.Reoort.na reRW tsrot natural gas undertak111gsAtkle 16(241ERE30.04 201730.102016’D.Mtllh:ldology for calculatflll 111e pooe for ancilary andbalanring NloesAt!de 16(27)ERE30.04 201730.102016o28Rules and regulauons tlr ICoonsult.abonsMde 16(21ERE04.201730.10.201629Rules of prooeecLngsArticle 20ERE04.201730.10.2016LIIOeil$1119 oond,tiOnsArtiCle 23(1)Artlcle 24(1}CRI:04.201730.10.201631Regula•on on proceduresforuansfeiMg t11e assetsArtiCle .29{21ERE30 04.201730.10.2016o32.Cert.ftcatoo rule s ndUdllg t11erules for exem.pled TSOAt11cleArtlc:le 36{21ERE30.042017N/A33TransmissionCodeArticle 44(1)ERE30 04.201730.10.2016oa[t>34Re gu atoo on tl’le l)rocedll’es for the Sltillli!>SIOn..-.d awroval d TSO onvestmeot piMSAtkle46(121ERE30.04 201730.10201635T so oompianoe progranmeMde 47(1)FRF30.04201730.10201636Cornpkance oftOEI’ oon raclMde 47(3)F’RF.30.04 201730.10201637.TmnspaiQ’Icy requsemmtsMkle 48(2}ERE30.04 201730.10201638.DiSi’ibut:iOii Gild C«JeAltide 54(1}ERE30.04201730.102016oa
+26.
+Reoort.na reRW tsrot natural gas undertak111gs
+Atkle 16(241
+ERE
+30.04 2017
+30.102016
+’D.
+Mtllh:ldology for calculatflll 111e pooe for ancilary andbalanring Nloes
+At!de 16(27)
+ERE
+30.04 2017
+30.102016
+o
+28
+Rules and regulauons tlr IC
+oonsult.abons
+Mde 16(21
+ERE
+04.2017
+30.10.2016
+29
+Rules of prooeecLngs
+Article 20
+ERE
+04.2017
+30.10.2016
+LIIOeil$1119 oond,tiOns
+ArtiCle 23(1)
+Artlcle 24(1}
+CRI:
+04.2017
+30.10.2016
+31
+Regula•on on proceduresfor
+uansfeiMg t11e assets
+ArtiCle .29{21
+ERE
+30 04.2017
+30.10.2016
+o
+32.
+Cert.ftcatoo rule s ndUdllg t11e
+rules for exem.pled TSO
+At11cle
+Artlc:le 36{21
+ERE
+30.042017
+N/A
+33
+TransmissionCode
+Article 44(1)
+ERE
+30 04.2017
+30.10.2016
+o
+a
+[t>
+34
+Re gu atoo on tl’le l)rocedll’es for the Sltillli!>SIOn..-.d awroval d TSO onvestmeot piMS
+Atkle46(121
+ERE
+30.04 2017
+30.102016
+35
+T so oompianoe progranme
+Mde 47(1)
+FRF
+30.042017
+30.102016
+36
+Cornpkance oftOEI’ oon racl
+Mde 47(3)
+F’RF.
+30.04 2017
+30.102016
+37.
+TmnspaiQ’Icy requsemmts
+Mkle 48(2}
+ERE
+30.04 2017
+30.102016
+38.
+DiSi’ibut:iOii Gild C«Je
+Altide 54(1}
+ERE
+30.042017
+30.102016
+o
 26.
 Reoort.na reRW tsrot natural gas undertak111gs
 Atkle 16(241
@@ -5399,14 +5664,15 @@ Gazsjellësi fillimisht do të ketë një kapacitet prej 10 bmk/vit dhe një pru
 2 Raporti mbi Studimin e Fizibilitetit dhe VNMS për Gazsjellësin Jonian - Adriatik, Janar 2014, COWI- IPF
 TAP konsiderohet i rëndësishëm për Shqipërinë, sepse e lidh atë me Korridorin Jugor të Gazit, duke i ofruar tregut shqiptar një mundësi të furnizimit me gaz natyror. Projekti TAP do të jetë një nga investimet e huaja më të mëdha në
 Shqipëri dhe, si i tillë, do të gjenerojë përfitime të konsiderueshme dhe perspektiva të reja për industrinë dhe komunitetet lokale.
-Shoqëria TAP AG do të ndërtojë, dhe operojë gazsjellësin TAP. Shqipëria, Greqia dhe Italia kanë nënshkruar një marrëveshje ndërqeveritare për TAP-in. Në bazë të Vendimit të Përbashkët të Enteve Rregullatore të Energjisë të Italisë, Shqipërisë, dhe Greqisë në qershor 2013, TAP AG është do të ofrojë të paktën një pikë dalje në Shqipëri (që gjendet në Fier), me një kapacitet prej 2-10 mmk/ditë (0,73-3,65
-bmk/vit). Përveç Fierit, një pikë e dytë dalje është në diskutim në zonën e Kuçovës. Në bazë të marrëveshjes, TAP AG ka për të ndërtuar një pikë dalje në Shqipëri me një kapacitet minimal prej 0.3 bmk/vit.
+Shoqëria TAP AG do të ndërtojë dhe do të operojë gazsjellësin TAP.
+Shqipëria, Greqia dhe Italia kanë nënshkruar një marrëveshje ndërqeveritare për TAP-in. Në bazë të vendimit të përbashkët të enteve rregullatore të energjisë të Italisë, Shqipërisë dhe Greqisë, më qershor 2013, TAP AG është e detyruar të ndërtojë të paktën një pikë daljeje me dy drejtime (bidireksionale) në Shqipëri (që gjendet në Fier), me një kapacitet prej 2-10 mmk/ditë (0,73-3,65 bmk/vit). Përveç Fierit, një pikë e dytë daljeje është në diskutim në zonën e Kuçovës.
 Gazsjellësi Jonian - Adriatik (IAP)
 IAP do të jetë rreth 511 km i gjatë, ku rreth 168 km do të jenë në seksionin shqiptar. Korridori i IAP-it fillon në stacionin e kompresorit të gazsjellësit TAP afër Fierit dhe shkon në lindje në drejtim të Shkodrës (shih figurën më poshtë). Pranë Torovicës do të vendoset një stacion valvulash bllokuese (SVB) ndërsa në Bushat do të vendoset një stacion matjeje dhe transferimi (CTMS). Nga Torovica, rruga shkon drejt kufirit midis Shqipërisë dhe Malit të Zi në Shkodër. Në kufi gazsjellësi do të kalojë lumin e Bunës.
 B rrtl
 Durres
 ,.,.
-«tiRAN
+««tiRAN
+«
 «
 •cmal
 • E boson
@@ -5421,10 +5687,12 @@ t- ’’-8• I
 Connection Point \ AP / \
 to TAP \ Kor \..
 I ’ .....
-”--,”S...- I tD ,.., .., -’ , •..,-... ,.....:
+”--,””--,”S...- I tD ,.., .., -’ , •..,-... ,.....:
+”--,”
 ”--,”
 ’;
-•Ill
+••Ill
+•
 •
 ll ••
 Erul.t
@@ -5711,10 +5979,13 @@ Ka’llbrn’Un
 Peninsula
 Strait of
 Otranto
--· ·’’ -,.-·-·-· -·-
+-·-· ·’’ - ·’’ -,.-·-·-· -·-
+-·
 -·
 ·’’ -
-LIonian Sea
+·’’ -
+LLIonian Sea
+L
 L
 Figura 4-1: Tubacionet ekzisuese te gazit deri ne Dhjetor 2014, Burimi: Albpetrol sh.a.
 4.2 Të dhënat kryesore të Sistemit të
@@ -5808,6 +6079,7 @@ Poshnjë Berat 7,375 78,362 10.0
 Urë Vajgurore Berat 7,232 28,181 3.6
 Durrës
 Bubq Fushë-Krujë 5,951 63,231 8.1
+Gjatësia eGjatësia e
 Gjatësia e
 Gjatësia e
 Kostot
@@ -6973,9 +7245,9 @@ Total
 100
 5.6 Të dhëna mbi tubacionet e gazit
 Parametrat e përgjithshme të sistemit të transmetimit në Shqipëri janë:
- Presioni Maksimal i Lejuar:
-- 82 bar, për seksionet e IAP dhe 50 bar për pjesën tjetër të sistemit të transmetimit në Shqipëri
-- 50 bar, për sistemin e transmetimit në Shqipëri kur IAP nuk ekziston
+ Presioni maksimal i lejuar:
+- 82 bar, për seksionet e IAP dhe deri në 100 bar për pjesën tjetër të sistemit të transmetimit në Shqipëri;
+- Deri në 100 bar, për sistemin e transmetimit në Shqipëri kur IAP nuk ekziston.
  Trashësia e mureve të tubacioneve specifikohet sipas SSH EN 1594 në përputhje me SSH EN 10208-2.
  Materialet standarde:
 - L245NB / L245MB; (8”-12”)
@@ -7242,7 +7514,35 @@ inç km €/”m Milion € m3
 16 31.4 25.6 12.9 217,800
 26 CTMS/PRMS PËRRENJAS - KUFIRI ME IRJM
 16 5.0 25.1 2.0 34,600
-Skenari 2Segmentet e TubacioneveKostoja e InvestimitSasia e gazit për mbushjen fillestare të tubacioneve Kosto Kosto të Diametri Gjatësia Specifike Investimit të për Investimit Tubacionin inç km €/”m Milion € m3 1 CP1 FIER - FIER 16 5.1 1.6 1.6 35,400 2 FIER - PRMS VLORË 12 31.6 7.8 7.8 140,400 3 PRMS VLORË - TEC VLORË 8 3.1 0.6 0.6 6,000 4 FIER - PRMS FIER 12 10.3 2.4 2.4 44,100 5 PRMS FIER - PRMS BALLSH 8 23.1 3.9 3.9 44,800 6 PRMS BALLSH - PRMS TEPELENË 8 48.6 7.9 7.9 94,400 7 PRMS TEPELENË - PRMS GJIROKASTËR 8 19.4 3.3 3.3 37,600 8 PRMS GJIROKASTËR - PRMS SARANDË 8 35.7 7.4 7.4 69,300 9 CP1 FIER - LUSHNJE 32 15.7 13.3 13.3 689,700 10 LUSHNJE - PRMS DUMREA 20 35.0 18.4 18.4 594,600Tabela 5.7: Kostot kapitale për tubacionet sipas Skenarit 2
+Skenari 2Segmentet e TubacioneveKostoja e InvestimitSasia e gazit për mbushjen fillestare të tubacioneve Kosto Kosto të Diametri Gjatësia Specifike Investimit të për Investimit Tubacionin inç km €/”m Milion € m3 1 CP1 FIER - FIER 16 5.1 1.6 1.6 35,400 2 FIER - PRMS VLORË 12 31.6 7.8 7.8 140,400 3 PRMS VLORË - TEC VLORË 8 3.1 0.6 0.6 6,000 4 FIER - PRMS FIER 12 10.3 2.4 2.4 44,100 5 PRMS FIER - PRMS BALLSH 8 23.1 3.9 3.9 44,800 6 PRMS BALLSH - PRMS TEPELENË 8 48.6 7.9 7.9 94,400 7 PRMS TEPELENË - PRMS GJIROKASTËR 8 19.4 3.3 3.3 37,600 8 PRMS GJIROKASTËR - PRMS SARANDË 8 35.7 7.4 7.4 69,300 9 CP1 FIER - LUSHNJE 32 15.7 13.3 13.3 689,700 10 LUSHNJE - PRMS DUMREA 20 35.0 18.4 18.4 594,600Skenari 2Segmentet e TubacioneveKostoja e InvestimitSasia e gazit për mbushjen fillestare të tubacioneve Kosto Kosto të Diametri Gjatësia Specifike Investimit të për Investimit Tubacionin inç km €/”m Milion € m3 1 CP1 FIER - FIER 16 5.1 1.6 1.6 35,400 2 FIER - PRMS VLORË 12 31.6 7.8 7.8 140,400 3 PRMS VLORË - TEC VLORË 8 3.1 0.6 0.6 6,000 4 FIER - PRMS FIER 12 10.3 2.4 2.4 44,100 5 PRMS FIER - PRMS BALLSH 8 23.1 3.9 3.9 44,800 6 PRMS BALLSH - PRMS TEPELENË 8 48.6 7.9 7.9 94,400 7 PRMS TEPELENË - PRMS GJIROKASTËR 8 19.4 3.3 3.3 37,600 8 PRMS GJIROKASTËR - PRMS SARANDË 8 35.7 7.4 7.4 69,300 9 CP1 FIER - LUSHNJE 32 15.7 13.3 13.3 689,700 10 LUSHNJE - PRMS DUMREA 20 35.0 18.4 18.4 594,600Tabela 5.7: Kostot kapitale për tubacionet sipas Skenarit 2
+Skenari 2
+Segmentet e Tubacioneve
+Kostoja e Investimit
+Sasia e gazit për mbushjen fillestare të tubacioneve
+Kosto Kosto të
+Diametri Gjatësia Specifike Investimit të për
+Investimit Tubacionin
+inç km €/”m Milion € m3
+1 CP1 FIER - FIER
+16 5.1 1.6 1.6 35,400
+2 FIER - PRMS VLORË
+12 31.6 7.8 7.8 140,400
+3 PRMS VLORË - TEC VLORË
+8 3.1 0.6 0.6 6,000
+4 FIER - PRMS FIER
+12 10.3 2.4 2.4 44,100
+5 PRMS FIER - PRMS BALLSH
+8 23.1 3.9 3.9 44,800
+6 PRMS BALLSH - PRMS TEPELENË
+8 48.6 7.9 7.9 94,400
+7 PRMS TEPELENË - PRMS GJIROKASTËR
+8 19.4 3.3 3.3 37,600
+8 PRMS GJIROKASTËR - PRMS SARANDË
+8 35.7 7.4 7.4 69,300
+9 CP1 FIER - LUSHNJE
+32 15.7 13.3 13.3 689,700
+10 LUSHNJE - PRMS DUMREA
+20 35.0 18.4 18.4 594,600
 Skenari 2
 Segmentet e Tubacioneve
 Kostoja e Investimit
@@ -8996,7 +9296,10 @@ Gazit Natyror= 4,917 ktne
 15%
 15%
 1%
-Solid Fuels Oil Products Natural Gas Wood/Biomass Other Solar Hydro Electricity Imported Electricity49%
+Solid Fuels Oil Products Natural Gas Wood/Biomass Other Solar Hydro Electricity Imported Electricity Solid Fuels Oil Products Natural Gas Wood/Biomass Other Solar Hydro Electricity Imported Electricity49%
+Solid Fuels Oil Products Natural Gas
+Wood/Biomass Other Solar
+Hydro Electricity Imported Electricity
 Solid Fuels Oil Products Natural Gas
 Wood/Biomass Other Solar
 Hydro Electricity Imported Electricity
@@ -9014,9 +9317,11 @@ Bazuar në analizat e kryera, rekomandohet plani i mëposhtëm i zhvillimit sipa
 Në terma afatshkurtër
 1. Zhvillimi i gazsjellësit TAP - TEC-i i Vlorës, dhe nëse është e mundur, zhvillimi i sistemit të shpërndarjes së gazit në qytetin e Vlorës;
 2. Zhvillimi i sistemit të transmetimit për të furnizuar konsumatorët spirancë në Fier dhe Ballsh dhe nëse është e mundur zhvillimi i sistemeve lokale të shpërndarjes së gazit në zonat e Fierit dhe Ballshit;
+2.1 Zhvillimi i pikës së daljes dhe rrjetit të shpërndarjes Bashkia Korçë.
 Në terma afatmesëm
 3. Zhvillimi i sistemit të transmetimit për të furnizuar kryesisht zonat industriale në Elbasan, si dhe zhvillimi i hapësirave të depozitimit të gazit në Dumre;
 4. Zhvillimi i sistemit të transmetimit për furnizimin e konsumatorëve industrialë dhe komercialë në zonën e Durrësit dhe të Tiranës;
+4.1 Zhvillimi i rrjetit të shpërndarjes së gazit të lëngshëm natyror.
 Në terma afatgjatë
 5. Zhvillimi i gazsjellësit drejt Kosovës
 6. Zhvillimi i sistemit të transmetimit të gazit afër Korçës, për të furnizuar
@@ -9097,7 +9402,8 @@ M;!!
 \....._-K- a-aji..
 Lushnje
 755 0l”l{:l’l’lo”)(
-5”1Al-fl-lCr-Bo·rd-er·---
+5”15”1Al-fl-lCr-Bo·rd-er·---
+5”1
 5”1
 ....- -”.JI.3 I’ICITJ’)’I
 .rC’ ,ASAAIAS’\
@@ -9124,7 +9430,8 @@ TA?
 CP 3
 Offtal<J
 Korce
-- - eTA? CP
+- - e- - eTA? CP
+- - e
 - - e
 Greec
 so b<H
@@ -9141,7 +9448,8 @@ _,...·-,;R,AS···-.....
 ’-...Ffi·_/jOjz·’-..’-!’... nitri\.,_ alls_h j 49ii\.! P’”?Y20i<it· j; ok<>!I3G •m\. ?’’” )
 1
 /·--.,;p--·...... /.·,-.,;·..,
-1’-., Vlor• ...Jt;;:;;\. Vlore _ .)
+11’-., Vlor• ...Jt;;:;;\. Vlore _ .)
+1
 1
 195-oruirivyf s2iffficir:•t1’
 1€5..1 rncmlvr
@@ -9151,7 +9459,8 @@ _,...·-,;R,AS···-.....
 .. J· ......... C?2
 Olt:ake 2
 Bemt
-.. - .. -....TA-=’ TAP C=’
+.. - .. -...... - .. -....TA-=’ TAP C=’
+.. - .. -....
 .. - .. -....
 .... Greece
 CP . T_!\0: Ita!· -
@@ -9170,7 +9479,8 @@ TAP C=’
 •<> 22C.S mcmtr 90.4 rn:.:. •f:l 4.8 mcrr/y1 21.0mcm/yr 12 1 :ncmt’(f
 / F --.. ·· PRI.IS ’-_..:’,. PRMS / -PRidS’ ’\_ ,..·.P. Rr,.S· ’. ,...(· ·pR ;s· ,
 1
-_”-···-- 10 kin · ·Fler•./23 k n’ ..”•”•/ 4> , ,.’Tepel-120 Km,G! 1
+__”-···-- 10 kin · ·Fler•./23 k n’ ..”•”•/ 4> , ,.’Tepel-120 Km,G! 1
+_
 _
 · ->< km sar•no• /
 1
@@ -9182,7 +9492,8 @@ _
 ,......P-R··-..-..
 CP . T_!\0:
 Ita!· -
-:c.:._,\.. B r:lt )
+:c.:._,:c.:._,\.. B r:lt )
+:c.:._,
 :c.:._,
 60 O:tr, · .
 C?2
@@ -9193,14 +9504,16 @@ TA-=’ TAP C=’
 207 9 mcm(yr
 ’:la baf. . __
 ,/ PRIAS ’- .
-..\,, Ouucs /
+....\,, Ouucs /
+..
 ..
 .._ -· ·
 rr=- -
 105.’1 mcrrP,r·
 .- .. .. 50.:0kr
 ,....•• PRhtS ·-..-..,
-:c::_,\.. Ber)
+:c::_,:c::_,\.. Ber)
+:c::_,
 :c::_,
 60 O:tr, ··:.:
 CP ._ !Af-
@@ -9216,11 +9529,13 @@ Cfft:ak S
 Korc
 co
 Greece
-..1... _./ -. ” 12’ / ’PR-;:,;·.·....., .(,..·,- .;...;·/ ·’PftffiS’ ’\_..-·PA:r..S·”” .,..(·· PR ;s.. ,
+..1... _...1... _./ -. ” 12’ / ’PR-;:,;·.·....., .(,..·,- .;...;·/ ·’PftffiS’ ’\_..-·PA:r..S·”” .,..(·· PR ;s.. ,
+..1... _.
 ..1... _.
 ’ Frcr / 10 k.n \. F er ./23 k fl’-.. Bllsh / 4i:m>.. Tep(ll9ne120Km - k !/ :’lfi km,sarende /
 200.s •n¢;lV; t 904 m::;fy1 48-mciT\· 21.0 mcmiyr Q.l rnC 1yr
-.,;:: 45.4 bar 36.2 b.H 32.& b<:r 1 fi b:u 31.!’> :l:H
+.,.,;:: 45.4 bar 36.2 b.H 32.& b<:r 1 fi b:u 31.!’> :l:H
+.,
 .,
 ,....·. -.;,.-.. ... (··pR!s.·.’)
 ’ Vlor./ . km -. vsore /
@@ -9233,13 +9548,15 @@ li55Mr
 207 9 mcm(yr
 ’:la baf. . __
 ,/ PRIAS ’- .
-..\,, Ouucs /
+....\,, Ouucs /
+..
 ..
 .._ -· ·
 105.’1 mcrr/.,.r
 . _ -.. 50. • kr
 ,....•• PRMS ·-..-..,
-:c.:._,\.. B r:lt )
+:c.:._,:c.:._,\.. B r:lt )
+:c.:._,
 :c.:._,
 60 O:tr, :.·
 CP ._ !Af-
@@ -9253,13 +9570,20 @@ Korc
 co
 Greece
 / -. ” 12’ / ’PR-;:,;·.·....., .(,..·-,.;...;· / ·’PftffiS’ ’\_.... ·PA:r..S·”” .,-..(·· PR ;s.. ,
-200.s • n¢;lV; t 904 m: :;fy1 48- mciT \-21.0 mcmiyr 45.4 bar 36.2 b .H 32.& b;:r1 fi b:u;::’ ..1...Frcr_./ 10 k.n \. F er ./23 k fl’-.. Bllsh / 41:1r. >.. Tep(l 9ne /:(0Km
+200.s • n¢;lV; t 904 m: :;fy1 48- mciT \-21.0 mcmiyr 45.4 bar 36.2 b .H 32.& b;:r1 fi b:u 200.s • n¢;lV; t 904 m: :;fy1 48- mciT \-21.0 mcmiyr 45.4 bar 36.2 b .H 32.& b;:r1 fi b:u;::;::’ ..1...Frcr_./ 10 k.n \. F er ./23 k fl’-.. Bllsh / 41:1r. >.. Tep(l 9ne /:(0Km
 200.s • n¢;lV; t 904 m:
 :;fy1 48- mciT \-
 21.0 mcmiyr
 45.4 bar 36.2 b
 .H 32.& b;:r
 1 fi b:u
+200.s • n¢;lV; t 904 m:
+:;fy1 48- mciT \-
+21.0 mcmiyr
+45.4 bar 36.2 b
+.H 32.& b;:r
+1 fi b:u
+;::
 ;::
 .,
 l.l k !/ :’lfi km,sarende /
@@ -9279,7 +9603,8 @@ rr=- -
 105.’1 mcrrP,·r
 .- .. .. 50.:0 kr
 ,....•• PRhtS ·-..-..,
-:c::_,\.. Ber)
+:c::_,:c::_,\.. Ber)
+:c::_,
 :c::_,
 60 O:tr, ··:.:
 CP . TAP
@@ -9300,7 +9625,8 @@ Greece
 ’..1... rcr_./ 10 kn.l
 . F er ./23 k fl’-.. Bllsh / 4i:m>.. Tep(ll9ne120Km -k !/ :’lfi km, sarende /
 200.s •n¢.;.v; t 904 m::;fy1 48- mciT\· 21.0 mcmiyr Q.l rnC 1yr
-.,;:: 45.4 bar 36.2 b.H 32.& b<:r 1 fi b:u 31.!’> :l:H
+.,.,;:: 45.4 bar 36.2 b.H 32.& b<:r 1 fi b:u 31.!’> :l:H
+.,
 .,
 ,....·. -.;,.-..\ ... ( ··pR!s.·.’)
 ’ Vlor./ . km -. vsore /
@@ -9330,29 +9656,37 @@ Cfft:ak S
 Korc
 co
 Greece
-..1... _. ’l’. k !// -. ” 12’ / ’PR-;:,;··......, .(,..·,- .;...;·/ ·’PftffiS’ ’\_.... ·PA:r..S’””.,-..(·· PR ;s..,
+..1... _. ’l’. k !/ ..1... _. ’l’. k !// -. ” 12’ / ’PR-;:,;··......, .(,..·,- .;...;·/ ·’PftffiS’ ’\_.... ·PA:r..S’””.,-..(·· PR ;s..,
+..1... _. ’l’. k !/
 ..1... _. ’l’. k !/
 1
 ’ Frcr / 10 k.n \. F er ./23 k fl’-.. Bllsh / 41:1r. >.. Tep(ll9ne 120 Km :’lfi km, sarende /
 200.s •n¢.;.v; t 904 m::;fy1 48- mciT\- 21.0 mcmiyr Q.l rnCf’(r
-.,;:: 45.4 bar 36.2 b.H 32.& b;:r 1 fi b:u 31.!’> :l:H
+.,.,;:: 45.4 bar 36.2 b.H 32.& b;:r 1 fi b:u 31.!’> :l:H
+.,
 .,
 ,....·. -.;,.-.. ... (··pR!s.·.’)
 ’ Vlor./ . km -. vsore /
 1s?.Omem..)., 620 mC·.:;r
 39.2 bar 41.8 bar
-•+N e -· · ””” ,..,..
+•+N e - •+N e -· · ””” ,..,..
+•+N e -
 •+N e -
 - ·- n-..:. 7
 GAS1’1Uii-1’9£UHE LAYOUT !:
 -I!R.IfnTTl TAA•$<CTMI
-’rr oonr
+’’rr oonr
 ’
-:o_....._,.
+’
+:o:o_....._,.
 :o
-I--- - Cl’WBII A18 F’*’ 01
+:o
+I-I--- - Cl-- - Cl’’WBII A18 F’*’ 01
+I-
 I-
 -- - Cl
+-- - Cl
+’
 ’
 1:850,000
 f
@@ -9364,12 +9698,14 @@ ooomnc;ATDI”-NO I
 ,. . .,.rt’f’RO#KffW
 c
 ......................,...... .,,.,._...._.._.................,.,.
--WBtF• II ?
+--WBtF• II ?
+-
 -
 ”
 CO \V IIIPI”
 ;
-.,!;
+.,.,!;
+.,
 .,
 ”1\
 . .(
@@ -9378,13 +9714,15 @@ CO \V IIIPI”
 ..’..
 Ill
 C>
-0’!) C)
+00’!) C)
+0
 0
 u -Ill
 _,.
 ”II
 ”
-’b... ......c
+’b’b... ......c
+’b
 ’b
 ”t”
 f
@@ -9394,7 +9732,8 @@ R’J)tO T”a...-CP”.•\ ..;.;ntt (2017 20’20
 r_.,.,l’lc>of,..t.’-0•.,-QO:l, ZOQ’ 1:
 .._.. ...,. .A!.,
 n)t.20’JS •
-.,.,..,. .._a.»(21)21T-l’lc>of.-.’-r....aca· 200111
+.,.,..,. .._a.»(21)21.,.,..,. .._a.»(21)21T-l’lc>of.-.’-r....aca· 200111
+.,.,..,. .._a.»(21)21
 .,.,..,. .._a.»(21)21
 Rr)et r-.... 20101
 fJ.p
@@ -9831,7 +10170,8 @@ Viti 2030 Furnizi mi nga Burimet
 Primare = 213 ktne
 Viti 2040 Furnizimi nga Burimet
 Primare = 295 ktne
-Il bimt’ttflllll”...t
+IIl bimt’ttflllll”...t
+I
 I
 I Pro<MttHNl”its
 8 GatiH!I!JfOI
@@ -10053,7 +10393,8 @@ million
 Austria Belarus Bulgaria
 5 Croatia
 Czech Rep Denmark Estonia France Germany
-persons/household4 Greece
+persons/householdpersons/household4 Greece
+persons/household
 persons/household
 Hungary Iceland Ireland Italy Latvia
 3 Lithuania Malta Moldova, Rep Netherlands Norway
@@ -10076,7 +10417,8 @@ Shqipëri do të jetë 74 m².
 140
 120
 100
-m2/dw80
+m2/dwm2/dw80
+m2/dw
 m2/dw
 60
 40
@@ -10101,7 +10443,8 @@ Finland
 3,0
 2,5
 France Germany Greece
-Wh/m2/h2,0
+Wh/m2/hWh/m2/h2,0
+Wh/m2/h
 Wh/m2/h
 Italy
 Netherlands
@@ -10131,7 +10474,8 @@ humbjes së nxehtësisë së njësive të banimit.
 0,6
 Cooking
 0,5
-Mtoe0,4
+MtoeMtoe0,4
+Mtoe
 Mtoe
 Water heating
 0,3
@@ -10328,7 +10672,8 @@ Z1
 0,45
 0,40
 0,35
-Mtoe0,30
+MtoeMtoe0,30
+Mtoe
 Mtoe
 0,25
 0,20
@@ -10346,7 +10691,8 @@ Z2
 0,40
 0,35
 0,30
-Mtoe0,25
+MtoeMtoe0,25
+Mtoe
 Mtoe
 Cooking
 0,20
@@ -10362,7 +10708,8 @@ Z3
 0,45
 0,40
 0,35
-Mtoe0,30
+MtoeMtoe0,30
+Mtoe
 Mtoe
 0,25
 0,20
@@ -10513,7 +10860,8 @@ dhe ftohje ne vitin 2040 do të rritet 3.7 herë.
 0,60
 0,50
 0,40
-Mtoe0,30
+MtoeMtoe0,30
+Mtoe
 Mtoe
 0,20
 0,10
@@ -10560,7 +10908,8 @@ Nje paraqitje grafike e rritjes afatgjate se PBB-se ne Shqiperi jepet me poshte.
 5,0
 4,5
 4,0
-GDP grpwth rate (%)3,5
+GDP grpwth rate (%)GDP grpwth rate (%)3,5
+GDP grpwth rate (%)
 GDP grpwth rate (%)
 3,0
 2,5
@@ -10655,7 +11004,8 @@ Sipas parashikimit te rritjes së PBB për frymë në analogji me vendet e zhvil
 Energy
 20,0
 Service
-109 USD200515,0
+109 USD2005109 USD200515,0
+109 USD2005
 109 USD2005
 Manufacturing
 10,0
@@ -10751,7 +11101,8 @@ Parashikimi i konsumit te energjisë elektrike për ngrohje ne sektorin e prodhi
 0,6
 0,5
 0,4
-Mtoe0,3
+MtoeMtoe0,3
+Mtoe
 Mtoe
 0,2
 0,1
@@ -11068,7 +11419,119 @@ Shqiperi
 Duke mbledhur konsumin e mundshëm gazit natyror në familjet, shërbimet dhe sektorin e industrisë eshte percaktuar konsumi potencial total i gazit natyror, në çdo komunë të Shqipërisë deri ne vitin 2040 (Aneks - konsumi potencial i gazit
 natyror nga ana e prefekturave dhe bashkive të Shqipërisë). Meqë ka një numër te madh komunash në Shqipëri, ne Tabelën 17 me poshte eshte paraqitur konsumi i mundshem i gazit natyror sipas zonave dhe prefekturave deri ne vitin 2040.
 Tabela 17: Konsumi potential total i gazit natyror deri ne vitin 2040 (m3)
-PrefectureDurres201320202025203020352040127,210,344166,847,180201,441,483242,050,662288,244,654339,936,818Fier102,861,576121,405,117138,759,816159,033,290180,976,486204,292,058Tirane275,696,273363,937,253439,497,542524,645,155617,676,823715,442,243Vlore53,978,20766,805,06077,418,25489,466,735102,462,221115,787,331TOTAL559,746,399718,994,610857,117,0941,015,195,8421,189,360,1841,375,458,450Berat36,047,21641,031,50146,374,64452,506,96258,830,27865,302,144Elbasan101,268,707125,031,126148,512,351176,099,693207,114,072241,532,455Gjirokaster26,863,40431,964,84136,922,88642,812,35449,312,09256,526,621Lezhe37,863,56843,469,65650,061,83457,512,60565,150,05973,024,314Shkoder67,886,04681,242,35993,653,654107,675,561122,351,507137,404,213TOTAL269,928,941322,739,483375,525,369436,607,176502,758,007573,789,746Diber25,449,28730,348,41934,759,81939,651,83844,632,61649,675,313Korce62,892,48278,566,50991,796,074106,293,248121,612,807136,811,309Kukes16,559,11918,910,95121,712,96624,762,07327,848,57130,944,617TOTAL104,900,888127,825,879148,268,860170,707,159194,093,994217,431,239Region/Zone
+PrefectureDurres201320202025203020352040127,210,344166,847,180201,441,483242,050,662288,244,654339,936,818Fier102,861,576121,405,117138,759,816159,033,290180,976,486204,292,058Tirane275,696,273363,937,253439,497,542524,645,155617,676,823715,442,243Vlore53,978,20766,805,06077,418,25489,466,735102,462,221115,787,331TOTAL559,746,399718,994,610857,117,0941,015,195,8421,189,360,1841,375,458,450Berat36,047,21641,031,50146,374,64452,506,96258,830,27865,302,144Elbasan101,268,707125,031,126148,512,351176,099,693207,114,072241,532,455Gjirokaster26,863,40431,964,84136,922,88642,812,35449,312,09256,526,621Lezhe37,863,56843,469,65650,061,83457,512,60565,150,05973,024,314Shkoder67,886,04681,242,35993,653,654107,675,561122,351,507137,404,213TOTAL269,928,941322,739,483375,525,369436,607,176502,758,007573,789,746Diber25,449,28730,348,41934,759,81939,651,83844,632,61649,675,313Korce62,892,48278,566,50991,796,074106,293,248121,612,807136,811,309Kukes16,559,11918,910,95121,712,96624,762,07327,848,57130,944,617TOTAL104,900,888127,825,879148,268,860170,707,159194,093,994217,431,239PrefectureDurres201320202025203020352040127,210,344166,847,180201,441,483242,050,662288,244,654339,936,818Fier102,861,576121,405,117138,759,816159,033,290180,976,486204,292,058Tirane275,696,273363,937,253439,497,542524,645,155617,676,823715,442,243Vlore53,978,20766,805,06077,418,25489,466,735102,462,221115,787,331TOTAL559,746,399718,994,610857,117,0941,015,195,8421,189,360,1841,375,458,450Berat36,047,21641,031,50146,374,64452,506,96258,830,27865,302,144Elbasan101,268,707125,031,126148,512,351176,099,693207,114,072241,532,455Gjirokaster26,863,40431,964,84136,922,88642,812,35449,312,09256,526,621Lezhe37,863,56843,469,65650,061,83457,512,60565,150,05973,024,314Shkoder67,886,04681,242,35993,653,654107,675,561122,351,507137,404,213TOTAL269,928,941322,739,483375,525,369436,607,176502,758,007573,789,746Diber25,449,28730,348,41934,759,81939,651,83844,632,61649,675,313Korce62,892,48278,566,50991,796,074106,293,248121,612,807136,811,309Kukes16,559,11918,910,95121,712,96624,762,07327,848,57130,944,617TOTAL104,900,888127,825,879148,268,860170,707,159194,093,994217,431,239Region/Zone
+Prefecture
+Durres
+2013
+2020
+2025
+2030
+2035
+2040
+127,210,344
+166,847,180
+201,441,483
+242,050,662
+288,244,654
+339,936,818
+Fier
+102,861,576
+121,405,117
+138,759,816
+159,033,290
+180,976,486
+204,292,058
+Tirane
+275,696,273
+363,937,253
+439,497,542
+524,645,155
+617,676,823
+715,442,243
+Vlore
+53,978,207
+66,805,060
+77,418,254
+89,466,735
+102,462,221
+115,787,331
+TOTAL
+559,746,399
+718,994,610
+857,117,094
+1,015,195,842
+1,189,360,184
+1,375,458,450
+Berat
+36,047,216
+41,031,501
+46,374,644
+52,506,962
+58,830,278
+65,302,144
+Elbasan
+101,268,707
+125,031,126
+148,512,351
+176,099,693
+207,114,072
+241,532,455
+Gjirokaster
+26,863,404
+31,964,841
+36,922,886
+42,812,354
+49,312,092
+56,526,621
+Lezhe
+37,863,568
+43,469,656
+50,061,834
+57,512,605
+65,150,059
+73,024,314
+Shkoder
+67,886,046
+81,242,359
+93,653,654
+107,675,561
+122,351,507
+137,404,213
+TOTAL
+269,928,941
+322,739,483
+375,525,369
+436,607,176
+502,758,007
+573,789,746
+Diber
+25,449,287
+30,348,419
+34,759,819
+39,651,838
+44,632,616
+49,675,313
+Korce
+62,892,482
+78,566,509
+91,796,074
+106,293,248
+121,612,807
+136,811,309
+Kukes
+16,559,119
+18,910,951
+21,712,966
+24,762,073
+27,848,571
+30,944,617
+TOTAL
+104,900,888
+127,825,879
+148,268,860
+170,707,159
+194,093,994
+217,431,239
 Prefecture
 Durres
 2013
@@ -11341,7 +11804,8 @@ Fushi Arriz
 Peshkopi
 [e/ovo
 Goslivar
-*;in; Cemert :P.:ll BurrerrochromeBurrel
+*;in; Cemert : *;in; Cemert :P.:ll BurrerrochromeBurrel
+*;in; Cemert :
 *;in; Cemert :
 5
 Fu ; ruje 101
@@ -11351,7 +11815,8 @@ I:HE FORMER YUGOSlAV
 REPUBliC OF
 MACEDONIA
 Brick Fact Vori {t
-*(Ni5htull;,)
+**(Ni5htull;,)
+*
 *
 Durres Shijak
 ._...,. Kavaje
@@ -11363,7 +11828,8 @@ ttiranal
 Peqin
 Cerrik
 Gramsl’l
-..t&rrenjos
+....t&rrenjos
+..
 ..
 L OhrKI!
 Pogradec
@@ -11861,7 +12327,8 @@ Figura tregon konvergjencën midis gazit Norvegjez qe shkon në Belgjikë dhe su
 Dallimet midis çmimeve ndërkombëtare të gazit janë reduktuar në vitin 2014, gje do të thotë se çmimet e gazit te lengezuar nga Azia dhe superterminalit NBP ne Mbretërinë e Bashkuar mbi çmimin e superqendres Amerikane Henry Hub kanë rënë. Megjithatë, diferenca mbetet thelbësore, dhe çmimi i gazit te lengezuar Japonez ishte 3 herë më i larte dhe çmimi in NBP-se ishte 2 herë më i larte se
 Henry Hub në fund të vitit.
 18.00
-US dollars per million Btu16.00
+US dollars per million BtuUS dollars per million Btu16.00
+US dollars per million Btu
 US dollars per million Btu
 14.00
 12.00
@@ -11874,7 +12341,23 @@ US dollars per million Btu
 Japan LNG Average
 German import
 UK (Heren NBP Index)
-1984198619881990199219941996199820002002200420062008201020122014US Henry Hub
+19841986198819901992199419961998200020022004200620082010201220141984198619881990199219941996199820002002200420062008201020122014US Henry Hub
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
 1984
 1986
 1988
@@ -12074,7 +12557,8 @@ Figura me poshte ilustron ndryshimet e çmimit midis gazit natyror ne kufirin
 Shqiptar dhe tipeve te tjera te karburanteve qe perdoren ne Shqiperi.
 0.0800
 0.0700
-EUR/kWh0.0600
+EUR/kWhEUR/kWh0.0600
+EUR/kWh
 EUR/kWh
 0.0500
 0.0400
