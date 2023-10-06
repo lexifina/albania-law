@@ -1,0 +1,43 @@
+# Shtojca
+LISTA EMËRORE E PRONARËVE, PASURITË E PALUAJTSHME, PRONË PRIVATE TË TË CILËVE SHPRONËSOHEN PËR INTERES PUBLIK, NGA REALIZIMI I PROJEKTIT “ZGJERIMI TERRITORIAL I VARREZAVE TË FSHATIT XHAFZOTAJ”, BASHKIA SHIJAK
+Nr. rendor
+PRONARI
+TË DHËNAT KADASTRALE
+(SIPAS KARTELËS SË PASURISË)
+TË DHËNAT PËR SHPRONËSIM
+SHËNIME
+Arë
+VLERA TOTALE (lek)
+Emri
+Atësia
+Mbiemri
+Fshati ose qyteti
+Zona kadastrale
+Numri i pasurisë
+Lloji i pasurisë
+Sipërfaqja Totale
+Arë (m2)
+Volumi
+Faqe
+Sipërfaqja (m2)
+Çmimi (lek/m2)
+Vlera (lek)
+1
+Gani
+Hasan
+Nderjaku
+Xhafzotaj
+3852
+110/48
+Arë
+2500
+2500
+0
+0
+2500
+339
+847,500
+847,500
+Konfirmuar nga ASHK-ja
+VLERA TOTALE
+847,500
