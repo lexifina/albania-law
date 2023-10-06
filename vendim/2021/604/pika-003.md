@@ -6,7 +6,7 @@ c) menaxhimit të integruar të kufirit dhe migracionit;
 d) antiterrorit dhe ekstremizmit të dhunshëm;
 dh) administrimit të pasurive të sekuestruara dhe të konfiskuara nga krimi;
 e) veprimtarisë së prefektit të qarkut;
-ë) bashkërendimit me njësitë e qeverisjes vendore dhe shoqatat e të zgjedhurve vendorë;
+ë) shfuqizuar;
 f) shërbimeve të gjendjes civile;
 g) hartimit të politikave, koordinimit dhe mbikëqyrjes së shërbimit të mbrojtjes nga zjarri;
 gj) veprimtarisë së organit qendror blerës, me autorizim të Këshillit të Ministrave;
