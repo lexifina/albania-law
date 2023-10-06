@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksion i godinave të spitalit ’Shenjta Mari’ dhe Drejtoria e Shëndetit Publik (ish-Spitali Infektiv), njësia administrative Rrëshen”.

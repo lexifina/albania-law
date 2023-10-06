@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës pezullon të gjitha transaksionet me pasurinë e shpronësuar deri në momentin e realizimit të procesit të hedhjes së gjurmës së projektit mbi hartën kadastrale dhe regjistrimit të aktit të kalimit të pronësisë në favor të Bashkisë Mirditë për pasurinë e shpronësuar, sipas këtij vendimi.
