@@ -1,0 +1,1 @@
+1. Zbatimin e Programit të Transparencës të Rishikuar, sipas modelit të miratuar nga Komisioneri për të Drejtën e Informimit dhe Mbrojtjes së të Dhënave Personale, me urdhrin nr. 187, datë 18.12.2020.
