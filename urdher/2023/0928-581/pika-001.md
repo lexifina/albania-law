@@ -1,0 +1,1 @@
+1. Heqjen e licencës së shoqatës “F.M.A.A.” si “Agjenci e Administrimit Kolektiv të të Drejtave të Autorëve në fushën e Kinematografisë dhe të veprave të tjera Audiovizuale Forumi i Mbrojtjes së Producentëve dhe Autorëve - Film & Video” - “FMAA”” në administrimin kolektiv të të drejtave të autorëve në fushën e kinematografisë dhe të veprave të tjera audiovizuale.
