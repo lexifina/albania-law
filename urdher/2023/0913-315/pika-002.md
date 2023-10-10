@@ -1,0 +1,1 @@
+2. Për nënshkrimin e autorizimeve për dërgimin me shërbim të punonjësve të Ministrisë për Evropën dhe Punët e Jashtme, jashtë qendrës së punës, brenda territorit të Republikës së Shqipërisë, në largësi mbi 100 km si dhe jashtë vendit.

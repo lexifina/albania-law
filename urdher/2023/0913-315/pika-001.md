@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së titullarit të autoritetit kontraktor, Sekretarit të Përgjithshëm të Ministrisë për Evropën dhe Punët e Jashtme për të gjitha procedurat e prokurimeve publike me fonde buxhetore të institucionit.
