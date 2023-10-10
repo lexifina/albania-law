@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e miratuar për vitin 2023, i shtohet fondi prej 51 000 000 (pesëdhjetë e një milionë) lekësh, për përballimin e shpenzimeve të organizimit në Tiranë të Samitit të Procesit të Berlinit, datë 16 tetor 2023.
