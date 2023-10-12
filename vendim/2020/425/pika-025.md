@@ -4,6 +4,7 @@ b) vlerën e ofertës fituese;
 c) emrat e ofertuesve të tjerë pjesëmarrës dhe vlerat përkatëse të ofertave të tyre;
 ç) afatin e lidhjes së kontratës;
 d) sigurimin e kontratës që fituesi duhet të bëjë për llogari të institucionit që ka në dispozicion fondet publike, si garanci për përmbushjen e detyrimeve kontraktore.
+25/1. Në rastin e situatave emergjente, sipas parashikimit të pikës 13/1, njoftimi i fituesit për lidhjen e kontratës kryhet brenda 1 (një) dite nga njoftimi.
 III. SHQYRTIMI I ANKIMIT ADMINISTRATIV
 1. Me paraqitjen e ankimit te titullari i institucionit/autoritetit kontraktor që zhvillon procedurën, sipas afatit të përcaktuar në pikën 24, të kreut II, të këtij vendimi, procedura pezullohet. Pas paraqitjes së ankimit, titullari i institucionit/autoritetit kontraktor që zhvillon procedurën, urdhëron ngritjen e një Komisioni, i cili shqyrton ankimin dhe merr vendim të arsyetuar brenda 5 (pesë) ditëve nga marrja e ankesës. Anëtarët që caktohen në Komisionin e shqyrtimit të ankimit, nuk duhet të kenë qenë pjesë e Komisionit të procedurës për të cilën bëhet ankimi.
 2. Vendimi i njoftohet ankuesit jo më vonë se ditën vijuese të punës, në formë shkresore dhe në adresën elektronike të përcaktuar prej tij në formularin e ankesës.
