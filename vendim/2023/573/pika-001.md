@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, për Njësinë Vendore të Kujdesit Shëndetësor Mallakastër, të një pjese të pasurisë nr. 9/32, zona kadastrale 1090, Mallakastër, sipas formularit dhe planrilevimit, që i bashkëlidhen këtij vendimi.
