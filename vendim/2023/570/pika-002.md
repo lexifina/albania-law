@@ -1,0 +1,1 @@
+2. Vlera e tarifës së shfrytëzimit të ambienteve të objektit “Rezidenca Qeveritare, vila 31 Tiranë” do të jetë në masën ekuivalente të shpenzimeve për furnizimin me energji elektrike dhe ujë, si dhe koston e mirëmbajtjes e të trajtimit të këtyre ambienteve gjatë të gjithë periudhës së dhënies në shfrytëzim për këtë projekt.

@@ -1,0 +1,1 @@
+1. Miratimin e tarifës së reduktuar për dhënien në shfrytëzim Ministrisë së Kulturës të disa ambienteve në objektin “Rezidenca Qeveritare, vila 31 Tiranë”, për realizimin e projektit kulturor “Vila Art Rezidencë Tirana”.
