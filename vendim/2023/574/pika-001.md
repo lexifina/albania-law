@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, për spitalin e Tepelenës, të pasurisë nr. 16/55, zona kadastrale 3574, Tepelenë, sipas formularit dhe planrilevimit, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
