@@ -1,0 +1,1 @@
+3. Kohëzgjatja e këtij misioni është deri në 2 (dy) vjet. Periudha e qëndrimit në mision do të jetë 15 (pesëmbëdhjetë) ditë, periudhë së cilës i shtohen edhe ditët e qëndrimit për dorëzimin e detyrës dhe vonesat për transportin strategjik.

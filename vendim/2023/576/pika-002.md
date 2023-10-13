@@ -1,0 +1,1 @@
+2. Misioni i ushtarakëve është trajnimi i personelit të Kolegjit të Shtabit të Forcave të Armatosura në Bagdad, Irak, dhënia e kontributit në trajnimin e personelit në fushën e procesit të planëzimit operacional, procesin e vendimmarrjes ushtarake, trajnimin për sigurinë kibernetike, si dhe edukimin për dhënien e ndihmës së parë.
