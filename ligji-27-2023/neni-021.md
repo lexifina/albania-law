@@ -1,0 +1,3 @@
+# Neni 21
+Detyrimet e prodhueseve për autorizimet e eksportit
+Kur një prodhues ose përfaqësues i një prodhuesi duhet të eksportojë ose të shesë dhe të transferojë mallra, sipas përcaktimit të kreut III ose kreut IV të këtij ligji, te një shpërndarës në një vend të huaj, ai duhet të sigurojë informacion për rregullimet e bëra dhe masat e marra për të parandaluar që mallrat e përfshira në kreun III të përdoren për tortura ose trajtime apo ndëshkime të tjera mizore, çnjerëzore ose poshtëruese ose për të parandaluar mallrat e përfshira në kreun IV nga përdorimi për dënim me vdekje, në vendin e destinacionit, si dhe informacion për përdorimin përfundimtar dhe përdoruesin fundor të mallrave.
