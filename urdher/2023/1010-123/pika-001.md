@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi një metodë të përbashkët të sigurisë për vlerësimin e konformitetit me kërkesat për marrjen e autorizimi të sigurisë hekurudhore”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
