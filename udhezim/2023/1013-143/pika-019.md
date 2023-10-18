@@ -1,0 +1,1 @@
+19. Në rastet e konstatimit të braktisjes së të miturve apo moskthimit në afat të tyre, strukturat e kufirit në bashkëpunim me strukturat e tjera policore njoftojnë autoritet kompetente ligjzbatuese në vend për veprën penale të braktisjes së fëmijëve të mitur, të pretenduar të kryer nga shoqëruesi i të miturit.

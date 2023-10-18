@@ -1,0 +1,1 @@
+20. Për parandalimin dhe goditjen e rasteve të braktisjes së fëmijëve të mitur dhe të abuzimit me të miturit nga trafikantë apo persona të tjerë përfitues bashkëpunohet ngushtësisht edhe me institucionet homologe ligjzbatuese të vendeve fqinje dhe ato ndërkombëtare, sipas legjislacionit ndërkombëtar.
