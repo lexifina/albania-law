@@ -1,1 +1,0 @@
-18. Të gjitha dokumentet që administrohen në Pikat e Kalimit të Kufitar në zbatim të këtij udhëzimi, ruhen për një afat një vjeçar dhe në përfundim të këtij afati asgjësohen nga një komision i ngritur me urdhër të drejtorit të Drejtorisë Vendore për Kufirin dhe Migracionin. Për procedurën e asgjësimit mbahet një procesverbal, ku shënohet lloji i dokumentit, numri dhe data e tij.

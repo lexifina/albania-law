@@ -1,1 +1,0 @@
-15. Roja kufitare vlerëson të dhënat dhe informacionin e mbledhur gjatë verifikimit kufitar të të miturit që kalon kufirin. Në rast nevoje për një verifikim të plotë të rrethanave dhe të situatës, përgjegjësi i turnit komunikon me strukturën përgjegjëse vendore për mbrojtjen e fëmijës, sipas parashikimeve të legjislacionit për mbrojtjen e të drejtave të fëmijës.

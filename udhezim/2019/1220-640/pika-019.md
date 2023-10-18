@@ -1,1 +1,0 @@
-19. Në të gjitha rastet kur nuk plotësohen kushtet e përcaktuara në këtë udhëzim, roja kufitare informon personin që shoqëron të miturin mbi dokumentacionin që duhet të paraqesë sipas këtij udhëzimi, për t’i mundësuar kalimin e kufirit dhe nuk lejon daljen e të miturit nga kufiri shtetëror deri në paraqitjen e dokumentacionit të nevojshëm.

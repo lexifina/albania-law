@@ -1,1 +1,0 @@
-14. Në rast dyshimi, roja kufitare i bën një intervistë shoqëruesit, kryen verifikime të detajuara të dokumenteve të udhëtimit dhe dokumenteve mbështetëse për t’u siguruar që i mituri nuk po largohet nga territori i Republikës së Shqipërisë kundër dëshirës së personave që ushtrojnë kujdesin prindëror ndaj tij, në mënyrë që të parandalojë rrëmbimin ose trafikimin e të miturit.

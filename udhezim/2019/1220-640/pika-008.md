@@ -1,1 +1,0 @@
-8. Në rastet kur të miturit udhëtojnë të organizuar në grupe, duhet të shoqërohen nga një përfaqësues i autorizuar i institucionit përkatës të njohur në Republikën e Shqipërisë, i cili duhet të disponojë listën emërore të nënshkruar nga titullari i institucionit dhe deklaratat noteriale të prindërve apo kujdestarëve ligjorë të të miturve.

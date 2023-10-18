@@ -1,1 +1,0 @@
-16. Në rastet e konstatimit të braktisjes së të miturve apo moskthimit në afat të tyre, kryhen të gjitha veprimet e nevojshme, me qëllim referimin në prokurori të veprës penale braktisja e fëmijëve të mitur, sipas përcaktimit të bërë në Kodin Penal.
