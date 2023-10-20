@@ -1,0 +1,7 @@
+LIGJ
+Nr. 72/2023
+PËR MIRATIMIN E REZOLUTËS NR. 463 (2022) TË BORDIT DREJTUES TË CEB, “RRITJA E KAPITALIT TË BANKËS PËR ZHVILLIM TË KËSHILLIT TË EUROPËS (CEB)”
+Në mbështetje të neneve 78, 83, pika 1, dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
