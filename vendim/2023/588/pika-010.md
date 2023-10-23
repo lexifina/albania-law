@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës, Zyra Vendore Berat, brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, nis procedurat për hedhjen e gjurmës së projektit mbi hartën kadastrale, sipas planimetrisë së shpronësimit të miratuar, dhe regjistrimin e aktit të kalimit të pronësisë në favor të Bashkisë Berat për pasurinë e shpronësuar, sipas këtij vendimi.
