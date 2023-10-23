@@ -1,6 +1,6 @@
-1. Numri i vendeve vakante të planifikuara për rekrutim gjatë vitit 2023 është, gjithsej, 1 152 (një mijë e njëqind e pesëdhjetë e dy), të ndara sipas kategorive të mëposhtme:
+1. Numri i vendeve vakante të planifikuara për rekrutim gjatë vitit 2023 është, gjithsej, 1 158 (një mijë e njëqind e pesëdhjetë e tetë), të ndara sipas kategorive të mëposhtme:
 a) për trupën e nëpunësve civilë të nivelit të lartë drejtues
-12;
+18;
 b) për kategorinë e mesme drejtuese
 50;
 c) për kategorinë e ulët drejtuese
