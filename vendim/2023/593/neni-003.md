@@ -1,0 +1,8 @@
+# Neni 3
+Parimet
+Përdorimi fleksibël i hapësirës ajrore bazohet në parimet e mëposhtme:
+a) Koordinimi ndërmjet autoriteteve civile dhe ushtarake, i organizuar në nivele strategjike, parataktike dhe taktike, për të mundësuar përdorimin fleksibël të hapësirës ajrore nëpërmjet vendosjes së marrëveshjeve dhe procedurave për rritjen e sigurisë në operim e të kapacitetit të hapësirës ajrore dhe përmirësimit të eficiencës e fleksibilitetit të operacioneve të avionëve;
+b) Vendosja dhe ruajtja e qëndrueshmërisë midis menaxhimit të hapësirës ajrore, menaxhimit të lëvizjes së trafikut ajror dhe shërbimeve të trafikut ajror, në të tria nivelet e menaxhimit të hapësirës ajrore të renditura në shkronjën “a”, të këtij neni, për të garantuar, në përfitim të të gjithë përdoruesve, eficiencën në planifikimin, shpërndarjen dhe përdorimin e hapësirës ajrore;
+c) Rezervimi i një natyre të përkohshme i hapësirës ajrore për përdorim ekskluziv ose specifik për kategoritë e përdoruesve, e aplikuar vetëm gjatë periudhave të limituara kohore, bazuar mbi përdorimin aktual dhe lëshuar sa më shpejt, sapo aktiviteti i kryer në këtë hapësirë të ketë mbaruar;
+ç) Bashkëpunimi për aplikimin eficient dhe të qëndrueshëm të konceptit të përdorimit fleksibël të hapësirës ajrore përgjatë kufijve kombëtarë dhe/ose kufijve të rajoneve të informacionit të fluturimit dhe në veçanti adresimi i aktiviteteve ndërkufitare. Ky bashkëpunim mbulon të gjitha çështjet përkatëse ligjore, operacionale dhe teknike;
+d) Shfrytëzimi më së miri i hapësirës ajrore në dispozicion nga njësitë dhe përdoruesit e shërbimeve të trafikut ajror.

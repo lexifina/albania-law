@@ -1,0 +1,4 @@
+# Neni 4
+Komiteti i Politikave të Menaxhimit të Hapësirës Ajrore Shqiptare
+1. Komiteti i Politikave të Menaxhimit të Hapësirës Ajrore Shqiptare (në vijim, Komiteti) është organ konsultativ për veprimet në nivel strategjik dhe vendimmarrës për veprimet në nivel taktik, i krijuar për koordinimin e veprimeve ndërmjet strukturave përgjegjëse civile dhe ushtarake të aviacionit, brenda fushëveprimit të kompetencave të tyre, me qëllim sigurimin e bashkëpunimit të tyre për përdorimin fleksibël të hapësirës ajrore.
+2. Roli i Komitetit është të sigurojë njё pёrdorim tё sigurt dhe efikas tё strukturёs së hapёsirёs ajrore kombёtare dhe rrjetit tё rrugёve të trafikut ajror, si dhe tё mundёsojё njё vazhdimёsi e transparencё tё trajtimit operacional nё kufijtё kombёtarё, bazuar nё marrёveshjet e harmonizuara qё rrjedhin nga planifikimi i hapёsirёs ajrore nё bashkёpunim me shtetet fqinje.
