@@ -1,0 +1,1 @@
+8. Vendimi nr. 904, datë 11.11.2015, i Këshillit të Ministrave, “Për përcaktimin e kategorive të përfituesve, të masave e të kritereve për sigurimin e jetës së punonjësit të Policisë Ushtarake të Forcave të Armatosura të Republikës së Shqipërisë”, shfuqizohet.

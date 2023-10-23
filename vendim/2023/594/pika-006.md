@@ -1,0 +1,1 @@
+6. Kushtet standarde të kontratës së sigurimit, përfshirë tabelën e koeficientëve të përfitimit ndaj dëmtimeve trupore, të miratuara nga Autoriteti i Mbikëqyrjes Financiare, shërbejnë si kushte minimale, të detyrueshme për t’u zbatuar nga shoqëritë e sigurimeve.
