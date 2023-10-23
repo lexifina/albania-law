@@ -1,1 +1,1 @@
-17. Armët e zjarrit të markuara sipas procedurave të pikës 15, të këtij vendimi, para se të jepen për përdorim kontrollohen nga organi përgjegjës i Policisë së Shtetit. Për të gjitha armët jepen certifikatat e markimit. Nuk lejohet të jepen për përdorim armët e zjarrit të pamarkuara.
+17. Shfuqizuar.

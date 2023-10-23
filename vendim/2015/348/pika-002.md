@@ -3,3 +3,4 @@ a) Licencë për import dhe tregtim të armëve të kategorive “C” (gjahut),
 b) Dokument identiteti.
 c) Licencë të lëshuar nga struktura përgjegjëse në Ministrinë e Mbrojtjes, për import/eksport të armëve të kategorisë “B”, pjesëve kryesore dhe municionit të tyre.
 ç) Dokumentin e blerjes së armëve, pjesëve kryesore dhe municionit të tyre. Armët regjistrohen me numra serialë, numrat serialë të pjesëve kryesore, tipin, kalibrin, modelin shtetin prodhues dhe fabrikën e prodhimit.
+d) certifikatën e çaktivizimit për armët e çaktivizuara.
