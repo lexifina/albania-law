@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit nga Agjencia Shtetërore e Kadastrës tek Ministria e Turizmit dhe Mjedisit, për Agjencinë Kombëtare të Zonave të Mbrojtura, të pasurisë nr. 4/78, zona kadastrale 8564, Korçë, sipas formularit dhe plan-rilevimit që i bashkëlidhet këtij vendimi, me qëllim ushtrimin e funksioneve administrative të saj.

@@ -1,0 +1,1 @@
+2. Ministrisë së Turizmit dhe Mjedisit dhe Agjencisë Kombëtare të Zonave të Mbrojtura i ndalohen të ndryshojnë destinacionin e përdorimit të pasurisë, të përcaktuar në pikën 1 të këtij vendimi, ta tjetërsojnë ose t’ua japin në përdorim të tretëve.
