@@ -1,0 +1,1 @@
+7. Pronari i pasurisë së paluajtshme, pronë private, të pasqyruar në tabelën që i bashkëlidhet këtij vendimi, kompensohet, për efekt shpronësimi, pasi të ketë paraqitur dokumentacionin justifikues për likuidim pranë Bashkisë Gjirokastër.
