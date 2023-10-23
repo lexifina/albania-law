@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni rruga ’Apulia’ (paralel me linjën hekurudhore-plazh), Bashkia Durrës”.
