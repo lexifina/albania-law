@@ -1,6 +1,6 @@
 # Neni 19
 Kritere e përgjithshme të licencimit
-1. Kriteret e përgjithshme të licencimit, për licencat e transportit, poligonit dhe aftësimit teorik e praktik, janë këto:
+1. Kriteret e përgjithshme të licencimit, për licencat e transportit, tregtimit, poligonit dhe aftësimit teorik e praktik, janë këto:
 a) subjekti juridik të jetë i regjistruar si subjekt tregtar dhe të ketë selinë në territorin e Republikës së Shqipërisë;
 b) subjekti të ketë të përcaktuar drejtuesin teknik, i cili të jetë pajisur më parë me certifikatën përkatëse dhe të plotësojë kriteret për mbajtje arme, sipas kuptimit të këtij ligji.
 2. Licenca lëshohet për një afat 5-vjeçar, me të drejtë ripërtëritjeje.
