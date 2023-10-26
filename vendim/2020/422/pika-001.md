@@ -7,7 +7,7 @@
 - Z. Endrit Yzeiraj, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kapitujt 1, 3, 6, 7, 20 dhe 30, si dhe bashkënegociator përgjegjës për kapitujt 4, 28;
 - Shfuqizuar;
 - Znj. Vasilika Vjero, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kapitujt 16 dhe 29;
-- Z. Ilir Bejtja, zëvendësministër i Infrastrukturës dhe Energjisë, negociator përgjegjës për kapitullin 15;
+- shfuqizuar;
 - Z. Arian Jaupllari, zëvendësministër i Bujqësisë dhe Zhvillimit Rural, negociator për kapitujt 11 dhe 12;
 - Z. Roland Kristo, zëvendësministër i Bujqësisë dhe Zhvillimit Rural, negociator për kapitullin 13;
 - Znj. Albana Tole, zëvendësministër i Arsimit dhe Sportit, negociator përgjegjës për kapitullin 25;
@@ -18,8 +18,8 @@
 - Z. Denar Biba, kryetar i Autoritetit të Konkurrencës, negociator për kapitullin 8;
 - Z. Ervin Mete, Autoriteti i Mbikëqyrjes Financiare, negociator për kapitullin 9;
 - Znj. Elsa Dhuli, INSTAT, negociatore për kapitullin 18.
-- Znj. Romina Kuko, zëvendësministër i Brendshëm, negociator përgjegjës për kapitullin 22;
-- Znj. Enkelejda Muçaj, zëvendësministër i Infrastrukturës dhe Energjisë, negociator përgjegjës për kapitujt 14 dhe 21, dhe bashkënegociator përgjegjës për kapitullin 10;
+- Z. Ilir Beqaj, drejtor i Përgjithshëm i Agjencisë Shtetërore të Programimit Strategjik dhe Koordinimit të Ndihmës, negociator përgjegjës për kapitullin 22;
+- Znj. Enkelejda Muçaj, zëvendësministër i Infrastrukturës dhe Energjisë, negociator përgjegjës për kapitujt 14, 15 e 21 dhe bashkënegociator përgjegjës për kapitullin 10;
 - Znj. Denada Seferi, zëvendësministër i Shëndetësisë dhe Mbrojtjes Sociale, bashkënegociator përgjegjës për kapitujt 19 dhe 28;
 - Znj. Mirlinda Karçanaj, drejtor i Përgjithshëm i Agjencisë Kombëtare të Shoqërisë së Informacionit, bashkënegociator përgjegjës për kapitullin 10;
 - Znj. Albana Koçiu, drejtor i Departamentit të Administratës Publike, negociator përgjegjës për reformën në administratën publike.
