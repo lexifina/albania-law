@@ -1,0 +1,1 @@
+2. Trajtimi financiar për anëtarët e Këshillit të Administrimit, si persona përgjegjës të organeve mbikëqyrëse të Operatorit të Sistemit të Shpërndarjes sh.a., që kontrollohet nga shteti, të jetë në masën e përcaktuar me vendimin nr. 570, datë 3.10.2018, të Këshillit të Ministrave, “Për këshillat mbikëqyrës të shoqërive aksionare shtetërore”.
