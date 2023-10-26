@@ -1,258 +1,263 @@
 # Shtojca
 Lidhja 1
-Tabela e racionit bazë të ushqimit ditor në vlerë kalorike:
+Lidhja 1. Tabela e racionit bazë të ushqimit ditor në vlerë kalorike
 Nr.
 Artikujt ushqimorë
-Njësia matëse
-Sasia me tri vakte
-K/Kalori me tri vakte
-1.
+Nj. matëse
+Sasia në tri vakte
+K/Kalori në trivakte
+1
 Bukë gruri masive
-gr
-600
-1603
-2.
-Oriz
-gr
-60
-218
-3.
-Makarona
-gr
-50
-184
-4.
+g
+400
+1068
+2
+Koloniale (oriz, makarona)
+g
+100
+366
+3
 Fasule
-gr
+g
 60
 186
-5.
+4
 Mish i freskët viçi
-gr
-200
-320
-6.
+g
+150
+240
+5
+Fileto pule
+g
+115
+225
+6
 Vaj për gatim
 ml
 30
 270
-7.
-Vaj për sallatë
+7
+Vaj ulliri
 ml
-10
-90
-8.
+20
+180
+8
 Gjalpë
-gr
+g
 30
 235
-9.
+9
 Sheqer
-gr
-50
-196
-10.
+g
+25
+117
+10
 Sallam ose proshutë
-gr
-50
-231
-11.
+g
+70
+323
+11
 Djathë i bardhë
-gr
-40
-123
-12.
-Qumësht i freskët
+g
+70
+215
+12
+Qumësht i freskët/kos i paketuar 200 ml
 ml
-300
-183
-13.
+350
+213
+13
 Vezë
-kokrra
-1
-79
-14.
+kokërr
+2
+158
+14
 Perime për gatim
-gr
+g
 350
 130
-15.
+15
 Perime për sallatë
-gr
-150
-60
-16.
+g
+350
+130
+16
 Fruta të freskëta
-gr
-250
-125
-17.
-Reçel
-gr
-30
-67
-18.
+g
+400
+200
+17
+Reçel në paketime 20 g
+g
+20
+44
+18
 Salcë
-gr
-3
-0
-19.
-Çaj mali
-gr
-1
-0
-20.
-Kripë
-gr
+g
 10
 0
-21.
+19
+Çaj mali
+g
+2
+0
+20
+Kripë
+g
+10
+0
+21
 Erëza
-gr
-1
+g
+2
+0
+22
+Uji i pijshëm
+ml
+3000
 0
 Shuma
 4300
 Lidhja 2
-Tabela e artikujve ushqimorë për shtesën 500 kalori:
+Lidhja 2. Tabela e artikujve ushqimorë për shtesën 500 kalori
 Nr.
 Artikulli
 Njësia matëse
 Sasia
 K/kaloritë
-1.
-Biskota
-gr
-50
-250
-2.
-Çokollata
-gr
-25
-104
-3.
-Vezë
-kokrra
 1
-79
-4.
+Djathë kaçkavall
+g
+55
+205
+2
+Çokollata
+g
+40
+211
+3
 Mish viçi i freskët
-gr
-42
-67
+g
+53
+84
 Shuma
 500
 Lidhja 3
-Tabela e strukturës ushqimore në vlerë kalorike për vaktin e drekës:
+Lidhja 3. Tabela e strukturës ushqimore në vlerë kalorike për vaktin e drekës
 Nr.
 Artikujt ushqimorë
-Njësia matëse
-Sasia me një vakt
-K/kalori me një vakt
-1.
+Nj. matëse
+Sasia në një vakt
+K/Kalori në një vakt
+1
 Bukë gruri masive
-gr
-200
-534
-2.
-Oriz
-gr
-50
-183
-3.
-Makarona
-gr
-50
-183
-4.
+g
+150
+400.5
+2
+Koloniale (oriz, makarona)
+g
+85
+311
+3
 Fasule
-gr
+g
 0
 0
-5.
+4
 Mish i freskët viçi
-gr
+g
 120
 192
-6.
+5
+Fileto pule
+g
+55
+107
+6
 Vaj për gatim
 ml
-15
-135
-7.
-Vaj për sallatë
+18
+162
+7
+Vaj ulliri
 ml
-10
-90
-8.
+12
+108
+8
 Gjalpë
-gr
+g
 10
-75,8
-9.
+77
+9
 Sheqer
-gr
+g
 0
 0
-10.
+10
 Sallam ose proshutë
-gr
+g
 0
 0
-11.
+11
 Djathë i bardhë
-gr
+g
 0
 0
-12.
-Qumësht i freskët
+12
+Qumësht i freskët/kos i paketuar 200 ml
 ml
 0
 0
-13.
+13
 Vezë
 kokrra
-0,5
-39
-14.
+1
+78
+14
 Perime për gatim
-gr
-200
-114
-15.
+g
+250
+93
+15
 Perime për sallatë
-gr
-150
+g
+230
 85
-16.
+16
 Fruta të freskëta
-gr
-200
-108
-17.
-Reçel
-gr
+g
+250
+125
+17
+Reçel nëpaketime 20 g
+g
 0
 0
-18.
+18
 Salcë
-gr
+g
+8
+0
+19
+Çaj mali
+g
+0
+0
+20
+Kripë
+g
+8
+0
+21
+Erëza
+g
 2
 0
-19.
-Çaj mali
-gr
-0
-0
-20.
-Kripë
-gr
-5
-0
-21.
-Erëza
-gr
-1
+22
+Uji i pijshëm
+ml
+1500
 0
 Shuma
-1738,8
+1738.5
