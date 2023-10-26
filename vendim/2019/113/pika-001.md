@@ -6,10 +6,10 @@ b)
 Z. Arben Mukaj, Ministria për Bujqësinë dhe Zhvillimin Rural
 anëtar;
 c)
-Znj. Mira Hoxha, Ministria për Evropën dhe Punët e Jashtme
+Z. Armand Skapi, Ministria për Evropën dhe Punët e Jashtme;
 anëtar;
 ç)
-Z. Astrit Shatro, Instituti i Gjeoshkencave, Energjisë, Ujit dhe Mjedisit
+Z. Klodian Zaimi, Instituti i Gjeoshkencave;
 anëtar;
 d)
 Z. Kristaq Qirko, Autoriteti Shtetëror për Informacionin Gjeohapësinor
@@ -18,14 +18,14 @@ dh)
 Z. Ermal Kacurri, Korporata Elektroenergjetike Shqiptare
 anëtar;
 e)
-Z. Arben Pambuku, Shërbimi Gjeologjik Shqiptar
+Znj. Sonila Marku, Shërbimi Gjeologjik Shqiptar;
 anëtar;
 ë)
-Z. Neritan Postoli, Agjencia Kombëtare e Mjedisit
+Znj. Evis Mellonashi, Agjencia Kombëtare e Mjedisit;
 anëtar;
 f)
-Z. Maksimiljan Dhima, Drejtoria e Përgjithshme e Emergjencave Civile, në Ministrinë e Mbrojtjes
+Z. Besmir Kullolli, Agjencia Kombëtare e Mbrojtjes Civile;
 anëtar;
-g)
+G)
 Z. Arduen Karagjozi, Agjencia e Menaxhimit të Burimeve Ujore
 anëtar.
