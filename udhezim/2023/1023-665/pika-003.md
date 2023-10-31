@@ -1,0 +1,5 @@
+3. Aplikanti, i cili kërkon të përfshihet në listën e ekspertëve pranë Institutit Kombëtar të Trashëgimisë Kulturore (IKTK), për vlerësimin dhe identifikimin e vlerave kulturore në pasuritë e paluajtshme, duhet të plotësojë kriteret specifike, si më poshtë:
+a) të zotërojë diplomë të nivelit “Master shkencor” apo “Master profesional” në arkeologji, histori, arkitekturë, inxhinieri dhe/ose të zotërojë diplomë “Doktor i shkencave” në fushat e mësipërme, të lëshuar nga institucionet e arsimit të lartë në Republikën e Shqipërisë ose të ketë diplomë ekuivalente, të njohur dhe të njësuar sipas legjislacionit në fuqi;
+b) të ketë licencë në arkeologji/projektim/zbatim/mbikëqyrje/ kolaudim, në një ose disa nënkategori, në pasuri kulturore sipas legjislacionit në fuqi;
+c) të ketë të dokumentuar përmes publikimeve në revistat shkencore brenda ose jashtë vendit, veprimtarinë kërkimore shkencore lidhur me fushën e veprimtarisë për të cilën aplikon si ekspert;
+d) kualifikime në fushën dhe gjininë specifike të pasurisë kulturore për të cilin do të kryhet vlerësimi, nëse ka.

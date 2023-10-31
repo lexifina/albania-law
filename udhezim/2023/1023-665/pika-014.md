@@ -1,0 +1,1 @@
+14. Në rast se në përfundim të thirrjes së parë, nuk paraqesin interes më shumë se 3 (tre) aplikantë për secilin institucion, thirrja do të rishpallet. Pas plotësimit të përzgjedhjes së 5 (pesë) anëtarëve të komisioneve këshillimore për secilin institucion, lista me anëtarët e tjerë të kualifikuar, kur janë jo më pak se 3 (tre) aplikantë, do të jetë e vlefshme vetëm për 2 vjet.

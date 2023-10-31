@@ -1,0 +1,1 @@
+11. Kundër vendimit, aplikuesi ka të drejtën e ankimit brenda 5 (pesë) ditëve nga data e njoftimit pranë ministrit të Kulturës, i cili merr vendim brenda 10 (dhjetë) ditëve nga data e depozitimit të ankimit.

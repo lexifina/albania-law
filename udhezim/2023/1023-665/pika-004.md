@@ -1,0 +1,5 @@
+4. Aplikanti i cili kërkon të përfshihet në listën e ekspertëve, pranë Institutit Kombëtar të Regjistrimit të Trashëgimisë Kulturore (IKRTK) për vlerësimin dhe identifikimin e vlerave kulturore në pasuritë e luajtshme duhet të plotësojë kriteret specifike, si më poshtë:
+a) të zotërojë diplomë të nivelit “Master shkencor” apo “Master profesional” në arkeologji, trashëgimi kulturore, etnografi, art pamor, numizmatikë, filateli, bukinizm ose në një fushë tjetër të ngjashme me të;
+b) të ketë ushtruar aktivitet të paktën për një periudhë 5-vjeçare (pesëvjeçare), si: galerist, ekspert vlerësimi, koleksionist në fusha të ndryshme të lidhura me trashëgiminë kulturore;
+c) të ketë të dokumentuar përmes certifikatave përkatëse të lëshuara brenda ose jashtë vendit, eksperiencën lidhur me fushën e veprimtarisë për të cilën aplikon si ekspert;
+d) në rastet kur ka përfunduar studimet universitare në një fushë tjetër nga sa përmendet në germën “a”, dhe/ose të ketë referenca nga organizata jofitimprurëse apo grupe interesi në fushën e kërkuar, dhe/ose të ketë eksperiencë të provuar në fushën e ekspertizës së propozuar prej të paktën 10 (dhjetë) vjetësh.

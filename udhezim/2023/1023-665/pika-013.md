@@ -1,0 +1,1 @@
+13. IKRTK-ja, IKTK-ja, QKVT-ja i përcjell ministrit për miratim listën me ekspertët vlerësues, në funksion të përzgjedhjes së tyre në përbërje të komisioneve këshillimore, e cila, pas miratimit, publikohet në faqen zyrtare të Ministrisë së Kulturës, jo më vonë se 5 (pesë) ditë pas përfundimit të afateve të përcaktuara në pikën 11 të këtij udhëzimi.
