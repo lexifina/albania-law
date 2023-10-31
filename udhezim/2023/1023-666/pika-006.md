@@ -1,0 +1,1 @@
+6. Mbledhja është e vlefshme edhe kur nuk respektohen procedurat e parashikuara në pikën 4 të këtij udhëzimi, vetëm në rast se në mbledhje marrin pjesë të gjithë anëtarët, të cilët, paraprakisht, miratojnë zhvillimin e mbledhjes.

@@ -1,0 +1,1 @@
+13. Vendimi i arsyetuar i komisionit këshëllimor, sipas përcaktimeve të pikës 3, të nenin 59, të ligjit nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë”, së bashku me dosjen përkatëse të aplikimit, i komunikohet, përkatësisht, titullarit të IKRTK-së, IKTK-së dhe QKVT-së, brenda 7 ditëve nga zbardhja e tij.
