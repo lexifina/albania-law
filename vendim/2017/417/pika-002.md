@@ -1,1 +1,0 @@
-2. Në përputhje me kompetencat e përcaktuara në ligjin nr. 102/2015, “Për sektorin e gazit natyror”, Ministria e Energjisë dhe Industrisë dhe Enti Rregullator i Energjisë të marrin masa për monitorimin e zbatimit të planit të emergjencës për gazin natyror.
