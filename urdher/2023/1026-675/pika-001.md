@@ -1,0 +1,1 @@
+1. Znj. Entela Çipa, drejtor i përgjithshëm i Politikave dhe Strategjive të Zhvillimit Kulturor, që në mungesë dhe me porosi, të zëvendësojë për nënshkrimin e korrespodencave të përditshme shkresore, që janë kompetencë e Sekretarit të Përgjithshëm të Ministrisë së Kulturës.

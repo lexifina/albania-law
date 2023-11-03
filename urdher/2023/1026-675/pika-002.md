@@ -1,0 +1,1 @@
+2. Gjatë periudhës së zëvendësimit, të shqyrtojë dhe të miratojë çdo akt që kalon nëpërmjet sistemit e-Aktet, në emër dhe për llogari të Sekretarit të Përgjithshëm të Ministrisë së Kulturës.

@@ -1,0 +1,3 @@
+# Nënshkrimi
+SEKRETAR I PËRGJITHSHËM i MINISTRISË SË KULTURËS
+Zerina Bruci
