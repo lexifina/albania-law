@@ -1,0 +1,1 @@
+2. Vendimi nr. 417, datë 10.5.2017, i Këshillit të Ministrave, “Për miratimin e planit të emergjencës për gazin natyror në përputhje me standardet minimale të sigurisë së furnizimit, si dhe rregullat për të garantuar furnizim të sigurt dhe të efektshëm me gaz natyror”, shfuqizohet.
