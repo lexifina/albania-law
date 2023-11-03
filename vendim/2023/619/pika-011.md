@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës pezullon të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale dhe regjistrimi i aktit të kalimit të pronësisë për pasuritë e shpronësuara në favor të Bashkisë Fier, sipas këtij vendimi.

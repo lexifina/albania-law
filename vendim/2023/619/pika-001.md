@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rehabilitimi i lumit Gjanicë, faza II, segmenti nga ish-Ura me Shkallë deri tek Ura e Sheqit”, Fier.
