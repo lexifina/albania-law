@@ -29,4 +29,4 @@ Në këtë ligj, termat e mëposhtëm kanë këto kuptime:
 26. “Qëllimi statistikor” është qëllimi për hulumtime statistikore, prodhim të të dhënave statistikore edhe nëpërmjet sistemit informativ statistikor.
 27. “Qëllimi shkencor” është qëllimi për studime dhe hulumtime sistematike, që finalizon zhvillimin e dijeve shkencore në një sektor të caktuar.
 28. “E drejtë informimi” ka kuptimin sipas përcaktimit në ligjin për të drejtën e informimit.
-29. “Programe të transparencës” ka kuptimin sipas përcaktimit në ligjin për të drejtën e informimit.
+29. Shfuqizuar
