@@ -4,7 +4,9 @@ Nr. 219, datë 20.12.2019
 
 MBI LICENCIMIN E SHOQËRISË “HYDRO POWER PANARIT” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HIDROCENTRALI “VILE” ME KAPACITET TË INSTALUAR 1994 kW
 
-(ndryshuar me vendimin nr. 191, datë 20.11.2020)
+(ndryshuar me vendimin nr. 191, datë 20.11.2020; nr. 315, datë 6.11.2023)
+
+                                                                                                                                  ( i përditësuar)
 
 Në mbështetje të neneve 16; 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, neneve 4, pika 1, germa “a”; 5, pika 1, germa “a”; 10, pika 3, të “Rregullores për procedurat dhe afatet për dhënie, modifikimi, transferimi, rinovimi ose heqjen e licencave në sektorin e energjisë elektrike”; si dhe nenit 15, të “Rregullave për organizimin, funksionimin dhe procedurave të ERE-s”, Bordi i ERE-s në mbledhjen e tij të datës 20.12.2019, mbasi shqyrtoi relacionin me nr. 119/1 prot., datë 17.12.2019, të Drejtorisë së Licencimit Autorizimeve dhe Mbikëqyrjes, lidhur me “Licencimin e shoqërisë ‘Hydro Power Panarit’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga hidrocentrali “Vile” me kapacitet të instaluar 1994 kw,
 
@@ -50,7 +52,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Hydro Power Panarit” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC-i “Vile” me fuqi 1994 kW, për një afat 30-vjeçar.
 
-2. Shoqëria duhet të depozitojë në ERE lejen e ujit, të rinovuar, jo më vonë se 2 muaj para përfundimit të afatit, në datën 11.5.2022.
+2. Shoqëria “Hydro Power Panariti” sh.p.k. të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor, për prodhim hidroenergjie nga HEC “Vile”, brenda datës 5.10.2028.
 
 3. Shfuqizuar. 
 
