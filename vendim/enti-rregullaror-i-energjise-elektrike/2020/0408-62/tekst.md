@@ -4,6 +4,10 @@ Nr. 62, datë 8.4.2020
 
 MBI LICENCIMIN E SHOQËRISË “ERA HYDRO” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “STRORI”, ME KAPACITET TË INSTALUAR 2000 kw
 
+(ndryshuar me vendimin nr. 314, datë 6.11.2023)
+
+                                                                                                                                           (i përditësuar)
+
 Në mbështetje të nenit 16 dhe të nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të nenit 4, pika 1, germa “a”, nenit 5, pika 1, germa “a” dhe të nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, të ndryshuar; dhe të nenit 15 të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 8.4.2020, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi licencimin e shoqërisë ‘Era Hydro’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike”,
 
  konstatoi se: 
@@ -54,9 +58,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Era Hydro” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Strori”, me kapacitet të instaluar 2000 kw, për një afat 30-vjeçar. 
 
-2. Shoqëria të depozitojë në ERE, jo më vonë se 1 muaj para përfundimit të saj, kontratën e qirasë për truallin ku do të ushtrohet veprimtaria, të rinovuar.
+2. Shoqëria “Era Hydro” sh.p.k. duhet të depozitojë në ERE kontratën e qirasë së rinovuar të truallit ku ushtrohet veprimtaria, brenda datës 26.10.2027.
 
-3. Shoqëria të depozitojë në ERE, jo më vonë se 1 muaj para përfundimit të saj, lejen “Për përdorimin e burimit ujor”, të rinovuar.
+3. Shoqëria “Era Hydro” sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Strori” brenda datës 5.3.2028.
 
 4. Mosplotësimi i kushteve të këtij vendimi përbën shkak për rishikimin e tij. 
 
