@@ -1,1 +1,0 @@
-12. Për nxënësit shqiptarë ose të huaj që kanë ndjekur studimet në një shkollë të mesme të përgjithshme jashtë shtetit dhe dëshirojnë të transferohen në shkollat profesionale në Shqipëri, ky transferim nuk mund të bëhet.

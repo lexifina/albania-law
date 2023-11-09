@@ -1,1 +1,0 @@
-2. Nxënësit që kërkojnë të transferojnë studimet nga arsimi profesional në gjimnaz, duhet të plotësojnë kriterin e moshës të përcaktuar në nenin 23, pika 2, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”.
