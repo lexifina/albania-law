@@ -861,3 +861,267 @@ Program: 1 vit studimi për teknik/menaxher mesëm
 Punëtorë të shpimeve dhe të tjerë që lidhen me to
 8113
 4
+Shtojca 2 (shtuar me urdhrin nr. 241 datë 23.10.2023)
+Nr.
+Varianti i mëparshëm i Kualifikimit Profesional
+Kodi i Kualifikimit Profesional
+Emërtimi i kualifikimeve
+Lloji i kualifikimit profesional
+Profesionet LKP
+Lidhja me Kodet e LKP/ISCO
+Niveli në KSHK
+Niveli në KEK
+1
+A2-III-18
+A2-III-23
+Teknologji e prodhimit të pijeve
+Program 1 vit për punonjës të kualifikuar
+Punonjës në industrinë ushqimore
+8160
+3
+3
+2
+A3-III-17
+A3-III-22
+Teknologji e përpunimit tё qumështit
+Program 1 vit për punonjës të kualifikuar
+Punonjës në përpunimin e qumështit
+7515
+3
+3
+3
+A-IV-18
+A-IV-23
+Teknologji ushqimore
+Programe 1 vit studimi për teknik/menaxher mesëm
+Punonjës në teknologjinë ushqimore
+751
+4
+4
+4
+B4-III-18
+B4-III-22
+Punime dhe riparim rrugësh
+Program 1 vit për punonjës të kualifikuar
+Punonjës për punime dhe riparime rrugësh
+7113.22
+3
+3
+5
+B-IV-19
+B-IV-23
+Ndërtim
+Programe 1 vit studimi për teknik/menaxher mesëm
+Teknik, mbikëqyrës, përgjegjës
+3119.15
+4
+4
+6
+C2- III-17
+C2- III-23
+Prodhime druri gjysmë të gatshme
+Program 1 vit për punonjës të kualifikuar
+Punëtor për prodhimin e produkteve gjysmë të gatshme
+7521
+3
+3
+7
+D-II-17
+D-II-22
+Tekstil-Konfeksione
+Programe 2-vjeçare studimi për punonjës ndihmës
+Punonjës të tekstileve, të lëkurës, veshjeve dhe të ngjashme me to
+753
+2
+2
+8
+D1-III-19
+D1-III-23
+Rrobaqepësi
+Program 1 vit për punonjës të kualifikuar
+Rrobaqepës
+7531
+3
+3
+9
+F1-III-19
+F1-III-23
+Makina metalpunuese
+Program 1 vit për punonjës të kualifikuar
+Punëtorë dhe montues të makinerive metal punuese
+7223
+3
+3
+10
+F2-III-18
+F2-III-23
+Konstruksione metalike
+Program 1 vit për punonjës të kualifikuar
+Përgatitës të konstruksioneve metalike dhe të ngjashëm
+7214
+3
+3
+11
+G2-III-16
+G2-III-22
+Kuzhinë - Pastiçeri
+Program 1 vit për punonjës të kualifikuar
+Kuzhinier, pastiçier
+5120
+3
+3
+12
+H/1-IV-22
+Agrobiznes
+Programe 4 vjeçar studimi për teknik/menaxher i mesëm
+Prodhues në fermat bujqësore dhe blegtorale
+6130
+4
+4
+13
+H1-V-23
+Menaxhimi i cilësisë në prodhimin bujqësor
+Programe pas të mesëm një vjeçar
+Menaxher dhe mbikëqyrës i prodhimeve bujqësore
+6111
+5
+5
+14
+I-IV-16
+I-IV-23
+Gjeologji - Miniera
+Programe 1 vit studimi për teknik/menaxher i mesëm
+Përgjegjës në minierë
+3121
+4
+4
+15
+J-IV-17
+J-IV-23
+Detari
+Programe 1 vit studimi për teknik/menaxher i mesëm
+Punonjës peshkimi në thellësi (det të hapur)
+6223
+4
+4
+16
+L2-IV-19
+L2-IV-23
+Sigurime
+Programe 2-vjeçare studimi për teknik/menaxher i mesëm
+Specialit sigurimesh
+3321
+4
+4
+17
+L4-IV-19
+L4-IV-23
+Llogari
+Programe 2-vjeçare studimi për teknik/menaxher i mesëm
+Llogaritar
+4311
+4
+4
+18
+L5-IV-19
+L5-IV-23
+Sipërmarrje e Agjencisë Turistike
+Programe 2-vjeçare studimi për teknik/menaxher i mesëm
+Nëpunës në agjencitë e udhëtimit
+4224
+4
+4
+19
+L6-IV-20
+L6-IV-23
+Tregti
+Programe 2-vjeçare studimi për teknik/menaxher i mesëm
+Tregtar
+5221.07
+4
+4
+20
+M4-III-18
+M4-III-23
+Shërbime karrocerie
+Program 1 vit për punonjës të kualifikuar
+Punëtor për shërbime karrocerie
+7231.25
+3
+3
+21
+M-IV-15
+M-IV-23
+Shërbime mjetesh transporti
+Programe 1 vit studimi për teknik/menaxher i mesëm
+Teknik të shërbimeve të automjeteve
+7231
+4
+4
+22
+M1-V-10
+M1-V-23
+Diagnostikim-menaxhim në autoservis
+Programe pas të mesme 1 vjeçar
+Teknik inxhinieri/mekanik (automjete)
+3115.13
+5
+5
+23
+O-II-17
+O-II-22
+Shërbime Sociale dhe Shëndetësore
+Programe 2-vjeçare studimi për punonjës ndihmës
+Punonjës të kujdesit personal/ndihmës
+53
+2
+2
+24
+O1-V-23
+Parukeri e avancuar
+Programe, pas të mesme 2-vjeçare studimi
+Punonjës të kujdesit personal/ndihmës
+53
+5
+5
+25
+O2-V-23
+Estetikë e avancuar
+Programe, pas të mesme 2-vjeçare studimi
+Punonjës të kujdesit personal/ndihmës
+53
+5
+5
+26
+O3-V-23
+Masazheri estetiko-kuruese
+Programe, pas të mesme 2-vjeçare studimi
+Punonjës të kujdesit personal/ndihmës
+53
+5
+5
+27
+O4-V-23
+Fizioterapi estetike
+Programe, pas të mesme 2-vjeçare studimi
+Punonjës të kujdesit personal/ndihmës
+53
+5
+5
+28
+V-IV-23
+Termohidraulikë
+Programe 1-vjeçare studimi për teknik/menaxher i mesëm
+Hidraulik në banesa dhe ujësjellës
+7126
+4
+4
+29
+X1-III-16
+X1-III-23
+Nxjerrja e naftës, gazit dhe ujit
+Program 1 vit për punonjës të kualifikuar
+Punëtorë të shpimeve dhe të tjerë që lidhen me to
+8113
+3
+3
