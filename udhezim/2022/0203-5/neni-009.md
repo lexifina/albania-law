@@ -8,3 +8,6 @@ Trajnimi
 2.4 Programi i miratuar parashikon organizimin e veprimtarive edukative, teorike dhe praktike, që kandidatët të marrin njohuritë e nevojshme;
 2.5 Kohëzgjatja e trajnimeve për kandidatët, si dhe lista e seksioneve të kursit të trajnimit, përcaktohen në përputhje me terminologjinë e ADR-së dhe RID-it, si dhe nga lista e temave;
 2.6 Program model parashikon, gjithashtu, trajnime praktike, duke përfshirë kryesisht ndihmën e parë për viktimat, shuarjen e zjarrit dhe veprime të tjera që duhen ndërmarrë në rast të një aksidenti trafiku etj.
+2.7 Mungesa e pjesëmarrjes në trajnim përbën shkak për moslejimin e kryerjes së testimit. Për këtë qëllim, evidentimi i pjesëmarrjes kryhet me nënshkrimin nga kandidati të fletëve të regjistrimit ose në mënyrë elektronike.
+2.8 Kandidatët që do të pajisen me Certifikatën e Këshilltarit të Sigurisë duhet të jenë me profesion inxhinierë mekanikë, inxhinierë kimistë dhe/ose inxhinierë nafte dhe gazi.
+2.9 Numri minimal i kandidatëve për fillimin e kurseve të trajnimit të jetë 10 persona. Në raste të veçanta, ky numër mund të ndryshojë, në varësi të kërkesave të të interesuarve dhe të infrastrukturës së trajnimit (ambientet e trajnimit, trupa e trajnimit, etj.).

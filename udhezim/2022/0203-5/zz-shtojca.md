@@ -105,6 +105,7 @@ ii. një ose më shumë nga grupet e mëposhtme të mallrave të rrezikshme:
 - klasa 7 (materialet radioaktive);
 - klasa 3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 8 dhe 9 (të ngurtat dhe lëngjet);
 - numrat UN Nos. 1202, 1203, 1223, 3475 dhe karburanti i aviacionit, klasifikuar UN Nos. 1268 ose 1863 (vajrat minerale).
+10. Për rinovimin e certifikatës së trajnimit, kandidatët do të marrin një pyetësor, i cili përfshin 20 pyetje të hapura, që mbulojnë minimalisht çështjet e cituara në këtë aneks (përkatësisht kapitujt 1.8.11 të ADR-së). Si dhe bazuar në programin përkatës të trajnimit të përcaktuar në këtë udhëzim.
 ANEKSI III
 (Në përputhje me modelin e marrëveshjes ADR dhe rregullores RID, përkatësisht, kapitulli 1.8, pika 1.8.3.18)
 FORMATI I CERTIFIKATËS
