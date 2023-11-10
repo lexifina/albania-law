@@ -1,0 +1,1 @@
+6. Institucionet e parashikuara në pikën 1, të nenit 16/2, të ligjit nr. 35/2016, “Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to”, të ndryshuar, përcaktojnë shumën e kompensimit të drejtë dhe mënyrën e shpërblimit, në konsultim me autorin ose bashkautorin, pasi kanë përfunduar statusin “vepër pa autor”.

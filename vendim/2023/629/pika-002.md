@@ -1,0 +1,1 @@
+2. Për qëllim të këtij projektvendimi, termat “vepër pa autor” dhe “kompensim i drejtë” kanë të njëjtin kuptim si në ligjin nr. 35/2016, “Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to”, të ndryshuar.

@@ -1,0 +1,1 @@
+8. Nëse shuma e kompensimit të drejtë dhe mënyra e shpërblimit nuk përcaktohen pas konsultimit me autorin ose bashkautorin, ajo përcaktohet bazuar në metodologjinë dhe masat e tarifave të shpërblimit të veprave të mbrojtura nga e drejta e autorit në sistemin e administrimit kolektiv, duke iu referuar së njëjtës kategori veprash.

@@ -1,0 +1,1 @@
+3. Autori, bashkautori ose agjencia e administrimit kolektiv, e autorizuar nga autori ose bashkautori, paraqesin një kërkesë me shkrim për dhënien fund të statusit për veprat pa autor dhe për përllogaritjen e kompensimit të drejtë.

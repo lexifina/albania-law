@@ -1,0 +1,1 @@
+13. Nëse vepra është në bashkautorësi, kompensimi i paguhet titullarëve të të drejtave bashkërisht. Në rast të mungesës së informacionit për pjesën takuese të secilit bashkautor, kompensimi paguhet në masa të barabarta.

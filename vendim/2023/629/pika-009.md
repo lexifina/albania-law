@@ -1,0 +1,1 @@
+9. Pas përfundimit të statusit “vepër pa autor” dhe kompensimit të drejtë, institucioni përdor veprën vetëm me autorizim/kontratë me shkrim të autorit, bashkautorit apo titullarit të të drejtave të veprës origjinale.
