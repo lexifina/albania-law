@@ -16,12 +16,12 @@ c) Për kursin bazë të rifreskimit të njohurive:
 10 orë x 400 lekë/ora = 4 000 lekë;
 d) Për kursin e rifreskimit të specializuar për transportin:
 i. me cisternë:
-9 orë x 400 lekë/ora = 3 600 lekë;
+7 orë x 400 lekë/ora = 2 800 lekë:
 ii. të substancave dhe sendeve të klasës 1:
 4 orë x 400 lekë/ora = 1 600 lekë;
 iii. të materialeve radioaktive të klasës 7:
 4 orë x 400 lekë/ora = 1 600 lekë.
 e) Për kurset e trajnimit gjithëpërfshirës do të jetë shuma e orëve të trajnimit bazë dhe të specializuar të kërkuar.
 3. Tarifa për ritestim të njohurive, në rastet kur kandidati nuk është shpallur fitues, është 600 lekë.
-4. Tarifa për zëvendësim të certifikatës së trajnimit (dublikatë), në rast humbjeje, dëmtimi apo ndryshimi vendbanimi, është 800 lekë.
-5. Tarifa për pajisjen me certifikatën e trajnimit për herë të parë është 3 600 lekë.
+4. Tarifa për zëvendësimin e certifikatës së trajnimit (dublikatë), në rast humbjeje, dëmtimi apo ndryshim vendbanimi është 2 000 lekë.
+5. Tarifa për pajisjen me certifikatën e trajnimit për herë të parë është 3 500 lekë.
