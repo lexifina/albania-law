@@ -1,1 +1,0 @@
-6. Normë javore është norma mësimore që i ngarkohet mësuesit/drejtuesit për çdo javë të vitit mësimor. Norma javore e mësuesit përfshin orët e mësimit të çdo lënde që përmban plani mësimor dhe të çdo ore të përcaktuar në pikën “F” të këtij udhëzimi.
