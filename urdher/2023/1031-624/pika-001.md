@@ -1,0 +1,1 @@
+1. Ndalimin e peshkimit me çfarëdolloj mjeti dhe metodë gjuetie, si dhe ndalimin e mbajtjes në bord, tranzitimin në barkë dhe zbarkimin e qëllimtë të belushkës (Salmothymus ohridanus), në liqenin e Ohrit, prej datës 1.11.2023 deri më datë 1.3.2024.
