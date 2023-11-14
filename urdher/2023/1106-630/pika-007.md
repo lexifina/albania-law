@@ -1,0 +1,2 @@
+7. Ngarkohen për zbatimin e këtij urdhri, Sekretari i Përgjithshëm në Ministrinë e Arsimit dhe Sportit, Drejtoria e Përgjithshme Rregullatore për Arsimin dhe Sportin, Drejtoria e Përgjithshme e Arsimit Parauniversitar, Drejtoria Rajonale Arsimore Parauniversitare, Durrës, Zyra Vendore e Arsimit Parauniversitar, Tiranë, institucioni arsimor privat parauniversitar, gjimnazi “Nils Bor”.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

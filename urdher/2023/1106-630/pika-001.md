@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor privat parauniversitar, gjimnazi “Nils Bor”, të subjektit juridik “Nils Bor” sh.p.k, i licencuar me urdhrin nr. 506, datë 3.12.2008, të ministrit të Arsimit dhe Shkencës, “Për funksionimin e institucionit arsimor privat parauniversitar, gjimnazi ’Nils Bor’”, me kërkesën e tij nr. 221 prot., datë 4.9.2023.
