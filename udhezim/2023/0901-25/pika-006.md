@@ -1,0 +1,1 @@
+6. Mësuesi drejtues i departamentit mësimor (përgjegjës i departamentit të kulturës profesionale) dhe mësuesi drejtues i ekipit lëndor (kryetar i ekipit lëndor, kultura e përgjithshme) i ulen 2 orë mësimore në javë.
