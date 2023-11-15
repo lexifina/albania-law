@@ -1,7 +1,7 @@
 # Neni 11
 Personat jopërfitues
 Nga ky ligj nuk përfitojnë:
-a) shtetasit shqiptarë, që banojnë jashtë vendit si emigrantë, me përjashtim të përfituesve sipas pikës 1 të nenit 9, të këtij ligji;
+a) shtetasit shqiptarë që jetojnë jashtë territorit të Republikës së Shqipërisë;
 b) azilkërkuesit, të cilët nuk kanë marrë statusin e azilantit, dhe refugjatët, të cilët nuk kanë marrë statusin e refugjatit;
 c) shtetasit e huaj ose personat pa shtetësi, të cilët kanë nevojë për ndihmë emergjente, si pasojë e fatkeqësive natyrore dhe e luftërave, në përputhje me ligjin për të huajt;
 ç) shtetasit shqiptarë, të cilët kanë nevojë për ndihmë emergjente, si pasojë e fatkeqësive natyrore dhe e luftërave, për përfitim të ndihmës ekonomike dhe pagesës së aftësisë së kufizuar;
