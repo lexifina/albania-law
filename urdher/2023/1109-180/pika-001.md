@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të autoritetit kontraktor z. Besmir Beja, sekretar i përgjithshëm, për të gjitha procedurat e prokurimit publik, koncesionet dhe partneritetin publik privat, për Ministrinë e Brendshme.
