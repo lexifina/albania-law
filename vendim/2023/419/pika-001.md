@@ -8,3 +8,4 @@ b) zhvillimi i infrastrukturës së informacionit kombëtar gjeohapësinor, e fo
 i. Përmirësimi dhe mirëmbajtja e infrastrukturës;
 ii. Mbledhja, administrimi dhe përpunimi i informacionit gjeohapësinor;
 iii. Hartimi i akteve rregullatore në fushën e sistemeve të informacionit kombëtar gjeohapësinor.
+c) inovacioni dhe implementimi i teknologjive të përparuara, përmes hartimit dhe zbatimit të politikave, në sektorët e lidhur me inovacionin.

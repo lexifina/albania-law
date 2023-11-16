@@ -49,3 +49,9 @@ Shtesa e veçantë e kushtëzuar për nëpunësit e Autoritetit Shtetëror për 
 |Specialist në drejtoritë apo sektorët e përmbajtjes përgjegjës për funksionet e |31 000 |
 |hartim-monitorimit të standardeve, të gjeoportalit kombëtar, koordinimit dhe | |
 |projekteve, si dhe kërkim-zhvillimit dhe inovacionit. | |
+Shtesa e veçantë e kushtëzuar për nëpunësit në Agjencinë e Inovacionit dhe Ekselencës
+|Pozicioni |Shtesa e veçantë e kushtëzuar (lekë/muaj) |
+|Titullar institucioni. |92 000 |
+|Zëvendëstitullari institucioni. |65 000 |
+|Drejtues qendre. | |
+|Ekspert. |30 000 |
