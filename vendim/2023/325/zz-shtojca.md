@@ -380,16 +380,15 @@ Lidhja nr. 7/3/b
 Klasat e pagave të pozicioneve të punës së nëpunësve në Strukturën e Posaçme kundër Korrupsionit dhe Krimit të Organizuar
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
 |Kancelar. |I-1 |1 |
+|Ekspert në Prokurorinë e Posaçme Kundër Korrupsionit dhe Krimit të Organizuar. |I-3 |1 |
 |Drejtor i drejtorive të përmbajtjes. |II-1 |1 |
-|Drejtor drejtorie me funksione të nëpunësit zbatues, | | |
-|sipas legjislacionit të menaxhimit buxhetor e | | |
-|financiar. | | |
-|Ekspert. | | |
+|Drejtor drejtorie me funksione të nëpunësit zbatues, sipas legjislacionit të | | |
+|menaxhimit buxhetor e financiar. | | |
 |Drejtor i drejtorive mbështetëse. |II-2 |1 |
-|Përgjegjës Sektori. |III-1 |1 |
+|Përgjegjës sektori. |III-1 |1 |
 | |III-2 | |
 |Specialist. |IV-1 |1 ose 2 |
-|Specialist. |IV-2 |1 ose 2, ose 3 |
+|Specialist. |IV-2 |1 ose 2 ose 3 |
 | |IV-3 | |
 Lidhja nr. 7/4/a
 Klasat dhe nivelet e pagave për funksionarët e kabinetit të Inspektorit të Lartë të Drejtësisë
@@ -529,6 +528,18 @@ Klasat e pagave të pozicioneve të punës në administratën e Avokaturës së 
 |Specialist |IV-1 |1 ose 2 |
 |Specialist. |IV-2 |1 ose 2, ose 3 |
 |Sekretar. |IV-3 |1 ose 2, ose 3 |
+Lidhja nr. 8/4
+Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “ekspert”, “drejtues qendre”, “zëvendëstitullar institucioni” dhe “titullar institucioni” në Agjencinë e Inovacionit dhe Ekselencës
+|Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune (natyrë të |
+| | | |veçantë pune) (lekë/muaj) |
+|Titullar i institucionit. |I-2 |1 |90 000 |
+|Zëvendëstitullar institucioni. |I-4 |1 |70 000 |
+|Drejtues qendre. | | | |
+|Ekspertë. |II-1 |1 |50 000 |
+|Drejtor i drejtorive mbështetëse. |II-2 |1 |0 |
+|Përgjegjës sektori në sektorët mbështetës. |III-2 |1 |0 |
+|Specialist në sektorët apo drejtoritë mbështetëse. |IV-2 |1 ose 2 ose 3 |0 |
+| |IV-3 | |0 |
 Lidhja nr. 9
 Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “Specialist” deri në “Titullar institucioni” në institucionet e përcaktuara në shkronjën “c”, të pikës 1, të kreut I, të këtij vendimi
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
@@ -958,6 +969,15 @@ III- Për Drejtorinë Artistike të Ansamblit të Këngëve dhe Valleve Popullor
 | |Orkestrant i kategorisë së tretë. | |
 | |Valltar i kategorisë së tretë. | |
 | |Korist i kategorisë së tretë. | |
+Lidhja nr. 10/10
+Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “ekspert” dhe “titullar i institucionit” në Qendrën e Inovacionit të Sigurisë dhe Mbrojtjes
+|Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune (natyrë të |
+| | | |veçantë pune) (lekë/muaj) |
+|Titullar i institucionit. |I-4 |1 |70 000 |
+|Ekspertë. |II-1 |1 |50 000 |
+|Përgjegjës sektori në sektorët mbështetës. |III-2 |1 |0 |
+|Specialist në sektorët apo drejtoritë mbështetëse. |IV-2 |1 ose 2 ose 3 |0 |
+| |IV-3 | |0 |
 Lidhja nr. 11
 Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni” në institucionet e përcaktuara në shkronjën “d”, të pikës 1, të kreut I, të këtij vendimi
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
@@ -992,6 +1012,9 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “sp
 |përmbajtjes në Qendrat e Transferimit të Teknologjive Bujqësore. | | |
 |Specialist në njësitë organizative të përmbajtjes në Agjencinë e | | |
 |Hartimit të Programeve të Veçanta të Shtetësisë. | | |
+|Specialist në njësitë organizative të përmbajtjes në Agjencinë | | |
+|Shtetërore për Mbështetjen dhe Zhvillimin e Startup-eve dhe | | |
+|Lehtësuesve | | |
 |Inspektor. |IV-2 |1 ose 2, ose 3 |
 |Specialist pa grada e tituj shkencorë në njësitë organizative të | | |
 |përmbajtjes në Qendrat e Transferimit të Teknologjive Bujqësore. | | |
@@ -1127,14 +1150,15 @@ Klasat e pagave të nëpunësve në pozicionet “specialist” deri në “titu
 |Specialist në degët rajonale të Agjencisë Kombëtare të Bregdetit. | | |
 |Specialist në drejtoritë rajonale të arsimit parauniversitar. | | |
 |Inspektorë të sistemit të ministrisë përgjegjëse për bujqësinë. | | |
-|Kryetar i degës së financës dhe administrimit në Shkollat e Mesme | | |
-|Profesionale. | | |
+|Përgjegjës i sektorit të financës dhe administrimit në Ofruesin e Arsimit | | |
+|dhe Formimit Profesional. | | |
 |Specialist i zyrës së gjendjes civile në bashki (si funksion i deleguar). |IV-3 |1 ose 2, ose 3 |
 |Specialist në drejtoritë e ujitjes dhe kullimit. | | |
 |Specialist i gjendjes civile pranë prefektit. | | |
 |Specialist në institucionet rajonale. | | |
 |Specialist në zyrat vendore të Agjencisë Kombëtare të Punësimit dhe | | |
 |Aftësive. | | |
+|Specialist në Ofruesin e Arsimit dhe Formimit Profesional | | |
 |Specialist në zyrat vendore të arsimit parauniversitar. | | |
 |Restaurator arti. | | |
 |Arkitekt. | | |

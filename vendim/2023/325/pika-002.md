@@ -27,4 +27,4 @@ iii. shtesa për kushte pune (natyrë të veçantë pune);
 d) Për nëpunësit në pozicionet “sekretar”:
 i. paga bazë mujore e pozicionit të punës;
 ii. vjetërsia në punë që llogaritet mbi pagën bazë mujore të pozicionit të punës, sipas përqindjeve të përcaktuara në shkronjën “ç”, të pikës 1, të këtij kreu;
-dh) Për nëpunësit në pozicionet “ekspertë” në qendrat e ekselencës, paga bazë mujore e pozicionit të punës.
+dh) shfuqizuar
