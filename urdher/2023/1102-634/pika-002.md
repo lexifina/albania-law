@@ -1,0 +1,1 @@
+2. Urdhri i ministrit nr. 353, datë 18.12.2012, “Për kërkesat e shëndetit të kafshëve të aplikuara për lëvizjet jokomerciale të kafshëve shtëpiake” dhe urdhri i ministrit nr. 219, datë 14.4.2016, “Për modelin e pasaportës për lëvizjen e qenve dhe maceve në territorin e Republikës së Shqipërisë”, shfuqizohet.
