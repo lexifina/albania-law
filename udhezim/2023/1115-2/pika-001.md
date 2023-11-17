@@ -1,0 +1,1 @@
+1. Nivelet kufi të zhurmës, në zbatim të këtij udhëzimi, referojnë në vlerat udhëzuese sipas parashikimeve të Organizatës Botërore të Shëndetësisë (OBSH) për mjediset e dhëna, sipas aneksit 1, bashkëlidhur këtij udhëzimi dhe është pjesë përbërëse e tij.

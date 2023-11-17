@@ -1,0 +1,1 @@
+3. Subjektet që ushtrojnë veprimtari ekonomike apo sociale, të cilat lëshojnë zhurmë, marrin masa që niveli i zhurmës në mjediset, sipas pikës 2 të këtij udhëzimi, të mos tejkalojë nivelet kufi të përcaktuara respektivisht në aneksin 1, bashkëlidhur këtij udhëzimi.
