@@ -1,1 +1,0 @@
-3. Urdhri nr. 512, datë 7.9.2023, “Për importin e kafshëve të llojit derra, produkteve, nënprodukteve të tyre, materialit biologjik, embrioneve, mishit dhe nënprodukteve të tyre nga Hungaria”, shfuqizohet.
