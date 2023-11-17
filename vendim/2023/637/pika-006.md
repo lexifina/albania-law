@@ -1,0 +1,1 @@
+6. Vendimi nr. 788, datë 29.9.2010, i Këshillit të Ministrave, “Për shpalljen e zonës arkeologjike ’A’ të Gradishtës së Selcës, rrethi i Pogradecit, dhe miratimin e rregullores së administrimit”, shfuqizohet.
