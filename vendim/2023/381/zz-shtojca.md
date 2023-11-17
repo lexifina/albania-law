@@ -12,7 +12,7 @@ I. Niveli i mesëm drejtues dhe të barasvlershëm
 8. Drejtor i Drejtorisë së Menaxhimit të Programeve dhe Projekteve të Fondeve IPA dhe Donatorëve të Tjerë, në Ministrinë e Financave dhe Ekonomisë;
 9. Drejtor i Drejtorisë së Privatizimit dhe Shitjes, në Drejtorinë e Përgjithshme të Pronës Publike, në Ministrinë e Financave dhe Ekonomisë;
 10. Drejtor i Drejtorisë së Diasporës, në Agjencinë Kombëtare të Diasporës;
-11. Jurist në Drejtorinë Juridike të Akteve Prioritare të Këshillit të Ministrave, në Njësinë Ligjore të Vlerësimit dhe Koordinimit të Akteve Prioritare të Këshillit të Ministrave, në Departamentin e Akteve Ligjore Prioritare të Këshillit të Ministrave, në Kryeministri;
+11. Koordinator në sektorin (zyrën) e menaxhimit pranë Sekretarit të Përgjithshëm, në Kryeministri.
 12. Koordinator në Drejtorinë e Cilësisë dhe Monitorimit, në Njësinë e Programimit të Akteve Rregullatore dhe RIA, në Departamentin e Akteve Ligjore Prioritare të Këshillit të Ministrave, në Kryeministri;
 13. Jurist në Departamentin e Akteve Rregullatore të Këshillit të Ministrave, në Kryeministri;
 14. Koordinator në Drejtorinë e Anëtarësimit në BE, në Njësinë për Integrimin Evropian, në Departamentin e Politikës dhe Integrimit Evropian, në Kryeministri;
