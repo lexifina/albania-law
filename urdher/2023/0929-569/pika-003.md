@@ -1,1 +1,0 @@
-3. Urdhri nr. 458, datë 25.7.2023, “Për importin e kafshëve të llojit derra, produkteve, nënprodukteve të tyre, materialit biologjik, embrioneve, mishit dhe nënprodukteve të tyre nga Serbia”, shfuqizohet.
