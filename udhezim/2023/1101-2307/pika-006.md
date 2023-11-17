@@ -1,0 +1,1 @@
+6. Vendimi për kalimin e pronësisë mbi sipërfaqen shtesë/pronën shërbyese është sipas aneksit 3, që i bashkëlidhet dhe është pjesë përbërëse e këtij udhëzimi. Vendimi plotësohet e miratohet në format digjital dhe një kopje e printuar administrohet e ruhet në përputhje me legjislacionin për arkivat.

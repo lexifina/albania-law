@@ -1,0 +1,1 @@
+7. Vendimi për kalimin e pronësisë mbi sipërfaqen shtesë/pronën shërbyese duhet të plotësojë kërkesat dhe të jetë i arsyetuar, në përputhje me nenet 99 dhe 100, të Kodit të Procedurave Administrative.

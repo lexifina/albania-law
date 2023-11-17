@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim të përcaktojë modelet dhe përmbajtjen e akteve të kalimit të pronësisë për sipërfaqet shtetërore shtesë dhe pronën shërbyese, që i shitet subjekteve, sipas rregullave të përcaktuara në nenin 10, të ligjit 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”.

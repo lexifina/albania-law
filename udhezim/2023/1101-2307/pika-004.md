@@ -1,0 +1,1 @@
+4. Planvendosja për përcaktimin e sipërfaqes shtesë/pronës shërbyese, është sipas aneksit 2 që i bashkëlidhet dhe është pjesë përbërëse e këtij udhëzimi. Ajo hartohet e miratohet në format digjital, dhe një kopje e printuar administrohet e ruhet në përputhje me legjislacionin për arkivat.
