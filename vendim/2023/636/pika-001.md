@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rehabilitimi urban i Njësisë Administrative Gjinar, zona kadastrale 1742”, Bashkia Elbasan.
