@@ -1,0 +1,1 @@
+3. “Institucion administrues” është IKRTK-ja, i cili është përgjegjës për administrimin e bazës së të dhënave, në përputhje me ligjin nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë”, VKM nr. 583, datë 6.10.2021, “Për krijimin e bazës së të dhënave për pasurinë kulturore të vjedhura”, dhe këtë udhëzim;
