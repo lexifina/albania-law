@@ -1,0 +1,1 @@
+1. Ministrisë së Arsimit dhe Sportit, në buxhetin e miratuar për vitin 2023, i shtohet fondi prej 106 000 000 (njëqind e gjashtë milionë) lekësh në programin “Zhvillimi i sportit dhe rinisë”, për Bashkinë Pogradec, për financimin e vlerës së tarifës së pjesëmarrjes “Staging fee” për realizimin e aktivitetit ndërkombëtar “Kampionati Botëror i Formula 1 H2O”.

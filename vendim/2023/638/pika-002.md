@@ -1,0 +1,1 @@
+2. Fondi i përcaktuar në pikën 1, të këtij vendimi, i transferohet njësisë së vetëqeverisjes vendore, Bashkia Pogradec, nga Ministria e Arsimit dhe Sportit, në formë transferte, llogaria ekonomike 604.

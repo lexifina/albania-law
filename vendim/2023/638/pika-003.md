@@ -1,0 +1,1 @@
+3. Bashkia Pogradec kryen pagesën e tarifës së pjesëmarrjes për realizimin e aktivitetit ndërkombëtar “Kampionati Botëror i Formula 1 H2O”, sipas akteve të saj të angazhimit, pasi të ketë administruar dokumentacionin e nevojshëm që garanton zhvillimin e aktivitetit dhe financimin e plotë të tij nga organizatorët.
