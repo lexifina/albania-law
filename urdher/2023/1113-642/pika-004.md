@@ -1,0 +1,1 @@
+4. Drejtoria e Përgjithshme e Arsimit Parauniversitar dhe Drejtoria Rajonale Arsimore Parauniversitare, Fier, të monitorojnë veprimtarinë e Zyrës Vendore të Arsimit Parauniversitar, Mallakastër, për zbatimin e detyrave, sipas këtij urdhri.
