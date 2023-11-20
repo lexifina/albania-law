@@ -1,1 +1,0 @@
-8. Komisioni mblidhet në mjediset e IPAP-së, jo më vonë se tri ditë pune pas përfundimit të afatit të dorëzimit të dokumentacionit të aplikimit për nëndrejtor të IPAP-së dhe kur janë të pranishëm të gjithë anëtarët e tij.
