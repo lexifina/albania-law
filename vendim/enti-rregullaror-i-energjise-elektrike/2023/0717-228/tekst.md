@@ -4,6 +4,10 @@ Nr. 228, datë 17.7.2023
 
 MBI PËRCAKTIMIN E SHOQËRISË “BURSA SHQIPTARE E ENERGJISË ELEKTRIKE ALPEX” SHA SI OPERATORI I EMËRUAR I TREGUT TË ENERGJISË ELEKTRIKE (NEMO)
 
+(Ndryshuar me vendim nr. 349, datë 22.11.2023)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të nenit 7, pika 2 dhe nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 96, datë 17.6.2016; të nenit 3, pikat 3 dhe 7, të “Rregullores së kërkesave dhe procedurave për përcaktimin e Operatorit të Emëruar të Tregut të Energjisë Elektrike (NEMO)”, si dhe rolet e përgjegjësitë e NEMO-s dhe Operatorit të Sistemit të Transmetimit të Energjisë në tregun e bashkuar, miratuar me vendimin e Bordit të ERE-s nr. 40, datë 6.3.2020; Bordi i ERE-s, në mbledhjen e tij të datës 17.7.2023, mbasi shqyrtoi relacionin me nr. 1395/8 prot., datë 14.7.2023, të Grupit të Punës, “Mbi përcaktimin e shoqërisë ‘Bursa Shqiptare e Energjisë Elektrike – ALPEX’ sh.a., si Operatori i Emëruar i Tregut të Energjisë Elektrike (NEMO)”,
 
 konstatoi se: 
@@ -38,9 +42,9 @@ VENDOSI:
 
 1. Të përcaktojë shoqërinë “Bursa Shqiptare e Energjisë Elektrike – ALPEX” sh.a. si Operatori i Emëruar i Tregut të Energjisë Elektrike (NEMO).
 
-2. Brenda 2 (dy) muajve, shoqëria Bursa Shqiptare e Energjisë Elektrike – ALPEX sh.a. duhet të depozitojë në ERE programin ekonomik të vitit 2023, të ndryshuar, të miratuar nga organet drejtuese të saj. 
+2. Shfuqizuar.
 
-3. Brenda 2 (dy) muajve, shoqëria Bursa Shqiptare e Energjisë Elektrike – ALPEX sh.a. të dokumentojë në ERE informacion mbi arsyet e ndryshimit të organigramës, duke shpjeguar detyrat funksionale të personelit.
+3. Shfuqizuar.
 
 4. Përcaktimi i NEMO-s, sipas pikës 1 të këtij vendimi, mbetet i vlefshëm deri në përfshirjen e Rregullores së Alokimit të Kapaciteteve dhe Menaxhimit të Kongjestioneve në legjislacionin e vendit, sipas të cilës përcaktimi i NEMO-s duhet të konfirmohet bazuar në Rregulloren e Alokimit të Kapaciteteve dhe Menaxhimit të Kongjestioneve (CACM Regulation).
 
