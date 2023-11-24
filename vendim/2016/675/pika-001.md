@@ -1,1 +1,0 @@
-1. Miratimin e rregullave dhe të procedurave për krijimin e sistemit të gjurmimit dhe të identifikimit të lëndëve plasëse për përdorim civil, sipas tekstit bashkëlidhur dhe pjesë e pandarë e këtij vendimi.
