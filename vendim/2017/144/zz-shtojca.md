@@ -194,3 +194,31 @@ Mustaf Ram Mehaj
 Vërtetim hipotekor
 Shuma
 67,627,289.4
+LISTA EMËRORE E PRONARIT, PASURIA E PALUAJTSHME, PRONË PRIVATE, E TË CILIT PREKET NGA DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR. 144, DATË 22.2.2017, TË KËSHILLIT TË MINISTRAVE “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT ’RIKUALIFIKIMI URBAN I QYTETIT TË PUKËS’”
+Lloji i pasurisë së paluajtshme që shpronësohet: ”Ndërtesë”
+Nr.
+TË DHËNAT E PRONËS
+Emri
+Atësia
+Mbiemri
+Zona kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sip. totale e objektit të shpronësuar m2
+Sip. që shpronësohet e objektit m²
+Vlera e objektit me situacion lekë
+Shënime
+19
+Gezim Mustaf Kurtalia
+3069
+1/422-N
+Njësi
+54.72
+54.72
+1,528,477
+Konfirmuar nga ASHK-ja, Drejtoria Vendore Pukë
+Sipërfaqe totale shpronësimi m2
+54.72
+Vlera totale e shpronësimit në lekë
+1,528,477
+Shënime 1. Për objektin e llojit “njësi”, vlerësimi është bërë sipas VKM-së nr. 138, datë 23.3.2000, “Për kriteret teknike të vlerësimit dhe të përllogaritjes së masës së shpërblimit të pasurive që shpronësohen, të pasurive që zhvlerësohen dhe të të drejtave të personave të tretë, për interes publik”, i ndryshuar.
