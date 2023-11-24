@@ -282,6 +282,9 @@ Hartimi i programit bëhet duke bashkëpunuar ngushtë me përfaqësinë diploma
 - Komisionerët publikë;
 - Drejtori i Shkollës së Magjistraturës;
 - Drejtuesi i Byrosë Kombëtare të Hetimit.
+-Zëvendëskryetari dhe gjyqtarët e Gjykatës së Posaçme kundër Korrupsionit dhe Krimit të Organizuar;
+- Zëvendësdrejtuesi dhe prokurorët e Prokurorisë së Posaçme kundër Korrupsionit dhe Krimit të Organizuar;
+- Krerët e misioneve diplomatike të Republikës së Shqipërisë.
 2.4 Kërkesa për shfrytëzimin e sallës VIP bëhet në formën e një shkrese/note verbale dhe i drejtohet Protokollit të Shtetit për miratim, minimalisht 48 orë para udhëtimit. Përjashtimet nga rregulli i mësipërm gjykohen rast pas rasti.
 2.5 Në sallën VIP të Aeroportit ka edhe një sallë konferencash shtypi, ku Presidenti, kryetari i Kuvendit, Kryeministri dhe ministri i Punëve të Jashtme e personalitetet e tyre homologe mund t’u drejtohen gazetarëve. Ky mjedis është i vetmi i dedikuar për konferenca dhe intervista apo takime të veçanta me mediat. Si rregull, vetëm në këtë mjedis kameramanët dhe fotografët mund të marrin plane. Përjashtime mund të autorizohen vetëm me miratim të Drejtorisë së Protokollit të Shtetit.
 3. Bisedimet
@@ -349,7 +352,9 @@ Kryetari i Gjykatës së Lartë
 Kryetari i Këshillit të Lartë Gjyqësor
 Kryetari i Këshillit të Lartë të Prokurorisë
 Drejtuesi i Prokurorisë së Posaçme
+Zëvendësdrejtuesi i Prokurorisë së Posaçme
 Kryetari i Gjykatës së Posaçme
+Zëvendëskryetari i Gjykatës së Posaçme
 Kryetari i Kontrollit të Lartë të Shtetit
 Prokurori i Përgjithshëm i Republikës
 Guvernatori i Bankës së Shqipërisë
