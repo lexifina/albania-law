@@ -14,7 +14,7 @@ III. ORGANIZIMI DHE FUNKSIONIMI I SASPAC-së
 a) të jetë shtetas shqiptar;
 b) të ketë zotësi të plotë për të vepruar;
 c) të ketë diplomë të nivelit “Master i shkencave” apo “Master profesional”, të përftuar në fund të studimeve të ciklit të dytë me 120 kredite dhe me kohëzgjatje normale 2 vite akademike, ose të barasvlershme me të, sipas legjislacionit të arsimit të lartë, në shkenca sociale, inxhinierike, juridike, ekonomike;
-ç) të ketë përvojë pune jo më pak se 15 vjet, ku 7 prej tyre në fushën e ekspertizës dhe/apo të administrimit publik;
+ç) të ketë përvojë pune jo më pak se 7 vjet;
 d) të dallohet për aftësi profesionale dhe cilësi të larta etiko-morale;
 dh) të mos jetë i dënuar me vendim të formës së prerë për kryerjen e një vepre penale;
 e) ndaj tij të mos jetë marrë masë disiplinore e largimit nga puna, që nuk është shuar sipas legjislacionit në fuqi.
