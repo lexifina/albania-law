@@ -1,1 +1,2 @@
 5. Përfaqësimi ligjor i Ministrisë së Bujqësisë dhe Zhvillimit Rural në proceset gjyqësore, sipas këtij urdhri, i jep të drejtë përfaqësuesve të autorizuar të kryejnë çdo veprim procedural, të parashikuar nga legjislacioni në fuqi, në kuadër të përfaqësimit në shkallën përkatëse të gjykimit.
+5/1. Nënshkrimi i kërkesave për heqje dorë nga ankimi bëhet nga Sekretari i Përgjithshëm, i cili mund ta delegojë këtë të drejtë tek përfaqësuesi i caktuar për çështje konkrete. Sekretari i Përgjithshëm ndjek dhe konfirmon kërkesat e paraqitura për çështje në gjykim.
