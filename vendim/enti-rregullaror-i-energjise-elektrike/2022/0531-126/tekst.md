@@ -4,6 +4,10 @@ Nr. 126, datë 31.5.2022
 
 MBI RINOVIMIN E LICENCËS SË SHOQËRISË “ENERGY FINANCING TEAM TIRANA” SHPK, NË VEPRIMTARINË E FURNIZIMIT TË ENERGJISË ELEKTRIKE 
 
+(Ndryshuar me vendim të ERE nr. 356, datë 1.12.2023)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16, nenit 20, germa “b” dhe nenit 37, pika 2, germa “ç”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; nenit 4, pika 1, germa “d”, nenit 5, pika 1, germa “d”, nenit 10, pika 3, të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE), nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 19, pika 1 germa “a” të Rregullores për organizimin, funksionimin dhe procedurat të ERE-s, miratuar me vendimin e bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 31.05.2022, mbasi shqyrtoi relacionin me nr. 830/3 prot., datë 27.5.2022, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi rinovimin e licencës së shoqërisë ‘Energy Financing Team Tirana’ sh.p.k., me nr. 390, seria F17 në veprimtarinë e furnizimit të energjisë elektrike, miratuar me vendimin e Bordit të ERE-s nr. 174, datë 26.10.2017”,
 
 konstatoi se:
@@ -48,9 +52,9 @@ VENDOSI:
 
 1. Të rinovojë licencën nr. 390, seria F17, të shoqërisë “Energy Financing Team Tirana” sh.p.k., në veprimtarinë e furnizimit të energjisë elektrike, të miratuar me vendimin e Bordit nr. 174, data 26.10.2017, për një afat 5-vjeçar, duke filluar nga data 27.10.2022. 
 
-2. Shoqëria “Energy Financing Team Tirana” sh.p.k., të informojë ERE-n çdo tre muaj në lidhje me ecurinë e procesit gjyqësor, deri në dokumentimin e një vërtetimi të pastër tatimor. 
+2. Shoqëria “Energy Financing Team Tirana” sh.p.k. të depozitojë në ERE, menjëherë nga marrja dijeni të një vendimi të formës së prerë, vërtetimin e pastër tatimor ose vendimin e Gjykatës së Apelit.
 
-3. Shoqëria “Energy Financing Team Tirana” sh.p.k., të përcjellë në ERE brenda 30 ditëve nga marrja dijeni e vendimit, dokumenta që vërtetojnë aftësinë e disponimit të zyrave përfaqësuese të furnizuesit, për shërbimet që do t’u ofrohen klientëve. 
+3. Shfuqizuar. 
 
 4. Ky vendim është objekt rishikimi nga ERE. 
 
