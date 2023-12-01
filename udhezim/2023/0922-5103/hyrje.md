@@ -1,0 +1,5 @@
+UDHËZIM I PËRBASHKËT
+Nr. 5103, datë 22.9.2023
+PËR KRITERET DHE PROCEDURAT PËR NJOHJEN DHE NJËSIMIN NË REPUBLIKËN E SHQIPËRISË TË DIPLOMAVE, CERTIFIKATAVE, GRADAVE SHKENCORE DHE TITUJVE AKADEMIKË, ME KARAKTER USHTARAK, NË FUSHËN E MBROJTJES DHE SIGURISË KOMBËTARE, TË LËSHUARA NGA INSTITUCIONE TË HUAJA TË ARSIMIT TË LARTË DHE INSTITUCIONE TË TJERA TË AUTORIZUARA
+Në mbështetje të nenit 102 të Kushtetutës së Republikës së Shqipërisë; të pikës 6, të nenit 92, të ligjit nr. 80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”; të shkronjës “f”, të pikës 2, të nenit 13, të ligjit nr. 64/ 2014, “Për pushtetet dhe autoritetet e drejtimit e të komandimit të Forcave të Armatosura të Republikës së Shqipërisë”, të ndryshuar; të pikës 17, të vendimit nr. 156, datë 19.2.2020, të Këshillit të Ministrave, “Për dhënien e statusit të veçantë Akademisë së Forcave të Armatosura, si institucioni i vetëm publik i arsimit të lartë, në fushën e mbrojtjes dhe të sigurisë kombëtare, si dhe organizimin e funksionimin e saj”,
+UDHËZOJMË:

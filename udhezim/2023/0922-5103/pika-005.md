@@ -1,0 +1,6 @@
+5. Institucioni përgjegjës për njohjen dhe njësimin në Republikën e Shqipërisë nuk shqyrton aplikimet për rastet, si më poshtë:
+a) diploma/certifikata profesionale, diploma, grada shkencore, për programe studimi me karakter ushtarak, në fushën e mbrojtjes dhe sigurisë kombëtare, të ndjekura në Republikën e Shqipërisë;
+b) diploma/certifikata profesionale, diploma, grada shkencore për programe studimi me karakter ushtarak, në fushën e mbrojtjes dhe sigurisë kombëtare të hapura/licencuara, si programe studimi online/në distancë, për të cilat studimet janë ndjekur online/në distancë sipas përcaktimit të diplomës/suplementit/dokumentacionit zyrtar të lëshuar nga institucioni që ka lëshuar diplomën;
+c) dokumente për programe studimi të papërfunduara, që nuk përmbushin kushtet për të qenë diploma/certifikata profesionale, diploma, grada shkencore, të niveleve 5, 6, 7 dhe 8, sipas përcaktimeve të legjislacionit të vendit të origjinës dhe legjislacionit shqiptar. Këto dokumente shqyrtohen nga institucioni i arsimit të lartë pranë të cilit aplikohet për transferim studimesh;
+ç) certifikata/dëshmi për kurse kualifikimi ose plotësuese, si gjuhë e huaj, kompjuter etj.
+Për rastet e përmendura në këtë pikë të udhëzimit, aplikanti njoftohet zyrtarisht për mosshqyrtimin e aplikimit.

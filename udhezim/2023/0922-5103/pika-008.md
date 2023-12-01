@@ -1,0 +1,1 @@
+8. Komisioni i Njohjes së Diplomave në QSHA, KNJG-ja dhe komisionet ad-hoc, për certifikata, diploma ose grada shkencore, si dhe tituj akademikë, interpretojnë dhe marrin vendim të argumentuar mbi njohjen ose jo, të mbështetur në legjislacionin shqiptar për arsimin e lartë, marrëveshjet ndërkombëtare të ratifikuara, si edhe në praktikat më të mira të vendeve perëndimore.
