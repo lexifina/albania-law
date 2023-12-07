@@ -1,1 +1,0 @@
-1. Delegimin e kompetencave të titullarit të Shkollës Shqiptare të Administratës Publike, të parashikuara në legjislacionin në fuqi për shërbimin civil, znj. Enkela Dudushi, në cilësinë e drejtorit të Drejtorisë së Politikave dhe Zhvillimit të Administratës Publike, në Departamentin e Administratës Publike.
