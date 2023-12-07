@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Shkollës Shqiptare të Administratës Publike, të parashikuara në legjislacionin në fuqi për shërbimin civil, znj. Arlinda Hoti, në cilësinë e drejtorit të Drejtorisë së Trajnimit dhe Komunikimit, në Shkollën Shqiptare të Administratës Publike.
