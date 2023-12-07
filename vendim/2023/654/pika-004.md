@@ -1,0 +1,1 @@
+4. Shpërblimet kalohen në llogaritë e pensionistëve në muajin dhjetor 2023 dhe paguhen gjatë këtij muaji. Në rastet kur pagesat efektive nuk kryhen brenda muajit dhjetor 2023, ato të paguhen gjatë vitit 2024. Shpërblimet e patërhequra parashkruhen pas datës 31.12.2024.
