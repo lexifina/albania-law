@@ -4,7 +4,7 @@ Nr.9975, datë 28.7.2008
 
 PËR TAKSAT KOMBËTARE
 
-(Ndryshuar me ligjet: nr. 10065, datë 29.1.2009; nr.10 131, datë 11.5.2009; nr.10145, datë 28.9.2009; nr.10280, datë 20.5.2010; nr.10 458, datë 21.7.2011; nr.83/2012, datë 13.9.2012; nr.120/2013, datë 18.4.2013; nr.178, datë 28.12.2013; nr. 86/2014, datë 17.7.2014; nr.157, datë 27.11.2014; nr.141/2015, datë 17.12.2015; nr.127/2016, datë 15.12.2016, nr. 68/2017, datë  27.4.2017, nr. 104/2017, datë 30.11.2017, nr. 93/2018, datё 3.12.2018, nr. 55/2019, datë 18.7.2019, nr. 86/2019, 18.12.2019, nr. 153/2020, datë  17.12.2020; nr. 151/2020, datë 17.12.2020, nr. 112/2021, datë 25.11.2021, nr. 38/2023, datën 8.6.2023)
+(Ndryshuar me ligjet: nr. 10065, datë 29.1.2009; nr.10 131, datë 11.5.2009; nr.10145, datë 28.9.2009; nr.10280, datë 20.5.2010; nr.10 458, datë 21.7.2011; nr.83/2012, datë 13.9.2012; nr.120/2013, datë 18.4.2013; nr.178, datë 28.12.2013; nr. 86/2014, datë 17.7.2014; nr.157, datë 27.11.2014; nr.141/2015, datë 17.12.2015; nr.127/2016, datë 15.12.2016, nr. 68/2017, datë  27.4.2017, nr. 104/2017, datë 30.11.2017, nr. 93/2018, datё 3.12.2018, nr. 55/2019, datë 18.7.2019, nr. 86/2019, 18.12.2019, nr. 153/2020, datë  17.12.2020; nr. 151/2020, datë 17.12.2020, nr. 112/2021, datë 25.11.2021, nr. 38/2023, datën 8.6.2023; nr. 96/2023, date 7.12.2023)
 
 (i përditësuar) 
 
@@ -54,7 +54,7 @@ Neni 3
 
 Llojet e taksave kombëtare
 
- (ndryshuar pikat 3 dhe  6 me ligjin nr.10280, datë 20.5.2010; ndryshuar pikat 2 dhe  6 me ligjin nr.10458 datë 21.7.2011; shtuar pika 8 me ligjin nr.83/2012, datë 13.9.2012; ndryshuar pika 8, shtuar pika 8.1 me ligjin nr.178/2013, datë 28.12.2013; shtuar pika 9 me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar pikat 2, 6, shtuar pika10 me ligjin nr.157, datë 27.11.2014; shtuar pika 11 me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar pikat 2,6 me ligjin nr. ligjin nr.127/2016, datë 15.12.2016; ndryshuar pika 8 dhe 8/1 dhe shtuar pika 8/2 me ligjin nr. 93/2018, datё 3.12.2018, shtuar pikat 12-16 me ligjin nr. 112/2021, datë 25.11.2021)
+ (ndryshuar pikat 3 dhe  6 me ligjin nr.10280, datë 20.5.2010; ndryshuar pikat 2 dhe  6 me ligjin nr.10458 datë 21.7.2011; shtuar pika 8 me ligjin nr.83/2012, datë 13.9.2012; ndryshuar pika 8, shtuar pika 8.1 me ligjin nr.178/2013, datë 28.12.2013; shtuar pika 9 me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar pikat 2, 6, shtuar pika10 me ligjin nr.157, datë 27.11.2014; shtuar pika 11 me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar pikat 2,6 me ligjin nr. ligjin nr.127/2016, datë 15.12.2016; ndryshuar pika 8 dhe 8/1 dhe shtuar pika 8/2 me ligjin nr. 93/2018, datё 3.12.2018, shtuar pikat 12-16 me ligjin nr. 112/2021, datë 25.11.2021; zëvendësuar fjalë në pikën 6 me ligjin nr. 96/2023, datë 7.12.2023)
 
 Taksat kombëtare janë: 
 
@@ -68,7 +68,7 @@ Taksat kombëtare janë:
 
 5. Taksa e akteve dhe e pullës.
 
-6. Taksa e karbonit për benzinën (sipas kodeve të NKM-së 2710 12 41;  2710 12 45; 2710 12 49; 2710 12 51; 2710 12 59), për gazoilin (sipas kodeve të NKM-së 2710 19 31; 2710 19 35; 2710 19 43; 2710 19 46; 2710 19 47; 2710 19 48), për qymyrin (sipas krerëve të NKM-së 2701; 2702), për vajgurin (sipas kodeve tarifore të NKM-së 27 10 19 11 deri në 27 10 19 29), për solarin (sipas kodeve të NKM-së 2710 19 62 deri në 2710 19 68), për mazutin (sipas kodeve të NKM-së 2710 19 62 deri në 2710 19 68) dhe për koks nafte (sipas kodeve të NKM-së 2713 11 00; 2713 12 00), si dhe për benzinën ose gazoilin që gjendet në përmbajtjen e biokarburantit (sipas kodeve tarifore të NKM-së 27102011 deri në kodin 27102019, 27102090, si dhe klasifikimin në nënkreun 38 26 00).
+6. Taksa e karbonit për benzinën (sipas kodeve të NKM-së 2710 12 41;  2710 12 45; 2710 12 49; 2710 12 51; 2710 12 59), për gazoilin (sipas kodeve të NKM-së 2710 19 31; 2710 19 35; 2710 19 43; 2710 19 46; 2710 19 47; 2710 19 48), për qymyrin (sipas krerëve të NKM-së 2701; 2702; 2704), për vajgurin (sipas kodeve tarifore të NKM-së 27 10 19 11 deri në 27 10 19 29), për solarin (sipas kodeve të NKM-së 2710 19 62 deri në 2710 19 68), për mazutin (sipas kodeve të NKM-së 2710 19 62 deri në 2710 19 68) dhe për koks nafte (sipas kodeve të NKM-së 2713 11 00; 2713 12 00), si dhe për benzinën ose gazoilin që gjendet në përmbajtjen e biokarburantit (sipas kodeve tarifore të NKM-së 27102011 deri në kodin 27102019, 27102090, si dhe klasifikimin në nënkreun 38 26 00).
 
 7. Taksa e ushtrimit të veprimtarisë së peshkimit.
 
@@ -100,7 +100,7 @@ Niveli i taksave kombëtare
 
 (shfuqizuar fjalia e fundit e pikës 2 dhe ndryshuar pika 6 me ligjin nr.10 065, datë 29.1.2009; ndryshuar pikat 2, 3, 4, 6 me ligjin nr.10280, datë 20.5.2010; ndryshuar pikat 2, 3, 6 me ligjin nr.10 458, datë 21.7.2011; shtuar pika 8 me ligjin nr.83/2012, datë 13.9.2012; ndryshuar pika 3  me ligjin nr. 120/2013, datë 18.4.2013; ndryshuar pikat 2, 8 me ligjin nr. 178/2013, datë 28.12.2013; shtuar pika 9 me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar pikat 2,4, shtuar pika 9 me ligjin nr.157, datë 27.11.2014; ndryshuar pikat 4, 5, 9, shtuar pika 11 me ligjin  nr. 141/2015, datë 17.12.2015; ndryshuar pikat  2,3, 4, 8,  me ligjin nr.127/2016, datë 15.12.2016; ndryshuar pika 3 e nenit 4 e ligjit nr. 68/2017, datë  27.4.2017
 
-“Për financat e vetëqeverisjes vendore”, ndryshuar fjalë në pikën 4, shtuar një fjali në pikën 6 dhe ndryshuar pika 8 me ligjin nr. 93/2018, datё 3.12.2018, shtuar një fjali pas fjalisë së parë të pikës 8, ndryshuar fjalë në pikën 8/1 dhe riformuluar pika 8.5 me ligjin nr. 55/2019, datë 18.7.2019, ndryshuar fjalë në pikën 3 me ligjin nr. 86/2019, 18.12.2019, shtuar paragraf në fund të pikës 4 me ligjin nr. 153/2020, datë  17.12.2020; ndryshuar fjalë në paragrafin e parë dhe të tretë të pikës 4 nr. 151/2020, datë 17.12.2020, shtuar pikat 12-16 me ligjin nr. 112/2021, datë 25.11.2021)
+“Për financat e vetëqeverisjes vendore”, ndryshuar fjalë në pikën 4, shtuar një fjali në pikën 6 dhe ndryshuar pika 8 me ligjin nr. 93/2018, datё 3.12.2018, shtuar një fjali pas fjalisë së parë të pikës 8, ndryshuar fjalë në pikën 8/1 dhe riformuluar pika 8.5 me ligjin nr. 55/2019, datë 18.7.2019, ndryshuar fjalë në pikën 3 me ligjin nr. 86/2019, 18.12.2019, shtuar paragraf në fund të pikës 4 me ligjin nr. 153/2020, datë  17.12.2020; ndryshuar fjalë në paragrafin e parë dhe të tretë të pikës 4 nr. 151/2020, datë 17.12.2020, shtuar pikat 12-16 me ligjin nr. 112/2021, datë 25.11.2021; ndryshuar pika 6 me ligj nr.96/2023, date 7.12.2023)
 
 1. Taksa portuale është 1 euro. Kjo taksë paguhet, për çdo prekje, për të gjitha anijet që prekin portet dhe radat e Republikës së Shqipërisë e që kryejnë veprime tregtare. 
 
@@ -110,17 +110,43 @@ Niveli i taksave kombëtare
 
 4. Taksa e rentës minerare caktohet sipas shtojcës nr. 2, që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij. Përqindja e rentës minerare për përmbajtjen e mineralit metalor në nënproduktin minerar është në masën sa 3/7 e normës së rentës për vitin 2019, 3/8 e normës së rentës për vitin 2020 në masën 0% për periudhën nga hyrja në fuqi e këtij ligji deri në fund të vitit 2023 dhe 1/3 e normës së rentës për vitin 2024 e në vijim së përcaktuar në shtojcën nr. 2, “Grupi i parë (I) Mineralet metalike” që i bashkëlidhet këtij ligji. Çdo person fizik apo juridik, që është i licencuar dhe/ose vepron në industrinë minerare, sipas një marrëdhënieje kontraktuale me ministrin përgjegjës për ekonominë, duhet të paguajë rentë minerare për burimet natyrore që nxjerr nga/mbi/dhe nëntoka e territorit të Republikës së Shqipërisë. Renta minerare llogaritet si detyrim mujor i subjektit taksapagues, në çastin kur ai shet produkte minerare. Në rastin e eksportit të produkteve minerare, renta paguhet në çastin e bërjes së deklaratës së eksportit. 5 për qind e të ardhurave nga renta minerare i takojnë pushtetit vendor ku zhvillohet veprimtaria. Të ardhurat nga renta minerare përdoren për investime për njësitë e qeverisjes vendore.
 
-Renta minerare përcaktohet duke shumëzuar vlerën e përgjithshme të shitjes me shumicë të produktit me përqindjen e rentës, sipas përcaktimeve të shtojcës nr. 2, që i bashkëlidhet këtij ligji. Pagesa e rentës minerare bëhet brenda datës 15 të muajit pasardhës, kur janë realizuar shitjet. Degët e doganave në rrethe ngarkohen për arkëtimin e kësaj rente, në rastin e eksportit të produkteve minerare, ndërsa degët e tatimeve ngarkohen për arkëtimin e kësaj rente, në rastin e shitjes së produkteve minerare brenda vendit.
+    Renta minerare përcaktohet duke shumëzuar vlerën e përgjithshme të shitjes me shumicë të produktit me përqindjen e rentës, sipas përcaktimeve të shtojcës nr. 2, që i bashkëlidhet këtij ligji. Pagesa e rentës minerare bëhet brenda datës 15 të muajit pasardhës, kur janë realizuar shitjet. Degët e doganave në rrethe ngarkohen për arkëtimin e kësaj rente, në rastin e eksportit të produkteve minerare, ndërsa degët e tatimeve ngarkohen për arkëtimin e kësaj rente, në rastin e shitjes së produkteve minerare brenda vendit.
 
 Në rastin kur taksa e rentës minerare aplikohet në përqindje, kjo taksë  llogaritet duke shumëzuar vlerën e shitjes së produktit (pa TVSH) me përqindjen e rentës. Kur taksa e rentës minerare aplikohet në vlerë fikse për njësi, shuma e rentës minerare llogaritet duke shumëzuar sasitë e shitjes së produktit me vlerën e rentës minerare. Në rastin e shitjes së mineralit të grupit të parë (I), “Mineralet metalike”, për përpunim brenda vendit, nga nxjerrësi te përpunuesi, përqindja e rentës aplikohet në masën sa 3/7 e normës së rentës për vitin 2019, 3/8 e normës së rentës për vitin 2020 në masën 0% për periudhën nga hyrja në fuqi e këtij ligji deri në fund të vitit 2023 dhe 1/3 e normës së rentës për vitin 2024 e në vijim së përcaktuar në shtojcën nr. 2, mbi vlerën (çmimin) e shitjes, e cila, për efekt të përllogaritjes së rentës minerare, nuk mund të jetë më e vogël se çmimi i shitjes për eksport të mineralit të papërpunuar.
 
-Këshilli i Ministrave përcakton procedurat e arkëtimit së rentës minerare dhe dokumentacionin që duhet të paraqesë i licencuari, eksportuesi, për të vërtetuar çmimin e shitjes. Masa e rentës minerare, e përcaktuar në ligjin minerar, ndryshon sipas paragrafëve të parë dhe të dytë, të pikës 4, të nenit 4, të këtij ligji.
+     Këshilli i Ministrave përcakton procedurat e arkëtimit së rentës minerare dhe dokumentacionin që duhet të paraqesë i licencuari, eksportuesi, për të vërtetuar çmimin e shitjes. Masa e rentës minerare, e përcaktuar në ligjin minerar, ndryshon sipas paragrafëve të parë dhe të dytë, të pikës 4, të nenit 4, të këtij ligji.
 
 Taksa e rentës minerare për hidrokarburet e nxjerra përcaktohet me ligjin “Për regjimin fiskal në sektorin hidrokarbur.
 
-5. Taksa e akteve dhe e pullës caktohet sipas shtojcës nr. 3, e cila i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
+     5. Taksa e akteve dhe e pullës caktohet sipas shtojcës nr. 3, e cila i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
 
-6. Taksa e karbonit caktohet në masën 1,5 lekë për litër për benzinën, 3 lekë për litër për gazoilin, 3 lekë për kilogram për qymyrin, 3 lekë për litër për solarin, 3 lekë për litër për mazutin, 3 lekë për litër për vajgurin dhe 3 lekë për kilogram për koks nafte. Kjo taksë nuk paguhet për sasitë e benzinës dhe të gazoilit që eksportohen.
+6. Taksa e karbonit caktohet në masën:
+
+a) 1,5 lekë për litër për benzinën; 
+
+b) 3 lekë për litër për gazoilin; 
+
+c) për qymyrin:
+
+i. 4,5 lekë për kilogram nga data 1 korrik 2026; 
+
+ii. 6.5 lekë për kilogram për vitin 2027; 
+
+iii. 9 lekë për kilogram për vitin 2028;
+
+iv. 12 lekë për kilogram për vitin 2029; 
+
+v. 15.3 lekë për kilogram për vitin 2030 dhe në vazhdim;
+
+ç) 3 lekë për litër për solarin; 
+
+d) 3 lekë për litër për mazutin; 
+
+dh) 3 lekë për litër për vajgurin; 
+
+e) 3 lekë për kilogram për koks nafte. 
+
+Kjo taksë nuk paguhet për sasitë e benzinës e të gazoilit që eksportohen.
 
 7. Taksa e ushtrimit të veprimtarisë së peshkimit caktohet sipas shtojcës nr.4, që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
 
