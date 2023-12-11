@@ -1,0 +1,1 @@
+6. Subjekti juridik “Shkolla Aulona 1” sh.p.k., me NIPT: K37221202F, të marrë masat për shlyerjen e detyrimeve financiare për Drejtorinë Rajonale të Tatimeve Vlorë dhe Bashkinë Vlorë, në lidhje me veprimtarinë e institucioneve arsimore parauniversitare jopublike, të nivelit të arsimit bazë dhe të arsimit të mesëm të lartë.

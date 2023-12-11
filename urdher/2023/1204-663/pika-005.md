@@ -1,0 +1,1 @@
+5. Në rast të moszbatimit të detyrimeve, nga institucionet arsimore parauniversitare jopublike, të nivelit të arsimit bazë dhe të arsimit të mesëm të lartë, shkolla “Aulona”, të përcaktuara në pikën 2, të këtij urdhri, Zyra Vendore e Arsimit Parauniversitar Vlorë-Himarë, të marrë të gjitha masat, sipas legjislacionit në fuqi.

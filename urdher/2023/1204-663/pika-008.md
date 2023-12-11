@@ -1,0 +1,2 @@
+8. Ngarkohen për zbatimin e këtij urdhri Sekretari i Përgjithshëm në Ministrinë e Arsimit dhe Sportit, Drejtoria e Përgjithshme Rregullatore për Arsimin dhe Sportin, Drejtoria e Përgjithshme e Arsimit Parauniversitar, Drejtoria Rajonale Arsimore Parauniversitare Fier, Zyra Vendore e Arsimit Parauniversitar Vlorë-Himarë, institucionet arsimore parauniversitare jopublike, të nivelit të arsimit bazë dhe të arsimit të mesëm të lartë, shkolla “Aulona”.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+7. Urdhri nr. 250, datë 17.9.2003, i ministrit të Arsimit dhe Shkencës, “Për dhënien e lejes së funksionimit të institucionit arsimor jopublik parauniversitar ’Aulona’” dhe urdhri nr. 320, datë 8.10.2004, i ministrit të Arsimit dhe Shkencës, “Për funksionimin e institucionit arsimor jopublike parauniversitar, shkollë nëntëvjeçare ’Aulona’”, shfuqizohen.
