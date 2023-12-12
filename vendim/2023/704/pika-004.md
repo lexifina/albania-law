@@ -1,0 +1,1 @@
+4. Fondet buxhetore, që do t’i akordohen fondacionit nga Ministria e Arsimit dhe Sportit, duhet t’i nënshtrohen rregullave të menaxhimit financiar dhe kontrollit në përputhje me legjislacionin në fuqi për menaxhimin financiar dhe kontrollin.

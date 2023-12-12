@@ -1,0 +1,1 @@
+3. Fondacioni “Durrah City Football Academy”, brenda muajit shkurt 2024, të dërgojë zyrtarisht në Ministrinë e Arsimit dhe Sportit raportin e shpenzimeve të realizuara për vitin 2023, të miratuara nga Bordi Drejtues i fondacionit.

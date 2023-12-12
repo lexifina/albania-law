@@ -1,0 +1,1 @@
+1. Fondi prej 20 000 000 (njëzet milionë) lekësh, i miratuar për Ministrinë e Arsimit dhe Sportit në buxhetin e vitit 2023, në programin buxhetor 08140 “Për zhvillimin e sportit”, në llogarinë ekonomike 604 “Transferta të brendshme”, të përdoret për financimin e shpenzimeve të ushtrimit të veprimtarisë së fondacionit “Durrah City Football Academy”.
