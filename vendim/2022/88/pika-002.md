@@ -2,3 +2,7 @@
 a) 15 509 236 (pesëmbëdhjetë milionë e pesëqind e nëntë mijë e dyqind e tridhjetë e gjashtë) lekë për rikonstruksionin e gjimnazit “At’Shtjefen “Kurti”;
 b) 10 676 563 (dhjetë milionë e gjashtëqind e shtatëdhjetë e gjashtë mijë e pesëqind e gjashtëdhjetë e tre) lekë për rikonstruksionin e Kopshtit nr.3 Laç;
 c) 18 602 993 (tetëmbëdhjetë milionë e gjashtëqind e dy mijë e nëntëqind e nëntëdhjetë e tre) lekë për rikonstruksionin shkollës 9-vjeçare “Nike Tom Prela”.
+2/1. Bashkisë Kurbin, në buxhetin e vitit 2023, i transferohet fondi në formën e transfertës së pakushtëzuar, në masën 177 869 644 (njëqind e shtatëdhjetë e shtatë milionë e tetëqind e gjashtëdhjetë e nëntë mijë e gjashtëqind e dyzet e katër) lekë pa TVSH, që do të përballohet nga shpenzimet buxhetore të fondit të rindërtimit, miratuar për vitin 2023, sipas detajimit të mëposhtëm:
+a) 61 380 329 (gjashtëdhjetë e një milionë e treqind e tetëdhjetë mijë e treqind e njëzet e nëntë) lekë për rikonstruksionin e gjimnazit “At’Shtjefen “Kurti””;
+b) 42 706 254 (dyzet e dy milionë e shtatëqind e gjashtë mijë e dyqind e pesëdhjetë e katër) lekë për rikonstruksionin e kopshtit nr. 3 Laç;
+c) 73 783 061 (shtatëdhjetë e tre milionë e shtatëqind e tetëdhjetë e tre mijë e gjashtëdhjetë e një) lekë për rikonstruksionin e shkollës 9-vjeçare “Nike Tom Prela”.
