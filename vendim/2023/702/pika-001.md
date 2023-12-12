@@ -1,0 +1,1 @@
+1. Miratimin e planit të shpenzimeve, për vitin 2024, të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura, në shumën 71 217 100 (shtatëdhjetë e një milionë e dyqind e shtatëmbëdhjetë mijë e njëqind) lekë, sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi.
