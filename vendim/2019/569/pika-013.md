@@ -5,6 +5,9 @@ III/1 SIGURIMI I SHËRBIMIT TË PASTRIMIT GJATË SEZONIT TURISTIK
 3. Shërbimi i pastrimit të zonës bregdetare sigurohet për periudhën 15 qershor deri më 15 shtator.
 4. Përjashtimisht për sezonin turistik të vitit 2022, shërbimi i pastrimit të zonës bregdetare sigurohet vetëm për bashkitë Durrës, Kavajë, Himarë dhe Sarandë, sipas hartave, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
 4/1. Përjashtimisht, për sezonin turistik të vitit 2023, shërbimi i pastrimit të zonës bregdetare sigurohet vetëm për bashkitë Durrës, Kavajë, Rrogozhinë, Vlorë, Himarë dhe Sarandë, sipas hartave që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
+4/2. Përjashtimisht, për sezonin turistik të vitit 2024, shërbimi i pastrimit të zonës bregdetare
+sigurohet vetëm për bashkitë Durrës, Kavajë, Rrogozhinë, Vlorë, Himarë, Sarandë, Lezhë dhe
+Shkodër, sipas hartave që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
 5. Procedura e prokurimit publik për sigurimin e shërbimit të pastrimit të zonës bregdetare bëhet nga Agjencia Kombëtare e Bregdetit, duke zbatuar legjislacionin në fuqi për prokurimin publik.
 IV. DISPOZITA KALIMTARE DHE TË FUNDIT
 1. Deri në fillimin e funksionimit të plotë të AKB-së, sipas përcaktimeve të këtij vendimi, struktura aktuale vazhdon funksionimin e saj sipas strukturës dhe organikës të miratuar.
