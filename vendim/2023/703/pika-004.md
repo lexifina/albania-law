@@ -1,0 +1,1 @@
+4. Të gjitha shpenzimet për kryerjen e procedurave për mbylljen e kolegjit universitar “Pavarësia”, në zbatim të këtij vendimi, të përballohen nga ana e institucionit jopublik të arsimit të lartë/personit juridik privat që e përfaqëson.
