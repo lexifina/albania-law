@@ -1,0 +1,5 @@
+VENDIM
+Nr. 658, datë 6.12.2023
+PËR AUTORIZIMIN E DREJTORIT TË PËRGJITHSHËM TË AGJENCISË KOMBËTARE TË SHOQËRISË SË INFORMACIONIT PËR NEGOCIMIN DHE NËNSHKRIMIN E RINOVIMIT TË MARRËVESHJES SË PARTNERITETIT STRATEGJIK, NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE SHOQËRISË “MICROSOFT CORPORATION”
+Në mbështetje të nenit 100 të Kushtetutës dhe të shkronjës “d”, të nenit 31, të ligjit nr. 43/2023, “Për qeverisjen elektronike”, me propozimin e Kryeministrit, Këshilli i Ministrave
+VENDOSI:
