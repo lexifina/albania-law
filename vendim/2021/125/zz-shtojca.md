@@ -166,35 +166,38 @@ Me certifikatë pronësie.
 Sami Bajram Kanaj
 8531
 11/18
-302
+445.7
 260
-12,458.00
-52,061.77
-3,762,316
+12458
+52,062
+5,552,531
 13,536,060
-17,298,376
-Me certifikatë pronësie.
+19,088,590.80
+Konfirmuar nga ASHK-ja, Drejtoria Vendore Fier.
 17
 Kadri Bajram Kanaj
 8531
 11/318
-180.2
+314.1
 252.8
-12,458.00
-52,061.77
-2,244,932
+12458
+52,062
+3,913,058
 13,161,215
-15,406,147
-Me certifikatë pronësie.
+17,074,273.26
+Konfirmuar nga ASHK-ja, Drejtoria Vendore Fier.
 18
-Fatmir Faslli Mylkaj
+Fatmir Faslli Mylka
 8531
-11/122ND
+11/122 ND+11/122
+380
 120
-52,061.77
+12458
+52,062
+4,734,040
 6,247,412
-6,247,412
-Me certifikatë pronësie.
+10,981,452.40
+Konfirmuar nga ASHK-ja, Drejtoria Vendore Fier. Sipas shkresës së ASHK Fier, datë 7.2.2022, protokolluar në Bashkinë Fier me nr. 1305, datë 15.2.2022. Kjo pasuri është e llojit “truall” dhe është certifikuar me sipërfaqe 500 m2, data e lëshimit të certifikatës 16.2.2021.
 19
 Vasillaq Viktor Mertira;Anila Todi Mertira
 8531
@@ -213,25 +216,29 @@ Vasillaq Viktor Mertira
 702,139
 Me certifikatë pronësie.
 21
-Ferik Idriz Shabanaj; Bele Imer Shabanaj
+Ferik Idriz Shabanaj, Bele Imer Shabanaj
 8531
 11/37+1-1
-0
+18.94
 52.56
-52,061.77
+12458
+52,062
+235,955
 2,736,367
-2,736,367
-Me certifikatë pronësie.
+2,972,321.15
+Konfirmuar nga ASHK, Drejtoria Vendore Fier. Sipas kartelës të datës 30.5.2022, kjo pasuri ka sipërfaqe truall prej 71.5 m2.
 22
-Arber Refat Laze; Fatbardha Suri Laze
+Arben Refat Laze, Fatbardha Suri Laze
 8531
 11/37+1-2
-0
-74.94
-52,061.77
-3,901,509
-3,901,509
-Me vërtetim hipotekor, plotësim dokumentacioni.
+18.9
+61.02
+12458
+52,062
+235,456
+3,176,809
+3,412,265.41
+Konfirmuar nga ASHK, Drejtoria Vendore Fier. Sipas kartelës së pasurisë datë 30.5.2022, kjo pasuri ka sipërfaqe truall prej 79.92 m2.
 23
 Arber Kozma Mone
 8531
@@ -257,7 +264,7 @@ Kozma Gjelo Mone
 16,547,357
 Me vërtetim hipotekor, plotësim dokumentacioni.
 Vlera totale e shpronësimit
-124,395,382
+132 334 474
 Shënime.
 Vlerësimi i tokës “truall” është llogaritur bazuar në VKM-në nr. 89, datë 3.2.2016, “Për miratimin e hartës së vlerës së tokës në Republikën e Shqipërisë”;
 Vlerësimi i objekteve të banimit është bërë me çmim mesatar të shitblerjeve për tre muajt e fundit, referuar shkresës nr. 8723/3 prot., datë 28.10.2020, të Agjencisë Shtetërore të Kadastrës, Drejtoria Vendore Fier;
