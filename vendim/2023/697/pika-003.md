@@ -1,0 +1,1 @@
+3. Qendra ka si mision koordinimin e veprimtarisë lidhur me inovacionin dhe zhvillimin në sektorin e lëndëve të para, në bashkëpunim me Institutin Evropian të Teknologjisë dhe Inovacionit për Lëndët e Para (në vijim “EIT RawMaterials”).

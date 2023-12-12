@@ -1,0 +1,1 @@
+10. Qendra, për të realizuar misionin dhe objektivat e saj, bashkëpunon dhe bashkërendon veprimtarinë me grupin ndërinstitucional të punës, EIT RawMaterials dhe me institucione të tjera, publike dhe/ose private, me grupet e interesit, shoqërinë civile, akademinë, median vendase dhe/ose të huaj.

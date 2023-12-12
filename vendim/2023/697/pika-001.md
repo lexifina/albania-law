@@ -1,0 +1,1 @@
+1. Krijimin, organizimin dhe funksionimin e Qendrës Rajonale të Inovacionit të Institutit Evropian të Teknologjisë dhe Inovacionit për Lëndët e Para (EIT RawMaterials Regional Inovation Center) (në vijim “Qendra”), si person juridik publik buxhetor, në varësi të ministrit përgjegjës për minierat dhe industrinë (në vijim “ministri”), me seli në Elbasan.

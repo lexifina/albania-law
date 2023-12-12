@@ -1,0 +1,1 @@
+12. Rregullorja që përcakton metodat e brendshme të punës dhe sjelljen e personelit të qendrës miratohet nga ministri, me propozimin e drejtuesit të qendrës. Pjesë e kësaj rregulloreje janë edhe funksionimi i grupit ndërinstitucional të punës.

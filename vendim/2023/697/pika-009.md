@@ -1,0 +1,1 @@
+9. Qendra raporton në çdo mbledhje të grupit ndërinstitucional të punës dhe çdo vit, në mënyrë periodike, përgatit informacion me shkrim për Kryeministrin për ecurinë e realizimit të programit të veprimeve dhe të raportit vjetor.
