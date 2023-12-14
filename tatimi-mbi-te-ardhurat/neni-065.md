@@ -1,6 +1,6 @@
 # Neni 65
 Agjenti tatimor i listëpagesës
-1. Çdo punëdhënës, i cili ka detyrimin të paguajë të ardhura nga punësimi, është i detyruar të mbajë tatimin mbi këto të ardhura, të dorëzojë listëpagesën dhe të transferojë tatimin e mbajtur në listëpagesë në llogarinë e thesarit të buxhetit jo më vonë se data 20 e muajit pasardhës për entitetet dhe jo më vonë se data 20 e muajit që pason çdo 3-mujor për individët e vetëpunësuar apo individët tregtarë.
+1. Çdo punëdhënës, i cili ka detyrimin të paguajë të ardhura nga punësimi, është i detyruar të mbajë tatimin mbi këto të ardhura, të dorëzojë listëpagesën dhe të transferojë tatimin e mbajtur në listëpagesë në llogarinë e thesarit të buxhetit jo më vonë se data 20 e muajit pasardhës për entitetet dhe individët e vetëpunësuar apo individët tregtarë të regjistruar për TVSH-në, dhe jo më vonë se data 20 e muajit, që pason çdo 3-mujor për individët e vetëpunësuar apo individët tregtarë, që nuk janë të regjistruar për TVSH-në.
 Agjenti tatimor i listëpagesës është i detyruar të mbajë tatimin sipas kësaj pike:
 a) shkallën progresive të tatimit sipas nenit 24 të këtij ligji nëse tatimpaguesi i të ardhurave personale nënshkruan deklaratën mbi statusin personal me këtë punëdhënës, sipas nenit 66 të këtij ligji;
 b) 15% të pagesës në rastet e tjera që nuk përfshihen në shkronjën “a” të kësaj pike dhe që nuk konsiderohen të ardhura nga marrëdhënie punësimi.
