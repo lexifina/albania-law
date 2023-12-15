@@ -1,0 +1,1 @@
+2. Miratimin e zonimit të zonave arkeologjike “A” dhe “B” të qytetit të Sarandës, “Kalasë së Lëkurësit” dhe “Manastirit të 40 Shenjtorëve”, sipas koordinatave dhe hartave të zonimit në Kornizën Referuese Gjeodezike Shqiptare (KRGJSH), bashkëlidhur këtij vendimi.
