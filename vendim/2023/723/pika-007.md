@@ -1,0 +1,1 @@
+7. Agjencia ka stemën, logon dhe vulën zyrtare. Stema e Agjencisë ka shënimet “Republika e Shqipërisë, Ministria e Financave dhe Ekonomisë, Agjencia e Menaxhimit të Garancive dhe Kredive të Pakthyera”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.
