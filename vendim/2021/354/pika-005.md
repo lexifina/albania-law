@@ -1,1 +1,1 @@
-5. Vlera e shpenzimeve procedurale, në masën 50 000 (pesëdhjetë mijë) lekë, të përballohet nga Autoriteti Rrugor Shqiptar.
+5. Vlera e shpenzimeve procedurale, në masën 100 000 (njëqind mijë) lekë, të përballohet nga Autoriteti Rrugor Shqiptar.
