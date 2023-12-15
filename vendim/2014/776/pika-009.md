@@ -1,1 +1,0 @@
-9. Ngarkohet ministri i Punëve të Brendshme për nxjerrjen e udhëzimit përkatës për përcaktimin e procedurave dhe dokumentacionit të nevojshëm që duhet të paraqesë punonjësi i shërbimit, që përfiton sipas pikave 1 e 2, të këtij vendimi.
