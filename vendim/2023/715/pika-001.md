@@ -1,0 +1,2 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Kulturës, sipas formularëve dhe plan-rilevimeve, bashkëlidhur këtij vendimi, për ushtrimin e veprimtarisë sipas fushës së përgjegjësisë shtetërore.
+Lista përbëhet gjithsej nga 20 (njëzet) fletë formulari e 20 (njëzet) plan-rilevime dhe është pjesë përbërëse e këtij vendimi.
