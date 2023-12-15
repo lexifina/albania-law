@@ -1,0 +1,1 @@
+4. Paga mujore, sipas pikës 3 të këtij vendimi, rritet me të njëjtën masë, si dhe masa e indeksimit të pagave të të punësuarve në institucionet e administratës publike, sipas vendimit përkatës të Këshillit të Ministrave.

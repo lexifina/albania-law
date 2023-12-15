@@ -1,0 +1,1 @@
+14. Vendimi nr. 776, datë 19.11.2014, i Këshillit të Ministrave, “Për disa të drejta të punonjësve të Shërbimit për Çështjet e Brendshme dhe Ankesat, në Ministrinë e Punëve të Brendshme”, shfuqizohet.

@@ -1,0 +1,1 @@
+10. Në rast sëmundjeje të rëndë apo fatkeqësie familjare, punonjësi i Agjencisë së Mbikëqyrjes Policore përfiton ndihmë financiare në masën e 1 (një) page mujore (pagën më të lartë mujore të nivelit të ulët drejtues).
