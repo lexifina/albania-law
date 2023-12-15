@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e kompensimit, prej 133 968 072.50 (njëqind e tridhjetë e tre milionë e nëntëqind e gjashtëdhjetë e tetë mijë e shtatëdhjetë e dy pikë pesëdhjetë) lekësh, përballohet nga buxheti i Bashkisë Tiranë.

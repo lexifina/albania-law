@@ -1,0 +1,1 @@
+10. Bashkia Tiranë, brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi, i kërkon Agjencisë Shtetërore të Kadastrës të kryejë regjistrimin e aktit të kalimit të pronësisë të pasurive, pronë private, të shpronësuara, sipas legjislacionit në fuqi.

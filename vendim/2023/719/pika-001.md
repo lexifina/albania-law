@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, në funksion të procesit të rindërtimit, në zonën e re për zhvillim në Njësinë Administrative nr. 11, Universiteti Bujqësor i Tiranës.
