@@ -8,7 +8,7 @@ c) u ofron asistencë juridike njësive të qeverisjes vendore, sipas kushteve d
 d) përcakton rregulla për unifikimin e praktikave dhe formulimin e kritereve të përgjithshme të asistencës juridike të shtetit;
 dh) ndërmjetëson për zgjidhjen me pajtim të mosmarrëveshjeve ndërmjet organeve qendrore të administratës publike dhe enteve publike;
 e) ka të drejtën e nisjes së veprimeve ligjore, me qëllim për të shfuqizuar aktet juridike dhe kontratat administrative, si edhe për rishikimin e vendimeve gjyqësore të formës së prerë, në pajtim me kushtet dhe kriteret e parashikuara në ligjin procedural dhe në këtë ligj, me autorizim paraprak të organit administrativ të interesuar, me përjashtim të rasteve të urgjencës;
-ë) ka të drejtë të ngrejë padi, me objekt shpërblimin e dëmit të shkaktuar interesave pasurorë të shtetit, me autorizimin e organit shtetëror përkatës, me përjashtim të rasteve të urgjencësë;
+ë) ka të drejtë të ngrejë padi, me objekt shpërblimin e dëmit të shkaktuar interesave pasurorë të shtetit, me autorizimin e organit shtetëror përkatës, me përjashtim të rasteve të urgjencës.
 f) mbi bazën e kërkesës së Kryeministrit, jep mendim për projektakte që lidhen me veprimtarinë e organeve të administratës publike.
 1/1. Avokatura e Shtetit ofron asistencë juridike, sipas parashikimeve të këtij ligji, për personat juridikë të mëposhtëm:
 a) institucionet shtetërore;

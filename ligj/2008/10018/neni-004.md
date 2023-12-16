@@ -8,7 +8,7 @@ c) zyra e përfaqësimit në gjykatat e huaja, ndërkombëtare dhe në arbitrazh
 ç) zyra e inspektimit;
 d) Kolegji i Avokaturës së Shtetit.
 3. Avokatura e Shtetit në nivel vendor përbëhet nga:
-a) zyrat vendore, të cilat veprojnë pranë çdo gjykate apeli, ku ushtrojnë dhe kompetencën tokësore;
+a) zyrat vendore;
 b) avokatët e shtetit ose zyrat e Avokaturës së Shtetit pranë ministrive.
 4. Avokatura e Shtetit ka në përbërjen e saj edhe administratën mbështetëse. Marrëdhëniet juridike të punës së punonjësve të administratës mbështetëse rregullohen sipas legjislacionit në fuqi për marrëdhëniet e punës.
 5. Struktura dhe organika e Avokaturës së Shtetit miratohen me urdhër të Kryeministrit, me propozimin e Avokatit të Përgjithshëm të Shtetit.
