@@ -17,3 +17,4 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 14. “Konsulencë” është pjesëmarrja në një nga aktivitetet e organeve të vlerësimit të konformitetit që janë objekt i akreditimit.
 15. “Vlerësim i ndërsjellë” është procesi i vlerësimit të një organizmi kombëtar të akreditimit nga organizma të tjerë kombëtarë të akreditimit, që kryhet në përputhje me kërkesat e përcaktuara në këtë ligj dhe, sipas rastit, edhe me specifikimet teknike sektoriale.
 16. “Ministria” është ministria përgjegjëse për çështjet e tregtisë.
+17. “Biobankë” është një organ që ruan mostra biologjike njerëzore dhe informacione shoqëruese të organizuara në mënyrë sistematike për qëllime kërkimore.

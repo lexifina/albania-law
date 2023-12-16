@@ -3,11 +3,14 @@ Procesi i akreditimit
 1. Drejtoria e Përgjithshme e Akreditimit akrediton:
 a) laboratorë testues, mjekësorë dhe kalibrues;
 b) organe certifikuese të sistemeve të me-naxhimit;
-c) organe certifikuese të personelit;
+c) organe certifikuese të personave ;
 ç) organe certifikuese të produkteve;
 d) organe inspektuese;
 dh) organe që realizojnë teste zotësie dhe krahasime ndërlaboratorike;
 e) organe që prodhojnë materiale referuese të certifikuara.
+ë) organe që kryejnë verifikimin dhe vlefshmërinë si aktivitet të vlerësimit të konformitetit;
+f) biobanka;
+g) organe të tjera që kryejnë veprimtari të vlerësimit të konformitetit.
 2. Akreditimi për çdo fushë të përcaktuar në pikën 1, të këtij neni, bëhet kundrejt tarifave të akreditimit, të paguara nga organi i vlerësimit të konformitetit. Llojet, masa dhe mënyra e pagesës së tarifave për çdo fushë akreditimi përcaktohen me vendim të Këshillit të Ministrave.
 3. Drejtoria e Përgjithshme e Akreditimit kryen trajnime për palët e treta, kundrejt tarifave përkatëse. Llojet, masa dhe mënyra e pagesës së këtyre tarifave përcaktohen me vendim të Këshillit të Ministrave.
 4. Drejtoria e Përgjithshme e Akreditimit vlerëson nëse një organ i vlerësimit të konformitetit është kompetent për të kryer aktivitete specifike të vlerësimit të konformitetit dhe lëshon një certifikatë akreditimi për ta zyrtarizuar këtë.

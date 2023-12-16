@@ -1,13 +1,13 @@
 # Neni 9
 Drejtoria e Përgjithshme e Akreditimit
 Drejtoria e Përgjithshme e Akreditimit duhet të plotësojë kërkesat e mëposhtme:
-1. Organizimi i Drejtorisë së Përgjithshme të Akreditimit siguron pavarësinë nga organet e vlerësimit të konformitetit.
+1. Drejtoria e Përgjithshme e Akreditimit organizohet në mënyrë të pavarur nga organet e vlerësimit të konformitetit që ajo vlerëson dhe nga ndikimet tregtare të tyre, si dhe siguron mënjanimin e konfliktit të interesave.
 2. Çdo vendim në lidhje me akreditimin merret duke ruajtur parimin e kompetencës profesionale.
 3. Drejtoria e Përgjithshme e Akreditimit siguron që çdo vendim në lidhje me akreditimin është marrë nga persona kompetentë, të ndryshëm nga ata që kryejnë vlerësimin.
 4. Drejtoria e Përgjithshme e Akreditimit merr masa të përshtatshme për të mbrojtur konfidencialitetin e informacionit të marrë.
 5. Drejtoria e Përgjithshme e Akreditimit organizohet dhe vepron në mënyrë që të mbrojë objektivitetin dhe paanshmërinë e aktiviteteve të saj.
 6. Drejtoria e Përgjithshme e Akreditimit identifikon aktivitetet e vlerësimit të konformitetit, për të cilat është kompetente për të ofruar akreditimin, sipas legjislacionit dhe standardeve përkatëse të Bashkimit Europian ose atyre kombëtare.
-7. Drejtoria e Përgjithshme e Akreditimit krijon procedurat e nevojshme për të siguruar menaxhimin efikas dhe kontrollet e duhura të brendshme.
+7. Drejtoria e Përgjithshme e Akreditimit krijon procedurat e nevojshme për të siguruar menaxhimin efikas dhe kontrollet e duhura të brendshme. Kontrollet e brendshme kryhen nga auditues vendas ose të huaj, me kompetencë në fushën e akreditimit.
 8. Drejtoria e Përgjithshme e Akreditimit ka në dispozicion një numër personeli, kompetent dhe të mjaftueshëm, për kryerjen në nivelin e duhur të detyrave të saj.
 9. Drejtoria e Përgjithshme e Akreditimit krijon, zbaton dhe mban procedurat për monitorimin e performancës dhe kompetencës së personelit të përfshirë në procesin e akreditimit.
 10. Drejtoria e Përgjithshme e Akreditimit përcakton detyrat, përgjegjësitë dhe autoritetet e personelit, që mund të ndikojnë në cilësinë e vlerësimit dhe njohjes së kompetencës.

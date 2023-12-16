@@ -11,3 +11,4 @@ e) merr të dhëna nga organizmat akreditues të vendeve të tjera për organet 
 ë) u vendos gjoba subjekteve të paakredituara apo atyre që u ka mbaruar akreditimi, në rastet kur ato përdorin simbolin e akreditimit;
 f) trajton ankesat dhe apelimet për akreditimin, të dërguara në Drejtorinë e Përgjithshme të Akreditimit;
 g) mbështet autoritetet miratuese në procedurat e miratimit dhe mbikëqyrjes së degëve të organeve europiane që ushtrojnë veprimtari në Republikën e Shqipërisë, në përputhje me kreun V, të ligjit nr. 10 489, datë 15.12.2011, “Për tregtimin dhe mbikëqyrjen e tregut të produkteve joushqimore”.
+gj) promovon rolin dhe rëndësinë e akreditimit.
