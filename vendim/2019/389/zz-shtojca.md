@@ -53,6 +53,9 @@ b) Kryetarit të Kuvendit;
 c) Kryeministrit.
 43. Personat që me ligj të posaçëm gëzojnë të drejtën për pajisjen me pasaportë diplomatike.
 44. Funksionarët dhe nëpunësit publikë, me miratimin e ministrit përgjegjës për punët e jashtme, për shkak të specifikës së funksionit apo të detyrës shtetërore që kryejnë.
+45. Sekretari i përgjithshëm i Federatës Shqiptare të Futbollit, pjesëmarrës në Kampionatin Evropian të Futbollit Euro 2024;
+46. Trajneri, ndihmëstrajnerët, trajneri i portierëve dhe menaxheri i ekipit kombëtar të futbollit, të angazhuar për ndeshjet kualifikuese në Kampionatin Evropian të Futbollit Euro 2024;
+47. Futbollistët e grumbulluar në ekipin kombëtar të futbollit për ndeshjet kualifikuese në Kampionatin Evropian të Futbollit Euro 2024.
 LIDHJA 2
 Pajisen me pasaporta biometrike shërbimi, subjektet e mëposhtme:
 1. Guvernatori i Bankës së Shqipërisë;
