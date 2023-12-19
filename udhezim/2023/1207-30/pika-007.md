@@ -1,0 +1,1 @@
+7. Forma e pagesave, procedurat dhe funksionet e zbatimit të shpërndarjes së dëmshpërblimit financiar të miratuar evidentohen në sistemin informatik mbi pagesat e dëmshpërblimit, të administruar nga ministria përgjegjëse për financat.
