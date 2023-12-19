@@ -1,0 +1,1 @@
+1. Miratimin e Udhërrëfyesit për Reformën në Administratën Publike 2023-2030, si dokument i politikave shtetërore, piketa hapëse të grupkapitullit të parë “Themeloret”, në kuadër të negociatave për anëtarësim në Bashkimin Evropian, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
