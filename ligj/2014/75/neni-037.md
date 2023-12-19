@@ -1,4 +1,4 @@
 # Neni 37
 Pajisjet e shërbimit
-1. Subjekti i SHPSF-së, për realizimin e detyrës, vë në dispozicion të punonjësve të shërbimit mjete e pajisje shërbimi.
-2. Lloji i mjeteve e pajisjeve përcaktohen me udhëzim të ministrit.
+1. Subjekti i SHPSF-së për realizimin e shërbimit vë në dispozicion të punonjësve të shërbimit mjete e pajisje shërbimi të pajisura me autorizim nga Drejtoria Vendore e Policisë. Për realizimin e shërbimit të transportit të vlerave monetare, sendeve të çmuara dhe shërbimit të ruajtjes së afërt/truprojë të personave fizikë/juridikë, subjektet përdorin automjete të blinduara sipas standardeve evropiane të pajisura me autorizim me afat 5-vjeçar nga Drejtoria e Përgjithshme e Policisë së Shtetit. Ndalohet dhënia me qira, huapërdorja dhe nënkontraktimi i mjeteve të blinduara për personat fizikë e juridikë.
+2. Lloji i mjeteve, pajisjeve, automjeteve të shërbimit, automjeteve të blinduara, si dhe mënyra e lëshimit të autorizimit për automjetet e blinduara përcaktohen me udhëzim të ministrit përgjegjës për rendin dhe sigurinë.

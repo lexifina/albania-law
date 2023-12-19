@@ -1,6 +1,6 @@
 # Neni 27
 Përgjegjësitë e punonjësit të shërbimit
-Punonjësi i shërbimit privat të sigurisë fizike vepron me cilësinë e rojës, të truprojës, të operatorit, të shoferit, si mbajtës i qenit, si dhe të përgjegjësit të shërbimit dhe ka këto përgjegjësi:
+Punonjësi i shërbimit privat të sigurisë fizike është punonjës i certifikuar në fushën e shërbimeve të sigurisë fizike dhe ka këto përgjegjësi:
 a) të kryejë detyrat e përcaktuara në këtë ligj e në aktet nënligjore, si dhe detyrat e dhëna nga drejtuesi teknik i subjektit;
 b) të zbatojë me korrektësi detyrat për ruajtjen e objektit dhe të mbajë lidhje të vazhdueshme me drejtuesin teknik;
 c) të mbajë, sipas rregullores, armatimin personal e pajisjet e shërbimit, të përdorë uniformën, shenjat dhe simbolet e SHPSF-së, vetëm gjatë kryerjes së detyrës, si dhe të përdorë armën sipas legjislacionit në fuqi;

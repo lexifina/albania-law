@@ -1,4 +1,4 @@
 # Neni 9
 Llojet e certifikatave
-1. Certifikatat për titullarin e SHPSF-së, për drejtuesin teknik dhe për punonjësin e shërbimit ndahen në lloje, sipas nënkategorive të licencës.
-2. Çdo i interesuar për punonjës shërbimi të SHPSF-së ka të drejtë të pajiset me certifikatë, sipas nënkategorive të licencave.
+1. Certifikatat për titullarin dhe drejtuesin teknik të SHPSF-së dhe QTP-së jepen sipas nënkategorive të licencës 1.3.A, 1.3.B dhe 1.3.C.
+2. Certifikatat për punonjësin e shërbimit të SHPSF-së jepen sipas nënkategorive të licencës 1.3.A, 1.3.B.

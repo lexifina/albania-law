@@ -1,5 +1,6 @@
 # Neni 22
-Qendra e kontrollit të SHPSF-së
-1. Subjekti i licencuar për aktivitetin e shërbimit privat të sigurisë fizike, në çdo njësi administrative që ushtron veprimtari, duhet të ketë qendër kontrolli, ku të tregohet adresa e saj fizike dhe elektronike, si dhe stema me emërtimin e shoqërisë.
-2. Qendra e kontrollit të shërbimit kryen detyrat e drejtimit, mbikëqyrjes dhe menaxhimit të veprimtarisë së sigurisë fizike.
-3. Qendra e kontrollit duhet të jetë e pajisur me mjetet e ndërlidhjes, komunikimit e vëzhgimit dhe të veprojë 24 orë në ditë.
+Menaxhimi i shërbimit të SHPSF-së
+1. Për menaxhimin e shërbimit të SHPSF-së subjekti i licencuar duhet të plotësojë këto kushte:
+a) të ngrejë strukturën e QMSH-së për nënkategorinë ose nënkategoritë përkatëse, e cila miratohet para fillimit të aktivitetit nga struktura përgjegjëse e Policisë së Shtetit.
+b) të ngrejë zyrën e menaxhimit të shërbimit në qarkun ku ushtron aktivitetin e SHPSF-së, e cila miratohet para fillimit të aktivitetit nga struktura përgjegjëse e Policisë së Shtetit.
+2. Procedurat e miratimit, funksionimit, standardet e Qendrës së Menaxhimit të Shërbimit dhe Zyrës së Menaxhimit të Shërbimit të SHPSF-së përcaktohen me udhëzim të ministrit përgjegjës për rendin dhe sigurinë publike.
