@@ -1,0 +1,1 @@
+1. Miratimin e Udhërrëfyesit për Shtetin e së Drejtës, si dokument i politikave shtetërore, piketa hapëse të grup-kapitullit të parë “Themeloret”, në kuadër të negociatave për anëtarësim në Bashkimin Evropian, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
