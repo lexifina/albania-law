@@ -4,7 +4,7 @@ Nr.  294, datë 8.4.2015
 
 PËR KRIJIMIN E KËSHILLIT TË INVESTIMEVE
 
-(Ndryshuar me VKM nr. 335, datë 22.5.2019, nr. 746, datë 20.11.2019)
+(Ndryshuar me VKM nr. 335, datë 22.5.2019, nr. 746, datë 20.11.2019; nr. 754, datë 20.12.2023)
 
 (I përditësuar)
 
@@ -42,7 +42,7 @@ a) anëtarë me status të përhershëm:
 
 i. institucione shtetërore, 4 anëtarë:
 
-- ministri i Shtetit për Mbrojtjen e Sipërmarrjes;
+- ministri i Shtetit për Sipërmarrjen dhe Klimën e Biznesit;
 
 - Banka e Shqipërisë;
 
@@ -66,7 +66,7 @@ iii. Dhoma të Tregtisë dhe Industrisë, 3 anëtarë:
 
 - Dhoma e Biznesit të Diasporës.
 
-b) Anëtarë me status të përkohshëm me mandat 2-vjeçar:
+b) 8 (tetë) anëtarë me status të përkohshëm, me mandat 2-vjeçar, nga shoqata e biznesit:
 
 i. Shoqata biznesi, 4 anëtarë.
 

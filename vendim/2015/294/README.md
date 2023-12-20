@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 294, datë 8.4.2015](https://qbz.gov.al/api/v1/acts/55859); [QBZ versions](https://qbz.gov.al/api/v1/acts/55859/versions).
 
-Status of this text: `official consolidated version 2`, applying from 2019-11-20; after QBZ act 20741 (nr. 746).
+Status of this text: `official consolidated version 3`, applying from 2023-12-20; after QBZ act 27156 (nr. 754).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
