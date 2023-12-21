@@ -4,11 +4,11 @@ Nr. 92/2014
 
 PËR TATIMIN MBI VLERËN E SHTUAR NË REPUBLIKËN E SHQIPËRISË
 
-(ndryshuar me ligjet: nr. 90/2015, datë 23.7.2015, nr. 71/2017, datë 27.4.2017, 
+(ndryshuar me ligjet: nr. 90/2015, datë 23.7.2015; nr. 71/2017, datë 27.4.2017;
 
-nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018,  ndryshuar me aktin normativ nr. 4, datë 30.11.2019[^fn2], nr. 85/2019, datë 18.12.2019[^fn3], nr. 64/2020, datё 14.5.2020, nr. 123/2020, datë 15.10.2020, nr. 111/2021, datë 25.11.2021; nr. 82/2022, datë 24.11.2022)
+nr. 107/2017,  datë 30.11.2017 ; nr. 40/2018, datë 9.7.2018 ; nr. 96/2018, datё 3.12.2018; me aktin normativ nr. 4, datë 30.11.2019[^fn2]; nr. 85/2019, datë 18.12.2019[^fn3]; nr. 64/2020, datё 14.5.2020;  nr. 123/2020, datë 15.10.2020; nr. 111/2021, datë 25.11.2021; nr. 82/2022, datë 24.11.2022; nr. 105/2023, datë 21.12.2023)
 
- (i përditësuar, 2020)
+ (i përditësuar)
 
 Në mbështetje të neneve 78, 83, pika 1, dhe 155, të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -828,7 +828,7 @@ Neni 56
 
 Përjashtime të veçanta në import
 
-(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018, shtuar një paragraf në pikën 28 dhe shtuar pika 43 me aktin normativ nr. 4, datë 30.11.2019, ndryshuar fjalë në pikën 28 me ligjin nr. 85/2019, datë 18.12.2019, shtuar pika 44 me ligjin nr. 64/2020, datё 14.5.2020, ndryshuar shifra në shkronjën “a” dhe shfuqizuar shkronja “c” e pikës 38 me ligjin nr. 111/2021, datë 25.11.2021; shtuar pikat 45 dhe 46 me ligjin nr. 82/2022, datë 24.11.2022)
+(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018, shtuar një paragraf në pikën 28 dhe shtuar pika 43 me aktin normativ nr. 4, datë 30.11.2019, ndryshuar fjalë në pikën 28 me ligjin nr. 85/2019, datë 18.12.2019, shtuar pika 44 me ligjin nr. 64/2020, datё 14.5.2020, ndryshuar shifra në shkronjën “a” dhe shfuqizuar shkronja “c” e pikës 38 me ligjin nr. 111/2021, datë 25.11.2021; shtuar pikat 45 dhe 46 me ligjin nr. 82/2022, datë 24.11.2022; shtuar fjalë në pikën 40 dhe shtuar pika 47 me ligjin nr. 105/2023, datë 21.12.2023)
 
 Janë furnizime të përjashtuara nga tatimi mbi vlerën e shtuar në import:
 
@@ -918,7 +918,7 @@ Lista e makinerive dhe pajisjeve që janë direkt të lidhura me investimin, pro
 
 39. Importimi i mallrave dhe i shërbimeve, që lidhen me realizimin e fazës së kërkimit të operacioneve hidrokarbure, të kryera nga kontraktorët ose nënkontraktorët që punojnë për këto operacione. Kontraktorët dhe nënkontraktorët vërtetohen si të tillë nga Agjencia Kombëtare e Burimeve Natyrore. Ministri i Financave dhe ministri përgjegjës për energjetikën përcaktojnë me udhëzim të përbashkët listën e mallrave dhe shërbimeve të lidhura me fazën e kërkimit, si dhe procedurën e përjashtimit nga TVSH-ja.
 
-40. Importimi i kafshëve të gjalla për majmëri.
+40. Importimi i kafshëve të gjalla për majmëri, kafshëve të gjalla racëpastër, barrëse ose jobarrëse për riprodhim (speciet gjedhë, dhenë, dhi, derra dhe njëthundrakë), si dhe i materialit biologjik që përdoret për inseminimin artificial.
 
 41. Shfuqizuar.
 
@@ -933,6 +933,8 @@ Lista e makinerive dhe pajisjeve që janë direkt të lidhura me investimin, pro
 Kriteret dhe procedurat për zbatimin e kësaj pike përcaktohen me udhëzim të ministrit të financave.
 
  46. Importimi i artikujve të përfshirë në kreun 4401 të Nomenklaturës së Kombinuar të Mallrave, me efekt deri më 31 dhjetor 2023.
+
+47. Importimi i insekteve të dobishme, të cilat përfshihen në kodet 0106 41 00, 0106 49 00 dhe 0106 90 00, si dhe grackat e ndryshme përfshirë letrat ngjitëse dhe ferromonet, që përdoren kundër insekteve të dëmshme.
 
 Seksioni 3
 
