@@ -1,0 +1,1 @@
+10. Shtetasi i huaj, i cili është urdhëruar të qëndrojë në një territor të caktuar është i detyruar të respektojë rregullat e regjimit ditor në varësi të llojit dhe rregullave të ambientit ose rezidencës akomoduese.

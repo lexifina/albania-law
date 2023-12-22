@@ -1,0 +1,1 @@
+9. Kur shtetasi i huaj, i cili është urdhëruar të qëndrojë në një territor të caktuar hyn në marrëdhënie pune, trajtimi financiar për strehimin, ushqimin, veshmbathjet dhe ndihma financiare ndërpriten.

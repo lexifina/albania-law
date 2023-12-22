@@ -1,0 +1,1 @@
+5. Për dhënien e ndihmës financiare sipas shkronjës “b”, të pikës 2, të këtij vendimi, DPPSH-ja kërkon hapjen e llogarisë ekonomike analitike të shpenzimeve në sistemin informatik financiar të qeverisë (SIFQ), me emërtimin “Shpenzime për ndihmën financiare për shtetasin e huaj të urdhëruar për të qëndruar në një territor të caktuar”.

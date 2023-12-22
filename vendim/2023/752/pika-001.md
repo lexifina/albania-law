@@ -1,0 +1,1 @@
+1. Fondet për qëndrimin në një territor të caktuar të një shtetasi të huaj, i cili është urdhëruar të qëndrojë në një territor të caktuar, përdoren në përputhje me programin buxhetor dhe zërat e shpenzimeve të parashikuara për çdo vit.

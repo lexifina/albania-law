@@ -1,0 +1,1 @@
+6. Transferimet e mjeteve monetare nga fondet e përcaktuara për qëndrimin e shtetasit të huaj në një territor të caktuar të përfituesit kryhen nga struktura përgjegjëse për thesarin në degë, me kërkesë të Drejtorisë së Përgjithshme të Policisë së Shtetit, në përputhje me skemën ekzistuese të ekzekutimit të pagesave të përfituesit individë nëpërmjet strukturës së thesarit.

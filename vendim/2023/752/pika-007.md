@@ -1,0 +1,1 @@
+7. DPPSH-ja raporton, brenda datës 5 të muajit pasardhës, për të gjitha pagesat e kryera gjatë muajit paraardhës, si dhe brenda datës 31 janar të vitit pasardhës për të gjitha pagesat e kryera gjatë vitit paraardhës.

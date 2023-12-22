@@ -1,0 +1,1 @@
+8. Shtetasi i huaj, i cili është urdhëruar të qëndrojë në një territor të caktuar, qëndron në një ambient ose rezidencë akomoduese. Ambienti ose rezidenca akomoduese e destinuar për një shtetas të huaj është një apartament, shtëpi private, strehëz, qendër e hapur apo hotel.
