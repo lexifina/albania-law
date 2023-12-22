@@ -1,0 +1,5 @@
+# Neni 4
+Lista e shërbimeve objekt tatimi nga 1 janari 2024
+1. Në zbatim të nenit 69, të ligjit nr. 29/2023, të ndryshuar, përcaktohet lista analitike e veprimtarive ekonomike të tatimpaguesve, persona fizikë të vetëpunësuar dhe entitete, që ofrojnë shërbime profesionale, me të ardhura vjetore deri 14 000 000 (katërmbëdhjetë milionë) lekë në vit, të cilët do të paguajnë tatim mbi të ardhurat personale nga biznesi apo tatim mbi të ardhurat e korporatës, duke filluar nga viti fiskal 2024. Lista analitike përbëhet nga veprimtaritë sipas kodeve të parashikuara në Nomenklaturën e Veprimtarive Ekonomike (rev. 2), të paraqitura në tabelën analitike nr. 2, që i bashkëlidhet këtij vendimi.
+2. Në rastet kur tatimpaguesit nuk janë të qartë në lidhje me kategorizimin e veprimtarisë ekonomike që ushtrojnë apo për normën e tatimit mbi të ardhurat në lidhje me veprimtarinë e tyre, Drejtoria e Përgjithshme e Tatimeve, bazuar në Nomenklaturën e Veprimtarive Ekonomike (rev. 2), përcakton ndarjen dhe aktivitetin, në të cilin bën pjesë tatimpaguesi përkatës.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
