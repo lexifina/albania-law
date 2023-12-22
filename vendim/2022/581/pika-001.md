@@ -1,1 +1,0 @@
-1. Përcaktimin e Ministrisë së Financave dhe Ekonomisë si autoritet kontraktor për të ndërmarrë dhe zhvilluar procedurat për dhënie me koncesion/PPP, për projektin e propozuar nga Agjencia Kombëtare e Shoqërisë së Informacionit, “Për ofrimin e shërbimeve të infrastrukturës së çelësave publikë (PKI)”.
