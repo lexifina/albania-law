@@ -1,0 +1,1 @@
+1. Autoriteti kompetent për realizimin e rritjes së përgjithshme të kapitalit të Republikës së Shqipërisë në Bankën Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD) (në vijim Banka) është Ministria e Financave dhe Ekonomisë.

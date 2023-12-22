@@ -1,0 +1,1 @@
+4. Ministri i Drejtësisë, si pjesë e dokumentacionit të kërkuar nga Banka, lëshon një dokument të titulluar “Memorandum i ligjit”, për të konfirmuar se janë ndërmarrë të gjitha hapat ligjorë për të përmbushur detyrimet që burojnë nga rritja e kapitalit.
