@@ -1,0 +1,1 @@
+1. Miratimin e Strategjisë Ndërsektoriale për Mbrojtjen e Viktimave të Krimit 2024-2030, të planit të saj të veprimit dhe të pasaportës së treguesve, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
