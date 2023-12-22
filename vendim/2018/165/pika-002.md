@@ -1,1 +1,1 @@
-2. Kriteret vlerësimit të njësive bazë përfshijnë një listë treguesish që përllogariten sipas kontributit katërvjeçar të njësisë bazë në fushën e kërkimit shkencor, vlerësim i cili realizohet sipas një sistemi pikëzimi, të miratuar me urdhër të ministrit të Arsimit, Sportit dhe Rinisë.
+2. Kriteret vlerësimit të njësive bazë përfshijnë një listë treguesish që përllogariten sipas kontributit katërvjeçar të njësisë bazë në fushën e kërkimit shkencor, vlerësim i cili realizohet sipas një sistemi pikëzimi, të miratuar me urdhër të ministrit përgjegjës për arsimin.
