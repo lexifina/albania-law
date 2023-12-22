@@ -530,3 +530,591 @@ Konfirmuar nga ZVRRPP-ja
 TOTALI
 18030
 6893148
+LISTA EMËRORE SHTESË E VENDIMIT NR. 778, DATË 24.9.2010, TË KËSHILLIT TË MINISTRAVE “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, TOKË ARË, QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR “BY PASS, PLEPA-KAVAJË-RROGOZHINË, LOTET 9, 10, 11 E 12”
+Nr.
+Pronari
+ZK
+Nr. pas.
+Lloji i pasurisë
+Sip. totale (m2)
+Sip. e shpronësimit (m2)
+Çmimi (lek/m2)
+Vlera objekte
+Vlera totale (lek)
+Shënime
+Adresa
+Emri
+Atësia
+Mbiemri
+1
+Nazim
+Murat
+Saraçi
+2140
+242/5/2
+Arë
+22
+22
+329
+7238
+Konfirmim
+Komuna Kërçukaj
+2
+Bashkëpronarët
+Saraçi
+2140
+242/6/2
+Arë
+71
+71
+329
+23359
+Konfirmim
+Komuna Kërçukaj
+3
+Astrit
+Qamil
+Sheshi
+2140
+242/7/1
+Arë
+4030
+513
+329
+168777
+Konfirmim
+Komuna Kërçukaj
+4
+Astrit
+Qamil
+Sheshi
+2140
+242/7/2
+Arë
+438
+438
+329
+144102
+Konfirmim
+Komuna Kërçukaj
+5
+Ilmi
+Myftar
+Saraçi
+2140
+242/8/1
+Arë
+848
+147
+329
+48363
+Konfirmim
+Komuna Kërçukaj
+6
+Ilmi
+Myftar
+Saraçi
+2140
+242/8/2
+Arë
+176
+163
+329
+53627
+Konfirmim
+Komuna Kërçukaj
+7
+Nexhmije
+Hajdar
+Mustafaj
+2140
+242/11/1
+Arë
+162
+125
+329
+41125
+Konfirmim
+Bashkia Kavajë
+8
+Nexhmije
+Hajdar
+Mustafaj
+2140
+242/11/2
+Arë
+185
+158
+329
+51982
+Konfirmim
+Bashkia Kavajë
+9
+Gezim
+Adem
+Hidri
+2140
+242/20/1
+Arë
+272
+272
+329
+89488
+Lëshuar Certifikatë e pronësisë sipas aktit me sip. 272 m²
+Komuna Kërçukaj
+Irma
+Adem
+Hamataj
+Kadrije
+Mustafa
+Hidri
+Vitjola
+Adem
+Hidri
+10
+Gezim
+Adem
+Hidri
+2140
+242/20/2
+Arë
+1270
+1109
+329
+364861
+Ish-serrat, autostrada Dr-Rrog., segment i devijuar sip. sipas aktit 1270 m²
+Komuna Kërçukaj
+Irma
+Adem
+Hamataj
+Kadrije
+Mustafa
+Hidri
+Vitjola
+Adem
+Hidri
+11
+Xhavid
+Jahja
+Islami
+2140
+242/17
+Arë
+1003
+253
+329
+83237
+Konfirmim
+Komuna Kërçukaj
+12
+Tahir
+Ali
+Shamo
+2140
+242/19/7
+Arë
+607
+274
+329
+90146
+Konfirmim
+Komuna Kërçukaj
+13
+Tahir
+Ali
+Shamo
+2140
+242/19/6
+Arë
+390
+344
+329
+113176
+Konfirmim
+Komuna Kërçukaj
+14
+Xhevat
+Hajdar
+Saraçi
+2140
+242/21/5
+Arë
+5237
+815
+329
+268135
+Konfirmim
+Komuna Kërçukaj
+15
+Alan
+Algert
+Saraçi
+2140
+242/22/1
+Arë
+5238
+799
+329
+262871
+Konfirmim
+Komuna Kërçukaj
+Algert
+Flamur
+Englantina
+Haxhi
+Flamur
+Hajdar
+Lorenc
+Flamur
+Xhevrije
+Flamur
+16
+Bashkëpronarët Saraçi
+2140
+242/22/6
+Arë
+1260
+1107
+329
+364203
+Konfirmim
+Komuna Gose
+17
+Qerim
+Harun
+Sheshi
+2140
+242/24/6
+Arë
+690
+607
+329
+199703
+Konfirmim
+Komuna Kërçukaj
+18
+Bajram
+Halim
+Krasnaj
+2140
+40/1/1
+Arë
+8544
+391
+329
+128639
+Ndalohen veprimet mbi pasuritë. Urdhër kufizimi
+Komuna Kërçukaj
+19
+Bajram
+Halim
+Krasnaj
+2140
+40/1/2
+Arë
+1747
+1725
+329
+567525
+Konfirmim
+Komuna Kërçukaj
+20
+Bajram
+Halim
+Krasnaj
+2140
+40/1/3
+Arë
+578
+16
+329
+5264
+Konfirmim
+Komuna Kërçukaj
+21
+Rifat
+Halim
+Krasniqi
+2140
+40/2/1
+Arë
+6576
+209
+329
+68761
+Konfirmim
+Komuna Gose
+22
+Skënder
+Riza
+Thartori
+2140
+33/1/1
+Arë
+377
+10
+329
+3290
+Mbi pasurinë e rivl. u krye transaksion
+Bashkia Kavajë
+Mirjana
+23
+Besnik
+Kadri
+Shehu
+2140
+33/1/2
+Arë
+75
+75
+329
+24675
+Konfirmim
+Komuna Kërçukaj
+24
+Bashkëpronarët Thartori
+2140
+33/1/3
+Arë
+52
+6
+329
+1974
+Konfirmim
+Komuna Kërçukaj
+25
+Bashkëpronarët Shkëmbi, Shkembi
+2140
+33/2/1
+Arë
+4564
+150
+329
+49350
+Konfirmim
+Komuna Kërçukaj
+26
+Ruka
+Jakup
+Saraci
+2140
+33/2/2
+Arë
+955
+955
+329
+314195
+Konfirmim
+Komuna Gose
+27
+Ruka
+Jakup
+Saraci
+2140
+33/2/3
+Arë
+583
+48
+329
+15792
+Konfirmim
+Komuna Gose
+28
+Lirije
+Riza
+Saraçi
+2140
+33/3/2
+Arë
+990
+990
+329
+325710
+Konfirmim
+Komuna Gose
+29
+Lirije
+Riza
+Saraçi
+2140
+33/3/3
+Arë
+399
+24
+329
+7896
+Konfirmim
+Komuna Gose
+30
+Adriatik
+Shyqyri
+Koçi
+2140
+33/4/2
+Arë
+936
+936
+329
+307944
+Konfirmim
+Komuna Gose
+31
+Adriatik
+Shyqyri
+Koçi
+2140
+33/4/3
+Arë
+276
+48
+329
+15792
+Konfirmim
+Komuna Gose
+32
+Mustafa
+Izet
+Shehu
+2140
+33/5/1
+Arë
+10692
+119
+329
+39151
+Konfirmim
+Bashkia Kavajë
+33
+Mustafa
+Izet
+Shehu
+2140
+33/5/2
+Arë
+1962
+1951
+329
+641879
+Konfirmim
+Bashkia Kavajë
+34
+Mustafa
+Izet
+Shehu
+2140
+33/5/3
+Arë
+272
+195
+329
+64155
+Konfirmim
+Bashkia Kavajë
+35
+Astrit
+Asllan
+Shehi
+2140
+33/6/2
+Arë
+986
+978
+329
+321762
+Konfirmim
+Bashkia Kavajë, Rruga Zikxhafaj, nr. 64
+36
+Nebi
+Selman
+Saraçi
+2140
+34/3
+Arë
+7784
+26
+329
+8554
+Konfirmim
+Komuna Gose
+37
+Zana
+Myrteza
+Saraçi
+2140
+34/5/2
+Arë
+5470
+127
+329
+41783
+Konfirmim
+Bashkia Kavajë
+38
+Galip
+Myftar
+Saraçi
+2140
+34/6/1
+Arë
+530
+530
+329
+174370
+Konfirmim
+Komuna Kërçukaj
+39
+Galip
+Myftar
+Saraçi
+2140
+34/6/2
+Arë
+7921
+7921
+329
+2606009
+Konfirmim
+Komuna Kërçukaj
+40
+Myftar
+Sefer
+Tafa
+2399
+125/40
+Arë
+1643
+276
+329
+90804
+Konfirmim
+Bashkia Lekaj
+41
+Reshit
+Dylaver
+Dedej
+2399
+77/8
+Arë
+871
+100
+329
+32900
+Konfirmim
+Bashkia Lekaj
+42
+Bedri
+Qazim
+Mema
+2399
+77/6
+Arë
+3780
+304
+329
+100016
+Konfirmim
+Bashkia Lekaj
+SHUMA TOTALE
+84168
+24647
+8332583
