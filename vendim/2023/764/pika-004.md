@@ -1,0 +1,1 @@
+4. Vendimi nr. 619, datë 7.7.2015, i Këshillit të Ministrave, “Për shpalljen qendër historike të një zone në qytetin e Gjirokastrës dhe miratimin e rregullores ’Për mbrojtjen, konservimin e integruar dhe administrimin e qendrës historike dhe zonës së mbrojtur në qytetin e Gjirokastrës’”, shfuqizohet.

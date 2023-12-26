@@ -1,0 +1,1 @@
+2. Përcaktimin e zonës mbrojtëse të “Qendrës historike” të një zone në qytetin e Gjirokastrës, sipas koordinatave dhe hartës së zonifikimit, në Kornizën Referuese Gjeodezike Shqiptare, që i bashkëlidhen këtij vendimi.

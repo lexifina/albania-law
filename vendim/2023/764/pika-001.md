@@ -1,0 +1,1 @@
+1. Deklarimin pasuri kulturore e paluajtshme “Qendër historike” të një zone në qytetin e Gjirokastrës, sipas koordinatave dhe hartës së zonifikimit, në Kornizën Referuese Gjeodezike Shqiptare, që i bashkëlidhen këtij vendimi.
