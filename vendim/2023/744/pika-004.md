@@ -1,0 +1,1 @@
+4. Të ardhurat që arkëtohen nga drejtoritë vendore të Agjencisë Shtetërore të Kadastrës, si rrjedhojë e kalimit të pronësisë nëpërmjet shitjes së parcelës ndërtimore, si për pasuritë shtetërore, edhe për pasuritë e të tretëve, në favor të objekteve informale që legalizohen, përdoren për kompensimin e pronarëve.
