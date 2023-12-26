@@ -1,0 +1,1 @@
+3. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, llogariten në shumën 939 500 000 (nëntëqind e tridhjetë e nëntë milionë e pesëqind mijë) lekë dhe përballohen nga fondi i kontingjencës, miratuar për vitin 2023.
