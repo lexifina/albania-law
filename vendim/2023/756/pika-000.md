@@ -1,0 +1,2 @@
+Miratimin e letërmarrëveshjes, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, që vepron si administratore e fondeve të grantit, të akorduar nga Fondi i Mirëbesimit me Shumë Donatorë, për financimin e projektit “Mbështetje për procesin e projektit të Nismës së Transparencës së Industrive Nxjerrëse në Shqipëri”, sipas tekstit dhe relacionit që i bashkëlidhen këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

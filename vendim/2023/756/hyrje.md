@@ -1,0 +1,5 @@
+VENDIM
+Nr. 756, datë 20.12.2023
+PËR MIRATIMIN E LETËRMARRËVESHJES, NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE BANKËS NDËRKOMBËTARE PËR RINDËRTIM DHE ZHVILLIM, QË VEPRON SI ADMINISTRATORE E FONDEVE TË GRANTIT, TË AKORDUAR NGA FONDI I MIRËBESIMIT ME SHUMË DONATORË, PËR FINANCIMIN E PROJEKTIT “MBËSHTETJE PËR PROCESIN E PROJEKTIT TË NISMËS SË TRANSPARENCËS SË INDUSTRIVE NXJERRËSE NË SHQIPËRI”
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 19, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:
