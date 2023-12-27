@@ -1,1 +1,1 @@
-3. Shërbimi i ushqimit bëhet i gatuar në mensa, si dhe me shërbim shpërndarjeje (catering), i cili i nënshtrohet të gjitha procedurave të prokurimit, sipas legjislacionit në fuqi.
+3. Përfitimi i trajtimit me ushqim bëhet i gatuar në mensa ose, kur nuk është e mundur, jepet në formën e një kompensimi financiar, sipas rregullave të përcaktuara në pikën 4, të këtij vendimi.
