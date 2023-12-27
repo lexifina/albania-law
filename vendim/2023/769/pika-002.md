@@ -1,0 +1,1 @@
+2. Agjencia për Dialog dhe Bashkëqeverisje është institucioni përgjegjës për zhvillimin dhe monitorimin e programit, në bashkëpunim me çdo institucion publik tjetër të nevojshëm, sipas marrëveshjes së bashkëpunimit ndërinstitucional që lidhet midis tyre për kryerjen e fazave specifike të procesit.

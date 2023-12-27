@@ -1,0 +1,1 @@
+1. Agjencisë për Dialog dhe Bashkëqeverisje, në buxhetin e miratuar për vitin 2023, në llogarinë ekonomike 604 “Transferta korente të brendshme”, i shtohet fondi prej 43 500 000 (dyzet e tre milionë e pesëqind mijë) lekësh për financimin e programit të “Këshillimit Kombëtar”, në përputhje me legjislacionin dhe kuadrin rregullator në fuqi.
