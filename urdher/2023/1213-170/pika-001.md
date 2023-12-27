@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi një metodë të përbashkët sigurie për monitorimin që zbatohet nga sipërmarrjet hekurudhore, administratorët e infrastrukturës dhe nga subjektet përgjegjëse për mirëmbajtjen pas marrjes së certifikatës së vetme të sigurisë ose autorizimit të sigurisë”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
