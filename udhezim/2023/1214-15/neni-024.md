@@ -1,0 +1,7 @@
+# Neni 24
+Kompensimi në lidhje me pajisjet e lëvizshmërisë, pajisjet ndihmëse dhe qentë ndihmës
+1. Kur sipërmarrjet hekurudhore dhe administratorët e stacioneve shkaktojnë humbjen ose dëmtimin e pajisjeve të lëvizshmërisë, duke përfshirë karriget me rrota dhe pajisjet ndihmëse, ose humbjen ose lëndimin e qenve ndihmës të përdorur nga personat me aftësi të kufizuara dhe personat me lëvizshmëri të reduktuar, ata janë përgjegjës për atë humbje, dëmtim ose lëndim dhe sigurojnë kompensim pa vonesa të panevojshme. Ky kompensim përfshin:
+a) koston e zëvendësimit ose të riparimit të pajisjeve të lëvizshmërisë ose të pajisjeve ndihmëse të humbura ose të dëmtuara;
+b) koston e zëvendësimit ose të trajtimit të lëndimit të një qeni ndihmës që ka humbur ose plagosur; dhe
+c) kostot e arsyeshme të zëvendësimit të përkohshëm për pajisjet e lëvizshmërisë, pajisjet ndihmëse ose qentë ndihmës, kur një zëvendësim i tillë nuk ofrohet nga sipërmarrjet hekurudhore dhe administratorët e stacioneve në përputhje me paragrafin 2.
+2. Kur zbatohet paragrafi 1, sipërmarrjet hekurudhore dhe administratorët e stacioneve bëjnë menjëherë të gjitha përpjekjet e arsyeshme të sigurojnë zëvendësimet e përkohshme të nevojshme për pajisjet e lëvizshmërisë ose pajisjet ndihmëse. Personi me aftësi të kufizuara ose personi me lëvizshmëri të reduktuar lejohet të mbajë atë pajisje ose pajisje zëvendësuese të përkohshme derisa të jetë paguar kompensimi i përmendur në paragrafin 1.

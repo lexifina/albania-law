@@ -1,0 +1,20 @@
+# Neni 19
+Rimbursimi dhe ridrejtimi
+1. Në rast të një udhëtimi të humbur ose anulimi, dhe nëse mbërritja në destinacionin përfundimtar ndodh me një vonese prej 60 minutash ose më shumë, sipërmarrja hekurudhore përgjegjëse për shërbimin e vonuar ose të anuluar, i ofron udhëtarit zgjedhjen midis një prej këtyre opsioneve:
+a) një biletë tjetër falas për një datë dhe orar të njëjtë të udhëtimit të vonuar ose të anuluar;
+b) kthim të vlerës së biletës së blerë për udhëtimin e vonuar ose të anuluar;
+c) një biletë tjetër për një datë dhe orar të ndryshëm, në qoftë se udhëtari e dëshiron;
+ç) transportin falas në vendin e caktuar të destinacionit, nëse udhëtari nuk ka nevojë të bëjë udhëtimin më tej;
+d) kujdes dhe ndihmë për akomodim dhe ushqim, nëse kjo është e nevojshme për shkak të vonesës së shërbimit të hekurudhës.
+2. Pavarësisht nëse ridrejtimi operohet nga e njëjta sipërmarrje hekurudhore apo një sipërmarrje tjetër kjo nuk do të sjellë kosto shtesë për udhëtarin. Kjo kërkesë zbatohet gjithashtu kur ridrejtimi përfshin përdorimin e transportit të një klase shërbimi më të lartë dhe mënyrave alternative të transportit.
+a) Sipërmarrjet hekurudhore bëjnë përpjekje të arsyeshme të shmangin udhëtimet shtesë dhe sigurojnë që vonesa në kohën totale të udhëtimit të jetë sa më e shkurtër e mundur.
+b) Udhëtarët nuk zbresin në mjetet e transportit të një klase më të ulët, përveç rasteve kur këto lehtësira janë të vetmet mjete të disponueshme të ridrejtimit.
+3. Pa paragjykuar paragrafin 2, sipërmarrja hekurudhore lejon udhëtarin, me kërkesën e tij ose të saj, të lidhë kontrata me ofrues të tjerë të shërbimeve të transportit, të cilat i mundësojnë të arrijë në destinacionin përfundimtar në kushte të krahasueshme, rast në të cilin sipërmarrja hekurudhore rimburson udhëtarin për shpenzimet që ai ose ajo ka.
+a) Kur opsionet e disponueshme të ridrejtimit nuk i komunikohen udhëtarit brenda 100 minutave nga koha e planifikuar e nisjes së shërbimit të vonuar ose të anuluar ose udhëtimit të humbur, udhëtari ka të drejtë të lidhë një kontratë të tillë me ofrues të tjerë të shërbimeve të transportit publik me hekurudhë ose me autobus. Sipërmarrja hekurudhore i rimburson udhëtarit shpenzimet e nevojshme, të përshtatshme dhe të arsyeshme që ai ose ajo ka.
+b) Ky paragraf nuk do të ndikojë në ligjet, rregulloret ose dispozitat administrative kombëtare që u japin udhëtarëve kushte më të favorshme të ridrejtimit.
+4. Ofruesit e shërbimeve të transportit të ridrejtimit u ofrojnë personave me aftësi të kufizuara dhe personave me lëvizshmëri të reduktuar një nivel të krahasueshëm ndihme dhe aksesueshmërie, shërbime alternative që janë të përshtatshme për nevojat e tyre dhe që ndryshojnë nga ato që u ofrohen udhëtarëve të tjerë.
+5. Rimbursimet e përmendura në pikën “b” të paragrafit 1 dhe në paragrafin 3 paguhen brenda 30 ditëve pas marrjes së kërkesës. Sipërmarrjet hekurudhore pranojnë kërkesa të tilla me mjete të veçanta komunikimi, me kusht që kërkesa të mos krijojë efekte diskriminuese.
+a) Rimbursimi mund të marrë formën e kuponëve dhe/ose të ofrimit të shërbimeve të tjera me kusht që kushtet e këtyre kuponëve dhe/ose shërbimeve të jenë mjaft fleksibël, veçanërisht në lidhje me periudhën e vlefshmërisë dhe destinacionin, dhe që udhëtari të pranojë ato kuponë dhe/ose shërbime.
+b) Rimbursimi i çmimit të biletës nuk reduktohet nga kostot e transaksionit financiar si tarifat, kostot e telefonit apo pullat.
+6. Kërkesa për rimbursim bëhet sipas formularit të dhënë nga sipërmarrja hekurudhore në një format të aksesueshëm për personat me aftësi të kufizuara dhe personat me lëvizshmëri të reduktuar.
+7. Udhëtarët kanë të drejtë të paraqesin kërkesat e tyre, duke përdorur formularin e përmendur në paragrafin 6. Sipërmarrjet hekurudhore nuk refuzojnë një kërkesë për rimbursim vetëm me arsyetimin se udhëtari nuk e ka përdorur atë formular. Nëse një kërkesë nuk është mjaftueshëm e saktë, sipërmarrja hekurudhore i kërkon udhëtarit të plotësojë kërkesën dhe e ndihmon udhëtarin për ta bërë këtë.

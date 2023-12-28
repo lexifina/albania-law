@@ -1,0 +1,35 @@
+# Neni 3
+Përkufizime
+Termat e përcaktuar në nenin 5, të ligjit nr. 142/2016, datë 22.12.2016, “Kodi Hekurudhor i Republikës së Shqipërisë”, kanë të njëjtin kuptim në këtë udhëzim. Përveç tyre, termat e mëposhtëm kanë këto kuptime:
+1. “Transport publik i udhëtarëve” do të thotë shërbimet e transportit të udhëtarëve me interes të përgjithshëm ekonomik të ofruara për publikun në baza jodiskriminuese dhe të vazhdueshme;
+2. “Shërbimet e transportit publik të udhëtarëve me hekurudhë” nënkupton transportin publik të udhëtarëve me hekurudhë, duke përjashtuar transportin e udhëtarëve me mënyra të tjera të bazuara në shina hekurudhore, si metrotë ose tramvajet;
+3. “Autoritet kompetent” do të thotë çdo autoritet publik që ka kompetencën ligjore për të ndërhyrë në transportin publik të udhëtarëve në një zonë të caktuar gjeografike ose çdo organ të ngarkuar me këtë autoritet;
+4. “Kompensim për shërbimin publik” do të thotë çdo përfitim, veçanërisht financiar, i dhënë drejtpërdrejt ose tërthorazi nga një autoritet kompetent nga fondet publike gjatë periudhës së zbatimit të një detyrimi shërbimi publik ose në lidhje me atë periudhë;
+5. “Dhënie e drejtpërdrejtë” do të thotë dhënien e një kontrate shërbimi publik një operatori të caktuar të shërbimit publik, pa ndonjë procedurë paraprake konkurruese tenderimi;
+6. “Kontratë shërbimi publik” nënkupton një ose më shumë akte ligjërisht të detyrueshme që konfirmojnë marrëveshjen ndërmjet një autoriteti kompetent dhe një operatori të shërbimit publik për t’i besuar atij operatori të shërbimit publik menaxhimin dhe funksionimin e shërbimeve të transportit publik të pasagjerëve që u nënshtrohen detyrimeve të shërbimit publik;
+Kontrata mund të përbëhet, gjithashtu, nga një vendim i miratuar nga autoriteti kompetent:
+- duke marrë formën e një akti legjislativ ose rregullator individual; ose
+- që përmbajnë kushte në të cilat vetë autoriteti kompetent ofron shërbimet ose ia beson ofrimin e shërbimeve të tilla një operatori të brendshëm;
+7. “Kushtet e Përgjithshme të Transportit” do të thotë kushtet e transportuesit në formën e kushteve të përgjithshme ose tarifave në fuqi që janë bërë me lidhjen e kontratës së transportit, pjesë përbërëse e tij;
+8. “Vlerë” do të thotë vlera e një shërbimi, një itinerari, një kontrate shërbimi publik ose një skeme kompensimi për transportin publik të udhëtarëve që korrespondon me shpërblimin total, pa TVSH, të operatorit ose operatorëve të shërbimit publik, duke përfshirë kompensimin e çfarëdo lloji të paguar nga autoritetet publike dhe të ardhurat nga shitja e biletave, të cilat nuk i kthehen autoritetit kompetent në fjalë;
+9. “Rregull i përgjithshëm” do të thotë një masë që zbatohet pa diskriminim për të gjitha shërbimet e transportit publik të udhëtarëve të të njëjtit lloj në një zonë të caktuar gjeografike për të cilën është përgjegjës një autoritet kompetent;
+10. “Shërbime të integruara të transportit publik të udhëtarëve” do të thotë shërbime transporti të ndërlidhura brenda një zone gjeografike të përcaktuar me një shërbim të vetëm informacioni, skemë të biletave dhe orar;
+11. “Administrues stacioni” do të thotë një ent organizativ, i cili është bërë përgjegjës për menaxhimin e një ose më shumë stacioneve hekurudhore dhe që mund të jetë administratori i infrastrukturës;
+12. “Operator turistik” do të thotë një tregtar ose shitës me pakicë që kombinon dhe shet ose ofron për shitje paketa, drejtpërdrejt ose nëpërmjet një tregtari tjetër ose së bashku me një tregtar tjetër, ose tregtari që i transmeton të dhënat e udhëtarit një tregtari tjetër, përveç një sipërmarrjeje hekurudhore;
+13. “Shitësi i biletave” do të thotë çdo shitës me pakicë të shërbimeve të transportit hekurudhor që shet bileta, duke përfshirë biletat, në bazë të një kontrate ose marrëveshjeje tjetër ndërmjet shitësit me pakicë dhe një ose më shumë sipërmarrjeve hekurudhore;
+14. “Biletë” do të thotë dëshmi e vlefshme, pavarësisht nga forma e saj, e lidhjes së një kontrate transporti;
+15. “Rezervim” do të thotë një autorizim, në letër ose në formë elektronike, që jep të drejtën për transport, subjekt i marrëveshjeve të personalizuara të transportit të konfirmuara më parë;
+16. “Nëpërmjet biletës” do të thotë një biletë ose bileta që përfaqësojnë një kontratë transporti për shërbime të njëpasnjëshme hekurudhore të operuara nga një ose më shumë sipërmarrje hekurudhore;
+17. “Shërbim” do të thotë një shërbim transporti hekurudhor udhëtarësh që operon ndërmjet stacioneve hekurudhore, sipas një orari, duke përfshirë shërbimet e transportit të ofruara për ridrejtim;
+18. “Udhëtim” do të thotë transporti i një udhëtari ndërmjet stacionit të nisjes dhe stacionit të mbërritjes;
+19. “Shërbimi i udhëtarëve hekurudhor vendës” do të thotë një shërbim hekurudhor udhëtarësh që nuk kalon kufirin shtetëror;
+20. “Shërbimi i udhëtarëve hekurudhorë urbanë, periferikë dhe rajonalë” do të thotë një shërbim hekurudhor udhëtarësh, qëllimi kryesor i të cilit është për të përmbushur nevojat e një qendre urbane apo rajonale;
+21. “Shërbimi i udhëtarëve hekurudhorë në distanca të gjata” do të thotë një shërbim hekurudhor udhëtarësh, i cili nuk është një shërbim hekurudhor për udhëtarët urbanë, periferikë ose rajonalë;
+22. “Shërbimi ndërkombëtar i udhëtarëve hekurudhorë” do të thotë një shërbim hekurudhor udhëtarësh që kalon të paktën një kufi shtetëror, qëllimi kryesor i të cilit është të transportojë udhëtarët ndërmjet stacioneve të vendosura në shtete të ndryshme;
+23. “Vonesë” do të thotë diferenca kohore midis kohës që udhëtari ishte planifikuar të mbërrinte, në përputhje me orarin e publikuar dhe kohën e mbërritjes së tij ose të saj aktuale ose të pritshme në stacionin e destinacionit;
+24. “Mbërritja” do të thotë momenti kur dyert e trenit hapen në stacionin e destinacionit dhe lejohet zbritja;
+25. “Abone” ose “biletë sezoni” do të thotë një biletë për një numër të pakufizuar udhëtimesh që i siguron mbajtësit udhëtimin hekurudhor në një rrugë ose rrjet të caktuar gjatë një periudhe të caktuar;
+26. “Udhëtim i humbur” është një situatë ku një udhëtar humbet një ose më shumë shërbime gjatë një udhëtimi hekurudhor, të shitur në formën e një bilete, si rezultat i vonesës ose i anulimit të një ose më shumë shërbimeve të mëparshme, ose nisja e një shërbimi përpara kohës së planifikuar të nisjes;
+27. “Person me aftësi të kufizuara” dhe “person me lëvizshmëri të reduktuar” do të thotë çdo person që ka një dëmtim të përhershëm ose të përkohshëm fizik, mendor, intelektual ose shqisor, i cili, në ndërveprim me pengesa të ndryshme, mund të pengojë përdorimin e tij të plotë dhe efektiv të transportit në një bazë të barabartë me udhëtarët e tjerë ose lëvizshmëria e të cilëve gjatë përdorimit të transportit është zvogëluar për shkak të moshës;
+28. “Stacion” do të thotë një vendndodhje në një hekurudhë ku një shërbim hekurudhor udhëtarësh mund të fillojë, të ndalet ose të përfundojë;
+29. “Automjet” do të thotë një mjet motorik ose një rimorkio që bartet me rastin e transportit të udhëtarëve.

@@ -1,0 +1,6 @@
+# Neni 27
+Trajtimi i ankesave nga Autoriteti Rregullator Hekurudhor
+1. Pa cenuar të drejtat e konsumatorëve për të kërkuar kompensim alternativ, pasi të jetë ankuar pa sukses te sipërmarrja hekurudhore ose administratori stacionit në përputhje me nenin 26, udhëtari mund të ankohet tek Autoriteti Rregullator Hekurudhor brenda tre muajve nga marrja e informacionit për refuzimin e ankesës. Ai organ informon ankuesin për të drejtën e tij ose të saj për t’u ankuar tek organet alternative të zgjidhjes së mosmarrëveshjeve.
+2. Çdo udhëtar mund të ankohet për një shkelje të pretenduar të këtij udhëzimi te Autoriteti Rregullator Hekurudhor.
+3. Autoriteti Rregullator Hekurudhor konfirmon marrjen e ankesës brenda dy javësh nga marrja e saj. Procedura e trajtimit të ankesës zgjat maksimumi tre muaj nga data e krijimit të dosjes së ankesës ose për raste komplekse, zgjat deri në gjashtë muaj. Në rast zgjatjeje, informohet udhëtari për arsyet e zgjatjes dhe për kohën e pritshme të nevojshme për përfundimin e procedurës. Vetëm ato raste që përfshijnë procedura ligjore mund të zgjasin më shumë se gjashtë muaj.
+4. Procedura e trajtimit të ankesave bëhet e aksesueshme për personat me aftësi të kufizuara dhe për personat me lëvizshmëri të reduktuar.

@@ -1,0 +1,4 @@
+# Neni 28
+Zbatimi i rregullave të konkurrencës në sektorin hekurudhor
+1. Rregullat e konkurrencës të dhëna në këtë udhëzim zbatohen për të gjitha marrëveshjet, vendimet dhe praktikat e bashkërenduara që kanë si objekt ose efekt përcaktimin e tarifave dhe kushteve të transportit, kufizimin ose kontrollin e furnizimit të transportit, ndarjen e tregjeve të transportit, aplikimin e përmirësimeve teknike ose bashkëpunimin teknik, ose financimin ose blerjen e përbashkët të pajisjeve ose furnizimeve të transportit, kur operacione të tilla lidhen drejtpërdrejt me ofrimin e shërbimeve të transportit hekurudhor dhe janë të nevojshme për funksionimin e përbashkët të shërbimeve dhe abuzimin me pozitën dominuese në tregun e transportit.
+2. Këto dispozita zbatohen, gjithashtu, për operacionet e ofruesve të shërbimeve ndihmëse të transportit hekurudhor që kanë ndonjë nga këto objekte ose efekte.

@@ -1,0 +1,14 @@
+# Neni 21
+Ndihma në rast vonesash
+1. Në rast të një vonese në mbërritje ose në nisje, ose anulim të një udhëtimi, udhëtarët informohen për situatën dhe për kohën e parashikuar të nisjes dhe kohën e parashikuar të mbërritjes ose të shërbimit të zëvendësimit nga sipërmarrja hekurudhore ose nga administratori i stacionit, sapo të jetë i disponueshëm një informacion i tillë.
+a) Kur shitësit e biletave dhe operatorët turistikë kanë një informacion të tillë, ata gjithashtu ia japin atë udhëtarit.
+2. Kur vonesa e përmendur në paragrafin 1 arrin në 60 minuta ose më shumë, ose udhëtimi anulohet, sipërmarrja hekurudhore u ofron udhëtarëve pa pagesë:
+a) vaktet dhe pijet freskuese, në lidhje të arsyeshme me kohën e pritjes, nëse ato janë të disponueshme në tren ose në stacion, ose mund të ofrohen në mënyrë të arsyeshme, duke marrë parasysh kritere të tilla, si: distanca nga furnizuesi, koha e nevojshme për dorëzim dhe kostoja;
+b) hotel ose akomodim tjetër dhe transport ndërmjet stacionit hekurudhor dhe vendit të akomodimit, në rastet kur bëhet i nevojshëm qëndrimi për një ose më shumë net ose bëhet i nevojshëm një qëndrim shtesë, ku dhe kur është e mundur fizikisht.
+c) Në rastet kur një qëndrim i tillë bëhet i nevojshëm për shkak të rrethanave të përmendura në pikën 10 të nenit 20, sipërmarrja hekurudhore kufizon kohëzgjatjen e akomodimit në maksimum tri net.
+ç) Kërkesat për akses të personave me aftësi të kufizuara dhe personave me lëvizshmëri të reduktuar dhe nevojat e qenve ndihmës do të merren parasysh, kurdoherë që është e mundur;
+d) nëse treni është i bllokuar në shina, transporti nga treni në stacionin hekurudhor, në pikën alternative të nisjes ose në destinacionin përfundimtar të shërbimit, ku dhe kur është e mundur fizikisht.
+3. Nëse shërbimi hekurudhor ndërpritet dhe nuk mund të vazhdojë më ose nuk mund të vazhdojë brenda një periudhe të arsyeshme, sipërmarrjet hekurudhore u ofrojnë udhëtarëve sa më shpejt të jetë e mundur shërbime alternative të transportit.
+4. Sipërmarrjet hekurudhore informojnë udhëtarët se si të kërkojnë vërtetimin se shërbimi hekurudhor ka pësuar një vonesë, ka çuar në një udhëtim të humbur ose se është anuluar. Ky vërtetim do të zbatohet edhe në lidhje me dispozitat e parashikuara në nenin 20.
+5. Në zbatimin e paragrafëve 1 deri në 4, sipërmarrja hekurudhore u kushton vëmendje të veçantë nevojave të personave me aftësi të kufizuara dhe personave me lëvizshmëri të reduktuar, si dhe atyre të çdo personi shoqërues dhe qenve ndihmës.
+6. Kur hartohen planet e emergjencës sipërmarrjet hekurudhore koordinojnë me administratorin e stacionit dhe administratorin e infrastrukturës për mundësinë e ndërprerjeve të mëdha dhe vonesave të gjata që sjellin qëndrimin në stacion të një numri të konsiderueshëm udhëtarësh. Plane të tilla emergjence përfshijnë kërkesat për aksesueshmërinë e sistemeve të alarmit dhe informacionit.

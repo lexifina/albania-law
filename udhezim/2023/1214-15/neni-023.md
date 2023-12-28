@@ -1,0 +1,16 @@
+# Neni 23
+Kushtet në të cilat ofrohet ndihma
+Sipërmarrjet hekurudhore, administratorët e stacioneve, shitësit e biletave dhe operatorët turistikë bashkëpunojnë për të ofruar ndihmë falas për personat me aftësi të kufizuara dhe personat me lëvizshmëri të reduktuar, duke ofruar një mekanizëm të vetëm njoftimi, në përputhje me sa vijon pika:
+a) ndihma ofrohet me kusht që sipërmarrjet hekurudhore, administratorët e stacioneve, shitësi i biletave ose operatori turistik me të cilin është blerë bileta, ose pika e vetme e kontaktit e përmendur në shkronjën “dh” të këtij neni, aty ku është e zbatueshme, të njoftohet për nevojat e udhëtarit për një ndihmë të tillë të paktën 24 orë përpara se të nevojitet ndihma;
+b) një njoftim i vetëm për udhëtim është i mjaftueshëm dhe i përcillet të gjitha sipërmarrjeve hekurudhore dhe administratorëve të stacioneve të përfshira në udhëtim, të cilin e pranojnë pa kosto shtesë, pavarësisht nga mjetet e komunikimit që përdoren;
+c) kur një biletë lejon udhëtime të shumëfishta, një njoftim është i mjaftueshëm me kusht që të jepet informacioni i duhur për kohën e udhëtimeve të mëvonshme dhe në çdo rast të paktën 24 orë përpara herës së parë që nevojitet ndihma;
+ç) udhëtari ose përfaqësuesi i tij/saj bën të gjitha përpjekjet e arsyeshme të informojë për çdo anulim të këtyre udhëtimeve të mëvonshme të paktën 12 orë përpara;
+d) sipërmarrjet hekurudhore, administratorët e stacioneve, shitësit e biletave dhe operatorët turistikë marrin të gjitha masat e nevojshme për marrjen e njoftimeve. Kur shitësit e biletave nuk janë në gjendje të përpunojnë njoftime të tilla, ata tregojnë pikat alternative të blerjes ose mjetet alternative për të bërë njoftimin;
+dh) nëse nuk bëhet asnjë njoftim në përputhje me shkronjën “a”, sipërmarrja hekurudhore dhe administratori i stacionit bëjnë të gjitha përpjekjet e arsyeshme të ofrojnë ndihmë në mënyrë të tillë që personi me aftësi të kufizuara ose personi me lëvizshmëri të reduktuar të udhëtojë normal;
+e) pa cenuar pikën “g” të këtij neni, administratori i stacionit ose çdo person tjetër i autorizuar cakton pikat në të cilat personat me aftësi të kufizuara dhe personat me lëvizshmëri të reduktuar mund të bëjnë të ditur mbërritjen e tyre në stacionin hekurudhor dhe të kërkojnë ndihmë;
+ë) ndihma ofrohet me kusht që personi me aftësi të kufizuara ose personi me lëvizshmëri të reduktuar të paraqitet në pikën e caktuar në një kohë të caktuar nga sipërmarrja hekurudhore ose administratori i stacionit që ofron këtë ndihmë;
+f) çdo kohë e përcaktuar nuk duhet të jetë më shumë se 60 minuta përpara orës së publikuar të nisjes ose kohës në të cilën të gjithë udhëtarëve u kërkohet të bëjnë check-in vetë, personi duhet të paraqitet në pikën e caktuar të paktën 30 minuta përpara orës së publikuar të nisjes ose përpara kohës në të cilën të gjithë udhëtarëve u kërkohet të bëjnë check-in;
+g) sipërmarrja hekurudhore dhe administratori i stacionit në territorin e tyre bashkëpunojnë të krijojnë dhe të funksionojnë pika të vetme kontakti për personat me aftësi të kufizuara dhe personat me lëvizshmëri të reduktuar. Këto pika të vetme kontakti kanë përgjegjësinë, për:
+i. pranimin e kërkesave për ndihmë në stacione;
+ii. komunikimin e kërkesave individuale për ndihmë administratorëve të stacioneve dhe sipërmarrjeve hekurudhore; dhe
+iii. ofrimin e informacioneve mbi aksesueshmërinë.

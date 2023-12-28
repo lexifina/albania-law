@@ -1,0 +1,5 @@
+# Neni 25
+Trajnimi i stafit
+1. Sipërmarrjet hekurudhore dhe administratorët e stacioneve sigurojnë që i gjithë personeli që ka funksion ofrimin e ndihmës të drejtpërdrejtë për personat me aftësi të kufizuara dhe personat me lëvizshmëri të reduktuar, të marrin trajnime në lidhje në mënyrë që të dinë se si të përmbushin nevojat e personave me aftësi të kufizuara dhe të personave me lëvizshmëri të reduktuar.
+2. Sipërmarrjet hekurudhore dhe administratorët e stacioneve i sigurojnë të gjithë personelit, që punon në stacione ose në trena, i cili merret drejtpërdrejt me udhëtarët, trajnime dhe kurse trajnimi të rregullta rifreskuese për të rritur ndërgjegjësimin për nevojat e personave me aftësi të kufizuara dhe personave me lëvizshmëri të reduktuar.
+3. Sipërmarrjet hekurudhore dhe administratorët e stacioneve lejojnë pjesëmarrjen, në trajnimin e përmendur në paragrafin 1, të punonjësve me aftësi të kufizuara dhe mund të marrin në konsideratë pjesëmarrjen e udhëtarëve me aftësi të kufizuara dhe me lëvizshmëri të reduktuar dhe/ose organizatave që i përfaqësojnë ata.
