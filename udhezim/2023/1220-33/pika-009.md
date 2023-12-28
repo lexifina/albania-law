@@ -1,0 +1,1 @@
+9. Përfituesit që ndjekin kurse kualifikimi dhe rikualifikimi, përfitojnë pagesën e së ardhurës nga papunësia gjatë kohës së zhvillimit të kurseve, në rast se nuk paguhen nga ndonjë burim tjetër për këtë periudhë.

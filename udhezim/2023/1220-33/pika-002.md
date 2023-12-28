@@ -1,0 +1,1 @@
+2. Kërkuesit muk përfitojnë pagesën e së ardhurës nga papunësia nëse nuk plotësojnë kushtin e parashikuar në shkronjën “c”, të pikës 1, me përjashtim të rasteve të paaftësisë së përkohshme për punë, paaftësi e vërtetuar me raport mjekësor ose dokumente shoqëruese, që kanë qenë të shtruar në spital (fletëhyrje dhe fletëdalje nga spitali).

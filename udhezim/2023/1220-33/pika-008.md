@@ -1,0 +1,1 @@
+8. Kategoritë përfituese të së ardhurës nga papunësia, të cilët e ndërpresin pagesën për shkak punësimi, aftësimi apo leje lindjeje, apo raste të tjera të përligjura, rikthehen në skemë për përfitimin e ngelur, me nivelin e së ardhurës nga papunësia në momentin e rikthimit.

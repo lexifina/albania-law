@@ -1,0 +1,1 @@
+4. Për rastet e përsëritura të përfitimit, kur personi paraqet kërkesën më shumë se një herë, sipas shkronjave “a”, “b”, “c”, “ç” dhe “d” të pikës 4 të vendimit nr. 161, datë 21.3.2018, të ndryshuar, trajtohen duke llogaritur periudhën e kontributeve si punëmarrës, duke filluar nga përfitimi i fundit.
