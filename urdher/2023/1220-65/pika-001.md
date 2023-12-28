@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Agjencisë së Zhvillimit të Territorit, për nisjen dhe zhvillimin e procedurave të prokurimit, për blerjet me vlera të vogla apo direkte, te drejtori i Drejtorisë Juridike, znj. Alisa Basha.
