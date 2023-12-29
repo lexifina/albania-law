@@ -559,6 +559,8 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “Sp
 |Inspektor. |IV-1 |1 ose 2 |
 |Specialist në njësitë organizative të përmbajtjes në Agjencinë Telegrafike | | |
 |Shqiptare. | | |
+|Specialist në njësitë organizative të përmbajtjes në Agjencinë e Menaxhimit | | |
+|të Garancive dhe Kredive të Pakthyera. | | |
 |Specialist. |IV-2 |1 ose 2, ose 3 |
 | |IV-3 |1 ose 2, ose 3 |
 Lidhja nr. 9/1
@@ -575,7 +577,7 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 |Specialist në njësitë mbështetëse. |IV-2 |1 ose 2, ose 3 |0 |
 | |IV-3 |1 ose 2, ose 3 |0 |
 Lidhja nr. 9/2
-Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni” në Drejtorinë e Përgjithshme të Parandalimit të Pastrimit të Parave
+Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni” në Agjencinë e Inteligjencës Financiare
 |Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune (natyrë të |
 | | | |veçantë pune) (lek/muaj) |
 |Drejtor i Përgjithshëm. |I-3 |1 |120 000 |
@@ -739,6 +741,22 @@ Klasat e pagave dhe shtesat për kushte pune të pozicioneve të punës së nëp
 |dhe në SHKB. | | | |
 |Specialist. |IV-2 |1 ose 2, ose 3 |0 |
 |Specialist. |IV-3 |1 ose 2, ose 3 |0 |
+| | | | |
+Lidhja nr. 9/6
+Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) për pozicionet e punës së nëpunësve në Agjencinë Kombëtare të Kontrollit të Cannabis-it
+|Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune |
+| | | |(natyrë të veçantë pune) |
+| | | |(lek/muaj) |
+|Titullar i institucionit |I-3 |1 |20 000 |
+|Drejtor i drejtorive të përmbajtjes; |II-1 |1 |15 000 |
+|Koordinator. | | | |
+|Drejtor i drejtorive mbështetëse. |II-2 |1 |0 |
+|Përgjegjës i sektorëve të përmbajtjes. |III-1 |1 |14 000 |
+|Përgjegjës i sektorëve mbështetës. |III-2 |1 |0 |
+|Specialist në sektorët apo drejtoritë e |IV-1 |1 ose 2 |14 000 |
+|përmbajtjes. | | | |
+|Specialist në sektorët apo drejtoritë mbështetëse. |IV-2 |1 ose 2 ose 3 |0 |
+| |IV-3 | |0 |
 Lidhja nr. 10
 Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni” në institucionet e përcaktuara në shkronjën “ç”, të pikës 1, të kreut I, të këtij vendimi
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
@@ -978,6 +996,12 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 |Përgjegjës sektori në sektorët mbështetës. |III-2 |1 |0 |
 |Specialist në sektorët apo drejtoritë mbështetëse. |IV-2 |1 ose 2 ose 3 |0 |
 | |IV-3 | |0 |
+Lidhja nr. 10/11
+Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve në Qendrën Rajonale të Inovacionit të Institutit Evropian të Teknologjisë dhe Inovacionit për Lëndët e Para (EIT RawMaterials Regional Inovation Centre)
+|Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune (natyrë të |
+| | | |veçantë pune) (lek/muaj) |
+|Titullar i institucionit |I-4 |1 |70 000 |
+|Ekspertë |II-1 |1 |50 000 |
 Lidhja nr. 11
 Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni” në institucionet e përcaktuara në shkronjën “d”, të pikës 1, të kreut I, të këtij vendimi
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
@@ -1141,6 +1165,7 @@ Klasat e pagave të nëpunësve në pozicionet “specialist” deri në “titu
 |funksion i deleguar). | | |
 |Përgjegjës i gjendjes civile pranë prefektit. | | |
 |Përgjegjës sektori në zyrat vendore të arsimit parauniversitar. | | |
+|Specialist në zyrat rajonale të Avokatit të Popullit | | |
 |Përgjegjës sektori i institucionit vendor. |IV-3 |1 |
 |Përgjegjës i zyrës së gjendjes civile në komuna (si funksion i deleguar). | | |
 |Specialist në degën territoriale të Shërbimit të Provës. |IV-2 |1 ose 2, ose 3 |
