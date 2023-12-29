@@ -1,1 +1,1 @@
-12. Oficerët e caktuar për sigurinë e gjyqtarëve, prokurorëve, anëtarëve të Byrosë Kombëtare të Hetimit, familjeve dhe banesave të tyre nuk zëvendësohen pa marrë, paraprakisht, miratimin e kryetarit të Gjykatës, drejtuesit të Prokurorisë së Posaçme apo drejtorit të Byrosë Kombëtare të Hetimit.
+12. Truprojat e gjyqtarëve, prokurorëve, familjeve dhe banesave të tyre caktohen dhe zëvendësohen vetëm pasi të jetë marrë, paraprakisht, miratimi i kryetarit të Gjykatës, drejtuesit të Prokurorisë së Posaçme apo drejtorit të Byrosë Kombëtare të Hetimit.
