@@ -8,7 +8,7 @@ dh) Anëtarët e Këshillit të Ministrave;
 e) Guvernatorin e Bankës së Shqipërisë;
 ë) Kryetarin e Bashkisë së Tiranës;
 f) Inspektorin e Lartë të Drejtësisë;
-g) Kryetarët e Gjykatave kundër Korrupsionit dhe Krimit të Organizuar, Drejtuesin e Prokurorisë së Posaçme dhe drejtorin e Byrosë Kombëtare të Hetimit;
+g) Kryetarët e Gjykatave kundër Korrupsionit dhe Krimit të Organizuar, Drejtuesin e Prokurorisë së Posaçme, Drejtorin e Byrosë Kombëtare të Hetimit, gjyqtarët e gjykatave të posaçme kundër korrupsionit dhe krimit të organizuar dhe prokurorët e Prokurorisë së Posaçme kundër Korrupsionit dhe Krimit të Organizuar;
 gj) Inspektorin e Përgjithshëm të Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave;
 h) Kryenegociatorin për zhvillimin e negociatave të anëtarësimit të Republikës së Shqipërisë në Bashkimin Evropian;
 i) Komisionerin Shtetëror të Zgjedhjeve;

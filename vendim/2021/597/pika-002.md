@@ -10,6 +10,8 @@ i. Komisioni i Pavarur i Kualifikimit, Kolegji i Posaçëm i Apelimit, Komisione
 ii. Prokuroria e Përgjithshme.
 iii. Struktura e Posaçme kundër Korrupsionit dhe Krimit të Organizuar;
 iv. Gjykata e Posaçme kundër Korrupsionit dhe Krimit të Organizuar.
+v. Agjencia Kombëtare e Shoqërisë së Informacionit;
+vi. Autoriteti Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike.
 c) Objektet ku zhvillojnë veprimtarinë dhe akomodohen personalitetet shtetërore, konkretisht:
 i. në Tiranë: vila nr. 4, vila nr. 30, vila nr. 31, Pallati i Brigadave;
 ii. në Dajt: vila nr. 1, vila nr. 2;
