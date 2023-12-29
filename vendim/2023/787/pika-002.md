@@ -1,0 +1,10 @@
+2. Nisma për krijimin e metodave ose seksioneve të reja mund të ndërmerret nëse janë të pranishme këto rrethana apo kushte:
+a) Nga ankesat/kërkesat e subjekteve në “Platformë”, nga të dhënat e marra në mënyrë direkte ose të tërthortë (deduktive) përmes “Këshillimit Kombëtar” apo nga veprimtaria e vetë institucioneve shtetërore konstatohen problematika me karakter të vazhdueshëm ose të përsëritshëm, të cilat, për shkak të specifikave, mund të adresohen në mënyrë më efektive nëpërmjet krijimit të metodave ose seksioneve të reja, të ndryshme nga ato ekzistuese;
+b) Metoda ose seksioni i ri paraqet risi dhe përmirësime në drejtim transparencës ose shpejtësisë së ndërveprimit të subjektit me Agjencinë për Dialog dhe Bashkëqeverisje (në vijim e quajtur “Agjencia”) dhe institucionet shtetërore.
+II. PROCEDURAT PËR METODAT APO SEKSIONET E REJA
+1. Krijimi i metodave ose seksioneve të reja të “Platformës” mund të nisë nga vetë Agjencia, me nismën e saj ose me propozimin e Kryeministrit, ministrit apo institucionit qendror që ka në përgjegjësi çështjet shtetërore, për të cilat kërkohet krijimi i metodës ose seksionit. Këto organe mund të mbështeten në nismën e tyre edhe nga “Këshillimi Kombëtar”, në mënyrë të drejtpërdrejtë, kur nevoja për krijim ose jo është pjesë e vetë këshillimit, apo në mënyrë të tërthortë, kur si rrjedhojë e informacionit të përftuar mbi çështjet e tjera, objekt këshillimi, deduktohet dhe argumentohet edhe nevoja për krijimin e metodës apo seksionit të ri të platformës.
+2. Në rast të ndërmarrjes së nismës nga vetë Agjencia për të krijuar metodën apo seksionin e ri të “Platformës”, ajo mbështetet në:
+a) konstatimet e saj nga të dhënat e administruara në “Platformë”;
+b) informacionin e mbledhur nga veprimtaria inspektuese e Agjencisë, sipas kreut X, të ligjit nr. 107/2021, “Për bashkëqeverisjen”;
+c) kërkesat e subjekteve përdoruese të “Platformës” për krijimin e metodave apo seksioneve të reja, nëse ka të tilla;
+ç) informacionin e përftuar nga “Këshillimi Kombëtar”, qoftë si rrjedhojë e të dhënave të marra nga çështjet, objekt këshillimi, qoftë nëse krijimi i metodës apo seksionit është objekt këshillimi në vetvete.

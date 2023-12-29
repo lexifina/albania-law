@@ -1,0 +1,1 @@
+10. Mbledhja e të dhënave të pyetësorit të “Këshillimit Kombëtar” kryhet për qëllime statistikore, në përputhje me parashikimet e legjislacionit në fuqi për statistikat zyrtare dhe legjislacionin në fuqi për mbrojtjen e të dhënave personale, dhe shërben si mjet për të përmirësuar dhe jetësuar politikat qeverisëse.
