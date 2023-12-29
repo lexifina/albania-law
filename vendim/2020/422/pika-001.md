@@ -7,7 +7,7 @@
 - Z. Endrit Yzeiraj, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kapitujt 1, 3, 6, 7, 20 dhe 30, si dhe bashkënegociator përgjegjës për kapitujt 4, 28;
 - Shfuqizuar;
 - Znj. Vasilika Vjero, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kapitujt 16 dhe 29;
-- shfuqizuar;
+- Shfuqizuar;
 - Z. Arian Jaupllari, zëvendësministër i Bujqësisë dhe Zhvillimit Rural, negociator për kapitujt 11 dhe 12;
 - Z. Roland Kristo, zëvendësministër i Bujqësisë dhe Zhvillimit Rural, negociator për kapitullin 13;
 - Znj. Albana Tole, zëvendësministër i Arsimit dhe Sportit, negociator përgjegjës për kapitullin 25;
@@ -16,11 +16,11 @@
 - Znj. Natasha Ahmetaj, zëvendësguvernator i dytë në Bankën e Shqipërisë, negociator përgjegjës për kapitullin 17 dhe bashkënegociator për kapitullin 4;
 - Znj. Reida Kashta, drejtor i Përgjithshëm i Agjencisë së Prokurimit Publik, negociator për kapitullin 5;
 - Z. Denar Biba, kryetar i Autoritetit të Konkurrencës, negociator për kapitullin 8;
-- Z. Ervin Mete, Autoriteti i Mbikëqyrjes Financiare, negociator për kapitullin 9;
+- Znj. Mimoza Kaçi, Autoriteti i Mbikëqyrjes Financiare, negociator në detyrë për kapitullin 9, deri në emërimin e drejtorit të përgjithshëm ekzekutiv;
 - Znj. Elsa Dhuli, INSTAT, negociatore për kapitullin 18.
-- Z. Ilir Beqaj, drejtor i Përgjithshëm i Agjencisë Shtetërore të Programimit Strategjik dhe Koordinimit të Ndihmës, negociator përgjegjës për kapitullin 22;
+-Znj. Jona Suli, drejtor i Përgjithshëm i Agjencisë Shtetërore të Programimit Strategjik dhe Koordinimit të Ndihmës, negociator përgjegjës për kapitullin 22;
 - Znj. Enkelejda Muçaj, zëvendësministër i Infrastrukturës dhe Energjisë, negociator përgjegjës për kapitujt 14, 15 e 21 dhe bashkënegociator përgjegjës për kapitullin 10;
 - Znj. Denada Seferi, zëvendësministër i Shëndetësisë dhe Mbrojtjes Sociale, bashkënegociator përgjegjës për kapitujt 19 dhe 28;
 - Znj. Mirlinda Karçanaj, drejtor i Përgjithshëm i Agjencisë Kombëtare të Shoqërisë së Informacionit, bashkënegociator përgjegjës për kapitullin 10;
-- Znj. Albana Koçiu, drejtor i Departamentit të Administratës Publike, negociator përgjegjës për reformën në administratën publike.
+- Znj. Enkela Dudushi, drejtor i Departamentit të Administratës Publike, negociator përgjegjës për reformën në administratën publike.
 - Znj. Olta Manjani, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kapitullin 2, si dhe bashkënegociator përgjegjës për kapitullin 19.
