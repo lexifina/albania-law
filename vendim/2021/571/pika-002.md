@@ -1,1 +1,2 @@
-2. Fondit Shqiptar të Zhvillimit, në buxhetin e miratuar për vitin 2021, i transferohet fondi në masën 129 087 000 (njëqind e njëzet e nëntë milionë e tetëdhjetë e shtatë mijë) lekë pa TVSH, sipas pikës 1, të këtij vendimi.
+2. Fondit Shqiptar të Zhvillimit, në buxhetin e miratuar për vitin 2021, i transferohet fondi në masën 121 743 141 (njëqind e njëzet e një milionë e shtatëqind e dyzet e tre mijë e njëqind e dyzet e një) lekë pa TVSH, sipas pikës 1, të këtij vendimi.
+2/1. Fondit Shqiptar të Zhvillimit, në buxhetin e miratuar për vitin 2023, i transferohet fondi në masën 7 343 859 (shtatë milionë e treqind e dyzet e tre mijë e tetëqind e pesëdhjetë e nëntë) lekë pa TVSH.
