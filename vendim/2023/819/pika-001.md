@@ -1,0 +1,1 @@
+1. Shpërblimin, në masën 5 000 (pesë mijë) lekë, të personave që përfitojnë pension invaliditeti dhe pension familjar, sipas ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, për vitin 2023.

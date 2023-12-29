@@ -1,0 +1,1 @@
+2. Të drejtën për të përfituar shpërblimin, në masën e përcaktuar në pikën 1, të këtij vendimi, e kanë edhe ata persona të cilëve iu lind e drejta për përfitimin e pensionit deri në datën 31.12.2023, përfshirë edhe këtë datë, dhe kanë të drejtë ta marrin vetëm një herë këtë shpërblim.
