@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve të Autoritetit të Komunikimeve Elektronike dhe Postare (AKEP), për vitin 2024, në shumën 393 000 000 (treqind e nëntëdhjetë e tre milionë lekë), sipas pasqyrës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
