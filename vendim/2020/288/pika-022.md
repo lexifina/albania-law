@@ -13,6 +13,7 @@ c) kartat e identitetit të prindit/prindërve.
 26. Në rast se deklarimi i aktit të lindjes të mbajtur jashtë vendit kryhet jashtë afatit 90-ditor, nëpunësi i gjendjes civile kryen pasqyrimin e lindjes në Regjistrin Kombëtar të Gjendjes Civile, pajis deklaruesin me certifikatën personale e familjare me shënimin:
 -- Lindje jashtë shtetit, nr..akti, datë..., vendin ku ka ndodhur lindja, “Për përfitim të ndihmës së menjëhershme financiare Bonus, regjistruar jashtë afatit 90-ditor, nuk përfiton çekun prej 5 000 pesë mijë lekësh).
 Në këto raste prindi/prindërit nuk përfitojnë pagesën prej 5 000 (pesë mijë) lekësh.
+26/1. Për përfitimin e ndihmës së menjëhershme financiare për foshnjat e porsalindura, në çdo rast, prindi/prindërit, krahas dokumentacionit të përcaktuar në këtë vendim, paraqesin edhe formularin e vetëdeklarimit, që jetojnë në territorin e Republikës së Shqipërisë, sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi.
 27. Për të gjitha rastet që nuk janë parashikuar nga ky vendim veprohet sipas legjislacionit në fuqi.
 28. Tërheqja e çekut (Baby Bonus) bëhet personalisht nga prindi/prindërit dhe afati është 1 vit kalendarik nga dita e lindjes së foshnjës, për foshnjat e lindura brenda ose jashtë shtetit.
 29. Të gjitha institucionet e shërbimit spitalor, publike dhe jopublike, që kanë shërbimin e lindjes së foshnjës, duhet të bëjnë me dije dhe të kenë të njoftuar në mënyrë publike se në institucionin e tyre ofrohet edhe shërbimi i gjendjes civile për regjistrimin në Regjistrin Kombëtar të Gjendjes Civile të foshnjës së porsalindur.
