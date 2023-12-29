@@ -1,0 +1,1 @@
+2. Vendimi nr. 445, datë 22.5.2017, i Këshillit të Ministrave, “Për miratimin e strukturës e të limitit organik dhe përcaktimin e funksioneve korresponduese për ҫdo gradë në Gardën e Republikës së Shqipërisë”, i ndryshuar, shfuqizohet.
