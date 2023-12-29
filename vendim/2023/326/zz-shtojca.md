@@ -164,20 +164,20 @@ të Gjykatës Kushtetuese, Gjykatës së Lartë dhe Shkollës së Magjistraturë
 |5 |Punonjës pastrimi. |II |
 Shënim. Për emërtesat e pozicioneve të punës, klasat e të cilave nuk janë përcaktuar në këtë lidhje, përdoret kreu I/1.
 Kreu I/ 4
-Renditja e pozicioneve të veçanta të punës për çdo klasë
-të punonjësve të Prokurorisë së Përgjithshme dhe Prokurorisë së Posaçme
+Renditja e pozicioneve të veçanta të punës për çdo klasë të punonjësve të Prokurorisë së Përgjithshme dhe të punonjësve të Strukturës së Posaçme Kundër Korrupsionit dhe Krimit të Organizuar
 |Nr. |Emërtimi i pozicionit |Klasa e pagës |
 |rendor | | |
-|1 |Oficer informacioni dhe i ruajtjes së rendit. |VII |
-| |Oficer informacioni në Prokurorinë e Posaçme. | |
-| |Sekretar. | |
+|1 |Oficer informacioni dhe i ruajtjes së rendit; |VII |
+| |Oficer informacioni në Strukturën e Posaçme Kundër Korrupsionit dhe Krimit të Organizuar; | |
+| |Sekretar; | |
+| |Ndihmës (sekretari - protokoll); | |
 | |Punonjës i postës sekrete. | |
-|2 |Shofer drejtuesi në Prokurorinë e Posaçme. |VI |
-| |Teknik mirëmbajtjeje. | |
-| |Operator. | |
+|2 |Shofer drejtuesi në Strukturën e Posaçme Kundër Korrupsionit dhe Krimit të Organizuar; |VI |
+| |Teknik mirëmbajtjeje; | |
+| |Operator; | |
 | |Magazinier. | |
-|3 |Shofer i postës sekrete. |V |
-| |Kuzhinier në Prokurorinë e Posaçme. | |
+|3 |Shofer i postës sekrete; |V |
+| |Kuzhinier në Strukturën e Posaçme Kundër Korrupsionit dhe Krimit të Organizuar; | |
 | |Shofer prokurori në Prokurorinë e Posaçme. | |
 |4 |Shoferë të tjerë të institucionit. |IV |
 |5 |Punonjës pastrimi. |II |
