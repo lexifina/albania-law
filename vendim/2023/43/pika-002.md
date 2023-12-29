@@ -1,3 +1,0 @@
-2. Nisma për krijimin e metodave ose seksioneve të reja mund të ndërmerret nëse janë të pranishme këto rrethana apo kushte:
-a) Nga ankesat/kërkesat e subjekteve në “Platformë” apo nga veprimtaria e vetë institucioneve shtetërore konstatohen problematika me karakter të vazhdueshëm ose të përsëritshëm, të cilat, për shkak të specifikave, mund të adresohen në mënyrë më efektive nëpërmjet krijimit të metodave ose seksioneve të reja, të ndryshme nga ato ekzistuese;
-b) Metoda ose seksioni i ri paraqet risi dhe përmirësime në drejtim transparencës ose shpejtësisë së ndërveprimit të subjektit me Agjencinë për Dialog dhe Bashkëqeverisje (në vijim e quajtur “Agjencia”) dhe institucionet shtetërore.

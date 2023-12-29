@@ -1,1 +1,0 @@
-1. Ky vendim ka si qëllim të përcaktojë rastet kur është i nevojshëm krijimi i metodave ose seksioneve të reja të platformës “Me ty për Shqipërinë që duam”, në vijim e quajtur “Platforma”, si dhe procedurën që ndiqet për hartimin dhe miratimin e tyre.
