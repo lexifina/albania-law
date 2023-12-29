@@ -1,0 +1,1 @@
+3. FSHF-ja, brenda muajit mars 2024, paraqet në Ministrinë e Arsimit dhe Sportit dokumentacionin justifikues/transfertat bankare për shpërndarjen e fondit sipas veprimtarisë për të cilën do të përdoret ky fond.
