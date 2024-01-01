@@ -1,0 +1,8 @@
+# Neni 27
+Masat kalimtare
+1. Ushqimet e vendosura në treg ose të etiketuara para hyrjes në fuqi të këtij udhëzimi dhe që nuk janë në përputhje me shkronjën “i”, të pikës 1, dhe me pikën 4, të nenit 21, mund të tregtohen deri në datën e tyre të jetëgjatësisë minimale ose datës së përdorimit.
+2. Ushqimet e prodhuara në përputhje me rregullat e zbatueshme përpara datës së miratimit të këtij udhëzimi mund të vazhdojnë të vendosen në treg. Pas kësaj date, ato mund të qëndrojnë në treg deri në datën e jetëgjatësisë minimale ose datën e “përdorimit deri”.
+3. AKU-ja merr masat për evidentimin e ushqimeve të vendosura në treg ose të etiketuara, sipas pikave 1 dhe 2 të këtij neni.
+4. Udhëzimi nr. 18, datë 17.11.2010, “Për aditivët ushqimorë”; udhëzimi nr. 16, datë 29.8.2011, “Mbi aditivët ushqimorë të tjerë nga ëmbëlsuesit dhe ngjyruesit”; urdhri nr. 395, datë 14.9.2004, “Mbi përdorimin e ngjyruesve të lejuar në produktet ushqimore”; urdhri nr. 698, datë 16.12.2003, “Mbi përdorimin e disa ëmbëlsuesve ushqimorë në produktet ushqimore”; urdhri nr. 699, datë 16.12.2003, “Mbi përdorimin e ngjyruesve të lejuar në produktet ushqimore”; udhëzimi nr. 7, datë 19.3.2012, “Për përdorimin e aditivit ushqimor ’E 960 steviol glycoside’ në produktet ushqimore”; dhe udhëzimi nr. 58, datë 8.2.2018, “Për përdorimin e ëmbëlsuesit ushqimorë ’E 955 sucralose’, në produktet ushqimore”, shfuqizohen.
+5. Për zbatimin e këtij udhëzimi, ngarkohet Ministria e Bujqësisë dhe Zhvillimit Rural, Autoriteti Kombëtar i Ushqimit dhe Instituti i Sigurisë Ushqimore dhe Veterinarisë.
+Ky udhëzim hyn në fuqi më 1 janar 2024.
