@@ -1,1 +1,0 @@
-5. Aditivët ushqimorë të listuar në shtojcën I përdoren në produktet ushqimore për qëllimet e përcaktuara në pikën 2, me përjashtim të produkteve ushqimore të listuara në shtojcën II, të ndjekura nga parimi “sasi e dëshirueshme”.

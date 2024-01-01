@@ -1,1 +1,0 @@
-1. Objekt i zbatimit të këtij udhëzimi janë aditivët ushqimorë të tjerë nga ngjyruesit dhe ëmbëlsuesit. Ky udhëzim nuk zbatohet për enzimat e tjera nga ato të dhëna në shtojcat I, II, III, IV, V dhe VI të këtij udhëzimi.

@@ -1,2 +1,0 @@
-# Shtojca
-Genc Ruli
