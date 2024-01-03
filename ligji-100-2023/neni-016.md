@@ -1,0 +1,5 @@
+# Neni 16
+Sekreti profesional
+1. Administratorët, të punësuarit dhe agjentët aktualë e të mëparshëm të bankës ose degës së bankës së huaj, autoritetet gjyqësore, si dhe inspektorët apo nëpunësit e tjerë të Bankës së Shqipërisë ose të autoriteteve përkatëse të huaja të mbikëqyrjes bankare kanë detyrimin e ruajtjes së sekretit profesional për informacionet e marra gjatë ushtrimit të detyrës në përputhje me nenin 91 të ligjit nr. 9662 datë 18.12.2006, “Për bankat në Republikën e Shqipërisë”, të ndryshuar.
+2. Në rast të bashkëpunimit ndërinstitucional, në shkëmbimin e informacionit, është e detyrueshme ruajtja e sekretit profesional për të siguruar mbrojtjen e të dhënave personale dhe tregtare.
+3. Banka e Shqipërisë shkëmben informacion me autoritetet mbikëqyrëse të huaja dhe bankat qendrore të huaja duke respektuar parimin e reciprocitetit, të miratimit paraprak, mjaftueshmërisë së të dhënave, integritetit dhe konfidencialitetit, me kusht që të garantohet niveli i mbrojtjes së të dhënave personale sipas legjislacionit në fuqi.
