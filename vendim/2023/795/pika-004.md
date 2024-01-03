@@ -1,0 +1,1 @@
+4. Punonjësit sipas pikës 1, të këtij vendimi, të cilët kanë ndryshuar pozicionin e punës, por që janë ende në marrëdhënie pune në njësitë e qeverisjes qendrore, përfitojnë shpërblimin nga institucioni përkatës ku kanë kontribuuar për takimet dypalëshe, bazuar në konfirmimin nga negociatori përkatës për kapitullin dhe kriterin përkatës.

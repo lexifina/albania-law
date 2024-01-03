@@ -1,0 +1,2 @@
+7. Ngarkohen Ministria e Financave dhe Ekonomisë dhe njësitë e qeverisjes qendrore të kryejnë veprimet financiare për zbatimin e këtij vendimi deri në datën 15 janar 2024.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

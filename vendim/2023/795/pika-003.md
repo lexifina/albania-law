@@ -1,0 +1,1 @@
+3. Negociatori në detyrë, në momentin e hyrjes në fuqi të këtij vendimi, konfirmon pranë institucioneve përkatëse, për çdo kapitull dhe/ose kriter, listën e punonjësve që përfitojnë shpërblimin, sipas shkronjave “b” dhe “c”, të pikës 1 të këtij vendimi.

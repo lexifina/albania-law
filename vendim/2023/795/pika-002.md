@@ -1,0 +1,1 @@
+2. Masa e shpërblimit të jetë një pagë mujore bruto, sipas pagës që nëpunësit përfitues, të përcaktuar në pikën 1 të këtij vendimi, kanë në momentin e hyrjes në fuqi të tij, por jo më shumë se paga e funksionit ministër Shteti dhe Kryenegociator, dhe për një shpërblim të vetëm.
