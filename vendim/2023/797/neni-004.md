@@ -1,0 +1,13 @@
+# Neni 4
+Kërkesa dhe dokumentet shoqëruese për shpronësimet, që shpërblehen në natyrë
+1. Kërkesa për shpronësim me shpërblimin në natyrë paraqitet nga subjekti kërkues në favor të të cilit bëhet shpronësimi, shoqëruar me dokumentacionin përkatës, siç përcaktohet në nenin 10, të ligjit nr. 8561, datë 22.12.1999, “Për shpronësimet dhe marrjen në përdorim të përkohshëm të pasurisë, pronë private, për interes publik”, të ndryshuar, si dhe:
+a) relacionin shpjegues, në të cilin argumentohet mungesa e fondeve për shpronësim apo raporti i saj i lartë me vlerën e fondit buxhetor të shpronësimeve, arsyeja e përfshirjes së shpërblimit në natyrë të subjekteve që preken nga shpronësimi, si dhe pjesët takuese të subjekteve që do të shpronësohen e do të kompensohen nëpërmjet shkëmbimit me një pasuri të paluajtshme në pronësi të shtetit;
+b) aktet kadastrale të pasurisë së paluajtshme në pronësi të shtetit, ku të pasqyrohen referenca të plota lidhur me zonën kadastrale, numri i pasurisë, volum faqe, sipërfaqja e pronës dhe vlera e pasurisë shtetërore, bazuar në çmimet në fuqi të miratuara me vendim të Këshillit të Ministrave;
+c) konfirmimin me shkrim të organit kompetent për pasurinë shtetërore, e cila mund të përdoret si shkëmbim në natyrë;
+ç) listën e pronarëve të pasurive, pronë private, që shpronësohen, për të cilët mënyra e kompensimit parashikohet të jetë nëpërmjet shpërblimit në natyrë, sipërfaqen e këtyre pasurive dhe vlerësimin paraprak të tyre;
+d) pëlqimin e subjektit që shpronësohet për të marrë shpërblimin në natyrë.
+2. Shpërblimi në natyrë mund të kërkohet edhe nga vetë subjekti, pasuria pronë private e të cilit do të shpronësohet, duke paraqitur kërkesën për shpërblim në natyrë pranë Agjencisë Shtetërore për Shpronësim.
+3. Në rast se kërkesa bëhet sipas pikës 2 të këtij neni, Agjencia Shtetërore për Shpronësimin ndjek procedurën deri në nënshkrimin ose jo të marrëveshjes, duke bërë paraprakisht:
+a) vlerësimin, nëse subjekti, pasuria pronë private e të cilit po i shpronësohet, është në një prej rasteve të parashikuara në pikën 1 të nenit 3;
+b) marrjen e dakordësisë nga ministria përgjegjëse për administrimin e pronave shtetërore për mundësinë e kryerjes së shpërblimit në natyrë me një pasuri të paluajtshme në pronësi të shtetit.
+4. Vetëm në rastin kur plotësohen të dyja kushtet paraprake të përcaktuara në pikën 3 të këtij neni, Agjencia Shtetërore për Shpronësimin vijon procedurën për kryerjen e shpërblimit në natyrë me një pasuri të paluajtshme në pronësi të shtetit. Në rast se një nga kushtet e përcaktuara në pikën 3 të këtij neni, nuk plotësohet, kompensimi i pronarit të pasurisë së paluajtshme, pronë private, bëhet vetëm me vlerë financiare.
