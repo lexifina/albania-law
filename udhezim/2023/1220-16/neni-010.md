@@ -1,0 +1,7 @@
+# Neni 10
+Përputhshmëria me kuadrin ligjor
+1. Kompensimi i shërbimit publik për operimin e shërbimeve publike të transportit të udhëtarëve ose për respektimin e detyrimeve tarifore të hartuara nëpërmjet rregullave të përgjithshme, të paguara në përputhje me këtë udhëzim është në harmoni me tregun e përbashkët.
+2. Pa cenuar kuadrin ligjor përkatës, autoriteti përgjegjës mund të vazhdojë të japë ndihma për sektorin e transportit, në pajtim me rregullat me të cilat i plotësojnë nevojat e koordinimit të transporteve ose që i korrespondojnë rimbursimit të disa detyrimeve të qenësishme në konceptin e shërbimit publik, përveç atyre që mbulohen nga ky udhëzim dhe sidomos:
+a) deri në momentin e hyrjes në fuqi të rregullave të përbashkëta mbi ndarjen e kostove të infrastrukturës, kur ndihma u jepet operatorëve që duhet të përballojnë shpenzime në lidhje me infrastrukturën që ata përdorin, ndërsa operatorë të tjera nuk i nënshtrohen një detyrimi të ngjashëm. Për të përcaktuar sasinë e ndihmës të dhënë në këtë mënyrë, është e detyrueshme që të merren parasysh kostot e infrastrukturës që llojet konkurruese të transportit nuk duhet t’i përballojnë;
+b) kur qëllimi i ndihmës është të promovojë kërkimin shkencor, ose zhvillimin e sistemeve të transportit dhe teknologjive që janë më ekonomike për komunitetin në përgjithësi.
+3. Një ndihmë e tillë do të jetë e kufizuar në fazën e kërkimit dhe të zhvillimit dhe nuk mund të mbulojë shfrytëzimin tregtar të sistemeve dhe të teknologjive të transportit në fjalë.

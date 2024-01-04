@@ -1,0 +1,6 @@
+# Neni 9
+Periudha kalimtare
+1. Kontratat e shërbimit publik jepen në përputhje me rregullat e përcaktuara në këtë udhëzim. Megjithatë, kontratat e shërbimit ose kontratat e shërbimit publik, siç janë përcaktuar në kontratat e mëparshme për shërbimet publike të transportit rrugor të udhëtarëve me autobus jepen në përputhje me procedurat e përcaktuara nga kuadri ligjor për prokurimin, tenderimin dhe/ose konkurrimin, kur këto kontrata nuk e marrin formën e kontratave të koncesionit për shërbime të tilla të përcaktuara në aktet ligjore dhe nënligjore përkatëse.
+2. Ky përjashtim nuk zbatohet ndaj operatorëve të shërbimit publik, që sigurojnë shërbime, të cilat janë objekt tenderimi.
+3. Kur autoritetet përgjegjëse përdorin opsionin referuar në pikën 1, e zbatojnë pa diskriminim, duke përjashtuar të gjithë operatorët potencialë të shërbimit publik që përmbushin këtë kriter dhe informojnë operatorët potencialë për vendimin e tyre në fillim të procedurës së dhënies së kontratave të shërbimit publik.
+4. Ky udhëzim nuk i shtrin efektet mbi licencat e lëshuara nga institucionet përkatëse, qendrore dhe të njësive të vetëqeverisjes vendore për shërbimet në transportin publik rrugor të udhëtarëve, përpara hyrjes në fuqi të këtij udhëzimi.

@@ -1,0 +1,3 @@
+# Neni 11
+Raportet
+Pas përfundimit të periudhës tranzitore të parashikuar në nenin 9, pika 2, pranë Komisionit të Ndihmës Shtetërore paraqitet një raport, përgatitur nga ministria përgjegjëse për transportin, si dhe nga autoritetet vendore/njësitë e vetëqeverisjes vendore, mbi zbatimin e këtij udhëzimi dhe mbi zhvillimet në ofrimin e shërbimeve publike të transportit të udhëtarëve në linjat dhe zonat përkatëse. Komisioni vlerëson, veçanërisht, zhvillimin e cilësisë së shërbimeve publike të transportit të udhëtarëve dhe efektet e dhënieve direkte të këtyre shërbimeve, duke e shoqëruar, në rast se duhet, me propozime për ndryshimin e këtij udhëzimi.

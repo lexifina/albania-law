@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 16, datë 20.12.2023
+PËR SHËRBIMET PUBLIKE TË TRANSPORTIT RRUGOR TË UDHËTARËVE[1]
+Në mbështetje të pikës 4, të nenit 102 të Kushtetutës, të nenit 70 të ligjit nr. 9590, datë 27.7.2006, “Për ratifikimin e Marrëveshjes së Stabilizim-Asociimit ndërmjet Republikës së Shqipërisë dhe Komuniteteve Evropiane e shteteve të tyre anëtare”; ligjit nr. 9374, datë 21.4.2005, “Për ndihmën shtetërore”, të ndryshuar; ligjit nr. 8308, datë 18.3.1998, “Për transportet rrugore”, të ndryshuar; ligjit nr. 9121, datë 28.7.2003, “Për mbrojtjen e konkurrencës”, të ndryshuar; vendimit nr. 111, datë 2.3.2022, të Këshillit të Ministrave, “Për përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Infrastrukturës dhe Energjisë”; vendimit nr. 513, datë 4.9.2018, të Këshillit të Ministrave, “Për miratimin e rregullores “Për kushtet dhe procedurat e dhënies dhe autorizimit të disa kategorive të ndihmës shtetërore”; dhe në përputhje me udhëzimin e ministrit të Financave dhe Ekonomisë nr. 9, datë 20.3.2018, “Për procedurat standarde të zbatimit të buxhetit”, të ndryshuar,
+UDHËZOJ:
