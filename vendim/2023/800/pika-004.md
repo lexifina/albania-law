@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 6 278 426.40 (gjashtë milionë e dyqind e shtatëdhjetë e tetë mijë e katërqind e njëzet e gjashtë pikë dyzet) lekësh, përballohet nga Drejtoria e Përgjithshme e Policisë së Shtetit.

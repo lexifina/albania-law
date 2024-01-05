@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i Institutit të Policisë Shkencore”, Drejtoria e Përgjithshme e Policisë së Shtetit.
