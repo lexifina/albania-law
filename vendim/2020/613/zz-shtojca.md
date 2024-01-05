@@ -1,388 +1,228 @@
 # Shtojca
 SHTOJCA I
 LISTA E JURIDIKSIONEVE PJESËMARRËSE
-1.
-Albania
-2.
-Argentina
-3.
-Andorra
-4.
-Australia
-5.
-Austria
-6.
-Anguilla
-7.
-Antigua and Barbuda
-8.
-Aruba
-9.
-Azerbaijan
-10.
-Belgium
-11.
-Bulgaria
-12.
-Brazil
-13.
-Bermuda
-14.
-British Virgin Islands
-15.
-Bahamas
-16.
-Bahrain
-17.
-Barbados
-18.
-Belize
-19.
-Brunei
-20.
-Colombia
-21.
-Croatia
-22.
-Cyprus
-23.
-Czech Republic
-24.
-Canada
-25.
-Chile
-26.
-China
-27.
-Cayman Islands
-28.
-Cook Islands
-29.
-Costa Rica
-30.
-Curaçao
-31.
-Denmark
-32.
-Dominica
-33.
-Ecuador
-34.
-Estonia
-35.
-Faroe Islands
-36.
-Finland
-37.
-France
-38.
-Germany
-39.
-Gibraltar
-40.
-Greece
-41.
-Guernsey
-42.
-Greenland
-43.
-Grenada
-44.
-Ghana
-45.
-Hungary
-46.
-Hong Kong (China)
-47.
-Iceland
-48.
-India
-49.
-Ireland
-50.
-Isle of Man
-51.
-Italy
-52.
-Israel
-53.
-Indonesia
-54.
-Japan
-55.
-Jersey
-56.
-Kazakhstan
-57.
-Korea
-58.
-Kuwait
-59.
-Latvia
-60.
-Liberia
-61.
-Liechtenstein
-62.
-Lithuania
-63.
-Luxembourg
-64.
-Lebanon
-65.
-Montserrat
-66.
-Macau (China)
-67.
-Marshall Islands
-68.
-Malta
-69.
-Mexico
-70.
-Malaysia
-71.
-Mauritius
-72.
-Monaco
-73.
-Morocco
-74.
-Netherlands
-75.
-Norway
-76.
-Neë Zealand
-77.
-Nauru
-78.
-Niue
-79.
-Nigeria
-80.
-Oman
-81.
-Poland
-82.
-Portugal
-83.
-Pakistan
-84.
-Panama
-85.
-Qatar
-86.
-Romania
-87.
-Russia
-88.
-San Marino
-89.
-Seychelles
-90.
-Slovak Republic
-91.
-Slovenia
-92.
-South Africa
-93.
-Saint Kitts and Nevis
-94.
-Saint Lucia
-95.
-Saint Vincent and the Grenadines
-96.
-Samoa
-97.
-Spain
-98.
-Sweden
-99.
-Saudi Arabia
-100.
-Singapore
-101.
-Sint Maarten
-102.
-Switzerland
-103.
-Turkey
-104.
-Turks and Caicos Islands
-105.
-United Kingdom
-106.
-United Arab Emirates
-107.
-Uruguay
-108.
-Vanuatu
+1. Afrika e Jugut
+2. Andorra
+3. Anguila
+4. Antigua dhe Barbuda
+5. Arabia Saudite
+6. Argjentina
+7. Aruba
+8. Australia
+9. Austria
+10. Azerbaixhani
+11. Bahamasi
+12. Bahrejni
+13. Barbadosi
+14. Belgjika
+15. Belizeja
+16. Bermuda
+17. Brazili
+18. Brunei
+19. Bullgaria
+20. Danimarka
+21. Dominika
+22. Ekuadori
+23. Emiratet e Bashkuara Arabe
+24. Estonia
+25. Federata Ruse
+26. Finlanda
+27. Franca
+28. Gana
+29. Gërnzi
+30. Gjeorgjia
+31. Gjermania
+32. Gjibraltari
+33. Grenada
+34. Grenlanda
+35. Greqia
+36. Holanda
+37. Hong Kongu (Kinë)
+38. Hungaria
+39. India
+40. Indonezia
+41. Irlanda
+42. Ishujt e Virgjër Britanikë
+43. Ishujt Faroe
+44. Ishujt Kajman
+45. Ishujt Kuk
+46. Ishujt Marshall
+47. Ishujt Turks dhe Kaikos
+48. Ishulli i Manit
+49. Islanda
+50. Italia
+51. Izraeli
+52. Japonia
+53. Kaledonia e Re
+54. Kanadaja
+55. Katari
+56. Kazakistani
+57. Kenia
+58. Kili
+59. Kina (Republika Popullore)
+60. Kolumbia
+61. Korea
+62. Kosta Rika
+63. Kroacia
+64. Kurasao
+65. Kuvajti
+66. Letonia
+67. Libani
+68. Liberia
+69. Lihtenshtajni
+70. Lituania
+71. Luksemburgu
+72. Makao (Kinë)
+73. Malajzia
+74. Maldivet
+75. Mali i Zi
+76. Malta
+77. Maroku
+78. Mauritius
+79. Mbretëria e Bashkuar
+80. Meksika
+81. Moldavia
+82. Monako
+83. Montserrati
+84. Nauru
+85. Nigeria
+86. Niue
+87. Norvegjia
+88. Omani
+89. Pakistani
+90. Panamaja
+91. Peruja
+92. Polonia
+93. Portugalia
+94. Qipro
+95. Republika Çeke
+96. Republika Sllovake
+97. Ruanda
+98. Rumania
+99. Samoa
+100. San Marino
+101. Sejshells
+102. Singapori
+103. Sint Marten
+104. Sllovenia
+105. Spanja
+106. Suedia
+107. Shën Kits dhe Nevis
+108. Shën Luçia
+109. Shën Vinsenti dhe Grenadinet
+110. Shqipëria
+111. Tajlanda
+112. Turqia
+113. Uganda
+114. Ukraina
+115. Uruguaji
+116. Vanuatu
+117. Xhamajka
+118. Xhersi
+119. Zelanda e Re
+120. Zvicra
 SHTOJCA II
 LISTA E JURIDIKSIONEVE TË RAPORTUESHME
-1.
-Albania
-2.
-Argentina
-3.
-Andorra
-4.
-Australia
-5.
-Austria
-6.
-Antigua and Barbuda
-7.
-Azerbaijan
-8.
-Belgium
-9.
-Bulgaria
-10.
-Brazil
-11.
-Barbados
-12.
-Colombia
-13.
-Croatia
-14.
-Cyprus
-15.
-Czech Republic
-16.
-Canada
-17.
-Chile
-18.
-China
-19.
-Cook Islands
-20.
-Costa Rica
-21.
-Denmark
-22.
-Ecuador
-23.
-Estonia
-24.
-Faroe Islands
-25.
-Finland
-26.
-France
-27.
-Germany
-28.
-Gibraltar
-29.
-Greece
-30.
-Guernsey
-31.
-Greenland
-32.
-Grenada
-33.
-Hungary
-34.
-Hong Kong (China)
-35.
-Iceland
-36.
-India
-37.
-Ireland
-38.
-Isle of Man
-39.
-Italy
-40.
-Israel
-41.
-Indonesia
-42.
-Japan
-43.
-Jersey
-44.
-Kazakhstan
-45.
-Korea
-46.
-Latvia
-47.
-Liberia
-48.
-Liechtenstein
-49.
-Lithuania
-50.
-Luxembourg
-51.
-Malta
-52.
-Mexico
-53.
-Malaysia
-54.
-Mauritius
-55.
-Monaco
-56.
-Morocco
-57.
-Netherlands
-58.
-Norway
-59.
-New Zealand
-60.
-Nigeria
-61.
-Oman
-62.
-Poland
-63.
-Portugal
-64.
-Pakistan
-65.
-Panama
-66.
-Russia
-67.
-San Marino
-68.
-Seychelles
-69.
-Slovak Republic
-70.
-Slovenia
-71.
-South Africa
-72.
-Saint Kitts and Nevis
-73.
-Saint Lucia
-74.
-Spain
-75.
-Sweden
-76.
-Saudi Arabia
-77.
-Singapore
-78.
-Sëitzerland
-79.
-Turkey
-80.
-Turks and Caicos Islands
-81.
-United Kingdom
-82.
-Uruguay
+1. Afrika e Jugut
+2. Andorra
+3. Anguila
+4. Antigua dhe Barbuda
+5. Arabia Saudite
+6. Argjentina
+7. Australia
+8. Austria
+9. Azerbaixhani
+10. Barbadosi
+11. Belgjika
+12. Bermuda
+13. Brazili
+14. Brunei Darusalam
+15. Bullgaria
+16. Danimarka
+17. Dominika
+18. Ekuadori
+19. Emiratet e Bashkuara Arabe
+20. Estonia
+21. Finlanda
+22. Franca
+23. Gana
+24. Gërnzi
+25. Grenada
+26. Grenlanda
+27. Greqia
+28. Gjermania
+29. Gjibraltari
+30. Holanda
+31. Hong Kongu (Kinë)
+32. Hungaria
+33. India
+34. Indonezia
+35. Irlanda
+36. Ishujt e Virgjër Britanikë
+37. Ishujt Faroe
+38. Ishujt Kajman
+39. Ishujt Kuk
+40. Ishujt Turks dhe Kaikos
+41. Ishulli i Manit
+42. Islanda
+43. Italia
+44. Izraeli
+45. Japonia
+46. Kaledonia e Re
+47. Kanadaja
+48. Kazakistani
+49. Kili
+50. Kina
+51. Kolumbia
+52. Korea
+53. Kosta Rika
+54. Kroacia
+55. Kurasao
+56. Kuvajti
+57. Letonia
+58. Liberia
+59. Lihtenshtajni
+60. Lituania
+61. Luksemburgu
+62. Makao (Kinë)
+63. Malajzia
+64. Malta
+65. Maroku
+66. Mauritius
+67. Mbretëria e Bashkuar
+68. Meksika
+69. Monako
+70. Montserrati
+71. Nauru
+72. Nigeria
+73. Norvegjia
+74. Omani
+75. Pakistani
+76. Panamaja
+77. Peruja
+78. Polonia
+79. Portugalia
+80. Qipro
+81. Republika Çeke
+82. Republika Sllovake
+83. Rumania
+84. Rusia
+85. San Marino
+86. Sejshells
+87. Singapori
+88. Sint Marten
+89. Sllovenia
+90. Spanja
+91. Suedia
+92. Shën Kits dhe Nevis
+93. Shën Luçia
+94. Shën Vinsenti dhe Grenadinet
+95. Turqia
+96. Uruguaji
+97. Vanuatu
+98. Xhersi
+99. Zelanda e Re
+100. Zvicra
 SHTOJCA III
 LISTA E INSTITUCIONEVE FINANCIARE JORAPORTUESE
 1. Një organ qeveritar, organizatë ndërkombëtare ose bankë qendrore, përveçse lidhur me pagesa të cilat rrjedhin nga detyrimet e mbajtura, në lidhje me një veprimtari financiare tregtare të llojit të atyre të realizuara nga një Shoqëri sigurimesh e specifikuar, një institucion kujdestarie ose një institucion depozite.
