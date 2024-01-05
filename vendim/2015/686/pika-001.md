@@ -12,8 +12,8 @@ f) informacionin për lidhjet e mundshme të projektit me projekte të tjera ekz
 g) informacionin për alternativat e marra në konsideratë, për sa i takon përzgjedhjes së vendndodhjes së projektit dhe teknologjisë që do të përdoret;
 gj) të dhënat për përdorimin e lëndëve të para gjatë funksionimit, përfshirë sasitë e ujit të nevojshëm, të energjisë, lëndëve djegëse dhe mënyrën e sigurimit të tyre;
 h) aktivitete të tjera që mund të nevojiten për zbatimin e projektit, si ndërtimi i kampeve apo rezidencave etj.;
-i) informacionin për lejet, autorizimet dhe licencat e nevojshme për projektin, në përputhje me përcaktimet e bëra në legjislacionin në fuqi, si dhe institucionet kompetente për lejimin / autorizimin/ licencimin e projektit;
-j) kopje të lejeve, autorizimeve dhe licencave që disponon zhvilluesi për projektin e propozuar, në përputhje me përcaktimet e bëra në legjislacionin në fuqi, si dhe institucionet kompetente për lejimin / autorizimin/licencimin e projektit.
+i) informacionin e detajuar për lejet, autorizimet dhe licencat e nevojshme për projektin, në përputhje me përcaktimet e bëra në legjislacionin në fuqi, si dhe institucionet kompetente për lejimin / autorizimin/ licencimin e projektit;
+j) Të dhëna për përdorimin ekzistues të sipërfaqes së tokës ku do të zhvillohet projekti.
 1.2 Raportin paraprak të VNM-së, ku përfshihen:
 a) përshkrimi i mbulesës bimore të sipërfaqes ku propozohet të zbatohet projekti, shoqëruar dhe me fotografi;
 b) informacion për praninë e burimeve ujore, në sipërfaqen e kërkuar nga projekti dhe në afërsi të tij;
@@ -24,6 +24,7 @@ dh) të dhëna për shtrirjen e mundshme hapësinore të ndikimit negativ në mj
 e) mundësinë e rehabilitimit të mjedisit të ndikuar dhe mundësinë e kthimit të mjedisit të ndikuar të sipërfaqes në gjendjen e mëparshme, si dhe kostot financiare të përafërta për rehabilitimin;
 ë) masat e mundshme për shmangien dhe zbutjen e ndikimeve negative në mjedis;
 f) ndikimet e mundshme në mjedisin ndërkufitar (nëse projekti ka natyrë të tillë).
-Raporti paraprak i VNM-së të jetë i nënshkruar elektronikisht nga personi fizik/juridik i licencuar.
+Raporti paraprak i VNM-së të jetë i nënshkruar elektronikisht nga personi fizik ose juridik, i certifikuar në përputhje me këtë ligj.
 1.3 Shfuqizuar.
 1.4 Një kopje të faturës së pagesës së tarifës së shërbimit, sipas përcaktimeve në legjislacionin në fuqi.
+1.5 Prokurë për autorizimin e aplikuesit kur nuk është i njëjtë me zhvilluesin.

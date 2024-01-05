@@ -1,1 +1,1 @@
-5. ARM-ja, brenda 3 (tri) ditëve kalendarike nga data e marrjes së aplikimit nga AKM-ja, e dërgon për mendim nëpërmjet sistemit elektronik te njësia/të e vetëqeverisjes vendore, ku propozohet projekti, të cilat shprehen brenda 6 (gjashtë) ditëve kalendarike nga marrja e aplikimit.
+5. ARM-ja, brenda 2 (dy) ditëve pune nga data e marrjes së aplikimit nga AKM-ja, e dërgon për mendim nëpërmjet sistemit elektronik te njësia/të e vetëqeverisjes vendore ku propozohet projekti, të cilat shprehen brenda 3 (tri) ditëve pune nga marrja e aplikimit.

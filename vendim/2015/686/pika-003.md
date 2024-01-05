@@ -1,3 +1,1 @@
-3. Ministria, brenda 10 (dhjetë) ditëve kalendarike nga marrja e aplikimit, bën këto veprime:
-a) Kërkon nëpërmjet sistemit elektronik, plotësimin e dokumen-tacionit që mungon, duke dhënë edhe arsyetimin përkatës, nëse dokumentacioni i paraqitur nga zhvilluesi nuk është në përputhje me kërkesat e pikës 1, më sipër. Afati për plotësimin e dokumentacionit nga zhvilluesi nuk mund të jetë më i gjatë se 15 (pesëmbëdhjetë) ditë kalendarike;
-b) Përcjell aplikimin pranë Agjencisë Kombëtare të Mjedisit (AKM), të shoqëruar dhe me mendimin sugjerues të drejtorive teknike, nëse aplikimi duhet apo jo t’i nënshtrohet procedurës së VNM-së së thelluar.
+3. Ministria, me marrjen e aplikimit, verifikon paraprakisht nëse dokumentacioni i paraqitur nga zhvilluesi është në përputhje me kërkesat e pikës 1 të këtij kreu dhe ia përcjell jo më vonë se 2 (dy) ditë pune Agjencisë Kombëtare të Mjedisit (AKM), duke e shoqëruar me rekomandimin përkatës.
