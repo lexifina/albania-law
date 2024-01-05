@@ -1,0 +1,1 @@
+2. Qëllimi, fusha e kërkimit të njësive të përhershme të kërkim-studimit, mënyra e funksionimit dhe e organizimit të tyre, organet drejtuese dhe strukturat përbërëse përcaktohen në statutin e tyre përkatës, pjesë përbërëse e statutit të Akademisë.

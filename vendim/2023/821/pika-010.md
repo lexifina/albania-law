@@ -1,0 +1,1 @@
+10. Për punonjësit mbështetës, kategoria dhe struktura e pagave të tyre përcaktohen në përputhje me vendimin nr. 326, datë 31.5.2023, të Këshillit të Ministrave, “Për pagat e punonjësve mbështetës edhe punonjësve të tjerë të specialiteteve të ndryshme në disa institucione të administratës publike”.

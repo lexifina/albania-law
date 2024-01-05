@@ -1,0 +1,1 @@
+12. Të ardhurat e ASA-s për vitin 2023 trajtohen sipas përcaktimeve të kuadrit ligjor për arsimin e lartë, duke u mbartur dhe në vitin 2024, dhe përdoren me vendim të Kryesisë së Akademisë së Shkencave të Republikës së Shqipërisë, për njësitë përgjegjëse të përcaktuara në këtë vendim.

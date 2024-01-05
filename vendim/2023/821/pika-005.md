@@ -1,0 +1,1 @@
+5. Njësitë e kërkim-studimit të përcaktuara në pikën 1, të këtij vendimi, kanë buxhetin e tyre si zë më vete në buxhetin vjetor të Akademisë, i cili detajohet për shpenzimet e personelit dhe shpenzimet e tjera korrente me vendim të Kryesisë së Akademisë. Procedurat për çeljen e buxhetit të tyre përcaktohen në udhëzimin vjetor të zbatimit të buxhetit.
