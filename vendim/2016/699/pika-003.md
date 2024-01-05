@@ -4,4 +4,4 @@
 - kullotë, me sipërfaqe 19 639 (nëntëmbëdhjetë mijë e gjashtëqind e tridhjetë e nëntë) m2, me vlerë 3 948 628 (tre milionë e nëntëqind e dyzet e tetë mijë e gjashtëqind e njëzet e tetë) lekë;
 - pyll, me sipërfaqe 4 187 (katër mijë e njëqind e tetëdhjetë e shtatë) m2, me vlerë 690 855 (gjashtëqind e nëntëdhjetë mijë e tetëqind e pesëdhjetë e pesë) lekë;
 - drurë frutorë, me vlerë 6 732 500 (gjashtë milionë e shtatëqind e tridhjetë e dy mijë e pesëqind) lekë;
-- ullishte, me sipërfaqe 5 016 (pesë mijë e gjashtëmbëdhjetë) m2, me vlerë 1 023 264 (një milion e njëzet e tre mijë e dyqind e gjashtëdhjetë e katër) lekë.
+- ullishte, me sipërfaqe 6 536 (gjashtë mijë e pesëqind e tridhjetë e gjashtë) m2, me vlerë 1 176 264 (një milion e njëqind e shtatëdhjetë e gjashtë mijë e dyqind e gjashtëdhjetë e katër) lekë.

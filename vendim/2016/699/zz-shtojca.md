@@ -33,17 +33,17 @@ PYLL
 (m²)
 (lekë)
 1
-VERO
-HARAPAJ
+Vero
+Selim
+Harapaj
 2074
 160/20
-ULLISHTE
-4200.0
-1520
-204
-310,080
-BASHKIA VLORË
-Konfirmuar nga A.SH.K. Vlorë
+Ullishte
+153,000
+4200
+153,000
+Bashkia Vlorë
+Konfirmuar nga ASHK Vlorë. Shpronësuar me VKM-në nr. 38, datë 22.1.2020, për 1520 m². Vlerësimi për pasurinë e llojit “ullishte”, është bërë me procesverbal në bazë të udhëzimit nr. 1, datë 5.10.2000, “Për kriteret teknike të përllogaritjes së vlerës së bimëve drufrutore që shpronësohen për interes publik, në rastet kur mungojnë treguesit e deklaruar të shitblerjes”.
 2
 VIKTOR
 BESHAJ
