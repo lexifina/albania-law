@@ -2,7 +2,7 @@
 a) ministrin e Brendshëm;
 b) ministrin e Mbrojtjes;
 c) ministrin e Financave dhe Ekonomisë;
-ç) ministrin e Arsimit, Sportit dhe Rinisë;
+ç) ministrin e Arsimit dhe Sportit;
 d) ministrin e Shëndetësisë dhe Mbrojtjes Sociale;
 dh) ministrin e Turizmit dhe Mjedisit.
 Sipas nevojave ftohen të marrin pjesë përfaqësues të institucioneve të tjera me kërkesë të kryetarit të Task-Forcës.
