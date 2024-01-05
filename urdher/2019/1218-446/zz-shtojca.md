@@ -446,6 +446,7 @@ k) Inspektorët/specialist të KSHP-së, KSHF-së gjatë kryerjes së inspektime
 l) Kapitenët e Porteve, Inspektorët e Kapitanerisë së Porteve dhe Inspektorët/Specialistët e QNOD-së gjatë orarit të punës duhet të jenë të veshur me uniformën përkatëse, ndërsa në festat ceremoniale duhet të veshin uniformën ceremoniale;
 m) Karakteristikat e veshjes dhe shenjat dalluese të kapitenëve, inspektorëve të kapitanerive, përgjegjësve të sektorëve dhe inspektorët/specialist të KSHP-së, KSHF-së dhe QNOD-se janë të përshkruara në shtojcën nr. 2;
 n) Nëpunësit të mbajnë përgjegjësi të plotë për ligjshmërinë e veprimeve të tyre gjatë kryerjes së detyrës dhe kur nuk janë të bindur për ligjshmërinë e urdhrave dhe vendimeve që zbatojnë, duhet të informojnë menjëherë organet ose nivelet urdhërdhënëse, si dhe organet ose nivelet eprore të këtyre të fundit. Nëpunësi nuk është i detyruar të zbatojë një urdhër të paligjshëm.
+o) Normativat e personelit të Sektorit të Kontrollit Shtetëror të Flamurit dhe Sektorit të Kontrollit Shtetëror Portual, në Drejtorinë e Përgjithshme Detare, janë sipas lidhjes nr. 3, bashkëlidhur këtij urdhri dhe pjesë përbërëse e tij.
 KREU V
 DISPOZITAT E FUNDIT
 Neni 39
@@ -530,3 +531,85 @@ VI. Të tjera
 - Mushama kundër shiut-ngjyra e kuqe
 - Elektrik dore me bateri
 - Çantë për mbajtje dokumentesh- materiali lëkurë
+Shtojca nr. 3
+Normativat e uniformave të personelit të Sektorit të Kontrollit Shtetëror të Flamurit dhe Sektorit të Kontrollit Shtetëror Portual, në Drejtorinë e Përgjithshme Detare
+Nr.
+Emërtimi i materialit
+Njësia
+Sasia
+Afati në vite
+1
+Pantallona pune
+palë
+1
+1
+2
+Xhaketë pune
+copë
+1
+1
+3
+Kominoshe pune
+copë
+2
+1
+4
+Këpucë pune 1/2 me qafë (safety shoes)
+copë
+1
+1
+5
+Bluza dimërore
+copë
+2
+1
+6
+Bluza verore
+copë
+2
+1
+7
+Kokore plastike
+copë
+1
+3
+8
+Doreza pune
+copë
+3
+1
+9
+Kufje antizhurmë
+copë
+1
+2
+10
+Jelek flourishent
+copë
+2
+1
+11
+Çekiç metalik
+copë
+1
+5
+12
+Mushama shiu
+copë
+1
+1
+13
+Elektrik dore
+copë
+1
+3
+14
+Çantë materiali lëkure
+copë
+1
+3
+15
+Shenja dalluese
+copë
+1
+1
