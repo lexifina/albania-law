@@ -1,0 +1,1 @@
+1. Autorizimin e Ministrisë së Arsimit dhe Sportit për dhënien e bursave nxënësve të institucionit arsimor të mesëm të orientuar “Peter Mahringer”, Shkodër, në zbatim të marrëveshjes së ratifikuar me ligjin nr. 9522, datë 25.4.2006, dhe protokollit përkatës.
