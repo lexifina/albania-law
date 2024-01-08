@@ -1,1 +1,0 @@
-2. Miratimin e rregullores “Për mbrojtjen, konservimin e integruar dhe administrimin e “Qendrës Historike” dhe zonës së mbrojtur të qytetit të Beratit”, e cila i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
