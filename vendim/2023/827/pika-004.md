@@ -1,0 +1,1 @@
+4. Vendimi nr. 767, datë 12.11.2014, i Këshillit të Ministrave, “Për shpalljen ’Qendër historike’ të një zone në qytetin-muze të Beratit dhe miratimin e rregullores ’Për mbrojtjen, konservimin e integruar, administrimin e ’Qendrës historike’ dhe zonës së mbrojtur të qytetit të Beratit’”, shfuqizohet.

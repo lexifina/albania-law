@@ -1,0 +1,1 @@
+1. Deklarimin si pasuri kulturore e paluajtshme “Qendër historike” të një zone në qytetin-muze të Beratit, sipas koordinatave dhe hartave të zonifikimit në Kornizën Referuese Gjeodezike Shqiptare (në vijim, KRGJSH), që i bashkëlidhet këtij vendimi.
