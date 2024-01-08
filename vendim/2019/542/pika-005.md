@@ -1,1 +1,0 @@
-5.Vendimi nr. 922, datë 19.12.2007, i Këshillit të Ministrave, “Për sigurimin e informacionit të klasifikuar “Sekret shtetëror” që prodhohet, ruhet, përpunohet apo transmetohet në sistemet e komunikimit (INFOSEC)”, shfuqizohet.
