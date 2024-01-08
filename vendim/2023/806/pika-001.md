@@ -1,0 +1,1 @@
+1. Miratimin e listës së mallrave, që nuk kanë përdorim tjetër përveç qëllimit të dënimit me vdekje, torturës ose dënime apo trajtime mizore, çnjerëzore ose poshtëruese, sipas shtojcës nr. 1, që i bashkëlidhet këtij vendimi, të cilat janë objekt i kontrollit shtetëror të transferimeve ndërkombëtare.
