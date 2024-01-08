@@ -1,0 +1,1 @@
+3. DSHPA-ja ka si mision të garantojë menaxhimin e infrastrukturës së peshkimit dhe të lidhur me peshkimin, aktivitetet e kontrollit, inspektimit, monitorimit të hapësirës detare dhe grumbullimin e të dhënave në fushën e peshkimit e të akuakulturës.

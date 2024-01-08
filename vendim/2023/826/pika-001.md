@@ -1,0 +1,1 @@
+1. Organizimin dhe funksionimin e Drejtorisë së Shërbimeve të Peshkimit dhe Akuakulturës (në vijim DSHPA), si person juridik, publik, buxhetor, në varësi të ministrit përgjegjës për peshkimin (në vijim ministri), me seli në Tiranë.

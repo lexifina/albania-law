@@ -1,0 +1,1 @@
+5. Marrëdhëniet e punës së drejtorit dhe nëpunësve të tjerë rregullohen në bazë të dispozitave të legjislacionit për nëpunësin civil, ndërsa marrëdhëniet e punës së punonjësve administrativë rregullohen sipas dispozitave të Kodit të Punës.
