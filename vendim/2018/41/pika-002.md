@@ -22,10 +22,10 @@ iii. parashikon në mënyrë të detajuar rregullat e organizimit e të funksion
 iv. parashikon në mënyrë të detajuar administrimin e të dhënave të çdo doktoranti lidhur me veprimtarinë kërkimore-shkencore e krijuese të tij dhe detyrimin për raportimin e vlerësimit të progresit të doktorantit.
 2.1 Kreditet sipas ECTS-së
 a) Krediti i formimit të arsimit të lartë i referohet ECTS-së dhe shpreh volumin e punës mësimore për arritjen e rezultateve të pritshme mësimore.
-b) Një krediti i korrespondojnë 25 (njëzet e pesë) orë mësimore pune të studentit.
-c) Sasia mesatare e punës së kryer gjatë një viti studimesh në arsimin e lartë, nga një student me kohë të plotë, është 60 (gjashtëdhjetë) kredite ose 1 500 (një mijë e pesëqind) orë mësimore pune të studentit, të cilat përfshijnë orë në auditor dhe orë pune të pavarur të tij.
-ç) Orët për punë të pavarur të studentit zënë jo më pak se gjysmën e fondit të përgjithshëm të 1 500 (një mijë e pesëqind) orëve mësimore vjetore.
-d) Ngarkesa mësimore javore në auditor, për leksione, seminare, ushtrime e laboratorë, forma të kontrollit të vazhdueshëm dhe seanca të praktikave të zhvilluara në auditor, është deri në 25 (njëzet e pesë) orë mësimore 50-minutëshe.
+b) Një krediti i korrespondojnë 25 (njëzet e pesë) deri në 30 (tridhjetë) orë mësimore pune të studentit;
+c) Sasia mesatare e punës së kryer gjatë një viti studimesh në arsimin e lartë nga një student me kohë të plotë është 60 (gjashtëdhjetë) kredite ose 1 500 (një mijë e pesëqind) deri në 1 800 (një mijë e tetëqind) orë mësimore pune të studentit, të cilat përfshijnë orë në auditor dhe orë pune të pavarur të tij;
+ç) Orët për punë të pavarur të studentit zënë jo më pak se gjysmën e fondit të përgjithshëm të orëve mësimore vjetore, përveç programeve të studimit në “Mjekësi e përgjithshme”, “Infermieri”, “Stomatologji” dhe “Mami”, për të cilat fondi i përgjithshëm i orëve mësimore përcaktohet duke marrë në konsideratë orët minimale mësimore të formimit teorik dhe atij praktik, sipas shtojcës nr. 4, tabela 4.2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij;
+d) Ngarkesa mësimore javore në auditor për leksione, seminare, ushtrime e laboratorë, forma të kontrollit të vazhdueshëm dhe seanca të praktikave të zhvilluara në auditor është deri në 30 (tridhjetë) orë mësimore 50-minutëshe.
 dh) Kreditet korresponduese për çdo veprimtari formuese fitohen nga studentët vetëm për vlerësim pozitiv, në verifikimin përfundimtar të dijeve të fituara prej tyre. Për vlerësimin e dijeve të përfituara përdoren forma të ndryshme kontrolli, që kombinojnë vlerësimin e vazhdueshëm me atë përfundimtar (i cili mund të jetë provim, por jo vetëm).
 e) Njohja e plotë apo e pjesshme e krediteve të marra nga një student, me qëllim vazhdimin e studimeve në një program tjetër studimi në të njëjtin IAL, si dhe në të njëjtin apo një tjetër program studimi në një IAL tjetër, bëhet nga njësia bazë që pret studentin, sipas procedurave dhe kritereve të përcaktuara në rregulloren mësimore të institucionit.
 ë) IAL-të mund të njohin si kredite të formimeve universitare në një program të caktuar studimi, sipas kritereve të përcaktuara, njohuri dhe aftësi profesionale të certifikuara nga legjislacioni në fuqi, si dhe njohuri të veprimtarive formuese të nivelit pas shkollës së mesme, që janë në përputhje me objektivat specifikë të programit përkatës të studimit. Në këtë rast, numri maksimal i krediteve të njohura nuk i kalon 60 (gjashtëdhjetë) kredite për programet e studimit të ciklit të parë dhe 40 (dyzet) kredite për programet e studimit të ciklit të dytë.
@@ -43,6 +43,7 @@ iii) vlerësohen nëpërmjet procedurave të bazuara në kritere të qarta e tra
 c) rezultatet e të nxënit dhe kompetencat profesionale ndahen në:
 i) përcaktues/e, të cilët/të cilat janë të njëjtë/a për programet e studimit me të njëjtin emërtim, të ofruar nga institucione të ndryshme të arsimit të lartë.
 ii) specifikë/e, të cilët/ të cilat diferencojnë programet e studimit me të njëjtin emërtim, të ofruara nga IAL të ndryshme. Këta/o rezultate e kompetenca përcaktohen veçmas nga secili institucion ofrues i programit të studimi.
+ç) rezultatet e të nxënit dhe kompetencat për programet e studimit në “Mjekësi e përgjithshme”, “Infermieri”, “Stomatologji”, “Mami”, “Mjekësi veterinare”, “Farmaci” dhe “Arkitekturë” përcaktohen në përputhje me rezultatet e të nxënit dhe kompetencat minimale të parashikuara në shtojcën nr. 4, tabela 4.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
 2.4 Veprimtaritë formuese dhe komponentët mësimorë të programit të studimit.
 a) Veprimtaritë formuese, që karakterizojnë një program studimi, përbëhen nga komponentët mësimorë, të cilët ndahen në:
 i) mësim në auditor, si leksione, seminare, lëndë individuale artistike, ushtrime, laboratorë, forma të kontrollit të vazhdueshëm dhe seanca të praktikave profesionale, të zhvilluara në auditor;
@@ -66,6 +67,8 @@ ii. për programet me karakter profesional përcaktohen në shtojcën nr. 1, tab
 c) Veprimtaritë formuese mund të jenë:
 i) të detyrueshme;
 ii) të zgjedhura nga vetë studentët, ndërmjet atyre të ofruara nga institucioni, dhe koherente me programin e studimit, të realizuara këto gjatë viteve akademike të programit të studimit.
+ç) Programet e studimit “Mjekësi e përgjithshme”, “Infermieri”, “Stomatologji”, “Mami”, “Mjekësi veterinare”, “Farmaci” dhe “Arkitekturë” hartohen nga IAL-të në përputhje me veprimtaritë formuese minimale, të përcaktuara në shtojcën nr. 4, tabela 4.2.
+d) Veprimtaritë formuese grupohen nga institucioni i arsimi të lartë që ofron program studimi të formimit të vazhduar, në bazë të numrit të krediteve të atij programi, si dhe duke iu referuar përcaktimeve në Kornizën Shqiptare të Kualifikimeve gjatë përshkrimit të kualifikimeve individuale, për sa u përket njohurive, aftësive dhe kompetencave të fituara me përfundimin e studimeve.
 2.6 Plani mësimor
 Në planin mësimor të çdo programi studimi përcaktohen:
 i) lëndët e programit të studimit, të ndara sipas kategorive të veprimtarive formuese, si dhe në vite e semestra;
@@ -90,3 +93,4 @@ c) Studimet e doktoratës kanë një kod etike të dedikuar, që specifikon stan
 2.12 Shfuqizuar.
 2.13. Specializimet afatgjata
 Programet e studimeve specializuese afatgjata janë programe të formimit profesional, që ofrojnë njohuri për profesione të veçanta. Elementet e këtyre programeve, sipas fushave, përcaktohen me udhëzim të ministrit përgjegjës për arsimin.
+2.14 Përshtatja nga IAL-të e programeve të studimit “Mjekësi e përgjithshme”, “Infermieri”, “Stomatologji”, “Mami”, “Mjekësi veterinare”, “Farmaci” dhe “Arkitekturë” me orët minimale të formimit, veprimtaritë formuese, rezultatet e të nxënit dhe kompetencat profesionale minimale të parashikuara në shtojcën nr. 4, kryhet jo më vonë se viti akademik 2027-2028.
