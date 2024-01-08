@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor të Komisionit të Pavarur të Kualifikimit, te Sekretari i Përgjithshëm i institucionit, z. Edmond Verçani, për nisjen dhe zhvillimin e procedurave të prokurimit për blerjet me vlera të vogla apo direkte, si dhe veprimet me degën e Thesarit Tiranë për këto prokurime.
