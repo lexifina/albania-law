@@ -1,0 +1,1 @@
+3. Vendimi nr. 542, datë 25.7.2019, i Këshillit të Ministrave, “Për miratimin e rregullores ’Për sigurimin e informacionit të klasifikuar që trajtohet në sistemet e komunikimit dhe të informacionit (SKI)’”, shfuqizohet.

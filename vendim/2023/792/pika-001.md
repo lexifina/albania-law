@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e rregullave dhe të procedurave për sigurinë e informacionit të klasifikuar, që trajtohet në sistemet e komunikimit dhe informacionit (SKI)”, sipas tekstit që i bashkëlidhet këtij vendimi.
