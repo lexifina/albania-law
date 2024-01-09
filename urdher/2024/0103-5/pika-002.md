@@ -1,0 +1,1 @@
+2. Kompetencat e deleguara të titullarit të Autoritetit Kontraktor të Drejtorisë së Përgjithshme të Arkivave do të ushtrohen për periudhën nga hyrja në fuqi e këtij urdhri deri në datën 31 dhjetor 2024.
