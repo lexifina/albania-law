@@ -1,0 +1,1 @@
+1. Miratimin e planit të veprimit për zbatimin e rezolutës 1325 të Këshillit të Sigurimit të Organizatës së Kombeve të Bashkuara “Për gruan, paqen dhe sigurinë” 2023-2027, në Republikën e Shqipërisë, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
