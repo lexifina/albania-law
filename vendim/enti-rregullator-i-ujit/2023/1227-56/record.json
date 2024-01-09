@@ -1,0 +1,28 @@
+{
+  "qbz_id": 27297,
+  "title": "Për licencimin e shoqërisë rajonale Ujësjellës-Kanalizime Shkodër sh.a.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "56",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2023-12-27",
+  "published": "2024-01-09",
+  "in_force": "2024-01-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/00ee7c57e5ae5683ad043369d5e9e0c8d33c61867ba94e6c59502bed0aa8f641.docx",
+  "source_sha256": "00ee7c57e5ae5683ad043369d5e9e0c8d33c61867ba94e6c59502bed0aa8f641",
+  "official_record": "https://qbz.gov.al/api/v1/acts/27297",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/12/27/56",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    27735
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
