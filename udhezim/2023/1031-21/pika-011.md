@@ -1,0 +1,1 @@
+11. Në rastin e vajit të ullirit të ambalazhuar, me përjashtim të rasteve kur mostra është marrë më pak se 2 muaj para datës së skadencës, nëse rezultatet e analizave nuk përputhen me karakteristikat e kategorisë së deklaruar, operatori nga i cili është marrë mostra duhet të njoftohet jo më vonë se 1 muaj përpara datës së skadencës së vajit.

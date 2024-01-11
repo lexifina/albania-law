@@ -1,0 +1,1 @@
+4. Mostra për kontrollin e përputhshmërisë së vajit të ullirit me kategorinë e deklaruar, merret në përputhje me standardet SSH EN ISO 5555 “Për marrjen e mostrave” dhe SSH EN ISO 661 “Për përgatitjen e mostrave”. Për partitë e prodhimit të vajit të ullirit të ambalazhuar marrja e mostrës kryhet në përputhje me aneksin 1, bashkëlidhur këtij udhëzimi.

@@ -1,0 +1,1 @@
+5. Pa cenuar standardet SSH EN ISO 5555 dhe SSH EN ISO 661, mostra vendoset sa më shpejt në një vend të errët, larg nxehtësisë dhe dërgohet në laborator për analizim, brenda 5 ditë pune nga momenti i marrjes, në të kundërt duhet të ruhet në kushte të tilla që të mos degradojë ose dëmtohet gjatë transportit ose ruajtjes, përpara se të dërgohet në laborator.

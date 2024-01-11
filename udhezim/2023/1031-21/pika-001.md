@@ -1,0 +1,1 @@
+1. Përcaktimin e metodave të analizimit të karakteristikave të cilësisë dhe kritereve të natyrshmërisë së vajit të ullirit, të përcaktuara në legjislacionin në fuqi për karakteristikat e cilësisë dhe kriteret e natyrshmërisë së vajit të ullirit dhe vajit të bërsive të ullirit.

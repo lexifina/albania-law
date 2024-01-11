@@ -1,0 +1,1 @@
+13. Vlerësimi i karakteristikave organoshqisore të vajit të ullirit të virgjër, të përcaktuara në legjislacionin në fuqi, për përcaktimin e karakteristikave të cilësisë dhe kriteret e natyrshmërisë së vajit të ullirit dhe vajit të bërsive të ullirit, kryhet nga komisioni i degustimit/panel testi, i miratuar sipas legjislacionit në fuqi.

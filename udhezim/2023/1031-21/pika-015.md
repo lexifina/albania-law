@@ -1,0 +1,1 @@
+15. Kur panel testi vlerëson që mostra nuk është në përputhje me kategorinë e deklaruar për karakteristikat organoshqisore, me kërkesë të operatorit, institucioni përgjegjës për kontrollin zyrtar të ushqimit dhe ushqimit për kafshë, e dërgon mostrën në dy komisione degustimi/panel teste të tjera të miratuara sipas legjislacionit në fuqi, për të kryer rianalizimin.
