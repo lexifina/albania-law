@@ -1,1 +1,0 @@
-3. Të gjitha projektet e veprave të ndërtimit, të përmendura në pikën 1 të këtij vendimi, nuk mund të miratohen nga organet kompetente pa kryerjen e oponencës teknike. Oponenca teknike është pjesë e dokumentacionit teknik të projektit.

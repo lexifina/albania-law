@@ -1,1 +1,0 @@
-1. Për të gjitha projektet e veprave të ndërtimit, që realizohen në territorin e Republikës së Shqipërisë nga subjekte fizike dhe juridike, vendas ose të huaj, për të cilat vlera e preventivuar e punimeve të ndërtimit është jo më pak se 100 000 000 (njëqind milionë) lekë, të bëhet oponencë teknike.
