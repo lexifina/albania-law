@@ -1,0 +1,7 @@
+# Neni 8
+1. Shpërndarja dhe furnizimi me gaz natyror për klientët në nevojë të gazit natyror mund të pezullohet apo të ndërpritet sipas termave dhe kushteve të miratuara nga ERE, në përputhje me ligjin nr. 102/2015, “Për sektorin e gazit natyror”, të ndryshuar.
+2. Pavarësisht pikës 1, të këtij neni, shpërndarja dhe furnizimi me gaz natyror për klientët në nevojë të gazit natyror nuk mund të pezullohet apo të ndërpritet në rastet e mëposhtme:
+a) Kur një klient në nevojë i gazit natyror nuk paguan plotësisht ose pjesërisht për shpërndarjen ose furnizimin me gaz natyror sipas kërkesave të kontratës përkatëse dhe për sa kohë që borxhi i tij/saj ndaj operatorit të sistemit të shpërndarjes ose furnitorit që ka detyrimin e shërbimit publik nuk kalon 1 (një) nivel minimal të ardhurash; ose
+b) Gjatë fundjavës dhe gjatë ditëve të festave zyrtare, si dhe në raste të kushteve kritike të motit, kur temperatura mesatare ditore është më e ulët se -10 (minus dhjetë) gradë celsius.
+3. Shkronjat “a” dhe “b”, të pikës 2, të këtij neni, nuk zbatohen në rastet kur shpërndarja dhe furnizimi me gaz natyror i një klienti në nevojë të gazit natyror pezullohet ose ndërpritet për shkak të masave të sigurisë për sigurimin e furnizimit të detyrueshëm, sipas termave dhe kushteve të përcaktuara në ligjin nr. 102/2015, “Për sektorin e gazit natyror”, të ndryshuar.
+4. Klienti në nevojë i gazit natyror informohet në lidhje me pezullimet apo ndërprerjen e shpërndarjes ose furnizimit me gaz natyror, sipas përcaktimeve të akteve ligjore në fuqi.

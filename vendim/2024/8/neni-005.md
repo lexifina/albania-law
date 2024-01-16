@@ -1,0 +1,29 @@
+# Neni 5
+1. Të gjithë klientët familjarë, që përmbushin kriteret e kualifikimit të përcaktuara në pikën 1, të nenit 4, të këtij vendimi, kanë të drejtën të aplikojnë nëpërmjet portalit “e-Albania” në njësinë administrative vendore që mbulon territorin ku klienti ka vendbanimin ose vendqëndrimin për marrjen e statusit të klientit në nevojë të gazit natyror.
+2. Kërkesa për statusin e klientit në nevojë të gazit natyror realizohet nëpërmjet portalit “e-Albania”, duke bashkëlidhur dokumentacionin që vërteton përmbushjen nga ana e klientit familjar të kritereve të kualifikimit, të përcaktuara në pikën 1, të nenit 4, të këtij vendimi.
+3. Lista shteruese e dokumentacionit për kategoritë e familjeve përfituese të ndihmës ekonomike dhe të fondit 6 % (gjashtë për qind), si dhe për familjet që kanë anëtarë “persona me aftësi të kufizuar” (PAK), sipas ligjit nr. 57/2019, datë 18.7.2019, “Për asistencën sociale në Republikën e Shqipërisë”, do të jenë:
+a) vërtetimi i Komisionit të Vlerësimit të Aftësisë së Kufizuar për personat me aftësi të kufizuar;
+b) vërtetimi i lëshuar nga bashkia për kategoritë e ndihmës ekonomike.
+4. Dokumentacioni shterues për kategoritë e familjeve përfituese pensionistë dhe invalidë të punës, sipas ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, do të jetë vërtetimi nga drejtoritë rajonale të Institutit të Sigurimeve Shoqërore ku ndodhet familja përfituese.
+5. Dokumentacioni shterues për kategoritë për kategoritë e të verbërve, që përfitojnë ndihmë sipas dispozitave të ligjit nr. 8098, datë 28.3.1996, “Për statusin e të verbrit.”, të ndryshuar, do të jetë vërtetimi i Komisionit Mjekësor të Përcaktimit të Verbërisë (KMPV) ose libreza për statusin e të verbrit, e lëshuar nga Shërbimi Social Shtetëror.
+6. Njësia administrative vendore, ku kërkuesi ka vendbanimin ose vendqëndrimin, shqyrton kërkesën dhe dokumentacionin e dorëzuar nga një klient familjar, jo më vonë se 10 (dhjetë) ditë pune pas marrjes së kërkesës dhe:
+a) konfirmon statusin e klientit në nevojë të gazit natyror, nëse klienti familjar përmbush kriteret e kualifikimit, të përcaktuara në pikën 1, të nenit 4, të këtij vendimi;
+b) refuzon kërkesën, nëse klienti familjar nuk përmbush kriteret e kualifikimit të përcaktuara në pikën 1, të nenit 4, të këtij vendimi; ose
+c) kërkon plotësimin e dokumentacionit nga klienti familjar, nëse kërkesa nuk është plotësuar sipas kërkesave ose nëse nuk dorëzohet i gjithë dokumentacioni i kërkuar, sikurse përcaktohet në shkronjat “a” dhe “b”, të pikës 3, të këtij neni, klienti në nevojë që brenda 10 (dhjetë) ditëve duhet të plotësojë dokumentacionin e munguar.
+7. Pa paragjykim, në lidhje me pikën 6, të këtij neni, statusi i klientit në nevojë të gazit natyror konfirmohet ose kërkesa refuzohet jo më vonë se 10 (dhjetë) ditë pune pas plotësimit të kërkesës pranë institucioneve përkatëse vendore, sipas kërkesave dhe të gjithë dokumentacionit të nevojshëm të përcaktuar në këtë vendim.
+8. Statusi i klientëve në nevojë të gazit natyror konfirmohet kur të gjitha konfirmimet përmbajnë, ndër të tjera, informacion në lidhje me trajtimin e veçantë që gëzon klienti familjar, si rrjedhojë e statusit të tij/saj si klient në nevojë i gazit natyror, sipas kushteve dhe termave të këtij vendimi.
+9. Kur kërkesa për statusin e klientit në nevojë refuzohet, refuzimit duhet të justifikohet dhe klientit familjar t’i jepet shpjegim me shkrim, si dhe nëpërmjet portalit “e-Albania”.
+10. Një klient familjar, të cilit i është dhënë statusi i klientit në nevojë të gazit natyror me konfirmim, kryen kërkesën pranë operatorit të sistemit të shpërndarjes që i shërben zonës përkatëse të shërbimit të shpërndarjes për përfshirjen e tij/saj në regjistrin e klientëve në nevojë nga pikëpamja shoqërore (në vijim regjistri).
+11. Regjistri hapet dhe mirëmbahet nga operatori i sistemit të shpërndarjes, sipas dispozitave të përcaktuara në ligjin nr. 102/2015, datë 23.9.2015, “Për sektorin e gazit natyror”, të ndryshuar, dhe përmban të paktën të dhënat e mëposhtme për secilin klient në nevojë të gazit natyror:
+a) emrin dhe mbiemrin;
+b) numrin personal të identifikimit;
+c) adresën e banesës së një familjeje të veçantë të furnizuar me gaz natyror;
+ç) numrin rendor, në të cilin është regjistruar në regjistër klienti në nevojë i gazit natyror;
+d) trajtimin e veçantë për shkak të statusit të klientit në nevojë të gazit natyror.
+12. Regjistri ruhet në format elektronik dhe aksesi në të është i kufizuar, i autorizuar nga operatori i sistemit të shpërndarjes dhe bazohet në llogari individuale hyrjeje të lëshuara për:
+a) furnitorin me detyrime të shërbimit publik - për akses në të dhënat e klientëve në nevojë që banojnë në zonën e shërbyer prej tij; dhe
+b) klientin në nevojë të gazit natyror - për akses në të dhënat e veta.
+13. Operatori i sistemit të shpërndarjes regjistron një klient familjar në regjistër, jo më vonë se 5 (pesë) ditë pune pas marrjes së kërkesës të tij/saj. Operatori i sistemit të shpërndarjes nuk ka të drejtë të refuzojë regjistrimin e klientit familjar në regjistër, nëse ky klient gëzon statusin e klientit në nevojë të gazit natyror, të konfirmuar nga zyra e njësisë administrative vendore, ku kërkuesi ka vendbanim ose vendqëndrim.
+14. Operatori i sistemit të shpërndarjes, jo më vonë se dita vijuese nga regjistrimi i klientit familjar në regjistër, njofton me shkrim:
+a) furnitorin që ka detyrimin e shërbimit publik, që i shërben një zone të caktuar të shërbimit të shpërndarjes dhe ofron të dhënat e klientit në nevojë të gazit natyror të regjistruara në regjistër; dhe
+b) klientin në nevojë të gazit natyror dhe i ofron atij/asaj informacionin e kontaktit të furnitorit që ka detyrimin e shërbimit publik, që shërben një zonë të caktuar të shërbimit të shpërndarjes së gazit natyror.
