@@ -1,5 +1,6 @@
 VENDIM
 Nr. 749, datë 19.12.2018
 PËR KRIJIMIN, ORGANIZIMIN DHE FUNKSIONIMIN E STRUKTURËS SHTETËRORE, PËRGJEGJËSE PËR ZHVILLIMIN E NEGOCIATAVE DHE LIDHJEN E TRAKTATIT TË ADERIMIT TË REPUBLIKËS SË SHQIPËRISË NË BASHKIMIN EVROPIAN
+( përditësuar)
 Në mbështetje të nenit 100 të Kushtetutës, me propozimin e ministrit për Evropën dhe Punët e Jashtme, Këshilli i Ministrave
 VENDOSI:

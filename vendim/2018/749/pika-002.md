@@ -16,6 +16,6 @@ III. KOMITETI SHTETËROR PËR INTEGRIMIN EVROPIAN
 1. Komiteti Shtetëror për Integrimin Evropian krijohet si organi më i lartë që siguron mbikëqyrjen e strukturës së negociatave dhe bashkërendimin e qëndrimit negociues për secilin kapitull të acquis, përpara miratimit nga Këshilli i Ministrave.
 2. Komiteti Shtetëror për Integrimin Evropian drejtohet nga Kryeministri dhe në të marrin pjesë:
 a) Kryetari i Delegacionit Shtetëror;
-b) Kryenegociatori;
+b) ministër i Shtetit dhe Kryenegociator;
 c) ministrat përgjegjës për çështjet e brendshme, të ekonomisë, financës dhe drejtësisë;
 ç) Sekretari i Përgjithshëm i Këshillit të Ministrave.

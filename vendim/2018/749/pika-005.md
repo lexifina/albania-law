@@ -1,1 +1,1 @@
-5. Komiteti Shtetëror për Integrimin Evropian vlerëson dhe bashkërendon qëndrimin negociues për secilin kapitull të acquis, të paraqitur nga Kryenegociatori, sipas përcaktimit në pikën 5, të kreut V, të këtij vendimi, me opinionin e Këshillit Kombëtar për Integrimin Evropian.
+5. Komiteti Shtetëror për Integrimin Evropian vlerëson dhe bashkërendon qëndrimin negociues për secilin kapitull të acquis, të paraqitur nga ministri i Shtetit dhe Kryenegociator, sipas përcaktimit në pikën 5, të kreut V, të këtij vendimi, me opinionin e Këshillit Kombëtar për Integrimin Evropian.

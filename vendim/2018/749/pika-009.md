@@ -1,4 +1,4 @@
-9. Në funksion të procesit të stabilizim-asociimit, grupet ndërinstitucionale të punës janë përgjegjëse për dorëzimin pranë ministrisë përgjegjëse për Evropën të kontributit:
+9. Në funksion të procesit të stabilizim-asociimit, grupet ndërinstitucionale të punës janë përgjegjëse për dorëzimin pranë ministrit të Shtetit dhe Kryenegociator të kontributit:
 a) në Planin Kombëtar të Integrimit Evropian;
 b) për raportin vjetor të Komisionit Evropian;
 c) për të gjitha raportet periodike në lidhje me procesin e stabilizim-asociimit;
