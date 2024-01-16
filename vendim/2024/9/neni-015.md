@@ -1,0 +1,4 @@
+# Neni 15
+Kontrolli i projekteve për mbrojtjen e higjienës, shëndetit dhe mjedisit
+1. Kontrolli i projektit të zbatimit ka të bëjë me përmbushjen e rregullave teknike, standardeve dhe legjislacionit në fuqi që ndikojnë në mbrojtjen e higjienës, shëndetit dhe mjedisit. Projekti i objektit duhet të kontrollohet nëse është projektuar në mënyrë të tillë që të mos përbëjë problem për higjienën ose shëndetin e njerëzve dhe kafshëve, të cilët kryejnë aktivitet në të ose përreth saj.
+2. Kontrolli i projektit konsiston nëse është dhënë ventilimi efektiv nga lagështia, çlirimi i gazeve të rrezikshme, lëshimi i grimcave në ajër, krijimi i tymrave dhe aromave të padëshirueshme, mbrojtja nga emetimi i valëve elektromagnetike në nivele të dëmshme nga rrezatimet, përfshirë atë radioaktiv, ndotja ose helmimi i ujit apo tokës dhe nga mbeturinat e lëngshme apo të ngurta, përfshirë edhe ujërat e zeza.
