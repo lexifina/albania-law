@@ -1,0 +1,1 @@
+1. Dërgimin me mision të 1 (një) anijeje të klasit “Iliria”, e përbërë nga 22 (njëzet e dy) ushtarakë të Forcave të Armatosura të Republikës së Shqipërisë, në operacionin e NATO-s “Aegean Sea”, në detin Egje.
