@@ -1,0 +1,8 @@
+# Neni 17
+Vendimi për kundërvajtjen administrative
+1. Drejtori i përgjithshëm, brenda 5 (pesë) ditëve nga paraqitja e propozimit të komisionit të shqyrtimit të kundërvajtjeve administrative, pasi vlerëson praktikën e inspektimit dhe propozimin e komisionit të shqyrtimit të kundërvajtjeve administrative, merr vendim për vendosjen e masës administrative ndaj subjektit apo pushimin e procedimit të kundërvajtjes administrative dhe njofton zyrtarisht subjektin.
+2. Vendimi për kundërvajtjen administrative, përveç të dhënave të institucionit që ka nxjerrë aktin, duhet të ketë të dhënat e kundërvajtësit, shpjegimin e përmbledhur të fakteve dhe të provave, ku mbështetet vendimi, shkeljen e tyre, duke referuar dispozitën ligjore ku mbështetet vendimi, masat administrative të dënimit me gjobë, cilësimin si titull ekzekutiv për masën e gjobës, si dhe të drejtat për ankimimin dhe afatet procedurale.
+3. Për caktimin e llojit dhe të masës administrative merren parasysh kriteret e vendosura në ligjin për parandalimin e pastrimit të parave dhe të financimit të terrorizmit dhe në ligjin për kundërvajtjet administrative.
+4. Vendimi për kundërvajtjen administrative, i vendosur nga AIF-ja përbën titull ekzekutiv dhe ekzekutimi i këtij vendimi bëhet në përputhje me legjislacionin në fuqi për kundërvajtjet administrative.
+5. Për njoftimin dhe afatet e njoftimit të vendimeve për kundërvajtjet administrative të nxjerra nga AIF-ja zbatohen dispozitat e parashikuara në Kodin e Procedurave Administrative.
+6. Kundër vendimit për kundërvajtjen administrative të marrë nga AIF-ja mund të bëhet ankim në gjykatën administrative brenda 45 (dyzet e pesë) ditëve nga data e njoftimit të vendimit.
