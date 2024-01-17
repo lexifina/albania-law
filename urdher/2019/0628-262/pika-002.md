@@ -1,1 +1,0 @@
-2. Urdhri i ministrit nr. 250, datë 12.9.2014 “Për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil, sipas parashikimeve të udhëzimit të ministrit nr. 3, datë 7.2.2011 “Për rregullat e përbashkëta në fushën e aviacionit civil” shfuqizohet.
