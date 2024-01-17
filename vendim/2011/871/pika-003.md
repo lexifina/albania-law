@@ -1,1 +1,0 @@
-3. Përfaqësuesit e subjektit, që inspektohet, vënë në dispozicion të grupit të inspektimit çdo regjistër, dokument apo material tjetër që ata gjykojnë të nevojshëm për përmbushjen e qëllimit të inspektimit.
