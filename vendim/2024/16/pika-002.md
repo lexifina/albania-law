@@ -1,0 +1,1 @@
+2. Ministri i Shtetit dhe Kryenegociator ngarkohet të bashkërendojë zbatimin e Planit Kombëtar për Integrimin Evropian 2024-2026 me ministrat dhe/ose drejtuesit e institucioneve përgjegjëse për kryesimin e grupeve ndërinstitucionale të punës për integrimin evropian (GNPIE), si dhe negociatorin përgjegjës të secilit kriter dhe/ose kapitull të acquis të Bashkimit Evropian.
