@@ -1,0 +1,1 @@
+3. Në rastin e fondit pyjor privat, kërkesa i drejtohet pronarit privat të pyllit, i cili, në përputhje me rregullat e përcaktuara në këtë vendim, ia përcjell kërkesën me shkrim bashkisë përkatëse, brenda kufijve territorialë administrativë të së cilës ndodhet fondi pyjor në pronësi private.

@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim të përcaktojë rregullat për përfitimet nga shfrytëzimi i shërbimeve të ekosistemit pyjor, kompensimi dhe pagesat, të cilat zbatohen nga ofruesit dhe përfituesit e këtyre shërbimeve.
