@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e rregullave të detajuara në lidhje me pranimin e certifikatave të pilotëve nga vendet e treta”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
