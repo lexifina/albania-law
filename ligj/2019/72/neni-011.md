@@ -6,6 +6,8 @@ b) ministria përgjegjëse për punët e brendshme dhe strukturat në varësi t�
 c) ministria përgjegjëse për financat dhe strukturat në varësi të saj, Banka e Shqipërisë, Autoriteti i Mbikëqyrjes Financiare, për masat shtrënguese me karakter financiar;
 ç) ministritë përgjegjëse për ekonominë, shkencën, kulturën, arsimin, bujqësinë, drejtësinë, transportet, energjetikën, infrastrukturën dhe strukturat në varësi të tyre, për masat shtrënguese me karakter ekonomik, shkencor, kulturor, arsimor;
 d) ministria përgjegjëse për mbrojtjen dhe strukturat në varësi të saj për masat me karakter ushtarak.
+dh) Agjencia Shtetërore e Kadastrës dhe strukturat në varësi të saj, për masat shtrënguese mbi pasuritë e paluajtshme;
+e) ministritë apo autoritetet përkatëse, për institucionet në varësi dhe për subjektet që licencojnë apo mbikëqyrin, që mbajnë ose administrojnë regjistra të fondeve dhe pasurive të tjera, për masat shtrënguese që lidhen me to.
 2. Organet përgjegjëse kryejnë këto detyra:
 a) marrin masa të menjëhershme për bllokimin e përkohshëm, sipas përcaktimeve të nenit 8 të këtij ligji;
 b) i propozojnë komitetit vendosjen, ndryshimin, shfuqizimin e masave shtrënguese me karakter të brendshëm;
@@ -14,6 +16,7 @@ c) marrin masa për zbatimin e vendimeve të Këshillit të Ministrave për vend
 d) nxjerrin udhëzime mbi zbatimin e vendimeve për strukturat e tyre të varësisë, që i licencojnë apo mbikëqyrin;
 dh) mbledhin dhe ruajnë të dhënat në regjistrat përkatës lidhur me vendosjen, zbatimin, ndryshimin dhe shfuqizimin e masave shtrënguese ndërkombëtare;
 e) vendosin dënimet administrative ndaj subjekteve që shkelin dispozitat e këtij ligji, sipas përcaktimeve të nenit 19 të këtij ligji.
+ë) njoftojnë menjëherë subjektet ndaj të cilave vendosen, ndryshojnë apo shfuqizohen masat shtrënguese ndërkombëtare.
 3. Ministria, përveç sa parashikohet në pikën 2, të këtij neni, ngarkohet edhe me:
 a) propozimin e vendosjes, të ndryshimit dhe shfuqizimit të masave shtrënguese ndërkombëtare pranë Këshillit të Ministrave;
 b) paraqitjen e raporteve për zbatimin e masave shtrënguese ndërkombëtare;
