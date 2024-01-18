@@ -1,0 +1,26 @@
+{
+  "qbz_id": 27233,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 72/2019, \"Për masat shtrënguese ndërkombëtare në Republikën e Shqipërisë\"",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "101",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2023-12-14",
+  "published": "2024-01-03",
+  "in_force": "2024-01-18",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/fa54769a2955e67cb972d41cefef599078656e2acc2f6a5d44120813eac27026.docx",
+  "source_sha256": "fa54769a2955e67cb972d41cefef599078656e2acc2f6a5d44120813eac27026",
+  "official_record": "https://qbz.gov.al/api/v1/acts/27233",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2023/12/14/101",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
