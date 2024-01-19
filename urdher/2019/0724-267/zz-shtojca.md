@@ -34,54 +34,58 @@ Procedura e kategorizimit të strukturave akomoduese
 1. Procedura e kategorizimit të strukturave akomoduese u nënshtrohet tri fazave:
 a) faza e parë përfshin procesin e vetëdeklarimit të sipërmarrësit turistik, i cili konsiston në plotësimin e formularit të aplikimit në portalin e-Albania dhe ngarkimit të dokumentacionit shoqërues, të parashikuar në nenin 6 të kësaj rregulloreje;
 b) faza e dytë përfshin procesin e shqyrtimit nga ana e Komisionit të Standardizimit të Veprimtarive Turistike të dokumentacionit të dorëzuar nga sipërmarrësi turistik, sipas përcaktimeve të bëra në nenin 7;
-c) faza e tretë përfshin verifikimin në terren, rast pas rasti, të të dhënave të vetëdeklarimit nga një grup pune ngritur me urdhër të ministrit, nëse komisioni i standardizimit e kërkon këtë proces.
+c) Faza e tretë përfshin verifikimin në terren, rast pas rasti, të të dhënave të vetëdeklarimit nga inspektorati përgjegjës i turizmit, nëse Komisioni i Standardizimit e kërkon këtë proces.
 Neni 5
 Procesi i vetëdeklarimit për kategorizimin e strukturës akomoduese
 1. Sipërmarrësi turistik, që ushtron veprimtarinë si strukturë akomoduese, duhet të aplikojë online në portalin e-Albania duke plotësuar formularin e aplikimit dhe dokumentacionin përkatës, të përcaktuar në nenin 6 të kësaj rregulloreje.
 Formulari i vetëdeklarimit shkarkohet nga faqja zyrtare e Ministrisë së Turizmit dhe Mjedisit: turizmi.gov.al, në menunë “Turizmi/Udhëzues për qytetarët”.
 2. Sipërmarrësi turistik mban përgjegjësi për vërtetësinë e të dhënave të deklaruara, të cilat janë objekt i verifikimit, sipas rregullave të parashikuara në këtë rregullore.
 Neni 6
-Dokumentacioni i aplikimit për pajisjen me certifikatë kategorizimi
-Subjekti plotëson formularin e aplikimit në portalin e-Albania dhe ngarkon dokumentacionin e mëposhtëm:
-a) akti i pronësisë ose përdorimit të strukturës;
-b) vërtetim për regjistrimin në Qendrën Kombëtare të Biznesit si person fizik/juridik me objekt veprimtarie si strukturë akomoduese;
-c) planimetrinë e strukturës akomoduese;
-ç) vërtetimin që struktura plotëson kushtet për masat e mbrojtjes nga zjarri lëshuar nga Drejtoria e Përgjithshme e Mbrojtjes nga Zjarri dhe Shpëtimi;
-d) vërtetimin që struktura plotëson kushtet higjeno-sanitare, lëshuar nga Instituti i Shëndetit Publik;
-dh) vërtetim i gjendjes gjyqësore të pronarit/administratorit (dëshmi penaliteti).
-ë) foto të brendshme dhe të jashtme të objektit;
+Dokumentet e aplikimit për pajisje me certifikatë kategorizimi
+1. Dokumentacioni që duhet të paraqesë subjekti:
+a) Certifikata e përdorimit të ndërtimit lëshuar nga organi kompetent ose një nga dokumentet më poshtë:
+i. certifikata e pronësisë;
+ii. kartela e pasurisë;
+iii. kontrata e qirasë ose e përdorimit me pronarin e ndërtesës;
+b) Planimetria e strukturës akomoduese;
+c) Foto të ambienteve brenda dhe të jashtme të strukturës.
+2. Ministria e Turizmit dhe Mjedisit siguron nëpërmjet portalit e-Albania dokumentacionin si vijon:
+a) Vërtetim për regjistrim në Qendrën Kombëtare të Biznesit si person fizik/juridik me objekt veprimtarie si strukturë akomoduese;
+b) Vërtetim i gjendjes gjyqësore të Subjektit aplikues/aksionarit kryesor; pronarit/administratorit;
+c) Vërtetimi që struktura plotëson kushtet për masat e mbrojtjes nga zjarri lëshuar nga Drejtoria e Përgjithshme e Mbrojtjes nga Zjarri;
+d) Vërtetim që struktura plotëson kushtet higjieno-sanitare, lëshuar nga Instituti i Shëndetit Publik.
 Neni 7
 Procedura e shqyrtimit të dokumentacionit për kategorizimin e strukturave akomoduese
-(zëvëndësuar togëfjalësh në pikën 1 dhe 4 me urdhrin nr. 157, datë 22.4.2022)
-1. Komisioni i standardizimit, brenda 45 ditëve nga data e e plotësimit të formularit të aplikimit, dokumentacionit të parashikuar në nenin 6 të kësaj rregulloreje dhe raportit përmbledhës, rast pas rasti, të grupit të punës, shqyrton dhe vlerëson dokumentet dhe të dhënat për përmbushjen e kritereve të kërkuara për kategorizimin e strukturës akomoduese.
-2. Komisioni i standardizimit, në rast të konstatimit të mangësive të dokumentacionit të dorëzuar nga ana e subjektit, njofton brenda 10 ditëve nga data e aplikimit subjektin për plotësimin e dokumentacionit.
-3. Sipërmarrësi turistik duhet të plotësojë dokumentacionin brenda 5 ditëve nga dita e njoftimit për mangësitë e konstatuara.
-4. Në rast se komisioni i standardizimit, gjatë shqyrtimit të formularit të aplikimit dhe dokumentacionit shoqërues konstaton parregullsi apo lindin dyshime të arsyeshme për të dhënat e deklaruara, si dhe për përmbajtjen e dokumentacionit, i kërkon grupit të punës verifikimin në terren të të dhënave. Komisioni i standardizimit, nëpërmjet sekretarisë, njofton subjektin dhe grupin e verifikimit, si dhe koordinon vizitën në terren.
-5. Grupi i punës, i ngritur me urdhër ministri, verifikon në terren parregullsitë e konstatuara nga komisioni i standardizimit dhe kriteret e detyrueshme për nivelin më të ulët të klasifikimit, të përcaktuara në VKM-në nr. 730, datë 20.10.2016, “Për miratimin e rregullores për kushtet, kriteret, tarifat, afatet dhe procedurën për klasifikimin e strukturave akomoduese”, të ndryshuar.
-6. Grupi i punës i paraqet Komisionit të Standardizimit të Veprimtarive Turistike raportin përmbledhës të gjetjeve të konstatuara, brenda 5 ditëve nga dita e autorizimit të verifikimit.
-7. Afati i parashikuar në pikën 1 të këtij neni, mund të shtyhet, në mënyrë të arsyetuar, por jo më shumë se 60 ditë, duke i dërguar sipërmarrësit turistik një njoftim me shkrim, jo më vonë se përfundimi i afatit të parashikuar në pikën 1 të këtij neni.
-8. Në përfundim të procesit të shqyrtimit dhe vlerësimit, komisioni i standardizimit merr vendim për lëshimin ose jo të certifikatës së kategorizimit të strukturës akomoduese dhe ia përcjell për miratim ministrit.
+(zëvëndësuar togëfjalësh në pikën 1 dhe 4 me urdhrin nr. 157, datë 22.4.2022; ndryshuar me urdhrin nr. 19, datë 15.1.2024)
+1. Komisioni i Standardizimit brenda 10 ditëve nga data e depozitimit të aplikimit për pajisje me certifikatë kategorizimi në portalin e-Albania, shqyrton dhe vlerëson aplikimin në përmbushjen e kritereve për kategorizimin e strukturave akomoduese.
+2. Komisioni i Standardizimit, në rast të konstatimit të mangësive, njofton brenda 2 ditëve nga data e shqyrtimit të aplikimit, aplikuesin për plotësimin e dokumentacionit.
+3. Aplikuesi duhet të plotësojë dokumentacionin brenda 10 ditëve nga data e njoftimit për mangësitë e konstatuara.
+4. Në rast se Komisioni i Standardizimit gjatë shqyrtimit të aplikimit konstaton parregullsi apo lindin dyshime të arsyeshme për të dhënat e deklaruara, i kërkon inspektoratit përgjegjës të turizmit verifikimin në terren të të dhënave. Komisioni i Standardizimit nëpërmjet sekretarisë teknike, njofton aplikuesin dhe koordinon vizitën në terren.
+5. Inspektorati përgjegjës i turizmit i paraqet Komisionit të Standardizimit raportin e gjetjeve të konstatuara në terren, brenda 5 ditëve nga dita e vizitës në terren.
+6. Afati i parashikuar në pikën 1 mund të shtyhet, në mënyrë të arsyetuar, por jo më shumë se 30 ditë, duke i dërguar aplikuesit njoftimin në sistemin e-Albania, jo më vonë se përfundimi i afatit i parashikuar në pikë 1 të këtij neni.
+7. Në përfundim të procesit të shqyrtimit dhe të vlerësimit, Komisioni i Standardizimit merr vendim për lëshimin ose jo të certifikatës së kategorizimit të strukturës akomoduese dhe e përcjell për miratim pranë ministrit.
 Neni 8
 Certifikata e kategorizimit të strukturës akomoduese
-1. Certifikata e kategorizimit përmban:
-a) emrin e subjektit dhe emrin tregtar;
-b) NIPT-in;
-c) emërtesën e strukturës akomoduese;
-ç) adresën e strukturës akomoduese;
-d) kategorinë;
-dh) datën e lëshimit të certifikatës së kategorizimit;
-e) nënshkrimin e ministrit.
-2. Certifikata e kategorizimit, miratuar nga ministri, sipas formatit dhe modelit, shtojca 1, bashkëngjitur kësaj rregulloreje, është tregues i llojit të strukturës akomoduese dhe afishohet në recepsionin apo zonën e pritjes së strukturës akomoduese.
-3. Lloji i kategorisë së strukturës akomoduese vendoset në hyrjen kryesore (fasadën) e strukturës akomoduese, sipas certifikimit të kryer nga ministria përgjegjëse për turizmin.
-4. Certifikata e kategorizimit të strukturës akomoduese regjistrohet, në Regjistrin Qendror të Turizmit, që administrohet nga struktura përgjegjëse pranë ministrisë përgjegjëse për turizmin.
+1. Certifikata e kategorizimit të strukturës akomoduese përmban:
+a) Emërtesën e strukturës akomoduese;
+b) Adresën e strukturës akomoduese;
+c) Kategorinë;
+d) Datën e lëshimit të certifikatës së kategorizimit;
+e) Nënshkrimin e ministrit ose të personit të autorizuar prej tij.
+2. Certifikata e kategorizimit gjenerohet online në sistemin e-Albania.
+3. Certifikata e kategorizimit, sipas formatit dhe modelit, shtojca 1, bashkëlidhur kësaj rregulloreje është tregues i llojit të strukturës akomoduese dhe afishohet në recepsion/zonën e pritjes së strukturës akomoduese.
+4. Lloji i kategorisë së strukturës akomoduese, sipas certifikatës së kategorizimit, vendoset në hyrjen kryesore/fasadën e strukturës akomoduese.
+5. Certifikata e kategorizimit të strukturës akomoduese regjistrohet në Regjistrin Qendror të Turizmit, i administruar nga Ministria e Turizmit dhe Mjedisit.
 Neni 9
-Ndryshimi i dokumentit të kategorizimit
-1. Sipërmarrësi turistik, që pajiset me certifikatën e kategorizimit, në rast se kryen ndërhyrje apo ndryshime në objekt, ka detyrimin të njoftojë pranë ministrisë përgjegjëse për turizmin.
-2. Në rast se Komisioni i Standardizimit të Veprimtarive Turistike çmon të arsyeshme se ndryshimet e njoftuara nga sipërmarrësi turistik mund të ndikojnë në kategorizimin e strukturës akomoduese, ministria mund të nisë procedurën e rishqyrtimit të statusit të kategorizimit.
+Ndryshimi i kategorisë së strukturës akomoduese
+1. Aplikuesi mund të aplikojë për ndryshimin e kategorisë së një strukture akomoduese në çdo kohë që e çmon se ndërhyrjet dhe ndryshimet në objekt ndikojnë në ndryshimin e kategorisë së strukturës akomoduese.
+2. Aplikimi për ndryshimin e kategorisë së strukturës akomoduese kryhet online nëpërmjet vetëdeklarimit të aplikuesit, së bashku me foto që vërtetojnë ndërhyrjet apo ndryshimet në objekt.
+3. Komisioni i Standardizimit rishqyrton statusin e kategorizimit brenda 10 ditëve nga data e aplikimit për ndryshim të kategorisë së strukturës akomoduese.
 Neni 10
 Verifikimi
 1. Inspektorati përgjegjës për turizmin ka përgjegjësi të verifikojë çdo sipërmarrës turistik që ushtron veprimtari si strukturë akomoduese, nëse është apo jo i pajisur me certifikatë kategorizimi.
 2. Inspektorati përgjegjës për turizmin, në rast të konstatimit të ushtrimit të veprimtarisë si strukturë akomoduese, në mungesë të certifikatës së kategorizimit njofton ministrinë përgjegjëse për turizmin për të marrë masa sipas legjislacionit në fuqi për turizmin.
+SHTOJCA 1
 SHTOJCA NR. 2
 KËRKESË
 Lënda: Kërkesë për t’u pajisur me certifikatë kategorizimi të strukturës akomoduese
