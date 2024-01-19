@@ -2905,56 +2905,331 @@ Normat dhe afatet e përdorimit
 Koment
 Sasia
 Afati në muaj
+I.
+UNIFORMA E STËRVITJES
 1.
-Uniforma e stërvitjes.
-1.
-Kostum stërvitjeje (xhaketë, pantallona, kapelë)
-2
-6
-2.
-Xhup dimëror
+Kostum stërvitje (xhaketë, pantallona, kapelë)
 1
 6
-3.
+2.
 Bluzë me mëngë të gjata
 2
 6
-4.
+3.
 Bluzë me mëngë të shkurtra
 2
 6
-5.
+4.
 Pantallona të brendshme (benevrekë)
 1
 6
-6.
+5.
 Rrip pantallonash
 1
 6
-7.
+6.
 Rrip mesi
 1
 6
-8.
+7.
 Çorape të gjata
 4
 6
-9.
+8.
 Këpucë stërvitjeje lëkure
 1
 6
-10.
-Këpucë stërvitjeje lëkure/najloni (verore)
+9.
+Këpucë stërvitjeje lëkure/najlon (verore)
 Opsion në vend të këpucëve të stërvitjes të lëkurës
-11.
+10.
 Kapelë e madhe
 1
 6
-12.
+11.
 Doreza luftimi
 1
 6
-Shënim
-1. Gradat dhe dekoracionet që mbahen në uniformë, janë pjesë e uniformës.
-2. Xhupi dimëror të jepet vetëm në rastet kur efektivi që do të shkojë në mision, do të përdorë uniformë ndryshe nga ajo e përditshmërisë.
-3. Lloji i uniformës së stërvitjes tokësore (“woodland”, “multicam” apo “shkretëtire”), i uniformës detare apo asaj të Policisë Ushtarake, me të cilën do të kompletohen efektivët që shkojnë në misione jashtë vendit, me kohëzgjatje mbi 3 (tre) muaj, do të përcaktohet në urdhrat e ministrit të Mbrojtjes, rast pas rasti, sipas llojit dhe zonës së operacionit ku do të kryhet misioni.
+Shënime:
+1. Gradat dhe dekoracionet që mbahen në uniformë janë pjesë e uniformës.
+2. Lloji i uniformës së stërvitjes, me të cilën do të kompletohen efektivët që shkojnë në misione jashtë vendi, me kohëzgjatje mbi 3 (tre) muaj, do të përcaktohet në urdhrat e ministrit të Mbrojtjes, rast pas rasti.
+SHTOJCA NR. 13
+NORMAT E ARTIKUJVE TË UNIFORMAVE USHTARAKE PËR USHTARAKËT AKTIVË TË ORKESTRËS SIMFONIKE TË FORCAVE TË ARMATOSURA
+Nr.
+Artikujt e uniformave
+Normat dhe afatet e përdorimit
+Komente
+Sasia
+Afati në vite
+I.
+UNIFORMA CEREMONIALE (TOKËSORE/AJRORE) PËR OFICERË, NËNOFICERË, USHTARË
+1.
+Xhaketë
+1
+5
+2.
+Pantallona
+1
+5
+3.
+Fund
+Opsion në vend të pantallonave për femrat
+4.
+Kapelë
+1
+5
+5.
+Këmishë me mëngë të gjata
+1
+2
+6.
+Këmishë me mëngë të shkurtra
+Opsion në vend të këmishës me mëngë të gjata
+II.
+UNIFORMA CEREMONIALE DETARE E BARDHË PËR OFICERË, NËNOFICERË, USHTARË/DETARË
+1.
+Xhaketë
+1
+5
+2.
+Pantallona
+1
+5
+3.
+Fund
+Opsion në vend të pantallonave për femrat
+4.
+Këpucë të bardha për femra
+1
+5
+5.
+Këpucë të bardha për meshkuj
+1
+5
+6.
+Këmishë e bardhë me mëngë të shkurtra
+1
+2
+7.
+Rrip pantallonash i bardhë
+1
+5
+III.
+UNIFORMA E PUNËS TOKËSORE (VETËM PËR OFICERËT DHE NËNOFICERËT)
+1.
+Xhaketë
+1
+2
+2.
+Pantallona
+2
+2
+3.
+Fund
+Opsion në vend të pantallonave për femrat
+4.
+Kapelë pune
+1
+4
+5.
+Beretë
+1
+3
+Ngjyrë e zezë
+6.
+Kapelë zarf
+Opsion në vend të beretës
+7.
+Këmishë me mëngë të gjata
+2
+1
+8.
+Këmishë me mëngë të shkurtra
+2
+1
+9.
+Bluzë pambuku me mëngë të shkurtra
+2
+1
+IV.
+ARTIKUJ TË TJERË PËR UNIFORMËN CEREMONIALE DHE TË PUNËS
+1.
+Kollare
+1
+3
+2.
+Rrip pantallonash
+1
+3
+3.
+Xhuboks (xhaketon)
+1
+3
+4.
+Xhup dimëror
+1
+5
+5.
+Pardesy
+Opsion në vend të xhupit dimëror
+6.
+Pardesy kundër shiut
+1
+6
+7.
+Pulovër
+1
+4
+8.
+Pantallona verore
+1
+1
+9.
+Fund veror
+Opsion në vend të pantallonave verore për femrat
+10.
+Gete
+Opsion në vend të çorapeve për femrat
+11.
+Çorape
+4
+1
+12.
+Këpucë gjysma pune për meshkuj
+1
+1
+13.
+Këpucë gjysma ceremoniale për meshkuj
+1
+5
+Vetëm për ata që trajtohen me uniformë ceremoniale tokësore dhe ajrore
+14.
+Këpucë dimërore (meshkuj/femra)
+1
+3
+15.
+Këpucë verore për femra
+1
+1
+16.
+Çizme
+Opsion në vend të këpucëve dimërore për femrat
+17.
+Kordon dekorativ i uniformës ceremoniale
+1
+10
+18.
+Shenja e emrit
+1
+5
+19.
+Suport për medaljet dhe dekoratat
+1
+10
+20.
+Stema dhe distinktivë
+1
+5
+Jepen kur emërohet për herë të parë
+21.
+Doreza lëkure
+1
+6
+22.
+Doreza ceremoniale të bardha
+1
+3
+V.
+UNIFORMA E STËRVITJES PËR OFICERË, NËNOFICERË, USHTARË
+Uniforma e stërvitjes kamuflazh - “Woodland”
+1.
+Kostum stërvitje (xhaketë, pantallona, kapelë)
+1
+3
+2.
+Xhup dimëror
+1
+5
+3.
+Bluzë “polo” me mëngë të shkurtra
+1
+2
+4.
+Bluzë me mëngë të gjata
+1
+1
+5.
+Bluzë me mëngë të shkurtra
+1
+1
+6.
+Pantallona të brendshme (benevrekë)
+7.
+Rrip pantallonash
+1
+5
+8.
+Rrip mesi
+1
+7
+9.
+Çorape të gjata
+2
+1
+10.
+Këpucë stërvitjeje lëkure
+1
+5
+11.
+Këpucë stërvitje lëkure/najlon (verore)
+Opsion në vend të këpucëve të stërvitjes të lëkurës
+VI.
+UNIFORMA SPORTIVE PËR OFICERË, NËNOFICERË, USHTARË
+1.
+Kostum sportiv (pantallona + bluzë me mëngë të gjata)
+1
+3
+2.
+Kostum sportiv (pantallona të shkurtra + bluzë me mëngë të shkurtra)
+1
+3
+3.
+Këpucë sportive (atlete)
+1
+3
+VII
+UNIFORMA E DARKAVE ZYRTARE (VETËM PËR OFICERËT DHE NËNOFICERËT)
+1.
+Kapelë
+1
+12
+2.
+Xhaketë
+1
+12
+3.
+Pantallona
+1
+12
+Vetëm për meshkujt
+4.
+Fund
+1
+12
+5.
+Këmishë me mëngë të gjata
+1
+12
+6.
+Papion
+1
+12
+7.
+Kostum civil (xhaketë, pantallona, fund)
+1
+7
+Fundi, opsion për femrat në vend të pantallonave.
+Shënime:
+1. Gradat dhe dekoracionet që mbahen në uniformë janë pjesë e uniformës.
+2. Trajtimi me uniformë ceremoniale i Orkestrës Simfonike të FA-së të bëhet e ndarë me tri llojet e uniformave: tokësore, ajrore, detare e bardhë, në proporcion të barabartë, ku ushtaraku që do të trajtohet me njërën nga llojet e uniformës ceremoniale do të vijojë të trajtohet gjithmonë vetëm me atë lloj uniforme dhe nuk do të trajtohet me asnjë lloj tjetër uniforme ceremoniale.
+3. Ushtarakët aktivë që emërohen për herë të parë në Orkestrën Simfonike të FA-së, në rast largimi nga Forcat e Armatosura, për arsye të ndërprerjes së njëanshme të kontratës, detyrohen të zhdëmtojnë vlerën e mbetur të uniformës me të cilën janë furnizuar.

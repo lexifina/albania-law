@@ -1,1 +1,2 @@
 2. Ushtarakët e Forcave të Armatosura, të cilët dërgohen në misione ushtarake jashtë vendit, trajtohen me uniformë stërvitjeje shtesë për çdo mision, në bazë të natyrës dhe kushteve specifike të misionit, sipas shtojcës 12, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+2/1. Ushtarakët aktivë, që shërbejnë në Orkestrën Simfonike të Forcave të Armatosura, trajtohen me uniformë ushtarake, sipas shtojcës nr. 13, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
