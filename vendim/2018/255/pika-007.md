@@ -1,2 +1,2 @@
-7. Ngarkohet Ministria e Arsimit, Sportit dhe Rinisë për zbatimin e këtij vendimi.
+7. Ngarkohet Ministria përgjegjëse për sportin për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
