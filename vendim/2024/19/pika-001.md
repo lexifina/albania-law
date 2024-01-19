@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rehabilitimi i linjës hekurudhore Durrës - terminali i transportit publik Tiranë (PPT) dhe lidhja me Aeroportin Ndërkombëtar të Tiranës (TIA)”.
