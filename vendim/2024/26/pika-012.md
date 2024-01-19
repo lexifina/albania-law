@@ -1,0 +1,1 @@
+12. Ministria e Shëndetësisë dhe Mbrojtjes Sociale, për raste të vlerësuara nga ajo ose me kërkesë të autoriteteve kontraktuese, spitaleve, mund të zhvillojë procedura të përqendruara prokurimi për disa mallra, shërbime dhe investime.

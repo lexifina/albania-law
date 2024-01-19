@@ -1,0 +1,1 @@
+19. Financimi i institucioneve dhe i shërbimeve, të përcaktuara në shtojcën nr. 3, që i bashkëlidhet këtij vendimi, bëhet nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor vetëm kundrejt shtesave përkatëse në buxhet nga Ministria e Shëndetësisë dhe Mbrojtjes Sociale.

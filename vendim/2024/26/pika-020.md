@@ -1,0 +1,1 @@
+20. Vendimi nr. 23, datë 18.1.2023, i Këshillit të Ministrave, “Për financimin e shërbimeve shëndetësore spitalore nga skema e detyrueshme e sigurimeve të kujdesit shëndetësor për vitin 2023”, të ndryshuar, shfuqizohet.

@@ -1,0 +1,1 @@
+17. Për spitalet rajonale, bashkiake, kur nuk plotësohen nevojat me personel mjek të strukturës, ministri i Shëndetësisë dhe Mbrojtjes Sociale urdhëron kontraktimin e mjekëve të përgjithshëm pranë shërbimit të urgjencës.
