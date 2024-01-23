@@ -1,0 +1,1 @@
+2. Ngarkohen, Drejtoria e Përgjithshme e Zhvillimit në Fushën e Sigurisë Ushqimore, Veterinarisë, Mbrojtjes së Bimëve dhe Peshkimit, Autoriteti Kombëtar i Ushqimit dhe Instituti i Sigurisë Ushqimore dhe Veterinarisë për zbatimin e këtij udhëzimi.
