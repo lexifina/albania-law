@@ -15,7 +15,7 @@ a) formulari i aplikimit plotësohet në QSHA, sipas shtojcës nr. 1;
 b) aplikanti dorëzon në QSHA dokumentacionin e mëposhtëm:
 i. diplomën ose dokumentin zyrtar përkatës të lëshuar nga institucionet përgjegjëse për lëshimin e kualifikimit në vendin e origjinës ekuivalent me diplomën që vërteton përfundimin e studimeve, të njësuar me origjinalin (noterizuar), si dhe të përkthyer në gjuhën shqipe nga përkthyes të licencuar në Republikën e Shqipërisë.
 ii. suplementin e diplomës për gradën shkencore “Doktor” (nëse ka të tillë), dhe/ose listën e notave, të njësuar me origjinalin (noterizuar), si dhe të përkthyer në gjuhën shqipe nga përkthyes të licencuar në Republikën e Shqipërisë.
-iii. fotokopjen e kartës së identitetit ose të pasaportës, ose dokumentin e lëshuar nga organet kompetente me anë të te cilit vërtetohet identiteti i tij;
+iii. fotokopjen e kartës së identitetit ose të pasaportës (vetëm për shtetasit e huaj);
 iv. dokumentin e lëshuar nga organet kompetente me anë të të cilit vërtetohet qe personi ka fituar statusin e refugjatit, person i zhvendosur dhe person i ngjashëm me refugjatët.
 4. Shfuqizuar.
 5. Refugjatët, personat e zhvendosur dhe personat e ngjashëm me refugjatët, të cilët paraqesin dokumentacion të pjesshëm, ose nuk mund të paraqesin dokumente për të vërtetuar kualifikimet e tyre dhe/ose periudhat e studimit, kanë të drejtën e njohjes dhe njësimit pa pagesë dhe brenda një afati të arsyeshëm të kualifikimit të tyre dhe/ose periudhave të studimit me qëllim për të vazhduar studimet e mëtejshme, ose për tu punësuar.
@@ -44,7 +44,7 @@ TARIFAT
 2. Pagesa për njohjen dhe njësimin e certifikatave/diplomave dhe gradave shkencore, që i përkasin nivelit 5 deri në 8 të Kornizës Shqiptare të Kualifikimeve dhe Kornizës Evropiane të Kualifikimeve, si dhe titujve akademikë kryhet në llogarinë bankare të QSHA-së, të përcaktuar në faqen zyrtare të QSHA-së dhe e-Albania, në seksionin përkatës të njohjes së diplomave.
 KREU VI
 ANKIMIMI
-1. Aplikanti për njohjen dhe njësimin e certifikatave dhe diplomave që i përkasin nivelit 5 deri në 8, përveç gradave shkencore “Doktor”, të Kornizës Shqiptare të Kualifikimeve dhe Kornizës Evropiane të Kualifikimeve ka të drejtë të bëjë ankim me shkrim kundër vendimit të Komisionit të Njohjes së Diplomave në QSHA, sipas afateve të parashikuara nga Kodi i Procedurave Administrative të Republikës së Shqipërisë.
+1. Aplikanti për njohjen dhe njësimin e certifikatave dhe diplomave që i përkasin nivelit 5 deri në 8, përveç gradave shkencore “Doktor”, të Kornizës Shqiptare të Kualifikimeve dhe Kornizës Evropiane të Kualifikimeve ka të drejtë të bëjë ankim me shkrim kundër vendimit të Titullarit të QSHA, sipas afateve të parashikuara nga Kodi i Procedurave Administrative të Republikës së Shqipërisë.
 2. Aplikanti për njohjen dhe njësimin e gradës shkencore “Doktor” dhe titujve akademikë ka të drejtë të bëjë ankim me shkrim kundër vendimit të KNJG ose komisionit ad hoc pranë MAS-it, sipas afateve të parashikuara nga Kodi i Procedurave Administrative të Republikës së Shqipërisë.
 3. Ankesa duhet të shoqërohet me dokumentacionin mbi të cilin mbështeten pretendimet e ankuesit.
 KREU VII
