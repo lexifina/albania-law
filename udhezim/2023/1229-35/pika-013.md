@@ -1,0 +1,1 @@
+13. “Gjendje normale financiare”, në kuptimin e këtij udhëzimi, quhet rasti, kur detyrimi financiar i prapambetur është nën 15% të shpenzimeve vjetore faktike, dhe që është në një afat nën 60 ditë kalendarike (30 ditë për procedurat e aprovimit në njësinë shpenzuese dhe 30 ditë për procedurat e miratimit e procesimit të pagesës në degën e thesarit).

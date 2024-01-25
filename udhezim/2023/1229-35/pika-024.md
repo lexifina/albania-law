@@ -1,0 +1,1 @@
+24. “Të ardhura korrente” janë të ardhurat që sigurohen nga transferta e pakushtëzuar, transferta specifike, transferta e pakushtëzuar sektoriale, transferta të kushtëzuara, taksat dhe tarifat vendore.

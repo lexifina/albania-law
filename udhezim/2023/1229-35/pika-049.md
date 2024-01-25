@@ -1,0 +1,1 @@
+49. Ministria përgjegjëse për financat, në analizën periodike të të ardhurave dhe shpenzimeve, si dhe mbështetur në raportet e monitorimit të përgatitura nga njësitë e vetëqeverisjes vendore, mund të konstatojë rast pas rasti nëse NJVQV-ja ndodhet në njërën prej situatave të vështirësive financiare.

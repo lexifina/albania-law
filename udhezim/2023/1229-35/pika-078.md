@@ -1,0 +1,1 @@
+78. Në vitin ushtrimor dhe në vitet në vazhdim përpara se të fillojë procesi i prokurimit, duhet të sigurohet financimi i mjaftueshëm bazuar në disponueshmërinë e fondeve buxhetore për të gjitha detyrimet e marra përsipër nga njësia e vetëqeverisjes vendore.

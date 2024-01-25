@@ -1,0 +1,1 @@
+180. Gjatë hartimit dhe zbatimit të planit të rehabilitimit financiar, administratori, bashkë me kryetarin e njësisë së vetëqeverisjes vendore ka autoritetin të marrë të gjitha vendimet (masat) lidhur me shlyerjen e borxheve.

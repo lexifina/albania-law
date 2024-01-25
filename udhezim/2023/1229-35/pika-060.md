@@ -1,0 +1,2 @@
+60. Nëse në muajin pasues, totali në vlerë i detyrimeve financiare të konstatuara dhe të papaguara tejkalon nivelin prej 20 për qind të shpenzimeve vjetore faktike, kryetari i njësisë së vetëqeverisjes vendore njofton këshillin e njësisë për arsyet e situatës së krijuar, duke identifikuar faktorët që kanë shkaktuar nivelin e lartë të detyrimeve dhe propozon masat përkatëse për daljen nga situata e problemeve financiare.
+Roli dhe përgjegjësitë

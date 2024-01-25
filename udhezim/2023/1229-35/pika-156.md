@@ -1,0 +1,1 @@
+156. Njësia e vetëqeverisjes vendore konsiderohet në situatën e paaftësisë paguese nëse nuk arrin të zbatojë planin e rehabilitimit financiar dhe/ose nëse raporti i borxheve afatgjata dhe detyrimeve të papaguara është mbi 130 për qind e shpenzimeve vjetore faktike.

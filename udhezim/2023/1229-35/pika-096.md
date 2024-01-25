@@ -1,0 +1,1 @@
+96. Njësia përgjegjëse mund të negociojë me kreditorët për të rishikuar planin e shlyerjes së detyrimeve të prapambetura. Marrëveshjet me kreditorët duhet të miratohen nga këshilli i njësisë së vetëqeverisjes vendore.

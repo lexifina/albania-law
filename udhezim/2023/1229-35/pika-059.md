@@ -1,0 +1,1 @@
+59. Njësia e vetëqeverisjes vendore, konsiderohet me probleme financiare, kur në një muaj të caktuar të vitit buxhetor konstatohen vonesa prej më shumë se 30 ditësh në likuidimin e detyrimeve financiare ndaj palëve të treta, dhe kur detyrimet e konstatuara dhe të papaguara përbëjnë 15 për qind të shpenzimeve vjetore faktike.

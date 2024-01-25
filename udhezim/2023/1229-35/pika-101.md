@@ -1,0 +1,1 @@
+101. Procesi i menaxhimit të NJVQV-ve në vështirësi financiare fillon kur kryetari i NJVQV-së dorëzon planin e daljes nga gjendja e vështirësisë financiare në këshillin e njësisë së vetëqeverisjes vendore.

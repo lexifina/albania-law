@@ -1,0 +1,1 @@
+62. Kryetari i njësisë, mund të përcaktojë një punonjës të njësisë së vetëqeverisjes vendore, i cili do të jetë përgjegjës për zhvillimin e një plani për shlyerjen e detyrimeve të prapambetura dhe do të koordinojë zhvillimin dhe zbatimin e masave të ndërmarra.

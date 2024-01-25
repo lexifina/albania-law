@@ -1,0 +1,1 @@
+120. Raporti i fundit për këshillin e njësisë së vetëqeverisjes vendore mbi zbatimin e planit të masave duhet të përfshijë të dhënat financiare, të cilat vërtetojnë rikthimin në gjendjen normale financiare të njësisë.

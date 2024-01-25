@@ -1,0 +1,1 @@
+88. Mbështetur mbi gjendjen e evidentuar nga analiza, nëpunësi zbatues i raporton kryetarit të njësisë së vetëqeverisjes vendore situatën financiare në të cilën ndodhet njësia e vetëqeverisjes vendore.

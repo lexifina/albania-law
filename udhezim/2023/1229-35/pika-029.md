@@ -1,0 +1,1 @@
+29. “Taksë vendore” është një pagesë e detyrueshme dhe e pakthyeshme në buxhetin e njësive të vetëqeverisjes vendore, e vendosur me ligj dhe që paguhet nga çdo person që ushtron një të drejtë apo përfiton një shërbim publik në territorin e njësisë së vetëqeverisjes vendore.

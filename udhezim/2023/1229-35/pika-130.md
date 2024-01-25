@@ -1,0 +1,1 @@
+130. Këshilli i njësisë miraton marrëveshjet për mënyrën e shlyerjes së detyrimeve financiare të prapambetura midis njësisë së vetëqeverisjes vendore dhe kreditorëve, pas përfundimit të procesit të negocimit të udhëhequr prej mbikëqyrësit financiar dhe përfaqësuesve të pushtetit vendor.

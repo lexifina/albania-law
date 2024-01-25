@@ -1,0 +1,1 @@
+177. Këshilli i Ministrave vendos administratorin e njësisë së vetëqeverisjes vendore, bazuar në listën e miratuar nga ministria përgjegjëse për financat dhe përcakton rolin, detyrat dhe kompetencat e tij, si dhe mbulimin e efekteve financiare të tij.

@@ -1,0 +1,1 @@
+128. Ministria përgjegjëse për financat, informon njësinë e vetëqeverisjes vendore, në rast se është parashikuar ndihmë financiare nga qeveria qendrore për daljen nga gjendja e vështirësisë serioze financiare.

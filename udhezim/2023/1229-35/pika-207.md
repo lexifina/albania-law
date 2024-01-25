@@ -1,0 +1,1 @@
+207. Njësia e vetëqeverisjes vendore e marrë nën administrim del nga gjendja e paaftësisë paguese dhe rikthehet në menaxhimin dhe funksionimin e saj normal, sipas përcaktimeve ligjore, vetëm kur vërtetohet se ajo është në gjendje të shlyej pa vonesa të gjitha detyrimet financiare të prapambetura ndaj të tretëve.

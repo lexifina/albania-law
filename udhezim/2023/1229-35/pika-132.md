@@ -1,0 +1,1 @@
+132. Në rastin kur njësia e vetëqeverisjes vendore nuk e dorëzon këtë plan brenda 30 ditëve nga shpallja e njësisë në mbikëqyrje financiare, ministria përgjegjëse për financat përgatit planin e rehabilitimit financiar.

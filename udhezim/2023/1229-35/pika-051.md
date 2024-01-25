@@ -1,0 +1,1 @@
+51. Nëpunësi zbatues i njësisë së vetëqeverisjes vendore, si pjesë të raportit periodik katërmujor të monitorimit të zbatimit të buxhetit duhet të përfshijë edhe vlerësimin e përgjithshëm financiar të njësisë.

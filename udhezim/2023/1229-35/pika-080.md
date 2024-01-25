@@ -1,0 +1,1 @@
+80. Në këtë periudhë nuk mund të shtohen detyrime të reja deri në momentin, kur njësia e vetëqeverisjes vendore të arrijë limitin minimal të detyrimeve të konstatuara dhe të papaguara, sipas kushtit në të cilën njësia e vetëqeverisjes vendore ndodhet në situatën e problemeve financiare.

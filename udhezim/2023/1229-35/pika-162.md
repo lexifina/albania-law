@@ -1,0 +1,1 @@
+162. Kryetari njësisë së vetëqeverisjes vendore bashkëpunon me administratorin dhe ministrinë përgjegjëse për financat për përgatitjen e planit të veprimit për daljen nga gjendja e paaftësisë paguese dhe afatin e zbatimit të tij.

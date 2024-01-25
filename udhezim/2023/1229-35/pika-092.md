@@ -1,0 +1,1 @@
+92. Një kopje e planit të daljes nga gjendja e vështirësisë financiare të miratuar nga këshilli, i dërgohet zyrtarisht ministrisë përgjegjëse për financat, e cila mund të japë rekomandime konkrete për përmirësimin e situatës së vështirësisë financiare.

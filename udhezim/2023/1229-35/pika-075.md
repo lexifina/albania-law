@@ -1,0 +1,1 @@
+75. Një nga mundësitë për pagesën e detyrimeve financiare të prapambetura është rritja e të ardhurave vendore nëpërmjet përmirësimit të mbledhjes së taksave dhe përdorimi i fondit rezervë/fondit të kontigjencës në dispozicion për uljen e detyrimeve të prapambetura.

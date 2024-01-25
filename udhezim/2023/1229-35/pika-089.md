@@ -1,0 +1,1 @@
+89. Brenda 20 ditëve nga konstatimi, kryetari i njësisë së vetëqeverisjes vendore përgatit një plan sipas aneksit 4, për daljen nga situata e vështirësisë financiare dhe ia dërgon këshillit të njësisë së vetëqeverisjes vendore.

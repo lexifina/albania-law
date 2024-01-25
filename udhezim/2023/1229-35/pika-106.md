@@ -1,0 +1,1 @@
+106. Plani për daljen nga situata e vështirësisë financiare duhet të jetë në përputhje me planin e buxhetit vjetor dhe programin buxhetor afatmesëm të miratuar, duke marrë në konsideratë trendet në dy vitet e fundit të periudhës së parashikuar të buxhetimit.

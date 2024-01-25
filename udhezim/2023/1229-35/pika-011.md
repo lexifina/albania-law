@@ -1,0 +1,1 @@
+11. “Fonde të trashëguara” janë të ardhurat e buxhetit vendor, të arkëtuara në llogaritë e thesarit nga të ardhurat e veta të NJVQV-ve, taksat kombëtare dhe transfertat e pakushtëzuara nga buxheti i shtetit, të papërdorura gjatë vitit buxhetor, që trashëgohen në vitin buxhetor pasardhës.

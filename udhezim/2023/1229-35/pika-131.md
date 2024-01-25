@@ -1,0 +1,1 @@
+131. Kryetari i njësisë, në përputhje me vendimin e Këshillit të Ministrave përgatit planin e rehabilitimit financiar, me asistencën e ministrisë përgjegjëse për financat, dhe e paraqet për miratim në këshillin e NJVQV-së.

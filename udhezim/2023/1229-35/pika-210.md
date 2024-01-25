@@ -1,0 +1,1 @@
+210. Të ardhurat e buxhetit vendor, të arkëtuara në llogaritë e thesarit nga taksat vendore, taksat kombëtare dhe transfertat e pakushtëzuara nga buxheti i shtetit, të papërdorura gjatë vitit buxhetor, trashëgohen në vitin buxhetor pasardhës.

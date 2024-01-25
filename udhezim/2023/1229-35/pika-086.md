@@ -1,0 +1,2 @@
+86. Njësia e vetëqeverisjes vendore konsiderohet në vështirësi financiare kur vonesat në likuidimin e detyrimeve financiare ndaj palëve të treta konstatohen edhe në muajin pasues të muajit të përcaktuar në pikën 2, të nenit 55, të ligjit 68/2017, dhe vlera e stokut të detyrimeve të papaguara ndaj palëve të treta rritet progresivisht mbi nivelin prej 25 për qind të shpenzimeve vjetore faktike.
+Roli dhe përgjegjësitë

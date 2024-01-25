@@ -1,0 +1,1 @@
+57. Lista e shërbimeve, treguesit e performancës dhe standardet minimale të shërbimeve publike, duhet t’u bëhet e njohur njësive të vetëqeverisjes vendore në çdo rast të identifikuar të vështirësive financiare.

@@ -1,0 +1,2 @@
+182. Administratori do të kontrollojë të gjitha angazhimet; do të nënshkruajë urdhërpagesat; do të mbikëqyrë mbledhjen e të ardhurave të veta dhe menaxhimin e aseteve të NJVQV-së. Ai/ajo raporton për zbatimin e planit të veprimit për daljen nga gjendja e paaftësisë paguese në ministrinë përgjegjëse për financat dhe informon këshillin e njësisë së vetëqeverisjes vendore. Administratori raporton direkt në ministrinë përgjegjëse për financat.
+Plani i veprimit për daljen nga gjendja e paaftësisë paguese

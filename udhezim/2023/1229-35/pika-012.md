@@ -1,0 +1,1 @@
+12. “Fonde të trashëguara dhe të paangazhuara” janë fondet e trashëguara, të arkëtuara në llogaritë e thesarit nga të ardhurat e veta të NJVQV-ve, taksat kombëtare dhe fonde nga transferta e përgjithshme e pakushtëzuar nga buxheti i shtetit që nuk kanë angazhim buxhetor.

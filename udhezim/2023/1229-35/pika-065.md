@@ -1,0 +1,1 @@
+65. Hartimi dhe zbatimi i masave të ndërmarra për shlyerjen e detyrimeve financiare të prapambetura duhet të jetë në përputhje me ciklin e përgatitjes dhe planifikimit të buxhetit afatmesëm në nivel vendor.

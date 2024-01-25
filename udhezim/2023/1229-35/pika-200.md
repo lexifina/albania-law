@@ -1,0 +1,1 @@
+200. Mundësia tjetër është edhe rishikimi ose frenimi i shpenzimeve vendore, e cila do të krijojë kursime për shlyerjen e borxhit në një periudhë afatmesme dhe afatgjatë. Megjithatë, riorganizimi për pagesat në kohë të detyrimeve mund të krijojë fonde për pagesën e interesit ose faturat më urgjente nga furnitorët.

@@ -1,0 +1,1 @@
+31. “Tarifë vendore” është një pagesë që një individ, person fizik apo juridik bën në shkëmbim të një shërbimi specifik të marrë, të mirë publike specifike të përdorur apo të drejtë të dhënë nga njësia e vetëqeverisjes vendore.

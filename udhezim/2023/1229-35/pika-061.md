@@ -1,0 +1,1 @@
+61. Njësia përgjegjëse për financën/buxhetin, duhet të përgatitë një informacion të detajuar lidhur me detyrimet financiare të prapambetura të njësisë së vetëqeverisjes vendore, duke përfshirë edhe njësitë e veta shpenzuese, në rastin kur NJVQV-ja konstatohet me probleme financiare.

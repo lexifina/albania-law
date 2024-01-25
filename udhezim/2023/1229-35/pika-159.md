@@ -1,0 +1,1 @@
+159. Në çdo rast (përveç rastit kur kjo konstatohet nga ministria përgjegjëse për financat), kryetari i njësisë së vetëqeverisjes vendore, me konstatimin e situatës së paaftësisë paguese, njofton menjëherë këshillin e njësisë dhe ministrinë përgjegjëse për financat.

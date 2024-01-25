@@ -1,0 +1,6 @@
+145. Për hartimin e masave më të përshtatshme dhe strategjinë e bisedimeve me kreditorët detyrimet e papaguara ndaj të tretëve mund të grupohen sipas prioriteve.
+a) Detyrimet ndaj pushtetit qendror (p.sh. taksat, penalitetet etj.), pagat e punonjësve kanë përparësi ndaj detyrimeve të tjera të prapambetura.
+b) Evidentimi i burimit të borxhit dhe detyrimeve të papaguara ndaj të tretëve është i domosdoshëm, pasi disa prej këtyre detyrimeve mund të jenë jashtë kontrollit të pushtetit vendor, kështu që ka hapësirë të kufizuar për negociata (p.sh. fondet e kushtëzuara të vonuara).
+c) Për të përcaktuar se cilat detyrime do të kenë përparësi për t’u shlyer duhen mbajtur parasysh edhe risqet e borxheve, si: norma e interesit, luhatshmëria e kursit të këmbimit etj.
+d) Afati i maturimit të borxhit është një tregues tjetër për të vendosur si prioritet shlyerjen e borxhit afatshkurtër kundrejt atij afatgjatë.
+e) Madhësia dhe forma e kolateralit mund të ndikojë, gjithashtu, në politikat e pagesave, p.sh. pagesat e detyrimeve mund të negociohen nëpërmjet bllokimit të pasurive të paluajtshme (aseteve publike), si pasojë e mungesës së likuidimit me para (cash) nga ana e njësisë së vetëqeverisjes vendore. Pala kreditore mund të vendosë kolateralin në shitje për arkëtimin e të ardhurave.

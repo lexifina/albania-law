@@ -1,0 +1,1 @@
+186. Kriteri parësor i monitorimit dhe i vlerësimit nga administratori është niveli aktual i detyrimeve të papaguara me vonesa më shumë se 60 ditë kalendarike (30 ditë për procedurat e aprovimit në njësinë shpenzuese dhe 30 ditë për procedurat e miratimit e procesimit të pagesës në degën e thesarit).

@@ -1,0 +1,1 @@
+82. Zbatimi i planit të masave për menaxhimin e problemeve financiare vendore i raportohet këshillit çdo muaj. Me këto raporte, këshilli duhet të miratojë veprimet e propozuara, të cilat janë nën diskrecionin e tij (p.sh., rritja e nivelit të të ardhurave, rishikimi i buxhetit, shitja/përdorimi i aseteve etj.).

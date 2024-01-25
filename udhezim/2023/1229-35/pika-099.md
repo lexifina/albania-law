@@ -1,0 +1,1 @@
+99. Ministria përgjegjëse për financat, pas shpalljes së gjendjes së vështirësisë financiare nga njësia e vetëqeverisjes vendore, në mënyrë periodike, sipas të dhënave të raportuara, por edhe të identifikuara nga Sistemi Informatik Financiar i Qeverisë, monitoron ecurinë e zbatimit të planit të daljes nga gjendja e vështirësisë financiare dhe ecurinë financiare të NJVQV-së.

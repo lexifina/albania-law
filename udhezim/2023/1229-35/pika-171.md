@@ -1,0 +1,1 @@
+171. Për daljen nga gjendja e paaftësisë paguese, kryetari i njësisë së vetëqeverisjes vendore harton një raport për gjendjen financiare të njësisë së marrë në administrim dhe ia dërgon për miratim ministrisë përgjegjëse për financat.

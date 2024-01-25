@@ -1,0 +1,1 @@
+68. Në rast se është e domosdoshme që për të dalë nga gjendja e problemeve financiare duhet të rishikohet buxheti i miratuar, kryetari i njësisë së vetëqeverisjes vendore ia propozon këshillit. Këshilli i NJVQV-së, pasi shqyrton kërkesën e kryetarit, miraton ose jo kërkesën për rishikimin e buxhetit.

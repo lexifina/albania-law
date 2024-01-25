@@ -1,0 +1,1 @@
+142. Për hartimin e planit të rehabilitimit financiar, detyrimet e papaguara ndaj të tretëve duhet të klasifikohen sipas llojit dhe madhësisë. Vlera e borxhit dhe detyrimeve të prapambetura do të pasqyrohet në planin e rehabilitimit financiar, sipas kritereve për klasifikimin e tyre.

@@ -1,0 +1,1 @@
+87. Nëpunësi zbatues i njësisë së vetëqeverisjes vendore mbështetur mbi të dhënat financiare mujore të evidentuara duhet të bëjë një analizë mbi gjendjen financiare, sipas treguesve të fazës së vështirësive financiare ku ndodhet njësia.

@@ -1,0 +1,2 @@
+70. Në rast se nga rakordimi me degën përkatëse të thesarit, konstatohet se detyrimet financiare të prapambetura të njësisë së vetëqeverisjes vendore në gjendjen e problemeve financiare të përshkruar në këtë pjesë, janë rritur aq sa NJVQV-ja plotëson kushtet për kalimin në fazën e vështirësive financiare, atëherë kryetari i njësisë së vetëqeverisjes vendore, duhet të njoftojë këshillin e njësisë për situatën në të cilën ndodhet njësia duke i paraqitur raportin e evidentimit të situatës financiare.
+Masat që do të ndërmerren

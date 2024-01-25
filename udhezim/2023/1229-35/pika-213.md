@@ -1,0 +1,1 @@
+213. Radha e kryerjes së këtyre pagesave duhet të jetë në përputhje me rregullat e përcaktuara në këtë udhëzim dhe në udhëzimin nr. 9 datë 20.3.2018, “Për procedurat standarde të zbatimit të buxhetit”.

@@ -1,0 +1,1 @@
+46. Njësia e vetëqeverisjes vendore përgatit një raport lidhur me faktorët që kanë ndikuar që njësia të gjendet në njërën nga rastet e vështirësisë financiare. Një kopje e këtij raporti, pas miratimit nga kryetari i njësisë, i dërgohet këshillit.

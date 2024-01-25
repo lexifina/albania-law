@@ -1,0 +1,1 @@
+194. Ministria përgjegjëse për financat do të informojë njësinë e vetëqeverisjes vendore për mbështetjen e disponueshme të qeverisë qendrore. Administratori do të përgatisë programet e asistencës financiare për njësinë e vetëqeverisjes vendore.

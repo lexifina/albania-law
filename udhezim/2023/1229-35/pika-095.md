@@ -1,0 +1,1 @@
+95. Njësia përgjegjëse është e autorizuar të mbledhë informacion nga administrata e njësisë nëpërmjet procedurave zyrtare të raportimit mbi detyrimet e prapambetura. Kjo njësi ka të drejtë të koordinojë punën brenda administratës së njësisë së vetëqeverisjes vendore/njësisë shpenzuese për të zhvilluar planin e daljes nga gjendja e vështirësisë financiare.

@@ -1,0 +1,1 @@
+43. Në evidentimin e situatës së vështirësisë serioze financiare dhe paaftësisë paguese, kreditë, obligacionet dhe garancitë e njësisë së vetëqeverisjes vendore duhet të ndahen nga detyrimet e prapambetura.

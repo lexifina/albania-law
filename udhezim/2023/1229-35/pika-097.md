@@ -1,0 +1,1 @@
+97. Kur hartimi dhe zbatimi i planit të rehabilitimit përkon me ciklin e planifikimit të buxhetit, njësia përgjegjëse për zbatimin e këtij plani është e përfshirë në planifikimin e programit buxhetor afatmesëm dhe buxhetit vjetor si këshilltar i kryetarit të NJVQV-së.

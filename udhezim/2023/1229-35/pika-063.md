@@ -1,0 +1,1 @@
+63. Gjatë periudhës së shlyerjes së detyrimeve financiare të prapambetura, kryetari i njësisë së vetëqeverisjes vendore do të koordinojë zhvillimin dhe zbatimin e masave të ndërmarra, duke dërguar edhe informacion periodik këshillit të NJVQV-së.

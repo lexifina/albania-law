@@ -1,0 +1,1 @@
+27. “Transferta e pakushtëzuar” është transferta që jepet nga buxheti i shtetit, njësive të vetëqeverisjes vendore pa interes, pa kushte dhe pa të drejtë kthimi për financimin e ushtrimit të funksioneve dhe kompetencave të tyre të përcaktuara me ligj.

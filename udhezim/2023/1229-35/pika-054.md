@@ -1,0 +1,1 @@
+54. Pavarësisht nga veprimet e ndërmarra nga njësia e vetëqeverisjes vendore për rehabilitimin financiar për çdo rast të vështirësive financiare, çdo njësi duhet të jetë në gjendje të ofrojë minimumin e nevojshëm të shërbimeve publike brenda një standardi të pranueshëm. Një listë orientuese për standardet e shërbimet publike janë të përcaktuara në aneksin 3.

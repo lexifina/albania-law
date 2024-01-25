@@ -1,0 +1,1 @@
+79. Për zbatimin e planit të masave për daljen nga situata e problemeve financiare, njësia e vetëqeverisjes vendore mund të negociojë me kreditorët dhe furnizuesit të cilëve u është vonuar shlyerja e detyrimeve më shumë se 60 ditë për të riorganizuar detyrimet.

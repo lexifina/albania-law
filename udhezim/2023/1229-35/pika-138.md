@@ -1,0 +1,1 @@
+138. Kryetari i njësisë përgatit një raport lidhur me faktorët që kanë ndikuar në gjendjen e vështirësisë serioze financiare, i cili miratohet nga këshilli i NJVQV-së dhe dorëzohet në ministrinë përgjegjëse për financat.

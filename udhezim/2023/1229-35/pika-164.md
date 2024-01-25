@@ -1,0 +1,1 @@
+164. Plani i veprimit për daljen nga gjendja e paaftësisë paguese, i cili do të miratohet me vendim të Këshillit të Ministrave, duhet të përfshihet në programin buxhetor afatmesëm dhe automatikisht në buxhetin vjetor të njësisë së vetëqeverisjes vendore.

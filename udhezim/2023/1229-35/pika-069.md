@@ -1,0 +1,1 @@
+69. Nëpunësi zbatues, i dërgon kryetarit të NJVQV-së, raporte periodike monitorimi nëpërmjet të cilave siguron se pagesat kryhen sipas prioriteteve të vendosura në planin e masave për daljen e njësisë nga gjendja e problemeve financiare.

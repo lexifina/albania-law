@@ -1,0 +1,1 @@
+15. “Menaxher i borxhit dhe detyrimeve” është personi apo njësia e miratuar nga kryetari i njësisë së vetëqeverisjes vendore, për ndjekjen e problemeve të borxhit dhe të detyrimeve të prapambetura në rastet e njësive kur janë me probleme dhe vështirësi financiare.

@@ -1,0 +1,1 @@
+64. Si pjesë e raportit të masave që do të ndërmerren për daljen nga gjendja e njësisë me probleme financiare, duhet të përgatitet edhe një plan implementimi dhe zbatimi, i cili i dërgohet edhe këshillit të njësisë së vetëqeverisjes vendore.

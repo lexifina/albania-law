@@ -1,0 +1,1 @@
+14. “Minimumi i shërbimeve publike” është paketa e shërbimeve publike më të domosdoshme, për të ruajtur normalitetin e funksionimit të njësisë së vetëqeverisjes vendore në një nga rastet e vështirësive financiare të përcaktuara në ligjin nr. 68, datë 27.4.2017, “Për financat e vetëqeverisjes vendore”.

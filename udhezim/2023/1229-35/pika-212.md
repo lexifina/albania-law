@@ -1,0 +1,1 @@
+212. Nga fondet e trashëguara, sipas aktrakordimit me degën përkatëse të thesarit, njësia e vetëqeverisjes vendore do të përdorë jo më pak se 30 për qind e tyre për shlyerjen e detyrimeve të prapambetura dhe pagimin e nënhuave të papaguara në kohë në rast se ka të tilla, brenda datës 31 mars të vitit aktual.

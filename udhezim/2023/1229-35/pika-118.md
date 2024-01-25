@@ -1,0 +1,1 @@
+118. Qëllimi i këtyre negociatave është shpërndarja e pagesave të kësteve midis kreditorëve, sipas një plani të rishikuar në përputhje me mundësitë financiare të disponueshme nga njësia e vetëqeverisjes vendore, si dhe për të siguruar ofrimin e shërbimeve bazë për qytetarët.

@@ -1,0 +1,1 @@
+158. Konstatimi i rastit të paaftësisë paguese bëhet nga nëpunësi autorizues nëpërmjet: analizave, vetëvlerësimit, auditit dhe kontrollit të brendshëm, auditit të jashtëm ose nga ministria përgjegjëse për financat.

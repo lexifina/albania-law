@@ -1,0 +1,1 @@
+193. Kushtet dhe rregullat e shpërndarjes së këtyre fondeve potenciale të buxhetit qendror duhet të jenë të mundshme për t’u përfituar nga të gjitha njësitë e vetëqeverisjes vendore që ndodhen në situatën e paaftësisë paguese.

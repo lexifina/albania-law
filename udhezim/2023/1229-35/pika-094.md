@@ -1,0 +1,1 @@
+94. Njësia përgjegjëse do të koordinojë zhvillimin dhe zbatimin e planit dhe, gjithashtu, i raporton direkt kryetarit të NJVQV-së. Kjo njësi në mënyrë periodike mujore duhet të hartojë raporte dhe evidenca mbi ecurinë e implementimit të planit të miratuar nga këshilli i njësisë së vetëqeverisjes vendore.

@@ -1,0 +1,1 @@
+28. “Transfertë specifike” është një formë e transfertës së kushtëzuar për njësitë e vetëqeverisjes vendore, që përdoret vetëm për funksionin vendor, për të cilin është dhënë dhe për rastet specifike të parashikuara në ligj

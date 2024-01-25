@@ -1,0 +1,1 @@
+202. Sipas kuadrit ligjor dhe nënligjor në fuqi për pronat e pushtetit vendor, vetëm pasuritë jopublike me status juridik të pronës private mund të përdoren si kolateral. Edhe për këtë grup të pasurive të paluajtshme vendore, shitja e aseteve duhet të bëhet në përputhje me strategjinë e menaxhimit të pronës publike vendore.

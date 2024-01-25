@@ -1,0 +1,1 @@
+163. Kryetari i njësisë së vetëqeverisjes vendore bashkëpunon me administratorin dhe ministrinë përgjegjëse për financat për përcaktimin e listës dhe të standardeve të shërbimeve publike minimale, që ofron njësia e vetëqeverisjes vendore gjatë kohës që do të jetë në situatën e paaftësisë paguese.

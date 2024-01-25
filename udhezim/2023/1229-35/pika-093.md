@@ -1,0 +1,1 @@
+93. Pas shpalljes së gjendjes së vështirësisë financiare dhe miratimit të planit të daljes nga gjendja e vështirësisë financiare, kryetari duhet të emërojë një anëtar të personelit ose të ngrejë një njësi në administratën e NJVQV-së, i cili/e cila do të jetë përgjegjës/e për zbatimin e planit për daljen nga gjendja e vështirësisë financiare.

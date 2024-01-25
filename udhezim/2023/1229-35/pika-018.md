@@ -1,0 +1,1 @@
+18. “Nëpunës zbatues” është drejtuesi i strukturës përgjegjëse për financat në njësinë e vetëqeverisjes vendore, përgjegjës për zbatimin e rregullave të menaxhimit financiar, mbajtjen e llogarive dhe për përgatitjen e pasqyrave financiare, që përgjigjet përpara nëpunësit autorizues të njësisë së vetëqeverisjes vendore.

@@ -1,0 +1,1 @@
+110. Pavarësisht veprimeve të propozuara, NJVQV-të duhet të jenë në gjendje të garantojnë aksesin në shërbimet themelore të përcaktuara me ligj dhe t’i sigurojnë ato në nivelin minimal për të gjithë qytetarët (aneksi 3 i këtij udhëzimi).

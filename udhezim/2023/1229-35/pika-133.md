@@ -1,0 +1,1 @@
+133. Këshilli i njësisë së vetëqeverisjes vendore, brenda 30 ditëve nga shpallja e njësisë në mbikëqyrje financiare, miraton planin e rehabilitimit financiar, të cilin e dërgon për miratim në ministrinë përgjegjëse për financat.

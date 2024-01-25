@@ -1,0 +1,1 @@
+41. Në përputhje me të dhënat e raportit të gjendjes financiare, njësia e vetëqeverisjes vendore (nëpunësi zbatues), nëpërmjet rakordimit me degën përkatëse të thesarit, duhet të evidentojë stokun e borxhit afatgjatë dhe të detyrimeve financiare të prapambetura të regjistruara në Sistemin Informatik Financiar të Qeverisë (SIFQ).

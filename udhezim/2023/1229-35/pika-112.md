@@ -1,0 +1,1 @@
+112. Plani i miratuar për daljen nga gjendja e vështirësisë financiare duhet të dërgohet në ministrinë përgjegjëse për financat. Ministria përgjegjëse për financat mund të bëjë komente/rekomandime të mëtejshme se si të menaxhohet situata e vështirësisë financiare.

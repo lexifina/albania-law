@@ -1,0 +1,1 @@
+165. Këshilli i njësisë së vetëqeverisjes vendore, në miratimin e programit buxhetor afatmesëm (PBA-së) dhe buxhetin vjetor duhet të përfshijë detyrimisht planin e veprimit për daljen nga gjendja e paaftësisë paguese.

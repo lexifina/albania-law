@@ -1,0 +1,1 @@
+161. Ministria përgjegjëse për financat i propozon Këshillit të Ministrave vendosjen e njësisë së vetëqeverisjes vendore me paaftësi paguese nën administrim dhe emërimin e një administratori. Këshilli i Ministrave vendos emërimin e administratorit dhe shpalljen nën administrim të NJVQV-së.

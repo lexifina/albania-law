@@ -1,0 +1,1 @@
+169. Afati i rikuperimit financiar dhe rikthimit të njësisë së vetëqeverisjes vendore në gjendjen normale është 2 vjet. Në planin e veprimit, njësia e vetëqeverisjes vendore duhet të ndërmarrë iniciativën e bërjes së reformave strukturore, me qëllim që rikuperimi financiar dhe shëndeti financiar të jetë i qëndrueshëm dhe afatgjatë.

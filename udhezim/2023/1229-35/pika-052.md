@@ -1,0 +1,2 @@
+52. Raporti katërmujor duhet të dërgohet në ministrinë përgjegjëse për financat në përputhje me afatet e përcaktuara në udhëzimin nr. 22, datë 30.7.2018, “Për procedurat standarde të monitorimit të buxhetit të njësive të vetëqeverisjes vendore”, dhe formateve të aneksit 1, dhe aneksit 2, bashkëlidhur udhëzimit.
+Procedura për raportin e konsoliduar vjetor të ministrisë përgjegjëse për financat mbi gjendjen financiare të njësive të vetëqeverisjes vendore

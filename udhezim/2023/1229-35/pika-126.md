@@ -1,0 +1,1 @@
+126. Ministria përgjegjëse për financat, me marrjen e njoftimit nga kryetari i njësisë së vetëqeverisjes vendore njofton menjëherë Këshillin e Ministrave, ose kur e konstaton vetë njofton menjëherë kryetarin e njësisë së vetëqeverisjes vendore dhe Këshillin e Ministrave.

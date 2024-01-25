@@ -1,0 +1,1 @@
+125. Kryetari i njësisë së vetëqeverisjes vendore në rolin e nëpunësit autorizues, me konstatimin e situatës së vështirësisë serioze financiare, njofton menjëherë këshillin e njësisë dhe ministrinë përgjegjëse për financat.

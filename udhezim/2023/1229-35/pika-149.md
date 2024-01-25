@@ -1,0 +1,1 @@
+149. Zbatimi i planit të rehabilitimit financiar është i detyrueshëm për njësinë e vetëqeverisjes vendore, e cila dorëzon të paktën një herë në 30 ditë, ose sa herë që kërkohet nga këshilli i njësisë, ose ministria përgjegjëse për financat, raporte të hollësishme për realizimin e masave, sipas këtij plani.

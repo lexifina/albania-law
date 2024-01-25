@@ -1,0 +1,1 @@
+208. Kryetari i njësisë së vetëqeverisjes vendore së bashku me administratorin hartojnë një raport për gjendjen financiare të njësisë së marrë në administrim dhe e dërgon për miratim në ministrinë përgjegjëse për financat.

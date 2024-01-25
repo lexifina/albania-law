@@ -1,0 +1,1 @@
+185. Plani i përgatitur nga administratori duhet të jetë një plan zbatimi specifik. Veprimet për rritjen e të ardhurave të veta, shkurtimet e shpenzimeve dhe mundësia potenciale e përdorimit të aseteve duhet të parashikohen me një afat kohor mujor, si dhe të përcaktohen personat përgjegjës për zbatimin e planit.

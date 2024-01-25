@@ -1,0 +1,1 @@
+197. Në rastet kur njësitë e vetëqeverisjes vendore në gjendjen e paaftësisë paguese vendosin për rritjen e normës së taksave, atëherë këto njësi duhet të vendosin si minimum të nivelit të taksave normën mesatare të njësive të vetëqeverisjes vendore me madhësi afërsisht të ngjashme.

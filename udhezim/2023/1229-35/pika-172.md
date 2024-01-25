@@ -1,0 +1,1 @@
+172. Pas shqyrtimit të raportit, por jo më vonë se 30 ditë nga marrja e tij, ministri përgjegjës për financat i propozon Këshillit të Ministrave daljen nga paaftësia paguese të njësisë së vetëqeverisjes vendore dhe kthimin e saj në funksionimin normal.

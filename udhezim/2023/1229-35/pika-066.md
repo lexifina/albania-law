@@ -1,0 +1,1 @@
+66. Masat e njësisë për rritjen e të ardhurave, shkurtimet në shpenzime duhet të hartohen me një afat kohor mujor, duke përcaktuar edhe personat përgjegjës që do të jenë pjesë e procesit. Këshilli i njësisë së vetëqeverisjes vendore do të kontrollojë dhe do të monitorojë instrumentet e propozuara të menaxhimit të problemeve financiare vendore.

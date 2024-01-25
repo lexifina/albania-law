@@ -1,0 +1,2 @@
+214. Njësia e vetëqeverisjes vendore për pjesën e detyrimeve të prapambetura dhe nënhuave të papaguara, që ka shlyer në zbatim të pikës 1, të nenit 60/1, të ligjit 68/2017, “Për financat e vetëqeverisjes vendore”, të ndryshuar, duhet të raportojë në ministrinë përgjegjëse për financat, brenda datës 10 prill, faktin e shlyerjes së detyrimeve të prapambetura, plotësuar sipas formatit në aneksin 5, bashkëlidhur udhëzimit.
+VI. DISPOZITA TË FUNDIT

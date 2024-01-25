@@ -1,0 +1,1 @@
+45. Kryetari i njësisë së vetëqeverisjes vendore, pas analizës së zhvilluar lidhur me shkaqet për pagesat e vonuara, do të miratojë masa specifike për të forcuar disiplinën buxhetore, kryesisht në drejtim të planifikimit buxhetor, kontrolleve financiare paraprake dhe rritjen e eficiencës në kryerjen e shpenzimeve.

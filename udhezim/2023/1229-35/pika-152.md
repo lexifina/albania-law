@@ -1,0 +1,1 @@
+152. Plani i rehabilitimit financiar dhe koha e mundshme për rikuperimin financiar të njësisë së vetëqeverisjes vendore me vështirësi serioze financiare është 2 vjet. Në këtë periudhë nëpërmjet planit të rehabilitimit dhe dokumenteve të tjerë, njësia e vetëqeverisjes vendore me vështirësi serioze financiare mund të ndërmarrë iniciativën për të bërë reforma strukturore.

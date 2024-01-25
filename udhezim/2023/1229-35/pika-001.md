@@ -1,0 +1,1 @@
+1. Objekt i këtij udhëzimi janë rregullat, kriteret, procedurat dhe dokumentacioni për menaxhimin e vështirësive financiare për njësitë e vetëqeverisjes vendore në të gjitha rastet që ato shfaqen, si dhe transparenca, bashkëpunimi dhe raportimi me strukturat e qeverisjes qendrore.

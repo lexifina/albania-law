@@ -1,0 +1,1 @@
+56. Në varësi të specifikave të çdo njësie të vetëqeverisjes vendore dhe sipas situatave në të cilën ndodhet, NJVQV-ja i propozon ministrisë përgjegjëse për financat dhe ministrisë së linjës përgjegjëse të zgjerojë listën e shërbimeve minimale.
