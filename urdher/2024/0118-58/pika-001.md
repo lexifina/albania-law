@@ -1,0 +1,1 @@
+1. Kompetenca për nënshkrimin e urdhrave për nxjerrjen nga përdorimi dhe shkatërrimin e ndërtesave ekonomike në administrim të strukturave në vartësi të Ministrisë së Mbrojtjes dhe Shtabit të Përgjithshëm të Forcave të Armatosura i delegohet zëvendësministrit të Mbrojtjes, zotit Enkelejdi Joti.
