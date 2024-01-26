@@ -1,0 +1,1 @@
+1. Dërgimin me mision të 1 (një) anijeje të klasit “Iliria”, e përbërë nga 21 (njëzet e një) efektivë të Forcave të Armatosura të Republikës së Shqipërisë në operacionin e NATO-s “FOCOPS”, në detin Mesdhe.
