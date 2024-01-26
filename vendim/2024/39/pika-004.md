@@ -1,0 +1,1 @@
+4. Punonjësit me kontratë në funksionin “Operator EDRMS” paguhen, në përputhje me kategorinë e pagës së funksionit “Operator”, sipas vendimit nr.326, datë 31.5.2023, të Këshillit të Ministrave, të ndryshuar.

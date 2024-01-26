@@ -1,0 +1,1 @@
+2. Pagesa për emërtesën “Punonjës arkivi (DPA)”, të përfshirë në lidhjen nr.1, të sipërpërmendur, kryhet nga institucionet përkatëse, pas miratimit të listëprezencës dhe shënimeve përkatëse të titullarit të Drejtorisë së Përgjithshme të Arkivave.
