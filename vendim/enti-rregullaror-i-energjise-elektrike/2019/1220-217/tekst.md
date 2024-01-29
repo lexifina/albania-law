@@ -6,6 +6,10 @@ MBI LICENCIMIN E SHOQËRISË ELVA 2001 SHA NË VEPRIMTARINË E PRODHIMIT TË ENE
 
 1940 kW
 
+(ndryshuar me vendimin nr. 13, datë 29.1.2024)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37 pika 2, germa” a”, të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike”, të ndryshuar, të nenit 4, pika 1, germa “a”, të nenit 5, pika 1, germa “a” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, si dhe nenit 15, të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 20.12.2019 mbasi shqyrtoi relacionin e paraqitur nga shoqëria “Elva 2001” sh.p.k., si dhe pasi shqyrtoi relacionin nr. 115/4 prot., datë 12.12.2019, të përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes për shqyrtimin e aplikimit të shoqërisë “Elva 2001” sh.p.k., për licencim në veprimtarinë e prodhimit të energjisë elektrike, të kësaj shoqërie, nga HEC “Mivas”, me kapacitet të instaluar 1940 kW,
 
 konstatoi se: 
@@ -58,15 +62,23 @@ Për gjithë sa më sipër cituar, Bordi i ERE-s,
 
 VENDOSI:
 
-1. Të licencojë shoqërinë ‘Elva 2001’ sh.a., në veprimtarinë e prodhimit të energjisë elektrike nga HEC ‘Mivas’, me kapacitet të instaluar 1940 kw, për një afat 30-vjeçar.
+1. Të licencojë shoqërinë “Elva 2001” sh.a., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Mivas”, me kapacitet të instaluar 1940 kW, për një afat 30-vjeçar.
 
-2. Shoqëria “Elva 2001” sh.a. duhet të depozitojë në ERE: a) kontratën e rinovuar të qirasë me Bashkinë Gramsh, brenda datës 25.3.2029, ose certifikatën e lëshuar nga Agjencia Shtetërore e Kadastrës (ASHK), që rregullon të drejtën e përdorimet të pronës në zonë ku shtrihet centrali i prodhimit të energjisë elektrike; b) kontratën e rinovuar të qirasë me Bashkinë Skrapar, brenda datës 16.7.2026, ose certifikatën e lëshuar nga Agjencia Shtetërore e Kadastrës (ASHK), që rregullon të drejtën e përdorimet të pronës në zonë, ku shtrihet centrali i prodhimit të energjisë elektrike.
+2. Shoqëria “Elva 2001” sh.a. duhet të depozitojë në ERE:
 
-3. Shoqëria “Elva 2001” sh.a. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Mivas”, brenda datës 5.10.2028.
+	a) kontratën e rinovuar të qirasë me Bashkinë Gramsh brenda datës 25.3.2029, ose certifikatën e lëshuar nga Agjencia Shtetërore e Kadastrës (ASHK), që rregullon të drejtën e përdorimet të pronës në zonë ku shtrihet centrali i prodhimit të energjisë elektrike; 
 
-4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
+	 b) kontratën e rinovuar të qirasë me Bashkinë Skrapar brenda datës 16.7.2026, ose certifikatën e lëshuar nga Agjencia Shtetërore e Kadastrës (ASHK), që rregullon të drejtën e përdorimet të pronës në zonë ku shtrihet centrali i prodhimit të energjisë elektrike. 
 
-Ky vendim hyn në fuqi menjëherë. 
+3. Shoqëria “Elva 2001” sh.a. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Mivas” brenda datës 5.10.2028. 
+
+4. Në rast se shoqëria “Elva 2001” sh.a. nuk depoziton në afat lejen e rinovuar të përdorimit të burimit ujor, sikurse përcaktuar në pikën 3 të këtij vendimi, dhe ka një urdhër për ndërprerjen e aktivitetit nga Inspektorati Kombëtare i Mbrojtjes së Territorit (IKMT) atëherë nuk ka të drejtë të operojë/ushtrojë veprimtarinë e prodhimit të energjisë elektrike.
+
+  5. Ky vendim është objekt rishikimi në varësi të plotësimit të kushteve të tij.
+
+  6. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “Elva 2001” sh.a. për vendimin e Bordit të ERE-s. 
+
+    Ky vendim hyn në fuqi menjëherë. 
 
 Ky vendim botohet në Fletoren Zyrtare. 
 
