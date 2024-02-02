@@ -24,3 +24,4 @@ i. në Tiranë: Parku i Delegacioneve, Parku i Kryesisë së Kuvendit; Klinika q
 ii. në Kërrabë: vendkomanda e përgjithshme, për kohë të veçantë;
 iii. në Linzë: objektet, ku ruhen e mbrohen rezervat, për kohë të veçantë;
 iv. në Dajt: vendkomanda e përgjithshme, për kohë të veçantë.
+v. Salla “VIP” e Aeroportit Ndërkombëtar të Tiranës “Nënë Tereza”.
