@@ -1,0 +1,28 @@
+{
+  "qbz_id": 27336,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 8891, datë 2.5.2002, “Për organizimin dhe funksionimin e Komisioneve Hetimore të Kuvendit”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "106",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2023-12-21",
+  "published": "2024-01-19",
+  "in_force": "2024-02-03",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/d78133f185d2745d87ea92e5b3501b49aad0906983a155e97b80fc80dcb13943.docx",
+  "source_sha256": "d78133f185d2745d87ea92e5b3501b49aad0906983a155e97b80fc80dcb13943",
+  "official_record": "https://qbz.gov.al/api/v1/acts/27336",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2023/12/21/106",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    28664
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
