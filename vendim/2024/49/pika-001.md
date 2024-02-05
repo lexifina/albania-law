@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve dhe të masës së përfitimit të pagesës së qirasë për strehim për punonjësit e Agjencisë së Mbikëqyrjes Policore, të cilët transferohen në detyrë jashtë vendbanimit të përhershëm brenda vendit dhe të cilëve nuk u sigurohet nga Agjencia mjedisi për akomodim.

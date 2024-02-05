@@ -1,0 +1,1 @@
+3. Punonjësi i Agjencisë së Mbikëqyrjes Policore, që transferohet jashtë vendbanimit të tij të përhershëm brenda vendit, përfiton kompensim për qira banese, nëse transferohet për shkak të detyrës, për nevoja pune, në largësi mbi 36 km.

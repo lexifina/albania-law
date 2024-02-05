@@ -1,0 +1,1 @@
+5. Masa e përfitimit të kompensimit për strehim të jetë sa vlera minimale e qirasë mujore, sipas përcaktimeve në pikën 2, të vendimit nr. 469, datë 3.6.2015, të Këshillit të Ministrave, “Për përcaktimin e vlerës minimale të çmimit të referencave të qirave të ndërtesave për qëllime tatimore”.
