@@ -1,0 +1,1 @@
+2. Delegimin e autorizimit, për dërgim me shërbim jashtë vendit dhe brenda vendit në një largësi mbi 100 km jashtë qendrës së punës, të nëpunësve të Ministrisë së Financave dhe institucioneve të varësisë, te zëvendësministrat e Ministrisë së Financave, sipas fushës së tyre të përgjegjësisë.
