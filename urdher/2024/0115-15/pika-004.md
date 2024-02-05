@@ -1,0 +1,1 @@
+4. Urdhri i përbashkët nr. 312, datë 9.9.2019, “Për miratimin e modelit të certifikatës paraprake, certifikatës ’Subjekt i Certifikuar për Veprimtarinë e Agroturizmit’ dhe shenjës dalluese”, shfuqizohet.

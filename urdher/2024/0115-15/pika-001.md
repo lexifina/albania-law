@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi funksionimin e Komisionit Vlerësues të Certifikimit të Subjekteve që ushtrojnë veprimtarinë e agroturizmit, procedurat e aplikimit, të vlerësimit paraprak dhe përfundimtar, si dhe pezullimi dhe/ose shfuqizimi i “Certifikatës paraprake” apo i “Certifikatës”, sipas tekstit bashkëlidhur këtij urdhri.

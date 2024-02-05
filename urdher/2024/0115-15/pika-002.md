@@ -1,0 +1,1 @@
+2. Miratimin e modelit të “Certifikatës paraprake për veprimtari pritëse të certifikuar si agroturizëm” dhe certifikatës “Subjekt i certifikuar për veprimtarinë e agroturizmit” dhe shenjës dalluese në certifikatë sipas aneksit 2.

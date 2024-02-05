@@ -1,0 +1,1 @@
+3. Urdhri i përbashkët nr. 32, datë 26.1.2021, “Për miratimin e rregullores mbi funksionimin e Komisionit Vlerësues të Certifikimit të Subjekteve që ushtrojnë veprimtarinë e agroturizmit, procedurat e aplikimit, të vlerësimit paraprak dhe përfundimtar, si dhe pezullimi dhe/ose shfuqizimi i ’Certifikatës paraprake’ apo i ’Certifikatës’”, shfuqizohet.
