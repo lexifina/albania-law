@@ -1,0 +1,1 @@
+1. Organizimin dhe funksionimin e Agjencisë së Inteligjencës Financiare (AIF), si person juridik, publik, buxhetor, në varësi të ministrit përgjegjës për financat (në vijim ministri), me seli në Tiranë.

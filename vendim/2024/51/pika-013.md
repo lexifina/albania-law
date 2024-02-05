@@ -1,0 +1,1 @@
+13. Marrëdhënia e punës së nëpunësve të AIF-së është një marrëdhënie juridike e natyrës administrative, me qëllim krijimin e një strukture inteligjence financiare të qëndrueshme, profesionale, të bazuar në meritë dhe integritet.

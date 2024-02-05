@@ -1,0 +1,1 @@
+4. Misioni i AIF-së është të parandalojë pastrimin e parave e të produkteve që burojnë nga veprat penale, si dhe parandalimin e financimit të terrorizmit, duke bashkëpunuar me institucionet dhe organet kompetente kombëtare e ndërkombëtare për këtë qëllim.
