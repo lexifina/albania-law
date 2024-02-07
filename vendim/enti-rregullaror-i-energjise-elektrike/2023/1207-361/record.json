@@ -1,0 +1,28 @@
+{
+  "qbz_id": 27413,
+  "title": "Mbi licencimin e shoqërisë \"Gealb Energy\" sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga hidrocentralet \"Guri i Bardhë 1\" dhe \"Guri i Bardhë 2\"",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "361",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2023-12-07",
+  "published": "2024-02-07",
+  "in_force": "2024-02-07",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/4e9f1a008bc7ccab46079c3fb77c927fbbbd658ef0c47b6197ddcea38945124b.docx",
+  "source_sha256": "4e9f1a008bc7ccab46079c3fb77c927fbbbd658ef0c47b6197ddcea38945124b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/27413",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2023/12/07/361",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    27880
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
