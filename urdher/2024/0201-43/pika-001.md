@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, kopshti “Shpresa”, të subjektit juridik shoqata “Varka”, i licencuar me urdhrin nr. 114, datë 16.5.2002, të ministrit të Arsimit dhe Shkencës, “Për funksionimin e institucionit arsimor parauniversitar jopublik, kopshti ’Shpresa’”, me kërkesën e tij, regjistruar në MAS me nr. 7304 prot., datë 20.11.2023.

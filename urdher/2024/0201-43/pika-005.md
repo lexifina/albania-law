@@ -1,0 +1,1 @@
+5. Në rast të moszbatimit të detyrimeve, nga institucioni arsimor parauniversitar privat, kopshti “Shpresa”, të përcaktuara në pikën 2, të këtij urdhri, Zyra Vendore e Arsimit Parauniversitar, Lushnjë, të marrë të gjitha masat, sipas legjislacionit në fuqi.
