@@ -1,0 +1,1 @@
+7. DSHPA-ja përcakton një nivel prioriteti për aktivitetet e kontrollit dhe inspektimit në bazë të rezultateve të vlerësimit të riskut të kryer në përputhje me procedurat e përcaktuara në kreun II të këtij udhëzimi.

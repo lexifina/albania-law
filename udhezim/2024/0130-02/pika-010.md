@@ -1,0 +1,1 @@
+10. Të dhënat personale, të përfshira në informacionin e shkëmbyer, ruhen për një periudhë që tejkalon periudhat e përcaktuara në këtë krye, vetëm për qëllime të kërkimit shkencor dhe ofrimit të këshillave shkencorë.

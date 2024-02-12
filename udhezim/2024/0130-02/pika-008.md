@@ -1,0 +1,1 @@
+8. Çdo anije peshkimi ose segment i flotës i nënshtrohet kontrollit dhe inspektimit sipas nivelit të prioritetit, duke siguruar që të gjitha rezervat peshkore, të parashikuara në shtojcën I, të jenë të përfshira në mënyrë të përshtatshme.

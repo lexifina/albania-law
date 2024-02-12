@@ -1,0 +1,1 @@
+13. Informacioni periodik për shkeljet e zbuluara, sipas shtojcës II, përditësohet në çdo raport derisa inspektimi të përfundojë dhe kur nuk ndërmerret asnjë veprim pas konstatimit të një shkeljeje të rëndë, duhet të arsyetohet.

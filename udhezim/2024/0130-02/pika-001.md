@@ -1,0 +1,4 @@
+1. Ky udhëzim përcakton programe kontrolli dhe inspektimi për ato forma peshkimi që shfrytëzojnë:
+a) rezervat peshkore ose speciet e përfshira në planet shumëvjeçare të përmendura në pikat 2-10, të vendimit nr. 283, datë 29.4.2022, “Për masat menaxhuese të ruajtjes së burimeve peshkore dhe përfshirjen e institucioneve në marrjen dhe zbatimin e tyre”;
+b) specie për të cilat është përcaktuar një detyrim zbarkimi në përputhje me shkronjën “dh” të pikës 3, të vendimit nr. 283, datë 29.4.2022, “Për masat menaxhuese të ruajtjes së burimeve peshkore dhe përfshirjen e institucioneve në marrjen dhe zbatimin e tyre”;
+c) rezerva peshkore ose specie që u nënshtrohen masave të ruajtjes dhe menaxhimit të miratuara nga organizatat rajonale të menaxhimit të peshkimit, siç përcaktohet në shtojcën I, të këtij udhëzimi.

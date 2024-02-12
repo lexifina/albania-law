@@ -1,0 +1,1 @@
+12. DSHPA-ja brenda datës 31 mars të çdo viti, i dërgon Ministrisë një raport në lidhje me aktivitetet e kontrollit dhe inspektimit, të kryera sipas programeve të kontrollit dhe inspektimit të vitit kalendarik paraardhës, sipas shtojcës II bashkëlidhur këtij udhëzimi.

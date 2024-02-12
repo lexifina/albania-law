@@ -1,0 +1,1 @@
+14. Për aktivitetet e peshkimit, të parashikuara në shtojcën I, informacioni periodik për shkeljet e zbuluara i transmetohet elektronikisht Ministrisë deri më 15 shtator dhe përditësohet deri më 31 mars të vitit pasardhës.
