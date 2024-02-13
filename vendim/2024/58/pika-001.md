@@ -1,0 +1,1 @@
+1. Caktimin e Fondit Shqiptar të Zhvillimit, si autoritet kontraktor dhe njësi zbatuese, për kryerjen e procedurave të prokurimit publik për realizimin e projektit të shtesës së godinës “Poli i Drejtësië”, në funksion të Shkollës së Magjistraturës.

@@ -1,0 +1,3 @@
+2. Fondi Shqiptar i Zhvillimit, si autoritet kontraktor dhe njësi zbatuese, sipas pikës 1, ngarkohet të kryejë:
+a) të gjitha procedurat, sipas legjislacionit në fuqi, për prokurimin publik, duke lidhur edhe kontratën përkatëse, si dhe të ndjekë zbatimin e saj dhe të projektit përkatës;
+b) paraqitjen, në emër dhe për llogari të Shkollës së Magjistraturës, të kërkesave për miratimin e lejeve të zhvillimit dhe të ndërtimit pranë autoritetit të zhvillimit të territorit, si dhe ndjekjen e të gjitha veprimeve e procedurave të nevojshme për këtë qëllim, sipas legjislacionit në fuqi për planifikimin dhe zhvillimin e territorit. Këtu përfshihet edhe marrja e miratimeve paraprake apo vijuese nga autoritetet përgjegjëse, sipas legjislacionit në fuqi.
