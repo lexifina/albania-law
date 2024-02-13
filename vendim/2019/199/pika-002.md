@@ -1,5 +1,5 @@
 2. Emërimin e anëtarëve, përfaqësues të pushtetit qendror, në këshillin drejtues të Fondit Shqiptar të Zhvillimit, si më poshtë vijon:
-- znj. Elva Margariti, ministër i Kulturës;
+- z. Blendi Gonxhja, ministër i Ekonomisë, Kulturës dhe Inovacionit;
 - znj. Adela Xhemali, zëvendësministër i Financave dhe Ekonomisë;
 - znj. Almira Xhembulla, zëvendësministër i Turizmit dhe Mjedisit;
-- znj. Delina Ibrahimaj, ministër i Shtetit për Sipërmarrjen dhe Klimën e Biznesit.
+- z. Arbjan Mazniku, ministër i Shtetit për Pushtetin Vendor.
