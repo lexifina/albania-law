@@ -1,0 +1,1 @@
+1. Miratimin e rregullores teknike për standardet për trajtimin e ujërave të ndotura për subjektet që shkarkojnë ujëra të ndotura dhe të patrajtuara pranë ose në ujëra larëse, sipas tekstit bashkëlidhur këtij udhëzimi.
