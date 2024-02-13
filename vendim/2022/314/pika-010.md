@@ -1,2 +1,2 @@
-10. Këshilli i Start Up-eve, gjatë ushtrimit të veprimtarisë së tij, asistohet nga sekretariati teknik, i përbërë nga 2 (dy) anëtarë të kabinetit të ministrit përgjegjës për sipërmarrjen.
+10. Këshilli i Start Up-eve, për përmbushjen e detyrave dhe gjatë ushtrimit të veprimtarisë së tij, mbështetet nga Agjencia Shtetërore për Mbështetjen dhe Zhvillimin e Start Up-eve dhe Lehtësuesve, e cila vepron si sekretariat teknik i Këshillit, nëpërmjet punonjësve të ngarkuar nga drejtori i përgjithshëm.
 IV. KOMPETENCAT E KËSHILLIT TË START UP-eve
