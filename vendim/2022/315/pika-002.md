@@ -1,1 +1,0 @@
-2. Nga kjo mbështetje me grant mund të përfitojnë startup-et dhe lehtësuesit e startup-eve të vetëdeklaruar në regjistrin elektronik, sipas nenit 11, të ligjit nr. 25, datë 31.3.2022, “Për mbështetjen dhe zhvillimin e startup-eve”.

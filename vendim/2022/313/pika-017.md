@@ -1,1 +1,0 @@
-17. Funksionimi i komisionit të vlerësimit u nënshtrohet rregullave të parashikuara në legjislacionin për organet kolegjiale të administratës shtetërore për çështjet që nuk janë të rregulluara posaçërisht në këtë vendim.

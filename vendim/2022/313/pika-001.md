@@ -1,1 +1,0 @@
-1. Ngritjen e Komisionit të Vlerësimit të Dhënies së Granteve për Mbështetjen e Start Up-eve (në vijim “komisioni i vlerësimit”), si organ vlerësues për kërkesat e start up-eve dhe lehtësuesve për mbështetje me grant.
