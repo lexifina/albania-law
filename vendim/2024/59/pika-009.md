@@ -1,0 +1,16 @@
+9. Marrëveshja zgjidhet menjëherë, në rastet kur autoriteti dhe/ose institucionet e ngarkuara nga ai për monitorimin e marrëveshjes konstatojnë se:
+a) investitori falimenton ose ka kaluar në procedurë likuidimi;
+b) janë paraqitur të dhëna të rreme apo dokumente të falsifikuara në lidhje me kërkesat dhe dokumentacionin e nevojshëm për marrjen e statusit, të cilat provohen në çdo kohë;
+c) kushtet, për të cilat investitori e ka përfituar statusin, nuk qëndrojnë më dhe ai nuk ka marrë masat për t’u rikthyer në ato kushte apo kushte të ngjashme të pranueshme për autoritetin brenda 1 (një) viti nga njoftimi i këtij të fundit; si dhe
+ç) investitori braktis ndërtimin e strukturës akomoduese me 4 ose 5 yje, status special, apo në rast se investitori braktis veprimtarinë turistike që zhvillon te kjo strukturë akomoduese, sipas përcaktimeve të bëra në marrëveshje.
+VIII. SHFUQIZIMI I STATUSIT DHE EFEKTET E SHFUQIZIMIT
+1. Kur konstatohet një nga rastet e listuara në pikën 9, të kreut të VII, të këtij vendimi, ministri përgjegjës për turizmin, bazuar në raportin përmbledhës të komisionit, i propozon Këshillit të Ministrave shfuqizimin e statusit.
+2. Komisioni inicion hartimin e raportit përmbledhës për propozimin e shfuqizimit të statusit, pasi analizon/vlerëson dokumentacionin e paraqitur nga njësitë monitoruese respektive të ngritura nga autoriteti kontraktues.
+3. Përveç rastit kur marrëveshjes i përfundon afati normal i vlefshmërisë, shfuqizimi i statusit për arsyet e tjera të listuara në pikën 9, të kreut VII, të këtij vendimi, detyron investitorin që të kthejë të gjitha avantazhet e përftuara, sipas parashikimeve të nenit 12, të marrëveshjes, e cila është pjesë përbërëse e këtij vendimi.
+4. Përllogaritja kryhet nga organet kompetente tatimore, në formën që parashikon legjislacioni fiskal, dhe këto organe njoftojnë komisionin për detyrime që subjekti duhet të kthejë. Shuma e detyrimit është pjesë përbërëse e aktit të shfuqizimit. Për mbledhjen e këtyre detyrimeve organet tatimore kanë të gjitha të drejtat që legjislacioni në fuqi parashikon për mbledhjen e detyrimeve, përfshirë vendosjen e sekuestros ndaj pasurive të investitorit.
+IX. DISPOZITA KALIMTARE DHE TË FUNDIT
+1. Për kërkesat e paraqitura përpara hyrjes në fuqi të këtij vendimi, për të cilat nuk ka përfunduar procesi i shqyrtimit, si dhe për subjektet që kanë marrë statusin special përpara hyrjes në fuqi të këtij vendimi, por nuk kanë lidhur ende marrëveshjen, zbatohen dispozitat e këtij vendimi.
+2. Procedura e aplikimit online hyn në fuqi në momentin e ngritjes së regjistrit dhe deri në hyrjen në fuqi të kësaj procedure, dokumentacioni për shkronjat “b” dhe “c”, të pikës 7, të kreut IV, të këtij vendimi, depozitohen nga aplikuesi. Dorëzimi i aplikimit, si dhe tërheqja e dokumentacionit të parashikuar në pikën 5, të kreut IV, bëhet pranë ministrisë përgjegjëse për turizmin.
+3. Vendimi nr. 257, datë 9.5.2018, i Këshillit të Ministrave, “Për përcaktimin e kritereve, të procedurave dhe të dokumentacionit për subjektet që aplikojnë për statusin “Investitor në strukturë akomoduese me 4 ose 5 yje, status special”, shfuqizohet.
+4. Ngarkohet ministria përgjegjëse për turizmin për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

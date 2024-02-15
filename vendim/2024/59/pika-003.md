@@ -1,0 +1,1 @@
+3. Autoriteti është përgjegjës për pritjen, shqyrtimin dhe vlerësimin e aplikimit, ndjekjen e të gjitha procedurave të përcaktuara në këtë vendim, deri në lidhjen e marrëveshjes së zhvillimit ndërmjet autoritetit dhe aplikuesit të suksesshëm, nëpërmjet komisionit të përhershëm të vlerësimit të aplikimeve (komisioni).

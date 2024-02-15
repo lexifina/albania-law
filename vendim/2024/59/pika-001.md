@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i kritereve, i procedurave dhe i dokumentacionit që duhet të plotësojnë subjektet që duan të aplikojnë për statusin “Investitor në strukturë akomoduese me 4 ose 5 yje, status special”, strukturës që do të merret me shqyrtimin e aplikimeve, si dhe i procedurës që do të ndiqet.
