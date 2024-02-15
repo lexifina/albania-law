@@ -1,1 +1,0 @@
-7. Nuk mund të marrin pjesë në këtë komision personat që kanë konflikt interesi me aplikuesit, sipas kuptimit të ligjit nr. 9367, datë 7.4.2005, “Për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike”, të ndryshuar.

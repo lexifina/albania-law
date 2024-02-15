@@ -1,1 +1,0 @@
-6. Komisioni përbëhet nga 7 (shtatë) anëtarë, përfaqësues të strukturave përkatëse në ministrinë përgjegjëse për turizmin ose institucione në varësi të saj dhe asistohet nga sekretariati teknik. Përbërja nominale e komisionit dhe sekretariatit teknik si dhe mënyra e organizimit dhe e funksionimit të tyre përcaktohen me urdhër të ministrit përgjegjës për turizmin.

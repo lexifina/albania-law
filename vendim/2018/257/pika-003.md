@@ -1,1 +1,0 @@
-3. Në rast se aplikuesi është një SPV, atëherë do të duhet që të gjitha kriteret e kualifikimit të përcaktuara në këtë krye të plotësohen nga kompania mëmë. Në këtë rast, kompania mëmë është përgjegjëse solidare me detyrimet kontraktuale të SPV-së që rrjedhin nga statusi special.
