@@ -1,1 +1,1 @@
-19. Çmimet e shitjes së teksteve të botuara nga QBD-ja dhe kategoritë që mund t’i përfitojnë falas ato përcaktohen me vendim Këshillit të Ministrave, me bashkëpropozim të ministrit përgjegjës për diasporën dhe të ministrit përgjegjës për financën.
+19. Shfuqizuar

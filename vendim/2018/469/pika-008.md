@@ -1,2 +1,2 @@
-8. Pranë QBD-së funksionon Këshilli Koordinues i Botimeve për Diasporën, si organ këshillimor e vendimmarrës për çështjet e botimeve për diasporën.
-8/1. Pranë Qendrës së Botimeve për Diasporën funksionon Këshilli Koordinues i Arsimtarëve të Diasporës, i cili ka për qëllim të japë informacionet e nevojshme të lidhura me çështjet e arsimit, si dhe propozime konkrete të lidhura me to.
+8. Pranë QBD-së funksionon Këshilli Koordinues i Botimeve për Diasporën, si organ vendimmarrës për çështjet e botimeve dhe aktiviteteve për diasporën.
+8/1. Pranë Qendrës së Botimeve për Diasporën funksionon Këshilli Koordinues i Arsimtarëve të Diasporës, si organ këshillimor për çështjet e mësimit të gjuhës shqipe dhe kulturës shqiptare në diasporë.
