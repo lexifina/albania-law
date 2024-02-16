@@ -1,0 +1,1 @@
+4. Numri i punonjësve të përmendur në pikat 1, 2 dhe 3, të këtij vendimi, alokohet në aparatin e ministrisë përgjegjëse për ekonominë, kulturën dhe inovacionin, dhe numri i punonjësve për këtë ministri bëhet 275 (dyqind e shtatëdhjetë e pesë) veta.

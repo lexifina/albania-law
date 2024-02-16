@@ -1,0 +1,1 @@
+3. Numri i punonjësve rezervë të buxhetit të miratuar për vitin 2024 reduktohet me 71 (shtatëdhjetë e një) punonjës, duke e çuar numrin e përgjithshëm të punonjësve rezervë në 29 (njëzet e nëntë) veta.
