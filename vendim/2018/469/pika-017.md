@@ -1,1 +1,1 @@
-17. Rregullorja për metodat e brendshme të punës dhe për sjelljen e personelit të QBD-së miratohen nga ministri përgjegjës për diasporën pas propozimit të drejtorit të saj.
+17. Rregullorja për metodat e brendshme të punës dhe të sjelljes së personelit të Qendrës së Botimeve për Diasporën miratohen nga ministri përgjegjës për arsimin, pas propozimit të drejtorit të saj.

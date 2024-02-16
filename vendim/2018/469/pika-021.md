@@ -1,1 +1,1 @@
-21. Vula e QBD-së ka formën dhe elementet sipas përcaktimit të vendimit të Këshillit të Ministrave për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare. Vula prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
+21. Vula e QBD-së ka formën dhe elementet sipas rregullave të prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare.

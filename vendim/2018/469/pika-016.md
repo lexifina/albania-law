@@ -1,1 +1,1 @@
-16. Struktura dhe organika e QBD-së miratohen me urdhër të Kryeministrit, sipas përcaktimeve në legjislacionin në fuqi për organizimin dhe funksionimin e administratës shtetërore.
+16. Struktura dhe organika e QBD-së miratohen me urdhër të Kryeministrit, me propozim të ministrit përgjegjës për arsimin.
