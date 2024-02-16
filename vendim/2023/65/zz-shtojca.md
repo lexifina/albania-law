@@ -217,3 +217,118 @@ MBI KETE PASURI POZICIONOHET 170/51-ND VOL 19FQ121 L. LEG
 Tirane, Rruga Kostandin Shpataraku
 Vlera Totale
 51783837.3
+LISTA SHTESË E PRONARËVE, TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE QË SHPRONËSOHEN, PËR INTERES PUBLIK, NGA REALIZIMI I PROJEKTIT “RIKUALIFIKIMI I AKSEVE RRUGORE ’UNAZA LINDORE, LOTI II’ DHE PROBLEMATIKAT E RRUGËVE DYTËSORE TË OBJEKTIT’”
+Nr.
+PRONARI
+TË DHËNAT KADASTRALE
+(sipas kartelës së pasurisë )
+TË DHËNAT PËR SHPRONËSIM
+Konfirmimet
+SHËNIME
+Adresa
+Emri
+Atësia
+Mbiemri
+ZK
+Nr. i pas.
+Lloji i pas.
+Sip. totale (m2)
+Shpronësim tokë “arë”
+Shpronësim tokë “truall”
+Objekt social-ekonomik
+VLERA TOTALE (lekë)
+Sip.
+(m2)
+Çmimi
+(lekë/m2)
+Vlera
+(lekë)
+Sip.
+(m2)
+Çmimi
+(lekë/m2)
+Vlera
+(lekë)
+Sip. e ndërtesës
+Vlera e preventivit
+11
+Besnik
+Haxhi
+Balla
+1604
+45/13
+truall
+500
+107
+5140
+549980
+549980
+Konfirmuar nga ASHK-ja
+Shënim. Seksioni. E “Godinë banimi 2kat + 1 kat nën tokë +109.5m2 kati përdhe =108.1m2 sip verande=30.1 sip kat i parë 108.1m2 sip verande 36.5 sip papafingo=80.5m2 sip.verande=19.5m2 sip.katit përdhe objekt ndihmës=35.3m2”. Objekti i banimit sipas dokumentacionit të lëshuar nga ASHK-ja nuk preket nga shpronësimi.
+Tiranë, Shkozë
+12
+Nazif
+Tahir
+Hate
+3976
+236/193
+truall
+20
+6
+479
+2874
+15.2
+432973.98
+435848
+Konfirmuar nga ASHK-ja
+Tiranë, Shkozë
+Tahir
+Nazif
+Hate
+13
+Artur
+Novruz
+Hysenaj
+3976
+234/24
+truall
+450
+59
+479
+28261
+28261
+Konfirmuar nga ASHK-ja
+Tiranë, Shkozë
+Ajet
+Novruz
+Hysenaj
+14
+Halim
+Tahir
+Hate
+3976
+236/13
+arë
+600
+25
+448
+11200
+11200
+Konfirmuar nga ASHK-ja
+Tiranë, Shkozë
+15
+Besnik
+Haxhi
+Balla
+1604
+45/11
+arë
+930
+117
+448
+52416
+52416
+Konfirmuar nga ASHK-ja
+Tiranë, Surrel
+Vlera totale
+1077705
