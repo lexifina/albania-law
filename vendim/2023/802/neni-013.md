@@ -1,0 +1,5 @@
+# Neni 13
+Regjistrimi
+1. Avionët e përdorur nga një transportues ajror, i licencuar nga Autoriteti i Aviacionit Civil, do të regjistrohen sipas zgjedhjes së Autoritetit të Aviacionit Civil, si autoriteti kompetent që lëshon licencën e operimit ose në Qendrën Kombëtare të Biznesit ,ose në regjistrin kombëtar të një shteti tjetër anëtar, kur Republika e Shqipërisë të jetë pjesë e ZPEA-së.
+Megjithatë, kur përdoret nën një qira të thatë (dry lease) ose një marrëveshje qiraje të njomë (wet lease), në përputhje me nenin 14, të këtij vendimi, avionë të tillë mund të regjistrohen në regjistrin kombëtar ose të çdo shteti tjetër.
+2. Në përputhje me pikën 1, të këtij neni, Autoriteti i Aviacionit Civil, në përputhje me legjislacionin në fuqi, do të pranojë në Qendrën Kombëtare të Biznesit, pa asnjë tarifë diskriminuese dhe pa vonesë, avionë në pronësi të shtetasve të shteteve të tjera anëtare, sipas përcaktimeve të marrëveshjes shumëpalëshe dhe transferime nga regjistrat e avionëve të shteteve të tjera anëtare. Asnjë tarifë nuk do të aplikohet për transferimet e avionëve, përveç tarifës normale të regjistrimit.
