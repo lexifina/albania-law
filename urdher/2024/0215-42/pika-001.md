@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të drejtorit të përgjithshëm të Shërbimit të Mbrojtjes nga Zjarri dhe Shpëtimin, drejtues zjarrfikës Arben Cara, me detyrë drejtor i Trajnimit dhe Mbështetjes Logjistike të MZSH-së, në Drejtorinë e Përgjithshme të MZSH-së.
