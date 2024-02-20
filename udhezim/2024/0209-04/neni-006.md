@@ -1,0 +1,10 @@
+# Neni 6
+Ushqimi që duhet t’i nënshtrohet klasifikimit ose trajtimit tjetër fizik përpara se të vendoset në treg për konsumatorin e fundit ose të përdoret si përbërës ushqimor
+1. Kur një nivel maksimal për një kontaminant është përcaktuar në shtojcë në mënyrë specifike, veçanërisht për sa i përket ushqimit që duhet t’i nënshtrohet ndarjes ose trajtimit tjetër fizik përpara se të hidhet në treg për konsumatorin e fundit ose të përdoret si përbërës ushqimor, ky ushqim mund të vendoset në treg me kusht që:
+a) nuk është për konsumatorin e fundit ose nuk përdoret si përbërës ushqimor;
+b) është në përputhje me nivelin maksimal të përcaktuar në shtojcë për atë kontaminant në atë ushqim që duhet t’i nënshtrohet klasifikimit ose trajtimit tjetër fizik përpara se të vendoset në treg për konsumatorin e fundit, ose të përdoret si përbërës ushqimor, dhe;
+c) është etiketuar dhe shënuar në përputhje me pikën 2 të këtij neni.
+2. Etiketa e çdo paketimi individual dhe dokumenti origjinal shoqërues të ushqimit të përmendur në paragrafin 1, pika “c”, duhet të tregojnë qartë përdorimin e tij dhe të përmbajnë informacionin e mëposhtëm: “Produkti duhet t’i nënshtrohet ndarjes ose trajtimit tjetër fizik për të reduktuar [emri i kontaminantit/tëve] kontaminimin përpara se të vendoset në treg për konsumatorin e fundit ose të përdoret si përbërës ushqimor”.
+Kodi i identifikimit të ngarkesës/porcionit duhet të shënohet në mënyrë të pashlyeshme në çdo paketim individual të ngarkesës dhe në dokumentin origjinal shoqërues.
+3. Ushqimi që do t’i nënshtrohet ndarjes ose trajtimit tjetër fizik për të reduktuar nivelet e kontaminimit nuk duhet të përzihet para kësaj me ushqimin e vendosur në treg për konsumatorin e fundit ose me ushqimin e destinuar për t’u përdorur si përbërës ushqimor.
+4. Ushqimi që i është nënshtruar ndarjes ose trajtimit tjetër fizik për të reduktuar nivelet e kontaminimit mund të vendoset në treg me kusht që nivelet maksimale të përcaktuara në shtojcë për ushqimin e vendosur në treg për konsumatorin e fundit ose përdorimin si përbërës ushqimor nuk janë tejkaluar dhe se trajtimi i përdorur nuk ka rezultuar në praninë e mbetjeve të tjera të dëmshme.
