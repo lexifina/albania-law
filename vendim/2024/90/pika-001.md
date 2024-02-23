@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni i shesheve të pallateve në lagjen ’Partizani’, ZK 8524, Bashkia Elbasan”.
