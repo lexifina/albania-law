@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave administrative të drejtorit të përgjithshëm të DPSHTRR-së zëvendësdrejtorit të përgjithshëm, z. Endri Haxhiu, për nënshkrimin e akteve administrative në formën e vendimeve, certifikatave, licencave dhe trajtimin, komunikimin, ndjekjen e procedurave zyrtare, objekt të veprimtarisë së Drejtorisë së Licencimit dhe Certifikimit.

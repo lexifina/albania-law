@@ -1,0 +1,1 @@
+2. Delegimin e kompetencave për trajtimin, komunikimin, ndjekjen e procedurave zyrtare në çështjet kryesisht të karakterit teknik dhe rregullator të institucionit, si dhe nënshkrimit e kërkesave për informacion të dërguara zyrtarisht nga institucione shtetërore, persona fizikë dhe juridikë, shqiptarë dhe/ose të huaj.
