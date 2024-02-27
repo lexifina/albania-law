@@ -1,0 +1,1 @@
+Miratimin e aktit normativ, me fuqinë e ligjit, nr. 8, datë 28.12.2023, “Për marrjen e masave urgjente për mbrojtjen dhe përmirësimin e infrastrukturës për trajtimin e ujërave të ndotura që shkarkohen pranë ose në ujëra larëse”.
