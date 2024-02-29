@@ -1,1 +1,0 @@
-1. Nëpunësi autorizues i njësisë së qeverisjes së përgjithshme ka detyrimin e përgatitjes dhe nënshkrimit të deklaratës dhe të raportit vjetor mbi cilësinë dhe funksionimin e sistemit të kontrollit të brendshëm gjatë vitit të mëparshëm buxhetor për njësinë publike që mbulon, e cila përfshin organin qendror të njësisë, njësitë e vartësisë dhe njësitë e kontrolluara.

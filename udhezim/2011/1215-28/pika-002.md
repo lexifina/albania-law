@@ -1,1 +1,0 @@
-2. Njësitë e kontrolluara përfshijnë, në kuptim të këtij udhëzimi, shoqëritë tregtare, organizatat jofitimprurëse dhe autoritetet e përbashkëta, që zotërohen, kontrollohen, financohen ose garantohen financiarisht nga njësia e qeverisjes së përgjithshme.

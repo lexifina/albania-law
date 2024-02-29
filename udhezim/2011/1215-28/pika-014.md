@@ -1,2 +1,0 @@
-14. Vlerësimi i sistemit të menaxhimit financiar dhe kontrollit në njësinë publike kryhet nga nëpunësi autorizues për çdo komponent të menaxhimit financiar dhe kontrollit në veçanti, bazuar në orientimet e kapitujve II dhe III të manualit “Për menaxhimin financiar dhe kontrollin” të miratuar me urdhër të Ministrit të Financave, nr.54 datë 15.7.2010.
-Organizimi i brendshëm i procesit të hartimit të raportit vjetor

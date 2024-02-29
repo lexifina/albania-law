@@ -1,1 +1,0 @@
-8. Gjatë procesit të monitorimit të sistemit dhe hartimit të raportit vjetor, nëpunësi i parë autorizues mbështetet nga njësia qendrore e harmonizimit të menaxhimit financiar dhe kontrollit në bashkëpunim me njësinë qendrore të harmonizimit të auditimit të brendshëm.
