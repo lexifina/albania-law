@@ -1,0 +1,1 @@
+2. Zëvendësministrit të Mbrojtjes, z. Enkelejdi Joti, i delegohet kompetenca për nënshkrimin e urdhrave apo çdo akti tjetër të nevojshëm, në funksion të ushtrimit të përgjegjësisë së administrimit të pronave të Ministrisë së Mbrojtjes.
