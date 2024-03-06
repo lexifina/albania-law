@@ -6,6 +6,10 @@
 
 	SHKODËR SHA
 
+	(Ndryshuar me vendimin nr. 5, dt. 6.3.2024)
+
+	(i përditësuar)
+
 Në mbështetje të neneve 13, 14, 15, 16 dhe 17, të ligjit nr. 8102, datë 28.3.1996, “Për kuadrin rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, të ndryshuar (ligji nr. 8102), të VKM-së nr. 958, datë 6.5.2009, “Për miratimin e kategorive të licencimit dhe të procedurave për aplikim për licence” (VKM-ja nr.958), si dhe të vendimit të Komisionit Kombëtar Rregullator nr. 29, datë 8.12.2009, “Për procedurat e dhënies dhe rinovimit të licencave profesionale për subjektet juridike e fizike që ushtrojnë veprimtari në sektorin e furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, të ndryshuar (Rregullore e licencimit), 
 
 KOMISIONI KOMBËTAR RREGULLATOR,
@@ -50,7 +54,7 @@ VENDOSI:
 
 	2. Shoqëria Rajonale Ujësjellës-Kanalizime Shkodër sh.a. autorizohet të kryejë veprimtaritë e licencuara me:
 
-	a) Drejtues ligjor: Mark Molla;
+	a) Drejtues ligjor: Besmir Lesha;
 
 	b) Drejtues teknik: Lazër Pemaj;
 
