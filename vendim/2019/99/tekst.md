@@ -2,7 +2,11 @@ VENDIM
 
 Nr. 99, datë 27.2.2019
 
-PËR KRIJIMIN, MËNYRËN E ORGANIZIMIT E TË FUNKSIONIMIT TË DREJTORISË SË PËRGJITHSHME TË ARSIMIT PARAUNIVERSITAR
+PËR KRIJIMIN, MËNYRËN E ORGANIZIMIT E TË FUNKSIONIMIT TË AGJENCISË KOMBËTARE TË ARSIMIT PARAUNIVERSITAR 
+
+(Ndryshuar me VKM nr. 129, datë 6.3.2024)
+
+                                                                                                                    (i përditësuar)
 
 Në mbështetje të nenit 100 të Kushtetutës, të neneve 25, 70 e 71, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, të ndryshuar, dhe të nenit 6, të ligjit nr. 90/2012, “Për organizimin dhe funksionimin e administratës shtetërore”, me propozimin e ministrit të Arsimit, Sportit dhe Rinisë, Këshilli i Ministrave
 
@@ -10,17 +14,17 @@ VENDOSI:
 
 I. DISPOZITA TË PËRGJITHSHME
 
-1. Krijimin e Drejtorisë së Përgjithshme të Arsimit Parauniversitar (në vijim, DPAP), si person juridik publik buxhetor, në varësi të ministrit përgjegjës për arsimin (në vijim, ministri), me seli në Tiranë. DPAP-ja financohet nga buxheti i shtetit dhe burime të tjera të ligjshme.
+1. Krijimin e Agjencisë Kombëtare të Arsimit Parauniversitar (në vijim, AKAP), si person juridik publik buxhetor, në varësi të ministrit përgjegjës për arsimin (në vijim, ministri), me seli në Tiranë. AKAP-ja financohet nga buxheti i shtetit dhe burime të tjera të ligjshme.
 
-2. DPAP-ja është tërësia e institucioneve administrative dhe ofruese të shërbimeve arsimore parauniversitare, pjesë integrale e sistemit të ministrisë përgjegjëse për arsimin, që kontribuon në realizimin e qëllimit të përgjithshëm për shërbim arsimor cilësor.
+2. AKAP-ja është tërësia e institucioneve administrative dhe ofruese të shërbimeve arsimore parauniversitare, pjesë integrale e sistemit të ministrisë përgjegjëse për arsimin, që kontribuon në realizimin e qëllimit të përgjithshëm për shërbim arsimor cilësor.
 
-3. Misioni i DPAP-së është ofrimi dhe sigurimi i shërbimit arsimor cilësor në të gjitha institucionet arsimore të sistemit parauniversitar në Republikën e Shqipërisë e në përputhje me politikat, strategjitë kombëtare dhe kurrikulën e arsimit parauniversitar, me qëllim zhvillimin dhe edukimin e plotë e të gjithanshëm të nxënësit, në mënyrë që të përballojë sfidat e së ardhmes.
+3. Misioni i AKAP-së është ofrimi dhe sigurimi i shërbimit arsimor cilësor në të gjitha institucionet arsimore të sistemit parauniversitar në Republikën e Shqipërisë e në përputhje me politikat, strategjitë kombëtare dhe kurrikulën e arsimit parauniversitar, me qëllim zhvillimin dhe edukimin e plotë e të gjithanshëm të nxënësit, në mënyrë që të përballojë sfidat e së ardhmes.
 
-4. DPAP-ja ushtron veprimtarinë e saj në të gjithë territorin e vendit dhe ka fushë përgjegjësie ofrimin dhe sigurimin e shërbimit arsimor cilësor në të gjitha institucionet arsimore të sistemit parauniversitar në Republikën e Shqipërisë.
+4. AKAP-ja ushtron veprimtarinë e saj në të gjithë territorin e vendit dhe ka fushë përgjegjësie ofrimin dhe sigurimin e shërbimit arsimor cilësor në të gjitha institucionet arsimore të sistemit parauniversitar në Republikën e Shqipërisë.
 
-II. PËRGJEGJËSITË FUNKSIONALE TË DREJTORISË SË PËRGJITHSHME TË ARSIMIT PARAUNIVERSITAR
+II. PËRGJEGJËSITË FUNKSIONALE TË AGJENCISË KOMBËTARE TË ARSIMIT PARAUNIVERSITAR 
 
-DPAP-ja ka këto përgjegjësi:
+AKAP-ja ka këto përgjegjësi:
 
 1. Të ofrojë shërbim cilësor në sistemin arsimor parauniversitar nëpërmjet monitorimit, vlerësimit dhe inspektimit.
 
@@ -32,11 +36,11 @@ DPAP-ja ka këto përgjegjësi:
 
 5. Të vlerësojë përmbushjen e kritereve të licencimit dhe të ushtrimit të veprimtarisë së institucioneve arsimore private në fushën e arsimit parauniversitar, si dhe t’i propozojë ministrit dënimin administrativ plotësues të pezullimit apo heqjes së licencës për ushtrimin e veprimtarisë.
 
-III. ORGANIZIMI DHE FUNKSIONIMI I DREJTORISË SË PËRGJITHSHME TË ARSIMIT PARAUNIVERSITAR 
+III. ORGANIZIMI DHE FUNKSIONIMI I AGJENCISË KOMBËTARE TË ARSIMIT PARAUNIVERSITAR 
 
-1. DPAP-ja e shtrin veprimtarinë e saj në të gjithë territorin e Republikës së Shqipërisë. Ajo organizohet në:
+1. AKAP-ja e shtrin veprimtarinë e saj në të gjithë territorin e Republikës së Shqipërisë. Ajo organizohet në:
 
-a) nivel qendror, nëpërmjet drejtorisë qendrore;
+a) nivel qendror, nëpërmjet agjencisë kombëtare 
 
 b) nivel rajonal, nëpërmjet drejtorive rajonale të arsimit parauniversitar;
 
@@ -44,17 +48,17 @@ c) njësitë e ofrimit direkt të shërbimeve, të cilat përfshijnë zyrat vend
 
 2. Drejtoritë rajonale krijohen kur mbulojnë jo më pak se 4 000 (katër mijë) punonjës. Ministri propozon numrin e drejtorive rajonale të arsimit parauniversitar, shtrirjen territoriale dhe qarkun ku do të ngrihet drejtoria rajonale.
 
-3. Drejtoritë rajonale raportojnë te Drejtori i Përgjithshëm i DPAP-së dhe kanë në varësinë e tyre njësitë e ofrimit direkt të shërbimeve. 
+3. Drejtoritë rajonale raportojnë te Drejtori i Përgjithshëm i AKAP-së dhe kanë në varësinë e tyre njësitë e ofrimit direkt të shërbimeve. 
 
-4. DPAP-ja ka lidhje funksionale bashkëpunimi me institucionet e tjera të sistemit arsimor parauniversitar në varësi të ministrit.
+4. AKAP-ja ka lidhje funksionale bashkëpunimi me institucionet e tjera të sistemit arsimor parauniversitar në varësi të ministrit.
 
-5. DPAP-ja drejtohet nga Drejtori i Përgjithshëm, i cili organizon dhe drejton të gjithë veprimtarinë e drejtorisë përkatëse dhe përgjigjet përpara ministrit. Drejtori i Përgjithshëm emërohet dhe lirohet nga ministri. 
+5. AKAP-ja drejtohet nga drejtori i përgjithshëm, i cili organizon dhe drejton të gjithë veprimtarinë e agjencisë kombëtare dhe përgjigjet përpara ministrit. Drejtori i përgjithshëm emërohet dhe lirohet nga ministri. Drejtori i përgjithshëm mbështetet nga 1 (një) zëvendësdrejtor i përgjithshëm, i cili emërohet me të njëjtat procedura si drejtori i përgjithshëm.
 
-6. Struktura dhe organika e drejtorisë së përgjithshme në nivel qendror dhe e drejtorive rajonale miratohet me urdhër të Kryeministrit, sipas përcaktimeve në legjislacionin në fuqi për organizimin e funksionimin e administratës shtetërore. 
+6. Struktura dhe organika e agjencisë kombëtare dhe e drejtorive rajonale miratohet me urdhër të Kryeministrit, sipas përcaktimeve në legjislacionin në fuqi për organizimin e funksionimin e administratës shtetërore. 
 
 7. Struktura dhe organika e zyrave vendore të arsimit miratohen më urdhër të ministrit, ndërsa organika e institucioneve të arsimit parauniveristar publik miratohet nga drejtoria rajonale, sipas propozimeve të secilës zyrë vendore të arsimit, brenda numrit të përgjithshëm të punonjësve të miratuar nga ministria për secilën zyrë vendore arsimore.
 
-8. Drejtoria qendrore kryen detyrat, si më poshtë vijon: 
+8. Agjencia kombëtare kryen detyrat, si më poshtë vijon: 
 
 a) Bashkërendon zbatimin e politikave, strategjive të zhvillimit, programeve, kuadrin rregullator dhe kurrikulën në fushën e arsimit parauniversitar nëpërmjet monitorimit, vlerësimit dhe inspektimit.
 
@@ -106,25 +110,25 @@ l) Vlerësojnë dhe shqyrtojnë kërkesat e ministrisë përgjegjëse për arsim
 
 ll) Ofrojnë shërbime ndaj qytetarëve.
 
-10. Drejtoritë rajonale sigurojnë, për zyrat vendore të arsimit që kanë nën juridiksion, asistencë juridike dhe përfaqësimin gjyqësor, si dhe shërbimet financiare e mbështetëse që nuk u janë deleguar zyrave vendore të arsimit nga DPAP-ja.
+10. Drejtoritë rajonale sigurojnë, për zyrat vendore të arsimit që kanë nën juridiksion, asistencë juridike dhe përfaqësimin gjyqësor, si dhe shërbimet financiare e mbështetëse që nuk u janë deleguar zyrave vendore të arsimit nga AKAP-ja.
 
 11. Drejtorët e drejtorive rajonale emërojnë drejtorët e institucioneve arsimore publike, sipas udhëzimit përkatës të ministrit. 
 
-12. Ministri, me propozimin e Drejtorit të Përgjithshëm, miraton rregulloren që përcakton metodat e brendshme të punës dhe sjelljen e personelit të DPAP-së. 
+12. Ministri, me propozimin e Drejtorit të Përgjithshëm, miraton rregulloren që përcakton metodat e brendshme të punës dhe sjelljen e personelit të AKAP-së. 
 
-13. Marrëdhëniet e punës së Drejtorit të Përgjithshëm dhe nëpunësve të DPAP-së, në nivel qendror e rajonal, si dhe në njësitë e ofrimit direkt të shërbimeve, rregullohen në bazë të dispozitave të Kodit të Punës. Pranimi dhe lirimi nga detyra i punonjësve bëhet nëpërmjet procedurave të konkurrimit të hapur, mbi bazën e rregullave të miratuara me urdhër të ministrit.
+13. Marrëdhëniet e punës së Drejtorit të Përgjithshëm dhe nëpunësve të AKAP-së, në nivel qendror e rajonal, si dhe në njësitë e ofrimit direkt të shërbimeve, rregullohen në bazë të dispozitave të Kodit të Punës. Pranimi dhe lirimi nga detyra i punonjësve bëhet nëpërmjet procedurave të konkurrimit të hapur, mbi bazën e rregullave të miratuara me urdhër të ministrit.
 
 14. Drejtorët e drejtorive rajonale të arsimit parauniversitar emërohen dhe lirohen nga ministri. Drejtuesit e zyrave vendore, si dhe nëpunësit/punonjësit e drejtorive rajonale e të zyrave vendore emërohen dhe lirohen nga Drejtori i Përgjithshëm, sipas përcaktimeve në urdhrin përkatës të ministrit.
 
-15. DPAP-ja ka stemën, logon dhe vulën zyrtare. Stema e DPAP-së ka shënimet “Republika e Shqipërisë, Ministria e Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme e Arsimit Parauniversitar, Drejtoria Qendrore”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave, për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.
+15. AKAP-ja ka stemën, logon dhe vulën zyrtare. Stema e AKAP-së ka shënimet “Republika e Shqipërisë, Ministria e Arsimit dhe Sportit, Agjencia Kombëtare e Arsimit Parauniversitar, Drejtoria Qendrore”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave, për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.
 
-16. Drejtoritë rajonale të arsimit parauniversitar kanë stemat, logot dhe vulat zyrtare. Stema e secilës drejtori rajonale ka shënimet “Republika e Shqipërisë, Ministria e Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme e Arsimit Parauniversitar, Drejtoria Rajonale e Arsimit Parauniversitar (emri i qarkut ku ka selinë drejtoria)”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave, për mënyrën e përdorimit të stemës së Republikës.
+16. Drejtoritë rajonale të arsimit parauniversitar kanë stemat, logot dhe vulat zyrtare. Stema e secilës drejtori rajonale ka shënimet “Republika e Shqipërisë, Ministria e Arsimit dhe Sportit, Agjencia Kombëtare e Arsimit Parauniversitar, Drejtoria Rajonale e Arsimit Parauniversitar (emri i qarkut ku ka selinë drejtoria)”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave, për mënyrën e përdorimit të stemës së Republikës.
 
-17. Vula e DPAP-së, e drejtorive rajonale dhe zyrave vendore të arsimit, ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave, për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare. Vula prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi. 
+17. Vula e AKAP-së, e drejtorive rajonale dhe zyrave vendore të arsimit, ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave, për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare. Vula prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi. 
 
 IV. DISPOZITA KALIMTARE DHE TË FUNDIT
 
-1. Deri në fillimin e funksionimit të plotë të DPAP-së, sipas këtij vendimi, strukturat aktuale vazhdojnë funksionimin e tyre sipas numrit faktik në përputhje me strukturat dhe organikat e miratuara.
+1. Deri në fillimin e funksionimit të plotë të AKAP-së, sipas këtij vendimi, strukturat aktuale vazhdojnë funksionimin e tyre sipas numrit faktik në përputhje me strukturat dhe organikat e miratuara.
 
 2. Për nëpunësit civilë aktualë të njësive arsimore vendore (drejtorive arsimore rajonale dhe zyrave arsimore) zbatohen dispozitat e legjislacionit për nëpunësin civil në rastin e mbylljes dhe të ristrukturimit të institucionit. Për punonjësit administrativë zbatohen dispozitat e Kodit të Punës.
 
@@ -132,7 +136,7 @@ IV. DISPOZITA KALIMTARE DHE TË FUNDIT
 
 4. Vendimi nr. 66, datë 3.2.2010, i Këshillit të Ministrave, “Për riorganizimin e drejtorive arsimore rajonale dhe zyrave arsimore”, i ndryshuar, shfuqizohet.
 
-5. Ngarkohen Ministria e Arsimit, Sportit dhe Rinisë dhe Departamenti i Administratës Publike për zbatimin e këtij vendimi.
+5. Ngarkohen Ministria e Arsimit dhe Sportit dhe Departamenti i Administratës Publike për zbatimin e këtij vendimi.
 
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
 
