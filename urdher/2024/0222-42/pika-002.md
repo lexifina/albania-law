@@ -1,0 +1,5 @@
+2. Zëvendësministri z. Ami Kozeli, është i autorizuar të nënshkruajë dokumentet e mëposhtme:
+a) marrëveshje mbi bashkëpunimin ndërinstitucional ndërmjet Koordinatorit Kombëtar të IPA-s, Zyrtarit Kombëtar të Autorizimit, Organeve të Ndërmjetme për Menaxhimin e Politikave dhe Organit të Ndërmjetëm për Menaxhimin Financiar për zbatimin nën menaxhimin indirekt të programit operativ shumëvjeçar për energjinë (2024-2027) në Republikën e Shqipërisë;
+b) marrëveshjet me marrësit fundorë të ndihmës IPA III;
+c) manualet e procedurave IPA III të zbatueshme për autoritetin menaxhues;
+ç) çdo raport, dokument apo komunikim tjetër lidhur me IPA III drejtuar koordinatorit kombëtar të ISPA-s, zyrtarit kombëtar autorizues, autoritetit auditues, organit kontabël, Zyrës Mbështetëse të ZKA-së, organeve të ndërmjetme për menaxhimin e politikave, Organit të Ndërmjetëm për Menaxhimin Financiar, AFCOS, Delegacionit Evropian, Shërbimeve të Komisionit Evropian, programeve të tjera që menaxhojnë autoritetet ose organet e ndërmjetme.
