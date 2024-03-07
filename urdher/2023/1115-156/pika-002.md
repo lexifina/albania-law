@@ -1,1 +1,0 @@
-2. Z. Ardian Islami, si drejtues i Drejtorisë së Konceptimit dhe Fizibilitetit të Projekteve të Industrisë dhe Energjisë është drejtuesi i Autoritetit Menaxhues, në përputhje me nenin 8, pika 8, të vendimit IPA III.
