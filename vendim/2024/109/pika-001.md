@@ -1,0 +1,1 @@
+1. Kompensimin financiar të pronarëve të pasurive të paluajtshme, pronë private, për sipërfaqet takuese, të zëna nga ndërtimet e legalizuara në drejtoritë vendore të Agjencisë Shtetërore të Kadastrës: Elbasan, Tiranë Veri, Tiranë Rurale 2, Tiranë Rurale 1, Tiranë Jug, Vlorë, Durrës, Shkodër, Kamzë-Vorë, Zonat e Stimuluara, Sarandë, Fier, Gjirokastër, Kavajë dhe Pogradec.
