@@ -17,7 +17,7 @@ Termat e përdorur në këto rregulla kanë kuptimin, si më poshtë vijon:
 “Kërkesë”, çdo kërkesë e paraqitur nga një person, për ndërtimin e një burimi të ri gjenerues të energjisë elektrike, sipas formës së përcaktuar në këto rregulla;
 “Kërkues”, çdo person që aplikon për një leje, sipas këtyre rregullave;
 “Person”, një person fizik ose juridik;
-“Vetëprodhues”, një person që prodhon energji elektrike, i cili konsumon, kryesisht, për nevojat e veta, pjesën më të madhe të energjisë së prodhuar;
+“Vetëprodhues”, një person që prodhon energji elektrike, i cili konsumon, kryesisht, për nevojat e veta, një pjesë të energjisë së prodhuar dhe i cili nuk përfiton nga skemat e mbështetjes sipas parashikimeve të ligjit nr. 24/2023, “Për nxitjen e përdorimit të energjisë nga burimet e rinovueshme;
 “Burim koogjenerues”, një burim gjenerues që prodhon nxehtësi dhe energji elektrike;
 “Pika e lidhjes”, pika fizike e lidhjes, e përcaktuar nga Operatori i Sistemit të Transmetimit (OST) ose “Operatori i Sistemit të Shpërndarjes” (OSSH), në të cilën burimi gjenerues do të lidhet me rrjetin e transmetimit ose të shpërndarjes;
 “OST”, Operatori i Sistemit të Transmetimit;
@@ -42,7 +42,7 @@ Delegimi i autoritetit të kërkuesit
 2. I deleguari pajiset me prokurën e kërkuesit për përfaqësimin e tij në veprimet që kanë të bëjnë me kërkesën dhe marrjen e miratimit për ndërtim objekti gjenerues.
 Neni 6
 Forma e kërkesës
-1. Çdo kërkesë për ndërtim objekti gjenerues bëhet vetëm në formën e përcaktuar në aneksin 1, të këtyre rregullave, dhe shoqërohet me dokumentet e parashikuara në nenet 7, 8, 9 e 10, të këtyre rregullave.
+1. Çdo kërkesë për ndërtim objekti gjenerues bëhet vetëm në formën e përcaktuar në aneksin 1, të këtyre rregullave, dhe shoqërohet me dokumentet e parashikuara në nenet 7, 7/1, 8, 9 e 10, të këtyre rregullave.
 2. Në momentin e dorëzimit të kërkesës, çdo kërkues paraqet faturën e kryerjes së pagesës për atë kërkesë, në vlerën dhe numrin e llogarisë së ministrisë, siç përcaktohet në aneksin 2, të këtyre rregullave. Kërkesa dhe dokumentacioni bashkëlidhur tij quhet i dorëzuar prej kërkuesit vetëm pas kryerjes së kësaj pagese.
 3. Dokumentacioni i paraqitur nga kërkuesi duhet të jetë në gjuhën shqipe, origjinal ose fotokopje e noterizuar, dhe vërtetimet e deklaratat, nga organe të tjera, duhet të jenë lëshuar jo më parë se 3 muaj nga momenti i paraqitjes së kërkesës.
 4. Çdo kërkesë, përveç dokumentacionit origjinal apo kopje të noterizuar, paraqitet edhe në formë elektronike (CD).
@@ -62,6 +62,15 @@ f) Numrin e identifikimit personal të zyrës së taksave (NUIS);
 g) Për kërkesën e projekteve deri në 20 mw, kërkuesi duhet të paraqesë një ose më shumë dokumente bankare në emër të subjektit kërkues që, të marra së bashku, vërtetojnë se subjekti disponon 20% të vlerës së investimit të përgjithshëm të propozuar. Data e lëshimit të tyre (dokumenteve bankare) duhet të jetë jo më parë se 5 ditë nga dorëzimi i kërkesës. Për kërkesën e projekteve mbi 20 mw subjekti kërkues paraqet dëshmi financiare të besueshme për mbulimin e financimit të projektit, të tilla si: dokumente bankare, bilance të shoqërisë, premtim financimi, garanci për mbështetje financiare nga shoqëria mëmë apo ortakët e shoqërisë, sigurim të kërkesës së lëshuar nga një agjenci sigurimi, në masën 2% të vlerës së investimit etj.
 gj) Pasqyrat financiare, të audituara nga auditues të licencuar, të tri viteve të fundit të veprimtarisë dhe të certifikuara nga organet tatimore ose kur shoqëria ka më pak se tre vjet që është krijuar, për periudhën e ekzistencës së saj, si dhe çdo dokument tjetër financiar që provon aftësitë financiare për të realizuar projektin e propozuar.
 h) dokumentacionin ligjor, në përputhje me dispozitat e Kodit Civil, që provon marrëdhënien afatgjatë mbi pasurinë që do të përdoret për ndërtimin e burimit gjenerues. Kërkesa refuzohet në rastet kur pasuria ku propozohet ndërtimi ka kufizime shfrytëzimi, në përputhje me legjislacionin për mbrojtjen e tokës bujqësore dhe zonave të mbrojtura.
+Neni 7/1
+Kërkesa për ndërtimin e kapaciteteve të reja prodhuese të energjisë elektrike eolike
+1. Për ndërtimin e kapaciteteve të reja prodhuese të energjisë elektrike eolike, subjekti i interesuar shpreh interesin për ndërtimin e një impianti eolik, duke paraqitur dokumentacionin, si vijon:
+a) Dokumentacionin ligjor, në përputhje me dispozitat e Kodit Civil, që provon marrëdhënien afatgjatë mbi pasurinë që do të përdoret për ndërtimin e burimit gjenerues. Kërkesa refuzohet në rastet kur pasuria ku propozohet ndërtimi ka kufizime shfrytëzimi, në përputhje me legjislacionin për mbrojtjen e tokës bujqësore dhe zonave të mbrojtura.
+b) Një studim parafisibiliteti, i hartuar nga persona juridikë ose fizikë për ushtrimin e veprimtarisë profesionale të studimit dhe/ose projektimit, të impianteve nga burimet e rinovueshme të energjisë, të projektit të propozuar, si dhe ndikimin e tij mjedisor e social, i cili duhet të shoqërohet me paraqitjen e përgjithshme skematike të burimit gjenerues të energjisë, një diagram elektrik të agregateve dhe bllokut të transformimit, ku të evidentohen qartë pika e lidhjes me sistemin dhe pika e matjes, shtrirja gjeografike e vendit ku do të ngrihet apo zhvillohet veprimtaria, duke dhënë referencat ekzakte (numër parcele, numër regjistri kadastre dhe koordinatat në sistemin koordinativ gjeohapsinor KRGJSH) dhe të paraqitura në hartë, me shkallë 1:25’000 dhe një hartë topografike, ku të paraqitet gjurma e linjës që lidh burimin gjenerues me sistemin e transmetimit ose shpërndarjes, në shkallë 1:25’000.
+2. Nëse ministria konstaton se shprehja e interesit plotëson kriteret teknike, ligjore, marrëdhënien me pasurinë që do të përdoret për ndërtimin e burimit gjenerues, i jep kërkuesit të drejtën prioritare për aplikimin për ndërtimin e kapaciteteve të reja gjeneruese dhe kryerjen e matjeve reale për një periudhë jo më pak së 12-mujore në zonën e propozuar për zhvillimin e projektit. Kur kërkesa pranohet, ministria publikon tri ditë me radhë, në faqen e website-it të ministrisë, një njoftim me të dhëna përshkruese për projektin e propozuar.
+3. Subjektet pas marrjes së këtij miratimi brenda një afati 6-mujor duhet të raportojnë lidhur me instalimin e pajisjeve dhe fillimin e matjeve.
+4. Në përfundim të këtij afati dhe bazuar në matjet reale të potencialit të erës në zonën e propozuar, kërkuesi paraqet dokumentacionin sipas parashikimeve të nenit 6, për vijimin e procedurave të mëtejshme për t’u pajisur me miratim paraprak për vazhdimin e procedurave për ndërtimin e kapacitetit të ri prodhues të energjisë elektrike eolike, sipas përcaktimit në këtë rregullore.
+5. Subjektet kërkuese, të cilat zotërojnë të dhëna të mbledhura të erës, për zonën e tyre të interesit, mund të vijojnë drejtpërdrejtë aplikimin për miratim, sipas parashikimeve të këtyre rregullave.
 Neni 8
 Të dhënat, informacioni i përgjithshëm për burimet gjenerues të energjisë dhe kriteret që duhet të plotësojë ndërtimi i tyre
 1. Një kërkues paraqet në ministri, përveç dokumenteve dhe informacionit të përcaktuar në nenin 7, të këtyre rregullave, të dhënat dhe informacionin e përgjithshëm, si më poshtë vijon:
@@ -137,17 +146,19 @@ D. Për një burim gjenerues me biomasë:
 - respektimin e normave mjedisore për shkarkimet në ajër, ujë dhe tokë, si dhe për çdo komponent mjedisor, sipas legjislacioneve në fuqi në fushën e mjedisit.
 DH. Për një vetëprodhues mbi 1 mw:
 - teknologjinë e përdorur në burimin gjenerues të energjisë;
-- llojin e lëndës djegëse;
-- konsumin specifik të lëndës djegëse;
-- fuqinë kalorifike të lëndës djegëse;
+- shfuqizuar;
+- shfuqizuar;
+- shfuqizuar;
 - sasinë e pritshme të energjisë elektrike, që do të konsumohet për nevojat e tij vetjake;
 - sasinë e pritshme të energjisë elektrike, që do të absorbohet ose injektohet në rrjetin kombëtar;
 - respektimin e normave mjedisore për shkarkimet në ajër, ujë dhe tokë, si dhe për çdo komponent mjedisor, sipas legjislacioneve në fuqi në fushën e mjedisit.
+- Deklarimin e pranimit të një pike lidhjeje në rrjet me një drejtim, e ndryshme nga pika e furnizimit dhe pranimit të përjashtimit nga skemat e mbështetjes për vetëprodhuesit.
 Neni 10
 Studimi i parafisibilitetit
 1. Kërkuesi, në përputhje me nenin 8, të këtij vendimi, paraqet një studim parafisibiliteti, që jep besueshmëri të mjaftueshme teknike, ekonomike dhe financiare të projektit të propozuar, si dhe ndikimin e tij mjedisor dhe social.
 2. Studimi i parafisibilitetit, i paraqitur sipas pikës 1, të këtij neni, përfshin:
 a) Në terma teknikë, studimi duhet të japë informacion lidhur me besueshmërinë teknike të projektit të propozuar dhe duhet të shoqërohet me paraqitjen e përgjithshme skematike të burimit gjenerues të energjisë; një diagram elektrik të agregateve dhe bllokut të transformimit, ku të evidentohen qartë pika e lidhjes me sistemin dhe pika e matjes; opinionin paraprak të OST-së ose OSSH-së mbi lidhjen e tij me sistemin e transmetimit ose shpërndarjes së energjisë elektrike; shtrirjen gjeografike të vendit ku do të ngrihet apo zhvillohet veprimtaria, duke dhënë referencat ekzakte (numër parcele, numër regjistri kadastre) dhe të paraqitura në hartë, me shkallë 1:25 000; një hartë topografike, ku të paraqitet gjurma e linjës që lidh burimin gjenerues me sistemin e transmetimit ose shpërndarjes, në shkallë 1:25 000.
+Për aplikimet për burime gjeneruese eolike, të zotërojë të dhëna të matura të erës, të mbledhura nëpërmjet matjeve, për zonën e propozuar të zhvillimit të projektit.
 Opinioni paraprak i OST-së ose OSSH-së në këtë fazë të procesit shërben vetëm për të përcaktuar mundësinë e lidhjes në rrjet. Ky opinion nuk angazhon OST-në ose OSSH-në për rezervimin e kapaciteteve të rrjetit, deri në pajisjen e subjekteve me miratim paraprak nga ministri sipas këtij vendimi.
 b) Në terma ekonomikë, studimi duhet të paraqesë një plan biznesi, që demonstron besueshmërinë ekonomike të projektit të propozuar. Plani i biznesit duhet të përcaktojë, minimalisht, shpenzimet dhe të ardhurat e pritshme si dhe kohëzgjatjen e periudhës së ndërtimit, në muaj. Kostot duhet të ndahen në kategoritë përkatëse: kostot financiare, kostot e ndërtimit (përfshirë kostot lidhur me fuqinë punëtore, makineritë dhe lidhjen me rrjetin), kostot e operimit dhe të mirëmbajtjes.
 c) Në terma financiarë, studimi duhet të paraqesë një plan financiar që demonstron besueshmërinë financiare të projektit të propozuar. Plani financiar duhet të përcaktojë, në mënyrë të qartë dhe transparente, se si synon kërkuesi të financojë projektin e propozuar. Ai duhet të përcaktojë, minimalisht, sasinë e alokuar të kapitalit të vet, ndaj burimeve financiare të jashtme të kërkuara, burimet konkrete të financimit nga jashtë dhe një program të detajuar financimi. Kërkuesi duhet të paraqesë dokumente, në formën e një letre interesi, marrëveshje paraprake kreditimi ose çdo dokument tjetër, që vërtetojnë mbështetjen financiare të projektit nga institucionet financiare ose bankat vendase apo të huaja, ku shprehen qartë vlerat monetare për financimin dhe struktura e financimit (financim i vetë kërkuesit, kredi bankare, donacione apo financime të tjera).
@@ -228,6 +239,7 @@ c) grafikun e zbatimit të projektit;
 ç) miratimin e OST-së ose OSSH-së për pikën e lidhjes me rrjetin e transmetimit ose të shpërndarjes, sipas kërkesave të kodit të transmetimit ose shpërndarjes;
 d) lejet, licencat dhe autorizimet paraprake mjedisore, nga institucionet përgjegjëse kombëtare;
 dh) shfuqizuar.
+e) oponencën teknike për projektpropozimin nga Agjencia Kombëtare e Burimeve Natyrore (AKBN).
 Neni 21
 Dhënia e miratimit për ndërtim
 1. Komisioni shqyrton, brenda 20 ditëve kalendarike, nga dita e paraqitjes, plotësinë dhe saktësinë e të gjitha dokumenteve të paraqitura nga kërkuesi, sipas nenit 20, të këtyre rregullave.
@@ -240,7 +252,7 @@ b) të drejtën e dhënë nga miratimi (tipin, kapacitetin dhe teknologjinë e b
 c) vendndodhjen e burimit gjenerues të energjisë;
 ç) afatin e miratimit të ndërtimit;
 d) shfuqizuar;
-dh) të drejtën e ministrisë përgjegjëse për energjinë dhe të institucioneve të tjera kompetente shtetërore për të monitoruar, mbikëqyrur dhe certifikuar veprimtarinë e Mbajtësit të Miratimit;
+dh) të drejtën për të monitoruar, mbikëqyrur, testuar dhe certifikuar impiantin dhe veprimtarinë e Mbajtësit të Miratimit nga Agjencia Kombëtare e Burimeve Natyrore nën mbikëqyrjen e ministrisë përgjegjëse për energjinë;
 e) detyrimin që mbajtësi i miratimit të paraqesë periodikisht (çdo tre muaj) pranë Ministrisë, informacion mbi ecurinë e ndërtimit të burimit gjenerues të energjisë;
 ë) çdo kufizim, lidhur me mbrojtjen e natyrës;
 f) detyrimin e dorëzimit prej kërkuesit të sigurimit të kontratës, në masën jo më pak 5% të vlerës së investimit, përpara nënshkrimit të kontratës ndërmjet kërkuesit dhe ministrisë. Në këtë kontratë përcaktohen të drejtat dhe detyrimet e palëve për realizimin e këtij projekti, penalitetet, në rast mosrealizimi, si dhe çështje të tjera, që lidhen me zbatimin e saj;
