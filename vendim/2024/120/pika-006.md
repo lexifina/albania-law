@@ -1,0 +1,1 @@
+6. Marrëdhëniet e punës së titullarit të Agjencisë dhe nëpunësve të saj rregullohen sipas dispozitave të ligjit për nëpunësin civil, ndërsa marrëdhëniet e punës së punonjësve administrativë rregullohen në bazë të dispozitave të Kodit të Punës.

@@ -1,0 +1,1 @@
+1. Krijimin, organizimin dhe funksionimin e Agjencisë Kombëtare të Diasporës (në vijim, Agjencia), si person juridik publik buxhetor në varësi të ministrisë përgjegjëse për çështjet e diasporës (në vijim, ministria), me seli në Tiranë.

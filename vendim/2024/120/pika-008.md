@@ -1,0 +1,1 @@
+8. Agjencia ka stemën, logon dhe vulën e saj zyrtare. Stema e saj përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Ministria për Evropën dhe Punët e Jashtme, Agjencia Kombëtare e Diasporës”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave, për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.
