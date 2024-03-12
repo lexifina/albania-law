@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së zbatimit nr. II, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Infrastrukturës dhe Energjisë dhe Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GMBH, si përfaqësuese e qeverisë gjermane, në lidhje me programin “Shërbimet e furnizimit me ujë dhe kanalizimeve të orientuara drejt konsumatorit dhe performancës” (CPWS), nëpërmjet një granti prej 1 500 000 (një milion e pesëqind mijë) eurosh, që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
