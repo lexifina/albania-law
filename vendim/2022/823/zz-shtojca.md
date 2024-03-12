@@ -3553,3 +3553,42 @@ Fshati: Drizë, NJA Qendër, Bashkia Fier
 Vlera totale
 5,007,301
 Mbyllet me numër rendor 236
+LISTA EMËRORE E PRONARËVE QË SHPRONËSOHEN, PËR INTERES PUBLIK, PËR REALIZIMIN E PROJEKTIT “PËR DISA SHTESA DHE NDRYSHIME NË VKM-në NR. 823, DATË 19.12.2022, ’PËR SHPRONËSIM, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT ’RIKONSTRUKSIONI I LINJËS 400 kV SHQIPËRI-MAQEDONI E VERIUT””
+Nr. rendor
+Nr. shtylle
+PRONARI
+TË DHËNAT KADASTRALE (SIPAS KARTELËS SË PASURISË)
+VLERËSIMET PËR SHPRONËSIM
+Shënime Seksioni D-E i kartelës, adresa
+Emri
+Atësia
+Mbiemri
+Fshati ose qyteti
+Zona kadastrale
+Nr. pas.
+Lloji pas.
+Sip. totale(m2)
+Shpronësim “ndërtesë”
+VLERA totale (lek)
+Sip. (m2)
+Çmimi
+Vlera
+(lek)
+(lek/m2)
+1
+98-99
+Shpetim Selida
+Nezir Agim
+Kerçini Kerçini
+Hotolisht
+2200
+123/5
+Truall
+28
+28
+28600
+800800
+800,800
+Regjistruar me dokument nr. 210 objekt me leje legalizimi godinë banimi 1- katëshe, kati përdhes: S= 28 m2. Shpronësohet vetëm godina e banimit me sipërfaqe 28 m2, për shkak të distancës së sigurisë nga zhvendosja maksimale e përcjellësit, sipas VKM-së nr. 482, datë 17.6.2020. Adresa: Fshati Hotolisht, NJA Hotolisht, Bashkia Librazhd
+VLERA TOTALE
+800,800
