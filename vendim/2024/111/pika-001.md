@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Infrastrukturës dhe Energjisë, për Agjencinë Kombëtare të Ujësjellës-Kanalizimeve, të pasurisë me nr. 7/120 dhe të një pjese të pasurisë me nr. 7/466, zona kadastrale 8270, Tiranë, sipas formularit dhe planrilevimit bashkëlidhur këtij vendimi, për ushtrimin e funksioneve administrative.
