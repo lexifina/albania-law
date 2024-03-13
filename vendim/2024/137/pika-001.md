@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim të përcaktojë kriteret dhe procedurat që zbaton Korporata e Investimeve Shqiptare (Korporata), për dhënien e pronës shtetërore me qira, enfiteozë, leasing, përdorimin e pronës për sigurimin e një kredie apo detyrimi tjetër, sipërmarrje, shitje apo përmes formash të tjera përdorimi dhe zhvillimi të pronës.

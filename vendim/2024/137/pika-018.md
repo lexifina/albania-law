@@ -1,0 +1,1 @@
+18. Para lidhjes së kontratës, Korporata mund të tërhiqet në çdo kohë nga procedura. Në një rast të tillë, Korporata nuk ka asnjë përgjegjësi ligjore apo financiare kundrejt subjekteve pjesëmarrëse në procedurë.

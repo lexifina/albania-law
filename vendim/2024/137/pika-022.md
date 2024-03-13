@@ -1,0 +1,1 @@
+22. Korporata mund t’ia japë pronën me qira/enfiteozë/huapërdorje një partneri publik apo SPV-së së krijuar me kapital të saj ose të përbashkët me një partner privat dhe/ose publik. Në këtë rast nuk zbatohen procedurat konkurruese si më sipër.

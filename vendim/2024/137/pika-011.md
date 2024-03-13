@@ -1,0 +1,1 @@
+11. Rregullorja për zhvillimin e procedurave konkurruese, së bashku me dokumentacionin standard të procedurave konkurruese pas miratimit të saj, publikohet në faqen zyrtare të internetit të Korporatës.

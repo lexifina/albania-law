@@ -1,0 +1,1 @@
+9. Me urdhër të drejtorit ekzekutiv, përpara fillimit të çdo procedure, krijohen Njësia e Vlerësimit të Aplikimeve (NJVA) dhe Njësia e Trajtimit të Ankesave (NJTA), si struktura ad hoc, përkatësisht për vlerësimin e aplikimeve dhe për shqyrtimin e ankesave, me përbërje anëtarë të përzgjedhur nga punonjësit e Korporatës apo ekspertë të jashtëm, vendas apo të huaj.

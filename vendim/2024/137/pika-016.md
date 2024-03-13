@@ -1,0 +1,4 @@
+16. Me përfundimin e afateve të ushtrimit të së drejtës së ankimimit apo kur NJTA-ja nuk ka konstatuar parregullsi në procedurën konkurruese të ankimuar, Komisioni vendos:
+a) fillimin e procedurës përzgjedhëse midis subjekteve të kualifikuara, duke njoftuar subjektet për ditën dhe vendin e zhvillimit të saj, bazuar në ofertën dinamike/zarf më të lartë të kushtit përzgjedhës të njoftuar;
+b) shpalljen e subjektit, i cili renditet i pari në listën e vendosur nga NJVA-ja, si fitues i procedurës së konkurrimit, në rastin e përzgjedhjes me pikëzim, me një fazë.
+Vendimi i Komisionit është i vlefshëm për një afat deri në 9 (nëntë) muaj nga dita e njoftimit subjekteve të përzgjedhura, me përjashtim të rasteve kur Korporata tërhiqet nga procedura para lidhjes së kontratës, sipas parashikimit të pikës 18, të këtij kreu.

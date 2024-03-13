@@ -1,0 +1,1 @@
+20. Në rastin e sipërmarrjes, aplikanti fitues i përzgjedhjes dinamike/zarf lidh kontratën e sipërmarrjes e cila parashikon minimalisht kushtet e organizimit të konkursit për projektin e zbatimit, nëse është parashikuar në thirrjen e procedurës , kushtet e bashkëpunimit me Korporatën për aplikimin për lejen e zhvillimit/ndërtimit ku edhe Korporata ka cilësinë e zhvilluesit.
