@@ -1,0 +1,1 @@
+8. Nxënësit me aftësi të kufizuara e zhvillojnë vlerësimin e arritjeve në përshtatje me programin mësimor me të cilin punojnë, veçoritë dhe nevojat e tyre, sipas përcaktimeve të rregullores “Për proceduarat e organizimit dhe të zhvillimit të vlerësimit të arritjeve të nxënësve në arsimin fillor”.
