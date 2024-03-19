@@ -1,0 +1,1 @@
+3. Nuk ka qenë i dënuar me vendim gjyqësor të formës së prerë në shtetin e vet, në Republikën e Shqipërisë ose në ndonjë shtet të tretë për vepra penale, për të cilat ligji shqiptar parashikon dënime me jo më pak se 3 (tre) vjet heqje lirie. Përjashtim nga ky rregull bëhet vetëm në ato raste kur vërtetohet se dënimi është dhënë për motive politike;
