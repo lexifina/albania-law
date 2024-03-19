@@ -1,0 +1,3 @@
+# Neni 9
+Përgjegjësia e institucioneve përgjegjëse
+Ministrat, që drejtojnë ministritë e përcaktuara në nenin 6, të këtij vendimi, do të jenë përfaqësuesit e Këshillit të Ministrave, që do të ndjekin dhe do të monitorojnë realizimin e kontratës së miratimit të dhënë për ndërtimin e përdorimin e infrastrukturës së sistemeve të gazit, sipas përmbajtjes së miratuar me vendimin përkatës nga Këshilli i Ministrave. Monitorimi administrativ dhe tekniko-financiar i realizimit të kërkesave të kontratës së miratimit do të bëhet nga një grup teknik, i përbërë nga përfaqësues të ministrive, të përcaktuara në nenin 6, të këtij vendimi, dhe i miratuar nga ministrat përkatës.

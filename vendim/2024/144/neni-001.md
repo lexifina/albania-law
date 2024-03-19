@@ -1,0 +1,3 @@
+# Neni 1
+Qëllimi
+Qëllimi i këtyre rregullave është të përcaktojnë procedurat dhe kriteret për aplikimin, vlerësimin dhe dhënien e një miratimi për ndërtimin e përdorimin e tubacioneve dhe të infrastrukturës përkatëse për transmetimin e shpërndarjen e gazit natyror ose për lidhjen e sistemit shqiptar të gazit natyror me sistemet fqinje, të instalimeve të gazit natyror të lëngëzuar (GNL-së), të depozitave nëntokësore të gazit natyror, si dhe të linjave direkte.

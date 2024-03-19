@@ -1,0 +1,4 @@
+# Neni 4
+Rregullat për subjektet
+1. Çdo subjekt i themeluar në formën e shoqërisë aksionare, si dhe çdo bashkim i shoqërive, që zhvillon veprimtari tregtare sipas legjislacionit shqiptar, mund të aplikojë për marrjen e një miratimi për ndërtimin e përdorimin e infrastrukturës së sistemeve të gazit, në përputhje me rregullat që përcaktohen në këtë vendim, si dhe duke respektuar edhe kriteret e mosdiskriminimit, të trajtimit të barabartë e të transparencës.
+2. Çdo subjekt i huaj, që kërkon të paraqesë kërkesën për marrjen e një miratimi, sipas këtyre rregullave, duhet të krijojë në Shqipëri një filial, në formën e shoqërisë aksionare ose bashkimi të shoqërive, sipas dispozitave të ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, dhe kërkesave të legjislacionit tatimor shqiptar.
