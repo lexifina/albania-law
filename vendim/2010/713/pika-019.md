@@ -1,1 +1,0 @@
-19. Në kontratë, përveç elementeve të përcaktuara në pikën 18 të këtij vendimi, në përputhje me dispozitat ligjore në fuqi, mund të përfshihen edhe përcaktime të tjera ose detyrime të ndërsjella, për të cilat palët bien dakord.

@@ -1,1 +1,0 @@
-12. Mënyra e funksionimit të komisionit të vlerësimit të kërkesave përcaktohet me një urdhër të ministrit përgjegjës për energjinë, i cili duhet të dalë brenda 3 (tre) muajve nga data e hyrjes në fuqi të këtij vendimi.

@@ -1,1 +1,0 @@
-28. Në vendimin nr.553, datë 14.8.2004 të Këshillit të Ministrave “Për procedurat dhe kushtet për dhënien e lejeve të koncesionit për ndërtimin dhe përdorimin e rafinerive, naftësjellësve e gazsjellësve”, të ndryshuar, të gjitha shprehjet “Për sektorin e gazit natyror”, shfuqizohen.

@@ -1,2 +1,0 @@
-27. Çdo ripërtëritje e lejes, e kërkuar nga subjekti mbajtës sipas shkronjës “c” të pikës 18 të këtij vendimi, e shoqëruar me kontratën përkatëse, miratohet nga Këshilli i Ministrave vetëm nëse opinioni i ERE-s, sipas shkronjës “ë” të pikës 16 të këtij vendimi, është pozitiv dhe nëse subjekti mbajtës i kësaj ka përmbushur të gjitha detyrimet e përcaktuara në kontratë dhe/ose detyrimet e tjera ligjore gjatë gjithë periudhës së lejes.
-IV. DISPOZITA TË FUNDIT

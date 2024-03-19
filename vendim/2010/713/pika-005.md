@@ -1,1 +1,0 @@
-5. Çdo subjekt i huaj që kërkon të paraqesë kërkesën për marrjen e një lejeje sipas këtyre rregullave, duhet të krijojë në Shqipëri një filial, në formën e shoqërisë aksionare ose bashkimi të shoqërive, sipas dispozitave të ligjit nr.9901, datë 14.4.2008 “Për tregtarët dhe shoqëritë tregtare”, dhe kërkesave të legjislacionit tatimor shqiptar.
