@@ -1,0 +1,1 @@
+6. Struktura organizative, rregullorja e funksionimit të “Shkollës me status të veçantë” miratohet nga ministri përgjegjës për arsimin, me propozim nga institucioni përgjegjës për ofrimin dhe sigurimin e shërbimit arsimor në arsimin parauniversitar.

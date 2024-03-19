@@ -1,0 +1,1 @@
+8. Kurrikula mësimore e “Shkollës me status të veçantë” dhe standardet profesionale të personelit, sipas profileve, hartohen nga Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar dhe miratohen nga ministria përgjegjëse për arsimin.

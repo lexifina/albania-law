@@ -1,0 +1,1 @@
+10. Financimi i veçantë nga buxheti i shtetit planifikohet me formulën “Për nxënës”, sipas treguesve të veçantë të niveleve arsimore dhe kushteve që do të sigurojnë IAPP-të “Shkollë me status të veçantë”.

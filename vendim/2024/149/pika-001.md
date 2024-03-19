@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve të posaçme dhe procedurave për përfitimin e statusit “Shkollë me status të veçantë”, për institucionin arsimor parauniversitar publik (IAPP) i arsimit të orientuar me drejtim artistik apo sportiv.

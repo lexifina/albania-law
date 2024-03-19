@@ -1,0 +1,1 @@
+9. Financimi i veprimtarisë së IAPP-ve, që fitojnë statusin “Shkollë me status të veçantë” realizohet me fonde publike, me burim financimi nga buxheti i shtetit, të ardhurat e njësive të vetëqeverisjes vendore, dhurimet e sponsorizimet, të ardhurat e përftuara nga vetë IAPP-ja, si dhe të ardhura të tjera të ligjshme.

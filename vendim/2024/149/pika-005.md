@@ -1,0 +1,1 @@
+5. IAPP-ja me status të veçantë humbet statusin e dhënë nga ministri përgjegjës për arsimin, nëse për 3 (tre) vjet radhazi nuk garanton përmbushjen e kritereve për dhënien e statusit të veçantë, të përcaktuara në këtë vendim. Procedura e heqjes së statusit të veçantë është e njëjtë me atë të përcaktuar në shkronjat “b” e vijuese, të pikës 4, të këtij vendimi.

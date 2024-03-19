@@ -1,0 +1,1 @@
+7. Për lëndët e kulturës artistike/sportive IAPP-ja mund të kontraktojë me kohë të pjesshme specialistë/personalitete të fushës/disiplinave, sipas rregullave të përcaktuara në rregulloren e funksionimit të shkollave me status të veçantë.
