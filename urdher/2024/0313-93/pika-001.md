@@ -1,0 +1,1 @@
+1. Delegimin e përkohshëm të kompetencave të mëposhtme të titullarit të Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar, me përjashtim të kompetencave të cilat nuk delegohen dhe që janë të shprehura me ligj, drejtorit të Drejtorisë së Vetting-ut dhe Sigurimit Industrial, z. Mark Ndreca.
