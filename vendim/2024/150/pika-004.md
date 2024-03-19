@@ -1,0 +1,1 @@
+4. Fondi Shqiptar i Zhvillimit, Ministria e Arsimit dhe Sportit, Agjencia Kombëtare e Planifikimit të Territorit dhe Bashkia Tiranë lidhin marrëveshje bashkëpunimi, në funksion të zhvillimit të projektit, sipas pikës 1 të këtij vendimi dhe parashikimeve të marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Kolegjit të Evropës.

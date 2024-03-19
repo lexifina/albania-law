@@ -1,0 +1,1 @@
+1. Caktimin e Fondit Shqiptar të Zhvillimit si njësi zbatuese për realizimin e projektit “Kolegji i Evropës” dhe autoritet kontraktor për kryerjen e procedurave të prokurimit publik për hartimin e zbatimin e projektit, sipas legjislacionit në fuqi për prokurimin publik, duke lidhur edhe kontratat përkatëse, si dhe të ndjekë zbatimin e tyre e të projektit.
