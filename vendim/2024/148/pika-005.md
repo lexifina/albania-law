@@ -1,0 +1,1 @@
+5. Qendra Burimore ofron arsim special parauniversitar për nxënësit me aftësi të kufizuar dëgjimi, me aftësi të kufizuar shikimi dhe ato me aftësi të kufizuar të rëndë, që kërkojnë një mbështetje në qendra të specializuara për t’i përfshirë në sistemin arsimor të zakonshëm.

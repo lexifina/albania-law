@@ -1,0 +1,1 @@
+8. Riorganizimi i një institucioni të arsimit special në qendër burimore është procesi i zgjerimit dhe i shtrirjes së aktivitetit të tij përtej arsimit special, duke ofruar shërbime mbështetëse dhe rehabilituese të specializuara për nxënësit me aftësi të kufizuar edhe në shkolla të zakonshme, si dhe trajnime për punonjësit arsimorë.

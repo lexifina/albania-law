@@ -1,0 +1,1 @@
+6. Qendra Burimore ofron shërbime të veçanta mbështetëse dhe rehabilituese për nxënësit me aftësi të kufizuar që mësojnë në shkolla të zakonshme, si dhe trajnime për punonjësit arsimorë që punojnë me këta nxënës.
