@@ -1,0 +1,2 @@
+Znj. Rajmonda Balilaj, prefekt i qarkut të Fierit, lirohet nga kjo detyrë.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
