@@ -4,4 +4,4 @@ Kufijtë monetarë
 a) kufiri i lartë monetar;
 b) kufiri i ulët monetar;
 c) kufiri monetar për prokurime me vlerë të vogël.
-2. Kufijtë monetarë përcaktohen në rregullat e prokurimit publik, duke mbajtur në konsideratë parashikimet e legjislacionit evropian në fushën e prokurimit publik.
+2. Kufijtë monetarë përcaktohen me vendim të Këshillit të Ministrave, sipas parashikimeve të legjislacionit evropian në fushën e prokurimit publik, për sa është e zbatueshme.

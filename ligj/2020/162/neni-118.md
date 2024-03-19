@@ -2,7 +2,7 @@
 Vendimet e Komisionit të Prokurimit Publik
 1. Komisioni i Prokurimit Publik, në çdo kohë pas marrjes së ankesës dhe para lidhjes së kontratës, kur nuk vendos pezullimin, mund ta lejojë autoritetin ose entin kontraktor, me anë të një vendimi të ndërmjetëm deri në marrjen e një vendimi përfundimtar, të vazhdojë procedurën e prokurimit nëse pezullimi dëmton tërthorazi interesin publik, autoritetin ose entin kontraktor ose ofertuesit.
 2. Përpara lidhjes së kontratës, Komisioni i Prokurimit Publik ka të drejtë:
-a) të refuzojë ankesën, për shkak të mosplotësimit të elementeve të domosdoshme për shqyrtimin e saj, sipas parashikimeve të nenit 111 të këtij ligji;
+a) të refuzojë ankesën për shkak të mosplotësimit të elementeve të domosdoshme për shqyrtimin e saj dhe mosrespektimit të afateve të ankimit, sipas parashikimeve të neneve 110 dhe 111 të këtij ligji;
 b) të pranojë ankesën dhe të urdhërojë autoritetin ose entin kontraktor të anulojë plotësisht ose pjesërisht një veprim ose vendim, të nxjerrë në kundërshtim me ligjin;
 c) të refuzojë ankesën dhe të lejojë autoritetin ose entin kontraktor të vazhdojë procedurën e prokurimit, kur gjykon se nuk ka shkelje të dispozitave ligjore;
 ç) të nxjerrë vendim deklarativ për mbylljen e çështjes, sipas parashikimeve të pikave 2 dhe 3 të nenit 115 të këtij ligji;

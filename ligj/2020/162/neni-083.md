@@ -16,6 +16,6 @@ c) mosparaqitjes së sigurimit të kontratës, kur oferta është shpallur fitue
 a) ka përfunduar afati kohor i sigurimit të ofertës;
 b) është lidhur kontrata dhe është paraqitur sigurimi i kontratës, kur një gjë e tillë kërkohet nga dokumentet e tenderit;
 c) janë anuluar procedurat e tenderit pa shpallur fitues.
-5. Autoriteti ose enti kontraktor raporton pranë Agjencisë së Prokurimit Publik rastet e tërheqjes së operatorit ekonomik sipas parashikimeve të këtij neni.
+5. Autoriteti ose enti kontraktor raporton përmes Sistemit të Prokurimit Elektronik pranë Agjencisë së Prokurimit Publik rastet e refuzimit të operatorit ekonomik për nënshkrimin e kontratës, sipas shkronjës “b” të pikës 3 të këtij neni.
 6. Kur ofertuesi fitues nuk bën sigurimin e kontratës ose nuk nënshkruan kontratën, autoriteti kontraktor bën konfiskimin e sigurimit të ofertës.
 Në rastin kur është përdorur si kriter i përcaktimit të ofertës fituese “oferta ekonomikisht më e favorshme bazuar në çmim” dhe kur ofertuesi fitues nuk bën sigurimin e kontratës ose nuk arrin të nënshkruajë kontratën, autoriteti kontraktor përzgjedh ofertuesin e renditur i dyti në listën e ofertave të përzgjedhura që kanë mbetur, vetëm nëse diferenca ndërmjet ofertës së kualifikuar në vendin e parë dhe të dytë është jo më e madhe se vlera e sigurimit të ofertës të ofertuesit që është tërhequr.

@@ -5,6 +5,6 @@ Kontrata të rezervuara për shërbime të caktuara
 a) qëllimi i saj është përmbushja e një misioni të shërbimit publik, që lidhet me ofrimin e shërbimeve të përmendura në pikën 1 të këtij neni;
 b) fitimet investohen sërish për përmbushjen e objektivave të organizatës, në përputhje me legjislacionin në fuqi;
 c) strukturat drejtuese ose të pronësisë së organizatës bazohen në parimet e pronësisë dhe pjesëmarrjes së punonjësve ose kërkojnë pjesëmarrje aktive të punonjësve, përdoruesve ose palëve të interesuara; dhe
-ç) gjatë tri viteve të fundit, organizata nuk është shpallur fituese e një kontrate për shërbimet e përcaktuara në këtë nen nga autoriteti ose enti kontraktor që prokuron kontratën.
+ç) gjatë tre vjetëve të fundit organizata nuk është shpallur fituese e një kontrate për të njëjtat shërbime të përcaktuara nga autoriteti ose enti kontraktor që prokuron kontratën.
 3. Kohëzgjatja e kontratës së lidhur sipas këtij neni nuk mund të jetë më shumë se tre vjet.
 4. Autoriteti ose enti kontraktor përcakton mundësinë për kontratën e rezervuar në njoftimin e kryer sipas nenit 101 të këtij ligji.

@@ -6,10 +6,14 @@ b) autoriteti ose enti kontraktor publikon thirrjen për konkurrim ku përcaktoh
 c) autoriteti ose enti kontraktor mund të ndajë mallrat, punët ose shërbimet në kategori, duke përcaktuar për secilën prej tyre karakteristikat dhe kriteret e përzgjedhjes;
 ҫ) autoriteti ose enti kontraktor u jep akses të plotë dhe të pakufizuar të dokumenteve të tenderit të gjithë operatorëve ekonomikë përgjatë gjithë kohës së vlefshmërisë së sistemit dinamik;
 d) autoriteti ose enti kontraktor i jep mundësi çdo operatori ekonomik që të bëhet pjesë e sistemit dinamik përgjatë kohës së vlefshmërisë së tij.
+dh) autoriteti ose enti kontraktor përcakton kritere për kualifikim në Sistemin e Prokurimit Elektronik.
+e) sistemi gjeneron ftesë automatike për të gjitha subjektet e regjistruara në SPE, kodet e aktiviteteve të veprimtarive të të cilave (Nomenklatura e Veprimtarive Ekonomike) përputhen me objektin e procedurës së prokurimit sipas kodeve të Fjalorit te Përbashkët të Prokurimit.
+ë) në përfundim të afateve kohore, Sistemi i Prokurimit Elektronik, mbështetur në ndërveprimin me sisteme të tjera të Platformës Qeveritare të Ndërveprimit, kryen vlerësimin automatik të plotësimit të kritereve të përgjithshme dhe të veçanta të kualifikimit të ofertuesve për fazën e parë të parakualifikimit.
+f) sistemi dinamik i blerjes dhe ankandi elektronik duhet të zhvillohen duke përdorur teknologji të avancuar të inteligjencës artificiale dhe procese të robotizuara, në përputhje me parimet e përmendura në nenin 3 të këtij ligji dhe me standardet ndërkombëtare evropiane.
 Rregullat e detajuara për mënyrën e funksionimit, afatet e vlerësimit dhe përzgjedhjen e fituesve për sistemin dinamik të blerjes do të përcaktohen në rregullat e prokurimit publik.
 2. Autoriteti ose enti kontraktor mund të përdorë ankandin elektronik, nëpërmjet të cilit paraqiten çmime të rishikuara, më të ulëta dhe/ose vlera të reja për ndonjë nga elementet e tjera të ofertës.
 Ankandi elektronik nuk mund të përdoret për kontrata publike me objekt punë apo shërbime me natyrë intelektuale, të cilat nuk mund të klasifikohen nëpërmjet përdorimit të metodave automatike të vlerësimit.
 Autoriteti apo enti kontraktor që ka për qëllim të zhvillojë një ankand elektronik duhet ta deklarojë këtë në njoftimin e kontratës ose në ftesën për shprehje interesi.
 Përpara zhvillimit të ankandit, autoriteti ose enti kontraktor duhet të bëjë një vlerësim paraprak të procedurës në përputhje me kriteret e vlerësimit dhe vlerën specifike të tyre.
-Rregullat për funksionimin e ankandit elektronik përcaktohen me vendim të Këshillit të Ministrave.
+Rregullat për funksionimin e ankandit elektronik përcaktohen në Rregullat e Prokurimit Publik.
 3. Sistemi dinamik i blerjes dhe ankandi elektronik duhet të zhvillohen në përputhje me parimet e përmendura në nenin 3 të këtij ligji dhe me standardet ndërkombëtare evropiane.

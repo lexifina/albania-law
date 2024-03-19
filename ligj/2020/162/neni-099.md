@@ -12,3 +12,4 @@ dh) sipas rastit, arsyet pse autoriteti ose enti kontraktor ka vendosur të mos 
 e) sipas rastit, arsyet pse për dorëzimin e ofertave janë përdorur mjete të tjera komunikimi, të ndryshme nga mjetet elektronike;
 ë) sipas rastit, konfliktet e interesit që janë zbuluar dhe masat që janë marrë në vijim;
 f) sipas rastit, ofertat me vlerë ekonomike të barabartë dhe hapat që janë ndjekur për procesin e hedhjes së shortit.
+Raporti përmbledhës për procedurën e prokurimit gjenerohet automatikisht nga të dhënat e administruara në rrugë digjitale në Sistemin e Prokurimit Elektronik për procedurën e prokurimit.

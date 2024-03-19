@@ -8,5 +8,5 @@ c) konstaton se dokumentet e tenderit përmbajnë gabime ose mangësi të rënd�
 d) kur Komisioni i Prokurimit Publik vendos anulimin sipas parashikimeve në këtë ligj.
 2. Kur procedura e prokurimit publik anulohet në pajtim me shkronjën “ç” të pikës 1 të këtij neni, autoriteti ose enti kontraktor nuk duhet të shpallë një procedurë të re për të njëjtin objekt prokurimi e me të njëjtat të dhëna.
 3. Autoriteti ose enti kontraktor nuk mban asnjë përgjegjësi ndaj ofertuesve që kanë paraqitur oferta për vendimin e marrë në bazë të pikës 1 të këtij neni.
-4. Autoriteti ose enti kontraktor u komunikon të gjithë kandidatëve ose ofertuesve vendimin dhe arsyet për të mos e vazhduar procedurën e prokurimit menjëherë, por jo më vonë se 3 ditë nga marrja e vendimit.
-5. Autoriteti ose enti kontraktor publikon vendimin e anulimit vetëm pas kalimit të afateve të ankimimit sipas parashikimeve të nenit 110 të këtij ligji.
+4. Autoriteti ose enti kontraktor u komunikon të gjithë kandidatëve ose ofertuesve vendimin dhe arsyet për të mos e vazhduar procedurën e prokurimit menjëherë, por jo më vonë se 3 ditë nga marrja e vendimit dhe publikon njoftimin e anulimit.
+5. Shfuqizuar

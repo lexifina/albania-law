@@ -4,3 +4,4 @@ Studimi paraprak i tregut
 Për këtë qëllim, autoriteti ose enti kontraktor mund të konsultohet me ekspertë, autoritete të pavarura ose operatorët ekonomikë në treg. Këto këshilla mund të përdoren në planifikimin dhe kryerjen e procedurës së prokurimit, nëse nuk rezultojnë në shtrembërimin e konkurrencës dhe cenojnë parimet e mosdiskriminimit dhe transparencës.
 2. Në çdo rast duhet të shmanget rreptësisht çdo konflikt interesi ose edhe shfaqja e një konflikti interesi në marrëdhëniet e punonjësit të angazhuar në procesin e prokurimit dhe operatorit ekonomik.
 3. Parashikime të detajuara për këtë proces përcaktohen në rregullat e prokurimit publik.
+4. Studimi i tregut kryhet nga autoriteti ose enti kontraktor në Sistemin e Prokurimit Elektronik sipas parashikimeve të bëra në pikën 11 të nenit 34 të këtij ligji.

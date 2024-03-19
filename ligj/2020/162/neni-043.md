@@ -18,3 +18,6 @@ ii. afati kohor për marrjen e ofertave mund të përcaktohet me anë të një m
 Në mungesë të marrëveshjes për afatin kohor për pranimin e ofertave, afati kohor është jo më pak se 10 ditë nga data në të cilën është shpallur ftesa për ofertë.
 6. Autoriteti kontraktor mund të shkurtojë me 5 ditë afatin kohor për marrjen e ofertave në rast se ofertat paraqiten me mjete elektronike.
 Në rast se dokumentet e tenderit nuk janë të disponueshme nëpërmjet mjeteve elektronike, sipas parashikimeve të nenit 17 të këtij ligji, afati për dorëzimin e ofertave zgjatet me 5 ditë.
+7. Përjashtimisht, për procedurat e prokurimit mbi kufirin e lartë monetar, në rastin kur autoriteti ose enti kontraktor argumenton se, për shkak të një gjendjeje urgjence e ka të pamundur respektimin e afatit të përcaktuar në pikat 2 dhe 3 të këtij neni, afatet mund të shkurtohen:
+a) për pranimin e kërkesave për pjesëmarrje, jo më pak se 15 ditë nga data në të cilën është publikuar njoftimi i kontratës;
+b) për pranimin e ofertave, jo më pak se 10 ditë nga data në të cilën është dërguar ftesa për ofertë.

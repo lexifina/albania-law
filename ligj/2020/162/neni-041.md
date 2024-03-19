@@ -10,6 +10,6 @@ d) dialogu konkurrues;
 dh) procedurë me negocim me shpallje paraprake të njoftimit, e cila përdoret vetëm në rastin e kontratave sektoriale;
 e) procedurë me negocim pa shpallje paraprake të njoftimit të kontratës;
 ë) procedurë e hapur e thjeshtuar;
-f) shërbim konsulence.
+f) Shfuqizuar
 2. Për prokurimet me vlerë nën kufirin e ulët monetar të mallrave, shërbimeve apo punëve, autoriteti kontraktor mund të përdorë procedura të thjeshtuara, të përcaktuara në rregullat e prokurimit publik.
 3. Pavarësisht nëse vlera e përllogaritur e kontratës është në kufirin e prokurimeve me vlerë të vogël, autoritetet ose entet kontraktore mund të zgjedhin të zhvillojnë një nga procedurat e prokurimit të përcaktuara në pikën 1, në përputhje me parashikimet e këtij ligji.

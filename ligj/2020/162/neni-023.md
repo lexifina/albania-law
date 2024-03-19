@@ -6,10 +6,10 @@ b) nxjerr vendime, udhëzime dhe rekomandime për mirëzbatimin e kuadrit ligjor
 c) miraton me vendim dokumentet standarde të tenderit, që do të përdoren në procedurat e prokurimit sipas rregullave të prokurimit publik;
 ç) jep këshilla dhe asistencë në fushën e prokurimit publik, me qëllim mirëzbatimin e kuadrit ligjor për prokurimin publik;
 d) verifikon zbatimin e ligjshmërisë së procedurave të prokurimit publik, pas fazës së nënshkrimit të kontratës së prokurimit ose anulimit të procedurës, në përputhje me kërkesat e përcaktuara në këtë ligj dhe aktet nënligjore;
-dh) monitoron nëse zbatimi i kontratave është bërë në përputhje me kushtet e prokuruara bazuar në raportet periodike të autoriteteve ose enteve kontraktore. Në çdo rast, nëse vlerësohet për ushtrimin e këtij funksioni, kryhen verifikime në vend;
+dh) monitoron zbatimin e kontratave sipas kushteve të prokuruara, bazuar në dokumentacionin e administruar gjatë zbatimit të kontratës.
 e) në rast shkeljesh të këtij ligji dhe të akteve nënligjore, të nxjerra në zbatim të tij, vendos gjoba sipas parashikimeve të këtij ligji ose i propozon drejtuesit të autoritetit ose entit kontraktor apo organeve më të larta masa disiplinore për personat e autoriteteve ose enteve kontraktore, që i kanë kryer këto shkelje;
-ë) përjashton një operator ekonomik nga e drejta për të përfituar kontrata publike, në përputhje me parashikimet në këtë ligj;
-f) menaxhon bazën e të dhënave të procedurave të prokurimit në sistemin e prokurimit elektronik;
+ë) përjashton një operator ekonomik nga e drejta për të fituar kontratat e prokurimit publik, koncesionit/partneritetit publik privat dhe ankandit publik në përputhje me parashikimet në këtë ligj;
+f) administron të dhënat e Sistemit të Prokurimit Elektronik.
 g) analizon të dhënat për prokurimin publik dhe përgatit raporte statistikore;
 gj) harton dhe publikon Buletinin e Njoftimeve Publike, siç është përshkruar në rregullat e prokurimit publik dhe aktet e tjera nënligjore;
 h) bashkëpunon me institucionet ndërkombëtare dhe me ente të tjera të huaja për çështje që lidhen me sistemin e prokurimit publik;
