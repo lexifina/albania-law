@@ -1,5 +1,0 @@
-2. Certifikata veterinare të garantojë origjinën e ngarkesës së ardhur.
-3 Autoriteti Kombëtar i Ushqimit të informojë rregullisht Drejtorinë e Përgjithshme të Zhvillimit në Fushën e Sigurisë Ushqimore, Veterinarisë, Mbrojtjes së Bimëve dhe Peshkimit dhe Autoritetin Kombëtar të Veterinarisë dhe Mbrojtjes së Bimëve, për çdo ngarkesë të shpendëve të gjallë shtëpiakë, zogjtë 24-orësh, shpendë dekorativë, materialit biologjik, vezët e shpendëve, mishi i shpendëve të patrajtuar termikisht dhe nënproduktet e shpendëve të patrajtuar termikisht që vijnë nga vendet e sipërcituara në pikën 1.
-4. Urdhri nr. 32, datë 26.1.2023, “Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në shtetin e Moldavisë”, shfuqizohet.
-5. Për zbatimin e këtij urdhri, ngarkohen Drejtoria e Përgjithshme e Zhvillimit në Fushën e Sigurisë Ushqimore, Veterinarisë, Mbrojtjes së Bimëve dhe Peshkimit, Drejtoria e Politikave Veterinare, Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve dhe Autoriteti Kombëtar i Ushqimit.
-Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
