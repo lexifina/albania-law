@@ -96,10 +96,10 @@ Shënim. Në sportin e peshëngritjes, sportistët që arrijnë rezultate në ve
 Tabela II
 VEPRIMTARITË KOMBËTARE ZYRTARE
 Rekord kombëtar
-200 000 lekë
-Kampionati kombëtar në sportet individuale
+Jo më pak se 200 000 lekë
+Kampionati Kombëtar në Sportet Individuale
 Vendi i parë
-100 000 lekë
-Kampionati kombëtar i kategorisë më të lartë në sportet kolektive
+Jo më pak se 100 000 lekë
+Kampionati Kombëtar i Kategorisë më të Lartë në Sportet Kolektive
 Vendi i parë
-500 000 lekë
+Jo më pak se 500 000 lekë
