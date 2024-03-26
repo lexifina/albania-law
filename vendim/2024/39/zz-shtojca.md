@@ -1,5 +1,6 @@
 # Shtojca
 Lidhja nr.1
+(ndryshimet e lidhjes nr. 1 me VKM nr. 164, datë 20.3.2024 janë të pasqyruara si më poshtë vijon)
 Gr.
 Emri i Institucionit
 Nr. i Punonjësve 2024
@@ -2234,3 +2235,4 @@ Nepunes Informacioni
 Vjetore
 TOTAL PUNONJËS ME KONTRATË
 2,167
+(i shtohen lidhjes nr. 1 nënndarjet përkatëse, respektivisht ’’Gr.02, Kuvendi’’, “Gr.05, Ministria e Bujqësisë dhe Zhvillimit Rural”, “Gr.12, Ministria e Ekonomisë, Kulturës dhe Inovacionit”, “Gr.14, Ministria e Drejtësisë”, dhe “Gr.16, Shërbimi Informativ i Shtetit”, sipas pikës 1 të VKM nr. 164, datë 20.3.2024)
