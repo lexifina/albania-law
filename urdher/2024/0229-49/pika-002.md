@@ -1,0 +1,1 @@
+2. Në ushtrimin e kompetencës së deleguar, z. Ami Kozeli ndjek dhe zbaton procedurat dhe rregullat e parashikuara në ligjin nr. 10489, datë 15.12.2011, “Për tregtimin dhe mbikëqyrjen e tregut të produkteve joushqimore”, të ndryshuar.
