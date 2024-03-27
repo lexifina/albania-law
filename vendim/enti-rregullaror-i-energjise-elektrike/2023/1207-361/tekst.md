@@ -4,6 +4,10 @@ Nr. 361, datë 7.12.2023
 
 MBI LICENCIMIN E SHOQËRISË “GEALB ENERGY” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HIDROCENTRALET “GURI I BARDHË 1” DHE “GURI I BARDHË 2”
 
+(ndryshuar me Vendimin nr. 36, datë 27.3.2024)
+
+( i përditësuar)
+
 Në mbështetje të neneve 16 dhe 37, pika 2, germa “a”, 38, pika 1, germa “a”, dhe 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 7.12.2023, mbasi shqyrtoi relacionin me nr. 2042/17 prot., datë 5.12.2023, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi licencimin e shoqërisë ‘Gealb Energy’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike, nga hidrocentralet ‘Guri i Bardhë 1’ dhe ‘Guri i Bardhë 2’”,
 
 konstatoi se:
@@ -36,11 +40,15 @@ Për gjithë sa më sipër, Bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “Gealb Energy” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga hidrocentralet “Guri i Bardhë 1”, “Guri i Bardhë 2”, në rrjedhën e përrenjve të Zallit të Dishit dhe të Shehut (degë e lumit Mat), fshati Guri i Bardhë, Njësia Administrative Xibër, Bashkia Klos, qarku Dibër, me kapacitet të instaluar 9300 kw, për një afat 28 vjet e 5 muaj.
+ 1. Të licencojë shoqërinë “Gealb Energy” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga hidrocentralet “Guri i Bardhë 1”, “Guri i Bardhë 2”, në rrjedhën e përrenjve të Zallit të Dishit dhe të Shehut (degë e lumit Mat), fshati Guri i Bardhë, Njësia Administrative Xibër, Bashkia Klos, qarku Dibër, me kapacitet të instaluar 9300 kw, për një afat 28 vjet e 5 muaj.
 
-2. Shoqëria “Gealb Energy” sh.p.k. të informojë ERE-n, në lidhje me fillimin e punimeve të ndërtimit të hidrocentraleve, brenda datës 3.2.2024, në rast se nuk ka filluar ende punimet atëherë të depozitojë VNM-në e rinovuar brenda kësaj date.
+     2. Përpara fillimit të operimit/ushtrimit të veprimtarisë së prodhimit të energjisë elektrike, shoqëria “Gealb Energy” sh.p.k. duhet të depozitojë në ERE:
 
-3. Ky vendim është objekt rishikimi nga ERE në varësi të plotësimit të kushtit të lënë në pikën 2 të këtij vendimi.
+       a) deklaratën mjedisore të re; 
+
+       b) miratimin/qëndrimin e Ministrisë së Infrastrukturës dhe Energjisë në lidhje me zgjatjen e afatit    të fillimit të punimeve/ndërtimit të hidrocentraleve “Guri i Bardhë 1” dhe “Guri i Bardhë 2”.
+
+     3. Ky vendim është objekt rishikimi nga ERE në varësi të plotësimit të kushtit të lënë në pikën 2 të këtij vendimi.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “Gealb Energy” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, “Operatorin e Sistemit të Transmetimit” (OST) sh.a. dhe “Furnizuesin e Tregut të Lirë” (FTL) sh.a. për vendimin e Bordit të ERE-s.
 
