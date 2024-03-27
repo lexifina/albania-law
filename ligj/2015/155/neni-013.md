@@ -1,7 +1,7 @@
 # Neni 13
 Funksionet e AMLF-së
 1. Autoriteti i Mbikëqyrjes së Lojërave të Fatit ushtron këto funksione:
-a) licencon subjektet që aplikojnë për ushtrim aktiviteti në fushën e lojërave të fatit, sipas kritereve të këtij ligji;
+a) licencon nëpërmjet Komisionit të Licencave subjektet që aplikojnë për ushtrim aktiviteti në fushën e lojërave të fatit, sipas kritereve të këtij ligji;
 b) kontrollon dokumentacionin e personave fizikë dhe juridikë, të cilët aplikojnë për t’u pajisur me licencë apo që janë pajisur me licencë, si dhe kërkon dokumente dhe prova shtesë në rastet kur e gjykon të arsyeshme;
 c) mbikëqyr dhe kontrollon veprimtarinë e subjekteve, që organizojnë dhe ushtrojnë aktivitetin e lojërave të fatit në të gjithë territorin e Republikës së Shqipërisë, në përputhje me legjislacionin për këtë veprimtari dhe aktet nënligjore në fuqi;
 ç) monitoron në distancë dhe në kohë reale subjektet e licencuara të lojërave të fatit nëpërmjet Sistemit Qendror të Monitorimit On-line;

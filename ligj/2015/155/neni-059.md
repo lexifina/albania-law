@@ -8,3 +8,4 @@ c) konfiskimin e mjeteve të lojërave, magazinimin, si dhe shkatërrimin e tyre
 d) sekuestrimin e pasurive të regjistruara në emër të subjektit.
 2. Ndaj personave që ushtrojnë aktivitet për lojëra fati në kundërshtim me këtë ligj, të cilët nuk janë të pajisur me licencë, do të aplikohen masat e mësipërme shtrënguese për aq sa janë të aplikueshme.
 3. Shkronjat “a” dhe “ç”, të pikës 1, të këtij neni, zbatohen nga AMLF-ja edhe në rastet kur subjektet e lojërave të fatit rezultojnë debitorë në administratën tatimore, sipas legjislacionit tatimor në fuqi. Procedurat për zbatimin e kësaj dispozite, për efekt të detyrimeve tatimore, fillojnë të zbatohen nga AMLF-ja, brenda 15 ditëve pas njoftimit me shkrim të Drejtorisë së Përgjithshme të Tatimeve.
+4. Ngarkohet ministri përgjegjës për financat për nxjerrjen e udhëzimit për përcaktimin e procedurave të konfiskimit, magazinimit dhe shkatërrimit të mjeteve të lojërave të fatit.

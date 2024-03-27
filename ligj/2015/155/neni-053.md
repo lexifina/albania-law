@@ -22,11 +22,11 @@ e) pika nuk është e pajisur me NIUS sekondar ose nuk është regjistruar në p
 ë) pajisjet e lojërave të fatit nuk janë miratuar nga AMLF-ja dhe subjekti i ka vënë në përdorim;
 f) subjekti/personi ushtron aktivitet të lojërave të fatit on-line, në kundërshtim me nenin 8 të këtij ligji;
 g) personat fizikë ose juridikë, të cilët importojnë ose tregtojnë pajisjet e lojërave të fatit në Republikën e Shqipërisë, pa u autorizuar nga AMLF-ja.
-gj) organizatorët që ushtrojnë aktivitetin e lojërave të fatit të basteve sportive përdorin programe software dhe hardware, të ndërtuara nga subjekte të paautorizuara nga AMLF-ja për këtë qëllim;
+gj) organizatorët që ushtrojnë aktivitetin e lojërave të fatit të basteve sportive online përdorin programe software dhe sisteme të pamiratuara sipas përcaktimeve të këtij ligji;
 h) organizatori kundërshton, nuk respekton parashikimet e dispozitave të kreut X dhe/ose bllokon, heq, shkatërron ose çaktivizon pajisjet përkatëse të lojërave, të lidhura me SQMO, pajisjeve në lidhje me to apo të çdo pajisjeje ose software të lidhura me to;
 i) të dhënat e nxjerra nga monitorimi on-line dhe ato faktike nuk përputhen me njëra- tjetrën;
 j) ka mospërputhje të përmasave dhe formatit të reklamës me aktet nënligjore;
-k) subjekti nuk ka paguar brenda afateve të parashikuara në ligj shumën 0,4 për qind të xhiros vjetore për ministrinë përgjegjëse për sportin, shumën prej 0,2 për qind të xhiros vjetore për ministrinë përgjegjëse për turizmin, shumën prej 0,2 për qind të xhiros vjetore për ministrinë përgjegjëse për kulturën, si dhe shumën prej 0,4 për qind të xhiros vjetore për ministrinë përgjegjëse për kulturën nga organizatori i lotarisë kombëtare.
+k) subjekti nuk ka paguar brenda afateve të parashikuara në ligj shumat për llogari të Fondit të Posaçëm sipas parashikimeve të nenit 52.
 l) organizatori, brenda periudhës së përcaktuar në pikën 6, të nenit 9, të këtij ligji, nuk ka marrë masat për ndryshimin e formatit dhe përmasave të reklamave sipas këtij udhëzimi.
 2. Në rast përsëritjeje të shkeljeve të mësipërme, AMLF-ja bllokon dhe më pas heq të drejtën për ushtrim veprimtarie, si dhe ka të drejtë t’i kërkojë autoritetit të autorizuar nga ligji revokimin /pezullimin dhe deri në heqjen e licencës.
 3. Dënimi me gjobë për kundërvajtjet administrative vendoset nga inspektorët e AMLF-së.
@@ -34,7 +34,7 @@ l) organizatori, brenda periudhës së përcaktuar në pikën 6, të nenit 9, t�
 5. Ushtrimi i veprimtarisë në fushën e lojërave të fatit, pa u licencuar, sipas procedurave të parashikuara nga ky ligj, kur nuk përbën vepër penale sipas parashikimeve të Kodit Penal, përbën kundërvajtje administrative dhe personi juridik, që kryen kundërvajtjen, dënohet me gjobë, si më poshtë:
 a) për ushtrim aktiviteti bingo dhe/ose bingo televizive 30 000 000 (tridhjetë milionë) lekë;
 b) për ushtrim aktiviteti “Lotari Kombëtare” 50 000 000 (pesëdhjetë milionë) lekë;
-c) për ushtrim aktiviteti “Baste sportive” 30 000 000 (tridhjetë milionë) lekë;
+c) për ushtrim aktiviteti “Baste sportive online” 30 000 000 (tridhjetë milionë) lekë;
 ç) për ushtrim aktiviteti nëpërmjet makinave elektronike 1 000 000 (njëqind mijë) lekë për çdo makinë elektronike;
 d) për ushtrim aktiviteti “Kazino” 50 000 000 (pesëdhjetë milionë) lekë;
 dh) për ushtrim aktiviteti “Baste të garave në pista” 50 000 000 (pesëdhjetë milionë) lekë.

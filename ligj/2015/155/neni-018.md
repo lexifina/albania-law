@@ -6,14 +6,14 @@ Rregulla specifike
 4. Pas marrjes së licencës për hapjen e sallave, subjekti bën pranë AMLF-së kërkesë për hapje salle. Pas miratimit nga AMLF-ja, subjekti është i detyruar të regjistrohet në QKR, brenda 7 ditësh nga data e marrjes së miratimit nga AMLF-ja.
 5. Organizatorët e lojërave të fatit, në momentin e licencimit dhe gjatë të gjithë afatit të saj, kufizohen si më poshtë:
 a) Kazinotë kanë të drejtë të hapin vetëm 1 sallë për ushtrim aktiviteti.
-b) Bastet sportive deri në 1000 adresa sekondare. Distancat nga njëra pikë basti te tjetra duhet të jetë jo më pak se 100 metra në vijë ajrore.
+b) Shfuqizuar.
 c) Çdo subjekt i pajisur me licencë për bastet për garat në pistë ka të drejtën e 1 hipodromi.
-6. Organizatori për kazinotë duhet të njoftojë AMLF-në, 10 ditë përpara, për çdo makinë shtesë që vendos në pikë/sallë. Në çdo rast, organizatori për kazino nuk mund të vendosë më pak se 20 makina në secilën sallë. Salla duhet të ketë një sipërfaqe të tillë që secilit automat t’i takojë një sipërfaqe prej 5 m².
+6. Organizatori për kazinotë duhet të njoftojë AMLF-në, 5 ditë përpara, për çdo makinë shtesë që vendos në pikë/sallë. Në çdo rast, organizatori për kazino nuk mund të vendosë më pak se 20 makina në secilën sallë. Salla duhet të ketë një sipërfaqe të tillë që secilit automat t’i takojë një sipërfaqe prej 2,5 m2.
 7. Organizatori është i detyruar që të monitorohet on-line dhe t’i lejojë AMLF-së akses në serverin e tij.
-8. Organizatori duhet të njoftojë AMLF-në 30 ditë përpara për mbylljen e çdo salle, ndryshimin e selisë, ndryshimin e personelit apo të numrit të mjeteve të lojërave për çdo sallë, në përputhje me licencën që zotëron.
+8. Organizatori duhet të njoftojë AMLF-në 7 ditë përpara për ndryshimin e personelit dhe 5 ditë përpara për mbylljen e çdo salle, ndryshimin e selisë, apo të numrit të mjeteve të lojërave për çdo sallë, në përputhje me licencën që zotëron.
 9. Në sallën e lojërave të fatit mund të ushtrohet aktivitet vetëm nga një organizator i licencuar vetëm për një nga kategoritë e lejuara për lojëra fati.
 10. Organizatorët e lojërave të fatit duhet t’u kthejnë lojtarëve, në formën e fitimit:
-a) bingot televizive, jo më pak se 80 për qind të shumës së vënë në lojë;
+a) bingot televizive, jo më pak se 50 për qind të shumës së vënë në lojë;
 b) kazinotë, jo më pak se 80 për qind të shumës së vënë në lojë, përveç lojërave live, që zhvillohen në tavolina;
-c) Lotaria Kombëtare për çdo lotari, jo më pak se 60 për qind të shumës së vënë në lojë. Për rastet kur shuma në dispozicion të lojtarëve nuk u shpërndahet fituesve, ajo mbartet në lotarinë pasardhëse, si shumë në dispozicion të lojtarëve.
+c) Lotaria Kombëtare për çdo lotari, jo më pak se 50 për qind të shumës së vënë në lojë. Për rastet kur shuma në dispozicion të lojtarëve nuk u shpërndahet fituesve, ajo mbartet në lotarinë pasardhëse, si shumë në dispozicion të lojtarëve.
 11. Shitja, lënia peng, dhurimi dhe çdo formë tjetër e disponimit të aksioneve, aseteve, pasurisë apo makinave të organizatorit të lejuar për zhvillimin e lojërave të fatit bëhen me miratim të AMLF-së. Kjo procedurë, si dhe dokumentacioni i kërkuar përcaktohen me udhëzim të Ministrit të Financave.
