@@ -8,8 +8,8 @@ Të ardhurat e individëve nga lojërat e fatit dhe kazinotë tatohen sipas ligj
 4.1. Për bingo:
 a) Organizatori i lojës bingo, që zhvillohet për pjesëmarrës, brenda sallës, paguan një tatim për lojërat e fatit, me një kuotë fikse, çdo muaj, për çdo sallë, përkatësisht, 500 000 lekë për rrethet e kategorisë së parë, 400 000 lekë për rrethet e kategorisë së dytë dhe 300 000 lekë për rrethet e kategorisë së tretë;
 b) Organizatori i lojës bingo televizive, që nuk zhvillohet për pjesëmarrës brenda sallave, paguan tatim për lojërat e fatit 10 për qind mbi vëllimin e qarkullimit, gjithsej, të realizuar në bazë të arkëtimeve nga shitja e biletave. Organizatori, për çdo lojë, duhet t’u kthejë lojtarëve, në formën e fitimit, jo më pak se 50 për qind të shumës së vënë në lojë.
-4.2. Për bastet sportive:
-Organizatori i basteve sportive paguan tatim për lojërat e fatit 25 për qind mbi fitimin nga loja, por jo më pak se:
+4.2. Për bastet sportive online:
+Organizatori i basteve sportive online paguan tatim për lojërat e fatit 25 për qind mbi fitimin nga loja, por jo më pak se:
 a) për 1 deri në 99 NIPTE, 10 000 000 (dhjetë milionë) lekë në muaj, për çdo shoqëri që kryen këtë veprimtari;
 b) për 100 deri në 149 NIPTE, 12 000 000 (dymbëdhjetë milionë) lekë në muaj, për çdo shoqëri që kryen këtë veprimtari;
 c) mbi 150 NIPTE, 14 000 000 (katërmbëdhjetë milionë) lekë në muaj, për çdo shoqëri që kryen këtë veprimtari. Organizatori duhet t’u kthejë lojtarëve, në formën e fitimit, jo më pak se 50 për qind të shumës së vënë në lojë.
