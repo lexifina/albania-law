@@ -149,3 +149,38 @@ Açuge dhe sardele të kombinuara
 4650
 4301
 []
+REKOMANDIMI GFCM/46/2023/5
+PËR ZGJATJEN E REGJIMIT TRANZITOR TË PESHKIMIT DHE VENDOSJA E NJË LIMITI ZËNIESH PËR VITIN 2024 PËR PELAGJIKËT E VEGJËL NË DETIN ADRIATIK (NËNZONA GJEOGRAFIKE 17 DHE 18), BURUAR NGA REKOMANDIMI GFCM/44/2021/20
+Komisioni i Përgjithshëm për Peshkimin në Mesdhe (KKPM/GFCM),
+Duke marrë parasysh se qëllimi i Marrëveshjes për themelimin e Komisionit të Përgjithshëm të Peshkimit për Mesdheun (Marrëveshja e GFCM-së) është të sigurojë ruajtjen dhe përdorimin e qëndrueshëm të burimeve të gjalla detare, në nivel biologjik, social, ekonomik dhe mjedisor, në zonën e zbatimit të GFCM-së;
+Duke kujtuar që në arritjen e qëllimit të Marrëveshjes së GFCM-së, GFCM-së do të miratojë rekomandime për masat e ruajtjes dhe të menaxhimit, që synojnë sigurimin e qëndrueshmërisë afatgjatë të aktiviteteve të peshkimit, me qëllim ruajtjen e burimeve të gjalla detare dhe qëndrueshmërinë ekonomike dhe sociale të peshkimit dhe që në miratimin e rekomandimeve të tilla, GFCM-ja do t’iu kushtojë vëmendje të veçantë masave për të parandaluar mbipeshkimin dhe për të minimizuar hedhurinat, si dhe ndikimet e mundshme në peshkimin artizanal dhe komunitetet lokale;
+Duke marrë parasysh këshillat e fundit shkencore, të miratuara nga Komiteti i Këshillimit Shkencor për Peshkimin (KKSHP/SAC) në sesionin e tij të 23-të, që tregojnë një mbishfrytëzim të vazhdueshëm për të dyja resurset kyçe të pelagjikëve të vegjël në detin Adriatik;
+Duke marrë parasysh Këshillin e SAC-it, për të vendosur dimensionet minimale (Minimum Conservation Reference Size, MCRS), në përputhje me gjatësinë në të cilën 50% e popullatës është e pjekur seksualisht, për sardelen dhe açugen në detin Adriatik, sipas rekomandimit GFCM/44/2021/20, “Për një plan menaxhimi shumëvjeçar për një shfrytëzim të qëndrueshëm të pelagjikëve të vegjël në detin Adriatik (nënzonat gjeografike 17 dhe 18)”;
+Duke kujtuar paragrafin 12 të rekomandimit GFCM/44/2021/20, “Për një plan menaxhimi shumëvjeçar për një shfrytëzim të qëndrueshëm të pelagjikëve të vegjël në detin Adriatik (nënzonat gjeografike 17 dhe 18)”, i cili përcakton se GFCM duhet të sigurojë zgjatjen me një vit të periudhës tranzitore në rast se vlerësimi i Strategjive Menaxhuese (Management Strategy Evaluation MSE) dhe vlerësimi i sardeles nuk janë përfunduar më 2023-shin;
+Duke kujtuar nevojën për të shtuar një limit zëniesh tranzitore për vitin 2024, i cili nuk është miratuar në rekomandimin GFCM/44/2021/20;
+Miraton, në përputhje me dispozitat e neneve 5b, 8b dhe 13 të marrëveshjes me GFCM-në, rekomandimin e mëposhtëm:
+1. Mbështetur në parashikimet e paragrafit 12-të të rekomandimit GFCM/44/2021/20, regjimi tranzitor i peshkimit do të zgjatet me një vit dhe do të përfundojë më 31 dhjetor 2024.
+2. Mbështetur në parashikimet e paragrafit 12-të të rekomandimit GFCM/44/2021/20 dhe bazuar në këshillat e SAC-it, duhet të miratohet një limit zëniesh për vitin 2024.
+3. Mbështetur në situatën e vazhdueshme të mbishfrytëzimit i të dy stockeve pelagjike, bazuar në këshillat shkencorë më të fundit të SAC-it dhe objektivin për të arritur MSY për të dyja stocket, GFCM duhet të vazhdojë reduktimin e aplikuar në vitin 2023 dhe prezantojë për vitin 2024 reduktimin e limitit të zënieve me 5% për açugen dhe 9% për sardelen, në përputhje me limitin e zënieve të miratuar më 2023-in. Në këtë linjë, limiti i zënieve i kombinuar për açugen dhe sardelen janë përcaktuar për vitin 2024 në shtojcën 1.
+4. Dimensionet minimale të lejuara për t’u peshkuar për të dy stocket e pelagjikëve të vegjël në detin Adriatik duhet të jenë:
+- 9 cm gjatësia e përgjithshme (TL) për Açugen (Engraulis encrasicolus);
+- 11 cm gjatësia e përgjithshme (TL) për sardelen (Sardina pilchardus).
+5. Ndalohet zënia, mbajtja në bordin e anijes, transbordimi, transferimi, zbarkimi, magazinimi, tregtimi, hedhja në treg ose për konsum nga peshkatarët profesionit, të individëve të stockeve kryesore të pelagjikëve të vegjël, nën dimensionet e përcaktuara në paragrafin 4.
+6. Pa paragjykuar parashikimet e paragrafit 5 dhe kur një sistem për të shmangur hedhurinat dhe detyrimi për të zbarkuar të gjitha zëniet është miratuar nga një palë kontraktuese (CPC), kapiteni i anijes së peshkimit nuk duhet të hedhë në det këto zënie, dhe duhet të zbarkojë peshkun e zënë, pavarësisht dimensioneve të peshkut, në përputhje me masat e miratuara nga kjo CPC. Të gjitha sasitë e zbarkuara do të regjistrohen dhe nuk duhet të hidhen në treg dhe përdorur për konsum njerëzor.
+7. Në përjashtim të paragrafëve 4, 5 dhe 6 dimensionet minimale nuk do të aplikohen për peshkimin tradicional të të vegjëlve të sardeles me përdorimin e tratave të krahut në Gjirin e Kotorit (Boka Kotorska Bay).
+SHTOJCA 1
+Mundësia për të peshkuar në detin Adriatik (nënzonat 17-18) pelagjikët e vegjël gjatë periudhës tranzitore 2024, sipas CPC-së.
+Speciet
+EU 2022
+EU 2023
+EU 2024
+Limiti i përbashkët i zënieve 2022
+Limiti i përbashkët i zënieve 2023
+Limiti i përbashkët i zënieve 2024
+Açuge dhe sardele të kombinuara
+91998
+84976
+78111
+4650
+4301
+3979
