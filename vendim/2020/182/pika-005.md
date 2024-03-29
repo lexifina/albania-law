@@ -1,1 +1,1 @@
-5. KMCAP-të e nivelit të parë marrin vendim për grupin e përfitimit, përfitimet dhe afatet e përfitimit për secilin grup, sipas anekseve nr. 1 e nr. 2, që i bashkëlidhen këtij vendimi.
+5. Komisionet e nivelit të parë dhe epror KMCAP dhe KMPV marrin vendim për grupin e përfitimit, përfitimet dhe afatet e përfitimit për secilin grup, sipas anekseve nr. 1, nr. 2, nr. 3 dhe nr. 4, që i bashkëlidhen këtij vendimi.

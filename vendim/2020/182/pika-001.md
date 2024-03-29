@@ -1,1 +1,1 @@
-1. Përfitojnë pagesë të aftësisë së kufizuar personat e përcaktuar në shkronjat “a” dhe “b”, të nenit 8, të ligjit nr. 57/2019, “Për asistencën sociale në Republikën e Shqipërisë”.
+1. Përfitojnë pagesë të aftësisë së kufizuar personat e përcaktuar në shkronjën “a”, të nenit 8, të ligjit nr. 57/2019, “Për asistencën sociale në Republikën e Shqipërisë”, të ndryshuar, si dhe personat e përcaktuar në shkronjën “b”, të këtij ligji, deri në çastin e rivlerësimit nga komisionet shumëdisiplinore të vlerësimit të aftësisë së kufizuar.

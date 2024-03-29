@@ -1,1 +1,1 @@
-2. Personat me aftësi të kufizuar, që nuk plotësojnë kushtet ligjore për përfitim të pensionit të invaliditetit të punës sipas ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, të cilët me vendim të komisioneve mjekësore të caktimit të aftësisë për punë përcaktohen se kanë nevojë për përkujdesje, përfitojnë një ndihmës personal me pagesë.
+2. Individët, të cilët me vendim të komisionit përcaktohen se kanë nevojë për përkujdesje, përfitojnë një ndihmës personal me pagesë.
