@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e rregullave zbatuese të vlefshmërisë ajrore dhe të certifikimit mjedisor ose deklaratën e përputhshmërisë së avionit dhe produkteve të lidhura me to, pjesëve dhe pajisjeve, si dhe për kërkesat e aftësisë së organizatave të projektimit dhe prodhimit”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.

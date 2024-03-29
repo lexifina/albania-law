@@ -1,0 +1,1 @@
+3. Urdhri i ministrit nr. 326, datë 29.8.2019, “Për miratimin e rregullores për përcaktimin e rregullave zbatuese të vlefshmërisë ajrore dhe të certifikimit mjedisor të mjeteve fluturuese dhe të produkteve që kanë lidhje me to, pjesëve dhe pajisjeve, si dhe për certifikimin e organizatave të projektimit dhe prodhimit”, shfuqizohet.

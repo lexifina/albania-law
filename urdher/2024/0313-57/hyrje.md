@@ -1,0 +1,5 @@
+URDHËR
+Nr. 57, datë 13.3.2024
+PËR MIRATIMIN E RREGULLORES PËR PËRCAKTIMIN E RREGULLAVE ZBATUESE TË VLEFSHMËRISË AJRORE DHE TË CERTIFIKIMIT MJEDISOR OSE DEKLARATËN E PËRPUTHSHMËRISË SË AVIONIT DHE PRODUKTEVE TË LIDHURA ME TO, PJESËVE DHE PAJISJEVE, SI DHE PËR KËRKESAT E AFTËSISË SË ORGANIZATAVE TË PROJEKTIMIT DHE PRODHIMIT
+Në zbatim të pikës 4, të nenit 102, të Kushtetutës, të neneve 37, 38, 39, 42 dhe 43, të ligjit nr. 96/2020, “Kodi Ajror i Republikës së Shqipërisë”, dhe në përputhje me ligjin nr. 9658, datë 18.12.2006, “Për ratifikimin e marrëveshjes shumëpalëshe ndërmjet Komunitetit Evropian dhe shteteve anëtare të tij, Republikës së Shqipërisë, Bosnjës dhe Hercegovinës, Republikës së Bullgarisë, Republikës së Kroacisë, Republikës së Maqedonisë, Republikës së Islandës, Republikës së Malit të Zi, Mbretërisë së Norvegjisë, Republikës së Rumanisë, Republikës së Serbisë dhe Misionit Administrativ të Përkohshëm të Kombeve të Bashkuara në Kosovë, për krijimin e një zone të përbashkët të aviacionit evropian”,
+URDHËROJ:
