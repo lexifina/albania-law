@@ -1,0 +1,1 @@
+6. Miratimin e ndihmës me infrastrukturën e përgjithshme mbështetëse deri në kufijtë e parkut, si rrugë, fibra optike, energji elektrike, por pa u kufizuar në to sipas parashikimeve të nenit 11 të ligjit mbi parqet teknologjike. Ngarkohet Ministria e Infrastrukturës dhe Energjisë, si dhe Operatori i Shpërndarjes së Energjisë Elektrike sh.a., për zbatimin e kësaj pike.

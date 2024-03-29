@@ -1,0 +1,1 @@
+4. Autorizimin e Korporatës së Investimeve Shqiptare sh.a., një shoqëri tregtare aksionare me kapital shtetëror, regjistruar në Qendrën Kombëtare të Biznesit me numër unik identifikimi subjekti: M01917011D, në rolin e zhvilluesit të parkut teknologjik dhe shkencor “Durana Tech Park”.
