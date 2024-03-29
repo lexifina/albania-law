@@ -1,0 +1,1 @@
+1. Miratimin e garancisë shtetërore në favor të Bankës së Tiranës, sh.a., për kontratën e kredisë ndërmjet Bankës së Tiranës, sh.a., Furnizuesit të Shërbimit Universal, sh.a., dhe Operatorit të Shpërndarjes së Energjisë Elektrike Group, sh.a., në shumën 20 000 000 (njëzet milionë) euro.
