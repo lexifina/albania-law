@@ -1,0 +1,1 @@
+9. Agjencia Shtetërore për Mbështetjen dhe Zhvillimin e Start up-eve dhe Lehtësuesve (“Start up Albania”) monitoron procesin e zbatimit të projektit pilot dhe i raporton ministrit të Shtetit për Sipërmarrjen dhe Klimën e Biznesit për ecurinë dhe gjetjet.

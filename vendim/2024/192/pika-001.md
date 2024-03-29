@@ -1,0 +1,1 @@
+1. Miratimin e projektit pilot “Për zbatimin e mënyrave alternative të pagesës së shpejtë”, me qëllim promovimin e konkurrencës, rritjen e produkteve dhe të shërbimeve në tregun financiar, rritjen e inovacionit në sektorin financiar, si dhe përfshirjen financiare të qytetarëve.

@@ -1,0 +1,1 @@
+6. Fondi financiar në vlerën 12 400 000 (dymbëdhjetë milionë e katërqind mijë) lekë për mbulimin e shpenzimeve për përfituesit përdoret nga Agjencia Shtetërore për Mbështetjen dhe Zhvillimin e Start up-eve dhe Lehtësuesve (“Start up Albania”) vetëm për qëllime dhe në përputhje me përcaktimet e këtij vendimi.
