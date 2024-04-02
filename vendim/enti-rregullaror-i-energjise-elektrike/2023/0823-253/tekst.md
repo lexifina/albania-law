@@ -4,6 +4,10 @@ Nr. 253, datë 23.8.2023
 
 MBI LICENCIMIN E SHOQËRISË “ERSEKA SOLAR PARK 2” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA CENTRALI FOTOVOLTAIK ME KAPACITET TË INSTALUAR 20 mw (AC)
 
+( ndryshuar me Vendimin nr. 57, datë 2.4.2024)
+
+(i përditësuar)
+
 	Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a”, dhe 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 23.8.2023, mbasi shqyrtoi relacionin me nr. 1888/7 prot., datë 21.8.2023, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi licencimin e shoqërisë ‘Erseka Solar Park 2’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 20 mw (AC)”,
 
 konstatoi se:
@@ -32,9 +36,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Erseka Solar Park 2” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 20 mw (AC), për një afat 30-vjeçar.
 
-2. Shoqëria të informojë ERE-n çdo 3 (tre) muaj, në lidhje me fillimin e punimeve të ndërtimit të centralit fotovoltaik, deri më datë 21.2.2024.
+2. Përpara fillimit të operimit/ushtrimit të veprimtarisë së energjisë elektrike ,shoqëria “Erseka Solar Park 2” sh.p.k. të depozitojë në ERE VNM-në e re.
 
-3. Ky vendim është objekt rishikimi nga ERE në varësi të depozitimit të informacionit sipas përcaktimeve të pikës 2, në kuadër të vlefshmërisë së VNM-së paraprake.
+3. Ky vendim është objekt rishikimi nga ERE në varësi të depozitimit të VNM-së së re.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “Erseka Solar Park 2” sh.p.k. dhe Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s. 
 
