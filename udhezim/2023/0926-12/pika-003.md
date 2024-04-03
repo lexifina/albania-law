@@ -1,1 +1,0 @@
-3. Udhëzimi nr. 20, datë 14.10.2022, “Për miratimin e metodologjisë për kriteret dhe procedurat për shpërndarjen dhe përdorimin e subvencioneve shtetërore për shoqëritë aksionare të ujësjellës-kanalizimeve, për vitin buxhetor 2022”, shfuqizohet.
