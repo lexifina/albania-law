@@ -1,0 +1,1 @@
+2. Urdhri i ministrit të Punëve Publike dhe Transportit nr. 130, datë 9.11.2012, “Për miratimin e rregullores për certifikimin dhe regjistrimin e aerodromeve civile në Republikën e Shqipërisë, si dhe detyrimet dhe përgjegjësitë e operatorëve të aerodromeve”, shfuqizohet.

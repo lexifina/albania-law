@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për certifikimin e aerodromeve civile në Republikën e Shqipërisë, si dhe detyrimet dhe përgjegjësitë e operatorëve të aerodromeve”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
