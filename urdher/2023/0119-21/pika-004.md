@@ -1,3 +1,3 @@
 4. Ditët e peshkimit ndahen sipas segmenteve të flotës për anijet e peshkimit fundor që përdorin rrjetë fundore me timon (OTB), si më poshtë:
-a) segmenti ≥ 12 m dhe < 24 m: 16 015 ditë;
-b) segmenti ≥ 24 m: 5 711 ditë.
+a) segmenti ≥ 12 m dhe < 24 m: 15 789 ditë;
+b) segmenti ≥ 24 m: 5 631 ditë.
