@@ -4,7 +4,7 @@ Nr. 55/2015
 
 PËR INVESTIMET STRATEGJIKE NË REPUBLIKËN E SHQIPËRISË
 
-(ndryshuar me ligjin nr. 67/2018, datë 4.10.2018; nr. 102/2018, datë 13.12.2018; nr. 89/2019,  datë 18.12.2019, nr. 142/2020, datë 3.12.2020, nr. 130/2021, datë 20.12.2021)
+(ndryshuar me ligjin nr. 67/2018, datë 4.10.2018; nr. 102/2018, datë 13.12.2018; nr. 89/2019,  datë 18.12.2019, nr. 142/2020, datë 3.12.2020, nr. 130/2021, datë 20.12.2021; nr. 31/2024, datë 4.4.2024)
 
 (i përditësuar)
 
@@ -588,15 +588,15 @@ Neni 36
 
 Afati përfundimtar i paraqitjes së kërkesave
 
-(ndryshuar afati ligjor me ligjin nr. 67/2018, datë 4.10.2018, nr. 89/2019, datë 18.12.2019, nr. 142/2020, datë 3.12.2020, nr. 130/2021, datë 20.12.2021)
+(ndryshuar afati ligjor me ligjin nr. 67/2018, datë 4.10.2018, nr. 89/2019, datë 18.12.2019, nr. 142/2020, datë 3.12.2020, nr. 130/2021, datë 20.12.2021; nr. 31/2024, datë 4.4.2024)
 
-Afati i fundit për paraqitjen e kërkesave nga subjektet investuese të interesuara për përfshirjen në procedurat për përfitimin e statusit “Investim/ investitor strategjik, procedurë e asistuar/e veçantë”, në zbatim të këtij ligji, është data 31 dhjetor 2023.
+Afati i fundit për paraqitjen e kërkesave nga subjektet investuese të interesuara për përfshirjen në procedurat për përfitimin e statusit “Investim/ investitor strategjik, procedurë e asistuar/e veçantë”, në zbatim të këtij ligji, është data 31 dhjetor 2024.
 
 Neni 37
 
 Hyrja në fuqi
 
-Ky ligj hyn në fuqi 3 muaj  pas botimit në Fletoren Zyrtare.
+Ky ligj hyn në fuqi 3 muaj pas botimit në Fletoren Zyrtare.
 
 KRYETARI
 
