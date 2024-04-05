@@ -1,0 +1,1 @@
+1. Miratimin e strukturës së pagës dhe të niveleve të pagave të nëpunësve të Task-Forcës për Monitorimin, Inspektimin dhe Marrjen e Masave për Mbrojtjen dhe Përmirësimin e Infrastrukturës për Trajtimin e Ujërave të Ndotura që Shkarkohen pranë ose në Ujëra Larëse në Zonat Bregdetare, ose në Bregun e Liqeneve e të Lumenjve, në vijim “Task-Forca”.

@@ -1,0 +1,1 @@
+5. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për vitin 2024, përballohen nga fondet e miratuara në tavanet buxhetore për Ministrinë e Infrastrukturës dhe Energjisë për këtë vit, në programin “Furnizimi me ujë dhe kanalizime” dhe fillojnë nga data e emërimit të nëpunësve në detyrë.
