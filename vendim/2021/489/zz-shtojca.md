@@ -1,5 +1,5 @@
 # Shtojca
-(Lista I dhe II ndryshuar me VKM nr. 196, datë 5.4.2023)
+(Lista I dhe II ndryshuar me VKM nr. 196, datë 5.4.2023; me VKM nr. 209, datë 3.4.2024)
 PASQYRA I
 MASA E MBULIMIT TË ÇMIMIT TË BARNAVE 2021
 Nr.
