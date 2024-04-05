@@ -1,0 +1,1 @@
+18. Njësia e vetëqeverisjes vendore, brenda 20 (njëzet) ditëve pune nga marrja në dorëzim e kërkesës për certifikatë përdorimi në sistemin “e-leje”, së bashku me dokumentacionin e plotë të saj, shqyrton aplikimin në tërësi dhe i paraqet raportin e vlerësimit, sipas rastit, kryetarit të bashkisë për vendim.

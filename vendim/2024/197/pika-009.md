@@ -1,0 +1,1 @@
+9. Në rast se dokumentacioni është i plotë, kërkesa konsiderohet e pranuar për shqyrtim të mëtejshëm. Pas pranimit të kërkesës për shqyrtim, njësia e vetëqeverisjes vendore kryen shqyrtimin teknik të kërkesës për leje ndërtimi, brenda 10 (dhjetë) ditëve pune nga plotësimi nga ana formale.

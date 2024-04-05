@@ -1,0 +1,1 @@
+4. AZHT-ja, brenda 10 (dhjetë) ditëve pune nga zbardhja e vendimit të ndryshimit të lejes së zhvillimit, sipas shkronjës “a”, të pikës 3, të këtij kreu, lëshon, nëpërmjet sistemit elektronik “e-leje”, dokumentin e lejes së zhvillimit.
