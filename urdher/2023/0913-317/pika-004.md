@@ -1,1 +1,0 @@
-4. Të gjitha aktet e nënshkruara para hyrjes në fuqi të këtij urdhri dhe që janë nxjerrë në zbatim të urdhrit nr. 30, datë 15.02.2022, “Për delegim kompetencash”, pika “a”, e urdhrit të ministrit për Evropën dhe Punët e Jashtme, do të vazhdojnë të jenë të vlefshme deri në përfundimin e procesit gjyqësor përkatës.
