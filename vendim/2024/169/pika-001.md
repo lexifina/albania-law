@@ -1,0 +1,1 @@
+1. Miratimin e kontratës, ndërmjet Ministrisë së Ekonomisë, Kulturës dhe Inovacionit dhe zhvilluesit, Bashkia Tiranë, për ndërtimin, administrimin dhe monitorimin e funksionimit të zonës së teknologjisë dhe zhvillimit ekonomik në Tiranë (TEDA Tiranë), sipas tekstit të projektkontratës, që i bashkëlidhet këtij vendimi.
