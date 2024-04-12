@@ -31,5 +31,5 @@ DISPOZITA KALIMTARE DHE TË FUNDIT
 1. Komisioni Shtetëror i Rindërtimit kryen veprimtarinë e tij deri në rindërtimin dhe rehabilitimin e plotë të të dëmtuarve nga fatkeqësitë natyrore apo fatkeqësitë e tjera.
 2. Komisioni Shtetëror i Rindërtimit konsiderohet i krijuar në mbledhjen e parë të tij, ku duhet të marrin pjesë të gjithë anëtarët. Ministri përgjegjës për rindërtimin thërret mbledhjen e parë të Komisionit. AKMC-ja, në bashkëpunim me ministrin përgjegjës për rindërtimin, merr masat për organizimin e kësaj mbledhjeje dhe përgatitjen e dokumentacionit të nevojshëm.
 3. Komiteti Ndërministror i Emergjencave Civile, pas përfundimit të funksionimit të tij, kalon në dorëzim të gjithë dokumentacionin përkatës në përgjegjësi të Komisionit Shtetëror të Rindërtimit.
-4. Ngarkohen ministri i Mbrojtjes dhe ministrit i Shtetit për Rindërtimin për zbatimin e këtij vendimi.
+4. Ngarkohen ministri i Mbrojtjes dhe ministri përgjegjës për rindërtimin për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

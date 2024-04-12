@@ -1,13 +1,13 @@
 3. Të gjithë termat e përdorur në këtë vendim kanë të njëjtin kuptim me ato të përkufizuar në aktin normativ nr.9, datë 16.12.2019, “Për përballimin e pasojave të fatkeqësisë natyrore”.
 KREU II
 PËRBËRJA DHE FUNKSIONIMI
-1. Komisioni Shtetëror i Rindërtimit është një organ kolegjial, kryesohet nga ministri i Shtetit për Rindërtimin dhe ka në përbërje këta anëtarë:
+1. Komisioni Shtetëror i Rindërtimit është një organ kolegjial, kryesohet nga ministri përgjegjës për rindërtimin dhe ka në përbërje këta anëtarë:
 a) Ministrin e Mbrojtjes;
 b) Ministrin e Brendshëm;
-c) Ministrin e Financave dhe Ekonomisë;
+c) Ministrin e Financave;
 ç) Ministrin e Infrastrukturës dhe Energjisë;
 d) Ministrin e Arsimit, Sportit dhe Rinisë;
-dh) Ministrin e Kulturës;
+dh) Ministrin e Ekonomisë, Kulturës dhe Inovacionit;
 e) Ministrin e Bujqësisë dhe Zhvillimit Rural;
 ë) Ministrin e Shëndetësisë dhe Mbrojtjes Sociale;
 f) Ministrin e Turizmit dhe Mjedisit;
