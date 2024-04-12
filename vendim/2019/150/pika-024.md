@@ -1,1 +1,0 @@
-24. Ministria përgjegjëse për çështjet sociale parashikon në buxhetin e saj fondin e nevojshëm për financimin e tyre në formën e transfertave të kushtëzuara, në kuadër të programit buxhetor afatmesëm, të cilat i transferohen pushtetit vendor, ku funksionojnë/do të funksionojnë këto shërbime.

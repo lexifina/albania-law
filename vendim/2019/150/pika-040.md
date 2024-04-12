@@ -1,1 +1,0 @@
-40. Deri në miratimin e standardeve kombëtare të shërbimeve të përkujdesjes sociale, llogaritja e kostove për shërbime bëhet në bazë të standardeve ekzistuese apo rast pas rasti, nëse për shërbimin nuk ekzistojnë standarde.

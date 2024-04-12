@@ -1,2 +1,0 @@
-30. Përjashtim nga rregulli i përcaktuar në pikat 28 e 29, të këtij vendimi, bëjnë qendrat kombëtare të përkujdesjes sociale, qendrat që ofrojnë shërbime të specializuara dhe unike, në nivel qarku, dhe linjat kombëtare të këshillimit telefonik për gratë dhe fëmijët, që kanë marrëveshje bashkëpunimi/kontratë me ministrinë përgjegjëse për çështjet sociale.
-IV. OFRIMI DHE MONITORIMI I SHËRBIMEVE TË KUJDESIT SHOQËROR

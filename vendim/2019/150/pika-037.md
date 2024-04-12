@@ -1,1 +1,0 @@
-37. Shërbimi Social Shtetëror monitoron zbatimin e standardeve kombëtare nga njësitë e qeverisjes vendore dhe ofruesit e shërbimeve të kujdesit shoqëror, që financohen pjesërisht apo tërësisht nga buxheti i shtetit dhe informon ministrinë përgjegjëse për çështjet sociale, si dhe jep rekomandime për njësitë e qeverisë vendore përgjegjëse.

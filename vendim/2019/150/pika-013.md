@@ -1,1 +1,0 @@
-13. Fondi Social i alokuar nuk mund të transferohet në programe të tjera apo të përdoret për financimin e aktiviteteve të ndryshme nga ato të përcaktuara në pikën 2, të këtij vendimi. Në të kundërt, njësia e vetëqeverisjes vendore nuk përfiton fonde për shërbime shoqërore për vitin pasardhës.

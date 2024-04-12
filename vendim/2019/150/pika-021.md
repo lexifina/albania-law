@@ -1,1 +1,0 @@
-21. Ministri përgjegjës për çështjet sociale ngre komisionin për vlerësimin e kërkesave për mundësitë e financimit nga buxheti i shtetit, për organizatat jofitimprurëse, që ofrojnë shërbime të specializuara të kujdesit shoqëror, në nivel qarku.

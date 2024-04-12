@@ -1,1 +1,0 @@
-42. Ngarkohen ministria përgjegjëse për çështjet sociale, në bashkëpunim me ministrinë përgjegjëse për financat, të udhëzojnë njësitë e qeverisjes vendore për financimin e shërbimeve të kujdesit shoqëror.

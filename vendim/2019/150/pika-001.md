@@ -1,1 +1,0 @@
-1. Ky vendim ka për qëllim hartimin e metodologjisë së llogaritjes së fondeve të financimit të shërbimeve sociale e të shpërndarjes së tyre nëpërmjet vendosjes së kritereve e hapave që do ndjekë procesi.

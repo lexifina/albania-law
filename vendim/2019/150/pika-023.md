@@ -1,1 +1,0 @@
-23.Në përfundim, komisioni/grupi i punës përgatit dhe dorëzon, për miratim, pranë ministrit përgjegjës për çështjet sociale, relacionin me gjetjet dhe rekomandimet përkatëse për garantimin e qëndrueshmërisë së shërbimeve të specializuara të kujdesit shoqëror, për grupet në nevojë, në nivel qarku.

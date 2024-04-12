@@ -1,1 +1,0 @@
-19. Strukturat përgjegjëse për shërbimet e kujdesit shoqëror, në nivel qarku, nisur nga vlerësimi i bërë, sipas përcaktimeve të pikës 4, të këtij vendimi, përgatisin dokumentacionin dhe propozimin për mundësinë e mbështetjes financiare nga buxheti i shtetit për miratim nga këshilli i qarkut.

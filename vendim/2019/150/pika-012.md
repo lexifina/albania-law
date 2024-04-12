@@ -1,1 +1,0 @@
-12. Ministria përgjegjëse për çështjet sociale, duke u bazuar në planet sociale vendore të buxhetuara dhe në prioritetet kombëtare për shtrirjen e shërbimeve shoqërore, parashikon në buxhetin e saj të vitit të ardhshëm, fonde për financimin e Fondit Social.
