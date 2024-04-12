@@ -1,0 +1,1 @@
+1. Shpërndarjen dhe detajimin e fondit për vitin 2024, për financimin e projekteve të bashkive nga programi “Menaxhimi i infrastrukturës së kullimit dhe ujitjes”, sipas tabelës 1, që i bashkëlidhet këtij vendimi.

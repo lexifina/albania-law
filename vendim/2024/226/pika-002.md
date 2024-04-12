@@ -1,0 +1,1 @@
+2. Financimet e projekteve për vitet 2025 dhe 2026, sipas tabelës 1 të këtij vendimi, janë parashikime për projektet vazhduese brenda tavaneve të programit “Menaxhimi i infrastrukturës së kullimit dhe ujitjes”.
