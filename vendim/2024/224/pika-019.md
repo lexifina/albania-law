@@ -1,0 +1,1 @@
+19. Pas miratimit të listës me propozimet fituese, njësitë e vetëqeverisjes vendore, brenda muajit dhjetor të çdo viti, lidhin marrëveshje me Shërbimin Social Shtetëror për financimin e kërkesës së miratuar, duke filluar nga janari i vitit pasardhës, sipas formatit të miratuar nga komisioni.

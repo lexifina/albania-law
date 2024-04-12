@@ -1,0 +1,1 @@
+5. Mbi bazën e të dhënave të mbledhura dhe të analizuara në pikën 4, të këtij vendimi, struktura përgjegjëse e shërbimeve të kujdesit shoqëror në njësitë e vetëqeverisjes vendore harton raportin e nevojave për shërbime të kujdesit shoqëror, si dhe planin social vendor për periudhën trivjeçare.

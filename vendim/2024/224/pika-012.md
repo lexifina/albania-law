@@ -1,0 +1,1 @@
+12. Në rastet të veçanta, kërkesa e financimit për shërbimet që mbulojnë nevojat e disa bashkive, paraqitet si kërkesë e përbashkët e këtyre bashkive, e miratuar nga këshillat bashkiakë përkatës dhe e shoqëruar nga një marrëveshje e përbashkët, ku të përcaktohet në mënyrë të qartë njësia e vetëqeverisjes vendore, që do të jetë drejtuese në zbatim të aktiviteteve.

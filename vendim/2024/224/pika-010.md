@@ -1,0 +1,1 @@
+10. Njësitë e vetëqeverisjes vendore, bazuar në planet sociale vendore bashkiake dhe rajonale, përgatisin kërkesat për financim të fondit social, të miratuara nga këshillat bashkiakë/të qarkut, nga buxheti i shtetit i vitit të ardhshëm, në kuadër të programit buxhetor afatmesëm, të cilat i dërgohen ministrisë përgjegjëse për çështjet sociale, brenda muajit mars të çdo viti.

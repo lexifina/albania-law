@@ -1,0 +1,1 @@
+27. Financimi i shërbimeve të përkujdesjes shoqërore nga buxheti i shtetit, nëpërmjet fondit social, do të mbështesë propozimet për krijimin e shërbimeve të reja, bazuar në planet sociale vendore të miratuara, duke garantuar qëndrueshmërinë e tyre në kohë dhe duke synuar reduktimin gradual të mbështetjes së tyre nga buxheti i shtetit.

@@ -1,0 +1,2 @@
+3. Ministria përgjegjëse për çështjet sociale, duke u bazuar në planet sociale vendore të kostuara dhe në prioritetet kombëtare për shtrirjen e shërbimeve të kujdesit shoqëror, parashikon në buxhetin e saj fondin e nevojshëm për financimin e tyre në formën e transfertave të kushtëzuara, në kuadër të programit buxhetor afatmesëm, të cilat i transferohen pushtetit vendor, ku funksionojnë/do të funksionojnë këto shërbime.
+II. PROCEDURAT E PËRZGJEDHJES DHE LLOGARITJES SË FINANCIMIT TË SHËRBIMEVE TË KUJDESIT SHOQËROR

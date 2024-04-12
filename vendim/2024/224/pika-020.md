@@ -1,0 +1,1 @@
+20. Fondi social i alokuar njësisë së vetëqeverisjes vendore për ngritjen e shërbimeve sociale nuk transferohet në programe të tjera buxhetore apo përdoret për financimin e aktiviteteve të ndryshme nga ato të përcaktuara në pikën 2, të këtij vendimi. Në të kundërt, nuk vijohet me financimin e shërbimit shoqëror për vitin pasardhës.

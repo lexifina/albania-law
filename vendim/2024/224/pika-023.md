@@ -1,0 +1,1 @@
+23. Kontrolli financiar për zbatimin e shërbimeve/aktiviteteve të financuara kryhet nga Shërbimi Social Shtetëror, në bashkëpunim me ministrinë përgjegjëse për çështjet sociale, nëpërmjet strukturave përgjegjëse, në përfundim të vitit të parë të zbatimit të marrëveshjes, sipas pikës 19, të këtij vendimi, dhe në vijim, në periudha 2-vjeçare.

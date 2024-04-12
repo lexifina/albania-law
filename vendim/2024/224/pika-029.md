@@ -1,0 +1,1 @@
+29. Përjashtim nga rregulli i përcaktuar në pikat 24 e 25, të këtij vendimi, bëjnë shërbimet e specializuara komunitare, si dhe shërbimi i këshillimit me telefon ose online, në nivel qarku. Shërbimet ofrohen nga vetë qarku dhe/ose organizatat jofitimprurëse, sipas marrëveshjes së bashkëpunimit të lidhur ndërmjet tyre.

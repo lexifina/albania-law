@@ -1,0 +1,1 @@
+11. Kërkesat për financim, në nivel bashkie, shtrihen për një periudhë trivjeçare. Kërkesat, sipas formatit të miratuar nga komisioni i vlerësimit të kërkesave për financim përmbajnë të dhëna për qëllimin dhe lidhjen me planin social vendor, objektivat specifikë, veprimtaritë, përfituesit e drejtpërdrejtë dhe të tërthortë, të ndarë sipas gjinisë, buxhetin, rezultatet e synuara.

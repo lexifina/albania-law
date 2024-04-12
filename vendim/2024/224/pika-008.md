@@ -1,0 +1,1 @@
+8. Plani social vendor i çdo njësie të vetëqeverisjes vendore përfshin shërbimet shoqërore ekzistuese dhe shërbimet e reja, të kostuara sipas standardeve të miratuara nga ministria përgjegjëse për çështjet sociale, si dhe burimet përkatëse të financimit të tyre.

@@ -1,0 +1,1 @@
+14. Këshilli i qarkut miraton kërkesën për financim nga buxheti i shtetit për ngritjen apo vazhdimësinë e shërbimeve, në nivel rajonal, për vitin pasardhës, të ofruara nga vetë qarku apo në marrëveshje bashkëpunimi me organizatat jofitimprurëse.
