@@ -4,4 +4,4 @@ b) punëkërkuesit të papunë, pas vlerësimit të bërë në fazën e profiliz
 c) profilizimi dhe kategorizimi sipas nivelit të punësueshmërisë të punëkërkuesve të papunë përcakton llojin e shërbimeve që do t’i ofrohen dhe referimin për pjesëmarrje në programet aktive dhe pasive të tregut të punës;
 ç) progresi i punëkërkuesit të papunë bëhet, si më poshtë vijon:
 i. në zbatim të planit individual të punësimit, struktura rajonale/vendore përkatëse e punësimit e AKPA-së ofron e ndjek në vazhdimësi paketat e shërbimeve, për të cilat janë dakordësuar të dyja palët. Progresi i bërë reflektohet në dosjen personale të punëkërkuesit të papunë, sipas fazave;
-ii. nëse gjatë zbatimit të planit individual të punësimit konstatohet progres jo i kënaqshëm, palët duhet të dakordësohen përsëri për rihartimin e këtij plani.
+ii. nëse gjatë zbatimit të planit individual të punësimit konstatohet progres jo i kënaqshëm, palët duhet të dakordësohen përsëri për rihartimin e këtij plani brenda një muaji.
