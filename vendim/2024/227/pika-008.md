@@ -1,0 +1,1 @@
+8. Deri në miratimin e strukturës dhe organikës, sipas këtij vendimi, AMVV-ja do të funksionojë sipas strukturës dhe organikës në fuqi. Punonjësit e AMVV-së do të vazhdojnë të kryejnë funksionet, në përputhje me parashikimet e këtij vendimi.

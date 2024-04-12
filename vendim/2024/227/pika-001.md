@@ -1,0 +1,1 @@
+1. Agjencia për Mbështetjen e Vetëqeverisjes Vendore (në vijim “AMVV”) është institucion publik qendror, person juridik, me seli në Tiranë dhe në varësi të ministrit përgjegjës për pushtetin vendor (në vijim “ministri”).
