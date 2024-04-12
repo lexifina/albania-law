@@ -1,5 +1,3 @@
-4. Punonjësi i shërbimeve të punësimit i strukturës vendore përkatëse të punësimit, gjatë vlerësimit e zbatimit të planit individual të punësimit të punëkërkuesit të papunë, konstaton nëse personi, që po i nënshtrohet ciklit të trajtimit të shërbimeve të punësimit ka pengesa apo probleme të tjera që nuk kanë lidhje të drejtpërdrejtë me punësimin e tij, si më poshtë:
-a) probleme sociale dhe shëndetësore që mund të konstatohen gjatë trajtimit të tij e që pengojnë punësimin;
-b) janë duke përfituar programe nxitjeje punësimi të ofruara nga struktura vendore e punësimit;
-c) janë duke përfituar formim profesional të ofruar nga struktura vendore e punësimit.
-Lidhur me problemet sociale dhe shëndetësore të konstatuara në shkronjën “a”, të kësaj pike, struktura rajonale/vendore përkatëse e punësimit e referon menjëherë tek institucionet përkatëse të specializuara për trajtimin e problemeve dhe të pengesave të konstatuara.
+4. Nëpunësi i strukturës vendore të punësimit ofron shërbimet dhe programet përkatëse për punëkërkuesin e papunë, duke ndjekur qëllimet, aktivitetet dhe afatet e përcaktuara në planin individual të punësimit.
+Afati i zbatimit të planit individual të punësimit për punëkërkuesit e papunë, që përfitojnë nga skema e garancisë rinore, nuk duhet të jetë më shumë se 4 muaj, ndërsa për të gjithë punëkërkuesit e tjerë plani mund të jetë deri në 12 muaj.
+Për zbatimin e planit individual të punësimit, struktura rajonale dhe vendore e punësimit bashkëpunon me të gjitha institucionet dhe aktorët e tjerë publikë apo privatë të specializuar për trajtimin e problemeve dhe të pengesave sociale apo shëndetësore të punëkërkuesit të papunë.
