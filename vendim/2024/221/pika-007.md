@@ -1,0 +1,1 @@
+7. Ministria e Financave mund të kërkojë këshillim/asistencë nga Banka e Shqipërisë gjatë implementimit të marrëveshjeve të garancisë. Ky bashkëpunim mund të rregullohet edhe nëpërmjet një memorandumi bashkëpunimi.

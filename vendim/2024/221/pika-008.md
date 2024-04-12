@@ -1,0 +1,1 @@
+8. Ngarkohet Agjencia për Menaxhimin e Garancive dhe Kredive të Pakthyera për ndjekjen dhe administrimin e kësaj skeme garancie, në përputhje me parashikimet e ligjit nr. 55/2023, “Për menaxhimin e garancive dhe kredive shtetërore të pakthyera”.

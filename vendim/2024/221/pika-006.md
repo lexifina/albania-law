@@ -1,0 +1,1 @@
+6. Marrëveshja e mirëkuptimit, e cila nënshkruhet nga huamarrësi, përmban kushtet dhe kriteret sipas marrëveshjes tip të integruar si aneks në marrëveshjen tip, të përcaktuar në pikën 3 të këtij vendimi.
