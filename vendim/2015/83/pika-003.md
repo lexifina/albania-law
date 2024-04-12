@@ -1,1 +1,0 @@
-3. Agjencia ka si qëllim mundësimin e zbatimit të reformës administrativo-territoriale, nëpërmjet bashkërendimit të të gjitha masave, proceseve dhe mbështetjes administrative deri në arritjen e funksionalitetit të plotë të 61 bashkive të reja.
