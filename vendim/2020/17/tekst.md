@@ -4,7 +4,7 @@ Nr. 17, datë 15.1.2020
 
 PËR PROCEDURAT, KRITERET DHE RREGULLAT PËR ZBATIMIN E PROGRAMEVE TË NXITJES SË PUNËSIMIT NËPËRMJET PUNËSIMIT, FORMIMIT NË PUNË DHE PRAKTIKAVE PROFESIONALE
 
-(ndryshuar me VKM-të nr. 798, datë 12.10.2020 dhe nr. 194, datë 31.3.2021; nr. 266, datë 29.4.2022)
+(ndryshuar me VKM nr. 798, datë 12.10.2020 ; nr. 194, datë 31.3.2021; nr. 266, datë 29.4.2022 ; nr. 239, datë 17.4.2024)
 
 (i përditësuar)
 
@@ -28,7 +28,7 @@ c) praktikave profesionale.
 
 II. KRITERET E KËRKESËS
 
-1. Punëkërkuesit me të drejtë përfitimi janë të gjithë punëkërkuesit e papunë të regjistruar dhe aktivë, për jo më pak se 1 (një) muaj në zyrën e punës, pasi të kenë marrë shërbimet e nevojshme të punësimit të përcaktuara në legjislacionin në fuqi nga specialisti përkatës i punësimit. Nevojat dhe profili i punëkërkuesit duhet të përshtaten me kërkesat për aftësi të vendit të lirë të punës të ofruar nga punëdhënësi.
+1. Punëkërkuesit me të drejtë përfitimi janë të gjithë punëkërkuesit e papunë të regjistruar dhe aktivë, për jo më pak se 1 (një) muaj në zyrën e punës, pasi të kenë marrë shërbimet e nevojshme të punësimit të përcaktuara në legjislacionin në fuqi nga specialisti përkatës i punësimit. Përjashtim nga ky kriter bëjnë vetëm të rinjtë, të moshës 15–29 vjeç, të cilët do të jenë pjesëmarrës sipas skemës së garancisë rinore dhe personat me aftësi të kufizuara.Nevojat dhe profili i punëkërkuesit duhet të përshtaten me kërkesat për aftësi të vendit të lirë të punës të ofruar nga punëdhënësi.
 
 2. Punëkërkuesi, pjesëmarrës në programet, sipas pikës 1 të këtij vendimi, nuk mund të zëvendësohet.
 
@@ -36,31 +36,19 @@ II. KRITERET E KËRKESËS
 
 4. Punëdhënësit me të drejtë kërkese duhet të plotësojnë kriteret e mëposhtme:
 
-a) të jenë persona fizikë apo juridikë të regjistruar, për jo më pak se 6 (gjashtë) muaj;
+a) Të jenë persona fizikë apo juridikë të regjistruar, për jo më pak se 6 (gjashtë) muaj;
 
-b) të mos jenë në proces falimentimi;
+b) Subjekti të jetë në statusin aktiv; 
 
-c) të jenë subjekt i pagimit të taksave dhe të jenë të regjistruar si punëdhënës pranë autoriteteve tatimore;
+c) Të mos kenë shkelur legjislacionin për punësimin në dy vjetët e fundit para kërkesës në program;
 
-ç) të mos kenë shkelur legjislacionin për punësimin në dy vitet e fundit para kërkesës në program; 
+ç) Të ofrojnë punë me kohë të plotë, për një minimum prej 40 (dyzet) orësh në javë, me një pagesë mujore jo më pak se paga minimale, në përputhje me dispozitat e Kodit të Punës. Punësimi me kohë të pjesshme ose punët sezonale afatshkurtra nuk përfitojnë subvencionim;
 
-d) të kenë paguar rregullisht të gjitha sigurimet e detyrueshme shëndetësore dhe shoqërore; 
+d) Të jenë persona fizikë apo juridikë, të cilët nuk kanë detyrime të kontributeve shoqërore dhe shëndetësore, por në momentin e aplikimit në program kanë ende gjoba apo interesa të papaguar.
 
-dh) të ofrojnë punë me kohë të plotë, për një minimum prej 40 (dyzet) orësh në javë, me një pagesë mujore jo më pak se paga minimale, në përputhje me dispozitat e Kodit të Punës. Punësimi me kohë të pjesshme ose punët sezonale afatshkurtra nuk përfitojnë subvencionim;
+dh) Vendi i punës i financuar nga ky program duhet të vijë si rezultat i shtimit të vendeve të lira të punës në aktivitetin e punëdhënësit.
 
-e) të jenë persona fizikë apo juridikë, të cilat nuk kanë detyrime ndaj organeve tatimore ose, në momentin e kërkesës në program, të vërtetojnë se: 
-
-i. kanë lidhur marrëveshjet përkatëse për shlyerjen e këtyre detyrimeve dhe janë të rregullta në shlyerjen e tyre; 
-
-ii. kanë shlyer detyrimet, por kanë ende pa paguar gjobat;
-
-iii. kanë shlyer detyrimet ose kanë vendosur garanci bankare për shumën e plotë të detyrimit, në përputhje me nenin 107, të ligjit nr. 9920, datë 19.5.2008, “Për procedurat tatimore në Republikën e Shqipërisë”, të ndryshuar, dhe janë në proces të apelimit administrativ e në procese gjyqësore me organet tatimore;
-
-ë) vendi i punës i financuar nga ky program duhet të vijë si rezultat i shtimit të vendeve të lira të punës në aktivitetin e punëdhënësit;
-
-f) nuk duhet të ketë pakësuar numrin e të punësuarve, duke reduktuar fuqinë punëtore brenda 2 (dy) muajve të kaluar. 
-
-5. Punëdhënësit kanë të drejtë të aplikojnë në një ose më shumë se një program për një numër punëkërkuesish jo më të madh se 20 (njëzet) % të fuqisë punëtore aktuale, por jo më shumë se 21 (njëzet e një) pjesëmarrës. Punëdhënësit me më  pak se 5 (pesë)  punonjës mund të aplikojnë për maksimumi dy pjesëmarrës. 
+5. Punëdhënësit kanë të drejtë të aplikojnë në një ose më shumë se një program për një numër punëkërkuesish jo më të madh se 20 (njëzet) % të fuqisë punëtore aktuale, por jo më shumë se 21 (njëzet e një) pjesëmarrës. Punëdhënësit me deri në 9 (nëntë) punonjës mund të aplikojnë për maksimumi 2 (dy) pjesëmarrës.
 
 III. PROGRAMET, PËRFITUESIT DHE MBËSHTETJA
 
@@ -100,9 +88,9 @@ i. kontributet e detyrueshme shoqërore dhe shëndetësore (pjesë e kontributit
 
 ii. financimin e pagës në shumën 100 (njëqind) % të pagës minimale në shkallë vendi, të përcaktuar sipas legjislacionit në fuqi:
 
-- për 4 (katër) muaj, për të gjithë pjesëmarrësit në program, të kompensuara në muajin e pestë dhe të gjashtë të kontratës, dhe në muajt e njëmbëdhjetë dhe të dymbëdhjetë të kontratës;
+- për 6 (gjashtë) muaj, për pjesëmarrësit, të cilët janë të rinj të moshës 15–29 vjeç, persona me aftësi të kufizuara, viktima të trafikimit, të dhunës në familje apo viktima të dhunës me baza gjinore, romë dhe egjiptianë, të kompensuara në muajin e katërt, të pestë, të gjashtë, të shtatë, të njëmbëdhjetë dhe të dymbëdhjetë të kontratës.
 
-- për 6 (gjashtë) muaj, për pjesëmarrësit, të cilët janë viktima të trafikimit, të dhunës në familje apo viktima të dhunës me baza gjinore, romë dhe egjiptianë, të kompensuara në muajin e katërt,  të pestë, të gjashtë, të shtatë, të njëmbëdhjetë dhe të dymbëdhjetë të kontratës;
+- Shfuqizuar .
 
 - për 12 (dymbëdhjetë) muaj për pjesëmarrësit, persona me aftësi të kufizuara, të kompensuara çdo muaj.
 
@@ -126,7 +114,7 @@ ii. financimin e pagës në shumën 100 (njëqind) % të pagës minimale në shk
 
 iii. kontributet e detyrueshme shoqërore dhe shëndetësore (pjesën e kontributeve të punëdhënësit) për tetë muajt e ardhshëm, të llogaritura në bazë të pagës minimale në shkallë vendi, në rastet, kur, pas përfundimit të formimit nëpërmjet punës, punëdhënësi lidh kontratë punësimi të paktën tetëmujore me punëmarrësin pas përfundimit të programit, të kompensuar çdo muaj;
 
-iv. pagesën për mentorin në vlerën 2 000 (dy mijë) lekë për çdo përfitues, pjesëmarrës të angazhuar nga ky punëdhënës, të kompensuar çdo muaj.
+iv. pagesën për mentorin në vlerën 3 000 (tre mijë) lekë për çdo përfitues, pjesëmarrës të angazhuar nga ky punëdhënës, të kompensuar çdo muaj.
 
 3. Programi i praktikave profesionale përmban elementet e mëposhtme:
 
@@ -140,13 +128,13 @@ i. kontributet për sigurimin nga aksidentet në punë;
 
 ii. financim i pagës në shumën 50 (pesëdhjetë) % të pagës minimale në shkallë vendi, të përcaktuar sipas legjislacionit në fuqi, të kompensuara çdo muaj.
 
-4. Përveç subvencionimit të kostove të mbuluara nga këto programe, të përcaktuara në pikat 1, 2 e 3, të këtij kreu, për përfituesit jetimë, prindër të vetëm me fëmijë nën 6 (gjashtë) vjeç, prindërit e fëmijëve me aftësi të kufizuara, viktimat e viktimat e mundshme të trafikimit, viktimat e dhunës në familje ose të dhunës me bazë gjinore, përfitues të ndihmës ekonomike mbulohen edhe shpenzime të tjera, si më poshtë vijojnë: 
+4. Përveç subvencionimit të kostove të mbuluara nga këto programe, të përcaktuara në pikat 1, 2 e 3, të këtij kreu, për përfituesit jetimë, prindër të vetëm me fëmijë nën 6 (gjashtë) vjeç, prindërit e fëmijëve me aftësi të kufizuara, viktimat e viktimat e mundshme të trafikimit, viktimat e dhunës në familje ose të dhunës me bazë gjinore, përfituesit e rinj të moshës 15–29 vjeç, personat me aftësi të kufizuara dhe përfitues të ndihmës ekonomike mbulohen edhe shpenzime të tjera, si më poshtë vijojnë: 
 
-a) bonuse për shpenzimet e transportit mbulohen për të gjitha kategoritë e mësipërme, të cilat kanë vendbanimin mbi 2 (dy) km nga vendi i punës, në vlerën prej 1 600 (një mijë e gjashtëqind) lekësh në muaj;
+a) bonuse për shpenzimet e transportit mbulohen për të gjitha kategoritë e mësipërme, të cilat kanë vendbanimin mbi 2 (dy) km nga vendi i punës, në vlerën prej 1 800 (një mijë e tetëqind) lekësh në muaj;
 
-b) për prindërit e vetëm me një fëmijë nën 6 (gjashtë) vjeç jepet një bonus në vlerën prej 3 000 (tre mijë) lekësh në muaj për ndjekjen e kopshteve dhe të çerdheve për fëmijët në ngarkim;
+b) për prindërit e vetëm ose prindërit e rinj të moshës 18–29 vjeç me fëmijë nën 6 (gjashtë) vjeç jepet një bonus në vlerën prej 4 000 ( katër mijë) lekësh në muaj për kujdesin e çdo fëmije në ngarkim; 
 
-c) deri në shumën 200 000 (dyqind mijë) lekë për përshtatjen e arsyeshme të vendit të punës për personat me aftësi të kufizuara për punëdhënësit. 
+c) deri në shumën 200 000 (dyqind mijë) lekë për përshtatjen e arsyeshme të vendit të punës për personat me aftësi të kufizuara, në të cilën përfshihen, por pa u kufizuar, mjetet ndihmëse në vendin e punës, literaturë/informacion të përshtatur dhe përkthime për personat me dëmtime shikimi ose dëgjimi, asistent personal në vendin e punës, transport të përshtatur, aksesueshmëri të mjedisit të punës për punëdhënësit. 
 
 IV. RREGULLAT DHE PROCEDURAT E ZBATIMIT
 
@@ -162,15 +150,9 @@ b) autorizimin e punëdhënësit, me të cilin autorizohet institucioni përgjeg
 
 c) vetëdeklarim për mospasjen në ngarkim të punëdhënësit, të shkeljeve apo të sanksioneve që lidhen me legjislacionin e punës, përgjatë dy viteve të fundit.
 
-3. Pas marrjes së kërkesës nga punëdhënësi, struktura vendore e punësimit kryen verifikimet e përmbushjes së kritereve të punëdhënësve, nëpërmjet dokumenteve të mëposhtme:
+3. Pas marrjes së kërkesës nga punëdhënësi, verifikimet përkatëse për përmbushjen e kritereve të përcaktuara në pikën 4, të kreut II, për punëdhënësin, do të kryhen nga Sistemi i Shërbimeve të Punësimit nëpërmjet ndërveprimit me bazën e të dhënave shtetërore të institucioneve të tjera.
 
-a) ekstraktit historik të punëdhënësit, të lëshuar nga Qendra Kombëtare e Biznesit;
-
-b) vërtetimit për pagimin e detyrimeve tatimore;
-
-c) vërtetimit për derdhjen e kontributeve shoqërore e shëndetësore për tatimpaguesin për 12 (dymbëdhjetë) muajt e fundit.
-
-4. Struktura vendore e punësimit verifikon, brenda 7 (shtatë) ditëve pune, plotësimin e kushteve formale paraprake të kërkesës dhe përputhshmërinë e tij me rregullat e zbatueshme të 3 (tri) programeve të përcaktuara në pikën 1 të këtij vendimi.
+4. Për punëdhënësit që plotësojnë kriteret, struktura vendore e punësimit, brenda 7 (shtatë) ditëve punë, identifikon listën e pjesëmarrësve punёkёrkues të papunё, që plotësojnë kriteret e pjesëmarrjes në program.
 
 5. Në rast të mosplotësimit të kushteve paraprake, struktura vendore e punësimit i kërkon kërkuesit plotësimin e dokumentacionit. 
 
@@ -188,7 +170,7 @@ c) vërtetimit për derdhjen e kontributeve shoqërore e shëndetësore për tat
 
 12. Nëse punëdhënësi nuk respekton marrëveshjen trepalëshe për zbatimin e programeve, sipas pikës 1 të këtij vendimi, ai përjashtohet nga pjesëmarrja në program për një periudhë katërvjeçare. 
 
-13. Financimi i punëdhënësit do të bëhet çdo muaj, pas verifikimit nga struktura përkatëse  e punësimit të kryerjes së pagesës nga ana e tij.
+13. Financimi i punëdhënësit do të bëhet çdo muaj, brenda 10 (dhjetë) ditëve punë, pas dorëzimit të kërkesës për muajin që kërkon financim.
 
 14. Monitorimi i zbatimit kryhet nga strukturat përkatëse të punësimit (institucioni përgjegjës për punësimin dhe aftësitë).
 
@@ -200,7 +182,7 @@ V. DISPOZITA TË FUNDIT
 
 3. Vlerësimi i ndikimit të programeve kryhet çdo 4 (katër) vjet nga ministria përgjegjëse për çështjet e punësimit, nëpërmjet ekspertëve ose organizatave me përvojë në këtë fushë.
 
-4. Afati i zbatimit të programeve të përcaktuara në pikën 1 të këtij vendimi, është 5 (pesë) vjet nga hyrja në fuqi e këtij vendimi.
+4. Afati i zbatimit të programeve të përcaktuara në pikën 1 të këtij vendimi, është 10 (dhjetë) vjet nga hyrja në fuqi e këtij vendimi.
 
 5. Vendimet e Këshillit të Ministrave nr. 27, datë 11.1.2012, “Për programin e nxitjes së punësimit të grave dhe të vajzave nga grupet e veçanta”, i ndryshuar; nr. 47 datë 16.1.2008, “Për programet e nxitjes së punësimit të punëkërkuesve të papunë nëpërmjet formimit në punë”, i ndryshuar; nr. 48, datë 16.1.2008, “Për programet e nxitjes së punësimit të punëkërkuesve të papunë nga grupet e veçanta”, i ndryshuar; nr. 64, datë 27.1.2016, “Për programin e nxitjes së punësimit të të rinjve që kanë fituar statusin e jetimit”, i ndryshuar; nr. 162, datë 21.3.2018, “Për pagesën e pjesëmarrjes në kurset e formimit profesional”; nr. 199, datë 11.1.2012, “Për masën e financimit, kriteret dhe procedurat e zbatimit të programit të nxitjes së punësimit të punëkërkuesve të papunë të rinj”, i ndryshuar; nr. 248, datë 30.4.2014, “Për programin e nxitjes së punësimit të personave me aftësi të kufizuara”, i ndryshuar; nr. 873, datë 27.12.2006, “Për programet e nxitjes së punësimit të praktikave profesionale për punëkërkuesit që kanë mbaruar arsimin e lartë brenda dhe jashtë vendit”, i ndryshuar, shfuqizohen.
 
