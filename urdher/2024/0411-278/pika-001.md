@@ -1,0 +1,1 @@
+1. Delegimin e përkohshëm të kompetencave të titullarit të Ministrisë së Bujqësisë dhe Zhvillimit Rural zëvendësministrit të Bujqësisë dhe Zhvillimit Rural, z. Roland Kristo, nga data 12.4.2024 deri më datë 15.4.2024.
