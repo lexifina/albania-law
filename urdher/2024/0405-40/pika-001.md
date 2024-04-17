@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës për ushtrimin e mbikëqyrjes institucionale të veprimtarisë administrative të Agjencisë së Menaxhimit të Garancive dhe Kredive të Pakthyera (AMGKP), te znj. Risena Xhaja, Sekretar i Përgjithshëm, në Ministrinë e Financave, deri në emërimin e titullarit të AMGKP-së, sipas legjislacionit në fuqi.
