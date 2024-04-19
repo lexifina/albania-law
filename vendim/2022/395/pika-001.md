@@ -1,6 +1,6 @@
 1. Emërimin e anëtarëve të Komisionit të Ndihmës Shtetërore, si më poshtë vijon:
-- znj. Delina Ibrahimaj kryetar;
+- z. Blendi Gonxhja - kryetar;
 - znj. Mimoza Dhëmbi anëtare;
-- znj. Inida Methoxha anëtare;
+- znj. Keida Qirko - anëtare;
 - znj. Brikena Qela anëtare;
 - z. Ahmet Mançellari anëtar.
