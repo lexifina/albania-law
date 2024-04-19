@@ -1,21 +1,28 @@
 12. Mbikëqyrësi ka për detyrë të ndjekë me përpikëri mbikëqyrjen e punëkërkuesve, pjesëmarrës në program, sipas kushteve të kontratës për zbatimin e projektit, lidhur ndërmjet punëdhënësit, punëmarrësit dhe AKPA-së.
 IV. MBËSHTETJA E PËRFITUESVE
-1. Punëdhënësi përfitues, sipas pikës 4, të kreut III, të këtij vendimi, përfiton një grant për të financuar shpenzimet.
+1. Për punëdhënësit përfitues, sipas shkronjave “a”, “b” dhe “c”, të pikës 4, të kreut III, financimi do të kryhet në formë granti, ndërsa për punëdhënësit sipas shkronjës “ç”, të së njëjtës pike, financimi do të kryhet drejtpërdrejt në llogarinë e pjesëmarrësve përfitues në program.
 2. Për punëkërkuesit e papunë, pjesëmarrës në program, financimet janë, si më poshtë vijon:
 a) Financim i pagës në shumën 50% të pagës minimale, në shkallë vendi, të përcaktuar sipas legjislacionit në fuqi.
-b) Kontributet e detyrueshme shoqërore dhe shëndetësore (pjesën e kontributeve të punëdhënësit), të llogaritura në bazë të pagës minimale në shkallë vendi, të ofruara gjatë gjithë kohëzgjatjes së programit.
+b) Kontributet e detyrueshme shoqërore dhe shëndetësore (pjesën e kontributeve të punëdhënësit dhe të punëmarrësit), të llogaritura në bazë të pagës minimale në shkallë vendi, të ofruara gjatë të gjithë kohëzgjatjes së programit.
 c) Kupon për trajnim të punëkërkuesve të papunë, pjesëmarrës në program, deri në 20 000 (njëzet mijë) lekë, në rastet kur trajnimet e miratuara nuk ofrohen nga ofruesit publikë të arsimit dhe formimit profesional.
-ç) Për përfituesit jetimë që përfitojnë nga ky status edhe pasi kanë kaluar moshën 25 vjeç, sipas legjislacionit në fuqi, prindër të vetëm me fëmijë nën 6 vjeç, prindërit e fëmijëve me aftësi të kufizuara, viktimat dhe viktimat e mundshme të trafikimit, viktimat e dhunës në familje ose të dhunës me bazë gjinore, përfitues të ndihmës ekonomike, romë dhe egjiptianë mbulohen edhe shpenzime të tjera, si më poshtë vijon:
-i. bonus për shpenzimet e transportit mbulohen për të gjitha kategoritë e mësipërme, të cilët e kanë vendbanimin mbi 2 km nga vendi i punës, në vlerën prej 1 600 (një mijë e gjashtëqind) lekësh në muaj;
-ii. për prindërit e vetëm me fëmijë nën gjashtë vjeç, jepet bonus në vlerën prej 3 000 (tre mijë) lekësh në muaj, për ndjekjen e kopshteve dhe të çerdheve, për çdo fëmijë në ngarkim;
-iii. financim deri në shumën 100 000 (njëqind mijë) lekë për një person, por jo më shumë se 200 000 (dyqind mijë) lekë, nëse punëson më shumë se dy persona, për përshtatjen e arsyeshme të vendit të punës, për personat me aftësi të kufizuara.
+ç) Për përfituesit jetimë që përfitojnë nga ky status edhe pasi kanë kaluar moshën 25 vjeç, sipas legjislacionit në fuqi, prindër të vetëm me fëmijë nën 6 vjeç, personat me aftësi të kufizuara dhe prindërit e fëmijëve me aftësi të kufizuara, viktimat dhe viktimat e mundshme të trafikimit, viktimat e dhunës në familje ose të dhunës me bazë gjinore, përfitues të ndihmës ekonomike, romë dhe egjiptianë mbulohen edhe shpenzime të tjera, si më poshtë vijon:
+i. bonus për shpenzimet e transportit mbulohen për të gjitha kategoritë e mësipërme, të cilët e kanë vendbanimin mbi 2 km nga vendi i punës, në vlerën prej 1 800 (një mijë e tetëqind) lekësh në muaj;
+ii. për prindërit e vetëm ose prindërit e rinj të moshës 25-29 vjeç me fëmijë nën 6 (gjashtë) vjeç të jepet një bonus në vlerën prej 4 000 (katër mijë) lekësh në muaj për kujdesin e çdo fëmije në ngarkim.
+për prindërit e vetëm me fëmijë nën gjashtë vjeç, jepet bonus në vlerën prej 3 000 (tre mijë) lekësh në muaj, për ndjekjen e kopshteve dhe të çerdheve, për çdo fëmijë në ngarkim;
+iii. financim deri në shumën 100 000 (njëqind mijë) lekë për një person, por jo më shumë se 200 000 (dyqind mijë) lekë, nëse punëson më shumë se dy persona, për përshtatjen e arsyeshme të vendit të punës, për personat me aftësi të kufizuara, në të cilën përfshihen edhe mjetet ndihmëse në vendin e punës, literaturë/informacion të përshtatur dhe përkthime për personat me dëmtime shikimi ose dëgjimi, asistent personal në vendin e punës, transport të përshtatur, aksesueshmëri të mjedisit të punës.
 3. Për punëdhënësin, pjesëmarrës në program, financimet janë, si më poshtë vijon:
 a) Për mbikëqyrësin, financim të pagës në shumën:
-i. 50% të pagës mesatare në shkallë vendi, të përcaktuar sipas legjislacionit në fuqi, për grupin nga 1-7 punëkërkues të papunë pjesëmarrës, për 20 orë në javë;
-ii. 100% të pagës mesatare në shkallë vendi, të përcaktuar sipas legjislacionit në fuqi, për grupin nga 1-14 punëkërkues të papunë pjesëmarrës, për 40 orë në javë.
+i. 50% të pagës mesatare në shkallë vendi, të përcaktuar sipas legjislacionit në fuqi, për grupin nga 1-12 punëkërkues të papunë pjesëmarrës, për 20 orë në javë;
+ii. 100% të pagës mesatare në shkallë vendi, të përcaktuar sipas legjislacionit në fuqi, për grupin nga 1-24 punëkërkues të papunë pjesëmarrës, për 40 orë në javë.
 b) Kontributet e detyrueshme shoqërore dhe shëndetësore (pjesën e kontributeve të punëdhënësit), të llogaritura në bazë të pagës mesatare në shkallë vendi, të ofruara gjatë gjithë kohëzgjatjes së programit.
 c) Tarifë për mbulimin e shpenzimeve materiale, të nevojshme për zbatimin e projekteve të punësimit në komunitet, në shumën totale deri në 10 000 (dhjetë mijë) lekë për çdo përfitues, këto të justifikuara me fatura tatimore, sipas legjislacionit në fuqi.
-4. Granti disbursohet në këste. Kësti i parë prej 20% jepet pas nënshkrimit të kontratës për të mbuluar shpenzimet e para të projektit dhe, në vijim, çdo muaj, pas vërtetimit të shpenzimeve.
+4. Për punëdhënësit përfitues, sipas shkronjave “a”, “b” dhe “c”, të pikës 4, të kreut III, granti financiar do të disbursohet në këste të pagueshme, si më poshtë vijon:
+i. Kësti i parë: 30% (tridhjetë për qind) e vlerës totale të grantit të disbursuar me nënshkrimin e marrëveshjes;
+ii. Kësti i dytë: 20% (njëzet për qind) e vlerës totale të grantit të disbursuar, pas muajit të dytë të zbatimit të programit;
+iii. Kësti i tretë: 20% (njëzet për qind) e vlerës totale të grantit të disbursuar, pas muajit të gjashtë të zbatimit të programit;
+iv. Kësti i katërt: 20% (njëzet për qind) e vlerës totale të grantit të disbursuar, pas muajit të nëntë të zbatimit të programit;
+v. Kësti i fundit 10% (dhjetë për qind) me përfundimin e kontratës dhe të përmbushjes së të gjithë objektivave në planin individual të trajnimit.
+Për punëdhënësit përfitues sipas shkronjës “ç”, të pikës 4, të kreut III, të gjitha shpenzimet do të kryhen në llogarinë personale të përfituesve dhe degën e tatimeve përkatëse çdo muaj.
 V. RREGULLAT DHE PROCEDURAT E ZBATIMIT
 1. AKPA-ja, nëpërmjet strukturave të saj, publikon informacionin e nevojshëm në Buletinin e Njoftimeve Publike dhe në platforma të tjera (faqe interneti, media sociale, shtyp) në lidhje me zbatimin e programit dhe informon rregullisht punëdhënësit dhe punëkërkuesit e regjistruar.
 2. Në fillim të çdo shpalljeje për kërkesë, AKPA-ja harton dhe publikon termat e referencës, së bashku me kriteret e kërkesës dhe të vlerësimit sipas këtij vendimi, fushat dhe vlerat e financimit, si dhe afatet dhe procedurën e kërkesës. AKPA-ja, në varësi të programit që do të financohet, përcakton dhe miraton kritere të veçanta, të cilat përfshihen në dokumentet e konkurrimit dhe shpallen publikisht.

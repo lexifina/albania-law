@@ -1,6 +1,6 @@
 6. PIT-ja miratohet nga strukturat përkatëse të AKPA-së.
 III. KRITERET E KËRKESËS
-1. Punëkërkuesit me të drejtë përfitimi janë të gjithë punëkërkuesit e papunë të regjistruar dhe aktivë, për jo më pak se 12 muaj në zyrën e punës, të moshës mbi 25 vjeç, pasi të kenë marrë shërbimet e nevojshme të punësimit, të përcaktuara në legjislacionin në fuqi, nga specialisti përkatës i punësimit. Nevojat dhe profili i punëkërkuesit duhet të përshtaten me kërkesat për aftësi të vendit të punës që siguron programi për ta.
+1. Punëkërkuesit me të drejtë përfitimi janë të gjithë punëkërkuesit e papunë të regjistruar në zyrën e punës, të moshës mbi 21 vjeç, të cilët evidentohen nga ndërveprimi me sistemin tatimor se kanë më shumë se 12 muaj të papunë, pasi të kenë marrë shërbimet e nevojshme të punësimit, të përcaktuara në legjislacionin në fuqi. Nevojat dhe profili i punëkërkuesit duhet të përshtaten me kërkesat për aftësi të vendit të punës që siguron programi për ta.
 2. Punëkërkuesit, pjesëmarrës në këtë program, në rast largimi, mund të zëvendësohen vetëm gjatë tremujorit të parë të programit.
 3. Një punëkërkues mund të marrë pjesë vetëm një herë në këtë program, brenda një periudhe pesëvjeçare.
 4. Punëdhënësit, të regjistruar në zyrën e punës, me të drejtë përfitimi në këtë program, janë:
