@@ -1,0 +1,1 @@
+25. Mbledhjet plenare të Këshillit Konsultativ zhvillohen në muajin mars dhe muajin tetor të çdo viti kalendarik. Rendi i ditës së mbledhjes plenare të Këshillit Konsultativ përcaktohet nga ministri përgjegjës për çështjet vendore në bashkëpunim me shoqatat përfaqësuese të njësive të vetëqeverisjes vendore.

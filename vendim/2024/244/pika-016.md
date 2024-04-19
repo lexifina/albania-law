@@ -1,0 +1,1 @@
+16. Projektaktet, që nuk paraqiten nga relatorët në formën e duhur të prezantimit, nuk do të jenë pjesë e agjendës së mbledhjes së Këshillit, me përjashtim të projektakteve me rëndësi strategjike kombëtare.

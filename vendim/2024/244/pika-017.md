@@ -1,0 +1,1 @@
+17. Afati, brenda të cilit anëtarët e Këshillit Konsultativ dhe njësitë e tjera të vetëqeverisjes vendore mund të paraqesin vërejtjet, mendimet, komentet dhe propozimet e tyre, është 15 ditë kalendarike nga e nesërmja e dërgimit të projektaktit anëtarëve të Këshillit Konsultativ.

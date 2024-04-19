@@ -1,0 +1,1 @@
+11. Mbledhjet e Këshillit Konsultativ bashkëdrejtohen nga ministri përgjegjës për pushtetin vendor dhe një nga kryetarët e shoqatave përfaqësuese të pushtetit vendor. Kryetarët e shoqatave përfaqësuese të pushtetit vendor drejtojnë Këshillin Konsultativ mbi bazën e rotacionit, për 6 muaj kalendarikë, duke filluar nga shoqata përfaqësuese me numrin më të madh të anëtarëve.

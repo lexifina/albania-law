@@ -1,0 +1,1 @@
+3. Njësitë e vetëqeverisjes vendore konsultohen të paktën 2 herë gjatë vitit kalendarik për financat e tyre, mjaftueshmërinë dhe stabilitetin e burimeve të tyre për arritjen e qëllimeve dhe kryerjen e shërbimeve të përcaktuara për to në ligjin nr. 139/2015, “Për vetëqeverisjen vendore”, të ndryshuar, dhe ligjet e tjera në fuqi.

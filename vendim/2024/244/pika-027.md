@@ -1,0 +1,1 @@
+27. Rendi i ditës së mbledhjes plenare të muajit tetor është vetëm për projektligjin e buxhetit të shtetit dhe projektligjet financiare që lidhen drejtpërdrejt me buxhetin e njësive të vetëqeverisjes vendore.

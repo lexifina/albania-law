@@ -1,0 +1,1 @@
+12. Në veçanti, mbledhjet e Këshillit Konsultativ për çështjet e financave vendore, sipas shkronjës “b”, të pikës 4, të kreut I, bashkëkryesohen nga ministri i Financave dhe/ose zëvendësministri i Financave me delegim të ministrit të Financave dhe në të përveç anëtarëve të përhershëm të këshillit marrin pjesë edhe përfaqësues të tjerë nga stafi teknik i Ministrisë së Financave.

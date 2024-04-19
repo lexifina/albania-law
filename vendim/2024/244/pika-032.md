@@ -1,0 +1,1 @@
+32. Pranë Këshillit Konsultativ funksionon Agjencia për Mbështetjen e Vetëqeverisjes Vendore që kryen funksione ndihmëse dhe administrative në rolin e sekretariatit teknik. Për kryerjen e funksioneve të sekretariatit teknik, AMVV-ja mund të mbështetet edhe nga donacione të ndryshme, si dhe nga çdo burim tjetër financiar i ligjshëm.

@@ -1,0 +1,1 @@
+15. Me marrjen e tyre, Sekretariati Teknik i shfaq ato brenda tri ditësh pune në faqen zyrtare të internetit të Këshillit Konsultativ dhe në formë elektronike ia dërgon çdo anëtari të Këshillit Konsultativ.

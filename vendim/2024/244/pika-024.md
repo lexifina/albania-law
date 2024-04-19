@@ -1,0 +1,1 @@
+24. Bashkëkryetarët e Këshillit Konsultativ janë të detyruar të thërrasin mbledhjen e Këshillit në rast se jo më pak se 8 anëtarë të tij e kërkojnë me shkrim këtë gjë. Kërkuesit duhet të paraqesin në këtë rast rendin e ditës dhe materialet shoqëruese të tij. Mbledhja e punës zhvillohet jo më herët se 7 ditë pune nga data e depozitimit të kërkesës për thirrjen e mbledhjes.

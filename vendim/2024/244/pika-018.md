@@ -1,0 +1,1 @@
+18. Në përfundim të këtij afati, brenda 5 ditësh pune, Sekretariati Teknik organizon punën për përgatitjen e përmbledhjes sipas mendimeve, komenteve, vërejtjeve dhe propozimeve të paraqitura dhe ia dërgon ato propozuesit të projektaktit dhe anëtarëve të Këshillit Konsultativ. Një kopje e tyre shfaqet në faqen zyrtare të internetit të Këshillit Konsultativ.

@@ -1,0 +1,1 @@
+23. Në bashkëpunim me Sekretariatin Teknik, bashkëkryetarët e Këshillit Konsultativ mund të thërrasin mbledhje pune të tij, e cila zhvillohet jo më herët se 7 ditë pune nga data e marrjes së njoftimit të mbledhjes nga anëtarët e Këshillit.

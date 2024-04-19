@@ -1,0 +1,1 @@
+2. Objekt i konsultimit midis qeverisjes qendrore dhe vetëqeverisjes vendore, sipas këtij vendimi, janë edhe funksionet dhe/ose kompetencat e deleguara pushtetit vendor, transferimi i funksioneve ose kompetencave të reja dhe propozimet e politikave për çështje që prekin interesat e pushtetit vendor, në përputhje me legjislacionin përkatës.

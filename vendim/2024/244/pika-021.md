@@ -1,0 +1,1 @@
+21. Mbledhjet e punës dhe plenare të Këshillit zhvillohen në prani të më shumë se gjysmës të të gjithë anëtarëve të tij. Për mospjesëmarrjen e anëtarëve njoftohen titullarët e institucioneve të përfaqësuara në Këshillin Konsultativ. Prezenca e tyre do të pasqyrohet në dokumentacion dhe në web-faqen e Këshillit Konsultativ.

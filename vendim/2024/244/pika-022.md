@@ -1,0 +1,1 @@
+22. Bashkëkryetarët e Këshillit Konsultativ kujdesen për organizimin dhe funksionimin e Këshillit dhe kryerjen e detyrave të tij sipas këtij vendimi. Rendi i ditës së mbledhjes së Këshillit Konsultativ dhe materialet shoqëruese të tyre bëhen kurdoherë publike në faqen e internetit të Këshillit.
