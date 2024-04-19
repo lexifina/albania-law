@@ -1,1 +1,1 @@
-13. Financimi i punëdhënësit do të bëhet në formë rimbursimi, pas verifikimit nga strukturat përkatëse të punësimit të kryerjes së pagesës nga ana e tij.
+13. Shfuqizuar (me Vendimin nr. 341 datë 17.4.2024)

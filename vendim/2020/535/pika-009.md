@@ -1,1 +1,1 @@
-9. Punëdhënësit kanë të drejtë të aplikojnë për maksimumi dy grupe, me numër jo më të madh se 7 (shtatë) punëkërkues të papunë secili grup.
+9. Punëdhënësit kanë të drejtë të aplikojnë për dy grupe maksimumi, me numër jo më të madh se 12 (dymbëdhjetë) punëkërkues të papunë secili grup.
