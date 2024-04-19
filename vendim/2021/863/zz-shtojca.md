@@ -1626,3 +1626,304 @@ TOTALI
 1411200
 48
 1,686,838
+LISTA EMËRORE SHTESË E PRONARËVE QË SHPRONËSOHEN NGA PROBLEMATIKAT E SHKAKTUARA NGA RRËSHQITJET NË SEGMENTIN RRUGOR “MILOT-MORINË”
+NR.
+PRONARI
+TË DHËNAT KADASTRALE
+(Sipas kartelës së pasurisë)
+VLERËSIMET PËR SHPRONËSIM SIPAS LLOJIT TË PASURISË
+VLERA TOTALE (lekë)
+SHËNIME
+EMRI
+ATËSIA
+MBIEMRI
+ZK
+Nr. i pas.
+Loji i pas.
+SIP. totale (m²)
+TOKË ARË
+TOKË TRUALL
+NDËRTESË BANIMI (SHTËPI)
+Ndërtesë total
+Sip. m2
+Çmimi lekë/m²
+Vlera (lekë m2)
+Sip. m2
+Çmimi lekë/m²
+Vlera (lekë m2)
+Sip. m2
+Çmimi lekë/m²
+Vlera (lekë m2)
+Sip. ndërtesë konfirmuar nga ASHK-ja (m2)
+BLINISHT Z.K. 1221
+63
+NDREC
+MARK
+GJOKA
+1221
+62-ND2
+NDËRTESË
+68.2
+68.2
+29400
+2005080
+68.2
+2005080
+Konfirmuar nga ASHK-ja Sipas seksionit E. “Informacione të tjera për pronën”, të kartelës së pasurisë rezulton shënimi: “Leje leg. Godinë banimi 1 kat me sip. 68.2 m2 pa truallin funksional që bie mbi pas. nr. 62”
+MARË
+GJOK
+GJOKA
+64
+NIKOLIN
+PJETER
+GJOKA
+1221
+62-ND1
+NDËRTESË
+38.44
+38.44
+29400
+1130136
+38.44
+1130136
+Konfirmuar nga ASHK-ja, Sipas seksionit E. “Informacione të tjera për pronën”, të kartelës së pasurisë rezulton shënimi “Leje leg. Godine Banimi 1 kat me sip. 38.44 m2 pa truallin funksional që bie mbi pas. nr. 62”
+MRIKA
+RIT
+GJOKA
+65
+PREND
+NDUE
+PRENDI
+1221
+66/11
+TRUALL
+230
+230
+229
+52670
+22
+29400
+646800
+22
+699470
+Konfirmuar nga ASHK-ja
+LIZA
+PREND
+PRENDI
+66
+NDUE
+FRROK
+PRENDI
+1221
+44/6
+ARË
+300
+300
+150
+45000
+45000
+Konfirmuar nga ASHK-ja
+GJERGJI
+FRROK
+PRENDI
+67
+MARK
+NDREC
+PRENDI
+1221
+44/8
+TRUALL
+300
+300
+229
+68700
+32.24
+29400
+947856
+1016556
+Konfirmuar nga ASHK-ja Sipas seksionit E. “Informacione të tjera për pronën”, të kartelës së pasurisë rezulton shënimi “VENDIM NR. 97 DT. 17.11.2020 ASHK LEZHË objekt banimi 1 kat me sip. 32.24 m2”
+EDMOND
+MARK
+PRENDI
+NDUE
+MARK
+PRENDI
+ANTON
+MARK
+PRENDI
+32.24
+PRANVERA
+MARK
+DE MARKU
+68
+PRENG
+NDREC
+PRENDI
+1221
+43/15-ND
+NDËRTESË
+24
+24
+29400
+705600
+24
+705600
+Konfirmuar nga ASHK-ja Shënim: Sipas seksionit E. “Informacione të tjera për pronën”, të kartelës së pasurisë rezulton shënimi “Trualli bie mbi pasurinë 43/15 vol. 2 f. 245 në pronësi të Preng Ndrec Prendi, Rita Zef Prendi, Arjon Preng Prendi”. Sqarim mbi shpronësimin: Pasuria nr. 43/15, është shpronësuar për sipërfaqen totale truall prej 3190 m2, me VKM nr. 863/2021
+RITA
+ZEF
+PRENDI
+69
+ARJON
+PRENG
+PRENDI
+1221
+43/19
+ARË
+1150
+1150
+150
+172500
+172500
+Konfirmuar nga ASHK-ja
+RITA
+ZEF
+PRENDI
+DAVË
+NDREC
+BARDHOKU
+GJELINA
+NDREC
+NIKOLLAJ
+PRENG
+NDREC
+PRENDI
+ZEF
+NDREC
+PRENDI
+MARK
+NDREC
+PRENDI
+PRENË
+ZEF
+PRENDI
+70
+GJOVALIN
+PRENG
+TUSHAJ
+1221
+70/6
+ARË
+2354
+2354
+150
+353100
+353100
+Konfirmuar nga ASHK-ja
+71
+GJERGJ
+FRROK
+PRENDI
+1221
+47/20
+ARË
+567
+567
+150
+85050
+85050
+Konfirmuar nga ASHK-ja
+72
+GJERGJ
+FRROK
+PRENDI
+1221
+47/22
+ARË
+833
+833
+150
+124950
+124950
+Konfirmuar nga ASHK-ja
+73
+GJOVALIN
+PJETËR
+PERKOLA
+1221
+47/17
+ARË
+1420
+1420
+150
+213000
+213000
+Konfirmuar nga ASHK-ja
+74
+LLESH
+PJETËR
+PERKOLA
+1221
+47/18
+ARË
+2700
+2700
+150
+405000
+405000
+Konfirmuar nga ASHK-ja
+75
+GJOVALIN
+PJETËR
+PERKOLA
+1221
+43/3
+ARË
+1280
+1280
+150
+192000
+192000
+Konfirmuar nga ASHK-ja
+76
+PRENA
+KOLË
+PRENDI
+1221
+45/4-ND
+NDËRTESË
+63
+63
+29400
+1852200
+63
+1852200
+Konfirmuar nga ASHK-ja Sipas seksionit E. ”Informacione të tjera për pronën”, të kartelës së pasurisë rezulton shënimi ”Kjo pasuri bie mbi truallin me nr. 45/4” Sqarim mbi shpronësimin: Pasuria 45/4, është shpronësuar për sipërfaqen totale të truallit prej 300 m2, me VKM nr. 863/2021.
+PESHQESH Z.K. 2933
+3
+FRAN
+NDUE
+BARDHI
+2933
+155/1
+TRUALL
+300
+300
+229
+68700
+72
+29400
+2116800
+72
+2185500
+Konfirmuar nga ASHK-ja
+VLERA TOTALE
+11627.64
+10604
+1590600
+830
+190070
+319.88
+205800
+9404472
+319.88
+11185142
