@@ -1,0 +1,2 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Arsimit dhe Sportit, sipas formularëve, planrilevimeve dhe planimetrive, që i bashkëlidhen këtij vendimi, për ushtrimin e veprimtarisë sipas fushës së saj të përgjegjësisë shtetërore.
+Lista, që përbëhet gjithsej nga 17 (shtatëmbëdhjetë) fletë formulari, 23 (njëzet e tre) planrilevime, 2 (dy) planimetri, është pjesë përbërëse e këtij vendimi.
