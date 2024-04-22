@@ -1,0 +1,1 @@
+7. Të gjitha autoritetet/entet kontraktore përfituese detyrohen të parashikojnë në buxhetin e tyre shpenzimet e nevojshme për shlyerjen e tarifave të shërbimeve ndaj OBP sh.a.-së, në përputhje me parashikimet institucionale vjetore. Për vitin 2024, institucionet përfituese të shërbimit marrin masat për rialokime brenda buxhetit të miratuar.

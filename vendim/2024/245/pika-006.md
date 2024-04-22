@@ -1,0 +1,1 @@
+6. Në rast se procedura e prokurimit e filluar është anuluar, por nevoja për zhvillimin e saj mbetet e njëjtë, Operatori i Blerjeve të Përqendruara sh.a. detyrohet të rishpallë procedurën pa tarifë shtesë. Nëse autoriteti/enti kontraktor deklaron se ka humbur nevojën pas anulimit të procedurës, OBP sh.a.-ja ka detyrimin të kthejë gjysmën e vlerës së tarifuar.

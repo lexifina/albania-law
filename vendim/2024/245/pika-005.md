@@ -1,0 +1,1 @@
+5. Nëse Operatori i Blerjeve të Përqendruara sh.a., gjatë trajtimit të kërkesës, konstaton se nuk është realizuar pagesa e shërbimit, nuk vijon me kryerjen e shërbimit, publikimit, zhvillimit të procedurës së prokurimit, nëse është rasti. Shërbimet realizohen vetëm pasi kërkuesi të ketë shlyer tërësisht vlerën e tarifës së shërbimit të kërkuar.

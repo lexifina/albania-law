@@ -1,0 +1,2 @@
+4. Për kryerjen e çdo shërbimi në kuadër të veprimtarive ndihmëse, autoriteti /enti kontraktor/ subjektet e tjera publike duhet të kryejnë pagesën e tarifës së kryerjes së shërbimit pranë OBP sh.a.-së, jo më vonë se 10 ditë kalendarike nga lëshimi i faturës nga ana e OBP sh.a.-së.
+Fillimi i çdo shërbimi, pjesë në aneksin nr. 1, kushtëzohet nga pagimi i tarifës nga ana e autoritetit/entit kontraktor/subjektit tjetër publik.

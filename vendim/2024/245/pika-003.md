@@ -1,0 +1,1 @@
+3. Të gjitha autoritetet/entet kontraktore, subjekte të vendimit nr. 531, datë 7.9.2023, të Këshillit të Ministrave, të ndryshuar, si dhe të gjitha subjektet e tjera publike, për marrje të shërbimit nga OBP sh.a.-ja paraqesin kërkesën për shërbime në rrugë shkresore dhe elektronike në adresën zyrtare të kësaj shoqërie.
