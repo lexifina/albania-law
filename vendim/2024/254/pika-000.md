@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Konfederatës Zvicerane, përfaqësuar nga Agjencia Zvicerane për Zhvillim dhe Bashkëpunim (SDC) e Departamentit Federal Zviceran të Punëve të Jashtme, duke vepruar nëpërmjet Ambasadës së Zvicrës në Shqipëri, në mbështetje për gatishmërinë dhe reagimin e shërbimit emergjent shëndetësor, faza kryesore, një projekt dypalësh bashkëpunimi dhe zhvillimi, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
