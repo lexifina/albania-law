@@ -1,1 +1,1 @@
-7. Pronari i pasurisë së paluajtshme, pronë private, të pasqyruar në tabelën bashkëlidhur këtij vendimi, kompensohet, për efekt shpronësimi, pasi të ketë paraqitur dokumentacionin justifikues për likuidim pranë Agjencisë Shtetërore për Shpronësimin.
+7. Pronarët e pasurive të paluajtshme, pronë private, të pasqyruar në tabelën bashkëlidhur këtij vendimi, kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin justifikues për likuidim pranë Agjencisë Shtetërore për Shpronësimin.
