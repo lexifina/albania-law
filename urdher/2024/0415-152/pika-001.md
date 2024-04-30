@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave znj. Ledina Beqiraj Agalliu, Sekretar i Përgjithshëm, për nënshkrimin e Marrëveshjes së Zhvillimit, midis Ministrisë së Turizmit dhe Mjedisit dhe subjektit “KLAIS” sh.p.k., në zbatim të vendimit nr. 131, datë 6.3.2024, “Për dhënien e statusit të veçantë ’Investitor në strukturë akomoduese me 5 yje, status special’ aplikuesit ’KLAIS’ sh.p.k.”.
