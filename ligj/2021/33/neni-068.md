@@ -1,6 +1,7 @@
 # Neni 68
 Kalimi në sistemin e ri të gradave
-Njësimi i gradave të fituara sipas ligjit nr. 9366, datë 31.3.2005, “Për gradat dhe karrierën në Gardën e Republikës së Shqipërisë” me gradat sipas këtij ligji bëhet si më poshtë:
+(Numërtuar paragrafi i parë dhe shtuar paragrafi i dytë me ligjin nr. 26, datë 21.03.2024)
+1. Njësimi i gradave të fituara sipas ligjit nr. 9366, datë 31.3.2005, “Për gradat dhe karrierën në Gardën e Republikës së Shqipërisë” me gradat sipas këtij ligji bëhet si më poshtë:
 a) gradat: “rreshter”, “kapter i katërt”, “kapter i tretë” dhe “kapter i dytë” ekuivalentohen me gradën “inspektor”;
 b) gradat: “kapter i parë”, “kapter mjeshtër” dhe “kapter shtabi” ekuivalentohen me gradën “inspektor i dytë”;
 c) gradat: “kapter” dhe “kryekapter” ekuivalentohen me gradën “inspektor i parë”;
@@ -10,3 +11,4 @@ dh) grada “major” ekuivalentohet me gradën “kryekomisar”;
 e) grada “nënkolonel” ekuivalentohet me gradën “drejtues”;
 ë) grada “kolonel” ekuivalentohet me gradën “drejtues i parë” dhe/ose “drejtues i lartë”;
 f) grada “gjeneral” ekuivalentohet me gradën “drejtues madhor”.
+2. Koha e qëndrimit në gradat e fituara sipas ligjit nr. 9366, datë 31.3.2005, “Për gradat dhe karrierën në Gardën e Republikës së Shqipërisë”, sipas parashikimeve të pikës 1 të këtij neni, për efekt të ecurisë në gradë, konsiderohet si kohë e qëndrimit në gradën e njësuar, sipas këtij ligji.
