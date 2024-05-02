@@ -4,7 +4,7 @@ Nr. 9, datë 21.1.2022
 
 	MBI LICENCIMIN E SHOQËRISË “BREÇANI R.O.S.P.” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE, NGA HEC “DRITA” ME KAPACITET TË INSTALUAR 1980 kw
 
-	(Ndryshuar me vendimin nr.232, datë 12.9.2022)
+	( ndryshuar me Vendimin nr. 232, datë 12.9.2022;  nr. 82, datë 2.5.2024 )
 
 	(i përditësuar)
 
@@ -46,11 +46,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Breçani R.O.S.P.” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike, nga HEC “Drita”, me kapacitet të instaluar 1980 kw, për një afat 30-vjeçar.
 
-2. Shoqëria “Breçani R.O.S.P.” sh.p.k. duhet të paraqesë në ERE kontratën nr. 2693/5 prot., datë 18.7.2018, të rinovuar, apo çdo dokument tjetër që i shërben realizmit të saj brenda 30 ditëve pune nga marrja dijeni.
+2. Shoqëria “Breçani R.O.S.P” sh.p.k., të depozitojë në ERE certifikatën e pronësisë për zonën ku ushtron veprimtarinë HEC “Drita”, brenda datës 12.7.2024.
 
-3. Shoqëria “Breçani R.O.S.P.” sh.p.k., në përfundim të afatit të vlefshmërisë së lejes për përdorimin e burimit ujor (data 10.12.2023), duhet ta depozitojë atë në ERE, jo më vonë se një muaj pas rinovimit.
+3. Shoqëria “Breçani R.O.S.P” sh.p.k., të depozitojë në ERE lejen e rinovuar të burimit ujor sipërfaqësor, deri në  datën 12.7.2024.
 
-4. Shoqëria “Breçani R.O.S.P.” sh.p.k. të depozitojë në ERE certifikatën e pronësisë për tokën shtet, me kartelën shoqëruese, me shënimin përkatës për zonën që do të jetë në përdorim të shoqërisë, për ushtrimin e veprimtarisë së HEC “Drita”, jo më vonë se një muaj nga pajisja me këtë dokument.
+4. Në rast se shoqëria “Breçani R.O.S.P” sh.p.k. ka një urdhër për ndërprerjen e aktivitetit nga Inspektorati Kombëtarë i Mbrojtjes së Territorit (IKMT) atëherë nuk ka të drejtë të operojë/ushtrojë veprimtarinë e prodhimit të energjisë elektrike, deri në depozitimin e lejes së rinovuar për përdorimin e burimit ujor sipërfaqësor.
 
 5. Ky vendim është objekt rishikimi nga Bordi i ERE-s, sipas përcaktimeve të nenit 16, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, në rast të plotësimit/mosplotësimit të kushteve të përcaktuara në pikat 2, 3 dhe 4, të këtij vendimi.
 
