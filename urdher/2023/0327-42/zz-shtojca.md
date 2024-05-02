@@ -8,7 +8,7 @@ Objekti dhe fusha e zbatimit
 2. Kjo rregullore do të zbatohet në mënyrë të veçantë për përdoruesit e hapësirës ajrore dhe avionët të angazhuar në trafik ajror të përgjithshëm:
 a) që operojnë nga, brenda apo për në territorin e Republikës së Shqipërisë;
 b) që kanë kombësi dhe shenjat e regjistrimit të Republikës së Shqipërisë, që operojnë në çdo hapësirë ajrore për aq kohë sa ato nuk bien në kundërshtim me rregullat e publikuara nga shteti që ka juridiksionin në territorin mbi të cilin po kryhet fluturimi.
-3. Kjo Rregullore do të zbatohet gjithashtu nga Autoriteti i Aviacionit Civil (AAC), si autoriteti kompetent i Republikës së Shqipërisë, Ofruesit e Shërbimeve të Lundrimit Ajror (OSHLA), operatorët e aerodromeve dhe personeli përkatës në tokë i angazhuar me operimet e avionëve.
+3. Kjo Rregullore do të zbatohet, gjithashtu, për Autoritetin e Aviacionit Civil (AAC), ofruesin e shërbimeve të lundrimit ajror (OSHLA), operatorët e aeroportit dhe personelin në tokë të angazhuar në operimet e avionëve.
 4. Kjo rregullore nuk do të jetë e zbatueshme për avion model dhe avion lodër. Megjithatë, Autoriteti i Aviacionit Civil do të bashkëpunojë në përshtatjen e rregullave kombëtare që do të garantojnë operimin e mjeteve fluturuese model dhe lodër në një mënyrë të tillë që do t’i minimizojë rreziqet e lidhura me sigurinë e aviacionit civil, me njerëzit, pronën ose mjetet e tjera fluturuese.
 Neni 2
 Përkufizimet
@@ -30,7 +30,9 @@ c) “aerodrom alternativ pas uljes” nënkupton një aerodrom alternativ drejt
 11. “Avion i paidentifikuar” (unidentified aircraft) nënkupton një mjet fluturues i cili është vërejtur apo raportuar duke operuar në një zonë të caktuar, por identiteti i tij nuk është përcaktuar;
 12. “Baza e reve” (ceiling) nënkupton lartësinë mbi tokë ose ujë, të bazës së shtresës më të ulët të resë nën 6 000 m (20 000 ft) që mbulon më shumë se gjysmën e qiellit;
 13. “Balonë e lirë pa pilot” (unmanned free balloon) nënkupton një mjet fluturues pa fuqi shtytëse, pa pilot, më të lehtë se ajri, në fluturim të lirë;
+13(a) “Datë e parashikuar e nisjes” nënkupton datën e parashikuar në të cilën avioni do të fillojë lëvizjen lidhur me nisjen;
 14. “E dhënë” (datum) nënkupton çdo sasi ose grupin e sasive që mund të shërbejnë si referencë ose bazë për llogaritjen e sasive të tjera;
+14(a) “Faza para fluturimit” nënkupton periudhën nga paraqitja e parë e një plani fluturimi deri në dorëzimin e lejes së parë të kontrollit të trafikut ajror;
 15. “Fluturim aerobatik” (aerobatic flight) nënkupton manovrat e kryera me qëllim nga një avion që përfshin një ndryshim të menjëhershëm në qëndrimin e tij, një qëndrim të parregullt, ose një ndryshim jo normal në shpejtësi, jo të nevojshme për fluturime normale ose për udhëzime për licencat ose kategoritë të ndryshme nga kategoritë aerobatike;
 16. “Fluturime të kontrolluara” (controlled flight) nënkupton çdo fluturim i cili është subjekt i një leje nga kontrolli i trafikut ajror;
 17. “Fluturim IFR” nënkupton një fluturim të kryer në përputhje me rregullat instrumentale të fluturimit;
@@ -41,6 +43,7 @@ c) “aerodrom alternativ pas uljes” nënkupton një aerodrom alternativ drejt
 22. “Hapësirat ajrore të shërbimeve të trafikut ajror” (air traffic services (ATS) airspaces) nënkupton hapësira ajrore me dimensione të përcaktuara, të dizajnuara sipas shkronjave të alfabetit, brenda të cilave mund të operojnë tipa specifikë fluturimesh, dhe për të cilët janë përcaktuar shërbimet e trafikut ajror dhe rregullat e operimit.
 23. “Helikopter” nënkupton një mjet fluturues më të rëndë se ajri i cili fluturon kryesisht falë veprimeve të ajrit me një apo më shumë helika me fuqi shtytëse në akset vertikale;
 24. “Hapësirë ajrore mbi ujërat ndërkombëtare” (high seas airspace) nënkupton hapësirën ajrore përtej territorit tokësor dhe ujërave detare, siç specifikohet në Konventën e Kombeve të Bashkuara mbi Ligjin e Detit (Montego Bay, 1982);
+24(a) “Identifikimi i avionit” nënkupton një grup shkronjash, shifrash ose një kombinim të tyre, i cili është ose identik, ose ekuivalenti i koduar, me shenjën e thirrjes së avionit për t’u përdorur në komunikimet ajër-tokë, dhe që përdoret për të identifikuar avionin në komunikimet e shërbimeve të trafikut ajror tokë-tokë;
 25. “IFR” nënkupton simbolin e përdorur për përcaktimin e rregullave instrumentale të fluturimit. Ky shkurtim do të ketë këtë kuptim në të gjitha aktet nënligjore në të cilat përdoret;
 26. “IMC” nënkupton simbolin e përdorur për përcaktimin e kushteve meteorologjike instrumentale;
 27. “Informacion SIGMET” nënkupton informacionin e lëshuar nga një zyrë vëzhgimi meteorologjike në lidhje me ngjarjet ose ngjarjet e pritshme të fenomeneve specifike atmosferike në mbikalim të cilat mund të ndikojnë në sigurinë e operimeve të avionëve;
@@ -74,6 +77,7 @@ b) për fluturimet VFR, kohën e llogaritur të nevojshme nga ngritja për të a
 53. “Leja e Kontrollit të Trafikut Ajror” (air traffic control (ATC) clearance) nënkupton autorizimin për një mjet fluturues që të vazhdojë operimin sipas kushteve të specifikuara nga një njësi e kontrollit të trafikut ajror;
 54. “Leje nga qendra pritëse” (downstream clearance) nënkupton një leje të lëshuar për një avion nga një njësi e kontrollit të trafikut ajror që nuk është autoriteti kontrollues aktual i atij avioni;
 55. “Lundrim zonal (RNAV)” (area navigation (RNAV) nënkupton një metodë lundrimi e cila lejon operimin e avionit në çdo rrugë të dëshiruar të fluturimit brenda mbulimit të pajisjeve navigacionale të vendosura në tokë ose hapësirë, ose brenda kufijve të kapacitetit së të pajisjeve të avionit, ose një kombinim të tyre;
+55(a) “Menaxheri i Rrjetit (NM)”nënkupton subjektin të cilit i janë besuar detyrat e nevojshme për ushtrimin e funksioneve të përmendura në nenin 6 të urdhrit të ministrit nr. 7, datë 3.6.2010, “Mbi organizimin dhe përdorimin e hapësirës ajrore”, të ndryshuar;
 56. “Mbikëqyrje automatike e ndërvarur - me transmetim (ADS-B)” (automatic dependent surveillance - broadcast), nënkupton një mënyrë me anë të së cilës avionët, automjetet e aerodromit dhe objekte të tjera, mund të transmetojnë dhe/ose të marrin automatikisht të dhëna të tilla si identifikimi, pozicionimi dhe të dhëna shtesë, nëpërmjet transmetimit të të dhënave;
 57. “Mbikëqyrje automatike e ndërvarur - me kontratë (ADS-C)” nënkupton një mënyrë me anë të së cilës kushtet e marrëveshjes ADS-C do të shkëmbehen ndërmjet sistemit të terrenit dhe mjeteve fluturuese, nëpërmjet një transmetimi të dhënash, që do të specifikojë kushtet për nisjen e raporteve ADS-C, dhe çfarë të dhënash do të përfshihen në raport;
 58. “avion” (aircraft) nënkupton çdo mjet që përfiton mbështetje në atmosferë nga veprimet e ajrit, përveç veprimeve të ajrit kundrejt sipërfaqes së tokës;
@@ -83,9 +87,11 @@ b) për fluturimet VFR, kohën e llogaritur të nevojshme nga ngritja për të a
 62. “Niveli i tranzitit” (transition level) nënkupton nivelin më të ulët të fluturimit në dispozicion për përdorim mbi lartësinë e tranzicionit;
 63. “Niveli i lundrimit” (cruising level) nënkupton një nivel fluturimi të ruajtur përgjatë një pjese të konsiderueshme të një fluturimi;
 64. “Niveli i fluturimit (FL)” (flight level (FL)) nënkupton një sipërfaqe me presion atmosferik konstant e cila është e lidhur me një të dhënë specifike presioni, 1 013,2 hectopaskals (hPa), dhe është e ndarë nga sipërfaqe të tjera nga intervale të caktuara të presionit;
+64(a) “Krijuesi i një plani të fluturimi” nënkupton një person ose organizatë që dorëzon planet e fluturimit dhe çdo mesazh përditësues të lidhur me Sistemin e Integruar të Përpunimit të Planit Fillestar të Fluturimit (IFPS), duke përfshirë pilotët, operatorët dhe agjentët që veprojnë në emër të tyre dhe njësitë ATS;
 65. “Njësia e kontrollit të trafikut ajror” (air traffic control unit) nënkupton një term të përgjithshëm i cili sipas rastit nënkupton, qendrën e kontrollit të zonës, njësinë e kontrollit të afrimit apo kullën e kontrollit të aerodromit;
 66. “Njësia e kontrollit të afrimit” (approach control unit) nënkupton një njësi të krijuar për të ofruar shërbimin e kontrollit të trafikut ajror për fluturimet e kontrolluara që mbërrijnë në, apo nisen nga, një ose më shumë aerodrome;
 67. “Njësi e Shërbimeve të Trafikut Ajror-SHTA” (air traffic services (ATS) unit) është një term i përgjithshëm që nënkupton, sipas rastit, një njësi të kontrollit të trafikut ajror, qendrën e informacionit të fluturimit, njësinë e shërbimit të informacionit të fluturimit të aerodromit apo zyrën e raportimit të shërbimeve të trafikut ajror;
+67(a) “NOTAM” nënkupton një njoftim i shpërndarë me anë të telekomunikacionit që përmban informacion në lidhje me vendosjen, gjendjen ose ndryshimin në çdo objekt, shërbim, procedurë ose rrezik aeronautik, njohja në kohë e të cilit është thelbësore për personelin që merret me operimet e fluturimit;
 68. “Operimi me afrim me instrument” (instrument approach operation) nënkupton një afrim dhe ulje duke përdorur instrumentet për guidë navigacionale bazuar në një procedurë afrimi instrumentale. Ekzistojnë dy metoda për ekzekutimin e operimeve të afrimit me instrument:
 a) një operim i afrimit me instrument dydimensional (2D), duke përdorur vetëm gurdë navigacionale laterale; dhe
 b) një operim i afrimit me instrument tri dimensione (3D), duke përdorur udhëzime navigacion ale laterale dhe vertikale.
@@ -141,6 +147,7 @@ c) rruga lidhëse e daljes së shpejtë nënkupton një rrugë rulimi të lidhur
 106. “Sail plane” (Planer) nënkupton një avion më të rëndë se ajri i cili mbështetet në fluturim nga reagimi dinamik i ajrit kundrejt sipërfaqes së tij fikse që ndihmojnë ngritjen, fluturimi i lirë i së cilës nuk varet nga një motor, duke përfshirë avionët pa motor të varur, paragliders apo avionë të tjerë të ngjashëm ose një fluturues të varur, fluturues me deltaplan dhe pajisje të tjera të ngjashme.
 107. “Segment korridori ajror” (route segment) nënkupton një korridor ajror apo pjesë të korridorit ajror ku zakonisht fluturohet pa një ndalesë të ndërmjetme;
 108. “Sistem i shmangies së përplasjeve ajrore (ACAS)” (airborne collision avoidance system) nënkupton një sistem të mjetit fluturues i bazuar në sinjalet e transponderit të radarit të mbikëqyrjes sekondare (SSR), që vepron në mënyrë të pavarur nga pajisjet e bazuara në tokë, për të këshilluar pilotin për konflikte të mundshme me mjete fluturues të tjerë që janë të pajisur me transponder SSR;
+108(a) “Sistemi i Integruar i Përpunimit të Planit Fillestar të Fluturimit (IFPS)” nënkupton një sistem brenda rrjetit Evropian të Menaxhimit të Trafikut Ajror, nëpërmjet të cilit ofrohet një shërbim i centralizuar i përpunimit dhe i shpërndarjes së planifikimit të fluturimeve, që ka të bëjë me pritjen, vlerësimin dhe shpërndarjen e planeve të fluturimit, që ofrohet në hapësirën ajrore në të cilën zbatohet kjo Rregullore;
 109. “Stacion aeronautik” (aeronautical station) nënkupton një stacion në tokë në shërbimin lëvizës aeronautik. Në disa raste, një stacion aeronautik mund të jetë i vendosur, për shembull, në bordin e një anije ose në një platformë në det;
 110. ’Substanca psikoaktive (psychoactive substance) nënkupton alokol, opioidem kanabisoide, qetësues dhe hipnotizues, kokainë, dhe psikostimulantë të tjerë, halucinogjenë dhe tretësira të tyre, ku kafeina dhe duhani përjashtohen.
 111. “Shërbimi i kontrollit të aerodromit” (aerodrome control service) nënkupton shërbimin e kontrollit të trafikut ajror për trafikun e aerodromit;
@@ -251,10 +258,9 @@ b) Për ato pjesë në det të hapur ku shteti shqiptar ka pranuar, në bazë t�
 SEKSIONI 2
 ZBATUESHMËRIA DHE PAJTUESHMËRIA
 SERA.2001 Zbatueshmëria
-Pa cenuar, SERA 1001 më sipër, ky aneks adreson në përputhje me nenin 1, në veçanti përdoruesit e hapësirës ajrore dhe avionët;
-a) që fluturojnë nga, brenda apo për në territorin e RSH-së;
-b) që kanë kombësi dhe shenjat e regjistrimit të Republikës së Shqipërisë, që vepron në çdo hapësirë ajrore për aq sa ato nuk bien në kundërshtim me rregullat e publikuara nga shteti që ka juridiksionin mbi territorin që po fluturohet.
-Ky aneks do të zbatohet gjithashtu nga Autoriteti i Aviacionit Civil i Republikës së Shqipërisë, Ofruesit e Shërbimeve të Lundrimit Ajror, operatorët e aerodromeve dhe personelin përkatës të shërbimeve në tokë të angazhuar me operimet e avionëve.
+Pa cenuar pikën SERA.1001, ky aneks zbatohet për përdoruesit e hapësirës ajrore dhe avionët:
+a) që veprojnë drejt, brenda ose jashtë Republikës së Shqipërisë;
+b) që mbajnë shenjat shtetërore dhe të regjistrimit të Republikës së Shqipërisë, dhe operojnë në çdo hapësirë ajrore deri në masën që ato nuk bien ndesh me rregullat e publikuara nga shteti që ka juridiksion mbi territorin e përshkruar.
 SERA.2005 Pajtueshmëria me rregullat e ajrit
 Operimi i një avioni në fluturim, në zonën e lëvizjes së një aerodromi ose në një vend operimi duhet të jetë në përputhje me rregullat e përgjithshme, dispozitat e aplikueshme lokale dhe, përveç kësaj, kur avioni është në fluturim ose me:
 a) rregullat vizuale të fluturimit; ose
@@ -409,34 +415,68 @@ b) Një plan fluturimi do të dorëzohet përpara operimit të:
 4) çdo fluturimi brenda ose në zona, apo përgjatë rrugëve të përcaktuara nga Autoriteti i Aviacionit Civil, për të lehtësuar koordinimin me njësitë përkatëse ushtarake apo me njësitë e shërbimeve të trafikut ajror në shtetet kufitare në mënyrë që të shmanget nevoja e interceptimit të avionit me qëllim identifikimin e tij;
 5) çdo fluturimi që kalon përtej kufijve ndërkombëtarë, përveçse kur është vendosur ndryshe nga shtetet e interesuara;
 6) çdo fluturimi i planifikuar për të operuar gjatë natës, nëse largohet nga afërsia e një aerodromi.
-c) Një plan fluturimi duhet t’i dorëzohet, përpara nisjes, zyrës së raportimit të shërbimeve të trafikut ajror ose, gjatë fluturimit, t’i transmetohet njësisë përkatëse të shërbimeve të trafikut ajror ose stacionit tokë-ajër të kontrollit të radios, përveçse kur është rënë dakord për dorëzimin e planeve të përsëritura të fluturimit.
-d) Përveçse kur një kohë më e shkurtër është përcaktuar nga Autoriteti i Aviacionit Civil për fluturimet e brendshëm VFR, një plan fluturimi për çdo fluturim të planifikuar për të operuar përtej kufijve ndërkombëtarë, ose që do t’i ofrohet shërbimi i kontrollit të trafikut ajror ose shërbimi këshillues i trafikut ajror duhet të paraqitet të paktën gjashtëdhjetë minuta përpara nisjes, ose, nëse paraqitet gjatë fluturimit, në një kohë që do të bëjë të mundur marrjen e tij nga njësia përkatëse e shërbimeve të trafikut ajror të paktën dhjetë minuta përpara se avioni parashikohet të arrijë:
-1) pikën e synuar të hyrjes në një zonë kontrolli ose zonë këshilluese; ose
-(2) pikën e kalimit të një rruge ajrore ose rruge të këshilluar.
-SERA.4005 Përmbajtja e planit të fluturimit
-a) Një plan fluturimi duhet të përfshijë informacionin në lidhje me pikat e mëposhtme që konsiderohen si të rëndësishme nga Autoriteti i Aviacionit Civil:
-1) Identifikimi i avionit
-2) Rregullat e fluturimit dhe lloji i fluturimit
-3) Numri dhe tipi/et e avionëve dhe kategoria e turbulencës
-4) Pajisjet
-5) Aerodromi i nisjes apo vendi i operimit
-6) Kohë e parashikuar e fillimit të lëvizjes
-7) Shpejtësia e lundrimit (cruising speed(s))
-8) Niveli i lundrimit (cruising level(s))
-9) Rruga që do të ndiqet
-10) Aerodromi destinacionit apo vendi i operimit dhe koha e parashikuar e fluturimit nga aerodromi i ngritjes deri në aerodromin e mbërritjes
-11) Aerodromi ose vendi i operimit rezervë
-12) Sasia e karburantit
-13) Numri total i personave në bord
-14) Pajisjet e urgjencës dhe mbijetesës
-15) Informacione të tjera.
-b) Për planet e fluturimit të paraqitura gjatë fluturimit, aerodromi apo vendi i operimit i ngritjes, i paraqitur, do të jetë vendi nga i cili do të kërkohet informacion shtesë rreth fluturimit, nëse kërkohet. Përveç kësaj, informacioni duhet të sigurohet në vend të kohës së vlerësuar të lëvizjes, duhet të jetë koha mbi pikën e parë të rrugës për të cilën lidhet plani i fluturimit.
-SERA.4010 Plotësimi i një plani fluturimi
-a) Një plan fluturimi do të përmbajë informacion, sipas rastit, për elementët me rëndësi, deri në dhe duke përfshirë, aerodromin/et apo vendin/et e operimit rezervë në lidhje me të gjithë itinerarin ose pjesën për të cilën është dorëzuar plani i fluturimit.
-b) Gjithashtu, do të përmbajnë informacion, sipas rastit, për të gjithë elementët e tjerë kur është kërkuar nga Autoriteti i Aviacionit Civil ose kur konsiderohet e nevojshme nga personi që dorëzon planin e fluturimit.
-SERA.4015 Ndryshimi i planit të fluturimit
-a) Sipas dispozitave të SERA.8020 (b) të gjitha ndryshimet e paraqitura të planit të fluturimit për një fluturim IFR, ose një fluturim VFR të operuar si fluturim i kontrolluar, duhet t’i raportohen sa më shpejt të jetë e mundur njësisë përkatëse të shërbimeve të trafikut ajror. Për fluturimet e tjera VFR, ndryshimet domethënëse të një plan fluturimi duhet t’i raportohen sa më shpejt të jetë e mundur njësisë përkatëse të shërbimeve të trafikut ajror.
-b) Informacioni i dorëzuar përpara nisjes në lidhje me kohëzgjatjen e karburantit apo numrin total të personave në bord, nëse nuk është korrekt në kohën e nisjes, përbën një ndryshim domethënës të planit të fluturimit dhe si i tillë duhet të raportohet.
+c) Një plan fluturimi:
+1. i dorëzohet përpara nisjes:
+i. menaxherit të rrjetit drejtpërdrejt, ose nëpërmjet një zyre raportimi të shërbimeve të trafikut ajror, në përputhje me manualet e operimeve që përmbajnë udhëzimet dhe informacionin e nevojshëm të zhvilluar dhe të mirëmbajtur nga menaxheri i rrjetit, nëse synohet që fluturimi të operohet në përputhje me IFR-në për një pjesë, ose të gjithë itinerarin e fluturimit brenda hapësirës ajrore të republikës, si dhe atë evropiane; ose
+ii. në një zyrë raportimi të shërbimeve të trafikut ajror për raste të tjera;
+2. transmetohet, gjatë fluturimit, në njësinë përkatëse të shërbimeve të trafikut ajror ose stacionin radio të kontrollit ajër-tokë.
+d) Me përjashtim të rastit, kur nga Autoriteti i Aviacionit Civil është përcaktuar një periudhë më e shkurtër kohore për fluturimet vendëse VFR, një plan fluturimi për çdo fluturim të planifikuar për t’u kryer përtej kufijve ndërkombëtarë ose për t’u pajisur me shërbimin e kontrollit të trafikut ajror ose shërbim këshillimor për trafikun ajror do të paraqitet si vijon:
+1. jo më shumë se 120 orë përpara kohës së parashikuar të nisjes;
+2. të paktën 3 orë përpara kohës së parashikuar të nisjes për fluturimet që mund t’u nënshtrohen masave të menaxhimit të fluksit të trafikut ajror (ATFM);
+3. të paktën 60 minuta para nisjes për të gjitha fluturimet e tjera që nuk përfshihen në pikën 2; ose
+4. nëse dorëzohet gjatë fluturimit, në një kohë që siguron marrjen e tij nga njësia përkatëse ATS, të paktën 10 minuta përpara se avioni të mendohet të arrijë, në:
+i. pikën e synuar të hyrjes në një zonë kontrolli ose zonë këshillimi; ose
+ii. në pikën e kalimit të një rruge ajrore ose rrugës këshilluese.
+e) Për fluturimet e kryera pjesërisht ose tërësisht në përputhje me IFR-në, që hyjnë në zonën e përgjegjësisë së një njësie të shërbimeve të trafikut ajror, për të cilat asnjë plan fluturimi nuk është marrë më parë nga menaxheri i rrjetit, njësia në fjalë do t’ia transmetojë menaxherit të rrjetit identifikimin e avionit, llojin e avionit, pikën e hyrjes në zonën e tij të përgjegjësisë, kohën dhe nivelin e fluturimit në atë pikë, itinerarin dhe aeroportin e destinacionit të fluturimit.
+f) Kërkesat e përcaktuara në shkronjat (c), (d) dhe (e) nuk do të zbatohen në hapësirën ajrore që nuk është pjesë e rajonit EUR të ICAO-së.
+SERA.4005 Përmbajtja e një plani fluturimi
+a) Një plan fluturimi do të përfshijë të gjithë informacionin që konsiderohet i rëndësishëm nga Autoriteti i Aviacionit Civil, në lidhje me sa vijon:
+1. identifikimin e avionit;
+2. rregullat e fluturimit dhe llojin e fluturimit;
+3. numrin dhe llojin/et e avionit dhe kategorinë e turbulencave;
+4. pajisjet dhe kapacitet e avionit;
+5. aeroportin e nisjes ose vendin e operimit;
+6. datën dhe orën e parashikuar të nisjes;
+7. shpejtësinë/të e lundrimit;
+8. nivelin/et e lundrimit;
+9. rrugën që duhet ndjekur;
+10. aeroportin e destinacionit ose vendin e operimit dhe kohën totale të parashikuar të kaluar;
+11. aeroportin/et alternativ/e ose vendndodhjet operative;
+12. sasinë e karburantit;
+13. numrin e përgjithshëm të personave në bord;
+14. pajisjet e urgjencës dhe të mbijetesës, duke përfshirë sistemin e rikuperimit të parashutës balistike;
+15. informacionet e tjera.
+b) Për planet e fluturimit të paraqitura gjatë fluturimit, aeroporti i nisjes ose vendi i operimit i dhënë, do të jetë vendi nga i cili mund të merret informacion shtesë, në lidhje me fluturimin, nëse kërkohet. Për më tepër, informacioni që do të jepet në vend të kohës së parashikuar jashtë bllokut, do të jetë koha mbi pikën e parë të itinerarit me të cilin lidhet plani i fluturimit.
+SERA.4010 Përfundimi i një plani fluturimi
+a) Një plan fluturimi do të përmbajë informacion, sipas rastit, për zërat përkatës të renditur në pikat SERA.4005(a)(1) deri në (11) në lidhje me të gjithë itinerarin ose pjesën e tij për të cilën është paraqitur plani i fluturimit.
+b) Operatorët e avionëve, krijuesit e planit të fluturimit dhe njësitë e shërbimeve të trafikut ajror duke ndjekur udhëzimet e nevojshme të përmendura në pikën SERA.4001(c)(1)(i) duhet të respektojnë sa vijon:
+1. udhëzimet për plotësimin e formularit të planit të fluturimit të përfshira në shtojcën 6;
+2. çdo kufizim të identifikuar në publikimet përkatëse të informacionit aeronautik (AIP).
+c) Operatorët e avionëve, ose agjentët që veprojnë në emër të tyre, të cilët synojnë të operojnë brenda hapësirës ajrore shqiptare për një pjesë ose të gjithë itinerarin, në përputhje me IFR-në, duhet të shtojnë treguesin e duhur për pajisjet e avionit të disponueshme në bord dhe kapacitet e tij në përputhje me rregullat për pajisjet e avionëve të kërkuara për përdorimin e hapësirës ajrore dhe rregullat e funksionimit, në lidhje me përdorimin e hapësirës ajrore që përafrojnë Rregulloren Zbatuese të Komisionit (BE) 2023/1770, në pikën përkatëse në planin e fluturimit, siç kërkohet në pikën SERA.4005(a)(4). Ky parashikim është i zbatueshëm me transpozimin e Rregullores Zbatuese të Komisionit (BE) 2023/1770 në legjislacionin e brendshëm.
+d) Operatorët e avionëve të papajisur në përputhje me rregullat për pajisjet e avionëve të kërkuara për përdorimin e hapësirës ajrore dhe rregullat e funksionimit, në lidhje me përdorimin e hapësirës ajrore që përafrojnë rregulloren zbatuese të Komisionit (BE) 2023/1770, të cilët synojnë të operojnë brenda hapësirës ajrore shqiptare duhet të shtojnë treguesin e duhur për pajisjet e avionit të disponueshëm në bord dhe kapacitetet e tij, dhe çdo përjashtim të mundshëm në zërat përkatës në planin e fluturimit, sipas pikave SERA.4005(a)(4) dhe SERA.4005(a)(15) respektivisht. Plani i fluturimit, përveç kësaj, do të përmbajë informacion, sipas rastit, për të gjithë zërat e tjerë, kur përcaktohet nga Autoriteti i Aviacionit Civil ose kur konsiderohet ndryshe e nevojshme nga personi që paraqet planin e fluturimit. Ky parashikim është i zbatueshëm me transpozimin e Rregullores Zbatuese të Komisionit (BE) 2023/1770 në legjislacionin e brendshëm.
+SERA.4013 Pranimi i një plani fluturimi
+a) Ofruesi i shërbimeve të lundrimit ajror, ashtu si Menaxheri i Rrjetit, për pjesën e itinerarit të operuar në përputhje me IFR, dhe zyra e raportimit të shërbimeve të trafikut ajror do të marrin masat e nevojshme për të siguruar, që kur të merret një plan fluturimi ose kur i bëhen ndryshime, ai është:
+1. në përputhje me të gjitha standardet e zbatueshme për formatin dhe të dhënat;
+2. i plotë dhe, për aq sa është e mundur, i saktë;
+3. nëse është e nevojshme, i pranueshëm për shërbimet e trafikut ajror; dhe
+4. i pranuar, ose ndryshimet e bëra në të pranohen gjithashtu, dhe kjo i bëhet e ditur krijuesit të planit të fluturimit.
+b) Njësitë ATC do t’i ofrojnë menaxherit të rrjetit çdo ndryshim të nevojshëm të planit të fluturimit që ndikon në zërat që lidhen me itinerarin ose nivelin e fluturimit, siç renditet në pikën SERA.4005 (a)(1) deri në (10) që mund të ndikojë në zhvillimin e sigurt të një fluturimi, për planet e fluturimit dhe mesazhet përkatëse të përditësimit të marra më parë prej tyre nga menaxheri i rrjetit. Asnjë ndryshim ose anulim i një plani fluturimi nuk do të bëhet nga një njësi ATC në fazën para fluturimit pa koordinim me operatorin e avionit.
+c) Kur është e zbatueshme, menaxheri i rrjetit do t’u komunikojë të gjitha njësive ATS të prekura planin e pranuar të fluturimit dhe çdo ndryshim të pranuar të fazës para fluturimit të bërë në zërat e renditur në pikën SERA.4005(a)(1) deri në (10) të planit të fluturimit dhe mesazhet përkatëse të përditësimit.
+d) Ofruesi i Shërbimit të Lundrimit Ajror, ashtu si Menaxheri i Rrjetit do t’i komunikojë operatorit të avionit çdo ndryshim të nevojshëm të fazës para fluturimit të bërë në planin e fluturimit që prek zërat e renditur në pikën SERA.4005 (a)(1) deri në (10), në lidhje me itinerarin ose nivelin e fluturimit që mund të ndikojë në zhvillimin e sigurt të një fluturimi, për planet e fluturimit dhe mesazhet përkatëse të përditësimit të marra më parë.
+e) Krijuesi i një plani fluturimi, kur nuk është operatori i avionit ose piloti, duhet të sigurojë që kushtet e pranimit të një plani fluturimi dhe çdo ndryshim i nevojshëm në këto kushte, siç njoftohen nga menaxheri i rrjetit për pjesën e fluturimit të zhvilluar, në përputhje me IFR-në, ose nga zyrat e raportimit të shërbimeve të trafikut ajror, vihen në dispozicion të operatorit të avionit ose pilotit që ka paraqitur planin e fluturimit.
+f) Operatori i avionit do të sigurojë që kushtet e pranimit të një plani fluturimi dhe çdo ndryshim i nevojshëm në të, siç njoftohet nga menaxheri i rrjetit ose nga zyra e raportimit të shërbimeve të trafikut ajror për nismëtarin e planit të fluturimit janë përfshirë në operacionin e fluturimit të planifikuar dhe i komunikohen pilotit.
+g) Operatori i avionit duhet të sigurojë përpara zhvillimit të fluturimit që përmbajtja e planit të fluturimit pasqyron saktë synimet operacionale.
+h) Menaxheri i rrjetit do të përpunojë dhe do të shpërndajë informacionin mbi aftësinë e ndarjes së kanaleve 8,33 kHz të marra në planet e fluturimit.
+i) Kërkesat e përcaktuara në pikat (a) deri (h) nuk do të zbatohen në hapësirën ajrore të Republikës së Shqipërisë dhe qiellit të vetëm evropian që nuk është pjesë e rajonit EUR të ICAO-së.
+SERA.4015 Ndryshimet në një plan fluturimi
+a) Të gjitha ndryshimet në një plan fluturimi të paraqitur për një fluturim IFR, ose një fluturim VFR, që zhvillohet si një fluturim i kontrolluar, do të raportohen:
+1. gjatë fazës para fluturimit, te menaxheri i rrjetit, për fluturimet që synojnë të operojnë në përputhje me IFR-në, për një pjesë të ose të gjithë itinerarin, dhe te zyrat e raportimit të shërbimeve të trafikut ajror, sa më shpejt të jetë e mundur;
+2. gjatë fluturimit, në përputhje me dispozitat e pikës SERA.8020(b), në njësinë përkatëse të shërbimeve të trafikut ajror.
+Për fluturimet e tjera VFR, ndryshimet e rëndësishme në planin e fluturimit duhet të raportohen sa më shpejt që të jetë e mundur në njësinë përkatëse të shërbimeve të trafikut ajror.
+b) Në rast të një vonese prej 30 minutash më shumë se koha e parashikuar e nisjes për një fluturim të kontrolluar ose një vonesë prej 1 ore për një fluturim të pakontrolluar për të cilin është dorëzuar një plan fluturimi, plani i fluturimit duhet të ndryshohet, ose të dorëzohet një plan i ri fluturimi dhe plani i vjetër i fluturimit anulohet, cilado qoftë e zbatueshme. Për çdo fluturim që kryhet në përputhje me IFR-në, vonesat prej më shumë se 15 minutash do t’i komunikohen menaxherit të rrjetit.
+c) Në rastin e një ndryshimi në pajisjen e avionit dhe statusin e aftësisë së tij për një fluturim, operatorët e avionit, ose agjentët që veprojnë në emër të tyre, do t’i dërgojnë një mesazh modifikimi menaxherit të rrjetit ose zyrave raportuese të shërbimeve të trafikut ajror me treguesin përkatës të shtuar në zërin përkatës të formularit të planit të fluturimit.
+d) Informacioni i paraqitur përpara nisjes, në lidhje me jetëgjatësinë e karburantit ose me numrin total të personave të transportuar në bord, nëse është i pasaktë në momentin e nisjes, përbën një ndryshim të rëndësishëm në planin e fluturimit dhe, si i tillë, do të raportohet.
+e) Kërkesat e përcaktuara në pikat (a) deri (d) nuk do të zbatohen në hapësirën ajrore të RSH-së dhe qiellit të vetëm evropian që nuk është pjesë e rajonit EUR ICAO.
 SERA.4020 Mbyllja e një plani fluturimi
 a) Një raport mbërritje duhet t’i bëhet personalisht, nëpërmjet radiotelefonisë, data-link ose me mënyra të tjera të përcaktuara nga Autoriteti i Aviacionit Civil, në momentin më të parë të mundshëm pas uljes, njësisë përkatëse të shërbimeve të trafikut ajror në aerodromin e mbërritjes për çdo fluturim për të cilin është dorëzuar një plan fluturimi që mbulon të gjithë fluturimin ose pjesën e mbetur të një fluturimi deri në aerodromin e destinacionit.
 1) Paraqitja e një raporti të mbërritjes nuk është e nevojshme pas uljes në një aerodrom ku ofrohen shërbimet e trafikut ajror në qoftë se komunikimi në radio apo sinjalet vizuale tregojnë që ulja është vëzhguar.
@@ -1418,6 +1458,58 @@ d) Siç përcaktohet në nenin 4a, frekuenca e emergjencës VHF (121,500 MHz) do
 4) të sigurojë komunikim ajër-tokë me avionët kur dështimi i pajisjeve ajrore parandalon përdorimin e kanaleve të rregullta;
 5) të sigurojë një kanal për funksionimin e transmetuesve të lokalizimit të emergjencave dhe për komunikimin midis mjeteve mbijetuese dhe avionëve të përfshirë në operacionet e kërkimit dhe shpëtimit;
 6) të sigurojë një kanal të përbashkët VHF për komunikimin midis avionëve civilë dhe avionëve përgjues ose njësive të kontrollit të përgjimit dhe midis avionëve civilë ose përgjues dhe njësive të shërbimeve të trafikut ajror në rast të përgjimit të avionëve civilë.
+SEKSIONI 15
+PROCEDURAT E KOMUNIKIMIT KONTROLLOR-PILOT ME ANË TË LIDHJES SË TË DHËNAVE (CPDLC)
+SERA.15001 Fillimi i lidhjes së të dhënave dhe dështimi i fillimit të lidhjes së të dhënave
+a) Adresa e hyrjes e lidhur me një njësi të shërbimeve të trafikut ajror do të publikohet në publikimet kombëtare të informacionit aeronautik (AIP).
+b) Pas marrjes së një kërkese të vlefshme për fillimin e lidhjes së të dhënave nga një avion që afrohet ose nga brenda zonës së shërbimit të lidhjes së të dhënave, njësia e shërbimeve të trafikut ajror do ta pranojë kërkesën dhe, nëse është në gjendje ta ndërlidhë atë me një plan fluturimi, do të krijojë një lidhje me avionin.
+c) Ofruesi i shërbimeve të trafikut ajror do të vendosë procedura për të zgjidhur, sa më shpejt të jetë e mundur, dështimet e fillimit të lidhjes së të dhënave.
+d) Operatori i avionit do të vendosë procedura për të zgjidhur, sa më shpejt të jetë e mundur, dështimet e fillimit të lidhjes së të dhënave.
+SERA.15005 Krijimi i CPDLC-së
+a) CPDLC-ja do të krijohet mjaftueshëm kohë përpara, për të siguruar që avioni të komunikojë me njësinë e duhur të kontrollit të trafikut ajror.
+b) Informacioni në lidhje me kohën dhe, nëse është e zbatueshme, ku sistemet ajrore ose tokësore duhet të krijojnë CPDLC, do të publikohen në qarkoret ose publikimet e informacionit aeronautik.
+c) Piloti duhet të jetë në gjendje të identifikojë njësinë e kontrollit të trafikut ajror që ofron shërbimin e kontrollit të trafikut ajror në çdo kohë gjatë ofrimit të shërbimit.
+SERA.15010 Transferimi i CPDLC-së
+a) Kur CPDLC-ja transferohet, transferimi i komunikimit zanor dhe CPDLC-ja do të fillojë njëkohësisht.
+b) Kur një avion transferohet nga një njësi e kontrollit të trafikut ajror ku CPDLC është në dispozicion në një njësi të kontrollit të trafikut ajror ku CPDLC-ja nuk është e disponueshme, përfundimi i CPDLC-së do të fillojë njëkohësisht me transferimin e komunikimit zanor.
+c) Kontrollori i trafikut ajror duhet të informohet, kur tenton një transferim të CPDLC-së që rezulton në një ndryshim në autoritetin e të dhënave, nëse ka mesazhe të lidhjes së të dhënave për të cilat nuk është marrë një përgjigje mbyllëse. Kur kontrollori i trafikut ajror vendos të transferojë avionin pa marrë përgjigje nga piloti për mesazhet e lidhjes së sipërme të pazgjidhura, kontrollori i trafikut ajror, normalisht duhet t’i rikthehet komunikimit zanor për të sqaruar çdo paqartësi që lidhet me mesazhin/et e lidhjes së sipërme të pazgjidhura.
+SERA.15015 Krijimi i mesazheve CPDLC
+a) Teksti i mesazheve CPDLC do të përbëhet në format standard të mesazhit, në gjuhë të thjeshtë, ose në shkurtesa dhe kode. Gjuha e thjeshtë duhet të shmanget kur gjatësia e tekstit mund të zvogëlohet, duke përdorur shkurtesat dhe kodet e duhura. Fjalët dhe frazat jothelbësore, si shprehjet e mirësjelljes, nuk do të përdoren.
+b) Kontrollori i trafikut ajror dhe piloti do të krijojnë mesazhe CPDLC, duke përdorur elemente standarde të mesazhit, elemente të mesazheve me tekst të lirë ose një kombinim të të dyjave. Duhet të shmanget përdorimi i elementeve të mesazheve me tekst të lirë nga kontrollorët ose pilotët e trafikut ajror.
+c) Kur grupi i mesazheve CPDLC i zbatuar nuk parashikon rrethana specifike, Autoriteti i Aviacionit Civil mund të përcaktojë, në konsultim me operatorët dhe ofruesit e tjerë të shërbimeve të trafikut ajror, se është e pranueshme të përdoren elemente të mesazheve me tekst të lirë. Në raste të tilla, Autoriteti i Aviacionit Civil do të përcaktojë formatin e shfaqjes, përdorimin e synuar dhe atributet për çdo element të mesazhit me tekst të lirë.
+d) Përbërja e një mesazhi CPDLC nuk duhet të kalojë pesë elemente mesazhi, vetëm dy prej të cilave mund të përmbajnë ndryshoren e lejimit të kalimit.
+e) Krijimi i mesazheve CPDLC me shumë elemente:
+1. Kur një mesazh CPDLC me shumë elemente kërkon një përgjigje, përgjigjja do të zbatohet për të gjitha elementet e mesazhit.
+2. Kur një lejimi i vetëm i një elementi mesazhi ose ndonjë pjesë e një mesazhi lejimi me shumë elemente nuk mund të respektohet, piloti do të dërgojë një përgjigje “UNABLE”/“E PAMUNDUR” për të gjithë mesazhin.
+3. Kontrollori do të përgjigjet me një mesazh “UNABLE”/“E PAMUNDUR” që zbatohet për të gjitha elementet e kërkesës, kur asnjë element/e i një kërkese për lejim të vetëm ose me shumë elemente nuk mund të miratohet. Lejimi/et aktual nuk do të riparaqitet.
+4. Kur një kërkesë për lejim me shumë elemente mund të miratohet vetëm pjesërisht, kontrollori duhet të përgjigjet me një mesazh “UNABLE”/“E PAMUNDUR”, që zbatohet për të gjitha elementet e mesazhit të kërkesës dhe, nëse është e përshtatshme, të përfshijë një arsye dhe/ose informacion se kur mund të pritet lejimi.
+5. Kur të gjitha elementet e një kërkese lejimi të vetëm ose me shume elemente mund të miratohen, kontrollori duhet të përgjigjet me leje që korrespondojnë me secilin element të kërkesës. Kjo përgjigje do të jetë një mesazh i vetëm në hallkën e sipërme (uplink).
+6. Kur një mesazh CPDLC përmban më shumë se një element mesazhi dhe atributi i përgjigjes për mesazhin është “Y”, kur përdoret, mesazhi i përgjigjes së vetme duhet të përmbajë numrin përkatës të përgjigjeve në të njëjtin rend.
+SERA.15020 Përgjigjja ndaj mesazheve CPDLC
+a) Përveçse kur specifikohet ndryshe nga Autoriteti i Aviacionit Civil, nuk kërkohet përsëritja me zë e mesazheve CPDLC.
+b) Me përjashtim të rasteve kur nevojitet korrigjimi i mesazhit CPDLC të transmetuar, kur një kontrollues ose një pilot komunikon nëpërmjet CPDLC-së, përgjigjja normalisht duhet të jetë nëpërmjet CPDLC. Kur një kontrollor ose një pilot komunikon me zë, përgjigjja normalisht duhet të jetë me zë.
+SERA.15025 Korrigjimi i mesazheve CPDLC
+a) Kur një korrigjim në një mesazh CPDLC konsiderohet i nevojshëm ose kur përmbajtja e një mesazhi të tillë duhet të qartësohet, kontrollori i trafikut ajror dhe piloti do të përdorin mjetet më të përshtatshme të disponueshme për të dhënë detajet e sakta ose për të siguruar të nevojshme sqarim.
+b) Kur komunikimi zanor përdoret për të korrigjuar një mesazh CPDLC për të cilin ende nuk është marrë asnjë përgjigje operacionale, transmetimi i zërit të kontrollorit ose të pilotit duhet të paraprihet me frazën: “DISREGARD CPDLC (message type) MESSAGE, BREAK”/“SHPËRFILLNI MESAZHIN CPDLC (lloji i mesazhit), MARRJE” - pasuar me lejen, udhëzimin, informacionin ose kërkesën e duhur.
+c) Kur i referohet dhe identifikohet mesazhi CPDLC që duhet të shpërfillet, duhet të tregohet kujdes në formulimin e tij, në mënyrë që të shmanget çdo paqartësi me çështjen e korrigjimit të lejes, udhëzimit, informacionit ose kërkesës.
+d) Nëse një mesazh CPDLC, që kërkon një përgjigje operacionale negociohet më pas përmes zërit, një përgjigje e përshtatshme mbyllëse e mesazhit CPDLC do të dërgohet për të siguruar sinkronizimin e duhur të dialogut CPDLC. Kjo mund të arrihet ose duke udhëzuar në mënyrë të hapur marrësin e mesazhit nëpërmjet zërit për të mbyllur dialogun, ose duke lejuar sistemin të mbyllë automatikisht dialogun.
+SERA.15030 Procedurat e komunikimit të lidhjes së të dhënave të kontrollorit për emergjencat, rreziqet dhe dështimin e pajisjeve CPDLC
+a) Kur një kontrollor i trafikut ajror ose një pilot sinjalizohet se një mesazh komunikimi i vetëm i lidhjes së të dhënave kontrollues-pilot ka dështuar, kontrollori i trafikut ajror ose piloti duhet të ndërmarrë një nga veprimet e mëposhtme, sipas rastit:
+1. me zë, konfirmon veprimet që do të ndërmerren në lidhje me dialogun përkatës, duke e paraprirë informacionin me shprehjen: “CPDLC MESSAGE FAILURE”/“DËSHTIMI I MESAZHIT CPDLC”.
+2. nëpërmjet komunikimit të lidhjes së të dhënave kontrollor-pilot, ridërgon mesazhin e komunikimit të lidhjes së të dhënave kontrollor-pilot që dështoi.
+b) Kontrollorët e trafikut ajror që u kërkohet të transmetojnë informacion në lidhje me një dështim të plotë të sistemit të komunikimit tokësor të lidhjes së të dhënave kontrollues-pilot në të gjitha stacionet që mund të përgjojnë duhet ta paraprijnë një transmetim të tillë me thirrjen e përgjithshme: “ALL STATIONS CPDLC FAILURE”/“TË GJITHA STACIONET DËSHTIM CPDLC” - e ndjekur nga identifikimi i stacionit telefonues.
+c) Kur komunikimi i lidhjes së të dhënave kontrollues-pilot dështon dhe komunikimi kthehet në zë, të gjitha mesazhet CPDLC të pazgjidhura do të konsiderohen të padorëzuara dhe i gjithë dialogu që përfshin mesazhet e mbetura do të rifillojë me zë.
+d) Kur komunikimi i lidhjes së të dhënave kontrollues-pilot dështon, por rikthehet përpara nevojës për t’u rikthyer në komunikimin zanor, të gjitha mesazhet e pazgjidhura do të konsiderohen të padorëzuara dhe i gjithë dialogu që përfshin mesazhet e mbetura do të rifillojë nëpërmjet CPDLC-së.
+SERA.15035 Mbyllja e qëllimshme e sistemit CPDLC
+a) Kur planifikohet një mbyllje e sistemit të rrjetit të komunikimit ose sistemit tokësor CPDLC, do të publikohet një NOTAM për të informuar të gjitha palët e prekura për periudhën e mbylljes dhe, nëse është e nevojshme, detajet e frekuencave të komunikimit zanor që do të përdoren.
+b) Avionët në komunikim me njësitë ATC do të informohen me zë ose CPDLC-ja për çdo humbje të afërt të shërbimit CPDLC.
+SERA.15040 Ndërprerja e përdorimit të kërkesave të CPDLC-së
+a) Kur një kontrollues kërkon që të gjitha stacionet ose një fluturim specifik të shmangin dërgimin e kërkesave CPDLC, për një periudhë të kufizuar kohore, do të përdoret fraza e mëposhtme: ((call sign) or ALL STATIONS) STOP SENDING CPDLC REQUESTS [UNTIL ADVISED] [(reason)]/((shenja e thirrjes) ose TË GJITHA STACIONET) NDALO DËRGIMIN E KËRKESAVE CPDLC [DERI KUR KËSHILLOHET] [(arsye)].
+b) Rifillimi i përdorimit normal të CPDLC-së do të këshillohet duke përdorur frazën e mëposhtme: ((call sign) or ALL STATIONS) RESUME NORMAL CPDLC OPERATIONS/((shenja e thirrjes) ose TË GJITHA STACIONET) RINIS VEPRIMET NORMALE CPDLC.
+SERA.15045 Përdorimi i CPDLC-së në rast të dështimit të komunikimit zanor ajër-tokë
+Ekzistenca e një lidhjeje CPDLC midis një njësie të shërbimeve të trafikut ajror dhe një avioni nuk duhet të pengojë pilotin dhe kontrollorin e trafikut ajror në fjalë të nisin dhe të kryejnë të gjitha veprimet e kërkuara, në rast të dështimit të komunikimit zanor ajër-tokë.
+SERA.15050 Testimi i CPDLC-së
+Kur testimi i CPDLC-së me një avion mund të ndikojë në shërbimet e trafikut ajror që i ofrohen avionit, koordinimi do të kryhet përpara një testimi të tillë.
 SHTOJCA 1
 SINJALET
 1. SINJALET E RREZIKUT DHE TË URGJENCËS
@@ -2041,3 +2133,381 @@ ICAO Aneksi 3
 Kapitulli 5
 Dispozita e re. UM nr..., datë...transpozim i Rregullores Zbatuese (BE) Nr 923/2012, paragrafi Sera.12005, specifikon:
 (b) Autoritetet kompetente përcaktojnë si kushte të tjera të nevojshme që raportohen nga të gjithë avionët kur hasen ose vëzhgohen.
+SHTOJCA 6
+PËRFUNDIMI I NJË PLANI FLUTURIMI
+1. Model i ICAO-së për formën e planit të fluturimit
+2. Udhëzime për plotësimin e formularit të planit të fluturimit
+2.1. Të përgjithshme
+Përmbajuni qartë formateve të përshkruara dhe mënyrës së specifikimit të të dhënave.
+Filloni shtimin e të dhënave në hapësirën e parë të dhënë. Aty ku ka hapësirë të tepërt, lërini bosh hapësirat e papërdorura.
+Shtoni të gjitha orët në 4 shifra UTC.
+Shtoni të gjitha kohët e hamendësuara të kaluara në 4 shifra (orë dhe minuta).
+Zona e hijëzuar para pikës 3 - do të plotësohet nga shërbimet ATS dhe COM, përveç nëse është deleguar përgjegjësia për origjinën e mesazheve të planit të fluturimit.
+2.2. Udhëzime për futjen e të dhënave të ATS-së
+Plotësoni pikat 7 deri në 18 dhe, kur kërkohet nga Autoriteti i Aviacionit Civil ose në të kundërt, kur konsiderohet e nevojshme, pikën 19, siç tregohet më poshtë.
+SHTONI një nga identifikimet e mëposhtme të avionit, jo më shumë se 7 karaktere alfanumerike dhe pa viza ose simbole:
+a) emëruesi ICAO (ICAO designator) për operatorin e avionit, i ndjekur nga identifikimi i fluturimit (p.sh. KLM511, NGA213, JTR25), kur në radiotelefoninë që do të përdoret nga avioni, shenja e thirrjes përbëhet nga emëruesi i telefonisë ICAO për operatorin, e ndjekur nga identifikimi i fluturimit (p.sh. KLM511, NIGERIA 213, JESTER 25); ose
+b) kombësinë ose shenjën e përgjithshme dhe shenjën e regjistrimit të avionit (p.sh. EIAKO, 4XBCD, N2567GA), kur:
+1. në radiotelefoninë shenja e thirrjes që do të përdoret nga avioni përbëhet vetëm nga ky identifikim (p.sh. CGAJS), ose i paraprirë nga emëruesi i telefonisë ICAO për operatorin e avionit (p.sh. BLIZZARD CGAJS);
+2. avioni nuk është i pajisur me radio.
+Rregullat e fluturimit
+SHTONI një nga shkronjat e mëposhtme për të treguar kategorinë e rregullave të fluturimit me të cilat piloti synon të respektojë:
+I - nëse synohet që i gjithë fluturimi të kryhet sipas IFR; ose
+V - nëse synohet që i gjithë fluturimi të kryhet nën VFR; ose
+Y - nëse fluturimi fillimisht operohet sipas IFR-së, i ndjekur nga një ose më shumë ndryshime të mëvonshme të rregullave të fluturimit; ose
+Z - nëse fluturimi fillimisht kryhet nën VFR, i ndjekur nga një ose më shumë ndryshime të mëvonshme të rregullave të fluturimit.
+Specifikoni në pikën 15, pikën ose pikat në të cilat planifikohet ndryshimi i rregullave të fluturimit.
+Lloji i fluturimit
+SHTONI një nga shkronjat e mëposhtme për të treguar llojin e fluturimit kur kërkohet nga autoriteti kompetent:
+S - nëse shërbimi ajror i planifikuar;
+N - nëse operacion i transportit ajror jo i planifikuar;
+G - nëse aviacioni i përgjithshëm;
+M - nëse ushtarak;
+X - nëse është ndryshe nga ndonjë nga kategoritë e përcaktuara më sipër.
+Specifikoni statusin e një fluturimi pas treguesit STS në pikën 18, ose kur është e nevojshme për të treguar arsye të tjera për trajtim specifik nga ATS-ja, tregoni arsyen pas treguesit RMK në pikën 18.
+Numri i avionit (1 ose 2 shkronja)
+SHTONI numrin e avionit, nëse më shumë se një.
+Lloji i avionit (2 deri në 4 shkronja)
+SHTONI përcaktimin e duhur siç specifikohet në Doc 8643, “Përcaktuesit e tipit të avionit”, ose, nëse nuk është caktuar një emërues i tillë, ose në rast të fluturimeve të formacionit që përfshijnë më shumë se një lloj, SHTONI ZZZZ dhe SPECIFIKO në pikën 18 llojin (numrat dhe llojin/et (s) të avionëve të paraprirë nga TYP/
+Kategoria e turbulencës pasuese (1 shkronjë)
+SHTONI një vijë të pjerrët të ndjekur nga një nga shkronjat e mëposhtme për të treguar kategorinë e turbulencës së avionit:
+J - SUPER, për të treguar një lloj avioni të specifikuar si i tillë në ICAO Doc 8643, “Aircraft Type Designators”, botimi i fundit;
+H - HEAVY, për të treguar një lloj avioni me një masë maksimale të certifikuar ngritjeje prej 136 000 kg ose më shumë, me përjashtim të llojeve të avionëve të listuar në ICAO Doc 8643 në kategorinë SUPER (J);
+M - MEDIUM, për të treguar një lloj avioni me një masë maksimale të certifikuar ngritjeje më të vogël se 136 000 kg por më shumë se 7 000 kg;
+L - LIGHT, për të treguar një lloj avioni me një masë maksimale të certifikuar ngritjeje prej 7 000 kg ose më pak. Aftësitë përfshijnë elementet e mëposhtme:
+a) prania e pajisjeve përkatëse të shërbimit në bordin e avionit;
+b) pajisjet dhe aftësitë në përpjesëtim me kualifikimet e ekuipazhit të fluturimit; dhe
+c) sipas rastit, autorizim nga autoriteti përkatës.
+Pajisjet dhe aftësitë e komunikimit radiofonik, navigimit dhe ndihmës për afrimin
+SHTONI një shkronjë si më poshtë:
+N - nëse nuk ka pajisje ndihmëse për afrimin COM/NAV/për itinerarin që do të fluturohet, ose pajisja është e papërdorshme; ose
+S - nëse pajisjet standarde të ndihmëse për afrimin COM/NAV/për itinerarin që do të fluturohet janë të bartura dhe të përdorshme; dhe/ose
+SHTONI një ose më shumë nga shkronjat e mëposhtme për të treguar pajisjet dhe aftësitë e disponueshme të ndihmës për afrimin COM/NAV/:
+A
+Sistemi i uljes GBAS
+J7
+CPDLC FANS 1/A SATCOM (Iridium)
+B
+LPV (APV me SBAS)
+K
+MLS
+C
+Loran C
+L
+ILS
+D
+DME
+M1
+ATC SATVOICE (INMARSAT
+E1
+FMC WPR ACARS
+M2
+ATC SATVOICE (MTSAT)
+E2
+D-FIS ACARS
+M3
+ATC SATVOICE (Iridium)
+E3
+PDC ACARS
+O
+VOR
+G
+GNSS. Nëse ndonjë pjesë e fluturimit është planifikuar të kryhet sipas IFR-së, ajo u referohet marrësve GNSS, që përputhen me aneksin 10, vëllimi I i ICAO-së
+P1
+CPDLC RCP 400
+P2
+CPDLC RCP240
+P3
+SATVOICE RCP 400
+H
+HF RTF
+P4-P9
+Rezervuar për RCP-në
+I
+Inertial Navigation
+R
+PBN i miratuar
+J1
+CPDLC ATN VDL Mode 2
+T
+TACAN
+J2
+CPDLC FANS 1/A HFDL
+U
+UHF RTF
+J3
+CPDLC FANS 1/A VDL Mode A
+V
+VHF RTF
+J4
+CPDLC FANS 1/A VDL Mode 2
+W
+RVSM i miratuar
+J5
+CPDLC FANS 1/A SATCOM (INMARSAT)
+X
+MNPS i miratuar
+J6
+CPDLC FANS 1/A
+SATCOM (MTSAT)
+Y
+VHF hapësirë kanali me aftësi 8,33 kHz
+Z
+Pajisje të tjera të bartura ose aftësi të tjera
+Çdo karakter alfanumerik që nuk tregohet më sipër është i rezervuar.
+Pajisjet dhe aftësitë e vëzhgimit
+SHTONI N nëse nuk ka pajisje mbikëqyrëse për itinerarin që do të fluturohet, ose pajisja është e papërdorshme;
+ose
+SHTONI një ose më shumë nga përshkruesit e mëposhtëm, deri në maksimum 20 karaktere, për të përshkruar pajisjet dhe/ose aftësitë e disponueshme të mbikëqyrjes në bord:
+Modalitetet SSR, A dhe C
+A - Transponder - Modaliteti A (4 shifra - 4 096 kode)
+C - Transponder - Modaliteti A (4 shifra - 4 096 kode) dhe Modaliteti C
+Mënyra SSR S
+E - Transponder - Modaliteti S, duke përfshirë aftësinë për identifikimin e avionit, presionin-lartësinë dhe aftësinë e shtuar “squitter” (ADS-B).
+H - Transponder - Modaliteti S, duke përfshirë aftësinë për identifikimin e avionit, presionin-lartësinë dhe mbikëqyrjen e shtuar.
+I - Transponder - Modaliteti S, duke përfshirë aftësinë për identifikimin e avionit, por jo presionin-lartësinë.
+L - Transponder - Modaliteti S, duke përfshirë aftësinë për identifikimin e avionit, presionin-lartësinë dhe mbikëqyrjen e shtuar dhe aftësinë e shtuar “squitter” (ADS-B).
+P - Transponder - Modaliteti S, duke përfshirë presionin-lartësinë por jo aftësinë për identifikimin e avionit
+S - Transponder - Modaliteti S, duke përfshirë edhe aftësinë për identifikimin e avionit edhe presionin-lartësinë
+X - Transponder - Modaliteti S pa identifikim të avionit dhe pa aftësi presioni-lartësie.
+ADS-B
+B1 - ADS-B me aftësi të dedikuar 1 090 MHz ADS-B “dalëse”.
+B2 - ADS-B me aftësi të dedikuara 1 090 MHz ADS-B “dalëse” dhe “hyrëse”
+U1 - Aftësia “ dalëse” ADS-B duke përdorur UAT
+U2 - ADS-B aftësia “dalëse” dhe “ hyrëse” duke përdorur UAT
+V1 - Aftësia “ dalëse “ADS-B duke përdorur modalitetin VDL 4
+V2 - ADS-B aftësia “dalëse” dhe “ hyrëse”, duke përdorur modalitetin VDL 4
+ADS-C
+D1 - ADS-C me aftësi FANS 1/A
+G1 - ADS-C me aftësi ATN
+Karakteret alfanumerike që nuk tregohen më sipër janë të rezervuara.
+SHTONI treguesin ICAO të vendndodhjes me 4 shkronja, të aeroportit të nisjes, siç specifikohet në Doc 7910, “Treguesit e vendndodhjes”.
+OSE, nëse nuk është caktuar asnjë tregues i vendndodhjes.
+SHTONI ZZZZ dhe SPECIFIKONI, në pikën 18:
+- emri dhe vendndodhja e aeroportit të paraprirë nga DEP/; ose
+- pika e parë e itinerarit ose sinjali i radios shënjuese i paraprirë nga DEP/..., nëse avioni nuk është ngritur nga një aerodrom;
+OSE - nëse plani i fluturimit merret nga një avion në fluturim.
+SHTONI AFIL dhe SPECIFIKONI, në pikën 18, treguesin e vendndodhjes me 4 shkronja ICAO të vendndodhjes së njësisë ATS nga e cila mund të merren të dhënat shtesë të planit të fluturimit, të paraprirë nga DEP/.
+PASTAJ, PA HAPËSIRË.
+SHTONI për një plan fluturimi të dorëzuar përpara nisjes, kohën e vlerësuar jashtë bllokut (EOBT), ose për një plan fluturimi të marrë nga një avion në fluturim, kohën aktuale ose të parashikuar mbi pikën e parë të itinerarit për të cilin zbatohet plani i fluturimit.
+SHTONI shpejtësinë e parë të lundrimit si në (a) dhe nivelin e parë të lundrimit si në (b), pa një hapësirë midis tyre.
+PASTAJ, duke ndjekur shigjetën, SHTONI përshkrimin e rrugës si në (c).
+a) Shpejtësia e lundrimit (maksimumi 5 shkronja)
+SHTONI shpejtësinë e vërtetë të ajrit për pjesën e parë ose të gjithë pjesës së lundrimit të fluturimit, në terma: Kilometra në orë, të shprehura si K e ndjekur nga 4 shifra (p.sh. K0830); ose
+Nyjë, të shprehura si N e ndjekur nga 4 shifra (p.sh. N0485); ose
+Numri i vërtetë Mach, kur përcaktohet kështu nga autoriteti kompetent, në të qindtën më të afërt të njësisë Mach, i shprehur si M i ndjekur nga 3 shifra (p.sh. M082).
+b) Niveli i lundrimit (maksimumi 5 shkronja)
+SHTONI nivelin e planifikuar të lundrimit për pjesën e parë ose të gjithë pjesën e itinerarit që do të fluturohet, për sa i përket:
+Nivelit të fluturimit, i shprehur si F i ndjekur nga 3 shifra (p.sh. F085; F330); ose
+Niveli standard metrik në dhjetëra metra, kur përcaktohet kështu nga autoriteti kompetent i shprehur si S, i ndjekur nga 4 shifra (p.sh. S1130); ose
+Lartësia në qindra këmbë, e shprehur si A e ndjekur nga 3 shifra (p.sh. A045; A100); ose
+Lartësia në dhjetëra metra, e shprehur si M e ndjekur nga 4 shifra (p.sh. M0840); ose
+për fluturimet e pakontrolluara VFR, shkronjat VFR.
+c) Itinerari (duke përfshirë ndryshimet e nivelit të shpejtësisë dhe/ose rregullat e fluturimit)
+Fluturime përgjatë rrugëve të caktuara ATS
+SHTONI, nëse aeroporti i nisjes ndodhet në ose i lidhur me itinerarin ATS, emëruesin e itinerarit të parë ATS.
+OSE, nëse aeroporti i nisjes nuk është në ose i lidhur me itinerarin ATS, shkronjat DCT pasuar nga pika e bashkimit me itinerarin e parë ATS, e ndjekur nga përcaktimi i itinerarit ATS.
+PASTAJ,
+SHTONI çdo pikë në të cilën planifikohet të fillojë ose një ndryshim i shpejtësisë dhe/ose nivelit, ose një ndryshim i rrugës ATS dhe/ose një ndryshim i rregullave të fluturimit.
+NDIQEN NË ÇDO RAST
+nga përcaktimi i segmentit tjetër të rrugës ATS, edhe nëse është i njëjtë me atë të mëparshëm;
+OSE nga DCT, nëse fluturimi për në pikën tjetër është jashtë një itinerari të caktuar, përveç nëse të dyja pikat përcaktohen nga koordinatat gjeografike.
+Fluturime jashtë linjave të përcaktuara ATS
+SHTONI pikat normalisht jo më shumë se 30 minuta kohë fluturimi ose 370 km (200 NM) larg njëra-tjetrës, duke përfshirë çdo pikë në të cilën është planifikuar një ndryshim i shpejtësisë ose i nivelit, një ndryshim i pistës ose një ndryshim i rregullave të fluturimit;
+OSE, kur kërkohet nga autoriteti/et kompetent,
+PËRCAKTONI rrugën e fluturimeve që operojnë kryesisht në drejtimin lindje-perëndim midis 70°N dhe 70°J, duke iu referuar pikave domethënëse të formuara nga kryqëzimet e shkallëve gjysmë ose të plota të gjerësisë gjeografike me meridianët e ndarë në intervale prej 10 gradësh gjatësi. Për fluturimet që operojnë në zona jashtë atyre gjerësive gjeografike, binarët do të përcaktohen nga pika të rëndësishme të formuara nga kryqëzimi i paraleleve të gjerësisë gjeografike me meridianët e ndarë normalisht në 20 gradë gjatësi. Distanca ndërmjet pikave të rëndësishme, për aq sa është e mundur, nuk duhet të kalojë 1 orë kohën e fluturimit. Pika të rëndësishme shtesë do të vendosen sipas nevojës.
+Për fluturimet që operojnë kryesisht në drejtimin veri-jug, përcaktoni gjurmët, duke iu referuar pikave domethënëse të formuara nga kryqëzimi i shkallëve të tëra të gjatësisë gjeografike me paralele të specifikuara të gjerësisë gjeografike, të cilat janë të ndara në 5 gradë.
+SHTONI DCT ndërmjet pikave të njëpasnjëshme, përveç rasteve kur të dyja pikat përcaktohen nga koordinatat gjeografike ose nga mbajtja dhe distanca.
+PËRDORNI VETËM konventat në (1) deri në (5) më poshtë dhe NDANI çdo nënartikull me një hapësirë.
+1. RRUGA ATS (2 deri në 7 shkronja)
+Përcaktuesi i koduar i caktuar për segmentin e itinerarit ose të itinerarit, duke përfshirë, sipas rastit, përcaktuesin e koduar të caktuar në itinerarin standard të nisjes ose të mbërritjes (p.sh. BCN1, Bl, R14, UB10, KODAP2A).
+2. PIKAT KUPTIMPLOTA (2 deri në 11 shkronja)
+Përcaktuesi i koduar (2 deri në 5 shkronja) i caktuar në pikë (p.sh. LN, MAY, HADDY),
+ose, nëse nuk është caktuar asnjë emërues i koduar, një nga mënyrat e mëposhtme:
+- Vetëm gradat (7 karaktere):
+2 shifra që përshkruajnë gjerësinë gjeografike në gradë, të ndjekura nga “N” (Veri) ose “S” (Jug), e ndjekur nga 3 shifra që përshkruajnë gjatësinë gjeografike në gradë, e ndjekur nga “E” (Lindje) ose “W” (Perëndim). Plotësoni numrin e saktë të shifrave, sipas nevojës, duke shtuar zero, p.sh. 46N078W.
+- Grada dhe minuta (11 shkronja):
+4 shifra që përshkruajnë gjerësinë gjeografike në gradë dhe dhjetëra dhe njësi minutash të ndjekura nga “N” (Veri) ose “S” (Jug), e ndjekur nga 5 shifra që përshkruajnë gjatësinë gjeografike në gradë dhe dhjetëra dhe njësi minutash, të ndjekura nga “E” (Lindje ) ose “W” (Perëndim). Plotësoni numrin e saktë të shifrave, sipas nevojës, duke shtuar zero, p.sh. 4620N07805W.
+- Mbajtja dhe distanca nga një pikë referimi:
+Identifikimi i pikës së referencës, i ndjekur nga mbajtja nga pika në formën e 3 shifrave që japin gradë magnetike, e ndjekur nga distanca nga pika në formën e 3 shifrave që shprehin milje detare. Në zonat me gjerësi të madhe gjeografike ku përcaktohet nga autoriteti përkatës se referenca në shkallët magnetike është jopraktike, mund të përdoren shkallët e vërteta. Plotësoni numrin e saktë të shifrave, kur është e nevojshme, duke shtuar zero - p.sh. një pikë magnetike 180° në një distancë prej 40 NM nga VOR “DUB” duhet të shprehet si DUB180040.
+3. Ndryshimi i shpejtësisë ose i nivelit ( maksimumi 21 shkronja)
+Pika në të cilën planifikohet të fillojë një ndryshim i shpejtësisë (5 % TAS ose 0,01 Mach ose më shumë) ose një ndryshim i nivelit, e shprehur saktësisht si në pikën 2 më sipër, e ndjekur nga një goditje e zhdrejtë dhe të dyja si shpejtësia e lundrimit dhe niveli i lundrimit, të shprehura saktësisht si në pikat (a) dhe (b) më sipër, pa një hapësirë ndërmjet tyre, edhe kur vetëm një nga këto sasi do të ndryshohet.
+Shembuj:
+LN/N0284A045
+MAY/N0305Fl80
+HADDY/N0420F330
+4602N07805W/N0500F350
+46N078W/M082F330
+DUB180040/N0350M0840
+4. Ndryshimi i rregullave të fluturimit (maksimumi 3 shkronja)
+Pika në të cilën është planifikuar ndryshimi i rregullave të fluturimit, e shprehur saktësisht si në pikat 2 ose 3 më sipër, sipas rastit, e ndjekur nga një hapësirë dhe një nga sa vijon:
+VFR nëse nga IFR në VFR
+IFR nëse nga VFR në IFR
+Shembuj:
+LN VFR
+LN/N0284A050 IFR
+5. Ngjitja e lundrimit (maksimumi 28 shkronja)
+Shkronja C e ndjekur nga një vijë e zhdrejtë; PASTAJ pika në të cilën është planifikuar të fillojë ngjitja e lundrimit, e shprehur saktësisht si në 2 më sipër, e ndjekur nga një vijë e zhdrejtë; PASTAJ shpejtësia që duhet ruajtur gjatë ngjitjes së lundrimit, e shprehur saktësisht si në (a) më sipër, e ndjekur nga dy nivelet që përcaktojnë shtresën që do të zërë gjatë ngjitjes së lundrimit, secili nivel i shprehur saktësisht si në (b) më sipër, ose niveli mbi të cilin Ngjitja e lundrimit është planifikuar e ndjekur nga shkronjat PLUS, pa hapësirë midis tyre.
+Shembuj:
+C/48N050W/M082F290F350
+C/48N050W/M082F290PLUS
+C/52N050W/M220F580F620
+Aeroporti i destinacionit dhe koha totale e kaluar (8 shkronja)
+SHTONI treguesin ICAO të vendndodhjes me 4 shkronja të aeroportit të destinacionit siç specifikohet në Doc 7910, “Treguesit e vendndodhjes”,
+OSE, nëse nuk është caktuar asnjë tregues i vendndodhjes,
+SHTONI ZZZZ dhe SPECIFIKONI në pikën 18 emrin dhe vendndodhjen e aeroportit, të paraprirë nga DEST/.
+PASTAJ PA HAPËSIRË
+SHTONI Kohën totale të menduar të kaluar.
+Aeroporti alternativ i destinacionit
+SHTONI treguesin e vendndodhjes me 4 shkronja ICAO të aeroportit të destinacionit, siç specifikohet në Doc 7910, “Treguesit e vendndodhjes”, ndarë nga një hapësirë,
+OSE, nëse nuk është caktuar asnjë tregues për aeroportet alterantivë të destinacionit,
+SHTONI ZZZZ dhe SPECIFIKONI në pikën 18 emrin dhe vendndodhjen e aeroportit alternativ të destinacionit, të paraprirë nga ALTN/.
+Vizat ose vijat e pjerrëta duhet të përdoren vetëm siç tregohet më poshtë.
+SHTONI 0 (zero) nëse nuk ka informacion tjetër,
+OSE, çdo informacion tjetër të nevojshëm treguar në sekuencën në vijim, në formën e treguesit të përshtatshëm të zgjedhur nga ato në vijim të ndjekur nga një vijë e pjerrët dhe informacionin që do regjistrohet.
+SHTONI ZZZZ dhe SPECIFIKONI në pikën 18 emrin dhe vendndodhjen e aeroportit alternativ të destinacionit, të paraprirë nga ALTN/.
+STS/
+Arsyeja për trajtim special nga ATS, p.sh. mision kërkim-shpëtimi, si vijon:
+ALTRV:
+për një fluturim të kryer në përputhje me një rezervim lartësie;
+ATFMX:
+për një fluturim të miratuar për përjashtim nga masat ATFM nga Autoriteti i Aviacionit Civil;
+FFR:
+duke luftuar me zjarrin;
+FLTCK:
+kontrolli i fluturimit për kalibrimin e ndihmës së navigimit;
+HAZMAT:
+për një fluturim që mban materiale të rrezikshme;
+HEAD:
+një fluturim me statusin e kreut të shtetit;
+HOSP:
+për një fluturim mjekësor të deklaruar nga autoritetet mjekësore;
+HUM:
+për një fluturim që operon në një mision humanitar;
+MARSA:
+për një fluturim për të cilin një subjekt ushtarak merr përgjegjësinë për ndarjen e avionëve ushtarakë;
+MEDEVAC:
+për një evakuim urgjent mjekësor kritik për jetën;
+NONRVSM:
+për një fluturim jo të aftë për RVSM-në që synon të operojë në hapësirën ajrore;
+SAR:
+për një fluturim të angazhuar në një mision kërkimi dhe shpëtimi; dhe
+STATE:
+për një fluturim të angazhuar në shërbime ushtarake, doganore ose policore.
+Arsyet e tjera për trajtim të veçantë nga ATS-ja do të shënohen nën emërtuesin “RMK/”.
+PBN/
+Tregimi i aftësive RNAV dhe/ose RNP. Përfshini sa më shumë nga përshkruesit e mëposhtëm, siç zbatohen për fluturimin, deri në një maksimum prej 8 hyrjesh, pra një total prej jo më shumë se 16 karakteresh.
+SPECIFIKIMET RNAV
+A1
+RNAV 10 (RNP 10)
+C1
+RNAV 2 të gjithë sensorët e lejuar
+C2
+RNAV 2 GNSS
+B1
+RNAV 5 të gjithë sensorët e lejuar
+C3
+RNAV 2 DME/DME
+B2
+RNAV 5 GNSS
+C4
+RNAV 2 DME/DME/IRU
+B3
+RNAV 5 DME/DME
+B4
+RNAV 5 VOR/DME
+D1
+RNAV 1 të gjithë sensorët e lejuar
+B5
+RNAV 5 INS or IRS
+D2
+RNAV 1 GNSS
+B6
+RNAV 5 LORANC
+D3
+RNAV 1 DME/DME
+D4
+RNAV 1 DME/DME/IRU
+SPECIFIKIMET RNP
+L1
+RNP 4
+S1
+RNP APCH
+S2
+RNP APCH me BARO-VNAV
+O1
+RNP bazë 1 të gjithë sensorët e lejuar
+O2
+RNP bazë 1 GNSS
+T1
+RNP AR APCH me RF (kërkohet autorizim i veçantë)
+O3
+RNP bazë 1 DME/DME
+T2
+RNP AR APCH pa RF
+(kërkohet autorizim i veçantë)
+O4
+RNP bazë 1 DME/DME/IRU
+Kombinimet e karaktereve alfanumerike që nuk tregohen më lart janë të rezervuara.
+NAV/Të dhëna të rëndësishme, në lidhje me pajisjet e lundrimit, të ndryshme nga ato të specifikuara në PBN/, siç kërkohet nga autoriteti kompetent.
+Tregoni shtimin GNSS nën këtë tregues, me një hapësirë midis dy ose më shumë metodave të shtimit, p.sh. NAV/GBAS SBAS.
+Tregoni EURPRNAV nëse avioni i miratuar P-RNAV mbështetet vetëm në VOR/DME për përcaktimin e pozicionit.
+COM/Tregoni pajisjet dhe aftësitë e komunikimit që nuk janë specifikuar në pikën 10(a).
+DAT/Tregoni pajisjet dhe aftësitë e komunikimit të të dhënave që nuk specifikohen në pikën 10(a) ose “CPDLCX” për të treguar përjashtimin e dhënë nga kërkesa për t’u pajisur me CPDLC-ATN-B1.
+SUR/Tregoni pajisjet dhe aftësitë e mbikëqyrjes që nuk specifikohen në pikën 10(b). Tregoni sa më shumë specifikime të RSP-së që zbatohen për fluturimin, duke përdorur përcaktimin/et pa hapësirë. Specifikimi i shumëfishtë RSP janë të ndara nga një hapësirë. Shembull: RSP180 RSP400.
+Shto EUADSBX, EUEHSX, EUELSX ose një kombinim të tyre, për të treguar përjashtimet e dhëna për kërkesën për t’u pajisur me transponderë të modalitetit SSR S ose transmetues ADS-B.
+DEP/Emri dhe vendndodhja e aeroportit të nisjes, nëse ZZZZ është shtuar në pikën 13, ose njësia ATS nga e cila mund të merren të dhënat plotësuese të planit të fluturimit, nëse AFIL është shtuar në pikën 13. Për aerodromet që nuk renditen në publikimin përkatës të informacionit aeronautik, tregoni vendndodhjen si në vazhdim:
+Me 4 shifra që përshkruajnë gjerësinë gjeografike në gradë dhe dhjetëra dhe njësi minutash të ndjekura nga “N” (Veri) ose “S” (Jug), e ndjekur nga 5 shifra që përshkruajnë gjatësinë gjeografike në gradë dhe dhjetëra dhe njësi minutash, e ndjekur nga “E” (Lindje) ose “W” (Perëndim). Plotësoni numrin e saktë të shifrave, sipas nevojës, duke shtuar zero, p.sh. 4620N07805W (11 karaktere).
+OSE, Mbajtja dhe distanca nga pika më e afërt e rëndësishme, si më poshtë:
+Identifikimi i pikës domethënëse e ndjekur nga mbajtja nga pika në formën e 3 shifrave që japin gradë magnetike, e ndjekur nga largësia nga pika në formën e 3 shifrave që shprehin NM. Në zonat me gjerësi të madhe gjeografike ku përcaktohet nga autoriteti përkatës se referenca në shkallët magnetike është jopraktike, mund të përdoren shkallët e vërteta. Plotësoni numrin e saktë të shifrave, sipas nevojës, duke shtuar zero, p.sh. një pikë magnetike 180° në një distancë prej 40 NM nga VOR “DUB” duhet të shprehet si DUB180040.
+OSE, Pika e parë e itinerarit (emri ose LAT/LONG) ose sinjalizuesi i radios, nëse avioni nuk është ngritur nga një aerodrom.
+DEST/Emri dhe vendndodhja e aeroportit të destinacionit, nëse ZZZZ është shtuar në pikën 16. Për aerodromet që nuk renditen në publikimin përkatës të informacionit aeronautik, tregoni vendndodhjen në LAT/LONG ose mbajtja dhe distancën nga pika më e afërt e rëndësishme, siç përshkruhet në DEP/më sipër.
+DOF/Data e nisjes së fluturimit në një format 6-shifror (YYMMDD, ku YY është e barabartë me vitin, MM është e barabartë me muajin dhe DD është e barabartë me ditën).
+REG/Kombësia ose shenja e përbashkët dhe shenja e regjistrimit të avionit, nëse është e ndryshme nga identifikimi i avionit në pikën 7.
+EET/Pikat e rëndësishme ose caktuesit e kufijve FIR dhe koha e llogaritur e akumuluar e kaluar nga ngritja deri në pika të tilla ose kufij FIR, kur parashikohet kështu në bazë të marrëveshjeve rajonale të navigimit ajror, ose nga autoriteti kompetent.
+Shembuj: EET/CAP0745 XYZ0830
+EET/EINN0204
+SEL/Kodi SELCAL, për avionët e pajisur në këtë mënyrë.
+TYP/Lloji/et e avionit, të paraprirë nëse është e nevojshme pa hapësirë sipas numrit/ave të avionit dhe të ndara me një hapësirë, nëse ZZZZ është shtuar në pikën 9.
+Shembull: TYP/2F15 5F5 3B2
+CODE/Adresa e avionit (e shprehur në formën e një kodi alfanumerik me 6 karaktere heksadecimal), kur kërkohet nga autoriteti kompetent. Shembull: “F00001” është adresa më e ulët e avionit që gjendet në bllokun specifik të administruar nga ICAO-ja.
+DLE/Vonesë ose mbajtje gjatë rrugës, futni pikat e rëndësishme në itinerarin ku është planifikuar të ndodhë një vonesë, e ndjekur nga kohëzgjatja e vonesës, duke përdorur kohën 4-shifrore në orë dhe minuta (hhmm).
+Shembull. DLE/MDG0030
+OPR/Përcaktuesi i ICAO-së ose emri i operatorit të avionit, nëse është i ndryshëm nga identifikimi i avionit në pikën 7.
+ORGN/Adresa AFTN me 8 shkronja e autorit ose detaje të tjera të përshtatshme kontakti, në rastet kur nisësi i planit të fluturimit mund të mos identifikohet lehtësisht, siç kërkohet nga autoriteti kompetent.
+PER/Të dhënat e performancës së avionit, të treguara me një shkronjë të vetme, siç specifikohet në procedurat për shërbimet e navigimit ajror - operacionet e avionit (PANS-OPS, Doc 8168), vëllimi I - Procedurat e Fluturimit, nëse është e përshkruar nga autoriteti kompetent.
+ALTN/Emri i aeroportit/ave alternativ të destinacionit, nëse ZZZZ është shtuar në pikën 16. Për aerodromet që nuk renditen në publikimin përkatës të informacionit aeronautik, tregoni vendndodhjen në LAT/LONG ose mbajtjen dhe distancën nga pika më e afërt e rëndësishme, siç përshkruhet në DEP/më sipër.
+RALT/Treguesit me 4 shkronja të ICAO-së për alternativat gjatë rrugës, siç specifikohet në dokumentin 7910, “Treguesit e vendndodhjes”, ose emrat e aeroportit/eve) alternative gjatë rrugës, nëse nuk është caktuar tregues. Për aerodromet që nuk renditen në publikimin përkatës të informacionit aeronautik, tregoni vendndodhjen në LAT/LONG ose mbajtjen dhe distancën nga pika më e afërt e rëndësishme, siç përshkruhet në DEP/më sipër.
+TALT/Treguesit me 4 shkronja ICAO për alternativën e ngritjes, siç specifikohet në Doc 7910, treguesit e vendndodhjes, ose emrin e aeroportit alternativ të ngritjes, nëse nuk është caktuar asnjë tregues. Për aerodromet që nuk renditen në publikimin përkatës të informacionit aeronautik, tregoni vendndodhjen në LAT/LONG ose mbajtjen dhe distancën nga pika më e afërt e rëndësishme, siç përshkruhet në DEP/më sipër.
+RIF/Detajet e itinerarit për në aeroportin e rishikuar të destinacionit, të ndjekura nga treguesi i vendndodhjes me 4 shkronja ICAO të aeroportit. Itinerari i rishikuar i nënshtrohet rilejimit gjatë fluturimit.
+Shembuj: RIF/DTA HEC KLAX
+RIF/ESP G94 CLA YPPH
+RVR/Kërkesa minimale e diapazonit vizual të pistës për fluturimin e shprehur në 3 shifra.
+RFP/Treguesi i numrit të planeve të fluturimit zëvendësues të paraqitur në formatin “Q” i ndjekur nga 1 shifër që tregon përsëritjen e zëvendësimit.
+Shembuj: RFP/Q2.
+RMK/Çdo vërejtje tjetër në gjuhë të thjeshtë, kur kërkohet nga autoriteti kompetent ose konsiderohet e nevojshme.
+Jetëgjatësia
+Pas E/SHTONI një grup me 4 shifra që jep jetëgjatësinë e karburantit në orë dhe minuta.
+Personat në bord
+Pas P/SHTONI numrin total të personave (pasagjerë dhe ekuipazh) në bord, kur kërkohet nga autoritetet kompetente. INSERT TBN (për t’u njoftuar) nëse numri i përgjithshëm i personave nuk dihet në momentin e paraqitjes.
+Pajisjet e urgjencës dhe të mbijetesës
+R/(RADIO) FSHINI U nëse UHF në frekuencën 243,0 MHz nuk është i disponueshëm.
+FSHINI V nëse VHF në frekuencën 121,5 MHz nuk është i disponueshëm.
+FSHINI E nëse transmetuesi i gjetjes së urgjencës (ELT) nuk është i disponueshëm.
+S/(PAJISJET E MBIJETESËS) FSHINI të gjithë treguesit nëse pajisjet e mbijetesës nuk barten.
+FSHINI P-në nëse pajisjet e mbijetesës polare nuk barten. FSHINI D nëse nuk barten pajisjet e mbijetesës në shkretëtirë. FSHINI M nëse pajisjet e mbijetesës detare nuk barten. FSHINI J nëse pajisjet e mbijetesës në xhungël nuk barten.
+J/(XHAKETA) FSHINI të gjithë treguesit nëse nuk barten jelekët e shpëtimit.
+FSHINI L nëse jelekët e shpëtimit nuk janë të pajisura me drita.
+FSHINI F nëse jelekët e shpëtimit nuk janë të pajisura me fluoresceinë.
+FSHINI U ose V ose të dyja si në R/më sipër për të treguar aftësinë radio të xhaketave, nëse ka.
+D/(GOMONE)/
+(NUMRI) FSHIHNI treguesit D dhe C nëse nuk barten gomone; ose
+SHTONI numrin e gomoneve të bartura; dhe
+(KAPACITETI) - SHTONI kapacitetin total, në persona, të të gjitha gomoneve të bartura; dhe
+(COVER) - FSHINI Treguesin C nëse gomonet nuk janë të mbuluara; dhe
+(NGJYRA) - SHTONI ngjyrën e gomones nëse barten.
+A/(NGJYRA DHE SHENJAT E AVIONIT) SHTONI ngjyrën dhe shenjat dalluese të avionit
+N/(VËREJTJE) FSHINI treguesin N nëse nuk ka vërejtje, ose TREGONI ndonjë pajisje tjetër mbijetese të bartur dhe çdo vërejtje tjetër në lidhje me pajisjet e mbijetesës.
+C/(PILOT) SHTONI emrin e pilotit në komandë.
+2.3 Paraqitur nga
+SHTONI emrin e njësisë, agjencisë ose personit që paraqet planin e fluturimit.
