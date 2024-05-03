@@ -1,0 +1,3 @@
+8.
+Haskovo
+Dimitrovgrad*
