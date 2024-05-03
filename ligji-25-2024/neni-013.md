@@ -1,0 +1,23 @@
+# Neni 13
+Detyrat dhe përgjegjësitë e CSIRT-it Kombëtar
+Ekipi i Përgjigjes ndaj Incidenteve të Sigurisë Kibernetike pranë Autoritetit përmbush detyrat dhe përgjegjësitë e mëposhtme:
+a) komunikon në mënyrë aktive nëpërmjet një infrastrukture komunikimi dhe informacioni të përshtatshme, të sigurt dhe të qëndrueshme, përmes së cilës kryhet shkëmbimi i informacionit me operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit, me qëllim që të sigurohet vazhdimësia e veprimtarisë së tyre në çdo kohë dhe pa ndërprerje;
+b) ndërvepron me operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit nëpërmjet platformave të dedikuara për shpërndarje të informacionit dhe raportimin e incidenteve kibernetike për menaxhimin dhe trajtimin e tyre;
+c) monitoron, analizon dhe menaxhon kërcënimet kibernetike, vulnerabilitetet dhe incidentet në nivel kombëtar dhe ofron asistencë teknike për infrastrukturat kritike dhe të rëndësishme të informacionit, sipas kërkesës nga operatorët e infrastrukturave të informacionit;
+ç) vepron në cilësinë e koordinatorit për identifikimin e vulnerabiliteteve në rrjetet dhe sistemet e infrastrukturave të informacionit;
+d) monitoron, në bashkëpunim me operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit, rrjetet dhe sistemet në infrastrukturat e tyre mbi incidente të sigurisë kibernetike apo sulme kibernetike;
+dh) trajton incidentet kibernetike në bashkëpunim me operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit dhe jep zgjidhje konkrete duke u bazuar në politikat dhe masat e përcaktuara në këtë ligj, si dhe bashkëpunon me institucionet përkatëse ligjzbatuese kur dyshon për elemente të krimit kibernetik;
+e) paralajmëron, njofton dhe shpërndan informacion pranë infrastrukturave kritike dhe të rëndësishme të informacionit, si dhe subjekteve përgjegjëse në lidhje me rreziqet e mundshme, vulnerabilitetet dhe incidentet kibernetike;
+ë) mbledh dhe analizon të dhënat nëpërmjet hetimit digjital dhe ofron analizë dinamike të riskut dhe të incidentit, si dhe kryen ndërgjegjësimin për situatën aktuale të sigurisë kibernetike;
+f) siguron ruajtjen e log-eve të incidenteve të evidentuara ose të raportuara për një periudhë të përcaktuar në rregulloren e miratuar me urdhër të drejtorit të përgjithshëm të Autoritetit;
+g) kryen skanime proaktive të rrjeteve dhe të sistemeve të informacionit të operatorëve të infrastrukturave kritike dhe të rëndësishme të informacionit me qëllim identifikimin e vulnerabiliteteve me impakt të lartë të mundshëm, duke bërë me dije paraprakisht operatorin e infrastrukturës së informacionit për të gjitha elementet teknike dhe ligjore të kryerjes së këtyre skanimeve;
+gj) vlerëson kur infrastruktura është në një situatë me risk të lartë dhe kryen veprime reaktive në bashkëpunim me infrastrukturën pas vënies në dijeni të ndodhjes së incidentit kur shërbimi i ofruar nga infrastruktura ka ndaluar së funksionuari për më shumë se 4 orë. Metodologjia për vlerësimin e riskut të infrastrukturës përcaktohet me udhëzim të drejtorit të përgjithshëm të Autoritetit pas konsultimit me operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit;
+h) kontrollon zbatimin e masave të sigurisë kibernetike nga operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit;
+i) i përgjigjet çdo infrastrukture, në zbatim të procedurave të sigurisë, për të mbështetur në mënyrë aktive zgjidhjen e incidenteve;
+j) analizon dhe përgatit masa të natyrës së veçantë sipas incidentit kibernetik dhe i komunikon ato te CSIRT-et sektoriale dhe CSIRT-et pranë operatorëve të infrastrukturave kritike dhe të rëndësishme të informacionit;
+k) përgatit dhe miraton me urdhër të drejtorit të përgjithshëm të Autoritetit udhëzues, politika dhe rregullore për të harmonizuar dhe përmirësuar procedurat e menaxhimit të incidenteve kibernetike;
+l) mban regjistrin elektronik të pikave të kontaktit me të dhënat e përcaktuara në shkronjën “f” të nenit 16 dhe në nenin 18 të këtij ligji;
+ll) simulon rrjetet dhe sistemet për të gjetur pikat e dobëta të infrastrukturës, duke njoftuar paraprakisht operatorët;
+m) analizon incidentin për të gjetur shkakun e tij, si edhe koordinon aktivitetin me operatorët, CSIRT-et sektoriale, institucionet ndërkombëtare dhe qeveritare kur e shikon të arsyeshme;
+n) bashkëpunon me rrjetin e CSIRT-eve ndërkombëtare dhe ofron asistencë të përbashkët të bazuar në kapacitetet dhe kompetencat e tij, për anëtarët, pjesë e këtij rrjeti, sipas kërkesës;
+nj) koordinon me Policinë e Shtetit dhe çdo institucion përgjegjës për të ruajtur dhe mundësuar mbledhjen e provave kur dyshon për elemente të krimit kibernetik apo veprave të tjera penale të lidhura me to në infrastrukturat e informacionit.

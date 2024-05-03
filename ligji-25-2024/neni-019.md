@@ -1,0 +1,7 @@
+# Neni 19
+Shkëmbimi i informacionit
+1. Operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit shkëmbejnë vullnetarisht ndërmjet tyre informacione në lidhje me kërcënimet kibernetike, vulnerabilitetet, treguesit e kompromisit, teknikat dhe procedurat, informacione specifike për aktorët e kërcënimit, sinjalizime dhe rekomandime për sigurinë kibernetike, konfigurimin e mjeteve të sigurisë kibernetike për zbulimin e sulmeve kibernetike, me qëllim:
+a) parandalimin, zbulimin, reagimin ndaj incidenteve kibernetike ose rikuperimin apo zvogëlimin e ndikimit të incidenteve kibernetike;
+b) rritjen e nivelit të sigurisë kibernetike, veçanërisht nëpërmjet rritjes së ndërgjegjësimit në lidhje me kërcënimet kibernetike, duke kufizuar ose penguar përhapjen e kërcënimeve të tilla, duke u mbështetur në një sërë kapacitetesh mbrojtëse, korrigjimin dhe zbulimin e vulnerabiliteteve, teknikat e zbulimit, kontrollit dhe parandalimit të incidentit, reagimin dhe fazat e rikuperimit, si dhe promovimin e bashkëpunimit ndërmjet subjekteve publike dhe private referuar analizës së incidenteve kibernetike.
+2. Shkëmbimi vullnetar i informacionit ndërmjet operatorëve bëhet nëpërmjet marrëveshjeve për shkëmbimin e informacionit të sigurisë kibernetike, duke ruajtur në çdo rast konfidencialitetin e informacionit.
+3. Operatorët e infrastrukturave të informacionit, në përputhje me përcaktimet e këtij neni, kanë detyrimin të njoftojnë Autoritetin në çdo rast lidhur me nënshkrimin dhe përfundimin e marrëveshjeve për ndarjen e informacionit.

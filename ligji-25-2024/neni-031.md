@@ -1,0 +1,11 @@
+# Neni 31
+Detyrimet e operatorëve të infrastrukturave kritike dhe të rëndësishme të informacionit
+1. Operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit kanë detyrimin të raportojnë të gjitha infrastrukturat e tyre kritike, të rëndësishme, si dhe të gjitha infrastrukturat e tjera që ndërveprojnë me to pranë Autoritetit.
+2. Operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit kanë detyrimin të raportojnë pranë Autoritetit në vazhdimësi çdo infrastrukturë të re, të administruar prej tyre, që ndërvepron me infrastrukturat e kategorizuara kritike apo të rëndësishme.
+3. Operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit kanë detyrimin të dokumentojnë çdo ndryshim dhe zhvillim të kryer në infrastrukturat e tyre kritike dhe të rëndësishme.
+4. Operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit kanë detyrimin të vendosin në dispozicion të Autoritetit çdo dokumentacion dhe evidencë që kërkohet nga Autoriteti në kuadër të procesit të kontrollit.
+5. Operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit, në kuadër të aktivitetit mbikëqyrës, i ofrojnë CSIRT-it Kombëtar akses të drejtpërdrejtë në ambientet dhe sistemet e tyre të informacionit, në zbatim të procedurave të sigurisë të çdo operatori të këtyre infrastrukturave, të cilat janë të lidhura me shërbimet e ofruara prej tyre.
+6. Operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit janë të detyruar të zbatojnë masat korrigjuese të lëna nga Autoriteti, si dhe të raportojnë për zbatimin e tyre.
+7. Për implementimin efektiv të masave të sigurisë kibernetike, operatorët paraqesin pranë Autoritetit raportin e vlerësimit të konformitetit nga një organ i vlerësimit të konformitetit për sigurinë kibernetike të paktën një herë në 2 vjet.
+8. Operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit janë të detyruar të marrin masa të shtuara teknike, në përputhje me përcaktimet e bëra në vendimin e Këshillit të Ministrave, për përmbajtjen dhe mënyrën e dokumentimit të masave të sigurisë kibernetike.
+9. Operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit janë të detyruar të bashkëpunojnë me Autoritetin në kuadër të realizimit të funksioneve mbikëqyrëse, të përcaktuara në këtë ligj.
