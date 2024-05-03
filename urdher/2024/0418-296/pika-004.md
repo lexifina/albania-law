@@ -1,0 +1,1 @@
+4. Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës (DSHPA), të koordinojë veprimtarinë organizative, teknike dhe financiare me Qendrën e Prodhimit të Rasateve të Koranit në fshatin Lin të Pogradecit, për gatishmërinë e marrjes së riprodhuesve të krapit (Cyprynus Carpio).

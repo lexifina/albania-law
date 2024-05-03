@@ -1,0 +1,1 @@
+6. Veprimtaria e grumbullimit të riprodhuesve, të organizohet dhe kryhet nën drejtimin e DSHPA-së në bashkëpunim me OMP Pogradec, duke përcaktuara dhe aktivizuar për këtë qëllim jo më shumë se 20 peshkatarë me përvojë, anëtarë të kësaj OMP-je.
