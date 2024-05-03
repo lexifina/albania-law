@@ -1,0 +1,1 @@
+2. Urdhri i ministrit të Infrastrukturës dhe Energjisë nr. 167, datë 4.6.2020, “Për miratimin e rregullores mbi vazhdueshmërinë e vlefshmërisë ajrore të avionit dhe produkteve, pjesëve dhe pajisjeve aeronautike dhe mbi miratimin e organizatave dhe personelit të përfshirë në këto detyra”, shfuqizohet.
