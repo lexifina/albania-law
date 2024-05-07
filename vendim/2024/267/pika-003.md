@@ -1,0 +1,2 @@
+3. Ngarkohen Ministria e Infrastrukturës dhe Energjisë, Ministria e Drejtësisë, Ministria e Brendshme, njësitë e vetëqeverisjes vendore, Inspektorati Vendor i Mbrojtjes së Territorit, Inspektorati Kombëtar i Mbrojtjes së Territorit, institucionet publike që kryejnë oponencën dhe çdo autoritet publik që mbikëqyr veprimtarinë e ndërtimit për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
