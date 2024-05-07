@@ -215,8 +215,7 @@ SANKSIONE
 a) Heqja e së drejtës për ushtrimin e aktivitetit ose pezullimin e përkohshëm në zbatim, për periudha të ndryshme të shoqërive apo kategori të drejtuesve teknikë të shoqërive, në rastet kur:
 I. Konstatohen ose provohen deklarime (sipas parashikimeve në këtë rregullore) të rreme, dokumente të pavërteta të subjektit deklarues. Në këtë rast komisioni heq licencën për një periudhë 5 vjet.
 II. Shoqëria kryen veprimtari pa drejtues teknik ose shkel afatet e njoftimit të caktuara në këtë rregullore. Në këtë rast komisioni heq licencën për shoqërinë/drejtuesit për një periudhë 3 vjet.
-III. Ka propozime të motivuara nga institucionet që kanë lidhje me procesin e ndërtimit, organet e qeverisjes qendrore apo vendore, për shkelje të ligjshmërisë në ndërtim hiqet për një periudhë 3 vjet. Në këtë rast komisioni heq licencën e shoqërisë për një periudhë 3 vjet. Për këtë rast ngarkohen struktura të ministrisë për të verifikuar propozimin, të cilat brenda 30 ditëve hartojnë raportvlerësimin që shqyrtohet në mbledhjen e radhës së komisionit.
-b) Për masat e marra njoftohet subjekti përkatës dhe institucionet që kanë lidhje me procesin e zbatimit të punimeve të ndërtimit. Gjithashtu për rastet e deklarimeve të rreme sanksioni administrativ shoqërohet dhe me kallëzim në organin e akuzës.
+III. Shfuqizuar.
 KREU VIII
 ANKIMI
 A) Për çdo vendim të komisionit, subjektet e interesuara, kanë të drejtën e ankimit te Ministri i Transportit dhe Infrastrukturës, brenda 30 ditëve, nga data e njoftimit. Titullari i ministrisë, pasi merr në shqyrtim ankesën e paraqitur nga subjekti, vendos brenda 10 ditëve:
