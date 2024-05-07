@@ -1,0 +1,1 @@
+1. Çdo individ apo person juridik, që kërkon të ushtrojë veprimtari në fushën e studimit e të projektimit në ndërtim dhe të mbikëqyrjes e kolaudimit të punimeve të zbatimit në ndërtim duhet të pajiset me licencën profesionale përkatëse dhe të regjistrohet në regjistrat profesionalë të subjekteve të licencuara në këto fusha, bazuar në rregulloren bashkëlidhur këtij vendimi.

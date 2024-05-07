@@ -1,0 +1,1 @@
+3. Vendimet e Këshillit të Ministrave nr. 412, datë 15.9.1992, “Për krijimin e komisionit të posaçëm për dhënien e licencave profesionale”, e nr. 613, datë 13.12.1993, “Për ushtrimin e veprimtarisë në ndërtim dhe projektim të shoqërive”, si dhe çdo akt nënligjor që bie ndesh me këtë vendim shfuqizohen.
