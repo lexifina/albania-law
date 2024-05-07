@@ -1,0 +1,1 @@
+12. KVD-ja dërgon në AKAP listën paraprake të përgatitur si më sipër, për t’a publikuar në portalin “Mësues për Shqipërinë”. Në të njëjtën ditë që publikohet lista paraprake, KVD-ja njofton në formë elektronike kandidatët e kualifikuar, lidhur me vlerësimin e dosjes, si dhe kandidatët që nuk janë kualifikuar dhe arsyen e moskualifikimit.

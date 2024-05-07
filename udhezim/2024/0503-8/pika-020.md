@@ -1,0 +1,1 @@
+20. QSHA-ja, brenda 3 (tri) ditëve pune nga përfundimi i sezonit të provimeve të licencimit për profesionin e rregulluar të mësuesit, dërgon në AKAP listën e kandidatëve që kanë kaluar me sukses provimin e licencimit dhe kanë marrë pjesë edhe në testimin e informatizuar për pjesëmarrje në portal, me pikët e fituara sipas parashikimit të shkronjës “b”, të pikës 1, të këtij kreu.

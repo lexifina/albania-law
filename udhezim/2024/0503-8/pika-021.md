@@ -1,0 +1,1 @@
+21. Kandidati, i përcaktuar në pikën 19 të këtij kreu, brenda 10 (dhjetë) ditëve, regjistrohet në e-albania në portalin “Mësues për Shqipërinë” dhe ngarkon dokumentacionin e përcaktuar në pikën 3, të këtij kreu.

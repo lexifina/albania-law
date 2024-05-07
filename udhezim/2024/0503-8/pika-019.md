@@ -1,0 +1,1 @@
+19. Kandidati që kryen provimin e licencimit dhe e kalon me sukses këtë provim, ka të drejtë që në të njëjtën ditë të kryejë edhe testimin e informatizuar për të konkurruar për pjesëmarrje në portalin “Mësues për Shqipërinë”.

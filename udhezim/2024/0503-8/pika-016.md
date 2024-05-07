@@ -1,0 +1,1 @@
+16. Kandidati ka të drejtë të paraqesë ankim në QSHA dhe për dijeni në AKAP, brenda 3 (tri) ditëve pune nga marrja e rezultatit të testimit të informatizuar. QSHA-ja në bashkëpunim me ASCAP-in, brenda 5 (pesë) ditëve pune nga dita e paraqitjes së ankesës, e shqyrton atë, i kthen përgjigje ankuesit dhe reflekton ndryshimin e pikëve, kur pranohet ankesa.

@@ -1,0 +1,1 @@
+9. Regjistrimi i kandidatëve bëhet në e-albania, në portalin “Mësues për Shqipërinë”. Afati për kryerjen e aplikimit dhe ngarkimit të dokumentacionit është 15 (pesëmbëdhjetë) ditë nga data e shpalljes.

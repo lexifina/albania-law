@@ -1,0 +1,1 @@
+17. AKAP-ja bën renditjen e kandidatëve sipas pikëve totale, që nxirret nga shuma e pikëve të marra në vlerësimin e dosjes së aplikimit dhe pikëve të marra në testimin e informatizuar. Renditja fillon me kandidatin me më shumë pikë dhe vijon në rend zbritës. Lista publikohet në portalin “Mësues për Shqipërinë” dhe në faqen zyrtare të institucionit.

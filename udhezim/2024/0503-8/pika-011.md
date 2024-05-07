@@ -1,0 +1,1 @@
+11. KVD-ja, brenda 15 (pesëmbëdhjetë) ditëve pune pas përfundimit të afatit të aplikimeve, vlerëson dokumentacionin e ngarkuar nga kandidatët dhe harton listën emërore për çdo profil, sipas çdo ZVAP-je. Renditja fillon me kandidatin me më shumë pikë dhe vijon në rend zbritës.

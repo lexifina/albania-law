@@ -1,0 +1,1 @@
+4. Agjencia Kombëtare e Arsimit Parauniversitar (AKAP) është institucioni përgjegjës për procedurat e konkurrimit dhe të pranimit të mësuesve në një vend të lirë pune në institucionet arsimore parauniversitare publike. Drejtoritë rajonale të arsimit parauniversitar (DRAP) organizojnë procedurat sipas këtij udhëzimi.
