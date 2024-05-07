@@ -1,0 +1,1 @@
+1. Autorizimin e drejtorit të përgjithshëm të Agjencisë Kombëtare të Shoqërisë së Informacionit, për negocimin dhe nënshkrimin e marrëveshjes së partneritetit strategjik ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe shoqërisë “Oracle Corporation”.

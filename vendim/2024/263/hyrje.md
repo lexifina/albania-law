@@ -1,0 +1,5 @@
+VENDIM
+Nr. 263, datë 2.5.2024
+PËR AUTORIZIMIN E DREJTORIT TË PËRGJITHSHËM TË AGJENCISË KOMBËTARE TË SHOQËRISË SË INFORMACIONIT, PËR NEGOCIMIN DHE NËNSHKRIMIN E MARRËVESHJES SË PARTNERITETIT STRATEGJIK NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE SHOQËRISË “ORACLE CORPORATION”
+Në mbështetje të nenit 100 të Kushtetutës dhe të shkronjës “d”, të nenit 31, të ligjit nr. 43/2023, “Për qeverisjen elektronike”, me propozimin e Kryeministrit, Këshilli i Ministrave
+VENDOSI:
