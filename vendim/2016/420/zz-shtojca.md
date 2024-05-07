@@ -484,6 +484,7 @@ Dhënia e dekoratave, titujve të nderit, medaljeve dhe titujve vendorë të nde
 |22 Mars |Dita e Nevruzit |
 |1 Maj |Dita e Punëtorëve |
 |5 shtator |Dita e Shenjtërimit të Shenjt Terezës |
+|22 nëntor |Dita e Alfabetit |
 |28 Nëntor |Dita e Pavarësisë |
 |29 Nëntor |Dita e Çlirimit të Atdheut |
 | |Bajrami i Madh |
@@ -511,7 +512,6 @@ Në ditët e festave zyrtare dhe ditët e përkujtimit publik, në selinë e ins
 |1 Tetor |Dita e të Moshuarve |
 |24 Tetor |Dita e OKB-së |
 |17 Nëntor |Dita e Çlirimit të Tiranës |
-|20 Nëntor |Dita e Alfabetit |
 Ministritë përgjegjëse, për ditët e shënuara, kombëtare apo ndërkombëtare, me karakter ndërgjegjësues, të caktuara sipas legjislacionit në fuqi, organizojnë veprimtari përkatëse, sipas rregullave të protokollit të tyre.
 Në ditët e shënuara mund të përfshihen edhe ditë të tjera, përkujtimi ose festimi i të cilave, në nivel kombëtar, bëhet me vendim të Këshillit të Ministrave dhe në nivel vendor me vendim të njësive të organeve të qeverisjes vendore (p.sh. dita e ngritjes së flamurit në qytet apo e themelimit të qytetit). Veprimtaritë, që kryhen në përkujtim apo festim të ditëve të shënuara, përcaktohen, rast pas rasti, në vendimin e përkujtimit, ku, përveç ceremonisë, përcaktohen edhe masat për zbukurimin e shesheve qendrore. Pjesëmarrja e personaliteteve të larta shtetërore në përkujtimin e ditëve të shënuara bashkërendohet nga Protokolli i Shtetit.
 6.5. Realizimi i dekorit të godinave të ministrive me rastin e festave zyrtare, të parashikuara në nënpikën 6.2., të këtij kapitulli, të bëhet nga Bashkia Tiranë, bazuar në kërkesat e ministrive. Marrëdhëniet ndërmjet ministrive dhe Bashkisë Tiranë për realizimin e dekorit të ministrive rregullohen me udhëzim të ministrit të Financave dhe Ekonomisë.
