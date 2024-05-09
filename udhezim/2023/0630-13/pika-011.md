@@ -15,8 +15,8 @@ SË ARSIMIT TË MESËM TË LARTË
 1.7 SNJD-ja llogarit afatet e përcaktuara në këtë udhëzim për njohjen dhe njësimin e diplomës, duke iu referuar datës së plotësimit të praktikës me të gjithë dokumentacionin e plotë.
 2. QSHA-ja, në zbatim të procedurës së verifikimit:
 a) Kërkon çdo informacion shtesë që e konsideron të nevojshëm për vlerësimin objektiv për njohjen dhe njësimin e diplomës;
-b) I kërkon IA-së përkatëse, përmes postës elektronike, konfirmimin e autenticitetit, të paktën dy herë, dhe në rast mospërgjigjeje, konfirmimi kërkohet me shkresë zyrtare (dërguar me postë zyrtare). Gjithashtu, konfirmimi kërkohet edhe nga institucionet e tjera përgjegjëse sipas rastit.
-c) Në rast se pas 1 (një) viti nga momenti i kërkesës së konfirmimit me shkresë zyrtare, ende nuk ka një përgjigje nga IA-ja, shqyrtimi i aplikimit përkatës ndërpritet dhe dokumentacioni arkivohet në QSHA. Aplikanti njoftohet për vendimin e Komisionit të Njohjes së Diplomave mbi arkivimin e dokumentacionit.
+b) Shfuqizuar.
+c) Shfuqizuar
 d) QSHA-ja, sipas rastit, kërkon informacion pranë qendrave të Rrjetit Evropian të Informimit dhe Njohjes së Diplomave (ENIC-NARIC) dhe institucioneve përgjegjëse të shteteve të tjera mbi statusin e institucioneve të arsimit parauniversitar, vlefshmërinë e diplomave, nivelin e tyre sipas kornizës kombëtare apo evropiane të kualifikimeve, si dhe informacion tjetër shtesë në funksion të njësimit të diplomës.
 e) Materialet shkresore ose të printuara për të gjitha verifikimet e kryera, depozitohen në dosjen e aplikantit. Për verifikimet e kryera online, dokumentacioni i printuar nënshkruhet nga nëpunësi që kryen verifikimet dhe depozitohet në dosjen e aplikantit.
 3. Komisioni i Njohjes së Diplomave ngrihet me urdhër të titullarit të QSHA-së, si dhe drejtohet nga kryetari dhe përbëhet nga tre anëtarë. Komisioni i Njohjes së Diplomave shqyrton, njeh dhe njëson diplomën e arsimit të mesëm të lartë.

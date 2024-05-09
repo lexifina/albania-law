@@ -33,8 +33,7 @@ Brenda 5 (pesë) ditëve nga fillimi i procedurës së njohjes dhe njësimit, ZV
 1.4 Komisioni i Njohjes së Dëftesave llogarit afatet e përcaktuara në këtë udhëzim për njohjen dhe njësimin e dëftesës së përfundimit të arsimit bazë dhe të dëftesës/dëftesave të klasave, duke iu referuar datës së plotësimit të praktikës me të gjithë dokumentacionin e plotë.
 2. ZVAP-ja, në zbatim të procedurës së verifikimit:
 a) Kërkon çdo informacion shtesë që e konsideron të nevojshëm për vlerësimin objektiv për njohjen dhe njësimin e dëftesës së përfundimit të arsimit bazë dhe të dëftesës/dëftesave të klasave të arsimit parauniversitar.
-b) I kërkon institucionit arsimor (IA) përkatës, përmes postës elektronike, konfirmimin e autenticitetit, të paktën dy herë dhe, në rast mospërgjigjeje, konfirmimi kërkohet me shkresë zyrtare (dërguar me postë zyrtare). Në rast se pas 1 (një) viti nga momenti i kërkesës së konfirmimit me shkresë zyrtare, ende nuk ka një përgjigje nga IA-ja, shqyrtimi i aplikimit përkatës ndërpritet dhe dokumentacioni arkivohet në ZVAP. Aplikanti njoftohet për vendimin e komisionit mbi arkivimin e dokumentacionit.
-Gjithashtu, konfirmimi kërkohet edhe nga institucionet e tjera përgjegjëse sipas rastit.
+b) Shfuqizuar.
 c) Depoziton në dosjen e aplikantit materialet shkresore ose të printuara për të gjitha verifikimet e kryera shkresore ose të printuara. Për verifikimet e kryera online, dokumentacioni i printuar nënshkruhet nga nëpunësi që kryen verifikimet dhe depozitohet në dosjen e aplikantit.
 3. Komisioni i Njohjes së Dëftesave ngrihet me urdhër të titullarit të ZVAP-së, si dhe drejtohet nga kryetari dhe përbëhet nga tre anëtarë. Komisioni shqyrton, njeh dhe njëson dëftesën e përfundimit të arsimit bazë dhe dëftesa klase të arsimit parauniversitar.
 4. Njëvlershmëria e rezultateve të arritura në shtetin përkatës të kryhet sipas shtojcës nr. 3, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
