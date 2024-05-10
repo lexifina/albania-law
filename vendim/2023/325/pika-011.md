@@ -7,7 +7,7 @@ Inspektorët veterinarë kufitarë, inspektorët fitosanitarë kufitarë dhe ins
 11/5. Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) për pozicionet e punës së nëpunësve për emërtesat “specialist” deri në “titullar i degës” në degët rajonale të Inspektoratit Shtetëror Shëndetësor janë sipas lidhjes nr. 12/5, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
 11/6. Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) për pozicionet e punës së nëpunësve për emërtesat “specialist” deri në “titullar i zyrës përmbarimore vendore” në zyrat përmbarimore vendore të Shërbimit Përmbarimor Gjyqësor Shtetëror janë sipas lidhjes nr. 12/6, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
 IV. DISPOZITA KALIMTARE DHE TË FUNDIT
-1. Punonjësit e projekteve, me tituj “Projekte me KfW”, “Projekti i kanalizimeve të Tiranës së Madhe”, “Projekti i shërbimeve esenciale”, në Agjencinë Kombëtare të Ujësjellës-Kanalizimeve dhe Infrastrukturës së Mbetjeve, deri në përfundimin e projektit përkatës të trajtohen me pagë, si më poshtë vijon:
+1. Punonjësit e projekteve, me tituj “Projekte me KfW”, “Projekti i kanalizimeve të Tiranës së Madhe”, “Projekti i shërbimeve esenciale”, në Agjencinë Kombëtare të Ujësjellës-Kanalizimeve, deri në përfundimin e projektit përkatës të trajtohen me pagë, si më poshtë vijon:
 a) drejtues projekti (koordinator): klasa I-4;
 b) specialist: klasa IV-1.
 2. Nëpunësit e Sekretariatit Kombëtar të Nismës për Transparencë në Industrinë Nxjerrëse (EITI - Shqipëri), të cilët, sipas organizimit të mëparshëm, kanë pasur emërtesën “koordinator” dhe një nivel page më të lartë se përcaktimi i këtij vendimi, do të vazhdojnë të përfitojnë pagën që kanë pasur sipas organizimit të mëparshëm.
@@ -26,7 +26,7 @@ vi. përkatësisht klasat IV-1, IV-2, IV-3 ose IV-4, për të gjitha rastet e tj
 a) Departamenti i Administratës Publike të mbështesë dhe të sqarojë institucionet, pjesë e fushës së veprimit të këtij vendimi, për zbatimin e klasave të pagave deri në momentin e miratimit të strukturave dhe organikave të reja;
 b) institucionet e administratës publike, pjesë e fushës së veprimit të këtij vendimi, të propozojnë deri në datën 30 qershor 2023, sipas legjislacionit në fuqi, ndryshimet në strukturat dhe organikat ekzistuese për përshtatjen e tyre sipas klasave të pagave, të përcaktuara në këtë vendim;
 c) Ministria e Financave dhe Ekonomisë të nxjerrë udhëzimin përkatës për llogaritjen e pagës mujore bruto, në zbatim të këtij vendimi.
-7. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, fillojnë nga data 1 prill 2023 dhe për vitin 2023 përballohen:
+7. Efektet financiare[1], që rrjedhin nga zbatimi i këtij vendimi, fillojnë nga data 1 prill 2023 dhe për vitin 2023 përballohen:
 a) për sistemin e Ministrisë së Mbrojtjes, nga fondet e akorduara për këtë ministri, për këtë vit;
 b) për institucionet e tjera, nga fondet e kontingjencës, të miratuara për vitin 2023.
 Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
