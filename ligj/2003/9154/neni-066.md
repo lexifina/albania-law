@@ -1,2 +1,2 @@
 # Neni 66
-Shfrytëzimi i dokumenteve arkivore mund të lejohet edhe për rastet e parashikuara në nenin 65, nëse një interes publik më i lartë e përligj hapjen.
+Shfuqizuar. (shfuqizuar me Ligjin nr. 27/2024, datë 4.4.2024)
