@@ -48,7 +48,7 @@ Vlera e shtesës së nivelit të kualifikimit
 | |të arsimit të lartë.) | |
 Lidhja nr. 3
 Masa e shtesës për kushte pune (natyrë të veçantë pune) për disa nga funksionarët e kabineteve, nëpunësit civilë dhe nëpunësit e përcaktuar në pikën 1, të kreut I, të vendimit
-1. Në administratën e Presidentit dhe të Kuvendit nëpunësit/funksionarët në pozicionet “Sekretar i Përgjithshëm”, “Drejtor i kabinetit të Presidentit” dhe “Drejtor i kabinetit të Kryetarit të Kuvendit”, në masën 26 000 (njëzet e gjashtë mijë) lekë në muaj.
+1. Në administratën e Presidentit dhe të Kuvendit nëpunësit/funksionarët në pozicionet “Sekretar i Përgjithshëm”, “Drejtor i kabinetit të Presidentit” dhe “Drejtor i kabinetit të Kryetarit të Kuvendit”, në masën 26 000 (njëzet e jashtë mijë) lekë në muaj.
 2. Në Inspektoratin e Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave, nëpunësi në pozicionin “Sekretar i Përgjithshëm” në masën 15 000 (pesëmbëdhjetë mijë) lekë në muaj dhe nëpunësit në pozicionet “inspektor i lartë” e “ndihmësinspektor i lartë”, në masën 25 000 (njëzet e pesë mijë) lekë në muaj.
 3. Në Komisionin e Prokurimit Publik, nëpunësit në njësitë organizative të përmbajtjes, në masën 10 000 (dhjetë mijë) lekë në muaj.
 4. Në Qendrën për Teknologjinë e Informacionit për sistemin e Drejtësisë, në masën 70 000 (shtatëdhjetë mijë) lekë në muaj për nëpunësin në pozicionin “Drejtor ekzekutiv” dhe 60 000 (gjashtëdhjetë mijë) lekë në muaj për nëpunësit në pozicionet “specialist”.
@@ -119,7 +119,7 @@ c) specialistë të përmbajtjes në degët territoriale të Shërbimit të Prov
 a) 7 500 (shtatë mijë e pesëqind) lekë në muaj, për nëpunësit e strukturave TIK, të institucioneve të përcaktuara në shkronjat “a” deri në “d”, të pikës 1, të kreut I, të këtij vendimi;
 b) 5 000 (pesë mijë) lekë në muaj, për nëpunësit e strukturave të TIK, të institucioneve të përcaktuara në shkronjën “dh”, të pikës 1, të kreut I, të këtij vendimi.
 Zbatimi i shtesave si më sipër për pozicionet konkrete bëhet pas miratimit paraprak të Departamentit të Administratës Publike, sipas përshkrimit të pozicionit të punës.
-Përjashtohen nga ky parashikim nëpunësit e Agjencisë Kombëtare të Shoqërisë së Informacionit, Autoritetit Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike, Autoritetit Shtetëror për Informacionin Gjeohapësinor, Qendrës së Teknologjisë për Sistemin e Drejtësisë dhe nëpunësve që përfshihen në pikën 26, të kësaj lidhjeje.
+Përjashtohen nga ky parashikim nëpunësit e Agjencisë Kombëtare të Shoqërisë së Informacionit, Autoritetit Kombëtar për Sigurinë Kibernetike, Autoritetit Shtetëror për Informacionin Gjeohapësinor, Qendrës së Teknologjisë për Sistemin e Drejtësisë dhe nëpunësve që përfshihen në pikën 26, të kësaj lidhjeje.
 Në rast se për institucionet ku janë të punësuar nëpunësit në pozicionet e sipërpërmendura parashikohen shtesa të tjera, nëpunësit e strukturave TIK do të zgjedhin ndërmjet shtesave, por në asnjë rast nuk mund t’i përfitojnë të gjitha shtesat.
 Përjashtimisht, nëpunësit në pozicione IT të institucioneve të përcaktuara në shkronjat “b”, “c”, “ç” dhe “d”, të pikës 1, të kreut I, të këtij vendimi, që deri në datën e hyrjes në fuqi të këtij vendimi kanë përfituar shtesën në masën 15 000 (pesëmbëdhjetë mijë) lekë në muaj sipas përcaktimit të pikës 4/1, të vendimit nr. 187, datë 8.3.2017, të Këshillit të Ministrave, të ndryshuar, do të vijojnë të përfitojnë shtesën në të njëjtën masë deri në kalimin e këtyre pozicioneve pranë Agjencisë Kombëtare të Shoqërisë së Informacionit.
 26. “Specialistët”, “Përgjegjësit e sektorit”, “Drejtorët e drejtorive” apo “Drejtorët e Përgjithshëm” që zotërojnë diplomë universitare të nivelit “Master i Shkencave/Master Profesional/Bachelor” apo të barasvlershme me to, sipas legjislacionit të arsimit të lartë, në degët “Inxhinieri Elektronike”, “Inxhinieri informatike”, “Informatikë”, “Inxhinieri telekomunikacioni”, “Teknologji Informacioni”, “Informatikë ekonomike” “Informatikë biznesi”, “Inxhinieri matematike informatike”, “Inxhinieri matematike (në analiza sistemesh)”, “Shkenca kompjuterike” dhe që punojnë në: i. pozicione IT që janë përgjegjëse për zhvillimin apo ndjekjen e mirëmbajtjes së bazave të të dhënave shtetërore të miratuara e të regjistruara si të tilla pranë Autoritetit Rregullator Koordinues të Bazave të të Dhënave Shtetërore, sipas legjislacionit në fuqi, në institucionet e përcaktuara në shkronjën “a”, të pikës 1, të kreut I, të këtij vendimi dhe në Drejtorinë e Përgjithshme të Policisë së Shtetit, si dhe; ii. pozicione IT përgjegjës për sistemet informatike në administratën e Kuvendit, Autoritetin e Komunikimeve Elektronike dhe Postare, institucionet e sistemit të drejtësisë dhe drejtorisë përgjegjëse për fushën TIK në aparatin e Ministrisë së Mbrojtjes, në masën përkatësisht:
@@ -743,18 +743,18 @@ Klasat e pagave dhe shtesat për kushte pune të pozicioneve të punës së nëp
 |Specialist. |IV-3 |1 ose 2, ose 3 |0 |
 | | | | |
 Lidhja nr. 9/6
-Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) për pozicionet e punës së nëpunësve në Agjencinë Kombëtare të Kontrollit të Cannabis-it
-|Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune |
-| | | |(natyrë të veçantë pune) |
-| | | |(lek/muaj) |
-|Titullar i institucionit |I-3 |1 |20 000 |
-|Drejtor i drejtorive të përmbajtjes; |II-1 |1 |15 000 |
-|Koordinator. | | | |
+KLASAT E PAGAVE DHE SHTESAT PËR KUSHTE PUNE (NATYRË TË VEÇANTË PUNE) PËR POZICIONET E PUNËS SË NËPUNËSVE NË AGJENCINË KOMBËTARE TË KONTROLLIT TË CANNABIS-IT
+|Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune (natyrë |
+| | | |të veçantë pune) (lekë/muaj) |
+|Titullar i institucionit. |I-3 |1 |120 000 |
+|Drejtor i drejtorive të përmbajtjes. |II-1 |1 |110 000 |
+|Koordinator në varësi të drejtpërdrejtë të titullarit. | | | |
+|Koordinator me funksione drejtuese në njësitë |II-1 |1 |100 000 |
+|organizative të përmbajtjes. | | | |
+|Koordinator në njësitë organizative të përmbajtjes. |II-1 |1 |90 000 |
 |Drejtor i drejtorive mbështetëse. |II-2 |1 |0 |
-|Përgjegjës i sektorëve të përmbajtjes. |III-1 |1 |14 000 |
 |Përgjegjës i sektorëve mbështetës. |III-2 |1 |0 |
-|Specialist në sektorët apo drejtoritë e |IV-1 |1 ose 2 |14 000 |
-|përmbajtjes. | | | |
+|Specialist në sektorët apo drejtoritë e përmbajtjes. |IV-1 |1 ose 2 |90 000 |
 |Specialist në sektorët apo drejtoritë mbështetëse. |IV-2 |1 ose 2 ose 3 |0 |
 | |IV-3 | |0 |
 Lidhja nr. 10
@@ -1150,6 +1150,8 @@ Klasat e pagave të nëpunësve në pozicionet “specialist” deri në “titu
 |Drejtor i drejtorive të ujitjes dhe kullimit. | | |
 |Përgjegjës sektori në degën e thesarit Tiranë. | | |
 |Përgjegjës të degëve të tjera vendore të thesarit. | | |
+|Drejtor drejtorie në drejtoritë rajonale të | | |
+|arsimit parauniversitar. | | |
 |Përgjegjës sektori në drejtoritë rajonale të Agjencisë Kombëtare të |IV-1 |1 |
 |Punësimit dhe Aftësive. | | |
 |Përgjegjës seksioni në seksionet e administrimit dhe të mbrojtjes së tokës | | |
@@ -1254,3 +1256,5 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 |Titullar i zyrës. |II-1 |1 |15 000 |
 |Përgjegjës sektori. |IV-1 |1 |0 |
 |Specialist. |IV-2 |1 ose 2, ose 3 |0 |
+-----------------------
+[1] Vendimi nr.281, datë 8.5.2024 botuar në FZ nr.81 datë 10.5.2024, në pikën 2 të saj shprehet: “Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi:a) për përcaktimet e shkronjave “a”, “b” “c” dhe “d”, të pikës 1, të këtij vendimi, fillojnë nga data e emërimit/transferimit të nëpunësve në detyrë dhe për vitin 2024 përballohen nga fondet e miratuara për secilin institucion për këtë vit;b) për përcaktimin e shkronjës “ç”, të pikës 1, të këtij vendimi, fillojnë nga data 1 korrik 2024 dhe për vitin 2024 përballohen nga fondet e politikës për rritjen e pagave të përcaktuara në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
