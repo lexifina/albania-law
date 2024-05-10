@@ -1,0 +1,1 @@
+1. Autorizimin e Ministrisë së Mbrojtjes (Drejtorisë së Përgjithshme të Rezervave Materiale të Shtetit), që, në emër dhe për llogari të Kryeministrisë, si autoritet shitës, të kryejë procedurat e ankandit publik të artikujve të ndryshëm për skrap, deri në shpalljen e njoftimit të fituesit.
