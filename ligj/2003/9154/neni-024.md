@@ -1,5 +1,4 @@
 # Neni 24
-Arkivat e institucioneve shtetërore qendrore dhe vendore kanë detyrë:
-a) të evidentojnë korrespondencën që dërgohet ose merret nga institucioni;
-b) të bëjnë përpunimin arkivor, të ruajnë dhe të shërbejnë dokumentet që administrojnë;
-c) të dorëzojnë dokumentet në arkivat shtetërorë, sipas afateve ligjore përkatësisht sipas përshkrimit në nenin 9 shkronjat “b”, “c”, “ç” dhe “d” të këtij ligji.
+1. Arkivat qendrorë në veprim janë arkivat e ngritur në varësinë e një autoriteti qendror publik, të cilët ruajnë, përpunojnë, administrojnë dhe shërbejnë dokumentacionin e një tipologjie të veçantë, të përcaktuar në shkronjat “b” dhe “c”, të nenit 43 të këtij ligji, deri në përmbushjen e afatit të përcaktuar për dorëzimin në arkivin e përhershëm.
+2. Arkivat në veprim janë njësi strukturore ose nënstrukturore të autoriteteve publike, të cilët dorëzojnë në arkivin qendror në veprim përkatës dokumentet e tipologjisë, jo më vonë se 5 vjet nga data e mbylljes së dokumentit përkatës.
+3. Krijimi, rregullat e funksionimit dhe organizimit të arkivave qendrorë në veprim, si dhe afatet specifike për dorëzimin e dokumenteve të tyre pranë arkivave të përhershëm përkatës, sipas pikës 1, të nenit 43 të këtij ligji, përcaktohen me vendim të Këshillit të Ministrave.

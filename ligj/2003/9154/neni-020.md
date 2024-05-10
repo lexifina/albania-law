@@ -1,6 +1,5 @@
 # Neni 20
-1. Arkivat shtetërorë të sistemit funksionojnë pranë këtyre institucioneve: Ministrisë së Mbrojtjes, Ministrisë së Rendit Publik, Ministrisë së Punëve të Jashtme dhe Shërbimit Informativ Shtetëror.
-2. Institucioni i Kuvendit të Shqipërisë dhe ai i Presidentit i administrojnë dokumentet respektive në arkiva që funksionojnë në mënyrë të përhershme pranë tyre.
-3. Arkivat shtetërorë të sistemit funksionojnë pranë institucioneve shtetërore, të cilat, sipas Kushtetutës së Republikës të Shqipërisë, janë institucione të pavarura.
-4. Arkivi shtetëror i sistemit të drejtësisë (gjykatat e prokuroritë) krijohet dhe funksionon pranë Ministrisë së Drejtësisë.
-5. Arkivat e sistemit funksionojnë sipas kërkesave të këtij ligji.
+1. Institucioni i Kuvendit i administron dokumentet përkatëse në arkiva që funksionojnë në mënyrë të përhershme pranë tyre.
+2. Arkivat shtetërorë të sistemit janë Arkivi i Punëve të Brendshme, Arkivi i Forcave të Armatosura.
+3. Arkivi i Punëve të Brendshme ruan dhe administron të gjitha dokumentet e krijuara nga institucionet në varësi të ministrisë përgjegjëse për punët e brendshme, sigurinë dhe rendin publik pas vitit 1944, me përjashtim të atyre që u përkasin arkivave të tipologjisë, pas dorëzimit të tyre sipas përcaktimeve të këtij ligji.
+4. Arkivi i Forcave të Armatosura ruan dhe administron të gjitha dokumentet e krijuara nga institucionet në varësi të ministrisë përgjegjëse për Forcat e Armatosura pas vitit 1944, me përjashtim të atyre që u përkasin arkivave të tipologjisë, pas dorëzimit të tyre sipas përcaktimeve të këtij ligji.

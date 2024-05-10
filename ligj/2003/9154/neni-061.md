@@ -1,3 +1,7 @@
 # Neni 61
+(shtohen pika 3, 4, 5 me Ligjin nr. 27/2024, datë 4.4.2024)
 1. Dokumentet e publikuara një herë janë lirisht të shfrytëzueshme.
 2. Dokumentet që administrohen në institucionet arkivore shtetërore, jepen për shfrytëzim pasi kanë kaluar 25 vjet nga data e krijimit.
+3. Dokumentet, që ruhen në bazat e të dhënave shtetërore apo në sistemet e të dhënave shtetërore, shfrytëzohen në përputhje me rregullat e këtij ligji.
+4.Dokumentet e krijuara dhe/ose të ngarkuara në sistemin elektronik të projektakteve të Këshillit të Ministrave e-akte, që prej fillimit të funksionimit të këtij sistemi, konsiderohen pjesë e dokumentacionit të projektaktit. Ky rregull zbatohet për të gjitha dokumentet që janë ngarkuar në këtë sistem nga organet kompetente, sipas legjislacionit “Për organizimin dhe funksionimin e Këshillit të Ministrave”, duke përfshirë dokumentet elektronike që përmbajnë nënshkrimin elektronik apo vulën elektronike, dokumentet e tjera në format elektronik që nuk i përmbajnë këto elemente, si dhe dokumentet që ngarkohen si kopje e një dokumenti shkresor hard copy të vlefshëm, të krijuar jashtë sistemit.
+5.Dokumentet e përcaktuara në pikën 4 të këtij neni, në rast nevoje të arkivimit dhe/ose shpërndarjes e shfrytëzimit në format shkresor hard copy nga të tretë, pas printimit shoqërohen me vulën e institucionit ose me elemente të tjera teknologjike të autentifikimit, si: barcode, kode QR etj.

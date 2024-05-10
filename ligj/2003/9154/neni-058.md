@@ -1,2 +1,2 @@
 # Neni 58
-Punonjësit e rrjetit arkivor kombëtar shërbejnë dokumentet besnikërisht me origjinalin, pa komente ose interpretime.
+Punonjësit e Rrjetit Arkivor të Republikës së Shqipërisë shërbejnë dokumentet besnikërisht me origjinalin, pa komente ose interpretime.

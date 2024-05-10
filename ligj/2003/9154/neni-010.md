@@ -1,4 +1,5 @@
 # Neni 10
-1. Drejtoria e Përgjithshme e Arkivave është organi më i lartë i rrjetit arkivor kombëtar. Ajo është institucion qendror në varësi të Kryeministrit.
-2. Drejtoria e Përgjithshme e Arkivave është person juridik. Ajo ka vulën dhe stemën e vet. Selia e saj ndodhet në Tiranë.
-3. Drejtoria e Përgjithshme e Arkivave përfaqësohet nga Drejtori i Përgjithshëm, i cili emërohet dhe lirohet nga detyra prej Kryeministrit.
+1. Drejtoria e Përgjithshme e Arkivave është organi më i lartë i Rrjetit Arkivor të Republikës së Shqipërisë.
+2. Ajo është person juridik publik, buxhetor në varësi të Kryeministrit, me seli në Tiranë, si dhe ka vulën e stemën e saj.
+3. Drejtoria e Përgjithshme e Arkivave financohet nga buxheti i shtetit dhe burime të tjera të ligjshme.
+4. Drejtoria e Përgjithshme e Arkivave drejtohet nga drejtori i përgjithshëm.

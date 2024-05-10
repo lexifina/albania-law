@@ -1,3 +1,5 @@
 # Neni 21
-1. Arkivat shtetërorë të sistemit administrojnë dhe ruajnë dokumentet e trashëguara, si dhe dokumentet e krijuara gjatë veprimtarisë së institucioneve që, sipas ligjit, e dorëzojnë pasurinë arkivore pranë tyre. Ata kontrollojnë zbatimin e ligjit dhe japin ndihmë metodike në arkivat e institucioneve shtetërore të varësisë së tyre.
-2. Arkivat shtetërorë të sistemit janë në varësi administrative të drejtpërdrejtë të drejtuesit të institucionit.
+1. Arkivi Historik dhe Diplomatik është pjesë e sistemit të ministrisë përgjegjëse për punët e jashtme. Ai përpunon, ruan, administron dhe shërben:
+a) dokumentet e krijuara nga ministria përgjegjëse për punët e jashtme dhe institucionet në varësi të saj;
+b) dokumentet e krijuara nga institucionet e tjera përgjegjëse për çështjet e jashtme dhe diasporës, kur nuk janë pjesë e kësaj ministrie.
+2. Institucionet e përcaktuara në shkronjën “b”, të pikës 1 të këtij neni caktohen me udhëzim të përbashkët të ministrit përgjegjës për punët e jashtme dhe të drejtorit të përgjithshëm të Arkivave.
