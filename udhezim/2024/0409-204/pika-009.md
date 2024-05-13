@@ -1,0 +1,1 @@
+9. Komisioni i Vlerësimit, pasi administron dosjet e kandidateve, brenda pesëmbëdhjetë ditë pune pas përfundimit të afatit të pranimit të aplikimeve, vlerëson dokumentacionin e paraqitur nga kandidatët dhe harton listën për çdo profil sipas çdo NJVKSH-je. Renditja fillon me kandidatin me më shumë pikë dhe vijon në rend zbritës.

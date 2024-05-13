@@ -1,0 +1,1 @@
+2. Në kuptim të këtij udhëzimi, termi “profesionist i shkencave teknike mjekësore” do të përfshijë të gjithë profesionistët e shëndetësisë që janë të licencuar për ushtrimin e profesionit nga Urdhri i Infermierit dhe që ushtrojnë profesionin e tyre.

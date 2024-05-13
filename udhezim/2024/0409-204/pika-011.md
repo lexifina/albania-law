@@ -1,0 +1,1 @@
+11. Në të njëjtën ditë që publikohet lista, Sekretariati Teknik i platformës “Infermier për Shqipërinë”, njofton nëpërmjet postës elektronike kandidatët e kualifikuar për vlerësimin e dosjes, gjithashtu, edhe ata të cilët nuk janë kualifikuar duke arsyetuar shkaqet e skualifikimit.

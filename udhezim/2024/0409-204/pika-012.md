@@ -1,0 +1,1 @@
+12. Kandidatët kanë të drejtën e ankimit të vlerësimit brenda 48 orëve që nga marrja e njoftimit me email, në ndërfaqen “Ankesa Ime” të platformës elektronike ose në adresën elektronike zyrtare nëpërmjet së cilës janë bërë me dije për vlerësimin apo moskualifikimin dhe/ose me shkresë drejtuar DROSHKSH-së përkatëse.

@@ -1,0 +1,1 @@
+1. Ky udhëzim rregullon procedurat për punësimin, emërimin, transferimin, pezullimin, lirimin dhe disiplinën e profesionistëve të shkencave mjekësore teknike në institucionet e ofrimit të shërbimit të kujdesit shëndetësor publik, nëpërmjet portalit “Infermierë për Shqipërinë”.

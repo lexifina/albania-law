@@ -1,0 +1,1 @@
+10. Pas vlerësimit nga Komisioni i Vlerësimit, Sekretariati Teknik i platformës “Infermier për Shqipërinë”, dërgon për publikim në platformën “Infermier për Shqipërinë”, pranë DQOSHKSH-së, listën e përgatitur si më sipër.

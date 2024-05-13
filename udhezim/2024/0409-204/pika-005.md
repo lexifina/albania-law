@@ -1,0 +1,1 @@
+5. Procedurat për punësimin e profesionistëve të shkencave mjekësore teknike udhëhiqen nga parimet e ligjshmërisë e të përgjegjshmërisë, si dhe nga vlerat e profesionalizmit, transparencës, meritës, barazisë dhe interesit më të lartë të shëndetit publik.

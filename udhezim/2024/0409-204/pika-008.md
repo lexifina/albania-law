@@ -1,0 +1,1 @@
+8. Komisioni i Vlerësimit asistohet në veprimtarinë e tij nga sekretariati teknik, i platformës “Infermier për Shqipërinë”. Sekretariati Teknik kryen verifikimin e dosjes së kandidatëve sipas listës së dokumentacionit të dorëzuar dhe ia paraqet dosjen Komisionit të Vlerësimit për hapat e mëtejshëm.
