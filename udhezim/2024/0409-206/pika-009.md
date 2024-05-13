@@ -1,0 +1,1 @@
+9. Punonjësit mbështetës të institucionit, për të cilët nuk kërkohet arsim i lartë (shofer, sanitar, recepsionist, sekretar, arkiv-protokoll, punëtor etj.) emërohen dhe lirohen drejtpërdrejt nga titullari i institucionit, bazuar në dispozitat e Kodit të Punës.
