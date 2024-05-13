@@ -1,0 +1,1 @@
+1. Miratimin e “Metodologjisë së menaxhimit të riskut dhe e përcaktimit të dënimeve administrative gjatë veprimtarisë inspektuese të Drejtorisë së Përgjithshme të Arkivave”, sipas tekstit bashkëlidhur këtij urdhri.

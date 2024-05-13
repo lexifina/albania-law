@@ -1,0 +1,1 @@
+2. Përjashtimisht, për vitin 2024-2025, institucionet fondkrijuese, që kanë dokumente me RHK-në mbi 25 vjet nga koha e krijimit të tyre, të padorëzuara, do të paralajmërohen për marrjen e masave për përpunimin dhe dorëzimin e tyre.
