@@ -1,0 +1,1 @@
+13. OSHKSH/spitali universitar/terciar dhe institucionet qendrore në varësi të MSHMS-së dokumentojnë procesin e zgjedhjes së vendeve të punës për çdo kandidat, si dhe raportojnë brenda 5 ditëve të para të punës së çdo muaji, me postë elektronike dhe me shkresë zyrtare në MSHMS për emërimet/refuzimet apo moskonfirmimet e kandidatëve.
