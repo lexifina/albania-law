@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së ministrit të Infrastrukturës dhe Energjisë për miratimin e Programit Zhvillimor të Shërbimit Gjeologjik Shqiptar për vitin 2024, zëvendësministrit të Infrastrukturës dhe Energjisë, z. Ami Kozeli.
