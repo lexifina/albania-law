@@ -1,0 +1,1 @@
+3. Mostra e marrë për analizim duhet të jetë e një madhësie të përshtatshme për të kryer analizën, në të cilën mundësia e pranisë së një përbërësi përcaktohet vetëm nga niveli i paraqitjes së tij në lotin e farës.

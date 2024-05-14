@@ -1,0 +1,1 @@
+6. Për ambalazhet që mbajnë më shumë se 100 kg farë mostra, merret nga rrjedhja e farës dhe intensiteti i marrjes së mostrës bëhet sipas tabelës 2.B, në shtojcën 2, që i bashkëlidhet dhe është pjesë përbërëse e këtij udhëzimi, e cila duhet të konsiderohet sasi minimale.

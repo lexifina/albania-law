@@ -1,0 +1,1 @@
+1. Ky udhëzim përcakton procedurën për marrjen e mostrave për kryerjen e analizave laboratorike zyrtare të materialit mbjellës dhe shumëzues bimor, si dhe procedurën e transportit të tyre në laboratorin e referencës.
