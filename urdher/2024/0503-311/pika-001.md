@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës për trajtimin e çështjeve konsullore te Sekretari i Përgjithshëm i Ministrisë për Evropën dhe Punët e Jashtme dhe drejtorit të Drejtorisë së Çështjeve Konsullore sipas përcaktimeve të këtij urdhri.

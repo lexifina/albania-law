@@ -1,0 +1,1 @@
+10. Ngarkohen me zbatimin e këtij urdhri Sekretari i Përgjithshëm, Drejtoria e Sekretarisë dhe Komunikimit Qendror, Drejtoria e Çështjeve Konsullore, kabineti i ministrit, titullarët dhe punonjësit konsullorë në misionet diplomatike dhe postet konsullore të RSH-së.

@@ -1,0 +1,1 @@
+11. Ngarkohen me njoftimin e këtij urdhri strukturat e institucionit dhe misionet diplomatike e konsullore, Sektori i Menaxhimit të Dokumentacionit në Drejtorinë e Sekretarisë dhe Komunikimit Qendror.
