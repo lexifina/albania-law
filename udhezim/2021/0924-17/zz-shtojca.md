@@ -234,22 +234,20 @@ Për mishin e kafshëve të llojit gjedh, të imta, derra të theruar në therto
 | |
 | |
 |Nr. |Numër identifikimi i kafshëve |
-| |
-Nr. |Data e/ora e mbërritjes |Nr. i krerëve/
-specia
-|Nr. i certifikatës veterinare |Nr. matrikulli/ kodi i fermës |Data/ora e therjes |Konstatime shëndetësore |Të konfiskuara |Nr. i certifikatës veterinare të karkasës |Pesha e karkasës pas maturimit
-|Emri i sub. tregtar (1) |Data e daljes(2) | | | | | | |Kontroll/
-para therjes |Kontroll/
-gjatë therje |Kontroll pas therje | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |1. Plotësohet nga operatori i biznesit ushqimor të thertores.
-2. Plotësohet nga operatori i biznesit ushqimor të thertores.
+|Sëmundja e Aftës Epizotike |Ethet klasike të derrave |Sëmundjet vesiculare
+të derrave |Ethet afrikane të derrave |Murtaja e gjedhëve |Sëmundja e Njukasëll[6] |Influenza Aviare [7] |Murtaja e dhenve dhe e dhive | |a) Trajtim i nxehtë në një kontejner të mbyllur hermetikisht me vlerë FO prej 3,00 ose më shumë (**) |+ |+ |+ |+ |+ |+ |+ |+ | |b) Trajtimi i nxehtë në një temperaturë minimale prej 70°C, e cila duhet të arrihet në të gjithë mishin |+ |+ |+ |0 |+ |+ |+ |+ | |c) Trajtimi i nxehtë në një temperaturë minimale prej 80°C, e cila duhet të arrihet në të gjithë mishin |+ |+ |+ |+ |+ |+ |+ |+ | |d) Trajtim i nxehtë në një kontejner të mbyllur hermetikisht në të paktën 60°C për minimumi 4 orë, gjatë të cilit temperatura në qendër duhet të jetë të paktën 70°C për 30 minuta |+ |+ |+ |+ |+ |- |- |+ | |e) Fermentimi dhe maturimi natyral prej jo më pak se nëntë muaj për mishin pa kocka, që përfundon në karakteristikat e mëposhtme:
+Një vlerë prej jo më shumë se 0,93 ose një vlerë pH prej jo më shumë se 6,0 |+ |+ |+ |+ |+ |0 |0 |0 | |f) I njëjti trajtim si në pikën “e” më sipër, vetëm se mishi mund të përmbajë kocka (*) |+ |+ |+ |0 |0 |0 |0 |0 | |g) Sallami: trajtim në përputhje me kriteret që do të përcaktohen nga procedura e nenit 12(2) pas një mendimi nga Komisioni Shkencor përkatës |+ |+ |+ |0 |+ |0 |0 |0 | |h) Proshuta[8] dhe fileto: trajtimi përfshin fermentimin natyral dhe maturimin gjatë të paktën 190 ditëve për proshutat dhe 140 ditëve për filetot |0 |0 |0 |+ |0 |0 |0 |0 | |i) Trajtim i nxehtë që siguron një temperaturë qendrore prej të paktën 65°C arrihet për kohën e nevojshme për të përftuar një vlerë pasteurizimi (pv) të barabartë me 40 apo edhe më shumë |+ |0 |0 |0 |0 |0 |0 |+ | |+ njihet efikasiteti; 0 nuk njihet efikasiteti;
+(*) duhet të merren të gjitha masat e nevojshme për të shmangur kontaminimin e ndërsjellë;
+(**) F0 është rezultati i kalkuluar mbi sporet e baktereve. Një vlerë F0 prej 3,00 do të thotë se pika më e ftohtë në produkte është nxehur mjaftueshëm për të arritur të njëjtin efekt vrasës si atë të 121° C (250 °F) brenda tri minutash me nxehje dhe ftohje të menjëhershme.
+[pic]
 -----------------------
 1. Mikrobiologjike, kimike, serologjike etj. (përfshini rezultatet bashkangjitur).
 2. Autoriteti Kombetar i Veterinarisë dhe Mbrojtjes së Bimëve (AKVMB) mund të paraqesë kodet vijuese: Kodi A për sëmundje të listës OIE; kodet B100 dhe B200 për çështje lidhur me mirëqenien; neni 49 dhe C100 deri në C290 për vendime lidhur me mishin; neni 73 paragrafi 1(a) deri në (u). Nëse është e nevojshme, sistemi i kodimit mund të përfshijë nënndarje të tjera (p.sh. C141 për një sëmundje të lehtë të përgjithësuar, C142 për një sëmundje më të rëndë etj). Nëse përdoren kode, duhet të vihen menjëherë në dispozicion të operatorëve të ndërmarrjeve me një shpjegim të përshtatshëm të kuptimit të tyre.
-[1]
-$¿âãæñ | 1 4 = > C F I L X Y \ ] d ïâïÒï¼¦““x“i“Z“x“x“x“x“x“x“KZh·Y?h%AVCJOJQJaJh·Y?h|DWCJOJQJaJh·Y?hYóCJOJQJaJh|DWCJOJQJaJhNë rast se vijnë nga zona të dyshimta për prani sëmundjesh zoonotike*.
+[1] Në rast se vijnë nga zona të dyshimta për prani sëmundjesh zoonotike*.
 [2] Ose pseudomurtaja e shpendëve.
 [3] Ose gripi i shpendëve.
-[4] Në origjinal: Ham = 1. Kofshë derri (pjesa prapa gjurit). 2. Proshutë.
+[4]
+$¿íîýþÿ! ” % 0 ? ïâïÒï¼¦“ƒsƒfƒWKW<Wh·Y?hYóCNë origjinal: Ham = 1. Kofshë derri (pjesa prapa gjurit). 2. Proshutë.
 -----------------------
 Vula
 Vula
