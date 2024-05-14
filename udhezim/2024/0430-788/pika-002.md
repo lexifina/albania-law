@@ -1,0 +1,8 @@
+2. Në këtë udhëzim termat e mëposhtëm kanë këtë kuptim:
+a) “Procesverbal dorëzimi i njësisë ndërtimore”, është akti që hartohet në funksion të përmbushjes së detyrimit të dorëzimit vullnetar sipas afatit të përcaktuar, të njësisë ndërtimore nga personi i stimuluar/subjekti i interesuar tek Agjencia Shtetërore e Kadastrës.
+b) “Urdhër për dorëzim të detyruar”, është akti që hartohet nga ASHK-ja në funksion të dorëzimit të njësisë ndërtimore nga personi i stimuluar/subjekti i interesuar tek ASHK-ja, në rastet e mospërmbushjes së dorëzimit vullnetar të kësaj njësie prej tij, sipas njoftimit nga ASHK-ja dhe afatit të parashikuar.
+II. MODELET E AKTEVE “PROCESVERBAL DORËZIMI I NJËSISË NDËRTIMORE” DHE “URDHËR PËR DORËZIM TË DETYRUAR”
+1. ASHK në vijim dhe zbatim të procedurës të parashikuar në nenin 51 të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë” dhe pikës 10, 10.1 dhe 10.2 të VKM-së nr. 1189/2020, “Për rregullat e hollësishme për kalimin e pronësisë mbi trojet në zonat e stimuluara, afatet dhe mënyra e llogaritjes dhe njoftimit të pagesës, zbritjet që përfitohen, si dhe miratimin e modelit të aktit të kalimit të pronësisë në zonat e stimuluara “ harton aktet sa vijon:
+a) procesverbal dorëzimi i njësisë ndërtimore;
+b) urdhër për dorëzim të detyruar.
+2. Procesverbali i dorëzimit të njësisë ndërtimore, është sipas Aneksit 1 që i bashkëlidhet dhe është pjesë përbërëse e këtij udhëzimi. Ky akt është pjesë e praktikës administrative të vendimmarrjes të ASHK-së në vijim të procedurës së pikës 10 të VKM-së nr. 1189/2020, dhe administrohet e ruhet në përputhje me legjislacionin për arkivat.

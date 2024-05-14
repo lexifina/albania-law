@@ -1,0 +1,1 @@
+4. Urdhri për dorëzim të detyruar, është sipas aneksit 2 që i bashkëlidhet dhe është pjesë përbërëse e këtij udhëzimi. Ai hartohet e miratohet në format digjital, dhe një kopje e printuar administrohet e ruhet në përputhje me legjislacionin për arkivat.
