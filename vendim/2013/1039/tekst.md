@@ -4,7 +4,7 @@ Nr. 1039, datë 4.12.2013
 
 PËR FUNKSIONIMIN E KËSHILLIT KOMBËTAR TË PUNËS DHE PËR CAKTIMIN E PËRFAQËSUESVE TË KËSHILLIT TË MINISTRAVE NË KËTË KËSHILL
 
-(ndryshuar me VKM nr.84, datë 14.2.2018, nr. 54, datë 29.1.2020, nr. 265, datë 27.4.2023)
+(ndryshuar me VKM nr.84, datë 14.2.2018, nr. 54, datë 29.1.2020, nr. 265, datë 27.4.2023; nr. 296, datë 15.5.2024)
 
 (i përditësuar)
 
@@ -18,21 +18,19 @@ VENDOSI:
 
 3. Organizatat e punëdhënësve e të punëmarrësve, si dhe administrata publike duhet t’i vënë në dispozicion KKP-së, sipas kërkesës, të gjitha informacionet dhe të dhënat e nevojshme, që kanë lidhje me objektin e funksionimit të këtij Këshilli, për zhvillimin e këshillimeve.
 
-4. KKP-ja kryesohet nga ministri i Financave dhe Ekonomisë dhe ka në përbërje, si përfaqësues të Këshillit të Ministrave, këta anëtarë:
+4. KKP-ja kryesohet nga ministri i Ekonomisë, Kulturës dhe Inovacionit dhe ka në përbërje, si përfaqësues të Këshillit të Ministrave, edhe këta anëtarë:
 
-- Ministrin e Financave dhe Ekonomisë;
+- ministrin e Financave;
 
-- Ministrin e Drejtësisë;
+- ministrin e Drejtësisë;
 
-- Ministrin e Shëndetësisë dhe Mbrojtjes Sociale;
+- ministrin e Shëndetësisë dhe Mbrojtjes Sociale;
 
-- Ministrin e Arsimit, Sportit dhe Rinisë;
+- ministrin e Arsimit dhe Sportit;
 
-- Ministrin e Turizmit dhe Mjedisit;
+- ministrin e Turizmit dhe Mjedisit;
 
-- Ministrin e Infrastrukturës dhe Energjisë;
-
-- Ministrin e Shtetit për Mbrojtjen e Sipërmarrjes. 
+- ministrin e Infrastrukturës dhe Energjisë.
 
 Përfaqësues, kandidatë të KKP-së, në mungesë të përfaqësuesve, anëtarë të Këshillit të Ministrave, janë zëvendësministrat përkatës.
 
