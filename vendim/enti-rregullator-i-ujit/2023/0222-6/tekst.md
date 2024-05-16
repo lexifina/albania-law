@@ -2,6 +2,10 @@
 
 	Nr. 6, datë 22.2.2023
 
+	(Ndryshuar me Vendimin nr.14, datë 16.5.2024)
+
+	(i përditësuar)
+
 	PËR LICENCIMIN E SHOQËRISË RAJONALE UJËSJELLËS-KANALIZIME 
 
 	DURRËS SHA
@@ -50,11 +54,11 @@ VENDOSI:
 
 	2. Shoqëria rajonale Ujësjellës-Kanalizime Durrës sh.a. autorizohet të kryejë veprimtaritë e licencuara me:
 
-	a) drejtues ligjor:  Spartak Kovaçi;
+a) Drejtues ligjor: z. Sedi Çaushi;
 
 	b) drejtues teknik:  Gerald Dautaj;
 
-	c) drejtues teknik:  Bledar Metalla.
+c) Drejtues teknik: z. Tonin Doda.
 
 	3. Zona e shërbimit të shoqërisë rajonale Ujësjellës-Kanalizime Durrës sh.a. janë bashkitë: Durrës, Shijak, Rrogozhinë, Krujë, Kavajë.
 
