@@ -4,7 +4,7 @@ Nr.2365, datë 26.11.2008
 
 Mbi zbatimin e vendimit të Këshillit të Ministrave nr.277, datë 18.6.1997 “Për përfitimet nga statusi i të verbrit”, i ndryshuar
 
-(Ndryshuar me udhëzimin nr. 2306, datë 10.12.2009, nr. 2310, datë 16.12.2010, nr. 47, datë 11.1.2018, nr. 525, datë 18.9.2020)
+(Ndryshuar me udhëzimin nr. 2306, datë 10.12.2009, nr. 2310, datë 16.12.2010, nr. 47, datë 11.1.2018, nr. 525, datë 18.9.2020, nr. 280, datë 17.5.2024 )
 
 (i përditësuar)
 
@@ -18,7 +18,7 @@ Udhëzon:
 
 Në përbërje të KML-së duhet të ketë minimalisht dy mjekë okulistë, me përjashtim të rasteve kur ka mungesë të këtij specialiteti, në përbërje të KML-së merr pjesë një mjek okulist. 
 
-Dokumentacioni i individit që rivlerësohet, përfshin epikrizën përcjellëse për në KMPV, të lëshuar nga mjeku okulist pranë vendbanimit të tij.
+Për rivlerësim shqyrtohet dokumentacioni mjekësor i rekomanduar nga komisioni në vlerësimine fundit.
 
 Dokumentacioni për vlerësim/rivlerësim së bashku me kopje të dokumentit të identifikimit dërgohet brenda pesë ditëve nga institucioni shëndetësor, pranë njësisë administrative ku individi ka vendbanimin.
 
@@ -61,6 +61,8 @@ a) Vërtetim të firmosur nga titullari dhe sekretari i shkollës, i cili të p�
 b) Vërtetim të formosur nga titullari dhe sekretari i shkollës për frekuentimin e shkollës nga përfituesi për çdo 3 muaj, për të verbrit që vazhdojnë shkollën me korrespondencë të paraqitet vërtetim që ka shlyer detyrimet para çdo sezoni.
 
 c) Kopjen e noterizuar të dëftesës së shkollës të çdo viti për shkollën e mesme dhe kopjen e noterizuar të diplomës në mbarim të shkollës së lartë.
+
+10/1. Dokumentacioni për ndjekjen e arsimit të mesëm të lartë merret nëpërmjet ndërveprimitmes Regjistrit Elektronik Kombëtar të Aftësisë së Kufizuar dhe Sistemit të Menaxhimit të Informacionit Parauniversitar (SMIP).
 
 11. Të verbrit që ndjekin kurset e formimit profesional, për përfitimin e pagesës për shkak të verbërisë, duhet të paraqesin këto dokumente:
 
