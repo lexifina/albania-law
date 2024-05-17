@@ -1,0 +1,1 @@
+1. Shpalljen e zonës së re për zhvillim,në fshatin Laknas, Njësia Administrative Kamzë, Bashkia Kamzë, për ndërtimin e gjimnazit “Sulejman Elezi”, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi.
