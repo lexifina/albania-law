@@ -1,0 +1,1 @@
+4. Qendra Kërkimore e Bioteknologjisë dhe Gjenetikës funksionon në ambientet dhe me pajisjet që Akademia e Shkencave e Republikës së Shqipërisë i siguron sipas marrëveshjes përkatëse me Qendrën Spitalore Universitare “Nënë Tereza”.

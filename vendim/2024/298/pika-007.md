@@ -1,0 +1,1 @@
+7. Shpenzimet financiare për ngritjen dhe funksionimin e Qendrës Kërkimore të Bioteknologjisë dhe Gjenetikës përballohen nga buxheti i miratuar për Akademinë e Shkencave të Republikës së Shqipërisë, për vitin 2024.

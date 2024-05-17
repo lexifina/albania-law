@@ -1,0 +1,1 @@
+1. Ngritjen e njësisë së kërkim-studimit me aktivitet afatgjatë “Qendra Kërkimore e Bioteknologjisë dhe Gjenetikës” pranë Akademisë së Shkencave të Republikës së Shqipërisë, e cila ushtron veprimtarinë në fushat e bioshkencës dhe të gjenetikës.
