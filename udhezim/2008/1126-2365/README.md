@@ -2,7 +2,7 @@
 
 Official source: [Udhëzimi nr. 2365, datë 26.11.2008 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale)](https://qbz.gov.al/api/v1/acts/7505); [QBZ versions](https://qbz.gov.al/api/v1/acts/7505/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2020-09-18; after QBZ act 22161 (nr. 515).
+Status of this text: `official consolidated version 2`, applying from 2024-05-17; after QBZ act 28126 (nr. 280).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
