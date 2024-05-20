@@ -1,0 +1,1 @@
+6. Këshilli i Gjykatës miraton listën e llojit të çështjes civile, penale e administrative sipas kategorive kryesore, si dhe listën e përshkrimit të çështjes sipas nënkategorive kryesore, me qëllim grupimin e tyre, duke u bazuar në listën në shtojcën nr. 2 të këtij vendimi.

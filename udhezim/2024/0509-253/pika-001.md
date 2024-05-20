@@ -1,0 +1,1 @@
+1. Gjykata e Apelit të Juridiksionit të Përgjithshëm dhe Gjykata Administrative e Apelit, nëpërmjet Zyrës së Regjistrit, kryen analizimin dhe klasifikimin e çështjeve të prapambetura dhe çështjeve të reja që do të regjistrohen në vazhdim në këto gjykata sipas rregullave dhe procedurave të parashikuara në këtë udhëzim.

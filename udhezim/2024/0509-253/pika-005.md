@@ -1,0 +1,1 @@
+5. Gjatë analizimit, nëse ka dyshime në lidhje me kategorinë apo nënkategorinë në të cilën çështja duhet të klasifikohet, kancelari orienton klasifikimin e çështjes, pas miratimit nga gjyqtari relator i çështjes ose me urdhër dhe porosi të këtij të fundit.
