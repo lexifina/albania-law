@@ -1,3 +1,0 @@
-10.
-Plovdiv
-Rodopi*

@@ -1,3 +1,0 @@
-5.
-Pazardzhik
-Septemvri*
