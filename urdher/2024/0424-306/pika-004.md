@@ -1,3 +1,0 @@
-4. Autoriteti Kombëtar i Ushqimit të informojë rregullisht, brenda 24 orëve Autoritetin Kombëtar të Veterinarisë dhe Mbrojtjes së Bimëve, Drejtorinë e Përgjithshme të Zhvillimit në Fushën e Sigurisë Ushqimore, Veterinarisë, Mbrojtjes së Bimëve dhe Peshkimit për çdo ngarkesë të kafshëve të llojit derra, produkteve dhe nënprodukteve të tyre, materialit biologjik, embrioneve, mishit dhe nënprodukteve të tyre.
-5) Për zbatimin e këtij urdhri ngarkohen Drejtoria e Përgjithshme e Zhvillimit në Fushën e Sigurisë Ushqimore, Veterinarisë, Mbrojtjes së Bimëve dhe Peshkimit në Ministrinë e Bujqësisë dhe Zhvillimit Rural, Autoriteti Kombëtar i Ushqimit dhe Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve.
-Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
