@@ -1,0 +1,1 @@
+3. Përjashtimisht, kur lind nevoja për administrimin e një veprimtarie ekonomike ose pasurie të sekuestruar të veçantë, kryeadministratori krijon një komision të veçantë, i cili është përgjegjës për të propozuar një fushë tjetër të posaçme, të ndryshme nga ato të përcaktuara në shkronjën “dh”, të pikës 2, të këtij urdhri.

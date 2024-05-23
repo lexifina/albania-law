@@ -1,0 +1,1 @@
+1. Kryeadministratori i Agjencisë së Administrimit të Pasurive të Sekuestruara dhe Konfiskuara harton listën e administratorëve të pasurisë së sekuestruar, duke u bazuar në kriteret dhe rregullat e përcaktuara në këtë urdhër.

@@ -1,0 +1,1 @@
+14. Të paktën 2 (dy) ditë përpara zhvillimit të konkurrimit, Komisioni i Posaçëm përgatit pyetjet e testit me shkrim dhe me gojë, duke pasur në konsideratë fushat e njohurive dhe aftësive të përcaktuara në shpalljen për konkurrim.

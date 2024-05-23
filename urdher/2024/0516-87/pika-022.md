@@ -1,0 +1,1 @@
+22. Urdhri i ministrit të Brendshëm nr. 323, datë 2.10.2020, “Për përcaktimin e kritereve dhe rregullave për hartimin e listës së administratorëve të pasurive të sekuestruara, pranë Agjencisë së Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara”, shfuqizohet.

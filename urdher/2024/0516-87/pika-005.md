@@ -1,0 +1,1 @@
+5. Shpallja e procedurës së pranimit kryhet nga kryeadministratori në faqen zyrtare të Agjencisë dhe të Ministrisë së Brendshme tij, të paktën 30 (tridhjetë) ditë përpara datës së parashikuar për zhvillimin e konkurrimit.

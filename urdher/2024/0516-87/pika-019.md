@@ -1,0 +1,1 @@
+19. Vendimi merret jo më vonë se 48 (dyzet e tetë) orë nga përfundimi i procedurës së konkurrimit. Lista e fituesve shpallet në faqet zyrtare dhe në ambientet e AAPSK-së. Kandidatët që nuk janë shpallur fitues njoftohen nga AAPSK-ja dhe kanë të drejtë të paraqiten pranë këtij departamenti për t’u njohur me rezultatet e tyre.

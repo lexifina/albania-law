@@ -1,0 +1,1 @@
+13. Testimi me shkrim dhe intervista me gojë synojnë vlerësimin e njohurive, të aftësive dhe cilësive të lidhura me fushën e kompetencës. Vlerësimi kryhet nga një Komision i Posaçëm i ngritur me urdhër të Kryeadministratorit.

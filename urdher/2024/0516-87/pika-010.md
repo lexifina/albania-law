@@ -1,0 +1,1 @@
+10. Kandidatët që nuk kanë plotësuar kriteret specifike, njoftohen nga AAPSK-ja dhe kanë të drejtë të paraqiten pranë kësaj agjencie për t’u njohur me arsyet e moskualifikimit. Ata mund të ankohen në AAPSK, brenda 5 (pesë) ditëve nga shpallja e listës, sipas pikës 9 të këtij urdhri. AAPSK-ja duhet të kthejë përgjigje të arsyetuar brenda 2 (dy) ditëve pune.
