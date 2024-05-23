@@ -1,0 +1,1 @@
+1. Ministrisë së Mbrojtjes, në buxhetin e miratuar për vitin 2024, në artikullin 231, “Shpenzime kapitale”, në programin buxhetor “Forcat e luftimit”, i shtohet fondi prej 1 504 000 000 (një miliard e pesëqind e katër milionë) lekësh për modernizimin e Forcave të Armatosura.
