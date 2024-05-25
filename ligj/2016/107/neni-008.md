@@ -1,7 +1,7 @@
 # Neni 8
 Përgjegjësitë kryesore të prefektit të qarkut
 Në ushtrim të funksionit të tij, prefekti i qarkut ka këto përgjegjësi kryesore:
-a) verifikimin e ligjshmërisë së vendimeve, urdhrave dhe urdhëresave me karakter normativ të organeve të vetëqeverisjes vendore;
+a) verifikimin e ligjshmërisë së akteve me karakter normativ të organeve të vetëqeverisjes vendore;
 b) bashkërendimin e veprimtarisë ndërmjet degëve territoriale, që veprojnë në qark si dhe të këtyre degëve me organet e njësive të vetëqeverisjes vendore;
 c) raportimin periodik në Këshillin e Ministrave për veprimtarinë e degëve territoriale që veprojnë në qark, sipas urdhrit të Kryeministrit, dhe, për probleme të veçanta, sipas urdhrit të ministrit;
 ç) informimin çdo gjashtë muaj të institucioneve qendrore për veprimtarinë e strukturave të tyre të varësisë, në nivel qarku;
@@ -15,3 +15,5 @@ gj) bashkërendimin e veprimtarisë së tij me agjencitë dhe inspektoratet që 
 h) shqyrtimin çdo muaj të veprimtarisë së degëve territoriale që veprojnë në qark dhe bashkërendimin e punës ndërmjet tyre dhe organeve të vetëqeverisjes vendore, në zbatim të programit të Këshillit të Ministrave;
 i) bashkërendimin e punës me Komisionin Qendror të Zgjedhjeve dhe struktura të tjera zgjedhore vendore, në përputhje me parashikimet e Kodit Zgjedhor;
 j) ushtrimin e përgjegjësive dhe detyrave të tjera që i ngarkohen me akte ligjore ose nënligjore.
+l) përcjelljen e kërkesës së arsyetuar për fillimin e inspektimit pranë institucioneve të ngarkuara me mbikëqyrjen e zbatimit të ligjit;
+ll) ndërmarrjen e nismave dhe propozimeve për dhënien e titujve të nderit për persona me kontribut të veçantë në qark, sipas legjislacionit në fuqi.

@@ -7,3 +7,4 @@ c) ndjek kërkesat dhe ankesat e shtetasve deri në zgjidhjen e tyre;
 ç) kërkon të dhëna dhe informacione nga dega territoriale që vepron në qark, me përjashtim të rasteve kur ndalohet me ligj ose me akte nënligjore, për shkak të klasifikimit të informacionit të kërkuar. Degët territoriale që veprojnë në qark informojnë prefektin e qarkut për çështje, për të cilat kërkohet informacion;
 d) harton çdo fund viti raportin mbi bashkëpunimin dhe bashkërendimin e veprimtarisë me degët territoriale që veprojnë në qark, dhe ua paraqet ministrive përgjegjëse dhe Kryeministrit.
 2. Degët territoriale që veprojnë në qark dërgojnë kopje të planit të zhvillimit, të projektbuxhetit, të strukturës dhe të organikës te prefekti i qarkut.
+3. Në rast të ndryshimeve strukturore të degëve territoriale apo drejtorive të ministrive në qark, ndryshimet i bëhen me dije prefektit të qarkut.
