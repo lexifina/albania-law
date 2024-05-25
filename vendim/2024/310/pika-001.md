@@ -1,0 +1,1 @@
+1. Anëtarët e emëruar në Komisionin e Licencave për kultivimin e cannabis-it për qëllime mjekësore përfitojnë një pagesë për pjesëmarrjen dhe kontributin e tyre në këtë komision, në masën 25 000 (njëzet e pesë mijë) lekë për mbledhje, por jo më shumë se 12 (dymbëdhjetë) pagesa në vit.
