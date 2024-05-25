@@ -3,7 +3,7 @@ Shkeljet dhe masat disiplinore
 1. Përkthyesi zyrtar ose interpreti i gjuhës së shenjave kryen një shkelje disiplinore në rastet kur:
 a) vepron në kundërshtim me dispozitat ligjore ose nënligjore;
 b) kryen veprime ose mosveprime që përbëjnë “shërbime të papërshtatshme profesionale”, ku përfshihen veprime apo mosveprime ndaj palëve, të cilat janë në kundërshtim me kodin e etikës ose me shkronjën “a” të nenit 24 të këtij ligji.
-2. Shkelje disiplinore janë edhe veprimet ose mosveprimet që përbëjnë vepër penale, pavarësisht faktit nëse vepra penale është shlyer, nëse ndjekja penale nuk ёshtë filluar ose nuk mund të vazhdojë, nëse përkthyesi zyrtar ose interpreti i gjuhës së shenjave është rehabilituar ose ka përfituar nga falja apo amnistia, me kushtin që të mos kenë kaluar më shumë se 5 (pesë) vjet nga momenti i shkeljes.
+2. Shfuqizuar.
 3. Për shkelje të dispozitave që rregullojnë ushtrimin e profesionit dhe veprimtarinë e përkthimit zyrtar ose interpretimit të gjuhës së shenjave, përkthyesit zyrtar ose interpretit të gjuhës së shenjave i jepet masat disiplinore si më poshtë:
 a) paralajmërim me shkrim;
 b) vërejtje me paralajmërim për heqjen e certifikatës për ushtrimin e profesionit të përkthyesit zyrtar ose të interpretit të gjuhës së shenjave;

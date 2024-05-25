@@ -4,9 +4,13 @@ Provimi i kualifikimit
 2. Provimi i kualifikimit, sipas pikës 1 të këtij neni, organizohet nga ministria 1 (një) herë në 2 (dy) vjet. Në raste përjashtimore, kur justifikohet nevoja e ngutshme, provimi i kualifikimit mund të zhvillohet përpara këtij afati.
 3. Provimi i kualifikimit për përkthyes zyrtar zhvillohet për çdo gjuhë të huaj, sipas listës së gjuhëve të huaja të miratuar nga ministri.
 4. Provimi i kualifikimit për përkthyes zyrtar për çdo gjuhë të huaj organizohet nga komisioni i posaçëm për gjuhën përkatëse me këtë përbërje:
-a) dy përfaqësues nga ministria;
-b) dy përfaqësues nga ministria përgjegjëse për arsimin;
-c) një përfaqësues nga institucionet publike të arsimit të lartë, që ofrojnë programe studimi në gjuhë të huaja.
+a) një përfaqësues nga ministria;
+b) një përfaqësues nga ministria përgjegjëse për arsimin;
+c) një përfaqësues nga institucionet e arsimit të lartë, që ofrojnë programe studimi në gjuhë të huaja. Nëse për gjuhën për të cilën do të zhvillohet provimi, institucionet e arsimit të lartë nuk ofrojnë programe studimi ose kur asnjë përfaqësues nuk shpreh interesin ose nuk plotëson kriteret për përzgjedhje në komisionin e posaçëm, ministria u dërgon ftesën për shprehje interesi:
+i. misioneve diplomatike ose posteve konsullore;
+ii. organizatave ndërkombëtare, që ushtrojnë veprimtarinë në Republikën e Shqipërisë;
+iii. autoriteteve të tjera të huaja; ose
+iv. përkthyesve zyrtarë të certifikuar për gjuhën përkatëse.
 5. Provimi i kualifikimit për interpret të gjuhës së shenjave organizohet nga komisioni i posaçëm me këtë përbërje:
 a) dy përfaqësues nga ministria;
 b) një përfaqësues nga ministria përgjegjëse për mbrojtjen sociale;

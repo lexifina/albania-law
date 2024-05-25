@@ -3,7 +3,11 @@ Komisionet disiplinore
 1. Komisioni disiplinor për përkthyesit zyrtarë është organ kolegjial, i cili përbëhet nga:
 a) dy përfaqësues nga ministria;
 b) dy përfaqësues nga ministria përgjegjëse për arsimin;
-c) një përfaqësues nga institucionet publike të arsimit të lartë që ofrojnë programe studimi në gjuhë të huaja.
+c) një përfaqësues nga institucionet e arsimit të lartë, që ofrojnë programe studimi në gjuhë të huaja. Nëse për gjuhën për të cilën është certifikuar përkthyesi zyrtar, institucionet e arsimit të lartë nuk ofrojnë programe studimi ose kur asnjë përfaqësues nuk shpreh interesin ose nuk plotëson kriteret për përzgjedhje në komisionin disiplinor, ministria u dërgon ftesën për shprehje interesi:
+i. misioneve diplomatike ose posteve konsullore;
+ii. organizatave ndërkombëtare, që ushtrojnë veprimtarinë në Republikën e Shqipërisë;
+iii. autoriteteve të tjera të huaja; ose
+iv. përkthyesve zyrtarë të certifikuar për gjuhën përkatëse.
 2. Komisioni disiplinor për interpretët e gjuhës së shenjave është organ kolegjial, i cili përbëhet nga:
 a) dy përfaqësues nga ministria;
 b) një përfaqësues nga ministria përgjegjëse për mbrojtjen sociale;
