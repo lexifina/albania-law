@@ -1,0 +1,1 @@
+1. Miratimin e listës së projekteve fituese të financuara për vitin 2024 nga fondi për parandalimin dhe menaxhimin e fatkeqësive natyrore, si dhe të autoritetit kontraktor për zbatimin e projekteve, sipas njësive të vetëqeverisjes vendore, sipas shtojcës 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
