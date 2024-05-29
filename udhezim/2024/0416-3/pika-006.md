@@ -1,0 +1,1 @@
+6. Anulimi, ndryshimi i datës dhe/ose orës së kërkesës për ndihmë, prezencë apo mbështetje nga Policia e Shtetit të përmbaruesit gjyqësor shtetëror, bëhet me njoftim paraprak me shkrim të përmbaruesit gjyqësor shtetëror, i cili i drejtohet strukturës vendore të Policisë së Shtetit ku do të kryhet ekzekutimi dhe për dijeni drejtorit të përgjithshëm të Përmbarimit.
