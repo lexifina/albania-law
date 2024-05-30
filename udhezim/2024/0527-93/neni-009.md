@@ -1,0 +1,7 @@
+# Neni 9
+Tërheqja e pasaportës biometrike
+1. Tërheqja e pasaportës kryhet pranë zyrave të shoqërisë të ngarkuara për shpërndarjen e pasaportës biometrike të cilat gjenden pranë drejtorive vendore të Policisë së Shtetit, si dhe në Misionet Diplomatike dhe Postet Konsullore.
+2. Tërheqja e pasaportës mund të kryhet:
+a) nga shtetasi mbi 16 vjeç, shoqëruar me letërnjoftimin biometrik dhe faturën e shpërndarjes;
+b) për shtetasit nën 16 vjeç, tërheqja e dokumentit mund të kryhet nga njëri nga prindërit, kujdestarit ligjor, përfaqësuesit ligjor ose me prokurë ku të jetë specifikuar shërbimi përkatës. Në këto raste personi i ngarkuar për tërheqjen e pasaportës duhet të paraqesë për verifikim para nëpunësit, sipas rastit; letërnjoftimin e tij, një certifikatë familjare që vërteton cilësinë e tij, prokurën, si dhe faturën e shpërndarjes;
+c) për shtetasit mbi 16 vjeç, në pamundësi fizike për t’u paraqitur personalisht pranë zyrave të shpërndarjes, tërheqja e dokumentit mund të kryhet nga ana e një pjesëtari të afërt të familjes (bashkëshorti/bashkëshortja, prindi, fëmija madhor), kujdestarit ligjor, përfaqësuesit ligjor ose me prokurë ku të jetë specifikuar shërbimi përkatës. Në këto raste, personi i ngarkuar për tërheqjen e pasaportës duhet të paraqesë për verifikim para punonjësit të shoqërisë, sipas rastit, letërnjoftimin e tij, një certifikatë që vërteton lidhjen e tij me aplikuesin, prokurën, si dhe faturën e shpërndarjes.
