@@ -4,6 +4,10 @@ Nr. 175, datë 4.11.2020
 
 MBI LICENCIMIN E SHOQËRISË “TIRANA ENERGJI” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “MALI”, ME KAPACITET TË INSTALUAR 1490 kw
 
+(ndryshuar me Vendimin nr. 107, datë 31.5.2024)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe të nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; nenit 4, pika 1, germa “a”, nenit 5, pika 1, germa “a” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, të ndryshuar, dhe nenit 15 të “Rregullores të organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 4.11.2020, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes nr. 116/2 prot., datë 22.10.2020, mbi licencimin e shoqërisë “Tirana Energji” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike,
 
 konstatoi se: 
@@ -48,11 +52,15 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Tirana Energji” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Mali”, me kapacitet të instaluar 1490 kw, për një afat 30-vjeçar. 
 
-2. Shoqëria “Tirana Energji” sh.p.k. të bëjë me dije ERE-n mbi ecurinë e procesit të rinovimit, si dhe të depozitojë në ERE çdo dokument/leje, që i nënshtrohet procedurës së rinovimit, jo më vonë se 1 muaj pas rinovimit të tyre.
+2. Shoqëria “Tirana Energji” sh.p.k. duhet të depozitojë në ERE informacion mbi rinovimin e kontratës së qirasë me ADZM Tiranë 3 (tre) muaj para nga afati i vlefshmërisë, dhe ta depozitojë atë brenda datës 15.2.2029 ose çdo dokument tjetër që rregullon pronësinë në zonën ku shtrihet projekti.
 
-3. Mosplotësimi i kushtit të parashikuar në pikën 2 të këtij vendimi përbën shkak për rishikimin e vendimit nga ERE.
+3. Shoqëria “Tirana Energji” sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Mali”, brenda datës 23.9.2024.
 
-4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e bordit të ERE-s.
+4. Në rast se shoqëria “Tirana Energji” sh.p.k. nuk depoziton në afat lejen e rinovuar të përdorimit të burimit ujor, sikurse përcaktuar në pikën 3 të këtij vendimi, dhe ka një urdhër për ndërprerjen e aktivitetit nga Inspektorati Kombëtare i Mbrojtjes se Territorit (IKMT), atëherë nuk ka të drejtë të operojë/ushtrojë veprimtarinë e prodhimit të energjisë elektrike.
+
+     5. Ky vendim është objekt rishikimi në varësi të plotësimit/mosplotësimit të kushteve të tij.
+
+     6. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “Tirana Energji” sh.p.k., Agjencinë e Menaxhimit të Burimeve Ujore, Furnizuesin e Tregut të Lirë, Operatorin e Sistemit të Shpërndarjes, Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s.
 
 Ky vendim hyn në fuqi menjëherë.
 
