@@ -1,0 +1,1 @@
+3. Përcaktimet e pikës 2, të këtij vendimi, zbatohen edhe në rastet kur një subjekt, që aplikon për leje zhvillimore për ndërtim banese kërkon rritje të intensitetit të ndërtimit, sipas pikës 2, të nenit 19, të ligjit nr. 22/2018, “Për strehimin social”, të ndryshuar.

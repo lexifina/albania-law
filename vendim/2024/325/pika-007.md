@@ -1,0 +1,1 @@
+7. Në rast se kalimi i sipërfaqes ndërtimore është e dhënë në vlerë leku, fondi kalon nga investitori në llogarinë e posaçme të njësisë së vetëqeverisjes vendore, në favor të fondit publik të banesave sociale.

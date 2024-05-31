@@ -1,0 +1,1 @@
+1. Përcaktimin e rregullave për kontributin e sektorit privat për krijimin e fondit publik të banesave sociale, në përputhje me përcaktimet e nenit 19, të ligjit nr. 22/2018, “Për strehimin social”, të ndryshuar.
