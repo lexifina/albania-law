@@ -1,0 +1,2 @@
+11. Ngarkohen Ministria e Ekonomisë, Kulturës dhe Inovacionit, Ministria e Mbrojtjes, Ministria e Infrastrukturës dhe Energjisë, Ministria e Arsimit dhe Sportit, Ministria e Turizmit dhe Mjedisit, Ministria e Drejtësisë, Fondi Shqiptar i Zhvillimit, Drejtoria e Shërbimeve Qeveritare, Agjencia Kombëtare e Planifikimit të Territorit, Agjencia Shtetërore e Kadastrës, Autoriteti i Aviacionit Civil dhe Korporata e Investimeve Shqiptare për ndjekjen dhe zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

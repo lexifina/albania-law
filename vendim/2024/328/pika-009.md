@@ -1,0 +1,1 @@
+9. Autorizohet Agjencia Kombëtare e Planifikimit të Territorit të kryejë procedurat e prokurimit “Konkurs projektimi” për marrjen e projektideve të zhvillimit të pronave të listuara në shtojcën nr. 1 dhe në shtojcën nr. 2 bashkëlidhur këtij vendimi. Shpenzimet për këto shërbime mbulohen nga buxheti i Korporatës së Investimeve Shqiptare.
