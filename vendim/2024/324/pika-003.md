@@ -1,0 +1,1 @@
+3. Efektet financiare, që rrjedhin nga ky vendim, me përjashtim të atyre të përmendura në pikën 2, të këtij vendimi, që përballohen nga fondi rezervë i buxhetit, përballohen nga buxheti vjetor i miratuar për çdo institucion.

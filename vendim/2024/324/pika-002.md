@@ -1,0 +1,3 @@
+2. Ministrisë për Evropën dhe Punët e Jashtme dhe Ministrisë së Ekonomisë, Kulturës dhe Inovacionit, në buxhetin e miratuar për vitin 2024, nga fondi rezervë i buxhetit, u shtohen fonde për zhvillimin e disa aktiviteteve, sipas përcaktimeve të lidhjes nr. 1, bashkëlidhur këtij vendimi, si më poshtë:
+a) Ministrisë për Evropën dhe Punët e Jashtme i shtohet fondi prej 5 500 000 (pesë milionë e pesëqind mijë) lekësh në programin “Mbështetje diplomatike jashtë shtetit”, në llogarinë ekonomike 602;
+b) Ministrisë së Ekonomisë, Kulturës dhe Inovacionit i shtohet fondi prej 17 720 000 (shtatëmbëdhjetë milionë e shtatëqind e njëzet mijë) lekësh në programin “Arti dhe kultura”, fonde korrente në llogarinë ekonomike 604.

@@ -1,0 +1,2 @@
+4. Ngarkohen Ministria e Mbrojtjes, Ministria e Financave, Ministria e Brendshme, Ministria e Ekonomisë, Kulturës dhe Inovacionit, Ministria e Arsimit dhe Sportit, Ministri i Shtetit për Rininë dhe Fëmijët, Ministria për Evropën dhe Punët e Jashtme, Drejtoria e Përgjithshme e Arkivave, Biblioteka Kombëtare dhe Policia e Shtetit për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

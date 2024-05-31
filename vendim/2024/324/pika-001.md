@@ -1,0 +1,1 @@
+1. Miratimin e kalendarit të integruar të veprimtarive në kuadër të Vitit Mbarëkombëtar të 80-Vjetorit të Çlirimit, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
