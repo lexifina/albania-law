@@ -45,7 +45,7 @@ viii. kriteret për kualifikim të operatorëve ekonomikë;
 ix. kriteret për përjashtimin e operatorëve ekonomikë nga sistemi i kualifikimit;
 x. kriteret për përzgjedhjen e operatorëve ekonomikë të tjerë dhe përditësimin periodik të kualifikimeve;
 xi. informacione të tjera të vlerësuara të dobishme nga enti kontraktor.
-2. Në njoftimin e kryer, sipas pikës 1 të këtij neni, autoriteti ose enti kontraktor përcakton mundësinë për kontratën e rezervuar për organizata ose sipas parashikimeve të nenit 15, të LPP-së.
+2. Në njoftimin e kryer, sipas pikës 1 të këtij neni, autoriteti ose enti kontraktor përcakton mundësinë për kontratën e rezervuar për organizata të caktuara, sipas parashikimeve në nenin 103, të LPP-së, ose sipas parashikimeve të nenit 15, të LPP-së.
 3. Detyrimi për publikimin e njoftimit, sipas pikës 1 të këtij neni, nuk zbatohet kur autoriteti ose enti kontraktor për dhënien e një kontrate publike për shërbime, objekt i këtij vendimi, ndodhet në një nga kushtet e përcaktuara në nenin 47 të LPP-së. Në këtë rast, autoriteti ose enti kontraktor do të ndjekë procedurat e nenit 47 të LPP-së.
 Neni 3
 Kontrata të rezervuara për shërbime të caktuara
@@ -54,7 +54,7 @@ Kontrata të rezervuara për shërbime të caktuara
 a) qëllimi i saj të jetë përmbushja e një misioni të shërbimit publik, që lidhet me ofrimin e shërbimeve të përmendura në pikën 1 të këtij neni;
 b) përfitimet e krijuara të investohen sërish për përmbushjen e objektivave të organizatës, në përputhje me legjislacionin në fuqi;
 c) strukturat drejtuese ose të pronësisë së organizatës bazohen në parimet e pronësisë dhe të pjesëmarrjes së punonjësve ose kërkojnë pjesëmarrje aktive të punonjësve, përdoruesve ose palëve të interesuara; dhe
-ç) gjatë tri viteve të fundit organizata nuk është shpallur fituese e një kontrate për shërbimet e përcaktuara në këtë nen nga autoriteti ose enti kontraktor që prokuron kontratën.
+ç) gjatë tri viteve të fundit, organizata nuk është shpallur fituese e një kontrate për të njëjtat shërbime të përcaktuara nga autoriteti ose enti kontraktor, që prokuron kontratën.
 3. Kohëzgjatja e kontratës së lidhur sipas këtij neni nuk mund të jetë më shumë se 3 (tre) vjet.
 Neni 4
 Organizimi i procesit
@@ -63,11 +63,12 @@ Organizimi i procesit
 3. Në çdo rast, anëtarët e njësisë së prokurimit, komisionit të vlerësimit të ofertave apo struktura të ngarkuara gjatë kryerjes së procesit të prokurimit, duhet të mbajnë në konsideratë respektimin e rregullave që lidhen me shmangien e konfliktit të interesit, sipas parashikimeve në LPP. Për këtë qëllim, duhet të deklarojnë për gjendjen e konfliktit të interesit në momentin e emërimit në këtë cilësi. Gjithashtu, anëtarët e komisionit të vlerësimit të ofertave kanë detyrim të deklarojnë për gjendjen e konfliktit të interesit edhe me ofertuesit, në momentin e hapjes së ofertave.
 Neni 5
 Kufijtë monetarë
-1. Për efekt të zbatimit të këtij vendimi, kufiri monetar për kontratat e shërbimeve është:
-a) për kontrata klasike: 90 000 000 (nëntëdhjetë milionë) lekë;
-b) për kontrata sektoriale: 120 000 000 (njëqind e njëzet milionë) lekë.
+1. Kufijtë monetarë për kontratat e shërbimeve ndahen në:
+a) kufiri monetar për shërbimet sociale dhe shërbime të tjera specifike në sektorin klasik;
+b) kufiri monetar për shërbimet sociale dhe shërbime të tjera specifike në kontratat sektoriale.
+Vlera e kufijve monetarë përcaktohet në vendimin përkatës të Këshillit të Ministrave.
 2. Për shërbimet, objekt i këtij vendimi, vlera e përllogaritur e të cilave brenda një viti kalendarik nuk është më e madhe se 20 000 000 (njëzet milionë) lekë, autoriteti ose enti kontraktor nuk u nënshtrohet procedurave të prokurimit.
-Në këtë rast, autoriteti ose enti kontraktor detyrohet që në dhënien e kontratave të respektojë parimet e përzgjedhjes të parashikuara në nenin 1 të këtij vendimi.
+Në këtë rast, autoriteti ose enti kontraktor detyrohet që në dhënien e kontratave të respektojë parimet e përzgjedhjes të parashikuara në nenin 1 të këtij vendimi. Në çdo rast, pavarësisht nga fakti që nuk do të prokurohen, planifikimi i këtyre shërbimeve dhe vlerat përkatëse duhet të pasqyrohen respektivisht në regjistrin e parashikimeve dhe në regjistrin e realizimeve të procedurave të prokurimit publik.
 Neni 6
 Procedura e përzgjedhjes
 1. Në përzgjedhjen e fituesve të kontratave për shërbimet, objekt i këtij vendimi, autoritetet ose entet kontraktore përdorin procedurën e hapur për shërbime sociale dhe shërbime të tjera specifike, e cila lejon mundësinë e pjesëmarrjes së të gjithë operatorëve ekonomikë të interesuar.
