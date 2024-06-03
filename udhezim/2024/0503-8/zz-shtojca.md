@@ -54,24 +54,23 @@ KRITERET DHE SKEMA E VLERËSIMIT TË DOSJEVE TË KANDIDATËVE PËR LËVIZJET PAR
 1
 Nota mesatare e studimeve të larta, e shprehur në numër me një shifër pas presjes dhjetore (nota mesatare e ciklit I + nota mesatare e ciklit II)/2, ose nota mesatare e studimeve të barasvlershme me to.
 Vlerësimi bëhet sipas kësaj skeme:
-Nota mesatare 5.00 - 5.50 = 0.5 pikë;
-Nota mesatare 5.51 - 6.00 = 1 pikë;
-Nota mesatare 6.01 - 6.50 = 1.5 pikë;
-Nota mesatare 6.51 - 7.00 = 2 pikë;
-Nota mesatare 7.01 - 7.50 = 2.5 pikë;
-Nota mesatare 7.51 - 8.00 = 3 pikë;
-Nota mesatare 8.01 - 8.50 = 3.5 pikë;
-Nota mesatare 8.51 - 9.00 = 4 pikë;
-Nota mesatare 9.01 - 9.50 = 4.5 pikë;
+Nota mesatare 5.00 - 5.50 = 0.5 pikë.
+Nota mesatare 5.51 - 6.00 = 1 pikë.
+Nota mesatare 6.01 - 6.50 = 1.5 pikë.
+Nota mesatare 6.51 - 7.00 = 2 pikë.
+Nota mesatare 7.01 - 7.50 = 2.5 pikë.
+Nota mesatare 7.51 - 8.00 = 3 pikë.
+Nota mesatare 8.01 - 8.50 = 3.5 pikë.
+Nota mesatare 8.51 - 9.00 = 4 pikë.
+Nota mesatare 9.01 - 9.50 = 4.5 pikë.
 Nota mesatare 9.51 - 10.00 = 5 pikë.
-0.5-5
-pikë
+0.5-5 pikë
 2
 Kategoria e kualifikimit:
 a) Mësues i Kualifikuar (kategoria III) 1-4 pikë
-(1 pikë për vlerësimin “Mjaftueshëm”, 2 pikë për vlerësimin “Mirë”, 3 pikë për vlerësimin “Shumë mirë” dhe 4 pikë për vlerësimin “Shkëlqyeshëm”);
+(1 pikë për vlerësimin “Mjaftueshëm”, 2 pikë për vlerësimin “Mirë”, 3 pikë për vlerësimin “Shumë mirë” dhe 4 pikë për vlerësimin “Shkëlqyeshëm”)
 b) Mësues Specialist (kategoria II) 5-7 pikë
-(5 pikë për vlerësimin “Mjaftueshëm”, 6 pikë për vlerësimin “Mirë”, 7 pikë për vlerësimin “Shumë mirë” dhe “Shkëlqyeshëm”);
+(5 pikë për vlerësimin “Mjaftueshëm”, 6 pikë për vlerësimin “Mirë”, 7 pikë për vlerësimin “Shumë mirë” dhe “Shkëlqyeshëm”)
 c) Mësues Mjeshtër (kategoria I) 8-10 pikë
 (8 pikë për vlerësimin “Mjaftueshëm”, 9 pikë për vlerësimin “Mirë”, 10 pikë për vlerësimin “Shumë mirë” dhe “Shkëlqyeshëm”)
 Për kandidatët që nuk e kanë në dëshmi nivelin e vlerësimit, do të llogaritet niveli “Shumë mirë”.
@@ -79,11 +78,11 @@ Kandidati vlerësohet vetëm për kategorinë më të lartë të kualifikimit q�
 0-10 pikë
 3
 Dëshmi të njohjes së gjuhës/ve të huaja:
-a) Gjuhë e huaj e mbrojtur në IAL-të publike = 1 pikë;
-b) Gjuhë e huaj e mbrojtur me testim ndërkombëtar niveli B1 = 1 pikë;
+a) Gjuhë e huaj e mbrojtur në IAL-të publike = 1 pikë.
+b) Gjuhë e huaj e mbrojtur me testim ndërkombëtar niveli B1 = 1 pikë.
 c) Gjuhë e huaj e mbrojtur me testim ndërkombëtar niveli B2 = 2 pikë.
 Dokumenti i gjuhës së huaj duhet të jetë lëshuar nga subjekte të njohura nga Ministria e Arsimit dhe Sportit, për ofrimin e testeve ndërkombëtare dhe të jetë brenda afatit të vlefshmërisë. Lista e subjekteve është sipas udhëzimit nr. 52, datë 3.12.2015, i ndryshuar.
-Pavarësisht se kandidati mund të ketë disa gjuhë të huaja të mbrojtura, në këtë rubrikë nuk mund t’i llogariten më shumë se 2 pikë në vlerësimin e dosjes.
+Pavarësisht se kandidati mund të ketë disa gjuhë të huaja të mbrojtura, në këtë rubrikë nuk mund t’i llogariten më shumë 2 pikë në vlerësimin e dosjes.
 Në rast se kandidati ka mbrojtur të njëjtën gjuhë të huaj në dy institucione të ndryshme, do t’i llogariten pikë vetëm për dëshminë me vlerësimin më të lartë.
 Kandidatit të profilit gjuhë e huaj, i njihen pikët e kësaj rubrike, përveç gjuhës së huaj për të cilën është diplomuar.
 Kandidati që nuk zotëron dëshmi të gjuhës së huaj, vlerësohet me zero pikë.
@@ -91,34 +90,33 @@ Kandidati që nuk zotëron dëshmi të gjuhës së huaj, vlerësohet me zero pik
 4
 Trajnime. Vlerësimi bëhet sipas kësaj skeme:
 a) Certifikata trajnimesh me kredite të lëshuara nga institucione në varësi të Ministrisë së Arsimit dhe Sportit ose nga agjenci trajnuese që janë akredituar nga ministria përgjegjëse për arsimin.
-i. 1 kredit = 1 pikë;
-ii. 2 kredite = 2 pikë;
+i. 1 kredit = 1 pikë.
+ii. 2 kredite = 2 pikë
 iii. mbi 3 kredite = 3 pikë.
 Kandidati që nuk zotëron certifikata trajnimi, vlerësohet me zero pikë.
 0-3 pikë
 5
 Përvoja në punë si mësimdhënës dhe/ose drejtues institucioni arsimor.
-Kandidati që nuk ja përvojë pune si mësues dhe/ose drejtues institucioni arsimor, vlerësohet me zero pikë.
-0-10 pikë
-(0.5 pikë për çdo vit pune deri në 20 vite punë)
+Kandidati që nuk përvojë pune si mësues dhe/ose drejtues institucioni arsimor, vlerësohet me zero pikë.
+0.25 pikë për çdo vit pune
 6
-Vlerësimi i përfaqësuesve të prindërve (sipas shtojcës 5).
+Vlerësimi i përfaqësuesve të prindërve (sipas shtojcës 5) .
 Përfaqësuesit e prindërve të nxënësve, ku mësuesi jep mësim, vlerësojnë punën e këtij mësuesi me nivelet: “Shumë mirë”, “Mirë”, “Mjaftueshëm”, “Dobët”, si vijon:
-Vlerësimi “Shumë mirë” dhe “Mirë” = 2 pikë;
-Vlerësimi “Mjaftueshëm” = 1 pikë;
+Vlerësimi “Shumë mirë” dhe “Mirë” = 2 pikë.
+Vlerësimi “Mjaftueshëm” = 1 pikë.
 Vlerësimi “Dobët” = 0 pikë.
 0-2 pikë
 7
 Vlerësimi nga punonjësi/it e shërbimit psiko-social.
 Punonjësi/it e shërbimit psiko-social vlerësojnë punën e mësuesit me nivelet: “Shumë mirë”, “Mirë”, “Mjaftueshëm”, “Dobët” si vijon:
-Vlerësimi “Shumë mirë” dhe “Mirë” = 2 pikë;
-Vlerësimi “Mjaftueshëm” = 1 pikë;
-Vlerësimi “Dobët” = 0 pikë.
+Vlerësimi “Shumë mirë” dhe “Mirë” = 2 pikë.
+Vlerësimi “Mjaftueshëm” = 1 pikë.
+Vlerësimi “Dobët” = 0 pikë
 0-2 pikë
 8
 Vlerësimi i drejtorit të institucionit arsimor, bazuar në vlerësimin e performancës, e shprehur në nivelet: “Shumë mirë”, “Mirë”, “Mjaftueshëm”, “Dobët”, si vijon:
-Vlerësimi: “Shumë mirë” dhe “Mirë” = 2 pikë;
-Vlerësimi: “Mjaftueshëm” = 1 pikë;
+Vlerësimi: “Shumë mirë” dhe “Mirë” = 2 pikë.
+Vlerësimi: “Mjaftueshëm” = 1 pikë.
 Vlerësimi: “Dobët” = 0 pikë.
 0-2 pikë
 SHTOJCA 3
