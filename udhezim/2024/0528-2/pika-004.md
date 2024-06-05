@@ -1,0 +1,1 @@
+4. Lista e projekteve fituese, sipas shkronjës “a”, të pikës 1, të kreut III, publikohet në faqet zyrtare të Ministrisë përgjegjëse për turizmin/ Agjencisë Kombëtare të Turizmit dhe vijohet me nënshkrimin e kontratave me subjektet fituese.

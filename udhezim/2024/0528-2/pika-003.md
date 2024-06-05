@@ -1,0 +1,1 @@
+3. Ministri përgjegjës për turizmin/ titullari i institucionit, me propozimin e kolegjiumit, miraton projektet dhe veprimtaritë në fushën e turizmit që përfitojnë mbështetje financiare nga buxheti i shtetit.

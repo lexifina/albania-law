@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve dhe afateve në lidhje me kërkesë propozimet për të përfituar mbështetje financiare për projekte dhe veprimtari në fushën e turizmit, sipas parashikimeve të shkronjave “a” dhe “c” të pikës 1, të nenit 31, të ligjit nr. 93/2015, “Për turizmin”, i ndryshuar.

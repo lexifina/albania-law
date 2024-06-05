@@ -1,0 +1,1 @@
+6. Pagesat e përfituara nga fondi buxhetor do të kryhen 60% e vlerës, të paktën 5 ditë përpara fillimit të projektit dhe 40% e vlerës në përfundim të projektit, kundrejt dokumenteve që vërtetojnë zhvillimin dhe shpenzimet e kryera në shërbim të projektit.
