@@ -4,7 +4,7 @@ Nr.7918, datë 13.4.1995
 
 PËR MIRATIMIN ME NDRYSHIME TË DEKRETIT NR.1030, DATË 23.2.1995 “PËR EMETIMIN DHE SHPËRNDARJEN E BONOVE TË PRIVATIZIMIT (LEKË PRIVATIZIMI)” DHE DEKRETIT NR.1049, DATË 27.3.1995 “PËR DISA PLOTËSIME NË DEKRETIN NR.103O, DATË 23.2.1995 “PËR EMETIMIN DHE SHPËRNDARJEN E BONOVE TË PRIVATIZIMIT”
 
-(ndryshuar me dekretin nr. 1630, datë 1.11.1996, ligjin nr.9516, datë 18.4.2006, nr.10 359, datë 16.12.2010, nr. 136/2013, datë 29.4.2013, nr. 40/2015, datë 16.4.2015, nr. 16/2017, datë 16.2.2017, nr. 36/2018, datë 21.6.2018; nr. 14/2022 datë 3.2.2022)
+(ndryshuar me dekretin nr. 1630, datë 1.11.1996, ligjin nr.9516, datë 18.4.2006, nr.10 359, datë 16.12.2010, nr. 136/2013, datë 29.4.2013, nr. 40/2015, datë 16.4.2015, nr. 16/2017, datë 16.2.2017, nr. 36/2018, datë 21.6.2018; nr. 14/2022 datë 3.2.2022; nr. 60/2024, datë 6.6.2024)
 
 (i përditësuar)
 
@@ -26,11 +26,11 @@ Për privatizimin e pasurisë shtetërore nëpërmjet letrave me vlerë Këshill
 
 Neni 3
 
-(ndryshuar fjalia e fundit me ligjin nr.9516, datë 18.4.2006, nr.10 359, datë 16.12.2010, nr.10 495, datë 22.12.2011, nr. 136/2013, datë 29.4.2013, nr. 40/2015, datë 16.4.2015, nr. 16/2017, datë 16.2.2017, nr. 36/2018, datë 21.6.2018; zëvendësuar fjalë në fjalinë e fundit)
+(ndryshuar fjalia e fundit me ligjin nr.9516, datë 18.4.2006, nr.10 359, datë 16.12.2010, nr.10 495, datë 22.12.2011, nr. 136/2013, datë 29.4.2013, nr. 40/2015, datë 16.4.2015, nr. 16/2017, datë 16.2.2017, nr. 36/2018, datë 21.6.2018; zëvendësuar fjalë në fjalinë e fundit; ndryshuar fjalë në fjalinë e fundit me Ligjin nr. 60/2024, datë 6.6.2024))
 
 Bono privatizimi do të përfitojnë të gjithë shtetasit, të cilët në datën 1.1.1995 kanë mbushur moshën 18 vjeç dhe janë regjistruar në zyrat e gjendjes civile, me përjashtim të kategorive të parashikuara në nenin 6 të këtij dekreti.
 
-Afati i përdorimit të bonove dhe lekëve të privatizimit është deri më 31.12.2023.
+Afati i përdorimit të bonove dhe lekëve të privatizimit është deri më 31.12.2027.
 
 Neni 4
 
