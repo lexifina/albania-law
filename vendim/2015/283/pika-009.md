@@ -1,0 +1,1 @@
+9. Për serrat e tipave të tjera, të cilat nuk janë të lidhura në mënyrë të qëndrueshme dhe të përhershme me tokën, nuk kërkohet pajisja me një leje ndërtimi dhe ato janë objekt i një deklarate paraprake për kryerje punimesh. Distancat për ndërtimin e tyre janë të njëjta me ato të përcaktuara në pikën 8.

@@ -1,0 +1,1 @@
+3. Leja e ndërtimit për objektet e përcaktuara në kreun I, të këtij vendimi, jepet vetëm me kushtin e ruajtjes dhe mosndryshimit të destinacionit për qëllim bujqësor/blegtoral të objektit për të cilin është lëshuar.

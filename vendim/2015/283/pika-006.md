@@ -1,0 +1,1 @@
+6. Strukturat për grumbullimin e jashtëqitjeve me origjinë shtazore duhet të vendosen në distancë jo më të vogël se 50 metër nga banesat për stallat me 5-10 njësi gjedhi dhe 100 metër për stallat më të mëdha.

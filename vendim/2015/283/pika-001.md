@@ -1,0 +1,1 @@
+1. Për të gjitha objektet për qëllime bujqësore duhet të respektohen distancat nga rrugët, hekurudhat, aeroportet, linjat e tensionit të lartë e çdo infrastrukturë tjetër publike dhe distancat nga kanalet ujitëse e kulluese, si dhe brigjet e lumenjve, sipas legjislacionit përkatës në fuqi.

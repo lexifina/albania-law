@@ -1,0 +1,1 @@
+2. Lejet e ndërtimit për objektet e përcaktuara në këtë vendim jepen vetëm pasi të jetë verifikuar ekzistenca e infrastrukturave të nevojshme, për sa u përket rrugëve lidhëse, elektricitetit dhe ujit të pijshëm ose marrjes përsipër të realizimit të tyre nga investitori njëkohësisht me ndërtimin e objekteve të sipërpërmendura.
