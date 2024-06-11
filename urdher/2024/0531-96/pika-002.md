@@ -1,0 +1,1 @@
+2. Kompetencat e deleguara sipas pikës 1 të këtij urdhri, të ushtrohen deri në emërimin e drejtorit të përgjithshëm të Gardës së Republikës së Shqipërisë, por jo më shumë se 6 (gjashtë) muaj, sipas parashikimeve të pikës 5, të nenit 19, të ligjit nr. 33/2021, “Për Gardën e Republikës së Shqipërisë”, të ndryshuar.

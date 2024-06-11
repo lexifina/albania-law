@@ -1,0 +1,1 @@
+1. Caktimin e zëvendësdrejtorit të përgjithshëm të Gardës së Republikës së Shqipërisë, Drejtues i Parë Sami Kuti, për ushtrimin e kompetencave dhe detyrave të drejtorit të përgjithshëm të Gardës së Republikës së Shqipërisë.
