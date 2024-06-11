@@ -1,0 +1,1 @@
+8. Në rast se një nga bankat e nivelit të dytë nuk përmbushin detyrimet e përcaktuara në këtë udhëzim, Drejtoria e Përgjithshme e Policisë së Shtetit nuk transferon fondet në llogarinë e posaçme të punonjësit të policisë, por i kërkon hapjen e llogarisë së posaçme në një nga bankat e nivelit të dytë që përmbushin kushtet e përcaktuara në këtë udhëzim.

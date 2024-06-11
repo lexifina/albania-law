@@ -1,0 +1,1 @@
+9. Me ndërprerjen e marrëdhënieve të punës së punonjësit të Policisë së Shtetit, Drejtoria e Përgjithshme e Policisë së Shtetit njofton bankën e nivelit të dytë se llogaria e punonjësit të Policisë së Shtetit nuk do të kreditohet në vazhdimësi për efekt të kompensimit financiar të trajtimit me ushqim.

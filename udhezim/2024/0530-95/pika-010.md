@@ -1,0 +1,1 @@
+10. Punonjësi, të cilit i janë ndërprerë marrëdhëniet e punës në Policinë e Shtetit, ka të drejtë të vendosë nëse llogaria e hapur do të mbahet aktive për kryerjen e transaksioneve financiare për qëllime të ndryshme nga ato të përcaktuara në këtë udhëzim ose të disponojë për mbylljen e saj.

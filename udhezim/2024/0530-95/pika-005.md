@@ -1,0 +1,3 @@
+5. Bankat e nivelit të dytë, që punonjësi i Policisë së Shtetit ka përzgjedhur për të hapur llogarinë bankare, duhet t’i sigurojë Drejtorisë së Përgjithshme të Policisë së Shtetit ose Ministrisë së Brendshme raporte periodike, ose me kërkesë mbi:
+a) masën e fondeve të përdorura nga punonjësit e policisë së shtetit, përkundrejt fondit total të kredituar tek punonjësit e policisë së shtetit që kanë përzgjedhur bankën përkatëse për hapjen e llogarisë së posaçme;
+b) në bashkëpunim me njësitë tregtare ushqimore, ose rrjetet e tyre, raporte të detajuara për përdorimin e fondit sipas qëllimit të përcaktuar, përfshirë edhe kategorinë e produkteve ushqimore të blera dhe sasinë e tyre.
