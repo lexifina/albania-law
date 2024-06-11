@@ -1,0 +1,12 @@
+# Neni 15
+Verifikimi i integritetit të kandidatit
+1. Aplikanti dorëzon bashkë me aplikimin pranë Ministrisë së Brendshme, kopjen fizike të formularit për vetëdeklarim, sipas ligjit nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”.
+2. Për aplikantët që plotësojnë kriteret ligjore, ministri i Brendshëm i përcjell menjëherë formularin e vetëdeklarimit sipas ligjit nr. 138/2015, të plotësuar nga kandidati, në Prokurorinë e Përgjithshme. Vetëdeklarimi i kandidatit sipas ligjit nr. 138/2015 bëhet publik në faqen zyrtare të Ministrisë së Brendshme.
+3. Prokuroria e Përgjithshme kryen verifikimet sipas ligjit jo më vonë se 30 ditë nga paraqitja e vetëdeklarimit pranë atij institucioni.
+4. Komisioni mund të kryejë edhe veprimet për kërkimin e informacionit, sipas kompetencës përkatëse, nga Drejtoria e Sigurimit të Informacionit të Klasifikuar, Shërbimi Informativ i Shtetit, shërbimet e tjera të inteligjencës dhe prokuroria. Kandidati plotëson dhe nënshkruan autorizimin sipas shtojcës B të këtij udhëzimi, ku autorizon Komisionin të kryejë verifikimet përkatëse.
+5. Në varësi të rezultateve të kontrollit dhe nevojave të verifikimit të mëtejshëm të integritetit të kandidatit, Komisioni mund të kërkojë:
+a) informacione shtesë nga institucionet e përmendura në këtë nen;
+b) shpjegime me shkrim nga kandidati, i cili, jo më vonë se 5 ditë nga marrja dijeni, duhet të paraqesë drejtpërdrejt pranë Komisionit, shpjegimet e tij dhe dokumentet mbështetës ose shprehjen e vullnetit për tërheqjen nga kandidimi.
+6. Nëse nga gjetjet dhe përfundimet e raportit të Prokurorisë së Përgjithshme, si edhe gjetjet e përfundimet e nxjerra nga të dhënat e dërguara nga institucionet e tjera të përmendura në këtë nen, Komisioni vlerëson se nuk ka të dhëna që mund të sjellin ndalimin e kandidimit, vijon me procedurën e vlerësimit të kandidatit.
+7. Nëse nga gjetjet dhe përfundimet e raportit të Prokurorisë së Përgjithshme, si edhe të atyre të dërguara nga institucionet e tjera të përmendura në këtë nen, Komisioni vlerëson se ka të dhëna që mund të sjellin përjashtimin e kandidatit, Komisioni merr vendim për përjashtimin e kandidatit dhe e njofton me shkrim dhe në mënyrë të arsyetuar. Njoftimet nënshkruhen nga kryetari dhe i dërgohen secilit kandidat të përjashtuar, me postë rekomande, ditën vijuese të punës.
+8. Përjashtimi vendoset edhe kur kandidati ka refuzuar të përmbushë detyrimin për të dorëzuar formularin e vetëdeklarimit, sipas kërkesave të ligjit nr. 138/2015.

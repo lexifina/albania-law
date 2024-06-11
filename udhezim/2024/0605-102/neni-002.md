@@ -1,0 +1,11 @@
+# Neni 2
+Procesi i përgjithshëm i përzgjedhjes
+1. Propozimi për drejtor të përgjithshëm të Gardës së Republikës së Shqipërisë bëhet pas kryerjes së një procesi të hapur, i cili organizohet nga Ministria e Brendshme.
+2. Ministria e Brendshme shpall thirrjen për paraqitjen e shprehjes së interesit për pozicionin e Drejtorit të Përgjithshëm të Gardës së Republikës, jo më vonë se 30 ditë nga data e krijimit të vendit vakant. Thirrja për paraqitjen e shprehjes së interesit qëndron e hapur për 15 ditë.
+3. Ministria e Brendshme përcakton në thirrje adresën e postës elektronike, si dhe adresën postare në të cilën aplikantët dorëzojnë shprehjet e interesit.
+4. Pas përfundimit të afatit 15-ditor për paraqitjen e shprehjes së interesit, Ministria e Brendshme publikon faqen zyrtare emrat e kandidatëve.
+5. Brenda 45 ditëve nga përfundimi i afatit të dorëzimit të shprehjeve të interesit, Komisioni i Posaçëm (në vijim “Komisioni”) kryen vlerësimin paraprak, me qëllim verifikimin e plotësimit të kushteve ligjore, të përcaktuara në nenin 4 të këtij udhëzimi. Nëse është e nevojshme, Komisioni kërkon informacione të mëtejshme prej kandidatit, institucioneve publike, apo punëdhënësit të kandidatit.
+6. Në përfundim të vlerësimit paraprak, Komisioni harton listën e kandidatëve që plotësojnë kushtet ligjore dhe të kandidatëve që nuk i plotësojnë këto kushte bazuar në dokumentacionin e paraqitur nga kandidati dhe dokumentacionin shtesë të mbledhur nga Komisioni.
+7. Komisioni merr vendim për përjashtimin e kandidatëve që nuk plotësojnë kushtet ligjore dhe i njofton me shkrim kandidatët e përjashtuar, në mënyrë të posaçme dhe të arsyetuar për shkaqet e përjashtimit.
+8. Komisioni organizon seancë dëgjimore me kandidatët dhe i njofton ata të paktën 10 ditë para seancës dëgjimore. Anëtarët e Komisionit i drejtojnë pyetje kandidatit në përputhje me kriteret e vlerësimit sipas këtij udhëzimi.
+9. Anëtarët e Komisionit vlerësojnë të gjithë informacionin e vënë në dispozicion prej kandidatëve, dokumentacionin e mbledhur dhe informacionin e marrë gjatë seancës dëgjimore, në përputhje me këtë udhëzim dhe i dorëzojnë ministrit renditjen e kandidatëve, së bashku me vlerësimet me shkrim, sipas shtojcës C të këtij udhëzimi, për secilin kandidat.
