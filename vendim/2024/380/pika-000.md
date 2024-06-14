@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes shtesë të financimit të marrëveshjes së financimit, të datës 28 mars 2018, ndërmjet Republikës së Shqipërisë (marrësi), përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW, Frankfurt am Main (KfW), për projektin “Fondi për arsimin dhe formimin profesional (AFP) dhe punësimin: Qendra shumëfunksionale në Kamzë”, miratuar me vendimin nr. 330, datë 6.6.2018, të Këshillit të Ministrave, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
