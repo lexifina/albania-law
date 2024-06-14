@@ -1,0 +1,5 @@
+# Neni 9
+Zgjedhja e anëtarëve, e zëvendëskryetarit dhe mbledhja e parë
+1. Me hyrjen në fuqi të këtij vendimi, titullarët e institucioneve, të përcaktuara në shkronjat “a”, “b”, dhe “dh”, të pikës 2, të nenit 11, të ligjit nr. 66/2023, “Për administrimin e objekteve të konfiskuara si ndërtime pa leje, me qëllim përdorimin e tyre për interes publik apo strehim social, si dhe zbutjen e pasojave sociale të shkaktuara”, i njoftojnë Agjencisë Shtetërore të Kadastrës të dhënat për nëpunësit e nivelit të lartë drejtues, të caktuar prej tyre. Titullarët, sipas shkronjave “c”, “ç” dhe “d”, i njoftojnë Agjencisë Shtetërore të Kadastrës të dhënat për një nëpunës, si anëtar të këtij Komisioni, në rast se e kanë autorizuar një të tillë.
+2. Kryetari i Komisionit, jo më vonë se 5 (pesë) ditë nga data e marrjes së njoftimit nga titullari i institucionit, që ka caktuar i fundit anëtarin e tij, thërret mbledhjen e parë të Komisionit.
+3. Në mbledhjen e tij të parë të çdo viti kalendarik, Komisioni zgjedh zëvendëskryetarin me rotacion midis anëtarëve.
