@@ -1,6 +1,6 @@
 # Neni 4
 Paraqitja e kërkesës për shprehje interesi dhe dokumentacionit shoqërues
-1. Kandidati për përmbarues gjyqësor shtetëror paraqet pranë Drejtorisë së Përgjithshme të Përmbarimit kërkesën për shprehje interesi dhe dokumentacionin shoqërues brenda 15 (pesëmbëdhjetë) ditëve nga data e publikimit të thirrjes për paraqitjen e kërkesave për shprehje interesi.
+1. Kandidati për përmbarues gjyqësor shtetëror paraqet pranë Drejtorisë së Përgjithshme të Përmbarimit kërkesën për shprehje interesi dhe dokumentacionin shoqërues brenda 7 (shtatë) ditëve nga data e publikimit të thirrjes për paraqitjen e kërkesave për shprehje interesi.
 2. Kërkesa për shprehje interesi përmban këto të dhëna:
 a) emrin, mbiemrin, atësinë, amësinë, datëlindjen, vendlindjen, numrin personal të identifikimit, gjininë dhe shtetësinë e kandidatit;
 b) adresën e vendbanimit, numrin telefonik të kontaktit dhe adresën elektronike të kandidatit;
