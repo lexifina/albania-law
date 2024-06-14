@@ -1,0 +1,1 @@
+1. Aparatit të Ministrisë së Drejtësisë, në buxhetin e miratuar për vitin 2024, në programin buxhetor 01110 “Planifikim, menaxhim dhe administrim”, i shtohet fondi prej 17 500 000 (shtatëmbëdhjetë milionë e pesëqind mijë) lekësh, në zërin “Shpenzime korrente”.
