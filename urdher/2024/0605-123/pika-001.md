@@ -1,0 +1,1 @@
+1. Miratimin e planit vjetor minerar për vitin 2024, sipas propozimeve të strukturave përgjegjëse AKBN-së (shkresa nr. 9797 prot., datë 18.12.2023) dhe SHGJSH-së (shkresa nr. 6703 prot., datë 17.8.2023).
