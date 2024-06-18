@@ -1,0 +1,1 @@
+1. Shpalljen e zonës, pasuria nr. 1/644, zona kadastrale 8210, në pronësi të Bashkisë Tiranë, si zonë e përshtatshme për zhvillim, me qëllim ndërtimin e banesave sociale, si pjesë e fondit publik të banesave sociale, në pronësi të Bashkisë Tiranë.

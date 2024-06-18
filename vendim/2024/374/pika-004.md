@@ -1,0 +1,1 @@
+4. Ministria përgjegjëse për strehimin dhe njësia e vetëqeverisjes vendore bashkëpunojnë për përcaktimin e standardeve dhe të modaliteteve të realizimit të programit të zhvillimit të zonës me qëllim strehimi.
