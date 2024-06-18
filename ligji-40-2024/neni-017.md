@@ -1,0 +1,7 @@
+# Neni 17
+Tarifat për shërbimet e lundrimit ajror
+1. Tarifat për ofrimin e shërbimeve të lundrimit ajror llogariten nga Albcontrol-i duke reflektuar koston bazë të shërbimeve dhe përballohen nga përdoruesit e këtyre shërbimeve.
+2. Tarifat e lundrimit ajror përfshijnë tarifat e ofrimit të shërbimeve të lundrimit ajror në rrugëkalim (en-route) dhe tarifat për shërbimet e lundrimit ajror, që ofrohen në aerodrome për nisjen dhe mbërritjen e fluturimeve.
+3. Tarifat e lundrimit ajror në rrugëkalim (en-route) përcaktohen, faturohen dhe mblidhen nga Eurocontrol-i në emër të Republikës së Shqipërisë, bazuar në sistemin e tarifave në rrugëkalim (en-route) të Eurocontrol-it dhe kalojnë në llogarinë bankare të Albcontrol-it. Këto tarifa faturohen si një tarifë e vetme për fluturimin, në bazë të distancës së fluturuar brenda secilit vëllim tarifor të hapësirës ajrore dhe në bazë të peshës së avionit.
+4. Tarifat për shërbimet e lundrimit ajror, që ofrohen në aerodrome ose grupe aerodromesh për nisjen dhe mbërritjen e fluturimeve, llogariten si një tarifë vetëm për nisjen e fluturimit, duke marrë parasysh peshën e avionit dhe duke aplikuar metodat e përcaktuara dhe të miratuara nga Autoriteti i Aviacionit Civil. Tarifat e llogaritura sipas kësaj pike faturohen dhe mblidhen nga Albcontrol-i ose përfaqësuesi i autorizuar i tij.
+5. Rastet e fluturimeve të përjashtuara nga këto tarifa përcaktohen në marrëveshjen me Eurocontrol-in dhe publikohen në AIP Albania.
