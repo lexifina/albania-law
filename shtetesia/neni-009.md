@@ -1,6 +1,8 @@
 # Neni 9
 Rastet e veçanta të fitimit të shtetësisë shqiptare
-1. Shtetësia shqiptare mund të fitohet nga shtetasi i huaj që ka mbushur moshën 18 (tetëmbëdhjetë) vjeç kur nuk përbën kërcënim për rendin publik dhe sigurinë kombëtare të Republikës së Shqipërisë, edhe në rastet kur Republika e Shqipërisë ka interes kombëtar apo interes në fushën e arsimit, shkencës, artit, kulturës, ekonomisë e sportit.
+(Hequr togfjalësh në pikën 1 dhe shtuar pikën 1/1 me ligjin nr. nr. 77/2023, datë 2.5.2024)
+1. Shtetësia shqiptare mund të fitohet nga shtetasi i huaj kur nuk përbën kërcënim për rendin publik dhe sigurinë kombëtare të Republikës së Shqipërisë, edhe në rastet kur Republika e Shqipërisë ka interes kombëtar apo interes në fushën e arsimit, shkencës, artit, kulturës, ekonomisë e sportit.
+1/1. Për shtetasin e huaj që nuk ka mbushur moshën 18 vjeç, shtetësia shqiptare sipas pikës 1 të këtij neni mund të fitohet vetëm me pëlqimin e të dy prindërve ose kujdestarit ligjor, si dhe të fëmijës që ka moshën 14-18 vjeç.
 2. Për hartimin e programeve të veçanta, përcaktimin e rregullave specifike të kontrollit të veçantë të sigurisë dhe pastërtisë së figurës në standardet më të larta dhe monitorimin e zbatimit të tyre, krijohet një agjenci shtetërore e posaçme në varësi të ministrit. Organizimi dhe funksionimi i agjencisë miratohet me vendim të Këshillit të Ministrave.
 3. Kriteret për fitimin e shtetësisë, sipas programeve të veçanta të përcaktuara në pikën 1 të këtij neni, procedurat e aplikimit, rregullat e kryerjes së verifikimeve dhe kontrolleve të nevojshme miratohen me vendim të Këshillit të Ministrave, me bashkëpropozim të ministrit dhe ministrave përgjegjës sipas fushës së tyre të përgjegjësisë.
 4. Parashikimet e neneve 17 dhe 18 të këtij ligji nuk zbatohen në rastet e fitimit të shtetësisë sipas këtij neni.
