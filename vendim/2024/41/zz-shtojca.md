@@ -115,8 +115,8 @@ Duke qëndruar brenda kontureve të parashikimeve të treguesve makroekonomikë 
 Grafik 3.5. Shpenzimet (majtas në miliardë lek, djathtas në përqindje të PBB-së)
 Burimi: Ministria përgjegjëse për financat
 Parashikimet e të ardhurave sipas zërave të buxhetit të konsoliduar, si dhe niveli i shpenzimeve të shpërndara, sipas zërave të buxhetit të konsoliduar paraqiten në lidhjet nr. 2/1 dhe nr. 2/2 bashkëngjitur VKM, respektivisht në terma nominalë dhe në raport me PBB-n.
-Lidhja nr. 1, “Treguesit kryesorë makroekonomikë”
-Lidhja nr. 2/1, “Treguesit fiskalë sipas buxhetit të konsoliduar”
-(në milion lek)
-Lidhja nr. 2/2, “Treguesit fiskalë sipas buxhetit të konsoliduar”
+Lidhja nr. 1 - Treguesit kryesorë makroekonomikë
+Lidhja nr. 2/1 - Treguesit fiskalë sipas buxhetit të konsoliduar
+(në milionë lekë)
+Lidhja nr. 2/2 - Treguesit fiskalë sipas buxhetit të konsoliduar
 (në përqindje të PBB-së)
