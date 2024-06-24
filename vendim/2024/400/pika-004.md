@@ -1,0 +1,1 @@
+4. Përfituesit sipas shkronjës “ç”, të pikës 1, të këtij vendimi, janë punonjësit arsimorë në institucionet publike të arsimit parauniversitar, si pjesë e administratës publike, dhe përzgjidhen në bazë të kritereve të parashikuara në sistemin e pikëzimit të përcaktuar në tabelën 3, që i bashkëlidhet këtij vendimi.
