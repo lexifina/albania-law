@@ -1,0 +1,2 @@
+3. Ngarkohen Ministria e Shëndetësisë dhe Mbrojtjes Sociale, Ministria e Bujqësisë dhe Zhvillimin Rural, Ministria e Infrastrukturës dhe Energjisë, Inspektorati Shtetëror Shëndetësor, Instituti i Fizikës Bërthamore të Zbatuar, organet qendrore dhe vendore për menaxhimin e integruar të burimeve ujore dhe çdo institucion tjetër, publik ose privat, që kanë sistemin e tyre të furnizimit me ujë, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare dhe i fillon efektet nga data 1 janar 2025.
