@@ -1,0 +1,1 @@
+8. Plani individual i riintegrimit dhe punësimit përgatitet nga këshilluesi në bashkëpunim me përfituesin e programit dhe zyrën e punës. Plani individual i riintegrimit dhe punësimit përmban analizën e nevojave për punësim të përfituesit, objektivat individualë për punësim dhe afatet kohore të zbatimit.

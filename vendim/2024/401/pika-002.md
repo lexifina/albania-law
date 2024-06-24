@@ -1,0 +1,4 @@
+2. Programi i riintegrimit social është një program me kohëzgjatje deri në gjashtë muaj, i cili ka qëllim përfshirjen në tregun e punës të punëkërkuesve të papunë nëpërmjet ofrimit të këshillimit të specializuar për punësim, vetëpunësim dhe formim profesional.
+II. PROGRAMI
+1. Programi zbatohet nga Agjencia Kombëtare e Punësimit dhe Aftësive (në vijim AKPA), në bashkëpunim me institucione të tjera publike dhe organizata jofitimprurëse (në vijim OJF), të cilat kanë në fokus të veprimtarisë së tyre fuqizimin ekonomik të grupeve të disavantazhuara, nëpërmjet ofrimit të këshillimit të specializuar për punësim, vetëpunësim dhe formim profesional, koordinimin dhe referimin në shërbimet e punësimit dhe shërbimet sociale, të cilat ndihmojnë përfituesit të integrohen në tregun e punës.
+2. Për zbatimin e këtij programi, AKPA-ja kontrakton OJF-në, nëpërmjet procedurave konkurruese, të përcaktuara në kreun V, të këtij vendimi.

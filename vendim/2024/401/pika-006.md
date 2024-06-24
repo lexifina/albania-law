@@ -1,0 +1,1 @@
+6. Mbikëqyrësi është personi përgjegjës i ngarkuar me kontrollin e zbatimit të programit, sigurimin e pjesëmarrjes, koordinimin e proceseve me strukturat e punësimit të AKPA-së, si dhe me institucionet e tjera publike të përfshira në zbatimin e këtij programi.

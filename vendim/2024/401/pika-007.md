@@ -1,0 +1,1 @@
+7. Këshilluesi është personi përgjegjës për përpilimin e planit individual të riintegrimit dhe punësimit, organizimin e takimeve individuale dhe në grup, ndjekjen dhe arritjen e objektivave të planit, si dhe ofron mbështetjen në punësim gjatë programit për përfituesit.
