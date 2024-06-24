@@ -1,0 +1,1 @@
+1. Për qëllime të këtij vendimi, termat e përdorur në ligjin nr. 9244, datë 17.6.2004, “Për mbrojtjen e tokës bujqësore”, të ndryshuar, dhe në legjislacionin e ushtrimit të aktivitetit të prodhimit të energjisë nga burime të rinovueshme kanë të njëjtin kuptim.

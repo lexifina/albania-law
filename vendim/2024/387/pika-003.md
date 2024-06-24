@@ -1,0 +1,4 @@
+3. Investitorët pajisen me të drejtën e ndërtimit të kapaciteteve të reja prodhuese të energjisë elektrike, sipas legjislacionit sektorial të energjisë së rinovueshme. Investitorët paraqesin për pajisjen me të drejtë ndërtimi të kapaciteteve të reja gjeneruese dhe dokumentacionin e mëposhtëm:
+a) planvendosjen e paneleve ose turbinave eolike dhe planvendosjen e infrastrukturës ndihmëse, nëse është e parashikuar një e tillë në projekt, në parcelën ku do kryhet ndërtimi, e cila shërben dhe për miratimin e lejes së ndërtimit;
+b) relacionin teknik, ku përfshihen në detaje zërat e punimeve, sipërfaqja totale e paneleve ose turbinave eolike dhe përqindja në raport me sipërfaqen e parcelës, sipërfaqja e objektit të infrastrukturës ndihmëse, zërat e punimeve, plotësimi i kushteve, sipas kreut 2, të këtij vendimi;
+c) miratimin paraprak nga Ministria e Bujqësisë dhe Zhvillimit Rural.
