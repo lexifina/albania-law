@@ -1,0 +1,1 @@
+4. Dorëzimi i formularit të vetëdeklarimit për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike të plotësuar, të bëhet brenda 10 ditëve nga data e emërimit, në pozicionin e zëvendësuesit të përkohshëm, të administratorit të shoqërive huamarrëse në administrim.

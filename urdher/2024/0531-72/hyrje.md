@@ -1,0 +1,5 @@
+URDHËR
+Nr. 72, datë 31.5.2024
+PËR ZËVENDËSIM TË PËRKOHSHËM NË DETYRË
+Në mbështetje të nenit 102, pika 4, të Kushtetutës së Republikës së Shqipërisë; të ligjit nr. 44/2015, “Kodi i Procedurave Administrative”; të nenit 3, të ligjit nr. 41/2012, “Për afatet dhe procedurat e mbylljes së procesit të kontrollit financiar të personave juridik jobankarë që kanë marrë hua nga publiku i gjerë”; të ligjit nr. 90/2012, “Për organizimin dhe funksionimin e administratës shtetërore”; të nenit 28, pika “d”, të ligjit 9000/2003, “Për organizimin dhe funksionimin e Këshillit të Ministrave”; të ligjit nr. 9049, datë 10.4.2003, “Për deklarimin dhe kontrollin e pasurive, të detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publik”, të ndryshuar; të ligjit nr. 9367, datë 7.4.2005, “Për parandalimin e konfliktit të interesave”, si dhe të ligjit nr. 138/2005, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”, si dhe të urdhrit të ministrit të Financave dhe Ekonomisë nr. 76, datë 18.9.2014, “Për miratimin e strukturës dhe të organikës së administrimit të shoqërive huamarrëse”, të ndryshuar,
+URDHËROJ:

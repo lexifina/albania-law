@@ -1,0 +1,1 @@
+1. Znj. Lejdi Qirollari, aktualisht specialist jurist, në shoqëritë huamarrëse në administrim, ngarkohet si zëvendësues i përkohshëm, në pozicionin e administratorit të shoqërive huamarrëse në administrim.

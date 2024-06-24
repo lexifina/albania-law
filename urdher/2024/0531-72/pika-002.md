@@ -1,0 +1,1 @@
+2. Zëvendësimi i përkohshëm bëhet për të rregulluar funksionimin normal të institucionit dhe për të siguruar vijimësinë në ushtrimin e detyrave në përgjegjësi të institucionit, deri në plotësimin e pozicionit të administratorit të shoqërive huamarrëse në administrim.

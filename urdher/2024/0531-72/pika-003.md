@@ -1,0 +1,1 @@
+3. Plotësimi i formularit të deklarimit të pasurisë “Para fillimit të detyrës” në sistemin EACIDS dhe dorëzimi i tij pranë autoritetit përgjegjës të bëhet brenda 30 ditëve nga data e fillimit të detyrës në pozicionin e zëvendësuesit të përkohshëm, të administratorit të shoqërive huamarrëse në administrim.
