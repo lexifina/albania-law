@@ -1,0 +1,1 @@
+7. Djegia e mbetjeve bimore nuk kryhet nëse materialet janë të ndotura, kanë substanca të rrezikshme, konservues, regjës, veshje të tjera artificiale, lëndë druri, pemë, mbetje nga krasitja e pemëve, gjethe, ashkla ose mbetje të tjera të ngjashme, të krijuara nga kultivimi dhe punimet në parcelë/ngastër.

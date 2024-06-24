@@ -1,0 +1,1 @@
+1. Djegia e masës bimore, pjesëve të tyre dhe mbetjeve bimore kryhet në periudhën nga 30 nëntori deri në 1 prill, në përputhje me ligjin nr. 9244, datë 17.6.2004, “Për mbrojtjen e tokës bujqësore”, të ndryshuar, dhe me përcaktimet e këtij vendimi.
