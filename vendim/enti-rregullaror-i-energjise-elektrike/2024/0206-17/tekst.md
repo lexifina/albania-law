@@ -4,6 +4,10 @@ VENDIM
 
 		MBI KËRKESËN E SHOQËRISË “ERSEKA SOLAR PARK 1” SHPK PËR MARRJEN E AUTORIZIMIT TË ERE-s, PËR VENDOSJEN E KUOTAVE TË SAJ SI KOLATERAL, PËR GARANTIMIN E DETYRIMIT NDAJ TË TRETËVE
 
+		(Ndryshuar me vendimin nr. 129, datë 25.6.2024)
+
+		(I përditësuar)
+
 Në mbështetje të nenit 16, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 5, 8, 9, pika 8 dhe 10, të “Rregullores për procedurat dhe afatet për dhënien e autorizimit nga ERE për ndryshimin e statusit ligjor të të licencuarit, ndryshimin e ortakut/aksionarit që kontrollon interesat e të licencuarit dhe vendosjen e kuotave/aksioneve të ortakut/aksionerit që kontrollon interesat e të licencuarit si mjete për garantimin e përmbushjes së detyrimit/eve ndaj të tretëve”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 235, datë 26.11.2021; si dhe nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 6.2.2024, mbasi shqyrtoi relacionin me nr. 54/2 prot., datë 1.2.2024, të përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi kërkesën e shoqërisë ‘Erseka Solar Park 1’ sh.p.k. për vendosjen e kutoave të saj si kolateral për garantimin e detyrimit ndaj të tretëve”,
 
 konstatoi se:
@@ -38,7 +42,7 @@ VENDOSI:
 
 2. Dhënia e Autorizimit nga ERE, sipas përcaktimeve të pikës 1 të këtij vendimi nuk e çliron shoqërinë “Erseka Solar Park 1” sh.p.k. nga detyrimi për të marrë autorizimin/miratimin e organeve të tjera apo palëve të treta për këtë ndryshim, në rast se kjo kërkohet nga këto organe.
 
-3. Shoqëria “Erseka Solar Park 1” sh.p.k. duhet të depozitojë në ERE ekstraktin historik të regjistrit tregtar, brenda 10 (dhjetë) ditëve nga reflektimi në të i vendosjes së kolateralit mbi kuotat e saj.
+3. Shfuqizuar.
 
 4. Në rast se në zbatimin e kontratës së kredisë bankare do të preket ndonjë nga përcaktimet e kontratës nr. 110 rep., nr. 31 kol.., datë 13.1.2023, nënshkruar me Ministrinë e Infrastrukturës dhe Energjisë, dhënia e autorizimit sipas përcaktimeve të pikës 1 të këtij vendimi bëhet nul.
 
