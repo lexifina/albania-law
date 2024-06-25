@@ -1,7 +1,0 @@
-LIGJ
-Nr. 68/2012
-PËR INFORMACIONIN E KONSUMIT TË ENERGJISË DHE BURIMEVE TË TJERA TË PRODUKTEVE ME NDIKIM NË ENERGJI
-Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:
