@@ -1,1 +1,0 @@
-1. Miratimin e Strategjisë Sektoriale të Menaxhimit të Financave Publike, 2019-2022, dhe të planit të veprimit të saj, sipas dokumentit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
