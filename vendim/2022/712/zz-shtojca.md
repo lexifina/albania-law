@@ -103,17 +103,20 @@ Iljaz
 Çobo
 Qori
 3574
-16/97
-truall+ndërtesë
-80
-30.9
-1015
-31,363.50
-156
+16/445 ND
+Ndërtesë
+160
+0
+0
+0
+0
+0
+160
 28,320.6
-4,418,013.6
-4,449,377.10
-Objekt 2K SEKSIONI D. Kufizimet e pronësisë 8.7.2016 NDALOHEN VEPRIMET MBI PASURINË
+4,531,296
+4,531,296
+Konfirmuar nga ASHK-ja
+Shtëpi banimi 2-katëshe. Kati përdhes 80 m2 dhe kati i parë 80 m2.
 5
 Aristidh
 Sami
