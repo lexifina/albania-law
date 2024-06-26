@@ -1,1 +1,1 @@
-1. Shpalljen zonë e re për zhvillim të territorit, me sipërfaqe prej 86 710 (tetëdhjetë e gjashtë mijë e shtatëqind e dhjetë) m2, si zonë e përshtatshme për zhvillimin e detyruar, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi, në fshatin Valias, Bashkia Kamzë.
+1. Shpalljen zonë e re për zhvillim të territorit, me sipërfaqe prej 63 310 (gjashtëdhjetë e tre mijë e treqind e dhjetë) m2, si zonë e përshtatshme për zhvillimin e detyruar, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi, në fshatin Valias, Bashkia Kamzë.
