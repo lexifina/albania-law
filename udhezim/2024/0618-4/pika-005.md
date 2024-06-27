@@ -1,0 +1,1 @@
+5. Komisioni i marrjes në dorëzim merr në dorëzim dokumentin e identifikimit profesional dhe dokumentacionin mbi çështjet përmbarimore të papërfunduara në proces ekzekutimi, me procesverbal të nënshkruar nga të gjithë anëtarët dhe përmbaruesi gjyqësor shtetëror që largohet nga detyra ose personi i autorizuar prej tij.

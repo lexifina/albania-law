@@ -1,0 +1,1 @@
+2. Kryetari i zyrës përmbarimore vendore përcakton me urdhër detyrimin për dorëzimin e dokumentit të identifikimit profesional dhe dokumentacionit mbi çështjet përmbarimore të papërfunduara në proces ekzekutimi, si dhe ngritjen e një komisioni për marrjen në dorëzim të këtij dokumentacioni.

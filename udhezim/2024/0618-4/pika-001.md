@@ -1,0 +1,1 @@
+1. Në rast se përmbaruesi gjyqësor shtetëror largohet nga detyra, dorëzon në zyrën përmbarimore vendore, sipas përcaktimeve të këtij udhëzimi, dokumentin e identifikimit profesional, si dhe dokumentacionin mbi çështjet përmbarimore të papërfunduara në proces ekzekutimi.

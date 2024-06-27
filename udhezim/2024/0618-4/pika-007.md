@@ -1,0 +1,1 @@
+7. Komisioni i marrjes në dorëzim i dorëzon kryetarit të zyrës përmbarimore çështjet përmbarimore të papërfunduara. Kryetari cakton me urdhër përmbaruesin gjyqësor shtetëror zëvendësues për këto çështje. Deri në datën e caktimit të përmbaruesit gjyqësor shtetëror zëvendësues, këto dosje ruhen në zyrën përmbarimore vendore.

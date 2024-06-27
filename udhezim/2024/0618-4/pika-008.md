@@ -1,0 +1,1 @@
+8. Dokumenti i mjetit të identifikimit profesional nxirret jashtë përdorimit me procesverbal nga një komision i përcaktuar me urdhër të kryetarit të zyrës përmbarimore, në të cilin përfshihen dy përmbarues gjyqësorë nga zyra përmbarimore vendore dhe specialisti i financës pranë zyrës përkatëse.
