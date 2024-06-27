@@ -15,8 +15,20 @@ PËRMBAJTJA
 10. Përgjegjësitë e fituesve
 11. Konfidencialiteti i të dhënave
 12. Njësia menaxhuese e grantit
-1. Hyrje
-Rregullorja përmban procedurën e aplikimit, dokumentacionin e nevojshëm dhe procedurën e disbursimit dhe monitorimit të projekteve fituese, për mbështetje me grant për ndërmarrjet mikro, të vogla dhe të mesme.
+Përkufizime:
+1. Në zbatim të kësaj rregulloreje, termat e mëposhtëm kanë këto kuptime:
+a) “AIDA” është Agjencia Shqiptare e Zhvillimit të Investimeve;
+b) “Bordi Vlerësues i Kërkesave” është organi kolegjial që shqyrton dhe vlerëson të gjitha aplikimet që kanë përmbushur kriteret formale;
+c) “Njësia për Menaxhimin e Grantit” është sekretariatit teknik i Bordit, i cili merr në dorëzim dhe shqyrtim çdo aplikim të paraqitur, i cili plotëson kriteret e kësaj rregulloreje.
+ç) “Ndërmarrje” është çdo person fizik ose juridik, i regjistruar në regjistrin tregtar, i cili ushtron veprimtari ekonomike;
+d) “NMVM” janë ndërmarrjet mikro, të vogla dhe të mesme, që janë regjistruar në regjistrin tregtar, në të cilat me përjashtim të rasteve të përcaktuara në pikën 7, të këtij neni, organet publike, direkt ose indirekt, nuk mund të zotërojnë më shumë se 25% të kapitalit apo të të drejtave të votës.
+dh) “Ndërmarrje të reja” janë ndërmarrjet mikro, të vogla e të mesme, të cilat janë regjistruar në regjistrin tregtar prej jo më shumë se 12 muajsh;
+e) “Kërkues” është personi fizik/juridik me seli në territorin e Republikës të Shqipërisë, i cili kërkon mbështetje financiare nga buxheti i shtetit;
+ë) “Kërkesa” është kërkesa për përfitim granti pasqyruar në formularin e kërkesës së bashku me dokumentacionin përkatës, që paraqitet nga kërkuesi në AIDA;
+f) “Grant” është mbështetje financiare nga buxheti i shtetit;
+g) “Kritere” janë kushtet dhe kërkesat për ndërmarrjet për dhënien e granteve.
+2. Termat e përdorur në këtë rregullore do të kenë të njëjtin kuptim si në ligjet nr. 10 303, datë 15.7.2010, “Për krijimin dhe mënyrën e organizimit e të funksionimit të Agjencisë Shqiptare të Zhvillimit të Investimeve (AIDA)”, dhe nr. 43/2022, “Për zhvillimin e ndërmarrjeve mikro, të vogla dhe të mesme.
+1. Kjo rregullore ka për qëllim të përcaktojë në mënyrë të detajuar rregullat, kriteret, procedurën e aplikimit, disbursimit dhe monitorimit të projekteve fituese për mbështetje me grant për ndërmarrjet mikro, të vogla dhe të mesme, në zbatim të ligjit nr. 43/2022, “Për zhvillimin e ndërmarrjeve mikro, të vogla dhe të mesme.
 2. KRITERET E PËRGJITHSHME DHE SPECIFIKE PËR NDËRMARRJET
 Mbështeten me grant ndërmarrjet që plotësojnë kriteret e përgjithshme të mëposhtme:
 a) të jenë persona fizikë apo juridikë, të regjistruar në regjistrin tregtar, për jo më pak se 12 muaj;
@@ -52,28 +64,26 @@ Kostot e mëposhtme nuk mbulohen nga Fondi:
 - kosto të lindura në vazhdimësi prej strukturave dhe detyrimeve ekzistuese;
 - pjesëmarrja në panaire të armatimit dhe teknologjisë ushtarake;
 - pjesëmarrja në panaire të teknologjisë së duhanit.
-5. PROCEDURA E APLIKIMIT
-Aplikimi për mbështetje me grant do të kryhet on-line nëpërmjet faqes dhe adresës elektronike të AIDA-s:
-- formatet e aplikimit do të shkarkohen në linkun: https://aida.gov.al/dokumentet-e-aplikimit/;
-- formatet e aplikimit do të plotësohen nga aplikuesi dhe së bashku me dokumentacionin e kërkuar do të dërgohen me e-mail në adresën: ndermarrje@aida.gov.al;
-- formatet e aplikimit dhe dokumentacioni i kërkuar duhet të jenë në formatin PDF;
-- dokumentacioni i kërkuar duhet të jetë kopje e skanuar nga origjinali;
-- subjekti i e-mail-it duhet të jetë: aplikim ndërmarrje;
-- pas dërgimit me e-mail të aplikimit, aplikuesi do të marrë përgjigje nëpërmjet një e-mail-i automatik, i cili do të konfirmojë marrjen e aplikimit;
-- njësia menaxhuese e grantit pranë AIDA është e detyruar të marrë në dorëzim dhe shqyrtim çdo aplikim të paraqitur, i cili plotëson kriteret e kësaj rregulloreje;
-- pas shkarkimit të dokumentacionit të aplikimit, njësia menaxhuese hap një dosje aplikimi për aplikuesin dhe bën regjistrimin e aplikimit, i cili do të pajiset me një numër të dedikuar aplikimi;
-- pas mbylljes së thirrjes, aplikimi do të merret në dorëzim nga njësia menaxhuese e grantit, e cila duhet të analizojë aplikimin për t’u siguruar, në lidhje me plotësimin siç duhet të kritereve dhe dokumentacionit të kërkuar. Pas këtij shqyrtimi, njësia menaxhuese informon dhe ia paraqet për vlerësim Bordit të vlerësimit;
-- nëse aplikuesi has paqartësi dhe vështirësi gjatë procesit të aplikimit, ai do të ndihmohet dhe këshillohet nga njësia përgjegjëse pranë AIDA.
-6. SHPALLJA E PROJEKTEVE FITUESE
-Jo më vonë se 5 ditë pas përfundimit të afatit të përcaktuar për dorëzimin e aplikimeve, Bordi i vlerësimit mblidhet për të shqyrtuar dhe vlerësuar të gjitha aplikimet e mbërritura nga ndërmarrjet.
-Në rastet kur është e nevojshme, njësia menaxhuese ka të drejtë të kërkojë informacione ose dokumentacion shtesë nga aplikuesit. Informacioni ose dokumentacioni shtesë duhet të plotësohet nga aplikuesi brenda një periudhe kohore prej 3 ditësh kalendarike nga momenti i njoftimit.
-Në përfundim të procesit të shqyrtimit, Bordi plotëson raportin vlerësues për çdo aplikim duke marrë vendimin për secilin dhe përcakton nivelin e grantit për përfituesit e ndërmarrjeve.
-Miratimi i dhënies së grantit grantit merret me vendim të Bordit bazuar në pikën 4, të nenit 11 të ligjit nr. 43, datë 21.4.2022, “Për zhvillimin e ndërmarrjeve mikro, të vogla dhe të mesme”.
-Brenda një periudhe 3-ditore kalendarike nga momenti i hyrjes në fuqi të vendimit Bordit, aplikuesit njoftohen për rezultatet e aplikimit.
-Aplikuesit fitues njoftohen individualisht për të firmosur Marrëveshjen e grantit nënshkruar midis fituesit dhe AIDA.
-Aplikuesit jofitues do të njoftohen nëpërmjet postës elektronike. Brenda 30 ditëve kalendarike nga marrja e njoftimit, aplikuesit jofitues kanë të drejtën e ankimimit të rezultatit pranë AIDA.
-Njoftimi për aplikuesit fitues dhe jofitues do të bëhet nëpërmjet e-mail-it me adresë: ndermarrje@aida.gov.al.
-Projektet e shpallura fituese duhet të zbatohen në një afat maksimal 2-4-mujor nga data e nënshkrimit të marrëveshjes së fitimit të grantit midis përfituesit dhe ministrit përgjegjës për ekonominë.
+5. Procedura e aplikimit është, si më poshtë:
+a) Kërkuesi për mbështetje me fond dërgon kërkesën në rrugë elektronike në adresën e AIDA-s: ndërmarrje@aida.gov.al.
+b) Dërgimi i kërkesave në rrugë elektronike do të konfirmohet nga AIDA me një përgjigje me e-mail dhe do të protokollohen me datën e mbërritjes në adresën: ndërmarrje@aida.gov.al.
+c) Formulari i kërkesës dhe dokumentacioni i dërguar në rrugë elektronike duhet të jenë në formatin PDF.
+ç) Thirrja qëndron e hapur jo më pak se 30 (tridhjetë) ditë kalendarike nga dita e publikimit të saj. Njoftimi për thirrje do të publikohet në faqen zyrtare të Ministrisë së Ekonomisë, Kulturës dhe Inovacionit: www.meki.al dhe të AIDA-s: www.aida.gov.al dhe në rrjetet sociale të AIDA-s.
+d) Formulari i kërkesës, buxhetit dhe deklarata për kategorinë e NMVM-ve do të shkarkohen në linkun që do të vihet në dispozicion nga AIDA.
+5.1. Shqyrtimi i kërkesave:
+a) Njësia për Menaxhimin e Grantit në AIDA, brenda 10 (dhjetë) ditëve kalendarike nga e nesërmja e datës së përfundimit të afatit të thirrjes, merr në shqyrtim çdo kërkesë të paraqitur dhe verifikon përmbushjen e kërkesave formale nga ana e NMVM-ve.
+b) Pas vlerësimit të kërkesave formale nga Njësia për Menaxhimin e Grantit në AIDA, kjo e fundit i përcjell Bordit listën e kërkesave që kanë përmbushur kriteret formale dhe propozimet për NMVM-të me mangësi në dokumentacion që nuk kualifikohen. Këto kërkesa i nënshtrohen procesit të shqyrtimit dhe vlerësimit nga ana e Bordit, i cili mblidhet brenda 5 ditëve kalendarike nga dita e njoftimit.
+c) Brenda 5 (pesë) ditëve kalendarike nga data e mbledhjes së tij, Bordi vlerëson aplikimet e propozuara nga Njësia për Menaxhimin e Grantit në AIDA. Në përfundim të procesit të shqyrtimit, Bordi plotëson formularin e vlerësimit për çdo aplikim, duke marrë vendimin për caktimin e fituesve paraprakë dhe përcakton nivelin e grantit për secilin përfitues.
+ç) Miratimi i dhënies së grantit merret me vendim të Bordit, bazuar në pikën 4, të nenit 11 të ligjit nr. 43/2022, “Për zhvillimin e ndërmarrjeve mikro, të vogla dhe të mesme”. Vendimi për përfituesit e ndërmarrjeve, merret me shumicë votash të anëtarëve të pranishëm në mbledhjen e Bordit.
+d) Brenda 3 (ditëve) kalendarike nga vendimmarrja paraprake të Bordit, AIDA, njofton me e-mail përmes adresës elektronike ndërmarrje@aida.gov.al ndërmarrjet e interesuara, nëse:
+i. kërkesa është refuzuar nga Bordi, duke dhënë arsyet e refuzimit;
+ii. kërkesa është miratuar nga Bordi.
+dh) Ndërmarrjes, së cilës i është refuzuar kërkesa, ka të drejtë ankimimi, duke kërkuar raportin e vlerësimit nga Bordi dhe pikët e grumbulluara, brenda 5 (pesë) ditëve kalendarike nga dita e marrjes së njoftimit. Në raste të tilla, Bordi kthen përgjigje brenda 5 ditëve kalendarike nga depozitimi i kërkesës më shkrim të ndërmarrjes. Lista përfundimtare e ndërmarrjeve fituese shpallet pas përfundimit të afatit të shqyrtimit të ankesave.
+6. Shpallja e projekteve do të bëhet si vijon:
+a) Lista e ndërmarrjeve fituese publikohet në faqen elektronike të AIDA-s dhe të ministrisë përgjegjëse për ekonominë.
+b) Brenda 5 (pesë) ditëve kalendarike nga marrja e njoftimit zyrtar, ndërmarrja e shpallur fituese, nënshkruan marrëveshjen për dhënien e grantit me AIDA. Me nënshkrimin e marrëveshjes së grantit, ndërmarrja fituese ka detyrimin të përmbushë tërësisht dhe në afat projektin e miratuar. Nëse për arsye objektive ndërmarrja nuk vijon me realizimin e projektit pas nënshkrimit të kontratës, ajo i paraqet paraprakisht AIDA-s një kërkesë për zgjidhjen e kontratës dhe kthimin e shumave në rast se janë bërë pagesa. Kërkesa duhet të jetë e argumentuar dhe të përmbajë shkakun për të cilin është kërkuar zgjidhja e kontratës.
+c) Projektet e shpallura fituese fillojnë zbatimin e tyre nga data e nënshkrimit të marrëveshjes së fitimit të grantit e deri në afatin e deklaruar në planin e biznesit.
+Afati përfundimtar për dorëzimin e të gjithë dokumentacionit administrativ dhe financiar do të jetë jo më vonë se muaji nëntor i vitit përkatës.
 7. PROCEDURA E DISBURSIMIT TË GRANTIT
 Disbursimi i fondit për projektet e shpallura fituese bëhet në 2 këste. Aplikanti përfitues do të marrë një parapagim prej 50% të vlerës së investimit. Për këtë, subjekti paraqet pranë AIDA të dhënat bankare të aplikuesit përfitues, të konfirmuara nga banka përkatëse.
 Kësti i dytë i grantit do të bëhet në përfundim të periudhës së mbylljes së projektit dhe i paguhet ndërmarrjes fituese brenda 15 ditëve kalendarike, pasi dokumentet e dorëzuara janë audituar nga drejtoria e financës në AIDA, kundrejt dorëzimit të dokumenteve të mëposhtëm:
@@ -90,48 +100,45 @@ Monitorimi i projekteve fituese do të kryhet nga njësia monitoruese në AIDA d
 - gjatë zbatimit të fazave të projektit;
 - pas disbursimit total të grantit të përfituar;
 - deri në 1 vit pas mbylljes së zbatimit të projektit fitues.
-Njësia monitoruese kryen dhe plotëson raportin e monitorimit në bashkëpunim me aplikuesin përfitues, sipas fazave të mësipërme, sipas formatit të raportit monitorues të përgatitur nga njësia menaxhuese pranë AIDA-s.
-Raporti i monitorimit, pas plotësimit, nënshkruhet njëkohësisht nga njësia monitoruese dhe nga aplikuesi përfitues.
-9. KRITERET VLERËSUESE
-Projektaplikimet do t’i nënshtrohen procesit të vlerësimit nga ana e Bordit. Ky Bord do të vlerësojë aplikimet mbi bazën e pikëzimit të përcaktuar, si më poshtë.
-Kriteri vlerësues
+Njësia për Menaxhimin e Grantit kryen dhe plotëson raportin e monitorimit në bashkëpunim me aplikuesin përfitues, sipas fazave të mësipërme, sipas formatit të raportit monitorues të përgatitur nga njësia menaxhuese pranë AIDA-s.
+Raporti i monitorimit, pas plotësimit, nënshkruhet njëkohësisht nga Njësia për Menaxhimin e Grantit dhe nga aplikuesi përfitues.
+9. Kriteret vlerësuese:
+a) Kërkesat i nënshtrohen procesit të vlerësimit nga ana e Bordit, i cili i vlerëson ato mbi bazën e pikëzimit të përcaktuar, si më poshtë.
+Kriteret
 Pikët
-Përputhshmëria e modelit të biznesit me kriteret e thirrjes së grantit
-15
-Niveli i përdorimit të mjeteve/pajisjeve teknologjike në prodhim/shërbim
-10
+Përputhshmëria e modelit të biznesit me kriteret e thirrjes së fondit
+20 pikë
+Burime njerëzore dhe kapaciteti financiar për zbatimin e projektit të propozuar
+10 pikë
+Qartësia e përshkrimit të aktiviteteve që do të realizohen
+20 pikë
 Qartësia e përshkrimit të impaktit dhe e rezultateve të matshme
-15
-Qartësia e përshkrimit të treguesve të digjitalizimit
-25
+10 pikë
 Aktivitetet e ndërmarrjes rrisin numrin e të punësuarve
-10
+10 pikë
 Aplikuesi është femër
-10
+10 pikë
 Aktivitetet e ndërmarrjes kanë impakt pozitiv mjedisor
-15
+10 pikë
+Aktivitetet e ndërmarrjes janë inovative
+10 pikë
 TOTALI
-100
-Fituesit do të shpallen sipas renditjes së pikëve të mbledhura, në raport me fondin total në dispozicion.
-10. PËRGJEGJËSITË E FITUESVE
-- Respektojnë në mënyrë rigoroze dhe integrale të gjitha deklaratat e shprehura dhe angazhimet e përfshira në formularin e aplikimit.
-- Vënë në dispozicion të AIDA çdo informacion që lidhet me zbatimin e projektit;
-- Paraqesin te njësia menaxhuese e grantit një raport në lidhje me përfundimin e projektit, faturat origjinale për shpenzimet, si dhe çdo dokument të nevojshëm për të bërë të mundur kryerjen e pagesës;
-- Pranojnë çdo lloj monitorimi, vlerësimi dhe/apo auditimi për të cilat projekti i aprovuar mund të bëhet objekt, duke siguruar të gjithë informacionin dhe dokumentacionin e kërkuar, pasi të jenë njoftuar 48 orë para;
-- Përfundojnë projektin brenda kohës së parashikuar në marrëveshje.
+pikë
+b) Ndërmarrjet mikro, të vogla dhe të mesme fituese do të shpallen sipas renditjes së pikëve të mbledhura në raport me grantin total në dispozicion.
+10. Shfuqizuar.
 11. KONFIDENCIALITETI I TË DHËNAVE
 Në bazë të ligjit nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, i gjithë informacioni i dhënë nga aplikuesit për qëllim të përfitimit nga granti, veçanërisht e gjithë korrespondenca e shkëmbyer është konfidenciale dhe nuk do të zbulohet. AIDA do të ruajë në mënyrë konfidenciale informacionet e marra nga ndërmarrjet.
 Asnjë e dhënë e marrë për AIDA nga ana e aplikuesve nuk do t’u bëhet e ditur palëve të treta pa miratimin e tyre.
 Megjithatë, informacioni në lidhje me zbatimin e grantit, në veçanti identifikimi i aplikuesve të mbështetur, të dhënat e përgjithshme rreth buxhetit, financimit, aktivitetet e kryera, rezultatet e arritura, ndikimet dhe të tjera të ngjashme, mund të përdoren, të publikohen ose shpërndahen nga AIDA pa ndonjë kufizim.
 Vetëm për raste të veçanta, të tilla si ngritja e ndërgjegjësimit, promovimi dhe shpërndarja, rastet studimore dhe të tilla të ngjashme, informacioni mund të zbulohet nga AIDA me marrëveshje të veçantë me ndërmarrjet e përfshira të cilat, nga ana e tyre, angazhohen për të lehtësuar zbulimin e informacionit, në rastet kur nuk vihen në lojë interesat përkatës tregtare dhe/ose sekretet e tyre.
-12. NJËSIA MENAXHUESE E GRANTIT
-Njësia menaxhuese për funksionimin e grantit ngrihet dhe funksionon pranë AIDA-s, i cili përgjigjet për zbatimin dhe menaxhimin e grantit dhe kryen detyrat, si më poshtë:
-- promovimin e grantit dhe ndërgjegjësimin e bizneseve për aplikim;
-- sigurimin e dokumentacionit të kërkuar nga Bordi, si dhe shpërndarjen e tij pranë anëtarëve të paktën 2 ditë përpara mbledhjes të Komisionit;
-- pjesëmarrjen në mbledhjet e Bordit, pa të drejtë vote, referimin e projekteve aplikuese dhe mbajtjen e procesverbalit përkatës të mbledhjes, i cili i paraqitet për shqyrtim dhe nënshkrim;
-- marrjen në dorëzim të raporteve përfundimtare të paraqitura nga përfituesit e granteve dhe kërkimin e informacioneve të tjera dhe/ose dokumentacionit shtesë sa herë që e gjykon të nevojshme;
-- kontrollin dhe aprovimin e të gjitha përgjigjeve zyrtare që do t’u dërgohen aplikuesve;
-- hartimin e raportit final të grantit në fund të vitit kalendarik dhe paraqitjen e tij pranë ministrit përgjegjës për ekonominë. Raporti final i grantit duhet të përmbajë ecurinë dhe impaktin e grantit gjatë gjithë vitit kalendarik, aplikuesit dhe fituesit, si dhe një analizë mbi problematikat e hasura dhe impaktin e grantit.
+12. Njësia për Menaxhimin e Grantit krijohet me urdhër të drejtorit ekzekutiv të AIDA-s dhe ushtron detyrat administrative, si më poshtë:
+a) Promovon skemën e mbështetjes me grant dhe realizon fushatën e ndërgjegjësimit të NMVM-ve për aplikim.
+b) Merr në dorëzim, shqyrton dhe vlerëson përmbushjen e kritereve formale të ndërmarrjeve që kanë aplikuar për përfitim granti.
+c) Mban komunikimin e vazhdueshëm me subjektet aplikuese mbi ecurinë e procesit.
+ç) I përcjell Bordit rezultatin e vlerësimit të kërkesave formale dhe dokumentacionin e nevojshëm për shqyrtim të mëtejshëm.
+d) Merr pjesë në mbledhjet e Bordit pa të drejtë vote dhe referon projektet aplikuese, si dhe mban procesverbalin përkatës të mbledhjes, i cili i paraqitet për shqyrtim dhe nënshkrim;
+dh) Merr në dorëzim raportet përfundimtare të paraqitura nga përfituesit e granteve dhe kërkon informacione sqaruese mbi dokumentacionin e dorëzuar, sa herë që e gjykon të nevojshme;
+e) Harton raportin final të grantit në fund të vitit kalendarik dhe e paraqet pranë ministrit përgjegjës për ekonominë. Raporti final i grantit duhet të përmbajë ecurinë dhe impaktin e grantit gjatë gjithë vitit kalendarik, aplikuesit dhe fituesit, si dhe një analizë mbi problematikat e hasura dhe impaktin e fondit.
 II. PËRSHKRIMI I PROJEKTIT
 1. Përshkrimi i modelit të biznesit të aplikantit
 (Jepni një përshkrim të shkurtër të fushës së aktivitetit dhe të historikut të aktivitetit.)

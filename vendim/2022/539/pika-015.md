@@ -1,4 +1,4 @@
-15. Ndërmarrjet e shpallura fituese bashkëpunojnë me AIDA-n për promovimin e skemave të grantit në vijimësi, duke dëshmuar shembullin e tyre në zbatimin e projektit fitues.
+15. Shfuqizuar.
 IV. DISPOZITA TË FUNDIT
 1. Brenda 15 (pesëmbëdhjetë) ditëve nga hyrja në fuqi e këtij vendimi, AIDA i përcjell ministrit përgjegjës për ekonominë emrat e 2 (dy) anëtarëve të Bordit.
 2. Brenda 15 (pesëmbëdhjetë) ditëve nga hyrja në fuqi e këtij vendimi, Bashkimi i Dhomave të Tregtisë dhe Industrisë i propozon ministrit përgjegjës për ekonominë 3 (tri) kandidatura si anëtar Bordi të shoqëruar me argumentimin përkatës.
