@@ -1,0 +1,8 @@
+2. Nuk përfitojnë nga ky fond ndërmarrjet mikro, të vogla dhe të mesme, të cilat kanë përfituar burime financimi nga donatorë apo institucione financiare kombëtare dhe ndërkombëtare për të njëjtët zëra apo aktivitete të lejuara nga këto projekte.
+II. MASA E PËRFITIMIT, KRITERET DHE KUSHTET E VEÇANTA PËR PËRFITIMIN E FONDIT
+1. Skema e mbështetjes financiare për shpenzimet korrente të programit ekonomik (04130) “Mbështetje për zhvillimin ekonomik” të Ministrisë së Ekonomisë, Kulturës dhe Inovacionit është në vlerën 100 000 000 (njëqind milionë) lekë dhe ky fond mbulon 100% të kostove të miratuara, por jo më shumë se 2 500 000 (dy milionë e pesëqind mijë) lekë.
+2. Skema e mbështetjes financiare për shpenzimet kapitale, që përdoret për mbështetjen e projekteve të investimeve, të programit ekonomik (04130) “Mbështetje për zhvillimin ekonomik” të Ministrisë së Ekonomisë, Kulturës dhe Inovacionit është në vlerën 51 830 000 (pesëdhjetë e një milionë e tetëqind e tridhjetë mijë) lekë, ndarë si më poshtë vijon:
+a) Projekte për inovacionin, në vlerën 15 000 000 (pesëmbëdhjetë milionë) lekë, mbulon 100% të kostove të miratuara, por jo më shumë se 1 000 000 (një milion) lekë;
+b) Projekte për konkurrueshmërinë, në vlerën 21 830 000 (njëzet e një milionë e tetëqind e tridhjetë mijë) lekë, mbulon 100% të kostove të miratuara, por jo më shumë se 1 500 000 (një milion e pesëqind mijë) lekë;
+c) Projekte për start-up-et, në vlerën 10 000 000 (dhjetë milionë) lekë, mbulon 100% të kostove të miratuara, por jo më shumë se 800 000 (tetëqind mijë) lekë;
+ç) Projekte në mbështetje të artizanatit, në vlerën 5 000 000 (pesë milionë) lekë, mbulon 100% të kostove të miratuara, por jo më shumë se 800 000 (tetëqind mijë) lekë.

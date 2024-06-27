@@ -1,0 +1,1 @@
+6. Disbursimi i fondit do të bëhet me dy këste, në përputhje me përcaktimet e vendimit nr. 539, datë 29.7.2022, të Këshillit të Ministrave, “Për krijimin, funksionimin, shpërblimin e anëtarëve të Bordit Vlerësues të Kërkesave, si dhe procedurën konkurruese për dhënien e granteve për ndërmarrjet mikro, të vogla dhe të mesme”, të ndryshuar.
