@@ -43,9 +43,9 @@ VKM Vendim i Këshillit të Ministrave
 Ministria Ministria përgjegjëse për arsimin
 ASCAP Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar
 QSHA Qendra e Shërbimeve Arsimore
-DPAP Drejtoria e Përgjithshme e Arsimit Parauniversitar
+AKAP Agjencia Kombëtare e Arsimit Parauniversitar
 DRAP Drejtoria Rajonale e Arsimit Parauniversitar
-ZVA Zyrë vendore arsimore
+ZVAP Zyrë vendore arsimore
 MSH Matura shtetërore
 NJMF Njësia për Mbrojtjen e Fëmijëve
 NJVV Njësia e vetëqeverisjes vendore
@@ -121,11 +121,12 @@ KREU III
 ARSIMI BAZË
 Neni 7
 Regjistrimi në institucionet e arsimit bazë
-1. ZVA-të dhe njësitë e vetëqeverisjes vendore bashkëpunojnë për identifikimin dhe regjistrimin në shkollë të të gjithë fëmijëve të moshës së detyrimit shkollor, sipas akteve ligjore e nënligjore në fuqi.
-2. Fëmija që ka mbushur moshën 6 vjeç brenda muajit që fillon viti përkatës shkollor, përfshihet në detyrimin për ndjekjen e shkollës. Regjistrimi në klasën e parë bëhet në dy javët e fundit të muajit qershor, me përjashtim të rastit kur fëmija ndryshon vendbanimin deri në ditën e fillimit të shkollës. Regjistrimi i fëmijës në klasën e parë bëhet me formularin e plotësuar nga personi që ushtron përgjegjësinë prindërore sipas shtojcës nr. 2, bashkëlidhur kësaj rregulloreje.
-3. Drejtuesit e IA-së verifikojnë, nëpërmjet personave që ushtrojnë përgjegjësinë prindërore, dhe regjistrojnë për vitin e ardhshëm shkollor nxënësit e klasave të tjera të arsimit bazë, brenda dy javëve të fundit të muajit qershor të vitit përkatës.
+1. ZVAP-të dhe njësitë e vetëqeverisjes vendore bashkëpunojnë për identifikimin dhe regjistrimin në shkollë të të gjithë fëmijëve të moshës së detyrimit shkollor, sipas akteve ligjore e nënligjore në fuqi.
+2. Fëmija që mbush moshën 6 vjeç deri në datën, kur fillon viti shkollor, përfshihet në detyrimin për ndjekjen e shkollës. Fëmija ka të drejtë të regjistrohet në klasën e parë edhe kur mbush 6 vjeç deri më 31 dhjetor të po atij viti kalendarik.
+Regjistrimi në klasën e parë bëhet nëpërmjet portalit e-Albania, sipas afateve të përcaktuara nga Agjencia Kombëtare e Arsimit Parauniversitar.
+3. Drejtuesit e institucioneve arsimore, nëpërmjet personave që ushtrojnë përgjegjësinë prindërore dhe Sistemit të Menaxhimit të Informacionet Parauniversitar, verifikojnë vijueshmërinë e nxënësve të klasave të ndërmjetme të arsimit bazë, për vitin e ardhshëm shkollor.
 4. Nxënësit regjistrohen në institucionin arsimor publik që mbulon vendbanimin e personit që ushtron përgjegjësinë prindërore të nxënësit. Harta e mbulimit të territorit, e miratuar nga NJVV-ja, respektohet gjatë regjistrimit të nxënësve në klasën e parë.
-5. Në rastet kur drejtori i IA-së lë pa regjistruar fëmijët e zonës së mbulimit, duke plotësuar kapacitetet e IA-së me fëmijë nga jashtë zonës që mbulon, pa miratimin e drejtorit të ZVA-së, ndaj tij, merret masë disiplinore deri në “Largimin nga detyra”. ZVA-të monitorojnë regjistrimin / transferimin e nxënësve në çdo institucion arsimor dhe njoftojnë DRAP-në.
+5. Në rastet kur drejtori i IA-së lë pa regjistruar fëmijët e zonës së mbulimit, duke plotësuar kapacitetet e IA-së me fëmijë nga jashtë zonës që mbulon, pa miratimin e drejtorit të ZVAP-së, ndaj tij, merret masë disiplinore deri në “Largimin nga detyra”. ZVAP-të monitorojnë regjistrimin / transferimin e nxënësve në çdo institucion arsimor dhe njoftojnë DRAP-në.
 6. Nxënësi që, sipas vetëdeklarimit të personit që ushtron përgjegjësinë prindërore, sipas shtojcës nr. 3, bashkëlidhur kësaj rregulloreje, ka qëndrim të ligjshëm jashtë shtetit, nuk përfshihet në detyrimin shkollor për aq kohë sa është jashtë shtetit.
 7. Personi që ushtron përgjegjësinë prindërore, me kërkesë drejtuar administratorit të njësisë administrative, mund të kërkojë mosregjistrimin me detyrim të fëmijës në shkollë për shkaqe të përligjura shëndetësore deri në moshën 8 vjeç.
 Neni 8
@@ -147,7 +148,7 @@ Planifikimi i mësimdhënies në arsimin bazë
 Neni 11
 Hapja e klasave të profilizuara në sport
 1. Klasat e profilizuara në sport krijohen në disiplinat të ndryshme sportive, sipas kërkesave të nxënësve, vetëm në fillim të vitit shkollor dhe pas miratimit nga DRAP-ja.
-2. Drejtuesit e ZVA-ve dhe/ose drejtorët e shkollave 9-vjeçare kërkojnë në DRAP hapjen e klasës së profilizuar në sport, vetëm nëse shkolla plotëson kushtet e infrastrukturës dhe kriteret e mësimdhënies së personelit të edukimit fizik.
+2. Drejtuesit e ZVAP-ve dhe/ose drejtorët e shkollave 9-vjeçare kërkojnë në DRAP hapjen e klasës së profilizuar në sport, vetëm nëse shkolla plotëson kushtet e infrastrukturës dhe kriteret e mësimdhënies së personelit të edukimit fizik.
 3. DRAP-ja shoqëron vendimin për hapjen e klasës së profilizuar në sport në ministrinë përgjegjëse për arsimin me informacion për:
 a) qëllimin e hapjes së klasës së profilizuar në sport;
 b) kushtet infrastrukturore për zhvillimin e disiplinës sportive;
@@ -164,18 +165,20 @@ KREU IV
 ARSIMI I MESËM I LARTË
 Neni 12
 Procedurat e regjistrimit në klasën X të gjimnazit
-1. Regjistrimi në klasën e dhjetë bëhet në dy javët e para të muajit korrik, me plotësimin e formularit nga personi që ushtron përgjegjësinë prindërore sipas shtojcës nr. 4, bashkëlidhur kësaj rregulloreje.
-2. Kanë të drejtë të regjistrohen në klasën e dhjetë të një gjimnazi vetëm nxënësit që u përkasin shkollave të arsimit bazë të zonës së gjimnazit. Nxënësit regjistrohen në gjimnaz publik sipas zonës së gjimnazit sipas planifikimit paraprak të ZVA-së. Zona e gjimnazit dhe planifikimi paraprak respektohen me përpikëri nga drejtori i IA-së. Në rastet kur IA-ja lë pa regjistruar nxënës të zonës, duke plotësuar kapacitetet e saj me nxënës nga jashtë zonës që mbulon, pa miratimin e drejtorit të ZVA-së, ndaj drejtorit të IA-së merret masë disiplinore deri në “Largimin nga detyra”. ZVA-të monitorojnë regjistrimin/transferimin e nxënësve në çdo institucion arsimor dhe njoftojnë DRAP-në.
+1.Regjistrimi në klasën e dhjetë bëhet nëpërmjet portalit e-Albania, sipas afateve të përcaktuara nga Agjencia Kombëtare e Arsimit Parauniversitar.
+2. Kanë të drejtë të regjistrohen në klasën e dhjetë të një gjimnazi vetëm nxënësit që u përkasin shkollave të arsimit bazë të zonës së gjimnazit. Nxënësit regjistrohen në gjimnaz publik sipas zonës së gjimnazit sipas planifikimit paraprak të ZVAP-së. Zona e gjimnazit dhe planifikimi paraprak respektohen me përpikëri nga drejtori i IA-së. Në rastet kur IA-ja lë pa regjistruar nxënës të zonës, duke plotësuar kapacitetet e saj me nxënës nga jashtë zonës që mbulon, pa miratimin e drejtorit të ZVAP-së, ndaj drejtorit të IA-së merret masë disiplinore deri në “Largimin nga detyra”. ZVAP-të monitorojnë regjistrimin/transferimin e nxënësve në çdo institucion arsimor dhe njoftojnë DRAP-në.
 Neni 13
-Pranimet në shkollat e arsimit të mesëm të orientuar
-1. Pranimet në shkollat e arsimit të mesëm të orientuar (artistike, sportive, për gjuhët e huaja dhe shkolla për fusha të tjera të nxëni) bëhen sipas përcaktimeve të udhëzimit përkatës të ministrit.
-2. Shkollat pranojnë nxënës edhe nga NJVV të tjera, të cilat nuk kanë shkolla të arsimit të mesëm të orientuar.
-3. Regjistrimi i nxënësit bëhet me deklaratën tip të plotësuar nga personi që ushtron përgjegjësinë prindërore sipas shtojcës nr. 5, bashkëlidhur kësaj rregulloreje. Kur një nxënës nuk paraqitet në shkollë për regjistrim brenda 5 (pesë) ditëve nga fillimi i vitit shkollor për shkaqe të pajustifikuara, nxënësi tjetër, sipas radhës në listë, gëzon të drejtën e regjistrimit në shkollë.
+Pranimet në shkollat e arsimit të mesëm të orientuar me konkurs
+1. Në shkollat artistike dhe ato sportive nxënësit pranohen vetëm me konkurs.
+2. Pranimet në shkollat artistike dhe ato sportive rregullohen me udhëzim të ministrit.
+3. Personi që ushtron përgjegjësinë prindërore aplikon nëpërmjet portalit e-Albania, për regjistrimin në konkursin për pranimin e nxënësve në klasën e dhjetë, sipas afateve të përcaktuara nga AKAP-ja.
+4. Shkollat pranojnë nxënës për konkurrim edhe nga NJVV-të e tjera.
+5. Kur një nxënës fitues nuk paraqitet në shkollë brenda 5 (pesë) ditëve nga fillimi i vitit shkollor për shkaqe të pajustifikuara, nxënësi tjetër, sipas radhës në listë, gëzon të drejtën e pranimit në shkollë.
 Neni 14
 Pranimet në shkollat pa konkurs
 1. Nxënësit pranohen pa konkurs në gjimnaz, në shkollat për gjuhët e huaja dhe në shkollat për fusha të tjera të të nxënit.
 2. Kur në shkollat për gjuhët e huaja dhe në shkollat për fusha të tjera të të nxënit ka kërkesa më të mëdha se numri i nxënësve të planifikuar, nxënësit përzgjidhen sipas mesatares së notave të provimeve kombëtare të arsimit bazë, të rrumbullakosur me një shifër pas presjes dhjetore.
-3. Kur numri i aplikantëve është më i madh se kapaciteti i shkollës për gjuhët e huaja apo për fusha të tjera të të nxënit, drejtori i IA-së dërgon në ZVA kërkesën me shkrim për rritjen e numrit të pranimeve në shkollë.
+3. Kur numri i aplikantëve është më i madh se kapaciteti i shkollës për gjuhët e huaja apo për fusha të tjera të të nxënit, drejtori i IA-së dërgon në ZVAP kërkesën me shkrim për rritjen e numrit të pranimeve në shkollë.
 Neni 15
 Pranimet në shkollat me konkurs
 1. Në shkollat artistike dhe ato sportive nxënësit pranohen vetëm me konkurs.
@@ -252,20 +255,20 @@ INSTITUCIONET ARSIMORE
 Neni 24
 Organizimi i mësimit në shkollë
 1. Veprimtaria në institucionet arsimore (me kohë të plotë apo me kohë të pjesshme) është 5 (pesë) ditë në javë, nga e hëna deri të premten.
-2. Drejtori i IA-së publike informon menjëherë ZVA-në për çdo rënie/rritje të numrit të nxënësve që ndikon në mbylljen/hapjen e klasave/shkollave vartëse.
-3. Me propozim të drejtorit të IA-së dhe miratim të titullarit të ZVA-së, shkolla funksionon me dy ndërresa. Mësimi, si rregull, në të gjitha shkollat e ndërresës së parë fillon në orën 8.00. Për ndërresën e dytë dhe për arsimin me kohë të pjesshme, ora e fillimit të mësimit miratohet nga titullari i ZVA-së.
+2. Drejtori i IA-së publike informon menjëherë ZVAP-në për çdo rënie/rritje të numrit të nxënësve që ndikon në mbylljen/hapjen e klasave/shkollave vartëse.
+3. Me propozim të drejtorit të IA-së dhe miratim të titullarit të ZVAP-së, shkolla funksionon me dy ndërresa. Mësimi, si rregull, në të gjitha shkollat e ndërresës së parë fillon në orën 8.00. Për ndërresën e dytë dhe për arsimin me kohë të pjesshme, ora e fillimit të mësimit miratohet nga titullari i ZVAP-së.
 4. Drejtori i IA-së cakton mësues ditor për të lehtësuar mbarëvajtjen e shkollës. Detyrat e mësuesit ditor përshkruhen në rregulloren e brendshme të shkollës.
-5. Në kushte të rënduara të motit, të terrenit, ose për arsye të transportit rrugor, drejtori i IA-së vendos ndryshimin përkohësisht të orës së fillimit të mësimit me miratim të titullarit të ZVA-së.
+5. Në kushte të rënduara të motit, të terrenit, ose për arsye të transportit rrugor, drejtori i IA-së vendos ndryshimin përkohësisht të orës së fillimit të mësimit me miratim të titullarit të ZVAP-së.
 6. Ndërmjet orëve të mësimit, pushimi është 5 ose 10 minuta. Këshilli i mësuesve vendos kohën kur shkolla do të bëjë pushimin e madh, i cili mund të zgjatë 20 deri në 30 minuta.
 7. Kohëzgjatja e orës së mësimit në shkollë është 45 minuta.
 8. Ora e mësimit është e pacenueshme, me përjashtim të rasteve të veçanta, kur cenohet shëndeti dhe siguria fizike e nxënësve. Organizimi i orarit të shkollës për orë të njëpasnjëshme vendoset nga drejtori i shkollës dhe këshilli i mësuesve.
 Neni 25
 Ndërprerja e veprimtarisë së institucioneve arsimore
 1. Ndërprerja e veprimtarisë së institucioneve arsimore në të gjithë vendin ose në zona të caktuara bëhet nga ministria përgjegjëse për arsimin ose propozohet nga njësia e vetëqeverisjes vendore apo nga ministria përgjegjëse për shëndetësinë dhe miratohet me urdhër të posaçëm të ministrit.
-2. Titullari i DPAP-së i propozon ministrit mënyrën e zëvendësimit të kohës së humbur nga ndërprerja e veprimtarisë së IA-ve.
+2. Titullari i AKAP-së i propozon ministrit mënyrën e zëvendësimit të kohës së humbur nga ndërprerja e veprimtarisë së IA-ve.
 Neni 26
 Veprimtaritë plotësuese dhe ato jashtëshkollore
-1. Veprimtaritë plotësuese dhe ato jashtëshkollore planifikohen nga drejtoria e IA-së në bashkëpunim me këshillin e mësuesve, bazuar në udhëzimin e vitit shkollor, si dhe me miratim të ZVA-së.
+1. Veprimtaritë plotësuese dhe ato jashtëshkollore planifikohen nga drejtoria e IA-së në bashkëpunim me këshillin e mësuesve, bazuar në udhëzimin e vitit shkollor, si dhe me miratim të ZVAP-së.
 2. Veprimtaritë plotësuese dhe ato jashtëshkollore përfshijnë:
 a) veprimtari social-kulturore, artistike, sportive, letrare, shkencore, mjedisore;
 b) ekskursione, vizita dhe konkurse që plotësojnë e thellojnë kurrikulën;
@@ -277,7 +280,7 @@ c) festime të ditëve të shënuara.
 Neni 27
 Ekskursionet me nxënësit
 1. Ekskursionet me nxënësit duhet të garantojnë kushtet e sigurisë dhe të ruajtjes së shëndetit të nxënësve dhe të punonjësve arsimorë.
-2. Drejtori i IA-së paraqet në ZVA planin vjetor të ekskursioneve që në fillim të vitit mësimor dhe të paktën dy javë para datës së çdo ekskursioni, të dhënat dhe dokumentet e mëposhtme:
+2. Drejtori i IA-së paraqet në ZVAP planin vjetor të ekskursioneve që në fillim të vitit mësimor dhe të paktën dy javë para datës së çdo ekskursioni, të dhënat dhe dokumentet e mëposhtme:
 a) qëllimin e ekskursionit;
 b) përshkrimin përmbledhës të etapave të ekskursionit;
 c) miratimin me shkrim të personave që ushtrojnë përgjegjësinë prindërore të nxënësve;
@@ -286,7 +289,7 @@ d) të dhënat për ushqimin;
 dh) kushtet e fjetjes;
 e) burimet e financimit;
 ë) shpenzimet.
-3. Titullari i ZVA-së miraton me shkrim kryerjen e ekskursionit.
+3. Titullari i ZVAP-së miraton me shkrim kryerjen e ekskursionit.
 4. Shpenzimet financiare për ekskursionet me nxënësit mbulohen me dëshirë nga personat që ushtrojnë përgjegjësinë prindërore të tyre në masën jo më shumë se tarifa e miratuar, sipas kuadrit ligjor në fuqi. Drejtuesi i IA-së harton dokumentacionin e nevojshëm të shpenzimeve financiare për ekskursionet, dokumentacion i cili është subjekt inspektimi.
 5. Shpenzimet financiare për ekskursione të punonjësve arsimorë mbulohen nga vetë punonjësit arsimorë.
 6. Burimet financiare të IA-së, si dhurime, donacione, kontribute të personave që ushtrojnë përgjegjësinë prindërore të nxënësve ose fonde të siguruara nga institucioni nëpërmjet shërbimeve për të tretët, nuk mund të përdoren për ekskursione.
@@ -308,18 +311,18 @@ b) mësuesve në rastet kur kërkohet prej tyre, ose kur drejtori i IA-së e shi
 3. Shërbimi psikosocial mbështet personat që ushtrojnë përgjegjësinë prindërore të nxënësve dhe bashkëpunon me ta për zgjidhjen e situatave dhe në raste nevoje të kërkuara prej tyre.
 Neni 30
 Njësia e Shërbimit Psikosocial
-1. ZVA-ja organizon ngritjen e Njësisë së Shërbimit Psikosocial (NJSHPS) sipas urdhrit për shërbimin psikosocial të miratuar nga ministri.
+1. ZVAP-ja organizon ngritjen e Njësisë së Shërbimit Psikosocial (NJSHPS) sipas urdhrit për shërbimin psikosocial të miratuar nga ministri.
 2. NJSHPS-ja përbëhet nga psikologë dhe punonjës socialë.
 3. Numri i psikologëve dhe punonjësve socialë në NjShPS vendoset sipas urdhrit të ministrit për normat e punonjësve psikosocialë në IA-të publike.
 4. Drejtuesi i NJSHPS-së kryen këto detyra:
-a) harton planin vjetor të njësisë, i cili miratohet nga titullari i ZVA-së;
+a) harton planin vjetor të njësisë, i cili miratohet nga titullari i ZVAP-së;
 b) organizon mbledhjet mujore të njësisë;
 c) bashkëpunon me NJMF për të trajtuar çështje të abuzimit dhe mbrojtjes së fëmijëve;
-ç) komunikon me drejtorin e IA-së dhe atë të ZVA-së për rastet e fëmijëve në rrezik dhe me vështirësi sociale dhe ekonomike;
-d) njofton me shkrim drejtorin e ZVA-së dhe atë të IA-së për çdo rast të provuar apo të dyshuar për abuzimin e nxënës-it/-ve;
+ç) komunikon me drejtorin e IA-së dhe atë të ZVAP-së për rastet e fëmijëve në rrezik dhe me vështirësi sociale dhe ekonomike;
+d) njofton me shkrim drejtorin e ZVAP-së dhe atë të IA-së për çdo rast të provuar apo të dyshuar për abuzimin e nxënës-it/-ve;
 dh) mbikëqyr veprimtaritë e psikologëve/punonjësve socialë të NJSHPS-së përkatëse;
 e) takon rregullisht punonjës arsimorë, nxënës që përfitojnë nga shërbimi i psikologëve dhe i punonjësve socialë, si dhe personat që ushtrojnë përgjegjësinë prindërore të nxënësve;
-ë) harton raporte gjashtëmujore për titullarin e ZVA-së, ku përshkruan veprimtarinë e NJSHPS-së dhe propozon përmirësime të shërbimit psikosocial.
+ë) harton raporte gjashtëmujore për titullarin e ZVAP-së, ku përshkruan veprimtarinë e NJSHPS-së dhe propozon përmirësime të shërbimit psikosocial.
 5. Shërbimi psikosocial mbledh dhe përpunon të dhëna, për:
 a) ndryshime të sjelljes të nxënësve;
 b) nivelin social dhe ekonomik të nxënësve;
@@ -331,7 +334,7 @@ e) mënyrën se si e kalojnë nxënësit kohën e lirë;
 ë) varësinë e nxënësve ndaj internetit;
 f) varësinë ndaj pirjes së duhanit, alkoolit dhe drogave etj.
 6. Punonjësi psikosocial ka për detyrë të njoftojë mësuesin kujdestar të klasës së nxënësit dhe drejtuesit e IA-së për të dhënat që grumbullon për nxënësin.
-7. Të dhënat për nxënësin bëhen pjesë e raporteve të paraqitura në ZVA.
+7. Të dhënat për nxënësin bëhen pjesë e raporteve të paraqitura në ZVAP.
 Neni 31
 Detyrat kryesore të psikologut dhe punonjësit social në institucionin arsimor
 Psikologu/punonjësi social ka këto detyra kryesore në institucionin arsimor:
@@ -344,7 +347,7 @@ Psikologu/punonjësi social ka këto detyra kryesore në institucionin arsimor:
 7. raporton me shkrim për çdo rast të provuar apo të dyshuar për abuzim të nxënësve nga punonjës arsimorë dhe nga personat që ushtrojnë përgjegjësinë prindërore të nxënësit te drejtuesi i NJSHPS dhe te drejtori i IA-së.
 Neni 32
 Zhvillimi profesional i psikologëve dhe punonjësve socialë dhe ruajtja e privatësisë
-1. Njësia e Shërbimit Psikosocial realizon zhvillimin e brendshëm profesional, sipas një plani vjetor të miratuar nga titullari i ZVA-së, dhe zhvillimin e jashtëm profesional sipas akteve nënligjore në fuqi.
+1. Njësia e Shërbimit Psikosocial realizon zhvillimin e brendshëm profesional, sipas një plani vjetor të miratuar nga titullari i ZVAP-së, dhe zhvillimin e jashtëm profesional sipas akteve nënligjore në fuqi.
 2. Testet psikologjike, vlerësimet, këshillimet apo ndërhyrje të tjera me natyrë psikologjike dhe/ose sociale dhe çdo komunikim tjetër i psikologut dhe punonjësit social realizohen pas miratimit të personave që ushtrojnë përgjegjësinë prindërore të nxënësve dhe në përputhje me aktet ligjore e nënligjore në fuqi.
 3. Informacioni për nxënësit dhe familjet e tyre, i marrë për shkak të detyrës nga psikologu/punonjës social, ruhet prej tij në dosje. Dosja është e siguruar nga përdorimi i saj prej personave të paautorizuar.
 4. Dosja e nxënësit, e hartuar nga psikologu/punonjësi social, mund të lexohet vetëm nga personi që ushtron përgjegjësinë prindërore dhe nga nxënësi mbi moshën 16 vjeç.
@@ -390,7 +393,7 @@ b) shmang çdo formë të diskriminimit dhe kontribuon për zbatimin e një poli
 c) respekton standardet bazë të sjelljes dhe komunikimit brenda dhe jashtë mjedisit të IA-së;
 ç) kontribuon në zbatimin e në politike të hapur komunikimi, inkurajon dialogun, diskutimet e hapura dhe pa paragjykime;
 d) nuk nxjerr apo nuk përdor privatisht informacione konfidenciale, të siguruara nëpërmjet punës në IA;
-dh) shmang pjesëmarrjen në veprimtaritë që përbëjnë konflikt interesi. Drejtorit të IA-së, apo punonjësit arsimor të autorizuar prej tij, i lejohet të komunikojë me median, si dhe të përdorë mjetet e komunikimit digjital për të bërë publike informacione që lidhen me IA-në dhe veprimtarinë mësimore që zhvillohet aty vetëm me leje nga titullari i ZVA-së, i cili ka marrë paraprakisht konfirmimin nga titullari i DRAP-së.
+dh) shmang pjesëmarrjen në veprimtaritë që përbëjnë konflikt interesi. Drejtorit të IA-së, apo punonjësit arsimor të autorizuar prej tij, i lejohet të komunikojë me median, si dhe të përdorë mjetet e komunikimit digjital për të bërë publike informacione që lidhen me IA-në dhe veprimtarinë mësimore që zhvillohet aty vetëm me leje nga titullari i ZVAP-së, i cili ka marrë paraprakisht konfirmimin nga titullari i DRAP-së.
 8. Nuk lejohet në asnjë rast hyrja në ambientet e IA-së të personave të paautorizuar.
 Neni 35
 Rregullat e veshjes dhe të paraqitjes së punonjësve arsimorë
@@ -459,17 +462,17 @@ Raporti i drejtorit të institucionit arsimor me komisionin e etikës dhe sjellj
 4. Drejtori i IA-së është i detyruar t’i sigurojë komisionit një mjedis për zhvillimin e takimeve dhe një vend të përshtatshëm për ruajtjen e materialeve dhe të praktikave të shqyrtuara prej tij;
 5. Komisioni, bazuar në ankesat që i paraqiten dhe/ose rastet që inicion ai, i paraqet me shkrim drejtorit të IA-së përgjithësime të shkeljeve të normave të etikës dhe të sjelljes në institucion dhe propozon masat që drejtori mund të ndërmarrë për t’i parandaluar ose për t’i pakësuar ato.
 6. Kryetari i komisionit u dërgon propozimet, që i ka dërguar drejtorit, edhe kryetarit të bordit dhe kryetarit të këshillit të prindërve.
-7. Në përfundim të vitit shkollor, komisioni harton raportin vjetor të veprimtarisë së tij dhe ia paraqet drejtorit të IA-së, i cili ia dërgon zyrtarisht ZVA-së.
+7. Në përfundim të vitit shkollor, komisioni harton raportin vjetor të veprimtarisë së tij dhe ia paraqet drejtorit të IA-së, i cili ia dërgon zyrtarisht ZVAP-së.
 KREU X
 DREJTORI I INSTITUCIONIT ARSIMOR
 Neni 42
 Detyra të përgjithshme
 1. Drejtori i IA-së është titullari i institucionit, që ka të drejtën e firmës dhe të vulës së institucionit.
-2. Drejtori, kur mungon përkohësisht, i delegon me shkrim njërit prej nëndrejtorëve ose një mësuesi të institucionit, kur nuk ka nëndrejtor, të drejtën e firmës dhe të vulës së institucionit, duke saktësuar kompetencat e deleguara dhe afatin e delegimit, si dhe njofton ZVA-në për këtë delegim.
+2. Drejtori, kur mungon përkohësisht, i delegon me shkrim njërit prej nëndrejtorëve ose një mësuesi të institucionit, kur nuk ka nëndrejtor, të drejtën e firmës dhe të vulës së institucionit, duke saktësuar kompetencat e deleguara dhe afatin e delegimit, si dhe njofton ZVAP-në për këtë delegim.
 3. Drejtori ka përgjegjësinë për zbatimin në IA të kuadrit ligjor e nënligjor në fuqi.
 4. Drejtori ka përgjegjësi administrative dhe penale, në rastet e parashikuara nga ligji, për plotësimin, brenda afateve kohore, të amzës, indeksit të amzës, regjistrit të veçantë dhe të çdo dokumenti shkollor.
 5. Drejtori ka përgjegjësinë për krijimin në institucion të klimës së bashkëpunimit dhe të respektit ndërmjet punonjësve arsimorë në institucion.
-6. Drejtori krijon mundësi të bashkëpunimit të IA-së me institucione publike dhe private, brenda ose jashtë vendit, dhe me institucione arsimore analoge. Pas shqyrtimit të këtyre bashkëpunimeve në këshillin e mësuesve, drejtori i IA-së publike merr miratimin për to nga titullari i ZVA-së përkatëse. Në rastet kur organizatat jopublike apo persona të tjerë juridikë kërkojnë të ushtrojnë veprimtari në ambientet e IA-së, merret miratimi paraprak i ministrisë.
+6. Drejtori krijon mundësi të bashkëpunimit të IA-së me institucione publike dhe private, brenda ose jashtë vendit, dhe me institucione arsimore analoge. Pas shqyrtimit të këtyre bashkëpunimeve në këshillin e mësuesve, drejtori i IA-së publike merr miratimin për to nga titullari i ZVAP-së përkatëse. Në rastet kur organizatat jopublike apo persona të tjerë juridikë kërkojnë të ushtrojnë veprimtari në ambientet e IA-së, merret miratimi paraprak i ministrisë.
 7. Drejtori ka përgjegjësi për zbatimin e marrëveshjeve të bashkëpunimit të lidhura ndërmjet ministrisë dhe institucioneve/palëve të tjera.
 8. Drejtori merr masa për të siguruar ndjekjen e shkollës nga nxënësit e arsimit bazë, që i përkasin zonës së shkollës. Drejtori i IA-së publike të arsimit bazë me kohë të plotë bashkëpunon me NJMF-në, këshillin e prindërve të shkollës dhe këshillat e prindërve të klasave, me qeverinë e nxënësve, me shërbimin psikosocial dhe me bordin e shkollës për të siguruar ndjekjen e shkollës nga nxënësit.
 9. Drejtori ushtron çdo detyrë tjetër të parashikuar në këtë rregullore dhe në kuadrin ligjor e nënligjor në fuqi.
@@ -477,8 +480,8 @@ Neni 43
 Aspekte të menaxhimit të institucionit arsimor
 1. Drejtori ka për detyrë të organizojë shpërndarjen e informacionit në dispozicion të qytetarëve, me të dhëna të mjaftueshme për cilësinë e shërbimit arsimor të IA-së.
 2. Drejtori, pas këshillimit me këshillin e mësuesve:
-a) vendos formimin dhe ndarjen e klasave dhe merr miratimin e ZVA-së për këtë ndarje, bazuar në udhëzimin përkatës të ministrisë;
-b) cakton ngarkesën mësimore të mësuesve dhe merr miratimin e ZVA-së për këtë ndarje;
+a) vendos formimin dhe ndarjen e klasave dhe merr miratimin e ZVAP-së për këtë ndarje, bazuar në udhëzimin përkatës të ministrisë;
+b) cakton ngarkesën mësimore të mësuesve dhe merr miratimin e ZVAP-së për këtë ndarje;
 c) cakton mësuesit kujdestarë;
 ç) harton orarin mësimor javor të institucionit, ose ngarkon një nëndrejtor ose mësues për hartimin e këtij orari;
 d) përgatit çdo muaj listëprezencën e punonjësve të IA-së.
@@ -507,8 +510,8 @@ b) ndihmën profesionale të mësuesve më me përvojë ndaj mësuesve më të r
 a) vëzhgojnë orë mësimore, orë të kujdestarisë, mbledhje të ekipeve lëndore, takime të mësuesve kujdestarë me personat që ushtrojnë përgjegjësinë prindërore të nxënësve dhe veprimtari jashtëkurrikulare;
 b) organizojnë zhvillimin e pyetësorëve me nxënës, persona që ushtrojnë përgjegjësinë prindërore të tyre dhe mësues.
 Neni 46
-Vlerësimi i drejtorit të shkollës nga titullari i ZVA-së
-Vlerësimi i drejtorit të IA-së, që bëhet në fund të çdo viti shkollor nga titullari i ZVA-së, bazohet në standardet e drejtorit të shkollës, të miratuara nga ministri përgjegjës për arsimin, dhe në performancën e IA-së. Vlerësimi i drejtorit të IA-së është pjesë e dosjes së drejtorit.
+Vlerësimi i drejtorit të shkollës nga titullari i ZVAP-së
+Vlerësimi i drejtorit të IA-së, që bëhet në fund të çdo viti shkollor nga titullari i ZVAP-së, bazohet në standardet e drejtorit të shkollës, të miratuara nga ministri përgjegjës për arsimin, dhe në performancën e IA-së. Vlerësimi i drejtorit të IA-së është pjesë e dosjes së drejtorit.
 Neni 47
 Ndarja e detyrave në drejtorinë e institucionit arsimor
 1. Anëtarë të drejtorisë janë drejtori, nëndrejtorët (nëse ka) dhe kryemësuesit e shkollave vartëse (nëse ka).
@@ -529,7 +532,7 @@ b) plotëson amzën, indeksin e saj dhe regjistrin e veçantë në përputhje me
 c) përgatit dokumentet që lëshon shkolla për nxënësit ose ish-nxënësit e saj;
 ç) vë në dijeni drejtorin e IA-së kur bën gabime në dokumentacion dhe ndreqja e tyre bëhet vetëm në praninë e drejtorit dhe të dy mësuesve, duke nënshkruar të gjithë një procesverbal ku shpjegohet korrigjimi;
 d) merr dhe dërgon postën zyrtare (sekretari);
-dh) përgatit, sipas kuadrit ligjor në fuqi, statistikat që dërgohen në ZVA dhe i ruan ato;
+dh) përgatit, sipas kuadrit ligjor në fuqi, statistikat që dërgohen në ZVAP dhe i ruan ato;
 e) për çdo regjistrim të ri të nxënësve siguron dhe ruan dokumentacionin e kërkuar sipas akteve nënligjore në fuqi;
 ë) përgatit procedurat e transferimit të nxënësve;
 f) administron regjistrat e klasave që janë në përdorim të përditshëm;
@@ -545,14 +548,14 @@ Plani afatmesëm i institucionit arsimor
 a) harton draftin e planit afatmesëm, me grupet e punës që ngrihen prej tij;
 b) organizon diskutimin e draftit me këshillin e mësuesve, këshillin e prindërve, bordin e institucionit, qeverinë e nxënësve dhe me përfaqësues të tjerë të komunitetit të shkollës.
 4. Drejtori i IA-së i paraqet për miratim bordit të institucionit planin afatmesëm jo më vonë se data 15 prill e një viti të caktuar shkollor. Pas miratimit, plani afatmesëm nënshkruhet nga drejtori dhe kryetari i bordit.
-5. Drejtori i IA-së i paraqet për miratim titullarit të ZVA-së draftin e planit afatmesëm, të nënshkruar nga ai dhe nga kryetari i bordit, jo më vonë se data 30 prill e atij viti shkollor.
-6. Titullari i ZVA-së miraton planit afatmesëm jo më vonë se muaji maj i atij viti shkollor.
+5. Drejtori i IA-së i paraqet për miratim titullarit të ZVAP-së draftin e planit afatmesëm, të nënshkruar nga ai dhe nga kryetari i bordit, jo më vonë se data 30 prill e atij viti shkollor.
+6. Titullari i ZVAP-së miraton planit afatmesëm jo më vonë se muaji maj i atij viti shkollor.
 7. Drejtori i IA-së ngre një grup të posaçëm pune me tre anëtarë, i cili vëzhgon zbatimin e planit afatmesëm dhe i raporton me shkrim çdo gjashtë muaj drejtorit lidhur me ecurinë e zbatimit të planit afatmesëm.
 8. Drejtori i IA-së i raporton një herë në vit bordit për zbatimin e planit afatmesëm.
-9. Ndryshimet në planin afatmesëm, nëse janë të domosdoshme të bëhen, miratohen nga bordi dhe nga titullari i ZVA-së.
+9. Ndryshimet në planin afatmesëm, nëse janë të domosdoshme të bëhen, miratohen nga bordi dhe nga titullari i ZVAP-së.
 Neni 50
 Rubrikat e planit afatmesëm
-1. Plani afatmesëm i IA-së mbështetet në planin afatmesëm të ZVA-së dhe në strategjitë kombëtare për arsimin.
+1. Plani afatmesëm i IA-së mbështetet në planin afatmesëm të ZVAP-së dhe në strategjitë kombëtare për arsimin.
 2. Planit afatmesëm i IA-së ka këto rubrika: Misioni, vizioni, analiza e gjendjes, përparësitë, veprimtaritë kryesore për realizim e përparësive, produkti ose treguesit e arritjeve, buxheti i përafërt.
 3. Misioni përmbledh, në pak rreshta, detyrimin ose përgjegjësitë kryesore që ka IA-ja gjatë katër viteve.
 4. Vizioni përmbledh aspiratën e komunitetit dhe të punonjësve arsimorë për cilësinë e shërbimit arsimor të ofruar nga IA-ja.
@@ -573,7 +576,7 @@ Analiza e gjendjes për vitin e kaluar mësimor përmban këta tregues:
 1. Ndjekja e IA-së (përqindja e braktisjes së shkollës, përqindja e mungesave vjetore e të gjithë nxënësve kundrejt të gjitha orëve mësimore).
 2. Aspekti social: numri i nxënësve/fëmijëve nga familje me ndihmë ekonomike, i nxënësve/fëmijëve pa njërin prind, që nuk janë nën kujdestarinë e prindërve, i nxënësve/fëmijëve të sapoardhur nga krahina të tjera ose nga jashtë vendit, i nxënësve/fëmijëve me aftësi të kufizuara, i fëmijëve romë dhe egjiptianë, të rikthyer nga emigracioni, azilantë, emigrantë etj., sipas specifikave të shkollës.
 3. Rezultatet e nxënësve: mesatarja e notës vjetore të shkollës dhe përqindja e kalueshmërisë pas provimeve të sesionit të dytë, diferenca e notës mesatare të klasës së nëntë në lëndët e gjuhës shqipe, të gjuhës së huaj dhe të matematikës në fund të vitit mësimor dhe në provimet kombëtare të arsimit bazë ose diferenca e notës mesatare të shkollës për të gjitha lëndët e përfshira në maturën shtetërore, ndërmjet fundit të vitit mësimor dhe maturës shtetërore. (Në kopsht shënohen arritjet e fëmijëve në fushat e të nxënit.)
-4. Treguesit për të cilët IA-ja ka arritjen më të mirë dhe më të ulët në renditje për institucionet arsimore të suksesshme në nivel ZVA-je.
+4. Treguesit për të cilët IA-ja ka arritjen më të mirë dhe më të ulët në renditje për institucionet arsimore të suksesshme në nivel ZVAP-je.
 5. Etika dhe sjellja: numri i masave disiplinore ndaj nxënësve, numri i ankesave të nxënësve që konsiderohen të drejta nga komisioni i etikës dhe sjelljes (vetëm për shkollën).
 6. Arritjet në provimet kombëtare dhe në testimet kombëtare dhe ndërkombëtare.
 7. Mësuesit: përqindja e orëve mësimore të munguara nga mësuesit kundrejt të gjitha orëve mësimore, numri i krediteve të punonjësve arsimorë.
@@ -591,7 +594,7 @@ Objektivi shpallet në mjediset e institucionit arsimor.
 4. Drejtoria, në bashkëpunim me grupet e punës, vëzhgon rregullisht realizimin e veprimtarive të parashikuara dhe vlerëson ecurinë e arritjes së objektivave.
 5. Buxheti, nëse është i nevojshëm për një plan vjetor, përmban burimet e financimit dhe shpenzimet sipas veprimtarive.
 6. Drejtori i paraqet për miratim planin vjetor bordit të IA-së.
-Plani vjetor, i nënshkruar nga drejtori dhe kryetari i bordit të IA-së, i paraqitet për miratim titullarit të ZVA-së.
+Plani vjetor, i nënshkruar nga drejtori dhe kryetari i bordit të IA-së, i paraqitet për miratim titullarit të ZVAP-së.
 7. Plani vjetor duhet të jetë i gatshëm për t’u zbatuar që në ditën e parë të vitit shkollor.
 Neni 54
 Vlerësimi i brendshëm i institucionit arsimor
@@ -608,7 +611,7 @@ c) mbulon të gjitha fushat që përfshin monitorimi dhe vlerësimi i IA-së.
 8. Vlerësimet individuale, të organizmave dhe të IA-së janë objekte monitorimi dhe vlerësimi.
 Neni 55
 Raporti vjetor i institucionit arsimor
-1. Drejtori i IA-së i dërgon titullarit të ZVA-së, në fund të vitit shkollor, raportin vjetor të institucionit.
+1. Drejtori i IA-së i dërgon titullarit të ZVAP-së, në fund të vitit shkollor, raportin vjetor të institucionit.
 2. Raporti vjetor bazohet në planin vjetor të IA-së.
 3. Raporti vjetor përshkruan përmbledhtas:
 a) përmbushjen e objektivave të planit vjetor dhe shkaqet e mospërmbushjes (nëse ka);
@@ -617,7 +620,7 @@ c) risi të suksesshme në drejtimin e institucionit dhe në procesin mësimor, 
 ç) bashkëpunimet e suksesshme të institucionit me OJF etj.;
 d) certifikata, çmime etj., të fituara nga institucioni, nga nxënës dhe punonjës të tij;
 dh) propozime për përmirësimin e cilësisë së shërbimit arsimor në IA, në nivel vendor dhe kombëtar.
-4. Raporti vjetor hartohet nën drejtimin e drejtorit të IA-së, nga një grup pune i përbërë nga mësues, përfaqësues të këshillit të prindërve dhe qeveria e nxënësve. Raporti vjetor dërgohet në ZVA, pas shqyrtimit nga këshilli i mësuesve, bordi dhe këshilli i prindërve të institucionit.
+4. Raporti vjetor hartohet nën drejtimin e drejtorit të IA-së, nga një grup pune i përbërë nga mësues, përfaqësues të këshillit të prindërve dhe qeveria e nxënësve. Raporti vjetor dërgohet në ZVAP, pas shqyrtimit nga këshilli i mësuesve, bordi dhe këshilli i prindërve të institucionit.
 5. Raporti vjetor publikohet në faqen e internetit të IA-së.
 KREU XII
 MËSUESI DHE PUNONJËSI ARSIMOR
@@ -675,7 +678,7 @@ Koha e punës në institucionet arsimore publike
 1. Drejtuesit dhe mësuesit e IA-ve publike paraqiten në shkollë 15 minuta para fillimit të orarit mësimor të IA-së.
 2. Drejtuesit dhe mësuesit e IA-ve publike qëndrojnë 30 orë në javë në mjediset e shkollës ose në mjedise të tjera për të kryer veprimtaritë e planifikuara mësimore dhe jomësimore, përfshirë veprimtaritë jashtëshkollore, mbledhjet profesionale, takimet me personat që ushtrojnë përgjegjësinë prindërore të nxënësve, plotësime të dokumentacionit dhe pjesëmarrjen në grupet e punës.
 3. Punonjësi arsimor, psikologu, punonjësi social, oficeri i sigurisë dhe sekretari mund të paraqitet në punë me vonesë, ose të largohet gjatë kohës së punës, vetëm për arsye të veçanta, duke njoftuar menjëherë drejtorin e IA-së.
-4. Punonjësi arsimor lejohet të largohet gjatë ditëve të mësimit për të marrë pjesë në veprimtari shkencore, artistike, kulturore apo sportive vendore, kombëtare e ndërkombëtare, duke marrë paraprakisht miratimin e drejtorit. Drejtori njofton titullarin e ZVA-së dhe merr masa për të bërë zëvendësimin.
+4. Punonjësi arsimor lejohet të largohet gjatë ditëve të mësimit për të marrë pjesë në veprimtari shkencore, artistike, kulturore apo sportive vendore, kombëtare e ndërkombëtare, duke marrë paraprakisht miratimin e drejtorit. Drejtori njofton titullarin e ZVAP-së dhe merr masa për të bërë zëvendësimin.
 Neni 60
 Plani lëndor i mësuesit. Aspekte të zbatimit të tij
 1. Pesë ditë-punë para fillimit të vitit shkollor, mësuesi dorëzon planin lëndor te drejtori i IA-së, si dhe planin lëndor të periudhës së parë.
@@ -722,7 +725,7 @@ e) të kryejë studime për praktikat e suksesshme të institucioneve analoge t�
 2. Këshilli i mësuesve mblidhet, si rregull, jo më pak se një herë në dy muaj. Këshilli mblidhet edhe në rastet kur e gjykon të arsyeshme drejtori i IA-së, ose kur e kërkon jo më pak se 1/3 e anëtarëve të tij. Këshilli i mësuesve e zhvillon mbledhjen e parë të paktën 10 (dhjetë) ditë-punë para fillimit të vitit shkollor. Në këtë mbledhje, këshilli i jep mendime drejtorit për formimin e klasave, për orarin mësimor, për tematikat e përafërta të mbledhjeve të zakonshme të këshillit, për veprimtaritë e zhvillimit të brendshëm profesional dhe për çështje të tjera, sipas kërkesës së drejtorit ose me nismën e këshillit.
 3. Në përfundim të vitit mësimor, këshilli i mësuesve analizon veprimtarinë vjetore të institucionit dhe rekomandon synimin dhe objektivat e planit për vitin e ardhshëm.
 4. Në mbledhjet e këshillit të mësuesve, drejtori ka të drejtë të ftojë:
-a) përfaqësues të NJVV-së dhe të ZVA-së;
+a) përfaqësues të NJVV-së dhe të ZVAP-së;
 b) punonjësin psikosocial;
 c) kryetarin e bordit;
 ç) kryetarin e këshillit të prindërve;
@@ -797,14 +800,14 @@ Trajtimi i sjelljeve të dhunshme të nxënësve ndaj punonjësit arsimor
 1. Në rastin kur punonjësi arsimor konstaton përdorimin e dhunës verbale, psikologjike, fizike, seksuale nga ana e nxënësit, me anë të shprehjeve dhe/ose veprimeve të ndryshme, lajmëron menjëherë drejtorinë e IA-së.
 2. Drejtoria e IA-së lajmëron personin që ushtron përgjegjësinë prindërore të nxënësit për menaxhimin e konfliktit dhe zgjidhjen e situatës.
 3. Drejtoria e IA-së, në raste të tilla bashkëpunon me mësuesin kujdestar, me psikologun/punonjësin social, si dhe me oficerin e sigurisë në shkollë, në IA-në që ka oficer sigurie, për trajtimin në vazhdimësi të nxënësit që shpreh sjellje të dhunshme në ambientet e IA-së gjatë procesit mësimor apo/dhe jashtë tij.
-4. Në rastin kur sjellja e dhunshme e shfaqur nga nxënësi përbën vepër penale, drejtori i IA-së ka detyrimin që të njoftojë menjëherë ZVA-në, NjMF dhe organet vendore të Policisë së Shtetit për ndjekjen e çështjes.
+4. Në rastin kur sjellja e dhunshme e shfaqur nga nxënësi përbën vepër penale, drejtori i IA-së ka detyrimin që të njoftojë menjëherë ZVAP-në, NjMF dhe organet vendore të Policisë së Shtetit për ndjekjen e çështjes.
 Neni 69
 Trajtimi i sjelljeve të dhunshme të mësuesit ndaj nxënësit
 1. Përdorimi i dhunës verbale, psikologjike, fizike apo seksuale nga ana e mësuesit ndaj nxënësve është i ndaluar.
 2. Në rastin e konstatimit të dhunës, nxënësi, ndaj të cilit është ushtruar dhunë, ka të drejtë të ankohet te mësuesi kujdestar ose psikologu/punonjësi social i IA-së, të cilët njoftojnë drejtorin e institucionit.
 3. Drejtori i IA-së e paraqet rastin para komisionit të etikës dhe sjelljes në IA.
 4. Kur ky komision konstaton kryerjen e shkeljes nga ana e mësuesit, bën rekomandimin për drejtorin e IA-së për marrjen e masës disiplinore ndaj mësuesit, sipas përcaktimeve të akteve ligjore dhe nënligjore në fuqi.
-5. Në rastin kur sjellja e dhunshme e shfaqur nga mësuesi përbën vepër penale, drejtori i IA-së ka detyrimin që të njoftojë menjëherë ZVA-në, NjMF-në dhe organet vendore të Policisë së Shtetit për ndjekjen e çështjes.
+5. Në rastin kur sjellja e dhunshme e shfaqur nga mësuesi përbën vepër penale, drejtori i IA-së ka detyrimin që të njoftojë menjëherë ZVAP-në, NjMF-në dhe organet vendore të Policisë së Shtetit për ndjekjen e çështjes.
 KREUXIII
 NXËNËSIT
 Neni 70
@@ -892,7 +895,7 @@ Nxënësi braktisës në arsimin bazë
 2. Nxënësi i arsimit bazë konsiderohet braktisës:
 a) nëse është i regjistruar në shkollë në fillim të vitit shkollor dhe në përfundim të vitit shkollor rezulton i paklasifikuar (mbetës) për shkak të mungesave;
 b) kur nuk ka mungesa me arsye dhe nuk përmbush asnjë prej kushteve përjashtuese: fatkeqësitë familjare, sëmundje që zgjat shumë ose që shkakton mungesa të rregullta (dokumentuar me raport mjekoligjor), transferimi në një shkollë tjetër brenda vendit (i dokumentuar), migrimi jashtë vendit (i dokumentuar), vdekja.
-3. Drejtori i IA-së së arsimit bazë njofton me shkresë titullarin e ZVA-së dhe personin që ushtron përgjegjësinë prindërore për nxënësin që i përket shkollës së tij dhe nuk është regjistruar në shkollë, ose për nxënësin që mungon më shumë se 10 ditë mësimi, pa ndonjë arsye të vlefshme. Titullari i ZVA-së njofton me shkresë bashkinë, ku nxënësi banon, me të dhënat e paraqitura nga drejtori i IA-së.
+3. Drejtori i IA-së së arsimit bazë njofton me shkresë titullarin e ZVAP-së dhe personin që ushtron përgjegjësinë prindërore për nxënësin që i përket shkollës së tij dhe nuk është regjistruar në shkollë, ose për nxënësin që mungon më shumë se 10 ditë mësimi, pa ndonjë arsye të vlefshme. Titullari i ZVAP-së njofton me shkresë bashkinë, ku nxënësi banon, me të dhënat e paraqitura nga drejtori i IA-së.
 Neni 77
 Mungesat e arsyeshme të nxënësit.
 Përpunimi i të dhënave për mungesat e nxënësve
@@ -909,19 +912,19 @@ Neni 78
 Procedurat e transferimit të nxënësve
 1. Transferimi i nxënësit, si rregull, bëhet pas përfundimit të vitit shkollor ose pas përfundimit të njërit prej tremujorëve, kurse në raste të ndërrimit të vendbanimit gjatë vitit shkollor.
 2. Nxënësi transferohet nga një shkollë me konkurs në një tjetër të të njëjtit profil pas përfundimit të vitit të parë shkollor.
-3. Kërkesa për transferim formulohet me shkrim nga personi që ushtron përgjegjësinë prindërore të nxënësit dhe i drejtohet drejtorit të IA-së ku nxënësi është regjistruar.
-4. Drejtori i IA-së nënshkruan dhe vulos dokumentacionin e transferimit, ia dorëzon personit që ushtron përgjegjësinë prindërore të nxënësit dhe ia dërgon zyrtarisht drejtorit të IA-së pritëse.
-5. Dokumentacioni i transferimit përmban:
+3. Transferimi i nxënësve bëhet nëpërmjet portalit e-Albania, me plotësimin e formularit nga personi që ushtron përgjegjësinë prindërore të nxënësit dhe i drejtohet drejtorit të IA-së ku nxënësi është regjistruar.
+4. Lëvizjet e nxënësve bëhen në përputhje me procedurat e përcaktuara në SMIP.
+5. Dokumentacioni i transferimit, i cili sigurohet nga struktura përgjegjëse me ndërveprim përmes SMIP-it, përmban:
 a) vlerësimet/notat e nxënësit të marra gjatë vitit shkollor deri në çastin e transferimit;
 b) numrin e mungesave të arsyetuara dhe të paarsyetuara;
 c) nderimet ose/dhe masat disiplinore ndaj nxënësit.
 6. Drejtori i IA-së ku nxënësi transferohet, njofton menjëherë zyrtarisht për regjistrimin drejtorin e IA-së nga vjen nxënësi. Drejtori i shkollës dërguese, pas këtij njoftimi, bën çregjistrimin e nxënësit.
 7. Lëvizjet e nxënësve pasqyrohen në regjistrin e klasës dhe në amzë. Procedurat e lëvizjes bëhen në përputhje me formatin në shtojcën 8, të kësaj rregulloreje.
 8. Kur nxënësi ka përfunduar një klasë të arsimit bazë, regjistrimi i tij në shkollën tjetër bëhet mbi bazën e vërtetimit të përfundimit të klasës paraardhëse, në të cilin shënohet dhe numri i amzës, i nënshkruar dhe i vulosur nga drejtori i shkollës, ku nxënësi ka përfunduar klasën përkatëse.
-9. Nxënësi i arsimit bazë artistike, i cili në sesionin e dytë është jokalues në lëndë të profilit artistik, transferohet në klasën pasardhëse të arsimit bazë të zakonshëm, pasi të ketë plotësuar lëndët që nuk i ka zhvilluar në shkollën artistike dhe me miratim të titullarit të ZVA-së.
-10. Transferimi i nxënësit të shkollës së arsimit të mesëm të lartë në një shkollë të një profili tjetër mund të bëhet pasi përfundon viti shkollor dhe me miratim të ZVA-së.
+9. Nxënësi i arsimit bazë artistike, i cili në sesionin e dytë është jokalues në lëndë të profilit artistik, transferohet në klasën pasardhëse të arsimit bazë të zakonshëm, pasi të ketë plotësuar lëndët që nuk i ka zhvilluar në shkollën artistike dhe me miratim të titullarit të ZVAP-së.
+10. Transferimi i nxënësit të shkollës së arsimit të mesëm të lartë në një shkollë të një profili tjetër mund të bëhet pasi përfundon viti shkollor dhe me miratim të ZVAP-së.
 Nxënësi shlyen detyrimet që rrjedhin nga ndryshimet në planet mësimore dhe programet lëndore të shkollave, në përputhje me njëvlershmërinë e përcaktuar me udhëzim të posaçëm. Drejtoria e IA-së cakton datat e provimeve.
-11. Ndërrimi i gjimnazit gjatë vitit shkollor, kur të dy gjimnazet janë brenda një qyteti, lejohet vetëm në raste të veçanta, me shkresë të ZVA-së, dërguar të dy gjimnazeve, duke respektuar kriterin e gjuhës së huaj të parë dhe lëndëve me zgjedhje.
+11. Ndërrimi i gjimnazit gjatë vitit shkollor, kur të dy gjimnazet janë brenda një qyteti, lejohet vetëm në raste të veçanta, me shkresë të ZVAP-së, dërguar të dy gjimnazeve, duke respektuar kriterin e gjuhës së huaj të parë dhe lëndëve me zgjedhje.
 12. Për nxënësit e shkollave të arsimit të mesëm të lartë, regjistrimi në një shkollë tjetër bëhet mbi bazën e vërtetimit me notat e të gjitha klasave paraardhëse.
 13. Nxënësi transferohet nga shkolla e arsimit të mesëm profesional në gjimnaz vetëm pas vitit të parë shkollor dhe pasi të kalojë në provimet e njëvlershmërisë të përcaktuara me udhëzim të ministrit.
 14. Ndalohet transferimi i nxënësve nga arsimi i mesëm me kohë të pjesshme në arsimin e mesëm me kohë të plotë.
@@ -936,14 +939,14 @@ b) vizita në mjedise të mundshme për punësim.
 KREU XIV
 ARSIMIMI I FËMIJËVE ME AFTËSI TË KUFIZUARA
 Neni 80
-Ngritja e komisionit në ZVA dhe detyra të tij
-1. ZVA-ja ngre komisionin multidisiplinar të përbërë nga një mjek pediatër (kur është e mundur, mjek pediatër zhvillimi), një psikolog, një punonjës social, një mësues (kur është e mundur, mësues i kualifikuar për arsimin e specializuar) dhe drejtuesi i Njësisë së Shërbimit Psikosocial.
+Ngritja e komisionit në ZVAP dhe detyra të tij
+1. ZVAP-ja ngre komisionin multidisiplinar të përbërë nga një mjek pediatër (kur është e mundur, mjek pediatër zhvillimi), një psikolog, një punonjës social, një mësues (kur është e mundur, mësues i kualifikuar për arsimin e specializuar) dhe drejtuesi i Njësisë së Shërbimit Psikosocial.
 Kryetar i komisionit është drejtuesi i NjShPS-së.
-2. ZVA, në bazë të numrit të IA-ve që mbulon dhe në bazë të numrit të nxënësve me AK, mund të ngrejë me shumë se një komision për mbulimin në kohë të nevojave për vlerësim.
+2. ZVAP, në bazë të numrit të IA-ve që mbulon dhe në bazë të numrit të nxënësve me AK, mund të ngrejë me shumë se një komision për mbulimin në kohë të nevojave për vlerësim.
 3. Komisioni, me kërkesën e personit që ushtron përgjegjësinë prindërore të fëmijës, ose të drejtorit të IA-së, ku fëmija është regjistruar, vlerëson nevojat arsimore të fëmijës dhe ecurinë e tij.
 4. Komisioni mblidhet tri herë në vit, para fillimit të vitit shkollor, në fund të periudhës së parë dhe në fund të vitit mësimor.
-5. Drejtori i IA-së këshillohet me komisionin e institucionit, para se t’i drejtohet komisionit në ZVA, dhe bashkëpunon me personin që ushtron përgjegjësinë prindërore të fëmijës për të paraqitur kërkesën e tij.
-6. Personi që ushtron përgjegjësinë prindërore i paraqet ZVA-së raportin vlerësues të fëmijës së tij të kryer nga komisioni mjekësor, kur fëmija është vlerësuar nga ky komision mjekësor.
+5. Drejtori i IA-së këshillohet me komisionin e institucionit, para se t’i drejtohet komisionit në ZVAP, dhe bashkëpunon me personin që ushtron përgjegjësinë prindërore të fëmijës për të paraqitur kërkesën e tij.
+6. Personi që ushtron përgjegjësinë prindërore i paraqet ZVAP-së raportin vlerësues të fëmijës së tij të kryer nga komisioni mjekësor, kur fëmija është vlerësuar nga ky komision mjekësor.
 7. Komisioni:
 a) njofton personin që ushtron përgjegjësinë prindërore për gjendjen dhe ecurinë e fëmijës;
 b) i jep me shkrim personit që ka paraqitur kërkesën, rekomandimin për ndjekjen nga fëmija të shkollës së zakonshme ose të specializuar, ose kalimin nga shkolla e specializuar në shkollën e zakonshme apo anasjelltas;
@@ -953,19 +956,19 @@ c) rekomandon shërbimet shtesë që duhet të marrë fëmija në qendra ditore 
 9. Komisioni fton të paktën një prind gjatë vlerësimit të fëmijës, dhe po të jetë e nevojshme, të afërm të tij. Kur fëmija është në kopsht/shkollë, përveç personit që ushtron përgjegjësinë prindërore marrin pjesë: punonjësi i shërbimit psikosocial në IA, mësues të fëmijës të caktuar nga drejtori i IA-së.
 10. Komisioni rekomandon ndjekjen e shkollës së specializuar vetëm kur gjykon se ndjekja e një shkolle të zakonshme nuk do të zhvillonte sa duhet fëmijën AK.
 11. Komisioni njofton me shkrim drejtorin e institucionit të zakonshëm arsimor se cilët nga fëmijët me AK do të mësojnë me plan mësimor dhe programe lëndore të zakonshme, të përshtatura ose individuale, si dhe rekomandon mjetet ndihmëse që i nevojiten fëmijës për të realizuar procesin mësimor-edukativ.
-12. Komisioni i ZVA-së udhëzon komisionet e IA-ve për punën me nxënësit me AK.
-13. Komisioni i ZVA-së mban dokumentacionin e gjendjes fillestare të fëmijës me AK dhe përditëson ecurinë e tij në bashkëpunim me komisionin në IA.
-14. ZVA-ja siguron kushtet e përshtatshme për ushtrimin e punës së komisionit.
-15. ZVA-ja vë në dispozicion të komisionit dokumentacionin e fëmijëve që do të vlerësojë, të paktën dy javë para vlerësimit.
+12. Komisioni i ZVAP-së udhëzon komisionet e IA-ve për punën me nxënësit me AK.
+13. Komisioni i ZVAP-së mban dokumentacionin e gjendjes fillestare të fëmijës me AK dhe përditëson ecurinë e tij në bashkëpunim me komisionin në IA.
+14. ZVAP-ja siguron kushtet e përshtatshme për ushtrimin e punës së komisionit.
+15. ZVAP-ja vë në dispozicion të komisionit dokumentacionin e fëmijëve që do të vlerësojë, të paktën dy javë para vlerësimit.
 Neni 81
 Detyra të Zyrës Vendore Arsimore
-1. ZVA-ja siguron:
+1. ZVAP-ja siguron:
 a) arsimimin e fëmijëve me AK në një IA publik të zakonshëm ose të specializuar;
 b) arsimimin në shtëpi të nxënësve me AK që nuk munden të ndjekin shkollë të zakonshme ose të specializuar të arsimit bazë.
-2. Bazuar në rekomandimin e Komisionit Multidisiplinar, ZVA-ja cakton mësuesin ndihmës për fëmijët me AK sipas nevojave individuale të tyre.
-3. ZVA-ja informon IA-të publike për shërbimet rehabilituese që ofrohen nga institucionet shtetërore shëndetësore.
-4. ZVA-ja pajis me përparësi nxënësit me AK me mjete mësimore dhe pajisje ndihmëse për mbarëvajtjen e procesit mësimor dhe zhvillimin e tyre personal e ndërpersonal.
-5. ZVA-ja organizon, nëpërmjet NJSHPS-së së saj, bashkëpunimin e mësuesve të shkollave të specializuara me mësuesit e shkollave të zakonshme, për hartimin dhe vënien në jetë të planeve edukative individuale (PEI) për nxënësit me AK.
+2. Bazuar në rekomandimin e Komisionit Multidisiplinar, ZVAP-ja cakton mësuesin ndihmës për fëmijët me AK sipas nevojave individuale të tyre.
+3. ZVAP-ja informon IA-të publike për shërbimet rehabilituese që ofrohen nga institucionet shtetërore shëndetësore.
+4. ZVAP-ja pajis me përparësi nxënësit me AK me mjete mësimore dhe pajisje ndihmëse për mbarëvajtjen e procesit mësimor dhe zhvillimin e tyre personal e ndërpersonal.
+5. ZVAP-ja organizon, nëpërmjet NJSHPS-së së saj, bashkëpunimin e mësuesve të shkollave të specializuara me mësuesit e shkollave të zakonshme, për hartimin dhe vënien në jetë të planeve edukative individuale (PEI) për nxënësit me AK.
 Neni 82
 Mësuesi ndihmës në institucionin arsimor të zakonshëm
 1. Për fëmijët me aftësi të kufizuara në në IA-të publike caktohet mësues ndihmës.
@@ -978,12 +981,12 @@ d) të hartojë, në bashkëpunim me mësuesin e nxënësit me AK/mësuesit lën
 Neni 83
 Komisioni i institucionit arsimor të zakonshëm
 1. Drejtori i IA-së së zakonshme ngre komisionin për nxënësit me AK, në përbërje të të cilit janë tre mësues të lëndëve të fushave të ndryshme të të nxënit dhe psikologu/punonjësi social. Në komision merr pjesë të paktën një nga mësuesit e nxënësit me AK dhe mësuesi ndihmës (kur ka). Kryetar i komisionit është punonjësi i shërbimit psikosocial.
-2. Komisioni i IA-së së zakonshme, bazuar në vlerësimin e komisionit të ZVA-së:
+2. Komisioni i IA-së së zakonshme, bazuar në vlerësimin e komisionit të ZVAP-së:
 a) udhëzon mësuesit për hartimin e PEI-ve dhe i miraton ato;
 b) ndihmon mësuesit gjatë zbatimit të PEI-ve;
 c) ndjek ecurinë e fëmijëve me AK;
-ç) paraqet në komisionin e ZVA-së raportin e ecurisë së nxënësit me AK, sipas formatit të vendosur nga komisioni i ZVA-së.
-2. Anëtarët e komisionit në ZVA dhe në IA, mësuesit dhe mësuesit ndihmës që punojnë me fëmijë me AK, nuk kanë të drejtë t’u japin të dhënat personale të këtyre fëmijëve personave të paautorizuar nga komisioni i ZVA-së/drejtori i IA-së.
+ç) paraqet në komisionin e ZVAP-së raportin e ecurisë së nxënësit me AK, sipas formatit të vendosur nga komisioni i ZVAP-së.
+2. Anëtarët e komisionit në ZVAP dhe në IA, mësuesit dhe mësuesit ndihmës që punojnë me fëmijë me AK, nuk kanë të drejtë t’u japin të dhënat personale të këtyre fëmijëve personave të paautorizuar nga komisioni i ZVAP-së/drejtori i IA-së.
 Neni 84
 Ndjekja e shkollës. Vlerësimi i nxënësve me AK.
 Dokumente të përfundimit të shkollimit
@@ -1003,13 +1006,13 @@ Nxënësit që nuk dëgjojnë ose/dhe nuk flasin ose/dhe nuk shikojnë
 1. Nxënësve që nuk dëgjojnë e nuk flasin, u garantohet e drejta e arsimimit në gjuhën e shenjave, ndërsa atyre që nuk shikojnë përdorimi i shkrimit Brail.
 Materialet mësimore ndihmëse janë në formatin e përshtatshëm (në Brail, tekste me shkronja të mëdha etj.). Kur është e nevojshme, përdoren versione të thjeshtuara të tekstit të lëndës mësimore.
 2. Kurrikula e nxënësve që nuk shikojnë apo nuk flasin ose/dhe nuk dëgjojnë, është përgjithësisht kurrikula e zakonshme.
-3. Me rekomandimin e Komisionit Multidisiplinar të ZVA-së, nxënësve u sigurohen edhe tekste për mësimin e gjuhës së folur dhe komunikimin global.
+3. Me rekomandimin e Komisionit Multidisiplinar të ZVAP-së, nxënësve u sigurohen edhe tekste për mësimin e gjuhës së folur dhe komunikimin global.
 Neni 86
 Shkollat e specializuara për nxënësit me aftësi të kufizuar
 1. Mësuesit e shkollave të specializuara janë të diplomuar në arsimin special.
 2. Shkollat e specializuara kanë punonjës të specializuar në aftësinë e kufizuar, që ofrojnë shërbime mbështetëse të specializuara (mjekë, punonjës të shërbimit psikosocial, terapistë), si dhe mësues ndihmës.
-3. Nxënësit që, sipas gjykimit të komisionit të vlerësimit në ZVA, kanë nevojë për trajtim të individualizuar, punojnë me PEI.
-4. Shkollat e specializuara, nën organizimin e ZVA-së, shërbejnë si qendër shkëmbimi përvoje për mësuesit e IA-ve të zakonshme që punojnë me fëmijë me AK.
+3. Nxënësit që, sipas gjykimit të komisionit të vlerësimit në ZVAP, kanë nevojë për trajtim të individualizuar, punojnë me PEI.
+4. Shkollat e specializuara, nën organizimin e ZVAP-së, shërbejnë si qendër shkëmbimi përvoje për mësuesit e IA-ve të zakonshme që punojnë me fëmijë me AK.
 5. Shkollat speciale shërbejnë si qendra burimore për shkollat e zakonshme duke ndihmuar personat që ushtrojnë përgjegjësinë prindërore të nxënësve, mësuesit ndihmës dhe mësuesit e IA-ve të zakonshme që kanë nxënës me AK.
 Neni 87
 Mësuesi ndihmës në shkollat e specializuara
@@ -1106,7 +1109,7 @@ Këshilli Kombëtar i Prindërve dhe Këshilli Rajonal i Prindërve
 1. Këshilli Kombëtar i Prindërve është organ këshillimor dhe i pavarur, i cili përfaqëson interesat e personave që ushtrojnë përgjegjësinë prindërore në nivel kombëtar dhe përbëhet nga përfaqësues të këshillave rajonale të prindërve. Këshilli Kombëtar i Prindërve:
 a) është mekanizmi kryesor i komunikimit dhe i këshillimit ndërmjet ministrisë dhe personave që ushtrojnë përgjegjësinë prindërore;
 b) përfaqëson interesat e personave që ushtrojnë përgjegjësinë prindërore në nivel qendror dhe i përcjell mendimet e tij në ministri për të gjitha çështjet që i takojnë arsimit parauniversitar, me qëllim përmirësimin e cilësisë;
-c) bashkëpunon me ministrinë, Këshillin Rajonal të Prindërve, shoqatat e prindërve dhe me ZVA-të.
+c) bashkëpunon me ministrinë, Këshillin Rajonal të Prindërve, shoqatat e prindërve dhe me ZVAP-të.
 2. Këshilli Rajonal i Prindërve:
 a) përfaqëson interesat e nxënësve dhe të personave që ushtrojnë përgjegjësinë prindërore të tyre në institucionet e arsimit parauniversitar në nivel të DRAP-së;
 b) organizon personat që ushtrojnë përgjegjësinë prindërore për të mbështetur shkollën dhe stafin mësimor në veprimtarinë edukative arsimore;
@@ -1117,7 +1120,7 @@ MATURA SHTETËRORE, PROVIMET, VLERËSIMET KOMBËTARE DHE TESTET NDËRKOMBËTARE
 Neni 94
 Konsultimet
 1. Në këndin e konsultimeve në çdo IA-ja, për secilën nga lëndët e MSh-së, provimeve/vlerësimeve kombëtare paraqitet orari i konsultimeve, të cilat zhvillohen deri në përfundim të vitit mësimor dhe gjatë ditëve përpara çdo provimi, sipas akteve nënligjore në fuqi.
-2. DRAP-ja dhe ZVA-ja vëzhgojnë dhe ndihmojnë IA-të në organizimin dhe zhvillimin e konsultimeve.
+2. DRAP-ja dhe ZVAP-ja vëzhgojnë dhe ndihmojnë IA-të në organizimin dhe zhvillimin e konsultimeve.
 Neni 95
 Pjesëmarrja në provime
 1. Nxënësi merr pjesë në provimet e Maturës Shtetërore dhe në provimet kombëtare të arsimit bazë kur ka plotësuar të gjitha detyrimet shkollore.
@@ -1129,13 +1132,13 @@ Sesioni i dytë
 3. Nxënësi që mbetet në një ose më shumë lëndë të Maturës Shtetërore, ka të drejtë t’i rijapë ato në vitin/vitet pasardhëse të Maturës Shtetërore, me testin që japin edhe nxënësit e tjerë të atij viti shkollor.
 Neni 97
 Publikimi i raporteve
-1. DRAP-ja dhe ZVA-ja publikojnë të dhënat për provimet e Maturës Shtetërore dhe të provimeve/vlerësimeve kombëtare/ndërkombëtare për shkollat në juridiksion të tyre. Ato marrin të gjitha masat që çdo IA të analizojë rezultatet në bazë të të dhënave të raporteve të QSHA-së.
+1. DRAP-ja dhe ZVAP-ja publikojnë të dhënat për provimet e Maturës Shtetërore dhe të provimeve/vlerësimeve kombëtare/ndërkombëtare për shkollat në juridiksion të tyre. Ato marrin të gjitha masat që çdo IA të analizojë rezultatet në bazë të të dhënave të raporteve të QSHA-së.
 2. Institucioni arsimor përgatit raportin në nivel shkolle lidhur me rezultatet e provimeve/vlerësimeve kombëtare/ndërkombëtare dhe merr masa për sigurimin e cilësisë dhe për zbatimin e rekomandimeve të dala nga raportet kombëtare.
 KREU XVII
 KONKURRIMET E NXËNËSVE
 Neni 98
 Konkurset
-1. Ministria, DRAP-ja, ZVA-ja dhe IA-të shpallin në fillim të vitit shkollor konkurset sipas përparësive vjetore të tyre. Temat e konkurseve përfshijnë:
+1. Ministria, DRAP-ja, ZVAP-ja dhe IA-të shpallin në fillim të vitit shkollor konkurset sipas përparësive vjetore të tyre. Temat e konkurseve përfshijnë:
 a) produkte profesionale të mësuesve, si: projekte ndërlëndore/lëndore, risi të procesit mësimor;
 b) produkte të nxënësve në artet, sportet, krijimet letrare, veprimtari shkencore;
 c) arritje të IA-ve, si: risi të institucioneve në përkujdesjen ndaj nxënësve në vështirësi ose me prirje të veçanta;
@@ -1150,7 +1153,7 @@ MASA DISIPLINORE
 Neni 100
 Parime të përgjithshme
 1. Respektimi i rregullave disiplinore në institucionet arsimore është i detyrueshëm për nxënësit e të gjitha klasave dhe moshave.
-2. Rregullat e disiplinës shkollore hartohen nga komisioni i disiplinës i shkollës, diskutohen me grupet e interesit, miratohen nga ZVA-ja dhe bëhen të njohura në çdo fillimviti shkollor.
+2. Rregullat e disiplinës shkollore hartohen nga komisioni i disiplinës i shkollës, diskutohen me grupet e interesit, miratohen nga ZVAP-ja dhe bëhen të njohura në çdo fillimviti shkollor.
 3. Rregullat e disiplinës dhe masat parashikohen në rregulloren e brendshme të IA-së, referuar rregullores tip të miratuar nga ministri.
 4. Masa disiplinore e parashikuar në rregulloren e IA-së ka rol dhe dimension edukativ.
 5. Trajtimi i sjelljeve që vijnë në shkelje me rregullat e disiplinës shkollore, trajtohen nga komisioni i disiplinës.
@@ -1218,7 +1221,7 @@ ii. ulja e notës në sjellje u njoftohet me shkrim nxënësit dhe personave që
 iii. kjo masë disiplinore është pjesë e dosjes personale të nxënësit.
 c) Kontribut në shërbim të institucionit arsimor apo komunitetit. Kjo masë disiplinore:
 i. u njoftohet me shkrim nxënësit dhe personave që ushtrojnë përgjegjësinë prindërore të tij apo përfaqësuesit të tij ligjor, të cilët duhet të konfirmojnë se kanë marrë dijeni;
-ii. konsiston në kontributin e nxënësit jashtë orëve të mësimit, në veprimtari solidariteti, kulturore ose trajnuese, ose në kryerjen e një detyre për qëllime edukimi për një periudhë kohore të përcaktuar nga komisioni i disiplinës, që në total nuk i kalon njëzet orë përgjatë vitit shkollor. Ky kontribut jepet brenda IA-së apo një autoriteti lokal, të mundësuar nga ZVA-ja;
+ii. konsiston në kontributin e nxënësit jashtë orëve të mësimit, në veprimtari solidariteti, kulturore ose trajnuese, ose në kryerjen e një detyre për qëllime edukimi për një periudhë kohore të përcaktuar nga komisioni i disiplinës, që në total nuk i kalon njëzet orë përgjatë vitit shkollor. Ky kontribut jepet brenda IA-së apo një autoriteti lokal, të mundësuar nga ZVAP-ja;
 iii. është pjesë e dosjes personale të nxënësit.
 d) Përjashtim i nxënësit nga institucioni arsimor:
 i. vendimi “Përjashtim i nxënësit nga institucioni arsimor” jepet vetëm për nxënësit e arsimit të mesëm të lartë. Kjo masë konsiderohet si mënyra më ekstreme dhe mund të aplikohet vetëm pasi komisioni i disiplinës i IA-së ka shfrytëzuar (në mënyrë të shteruar) çdo mënyrë tjetër për të evituar procesin e përjashtimit, duke i mundësuar nxënësit të dëshmojë vullnetin e tij për të ecur dhe për të reflektuar;
@@ -1289,21 +1292,19 @@ h) ka rekomandim me shkrim nga komisioni i disiplinës i shkollës.
 KREU XIX
 DOKUMENTACIONI NË INSTITUCIONET ARSIMORE
 Neni 109
-Regjistri i klasës, dëftesa e klasës, amza e shkollës, amza digjitale
-1. Regjistrat e klasës sigurohen në sekretari (aty ku ka), ose në zyrën e drejtorit/nëndrejtorit të shkollës.
-2. Regjistri plotësohet dhe përdoret në përputhje me aktet nënligjore në fuqi.
-3. Në periudhën kur regjistri nuk përdoret në klasë, mund të merret vetëm nga:
-a) mësuesi kujdestar i asaj klase;
-b) mësuesit lëndorë të asaj klase;
-c) monitoruesit që janë duke kryer vlerësimin e jashtëm të IA-së;
-ç) të tjerë që janë të autorizuar me shkrim nga drejtori i institucionit.
-4. Pajisen me dëftesë të klasës të gjithë nxënësit e klasave I-IX dhe të klasave X deri te klasa e parafundit e arsimit të mesëm të lartë.
-5. Dëftesa e klasës dhe ajo e mbarimit të shkollës lëshohen vetëm një herë. Shkolla pajis nxënësin/ish-nxënësin me vërtetim të rezultateve të shkollimit, me kërkesë të tij.
-6. Pajisen me certifikatë dhe diplomë të Maturës Shtetërore të gjithë nxënësit që përfundojnë arsimin e mesëm të lartë. Diploma e MSh-së lëshohet vetëm një herë.
-7. Drejtori kujdeset dhe mban përgjegjësi për ruajtjen e amzës, si dhe mban në vend të siguruar amzën e shkollës.
-8. Amza plotësohet dhe përdoret në përputhje me udhëzimet që jepen në faqen e parë të saj. Në IA-të ku krijohet amza digjitale, personi përgjegjës për administrimin e saj është mësuesi (ose 2 mësues për shkollat e mëdha) që jep lëndën e TIK∕informatikës në shkollë, i cili caktohet me urdhër nga drejtori i shkollës. Amza digjitale është amza elektronike e cila përmban të gjithë informacionin që ka amza e shkollës.
-Plotësimi i amzës digjitale kryhet sipas përcaktimeve të kuadrit ligjor në fuqi.
-9. Për shkollat e mbyllura, regjistri i veçantë, amza dhe indeksi i amzës dorëzohen nga drejtori i IA-së nën kujdesin e ZVA-së përkatëse në arkivin vendor, menjëherë me hyrjen në fuqi të aktit të mbylljes.
+Regjistri digjital i klasës, dëftesat digjitale të klasave, amza digjitale
+1. Regjistri i klasës është digjital dhe krijohet e plotësohet në SMIP.
+2. Regjistri i klasës plotësohet sipas rubrikave në përputhje me aktet nënligjore në fuqi.
+3. Mësuesi kujdestar i klasës dhe mësuesit që japin lëndë mësimore në klasën përkatëse, plotësojnë rubrikat e regjistrit digjital të klasës, sipas afateve të përcaktuara në SMIP.
+4. Administratori i SMIP-it për shkollën krijon regjistrin për secilën klasë dhe ushtron përgjegjësitë e kryen detyrat, sipas rregullores për SMIP-in, të miratuar me urdhër të ministrit për arsimin.
+5. Mësuesit (kujdestarë klase dhe lëndësh) përdorues të regjistrit digjital ushtrojnë përgjegjësitë dhe kryejnë detyrat sipas rregullores për SMIP-in, të miratuar me urdhër të ministrit për arsimin.
+6. Pajisen me dëftesë digjitale të klasës të gjithë nxënësit e klasave I-IX dhe të klasave X deri te klasa e parafundit e arsimit të mesëm të lartë.
+7. Dëftesa digjitale e klasës dhe ajo e mbarimit të shkollës gjenerohen nga portali e-Albania.
+8. Shkolla pajis nxënësin/ish-nxënësin me vërtetim të rezultateve të shkollimit, me kërkesë të tij.
+9. Pajisen me certifikatë dhe diplomë të Maturës Shtetërore të gjithë nxënësit që përfundojnë arsimin e mesëm të lartë. Certifikata dhe diploma e Maturës Shtetërore gjenerohen nga portali e-Albania.
+10. Drejtori kujdeset dhe mban përgjegjësi për amzën digjitale, sipas rregullores për SMIP-in, të miratuar me urdhër të ministrit për arsimin.
+11. Plotësimi i amzës digjitale kryhet sipas përcaktimeve në rregulloren për SMIP-in, të miratuar me urdhër të ministrit përgjegjës për arsimin.
+12. Për shkollat e mbyllura, regjistri i veçantë, amza dhe indeksi i amzës dorëzohen nga drejtori i IA-së nën kujdesin e ZVAP-së përkatëse në arkivin vendor, menjëherë me hyrjen në fuqi të aktit të mbylljes.
 KREU XX
 BIBLIOTEKA E INSTITUCIONIT ARSIMOR
 Neni 110
@@ -1365,7 +1366,7 @@ b) ka shenja dalluese që tregojnë rrugën për të dalë në raste ngjarjesh t
 4. Korridoret, shkallët dhe sheshpushimet në godinën e IA-së nuk zihen me objekte që pengojnë lëvizjen në raste ngjarjesh të jashtëzakonshme.
 5. Drejtori i IA-së publike komunikon menjëherë me NJVV-në kur është në rrezik siguria në institucion për shkak të problemeve në mirëmbajtjen e tij.
 6. Mësuesit janë përgjegjës për sigurinë e mjeteve dhe të pajisjeve që përdoren nga nxënësit. Në një vend të dukshëm për nxënësit vendosen rregulloret e sigurisë në mjediset e shkollës, si: laboratorë, palestër. Nxënësit i kanë përvetësuar rregulloret.
-7. Kur drejtori i IA-së gjykon se rrezikohet siguria në një mjedis ose në të gjithë ndërtesën, vendos ndërprerjen e funksionimit të mjedisit ose të institucionit dhe njofton menjëherë bashkinë dhe ZVA-në.
+7. Kur drejtori i IA-së gjykon se rrezikohet siguria në një mjedis ose në të gjithë ndërtesën, vendos ndërprerjen e funksionimit të mjedisit ose të institucionit dhe njofton menjëherë bashkinë dhe ZVAP-në.
 8. Drejtori harton raportin për çdo rast emergjence në institucion.
 9. Drejtori i IA-së publike formulon periodikisht për njësinë përkatëse të vetëqeverisjes vendore kërkesën e detajuar për mirëmbajtjen e institucionit, bazuar në pyetësorin e mirëmbajtjes.
 10. Drejtori njofton menjëherë policinë dhe bashkinë për vjedhje ose tentativë vjedhjeje në pronën e institucionit.
@@ -1446,15 +1447,15 @@ PËRGJEGJËSE PËR ARSIMIN PARAUNIVERSITAR
 Neni 117
 Vëzhgimet në institucionet arsimore
 1. Vëzhgimet në institucionet arsimore kanë për objekt veprimtarinë e drejtuesve të IA-ve dhe të mësuesve.
-2. Bazuar në raportet përmbledhëse të vëzhgimeve, titullari i ZVA-së i propozon titullarit të DRAP-së masa administrative ndaj drejtorit të institucionit të vëzhguar, si dhe i propozon drejtorit të IA-së marrjen e masave administrative ndaj mësuesve.
+2. Bazuar në raportet përmbledhëse të vëzhgimeve, titullari i ZVAP-së i propozon titullarit të DRAP-së masa administrative ndaj drejtorit të institucionit të vëzhguar, si dhe i propozon drejtorit të IA-së marrjen e masave administrative ndaj mësuesve.
 KREU XXIV
 INSTITUCIONET E TJERA
 Neni 118
 Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar (ASCAP)
 Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar (ASCAP) është institucioni që garanton performancën e sistemit arsimor parauniversitar dhe cilësinë e arsimimit parauniversitar publik e privat, në përputhje me qasjen e kurrikulës, të bazuar në zhvillimin e kompetencave.
 Neni 119
-Drejtoria e Përgjithshme e Arsimit Parauniversitar (DPAP)
-DPAP-ja është tërësia e institucioneve administrative dhe ofruese të shërbimeve arsimore parauniversitare, që ushtron veprimtarinë e saj në të gjithë territorin e vendit dhe ka fushë përgjegjësie ofrimin dhe sigurimin e shërbimit arsimor cilësor në të gjitha IA-të e sistemit parauniversitar në Republikën e Shqipërisë.
+Agjencia Kombëtare e Arsimit Parauniversitar (AKAP)
+AKAP-ja është tërësia e institucioneve administrative dhe ofruese të shërbimeve arsimore parauniversitare, që ushtron veprimtarinë e saj në të gjithë territorin e vendit dhe ka fushë përgjegjësie ofrimin dhe sigurimin e shërbimit arsimor cilësor në të gjitha IA-të e sistemit parauniversitar në Republikën e Shqipërisë.
 Neni 120
 Qendra e Shërbimeve Arsimore (QSHA)
 QSHA-ja është institucion i posaçëm që ushtron funksion teknik, profesional, mbështetës dhe rekomandues të politikave të vlerësimit dhe të organizimit të provimeve kombëtare, si dhe të provimit të shtetit për profesionet e rregulluara.
@@ -1464,7 +1465,7 @@ DISPOZITAT KALIMTARE
 2. Arsimimi i detyrueshëm jashtë institucioneve arsimore, si në kushtet e shtëpisë, arsimimi për individët e moshës shkollore në institucionet e paraburgimit, të vuajtjes së dënimit dhe në institucione të përkujdesjes shoqërore ofrohen në përputhje me aktet ligjore e nënligjore në fuqi.
 3. Institucionet arsimore organizohen dhe zhvillojnë veprimtarinë e tyre në përputhje me aktet ligjore e nënligjore në fuqi.
 4. Çdo institucion arsimor ka rregulloren e brendshme, të hartuar në përputhje me rregulloren tip të miratuar nga ministri.
-5. ZVA-të dhe IA-të realizojnë kartën e performancës të institucionit në përputhje me udhëzimin përkatës të ministrit.
+5. ZVAP-të dhe IA-të realizojnë kartën e performancës të institucionit në përputhje me udhëzimin përkatës të ministrit.
 6. Veprimtaria e IA-ve si qendra komunitare zhvillohet në përputhje me aktet ligjore dhe nënligjore në fuqi.
 7. Emërimi, largimi nga puna i psikologut/punonjësit social dhe oficerit të sigurisë në institucionet arsimore bëhet në përputhje me aktet ligjore e nënligjore në fuqi.
 8. Punonjësit e shërbimeve mbështetëse punësohen dhe largohen nga puna nga NjVV-të.
@@ -1509,7 +1510,7 @@ Anëtarët e komisionit
 ...
 Shtojca 8
 FORMULAR PËR LËVIZJEN E NXËNËSIT
-ZVA
+ZVAP
 QYTET/FSHATI
 SHKOLLA
 (Emri i Shkollës , Lloji i Shkollës)
@@ -1531,7 +1532,7 @@ Drejtori pritës
 Specialisti i ____________
 (emër, mbiemër)
 ( firma )
-ZVA
+ZVAP
 QYTET/FSHATI
 SHKOLLA
 (Emri i Shkollës , Lloji i Shkollës)
