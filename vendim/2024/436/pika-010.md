@@ -1,0 +1,1 @@
+10. Në rastet e hetimeve të thelluara, për shkak të njohurive të veçanta që kërkon hetimi ose verifikimi i një çështjeje, në grupin e punës së DPAK-së mund të përfshihen edhe ekspertë të administratës shtetërore dhe/ose ekspertë të jashtëm.

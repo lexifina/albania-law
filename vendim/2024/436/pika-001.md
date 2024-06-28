@@ -1,0 +1,1 @@
+1. Krijimin dhe mënyrën e organizimit e të funksionimit të Drejtorisë së Përgjithshme të Antikorrupsionit (në vijim “DPAK”), si person juridik, publik, buxhetor, në varësi të ministrit përgjegjës për antikorrupsionin (në vijim “ministri”), në cilësinë e Koordinatorit Kombëtar kundër Korrupsionit, me seli në Tiranë.

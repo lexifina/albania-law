@@ -1,0 +1,1 @@
+11. Në rastin kur është e nevojshme përfshirja e ekspertëve nga administrata shtetërore, drejtori i përgjithshëm i DPAK-së paraqet kërkesën pranë institucionit që mbulon fushën përkatëse për vendosjen në dispozicion të ekspertit/ekspertëve, i cili/të cilët kanë kualifikimet e cilësitë e kërkuara për kryerjen e hetimeve.

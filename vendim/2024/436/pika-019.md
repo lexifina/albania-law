@@ -1,0 +1,1 @@
+19. DPAK-ja ka stemën, logon dhe vulën e vet zyrtare. Stema e DPAK-së përbëhet nga stema e Republikës së Shqipërisë, me shënimet: “Republika e Shqipërisë, Drejtoria e Përgjithshme e Antikorrupsionit”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.
