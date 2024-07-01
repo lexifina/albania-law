@@ -1,0 +1,1 @@
+3. Homazhet publike dhe ceremonia shtetërore të organizohen në mjediset e Teatrit Kombëtar të Operas, Baletit dhe Ansamblit Popullor, Tiranë, ditën e mërkurë, datë 3.7.2024, përkatësisht, nga ora 9:00 deri në orën 11:00, dhe nga ora 11:30 deri në orën 12:30.
