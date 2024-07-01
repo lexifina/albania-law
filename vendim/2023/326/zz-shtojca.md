@@ -515,3 +515,5 @@ të punonjësve të institucioneve të ekzekutimit të vendimeve penale
 |2 |Kujdestar. |VII |
 |3 |Ndihmësfarmacist dhe magazinier. |V |
 Shënim. Për emërtesat e pozicioneve të punës, klasat e të cilave nuk janë përcaktuar në këtë lidhje, përdoret kreu II/1.
+-----------------------
+[1] Vendimi nr. 422, date 26.6.2024 botuar në F.Z nr. 108, date 1.7.2024 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për vitin 2024, përballohen nga buxheti i miratuar dhe fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
