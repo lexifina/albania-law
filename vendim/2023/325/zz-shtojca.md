@@ -1,5 +1,4 @@
 # Shtojca
-Lidhja nr. 1
 Kategoritë e klasat e pozicioneve të punës, si dhe vlerat mujore të shtesave të pozicioneve të nëpunësve civilë dhe nëpunësve të institucioneve të përcaktuara në pikën 1, të kreut I, të këtij vendimi, me përjashtim të punonjësve të përcaktuar në pikën 2, të kreut II
 | | |Elementet e pagës bruto mujore, përjashtuar shtesat për kushte pune (natyrë |
 | | |të veçantë pune) dhe për kushte të vështira e të dëmshme për shëndetin, që |
@@ -8,7 +7,7 @@ Kategoritë e klasat e pozicioneve të punës, si dhe vlerat mujore të shtesave
 |Kategoria |(pozicioneve të punës | |
 | |për secilën kategori) | |
 | | |Paga për pozicion |Shtesa e |Shtesa për vjetërsi |
-| | |(lekë në muaj) |nivelit të kualifikimit |(sipas mënyrës së |
+| | |(lek në muaj) |nivelit të kualifikimit |(sipas mënyrës së |
 | | | | |llogaritjes së |
 | | | | |përcaktuar në |
 | | | | |shkronjën “ç”, të |
@@ -24,18 +23,20 @@ Kategoritë e klasat e pozicioneve të punës, si dhe vlerat mujore të shtesave
 | | |II-2 |141 000 |1 | |
 |E ulët drejtuese |III |III-1 |115 000 |1 | |
 | | |III-2 |105 000 |1 | |
-| | |III-3 | 95 000 |1 | |
-|Ekzekutive |IV |IV-1 | 80 000 |1 ose 2 | |
-| | |IV-2 | 70 000 |1 ose 2, ose 3 | |
-| | |IV-3 | 60 000 |1 ose 2, ose 3 | |
-| | |IV-4 | 50 000 |1 ose 2, ose 3 | |
-Lidhja nr. 2
+| | |III-3 | 98 000 |1 | |
+|Ekzekutive |IV |IV-1 | 90 000 |1 ose 2 | |
+| | |IV-2 | 80 000 |1 ose 2, ose 3 | |
+| | |IV-3 | 70 000 |1 ose 2, ose 3 | |
+| | |IV-4 | 60 000 |1 ose 2, ose 3 | |
 Vlera e shtesës së nivelit të kualifikimit
 |Grupi i diplomës |Niveli i kualifikimit sipas Kornizës |Vlera e shtesës së nivelit të kualifikimit |
 | |Shqiptare të Kualifikimeve (KSHK) |(lek/muaj) |
 |1 |Niveli 7 i KSHK |14 000 |
 | |(Master i shkencave. | |
 | |Master i arteve. | |
+| |Master Profesional të përfituar në fund të | |
+| |studimeve të ciklit të dytë, me 120 kredite | |
+| |dhe me kohëzgjatje normale 2 vite akademike. | |
 | |Të barasvlershme me to sipas legjislacionit | |
 | |të arsimit të lartë.) | |
 |2 |Niveli 7 i KSHK-së |12 000 |
@@ -72,15 +73,15 @@ i. në masën 25 000 (njëzet e pesë mijë) lekë në muaj për nëpunësit në
 ii. në masën 10 000 (dhjetë mijë) lekë në muaj për nëpunësit në pozicionet “drejtor drejtorie” me funksione të nëpunësit zbatues, sipas legjislacionit të menaxhimit buxhetor e financiar.
 7. Në ministrinë përgjegjëse për financat:
 a) në masën 24 000 (njëzet e katër mijë) lekë në muaj, për nëpunësit në pozicionet:
-i. “Drejtor i Përgjithshëm” në Drejtorinë e Përgjithshme të Buxhetit, në drejtorinë e përgjithshme përgjegjëse për çështjet e makroekonomisë, në drejtorinë e përgjithshme përgjegjëse për politikat fiskale, në drejtorinë e përgjithshme përgjegjëse për çështjet rregullatore dhe përputhshmërinë dhe në drejtorinë e përgjithshme përgjegjëse për borxhin;
-ii. “Drejtor drejtorie”, në njësitë përgjegjëse për planifikimin dhe monitorimin e buxhetit qendror dhe vendor të Drejtorisë së Përgjithshme të Buxhetit, në drejtorinë e përgjithshme përgjegjëse për çështjet e makroekonomisë, në drejtorinë e përgjithshme përgjegjëse për politikat fiskale, në drejtorinë e përgjithshme përgjegjëse për borxhin dhe në drejtorinë përgjegjëse për programimin, standardizimin dhe harmonizimin e kuadrit rregullator;
+i. “drejtor i përgjithshëm” në Drejtorinë e Përgjithshme të Buxhetit, në drejtorinë e përgjithshme përgjegjëse për çështjet e programimit makroekonomik dhe fiskal, në drejtorinë e përgjithshme përgjegjëse për politikat tatimore, në drejtorinë e përgjithshme përgjegjëse për çështjet rregullatore dhe përputhshmërinë dhe në drejtorinë e përgjithshme përgjegjëse për borxhin;
+ii. “drejtor drejtorie” në njësitë përgjegjëse për planifikimin dhe monitorimin e buxhetit qendror e vendor të Drejtorisë së Përgjithshme të Buxhetit, në drejtorinë e përgjithshme përgjegjëse për çështjet e programimit makroekonomik dhe fiskal, në drejtorinë e përgjithshme përgjegjëse për politikat tatimore, në drejtorinë e përgjithshme përgjegjëse për borxhin dhe në drejtorinë përgjegjëse për programimin, standardizimin dhe harmonizimin e kuadrit rregullator.
 b) në masën 20 000 (njëzet mijë) lekë në muaj për nëpunësin në pozicionet:
-i. “përgjegjës sektori” në njësitë përgjegjëse për planifikimin dhe monitorimin e buxhetit qendror dhe vendor të Drejtorisë së Përgjithshme të Buxhetit;
-ii. “përgjegjës sektori” në drejtorinë e përgjithshme përgjegjëse për çështjet e makroekonomisë, në drejtorinë e përgjithshme përgjegjëse për borxhin, në drejtorinë e përgjithshme përgjegjëse për politikat fiskale dhe në drejtorinë përgjegjëse për programimin, standardizimin dhe harmonizimin e kuadrit rregullator;
+i. “përgjegjës sektori” në njësitë përgjegjëse për planifikimin dhe monitorimin e buxhetit qendror e vendor të Drejtorisë së Përgjithshme të Buxhetit;
+ii. “përgjegjës sektori” në drejtorinë e përgjithshme përgjegjëse për çështjet e programimit makroekonomik dhe fiskal, në drejtorinë e përgjithshme përgjegjëse për borxhin, në drejtorinë e përgjithshme përgjegjëse për politikat tatimore dhe në drejtorinë përgjegjëse për programimin, standardizimin dhe harmonizimin e kuadrit rregullator.
 c) në masën 15 000 (pesëmbëdhjetë mijë) lekë në muaj për nëpunësit në pozicionet:
-i. “koordinator” dhe “specialist” në njësitë përgjegjëse për planifikimin dhe monitorimin e buxhetit qendror dhe vendor të Drejtorisë së Përgjithshme të Buxhetit,
-ii. “specialist” në drejtorinë e përgjithshme përgjegjëse për çështjet e makroekonomisë, në drejtorinë e përgjithshme përgjegjëse për borxhin, në drejtorinë e përgjithshme përgjegjëse për politikat fiskale dhe në drejtorinë përgjegjëse për programimin, standardizimin dhe harmonizimin e kuadrit rregullator;
-d) në masën 10 000 (dhjetë mijë) lekë në muaj për nëpunësit në njësitë e tjera organizative të përmbajtjes.
+i. “koordinator” dhe “specialist” në njësitë përgjegjëse për planifikimin dhe monitorimin e buxhetit qendror e vendor të Drejtorisë së Përgjithshme të Buxhetit;
+ii. “specialist” në drejtorinë e përgjithshme përgjegjëse për çështjet e programimit makroekonomik dhe fiskal, në drejtorinë e përgjithshme përgjegjëse për borxhin, në drejtorinë e përgjithshme përgjegjëse për politikat tatimore dhe në drejtorinë përgjegjëse për programimin, standardizimin dhe harmonizimin e kuadrit rregullator.
+ç) në masën 10 000 (dhjetë mijë) lekë në muaj për nëpunësit në njësitë e tjera organizative të përmbajtjes.
 8. Në Ministrinë e Drejtësisë:
 a) në masën 24 000 (njëzet e katër mijë) lekë në muaj, për nëpunësin në pozicionin “drejtor i përgjithshëm” në drejtorinë e përgjithshme përgjegjëse për kodifikimin dhe harmonizimin e legjislacionit dhe për nëpunësit në pozicionet “drejtor drejtorie”, në drejtorinë e përgjithshme përgjegjëse për kodifikimin dhe harmonizimin e legjislacionit;
 b) në masën 20 000 (njëzet mijë) lekë në muaj për nëpunësit në pozicionet “përgjegjës sektori” në drejtorinë e përgjithshme përgjegjëse për kodifikimin dhe harmonizimin e legjislacionit;
@@ -127,11 +128,18 @@ Përjashtimisht, nëpunësit në pozicione IT të institucioneve të përcaktuar
 - 50 000 (pesëdhjetë mijë) lekë në muaj, për nëpunësit në pozicionet “përgjegjës sektori”;
 - 70 000 (shtatëdhjetë mijë) lekë në muaj, për nëpunësit në pozicionet “drejtor drejtorie” apo “drejtor i përgjithshëm”.
 Në rast se për institucionet ku janë të punësuar nëpunësit në pozicionet e sipërpërmendura parashikohen shtesa të tjera, nëpunësit e strukturave TIK do të zgjedhin ndërmjet shtesave, por në asnjë rast nuk mund t’i përfitojnë të gjitha shtesat.
+27. Në ministrinë përgjegjëse për ekonominë, në masën 10 000 (dhjetë mijë) lekë në muaj për nëpunësit në pozicionet “drejtor i përgjithshëm”, “drejtor drejtorie”, “përgjegjës sektori” dhe “specialist” në:
+a) drejtorinë e përgjithshme përgjegjëse për pronën shtetërore;
+b) drejtorinë e përgjithshme përgjegjëse për çështjet e nxitjes së biznesit dhe të tregtisë;
+c) drejtorinë e përgjithshme përgjegjëse për analizat ekonomike;
+ç) drejtorinë e përgjithshme përgjegjëse për çështjet e punësimit;
+d) drejtorinë e përgjithshme përgjegjëse për inovacionin;
+dh) drejtorinë përgjegjëse për çështjet e strehimit.”.
 Lidhja nr. 4
 Nëpunësit civilë dhe nëpunësit e përcaktuar që përfitojnë shtesë për kushte të vështira e të dëmshme për shëndetin në masën dhe sipas rregullave e kritereve të përcaktuara në vendimin përkatës të Këshillit të Ministrave
 Nëpunësit civilë dhe nëpunësit e institucioneve të përcaktuara në pikën 1, të kreut I, të këtij vendimi që përfitojnë shtesë për kushte të vështira e të dëmshme për shëndetin, janë si vijon:
 a) në Kryeministri, Presidencë, Kuvend, aparatet e ministrive të linjës - “përgjegjës i sektorit të arkivit” dhe “specialist arkivi”;
-b) në njësitë organizative të përmbajtjes në Drejtorinë e Përgjithshme të Arkivave dhe drejtoritë rajonale/vendore të sistemit të arkivave të shtetit - “përgjegjës sektori” dhe “specialist”;
+b) në njësitë organizative të përmbajtjes në Drejtorinë e Përgjithshme të Arkivave dhe drejtoritë rajonale/vendore të sistemit të arkivave të shtetit - “përgjegjës sektori”, inspektor dhe “specialist”;
 c) në sektorin përgjegjës për arkivin në Autoritetin për Informimin mbi Dokumentet e Ish-Sigurimit të Shtetit - “përgjegjës sektori” dhe “specialist arkivi”;
 ç) në Shërbimin Gjeologjik Shqiptar - “përgjegjës sektori” dhe “specialist” në Arkivin Qendror Teknik të Gjeologjisë;
 d) në Inspektoratin Shtetëror Teknik dhe Industrial - “përgjegjës sektori” dhe “laborant” në laboratorët e naftës e të gazit dhe laboratorët e lëkurë - tekstileve, si dhe “inspektor” të naftës dhe gazit në doganë, autobot, cisternë dhe depozitë tokësore;
@@ -144,6 +152,7 @@ gj) në Kuvendin e Shqipërisë - “Specialist redaktor”;
 h) në administratën e Presidentit - “Specialist stenograf redaktor”;
 i) në Bibliotekën Kombëtare - nëpunësit në njësitë organizative të përmbajtjes, përjashtuar titullarin dhe zëvendëstitullarin e institucionit;
 j) në Teatrin Kombëtar, Teatrin Kombëtar të Operës, Baletit dhe Ansamblit Popullor, Qendrën Kombëtare të Kulturës për Fëmijë, Teatrin Kombëtar Eksperimental “Kujtim Spahivogli”, Cirkun Kombëtar - punonjësit e trupës artistike në këto institucione.
+k) Në Drejtorinë e Përgjithshme të Policisë së Shtetit - “specialist, vulat zyrtare”, përgjegjës për prodhimin fizik të vulave zyrtare për institucionet publike.
 Lidhja nr. 5
 Klasat e pagave për funksionarët e kabineteve të institucioneve të përcaktuara në shkronjën “a”, të pikës 1, të kreut I, të këtij vendimi dhe vlera e pagës bazë mujore të pozicioneve “zëvendësministër” dhe “sekretar”
 |Nr. rendor |Pozicioni |Klasa e pagës |Grupi i diplomës |
@@ -447,6 +456,7 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “sp
 |të Ndihmës. | | |
 |Koordinator në Agjencinë për Media dhe Informim. | | |
 |Zëdhënës i ministrit. | | |
+|Koordinator në Autoritetin Kombëtar për Sigurinë Kibernetike. | | |
 |Drejtor i drejtorive mbështetëse. |II-2 |1 |
 |Përgjegjës Sektori. |III-1 |1 |
 |Koordinator në Agjencinë për Dialog dhe Bashkëqeverisje. | | |
@@ -1064,6 +1074,8 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “sp
 |Teknologjive Bujqësore. | | |
 |Sekretar mësimor. | | |
 |Sekretar i Këshillit Kombëtar të Kontabilitetit. | | |
+|Specialist me funksione administrative në qendrat burimore dhe |IV-4 |1, ose 2, ose 3 |
+|shkollat me status të veçantë. | | |
 Lidhja nr. 11/1
 Nivelet e pagave të punonjësve të trupës artistike të Teatrit të Kukullave në Qendrën Kombëtare të Kulturës për Fëmijë, të Teatrit Kombëtar Eksperimental “Kujtim Spahivogli” dhe të Cirkut Kombëtar
 |Nr. |Pozicioni |Paga bazë mujore e pozicionit të punës |
@@ -1137,124 +1149,102 @@ Vlera e pagës bazë mujore të pozicionit të punës dhe shtesa për kushte pun
 |Shef i sektorit. |93 100 |40 000 |
 |Pilot. | | |
 |Teknik fluturues | | |
-Lidhja nr. 12
-Klasat e pagave të nëpunësve në pozicionet “specialist” deri në “titullar institucioni”, në degët territoriale të institucioneve të përcaktuara në shkronjat “a” deri në “d”, të pikës 1, të kreut I, të këtij vendimi, të punonjësve që kryejnë funksione të deleguara të pushtetit qendror në pushtetin vendor, të drejtorive të ujitjes dhe të Kullimit, administratave rajonale të zonave të mbrojtura, të Komisioneve Vendore të Shqyrtimit të Vlefshmërisë Ligjore të Krijimit të Titujve të Pronësisë mbi Tokën Bujqësore, pranë Prefektit të Qarkut, të nëpunësve civilë në pozicionet mbështetëse “specialist”, “shef seksioni” dhe “përgjegjës/shef sektori”, në drejtoritë e policisë në qarqe, në komisariate dhe reparte autonome, si dhe të punonjësve civilë në qendrat e rekrutimit dhe mobilizimit dhe komandat e mbështetjes rajonale, të sistemit të Forcave të Armatosura
+Klasat e pagave të nëpunësve në pozicionet “specialist” deri në “titullar institucioni”, në degët territoriale të institucioneve të përcaktuara në shkronjat “a” deri në “d”, të pikës 1, të kreut I, të këtij vendimi, të punonjësve që kryejnë funksione të deleguara të pushtetit qendror në pushtetin vendor, të drejtorive të ujitjes dhe të kullimit, administratave rajonale të zonave të mbrojtura, të komisioneve vendore të shqyrtimit të vlefshmërisë ligjore të krijimit të titujve të pronësisë mbi tokën bujqësore, pranë prefektit të Qarkut, të nëpunësve civilë në pozicionet mbështetëse “specialist”, “shef seksioni” dhe “përgjegjës/shef sektori”, në drejtoritë e policisë në qarqe, në komisariate dhe reparte autonome, si dhe të punonjësve civilë në qendrat e rekrutimit dhe mobilizimit dhe komandat e mbështetjes rajonale, të sistemit të Forcave të Armatosura
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
-|Drejtor i drejtorive rajonale të Agjencisë Kombëtare të Punësimit dhe |III-1 |1 |
-|Aftësive. | | |
-|Drejtori i drejtorive rajonale të arsimit parauniversitar. | | |
-|Titullar i agjencive rajonale të mjedisit. |III-2 |1 |
-|Përgjegjës i degëve të thesarit në qendër qarku. | | |
-|Titullar i institucioneve të tjera rajonale. |III-3 |1 |
-|Drejtor i degës territoriale të Shërbimit të Provës. | | |
+|Titullar i institucionit rajonal. |III-1 |1 |
 |Drejtor i drejtorive të ujitjes dhe kullimit. | | |
+|Përgjegjës i degës së thesarit në qendër qarku. | | |
+|Drejtor i drejtorive të administrimit dhe të mbrojtjes së tokës në qarqe. | | |
+|Titullar i institucionit vendor. |III-2 |1 |
+|Drejtor i degës territoriale të Shërbimit të Provës. | | |
 |Përgjegjës sektori në degën e thesarit Tiranë. | | |
 |Përgjegjës të degëve të tjera vendore të thesarit. | | |
-|Drejtor drejtorie në drejtoritë rajonale të | | |
-|arsimit parauniversitar. | | |
-|Përgjegjës sektori në drejtoritë rajonale të Agjencisë Kombëtare të |IV-1 |1 |
-|Punësimit dhe Aftësive. | | |
-|Përgjegjës seksioni në seksionet e administrimit dhe të mbrojtjes së tokës | | |
+|Drejtor drejtorie në drejtoritë rajonale të arsimit parauniversitar. | | |
+|Përgjegjës sektori në institucionet rajonale. | | |
+|Përgjegjës sektori në drejtoritë e administrimit dhe të mbrojtjes së tokës | | |
 |në qarqe. | | |
-|Përgjegjës sektori në drejtoritë rajonale të arsimit parauniversitar. | | |
-|Titullar i institucionit vendor. | | |
 |Përgjegjës i zyrës vendore të punësimit në Agjencinë Kombëtare të Punësimit | | |
 |dhe Aftësive. | | |
 |Përgjegjës i zyrës rajonale. | | |
-|Përgjegjës sektori në institucionet e tjera rajonale. |IV-2 |1 |
 |Përgjegjës sektori në drejtoritë e ujitjes dhe kullimit. | | |
+|Përgjegjës sektori në drejtoritë rajonale të arsimit parauniversitar. |III-3 |1 |
 |Përgjegjës i zyrës së gjendjes civile në bashki (si | | |
 |funksion i deleguar). | | |
 |Përgjegjës i gjendjes civile pranë prefektit. | | |
-|Përgjegjës sektori në zyrat vendore të arsimit parauniversitar. | | |
-|Specialist në zyrat rajonale të Avokatit të Popullit | | |
-|Përgjegjës sektori i institucionit vendor. |IV-3 |1 |
-|Përgjegjës i zyrës së gjendjes civile në komuna (si funksion i deleguar). | | |
+|Përgjegjës sektori në institucionet/zyrat vendore. | | |
+|Përgjegjës i zyrës së gjendjes civile në njësitë administrative (si funksion|IV-1 |1 |
+|i deleguar). | | |
+|Përgjegjës i sektorit të financës dhe administrimit në Ofruesin e Arsimit | | |
+|dhe Formimit Profesional. | | |
 |Specialist në degën territoriale të Shërbimit të Provës. |IV-2 |1 ose 2, ose 3 |
 |Specialist në njësitë teknike të përmbajtjes në drejtoritë rajonale të | | |
 |Agjencisë Kombëtare të Punësimit dhe Aftësive. | | |
 |Specialist në degët e thesarit. | | |
 |Specialist në degët rajonale të Agjencisë Kombëtare të Bregdetit. | | |
 |Specialist në drejtoritë rajonale të arsimit parauniversitar. | | |
-|Inspektorë të sistemit të ministrisë përgjegjëse për bujqësinë. | | |
-|Përgjegjës i sektorit të financës dhe administrimit në Ofruesin e Arsimit | | |
-|dhe Formimit Profesional. | | |
+|Inspektorë të sistemit të ministrisë përgjegjëse për bujqësinë. Specialist | | |
+|në zyrat rajonale të Avokatit të Popullit. | | |
 |Specialist i zyrës së gjendjes civile në bashki (si funksion i deleguar). |IV-3 |1 ose 2, ose 3 |
-|Specialist në drejtoritë e ujitjes dhe kullimit. | | |
+|Specialist në drejtoritë e ujitjes dhe të kullimit. | | |
 |Specialist i gjendjes civile pranë prefektit. | | |
 |Specialist në institucionet rajonale. | | |
 |Specialist në zyrat vendore të Agjencisë Kombëtare të Punësimit dhe | | |
 |Aftësive. | | |
-|Specialist në Ofruesin e Arsimit dhe Formimit Profesional | | |
+|Specialist në Ofruesin e Arsimit dhe Formimit Profesional. | | |
 |Specialist në zyrat vendore të arsimit parauniversitar. | | |
 |Restaurator arti. | | |
 |Arkitekt. | | |
 |Inspektor. | | |
 |Specialist në degën territoriale të Shërbimit të Provës. | | |
 |Specialist në institucionet e tjera vendore. |IV-4 |1 ose 2, ose 3 |
-|Specialist i zyrës së gjendjes civile në komuna (si funksion i deleguar). | | |
+|Specialist i zyrës së gjendjes civile në njësitë administrative (si funksion| | |
+|i deleguar). | | |
 |Restaurator. | | |
 |Instruktor. | | |
 |Piktor. | | |
 |Kontrollor pune. | | |
 |Specialist në degën territoriale të Shërbimit të Provës. | | |
-Lidhja nr. 12/1
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni” në institucionet e ekzekutimit të vendimeve penale
 |Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune (natyrë të|
 | | | |veçantë pune (lek/muaj) |
 |Titullar i institucionit. |II-2 |1 |10 000 |
 |Zëvendëstitullar i institucionit. |III-1 |1 |8 000 |
 |Përgjegjës sektori të shërbimit social. |III-2 |1 |6 000 |
-|Përgjegjës Sektori. |IV-2 |1 |5 000 |
+|Përgjegjës sektori. |III-3 |1 |5 000 |
 |Specialist i sektorit të shërbimit |IV-1 |1 ose 2 |5 000 |
 |social/psikolog/punonjës social. | | | |
 |Specialist. |IV-3 |1 ose 2, ose 3 |4 000 |
-Lidhja nr. 12/2
-Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni” në Komisionet Vendore të Shqyrtimit të Vlefshmërisë Ligjore të Krijimit të Titujve të Pronësisë mbi Tokën Bujqësore, pranë Prefektit të Qarkut
-|Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune |
-| | | |(natyrë të veçantë pune) |
-| | | |(lek/muaj) |
-|Titullar i institucionit pranë Prefektit të Qarkut |III-2 |1 |16 500 |
-|Durrës, Elbasan, Fier, Korçë, Lezhë, Shkodër, | | | |
-|Tiranë, Vlorë. | | | |
-|Titullar i institucionit pranë Prefektit të Qarkut |IV-1 |1 |16 500 |
-|Berat, Dibër, Gjirokastër, Kukës. | | | |
-|Specialist në Komisionet Vendore pranë Prefektit të|IV-2 |1 ose 2, ose 3 |10 000 |
-|Qarkut Durrës, Elbasan, Fier, Korçë, Lezhë, | | | |
-|Shkodër, Tiranë, Vlorë. | | | |
-|Specialist në Komisionet Vendore pranë Prefektit të|IV-3 |1 ose 2, ose 3 |10 000 |
-|Qarkut Berat, Dibër, Gjirokastër, Kukës. | | | |
-Lidhja nr. 12/3
+Shfuqizuar Lidhja nr. 12/2 me Vendimin nr. 421, datë 26.6.2024)
 Klasat e pagave të nëpunësve civilë në pozicionet mbështetëse “specialist”, “shef seksioni” dhe “përgjegjës/shef sektori” në drejtoritë e policisë në qarqe, komisariate dhe reparte autonome
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
-|Përgjegjës/shef sektori në drejtoritë e policisë së qarkut. |IV-1 |1 |
-|Shef seksioni në drejtoritë e policisë së qarkut, komisariate, |IV-2 |1 |
+|Përgjegjës/shef sektori në drejtoritë e policisë së qarkut. |III-2 |1 |
+|Shef seksioni në drejtoritë e policisë së qarkut, komisariate, |III-3 |1 |
 |apo reparte autonome. | | |
-| |IV-3 |1 ose 2, ose 3 |
-|Specialist. | | |
+|Specialist. |IV-3 |1 ose 2, ose 3 |
 | |IV-4 |1 ose 2, ose 3 |
 Lidhja nr. 12/4
 Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar i qendrës”, në Qendrat e Mbrojtjes Civile në Qark
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
 |Titullar i qendrës. |III-1 |1 |
 |Specialist. |IV-2 |1 ose 2, ose 3 |
-Lidhja nr. 12/5
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar i degës”, në degët rajonale të Inspektoratit Shtetëror Shëndetësor
 |Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune |
 | | | |(natyrë të veçantë pune) |
 | | | |(lek/muaj) |
-|Titullar i institucionit rajonal. |III-3 |1 |18 500 |
-|Përgjegjës sektori në sektorët e përmbajtjes. |IV-2 |1 |18 500 |
-|Përgjegjës sektori në sektorët mbështetës. |IV-2 |1 |0 |
+|Titullar i institucionit rajonal. |III-1 |1 |18 500 |
+|Përgjegjës sektori në sektorët e përmbajtjes. |III-2 |1 |18 500 |
+|Përgjegjës sektori në sektorët mbështetës. |III-3 |1 |0 |
 |Inspektor. |IV-3 |1 ose 2, ose 3 |18 500 |
 |Specialist në sektorët mbështetës. |IV-3 |1 ose 2, ose 3 |0 |
-Lidhja nr. 12/6
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar i zyrës përmbarimore vendore”, në zyrat përmbarimore vendore të Shërbimit Përmbarimor Gjyqësor Shtetëror
 |Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune |
 | | | |(natyrë të veçantë pune) |
 | | | |(lek/muaj) |
 |Titullar i zyrës. |II-1 |1 |15 000 |
-|Përgjegjës sektori. |IV-1 |1 |0 |
+|Përgjegjës sektori. |III-3 |1 |0 |
 |Specialist. |IV-2 |1 ose 2, ose 3 |0 |
 -----------------------
-[1] Vendimi nr.281, datë 8.5.2024 botuar në FZ nr.81 datë 10.5.2024, në pikën 2 të saj shprehet: “Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi:a) për përcaktimet e shkronjave “a”, “b” “c” dhe “d”, të pikës 1, të këtij vendimi, fillojnë nga data e emërimit/transferimit të nëpunësve në detyrë dhe për vitin 2024 përballohen nga fondet e miratuara për secilin institucion për këtë vit;b) për përcaktimin e shkronjës “ç”, të pikës 1, të këtij vendimi, fillojnë nga data 1 korrik 2024 dhe për vitin 2024 përballohen nga fondet e politikës për rritjen e pagave të përcaktuara në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
+[1] Vendimi nr. 421, date 26.6.2024 botuar në F.Z nr. 108, date 1.7.2024 në pikën 2 të Kreut II të tij shprehet: “Institucionet e administratës publike, pjesë e fushës së veprimit të këtij vendimi, të propozojnë deri më 20 korrik 2024, sipas legjislacionit në fuqi, ndryshimet në strukturat dhe në organikat ekzistuese të degëve territoriale për përshtatjen e tyre sipas klasave të pagave, të përcaktuara në këtë vendim.”
+[2] Vendimi nr.281, datë 8.5.2024 botuar në FZ nr.81 datë 10.5.2024, në pikën 2 të saj shprehet: “Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi:a) për përcaktimet e shkronjave “a”, “b” “c” dhe “d”, të pikës 1, të këtij vendimi, fillojnë nga data e emërimit/transferimit të nëpunësve në detyrë dhe për vitin 2024 përballohen nga fondet e miratuara për secilin institucion për këtë vit;b) për përcaktimin e shkronjës “ç”, të pikës 1, të këtij vendimi, fillojnë nga data 1 korrik 2024 dhe për vitin 2024 përballohen nga fondet e politikës për rritjen e pagave të përcaktuara në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
+[3] Vendimi nr. 421, date 26.6.2024 botuar në F.Z nr. 108, date 1.7.2024 në pikën 1 dhe 2 të Kreut III të tij shprehet: “1. Për përcaktimet e pikave 1, shkronja “b”, 4, 6 dhe 7, të kreut I, të këtij vendimi, nga data e emërimit/transferimit të nëpunësve në detyrë dhe për vitin 2024 përballohen nga fondet e miratuara për secilin institucion për këtë vit;
+2. Për të gjitha përcaktimet e tjera, nga data 1 korrik 2024 dhe për vitin 2024, përballohen nga fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
