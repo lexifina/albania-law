@@ -1,0 +1,3 @@
+15. Mjekët e sistemit të ministrisë përgjegjëse për shëndetësinë, si dhe mjekët civilë të strukturave të Forcave të Armatosura të Republikës së Shqipërisë, të cilët, referuar detyrimit kontraktual me ministrinë përgjegjëse për shëndetësinë, kryejnë specializimin në strukturat spitalore universitare, gjatë kohës së specializimit trajtohen në pagë, si më poshtë vijon:
+a) për specializantët “mjek familjeje” dhe “mjek urgjence”, në masën 100 për qind të pagës bruto mujore të mjekut të të njëjtit specialitet;
+b) për specializantët e tjerë, në masën 80 për qind të pagës bruto mujore të mjekut të fushës, në të cilën kryhet specializimi.

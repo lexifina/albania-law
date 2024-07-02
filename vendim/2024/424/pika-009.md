@@ -1,0 +1,1 @@
+9. Vlerat e elementit “shtesë për kushte pune” për punonjësit e personelit “mjekë dhe punonjës të tjerë me arsim të lartë” në institucionet e përcaktuara në nënpikat 3.1, 3.2 dhe 3.3, të pikës 3, të këtij vendimi, janë sipas lidhjes nr. 5, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+10. Vlerat e elementit “shtesë për kushte pune” për punonjësit e personelit “teknikë të shkencave mjekësore”, në institucionet e përcaktuara në nënpikat 3.1, 3.2 dhe 3.3, të pikës 3, të këtij vendimi janë sipas lidhjes nr. 6, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

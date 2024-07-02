@@ -1,0 +1,1 @@
+5. Vlerat e elementit “pagë për pozicion” dhe grupi i diplomës për punonjësit e administrimit të përgjithshëm, nga “specialist” deri në “titullar institucioni”, në institucionet e shërbimit shëndetësor, të përcaktuara në nënpikën 3.1, të pikës 3, të këtij vendimi, janë sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+13. Vlerat e elementeve “paga bazë mujore e pozicionit të punës” dhe “shtesë për kushte pune” për mjekët dhe punonjësit e tjerë, me tituj e grada shkencore, të cilët janë punonjës efektivë me kohë të plotë në Institutin e Shëndetit Publik, janë sipas lidhjes nr. 10, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

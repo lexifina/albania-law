@@ -1,0 +1,1 @@
+6. Vlerat e elementit “pagë për pozicion” dhe grupi i diplomës për personelin “mjekë dhe punonjës të tjerë me arsim të lartë” dhe “teknikë të shkencave mjekësore” në institucionet e shërbimit shëndetësor, të përcaktuara në nënpikën 3.1, të pikës 3, të këtij vendimi, janë sipas lidhjes nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

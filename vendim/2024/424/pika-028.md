@@ -1,0 +1,1 @@
+28. Pagat e punonjësve mbështetës të institucioneve, që bëjnë pjesë në fushën e veprimit të këtij vendimi, përcaktohen në bazë të vendimit përkatës të Këshillit të Ministrave për pagat e punonjësve mbështetës të institucioneve të administratës publike.
