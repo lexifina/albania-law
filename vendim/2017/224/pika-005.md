@@ -1,4 +1,0 @@
-5. Ushtarakët aktivë të Forcave të Armatosura përfitojnë shtesë mbi pagë për kushte të veçanta pune e shërbimi. Masa e shtesës për kushte të veçanta pune e shërbimi është, si më poshtë vijon:
-a) Për personelin fluturues të Forcave të Armatosura, sipas lidhjes nr. 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
-b) Për ushtarakët aktivë në Agjencinë e Inteligjencës dhe Sigurisë së Mbrojtjes, sipas lidhjes nr. 4, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij. Pozicionet në funksione operacionale, operacionale mbështetëse dhe mbështetëse, për të cilat zbatohet kjo shtesë në Agjencinë e Inteligjencës dhe Sigurisë së Mbrojtjes, përcaktohen në urdhrin e Kryeministrit për miratimin e strukturës e të organikës së kësaj agjencie.
-c) Për ushtarakët e tjerë aktivë të Forcave të Armatosura, të cilët nuk janë pjesë e lidhjeve nr. 3 dhe nr. 4, sipas lidhjes nr. 5, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

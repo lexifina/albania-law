@@ -1,1 +1,0 @@
-4. Ushtarakët aktivë të personelit akademik, të punësuar me kohë të plotë në Akademinë e Forcave të Armatosura, të cilët trajtohen në pagë sipas lidhjes nr. 2, përfitojnë shtesë për vjetërsi në punë, në masën 0,5 % për çdo vit pune, por jo më shumë se 15 vjet.

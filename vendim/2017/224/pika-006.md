@@ -1,3 +1,0 @@
-6. Ushtarakët aktivë të Forcave të Armatosura, të cilët punojnë në vende të vështira pune, përfitojnë shtesë mbi pagë për punë të vështira e të dëmshme për shëndetin, sipas lidhjes nr. 6, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
-Ushtarakët, funksioni i të cilëve përmban dy apo më shumë emërtime që përfitojnë shtesë për punë të vështirë e të dëmshme në shëndet, të trajtohen vetëm me një shtesë sipas kësaj lidhjeje.
-Ushtarakët aktivë në Njësinë e Mjekësisë Ushtarake, pranë Spitalit Universitar të Traumës, në pozicionet “Drejtor”, “Zëvendësdrejtor”, “Shef shërbimi” apo “Shef reparti”, të përfitojnë shtesë për punë të vështirë e të dëmshme në shëndet, sipas specialitetit dhe jo sipas pozicionit.
