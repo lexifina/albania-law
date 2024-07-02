@@ -1,0 +1,6 @@
+1. Elementet përbërëse të pagës bruto mujore dhe vlerat për secilin element për punonjësit e Policisë së Burgjeve janë, si më poshtë vijon:
+a) “Paga për gradë”, që përfaqëson nivelin e pagës së punonjësit, në përputhje me gradën që ka fituar brenda rolit përkatës. Vlera e pagës për gradë përcaktohet në lidhjen nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij;
+b) “Shtesa për natyrë të veçantë pune”, që është shtesa për shkak të natyrës së veçantë të punës apo të shërbimit, për kohën që punonjësit ushtrojnë detyrat funksionale (sipas pozicioneve të miratuara në organikë) dhe që përcaktohet:
+i. në lidhjen nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, kur ushtrojnë detyrat në institucionet e ekzekutimit të vendimeve penale;
+ii. në lidhjen nr. 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, kur ushtrojnë detyrat në aparatin e Drejtorisë së Përgjithshme të Burgjeve.
+c) “Shtesa për vjetërsi në shërbim”, që është shtesa që përfiton punonjësi i Policisë së Burgjeve me grada, për kohën e qëndrimit në gradë/shërbim dhe aplikohet në masën 1 (një) për qind, pas çdo viti pune. Llogaritja e shtesës për vjetërsi shërbimi bëhet mbi pagën e gradës “inspektor”, të rolit bazë.

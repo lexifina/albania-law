@@ -1,0 +1,1 @@
+9. Procedurat standarde të punës për verifikimin e vërtetësisë së dokumentacionit të paraqitur nga punonjësi i Policisë së Burgjeve të lidhjes e të zbatimit të kontratës së qirasë dhe pagesës së qirasë së banesës, sipas përcaktimeve të këtij kreu, miratohen me urdhër të drejtorit të përgjithshëm të Burgjeve.

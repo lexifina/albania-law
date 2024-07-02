@@ -1,0 +1,1 @@
+8. Punonjësi i Policisë së Burgjeve, pasi merr miratimin për ofertën e përzgjedhur, sipas përcaktimit në pikën 7 të këtij kreu, nënshkruan kontratën e qirasë së apartamentit të banimit për një periudhë 6-mujore, me të drejtë ripërtëritjeje me të njëjtat kushte. Kontrata e qirasë, detyrimisht, duhet të bëhet në një zyrë noterie.
