@@ -1,0 +1,1 @@
+4. Vlerat e elementit “pagë bazë për gradë”, sipas gradës dhe viteve të shërbimit, për ushtarakët e shërbimit aktiv të Forcave të Armatosura të Republikës së Shqipërisë, janë sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

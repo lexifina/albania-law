@@ -1,0 +1,1 @@
+8. Ushtarakët e shërbimit aktiv, në Njësinë e Mjekësisë Ushtarake, pranë Spitalit Universitar të Traumës, që janë të emëruar në pozicionet “drejtor”, “zëvendësdrejtor”, “shef shërbimi” apo “shef reparti”, shtesën për punë të vështirë e të dëmshme për shëndetin e përfitojnë sipas specialitetit dhe jo sipas pozicionit, ku janë emëruar.

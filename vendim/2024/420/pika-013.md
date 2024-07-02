@@ -1,0 +1,1 @@
+13. Vendimi nr. 224, datë 21.3.2017, i Këshillit të Ministrave, “Për trajtimin me pagë dhe shtesa mbi pagë të ushtarakëve aktivë të Forcave të Armatosura të Republikës së Shqipërisë”, i ndryshuar, shfuqizohet.
