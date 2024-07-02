@@ -242,3 +242,53 @@ SHUMA
 99
 10503818
 ÇMIMET PËR LLOJIN E PASURISË JANË MARRË BAZUAR NË VKM-në NR. 89 DATË 3.2.2016, “PËR MIRATIMIN E HARTËS SË VLERËS SË TOKËS NË REPUBLIKËN E SHQIPËRISË”.
+LISTA EMËRORE E PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT PËR SHPRONËSIM, PËR INTERES PUBLIK “PËR DISA SHTESA DHE NDRYSHIME NË VKM-në NR. 866, DATË 27.12.2022, ’PËR SHPRONËSIM, PËR INTERES PUBLIK, PËR PASURITË E PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR ’SISTEMIM, ASFALTIM E MASA INXHINIERIKE NË KM 21+050-22+050, NË RRUGËN QAFËTHANË-LIN-POGRADEC’’”
+Nr.
+Emri
+Atësia
+Mbiemri
+Të dhënat kadastrale
+Vlerësimi për shpronësim
+Vlera kultura drufrutore
+Vlera e objektit (lekë)
+Sipërfaqja e objektit (m2)
+Vlera totale (lekë)
+Shënime
+Zona kadastrale
+Numri i pasurisë
+Sip. totale m2
+Lloji i pasurisë
+Sipërfaqja e shpronësuar m2
+Çmimi lekë/m2
+Vlera
+(lekë)
+16
+Vangjo
+Jovan
+Gjika
+8582
+20/105
+1,270.00
+Vresht
+655
+192
+125,760.00
+125,760.00
+Konfirmuar nga ASHK-ja
+17
+Aleks
+Kajo
+Topalli
+8582
+20/171
+500.00
+Arë
+385
+192
+73,920.00
+73,920.00
+Konfirmuar nga ASHK-ja
+Vlera totale
+1040
+199,680.00
+199,680.00
