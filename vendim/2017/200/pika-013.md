@@ -1,1 +1,0 @@
-13. Në rastet kur punonjësi i policisë ka fituar një kurs shkollimi apo trajnimi në mënyrë individuale dhe jo me iniciativën e institucionit, gjatë kohës së shkollimit/trajnimit nuk përfiton pagesë nga institucioni.

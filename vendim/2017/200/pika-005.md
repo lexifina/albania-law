@@ -1,1 +1,0 @@
-5. Shtesat për natyrë të veçantë pune, për punonjësit e Policisë së Shtetit që punojnë në strukturat e policisë kufitare dhe migracionit, janë sipas lidhjes nr. 4, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

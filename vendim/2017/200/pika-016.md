@@ -1,1 +1,0 @@
-16. Vendimi nr. 1135, datë 5.8.2008, i Këshillit të Ministrave, “Për pagat e punonjësve të Policisë së Shtetit”, i ndryshuar, si dhe të gjitha dispozitat e tjera në kundërshtim me këtë vendim, shfuqizohen.

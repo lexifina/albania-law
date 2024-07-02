@@ -1,3 +1,0 @@
-11. Kursantët që pranohen në kolegjin profesional “Kolegji i Policisë”, në Akademinë e Sigurisë, gjatë periudhës së shkollimit përfitojnë trajtim me pagesë në masën 8 000 (tetë mijë) lekë në muaj.
-11/1. Studentët që pranohen dhe vazhdojnë programet e studimit në Akademinë e Sigurisë me kohë të plotë, për ciklin e parë të studimeve, gjatë periudhës së shkollimit përfitojnë çdo muaj trajtim financiar në masën e pagës bazë për gradën “Inspektor”.
-Këtë trajtim e përfitojnë edhe shtetasit që pranohen në Akademinë e Sigurisë, të cilët kanë përfunduar ciklin e dytë të studimeve të arsimit të lartë dhe plotësojnë kriteret e përcaktuara në dispozitat përkatëse në ligjin për Policinë e Shtetit.

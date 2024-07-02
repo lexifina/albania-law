@@ -1,1 +1,0 @@
-1. Miratimin e strukturës së niveleve të pagave për gradë dhe të shtesave mbi pagë për punonjësit e Policisë së Shtetit, sipas strukturave në të cilat ushtrojnë funksionet policore, trajtimin financiar të kursantëve, të punonjësve të policisë që kryejnë kurse shkollimi/trajnimi, si dhe trajtimin financiar të bashkëpunëtorëve të institucioneve arsimore të sistemit policor.

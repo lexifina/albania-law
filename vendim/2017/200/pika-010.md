@@ -1,1 +1,0 @@
-10. Punonjësit e Policisë së Shtetit që punojnë në vende pune të vështira e të dëmshme për shëndetin përfitojnë shtesë mbi pagë. Masa e shtesës për punë të vështira e të dëmshme për shëndetin përcaktohet sipas lidhjes nr. 6, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
