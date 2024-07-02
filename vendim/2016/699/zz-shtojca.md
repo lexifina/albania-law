@@ -609,6 +609,131 @@ Vleta e shpronësimit
 415
 4,187
 11,589,579
+LISTA EMËRORE E PRONARËVE QË SHPRONËSOHEN PËR REALIZIMIN E PROJEKTIT “PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR. 699, DATË 5.10.2016, TË KËSHILLIT TË MINISTRAVE ’PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR ’BY-PASS VLORË’ (SHTESA)’”, I NDRYSHUAR
+NR.
+TË DHËNAT E PRONËSISË
+TË DHËNAT KADASTRALE SIPAS KARTELËS SË PASURISË
+VLERËSIMI PËR SHPRONËSIM
+SHËNIME (D+E) (kufizime hipotekare, barrë mbi pasurinë etj.)
+Çmimi lek/m2
+Vlera (lek)
+Drufrutor
+VLERA TOTALE (lekë)
+Emri
+Atësia
+Mbiemri
+Adresa bashkia ose fshati
+ZK
+Nr. pasurisë
+Sipërfaqja totale
+Sipërfaqja e shpronësuar
+Lloji i pasurisë
+1
+LULËZIM
+MUISI
+FEJZAJ
+KANINË
+2074
+548/1/5
+5200
+228
+Ullishte
+204
+46,512.00
+46,512.00
+Konfirmuar nga ASHK-ja.
+Sipas shkresës nr. 646/1 prot., datë 18.12.2023, të AREB Lushnjë dhe procesverbalit bashkëlidhur nuk ka të mbjella pemëtore.
+2
+MYRVETE
+ITAJ
+KANINË
+2074
+548/2/1
+6880
+1188
+Ullishte
+204
+242,352.00
+242,352.00
+Konfirmuar nga ASHK-ja.
+Sipas shkresës nr. 646/1 prot., datë 18.12.2023, të AREB Lushnjë dhe procesverbalit bashkëlidhur nuk ka të mbjella pemëtore.
+3
+BEZHAN
+HABIL
+KODHIMAJ
+KANINË
+2074
+548/8
+4000
+1415
+Ullishte
+204
+288,660.00
+288,660.00
+Konfirmuar nga ASHK-ja. Sipas shkresës nr. 646/1 prot., datë 18.12.2023, të AREB Lushnjë dhe procesverbalit bashkëlidhur nuk ka të mbjella pemëtore.
+4
+PANDELI
+XHEZAIR
+XHEZAIRAJ
+KANINË
+2074
+373/3/3
+2530
+1813
+Pemëtore
+204
+369,852.00
+369,852.00
+Konfirmuar nga ASHK. Sipas shkresës Nr. 646/1 Prot., datë 18.12.2023, të AREB Lushnje dhe procesverbalit bashkëlidhur nuk ka të mbjella pemëtore.
+5
+AFRIM
+AGALLIU
+VLORË
+8605
+6/246
+4992
+414
+Truall
+8300
+3,436,200.00
+3,436,200.00
+Konfirmuar nga ASHK-ja. Sipas shkresës nr. 646/1 prot., datë 18.12.2023, të AREB Lushnjë dhe procesverbalit bashkëlidhur nuk ka të mbjella pemëtore.
+DASHAMIR
+AGALLIU
+TEFERI
+KUJTIM
+CAUSHAJ
+MARJANA
+DRASA
+6
+ARDIAN
+KOLO
+KANINË
+2074
+936/1
+1536
+257
+Ullishte
+204
+52,428.00
+52,428.00
+Konfirmuar nga ASHK-ja. Sipas shkresës nr. 646/1 prot., datë 18.12.2023, të AREB Lushnjë dhe procesverbalit bashkëlidhur nuk ka të mbjella pemëtore.
+7
+PETRIT
+MICAJ
+KANINË
+2074
+952
+4200
+2057
+Ullishte
+204
+419,628.00
+908,800.0
+1,328,428.00
+Konfirmuar nga ASHK-ja. Sipas shkresës nr. 646/1 prot., datë 18.12.2023, të AREB Lushnjë dhe procesverbalit bashkëlidhur, pasuria nr. 952, ka të mbjella pemëtore të vlerësuar në vlerën 908800 lekë.
+Vlera totale
+5,764,432.00
 LISTA EMËRORE PËRFUNDIMTARE E PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA DISA NDRYSHIME DHE SHTESA NË VKM-në NR. 699, DATË 5.10.2016, “PËR SHPRONËSIMIN PËR INTERES PUBLIK TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR ’BY -PASS VLORË’”
 Nr.
 PRONARI
