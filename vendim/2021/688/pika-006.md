@@ -1,1 +1,0 @@
-6. Vendimet e Këshillit të Ministrave nr. 551, datë 15.7.2020, “Për trajtimin me pagë dhe shtesa mbi pagë për punonjësit, oficerë dhe nënoficerë, të Gardës së Republikës së Shqipërisë”, i ndryshuar, dhe nr. 639, datë 29.7.2020, “Për trajtimin me pagë dhe shtesa mbi pagë të punonjësve, oficerë dhe nënoficerë, të Gardës së Republikës së Shqipërisë”, shfuqizohen.

@@ -1,1 +1,0 @@
-4. Punonjësit e Gardës së Republikës së Shqipërisë, të cilët deri në momentin e hyrjes në fuqi të këtij vendimi përfitonin pagë mujore më të lartë se ajo e përcaktuar në këtë vendim, do të përfitojnë “ruajtje page”, por jo më shumë se dy vjet nga data e fillimit të zbatimit të këtij vendimi.
