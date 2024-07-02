@@ -1,0 +1,1 @@
+11. Vendimi nr. 200 datë 15.3.2017, i Këshillit të Ministrave, “Për trajtimin me pagë dhe shtesa mbi pagë të punonjësve të Policisë së Shtetit”, të ndryshuar, si dhe të gjitha dispozitat e tjera, në kundërshtim me këtë vendim, shfuqizohen.
