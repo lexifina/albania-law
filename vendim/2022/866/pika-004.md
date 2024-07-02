@@ -1,1 +1,1 @@
-4. Vlera e shpërblimit për pronarët që shpronësohen është 10 503 818 (dhjetë milionë e pesëqind e tre mijë e tetëqind e tetëmbëdhjetë) lekë dhe përballohet nga buxheti i Autoritetit Rrugor Shqiptar.
+4. Vlera e përgjithshme e shpronësimit, prej 10 703 498 (dhjetë milionë e shtatëqind e tre mijë e katërqind e nëntëdhjetë e tetë) lekësh, përballohet nga Autoriteti Rrugor Shqiptar.
