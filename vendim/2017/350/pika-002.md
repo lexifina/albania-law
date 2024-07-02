@@ -1,1 +1,0 @@
-2. Struktura dhe nivelet e pagave bazë për gradë, për punonjësit e Shërbimit të Mbrojtjes nga Zjarri dhe Shpëtimin, janë sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
