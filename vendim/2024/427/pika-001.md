@@ -1,0 +1,1 @@
+1. Autorizimin e Autoritetit Portual Durrës për të negociuar drejtpërdrejt dhe për të lidhur marrëveshje konsulence me subjektin ndërkombëtar “Royal Haskoning DHV”, brenda fushës së kompetencës së saj, një fushë me interes strategjik për proceset e konkurrimit, kontraktimit, ndërtimit dhe mbikëqyrjes së portit të ri të integruar të Durrësit në Porto-Romano.
