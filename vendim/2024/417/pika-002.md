@@ -1,0 +1,5 @@
+2. Elementet e pagës bruto mujore dhe vlerat për secilin element janë, si më poshtë vijon:
+a) Paga për gradë, që përfaqëson nivelin e pagës së punonjësit, në përputhje me gradën që ka fituar brenda rolit përkatës. Vlera e pagës për gradë përcaktohet në lidhjen nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+b) Shtesa për natyrë të veçantë pune, që u jepet punonjësve të Gardës së Republikës së Shqipërisë, për natyrën e veçantë të punës e të shërbimit që kryejnë, vlerat e së cilës për çdo funksion/pozicion përfitues përcaktohen në lidhjen nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+c) Shtesa mbi pagë për punë të vështira e të dëmshme për shëndetin, që përcaktohet sipas lidhjes nr. 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+ç) Shtesa për vjetërsi në shërbim, që është shtesa që përfiton punonjësi i Gardës së Republikës së Shqipërisë për çdo vit shërbimi. Kjo shtesë aplikohet në përqindje mbi pagën për gradë, të gradës “inspektor” dhe jepet në masën 1 (një) % për çdo vit, por jo më shumë se 25 (njëzet e pesë) vjet.

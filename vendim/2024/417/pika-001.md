@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim miratimin e vlerave për secilin element përbërës të pagës bruto mujore të punonjësve të Gardës së Republikës së Shqipërisë, sipas strukturave, në të cilat ushtrojnë detyrat funksionale.
