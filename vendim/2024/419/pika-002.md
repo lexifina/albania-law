@@ -1,0 +1,4 @@
+2. Elementet e pagës bruto mujore dhe vlerat për secilin element janë, si më poshtë vijon:
+a) Paga për gradë, që përfaqëson nivelin e pagës së punonjësit, në përputhje me gradën që ka fituar brenda nivelit përkatës. Vlera e pagës për gradë përcaktohet në lidhjen nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+b) Shtesa për natyrë të veçantë pune, që u jepet punonjësve të Shërbimit të Mbrojtjes nga Zjarri dhe Shpëtimin për natyrën e veçantë të punës e të shërbimit që kryejnë, vlera e së cilës përcaktohet në lidhjen nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+c) Shtesa për vjetërsi shërbimi, që është shtesa që përfiton punonjësi i Shërbimit të Mbrojtjes nga Zjarri dhe Shpëtimin, për çdo vit vjetërsi në shërbim, në masën 1 (një) % për çdo vit, deri në 25 (njëzet e pesë) vjet. Kjo shtesë llogaritet mbi vlerën e pagës bazë të gradës “asistent zjarrfikës”.
