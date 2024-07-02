@@ -1,0 +1,1 @@
+2. Tarifa ka për qëllim të mbulojë vetëm shpenzimet për procedurat administrative që AZHT-ja kryen, pavarësisht nëse shërbimi i kërkuar nuk mund të realizohet për shkaqe të ligjshme, në përputhje me ligjin nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, dhe me legjislacionin sektorial në fuqi.

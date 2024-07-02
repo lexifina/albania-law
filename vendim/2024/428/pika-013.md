@@ -1,0 +1,8 @@
+13. Tarifa e shërbimit paguhet nga zhvilluesi, për llogari të AZHT-së, pasi t’i jetë vënë në dispozicion subjektit të interesuar apo kërkuesit fatura e arkëtimit për këtë shërbim nëpërmjet sistemit e-leje. Kjo tarifë nuk përfshin tarifat që duhet të paguhen për llogari të institucioneve të tjera shtetërore gjatë procedurës së lëshimit të autorizimeve/miratimeve/lejeve dytësore, të cilat janë të domosdoshme në funksion të miratimit të lejes së zhvillimit/ndërtimit apo kërkesave, sipas pikës 3 të këtij vendimi.
+II. DISPOZITA KALIMTARE
+1. Agjencia e Zhvillimit të Territorit, në bashkëpunim me Agjencinë Kombëtare të Shoqërisë së Informacionit, merr të gjitha masat që brenda 12 (dymbëdhjetë) muajve nga hyrja në fuqi e këtij vendimi të kryhet lëshimi i faturave brenda sistemit elektronik të lejeve të ndërtimit. Deri në krijimin e modaliteteve përkatëse brenda sistemit e-Leje, AZHT-ja mund të kryejë lëshimin e faturave dhe autorizimeve për kryerjen e pagesave, sipas tarifave të përcaktuara në këtë vendim, jashtë sistemit e-Leje.
+2. Agjencia e Zhvillimit të Territorit merr të gjitha masat për lëshimin e faturave, sipas tarifave të përcaktuara në këtë vendim, për të gjitha vendimmarrjet e Këshillit Kombëtar të Territorit dhe Ujit, që konfirmohen pas datës së hyrjes në fuqi të këtij vendimi, me përjashtim të vendimmarrjeve para vitit kalendarik 2024.
+III. DISPOZITA TË FUNDIT
+1. Tarifat për shërbimet bëhen publike në faqen zyrtare të Agjencisë së Zhvillimit të Territorit.
+2. Ngarkohen Agjencia e Zhvillimit të Territorit dhe Agjencia Kombëtare e Shoqërisë së Informacionit për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

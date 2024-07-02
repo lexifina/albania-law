@@ -1,0 +1,1 @@
+10. Subjektet e interesuara për përfitimin e shërbimeve të përshpejtuara (fast track), të cilat mundësojnë marrjen e shërbimit të kërkuar, brenda gjysmës së kohës së përcaktuar mund të aplikojnë për përftimin e këtij shërbimi, kundrejt pagimit të 3-fishit të vlerës së tarifës së aplikimit, sipas tarifave të përcaktuara në këtë vendim.

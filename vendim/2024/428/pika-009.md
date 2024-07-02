@@ -1,0 +1,1 @@
+9. Tarifa për shqyrtimin e kërkesave për shtyrjen e afateve të lejes së ndërtimit është tarifë fikse, në masën 3 000 000 (tre milionë) lekë. Pagesa për shtyrjen e afateve të lejes së ndërtimit kryhet pas konfirmimit të vendimit të miratimit nga Këshilli Kombëtar i Territorit dhe Ujit, brenda 15 (pesëmbëdhjetë) ditëve nga lëshimi i faturës nga AZHT-ja.

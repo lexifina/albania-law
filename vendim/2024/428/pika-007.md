@@ -1,0 +1,1 @@
+7. Tarifa për shqyrtimin e kërkesave për pajisje me leje për strukturë shërbimi në stacionet e plazhit është tarifë fikse, në masën 100 000 (njëqind mijë) lekë. Pagesa kryhet pas konfirmimit të vendimit të miratimit nga Këshilli Kombëtar i Territorit dhe Ujit, brenda 10 (dhjetë) ditëve nga lëshimi i faturës nga AZHT-ja.
