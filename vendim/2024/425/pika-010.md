@@ -1,0 +1,1 @@
+10. Mësuesit dhe instruktorët me kohë të pjesshme, që japin mësim në ofruesit publikë të arsimit dhe formimit profesional, të cilët punësohen me kontratë të përkohshme pune në bazë të vendimit përkatës të Këshillit të Ministrave, paguhen në masën 600 (gjashtëqind) lekë për çdo orë mësimore.

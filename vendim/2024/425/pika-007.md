@@ -1,0 +1,1 @@
+7. Shtesa për natyrë të veçantë pune për punonjësit, të cilët ushtrojnë detyrën në pozicionet “mësues i teorisë/dhe ose praktikës profesionale” dhe “instruktor i praktikës profesionale” në shkollat e arsimit të mesëm të lartë profesional është në masën 10 000 (dhjetë mijë) lekë në muaj.

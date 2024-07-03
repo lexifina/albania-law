@@ -1,0 +1,1 @@
+13. Vendimi nr. 175, datë 8.3.2017, i Këshillit të Ministrave, “Për trajtimin me pagë dhe shtesa mbi pagë të punonjësve mësimorë dhe të punonjësve të tjerë jomësimorë në arsimin parauniversitar”, i ndryshuar, shfuqizohet.

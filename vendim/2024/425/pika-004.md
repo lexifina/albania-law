@@ -1,0 +1,1 @@
+4. Vlerat e elementit “pagë për pozicion” dhe grupi i diplomës për punonjësit mësimorë në institucionet arsimore të sistemit arsimor parauniversitar, të përcaktuara në shkronjat “b”, “c”, “ç” dhe “d”, të pikës 1, të këtij vendimi, janë sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

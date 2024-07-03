@@ -1,0 +1,1 @@
+5. Vlerat e elementit “pagë për pozicion” dhe grupi i diplomës për punonjësit e shërbimit psiko-social dhe për punonjësit e sigurisë në institucionet arsimore të sistemit arsimor parauniversitar të përcaktuara në pikën 1, të këtij vendimi, janë sipas lidhjes nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
