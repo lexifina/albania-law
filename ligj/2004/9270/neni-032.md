@@ -1,4 +1,4 @@
 # Neni 32
-Shkelja ose mosrespektimi i detyrimit ligjor, nga personat përgjegjës në seksionet dhe zyrat e urbanistikës të njësive të vetëqeverisjes vendore, të përcaktuar në:
-a) pikën 2, të nenit 29, të këtij ligji, përbën kundërvajtje administrative dhe dënohet me gjobë në masën 100 000 (njëqind mijë) lekë;
-b) nenin 31, të këtij ligji, përbën kundërvajtje administrative dhe dënohet me gjobë në masën 50 000 (pesëdhjetë mijë) lekë.
+Shkelja ose mosrespektimi i detyrimit ligjor, nga personat përgjegjës në strukturat përgjegjëse për planifikimin dhe zhvillimin e territorit në bashki, si nivel i parë i vetëqeverisjes vendore të njësive të vetëqeverisjes vendore, të përcaktuar në:
+a) nenet 29/1 dhe 29/2 të këtij ligji, shkelja ose mosrespektimi i detyrimit ligjor nga personat përgjegjës, sipas këtyre neneve, përbën kundërvajtje administrative dhe dënohet me gjobë në masën nga 5 000 (pesë mijë) lekë deri në 10 000 (dhjetë mijë) lekë për çdo bulevard, rrugë, rrugicë, shesh ose park të paemërtuar, si dhe për çdo ndërtesë, hyrje ose apartament të panumërtuar;
+b)nenin 31 të këtij ligji, përbën kundërvajtje administrative dhe dënohet me gjobë në masën nga 10 000 (dhjetë mijë) lekë deri në 50 000 (pesëdhjetë mijë) lekë.
