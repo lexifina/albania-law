@@ -1,0 +1,26 @@
+{
+  "qbz_id": 67720,
+  "title": "Për caktimin e datës së zgjedhjeve për kryetar të Bashkisë Himarë, qarku Vlorë",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "244",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2024-07-05",
+  "published": "2024-07-08",
+  "in_force": "2024-07-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ec3bf6b86b4c58077c694508f62bafc59e41b048a015a3598591f25c7abbc87f.docx",
+  "source_sha256": "ec3bf6b86b4c58077c694508f62bafc59e41b048a015a3598591f25c7abbc87f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/67720",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2024/07/05/244",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
