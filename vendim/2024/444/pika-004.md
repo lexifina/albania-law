@@ -1,0 +1,1 @@
+4. Të dhënat specifike për të dhënat e rrjeteve të transportit, sipas shkronjës “a”, të pikës 3, të këtij vendimi, janë të dhënat e përcaktuara me standardin e miratuar me vendim të Këshillit të Ministrave, në zbatim të ligjit për të dhënat gjeohapësinore për grupet tematike për rrjetet e transportit.

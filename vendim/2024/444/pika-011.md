@@ -1,0 +1,1 @@
+11. Organet e sektorit publik, që mbajnë të dhënat sipas përcaktimeve të këtij vendimi, paraqesin informacionin e nevojshëm te Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale. Aty ku është e përshtatshme, informacioni mund të sigurohet nëpërmjet referencave në metadatat përkatëse.
