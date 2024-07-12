@@ -42,3 +42,4 @@ Në përdorim
 56,58,134,148,151,156
 Prona që përdoren për ushtrimin e funksioneve në fushën e bujqësisë dhe të ushqimit (toka joproduktive dhe kanale të treta).
 Në pronësi
+’
