@@ -1,0 +1,1 @@
+10. Drejtoria për të Drejtën e Autorit përditëson të dhënat e regjistrimit të së drejtës së autorit në bazën e të dhënave shtetërore “Regjistri i të dhënave të të drejtave të autorit dhe të drejtave të tjera të lidhura me to”.

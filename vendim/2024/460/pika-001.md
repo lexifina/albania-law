@@ -1,0 +1,1 @@
+1. Ky vendim ka për objekt përcaktimin e procedurës së regjistrimit të veprave të së drejtës së autorit, sipas klasifikimit dhe organizimit të tyre, si dhe të tarifave të regjistrimit, në zbatim të ligjit nr. 35/2016, “Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to”, të ndryshuar.

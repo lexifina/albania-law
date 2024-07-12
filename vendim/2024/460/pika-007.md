@@ -1,0 +1,5 @@
+7. Procedura e regjistrimit në Drejtorinë për të Drejtën e Autorit zgjat në një afat maksimal prej 30 (tridhjetë) ditësh. Konkretisht, kjo procedurë përfshin:
+a) aplikimin e depozitimin e dokumenteve shoqëruese në portalin “e-Albania”. Përjashtimisht, vetëm dokumentet, të cilat nuk mund të ngarkohen në format elektronik, i dërgohen institucionit në format shkresor (hard copy) brenda 5 (pesë) ditëve nga data e aplikimit;
+b) korrigjimin e pasaktësive nga aplikanti, brenda 5 (pesë) ditëve nga kërkesa e Drejtorisë për të Drejtën e Autorit, në rastet kur aplikimi nuk është paraqitur, në përputhje me pikën 6, të këtij vendimi. Në rast të mosplotësimit të pasaktësive brenda këtij afati, aplikimi refuzohet;
+c) shqyrtimin e kërkesës në raport me parashikimet e ligjit për të drejtat e autorit brenda 15 (pesëmbëdhjetë) ditëve. Në rast se vepra që kërkohet të regjistrohet nuk është objekt i mbrojtjes së të drejtës së autorit, aplikimi refuzohet në mënyrë të arsyetuar;
+ç) regjistrimin e veprës dhe pajisjen me certifikatë ose refuzimin, sipas shkronjës “c” të kësaj pike, brenda 5 (pesë) ditëve.
