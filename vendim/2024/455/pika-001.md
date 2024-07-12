@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rehabilitimi urban i një pjese të bllokut nr. 3, në qendër të qytetit të Roskovecit (faza 1)”, Bashkia Roskovec.
