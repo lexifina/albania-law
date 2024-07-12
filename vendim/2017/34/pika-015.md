@@ -1,1 +1,0 @@
-15. Pajisja me certifikatë bëhet nga struktura përgjegjëse e DDA-së dhe nënshkruhet nga drejtori i saj për titullarët e regjistruar të të drejtave të autorit, që dëshmojnë ndaj të tretëve të drejtat e tyre të regjistruara.

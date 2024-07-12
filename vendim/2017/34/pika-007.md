@@ -1,1 +1,0 @@
-7. DDA-ja, nëpërmjet strukturës përgjegjëse, vë në dispozicion të aplikantëve/subjekteve të interesuara, pa pagesë, formularët-tip të aplikimit. Këta formularë miratohen me udhëzim të ministrit përgjegjës për të drejtat e autorit, në përputhje me klasën administrative, sipas qëllimit të aplikimit nga subjekti.

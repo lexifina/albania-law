@@ -1,1 +1,0 @@
-14. Certifikata e lëshuar për regjistrimin e të drejtave të autorit dëshmon regjistrimin e një të drejte autori, që gëzon mbrojtje, në zbatim të ligjit nr. 35/2016, “Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to”, por nuk provon autorësinë e saj.

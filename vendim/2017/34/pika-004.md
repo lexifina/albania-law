@@ -1,1 +1,0 @@
-4. Administrimi i regjistrit të të drejtave të autorit bëhet në përputhje me legjislacionin në fuqi për bazat e të dhënave shtetërore. Rregulloret për organizmin e funksionimin e brendshëm të tij miratohen me udhëzim të ministrit përgjegjës për të drejtat e autorit.

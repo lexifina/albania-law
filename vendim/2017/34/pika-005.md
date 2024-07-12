@@ -1,1 +1,0 @@
-5. Regjistri dhe çdo informacion ruhen dhe administrohen nga DDA-ja, në përputhje me ligjin nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, ligjin nr. 9154, datë 16.11.2003, “Për arkivat”, dhe u vihen në dispozicion palëve të interesuara, në përputhje me ligjin nr. 119/2014, “Për të drejtën e informimit”.
