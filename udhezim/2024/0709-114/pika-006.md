@@ -1,0 +1,1 @@
+6. Për të huajt që me marrëveshje qeveritare është parashikuar një format standard i refuzimit për qëndrim në territorin e Republikës së Shqipërisë, zbatohet formati i parashikuar në këtë marrëveshjen.

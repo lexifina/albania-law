@@ -1,0 +1,1 @@
+3. Në momentin kur i huaji pajiset me dokumentin leje qëndrimi/leje unike, ai dorëzon pranë autoritetit vendor për kufirin dhe migracionin lejen provizore ose lejen e qëndrimit/lejen unike ekzistuese (në rast të kërkesës për ripërtëritjen e saj), e cila më pas ruhet në dosjen e të huajit.

@@ -1,0 +1,10 @@
+2. Pas regjistrimit të aplikimit në sistemin FER-TIMS, gjenerohen akti i arkivimit të dosjes së aplikimit të të huajit dhe leja provizore e qëndrimit me vulë elektronike i përcillet të huajit në format elektronik, në adresën e emailit të dhënë nga aplikuesi.
+II. DHËNIA E AUTORIZIMIT PËR LËSHIM TË LEJES SË QËNDRIMIT /LEJES UNIKE OSE REFUZIMIN E SAJ
+1. Miratimi ose refuzimi i aplikimit për leje qëndrimi ose leje unike dhe dhënia e autorizimit për lëshimin apo refuzimin e tyre, bëhet nga struktura përgjegjëse pranë autoritetit qendror për kufirin dhe migracionin, mbi bazën e vlerësimeve të bëra nga të gjitha strukturat që marrin pjesë në vlerësimin e aplikimit, në formën e një akti të miratuar dhe nëpërmjet shënimit në modulin e-leje qëndrimi.
+2. Struktura përgjegjëse pranë autoritetit për kufirin dhe migracionin, sipas aktit të miratuar, autorizon për çdo aplikim autoritetin vendor të kufirit dhe migracionit përkatës për të vijuar me lëshimin ose refuzimin e lejes së qëndrimit/lejes unike.
+III. LËSHIMI I LEJES SË QËNDRIMIT OSE LEJES UNIKE
+1. Pas marrjes së autorizimit për lëshimin e lejes së qëndrimit/lejes unike, struktura përgjegjëse pranë autoritetit vendor për kufirin dhe migracionin, bën shënimin në rubrikën përkatëse për çdo aplikim të regjistruar në modulin e-leje qëndrimi dhe i përcjell të huajit në adresën e email-it të deklaruar në aplikim, njoftimin për miratimin e lejes së qëndrimit/lejes unike, sipas modelit të përcaktuar në aneksin nr. 1, bashkëlidhur këtij udhëzimi, ku e informon, për:
+a) miratimin e lejes së qëndrimit/lejes unike dhe pajisjen me nr. personal FID;
+b) detyrimin për regjistrim pranë zyrës së gjendjes civile për regjistrimin e adresës së banimit;
+c) kryerjen e pagesës së vlerës së kartës biometrike, nëpërmjet mandatit të arkëtimit.
+2. Procedura e aplikimit për dokument biometrik leje qëndrimi/leje unike për të huajt, bëhet në zyrën e migracionit, pranë autoritetit vendor për kufirin dhe migracionin, nga vetë i huaji, ku dhe tërhiqet ky dokument pas prodhimit dhe aktivizimit të CHIP-it të trupëzuar në të.
