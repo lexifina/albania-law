@@ -1,0 +1,6 @@
+7. Metodologjia shfrytëzon qasjen që bazohet në bilancin e konsumit të energjisë termike (ngrohjes/ftohjes) për ndërtesën si tërësi, e cila merr parasysh si në vijim:
+a) Ngrohja/ftohja e matur në nivelin e nënstacionit termik është matja kryesore referente e ngrohjes/ftohjes së furnizuar në ndërtesë, për të cilën kompania e furnizimit me energji termike duhet të kompensohet;
+b) Diferenca ndërmjet sasisë së energjisë termike të matur në nivelin e nënstacionit të ndërtesës dhe konsumit të përbashkët të të gjitha njësive të ndërtesës (matur në nivel njësie) do të shpërndahet proporcionalisht me sipërfaqen e ngrohjes/ftohjes së secilës njësi;
+c) Sipas kësaj, fatura individuale e energjisë termike e çdo konsumatori - pronari të njësisë duhet të marrë parasysh konsumin e energjisë termike të matur në nivel njësie dhe pjesën përkatëse të konsumit të përbashkët të ndërtesës, e cila përfaqëson diferencën ndërmjet konsumit të energjisë së matur në nivel të nënstacionit dhe konsumit të përbashkët të energjisë së të gjitha njësive të matura në nivelin e njësisë;
+ç) Pjesa e konsumit të përbashkët të ndërtesës ndahet për njësitë e ndërtesës në proporcion me sipërfaqen e ngrohur/ftohur të secilës njësi.
+III. Bilanci i konsumit të energjisë termike të një ndërtese me shumë njësi

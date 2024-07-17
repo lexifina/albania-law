@@ -1,0 +1,1 @@
+2. Metodologjia zbatohet nga kompanitë e licencuara për furnizim me energji termike dhe do të zbatohet për llogaritjen e faturës së ngrohjes/ftohjes për klientët që banojnë në ndërtesa individuale ose me shumë njësi të lidhura me sistemin qendror të ngrohje-ftohjes.

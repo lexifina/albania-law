@@ -1,0 +1,1 @@
+1. Qëllimi kryesor i rregullave të përcaktimit të konsumit të energjisë termike (në vijim “Metodologjia”) është të zbatojë faturimin e bazuar në konsum, nëpërmjet përcaktimit të rregullave të llogaritjes së faturës së energjisë termike për klientët që banojnë në ndërtesat me shumë njësi.

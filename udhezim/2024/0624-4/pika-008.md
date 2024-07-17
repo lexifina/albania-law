@@ -1,0 +1,1 @@
+8. Në bazë të fushëveprimit të metodologjisë së parimeve kryesore dhe qasjes për hartimin e metodologjisë, bilanci i konsumit të nxehtësisë së një ndërtese kolektive përgatitet në çdo muaj para përgatitjes së faturave, sipas shtojcës 1 bashkëlidhur këtij udhëzimi dhe është pjesë përbërëse e tij.
