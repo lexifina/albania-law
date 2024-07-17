@@ -1,0 +1,1 @@
+3. Gjenerimin e listës së zgjedhësve në përputhje me procedurën e parashikuar në udhëzimin nr. 225, datë 11.5.2016, të ministrit të Punëve të Brendshme, “Për procedurat e pezullimit nga lista e zgjedhësve për shtetasit që vuajnë dënimin, parashikuar nga ligji nr. 138/2015, ’Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike’”.

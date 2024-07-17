@@ -1,0 +1,1 @@
+17. Nëpunësit e zyrave të gjendjes civile në Bashkinë Himarë/njësitë administrative nën juridiksionin e saj kryejnë veprimet përkatëse në Regjistrin Kombëtar për përditësimin e vendndodhjes së qendrës së votimit, në rastet kur kryetari i komanduar në detyrë në Bashkinë Himarë ka vendosur që vendndodhja e qendrës së votimit me fraksion, të jetë e ndryshme nga ajo e qendrës bazë.

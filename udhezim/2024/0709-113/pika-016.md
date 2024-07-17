@@ -1,0 +1,1 @@
+16. Drejtoria e Përgjithshme e Gjendjes Civile realizon bashkimin/ndarjen e qendrave të votimit në përmbushje të këtij procesi, bazuar në kriterin numerik dhe mbiemrin e zgjedhësit. Qendrat e votimit me fraksion marrin automatikisht adresën e qendrës bazë.

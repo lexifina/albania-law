@@ -1,0 +1,1 @@
+8. Kryetari i Bashkisë Himarë, i komanduar në detyrë, vendos për bashkimin e qendrave të votimit me më pak se 300 (treqind) zgjedhës, me një qendër më të afërt dhe me mundësi komunikimi rrugor. Numri i përgjithshëm i zgjedhësve në qendrat e bashkuara të votimit duhet të jetë mbi 300 (treqind) zgjedhës.

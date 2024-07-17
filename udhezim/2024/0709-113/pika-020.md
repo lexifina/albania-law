@@ -1,0 +1,1 @@
+20. Drejtoria e Përgjithshme e Gjendjes Civile dërgon në KZAZ të 3 (tria) formatet e listës së zgjedhësve, në rast se nga kryetari i komanduar për Bashkinë Himarë nuk përmbushen kompetencat sipas pikës 19 të këtij udhëzimi.

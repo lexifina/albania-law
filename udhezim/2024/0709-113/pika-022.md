@@ -1,0 +1,1 @@
+22. Drejtoria e Përgjithshme e Gjendjes Civile publikon listën e zgjedhësve në formë elektronike për zgjedhjet për kryetar të Bashkisë Himarë, në faqen zyrtare të internetit të Ministrisë së Brendshme.

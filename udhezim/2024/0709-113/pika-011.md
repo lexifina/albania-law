@@ -1,0 +1,1 @@
+11. Përgjegjësi i zyrës së gjendjes civile në Bashkinë Himarë/njësitë administrative nën juridiksionin e saj Lukovë dhe Horë-Vranisht, kryen veprimet përkatëse në Regjistrin Kombëtar, brenda 24 orëve nga marrja e vendimit të kryetarit të komanduar në Bashkinë Himarë, qarku Vlorë, për ndarjen e qendrave të votimit referuar kritereve të parashikuar ligjorë.

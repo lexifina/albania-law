@@ -1,0 +1,1 @@
+14. Procedurat e parashikuara në pikat 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 dhe 13 të këtij udhëzimi, kryhen për listën e zgjedhësve, datë 10.7.2024, që do të publikohet për zgjedhjet për kryetar të Bashkisë Himarë.

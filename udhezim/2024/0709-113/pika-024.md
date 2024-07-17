@@ -1,0 +1,2 @@
+24. Ngarkohen me zbatimin e këtij udhëzimi kryetari i Bashkisë Himarë, i komanduar në detyrë, Drejtoria e Përgjithshme e Gjendjes Civile, zyrat e gjendjes civile në Bashkinë Himarë dhe në Njësitë Administrative nën juridiksionin e saj Lukovë dhe Horë-Vranisht, si dhe institucionet e tjera shtetërore të parashikuara nga Kodi Zgjedhor.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

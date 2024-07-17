@@ -1,0 +1,1 @@
+21. Zyrat e gjendjes civile në Bashkinë Himarë/njësitë administrative nën juridiksionin e saj Lukovë dhe Horë-Vranisht, ku do të zhvillohen zgjedhjet për kryetar të Bashkisë Himarë, zbatojnë dhe vendimet gjyqësore, sipas nenit 57 të ligjit nr. 10019, datë 29.12.2008, “Kodi Zgjedhor i Republikës së Shqipërisë”, i ndryshuar.

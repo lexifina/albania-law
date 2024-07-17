@@ -1,0 +1,1 @@
+6. Limiti i poshtëm për qendrën e votimit i referohet një numri prej 15 (pesëmbëdhjetë) zgjedhësish, në rastin e institucioneve të posaçme (burgjeve, vendeve të paraburgimit, si dhe spitaleve ose institucioneve të tjera shëndetësore, që pranojnë pacientë për më shumë se 3 ditë), të cilat përbëjnë zonë të veçantë qendre votimi.
