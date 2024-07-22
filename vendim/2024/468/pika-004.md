@@ -1,0 +1,1 @@
+4. Rinovimet që do të realizohen prej institucioneve, të përmendura në pikën 3, të këtij kreu, garantojnë të paktën zbatimin e kërkesave minimale të performancës së energjisë, sipas vendimit nr. 537, datë 8.7.2020, të Këshillit të Ministrave, “Për miratimin e kërkesave minimale të performancës së energjisë së ndërtesave dhe të elementeve të ndërtesave”.

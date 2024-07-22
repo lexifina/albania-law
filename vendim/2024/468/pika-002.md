@@ -1,0 +1,1 @@
+2. Me hyrjen në fuqi të këtij vendimi, sektori publik ngarkohet me zbatimin e objektivit, të përcaktuar sipas pikës 1, të nenit 9/4, të ligjit nr. 124/2015, “Për eficiencën e energjisë”, të ndryshuar.

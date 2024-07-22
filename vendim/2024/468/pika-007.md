@@ -1,0 +1,1 @@
+7. Sipërfaqja totale e ndërtesave të kualifikuara duhet të jetë më e madhe ose e barabartë me sipërfaqen e miratuar në inventar për secilën kategori. Diferenca me sipërfaqen e detyrueshme për t’u rinovuar çdo vit reflektohet në listën e ndërtesave që kualifikohen për t’iu nënshtruar rinovimit për vitin pasardhës.
