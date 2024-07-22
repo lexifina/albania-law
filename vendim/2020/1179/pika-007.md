@@ -13,3 +13,4 @@ e) materialet për instruktim në ndihmë të përdoruesve të sistemit;
 ë) ndërfaqe e bazuar në teknologjinë portal, si sisteme apo module;
 f) funksionet e kërkimit mbi raportet statistikore;
 g) raportet statistikore për kërkesat e qytetarëve, noterëve, institucioneve, për llojin e pasurive të paluajtshme, llojin e pronarëve dhe elemente të lidhura me to, raporte financiare e raporte për proceset e punës së ASHK-së etj.
+gj) të dhënat e regjistrit të lejes së ndërtimit.
