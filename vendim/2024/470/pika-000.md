@@ -1,0 +1,2 @@
+Pezullimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Bashkëpunuese të Guajanës, për përjashtimin nga kërkesat për vizë për mbajtësit e pasaportave diplomatike, pasaportave të shërbimit dhe pasaportave të zakonshme, miratuar me vendimin nr. 190, datë 4.3.2020, të Këshillit të Ministrave.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
