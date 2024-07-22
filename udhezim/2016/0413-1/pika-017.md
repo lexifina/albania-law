@@ -1,5 +1,0 @@
-17. Për regjistrimin e akteve noteriale dhe akteve të tjera të sipërmarrjes/porosisë, të lidhura para noterit, të cilat nuk janë të regjistruara në regjistrin e lejes së ndërtimit, por paraqiten për regjistrim për herë të parë, pas regjistrimit të karabinasë, punonjësit e ZRPP-së, që përpunojnë kërkesat individuale për regjistrim, procedojnë duke verifikuar nëse:
-a) karabinaja është e regjistruar;
-b) ka akte të tjera për pasurinë konkrete;
-c) në aktin noterial dhe në aktet e tjera të sipërmarrjes/porosisë, të lidhura para noterit, të dhënat për njësinë janë të plota dhe, në bazë të tyre, lejohet individualizimi i saj në objektin për të cilin është lëshuar leja e ndërtimit;
-ç) për njësinë e individualizuar rezulton të jetë paraqitur kërkesë për regjistrim apo të jetë regjistruar ndonjë akt noterial apo akt tjetër i sipërmarrjes/porosisë, të lidhur para noterit, ndërmjet zhvilluesit të pronës dhe një subjekti tjetër. Në këto raste, zyra procedon me kthimin e akteve, zyrtarisht, palës së interesuar.

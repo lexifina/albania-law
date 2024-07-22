@@ -1,1 +1,0 @@
-19. Me kryerjen e regjistrimit të karabinasë dhe transferimin e akteve noteriale e akteve të tjera të sipërmarrjes/porosisë, të lidhura para noterit e të regjistruara në regjistrin e lejes së ndërtimit, regjistruesi mbyll regjistrin e lejes së ndërtimit dhe mbi të nuk mund të kryhet asnjë veprim tjetër, duke bërë shënimet përkatëse në regjistrin e karabinasë.

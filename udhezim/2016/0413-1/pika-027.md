@@ -1,1 +1,0 @@
-27. Dispozitat e krerët III dhe IV, të këtij udhëzimi, për sa janë të zbatueshme, aplikohen edhe në rastin e objekteve të ndërtuara në bazë të ligjeve të urbanistikës, të regjistruara në zyrat e regjistrimit të pasurive të paluajtshme.

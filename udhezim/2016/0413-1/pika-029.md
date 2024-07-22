@@ -1,2 +1,0 @@
-29. Me hyrjen në fuqi të këtij udhëzimi, shfuqizohet udhëzimi nr. 3, datë 3.10.2012, i Këshillit të Ministrave, “Për caktimin e kritereve e të procedurave për regjistrimin e lejes së ndërtimit dhe akteve noteriale të lidhura për zhvillimin, në cilësinë e investitorit e të pronarëve të truallit apo blerësve/porositësve të njësive individuale, të objektit në fazën e karabinasë dhe të objektit të përfunduar”.
-Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

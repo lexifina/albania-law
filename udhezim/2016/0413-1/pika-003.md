@@ -1,1 +1,0 @@
-3. Regjistrimi i lejes së ndërtimit/zhvillimit bëhet kryesisht dhe nga ZRPP-ja, në regjistrin e veçantë, sipas aneksit 1, bashkëlidhur këtij udhëzimi. Leja e ndërtimit/zhvillimit regjistrohet nga regjistruesi brenda 15 (pesëmbëdhjetë) ditëve, nga data e depozitimit në ZRPP.

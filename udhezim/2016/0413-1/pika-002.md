@@ -1,1 +1,0 @@
-2. Autoriteti shtetëror, përgjegjës sipas ligjit, duhet të përcjellë për regjistrim, në zyrën përkatëse vendore të regjistrimit të pasurive të paluajtshme, lejen e ndërtimit dhe/ose lejen e zhvillimit, brenda 10 (dhjetë) ditëve nga data e pajisjes së subjektit zhvillues me këtë leje.

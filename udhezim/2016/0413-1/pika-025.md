@@ -1,1 +1,0 @@
-25. Në rastet kur në lejen e përdorimit/ certifikatën e përdorimit nuk specifikohet subjekti investitor, por vetëm subjekti ndërtues/zhvillues, ZRPP-ja do të vijojë me regjistrimin e objektit në emër të atij subjekti ndërtues/zhvillues të cituar në lejen e përdorimit/certifikatën e përdorimit.
