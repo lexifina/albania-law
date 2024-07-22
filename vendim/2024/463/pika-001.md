@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2024, i shtohet fondi prej 28 340 000 (njëzet e tetë milionë e treqind e dyzet mijë) lekësh për mbulimin e shpenzimeve të organizimit të zgjedhjeve të pjesshme për organet e vetëqeverisjes vendore, në Bashkinë Himarë, të datës 4 gusht 2024.
