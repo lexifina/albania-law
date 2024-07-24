@@ -1,0 +1,1 @@
+7. Nxënësit me aftësi të kufizuara që ndjekin shkollat e zakonshme, i zhvillojnë provimet kombëtare të arsimit bazë, sipas përcaktimeve në rregulloren për zhvillimin e PKAB-së.
