@@ -1,1 +1,0 @@
-8. Vendimi nr. 102, datë 16.2.2022, i Këshillit të Ministrave, “Për miratimin e strukturës e të niveleve të pagave të pozicioneve “koordinator” të Rrjetit të Koordinatorëve kundër Korrupsionit në disa institucione të administratës shtetërore”, i ndryshuar, shfuqizohet.

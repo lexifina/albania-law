@@ -1,1 +1,0 @@
-4. Paga bruto mujore për pozicionet “koordinator”, pjesë të Rrjetit të Koordinatorëve kundër Korrupsionit në institucionet e përcaktuara në pikat 1.2. dhe 1.4., të këtij vendimi, është përkatësisht, sipas lidhjeve nr. 3 dhe nr. 4, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

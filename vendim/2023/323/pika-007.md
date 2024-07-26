@@ -1,1 +1,0 @@
-7. Ngarkohen institucionet e përcaktuara në pikat 1.1. dhe 1.3., të këtij vendimi, të propozojnë deri në datën 30 qershor 2023, sipas legjislacionit në fuqi, ndryshimin e strukturës dhe organikës ekzistuese për përshtatjen e saj, sipas klasave të pagave, të përcaktuara në këtë vendim.

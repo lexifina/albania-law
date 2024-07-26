@@ -1,1 +1,0 @@
-2. Klasat e pagës dhe shtesat për kushte pune (natyrë të veçantë pune) për pozicionet “koordinator”, pjesë të Rrjetit të Koordinatorëve kundër Korrupsionit në institucionet e përcaktuara në pikat 1.1. dhe 1.3., të këtij vendimi, janë përkatësisht, sipas lidhjeve nr. 1 dhe nr. 2, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
