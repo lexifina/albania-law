@@ -1,0 +1,1 @@
+9. Ngarkohet Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor që, brenda muajit janar të çdo viti, të përditësojë listën e barnave të rimbursuara me çmimet dhe alternativat tregtare për principet aktive ekzistuese, bazuar në listën e përgjithshme me çmimet CIF/EXW të miratuara brenda datës 31 dhjetor nga Ministria e Shëndetësisë dhe Mbrojtjes Sociale.
