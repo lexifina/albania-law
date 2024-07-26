@@ -1,0 +1,1 @@
+1. Shpalljen e “Thirrjes së nëntë”, në kuadër të Programit Kombëtar të Praktikave të Punës me mbështetjen e institucioneve të administratës shtetërore, në nivel qendror dhe vendor, institucioneve të tjera publike dhe njësive të vetëqeverisjes vendore.
