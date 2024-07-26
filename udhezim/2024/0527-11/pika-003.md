@@ -1,0 +1,1 @@
+3. Institucionet arsimore publike parauniversitare për të përmirësuar cilësinë e shërbimit arsimor, përfitojnë fonde publike, grante të brendshme dhe grante të huaja, mbështetje materiale nga dhurues ose sponsorizues, në pajtueshmëri me kriteret dhe procedurat e përcaktuara në këtë udhëzim.

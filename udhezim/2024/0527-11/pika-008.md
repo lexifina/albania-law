@@ -1,0 +1,1 @@
+8. Komisioni mban një akt-pranimi për dorëzimin e kontributeve financiare, sponsorizimeve e dhurimeve monetare e materiale nga të tretë, që nënshkruhet nga komisioni dhe përfaqësuesi i subjektit përkatës.

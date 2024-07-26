@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave, procedurave dhe afateve që duhet të ndiqen në procesin e zbatimit të buxhetit nga institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar, në kuadër të përmirësimit të sistemit të menaxhimit financiar dhe kontrollit, si dhe të rritjes së transparencës së përdorimit të fondeve publike.

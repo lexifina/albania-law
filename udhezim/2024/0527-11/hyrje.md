@@ -1,0 +1,5 @@
+UDHËZIM I PËRBASHKËT
+Nr. 11, datë 27.5.2024
+PËR HAPJEN DHE MBYLLJEN E LLOGARIVE BUXHETORE NË DEGËN E THESARIT TË INSTITUCIONIT ARSIMOR VENDOR, PËRGJEGJËS PËR ARSIMIN PARAUNIVERSITAR
+Në mbështetje të nenit 102 të Kushtetutës së Republikës së Shqipërisë; të nenit 38, të ligjit nr. 9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, të ndryshuar, të neneve 12 dhe 16, të ligjit nr. 10296, datë 8.7.2010, “Për menaxhimin financiar dhe kontrollin”, të ndryshuar, të nenit 40, të ligjit nr. 69/2012, datë 21.6.2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, i ndryshuar, vendimit nr. 148, datë 13.3.2024, të Këshillit të Ministrave, “Për kriteret dhe procedurat për hapjen, mbylljen dhe riorganizimin e institucioneve të arsimit special në qendra burimore, si dhe për mënyrën e organizimit e të funksionimit të tyre” dhe të vendimit nr. 149, datë 13.3.2024, të Këshillit të Ministrave, “Për përcaktimin e kritereve të posaçme dhe procedurave për dhënien e statusit ’shkollë me status të veçantë’”, ministri përgjegjës për arsimin dhe ministri përgjegjës për financat,
+UDHËZOJNË:
