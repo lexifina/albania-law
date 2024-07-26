@@ -783,6 +783,8 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “sp
 |Koordinator në Agjencinë Shtetërore të Prokurimeve të Përqendruara. | | |
 |Përgjegjës i sektorëve të përmbajtjes në Agjencinë Kombëtare të Mbrojtjes | | |
 |Civile. | | |
+|Përgjegjës i sektorëve të përmbajtjes në Drejtorinë e Përgjithshme të | | |
+|Antikorrupsionit | | |
 |Kapiten i Portit. |III-2 |1 |
 |Përgjegjës sektori. |III-2 |1 |
 | |III-3 | |
@@ -798,6 +800,8 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “sp
 |Specialist në njësitë organizative të përmbajtjes në Drejtorinë e | | |
 |Përgjithshme të Shërbimit të Provës. | | |
 |Menaxher trajnimi në Shkollën Shqiptare të Administratës publike (ASPA). | | |
+|Specialist në njësitë organizative të përmbajtjes në Drejtorinë e | | |
+|Përgjithshme të Antikorrupsionit. | | |
 |Specialist. |IV-2 |1 ose 2, ose 3 |
 |Mjek në Teatrin Kombëtar dhe Teatrin Kombëtar të Operës, Baletit dhe | | |
 |Ansamblit Popullor. | | |
@@ -1248,3 +1252,4 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 [2] Vendimi nr.281, datë 8.5.2024 botuar në FZ nr.81 datë 10.5.2024, në pikën 2 të saj shprehet: “Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi:a) për përcaktimet e shkronjave “a”, “b” “c” dhe “d”, të pikës 1, të këtij vendimi, fillojnë nga data e emërimit/transferimit të nëpunësve në detyrë dhe për vitin 2024 përballohen nga fondet e miratuara për secilin institucion për këtë vit;b) për përcaktimin e shkronjës “ç”, të pikës 1, të këtij vendimi, fillojnë nga data 1 korrik 2024 dhe për vitin 2024 përballohen nga fondet e politikës për rritjen e pagave të përcaktuara në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
 [3] Vendimi nr. 421, date 26.6.2024 botuar në F.Z nr. 108, date 1.7.2024 në pikën 1 dhe 2 të Kreut III të tij shprehet: “1. Për përcaktimet e pikave 1, shkronja “b”, 4, 6 dhe 7, të kreut I, të këtij vendimi, nga data e emërimit/transferimit të nëpunësve në detyrë dhe për vitin 2024 përballohen nga fondet e miratuara për secilin institucion për këtë vit;
 2. Për të gjitha përcaktimet e tjera, nga data 1 korrik 2024 dhe për vitin 2024, përballohen nga fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
+[4] Vendimi nr. 485, datë 24.7.2024 botuar në F.Z nr. 127, datë 26.7.2024 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, fillojnë nga data e emërimit/transferimit të nëpunësit në detyrë dhe për vitin 2024 përballohen nga fondet e miratuara për institucionin për këtë vit.”
