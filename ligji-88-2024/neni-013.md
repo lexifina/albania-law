@@ -1,0 +1,5 @@
+# Neni 13
+Garantimi i normave të sigurisë
+1. Shoqëria ka detyrimin të sigurojë përmes policave të sigurimit operacionet e saj, që lidhen me prodhimin, riparimin e demilitarizimin e armëve. Procedurat për zbatimin e kësaj dispozite rregullohen me akte të brendshme, rregullatore të Shoqërisë.
+2. Shoqëria siguron një strukturë operative për zbatimin dhe mbikëqyrjen e rregullave kombëtare e ndërkombëtare të sigurisë, të aplikueshme për prodhimin, riparimin dhe demilitarizimin e armëve. Përbërja, funksionimi dhe përgjegjësitë e kësaj strukture rregullohen nga statuti dhe aktet e tjera, rregullatore të Shoqërisë.
+3. Shoqëria ngre dhe operon infrastrukturë digjitale dhe kibernetike, e cila ndërvepron me infrastrukturat e Ministrisë së Mbrojtjes. Personeli operativ i këtyre infrastrukturave pajiset me certifikatën e sigurisë përkatëse dhe informacioni i përpunuar në këto infrastruktura është i mbrojtur nga sekreti shtetëror, tregtar dhe industrial ushtarak. Rregullat për ngritjen, funksionimin dhe sigurimin e infrastrukturës përcaktohen me akte të brendshme të Shoqërisë.

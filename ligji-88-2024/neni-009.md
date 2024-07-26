@@ -1,0 +1,5 @@
+# Neni 9
+Transferimi i pronave të paluajtshme shtetërore
+1. Në rastet kur një pronë e paluajtshme shtetërore është me interes për realizimin e projekteve të investimit, Shoqëria i propozon Këshillit të Ministrave, nëpërmjet ministrit përgjegjës për ekonominë dhe ministrit përgjegjës për mbrojtjen, transferimin e së drejtës së pronësisë, të përdorimit apo çdo të drejte tjetër, sipas parashikimeve të Kodit Civil.
+2. Këshilli i Ministrave parashikon mënyrat, kriteret dhe procedurat sipas të cilave Shoqëria do të ushtrojë të drejtat e saj mbi pronat e paluajtshme, në funksion të zhvillimit të aktivitetit të saj, duke përfshirë, por pa u kufizuar në dhënien e saj në sipërmarrje, dhënien me qira ose përdorim sipas formave të tjera të parashikuara në Kodin Civil.
+3. Shoqëria, në funksion të zhvillimit të veprimtarisë së saj, me miratimin e Këshillit të Ministrave, me qëllim ngritjen e kapitalit, të aseteve ose të likuiditetit të nevojshëm për realizimin e aktivitetit të saj, mund ta përdorë pronën e paluajtshme shtetërore si garanci, kolateral, peng apo hipotekë, në rast marrjeje financimi.
