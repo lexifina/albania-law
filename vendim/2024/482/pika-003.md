@@ -1,0 +1,1 @@
+3. Efektet financiare të këtij vendimi, për vitin 2024, fillojnë nga data e emërimit të nëpunësve në detyrë dhe përballohen nga fondet e miratuara për këtë vit për Autoritetin Kombëtar për Sigurinë Kibernetike.

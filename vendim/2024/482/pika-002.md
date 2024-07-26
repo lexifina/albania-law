@@ -1,0 +1,1 @@
+2. Vendimi nr. 763, datë 12.12.2022, i Këshillit të Ministrave, “Për përcaktimin e masës së shtesës për natyrë të veçantë pune për drejtorin e Përgjithshëm dhe nëpunësit në njësitë teknike të përmbajtjes së Autoritetit Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike”, i ndryshuar, shfuqizohet.
