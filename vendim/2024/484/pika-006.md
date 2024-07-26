@@ -1,0 +1,1 @@
+6. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi për vitin 2024, përballohen nga fondet buxhetore të miratuara dhe fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.

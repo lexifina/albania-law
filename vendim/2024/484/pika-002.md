@@ -1,0 +1,1 @@
+2. Klasat e pagës dhe shtesat për kushte pune (natyrë të veçantë pune) për pozicionet “Koordinator kundër korrupsionit”, në institucionet e përcaktuara në shkronjën “a”, të pikës 1, të këtij vendimi, janë sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

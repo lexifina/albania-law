@@ -1,0 +1,1 @@
+4. Paga bruto mujore për pozicionet “koordinator kundër korrupsionit”, në institucionet e përcaktuara në shkronjën “b”, të pikës 1, të këtij vendimi, është sipas lidhjes nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

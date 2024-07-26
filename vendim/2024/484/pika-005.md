@@ -1,0 +1,1 @@
+5. Vlera e shtesës së nivelit të kualifikimit dhe shtesa për vjetërsi të përcaktuara në lidhjen nr. 2, të këtij vendimi, kanë të njëjtën vlerë dhe mënyrë llogaritjeje me atë të miratuar në vendimin përkatës të Këshillit të Ministrave për pagat e personelit mjekësor dhe të punonjësve të tjerë më arsim të lartë në sistemin e ministrisë përgjegjëse për shëndetësinë.
