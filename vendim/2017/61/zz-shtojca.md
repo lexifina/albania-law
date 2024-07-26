@@ -1,12 +1,14 @@
 # Shtojca
 SHTOJCA NR. 1
-LISTA E PAJISJEVE MJEKËSORE (FISHA DIABETI) TË RIMBURSUESHME, QË TREGTOHEN NË FARMACITË E SPITALEVE
+LISTA E PAJISJEVE MJEKËSORE (FISHA DIABETI) TË RIMBURSUESHME,
+QË TREGTOHEN NË FARMACITË E RRJETIT TË HAPUR
+SHTOJCA NR. 1
 Nr.
-Emri i pajisjes
-Emërtimi i pajisjes sipas regjistrit të AKBPM-së
+Emri i Pajisjes
+Emërtimi i pajisjes sipas Regjistrit të AKBPM
 Njësia
 Prodhuesi
-Çmimi referencë
+Çmimi reference
 (me TVSH)
 Rimbursimi
 1
@@ -114,4 +116,4 @@ Kuti x 50 fisha
 Changsha Sinocare Inc. No.265 Guyuan Road, Hi-tech Zone, Changsha, Hunan Province, 41025, PR of China
 1831.1
 30.8%
-* Kompanitë importuese kanë deklaruar dhënien falas të aparateve për matjen e glicemisë, si edhe gjilpërave shpuese (1 në ditë).
+* Kompanitë importuese do të sigurojnë dhënien falas të aparateve për matjen e glicemisë, si dhe gjilpërave shpuese për çdo përfitues të fishave të diabetit.
