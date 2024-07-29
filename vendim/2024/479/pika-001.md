@@ -1,0 +1,1 @@
+1. Miratimin e dokumentit të metodologjisë dhe standardet teknike për përdorimin e inteligjencës artificiale në Republikën e Shqipërisë, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
