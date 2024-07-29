@@ -1,0 +1,1 @@
+5. Udhëzimi i drejtorit të përgjithshëm nr. 1791, datë 26.11.2018, “Për zbatimin e VKM-së nr. 442, datë 18.7.2018, “Për përcaktimin e procedurës së kalimit e të regjistrimit të pasurive të paluajtshme, të ndërtuara deri në 10.8.1991 dhe të truallit funksional të tyre”, shfuqizohet.
