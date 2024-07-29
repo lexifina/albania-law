@@ -1,0 +1,1 @@
+1. Objekti i këtij udhëzimi është përcaktimi i modeleve dhe mënyra e plotësimit të dokumentacionit teknik që hartohet nga drejtoritë vendore të ASHK-së, sipas përditësimit në terren, gjatë realizimit të procedurave administrative të legalizimit të ndërtimeve pa leje në funksion të vendimmarrjes së këtij procesi.

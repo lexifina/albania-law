@@ -1,0 +1,1 @@
+3. Dokumentet teknik, genplan dhe planimetri objekti i këtij udhëzimi plotësohen, miratohen, arkivohen dhe lëshohen nga drejtoria vendore e ASHK-së në format digjital, si dokument elektronik, bashkëlidhur vendimit të legalizimit të ndërtimit pa leje.

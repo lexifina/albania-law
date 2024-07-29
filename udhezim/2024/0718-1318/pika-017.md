@@ -1,0 +1,2 @@
+17. Struktura kompetente në drejtoritë vendore të ASHK-së, për hartimin e genplanit, është përgjithësisht Sektori i Legalizimit, në raste të caktuara, do të jetë struktura e ngarkuar nga drejtori për kryerjen e kësaj procedure. Për këto të dhëna konkretisht është përgjegjës specialisti inxhinier përkatës në këtë sektor që është i ngarkuar për të kryer këto procedura.
+V. PËRPUNIMI I HARTËS VEKTORIALE

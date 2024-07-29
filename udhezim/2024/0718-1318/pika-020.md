@@ -1,0 +1,1 @@
+20. Për azhurnimin e hartës vektoriale përdoren kryesisht programe inxhinierike. Harta vektoriale duhet të përpunohet, duke u bazuar në matjet e kryera, ose në hartën vektoriale të hartuar nga subjektet e autorizuar sipas pikës 20, të VKM nr. 1178/2020, “Për përcaktimin e dokumentacionit dhe të rregullave të hollësishme të evidentimit të ndërtimeve pa leje”.
