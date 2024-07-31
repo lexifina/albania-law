@@ -4,7 +4,7 @@ Nr. 15, datë 31.1.2019
 
 MBI LICENCIMIN NË AKTIVITETIN E TRANSMETIMIT TË GAZIT NATYROR TË TRANS ADRIATIC PIPELINE AG ALBANIA, E REGJISTRUAR PRANË QKB-së, SI DEGË E SHOQËRISË SË HUAJ AKSIONARE (SHA), TRANS ADRIATIC PIPELINE AG
 
-(Ndryshuar me vendimin nr. 120, datë 11.5.2021; nr. 154, datë 30.6.2021; nr. 152, datë 13.6.2022)
+(Ndryshuar me vendimin nr. 120, datë 11.5.2021; nr. 154, datë 30.6.2021; nr. 152, datë 13.6.2022; nr. 159, datë 31.7.2024)
 
 (I përditësuar)
 
@@ -142,7 +142,7 @@ VENDOSI:
 
 1. Të licencojë në aktivitetin e transmetimit të gazit natyror, Trans Adriatic Pipeline AG Albania, të regjistruar pranë QKB-së si degë e shoqërisë së huaj aksionare (sh.a.), Trans Adriatic Pipeline AG, për një afat 30-vjeçar, nga data e fillimit të operimit.
 
-2. Jo më vonë se data 1.7.2024, shoqëria të paraqesë në ERE dokumentacionin e plotë, që tregon titujt e pronësisë mbi asetet që ka për të kryer funksionet ose plotësuar detyrimet nën licencën e kërkuar në territorin e Shqipërisë, sipas përcaktimeve të ligjit nr. 107/2021 “Për bashkëqeverisjen”.
+2.  Jo më vonë se data 1.7.2026, shoqëria të paraqesë në ERE dokumentacionin e plotë që tregon titujt e pronësisë mbi asetet që ka për të kryer funksionet ose plotësuar detyrimet nën licencën e kërkuar në territorin e Shqipërisë, sipas ligjit nr. 107/2021, “Për bashkëqeverisjen”.
 
 2.1 Shoqëria “TAP AG Albania” të përcjellë periodikisht në ERE certifikatën (policën) e sigurimit, pas rinovimit të saj, sipas kërkesave të nenit 9, pika 1, germa “e”, “iv”, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, ose heqjen e licencave në sektorin e gazit natyror”, miratuar me vendimin e Bordit të ERE-s nr. 97, datë 4.7.2017.
 
