@@ -1,0 +1,5 @@
+# Neni 2
+Organizimi i procesit të kualifikimit
+1. Procesi i kualifikimit të punonjësve arsimorë në sistemin arsimor parauniversitar për kandidatët e kategorisë “Mësues i kualifikuar” kryhet nëpërmjet dosjes së zhvillimit profesional të mësuesve, vlerësimit që realizohet nëpërmjet orës mësimore të hapur dhe vlerësimit me test të informatizuar, sipas lëndëve/profileve dhe niveleve përkatëse.
+2. Procesi i kualifikimit të punonjësve arsimorë në sistemin arsimor parauniversitar për kandidatët e kategorisë “Mësues specialist” kryhet nëpërmjet dosjes së zhvillimit profesional të mësuesve, vlerësimit që realizohet nëpërmjet orës mësimore të hapur dhe vlerësimit që realizohet nëpërmjet projektit kurrikular në lëndën/profilin dhe nivelin përkatës.
+3. Procesi i kualifikimit të punonjësve arsimorë në sistemin arsimor parauniversitar për kandidatët e kategorisë “Mësues mjeshtër” kryhet nëpërmjet dosjes së zhvillimit profesional të mësuesve dhe vlerësimit që realizohet nëpërmjet projektit kurrikular në lëndën/profilin dhe nivelin përkatës.

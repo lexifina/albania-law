@@ -1,0 +1,9 @@
+# Neni 24
+Administrimi i orëve mësimore të hapura ose i projekteve kurrikulare
+1. ZVAP-ja dërgon instrumentin e vlerësimit të orës mësimore të hapur ose të projektit kurrikular në drejtorinë e institucionit arsimor.
+2. Drejtori i institucionit arsimor i dorëzon instrumentin e vlerësimit të orës mësimore të hapur ose të projektit kurrikular drejtuesit të rrjetit profesional ose mësuesit koordinator për sigurimin e cilësisë/drejtuesit të ekipit lëndor që do të marrë pjesë në orën mësimore të hapur ose projektin kurrikular.
+3. Drejtori i institucionit arsimor siguron mjedisin, mjete didaktike apo mjete (nëse ka në dispozicion) në funksion të kërkesave që parashtron kandidati për realizimin e orës mësimore të hapur ose të projektit kurrikular.
+4. Drejtori i institucionit arsimor siguron pjesëmarrjen në orën e hapur ose të projektit kurrikular edhe të ekipit lëndor, si dhe/ose të një përfaqësuesi nga këshilli i prindërve të shkollës.
+5. Drejtuesi i rrjetit profesional, përfaqësuesi i ZVAP-së dhe drejtuesi i shkollës ose mësuesi koordinator i sigurimit të cilësisë/kryetar i ekipit lëndor që do të marrë pjesë në orën mësimore të hapur ose në projektin kurrikular, organizojnë diskutimin me pjesëmarrësit lidhur me cilësinë, menaxhimin dhe efektivitetin e realizimit të orës mësimore ose të projektit kurrikular, si dhe plotësojnë e nënshkruajnë vlerësimin në përfundim të kryerjes së saj.
+6. Drejtori i institucionit arsimor dorëzon të plotësuar në ZVAP instrumentin e vlerësimit të orës mësimore të hapur ose të projektit kurrikular të zhvilluar nga kandidatët përkatës.
+7. Drejtuesit e rrjeteve profesionale, mësuesit koordinator të sigurimit të cilësisë ose kryetarët e ekipeve lëndore përfshijnë në planet vjetore përkatëse pjesëmarrjen në orët mësimore të hapura ose në projektet kurrikulare për procesin e kualifikimit të punonjësve arsimorë.
