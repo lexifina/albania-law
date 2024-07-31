@@ -1,0 +1,3 @@
+# Neni 11
+Njoftimi i varieteteve rezistente ndaj dëmtuesve të specifikuar
+Enti Shtetëror i Farave dhe Fidanëve, në bashkëpunim me AKVMB-në, njoftojnë SPMB-në brenda datës 31 janar të çdo viti, listën e të gjitha varieteteve të reja të patateve, të cilat kanë certifikuar për tregtim gjatë vitit paraardhës dhe në të cilat kanë gjetur nga testet zyrtare të përcaktuara në aneksin V të këtij udhëzimi, të jenë rezistente ndaj dëmtuesve të specifikuar. Lista duhet të përmbajë varietetet së bashku me speciet, patotipet, grupet virulente ose popullatat e dëmtuesve të specifikuar ndaj të cilëve ato janë rezistent si dhe ndjeshmërinë relative.
