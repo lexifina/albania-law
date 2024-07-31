@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINISTËR I ARSIMIT, SPORTIT DHE RINISË
-Evis Kushi
