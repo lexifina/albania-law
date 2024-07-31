@@ -1,0 +1,1 @@
+11. Provimet të zhvillohen të përqendruara. Agjencia Kombëtare e Arsimit Parauniversitar (AKAP) përcakton qendrat e provimeve, duke u bazuar në numrin e maturantëve dhe në largësinë nga qendra e provimit.

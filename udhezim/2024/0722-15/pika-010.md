@@ -1,0 +1,1 @@
+10. Drejtori i institucionit arsimor parauniversitar dërgon zyrtarisht në ZVAP, listën e maturantëve që do të marrin pjesë në provimet e detyruara dhe me zgjedhje të Maturës Shtetërore 2024 dhe në provimet e detyruara të Maturës Shtetërore Profesionale 2024, sesioni i dytë, deri më datë 7 gusht 2024. Drejtori i ZVAP-së ta dërgojë këtë listë në QSHA, në datën 8 gusht 2024.

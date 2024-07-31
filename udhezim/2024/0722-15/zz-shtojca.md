@@ -1,0 +1,4 @@
+# Shtojca
+MINISTËR I EKONOMISË,
+KULTURËS DHE INOVACIONIT
+Blendi Gonxhja

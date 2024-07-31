@@ -1,0 +1,1 @@
+13. Drejtori i AKAP-së, brenda datës 9 gusht 2024 të njoftojë zyrtarisht QSHA-në dhe MAS, për qendrat dhe mjediset ku do të zhvillohen provimet e detyruara dhe me zgjedhje të Maturës Shtetërore 2024, sesioni i dytë dhe për listën e shkollave që marrin pjesë në provimet e Maturës Shtetërore 2024 dhe të Maturës Shtetërore Profesionale 2024, sesioni i dytë.
