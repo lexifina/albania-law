@@ -1,0 +1,5 @@
+# Neni 7
+Varietetet e patates rezistente ndaj patotipeve të dëmtuesve të specifikuar
+1. Një varietet patate duhet të përcaktohet si rezistent ndaj një patotipi të caktuar të dëmtuesit të specifikuar, kur ajo reagon ndaj një kontaminimi nga agjenti patogjen i atij patotipi në mënyrë të tillë që të mos krijohen spore në fazën e dimërimit.
+2. Testimi për rezistencën kryhet në përputhje me protokollin e përcaktuar në aneksin III bashkëlidhur këtij udhëzimi. Shkalla e rezistencës së varieteteve të patates përcaktohet në përputhje me vendosjen e pikëve standarde të përcaktuar në tabelën në aneksin III bashkëlidhur këtij udhëzimi.
+3. Enti Shtetëror i Farave dhe Fidanëve në bashkëpunim me AKVMB-në, njoftojnë SPMB-në, brenda datës 31 janar të çdo viti, listën e të gjitha varieteteve të reja të patateve që kanë certifikuar për tregtim në vitin paraardhës dhe që kanë gjetur, duke kryer testime të përmendur në pikën 2 të këtij neni, të jetë rezistent ndaj dëmtuesit të specifikuar. Ato duhet të deklarojnë varietetet së bashku me patotipet ndaj të cilave ato janë rezistente, si dhe metodën e përdorur për të përcaktuar atë rezistencë.
