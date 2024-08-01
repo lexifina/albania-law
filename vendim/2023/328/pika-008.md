@@ -1,1 +1,1 @@
-8. Këshilli i qarkut dhe këshilli i bashkisë miratojnë vlerën e pagës, brenda kufijve të pagave, për çdo funksion të zgjedhur, të emëruar dhe për çdo të punësuar të përcaktuar, përkatësisht, në lidhjet nr. 1 deri nr. 9, që i bashkëlidhen këtij vendimi.
+8. Këshilli i qarkut dhe këshilli i bashkisë miratojnë vlerën e pagës, brenda kufijve të pagave, për çdo funksion të zgjedhur, të emëruar dhe për çdo të punësuar të përcaktuar, përkatësisht, në lidhjet nr. 1 deri nr. 8, që i bashkëlidhen këtij vendimi.
