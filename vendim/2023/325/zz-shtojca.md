@@ -54,20 +54,23 @@ Masa e shtesës për kushte pune (natyrë të veçantë pune) për disa nga funk
 3. Në Komisionin e Prokurimit Publik, nëpunësit në njësitë organizative të përmbajtjes, në masën 10 000 (dhjetë mijë) lekë në muaj.
 4. Në Qendrën për Teknologjinë e Informacionit për sistemin e Drejtësisë, në masën 70 000 (shtatëdhjetë mijë) lekë në muaj për nëpunësin në pozicionin “Drejtor ekzekutiv” dhe 60 000 (gjashtëdhjetë mijë) lekë në muaj për nëpunësit në pozicionet “specialist”.
 5. Në Kryeministri:
-a) në masën 26 000 (njëzet e gjashtë mijë) lekë në muaj, për nëpunësit/funksionarët në pozicionet “Sekretar i Përgjithshëm”, “Drejtor i kabinetit të Kryeministrit”, ;
-b) në masën 25 000 (njëzet e pesë mijë) lekë në muaj për nëpunësit/funksionarët në pozicionin “Drejtor i kabinetit të Zëvendëskryeministrit” dhe “drejtor departamenti” në departamentet përgjegjëse për aktet rregullatore të Këshillit të Ministrave, për aktet ligjore prioritare të Këshillit të Ministrave dhe për politikat, integrimin evropian dhe mirëqeverisjen;
-c) në masën 24 000 (njëzet e katër mijë) lekë në muaj për nëpunësit në pozicionet:
-i. “drejtor njësie”, në departamentet përgjegjëse për aktet rregullatore të Këshillit të Ministrave, për aktet ligjore prioritare të Këshillit të Ministrave dhe për politikat, integrimin evropian dhe mirëqeverisjen;
-ii. “drejtor drejtorie” në departamentet përgjegjëse për politikat, integrimin dhe mirëqeverisjen, dhe për aktet ligjore prioritare të Këshillit të Ministrave;
-b) në masën 20 000 (njëzet mijë) lekë në muaj, për nëpunësit në pozicionet “jurist” dhe “koordinator”, në departamentet përgjegjëse për aktet rregullatore të Këshillit të Ministrave dhe aktet ligjore prioritare të Këshillit të Ministrave;
-c) në masën 15 000 (pesëmbëdhjetë mijë) lekë në muaj, për nëpunësit në pozicionet “koordinator”, në departamentin përgjegjës për politikat, integrimin evropian dhe mirëqeverisjen dhe përgjegjës i sektorit që mbulon buxhetin dhe financën;
-ç) në masën 10 000 (dhjetë mijë) lekë në muaj, për nëpunësit/funksionarët në pozicionet:
-i. “këshilltar” në kabinetin e Kryeministrit dhe të Zëvendëskryeministrit;
+a) në masën 65 000 (gjashtëdhjetë e pesë mijë) lekë në muaj, për nëpunësin në pozicionin “Sekretar i Përgjithshëm”;
+b) në masën 26 000 (njëzet e gjashtë mijë) lekë në muaj, për funksionarin në pozicionin “drejtor i kabinetit të Kryeministrit”;
+c) në masën 75 000 (shtatëdhjetë e pesë mijë) lekë në muaj, për nëpunësin në pozicionin “drejtor departamenti” në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave;
+ç) në masën 70 000 (shtatëdhjetë mijë) lekë në muaj, për nëpunësit në pozicionet “jurist” dhe “koordinator”, në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave;
+d) në masën 30 000 (tridhjetë mijë) lekë në muaj, për nëpunësit në pozicionet “drejtor drejtorie”, “përgjegjës sektori” dhe “specialist” në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave;
+dh) në masën 25 000 (njëzet e pesë mijë) lekë në muaj për nëpunësit/funksionarët në pozicionin “drejtor i kabinetit të zëvendëskryeministrit” dhe “drejtor departamenti” në departamentet përgjegjëse për aktet ligjore prioritare të Këshillit të Ministrave dhe për politikat, integrimin evropian dhe mirëqeverisjen;
+e) në masën 24 000 (njëzet e katër mijë) lekë në muaj për nëpunësit në pozicionet:
+i. “drejtor njësie”, në departamentet përgjegjëse për aktet ligjore prioritare të Këshillit të Ministrave dhe për politikat, integrimin evropian dhe mirëqeverisjen;
+ii. “drejtor drejtorie” në departamentet përgjegjëse për politikat, integrimin dhe mirëqeverisjen, dhe për aktet ligjore prioritare të Këshillit të Ministrave.
+ë) në masën 20 000 (njëzet mijë) lekë në muaj për nëpunësit në pozicionet “jurist” dhe “koordinator”, në departamentin përgjegjës për aktet ligjore prioritare të Këshillit të Ministrave;
+f) në masën 15 000 (pesëmbëdhjetë mijë) lekë në muaj, për nëpunësit në pozicionet “koordinator”, në departamentin përgjegjës për politikat, integrimin evropian dhe mirëqeverisjen dhe përgjegjës i sektorit, që mbulon buxhetin dhe financën;
+g) në masën 10 000 (dhjetë mijë) lekë në muaj, për nëpunësit/funksionarët në pozicionet:
+i. “këshilltar” në kabinetin e Kryeministrit dhe të zëvendëskryeministrit;
 ii. “drejtor departamenti”, në departamentin përgjegjës për administrimin;
 iii. “drejtor njësie” në njësinë përgjegjëse për buxhetin dhe administrimin;
 iv. “drejtor drejtorie” me funksione të nëpunësit zbatues, sipas legjislacionit të menaxhimit buxhetor e financiar;
-v. “koordinator” në njësinë e menaxhimit pranë Sekretarit të Përgjithshëm;
-vi. “drejtor drejtorie”, “përgjegjës sektori” dhe “specialist” në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave.
+v. “koordinator” në njësinë e menaxhimit pranë Sekretarit të Përgjithshëm.
 6. Në ministritë e linjës:
 i. në masën 25 000 (njëzet e pesë mijë) lekë në muaj për nëpunësit në pozicionet “Sekretar i Përgjithshëm”;
 ii. në masën 10 000 (dhjetë mijë) lekë në muaj për nëpunësit në pozicionet “drejtor drejtorie” me funksione të nëpunësit zbatues, sipas legjislacionit të menaxhimit buxhetor e financiar.
@@ -135,6 +138,10 @@ c) drejtorinë e përgjithshme përgjegjëse për analizat ekonomike;
 ç) drejtorinë e përgjithshme përgjegjëse për çështjet e punësimit;
 d) drejtorinë e përgjithshme përgjegjëse për inovacionin;
 dh) drejtorinë përgjegjëse për çështjet e strehimit.”.
+28. Në Agjencinë e Zhvillimit të Territorit:
+a) nëpunësi në pozicionin “titullar i institucionit”, në masën 70 000 (shtatëdhjetë mijë) lekë në muaj;
+b) nëpunësit në pozicionet “drejtor drejtorie” të drejtorive të përmbajtjes, në masën 60 000 (gjashtëdhjetë mijë) lekë në muaj;
+c) nëpunësit në pozicionet “përgjegjës sektori” dhe “specialist” në njësitë organizative të përmbajtjes, në masën 45 000 (dyzet e pesë mijë) lekë në muaj.
 Lidhja nr. 4
 Nëpunësit civilë dhe nëpunësit e përcaktuar që përfitojnë shtesë për kushte të vështira e të dëmshme për shëndetin në masën dhe sipas rregullave e kritereve të përcaktuara në vendimin përkatës të Këshillit të Ministrave
 Nëpunësit civilë dhe nëpunësit e institucioneve të përcaktuara në pikën 1, të kreut I, të këtij vendimi që përfitojnë shtesë për kushte të vështira e të dëmshme për shëndetin, janë si vijon:
@@ -1253,3 +1260,4 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 [3] Vendimi nr. 421, date 26.6.2024 botuar në F.Z nr. 108, date 1.7.2024 në pikën 1 dhe 2 të Kreut III të tij shprehet: “1. Për përcaktimet e pikave 1, shkronja “b”, 4, 6 dhe 7, të kreut I, të këtij vendimi, nga data e emërimit/transferimit të nëpunësve në detyrë dhe për vitin 2024 përballohen nga fondet e miratuara për secilin institucion për këtë vit;
 2. Për të gjitha përcaktimet e tjera, nga data 1 korrik 2024 dhe për vitin 2024, përballohen nga fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
 [4] Vendimi nr. 485, datë 24.7.2024 botuar në F.Z nr. 127, datë 26.7.2024 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, fillojnë nga data e emërimit/transferimit të nëpunësit në detyrë dhe për vitin 2024 përballohen nga fondet e miratuara për institucionin për këtë vit.”
+[5] Vendimi nr.502, datë 1.8.2024 botuar në F.Z. nr. 134, datë 1.8.2024 në pikën 2 të tij shprehet: “Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, fillojnë nga data 1 korrik 2024 dhe për vitin 2024 përballohen nga fondet buxhetore të miratuara, si dhe nga fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
