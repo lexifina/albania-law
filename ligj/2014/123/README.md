@@ -1,9 +1,9 @@
 # PËR URDHRIN E MJEKËVE NË REPUBLIKËN E SHQIPËRISË
 
-Official source: [Ligji nr. 123/2014](https://qbz.gov.al/api/v1/acts/11123).
+Official source: [Ligji nr. 123/2014](https://qbz.gov.al/api/v1/acts/11123); [QBZ versions](https://qbz.gov.al/api/v1/acts/11123/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2014-09-25; published 2014-10-17; in force 2014-11-01.
+Status of this text: `official consolidated version 2`, applying from 2024-08-01; after QBZ act 65735 (nr. 2).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.

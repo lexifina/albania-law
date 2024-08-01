@@ -4,6 +4,10 @@ Nr. 123/2014
 
 PËR URDHRIN E MJEKËVE NË REPUBLIKËN E SHQIPËRISË
 
+(Ndryshuar me aktin normativ nr. 2 datë 1.8.2024)
+
+(I përditësuar)
+
 	Në mbështetje të neneve 78 dhe 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 KUVENDI
@@ -26,7 +30,9 @@ Neni 2
 
 Fusha e zbatimit
 
-Ky ligj zbatohet për të gjithë mjekët që ushtrojnë profesionin në Republikën e Shqipërisë në sistemin publik apo privat.
+(ndryshuar term me aktin normativ nr. 2 datë 1.8.2024)
+
+Ky ligj zbatohet për të gjithë mjekët që ushtrojnë profesionin në Republikën e Shqipërisë në sistemin publik apo jopublik.
 
 Neni 3
 
@@ -42,13 +48,15 @@ Neni 4
 
 Misioni
 
+(ndryshuar fjalë në shkronjën b) të pikës 2 me aktin normativ nr. 2 datë 1.8.2024)
+
 	1. Misioni i Urdhrit të Mjekëve është ruajtja e standardeve të larta në formimin dhe ushtrimin e profesioneve në fushën e mjekësisë dhe mbrojtja e pacientëve dhe publikut nga kequshtrimi i profesionit të mjekut. 
 
 	2. Për të përmbushur misionin e tij, Urdhri i Mjekëve ushtron këto kompetenca:
 
 	a) jep dhe heq licencën individuale të ushtrimit të profesionit;
 
-	b) vendos standarde etike dhe deontologjike, të detyrueshme për çdo mjek dhe monitoron zbatimin e tyre gjatë ushtrimit të profesionit;
+	b) harton standarde etike dhe deontologjike, të detyrueshme për çdo mjek dhe monitoron zbatimin e tyre gjatë ushtrimit të profesionit;
 
 	c) rivlerëson periodikisht kompetencën dhe performancën profesionale të anëtarit të Urdhrit përballë standardeve të vendosura;
 
@@ -64,7 +72,9 @@ Neni 5
 
 Kriteret e anëtarësisë
 
-	1. Asnjë individ nuk mund të ushtrojë profesionin e mjekut, në sistemin e kujdesit shëndetësor publik apo privat në Republikën e Shqipërisë, pa qenë anëtar i  Urdhrit të Mjekëve dhe pa qenë i pajisur me licencën për ushtrimin individual të profesionit, të lëshuar nga ky organizëm.
+(shtuar shkronja d) e pikës 2  dhe ndryshuar term në pikën 1me aktin normativ nr. 2 datë 1.8.2024)
+
+	1. Asnjë individ nuk mund të ushtrojë profesionin e mjekut, në sistemin e kujdesit shëndetësor publik apo jopublik në Republikën e Shqipërisë, pa qenë anëtar i  Urdhrit të Mjekëve dhe pa qenë i pajisur me licencën për ushtrimin individual të profesionit, të lëshuar nga ky organizëm.
 
 	2. Janë anëtarë të Urdhrit të Mjekëve të gjithë mjekët që ushtrojnë profesionin e mjekut/mjekut specialist në Republikën e Shqipërisë dhe që përmbushin kriteret e mëposhtme: 
 
@@ -75,6 +85,8 @@ Kriteret e anëtarësisë
 	c) të mos jenë të dënuar me vendim të formës së prerë për kryerjen e një krimi apo për kryerjen e një kundërvajtjeje penale me dashje, në momentin e kërkesës për anëtarësim;
 
 	ç) të njohin dhe të zotohen me shkrim se do të zbatojnë kërkesat e legjislacionit në fuqi, statutit, Betimin e Mjekut dhe Kodin e Etikës dhe Deontologjisë Mjekësore. 
+
+d) nuk janë larguar me masën disiplinore të heqjes së licencës. 
 
 	3. Çdo mjek, shtetas i huaj, që të ushtrojë profesionin si rezident në Shqipëri, apo i atashuar në një institucion shëndetësor ku vjen periodikisht për ushtrimin e profesionit, duhet të ketë edhe këto dokumente: 
 
@@ -106,11 +118,13 @@ Neni 7
 
 Ndërprerja e anëtarësimit
 
+(ndryshuar shkronja b) e pikës 1 me aktin normativ nr. 2 datë 1.8.2024)
+
 	1. Anëtarit të Urdhrit të Mjekëve i ndërpritet anëtarësia në këto raste: 
 
 	a) kur vdes; 
 
-	b) kur i hiqet licenca individuale e ushtrimit të profesionit me vendim disiplinor të formës së prerë nga organet e Urdhrit apo të gjykatës; 
+	b) kur i hiqet licenca individuale e ushtrimit të profesionit me vendim disiplinor apo me vendim gjykate;
 
 	c) kur është duke vuajtur dënimin penal me heqje lirie;
 
@@ -122,6 +136,8 @@ Neni 8
 
 Detyrimet e anëtarëve të Urdhrit
 
+(shtuar shkronja ç) dhe d) me aktin normativ nr. 2 datë 1.8.2024)
+
 	Anëtari i Urdhrit të Mjekëve ka këto detyrime:
 
 	a) të ushtrojë profesionin dhe të ketë sjellje profesionale, në përshtatje me kërkesat dhe standardet e legjislacionit shqiptar në fushën e shëndetësisë, Kodin e Etikës dhe Deontologjisë Mjekësore dhe statutin; 
@@ -130,15 +146,51 @@ Detyrimet e anëtarëve të Urdhrit
 
 	c) të paguajë rregullisht kuotizacionet e anëtarësisë, tarifat e regjistrimit, të dhënies së të drejtës së ushtrimit të profesionit dhe shërbime të tjera administrative, në përputhje me këtë ligj dhe aktet nënligjore në zbatim të tij.
 
+ç) të mos punojë në sistemin shëndetësor jopublik më shumë se 30 për qind të orëve mujore, që punon në sistemin shëndetësor publik;
+
+d) të mos u kërkojë pacientëve, që i janë paraqitur në institucionin shëndetësor publik për trajtim dhe shërbime, në përputhje me specialitetin e tij, që t’i drejtohen institucionit shëndetësor jopublik, ku ai ushtron profesionin e tij.
+
+Neni 8/a
+
+(shtuar me aktin normativ nr. 2 datë 1.8.2024)
+
+Kushtet dhe procedura që një mjek në një institucion shëndetësor publik mund të ushtrojë profesionin në një institucion shëndetësor jopublik
+
+1. Një anëtar i Urdhrit të Mjekëve, që kërkon të ushtrojë profesionin e mjekut në një institucion shëndetësor jopublik, duhet t’i bëjë kërkesë titullarit të institucionit shëndetësor publik, ku ai është i punësuar. 
+
+2. Në kuptim të këtij ligji, termi “ushtrim i profesionit të mjekut” përfshin hapjen, pjesëmarrjen, si edhe punësimin në një institucion shëndetësor jopublik. 
+
+3. Anëtarët e Urdhrit të Mjekëve, të cilët janë punësuar në një institucion shëndetësor publik, që ka përfituar statusin e autonomisë spitalore financiare, nuk mund të bëjnë kërkesë sipas pikës 1 të këtij neni.
+
+4. Anëtarët e Urdhrit të Mjekëve, që mbajnë funksione drejtuese të çdo niveli në një institucion shëndetësor publik dhe në Universitetin Mjekësor Publik, nuk mund të mbajnë funksione drejtuese të çdo niveli në një institucion shëndetësor jopublik. 
+
+5. Titullari i institucionit vlerëson:
+
+a) ngarkesën e orëve, që mjeku ushtron në institucionin shëndetësor publik;
+
+b) mbulimin e shërbimit nga personeli tjetër mjekësor në institucionin shëndetësor publik;
+
+c) mundësinë e konfliktit të interesit.
+
+6. Në çdo rast, angazhimi i mjekut në institucionin shëndetësor jopublik nuk duhet të pengojë kryerjen e detyrës së tij/saj në institucionin shëndetësor publik, ose kjo veprimtari nuk duhet të kërkojë një angazhim mendor a fizik të tij/saj, që e bën të vështirë kryerjen e kësaj detyre, ose ushtrimi i kësaj detyre në institucionin shëndetësor jopublik mund të cenojë, në çfarëdo mënyre, imazhin e mjekut.
+
+7. Në rast se titullari vlerëson se nuk plotësohen kërkesat e pikave 5 dhe 6, të këtij neni, vendos mosmiratimin e kërkesës. Në rast se titullari vlerëson se nuk ka pengesa për pranimin e kësaj kërkese, miraton kërkesën dhe njofton ministrinë përgjegjëse për shëndetësinë. 
+
+8. Ministria përgjegjëse për shëndetësinë bën publikimin e të dhënave të këtij mjeku në një regjistër publik elektronik.
+
+9. Procedura e verifikimit dhe e shqyrtimit të kërkesës, si dhe të dhënat, që do të bëhen publike në regjistrin elektronik, formati dhe mënyra e përditësimit të tij rregullohen me udhëzim të ministrit përgjegjës për shëndetësinë.
+
 Neni 9
 
 Bashkëpunimi
+
+(ndryshuar emërtesë në pikën 3 me aktin normativ nr. 2 datë 1.8.2024)
 
 	1. Urdhri i Mjekëve, gjatë veprimtarisë së tij, bashkëpunon me ministrinë përgjegjëse për shëndetësinë dhe institucionet e saj vartëse, si dhe me ministritë, institucionet qendrore, institucionet e arsimit të lartë dhe organizma të tjerë, publikë ose jopublikë, të krijuara sipas legjislacionit në fuqi.
 
 	2. Urdhri i Mjekëve informon çdo 6 muaj ministrinë përgjegjëse për fushën e  shëndetësisë lidhur me anëtarësimet, gjykimet disiplinore dhe probleme të tjera me interes të ndërsjellë. Ky informacion publikohet edhe në faqen e internetit të Urdhrit. 
 
-	3. Inspektorati Shtetëror Shëndetësor bashkë-punon me Urdhrin e Mjekëve gjatë ushtrimit të funksionit të tij.
+	3. Inspektorati përgjegjës për shëndetësinë bashkë-punon me Urdhrin e Mjekëve gjatë ushtrimit të funksionit të tij.
 
 	4. Ministria e Shëndetësisë bashkëpunon me Urdhrin e Mjekëve për hartimin e projektligjeve dhe të dokumenteve të rëndësishme në fushën e shëndetësisë.
 
@@ -166,6 +218,8 @@ Neni 11
 
 Organet kryesore
 
+(shfuqizuar shkronja ç) e pikës 1 me aktin normativ nr. 2 datë 1.8.2024)
+
 	1. Organet kryesore të Urdhrit janë:
 
 	a) asambletë;
@@ -174,7 +228,7 @@ Organet kryesore
 
 	c) presidentët;
 
-	ç) komisionet e gjykimit disiplinor profesional.
+	ç) shfuqizuar.
 
 	2. Zgjedhjet në organet e sipërpërmendura duhet të sigurojnë përfaqësim në masën 30 për qind për çdo gjini, në përputhje me ligjin nr. 9970, datë 24.7.2008, “Për barazinë gjinore në shoqëri”.
 
@@ -198,6 +252,8 @@ Neni 13
 
 Këshilli Kombëtar
 
+(shtuar fjalë në shkronjën dh) të pikës 2 me aktin normativ nr. 2 datë 1.8.2024)
+
 	1. Këshilli Kombëtar përbëhet nga 25 anëtarë, ndër të cilët 20 janë anëtarë të zgjedhur nga Asambleja Kombëtare dhe 5 të tjerët janë, përkatësisht, Presidenti i Urdhrit të Mjekëve, zëvendësi i tij, një përfaqësues nga ministria përgjegjëse për shëndetësinë, një përfaqësues nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, një përfaqësues nga institucionet e arsimit të lartë, të caktuar nga Presidenti i Urdhrit, në bazë të kritereve të përcaktuara në statut.
 
 	2. Këshilli Kombëtar ka këto përgjegjësi:
@@ -212,7 +268,7 @@ Këshilli Kombëtar
 
 	d) mbikëqyr të gjithë veprimtarinë e organeve që varen prej tij;
 
-	dh) miraton statutin, rregulloret e Urdhrit si dhe Kodin Etik dhe Deontologjik të Mjekut;
+	dh) miraton statutin, rregulloret e Urdhrit si dhe harton Kodin Etik dhe Deontologjik të Mjekut;
 
 	e) ngre grupe pune ad hoc për kryerjen e kontrolleve për ushtrimin e profesionit të mjekut.
 
@@ -224,6 +280,8 @@ Neni 14
 
 Këshillat rajonalë
 
+(shfuqizuar shkronja c) e pikës 2 me aktin normativ nr. 2 datë 1.8.2024)
+
 	1. Këshilli rajonal përbëhet nga 5 deri në 9 anëtarë, në varësi të numrit të anëtarëve të Urdhrit të Mjekëve.
 
 	2. Këshilli rajonal ka këto funksione:
@@ -232,7 +290,7 @@ Këshillat rajonalë
 
 	b) administron buxhetin dhe të gjitha pasuritë e Urdhrit në nivel qarku;
 
-	c) cakton komisionin disiplinor në nivel qarku;
+	c) shfuqizuar;
 
 	ç) ngre grupe pune ad hoc për kryerjen e kontrolleve për ushtrimin e profesionit të mjekut në nivel qarku.
 
@@ -241,6 +299,8 @@ Këshillat rajonalë
 Neni 15
 
 Presidentët e Urdhrit
+
+(ndryshuar term në pikën 5 me aktin normativ nr. 2 datë 1.8.2024)
 
 	1. Presidentët e Urdhrit zgjidhen me votim të fshehtë nga Këshilli Kombëtar dhe ai rajonal midis jo më pak se 2 kandidaturave alternative.
 
@@ -264,7 +324,7 @@ Presidentët e Urdhrit
 
 	e) të mos jenë të dënuar me vendim të formës së prerë për kryerjen e një krimi apo për kryerjen e një kundërvajtjeje penale me dashje.
 
-	5. Funksioni i presidentëve të Urdhrit të Mjekëve është i papajtueshëm me çdo funksion tjetër administrativ, shtetëror apo politik.
+	5. Funksioni i presidentëve të Urdhrit të Mjekëve është i papajtueshëm me çdo funksion tjetër administrativ, publik apo politik.
 
 	6. Presidentët e urdhrave e përfundojnë mandatin e tyre përpara kohe në këto raste:
 
@@ -284,57 +344,65 @@ Neni 16
 
 Komisionet disiplinore
 
-	1. Pranë këshillave rajonalë dhe Këshillit Kombëtar funksionojnë komisionet disiplinore si organizma të gjykimit profesional. Komisioni disiplinor rajonal përbëhet nga 9 anëtarë të zgjedhur nga Këshilli Rajonal. Komisioni Disiplinor Kombëtar përbëhet nga 15 anëtarë të zgjedhur nga Këshilli Kombëtar. 	
+(ndryshuar me aktin normativ nr. 2 datë 1.8.2024)
 
-	2. Komisioni shqyrton ankesat e bëra nga çdo person apo institucion në organet e Urdhrit, të cilat lidhen me ushtrimin e profesionit dhe përbëjnë shkelje të Kodit të Etikës dhe Deontologjisë  Mjekësore.
+1. Procedimi disiplinor ushtrohet nga komisioni i disiplinës dhe komisioni i apelimit.
 
-	3. Komisionet disiplinore, pranë këshillave rajonalë, ushtrojnë kompetenca disiplinore të shkallës së parë. Vendimet e tyre janë të apelueshme në komisionin disiplinor të Këshillit Kombëtar, i cili ushtron kompetenca disiplinore të shkallës së dytë.
+2. Komisioni i disiplinës funksionon pranë Urdhrit të Mjekëve dhe realizon shqyrtimin e ankesave, hetimin administrativ dhe, në rast konstatimi të shkeljeve, cakton me vendim masat disiplinore.
 
-	4. Mënyra e ngritjes dhe funksionimit të komisioneve disiplinore përcaktohet në statutin dhe në rregulloren e gjykimit profesional të Urdhrit.
+3. Vendimet e komisionit të disiplinës mund të ankimohen brenda 10 (dhjetë) ditëve nga njoftimi i arsyetuar në komisionin e apelit, që ngrihet pranë ministrisë përgjegjëse për shëndetësinë. 
+
+4. Përbërja, organizimi dhe funksionimi i komisionit të disiplinës dhe të komisionit të apelimit rregullohet me vendim të Këshillit të Ministrave.
 
 Neni 17
 
 Masat disiplinore
 
-	1. Komisioni disiplinor heton dhe gjykon në bazë të fakteve e provave të administruara dhe seancës dëgjimore me anëtarin e Urdhrit, ndaj të cilit mund të merret masa disiplinore. Kur vërtetohet se anëtari ka kryer shkelje të etikës, të Kodit Etik dhe Deontologjik ose ka bërë gabime teknike, ai jep këto masa:
+(ndryshuar me aktin normativ nr. 2 datë 1.8.2024)
 
-	a) vërejtje me shkrim;
+1. Komisioni disiplinor heton e gjykon në bazë të fakteve dhe provave të administruara dhe të seancës dëgjimore me anëtarin e Urdhrit të Mjekëve, ndaj të cilit mund të merret masa disiplinore. Kur vërtetohet se anëtari ka kryer shkelje të etikës, të Kodit të Etikës dhe Deontologjisë Mjekësore ose ka bërë gabime teknike, ai jep këto masa:
 
-	b) vërejtje me paralajmërim;
+a) Vërejtje;
 
-	c) gjobë nga 15 000 (pesëmbëdhjetë mijë) lekë deri 100 000 (njëqind mijë) lekë;
+b) Pezullim për të realizuar shërbime të caktuara mjekësore, për një periudhë nga 6 (gjashtë) muaj deri në 3 (tre) vjet; 
 
-	ç) propozim për shkarkim nga funksione drejtuese në institucione shëndetësore publike dhe private.
+c) Pezullim të licencës së ushtrimit të profesionit të mjekut në tërësinë e saj, për një periudhë nga 6 (gjashtë) muaj deri në 5 (pesë) vjet; 
 
-	d) pezullim nga e drejta e zgjedhjes në organet drejtuese të Urdhrit të Mjekëve deri në 3 vjet.
+ç) Gjobë me vlerë nga 100 000 (njëqind mijë) lekë deri në 1 000 000 (një milion) lekë;
 
-	dh) përjashtim nga Urdhri i Mjekëve për një periudhë deri në 3 vjet.
+d) Heqjen e licencës për ushtrimin e profesionit të mjekut.
 
-	2. Përveç masave të parashikuara në pikën 1, të këtij neni, si masë plotësuese, komisioni ka të drejtë t’u caktojë të ndëshkuarve kryerjen e një rikualifikimi ose të studimeve plotësuese, të barabarta me 20 kredite. 
+2. Procedimi disiplinor fillon brenda 5 (pesë) vjetëve nga momenti i kryerjes së shkeljes. Në rastin kur anëtari i Urdhrit të Mjekëve ushtron detyrën në të njëjtin institucion shëndetësor, ku ka kryer shkeljen disiplinore, procedimi disiplinor fillon menjëherë nga momenti i konstatimit të saj.
 
-	3. Masat disiplinore, të përcaktuara në pikën 1, të këtij neni, mund të shlyhen në qoftë se ndaj anëtarit nuk është marrë ndonjë masë tjetër disiplinore: 
+3. Masat disiplinore, sipas pikës 1, të këtij neni, shuhen:
 
-	i) brenda 1 viti nga data e dhënies së tyre, për shkronjat “a” dhe “b”, të pikës 1, të këtij neni;
+a) për shkronjën “a”, 3 (tre) vjet pas dhënies apo përfundimit të saj;
 
-	ii) brenda 3 vjetëve nga data e dhënies së tyre, për shkronjat “ç”, “d” e “dh”, të pikës 1, të këtij neni.
+b) për shkronjat “b”, “c” dhe “ç”, 5 (pesë) vjet pas përfundimit, përkatësisht, të periudhës së pezullimit apo të pagimit të gjobës.
 
-	4. Gjoba e vendosur sipas shkronjës “c”, të pikës 1, të këtij neni, derdhet në Buxhetin e Shtetit.
+Masa disiplinore, sipas shkronjës “d”, të pikës 1, të këtij neni, nuk shuhet.
 
- Neni 18
+4. Në caktimin e masave disiplinore, komisioni mban në konsideratë llojin e shkeljes, seriozitetin e saj, pasojat e ardhura, sjelljen e anëtarit të Urdhrit të Mjekëve ndaj këtyre pasojave, si edhe nëse ka pasur më parë shkelje të tjera disiplinore.
 
- Ankimi
+Neni 18
 
-	1. Ankesat kundër vendimeve për marrjen e masave disiplinore nga komisioni disiplinor i këshillit rajonal paraqiten në komisionin disiplinor të Këshillit Kombëtar të Urdhrit të Mjekëve brenda 15 ditëve nga data e komunikimit me shkrim të vendimit. 
+Ankimimi gjyqësor
 
-	2. Komisioni disiplinor, brenda 60 ditëve nga data e marrjes së ankesës, detyrohet të japë vendimin për ankesën e paraqitur. Vendimi i komisionit disiplinor të Këshillit Kombëtar ankimohet në gjykatën kompetente për zgjidhjen e mosmarrëveshjeve administrative.
+(ndryshuar me aktin normativ nr. 2 datë 1.8.2024)
+
+1. Kundër vendimit të komisionit të apelimit lejohet ankim në gjykatën administrative kompetente brenda 10 (dhjetë) ditëve nga marrja dijeni për vendimin.
+
+2. Ankimi në gjykatë nuk pezullon zbatimin e vendimit të komisionit të apelimit.
 
 Neni 19
 
 Kodi i Etikës dhe Deontologjisë Mjekësore
 
+(ndryshuar pika 2 me aktin normativ nr. 2 datë 1.8.2024)
+
 	1. Kodi i Etikës dhe Deontologjisë Mjekësore është dokumenti themelor i profesionit mjekësor, në të cilin materializohen të gjithë parimet dhe standardet  profesionale të detyrueshme për t’u njohur e zbatuar nga çdo anëtar i Urdhrit në praktikën mjekësore, si edhe nga çdo institucion  shëndetësor.
 
-	2. Këshilli Kombëtar harton dhe miraton Kodin e Etikës dhe Deontologjisë Mjekësore.
+	2. Këshilli Kombëtar harton Kodin e Etikës dhe Deontologjisë Mjekësore dhe ia paraqet për miratim ministrit përgjegjës për shëndetësinë.
 
 KREU IV
 
@@ -359,6 +427,12 @@ Neni 22
 Shfuqizimi
 
 	Ligji nr. 8615, datë 1.6.2000, “Për Urdhrin e Mjekëve në Republikën e Shqipërisë”, i ndryshuar, si dhe çdo dispozitë tjetër, që bie në kundërshtim me këtë ligj, shfuqizohen.
+
+Dispozita tranzitore
+
+(e aktit normativ nr. 2, datë 1.8.2024)
+
+Anëtarët e Urdhrit të Mjekëve, që janë të punësuar në një institucion shëndetësor publik dhe që ushtrojnë profesionin e mjekut edhe në një institucion shëndetësor jopublik, detyrohen që, brenda dy muajve nga miratimi i udhëzimit të ministrit përgjegjës për shëndetësinë, sipas pikës 6, të nenit 8/a, të ligjit, të rregullojnë statusin e tyre, në përputhje me këtë akt normativ me fuqinë e ligjit.
 
 Neni  23
 
