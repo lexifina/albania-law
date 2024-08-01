@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për programet e kualifikimit të udhërrëfyesve turistikë dhe procedurës për akreditimin e tyre, sipas tekstit të rregullores dhe anekseve 1, 2 dhe 3, pjesë përbërëse e këtij urdhri.
