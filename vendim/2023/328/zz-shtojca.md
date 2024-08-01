@@ -1,247 +1,229 @@
 # Shtojca
 Lidhja nr. 1
-Kufijtë e pagave mujore për funksionarët e zgjedhur të organeve përfaqësuese dhe ekzekutive të njësive të vetëqeverisjes vendore
+Kufijtë e pagave mujore, për funksionarët e zgjedhur të organeve përfaqësuese dhe ekzekutive të njësive të vetëqeverisjes vendore
 a) Për Bashkinë e Tiranës:
-|Emërtimi |Kufiri minimal |Kufiri maksimal në lek në muaj |
-| |në lek/muaj | |
-|Kryetar |268 000 |318 750 |
-|Nënkryetar |205 000 |255 000 |
+|Emërtimi |Kufiri minimal në |Kufiri maksimal në |
+| |lekë në muaj |lekë në muaj |
+|Kryetar |268,000 |318,750 |
+|Nënkryetar |205,000 |270,000 |
 b) Për njësitë e vetëqeverisjes vendore me mbi 200 001 banorë:
-|Emërtimi |Kufiri minimal |Kufiri maksimal në lek në muaj |
-| |në lek/muaj | |
-|Kryetar |150 000 |185 000 |
-|Nënkryetar |120 000 |160 000 |
-c) Për njësitë e vetëqeverisjes vendore me 100 001-200 000 banorë:
-|Emërtimi |Kufiri minimal |Kufiri maksimal në lek në muaj |
-| |në lek/muaj | |
-|Kryetar |130 000 |170 000 |
-|Nënkryetar |100 000 |145 000 |
-ç) Për njësitë e vetëqeverisjes vendore me 50 001-100 000 banorë:
-|Emërtimi |Kufiri minimal |Kufiri maksimal në lek në muaj |
-| |në lek/muaj | |
-|Kryetar |90 000 |145 000 |
-|Nënkryetar |80 000 |125 000 |
-d) Për njësitë e vetëqeverisjes vendore me 20 001-50 000 banorë:
-|Emërtimi |Kufiri minimal |Kufiri maksimal në lek në muaj |
-| |në lek/muaj | |
-|Kryetar |80 000 |125 000 |
-|Nënkryetar |65 000 |105 000 |
-dh) Për njësitë e vetëqeverisjes vendore me deri në 20 000 banorë:
-|Emërtimi |Kufiri minimal |Kufiri maksimal në lek në muaj |
-| |në lek/muaj | |
-|Kryetar |65 000 |105 000 |
-|Nënkryetar |45 000 |95 000 |
-e) Për Këshillin e Qarkut:
-|Emërtimi |Kufiri minimal |Kufiri maksimal në lek në muaj |
-| |në lek/muaj | |
-|Kryetar |110 000 |170 000 |
-|Nënkryetar |80 000 |125 000 |
+|Emërtimi |Kufiri minimal në |Kufiri maksimal në |
+| |lekë në muaj |lekë në muaj |
+|Kryetar |255 000 |290,000 |
+|Nënkryetar |180,000 |225,000 |
+c) Për njësitë e vetëqeverisjes vendore me 50 001-200 000 banorë:
+|Emërtimi |Kufiri minimal në |Kufiri maksimal në |
+| |lekë në muaj |lekë në muaj |
+|Kryetar |205,000 |260,000 |
+|Nënkryetar |170,000 |205,000 |
+ç) Për njësitë e vetëqeverisjes vendore me deri në 50 000 banorë:
+|Emërtimi |Kufiri minimal në |Kufiri maksimal në |
+| |lekë në muaj |lekë në muaj |
+|Kryetar |185,000 |240,000 |
+|Nënkryetar |157,000 |185,000 |
+d) Për Këshillin e Qarkut:
+|Emërtimi |Kufiri minimal në lekë në muaj |Kufiri maksimal në |
+| | |lekë në muaj |
+|Kryetar |205,000 |260,000 |
+|Nënkryetar |170,000 |205,000 |
 Lidhja nr. 2
 Nivelet e pagave për nëpunësit civilë në Bashkinë e Tiranës
-|Klasa |Kategoria |Emërtesat e pozicioneve të punës për çdo |Grupi i diplomës |Paga për pozicion |
-| | |kategori | | |
+|Kategoria |Klasa |Emërtesat e pozicioneve të punës për çdo kategori |Grupi i diplomës |Paga për pozicion |
 |1 |2 |3 |4 |5 |
-|I |I-b |Sekretar i Përgjithshëm. |1 |Nga 79 500 |
+| |I-2 |Sekretar i Përgjithshëm |1 |Nga 105,000 |
 | | | | |deri |
-| | | | |217 000 |
-|II |II-a |Drejtor i drejtorive të përgjithshme të |1 |Nga 76 500 |
-| | |përmbajtjes (përgjegjëse për çështjet e | |deri |
-| | |zhvillimit dhe politikave që mbulon njësia e | |180 000 |
-| | |vetëqeverisjes vendore, si dhe për çështjet | | |
-| | |rregullatore). | | |
-| |II-a/1 |Drejtor i drejtorive të përgjithshme |1 |Nga 76 500 |
-| | |mbështetëse. | |deri |
-| | | | |170 000 |
-| |II-b |Drejtor i drejtorive të përmbajtjes |1 |Nga 68 000 |
-| | |(përgjegjëse për çështjet e zhvillimit dhe | |deri |
-| | |politikave që mbulon njësia e vetëqeverisjes | |155 000 |
-| | |vendore, si dhe për çështjet rregullatore). | | |
-| | |Drejtor drejtorie me funksione të nëpunësit | | |
-| | |zbatues, sipas legjislacionit të menaxhimit | | |
-| | |buxhetor e financiar. | | |
-| |II-b/1 |Drejtor i drejtorive mbështetëse. |1 |Nga 68 000 |
+|I | | | |217,000 |
+| |I-4 |Drejtor i drejtorive të përgjithshme të përmbajtjes (përgjegjëse për çështjet|1 |Nga 95,000 |
+| | |e zhvillimit dhe politikave që mbulon njësia e vetëqeverisjes vendore, si dhe| |deri |
+| | |për çështjet rregullatore) | |180,000 |
+| |I-5 |Drejtor i drejtorive të përgjithshme mbështetëse |1 |Nga 95,000 |
 | | | | |deri |
-| | | | |141 000 |
-|III |III-a |Përgjegjës sektori |1 |Nga 40 200 |
+| | | | |170,000 |
+|II |II-1 |Drejtor i drejtorive të përmbajtjes (përgjegjëse për çështjet e zhvillimit |1 |Nga 85,000 |
+| | |dhe politikave që mbulon njësia e vetëqeverisjes vendore, si dhe për çështjet| |deri |
+| | |rregullatore) | |155,000 |
+| | |Drejtor drejtorie me funksione të nëpunësit zbatues, sipas legjislacionit të | | |
+| | |menaxhimit buxhetor e financiar | | |
+| |II-2 |Drejtor i drejtorive mbështetëse |1 |Nga 85,000 |
 | | | | |deri |
-| | | | |115 000 |
-| |III-a/1 |Përgjegjës sektori |1 |Nga 37 000 |
+| | | | |141,000 |
+|III |III-1 |Përgjegjës sektori |1 |Nga 75,000 |
 | | | | |deri |
-| | | | |105 000 |
-| |III-b |Specialist |1 ose 2 |Nga 34 900 |
+| | | | |115,000 |
+| |III-2 |Përgjegjës sektori |1 |Nga 70,000 |
+| | | | |deri |
+| | | | |105,000 |
+|IV |IV-1 |Specialist |1 ose 2 |Nga 60,000 |
 | | |Inspektor | |deri |
-| | | | |80 000 |
-|IV |IV-a |Specialist |1 ose 2, ose 3 |Nga 32 700 |
+| | | | |90,000 |
+| |IV-2 |Specialist |1 ose 2, ose 3 |Nga 45,000 |
 | | | | |deri |
-| | | | |70 000 |
-| |IV-b |Specialist |1 ose 2, ose 3 |Nga 30 600 |
+| | | | |80,000 |
+| |IV-3 |Specialist |1 ose 2, ose 3 |Nga 42,000 |
 | | | | |deri |
-| | | | |60 000 |
+| | | | |70,000 |
 Lidhja nr. 3
-Nivelet e pagave për nëpunësit civilë në bashkitë mbi 200.000 banorë
-|Klasa |Kategoria |Emërtesat e pozicioneve të punës për çdo |Grupi i diplomës |Paga për pozicion |
-| | |kategori | | |
+Nivelet e pagave për nëpunësit civilë në bashkitë me mbi 200.000 banorë
+|Kategoria |Klasa |Emërtesat e pozicioneve të punës për çdo kategori |Grupi i diplomës |Paga për pozicion |
 |1 |2 |3 |4 |5 |
-|I |I-b |Sekretar i përgjithshëm |1 |Nga 79 500 |
+| |I-3 |Sekretar i Përgjithshëm |1 |Nga 100,000 |
 | | | | |deri |
-| | | | |131 700 |
-|II |II-a |Drejtor i përgjithshëm |1 |Nga 76 500 |
+|I | | | |205,000 |
+| |I-5 |Drejtor i Përgjithshëm |1 |Nga 95,000 |
 | | | | |deri |
-| | | | |112 500 |
-| |II-b |Drejtor drejtorie |1 |Nga 68 000 |
+| | | | |170,000 |
+|II |II-2 |Drejtor drejtorie |1 |Nga 85,000 |
 | | | | |deri |
-| | | | |91 000 |
-|III |III-a |Përgjegjës sektori |1 |Nga 40 200 |
+| | | | |141,000 |
+|III |III-2 |Përgjegjës sektori |1 |Nga 70,000 |
 | | | | |deri |
-| | | | |80 300 |
-| |III-a/1 |Përgjegjës sektori |1 |Nga 37 000 |
+| | | | |105,000 |
+| |III-3 |Përgjegjës sektori |1 |Nga 65,000 |
 | | | | |deri |
-| | | | |73 900 |
-| |III-b |Specialist |1 ose 2 |Nga 34 900 |
+| | | | |98,000 |
+|IV |IV-2 |Specialist |1 ose 2, ose 3 |Nga 45,000 |
 | | |Inspektor | |deri |
-| | | | |70 000 |
-|IV |IV-a |Specialist |1 ose 2, ose 3 |Nga 32 700 |
+| | | | |80,000 |
+| |IV-3 |Specialist |1 ose 2 ose 3 |Nga 42,000 |
 | | | | |deri |
-| | | | |56 000 |
-| |IV-b |Specialist |1 ose 2, ose 3 |Nga 30 600 |
+| | | | |70,000 |
+| |IV-4 |Specialist. |1 ose 2 ose 3 |Nga 40,000 |
 | | | | |deri |
-| | | | |44 000 |
+| | | | |60,000 |
 Lidhja nr. 4
 Nivelet e pagave për nëpunësit civilë në bashkitë me 100.001-200.000 banorë
-|Klasa |Kategoria |Emërtesat e pozicioneve të punës për çdo |Grupi i diplomës |Paga për pozicion |
+|Kategoria |Klasa |Emërtesat e pozicioneve të punës për çdo |Grupi i diplomës |Paga për pozicion |
 | | |kategori | | |
 |1 |2 |3 |4 |5 |
-|I |I-b |Sekretar i përgjithshëm |1 |Nga 68 000 |
+| |I-4 |Sekretar i Përgjithshëm |1 |Nga 95,000 |
 | | | | |deri |
-| | | | |112 500 |
-|II |II-a |Drejtor i përgjithshëm |1 |Nga 40 200 |
+|I | | | |180,000 |
+| |I-5 |Drejtor i Përgjithshëm |1 |Nga 95,000 |
 | | | | |deri |
-| | | | |91 000 |
-| |II-b |Drejtor drejtorie |1 |Nga 37 000 |
+| | | | |170,000 |
+|II |II-2 |Drejtor drejtorie |1 |Nga 85,000 |
 | | | | |deri |
-| | | | |80 300 |
-|III |III-a |Përgjegjës sektori |1 |Nga 35 800 |
-| | |Kryeinspektor | | |
-| | | | |deri 78 000 |
-| |III-a/1 |Përgjegjës sektori |1 |Nga 34 900 |
-| | | | | |
-| | | | |deri 73 900 |
-| |III-b |Specialist |1 ose 2 |Nga 34 900 |
+| | | | |141,000 |
+|III |III-2 |Përgjegjës sektori |1 |Nga 70,000 |
+| | |Kryeinspektor | |deri |
+| | | | |105,000 |
+| |III-3 |Përgjegjës sektori |1 |Nga 65,000 |
+| | | | |deri |
+| | | | |98,000 |
+|IV |IV-2 |Specialist |1 ose 2 ose 3 |Nga 45,000 |
 | | |Inspektor | |deri |
-| | | | |70 000 |
-|IV |IV-a |Specialist |1 ose 2 ose 3 |Nga 32 700 |
+| | | | |80,000 |
+| |IV-3 |Specialist |1 ose 2 ose 3 |Nga 42,000 |
 | | | | |deri |
-| | | | |56 000 |
-| |IV-b |Specialist |1 ose 2 ose 3 |Nga 30 600 |
+| | | | |70,000 |
+| |IV-4 |Specialist |1 ose 2 ose 3 |Nga 40,000 |
 | | | | |deri |
-| | | | |44 000 |
+| | | | |60, 000 |
 Lidhja nr. 5
-Nivelet e pagave për nëpunësit civilë në bashkitë me 50.001-100.000 banorë
-|Klasa |Kategoria |Emërtesat e pozicioneve të punës për çdo |Grupi i diplomës |Paga për pozicion |
+Nivelet e pagave për nëpunësit civilë në bashkitë me 50.001 - 100.000 banorë
+|Kategoria |Klasa |Emërtesat e pozicioneve të punës për çdo |Grupi i diplomës |Paga për pozicion |
 | | |kategori | | |
 |1 |2 |3 |4 |5 |
-|I |I-b |Sekretar i përgjithshëm |1 |Nga 40 200 |
+|I |I-4 |Sekretar i Përgjithshëm |1 |Nga 95,000 |
 | | | | |deri |
-| | | | |91 000 |
-|II |II-b |Drejtor drejtorie |1 |Nga 34 900 |
+| | | | |180,000 |
+|II |II-2 |Drejtor drejtorie |1 |Nga 85,000 |
 | | | | |deri |
-| | | | |73 900 |
-| |III-a/1 |Përgjegjës sektori |1 |Nga 34 900 |
+| | | | |141,000 |
+|III |III-2 |Përgjegjës sektori |1 |Nga 70,000 |
 | | |Kryeinspektor | |deri |
-| | | | |70 000 |
-| |III-b |Përgjegjës sektori |1 ose 2 |Nga 32 700 |
-| | |Specialist | |deri |
-| | |Inspektor | |56 000 |
-|IV |IV-a |Specialist |1 ose 2, ose 3 |Nga 30 600 |
+| | | | |105,000 |
+| |III-3 |Përgjegjës sektori |1 |Nga 65,000 |
 | | | | |deri |
-| | | | |44 000 |
-| |IV-b |Specialist |1 ose 2, ose 3 |Nga 30 600 |
+| | | | |98,000 |
+|IV |IV-2 |Specialist |1 ose 2 ose 3 |Nga 45,000 |
+| | |Inspektor | |deri |
+| | | | |80,000 |
+| |IV-3 |Specialist |1 ose 2 ose 3 |Nga 42,000 |
 | | | | |deri |
-| | | | |34 500 |
+| | | | |70,000 |
+| |IV-4 |Specialist |1 ose 2 ose 3 |Nga 40,000 |
+| | | | |deri |
+| | | | |60,000 |
 Lidhja nr. 6
-Nivelet e pagave për nëpunësit civilë në bashkitë me 20.001-50.000 banorë
-|Klasa |Kategoria |Emërtesat e pozicioneve të punës për çdo kategori|Grupi i diplomës |Paga për pozicion |
-|1 |2 |3 |4 |5 |
-|I |I-b |Sekretar i përgjithshëm |1 |Nga 37 000 |
+Nivelet e pagave për nëpunësit civilë në bashkitë me deri 50.000 banorë
+|Kategoria |Klasa |Emërtesat e pozicioneve të punës për çdo |Grupi i diplomës |Paga për pozicion |
+| | |kategori | | |
+| |1 | | |5 |
+|I |I-5 |Sekretar i Përgjithshëm |1 |Nga 95,000 |
 | | | | |deri |
-| | | | |80 000 |
-|II |II-b |Drejtor drejtorie |1 |Nga 34 900 |
+| | | | |170,000 |
+|II |II-2 |Drejtor drejtorie |1 |Nga 85,000 |
 | | | | |deri |
-| | | | |70 000 |
-|III |III-a/1 |Përgjegjës sektori |1 |Nga 32 700 |
+| | | | |141,000 |
+| |III-2 |Përgjegjës sektori |1 |Nga 70,000 |
 | | |Kryeinspektor | |deri |
-| | | | |56 000 |
-| |III-b |Përgjegjës sektori |1 ose 2 |Nga 32 700 |
+| | | | |105,000 |
+| |III-3 |Përgjegjës sektori |1 |Nga 65,000 |
 | | | | |deri |
-| | | | |49 500 |
-|IV |IV-a |Specialist |1 ose 2, ose 3 |Nga 30 600 |
+| | | | |98,000 |
+|IV |IV-3 |Specialist |1 ose 2 ose 3 |Nga 42,000 |
 | | |Inspektor | |deri |
-| | | | |41 600 |
-| |IV-b |Specialist |1 ose 2 ose 3 |Nga 30 600 |
+| | | | |70,000 |
+| |IV-4 |Specialist |1 ose 2 ose 3 |Nga 40,000 |
 | | | | |deri |
-| | | | |34 500 |
+| | | | |60,000 |
 Lidhja nr. 7
-Nivelet e pagave për nëpunësit civilë në bashkitë me deri në 20.000 banorë
-|Klasa |Kategoria |Emërtesat e pozicioneve të punës për çdo kategori |Grupi i diplomës |Paga për pozicion |
-|1 |2 |3 |4 |5 |
-|I |I-b |Sekretar i përgjithshëm |1 |Nga 34 900 |
-| | | | |deri |
-| | | | |70 000 |
-|II |II-b |Drejtor drejtorie |1 |Nga 32 700 |
-| | | | |deri |
-| | | | |56 000 |
-|III |III-a/1 |Përgjegjës sektori |1 |Nga 32 700 |
-| | | | |deri |
-| | | | |49 500 |
-| |III-b |Përgjegjës sektori |1 ose 2 |Nga 30 100 |
-| | | | |deri |
-| | | | |41 600 |
-|IV |IV-a |Specialist |1 ose 2, ose 3 |Nga 30 000 |
-| | |Inspektor | |deri |
-| | | | |37 200 |
-| |IV-b |Specialist |1 ose 2, ose 3 |Nga 30 000 |
-| | | | |deri |
-| | | | |31 700 |
-Lidhja nr. 8
-Nivelet e pagave për nëpunesit civilë në Këshillin e Qarkut
-|Klasa |Kategoria |Emërtesat e pozicioneve të punës për çdo |Grupi i diplomës |Paga për pozicion |
+Nivelet e pagave për nëpunësit civilë në Këshillin e Qarkut
+|Kategoria |Klasa |Emërtesat e pozicioneve të punës për çdo |Grupi i diplomës |Paga për pozicion |
 | | |kategori | | |
 |1 |2 |3 |4 |5 |
-|I |I-b |Sekretar i përgjithshëm |1 |Nga 68 000 |
+|I |I-5 |Sekretar i Përgjithshëm |1 |Nga 95,000 |
 | | | | |deri |
-| | | | |112 500 |
-|II |II-b |Drejtor drejtorie |1 |Nga 40 200 |
+| | | | |170,000 |
+|II |II-2 |Drejtor drejtorie |1 |Nga 85,000 |
 | | | | |deri |
-| | | | |91 000 |
-|III |III-a/1 |Përgjegjës sektori |1 |Nga 37 000 |
+| | | | |141,000 |
+|III |III-2 |Përgjegjës sektori |1 |Nga 70,000 |
 | | | | |deri |
-| | | | |80 300 |
-| |III-b |Përgjegjës sektori |1 ose 2 |Nga 34 900 |
-| | |Specialist | |deri |
-| | |Inspektor | |70 000 |
-|IV |IV-a |Specialist |1 ose 2 ose 3 |Nga 32 700 |
+| | | | |105,000 |
+| |III-3 |Përgjegjës sektori |1 |Nga 65,000 |
 | | | | |deri |
-| | | | |56 000 |
-| |IV-b |Specialist |1 ose 2 ose 3 |Nga 30 600 |
+| | | | |98,000 |
+|IV |IV-2 |Specialist. |1 ose 2 ose 3 |Nga 45,000 |
+| | |Inspektor | |deri |
+| | | | |80,000 |
+| |IV-3 |Specialist |1 ose 2 ose 3 |Nga 42,000 |
 | | | | |deri |
-| | | | |44 000 |
-Lidhja nr. 9
+| | | | |70,000 |
+| |IV-4 |Specialist |1 ose 2 ose 3 |Nga 40,000 |
+| | | | |deri |
+| | | | |60,000 |
+Lidhja nr. 8
 Kufijtë e pagave për administratorët e njësive administrative
-| |Pozicioni |Kufiri minimal i pagës |Kufiri maksimal i pagës |
-|1 |Administrator në njësitë administrative me 50.001-100.000 banorë. |76 000 |139 000 lekë |
-|2 |Administrator në njësitë administrative me 20.001-50.000 banorë. |60 000 |109 000 lekë |
-|3 |Administrator në njësitë administrative me 5.001-20.000 banorë. |50 000 |95 000 lekë |
-|4 |Administrator në njësitë administrative me më pak se 5.000 banorë. |50 000 |80 000 lekë |
-Lidhja nr. 10
-|Grupi i diplomës |Niveli i kualifikimit sipas Kornizës Shqiptare të Kualifikimeve (KSHK) |Vlera e shtesës së nivelit |
-| | |të kualifikimit (lek/muaj) |
-|1 |Niveli 7 i KSHK-së |14 000 lekë |
-| |(Master i shkencave. | |
+| | |Kufiri minimal i pagës |Kufiri maksimal i pagës |
+| |Pozicioni |në lekë në muaj |në lekë në muaj |
+|1. |Administrator në njësitë administrative me 50.001-100.000 banorë |100,000 |180,000 |
+|2. |Administrator në njësitë administrative me 20.001-50.000 banorë |80,000 |155,000 |
+|3. |Administrator në njësitë administrative me 5.001 -20.000 banorë |65,000 |145,000 |
+|4. |Administrator në njësitë administrative me më pak se 5.000 banorë|65,000 |140,000 |
+Lidhja nr. 9
+Vlera e shtesës së nivelit të kualifikimit
+|Grupi i diplomës |Niveli i kualifikimit sipas Kornizës |Vlera e shtesës së nivelit të kualifikimit |
+| |Shqiptare të Kualifikimeve (KSHK) |(lek/muaj) |
+|1 |Niveli 7 i KSHK-së |14 000 |
+| |(Master i shkencave, | |
 | |Master i arteve. | |
-| |Të barazvlefshme me to sipas legjislacionit të arsimit të lartë.) | |
-|2 |Niveli 7 i KSHK-së |12 000 lekë |
-| |(Master profesional. | |
-| |Të barazvlefshme me to sipas legjislacionit të arsimit të lartë.) | |
-|3 |Niveli 6 i KSHK-së |10 000 lekë |
-| |(Bachelor. | |
-| |Të barazvlefshme me to sipas legjislacionit të arsimit të lartë.) | |
+| |“Master profesional të përfituar në fund të | |
+| |studimeve të ciklit të dytë, me 120 kredite | |
+| |dhe me kohëzgjatje normale 2 vite | |
+| |akademike.”. | |
+| |Të barasvlershme me to sipas legjislacionit | |
+| |të arsimit te lartë.) | |
+|2 |Niveli 7 i KSHK-së |12 000 |
+| |(Master profesional | |
+| |Të barasvlershme me to sipas legjislacionit | |
+| |të arsimit të lartë.) | |
+|3 |Niveli 6 i KSHK-së |10 000 |
+| |(Bachelor | |
+| |Të barasvlershme me to sipas legjislacionit | |
+| |të arsimit të lartë.) | |
+-----------------------
+[1] Vendimi nr. 503, datë 1.8.2024 botuar në F.Z nr. 134, datë 1.8.2024 në Kreun II të tij shprehet: “II. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, fillojnë nga data 1 shtator 2024 dhe për vitin 2024 përballohen:
+1. për nivelet e pagave, sipas kufirit minimal, nga fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar;
+2. për çdo nivel page, të miratuar mbi kufirin minimal e deri në kufirin maksimal, nga të ardhurat e veta të njësive të vetëqeverisjes vendore.”
