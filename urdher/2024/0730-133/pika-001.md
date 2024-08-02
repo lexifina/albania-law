@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Agjencisë së Auditimit të Programeve të Asistencës Akredituar nga Bashkimi Evropian znj.Julia Mata, në cilësinë e zëvendësdrejtorit të përgjithshëm të kësaj Agjencie.

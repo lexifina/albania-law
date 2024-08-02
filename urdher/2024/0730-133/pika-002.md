@@ -1,0 +1,1 @@
+2. Delegimi i kompetencave fillon me hyrjen në fuqi të këtij urdhri deri në plotësimin e pozicionit të drejtorit të përgjithshëm të Agjencisë së Auditimit të Programeve të Asistencës Akredituar nga Bashkimi Evropian.
