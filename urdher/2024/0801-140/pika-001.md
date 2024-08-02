@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Agjencisë Shtetërore të Programimit Strategjik dhe Koordinimit të Ndihmës, znj. Ermelinda Durmishi, në cilësinë e drejtorit të Drejtorisë së Programimit Strategjik në këtë Agjenci.
