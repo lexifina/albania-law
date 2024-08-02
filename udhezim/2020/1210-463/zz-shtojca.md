@@ -8,17 +8,17 @@ BAZA LIGJORE
 TË DHËNAT PERSONALE QË DUHET TË JEPEN NGA SHËRBIMI I GJENDJES CIVILE NË PËRPUTHJE ME LEGJISLACIONIN PËRKATËS PËR MBROJTJEN E TË DHËNAVE PERSONALE
 MËNYRA E VËNIES NË DISPOZICION TË INFORMACIONIT TË KËRKUAR
 1
-Agjencia e Trajtimit të Kredive
-Ligji nr. 8894, datë 14.5.2002, “Për Agjencinë e Trajtimit të Kredive”, i ndryshuar , neni 10.
-Të dhënat si më poshtë:
+Agjencia për Menaxhimin e Garancive dhe Kredive të Pakthyera (AMGKP)
+Ligji nr. 55/2023 “Për Menaxhimin e Garancive dhe Kredive të Pakthyera”
+Të dhënat për personat debitorë si më poshtë:
 emër;
 mbiemër;
-numër personal;
-atësi;
-amësi;
+numri personal;
+emri i babait;
 datëlindje;
-vendbanimi (adresa).
-Në formë shkresore, sipas kërkesës.
+vendbanimi aktual dhe regjistrime të mëparshme (adresa);
+të dhënat familjare dhe të vdekjes për shtetasit që kanë ndërruar jetë;
+Në mënyrë shkresore ose elektronike.
 2
 Agjencia Shtetërore e Kadastrës
 (ASHK)
@@ -77,11 +77,15 @@ historikun e gjeneraliteteve të ndryshme gjatë viteve për periudhën kohore n
 Në formë shkresore, sipas kërkesës, si dhe në formë elektronike.
 6
 Avokati i Popullit
-Ligji nr. 8454, datë 4.2.1999, “Për Avokatin e Popullit”, i ndryshuar:
-Neni 19, “Procedura e hetimit”;
-Neni 20, “E drejta për të kërkuar informacione apo dokumente sekrete shtetërore”
+Ligji nr. 8454, datë 04.02.1999 “Për Avokatin e Popullit”, i ndryshuar;
+Neni 19 “Procedura e hetimit”;
+Neni 20 “E drejta për të kërkuar informacione apo dokumente sekrete shtetërore”;
+Ligji nr. 115/2016 “Për organet e qeverisjes së sistemit të drejtësisë”, i ndryshuar;
+- Nënseksioni II Procedura e Zgjedhjes së Anëtarëve të Këshillit të Lartë Gjyqësor nga avokatia Neni 31, “Verifikimi i plotësimit të kushteve ligjore” pikat 2, 3 dhe 4;
+- Nënseksioni II, Procedura e Zgjedhjes së Anëtarëve të Këshillit të Lartë të Prokurorisë nga Avokatia Neni 129, pikat 2, 3 dhe 4 “Verifikimi i plotësimit të kushteve ligjore”
 Të gjitha të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj, por që kanë lidhje me hetimin.
-Në formë shkresore, sipas kërkesës.
+Të gjitha të dhënat e domosdoshme, përbërësit e gjendjes civile të subjekteve, kandidatu rave që kanë shprehur pëlqimin për pozicionin e anëtarit të Këshillit të Lartë Gjyqësor dhe Anëtarit të Këshillit të Lartë të Prokurorisë, si dhe ndryshimeve në përbërësit e gjendjes civile.
+Në formë shkresore, sipas kërkesës
 7
 Avokatura e Shtetit
 Ligji nr. 10018, datë 13.11.2008, “Për Avokaturën e Shtetit”, i ndryshuar;
@@ -128,10 +132,10 @@ vendbanimi (adresa).
 të gjitha të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj, që lidhen me çështjen në shqyrtim dhe me qëllimin.
 Në formë shkresore, sipas kërkesës, si dhe në formë elektronike.
 12
-Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave
-Ligji nr. 9917, datë 19.5.2008, “Për parandalimin e pastrimit të parave dhe financimin e terrorizmit”, i ndryshuar:
-neni 21, “Organizimi i autoritetit përgjegjës”;
-neni 22, “Detyrat dhe funksionet e autoritetit përgjegjës”.
+Agjencia e Inteligjencës Financiare
+Ligji nr. 9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimin e terrorizmit”, i ndryshuar.
+neni 21 “Organizimi i autoritetit përgjegjës”;
+neni 22 “Detyrat dhe funksionet e autoritetit përgjegjës”.
 Të dhënat si më poshtë:
 emër;
 mbiemër;
@@ -143,8 +147,8 @@ vendlindje;
 gjendja civile;
 gjinia;
 lidhja me kryefamiljarin;
-përbërja familjare aktuale dhe historike.
-Në formë shkresore, sipas kërkesës, si dhe në formë elektronike.
+përbërja familjare aktuale dhe historike;
+Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse.
 13
 Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor
 Kodi Rrugor, miratuar me ligjin nr. 8378, datë 22.7.1998, i ndryshuar.
@@ -246,20 +250,43 @@ Të gjitha të dhënat personale që përmban RKGJC-ja.
 Në formë elektronike.
 20
 Komisioni Qendror i Zgjedhjeve
-Ligji nr. 10019, datë 29.12.2008, “Kodi Zgjedhor i Republikës së Shqipërisë”, i ndryshuar:
-neni 27, “Zonat e administrimit zgjedhor”;
-neni 46, “Regjistrimi i zgjedhësve në listat e zgjedhësve”;
-neni 48, “Përmbajtja dhe formati i listës së zgjedhësve”;
-neni 56, “Përgatitja dhe shpallja e listës së zgjedhësve”.
-Të dhënat si më poshtë:
+Ligji nr. 10 019, datë 29.12.2008 “Kodi Zgjedhor i Republikës së Shqipërisë”, i ndryshuar.
+neni 19 “Kompetencat e Komisionerit”;
+pika 1, germa n) dhe pika 2;
+neni 22 “Kompetencat e KQZ-së lidhur me teknologjinë në zgjedhje”;
+neni 23“Procedura për futjen e teknologjisë në zgjedhje dhe vendimmarrja”;
+neni 27 “Zonat e administrimit zgjedhor”;
+neni 45 “Përbërësit zgjedhorë”;
+neni 46 “Lista e zgjedhësve”, ndryshuar me ligjin nr.74/2012, datë 19.07.2012, ndryshuar pika 2 dhe shtuar pika 3 me ligjin nr. 101/2020, datë 23.7.2020;
+neni 48 “Përmbajtja dhe formati i listës së zgjedhësve”;
+neni 51 “Publikimi i ekstraktit të përbërësve zgjedhorë”;
+neni 56 “Përgatitja dhe shpallja e listës së zgjedhësve”;
+neni 61 “Mbikëqyrja e hartimit të listave të zgjedhësve nga KQZ-ja”, pika 2 dhe pika 3.
+Aktet nënligjore, udhëzime dhe vendime të Komisionit Qëndror të Zgjedhjeve, lidhur me verifikimin e veprimeve në bazën e të dhënave të Regjistrit Kombëtar të Gjendjes Civile. (Vendim nr.2, datë 31.10.2020 i Komisionit Rregullator).
+Ligji nr. 138/2015 “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”
+neni 2 “Ndalimi për kandidim dhe për t’u zgjedhur në një funksion të lartë publik”;
+neni 5 “Vetëdeklarimi dhe verifikimi i të dhënave”;
+neni 8 “Organet kompetente për verifikimin dhe zbatimin e ndalimeve për zgjedhjen dhe emërimin në funksione publike”;
+neni 11 “Verifikimi i kushteve të ndalimit në rastin e krijimit të vakancave në Kuvend ose në këshillin bashkiak”;
+vendimi nr. 17/2016, i Kuvendit të Shqipërisë “Për përcaktimin e rregullave të detajuara mbi zbatimin e ndalimeve të parashikuara në ligjin nr.138/2015”;
+Të dhënat e shtetasve, të cilët në datën e zgjedhjeve kanë mbushur 18 vjeç, të vlerësuara të domosdoshme për procesin zgjedhor, respektivisht si më poshtë:
 emër;
 mbiemër;
 numër personal;
-atësi;
-amësi;
+emri i babait;
+emri i nënës;
 datëlindje;
-vendbanimi (adresa).
+të dhënat për vendbanimin, adresën;
+gjininë e shtetasve votues;
+shtetësia;
+numri i qendrës së votimit;
+adresa e qendrës së votimit;
+letërnjoftimi i vlefshëm;
+foto e votuesve.
+Informacion për të gjitha të dhënat e vetëdeklaruara, të nevojshme për t’u verifikuar për subjektet, subjekte të këtij ligji, sipas formularit të vetëdeklarimit.
+Informacion për ndryshimet e kryera në përbërësit e gjendjes civile.
 Në formë shkresore, sipas kërkesës, si dhe në formë elektronike.
+Akses të plotë në RKGjC për auditët teknicienë
 21
 Ministria e Bujqësisë dhe Zhvillimit Rural
 Ligji nr. 9817, datë 22.10.2007, “Për bujqësinë dhe zhvillimin rural”.
@@ -268,10 +295,20 @@ Të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj/v
 Në formë shkresore, sipas kërkesës.
 22
 Ministria e Kulturës
-Ligj nr. 8576, datë 3. 2. 2000, “Për bibliotekat në Republikën e Shqipërisë”, i ndryshuar.
-Neni 28, “Bibliotekat publike”, pika 7.
+Drejtoria për të Drejtat e Autorit
+Ligj nr. 8576, datë 3. 2. 2000 “Për bibliotekat në Republikën e Shqipërisë”, i ndryshuar.
+neni 28 “Bibliotekat publike”, pika 7.
+Pika 8, germa a) e Vendimit të Këshillit të Ministrave nr. 651, datë 22.11.2023 “Për krijimin e bazës së të dhënave shtetërore “Regjistri i të dhënave të të drejtave të autorit dhe të drejtave të tjera të lidhura me to” dhe përcaktimin e elementeve të regjistrit të të dhënave të hapura për publikun, dokumentar elektronik”.
 Të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj/vlerësuar në përputhje me qëllimin e përcaktuar në kërkesë.
+Të dhënat si më poshtë:
+numri personal;
+atësia;
+vendlindja;
+datëlindja;
+gjinia;
+vendbanimi, adresa;
 Në formë shkresore, sipas kërkesës.
+Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse.
 23
 Ministria e Mbrojtjes, Forcat e Armatosura dhe strukturat në varësi të tyre.
 Ligji nr. 65/2014, “Për Agjencinë e Inteligjencës dhe Sigurisë së Mbrojtjes”, neni 15, pika 1.
@@ -312,11 +349,56 @@ Ligji nr. 8372, datë 9.7.1998, “Për ushtrimin e funksioneve konsullore nga p
 Të gjitha të dhënat e domosdoshme përkryerjen e funksioneve të përcaktuara me ligj dhe vlerësuar në përputhje me qëllimin.
 Në formë elektronike.
 27
-Organet e qeverisjes vendore
-Ligj nr. 10019, datë 29.12.2008, “Kodi Zgjedhor i Republikës së Shqipërisë”, i ndryshuar.
-Neni 48, “Organi që harton dhe miraton listat”.
-Të gjitha të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj dhe vlerësuar në përputhje me qëllimin e përcaktuar në kërkesë.
-Në formë elektronike.
+Organet e Qeverisjes Vendore
+Bashkitë dhe qarqet si njësi vetë-qeverisëse në Republikën e Shqipërisë
+Bashkia si njësi bazë e vetëqeverisjes vendore
+Qarku si njësi e nivelit të dytë të vetëqeverisjes vendore
+Bashkitë
+Drejtoritë e Planifikimit Urban, Projekteve dhe Kadastrës, Sektori i Kadastrës
+Ligji nr. 10 019, datë 29.12.2008 “Kodi Zgjedhor i Republikës së Shqipërisë”, i ndryshuar;
+neni 48 “Përmbajtja dhe formati i listës së zgjedhësve”.
+Ligji nr. 18/2017 “Për të drejtat dhe mbrojtjen e fëmijës”.
+Ligji nr. 139/2015 “Për vetëqeverisjen vendore”;
+neni 9 “Të drejtat dhe përgjegjësitë”, pika 1.3 ku parashikohet e drejta dhe përgjegjësia e mbledhjes së të ardhurave dhe bërjes së shpenzimeve.
+Ligji nr. 45, datë 18.07.2019 “Për mbrojtjen civile”,
+neni 59 “Kategoritë e përjashtuara” pika ç, ku parashikohen kategoritë e përjashtuara nga detyrimi për t’u angazhuar në operacione për parandalimin dhe përballimin e fatkeqësive.
+Ligji nr. 20/2020 “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”.
+Ligji nr. 20/2022 “Për përfundimin e proceseve kalimtare të kalimit të pronësisë në Republikën e Shqipërisë”.
+neni 12 “Kushtet për kalimin në pronësi pa shpërblim të tokës bujqësore”
+Vendim i Këshillit Bashkiak Tiranë nr. 126, datë 23.12.2022 “Për miratimin e platformës për aplikimet on line të fëmijëve në kopshte e cerdhe”
+Të gjitha të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj dhe vlerësuar në përputhje me qëllimin e përcaktuar në kërkesës.
+Të dhënat për fëmijët, shtetas të moshës nën 18 (tetëmbëdhjetë)vjeç, respektivisht si vijon:
+emër;
+mbiemër;
+numri personal;
+emri i babait;
+emri i nënës;
+datëlindja;
+vendlindja;
+të dhënat për vendbanimin (adresën);
+gjinia; dhe
+shtetësia;
+Të dhënat e domosdoshme lidhur me përbërësit e gjendjes civile, të konsideruar të nevojshëm në përmbushje të funksioneve të organeve të qeverisjes vendore:
+emër;
+emër i babait;
+mbiemër;
+datëlindje;
+të dhënat për vendbanimin (adresën) dhe të përbërjes familjare;
+personat kujdestarë që kujdesen për personat me aftësi të kufizuara;
+nënat me fëmijë nën 10 vjeç dhe prindërit e vetëm me fëmijë nën moshën 15 vjeç;
+personat nën 18 dhe mbi 65 vjeç. Të dhënat e përbërjes familjare më datë 01. 08. 1991 për personat që nuk kanë qenë punonjës të ish-ndërmarrjeve bujqësore, por kanë qenë banorë të fshatit ku gjendet toka bujqësore, objekt i kalimit të pronësisë.
+Për fëmijën në kopshte dhe cerdhe:
+numri personal;
+numri personal i anëtarëve të familjes së fëmijës në kopshte dhe cerdhe;
+emri i babait;
+emri i nënës;
+mbiemri;
+datëlindja;
+vendlindja;
+adresa, vendbanimi;
+Në formë shkresore, sipas kërkesës, si dhe në formë elektronike.
+Në formë shkresore, sipas kërkesës
+Në formë elektronike
 28
 Përfaqësitë diplomatike të qeverive të huaja
 Ligji nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, të ndryshuar, konkretisht nenet 8 dhe 9.
@@ -337,18 +419,28 @@ neni 129, “Detyrimi i institucioneve shtetërore dhe private për dhënie info
 Të gjitha të dhënat e domosdoshme përkryerjen e funksioneve të përcaktuara me ligj dhe vlerësuar në përputhje me qëllimin.
 Në formë elektronike.
 31
-Prefektët
-Ligji nr. 9948, datë 7.7.2008, “Për shqyrtimin e vlefshmërisë ligjore të titujve të pronësisë mbi tokën bujqësore”, pika , neni 8.
-Udhëzimi i Këshillit të Ministrave nr. 1, datë 13.1.2010, “Për mënyrën e verifikimit apo të shqyrtimit të vlefshmërisë ligjore të krijimit të titujve të pronësisë mbi tokat bujqësore të ish-NB-ve dhe të zonës së zhvillimit me përparësi turizmin”.
-Udhëzimi nr. 2, datë 13.1.2010, “Për mënyrën e verifikimit apo të shqyrtimit të vlefshmërisë ligjore të krijimit të titujve të pronësisë mbi tokën bujqësore, nga komisionet vendore të verifikimit të titujve të pronësisë, kur këtë e kërkojnë individë a institucione”.
-Të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj/akt nënligjor vlerësuar në përputhje me qëllimin e përcaktuar në kërkesë.
-Në formë shkresore, sipas kërkesës.
+Prefektët e qarqeve
+Ligji nr. 107/2016 “Për prefektin e qarkut”;
+Ligji nr. 9948, datë 07.07.2008 “Për shqyrtimin e vlefshmërisë ligjore të titujve të pronësisë mbi tokën bujqësore”, i ndryshuar, neni 8;
+Udhëzimi nr. 1, datë 13.01.2010 i Këshillit të Ministrave “Për mënyrën e verifikimit apo të shqyrtimit të vlefshmërisë ligjore të krijimit të titujve të pronësisë mbi tokat bujqësore të ish-NB dhe të zonës së zhvillimit me përparësi turizmin”
+Udhëzimi nr. 2, datë 13.01.2010 i Këshillit të Ministrave “Për mënyrën e verifikimit apo të shqyrtimit të vlefshëmërisë ligjore të krijimit të titujve të pronësisë mbi tokën bujqësore, nga komisionet vendore të verifikimit të titujve të pronësisë, kur këtë e kërkojnë individë a institucione”.
+Të gjitha të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj/akt nënligjor, vlerësuar në përputhje me qëllimin e përcaktuar në kërkesë.
+Në formë shkresore, sipas kërkesës, si dhe në formë elektronike.
 32
-Prokuroria e Përgjithshme
+Prokuroria e Përgjithshme dhe organet e tjera të prokurorisë sipas organizimit të tyre
+Ligji nr. 97/2016 “Për organizimin dhe funksionimin e Prokurorisë në Republikën e Shqipërisë”.
 Kodi i Procedurës Penale, i ndryshuar
-Neni 2, “Respektimi normave procedurale”
-Të gjitha të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj, që lidhen me çështjen në shqyrtim dhe me qëllimin.
-Elektronikisht, nëpërmjet ndërfaqes elektronike, të miratuar midis DPGJC- së dhe Prokurorisë, në zbatim të ligjit nr. 10325, datë 23.9. 2010 “Për bazat e të dhënave shtetërore”.
+neni 2 “Respektimi i normave procedurale”.
+Ligji nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”;
+neni 2 “Ndalimi për kandidim dhe për t’u zgjedhur në një funksion të lartë publik”;
+neni 5 “Vetëdeklarimi dhe verifikimi i të dhënave”;
+neni 8 “Organet kompetente për verifikimin dhe zbatimin e ndalimeve për zgjedhjen dhe emërimin në funksione publike”;
+neni 11 “Verifikimi i kushteve të ndalimit në rastin e krijimit të vakancave në Kuvend ose në këshillin bashkiak”;
+Vendimi nr. 17/2016, i Kuvendit të Shqipërisë “Për përcaktimin e rregullave të detajuara mbi zbatimin e ndalimeve të parashikuara në ligjin nr. 138/2015”.
+Të gjitha të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj, që lidhen me cështjen në shqyrtim dhe qëllimin.
+Informacion për të gjitha të dhënat e vetëdeklaruara, të nevojshme për t’u verifikuar për subjektet, subjekte të këtij ligji, sipas formularit të vetëdeklarimit.
+Informacion për ndryshimet e kryera në përbërësit e gjendjes civile.
+Në formë shkresore, sipas kërkesës, si dhe në formë elektronike.
 33
 Shërbimi i Provës
 Ligji nr. 78/2020, “Për organizimin dhe funksionimin e Shërbimit të Provës”, neni 31
@@ -406,6 +498,224 @@ Në formë elektronike
 Ligji nr. 82/2021, “Për përkthimin zyrtar dhe profesionin e përkthyesit zyrtar”, neni 10, pika 3
 Të dhëna referenciare të gjendjes civile, si numri personal i identifikimit, emri, mbiemri, atësia, vendlindja, datëlindja, gjinia, bashkia, adresa.
 Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse
+38.
+Këshilli i Lartë Gjyqësor Departamenti i Administrimit të Gjykatave dhe Teknologjisë së Informacionit
+“Kushtetuta e Republikës së Shqipërisë”, neni 135, pika 4.
+Ligji nr. 76/2016 “Për disa shtesa dhe ndryshime në ligjin nr. 8417, datë 21.10.1998, “Kushtetuta e Republikës së Shqipërisë”, të ndryshuar;
+Ligji nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”;
+Të dhënat, përbërësit e gjendjes civile të shtetasve, respektivisht si vijon:
+emri;
+mbiemri;
+emri i babait;
+emri i nënës;
+numri personal;
+datëlindja;
+vendlindja;
+vendbanimi (adresa);
+lidhja me kryefamiljarin; si dhe
+të dhënat për vendbanimin e shtetasve me banim jashtë territorit të Republikës së Shqipërisë;
+certifikatë personale;
+certifikatë familjare;
+certifikatë vdekje;
+certifikatë nga akti i lindjes.
+certifikatë nga akti i martesës;
+Në formë shkresore, sipas kërkesës, në formë elektronike për kërkesat që lidhen me vënien në dispozicion të dokumenteve, si dhe nëpërmjet identifikimit elektronik në RKGjC.
+Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse.
+39.
+Byroja Kombëtare e Hetimit. Njësia e Posaçme Hetimore
+Ligji nr. 95/2016 “Për organizimin dhe funksionimin e institucioneve për të luftuar korrupsionin dhe krimin e organizuar”,
+neni 43, pika 2 dhe 3.
+Të gjitha të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj, që lidhen me cështjen në shqyrtim dhe me qëllimin.
+Në formë elektronike, si dhe nëpërmjet identifikimit elektronik në RKGjC.
+40.
+Gjykata Kushtetuese Kolegji i Posacëm i Apelimit
+Neni 179/b i Kushtetutës së Republikës së Shqipërisë Aneksi i Kushtetutës për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve, sipas nenit Ç, pika 3.
+Ligji nr. 84/2016 “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”;
+neni 45, kreu VII “Rregullat e përgjithshme të hetimit të ceshtjes”;
+neni 50, pika 1 dhe neni 53.
+Tëgjitha të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj që lidhen me ceshtjen në shqyrtim dhe me qëllimin.
+Për çështje të rivlerësimit dokumentet, respektivisht si vijon:
+certifikatë personale;
+certifikatë familjare;
+certifikatë martese;
+certifikatë vdekje.
+Për subjektet e rivlerësimit dhe denoncuesit, të dhënat, përbërësit e gjendjes civile si vijon:
+emër;
+mbiemër;
+emri i babait;
+emri i nënës;
+datëlindje;
+numër personal;
+vendbanimi (adresa);
+Në formë elektronike, në formë shkresore, sipas kërkesës, si dhe nëpërmjet identifikimit elektronik në RKGjC.
+41.
+Komisioni i Pavarur i Kualifikimit
+Neni 179/b të Kushtetutës, pikat 1 dhe 2
+Aneksi Rivlerësimi kalimtar i gjyqtarëve dhe prokurorëve neni A dhe Ç;
+Ligji nr. 84/2016 “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, si dhe Shtojca 1, Shtojca 2 dhe Shtojca 3.
+neni 3 “Përkufizime”;
+neni 30 “Objekti i vlerësimit të pasurisë”;
+neni 31 “Fillimi i procedurës së vlerësimit të pasurisë”;
+neni 32, “Deklarimi i pasurisë”;
+neni 45 “Rregullat e përgjithshme të hetimit të cështjes”;
+neni 49, “Mjetet për kërkimin e provës”;
+neni 50 “Aksesi në informacion”;
+Tëgjitha të dhënat e domosdoshme për kryerjen e funksioneve të përcaktuara me ligj që lidhen me procesin e rivlerësimit kalimtar të subjekteve të rivlerësimit, gjyqtarëve dhe prokurorëve, sipas shtojcës 3 të Deklaratës për Kontrollin e Figurës:
+përbërësit e gjendjes civile dhe të dhënat familjare sipas historikut dhe ndryshimet në përbërësit e gjendjes civile;
+të dhënat e vendbanimit sipas historikut të regjistrimit;
+të dhënat për dokumentin e identitetit, letërnjoftimin;
+përbërja familjare e subjektit të verifikimit;
+ndryshimet në përbërjen familjare për periudhat e kërkuara;
+të dhënat për vendbanimin (adresën);
+të dhëna për lidhjen e martesës, etj.
+Në formë shkresore, sipas kërkesës, në formë elektronike, si dhe nëpërmjet identifikimit elektronik në RKGjC.
+42.
+Agjencia e Mbikëqyrjes Policore
+Vendimi nr. 188, datë 04.03.2015 i Këshillit të Ministrave “Për miratimin e rregullave për sigurimin e personelit”.
+Urdhri nr. 272, datë 28.05.2015 i Ministrit të Punëve të Brendshme “Për procedurat e sigurimit të personelit në Ministrinë e Punëve të Brendshme”.
+neni 3, pika 3 “autoritetet verifikuese”;
+neni 12, gërmat “a” dhe “b”, kushtet për fillimin e verifikimit të sigurisë.
+Të dhënat, përbërësit e gjendjes civile të shtetasve, të domosdoshme për kryerjen e funksioneve të përcaktuara me ligj dhe vlerësuar në përputhje me qëllimin, respektivisht si vijon:
+emri;
+mbiemri, (mbiemri para / pas martese i shtetasve të gjinive femër / mashkull);
+emri i babait;
+emri i nënës;
+numri personal;
+datëlindja;
+vendlindja;
+të dhënat për vendbanimin (adresën);
+statusi i gjendjes civile;
+historiku i plotë i regjistrimit dhe ndryshimet në përbërësit e gjendjes civile, përfshirë dhe informacionin për datën kur janë kryer këto ndryshime;
+kombësia sipas të dhënave arkivore të gjendjes civile, në rastet kur ky përbërës rezulton i dokumentuar;
+Në formë elektronike, si dhe nëpërmjet identifikimit elektronik në RKGjC.
+43.
+Prokuroria e Posaçme Kundër Korrupsionit dhe Krimit të Organizuar (SPAK)
+Ligji nr. 95/2016 “Për organizimin dhe funksionimin e institucioneve për të luftuar korrupsionin dhe krimin e organizuar”,
+neni 28, pika 3.
+Të gjitha të dhënat e domosdoshmepërkryerjen e funksioneve të përcaktuara me ligj, por që kanë lidhje me objektin e hetimit.
+Të gjithë përbërësit e gjendjes civile të shtetasve.
+Dokumentet:
+certifikatë personale;
+certifikatë familjare;
+certifikatë martese;
+certifikatë vdekje;
+certifikatë historike e përbërjes familjare;
+Në formë shkresore, sipas kërkesës, në formë elektronike, si dhe nëpërmjet identifikimit elektronik në RKGjC.
+44.
+Komisioneri për Mbrojtjen nga Diskriminimi
+Ligji nr.10 221, datë 4.2.2010 “Për mbrojtjen nga diskriminimi”, neni 32, pika 2.
+Të gjitha të dhënat e domosdoshme lidhur me përbërësit e gjendjes civile të shtetasve, që konsiderohen të nevojshëm përkryerjen e funksioneve të përcaktuara me ligj, në ushtrimin e kompetencave të këtij institucioni, të vlerësuar në përputhje me qëllimin e përcaktuar në kërkesë, që kanë lidhje me hetimin administrativ.
+Në formë shkresore, sipas kërkesës, si dhe elektronikisht.
+45.
+Agjencia e Trajtimit të Pronave
+Ligji nr. 133/2015 “Për trajtimin e pronës dhe përfundimin e procesit të kompensimit të pronave”, të ndryshuar, neni 36, pika 1.
+Të dhënat si më poshtë:
+vendbanimi (adresa).
+Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse.
+46.
+Instituti i Shëndetit Publik
+Ligji nr. 15/2016 “Për parandalimin dhe luftimin e infeksioneve dhe sëmundjeve infektive”, i ndryshuar, neni 28;
+Ligji nr.10 138, datë 11.5.2009 “Për shëndetin publik”, neni 3;
+Të dhënat si më poshtë:
+për fëmijën: numri personal, emër, mbiemër, datëlindje;
+për nënën: numri personal, emri dhe mbiemri;
+për babain: numri personal, emri dhe mbiemri, në rastet kur është njohur atësia e fëmijës;
+Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse.
+47.
+Qendra e Shërbimeve Arsimore
+Drejtoria e Shërbimeve Arsimore
+Ligji nr. 69/2012 “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, i ndryshuar;
+Kreu XII
+Shkeljet e kërkesave ligjore në fushën e arsimit parauniversitar
+neni 66
+Mbledhja dhe përpunimi i të dhënave personale
+neni 67
+Mbrojtja e të dhënave personale
+Udhëzimi i Ministrit të Arsimit dhe Sportit nr. 12, datë 27.07.2015 “Për mbledhjen, përpunimin dhe mbrojtjen e të dhënave personale të punonjësve arsimorë dhe nxënësve në institucionet arsimore të sistemit parauniversitar, përmbajtjen e dosjeve të tyre personale, si dhe për mbledhjen, përpunimin dhe mbrojtjen e të dhënave kontaktuese të prindërve/kujdestarëve ligjorë të nxënësve”, i ndryshuar
+Të dhënat për nxënësin:
+numri personal;
+emër;
+mbiemër;
+emri i babait;
+shtetësi;
+datëlindje;
+vendlindje;
+adresa, të dhënat për vendbanimin;
+gjinia;
+informacion mbi kujdestarin ligjor;
+Të dhënat për punonjësin arsimor:
+numri personal;
+emër;
+mbiemër;
+emri i babait;
+shtetësi;
+datëlindje;
+vendlindje;
+adresa, të dhënat për vendbanimin;
+gjinia;
+Të dhënat për prindin/kujdestarin ligjor:
+numri personal;
+emër;
+mbiemër;
+shtetësi;
+datëlindje;
+adresa, të dhënat për vendbanimin;
+gjinia;
+Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse.
+48.
+Shkolla e Magjistraturës
+Sektori i Shërbimeve dhe Burimeve Njerëzore
+Ligji nr. 115/2016 “Për organet e qeverisjes së sistemit të drejtësisë”, i ndryshuar;
+Neni 262
+Regjistrimi i konkurrentëve
+Ligji nr. 96/2016 “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, i ndryshuar;
+neni 29 “Thirrja për kandidatura”
+neni 30 “Kandidimi dhe vlerësimi paraprak i kandidatëve”
+Të dhënat personale
+emër;
+mbiemër;
+numër personal;
+emri i babait;
+datëlindje;
+vendlindje;
+vendbanimi (adresa);
+Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse.
+49.
+Qendra Kombëtare e Biznesit (QKB)
+Ligji nr. 9723, datë 03.05.2007 “Për regjistrimin e biznesit”, i ndryshuar;
+Ligji nr. 131/2015 “Për Qendrën Kombëtare të Biznesit”, i ndryshuar;
+Të dhënat personale
+emër;
+mbiemër;
+numër personal;
+datëlindje;
+vendbanimi (adresa);
+Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse.
+50.
+Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor (FSDKSH)
+Ligji nr. 10 383, datë 24.2.2011 “Për sigurimin e detyrueshëm të kujdesit shëndetësor në Republikën e Shqipërisë”, i ndryshuar”
+neni 5
+Personat e siguruar
+neni 27
+Regjistrimi dhe identifikimi i personave të siguruar
+Të dhënat personale të personave që kanë ndërruar jetë:
+zyra e gjendjes civile në bashki/njësi administrative;
+emër;
+mbiemër;
+numër personal;
+datëlindje;vendlindje;
+emri i babait;
+emri i nënës;
+gjinia;
+gjendja civile;
+shtetësia;
+vendbanimi (adresa);
+data e vdekjes;
+vendi i vdekjes;
+shteti i vdekjes;
+shkaku i vdekjes;
+data e ç’regjistrimit;
+Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse.
 ANEKS II
 Protokolluar me nr. ________ , datë ________.
 FORMULAR
