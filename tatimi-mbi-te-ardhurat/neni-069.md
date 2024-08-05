@@ -10,7 +10,7 @@ dh) për:
 i. individët tregtarë;
 ii. të vetëpunësuarit, si dhe;
 iii. entitetet:
-me të ardhura bruto deri 14 milionë lekë në vit, norma e tatimit mbi të ardhurat 0% do të aplikohet deri më 31 dhjetor 2029. Norma e tatimit 0% nuk aplikohet për tatimpaguesit e përcaktuar në nënndarjet “ii” dhe “iii” të kësaj shkronje, të cilët furnizojnë shërbime profesionale. Lista analitike e shërbimeve profesionale përcaktohet me vendim të Këshillit të Ministrave në përputhje me legjislacionin në fuqi rregullues lidhur me këto shërbime profesionale.
+me të ardhura bruto deri 14 milionë lekë në vit, norma e tatimit mbi të ardhurat 0% do të aplikohet deri më 31 dhjetor 2029.
 e) Për të gjithë tatimpaguesit, të regjistruar para datës 31 dhjetor 2023, të cilët janë subjekt i tatimit të thjeshtuar mbi fitimin apo tatimit mbi fitimin, si edhe për ata që regjistrohen për herë të parë në vitin pasardhës, për efekt të periudhës tatimore 2024, do të përdoren formularët dhe përgjegjësitë tatimore, sipas ligjit nr. 9632, datë 30.10.2006, “Për sistemin e taksave vendore”, të ndryshuar, si dhe ligjit nr. 8438, datë 28.12.1998, “Për tatimin mbi të ardhurat”, të ndryshuar;
 ë) Parapagimet, sipas nenit 63, të këtij ligji, për kategoritë e personave, të cilët furnizojnë shërbime profesionale dhe janë subjekt i tatimit mbi të ardhurat nga data 1 janar 2024, përjashtimisht për vitin 2024, llogariten bazuar në deklaratat e tatimit të thjeshtuar mbi fitimin dhe tatimit mbi fitimin të viteve paraardhëse, duke zbatuar normat tatimore të parashikuara në këtë ligj;
 f) Deklarata e tatimit të mbajtur në burim, sipas nenit 57, të këtij ligji, do të zbatohet duke filluar nga periudha tatimore janar 2025. Për vitin 2024 do të përdoret deklarata sipas modelit ekzistues.
