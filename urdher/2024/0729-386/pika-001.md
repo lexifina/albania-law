@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të drejtorit të përgjithshëm të Drejtorisë së Ndihmës Juridike Falas, z. Ergys Qirici, te drejtori i Drejtorisë së Financës dhe Shërbimeve Mbështetëse, për periudhën 5 gusht 2024-18 gusht 2024.
