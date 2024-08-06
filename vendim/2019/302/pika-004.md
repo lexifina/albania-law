@@ -1,1 +1,1 @@
-4. Subjektet/individët, të cilët kërkojnë të ushtrojnë veprimtarinë kërkimore-shkencore, paraqesin kërkesën me shkrim për miratim pranë Agjencisë Kombëtare të Zonave të Mbrojtura (AKZM).
+4. Subjektet/individët, të cilët kërkojnë të ushtrojnë veprimtarinë kërkimore-shkencore, dërgojnë elektronikisht nëpërmjet portalit unik qeveritar “e-Albania” kërkesën për miratim pranë Agjencisë Kombëtare të Zonave të Mbrojtura (AKZM).
