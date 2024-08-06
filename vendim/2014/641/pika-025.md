@@ -1,4 +1,4 @@
-25. Personi, që kërkon të pajiset me autorizim për kalimin transit të mbetjeve jo të rrezikshme dhe mbetjeve inerte nëpër territorin e Republikës së Shqipërisë, përgatit dhe dorëzon në ministrinë përgjegjëse për mjedisin dokumentet e mëposhtme:
+25. Personi, që kërkon të pajiset me autorizim për kalimin transit të mbetjeve jo të rrezikshme dhe mbetjeve inerte nëpër territorin e Republikës së Shqipërisë, dërgon elektronikisht nëpërmjet portalit unik qeveritar “e-Albania në ministrinë përgjegjëse për mjedisin dokumentet e mëposhtme:
 a) Kërkesën, në të cilën shprehen dhe përcaktohen qartë:
 i. të dhënat e personit fizik/tregtarit apo të personit juridik;
 ii. një përshkrim i shkurtër i mbetjeve që do të tranzitohen, ku të përcaktohen lloji mbetjeve, sipas kodit tarifor, dhe sasia, e cila duhet të jetë në përputhje me sasinë e përcaktuar në kontratën e lidhur ndërmjet palëve dhe me pikën 3 të formularit, sipas aneksit 3, bashkëlidhur këtij vendimi;

@@ -1,4 +1,4 @@
-16. Për t’u pajisur me autorizim për eksportin e mbetjeve sipas përcaktimit në pikën 15, të këtij vendimi, personi përgatit dhe dorëzon në ministrinë përgjegjëse për mjedisin dokumentet e mëposhtme:
+16. Për t’u pajisur me autorizim për eksportin e mbetjeve sipas përcaktimit në pikën 15, të këtij vendimi, personi dërgon elektronikisht nëpërmjet portalit unik qeveritar “e-Albania në ministrinë përgjegjëse për mjedisin dokumentet e mëposhtme:
 a) Kërkesën, në të cilën shprehen dhe përcaktohen qartë:
 i. të dhënat e personit fizik/tregtarit apo të personit juridik;
 ii. një përshkrim i mbetjeve që do të eksportohen ku të përcaktohen lloji i mbetjeve, sipas kodit tarifor, dhe sasia e mbetjeve, e cila duhet të jetë në përputhje me sasinë dhe llojin e përcaktuar në kontratën e lidhur ndërmjet palëve dhe me pikën 3 të formularit, sipas aneksit 3, bashkëlidhur këtij vendimi;
