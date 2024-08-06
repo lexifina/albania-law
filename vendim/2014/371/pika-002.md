@@ -1,1 +1,1 @@
-2. Mbetje të rrezikshme klasifikohen mbetjet e shënuara me shenjën yll “*”, të miratuara me vendimin nr. 99, datë 18.2.2005, të Këshillit të Ministrave, “Për miratimin e Katalogut Shqiptar të Mbetjeve”.
+2. Mbetje të rrezikshme klasifikohen mbetjet e shënuara me shenjën yll “*”, të miratuara me vendimin nr. 402, datë 30.6.2021, të Këshillit të Ministrave, “Për miratimin e Katalogut të Mbetjeve”.

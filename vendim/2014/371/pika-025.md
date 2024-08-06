@@ -1,1 +1,2 @@
 25. Mospërmbushja e detyrimeve të përcaktuara në këtë vendim përbën kundërvajtje administrative dhe dënohet sipas përcaktimeve të nenit 62 të ligjit nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar.
+25/1. Procedura e aplikimit sipas këtij vendimi, nëpërmjet portalit unik qeveritar e-Albania, zbatohet në momentin që sistemi i integruar mjedisor do të implementohet dhe do të jetë funksional. Deri në funksionimin e tij, dokumenti i dorëzimit depozitohet pranë Agjencisë Kombëtare të Mjedisit.
