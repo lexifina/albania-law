@@ -1,1 +1,5 @@
-1. Agjencia e Zhvillimit të Territorit, në vijim Agjencia, organizohet dhe funksionon në përputhje me këtë vendim dhe me ligjin nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, të ndryshuar. Agjencia është person juridik publik, buxhetor, në varësi të Kryeministrit, me seli në Tiranë.
+1. Agjencia e Zhvillimit të Territorit (Agjencia) është person juridik publik me vetëfinancim, në varësi të Kryeministrit, e cila ka përgjegjësi zhvillimin e territorit dhe kryen funksionet e sekretariatit teknik të Këshillit Kombëtar të Territorit dhe Ujit.
+Burimet e financimit për Agjencinë janë:
+a) të ardhurat e krijuara nga vetë Agjencia;
+b) buxheti i shtetit;
+c) burime të tjera të ligjshme.
