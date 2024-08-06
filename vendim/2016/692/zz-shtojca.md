@@ -44,60 +44,42 @@ c) gjuhën ose gjuhët e huaja në të cilën udhërrëfyesi do të ushtrojë ak
 ç) Shfuqizur.
 3. Kërkesa duhet të shoqërohet me dokumentacionin, si më poshtë vijon:
 a) Shfuqizuar;
-b) dëshminë e penalitetit, të lëshuar jo më herët se tre muaj përpara datës së aplikimit, e cila mund të paraqitet origjinale ose fotokopje e noterizuar;
+b) Shfuqizuar;
 c) fotokopjen e noterizuar të dokumentit të përfundimit të studimeve të arsimit të mesëm ose të lartë;
 ç) fotokopjen e noterizuar të dokumentit që vërteton përfundimin me sukses të programit të kualifikimit të udhërrëfyesit turistik, sipas kategorisë përkatëse;
 d) dokumentin që vërteton njohjen dhe aftësitë komunikuese shumë të mira në gjuhën e huaj, në të cilën do të ofrojë shërbimet e tij udhërrëfyesi turistik. Niveli i njohjes së gjuhës së huaj duhet të jetë të paktën i nivelit B2, sipas Kuadrit të Përbashkët Evropian të Referencave për Gjuhët.
-dh) vërtetimin për pagesën e tarifës së aplikimit, sipas pikës 1, të nenit 11.
+dh) Shfuqizuar;
 e) fotografinë për dokument të aplikuesit në format elektronik.
 4. Për shtetasit e huaj, përveç dokumenteve të parashikuara në pikën 2, të këtij neni, kërkesa duhet të shoqërohet edhe me dokumentacionin e mëposhtëm:
 a) leje qëndrimi e shtetasit të huaj në Republikën e Shqipërisë, e vlefshme për jo më pak se një vit;
 b) dokument (certifikatë/dëshmi) që vërteton njohuritë bazë të gjuhës shqipe, të lëshuar nga një institucion i certifikuar nga ministria përgjegjëse për arsimin.
+4/1. Komisioni është përgjegjës për sigurimin e vërtetimit se aplikuesi nuk është dënuar me vendim gjykate të formës së prerë.
 5. Në qoftë se kërkesa e personit për pajisjen me certifikatë nuk është në përputhje me sa parashikohet në pikat 1 deri në 4, të këtij neni, ministria përgjegjëse për turizmin, brenda 7 ditëve nga data e regjistrimit të kërkesës, njofton aplikuesin, me shkrim, për plotësimin e dokumentacionit ose korrigjimin e pasaktësive dhe i cakton atij një afat për paraqitjen e dokumentacionit përkatës.
 Neni 6
 Vendimi i komisionit
-1. Komisioni, brenda 45 ditëve nga data e regjistrimit të kërkesës së aplikuesit ose nga data e paraqitjes së dokumentacionit të plotë, sipas pikës 5, të nenit 5, e shqyrton atë dhe merr vendim për lëshimin ose jo të certifikatës së udhërrëfyesit turistik.
+1. Komisioni, brenda 25 (njëzet e pesë) ditëve nga data e regjistrimit të kërkesës së aplikuesit ose nga data e paraqitjes së dokumentacionit të plotë, sipas pikës 5, të nenit 5, e shqyrton atë dhe merr vendim për lëshimin ose jo të certifikatës së udhërrëfyesit turistik.
 2. Në rast se komisioni refuzon kërkesën për pajisje me certifikatë, vendimi duhet të jetë i arsyetuar.
 3. Kundër vendimit të komisionit, i cili refuzon kërkesën për pajisje me certifikatë, mund të paraqitet ankim në gjykatë sipas legjislacionit në fuqi.
 Neni 7
 Lëshimi i certifikatës dhe i dokumentit identifikues
 1. Brenda 5 ditëve, nga data e vendimit të komisionit, udhërrëfyesit i lëshohet certifikata dhe dokumenti identifikues për kategorinë dhe gjuhën përkatëse.
-2. Certifikata dhe dokumenti identifikues nënshkruhen nga ministri përgjegjës për turizmin.
+2. Certifikata dhe dokumenti identifikues gjenerohen elektronikisht me vulë elektronike të ministrisë përgjegjëse për turizmin.
 3. Certifikata dhe dokumenti identifikues përmbajnë të dhënat e mëposhtme:
-a) emrin, mbiemrin, datën dhe vendin e lindjes e adresën e udhërrëfyesit;
+a) emrin, mbiemrin, datën dhe vendin e lindjes;
 b) kategorinë e udhërrëfyesit;
 c) territorin ku do të ushtrojë veprimtarinë udhërrëfyesi (në rastin e udhërrëfyesit turistik lokal);
 ç) gjuhën në të cilën ai do të ushtrojë veprimtarinë;
 d) datën e lëshimit të certifikatës;
-dh) afatin e vlefshmërisë së certifikatës.
+dh) Shfuqizuar.
 4. Me kërkesë të udhërrëfyesit dhe dorëzimin e dokumentacionit provues, në rast ndryshimi të të dhënave të adresës së udhërrëfyesit ose gjuhës në të cilën ai do të ushtrojë veprimtarinë e tij, udhërrëfyesit i jepen certifikata dhe dokumenti identifikues me të dhëna të përditësuara, brenda 15 ditëve nga data e regjistrimit të kërkesës.
 Neni 8
 Vlefshmëria e certifikatës
-Afati i vlefshmërisë së certifikatës së udhërrëfyesit është 2 vjet, nga data e lëshimit të saj, me të drejtë rinovimi.
 Neni 9
 Kriteret për rinovimin e certifikatës
-1. Për rinovimin e certifikatës së udhërrëfyesit turistik, udhërrëfyesi duhet të plotësojë kushtet e mëposhtme:
-a) të plotësojë kushtin e parashikuar në shkronjën “c”, të pikës 1, të nenit 4;
-b) të ketë ushtruar veprimtarinë e tij në përputhje me dispozitat e kësaj rregulloreje;
-c) të ketë marrë kreditet e nevojshme për rinovim, në bazë të sistemit të krediteve të programit për edukimin profesional në vazhdim, sipas ligjit nr. 93/2015, “Për turizmin”.
 Neni 10
 Rinovimi i certifikatës
-1. Udhërrëfyesi, jo më vonë se 30 (tridhjetë) ditë para përfundimit të afatit të vlefshmërisë së certifikatës së tij, aplikon nëpërmjet formularit të aplikimit, me të njëjtat të dhëna, të parashikuara në pikën 2, të nenit 5.
-2. Kërkesa duhet të shoqërohet me dokumentacionin, si më poshtë vijon:
-a) Shfuqizuar;
-b) fotokopje e certifikatës së vlefshme të udhërrëfyesit;
-c) fotokopje e dokumentacionit që provon marrjen e krediteve të nevojshme për rinovim, sipas kërkesave të ligjit nr. 93/2015, “Për turizmin”;
-ç) dëshminë e penalitetit, të lëshuar jo më herët se tre muaj përpara datës së aplikimit, dhe mund të paraqitet origjinale ose fotokopje e noterizuar;
-d) vërtetimi për pagesën e tarifës së aplikimit, sipas pikës 1, të nenit 11;
-dh) Fotografinë për dokument të aplikuesit në format elektronik.
-3. Për shtetasit e huaj, përveç dokumenteve të parashikuara në pikën 2, të këtij neni, kërkesa duhet të shoqërohet edhe me lejen e qëndrimit të shtetasit të huaj në Republikën e Shqipërisë, të rinovuar.
-4. Komisioni, brenda 20 ditëve nga data e regjistrimit të kërkesës së udhërrëfyesit, e shqyrton atë dhe merr vendim për rinovimin ose jo të certifikatës së udhërrëfyesit turistik.
-5. Në rast se komisioni refuzon kërkesën për rinovimin e certifikatës, vendimi duhet të jetë i arsyetuar.
-6. Kundër vendimit të komisionit, i cili refuzon kërkesën për rinovimin e certifikatës, mund të paraqitet ankim në gjykatë sipas legjislacionit në fuqi.
 Neni 11
 Tarifat e aplikimit për certifikatën e udhërrëfyesit
-1. Aplikanti, për aplikimin për lëshimin ose rinovimin e certifikatës së udhërrëfyesit paguan tarifën në shumën 500 lekë.
-2. Të ardhurat nga tarifat për aplikimin, për lëshimin ose rinovimin e certifikatës së udhërrëfyesit, derdhen për llogari të ministrisë përgjegjëse, në llogarinë e unifikuar të thesarit të shtetit.
 KREU IV
 TË DREJTAT, DETYRIMET DHE KODI I ETIKËS SË UDHËRRËFYESIT TURISTIK
 Neni 12

@@ -1,1 +1,2 @@
 2. Personat, të cilët ushtrojnë veprimtarinë e udhërrëfyesit turistik, janë të detyruar të aplikojnë për pajisen me certifikatë brenda 6 muajve nga data e hyrjes në fuqi të këtij vendimi.
+2/1. Procedura e aplikimit sipas këtij vendimi, nëpërmjet portalit unik qeveritar “e-Albania”, zbatohet në momentin që sistemi i certifikimeve në turizëm do të implementohet dhe do të jetë funksional. Deri në funksionimin e tij, certifikata dhe dokumenti identifikues i udhërrëfyesit turistik nënshkruhen nga ministri ose personi i autorizuar prej tij.
