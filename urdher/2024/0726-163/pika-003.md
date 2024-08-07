@@ -1,0 +1,5 @@
+3. Znj. Edesa Metaj, si drejtues i autoritetit menaxhues, është e autorizuar të nënshkruajë dokumentet e mëposhtme:
+a) Marrëveshje mbi bashkëpunimin ndërinstitucional ndërmjet Koordinatorit Kombëtar të IPA-s, Zyrtarit Kombëtar të Autorizimit, Organeve të Ndërmjetme për Menaxhimin e Politikave dhe Organit të Ndërmjetëm për Menaxhimin Financiar për zbatimin nën menaxhimin indirekt të programit operativ shumëvjeçar për energjinë (2024-2027) në Republikën e Shqipërisë;
+b) Marrëveshjet me marrësit fundorë të ndihmës IPA III;
+c) Manualet e procedurave IPA III të zbatueshme për autoritetin menaxhues;
+ç) Çdo raport, dokument apo komunikim tjetër lidhur me IPA III drejtuar koordinatorit kombëtar të ISPA-s, zyrtarit kombëtar autorizues, autoritetit auditues, organit kontabël, Zyrës Mbështetëse të ZKA-së, organeve të ndërmjetme për menaxhimin e politikave, Organit të Ndërmjetëm për Menaxhimin Financiar, AFCOS, Delegacionit Evropian, Shërbimeve të Komisionit Evropian, programeve të tjera që menaxhojnë autoritetet ose organet e ndërmjetme.

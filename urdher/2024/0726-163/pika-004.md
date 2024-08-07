@@ -1,0 +1,1 @@
+4. Urdhri nr. 42, datë 22.2.2024, “Për përcaktimin e drejtorisë që duhet të përmbushë rolin e autoritetit menaxhues e të drejtuesit të autoritetit menaxhues, si dhe delegimi i të drejtave të nënshkrimit”, të ndryshuar, shfuqizohet.
