@@ -1,0 +1,1 @@
+2. Produktet ushqimore që përmbajnë aditivë ushqimorë që janë vendosur në mënyrë të ligjshme në treg para datës 16 janar 2025, por nuk janë në përputhje me këtë udhëzim, mund të vazhdojnë të tregtohen deri në shterimin e stoqeve.

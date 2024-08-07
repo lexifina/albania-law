@@ -1,0 +1,1 @@
+1. Specifikimet për aditivët ushqimorë, ku përfshihen ngjyruesit dhe ëmbëlsuesit e listuar në shtojcën II dhe III, të udhëzimit nr. 18, datë 9.11.2022, “Për aditivët ushqimorë të lejuar”, i ndryshuar, janë përcaktuar në shtojcën bashkëlidhur këtij udhëzimi.
