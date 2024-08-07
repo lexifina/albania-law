@@ -1,1 +1,0 @@
-3. Drejtoria e Konceptimit, Fizibilitetit të Projekteve dhe Statistikave në fushën e Infrastrukturës dhe Energjisë në përmbushjen e përgjegjësive si ONMP, bashkëpunon me Drejtorinë e Politikave dhe Strategjive të Zhvillimit të Telekomunikacioneve dhe Postave.
