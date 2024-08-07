@@ -1,0 +1,1 @@
+3. Urdhri nr. 45, datë 28.2.2024, “Për përcaktimin e Organit të Ndërmjetëm për Menaxhimin e Politikave (ONMP), të drejtuesit dhe përgjegjësisë së nënshkrimit për zbatimin përmes menaxhimit indirekt të programit vjetor IPA III”, shfuqizohet.
