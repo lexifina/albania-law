@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit, me objekt “Projektzbatimi për ndërtimin e shëtitores së plazhit të Durrësit, nga Ura e Dajlanit deri në godinën e Konvaleshencës”, Bashkia Durrës.
