@@ -365,3 +365,214 @@ Bexhet
 Gega
 Vlera totale
 45,651,432
+LISTA EMËRORE SHTESË E PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË SHPRONËSOHEN, PËR INTERES PUBLIK, NGA NDËRTIMI I SEGMENTIT RRUGOR “UNAZA LINDORE TIRANË, LOTI III” (SHTESA)
+Nr.
+PRONARI
+TË DHËNA HIPOTEKORE
+TË DHËNA PËR SHPRONËSIM
+SHËNIME (kufizime hipotekore, barrë mbi pasurinë etj.)
+ARË
+TRUALL
+NDËRTESË
+VLERA TOTALE (lekë)
+Emri
+Atësia
+Mbiemri
+Fshati ose qyteti
+Zona kadastrale
+Nr. i pasurisë
+Lloji i pasurise
+Sipërfaqe totale (m2)
+Arë (m2)
+Truall (m2)
+Ndërtesë (m2)
+Sipërfaqja (m2)
+Çmimi (lek/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lek/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lek/m2)
+Vlera (lekë)
+1
+Zenepe
+Reshit
+Tagani
+Tiranë
+8170
+10/94
+Truall
+580
+580
+162
+32878
+5326236
+Konfirmuar nga ASHK-ja
+Dhurata
+Asllan
+Luga
+Saimir
+Asllan
+Tagani
+Bujar
+Muharrem
+Luga
+Liliana
+Muharem
+Kazazi
+Luljeta
+Murat
+Ndreçka
+Andrea
+Murat
+Papa
+Arjan
+Agim
+Tagani
+Irena
+Agim
+Saraçi
+Kledian
+Fatmir
+Qefalia
+Gentiana
+Fatmir
+Qefalia
+Muhamet
+Fiqiri
+Qefalia
+Suzana
+Fiqiri
+Qefalia
+Shpëtim
+Fiqiri
+Qefalia
+Shadije
+Hamid
+Qefalia
+Besnik
+Hamdi
+Qefalia
+Ibrahim
+Hamdi
+Qefalia
+Faik
+Jusuf
+Qefalia
+Edmir
+Jusuf
+Qefalia
+Skënder
+Jusuf
+Qefalia
+Aida
+Sadi
+Halilaj
+Servete
+Mahmut
+Qefalia
+Arben
+Sadi
+Qefalia
+Fatmira
+Isuf
+Çali
+2
+Zenepe
+Reshit
+Tagani
+Tiranë
+8170
+10/95
+Truall
+979
+979
+384
+32878
+12625152
+Konfirmuar nga ASHK-ja
+Dhurata
+Asllan
+Luga
+Saimir
+Asllan
+Tagani
+Bujar
+Muharrem
+Luga
+Liliana
+Muharem
+Kazazi
+Luljeta
+Murat
+Ndreçka
+Andrea
+Murat
+Papa
+Arjan
+Agim
+Tagani
+Irena
+Agim
+Saraçi
+Kledian
+Fatmir
+Qefalia
+Gentiana
+Fatmir
+Qefalia
+Muhamet
+Fiqiri
+Qefalia
+Suzana
+Fiqiri
+Qefalia
+Shpëtim
+Fiqiri
+Qefalia
+Shadije
+Hamid
+Qefalia
+Besnik
+Hamdi
+Qefalia
+Ibrahim
+Hamdi
+Qefalia
+Faik
+Jusuf
+Qefalia
+Edmir
+Isuf
+Qefalia
+Skënder
+Jusuf
+Qefalia
+Aida
+Sadi
+Halilaj
+Servete
+Mahmut
+Qefalia
+Arben
+Sadi
+Qefalia
+Fatmira
+Isuf
+Çali
+3
+Dervish
+Shehu
+Tiranë, Shkozë
+3976
+184/55
+Arë
+200
+200
+200
+448
+89600
+Konfirmuar nga ASHK-ja
+VLERA TOTALE
+18040988
