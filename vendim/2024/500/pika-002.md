@@ -1,0 +1,1 @@
+2. Ministrisë së Drejtësisë dhe Institutit të Mjekësisë Ligjore u ndalohet ndryshimi i destinacionit të përdorimit, tjetërsimi ose dhënia në përdorim të tretëve të pasurisë së përcaktuar në pikën 1, të këtij vendimi.

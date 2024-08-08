@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi Ministrisë së Drejtësisë, për Institutin e Mjekësisë Ligjore, të pasurisë me nr. 1/442, zona kadastrale 8130, me vendndodhje në Tiranë, sipas formularit dhe planit të rilevimit, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, për ushtrimin e veprimtarisë së Institutit të Mjekësisë Ligjore.
