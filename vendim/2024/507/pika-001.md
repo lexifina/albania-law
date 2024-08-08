@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preken nga realizimi i projektit “Zgjerimi i varrezave publike, faza V, fshati Mbyet, Njësia Administrative Portëz, Bashkia Fier”.
