@@ -1,0 +1,20 @@
+3. Agjencia Kombëtare e Burimeve Natyrore ka këto detyra dhe përgjegjësi:
+- Konsulton, propozon dhe bashkëpunon me strukturat përkatëse të qeverisë për hartimin e politikave të saj në fushën e minierave, të hidrokarbureve dhe të energjetikës;
+- Zbaton politikat e qeverisë në fushën e minierave, të hidrokarbureve dhe energjetike;
+-Siguron, brenda fushës së veprimtarisë së vet, oponencën teknike për studimet e projektet në fushën e veprimtarisë minerare, postminerare, hidrokarbure dhe energjetike, të paraqitura nga subjektet, shtetërore a private, vendëse ose të huaja, sipas tarifave të përcaktuara në aneksin 1, që i bashkëlidhet këtij vendimi. Për raste të veçanta mund të kërkojë asistencë të specializuar;
+- Promovon burimet minerare e hidrokarbure, negocion marrëveshjet hidrokarbure dhe minerare, si dhe ndjek zbatimin e planeve të zhvillimit të tyre;
+- Përgatit dokumentacionin dhe praktikat e nevojshme për dhënien e lejeve, të licencave, autorizimeve, në përputhje me ligjin, të cilat mundësojnë hyrjen në marrëveshjet hidrokarbure dhe kryerjen e operacioneve hidrokarbure, sipas marrëveshjeve të lidhura;
+- Mbikëqyr veprimtarinë minerare, postminerare, hidrokarbure dhe energjetike;
+- Ndjek zbatimin e marrëveshjeve të lidhura hidrokarbure;
+- Realizon monitorimin e zonave të shfrytëzuara, të rrezikut minerar dhe të mbylljes së veprimtarisë minerare;
+- Administron, ekskluzivisht, të gjitha të dhënat parësore të sektorit hidrokarbur dhe të dhënat, që lidhen me veprimtarinë minerare dhe postminerare.
+- Shërben si organ i specializuar për ministrin përgjegjës për energjinë, për problemet e strategjisë dhe të politikës në këtë fushë;
+- Promovon burimet e rinovueshme të energjisë, si dhe propozon masa për rritjen e shfrytëzimit të energjisë në ciklin energjetik;
+- Harton dhe publikon bilancin energjetik vjetor, në nivel kombëtar dhe rajonal, në përputhje me formatet e EUROSTAT-it dhe të Agjencisë Ndërkombëtare të Energjisë;
+- Monitoron kontratat koncesionare ose jo objekt koncesioni për centralet prodhuese me burime të rinovueshme. Monitorimi i prodhimit të energjisë elektrike do të kryhet çdo 5 vjet dhe, për efekt penaliteti, vlerësimi do t’i referohet mesatares së prodhimit të energjisë, duke filluar nga viti i parë i plotë financiar i vënies në punë të hidrocentralit.
+- Lëshon certifikatat vjetore të monitorimit për centralet prodhuese nga burime të rinovueshme, sipas tarifave të përcaktuara në anekset 2 dhe 3, që i bashkëlidhen këtij vendimi.
+- Drejton dhe bashkërendon punën me strukturën e specializuar të Kombeve të Bashkuara, Agjencisë Ndërkombëtare të Energjisë Atomike (IAEA), si dhe ndërmjet strukturave shtetërore, institucioneve të specializuara, vendase dhe të huaja, universiteteve dhe qendrave kërkimore-shkencore, vendase dhe të huaja, sektorit privat, organizatave jofitimprurëse, grupeve të interesit etj., për të krijuar infrastrukturën kombëtare të nevojshme (përfshirë kuadrin e nevojshëm ligjor dhe rregullator, strukturat e specializuara të domosdoshme etj.), për vënien në jetë dhe në funksion të programit të energjisë bërthamore në Shqipëri.
+-Shfuqizuar;
+- Harton raportet e vlerësimit të impianteve me burime të rinovueshme dhe hidrocentraleve objekt koncesioni ose jo objekt koncesioni dhe lëshon certifikatën e pranimit të veprës, sipas anekseve 2 dhe 3, që i bashkëlidhen këtij vendimi;
+- Përllogarit dhe aplikon penalitete ndaj shoqërive për mospërmbushje të detyrimeve kontraktuale;
+- Njofton organet shtetërore përgjegjëse, në rast se konstaton mospërmbushje të detyrimeve kontraktuale dhe shkelje të dispozitave ligjore.

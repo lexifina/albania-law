@@ -1,0 +1,1 @@
+2. Agjencia Kombëtare e Burimeve Natyrore ka objekt të veprimtarisë zhvillimin, mbikëqyrjen e shfrytëzimit racional të burimeve natyrore, në bazë të politikave qeverisëse, dhe monitorimin e postshfrytëzimit të tyre, në sektorin minerar, hidrokarbur dhe energjetik.

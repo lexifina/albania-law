@@ -1,0 +1,1 @@
+6. Agjencisë Kombëtare të Burimeve Natyrore i kalojnë të gjitha të drejtat e detyrimet e përcaktuara me akte të mëparshme nënligjore, ato kontraktuale, asetet dhe llogaritë bankare, të institucioneve të përcaktuara në pikën 4 të këtij vendimi.

@@ -1,0 +1,1 @@
+8. Emërimi, lirimi dhe shkarkimi nga detyra i drejtuesit të Agjencisë Kombëtare të Burimeve Natyrore bëhen me urdhër të Ministrit të Infrastrukturës dhe Energjisë. Drejtori ekzekutiv, për efekt të pagës, klasifikohet në të njëjtin nivel me sekretarin e Përgjithshëm të ministrisë së linjës.

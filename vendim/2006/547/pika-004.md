@@ -1,0 +1,1 @@
+4. Agjencia Kombëtare e Burimeve Natyrore është ent publik, i krijuar nga bashkimi i Agjencisë Kombëtare të Hidrokarbureve, Institutit të Studimeve dhe Projektimeve të Metalurgjisë, Institutit të Teknologjisë Nxjerrëse dhe Përpunuese të Mineraleve dhe Institutit të Studimeve dhe Projektimeve të Mekanikës dhe Drurit dhe Agjencia Kombëtare e Energjisë.

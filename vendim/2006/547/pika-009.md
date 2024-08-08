@@ -1,0 +1,3 @@
+9. Buxheti, për vitin 2006, për këtë institucion, të përballohet nga fondi rezervë i Këshillit të Ministrave.
+9/1 a) Vlera prej 15 000 000 (pesëmbëdhjetë milionë) lekësh, miratuar për Agjencinë Kombëtare të Energjisë, në buxhetin e vitit 2007, programi “Mbështetje për energjinë”, zëri “Studime e projektime”, të transferohet në programin “Mbështetje për burimet natyrore”, zëri “Studime e projektime”.
+b) Përballimi i shpenzimeve për pagat e punonjësve që dalin të papunë nga ristrukturimi, të bëhet nga buxheti i vitit 2007, miratuar për Agjencinë Kombëtare të Energjisë, programi “Mbështetje për energjinë” prej 1 800 000 (një milion e tetëqind mijë) lekësh, zëri “Shpenzime korrente”.

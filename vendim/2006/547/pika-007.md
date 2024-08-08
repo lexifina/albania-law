@@ -1,0 +1,1 @@
+7. Funksionimi, struktura organizative dhe struktura e pagave të Agjencisë Kombëtare të Burimeve Natyrore përcaktohen në statutrregulloren e kësaj agjencie, e cila miratohet me urdhër të Ministrit të Infrastrukturës dhe Energjisë. Marrëdhëniet e punës së punonjësve rregullohen në bazë të Kodit të Punës.
