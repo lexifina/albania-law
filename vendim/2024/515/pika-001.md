@@ -1,0 +1,1 @@
+1. Miratimin e indeksimit të bazës së vlerësuar të vitit 2022, me indeksin 13.5%, të llogaritur sipas kritereve të përcaktuara në nenin 59, të ligjit nr. 7703, datë 1.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar.
