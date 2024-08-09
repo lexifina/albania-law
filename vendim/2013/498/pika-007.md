@@ -1,2 +1,0 @@
-7. Fillimi i shënjimit
-Produktet e shënjimit do të fillojnë të shënjohen sipas afateve të parashikuara në aneksin 1 që i bashkëlidhet këtij vendimi. Asnjë produkt i shënjimit nuk mund të tregtohet, të eksportohet, importohet, shpërndahet, transportohet, magazinohet, prodhohet, rafinohet apo të jetë objekt i operacioneve të çfarëdollojshme tregtare në territorin e Shqipërisë, në rast se nuk i është nënshtruar shërbimit të shënjimit dhe monitorimit brenda afateve të parashikuara në tabelën bashkëlidhur këtij vendimi.
