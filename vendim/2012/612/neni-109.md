@@ -9,5 +9,3 @@ iii) rezultatet e analizës nuk janë koherente ndërmjet tyre (të gjitha të p
 c) nga kontrollet e kryera mbi produktet energjetike, objekt i denatyrimit, rezulton se denatyrimi nuk është konform formulimeve të legjislacionit për denatyrimin.
 ç) produkti energjetik i denatyruar nuk konsiderohet i përshtatshëm, pasi denatyruesi i gjetur pas akteve të kontrollit dhe analizave të produktit, nuk i korrespondon formulimit të parashikuar për këtë produkt energjetik.
 d) depozituesi i miratuar nuk mund të sigurojë që lëvrimi i karburantit të shënjuar ose të ngjyrosur të bëhet vetëm për subjektet e autorizuara për këtë qëllim nga administrata doganore shqiptare sipas kategorive dhe kushteve të përcaktuara në legjislacionin në fuqi për këtë qëllim.
-SEKSIONI 13
-ALKOOLI, PIJET ALKOOLIKE
