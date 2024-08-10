@@ -17,7 +17,7 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 14. “Ministër” është ministri përgjegjës për mjedisin.
 15. “Ministria” është ministria përgjegjëse për mjedisin.
 16. “Publiku” ka të njëjtin kuptim si në ligjin nr. 10 431, datë 9.6.2011, “Për mbrojtjen e mjedisit”.
-17. “Njësia e qeverisjes vendore” ka të njëjtin kuptim si në ligjin nr. 8652, datë 31.7.2000, “Për organizimin dhe funksionimin e pushtetit vendor”.
+17. “Njësi të vetëqeverisjes vendore” ka të njëjtin kuptim sipas legjislacionit në fuqi për vetëqeverisjen vendore.
 18. “AKM”, Agjencia Kombëtare e Mjedisit, ka të njëjtin kuptim si në ligjin nr. 10 431, datë 9.6.2011, “Për mbrojtjen e mjedisit”.
 19. “ARM”, agjencitë rajonale të mjedisit, kanë të njëjtin kuptim si në ligjin nr. 10431, datë 9.6.2011, “Për mbrojtjen e mjedisit”.
-20. “ISHMPU”, Inspektorati Shtetëror i Mjedisit, Pyjeve dhe Ujërave, ka të njëjtin kuptim si në ligjin nr. 10 433, datë 16.6.2011, “Për inspektimin në Republikën e Shqipërisë”.
+20. “Struktura përgjegjëse inspektuese në fushën e mjedisit”, është struktura e ngarkuar sipas legjislacionit në fuqi për inspektimin dhe kontrollin e veprimtarive që lidhen me sektorin e mjedisit.
