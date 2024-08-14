@@ -1,0 +1,1 @@
+3. Delegimin e përkohshëm të kompetencave të titullarit të Ministrisë së Bujqësisë dhe Zhvillimit Rural, zëvendësministrit të Ministrisë së Bujqësisë dhe Zhvillimit Rural, z. Enio Civici nga data 19.8.2024 deri më datë 27.8.2024.
