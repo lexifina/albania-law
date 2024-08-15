@@ -1,0 +1,26 @@
+{
+  "qbz_id": 28510,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 65/2014, \"Për Agjencinë e Inteligjencës dhe Sigurisë së Mbrojtjes\"",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "63",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2024-06-27",
+  "published": "2024-07-31",
+  "in_force": "2024-08-15",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/944a4b5ffbda851cd204cc245b05872027fd86b2a2387c2e135c1795d30c975b.docx",
+  "source_sha256": "944a4b5ffbda851cd204cc245b05872027fd86b2a2387c2e135c1795d30c975b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/28510",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2024/06/27/63",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
