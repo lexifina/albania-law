@@ -1,7 +1,7 @@
 # Neni 36
 Vlerësimi i punës
 1. Vlerësimi i punës së punonjësit të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes bëhet një herë në vit, si dhe në rastet e mbarimit të periudhës së provës.
-2. Procedurat e vlerësimit për punonjësin civil të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes përcaktohen me urdhër të Ministrit të Mbrojtjes, me propozimin e Drejtorit të Përgjithshëm të kësaj Agjencie.
+2. Procedurat e vlerësimit për punonjësin civil të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes përcaktohen me urdhër të ministrit përgjegjës për mbrojtjen, me propozimin e Drejtorit të Përgjithshëm të kësaj Agjencie.
 3. Shkallët e vlerësimit për punonjësin civil janë:
 a) “shumë mirë”;
 b) “mirë”;

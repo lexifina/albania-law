@@ -1,8 +1,8 @@
 # Neni 8
-Ministri i Mbrojtjes
-1. Ministri i Mbrojtjes është autoriteti më i lartë përgjegjës për veprimtarinë e Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes.
-2. Ministri i Mbrojtjes raporton para Kryeministrit për drejtimin dhe zbatimin e politikave shtetërore në Agjencinë e Inteligjencës dhe Sigurisë së Mbrojtjes.
-3. Ministri i Mbrojtjes ushtron këto kompetenca mbi veprimtarinë e Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes:
+Ministri përgjegjës për mbrojtjen
+1. Ministri përgjegjës për mbrojtjen është autoriteti më i lartë përgjegjës për veprimtarinë e Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes.
+2. Ministri përgjegjës për mbrojtjen raporton para Kryeministrit për drejtimin dhe zbatimin e politikave shtetërore në Agjencinë e Inteligjencës dhe Sigurisë së Mbrojtjes.
+3. Ministri përgjegjës për mbrojtjen ushtron këto kompetenca mbi veprimtarinë e Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes:
 a) përcakton përparësitë e Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes, bazuar në politikën shtetërore dhe miraton, çdo fillim viti, kërkesat strategjike vjetore për inteligjencë për këtë Agjenci;
 b) përcakton zonat e përgjegjësisë dhe zonat e interesit, me propozim të Drejtorit të Përgjithshëm të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes;
 c) informon Kuvendin, Presidentin e Republikës dhe Kryeministrin për aktivitetin e Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes;
