@@ -4,6 +4,10 @@ Nr. 135, datë 9.7.2024
 
 MBI LICENCIMIN E SHOQËRISË “5GX ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr. 166, datë 15.8.2024)
+
+(I përditësuar)
+
 Në mbështetje të neneve 16 dhe 37, pika 2, germa “a”, 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 9.7.2024, mbasi shqyrtoi relacionin me nr. 866/7prot., datë 4.7.2024, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes “Mbi licencimin e shoqërisë ‘5GX Energy’ sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -44,9 +48,9 @@ VENDOSI:
 
 	1. Të licencojë shoqërinë “5GX Energy” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 10 mw, me vendndodhje në zonën kadastrale 1020, fshati Allprenaj, Njësia Administrative Golem, Bashkia Lushnjë, qarku Fier për një afat 30-vjeçar, duke filluar ky afat nga data 1.8.2024.
 
-	2. Shoqëria “5GX Energy” sh.p.k. të depozitojë në ERE qëndrimin e Ministrisë së Infrastrukturës dhe Energjisë dhe/ose amendimin e kontratës së nënshkruar, për kërkesën e bërë nga shoqëria për ndryshimin e vlerës së investimit të projektit.
+	2. Shfuqizuar.
 
-	3. Ky vendim është objekti rishikimi nga ERE në varësi të depozitimit të dokumentacionit të përcaktuar në pikën 2 të tij.
+	3. Shfuqizuar.
 
 	4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “5GX Energy” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, shoqërinë Operatori i Sistemit të Shpërndarjes sh.a. dhe shoqërinë Furnizuesi i Tregut të Lirë sh.a. për vendimin e Bordit të ERE-s.
 
