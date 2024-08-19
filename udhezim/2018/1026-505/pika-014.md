@@ -1,1 +1,0 @@
-14. Objektet e QTP-së duhet të jenë të pajisura me dalje dhe shkallë emergjence dhe duhet të kenë të instaluara sistemin e mbrojtjes kundër zjarrit ose të jenë kompletuar (sipas normativave përkatëse) me mjetet e nevojshme për mbrojtjen kundër zjarrit. Këto objekte duhet të jenë të pajisura me sistemin e mbrojtjes kundër shkarkesave atmosferike;
