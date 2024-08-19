@@ -1,0 +1,1 @@
+1. “Certifikatë” është dokumenti që i jepet titullarit të subjektit, drejtuesit teknik, trajnerit të QTP-së, si dhe punonjësit të shërbimit të SHPSF-së, i cili vërteton aftësinë e tyre për ushtrimin e detyrave përkatëse. Certifikata është e vlefshme për 5 (pesë) vjet, me të drejtë ripërtëritjeje.

@@ -1,0 +1,1 @@
+14. Certifikata e titullarit të subjektit dhe drejtuesit teknik të SHPSF-së ndahet në lloje sipas nënkategorisë së licencës dhe miratimi i tyre është kompetencë e drejtorit të përgjithshëm të Policisë Shtetit, bazuar në vendimin e Komisionit të Shqyrtimit të Kërkesave për Certifikim dhe Licencim (KSHKCL), në Drejtorinë e Përgjithshme të Policisë së Shtetit.

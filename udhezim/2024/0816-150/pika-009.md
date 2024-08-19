@@ -1,0 +1,1 @@
+9. Licencimi i subjekteve të Shërbimit Privat të Sigurisë Fizike” (SHPSF-së) bëhet sipas kritereve dhe procedurave të përcaktuara në legjislacionin në fuqi për licencat, autorizimet dhe lejet në Republikën e Shqipërisë.

@@ -1,0 +1,1 @@
+21. Kontrata e shërbimit është një marrëveshje e lidhur ndërmjet palëve, e cila rregullon mënyrën e ofrimit të shërbimeve, duke siguruar në të njëjtën kohë mbrojtjen e interesave ekonomikë dhe ligjorë të palëve. Kontrata rregullon natyrën dhe mënyrën e ofrimit të shërbimit, modalitetet e pagesës, si dhe të drejtat e detyrimet e palëve.

@@ -1,0 +1,1 @@
+7. “Trajner” është specialisti për trajnimin e punonjësve të SHPSF-së, i kualifikuar dhe i certifikuar nga institucioni arsimor përgjegjës për arsimin, formimin dhe trajnimin e punonjësve të Policisë së Shtetit.

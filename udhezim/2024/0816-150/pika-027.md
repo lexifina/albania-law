@@ -1,0 +1,1 @@
+27. Drejtuesi teknik i SHPSF-së, i pajisur me certifikatë të nënkategorisë 1.3.A, 1.3.B dhe 1.3 C, mund të ndryshojë nënkategorinë e certifikatës me vendim të drejtorit të përgjithshëm të Policisë së Shtetit, bazuar në propozimin e KSHKCL-së.

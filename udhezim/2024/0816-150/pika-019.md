@@ -1,0 +1,1 @@
+19. Mosparaqitja e kërkesës për ripërtëritjen e certifikatës për titullar subjekti, drejtues teknik dhe punonjës shërbimi brenda afateve të përcaktuar në këtë udhëzim, sjell mosripërtëritjen e saj. Mos ripërtëritja e certifikatës brenda afateve të përcaktuara, nuk e pushon të drejtën e aplikimit për pajisjen me certifikatë të re.

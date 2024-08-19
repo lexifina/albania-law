@@ -1,0 +1,1 @@
+26. Titullari i subjektit, drejtuesi teknik dhe punonjësi i shërbimit, paguan tarifën e certifikimit/licencimit brenda 3 (tre) muajve nga data e lëshimit të saj. Mospagimi i tarifës brenda afatit sjell revokimin e certifikatës/licencës, sipas përcaktimeve të ligjit nr. 75/2014, “Për shërbimin privat të sigurisë fizike”, të ndryshuar.

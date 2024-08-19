@@ -1,0 +1,1 @@
+5. “SHPSF” (shërbimi privat i sigurisë fizike) është shërbimi që ofrohet nga subjekti privat i licencuar për sigurimin e objekteve shtetërore, private, personave, veprimtarive social-kulturore, sportive, fetare, si dhe të vlerave monetare, materiale dhe sendeve të çmuara gjatë transportit, në bazë të detyrimeve kontraktuale.

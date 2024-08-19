@@ -1,0 +1,1 @@
+15. Certifikata e punonjësit të Shërbimit Privat të Sigurisë Fizike ndahet në lloje sipas nënkategorisë së licencës dhe miratimi i saj është kompetencë e drejtorit të Drejtorisë Vendore të Policisë, ku ka vendbanimin punonjësi i shërbimit, bazuar në vendimin e Komisionit të Shqyrtimit të Kërkesave për Certifikim (KSHKC), në Drejtorinë Vendore të Policisë.

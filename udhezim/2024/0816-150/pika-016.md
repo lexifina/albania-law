@@ -1,0 +1,1 @@
+16. Pajisja me certifikatë e titullarit të subjektit dhe drejtuesit teknik të SHPSF/QTP-së realizohet brenda 45 (dyzet e pesë) ditëve nga dita e aplikimit, ndërsa pajisja me certifikatë e punonjësve të shërbimit realizohet brenda 30 (tridhjetë) ditëve nga dita e aplikimit.

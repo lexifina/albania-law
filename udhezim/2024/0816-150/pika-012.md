@@ -1,0 +1,1 @@
+12. Titullari i subjektit, drejtuesi teknik i SHPSF/QTP-së dhe punonjësi i shërbimit të SHPSF-së, nuk mund të jenë njëkohësisht edhe punonjës të strukturave të ministrisë përgjegjëse për rendin dhe sigurinë publike, ushtarak të Forcave të Armatosura, punonjës të Shërbimit Informativ të Shtetit, si dhe punonjës të Policisë së Burgjeve.
