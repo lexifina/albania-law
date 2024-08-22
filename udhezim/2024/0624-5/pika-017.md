@@ -1,0 +1,1 @@
+17. Në rastet kur institucioni nuk plotëson kushtet për ndjekjen e formimit profesional, drejtori i përgjithshëm i Burgjeve mund të urdhërojë transferimin e tij për shkak të zbatimit të programit të formimit profesional.

@@ -1,0 +1,3 @@
+1. Përcaktimin e rregullave të detajuara për mënyrën e zhvillimit të arsimit dhe formimit profesional të personave të dënuar me burgim, në institucionet e ekzekutimit të vendimeve penale, në funksion të përfitimit të njohurive dhe aftësive profesionale, si dhe të riintegrimit të tyre në shoqëri.
+II. RREGULLA TË PËRGJITHSHME MBI ZHVILLIMIN E ARSIMIT DHE FORMIMIT PROFESIONAL
+1. Arsimi dhe formimi profesional i personave të dënuar me burgim realizohet në përputhje me legjislacionin në fuqi për arsimin dhe formimin profesional, në përshtatje me kushtet dhe sigurinë e personave të dënuar me burgim që ndjekin arsimin apo formimin profesional.

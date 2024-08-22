@@ -1,0 +1,1 @@
+2. Arsimi dhe formimi profesional i personave të dënuar me burgim ofrohet, për sa është e mundur, në mënyrë të njëjtë si personat që e përfitojnë atë shërbim jashtë institucioneve të ekzekutimit të vendimeve penale.

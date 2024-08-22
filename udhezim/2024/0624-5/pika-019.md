@@ -1,0 +1,1 @@
+19. Në zbatim të këtij udhëzimi Drejtoria e Përgjithshme e Burgjeve, institucionet e ekzekutimit të vendimeve penale dhe ofruesit e formimit profesional publik nënshkruajnë marrëveshje të posaçme që rregullojnë aspekte të bashkëpunimit reciprok për mbarëvajtjen e procesit arsimor apo formimit profesional në institucion.

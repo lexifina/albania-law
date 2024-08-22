@@ -1,0 +1,1 @@
+9. Riintegrimi i personave të dënuar me burgim synohet nëpërmjet ndjekjes, edhe pas lirimit, të arsimit profesional apo kurseve të formimit profesional dhe realizohet përmes koordinimit të shërbimeve dhe funksioneve të institucioneve vartëse të ministrive përgjegjëse, 6 muaj përpara lirimit të tyre.

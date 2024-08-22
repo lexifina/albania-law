@@ -1,0 +1,1 @@
+15. Institucionet e ekzekutimit të vendimeve penale dhe ofruesit e formimit profesional publik caktojnë nga një person kontakti, të cilët do të jenë përgjegjës për zbatimin e marrëveshjeve që do të nënshkruhen në nivel lokal, mbështetur në këtë udhëzim.

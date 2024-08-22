@@ -1,0 +1,1 @@
+6. Modalitetet e programeve të arsimit dhe formimit profesional që u ofrohen personave të dënuar me burgim duhet të jenë të atilla që të garantojnë sigurinë në institucion të të dënuarve me burgim dhe personelit.

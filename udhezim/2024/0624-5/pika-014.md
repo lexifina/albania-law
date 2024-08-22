@@ -1,0 +1,1 @@
+14. Drejtoria e Përgjithshme e Burgjeve dhe Agjencia Kombëtare e Punësimit dhe Aftësive, bashkëpunojnë për ofrimin e trajnimeve të vazhdueshme me fokus në të drejtat, sjelljen dhe trajtimin e personave të dënuar me burgim.

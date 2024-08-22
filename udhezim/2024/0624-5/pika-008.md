@@ -1,0 +1,1 @@
+8. Të gjithë subjektet që janë të përfshirë në administrimin dhe menaxhimin e sistemit të burgjeve dhe menaxhimin e burgjeve lehtësojnë, dhe mbështesin arsimin e të dënuarve me burgim sa më shumë që të jetë e mundur.

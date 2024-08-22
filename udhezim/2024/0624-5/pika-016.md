@@ -1,0 +1,1 @@
+16. Personat e kontaktit organizojnë të paktën tri takime të përbashkëta në një vit, për të analizuar ecurinë e procesit të arsimit apo formimit profesional, për të planifikuar për periudhat e riorganizimit dhe për të marr masat e nevojshme për zbatimin e udhëzimit.
