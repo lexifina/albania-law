@@ -1,0 +1,4 @@
+# Neni 151
+Kontrata me afat të gjatë
+1. Kur ndërmjet palëve kanë qenë lidhur disa kontrata të njëpasnjëshme me afat të caktuar, për jo më pak se tre vjet, mosripërtëritja e kontratës së fundit nga punëdhënësi vlerësohet si zgjidhje e kontratës me afat të pacaktuar. Kontratat me afat të caktuar ndërmjet të njëjtave palë do të konsiderohen si të njëpasnjëshme edhe në ato raste kur ka një ndërprerje të shkurtër, jo më shumë se tre muaj, ndërmjet mbarimit të një kontrate dhe lidhjes së kontratës tjetër.
+2. Kur kontrata lidhet për më shumë se 3 deri në 5 vjet, ajo mund të zgjidhet nga punëmarrësi pas 3 vjetësh. Në këtë rast afati i njoftimit është 2 muaj dhe zgjatet deri në fund të muajit të dytë. Kur kontrata lidhet për më shumë se 5 vjet, ajo mund të zgjidhet nga punëmarrësi pas 5 vjetësh. Në këtë rast, afati i njoftimit është 3 muaj dhe zgjatet deri në fund të muajit të tretë.

@@ -1,0 +1,4 @@
+# Neni 105/a
+Mbrojtja e punësimit të gruas
+1. Ndalohen testet e shtatzanisë para punësimit, kur kërkohen nga punëdhënësi, përveç rasteve kur vendi i punës kërkon të punohet në kushte që mund të ndikojnë negativisht në shtatzaninë ose që mund të dëmtojnë jetën apo shëndetin e nënës ose të fëmijës. Gruaja, gjatë periudhës së shtatzënisë, në marrëveshje me punëdhënësin, ka të drejtë për leje të pagueshme për kryerjen e vizitave mjekësore, kur këto janë të nevojshme të kryhen gjatë orarit të punës.
+2. Në rastet e zgjidhjes së kontratës së punës nga punëdhënësi, kur gruaja është në punë gjatë periudhës së shtatzanisë ose është kthyer në punë pas lindjes së fëmijës, sipas nenit 105 të këtij Kodi, i takon punëdhënësit të vërtetojë se shkaku i pushimit nga puna nuk ka qenë shtatzania ose lindja e fëmijës.

@@ -1,0 +1,6 @@
+# Neni 138
+Ruajtja e të drejtave
+1. Me transferim të ndërmarrjes ose të një pjese të saj kuptohet transferimi i njësisë ose pjesës ekonomike, e cila ruan identitetin, në kuptimin e të qenit një grup i organizuar burimesh, që ka për qëllim kryerjen e një veprimtarie ekonomike, pavarësisht nëse kjo veprimtari është kryesore ose ndihmëse.
+2. Në rast transferimi të ndërmarrjes ose një pjese të saj, të drejtat dhe detyrimet që rrjedhin prej tij, në bazë të një kontrate pune që është në fuqi deri në momentin e transferimit, i kalojnë personit që i transferohen këto të drejta. Punëmarrësi, edhe kur kundërshton të ndryshojë punëdhënësin, mbetet i lidhur me punëdhënësin e ri, deri në përfundim të afatit ligjor të njoftimit.
+3. Transferuesi i të drejtave përgjigjet krahas atij që i merr këto të drejta, për detyrimet që rrjedhin nga kontrata e punës, deri në përfundim të afatit kontraktual të njoftimit ose afatit të përcaktuar me kontratë individuale.
+4. Pushimi nga puna i punëmarrësit nga punëdhënësi, për arsye të transferimit të ndërmarrjes, është i pavlefshëm. Bëjnë përjashtim pushimet që ndodhin për arsye ekonomike, teknologjike ose strukturore, që kërkojnë ndryshime në planin e punësimit. Në këtë rast, pushimet duhet të respektojnë rregullat e përcaktuara në kreun XIV.

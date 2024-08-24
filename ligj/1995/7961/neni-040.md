@@ -1,0 +1,5 @@
+# Neni 40
+Masa të përgjithshme
+1. Punëdhënësi detyrohet të kujdeset për higjienën e vendeve të punës. Punëdhënësi pasi konsultohet me punëmarrësit, duhet të marrë masat e nevojshme mbrojtëse kundër rreziqeve të veçanta që paraqesin substancat dhe agjentët helmues, makinat, transporti i peshave të rënda, ndotja e ajrit, zhurmat dhe dridhjet, si dhe rreziqeve në disa degë të ekonomisë, si ndërtim, xhenio civile, miniera dhe industri kimike. Punëdhënësi duhet të vendosë sinjale të dallueshme qartë në çdo vend pune, që paraqet rrezik për jetën dhe shëndetin e punëmarrësve
+2. Kur natyra e punës paraqet rreziqe të veçanta për jetën dhe shëndetin e punëmarrësve, sipas pikës 1, të këtij neni, punëdhënësi organizon, me shpenzimet e tij, në mënyrë periodike, si dhe sipas këshillimit të mjekut të ndërmarrjes, vizita mjekësore profesionale dhe ekzaminime mjekësore shtesë të punëmarrësit, para marrjes në punë dhe gjatë marrëdhënies së punës.
+3. Masat e veçanta të sigurimit dhe mbrojtjes së shëndetit përcaktohen me VKM.

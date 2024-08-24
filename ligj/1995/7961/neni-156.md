@@ -1,0 +1,5 @@
+# Neni 156
+Zgjidhja e menjëhershme e pajustifikuar e kontratës nga punëmarrësi
+1. Kur kontrata e punës zgjidhet nga punëdhënësi, për arsye se provohet se punëmarrësi nuk paraqitet në vendin e punës të caktuar në kontratën e punës, ose e braktis atë menjëherë, pa shkaqe të arsyeshme, dhe brenda 7 ditëve nuk ka njoftuar, me shkrim, punëdhënësin, ajo konsiderohet si zgjidhje e pajustifikuar e kontratës së punës nga ana e punëmarrësit. Punëmarrësi duhet të përgjigjet financiarisht ndaj punëdhënësit, jo më shumë se paga e një jave. Ai duhet të përgjigjet edhe për dëmin shtesë, që është diferenca midis dëmit dhe pagës së një jave.
+2. Gjykata mund të vendosë zvogëlimin e masës së dëmshpërblimit nëse punëdhënësi nuk ka pësuar asnjë dëm, ose nëse dëmi është më i vogël se masa e dëmshpërblimit të parashikuar në paragrafin e mësipërm të këtij neni.
+3. Kur e drejta për të kërkuar dëmshpërblimin nuk shuhet me kompensim, ajo parashkruhet brenda 30 ditëve, duke filluar nga data kur punëmarrësi nuk ka filluar punën ose e ka braktisur atë.

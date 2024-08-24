@@ -1,0 +1,6 @@
+# Neni 155
+Zgjidhja e menjëhershme e pajustifikuar e kontratës së punës nga punëdhënësi
+1. Punëmarrësi ka të drejtën e pagës që do të kish fituar, nëse marrëdhëniet e punës do të kishin përfunduar në fund të afatit të njoftimit të parashikuar në ligj ose me kontratë ose në përfundim të kontratës me afat të caktuar.
+2. Punëdhënësi mund të zbresë nga paga të ardhurat që punëmarrësi ka kursyer si rezultat i ndërprerjes së punës, të ardhurat nga një punë tjetër ose të ardhurat prej të cilave ai ka hequr dorë qëllimisht.
+3. Në rastet e zgjidhjes së menjëhershme, të pajustifikuar, të kontratës së punës nga punëdhënësi, gjykata, me kërkesë të punëmarrësit dhe duke vlerësuar të gjitha rrethanat, vendos dëmshpërblimin, deri në një vit pagë, që i shtohet pagës që ai duhet të marrë gjatë afatit të njoftimit. Për punëmarrësit në administratën publike, kur ka një vendim të formës së prerë për kthimin në vendin e mëparshëm të punës, punëdhënësi është i detyruar të zbatojë këtë vendim.
+4. Nëse kontrata zgjidhet pa shkaqe të justifikuara, punëmarrësi ka të drejtë të ngrejë padi kundër punëdhënësit, në gjykatën kompetente, brenda 180 ditëve nga dita e zgjidhjes së marrëdhënieve të punës. Në rastin kur motivi i pajustifikuar është zbuluar pas kalimit të këtij afati, punëmarrësi duhet të ngrejë padinë brenda 30 ditëve nga dita e zbulimit të këtij motivi.

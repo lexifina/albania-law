@@ -1,0 +1,2 @@
+KREU II
+A. NË HAPËSIRË

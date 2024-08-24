@@ -1,0 +1,2 @@
+# Neni 204
+Me hyrjen në fuqi të këtij Kodi shfuqizohet ligji nr. 6200, datë 27.6.1981 “Mbi Kodin e Punës të Republikës Popullore Socialiste të Shqipërisë”, ligji nr. 7526, datë 3.12.1991 “Për marrëdhëniet e punës”, ligji nr. 7724, datë 21.6.1993 “Për rregullimin e kohës së punës e të pushimit”, ligji nr. 7516, datë 7.10.1993 “Për sindikatat”, ligji nr. 7673, datë 17.2.1993 “Për kontratën kolektive të punës”, si dhe çdo dispozitë tjetër që vjen në kundërshtim me këtë Kod.

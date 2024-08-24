@@ -1,0 +1,6 @@
+# Neni 90
+Numri maksimal i orëve shtesë
+1. Numri maksimal i orëve shtesë përcaktohet në kontratën kolektive ose kontratën individuale të punës. Punëdhënësi mund të kërkojë kryerjen e orëve shtesë të punës, por jo më shumë se 200 orë në vit.
+2. Nuk mund të kërkohet kryerja e orëve shtesë javore kur punëmarrësi ka kryer 48 orë pune në javë. Në raste të veçanta, për një periudhë deri në 4 muaj, mund të punohet me shumë se 48 orë në javë, por koha mesatare javore e punës, për këtë periudhë, nuk duhet të jetë më shumë se 48 orë.
+3. Këshilli i Ministrave vendos rregulla të veçanta për kryerjen e orëve shtesë për punët që janë veçanërisht të vështira ose të dëmshme për shëndetin. 3/1. Ndalohet kryerja e orëve shtesë të punës nga gratë shtatzëna dhe pas lindjes së fëmijës, derisa fëmija të mbushë moshën 1 vjeç. 3/2. Ndalohet kryerja e orëve shtesë për personat me aftësi të kufizuar, për shkaqe objektivisht të justifikuara, që lidhen me shkallën e aftësisë së tyre të kufizuar dhe natyrën e punës për të cilën kërkohen orët shtesë.
+4. Me autorizimin e Inspektoratit të Punës, numri maksimal i orëve shtesë mund të tejkalohet në rastet e forcës madhore ose të punëve urgjente në dobi të popullsisë.

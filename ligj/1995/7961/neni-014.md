@@ -1,0 +1,5 @@
+# Neni 14
+Puna me kohë të pjesshme
+1. Me kontratën e punës me kohë të pjesshme, punëmarrësi pranon të punojë me orë, gjysmë dite pune ose ditë pune, për një kohëzgjatje normale javore ose mujore më të vogël se ajo e punëmarrësve që punojnë me kohë të plotë në të njëjtat kushte.
+2. Punëmarrësit me kohë të pjesshme gëzojnë të njëjtat të drejta si punëmarrësit me kohë të plotë që kryejnë të njëjtën punë. Nëse kushtet e punësimit kanë lidhje të drejtpërdrejtë me kohën e punës së punëmarrësit, punëmarrësi me kohë të pjesshme gëzon të drejta përpjesëtimore me punëmarrësit me kohë të plotë.
+3. Punëdhënësi informon punëmarrësin e punësuar me kohë pune të pjesshme për vendet e lira të punës dhe i siguron mundësi të barabarta me punëmarrësit dhe/ose punëkërkuesit e tjerë, për t’u punësuar në një punë me kohë të plotë. Gjithashtu, punëdhënësi informon punëmarrësin e punësuar me kohë pune të plotë për vendet e lira të punës dhe i siguron mundësi të barabarta me punëmarrësit dhe/ose punëkërkuesit e tjerë, për t’u punësuar në një punë me kohë të pjesshme.
