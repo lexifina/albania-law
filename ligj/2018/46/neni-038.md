@@ -8,4 +8,5 @@ c) të njoftojnë me shkrim Autoritetin e Kontrollit Shtetëror të Eksporteve p
 d) të kthejnë çdo licencë të përdorur tek Autoriteti i Kontrollit Shtetëror të Eksporteve brenda 7 ditëve nga finalizimi i transaksionit përkatës;
 dh) të kthejnë çdo licencë apo certifikatë të papërdorur tek Autoriteti i Kontrollit Shtetëror të Eksporteve brenda 7 ditëve nga skadimi i licencës apo i certifikatës;
 e) të respektojnë detyrimet, termat dhe kushtet e tjera që janë pjesë e licencave apo certifikatave të lëshuara nga Autoriteti i Kontrollit Shtetëror të Eksporteve bazuar në këtë ligj.
-2. Formatet e raportimit, si dhe afatet e koha e paraqitjes së raporteve do të përcaktohen me urdhër të organit drejtues të Autoritetit të Kontrollit Shtetëror të Eksporteve.
+2. Për ofrimin e informacionit dhe dokumentacionit, sipas pikës 1 të këtij neni, subjektet e përfshira në transferimet e mallrave, që kanë marrë licencë, raportojnë sipas formateve të miratuara.
+Formatet e raportimit, si dhe afatet e koha e paraqitjes së raporteve përcaktohen me vendim të Këshillit të Ministrave.

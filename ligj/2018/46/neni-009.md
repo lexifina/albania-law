@@ -1,6 +1,6 @@
 # Neni 9
 Autoriteti shtetëror për kontrollin e transferimeve ndërkombëtare të mallrave ushtarake, artikujve dhe teknologjive me përdorim të dyfishtë
-1. Në Ministrinë e Mbrojtjes funksionon Autoriteti i Kontrollit Shtetëror të Eksporteve (AKSHE), e cila është struktura shtetërore përgjegjëse për transferimet ndërkombëtare të mallrave ushtarake, të artikujve dhe të teknologjive me përdorim të dyfishtë.
+1. Në Ministrinë e Mbrojtjes funksionon Autoriteti i Kontrollit Shtetëror të Eksporteve (AKSHE), e cila është struktura shtetërore, përgjegjëse për zbatimin e politikës së kontrollit për transferimet ndërkombëtare të mallrave ushtarake, të artikujve dhe të teknologjive me përdorim të dyfishtë.
 Autoriteti i Kontrollit Shtetëror të Eksporteve është institucion qendror, me statusin e personit juridik, publik, në varësi të ministrit të Mbrojtjes, me seli në Tiranë.
 2. Autoriteti i Kontrollit Shtetëror të Eksporteve kryen detyrat si më poshtë:
 a) regjistron, sipas rastit, personat fizikë e juridikë, përfshirë edhe autoritetet publike, për kryerjen e veprimtarive me mallra ushtarake, si dhe licencon veprimtaritë e transferimit ndërkombëtar të mallrave të kontrolluara;
