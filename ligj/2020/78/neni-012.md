@@ -1,7 +1,7 @@
 # Neni 12
 Specialisti i Shërbimit të Provës
-1. Specialisti i Shërbimit të Provës emërohet, lirohet ose shkarkohet nga detyra në përputhje me legjislacionin në fuqi për nëpunësin civil.
-2. Përveç kritereve të përgjithshme, të parashikuara nga legjislacioni në fuqi për nëpunësin civil, specialisti i Shërbimit të Provës duhet të plotësojë edhe kriteret e mëposhtme:
+1. Shfuqizuar.
+2. Përveç kritereve të përgjithshme, të përcaktuara në rregulloren e brendshme, specialisti i Shërbimit të Provës duhet të plotësojë edhe kriteret e mëposhtme:
 a) të ketë përfunduar ciklin e dytë të studimeve universitare në degët: psikologji, drejtësi, punë sociale ose sociologji apo diplomë të njësuar me të, sipas legjislacionit në fuqi për arsimin e lartë në Republikën e Shqipërisë;
 b) të ketë përvojë pune jo më pak se 1 vit në profesion.
 3. Gjatë ushtrimit të veprimtarisë së tij, specialisti i Shërbimit të Provës udhëhiqet nga parimet e paanësisë, profesionalizmit dhe ruajtjes së integritetit profesional dhe etiko-moral.
