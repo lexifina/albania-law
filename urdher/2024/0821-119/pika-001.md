@@ -1,0 +1,1 @@
+1. Delegimin e përkohshëm të kompetencës për ushtrimin e mbikëqyrjes së veprimtarisë administrative të Agjencisë së Menaxhimit të Garancive dhe Kredive të Pakthyera (AMGKP), z. Besmir Beja, Sekretar i Përgjithshëm, në Ministrinë e Financave, deri në emërimin e titullarit të AMGKP-së, sipas legjislacionit në fuqi.

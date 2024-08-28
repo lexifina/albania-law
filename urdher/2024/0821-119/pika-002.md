@@ -1,0 +1,1 @@
+2. Z. Besmir Beja, Sekretar i Përgjithshëm, në Ministrinë e Financave, ngarkohet të ushtrojë të drejtat e zyrtarit përgjegjës për mbikëqyrjen e Agjencisë së Menaxhimit të Garancive dhe Kredive të Pakthyera (AMGKP), në zbatim të dispozitave ligjore në fuqi.
