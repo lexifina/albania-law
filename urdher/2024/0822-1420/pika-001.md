@@ -1,0 +1,1 @@
+1. Delegimin z. Andi Proko, drejtor i Njësisë së Hartografisë dhe Regjistrit, kompetencën për të sigluar shpërndarjen e korrespondencës shkresore të administruar në Drejtorinë e Përgjithshme të ASHK-së, sipas fushës përkatëse të përgjegjësisë të njësive/drejtorive/sektorëve.

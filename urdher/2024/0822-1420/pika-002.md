@@ -1,0 +1,1 @@
+2. Në rast mungese në detyrë të drejtorit të Njësisë së Hartografisë dhe Regjistrit, delegimi i kompetencës konsiderohet i ndërprerë për periudhën e mungesës në kuptim të nenit 29 , pika 2, germa “ç” e Kodit të Procedurave Administrative. Gjatë mungesës, kompetenca ushtrohet nga drejtori i përgjithshëm.
