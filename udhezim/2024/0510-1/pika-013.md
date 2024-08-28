@@ -1,0 +1,1 @@
+13. Tarifa për dhënien në përdorim të përkohshëm të territoreve kullota përcaktohen në bazë të vendimit nr. 1156, datë 24.12.2020, të Këshillit të Ministrave, “Për përcaktimin e të ardhurave të gjeneruara nga tarifat që paguhen në zonat e mbrojtura, të masës dhe kritereve të përdorimit të tyre” dhe të ardhurat i kalojnë bashkisë përkatëse.

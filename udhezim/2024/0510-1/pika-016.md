@@ -1,0 +1,1 @@
+16. Modeli i kontratës tip tripalëshe gjendet bashkëlidhur në shtojcën 1, të këtij udhëzimi. AdZM-të/ZAPK-të, në varësi të kategorisë së zonës së mbrojtur dhe karakteristikave të saj, mund të përcaktojnë parashikime të tjera si pjesë përbërëse të kontratës.

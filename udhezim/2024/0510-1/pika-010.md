@@ -1,0 +1,1 @@
+10. Struktura përgjegjëse për pyjet dhe kullotat në bashki në bashkëpunim me AdZM-të apo ZAPK-të, shqyrtojnë kërkesat, duke i dhënë prioritet subjekteve sipas parashikimeve të pikës 7 të këtij udhëzimi dhe miratojnë listën e subjekteve të interesuara, brenda 30 ditëve nga paraqitja e kërkesës.

@@ -1,0 +1,1 @@
+15. Pas nënshkrimit të kontratës, hartohet procesverbali i marrjes në dorëzim të kullotës dhe të objekteve të infrastrukturës që ndodhen në të (lera, çezma etj.), i cili nënshkruhet nga përfaqësuesi i autorizuar i strukturës përgjegjëse për pyjet dhe kullotat në bashki, AdZM-së/ZAPK-së dhe qiramarrësi. Procesverbali i dorëzimit shoqërohet me hartën e sipërfaqes kullosore.

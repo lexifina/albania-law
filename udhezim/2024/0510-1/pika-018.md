@@ -1,0 +1,1 @@
+18. Në rast konstatimi të moszbatimit të kushteve të kontratës, AKZM-ja dhe trupat inspektuese të AdZM-ve rajonale, njoftojnë bashkinë për gjetjet e konstatuara, me qëllim vijimin e procedurave për zgjidhjen e kontratës.

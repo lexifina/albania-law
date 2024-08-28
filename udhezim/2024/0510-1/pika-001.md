@@ -1,0 +1,1 @@
+1. Përcaktimin e procedurës për dhënien në përdorim të territoreve kullota, pjesë e zonave të mbrojtura, sipas legjislacionit në fuqi për zonat e mbrojtura, ndërmjet AdZM-ve apo ZAPK-ve, bashkive dhe subjekteve të interesuara, si dhe miratimin e kontratës tip sipas shtojcës 1, bashkëlidhur këtij udhëzimi dhe që është pjesë përbërëse e tij.

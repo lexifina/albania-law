@@ -1,0 +1,1 @@
+5. AKZM-ja, brenda datës 1 mars të çdo viti, dërgon në rrugë elektronike dhe shkresore pranë AdZM-së dhe bashkisë përkatëse listën e miratuar të parcelave/nënparcelave kullosore, e cila përmban: vendndodhjen, sipërfaqen, llojin e kullotës, kapacitetin kullosor të saj dhe infrastrukturën që e shoqëron.

@@ -1,0 +1,1 @@
+14. Brenda 5 ditëve nga marrja e njoftimit të miratimit të kërkesës, lidhet kontrata tripalëshe midis AdZM-së/ZAPK-së, bashkisë dhe subjektit të miratuar ku përcaktohen të drejtat dhe detyrimet e palëve.

@@ -1,0 +1,1 @@
+6. AdZM-ja/ZAPK-ja dhe bashkia, menjëherë, shpallin dhe afishojnë listën e miratuar nga AKZM-ja, në faqet zyrtare dhe këndet e njoftimit, me qëllim njoftimin e subjekteve për dhënien me përdorim të parcelave të lejuara.
