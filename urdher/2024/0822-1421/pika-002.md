@@ -1,0 +1,1 @@
+2. Pavarësisht delegimit të kompetencës sipas këtij urdhri, drejtori i Njësisë së Titujve të Pronësisë nëse e gjykon të nevojshme, mund t’i përcjellë për miratim drejtorit të përgjithshmen shkresat që i vlerëson të një rëndësie të veçantë.
