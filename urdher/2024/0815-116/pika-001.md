@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor të Ministrisë së Financave, sekretarit të përgjithshëm, z. Besmir Beja, për të gjitha procedurat e prokurimeve publike të parashikuara për t’u realizuar me fondet buxhetore të Ministrisë së Financave.
