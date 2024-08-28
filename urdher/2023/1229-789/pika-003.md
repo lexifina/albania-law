@@ -1,1 +1,0 @@
-3. Urdhri nr. 552, datë 22.11.2023, “Për importin e kafshëve të llojit derra, produkteve, nënprodukteve të tyre, materialit biologjik, embrioneve, mishit dhe nënprodukteve të tyre nga Polonia”, shfuqizohet.
