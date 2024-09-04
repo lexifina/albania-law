@@ -1,0 +1,26 @@
+{
+  "qbz_id": 28763,
+  "title": "Për nxjerrjen në lirim të oficerit me gradë madhore",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "332",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2024-08-30",
+  "published": "2024-09-04",
+  "in_force": "2024-09-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/51517a814683ca7f6432351c33867eaa04d342a5e2ee6cb21fb8d86c13c98cc7.docx",
+  "source_sha256": "51517a814683ca7f6432351c33867eaa04d342a5e2ee6cb21fb8d86c13c98cc7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/28763",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2024/08/30/332",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
