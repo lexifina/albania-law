@@ -1,0 +1,5 @@
+# Neni 17
+E drejta për akses dhe përdorim të të dhënave
+1. Në bashkëpunim me autoritetet e tjera kompetente, Agjencia e Menaxhimit të Burimeve Ujore garanton përmbushjen e detyrimeve në kuadër të zbatimit të legjislacionit evropian për të drejtën e informacionit gjeohapësinor, të drejtën për akses dhe përdorim të të dhënave, si dhe të informacionit që rezulton nga vlerësimi fillestar i kryer në zbatim të nenit 8 të këtij ligji dhe nga programet e monitorimit të përcaktuara në zbatim të nenit 11 të këtij ligji.
+2. Agjencia e Menaxhimit të Burimeve Ujore siguron që dokumentet dhe informacionet e parashikuara në nenet 5, pika 5, 8, pika 4, 9, pika 3, 10, pika 3, 11, pika 1, 12, pika 4, dhe 13, pika 4, t’i vihen në dispozicion Kuvendit të Shqipërisë jo më vonë se 3 muaj pasi ato të bëhen të disponueshme.
+3. Agjencia e Menaxhimit të Burimeve Ujore siguron që informacioni nga vlerësimi fillestar i kryer në zbatim të nenit 8 të këtij ligji, dhe nga programet e monitorimit të përcaktuara në zbatim të nenit 11 të këtij ligji, t’i vihet në dispozicion Agjencisë Evropiane të Mjedisit jo më vonë se 6 muaj, pasi këto të dhëna të jenë bërë të disponueshme.

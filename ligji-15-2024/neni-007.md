@@ -1,0 +1,3 @@
+# Neni 7
+Bashkëpunimi rajonal
+Për qëllimet e koordinimit me autoritetet kompetente të shteteve me të cilat Republika e Shqipërisë ndan sovranitetin mbi nënrajonet detare I e II, Agjencia e Menaxhimit të Burimeve Ujore në bashkëpunim më ministrinë përgjegjëse për mjedisin, organet përgjegjëse për zonat e mbrojtura detare dhe monitorimin e ujërave detare, kur është e mundur, mund të përdorin strukturat ekzistuese të bashkëpunimit institucional rajonal, përfshirë Konventën për Mbrojtjen e Mjedisit Detar dhe Zonës Bregdetare të Detit Mesdhe (Konventa e Barcelonës e vitit 1976) dhe 7 protokollet e saj.
