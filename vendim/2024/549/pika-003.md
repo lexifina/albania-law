@@ -1,0 +1,1 @@
+3. “Informacion i klasifikuar”, çdo dokument ose material, pavarësisht nga forma apo natyra e tij, i përgatitur ose që përgatitet dhe të cilit i është vendosur një nivel i caktuar klasifikimi dhe ruajtjeje, në zbatim të ligjit nr. 10/2023, “Për informacionin e klasifikuar”.

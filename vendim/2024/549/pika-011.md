@@ -1,0 +1,1 @@
+11. “Procedurë standarde e veprimit (PSV)”, një procedurë specifike ose një grup udhëzuesish ose procedurash që dokumentojnë një aktivitet ose proces pune që kryhet brenda një situate ose proces pune për të rritur cilësinë, duke ndjekur një procedurë të standardizuar të punës.

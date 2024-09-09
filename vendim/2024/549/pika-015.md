@@ -1,0 +1,1 @@
+15. “Situatë emergjente”, situata e papritur, e cila shkaktohet nga faktorë të papërcaktuar, që mund të sjellin dëme të menjëhershme për rendin, për jetën e njerëzve, gjënë e gjallë, pronën, trashëgiminë kulturore e mjedisin, dhe kërkon informacion në kohë reale për gjendjen.

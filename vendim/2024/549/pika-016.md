@@ -1,0 +1,1 @@
+16. “Të dhëna personale”, çdo informacion për një person fizik i cili është i identifikuar ose i identifikueshëm, në përputhje me parashikimet e ligjit nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, i ndryshuar.
