@@ -614,7 +614,7 @@ a) licenca profesionale për realizimin e shërbimeve, objekt i kontratës, të 
 b) një listë të personelit kryesor, të nevojshëm për të zbatuar objektin e prokurimit dhe/ose komponentët e saj. Lista e personelit kryesor duhet të përfshijë CV-të e tyre dhe licencat profesionale, kur kanë të tilla sipas legjislacionit përkatës; dhe/ose
 c) fuqinë punëtore të operatorit ekonomik të nevojshëm për ekzekutimin e objektit të prokurimit; dhe/ose
 ç) mjetet dhe pajisjet teknike që ka në dispozicion apo që mund t’i vihen në dispozicion operatorit ekonomik për të përmbushur kontratën;
-d) në rastin e procedurës së prokurimit “Shërbim konsulence”, stafi i angazhuar të paraqesë deklaratë disponueshmërie për kryerjen e shërbimeve që ka marrë përsipër të realizojë.
+d) Në rastin e prokurimit të shërbimeve me natyrë intelektuale, ku nuk mbizotërojnë aspektet fizike të veprimtarisë dhe që kërkojnë ekspertizë të posaçme, stafi i angazhuar të paraqesë deklaratë disponueshmërie për kryerjen e shërbimeve që ka marrë përsipër të realizojë.
 5. Për të provuar, se operatori ekonomik vepron konform kërkesave të legjislacionit në fuqi, autoriteti/enti kontraktor kërkon, që:
 a) operatori ekonomik të ketë shlyer të gjitha detyrimet e maturuara të energjisë elektrike dhe përmbush kërkesat që rrjedhin nga legjislacioni i fushës në fuqi. Ky informacion kërkohet për operatorët ekonomikë, të cilët ushtrojnë veprimtarinë në territorin e Republikës së Shqipërisë;
 b) operatori ekonomik nuk ndodhet në kushtet e konfliktit të interesit, sipas legjislacionit në fuqi;
@@ -636,7 +636,7 @@ Ky detyrim nuk zbatohet në rastin e kontratave sektoriale.
 9. Në çdo rast, lotet janë të organizuara si procedura të veçanta brenda një procedure. Fillimi dhe përfundimi i njërit lot nuk ndikon në lotin tjetër të procedurës.
 Neni 43
 Kërkesat për kapacitetet ekonomiko-financiare
-(hiqen fjalë në pikën 1, zëvendësuar fjalë në pikën 2, ndryshuar fjalia e dytë e pikës 4 me VKM nr. 710, datë 24.11.2021; ndryshuar fjalë në shkronjën c) të pikës 2 dhe shtuar fjali në fund të pikës 4 me VKM-në nr. 498, datë 1.8.2024 )
+(Hiqen fjalë në pikën 1, zëvendësuar fjalë në pikën 2, ndryshuar fjalia e dytë e pikës 4 me VKM nr. 710, datë 24.11.2021; Ndryshuar fjalë në shkronjën c) të pikës 2 dhe shtuar fjali në fund të pikës 4 me VKM-në nr. 498, datë 1.8.2024 )
 1. Autoriteti/enti kontraktor, për të provuar kapacitetet financiare dhe ekonomike, kërkon kopje të deklaratave të xhiros vjetore të realizuar nga operatori ekonomik për një periudhë maksimumi deri në 3 (tre) vjetët e fundit financiarë.
 2. Vlera e xhiros minimale vjetore që u kërkohet operatorëve ekonomikë nuk mund të tejkalojë:
 a) dyfishin e vlerës së përllogaritur të kontratës ose lotit, në procedurat e prokurimit mbi kufirin e lartë monetar;
@@ -799,7 +799,7 @@ Autoriteti/enti kontraktor nuk u tregon pjesëmarrësve të tjerë, zgjidhjet e 
 13. Duke qenë se, produktet e përfituara nga kjo procedurë janë në vetvete zgjidhje inovatore, autoriteti/enti kontraktor përcakton rregullat e zbatueshme për të drejtat e pronësisë intelektuale në dokumentet e tenderit. Në rastin e një partneriteti për inovacion me disa partnerë, bazuar mbi parimet e konfidencialitetit të parashikuara në këtë ligj, autoriteti/enti kontraktor nuk duhet t’u tregojë partnerëve të tjerë zgjidhjet e propozuara ose informacione të tjera konfidenciale të komunikuara nga një partner në kuadrin e partneritetit, pa pëlqimin e tij.
 Neni 52
 Procedura me negocim, pa shpallje paraprake të njoftimit të kontratës
-(hequr fjalë në shkronjat a) dhe c) të pikës 1 me VKM-në nr. 498, datë 1.8.2024)
+(Hequr fjalë në shkronjat a) dhe c) të pikës 1 me VKM-në nr. 498, datë 1.8.2024)
 1. Procedura me negocim, pa shpallje paraprake të njoftimit të kontratës, është procedurë prokurimi me faza, që mund të përdoret nga çdo autoritet/ent kontraktor që prokuron punë/shërbime/mallra, vetëm në rastet e parashikuara në nenin 47 të LPP-së, kur:
 a) Në përgjigje të dy procedurave të njëpasnjëshme të hapura ose të hapura të thjeshtuara ose procedurës së kufizuar apo në përgjigje të një procedure të publikuar për konkurrim të lidhur me aktivitetet sektoriale, sipas kreut VIII të LPP-së, nuk është paraqitur asnjë ofertë apo kërkesë për pjesëmarrje, ose kur ofertat apo kërkesat për pjesëmarrje të dorëzuara kanë qenë të papërshtatshme. Në çdo rast, kushtet fillestare të kontratës nuk duhet të kenë pësuar ndryshime thelbësore.
 Në rastin e kontratave sektoriale, enti kontraktor mund të përdorë procedurën me negocim pa shpallje paraprake të njoftimit, kur në përgjigje të procedurës negocim me shpallje paraprake të njoftimit, nuk është paraqitur asnjë ofertë apo kërkesë për pjesëmarrje ose ato që janë dorëzuar kanë qenë të papërshtatshme, duke pasur parasysh që kushtet fillestare të kontratës të mos kenë pësuar ndryshime thelbësore.
@@ -1263,7 +1263,7 @@ Nëse është e nevojshme, komisioni i vlerësimit të ofertave kërkon sqarime 
 3. Ofertat e kualifikuara verifikohen nëse kanë apo jo gabime aritmetike. Nëse ofertat rezultojnë me gabime aritmetike korrigjohen në mënyrën e mëposhtme:
 a) nëse ka ndonjë mospërputhje, ndërmjet çmimit për njësi dhe çmimit total, që del nga shumëzimi i çmimit të njësisë me sasinë, çmimi i njësisë mbizotëron dhe çmimi total korrigjohet në bazë të tij; Në këtë rast, do të korrigjohet edhe shuma në fjalë, e cila ka lidhje me gabimin.
 b) nëse ka ndonjë mospërputhje te çmimi total, kur totali është shuma ose diferenca e nëntotaleve, çmimi i nëntotalit mbizotëron dhe çmimi total korrigjohet në bazë të tij; Në këtë rast, do të korrigjohet edhe shuma në fjalë, e cila ka lidhje me gabimin
-c Nëse ka ndonjë mospërputhje ndërmjet shumës në fjalë dhe shumës në shifra, mbizotëron shuma në fjalë. Bën përjashtim nga kjo rregull situata kur shuma në fjalë ka mospërputhje me shumën në shifra, ndërkohë që kjo e fundit nuk ka gabime aritmetike në përllogaritjen e zërave të ofertës.
+c) Nëse ka ndonjë mospërputhje ndërmjet shumës në fjalë dhe shumës në shifra, mbizotëron shuma në fjalë. Bën përjashtim nga kjo rregull situata kur shuma në fjalë ka mospërputhje me shumën në shifra, ndërkohë që kjo e fundit nuk ka gabime aritmetike në përllogaritjen e zërave të ofertës.
 Ofertat me gabime aritmetike refuzohen, kur:
 - shumat absolute të të gjitha korrigjimeve janë më shumë se 2% e vlerës së ofertës ekonomike të ofruar;
 - shuma absolute e të gjitha korrigjimeve janë më pak se 2%, por nuk pranohet korrigjimi nga ofertuesi.
@@ -1412,7 +1412,7 @@ c) pretendimet mbi kualifikimin/skualifikimin e ofertuesve të tjerë duke refer
 2. Veprimet, sipas shkronjave “c”, “ç” dhe “d”, të pikës 1, të këtij neni, bëhen jo më vonë se dita pasardhëse e punës.
 Neni 96
 Veprimet paraprake të autoritetit/entit kontraktor
-(hequr fjalë në pikën 1 me VKM-në nr. 498, datë 1.8.2024)
+(Hequr fjalë në pikën 1 me VKM-në nr. 498, datë 1.8.2024)
 1. Me marrjen e ankesës nga ankimuesi, personi përgjegjës për prokurimin konfirmon në bazën e të dhënave të publikuara nga komisioni i prokurimit publik, nëse ankesa është paraqitur edhe pranë KPP-së.
 Në rast se, ankesa rezulton e publikuar, titullari i autoritetit/entit kontraktor urdhëron njësinë e prokurimit dhe komisionin e vlerësimit të ofertave të pezullojnë vazhdimin e procedurës, deri në marrjen e një vendimi përfundimtar, sipas parashikimeve të LPP-së.
 Veprimet dhe vendimet e autoritetit/entit kontraktor, sipas kësaj pike, bëhen jo më vonë se dita pasardhëse e punës.
@@ -1444,8 +1444,8 @@ Neni 99
 Paraqitja e argumenteve nga operatorët ekonomikë të interesuar
 1. Për ankesat për vendimet e autoritetit/entit kontraktor për përzgjedhjen e kandidatëve pas fazës së parakualifikimit ose për procesin e vlerësimit të ofertave, operatorët ekonomikë, të cilët kanë marrë pjesë në procedurën e prokurimit dhe mund të cenohen nga ankesa e paraqitur, kanë të drejtë të paraqesin argumentet e tyre në lidhje me ankesën, njëkohësisht pranë autoritetit/entit kontraktor dhe komisionit të prokurimit publik në Sistemin e Ankesave Elektronike.
 2. Paraqitja e argumenteve nga operatorët ekonomikë të interesuar bëhet sipas një formulari standard, i cili hartohet nga APP-ja, në bashkëpunim me komisionin e prokurimit publik, dhe është pjesë e dokumenteve standarde të tenderit.
-3. Në procedurat e prokurimit mbi kufirin e lartë monetar, afati kohor për paraqitjen e argumenteve, sipas pikës 1, të këtij neni, është 10 (dhjetë) ditë nga publikimi i ankesës nga komisioni i prokurimit publik.
-Në procedurat e prokurimit nën kufirin e lartë monetar, ky afat është 7 (shtatë) ditë.
+3. Në procedurat e prokurimit mbi kufirin e lartë monetar, afati kohor për paraqitjen e argumenteve, sipas pikës 1, të këtij neni, është 7 (shtatë) ditë nga publikimi i ankesës nga komisioni i prokurimit publik.
+Në procedurat e prokurimit nën kufirin e lartë monetar, ky afat është 5 (pesë) ditë.
 4. Nëse operatorët ekonomikë të interesuar, nuk kanë paraqitur argumente që kundërshtojnë ankesën, sipas parashikimeve të kësaj pike, nuk mund të ushtrojnë më pas të drejtën e ankimit për vendimin e dhënë lidhur me ankesën për këtë procedurë prokurimi.
 Neni 100
 Afatet e shqyrtimit të ankesave nga autoriteti/enti kontraktor
@@ -1455,7 +1455,7 @@ Në rastet e ankesave për vendimin e përzgjedhjes së kandidatëve pas fazës 
 3. Në rastin kur, për shqyrtimin e ankesës, autoriteti/enti kontraktor ka nevojë të kryejë verifikime pranë organeve të tjera, afati i përcaktuar në pikën 2, të këtij neni, ndërpritet dhe rifillon pasi të ketë siguruar informacionin e kërkuar. Në çdo rast, për pritjen e informacionit të kërkuar, afati nuk duhet të tejkalojë 30 (tridhjetë) ditë.
 Autoriteti/enti kontraktor ka detyrimin të vërë menjëherë në dijeni komisionin e prokurimit publik, ankuesin dhe operatorët ekonomikë të interesuar për zgjatjen e afatit.
 4. Autoriteti/enti kontraktor merr vendim, sipas parashikimit të pikës 3, të nenit 114, të LPP-së, dhe vë në dijeni, brenda ditës së nesërme të punës nga marrja e këtij vendimi, komisionin e prokurimit publik, ankuesin, operatorët ekonomikë të interesuar, duke e shoqëruar me shpjegimet dhe dokumentacionin përkatës.
-5. Kundër vendimit të autoritetit/entit kontraktor, operatorët ekonomikë të interesuar, të cilët kanë paraqitur argumentet e tyre në lidhje me ankesën, kanë të drejtën të ankohen pranë komisionit të prokurimit publik, brenda 5 (pesë) ditëve nga marrja e njoftimit nga autoriteti ose enti kontraktor, sipas pikës 4, të këtij neni.
+5. Kundër vendimit të autoritetit/entit kontraktor, operatorët ekonomikë të interesuar, të cilët kanë paraqitur argumentet e tyre në lidhje me ankesën, kanë të drejtën të ankohen pranë komisionit të prokurimit publik, brenda 7 (shtatë) ditëve nga marrja e njoftimit nga autoriteti/enti kontraktor për procedurat e prokurimit nën kufirin e lartë monetar dhe brenda 10 (dhjetë) ditëve për procedurat e prokurimit mbi kufirin e lartë monetar, sipas pikës 4, të këtij neni.
 Neni 101
 Hapat për shqyrtimin e ankesave në autoritetin/entin kontraktor
 Për shqyrtimin e ankesave, autoriteti/enti kontraktor ndjek hapat e mëposhtëm:
@@ -1539,7 +1539,7 @@ f) përgatit formularin e raportimit për zbatimin e kontratës, i cili, pasi mi
 Titullari i autoritetit/entit kontraktor, pa cenuar detyrimet që lindin nga legjislacioni i fushës, mund të ngarkojë në urdhrin përkatës një ose disa nga anëtarët e strukturës përgjegjëse për ndjekjen e zbatimit të kontratës, për kryerjen e detyrave të veçanta, sipas shkronjave të sipërpërmendura.
 7. Në përfundim të kontratës, struktura e ngarkuar për ndjekjen e kontratës përgatit formularin e raportimit për korrektësinë dhe cilësinë e zbatimit të kontratës, duke pasqyruar në të të dhëna mbi ecurinë e zbatimit të kontratës, modifikimet e kryera në kontratë, nëse është rasti, problemet e hasura gjatë zbatimit dhe masat e marra për zgjidhjen e tyre, sipas rastit, si dhe informacion për likuidimin ose jo të kontratës. Për çdo situatë të raportuar në lidhje me ecurinë e zbatimit të kontratës, autoriteti/enti kontraktor pasqyron në formularin e raportimit rrethanat, arsyet dhe argumentimin përkatës mbi bazën e dispozitave ligjore, ku bazohet situata konkrete në zbatimin e kontratës.
 8. Formularët e planit të zbatimit të kontratës dhe raportimit për zbatimin e kontratës, sipas parashikimeve të këtij neni, do të jenë në përputhje me udhëzimet e APP-së.
-9. Gjatë kohës së zbatimit të kontratës për furnizimin me karburant, gazoil, benzol dhe karburant për ngrohje, vlera absolute e normës së fitimit nuk do të ndryshojë gjatë ekzekutimit të kontratës, në rast të luhatjes së çmimeve. Nëse çmimi gjatë kohës së zbatimit të kontratës për furnizimin me karburant, gazoil, benzol dhe karburant për ngrohje ndryshon në raport me çmimin e kontratës, atëherë autoritetet/entet kontraktore duhet të bëjnë likuidimin e mallit, sipas faturave periodike të shitjes, të lëshuara sipas legjislacionit tatimor në fuqi në lidhje me momentin e lëshimit të faturës, mbështetur në çmimin e bursës në ditën para lëshimit të faturës, të publikuar në Buletinin e Njoftimeve Publike, i dërguar nga Drejtoria e Përgjithshme e Doganave, i livruar sipas kushtit CIF-Shqipëri dhe i konvertuar sipas kursit zyrtar të këmbimit të Bankës së Shqipërisë të ditës para lëshimit të faturës.
+9. Gjatë kohës së zbatimit të kontratës për furnizimin me karburant, gazoil, benzol dhe karburant për ngrohje, vlera absolute e normës së fitimit nuk do të ndryshojë gjatë ekzekutimit të kontratës, në rast të luhatjes së çmimeve. Nëse çmimi gjatë kohës së zbatimit të kontratës për furnizimin me karburant, gazoil, benzol dhe karburant për ngrohje ndryshon në raport me çmimin e kontratës, atëherë autoritetet/entet kontraktore duhet të bëjnë likuidimin e mallit, sipas faturave periodike të shitjes, të lëshuara sipas legjislacionit tatimor në fuqi në lidhje me momentin e lëshimit të faturës, mbështetur në çmimin e bursës në ditën para lëshimit të faturës, të publikuar nga APP-ja, pas dërgimit të këtij çmimi për publikim nga Drejtoria e Përgjithshme e Doganave, i livruar sipas kushtit CIF-Shqipëri dhe i konvertuar sipas kursit zyrtar të këmbimit të Bankës së Shqipërisë të ditës para lëshimit të faturës.
 10. Autoriteti kontraktor, para pagimit të faturës së mallit duhet të kontrollojë përqindjen e pranuar të rritjes apo të uljes të çmimit të bursës, të publikuar nga APP-ja pas dërgimit të këtij çmimi për publikim nga Drejtoria e Përgjithshme e Doganave livruar, sipas kushtit CIF-Shqipëri, në momentin e shitjes së mallit, objekt kontrate, autoriteteve kontraktore, si dhe cilësinë e mallit të livruar, nëse është e njëjtë me atë për të cilën është shpallur fitues kontraktori.
 Neni 108
 Raportimi në rastet e mospërmbushjes së detyrimeve kontraktuale
