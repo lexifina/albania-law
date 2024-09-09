@@ -1,0 +1,1 @@
+6. Përzgjedhja e anëtarëve, përfaqësues të organizatave sindikale dhe organizatave të punëdhënësve, përcaktohet sipas treguesve të parashikuar në pikën 4, të nenit 200/1, të Kodit të Punës. Emërimi i anëtarëve të organizatave të punëdhënësve dhe organizatave sindikale bëhet nga prefekti, sipas propozimeve të vetë organizatave.

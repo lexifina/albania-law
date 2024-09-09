@@ -1,0 +1,1 @@
+8. KKTR-ja, në çdo qark, mblidhet në përputhje me programin e miratuar ose me kërkesën me shkrim të çdo pale, sipas përcaktimit të bërë në rregulloren e brendshme të funksionimit, por jo më pak se 4 (katër) herë në vit. Çdo këshill harton rregulloren e vet të brendshme, mbështetur në specifikat e çdo qarku.

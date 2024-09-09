@@ -1,0 +1,1 @@
+1. Këshilli Konsultativ Trepalësh Rajonal (në vijim “KKTR”) është organ rajonal konsultativ trepalësh, në nivel qarku, me përfaqësues të organizatave të punëdhënësve, të organizatave të punëmarrësve dhe përfaqësues të strukturave shtetërore në nivel qarku.
