@@ -1,8 +1,12 @@
 LIGJ 
 
-Nr.9718, datë 19.4.2007
+Nr. 9718, datë 19.4.2007
 
 PËR URDHRIN E INFERMIERIT NË REPUBLIKËN E SHQIPËRISË
+
+(Ndryshuar me ligjin nr. 10462, datë 13.9.2011)
+
+(i përditësuar)
 
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -20,19 +24,25 @@ Neni 1
 
 Qëllimi i ligjit
 
-Ky ligj ka për qëllim të rregullojë marrëdhëniet juridike të profesioneve infermier, mami, fizioterapeft, si dhe organizimin e Urdhrit të Infermierit.
+(Shtuar togfjalësh me ligjin nr. 10462, datë 13.9.2011)
+
+Ky ligj ka për qëllim të rregullojë marrëdhëniet juridike të profesioneve infermier, mami, fizioterapeft, teknik/e laboratori, teknik/e imazherie, logopedist/e si dhe organizimin e Urdhrit të Infermierit.
 
 Neni 2
 
 Fusha e zbatimit
 
-Ky ligj e shtrin veprimtarinë e vet në të gjithë territorin e vendit dhe zbatohet për të gjithë infermierët, mamitë dhe fizioterapeftët që ushtrojnë këtë profesion në Republikën e Shqipërisë. 
+(Ndryshuar me ligjin nr. 10462, datë 13.9.2011)
+
+Ky ligj e shtrin veprimtarinë e vet në të gjithë territorin e vendit dhe zbatohet për të gjithë infermierët/et, mamitë, fizioterapeftët/et, teknikët/et e laboratorit, teknikët/et e imazherisë dhe logopedistët/et, që ushtrojnë profesionin në Republikën e Shqipërisë.
 
 Neni 3
 
 Statusi
 
-Urdhri i Infermierit është ent publik jobuxhetor, i cili përfaqëson interesat e përbashkët të profesioneve të infermierit, të mamisë dhe fizioterapeftit, si dhe rregullon marrëdhëniet ndërmjet tyre, në funksion të publikut.
+(Ndryshuar me ligjin nr. 10462, datë 13.9.2011)
+
+Urdhri i Infermierit është ent publik jobuxhetor, i cili përfaqëson interesat e përbashkët të profesioneve të infermierit/es, mamisë, fizioterapeftit/es, teknikut/es të/së laboratorit, teknikut/es të/së imazherisë dhe logopedistit/es, si dhe rregullon marrëdhëniet ndërmjet tyre, në funksion të publikut.
 
 KREU II
 
@@ -42,21 +52,25 @@ Neni 4
 
 Kriteret e anëtarësisë
 
-1. Urdhri i Infermierit përbëhet nga infermierët dhe mamitë që kanë diplomën përkatëse dhe që e ushtrojnë profesionin në Republikën e Shqipërisë.
+(Shtuar togfjalësh në pikat 1, 2, 3 dhe  4 me ligjin nr. 10462, datë 13.9.2011)
 
-2. Shtetasit shqiptarë dhe të huaj, të diplomuar si infermierë ose mami në Republikën e Shqipërisë, bëhen menjëherë anëtarë të Urdhrit, me pagimin e kuotizacionit dhe regjistrimin pranë tij.
+1. Urdhri i Infermierit përbëhet nga infermierët dhe mamitë, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e që kanë diplomën përkatëse dhe që e ushtrojnë profesionin në Republikën e Shqipërisë.
 
-3. Anëtarë të Urdhrit të Infermierit bëhen edhe të gjithë infermierët dhe mamitë, shtetas shqiptarë dhe të huaj, të diplomuar jashtë vendit, pas njohjes së diplomës, sipas legjislacionit në fuqi.
+2. Shtetasit shqiptarë dhe të huaj, të diplomuar si infermierë ose mami, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e në Republikën e Shqipërisë, bëhen menjëherë anëtarë të Urdhrit, me pagimin e kuotizacionit dhe regjistrimin pranë tij.
 
-4. Shtetasi i huaj, që të ushtrojë profesionin e infermierit dhe mamisë në Republikën e Shqipërisë, duhet të jetë anëtar relativ i të njëjtit urdhër në vendin e vet ose në vendin ku së fundi ka ushtruar këtë profesion.
+3. Anëtarë të Urdhrit të Infermierit bëhen edhe të gjithë infermierët dhe mamitë, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e shtetas shqiptarë dhe të huaj, të diplomuar jashtë vendit, pas njohjes së diplomës, sipas legjislacionit në fuqi.
 
-5. Përjashtohen nga ky detyrim, por jo nga e drejta e anëtarësimit në këtë organizëm, nëpunësit e administratës shtetërore, për sa kohë ata nuk ushtrojnë veprimtari të mirëfilltë si mami, infermier ose fizioterapeft.
+4. Shtetasi i huaj, që të ushtrojë profesionin e infermierit dhe mamisë, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e në Republikën e Shqipërisë, duhet të jetë anëtar relativ i të njëjtit urdhër në vendin e vet ose në vendin ku së fundi ka ushtruar këtë profesion.
+
+5. Përjashtohen nga ky detyrim, por jo nga e drejta e anëtarësimit në këtë organizëm, nëpunësit e administratës shtetërore, për sa kohë ata nuk ushtrojnë veprimtari të mirëfilltë si infermier/e, mami, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e.
 
 Neni 5 
 
 Detyrimi për anëtarësi
 
-1. Asnjë individ nuk mund ta ushtrojë profesionin e infermierit, të mamisë apo fizioterapeftit në Republikën e Shqipërisë pa qenë anëtar i Urdhrit të Infermierit.
+(Ndryshuar togfjalësh në pikën 1 me ligjin nr. 10462, datë 13.9.2011)
+
+1. Asnjë individ nuk mund ta ushtrojë profesionin e infermier/e, mami, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e në Republikën e Shqipërisë pa qenë anëtar i Urdhrit të Infermierit.
 
 2. Punëdhënësit e institucioneve shëndetësore, publike dhe private, të shërbimit shëndetësor parësor, dytësor dhe tretësor, ndalohen t'i punësojnë ata në kundërshtim me këtë dispozitë.
 
@@ -64,19 +78,21 @@ Neni 6
 
 Misioni i Urdhrit të Infermierit
 
-1. Urdhri i Infermierit ka si mision ruajtjen e standardeve të miratuara nga Ministri i Shëndetësisë, në ushtrimin e profesionit infermier, mami ose fizioterapeft, nëpërmjet mbikëqyrjes së normave të etikës dhe të Kodit Deontologjik të profesioneve infermier, mami dhe fizioterapeft, si dhe mbrojtjes së pacientëve dhe të publikut nga kequshtrimi i profesionit të infermierit, mamisë apo fizioterapeftit.
+(Ndryshuar togfjalësha në pikën 1, në shkronjat ‘’a’’, ‘’c’’, ‘’ç’’ dhe ‘’d’’ të pikës 2 me ligjin nr. 10462, datë 13.9.2011)
+
+1. Urdhri i Infermierit ka si mision ruajtjen e standardeve të miratuara nga Ministri i Shëndetësisë, në ushtrimin e profesionit infermier/e, mami, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e, nëpërmjet mbikëqyrjes së normave të etikës dhe të Kodit Deontologjik të profesioneve infermier/e, mami, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e, si dhe mbrojtjes së pacientëve dhe të publikut nga kequshtrimi i profesionit infermier/e, mami, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e.
 
 2. Në përmbushje të këtij misioni, Urdhri i Infermierit:
 
-a) kryen regjistrimin e infermierëve, mamive dhe fizioterapeftëve në regjistrin përkatës të këtij urdhri;
+a) kryen regjistrimin e infermier/e, mami, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e në regjistrin përkatës të këtij urdhri; 
 
 b) mbikëqyr zbatimin e detyrave profesionale, në përputhje me kërkesat e shkencave mjekësore, rregullat e etikës dhe Kodin Deontologjik;
 
-c) siguron udhëheqjen etiko-morale e deontologjike të bashkësisë së infermierëve, mamive dhe fizioterapeftëve, pavarësinë e ushtrimit të profesionit dhe mbron interesat moralë të këtij profesioni;
+c) siguron udhëheqjen etiko-morale e deontologjike të bashkësisë së infermier/e, mami, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e, pavarësinë e ushtrimit të profesionit dhe mbron interesat moralë të këtij profesioni;
 
-ç) mbron interesat e pacientëve dhe të publikut nga kequshtrimi i mjekësisë dhe shkelja e Kodit Deontologjik Mjekësor nga ana e infermierëve, mamive dhe fizioterapeftëve;
+ç) mbron interesat e pacientëve dhe të publikut nga kequshtrimi i mjekësisë dhe shkelja e Kodit Deontologjik Mjekësor nga ana e infermier/e, mami, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e;
 
-d) bashkëpunon për zhvillimin e standardeve profesionale, për planifikimin dhe hartimin e programeve të formimit profesional për realizimin e specializimeve të ndryshme dhe të edukimit në vazhdim të mamive, infermierëve dhe fizioterapeftëve;
+d) bashkëpunon për zhvillimin e standardeve profesionale, për planifikimin dhe hartimin e programeve të formimit profesional për realizimin e specializimeve të ndryshme dhe të edukimit në vazhdim të infermier/e, mami, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e;
 
 dh) konfirmon anëtarësinë në Urdhrin e Infermierit, nëpërmjet dhënies së certifikatës së anëtarësimit.
 
@@ -148,7 +164,9 @@ Neni 12
 
 Këshilli Kombëtar
 
-1. Këshilli Kombëtar i Urdhrit të Infermierit përbëhet nga 17 anëtarë si më poshtë:
+(Ndryshuar togfjalësh në pikën 1, shtuar shkronjat ‘’e’’, ‘’ë’’ dhe ‘’f’’ të pikës 1 me ligjin nr. 10462, datë 13.9.2011)
+
+1. Këshilli Kombëtar i Urdhrit të Infermierit përbëhet nga 21 anëtarë si më poshtë:
 
 a) Presidenti i Urdhrit të Infermierit;
 
@@ -161,6 +179,12 @@ c) një përfaqësues i Ministrisë së Shëndetësisë;
 d) një përfaqësues i Shkollave të Larta të Infermierisë; 
 
 dh) një përfaqësues i Institutit të Sigurimeve të Kujdesit Shëndetësor.
+
+e) dy përfaqësues të shoqatës së pacientëve;
+
+ë) një përfaqësues i sindikatës së infermierëve;
+
+f) Zëvendëspresidenti i Urdhrit të Infermierit të Tiranës.
 
 2. Rastet e shkarkimit të anëtarëve të Këshillit Kombëtar parashikohen në statutin, të cilin e miraton Këshilli Kombëtar i Urdhrit të Infermierit.
 
@@ -184,7 +208,9 @@ Neni 14
 
 Kodi Deontologjik
 
-Këshilli Kombëtar i Urdhrit  të Infermierit miraton Kodin Deontologjik të profesioneve infermier, mami dhe fizioterapeft.
+(Ndryshuar togfjalësh me ligjin nr. 10462, datë 13.9.2011)
+
+Këshilli Kombëtar i Urdhrit  të Infermierit miraton Kodin Deontologjik të profesioneve infermier/e, mami, fizioterapeft/e, teknik/e laboratori, teknik/e imazherie dhe logopedist/e.
 
 Neni 15 
 
@@ -248,4 +274,4 @@ Neni 20
 
 Ky ligj hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare.
 
-Shpallur me dekretin nr.5293, datë 8.5.2007 të Presidentit të Republikës së Shqipërisë, Alfred Moisiu
+Shpallur me dekretin nr. 5293, datë 8.5.2007 të Presidentit të Republikës së Shqipërisë, Alfred Moisiu
