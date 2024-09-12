@@ -1,0 +1,27 @@
+{
+  "qbz_id": 122682,
+  "title": "PËR MBROJTJEN NGA RREZATIMET JONIZUESE",
+  "type": "Ligj",
+  "number": "8025",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1995-11-09",
+  "version_no": 1,
+  "qbz_version_id": 10638,
+  "in_force": "2024-09-12",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2024-09-12",
+  "changed_by_qbz_id": 29178,
+  "changed_by_number": "99",
+  "changed_by_title": "Për inspektimin në Republikën e Shqipërisë",
+  "source": "https://qbz.gov.al/files/bd0ce6461577f1db2a6c14c3753b163ab593ba0c2c5a5b71464b003fcc5f9b82.docx",
+  "source_sha256": "bd0ce6461577f1db2a6c14c3753b163ab593ba0c2c5a5b71464b003fcc5f9b82",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122682",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/122682/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
