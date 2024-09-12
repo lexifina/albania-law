@@ -4,7 +4,7 @@ Nr. 8528, datë 23.9.1999
 
 PËR NXITJEN DHE MBROJTJEN E të USHQYERit ME GJI
 
-(Ndryshuar me ligjin nr. 58/2013, datë 14.2.2013; nr. 53/2016, datë 19.5.2016)
+(Ndryshuar me ligjin nr. 58/2013, datë 14.2.2013; nr. 53/2016, datë 19.5.2016; nr. 99/2024, datë 12.9.2024)
 
 (i përditësuar)
 
@@ -148,17 +148,15 @@ Neni 11
 
 Neni 12
 
-(Ndryshuar fjalia e dytë me ligjin nr. 58/2013, datë 14.2.2013)
+(Ndryshuar fjalia e dytë me ligjin nr. 58/2013, datë 14.2.2013; ndryshuar me ligjin nr. 99/2024, datë 12.9.2024)
 
-Ministria e Shëndetësisë është përgjegjëse për zbatimin e këtij ligji.
-
-Inspektimi për verifikimin e respektimit të kërkesave ligjore që burojnë nga ky ligj kryhet nga inspektorati që mbulon fushën e shëndetit në përputhje me këtë ligj dhe ligjin nr. 10 433, datë 16.6.2011 “Për inspektimin në Republikën e Shqipërisë”.
+Inspektimi për verifikimin e respektimit të kërkesave ligjore, që burojnë nga ky ligj, kryhet nga struktura përgjegjës për inspektimin në shëndetësi në përputhje me ligjin për inspektimin.
 
 Kundërvajtjet
 
 Neni 13
 
-(Ndryshuar paragrafët e fundit me ligjin nr. 58/2013, datë 14.2.2013; ndryshuar me ligjin nr. 53/2016, datë 19.5.2016)
+(Ndryshuar paragrafët e fundit me ligjin nr. 58/2013, datë 14.2.2013; ndryshuar me ligjin nr. 53/2016, datë 19.5.2016; hequr fjalë në paragrafin e parafundit me ligjin nr. 99/2024, datë 12.9.2024)
 
 Shkeljet e dispozitave të këtij ligji, kur nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative dhe dënohen me gjobë si më poshtë:
 
@@ -174,7 +172,7 @@ Shkeljet e dispozitave të këtij ligji, kur nuk përbëjnë vepër penale, për
 
 	Masa e gjobës është dënim kryesor, kur parashikohet si dënim më vete, dhe dënim plotësues, kur jepet njëkohësisht me masën e heqjes së licencës.
 
-	Ankimi ndaj vendimit të Inspektoratit Shëndetësor Shtetëror bëhet në përputhje me ligjin për inspektimin. Ekzekutimi i vendimeve bëhet sipas legjislacionit në fuqi për kundërvajtjet administrative.
+	Ankimi ndaj vendimit të Inspektoratit bëhet në përputhje me ligjin për inspektimin. Ekzekutimi i vendimeve bëhet sipas legjislacionit në fuqi për kundërvajtjet administrative.
 
 Gjobat e vjela, sipas këtij neni, derdhen në Buxhetin e Shtetit.
 
