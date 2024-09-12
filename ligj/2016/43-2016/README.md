@@ -1,9 +1,9 @@
 # PËR MARRËVESHJET NDËRKOMBËTARE NË REPUBLIKËN  E SHQIPËRISË
 
-Official source: [Ligji nr. 43/2016](https://qbz.gov.al/api/v1/acts/66201).
+Official source: [Ligji nr. 43/2016](https://qbz.gov.al/api/v1/acts/66201); [QBZ versions](https://qbz.gov.al/api/v1/acts/66201/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2016-04-21; published 2016-06-24; in force 2016-07-09.
+Status of this text: `official consolidated version 1`, applying from 2024-09-12; after QBZ act 28885 (nr. 101).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
