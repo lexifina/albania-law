@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave lidhur me ushtrimin e përgjegjësive të titullarit të Autoritetit Kontraktor për procedurat e prokurimit “Blerje me vlera të vogla” dhe “Blerje nëpërmjet sistemit dinamik të biletave të transportit ajror”, në cilësinë e zyrtarit të autorizuar, zotit Ylli Imeri, drejtor i Drejtorisë së Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse.
