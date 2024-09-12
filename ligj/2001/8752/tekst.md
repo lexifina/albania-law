@@ -4,11 +4,11 @@ Nr. 8752, datë 26.3.2001
 
 PËR KRIJIMIN DHE FUNKSIONIMIN E STRUKTURAVE PËR ADMINISTRIMIN DHE MBROJTJEN E TOKËS
 
-(Ndryshuar me ligjin nr. 9244, datë 17.6.2004; nr. 10257, datë 25.3.2010; nr. 16/2012, datë 16.2.2012; nr. 130/2014, datë 2.10.2014)
+(Ndryshuar me ligjin nr. 9244, datë 17.6.2004; nr. 10257, datë 25.3.2010; nr. 16/2012, datë 16.2.2012; nr. 130/2014, datë 2.10.2014; nr. 99/2024, datë 12.9.2024)
 
 (i përditësuar)
 
-Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës,  me propozimin e Këshillit të Ministrave,
+Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
 
 K U V E N D I 
 
@@ -70,23 +70,25 @@ ORGANIZIMI I STRUKTURAVE TË ADMINISTRIMIT
 
 DHE TË MBROJTJES SË TOKËS
 
-(Ndryshuar titulli i Kreut me ligjin nr. 10257, datë 25.3.2010)
+(Ndryshuar titulli i kreut me ligjin nr. 10257, datë 25.3.2010)
 
 Neni 3
 
-(Ndryshuar me ligjin nr. 10257, datë 25.3.2010)
+(Ndryshuar me ligjin nr. 10257, datë 25.3.2010; zëvendësuar fjalë shkronjën “b” me ligjin nr. 99/2024, datë 12.9.2024)
 
 Për administrimin dhe mbrojtjen e tokës, pranë këshillit të qarkut krijohet drejtoria e administrimit dhe mbrojtjes së tokës (DAMT), në përbërje të së cilës janë:
 
 a) sektori i administrimit të tokës, si funksion i deleguar, i detyrueshëm, i Këshillit të Ministrave;
 
-b)  inspektorati i mbrojtjes së tokës (IMT) në nivel sektori, si funksion i këshillit të qarkut, që realizohet në përputhje me përcaktimet e ligjit nr. 9244, datë 17.6.2004 “Për mbrojtjen e tokës bujqësore”.
+b struktura përgjegjëse për inspektimin në mbrojtjen e tokës bujqësore, si funksion i këshillit të qarkut, që realizohet në përputhje me përcaktimet e ligjit nr. 9244, datë 17.6.2004 “Për mbrojtjen e tokës bujqësore”.
 
 Neni 4
 
-                      (Ndryshuar togfjalësh me ligjin nr. 10257, datë 25.3.2010)
+(Ndryshuar togfjalësh me ligjin nr. 10257, datë 25.3.2010; shtuar paragraf me ligjin nr. 99/2024, datë 12.9.2024)
 
 Numri i punonjësve dhe mënyra e funksionimit të Drejtorisë së Administrimit dhe Mbrojtjes së Tokës (DAMT) përcaktohen me vendim të Këshillit të Ministrave.
+
+Marrëdhëniet e punës së inspektorëve të mbrojtjes së tokës bujqësore rregullohen në përputhje me ligjin për inspektimin në Republikën e Shqipërisë.
 
 Neni 5
 
