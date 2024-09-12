@@ -4,6 +4,10 @@ Nr.9693, datë 19.3.2007
 
 PËR FONDIN KULLOSOR
 
+(Ndryshuar me ligjin nr. 9996, datë 22.9.2008; nr. 10 137, datë 11.5.2009; nr. 14/2012, datë 16.2.2012; nr. 38/2013, datë 14.2.2013; nr. 49/2016, datë 5.5.2016; nr. 99/2024, datë 12.9.2024)
+
+(i përditësuar)
+
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
 
 KUVENDI 
@@ -46,11 +50,11 @@ Në këtë ligj, termat e mposhtëm kanë këto kuptime:
 
 5. “Burime kullosore” është tërësia e elementeve natyrore të sipërfaqes së kullotës, të vlerësueshme e të përdorshme për kullotë. Në fondin kullosor, si burime natyrore përfshihen toka, uji, bimësia barishtore, bimësia pyjore e jopyjore.
 
-6. “Fond kullosor” është sipërfaqja e kullotave dhe e livadheve natyrore, shtetërore, komunale dhe private, infrastrukturat e tyre, sipërfaqet e fondit pyjor me drurë e shkurre, që përdoren si kullota, përfshirë edhe sipërfaqet e zhveshura shkëmbore në brendësi të tyre.
+6. “Fond kullosor” është sipërfaqja e kullotave dhe e livadheve natyrore, shtetërore, bashkiake dhe private, infrastrukturat e tyre, sipërfaqet e fondit pyjor me drurë e shkurre, që përdoren si kullota, përfshirë edhe sipërfaqet e zhveshura shkëmbore në brendësi të tyre.
 
 7. “Ekosistem kullosor” është kompleksi dinamik jetësor, bimë, kafshë, mikrobe dhe mjedisi jo i gjallë, që ndërvepron si njësi funksionale.
 
-8. “Infrastrukturë kullosore” janë zyrat, rrjeti rrugor, lerat, koritat, çezmat, rrethimet e gardhimet, tabelat, shenjat e ndryshme treguese e sinjalizuese, si dhe ngrehinat e tjera, të ngritura në fondin kullosor shtetëror, komunal e privat, për vendosjen e fermave gjatë sezonit kullosor.
+8. “Infrastrukturë kullosore” janë zyrat, rrjeti rrugor, lerat, koritat, çezmat, rrethimet e gardhimet, tabelat, shenjat e ndryshme treguese e sinjalizuese, si dhe ngrehinat e tjera, të ngritura në fondin kullosor shtetëror, bashkiak e privat, për vendosjen e fermave gjatë sezonit kullosor.
 
 9. “Regjistër i fondit kullosor” është regjistri zyrtar, ku regjistrohen, ruhen e përditësohen të dhënat kryesore për çdo njësi të ekonomisë kullosore apo ndryshimet periodike të sipërfaqes, kapacitetit mbajtës, shoqëruar me hartat përkatëse.
 
@@ -94,9 +98,11 @@ Neni 5
 
 Pronësia
 
+(Ndryshuar pika 1, me ligjin nr. 49/2016, datë 5.5.2016)
+
 1. Fondi kullosor, sipas pronësisë, ndahet në:
 
-a) fond kullosor shtetëror, që përmbledh kullotat dhe livadhet në pronësi publike;
+a) fond kullosor shtetëror, që përmbledh kullotat dhe livadhet në pronësi të bashkisë, në territorin administrativ të së cilës ndodhen;
 
 b) fond kullosor privat, që përmbledh kullotat dhe livadhet në pronësi private.
 
@@ -104,7 +110,7 @@ b) fond kullosor privat, që përmbledh kullotat dhe livadhet në pronësi priva
 
 a) kullotat dhe livadhet në administrim të ministrisë;
 
-b) kullotat dhe livadhet në administrim të organeve të qeverisjes vendore dhe atyre kolektive.
+b) kullotat dhe livadhet në administrim të bashkive dhe atyre kolektive.
 
 3. Pronarët privatë i gëzojnë të drejtat mbi kullotat e livadhet, që kanë në pronësi, në përputhje me dispozitat e këtij ligji.
 
@@ -120,9 +126,11 @@ Neni 7
 
 Inventarizimi
 
+(Ndryshuar pika 2, me ligjin nr. 49/2016, datë 5.5.2016)
+
 1. Kullotat e livadhet inventarizohen çdo 10 vjet, sipas kritereve dhe rregullave të përcaktuara në udhëzimin e ministrit.
 
-2. Njësitë e qeverisjes vendore, ato kolektive dhe pronarët privatë të kullotave e livadheve u japin drejtorive rajonale të shërbimit pyjor të dhëna të nevojshme për inventarizimin e kullotave që zotërojnë, në përputhje me kërkesat e udhëzimit të përmendur në pikën 1 të këtij neni.
+2. Bashkitë dhe pronarët privatë të kullotave e livadheve i japin ministrisë përgjegjëse për kullotat dhe livadhet të dhëna të nevojshme për inventarizimin e kullotave që zotërojnë, në përputhje me kërkesat e udhëzimit të përmendur në pikën 1 të këtij neni.
 
 Neni 8
 
@@ -130,7 +138,7 @@ Regjistrimi
 
 1. Kullotat dhe livadhet shtetërore, së bashku me infrastrukturën e tyre, regjistrohen në zyrën e regjistrimit të pasurive të paluajtshme.
 
-2. Ngarkohen ministria dhe organet përkatëse të qeverisjes vendore që, brenda dy vjetëve nga hyrja në fuqi e këtij ligji, të përfundojnë regjistrimin e kullotave e të livadheve, që kanë në zotërim, në përputhje me dispozitat e ligjit nr. 8743, datë 22.2.2001 “Për pronat e paluajtshme të shtetit” .
+2. Ngarkohen ministria dhe bashkitë  përkatëse që, brenda dy vjetëve nga hyrja në fuqi e këtij ligji, të përfundojnë regjistrimin e kullotave e të livadheve, që kanë në zotërim, në përputhje me dispozitat e ligjit nr. 8743, datë 22.2.2001 “Për pronat e paluajtshme të shtetit” .
 
 Neni 9
 
@@ -140,7 +148,7 @@ Regjistri i fondit kullosor
 
 2. Rregullat për mbajtjen e regjistrit të fondit kullosor, për regjistrimin, përditësimin dhe ndryshimet e gjendjes së kullotave e livadheve, miratohen nga ministri.
 
-3. Regjistri i fondit kullosor krijon bazën e të dhënave për kullotat e livadhet në shkallë vendi, qarku, rrethi, komune dhe për çdo ekonomi kullosore.
+3. Regjistri i fondit kullosor krijon bazën e të dhënave për kullotat e livadhet në shkallë vendi, qarku, rrethi, bashkie dhe për çdo ekonomi kullosore.
 
 4. Ministria, në bazë të regjistrit të fondit kullosor, përgatit dhe shpall çdo vit të dhënat për kullotat e livadhet.
 
@@ -150,13 +158,19 @@ Neni 10
 
 Ndryshimi i destinacionit
 
+(Ndryshuar pika 2 dhe shtuar pika 2/1 dhe 2/2,  me ligjin nr. 14/2012, datë 16.2.2012)
+
 1. Heqja e një kullote apo livadhi nga fondi kullosor ose ndryshimi i destinacionit për një sipërfaqe kullote bëhet:
 
 a) për sipërfaqe deri në 1 ha, me miratimin e ministrit;
 
 b) për sipërfaqe mbi 1 ha, me vendim të Këshillit të Ministrave.
 
-2. Ndryshimi i destinacionit të kullotave dhe livadheve pronë private mund të bëhet në bazë të kërkesës me shkrim të pronarit, ku argumentohet nevoja për një veprim të tillë, sipas kërkesave e procedurave të legjislacionit përkatës.
+2. Pjesë të fondit kullosor kombëtar kthehen në kategorinë e resursit të tokës bujqësore me kërkesën e pronarit apo bashkisë i cili e ka në pronësi këtë fond. Ndryshimi i formës së përdorimit të fondit kullosor në kategorinë e resursit të tokës bujqësore, pavarësisht nga madhësia e sipërfaqes, bëhet vetëm për mbjelljen e këtyre sipërfaqeve me kultura të drurëve, të cilët janë pjesë e programeve dhe politikave parësore shtetërore afatgjata.
+
+2/1. Kërkesa për kalimin e pjesëve të fondit kullosor në kategorinë e resursit të tokës bujqësore paraqitet në bashkinë, në territorin e së cilës ndodhet fondi kullosor, që shqyrtohet sipas përcaktimeve të ligjit nr. 8752,  datë 26.3.2001 “Për krijimin dhe funksionet e strukturave për administrimin dhe mbrojtjen e tokës”, të ndryshuar. 
+
+2/2. Kalimi i resursit të tokës së pafrytshme, që është në pronësi private apo të bashkive, në fond kullosor (kullotë, livadh), dhe regjistrimi në kadastrën kombëtare të fondit kullosor bëhen me kërkesë të pronarit apo bashkisë. Kërkesa paraqitet pranë ministrisë që mbulon pyjet dhe miratohet nga ministri përkatës.
 
 3. Heqja, shtimi dhe ndryshimi i destinacionit të kullotave dhe livadheve, pas miratimit të organit kompetent, pasqyrohen në regjistrin e fondit kullosor.
 
@@ -206,11 +220,13 @@ Neni 13
 
 Hartimi dhe miratimi i strategjisë dhe i planit të veprimit
 
-Strategjia dhe plani i veprimit hartohen nga ministria, në bashkëpunim me ministritë e linjës dhe me organet e qeverisjes vendore dhe miratohen nga Këshilli i Ministrave.
+Strategjia dhe plani i veprimit hartohen nga ministria, në bashkëpunim me ministritë e linjës dhe me bashkitë dhe miratohen nga Këshilli i Ministrave.
 
 Neni 14
 
 Planet e mbarështimit
+
+(Ndryshuar pika 5, me ligjin nr. 49/2016, datë 5.5.2016)
 
 1. Kullotat dhe livadhet trajtohen dhe përdoren në përputhje me planet e mbarështimit dhe të inventarizimit.
 
@@ -234,7 +250,7 @@ e) numrin e krerëve, sipas llojit të blegtorisë, që mendohet të mbahet në 
 
 4. Planet e mbarështimit hartohen për një periudhë 10-vjeçare.
 
-5. Planet e mbarështimit të kullotave, para se të miratohen, shqyrtohen nga një komision teknik i përhershëm, në përbërje të të cilit është edhe një përfaqësues i Ministrisë së Bujqësisë, Ushqimit e Mbrojtjes së Konsumatorit. Komisioni ngrihet me urdhër të ministrit dhe funksionon pranë drejtorisë që mbulon edhe kullotat.
+5. Planet e mbarështimit të kullotave, para se të miratohen nga ministri përgjegjës për kullotat dhe livadhet, shqyrtohen nga një komision teknik, në përbërje të të cilit është edhe një përfaqësues i bashkisë. Komisioni ngrihet me urdhër të ministrit.
 
 6. Ministri miraton rregulloren e organizimit e të funksionimit të komisionit.
 
@@ -242,17 +258,21 @@ Neni 15
 
 Përdorimi për kullotje
 
+(Shtuar pika 3/1, ndryshuar pika 6, me ligjin nr.10 137, datë 11.5.2009)
+
 1. Kullotat dhe livadhet shtetërore jepen në përdorim për kullotjen e bagëtive ose për kositje të barit, përkundrejt tarifave të miratuara me vendim të Këshillit të Ministrave.
 
 2. Për përdorim të përkohshëm kullosor, ato u jepen personave fizikë e juridikë për një periudhë kohe deri në 3 vjet. Kur personi fizik ose juridik synon të bëjë investime për përmirësimin e kullotës apo të infrastrukturës së saj, sipas një plani mbarështimi të miratuar nga drejtoria që mbulon kullotat, marrja në përdorim mund të zgjatet deri në 10 vjet, me kusht që investimet e planifikuara të realizohen.
 
 3. Dhënia në përdorim për kullotje bëhet në përputhje me aftësitë mbajtëse kullosore, të përcaktuara në planin e mbarështimit për çdo ngastër ose nënngastër.
 
-4. Dhënia për kullotje e kullotave dhe e livadheve bëhet në bazë të një kontrate, që lidhet ndërmjet drejtorisë rajonale përkatëse të shërbimit pyjor dhe kërkuesit.
+3/1. Dhënia në përdorim për kullotje, nëse është kompetencë e institucioneve qendrore, përfshihet në kategorinë III.4, të shtojcës së ligjit për licencat dhe miratohet sipas dispozitave të parashikuara në këtë nen dhe në nenet në vijim të këtij ligji.
+
+4. Dhënia për kullotje e kullotave dhe e livadheve bëhet në bazë të një kontrate, që lidhet ndërmjet strukturës përgjegjëse përkatëse për pyjet dhe kullotat në bashki dhe kërkuesit.
 
 5. Personi fizik ose juridik, që ka marrë kullotë apo livadh për kullotje ose kositje, nuk mund ta japë atë apo pjesë të saj tek të tretë me nënkontratë.
 
-6. Rregullat e hollësishme për dhënien në përdorim të kullotave apo livadheve për kullotje ose kositje miratohen nga ministri.
+6. Rregullat e hollësishme për dhënien në përdorim të kullotave apo livadheve për kullotje ose kositje miratohen nga Këshilli i Ministrave.
 
 Neni 16
 
@@ -272,9 +292,11 @@ Neni 17
 
 Përdorimi i sipërfaqes dhe i tokës
 
+(Shtuar pika 3/1, ndryshuar pika 4, me ligjin nr.10 137, datë 11.5.2009)
+
 1. Dhënia në përdorim e sipërfaqes së kullotave dhe livadheve, në radhë të parë, lejohet për ndërtime të përkohshme, si depo e qendra të staneve, qendra të përpunimit të bulmetit, për mullinj, për shtëpi të përkohshme verimi për blegtorët, gjithnjë në përputhje me funksionin themelor të saj si kullotë.
 
-2. Personi fizik apo juridik, që merr kullotën për kullotje, sipas nenit 15 të këtij ligji, merr për objektet, që do të ndërtojë në sipërfaqen e marrë, edhe miratimin nga drejtoria rajonale përkatëse e shërbimit pyjor. Për kullotat komunale miratimi jepet nga komuna.
+2. Personi fizik apo juridik, që merr kullotën për kullotje, sipas nenit 15 të këtij ligji, merr për objektet, që do të ndërtojë në sipërfaqen e marrë, edhe miratimin nga struktura përgjegjëse përkatëse për pyjet dhe kullotat në bashki. Për kullotat bashkiake miratimi jepet nga bashkia.
 
 3. Sipërfaqe të caktuara dhe toka të fondit kullosor, pronë shtetërore, mund të jepen në përdorim, për të zhvilluar në to veprimtari shoqërore, shëndetësore, sportive e turistike, vetëm kur:
 
@@ -282,9 +304,11 @@ a) veprimtaria është parashikuar në planin e mbarështimit të kullotës apo 
 
 b) ushtrimi i veprimtarisë nuk e dëmton mjedisin rrethues dhe nuk ka pasoja të vazhdueshme negative mbi të;
 
-c) subjekti realizon, në vijimësi dhe përfundimisht, rehabilitimin e sipërfaqes së marrë në përdorim, në përputhje me planin e rehabilitimit, të hartuar prej tij e të miratuar nga drejtoria rajonale përkatëse e shërbimit pyjor.
+c) subjekti realizon, në vijimësi dhe përfundimisht, rehabilitimin e sipërfaqes së marrë në përdorim, në përputhje me planin e rehabilitimit, të hartuar prej tij e të miratuar nga struktura përgjegjëse përkatëse për pyjet dhe kullotat në bashki.
 
-4. Procedurat e dhënies në përdorim të sipërfaqes së kullotës, sipas pikës 2 të këtij neni, miratohen nga ministri.
+3/1. Dhënia në përdorim sipas pikës 1 të këtij neni, nëse është kompetencë e institucioneve qendrore, përfshihet në kategorinë III.4, të shtojcës së ligjit për licencat dhe bëhet sipas ligjit për licencat ose sipas dispozitave të parashikuara në këtë nen dhe në nenet në vijim të këtij ligji. Këshilli i Ministrave vendos për përdorimin e njërës nga këto dy mënyra, sipas ndarjes në nënkategori.
+
+4. Procedurat e dhënies në përdorim të sipërfaqes së kullotës, sipas pikës 2 të këtij neni, miratohen nga Këshilli i Ministrave.
 
 5. Personi fizik apo juridik paguan për sipërfaqen që merr në përdorim tarifën vjetore të përdorimit. Vlera e tarifave përllogaritet sipas llojit të veprimtarisë, kohëzgjatjes së saj dhe sipërfaqes së zënë. Tarifat miratohen me vendim të Këshillit të Ministrave.
 
@@ -292,31 +316,17 @@ c) subjekti realizon, në vijimësi dhe përfundimisht, rehabilitimin e sipërfa
 
 Neni 18
 
-Miratimi i veprimtarive në fondin kullosor
+(Ndryshuar me ligjin nr.9996, datë 22.9.2008)
 
-1. Subjektet, që kërkojnë të ushtrojnë veprimtari në fondin kullosor, sipas pikës 3 të nenit 17 të këtij ligji, pajisen me leje, që miraton ushtrimin e saj dhe përcakton kërkesat e kushtet që duhen zbatuar gjatë ndërtimit e ushtrimit të veprimtarisë, për shmangien ose zbutjen e ndikimeve negative në mjedis.
+1. Subjektet, që kërkojnë të ushtrojnë veprimtari në fondin kullosor, sipas nenit 17 pika 3 të këtij ligji, u nënshtrohen procedurave të konkurrimit publik, i cili organizohet nga drejtoria përkatëse e shërbimit pyjor ose, për kullotat bashkiake, nga njësia e qeverisjes vendore. Me subjektin fitues lidhet kontrata, ku përcaktohen kërkesat dhe kushtet, që duhen zbatuar gjatë ndërtimit dhe ushtrimit të veprimtarisë.
 
-2. Për t'u pajisur me leje, personi fizik ose juridik harton dhe paraqet në drejtorinë rajonale të shërbimit pyjor të qarkut, ku do të ushtrojë veprimtarinë, dokumentet e mëposhtme:
-
-a) kërkesën;
-
-b) dokumentacionin teknik të projektit;
-
-c) raportin e vlerësimit të ndikimit në mjedis; 
-
-ç) planin e rehabilitimit;
-
-d) programin e monitorimit të ndikimeve negative;
-
-dh) planin e përballimit të aksidenteve që mund të ndodhin.
-
-3. Procedurat, rregullat, afatet e kërkimit, të miratimit apo refuzimit të lejes, miratohen me udhëzim të ministrit.
+2. Kërkesat  që  duhet të plotësojnë  subjektet, për pjesëmarrjen në  konkurrimin publik, miratohen me udhëzim të ministrit.
 
 Neni 19
 
 Rehabilitimi
 
-1. Subjektet, që ushtrojnë veprimtari në fondin kullosor, kanë detyrimin të rehabilitojnë sipërfaqen e përdorur, sipas një plani rehabilitues të hartuar nga subjekti e të miratuar nga drejtoria rajonale përkatëse e shërbimit pyjor.
+1. Subjektet, që ushtrojnë veprimtari në fondin kullosor, kanë detyrimin të rehabilitojnë sipërfaqen e përdorur, sipas një plani rehabilitues të hartuar nga subjekti e të miratuar nga struktura përgjegjëse përkatëse për pyjet dhe kullotat në bashki.
 
 2. Ministri miraton udhëzimin për rehabilitimin e sipërfaqeve kullosore.
 
@@ -342,11 +352,11 @@ Djegia
 
 1. Djegia e kullotave dhe livadheve nga pronari, nga përdoruesi apo nga persona të tjerë është e ndaluar dhe ndëshkohet, sipas rastit, nëse është kundërvajtje administrative, në përputhje me dispozitat e këtij ligji ose, nëse përbën vepër penale, në përputhje me dispozitat përkatëse të Kodit Penal.
 
-2. Djegia e kullotës apo livadhit mund të lejohet vetëm në raste të veçanta dhe me miratimin e drejtorisë rajonale të shërbimit pyjor, në territorin e së cilës ndodhet.
+2. Djegia e kullotës apo livadhit mund të lejohet vetëm në raste të veçanta dhe me miratimin e struktursës përgjegjëse për pyjet dhe kullotat në bashki, në territorin e së cilës ndodhet.
 
-3. Drejtoria rajonale e shërbimit pyjor, për djegien e kullotës, jep miratim me shkrim, në përputhje me udhëzimin e ministrit, ku përcaktohen rregullat dhe procedurat e këtij veprimi.
+3. Struktura përgjegjëse për pyjet dhe kullotat në bashki, për djegien e kullotës, jep miratim me shkrim, në përputhje me udhëzimin e ministrit, ku përcaktohen rregullat dhe procedurat e këtij veprimi.
 
-4. Në rast zjarri në kullota dhe livadhe, drejtoria që mbulon kullotat në ministri, organet e qeverisjes vendore, pronarët privatë, Forcat e Armatosura e çdo shtetas, që ndodhet në afërsi, njoftojnë organet e mbrojtjes nga zjarri (MNZ), organet e shërbimit pyjor e të pushtetit vendor, si dhe marrin pjesë për shuarjen e tij. Shpenzimet për shuarjen e tij i ngarkohen personit që ka vënë zjarrin ose përballohen nga pronari, kur zjarri ka ndodhur për shkaqe natyrore.
+4. Në rast zjarri në kullota dhe livadhe, drejtoria që mbulon kullotat në ministri, bashki, pronarët privatë, Forcat e Armatosura e çdo shtetas, që ndodhet në afërsi, njoftojnë organet e mbrojtjes nga zjarri (MNZ), organet e shërbimit pyjor e të pushtetit vendor, si dhe marrin pjesë për shuarjen e tij. Shpenzimet për shuarjen e tij i ngarkohen personit që ka vënë zjarrin ose përballohen nga pronari, kur zjarri ka ndodhur për shkaqe natyrore.
 
 Neni 23
 
@@ -386,61 +396,63 @@ ADMINISTRIMI I FONDIT KULLOSOR
 
 Neni 24
 
-Detyrat e ministrisë
+Ministria përgjegjëse për kullotat dhe livadhet 
 
-Ministria është organi qendror përgjegjës për mbrojtjen dhe miradministrimin e fondit kullosor. Ajo drejton dhe organizon:
+(Ndryshuar me ligjin nr. 49/2016, datë 5.5.2016)
 
-a) hartimin e politikave, të strategjive, planeve të veprimit e të mbarështimit në nivel kombëtar, rajonal e vendor, për zhvillimin dhe menaxhimin e integruar të kullotave e livadheve, ruajtjen e mjedisit, të ekuilibrit biologjik dhe të biodiversitetit në fondin kullosor;
+1. Ministria është organi qendror përgjegjës për mbrojtjen dhe miradministrimin e fondit kullosor, pjesë e zonave të mbrojtura.
 
-b) sigurimin e zbatimit të kërkesave të këtij ligji e të akteve nënligjore, të dala në zbatim të tij;
+2. Ministria është organi qendror përgjegjës për hartimin e politikave dhe kuadrit ligjor, me qëllim zhvillimin e qëndrueshëm të fondit kullosor. Ajo drejton dhe organizon:
 
-c) formatimin dhe administrimin e të gjithë dokumentacionit, që nevojitet për ruajtjen dhe përdorimin e kullotave;
+a) hartimin e politikave, të strategjive, planeve të veprimit e të mbarështimit në nivel kombëtar, për zhvillimin dhe menaxhimin e integruar të kullotave e livadheve, ruajtjen e mjedisit, të ekui-librit biologjik dhe të biodiversitetit në fondin kullosor;
 
-ç) hartimin dhe zbatimin e programeve studimore dhe kryerjen e veprimtarive kërkimore-shkencore, në bashkëpunim me organet e specializuara kërkimore-shkencore e me departamentet e Universitetit Bujqësor;
+b) sigurimin e zbatimit të kërkesave të këtij ligji e të akteve nënligjore të dala në zbatim të tij;
 
-d) planifikimin dhe përdorimin e fondeve për studime në ekonomitë kullosore, për vlerësimin dhe rritjen e aftësisë mbajtëse të kullotave dhe livadheve, si dhe për kryerjen e punimeve e të ndërtimeve në to, sipas projekteve, në nivel qendror, rajonal dhe vendor;
+c) hartimin e programeve studimore dhe kryerjen e veprimtarive kërkimore-shkencore, në bashkëpunim me organet e specializuara kërkimore-shkencore e me departamentet e Universitetit Bujqësor;
 
-dh) punën për përcaktimin e ekonomive kullosore dhe ndarjen e tyre në ngastra e nënngastra;
+ç) planifikimin dhe përdorimin e fondeve për studime në ekonomitë kullosore, për vlerësimin dhe rritjen e aftësisë mbajtëse të kullotave dhe livadheve, si dhe për kryerjen e punimeve e të ndërtimeve në to, sipas projekteve, në nivel kombëtar;
 
-e) punën për përcaktimin e parcelave eksperimentale e të ngastrave, ku kryhen punime përmirësuese e të atyre të degraduara;
+d) punën për përcaktimin e ekonomive kullosore dhe ndarjen e tyre në ngastra e nënngastra;
 
-ë) zgjerimin e mundësive për rritjen e investimeve private në kullota e livadhe dhe angazhimin e bizneseve në to;
+dh) zgjerimin e mundësive për rritjen e investimeve private në kullota e livadhe dhe anga-zhimin e bizneseve në to;
 
-f) promovimin e zgjidhjeve e të rrugëve të reja, për trajtim bashkëkohor të kullotave, për rritjen e përdorimit racional të tyre.
+e) promovimin e zgjidhjeve e të rrugëve të reja, për trajtim bashkëkohor të kullotave, për rritjen e përdorimit racional të tyre.
 
 Neni 25
 
-Certifikimi i ekspertëve
+Certifikimi i ekspertëve dhe licencimi i tyre
 
-1. Për të siguruar asistencë teknike të kualifikuar për hartimin e planeve të mbarështimit, të ekspertizave, të projekteve operacionale dhe zbatimin e tyre në kullotat shtetërore dhe private, ministri licencon ekspertë të certifikuar në fushën e kullotave dhe të livadheve.
+(Ndryshuar me ligjin nr.10 137, datë 11.5.2009)
 
-2. Këshilli i Ministrave miraton kriteret, rregullat dhe procedurat për licencimin e ekspertëve të certifikuar në fushën e kullotave dhe të livadheve.
+1. Për të siguruar asistencë të kualifikuar për hartimin e planeve të mbarështimit, të ekspertizave, të projekteve operacionale dhe zbatimin e tyre në kullotat shtetërore dhe private, ministri, që mbulon fondin kullosor, certifikon ekspertë në fushën e kullotave dhe të livadheve.
+
+2. Kur këto veprimtari kryhen nga subjekte juridike ose fizike, tregtare, i nënshtrohen licencimit dhe përfshihen në kategorinë III.7, të shtojcës së ligjit për licencat. Licencimi i këtyre veprimtarive bëhet sipas ligjit për licencat”.
+
+3. Këshilli i Ministrave miraton kriteret, rregullat dhe procedurat për certifikimin e ekspertëve dhe licencimin në fushën e kullotave dhe të livadheve.
 
 Neni 26
 
-Kompetencat e organeve të qeverisjes vendore e të pronarëve privatë
+Kompetencat e bashkive dhe të pronarëve privatë
 
-l. Organet e qeverisjes vendore dhe pronarët privatë, që zotërojnë kullota dhe livadhe, kanë këto kompetenca:
+(Ndryshuar me ligjin nr. 49/2016, datë 5.5.2016)
+
+Bashkitë janë pronarë të kullotave shtetërore që gjenden brenda territorit administrativ të tyre. Bashkitë dhe pronarët privatë, që zotërojnë kullota dhe livadhe, kanë këto kompetenca:
 
 a) ruajnë, administrojnë dhe i përdorin kullotat dhe livadhet, në përputhje me kërkesat e këtij ligji e të akteve nënligjore, të dala në zbatim të tij;
 
-b) hartojnë, me shpenzimet e veta, planet e mbarështimit të kullotës apo livadhit, të cilat miratohen nga drejtoria rajonale e shërbimit pyjor.
-
-Planet e mbarështimit përmbajnë veprimet e masat, që do të ndërmerren për të mundësuar mbrojtjen, përmirësimin dhe përdorimin e kullotës e të livadhit si të tilla, si dhe veprimtaritë, që do të ushtrohen në të, sipas interesave privatë të pronarit, në përputhje me mundësitë që krijon ky ligj;
+b) hartojnë, me shpenzimet e veta, planet e mbarështimit të kullotës apo livadhit, të cilat miratohen nga ministri përgjegjës për kullotat dhe livadhet; 
 
 c) marrin masa për parandalimin e zjarreve dhe për shuarjen e tyre;
 
-ç) raportojnë në drejtorinë rajonale përkatëse të shërbimit pyjor të dhënat, që u kërkohen për inventarizimin dhe regjistrimin në regjistrin e fondit kullosor të kullotave dhe livadheve, në përputhje me formularët tip;
+ç) raportojnë në ministrinë përgjegjëse për kullotat dhe livadhet të dhënat, që u kërkohen për inventarizimin dhe regjistrimin në regjistrin e fondit kullosor të kullotave dhe livadheve, në përputhje me formularët tip;
 
-d) njoftojnë drejtorinë rajonale përkatëse të shërbimit pyjor për infeksionet dhe dëmtuesit, që shfaqen në kullota e livadhe dhe kërkojnë asistencë.
-
-2. Organet e qeverisjes vendore, për ndërhyrjet që do të kryejnë në kullotat e livadhet, sipas pikës 2 të nenit 23 të këtij ligji, marrin miratimin paraprak të drejtorisë rajonale përkatëse të shërbimit pyjor.
+d) njoftojnë ministrinë përgjegjëse për kullotat dhe livadhet për infeksionet dhe dëmtuesit, që shfaqen në kullota e livadhe.
 
 Neni 27
 
 Investimet
 
-1. Ministria dhe organet e qeverisjes vendore, që zotërojnë kullota e livadhe, sigurojnë fonde dhe mbështetje financiare nga Buxheti i Shtetit e nga donacione të ndryshme, për ruajtjen dhe përmirësimin e fondit kullosor.
+1. Ministria dhe bashkitë, që zotërojnë kullota e livadhe, sigurojnë fonde dhe mbështetje financiare nga Buxheti i Shtetit e nga donacione të ndryshme, për ruajtjen dhe përmirësimin e fondit kullosor.
 
 2. Fondet e siguruara për investime në kullota e livadhe përdoren për:
 
@@ -474,9 +486,9 @@ Neni 29
 
 Organet e kontrollit
 
-1. Kontrolli për zbatimin e këtij ligji bëhet nga Policia Pyjore dhe strukturat menaxhuese të kullotave e livadheve në nivel qendror dhe vendor.
+(Shfuqizuar pika 2,  me ligjin nr. 49/2016, datë 5.5.2016; ndryshuar me ligjin nr. 99/2024, datë 12.9.2024) 
 
-2. Kontrolli i kullotave dhe i livadheve në pronësi/përdorim të organeve të qeverisjes vendore bëhet nga vetë këto organe.
+Inspektimi për zbatimin e këtij ligji bëhet nga struktura përgjegjëse për inspektimin në kullota dhe strukturat përgjegjëse për inspektimin në nivel vendor.
 
 KREU VII
 
@@ -486,31 +498,29 @@ Neni 30
 
 Dokumentimi
 
-1. Çdo shkelje e dispozitave të këtij ligji, me qëllim që të provohet e të ndëshkohet, pasqyrohet në dokumente të standardizuara e të miratuara nga ministri, si procesverbale, akte kontrolli, fletë gjoba.
+(Ndryshuar me ligjin nr. 38/2013, datë 14.2.2013; ndryshuar pika 1 me ligjin nr. 99/2024, datë 12.9.2024)
 
-2. Dokumentet plotësohen nga organet e kontrollit, të përcaktuara në nenin 29 të këtij ligji, të cilat, kur vërejnë shkeljen e këtyre dispozitave, mbajnë procesverbal, që nënshkruhet nga hartuesi, i proceduari dhe dëshmitarët e pranishëm dhe, kur nuk ka të tillë, procesverbali është i vlefshëm vetëm nëse mban nënshkrimin e proceduesit.
+1. Ushtrimi i inspektimit dhe dokumentimi i tij bëhen nga struktura përgjegjëse për inspektimin në kullota në përputhje me këtë ligj dhe ligjin “Për inspektimin në Republikën e Shqipërisë.
 
-3. Të drejtën e vendosjes së gjobës për kundërvajtjet administrative, të parashikuara në nenin 34 të këtij ligji, e kanë organet e kontrollit, të përcaktuara në nenin 29 të këtij ligji.
+2. Të drejtën e vendosjes së gjobës, si dënim administrativ kryesor, të parashikuar në nenin 34 të këtij ligji, e kanë organet e kontrollit, të përcaktuara në nenin 29 të këtij ligji.
 
 Neni 31
 
-Shqyrtimi
+Vendimi dhe e drejta ankimit
 
-1. Shqyrtimi i kundërvajtjeve administrative në kullota e livadhe bëhet nga një komision prej jo më pak se 3 veta, i ngritur pranë drejtorive rajonale ose njësive të qeverisjes vendore (komunë/bashki), përbërja e të cilit caktohet, sipas rastit, nga drejtori i drejtorisë rajonale ose nga kryetari i komunës/bashkisë.
+(Ndryshuar me ligjin nr. 38/2013, datë 14.2.2013; nr. 49/2016, datë 5.5.2016; ndryshuar togfjalësh në pikën 1 me ligjin nr. 99/2024, datë 12.9.2024)
 
-2. Vendimi për kundërvajtjet administrative merret nga komisionet përkatëse, që mbulojnë territorin ku ndodh kundërvajtja, brenda 15 ditëve nga data e dorëzimit të procesverbalit. 
+	1. Vendimi për kundërvajtjet administrative merret nga struktura përgjegjëse për inspektimin në kullota, në zbatim të legjislacionit në fuqi për inspektimin në Republikën e Shqipërisë.
 
-3. Gjoba paguhet brenda 5 ditëve nga data e njoftimit të vendimit të formës së prerë. Pas kalimit të këtij afati zbatohen dispozitat e ligjit nr.7697, datë 7.4.1993  “Për kundërvajtjet administrative”, të ndryshuar.
+	2. Ndaj vendimit të dhënë në zbatim të pikës 1, të këtij neni, bëhet ankim, në përputhje me legjislacionin në fuqi për kundërvajtjet administrative.
+
+	3. Procedura e ekzekutimit të vendimit të dënimit me gjobë bëhet në përputhje me ligjin për kundërvajtjet administrative.
 
 Neni 32
 
 Ankimi
 
-1. Personi, ndaj të cilit është vendosur gjoba, ka të drejtë që, brenda 30 ditëve nga data e marrjes së njoftimit ose e vënies në dijeni, të ankohet, sipas rastit, te ministri ose te kryetari i njësisë së qeverisjes vendore, i cili përgjigjet brenda 30 ditëve nga data e depozitimit të ankimit.
-
-2. Kundër vendimit, kundërvajtësi mund të ankohet në gjykatë brenda 30 ditëve nga data e shpalljes së vendimit.
-
-3. Ankimi nuk e pezullon zbatimin e vendimit. Gjykata mund të vendosë për një pezullim të plotë ose të pjesshëm të masave administrative që përmban vendimi.
+(Shfuqizuar me ligjin nr. 38/2013, datë 14.2.2013)
 
 Neni 33
 
@@ -524,13 +534,15 @@ Neni 34
 
 Kundërvajtjet administrative
 
+(Ndryshuar pika 3, me ligjin nr. 9996, datë 22.9.2008)
+
 Shkeljet e mëposhtme, kur nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative dhe dënohen me gjobë, si më poshtë:
 
 1. Kullotja pa kontratë dhe kullotja në kullota të tjera, veç atyre të specifikuara në kontratë, dënohen me gjobë nga 30 000 deri në 50 000 lekë.
 
 2. Kositja e barit në livadhe, pa miratimin e drejtorisë përkatëse të shërbimit pyjor, dënohet me gjobë nga 30 000 deri në 50 000 lekë.
 
-3. Ushtrimi pa leje i veprimtarive në sipërfaqet dhe tokat e fondit kullosor dënohet me gjobë nga 150 000 deri në 200 000 lekë.
+3. Ushtrimi pa kontratë i veprimtarive në sipërfaqet dhe tokat e fondit kullosor dënohet me gjobë nga 150 000 deri në 200 000 lekë.
 
 4. Kullotja e bagëtive në parcelat eksperimentale dhe në sipërfaqet, ku kryhen punime përmirësuese ose që janë të degraduara e të lëna pushim, dënohet me gjobë nga 30 000 deri në 50 000 lekë.
 
@@ -560,9 +572,15 @@ Shkeljet e mëposhtme, kur nuk përbëjnë vepër penale, përbëjnë kundërvaj
 
 Neni 35
 
-Sekuestrimi
+Sekuestrimi dhe masat urgjente
 
-Mjetet dhe pajisjet, që kanë shërbyer për kryerjen e kundërvajtjes dhe çdo përfitim pasuror i siguruar prej saj, sekuestrohen dhe kalojnë në llogari të administruesit të kullotës.
+(Ndryshuar me ligjin nr. 38/2013, datë 14.2.2013)
+
+1. Mjetet dhe pajisjet, që kanë shërbyer për kryerjen e kundërvajtjes dhe çdo përfitim pasuror i siguruar prej saj, sekuestrohen dhe kalojnë në llogari të administruesit të kullotës.	
+
+2. Masa e sekuestrimit, sipas pikës 1 të këtij neni, është dënim plotësues.
+
+3. Struktura përgjegjëse, në varësi të rastit, merr masa urgjente në përputhje me ligjin për inspektimin.
 
 KREU VIII
 
@@ -581,6 +599,18 @@ Neni 37
 Shfuqizime
 
 Ligji nr. 7917, datë 13.4.1995 “Për kullotat dhe livadhet” dhe çdo dispozitë tjetër, që bie në kundërshtim me këtë ligj, shfuqizohen.
+
+DISPOZITË KALIMTARE ME LIGJIN NR. 38/2013, datë 14.2.2013
+
+Neni 5
+
+Dispozitë kalimtare
+
+Organi ekzistues inspektues vazhdon të ushtrojë funksionin e vet sipas organizimit aktual deri në krijimin e organit të ri, sikurse parashikohet në ndryshimet e bëra në këtë ligj.
+
+DISPOZITË KALIMTARE ME LIGJIN NR. 49/2016, datë 5.5.2016
+
+	Këshilli i Ministrave, me propozim të ministrit përgjegjës për kullotat, brenda 3 muajve nga data e hyrjes në fuqi të këtij ligji, miraton transferimin e kullotave në pronësi të bashkive.
 
 Neni 38 
 
