@@ -1,0 +1,27 @@
+{
+  "qbz_id": 122681,
+  "title": "PËR NDËRPRERJEN E SHTATËZËNËSISË",
+  "type": "Ligj",
+  "number": "8045",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1995-12-07",
+  "version_no": 1,
+  "qbz_version_id": 10637,
+  "in_force": "2024-09-12",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2024-09-12",
+  "changed_by_qbz_id": 29178,
+  "changed_by_number": "99",
+  "changed_by_title": "Për inspektimin në Republikën e Shqipërisë",
+  "source": "https://qbz.gov.al/files/fcd89358a6c054a74dc6e9db118f96099863cc38d067ec4b8d375de775baf075.docx",
+  "source_sha256": "fcd89358a6c054a74dc6e9db118f96099863cc38d067ec4b8d375de775baf075",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122681",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/122681/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
