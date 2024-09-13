@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e kushteve shtesë për njohjen e organizatave të menaxhimit të peshkimit”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
