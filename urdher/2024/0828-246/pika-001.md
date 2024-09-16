@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të drejtorit të përgjithshëm te znj. Arta Hajro, me detyrë zv. drejtor Ekonomik/Administrativ, për nënshkrimin e të gjitha kontratave lidhur ndërmjet institucioneve publike dhe palëve të tjera private, sipas përcaktimit ligjor në fuqi.
