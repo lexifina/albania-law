@@ -1,3 +1,0 @@
-# Nënshkrimi
-KRYETAR
-Sokol Çomo
