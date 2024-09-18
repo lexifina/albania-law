@@ -4,7 +4,7 @@ Nr. 175, datë 4.11.2020
 
 MBI LICENCIMIN E SHOQËRISË “TIRANA ENERGJI” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “MALI”, ME KAPACITET TË INSTALUAR 1490 kw
 
-(ndryshuar me Vendimin nr. 107, datë 31.5.2024)
+(ndryshuar me Vendimin nr. 107, datë 31.5.2024; nr. 197, datë 18.9.2024)
 
 (i përditësuar)
 
@@ -52,15 +52,15 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Tirana Energji” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Mali”, me kapacitet të instaluar 1490 kw, për një afat 30-vjeçar. 
 
-2. Shoqëria “Tirana Energji” sh.p.k. duhet të depozitojë në ERE informacion mbi rinovimin e kontratës së qirasë me ADZM Tiranë 3 (tre) muaj para nga afati i vlefshmërisë, dhe ta depozitojë atë brenda datës 15.2.2029 ose çdo dokument tjetër që rregullon pronësinë në zonën ku shtrihet projekti.
+    2. Shoqëria “Tirana Energji” sh.p.k. duhet të depozitojë në ERE informacion mbi rinovimin e kontratës së qirasë me ADZM Tiranë 3 (tre) muaj para nga afati i vlefshmërisë, dhe ta depozitojë atë brenda datës 15.2.2029 ose çdo dokument tjetër që rregullon pronësinë në zonën ku shtrihet projekti.
 
-3. Shoqëria “Tirana Energji” sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Mali”, brenda datës 23.9.2024.
+   3. Shoqëria “Tirana Energji” sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Mali”, brenda datës 17.7.2029.
 
-4. Në rast se shoqëria “Tirana Energji” sh.p.k. nuk depoziton në afat lejen e rinovuar të përdorimit të burimit ujor, sikurse përcaktuar në pikën 3 të këtij vendimi, dhe ka një urdhër për ndërprerjen e aktivitetit nga Inspektorati Kombëtare i Mbrojtjes se Territorit (IKMT), atëherë nuk ka të drejtë të operojë/ushtrojë veprimtarinë e prodhimit të energjisë elektrike.
+  4. Në rast se shoqëria nuk depoziton lejen e rinovuar të përdorimit të burimit ujor brenda afatit të përcaktuar në pikën 3 dhe ka një vendim për ndërprerjen/pezullimin e veprimtarisë nga inspektoratet/agjencitë e mbrojtjes së territorit/mjedisit, atëherë ajo nuk ka të drejtë të operojë/ ushtrojë veprimtarinë e prodhimit të energjisë elektrike.
 
-     5. Ky vendim është objekt rishikimi në varësi të plotësimit/mosplotësimit të kushteve të tij.
+ 5. Ky vendim është objekt rishikimi në varësi të plotësimit/mosplotësimit të kushteve të tij.
 
-     6. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “Tirana Energji” sh.p.k., Agjencinë e Menaxhimit të Burimeve Ujore, Furnizuesin e Tregut të Lirë, Operatorin e Sistemit të Shpërndarjes, Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s.
+ 6. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “Tirana Energji” sh.p.k., Agjencinë e Menaxhimit të Burimeve Ujore, Furnizuesin e Tregut të Lirë, Operatorin e Sistemit të Shpërndarjes, Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s.
 
 Ky vendim hyn në fuqi menjëherë.
 
