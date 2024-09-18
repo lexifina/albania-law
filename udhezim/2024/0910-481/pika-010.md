@@ -1,0 +1,1 @@
+10. Nëse titullari i institucionit shëndetësor publik nuk shprehet brenda 10 ditëve pune nga paraqitja e kërkesës, mjeku ka të drejtë të ankohet pranë ministrisë përgjegjëse për shëndetësinë, brenda 7 ditëve nga përfundimi i këtij afati.

@@ -1,0 +1,1 @@
+18. Mjekët, që me hyrjen në fuqi të këtij udhëzimi ushtrojnë profesionin e tyre njëkohësisht në një institucion shëndetësor publik dhe në një institucion shëndetësor jopublik, paraqesin brenda 2 muajve një kërkesë për vijimin e kësaj marrëdhënieje, sipas formatit bashkëlidhur këtij udhëzimi.

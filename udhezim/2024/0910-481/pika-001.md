@@ -1,0 +1,1 @@
+1. Mjekët e punësuar në institucionet shëndetësore publike, të cilët dëshirojnë të ushtrojnë profesionin e tyre edhe në institucione shëndetësore jopublike, duhet të paraqesin një kërkesë me shkrim pranë titullarit të institucionit shëndetësor publik ku ushtrojnë profesionin e tyre.

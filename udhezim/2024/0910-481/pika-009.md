@@ -1,0 +1,1 @@
+9. Kundër vendimit për mosshqyrtimin e kërkesës, sipas pikës 4, ose mosmiratimin e kërkesës, sipas pikës 6 të këtij udhëzimi, mjeku ka të drejtë të ankohet brenda 30 ditëve pranë ministrisë përgjegjëse për shëndetësinë, duke respektuar kërkesat e neneve 130-135 të Kodit të Procedurave Administrative.

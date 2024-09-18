@@ -1,0 +1,1 @@
+4. Nëse kërkesa nuk përmban të gjitha elementet e nevojshme, titullari i institucionit i jep mjekut një afat 5-ditor për plotësimin e të metave. Nëse të metat nuk plotësohen brenda këtij afati, titullari vendos mosshqyrtimin e kërkesës.

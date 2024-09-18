@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 481, datë 10.9.2024
+MBI PROCEDURAT E VERIFIKIMIT DHE SHQYRTIMIN E KËRKESËS SË MJEKËVE TË INSTITUCIONEVE PUBLIKE PËR TË USHTRUAR PROFESIONIN NË INSTITUCIONE JOPUBLIKE, PUBLIKIMIN E TË DHËNAVE NË REGJISTRIN ELEKTRONIK, FORMATIN DHE MËNYRËN E PËRDITËSIMIT TË REGJISTRIT
+Në mbështetje të nenit 102, pika 4 të Kushtetutës së Republikës së Shqipërisë, të nenit 8/a, pika 9, të ligjit nr. 123/2014, “Për Urdhrin e Mjekëve në Republikën e Shqipërisë”, të ndryshuar,
+UDHËZOJ:

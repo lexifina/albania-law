@@ -1,0 +1,1 @@
+16. Në çdo rast që ka ndryshime në të dhënat në kërkesën e paraqitur ose të dhënat që publikohen në Regjistrin Publik Elektronik, mjeku njofton titullarin e institucionit shëndetësor publik, i cili ndjek, me ndryshimet përkatëse, parashikimet e pikave 3-5 të këtij udhëzimi, për vlerësimin e pranueshmërisë së kërkesës.

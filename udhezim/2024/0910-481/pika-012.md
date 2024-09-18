@@ -1,0 +1,1 @@
+12. Njësia përgjegjëse shqyrton ankimin, sipas parashikimeve të Kodit të Procedurave Administrative, brenda një afati 10-ditor, dhe vendos për detyrimin e titullarit të shprehet, nëse është vendosur mosshqyrtimi i kërkesës.

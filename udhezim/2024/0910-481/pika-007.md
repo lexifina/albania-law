@@ -1,0 +1,1 @@
+7. Në rast miratimi të kërkesës, titullari i institucionit njofton ministrinë përgjegjëse për shëndetësinë, duke i bashkëlidhur kërkesën e mjekut, vendimin e arsyetuar, si dhe të dhënat e tjera të nevojshme për publikim në regjistrin përkatës.
