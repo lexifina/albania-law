@@ -1,0 +1,2 @@
+10. Masa e pensionit të plotë social, duke filluar nga data 1.10.2024 e në vazhdim, do të jetë 9 710 (nëntë mijë e shtatëqind e dhjetë) lekë.
+Shuma bazë e pensionit e përcaktuar sipas pikës 2, të nenit nr. 32, të ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, për personat që plotësojnë periudhën e sigurimit, sipas përcaktimeve të nenit 92, të këtij ligji, duke filluar nga data 1.10.2024 e në vazhdim, të jetë 9 710 (nëntë mijë e shtatëqind e dhjetë) lekë.

@@ -1,0 +1,1 @@
+5. Pensionet e parakohshme, të caktuara sipas ligjit nr. 10142, datë 15.5.2009, të ndryshuar, me datë lindjeje të drejte nga data 1.10.2024 e në vazhdim, nuk do të jenë më pak se 17 888 (shtatëmbëdhjetë mijë e tetëqind e tetëdhjetë e tetë) lekë në muaj.
