@@ -2,9 +2,9 @@
 
 	Nr. 6, datë 22.2.2023
 
-	(Ndryshuar me Vendimin nr.14, datë 16.5.2024)
+	(Ndryshuar me Vendimin nr.14, datë 16.5.2024; nr. 32, datë 23.9.2024)
 
-	(i përditësuar)
+	(I përditësuar)
 
 	PËR LICENCIMIN E SHOQËRISË RAJONALE UJËSJELLËS-KANALIZIME 
 
@@ -56,7 +56,7 @@ VENDOSI:
 
 a) Drejtues ligjor: z. Sedi Çaushi;
 
-	b) drejtues teknik:  Gerald Dautaj;
+b) Drejtues teknik: z. Olsen Kavalli;
 
 c) Drejtues teknik: z. Tonin Doda.
 
