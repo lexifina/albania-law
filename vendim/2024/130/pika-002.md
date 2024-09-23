@@ -30,3 +30,15 @@ ii. për sipërfaqen mbi 10 (dhjetë) ha, masa e përfitimit zvogëlohet me 50%,
 i. për të vlerësuar përputhshmërinë e vetëdeklarimeve me situatën reale dhe shmangien e lejuar të faktit të verifikuar të kulturave dhe të sipërfaqes së kultivuar, në raport me vlerën e përfituar, e cila të jetë jo më e madhe se 20%;
 ii. në jo më pak se 10% të subjekteve përfituese, përfshirë kontrollin e të gjitha subjekteve me sipërfaqe mbi 10 ha.
 2.2.8 Çdo subjekt, që përfiton nga skema e mbështetjes për naftën për bujqësinë, me shmangie më të madhe se 20%, sipas përcaktimeve të nënpikës 2.2.7, nënndarja “i”, më sipër, ose me deklarime/dokumente të pasakta, përjashtohet për 3 (tre) vjet nga e drejta e përfitimit prej masave mbështetëse për bujqësinë dhe zhvillimin rural, të financuara nga buxheti i shtetit.
+2.3 Mbështetje për investime në ferma:
+a) Për ndërtimin e serrave diellore të reja, me sipërfaqe jo më pak se 0.2 (zero pikë dy) ha dhe jo më shumë se 2 (dy) ha për subjekt, përfshirë edhe instalimin e sistemit të ujitjes.
+Masa e përfitimit të jetë 50% e vlerës totale të faturave tatimore, por jo më shumë se:
+- 15 000 000 (pesëmbëdhjetë milionë) lekë/ha për serrat e prodhimit të perimeve;
+- 8 000 000 (tetë milionë) lekë/ha për serrat e prodhimit të rrushit për tavolinë;
+- 4 000 000 (katër milionë) lekë/ha për serrat (tunelet plastike) të prodhimit të luleshtrydheve;
+b) Rrjeta për mbrojtjen e prodhimit nga breshëri në blloqet ekzistuese me pemë frutore, agrume dhe vreshta. Masa e përfitimit të jetë 50% e vlerës totale të faturave tatimore, por jo më shumë se 1 500 000 (një milion e pesëqind mijë) lekë/ha. Në këtë rast, financimi bëhet për sipërfaqe jo më pak se 1 (një) ha dhe jo më shumë se 5 (pesë) ha;
+c) Për ndërtimin e ambienteve për mbarështimin e kafshëve dhe stabilimenteve për rritjen e shpendëve, me kapacitet jo më pak se 10 (dhjetë) lopë, jo më pak se 100 (njëqind) të imëta, jo më pak se 10 (dhjetë) dosa dhe jo më pak se 10 000 (dhjetë mijë) shpendë.
+Masa e përfitimit të jetë 50% e vlerës totale të faturave tatimore, por jo më shumë se 15 000 000 (pesëmbëdhjetë milionë) lekë për subjekt;
+ç) Për blerjen e traktorëve, makinerive dhe pajisjeve për mekanizimin dhe modernizimin e proceseve të punës në fermat bujqësore dhe blegtorale.
+Masa e përfitimit të jetë 50% e vlerës totale të faturave tatimore, por jo më shumë se 5 000 000 (pesë milionë) lekë për subjekt;
+d) Mbështetje për akuakulturën detare për koshat e rritjes së peshkut (vetëm për koshat dhe rrjetat). Masa e përfitimit të jetë 50% e vlerës totale të faturave tatimore, por jo më shumë se 20 000 000 (njëzet milionë) lekë për subjekt.

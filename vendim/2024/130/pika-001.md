@@ -3,3 +3,4 @@ a) rritjen e konkurrueshmërisë së prodhimeve bujqësore në mjedise të mbroj
 b) mbështetjen e fermerëve nëpërmjet pagesave, për uljen e kostos për naftën që përdoret, për kryerjen e punimeve të mekanizuara në kulturat bujqësore;
 c) certifikimin e produkteve bujqësore dhe fermave organike;
 ç) mbështetjen e formave të kooperimit në bujqësi.
+d) rritjen e kapaciteteve të prodhimit në ferma, nëpërmjet mbështetjes së investimeve për ndërtimin e serrave dhe stallave, për rrjeta antibreshër, mekanikë bujqësore dhe akuakulturë.
