@@ -1,0 +1,1 @@
+3. Qëllimi i pjesëmarrjes të Forcave të Armatosura është demonstrimi i aftësive të Forcave të Armatosura të Republikës së Shqipërisë për koordinimin, sigurimin e teatrit të zbarkimit, pritjen dhe shoqërimin e forcave britanike në territorin e Republikës së Shqipërisë.
