@@ -1,0 +1,2 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Turizmit dhe Mjedisit, sipas formularëve dhe planrilevimeve bashkëlidhur këtij vendimi, për ushtrimin e aktivitetit sipas fushës së saj të përgjegjësisë shtetërore.
+Lista përbëhet gjithsej nga 20 (njëzet) fletë formulari, 22 (njëzet e dy) planrilevime, 3 (tri) planimetri, që janë pjesë përbërëse e këtij vendimi.
