@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Infrastrukturës dhe Energjisë, për Inspektoratin Shtetëror Teknik dhe Industrial, të një pjese të pasurisë nr. 2/92 dhe të pasurisë nr. 2/93, zona kadastrale 8250, Tiranë, sipas formularit, planrilevimeve dhe planimetrive bashkëlidhur këtij vendimi, për ushtrimin e aktivitetit administrativ.
