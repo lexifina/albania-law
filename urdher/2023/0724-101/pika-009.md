@@ -1,1 +1,0 @@
-9. Për autorizimet e lëshuara nga Sekretari i Përgjithshëm, deri në miratimin e këtij urdhri, të cilat janë përdorur pse përdoren për përfaqësim në proceset gjyqësore, efektet e urdhrit nr. 25, datë 18.1.2021 “Për delegim dhe disa rregulla të përfaqësimit ligjor të Ministrisë së Brendshme” do të shtrihen edhe pas miratimit të këtij urdhri, deri në përfundimin e procesit gjyqësor.
