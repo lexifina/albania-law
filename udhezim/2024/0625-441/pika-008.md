@@ -1,0 +1,7 @@
+8. Në rolin e Sekretariatit Teknik caktohet një punonjës i drejtorisë përgjegjëse për menaxhimin e grupeve teknike. Sekretariati u dërgon pjesëmarrësve në rrugë elektronike rendin e ditës së mbledhjes dhe materialet e nevojshme, të paktën 5 (pesë) ditë para takimit.
+8.1 Dokumentimi i të gjithë veprimtarisë së grupeve teknike gjatë mbledhjes pasqyrohet në procesverbalin e mbledhjes, i cili mbahet nga sekretariati nën drejtimin e kryetarit. Procesverbali i mbledhjes i paraqitet për miratim të gjithë anëtarëve në fund të mbledhjes. Pas miratimit, procesverbali nënshkruhet nga të gjithë pjesëmarrësit.
+8.2 Mbledhjet e grupeve teknike dokumentohen dhe çdo material tjetër të administruar gjatë zhvillimit të saj depozitohen në arkivin e Drejtorisë së Përgjithshme të Akreditimit.
+8.3 Rekomandimet e sugjeruara nga grupet teknike të punës miratohen me shumicë të thjeshtë votash nga anëtarët e pranishëm.
+8.4 Informacioni i diskutuar në çdo mbledhje është konfidencial. Çdo anëtar i grupit teknik të punës nënshkruan në mbledhjen e parë deklaratën e konfidencialitetit, paanshmërisë dhe konfliktit të interesave.
+8.5 Në çdo rast kur konstatohet se çështja përbën konflikt interesi për një anëtar të grupit teknik të punës, njoftimi i bëhet Sekretariatit Teknik, i cili merret me organizimin e mbledhjeve të grupit teknik të punës përkatës.
+8.6 Njoftimi për konflikt interesi mund të vijë nga anëtari që ka konflikt interesi nga Drejtoria e Përgjithshme e Akreditimit ose nga çdo person që ka dijeni dhe interes në lidhje me çështjen objekt diskutimi.

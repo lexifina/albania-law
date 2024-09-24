@@ -1,0 +1,4 @@
+2. Drejtoria e Përgjithshme e Akreditimit për nevojat e veta, krijon grupe teknike pune të përhershme apo ad hoc sipas fushave teknike ku ofrohet shërbimi i akreditimit.
+2.1 Grupet teknike të punës janë organe këshillimore, të cilat mbështesin Drejtorinë e Përgjithshme të Akreditimit në plotësimin e kërkesave që rrjedhin nga rregullorja (KE) 765/2008, “Për përcaktimin e kërkesave për akreditimin dhe shfuqizimin e rregullores (KEE) nr. 339/93 dhe Standardi ISO/IEC 17011:2017”.
+2.2 Ngritja e grupeve teknike të punës bëhet me urdhër të drejtorit të përgjithshëm të Drejtorisë së Përgjithshme të Akreditimit.
+2.3 Anëtarët e grupeve teknike të punës emërohen nga drejtori i përgjithshëm i Drejtorisë së Përgjithshme të Akreditimit, pas plotësimit të kritereve të vendosura për anëtarët sipas pikës 5, të këtij udhëzimi.
