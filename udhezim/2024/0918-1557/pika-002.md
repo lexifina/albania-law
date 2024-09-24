@@ -1,0 +1,8 @@
+2. Në këtë udhëzim termat në vijim, kanë këtë kuptim:
+a) “Kartelë” është akti kadastral, sipas përkufizimit të bërë në pikën 6, të nenit 3, të ligjit nr. 111/2018, “Për kadastrën”.
+b) “Certifikata” është akti kadastral që lëshon Agjencia Shtetërore e Kadastrës për çdo pronar të pasurive të paluajtshme apo titullarit të të drejtave reale mbi to, që vërteton faktin e regjistrimit të titullit të pronësisë/të drejtave reale.
+c) “Harta kadastrale” është akti kadastral sipas përkufizimit të bërë në pikën 4, të nenit 3, të ligjit nr. 111/2018, “Për kadastrën”.
+ç) “Plani i rilevimit” është dokumenti hartografik që hartohet si rezultat i verifikimeve dhe i matjeve në terren të pasurisë së paluajtshme dhe që pasqyron gjendjen faktike të pasurisë së paluajtshme.
+d) “Vërtetim i pronësisë” (sipas nenit 19 të ligjit nr. 111/2018) është akti zyrtar që lëshohet nga Agjencia Shtetërore e Kadastrës për të provuar se pronari ka depozituar dokumentacion ligjor për regjistrim, por prona ndodhet në një zonë kadastrale që nuk i është nënshtruar regjistrimit fillestar.
+dh) “Vërtetim regjistrimi nga regjistri i lejes së ndërtimit/karabinasë” është akti kadastral që lëshon Agjencia Shtetërore e Kadastrës subjekteve, për të provuar faktin e regjistrimit të lejes/karabinasë apo kontratat e sipërmarrjes/porosisë apo premtim shitjes të lidhura ndërmjet zhvilluesit të pronës, në cilësinë e investitorit, pronarit të truallit dhe blerësit/porositësit të njësisë individuale.
+dh) “Referencë” është dosja që përmban dokumentet teknike-ligjore që regjistrohen në regjistrin kadastral për pasurinë përkatëse, si pasojë e një transaksioni të veçantë mbi këtë pasuri.
