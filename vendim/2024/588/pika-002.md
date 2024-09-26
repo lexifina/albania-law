@@ -1,0 +1,7 @@
+2. Kolegji universitar “Wisdom” ka këto detyrime:
+a) të mbyllë të gjitha detyrimet lidhur me veprimtarinë akademike dhe kërkimore-shkencore, për vitin akademik 2023-2024, deri në përfundimin e tij, në të gjitha programet e studimit të ofruara;
+b) të përgatisë dosjen për çdo student që nuk ka përfunduar programin përkatës të studimit, me të gjithë dokumentacionin e nevojshëm që do të shërbejë për transferimin e tij në një institucion tjetër të arsimit të lartë, që plotëson kriteret ligjore për transferimin e studimeve dhe t’ia vërë atë në dispozicion vetë studentit, pa asnjë detyrim financiar shtesë nga ana e tij, brenda 30 (tridhjetë) ditëve nga hyrja në fuqi e këtij vendimi;
+c) të kthejë pagesat e kryera nga çdo student për pjesën e papërfunduar të programeve përkatëse të studimit, për rastet kur pagesat janë kryer për cikël studimi, si dhe çdo detyrim tjetër të papërmbushur që mund të ketë ndaj studentit;
+ç) të dorëzojë dokumentacionin ligjor, administrativ, financiar dhe akademik që disponon dhe mbi bazën e të cilit ka zhvilluar veprimtarinë e tij akademike dhe kërkimore-shkencore në strukturat përgjegjëse, në përputhje me kuadrin ligjor për arkivat, brenda 2 (dy) muajve nga hyrja në fuqi e këtij vendimi;
+d) të vendosë në dispozicion të Ministrisë së Arsimit dhe Sportit çdo informacion të kërkuar deri në plotësimin e të gjitha kërkesave, të parashikuara në këtë vendim.
+dh) të vendosë në dispozicion personel akademik dhe administrativ të nevojshëm deri në përfundimin e procesit për mbylljen e tij, sipas afateve të përcaktuara në këtë vendim.

@@ -1,0 +1,1 @@
+5. Institucionet e arsimit të lartë pranojnë deri më datë 20.11.2024, aplikimet për transferimin e studentëve të kolegjit universitar “Wisdom”, për vitin akademik 2024-2025, në programe të njëjta apo të ngjashme studimi, kur plotësojnë kriteret ligjore.

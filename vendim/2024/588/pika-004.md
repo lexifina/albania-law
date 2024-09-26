@@ -1,0 +1,1 @@
+4. Të gjitha shpenzimet për kryerjen e procedurave për mbylljen e kolegjit universitar “Wisdom”, në zbatim të këtij vendimi, përballohen nga ana e institucionit jopublik të arsimit të lartë/personit juridik që e përfaqëson.
