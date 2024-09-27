@@ -1,0 +1,1 @@
+1. Shpalljen “Peizazh i mbrojtur ujor/tokësor” (kategoria V) të lumit Buna, Velipojë, me sipërfaqe 19 471.17 (nëntëmbëdhjetë mijë e katërqind e shtatëdhjetë e një pikë shtatëmbëdhjetë) ha, sipas mbulesës, hartës dhe koordinatave në shtojcat 1, 2 e 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
