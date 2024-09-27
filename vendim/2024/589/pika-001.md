@@ -1,0 +1,1 @@
+1. Shpalljen “Peizazh i mbrojtur ujor/tokësor” (kategoria V) të zonës “Rrushkull”, me sipërfaqe 579.5 (pesëqind e shtatëdhjetë e nëntë pikë pesë) ha, sipas mbulesës, hartës dhe koordinatave, përkatësisht, në shtojcat 1, 2 dhe 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
