@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese nr. 1, me shkëmbim letrash të marrëveshjes së huas, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, për projektin për lehtësimin e tregtisë dhe të transportit në Ballkanin Perëndimor, me qasje programatike me shumë faza, ratifikuar me ligjin nr. 62/2019, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

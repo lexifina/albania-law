@@ -1,0 +1,5 @@
+VENDIM
+Nr. 585, datë 25.9.2024
+PËR MIRATIMIN E MARRËVESHJES NDRYSHUESE NR. 1, ME SHKËMBIM LETRASH TË MARRËVESHJES SË HUAS, NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE BANKËS NDËRKOMBËTARE PËR RINDËRTIM DHE ZHVILLIM, PËR PROJEKTIN PËR LEHTËSIMIN E TREGTISË DHE TË TRANSPORTIT NË BALLKANIN PERËNDIMOR, ME QASJE PROGRAMATIKE ME SHUMË FAZA, RATIFIKUAR ME LIGJIN NR. 62/2019
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 19 e 23, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e ministrit të Financave, Këshilli i Ministrave
+VENDOSI:
