@@ -1,0 +1,1 @@
+11. Parashikimi për shpalljen “Guri i Nikës”, kategoria VI, “Rezervate të resurseve”, në lidhjen nr. 1, të vendimit nr. 102, datë 15.1.1996, të Këshillit të Ministrave, “Për miratimin, në parim, të Strategjisë për Zbatimin e Projektit për Vlerësimin Mjedisor nga Zbatimi i Projektit të Pyjeve”, shfuqizohet.

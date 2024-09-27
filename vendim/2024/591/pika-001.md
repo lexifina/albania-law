@@ -1,0 +1,1 @@
+1. Shpalljen “Peizazh i mbrojtur” (kategoria V) të zonës “Guri i Nikës-Valamarë-Lenie”, me sipërfaqe 5 172.7 (pesë mijë e njëqind e shtatëdhjetë e dy pikë shtatë) ha, sipas mbulesës, hartës dhe koordinatave në shtojcat 1, 2 e 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

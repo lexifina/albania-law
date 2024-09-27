@@ -1,0 +1,1 @@
+7. Për veprimtaritë e lejuara, të parashikuara në pikën 4, të këtij vendimi, në lidhje me formën dhe mënyrën e përdorimit dhe të gëzimit të shërbimeve të kryera në këtë zonë zbatohen rregullat e parashikuara me udhëzim të ministrit, të nxjerrë në zbatim të pikës 4, të nenit 57, të ligjit nr. 81/2017, “Për zonat e mbrojtura”, të ndryshuar.
