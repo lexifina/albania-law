@@ -1,0 +1,1 @@
+1. Shpalljen “Peizazh i mbrojtur” (kategoria V) të zonës “Bredhi i Drenovës-Sinicë”, me sipërfaqe 2 065.8 (dy mijë e gjashtëdhjetë e pesë pikë tetë) ha, sipas mbulesës, hartës dhe koordinatave, përkatësisht, në shtojcat 1, 2 dhe 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

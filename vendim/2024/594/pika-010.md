@@ -1,0 +1,1 @@
+10. Për vijueshmërinë e veprimtarive që zhvillohen brenda territorit të peizazhit të mbrojtur ujor/tokësor “Bredhi i Drenovës-Sinicë”, me kontrata zhvillimi të lidhura para hyrjes në fuqi të këtij vendimi dhe të pajisura me leje mjedisore dhe vendim të Këshillit Kombëtar të Territorit dhe Ujit zbatohen parashikimet e ligjit nr. 81/2017, “Për zonat e mbrojtura”, të ndryshuar.
