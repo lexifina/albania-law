@@ -1,1 +1,0 @@
-10. Me hyrjen në fuqi të këtij vendimi, vendimi nr. 680, datë 22.10.2004, i Këshillit të Ministrave, “Për shpalljen e sistemit ligatinor Vjosë-Nartë Peizazh Ujor/Tokësor i Mbrojtur,” dhe rregullorja nr. 1, datë 27.7.1977, “Për shpalljen Rezervat Natyror i Menaxhuar, Pishë Poro” e Ministrisë së Bujqësisë, zbatohen për aq sa nuk bien në kundërshtim me këtë vendim.

@@ -1,1 +1,0 @@
-4. Peizazhi i Mbrojtur “Pishë Poro-Nartë” përfshin sipërfaqe pyjore, bujqësore, heterogjene bujqësore, shkurre, kullota, këneta, inproduktive, zona urbane dhe sipërfaqe ujore detare. Mbulesa e tokës brenda sipërfaqes së Peizazhit të Mbrojtur “Pishë Poro-Nartë” paraqitet në tabelën 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
