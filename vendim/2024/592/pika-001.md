@@ -1,0 +1,1 @@
+1. Shpalljen “Peizazh i mbrojtur ujor/tokësor” (kategoria V) të zonës “Bisht-Kamzë”, me sipërfaqe 491.5 (katërqind e nëntëdhjetë e një pikë pesë) ha, sipas mbulesës, hartës dhe koordinatave në shtojcat 1, 2 dhe 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
