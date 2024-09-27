@@ -1,0 +1,1 @@
+1. Shpalljen “Peizazh i mbrojtur” (kategoria V) të zonës “Kuturman-Qafë-Bushi”, me sipërfaqe 4 160.26 (katër mijë e njëqind e gjashtëdhjetë pikë njëzet e gjashtë) ha, sipas mbulesës, hartës dhe koordinatave në shtojcat 1, 2 dhe 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
