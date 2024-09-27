@@ -1,0 +1,1 @@
+1. Shpalljen “Peizazh i mbrojtur ujor/tokësor” (kategoria) V) të zonës “Pishë Poro-Nartë”, me sipërfaqe 16 124.61 (gjashtëmbëdhjetë mijë e njëqind e njëzet e katër pikë gjashtëdhjetë e një) ha, sipas mbulesës, hartës dhe koordinatave, përkatësisht, në shtojcat 1, 2 dhe 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

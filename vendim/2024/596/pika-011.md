@@ -1,0 +1,1 @@
+11. Vendimi nr. 694, datë 26.10.2022, i Këshillit të Ministrave, “Për ndryshimin e statusit të ekosistemit natyror/ligatinor “Pishë Poro-Nartë” nga “Rezervat natyror i menaxhuar” (kategoria IV e zonave të mbrojtura) në “Peizazh i mbrojtur” (kategoria V e zonave të mbrojtura”, shfuqizohet.
