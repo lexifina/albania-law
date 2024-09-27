@@ -1,0 +1,1 @@
+1. Shpalljen “Peizazh i mbrojtur” (kategoria V) të zonës “Krastë-Verjon”, me sipërfaqe 1 470.1 (një mijë e katërqind e shtatëdhjetë pikë një) ha, sipas mbulesës, hartës dhe koordinatave, përkatësisht, në shtojcat 1, 2 dhe 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
