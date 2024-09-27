@@ -1,0 +1,1 @@
+11. Parashikimi për shpalljen “Bjeshkët e Oroshit”, kategoria VI, “Rezervate të resurseve”, në lidhjen nr. 1, të vendimit nr. 102, datë 15.1.1996, të Këshillit të Ministrave, “Për miratimin, në parim, të strategjisë për zbatimin e projektit për vlerësimin mjedisor nga zbatimi i projektit të Pyjeve”, shfuqizohet.

@@ -1,0 +1,1 @@
+1. Shpalljen “Peizazh i mbrojtur” (kategoria V) të zonës “Bjeshkët e Oroshit”, me sipërfaqe 4 650.5 (katër mijë e gjashtëqind e pesëdhjetë pikë pesë) ha, sipas mbulesës, hartës dhe koordinatave në shtojcat 1, 2 dhe 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.

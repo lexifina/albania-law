@@ -1,0 +1,1 @@
+10. Për vijueshmërinë e veprimtarive, që zhvillohen brenda territorit të peizazhit të mbrojtur “Bjeshkët e Oroshit”, me kontrata zhvillimi të lidhura para hyrjes në fuqi të këtij vendimi e të pajisura me leje mjedisore dhe vendim të KKTU-së zbatohen parashikimet e ligjit nr. 81/2017, “Për zonat e mbrojtura”, të ndryshuar.
