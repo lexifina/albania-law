@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit, (asistenca teknike) Shqipëria: Rehabilitimi i linjës hekurudhore Vorë-Hani i Hotit/zbatimi i projektit dhe mbikëqyrja e punimeve, ndërmjet Republikës së Shqipërisë dhe Hekurudhës Shqiptare sh.a., dhe Bankës Evropiane për Rindërtim dhe Zhvillim, mbështetur nga Fondi i Përbashkët Evropian për Ballkanin Perëndimor, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
