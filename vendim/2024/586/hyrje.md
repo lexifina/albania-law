@@ -1,0 +1,5 @@
+VENDIM
+Nr. 586, datë 25.9.2024
+PËR MIRATIMIN E MARRËVESHJES SË GRANTIT (REHABILITIMI I LINJËS HEKURUDHORE VORË-HANI I HOTIT), NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE HEKURUDHËS SHQIPTARE SHA, DHE BANKËS EVROPIANE PËR RINDËRTIM DHE ZHVILLIM, NË LIDHJE ME NJË GRANT INVESTIMI NGA FONDI I PËRBASHKËT EVROPIAN PËR BALLKANIN PERËNDIMOR
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 19, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e ministrit të Financave, Këshilli i Ministrave
+VENDOSI:
