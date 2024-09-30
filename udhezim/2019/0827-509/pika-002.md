@@ -1,1 +1,0 @@
-2. Përveç korrigjimeve të parashikuara në pikën 1, të këtij udhëzimi, shtetasi mund të kërkojë përmirësimin e përbërësve të gjendjes civile, rubrikës së emrit, mbiemrit për saktësimin e shkronjave të veçanta, që lidhen me rregullat e drejtshkrimit të gjuhës shqipe.

@@ -1,1 +1,0 @@
-12. Nëpunësi i zyrës së gjendjes civile, kryen veprimet për zbatimin e vendimit të Drejtorit të Përgjithshëm të Gjendjes Civile në rubrikën përkatëse të RKGJC-së, duke cilësuar përshkrimin sipas të dhënave referuese për numrin dhe datën e vendimit.

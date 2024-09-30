@@ -1,1 +1,0 @@
-8. Drejtoria e Përgjithshme e Gjendjes Civile kryen verifikime të mëtejshme, në të dhënat e administruara nga shërbimi i gjendjes civile dhe në akte të organeve të tjera shtetërore, me qëllim marrjen e një vendimi të drejtë dhe të bazuar, për korrigjimin e përbërësve të gjendjes civile si gabim i provuar material.

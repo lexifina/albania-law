@@ -1,1 +1,0 @@
-4. Mbledhja e dokumentacionit ndërmjet zyrave të gjendjes civile në bashki/njësi administrative dhe zyrave të arkivës së gjendjes civile, kryhet në formë shkresore dhe elektronike për aktet që administrojnë, dokumente të nevojshëm për verifikimin e të dhënave në lidhje me objektin e kërkesës për korrigjim.
