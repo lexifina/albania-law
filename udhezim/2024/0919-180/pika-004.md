@@ -1,0 +1,2 @@
+4. Dokumenti “Leje varrimi për fëmijën e lindur të vdekur”, nga zyrat e gjendjes civile në bashki/njësi administrative, do të plotësohet me të dhënat mbi bazën e dokumentit të paraqitur “Certifikatë asistence në lindje”.
+Zyrat e gjendjes civile në bashki/njësi administrative, me plotësimin e të dhënave do të lëshojnë dokumentin “Leje varrimi për fëmijën e lindur të vdekur”, për kryerjen e procedurave të mëtejshme të varrimit.

@@ -1,0 +1,1 @@
+2. Kërkesa për leje varrimi nga personat e përmendur në pikën 1 (një) të këtij udhëzimi, për fëmijën e lindur të vdekur dhe fetusin e vdekur gjatë lindjes, paraqitet në zyrat e gjendjes civile në bashki/njësi administrative me dokumentin “Certifikatë asistence në lindje”, në të cilën përcaktohet që fëmija është lindur i vdekur.

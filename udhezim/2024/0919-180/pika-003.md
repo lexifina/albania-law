@@ -1,0 +1,1 @@
+3. Zyrat e gjendjes civile në bashki/njësi administrative në këtë rast nuk do të mbajnë akt lindje dhe akt vdekje për fëmijën e lindur të vdekur dhe fetusin e vdekur gjatë lindjes, por do të lëshojnë dokumentin “Leje varrimi për fëmijën e lindur të vdekur”, sipas modelit në aneksin 1, të këtij udhëzimi.
