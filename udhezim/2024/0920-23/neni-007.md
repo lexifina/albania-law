@@ -1,0 +1,4 @@
+# Neni 7
+Masat specifike të testimit për zhardhokët për mbjellje
+1. Kur prania e dëmtuesit të specifikuar është konfirmuar nga ISUV-ja në një vendndodhje prodhimi të zhardhokëve për mbjellje, AKVMB-ja duhet të garantojnë që testet e përmendura në aneksin I bashkëlidhur këtij udhëzimi të kryhen në linjat e lidhura klonisht me lotet e infektuara të zhardhokëve ose kur konstatohet mungesa e linjave të lidhura me klonim, në zhardhokët ose lotet, zhardhokët që kanë qenë në kontakt të drejtpërdrejtë, ose të tërthortë me lotet e infektuara të zhardhokëve.
+2. Kur prania e dëmtuesit të specifikuar është konfirmuar në vendndodhjen e prodhimit të zhardhokëve për mbjellje në një skemë certifikimi, testet e përmendura në aneksin I, bashkëlidhur këtij udhëzimi, do të kryhen ose në secilën bimë të përzgjedhjes klonale fillestare, ose në mostrat përfaqësuese të farës bazë të patates.
