@@ -1,0 +1,1 @@
+1. Shpalljen “Peizazh i mbrojtur ujor/tokësor” (kategoria V) të liqenit të Pogradecit, me sipërfaqe 27 730.54 (njëzet e shtatë mijë e shtatëqind e tridhjetë pikë pesëdhjetë e katër) ha, sipas mbulesës, hartës dhe koordinatave në shtojcat 1, 2 e 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
