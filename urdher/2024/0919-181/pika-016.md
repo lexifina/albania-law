@@ -1,0 +1,1 @@
+16. Kërkesa dhe procedurat administrative që në datën e hyrjes në fuqi të këtij urdhri janë në proces shqyrtimi nga sistemi ministror i Ministrisë së Brendshme, zhvillohen sipas dispozitave në fuqi të urdhrit të ministrit të Brendshëm, në kohën e paraqitjes së tyre.

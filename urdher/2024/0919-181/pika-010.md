@@ -1,0 +1,1 @@
+10. Në rastet kur korrigjimi i përbërësit të gjendjes civile është përbërës i gjendjes civile edhe për pjesëtarë të tjerë të familjes, përgjegjësi duhet të përditësojë edhe të dhënat e tyre për të reflektuar korrigjimin. Përgjegjësi njofton, nëpërmjet kërkuesit fillestar, personat e prekur nga ky veprim.
