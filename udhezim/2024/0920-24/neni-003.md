@@ -1,0 +1,14 @@
+# Neni 3
+Vrojtime vjetore
+1. Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve (AKVMB) kryen vrojtime vjetore për praninë e dëmtuesit të specifikuar në bimët e specifikuara brenda territorit të vendit, në ujërat sipërfaqësore që përdoren për ujitjen e bimëve të specifikuara dhe në mbetje të lëngshme, në përputhje me kërkesat e mëposhtme:
+a) për zhardhokët të ndryshëm nga ato për mbjellje, vrojtimet duhet të përfshijnë:
+i. marrja e mostrave nga lotet e zhardhokëve në magazinë ose nga kultura në rritje, sa më vonë që të jetë e mundur ndërmjet tharjes së kërcejve dhe vjeljes;
+ii. inspektimi vizual i kulturës në rritje, ku është e mundur të identifikohen vizualisht simptomat e dëmtuesit të specifikuar dhe inspektimi vizual i zhardhokëve të prerë, në rastet kur ky inspektim është i përshtatshëm për të zbuluar simptomat e dëmtuesit të specifikuar;
+b) për zhardhokët për mbjellje, përveç atyre që synohen të mbillen në vendin e tyre të prodhimit, vrojtimet duhet të përfshijnë në mënyrë sistematike inspektimin vizual të kulturave në rritje dhe të loteve në magazinë, marrjen e mostrave në magazinë ose marrjen e mostrave nga kulturat në rritje sa më vonë që të jetë e mundur ndërmjet tharjes së kërcejve dhe vjeljes;
+c) për zhardhokët që synohen të mbillen në vendin e tyre të prodhimit, vrojtimet kryhen në bazë të riskut të identifikuar, në lidhje me praninë e dëmtuesit të specifikuar dhe përfshijnë:
+i. marrja e mostrave nga lote e zhardhokëve në magazinë ose nga kultura në rritje, sa më vonë që të jetë e mundur ndërmjet tharjes së kërcellit dhe të vjeljes;
+ii. inspektimi vizual i kulturës në rritje ku është e mundur të identifikohen vizualisht simptomat e dëmtuesit të specifikuar dhe inspektimi vizual i zhardhokëve të prerë, në rastet kur ky inspektim është i përshtatshëm për të zbuluar simptomat e dëmtuesit të specifikuar;
+ç) për sa u përket bimëve të domates, vrojtimet duhet të përfshijnë inspektimin vizual, në momentet e duhura, të paktën kulturave në rritje në vendin e prodhimit të bimëve të destinuara për rimbjellje;
+d) për bimët bujtëse solanaceaous, të ndryshme nga bimët e specifikuara dhe ujërave sipërfaqësore dhe mbetjeve të lëngshme, vrojtimet kryhen në përputhje me metodat e duhura dhe sipas rastit, merren mostra.
+2. Numri, origjina dhe koha e mbledhjes së mostrave bazohen në parime të shëndosha shkencore dhe statistikore dhe në biologjinë e dëmtuesve të specifikuar, duke marrë parasysh sistemet e veçanta të prodhimit të patates dhe të domates, të rajonit në fjalë.
+3. AKVMB-ja i raporton Strukturës Përgjegjëse të Mbrojtjes së Bimëve (SPMB-së), brenda datës 30 prill të çdo viti, rezultatet e vrojtimeve vjetore të kryera gjatë vitit kalendarik paraardhës. Raportimi i rezultateve të vrojtimeve do të bëhet në përputhje me formatin e përcaktuar në aneksin II, bashkëlidhur këtij udhëzimi.
