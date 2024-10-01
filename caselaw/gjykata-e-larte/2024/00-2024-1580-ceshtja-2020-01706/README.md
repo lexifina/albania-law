@@ -1,0 +1,10 @@
+# Vendim nr. 00-2024-1580, datë 1.10.2024 (Gjykata e Lartë)
+
+Court: Gjykata e Lartë (High Court of Albania). Verdict number: 00-2024-1580. Verdict date: 2024-10-01.
+Case number: 56380-00397-00-2020 (case id 2020-01706). Registered at the High Court: 2020-07-29.
+Category: Çështje Penale (criminal). Decided in: council chamber (dhomë këshillimi).
+
+Official decision document (High Court register): <https://be.gjykataelarte.gov.al/public/verdict?caseId=2020-01706&caseNumber=56380-00397-00-2020>.
+Official search page: <https://www.gjykataelarte.gov.al/kerko-vendimet/>.
+
+Metadata record: the High Court publishes its decisions with the parties' names (not anonymised), so the parties, the case title and the decision text are not reproduced here.
