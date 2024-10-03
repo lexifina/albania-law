@@ -1,0 +1,1 @@
+1. Miratimin e Udhërrëfyesit për Funksionimin e Institucioneve Demokratike, si dokument i politikave shtetërore, në kuadër të negociatave për anëtarësim në Bashkimin Evropian, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
