@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTRI I EKONOMISË, KULTURËS DHE INOVACIONIT
+Blendi Gonxhja
