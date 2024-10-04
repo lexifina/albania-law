@@ -1,0 +1,3 @@
+1. Agjencisë Kombëtare të Planifikimit të Territorit, në buxhetin e miratuar për vitin 2024, i shtohet fondi prej 56 667 267 (pesëdhjetë e gjashtë milionë e gjashtëqind e gjashtëdhjetë e shtatë mijë e dyqind e gjashtëdhjetë e shtatë) lekësh, i ndarë, si më poshtë vijon:
+a) 23 500 210 (njëzet e tre milionë e pesëqind mijë e dyqind e dhjetë) lekë, në zërin “Shpenzime korrente”, për përballimin e shpenzimeve për financimin e konkursit të projektimit për projektidetë e zhvillimit të “Expo Albania-s”.
+b) 33 167 057 (tridhjetë e tre milionë e njëqind e gjashtëdhjetë e shtatë mijë e pesëdhjetë e shtatë) lekë, në zërin “Shpenzime për investime”, për përballimin e shpenzimeve për marrjen e projektidesë përfundimtare për “Expo Albania-n”.
