@@ -4,9 +4,9 @@ Nr. 9, datë 21.1.2022
 
 	MBI LICENCIMIN E SHOQËRISË “BREÇANI R.O.S.P.” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE, NGA HEC “DRITA” ME KAPACITET TË INSTALUAR 1980 kw
 
-	( ndryshuar me Vendimin nr. 232, datë 12.9.2022;  nr. 82, datë 2.5.2024 )
+	( Ndryshuar me vendimin nr. 232, datë 12.9.2022; nr. 82, datë 2.5.2024; nr. 212, datë 7.10.2024)
 
-	(i përditësuar)
+	(I përditësuar)
 
 	Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, si dhe të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar, dhe nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 21.1.2022, mbasi shqyrtoi relacionet e përgatitura nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes nr. 164/9 prot., datë 11.1.2022 dhe nr. 164/9-1 prot., datë 18.1.2022, “Mbi licencimin e shoqërisë ‘Breçani R.O.S.P.’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC ‘Drita’ me kapacitet të instaluar 1980 kw”,
 
@@ -46,15 +46,15 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Breçani R.O.S.P.” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike, nga HEC “Drita”, me kapacitet të instaluar 1980 kw, për një afat 30-vjeçar.
 
-2. Shoqëria “Breçani R.O.S.P” sh.p.k., të depozitojë në ERE certifikatën e pronësisë për zonën ku ushtron veprimtarinë HEC “Drita”, brenda datës 12.7.2024.
+2. Shfuqizuar.
 
-3. Shoqëria “Breçani R.O.S.P” sh.p.k., të depozitojë në ERE lejen e rinovuar të burimit ujor sipërfaqësor, deri në  datën 12.7.2024.
+3. Shoqëria “Breçani” sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor brenda datës 30.7.2029.
 
-4. Në rast se shoqëria “Breçani R.O.S.P” sh.p.k. ka një urdhër për ndërprerjen e aktivitetit nga Inspektorati Kombëtarë i Mbrojtjes së Territorit (IKMT) atëherë nuk ka të drejtë të operojë/ushtrojë veprimtarinë e prodhimit të energjisë elektrike, deri në depozitimin e lejes së rinovuar për përdorimin e burimit ujor sipërfaqësor.
+4. Në rast se shoqëria nuk depoziton lejen e rinovuar të përdorimit të burimit ujor brenda afatit të përcaktuar në pikën 3, ajo nuk ka të drejtë të operojë/ushtrojë veprimtarinë  e prodhimit të energjisë elektrike.
 
-5. Ky vendim është objekt rishikimi nga Bordi i ERE-s, sipas përcaktimeve të nenit 16, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, në rast të plotësimit/mosplotësimit të kushteve të përcaktuara në pikat 2, 3 dhe 4, të këtij vendimi.
+5. Ky vendim është objekt rishikimi nga Bordi i ERE-s në rast të plotësimit/mosplotësimit të kushtit të përcaktuar në pikën 3 të këtij vendimi.
 
-6. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
+ 6. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
 Ky vendim hyn në fuqi menjëherë.
 
