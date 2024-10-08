@@ -8,3 +8,4 @@ f) të nënshkruajë komunikimet e Ministrisë së Shëndetësisë dhe Mbrojtjes
 g) të ndjekë procedurat e lidhjes së marrëveshjeve të posaçme (MEA), për Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale;
 h) të nënshkruajë aktet që rregullojnë marrëdhëniet e punës për punonjësit administrativë të ministrisë;
 i) të kryejë çdo veprimtari tjetër të ngarkuar me urdhër nga ministri.
+j) të nënshkruajë urdhrin për dërgimin me shërbim jashtë vendit, të punonjësve të institucioneve të varësisë.
