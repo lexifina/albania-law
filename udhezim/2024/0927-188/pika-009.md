@@ -1,0 +1,1 @@
+9. Zyrat përkatëse të gjendjes civile, ku është paraqitur kërkesa për shpallje kryejnë afishimin e shpalljes në vende të dukshme të përcaktuara nga bashkia/njësia administrative, për arsye transparence, me qëllim informimin e palëve të treta.

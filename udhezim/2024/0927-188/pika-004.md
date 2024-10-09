@@ -1,0 +1,1 @@
+4. Nëse njëri nga bashkëshortët është shtetas i huaj, në kërkesën për lidhjen e martesës duhet të specifikohet njohja ose jo e gjuhës shqipe. Në rast se konfirmohet njohja e gjuhës shqipe, lidhja e martesës do të kryhet pa praninë e përkthyesit. Në të kundërt, nëse shtetasi i huaj nuk njeh gjuhën shqipe, martesa do të lidhet në prani të një përkthyesi të autorizuar.

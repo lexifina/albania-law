@@ -1,0 +1,4 @@
+6. Dokumentet që duhet të paraqesë shtetasi i huaj që kërkon të shpallë martesë janë:
+a) fotokopje pasaporte/dokument udhëtimi;
+b) certifikatë lindje me të dhëna të plota, përfshirë të dhënat e prindërve dhe rubrikën e gjendjes civile, statusin, në përputhje me legjislacionin në fuqi të përkthyer dhe të apostiluar/legalizuar sipas rastit. Shtetasit e huaj të cilët kanë vendbanimin e tyre në një shtet që është në konflikt dhe e kanë objektivisht të pamundur marrjen e dokumentit të përcaktuar, nga ana e tyre do të paraqitet deklaratë noteriale që vërteton të dhënat e këtyre shtetasve;
+c) dokument që vërteton vendbanimin, në përputhje me legjislacionin në fuqi të përkthyer dhe të apostiluar/legalizuar sipas rastit, në rast se shtetasi nuk ka vendbanim në Regjistrin Kombëtar të Gjendjes Civile (RKGJC).

@@ -1,0 +1,1 @@
+10. Pas kalimit të afatit 10- ditor (dhjetëditor) nga shpallja e martesës, për rastet kur martesa do të lidhet jashtë vendit, zyra e gjendjes civile, për shtetasit shqiptar, lëshon dokumentin leje për lidhje martese për përdorimin nga autoritetet e huaja.

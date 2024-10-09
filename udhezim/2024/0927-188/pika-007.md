@@ -1,0 +1,1 @@
+7. Zyra e gjendjes civile në të cilën është paraqitur kërkesa për shpalljen e martesës vlerëson dokumentacionin e paraqitur për procedurën e shpalljes nga bashkëshortët ose personi i caktuar nga ato me prokurë.

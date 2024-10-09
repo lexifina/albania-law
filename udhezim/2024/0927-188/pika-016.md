@@ -1,0 +1,1 @@
+16. Në rastet kur të njëjtët shtetas, të cilët kanë lidhur martesën dhe zgjidhur atë, kërkojnë të rilidhin përsëri të njëjtën martesë dhe zgjedhin mbiemër të përbashkët të ndryshëm nga ai i zgjedhur në martesën e parë, zyra e gjendjes civile raporton rastin në rrugë shkresore pranë strukturës përgjegjëse për kufirin në Policinë e Shtetit.

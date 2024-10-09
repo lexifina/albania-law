@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 188, datë 27.9.2024
+PËR RREGULLAT DHE PROCEDURAT PËR LIDHJEN E MARTESËS DHE DOKUMENTACIONIT QË DUHET TË MBAHET NGA ZYRAT E GJENDJES CIVILE PËR LIDHJEN E SAJ, SI DHE PËR NDRYSHIMIN E MBIEMRIT, KUR NDODH PËR SHKAK TË MARTESËS
+Në mbështetje të pikës 4, të nenit 102, të Kushtetutës, pikës 6, të nenit 47, të ligjit nr. 10129, datë 11.5.2009, “Për gjendjen civile”, i ndryshuar,
+UDHËZOJ:
