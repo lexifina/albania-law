@@ -1,0 +1,1 @@
+7. Drejtoria Vendore e Agjencisë Shtetërore të Kadastrës Vlorë bën ndryshimin e llojit të pasurisë në certifikatat e pasurive, sipas të dhënave për pasuritë e përcaktuara në pikën 2, të këtij vendimi.

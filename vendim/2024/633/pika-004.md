@@ -1,0 +1,1 @@
+4. Me hyrjen në fuqi të këtij vendimi, shoqëria “White Roads Hotel” sh.p.k., detyrohet të rehabilitojë sipërfaqen kullosore, për shkak të ndryshimit të destinacionit të përdorimit të fondit kullosor, sipas legjislacionit në fuqi.

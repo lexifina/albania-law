@@ -1,0 +1,1 @@
+2. Ndryshimin e destinacionit, nga kategoria e përdorimit të zërit kadastral “kullotë” në zërin kadastral “truall”, të pasurive me nr. 30/158, zona kadastrale 2863, dhe me numër 68/49, 68/50, 68/51/3, 68/119/1, zona kadastrale 1739, Bashkia Himarë, sipas certifikatave të pasurisë, hartës treguese dhe lidhjes nr. 1, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

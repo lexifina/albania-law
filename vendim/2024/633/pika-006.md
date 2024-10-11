@@ -1,0 +1,1 @@
+6. Bashkia Himarë kryen pranë Drejtorisë Vendore të Agjencisë Shtetërore të Kadastrës Vlorë veprimet për çregjistrimin nga kategoria “kullotë” të sipërfaqes kullosore publike, të identifikuar sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi, dhe regjistrimin në kategorinë “truall”, në përgjegjësi administrimi të Ministrisë së Ekonomisë, Kulturës dhe Inovacionit.
