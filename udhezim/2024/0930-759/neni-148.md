@@ -1,0 +1,13 @@
+# Neni 148
+Parimet mbi të cilat bazohet marrja e masave disiplinore
+1. Parimi i ligjshmërisë nënkupton që rregullorja e brendshme e shkollës të parashikojë, së pari, sjelljet që bien në kundërshtim me jetën shkollore dhe procesin mësimor dhe, së dyti, masa përkatëse disiplinore që aplikohet për secilin rast. Për këtë, paraprakisht është e nevojshme që nxënësi të bindet nga struktura përkatëse që jep masën disiplinore, se masa disiplinore e dhënë ndaj tij mbështetet në rregulloren e brendshme të institucionit dhe se nuk është rezultat i një vullneti arbitrar.
+2. Parimi “ne bis in idem” nënkupton që asnjë nxënës nuk mund t’u nënshtrohet disa masave ndëshkimore brenda institucionit për të njëjtat (fakte) gabime.
+3. Parimi i dialogut nënkupton që institucioni arsimor ka për detyrë t’i krijojë nxënësit, personelit arsimor dhe punonjësve mundësinë e dialogut, duke dëgjuar argumentet e tij, para marrjes së çdo mase disiplinore ndaj tij nga komisioni i disiplinës në ofruesin publik të AFP-së. Zbatimi i këtij parimi shmang keqkuptimet e nxënësit, personelit arsimor dhe punonjësve, si dhe ndjenjën e padrejtësisë ndaj tij.
+4. Parimi i proporcionalitetit nënkupton që aplikimi i masës disiplinore jepet në proporcion me shkallën e shkeljes së rregullores së brendshme të ofruesit publik të AFP-së dhe lidhet me natyrën e shkeljes së kryer. Rrjedhimisht, masat disiplinore, si rregull, jepen gradualisht duke nisur nga më e lehta.
+5. Parimi i individualizimit nënkupton marrjen parasysh të shkallës së përgjegjësisë së nxënësit në shkeljen e rregullave disiplinore. Në zbatim të këtij parimi duhet mbajtur parasysh, që:
+a) nuk duhen zbatuar masa disiplinore kolektive, të cilat konsiderohen të pavlefshme, pasi nuk arrihet qëllimi edukativ i masës disiplinore;
+b) në rastet kur shkeljet kryhen nga një grup nxënësish, komisioni i disiplinës për caktimin e masës disiplinore, duhet të përcaktojë shkallën e përgjegjësisë së çdo individi, me qëllim që të individualizohet masa disiplinore, e cila nuk përjashton mundësinë që mund të jetë identike për disa nxënës;
+c) në rastet si më sipër të shkeljeve të tilla që përfshijnë disa nxënës, drejtori i ofruesit publik të AFP-së krijon një grup pune të përbërë nga mësues, i cili mund t’i propozojë komisionit të disiplinës masa disiplinore edukative të personalizuara.
+6. Parimi i arsyetimit të masës disiplinore nënkupton detyrimin e komisionit të disiplinës për të arsyetuar masën disiplinore. Në zbatim të këtij parimi duhet mbajtur parasysh:
+a) vendimi për çdo masë disiplinore duhet të përmbajë referencën ligjore mbi të cilën bazohet;
+b) vendimi për çdo masë disiplinore të merret me shkrim dhe të argumentohet në mënyrë të qartë dhe të saktë.
