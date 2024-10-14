@@ -43,6 +43,7 @@ i. numri i personelit;
 ii. CV e shkurtuar (bio) e personelit mësimor, që do të angazhohet, të dhëna mbi diplomimin, profili/lënda ku është licencuar. Drejtuesi dhe personeli mësimor plotësojnë kriteret profesionale përkatëse të përcaktuara në legjislacionin në fuqi;
 iii. numri i personelit administrativ (specialistë në fushën e mjekësisë, psikologji, punë sociale) dhe punonjës mbështetës (sekretar, sanitar, roje), të dhënat për diplomat/certifikatë;
 iv. ngarkesa mësimore të mësuesve është në përputhje me aktet nënligjore në fuqi.
+v. Deklaratë mbi gjendjen gjyqësore të subjektit aplikues, drejtuesin/t e institucionit arsimor parauniversitar, personelin mësimor, administrativ dhe mbështetës.
 c) Infrastruktura në funksion të institucionit:
 Ky seksion përmban informacion të përmbledhur mbi infrastrukturën mësimore në shërbim të institucionit arsimor privat, duke u fokusuar në:
 i. ndërtesa dhe mjediset e saj plotësojnë kushtet për sigurinë, të dhëna mbi mjediset e jashtme të institucionit arsimor, si dhe standardet e infrastrukturës, sipas legjislacionit në fuqi;
@@ -56,20 +57,25 @@ NGARKIMI I DOKUMENTACIONIT
 Në rast vlerësimi pozitiv të aplikimit nga ministria përgjegjëse për arsimin, subjekti ngarkon elektronikisht dokumentacionin e mëposhtëm:
 a) Rregulloren e brendshme të institucionit arsimor privat.
 b) Strukturën e vitit shkollor, planin mësimor dhe programet mësimore që do të zhvillojë institucioni arsimor privat.
-c) Modelin e dokumentit që institucioni arsimor do të lëshojë në përfundim të çdo viti shkollor dhe të nivelit të arsimit. Në rastet e institucioneve që zhvillojnë mësim edhe në gjuhë të huaj, dokumenti ngarkohet në gjuhën në të cilën zhvillohet mësimi dhe në gjuhën shqipe.
+c) Shfuqizuar.
 ç) Dokumentin miratues nga bashkësia përkatëse fetare, për hapjen e një institucioni arsimor privat, ku do të zhvillohen edhe lëndë fetare.
-d) Listën e plotë të personelit drejtues, mësimdhënës dhe administrativ, numër kontakti dhe adresat tyre elektronike, si dhe dokumentacionin, për:
-i. drejtorin e institucionit arsimor, ngarkohen diplomat, licenca për ushtrimin e profesionit sipas kritereve të përcaktuara me ligj, kualifikimi përkatës ku të ketë të paktën kategorinë “Mësues i kualifikuar” dhe kontrata e punës;
-ii. personelin mësimdhënës ngarkohen diploma/t dhe licenca për ushtrimin e profesionit, sipas kritereve të përcaktuara me ligj. Për shtetasit e huaj, diplomat duhet të jenë të njohura nga ministria përgjegjëse për arsimin;
-iii. për punonjësit administrativë, diplomë të arsimit përkatës.
-dh) Lejet e qëndrimit dhe lejet e punësimit për shtetasit e huaj që do të punësohen në institucionin arsimor privat.
+d) Listën e plotë të personelit drejtues, mësimdhënës dhe administrativ, si dhe dokumentacionin, si më poshtë vijon:
+i. Për drejtuesin e institucionit arsimor ngarkohet certifikata e drejtuesit të institucionit arsimor parauniversitar (shkollë/kopsht), e lëshuar nga Shkolla e Drejtorëve ose dokumenti që vërteton pranimin në trajnimin e detyrueshëm përgatitor, si dhe aktmarrëveshja për punësim në rastin e hapjes së institucionit.
+Dëshmia e kualifikimit përkatës, ku të ketë të paktën kategorinë “Mësues i kualifikuar” për drejtuesin e institucionit arsimor parauniversitar, ndërsa për drejtuesin e institucionit parashkollor ngarkohet diploma dhe libreza e punës me të paktën 5 (pesë) vite pune eksperiencë si mësues në arsimin parashkollor.
+ii. Për personelin mësimdhënës ngarkohet licenca për ushtrimin e profesionit të rregulluar të mësuesit, me përjashtim të mësuesit në arsimin parashkollor për të cilin ngarkohet diploma, si dhe aktmarrëveshja për punësim në rastin e hapjes së institucionit.
+Për personelin mësimdhënës në arsimin fillor, arsimin e mesëm të ulët dhe arsimin e mesëm të lartë që përjashtohet nga detyrimi për dhënien e provimit të shtetit, ngarkohet diploma dhe libreza e punës që vërteton ushtrimin e profesionit përpara datës së hyrjes në fuqi të ligjit nr. 10171, datë 22.10.2009, “Për profesionet e rregulluara në Republikën e Shqipërisë”, të ndryshuar.
+Për drejtuesin e institucionit arsimor ose personelin mësimdhënës, që ka fituar të drejtën e ushtrimit të profesionit të rregulluar të mësuesit jashtë Republikës së Shqipërisë, ngarkohet dokumenti provues, i lëshuar nga vendi ku është fituar kjo e drejtë, i njohur dhe njësuar nga institucionet përgjegjëse në Republikën e Shqipërisë, si dhe aktmarrëveshja për punësim në rastin e hapjes së institucionit”.
+iii. Për punonjësin administrativ, diploma e arsimit përkatës dhe aktmarrëveshja për punësim në rastin e hapjes së institucionit.
+d.1) certifikatën e gjendjes gjyqësore për subjektin aplikues, drejtuesin/t e institucionit arsimor parauniversitar, personelin mësimor, administrativ dhe mbështetës.
+Në rastin kur subjekti aplikues është person juridik, certifikatën e gjendjes gjyqësore edhe për administratorin, drejtorin ekzekutiv dhe anëtarët e organeve kolegjiale.
+dh) Shfuqizuar.
 e) Për mësuesit që do të zhvillojnë në gjuhë të huaj lëndëte profilit të tyre dhe profili nuk është gjuha e huaj, ngarkohet dëshmi për nivelin e gjuhës C1, sipas testeve të njohura ndërkombëtarisht.
 ë) Për institucionet arsimore private që do të lëshojnë diplomë të huaj, ngarkohet modeli i diplomës së huaj dhe i përkthyer në shqip, si dhe aktet përkatëse që i japin të drejtën për lëshimin e tyre, sipas legjislacionit në fuqi.
 f) Relacionin me planimetrinë për mjediset e godinës ku do të zhvillohet veprimtaria mësimore, nga ekspert i licencuar.
 g) Kopje të njësuar të certifikatës së pronësisë së godinës ose kontrata e qirasë/huapërdorjes me afat jo më pak se 3 vjet, shoqëruar me kopje të njësuar me origjinalin të certifikatës së pronësisë së qiradhënësit.
-gj) Kopje të lejes higjieno-sanitare dhe kopje akti për mbrojtjen nga zjarri, lëshuar nga institucionet përgjegjëse.
+gj) Shfuqizuar.
 h) Kopje të mandatpagesës së tarifës së aplikimit.
-Dokumentacioni në gjuhë të huaj ngarkohet i përkthyer në gjuhën shqipe. Kur ky dokumentacion lëshohet në gjuhë të huaj, nga një institucion i huaj, ai duhet të legalizohet, në bazë të legjislacionit në fuqi.
+Dokumentacioni në gjuhë të huaj ngarkohet i përkthyer në gjuhën shqipe. Kur ky dokumentacion lëshohet në gjuhë të huaj, nga një institucion i huaj, ai duhet të legalizohet, në bazë të legjislacionit në fuqi. Kopja e lejes higjieno-sanitare dhe e aktit për mbrojtjen nga zjarri për godinën, ku do të ushtrohet veprimtaria e institucionit arsimor parauniversitar privat, të lëshuara nga institucionet përgjegjëse, sigurohen me ndërveprim nga strukturat përkatëse në ministrinë përgjegjëse për arsimin.
 SHTOJCA NR. 3
 Tarifat e aplikimit për hapje të institucioneve arsimore parauniversitare private, në të cilat zhvillohen edhe lëndë fetare apo ku mësimi zhvillohet edhe në gjuhë të huaj, janë si më poshtë:
 Nr.
