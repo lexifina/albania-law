@@ -1,16 +1,9 @@
-5. Për ndarjen ose bashkimin e një institucioni të
-arsimit të lartë, të respektohet procedura e mëposhtme:
-a) Kërkesa dhe dokumentacioni për bashkimin e
-dy ose më shumë IAL-ve ekzistuese për krijimin e një IAL-je të vetme apo ndarjen e IAL-së në dy ose më shumë IAL, nga një IAL e vetme ekzistuese, merret nga vetë institucioni/ institucionet e interesuara. Procesi i bashkimit ose ndarjes nuk duhet të cenojë standardet e sigurimit të cilësisë.
-b) Në rastet e shkrirjes së IAL-ve, përgjegjësitë
-dhe asetet e IAL-ve të mëparshme i transferohen IAL-së së re, ndërsa, në rastet e përfshirjes së IAL- ve në procesin e bashkimit, ngelet një IAL e vetme, e cila administron përgjegjësitë dhe asetet edhe të IAL-së/IAL-ve të përfshira.
-c) IAL-të e përfshira në procesin e bashkimit ose
-të ndarjes janë përgjegjëse për realizimin e procesit, në përputhje me legjislacionin në fuqi, duke garantuar një vijimësi normale të procesit akademik si dhe mbrojtjen e të drejtave të palëve të përfshira në këtë proces.
-ç) Autoritetet drejtuese të IAL-së/IAL-ve
-pjesëmarrëse në këtë proces janë përgjegjëse për realizimin e tij. Menaxhimi financiar dhe administrativ në procesin e bashkimit ose të ndarjes, gjatë periudhës tranzitore, bëhet në përputhje me statutin e IAL-ve dhe legjislacionin në fuqi.
-d) Kërkesa dhe dokumentacioni për ndarjen ose bashkimin e institucioneve të arsimit të lartë depozitohen në ministrinë përgjegjëse për arsimin e lartë.
-dh) Në rastet kur dokumentacioni është i
-paplotë apo konstatohen mangësi/pasaktësi, ministria përgjegjëse për arsimin e lartë njofton IAL- në/IAL-të për plotësime përkatëse. Nëse brenda tre javëve, nga marrja e njoftimit, dokumentacioni nuk plotësohet sipas këtij vendimi, ministria përgjegjëse për arsimin e lartë njofton subjektin aplikues për refuzimin e kërkesës.
-e) Në rastin e refuzimit të kërkesës së paraqitur,
-aplikantin për vendimin dhe për shkaqet e marrjes së tij brenda një afati 90-ditor, nga data e aplikimit. Praktika arkivohet në ministrinë përgjegjëse për arsimin e lartë.
+5. Për ndarjen ose bashkimin e një institucioni të arsimit të lartë, të respektohet procedura e mëposhtme:
+a) Kërkesa dhe dokumentacioni për bashkimin e dy ose më shumë IAL-ve ekzistuese për krijimin e një IAL-je të vetme apo ndarjen e IAL-së në dy ose më shumë IAL, nga një IAL e vetme ekzistuese, merret nga vetë institucioni/ institucionet e interesuara. Procesi i bashkimit ose ndarjes nuk duhet të cenojë standardet e sigurimit të cilësisë.
+b) Në rastet e shkrirjes së IAL-ve, përgjegjësitë dhe asetet e IAL-ve të mëparshme i transferohen IAL-së së re, ndërsa, në rastet e përfshirjes së IAL- ve në procesin e bashkimit, ngelet një IAL e vetme, e cila administron përgjegjësitë dhe asetet edhe të IAL-së/IAL-ve të përfshira.
+c) IAL-të e përfshira në procesin e bashkimit ose të ndarjes janë përgjegjëse për realizimin e procesit, në përputhje me legjislacionin në fuqi, duke garantuar një vijimësi normale të procesit akademik si dhe mbrojtjen e të drejtave të palëve të përfshira në këtë proces.
+ç) Autoritetet drejtuese të IAL-së/IAL-ve pjesëmarrëse në këtë proces janë përgjegjëse për realizimin e tij. Menaxhimi financiar dhe administrativ në procesin e bashkimit ose të ndarjes, gjatë periudhës tranzitore, bëhet në përputhje me statutin e IAL-ve dhe legjislacionin në fuqi.
+d) Aplikimi dhe dokumentacioni për ndarjen ose bashkimin e institucioneve të arsimit të lartë ngarkohet në portalin unik qeveritar “e-Albania;
+dh) Në rastet kur dokumentacioni është i paplotë apo konstatohen mangësi/pasaktësi, ministria përgjegjëse për arsimin e lartë njofton IAL-në/IAL-të për plotësime përkatëse. Nëse brenda tre javëve, nga marrja e njoftimit, dokumentacioni nuk plotësohet sipas këtij vendimi, ministria përgjegjëse për arsimin e lartë njofton subjektin aplikues për refuzimin e kërkesës.
+e) Në rastin e refuzimit të kërkesës së paraqitur, ministria përgjegjëse për arsimin e lartë ngarkon dokumentin me vulë elektronike, nëpërmjet portalit unik qeveritar “e-Albania”, me anë të të cilit njofton aplikantin për vendimin dhe për shkaqet e marrjes së tij, brenda një afati 90-ditor nga data e aplikimit.
 ë) Nëse vlerësimi dhe vendimi përfundimtar është pozitiv, ministria përgjegjëse për arsimin e lartë i propozon Këshillit të Ministrave ndarjen/bashkimin e institucionit/institucioneve të arsimit të lartë.
