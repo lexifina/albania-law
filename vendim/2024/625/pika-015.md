@@ -1,0 +1,1 @@
+15. Arma në kasetë ruhet e vendosur në siguresë dhe e ndarë nga municioni dhe duhet të sigurohet me kavo bllokimi, i cili kalon në fyellin e tytës ose me bllokues të këmbëzës së shkrepjes, të kyçur me çelës, i cili mbahet nga përdoruesi i certifikuar i armës së zjarrit.

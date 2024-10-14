@@ -1,0 +1,1 @@
+9. Në rastin e parashikuar në pikën 7, të këtij vendimi, afati i shqyrtimit pezullohet derisa kërkuesi të përmbushë kërkesat e Komisionit ose deri në përfundimin e afatit të caktuar. Në rast se ky i fundit nuk paraqitet ose nuk përcjell dokumentacionin e kërkuar brenda afatit të caktuar, Komisioni vendos mospranimin e kërkesës.

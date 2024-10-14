@@ -1,0 +1,1 @@
+14. Në banesë, arma ruhet brenda ambientit të saj, në kasetë metalike të posaçme, të siguruar me çelës, që mbahet nga punonjësi i Policisë së Burgjeve, për të mos u përdorur nga persona të tjerë, si dhe të mos ketë elemente të dukshme ekspozimi apo perceptimi.

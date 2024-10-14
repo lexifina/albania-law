@@ -1,0 +1,1 @@
+13. Jashtë orëve të shërbimit, arma mbahet nën veshje e paekspozuar, në brez ose nën sqetull, e futur në këllëf të siguruar me kapëse që të mos dalë në mënyrë të pavullnetshme, në gjendje të shkrehur dhe e vendosur në siguresë, pa fishekë në folenë e fishekut dhe pa krehër.

@@ -1,0 +1,1 @@
+11. Në rastet kur Komisioni vlerëson që kërkuesi nuk i plotëson kushtet për mbajtjen e armës në përdorim personal, edhe jashtë orëve të shërbimit, vendos refuzimin e kërkesës, me vendim të arsyetuar dhe ia komunikon kërkuesit.

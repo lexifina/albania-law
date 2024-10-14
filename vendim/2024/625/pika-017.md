@@ -1,0 +1,1 @@
+17. Në rastet kur punonjësi pezullohet, lirohet ose largohet nga Policia e Burgjeve automatikisht humb të drejtën e mbajtjes së armës personale jashtë orëve të shërbimit, si dhe detyrohet ta dorëzojë menjëherë këtë të fundit.

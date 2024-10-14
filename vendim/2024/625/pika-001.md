@@ -1,0 +1,1 @@
+1. Punonjësi i Policisë së Burgjeve, i cili, për shkak të detyrës, pajiset me armë në përdorim personal, ka të drejtë që këtë armë ta mbajë me vete, edhe jashtë orëve të shërbimit, sipas kushteve të përcaktuara në këtë vendim.
