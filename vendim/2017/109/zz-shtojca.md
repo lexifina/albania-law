@@ -128,7 +128,7 @@ Ekspertët për vlerësimin e jashtëm, në kuadër të akreditimit të parë t�
 programit në momentin e vlerësimit e të akreditimit të tyre.
 4. Tarifat që paguajnë IAL-të, në kuadër të plotësimit të kushteve apo për vlerësimin paraprak në kuadër të hapjes dhe/ose riorganizimit të institucioneve të arsimit të lartë e të programeve të studimit është në masën 30% të tarifës bazë të parashikuar për vlerësimin e jashtëm të IAL-së dhe/ose programit të studimit, sipas tabelave 2/a dhe 2/b.
 5. Programet e studimit sipas pikës 5, të nenit 35, të ligjit nr.80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”, paguajnë 50% të tarifës së vlerësimit dhe akreditimit të programit të të njëjtit cikël dhe lloj.
-6. Për vlerësimin e kërkesës dhe miratimin e agjencisë së huaj të vlerësimit, sipas pikës 3, të nenit 15, të ligjit nr.80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”, tarifa është në masën 120 000 lekë.
+6. Për vlerësimin e kërkesës dhe miratimin e agjencisë së huaj të vlerësimit, sipas pikës 3, të nenit 15, të ligjit nr. 80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”, tarifa është në masën 120 000 lekë.
 7. Për shqyrtimin e vlerësimit të jashtëm dhe vendimmarrjen e akreditimit që kryhet sipas pikës 3, të nenit 15, të ligjit nr.80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”, tarifa është në masën 180 000 lekë.
 8. Tarifa për shqyrtimin e aplikimit për vlerësim në kuadër të akreditimit është në masën 3 000 lekë.
 9. Llogaritja e tarifës për çdo vlerësim të kërkuar nga IAL-të bëhet nga ASCAL dhe i njoftohet IAL-së, e cila para fillimit të procesit të vlerësimit e arkëton pranë bankave të nivelit të dytë për llogari të ASCAL-it, në degën e thesarit Tiranë.
@@ -222,7 +222,7 @@ Tarifa paguhet me depozitimin e aplikimit pranë ASCAL-it
 3
 Tarifë për vërtetime dhe informacione/për faqe
 Tarifa paguhet me depozitimin e aplikimit pranë ASCAL-i
-200
+Shfuqizuar
 4
 Tarifë për dhënie dokumentacioni që lidhet me vlerësimin dhe akreditimin që nuk përfshihen në ligjin për informimin publik /për faqe
 Tarifa paguhet me depozitimin e aplikimit pranë ASCAL-it
