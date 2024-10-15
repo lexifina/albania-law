@@ -1,0 +1,1 @@
+2. Efekti financiar, prej 12 235 653 (dymbëdhjetë milionë e dyqind e tridhjetë e pesë mijë e gjashtëqind e pesëdhjetë e tre) lekësh, përballohet nga fondi rezervë i buxhetit të shtetit, i miratuar për vitin 2024.
