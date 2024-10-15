@@ -1,1 +1,1 @@
-9. Qendra e Botimeve për Diasporën përgatit informacion vjetor për sasinë dhe mënyrën e shpërndarjes së teksteve shkollore në diasporën shqiptare, të cilin e dërgon pranë ministrive përgjegjëse për arsimin dhe ministrisë përgjegjëse për punët e jashtme.
+9. Shfuqizuar.
