@@ -1,0 +1,1 @@
+1. Përfundimin e ngarkimit të përkohshëm, nëpërmjet zëvendësimit në detyrën e drejtorit të përgjithshëm të Tatimeve, znj. Elidjana Çelaj, zëvendësdrejtor i përgjithshëm i Hartimit të Programeve në Drejtorinë e Përgjithshme të Tatimeve.
