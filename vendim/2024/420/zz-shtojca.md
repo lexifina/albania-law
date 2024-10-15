@@ -236,206 +236,314 @@ Asistent lektor
 15,000
 Shënim: Emërtimet e pozicioneve të punës në Akademinë e Forcave të Armatosura, për çdo gradë ushtarake dhe sipas titullit/gradës/kualifikimit shkencor, përcaktohen në përputhje me legjislacionin përkatës në fuqi, për arsimin e lartë në Republikën e Shqipërisë.
 Lidhja nr. 3
-Masa e shtesës për kushte të veçanta pune e shërbimi për ushtarakët aktivë fluturues të Forcave të Armatosura të Republikës së Shqipërisë
-Nr.
-Emërtimi i funksionit
+Masa e shtesës për kushte të veçanta pune e shërbimi, për ushtarakët e shërbimit aktiv të personelit fluturues dhe mbështetës të fluturimeve të Forcave të Armatosura të Republikës së Shqipërisë
+Pozicioni
 Masa e shtesës mujore në lekë për muaj
-Në skuadrone dhe grupe të helikopterëve
-në
-Bazën Ajrore Farkë
-të Forcave të Armatosura
-Në strukturat
-e tjera
-të Bazës Ajrore Farkë
-të
+Në
+repartet/bazat ajrore operacionale, që kanë helikopter në TOP
+Në
+repartet/bazat ajrore operacionale të varësisë së FAj, që kanë helikopter në TOP
+Në
+repartet/bazat ajrore operacionale
+Në komandën
+dhe në strukturat
+e tjera të
 Forcave
-të
-Armatosura
-Në strukturat
-e
-tjera
-të
+Ajrore
+Në Detashmentin UAV të
 Forcave
 Ajrore
 Në
 strukturat
-e
-tjera
-të
-Forcave
+e tjera
+të Forcave
 të
 Armatosura
-1.
-Pilot.
-60.000
-30.000
-20.000
-10.000
-2.
-Inxhinier fluturimi.
-28.000
-21.000
-14.000
-3.
-Mekanik/Teknik bordi.
-24.000
-18.000
-12.000
-4.
-Infermier bordi.
-Operator bordi.
-Vinçier bordi.
-20.000
-15.000
-10.000
-5.
-Inxhinier avioni/helikopteri
-16.000
-12.000
-10.000
-6.
-Kontrollor i trafikut ajror
-12.000
-12.000
-12.000
-7.
-Teknik avioni/helikopteri
-12.000
-10.000
-10.000
+Nr.
+1
+2
+3
+4
+5
+6
+7
+1
+Ushtarakët aktivë në funksionet organike:
+Pilot Instruktor/Kontrollor Fluturimi/Pilot Kolaudator-H.
+Komandant/zëvendëskomandant/shef/specialist në:
+Komandë/Shtab/Skuadron/Grup, të cilët disponojnë dëshmitë/kualifikimet/diplomën/at për ushtrimin e këtyre të drejtave.
+100,000
+2
+Ushtarakët aktivë në funksionet organike:
+Pilot Instruktor/kontrollor Fluturimi-H.
+Komandant/zëvendëskomandant/Shef/specialist në:
+Komandë/Shtab/Skuadron/Grup, të cilët disponojnë dëshmitë/kualifikimet/diplomën/at
+për ushtrimin e këtyre të drejtave.
+60,000
+3
+Ushtarakët aktivë në funksionet organike:
+Pilot Komandant Ekuipazhi-H.
+Komandant/zëvendëskomandant/Shef/specialist në:
+Komandë/Shtab/Skuadron/Grup, të cilët disponojnë dëshmitë/kualifikimet/diplomën/at për ushtrimin e këtyre të drejtave.
+90,000
+50,000
+30,000
+4
+Ushtarakët aktivë në funksionet organike:
+Pilot-H.
+Komandant/zëvendëskomandant/Shef/specialist në:
+Komandë/Shtab/Skuadron/Grup, të cilët disponojnë dëshmitë/kualifikimet/diplomën/at për ushtrimin e këtyre të drejtave.
+80,000
+40,000
+5
+Pilot dhe Pilot UAV. Shef seksioni i kontrollit dhe standardizimit, oficer i komandimit të misionit/kontrollit të fluturimit, kontrollit të fluturimit pilot dhe standardizimit të UAV, shënjues, operator ngarkese.
+30,000
+45,000
+25,000
+6
+Oficer Inxhinier aviacioni/fluturimi/helikopteri.
+40,000
+30,000
+7
+“Anëtarë/ekuipazhi/bordi”-H.
+“Teknik mekanik/Aeroshpëtues/Vinçier/Navigator/Mitralier”-H.
+45,000
+8
+Teknik aviacioni/Helikopteri (Skuadrone/Grupet e fluturimit, në seksione dhe komandë, ushtarë/nënoficerë/oficerë).
+Teknik mekanik në Qendrën e Mirëmbajtjes (Specialist motori, strukturë avionike, armatim/radio/pajime elektrike/riparues helikopteri etj. -H ushtarë/nënoficerë/oficerë).
+40,000
+30,000
+40,000
+25,000
+9
+Kryekontrollor. Kontrollor të trafikut ajror.
+Kryekontrollor. Kontrollor të mbrojtjes ajrore.
+40,000
+30,000
+10
+Ushtarakët aktivë në funksione organike për shërbimet tekniko-operacionale të radarëve të vëzhgimit të hapësirës ajrore.
+Funksionet organike në Qendrën e Komandimit dhe Monitorimit të Avionëve pa pilot (antidron).
+30,000
+11
+Mekanik/specialist/motori në strukturat avionike/armatimit.
+Shef qendre, specialist mekanik/motorist, specialist/elektrik/elektronik/specialist armatim-municioni dhe rezervës UAV.
+Specialist/analist imazherie (operator harte, navigator).
+Shef seksioni dhe teknik terminali të dhënash/kontrollit tokësor UAV (operator harte, navigator).
+Magazinier/administrator i teknikës ajrore.
+Teknik (motorist/mekanik/elektrik/elektronik/terminali).
+25,000
+25,000
+12
+Në funksionet organike:
+- në seksionet e vend instalimit të radarit TPS-77/VQ-PRT/setet Mikrovalor/GAG.
+- Komandant/zëvendëskomandant reparti 3003.
+në komandën dhe shtabin e UAV-së.
+25,000
+25,000
+13
+- Ndihmëskontrollor/ndihmësasistent.
+20,000
+14
+Në funksionet organike në pozicione mbështetëse,
+- në UAV;
+- të MNZSH (shofer autoboti, furnizim karburanti aviacioni);
+- në pozicione të tjera mbështetëse të strukturave të fluturimit, që nuk janë përcaktuar më sipër dhe për të cilat nuk ka përcaktime në lidhjen nr. 5, të këtij vendimi.
+18,000
+18,000
+18,000
+Shënim:
+1. Funksionet organike për shërbimet tekniko-operacionale të radarëve, përcaktohen sipas specifikimeve në TOP.
+2. Funksionet organike për shërbimet mbështetëse në Detashmentin UAV, në bazat ajrore dhe në struktura të tjera të Forcave të Armatosura përcaktohen sipas specifikimeve në TOP.
+3. Ushtarakët aktivë në pozicionet “Pilot Komandant Ekuipazhi-H” dhe “Pilot”, të emëruar në strukturat e Forcës Ajrore apo në strukturat e tjera të Forcave të Armatosura, shtesën e përcaktuar sipas kësaj lidhjeje e përfitojnë vetëm në rast se ruajnë gatishmërinë e fluturimit dhe normave sipas Rregullores së Zhvillimit të Fluturimeve të Forcave Ajrore.
 Lidhja nr. 4
-Masa e shtesës për natyrë të veçantë pune dhe vështirësi shërbimi për ushtarakët aktivë në Agjencinë e Inteligjencës dhe Sigurisë së Mbrojtjes
-Nr. rendor
-Emërtimi i funksionit (Pozicioni)
-Masa e shtesës për natyrë të veçantë pune dhe vështirësi shërbimi, në lekë për muaj
+Masa e shtesës për kushte të veçanta pune e shërbimi për ushtarakët e shërbimit aktiv në Agjencinë e Inteligjencës dhe Sigurisë së Mbrojtjes
+Nr.
+Pozicioni
+Masa e shtesës,
+(lekë në muaj)
 1
 Operacional
-Përgjegjës sektori.
-Specialist/Inspektor.
-Ndihmës inspektor.
-Teknik i mesëm dhe administrator pajisjesh/Operator.
-Shofer autoveture, mjet operacional.
-Shofer autoveture/mjet operacional/Ndihmës inspektor.
-15.000
-2
-Operacional
-Mbështetës
 Drejtor i përgjithshëm.
 Zëvendësdrejtor i përgjithshëm.
 Drejtor drejtorie.
-Përgjegjës/ Shef sektori.
+Përgjegjës/shef sektori.
+Specialist/inspektor.
+Specialist për sigurinë elektronike dhe mbrojtjen kibernetike.
+Ndihmësinspektor.
+Teknik i mesëm dhe administrator pajisjesh/operator.
+Teknik për mirëmbajtjen e pajisjeve SIGINT.
+Shofer autoveture, mjet operacional.
+20,000
+2
+Operacional
+Mbështetës
+Përgjegjës/shef sektori.
 Analist.
 Specialist.
 Operator dhe për administrimin e dokumentacionit.
 Operator radiozbulues.
-Teknik i mesëm/Operator radiozbulues.
-Roje me armë Kroi i Bardhë, Kukës.
-Roje me armë Çardhak, Korçë.
-Teknik i mesëm i Specialiteteve të ndryshme/shofer/Roje me armë Tarabosh, Shkodër.
-Teknik i mesëm/Operator/ Roje me armë Tarabosh, Shkodër.
-Teknik i mesëm i specialiteteve të ndryshme.
-Shofer/Roje me armë M. Krujës, Krujë.
-Teknik i mesëm/Operator/Roje me armë/M. Krujës, Krujë.
-10.000
-3
-Mbështetës
-Për punonjësit në funksionet e tjerë ushtarake të AISM-së.
-5.000
-Lidhja nr.5
-Masa e shtesës për kushte të veçanta pune e shërbimi që përfitojnë ushtarakët aktivë, të tjerë, në Forcat e Armatosura të Republikës së Shqipërisë
-Nr. rendor
-Niveli
-Struktura/funksioni/specialiteti - ushtarakë të tjerë që përfitojnë shtesë për kushte të veçanta pune e shërbimi
-Masa e shtesës (lekë në muaj)
-1
-Personeli ushtarak aktiv, në Njësinë e Mbrojtjes dhe Sigurisë Kibernetike
-20,000
-2
-1
-Kompanitë e aksioneve direkte në Batalionin e Forcave Speciale, në Forcën Tokësore
+Operator për kartotekën, databazën dhe ekspeditor.
+Teknik i mesëm i specialiteteve të ndryshme/operator/shofer.
+Roje me armë.
+Përgjegjës roje/shofer dhe roje me armë në ZGJ.
 15,000
 3
-Kompanitë komando dhe Kompania e Zbulimit në Batalionin Komando, të Forcës Tokësore
-4
-Grupi i bordingut në Flotiljen Detare, në Forcën Detare
-5
-Grupi i parë, i dytë dhe grupi AME i Zhytjeve në Qendrën e Zhytjeve, në Forcën Detare
-6
+Mbështetës
+Për ushtarakët aktivë në funksionet e tjera të AISM-së, të papërfshirë në nëndarjet 1 dhe 2, të kësaj lidhjeje.
+13,000
+Shënim. Pozicionet e punës në përbërje të strukturave të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes, sipas ndarjeve, operacionale, operacionale mbështetëse dhe mbështetëse, përcaktohen sipas specifikimeve në TOP.
+Lidhja nr. 5
+Masa e shtesës për kushte të veçanta pune e shërbimi që përfitojnë ushtarakët e tjerë të shërbimit aktiv, në strukturat e Forcave të Armatosura
+Nr.
+Ushtarakë të tjerë në strukturat e Forcave të Armatosura që përfitojnë shtesë për kushte të veçanta pune e shërbimi
+Masa e shtesës (lekë në muaj)
+1
 2
-Kompania EOD në Batalionin e Xhenjos, në Komandën Mbështetëse
-12,000
-7
-Grupi i parë dhe i dytë i flotiljes detare në flotiljen detare, në Forcën Detare
-8
-Kompania e parë dhe e dytë operacionale në Policinë Ushtarake të Forcave të Armatosura
-9
-Sektori i Policisë Kriminale në Policinë Ushtarake të Forcave të Armatosura
-10
-Komandant, zëvendëskomandant dhe funksionet me specialitet “Polumbar”, në Qendrën e Zhytjeve në Forcën Detare
-11
+1
+Drejtor në njësinë Ushtarake të Sigurisë Kibernetike.
+70,000
+2
+Specialist në njësinë Ushtarake të Sigurisë Kibernetike.
+60,000
 3
-Kompanitë në Batalionin e Parë të Këmbësorisë, në Forcën Tokësore
-10,000
-12
-Kompanitë në Batalionin e Dytë të Këmbësorisë, në Forcën Tokësore
-13
-Kompanitë në Batalionin e Tretë të Këmbësorisë, në Forcën Tokësore
-14
-Orkestra Frymore në Batalionin e Mbështetjes së SHPFA-së
-15
+Përgjegjës sektori në njësinë Ushtarake të Sigurisë Kibernetike.
+50,000
 4
-Mjekët në Strukturat e Forcave te Armatosura
-8,000
-16
-Parashutistët në Strukturat e Forcave të Armatosura
-17
-Funksione organike me detyra operacionale dhe taktike, në Batalionin e Forcave Speciale në Forcën Tokësore
-18
-Funksione organike me detyra operacionale dhe taktike, në Batalionin Komando të Forcës Tokësore
-19
-Kompania e Ruajtjes, në Batalionin e Mbështetjes së SHPFA-së
-20
-Kompania e Ceremonialit, në Batalionin e Mbështetjes së SHPFA-së
-21
-Grupi i Sigurisë Fizike në MM, në Batalionin e Mbështetjes së SHPFA-së
-22
-Kompania e Transportit, në Batalionin e Mbështetjes së SHPFA-së
-23
-Infermierët në Strukturat e Forcave të Armatosura
-24
-Në strukturat e Policisë Ushtarake, të cilat angazhohen direkt në punën operative dhe funksionale që kryen Policia Ushtarake
-25
+Ushtarakët aktivë në funksionet organike:
+- Komandant Qendre/komandant moduli/shef/përgjegjës sektori/seksioni në Qendrën Fikse TIK/MM dhe SHPFA, në Agjencinë e Sistemeve të Ndërlidhjes dhe Informacionit.
+- Komandant Qendre/Komandant moduli/shef/përgjegjës sektori/seksioni në Qendrën Mobil (TIK) në Agjencinë e Sistemeve të Ndërlidhjes dhe Informacionit.
+- Komandant Qendre/Komandant moduli/shef/përgjegjës sektori/seksioni në Qendrën e Automatizimit, në Agjencinë e Sistemeve të Ndërlidhjes dhe Informacionit Agjencinë e Sistemeve të Ndërlidhjes dhe Informacionit.
+- Në kompanitë e aksioneve direkte në Batalionin e Forcave Speciale.
+- Komandant/zëvendëskomandant dhe në funksionet organike me specialitet “Polumbar” në grupin AME të zhytjes në Qendrën e Zhytjes, në Forcën Detare.
+- “Parashutist”.
+40,000
 5
-Funksione organike në Batalionin e Forcave Speciale, në Forcën Tokësore të papërfshira në pikat e mësipërme
-5,000
-26
-Funksione organike në Batalionin Komando të Forcës Tokësore të papërfshira në pikat e mësipërme
-27
-Qendrën e Stërvitjes Bazë, që janë të emëruar në funksione dhe që kryejnë direkt stërvitjen bazë
-28
-Qendrën e Stërvitjes Bazë deri në nivel kompanie
-29
-Strukturën e Rojës Bregdetare
-30
-Në nivel kompanie në Forcën Tokësore
-31
-Në Kurset në Akademinë e Nënoficerëve
-32
+Ushtarakët aktivë në funksionet organike:
+- Komandant Qendre/Moduli dhe mbështetjes me SNI në Agjencinë e Sistemeve të Ndërlidhjes dhe Informacionit.
+- Administrator infrastrukture (për rrjetet kompjuterike të NATO-s; Web; Databazë virtualizimi; storage back up).
+- Administrator sistemesh/shërbimesh në Agjencinë e Sistemeve të Ndërlidhjes dhe Informacionit.
+35,000
 6
-Oficerët me specialitete detare të emëruar në pozicione organike, që kërkojnë kryerjen e lundrimeve
-3,000
-33
-Funksione organike në Policinë Ushtarake të pa përfshira në pikat e mësipërme
-34
-Funksione organike në Forcën Tokësore të papërfshira në pikat e mësipërme
-35
-Personeli ushtarak i Qendrës së Stërvitjes Bazë të papërfshirë në pikat e mësipërme
-36
-Personeli ushtarak i postave radioteknike dhe postave sinjal-vrojtuese, në Forcat Detare
-37
-Ushtarakë të tjerë në Akademinë e Nënoficerëve
+Ushtarakët aktivë të Forcës Tokësore dhe Detare, në funksionet organike:
+- Në Shtabin e Batalionit të Forcave speciale.
+- Komandant/zëvendëskomandant/shef shtabi/shef i operacioneve dhe stërvitjes, në Regjimentin e Operacioneve Speciale.
+- Në Kompaninë e Zbulimit, në Regjimentin e Operacioneve Speciale.
+- Në kompanitë komando, në Batalionin Komando.
+- Në grupet e bordingut në Forcën Detare.
+- Në Seksionin e Kurseve dhe Vlerësimit, në Regjimentin e Operacioneve Speciale.
+- Në pozicionet “Specialist” për TIK/IT, në strukturat e Forcave të Armatosura.
+- Në grupet/skuadrat/togat dhe kompanitë operacionale të kërkim-shpëtimit (për shuarjen e zjarreve, tërmeteve, aksidenteve, akomodimit fushor, kërkim-shpëtimit në terrene malore apo në zona ujore) në strukturat e Forcave të Armatosura.
+30,000
+7
+Ushtarakët aktivë në funksionet organike:
+- “Mjek me specialitet”.
+- “Mjek i përgjithshëm”:
+- Në kompaninë EOD në Komandën Mbështetëse;
+- Në togën EOD në kompaninë e Xhenios në Forcën Tokësore;
+- Në Qendrën e MADM-së dhe lëndëve të rrezikshme në Forcën Tokësore, si dhe në funksione të njëjta në repartet e tjera në strukturat e Forcave të Armatosura.
+25,000
+8
+Ushtarakët aktivë në Shtabin e Përgjithshëm të Forcave të Armatosura dhe në aparatin e Ministrisë së Mbrojtjes:
+- Shef i Shtabit të Përgjithshëm;
+- Zëvendësshef i Shtabit të Përgjithshëm;
+- Drejtor i Shtabit të Përgjithshëm;
+- Drejtor Kabineti.
+- Këshilltar ushtarak i Presidentit të Republikës së Shqipërisë.
+- Drejtor drejtorie.
+Ushtarakët aktivë në funksionet organike:
+- Komandant/zëvendëskomandant i Forcës Tokësore.
+- Komandant i Forcës Detare/i Forcës Ajrore/në Komandën e Mbështetjes, në Akademinë e Forcave të Armatosura dhe në Kolegjin e Mbrojtjes dhe Sigurisë.
+- Në skuadër, togë dhe në kompanitë e këmbësorisë (manovrës)/në strukturat e Forcave të Armatosura.
+- Në skuadër, togë dhe në kompanitë e mbështetjes me luftim, në strukturat e Forcave të Armatosura.
+- Në Bateritë e Artilerisë Tokësore.
+- Në baterinë e mortajave kundërajrore në Regjimentin e Mbështetjes me Luftim në Forcën Tokësore.
+- Në bateritë e mbrojtjes kundërajrore, në batalionin e mbrojtjes kundërajrore të bazuar në tokë (GBAD).
+- Në grupet në Flotiljet Detare.
+- Në Shërbimin Hidrografik ushtarak, që shërbejnë në anije në Forcën Detare.
+- Në Kompaninë e Ceremonialit/kompaninë e transportit/grupin e sigurisë fizike/në batalionin e mbështetjes së Shtabit të Përgjithshëm të Forcave të Armatosura.
+- Në Orkestrën Frymore dhe në Orkestrën Simfonike të Forcave të Armatosura.
+- Në Sektorin e Mbikëqyrjes dhe Demontimit të Armatim Municionit, në Qendrën e Menaxhimit të Materialeve.
+- Të personelit mësimor (pedagog) pa tituj dhe grada, në Kolegjin e Mbrojtjes dhe Sigurisë.
+Ushtarakët aktivë në funksionet organike të Policisë Ushtarake:
+- Komandant/zëvendëskomandant dhe Shef Shtabi.
+- Në sektorin e Policisë Kriminale.
+- Në pozicionin “agjent” dhe “inspektor” në seksionet e rretheve të Policisë Kriminale;
+- Në kompaninë e parë, në kompaninë e dytë operacionale dhe në kompaninë operacionale të ruajtjes së personaliteteve të larta shtetërore dhe të objekteve të veçanta.
+Ushtarakët aktivë në funksionet organike:
+- Stomatolog/farmacist në strukturat e Forcave të Armatosura.
+20,000
+9
+Ushtarakët aktivë në funksionet organike të aparatit të Ministrisë së Mbrojtjes dhe Shtabit të Përgjithshëm të Forcave të Armatosura:
+- Në kabinetin e Shefit të Shtabit të Përgjithshëm;
+- Në zyrën e zëvendësshefit të Shtabit të Përgjithshëm/Drejtorit të Shtabit të Përgjithshëm.
+Përgjegjës sektori/shef sektori/oficer shtabi/specialist dhe në funksionet/pozicionet nënoficer.
+Ushtarakët aktivë në funksionet organike:
+- Në Institutin e Kërkimit Shkencor Ushtarak;
+- Në degën e kurseve në Qendrën e Arsimimit Profesional të Nënoficerëve;
+- Në Qendrën e Gjuhëve të Huaja.
+- Në Kursin e stërvitjes individuale bazë dhe të avancuar, në Qendrën e Arsimit Profesional të Ushtarëve.
+Ushtarakët aktivë në funksionet organike:
+- Në kompaninë e punimeve xheniere, në kompanitë e urave, në batalionin e xhenios;
+- Në Detashmentin e Mbështetjes Rajonale Elbasan;
+- Në Kompaninë Xheniere të Regjimentit të Mbështetjes me Luftim në Forcën Tokësore, pa përfshirë togën EOD.
+- Personel teknik i shkencave mjekësore, në strukturat e Forcave të Armatosura.
+18,000
+10
+Ushtarakët aktivë në funksionet organike:
+- Zëvendëskomandant force, në komandat e forcave dhe strukturave mbështetëse (FD, FAj, KM, KMS dhe AFA).
+- Shef shtabi/shef zyre/shef dege në komandat e forcave dhe strukturave mbështetëse (FT, FD, FAj, KM, KMS dhe AFA).
+- Komandant, zëvendëskomandant, shef Shtabi në regjimentet e këmbësorisë/mbështetjes me luftim, në Forcën Tokësore.
+- Komandant, zëvendëskomandant, shef shtabi në distriktet detare të Forcës Detare.
+- Komandant/drejtor, zëvendëskomandant/zëvendësdrejtor/kryetar/zëvendëskryetar, shef Shtabi, shef administrate, në repartet autonome të Ministrisë së Mbrojtjes dhe të Shtabit të Përgjithshëm të Forcave të Armatosura.
+- Komandant reparti/zëvendëskomandant reparti/shef Shtabi reparti, në nivel batalioni/flotilje/qendre/baze në repartet e varësisë së komandave të forcave dhe strukturave mbështetëse (FT, FAj, FD, KM, AFA).
+- Në Batalionin komando në flotiljet detare të patrajtuara në këtë lidhje.
+- Në modulin e mbështetjes me SNI.
+- Në Qendrën fikse (TIK), (Komandant i Qendrës, Komandant i modulit SNI, moduli SNI në MM/SHP, seksioni IT dhe i shërbimeve, seksioni IT Networks, Storage, Back-up).
+- Në Qendrën fikse (TIK), (Seksioni Servis Desk, Seksioni i Telekomunikacionit) në Agjencinë e Sistemeve të Ndërlidhjes dhe Informacionit.
+- Në modulin e pikave të ritransmetimit dhe në Qendrën e Automatizimit në Agjencinë e Sistemeve të Ndërlidhjes dhe Informacionit.
+- Në Drejtorinë e Projekteve të Automatizimit dhe Inovacionit dhe në Qendrën e Inovacionit të Sigurisë dhe Mbrojtjes në Ministrinë e Mbrojtjes.
+- Në Detashmentin CIMIC të Forcës Tokësore.
+- Në Qendrat Stërvitore të Forcave të Armatosura.
+- Në seksionet e kurseve të Forcave të Armatosura.
+15,000
+11
+Ushtarakët aktivë në funksionet organike:
+- Shef Seksioni në Regjimentet e këmbësorisë, ROS, RML, të Forcës Tokësore, të papërfshira më sipër.
+- Shef seksioni në bazat ajrore të Forcës Ajrore, të papërfshira më sipër.
+- Shef Seksioni në Distriktet Detare të Forcës Detare, të papërfshira me sipër.
+- Në Qendrat Operacionale në Forcat e Armatosura.
+- Në kompanitë/qendrat/togat/skuadrat/e ruajtjes dhe sigurisë, në strukturat e Forcave të Armatosura.
+- Nënoficer i Qendrës/operator/administrator/magazinier në Qendrën fikse (TIK).
+- Në Seksionin e Radiostacioneve, Seksioni i Pikës së Përpunimit të Informacionit, Seksioni i Pikës së Dorëzimit të Dokumenteve, Seksioni i Monitorimit të SNI dhe Seksionin SNI Multimedia, në modulin e SNI, në MM/SHP.
+- pozicionet e tjera në Qendrën Mobil të TIK.
+- Në grupin e mirëmbajtjes së Helikopterëve në, Forcën Ajrore të papërfshira në lidhjen 3.
+- Në qendrat e kontrollit - raportimit, në bazat ajrore të papërfshira në lidhjen 3.
+- Në pozicionet “Administrator i dokumentacionit teknik/specialist dokumentacioni”, në Shërbimin Meteorologjik Ushtarak.
+- Në bazat dhe vendbazimet detare, të Forcës Detare.
+- Në Qendrën e Vëzhgimit Detar të Forcës Detare.
+- Në Shërbimin Hidrografik dhe në Kantierin e Ndërtimit të Anijeve, të Forcës Detare.
+- Në kompanitë/togat/skuadrat e mbështetjes me shërbime logjistike/mbështetjes së Shtabit dhe në funksione ekuivalente - Në strukturat e Forcave të Armatosura.
+- Në Qendrën e mbështetjes në ASNI.
+Ushtarakët aktivë në funksionet organike:
+- Në Qendrën e Simulimit në AFA
+- Në shtabet e forcave dhe strukturave mbështetëse (FT, FD, FAj, KM, KMS dhe AFA), të patrajtuara më sipër, sipas kësaj lidhjeje, në strukturat e Forcave të Armatosura.
+- në shtabet në nivel regjimenti, batalioni, distrikti detar, flotilje, grup, detashmenti, qendre, bazat, në strukturat e varësisë së FT, FD, FAj, KM, AFA, të patrajtuara më sipër, sipas kësaj lidhje në strukturat e Forcave të Armatosura.
+- Në Inspektoratin e Qarkullimit Rrugor, në seksionin e rendit.
+- Në sektorin e MNZSH-së;
+- Në seksionet e rretheve/qarqeve në Policinë Ushtarake.
+- Në Shtëpitë e Pushimit të Ushtarakëve, në batalionin e Mbështetjes së Shtabit të Përgjithshëm të FA-së.
+- Në kompaninë e parë dhe të dytë të furnizimit, në togat e mbështetjes, në batalionin e furnizimit të Komandës Mbështetëse.
+- Në kompaninë e parë dhe të dytë të transportit, në skuadrën e mirëmbajtjes në kompaninë e mbështetjes, në batalionin e transportit në Komandën Mbështetëse.
+- Në pozicionet me specialitete detare, të emëruar në pozicione organike, që kërkojnë kryerjen e lundrimeve, në Forcën Detare.
+- Në postat radioteknike dhe postave sinjal-vrojtuese, në Forcat Detare.
+- Në strukturat autonome të MM-së dhe SHPFA-së, të patrajtuara më sipër, sipas kësaj lidhjeje.
+- Në strukturat e tjera të Forcave të Armatosura, që nuk janë përfshirë në asnjë nivel sipas strukturave apo në nivele te tjera të kësaj lidhjeje, si dhe nuk janë të përfshirë në lidhjet nr. 3 dhe nr. 4.
+13,000
+13,000
 Shënim:
-1) Ushtarakët aktivë, funksioni i të cilëve përmban dy apo më shumë emërtime të pozicioneve të punës, që përfitojnë shtesë për kushte të veçanta pune e shërbimi për çdo emërtim/pozicion, do të trajtohen vetëm me një shtesë sipas kësaj lidhjeje.
+1. Ushtarakët aktivë, funksioni i të cilëve përmban dy apo më shumë emërtime të pozicioneve të punës, që përfitojnë shtesë për kushte të veçanta pune e shërbimi për çdo emërtim/pozicion, do të trajtohen vetëm me një shtesë sipas kësaj lidhjeje.
+2. Ushtarakët aktivë, pjesë e strukturave TIK, që trajtohen me shtesë për kushte të veçanta pune e shërbimi sipas kësaj lidhjeje, shtesën e përcaktuar në këtë lidhje do ta përfitojnë nëse përmbushin dy kriteret e përcaktuara në pikën 9 të këtij vendimi.
+3. Në termin “Personeli teknik i shkencave mjekësore” përfshihen pozicionet e përcaktuara në vendimin përkatës të Këshillit të Ministrave për pagat e punonjësve të personelit mjekësor dhe personelit teknik të shkencave mjekësore, në institucionet/strukturat shëndetësore në varësi të ministrit përgjegjës për shëndetësinë, për mbrojtjen, për drejtësinë dhe për punët e brendshme.
 Lidhja nr. 6
 Funksionet ushtarake që përfitojnë shtesë për punë të vështirë e të dëmshme në shëndet në strukturat e Forcave të Armatosura të Republikës së Shqipërisë
 Nr.
