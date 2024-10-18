@@ -1,0 +1,1 @@
+3. Të ardhurat e Agjencisë, të krijuara sipas pikës 2, të këtij vendimi, klasifikohen në strukturën buxhetore me kapitull 06 “Të ardhura të veta jashtë limitit” të patrashëgueshme dhe përdoren vetëm për investime e shpenzime të mbarëvajtjes së veprimtarisë operacionale të Agjencisë.
