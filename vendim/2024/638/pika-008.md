@@ -1,0 +1,2 @@
+8. Kur ATP-ja merr vendim për kompensim fizik të pronarit, ky vendim duhet t’i njoftohet ASHK-së, në zbatim të vendimit nr. 223, datë 23.3.2016, të Këshillit të Ministrave, “Për përcaktimin e rregullave dhe të procedurave për vlerësimin dhe shpërndarjen e fondit financiar e fizik për kompensimin e pronave”, të ndryshuar.
+Njoftimi zyrtar i shoqëruar me vendimin i përcillet ASHK-së jo më vonë se 10 (dhjetë) ditë nga data e miratimit, me qëllim që të pasqyrohet në kartelën e pasurisë së paluajtshme, sipas parashikimeve të nenit 24, të ligjit nr. 111/2018, “Për kadastrën”.
