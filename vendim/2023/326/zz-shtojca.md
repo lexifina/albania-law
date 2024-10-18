@@ -290,6 +290,9 @@ klasë të punonjësve të institucioneve qendrore
 | |Mbikëqyrës riparimi në Qendrën e Riparimit të Nivelit të Katërt të Pajisjeve Tokësore e në Bazën e | |
 | |Riparimit të Aviacionit. | |
 | |Manovrator në Agjencinë Kombëtare të Mbrojtjes Civile. | |
+| |Shofer autoambulance në institucionet shëndetësore në nivel qendror të shërbimit spitalor dhe | |
+| |paraspitalor, në sistemin e ministrisë përgjegjëse për shëndetësinë dhe në Spitalin Universitar të | |
+| |Traumës | |
 |2 |Montazhier grafist. |VII |
 | |Ndihmësspecialist në prodhim e riparim të nivelit të IV në pajisjet tokësore dhe të nivelit të III në | |
 | |pajisjet ajrore. | |
@@ -395,6 +398,8 @@ të disa institucioneve të sistemit të Ministrisë së Mbrojtjes
 |1 |Manovrator i makinerive të rënda. |XIII | |
 | |Manovrator në Inspektoratin Kombëtar të Mbrojtjes së Territorit. | | |
 |2 |Ndihmësmanovrator i makinerive të rënda. |XII | |
+| |Shofer autoambulance në spitalet rajonale/bashkiake dhe qendrat shëndetësore të | | |
+| |kujdesit parësor të sistemit të ministrisë përgjegjëse për shëndetësinë. | | |
 |3 |Punonjës i gjendjes civile në bashki. |XI | |
 |4 |Kryetar dege në arsimin parauniversitar. |X |3 |
 | |Kryekujdestar në qendrat e përkujdesjes sociale. | | |
@@ -517,3 +522,4 @@ të punonjësve të institucioneve të ekzekutimit të vendimeve penale
 Shënim. Për emërtesat e pozicioneve të punës, klasat e të cilave nuk janë përcaktuar në këtë lidhje, përdoret kreu II/1.
 -----------------------
 [1] Vendimi nr. 422, date 26.6.2024 botuar në F.Z nr. 108, date 1.7.2024 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për vitin 2024, përballohen nga buxheti i miratuar dhe fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
+[2] Vendimi 640, datë 16.10.2024 botuar në F.Z me nr. 176, datë 18.10.2024 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për vitin 2024, përballohen nga buxheti i miratuar i ministrive përgjegjëse dhe nga fondet e Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor.”
