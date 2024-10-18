@@ -1,0 +1,1 @@
+1. Miratimin e procedurave dhe të kritereve që ndiqen për financimin e projekteve dhe veprimtarive në fushën e turizmit, referuar shkronjës “b”, të pikës 1, të nenit 31, të ligjit nr. 93/2015, “Për turizmin”, të ndryshuar, sipas parashikimeve të këtij vendimi.
