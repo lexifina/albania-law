@@ -5,7 +5,7 @@ c) punonjësve të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes, n�
 ç) punonjësve në pozicionin “shofer-mekanik” në Qendrën e Shërbimeve dhe Administrimit të Mjeteve të Transportit, në masën 9 000 (nëntë mijë) lekë në muaj;
 d) punonjësve, të cilët punojnë në shërbimet e shëndetit mendor e që janë në kontakt të drejtpërdrejtë me pacientët me probleme të shëndetit mendor, në masën 9 000 (nëntë mijë) lekë në muaj. Ministri përgjegjës për çështjet e shëndetësisë përcakton vendet e punës, që përfitojnë këtë shtesë me miratimin e strukturave të institucioneve shëndetësore përkatëse;
 dh) punonjësve, të cilët punojnë në institucionet e ekzekutimit të vendimeve penale dhe që janë në kontakt të drejtpërdrejtë me të dënuarit, në masën 9 000 (nëntë mijë) lekë në muaj. Kjo shtesë aplikohet pas miratimit të strukturave të institucioneve të ekzekutimit të veprave penale përkatëse, sipas propozimit të ministrit përgjegjës për çështjet e drejtësisë;
-e) punonjësve në pozicionin “shofer” në urgjencën e spitaleve, në masën 14 000 (katërmbëdhjetë mijë) lekë në muaj;
+e) Punonjësve në pozicionin “shofer autoambulance” në institucionet shëndetësore të shërbimit spitalor dhe paraspitalor, në masën 20 000 (njëzet mijë) lekë në muaj.
 ë) punonjësve në pozicionin “rojë mjedisore” në administratat e zonave të mbrojtura, në masën 8 000 (tetë mijë) lekë në muaj;
 f) punonjësve në pozicionet “përgjegjës (shërbimi i ushqimit dhe restorantit)”, “kuzhinier”, “administrues hoteli” dhe “ndihmëskuzhinier” në Shtëpinë e Pushimit të Ministrisë së Brendshme, Durrës, në masën 9 000 (nëntë mijë) lekë në muaj;
 g) punonjësve në pozicionet “laborant” dhe “teknik i mesëm aparaturash” në Institutin e Sigurisë Ushqimore dhe Veterinarisë, në masën 19 000 (nëntëmbëdhjetë mijë) lekë në muaj;
