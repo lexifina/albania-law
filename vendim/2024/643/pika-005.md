@@ -1,0 +1,1 @@
+5. Vendimi nr. 687, datë 23.10.2019, i Këshillit të Ministrave, “Për miratimin e zonës arkeologjike ’A’ të qytetit të Elbasanit dhe të planit për ruajtjen, mbrojtjen dhe administrimin e saj”, shfuqizohet.
