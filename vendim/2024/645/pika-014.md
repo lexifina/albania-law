@@ -1,0 +1,1 @@
+14. Pagesa e vlerës së objektit kryhet brenda 30 (tridhjetë) ditëve nga konfirmimi me shkrim për ushtrimin e së drejtës së parablerjes, sipas pikës 11 të këtij vendimi. Në qoftë se subjekti nuk kryen pagesën brenda afatit, ai humbet të drejtën e blerjes së objektit të konfiskuar.

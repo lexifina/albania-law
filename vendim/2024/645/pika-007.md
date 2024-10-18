@@ -1,0 +1,1 @@
+7. Ekspertët vlerësues hartojnë raportin përfundimtar të vlerësimit, bazuar në parashikimet e nenit 2, të ligjit nr. 66/2023, i cili përmban vlerën minimale të shitjes, dhe ia përcjellin ministrisë përgjegjëse për administrimin e pronës shtetërore.

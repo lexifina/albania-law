@@ -1,0 +1,1 @@
+3. Procedura e shitjes së objekteve të konfiskuara fillon pas miratimit nga Komisioni i Objekteve të Konfiskuara (në vijim “Komisioni”) të programit të shitjes, i cili, së bashku me dokumentacionin shoqërues, përcillet pranë ministrisë përgjegjëse për administrimin e pronës.

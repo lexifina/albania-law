@@ -1,0 +1,1 @@
+8. Shpenzimet për ekspertët përballohen nga fondi i veçantë i objekteve të konfiskuara nga të ardhurat e siguruara nga shitja e objektit. Kjo pagesë do të jetë 2 (dy) % e vlerës së objektit apo të grup-objekteve të vlerësuara, por jo më pak se 60 000 (gjashtëdhjetë mijë) lekë, si dhe jo më shumë se 600 000 (gjashtëqind mijë) lekë pa TVSH.

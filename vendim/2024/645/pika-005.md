@@ -1,0 +1,1 @@
+5. Pas përfundimit të aplikimeve dhe të plotësimit të dokumentacionit, sipas pikës 4 të këtij vendimi, përcaktohet vlera e objektit me ekspertë vlerësues të licencuar të pasurisë së paluajtshme, të caktuar nga ministri përgjegjës për administrimin e pronës shtetërore në urdhrin e vlerësimit të objektit të konfiskuar.

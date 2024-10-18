@@ -1,0 +1,1 @@
+2. Procesi i shitjes realizohet duke respektuar parimin e ligjshmërisë, të konkurrueshmërisë, të transparencës, si dhe të zbutjes së pasojave sociale të shkaktuara nga ndërtimet pa leje apo në tejkalim të lejes së ndërtimit.

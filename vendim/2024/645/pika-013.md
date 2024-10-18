@@ -1,0 +1,1 @@
+13. Nëse personat e tretë nuk shfaqin interes për parablerjen, ata kompensohen për vlerën e paguar sipas parashikimeve të pikës 2, të nenit 24, të ligjit nr. 66/2023. Kompensimi paguhet nga fondi i veçantë i objekteve të konfiskuara.

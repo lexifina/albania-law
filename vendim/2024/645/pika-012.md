@@ -1,0 +1,1 @@
+12. Në rastin e pronarit të truallit dhe të personave të tretë, e drejta e parablerjes realizohet sipas marrëveshjes juridiko-civile të hartuar para noterit, të regjistruar në regjistrat përkatës në Agjencinë Shtetërore të Kadastrës, përpara datës së konstatimit të paligjshmërisë së ndërtimit, të vërtetuar me faturë të bankave të nivelit të dytë.

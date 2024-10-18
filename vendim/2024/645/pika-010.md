@@ -1,0 +1,1 @@
+10. Struktura përgjegjëse për shitjen e pronës pranë ministrisë përgjegjëse për administrimin e pronës shtetërore njofton me shkrim, për të drejtën e parablerjes, subjektet në lidhje me ushtrimin e kësaj të drejte.
