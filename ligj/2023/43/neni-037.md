@@ -6,7 +6,7 @@ b) Regjistrin Kombëtar të Shërbimeve të Bazave të të Dhënave të Regjistr
 c) Regjistrin Kombëtar të Bazave të të Dhënave të Regjistruara;
 ç) qendrën e të dhënave qeveritare (Datacenter-in Qeveritar);
 d) qendrën e rivendosjes dhe/ose vazhdueshmërisë së punës së Datacenter-it qeveritar në rast fatkeqësie (Disaster Recovery Center);
-dh) qendrën e vazhdueshmërisë së punës (Business Continuity Center, BCC) dhe qendrën e ruajtjes së informacionit (Back-up Center), me qëllim mundësimin e ofrimit të shërbimeve pa ndërprerje 24 orë në 24 orë për 7 ditë të javës;
+dh) qendrën e vazhdueshmërisë së punës (Business Continuity Center, BCC) dhe sistemet e ruajtjes së informacionit (backup systems), me qëllim mundësimin e ofrimit të shërbimeve pa ndërprerje 24 orë në 24 orë për 7 ditë të javës;
 e) rrjetin qeveritar (Govnet);
 ë) çelësin publik dhe menaxhimin e certifikatave digjitale për administratën shtetërore dhe subjektet private;
 f) sistemin e administrimit të dokumentit elektronik, përfshirë protokollin dhe arkivin elektronik;

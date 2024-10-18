@@ -15,4 +15,4 @@ gj) jep mendim për institucionet e tjera të administratës publike, me kërkes
 i. specifikimet teknike të prokurimeve që do të realizohen me fondet e buxhetit të shtetit, hua dhe/ose grante të dhëna nga donatorët;
 ii. procedurat që kanë lidhje me projektpropozime/projekte të ndryshme, dhurata apo ndihma materiale;
 AKSHI jep mendim brenda afatit prej 20 ditësh pune nga data e marrjes së dokumentacionit.
-h) për projektet e një natyre të veçantë dhe komplekse AKSHI mund të kontraktojë supervizor të licencuar për të bërë të mundur monitorimin e zbatimit të kontratës. Autoriteti licencues, kushtet dhe kriteret për licencim përcaktohen me vendim të Këshillit të Ministrave.
+h) Shfuqizuar.
