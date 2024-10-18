@@ -1,0 +1,1 @@
+1. Ky vendim përcakton të gjitha elementet e akteve noteriale, vendimeve gjyqësore, akteve administrative dhe akteve të përmbaruesit gjyqësor, që Agjencia Shtetërore e Kadastrës (në vijim ASHK) duhet të kontrollojë për efekt të regjistrimit të tyre në regjistrin kadastral.

@@ -1,0 +1,1 @@
+2. Përveç përjashtimeve të përcaktuara me ligj, ndryshimi i gjendjes juridike të pasurisë së paluajtshme në regjistrin kadastral bëhet vetëm nëse veprimi i fundit që do të kryhet në regjistër vjen si rrjedhojë e titullit të regjistruar të pronarit paraardhës për pasurinë e paluajtshme të certifikuar.
