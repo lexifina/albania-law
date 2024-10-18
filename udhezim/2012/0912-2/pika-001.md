@@ -1,1 +1,0 @@
-1. Objekt i këtij udhëzimi është përcaktimi i rregullave të hollësishme për regjistrimin e kontratave të shitjes për një pasuri të paluajtshme, regjistrimin e pasurive të paluajtshme, të fituara me parashkrim fitues, si dhe regjistrimin e kalimit të pronësisë me anë të ligjit, me vendim të gjykatës apo të një akti administrativ.
