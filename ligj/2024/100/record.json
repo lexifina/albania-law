@@ -1,0 +1,26 @@
+{
+  "qbz_id": 64088,
+  "title": "Për disa ndryshime dhe shtesa në ligjin nr. 43/2023, \"Për qeverisjen elektronike\"",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "100",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2024-09-12",
+  "published": "2024-10-03",
+  "in_force": "2024-10-18",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/843fabe8b5cb038a7da99ca2d908a47e49905d21f0a7bfe981f89eee05e9e400.docx",
+  "source_sha256": "843fabe8b5cb038a7da99ca2d908a47e49905d21f0a7bfe981f89eee05e9e400",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64088",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2024/09/12/100",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
