@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së projektit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe qeverisë së Konfederatës Zvicerane, përfaqësuar nga Sekretariati Shtetëror për Çështjet Ekonomike, që vepron nëpërmjet Ambasadës së Zvicrës në Shqipëri, për ofrimin e asistencës teknike për forcimin e menaxhimit të financave publike në nivel vendor në Shqipëri, faza 2, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
