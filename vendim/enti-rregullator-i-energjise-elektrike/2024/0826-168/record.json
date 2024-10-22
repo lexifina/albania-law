@@ -1,0 +1,28 @@
+{
+  "qbz_id": 29009,
+  "title": "Mbi licencimin e shoqërisë “Sun's Miracle” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "168",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2024-08-26",
+  "published": "2024-10-22",
+  "in_force": "2024-10-22",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/61c10aedddb52c02e7b355a3a7490a8e74b17179c3bda54e287e638f68ea7002.docx",
+  "source_sha256": "61c10aedddb52c02e7b355a3a7490a8e74b17179c3bda54e287e638f68ea7002",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29009",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2024/08/26/168",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    58816
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
