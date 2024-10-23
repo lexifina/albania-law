@@ -4,6 +4,10 @@ Nr. 132, datë 2.7.2024
 
 MBI LICENCIMIN E SHOQËRISË “GREENNAT SOLAR PARK BALLSH” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me Vendimin nr. 223, datë 23.10.2024)
+
+(I përditësuar)
+
 Në mbështetje të neneve 16 dhe 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, dhe 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 2.7.2024, mbasi shqyrtoi relacionin me nr. 979/12 prot., datë 1.7.2024, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes “Mbi kërkesën e shoqërisë ‘GreeNNat Solar Park Ballsh’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -44,9 +48,15 @@ Për gjithë sa më sipër, Bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “GreeNNat Solar Park Ballsh” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet prodhues 100 mw, me vendndodhje në zonën kadastrale 1090, Njësia Administrative Ballsh, Bashkia Mallakastër, qarku Fier, për një afat 25-vjeçar, duke filluar ky afat nga data 11.1.2028. 
+1. Të licencojë shoqërinë “GreeNNat Solar Park Ballsh” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet prodhues 100 mw, me vendndodhje në zonën kadastrale 1090, Njësia Administrative Ballsh, Bashkia Mallakastër, qarku Fier, për një afat 25-vjeçar.
 
-2. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “GreeNNat Solar Park Ballsh” sh.p.k. dhe Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s.
+ 2. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “GreeNNat Solar Park Ballsh” sh.p.k. dhe Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s.
+
+3. Shoqëria të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike për kapacitetin e instaluar prej 25 mw me hyrjen në fuqi të këtyre ndryshimeve. 
+
+4. Shoqëria të fillojë ushtrimin e veprimtarisë së licencuar për kapacitetin e plotë prej 100 mw jo më vonë se data 11.1.2028. 
+
+5. Me fillimin e ushtrimit të veprimtarisë së licencuar, sipas përcaktimeve të pikës 4 të këtij vendimi, pika 3 shfuqizohet. 
 
 Ky vendim hyn në fuqi menjëherë. 
 
