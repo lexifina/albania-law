@@ -1,0 +1,5 @@
+# Neni 8
+Procedura e vlerësimit të përfituesve për fonde për politikën “Rritja e aksesit në ofrimin e shërbimit të furnizimit me ujë cilësor dhe të menaxhuar në mënyrë të sigurt”
+1. Ofruesit e shërbimeve në sektorin e ujësjellës-kanalizime kualifikohen vetëm nëse ato përmbushin kriteret e përgjithshme të kualifikimit përcaktuar në nenin 6, kreu II “Metodologjia e përfitimit të fondeve”, më sipër.
+2. Ofruesit e shërbimeve në sektorin e ujësjellës-kanalizime duhet të dorëzojnë një aplikim të nënshkruar dhe të plotë që përmban dokumentet dhe formularët në përputhje me aneksin 1, bashkëlidhur këtij udhëzimi, thënë ndryshe formularët e dorëzimit. Dorëzimi mund të bëhet me postë ose në protokollin e AKUK-së. Gjithashtu, ofruesit e shërbimeve në sektorin e ujësjellës-kanalizime kanë mundësinë e paraqitjes së aplikimit në mënyrë elektronike.
+3. Aplikimet duhet të dorëzohen gjatë periudhës së dorëzimit të aplikimeve, e cila zgjat çdo vit, nga 1 mars deri më 30 qershor - periudha e parë - dhe nga 1 tetori deri më 30 nëntor - periudha e dytë.
