@@ -926,5 +926,31 @@ FORMATI PËR DEKLARATËN E PËRPUNIMIT DHE TË VJELJES
 |Emri i vëzhguesit: |
 |Nr. ICCAT: |
 |Nënshkrimi: |
+(Parashikuar në Urdhrin nr. 822, datë 16.10.2024)
+|23-06 |
+|REKOMANDIM NGA ICCAT PËR NDRYSHIMIN E REKOMANDIMIT 22-08, |
+|PËR HARTIMIN E NJË PLANI MENAXHIMI SHUMËVJEÇAR PËR TONIN NË |
+|ATLANTIKUN LINDOR DHE DETIN MESDHE |
+DUKE PRANUAR se rekomandimi nga ICCAT që amendon rekomandimin 21-08 për krijimin e një plani shumëvjeçar të menaxhimit për peshkun ton në Atlantikun Lindor dhe Mesdhe (Rec. 22-08) ka disa paqartësi dhe gabime, të cilat kërkojnë sqarime apo korrigjime;
+DUKE VËNË NË DUKJE se mbledhja ndërsesionale e panelit 2 në mars 2023 ishte dakord se disa anekse të rec. 22-08 kërkonin një amendim;
+GJITHASHTU, DUKE VËNË në dukje se mbledhja e 16-të e grupit të punës mbi masat e integruara të monitorimit (IMM) në qershor 2023 miratoi “Amendimin e propozuar në shtojcën 10 të rec. 22-08”, si dhe “Modifikimin e Rekomandimit nga ICCAT duke ndryshuar Rekomandimin 21-08 duke krijuar një plan shumëvjeçar të menaxhimit të peshkut ton në Atlantikun Lindor dhe Mesdhe (rec. 22-08) - gabimet dhe mospërputhjet janë dakordësuar që të dyja t’i përcillen panelit 2 për shqyrtim”.
+KOMISIONI NDËRKOMBËTAR PËR RUAJTJEN E TUNAVE TË ATLANTIKUT (ICCAT), REKOMANDON QË:
+Ndryshimet e mëposhtme i bëhen rec. 22-08:
+Paragrafët 21 dhe 22 do të hiqen.
+Paragrafët 20, 23 dhe 24 do të lexohen si më poshtë..
+“Pjesa II:
+Masat e menaxhimit
+Kapaciteti bujqësor
+20. Çdo CPC që kultivon do të krijojë një plan vjetor të menaxhimit të kultivimit. Ky plan duhet të tregojë se kapaciteti i përgjithshëm i inputeve dhe kapaciteti i përgjithshëm kultivues është në përpjesëtim me shumën e vlerësuar të tonit të disponueshëm për kultivim, duke përfshirë informacionin e përmendur në paragrafin 23. Planet e rishikuara të menaxhimit të kultivimit, nëse është e nevojshme, duhet t’i dërgohen sekretariatit më 1 qershor të çdo viti. Komisioni do të sigurojë që kapaciteti total kultivues në Atlantikun Lindor dhe në detin Mesdhe është në përpjesëtim me sasinë totale të tonit të disponueshëm për kultivim në zonë.
+23. Çdo CPC duhet të krijojë një maksimum hyrjesh vjetore për tonin e kuq të egër të kapur dhe të futur në fermat e tij në nivel të të dhënave të regjistruara në ICCAT nga ferma e tij në vitet 2005, 2006, 2007 apo 2008. Nëse një CPC ka nevojë të rrisë kultivimin për tonin e peshkuar, kjo rritje duhet të jetë në përpjesëtim me kuotën e peshkimit të alokuar për atë CPC, duke përfshirë edhe importet e tonit.
+24. Sekretariati i ICCAT-it do të përpilojë statistika mbi sasinë vjetore të tonit në kosha (inputin e peshkut të egër të kapur), vjeljen dhe eksportin, sipas fermës së CPC-së, duke përdorur të dhënat në sistemin e BCD-së. Grupi i punës për skemën e dokumenteve të zënies së qëndrueshme (CDS WG) do të marrë në konsideratë zhvillimin e një funksionaliteti të tillë të nxjerrjes së të dhënave dhe derisa një funksion i tillë të bëhet i disponueshëm, çdo CPC me ferma duhet t’i raportojë këto statistika sekretariatit të ICCAT-it. Këto statistika do të vihen në dispozicion në faqen e internetit të ICCAT-it, duke iu nënshtruar kërkesave të konfidencialitetit.
+Paragrafi 120 (a) do të lexohet si më poshtë:
+“120. Çdo CPC që kryen operacione dhurimi do të marrë masat e nevojshme për të siguruar që kopjet identike të regjistrimeve përkatëse video të dërgohen pa vonesë nga operatori dhurues:
+a) Për operacionin e parë të transferimit dhe transferimin vullnetar eventual, tek vëzhguesi rajonal i ICCAT-it dhe tek anija tërheqëse marrëse dhe, në fund të udhëtimit të peshkimit, tek autoriteti kompetent i CPC-së të operatorit dhurues.
+Një paragraf i ri (paragrafi 12) i shtohet shtojcës 10.
+“12. Dispozitat e kësaj shtojce nuk zbatohen për lëshimin e tonit nga kurthet si pasojë e ngritjes së veglës së peshkimit në fund të aktivitetit.”
+Në shtojcën 11, një kolonë e re “Destinacioni i peshqve të ngordhur (të hedhur ose të zbarkuar)” do të shtohet midis kolonave “N° i BTF i ngordhur” dhe “Nënshkrimi i kapitenit” në formatin e shtojcës 11 (raportimi i peshqve që ngordhin gjatë transferimeve të mëtejshme dhe operacioneve të rimorkimit).
+Paragrafi i parë në shtojcën 14 do të lexohet si më poshtë:
+“Përpara vendosjes së tyre në një anije me koshilok, një kurth ose një anije tërheqëse, ofruesi përgjegjës për ROP-në duhet të sigurojnë një minimum prej 25 vulash ICCAT për çdo vëzhgues rajonal dhe kombëtar të ICCAT-it nën përgjegjësinë e tyre dhe të mbajnë një regjistër të vulave të ofruara dhe të përdorura”.
 -----------------------
 [1] Zëvendësuar nga rec. 21-13.
