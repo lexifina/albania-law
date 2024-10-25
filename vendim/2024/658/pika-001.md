@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 7.8.2024, për çështjen “Biba kundër Shqipërisë”, për kërkesën nr. 24228/18, në shumën 11 700 (njëmbëdhjetë mijë e shtatëqind) euro, në lidhje me dëmin jopasuror, si dhe në shumën 5 000 (pesë mijë) euro, në lidhje me kostot dhe shpenzimet, plus çdo taksë që mund të jetë e aplikueshme.
