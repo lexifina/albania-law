@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për sigurinë industriale, rregullat, procedurat dhe kërkesat për mbrojtjen e informacionit të klasifikuar gjatë prokurimit në fushën e mbrojtjes dhe të sigurisë”, sipas tekstit që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+2. Vendimi nr. 542, datë 29.9.2021, i Këshillit të Ministrave, “Për rregullat, procedurat dhe kërkesat për mbrojtjen e informacionit të klasifikuar gjatë prokurimit në fushën e mbrojtjes dhe të sigurisë”, shfuqizohet.
