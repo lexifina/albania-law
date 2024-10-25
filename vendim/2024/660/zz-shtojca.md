@@ -1,0 +1,54 @@
+# Shtojca
+LISTA EMËRORE E PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE QË PREKEN NGA SHPRONËSIMI PËR INTERES PUBLIK PËR REALIZIMIN E PROJEKTIT “RIKUALIFIKIMI I QENDRËS SË FSHATIT LIBOFSHË, NJËSIA ADMINISTRATIVE LIBOFSHË, BASHKIA FIER”
+Nr. rendor
+PONARI
+Të DHËNAT KADASTRALE (SIPAS KARTELËS SË PASURISË)
+VLERËSIMI PËR SHPRONËSIM
+Shënime/kufizime mbi pronësinë etj.
+EMËR ATËSIA MBIEMËR
+Zona kadastrale
+Nr. pasurie
+Lloji i pasurisë
+Sip. e objektit të shërbimit (m2)
+Çmimi objektit të banimit (l/m2)
+Vlera e objektit te shërbimit sipas situacionit (lekë)
+Vlera e objektit të banimit (lekë)
+Vlera totale e truallit, objektit te banimit dhe shërbimit (lekë)
+1
+Urani Kovi Shyte
+2443
+16/24 - N3
+NJËSI
+33.50
+425,477
+425,477
+KONFIRMUAR NGA ASHK, ME CERTIFIKATË PRONËSIE DATË 16.5.2011
+2
+Qibarete Hasim Hasani
+2443
+16/24 - N4
+NJËSI
+33.50
+194,348
+194,348
+KONFIRMUAR NGA ASHK, ME CERTIFIKATË PRONËSIE DATË 6.4.2012
+3
+Katerina Ndini Babuli Grigor Thoma Babuli
+2443
+16/24 - N5
+NJËSI
+33.50
+561,824
+561,824
+KONFIRMUAR NGA ASHK, ME CERTIFIKATË PRONËSIE DATË 10.6.2014
+4
+Qibarete Hasim Hasani
+2443
+16/27-ND
+NDËRTESË
+32.92
+113,012
+113,012
+KONFIRMUAR NGA ASHK, ME CERTIFIKATË PRONËSIE DATË 9.4.2012
+VLERA TOTALE
+1,294,661
