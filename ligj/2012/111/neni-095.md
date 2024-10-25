@@ -1,7 +1,0 @@
-# Neni 95
-Organet përgjegjëse për zbatimin e ligjit
-1. Organet e administrimit të burimeve ujore, njësitë e qeverisjes vendore, strukturat e ministrisë përgjegjëse për shëndetësinë, për bujqësinë, strukturat dhe organet e emergjencave civile, të rregullimit e planifikimit të territorit janë përgjegjëse për marrjen e masave dhe zbatimin e dispozitave të këtij ligji, nën menaxhimin e përgjithshëm të AMBU-së.
-2. Inspektoratet, që mbulojnë fushën e mjedisit, shëndetësisë dhe bujqësisë, janë përgjegjëse për zbatimin e dispozitave të këtij ligji, nën menaxhimin e përgjithshëm të AMBU-së (si një pjesë e ciklit të menaxhimit të integruar të burimeve ujore).
-3. Inspektorati, që mbulon fushën e mbrojtjes së mjedisit, dhe agjencitë rajonale të mjedisit janë përgjegjëse për zbatimin e dispozitave të këtij ligji, në përputhje me dispozitat e ligjit për mbrojtjen e mjedisit.
-4. Përdoruesit e angazhuar në fushën e menaxhimit të ujërave, mbi të cilët zbatohet ky ligj, u japin inspektorëve që mbulojnë fushën e mjedisit të gjithë asistencën e nevojshme për kryerjen e inspektimeve në atë veprimtari, për marrjen, analizimin dhe grumbullimin e gjithë informacionit të nevojshëm për realizimin e detyrave të tyre, për qëllime të këtij ligji, në përputhje me kërkesat e ligjit për mbrojtjen e mjedisit
-5. Inspektimi për verifikimin e respektimit të kërkesave ligjore bëhet në përputhje me këtë ligj, me ligjin për mbrojtjen e mjedisit dhe me ligjin për inspektimin, nën menaxhimin e përgjithshëm të AMBU-së (si një pjesë e ciklit të menaxhimit të integruar të burimeve ujore).

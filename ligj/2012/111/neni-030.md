@@ -1,9 +1,0 @@
-# Neni 30
-Shkarkimet industriale dhe trajtimi i tyre
-1. Zyrat e administrimit të baseneve ujore, në bashkëpunim me agjencitë rajonale të mjedisit, përgatisin programet për parandalimin dhe shmangien e ndotjes së burimeve ujore pritëse nën juridiksionin e tyre, nga shkarkimet e lëngëta.
-2. Shkarkimi në mjedis i ujërave të përdorura industriale duhet të realizohet në përputhje të plotë me kërkesat e përgjithshme e specifike për lloje të ndryshme të veprimtarive, si rezultat i të cilave kryhen shkarkime të lëngshme në mjedis, me qëllim mbrojtjen e ujërave nëntokësore apo sipërfaqësore nga kontaminimi apo ndotja.
-3. Menaxhimi i ujërave të përdorura industriale duhet të realizohet nga subjekte, të cilat i prodhojnë dhe i shkarkojnë ato në zbatim të parimit “Ndotësi paguan”.
-4. Menaxhimi i ujërave të përdorura industriale përfshin trajtimin e pjesshëm apo të plotë të tyre, në afërsi të zonës ku vendoset subjekti, i cili i prodhon ato apo në një zonë të caktuar industriale. Shkarkimet e lëngëta, pas trajtimit në impiantet e trajtimit të ujërave të përdorura, bëhen kundrejt një tarife dhe në përputhje me normat e cilësisë së këtyre ujërave.
-5. Tarifat e shkarkimeve të lëngëta, të prodhuara nga trajtimi i ujërave të përdorura industriale, përcaktohen në bazë të sasisë së shkarkimit dhe përbërjes kimike të tyre.
-6. Ujërat e ndotura, që nuk arrijnë karakteristikat e përcaktuara në akte nënligjore, ndalohen të shkarkohen direkt në tokë, në ujë dhe në sistemin publik të kanalizimeve.
-7. Monitorimi i cilësisë, sasisë së prodhimit të ujërave të përdorura industriale dhe shkarkimeve në mjedisin ujor sipërfaqësor apo nëntokësor pas trajtimit duhet të kryhet nga organet e përcaktuara me ligje të veçanta,nën menaxhimin e përgjithshëm të AMBU-së (si një pjesë e ciklit të menaxhimit të integruar të burimeve ujore).

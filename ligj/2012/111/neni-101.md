@@ -1,6 +1,0 @@
-# Neni 101
-Propozimi dhe miratimi i akteve nënligjore
-1. Këshilli i Ministrave miraton aktet nënligjore në zbatim të neneve 8; 11, pika 2; 16, pika 6; 17, pika 2; 22, pika 2; 25, pika 3; 26, pika 3; 29; 31, pika 1/1; 34, pika 3; 36, pika 2; 41, pika 3; 42, pika 5; 44, pika 2; 48, pika 3; 50, pikat 1 dhe 6; 53, pika 3; 57, pika 2; 59, pika 2; 60, pika 2; 68, pika 6; 70, pika 5; 73, pika 2; 74, pika 2; 76; 78; 82; 85, pika 7; 86, pika 1; 88, pika 3; 92, pikat 1 dhe 2; 93, pika 2; dhe 96, pika 3, të këtij ligji, brenda 6 muajve nga hyrja në fuqi e tij.
-2. Këshilli Kombëtar i Ujit miraton aktet në zbatim të neneve 9, pika 3 shkronja “d”; 26, pika 4; 27, pikat 1 dhe 2; 28, pika 4; 35, pika 1; 37, pika 3; 44, pika 1; 46; 58, pika 1; 62, pika 1; 63; 69, pika 2; dhe 77, pika 4, të këtij ligji, brenda 6 muajve nga hyrja në fuqi e tij.
-3. Ministri përgjegjës për mjedisin, në bashkëpunim me ministrin përgjegjës për bujqësinë, ministrin përgjegjës për ekonominë dhe ministrin përgjegjës për shëndetësinë, nxjerr rregullore për zbatimin e pikës 2, të nenit 35, të këtij ligji.
-4. Ministri përgjegjës për mjedisin, në bashkëpunim me ministrin përgjegjës për bujqësinë dhe ministrin përgjegjës për ekonominë, nxjerr rregullore për zbatimin e pikës 2, të nenit 58, të këtij ligji.

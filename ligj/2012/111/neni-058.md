@@ -1,4 +1,0 @@
-# Neni 58
-Mbrojtja e zonave të prirura ndaj ndotjes
-1. Agjencia e Menaxhimit të Burimeve Ujore harton aktet përkatëse nënligjore për shpalljen e zonave në rrezik nga ndotja prej elementeve apo substancave të dëmshme, si kimikatet e ndryshme, biocidet, për mbrojtjen e shëndetit të njerëzve, agrikulturës, mjedisit, të cilat i paraqet për miratim në Këshillin Kombëtar të Ujit.
-2. Ministri përgjegjës për mjedisin, në bashkëpunim me ministrin përgjegjës për bujqësinë dhe ministrin përgjegjës për ekonominë, nxjerr rregullore që përcakton programet, masat dhe detyrimet e tjera përkatëse, me qëllim reduktimin dhe parandalimin e ndotjes së ujërave nga substancat e dëmshme, si ato të përcaktuara në pikën 1 të këtij neni, ashtu edhe ato që shkaktohen apo rrjedhin nga veprimtari të tjera bujqësore, industriale dhe veprimtaria njerëzore.
