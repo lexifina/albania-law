@@ -1,4 +1,0 @@
-# Neni 42
-Masat e sigurisë së informacionit të klasifikuar gjatë zbatimit të kontratës/nënkontratës
-1. Autoriteti kontraktor merr masat sipas legjislacionit në fuqi për sigurimin e informacionit të klasifikuar në mjediset e tij, brenda zonave të sigurisë në procesin e negocimit, të prodhimit dhe të administrimit të dokumenteve që përmbajnë informacion të klasifikuar, si pjesë përbërëse e procedurave të prokurimit në fushën e mbrojtjes dhe të sigurisë .
-2. Autoriteti kontraktor dhe, sipas rastit, edhe institucioni përfitues, është i detyruar që në mjediset e tij, brenda zonave të sigurisë, t’i krijojë kushte për punën me informacionin e klasifikuar, sipas legjislacionit në fuqi, kontraktorit/nënkontraktorit, me përjashtim të rasteve kur kontraktori është i pajisur me CSI, sipas përcaktimeve të shkronjave “b” e “c”, të nenit 8, të këtij vendimi.
