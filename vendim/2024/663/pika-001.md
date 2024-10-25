@@ -1,0 +1,1 @@
+1. Miratimin e planit të shpenzimeve operative, për vitin 2025, të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura (ERRU) në shumën 71 449 000 (shtatëdhjetë e një milionë e katërqind e dyzet e nëntë mijë) lekë, sipas pasqyrës nr. 1, që i bashkëlidhet këtij vendimi.
