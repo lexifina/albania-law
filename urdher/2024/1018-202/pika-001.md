@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të drejtorit të përgjithshëm të Gjendjes Civile z. Shpëtim Çokaj, me detyrë drejtor i Drejtorisë së Administrimit të Regjistrave në Drejtorinë e Përgjithshme të Gjendjes Civile, në Ministrinë e Brendshme.
