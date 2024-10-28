@@ -1,0 +1,1 @@
+6. Shpenzimet e pagesës së materialit biologjik (vezëve), karburantit që shpenzohet për grumbullimin dhe transportimin e vezëve të koranit dhe shpenzimet e tjera që kanë të bëjnë me këtë aktivitet do të mbulohen nga buxheti i planifikuar i DSHPA-së.
