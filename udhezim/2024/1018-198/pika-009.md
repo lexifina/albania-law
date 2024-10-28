@@ -1,0 +1,1 @@
+9. Drejtori i Drejtorisë Vendore të Policisë, miraton pajisjen/refuzimin me autorizim të kategorisë C dhe D dhe armë të tjera të ndryshme nga armët e zjarrit, për të cilat kërkohet autorizim, të personave fizikë/juridikë, bazuar në propozimin e Komisionit Vendor për dhënien e autorizimeve për veprimtarinë e lejuar me armët.

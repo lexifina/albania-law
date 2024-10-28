@@ -1,0 +1,1 @@
+1. Autorizimi për veprimtarinë e lejuar me armët është akti administrativ që i lëshohet personit juridik ose fizik nga Policia e Shtetit për blerje/mbajtje arme, pjesë arme dhe municionet përkatëse, në përputhje me kushtet e përcaktuara në të.

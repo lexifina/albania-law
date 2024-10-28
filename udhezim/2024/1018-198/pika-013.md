@@ -1,0 +1,1 @@
+13. Komisariati i Policisë që ka pranuar aplikimin online, pasi merr aktin e miratimit/refuzimit të autorizimit nga DVP-ja, përfundon procedurën e ofrimit të shërbimit online nga Policia e Shtetit dhe ia përcjell aktin aplikuesit nëpërmjet portalit unik qeveritar e-Albania, kundrejt mandatpagesës të ngarkuar në sistem.

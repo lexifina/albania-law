@@ -1,0 +1,1 @@
+11. Akti i miratimit/refuzimit të autorizimet prodhohet në dy kopje, ku njëra i përcillet DVP/Komisariatit të Policisë, ku aplikanti ka vendbanimin dhe është administruar kërkesa, kurse kopja e dytë, së bashku me dokumentet që kanë shërbyer për pajisjen me autorizim, mbahet në sekretarinë e DVP/Departamentit për Sigurinë Publike.

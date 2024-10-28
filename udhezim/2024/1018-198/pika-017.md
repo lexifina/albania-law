@@ -1,0 +1,1 @@
+17. Mosparaqitja e kërkesës për ripërtëritjen e autorizimit brenda afatit 90-ditor para përfundimit të afatit të vlefshmërisë, sjell mosripërtëritjen e tij, si dhe detyrimin për bllokimin e armës nga Komisariati i Policisë ku personi ka vendbanimin.

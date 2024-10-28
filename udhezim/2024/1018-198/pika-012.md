@@ -1,0 +1,1 @@
+12. Refuzimi i dhënies së autorizimit, bëhet me vendim të arsyetuar të Komisionit për veprimtarinë e lejuar me armët. Në çdo rast vendimi i refuzimit të dhënies së autorizimit arsyetohet në përputhje me përcaktimet e Kodit të Procedurës Administrative.
