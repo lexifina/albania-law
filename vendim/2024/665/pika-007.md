@@ -1,0 +1,1 @@
+7. Efekti financiar, sipas këtij vendimi, përballohet nga fondet e parashikuara për ADISA-n në ligjin “Për buxhetin e shtetit të vitit 2024”, të ndryshuar. Fondet e mbetura të papërdorura rikthehen në buxhetin e shtetit, sipas parashikimeve të legjislacionit në fuqi për menaxhimin e sistemit buxhetor.

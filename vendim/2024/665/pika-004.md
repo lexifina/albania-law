@@ -1,0 +1,5 @@
+4. Sendet e luajtshme në administrim të ADISA-s i kalojnë në administrim AKSHI-t, me përjashtim të:
+a) sendeve të luajtshme që gjenden në katet e pestë dhe të gjashtë të godinës, e cila identifikohet në bazë të pikës 9, të këtij vendimi. Këto sende i kalojnë përkatësisht Shkollës Shqiptare të Administratës Publike (ASPA) dhe Agjencisë së Menaxhimit të Burimeve Ujore (AMBU);
+b) 2 (dy) automjeteve “Toyota”, me targa AA 043 PL dhe AA 046 PL, të cilat do të kalojnë në përgjegjësi administrimi tek Agjencia Shtetërore e Programimit Strategjik dhe Koordinimit të Ndihmës (SASPAC);
+c) 2 (dy) automjeteve: SKODA Yeti me targa (AA 539 NN) dhe furgoni me targa (AA 953 XM), të cilat i kalojnë në përgjegjësi administrimi Shkollës Shqiptare të Administratës Publike (ASPA).
+Për këtë qëllim, ADISA përgatit inventarët e sendeve të luajtshme, si dhe kryen të gjitha procedurat, në përputhje me legjislacionin përkatës në fuqi. Institucioneve përkatëse u kalojnë edhe të gjitha të drejtat e detyrimet që lidhen me këto sende, në përputhje me legjislacionin në fuqi.

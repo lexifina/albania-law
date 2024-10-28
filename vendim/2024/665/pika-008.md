@@ -1,0 +1,1 @@
+8. Për ambientet, që ADISA-s i janë dhënë më parë në përdorim nga bashkitë, AKSHI mund të bashkërendojë me këto bashki, në funksion të marrjes në përdorim, në përputhje me parashikimet e legjislacionit në fuqi, të atyre ambienteve që janë të nevojshme për ecurinë e veprimtarisë së saj, nëse ka dakordësi nga bashkitë përkatëse.

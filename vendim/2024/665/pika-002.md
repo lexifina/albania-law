@@ -1,0 +1,1 @@
+2. ADISA të kryejë procedurat në funksion të përfundimit të marrëdhënieve të punës së punonjësve të saj, në përputhje me përcaktimet e Kodit të Punës, duke u paguar atyre të gjitha detyrimet e parashikuara nga dispozitat e tij për punonjësit në rrethanat përkatëse, sipas rastit.

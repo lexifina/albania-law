@@ -1,0 +1,2 @@
+9. Në vendimin nr. 276, datë 1.4.2015, të Këshillit të Ministrave, të ndryshuar, pika 3, ndryshohet, si më poshtë vijon:
+“3. Kati i pestë dhe i gjashtë i godinës, sipas planimetrive, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, u jepen në përdorim të përkohshëm, përkatësisht, Shkollës Shqiptare të Administratës Publike (ASPA) dhe Agjencisë së Menaxhimit të Burimeve Ujore (AMBU) për sistemimin e administratave të tyre.”.

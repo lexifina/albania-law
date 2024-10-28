@@ -1,0 +1,1 @@
+1. Mbyllja e ADISA-s, si pasojë e shfuqizimit të ligjit nr. 13/2016, “Për mënyrën e ofrimit të shërbimeve publike në sportel në Republikën e Shqipërisë”, shoqërohet me kryerjen e të gjitha procedurave për zgjidhjen e kontratave të punës të punonjësve të saj, sipas parashikimeve të nenit 14, të ligjit nr. 100/2014, si dhe të dispozitave të Kodit të Punës.
