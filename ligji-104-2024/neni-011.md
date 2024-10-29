@@ -1,0 +1,7 @@
+# Neni 11
+Ndalimi i përdorimit të OMGJ-ve
+1. OMGJ-të dhe produktet e prodhuara nga ose me OMGJ nuk përdoren në produkte ushqimore ose ushqim për kafshë apo si produkt ushqimor, ushqim për kafshë, lëndë ndihmëse në përpunim, produkte për mbrojtjen e bimëve, produkte plehëruese, përmirësues të tokës, material mbjellës dhe shumëzues bimor, mikroorganizma ose kafshë, në prodhimin organik.
+2. Për OMGJ-të dhe produktet e prodhuara nga OMGJ-të për ushqim dhe ushqim për kafshë, operatorët bazohen në etiketat apo në dokumentet e tjera shoqëruese të produktit, sipas legjislacionit në fuqi për ushqimin për kafshë.
+3. Operatori vlerëson se asnjë OMGJ dhe produkt i prodhuar nga OMGJ-të nuk është përdorur për prodhimin ose përpunimin e produkteve ushqimore dhe ushqimit për kafshë të blera nëse nuk kanë një etiketë ose dokument shoqërues, siç përcaktohet në pikën 2 të këtij neni, përveç kur ata kanë dijeni që etiketimi i produkteve në fjalë nuk është në përputhje me legjislacionin në fuqi për ushqimin.
+4. Operatori për lëndët ndihmëse në përpunim, produktet për mbrojtjen e bimëve, produktet plehëruese, përmirësuesit e tokës, materialin mbjellës dhe shumëzues bimor, mikroorganizmat dhe kafshët, kur përdor produkte të tilla joorganike të blera nga palë të tjera, i kërkon shitësit të plotësojë deklaratën se produktet e furnizuara prej tij nuk janë OMGJ dhe nuk janë prodhuar nga ose me OMGJ.
+5. Modeli i deklaratës së shitësit miratohet me urdhër të ministrit.

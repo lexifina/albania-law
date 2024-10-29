@@ -1,0 +1,6 @@
+# Neni 23
+Përdorimi i përbërësve bujqësorë joorganikë për ushqimet organike të përpunuara
+1. Për të siguruar përbërës të caktuar bujqësorë, që nuk gjenden në formë organike në sasi të mjaftueshme, dhe që janë miratuar për përdorim të përkohshëm nga të paktën një vend anëtar i Bashkimit Evropian, Komisioni për Prodhimin Organik, me kërkesë të operatorit, miraton përkohësisht përdorimin e përbërësve bujqësorë joorganikë për prodhimin e ushqimit organik të përpunuar, për një periudhë deri në gjashtë muaj. Ky miratim zbatohet për të gjithë operatorët në Shqipëri.
+2. Operatori vërteton se përbërësit nuk gjenden në formë organike në sasi të mjaftueshme, duke paraqitur të paktën dy përgjigje negative nga furnizuesi, ku deklarohet se përbërësi nuk gjendet në formë organike ose që sasia ekzistuese nuk është e mjaftueshme për nevojat e operatorëve.
+3. KPO-ja, me kërkesë të operatorit, zgjat miratimin deri në dy herë për maksimumi gjashtë muaj secila, me kusht që këta përbërës vazhdojnë të mos gjenden në formë organike në sasi të mjaftueshme.
+4. Nëse edhe pas zgjatjes së dytë, përbërës të tillë nuk gjenden në formë organike dhe në sasi të mjaftueshme për të plotësuar nevojat e operatorëve, këta përbërës përdoren vetëm nëse miratohen sipas pikës 3 të nenit 22 të këtij ligji.

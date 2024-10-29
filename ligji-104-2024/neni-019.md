@@ -1,0 +1,10 @@
+# Neni 19
+Rregullat përjashtuese në prodhimin organik
+1. Në rastet e fatkeqësive natyrore ose fatkeqësive të tjera, që diktojnë një gjendje të jashtëzakonshme dhe që e bëjnë të pamundur përmbushjen e rregullave të prodhimit organik, mund të lejohen përjashtime nga rregullat e prodhimit për një periudhë kohe të kufizuar derisa prodhimi organik të mund të rikthehet në kushte normale, duke zbatuar parimet e përcaktuara në kreun II të këtij ligji, si dhe parashikimet e këtij neni.
+2. Pas shpalljes zyrtare të gjendjes së jashtëzakonshme, si pasojë e “motit të keq”, “sëmundjes së kafshëve”, “incidentit mjedisor”, “fatkeqësisë natyrore” ose të çdo situate tjetër të ngjashme, KPO-ja, kryesisht me identifikimin e operatorëve të prekur në zonën e shpallur ose me kërkesë nga një operator ose grup operatorësh në zonën e shpallur, vendos miratimin e përjashtimeve nga rregullat e prodhimit organik dhe kriteret që lidhen me to, me kusht që këto përjashtime dhe kritere të zbatohen:
+a) për një periudhë të kufizuar, por jo më shumë sesa është e nevojshme, dhe në asnjë rast më shumë se 12 muaj për të vazhduar ose rifilluar prodhimin organik, siç është kryer përpara datës së zbatimit të këtyre përjashtimeve;
+b) në lidhje me llojet specifike të prodhimit të prekura ose, sipas rastit, parcelat e tokës; dhe
+c) për të gjithë operatorët organikë përkatës, të prekur në zonën e shpallur ose vetëm për operatorin ose grupin e operatorëve, sipas rastit.
+3. Operatori ose grupi i operatorëve paraqet aplikimin online për miratimin e përjashtimeve nga rregullat e prodhimit organik, sipas pikës 2 të këtij neni, nëpërmjet portalit qeveritar “e-Albania” në ministrinë përgjegjëse për bujqësinë.
+4. Zbatimi i përjashtimeve nuk prek vlefshmërinë e certifikatës zyrtare gjatë periudhës kur zbatohen përjashtimet, me kusht që operatori ose grupi i operatorëve në fjalë të plotësojë kriteret në të cilat janë dhënë përjashtimet.
+5. Përjashtime të veçanta nga rregullat e prodhimit organik, që miratohen në rastet e gjendjes së jashtëzakonshme dhe procedurat e miratimit të aplikimeve për përjashtim miratohen me udhëzim të ministrit.

@@ -1,0 +1,8 @@
+# Neni 48
+Pezullimi i trupave të kontrollit
+1. Ministri mund të pezullojë plotësisht ose pjesërisht miratimin e trupës së kontrollit:
+a) për një periudhë jo më shumë se 12 muaj, gjatë së cilës trupa e kontrollit duhet të korrigjojë mangësitë e gjetura gjatë auditimeve dhe inspektimeve ose të adresojë mospërputhjet për të cilat janë informuar trupat e tjerë të kontrollit, autoritetet kompetente të kontrollit zyrtar dhe ministria, në përputhje me nenin 53 të këtij ligji; ose
+b) për periudhën gjatë së cilës akreditimi në përputhje me legjislacionin në fuqi për kontrollin zyrtar është pezulluar.
+2. Kur pezullohet miratimi, trupa e kontrollit nuk lëshon certifikata zyrtare për pjesën e fushës së pezulluar. Ministri, në bazë të propozimit të KPO-së, vendos për vlefshmërinë e certifikatave të lëshuara nga trupa e kontrollit përpara datës së këtij pezullimi dhe informon operatorët për vendimin.
+3. Pa prekur detyrimet sipas legjislacionit në fuqi për kontrollin zyrtar, ministri heq pezullimin e miratimit të trupës së kontrollit kur trupa e kontrollit korrigjon mangësitë ose mospërputhjet e dyshuara ose menjëherë pas heqjes së pezullimit të akreditimit nga organi i akreditimit.
+4. Kur një trupë kontrolli, e miratuar nga ministri, është njohur edhe nga Komisioni Evropian për të certifikuar operatorët organikë në Shqipëri, sipas standardeve të tjera ndërkombëtare dhe i është hequr njohja, autoriteti i mbikëqyrjes, i përcaktuar në pikën 1 të nenit 47 të këtij ligji, organizon auditime ose inspektime të aktivitetit të kësaj trupe kontrolli në përputhje me legjislacionin për kontrollin zyrtar.

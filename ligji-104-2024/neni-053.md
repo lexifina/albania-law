@@ -1,0 +1,10 @@
+# Neni 53
+Rregulla për shkëmbimin e informacionit
+1. Përveç detyrimit të përcaktuar në legjislacionin në fuqi për kontrollet zyrtare, autoritetet kompetente të kontrollit zyrtar dhe trupat e kontrollit shkëmbejnë menjëherë informacionin midis tyre, me ministrinë dhe me autoritetet kompetente të vendeve të tjera për një dyshim për mospërputhje, që prek integritetin e produkteve organike ose në kalim.
+2. Në rastet kur dyshohet ose konstatohet mospërputhje në produktet që kontrollohen nga një trup tjetër kontrolli, atëherë trupa e kontrollit njofton menjëherë trupën tjetër. Trupat e kontrollit shkëmbejnë midis tyre edhe informacione të tjera përkatëse.
+3. Me marrjen e një kërkese për informacion, e cila justifikohet nga nevoja për të siguruar se një produkt është prodhuar në përputhje me këtë ligj, trupat e kontrollit shkëmbejnë informacion për rezultatet e kontrolleve të kryera me autoritetin kompetent përkatës të kontrollit zyrtar dhe ministrinë.
+4. Autoritetet e mbikëqyrjes së trupave të kontrollit, të përcaktuara në pikën 1 të nenit 47 të këtij ligji, dhe organizmi i akreditimit shkëmbejnë midis tyre informacionet për auditimet e kryera, statuset e miratimit dhe akreditimit të trupave të kontrollit dhe çdo informacion tjetër që mund të ndikojë në miratimin ose akreditimin.
+5. Autoritetet kompetente të kontrollit zyrtar dhe trupat e kontrollit sigurojnë që informacionet për rezultatet e kontrolleve t’i komunikohen agjencisë së pagesave në përputhje me nevojat e saj.
+6. Autoritetet kompetente të kontrollit zyrtar, të përcaktuara në nenin 39 të këtij ligji, paraqesin në ministri:
+a) deri më 31 janar të çdo viti listën e operatorëve organikë të regjistruar gjatë vitit paraardhës;
+b) deri më 1 mars të çdo viti raportin vjetor për kontrollet zyrtare të kryera sipas fushës së përgjegjësisë, mospërputhjet e konstatuara, masat e sanksionet e marra dhe përjashtimet nga rregullat e prodhimit të miratuara gjatë vitit paraardhës dhe çdo informacion tjetër kur kërkohet nga ministria.

@@ -1,0 +1,7 @@
+# Neni 51
+Masat në rast të mospërputhjeve të dyshuara
+1. Kur trupa e kontrollit ose një autoritet kompetent përkatës i kontrollit zyrtar dyshon ose merr informacion, përfshirë informacionin nga autoritete kompetente ose trupa kontrolli të tjera, se një operator përdor ose vendos në treg një produkt, i cili nuk është në përputhje me rregullat e përcaktuara në këtë ligj, por përmban terma që i referohen prodhimit organik ose informohen nga një operator për një dyshim për mospërputhje:
+a) kryen menjëherë një hetim zyrtar për të verifikuar përputhshmërinë me këtë ligj. Ky hetim përfundon sa më shpejt të jetë e mundur, duke marrë parasysh jetëgjatësinë e produktit dhe kompleksitetin e rastit;
+b) ndalon përkohësisht vendosjen në treg të produkteve me referencë organike ose në kalim dhe përdorimin e tyre në prodhimin organik, në pritje të rezultateve të hetimit zyrtar, siç përcaktohet në shkronjën “a” të kësaj pike. Para marrjes së një vendimi të tillë, trupa e kontrollit ose autoriteti kompetent përkatës i kontrollit zyrtar i jep operatorit mundësinë për të paraqitur mendimin e tij.
+2. Në rast se rezultatet e hetimit zyrtar nuk tregojnë ndonjë mospërputhje, që ndikon në integritetin e produkteve organike ose në kalim, operatori lejohet t’i përdorë këto produkte ose t’i vendosë në treg si produkte organike ose në kalim.
+3. Rregullat e hollësishme për hartimin e katalogut të përbashkët të masave dhe formati i tij miratohen me udhëzim të ministrit.

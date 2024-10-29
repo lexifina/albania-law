@@ -1,0 +1,12 @@
+# Neni 13
+Rregullat për prodhimin organik bimor
+1. Operatori që prodhon bimë ose produkte bimore organike, përveç rregullave të përgjithshme të prodhimit të përcaktuara në nenet 9, 10 dhe 11 të këtij ligji, zbaton edhe rregullat e përcaktuara në këtë nen.
+2. Kulturat bujqësore organike, përveç atyre që kultivohen natyralisht në ujë, prodhohen në tokë natyrore ose në tokë të plehëruar me produkte dhe substanca të lejuara për përdorim në prodhimin organik, në varësi të përbërjes së tokës dhe shkëmbit amnor.
+3. Ndalohet prodhimi hidroponik, i cili është një metodë e kultivimit të bimëve, të cilat nuk rriten në mënyrë natyrore me rrënjët në ujë, por vetëm në një tretësirë ushqyese ose në një mjedis inert, të cilit i shtohet një tretësirë ushqyese.
+4. Të gjitha teknikat e prodhimit bimor të përdorura duhet të parandalojnë ose të zvogëlojnë çdo ndotje të mundshme të mjedisit.
+5. Për prodhimin e bimëve dhe produkteve organike bimore, përveç materialit mbjellës dhe shumëzues bimor, përdoret vetëm material mbjellës dhe shumëzues bimor organik.
+6. Për të prodhuar material mbjellës dhe shumëzues bimor organik, që përdoret për prodhimin e produkteve organike bimore, përjashtuar materialin mbjellës dhe shumëzues bimor, bima mëmë dhe, ku është e nevojshme, bimë të tjera që përdoren për prodhimin e materialit mbjellës dhe shumëzues bimor prodhohen, në përputhje me kërkesat e këtij ligji, për të paktën një brezni bimore, ose, në rastin e kulturave shumëvjeçare, për të paktën një brezni gjatë dy sezoneve të rritjes.
+7. Gjatë zgjedhjes së materialit mbjellës dhe shumëzues bimor organik, operatori i jep përparësi materialit mbjellës dhe shumëzues bimor organik, të përshtatshëm për bujqësinë organike.
+8. Për prodhimin e varieteteve organike, të përshtatshme për prodhimin organik, aktivitetet e përmirësimit gjenetik organik kryhen në kushte organike dhe synojnë rritjen e diversitetit gjenetik, mbështetur në aftësinë natyrore riprodhuese, karakteristikat agronomike, qëndrueshmërinë ndaj sëmundjeve dhe dëmtuesve dhe në përshtatjen ndaj kushteve të ndryshme lokale të tokës dhe klimës.
+9. Të gjitha praktikat e shumëzimit, përveç asaj me kultura meristematike, kryhen sipas rregullave të certifikimit organik.
+10. Rregullat e hollësishme për prodhimin organik të bimëve dhe produkteve bimore, materialit mbjellës dhe shumëzues bimor, mbledhjen e bimëve të egra dhe prodhimin e kërpudhave miratohen me udhëzim të ministrit.
