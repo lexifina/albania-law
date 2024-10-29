@@ -5,7 +5,7 @@ Temat e të dhënave gjeohapësinore
 a) përcaktimin e kornizës referuese gjeodezike dhe kontrollin gjeodezik;
 b) sistemet e rrjeteve gjeografike;
 c) emërtimet gjeografike;
-ç) imazhin e hartës bazë;
+ç) harta bazë;
 d) kufijtë e njësive administrative;
 dh) sistemin e adresave;
 e) parcelat kadastrale;
@@ -37,4 +37,4 @@ x) habitatet;
 xh) shpërndarjen e specieve;
 y) burimet energjetike;
 z) burimet minerare.
-3. Listës së përcaktuar në pikën 2 të këtij neni i shtohet çdo temë tjetër e përcaktuar, rast pas rasti, me vendim të Këshillit të Ministrave, sipas propozimit të ministrit, në përputhje me nevojat dhe zhvillimet në fushën e informacionit gjeohapësinor dhe në përputhje me përparësitë e politikës kombëtare të informacionit gjeohapësinor.
+3. Listës së përcaktuar në pikën 2 të këtij neni i shtohet çdo temë tjetër e përcaktuar, rast pas rasti, me vendim të Këshillit të Ministrave, në përputhje me nevojat dhe zhvillimet në fushën e informacionit gjeohapësinor dhe në përputhje me përparësitë e politikës kombëtare të informacionit gjeohapësinor.

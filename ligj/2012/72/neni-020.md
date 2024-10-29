@@ -1,6 +1,6 @@
 # Neni 20
-Bashkërendimi ndërinstitucional
-1. ASIG-u, në përputhje me përgjegjësitë e tij sipas këtij ligji, bashkërendon veprimet dhe nismat e autoriteteve publike në fushën e informacionit gjeohapësinor. ASIG-u siguron bashkërendimin ndërinstitucional për:
+Koordinimi ndërinstitucional
+1. ASIG-u, në përputhje me përgjegjësitë e tij sipas këtij ligji, bashkërendon veprimet dhe nismat e autoriteteve publike në fushën e informacionit gjeohapësinor. ASIG-u siguron koordinimin ndërinstitucional për:
 a) mbledhjen, përpunimin dhe përditësimin e të dhënave gjeohapësinore;
 b) përcaktimin e standardeve shtetërore dhe të rregullave uniforme;
 c) investimet në sektorin e të dhënave gjeohapësinore.

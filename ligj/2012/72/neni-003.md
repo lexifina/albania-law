@@ -13,6 +13,8 @@ b) çdo person fizik ose juridik, që ka përgjegjësi ose kryen funksione publi
 8. “Grup të dhënash gjeohapësinore” është një koleksion i identifikueshëm të dhënash gjeohapësinore.
 9. “Gjeoreferencim” është përcaktimi i pozicionit gjeohapësinor të një objekti apo fenomeni duke u mbështetur në një sistem hapësinor koordinativ.
 10. “Gjeoportal” është një sistem, i cili nëpërmjet internetit përdor një ndërfaqe grafike qendrore dhe unike, nëpërmjet së cilës përdoruesit mund të zbulojnë, të shikojnë dhe të përdorin informacionin gjeohapësinor dhe shërbimet e rrjetit që lidhen me këtë informacion, sipas përcaktimeve të këtij ligji.
+10/1. “Harta bazë” është një hartë që përshkruan apo paraqet informacione gjeohapësinore të realitetit fizik të sipërfaqes së tokës për të cilën vendosen, përpunohen dhe përditësohen informacione të tjera tematike, sipas temave të përcaktuara në nenin 11 të këtij ligji.
+10/2 “Remote Sensing” është teknologjia shkencore e përftimit të të dhënave‚ paraqitjes dhe njohjes së informacionit mbi sipërfaqen tokësore dhe të objekteve mbi të, pa qenë në kontakt me to. Kjo mundësohet me anë të “kapjes” së ndijimeve (skanimit) dhe regjistrimit të energjisë së rrezatimit të reflektuar dhe të emetuar nga objektet në dhe mbi sipërfaqen tokësore dhe më pas të përpunimit, të analizimit dhe të përdorimit të informacionit të përftuar.
 11. “Informacion gjeohapësinor” janë metadatat, të dhënat dhe grupet e të dhënave gjeohapësinore, që lidhen me një fenomen çfarëdo të realitetit, gjeoreferencimi i të cilit mundësohet nga një sistem hapësinor koordinativ i përbashkët.
 12. “Infrastruktura kombëtare e informacionit gjeohapësinor” është infrastruktura që përfshin autoritetet kombëtare përgjegjëse për të dhënat gjeohapësinore, metadatat, grupet e të dhënave gjeohapësinore dhe shërbimet e të dhënave gjeohapësinore, shërbimet e rrjetit dhe teknologjitë, marrëveshjet për shkëmbimin, aksesin dhe përdorimin, si dhe mekanizmat e koordinimit e të monitorimit, proceset dhe procedurat, të krijuara, të vëna në veprim ose të vëna në dispozicion në përputhje me këtë ligj.
 13. “Korniza Referuese Gjeodezike” është baza mbi të cilën mbështetet përcaktimi unik tredimensional i pozicionit të një pike në tokë dhe përbëhet nga:
@@ -28,4 +30,4 @@ dh) sistemi i emërtesave.
 17. “Shërbime për informacionin gjeohapësinor” janë operacionet që mund të realizohen, përmes aplikacioneve kompjuterike, për informacionin gjeohapësinor, të dhënat dhe grupet e të dhënave gjeohapësinore ose për metadatat që lidhen me to.
 18. “Të dhëna gjeohapësinore” është çdo e dhënë që i referohet në mënyrë të drejtpërdrejtë apo të tërthortë një vendi ose zone gjeografike të veçantë.
 19. “Objekt gjeohapësinor” është përfaqësimi abstrakt i një fenomeni të botës reale lidhur me një vend ose zonë gjeografike të veçantë.
-20. “Ministri” është ministri përgjegjës për infrastrukturën kombëtare të informacionit gjeohapësinor.
+20. Shfuqizuar.

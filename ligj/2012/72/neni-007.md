@@ -13,3 +13,5 @@ f) mbikëqyr zbatimin e kuadrit rregullator të vendosur nga ky ligj, aktet nën
 g) kujdeset për edukimin dhe rritjen e kapaciteteve të aktorëve të përfshirë në proceset që lidhen me infrastrukturën kombëtare të informacionit gjeohapësinor, si dhe për përhapjen e informacionit që lidhet me të te grupet e interesit dhe te publiku;
 gj) përfaqëson shtetin në organizatat europiane dhe ndërkombëtare, anëtarësimi në të cilat i shërben funksionimit dhe modernizimit të infrastrukturës kombëtare të informacionit gjeohapësinor;
 h) përfaqëson shtetin për çdo çështje tjetër që lidhet me infrastrukturën e informacionit gjeohapësinor.
+i) mbledh, analizon, administron, përpunon me teknologji të avancuar dhe shpërndan informacionin gjeohapësinor të mbledhur me metodat pasive dhe aktive të Remote Sensing-ut;
+j) krijon dhe mirëmban hartën bazë në Republikën e Shqipërisë në përputhje me aktet nënligjore në zbatim të këtij ligji.
