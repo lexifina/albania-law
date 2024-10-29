@@ -14,7 +14,7 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 11. “Lundrim mbi dallgë (Surf)” ёshtё aktivitet që ushtrohet në ujërat sipërfaqësore, në të cilin ushtruesi hipën në anën e përparme ose në sipërfaqen e një dallge në lëvizje, që zakonisht e mbart/zhvendos drejt bregut.
 12. “Mjete të tjera të vogla lundruese”, në kuptim të këtij ligji, janë mjetet e tjera ujore, që përdoren për qëllime turistike, kënaqësie dhe argëtimi.
 13. “Mjet lundrues i arrestuar” ka të njëjtin kuptim sipas përcaktimeve Konventës të Kombeve të Bashkuara “Për arrestimin e anijeve, 1999”, të ratifikuar nga Republika e Shqipërisë me ligjin nr. 10 035, datё 22.12.2008.
-14. “Operator të turizmit detar” ka të njëjtin kuptim si operatori turistik, i parashikuar në legjislacionin për turizmin, dhe i nënshtrohet së njëjtës procedurё licencimi, sipas ligjit për turizmin dhe përcaktimeve të këtij ligji.
+14. “Operator i turizmit detar” është ai subjekt, që ushtron aktivitete të turizmit detar, i cili është i certifikuar nga ministria përgjegjëse për turizmin, sipas parashikimeve të këtij ligji.
 15. “Peshkimi turistik” ka të njëjtin kuptim sipas legjislacionit në fuqi për peshkimin.
 16. “Pontil” ka të njëjtin kuptim sipas legjislacionit për portet turistike.
 17. “Port turistik” ka të njëjtin kuptim sipas legjislacionit për portet turistike.
