@@ -1,0 +1,1 @@
+37. Nëse pas lidhjes së kontratës, subjekti blerës ka realizuar detyrimin e investimit brenda afatit, ai ka të drejtë të njoftojë ministrinë përgjegjëse për këtë fakt, duke paraqitur aktin e vlerësimit që vërteton përmbushjen e investimit në vlerën/masën e përcaktuar në kontratë.
