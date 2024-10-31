@@ -4,9 +4,9 @@ Nr.9693, datë 19.3.2007
 
 PËR FONDIN KULLOSOR
 
-(Ndryshuar me ligjin nr. 9996, datë 22.9.2008; nr. 10 137, datë 11.5.2009; nr. 14/2012, datë 16.2.2012; nr. 38/2013, datë 14.2.2013; nr. 49/2016, datë 5.5.2016; nr. 99/2024, datë 12.9.2024)
+(Ndryshuar me ligjin nr. 9996, datë 22.9.2008; nr. 10 137, datë 11.5.2009; nr. 14/2012, datë 16.2.2012; nr. 38/2013, datë 14.2.2013; nr. 49/2016, datë 5.5.2016; nr. 99/2024, datë 12.9.2024; nr. 111/2024, datë 31.10.2024)
 
-(i përditësuar)
+(I përditësuar)
 
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
 
@@ -158,7 +158,7 @@ Neni 10
 
 Ndryshimi i destinacionit
 
-(Ndryshuar pika 2 dhe shtuar pika 2/1 dhe 2/2,  me ligjin nr. 14/2012, datë 16.2.2012)
+(Ndryshuar pika 2 dhe shtuar pika 2/1 dhe 2/2,  me ligjin nr. 14/2012, datë 16.2.2012; shtuar pika 3/1 me ligjin nr. 111/2024, datë 31.10.2024) 
 
 1. Heqja e një kullote apo livadhi nga fondi kullosor ose ndryshimi i destinacionit për një sipërfaqe kullote bëhet:
 
@@ -174,7 +174,11 @@ b) për sipërfaqe mbi 1 ha, me vendim të Këshillit të Ministrave.
 
 3. Heqja, shtimi dhe ndryshimi i destinacionit të kullotave dhe livadheve, pas miratimit të organit kompetent, pasqyrohen në regjistrin e fondit kullosor.
 
+3/1. Në rastet kur në fondin kullosor publik dhe privat janë miratuar vendimmarrje të Këshillit Kombëtar të Territorit dhe Ujit për zhvillime turistike, nuk ndiqet procedura e heqjes nga fondi kullosor, por struktura e menaxhimit të pyjeve dhe kullotave bashkiake, pasi merr dijeni, bën azhurnimin kadastral në kadastrën e fondit kullosor dhe e raporton atë në sistemin ALFIS.
+
 4. Rregullat dhe procedurat, që ndiqen për heqjen, shtimin dhe ndryshimin e destinacionit, miratohen me vendim të Këshillit të Ministrave.
+
+nr. 111/2024, datë 31.10.2024)
 
 KREU III 
 
@@ -292,19 +296,23 @@ Neni 17
 
 Përdorimi i sipërfaqes dhe i tokës
 
-(Shtuar pika 3/1, ndryshuar pika 4, me ligjin nr.10 137, datë 11.5.2009)
+(Shtuar pika 3/1, ndryshuar pika 4, me ligjin nr.10 137, datë 11.5.2009; ndryshuar pika 3 me ligjin nr. 111/2024, datë 31.10.2024)
 
 1. Dhënia në përdorim e sipërfaqes së kullotave dhe livadheve, në radhë të parë, lejohet për ndërtime të përkohshme, si depo e qendra të staneve, qendra të përpunimit të bulmetit, për mullinj, për shtëpi të përkohshme verimi për blegtorët, gjithnjë në përputhje me funksionin themelor të saj si kullotë.
 
 2. Personi fizik apo juridik, që merr kullotën për kullotje, sipas nenit 15 të këtij ligji, merr për objektet, që do të ndërtojë në sipërfaqen e marrë, edhe miratimin nga struktura përgjegjëse përkatëse për pyjet dhe kullotat në bashki. Për kullotat bashkiake miratimi jepet nga bashkia.
 
-3. Sipërfaqe të caktuara dhe toka të fondit kullosor, pronë shtetërore, mund të jepen në përdorim, për të zhvilluar në to veprimtari shoqërore, shëndetësore, sportive e turistike, vetëm kur:
+3. Sipërfaqe të caktuara dhe toka të fondit kullosor mund të jepen në përdorim për të zhvilluar në to veprimtari shoqërore, shëndetësore, sportive e turistike dhe për prodhimin e energjisë së rinovueshme mbështetur në kërkesat si më poshtë:
 
-a) veprimtaria është parashikuar në planin e mbarështimit të kullotës apo livadhit, ose kur nuk bie në kundërshtim me synimet e kërkesat e këtij plani;
+a) për lejimin e veprimtarive shoqërore, shëndetësore, sportive e turistike kërkohet që këto veprimtari:
 
-b) ushtrimi i veprimtarisë nuk e dëmton mjedisin rrethues dhe nuk ka pasoja të vazhdueshme negative mbi të;
+i. të jenë të parashikuara në planin e mbarështimit të kullotës apo livadhit, ose kur nuk bie në kundërshtim me synimet e kërkesat e këtij plani;
 
-c) subjekti realizon, në vijimësi dhe përfundimisht, rehabilitimin e sipërfaqes së marrë në përdorim, në përputhje me planin e rehabilitimit, të hartuar prej tij e të miratuar nga struktura përgjegjëse përkatëse për pyjet dhe kullotat në bashki.
+ii. të mos dëmtojnë mjedisin rrethues dhe të mos sjellin pasoja të vazhdueshme negative mbi të; 
+
+iii. subjekti zhvillues të realizojë në vijimësi dhe përfundimisht rehabilitimin e sipërfaqes së marrë në përdorim, në përputhje me planin e rehabilitimit të hartuar prej tij e të miratuar nga struktura përgjegjëse për pyjet dhe kullotat në bashki.
+
+b) për lejimin e ushtrimit të veprimtarive që lidhen me prodhimin e energjisë së rinovueshme në fondin kullosor shtetëror ngarkohen njësitë e qeverisjes vendore për ndjekjen e procedurave ligjore përkatëse për dhënien e së drejtës së përdorimit.
 
 3/1. Dhënia në përdorim sipas pikës 1 të këtij neni, nëse është kompetencë e institucioneve qendrore, përfshihet në kategorinë III.4, të shtojcës së ligjit për licencat dhe bëhet sipas ligjit për licencat ose sipas dispozitave të parashikuara në këtë nen dhe në nenet në vijim të këtij ligji. Këshilli i Ministrave vendos për përdorimin e njërës nga këto dy mënyra, sipas ndarjes në nënkategori.
 
