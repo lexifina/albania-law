@@ -1,356 +1,325 @@
 # Shtojca
-LISTA EMËRORE E PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I “NËNSTACIONIT 400 kv ELBASAN 3”
-Nr.
+LISTA EMËRORE E PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA PROJEKTI “NDËRTIMI I NËNSTACIONIT 400 kV ELBASAN 3”
+Nr. rendor
 Pronësia
+Të dhënat kadastrale (sipas kartelës së pasurisë)
+Kompensimi sipas standardit ndërkombëtar (vlera në lekë)
+Vlera totale e kompensimit sipas standardit ndërkombëtar (lekë)
 Shënime
+Sip. që shpronësohet (m²)
+Çmimi i tokës (lekë/m²) llogaritur sipas raportvlerësimit të përgatitur nga ekspertët vlerësues
+Vlera e kompensimit për tokën (lekë)
+Kultura vjetore (m2)
+Kulturat shumëvjeçare (nr. pemësh)
 Emri
 Atësia
 Mbiemri
-Zona kadastrale
+ZK
 Nr. i pasurisë
 Lloji i pasurisë
-Sip. totale e pronës m2
-Sip. e pronës që shpronësohet m2
-Çmimi i shpronësimit në lekë/m2
-Vlera e shpronësimit lekë/arë
+Sip. e pronës (m²)
+Jonxhë
+Misër
+Ullinj 2-6 vite
+Ullinj 11-20 vite
+Ullinj 21-30 vite
+Portokall 2-4 vite
+Shegë >5 vite
+Arrë 5-10 vite
+Arrë 11-30 vite
+Shuma e kompensimit për të mbjellat (lekë)
 Bashkia Elbasan
-Fshati Kryezjarrth
+Fshati Kryezjarth
 1
 Feim Avdul Zeneli & Alie Begdash Zeneli
 2296
 44/1/3
-arë
-2500
+Arë
 2,500
-222
-555,000
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+2500
+589
+1,472,500
+2,500
+6,143
+1,478,643
 2
 Mirela
 Preni
-Merdani (Çakalli)
+Merdani
 2296
 44/1/4
-arë
-2000
+Arë
 2,000
-222
-444,000
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+2000
+589
+1,178,000
+42
+9
+3
+4
+1,202,470
+2,380,470
 3
 Nosi
 Vasil
 Biba
 2296
 44/2
-arë
-4000
+Arë
 4,000
-222
-888,000
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+4000
+589
+2,356,000
+4,000
+41,200
+2,397,200
 4
-Englantina
+Eglantina
 Josif
 Ranxha
 2296
 44/3/1
-arë
-1625
+Arë
 1,625
-222
-360,750
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+1625
+589
+957,125
+957,125
 5
 Kozeta
 Josif
 Kuqi
 2296
 44/3/2
-arë
-1625
+Arë
 1,625
-222
-360,750
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+1625
+589
+957,125
+957,125
 6
 Ndriçim
 Marthe
 Tollumi
 2296
 44/4
-arë
-3792
+Arë
 3,792
-222
-841,824
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+3792
+589
+2,233,488
+2,233,488
 7
-File
-Tasi
-Zela
+File Feride Ervin Mirjan Aferdita Dhimiter Vangjeli Jani
+Tasi Dylber Jani Jani Vasil Vasil Vasil Vasil
+Zela Zela Zela Zela Sollaku Zela Xhija Zela
 2296
 44/5
-arë
-2831
+Arë
 2,831
-222
-628,482
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Feride
-Dylber
-Zela
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Ervin
-Jani
-Zela
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Mirjan
-Jani
-Zela
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Aferdita
-Vasil
-Sollaku
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Dhimiter
-Vasil
-Zela
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Vangjeli
-Vasil
-Xhija
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Jani
-Vasil
-Zela
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+2831
+589
+1,667,459
+2,700
+29,159
+1,696,618
 8
-Dhimiter
-Vasil
-Zela
+Dhimiter Bukuri Kujtim Dashamir
+Vasil Venemin Dhimitër Dhimitër
+Zela Zela Zela Zela
 2296
 44/6
-arë
-2700
+Arë
 2,700
-222
-599,400
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+2700
+589
+1,590,300
+1,590,300
 9
 Thoma
 Ili
 Bica
 2296
 45/2/1
-arë
-2900
+Arë
 2,900
-222
-643,800
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+2900
+589
+1,708,100
+2,900
+7,125
+1,715,225
 10
 Jorgji
 Tasi
 Bica
 2296
 45/3
-arë
-2750
+Arë
 2,750
-222
-610,500
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+2750
+589
+1,619,750
+110
+3,116,011
+4,735,761
 11
 Foti
 Ranxha
 2296
 45/4
-arë
-4125
-4,125
-222
-915,750
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+Arë
+3,200
+3200
+589
+1,884,800
+3,200
+7,863
+1,892,663
 12
-Thoma
-Spiro
-Roçi
+Thoma Aferdita Gentian Alfred Eduard Ervin
+Spiro Grigor Thoma Thoma Thoma Thoma
+Roçi Roçi Roçi Roçi Roçi Roçi
 2296
 45/7
-arë
-3539
+Arë
 3,539
-222
-785,658
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Afërdita
-Grigor
-Roçi
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Gentian
-Thoma
-Roçi
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Alfred
-Thoma
-Roçi
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Eduard
-Thoma
-Roçi
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Ervin
-Thoma
-Roçi
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+3539
+589
+2,084,471
+2,084,471
 13
 Kostandin
 Simon
 Drizari
 2296
 45/8
-arë
+Arë
 5000
-5,000
-222
-1,110,000
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+5000
+589
+2,945,000
+2,500
+2,500
+1
+46,818
+2,991,818
 14
 Petrit
 Grigor
 Drizari
 2296
 45/9
-arë
-2500
+Arë
 2,500
-222
-555,000
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+2500
+589
+1,472,500
+2,500
+6,143
+1,478,643
 15
 Ligor
 Simon
 Drizari
 2296
 45/10
-arë
+Arë
 810
 810
-222
-179,820
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+589
+477,090
+440
+1,081
+478,171
 16
 Agim
 Jakov
 Tollumi
 2296
 45/11
-arë
-2715
+Arë
 2,715
-222
-602,730
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+2715
+589
+1,599,135
+125
+1,259,026
+2,858,161
 17
 Nikolla
 Vasil
 Biba
 2296
 45/12
-arë
-1570
+Arë
 1,570
-222
-348,540
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+1570
+589
+924,730
+924,730
 18
-Aleks
-Vasil
-Biba
+BP Aleks Vasil Biba
 2296
 45/13
-arë
-5500
-5,500
-222
-1,221,000
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+Arë
+4,590
+4590
+589
+2,703,510
+4,590
+47,277
+2,750,787
 19
-Dafina
-Merkur
+Bashkim
+Vasil
 Biba
 2296
 45/14
-arë
-2375
+Arë
 2,375
-222
-527,250
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Aldi
-Bashkim
-Biba
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Bashkim
-Vasil
-Biba
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Prene
-Petrit
-Biba
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Aleks
-Vasil
-Biba
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Nosi
-Vasil
-Biba
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Nikolla
-Vasil
-Biba
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Bukuri
-Vasil
-Shqau
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+2375
+589
+1,398,875
+1,398,875
 20
-Gezim Naun Shati & Bukurie Peter Shati
+Gezim Naun Shati & Bukurie Petër Shati
 2296
 45/15
-arë
-1625
+Arë
 1,625
-222
-360,750
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+1625
+589
+957,125
+1,625
+31
+316,231
+1,273,356
 21
 Eduard
 Jorgji
 Oga
 2296
 45/1/3
-arë
-2000
+Arë
 2,000
-222
-444,000
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
+2000
+589
+1,178,000
+1,178,000
 22
 Eduard
 Jorgji
 Oga
 2296
 45/1/4
-arë
-2219
+Arë
 2,219
-222
-492,618
-Konfirmuar nga ASHK-ja, Drejtoria Vendore Elbasan
-Sipërfaqe totale shpronësimi m2
-60,701.00
-Vlera totale e shpronësimit
-13,475,622.00
+2219
+589
+1,306,991
+1,306,991
+Nënstacioni 400 kV, Elbasan 3 - shuma e kompensimit (lekë)
+34,672,074
+6,086,547
+40,758,621
