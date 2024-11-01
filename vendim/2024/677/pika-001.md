@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni i rrugëve ’Faik Pajuni’ dhe ’Alush Lleshanaku’, në zonën kadastrale 8521, Bashkia Elbasan”.
