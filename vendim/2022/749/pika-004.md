@@ -1,1 +1,1 @@
-4. Vlera e përgjithshme e shpronësimit, prej 13 475 622 (trembëdhjetë milionë e katërqind e shtatëdhjetë e pesë mijë e gjashtëqind e njëzet e dy) lekësh, përballohet nga Operatori i Sistemit të Transmetimit sh.a.
+4. Vlera e përgjithshme e shpronësimit, prej 40 758 621 (dyzet milionë e shtatëqind e pesëdhjetë e tetë mijë e gjashtëqind e njëzet e një) lekë, përballohet nga Operatori i Sistemit të Transmetimit sh.a.
