@@ -1,0 +1,1 @@
+2. Përfaqësimi për proceset gjyqësore bëhet si rregull nga juristë të Drejtorisë së Programimit, Standardizimit dhe Harmonizimit të Kuadrit Rregullator dhe/ose specialistë të fushës për të cilën është ngritur kërkesëpadia. Rast pas rasti, përfaqësimi gjyqësor mund të bëhet edhe nga nëpunës të tjerë të institucioneve të varësisë dhe/ose degëve të tyre territoriale.

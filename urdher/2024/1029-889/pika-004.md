@@ -1,0 +1,1 @@
+4. Drejtoria e Aseteve dhe Shërbimeve të Përgjithshme merr masa për sigurimin e logjistikës së nevojshme dhe lëshimin e autorizimeve përkatëse ndaj juristëve që dërgohen me shërbim jashtë qendrës së punës, në varësi të seancave gjyqësore të caktuara dhe rëndësisë që paraqet procesi gjyqësor.
