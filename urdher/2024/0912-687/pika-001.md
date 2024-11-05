@@ -1,1 +1,0 @@
-1. Autorizimet për përfaqësimin ligjor të Ministrisë së Ekonomisë, Kulturës dhe Inovacionit në proceset gjyqësore kur thirret si palë në gjykim, lëshohen nga Sekretari i Përgjithshëm, në emër të personit/personave që do të përfaqësojnë ministrinë.

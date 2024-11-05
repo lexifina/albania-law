@@ -1,1 +1,0 @@
-3. Nënshkrimi i akteve procedurale, të tilla si: kërkesëpadi, prapësime, deklaratë mbrojtje, pretendime, ankime, rekurse, paraqitje të kërkesave, si dhe çdo veprim procedural të nevojshëm, të parashikuar nga legjislacioni në fuqi, në kuadër të përfaqësimit në shkallën përkatëse të gjykimit, bëhet nga Sekretari i Përgjithshëm i Ministrisë së Ekonomisë, Kulturës dhe Inovacionit.

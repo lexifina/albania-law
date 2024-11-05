@@ -1,1 +1,0 @@
-5. Përfaqësimi për proceset gjyqësore bëhet nga juristë të Sektorit të Këshillimit të Çështjeve Ligjore dhe Gjyqësore si dhe specialistë të fushës për të cilën është ngritur kërkesëpadia, nëpërmjet autorizimit përkatës.

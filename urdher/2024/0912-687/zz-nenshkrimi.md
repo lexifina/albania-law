@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINISTËR I EKONOMISË, KULTURËS DHE INOVACIONIT
-Blendi Gonxhe
