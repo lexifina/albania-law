@@ -1,0 +1,1 @@
+4. Lejimi i tregtimit të materialit mbjellës dhe shumëzues bimor, varieteti i të cilit është në proces regjistrimi në KK, bëhet vetëm për ato specie bimësh, të cilat ndodhen në tabelën e shtojcës 1, bashkëlidhur këtij udhëzimi.

@@ -1,0 +1,4 @@
+2. Të gjithë termat e përcaktuar në këtë udhëzim, kanë të njëjtin kuptim me ata të përcaktuar në ligjin nr. 10416, datë 7.4.2011, “Për materialin mbjellës dhe shumëzues bimor”, të ndryshuar.
+II. SASITË E MATERIALIT MBJELLËS DHE SHUMËZUES BIMOR NË PROCES PRANIMI PËR REGJISTRIM NË KK DHE FORMA E PËRMBAJTJA E KËRKESËS QË PARAQET FURNIZUESI
+1. Sasitë e tregtueshme të materialit mbjellës dhe shumëzues bimor, varieteti i të cilit është në proces pranimi për regjistrim në Katalogun Kombëtar, janë të përcaktuara në shtojcën 1, që i bashkëlidhet dhe është pjesë përbërëse e këtij udhëzimi.
+2. Për tregtimin e materialit mbjellës dhe shumëzues bimor të një varieteti, i cili është në proces pranimi për regjistrim në KK, furnizuesi paraqet kërkesë online pranë Entit Shtetëror të Farave dhe Fidanëve, në vijim “ESHFF” për lejimin e tregtimit.
