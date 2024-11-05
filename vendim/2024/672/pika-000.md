@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes me shkëmbim letrash, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Cassa Depositi e Prestiti S.p.A., për ndryshimin e marrëveshjes financiare, ndërmjet qeverisë së Republikës së Shqipërisë dhe Mediocredito Centrale S.p.A. Itali, për programin e ristrukturimit teknik dhe menaxhues të KESH sh.a., dhe fuqizimin e sistemit elektrik shqiptar, ratifikuar me ligjin nr. 9134, datë 11.9.2003, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
