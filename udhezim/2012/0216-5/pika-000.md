@@ -1,1 +1,0 @@
-I. Rregullat që përcaktohen
