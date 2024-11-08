@@ -1,0 +1,1 @@
+1. Delegimin e përkohshëm të kompetencave të titullarit të Ministrisë së Bujqësisë dhe Zhvillimit Rural, zëvendësministrit të Bujqësisë dhe Zhvillimit Rural z. Arian Jaupllari nga data 5.11.2024 deri më datë 6.11.2024.
