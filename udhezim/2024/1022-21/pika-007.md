@@ -1,0 +1,1 @@
+7. Komisioni i ngritur në ASCAP bën vlerësimin e kandidaturave, duke u bazuar në vendimin nr. 104, datë 28.2.2019, të Këshillit të Ministrave, “Për përcaktimin e kritereve për krijimin e regjistrit shtetëror të mësuesve të gjuhës shqipe e të kulturës shqiptare dhe dhënien e certifikatës për nxënësit në diasporë”.

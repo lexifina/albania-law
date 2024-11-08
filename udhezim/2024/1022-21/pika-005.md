@@ -1,0 +1,1 @@
+5. Kriteret dhe dokumentet që dorëzojnë kandidatët për arsimtarë përcaktohen bazuar në vendimin nr. 104, datë 28.2.2019, të Këshillit të Ministrave, “Për përcaktimin e kritereve për krijimin e regjistrit shtetëror të mësuesve të gjuhës shqipe e të kulturës shqiptare dhe dhënien e certifikatës për nxënësit në diasporë”.

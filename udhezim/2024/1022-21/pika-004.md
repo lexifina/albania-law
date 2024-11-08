@@ -1,0 +1,1 @@
+4. Thirrja përmban kriteret e nevojshme që kandidati duhet të plotësojë për të qenë arsimtar i gjuhës shqipe dhe i kulturës shqiptare në diasporë, dokumentet që duhet të dorëzojnë, si dhe afatet e aplikimit. Thirrja për aplikime është e përvitshme.

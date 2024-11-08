@@ -1,0 +1,1 @@
+9. Ministria përgjegjëse për punët e jashtme dhe diasporën, përmes misionit diplomatik të përfshirë në proces, duke u bazuar në nevojat për arsimtarë të gjuhës shqipe dhe të kulturës shqiptare në shtetin ku do të zhvillohet mësimi dhe duke iu referuar listës së ASCAP-it, bën përzgjedhjen përfundimtare të arsimtarëve.
