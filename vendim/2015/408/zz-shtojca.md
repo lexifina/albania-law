@@ -120,6 +120,7 @@ iii. punime civile për ndërhyrje të vogla që janë të kufizuara në natyrë
 1.5 Punimet civile për rehabilitimin apo rikonstruksionin e infrastrukturës publike kur kryhen nga njësitë e vetëqeverisjes vendore apo subjektet e kontraktuara për këtë qëllim, në rastet e mirëmbajtjes së infrastrukturës publike, duke përfshirë sistemim, asfaltim të pjesshëm ose të plotë, ndërtim apo mirëmbajtje trotuaresh, rrjetesh inxhinierike. Ky parashikim zbatohet vetëm për ato punë apo projekte të cilat kanë pasur leje ndërtimi të mëparshme dhe vetëm brenda sipërfaqes së përcaktuar në lejen e ndërtimit.
 2. Lëvizjet e dheut, që lidhen, në mënyrë të posaçme, me ushtrimin e veprimtarisë bujqësore ose blegtorale, përfshirë ndërhyrjet në impiante hidraulike bujqësore.
 3. Punimet për eliminimin e barrierave arkitektonike dhe përshtatjen e ndërtesave për personat me aftësi të kufizuara.
+3/1. Ndërtimi i çative të pashfrytëzueshme në zonat rurale, duke respektuar standardet teknike të miratuara nga Agjencia Kombëtare e Planifikimit të Territorit dhe Agjencia e Zhvillimit të Territorit.
 4. Në çdo rast, nëse punimet, që kërkohen të kryhen, gëzojnë statusin pasuri kulturore, do t’i nënshtrohen edhe dispozitave të legjislacionit sektorial për trashëgiminë kulturore dhe muzetë në fuqi.”.
 Neni 6/1
 Ndërhyrje me njoftim/punime që nuk kërkojnë pajisjen me leje ndërtimi në zonat rurale
@@ -135,7 +136,7 @@ ii. shtrimi i oborreve me shtresë të hollë betoni;
 iii. struktura që instalohen për nevoja të çastit dhe/ose të përkohshme, pa themele, me materiale të çmontueshme, pa përdorur struktura beton-armeje, blloqe betoni, muratura e soleta dhe që hiqen në çdo rast, brenda një afati kohor maksimal 12-mujor nga momenti i lëshimit;
 iv. vendosja e pergolateve, në përputhje me ligjin që rregullon bashkëpronësinë në objektet e banimit;
 v. mur mbajtës për tarracimet e tokave bujqësore në pronësi, si dhe/apo mur rrethues të tokës bujqësore dhe objekteve në zonat rurale në pronësi, pa shkaktuar dëmtim të infrastrukturës së ujitjes dhe të kullimit;
-vi. ndërtimi i çative të pashfrytëzueshme.
+vi. shfuqizuar.
 2.3 Punime të brendshme, si përforcimi i strukturave mbajtëse të brendshme.
 2.4 Vendosja e serrave të çmontueshme, pa themele të vazhduara, në shërbim të aktiviteteve bujqësore.
 2.5 Lëvizjet e dheut, që lidhen, në mënyrë të posaçme, me ushtrimin e veprimtarisë bujqësore ose blegtorale, përfshirë ndërhyrjet në impiante hidraulike bujqësore.
@@ -167,7 +168,7 @@ vii. vendosja e pergolateve, në përputhje me ligjin që rregullon bashkëpron�
 viii. vendosja e ashensorëve të brendshëm dhe të jashtëm, duke përfshirë dhe strukturën mbajtëse të tyre, pa prekur sistemin konstruktiv të objektit;
 ix. vendosja e reklamave në fasadat e jashtme, për qëllime të promovimit të aktivitetit ekonomik privat. Vendosja e tyre rregullohet sipas rregullores specifike të secilit autoritet vendor të planifikimit, me përjashtim të vendosjes së reklamave jashtë territoreve urbane, ku përfshihen, por pa u kufizuar, rrugë interurbane, hekurudha, mjedise aeroportuale, pika doganore, të cilat rregullohen me akte të ministrive përgjegjëse;
 x. shkallë emergjence;
-xi. ndërtimi i çative të pashfrytëzueshme;
+xi. ndërtimi i çative të pashfrytëzueshme në zonat urbane;
 xii. struktura sportive të hapura me rrethim me rrjetë/tel gabion dhe shtrim me tapet bari apo tartan;
 xiii. ndërtimi i pishinave sipas përcaktimeve në rregulloren arkitektonike të qytetit;
 xiv. vendosja e kontejnerëve për vendrojë ose depozitim materialesh;
@@ -217,6 +218,7 @@ Leje zhvillimi që miratohen nga KKTU-ja
 2. Lejet e zhvillimit të miratuara nga Këshilli Kombëtar i Territorit dhe Ujit u shërbejnë institucioneve përgjegjëse shtetërore gjatë zbatimit të legjislacionit sektorial, në kuadër të procedurave për shpronësimet, për konvertimin e zërave kadastralë apo/dhe heqjen nga fondi pyjor/kullosor, si dhe atyre për kalimin e sipërfaqeve të pronës shtetërore në pronë private, në funksion të planeve të përgjithshme vendore.
 3. Lejet e zhvillimit të miratuara nga KKTU-ja mund të rishikohen apo të ndryshohen me vendimmarrje të KKTU-së, nëse ndryshojnë kushtet e zhvillimit, kufijtë e pronave apo/dhe subjektet zhvilluese.
 4. Lejet e zhvillimit regjistrohen në regjistrat e posaçëm të Agjencisë Shtetërore të Kadastrës apo drejtorive rajonale të saj, me qëllim konvertimin e zërit kadastral nga “arë” në “truall”.
+5. Për lejet e zhvillimit që miratohen nga Këshilli Kombëtar i Territorit dhe Ujit, në rastet e aksesit në tokat në pronësi të shtetit, që nuk janë të zëna me objekt dhe që nuk janë në administrim të institucioneve shtetërore, si dhe të patransferuara te njësitë e vetëqeverisjes vendore, leja e zhvillimit përmban edhe aksesin në këto prona, me përjashtim të pronave shtet për llojin e resursit “arë”, “ullishtë”, “pyll” dhe “kullotë”, pa pasur nevojë për një miratim nga pronari shtet.
 Neni 10
 Dokumentacioni për pajisjen me leje zhvillimi
 1. Dokumentet, që duhet të paraqesë pronari ose zhvilluesi për t’u pajisur me leje zhvillimi, janë:
@@ -327,6 +329,7 @@ Neni 13
 Veçori të lejes së ndërtimit
 1. Leja e ndërtimit i lëshohet zhvilluesit ose një personi të autorizuar prej tij, në përputhje me rregullat e përcaktuara në legjislacionin në fuqi.
 2. Leja e ndërtimit është e transferueshme, me ndryshimin e subjektit përfitues të lejes së ndërtimit, dhe kryhet nga autoriteti që ka miratuar lejen, me kërkesë të subjektit të pajisur me leje ndërtimi.
+2/1. Nëse ndryshon pronësia e shumicës së pjesëve/aksioneve të shoqërisë tregtare, në favor të së cilës është lëshuar leje ndërtimi, subjekti zhvillues njofton nëpërmjet sistemit e-Leje autoritetin e zhvillimit të territorit që ka miratuar lejen. Për lejet në kompetencë të Këshillit Kombëtar të Territorit, njoftimi i drejtohet sekretariatit të KKT-së. Për efekt njohës, autoriteti përkatës i bën me dije subjektit zhvillues, nëpërmjet sistemit e-leje konfirmimin për vijimin e punimeve.
 3. Marrëveshja e palëve të interesuara për transferimin e lejes së ndërtimit gjatë afatit të zbatimit të saj duhet t’i komunikohet, nëpërmjet sistemit elektronik të lejeve, autoritetit që ka lëshuar lejen, bashkë me aktet zyrtare të nevojshme, që vërtetojnë kalimin e titullit mbi lejen e ndërtimit.
 4. Zyra përgjegjëse pranë autoritetit kompetent kryen verifikimet e duhura dhe, në rast se nuk vëren parregullsi, lëshon një dokument lejeje të ri, si dhe njofton palët e interesuara, nëpërmjet sistemit elektronik të lejeve.
 5. Për strukturat që prokurohen me fonde publike, lejen e merr organi që realizon prokurimin, përpara se të japë në sipërmarrje ndërtimin e strukturës.
@@ -441,6 +444,7 @@ c) objektet shtetërore apo rikonstruksione të tyre, kur ato ngrihen në pronat
 Formati TIP i këtyre rregulloreve përcaktohet në shtojcën E, që i bashkëlidhet rregullores së zhvillimit të territorit.
 4.Për punimet që kryhen me deklaratë paraprake punimesh, sipas nenit 7 të kësaj rregulloreje, autoriteti përgjegjës është njësia përkatëse e qeverisjes vendore.
 5. Këshilli Kombëtar i Territorit dhe Ujit vendos miratimin e rregulloreve të veçanta për kushtet e zhvillimit për rastet e pikave 1 e 3, të këtij neni.
+6. Në rastet e aksesit në tokat në pronësi të shtetit, që nuk janë të zëna me objekt dhe që nuk janë në administrim të institucioneve shtetërore, si dhe të patransferuara te njësitë e vetëqeverisjes vendore, leja e ndërtimit përmban edhe aksesin në këto prona, me përjashtim të pronave shtet për llojin e resursit “arë”, “ullishtë”, “pyll” dhe “kullotë”, pa pasur nevojë për një miratim nga pronari shtet.
 Neni 20
 Kërkesa dhe procesi i shqyrtimit të kërkesave për leje nga autoriteti vendor
 1. Kërkesat për leje, sipas kësaj rregulloreje, paraqiten për shqyrtim nëpërmjet sistemit elektronik të lejeve, i cili mundëson edhe ngarkimin, lehtësisht, të dokumentacionit shoqërues të kërkesës për leje.
@@ -582,6 +586,8 @@ k) kontrata e nënshkruar ndërmjet zhvilluesit dhe shoqërisë/shoqërive ndër
 l) kontrata e nënshkruar, ndërmjet zhvilluesit dhe mbikëqyrësit/mbikëqyrësve të punimeve, shoqëruar me licencën përkatëse;
 ll) Raporti përfundimtar i auditimit të eficiencës së energjisë, certifikata përfundimtare e performancës së energjisë, e lëshuar nga Audituesi Energjetik i Certifikuar dhe regjistruar pranë AEE-së, së bashku me “Deklaratën e përgjegjësisë profesionale”, nëpërmjet së cilës konfirmon dhe mban përgjegjësi për përputhshmërinë e projektit të përfunduar me legjislacionin në fuqi për performancën e energjisë së ndërtesave.
 2. Për rastet e zhvillimeve komplekse në kompetencë të KKTU-së, sekretariati teknik i KKTU-së mund të përcaktojë dokumente shtesë nga ato të përmendura në pikën 1, të këtij neni, në varësi të objektit për të cilin kërkohet certifikata e përdorimit.
+Neni 27/3
+Në rastet e parashikuara në pikën 2/1, të nenit 13, të kësaj rregulloreje, kur subjekti zhvillues nuk ka paraqitur më parë kërkesën për njoftim sipas përcaktimeve të kësaj dispozite, autoriteti përgjegjës i zhvillimit të territorit ka të drejtë të refuzojë lëshimin e certifikatës së përdorimit.
 TITULLI III
 ZBATIMI I PDV-SË
 Neni 28
@@ -785,6 +791,11 @@ c) Për objektet mbi 6 kate, sipas shkronjave “a” dhe “b”, të këtij ne
 Ngarkohen ZVRPP-të përkatëse për të pasqyruar/regjistruar në regjistrin publik të pasurive të paluajtshme ndryshimet e ndodhura në kategoritë e resurseve, që vijnë si pasojë e miratimit të dokumenteve të planifikimit të territorit sipas këtij neni dhe vendimit nr. 5, datë 29.12.2014, të Këshillit Kombëtar të Territorit për miratimin e zonave të urbanizuara të territorit. Certifikata e pronësisë e përditësuar si më sipër i lëshohet pronarit të pasurisë së paluajtshme, me kërkesë të këtij të fundit.
 2. Ngarkohet autoriteti vendor që, brenda 6 muajve nga hyrja në fuqi e kësaj rregulloreje, të miratojë projektet TIP, sipas parashikimeve të nenit 11/3, të kësaj rregulloreje, në përputhje me metodologjinë e hartuar në rregulloren e planifikimit të territorit.
 3. Pavarësisht parashikimeve të nenit 18, të kësaj rregulloreje, për lejet e ndërtimit të lëshuara nga autoritetet e zhvillimit të territorit, të cilave u ka përfunduar afati i vlefshmërisë dhe afati i kërkesës, por pa tejkaluar afatin e përcaktuar në pikën 6, të nenit 40 të ligjit nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, i ndryshuar, subjektet zhvilluese mund të aplikojnë për shtyrjen e afatit të lejes së ndërtimit dhe autoritetet e zhvillimit mund të shqyrtojnë kërkesat në sistemin elektronik të lejeve të ndërtimit brenda 12 muajve nga hyrja në fuqi e kësaj rregulloreje.
+Dispozitë kalimtare
+(Parashikuar me VKM-në nr. 685, datë 6.11.2024)
+1. Detyrimet sipas neneve 5 dhe 7, të këtij vendimi, zbatohen vetëm për lejet e ndërtimit që do të miratohen pas hyrjes në fuqi të këtij vendimi.
+2. Agjencia e Zhvillimit të Territorit merr të gjitha masat për të parashikuar aksesin në pronë për lejet e zhvillimit dhe ndërtimit, sipas neneve 4 dhe 6, të këtij vendimi, për të gjitha vendimmarrjet e Këshillit Kombëtar të Territorit dhe Ujit, që konfirmohen pas datës së hyrjes në fuqi të këtij vendimi.
+3. Ngarkohen Agjencia Kombëtare e Planifikimit të Territorit dhe Agjencia e Zhvillimit të Territorit për miratimin e standardeve teknike të nevojshme për ndërtimin e çative të pashfrytëzueshme brenda 1 (një) muaji nga hyrja në fuqi e këtij vendimi.
 Neni 45/1
 Fillimi i funksionimit të sistemit elektronik të lejeve
 1. Sistemi elektronik i lejeve fillon nga funksio-nimi, në gjithë territorin e Republikës së Shqipërisë, më 20 prill 2016.
