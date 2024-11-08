@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2024, në programin 01610 “Planifikim, menaxhim, administrim”, i shtohet fondi prej 20 900 000 (njëzet milionë e nëntëqind mijë) lekësh, në zërin “Shpenzime korrente”, për mbulimin e shpenzimeve përgatitore, që i paraprijnë zgjedhjeve për Kuvendin, të vitit 2025.
