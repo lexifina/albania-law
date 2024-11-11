@@ -1,0 +1,1 @@
+1. Miratimin e metodologjisë “Për identifikimin e operatorëve të infrastrukturave kritike dhe të rëndësishme të informacionit”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
