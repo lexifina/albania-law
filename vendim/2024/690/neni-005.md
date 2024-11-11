@@ -1,0 +1,5 @@
+# Neni 5
+Identifikimi i projekteve
+1. Në rastet kur kërkesa për bashkëpunim në një fushë ose për një program/projekt konkret vjen nga pala e EBA-s, si dhe në rastet kur nevoja për bashkëpunim për një projekt të caktuar identifikohet nga pala shqiptare, ministria përgjegjëse, për llogari të saj apo me kërkesë të institucioneve të tjera përgjegjëse, të parashikuara në këtë vendim, drejton nëpërmjet kanaleve zyrtare kërkesën për mbledhjen e komitetit të përbashkët, sipas marrëveshjes EBA, me qëllim prezantimin e projektit të propozuar dhe diskutimin për mundësinë dhe rrugët e realizimit të tij, përfshirë shqyrtimin e rrugëve ligjore dhe procedurave, sipas legjislacionit të zbatueshëm.
+2. Komiteti i përbashkët shqyrton rëndësinë dhe përputhshmërinë e projektit me marrëveshjen EBA dhe dakordëson për përfshirjen e projektit konkret në listën e projekteve specifike, që zhvillohen sipas marrëveshjes EBA.
+3. Komiteti, me pëlqimin e ndërsjellë të palëve, mund të ftojë përfaqësues të institucionit përgjegjës me ekspertizën e nevojshme, në lidhje me çështjet që do të diskutohen dhe të zhvillojë takime të përbashkëta me sektorin publik apo privat.

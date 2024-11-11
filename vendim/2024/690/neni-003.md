@@ -1,0 +1,4 @@
+# Neni 3
+Institucionet përgjegjëse
+1. Subjektet publike të këtij vendimi (në vijim “institucionet përgjegjëse”) janë të gjitha institucionet e administratës shtetërore, përfshirë institucionet në varësi të Kryeministrit ose të ministrave, e agjencitë autonome, si dhe entet publike e shoqëritë tregtare shtetërore, brenda fushës së përgjegjësisë të të cilave përfshihet fusha/programi/projekti konkret i bashkëpunimit, sipas marrëveshjes EBA.
+2. Për zbatimin e një projekti konkret mund të jenë përgjegjës më shumë se një institucion. Në këtë rast, për zbatimin e këtij vendimi, institucionet përgjegjëse do të krijojnë grupe të përbashkëta pune. Grupet e përbashkëta të punës ngrihen me vendimmarrjen e titullarëve të institucioneve përgjegjëse përkatëse dhe përbëhen nga punonjës të këtyre institucioneve dhe, sipas rastit, edhe nga ekspertë të jashtëm.

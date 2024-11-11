@@ -1,0 +1,10 @@
+# Neni 4
+Titullari i institucionit përgjegjës
+1. Titullari i institucionit përgjegjës për fushën/sektorin përkatës është përgjegjës për koordinimin, ndjekjen dhe mbikëqyrjen e të gjithë procesit të zbatimit të marrëveshjes. Në këtë funksion, titullari i institucionit është konkretisht përgjegjës, për:
+a) koordinimin e brendshëm ndërmjet njësive përgjegjëse brenda institucionit, si dhe koordinimin me institucionet e tjera shtetërore dhe publike, në rastet kur është i nevojshëm;
+b) monitorimin dhe raportimin e progresit të zbatimit të marrëveshjes EBA dhe të marrëveshjeve, të memorandumeve të mirëkuptimit, të protokolleve, të kontratave të veçanta të tjera, të lidhura në bazë të marrëveshjes EBA;
+c) përfshirjen e ekspertëve të jashtëm, të kontraktuar me marrëveshje shërbimi dhe sektorëve të tjerë të interesuar, kur është e nevojshme;
+ç) raportimin periodik në Këshillin e Ministrave për progresin e zbatimit të marrëveshjes dhe për çdo çështje që mund të kërkojë ndërhyrje në nivelin e qeverisë.
+2. Pas identifikimit të projekteve konkrete të fushës në komitetin e përbashkët, të krijuara nga marrëveshja EBA, titullari i institucionit përgjegjës dhe/ose zyrtarët e autorizuar prej tij fillojnë negociatat me organet dhe autoritetet kompetente të EBA-s ose me sektorin publik apo privat të saj, me qëllim zbatimin e projekteve dhe programeve konkrete të bashkëpunimit, duke respektuar termat dhe kushtet e përcaktuar në marrëveshjen EBA.
+3. Pas përfundimit të negociatave, në rastin kur pala përfaqësuese e EBA-s përfaqësohet nga një subjekt publik, drafti i marrëveshjes i paraqitet për mendim ministrisë përgjegjëse për punët e jashtme dhe ministrisë përgjegjëse për financat, kur ka efekte financiare, si dhe çdo ministrie apo institucioni që ka lidhje me zbatimin e marrëveshjes. Drafti përfundimtar i marrëveshjes nënshkruhet nga titullari i institucionit përgjegjës apo çdo zyrtar i autorizuar prej tij.
+4. Institucioni përgjegjës, në negocim me palën tjetër, mund të kryejë rishikime të rregullta të marrëveshjes/kontratës për të siguruar përputhshmërinë me objektivat dhe për të bërë ndryshimet e nevojshme për përmirësimin e saj.

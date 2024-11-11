@@ -1,0 +1,4 @@
+# Neni 10
+Lidhja e kontratave
+1. Pas miratimit të raportit të negocimit nga titullari/titullarët e institucionit/institucioneve përgjegjës/e, draftmarrëveshja ose kontrata e dakordësuar mes palëve, sipas rastit, u dërgohet për mendim Ministrisë së Financave, Ministrisë së Drejtësisë, Ministrisë për Evropën dhe Punët e Jashtme, Avokaturës së Shtetit, si dhe çdo institucioni tjetër shtetëror, të interesuar për zbatimin e marrëveshjes/kontratës. Mendimi i këtyre institucioneve jepet brenda 7 (shtatë) ditëve dhe, nëse çështjet e ngritura prej tyre janë të një natyre thelbësore, të lidhura me objektin, me legjitimitetin apo me zbatueshmërinë e kontratës, këto çështje negociohen edhe një herë me palën EBA dhe, pas negocimit, ndiqet përsëri procedura e marrjes së mendimit para lidhjes së kontratës.
+2. Draftmarrëveshja ose kontrata nënshkruhet nga titullari/titullarët e institucionit/ institucioneve përgjegjëse, sipas këtij vendimi.
