@@ -1,0 +1,5 @@
+# Neni 5
+Të drejtat dhe detyrimet e nxënësit që mëson profesionin
+1. Nxënësi, që ka mbushur moshën 16 (gjashtëmbëdhjetë) vjeç, i regjistruar në një institucion ofrues të arsimit dhe formimit profesional, në një program për përfitimin e kualifikimit profesional në formën e dyfishtë, nënshkruan kontratën për mësimin e profesionit me një nga punëdhënësit, që ky institucion ka marrëveshje bashkëpunimi. Kontrata për mësimin e profesionit duhet të jetë në përputhje me rregullat e përcaktuara në Kodin e Punës, si dhe me legjislacion në fuqi për mbrojtjen e fëmijëve në punë, sipas formatit të përcaktuar me udhëzim të ministrit përgjegjës për arsimin dhe formimin profesional.
+2. Nxënësi përfiton nga punëdhënësi një pagesë për punën e kryer në funksion të mësimit të profesionit, sipas përcaktimeve të këtij vendimi.
+3. Nxënësi që mëson profesionin ka të gjitha të drejtat e detyrimet ligjore si çdo nxënës, në përputhje me legjislacionin për arsimin dhe formimin profesional. Nxënësit që mësojnë profesionin, që nuk e kanë mbushur moshën madhore, gëzojnë mbrojtjen ligjore, që gëzon çdo nxënës e çdo fëmijë që punon në Republikën e Shqipërisë.
