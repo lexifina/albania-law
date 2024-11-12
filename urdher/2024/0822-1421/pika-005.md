@@ -1,1 +1,0 @@
-5. Në rast mungese në detyrë të drejtorit të Njësisë së Titujve të Pronësisë, delegimi i kompetencës konsiderohet i ndërprerë për periudhën e mungesës në kuptim të nenit 29, pika 2, germa “c”, të Kodit të Procedurave Administrative. Gjatë mungesës, kompetenca ushtrohet nga drejtori i përgjithshëm.

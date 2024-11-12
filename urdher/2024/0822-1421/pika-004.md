@@ -1,1 +1,0 @@
-4. Delegimi i kompetencave sipas përcaktimit të bërë në pikën 1 të këtij urdhri, bëhet për t’u ushtruar nga drejtori i Njësisë së Titujve deri në përmbylljen e procesit të trajtimit dhe përcjelljes së korrespondencës shkresore sipas përcaktimeve të bëra në pikën 1 të këtij urdhri.
