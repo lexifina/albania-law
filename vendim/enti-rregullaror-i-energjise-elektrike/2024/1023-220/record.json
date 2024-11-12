@@ -1,0 +1,28 @@
+{
+  "qbz_id": 29171,
+  "title": "Mbi licencimin e shoqërisë “Parisol” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "220",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2024-10-23",
+  "published": "2024-11-12",
+  "in_force": "2024-11-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/feca1048e2827aa0a2dd5f1df5e55e20dfb36c937d255fafab450650446bb899.docx",
+  "source_sha256": "feca1048e2827aa0a2dd5f1df5e55e20dfb36c937d255fafab450650446bb899",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29171",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2024/10/23/220",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    32078
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
