@@ -1,0 +1,3 @@
+2. Miratimin e dhënies së ndihmës ekonomike për familjen si më poshtë.
+po me vlerën 150,000 lekë si një rast i veçantë për gjendjen shëndetësore
+të djalit .......
