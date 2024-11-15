@@ -1,0 +1,4 @@
+4. Operatori i Energjisë së Rinovueshme sh.a. menaxhon fondin e mbështetjes së burimeve të rinovueshme, i cili përllogaritet dhe përdoret për të mbuluar kostot e skemave mbështetëse, si më poshtë vijon:
+a) Diferencat e pagueshme, ndërmjet çmimit të garantuar dhe çmimit të referencës për prodhuesit me përparësi, mbështetjen e dhënë në formën e një CfD-je dhe pagesave të prim-it për prodhuesit me përparësi, mbështetjen e dhënë në formën e kontratave për prim;
+b) Tarifat nxitëse për prodhuesit me përparësi, mbështetjen e dhënë në formën e MBE-ve;
+c) Kostot e përditshme operative dhe të mirëmbajtjes së Operatorit të Energjisë së Rinovueshme sh.a., duke përfshirë, por pa u kufizuar në koston e financimit, aksesin në treg, kapitalin qarkullues dhe koston e sigurimit të rezervave për të siguruar likuiditetin financiar dhe aftësinë e pagesave të fondit të mbështetjes së rinovueshme në baza të vazhdueshme.

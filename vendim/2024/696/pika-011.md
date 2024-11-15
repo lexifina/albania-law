@@ -1,0 +1,1 @@
+11. Furnizuesi i Tregut të Lirë sh.a., deri në kalimin në operim të Operatorit të Energjisë së Rinovueshme sh.a., ngarkohet të vijojë realizimin e detyrave të Operatorit të Energjisë së Rinovueshme sh.a., si dhe të vërë në dispozicion të tij të gjitha të dhënat e mbledhura përgjatë veprimtarisë së tij, si subjekt i ngarkuar për realizimin e këtyre detyrave.

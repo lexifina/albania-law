@@ -1,0 +1,1 @@
+2. Operatori i Energjisë së Rinovueshme sh.a. do të jetë blerësi i energjisë elektrike i të gjithë prodhuesve me përparësi, që janë me mbështetje në formën e një marrëveshjeje të blerjes së energjisë (MBE) dhe do ta shpërndajë këtë energji direkt në tregun e organizuar.

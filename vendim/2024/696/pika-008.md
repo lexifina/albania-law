@@ -1,0 +1,1 @@
+8. Operatori i Energjisë së Rinovueshme sh.a. do të propozojë edhe formën e financimit të nevojshëm për të mundësuar ngritjen e strukturës organizative, teknike dhe financiare për kalimin në operim të tij, të cilat shqyrtohen dhe miratohen në përputhje me ligjin nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar.

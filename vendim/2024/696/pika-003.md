@@ -1,0 +1,1 @@
+3. Operatori i Energjisë së Rinovueshme sh.a. do të ketë përgjegjësi kontraktore ndaj çdo prodhuesi me përparësi për mbulimin e pagesave, që rezultojnë nga çdo kontratë për mbështetje, sipas ligjit nr. 24/2023, “Për nxitjen e përdorimit të energjisë nga burimet e rinovueshme”.

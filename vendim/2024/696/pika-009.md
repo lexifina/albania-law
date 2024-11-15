@@ -1,0 +1,1 @@
+9. Operatori i Energjisë së Rinovueshme sh.a. është shoqëri aksionare, aksionet e së cilës do të zotërohen 100% nga ministria përgjegjëse për energjinë, e krijuar në përputhje me parashikimet e ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar, në momentin e krijimit.

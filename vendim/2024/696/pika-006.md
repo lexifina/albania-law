@@ -1,0 +1,1 @@
+6. Operatori i Energjisë së Rinovueshme sh.a. do të përgatisë modelin e biznesit të tij, përfshirë planin ekonomik të veprimtarisë, i cili planifikohet të zbatohet, me qëllim kalimin në operim të Operatorit të Energjisë së Rinovueshme sh.a., mbështetur në përcaktimet e legjislacionit në fuqi për burimet e rinovueshme dhe legjislacionit në fuqi për sektorin e energjisë.
