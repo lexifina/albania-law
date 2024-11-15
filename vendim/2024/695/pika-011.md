@@ -1,0 +1,1 @@
+11. Kur kapaciteti i përbashkët i ofertave që përmbushin kriteret e kualifikimit, sipas këtij vendimi, është më i ulët sesa kapaciteti i ofruar nga ministria, komisioni i posaçëm shpall të gjithë ofertuesit që përmbushin kriteret e kualifikimit si ofertues të përzgjedhur.

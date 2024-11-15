@@ -1,0 +1,1 @@
+12. Kur kapaciteti i përbashkët i ofertave që përmbushin kriteret e kualifikimit është më i lartë sesa kapaciteti i ofruar nga ministria, komisioni i posaçëm bën përllogaritjen e pikëve për ofertuesit dhe renditjen e tyre sipas rezultatit më të lartë, duke shpallur edhe ofertuesit e përzgjedhur.

@@ -1,0 +1,1 @@
+4. Çdo term tjetër i përdorur në këtë vendim do të ketë kuptimin e dhënë në ligjin nr. 24/2023, “Për nxitjen e përdorimit të energjisë nga burimet e rinovueshme”, dhe të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar.
