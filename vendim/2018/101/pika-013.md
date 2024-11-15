@@ -11,4 +11,4 @@ f) angazhohet të ndërmjetësojë për punë-kërkuesin në vende pune, që cen
 g) pengon ose përpiqet të pengojë inspektimin e organeve përkatëse;
 gj) nuk përmbush detyrimet për sigurimet shoqërore apo kontratat e punës për punëmarrësit e vet;
 h) nuk respekton dispozitat e këtij vendimi,
-ministria përgjegjëse për çështjet e punësimit njofton Qendrën Kombëtare të Biznesit për revokimin e licencës, sipas akteve të përmendura në pikën 3, të këtij vendimi.
+ministri përgjegjës për çështjet e punësimit revokon licencën, sipas akteve të përmendura në pikën 3, të këtij vendimi.

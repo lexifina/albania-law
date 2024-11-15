@@ -1,1 +1,2 @@
 18. Inspektorati Shtetëror i Punës kryen inspektime periodike për të përcaktuar përputhshmërinë e veprimtarisë së agjencisë me legjislacionin përkatës dhe, kur vëren shkelje, njofton ministrinë përgjegjëse për çështjet e punësimit.
+18/1. Ministria përgjegjëse për çështjet e punësimit, Inspektorati Shtetëror i Punës dhe Agjencia Kombëtare e Punësimit dhe Aftësive publikojnë në faqet e tyre zyrtare të internetit të dhënat për agjencitë private të punësimit të licencuara.

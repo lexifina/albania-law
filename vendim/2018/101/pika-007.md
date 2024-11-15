@@ -1,1 +1,1 @@
-7. Agjencia siguron trajtim të barabartë për të gjithë punëkërkuesit.
+7. Agjencia siguron trajtim të barabartë për të gjithë punëkërkuesit dhe u nënshtrohet parimeve të përgjithshme, si: parimi i respektimit të lirive dhe të drejtave të njeriut e të drejtave të punës, i ligjshmërisë, i mosdiskriminimit, i sjelljes etike dhe i profesionalizmit, i konfidencialitetit dhe i mbrojtjes së të dhënave personale.

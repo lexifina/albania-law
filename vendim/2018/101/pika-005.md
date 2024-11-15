@@ -1,1 +1,2 @@
 5. Shërbimet e agjencisë për punëkërkuesit janë falas. Agjencia nuk e ngarkon punëkërkuesin me asnjë detyrim financiar, të drejtpërdrejtë ose të tërthortë, me përjashtim të pagesës së shpenzimeve të nevojshme për plotësimin e dosjes administrative të çdo punëkërkuesi.
+5/1. Pjesë e dosjes administrative të një punëkërkuesi është dokumentacioni për të dhënat identifikuese të punëkërkuesit dhe të subjektit punëdhënës.

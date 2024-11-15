@@ -3,3 +3,4 @@ a) mbledhjen, shkëmbimin e të dhënave dhe përdorimin e terminologjisë së p
 b) shkëmbimin e njoftimeve për vendet e lira të punës;
 c) lidhjen e marrëveshjeve për zbatimin e veprimtarive të ndryshme;
 ç) trajnimin e stafit.
+12/1. Agjencia, çdo 6 (gjashtë) muaj, njofton ministrinë përgjegjëse për çështjet e punësimit për strukturën, veprimtarinë e vet dhe për ruajtjen e çdo kriteri të licencimit.

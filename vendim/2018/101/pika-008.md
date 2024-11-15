@@ -1,1 +1,1 @@
-8. Punëkërkuesi i ndërmjetësuar në punë nga agjencia gëzon të drejtën për negociimin kolektiv, pagën minimale, kohën dhe kushtet e punës, përfitimet e sigurimeve shoqërore, mbrojtjen e pasurisë dhe të shëndetit në punë.
+8. Punëkërkuesi i ndërmjetësuar në punë nga agjencia gëzon të drejtën për negociimin kolektiv, pagën minimale, kohën dhe kushtet e punës, përfitimet e sigurimeve shoqërore, mbrojtjen e sigurisë dhe të shëndetit në punë si dhe çdo e drejtë e parashikuar nga legjislacioni kombëtar për çështjet e punësimit.
