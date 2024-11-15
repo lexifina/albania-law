@@ -1,0 +1,1 @@
+1. Hapjen e institucionit të arsimit të lartë, jopublik, të llojit akademi, “American Academy of Technology Tirana”, në vijim Akademia “American Academy of Technology Tirana” (AATT), në emër të Fondacionit Shqiptaro-Amerikan “Harry T. Fultz”, i cili ushtron veprimtarinë në qytetin e Tiranës.
