@@ -1,1 +1,1 @@
-10. Monumentet e kulturës jepen me qira ose enfiteozë nga Ministria e Kulturës në përputhje me ligjin nr. 9048, datë 7.4.2003 “Për trashëgiminë kulturore”, të ndryshuar.
+10. Dhënia në përdorim e pasurive kulturore tek të tretët bëhet nga ministria përgjegjëse për trashëgiminë kulturore, në përputhje me ligjin nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë”.
