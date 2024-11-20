@@ -1,0 +1,1 @@
+4. Udhëzimi i përbashkët i ministrit të Brendshëm dhe i ministrit të Financave nr. 264/1, datë 29.6.2015, “Për masën, kriteret dhe procedurat për tarifat financiare për veprimtarinë e lejuar me armët”, shfuqizohet.

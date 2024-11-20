@@ -1,0 +1,1 @@
+1. Miratimin e tarifave për veprimtaritë e lejuara me armët në zbatim të ligjit nr. 74/2014, datë 10.7.2014, “Për armët”, të ndryshuar, sipas tabelës nr. 1, bashkëlidhur dhe që është pjesë përbërëse e këtij udhëzimi.
