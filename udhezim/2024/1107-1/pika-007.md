@@ -1,0 +1,1 @@
+7. Në përfundim të procesit të regjistrimit të kërkesave të zgjedhësve për të votuar nga jashtë vendit, sipas afateve të përcaktuara me vendim të Komisionit Rregullator, DPGJC-ja nxjerr nga RKGJC-ja listën paraprake të zgjedhësve nga jashtë vendit dhe ia dërgon atë në format elektronik Komisionit Qendror të Zgjedhjeve, jo më vonë se 63 ditë para datës së zgjedhjeve.

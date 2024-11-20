@@ -1,0 +1,1 @@
+4. Në çdo rast, KQZ-ja dhe Drejtoria e Përgjithshme e Gjendjes Civile (në vijim “DPGJC”) ruajnë bazën e të dhënave të zgjedhësve që votojnë nga jashtë territorit të Republikës së Shqipërisë për çdo proces zgjedhor.

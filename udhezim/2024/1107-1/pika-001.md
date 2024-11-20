@@ -1,0 +1,1 @@
+1. Zgjedhësi që ndodhet jashtë territorit të Republikës së Shqipërisë dhe dëshiron të ushtrojë të drejtën e votës për zgjedhjet në Kuvendin e Shqipërisë duhet të regjistrohet në listën e zgjedhësve jashtë vendit, në përputhje me përcaktimet e bëra në Kodin Zgjedhor dhe aktet nënligjore të nxjerra në zbatim të tij.

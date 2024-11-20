@@ -1,0 +1,1 @@
+12. DPGJC-ja monitoron dhe merr masa për zbatimin e veprimtarisë së pasqyrimit të ndryshimeve përkatëse në listën e zgjedhësve, për çregjistrimin dhe heqjen nga kjo listë të zgjedhësve që votojnë jashtë territorit të Republikës së Shqipërisë.

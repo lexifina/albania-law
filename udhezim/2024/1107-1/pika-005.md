@@ -1,0 +1,7 @@
+5. Të dhënat për adresën dhe dokumentacioni që konfirmojnë qëndrimin e zgjedhësve jashtë territorit të Republikës së Shqipërisë miratohen me vendim të Rregullatorit.
+II. Mënyra e bashkëpunimit dhe e shkëmbimit të informacionit, me qëllim hartimin e listës së zgjedhësve që votojnë jashtë territorit të Republikës së Shqipërisë dhe çregjistrimi i këtyre zgjedhësve nga lista e zgjedhësve brenda vendit ndërmjet institucioneve shtetërore të përfshirë.
+1. Regjistrimi i zgjedhësve nga jashtë vendit dhe përgatitja e listës së këtyre zgjedhësve bëhet sipas rregullave të përcaktuara me akt normativ të Komisionit Rregullator.
+2. Kërkesat për regjistrim kryhen përmes Platformës Elektronike të Regjistrimit (në vijim referuar si “PER”), sipas përcaktimeve të Kodit Zgjedhor.
+3. Gjatë periudhës së hartimit të listës së zgjedhësve jashtë territorit të Republikës së Shqipërisë, KQZ-ja komunikon me DPGJC-në përmes ndërveprimit automatik elektronik në kohë reale midis PER-së dhe RKGJC-së.
+4. Të dhënat e identitetit të shtetasit, të marra gjatë procesit të paraqitjes së kërkesës për regjistrim në PER, verifikohen nga KQZ-ja në RKGJC. Nëse ato janë të njëjta, DPGJC-ja bën regjistrimin në RKGJC të adresës së shtetasit që voton jashtë territorit të Republikës së Shqipërisë në një rubrikë të veçantë.
+5. Të dhënat për adresën e banimit që do të kërkohen gjatë procesit të regjistrimit nga ana e zgjedhësit dhe që do të transmetohen në RKGJC janë: shteti, qyteti, emërtesa e rrugës, numri i banesës, elemente të tjera të adresës (nëse ka), dhe kodi postar.

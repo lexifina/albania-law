@@ -1,0 +1,1 @@
+3. Lista e zgjedhësve që votojnë nga jashtë territorit të Republikës së Shqipërisë hartohet dhe përdoret rishtazi për çdo proces zgjedhor për Kuvendin e Shqipërisë, sipas kritereve, procedurave dhe afateve të përcaktuara në Kodin Zgjedhor dhe aktet normative të Komisionit Qendror të Zgjedhjeve (në vijim “KQZ”) dhe është e vlefshme vetëm për zgjedhjet për të cilat është hartuar.

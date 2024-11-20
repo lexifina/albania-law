@@ -1,0 +1,1 @@
+9. Në përfundim të procesit të përmendur në pikat 7 dhe 8 të kreut II të këtij udhëzimi, DPGJC-ja nxjerr nga RKGJC listën përfundimtare të zgjedhësve nga jashtë vendit dhe ia dërgon atë në format elektronik KQZ-së menjëherë, por jo më vonë se 61 ditë para datë së zgjedhjeve.

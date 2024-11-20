@@ -1,0 +1,1 @@
+2. Lista e zgjedhësve që votojnë nga jashtë territorit të Republikës së Shqipërisë është një listë e vetme në nivel zone zgjedhore dhe përmban listën e shtetasve shqiptarë që kanë shprehur vullnetin të votojnë nga jashtë vendit dhe që janë regjistruar në Regjistrin Kombëtar të Gjendjes Civile (në vijim “RKGJC”) në territorin e zonës zgjedhore përkatëse.

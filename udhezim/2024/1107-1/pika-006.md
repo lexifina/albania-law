@@ -1,0 +1,1 @@
+6. Çdo informacion që Komisioni Qendror i Zgjedhjeve transmeton te Drejtoria e Përgjithshme e Gjendjes Civile, si pjesë e procedurave për përgatitjen e listës së zgjedhësve nga jashtë vendit, do të përdoret nga DPGJC-ja vetëm për qëllime që lidhen me mundësimin e votimit për këta zgjedhës.

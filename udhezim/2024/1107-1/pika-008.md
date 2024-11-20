@@ -1,0 +1,1 @@
+8. Komisioneri Shtetëror i Zgjedhjeve, 63 ditë para datës së zgjedhjeve, publikon listën paraprake të zgjedhësve që votojnë jashtë vendit, me qëllim që zgjedhësit, brenda 48 orëve nga publikimi i saj, të mund të kërkojnë regjistrimin apo rregullimin e pasaktësive të regjistrimit të tyre në PER-në.
