@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e parashikimeve, për pajisjet e avionëve të kërkuar, për përdorimin e hapësirës ajrore të Qiellit të Vetëm Evropian dhe rregullat e operimit, në lidhje me përdorimin e hapësirës ajrore të Qiellit të Vetëm Evropian”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
