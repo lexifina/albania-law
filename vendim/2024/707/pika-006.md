@@ -1,0 +1,1 @@
+6. Kërkesa për transferimin e kuotës depozitohet elektronikisht në portalin unik qeveritar “e-Albania”, së bashku me marrëveshjen kontraktuale ndërmjet palëve. Procedura për shqyrtimin e aplikimit është e njëjtë me atë të përcaktuar në kreun II, të këtij vendimi. Kuota që transferohet nuk lejohet të transferohet për herë të dytë.

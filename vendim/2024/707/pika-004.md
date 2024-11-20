@@ -1,0 +1,1 @@
+4. Struktura përgjegjëse për gazet serrë të fluoruara në ministri është përgjegjëse për shqyrtimin e aplikimit, sigurimin e dokumentacionit sipas pikës 2, të kreut II, të këtij vendimi, dhe kthimin e përgjigjes me nënshkrim elektronik.
