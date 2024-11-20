@@ -37,6 +37,9 @@ Për qëllim të kësaj rregulloreje:
 13. “Sipërfaqe e kufizuar e pengesave” nënkupton një sipërfaqe që përcakton kufijtë në të cilat objektet mund të projektohen në hapësirën ajrore;
 14. “Sipërfaqe e mbrojtur nga pengesa” nënkupton një sipërfaqe e përcaktuar për sistemin e treguesit vizual të këndit të afrimit mbi të cilën nuk do të lejohen objekte ose shtrirje të objekteve ekzistuese përveçse kur, sipas mendimit të autoritetit përkatës, objekti i ri ose shtrirja e tij do të jenë të mbrojtura nga një objekt ekzistues i palëvizshëm.
 15. “Vendqëndrimi i avionit” nënkupton një zonë të caktuar për të akomoduar avionët për qëllim të hipjes dhe zbritjes së pasagjerëve, ngarkimit dhe shkarkimit të postës, mallrave, karburantit, si dhe për qëllime të parkimit apo mirëmbajtjes.
+16. Vlera e klasifikimit të avionit (ACR) nënkupton një numër që shpreh efektin relativ të një avioni në sipërfaqe të shtruar për një nënkategori të specifikuar standarde.
+Shënim. Numri i klasifikimit të avionit llogaritet në lidhje me pozicionin e qendrës së gravitetit (CG) që jep ngarkesën kritike në rrotat kryesore. Normalisht, pozicioni më i lartë CG i përshtatshëm në masën maksimale të platformës (terren) është përdorur për të llogaritur ACN-në. Në raste të veçanta, pozicioni i CG-së përpara duhet të rezultojë në ushtrimin e ngarkesës në rrotën e hundës duke qenë më kritike.
+17. Vlera e klasifikimit të fortësisë së sipërfaqes së shtruar (PCR) nënkupton një numër që shpreh kapacitetin e forcës mbajtëse të një sipërfaqeje të shtruar.
 Neni 3
 Mbikëqyrja
 1. Autoriteti i Aviacionit Civil është Autoriteti Kompetent, me kompetencat dhe përgjegjësitë e nevojshme për certifikimin dhe mbikëqyrjen e aerodromeve dhe operatorëve të aerodromit, duke marrë deklarata dhe mbikëqyrje të ofruesve të shërbimit të menaxhimit të vendqëndrimit, si dhe të personelit të përfshirë në të.
@@ -935,6 +938,57 @@ e) Operatori i aerodromit, pas botimit të një NOTAM-i të nxjerrë, do të ris
 f) Operatori i aerodromit do të mbajë të dhëna:
 1. të NOTAM-it të nxjerrë dhe atyre që janë lëshuar;
 2. në lidhje me zbatimin e pikave a/2 dhe 3.
+ADR OPS.A.058 Fortësia e sipërfaqes së shtruar (e zbatueshme nga data 28 nëntor 2024)
+1. Forca mbajtëse e sipërfaqes së shtruar duhet të përcaktohet nga operatori i aerodromit.
+2. Forca mbajtëse e sipërfaqes së shtruar të destinuar, për avionët me masë më të madhe se 5 700 kg, duhet të vihet në dispozicion, duke përdorur vlerën e klasifikimit të avionit - vlerën e klasifikimit të sipërfaqes së shtruar (ACR-PCR), duke raportuar të gjithë informacionin e mëposhtëm:
+a) vlera e klasifikimit të sipërfaqes së shtruar (PCR) dhe vlera numerike;
+b) tipi i sipërfaqes së shtruar për përcaktimin e ACR-PCR;
+c) kategoria e forcës së nënshtresave;
+d) kategoria maksimale e lejuar e presionit të gomave ose vlera maksimale e lejuar e presionit të gomave; dhe
+e) metoda e vlerësimit.
+Shënim. Udhëzime për raportimin dhe publikimin e PCR-ve mund të gjenden në Manualin e Projektimit të Aerodromit (dok. 9157).
+3. Vlera e klasifikimit të sipërfaqes së shtruar (PCR) duhet të tregojë se një avion me vlerë të klasifikimit të avionit (ACR) të barabartë ose më të ulët se PCR-ja e raportuar mund të operojë në dysheme, duke iu nënshtruar çdo kufizimi mbi presionin e gomave ose masën totale të avionëve për tip/at e avionit të specifikuar.
+Shënim. PCR të ndryshme mund të raportohen nëse forca e sipërfaqes së shtruar është subjekt i një ndryshimi të konsiderueshëm sezonal.
+4. ACR-ja e një avioni përcaktohet në përputhje me procedurat standarde të lidhura me metodën ACR-PCR.
+Shënim. Procedurat standarde për përcaktimin e ACR-së së një avioni janë dhënë në Manualin e Projektimit të Aerodromit (dok. 9157); pjesa 3. Për lehtësi, software të dedikuar mund të gjenden në website-in e ICAO-s, për llogaritjen e çdo ACR-je avioni në çdo masë në sipërfaqe të shtresës së ngurtë dhe fleksibël për katër kategoritë standarde të forcës së nënshtresës.
+5. Për qëllimet e përcaktimit të ACR-së, reagimi i një sipërfaqeje piste duhet të klasifikohet si ekuivalent ndaj një ndërtimi të ngurtë ose fleksibël.
+6. Informacioni mbi llojin e sipërfaqes për përcaktimin e ACR-PCR, kategoria e forcës së nënshtresave, kategoria maksimale e lejuar e presionit të gomave dhe metoda e vlerësimit duhet të raportohet duke përdorur kodet e mëposhtme:
+a) Tipi i sipërfaqes për përcaktimin e ACR-PCR:
+| |Kodi |
+|Sipërfaqe e ngurtë |R |
+|Sipërfaqe fleksibël |F |
+b) Llojet e kategorive sipas fortësisë:
+| |Kodi |
+|Fortësi e lartë: Karakterizohet nga E = 200 MPa dhe përfaqëson të gjitha vlerat E të barabarta ose më të larta se 150 MPa | |
+|për sipërfaqet e ngurta dhe fleksibël |A |
+|Fortësi mesatare: Karakterizohet nga E = 120 MPa dhe përfaqëson një game të të gjitha vlerave E të barabarta ose më të larta| |
+|se 100 MPa dhe më të ulëta se 150 MPa për sipërfaqet e ngurta dhe fleksibël |B |
+|Fortësi e ulët: Karakterizohet nga E = 120 MPa dhe përfaqëson një gamë të të gjitha vlerave E të barabarta ose më të larta | |
+|se 100 MPa dhe më të ulëta se 150 MPa për sipërfaqet e ngurta dhe fleksibël |C |
+|Fortësi ultra e ulët: Karakterizohet nga E = 50 MPa dhe përfaqëson të gjithë vlerat E më të ulëta se 60 MPa për sipërfaqet e| |
+|ngurta dhe fleksibël |D |
+c) Kategoria maksimale e lejuar e presionit të gomave:
+| |Kodi |
+|E pakufizuar: Presion pa kufizim |W |
+|E lartë: Presioni i kufizuar deri në 1.75 MPa |X |
+|Mesatare: Presioni i kufizuar deri në 1.25 MPa |Y |
+|E ulët: Presioni i kufizuar deri në 0.50 MPa |Z |
+d) Metoda e vlerësimit:
+| |Kodi |
+|Vlerësimi teknik: përfaqëson një studim specifik të karakteristikave të sipërfaqes dhe tipat e avionëve për të | |
+|cilët është destinuar të përdoret kjo sipërfaqe |T |
+|Duke përdorur eksperiencën e avionëve: që përfaqëson një njohuri të llojit dhe masës specifike të avionëve që | |
+|mbahen në mënyrë të kënaqshme në përdorim të rregullt |U |
+Shënim. Shembujt e mëposhtëm ilustrojnë sesi të dhënat e fortësisë të sipërfaqeve raportohen sipas metodës ACR-PCR. Udhëzime të mëtejshme për këtë temë gjenden në Manualin e Projektimit të Aerodromit (dok. 9157), pjesa 3 - Sipërfaqet.
+Shembull 1. Nëse forca mbështetëse e një sipërfaqeje të ngurtë, që mbështetet në një bazë të mesme fortësie, është gjykuar nga vlerësimi teknik për të qenë PCR 760 dhe nuk ka kufizim të presionit të gomave, atëherë informacioni i raportuar do të ishte:
+PCR 760 /R/B/W/T
+Shembull 2. Nëse forca mbajtëse e një sipërfaqeje të përbërë, që është shtrirë si një dysheme fleksibël dhe duke u mbështetur në një nënndarje të fortë, është vlerësuar duke përdorur eksperiencën e aeroplanëve për të qenë PCR 550 dhe presioni maksimal i lejuar i gomave është 1.25 MPa, më pas informacioni i raportuar do të jetë:
+PCR 550 /F/A/Y/U
+Shënim. Material ndërtim i përzier.
+7. Forca mbajtëse e një sipërfaqeje të destinuar për avionët e masës së platformës (VQA) të barabartë me ose më pak se 5 700 kg do të vihen në dispozicion, duke raportuar informacionin e mëposhtëm:
+a) Masa maksimale e lejuar e avionëve; dhe
+b) Maksimumi i lejuar i presionit të gomave.
+Shembull. 4 800 kg/0.60 MPa.
 ADR.OPS.A.060 Raportimi i ndotësve sipërfaqësorë
 Operatori i aerodromit raporton te shërbimet e informacionit aeronautik dhe njësitë e shërbimeve të trafikut ajror për çështje me rëndësi operacionale që prekin operacionet e avionëve dhe aerodromit në zonën e lëvizjes, veçanërisht në lidhje me praninë e mëposhtme:
 a) ujë;
@@ -1565,8 +1619,8 @@ FORMATI SNOWTAM
 |DËBORË E LAGËSHT | | | |
 |DËBORË E LAGËSHT NË MAJË TË BORËS SË NGJESHUR | | | |
 |DËBORË E LAGËSHT NË MAJË TË AKULLIT | | | |
-|(GJERËSIA E PISTËS PËR TË CILAT APLIKOHEN KODET E GJENDJEVE TË PISTËS, NËSE ËSHTË MË PAK SE GJERËSIA |O |H) |<≡≡ |
-|E PUBLIKUAR) | | | |
+|(GJERËSIA E PISTËS PËR TË CILAT APLIKOHEN KODET E GJENDJEVE TË PISTËS, NËSE ËSHTË MË PAK SE GJERËSIA E|O |H) |<≡≡ |
+|PUBLIKUAR) | | | |
 |Seksioni i ndërgjegjësimit situacional |
 |(GJATËSIA E ZVOGËLUAR E PISTËS, NËSE ËSHTË MË PAK SE GJATËSIA E PUBLIKUAR (m)) |O |I) |→ |
 |DËBORË QË RRËSHQET NË PISTË |O |J) |→ |
@@ -1581,11 +1635,11 @@ FORMATI SNOWTAM
 |KOEFICIENTI I MATUR I FËRKIMIT |O |S) |→ |
 |VËREJTJET PËR THJESHTËSINË E GJUHËS |O |T) |) <<≡ |
 |Shënime. | |
-|1. Shkruani letrat e kombësisë të ICAO siç jepen në ICAO dok 7910, pjesa 2 ose ndryshe identifikuesi i aerodromit | |
-|i zbatueshëm. | |
+|1. Shkruani letrat e kombësisë të ICAO siç jepen në ICAO dok 7910, pjesa 2 ose ndryshe identifikuesi i aerodromit i| |
+|zbatueshëm. | |
 |2. Informacion mbi pistat e tjera, përsëritni nga B në H. | |
-|3. Informacion në sektorin e ndërgjegjësimit të situatës të përsëritur për secilën pistë, autostradë dhe | |
-|platformë. Përsëriteni siç aplikohet, kur raportohet. | |
+|3. Informacion në sektorin e ndërgjegjësimit të situatës të përsëritur për secilën pistë, autostradë dhe platformë.| |
+|Përsëriteni siç aplikohet, kur raportohet. | |
 |4. Fjalët në kllapa () nuk transmetohen. | |
 |5. Për shkronjat A deri T referojuni udhëzimeve për plotësimin e formatit të dëborës, paragrafi 1, pika “b”. | |
 NËNSHKRIMI I GJENERUESIT (nuk transmetohet)
