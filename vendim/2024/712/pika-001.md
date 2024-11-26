@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Fondit Shqiptar të Zhvillimit të një pjese të pasurisë me nr. 5/102 dhe të pasurisë nr. 5/251, në zonën kadastrale 8160, Tiranë, sipas formularit dhe planrilevimeve, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, për t’i përdorur për realizimin e projektit “Kolegji i Evropës”.
