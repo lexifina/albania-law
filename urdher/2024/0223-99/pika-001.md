@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për organizimin e punës dhe veprimtarisë së Komisionit të Licencave për shqyrtimin dhe vlerësimin e kërkesave të paraqitura për marrjen e licencës për kultivimin e cannabis-it për qëllime mjekësore, sipas tekstit që i bashkëlidhet këtij urdhri.
