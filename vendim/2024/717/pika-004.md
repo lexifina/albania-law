@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 24 617.22 (njëzet e katër mijë e gjashtëqind e shtatëmbëdhjetë pikë njëzet e dy) lekësh, përballohet nga buxheti i Operatorit të Sistemit të Transmetimit sh.a.
