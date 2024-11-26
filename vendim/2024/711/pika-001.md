@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për marrëdhëniet e Avokaturës së Shtetit dhe personave juridikë, në kuadër të ofrimit të asistencës juridike, rolin e avokatëve të shtetit në gjykim, si dhe normat e posaçme procedurale”, sipas tekstit, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
