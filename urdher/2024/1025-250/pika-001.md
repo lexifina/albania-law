@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për modalitetet e llogaritjes së kostos që shkaktohet drejtpërdrejt si rezultat i funksionimit të shërbimit të trenave dhe aplikimit të tarifimit për koston e efekteve të zhurmës”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
