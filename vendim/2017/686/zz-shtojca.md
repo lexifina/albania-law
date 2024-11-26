@@ -20,7 +20,7 @@ Termat e përdorur në këtë rregullore kanë të njëjtin kuptim me ata të p�
 8. “Forumi këshillimor vendor”, një bashkim vullnetar i përfaqësuesve të komunitetit, të cilët shprehin angazhimin e tyre në konsultimin e vendimmarrjes vendore dhe në procesin e përcaktimit të përparësive.
 9. “Forumi për bashkërendimin e planifikimit”, një mekanizëm për të nxitur diskutimet strategjike të përfaqësuesve të autoritetit përgjegjës për hartimin e dokumentit të planifikimit, pushtetit vendor, pushtetit qendror dhe ekspertëve, për të arritur koordinimin e çështjeve të planifikimit për një zonë, njësi vendore, rajon apo territorin në përgjithësi.
 10. “Funksion”, qëllimi të cilit i shërben ose duhet t’i shërbejë toka dhe/ose ndërtimi në të dhe mund të realizohet nga një ose disa aktivitete.
-11. “Hapësirë publike”, sipas përkufizimit të bërë në ligjin nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, të ndryshuar, është hapësira e jashtme, si trotuari, rruga, sheshi, lulishtja, parku e të tjera të ngjashme, në shërbim të komunitetit, ku menaxhimi mund të jetë publik dhe/ose privat. Hapësira publike përfshin rrugëkalime publike dhe mjedise që janë të hapura për publikun ose në shërbim të përdorimit publik, pavarësisht nga regjimi juridik i tokës dhe përtej përcaktimeve të pronës publike, sipas ligjit nr. 8743, datë 22.2.2001, “Për pronat e paluajtshme të shtetit”.
+11. “Hapësirë publike”, sipas përkufizimit të bërë në ligjin nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, të ndryshuar, është hapësira e jashtme, si trotuari, rruga, sheshi, lulishtja, kënde lojërash për fëmijë, parku e të tjera të ngjashme, në shërbim të komunitetit, ku menaxhimi mund të jetë publik dhe/ose privat. Hapësira publike përfshin rrugëkalime publike dhe mjedise që janë të hapura për publikun ose në shërbim të përdorimit publik, pavarësisht nga regjimi juridik i tokës dhe përtej përcaktimeve të pronës publike, sipas ligjit nr. 8743, datë 22.2.2001, “Për pronat e paluajtshme të shtetit”.
 12. “Kategorizimi i përdorimit të tokës”, klasifikimi i tokës sipas përdorimit të saj, i shprehur në kategori, nënkategori dhe funksione.
 13. “Këshillim publik”, takim i hapur, akt konsultimi me publikun ku tentohet tërheqja e mendimeve dhe sugjerimeve të palëve të interesuara për përmbajtjen dhe përmirësimin e projektaktit, nga momenti i publikimit të projektaktit deri në miratimin përfundimtar të tij.
 14. “Konservim”, procesi i ruajtjes dhe i mbrojtjes së një territori ose ndërtimi të caktuar në formën e tij ekzistuese/aktuale.
@@ -49,6 +49,14 @@ Termat e përdorur në këtë rregullore kanë të njëjtin kuptim me ata të p�
 36. “Vija e gjelbër” ose “Kufiri i territorit urban”, perimetri që përcakton/kufizon shtrirjen territoriale të ndërtimeve në funksion të sistemit urban. Në këtë kufizim nuk hyjnë ndërtimet që janë në funksion të sistemit bujqësor dhe natyror.
 37. “Vija e kuqe” ose “Vija e ndërtimit”, kufiri i lejuar për vendosjen e një ndërtimi në raport me infrastrukturën, në përputhje me legjislacionin sektorial në fuqi.
 38. “Korrigjim i dokumentit të planifikimit”, procesi i korrigjimit të dokumentit të planifikimit në fuqi, për rastet kur konstatohen: gabime drejtshkrimore; dy ose më shumë parashikime të ndryshme për të njëjtën zonë/njësi strukturore në dokumente të ndryshme përbërëse të planit; mospërputhje e treguesit të lartësisë në kate me atë të lartësisë në metra; mospërputhje të përcaktimeve në dokumentin e planifikimit me gjendjen faktike të zhvillimeve në territor.
+39. “PDQ”, Plani i Detajuar Qendror.
+40. “PKHD”, Plani Kombëtar i Hapësirës Detare.
+41. “Hapësirë detare”, është territori ujor i cili përbëhet nga ujërat e brendshme detare, deti territorial, zona fqinje (në vazhdim), zona ekskluzive ekonomike dhe shelfi kontinental, sipas Kodit Detar të Republikës së Shqipërisë.
+42. “Mjedis detar”, është territori ujor i cili përbëhet nga vija e bregdetit shqiptar, plazhet, portet, radat e porteve dhe territoret tokësore të tyre, lagunat, grykëderdhjet e lumenjve në det, liqenet e vijës së ujit, që komunikojnë vazhdimisht ose përkohësisht me detin, ujërat e brendshme detare, territoriale dhe ekonomike.
+43. “Tipologji hapësinore” është karakteri i një njësie strukturore bazuar në ndërthurjen e njëtrajtshmërisë së llojit dhe volumit të strukturave, mënyrës së vendosjes së tyre në territor, skemës rrugore dhe të hapësirave publike.
+44. “Parcelë minimale” është sipërfaqja minimale që duhet të ketë parcela ose një grup parcelash për t’u zhvilluar.
+45. “Politika e integruar detare” (PID) është një politikë e BE-së, qëllimi i së cilës është të nxisë vendimmarrje të koordinuar dhe koherente për të maksimizuar zhvillimin e qëndrueshëm, rritjen ekonomike dhe kohezionin social të shteteve anëtare dhe, veçanërisht të zonave bregdetare, ishullore dhe më të largëta në BE, si dhe të sektorëve detarë, përmes politikave detare dhe koherente të bashkëpunimit ndërkombëtar në këtë fushë;
+46. “Planifikimi hapësinor detar” është një proces me anë të të cilit analizohen dhe organizohen aktivitetet njerëzore në zonat detare për të arritur objektivat ekologjikë, ekonomikë dhe socialë.
 KREU II
 DOKUMENTET E PLANIFIKIMIT: PËRMBAJTJA DHE PROCESI I HARTIMIT
 SEKSIONI 1
@@ -78,7 +86,9 @@ Bashkërendimi i dokumenteve të planifikimit
 a) Forumi për bashkërendimin e planifikimit zhvillohet në dy nivele: Forumi për bashkërendimin e planifikimit në nivel qendror (FBPQ), për dokumentet e:
 i) Planit të Përgjithshëm Kombëtar të Territorit;
 ii) Planit Kombëtar Sektorial;
-iii) Planit të Detajuar për Zonën me Rëndësi Kombëtare.
+iii) Planit Kombëtar të Hapësirës Detare;
+iv) Planit të Detajuar për Zonën me Rëndësi Kombëtare;
+v) Planet e detajuara qendrore.
 b) Forumi për bashkërendimin e planifikimit në nivel vendor (FBPV), për dokumentet e:
 i) Planit sektorial në nivel qarku;
 ii) Planit të përgjithshëm vendor.
@@ -99,8 +109,8 @@ d) AKPT-ja boton raportet e takimeve të forumit në regjistër, sipas afateve t
 dh) Autoritetet përgjegjëse të planifikimit reflektojnë në dokumentet e planifikimit komentet/sugjerimet e raporteve të takimeve të bashkërendimit ose japin arsyet e argumentuara të moskryerjes së reflektimeve.
 Neni 6
 Këshillimi dhe takimi publik
-1. Këshillimi dhe takimet publike gjatë hartimit të dokumenteve të planifikimit kryhen në përputhje me përcaktimet e nenit 24 të ligjit.
-2. Takimi publik zhvillohet me një publik të gjerë, i cili përfaqëson të gjitha shtresat dhe profilet e shoqërisë, që jeton apo punon brenda territorit për të cilin hartohet dokumenti i planifikimit.
+1. Këshillimi dhe takimet publike gjatë hartimit dhe rishikimit të dokumenteve të planifikimit kryhen në përputhje me përcaktimet e nenit 24 të ligjit.
+2. Takimi publik zhvillohet me një publik të gjerë, i cili përfaqëson të gjitha shtresat dhe profilet e shoqërisë, që jeton apo punon brenda territorit për të cilin hartohet apo rishikohet, dokumenti i planifikimit.
 3. Autoriteti përgjegjës për hartimin e doku-mentit të planifikimit në nivel qendror dhe të planeve të përgjithshme vendore organizon një ose më shumë takime publike përpara çdo vendimmarrjeje planifikuese dhe i përsërit ato sipas nevojës për informimin e plotë të palëve të interesuara dhe zgjidhjen e konflikteve.
 4. Organizimi i takimeve publike kryhet si më poshtë vijon:
 a) Autoriteti përgjegjës i planifikimit njofton vendin, datën dhe orën e takimit këshillimor dhe atij publik, të paktën 30 (tridhjetë) ditë para secilit takim, si dhe vë në dispozicion dokumentin e nismës apo atë të planifikimit, subjekt këshillimi. Njoftimi kryhet përmes botimit në regjistër dhe një ose disa mjeteve tradicionale të informimit publik.
@@ -119,7 +129,7 @@ Përveçse kur përcaktohet ndryshe në ligj dhe në seksionet përkatëse të �
 1. Autoriteti përgjegjës për miratimin e dokumentit të planifikimit miraton projektaktin për dokumentin përkatës ose ia rikthen atë për rishikim autoritetit propozues, së bashku me arsyet e mosmiratimit në rastet kur vlerëson se:
 a) nuk janë kryer bashkërendimi, këshillimi dhe takimi publik ose nuk janë respektuar procedurat e tjera të detyrueshme të planifikimit, sipas përcaktimeve të ligjit dhe rregulloreve në zbatim të tij;
 b) projekti i dokumentit ka mospërputhje me dokumentet e planifikimit të miratuar ose me legjislacionin në fuqi.
-2. Në këto raste, për dokumentet që miratohen nga KKT-ja, autoriteti propozues, në bashkëpunim me Agjencinë, kryen procesin e duhur të rishikimit të projektaktit.
+2. Në këto raste, për dokumentet që miratohen nga KKTU -ja, autoriteti propozues, në bashkëpunim me Agjencinë, kryen procesin e duhur të rishikimit të projektaktit.
 3. Në përfundim të rishikimit, projektakti i dokumentit të planifikimit i ridërgohet për miratim autoritetit miratues.
 4. Autoriteti përgjegjës për miratimin përfundimtar miraton dokumentin e planifikimit dhe, jo më vonë se 15 (pesëmbëdhjetë) ditë pas miratimit të tij, boton në regjistër vendimin e miratimit së bashku me dokumentet shoqëruese, në përputhje me pikën 4, të nenit 25 të ligjit.
 Neni 9
@@ -129,16 +139,15 @@ Neni 10
 Monitorimi i zbatimit të dokumentit të planifikimit
 1. Monitorimi i zbatimit të dokumentit të planifikimit bëhet nga autoriteti përgjegjës për hartimin e tij, sipas planit përkatës të veprimeve, i miratuar si pjesë e dokumentit të planifikimit.
 2. Procesi i zbatimit të dokumenteve të planifikimit monitorohet edhe nga agjencia në bashkërendimin me autoritetet përgjegjëse për planifikimin.
-3. Nëse, gjatë zbatimit të dokumenteve të planifikimit, lind nevoja e korrigjimit të dokumenteve të planifikimit, sipas rasteve të përcaktuara në pikën 38, të nenit 2, të këtij vendimi, autoriteti përgjegjës për planifikimin e territorit përgatit një relacion shpjegues dhe njofton Agjencinë për konstatimet. Agjencia, në bashkëpunim me autoritetin përgjegjës për planifikimin, shqyrton dhe vlerëson rastet e konstatuara. Në përfundim të këtij procesi, Agjencia dërgon në KKT kërkesën për miratimin e vendimit për korrigjimin e dokumentit të planifikimit, shoqëruar nga një relacion shpjegues. Vendimi hyn në fuqi pas botimit në Regjistrin Kombëtar të Planifikimit të Territorit.
+3. Nëse, gjatë zbatimit të dokumenteve të planifikimit dhe vendimmarrjeve të KKTU-së lind nevoja e korrigjimit të dokumenteve të planifikimit, sipas rasteve të përcaktuara në pikën 2/1 të nenit 26 të ligjit dhe në pikën 38 të nenit 2 të këtij vendimi, autoriteti përgjegjës për planifikimin e territorit përgatit një relacion shpjegues dhe njofton Agjencinë për konstatimet. Agjencia, në bashkëpunim me autoritetin përgjegjës për planifikimin, shqyrton dhe vlerëson rastet e konstatuara. Në përfundim të këtij procesi, Agjencia dërgon në KKTU kërkesën për miratimin e vendimit për korrigjimin e dokumentit të planifikimit, shoqëruar nga një relacion shpjegues. Vendimi hyn në fuqi pas botimit në Regjistrin Kombëtar të Planifikimit të Territorit.
 Neni 11
 Rishikimi i dokumentit të planifikimit dhe procedura e thjeshtuar
 1. Rishikimi i dokumentit të planifikimit kryhet në përputhje me nenin 26, të ligjit, për shkak të forcave madhore, si: tërmete, përmbytje, zjarre masive, rrëshqitje të tokës, erozion etj., të ngjashme, për shkak të ndarjeve administrative e territoriale, ndryshimeve të paparashikuara demografike, sociale e ekonomike, ndryshimeve të shkaktuara nga kriza sektoriale, si edhe kur lind nevoja e harmonizimit me dokumente të një niveli më të lartë planifikimi apo me ndryshime të kuadrit ligjor në fushën e mbrojtjes e të menaxhimit të territorit, si dhe për arsye të përafrimit me legjislacionin e Bashkimit Evropian.
 2. Rishikimi i çdo dokumenti planifikimi kryhet në përputhje me seksionet përkatëse në këtë rregullore, ku tregohen procesi dhe përmbajtja e dokumentit.
 3. Në disa raste, procesi i rishikimit të dokumentit të planifikimit realizohet duke ndjekur një procedurë të thjeshtuar, e cila ka për qëllim të shkurtojë afatet e procesit të planifikimit, këshillimit e të bashkërendimit, të përjashtojë miratimin e nismës dhe të trajtojë vetëm pjesët e dokumentit të planifikimit, subjekt rishikimi, në varësi të rastit dhe nevojave.
-4. Procedura e thjeshtuar ndiqet kur rishikimi i dokumentit të planifikimit bëhet për një pjesë të territorit dhe kur përmbushen kriteret e mëposhtme:
-a) Dokumentet e planifikimit ndryshohen për çështje që nuk cenojnë vlerat natyrore e mjedisore, zonat e mbrojtura dhe trashëgiminë historike e kulturore;
-b) Rishikimi nuk shoqërohet me ndryshime të strategjisë territoriale;
-c) Sipas pikës 2, të nenit 26, të ligjit.
+4. Procedura e thjeshtuar ndiqet:
+a) kur rishikimi i dokumentit të planifikimit bëhet për një pjesë të territorit, për çështje të zhvillimit, të cilat duhet të marrin konfirmimin e institucioneve të fushës për garantimin e ruajtjes së vlerave natyrore e mjedisore, të trashëgimisë historike e kulturore dhe çështjeve të tjera sektoriale;
+b) për integrimin e vendimeve të KKTU-së.
 Neni 12
 Hapat e procedurës së thjeshtuar për rishikimin e dokumentit të planifikimit
 Procedura e thjeshtuar zhvillohet sipas hapave të mëposhtëm:
@@ -164,7 +173,7 @@ Neni 13
 Deklarata e përgjegjësisë profesionale
 1. Hartuesit e dokumentit të planifikimit, ekspertë të fushave të ndryshme, pjesë e institucioneve publike apo private, duhet të nënshkruajnë një deklaratë përgjegjësie, ku dëshmojnë se dokumenti i planifikimit është në përputhje me legjislacionin në fuqi në fushën e planifikimit e të zhvillimit të territorit, si dhe me legjislacionet e tjera që ndikojnë në planifikimin e territorit.
 2. Në rast se gjatë procesit të miratimit të dokumentit të planifikimit apo gjatë zbatimit të tij konstatohen shkelje të dispozitave ligjore në fuqi, atëherë autoriteti që konstaton shkeljen apo subjekti ka detyrimin të bëjë me dije ministrinë përgjegjëse për lëshimin e licencave në fushën e planifikimit, si dhe autoritetin e planifikimit përgjegjës për hartimin, të cilët duhet të marrin masat e nevojshme ndaj hartuesve të dokumentit, si edhe gjithë zinxhirit të institucioneve kontrolluese, në varësi të nivelit të dëmit të shkaktuar nga mungesa e përgjegjësisë profesionale.
-3. Për sa më sipër, Agjencia, pasi të kryejë vlerësimin e saj për rastin, do t’i kërkojë KKT-së rishikimin e plotë apo të pjesshëm të dokumentit të planifikimit në fjalë, duke ndjekur hapat e procedurës së thjeshtuar.
+3. Për sa më sipër, Agjencia, pasi të kryejë vlerësimin e saj për rastin, do t’i kërkojë KKTU -së rishikimin e plotë apo të pjesshëm të dokumentit të planifikimit në fjalë, duke ndjekur hapat e procedurës së thjeshtuar.
 Neni 14
 Fondi i planifikimit
 Propozohet që fondi i planifikimit të krijohet nga buxheti i shtetit dhe nga vjelja e kundërvajtjeve administrative, sipas botimeve në regjistër, afateve të miratimit dhe gjithçkaje tjetër që ndërthuret me procesin e planifikimit dhe jo vetëm. Përdorimi i fondit planifikohet dhe miratohet nga autoritetet e planifikimit në përputhje me kuadrin ligjor dhe nënligjor në fuqi.
@@ -174,9 +183,11 @@ Neni 15
 Nivelet e planifikimit
 1. Planifikimi dhe dokumentet e planifikimit në territorin e Republikës së Shqipërisë organizohen në dy nivele:
 a) Planifikimi në nivel qendror:
-i) Plani i Përgjithshëm Kombëtar i Territorit (PPKT);
-ii) Planet kombëtare sektoriale (PKS);
-iii) Planet e detajuara për zonat e rëndësisë kombëtare (PDZRK).
+i. Plani i Përgjithshëm Kombëtar i Territorit (PPKT);
+ii. Planet kombëtare sektoriale (PKS);
+iii. Plani Kombëtar i Hapësirës Detare (PKHD);
+iv. Planet e detajuara për zonat e rëndësisë kombëtare (PDZRK).
+v. Planet e detyruara qendrore (PDQ).
 b) Planifikimi në nivel vendor:
 i) Planet sektoriale në nivel qarku (PSNQ);
 ii) Planet e përgjithshme vendore (PPV);
@@ -201,7 +212,7 @@ Nisma për hartimin e PPKT-së
 1. Procesit të punës për PPKT-në i paraprin ndërmarrja e nismës për hartimin e tij.
 a) Ndërmarrja e nismës mund të iniciohet nga autoriteti përgjegjës për planifikimin e territorit në nivel qendror, nëpërmjet ose me propozim të Agjencisë përgjegjëse për planifikimin e territorit.
 b) Autoriteti përgjegjës për hartimin e nismës është autoriteti përgjegjës për planifikimin e territorit në nivel qendror, në bashkëpunim me Agjencinë përgjegjëse për planifikimin e territorit, i cili e paraqet atë pranë Këshillit Kombëtar të Territorit për miratim.
-c) Autoriteti përgjegjës për miratimin e nismës është Këshilli Kombëtar i Territorit.
+c) Autoriteti përgjegjës për miratimin e nismës është Këshilli Kombëtar i Territorit dhe Ujit.
 2. Dokumenti i nismës për hartimin e PPKT-së përmban:
 a) analizën, e cila përcakton qëllimin dhe nevojën për hartim ose rishqyrtim të dokumentit të planifikimit;
 b) dokumentet që përcaktojnë zonat e rëndësisë kombëtare, sipas parashikimeve të pikës 3, të nenit 16, të ligjit, nëse ka të tilla;
@@ -214,9 +225,9 @@ e) të dhëna për buxhetin për hartimin e PPKT-së;
 3. Nisma duhet të bëhet publike dhe të botohet në regjistër nga autoriteti përgjegjës, si më poshtë vijon:
 a) Vendimi i autoritetit përgjegjës për planifikimin e territorit në nivel qendror për marrjen e nismës botohet në regjistër, brenda 10 (dhjetë) ditëve nga data e marrjes së nismës, sipas pikave 1 dhe 4, të nenit 56 të ligjit.
 b) Vendimi i autoritetit përgjegjës për planifikimin e territorit në nivel qendror për marrjen e nismës botohet edhe në faqen zyrtare të tij dhe Agjencisë.
-4. Hyrja në fuqi e vendimit të KKT-së për miratimin e nismës bëhet pasi ky vendim së bashku me dokumentin e nismës:
-a) botohen në regjistër nga sekretariati i KKT-së, brenda 10 (dhjetë) ditëve nga data e miratimit, sipas pikave 1 dhe 4, të nenit 56 të ligjit.
-b) botohen edhe në faqen zyrtare të sekretariatit të KKT-së, autoritetit përgjegjës për planifikimin e territorit në nivel qendror dhe Agjencisë.
+4. Hyrja në fuqi e vendimit të KKTU -së për miratimin e nismës bëhet pasi ky vendim së bashku me dokumentin e nismës:
+a) botohen në regjistër nga sekretariati i KKTU -së, brenda 10 (dhjetë) ditëve nga data e miratimit, sipas pikave 1 dhe 4, të nenit 56 të ligjit.
+b) botohen edhe në faqen zyrtare të sekretariatit të KKTU -së, autoritetit përgjegjës për planifikimin e territorit në nivel qendror dhe Agjencisë.
 Neni 19
 Përmbajtja e dokumentit të PPKT-së
 Dokumenti i PPKT-së përmban, të paktën:
@@ -242,16 +253,16 @@ Miratimi dhe hyrja në fuqi e PPKT-së
 1. Procesi i miratimit të Planit të Përgjithshëm Kombëtar të Territorit (PPKT) bëhet në përputhje me përcaktimet e nenit 25 të ligjit.
 2. Procesi i miratimit të planit përmban, të paktën, këta hapa:
 a) Paraqitjen e kërkesës së autoritetit përgjegjës për miratimin e planit;
-b) Vendimmarrjen e KKT-së;
+b) Vendimmarrjen e KKTU -së;
 c) Vendimmarrjen e Këshillit të Ministrave.
 3. Materialet që dorëzohen/botohen për miratimin e dokumentit të planifikimit janë:
-a) Nisma e miratuar në KKT;
+a) Nisma e miratuar në KKTU;
 b) Dokumenti i plotë i PPKT-së;
 c) Deklarata Mjedisore për Vlerësimin Strategjik Mjedisor, referuar legjislacionit të posaçëm në fuqi.
-4. Pas botimit në regjistër të dokumentit të plotë të PPKT-së, autoriteti përgjegjës bën kërkesën për miratimin e planit në KKT.
-5. Plani i Përgjithshëm Kombëtar i Territorit (PPKT) miratohet nga KKT-ja në përputhje me pikën 4, të nenit 25, të ligjit.
-6. Vendimi i KKT-së botohet në regjistër dhe në çdo rast edhe në faqen zyrtare të sekretariatit të KKT-së, autoritetit përgjegjës për planifikimin e territorit në nivel qendror dhe agjencisë, brenda 15 (pesëmbëdhjetë) ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 25, të ligjit.
-7. Pas botimit në regjistër të vendimit të KKT-së dhe dokumenteve shoqëruese të tij, autoriteti kombëtar i planifikimit të territorit bën kërkesë për miratimin e planit në Këshillin e Ministrave.
+4. Pas botimit në regjistër të dokumentit të plotë të PPKT-së, autoriteti përgjegjës bën kërkesën për miratimin e planit në KKTU.
+5. Plani i Përgjithshëm Kombëtar i Territorit (PPKT) miratohet nga KKTU -ja në përputhje me pikën 4, të nenit 25, të ligjit.
+6. Vendimi i KKTU -së botohet në regjistër dhe në çdo rast edhe në faqen zyrtare të sekretariatit të KKTU -së, autoritetit përgjegjës për planifikimin e territorit në nivel qendror dhe agjencisë, brenda 15 (pesëmbëdhjetë) ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 25, të ligjit.
+7. Pas botimit në regjistër të vendimit të KKTU -së dhe dokumenteve shoqëruese të tij, autoriteti kombëtar i planifikimit të territorit bën kërkesë për miratimin e planit në Këshillin e Ministrave.
 8. Plani i Përgjithshëm Kombëtar i Territorit (PPKT) miratohet nga Këshilli i Ministrave në përputhje me pikën 1, të nenit 58, të ligjit.
 9. Dokumenti i Planit të Përgjithshëm Kombëtar të Territorit (PPKT) hyn në fuqi pas miratimit nga Këshilli i Ministrave dhe botimit të plotë të dokumenteve të tij në Fletoren Zyrtare.
 Neni 21
@@ -259,6 +270,118 @@ Zbatimi dhe monitorimi i zbatimit të PPKT-së
 1. Monitorimi i zbatimit të PPKT-së bëhet nga autoritetet përgjegjëse në procesin e hartimit të planit, në përputhje me pikën 3, të nenit 6; shkronjën “d”, të pikës 1, të nenit 8; shkronjën “b”, të pikës 3, të nenit 9; dhe shkronjat “c” e “g”, të pikës 1, të nenit 10, të ligjit.
 2. Monitorimi i zbatimit të planit bëhet mbi bazën e planit të veprimeve dhe dokumentit të indikatorëve të monitorimit, të miratuar si pjesë përbërëse e dokumentit të planit.
 3. Plani i Përgjithshëm Kombëtar i Territorit zbatohet nëpërmjet planeve kombëtare sektoriale, planeve të detajuara për zona të rëndësisë kombëtare, planeve sektoriale në nivel qarku, planeve të përgjithshme vendore, investimeve strategjike dhe projekteve pilot të zhvillimit, sipas planit të veprimeve të tij.
+SEKSIONI 3/1
+PLANI KOMBËTAR I HAPËSIRËS DETARE
+Neni 21/1
+Objekti i PKHD-së
+1. Kuadri referues i PKHD-së synon promovimin e rritjes së qëndrueshme të ekonomive detare, zhvillimin e qëndrueshëm të zonave detare, përdorimin e qëndrueshëm të burimeve detare dhe mban në konsideratë të veçantë ndërveprimet tokë-det dhe bashkëpunimin ndërkufitar.
+2. Planifikimi hapësinor detar është procesi me anë të të cilit analizohen dhe organizohen aktivitetet njerëzore në zonat detare për të arritur objektivat mjedisorë, ekologjikë, ekonomikë dhe socialë.
+3. Plani Kombëtar i Hapësirës Detare ka për qëllim zhvillimin e qëndrueshëm të sektorëve dhe përdorimeve përkatëse të hapësirave detare, të tashme dhe të ardhshme, të cilat përfshijnë:
+a) peshkimin dhe akuakulturën;
+b) zonat e peshkimit;
+c) energjinë në zonat detare: kërkimin, shfrytëzimin dhe nxjerrjen e naftës, gazit dhe burimeve të tjera energjetike, mineraleve dhe agregateve, si dhe prodhimin e energjisë nga burimet e rinovueshme;
+ç) transportin detar dhe trafikun detar;
+d) sigurinë kombëtare dhe stërvitjen ushtarake;
+dh) natyrën, biodiversitetin, speciet dhe zonat e mbrojtura, mjedisin dhe konsideratat për ndryshimet klimatike;
+e) nxjerrjen dhe shfrytëzimin e lëndës së parë;
+ë) rrugët e kabllove dhe tubacioneve nënujore;
+f) trashëgiminë kulturore nënujore;
+g) aktivitetet e turizmit detar.
+4. Plani Kombëtar i Hapësirës Detare, teksa hartohet e zbatohet duhet të ndjekë parimet e planifikimit si një proces pune në vazhdimësi.
+Neni 21/2
+Autoriteti përgjegjës për hartimin e PKHD-së
+1. Procesi i hartimit të PKHD-së koordinohet nga ministria përgjegjëse për planifikimin dhe zhvillimin e territorit e cila është edhe autoriteti kompetent për hartimin e planit, në përputhje me shkronjën “c”, të pikës 1, të nenit 8, të ligjit.
+2. Pranë ministrisë përgjegjëse për planifikimin dhe zhvillimin e territorit, me urdhër të ministrit, ngrihet një grup pune me përfaqësues të institucioneve publike, me ekspertë të fushave të ndryshme me interes në hapësirat detare, vendës dhe të huaj si dhe me përfaqësues të Agjencisë. Përfaqësuesit e ministrisë përgjegjëse për planifikimin dhe zhvillimin e territorit kryesojnë grupin e punës.
+3. Plani i veprimeve për hartimin e PKHD-së zbatohet nga grupi i punës i ngritur me urdhër të ministrit përgjegjës për planifikimin dhe zhvillimin e territorit.
+4. Plani Kombëtar i Hapësirës Detare hartohet nga grupi i punës i ngritur me urdhër të ministrit përgjegjës për planifikimin dhe zhvillimin e territorit në cilësinë e autoritetit kompetent, sipas parashikimeve të ligjit për organizimin dhe funksionimin e Këshillit të Ministrave.
+5. Dokumenti i Planit Kombëtar të Hapësirës Detare (PKHD) i miratuar i njoftohet Komisionit Evropian.
+Neni 21/3
+Bashkëpunimi ndërmjet shteteve
+1. Në kuadër të procesit të planifikimit dhe menaxhimit, bashkëpunohet me shtetet anëtare që kufizohen me ujëra detare, me qëllim për të garantuar që planet hapësinore detare të jenë koherente dhe të koordinuara në të gjithë rajonin detar shqiptar. Një bashkëpunim i tillë merr parasysh, në veçanti, çështjet me natyrë ndërkufitare.
+2. Bashkëpunimi i përmendur në pikën 1 të këtij neni realizohet nëpërmjet:
+a) strukturave ekzistuese të bashkëpunimit institucional rajonal, të tilla si konventat rajonale detare;
+b) rrjeteve ose strukturave të autoriteteve kompetente të shteteve anëtare;
+c) çdo metode tjetër që përmbush kërkesat e pikës 1 të këtij neni.
+3. Autoritetet shqiptare përpiqen, kur është e mundur, të bashkëpunojnë me vendet e treta për veprimet e tyre në lidhje me planifikimin hapësinor detar në rajonet përkatëse detare dhe në përputhje me ligjet dhe konventat ndërkombëtare.
+Neni 21/4
+Nisma për hartimin e PKHD-së
+1. Procesit të punës për PKHD-në i paraprin ndërmarrja e nismës për hartimin e tij.
+2. Autoriteti përgjegjës për ndërmarrjen dhe hartimin e nismës është ministri përgjegjës për planifikimin e territorit, i cili e paraqet atë pranë Këshillit Kombëtar të Territorit dhe Ujit për miratim.
+3. Dokumenti i nismës për hartimin e PKHD-së përmban:
+a) analizën, e cila përcakton qëllimin dhe nevojën për hartim ose rishqyrtim të dokumentit të planifikimit;
+b) kufirin e hapësirës/territorit, subjekt i PKHD-së;
+c) dokumentet që përcaktojnë zonat e rëndësisë kombëtare, sipas parashikimeve të pikës 3, të nenit 16, të ligjit, nëse ka të tilla;
+ç) listën e dokumenteve përbërëse të PKHD-së;
+d) të dhëna për ekspertët (fushat e ekspertizës) që do të përbëjnë grupin e punës që do të hartojnë PKHD-në;
+dh) përcaktime për procesin e bashkërendimit, këshillimit e të takimeve publike dhe për afatet përkatëse;
+e) planin e veprimeve për hartimin e dokumentit të PKHD-së;
+ë) të dhëna për buxhetin për hartimin e PKHD-së;
+f) sipas rastit, vendimin për pezullimin e zhvillimit për të gjithë ose një pjesë të territorit, sipas nenit 33 të ligjit, të shoqëruar me hartën përkatëse.
+4. Nisma duhet të bëhet publike dhe të botohet në regjistër nga autoriteti përgjegjës, si më poshtë vijon:
+a) Vendimi i autoritetit përgjegjës për planifikimin e territorit në nivel qendror për marrjen e nismës botohet në regjistër, brenda 10 (dhjetë) ditëve nga data e marrjes së nismës, sipas pikave 1 dhe 4, të nenit 56 të ligjit;
+b) Vendimi i autoritetit përgjegjës për planifikimin e territorit në nivel qendror për marrjen e nismës botohet edhe në faqen zyrtare të tij.
+5. Hyrja në fuqi e vendimit të KKTU-së për miratimin e nismës bëhet pasi ky vendim së bashku me dokumentin e nismës:
+a) botohen në regjistër nga sekretariati i KKTU-së, brenda 10 (dhjetë) ditëve nga data e miratimit, sipas pikave 1 dhe 4, të nenit 56 të ligjit.
+b) botohen edhe në faqen zyrtare të sekretariatit të KKTU-së, autoritetit përgjegjës për planifikimin e territorit në nivel qendror dhe Agjencisë.
+Neni 21/5
+Përmbajtja e dokumentit të PKHD-së
+Dokumenti i PKHD-së përmban të paktën:
+1. Analizën e hapësirës detare dhe territorit që e ndikon, e cila përmban:
+a) analizën e përgjithshme për përcaktimin e statusit aktual dhe të ardhshëm të hapësirës detare, duke evidentuar dhe përshkruar në mënyrë të detajuar elementet apo sektorët që përfshihen në PKHD;
+b) databazën e të dhënave të nevojshme për hartimin e PKHD-së, që përfshin:
+i. kushtet fizike dhe mjedisore: të dhëna oqeanografike dhe karakteristika të tjera fizike e mjedisore (batimetria, rrymat, sedimentet), shpërndarjet biologjike dhe ekologjike, duke përfshirë zona me rëndësi të njohur për një specie ose komunitet biologjik të caktuar, cilësinë e ujërave dhe parametrat ekologjikë e biologjikë;
+ii. aktivitetin njerëzor ekonomik dhe social.
+c) analizën e ndërveprimit tokë-det, në aspektet e aktivitetit njerëzor ekonomik e social, të mjedisit, të natyrës, ndryshimeve klimatike dhe sigurisë. Kjo analizë duhet të marrë parasysh gjendjen ekzistuese në territor dhe hapësirën detare, si dhe propozimet e dokumenteve të tjera të planifikimit në fuqi për të ardhmen.
+2. Analizën e dokumenteve të planifikimit të shteteve fqinje për zonat ndërkufitare.
+3. Kuadrin ligjor, si dhe politikat dhe strategjitë kombëtare e ndërkombëtare ku bazohet plani.
+4. Vizionin dhe objektivat strategjikë të zhvillimit dhe përdorimit të hapësirës detare dhe mjedisit detar.
+5. Planin e veprimeve, të projekteve dhe të investimeve strategjike për zbatimin e PKHD-së.
+6. Përcaktimin e saktë në planifikim të përdorimit dhe ndërveprimit të hapësirave detare, mjedisit detar dhe territoreve tokësore të lidhura me detin, të cilat mund të përfshijnë:
+a) zonat e akuakulturës;
+b) zonat e peshkimit;
+c) instalimet dhe infrastrukturat për kërkimin, shfrytëzimin dhe nxjerrjen e hidrokarbureve të lëngshme, gazit dhe burimeve të tjera të energjisë, të mineraleve dhe agregateve, si dhe për prodhimin e energjisë nga burimet e rinovueshme;
+ç) rrugët e transportit detar dhe flukset e trafikut;
+d) zonat e stërvitjes ushtarake;
+dh) vendet për ruajtjen e natyrës e specieve dhe zonat e mbrojtura;
+e) zonat e nxjerrjes së lëndëve të para;
+ë) kërkimin shkencor;
+f) trajektoret e kabllove dhe tubacioneve nënujore;
+g) turizmin;
+gj) trashëgiminë kulturore nënujore etj.
+7. Përcaktimet e procesit të harmonizimit të planeve ekzistuese me PKHD-në.
+8. Përcaktimin e masave mbrojtëse në zbatim të legjislacionit sektorial, për:
+a) interesat dhe aktivitetet detare;
+b) burimet natyrore;
+c) zonat e trashëgimisë kulturore nënujore;
+ç) ndotjen detare;
+d) aktivitetet e nxjerrjes së mineraleve në det të hapur;
+dh) fatkeqësitë natyrore.
+9. Studimin e vlerësimit strategjik mjedisor, si dhe vlerësimin e ndikimit në mjedis të planit.
+10. Metodologjinë dhe treguesit për monitorimin e zbatimit të PKHD-së dhe afatet për rishikimin e tij.
+11. Hartat që shoqërojnë dhe pasqyrojnë përmbajtjen e PKHD-së.
+12. Relacionin e propozimeve për investime strategjike dhe projekte pilote të zhvillimit.
+Neni 21/6
+Miratimi dhe hyrja në fuqi e PKHD-së
+1. Procesi i miratimit të Planit Kombëtar të Hapësirës detare (PKHD) bëhet, në përputhje me përcaktimet e nenit 25 të ligjit.
+2. Procesi i miratimit të planit përmban, të paktën, këta hapa:
+a) paraqitjen e kërkesës së autoritetit përgjegjës për miratimin e planit;
+b) vendimmarrjen e KKTU-së;
+c) vendimmarrjen e Këshillit të Ministrave.
+3. Materialet që dorëzohen/botohen për miratimin e dokumentit të planifikimit janë:
+a) nisma e miratuar në KKTU;
+b) dokumenti i plotë i PKHD-së;
+c) deklarata Mjedisore për Vlerësimin Strategjik Mjedisor, referuar legjislacionit të posaçëm në fuqi.
+4. Pas botimit në regjistër të dokumentit të plotë të PKHD-së, autoriteti përgjegjës bën kërkesën për miratimin e planit në KKTU.
+5. Plani Kombëtar i Hapësirës Detare (PKHD) miratohet nga KKTU-ja, në përputhje me nenin 25 të ligjit.
+6. Vendimi i KKTU-së botohet në regjistër dhe në çdo rast edhe në faqen zyrtare të sekretariatit të KKTU-së, autoritetit përgjegjës për planifikimin e territorit në nivel qendror dhe agjencisë, brenda 15 (pesëmbëdhjetë) ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 25 të ligjit.
+7. Pas botimit në regjistër të vendimit të KKTU-së dhe dokumenteve shoqëruese të tij, autoriteti kombëtar i planifikimit të territorit bën kërkesë për miratimin e planit në Këshillin e Ministrave.
+8. Plani Kombëtar i Hapësirës Detare (PKHD) miratohet nga Këshilli i Ministrave, në përputhje me pikën 2, të nenit 6, të ligjit.
+9. Plani Kombëtar i Hapësirës Detare (PKHD) hyn në fuqi pas miratimit nga Këshilli i Ministrave dhe botimit të plotë të dokumenteve të tij në Fletoren Zyrtare.
+10. PKHD-ja rishikohet kur është e nevojshme, sipas nenit 26, të ligjit, por të paktën çdo dhjetë vjet.
+Neni 21/7
+Zbatimi dhe monitorimi i zbatimit të PKHD-së
+1. Monitorimi i zbatimit të PKHD-së bëhet nga autoritetet përgjegjëse në procesin e hartimit të planit, në përputhje me shkronjën “d”, të pikës 1, të nenit 8, dhe shkronjën “c”, të pikës 1, të nenit 10, të ligjit, si dhe nga agjencia, në përputhje me pikën 2, të nenit 10, të kësaj rregulloreje.
+2. Monitorimi i zbatimit të planit bëhet mbi bazën e planit të veprimeve dhe dokumentit të indikatorëve të monitorimit, të miratuar si pjesë përbërëse e dokumentit të planit.
 SEKSIONI 4
 PLANI KOMBËTAR SEKTORIAL
 Neni 22
@@ -290,7 +413,7 @@ Autoriteti përgjegjës për hartimin e PKS-së
 5. Agjencia është në çdo rast pjesë e grupit të punës.
 Neni 24
 Hartimi, këshillimi dhe bashkërendimi i PKS-së
-1. Hartimi i PKS-së nis me ndërmarrjen e nismës dhe miratimin e saj nga KKT-ja, me botimin e vendimit të tij në RKPT.
+1. Hartimi i PKS-së nis me ndërmarrjen e nismës dhe miratimin e saj nga KKTU -ja, me botimin e vendimit të tij në RKPT.
 2. Hartimi i PKS-së kryhet në disa faza, në përputhje me përgatitjen e dokumenteve përbërëse të tij:
 a) Faza përgatitore: Hartimi i nismës dhe përgatitja e bazës të të dhënave fillestare për hartimin e tij;
 b) Faza I: Analiza e sektorit;
@@ -306,8 +429,8 @@ c) organizimit të së paku dy dëgjesave publike, përkatësisht në fazat II d
 Neni 25
 Nisma për hartimin e PKS-së
 1. Procesit të punës për PKS-në i paraprin ndërmarrja e nismës për hartimin e tij.
-a) Autoriteti përgjegjës për ndërmarrjen dhe hartimin e nismës është ministri që mbulon sektorin, i cili e paraqet atë pranë Këshillit Kombëtar të Territorit për miratim. Në rast së plani hartohet për të analizuar në formë të integruar disa sektorë, atëherë nisma ndërmerret nga autoriteti përgjegjës për planifikimin e territorit në nivel qendror.
-b) Autoriteti përgjegjës për miratimin e nismës është Këshilli Kombëtar i Territorit.
+a) Autoriteti përgjegjës për ndërmarrjen dhe hartimin e nismës është ministri që mbulon sektorin, i cili e paraqet atë pranë Këshillit Kombëtar i Territorit dhe Ujit për miratim. Në rast së plani hartohet për të analizuar në formë të integruar disa sektorë, atëherë nisma ndërmerret nga autoriteti përgjegjës për planifikimin e territorit në nivel qendror.
+b) Autoriteti përgjegjës për miratimin e nismës është Këshilli Kombëtar i Territorit dhe Ujit.
 2. Nisma për hartimin e PKS-së përmban:
 a) analizën, e cila përcakton qëllimin dhe nevojën për hartim ose rishqyrtim të dokumentit të planifikimit;
 b) kufijtë e territorit që mbulon dokumenti i planifikimit;
@@ -320,9 +443,9 @@ e) buxhetin për hartimin e PKS-së;
 3. Nisma duhet të bëhet publike dhe të botohet në regjistër nga autoriteti përgjegjës:
 a) Vendimi i autoritetit përgjegjës për marrjen e nismës botohet në regjistër, brenda 10 (dhjetë) ditëve nga data e marrjes së nismës, sipas pikave 1 dhe 4, të nenit 56, të ligjit.
 b) Vendimi i autoritetit përgjegjës për marrjen e nismës botohet edhe në faqen zyrtare të autoritetit.
-4. Hyrja në fuqi e vendimit të KKT-së për miratimin e nismës bëhet pas botimit të vendimit në regjistër nga sekretariati i KKT-së:
-a) Vendimi i KKT-së për miratimin e nismës, së bashku me dokumentin e nismës botohen në regjistër brenda 10 (dhjetë) ditëve nga data e miratimit, sipas pikave 1 dhe 4, të nenit 56, të ligjit.
-b) Vendimi i KKT-së dhe dokumenti i nismës bëhen publike edhe në faqen zyrtare të sekretariatit të KKT-së, autoriteti përgjegjës për planifikimin e territorit në nivel qendror, dhe Agjencisë.
+4. Hyrja në fuqi e vendimit të KKTU -së për miratimin e nismës bëhet pas botimit të vendimit në regjistër nga sekretariati i KKTU -së:
+a) Vendimi i KKTU -së për miratimin e nismës, së bashku me dokumentin e nismës botohen në regjistër brenda 10 (dhjetë) ditëve nga data e miratimit, sipas pikave 1 dhe 4, të nenit 56, të ligjit.
+b) Vendimi i KKTU -së dhe dokumenti i nismës bëhen publike edhe në faqen zyrtare të sekretariatit të KKTU -së, autoriteti përgjegjës për planifikimin e territorit në nivel qendror, dhe Agjencisë.
 Neni 26
 Përmbajtja e PKS-së
 Plani Kombëtar Sektorial përmban të paktën këto dokumente:
@@ -385,10 +508,10 @@ Miratimi i PKS-së
 1. Procesi i miratimit të Planit Kombëtar Sektorial (PKS) bëhet në përputhje me përcaktimet e nenit 25 të ligjit.
 2. Procesi i miratimit të planit përmban të paktën këta hapa:
 a) lëshimin e aktit të përputhshmërisë nga Agjencia;
-b) kërkesën e autoritetit përgjegjës për shqyrtim dhe miratim të planit në KKT;
-c) vendimmarrjen e KKT-së.
+b) kërkesën e autoritetit përgjegjës për shqyrtim dhe miratim të planit në KKTU;
+c) vendimmarrjen e KKTU -së.
 3. Materialet që dorëzohen/botohen për miratimin e dokumentit të planifikimit janë:
-a) nisma e miratuar në KKT;
+a) nisma e miratuar në KKTU;
 b) dokumenti i PKS-së i plotë;
 c) akti i përputhshmërisë nga Agjencia ose deklarata e përputhshmërisë në heshtje;
 ç) deklarata mjedisore për Vlerësimin Strategjik Mjedisor referuar legjislacionit të posaçëm në fuqi.
@@ -401,12 +524,12 @@ c) Agjencia e përsërit procesin e shqyrtimit të përputhshmërisë së dokume
 6. Rishikimi/përmirësimi i dokumentit dhe reflektimi i vërejtjeve të Agjencisë realizohet sipas këtyre përcaktimeve:
 a) Pas botimit në regjistër të raportit të vlerësimit teknik të PKS-së nga Agjencia, autoriteti përgjegjës duhet të rishikojë/të përmirësojë dokumentin e planit për të reflektuar vërejtjet dhe sugjerimet, nëse ka të tilla.
 b) Në përfundim të rishikimit/përmirësimit, autoriteti përgjegjës riboton dokumentin e plotë të planit me vërejtjet dhe sugjerimet e reflektuara, shoqëruar me raportin e ndryshimeve.
-7. Pas botimit në regjistër të materialeve të plota të PKS-së, sipas pikës 3, të këtij neni, autoriteti përgjegjës bën kërkesën për shqyrtimin dhe miratimin e dokumentit të planifikimit në KKT.
-8. Plani Kombëtar Sektorial (PKS) miratohet nga KKT-ja në përputhje me shkronjën “b”, të nenit 7, të ligjit. Baza e gjykimit për vendimmarrjen mbi miratimin e PKS-së përbëhet nga dokumentet e pikës 3, të këtij neni.
+7. Pas botimit në regjistër të materialeve të plota të PKS-së, sipas pikës 3, të këtij neni, autoriteti përgjegjës bën kërkesën për shqyrtimin dhe miratimin e dokumentit të planifikimit në KKTU.
+8. Plani Kombëtar Sektorial (PKS) miratohet nga KKTU -ja në përputhje me shkronjën “b”, të nenit 7, të ligjit. Baza e gjykimit për vendimmarrjen mbi miratimin e PKS-së përbëhet nga dokumentet e pikës 3, të këtij neni.
 Neni 28
 Hyrja në fuqi e PKS-së
-1. Dokumenti i Planit Kombëtar Sektorial (PKS) hyn në fuqi me botimin e plotë në regjistër të vendimit të KKT-së dhe dokumenteve shoqëruese të tij, në përputhje me pikën 2, të nenit 56, të ligjit.
-2. Vendimi i KKT-së botohet në regjistër dhe në çdo rast edhe në faqen zyrtare të sekretariatit të KKT-së, autoriteti përgjegjës për planifikimin e territorit në nivel qendror dhe Agjencisë, brenda 15 (pesëmbëdhjetë) ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 25, të ligjit.
+1. Dokumenti i Planit Kombëtar Sektorial (PKS) hyn në fuqi me botimin e plotë në regjistër të vendimit të KKTU -së dhe dokumenteve shoqëruese të tij, në përputhje me pikën 2, të nenit 56, të ligjit.
+2. Vendimi i KKTU -së botohet në regjistër dhe në çdo rast edhe në faqen zyrtare të sekretariatit të KKTU -së, autoriteti përgjegjës për planifikimin e territorit në nivel qendror dhe Agjencisë, brenda 15 (pesëmbëdhjetë) ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 25, të ligjit.
 Neni 29
 Zbatimi dhe monitorimi i zbatimit të PKS-së
 1. Monitorimi i zbatimit të PKS-së bëhet nga autoriteti përgjegjës për hartimin e planit, në përputhje me pikën 1, shkronjat “c”, e “g” të nenit 10, të ligjit, si dhe nga Agjencia, në përputhje me pikën 2, të nenit 10, të kësaj rregulloreje.
@@ -430,12 +553,12 @@ f) infrastrukturat inxhinierike të energjisë dhe telekomunikacionit;
 g) zonat që kanë përparësi zhvillimin e turizmit;
 gj) zonat ushtarake;
 h) zhvillime ose struktura arsimore, shëndetësore, sociale, kulturore e artistike, sportive, të cilat, për shkak të veçorive të tyre, janë të rëndësishme për kryerjen e veprimtarisë së institucioneve shtetërore, sikurse përcaktohet me ligj.
-3. Çështjet, zonat dhe objektet e rëndësisë kombëtare përfshijnë ato të shpallura me vendim të Këshillit të Ministrave, si dhe Këshillit Kombëtar të Territorit, sipas legjislacionit sektorial në fuqi për mjedisin, kulturën, ekonominë, turizmin, infrastrukturën, planifi-kimin/zhvillimin urban etj.
+3. Çështjet, zonat dhe objektet e rëndësisë kombëtare përfshijnë ato të shpallura me vendim të Këshillit të Ministrave, si dhe Këshillit Kombëtar të Territorit dhe Ujit, sipas legjislacionit sektorial në fuqi për mjedisin, kulturën, ekonominë, turizmin, infrastrukturën, planifikimin/zhvillimin urban etj.
 Neni 31
 Përcaktimi i çështjes, zonës dhe objektit të rëndësisë kombëtare
-1. Agjencia, kryesisht ose me kërkesë të një ministrie apo të një organi tjetër qendror ose vendor, ndërmerr nismën dhe i propozon për miratim KKT-së përcaktimin e një çështjeje, zone ose objekti si të rëndësisë kombëtare në planifikim.
+1. Agjencia, kryesisht ose me kërkesë të një ministrie apo të një organi tjetër qendror ose vendor, ndërmerr nismën dhe i propozon për miratim KKTU -së përcaktimin e një çështjeje, zone ose objekti si të rëndësisë kombëtare në planifikim.
 2. Çështjet, zonat dhe objektet e rëndësisë kombëtare propozohen edhe gjatë procesit të hartimit të Planit të Përgjithshëm Kombëtar të Territorit dhe planeve kombëtare sektoriale.
-3. KKT-ja miraton një çështje, zonë apo objekt si të rëndësisë kombëtare, si pjesë e Planit të Përgjithshëm Kombëtar të Territorit, planeve kombëtare sektoriale, ose përmes një procesi të veçantë me propozim të Agjencisë Kombëtare të Planifikimit të Territorit.
+3. KKTU -ja miraton një çështje, zonë apo objekt si të rëndësisë kombëtare, si pjesë e Planit të Përgjithshëm Kombëtar të Territorit, planeve kombëtare sektoriale, ose përmes një procesi të veçantë me propozim të Agjencisë Kombëtare të Planifikimit të Territorit.
 4. Kur miratimi sipas pikës 3, të këtij neni, kryhet përmes një procesi të veçantë, projektakti për miratimin e nismës përmban:
 a) llojin dhe veçoritë e çështjes, të zonës ose objektit të rëndësisë kombëtare;
 b) kufijtë apo vendndodhjen në territor, sipas rastit;
@@ -444,8 +567,8 @@ c) referencën në legjislacionin e posaçëm dhe/ose në dokumentet e planifiki
 d) propozimin për pezullimin e zhvillimit, sipas ligjit, nëse është i nevojshëm;
 dh) përcaktimin e detyrimit për hartimin e Planit të Detajuar për Zonën e Rëndësisë Kombëtare, sipas rastit;
 e) përcaktimin e autoritetit përgjegjës për hartimin e Planit të Detajuar për Zonën e Rëndësisë Kombëtare, sipas rastit.
-5. Vendimi i KKT-së së bashku me dokume-ntacionin e plotë shoqërues botohen në regjistër dhe, në çdo rast, në faqen zyrtare të sekretariatit të KKT-së, brenda 10 (dhjetë) ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 56, të ligjit.
-6. Kur në planet kombëtare apo në vendimin e KKT-së përcaktohet detyrimi për hartimin e Planit të Detajuar për Zonën e Rëndësisë Kombëtare, autoriteti përgjegjës për çështjen duhet të ndërmarrë hapat për hartimin e tij.
+5. Vendimi i KKTU -së së bashku me dokume-ntacionin e plotë shoqërues botohen në regjistër dhe, në çdo rast, në faqen zyrtare të sekretariatit të KKTU -së, brenda 10 (dhjetë) ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 56, të ligjit.
+6. Kur në planet kombëtare apo në vendimin e KKTU -së përcaktohet detyrimi për hartimin e Planit të Detajuar për Zonën e Rëndësisë Kombëtare, autoriteti përgjegjës për çështjen duhet të ndërmarrë hapat për hartimin e tij.
 7. Struktura dhe forma, si dhe procesi për nismën, hartimin dhe miratimin e Planit të Detajuar për një Zonë të Rëndësisë Kombëtare përcaktohen në këtë rregullore, ndërsa zbatimi i PDZRK-së nëpërmjet instrumenteve të zhvillimit dhe lejeve të ndërtimit përcaktohen në rregulloren e zhvillimit sipas përcaktimeve të pikës 5, neni 18, të ligjit.
 Neni 32
 Zhvillimi i zonave të rëndësisë kombëtare në planifikim
@@ -470,23 +593,25 @@ Neni 34
 Aktorët në hartimin e PDZRK-së
 1. PDZRK-ja hartohet me iniciativë të një autoriteti publik apo me kërkesë të çdo pale të interesuar.
 2. Procesi i hartimit të PDZRK-së kërkon bashkërendimin e disa sektorëve dhe si i tillë duhet të koordinohet nga autoriteti përgjegjës për planifikimin e territorit në nivel qendror dhe Agjencia përgjegjëse për planifikimin e territorit.
-3. Koordinimi realizohet nëpërmjet një grupi pune ndërinstitucional, bazuar në urdhrin e ministrit të linjës për zonën/çështjen e rëndësisë kombëtare ose të autoritetit përgjegjës për planifikimin e territorit në nivel qendror, në rastet e përfshirjes së disa sektorëve.
+3. Në rast se PDZRK-ja hartohet me nismë publike, koordinimi dhe hartimi realizohen nëpërmjet një grupi pune ndërinstitucional, bazuar në urdhrin e ministrit të linjës për zonën/çështjen e rëndësisë kombëtare ose bazuar në urdhrin e autoritetit përgjegjës për planifikimin e territorit në nivel qendror, në rastet e përfshirjes së disa sektorëve ose nga Agjencia Kombëtare e Planifikimit të Territorit me kërkesë të ministrisë së linjës për zonën/çështjen e rëndësisë kombëtare.
+3.1 Në rast se PDZRK-ja hartohet me nismë private, koordinimi realizohet nga Agjencia Kombëtare e Planifikimit të Territorit pas njoftimit të ministrisë së linjës për zonën/çështjen e rëndësisë kombëtare.
 4. Plani i Detajuar për një Zonë të Rëndësisë Kombëtare (PDZRK) hartohet nga grupe pune me specialistë të institucioneve publike, me ekspertë të licencuar të fushave të ndryshme, vendës apo edhe të huaj, të kontraktuar nga autoriteti publik iniciues apo subjekti privat, të udhëhequr në secilin rast nga ministri përgjegjës për zonën/çështjen e rëndësisë kombëtare ose autoriteti përgjegjës për planifikimin e territorit në nivel qendror në rastet e përfshirjes së disa sektorëve.
 Neni 35
 Hartimi, bashkërendimi dhe këshillimi i PDZRK-së
-1. Hartimi i PDZRK-së nis me miratimin e nismës nga KKT-ja dhe botimin e vendimit të saj në RKPT, ku shprehet dakordësia me krijimin e mundësisë për zhvillim të zonës së rëndësisë kombëtare apo pjesës së saj.
+1. Hartimi i PDZRK-së nis pas njoftimit të dokumentit të nismës së hartuar nga Agjencia Kombëtare e Planifikimit të Territorit te ministri përgjegjës për çështjen/zonën e rëndësisë kombëtare dhe botimit të dokumentit në regjistër.
+1.1. Plani i Detajuar për një Zonë të Rëndësisë Kombëtare (PDZRK), i iniciuar me nismë private, hartohet nga projektuesi i licencuar, i cili është i kontraktuar nga subjekti privat.
 2. Plani i Detajuar për një Zonë të Rëndësisë Kombëtare (PDZRK) mund të hartohet në 1-3 faza, të paracaktuara në dokumentin e nismës.
-3. Në përfundim të secilës fazë, autoriteti përgjegjës për hartimin e PDZRK-së boton materialin e përgatitur në Regjistrin Kombëtar të Planifikimit të Territorit, për të cilin Agjencia duhet të kryejë një vlerësim teknik dhe të japë konfirmimin për kalimin në fazën pasardhëse.
+3. Në përfundim të secilës fazë, autoriteti përgjegjës/projektuesi i licencuar për hartimin e PDZRK-së boton materialin e përgatitur në Regjistrin Kombëtar të Planifikimit të Territorit, për të cilin Agjencia duhet të kryejë një vlerësim teknik dhe të japë konfirmimin për kalimin në fazën pasardhëse.
 4. PDZRK-ja hartohet në zbatim të parimeve kombëtare të planifikimit dhe të zhvillimit dhe në funksion të zhvillimit të qëndrueshëm të territorit, si dhe në zbatim të planeve sipas hierarkisë së planifikimit, të gjithë legjislacionit dhe rregulloreve në fuqi.
-5. Dokumentet e PDZRK-së për secilën fazë këshillohen dhe bashkërendohen me të gjitha institucionet në nivel qendror e vendor, të cilat preken nga zhvillimi i territorit të zonës së rëndësisë kombëtare ose pjesë të saj, nëpërmjet Regjistrit Kombëtar të Planifikimit të Territorit.
+5. Dokumentet e PDZRK-së për secilën fazë këshillohen dhe bashkërendohen me të gjitha institucionet në nivel qendror e vendor, të cilat preken nga zhvillimi i territorit të zonës së rëndësisë kombëtare ose pjesë të saj, nëpërmjet sistemit e-Planifikimi ose mjeteve tradicionale të informimit.
 6. Bashkërendimi i PDZRK-së kryhet nëpërmjet Forumit të Bashkërendimit të Planifikimit në nivel qendror (FBPQ), sipas përcaktimeve të neneve 5 dhe 7 të kësaj rregulloreje.
 7. Këshillimi i PDZRK-së kryhet përmes botimit të dokumentit në regjistër, informimit të palëve të interesuara nëpërmjet një a më shumë mjeteve tradicionale të informimit dhe organizimit të takimeve publike me to, në rast se kërkohet.
 Neni 36
 Nisma për hartimin e PDZRK-së
 1. Procesit të punës për PDZRK-në i paraprin ndërmarrja e nismës për hartimin e tij.
-a) Autoriteti përgjegjës për ndërmarrjen e nismës, sipas pikës 2, të nenit 18, të ligjit, është ministri përgjegjës për zonën/çështjen përkatëse të rëndësisë kombëtare ose autoriteti përgjegjës për planifikimin e territorit në nivel qendror, në rastet e përfshirjes së disa sektorëve.
-b) Autoriteti përgjegjës për miratimin e nismës është Këshilli Kombëtar i Territorit.
-2. Dokumenti i nismës hartohet nga Agjencia Kombëtare e Planifikimit të Territorit, në bashkëpunim me ministrinë përgjegjëse për zonën e rëndësisë kombëtare dhe aktorët iniciues.
+a) Autoriteti përgjegjës për ndërmarrjen e nismës, sipas pikës 2, të nenit 18, të ligjit, është ministri përgjegjës për zonën/çështjen përkatëse të rëndësisë kombëtare ose autoriteti përgjegjës për planifikimin e territorit në nivel qendror, në rastet e përfshirjes së disa sektorëve, Agjencia Kombëtare e Planifikimit të Territorit pas kërkesës së ministrisë ose palët e interesuara që kanë në pronësi jo më pak se 51% të sipërfaqes së territorit të PDZRK-së, në rastet kur hartimi i PDZRK-së kërkohet në Planin e Përgjithshëm Vendor.
+b) Shfuqizuar.
+2. Dokumenti i nismës hartohet nga Agjencia Kombëtare e Planifikimit të Territorit, në bashkëpunim me ministrinë përgjegjëse për zonën e rëndësisë kombëtare dhe aktorët iniciues. Në rast se PDZRK-ja hartohet me nismë private, dokumenti hartohet nga subjekti i licencuar dhe i autorizuar nga palët e interesuara që kanë në pronësi jo më pak se 51% të sipërfaqes së territorit të PDZRK-së dhe që duhet të plotësojë deklaratën e përgjegjësisë profesionale.
 3. Dokumenti i nismës për hartimin e PDZRK-së përcakton detyrat specifike të hartimit të PDZRK-së dhe përmban:
 a) kufijtë territorialë të PDZRK-së;
 b) qëllimin dhe nevojën për hartimin e PDZRK-së;
@@ -497,13 +622,9 @@ dh) ekspertët (fushat e ekspertizës) që do të përbëjnë grupin e punës q�
 e) planin e veprimeve për hartimin, bashkërendimin dhe këshillimin e dokumenteve të PDZRK-së;
 ë) buxhetin për hartimin e PDZRK-së;
 f) sipas rastit, vendimin për pezullimin e zhvillimit për të gjithë ose një pjesë të territorit, sipas nenit 33, të ligjit, të shoqëruar me hartën përkatëse.
-4. Nisma duhet të bëhet publike dhe të botohet në regjistër nga autoriteti përgjegjës:
-a) Vendimi i autoritetit përgjegjës për marrjen e nismës botohet në regjistër, brenda 10 (dhjetë) ditëve nga data e marrjes së nismës, sipas pikave 1 dhe 4, të nenit 56, të ligjit.
-b) Vendimi i autoritetit përgjegjës për marrjen e nismës botohet edhe në faqen zyrtare të tij.
-5. Hyrja në fuqi e vendimit të KKT-së për miratimin e nismës bëhet pas botimit të vendimit në regjistër nga sekretariati i KKT-së:
-a) Vendimi i KKT-së për miratimin e nismës, së bashku me dokumentin e nismës botohen në regjistër brenda 10 (dhjetë) ditëve nga data e miratimit, sipas pikave 1 dhe 4, të nenit 56, të ligjit.
-b) Vendimi i KKT-së dhe dokumenti i nismës bëhen publike edhe në faqen zyrtare të Sekretariatit të KKT-së, autoritetit përgjegjës dhe Agjencisë.
-6. Zbatimi i nismës së miratuar nga KKT-ja bëhet nëpërmjet ngritjes së grupit të punës dhe hartimit të PDZRK-së, sipas përcaktimeve të saj.
+4. Dokumenti i nismës i njoftohet ministrit përgjegjës për zonën/çështjen përkatëse të rëndësisë kombëtare dhe KKTU-së. Dokumenti duhet të bëhet publik dhe të botohet në regjistër dhe në faqen zyrtare nga autoriteti përgjegjës.
+5. Shfuqizuar.
+6. Shfuqizuar.
 Neni 37
 Fazat e hartimit të PDZRK-së
 1. Dokumenti i Planit të Detajuar për një Zonë të Rëndësisë Kombëtare (PDZRK) bazohet në dokumentet kombëtare të planifikimit dhe legjislacionin në fuqi.
@@ -583,37 +704,107 @@ Neni 39
 Miratimi i PDZRK-së
 1. Procesi i miratimit të planit të detajuar për një zonë të rëndësisë kombëtare (PDZRK) bëhet në përputhje me përcaktimet e nenit 25 të ligjit.
 2. Procesi i miratimit të planit përmban, të paktën, këta hapa:
-a) Lëshimin e aktit të përputhshmërisë nga Agjencia;
-b) Kërkesën e autoritetit përgjegjës për shqyrtim dhe miratim të dokumentit të planifikimit në KKT;
-c) Vendimmarrjen e KKT-së.
+a) Lëshimin e aktit të përputhshmërisë nga Agjencia, në rastet kur dokumenti i PDZRK-së nuk hartohet prej saj;
+b) Kërkesën e autoritetit përgjegjës për shqyrtim dhe miratim të dokumentit të planifikimit në KKTU;
+c) Vendimmarrjen e KKTU -së.
 3. Materialet që dorëzohen/botohen për miratimin e dokumentit të planifikimit janë:
-a) Nisma e miratuar nga autoriteti përgjegjës;
+a) Dokumenti i nismës;
 b) Dokumentet e PDZRK-së sipas përcaktimeve të nismës;
 c) Akti i përputhshmërisë nga Agjencia ose deklarata e përputhshmërisë në heshtje;
 ç) Deklarata mjedisore, sipas legjislacionit të posaçëm në fuqi, sipas rastit/përcaktimeve të dokumentit të nismës.
-4. Pas botimit në regjistër të dokumenteve të plota të PDZRK-së, sipas përcaktimeve të dokumentit të nismës, autoriteti përgjegjës bën kërkesën për marrjen e aktit të përputhshmërisë së dokumentit nga Agjencia.
+4. Pas botimit në regjistër të dokumenteve të plota të PDZRK-së, sipas përcaktimeve të dokumentit të nismës, autoriteti përgjegjës ose subjekti i interesuar, nëpërmjet projektuesit të licencuar, në rast se PDZRK- ja është me nismë private, bën kërkesën për marrjen e aktit të përputhshmërisë së dokumentit nga Agjencia.
 5. Shqyrtimi i dokumentit të planit realizohet sipas këtyre përcaktimeve:
 a) Agjencia shqyrton përputhshmërinë e dokumentacionit të planit të detajuar për zonën e rëndësisë kombëtare brenda 30 (tridhjetë) ditëve nga data e paraqitjes për shqyrtim të dokumentacionit të plotë.
 b) Në përfundim të periudhës 30-ditore të shqyrtimit të përputhshmërisë së dokumentacionit, Agjencia boton në regjistër raportin e vlerësimit teknik të PDZRK-së, si edhe aktin e përputhshmërisë, sipas rastit.
 c) Agjencia e përsërit procesin e shqyrtimit të përputhshmërisë së dokumentit të planit dhe hartimin e raportit të vlerësimit teknik, në rast se dokumenti i planit rishikohet/përmirësohet nga autoriteti përgjegjës, deri në arritjen e përputhshmërisë.
 ç) Në rast të moszbatimit të afateve të sipërpërmendura, autoriteti kërkues njofton Agjencinë për mosrespektimin e afatit dhe lëshohet deklarata e përputhshmërisë në heshtje.
 6. Rishikimi/përmirësimi i dokumentit dhe reflektimi i vërejtjeve të Agjencisë realizohet sipas këtyre përcaktimeve:
-a) Pas botimit në regjistër të raportit të vlerësimit teknik të PDZRK-së, Agjencia, autoriteti përgjegjës duhet të rishikojë/të përmirësojë dokumentin e planit për të reflektuar vërejtjet dhe sugjerimet, nëse ka të tilla.
+a) Pas botimit në regjistër të raportit të vlerësimit teknik të PDZRK-së, Agjencia, autoriteti përgjegjës ose projektuesi i licencuar duhet të rishikojë/të përmirësojë dokumentin e planit për të pasqyruar vërejtjet dhe sugjerimet, nëse ka të tilla.
 b) Autoriteti përgjegjës riboton dokumentin e plotë të planit me vërejtjet dhe sugjerimet e reflektuara, shoqëruar me raportin e ndryshimeve.
-7. Pas botimit në regjistër të materialit të plotë të PDZRK-së, sipas përcaktimeve të pikës 3, të këtij neni, autoriteti përgjegjës bën kërkesën për shqyrtimin dhe miratimin e dokumentit të planifikimit në KKT.
-8. Plani i Detajuar për një Zonë të Rëndësisë Kombëtare (PDZRK) miratohet nga KKT-ja në përputhje me pikën 4, të nenit 18 të ligjit. Baza e gjykimit për vendimmarrjen mbi miratimin e PDZRK-së përbëhet nga dokumentet e listuara në pikën 3 të këtij neni.
+7. Pas botimit në regjistër të materialit të plotë të PDZRK-së, sipas përcaktimeve të pikës 3, të këtij neni, autoriteti përgjegjës bën kërkesën për shqyrtimin dhe miratimin e dokumentit të planifikimit në KKTU.
+8. Plani i Detajuar për një Zonë të Rëndësisë Kombëtare (PDZRK) miratohet nga KKTU -ja në përputhje me pikën 4, të nenit 18 të ligjit. Baza e gjykimit për vendimmarrjen mbi miratimin e PDZRK-së përbëhet nga dokumentet e listuara në pikën 3 të këtij neni.
 Neni 40
 Hyrja në fuqi e PDZRK-së
-1. Dokumenti i planit të detajuar për një zonë të rëndësisë kombëtare (PDZRK) hyn në fuqi me botimin e plotë në regjistër të vendimit të KKT-së dhe dokumenteve shoqëruese të tij, në përputhje me pikën 2, të nenit 56, të ligjit.
-2. Vendimi i KKT-së botohet në regjistër dhe, në çdo rast, edhe në faqen zyrtare të sekretariatit të KKT-së, autoritetit përgjegjës dhe Agjencisë, brenda 15 (pesëmbëdhjetë) ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 25, të ligjit.
+1. Dokumenti i planit të detajuar për një zonë të rëndësisë kombëtare (PDZRK) hyn në fuqi me botimin e plotë në regjistër të vendimit të KKTU -së dhe dokumenteve shoqëruese të tij, në përputhje me pikën 2, të nenit 56, të ligjit.
+2. Vendimi i KKTU -së botohet në regjistër dhe, në çdo rast, edhe në faqen zyrtare të sekretariatit të KKTU -së, autoritetit përgjegjës dhe Agjencisë, brenda 15 (pesëmbëdhjetë) ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 25, të ligjit.
 Neni 41
 Zbatimi dhe monitorimi i zbatimit të PDZRK-së
 1. Plani i detajuar për një Zonë të Rëndësisë Kombëtare zbatohet nëpërmjet lejeve të ndërtimit, sipas planit të veprimeve dhe rregullores së këtij plani.
 2. Subjektet që përfitojnë të drejta zhvillimi bazuar në PDZRK-në e miratuar, mbi bazën e një kërkese pajisen me leje zhvillimi, në kuptimin e nenit 38 të ligjit.
 3. PDZRK-ja regjistrohet në regjistrin e pasurive të paluajtshme, si bazë për kryerjen e transaksioneve me pronën. Parcelat e reja që krijohen nga nënndarja dhe/ose bashkimi i parcelave ekzistuese janë objekt transaksioni vetëm pasi të jenë regjistruar në regjistrin e pasurive të paluajtshme, me kërkesë të zhvilluesit.
-4. Lejet e ndërtimit për ndërtime brenda zonës, për të cilën është hartuar PDZRK-ja, jepen mbi bazën e këtij plani nga autoriteti përgjegjës, Këshilli Kombëtar i Territorit apo autoriteti vendor në rast delegimi kompetencash, në përputhje me shkronjën “a”, të nenit 29, të ligjit, dhe përcaktimeve të rregullores së zhvillimit, në zbatim të ligjit.
+4. Lejet e ndërtimit për ndërtime brenda zonës, për të cilën është hartuar PDZRK-ja, jepen mbi bazën e këtij plani nga autoriteti përgjegjës, Këshilli Kombëtar i Territorit dhe Ujit, apo autoriteti vendor në rast delegimi kompetencash, në përputhje me shkronjën “a”, të nenit 29, të ligjit, dhe përcaktimeve të rregullores së zhvillimit, në zbatim të ligjit.
 5. Monitorimi i zbatimit të PDZRK-së bëhet nga autoriteti përgjegjës për hartimin e planit, në përputhje me shkronjën “a”, të pikës 1, të nenit 10, të ligjit, si dhe nga Agjencia, në përputhje me pikën 2, të nenit 10, të kësaj rregulloreje.
 6. Monitorimi i zbatimit të planit bëhet mbi bazën e planit të veprimeve dhe dokumentit të indikatorëve të monitorimit, të miratuar si pjesë përbërëse e dokumentit të planit, duke vlerësuar periodikisht programet buxhetore afatmesme dhe realizimin e investimeve të parashikuara.
+SEKSIONI 5/1
+PLANI I DETAJUAR QENDROR
+Neni 41/1
+Objekti dhe qëllimi i PDQ-së
+1. Plani i Detajuar Qendror është studim hapësinor territorial për një territor të caktuar në përgjegjësi të Këshillit Kombëtar të Territorit dhe Ujit, me ndikim dhe interes të veçantë për zhvillime me rëndësi kombëtare apo strategjike.
+2. PDQ-ja trajton territore të cilat kanë nevojë për studime dhe planifikime më të zgjeruara, kur nevojitet menaxhimi i integruar i disa zhvillimeve në territor, në funksion të një vizioni të përbashkët zhvillimi.
+3. Plani i Detajuar Qendror ka për qëllim krijimin e bazave për zhvillimin e kontrolluar të territorit për të cilin hartohet, si krijimin e bazave për zhvillimin e vendbanimeve, infrastrukturës, turizmit, industrisë etj.
+4. Për territorin, subjekt të tij, PDQ-ja ka për qëllim:
+a) zhvillimin dhe/ose rizhvillimin e territorit;
+b) rigjenerimin/ripërtëritjen urbane apo natyrore;
+c) përcaktimin e përdorimit të tokës, infrastrukturave, kushteve të zhvillimit dhe rregullave të nevojshme për zhvillim/rizhvillim.
+5. Struktura, forma, si dhe procesi për hartimin dhe miratimin e PDQ-së përcaktohen në këtë rregullore, ndërsa zbatimi i PDQ-së përcaktohet nëpërmjet instrumenteve të zhvillimit dhe lejeve të ndërtimit të detajuara në rregulloren e zhvillimit që jepet nga KKTU-ja mbi bazën e këtij dokumenti planifikimi.
+6. PDQ-ja teksa hartohet e zbatohet, duhet të ndjekë parimet e planifikimit si një proces pune në vazhdimësi.
+7. Parashikimet e PDQ-së pasqyrohen automatikisht në dokumentet e tjera të planifikimit, sipas parimit të hierarkisë dhe parashikimet e tij integrohen automatikisht në PDZRK-të në fuqi.
+Neni 41/2
+Autoriteti përgjegjës për PDQ-në
+1. Plani i Detajuar Qendror fillon të hartohet pas njoftimit të KKTU-së, nisur nga interesi publik për pajisje me infrastrukturë, shërbime e facilitete publike dhe menaxhimi i integruar i disa zhvillimeve në territor, në funksion të një vizioni të përbashkët zhvillimi, për të cilin mund të shprehen me kërkesë edhe palët e interesuara për zhvillim.
+2. Agjencia Kombëtare e Planifikimit të Territorit harton PDQ-në në bashkëpunim me ministrinë përgjegjëse për çështjen/sektorin përkatës, sekretariatin teknik të KKTU-së, apo institucione të tjera qendrore, kompetente për çështjen/zonën.
+3. Plani i Detajuar Qendror hartohet nga grupe pune të kryesuara nga Agjencia, me specialistë të institucioneve publike, me ekspertë të fushave të ndryshme, vendës apo edhe të huaj.
+4. Në rast hartimi nga grupe pune me ekspertë të jashtëm, procesi mbikëqyret në çdo hap nga Agjencia Kombëtare e Planifikimit të Territorit.
+Neni 41/3
+Hartimi, këshillimi dhe bashkërendimi i PDQ-së
+1. Fillimisht KKTU-ja njoftohet për nisjen e hartimit e PDQ-së.
+2. Njoftimi për nisjen e hartimit të PDQ-së përmban:
+a) kufijtë e territorit për të cilin do të hartohet PDQ-ja;
+b) kalendarin e aktiviteteve për hartimin e PDQ-së;
+c) profilet e ekspertizës së grupit të punës.
+3. PDQ-ja hartohet në zbatim të parimeve kombëtare të planifikimit dhe të zhvillimit, ligjit dhe akteve nënligjore të nxjerra në zbatim të tij, në funksion të zhvillimit të qëndrueshëm të territorit.
+4. Bashkërendimi dhe këshillimi i PDQ-së është përgjegjësi e Agjencisë dhe kryhet përmes botimit të dokumentit në regjistër dhe informimit të palëve të interesuara dhe publikut nëpërmjet një a më shumë mjeteve tradicionale të informimit dhe, në rast se kërkohet, përmes organizimit të takimeve publike me ta.
+5. Dokumentet e PDQ-së këshillohen dhe bashkërendohen me të gjitha institucionet në nivel qendror e vendor, të cilat preken nga zhvillimi i territorit të zonës së përcaktuar për hartimin e PDQ-së ose pjesë të saj nëpërmjet Forumit të Bashkërendimit të Planifikimit në nivel qendror (FBPQ), sipas përcaktimeve të nenit 5, të kësaj rregulloreje.
+6. Në çdo rast, autoritetet vendore përkatëse të planifikimit dhe zhvillimit njoftohen për nisjen e procesit të hartimit të PDQ-së, për të marrë masa për respektimin e pezullimit së zhvillimit.
+Neni 41/4
+Përmbajtja e PDQ-së
+1. Dokumenti i Planit të Detajuar Qendror hartohet në përputhje me dokumentet e planifikimit qendror dhe legjislacionin në fuqi, duke marrë në konsideratë dokumente të planifikimit vendor sektorial, në rast se ka.
+2. Plani i Detajuar Qendror përmban të paktën:
+a) Planin e detajuar të zhvillimit, i shprehur në relacion dhe harta shoqëruese për pikat e mëposhtme:
+i. analizën që paraprin përcaktimet territoriale;
+ii. përcaktimin e njësive strukturore, në përputhje me nenin 77 të kësaj rregulloreje;
+iii. përcaktimet për përdorimin e tokës për çdo njësi në kategori, nënkategori dhe funksione sipas kësaj rregulloreje;
+iv. përcaktimet e infrastrukturave teknike, duke përfshirë ato të transportit, energjisë, telekomunikacionit dhe ujësjellës-kanalizimeve;
+v. përcaktimet e kushteve të zhvillimit për njësitë, sipas rastit dhe/ose për parcelat;
+vi. përcaktimet për zonat/objektet e mbrojtura të trashëgimisë kulturore, bazuar në legjislacionin përkatës në fuqi, sipas rastit;
+vii. programet e përdorimit të instrumenteve të drejtimit të zhvillimit, bazuar në nenet 30-36 të ligjit, sipas rastit;
+viii. planin për zbatimin e PDQ-së për ndërtimin e infrastrukturave dhe shërbimeve publike, sipas rastit.
+b) Rregulloren e planit të detajuar, ku përfshihen:
+i. përkufizimet e termave të përdorur;
+ii. shpjegimi i kodeve të përdorura;
+iii. rregullat, të dhënat dhe kushtet e zhvillimit për çdo njësi, sipas shtojcës II në fund të kësaj rregulloreje;
+iv. rregulla për ndarjen dhe bashkimin e parcelave, sipas rastit;
+v. rregulla për zbatimin e instrumenteve për drejtimin e zhvillimit sipas neneve 30-36 të ligjit, sipas rastit;
+vi. kushtet dhe rregullat teknike për zbatimin e infrastrukturave;
+vii. rregullat për distancat, përcaktimi i vijës së kuqe dhe, sipas rastit, vijës blu;
+viii. rregullat e mbrojtjes së mjedisit dhe peizazhit;
+ix. rregullat e ruajtjes së zonave, objekteve të trashëgimisë kulturore, sipas rastit;
+x. rregulla arkitektonike dhe estetike;
+xi. rregulla për përshtatjen e hapësirave për personat me aftësi të kufizuara;
+xii. informacionin gjeohapësinor të integruar në platformën GIS;
+xiii. Raportin se si parashikimet e dokumentit ndikojnë në mjedis.
+Neni 41/5
+Miratimi dhe hyrja në fuqi e PDQ-së
+1. Autoriteti përgjegjës për miratimin e PDQ-së është Këshilli Kombëtar i Territorit dhe Ujit.
+2. Procesi i miratimit të PDQ-së bëhet në përputhje me përcaktimet e neneve 18/1 dhe 25 të ligjit.
+3. Vendimi i KKTU-së së bashku me dokumentacionin e plotë shoqërues botohet në regjistër dhe, në çdo rast, në faqen zyrtare të sekretariatit të KKTU-së dhe autoritetit përgjegjës për planifikimin, brenda 15 ditëve nga data e konfirmimit, në përputhje me pikën 4, të nenit 25 të ligjit.
+4. Dokumenti i PDQ-së dhe pjesët përbërëse të tij, subjekt miratimi, hyjnë në fuqi me botimin e plotë në regjistër të vendimit të KKTU-së dhe dokumenteve shoqëruese të tij, në përputhje me pikën 2, të nenit 56 të ligjit.
+5. Me hyrjen në fuqi të PDQ-së, njësitë e vetëqeverisjes vendore marrin masa që dokumenti i PDQ-së të integrohet me planin e përgjithshëm vendor, duke ndjekur përcaktimet e kësaj rregulloreje.
+Neni 41/6
+Zbatimi i PDQ-së
+1. Plani i Detajuar Qendror zbatohet nëpërmjet lejeve të zhvillimit dhe lejeve të ndërtimit, në zbatim të rregullores së tij.
+2. Plani i Detajuar Qendror regjistrohet në regjistrin e pasurive të paluajtshme, si dhe shërben për ndarjen apo bashkimin e pasurive ekzistuese, si bazë për kryerjen e transaksioneve me pronën. Parcelat e reja që krijohen nga nënndarja dhe/ose bashkimi i parcelave ekzistuese janë objekt transaksioni, me kërkesë të zhvilluesit.
+3. Lejet e ndërtimit, për ndërtime brenda zonës, për të cilën është hartuar PDQ-ja, jepen mbi bazën e këtij plani nga autoriteti përgjegjës, Këshilli Kombëtar i Territorit dhe i Ujit apo autoriteti vendor në rast delegimi kompetencash, në përputhje me shkronjën “a”, të nenit 29, të ligjit, dhe përcaktimeve të rregullores së zhvillimit, në zbatim të ligjit.
 SEKSIONI 6
 PLANI SEKTORIAL NË NIVEL QARKU
 Neni 42
@@ -659,7 +850,7 @@ Nisma për hartimin e PSNQ-së
 2. Ndërmarrja e nismës kryhet sipas përcaktimeve të mëposhtme:
 a) Autoriteti përgjegjës për ndërmarrjen dhe hartimin e nismës është kryetari i Këshillit i Qarkut.
 b) Autoriteti përgjegjës për miratimin e nismës është Këshilli i Qarkut.
-c) Nisma e miratuar në Këshillin e Qarkut duhet të konfirmohet edhe nga Këshilli Kombëtar i Territorit, nëse përcakton pezullimin e zhvillimit për të gjithë ose një pjesë të territorit administrativ të qarkut.
+c) Nisma e miratuar në Këshillin e Qarkut duhet të konfirmohet edhe nga Këshilli Kombëtar i Territorit dhe Ujit, nëse përcakton pezullimin e zhvillimit për të gjithë ose një pjesë të territorit administrativ të qarkut.
 3. Nisma për hartimin e PSQN-së përmban:
 a) analizën, e cila përcakton qëllimin dhe nevojën për hartim ose rishqyrtim të dokumentit të planifikimit;
 b) kufijtë e territorit që mbulon dokumenti i planifikimit;
@@ -672,9 +863,9 @@ e) buxhetin për hartimin e PSQN-së;
 4. Nisma duhet të bëhet publike dhe të botohet në regjistër nga autoriteti përgjegjës:
 a) Vendimi i kryetarit të Këshillit të Qarkut për marrjen e nismës botohet në regjistër, brenda 10 (dhjetë) ditëve nga data e marrjes së nismës, sipas pikave 1 dhe 4, të nenit 56, të ligjit.
 b) Vendimi i kryetarit të Këshillit të Qarkut për marrjen e nismës bëhet publik edhe nëpërmjet një ose disa mjeteve të tjera të informimit.
-5. Në rastet kur nismën duhet ta konfirmojë edhe KKT-ja (kur nisma përcakton pezullimin e zhvillimit), hyrja në fuqi e vendimit të KKT-së për miratimin e nismës bëhet pas botimit të vendimit në regjistër nga sekretariati i KKT-së:
-a) Vendimi i KKT-së për miratimin e nismës, së bashku me dokumentin e nismës botohen në regjistër brenda 10 (dhjetë) ditëve nga data e miratimit, sipas pikave 1 dhe 4, të nenit 56, të ligjit.
-b) Vendimi i KKT-së dhe dokumenti i nismës bëhen publike në faqen zyrtare të sekretariatit të KKT-së, autoritetit përgjegjës për planifikimin dhe Agjencisë.
+5. Në rastet kur nismën duhet ta konfirmojë edhe KKTU -ja (kur nisma përcakton pezullimin e zhvillimit), hyrja në fuqi e vendimit të KKTU -së për miratimin e nismës bëhet pas botimit të vendimit në regjistër nga sekretariati i KKTU -së:
+a) Vendimi i KKTU -së për miratimin e nismës, së bashku me dokumentin e nismës botohen në regjistër brenda 10 (dhjetë) ditëve nga data e miratimit, sipas pikave 1 dhe 4, të nenit 56, të ligjit.
+b) Vendimi i KKTU -së dhe dokumenti i nismës bëhen publike në faqen zyrtare të sekretariatit të KKTU -së, autoritetit përgjegjës për planifikimin dhe Agjencisë.
 Neni 46
 Përmbajtja e PSNQ-së
 Plani sektorial në nivel qarku përmban të paktën këto dokumente:
@@ -736,8 +927,8 @@ Miratimi i PSNQ-së
 2. Procesi i miratimit të planit përmban të paktën këta hapa:
 a) lëshimin e aktit të përputhshmërisë nga Agjencia;
 b) miratimin e dokumentit të planit në Këshillin e Qarkut;
-c) paraqitjen e kërkesës së autoritetit përgjegjës për shqyrtim dhe miratim të planit në KKT;
-ç) vendimmarrjen e KKT-së.
+c) paraqitjen e kërkesës së autoritetit përgjegjës për shqyrtim dhe miratim të planit në KKTU;
+ç) vendimmarrjen e KKTU -së.
 3. Materialet që dorëzohen/botohen për miratimin e dokumentit të planifikimit janë:
 a) nisma e miratuar;
 b) dokumenti i plotë i PSNQ-së;
@@ -752,12 +943,12 @@ c) Agjencia e përsërit procesin e shqyrtimit të përputhshmërisë së dokume
 6. Rishikimi/përmirësimi i dokumentit dhe reflektimi i vërejtjeve të Agjencisë realizohen sipas këtyre përcaktimeve:
 a) Pas botimit në regjistër të raportit të vlerësimit teknik të PSNQ-së nga Agjencia, autoriteti përgjegjës duhet të rishikojë/të përmirësojë dokumentin e planit për të reflektuar vërejtjet dhe sugjerimet, nëse ka të tilla.
 b) Autoriteti përgjegjës riboton dokumentin e plotë të planit me vërejtjet dhe sugjerimet e reflektuara, shoqëruar me raportin e ndryshimeve.
-7. Pas botimit në regjistër të materialeve të plota të PSNQ-së, sipas pikës 3 të këtij neni, autoriteti përgjegjës bën kërkesën për shqyrtimin dhe miratimin e dokumentit të planifikimit në KKT.
-8. Plani sektorial në nivel qarku (PSNQ) miratohet nga KKT-ja në përputhje me nenin 25 të ligjit. Baza e gjykimit për vendimmarrjen mbi miratimin e PSNQ-së përbëhet nga dokumentet e përmendura në pikën 3 të këtij neni.
+7. Pas botimit në regjistër të materialeve të plota të PSNQ-së, sipas pikës 3 të këtij neni, autoriteti përgjegjës bën kërkesën për shqyrtimin dhe miratimin e dokumentit të planifikimit në KKTU.
+8. Plani sektorial në nivel qarku (PSNQ) miratohet nga KKTU -ja në përputhje me nenin 25 të ligjit. Baza e gjykimit për vendimmarrjen mbi miratimin e PSNQ-së përbëhet nga dokumentet e përmendura në pikën 3 të këtij neni.
 Neni 48
 Hyrja në fuqi e PSNQ-së
-1. Dokumenti i planit sektorial në nivel qarku (PSNQ) hyn në fuqi me botimin e plotë në regjistër të vendimit të KKT-së dhe dokumenteve shoqëruese të tij, në përputhje me pikën 2, të nenit 56 të ligjit.
-2. Vendimi i KKT-së botohet në regjistër dhe, në çdo rast edhe në faqen zyrtare të sekretariatit të KKT-së, autoritetit përgjegjës për planifikimin dhe Agjencisë, brenda 15 (pesëmbëdhjetë) ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 25 të ligjit.
+1. Dokumenti i planit sektorial në nivel qarku (PSNQ) hyn në fuqi me botimin e plotë në regjistër të vendimit të KKTU -së dhe dokumenteve shoqëruese të tij, në përputhje me pikën 2, të nenit 56 të ligjit.
+2. Vendimi i KKTU -së botohet në regjistër dhe, në çdo rast edhe në faqen zyrtare të sekretariatit të KKTU -së, autoritetit përgjegjës për planifikimin dhe Agjencisë, brenda 15 (pesëmbëdhjetë) ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 25 të ligjit.
 Neni 49
 Zbatimi dhe monitorimi i zbatimit të PSNQ-së
 1. Monitorimi i zbatimit të PSNQ-së bëhet nga autoriteti përgjegjës për hartimin e planit, në përputhje me pikën 1, të nenit 10 të ligjit, si dhe nga Agjencia, në përputhje me pikën 2, të nenit 10 të kësaj rregulloreje.
@@ -1007,17 +1198,17 @@ b) Më pas, miratimin e planit të zhvillimit të territorit të njësisë, shoq
 a) Lëshimin e aktit të përputhshmërisë nga Agjencia;
 b) Kërkesën e kryetarit të njësisë vendore për shqyrtim dhe miratim të dokumentit të plotë të planit në Këshill Bashkiak;
 c) Vendimmarrjen e Këshillit Bashkiak;
-ç) Kërkesën e kryetarit të njësisë vendore për miratim të dokumentit të plotë të planit në KKT;
-d) Vendimmarrjen e KKT-së.
+ç) Kërkesën e kryetarit të njësisë vendore për miratim të dokumentit të plotë të planit në KKTU;
+d) Vendimmarrjen e KKTU -së.
 4. Procesi i miratimit të planit me dy ndalesa përmban, të paktën, këta hapa:
 a) Kërkesën e kryetarit të njësisë vendore për shqyrtim dhe miratim të strategjisë territoriale të njësisë vendore në Këshill Bashkiak;
 b) Vendimmarrjen e Këshillit Bashkiak;
-c) Kërkesën e kryetarit të njësisë vendore për miratimin e Strategjisë Territoriale në KKT;
-ç) Vendimmarrjen e KKT-së;
+c) Kërkesën e kryetarit të njësisë vendore për miratimin e Strategjisë Territoriale në KKTU;
+ç) Vendimmarrjen e KKTU -së;
 d) Kërkesën e kryetarit të njësisë vendore për shqyrtim dhe miratim të planit të zhvillimit të njësisë dhe rregullores në zbatim të tij, në Këshill Bashkiak.
 dh) Vendimmarrjen e Këshillit Bashkiak;
-e) Kërkesën e kryetarit të njësisë vendore për shqyrtim dhe miratim të planit të zhvillimit të territorit dhe rregullores së tij në KKT.
-ë) Vendimmarrjen e KKT-së.
+e) Kërkesën e kryetarit të njësisë vendore për shqyrtim dhe miratim të planit të zhvillimit të territorit dhe rregullores së tij në KKTU.
+ë) Vendimmarrjen e KKTU -së.
 Neni 61
 Dokumentet për miratimin e PPV-së
 1. Materialet që duhen dorëzuar/botuar në regjistër përpara miratimit të dokumentit të planifikimit apo pjesëve përbërëse të tij (miratimi me faza) në Këshill Bashkiak janë:
@@ -1026,8 +1217,8 @@ b) Nisma e miratuar dhe vendimi i miratimit nga Këshilli Bashkiak;
 c) Dokumentet përbërëse të planit, për të cilat kërkohet miratimi, sipas strategjisë së miratimit (me një apo dy ndalesa);
 ç) Akti i përputhshmërisë nga Agjencia ose deklarata e përputhshmërisë në heshtje;
 d) Vlerësimi Strategjik Mjedisor, si dhe deklarata mjedisore, referuar legjislacionit të posaçëm në fuqi, veçmas për strategjinë sektoriale dhe dokumentin e plotë të planifikimit, nëse do të miratohen në faza të ndara.
-2. Materialet që duhen dorëzuar/botuar në regjistër përpara miratimit të dokumentit të planifikimit apo pjesëve përbërëse të tij (miratimi me faza) në KKT janë:
-a) Kërkesa për miratimin e PPV-së në KKT;
+2. Materialet që duhen dorëzuar/botuar në regjistër përpara miratimit të dokumentit të planifikimit apo pjesëve përbërëse të tij (miratimi me faza) në KKTU janë:
+a) Kërkesa për miratimin e PPV-së në KKTU;
 b) Të gjitha materialet sipas pikës 1 të këtij neni;
 c) Vendimi i miratimit nga Këshilli Bashkiak.
 Neni 62
@@ -1043,12 +1234,12 @@ a) Autoriteti përgjegjës duhet të rishikojë/të përmirësojë dokumentacion
 b) Autoriteti përgjegjës riboton dokumenta-cionin me vërejtjet dhe sugjerimet e reflektuara, shoqëruar me raportin e ndryshimeve.
 4. Dokumentacioni, subjekt miratimi, shqyrtohet nga Këshilli Bashkiak, sipas listës së përcaktuar në pikën 1, të nenit 61 të kësaj rregulloreje.
 5. Vendimi i miratimit të planit ose pjesëve përbërëse të tij nga Këshilli Bashkiak botohet në regjistër dhe në çdo rast edhe në faqen zyrtare të autoritetit përgjegjës, brenda 10 (dhjetë) ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 56 të ligjit.
-6. Pas botimit në regjistër të dokumentacionit, subjekt miratimi, aktit të përputhshmërisë së Agjencisë ose deklaratës së përputhshmërisë në heshtje, si edhe pas botimit të vendimit të miratimit të Këshillit Bashkiak, autoriteti përgjegjës bën kërkesën për shqyrtimin dhe miratimin e dokumentacionit në KKT.
-7. Dokumentacioni, subjekt miratimi, miratohet nga KKT-ja në përputhje me shkronjën “a”, të nenit 7 të ligjit, bazuar në dokumenta-cionin e përmendur në pikën 2, të nenit 61 të kësaj rregulloreje.
+6. Pas botimit në regjistër të dokumentacionit, subjekt miratimi, aktit të përputhshmërisë së Agjencisë ose deklaratës së përputhshmërisë në heshtje, si edhe pas botimit të vendimit të miratimit të Këshillit Bashkiak, autoriteti përgjegjës bën kërkesën për shqyrtimin dhe miratimin e dokumentacionit në KKTU.
+7. Dokumentacioni, subjekt miratimi, miratohet nga KKTU -ja në përputhje me shkronjën “a”, të nenit 7 të ligjit, bazuar në dokumenta-cionin e përmendur në pikën 2, të nenit 61 të kësaj rregulloreje.
 Neni 63
 Hyrja në fuqi e PPV-së
-1. Dokumenti i Planit të Përgjithshëm Vendor (PPV) apo pjesët përbërëse të tij subjekt miratimi, hyjnë në fuqi me botimin e plotë në regjistër të vendimit të KKT-së dhe dokumenteve shoqëruese të tij, në përputhje me pikën 2, të nenit 56 të ligjit.
-2. Vendimi i KKT-së së bashku me dokumentacionin e plotë shoqërues botohet në regjistër dhe në çdo rast, në faqen zyrtare të sekretariatit të KKT-së dhe autoritetit përgjegjës për planifikimin, brenda 15 ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 25 të ligjit.
+1. Dokumenti i Planit të Përgjithshëm Vendor (PPV) apo pjesët përbërëse të tij subjekt miratimi, hyjnë në fuqi me botimin e plotë në regjistër të vendimit të KKTU -së dhe dokumenteve shoqëruese të tij, në përputhje me pikën 2, të nenit 56 të ligjit.
+2. Vendimi i KKTU -së së bashku me dokumentacionin e plotë shoqërues botohet në regjistër dhe në çdo rast, në faqen zyrtare të sekretariatit të KKTU -së dhe autoritetit përgjegjës për planifikimin, brenda 15 ditëve nga data e miratimit, në përputhje me pikën 4, të nenit 25 të ligjit.
 Neni 64
 Zbatimi dhe monitorimi i zbatimit të PPV-së
 1. Monitorimi i zbatimit të PPV-së bëhet nga autoriteti përgjegjës për hartimin e planit, në përputhje me shkronjat “c” dhe “dh”, të pikës 2, të nenit 12 dhe nenit 13 të ligjit, si dhe nga Agjencia, në përputhje me pikën 2, të nenit 10 të kësaj rregulloreje.
@@ -1083,7 +1274,7 @@ Neni 68
 Objekti dhe qëllimi i PDV-së
 1. Njësitë, për të cilat hartohen plane të detajuara vendore, përcaktohen në dokumentin e Planit të Përgjithshëm Vendor, në bazë të përcaktimeve të kësaj rregulloreje.
 2. PDV-ja ka për qëllim, sipas rastit, të detajojë përcaktimet e PPV-së, për:
-a) zhvillimin dhe/ose rizhvillimin e një njësie;
+a) zhvillimin dhe/ose rizhvillimin e një apo disa njësive;
 b) rigjenerimin/ripërtëritjen urbane;
 c) përdorimet e tokës dhe kushtet e zhvillimit;
 ç) investimet publike në infrastrukturë apo shërbimet publike, që ndikojnë në ndryshimin ose rishpërndarjen e kushteve të zhvillimit;
@@ -1097,18 +1288,18 @@ a) Në rast hartimi nga palët e interesuara, procesi mbikëqyret në çdo hap n
 3. Miratimi i PDV-së bëhet nga kryetari i njësisë vendore.
 Neni 70
 Hartimi dhe këshillimi i PDV-së
-1. Procesi i hartimit PDV-së nis me botimin e njoftimit të bashkisë në Regjistrin Kombëtar të Planifikimit të Territorit të vendimmarrjes së kryetarit të njësisë vendore.
+1. Procesi i hartimit PDV-së nis me botimin e njoftimit të bashkisë në sistemin e-Planifikimi të vendimmarrjes së kryetarit të njësisë vendore.
 2. Njoftimi për nisjen e hartimit të PDV-së përmban:
-a) Kodin e Njësisë, të paracaktuar nga Plani i Përgjithshëm Vendor, shoqëruar me përcaktimet për zhvillimin e njësisë që rrjedhin nga ky plan.
-b) Deklaratën e dakordësisë së pronarëve që kanë në pronësi jo më pak se 51% të sipërfaqes së njësisë, në rastin e hartimit të PDV-së me nismë private, në përputhje me pikën 5, të nenit 22 të ligjit.
+a) Kodin e Njësisë, të paracaktuar nga Plani i Përgjithshëm Vendor, shoqëruar me përcaktimet për zhvillimin e njësisë ose grup-njësive që rrjedhin nga ky plan.
+b) Deklaratën e dakordësisë së pronarëve që kanë në pronësi jo më pak se 51% të sipërfaqes së njësisë, ose grup-njësive, në rastin e hartimit të PDV-së me nismë private, në përputhje me pikën 5, të nenit 22 të ligjit.
 c) Sipas vlerësimit të autoritetit përgjegjës për planifikimin, mund të përmbajë edhe:
 i) buxhetin për hartimin e PDV-së, kur është me nismë publike;
 ii) planin e veprimit për hartimin e PDV-së.
-3. Këshillimi i PDV-së, në rastet sipas përcaktimeve të pikës 6, të nenit 22 të ligjit, kryhet përmes botimit të dokumentit në regjistër, informimit të palëve të interesuara dhe publikut nëpërmjet një a më shumë mjeteve tradicionale të informimit dhe, në rast se kërkohet, përmes organizimit të takimeve publike me ta.
-4. Në çdo rast, dokumentacioni i plotë përfundimtar i PDV-së botohet në regjistër dhe qëndron i disponueshëm për këshillim të paktën për 30 (tridhjetë) ditë përpara vendimmarrjes së kryetarit.
+3. Këshillimi i PDV-së, në rastet sipas përcaktimeve të pikës 6, të nenit 22 të ligjit, kryhet përmes botimit të dokumentit në sistem, informimit të palëve të interesuara dhe publikut nëpërmjet një a më shumë mjeteve tradicionale të informimit dhe, në rast se kërkohet, përmes organizimit të takimeve publike me ta.
+4. Në çdo rast, dokumentacioni i plotë përfundimtar i PDV-së botohet në sistem dhe qëndron i disponueshëm për këshillim të paktën për 30 (tridhjetë) ditë përpara vendimmarrjes së kryetarit.
 Neni 71
 Përmbajtja e dokumentit të PDV-së
-1. Dokumenti i planit të detajuar vendor (PDV) hartohet në përputhje me dokumentet e Planit të Përgjithshëm Vendor, dokumentet e planifikimit vendor sektorial dhe legjislacionin në fuqi.
+1. Dokumenti i planit të detajuar vendor (PDV) hartohet në përputhje me dokumentet e Planit të Përgjithshëm Vendor, dokumentet e planifikimit vendor sektorial dhe legjislacionin në fuqi. Përjashtimisht përcaktimeve në dokumentet e planifikimit në fuqi, PDV-ja mund të riorganizojë infrastrukturën rrugore lokale të parashikuar, në rast se konsiderohet e nevojshme për të rritur eficiencën dhe cilësinë e aksesit dhe të hapësirave urbane, si edhe pa cenuar aksesueshmërinë publike të zonës referuar një projekti teknik, i cili siguron ndërlidhjen ndërmjet rrugëve më të afërta.
 2. Plani i detajuar vendor përmban të paktën:
 a) planin e përcaktimeve territoriale, i shprehur në relacion dhe harta shoqëruese për pikat e mëposhtme:
 i) analizën që paraprin përcaktimet territoriale;
@@ -1132,16 +1323,17 @@ ix) rregullat e ruajtjes së zonave, objekteve të trashëgimisë kulturore, sip
 x) rregulla arkitektonike;
 xi) rregulla për përshtatjen e hapësirave për personat me aftësi të kufizuara.
 c) Informacionin gjeohapësinor të integruar në platformën GIS, në përputhje me standardin e Regjistrit Kombëtar të Planifikimit të Territorit.
-3. Dokumenti i planit të detajuar vendor shoqërohet nga një dokument teknik i shpërndarjes së balancuar të të drejtave të zhvillimit, ku përcaktohen edhe raportet e përfitimeve nga zhvillimi, në mënyrë të drejtë dhe proporcionale me kontributin në zhvillim. Përfitimet, kontributi dhe kostot janë financiare ose të mira materiale që përfshijnë të drejtat për zhvillim dhe vlerën e rritur të tokës si rezultat i planifikimit ose investimeve publike.
+3. Rregullorja e dokumenti të planit të detajuar vendor duhet të përcaktojë shpërndarjen e balancuar të të drejtave të zhvillimit, ku përcaktohen edhe raportet e përfitimeve nga zhvillimi, në mënyrë të drejtë dhe proporcionale me kontributin në zhvillim. Përfitimet, kontributi dhe kostot janë financiare ose të mira materiale që përfshijnë të drejtat për zhvillim dhe vlerën e rritur të tokës si rezultat i planifikimit ose investimeve publike.
+4. Vendimet e KKTU-së pasqyrohen në dokumentin e PDV-së gjatë hartimit ose rishikimit të saj. Pavarësisht treguesve të zhvillimit, të miratuar me rregullore të veçantë nga KKTU-ja, treguesit e zhvillimit të përcaktuar nga PPV-ja do të shpërndahen nga PDV-ja në mënyrë proporcionale në të gjitha pjesët e territorit të njësisë ku ndërhyhet nëpërmjet rizhvillimit.
 Neni 72
 Miratimi dhe hyrja në fuqi e PDV-së
 1. Procesi i miratimit të planit të detajuar vendor (PDV) bëhet në përputhje me përcaktimet e neneve 22 e 25 të ligjit.
 2. Autoriteti përgjegjës për miratimin e PDV-së është kryetari i bashkisë, në përputhje me shkronjën “dh”, të pikës 1, të nenit 13 të ligjit.
-3. Kryetari i bashkisë merr vendimin për miratimin e planit të detajuar vendor, brenda 45 (dyzet e pesë) ditëve nga data e paraqitjes për shqyrtim të dokumentacionit të plotë përfundimtar, pasi ka informuar palët e interesuara përmes RKPT-së, faqes zyrtare të bashkisë, si dhe një a më shumë mjeteve tradicionale të informimit dhe, në rast se kërkohet, kryen takime publike me ta.
+3. Kryetari i bashkisë merr vendimin për miratimin e planit të detajuar vendor, brenda 45 (dyzet e pesë) ditëve nga data e paraqitjes për shqyrtim të dokumentacionit të plotë përfundimtar, pasi ka informuar palët e interesuara përmes sistemit e-Planifikimi, faqes zyrtare të bashkisë, si dhe një a më shumë mjeteve tradicionale të informimit dhe, në rast se kërkohet, kryen takime publike me ta.
 4. Kryetari i bashkisë vendos miratimin e planit të detajuar vendor, bazuar në raportin teknik, të përgatitur nga strukturat përgjegjëse të planifikimit të autoritetit vendor, vetëm në rast se nuk shprehen kundër banorët që kanë në pronësi më shumë se një të tretën e sipërfaqes së zonës përkatëse të zhvillimit.
 5. Në rast se ka kundërshtime si më sipër, kryetari i njësisë së qeverisjes vendore organizon takime publike me palët e interesuara, shqyrton vërejtjet ose propozimet përkatëse dhe vlerëson reflektimin e tyre në planin e detajuar vendor.
 6. Në përfundim të procesit, kryetari vendos në lidhje me miratimin e planit, duke u shprehur edhe në lidhje me pranimin ose mospranimin e propozimeve dhe vërejtjeve të depozituara.
-7. Dokumenti i planit të detajuar vendor hyn në fuqi me botimin e plotë në Regjistrin Kombëtar të Planifikimit të Territorit të vendimit të miratimit nga kryetari i bashkisë dhe dokumenteve përbërëse të PDV-së.
+7. Dokumenti i planit të detajuar vendor hyn në fuqi me botimin e plotë në sistemin e-Planifikimi të vendimit të miratimit nga kryetari i bashkisë dhe dokumenteve përbërëse të PDV-së.
 Neni 73
 Zbatimi dhe monitorimi i PDV-së
 1. Plani i detajuar vendor zbatohet nëpërmjet instrumenteve të drejtimit të zhvillimit dhe lejeve të ndërtimit, sipas rregullores së këtij plani.
@@ -1187,7 +1379,7 @@ Zona
 1. Zona është pjesë përbërëse e sistemit territorial që detajohet në nivelin e kategorisë së përdorimit të tokës.
 2. Kufijtë e zonave përcaktohen gjatë hartimit të dokumentit të planifikimit, në mënyrë të tillë që një zonë:
 a) të ketë një kufi të vetëm e të mbyllur dhe të identifikohet në mënyrë unike në territor;
-b) të respektojë zonime të veçanta të detyrueshme nga legjislacioni sektorial (zonat e mbrojtura mjedisore, kulturore etj.), sipas rastit.
+b)të respektojë zonime të veçanta të detyrueshme nga legjislacioni sektorial (zonat e mbrojtura mjedisore, kulturore etj.), sipas rastit.
 3. Zona mund të përmbajë disa kategori përdorimi toke, të cilat duhet të jenë pjesë të një sistemi territorial, në përputhje me nenin 79, të kësaj rregulloreje.
 Neni 77
 Njësia
@@ -1259,7 +1451,6 @@ SEKSIONI 1
 STANDARDE DHE TREGUES PËR PLANIFIKIMIN E TERRITORIT
 Neni 82
 Standardet dhe treguesit e planifikimit
-(shkronja “f”, e pikës 2 me VKM nr. 694, datë 2.10.2019)
 1. Standardet dhe treguesit e planifikimit të territorit përfaqësojnë norma e referenca që përdoren gjatë procesit të planifikimit për të mundësuar një zhvillim të qëndrueshëm të territorit.
 2. Standardet dhe treguesit e planifikimit të territorit vendosen kryesisht për sistemin urban dhe për sektorë të ndryshëm, në përputhje me legjislacionin e posaçëm dhe zbatohen, për:
 a) banimin;
@@ -1298,7 +1489,8 @@ Zona spitalore
 Neni 86
 Zona natyrore
 1. Procesi i planifikimit dhe i zhvillimit në zona natyrore, si dhe ndryshimi i kategorisë përkatëse bazë të përdorimit të tokës në kategori të tjera rregullohet nga legjislacioni i posaçëm për pyjet dhe shërbimin pyjor për tokën, për turizmin, për kullotat e livadhet për menaxhimin e integruar të burimeve ujore dhe për mjedisin.
-2. Propozimi për ndryshimin sipas pikës 1 të këtij neni, kryhet përmes dokumenteve të planifikimit dhe akteve përkatëse të detyrueshme nga legjislacioni i posaçëm.
+2.Propozimi për ndryshimin sipas pikës 1 të këtij neni, kryhet përmes dokumenteve të planifikimit dhe akteve përkatëse të detyrueshme nga legjislacioni i posaçëm.
+3. Shfuqizuar.
 Neni 87
 Ujëra dhe ligatina
 1. Procesi i planifikimit dhe i zhvillimit në territore, që i përkasin kategorisë bazë të përdorimit “Ujëra”, rregullohet sipas legjislacionit të posaçëm dhe konventave ndërkombëtare në të cilat ka aderuar Shqipëria.
@@ -1318,7 +1510,7 @@ Zonat turistike dhe parimet bazë
 2. Zonat turistike përcaktohen sipas legjislacionit të posaçëm në fuqi.
 3. Parimet e planifikimit dhe të projektimit të zonave turistike janë:
 a) Ruajtja dhe mbrojtja e territoreve dhe mjediseve natyrore dhe me vlera të trashëgimisë historike dhe kulturore nga urbanizimi dhe zhvillimi.
-b) Ruajtja e zonave, që përfshihen në territoret bujqësore dhe përdorimi i tyre për agroturizëm bëhen sipas përcaktimeve të kësaj rregulloreje dhe legjislacionit të posaçëm.
+b)Ruajtja e zonave, që përfshihen në territoret bujqësore dhe përdorimi i tyre për agroturizëm bëhen sipas përcaktimeve të kësaj rregulloreje dhe legjislacionit të posaçëm.
 c) Urbanizimi i kontrolluar i qendrave të banuara në zonat turistike bëhet në harmoni me mjedisin, tokën bujqësore dhe burimet natyrore, pa ndotur ujin, ajrin dhe tokën, pa ndryshuar vlerat e biodiversitetit lokal dhe pa shkaktuar ndikim negativ në shëndetin e njeriut.
 ç) Përdorimi i mjedisit detar vetëm për qëllime që i shërbejnë ruajtjes së tij dhe aktiviteteve ekonomike dhe çlodhëse të lejuara sipas legjislacionit të posaçëm.
 d) Promovimi i ekoturizmit përkundrejt formave të turizmit masiv.
@@ -1345,7 +1537,7 @@ Antenat
 2. Për të zvogëluar ndikimin pamor të kullave dhe antenave, strukturat përkatëse fshihen dhe maskohen.
 3. Kullat e telekomunikacionit, që janë të larta mbi 25 metra, nuk lejohen të ndërtohen e të vendosen brenda zonave të përcaktuara si zona banimi. Distanca e tyre minimale nga kufizimi i pronës më të afërt të ndërtuar është 30 metra.
 4. Pozicionet e kullave dhe antenave në qytete duhet të jenë në përputhje me udhëzimet dhe standardet e komisionit për radiofrekuencat në autoritetin publik përkatës dhe të garantojnë mbrojtjen e shëndetit të banorëve.
-5. Kullat dhe shtyllat e antenave të komunikimit elektronik nuk lejohen të ndërtohen ose të vendosen brenda zonave dhe objekteve të trashëgimisë kulturore.
+5.Kullat dhe shtyllat e antenave të komunikimit elektronik nuk lejohen të ndërtohen ose të vendosen brenda zonave dhe objekteve të trashëgimisë kulturore.
 KREU V
 DISPOZITA KALIMTARE DHE TË FUNDIT
 Neni 93
@@ -1353,7 +1545,7 @@ Dispozita kalimtare
 Për dokumentet e planifikimit, të cilat janë në proces hartimi në momentin e hyrjes në fuqi të këtij vendimi, zbatohen dispozitat e këtij vendimi.
 Neni 94
 Shfuqizime
-Vendimi nr. 671, datë 29.7.2015, i Këshillit të Ministrave, “Për miratimin e rregullores së planifikimit të territorit”, shfuqizohet, me hyrjen në fuqi të këtij vendimi.
+Vendimi nr. 671, datë 29.7.2015 i Këshillit të Ministrave “Për miratimin e rregullores së planifikimit të territorit” shfuqizohet me hyrjen në fuqi të këtij vendimi.
 SHTOJCA I
 TABELA E KATEGORIZIMIT TË PËRDORIMIT TË TOKËS
 SHTOJCA II
