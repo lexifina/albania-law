@@ -1,0 +1,1 @@
+5. Shpërblimet kalohen në llogaritë e pensionistëve në muajin dhjetor 2024 dhe paguhen gjatë këtij muaji. Në rastet kur pagesat efektive nuk kryhen brenda muajit dhjetor 2024, ato paguhen deri në datën 30.6.2025. Shpërblimet e patërhequra parashkruhen pas datës 30.6.2025.
