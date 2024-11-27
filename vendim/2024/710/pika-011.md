@@ -1,0 +1,1 @@
+11. Secila etapë e procedurave të lidhura me projektaktin apo dhënien e mendimit për të përmbyllet nga punonjësi përgjegjës në ministri, sipas funksionit të tij, duke shoqëruar veprimin e tij në sistem me nënshkrimin elektronik.

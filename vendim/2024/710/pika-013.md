@@ -1,0 +1,1 @@
+13. Të gjitha ndërveprimet e ministrive dhe të institucioneve të varësisë në e-aktet, ndërmjet tyre apo me Këshillin e Ministrave, për dërgimin e projektaktit për mendim apo për shqyrtim regjistrohen në sistem nëpërmjet numrit të protokollit, i cili korrespondon me atë në variantin hard copy.

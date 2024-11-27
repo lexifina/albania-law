@@ -1,0 +1,1 @@
+8. Të dhëna dytësore konsiderohen të dhënat që merren nga një bazë tjetër të dhënash, ku ato janë parësore, që mund të ndërveprojë me e-aktet, në përputhje me parashikimet e legjislacionit për bazat e të dhënave shtetërore.

@@ -1,0 +1,1 @@
+9. Dhënës të informacionit për e-aktet janë institucionet propozuese dhe mendimdhënëse, në zbatim të ligjit nr. 9000, datë 30.1.2003, “Për organizimin dhe funksionimin e Këshillit të Ministrave”, dhe të vendimit nr. 584, datë 28.8.2003, të Këshillit të Ministrave, “Për miratimin e rregullores së Këshillit të Ministrave”, të ndryshuar.
