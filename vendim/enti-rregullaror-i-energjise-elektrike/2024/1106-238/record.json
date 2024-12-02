@@ -1,0 +1,29 @@
+{
+  "qbz_id": 29246,
+  "title": "Për licencimin e shoqërisë \"ORHER\" sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "238",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2024-11-06",
+  "published": "2024-12-02",
+  "in_force": "2024-12-02",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/3d11fc638b6e22440860a1172286a5817892eaa2c3001d15d67cbe1c006b9a88.docx",
+  "source_sha256": "3d11fc638b6e22440860a1172286a5817892eaa2c3001d15d67cbe1c006b9a88",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29246",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2024/11/06/238",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    34201,
+    33571
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
