@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të drejtorit të përgjithshëm të Agjencisë Kombëtare të Kontrollit të Cannabis-it, te z. Arlind Lugji, me funksion Koordinator në Sektorin e Autorizimeve, Lejeve dhe Licencave në Drejtorinë e Standardeve, Autorizimeve, Lejeve dhe Licencimit në Agjencinë Kombëtare të Kontrollit të Cannabis-it për periudhën nga data 2.12.2024-6.12.2024.
