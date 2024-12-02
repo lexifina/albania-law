@@ -1,0 +1,26 @@
+{
+  "qbz_id": 29238,
+  "title": "Për dhënie grade",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "396",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2024-11-27",
+  "published": "2024-12-02",
+  "in_force": "2024-12-02",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/71b8ae4a8f278d8f27ea4f290d06b6fdbfc4f8cc7b13108ac2cb104d9109af9e.docx",
+  "source_sha256": "71b8ae4a8f278d8f27ea4f290d06b6fdbfc4f8cc7b13108ac2cb104d9109af9e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29238",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2024/11/27/396",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
