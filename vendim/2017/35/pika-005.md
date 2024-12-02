@@ -1,1 +1,1 @@
-5. KKDA-ja kryen kompetencat në bazë të pikës 4, të nenit 156, dhe ndjek procedurat e miratimit të tarifave të shpërblimit në përputhje me nenin 142 dhe vijues, të ligjit nr. 35/2016, “Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to”.
+5. KKDA-ja kryen kompetencat në bazë të pikës 4, të nenit 156 dhe pikave 5 e 9, të nenit 138, dhe ndjek procedurat e miratimit të tarifave të shpërblimit në përputhje me nenin 142 dhe vijues, të ligjit nr. 35/2016, “Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to” i ndryshuar.
