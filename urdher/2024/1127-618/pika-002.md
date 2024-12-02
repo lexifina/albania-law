@@ -1,0 +1,1 @@
+2. Përjashtohen nga pika 1 e këtij urdhri kompetencat e Sekretarit të Përgjithshëm, të përcaktuara në urdhrin e ministrit të Shëndetësisë dhe Mbrojtjes Sociale nr. 473, datë 4.9.2024, “Për delegim kompetence”, i ndryshuar.

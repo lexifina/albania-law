@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të Sekretarit të Përgjithshëm të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale te z. Alqi Kushi, drejtor i përgjithshëm i Drejtorisë së Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse, për periudhën nga data 2.12.2024 deri më 8.12.2024.
