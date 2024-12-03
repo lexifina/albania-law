@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të Sekretarit të Përgjithshëm z. Albin Gega, drejtor i përgjithshëm, Drejtoria e Përgjithshme e Politikave të Punësimit, Aftësimit dhe Sigurimeve në Ministrinë e Ekonomisë, Kulturës dhe Inovacionit.
