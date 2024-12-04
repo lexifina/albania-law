@@ -1,0 +1,1 @@
+3. Urdhri nr. 786, datë 29.12.2023, “Për disa masa mbrojtëse ndaj sëmundjes së murtajës afrikane të derrave në shtetin e Lituanisë”, shfuqizohet.

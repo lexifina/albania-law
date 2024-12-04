@@ -1,0 +1,14 @@
+1. Ndalimin e importit dhe të tranzitimit për në territorin e Republikës së Shqipërisë të të gjitha kafshëve të gjalla të llojit derra të butë dhe të egër të mbajtur, produkteve të tyre, duke përjashtuar mishin në një konteiner të vulosur (mbyllur) hermetikisht me një vlerë të F0 prej 3 ose më lart, si dhe xhelatinën, materialit biologjik dhe embrioneve të kafshëve të gjalla të llojit derra, mishin e freskët dhe nënprodukteve të tyre të kafshëve të llojit derra, sipas njoftimeve të marra nga faqja zyrtare e OIE-së dhe ADIS-ës, përkatësisht nga ndarjet administrative të përcaktuara në tabelën e mëposhtme:
+|Ndarja administrative e nivelit të parë |Ndarja administrative e nivelit të dytë |Ndarja administrative e nivelit të tretë |
+|Klaipedos* | | |
+|Marijampoles* | | |
+|Šiauliai* |Akmenės* | |
+|Šiauliai* |Šiaulių* | |
+|Šiauliai* |Kelmės* | |
+|Šiauliai* |Pakruojo* | |
+|Taurages* |Tauragės* | |
+|Taurages* |Jurbarko* | |
+|Taurages* |Šilalės* | |
+|Telšiai* |Telšių* | |
+|Telšiai* |Plungės* | |
+Shënim. Simboli (*) nënkupton zonën e infektuar që bllokohet.
