@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e metodave të përbashkëta të sigurisë (CSM) për mbikëqyrjen nga autoriteti i sigurisë hekurudhore pas lëshimit të certifikatave të vetme të sigurisë dhe autorizimeve të sigurisë dhe për kërkesat e sistemit të menaxhimit të sigurisë”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
