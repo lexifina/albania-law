@@ -1,0 +1,1 @@
+1. Licencimin e subjektit F.A.A.D, shoqatë e regjistruar me vendimin nr. 7388, datë 10.9.2024, të Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë, me NIPT: M42116451I, si agjenci e administrimit kolektiv të të drejtave të autorëve dhe producentëve të veprave audiovizuale.
