@@ -1,0 +1,5 @@
+URDHËR
+Nr. 582, datë 26.11.2024
+PëR NJOFTIMIN E FILLIMIT TË PROCEDURës së përzgjedhjes së anëtarIT të bordit të ADMINISTRIMIT, PËRFAQËSUES I MINISTRISË PËRGJEGJËSE PËR ARSIMIN, NË UNIVERSITETIN E ELBASANIT “ALEKSANDËR XHUVANI”, mënyrën e vlerësimit të kandidatëve dhe afatin e dorëzimit të dokumentacionit
+Në mbështetje të nenit 102 të Kushtetutës; të nenit 48, të ligjit nr. 80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë” dhe të pikës 7, të vendimit nr. 782, datë 26.12.2018, të Këshillit të Ministrave, “Për përcaktimin e kritereve dhe të procedurave të përzgjedhjes së anëtarëve të Bordit të Administrimit, përfaqësues të ministrisë përgjegjëse për arsimin, në institucionet publike të arsimit të lartë”,
+URDHËROJ:
