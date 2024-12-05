@@ -1,0 +1,29 @@
+{
+  "qbz_id": 29275,
+  "title": "Për licencimin e Shoqërisë Rajonale Ujësjellës-Kanalizime Vlorë sh.a.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "43",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2024-11-08",
+  "published": "2024-12-05",
+  "in_force": "2024-12-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/1f47a08c346a0b2b70f802ed011c4bcd5e3e5324fde14efb92ce729f46b8bfdd.docx",
+  "source_sha256": "1f47a08c346a0b2b70f802ed011c4bcd5e3e5324fde14efb92ce729f46b8bfdd",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29275",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2024/11/08/43",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    62012,
+    30356
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
