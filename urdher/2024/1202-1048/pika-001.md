@@ -1,0 +1,1 @@
+1. Ripërtëritjen e licencës për subjektin “Faber Collective Phonogram”, shoqatë e regjistruar me vendimin nr. 6612, datë 21.1.2021, të Gjykatës së Rrethit Gjyqësor Tiranë, me NIPT: M11327456H, si agjenci e administrimit kolektiv të të drejtave të autorit në kategorinë e të drejtave të prodhuesve të fonogramit.
