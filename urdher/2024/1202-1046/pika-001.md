@@ -1,0 +1,1 @@
+1. Ripërtëritjen e licencës për subjektin A.K.D.I.E., shoqatë e regjistruar me vendimin nr. 2224, datë 4.4.2008, të Gjykatës së Rrethit Gjyqësor Tiranë, me NIPT: K82311451P, si agjenci e administrimit kolektiv të të drejtave të interpretuesve dhe/ose ekzekutuesve.
