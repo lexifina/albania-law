@@ -1,0 +1,3 @@
+1. Ky vendim ka për qëllim të përcaktojë procedurat e trajtimit financiar për punonjësit e Gardës së Republikës së Shqipërisë në rastet e fatkeqësive në familje, shpërblimin për rezultatet e arritura dhe dëmtimin e rëndë të pronës private për shkak të detyrës, në zbatim të shkronjave “c”, “ç” dhe “d”, të pikës 2, të nenit 48, të ligjit nr. 33/2021, “Për Gardën e Republikës së Shqipërisë”, të ndryshuar.
+II. NDIHMA FINANCIARE NË RASTIN E FATKEQËSIVE NË FAMILJE
+1. Për efekt të këtij vendimi, fatkeqësi në familje konsiderohet vdekja e prindit në ngarkim, e bashkëshortit/bashkëshortes apo e fëmijës.

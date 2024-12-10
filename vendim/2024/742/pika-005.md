@@ -1,0 +1,1 @@
+5. Në rastet e dëmtimit të rëndë të pronës, të parashikuar në pikat 1 e 2, të kreut IV, të këtij vendimi, komisioni mblidhet dhe kryen verifikimet e vlerësimet përkatëse, jo më vonë se 10 (dhjetë) ditë pune nga dita e paraqitjes së kërkesës së punonjësit.

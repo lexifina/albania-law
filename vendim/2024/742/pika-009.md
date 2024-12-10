@@ -1,0 +1,1 @@
+9. Në rast mosdakordësie mbi propozimin për shpërblim të punonjësit apo të dhënies së ndihmës së menjëhershme financiare, punonjësi ankimon vendimin e komisionit të posaçëm te drejtori i përgjithshëm i Gardës.
