@@ -1,0 +1,26 @@
+{
+  "qbz_id": 29280,
+  "title": "Për caktimin e datës së zgjedhjeve për Kuvendin",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "399",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2024-12-05",
+  "published": "2024-12-10",
+  "in_force": "2024-12-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/2ee492d909f2cd4b71da473f774667bc91d91618db9c0f9148a76ee081d9ca73.docx",
+  "source_sha256": "2ee492d909f2cd4b71da473f774667bc91d91618db9c0f9148a76ee081d9ca73",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29280",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2024/12/05/399",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
