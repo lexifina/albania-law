@@ -1,0 +1,1 @@
+1. Z. Hermon Bonati caktohet anëtar i ekipit përzgjedhës për përzgjedhjen e kandidatëve, anëtarë të Komisionit Kombëtar Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura.
