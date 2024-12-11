@@ -1,0 +1,3 @@
+# Neni 18
+Standardet shëndetësore për produktet e peshkimit
+Përveç sigurimit të përputhshmërisë me kriteret mikrobiologjike të miratuara në përputhje me udhëzimin nr. 22, datë 25.11.2010, “Për kushtet e përgjithshme dhe të veçanta të higjienës për stabilimentet e ushqimit dhe operatorët e biznesit ushqimor”, operatorët e biznesit ushqimor sigurojnë, në varësi të natyrës së produktit ose specieve, që produktet e peshkimit të vendosura në treg për konsum human të plotësojnë standardet e përcaktuara në nenet 18-20, të këtij udhëzimi. Kërkesat e pikave 2 dhe 4, të nenit 19, të këtij udhëzimi, nuk zbatohen për produktet e plota të peshkimit që përdoren drejtpërdrejt për përgatitjen e vajit të peshkut të destinuara për konsum human.

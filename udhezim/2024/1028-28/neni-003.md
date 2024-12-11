@@ -1,0 +1,7 @@
+# Neni 3
+Kërkesat strukturore dhe të pajisjeve për të gjitha anijet
+1. Anijet projektohen dhe ndërtohen në mënyrë që të mos shkaktojnë ndotjen e produkteve nga ujërat e grumbulluara, ujërat e zeza, tymi, karburanti, vaji, yndyrat ose substanca të tjera të pakëndshme.
+2. Sipërfaqet me të cilat produktet e peshkimit që bien në kontakt janë me material të përshtatshëm rezistent ndaj korrozionit, të lëmuar dhe të lehtë për t’u pastruar. Shtresat sipërfaqësore janë të qëndrueshme dhe jotoksike.
+3. Pajisja dhe materiali i përdorur gjatë punës për produktet e peshkimit janë bërë me material rezistent ndaj korrozionit, që të jetë e lehtë për t’u pastruar dhe dezinfektuar.
+4. Kur anijet furnizohen me ujë, uji që përdoret për produktet e peshkimit, vendoset në një pozicion që të shmangë ndotjen e ujit të furnizuar.
+5. Anijet projektohen dhe ndërtohen në mënyrë që të mos shkaktojnë ndotje të produkteve të peshkimit me ujërat e grumbulluara, ujërat e zeza, tymin, karburantin, vajrat, yndyrnat ose substanca të tjera të pakëndshme. Mbajtësit, rezervuarët ose kontejnerët e përdorur për ruajtjen, ftohjen ose ngrirjen e produkteve të pambrojtura të peshkut, përfshirë ato të destinuara për prodhimin e ushqimit, nuk do të përdoren për qëllime të tjera përveç ruajtjes, ftohjes ose ngrirjes së këtyre produkteve, si dhe akullit ose ujit të kripur që përdoret për qëllime të tilla. Në rastin e anijeve referuese, dispozitat e zbatueshme për produktet e pambrojtura të peshkimit zbatohen për të gjitha produktet e transportuara.

@@ -1,0 +1,8 @@
+# Neni 22
+Ruajtja e produkteve të peshkimit
+1. Operatorët e biznesit ushqimor, që ruajnë produktet e peshkimit, sigurojnë përputhjen me kërkesat e mëposhtme.
+a) produktet e freskëta të peshkimit, produktet e papërpunuara të peshkimit të shkrira dhe produktet e gatuara dhe të ftohta nga krustacet dhe molusqet, mbahen në një temperaturë që i afrohet asaj të shkrirjes së akullit;
+b) produktet e ngrira të peshkimit mbahen në një temperaturë jo më shumë se -18°C në të gjitha pjesët e produktit; megjithatë, peshku i plotë i ngrirë fillimisht në ujë të kripur, i destinuar për prodhimin e ushqimit të konservuar, mbahet në një temperaturë prej jo më shumë se -9°C;
+c) produktet e peshkimit të mbajtura të gjalla të mbahen në një temperaturë dhe në një mënyrë që nuk ndikon negativisht në sigurinë ushqimore ose qëndrueshmërinë e tyre;
+d) produktet e freskëta të peshkimit, produktet e peshkut të shkrirë të papërpunuara ose produktet e peshkimit të përpunuara të jenë në një temperaturë më të ulët se ajo e shkrirjes së akullit për të lejuar përdorimin e makinerive që copëtojnë ose presin produktet e peshkimit. Ato të mbahen në temperaturën e tillë të kërkuar teknologjikisht për një periudhë kohe sa më të shkurtër dhe në çdo rast jo më shumë se 96 orë. Ruajtja dhe transporti në atë temperaturë nuk lejohet;
+e) aty ku produktet e ngrira të peshkimit duhet të jenë në një temperaturë më të lartë se -18°C për të lejuar përdorimin e makinerive që copëtojnë ose presin produktet e peshkimit, ato mbahen në temperaturë të tillë të kërkuar teknologjikisht për një periudhë kohe sa më të shkurtër dhe në çdo rast jo më shumë se 96 orë. Ruajtja dhe transporti në atë temperaturë nuk lejohet.
