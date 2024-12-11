@@ -12,6 +12,7 @@ Neni 2
 Përkufizime
 Në këtë rregullore, shkurtimet dhe përkufizimet e mëposhtme kanë këto kuptime:
 1. “MAS” është Ministria e Arsimit dhe Sportit.
+1/1. Ministria përgjegjëse për AFP (ministria përgjegjëse për arsimin dhe formimin profesional).
 2. “Maturë Shtetërore” është një standard i njësuar provimesh, nga të cilat tri të detyruara dhe një me zgjedhje të detyruar (më poshtë “me zgjedhje”), i cili vërteton përfundimin e shkollës së mesme.
 3. “Maturë Shtetërore Profesionale” është një standard i njësuar prej katër provimesh të detyruara, i cili vërteton përfundimin e shkollës së mesme profesionale.
 4. “Maturë” përfshin “Maturën Shtetërore” dhe “Maturën Shtetërore Profesionale”.
@@ -21,10 +22,11 @@ Në këtë rregullore, shkurtimet dhe përkufizimet e mëposhtme kanë këto kup
 8. “QSHA” është Qendra e Shërbimeve Arsimore.
 9. “ASCAP” është Agjencia për Sigurimin e Cilësisë në Arsimin Parauniversitar.
 10. “RASH” është Qendra Ndërinstitucionale e Rrjetit Akademik Shqiptar.
-11. “DPAP” është Drejtoria e Përgjithshme e Arsimit Parauniversitar.
+11. “AKAP” është Agjencia Kombëtare e Arsimit Parauniversitar.
 12. “DRAP” është Drejtoria Rajonale e Arsimit Parauniversitar.
 13. “ZVAP” është Zyra Vendore e Arsimit Parauniversitar.
 14. “AKAFPK” është Agjencia Kombëtare e Arsimit, Formimit Profesional dhe Kualifikimeve.
+14/1. QBNND (Qendra Burimore e Nxënësve që Nuk Dëgjojnë).
 15. “KMSH” është Komisioni i Maturës Shtetërore në ZVAP.
 16. “KSHMSH” është Komisioni Shkollor i Maturës Shtetërore.
 17. “Qendra e provimit” është institucioni ku zhvillojnë provimin një ose më shumë shkolla të mesme.
@@ -61,7 +63,7 @@ Institucionet dhe strukturat përgjegjëse për organizimin dhe zhvillimin e pro
 2. Komiteti i Maturës Shtetërore;
 3. Qendra e Shërbimeve Arsimore;
 4. Agjencia e Sigurimit të Cilësisë në Arsimin Parauniversitar;
-5. Drejtoria e Përgjithshme e Arsimit Parauniversitar;
+5. Agjencia Kombëtare e Arsimit Parauniversitar ;
 6. Drejtoria Rajonale e Arsimit Parauniversitar;
 7. Zyra Vendore e Arsimit Parauniversitar;
 8. Komisioni i Maturës Shtetërore në ZVAP;
@@ -86,8 +88,8 @@ Qendra e Shërbimeve Arsimore kryen këto detyra:
 10. Përzgjedh hartuesit dhe vlerësuesit e testeve, i trajnon dhe i certifikon ata, sipas legjislacionit në fuqi.
 11. Organizon procesin e hartimit dhe vlerësimit të testeve.
 12. Organizon hedhjen e të dhënave në sistemin kompjuterik për testet e vlerësuara.
-13. Informon çdo ZVAP për rezultatet e provimeve të Maturës të maturantëve/ kandidatëve të shkollave përkatëse, si dhe ministrinë përgjegjëse për arsimin profesional, për shkollat e arsimit profesional.
-14. Pranon kërkesat në portalin qeveritar “e-Albania” të maturantëve/kandidatëve, duke u dërguar atyre kopjet elektronike të testeve të vlerësuara.
+13. Informon çdo ZVAP për rezultatet e provimeve të maturës së maturantëve /kandidatëve të shkollave përkatëse, si dhe institucionet e arsimit profesional.
+4. Pranon kërkesat në portalin qeveritar “e-Albania” të maturantëve/kandidatëve, duke u dërguar atyre kopjet elektronike të testeve të vlerësuara.
 15. Arkivon të gjitha materialet e provimeve dhe i ruan ato për 6 (gjashtë) muaj.
 16. Ruan në formë elektronike dhe administron të gjitha të dhënat e procesit.
 17. Lëshon diplomën e Maturës Shtetërore dhe Maturës Shtetërore Profesionale për të gjithë maturantët/kandidatët. Për maturantët që do të studiojnë jashtë vendit diplomat lëshohen më datë 10 korrik.
@@ -97,8 +99,8 @@ KMSH-ja përbëhet nga 3-5 anëtarë dhe drejtohet nga drejtori i ZVAP-së. KMSH
 1. Organizon ngritjen e KSHMSH-së brenda muajit nëntor.
 2. Siguron zbatimin e akteve nënligjore të adresuara për provimet e Maturës Shtetërore.
 3. Koordinon veprimtaritë ndërmjet MAS-it, QSHA-së dhe KSHMSH-së.
-4. Dërgon zyrtarisht në QSHA dhe në DRAP (të printuar dhe në version elektronik), dy ditë pas përfundimit të shkollës, listën e maturantëve që nuk mund të japin provimet e maturës, si rezultat i mospërfundimit me sukses të vitit të fundit të shkollës së mesme.
-5. Lëshon vërtetimin me notat e maturës për çdo kandidat që do të regjistrohet me A1Z në Maturë dhe dërgon në QSHA dhe në DRAP listën e kandidatëve të regjistruar me A1Z, ku janë të pasqyruara të gjitha të dhënat mbi të cilat janë të printuara vërtetimet e lëshuara për çdo rast.
+4. Dërgon zyrtarisht në QSHA, në DRAP dhe në institucionet e arsimit profesional (të printuar dhe në version elektronik), dy ditë pas përfundimit të shkollës, listën e maturantëve që nuk mund të japin provimet e maturës, si rezultat i mospërfundimit me sukses të vitit të fundit të shkollës së mesme.
+5. Lëshon vërtetimin me notat e maturës për çdo kandidat që do të regjistrohet me A1Z në Maturë dhe dërgon në QSHA, në DRAP dhe në institucionet e arsimit profesional listën e kandidatëve të regjistruar me A1Z, ku janë të pasqyruara të gjitha të dhënat mbi të cilat janë të printuara vërtetimet e lëshuara për çdo rast.
 6. Trajnon anëtarët e KSHMSH-së, kontrollon dhe vlerëson gjendjen teknike të infrastrukturës elektronike në dispozicion të procesit.
 7. Organizon dhe monitoron plotësimin e bazës së të dhënave në sistemet informatike online për të gjitha shkollat e ZVAP-së përkatëse.
 8. Ngre komisionin shkollor në shkollën e autorizuar nga ZVAP-ja përkatëse, për hedhjen e notave për të gjitha vitet e arsimit të mesëm të kryer jashtë shtetit nga shtetas shqiptarë dhe të huaj, sipas dokumentacionit të përgatitur nga Komisioni i Posaçëm.
@@ -119,7 +121,7 @@ a) publikon në mjediset e shkollës të gjithë informacionin për zhvillimin e
 b) ndihmon dhe sqaron çdo maturant/kandidat për procedurat e zhvillimit të procesit të Maturës Shtetërore;
 c) ndihmon dhe sqaron çdo maturant/kandidat, në kuadër të këshillimit të karrierës, për procedurat dhe kriteret e pranimit në IAL;
 d) koordinon dhe mbështet IAL-të në realizimin e veprimtarive jashtë institucionit arsimor me maturantët, me qëllim njohjen e IAL-ve dhe informimin për programet e studimit të ofruara prej tyre;
-e) monitoron të gjithë procesin e plotësimit online të formularëve A1/A1Z, si dhe shkarkon nga sistemi listën e maturantëve që kanë plotësuar këta formularë (në dy kopje), të cilët i përcjell zyrtarisht në ZVAP;
+e) monitoron të gjithë procesin e plotësimit të formularëve A1/A1Z, të cilët shkarkohen nga sistemi dhe nënshkruhen nga drejtori i shkollës, mbikëqyrësi i formularëve dhe mësuesi kujdestar përkatës. Listën e maturantëve që kanë plotësuar këta formularë (në dy kopje) ia përcjell zyrtarisht ZVAP-it;
 f) koordinon me mësuesit kujdestarë plotësimin e tabelave ku janë hedhur emrat e maturantëve/kandidatëve me të dhënat personale dhe lëndën e zgjedhur në formularin A1/A1Z;
 g) monitoron, drejton dhe realizon procesin e regjistrimit në “SMIP” të rezultateve lëndore për të gjitha vitet e shkollimit të arsimit të mesëm të lartë për të gjithë maturantët/kandidatët;
 h) gjeneron certifikatat e Maturës Shtetërore dhe të Maturës Shtetërore Profesionale për maturantët e diplomuar;
@@ -133,12 +135,14 @@ o) pajis çdo maturant/kandidat me një kopje të printuar të rezultateve të h
 p) përfundon procesin e verifikimit dhe konfirmimit të rezultateve në sistem në periudhën e përcaktuar nga QSHA-ja;
 q) administron procedurën për kërkesat për rivlerësim testi të maturantit/kandidatit.
 Neni 9
-Detyrat e ASCAP-së, AKAFPK-së, DPAP-së dhe DRAP-së
+Detyrat e ministrisë përgjegjëse për AFP-në, ASCAP-it, AKAFPK-së, AKAP-it dhe DRAP-it
 1. ASCAP-i harton programet lëndore orientuese për provimet e Maturës Shtetërore, të cilat publikohen në faqet zyrtare të ASCAP-së, QSHA-së dhe MAS-it.
-2. AKAFPK-ja harton programet orientuese të provimit të Teorisë Profesionale të Integruar, për çdo kualifikim profesional, të provimeve të Maturës Shtetërore Profesionale. Programet orientuese publikohen në faqet zyrtare të AKAFPK-së dhe QSHA-së.
-3. DPAP-ja ka për detyrë:
+1/1. Ministria përgjegjëse për AFP-në ka për detyrë të përgatisë listën e të gjitha shkollave të mesme të arsimit profesional dhe ta dërgojë në AKAP.
+2. AKAFPK-ja harton programet orientuese të provimit të Teorisë Profesionale të Integruar, për çdo kualifikim profesional, të provimeve të Maturës Shtetërore Profesionale. Programet orientuese publikohen në faqet zyrtare të AKAFPK-së dhe QSHA-së. AKAFPK-ja përditëson listën e provimeve të detyruara të teorisë profesionale të integruar, sipas kualifikimit profesional që maturantët/kandidatët kanë ndjekur në shkollat profesionale.
+3. AKAP-ja ka për detyrë:
 a) të koordinojë me MAS-in, DRAP-në dhe ZVAP-në të gjithë procesin e Maturës.
 b) të koordinojë me DRAP-në dhe të sigurojë cilësinë në trajnimin e PAP-it, AP-së, PK- së dhe AS-së.
+c) Të dërgojë zyrtarisht në QSHA brenda muajit nëntor dhe elektronikisht listën dhe emërtimet zyrtare të shkollave të arsimit të mesëm të lartë, për Maturën Shtetërore dhe Maturën Shtetërore Profesionale.
 4. DRAP-i ka për detyrë:
 a) të mbështesë zhvillimin e provimeve të MSH-së.
 b) të monitorojë ZVAP-të për zbatimin e akteve ligjore për MSH-në.
@@ -338,6 +342,7 @@ Rivlerësimi i testit
 4. Mësuesit e përcaktuar sipas pikës 3, të këtij neni, shqyrtojnë kërkesat e paraqitura nga maturantët/kandidatët vetëm për pyetjet e ankimuara dhe vendosin nëse këto teste do t’i kalojnë për rivlerësim QSHA-së.
 5. KSHMSH-ja, kërkesat për rivlerësim të miratuara nga mësuesit lëndor, i përcjell në ZVAP në format elektronik, brenda datës 5 korrik dhe në format shkresor brenda datës 6 korrik.
 6. KMSH-ja në ZVAP, kërkesat e paraqitura nga KSHMSH-ja i përcjell në format elektronik në QSHA brenda datës 5 korrik, si dhe zyrtarisht në format shkresor, brenda datës 7 korrik.
+6/1. AKAP-i dërgon listën përfundimtare të maturantëve/kandidatëve që do t’i nënshtrohen rivlerësimit, në format elektronik në QSHA brenda datës 5 korrik.
 7. QSHA-ja kryen procesin e rivlerësimit të testeve, me të njëjtat rregulla e procedura si vlerësimi i testeve, duke i sekretuar me barkode testet që rivlerësohen.
 8. QSHA-ja kryen rivlerësimin e të gjithë testit. Pas rivlerësimit, vlerësimi përfundimtar i maturantit mund të jetë:
 a) me të njëjtin rezultat;
@@ -398,6 +403,13 @@ b) testin e veçantë, i cili përmban nivelin e parë dhe të dytë të arritje
 8. QSHA-ja ngre grupet e punës për hartimin e testeve të veçanta për nxënësit me AK, sipas lëndëve/kualifikimeve profesionale që ata kanë përzgjedhur në formularin A1/A1Z.
 9. Maturanti/kandidati që ditën e provimit të Maturës Shtetërore, pas hapjes së testit dhe të listës së QSHA-së, figuron në listën e maturantëve/kandidatëve me AK që zhvillojnë test të veçantë pajiset me testin e veçantë.
 10 Maturantëve/kandidatëve me aftësi të kufizuara, vërtetuar me dokumentin përkatës, me kërkesën e prindit, u krijohen kushte të përshtatshme për zhvillimin e provimit. Për ata që nuk mund të lexojnë apo të shkruajnë, PAP-i autorizon një prej AP-ve, jo të profilit, për plotësimin e testit sipas përgjigjeve të dhëna me gojë nga maturanti/kandidat.
+Neni 31/1
+Provimet e Maturës Shtetërore për nxënësit e Qendrës Burimore të Nxënësve që Nuk Dëgjojnë
+1. Maturanti/kandidati, i cili ka përfunduar me sukses vitin e fundit të shkollës së mesme të orientuar në QBNND dhe ka plotësuar formularin A1 dhe A1Z u nënshtrohet provimeve të Maturës Shtetërore.
+2. Testet e provimeve të Maturës Shtetërore hartohen nga QSHA-ja në bashkëpunim me QBNND-në, bazuar në programet orientuese mësimore dhe fondin e pyetjeve të lëndëve përkatëse.
+3. Provimet e Maturës Shtetërore për këta maturantë zhvillohen në mjediset e QBNND-së, sipas kritereve të përcaktuara në këtë rregullore, ku të jenë të pranishëm edhe mësues të gjuhës së shenjave.
+4. Testi përmban të tria nivelet e arritjeve.
+5. Vlerësimi i testeve bëhet në bashkëpunim me mësuesit e QBNND-së.
 KREU XI
 KLASIFIKIMI I MATERIALEVE DHE RUAJTJA E TYRE
 Neni 32
@@ -439,5 +451,5 @@ Masat disiplinore
 13. Për moszbatim të nenit 25, të kësaj rregulloreje, ndaj përfaqësuesve të MAS-it merren masat disiplinore sipas parashikimeve të legjislacionit në fuqi.
 14. Për pasaktësi në korrigjim, ndaj vlerësuesve merren masat “Paralajmërim për largim nga detyra”, deri “Largim nga detyra”, si dhe përjashtim nga e drejta për të qenë korrigjues për 5 vjet, sipas përcaktimeve të Kodit të Punës, masë e cila depozitohet në dosjen personale.
 15. Për publikim në të gjitha format të testeve të Maturës Shtetërore, nga hartuesit merret masa “Largim nga detyra”, si dhe “Përjashtim nga e drejta për të qenë hartues për 5 vjet”, sipas përcaktimeve të Kodit të Punës, masë e cila depozitohet në dosjen personale.
-16. Për publikim në të gjitha format të testeve të Maturës si materiale të një rëndësie të veçantë, nga çdo person deri në çastin e përfundimit të kohës së testimit, ndaj individit që i ka publikuar, Drejtoria e Përgjithshme e Arsimit Parauniversitar bën kallëzimin penal dhe ndjek procedurat përkatëse për ndjekje penale pranë organeve kompetente, në rastet kur përbën vepër penale sipas legjislacionit në fuqi.
+16. Për publikim në të gjitha format të testeve të Maturës si materiale të një rëndësie të veçantë, nga çdo person deri në çastin e përfundimit të kohës së testimit, ndaj individit që i ka publikuar, Agjencia Kombëtare e Arsimit Parauniversitar bën kallëzimin penal dhe ndjek procedurat përkatëse për ndjekje penale pranë organeve kompetente, në rastet kur përbën vepër penale sipas legjislacionit në fuqi.
 17. Masat për shkeljet e parashikuara në këtë nen, si dhe masa të tjera të konstatuara gjatë procesit të Maturës Shtetërore të lidhura me çështje të etikës dhe integritetit merren nga titullari i institucionit ku është i punësuar punonjësi. Komiteti i Maturës Shtetërore, pas shqyrtimit të procesverbaleve të dërguara nga QSHA-ja, për shkeljet e konstatuara gjatë zhvillimit të provimeve të Maturës Shtetërore, i dërgon për kompetencë institucionit përkatës që aplikon masën sipas kuadrit ligjor në fuqi. Titullari i institucionit ku është i punësuar punonjësi ndjek procedurat, sipas parashikimeve të kuadrit ligjor në fuqi.
