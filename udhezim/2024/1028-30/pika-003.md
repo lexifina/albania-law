@@ -1,0 +1,1 @@
+3. Autoriteti Kombëtar i Ushqimit (AKU) kryejnë kontrolle zyrtare mbi të gjitha anijet që zbarkojnë produkte peshkimi në portet e vendit, pavarësisht nga flamuri. Autoriteti kompetent i shtetit të cilit i përket flamuri mund të kryejë kontrolle zyrtare mbi anijet nën flamurin e tyre, ndërsa anija është në det ose në një port në një shtet tjetër.
