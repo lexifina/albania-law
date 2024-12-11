@@ -1,6 +1,6 @@
 # Neni 4
 Organizimi i shërbimit të kërkim-shpëtimit
 1. Shërbimi i kërkim-shpëtimit organizohet në nivel kombëtar.
-2. Shefi i Shtabit të Përgjithshëm të Forcave të Armatosura caktohet Koordinatori Kombëtar i Kërkimit dhe Shpëtimit (KKKSH) në Republikën e Shqipërisë. KKKSH-ja drejton operacionet e kërkim-shpëtimit nëpërmjet Qendrës Kombëtare të Kërkim-Shpëtimit.
-3. Forcat Ajrore të Republikës së Shqipërisë caktohen Koordinator Kombëtar Ajror i Kërkimit e Shpëtimit (KKAKSH). KKAKSH-ja drejton operacionet nëpërmjet Qendrës Kombëtare Ajrore të Kërkim-Shpëtimit.
-4. Roja Bregdetare caktohet Koordinator Kombëtar Detar i Kërkimit e Shpëtimit (KKDKSH). KKDKSH-ja drejton operacionet nëpërmjet Qendrës Kombëtare Detare të Kërkim-Shpëtimit.
+2. Shefi i Shtabit të Përgjithshëm të Forcave të Armatosura është Koordinatori Kombëtar i Kërkim-Shpëtimit (KKKSH) në Republikën e Shqipërisë. KKKSH-ja drejton dhe koordinon operacionet e kërkim-shpëtimit nëpërmjet Qendrës Kombëtare të Kërkim-Shpëtimit, e cila luan dhe rolin e Qendrës së Përbashkët të Koordinim-Shpëtimit (JRCC).
+3. Komandanti i Forcës Ajrore të Republikës së Shqipërisë është Koordinator Kombëtar Ajror i Kërkim-Shpëtimit (KKAKSH). KKAKSH-ja drejton dhe koordinon operacionet nëpërmjet Qendrës Ajrore të Kërkim-Shpëtimit (QAJKSH), e cila kryen dhe rolin e Qendrës Ajrore të Koordinimit të Shpëtimit (ARCC).
+4. Komandanti i Forcës Detare të Republikës së Shqipërisë është Koordinator Kombëtar Detar i Kërkimit-Shpëtimit (KKDKSH). KKDKSH-ja drejton dhe koordinon operacionet nëpërmjet Qendrës Detare të Kërkim-Shpëtimit (QKDKSH), e cila kryen edhe rolin e Qendrës Detare të Koordinimit të Shpëtimit (MRCC).
