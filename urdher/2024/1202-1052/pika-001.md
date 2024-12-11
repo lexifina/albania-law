@@ -1,0 +1,1 @@
+1. Miratimin e mesatares së çmimeve të shitjes së banesave në treg, sipas zonave kadastrale për njësitë e vetëqeverisjes vendore, të përcjella nga Enti Kombëtar i Banesave, sipas shtojcës A bashkëlidhur.
