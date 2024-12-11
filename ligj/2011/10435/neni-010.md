@@ -1,6 +1,6 @@
 # Neni 10
-Ministria e Brendshme
-Ministria e Brendshme, në zbatim të këtij ligji, kryen këto detyra:
+Ministria përgjegjëse për rendin dhe sigurinë
+Ministria përgjegjëse për rendin dhe sigurinë, në zbatim të këtij ligji, kryen këto detyra:
 a) mbështet, me kapacitetet e saj, operacionet e kërkim-shpëtimit;
 b) informon menjëherë strukturat operacionale të kërkim-shpëtimit, në rastet e aksidenteve ajrore, detare, katastrofave dhe fatkeqësive të ndryshme;
 c) siguron ruajtjen e rajonit të aksidentit, sipas kërkesës së Qendrës Kombëtare të Kërkim-Shpëtimit;
