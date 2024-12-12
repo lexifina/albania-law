@@ -1,0 +1,4 @@
+# Neni 27
+Lëvizshmëria e punonjësit kërkimor-shkencor
+1. Punonjësi kërkimor-shkencor, në kuadër të një projekti apo marrëveshjeje bashkëpunimi, mund të ushtrojë veprimtarinë e tij kërkimore-shkencore jashtë vendit për një periudhe kohore të caktuar. Kriteret, rregullat e kohëzgjatjes së periudhës së qëndrimit, marrëdhëniet administrative dhe raportet e punonjësit me institucionin ku do të angazhohet përcaktohen me marrëveshje ndërmjet palëve, bazuar në aktet e brendshme të institutit apo të njësisë së veçantë ku është punësuar.
+2. Punonjësi kërkimor-shkencor i huaj mund të ushtrojë veprimtarinë e tij kërkimore-shkencore pranë një institucioni të krijuar me ligj të posaçëm, instituti apo njësie të veçantë kërkimore-shkencore, në kuadër të një projekti apo marrëveshjeje bashkëpunimi, për një periudhë të caktuar kohe, në përputhje me legjislacionin në fuqi dhe aktet e brendshme të tyre.
