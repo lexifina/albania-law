@@ -521,3 +521,45 @@ Fshati Plan ë Bardhë/NJA Klos/Bashkia Klos
 Konfirmuar nga ASHK Zyra Vendore Mat
 SHUMA
 218208
+TABELA E SHTESAVE NË LISTËN E PRONARËVE, PASURITË E PALUAJTSHME, PRONË PRIVATE E TË CILËVE SHPRONËSOHEN ME VKM-në NR. 822, DATË 19.12.2022, “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT “NDËRTIMI I LINJËS 110 kV BURREL-BULQIZË”
+NR.
+PRONARI
+TË DHËNAT KADASTRALE (SIPAS KARTELËS SË PASURISË)
+VLERËSIMI PËR SHPRONËSIM
+Vlera totale
+Adresa
+SHËNIME: (KUFIZIME HIPOTEKORE, BARRË MBI PASURINË etj.)
+Arë
+Emri
+Atësia
+Mbiemri
+Fshati/qyteti
+Z. kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sipërfaqja totale
+Arë
+Truall
+Ndërtesë
+Volumi
+Faqe
+Sipërfaqe shpronësimi (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+30
+Bedri
+Ramazan
+Spahiu
+Plesh
+2990
+156/1/27
+Arë
+6100
+91.4
+114
+10,419.6
+10,419.6
+Fshati Plesh/Nj.A Klos/Bashkia Klos
+Konfirmuar nga ASHK-ja
+Vlera Totale
+10,419.6
