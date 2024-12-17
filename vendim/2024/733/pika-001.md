@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim përcaktimin e rregullave dhe të procedurave të masave mbështetëse për arritjen e objektivit kombëtar për burimet e rinovueshme të energjisë në sektorin e ngrohjes e të ftohjes.

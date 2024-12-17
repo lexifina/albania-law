@@ -1,0 +1,1 @@
+4. Kontributi i energjisë së rinovueshme në kërkesën finale për energji dhe mënyra e mbështetjes për sektorin e ngrohjes dhe ftohjes për arritjen e objektivave përcaktohen në Planin Kombëtar të Energjisë dhe Klimës.
