@@ -58,3 +58,53 @@ Faza 5: Përfundimi i ndërtimit (12 muaj nga faza 4) - 20% e investimit ose 281
 |Ministria e Financave dhe Ekonomisë |Shoqëria “White Roads Hotel” sh.p.k. |
 [pic]
 [pic][pic][pic][pic][pic][pic]
+REPUBLIKA E SHQIPËRISË
+ZYRA E NOTERISË TIRANE
+Nr. ______ rep.
+Nr. ______ kol.
+SHTESË E KONTRATËS ME ÇMIMIN 1 EURO KONTRATA
+(Për kontratën e qirasë nr. 5718 rep., nr. 2640 kol., datë 3.10.2022)
+Në Tiranë, sot, më datë ____ të muajit _________ të vitit 2024 (dy mijë e njëzet e katër), u paraqiten para meje noterit_______________, palët kontraktuese, si më poshtë vijon:
+Ministrisë së Ekonomisë, Kulturës dhe Inovacionit përfaqësuar nga_________________, i datëlindjes______, banues në _______, me shtetësi shqiptare, identifikuar me_______ nr. personal __________, që më poshtë do të quhet QIRADHËNËS;
+Dhe
+Subjektit investues strategjik, “White Roads Hotel” sh.p.k., me NIUS M02407023J, përfaqësuar nga z. _________, identifikuar me letërnjoftimin personal me nr. _____________, që më poshtë do të quhet QIRAMARRËS;
+Të cilët deklaruan se, mbështetur në pikën 5/gj , kreu I, të VKM-së nr. 54, datë 5.2.2014, “Për përcaktimin e kritereve, të procedurës e të mënyrës së dhënies me qira, enfiteozë apo kontrata të tjera të pasurisë shtetërore”, të ndryshuar, në vendimin 593, datë 7.9.2022, “Për dhënien e miratimit të lidhjes së kontratës së qirasë me tarifën 1/euro/kontrata, ndërmjet Ministrisë së Financave dhe Ekonomisë, si qiradhënës, dhe shoqërisë “White Roads Hotel” sh.p.k. me NUIS M02407023J, si qiramarrës, për pronat e paluajtshme shtetërore në zonën kadastrale 1739, Bashkia Himarë, pjesë e Fondit të Pasurive të Paluajtshme për Mbështetjen e Investimeve Strategjike”, vendimin e Komitetit të Investimeve Strategjike nr. 34/11, datë 1.8.2023, “Për disa shtesa në vendimin e Komitetit të Investimeve Strategjike nr. 1/6, datë 5.4.2022, “Për miratimin e statusit “Investim/investitor strategjik procedurë e asistuar”, për projektin e investimit “White Roads Hotel Hotel”, VKM nr. 560, datë 11.9.2024, “Për disa ndryshime dhe shtesa në vendimin nr. 545, datë 29.7.2022, të Këshillit të Ministrave, ’Për transferimin në Fondin e Pasurive të Paluajtshme për Mbështetjen e Investimeve Strategjike dhe kalimin në përgjegjësi administrimi të Ministrisë së Ekonomisë, Kulturës dhe Inovacionit të pronave të paluajtshme shtetërore në zonat kadastrale 1739 dhe 2863, Bashkia Himarë, për zhvillimin dhe realizimin e projektit investues strategjik ’White Roads Hotel Hotel’ me subjektin ’White Roads Hotel Hotel’ sh.p.k. NUIS/NIPT M02407023J’”, si dhe në nenet 801-825 të Kodit Civil Ministria e Ekonomisë, Kulturës dhe Inovacionit, me cilësinë e “Qiradhënësit”, pasi shqyrtoi dokumentacionin e shoqërisë qiramarrëse “White Roads Hotel” sh.p.k. për një shtesë të sipërfaqes 21 979.4 (njëzet e një mijë e nëntëqind e shtatëdhjetë e nëntë pikë katër) m2 dhe përmirësim të planit të biznesit, palët bien dakord që në kontratën e qirasë, nr. 5718 rep., nr. 2640 kol., datë 3.10.2022, të lidhur për pronat e paluajtshme shtetërore në zonën kadastrale 1739, me numër pasurie 68/122, 5240/5 dhe 68/51/2, të llojit “truall”, me sipërfaqe totale 9 157.2 m2 (nëntë mijë e njëqind e pesëdhjetë e shtatë pikë dy), në pronësi “shtet”, me vendndodhje në Gjilekë, Bashkia Himarë, pjesë e fondit të pasurive të paluajtshme për mbështetjen e investimeve strategjike”, të bëhen ndryshimet si vijon:
+Neni 1
+Neni 1 i kontratës së qirasë riformulohet si më poshtë:
+“Objekti i kësaj kontrate është dhënia me qira e pronës paluajtshme shtetërore përkatësisht: nr. pasurie 68/51/2, “truall” me sipërfaqe 6558 m2, pasuria nr. 5240/5 “truall” me sipërfaqe 544.2 m2, pasuria nr. 68/122 “truall” me sipërfaqe 2055 m2, nr. 68/49, “truall” me sipërfaqe 5139.8 m2 , 68/50, “truall” me sipërfaqe 2482.6 m2, 68/51/3 “truall” me sipërfaqe 6584 m2, 68/119/1 “truall” me sipërfaqe 3273 m2 në ZK 1739, si dhe pasurinë nr. 30/158 “truall” me sipërfaqe 4500 m2 në ZK 2863 dhe sipërfaqe totale 31 136.6 m2 (tridhjetë e një mijë e njëqind e tridhjetë e gjashtë pikë gjashtë) me vendndodhje Gjilekë, Bashkia Himarë, në pronësi të shtetit shqiptar, për zhvillimin dhe realizimin e projektit strategjik sipas plan-rilevimit dhe dokumentacionit të pronësisë lëshuar nga ASHK-ja dhe draftkontratës miratuar me VKM-në nr. ______, datë__.___.2024, “Për një shtesë dhe një ndryshim në vendimin nr. 593 datë 7.9.2022, të Këshillit të Ministrave, ’Për dhënien e miratimit për lidhjen e kontratës së qirasë, me tarifën 1 euro/kontrata, ndërmjet ministrisë së financave dhe ekonomisë, si qiradhënës, dhe shoqërisë ’White Roads hotel’ sh.p.k., me NUIS M02407023J’”, si qiramarrës, të pronave të paluajtshme shtetërore në zonën kadastrale 1739, Bashkia Himarë, pjesë e fondit të pasurive të paluajtshme për mbështetjen e investimeve strategjike.
+Neni 2
+Neni 2 i kontratës së qirasë riformulohet si më poshtë:
+“Qëllimi i kësaj kontrate është dhënia në gëzim të përkohshëm e objektit të përcaktuar në nenin 1, që do të konsistojë në ndërtimin dhe operimin e infrastrukturës ’Pro Turizëm’, duke investuar 21.300.000 (njëzet e një milionë e treqind mijë) euro përfshirë TVSH-në dhe duke punësuar minimalisht 130 (njëqind e tridhjetë) punonjës me përfundimin e investimit.”
+Neni 3
+Në nenin 5 të kontratë bëhen ndryshimet si më poshtë:
+a) Në pikën 5.4, pas fjalëve “... të vendimit të Komitetit të Investimeve Strategjike nr. 1/6, datë 5.4.2022, ...” shtohen “... si edhe të vendimit të Komitetit të Investimeve Strategjike nr. 34/11, datë 1.8.2023, ...”.
+b) Pika 5.9 dhe 5.10 riformulohet si më poshtë:
+“5.9 Totali i vlerës së investimeve në pasurinë shtetërore, sipas plan-biznesit është 21 300 000 (njëzet e një milionë e treqind mijë ) euro përfshirë TVSH-në dhe do të përfundojë brenda 48 muajve nga data e marrjes në dorëzim të objektit dhe nxjerrjeve të lejeve përkatëse për punimet. Sipas plan-biznesit të paraqitur, ky investim do të realizohet si vijon:
+Faza 1: Projektimi dhe ngritja e kantierit (6 muaj nga marrja e lejes së ndërtimit) - 10% e investimit ose 2 130 000 euro;
+Faza 2: Arritja e kuotës ±0.000 (6 muaj nga faza 1) - 20% e investimit ose 4 260 000 euro;
+Faza 3: Përfundimi i strukturës (12 muaj nga faza 2) - 25% e investimit ose 5 325 000 euro;
+Faza 4: Përfundimi i ndërtimit (12 muaj nga faza 3) - 25% e investimit ose 5 325 000 euro;
+Faza 5: Përfundimi i ndërtimit (12 muaj nga faza 4) - 20% e investimit ose 4 260 000 euro.
+|Fazat e projektit |Viti I |Viti II |Viti III |Viti IV |
+|Projektimi dhe ngritja e kantieri |10% e investimit |
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
