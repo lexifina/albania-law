@@ -1,0 +1,1 @@
+8. ZAPK-ja ndjek porositë e dhëna nga Agjencia Kombëtare e Zonave të Mbrojtura për zbatimin e projekteve dhe legjislacionit në fuqi për zonat e mbrojtura dhe është anëtare e komiteteve të menaxhimit të zonave të mbrojtura për qarqet Korçë, Gjirokastër, Fier dhe Vlorë.

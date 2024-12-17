@@ -1,0 +1,1 @@
+1. Krijimin, organizimin dhe funksionimin e Zyrës së Administrimit të Parkut Kombëtar “Lumi i Vjosës” (në vijim “ZAPK Vjosë”), si person juridik, buxhetor, në varësi të ministrit përgjegjës për zonat e mbrojtura, me seli në Tepelenë.

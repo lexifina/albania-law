@@ -1,0 +1,1 @@
+11. ZAPK-ja Vjosë ka stemën, logon dhe vulën e vet zyrtare. Stema përbëhet nga stema e Republikës së Shqipërisë, me shënimet: “Republika e Shqipërisë, Ministria (emri i ministrisë përgjegjëse), Zyra e Administrimit të Parkut Kombëtar ’Lumi i Vjosës’”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.
