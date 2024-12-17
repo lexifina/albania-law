@@ -1,4 +1,4 @@
-7. Drejtori i OBP sh.a. emërohet, lirohet ose shkarkohet nga detyra, me vendim të Asamblesë së Përgjithshme të Aksionarit. Kriteret për emërimin e drejtuesit të shoqërisë janë, si më poshtë vijon:
+7. Administratori i OBP sh.a. emërohet, lirohet ose shkarkohet nga detyra, me vendim të Asamblesë së Përgjithshme të Aksionarit sipas parashikimeve të ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar, dhe statutit të shoqërisë. Kriteret për emërimin e drejtuesit të shoqërisë janë, si më poshtë vijon:
 a) të jetë shtetas shqiptar;
 b) të ketë zotësi të plotë për të vepruar;
 c) të mos jetë dënuar me vendim gjyqësor të formës së prerë për kryerjen e një vepre penale;
