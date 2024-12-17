@@ -1,0 +1,1 @@
+4. Mënyra e plotësimit dhe e përpunimit të të dhënave, shpërndarja e ekstrakteve nga ky regjistër bëhet duke garantuar sigurinë e sistemit, standardet dhe parimet për mbrojtjen e të dhënave personale, nëpërmjet disa niveleve të sigurisë.
