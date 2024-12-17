@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të shoqërisë aksionare “Korporata e Investimeve Shqiptare”, me NIPT: M01917011D të pronave shtetërore, sipas shtojcës nr. 1, që i bashkëlidhet këtij vendimi, për realizimin e projektit të investimit “Rijetëzimi i stadiumit ’Selman Stërmasi’, Tiranë”.
