@@ -1,0 +1,1 @@
+6. Për rastet e qendrave të votimit me fraksion që kalojnë limitin numerik të përcaktuar në ligj, kryetari i bashkisë vendos për rindarjen e tyre, duke u nisur nga numri i përgjithshëm i zgjedhësve të qendrës së votimit bazë. Numri i përgjithshëm i një qendre votimi, do të ndahet në pjesë të barabarta, me jo më shumë se 1000 (një mijë) zgjedhës secila.

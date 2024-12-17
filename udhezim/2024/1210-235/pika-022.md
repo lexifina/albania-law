@@ -1,0 +1,2 @@
+22. Drejtoria e Përgjithshme e Gjendjes Civile bën rikthimin e zgjedhësve, të cilët ishin regjistruar në listën paraprake të zgjedhësve jashtë vendit dhe që deri në ditën e fundit të përfundimit të afatit për miratimin e kësaj liste, shprehin vullnetin për të ushtruar të drejtën e votës brenda vendit, pasi nuk mund të ushtrojnë të drejtën e votimit jashtë territorit të Republikës së Shqipërisë.
+VIII. Dispozita të fundit

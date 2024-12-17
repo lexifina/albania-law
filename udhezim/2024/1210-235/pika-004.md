@@ -1,0 +1,1 @@
+4. Caktimi i zgjedhësve në listën e qendrës së votimit përkatëse, kryhet sipas kodit të vendbanimit. Renditja e zgjedhësve brenda qendrës së votimit për çdo ekstrakt të listës, bëhet sipas rendit alfabetik të mbiemrit.

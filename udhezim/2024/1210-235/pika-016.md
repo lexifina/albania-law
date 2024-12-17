@@ -1,0 +1,1 @@
+16. Zgjedhësit, të cilët kanë marrë njoftimin me shkrim nga ana e bashkisë, në rastet kur konstatojnë se në përbërësit e tyre zgjedhorë ka pasaktësi, i drejtohen zyrës së gjendjes civile përkatëse në bashki/ njësi administrative, për të bërë saktësimet e nevojshme.

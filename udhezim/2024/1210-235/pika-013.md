@@ -1,0 +1,2 @@
+13. Në rast se kryetari i bashkisë nuk përmbush detyrimet e parashikuara sipas pikave 3, 4, 5 dhe 6 të këtij udhëzimi, deri në publikimin e ekstraktit të fundit, para publikimit të listës përfundimtare të zgjedhësve, Drejtoria e Përgjithshme e Gjendjes Civile kryen menjëherë ndarjen dhe/ose bashkimin e qendrave të votimit, sipas kritereve të përcaktuara në ligj, të cilat reflektohen në listat përfundimtare të zgjedhësve, datë 1.4.2025.
+III. Publikimi i ekstrakteve zgjedhore

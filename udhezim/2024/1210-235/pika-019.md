@@ -1,0 +1,1 @@
+19. Më datë 1.4.2025, çdo zyrë e gjendjes civile në bashki/njësi administrative, printon listën e zgjedhësve nga Regjistri Kombëtar dhe firmos për çdo qendër votimi, duke përfshirë edhe institucionet e posaçme, nën juridiksionin territorial të saj dhe ia dorëzon kryetarit të bashkisë.
