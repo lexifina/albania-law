@@ -1,1 +1,1 @@
-3. Pagesa e përfitimit të paaftësisë, për invalidin, paguhet nga shërbimet bankare ose Posta Shqiptare, pranë njësive të qeverisjes vendore ku ka vendbanimin përfituesi.
+3. Shtesa mujore e invalidit paguhet nga Instituti i Sigurimeve Shoqërore së bashku me pensionin e invaliditetit apo të pleqërisë, në qendrat paguese të Postës Shqiptare apo në bankat e nivelit të dytë, sipas kërkesës së përfituesit.
