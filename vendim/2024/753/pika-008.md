@@ -1,0 +1,1 @@
+8. ASIG-u ka stemën, logon dhe vulën e tij zyrtare. Stema e ASIG-ut përbëhet nga stema e Republikës së Shqipërisë dhe ka shënimet “Republika e Shqipërisë, Autoriteti Shtetëror për Informacionin Gjeohapësinor”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

@@ -1,0 +1,1 @@
+9. Vula e ASIG-ut ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave për rregullat e prodhimit, të administrimit, të kontrollit dhe ruajtjes së vulave zyrtare. Vula prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
