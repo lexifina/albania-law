@@ -1,26 +1,29 @@
 1. Grupi Negociator, përgjegjës për zhvillimin e procesit teknik të negociatave të aderimit me institucionet e Bashkimit Evropian, i ngritur me vendimin nr.749, datë 19.12.2018, të Këshillit të Ministrave, “Për krijimin, organizimin dhe funksionimin e strukturës shtetërore, përgjegjëse për zhvillimin e negociatave dhe lidhjen e traktatit të aderimit të Republikës së Shqipërisë në Bashkimin Evropian”, në kryerjen e detyrave të parashikuara në pikën 3, të kreut V, të vendimit të sipërpërmendur, përbëhet nga:
 - Znj. Majlinda Dhuka, ministër Shteti dhe Kryenegociator (në vijim “Kryenegociatori”);
-- Znj. Adea Pirdeni, zëvendësministër i Drejtësisë, negociator përgjegjës për kriteret politike dhe kapitulin 23 të legjislacionit të Bashkimit Evropian;
+- Z. Tedi Dobi, zëvendësministër i Drejtësisë, negociator përgjegjës për kriteret politike dhe kapitulin 23 të legjislacionit të Bashkimit Evropian;
 - Z. Besfort Lamallari, zëvendësministër i Brendshëm dhe negociator përgjegjës për kapitullin 24;
 - Znj. Megi Fino, zëvendësministër për Evropën dhe Punët e Jashtme, negociator përgjegjës për kapitullin 31;
-- Znj. Adela Xhemali, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kriteret ekonomike dhe kapitujt 32 dhe 33;
-- Z. Endrit Yzeiraj, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kapitujt 1, 3, 6, 7, 20 dhe 30, si dhe bashkënegociator përgjegjës për kapitujt 4, 28;
+- Znj. Adela Xhemali, zëvendësministër i Financave, negociator përgjegjës për kriteret ekonomike dhe kapitujt 32 dhe 33;
+- Z. Endrit Yzeiraj, zëvendësministër për Evropën dhe Punët e Jashtme, bashkënegociator përgjegjës për kapitullin 30;
 - Shfuqizuar;
-- Znj. Vasilika Vjero, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kapitujt 16 dhe 29;
+- Zëvendësministri i Financave, përgjegjës për tatimet dhe doganat, negociator përgjegjës për kapitujt 16 dhe 29;
 - Shfuqizuar;
 - Z. Arian Jaupllari, zëvendësministër i Bujqësisë dhe Zhvillimit Rural, negociator për kapitujt 11 dhe 12;
 - Z. Roland Kristo, zëvendësministër i Bujqësisë dhe Zhvillimit Rural, negociator për kapitullin 13;
-- Znj. Albana Tole, zëvendësministër i Arsimit dhe Sportit, negociator përgjegjës për kapitullin 25;
+- Znj. Ana Kapaj, zëvendësministër i Arsimit dhe Sportit, negociator përgjegjës për kapitullin 25;
 - Znj. Nina Guga, zëvendësministër i Arsimit dhe Sportit, negociator për kapitullin 26;
-- Znj. Almira Xhembulla, zëvendësminitër i Turizmit dhe Mjedisit, negociator për kapitullin 27;
+- Z. Sofjan Jaupaj, zëvendësminitër i Turizmit dhe Mjedisit, negociator për kapitullin 27;
 - Znj. Natasha Ahmetaj, zëvendësguvernator i dytë në Bankën e Shqipërisë, negociator përgjegjës për kapitullin 17 dhe bashkënegociator për kapitullin 4;
 - Znj. Reida Kashta, drejtor i Përgjithshëm i Agjencisë së Prokurimit Publik, negociator për kapitullin 5;
 - Z. Denar Biba, kryetar i Autoritetit të Konkurrencës, negociator për kapitullin 8;
-- Znj. Mimoza Kaçi, Autoriteti i Mbikëqyrjes Financiare, negociator në detyrë për kapitullin 9, deri në emërimin e drejtorit të përgjithshëm ekzekutiv;
+- Znj. Mimoza Kaçi, Autoriteti i Mbikëqyrjes Financiare, negociator përgjegjës për kapitullin 9;
 - Znj. Elsa Dhuli, INSTAT, negociatore për kapitullin 18.
--Znj. Jona Suli, drejtor i Përgjithshëm i Agjencisë Shtetërore të Programimit Strategjik dhe Koordinimit të Ndihmës, negociator përgjegjës për kapitullin 22;
+- Z. Arbjan Mazniku, ministër i Shtetit për Pushtetin Vendor, negociator përgjegjës për kapitullin 22;
 - Znj. Enkelejda Muçaj, zëvendësministër i Infrastrukturës dhe Energjisë, negociator përgjegjës për kapitujt 14, 15 e 21 dhe bashkënegociator përgjegjës për kapitullin 10;
 - Znj. Denada Seferi, zëvendësministër i Shëndetësisë dhe Mbrojtjes Sociale, bashkënegociator përgjegjës për kapitujt 19 dhe 28;
 - Znj. Mirlinda Karçanaj, drejtor i Përgjithshëm i Agjencisë Kombëtare të Shoqërisë së Informacionit, bashkënegociator përgjegjës për kapitullin 10;
-- Znj. Enkela Dudushi, drejtor i Departamentit të Administratës Publike, negociator përgjegjës për reformën në administratën publike.
-- Znj. Olta Manjani, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kapitullin 2, si dhe bashkënegociator përgjegjës për kapitullin 19.
+- Znj. Adea Pirdeni, ministër i Shtetit për Administratën Publike dhe Antikorrupsionin, negociator përgjegjës për reformën në administratën publike.
+- Znj. Olta Manjani, zëvendësministër i Ekonomisë, Kulturës dhe Inovacionit, negociator përgjegjës për kapitujt 2 e 3, si dhe bashkënegociator përgjegjës për kapitullin 19.
+Z. Enkelejd Musabelliu, zëvendësministër i Ekonomisë, Kulturës dhe Inovacionit, negociator përgjegjës për kapitullin 1 dhe bashkënegociator përgjegjës për kapitujt 28 e 30;
+- Z. Sokol Duma, zëvendësministër i Ekonomisë, Kulturës dhe Inovacionit, negociator përgjegjës për kapitujt 7 e 20;
+- Znj. Blerta Rama, zëvendësministër i Ekonomisë, Kulturës dhe Inovacionit, negociator përgjegjës për kapitullin 6 dhe bashkënegociator përgjegjës për kapitullin 4.
