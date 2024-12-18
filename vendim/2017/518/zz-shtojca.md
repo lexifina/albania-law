@@ -46,7 +46,8 @@ Pershkrim · te:
 B- SEKSION II PERSHKRIMIT TE PASURISE
 Lloji i Pasuris .._·_T,’-’R,U>liAL”’-L”’- - -- -- Brenda V.K.N.:lJ>_ ,Ref: PL RREG
 KUVENDIGOOINE KA E • BODRUM
-,Sip.Totale e Pasurise: Nga Sip. Totale: sa Trual
+,,Sip.Totale e Pasurise: Nga Sip. Totale: sa Trual
+,
 ,
 Nga Sip. Truall: sa Ndenesl
 Per o jesp;: Tbashk:
@@ -87,7 +88,8 @@ Datae Lesh.
 Shenime Firma
 27801 23/0512013 Republika E Shqipcrise
 I TIRAN£
-II
+III
+I
 I
 I
 04/0212015 MEVENOIM
@@ -119,7 +121,8 @@ Apro\101
 B
 1
 Marfind MYFTI Sekretar I PergJilhshem IKuvendot te 35 43278261
-((emn,mtJo !mn f:’·tZICIOnl zyrtar, tel ftrma. vula) ..,... ..,
+(((emn,mtJo !mn f:’·tZICIOnl zyrtar, tel ftrma. vula) ..,... ..,
+(
 (
 c \. / 1”’ _;;- -
 I I J< J’ I -1 Pasunse I
@@ -201,7 +204,8 @@ I.
 lnstitucioni I Pushtetit Qendror : Kuvendi Shqiperise
 . • . . .
 iF ’ :’’E11’}··1’•’’.·.-1·.·,
-JTirane ldenllf1koi: PJenn KIRI . Drejlor Sherbtm M1remba 11 ” ;l\
+JJTirane ldenllf1koi: PJenn KIRI . Drejlor Sherbtm M1remba 11 ” ;l\
+J
 J
 (emri, mbiemri, poz1cioni zyrtar) C1:: ’o•\ Bashk1a · Supervizoi: Liljana MLLOJA Drejtore Pergjitheshme s :i:J es , .’j :·1
 (emn, mb1emn, poz1C10nizyrtar) ’ ”·...: ,’ 1
@@ -209,17 +213,21 @@ Fusha perdrH unt t.... Prones · Aprovo:i
 Marlind MYFTIU Sekretar I Pergjithshemffl e Shq(peri..’/
 KnJtmt I kushtcve per funksiontmm e lnstitucionit (emn, mb1emn poziCIOnl zyrtar tel f rma,vula) 1.:
 A 8 c \ j’ P ·F· ...
-L: .... .t·il JI,, j Nr LIOji i Emn 1 Prones S1p. Nga S1p. Funks1oni per te lnst1tuc•oniI Enti lnstltUCIOnllEnti Te dhena te tjera
+L:L: .... . .... .t·il JI,, j Nr LIOji i Emn 1 Prones S1p. Nga S1p. Funks1oni per te lnst1tuc•oniI Enti lnstltUCIOnllEnti Te dhena te tjera
 L:
+L:
+.... .
 .... .
 -1. ( II ].’ :.. .,surise Prones Adresa Totale e Totale cihn me perg)egjesi perdorues
 II j,, I Prones Sa Ndertese perdoret Prona admimstrat1ve Statusi juridik i (Shemme te ve<;anta)
 t·tut ·. (m2) (m2) perdonmit
 1 ; J 4 5 6 7 8 9 10 11
 . . <. Truall Parku I Automjeteve 2412 1230 Parkim Kuvend1 Shq1perise Kuvendi Shq1perise
-Ii
+IIi
 I
-• !r’.. r.- · 1 ndertese! .. Kuvendi Shqiperise Oficine
+I
+• !r’.. r.- · 1 ndertese • !r’.. r.- · 1 ndertese! .. Kuvendi Shqiperise Oficine
+• !r’.. r.- · 1 ndertese
 • !r’.. r.- · 1 ndertese
 Rruga Muhamet Gjollesha Lavazh
 Zyra
@@ -283,7 +291,8 @@ C •SEKSION II PRONESIS£
 Ref LN 2009
 2. 5,301.70 ml
 Ref 27801
-I3. m
+II3. m
+I
 I
 Ref
 4. mI
@@ -297,15 +306,18 @@ Ref
 4. m’
 Ref
 Per pjesen e otrbashket · /
-IR f><fA.I.llli T rut§--:---...
+IR f>< IR f><fA.I.llli T rut§--:---...
+IR f><
 IR f><
 K uotaepjes ·
 I” ’t-t.’/
 - --f tnCIJ <(’’ [!’-.... (::
-vNr i Pasuris i?Jj ti
+vvNr i Pasuris i?Jj ti
+v
 v
 01$. ,._. CP1- ? ’<.
-tv>,P];Vol. _FJ’” ·
+tv>,P];tv>,P];Vol. _FJ’” ·
+tv>,P];
 tv>,P];
 ”v’
 Nr.Dok Data Emri Atesia
@@ -315,14 +327,17 @@ Mbiemri Nr 1/FIB Adresa c Pronari1 Sbumae Data e Llsh. Sbenime Firma
 Pasap Paguar Centftkates
 I TIRANE 041021201 S MEVENDIM NR 324 DATI
 16.0U01 2
-IJ;KALONNE
+IIJ;J;KALONNE
 I
+I
+J;
 J;
 PEROJEOJES ADMINISTR
 I Ml
 KUVENDIT
 I TE
-I+i -
+II+i -
+I
 I
 REPUBLIK£! SE SHQ!PERJSE
 Sheoim: Kolloruo IJF/B tt<gon:I·ondovod, persoo fiz.ilc OK juridik; F .perlloqcxu<> i fomilj<S; B • boshkeprorw (%)
