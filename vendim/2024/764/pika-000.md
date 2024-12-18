@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit ndërmjet Republikës së Shqipërisë dhe Bankës për Zhvillim të Këshillit të Evropës, për financimin e projektit “Ngritja e laboratorëve inteligjentë (smart labs) - Rrjeti i laboratorëve të TIK-ut për sistemin arsimor parauniversitar (projekti i grantit, sipas Kornizës së Investimeve të Ballkanit Perëndimor)”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
