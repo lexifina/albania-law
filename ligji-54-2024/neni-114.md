@@ -1,0 +1,4 @@
+# Neni 114
+Statusi i shërbimeve universale ekzistuese
+1. AKEP-i mund të vijojë të sigurojë disponueshmërinë ose përballueshmërinë e shërbimeve të tjera, të ndryshme nga shërbimi i përshtatshëm i aksesit broadband, siç përcaktohet në përputhje me nenin 110 të këtij ligji, dhe shërbimet e komunikimit zanor nga vendndodhje fikse, që kanë qenë në fuqi me hyrjen në fuqi të këtij ligji, nëse nevoja për shërbime të tilla është e justifikuar në kushtet kombëtare. Kur AKEP-i përcakton një ose disa sipërmarrës në të gjithë territorin e vendit ose në pjesë të tij për ofrimin e këtyre shërbimeve, atëherë zbatohen përcaktimet e nenit 113 të këtij ligji. Financimi i këtyre detyrimeve do të jetë në përputhje me nenin 128 të këtij ligji.
+2. AKEP-i rishikon detyrimet e vendosura në bazë të këtij neni brenda 3 vjetësh pas hyrjes në fuqi të këtij ligji dhe më pas çdo 3 vjet.

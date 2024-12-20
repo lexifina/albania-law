@@ -1,0 +1,3 @@
+# Neni 173
+Detyrime për sipërmarrësit ndërtues
+Në rastet e ndërtimit të godinave për qëllime biznesi ose të godinave të banimit, sipërmarrësit ndërtues detyrohen të ndërtojnë infrastrukturën për rrjetin e brendshëm të komunikimeve elektronike në përputhje me ligjin nr. 120/2016, “Për zhvillimin e rrjeteve të komunikimeve elektronike të shpejtësisë së lartë dhe sigurimin e së drejtës së kalimit”, për ndërtimin e pikave të aksesit në godinë dhe infrastrukturën e brendshme për rrjetet me shpejtësi të lartë dhe të bëjnë të disponueshme për sipërmarrësit e komunikimeve elektronike pikën e aksesit në godinë.

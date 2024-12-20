@@ -1,0 +1,3 @@
+# Neni 108
+Udhëzime për rrjetet me kapacitet shumë të lartë
+AKEP-i nxjerr rregullore për rrjetet me kapacitet shumë të lartë bazuar në udhëzuesin e BEREC-ut për rrjetet me kapacitet shumë të lartë, dhe specifikon kriteret që duhet të plotësojë një rrjet në tregun kombëtar, për t’u konsideruar si një rrjet me kapacitet shumë të lartë, veçanërisht për sa u përket parametrave të gabimit down and up-link bandwidth resilience error-related, vonesës dhe variacionit të saj. Kriteret, që duhet të plotësojë një rrjet në tregun kombëtar për t’u konsideruar si një rrjet me kapacitet shumë të lartë, përditësohen nga AKEP-i në mënyrë periodike, bazuar në udhëzimet përkatëse të BEREC-ut.

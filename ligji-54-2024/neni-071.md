@@ -1,0 +1,17 @@
+# Neni 71
+Transferimi ose dhënia me qira e të drejtave individuale të përdorimit për spektrin e frekuencave
+1. Një sipërmarrës, mbajtës i autorizimit individual për përdorimin e spektrit të frekuencave, mund të transferojë ose t’i japë me qira një sipërmarrësi tjetër të drejtat e përdorimit të frekuencave, pas miratimit nga AKEP-i, sipas përcaktimeve të këtij ligji.
+2. Nuk lejohet transferimi i të drejtave për përdorimin e spektrit të frekuencave kur kjo e drejtë është dhënë fillimisht pa pagesë ose për transmetime televizive.
+3. Qëllimi i një sipërmarrësi për transferimin ose dhënien me qira të të drejtave të përdorimit të frekuencave, si dhe transferimi efektiv i tij i njoftohet AKEP-it dhe bëhet publik. Në rastin e spektrit të harmonizuar të frekuencave, çdo transferim i të drejtave të përdorimit bëhet në përputhje me kërkesat për përdorimin e harmonizuar të spektrit.
+4. Rregullat specifike për transferimin apo dhënien me qira të të drejtave të përdorimit të frekuencave miratohen me vendim të Këshillit të Ministrave, me propozimin e ministrit, bazuar në sugjerimet e AKEP-it.
+5. Transferimi ose dhënia me qira e të drejtave të përdorimit për spektrin e frekuencave lejohet nga AKEP-i kur respektohen kushtet fillestare, që u bashkëlidhen të drejtave të përdorimit.
+6. Sipërmarrësi, mbajtës i së drejtës, dhe subjekti që kërkon transferimin apo marrjen me qira të së drejtës, bashkërisht paraqesin një kërkesë tek AKEP-i. AKEP-i në shqyrtimin e kërkesës mban parasysh që transferimi të mos shtrembërojë konkurrencën, si dhe verifikon nëse subjekti tek i cili transferohen të drejtat plotëson kushtet për përdorimin e spektrit të frekuencave.
+7. AKEP-i mund të refuzojë miratimin e transferimit me vendim nëse ka dyshime të arsyeshme se subjekti që kërkon transferimin apo marrjen me qira të të drejtave të përdorimit nuk i përmbush kërkesat për përdorimin e tyre sipas këtij ligji.
+8. Pa cenuar sigurimin e konkurrencës së drejtë e efektive, sipas nenit 72 të këtij ligji, transferimi ose dhënia me qira e të drejtave të përdorimit bazohet në:
+a) procedura të thjeshta;
+b) mosrefuzim të dhënies me qira të të drejtave të përdorimit të frekuencave, nëse subjekti mbajtës i së drejtës merr përsipër të mbetet përgjegjës për plotësimin e kushteve fillestare, që u bashkëngjiten të drejtave të përdorimit;
+c) mosrefuzim të transferimit të të drejtave të përdorimit të frekuencave, përveçse kur ekziston një rrezik i qartë që mbajtësi i ri nuk është në gjendje të përmbushë kushtet fillestare për të drejtën e përdorimit.
+9. Çdo tarifë administrative e vendosur ndaj sipërmarrjeve në lidhje me shqyrtimin e një kërkese për transferimin ose dhënien me qira të të drejtave të përdorimit të frekuencave duhet të jetë në përputhje me parimet e nenit 18 të këtij ligji.
+10. Parashikimet sipas pikës 8 të këtij neni nuk e cenojnë kompetencën e AKEP-it për të kërkuar respektimin e kushteve që u bashkëngjiten të drejtave të përdorimit në çdo kohë, si për dhënësin, ashtu edhe për marrësin e këtyre të drejtave, në përputhje me këtë ligj.
+11. AKEP-i vlerëson në kohën e duhur çdo kërkesë për të përshtatur kushtet e bashkëngjitura me të drejtat e përdorimit dhe duke siguruar që ato të drejta ose spektri përkatës i radios mund të ndahet ose të zbërthehet në mënyrën më të mirë.
+12. AKEP-i publikon detajet përkatëse në lidhje me të drejtat individuale që mund të transferohen ose të jepen me qira në një format elektronik të standardizuar.

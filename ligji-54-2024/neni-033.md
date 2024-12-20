@@ -1,0 +1,4 @@
+# Neni 33
+Certifikata e konfirmimit për lehtësimin e ushtrimit të të drejtave për instalimin e faciliteteve dhe interkoneksionit
+1. Me kërkesë të një sipërmarrësi, AKEP-i, brenda 7 ditëve kalendarike nga marrja e kërkesës, sipas rastit, lëshon një deklaratë të standardizuar, që konfirmon që sipërmarrësi ka paraqitur një njoftim, sipas pikës 3 të nenit 26 të këtij ligji. Certifikata e konfirmimit detajon rrethanat në të cilat çdo sipërmarrës që ofron rrjete ose shërbime të komunikimeve elektronike, sipas autorizimit të përgjithshëm ka të drejtë të instalojë facilitetet, të negociojë për interkoneksion ose të marrë akses e interkoneksion, me qëllim lehtësimin e ushtrimit të këtyre të drejtave gjatë aplikimit pranë niveleve të tjera të qeverisjes ose te sipërmarrësit e tjerë.
+2. Kur është e mundur teknikisht, certifikata e konfirmimit mund të lëshohet si përgjigje automatike pas njoftimit të përmendur në pikën 3 të nenit 26 të këtij ligji.

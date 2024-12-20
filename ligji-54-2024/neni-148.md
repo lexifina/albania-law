@@ -1,0 +1,7 @@
+# Neni 148
+Disponueshmëria e shërbimeve
+1. Sipërmarrësit e komunikimeve elektronike marrin të gjitha masat e nevojshme për të siguruar disponueshmërinë sa më të plotë të shërbimeve të komunikimit zanor dhe shërbimeve të aksesit në internet, të ofruara nëpërmjet rrjeteve publike të komunikimeve elektronike në rast dëmtimi katastrofik të rrjetit ose në raste të forcës madhore. Ofruesit e shërbimeve të komunikimit zanor marrin të gjitha masat e nevojshme për të siguruar akses të pandërprerë në shërbimet e emergjencës dhe transmetim të pandërprerë të paralajmërimeve publike.
+2. Pavarësisht nga pika 1 e këtij neni, sipërmarrësit që ofrojnë akses në një rrjet publik të komunikimeve elektronike mund të kufizojnë ose të ndërpresin përkohësisht aksesin në shërbimet e tyre, pa miratimin e përdoruesve, nëse kjo është e nevojshme për përmirësimin, modernizimin, mirëmbajtjen ose në rast defektesh apo dëmtimi të rrjetit.
+3. Sipërmarrësit duhet të informojnë AKEP-in dhe të njoftojnë pajtimtarët për kufizimin ose ndërprerjet e shërbimit. Ky informim bëhet:
+a) të paktën 48 orë përpara, në rastin e punimeve të planifikuara për përmirësimin, modernizimin ose mirëmbajtjen e rrjetit, që do të zgjasin më shumë se 30 minuta;
+b) sa më shpejt të jetë e mundur, por në asnjë rast më vonë se 48 orë pas ndodhjes së kufizimit ose ndërprerjes së shkaktuar nga defekte ose dëmtime të rrjetit, kur ndërprerja apo kufizimi impakton njëherazi një numër të konsiderueshëm përdoruesish që përcaktohet në rregulloren përkatëse të miratuar nga AKEP-i.

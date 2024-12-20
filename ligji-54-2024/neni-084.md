@@ -1,0 +1,14 @@
+# Neni 84
+Rastet e veçanta të shtrirjes dhe kufizimit të detyrimeve për akses
+1. Kur AKEP-i, arrin në përfundimin, duke marrë parasysh kur janë të zbatueshme dhe detyrimet për tregun përkatës mbi bazën e analizës së tregut, se detyrimet e vendosura në përputhje me shkronjën “a” të pikës 3 të nenit 82 të këtij ligji nuk mjaftojnë për adresimin e pengesave të larta ekonomike ose fizike për replikimin e një tregu ekzistues apo në zhvillim, që kufizon ndjeshëm rezultatet konkurruese për përdoruesit fundorë, mund të shtrijë vendosjen e detyrimeve të tilla të aksesit, me terma dhe kushte të drejta dhe të arsyeshme, përtej pikës së parë të shpërndarjes deri në një pikë që është më afër përdoruesit fundor, e aftë për mbajtjen e një numri të kënaqshëm lidhjesh të përdoruesve fundorë, për të mundësuar një akses të qëndrueshëm dhe komercialisht eficient për kërkuesit e tij.
+2. AKEP-i në përcaktimin e shtrirjes së detyrimit për akses përtej pikës së parë të shpërndarjes merr parasysh udhëzimet përkatëse të BEREC-ut. Kur justifikohet për arsye teknike ose ekonomike, AKEP-i vendos detyrime për aksesin aktiv ose virtual.
+3. AKEP-i, në përputhje me shkronjën “b” të pikës 3 të nenit 82 të këtij ligji, nuk vendos detyrime për ofruesit e rrjeteve të komunikimeve elektronike kur arrin në përfundimin se:
+a) ofruesi ka karakteristikat e parashikuara në pikën 1 të nenit 106 të këtij ligji, dhe vë në dispozicion një mjet alternativ të ngjashëm për të arritur te përdoruesit fundorë, duke ofruar akses në një rrjet me kapacitet shumë të lartë për çdo sipërmarrje, në mënyrë të drejtë, me terma dhe kushte jodiskriminuese dhe të arsyeshme. AKEP-i e shtrin këtë përjashtim për ofruesit e tjerë që ofrojnë akses në një rrjet me kapacitet shumë të lartë, me terma dhe kushte të drejta, jodiskriminuese dhe të arsyeshme; ose
+b) vendosja e detyrimeve rrezikon qëndrueshmërinë ekonomike ose financiare të ndërtimit të një rrjeti të ri, veçanërisht nga projektet e vogla lokale.
+4. Pavarësisht nga përcaktimi i shkronjës “a” të pikës 3 të këtij neni, AKEP-i vendos detyrime për ofruesit e rrjeteve të komunikimeve elektronike, që plotësojnë kriteret e përcaktuara në atë pikë, ku rrjeti në fjalë financohet me fonde publike.
+5. AKEP-i merr parasysh udhëzimet përkatëse të BEREC-ut dhe përcakton kriteret përkatëse për përcaktimin:
+a) e pikës së parë të përqendrimit ose të shpërndarjes;
+b) e pikës, përtej pikës së origjinës, e aftë për të pritur një numër të mjaftueshëm lidhjesh të përdoruesit fundor, për të mundësuar një sipërmarrje efikase për të kapërcyer pengesat e përsëritshme, të identifikuara si të rëndësishme;
+c) se cilat shtrirje rrjeti mund të konsiderohen të reja;
+ç) se cilat projekte mund të konsiderohen të vogla; dhe
+d) se cilat pengesa ekonomike ose fizike ndaj dublikimit janë të larta dhe jokalimtare.

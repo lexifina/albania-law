@@ -1,0 +1,7 @@
+# Neni 61
+Kërkesa e tregut
+1. Në rastin e mungesës së kërkesës në tregun kombëtar ose rajonal për përdorimin e një brezi të frekuencave për të cilin janë miratuar masa teknike zbatuese, në përputhje me politikat spektrale dhe praktikën e BE-së për përdorimin e harmonizuar të frekuencave, AKEP-i mund të lejojë një përdorim alternativ të të gjithë ose një pjese të atij brezi frekuencash, duke përfshirë përdorimin ekzistues, në përputhje me parashikimet në nenin 62 të këtij ligji, me kusht që:
+a) konstatimi i mungesës së kërkesës së tregut për përdorimin e këtij brezi bazohet në rezultatet e një konsultimi publik, në përputhje me nenin 44 të këtij ligji, duke përfshirë një vlerësim afatgjatë të kërkesës së tregut;
+b) një përdorim i tillë alternativ nuk parandalon ose pengon disponueshmërinë ose përdorimin e një brezi të tillë në vendet fqinje; dhe
+c) merret parasysh disponueshmëria afatgjatë ose përdorimi i një brezi të tillë dhe përfitimi nga ekonomia e shkallës për pajisjet që rezultojnë nga përdorimi i harmonizuar i spektrit të frekuencave në Republikën e Shqipërisë ose nëse zbatohet në Bashkimin Evropian.
+2. Çdo vendim për lejimin e përdorimit alternativ në baza të jashtëzakonshme i nënshtrohet rishikimit të rregullt periodik. Në çdo rast, me marrjen e një kërkese të mirëjustifikuar, drejtuar autoritetit kompetent, nga një përdorues i mundshëm për përdorimin e atij brezi në përputhje me masat teknike të zbatueshme, rishikimi do të kryhet menjëherë.

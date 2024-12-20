@@ -1,0 +1,13 @@
+# Neni 72
+Konkurrenca
+1. AKEP-i në dhënien, ndryshimin ose rinovimin e të drejtave të përdorimit të frekuencave, të spektrit të frekuencave për rrjetet dhe shërbimet e komunikimeve elektronike mban parasysh promovimin e konkurrencës efektive dhe shmangien e shtrembërimeve të konkurrencës në treg, në përputhje me këtë ligj.
+2. Kur AKEP-i jep, ndryshon ose rinovon të drejtat e përdorimit për spektrin e frekuencave, merr masat e duhura në lidhje me:
+a) kufizimin e sasisë së spektrit të frekuencave për të cilin e drejta e përdorimit i jepet një sipërmarrjeje ose, në rrethana të justifikuara, vendosjen e kushteve për të drejtat e përdorimit në breza të caktuar ose në blloqe të caktuara brezash frekuence, me karakteristika të ngjashme, si ofrimi i aksesit në tregun e shumicës, roaming-un kombëtar ose rajonal;
+b) rezervimin, nëse është e përshtatshme dhe e justifikuar në lidhje me një situatë specifike të tregut, të një pjese të caktuar të brezit të spektrit të radios ose grupi të brezave të frekuencave për hyrës të rinj në treg;
+c) refuzimin e dhënies së të drejtave të reja të përdorimit për spektrin e frekuencave, ose lejimin e përdorimeve të reja të spektrit në breza të caktuar, ose shoqërimin e të drejtave të reja të përdorimit ose autorizimin e përdorimeve të reja të spektrit të frekuencave për të shmangur shtrembërimin e konkurrencës nga çdo caktim, transferim ose akumulim i të drejtave të përdorimit;
+ç) përfshirjen e kushteve që ndalojnë ose imponimin e kushteve për transferimet e të drejtave të përdorimit për spektrin e frekuencave, që nuk i nënshtrohen kontrollit të bashkimit, kur transferime të tilla çojnë në dëm të konsiderueshëm për konkurrencën;
+d) ndryshimin e të drejtave ekzistuese në përputhje me këtë ligj, kur kjo është e nevojshme, për të korrigjuar një deformim të konkurrencës nga çdo transferim ose akumulim i të drejtave të përdorimit të spektrit radio.
+3. AKEP-i merr parasysh kushtet e tregut dhe standardet e disponueshme, si dhe e bazon vendimin e tij në një vlerësim objektiv dhe largpamës të kushteve konkurruese të tregut, nëse këto masa janë të nevojshme për ruajtjen ose arritjen e konkurrencës efektive, si dhe për efektet e mundshme të këtyre masave në investimet ekzistuese apo të ardhshme nga operatorët e tregut, veçanërisht për shtrirjen e rrjetit, në përputhje me parashikimet e pikës 2 të nenit 90 të këtij ligji. Gjatë zbatimit të pikës 2 të këtij neni, AKEP-i vepron në përputhje me parashikimet në nenet 37, 40, 44 dhe 50 të këtij ligji.
+4. Në lidhje me vendimet, sipas këtij neni, kur ato kanë impakt në konkurrencën e tregut të komunikimeve elektronike, AKEP-i merr një mendim paraprak nga Autoriteti i Konkurrencës.
+Seksioni 3
+Procedurat

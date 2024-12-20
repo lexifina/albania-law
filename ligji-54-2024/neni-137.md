@@ -1,0 +1,4 @@
+# Neni 137
+Përjashtimi i ndërmarrjeve të caktuara mikro
+1. Dispozitat e këtij kapitulli, me përjashtim të neneve 138 dhe 139 të këtij ligji, nuk janë të detyrueshme për t’u zbatuar nga ndërmarrjet mikro, që ofrojnë shërbime të komunikimit ndërpersonal të pavarur nga numri telefonik, përveç rasteve kur ato ofrojnë edhe shërbime të tjera të komunikimit elektronik.
+2. Një ndërmarrje mikro, që përfiton nga përjashtimi i referuar në pikën 1 të këtij neni, duhet të informojë përdoruesit fundorë për një përjashtim të tillë, përpara lidhjes së një kontrate për ofrimin e shërbimeve të komunikimit ndërpersonal të pavarur nga numri. Ky përjashtim, nëse zbatohet nga ndërmarrja mikro, duhet të deklarohet gjithashtu qartësisht në faqen e saj të internetit dhe të përfshihet si një deklarim i kufizimit të përgjegjësive në kontratën e lidhur me përdoruesin fundor.

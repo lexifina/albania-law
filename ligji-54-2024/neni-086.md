@@ -1,0 +1,12 @@
+# Neni 86
+Procedura e AKEP-it për vendosjen e detyrimeve për akses dhe vlerësimin e tyre
+1. Detyrimet dhe kushtet e vendosura në përputhje me nenet 82, 83, 84 dhe 85 të këtij ligji duhet të jenë objektive, transparente, proporcionale dhe jodiskriminuese. Këto detyrime zbatohen në përputhje me procedurat e konsultimit, të parashikuara në nenin 44 të këtij ligji.
+2. AKEP-i vlerëson rezultatet e këtyre detyrimeve dhe kushteve pesë vjet pas miratimit të masës së mëparshme, të miratuar në lidhje me të njëjtët operatorë dhe, bazuar në kushtet në zhvillim, vlerëson nëse është e përshtatshme për t’i tërhequr ose ndryshuar ato. AKEP-i njofton rezultatin e vlerësimit të tij në përputhje me procedurat e parashikuara në nenin 44 të këtij ligji.
+3. Për qëllimet e neneve 82, 83, 84 dhe 85 të këtij ligji, AKEP-i është i autorizuar të ndërhyjë me iniciativën e tij, aty ku justifikohet, për të siguruar objektivat e politikës së përcaktuar në nenin 5 të këtij ligji, në përputhje me këtë ligj dhe në veçanti me procedurat e referuara në nenet 44 dhe 45 të këtij ligji.
+4. Kur si rezultat i një analize tregu të kryer, në përputhje me nenin 90 të këtij ligji, AKEP-i konstaton se një ose më shumë sipërmarrës nuk kanë fuqi të ndjeshme tregu në tregun përkatës, ndryshon ose tërheq kushtet në lidhje me këta sipërmarrës, në përputhje me procedurat e përmendura në nenin 44 të këtij ligji, vetëm në masën që:
+a) aksesi për përdoruesit fundorë në transmetimet radiotelevizive e kanalet e transmetimit dhe shërbimet e specifikuara në përputhje me detyrimet e mbartjes, siç përcaktohet në nenin 87 të ligjit nr. 97/2013, “Për median audiovizive në Republikën e Shqipërisë”, i ndryshuar, nuk ndikohet negativisht nga një ndryshim ose tërheqje e tillë;
+b) perspektivat për konkurrencë efektive në tregjet e rrjedhës së poshtme, downstream nuk ndikojnë negativisht nga një ndryshim ose tërheqje e tillë në:
+i. shërbimet e transmetimit televiziv digjital dhe radios me pakicë; dhe
+ii. sistemet e aksesit të kushtëzuar dhe lehtësira të tjera shoqëruese.
+Palët, që preken nga ndryshimi ose tërheqja e kushteve, sipas pikës 3 të këtij neni, njoftohen paraprakisht në një periudhë të përshtatshme njoftimi. Për vlerësimin e ndikimit sipas shkronjave “a” dhe “b” të pikës 4 të këtij neni, AKEP-i kërkon informacion nga AMA.
+5. AKEP-i merr parasysh maksimalisht në konsideratë udhëzimet e BEREC-ut, të miratuara sipas Kodit Evropian të Komunikimeve Elektronike, gjatë përcaktimit të vendndodhjes së pikave fundore të rrjetit.

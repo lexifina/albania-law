@@ -1,0 +1,21 @@
+# Neni 101
+Trajtimi rregullator për rrjetet e reja me kapacitet shumë të lartë transmetimi
+1. Sipërmarrësit e përcaktuar me fuqi të ndjeshme në treg, në një ose disa tregje përkatëse, në përputhje me procedurën e përcaktuar në nenin 105 të këtij ligji, mund të paraqesin angazhime për të bashkinvestuar në shtrimin e një rrjeti të ri me kapacitet shumë të lartë, që konsiston në ofrimin e elementeve të fibrave optike deri në ambientet e përdoruesit fundor ose të stacionit bazë, subjekt i kërkesave të shkronjës “b” të pikës 2 të këtij neni, në format, si më poshtë:
+a) duke ofruar bashkëpronësi; ose
+b) ndarje të rrezikut afatgjatë nëpërmjet bashkëfinancimit; ose
+c) përmes marrëveshjeve të blerjes, duke krijuar të drejta specifike me karakter strukturor nga ofruesit e tjerë të rrjeteve ose shërbimeve të komunikimeve elektronike.
+2. AKEP-i gjatë vlerësimit të këtyre angazhimeve përcakton veçanërisht nëse oferta për bashkinvestim është në përputhje me të gjitha kushtet e mëposhtme:
+a) është e hapur në çdo moment për çdo ofrues të rrjeteve apo shërbimeve të komunikimeve elektronike;
+b) do të lejonte bashkinvestitorët e tjerë, të cilët janë ofrues të rrjeteve ose shërbimeve të komunikimeve elektronike të konkurrojnë në mënyrë efektive dhe të qëndrueshme në terma afatgjatë në tregjet e rrjedhës së poshtme downstream, në të cilat është aktive sipërmarrja e përcaktuar me fuqi të ndjeshme në treg, me terma, që përfshijnë:
+i. kushte të drejta, të arsyeshme dhe jodiskriminuese, që lejojnë aksesin në kapacitetin e plotë të rrjetit, në masën që ai është subjekt i bashkinvestimit;
+ii. fleksibilitet, për sa i përket vlerës dhe kohës së pjesëmarrjes së çdo bashkinvestitori;
+iii. mundësinë për të rritur një pjesëmarrje të tillë në të ardhmen; dhe
+iv. të drejtat reciproke të dhëna nga bashkinvestitorët pas përcaktimit të infrastrukturës së bashkinvestuar;
+c) bërjen publike nga sipërmarrja në kohën e duhur dhe të paktën gjashtë muaj përpara fillimit të shtrirjes së rrjetit të ri, nëse sipërmarrja nuk ka karakteristikat e përcaktuara në nenin 106 të këtij ligji, periudhë e cila mund të zgjatet në bazë të rrethanave kombëtare;
+ç) përmbushjen minimalisht të kritereve të përcaktuara në nenin 102 të këtij ligji, dhe se ajo është bërë me mirëbesim.
+3. Kur AKEP-i, bazuar në rezultatet e testit të tregut të kryer në përputhje me pikën 3 të nenit 105 të këtij ligji, arrin në përfundimin se angazhimi i propozuar i bashkinvestimit është në përputhje me kushtet e përcaktuara në pikën 1 të këtij neni, ai e bën atë angazhim të detyrueshëm, në përputhje me pikën 8 të nenit 105 të këtij ligji dhe nuk vendos asnjë detyrim shtesë në bazë të nenit 92 të këtij ligji në lidhje me elementet e rrjetit të ri me kapacitet shumë të lartë, që u nënshtrohen angazhimeve, kjo nëse të paktën një bashkinvestitor i mundshëm ka hyrë në një marrëveshje me sipërmarrësin e përcaktuar si me fuqi të ndjeshme në treg.
+4. Pika 3 e këtij neni nuk cenon trajtimin rregullator të rrethanave që nuk përputhen me kushtet e përcaktuara në pikën 1 të këtij neni, duke marrë parasysh rezultatet e çdo testi tregu, të kryer në përputhje me nenin 105 të këtij ligji, por që kanë një ndikim në konkurrencë dhe merren parasysh për qëllimet e neneve 90 dhe 92 të këtij ligji.
+5. Duke përjashtuar pikën 3 të këtij neni, AKEP-i, në rrethana të mirëjustifikuara, vendos të mbajë ose të përshtatë masat rregullatore në përputhje me nenet 92 deri në 99 të këtij ligji, për rrjetet e reja me kapacitet shumë të lartë, për të adresuar shtrembërimet e konkurrencës në tregje specifike, ku evidenton se problematikat e konkurrencës nuk mund të adresohen ndryshe, për shkak të karakteristikave specifike të këtyre tregjeve.
+6. AKEP-i monitoron në mënyrë të vazhdueshme respektimin e kushteve të përcaktuara në pikën 1 të këtij neni, dhe mund t’i kërkojë sipërmarrësit të shpallur me fuqi të ndjeshme në treg të paraqesë pranë AKEP-it deklaratat vjetore të përmbushjes së angazhimeve.
+Ky nen nuk cenon kompetencën e AKEP-it për të marrë vendime në zbatim të nenit 47 të këtij ligji, në rast mosmarrëveshjeje ndërmjet sipërmarrjeve, që kanë të bëjnë me përmbushjen e kushteve të marrëveshjes së bashkinvestimit, të cilat duhet të jenë në përputhje me përcaktimet e pikës 1 të këtij neni.
+7. Në zbatimin e rregullimeve, sipas këtij neni, AKEP-i merr në konsideratë udhëzimet përkatëse të BEREC-ut.

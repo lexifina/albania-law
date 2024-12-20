@@ -1,0 +1,9 @@
+# Neni 20
+Pagesat për mbikëqyrjen e tregut të komunikimeve elektronike
+1. Sipërmarrësit që ofrojnë rrjete ose shërbime të komunikimeve elektronike publike, sipas këtij ligji, janë të detyruar të paguajnë një pagesë vjetore për mbikëqyrjen e tregut të komunikimeve elektronike nga AKEP-i. Kjo pagesë bëhet për të mbuluar kostot administrative të AKEP-it.
+2. Pagesa vjetore, e përcaktuar në pikën 1 të këtij neni, nuk duhet të jetë më shumë se 0,5 për qind e të ardhurës vjetore nga komunikimet elektronike të vitit kalendarik të mëparshëm.
+3. Sipërmarrësi bën pagesën vjetore për mbikëqyrjen e tregut të komunikimeve elektronike pranë AKEP-it brenda datës 30 prill të çdo viti, menjëherë pas dorëzimit të bilancit vjetor dhe të raportit të ekspertit kontabël, i cili depozitohet nga sipërmarrësi pranë AKEP-it.
+4. Niveli i pagesës vjetore për mbikëqyrjen e tregut të komunikimeve elektronike, brenda kufirit prej 0,5 përqindësh të së ardhurës vjetore nga komunikimet elektronike, përcaktohet në rregulloren e AKEP-it, të nxjerrë në përputhje me këtë ligj.
+5. Përcaktimi i nivelit të pagesës vjetore për mbikëqyrjen e tregut nuk duhet të deformojë konkurrencën apo të krijojë pengesa për hyrjen në treg të sipërmarrësve të rinj.
+6. Para miratimit të rregullores, sipas përcaktimeve në pikën 4 të këtij neni, AKEP-i njofton me shkrim sipërmarrësit për të paraqitur mendimet dhe propozimet e tyre, me shkrim, për pagesën vjetore, mënyrën e përllogaritjes dhe të zbatimit të saj. Afati i dërgimit të propozimeve nga sipërmarrësit është 30 ditë nga data e marrjes së njoftimit. Mosdërgimi i mendimeve dhe propozimeve brenda këtij afati nuk përbën pengesë për AKEP-in që të veprojë sipas pikës 4 të këtij neni.
+7. Pagesa vjetore për mbikëqyrjen e tregut të komunikimeve elektronike bëhet në llogarinë e AKEP-it.

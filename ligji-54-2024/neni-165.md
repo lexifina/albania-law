@@ -1,0 +1,5 @@
+# Neni 165
+Komunikimet pa kërkesë
+1. Përdorimi i sistemeve të thirrjeve automatike për dërgimin e thirrjeve drejt pajtimtarëve telefonikë, pa ndërhyrjen njerëzore, si faks ose postë elektronike, për qëllime marketingu, lejohet vetëm pas miratimit paraprak të përdoruesve, i cili revokohet në çdo kohë.
+2. Personat fizikë ose juridikë, që kanë adresat e postës elektronike nga klientët e produkteve ose shërbimeve të tyre, mund t’i përdorin këto adresa për marketing të drejtpërdrejtë të produkteve apo shërbimeve të ngjashme vetëm nëse kanë marrë pëlqimin e shprehur qartë se dëshirojnë të kontaktohen për qëllime marketingu nga këta të fundit, si dhe janë të detyruar t’u japin klientëve të tyre mundësinë që, në çdo kohë, në mënyrë të thjeshtë dhe pa pagesë, të kenë mundësi të ndalojnë përdorimin, për qëllime marketingu, të postës, adresës së tyre elektronike.
+3. Ndalohet dërgimi i një mesazhi me SMS ose nëpërmjet postës elektronike për qëllime të marketingut të drejtpërdrejtë kur në të është fshehur identiteti i dërguesit ose kur mungon një adresë e vlefshme, tek e cila marrësi mund të kërkojë ndalimin e këtyre komunikimeve.

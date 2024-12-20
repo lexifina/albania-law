@@ -1,0 +1,7 @@
+# Neni 174
+Masat e jashtëzakonshme për sigurimin e shërbimit
+1. Sipërmarrësit detyrohen që me rrjetet dhe shërbimet e tyre të përballojnë nevojat e shtetit në situatë të jashtëzakonshme dhe kur e kërkojnë interesat e mbrojtjes kombëtare e sigurisë së rendit publik.
+2. Sipërmarrësit, që ofrojnë akses në rrjetet e komunikimeve elektronike publike dhe shërbime të komunikimeve elektronike të vlefshme për publikun, hartojnë dhe paraqesin në AKEP një plan për të siguruar integritetin e rrjetit të komunikimeve publike dhe akses në shërbimet e komunikimeve publike, të zbatueshëm në situatë të jashtëzakonshme. Në kuptim të këtij ligji, me situatë të jashtëzakonshme kuptojmë dëmtimet e rënda të rrjetit, fatkeqësitë natyrore, gjendjen e emergjencës civile ose gjendjen e luftës.
+3. Planet, sipas pikës 2 të këtij neni, sigurojnë akses të pandërprerë dhe përdorimin e numrave të emergjencës.
+4. Planet detyrojnë sipërmarrësit të zbatojnë masat emergjente përgjatë gjithë kohëzgjatjes së situatës të jashtëzakonshme.
+5. Me vendim të Këshillit të Ministrave miratohen masat për sigurimin e vazhdueshmërisë së ofrimit të shërbimeve të komunikimeve elektronike në situata të jashtëzakonshme, me propozimin e ministrit, në bashkëpunim me strukturat e tjera të caktuara me ligj për trajtimin e situatave të jashtëzakonshme dhe me AKEP-in. Këto masa duhet të përfshihen në planet e masave, sipas pikës 1, të këtij neni.

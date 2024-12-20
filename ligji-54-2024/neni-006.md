@@ -1,0 +1,12 @@
+# Neni 6
+Përmbushja e objektivave
+1. Për arritjen e objektivave të përcaktuar në nenin 5 të këtij ligji, AKEP-i ndërmerr të gjitha masat e nevojshme proporcionale, sipas përcaktimeve të këtij ligji, në bashkëpunim me ministrinë përgjegjëse dhe autoritetet e tjera përkatëse të përcaktuara në këtë ligj.
+2. AKEP-i mbështet ministrinë dhe Këshillin e Ministrave në krijimin e praktikave më të mira dhe raporteve për efektivitetin e masave të ndërmarra për arritjen e objektivave të përgjithshëm, të përcaktuar në nenin 5 të këtij ligji.
+3. Në zbatim të objektivave politikë, të përcaktuar në nenin 5 të këtij ligji, AKEP-i:
+a) promovon parashikueshmërinë rregullatore, duke siguruar një qasje rregullatore të qëndrueshme gjatë rishikimeve periodike të vendimeve rregullatore, duke marrë në konsideratë opinionet, rekomandimet, udhëzimet, këshillimet apo praktikat më të mira rregullatore të zhvilluara nga BEREC-u dhe RSPG-ja;
+b) siguron trajtim jodiskriminues të ofruesve të rrjeteve dhe shërbimeve të komunikimeve elekronike në kushte të ngjashme;
+c) zbaton për aq sa është e mundur parimin e neutralitetit teknologjik në përputhje me objektivat e përcaktuar në pikën 1 të nenit 5 të këtij ligji dhe praktikën e BE-së;
+ç) promovon investimet eficiente dhe inovacionin në infrastrukturat e reja dhe ato të përmirësuara, duke përfshirë sigurimin që çdo detyrim aksesi, merr në konsideratë rrezikun e shkaktuar nga sipërmarrësit investues dhe lejon marrëveshje të ndryshme bashkëpunimi ndërmjet investitorëve dhe palëve që kërkojnë akses për të diversifikuar rrezikun e investimit dhe siguruar njëkohësisht ruajtjen e konkurrencës në treg dhe parimin e mosdiskriminimit;
+d) merr në konsideratë kushtet e ndryshme në lidhje me infrastrukturën, konkurrencën, rrethanat e përdoruesve fundorë dhe në veçanti të përdoruesve në zona të ndryshme gjeografike në territorin e Republikës së Shqipërisë, duke përfshirë infrastrukturën lokale, të administruar nga persona fizikë, jo për qëllime fitimi;
+dh) imponon detyrime rregullatore, sipas këtij ligji, vetëm për aq sa është e nevojshme për sigurimin e konkurrencës së qëndrueshme dhe efektive, në interes të përdoruesve fundorë dhe lehtëson ose heq këto detyrime sa më shpejt të jetë e mundur kur plotësohen kushtet në treg.
+4. AKEP-i, në përmbushje të objektivave të përcaktuar në pikën 3 të këtij neni, vepron në mënyrë të pavarur, objektive, transparente, jodiskriminuese dhe proporcionale.

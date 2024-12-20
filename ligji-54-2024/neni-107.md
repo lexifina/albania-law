@@ -1,0 +1,9 @@
+# Neni 107
+Migrimi i infrastrukturës së trashëguar
+1. Sipërmarrësit e shpallur me fuqi të ndjeshme në treg në një ose disa tregje përkatëse, në përputhje me nenin 90 të këtij ligji, njoftojnë paraprakisht dhe në kohën e duhur AKEP-in kur planifikojnë të heqin ose të zëvendësojnë me një infrastrukturë të re pjesë të rrjetit, duke përfshirë infrastrukturën e trashëguar, të nevojshme për të operuar një rrjet bakri, të cilat janë subjekt i detyrimeve sipas neneve 92 deri në 106 të këtij ligji.
+2. AKEP-i siguron që procesi i çmontimit ose zëvendësimit të përfshijë një orar dhe kushte transparente, me një periudhë të përshtatshme njoftimi për tranzicionin dhe të vendosë disponueshmërinë e produkteve alternative me cilësi të krahasueshme, duke siguruar akses në infrastrukturën e rrjetit të përmirësuar, duke zëvendësuar elementet e nevojshme për të mbrojtur konkurrencën dhe të drejtat e përdoruesve fundorë.
+3. Në lidhje me asetet që propozohen për heqje ose zëvendësim, AKEP-i tërheq detyrimet pasi të ketë konstatuar se ofruesi i aksesit:
+a) ka krijuar kushtet e përshtatshme për migrimin, duke përfshirë vënien në dispozicion të një produkti alternativ aksesi, me cilësi të krahasueshme, siç kur ishte i disponueshëm, duke përdorur infrastrukturën e trashëguar dhe që u mundëson kërkuesve të aksesit të arrijnë të njëjtët përdorues fundorë;
+b) ka respektuar kushtet dhe ka kryer njoftimin për procesin në AKEP, sipas këtij neni.
+Një tërheqje e tillë zbatohet në përputhje me procedurat e përmendura në nenin 44 të këtij ligji.
+4. Ky nen nuk cenon disponueshmërinë e produkteve të rregulluara, si: fibrat e errëta, aksesin lokal të pakufizuar virtual ose produkte të tjera bitstream, të imponuara nga AKEP-i për infrastrukturën e përmirësuar të rrjetit, në përputhje me procedurat e përcaktuara në nenet 90 dhe 92 të këtij ligji.
