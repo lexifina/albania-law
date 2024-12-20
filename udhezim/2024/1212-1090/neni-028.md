@@ -1,0 +1,5 @@
+# Neni 28
+Vlerësimi përfundimtar dhe certifikimi i nxënësit që mëson profesionin
+1. Vlerësimi përfundimtar i punës për mësimin e profesionit, të nxënësit që mëson profesionin është vlerësimi me notë që kryhet në përfundim të veprimtarive të punës, i llogaritur si mesatare e ponderuar e vlerësimeve (notave) të fituara gjatë vlerësimit të vazhduar për çdo kompetencë profesionale dhe personale, që përmbahet në program.
+2. Institucioni ofrues i arsimit dhe formimit profesional angazhon punëdhënësit që zbatojnë kontratën për mësimin e profesionit dhe mentorin, që ka ndjekur nxënësin gjatë zbatimit të kontratës për mësimin e profesionit, në komisionet e vlerësimit në provimet përfundimtare të praktikës profesionale për çdo kualifikim profesional sipas parashikimeve ligjore në fuqi.
+3. Në përfundim të studimeve, sipas niveleve të KSHK-së, në arsimin dhe formimin profesional në formën e dyfishtë, institucioni ofrues i arsimit dhe i formimit profesional lëshon certifikatë profesionale dhe suplementin përkatës për nxënësin që mëson profesionin sipas legjislacionit në fuqi.

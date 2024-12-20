@@ -1,0 +1,4 @@
+# Neni 23
+Programi i përgjithshëm i veprimtarive për mësimin e profesionit në mjediset e punës
+1. Programi i veprimtarive për mësimin e profesionit në mjediset e punës është specifik sipas kualifikimit përkatës, në përputhje me skeletkurrikulën dhe hartohet nga institucioni ofrues i arsimit dhe i formimit profesional në bashkëpunim me mentorin, sipas formatit të përcaktuar në këtë rregullore. (Shtojca nr. 7, “Format për programin e përgjithshëm i veprimtarive për mësimin e profesionit në mjediset e punës”.)
+2. Mësuesi i kulturës profesionale, përgjegjës për ndjekjen e zbatimit të kontratës për mësimin e profesionit, në bashkëpunim me mentorin, përcaktojnë numrin e nxënësve që mësojnë profesionin, në vendin e punës, periudhën kohore, si dhe vëllimin e kohës së zhvillimit të veprimtarive për mësimin e profesionit, në varësi të kushteve të nevojshme për të nxënë në mjedisin e punës.

@@ -1,0 +1,15 @@
+# Neni 16
+Mësuesi i kulturës profesionale përgjegjës për ndjekjen e zbatimit të kontratës për mësimin e profesionit
+Mësuesi i kulturës profesionale përgjegjës për ndjekjen e zbatimit të kontratës për mësimin e profesionit, ushtron këto detyra:
+a) koordinon planifikimin, zbatimin, monitorimin dhe vlerësimin e vazhduar dhe përfundimtar të veprimtarive të punës të nxënësve, që mësojnë profesionin në shkollë dhe në vendin e punës;
+b) bashkëpunon me stafin drejtues të institucionit, dhe punëdhënësit për përpilimin e programit të veprimtarive për mësimin e profesionit në mjediset e punës (shtojca nr. 5, “Model formati i programit të veprimtarive për mësimin e profesionit në mjediset e punës”);
+c) siguron pajtueshmërinë me ndryshimet legjislative të arsimit profesional në formë të dyfishtë dhe integron ndryshimet e reja në aspektet përkatëse të zbatimit të kontratës për mësimin e profesionit;
+ç) bashkëpunon me punëdhënësit, koordinatorin për marrëdhëniet me biznesin dhe stafin drejtues të institucionit për zbatimin cilësor të veprimtarive në vendin e punës për mësimin e profesionit;
+d) koordinon punën me mentorin për planifikimin, zbatimin, monitorimin dhe vlerësimin e veprimtarive për mësimin e profesionit në vendin e punës nga nxënësi që mëson profesionin;
+dh) organizon takime periodike me mentorët dhe punëdhënësit për të shqyrtuar progresin e nxënësve që mësojnë profesionin dhe për të adresuar sfidat e hasura gjatë procesit të të nxënit në vendin e punës;
+e) mban dhe plotëson të gjitha evidencat e përcaktuara në këtë udhëzim për planifikimin, zbatimin, monitorimin dhe vlerësimin e veprimtarive për mësimin e profesionit në vendin e punës për mësimin e profesionit (plani i punës, fletorja e vlerësimit etj.);
+ë) ofron këshillim dhe mbështetje për nxënësit që mësojnë profesionin nëse hasin vështirësi në mjedisin e punës, qoftë në aspektin teknik apo në marrëdhëniet me mentorin dhe kolegët;
+f) lehtëson organizimin e vizitave të prindërve/kujdestarëve ligjorë të nxënësve që mësojnë profesionin pranë punëdhënësve, për të rritur transparencën dhe mirëkuptimin për mënyrën se si zbatohet kontrata për mësimin e profesionit;
+g) mbështet pjesëmarrjen e nxënësve që mësojnë profesionin në aktivitete formuese, si: konkurse, panaire apo projekte kombëtare dhe ndërkombëtare, që kontribuojnë në aftësimin profesional të tyre dhe përgatitjen për tregun e punës, me mirëkuptimin e punëdhënësit;
+gj) harton një raport vjetor për vlerësimin e bashkëpunimit me punëdhënësit;
+h) ngarkesa mësimore e mësuesit të kulturës profesionale përgjegjës për ndjekjen e zbatimit të kontratës për mësimin e profesionit përcaktohet sipas legjislacionit në fuqi për përcaktimin e ngarkesës mësimore në arsimin dhe formimin profesional dhe përfshin: i. mbulimin për klasën kujdestari; ii. koordinimin, ndjekjen, monitorimin, dokumentimin dhe vlerësimin e veprimtarive të punës për mësimin e profesionit në vendin e punës për mësimin e profesionit; si dhe iii. lëndë/module profesionale të profilit të diplomës që ata zotërojnë.
