@@ -71,9 +71,4 @@ xi. merr pjesë në grupet e punës të ngritura, për zhvillimin e aktiviteteve
 xii. raporton rregullisht te drejtori i ofruesit publik të AFP-së, për zbatimin e procesit mësimor në lëndët dhe modulet e teorisë dhe praktikës profesionale;
 xiii. administron regjistrat e klasave në përdorim të përditshëm;
 xiv. kryen çdo detyrë tjetër të ngarkuar nga drejtori i ofruesit publik të AFP-së, në përputhje me legjislacionin e AFP-së dhe legjislacionin e punës.
-3. Detyrat e zëvendësdrejtorit të kulturës profesionale të AFP-së për zbatimin e arsimit të dyfishtë:
-a) Planifikon dhe organizon punën me përgjegjësit e departamenteve, njësinë e zhvillimit dhe mësuesin e kulturës profesionale përgjegjës për klasën e arsimit të dyfishtë, për planifikimin, zbatimin, monitorimin dhe vlerësimin e punës për mësimin e profesionit të nxënësve punëmarrës, në mjediset e kompanive trajnuese për arsimin e dyfishtë;
-b) Monitoron procesin e mbarëvajtjes dhe frekuentimit të nxënësit punëmarrës, gjatë punës për mësimin e profesionit, në bashkëpunim me mentorin në kompanitë trajnuese për arsimin e dyfishtë;
-c) Planifikon dhe organizon punën me përgjegjësit e departamenteve për monitorimin e zbatimit të punës për mësimin e profesionit në kompanitë trajnuese për arsimin e dyfishtë.
-d) Raporton periodikisht te drejtori i IOAFP-së në lidhje me zbatimin e punës për mësimin e profesionit në kompanitë trajnuese për arsimin e dyfishtë;
-e) Realizon çdo detyrë tjetër të ngarkuar nga drejtori i IOAFP-së lidhur me koordinimin dhe mbarëvajtjen e punës për mësimin e profesionit në kompanitë trajnuese për arsimin e dyfishtë.
+3. Shfuqizuar.

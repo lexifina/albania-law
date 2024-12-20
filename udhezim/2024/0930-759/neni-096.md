@@ -18,9 +18,4 @@ l) nxit risitë dhe shkëmbimin e përvojave të suksesshme brenda dhe jashtë d
 m) nxit stafin në propozimin e ideve për projekte zhvillimore dhe sigurohet që angazhimi i tyre në projekte nuk pengon zhvillimin e procesit mësimor;
 n) mbështet personelit mësimdhënës të kulturës profesionale të departamentit në hartimin dhe zbatimin e një plani përmirësimi në varësi të sugjerimeve të dhëna nga vëzhgimi i orëve nga drejtoria;
 o) realizon analiza periodike në nivel departamenti dhe raporton rregullisht te zëvendësdrejtori i kulturës profesionale.
-4. Detyrat e përgjegjësit të departamentit mësimor për zbatimin e arsimit të dyfishtë
-Përgjegjësi i departamentit në raport me zbatimin e programeve të arsimit dhe formimit profesional në formën e dyfishtë ka këto detyra:
-a) Monitoron zbatimin e punës për mësimin e profesionit në kompanitë trajnuese për arsimin e dyfishtë në bazë të raportimeve periodike të bëra nga mësuesi i kulturës profesionale përgjegjës për klasën e arsimit të dyfishtë;
-b) Monitoron zbatimin e grafikut të realizimit të punës për mësimin e profesionit në kompaninë trajnuese për arsimin e dyfishtë nga mësuesi i kulturës profesionale përgjegjës për klasën e arsimit të dyfishtë dhe kujdestarët e praktikës profesionale;
-c) Siguron dokumentimin e procesit të punës për mësimin e profesionit nga mësuesi i kulturës profesionale përgjegjës për klasën e arsimit të dyfishtë, përfshirë instrumentet e vlerësimit, fletoren e frekuentimit të punës nga nxënësit punëmarrës, dosjet personale të nxënësve të realizimit të punës në kompani trajnuese për arsimin e dyfishtë, pajisjen e nxënësve me kartën e shëndetit, librezat shëndetësore etj., sipas kualifikimeve profesionale dhe udhëzimeve në fuqi;
-d) Realizon analiza periodike në nivel departamenti në lidhje me zbatimin e punës për mësimin e profesionit në mjediset e kompanisë trajnuese për arsimin e dyfishtë, dhe raporton periodikisht te nëndrejtori i kulturës profesionale.
+4. Shfuqizuar.

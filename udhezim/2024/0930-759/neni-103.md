@@ -5,14 +5,14 @@ a) shkëmben informacion nëpërmjet takimeve periodike e vizitave në mjediset 
 b) koordinon nevojat e institucionit për kryerjen e praktikave profesionale të nxënësve dhe të kursantëve me mundësitë e kapacitetet e bizneseve;
 c) mbledh informacion nga bizneset dhe partnerët për vlerësimin dhe rishikimin e vazhdueshëm të ofertës së institucionit, me qëllim adresimin e duhur të nevojave lokale e rajonale të tregut të punës për të përmirësuar ofertën ekzistuese (drejtime, profile, module, kurse afatshkurtra) ose për të zhvilluar ofertë të re (module, kurse afatshkurtra);
 d) identifikon biznese të reja, me qëllim zgjerimin e rrjetit të bashkëpunëtorëve partnerë socialë;
-e) studion tregun periodikisht dhe sipas nevojave, kategorizon dhe përzgjedh kompanitë që lidhen me drejtimet e shkollës; krijon një listë të kompanive potenciale trajnuese për arsimin e dyfishtë dhe e ndan atë me mësuesin e kulturës profesionale përgjegjës për klasën e arsimit të dyfishtë;
+e) shfuqizuar;
 f) krijon e mirëmban një bazë të dhënash ku të jenë të regjistruara informacione kontakti dhe informacione të tjera më rëndësi për mbajtjen e lidhjeve;
-g) krijon, mirëmban dhe përditëson rregullisht bazën e të dhënave për kompanitë trajnuese për arsimin e dyfishtë, pas verifikimit të përmbushjes së kritereve të kompanive potenciale nga mësuesi i kulturës profesionale përgjegjës për klasën e arsimit të dyfishtë, si dhe e ndan me njësinë e zhvillimit, drejtorinë e shkollës dhe AKPA-
+g) shfuqizuar;
 h) promovon ofruesin publik të AFP-së, te bizneset në rajon;
-i) ndërton marrëdhënie me partnerë të tjerë socialë në rajon dhe më gjerë.
-j) mban kontakt të vazhdueshëm me kompanitë trajnuese për arsimin e dyfishtë dhe mentorët në kompani për ecurinë e punës për mësimin e profesionit me qëllim përmirësimin e cilësisë të zbatimit të skeletkurrikulës.
+i) ndërton marrëdhënie me partnerë të tjerë socialë në rajon dhe më gjerë;
+j) shfuqizuar;
 k) planifikon, koordinon dhe përfshin kompani partnere në aktivitet promovuese të ofruesit publik;
-l) planifikon, koordinon dhe përfshin kompani partnere në ofrimin e orëve nga përfaqësues të industrisë,
-m) planifikon, koordinon dhe përfshin kompani partnere për sponsorizime të mundshme në ofruesit publik,
-n) planifikon, koordinon dhe përfshin kompani partnere në proceset të brendshme dhe bordit drejtues të ofruesit publik,
+l) planifikon, koordinon dhe përfshin kompani partnere në ofrimin e orëve nga përfaqësues të industrisë;
+m) planifikon, koordinon dhe përfshin kompani partnere për sponsorizime të mundshme në ofruesit publik;
+n) planifikon, koordinon dhe përfshin kompani partnere në proceset të brendshme dhe bordit drejtues të ofruesit publik;
 o) planifikon, koordinon dhe përfshin kompani partnere pjesëmarrjen në projekte të përbashkëta nga donatorët dhe organizata të ndryshme.

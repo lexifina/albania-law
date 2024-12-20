@@ -21,10 +21,4 @@ p) garanton ngritjen dhe funksionimin e këshillave, komisioneve dhe grupeve të
 q) mbikëqyr kushtet e ruajtjes së shëndetit, higjienës, pastërtisë së mjedisit e sigurisë së nxënësve, kursantëve e punonjësve, si edhe organizimin e veprimtarive ndërgjegjësuese për çështjet e sigurisë e shëndetit me nxënës, kursantë, mësues, instruktorë dhe prindër;
 r) siguron dhe raporton rregullisht në Drejtorinë Qendrore të AKPA-së dhe institucionet e tjera përgjegjëse për AFP-në, për treguesit administrativë në nivel ofruesi publik sipas legjislacionit në fuqi;
 s) kryen çdo detyrë tjetër të parashikuar në këtë udhëzim dhe në kuadrin ligjor në fuqi.
-3. Drejtori i institucionit në raport me zbatimin e programeve të arsimit dhe formimit profesional në formën e dyfishtë ka këto detyra:
-a) Drejton dhe mbikëqyr procesin e përzgjedhjes së kompanive trajnuese për arsimin e dyfishtë në përputhje me kriteret e paracaktuara;
-b) Lidh dhe ndjek zbatimin e marrëveshjeve të bashkëpunimit për ofrimin e arsimit të dyfishtë me kompanitë trajnuese për arsimin e dyfishtë;
-c) Menaxhon dhe organizon zbatimin e arsimit dhe formimit profesional në formën e dyfishtë në IOAFP, si dhe garanton zbatimin e proceseve të sigurimit të cilësisë dhe përmirësimin e ofertës së arsimit të dyfishtë;
-d) Cakton në fillim të çdo viti shkollor strukturat dhe personat përgjegjës për planifikimin, zbatimin, monitorimin dhe vlerësimin e arsimit të dyfishtë në IOAFP dhe në mjediset e punës së kompanive trajnuese për arsimin e dyfishtë;
-e) Raporton përpara Bordit Drejtues të institucionit në fund të çdo viti shkollor për ecurinë dhe rezultatet e zbatimit të arsimit të dyfishtë;
-f) Raporton periodikisht dhe sipas kërkesave në institucionet përgjegjëse për AFP-në për ecurinë dhe rezultatet e zbatimit të arsimit të dyfishtë.
+3.Shfuqizuar.

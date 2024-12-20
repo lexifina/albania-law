@@ -8,8 +8,8 @@ Organizimi i veprimtarisë mësimore
 6. Kohëzgjatja e orës së mësimit teorik në ofruesit të AFP-së është 45 minuta.
 7. Ndërmjet orëve të mësimit teorik, pushimi është 5 ose 10 minuta, ndërsa pushimi i madh në mësimin teorik dhe/ose praktik zgjat 20 deri në 30 minuta.
 8. Në mësimin praktik në mjediset e ofruesit të AFP-së, kohëzgjatja maksimale është 6 orë mësimore 45-minutëshe, me një pushim ndërmjetës që zgjat 20 deri në 30 minuta.
-9. Në arsimin e dyfishtë në mjediset e ofruesit të AFP-së, kohëzgjatja maksimale është jo më shumë se 8 orë mësimore 45 minutëshe me një pushim ndërmjetës që zgjat 20 deri në 30 minuta.
-10. Në mësimin praktik në mjediset e biznesit, kohëzgjatja maksimale përcaktohet në rregulloren e posaçme për zbatimin e praktikave profesionale në biznes të ministrit përgjegjës për AFP-në.
-11. Në arsimin e dyfishtë kohëzgjatja maksimale e punës për mësimin e profesionit në kompani përcaktohet në legjislacionin e posaçëm për zbatimin e arsimit të dyfishtë.
+9. Shfuqizuar.
+10. Shfuqizuar.
+11. Shfuqizuar.
 12. Ora e mësimit është e pacenueshme, me përjashtim të rasteve të veçanta, kur cenohet shëndeti dhe siguria fizike e nxënësve.
 13. Për kurset e formimit profesional kohëzgjatja ditore të jetë jo më shumë se 8 orë mësimore 45-minutëshe.

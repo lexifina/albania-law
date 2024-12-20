@@ -5,13 +5,13 @@ Në zbatim të funksioneve të tyre, ofruesit publikë të AFP-së kryejnë dety
 2. Identifikojnë kërkesat për aftësi, nevojat për kualifikime dhe kurse ose lloje të tjera trajnimesh nga bizneset, tregu i punës dhe grupe të veçanta individësh dhe aplikojnë në ministrinë përgjegjëse për arsimin dhe formimin profesional përpara fillimit të vitit shkollor për ofrimin e këtyre kualifikimeve profesionale, përfshirë edhe ato kualifikime profesionale që do të ofrohen nëpërmjet formës së dyfishtë të AFP-së;
 3. Planifikojnë, organizojnë dhe mbikëqyrin të gjithë proceset e mësimdhënies teorike dhe praktike që zhvillohen në ofruesit publikë të AFP-së;
 4. Identifikojnë, përzgjedhin dhe nënshkruajnë marrëveshje bashkëpunimi me biznese partnere dhe mundësojnë kryerjen e praktikës profesionale në mjediset e biznesit për nxënësit/kursantët, si dhe për mësuesit për qëllime trajnimi dhe mësimi;
-5. Hartojnë, mbajnë dhe përditësojnë dosjet e kompanive të cilat plotësojnë kriteret për të ofruara arsimin e dyfishtë;
-6. Identifikojnë dhe përzgjedhin në bazë të kritereve të paracaktuara, kompanitë trajnuese dhe nënshkruajnë marrëveshje bashkëpunimi për zbatimin e programeve të arsimit dhe formimit profesional në formën e dyfishtë me qëllim kryerjen e praktikës së punës në mjediset e kompanive trajnuese për nxënësit punëmarrës;
+5. Shfuqizuar;
+6. Shfuqizuar;
 7. Planifikojnë dhe organizojnë në bashkëpunim me bizneset pjesëmarrëse praktikat profesionale në biznes, si dhe mbikëqyrin zbatimin e tyre;
-8. Planifikojnë, organizojnë dhe mbikëqyrin në bashkëpunim me kompanitë trajnuese për arsimin e dyfishtë zbatimin e programit të punës për mësimin e profesionit në mjediset e kompanive.
-9. Caktojnë strukturat dhe personat përgjegjës për planifikimin, zbatimin, monitorimin dhe vlerësimin e arsimit të dyfishtë;
+8. Shfuqizuar;
+9. Shfuqizuar;
 10. Kryejnë vlerësime të rregullta të njohurive dhe aftësive kurrikulare dhe ndërkurrikulare (aftësive të buta) të nxënësve/kursantëve që ndjekin AFP-në dhe kryejnë testime, si dhe provime përfundimtare në bashkëpunim me partnerët përkatës të biznesit, sipas udhëzimit përkatës;
-11. Koordinojnë dhe dokumentojnë vlerësimin e vazhduar dhe përfundimtar të nxënësve punëmarrës gjatë ndjekjes së arsimit të dyfishtë, si dhe lëshojnë certifikatë profesionale dhe suplementin përkatës në përfundim të studimeve sipas niveleve të KSHK-së, në arsimin dhe formimin profesional në formën e dyfishtë;
+11. Shfuqizuar;
 12. I nënshtrohen procedurës së vetëvlerësimit dhe akreditimit për të përmirësuar cilësinë e ofrimit të AFP-së;
 13. Sigurojnë një bashkëpunim të ngushtë me ofruesit e tjerë publikë të AFP-së dhe koordinojnë ofrimin e AFP-së, për t’iu përgjigjur në mënyrë më efektive nevojave të tregut të punës dhe kërkesave individuale të nxënësve/kursantëve;
 14. Bashkëpunojnë me njësitë e vetëqeverisjes vendore, bizneset, strukturat rajonale të punësimit për të promovuar zhvillimin ekonomik, rritjen e punësimit dhe rolin e AFP-së në këtë drejtim;
