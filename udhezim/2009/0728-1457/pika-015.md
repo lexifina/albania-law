@@ -1,1 +1,0 @@
-15. Pas licencimit nga Qendra Kombëtare e Licencimit, subjektet e licencuara i nënshtrohen një kontrolli periodik, jo më pak se dy herë në vit, i cili kryhet nga struktura përkatëse e Shërbimit Kombëtar të Punësimit në nivel qendror dhe/ose rajonal, sipas planit të punës së miratuar nga Drejtori i Përgjithshëm i SHKP-së.

@@ -1,1 +1,0 @@
-6. Personi përgjegjës në Drejtorinë e Politikave të Punësimit informon me shkrim kryetarin e komisionit të shqyrtimit të kërkesave për licenca, duke i propozuar datën për mbledhjen e komisionit. Kryetari i Komisionit vendos për datën e mbledhjes së komisionit.
