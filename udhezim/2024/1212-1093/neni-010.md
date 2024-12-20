@@ -1,0 +1,10 @@
+# Neni 10
+Procedurat e vendimmarrjes për licencim të subjekteve
+1. Drejtoria përkatëse në ministrinë përgjegjëse për AFP-në, pasi bën vlerësimin e dokumentacionit shoqërues e provues, të dërguar nga Agjencia Kombëtare e Punësimit dhe Aftësive, përgatit propozimin për miratimin/refuzimin e kërkesës për pajisjen me licencë dhe arsyetimin ligjor përkatës dhe ia paraqet atë ministrit, i cili vendos për:
+a) miratimin e kërkesës për pajisje me licencë;
+b) refuzimin e kërkesës për pajisje me licencë.
+2. Në rast së kërkesa miratohet, vendimi miratues së bashku me arsyetimin ligjor përkatës ngarkohet në Regjistrin Kombëtar të Licencave, autorizimeve dhe lejeve dhe një kopje përcillet në Qendrën Kombëtare të Biznesit, e cila pajis me licencë subjektin ofrues të formimit profesional me kodin X.2.B.
+3. Në rast së kërkesa refuzohet, vendimi refuzues në të cilin përcaktohen qartë shkaqet e refuzimit, ngarkohet në Regjistrin Kombëtar të Licencave, Autorizimeve dhe Lejeve dhe një kopje përcillet në Qendrën Kombëtare të Biznesit.
+4. Nëse subjekti nuk është dakord me vendimin e marrë për refuzimin e kërkesës për licencim, ai ka të drejtën e ndjekjes së procedurës së ankimimit, sipas nenit 30 të ligjit nr. 10 081, datë 23.2.2009, brenda 10 ditëve pune nga dita e marrjes së njoftimit për refuzimin e kërkesës.
+5. Ministri përgjegjës për çështjet e AFP-së, shqyrton ankimimin dhe merr vendim brenda 10 ditëve nga data e depozitimit të tij. Në rast së ky afat tejkalohet, si dhe në rastet kur ministri lë në fuqi vendimin për mosmiratimin e kërkesës për licencë, subjekti fizik/juridik i drejtohet gjykatës brenda 30 ditëve nga përfundimi i afatit të shqyrtimit të ankimimit.
+6. Për pajisjen me licencë për veprimtari të formimit profesional, subjekti paguan tarifën prej 10 000 lekësh pranë AKPA-së, e cila derdhet në llogarinë bankare të këtij institucioni. Një kopje e dokumentit për pagesën e kryer, ngarkohet nëpërmjet portalit e-Albania. Këto të ardhura përdoren nga AKPA-ja sipas legjislacionit në fuqi.
