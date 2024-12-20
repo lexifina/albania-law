@@ -4,6 +4,10 @@
 
 	PËR LICENCIMIN E SHOQËRISË UJËSJELLËS-KANALIZIME TIRANË SHA
 
+	(Ndryshuar me vendimin nr. 53, datë 20.12.2024)
+
+	(I përditësuar)
+
 Në mbështetje të neneve 13, 14, 15, 16 dhe 17, të ligjit nr. 8102, datë 28.3.1996, “Për kuadrin rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, i ndryshuar (ligji nr. 8102), VKM nr. 958, datë 6.5.2009, “Për miratimin e kategorive të licencimit dhe të procedurave për aplikim për licence” (VKM nr. 958), si dhe vendimit të Komisionit Kombëtar Rregullator nr. 29, datë 8.12.2009, “Për procedurat e dhënies dhe rinovimit të licencave profesionale për subjektet juridike e fizike që ushtrojnë veprimtari në sektorin e furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, e ndryshuar (rregullore e licencimit), 
 
 KOMISIONI KOMBËTAR RREGULLATOR,
@@ -46,7 +50,7 @@ VENDOSI:
 
 	2. Shoqëria Ujësjellës-Kanalizime Tiranë sh.a. autorizohet të kryejë veprimtaritë e licencuara me:
 
-	a) drejtues ligjor: Elton Kacidhja;
+	a) drejtues ligjor: z. Kostandin Budurushi;
 
 	b) drejtues teknik: Edgar Çani;
 
