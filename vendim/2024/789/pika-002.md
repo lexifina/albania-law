@@ -1,0 +1,1 @@
+2. Miratimin e zonifikimit të zonave arkeologjike A dhe B të qytetit të Vlorës, sipas koordinatave dhe hartave të zonifikimit në Kornizën Referuese Gjeodezike Shqiptare (KRGJSH), që i bashkëlidhen këtij vendimi.
