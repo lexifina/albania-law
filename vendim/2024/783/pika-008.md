@@ -1,0 +1,1 @@
+8. Vula e Autoritetit ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave për rregullat e prodhimit, të administrimit, kontrollit dhe ruajtjes së vulave zyrtare. Vula prodhohet, administrohet e ruhet në përputhje me legjislacionin në fuqi.

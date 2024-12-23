@@ -1,0 +1,1 @@
+4. Drejtori i përgjithshëm mbështetet nga 2 (dy) zëvendësdrejtorë të përgjithshëm. Në detyrën e zëvendësdrejtorit të përgjithshëm caktohet një nga drejtorët e drejtorive të përmbajtjes së Autoritetit, i cili, krahas detyrave funksionale, kryen çdo detyrë tjetër të caktuar nga drejtori i përgjithshëm për të mbështetur atë në mbarëvajtjen e institucionit.

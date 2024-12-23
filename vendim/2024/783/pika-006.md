@@ -1,0 +1,32 @@
+6. Autoriteti, në përmbushje të misionit, të fushave të përgjegjësisë e të përgjegjësive funksionale të tij, kryen detyrat, si më poshtë vijon:
+a) harton e monitoron zbatimin e Strategjisë Kombëtare për Sigurinë Kibernetike si institucion përgjegjës, në koordinim me institucionet e tjera përgjegjëse për sigurinë kibernetike;
+b) identifikon infrastrukturat kritike dhe të rëndësishme të informacionit, në bashkëpunim e bashkërendim me subjektet e tjera përgjegjëse për sigurinë kibernetike;
+c) vepron si pikë qendrore kontakti në nivel kombëtar e ndërkombëtar, si dhe koordinon e bashkërendon punën me institucionet e sigurisë e të mbrojtjes, si dhe bashkëpunon me subjektet e tjera përgjegjëse për sigurinë kibernetike, sipas legjislacionit në fuqi për sigurinë kibernetike;
+ç) vepron në cilësinë e CSIRT-it Kombëtar dhe CERT-it;
+d) bashkëpunon dhe shkëmben informacione të rëndësishme me operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit, në lidhje me të dhënat në sisteme, kur ato janë të rrezikuara për shkak të një incidenti kibernetik;
+dh) përcakton dhe kontrollon zbatimin e masave të sigurisë kibernetike, që duhet të aplikohen nga operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit;
+e) asiston operatorët e infrastrukturave kritike dhe të rëndësishme të informacionit në menaxhimin e incidenteve kibernetike;
+ë) kryen monitorim aktiv të infrastrukturave kritike dhe të rëndësishme të informacionit nëpërmjet informacioneve të marra nga platformat e jashtme të ngritura nga AKSK-ja ose operatorët e infrastrukturave të informacionit, si dhe nga platformat e brendshme, me kërkesë nga operatorët e infrastrukturave të informacionit, me qëllim evidentimin e parandalimin e veprimeve keqdashëse;
+f) bashkëpunon me subjektet përgjegjëse të sigurisë kibernetike në nivel kombëtar e ndërkombëtar;
+g) përgatit skemën kombëtare të certifikimit të sigurisë kibernetike, si dhe inkurajon operatorët e infrastrukturave të informacionit për përdorimin e saj;
+gj) vendos penalitete për subjektet që nuk zbatojnë detyrimet ligjore, sipas legjislacionit në fuqi për sigurinë kibernetike, nënshkrimin elektronik, identifikimin elektronik e shërbimet e besuara;
+h) krijon dhe administron regjistrin e dokumentimit të incidenteve të sigurisë kibernetike;
+i) vlerëson e analizon nivelin e sigurisë së sistemeve të infrastrukturave kritike dhe të rëndësishme të informacionit, nëpërmjet kontrolleve dhe simulimeve të vazhdueshme, si dhe përcakton masa shtesë për operatorët e infrastrukturave të informacionit për një reagim sa më të shpejtë dhe efikas ndaj incidenteve apo sulmeve kibernetike;
+j) regjistron organet e vlerësimit të konformitetit për sigurinë kibernetike për vlerësimin e masave të sigurisë kibernetike;
+k) i propozon Kryeministrit shpalljen e gjendjes së krizës kibernetike dhe masat emergjente për zgjidhjen e situatës;
+l) raporton në mënyrë periodike në lidhje me incidentet kibernetike pranë ENISA-s dhe organizmave të tjerë ndërkombëtarë, në kuadër të angazhimeve të Republikës së Shqipërisë për çështjet e sigurisë kibernetike;
+ll) kryen aktivitete ndërgjegjësimi dhe edukimi në fushën e sigurisë kibernetike për të gjitha grupet e shoqërisë;
+m) ndërmerr masa të nevojshme, bashkëpunon e bashkërendon punën me institucionet përgjegjëse për sigurinë dhe mbrojtjen e fëmijëve dhe të të rinjve, për krijimin e një mjedisi on-line të sigurt kibernetik në Republikën e Shqipërisë;
+n) identifikon, parashikon dhe ndërmerr masat e nevojshme për mbrojtjen ndaj kërcënimeve/sulmeve të mundshme kibernetike, në përputhje me legjislacionin në fuqi për sigurinë kibernetike;
+nj) propozon politikat për garantimin e sigurisë kibernetike në nivel kombëtar, monitorimin, identifikimin dhe reagimin ndaj incidenteve për mbrojtjen ndaj sulmeve/kërcënimeve kibernetike për infrastrukturat kritike dhe të rëndësishme të informacionit në Republikën e Shqipërisë, si dhe kontribuon në hartimin e politikave për ndërgjegjësimin ndaj rreziqeve kibernetike të qytetarëve, subjekteve private e autoriteteve publike;
+o) garanton sigurinë për shërbimet e besuara, në veçanti për garantimin e besueshmërisë dhe të sigurisë në transaksionet elektronike ndërmjet qytetarëve, subjekteve private dhe autoriteteve publike, duke rritur efektivitetin e shërbimeve publike e private dhe tregtisë elektronike;
+p) përcakton rregullat për identifikimin elektronik të sigurt, nënshkrimin elektronik, vulat elektronike, vulat kohore elektronike të kualifikuara, nënshkrimin elektronik të kualifikuar, vulat elektronike të kualifikuara, shërbimet e transmetimit elektronik, shërbimet elektronike të kualifikuara të transmetimit elektronik, autentifikimin e faqeve të internetit, si dhe garantimin e nivelit të lartë të sigurisë për transaksionet elektronike në Republikën Shqipërisë;
+q) përcakton rregullat dhe metodat për verifikimin e vlefshmërisë së produkteve të gjeneruara nga shërbimet e besuara, vendase dhe të huaja, duke mundësuar aksesin publik për kontrollin e vlefshmërisë së tyre nëpërmjet listave të besuara të vendeve anëtare të Bashkimit Evropian dhe protokollin on-line të statusit të certifikatave dhe të listave të revokimit të certifikatave;
+r) regjistron e publikon në faqen zyrtare të tij ofruesit e kualifikuar të shërbimeve të besuara;
+rr) ndërpret përkohësisht, tërësisht ose pjesërisht, veprimtarinë e ofruesit të shërbimeve të certifikimit, kur vërtetohet shkelje e dispozitave ligjore në fuqi për nënshkrimin elektronik, identifikimin elektronik dhe shërbimet e besuara për të ushtruar veprimtarinë e tij;
+s) regjistron dhe jep statusin “i kualifikuar” për ofruesin e shërbimit të besuar, si dhe mbikëqyr veprimtarinë e tij;
+sh) mbikëqyr e kontrollon palët e treta, në rastin kur transferohen një ose më shumë nga detyrat e shërbimeve të besuara;
+t) realizon kontrollin/monitorimin e zbatimit të standardeve dhe të procedurave të lëshimit të certifikatave të kualifikuara nga ofruesit e kualifikuar të shërbimit të besuar;
+th) mbikëqyr procesin e lëshimit të certifikatave të kualifikuara elektronike dhe implementimin e nënshkrimit elektronik në shërbimet e administratës publike;
+u) garanton zbatimin e standardeve për identifikimin e sigurt të individëve, të cilëve u lëshohen certifikatat e kualifikuara elektronike;
+v) harton rregullore dhe udhëzime në përputhje me standardet ndërkombëtare të fushës, me qëllim garantimin e transaksioneve të sigurta elektronike dhe rritjen e nivelit të sigurisë kibernetike në infrastrukturat e rëndësishme dhe kritike të informacionit në Republikën e Shqipërisë.
