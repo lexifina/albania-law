@@ -1,0 +1,1 @@
+2. Miratimin e zonifikimit të zonës arkeologjike nënujore “A” të vendbanimit palafit të fshatit Lin në Pogradec, sipas hartës dhe koordinatave në Kornizën Referuese Gjeodezike Shqiptare (KRGJSH), që i bashkëlidhen këtij vendimi.
