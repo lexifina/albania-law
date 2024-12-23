@@ -1,0 +1,1 @@
+10. Faqet zyrtare të internetit të autoriteteve publike përmbajnë informacion të plotë, të saktë dhe të përditësuar periodikisht, për detyrat, kompetencat dhe aktivitetet e autoritetit publik, si dhe për dokumentet e të dhënat e tjera të rëndësishme për publikun.

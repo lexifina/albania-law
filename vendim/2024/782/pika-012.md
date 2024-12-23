@@ -1,0 +1,1 @@
+12. Mekanizmat e mbrojtjes së të dhënave dhe sigurisë së informacionit duhet të jenë të integruar në faqet zyrtare të internetit për të ndaluar përdorimin e paligjshëm të të dhënave personale dhe për të garantuar mbrojtjen e informacionit të shtetasve.

@@ -1,0 +1,1 @@
+11. Përpunimi i të dhënave personale, në çdo rast, kryhet në përputhje me parimet, kriteret, si dhe masat tekno-organizative, të zbatueshme për garantimin e legjislacionit për mbrojtjen e të dhënave personale.

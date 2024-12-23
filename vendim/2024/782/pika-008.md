@@ -1,0 +1,1 @@
+8. Autoritetet publike janë të detyruara të marrin masa për të mbrojtur privatësinë dhe të dhënat personale të përdoruesve, në përputhje me ligjet e aplikueshme për mbrojtjen e të dhënave personale. Çdo përdorim i të dhënave personale nga palë të treta duhet të jetë i pajisur me miratim të qartë nga përdoruesit.

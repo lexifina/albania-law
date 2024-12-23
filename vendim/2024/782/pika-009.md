@@ -1,0 +1,1 @@
+9. Shtetasit dhe personat fizikë dhe/ose juridikë gëzojnë të drejtën për të përdorur pa kufizime të panevojshme dhe pa kërkesa për informacione personale faqet zyrtare të internetit të autoriteteve publike.
