@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për regjistrimin e personave që lundrojnë në bordin e anijeve të pasagjerëve që operojnë drejt ose nga portet e Republikës së Shqipërisë”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
