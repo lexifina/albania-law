@@ -1,0 +1,1 @@
+1. Ngritjen e grupit ndërinstitucional që do të kryejë negociimin e kontratës me subjektin “RCS Sport” s.p.a / “RCS Sports & Events” s.r.l, si subjekti që ka ekskluzivitetin e organizimit të eventit sportiv “Giro d’Italia”, me qëllim zhvillimin e tri tureve të para të “Giro d’Italia 2025”, në territorin e Republikës së Shqipërisë.
