@@ -1,1 +1,0 @@
-12. Fondet e miratuara për Autoritetin Kombëtar të Certifikimit Elektronik dhe Agjencinë Kombëtare për Sigurinë Kompjuterike në buxhetin e vitit 2017, transferohen në Autoritetin Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike, në të njëjtët zëra buxhetorë.

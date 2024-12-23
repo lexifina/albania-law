@@ -1,1 +1,0 @@
-9. Në të gjitha aktet nënligjore fjalët “Autoriteti Kombëtar i Certifikimit Elektronik” dhe “Agjencia Kombëtare për Sigurinë Kompjuterike” zëvendësohen me “Autoriteti Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike”.
