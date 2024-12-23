@@ -1,0 +1,1 @@
+3. Pjesëmarrja e personelit do të ketë një kohëzgjatje prej 3 (tre) vjetësh, me rotacion 180 (njëqind e tetëdhjetë) ditë. Afati i misionit fillon të llogaritet nga data e dërgimit në mision. Periudhës së qëndrimit në mision i shtohen edhe ditët e qëndrimit për marrje e dorëzim detyre dhe të vonesave të transportit strategjik për ndërrimin me personelin e radhës.

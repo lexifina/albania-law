@@ -1,0 +1,1 @@
+5. Transportimi për në atdhe i individëve të shkëputur nga misioni, në rast vdekjeje, sëmundjeje, pamundësie për të përfunduar misionin ose thyerjeje disipline, përballohet nga buxheti i Ministrisë së Mbrojtjes, përveç rasteve kur do të arrihet nënshkrimi i marrëveshjeve dy- ose shumëpalëshe, ku pala/palët tjetër/e tjera merr/marrin përsipër përballimin e këtyre shpenzimeve.
