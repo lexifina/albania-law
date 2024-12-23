@@ -1,0 +1,1 @@
+7. Agjencia Kombëtare e Planifikimit të Territorit dhe Agjencia e Zhvillimit të Territorit marrin mendimin e Autoritetit të Aviacionit Civil për çdo praktikë aplikimi për leje zhvillimi, leje ndërtimi apo praktikë hartimi dokumentesh për planifikim të territorit, që përmban objekte, struktura apo instalime që ndodhen në zonat e mbrojtura të aeroportit.

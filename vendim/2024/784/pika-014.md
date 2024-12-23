@@ -1,0 +1,1 @@
+14. Për shkeljen e dispozitave që lidhen me kryerjen e zhvillimeve apo ndërtimeve në zonat e mbrojtura të aeroportit merren masa administrative, sipas parashikimeve në ligjin nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, të ndryshuar.

@@ -1,0 +1,1 @@
+5. Autoritetet përgjegjëse për zbatimin dhe mbikëqyrjen e rregullave në zonën e mbrojtur të aeroportit janë ministria përgjegjëse për transportin ajror, Autoriteti i Aviacionit Civil (në vijim “AAC”) dhe autoritetet kompetente për kontrollin e territorit.

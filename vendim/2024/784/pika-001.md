@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është përcaktimi i rregullave për zhvillimin e zonave aeroportuale, në lidhje me ndikimet që mund të kenë në sigurinë në operim, ndërtimet e propozuara apo përdorimin e tokës në zonat e mbrojtura të aeroportit dhe jashtë tyre.

@@ -1,0 +1,1 @@
+6. Leja për zhvillim apo ndërtim në zonat e mbrojtura të aeroportit merret pranë Këshillit Kombëtar të Territorit dhe Ujit (në vijim “KKTU”), sipas parashikimeve në vendimin nr. 408, datë 13.5.2015, të Këshillit të Ministrave, “Për miratimin e rregullores së zhvillimit të territorit”, të ndryshuar.
