@@ -1,1 +1,0 @@
-3. Në pikën 1 të vendimit nr.6, datë 7.1.2005 të Këshillit të Ministrave “Për miratimin e zonave arkeologjike, brenda qendrave të banuara në Shkodër, Lezhë, Krujë, Durrës, Elbasan, Berat, Vlorë dhe Sarandë”, zonifikimi për qytetin e Vlorës shfuqizohet.
