@@ -1,0 +1,1 @@
+1. Miratimin e rregullores, “Për përcaktimin e rregullave të detajuara për operimin e balonave, si dhe për licencimin e ekuipazhit të fluturimit për balonat”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
