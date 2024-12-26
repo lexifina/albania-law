@@ -1,0 +1,1 @@
+1. Miratimin e modelit të vulës për mjekët veterinarë, të cilët ushtrojnë profesionin në sektorin veterinar privat, sipas specifikimeve teknike të përcaktuara në aneksin I, që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
