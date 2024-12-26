@@ -1,0 +1,1 @@
+4. Për efekt të paraqitjes në pasqyrën vjetore të konsoliduar të shpenzimeve dhe të ardhurave të qeverisjes së përgjithshme, fondet e planifikuara dhe të realizuara për rindërtimin për qeverisjen qendrore dhe atë vendore, do të paraqiten në një zë të vetëm. (Fondi i Rindërtimit i ndarë për Grantet dhe për Shpenzimet e Rindërtimit).

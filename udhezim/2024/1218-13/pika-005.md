@@ -1,0 +1,1 @@
+5. Struktura përgjegjëse për thesarin në qendër harton të dhënat faktike përfundimtare të pasqyrës vjetore të konsoliduar të shpenzimeve dhe të ardhurave të qeverisjes së përgjithshme brenda datës 17.2.2025.
