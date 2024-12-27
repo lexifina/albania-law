@@ -1,1 +1,0 @@
-8. Informacioni i shtresave gjeografike të databazës shërbehet me anë të WMS-së publike, duke e bërë këtë informacion të konsultueshëm nga sisteme të ngjashme të tjera dhe/ose në programe GIS Desktop.
