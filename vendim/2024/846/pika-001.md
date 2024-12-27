@@ -1,0 +1,1 @@
+1. Dhënien e një ndihme të menjëhershme financiare, në masën 15 000 (pesëmbëdhjetë mijë) lekë, punonjësve mbështetës dhe punonjësve të tjerë të specialiteteve të ndryshme, organikë dhe me kontratë të përkohshme mbi 6 muaj, në njësitë e qeverisjes qendrore, të cilët paguhen me sistemin me 9 dhe 13 klasa.
