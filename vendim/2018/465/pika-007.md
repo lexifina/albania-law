@@ -1,1 +1,1 @@
-7. Periudha e veprimit të Task-Forcës do të jetë deri më 31 dhjetor 2024.
+7. Periudha e veprimit të Task-Forcës do të jetë deri më 31 dhjetor 2025.
