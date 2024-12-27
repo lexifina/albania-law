@@ -1,0 +1,7 @@
+2. Përdorimin e fondit të rindërtimit, për vitin 2024, nga bashkitë Durrës, Kamzë, Mirditë, Shijak, Krujë dhe Vorë, në masën 919 202 014,60 (nëntëqind e nëntëmbëdhjetë milionë e dyqind e dy mijë e katërmbëdhjetë presje gjashtëdhjetë) lekë pa TVSH, për financimin e rindërtimit të banesave individuale për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte që duhen rindërtuar nga e para, në bazë të aktekspertizave të thelluara, sipas detajimit të mëposhtëm:
+a) Bashkisë Durrës i transferohet fondi, në masën 204 965 814 (dyqind e katër milionë e nëntëqind e gjashtëdhjetë e pesë mijë e tetëqind e katërmbëdhjetë) lekë pa TVSH;
+b) Bashkisë Kamzë i transferohet fondi, në masën 173 720 000 (njëqind e shtatëdhjetë e tre milionë e shtatëqind e njëzet mijë) lekë pa TVSH;
+c) Bashkisë Mirditë i transferohet fondi, në masën 126 653 347 (njëqind e njëzet e gjashtë milionë e gjashtëqind e pesëdhjetë e tre mijë e treqind e dyzet e shtatë) lekë pa TVSH;
+ç) Bashkisë Shijak i transferohet fondi, në masën 70 023 216,60 (shtatëdhjetë milionë e njëzet e tre mijë e dyqind e gjashtëmbëdhjetë presje gjashtëdhjetë) lekë pa TVSH;
+d) Bashkisë Krujë i transferohet fondi, në masën 132 642 375 (njëqind e tridhjetë e dy milionë e gjashtëqind e dyzet e dy mijë e treqind e shtatëdhjetë e pesë) lekë pa TVSH;
+dh) Bashkisë Vorë i transferohet fondi, në masën 211 197 262 (dyqind e njëmbëdhjetë milionë e njëqind e nëntëdhjetë e shtatë mijë e dyqind e gjashtëdhjetë e dy) lekë pa TVSH.
