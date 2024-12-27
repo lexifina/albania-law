@@ -1,0 +1,4 @@
+# Neni 7
+Rastet e pamundësisë për thirrjen e mbledhjes së kolegjit
+1. Në rast se kryetari gjendet në kushtet e pamundësisë objektive ose të pengesës ligjore, siç janë papajtueshmëria apo konflikti i interesit, të konstatuara prej tij, ai ose punonjësi i ngarkuar prej tij njofton zëvendëskryetarin, i cili duhet të kryejë veprimet përgatitore dhe thirrjen e mbledhjes në vend të kryetarit.
+2. Në pamundësi objektive ose pengesë ligjore (papajtueshmëri, konflikt interesi), si të kryetarit ashtu edhe të zëvendëskryetarit, ky i fundit ose punonjësi i ngarkuar prej kryetarit njofton anëtarët e kolegjit për këtë fakt. Mbledhja në këtë rast mund të thirret nga një ose më shumë prej anëtarëve dekanë të urdhrave, të cilët propozojnë edhe datën, kohën e mbledhjes dhe rendin e ditës. Në këtë rast, puna përgatitore dhe mbledhja e kolegjit drejtohet nga anëtari i kolegjit i dekoruar me Yllin e Madh të Urdhrit Suprem të Shqiponjës ose nga anëtari dekan më i vjetër në moshë.
