@@ -1,0 +1,1 @@
+17. Vendimi nr. 133, datë 7.3.2018, i Këshillit të Ministrave, “Për krijimin e bazës së të dhënave shtetërore për sistemin e webGis për menaxhimin e veprimtarisë arkeologjike në terren të Agjencisë së Shërbimit Arkeologjik”, shfuqizohet.

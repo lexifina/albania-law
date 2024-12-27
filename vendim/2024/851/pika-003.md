@@ -1,0 +1,1 @@
+3. Në këtë vendim, termat, si “baza e të dhënave”, “subjekt i interesuar”, “dhënësi i informacionit”, “institucioni administrues”, “ndërveprimi”, “të dhëna parësore dhe dytësore” kanë të njëjtin kuptim, siç përcaktohet në legjislacionin në fuqi për bazat e të dhënave shtetërore.

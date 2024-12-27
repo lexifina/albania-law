@@ -1,0 +1,1 @@
+11. Për punonjësit e IKTK-së, niveli i aksesimit përcaktohet në rregulloren e brendshme të organizimit dhe të funksionimit të sistemit webGis për menaxhimin e veprimtarisë arkeologjike në terren dhe hartës arkeologjikë të Shqipërisë.

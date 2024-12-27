@@ -1,0 +1,1 @@
+16. Funksionet dhe të drejtat e secilit përdorues janë në përputhje me pozicionin e punës, të përcaktuara në procedurat e punës, si dhe të miratuara nga drejtori i IKTK-së për secilin nga punonjësit e tij.
