@@ -1,0 +1,6 @@
+5. Përdorimi i gjuhës së pakicës kombëtare realizohet, si më poshtë vijon:
+a) gjatë procesit të informimit për të drejtat e shtetasve, në bazë të ligjit nr. 139/2015, “Për vetëqeverisjen vendore”, të ndryshuar, dhe të ligjit nr. 119/2014, “Për të drejtën e informimit”, të ndryshuar, duke hartuar për këtë qëllim rregullore apo nëpërmjet fletëve informuese, të cilat mund të publikohen ose të afishohen në ambiente të dukshme të organeve të vetëqeverisjes vendore;
+b) nëpërmjet aksesit në programin e transparencës;
+c) Gjatë seancave të këshillimeve me bashkësinë përpara shqyrtimit dhe miratimit të akteve, sipas parashikimeve të nenit 18, të ligjit nr. 139/2015, “Për vetëqeverisjen vendore”, të ndryshuar, me përfaqësuesit e pakicave kombëtare apo me shoqatat që i përfaqësojnë këto komunitete;
+ç) në paraqitjen e kërkesave apo ankesave drejtuar organeve bazë të vetëqeverisjes vendore për çështje që lidhen me funksione dhe kompetenca në juridiksionin e njësisë së vetëqeverisjes vendore;
+d) për të paraqitur iniciativa qytetare nëpërmjet përfaqësuesve të autorizuar, drejtuar këshillit bashkiak, sipas parashikimeve të përcaktuara në rregulloren e organizimit dhe funksionimit të këshillit bashkiak, në përputhje me nenin 20, të ligjit nr. 139/2015, “Për vetëqeverisjen vendore”, të ndryshuar.

@@ -1,0 +1,1 @@
+6. Për të siguruar përdorimin në gjuhën e pakicës kombëtare, sipas përcaktimeve të pikës 5, të këtij vendimi, organet përgjegjëse të njësisë bazë të vetëqeverisjes vendore parashikojnë në buxhetin vjetor të tyre zë të veçantë për punësimin e personave që njohin gjuhën e pakicës kombëtare, sipas parashikimeve të ligjit për vetëqeverisjen vendore dhe të ligjit për financat vendore.

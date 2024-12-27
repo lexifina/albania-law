@@ -1,0 +1,1 @@
+8. Kur përmbushen rrethanat, sipas pikës 7, të këtij vendimi, këshilli bashkiak miraton vendosjen e emërtimeve në gjuhën e një pakice mbas gjuhës shqipe. Ky vendim i nënshtrohet procedurës së verifikimit të ligjshmërisë nga institucioni i prefektit të qarkut përkatës.
