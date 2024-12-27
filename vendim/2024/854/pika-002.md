@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, llogariten në shumën 2 166 525 000 (dy miliardë e njëqind e gjashtëdhjetë e gjashtë milionë e pesëqind e njëzet e pesë mijë) lekë dhe përballohen nga fondi për mbështetjen financiare për shtresat në nevojë, miratuar për vitin 2024.
