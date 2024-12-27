@@ -1,0 +1,1 @@
+7. Komiteti i Mbrojtjes dhe Sigurisë, pas shqyrtimit të raportit të Agjencisë së Industrisë së Mbrojtjes, merr vendim në lidhje me miratimin apo refuzimin e lehtësirave për të cilat ka aplikuar subjekti, brenda një afati prej 30 (tridhjetë) ditësh pune nga data e dorëzimit të propozimit nga Agjencia e Industrisë së Mbrojtjes.

@@ -1,0 +1,1 @@
+6. Raporti vlerësues i Agjencisë së Industrisë së Mbrojtjes ka në përmbajtje vlerësimin për kualifikimin e subjektit për lehtësirat, analizën, procedurat e kryera në lidhje me to, si edhe propozimet e rekomandimet përkatëse për miratim ose refuzim dhe, brenda 5 (pesë) ditëve nga përfundimi i vlerësimit, i dërgohen për shqyrtim dhe miratim Komitetit të Mbrojtjes dhe Sigurisë.

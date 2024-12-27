@@ -1,0 +1,1 @@
+5. Vlerësimi i aplikimeve, pas koordinimit me institucionet e tjera shtetërore, me të cilat lidhen lehtësitë, përfundon brenda 30 (tridhjetë) ditëve kalendarike nga paraqitja e dosjes së plotë dhe përmbyllet me hartimin e një raporti vlerësues nga ana e Agjencisë së Industrisë së Mbrojtjes.
