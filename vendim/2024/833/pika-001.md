@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 24 750 000 (njëzet e katër milionë e shtatëqind e pesëdhjetë mijë) lekë pa TVSH, për financimin e rikonstruksionit të njësive individuale të banimit në Bashkinë Kamzë.
