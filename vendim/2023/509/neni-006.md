@@ -1,6 +1,6 @@
 # Neni 6
 Dokumentet për pajisjen me licencë për prodhimin e artikujve piroteknikë
-1. Operatori ekonomik, që kërkon të pajiset me licencë për prodhimin e artikujve piroteknikë, duhet të paraqesë pranë Autoritetit të Kontrollit Shtetëror të Eksporteve dokumentet e mëposhtme:
+1. Autoriteti i Kontrollit Shtetëror të Eksporteve, për operatorin ekonomik, që kërkon të pajiset me licencë për prodhimin e artikujve piroteknikë, vlerëson dokumentacionin e përcjellë nëpërmjet portalit “e-Albania”, si më poshtë vijon:
 a) vërtetimin nga prokuroria që shoqëria dhe administratori nuk janë në procedim penal;
 b) vërtetimin që shoqëria dhe administratori nuk janë në proces gjyqësor penal, lëshuar nga gjykata e rrethit gjyqësor që ka selinë;
 c) vërtetimin nga përmbarimi që shoqëria dhe administratori nuk kanë detyrime ndaj personave fizikë apo juridikë, privatë ose shtetërorë;

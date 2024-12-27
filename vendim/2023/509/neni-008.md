@@ -1,6 +1,6 @@
 # Neni 8
 Dokumentet për pajisjen me autorizim për transitin e artikujve piroteknikë
-1. Operatori ekonomik, që kërkon të pajiset me autorizim për transitin e artikujve piroteknikë, duhet të paraqesë dokumentet e mëposhtme:
+1. Autoriteti i Kontrollit Shtetëror të Eksporteve, për operatorin ekonomik, që kërkon të pajiset me autorizim për transitin e artikujve piroteknikë, vlerëson dokumentacionin e përcjellë nëpërmjet portalit “e-Albania”, si më poshtë vijon:
 a) dokumentacionin e origjinës së mallit me llojet dhe sasitë e artikujve piroteknikë nga fabrika prodhuese ose eksportuese, si dhe faturën e mallit të shoqëruar me listën e paketimit;
 b) dokumentacionin me të dhënat teknike të përbërjes së artikujve piroteknikë;
 c) kopjen e kontratës së shërbimit të transportit me shoqërinë transportuese, nëse ka, ose të dhënat e transportuesit;

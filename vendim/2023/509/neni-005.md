@@ -1,6 +1,6 @@
 # Neni 5
 Dokumentet për pajisjen me licencë për import ose eksport
-1. Operatori ekonomik, që kërkon të pajiset me licencë për import ose eksport të artikujve piroteknikë, duhet të paraqesë pranë Autoritetit të Kontrollit Shtetëror të Eksporteve dokumentet e mëposhtme:
+1. Autoriteti i Kontrollit Shtetëror të Eksporteve, për operatorin ekonomik, që kërkon të pajiset me licencë për import ose eksport të artikujve piroteknikë, vlerëson dokumentacionin e përcjellë nëpërmjet portalit “e-Albania”, si më poshtë vijon:
 a) vërtetimin nga prokuroria, që shoqëria, administratori, ortaku dhe punonjësit e angazhuar të operatorit ekonomik nuk janë në procedim penal;
 b) vërtetimin, që shoqëria dhe administratori nuk janë në proces gjyqësor penal, lëshuar nga gjykata e rrethit gjyqësor që ka selinë;
 c) vërtetimin nga Shërbimi Përmbarimor Shtetëror, që shoqëria dhe administratori nuk kanë detyrime ndaj personave fizikë apo juridikë, privatë ose shtetërorë;
