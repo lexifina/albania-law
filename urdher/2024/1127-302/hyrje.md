@@ -1,0 +1,5 @@
+URDHËR
+Nr. 302, datë 27.11.2024
+PËR MIRATIMIN E RREGULLORES “KUSHTET TEKNIKE PËR NDËRVEPRUESHMËRINË NË LIDHJE ME NËNSISTEMIN ’APLIKACIONE TELEMATIKE PËR SHËRBIMET E UDHËTARËVE’ TË SISTEMIT HEKURUDHOR”
+Në zbatim të pikës 4, të nenit 102, të Kushtetutës, nenit 135, të ligjit nr. 142/2016, datë 22.12.2016, “Kodi Hekurudhor i Republikës së Shqipërisë”,
+URDHËROJ:

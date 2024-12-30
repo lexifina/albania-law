@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Kushtet teknike për ndërveprim në lidhje me nënsistemin ’aplikime telematike për shërbimet e udhëtarëve’ të sistemit hekurudhor”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
