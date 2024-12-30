@@ -1,0 +1,1 @@
+4. Masa e shpërblimit për pronarët, që shpronësohen, është 4 396 574 (katër milionë e treqind e nëntëdhjetë e gjashtë mijë e pesëqind e shtatëdhjetë e katër) lekë dhe përballohet nga llogaria “Fondi i shpronësimeve” në Bankën e Shqipërisë.
