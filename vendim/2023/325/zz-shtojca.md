@@ -620,6 +620,7 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 |mbështetëse. | | | |
 | |IV-3 |1 ose 2, ose 3 |0 |
 Lidhja nr. 9/3
+(Katër rreshtat e fundit të lidhjes nr. 9/3 ndryshuar me Vendimin nr. 864, datë 30.12.2024)
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të nëpunësve të sistemit doganor
 |Klasifikimi |Pozicioni |Klasa e |Grupi i |Paga bazë mujore |Shtesa për kushte |
 |doganor | |pagës |diplomës |e pozicionit |pune (natyrë të |
@@ -661,25 +662,25 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të n�
 | |Në degët doganore: | |3 | | |
 | |Specialist finance i nivelit të dytë. Doganier klasifikim/vlerësim/kontroll | | | | |
 | |fizik/skaner/akcizë/aposterior/regjime/preferenca/përjashtime. | | | | |
-|C3 |Në DPD: | | | | |
-| |Sekretar/protokoll. Arkivist. Përpunues informacioni. Doganier pike | | | | |
-| |kontrolli. | | |47 000 |5 000 |
+|C3 |Në DPD: | | |47 000 |9 000 |
+| |Sekretar/protokoll; Arkivist; Përpunues informacioni; Doganier pike | | | | |
+| |kontrolli. | | | | |
 | | | | | | |
 | |Në degët doganore: | | | | |
-| |Doganier peshoreje/pike kontrolli. Sekretar. Arkivist. | | | | |
-|D1 |Në DPD: | | |45 600 | |
-| |Magazinier. Teknik marinë/motorist. Teknik mirëmbajtjeje. Shofer. | | | | |
+| |Doganier peshoreje/pike kontrolli; Sekretar; Arkivist. | | | | |
+|D1 |Në DPD: | | |45 600 |4 000 |
+| |Magazinier; Teknik marinë/motorist; Teknik mirëmbajtjeje; Shofer. | | | | |
 | | | | | | |
 | |Në degët doganore: | | | | |
 | |Magazinier. | | | | |
-|D2 |Punëtor mirëmbajtjeje në degë doganore. | | |Klasa IV | |
-| | | | |Sipas VKM për | |
+|D2 |Punëtor mirëmbajtjeje në degë doganore | | |Klasa IV |4 000 |
+| | | | |sipas VKM-së për | |
 | | | | |pagat e | |
 | | | | |punonjësve | |
 | | | | |mbështetës | |
-|D3 |Sanitar/Punonjës pastrimi në DPD dhe degë doganore. | | |Klasa I Sipas VKM| |
-| | | | |për pagat e | |
-| | | | |punonjësve | |
+|D3 |Sanitar/punonjës pastrimi në DPD dhe degë doganore | | |Klasa I sipas |4 000 |
+| | | | |VKM-së për pagat | |
+| | | | |e punonjësve | |
 | | | | |mbështetës | |
 Lidhja nr. 9/4
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të nëpunësve të sistemit tatimor
