@@ -1,0 +1,1 @@
+3. Procedura për përfundimin e procesit të privatizimit të objekteve të ish-ndërmarrjeve bujqësore, për të cilat ka filluar ky proces, fillon vetëm me paraqitjen e kërkesës me shkrim nga subjektet e interesuara pranë Ministrisë së Bujqësisë dhe Zhvillimit Rural.

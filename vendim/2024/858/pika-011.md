@@ -1,0 +1,1 @@
+11. Debitorët privatë, për objektet ndërtimore të kontabilizuara, sipas vendimit nr. 403, datë 15.8.1994, të Këshillit të Ministrave, “Për arkëtimin e detyrimeve financiare në ndërmarrjet në varësi të Agjencisë Qendrore të Ristrukturimit dhe Privatizimit të NB-ve”, shlyejnë detyrimet, sipas parashikimit në pikën 1, të këtij vendimi.

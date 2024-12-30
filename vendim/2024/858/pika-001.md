@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është të përcaktojë dokumentacionin, mënyrën e përllogaritjes së vlerës së pagesës së mbetur dhe afateve të shlyerjes së saj për objektet e ish-ndërmarrjeve bujqësore, për të cilat ka filluar procesi i privatizimit nga ish-Agjencia Qendrore e Ristrukturimit dhe Privatizimit të Ndërmarrjeve Bujqësore.

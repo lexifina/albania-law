@@ -1,0 +1,1 @@
+10. Për objektet, për të cilat janë shpalluar debitorë poseduesit aktualë, procesi i përfundimit të privatizimit vijon me pagesën e vlerës së plotë të objektit, sipas vlerës fillestare të kontabilizuar. Arkëtimi i pagesave të kësteve të mbetura nga vlera e privatizimit të objektit/truallit bëhet 100% në lekë.

@@ -1,0 +1,1 @@
+4. Kërkesa përmban identitetin e kërkuesit, të dhënat e objektit për të cilin kërkohet përfundimi i procesit të privatizimit, kopje të kontratës së shitjes (nëse ka), mandate të pagesave të vlerës së plotë apo të pjesshme të privatizimit (nëse ka).

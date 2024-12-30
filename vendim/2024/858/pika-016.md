@@ -1,0 +1,1 @@
+16. Në rastet kur konstatohet se të drejtat për objektin e privatizuar apo trualli nën objektin e privatizuar janë transferuar tek të tretët, procesi i kalimit të pronësisë realizohet në favor të tyre. Subjektet paraqesin dokumentacionin, sipas pikës 2, të nenit 8, të ligjit nr. 18/2023, “Për përfundimin e procesit të privatizimit të objekteve të ish-ndërmarrjeve bujqësore”.

@@ -1,0 +1,1 @@
+15. Gjatë kryerjes së procedurave administrative, Ministria e Bujqësisë dhe Zhvillimit Rural verifikon në Agjencinë Shtetërore të Kadastrës statusin juridik, në përputhje me parashikimet e ligjit nr. 111/2018, “Për kadastrën”, nëse objekti i privatizuar apo trualli nën objektin e privatizuar është ende në pronësi shtetërore dhe nuk ka kaluar në pronësi të të tretëve.
