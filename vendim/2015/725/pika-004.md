@@ -1,4 +1,4 @@
-4. Numri i punonjësve të Agjencisë të jetë, gjithsej, 120 veta. Struktura dhe organika e Agjencisë miratohet me urdhër të Kryeministrit.
+4. Numri i punonjësve të Agjencisë të jetë, gjithsej, 100 veta. Struktura dhe organika e Agjencisë miratohet me urdhër të Kryeministrit.
 III. PËRGJEGJËSITË DHE DETYRAT E AGJENCISË
 1. Agjencia kryen funksionet e sekretariatit teknik të Këshillit Kombëtar të Territorit dhe Ujit. Në këtë kuadër, Agjencia ka këto përgjegjësi:
 a) organizon mbledhjet e KKTU-së;
@@ -21,11 +21,18 @@ IV. BASHKËPUNIMI NDËRINSTITU-CIONAL
 Në këtë kuadër, Agjencia ndërvepron me institucionet e tjera shtetërore, në emër dhe për llogari të kërkuesit, gjatë procedurës së shqyrtimit, miratimit, lëshimit të autorizimeve, lejeve dytësore, të cilat janë të domosdoshme, në funksion të miratimit të lejes së ndërtimit.
 2. Institucionet shtetërore kanë detyrimin të bashkëpunojnë me Agjencinë, të shkëmbejnë të dhëna e të krijojnë të gjitha lehtësitë për përmbushjen e qëllimeve e të funksioneve gjatë veprimtarisë së saj.
 3. Me qëllim realizimin e bashkëpunimit ndërinstitucional, të gjitha ministritë, si autoritete kombëtare për zhvillimin e territorit, sipas fushës së përgjegjësisë, kanë detyrimin të ngarkojnë një strukturë ose person përgjegjës për rakordimin e punës me Agjencinë dhe dhënien e mendimit teknik përkatës në fushën e veprimit të sekretariatit të KKTU-së. Ngritja dhe funksionimi i strukturave përgjegjëse, si dhe mënyra e bashkëveprimit të tyre me Agjencinë miratohen me urdhër të Kryeministrit.
-V. PROCEDURAT E REKRUTIMIT
+V. PROCEDURAT E REKRUTIMIT DHE NIVELET E PAGAVE TË PUNONJËSVE TË AGJENCISË
 1. Personeli i Agjencisë duhet të plotësojë të njëjtat kërkesa të përgjithshme, të përcaktuara në nenin 21, të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar, si dhe kërkesat e veçanta, të përcaktuara nga drejtori i Përgjithshëm.
 2. Punonjësit e Agjencisë, me përjashtim të punonjësve mbështetës, duhet të kenë arsimin e lartë profesional të nevojshëm, në përputhje me aktet ligjore dhe nënligjore në fuqi, si dhe të plotësojnë kërkesat e veçanta që përcaktohen nga drejtori i Përgjithshëm.
 3. Marrëdhëniet e punës të punonjësve të Agjencisë rregullohen sipas procedurave të parashikuara në ligjin nr. 7961, datë 12.7.1995, “Kodi i Punës i Republikës së Shqipërisë”, të ndryshuar.
+4. Elementet përbërëse të pagës bruto mujore dhe vlerat për secilin element të tyre për punonjësit e Agjencisë së Zhvillimit të Territorit janë, si më poshtë vijon:
+a) Paga për pozicion, që shpërblen vlerën relative të çdo pozicioni pune dhe që përcaktohet në kolonën 2, të lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij;
+b) Shtesa për vjetërsi në punë, që jepet në masën:
+i. 0.6 (zero pikë gjashtë) % pas çdo viti punë për 10 (dhjetë) vitet e para (1-10 vjet) dhe llogaritet mbi pagën e pozicionit;
+ii. 0.8 (zero pikë tetë) % pas çdo viti punë për 10 (dhjetë) vitet e dyta (11-20 vjet) dhe llogaritet mbi pagën e pozicionit;
+iii. 1 (një) % pas çdo viti punë për 10 (dhjetë) vitet e treta (21-30 vjet) dhe llogaritet mbi pagën e pozicionit.
+c) Shtesa për natyrë të veçantë pune, që përcaktohet sipas kolonës 3, të lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
 VI. DISPOZITA KALIMTARE DHE TË FUNDIT
-1. Shtimi i numrit të punonjësve prej, gjithsej, 120 vetash, sipas pikës 4, të këtij vendimi, do të hyjë në fuqi më 1 janar 2025.
+1. Shtimi i numrit të punonjësve prej, gjithsej, 100 vetash, sipas pikës 4, të këtij vendimi, do të hyjë në fuqi më 1 janar 2025.
 2. Ngarkohet Agjencia e Zhvillimit të Territorit për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
