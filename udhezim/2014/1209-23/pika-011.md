@@ -45,6 +45,7 @@ Personi fizik, për vete, me dëshirën e tij, kontributet e sigurimeve shoqëro
 - Kategoria 36. I vetëpunësuar i vetëm që është përfitues i pensionit të pleqërisë.
 - Kategoria 37. Person i trajtuar me pagesë kalimtare, sipas ligjit nr. 10142, datë 15.5.2009, të ndryshuar.
 - Kategoria 38. Person i papunë që përfiton pagesë papunësie.
+- Kategoria 39. Nxënës që mëson profesionin, që ndjek arsimin dhe formimin profesional në kualifikimet e niveleve 2 deri në 5 të Kornizës Shqiptare të Kualifikimeve, në formën e dyfishtë dhe që ka lidhur një kontratë pune për mësimin e profesionit.
 10.9 Për kohën që të dhënat e formularit listëpagesa e sigurimeve shoqërore, shëndetësore dhe tatimit mbi të ardhurat nga punësimi, nga administrata tatimore nuk janë dërguar akoma në Institutin e Sigurimeve Shoqërore dhe Fondin e Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, vërtetimet për kontributet e paguara, që kërkojnë tatimpaguesit dhe individët kontribuues, lëshohen zyrtarisht nga drejtoria rajonale tatimore përkatëse sipas rregullave dhe afateve të miratuara nga drejtori i Përgjithshëm i Tatimeve. Këto vërtetime, të cilat konfirmojnë situatën e tatimpaguesit dhe individit përkatës lidhur me kontributet, janë si më poshtë:
 - Për kontributet e sigurimeve shoqërore e shëndetësore për tatimpaguesin;
 - Për kontributet e sigurimeve shoqërore e shëndetësore për individët.
