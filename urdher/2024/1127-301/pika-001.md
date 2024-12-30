@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për procedurat dhe kriteret në lidhje me marrëveshjet kuadër për ndarjen e kapaciteteve të infrastrukturës hekurudhore”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
