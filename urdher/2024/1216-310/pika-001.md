@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi rregullat dhe procedurat për vënien e kufizimeve të operimit për mbrojtjen nga zhurma në aeroportet e Republikës së Shqipërisë”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.

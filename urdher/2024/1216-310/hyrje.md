@@ -1,0 +1,5 @@
+URDHËR I PËRBASHKËT
+Nr. 310, datë 16.12.2024
+PËR MIRATIMIN E RREGULLORES MBI RREGULLAT DHE PROCEDURAT PËR VËNIEN E KUFIZIMEVE TË OPERIMIT PËR MBROJTJEN NGA ZHURMA NË AEROPORTET E REPUBLIKËS SË SHQIPËRISË [1]
+Në zbatim të nenit 102, pika 4, të Kushtetutës, të nenit 65, pika 1, të ligjit nr. 96/2020, “Kodi Ajror i Republikës së Shqipërisë”,
+URDHËROJMË:
