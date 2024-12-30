@@ -1,0 +1,1 @@
+9. Për shqyrtimin e kërkesës, Komisioni bashkëpunon me të gjitha institucionet publike në nivel qendror, sipas rregullave të përcaktuara në vendimin nr. 867, datë 10.12.2014, të Këshillit të Ministrave, “Për procedurat e bashkëpunimit në institucionet e administratës shtetërore”, të ndryshuar.

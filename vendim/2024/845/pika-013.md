@@ -1,0 +1,1 @@
+13. Ministria përgjegjëse për çështjet e brendshme harton projektligjin për njohjen formale të pakicës kombëtare dhe propozon projektvendimin përkatës pranë Këshillit të Ministrave, brenda 60 (gjashtëdhjetë) ditëve nga paraqitja e propozimit nga Komisioni.

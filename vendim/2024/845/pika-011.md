@@ -1,0 +1,1 @@
+11. Komisioni garanton transparencë në realizimin e veprimtarisë së tij, në përputhje me ligjin nr. 119/2014, “Për të drejtën e informimit”, dhe programin e transparencës, duke i publikuar aktivitetet e tij në faqen zyrtare të ministrisë përgjegjëse për çështjet e brendshme.

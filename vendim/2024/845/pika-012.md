@@ -1,0 +1,1 @@
+12. Në rastet kur Komisioni vendos pranimin e kërkesës, i dërgon ministrit përgjegjës për çështjet e brendshme propozimin, shoqëruar me relacionin e argumentuar për vijimin e procedurave për njohjen formale të pakicës kombëtare.

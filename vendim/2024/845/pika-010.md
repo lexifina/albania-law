@@ -1,0 +1,1 @@
+10. Vendimi arsyetohet dhe i komunikohet grupit të shtetasve apo përfaqësuesit të autorizuar prej tyre, në përputhje me parashikimet e Kodit të Procedurave Administrative. Kundër vendimit të Komisionit për refuzimin e kërkesës për njohje të pakicës kombëtare mund të bëhet ankim pranë gjykatës kompetente për zgjidhjen e mosmarrëveshjeve administrative.

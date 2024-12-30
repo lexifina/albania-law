@@ -1,0 +1,1 @@
+4. Komisioni, për kryerjen e veprimtarisë së tij mbështetet nga sekretariati teknik, i cili është përgjegjës për organizimin e punës, të sigurojë komunikimin me paraqitësit e kërkesave, të koordinojë punën mes institucioneve përgjegjëse, si dhe për çdo detyrë tjetër të nevojshme për mbarëvajtjen e aktivitetit të Komisionit.

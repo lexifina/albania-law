@@ -1,0 +1,1 @@
+7. Komisioni shqyrton kërkesën e paraqitur sipas pikës 1, të këtij vendimi, dhe verifikon plotësimin e kritereve ligjore të përcaktuara në pikën 1, të nenit 3, të ligjit nr. 96/2017, “Për mbrojtjen e pakicave kombëtare në Republikën e Shqipërisë”, dhe dokumentacionin e paraqitur sipas parashikimeve të neneve 6 dhe 7, të këtij ligji.
