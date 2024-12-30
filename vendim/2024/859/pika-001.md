@@ -1,0 +1,1 @@
+1. Miratimin e Strategjisë Ndërsektoriale kundër Korrupsionit 2024-2030, planit të veprimit 2024-2026 në zbatim të saj dhe pasaportës së treguesve të performancës, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
