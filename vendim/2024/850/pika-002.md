@@ -1,0 +1,1 @@
+2. Miratimin e zonifikimit të zonave arkeologjike nënujore “A” dhe “B” të qytetit të Durrësit, sipas hartës dhe koordinatave në Kornizën Referuese Gjeodezike Shqiptare (KRGJSH), që i bashkëlidhen këtij vendimi.
