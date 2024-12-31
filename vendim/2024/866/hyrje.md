@@ -1,0 +1,5 @@
+VENDIM
+Nr. 866, datë 30.12.2024
+PËR MIRATIMIN E KONTRATËS SË KONCESIONIT/PARTNERITET PUBLIK PRIVAT, PËR PROJEKTIMIN, NDËRTIMIN, OPERIMIN, MIRËMBAJTJEN, REHABILITIMIN DHE TRANSFERIMIN E SEGMENTIT RRUGOR KASHAR-PEZË-LEKAJ NDËRMJET MINISTRISË SË INFRASTRUKTURËS DHE ENERGJISË DHE BASHKIMIT TË OPERATORËVE EKONOMIKË “GJOKA KONSTRUKSION” SHA, “JUNIK” SHPK, “COBIAL” SHPK, “PEPA GROUP” SHPK, “UDHA” SHPK, “GEOPORTAL” SHPK, DHE “A&E ENGINEERING” SHPK
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 26, pika 9, e 41, pika 2, të ligjit nr. 125/2013, “Për koncesionet dhe partneritetin publik privat”, të ndryshuar, me propozimin e zëvendëskryeministrit dhe ministër i Infrastrukturës dhe Energjisë, Këshilli i Ministrave
+VENDOSI:
