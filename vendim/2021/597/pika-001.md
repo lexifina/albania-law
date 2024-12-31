@@ -12,6 +12,6 @@ g) Kryetarët e Gjykatave kundër Korrupsionit dhe Krimit të Organizuar, Drejtu
 gj) Inspektorin e Përgjithshëm të Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave;
 h) Kryenegociatorin për zhvillimin e negociatave të anëtarësimit të Republikës së Shqipërisë në Bashkimin Evropian;
 i) Komisionerin Shtetëror të Zgjedhjeve;
-j) Kryetarin e komisionerët e Komisionit të Pavarur të Kualifikimit, kryetarin dhe gjyqtarët e Kolegjit të Posaçëm të Apelimit, Komisionerët Publikë, vëzhguesit ndërkombëtarë, të emëruar nga Operacioni Ndërkombëtar i Monitorimit;
+j) Kryetarin e komisionerët e Komisionit të Pavarur të Kualifikimit, deri më 31 dhjetor 2025, kryetarin dhe gjyqtarët e Kolegjit të Posaçëm të Apelimit, Komisionerët Publikë, vëzhguesit ndërkombëtarë, të emëruar nga Operacioni Ndërkombëtar i Monitorimit;
 k) Ambasadorin e Bashkimit Evropian në Shqipëri;
 l) Pjesëtarët e familjeve, si: bashkëshorti, bashkëshortja dhe fëmijët deri në moshën 18 vjeç të Presidentit, të kryetarit të Kuvendit e të Kryeministrit, kur ka informacione nga strukturat ligjzbatuese se kërcënohet jeta e tyre.
