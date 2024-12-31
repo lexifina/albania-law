@@ -1,0 +1,1 @@
+8. Pas nënshkrimit të kontratës, ministria autorizon Misionin që të kryejë pagesat për blerjen e pasurisë së paluajtshme, sipas detyrimeve kontraktore dhe për mbulimin e tarifave shoqëruese që lidhen me finalizimin e procedurës së blerjes.
