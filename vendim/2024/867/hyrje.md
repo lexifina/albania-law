@@ -1,0 +1,5 @@
+VENDIM
+Nr. 867, datë 30.12.2024
+PËR MIRATIMIN E KONTRATËS SË KONCESIONIT/PARTNERITET PUBLIK PRIVAT, PËR PROJEKTIMIN, NDËRTIMIN, OPERIMIN, MIRËMBAJTJEN, REHABILITIMIN DHE TRANSFERIMIN E SEGMENTIT RRUGOR LEKAJ-KONJAT-FIER, NDËRMJET MINISTRISË SË INFRASTRUKTURËS DHE ENERGJISË DHE BASHKIMIT TË OPERATORËVE EKONOMIKË “FUSHA” SHPK, “AGBES CONSTRUKSION” SHPK, “ALBAVIA”, SHPK, “KUPA” SHPK, “ANTE-GROUP” SHPK, “KLODIODA” SHPK, “A.L.T.E.A. & GEOSTUDIO 2000” SHPK DHE “SPHAERA” SHPK
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 26, pika 9, e 41, pika 2, të ligjit nr. 125/2013, “Për koncesionet dhe partneritetin publik privat”, të ndryshuar, me propozimin e zëvendëskryeministrit dhe ministrit të Infrastrukturës dhe Energjisë, Këshilli i Ministrave
+VENDOSI:
