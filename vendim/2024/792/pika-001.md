@@ -1,0 +1,1 @@
+1. Shlyerjen e detyrimeve financiare ndaj të tretëve, në masën 290 000 000 (dyqind e nëntëdhjetë milionë) lekë, të ndërmarrjeve shtetërore Uzina e Lëndëve Plasëse Mjekës Elbasan, Uzina Mekanike Gramsh dhe Kombinati Mekanik Poliçan, nga buxheti i Ministrisë së Mbrojtjes, detajuar sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,160 @@
+# Shtojca
+Lidhja nr. 1
+DETYRIME TE NDËRMARRJEVE TE RAPORTUARA ZYRTARISHT DHE NDRYSHIME NE RAPORTIN E AUDITIMIT
+EMËRTIMI
+SHKRESA
+AKTI NORMATIV
+AUDITUESI
+NDRYSHIME
+MJEKËSI
+Paga/sig.
+13,304,113
+13,304,113
+Taksa vendore
+99,669,224
+99,586,148
+51307806
+OSHEE
+11,109,739
+11,109,739
+Furnitor
+3,737,734
+Hua financiare
+4,000,000
+-4000000
+Tatim fitim
+2,550,000
+134,370,810
+124,000,000
+181,678,616
+47307806
+POLIÇANI
+Furnitorët
+500,000
+Overdrafte
+6,812,000
+Pagat
+1,936,459
+1,936,459
+Sig. shoq./shëndet.
+644,475
+644,475
+Tatim mbi pagat
+114,734
+114,734
+Tatim fitimi
+75,000
+TVSH
+9,223,546
+497,967
+Tatime të tjera tatimore
+28,838,226
+28,838,226
+Debitore kreditore të tj. përmbarimore
+143,027,815
+67,500,000
+Tatime të shtyra taksa lokale
+22,469,006
+22,469,006
+Detyrime të gjeneruara nga sistemi I DPT
+1,000,000
+1,000,000
+DRTRR
+420,971
+OSHEE
+102,499,133
+34,999,133
+MM
+1,040,926
+-1040926
+POSTA
+33,653
+MEICO
+1,637,818
+-1637818
+320,273,762
+158,000,000
+317,595,018
+-2678744
+GRAMSH
+RAPORT AUDITI
+Furnitorët
+3,865,239
+(3,115,239)
+750000
+Pagat
+5,206,993
+5,206,993
+500,000
+5706993
+Sig. shoq./shëndet.
+1,367,667
+1,367,667
+-
+1367667
+Tatim mbi pagat
+124,409
+124,409
+-
+124409
+TVSH
+3,815,554
+105,012
+3920566
+Tatime të shtyra taksa lokale
+16,222,422
+1,300,931
+-
+16222422
+Detyrime të mbartura Kamatëvonesa
+900,000
+264,440
+1164440
+OSHEE
+3,091,455
+3091455
+POSTA
+4,286
+4286
+MEICO
+3156258
+UJËSJELLËS
+796,066
+796066
+PERSON FIZIK
+20,000
+20000
+31,502,284
+8,000,000
+33,168,304
+1,666,020
+36,324,562
+T O T A L I
+486,146,856
+290,000,000
+532,441,938
+Ndërmarrja
+Detyrime ndaj personelit
+Detyrime ndaj të tretëve
+Detyrime ndaj institucioneve shtetërore
+Likuidimi sipas AN nr. 3, datë 28.08.2024, në vlerë
+Uzina e Lëndëve Plasëse, Mjekes
+13,304,113
+11,109,739
+89,586,148
+114,000,000
+Uzina Mekanike Gramsh
+7,199,069
+2,000,000
+8,800,931
+18,000,000
+Kombinati Mekanik Poliçan
+2,695,668
+102,499,133
+52,805,199
+158,000,000
+Shuma
+23,198,850
+115,608,872
+151,192,278
+290,000,000
