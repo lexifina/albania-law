@@ -1,0 +1,1 @@
+6. Në rast se vendimi nuk merret brenda afatit të parashikuar në pikën 5, struktura përgjegjëse për lejet dhe licencat, para mbarimit të këtij afati, zbaton parashikimet e shkronjës “c”, të pikës 5, të kreut II, të VKM-së nr. 538/2009, të ndryshuar.

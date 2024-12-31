@@ -1,0 +1,1 @@
+1. Struktura përgjegjëse për shqyrtimin e aplikimeve dhe dokumentacionit shoqërues, për pajisjen me licencë është struktura përgjegjëse e lejeve dhe licencave në Ministrinë e Turizmit dhe Mjedisit, e cila shqyrton kërkesat për licencë pas miratimit në fazën e parë të shqyrtimit nga Qendra Kombëtare e Biznesit.
