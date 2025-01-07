@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për sigurimin fizik të informacionit të klasifikuar ’Sekret shtetëror’ të NATO-s, të Bashkimit Evropian, të shteteve dhe organizatave të tjera ndërkombëtare”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
