@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për klasifikimin, punën, transportimin fizik, deklasifikimin, zhvlerësimin, asgjësimin dhe shkatërrimin e informacionit të klasifikuar ’Sekret shtetëror’ të NATO-s, të Bashkimit Evropian, të shteteve dhe organizatave të tjera ndërkombëtare”, sipas tekstit që i bashkëlidhet këtij vendimi.
