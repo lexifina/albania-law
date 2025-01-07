@@ -1,1 +1,0 @@
-1. Me “sigurim fizik” kuptohet tërësia e masave fizike, teknike, elektronike dhe procedurale për ruajtjen e zonave, ndërtesave, zyrave, dhomave dhe pajisjeve ku prodhohet, regjistrohet, shfrytëzohet, transmetohet, ruhet, arkivohet dhe shkatërrohet informacioni i klasifikuar “Sekret shtetëror” i NATO-s, BE-së, shteteve dhe organizatave të tjera ndërkombëtare.

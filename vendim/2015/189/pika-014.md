@@ -1,1 +1,0 @@
-14. Mirëmbajtja e ambienteve brenda perimetrit të zonave të sigurisë duhet të bëhet nga punonjës të certifikuar përshtatshmërisht dhe, në çdo rast dhe gjatë gjithë kohës, nën mbikëqyrjen e personelit.

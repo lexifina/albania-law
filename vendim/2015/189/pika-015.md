@@ -1,1 +1,0 @@
-15. Në rastet kur organizohen takime apo konferenca, në të cilat trajtohet informacioni i klasifikuar i NATO-s, ndërmjet institucioneve shtetërore dhe strukturave civile ose ushtarake të NATO-s, masat e sigurimit fizik merren në përputhje me politikën e sigurisë së NATO-s, direktivat mbështetëse dhe me rregulloren për organizimin e aktiviteteve jashtë selisë së NATO-s.
