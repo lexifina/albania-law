@@ -1,0 +1,13 @@
+# Neni 6
+Metodat e ndërhyrjes
+1. Bazuar në praktikën e BE-së, investimet në rrjetet me brez të gjerë do të ndërmerren kryesisht nga sektori privat, i mbështetur nga një sektor konkurrues dhe në një kuadër rregullator miqësor për investime. Mbështetja publike për rrjetet me brez të gjerë do të sigurohet vetëm kur ka dështim tregu ose në një situatë ku investimi është nën optimalen.
+2. Në rastet e zbatueshme, të pjesëmarrjes në projekte të interesit të përbashkët sipas CEF-in, Ministria e Infrastrukturës dhe Energjisë brenda fushës së vet të përgjegjësisë, si dhe subjektet e tjera përgjegjëse për kontributet në zbatimin e projekteve të përbashkëta ku mund të merret pjesë, do të punojnë për të nxitur interesin për të marrë masat e nevojshme për të lehtësuar zbatimin e projekteve me interes të përbashkët.
+3. Veprimet që kontribuojnë në projektet me interes të përbashkët, janë ato që plotësojnë kriteret e përcaktuara në nenin 7 të këtij udhëzimi, dhe që kualifikohen për ndihmë financiare të Bashkimit sipas kushteve dhe instrumenteve të disponueshme sipas rregullores së BE-së për CEF-in. Në rast aplikimi ndihma financiare ofrohet në përputhje me rregullat dhe procedurat përkatëse të miratuara nga Bashkimi Evropian, prioritetet e financimit të përcaktuara në nenin 7 të këtij udhëzimi dhe disponueshmërisë së burimeve, duke marrë parasysh nevojat e veçanta të përfituesve.
+4. Veprimet që kontribuojnë në projekte me interes të përbashkët në fushat e rrjeteve me brez të gjerë do të mbështeten nga:
+a) instrumentet financiare siç përcaktohet në rregulloren e BE-së për CEF-in, i cili do të jetë i hapur për kontribute shtesë nga sektorë të tjerë të CEF-it, instrumente të tjera, programet dhe linjat buxhetore në buxhetin e Bashkimit, Shtetet Anëtare, duke përfshirë autoritetet rajonale dhe lokale dhe çdo investitor tjetër, përfshirë investitorët privatë në përputhje me rregulloren e BE-së për CEF, dhe/ose,
+b) kombinimin e instrumenteve financiare dhe granteve nga burime publike të ndryshme nga CEF, pavarësisht nëse janë publike burimet e Bashkimit ose burimet kombëtare.
+5. Veprimet që kontribuojnë në projekte me interes të përbashkët në fushën e ofrimit të lidhjes lokale pa tel që është pa pagesë dhe pa kushte diskriminuese në komunitetet lokale do të mbështetet nga:
+a) grantet; dhe/ose
+b) forma të tjera të ndihmës financiare, pa përfshirë instrumentet financiare;
+6. Veprimet horizontale do të mbështeten nga prokurimi; dhe/ose grantet.
+7. Rregullorja e BE-së për CEF-in përcakton buxhetin e disponueshëm dhe kriteret për mbështetje të rrjeteve të infrastrukturave dhe kërkesa të tjera të performancës që duhen përmbushur.
