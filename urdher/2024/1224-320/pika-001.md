@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për Dritaren e Vetme Detare Kombëtare dhe formalitetet e raportimit të anijeve që operojnë në portet detare të Republikës së Shqipërisë”, që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
