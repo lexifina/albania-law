@@ -1,0 +1,1 @@
+4. Të kryhet inventarizimi dhe gjurmimi me teste laboratorike konfirmatore për sëmundjen e Murtajës Afrikane të Derrave në zonat e mbrojtjes dhe mbikëqyrjes, në njësitë administrative: Shëngjin, Kolsh, Zejmen, Lezhë, Balldre, Kallmet dhe Shënkoll të Bashkisë Lezhë.
