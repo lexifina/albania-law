@@ -1,1 +1,0 @@
-2. Ndalimin e lëvizjes së shpendëve të gjallë nga ferma në fermë dhe nga ferma në tregjet e kafshëve të gjalla në territorin e njësive administrative Zall-Herr, Zall Bastar, Kashar, Shëngjergj, Bërxullë dhe Prezë.

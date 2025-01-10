@@ -1,1 +1,0 @@
-1. Ndalimin e shitjes dhe tregtimit të shpendëve të gjallë në mjediset e hapura dhe tregjet e kafshëve të gjalla në territorin e njësive administrative Zall-Herr, Zall Bastar, Kashar, Shëngjergj, Bërxullë dhe Prezë.
