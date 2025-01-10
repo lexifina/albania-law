@@ -1,0 +1,1 @@
+4. Urdhri nr. 1132, datë 28.12.2024, “Për marrjen e masave kufizuese për parandalimin dhe kontrollin e Sëmundjes së Influencës Aviare në shpendë, në mjediset e hapura dhe në tregjet e kafshëve të gjalla”, shfuqizohet.
