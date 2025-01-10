@@ -1,0 +1,11 @@
+# Neni 10
+Sigurimi i aksesit në kohë për spektrin dhe mjedisi miqësor për investimet
+1. Në zbatim të parashikimeve në nenin 7 të ligjit nr. 54/2024, “Për komunikimet elektronike në Republikën e Shqipërisë”, do të bashkëpunohet për përditësimin e politikës spektrale dhe planifikimin strategjik për frekuencat duke u mbështetur në praktikat e mira të BE-së.
+2. MIE do të bashkëpunojë me AKEP-in për të mundësuar sigurimin e aksesit në kohë të spektrit të frekuencave në brezat pionierë për zhvillimin e rrjeteve 5G që mundësojnë sigurimin e mbulimit dhe cilësinë e shërbimit sipas parashikimeve në ligjin nr. 54/2024, “Për komunikimet elektronike në Republikën e Shqipërisë”.
+3. Në përputhje me parashikime e ligjit për komunikimeve elektronike udhëzohet të bashkëpunohet me AKEP-in dhe autoritetet e tjera të BE-së për të shkëmbyer praktikat më të mira në dhënien në përdorim të spektrit, si dhe në lidhje me stimujt për përdoruesit e spektrit të radios në shtrirjen e rrjeteve 5G, që janë zhvilluar ose zbatuar në vendet e Bashkimit Evropian. Në veçanti, do të analizohen dhe shikohen masat që vendet e BE-së kanë ndjekur sipas parashikimeve të seksionit IV, të Rekomandimit të Komisionit (BE) 2020/1307, në lidhje me:
+a) promovimin e çmimeve të rezervës që pasqyrojnë nivelet optimale të tarifave për të drejtat e përdorimit të spektrit të radios;
+b) praktikat për shmangien e mungesës së spektrit dhe ato të harmonizimit në nivel Bashkimi Evropian;
+c) duke siguruar në mënyrë jodiskriminuese mundësinë që tarifat për të drejtat e përdorimit të spektrit radio të paguhen në këste brenda periudhës së këtyre të drejtave;
+d) duke përdorur një regjim autorizimi individual për brezin e frekuencës 24,25-27,5 GHz që promovon përdorimin e tij në kohë duke përfshirë, në veçanti, atë që bazohet në procedura të shpejta administrative kur zbatohet në të drejtat e kufizuara të përdorimit gjeografikisht;
+e) kombinimi i stimujve financiarë me detyrimet ose angazhimet formale për të përshpejtuar ose për të zgjeruar cilësinë e lartë të mbulimit pa tel;
+f) sigurimin, në varësi të ligjit të konkurrencës, të mundësisë për ndarjen e infrastrukturës pasive dhe aktive, si dhe për shtrirjen e përbashkët të infrastrukturës që mbështetet në përdorimin e spektrit të radios.

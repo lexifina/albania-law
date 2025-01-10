@@ -1,0 +1,8 @@
+# Neni 5
+Përmirësimi i procedurave të dhënies së lejeve
+1. Në zbatim të ligjit nr. 120/2016, “Për zhvillimin e rrjeteve të komunikimeve elektronike të shpejtësisë së lartë dhe sigurimin e së drejtës së kalimit” dhe rregullave të miratuara me vendimit nr. 155, datë 11.3.2022, të Këshillit Ministrave, “Për miratimin e rregullave të përgjithshme për procedurat e dhënies të së drejtës së kalimit dhe ndërtimin e rrjeteve të komunikimeve elektronike të shpejtësisë së lartë”, MIE, përmes BCO-së, do të ndërmarrë një proces analize për shkallën e zbatimit të këtij vendimi nga institucionet përgjegjëse, duke përfshirë identifikimin e praktikave të mira si dhe, ku është e nevojshme, përmirësimi i procedurave në përputhje me përcaktimet e rekomandimit të Komisionit (BE) 2020/1307.
+2. Në procesin e analizës sipas pikës 1 të këtij neni, BCO-ja duhet të eksplorojë mundësitë bazuar në praktikat e mira të BE-së se, si:
+a) respektohet afati maksimal ligjor për dhënien ose refuzimin e lejeve;
+b) të thjeshtohet procesi i dhënies së lejeve, duke përfshirë ngritjen e procedurave të shpejta të dhënies së lejeve dhe/ose përjashtime nga leja kur është e përshtatshme, dhe përcaktimin e llojit të rrjeteve që do të vendosen që mund të përfitojnë nga këto;
+c) mund t’u jepet operatorëve e drejta për të paraqitur, me mjete elektronike, nëpërmjet pikës së vetme të informacionit, aplikime për të gjitha lejet e nevojshme që kërkohen për punimet civile për vendosjen e elementeve të rrjeteve me kapacitet shumë të lartë;
+d) të rritet koordinimi me pikën e vetme informacionit dhe institucionet përgjegjëse dhe si mund të lehtësohet shkëmbimi i informacion mbi ecurinë e këtyre procedurave ndërmjet aplikantëve dhe autoriteteve kompetente.

@@ -1,0 +1,3 @@
+# Neni 9
+Vlerësimi i ndikimit në mjedis
+Në përputhje me legjislacionin në fuqi për vlerësimin strategjik mjedisor, për vlerësimin e ndikimit në mjedis dhe për habitatet, kur kërkohet një vlerësim i ndikimit në mjedis, dhe në veçanti kur autoritetet përgatisin kuadrin për miratimin e projekteve të ardhshme për zhvillim, udhëzohet që të shkëmbehen praktikat më të mira se si të performojnë dhe të marrin parasysh rezultatet të vlerësimit mjedisor, në fazën kur mund të identifikohen dhe vlerësohen efektet mjedisore, si p.sh. kur operatorët paraqesin planet e përgjithshme për projektet që përfshijnë instalimin konkret ose vendosjen e rrjeteve.
