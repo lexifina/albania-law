@@ -1,7 +1,7 @@
 # Neni 9
-Dispozita të fundit
-1. Shoqëria “Hekurudha shqiptare” sh.a., çregjistrohet nga Qendra Kombëtare e Biznesit jo më vonë se gjashtë muaj pas regjistrimit në Qendrën Kombëtare të Biznesit të katër shoqërive pritëse.
-2. Shoqëritë pritëse janë pasardhëset ligjore të shoqërisë “Hekurudha shqiptare” sh.a., për sa i përket transferimit të pasurive dhe të gjitha të drejtave dhe detyrimeve të tjera.
-3. Deri në ditën e regjistrimit në Qendrën Kombëtare të Biznesit të katër shoqërive pritëse, shoqëria “Hekurudha shqiptare” sh.a., mban të gjitha përgjegjësitë për administrimin e infrastrukturës hekurudhore dhe shërbimeve të transportit hekurudhor.
-4. Sipërmarrësi Hekurudhor i Transportit të Udhëtarëve, Sipërmarrësi Hekurudhor i Transportit të Mallrave dhe Sipërmarrësi i Mirëmbajtjes së Mjeteve Hekurudhore aplikojnë për licencat përkatëse, certifikatat dhe lejet e tjera në përputhje me përcaktimet në Kodin Hekurudhor në fuqi, jo më vonë se 180 ditë nga dita e regjistrimit në Qendrën Kombëtare të Biznesit.
-5. Administruesi i Infrastrukturës aplikon për licencë dhe autorizim të sigurisë hekurudhore sipas Kodit Hekurudhor.
+Dispozita kalimtare dhe të fundit
+1. Për një periudhë 12-mujore nga regjistrimi i dy shoqërive në Qendrën Kombëtare të Biznesit, shoqëria “Hekurudha shqiptare” sh.a., do të mbikëqyrë veprimtarinë e dy shoqërive të reja dhe përmbushjen e përgjegjësive të përcaktuara sipas këtij ligji.
+2. Shoqëria “Hekurudha shqiptare” sh.a., çregjistrohet nga Qendra Kombëtare e Biznesit me përfundimin e periudhës 12-mujore, të përcaktuar në pikën 1 të këtij neni.
+3. Shoqëritë pritëse janë pasardhëset ligjore të shoqërisë “Hekurudha shqiptare”, sh.a., për sa i përket transferimit të pasurive dhe të gjitha të drejtave e detyrimeve të tjera.
+4. Shoqëria aksionare hekurudhore për transportin e udhëtarëve e të mallrave dhe për mirëmbajtjen e mjeteve lëvizëse bën kërkesën për licencat përkatëse, certifikatat dhe lejet e tjera, në përputhje me përcaktimet në Kodin Hekurudhor, jo më vonë se 180 ditë nga dita e regjistrimit në Qendrën Kombëtare të Biznesit.
+5. Administruesi i infrastrukturës bën kërkesën për licencë dhe autorizim të sigurisë hekurudhore sipas Kodit Hekurudhor.

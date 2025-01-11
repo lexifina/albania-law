@@ -1,10 +1,10 @@
 # Neni 8
 Të drejtat dhe detyrimet e aksionarit të shoqërive
-Në bazë të përcaktimeve të neneve 6 dhe 7 të këtij ligji, ministri përgjegjës për ekonominë përcakton të drejtat dhe detyrimet që ka si aksionar i shoqërive pritëse dhe, në veçanti, për sa i përket:
-a) kuadrit politik të të katër shoqërive aksionare si aktorë të rinj në sektorin hekurudhor të ristrukturuar;
-b) mekanizmat për reduktimin e borxheve të katër kompanive aksionare në një nivel që nuk pengon menaxhimin e shëndoshë financiar dhe që përmirëson situatën e ardhshme financiare, siç parashikohet në Kodin Hekurudhor në fuqi;
-c) aksionarët dhe përgjegjësitë e financimit për katër shoqëritë aksionare, me qëllim mbulimin e humbjeve të ardhshme që mund të lindin nga kryerja e përgjegjësive të përcaktuara në nenet 2, 3, 4 dhe 5 të këtij ligji;
-ç) përzgjedhjen e këshillave mbikëqyrës të katër shoqërive aksionare, duke siguruar që të njëjtët individë nuk mund të emërohen në këto raste:
+Në bazë të përcaktimeve të neneve 6 dhe 7 të këtij ligji, ministri përgjegjës për transportin hekurudhor përcakton të drejtat dhe detyrimet që ka si aksionar i shoqërive pritëse dhe, në veçanti, për sa i përket:
+a) kuadrit politik të të dy shoqërive aksionare si aktorë të rinj në sektorin hekurudhor të ristrukturuar;
+b) mekanizmat për reduktimin e borxheve të dy shoqërive aksionare në një nivel që nuk pengon menaxhimin e shëndoshë financiar dhe që përmirëson situatën e ardhshme financiare, siç parashikohet në Kodin Hekurudhor në fuqi;
+c) aksionarët dhe përgjegjësitë e financimit për dy shoqërive aksionare, me qëllim mbulimin e humbjeve të ardhshme që mund të lindin nga kryerja e përgjegjësive të përcaktuara në nenet 2, 3, 4 dhe 5 të këtij ligji;
+ç) përzgjedhjen e këshillave mbikëqyrës të dy shoqërive aksionare, duke siguruar që të njëjtët individë nuk mund të emërohen në këto raste:
 i. si anëtarë të këshillit mbikëqyrës të një Administruesi të Infrastrukturës dhe si anëtarë të këshillit mbikëqyrës të një sipërmarrjeje hekurudhore;
 ii. si persona përgjegjës për marrjen e vendimeve për funksionet thelbësore dhe si anëtarë të këshillit mbikëqyrës të një sipërmarrjeje hekurudhore;
 iii. kur ekziston një këshill mbikëqyrës, si anëtarë të këshillit mbikëqyrës të një Administruesi të Infrastrukturës dhe si anëtarët e këshillit mbikëqyrës të një sipërmarrjeje hekurudhore;
