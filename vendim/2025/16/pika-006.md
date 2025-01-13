@@ -1,0 +1,3 @@
+6. Vendet që mbeten të lira në përfundim të procedurës së lëvizjes paralele:
+a) për kategorinë ekzekutive plotësohen nëpërmjet procedurës së pranimit në shërbimin civil, ku mund të konkurrojnë të gjithë ata kandidatë jashtë shërbimit civil që plotësojnë kërkesat e përgjithshme dhe ato të posaçme, të përcaktuara në shpalljen e konkurrimit;
+b) për kategorinë e ulët dhe atë të mesme drejtuese plotësohen nëpërmjet procedurës së ngritjes në detyrë, ku mund të konkurrojnë nëpunësit civilë të një kategorie paraardhëse, të punësuar në të njëjtin institucion apo në një institucion tjetër të shërbimit civil, nëse plotësojnë kushtet dhe kërkesat e veçanta për vendin/vendet e lira.

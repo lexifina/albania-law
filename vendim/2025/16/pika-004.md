@@ -1,0 +1,1 @@
+4. Fondet buxhetore për vendet vakante të planifikuara për rekrutim për vitin 2025 janë pjesë e fondeve buxhetore, të miratuara me ligjin e buxhetit për vitin 2025 për secilin institucion të administratës shtetërore.
