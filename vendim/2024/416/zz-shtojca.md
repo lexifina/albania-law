@@ -197,3 +197,5 @@ Masa e shtesës për natyrë të veçantë pune për shkak të kushteve të vës
 | |ambulance; | | |
 | |Specialist mjek; | | |
 | |Ndihmës mjek trupë operacionale. | | |
+-----------------------
+[1] VKM-në nr. 4, datë 9.1.2025 botuar në F.Z nr. 5 datë 13.1.2025 në pikën 17 shprehet: “ 17. Vendimi nr. 416, datë 26.6.2024, i Këshillit të Ministrave, “Për miratimin e vlerave për secilën element përbërës të pagës bruto mujore dhe të trajtimeve të tjera financiare për punonjësit e Policisë së Shtetit”, shfuqizohet, me përjashtim të përcaktimeve në pikat 5 dhe 9, që vijojnë të jenë në fuqi deri në datën 31.12.2025.”
