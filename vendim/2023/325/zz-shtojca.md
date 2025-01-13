@@ -57,13 +57,13 @@ Masa e shtesës për kushte pune (natyrë të veçantë pune) për disa nga funk
 a) në masën 65 000 (gjashtëdhjetë e pesë mijë) lekë në muaj, për nëpunësin në pozicionin “Sekretar i Përgjithshëm”;
 b) në masën 26 000 (njëzet e gjashtë mijë) lekë në muaj, për funksionarin në pozicionin “drejtor i kabinetit të Kryeministrit”;
 c) në masën 75 000 (shtatëdhjetë e pesë mijë) lekë në muaj, për nëpunësin në pozicionin “drejtor departamenti” në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave;
-ç) në masën 70 000 (shtatëdhjetë mijë) lekë në muaj, për nëpunësit në pozicionet “jurist” dhe “koordinator”, në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave;
-d) në masën 30 000 (tridhjetë mijë) lekë në muaj, për nëpunësit në pozicionet “drejtor drejtorie”, “përgjegjës sektori” dhe “specialist” në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave;
-dh) në masën 25 000 (njëzet e pesë mijë) lekë në muaj për nëpunësit/funksionarët në pozicionin “drejtor i kabinetit të zëvendëskryeministrit” dhe “drejtor departamenti” në departamentet përgjegjëse për aktet ligjore prioritare të Këshillit të Ministrave dhe për politikat, integrimin evropian dhe mirëqeverisjen;
+ç) në masën 70 000 (shtatëdhjetë mijë) lekë në muaj, për nëpunësit në pozicionet “jurist” dhe “koordinator” në varësi të drejtpërdrejtë të drejtorit të Departamentit, në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave;
+d) në masën 30 000 (tridhjetë mijë) lekë në muaj, për nëpunësit në pozicionet “drejtor drejtorie”, “përgjegjës sektori” dhe “specialist” në drejtorinë përgjegjëse për dokumentacionin në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave;
+dh) në masën 25 000 (njëzet e pesë mijë) lekë në muaj për nëpunësit/funksionarët në pozicionin “drejtor i kabinetit të zëvendëskryeministrit” dhe “drejtor departamenti” në departamentin përgjegjës për politikat, integrimin evropian dhe mirëqeverisjen.
 e) në masën 24 000 (njëzet e katër mijë) lekë në muaj për nëpunësit në pozicionet:
-i. “drejtor njësie”, në departamentet përgjegjëse për aktet ligjore prioritare të Këshillit të Ministrave dhe për politikat, integrimin evropian dhe mirëqeverisjen;
-ii. “drejtor drejtorie” në departamentet përgjegjëse për politikat, integrimin dhe mirëqeverisjen, dhe për aktet ligjore prioritare të Këshillit të Ministrave.
-ë) në masën 20 000 (njëzet mijë) lekë në muaj për nëpunësit në pozicionet “jurist” dhe “koordinator”, në departamentin përgjegjës për aktet ligjore prioritare të Këshillit të Ministrave;
+i. “drejtor njësie”, në departamentet përgjegjëse për aktet rregullatore të Këshillit të Ministrave dhe për politikat, integrimin evropian dhe mirëqeverisjen;
+ii. “drejtor drejtorie” në departamentin përgjegjës për politikat, integrimin dhe mirëqeverisjen dhe në njësitë përgjegjëse për monitorimin dhe bashkëpunimin ndërinstitucional dhe për programimin e akteve rregullatore dhe RIA, në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave;
+ë) në masën 20 000 (njëzet mijë) lekë në muaj për nëpunësit në pozicionet “jurist” dhe “koordinator”, në njësitë përgjegjëse për monitorimin dhe bashkëpunimin ndërinstitucional dhe për programimin e akteve rregullatore dhe RIA, në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave;
 f) në masën 15 000 (pesëmbëdhjetë mijë) lekë në muaj, për nëpunësit në pozicionet “koordinator”, në departamentin përgjegjës për politikat, integrimin evropian dhe mirëqeverisjen dhe përgjegjës i sektorit, që mbulon buxhetin dhe financën;
 g) në masën 10 000 (dhjetë mijë) lekë në muaj, për nëpunësit/funksionarët në pozicionet:
 i. “këshilltar” në kabinetin e Kryeministrit dhe të zëvendëskryeministrit;
@@ -176,7 +176,7 @@ Klasat e pagave për funksionarët e kabineteve të institucioneve të përcaktu
 | |Zëdhënës i Presidentit. | | |
 | |Drejtor i kabinetit të Zëvendëskryeministrit. | | |
 | |Drejtor i kabinetit të Avokatit të Popullit. | | |
-| |Drejtor i kabinetit të Kryetarit të Komisionit Qendror të Zgjedhjeve. | | |
+| |Drejtor i kabinetit të Kryetarit të Komisionit Qendror të Zgjedhjeve.| | |
 |3 |Këshilltar i Prokurorit të Përgjithshëm. |I-3 |1 |
 | |Këshilltar i Kryetarit të Gjykatës së Lartë. | | |
 | |Këshilltar i Avokatit të Popullit. | | |
@@ -194,8 +194,9 @@ Klasat e pagave për funksionarët e kabineteve të institucioneve të përcaktu
 | |Ndihmës i Nënkryetarit të Kuvendit. | | |
 | |Këshilltar i ministrit. | | |
 | |Këshilltar i titullarëve të institucioneve të tjera të pavarura të | | |
-| |përmendura në shkronjën “a”, të pikës 1, të kreut I, të këtij vendimi.| | |
-| |Zëdhënës i titullarëve të institucioneve të pavarura të përmendura në | | |
+| |përmendura në shkronjën “a”, të pikës 1, të kreut I, të këtij | | |
+| |vendimi. | | |
+| |Zëdhënës i titullarëve të institucioneve të pavarura të përmendura në| | |
 | |shkronjën “a”, të pikës 1, të kreut I, të këtij vendimi. | | |
 |Nr. Rendor |Pozicioni |Vlera e pagës bazë mujore të pozicionit të punës|
 | | |(lek/muaj) |
@@ -622,24 +623,24 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 Lidhja nr. 9/3
 (Katër rreshtat e fundit të lidhjes nr. 9/3 ndryshuar me Vendimin nr. 864, datë 30.12.2024)
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të nëpunësve të sistemit doganor
-|Klasifikimi |Pozicioni |Klasa e |Grupi i |Paga bazë mujore |Shtesa për kushte |
-|doganor | |pagës |diplomës |e pozicionit |pune (natyrë të |
+|Klasifikimi doganor|Pozicioni |Klasa e |Grupi i diplomës|Paga bazë mujore |Shtesa për kushte |
+| | |pagës | |e pozicionit |pune (natyrë të |
 | | | | | |veçantë pune) |
 | | | | | |(lek/muaj) |
 | |Titullar i Institucionit. |I-3 |1 | |20 000 |
 | |Zv/drejtor i përgjithshëm. |II-1 |1 | |15 000 |
 |A |Drejtor kabineti. | II-1 |1 | | |
 | |Drejtor i drejtorive të përmbajtjes në Drejtorinë e Përgjithshme. | | | | |
-| |Drejtor drejtorie me funksione të nëpunësit zbatues, sipas legjislacionit të| | | | |
-| |menaxhimit buxhetor e financiar. | | | | |
-| |Kryetar i degës doganore të kategorisë A sipas përcaktimeve të Këshillit të | | | | |
-| |Ministrave në vendim përkatës për personelin e administratës doganore. | | | |15 000 |
+| |Drejtor drejtorie me funksione të nëpunësit zbatues, sipas legjislacionit të menaxhimit | | | | |
+| |buxhetor e financiar. | | | | |
+| |Kryetar i degës doganore të kategorisë A sipas përcaktimeve të Këshillit të Ministrave në | | | | |
+| |vendim përkatës për personelin e administratës doganore. | | | |15 000 |
 | |Drejtor i drejtorive mbështetëse në Drejtorinë e Përgjithshme. |II-2 |1 | | |
 | |Këshilltar. | | | | |
 | | | | | |15 000 |
 | |Përfaqësues SELEC në DPD. |III-1 |1 | |15 000 |
-|B |Kryetar i degës doganore të kategorisë B sipas përcaktimeve të Këshillit të |II-2 |1 | | |
-| |Ministrave në vendim përkatës për personelin e administratës doganore. | | | | |
+|B |Kryetar i degës doganore të kategorisë B sipas përcaktimeve të Këshillit të Ministrave në |II-2 |1 | | |
+| |vendim përkatës për personelin e administratës doganore. | | | | |
 | | | | | | |
 | | | | | |14 000 |
 | |Përgjegjës i sektorit të përmbajtjes në DPD. |III-1 |1 | | |
@@ -649,22 +650,21 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të n�
 | |Përgjegjës sektori në degët doganore të kategorisë A. |III-2 |1 | | |
 | | | | | |14 000 |
 |C1 |Në DPD: |IV-1 |1 | | |
-| |Auditues. Specialist. Specialist laborant. Komandant Grupi Antikondrabande. | |ose | | |
-| |Specialist QNOD. Përgjegjës zyre. | |2 | |14 000 |
+| |Auditues. Specialist. Specialist laborant. Komandant Grupi Antikondrabande. Specialist QNOD.| |ose | | |
+| |Përgjegjës zyre. | |2 | |14 000 |
 | | | | | | |
 | |Në degët doganore: | | | | |
-| |Përgjegjës zyre/turni. Specialist (analist risku, aposterior, jurist, | | | | |
-| |borxhi, administrator rrjeti, financier). | | | | |
+| |Përgjegjës zyre/turni. Specialist (analist risku, aposterior, jurist, borxhi, administrator | | | | |
+| |rrjeti, financier). | | | | |
 |C2 |Në DPD: |IV-2 |1 | | |
-| |Inspektor antikondrabande. Asistent laborant. Specialist. Specialist GFI. | |ose | | |
-| |Doganier klasifikim/vlerësim/aposterior. | |2 | |10 000 |
+| |Inspektor antikondrabande. Asistent laborant. Specialist. Specialist GFI. Doganier | |ose | | |
+| |klasifikim/vlerësim/aposterior. | |2 | |10 000 |
 | | | |ose | | |
 | |Në degët doganore: | |3 | | |
 | |Specialist finance i nivelit të dytë. Doganier klasifikim/vlerësim/kontroll | | | | |
 | |fizik/skaner/akcizë/aposterior/regjime/preferenca/përjashtime. | | | | |
 |C3 |Në DPD: | | |47 000 |9 000 |
-| |Sekretar/protokoll; Arkivist; Përpunues informacioni; Doganier pike | | | | |
-| |kontrolli. | | | | |
+| |Sekretar/protokoll; Arkivist; Përpunues informacioni; Doganier pike kontrolli. | | | | |
 | | | | | | |
 | |Në degët doganore: | | | | |
 | |Doganier peshoreje/pike kontrolli; Sekretar; Arkivist. | | | | |
@@ -1262,3 +1262,4 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 2. Për të gjitha përcaktimet e tjera, nga data 1 korrik 2024 dhe për vitin 2024, përballohen nga fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
 [4] Vendimi nr. 485, datë 24.7.2024 botuar në F.Z nr. 127, datë 26.7.2024 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, fillojnë nga data e emërimit/transferimit të nëpunësit në detyrë dhe për vitin 2024 përballohen nga fondet e miratuara për institucionin për këtë vit.”
 [5] Vendimi nr.502, datë 1.8.2024 botuar në F.Z. nr. 134, datë 1.8.2024 në pikën 2 të tij shprehet: “Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, fillojnë nga data 1 korrik 2024 dhe për vitin 2024 përballohen nga fondet buxhetore të miratuara, si dhe nga fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
+[6] Vendimi 25, datë 10.1.2025 botuar në F.Z nr. 6 datë 13.1.2025 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përballohen nga fondet e miratuara për secilin institucion dhe fillojnë: a) nga momenti i emërimit të nëpunësve/punonjësve për përcaktimet në shkronjat “a” dhe “b”, të pikës 1, të këtij vendimi; b) nga momenti i transferimit në pozicionet e reja të nëpunësve në ish-departamentin përgjegjës për aktet ligjore prioritare të Këshillit të Ministrave.”
