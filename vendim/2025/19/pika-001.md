@@ -1,0 +1,1 @@
+1. Përcaktimin e numrit të punonjësve me kontratë të përkohshme, për vitin 2025, për njësitë e qeverisjes qendrore, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

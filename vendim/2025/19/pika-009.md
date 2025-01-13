@@ -1,0 +1,1 @@
+9. Ngarkohen ministritë dhe institucionet sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi, të depozitojnë pranë Ministrisë së Financave detajimin e numrit të punonjësve me kontratë, kategorinë përkatëse të pagës dhe burimin e financimit të tyre.
