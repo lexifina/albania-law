@@ -1,0 +1,1 @@
+2. Ky vendim ka për qëllim miratimin e rregullave për personat juridikë që paraqesin kërkesë për licencë për prodhimin e cannabis-it mjekësor, sipas përcaktimeve të shkronjave “d” dhe “e”, të pikës 2, të nenit 15, të ligjit nr. 61/2023, “Për kontrollin e kultivimit dhe përpunimit të bimës së cannabis-it dhe prodhimit të nënprodukteve të saj për qëllime mjekësore dhe industriale”.

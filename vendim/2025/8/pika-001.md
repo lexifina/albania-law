@@ -1,0 +1,1 @@
+1. Ky vendim përcakton standardet e planit të sigurisë dhe elementeve të mbrojtjes për sipërfaqen për kultivim dhe përpunim të bimës së cannabis-it për qëllime mjekësore dhe rregullat e lëvizjes së automjeteve të dedikuara të transportit të lëndëve të para e të produkteve, që duhet të plotësojnë subjektet e licencuara.
