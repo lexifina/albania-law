@@ -1,0 +1,11 @@
+3. Lejimin e lëvizjes së shpendëve të gjallë sipas tabelës 4, të shtojcës 5, të urdhrit nr. 177, datë 28.3.2023, “Për miratimin e Programit Kombëtar të Mbikëqyrjes së Influencës Aviare”, vetëm me autorizim të veterinerit zyrtar për në thertore, pasi është kryer testi i PCR-së dhe shpendët kanë rezultuar negativ ndaj sëmundjes së influencës aviare dhe të jenë shoqëruar me certifikatën shëndetësore të lëvizjes së shpendëve, në territorin e:
+- Njësisë Administrative Paskuqan;
+- Njësisë Administrative Dajt;
+- Njësive Administrative të Qytetit Tiranë;
+- Njësisë Administrative Farkë;
+- Njësisë Administrative Bërxull;
+- Njësisë Administrative Vaqar;
+- Njësisë Administrative Kashar;
+- Njësisë Administrative Kamzë;
+- Njësisë Administrative Zall-Herr;
+- Njësisë Administrative Zall-Bastar.

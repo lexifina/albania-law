@@ -1,0 +1,11 @@
+1. Ndalimin e shitjes dhe tregtimit të shpendëve të gjallë në mjediset e hapura dhe tregjet e kafshëve të gjalla në territorin e:
+- Njësisë Administrative Paskuqan;
+- Njësisë Administrative Dajt;
+- Njësive Administrative të Qytetit Tiranë;
+- Njësisë Administrative Farkë;
+- Njësisë Administrative Bërxull;
+- Njësisë Administrative Vaqar;
+- Njësisë Administrative Kashar;
+- Njësisë Administrative Kamzë;
+- Njësisë Administrative Zall-Herr;
+- Njësisë Administrative Zall-Bastar.
