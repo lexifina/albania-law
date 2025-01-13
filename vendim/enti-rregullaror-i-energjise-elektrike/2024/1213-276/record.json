@@ -1,0 +1,28 @@
+{
+  "qbz_id": 54608,
+  "title": "Mbi licencimin e shoqërisë “M.C Energji Gojan” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Gojan”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "276",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2024-12-13",
+  "published": "2025-01-13",
+  "in_force": "2025-01-13",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d60b0d428e3ea986209346db46fbd230abd4238d81343b9dec12656893e5af27.docx",
+  "source_sha256": "d60b0d428e3ea986209346db46fbd230abd4238d81343b9dec12656893e5af27",
+  "official_record": "https://qbz.gov.al/api/v1/acts/54608",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2024/12/13/276",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31829
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
