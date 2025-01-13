@@ -1,1 +1,1 @@
-17. Revokimi i autorizimit i njoftohet organizatës jofitimprurëse, si dhe publikohet në faqen zyrtare të Drejtorisë së Ndihmës Juridike Falas. Kundër këtij vendimi mund të bëhet ankim në gjykatën administrative kompetente.
+17. Shfuqizimi i autorizimit i njoftohet organizatës jofitimprurëse nëpërmjet portalit unik qeveritar “e-Albania”, te seksioni “Dokumentet e mia”, me vulë elektronike, si dhe publikohet në faqen zyrtare të Drejtorisë së Ndihmës Juridike Falas. Kundër këtij vendimi mund të bëhet ankim në gjykatën administrative kompetente.

@@ -1,1 +1,1 @@
-14. Autorizimi i dhënë nga ministri i Drejtësisë është i vlefshëm për një periudhë dyvjeçare.
+14. Autorizimi i ministrit të Drejtësisë jepet pa afat. Drejtoria e Ndihmës Juridike Falas verifikon çdo 2 (dy) vjet përmbushjen e kritereve ligjore nga organizatat jofitimprurëse. Organizatat jofitimprurëse, që janë autorizuar nga ministri i Drejtësisë, njoftojnë Drejtorinë e Ndihmës Juridike Falas për çdo ndryshim që lidhet me plotësimin e kritereve ligjore për dhënien e autorizimit, brenda 3 (tri) ditëve nga data e kryerjes së ndryshimit..

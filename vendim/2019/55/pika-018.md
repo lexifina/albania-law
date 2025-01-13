@@ -1,1 +1,1 @@
-18. Çdo e dhënë lidhur me miratimin apo revokimin e autorizimit të organizatës jofitimprurëse regjistrohet në regjistrin e organizatave jofitimprurëse, të cilat ofrojnë ndihmë juridike parësore që administron Drejtoria e Ndihmës Juridike Falas.
+18. Çdo e dhënë lidhur me miratimin apo shfuqizimin e autorizimit të organizatës jofitimprurëse regjistrohet në regjistrin e organizatave jofitimprurëse, të cilat ofrojnë ndihmë juridike parësore që administron Drejtoria e Ndihmës Juridike Falas.

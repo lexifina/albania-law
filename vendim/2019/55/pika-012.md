@@ -1,1 +1,1 @@
-12. Aplikimi për autorizim nuk miratohet kur organizata jofitimprurëse nuk plotëson kriteret ligjore të përcaktuara në nenin 15, të ligjit nr. 111/2017, “Për ndihmën juridike të garantuar nga shteti”. Me kërkesën e saj, organizatës jofitimprurëse i njoftohen shkaqet e skualifikimit.
+12. Shfuqizuar.
