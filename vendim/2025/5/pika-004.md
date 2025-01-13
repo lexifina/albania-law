@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 650 698.80 (gjashtëqind e pesëdhjetë mijë e gjashtëqind e nëntëdhjetë e tetë pikë tetëdhjetë) lekësh, përballohet nga Prokuroria e Posaçme kundër Korrupsionit dhe Krimit të Organizuar.
