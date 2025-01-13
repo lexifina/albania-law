@@ -1,0 +1,1 @@
+1. Në kuptim të këtij vendimi, subjekt i ngarkuar për ruajtjen dhe sigurinë është SHPSF-ja e pajisur me licencë të nënkategorive 1.3.A. dhe 1.3.B ose “Illyrian Guard”, sipas legjislacionit në fuqi për shërbimin privat të sigurisë fizike.

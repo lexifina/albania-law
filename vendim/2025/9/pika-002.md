@@ -1,0 +1,1 @@
+2. Subjekti vetëdeklaron gatishmërinë për lidhjen e marrëveshjes paraprake me subjektin përgjegjës për ruajtjen dhe sigurinë fizike, sipas modelit në shtojcën nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

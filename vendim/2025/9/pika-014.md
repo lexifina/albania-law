@@ -1,0 +1,1 @@
+14. Subjekti i lejuar i garanton Agjencisë akses të pakufizuar dhe në kohë reale në sistemin e kamerave që monitorojnë të gjitha ambientet e njësisë, si dhe sistemin e kamerave që monitorojnë transportin e çdo materiali të lidhur me cannabis-in industrial, si dhe në imazhet filmike të ruajtura.

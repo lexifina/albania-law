@@ -1,0 +1,1 @@
+11. Ruajtja dhe sigurimi i ambienteve ku ushtrohet aktiviteti kryhet nga subjekti i ngarkuar për ruajtjen dhe sigurinë fizike në bazë të kontratës së lidhur ndërmjet palëve, në zbatim të përcaktimeve të kuadrit ligjor në fuqi.

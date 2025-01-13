@@ -1,0 +1,1 @@
+8. Mbajtësi i lejes duhet të ketë dhe të ndjekë procedura për të ruajtur dhe testuar efikasitetin e pajisjeve e të sistemeve të sigurisë. Mbajtësi i lejes duhet të kryejë inspektime periodike të pajisjeve dhe infrastrukturës nga subjekte të licencuara për këtë qëllim.

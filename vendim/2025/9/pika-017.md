@@ -1,0 +1,1 @@
+17. Tarifat për shërbimet e sigurisë, që u ofrohen subjekteve të lejuara për kultivimin dhe përpunimin e cannabis-it për qëllime industriale, janë sipas shtojcës nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+12. Kontrata hartohet në gjuhën shqipe në 4 (katër) kopje origjinale të cilat depozitohen nga 1 (një) kopje për subjektin, Agjencinë, subjektin e ngarkuar për ruajtjen dhe sigurinë fizike dhe Komisariatin e Policisë të juridiksionit ku ndodhet objekti.
