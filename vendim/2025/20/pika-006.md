@@ -1,0 +1,1 @@
+6. Administrimi i fondeve buxhetore të mbështetjes financiare të pensionistëve, caktimi i masës së mbështetjes financiare për çdo përfitues dhe pagesa realizohen nga Instituti i Sigurimeve Shoqërore dhe Posta Shqiptare sh.a., dhe bankat e nivelit të dytë, sipas të njëjtave procedura, që zbatohen për administrimin e fondit të sigurimeve shoqërore.

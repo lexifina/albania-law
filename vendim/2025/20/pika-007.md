@@ -1,0 +1,2 @@
+7. Ngarkohen Ministria e Ekonomisë, Kulturës dhe Inovacionit, Ministria e Financave dhe Instituti i Sigurimeve Shoqërore për zbatimin e këtij vendimi. Efektet financiare të këtij vendimi do të përballohen nga llogaria e mbështetjes për pensionistët në Bankën e Shqipërisë me emërtimin “Fondi i pensioneve”.
+Ky vendim hyn në fuqi menjëherë, botohet në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1 mars 2025.

@@ -1,0 +1,1 @@
+3. Të drejtën për të përfituar mbështetje financiare, në masën e përcaktuar sipas pikave 1 dhe 2 të këtij vendimi, e kanë edhe ata persona që u lind e drejta e përfitimit, deri në datën 28.2.2025, duke përfshirë edhe këtë datë, dhe kanë të drejtë ta marrin vetëm një herë këtë mbështetje financiare, pavarësisht se mund të përfitojnë më shumë se një përfitim.

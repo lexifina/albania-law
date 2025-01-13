@@ -1,0 +1,1 @@
+5. Pagesat e mbështetjes financiare kalohen në llogaritë e pensionistëve në muajin mars 2025 dhe paguhen gjatë këtij muaji. Në rastet kur pagesat efektive nuk kryhen brenda muajit mars 2025, ato do të paguhen deri më 30.9.2025. Pagesat e patërhequra parashkruhen pas datës 30.9.2025.
