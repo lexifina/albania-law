@@ -1,0 +1,9 @@
+LIGJ
+Nr. 120/2024
+PËR MIRATIMIN E AKTIT NORMATIV, ME FUQINË E LIGJIT, NR. 4,
+DATË 27.11.2024, “PËR NJË SHTESË NË LIGJIN NR. 29/2023,
+’PËR TATIMIN MBI TË ARDHURAT’, I NDRYSHUAR”
+Në mbështetje të nenit 101 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
