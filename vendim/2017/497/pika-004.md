@@ -1,0 +1,1 @@
+4. Ngarkohet Ministria e Ekonomisë, Kulturës dhe Inovacionit dhe ministri i Shtetit për Administratës Publike dhe Antikorrupsionin të lidhin një marrëveshje, ku të përcaktohen modalitetet e përdorimit dhe të vënies në dispozicion të një pjese të ish-godinës së Lidhjes së Shkrimtarëve dhe Artistëve, si dhe kalimi kapital i pajisjeve të zyrave, sipas legjislacionit në fuqi.

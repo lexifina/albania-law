@@ -1,0 +1,1 @@
+2. Një pjesë e ish-godinës së Lidhjes së Shkrimtarëve dhe Artistëve u jepet në përdorim të përkohshëm, pa shpërblim, Ministrit të Shtetit për Administratën Publike dhe Antikorrupsionin dhe Drejtorisë së Përgjithshme të Antikorrupsionit deri më 30.9.2025.

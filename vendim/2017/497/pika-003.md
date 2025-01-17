@@ -1,0 +1,1 @@
+3. Ministrit të Shtetit për Administratën Publike dhe Antikorrupsionin dhe Drejtorisë së Përgjithshme të Antikorrupsionit u ndalohet të ndryshojnë destinacionin e pronës së përcaktuar në pikën 1, të këtij vendimi, ta tjetërsojnë atë ose t’ua japin në përdorim të tretëve.
