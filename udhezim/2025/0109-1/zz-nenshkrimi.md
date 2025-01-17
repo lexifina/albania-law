@@ -1,0 +1,3 @@
+# Nënshkrimi
+|MINISTËR I ARSIMIT DHE SPORTIT |MINISTËR I EKONOMISË, KULTURËS DHE INOVACIONIT |
+|Ogerta Manastirliu |Blendi Gonxhja |

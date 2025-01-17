@@ -1,0 +1,1 @@
+16. Zyrat Vendore Arsimore Parauniversitare (ZVAP), pasi marrin nga institucionet e arsimit të mesëm të lartë listat e maturantëve mbetës të vitit shkollor 2024-2025 i pasqyrojnë ato në portalin e-Matura, sipas urdhrit dhe kalendarit të përcaktuar nga QSHA-ja. Këto lista dërgohen në QSHA, në format të printuar dhe elektronik.

@@ -1,0 +1,1 @@
+14. Testi i provimeve për maturantët e Qendrës Burimore për Nxënësit që nuk Dëgjojnë, hartohet sipas kritereve të përcaktuara në rregulloren për zhvillimin e Maturës Shtetërore në Republikën e Shqipërisë.

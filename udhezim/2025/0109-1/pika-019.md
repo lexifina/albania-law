@@ -1,0 +1,1 @@
+19. Testi i provimit “Gjuhë frënge” (DELF B2 scolaire) për seksionet dygjuhëshe shqiptaro-franceze përgatitet nga Ambasada Franceze në Tiranë dhe provimi zhvillohet më datë 28 maj 2025, në shkollat përkatëse.

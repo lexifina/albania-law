@@ -1,0 +1,1 @@
+12. Testi i veçantë i hartuar për nxënësit me aftësi të kufizuara, për secilin nga provimet e Maturës Shtetërore 2025, përmban vetëm pyetje të nivelit të parë dhe të dytë të arritjes dhe vlerësohet me pikët maksimale që i korrespondojnë nivelit të dytë.
