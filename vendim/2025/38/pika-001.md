@@ -1,0 +1,1 @@
+1. Shpalljen e zonës me numra pasurie 3/326 dhe 3/665, të zonës kadastrale 8240, në pronësi të Bashkisë Tiranë, si zonë e përshtatshme për zhvillim, me qëllim ndërtimin e banesave sociale, si pjesë e fondit publik të banesave sociale, në pronësi të Bashkisë Tiranë.
