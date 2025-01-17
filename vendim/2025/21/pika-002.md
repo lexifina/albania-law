@@ -1,0 +1,1 @@
+2. Përfituesit, sipas shkronjave “b”, “c”, “ç”, “dh”, “e”, “ë”, “f”, “g”, “gj”, “e” e “h”, të pikës 1, të këtij vendimi, përzgjidhen në bazë të kritereve të parashikuara në sistemin e pikëzimit të përcaktuar në tabelën nr.1, që i bashkëlidhet këtij vendimi.

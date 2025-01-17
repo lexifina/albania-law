@@ -1,0 +1,2 @@
+7. Ngarkohen Ministria e Ekonomisë, Kulturës dhe Inovacionit, Ministria e Shëndetësisë dhe Mbrojtjes Sociale, Ministria e Brendshme, Ministria e Mbrojtjes, Ministria e Bujqësisë dhe Zhvillimit Rural, Ministria e Financave, Ministria e Arsimit dhe Sportit, Ministria e Drejtësisë, Ministria për Evropën dhe Punët e Jashtme, Ministria e Infrastrukturës dhe Energjisë, Ministria e Turizmit dhe Mjedisit dhe Kryeministria për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
