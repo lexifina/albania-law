@@ -1,0 +1,1 @@
+8. Anëtari i Komisionit të Verës, që jep dorëheqjen, është i detyruar të paraqesë kërkesën me shkrim për dorëheqje dhe arsyet e dorëheqjes pranë strukturës përgjegjëse për vreshtarinë dhe verën në ministri.
