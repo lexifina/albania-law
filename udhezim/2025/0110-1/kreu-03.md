@@ -1,0 +1,2 @@
+KREU III
+TË DREJTAT DHE DETYRAT E PunonjËsve
