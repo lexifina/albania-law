@@ -1,0 +1,1 @@
+5. Në rastet kur parcela e tokës përdoret për kultivimin e cannabis-it për qëllime mjekësore apo industriale, ajo duhet të jetë e pajisur me aktin e fitimit të pronësisë, në zbatim të përcaktimeve të Kodit Civil dhe të ligjit nr. 111/2018, “Për kadastrën”.

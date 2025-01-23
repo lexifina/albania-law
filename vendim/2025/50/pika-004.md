@@ -1,0 +1,1 @@
+4. Në rastet kur, për ushtrimin e aktivitetit parashikohet kryerja e ndërhyrjeve ndërtimore në parcelën e tokës, pjesë e njësisë së prodhimit, ndërtimi kryhet sipas përcaktimeve të legjislacionit të planifikimit dhe zhvillimit të territorit.

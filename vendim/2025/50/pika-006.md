@@ -1,0 +1,1 @@
+6. Standardet e parashikuara në pikat 2, shkronjat “a”, nënndarja “iv”, dhe “b”, e 3, shkronjat “a”, nënndarja “iv”, dhe “b”, të këtij vendimi, nuk aplikohen kur kultivimi kryhet në ambiente të mbyllura.
