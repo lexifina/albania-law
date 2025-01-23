@@ -1,0 +1,1 @@
+2. Misioni është trajnimi i rekrutëve të rinj të Ukrainës, komandantëve të skuadrave deri në nivel toge për përdorimin e armëve të këmbësorisë, të xhenios, dhënien e ndihmës së parë, lidership, luftë në qendra të banuara dhe taktikë.
