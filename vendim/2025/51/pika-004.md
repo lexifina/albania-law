@@ -1,0 +1,1 @@
+4. Bashkia Elbasan kryen pranë Drejtorisë Vendore të Agjencisë Shtetërore të Kadastrës Elbasan veprimet për regjistrimin e sipërfaqes së hequr nga fondi pyjor publik, sipas parashikimeve të këtij vendimi, nga kategoria “pyll”, dhe e regjistron në kategorinë e re përkatëse të përdorimit, në pronësi publike.
