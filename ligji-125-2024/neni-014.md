@@ -1,0 +1,3 @@
+# Neni 14
+Përjashtimet nga shërbimi ushtarak rezervist
+Përjashtohen nga pjesëmarrja në shërbimin ushtarak rezervist: shtetasi që kryen detyrat e deputetit, ministrit, prefektit, kryetarit të njësisë së vetëqeverisjes vendore, gjyqtarët, prokurorët, kryetarët e partive politike parlamentare, drejtuesit e institucioneve fetare, përfaqësuesi diplomatik ose konsullor, punonjësit e Shërbimit Informativ të Shtetit, si dhe shtetasi që ndodhet jashtë shtetit me studime ose për t’u kuruar dhe persona që nga ministritë ose institucionet e tjera qendrore përcaktohen si persona që kanë detyra të rëndësishme, ndërprerja e të cilave cenon sektorët jetikë të vendit.
