@@ -4,9 +4,9 @@ Nr. 55/2015
 
 PËR INVESTIMET STRATEGJIKE NË REPUBLIKËN E SHQIPËRISË
 
-(ndryshuar me ligjin nr. 67/2018, datë 4.10.2018; nr. 102/2018, datë 13.12.2018; nr. 89/2019,  datë 18.12.2019, nr. 142/2020, datë 3.12.2020, nr. 130/2021, datë 20.12.2021; nr. 31/2024, datë 4.4.2024)
+(Ndryshuar me ligjin nr. 67/2018, datë 4.10.2018; nr. 102/2018, datë 13.12.2018; nr. 89/2019, datë 18.12.2019; nr. 142/2020, datë 3.12.2020; nr. 130/2021, datë 20.12.2021; nr. 31/2024, datë 4.4.2024; nr. 8/2025, datë 30.1.2025)
 
-(i përditësuar)
+(I përditësuar)
 
 Në mbështetje të neneve 78 dhe 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -36,6 +36,8 @@ Neni 3
 
 Përkufizime
 
+( Ndryshuar pika 8 me ligjin nr. 8/2025, datë 30.1.2025)
+
 Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 
 1. “Agjencia” është Agjencia Shqiptare e Zhvillimit të Investimeve (AIDA)”.
@@ -52,7 +54,7 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 
 7. “Komiteti i Investimeve Strategjike” është organi administrativ kolegjial pranë  Këshillit të Ministrave, i përcaktuar në këtë ligj.
 
-8. “Konsolidimi i tokës” është ripërshtatja dhe ristrukturimi i planifikuar i parcelave të tokës dhe i pronësisë së tyre. Kjo mund të përfshijë ndryshimin e formës, pronësisë/regjimit juridik dhe shfrytëzimit të tokës, në çdo kombinim.
+8. “Konsolidimi i tokës” është tërësia e masave me qëllim saktësimin hartografik, ripërshtatjen apo ristrukturimin e planifikuar të pronës, riregjistrimin e pasurisë, ndarjen e pasurisë, ndryshimin e regjimit juridik dhe destinacionit të pasurisë, qartësimin e statusit të pronësisë, përfundimin me prioritet të proceseve kalimtare dhe atyre të posaçme të pronësisë, dhe çdo masë tjetër që mundëson gëzimin, ndryshimin e destinacionit të përdorimit dhe shfrytëzimit të tokës në çdo kombinim.
 
 9. “Marrëveshje mirëkuptimi” është marrëveshja përgjithësisht jodetyruese për shërbimet ndaj projektit strategjik dhe investitorit potencial strategjik, në të cilën parashikohen zotimet dhe premtimet e ndërsjella të palëve për përgatitjen, hartimin dhe zbatimin e projektit investues strategjik.
 
@@ -112,11 +114,19 @@ Neni 6
 
 Shërbime të promovimit dhe të përfaqësimit
 
+(Shtuar pika 2/1 me ligjin nr. 8/2025, datë 30.1.2025)
+
 1. Për të tërhequr investimet strategjike në Shqipëri, Agjencia mund të zhvillojë apo të blejë shërbime të promovimit.
 
 2. Shteti mund të përfaqësohet në tregjet ndërkombëtare për investimet strategjike edhe nëpërmjet agjentëve ndërkombëtarë të investimeve. Përmes Agjencisë, shteti nënshkruan marrëveshjet e përfaqësimit me agjentët ndërkombëtarë të investimeve, shërbimi i të cilëve do të kompensohet në rast suksesi nga vetë investitorët, përmes formës së tarifës së suksesit.
 
-3. Rregulla më të hollësishme për shërbimet e promovimit dhe përfaqësimit caktohen me vendim të Këshillit të Ministrave. 
+2/1. Portofoli i investimeve për promovim nga ana e Agjencisë përbëhet nga:
+
+a) planet 3-vjeçare të strategjisë së zhvillimit të investimeve, sipas fushave të përgjegjësisë së secilës ministri, si dhe kalendari 1-vjeçar i projekteve të investimit për të cilat ministritë janë iniciatore/ propozuese apo përgjegjëse dhe projektfisha përkatëse për projekte sipas përcaktimeve të këtij ligji. Ky portofol investimi, për çdo fushë përgjegjësie, depozitohet çdo fillim viti kalendarik fillimisht tek ministria përgjegjëse për ekonominë dhe pas vlerësimit nga kjo e fundit depozitohet tek Agjencia, me qëllim promovimin e këtyre investimeve tek investitorët;
+
+b) Fondi i Pasurive të Paluajtshme për Mbështetjen e Investimeve Strategjike.
+
+ 3. Rregulla më të hollësishme për shërbimet e promovimit dhe përfaqësimit caktohen me vendim të Këshillit të Ministrave. 
 
 Neni 7
 
@@ -133,6 +143,8 @@ INVESTIMET STRATEGJIKE DHE KRITERET VLERËSUESE TË PËRZGJEDHJES
 Neni 8
 
 Sektorët strategjikë dhe kriteret për zbatimin e procedurave
+
+(Shtuar pika 5/1 me ligjin nr. 8/2025, datë 30.1.2025)
 
 1. Sektorë strategjikë, në zbatim dhe për efekt të këtij ligji, konsiderohen:
 
@@ -192,6 +204,8 @@ ii) i barabartë ose më i madh se 10 000 000 (dhjetë milionë) euro dhe që, n
 
 5. Këshilli i Ministrave përcakton marzhet e garancisë financiare, rregulla më të hollësishme për to, si dhe natyrën e dokumentacionit provues, që subjekti duhet të paraqesë për të vërtetuar kapacitetin financiar për realizimin e projektit, sipas përcaktimit të pikës 4 të këtij neni.
 
+5/1. Statusin “Investim/investitor strategjik, procedurë e asistuar” e përfitojnë, gjithashtu, investitorët/projektet investuese për të cilat, pavarësisht se nuk janë parashikuar të realizohen në një nga sektorët e përcaktuar në pikën 1 të këtij neni, parashikohet që vlerën totale të kapitalit investues të projektit ta kenë të barabartë ose më të madhe se 50 000 000 (pesëdhjetë milionë) euro dhe pasi të kenë marrë miratimin paraprak të ministrisë së linjës.
+
 6. Statusin “Investim/investitor strategjik, procedurë e veçantë” e përfitojnë edhe investitorët/projektet investuese, për të cilat, pavarësisht se nuk janë parashikuar të realizohen në një nga sektorët e përcaktuar në pikën 1, të këtij neni, parashikohet që vlerën totale të kapitalit investues të projektit ta kenë të barabartë ose më të madhe se 100 000 000 (njëqind milionë) euro.
 
 7. Këshilli i Ministrave, në zbatim të shkronjës “dh”, të pikës 1, të këtij neni, përcakton me vendim rregulla të hollësishme për përcaktimin dhe funksionimin e zonave, të cilat do të konsiderohen me përparësi zhvillimi.
@@ -248,6 +262,8 @@ Neni 10
 
 Organet administrative
 
+(Shtuar pika 5/1 me ligjin nr. 8/2025, datë 30.1.2025)
+
 1. Agjencia, përveç detyrave dhe kompetencave të tjera, që ka në zbatim të ligjit “Për krijimin, mënyrën e organizimit e të funksionimit të Agjencisë Shqiptare të Zhvillimit të Investimeve”, është struktura administrative kompetente për dhënien e shërbimeve për investitorin në një “dritare unike” për investitorët /projektet, të cilat aplikojnë dhe kërkojnë të përfitojnë statusin “Investim/investitor strategjik, procedurë e asistuar/e veçantë”.
 
 2. Agjencia është agjenti asistues për projektet potenciale strategjike, investitorët potencialë ose investitorin, me status të miratuar sipas këtij ligji.
@@ -257,6 +273,8 @@ Organet administrative
 4. Agjencia analizon paraprakisht profilin e investitorit dhe për këtë qëllim ka  të drejtë t’i kërkojë investitorit informacione lidhur me kapacitetin financiar dhe aftësinë e tij për të gjeneruar fonde të mjaftueshme për financimin e  investimit, deklaratat financiare, strukturën menaxheriale, pronësinë, pozicionimin në treg, eksperiencat e mëparshme, lidhur me fushën e investimit, projekte të ngjashme, si dhe komponentë të tjerë të nevojshëm për të provuar aftësitë e tij investuese dhe potencialin për të qenë investitor strategjik për projektet e investimeve strategjike, sipas përcaktimeve në këtë ligj.
 
 5. Agjencia kryen veprimet përgatitore dhe shërbimet e nevojshme ndaj projektit potencial strategjik dhe investitorit/investitorëve potencialë strategjikë, ofron shërbime analize, vlerësimi, koordinimi informacioni, të konsolidimit të tokës, si dhe shërbime përfaqësimi të investitorit tek institucionet / entet/autoritet publike në lidhje me përgatitjen, zbatimin dhe realizimin e një projekti investues strategjik.
+
+5/1. AIDA kryen verifikimin kadastral në bashkëpunim me organet e qeverisjes qendrore dhe vendore, me qëllim marrjen e informacionit lidhur me pasuritë e paluajtshme të propozuara për zhvillim, si dhe përdorimin aktual ose të planifikuar të tyre. Ky verifikim përfshin pa u kufizuar në evidentimin nëse këto pasuri janë objekt i procedurave administrative të kthimit ose kompensimit të pronës; objekt i një procesi gjyqësor për titullin e pronësisë; objekt i procedurave administrative të legalizimit; objekt brenda rrjetit të zonave të mbrojtura; objekt me status “monument kulture”, “zonë historike” dhe sipërfaqe me status “zonë arkeologjike” . Në rast se pas këtij verifikimi rezulton se projekti është i mundshëm për t’u realizuar, subjekti investues vijon me procedurat e mëtejshme për dorëzimin e projektit të investimit të shoqëruar me dokumentacionin e plotë mbështetës ligjor, teknik dhe financiar.
 
 6. Pranë Agjencisë krijohet “Regjistri i investimeve strategjike”, i cili është baza e të dhënave për çdo investim strategjik që do të kryhet në Republikën e Shqipërisë pas hyrjes në fuqi të këtij ligji. Rregullat e hollësishme për funksionimin, krijimin, administrimin, formatimin, përmbajtjen etj., si dhe procedura për sigurinë e regjistrit miratohen me vendim të Këshillit të Ministrave.
 
@@ -396,17 +414,25 @@ dh) afatin për të cilin jepet statusi  “Investim/investitor strategjik, proc
 
 Neni 19
 
-Rastet e revokimit të vendimit për dhënien e statusit  “Investim/investitor strategjik, procedurë e asistuar/e veçantë”
+Pezullimi i përkohshëm, anulimi dhe shfuqizimi i vendimit të Komitetit të Investimeve Strategjike
 
-Në rast se përgjatë përgatitjeve, zhvillimit dhe zbatimit të projektit investues strategjik, Komiteti i Investimeve Strategjike konstaton dhe vërteton se në projektin investues ka të dhëna të pavërteta apo ndryshim të të dhënave të dala rishtazi, mbi bazën e të cilave nuk do të ishte vendosur për përfshirjen e këtij projekti në procedurën e asistuar/e veçantë, Komiteti i Investimeve Strategjike revokon vendimin për dhënien e statusit “Investim/investitor strategjik, procedurë e asistuar/e veçantë”.  
+ (Ndryshuar me ligjin nr. 8/2025, datë 30.1.2025)
+
+1. Komitetit i Investimeve Strategjike vendos pezullimin e përkohshëm për një periudhë të përcaktuar rast pas rasti, por në çdo rast jo më shumë se dy vjet, të çdo veprimi nga ana e institucioneve shtetërore të përfshira në dhënien e masave mbështetëse, në rast se gjatë zbatimit të projektit konstatohet se ka mospërmbushje të detyrimeve të marra përsipër nga ana e investitorit dhe mosrespektim të afateve të caktuara. Pezullimi ka efekt deri në momentin e plotësimit të afatit dhe përmbushjes tërësisht të detyrimeve nga ana e investitorit.
+
+2. Në rastet kur pas kalimit të afatit të caktuar nga Komiteti i Investimeve Strategjike në vendimin e pezullimit të përkohshëm, kur investitori nuk i përmbush tërësisht detyrimet e marra përsipër, Komiteti i Investimeve Strategjike shfuqizon vendimin për dhënien e statusit investim/investitor strategjik dhe ngarkon institucionet për ndjekjen e procedurave për rregullimin e pasojave dhe masat korrigjuese.
+
+3. Në rast se përgjatë përgatitjeve, zhvillimit dhe zbatimit të projektit investues strategjik, Komiteti i Investimeve Strategjike konstaton dhe vërteton se në projektin investues ka të dhëna të pavërteta apo ndryshim të të dhënave të dala rishtazi, mbi bazën e të cilave nuk do të ishte vendosur për përfshirjen e këtij projekti në procedurën e asistuar/e veçantë, Komiteti i Investimeve Strategjike merr vendim për anulimin e vendimit për dhënien e statusit “Investim/investitor strategjik, procedurë e asistuar/e veçantë.
 
 Neni 20
 
-Detyrimet e investitorit pas revokimit të vendimit për dhënien e statusit
+Detyrimet e investitorit pas shfuqizimit apo anulimit të vendimit për dhënien e statusit
 
-1. Zbatimi i sanksioneve administrative pas revokimit të statusit nuk e liron investitorin nga përgjegjësia civile për dëmin e shkaktuar, sipas legjislacionit në fuqi.
+(Ndryshuar me ligjin nr. 8/2025, datë 30.1.2025)
 
-2. Kur revokohet vendimi për dhënien e statusit, sipas parashikimeve të këtij ligji, ministri përgjegjës i fushës përkatëse ndërmerr veprimet e nevojshme ligjore për rregullimin e pasojave, sipas legjislacionit në fuqi.
+1. Shfuqizimi apo anulimi i vendimit për dhënien e statusit nuk përjashton investitorin nga përgjegjësia civile apo penale për dëmin e shkaktuar, sipas legjislacionit në fuqi.
+
+2. Në rastet e shfuqizimit apo anulimit të vendimit për dhënien e statusit, sipas parashikimeve të këtij ligji, në përputhje me vendimin e Komitetit të Investimeve Strategjike, ministri/të përgjegjëse të fushës përkatëse, ndërmarrin veprimet e nevojshme ligjore për rregullimin e pasojave sipas legjislacionit në fuqi.
 
 Neni 21
 
@@ -528,7 +554,17 @@ Neni 29
 
 E drejta e përdorimit të brigjeve
 
-Lejimi i përdorimit të brigjeve të detit, liqeneve, lumenjve dhe shtretërve të tyre, si dhe zonave përkatëse, në funksion të realizimit të një projekti investues strategjik, miratohet me vendim të veçantë nga Këshilli i Ministrave, me propozim nga Komiteti i Investimeve Strategjike, pas marrjes së mendimit paraprak nga institucionet, kompetencat e të cilave shtrihen në këto zona.
+(Ndryshuar me ligjin nr. 8/2025, datë 30.1.2025)
+
+1. Lejimi i përdorimit të brigjeve të deteve, liqeneve, lumenjve si stacione plazhi, në funksion të realizimit të një projekti investues strategjik në fushën e turizmit miratohet me vendim të Komitetit të Investimeve Strategjike pas marrjes së mendimit paraprak nga institucionet, kompetencat e të cilave shtrihen në këto zona.
+
+2. Vendimi i Komitetit të Investimeve Strategjike, në zbatim të pikës 1 të këtij neni, përcakton afatin kohor të lejimit të përdorimit, i cili nuk mund të jetë më shumë se 30 (tridhjetë) vjet, si dhe koordinatat përkatëse. Marrëveshja përkatëse lidhet ndërmjet Agjencisë Kombëtare të Bregdetit dhe investitorit, në mbështetje të vendimit të Komitetit të Investimeve Strategjike dhe sipas koordinatave të përcaktuara në të. Modeli i marrëveshjes tip miratohet me vendim të Këshillit të Ministrave.
+
+3. Tarifa që aplikohet për lejimin e përdorimit të brigjeve përcaktohet me vendim të këshillit bashkiak.
+
+4. Për efekt të statusit, afatit të përdorimit dhe tarifimit, përdorimi i brigjeve në funksion të investimeve strategjike në turizëm u nënshtrohet, në çdo rast, rregullave të këtij neni, pavarësisht përcaktimeve të legjislacionit të posaçëm të fushave të tjera.
+
+5. Në çdo rast, gëzimi i përdorimit të brigjeve të deteve, liqeneve dhe lumenjve si stacione plazhi fillon efektet pas vënies në funksion të strukturës akomoduese turistike.
 
 Neni 30
 
@@ -572,11 +608,15 @@ Neni 34
 
 Zbatimi i dispozitave
 
+(Shtuar pika 3 me ligjin nr. 8/2025, datë 30.1.2025)
+
 1. Ky ligj zbatohet për investimet strategjike, për të cilat parashikohet të realizohen rishtazi në Republikën e Shqipërisë, pas hyrjes në fuqi të këtij ligji, të cilat konsiderohen “investime të reja”, por edhe për ato investime strategjike, të cilat janë në proces të zhvillimit të tyre dhe për të cilat nuk është nënshkruar ende një kontratë ndërmjet institucionit/entit/autoritetit publik dhe investitorit strategjik.
 
 2. Ky ligj zbatohet, gjithashtu, edhe për ato investime strategjike, për të cilat është nënshkruar një kontratë para hyrjes në fuqi të këtij ligji dhe që klasifikohen investime strategjike, në kuptim të këtij ligji, me qëllim realizimin dhe konkretizimin e tyre.
 
 Dispozitat e përcaktuara në kreun VII, të këtij ligji, nuk aplikohen për kontratat e investimeve të nënshkruara para hyrjes në fuqi të këtij ligji.
+
+3. Rregullat e përcaktuara në nenin 29 të ligjit zbatohen edhe për kërkesat të cilat në momentin e hyrjes në fuqi të këtij ligji janë në procedurë shqyrtimi, si edhe për rastet kur është miratuar më parë vendimi përkatës i KIS-it, por në kohën e hyrjes në fuqi të këtij ligji nuk është lidhur ende marrëveshja e përdorimit të brigjeve.
 
 Neni 35
 
@@ -588,9 +628,9 @@ Neni 36
 
 Afati përfundimtar i paraqitjes së kërkesave
 
-(ndryshuar afati ligjor me ligjin nr. 67/2018, datë 4.10.2018, nr. 89/2019, datë 18.12.2019, nr. 142/2020, datë 3.12.2020, nr. 130/2021, datë 20.12.2021; nr. 31/2024, datë 4.4.2024)
+(ndryshuar afati ligjor me ligjin nr. 67/2018, datë 4.10.2018, nr. 89/2019, datë 18.12.2019, nr. 142/2020, datë 3.12.2020, nr. 130/2021, datë 20.12.2021; nr. 31/2024, datë 4.4.2024; ndryshuar togfjalësh me ligjin nr. 8/2025, datë 30.1.2025)
 
-Afati i fundit për paraqitjen e kërkesave nga subjektet investuese të interesuara për përfshirjen në procedurat për përfitimin e statusit “Investim/ investitor strategjik, procedurë e asistuar/e veçantë”, në zbatim të këtij ligji, është data 31 dhjetor 2024.
+Afati i fundit për paraqitjen e kërkesave nga subjektet investuese të interesuara për përfshirjen në procedurat për përfitimin e statusit “Investim/ investitor strategjik, procedurë e asistuar/e veçantë”, në zbatim të këtij ligji, është data 31 dhjetor 2026.
 
 Neni 37
 
