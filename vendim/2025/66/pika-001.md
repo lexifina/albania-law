@@ -1,0 +1,1 @@
+1. Ministrisë së Drejtësisë, në buxhetin e miratuar për vitin 2025, në zërin “Shpenzime korrente”, të programit “Planifikim, menaxhim, administrim”, i shtohet fondi prej 150 000 000 (njëqind e pesëdhjetë milionë) lekësh, për pagimin e kuotës për organizimin e Kongresit Botëror të së Drejtës 2027, në Tiranë.
