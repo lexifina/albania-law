@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i fiderave me kabëll 20 kV, V4, V5 dhe kabinave të reja nga nënstacioni i ri Valias”.

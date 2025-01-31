@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 1 893 636 (një milion e tetëqind e nëntëdhjetë e tre mijë e gjashtëqind e tridhjetë e gjashtë) lekësh, përballohet nga Operatori i Shpërndarjes së Energjisë Elektrike GROUP sh.a.
