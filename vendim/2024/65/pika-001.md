@@ -7,7 +7,7 @@ c) Zyra Vendore e Avokaturës së Shtetit Lushnjë, me kompetencë tokësore në
 i. Gjykatën e Shkallës së Parë të Juridiksionit të Përgjithshëm Berat;
 ii. Gjykatën e Shkallës së Parë të Juridiksionit të Përgjithshëm Durrës;
 iii. Gjykatën Administrative të Shkallës së Parë Lushnjë.
-ç) Zyra Vendore e Avokaturës së Shtetit Shkodër, me kompetencë tokësore në:
+ç) Zyra Vendore e Avokaturës së Shtetit Lezhë, me kompetencë tokësore në:
 i. Gjykatën e Shkallës së Parë të Juridiksionit të Përgjithshëm Kukës;
 ii. Gjykatën e Shkallës së Parë të Juridiksionit të Përgjithshëm Lezhë;
 iii. Gjykatën e Shkallës së Parë të Juridiksionit të Përgjithshëm Shkodër.
