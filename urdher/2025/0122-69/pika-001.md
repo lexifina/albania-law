@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Ekonomisë, Kulturës dhe Inovacionit, të parashikuara në ligjin nr. 119/2014, “Për të drejtën e informimit”, të ndryshuar, znj. Llambriola Misto, sekretar i përgjithshëm.
