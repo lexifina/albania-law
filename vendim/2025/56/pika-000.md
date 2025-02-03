@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes me shkëmbim letrash ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Agjencisë Japoneze të Bashkëpunimit Ndërkombëtar, për ndryshimin e marrëveshjes së huas ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Japoneze për Bashkëpunim Ndërkombëtar, për financimin e projektit “Përmirësimi i sistemit të kanalizimeve për Tiranën e Madhe”, ratifikuar me ligjin nr. 9964, datë 24.7.2008, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë.

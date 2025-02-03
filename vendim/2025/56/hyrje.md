@@ -1,0 +1,5 @@
+VENDIM
+Nr. 56, datë 29.1.2025
+PËR MIRATIMIN E MARRËVESHJES ME SHKËMBIM LETRASH NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE AGJENCISË JAPONEZE TË BASHKËPUNIMIT NDËRKOMBËTAR, PËR NDRYSHIMIN E MARRËVESHJES SË HUAS NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE BANKËS JAPONEZE PËR BASHKËPUNIM NDËRKOMBËTAR, PËR FINANCIMIN E PROJEKTIT “PËRMIRËSIMI I SISTEMIT TË KANALIZIMEVE PËR TIRANËN E MADHE”, RATIFIKUAR ME LIGJIN NR. 9964, DATË 24.7.2008
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 19 e 23, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, të ndryshuar, me propozimin e zëvendëskryeministrit dhe ministër i Infrastrukturës dhe Energjisë, Këshilli i Ministrave
+VENDOSI:
