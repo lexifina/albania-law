@@ -1,1 +1,2 @@
 9. IAL-të mbajnë në formë të shkruar dhe elektronike regjistrin themeltar të studentëve, sipas rubrikave të përcaktuara në shtojcën nr. 4, pjesë përbërëse e këtij udhëzimi.
+9/1. Kërkesat dhe procedurat administrative, që janë në proces shqyrtimi nga institucioni përgjegjës, trajtohen dhe zhvillohen sipas dispozitave në fuqi të këtij udhëzimi, në kohën e paraqitjes së tyre dhe të dhënat pasqyrohen në Sistemin e Menaxhimit të Informacionit të Arsimit të Lartë (SMIAL).”.
