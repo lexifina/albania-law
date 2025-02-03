@@ -1,1 +1,1 @@
-15. Operatori i Blerjeve të Përqendruara ka përgjegjësi të organizojë punën për kryerjen e procedurave të prokurimit, për të nënshkruar marrëveshjen kuadër dhe kryerjen e procedurave të prokurimit deri në lidhjen e kontratës.
+15. Operatori i Blerjeve të Përqendruara sh.a. ka përgjegjësi të organizojë punën për kryerjen e procedurave të prokurimit, për të nënshkruar marrëveshjen kuadër, për të zhvilluar procedurën e konkurrimit ndërmjet operatorëve ekonomikë, palë në një marrëveshje kuadër, si dhe kryerjen e procedurave të prokurimit deri në lidhjen e kontratës.
