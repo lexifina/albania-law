@@ -44,22 +44,21 @@ o) Numri në regjistrin shtetëror të gradave shkencore dhe titujve akademikë 
 8. IAL-ja ruan në arkivën e tij fotokopje të diplomës origjinale dhe kopje të digjitalizuar të diplomës që i lëshohet studentit.
 KREU III
 PROCEDURA PËR REGJISTRIMIN E FORMËS SË DIPLOMËS OSE CERTIFIKATËS NË REGJISTRIN SHTETËROR
-1. Regjistrimi fillestar i formave të diplomave dhe certifikatave të lëshuara nga IAL-të, si dhe çdo regjistrim tjetër i mëvonshëm, që ndryshon formën apo përmbajtjen e tyre, bëhet në bazë të aplikimit drejtuar QShA-së.
-2. Aplikimi për regjistrimin e formës së diplomës ose certifikatës kryhet në QShA i cili përmban kërkesën për regjistrim të rektorit të IAL-së dhe dokumentacion shoqërues bashkëlidhur saj, si më poshtë:
-a) Kopje të statutit të miratuar në fuqi të IAL-së, dhe aktit të miratimit, të cilit i bashkëngjitet edhe forma e miratuar nga Senati Akademik e diplomës ose certifikatës dhe përmbajtja dhe forma e suplementit të saj për çdo cikël dhe lloj programi studimi,
-b) Kopjen e aktit të hapjes/riorganizimit (nëse ka) dhe kopjen e aktit të akreditimit të IAL-së ose kur afati i akreditimit ka përfunduar, kopjen e dokumentit, me anë të të cilit vërtetohet aplikimi në organin kompetent për akreditimin periodik institucional.
-c) Kopjen e aktit të hapjes/riorganizmit (nëse ka) së programit të studimit për të cilin lëshohet diploma, që regjistrohet.
-ç) Kopjen e aktit të akreditimit të programit të studimit për të cilin lëshohet diploma që regjistrohet ose kopjen e dokumentit me anë të të cilit vërtetohet aplikimi në organin kompetent për akreditimin periodik të programit të studimit, me përjashtim të programit të studimit për të cilin legjislacioni në fuqi nuk parashikon akreditimin e tij.
-d) Forma e diplomës apo certifikatës që do të regjistrohet, si dhe suplementin e diplomës (kur parashikohet);
-dh) Dokumenti i pagesës së tarifës për regjistrim, në regjistrin shtetëror, për llogari të QShA-së.
-Dokumentet e parashikuara në germën “a dhe “d” të kësaj pike, nënshkruhen dhe vulosen në çdo faqe nga rektori i IAL-së.
+1. Regjistrimi fillestar i formave të diplomave dhe certifikatave të lëshuar nga IAL, si dhe çdo regjistrim tjetër i mëvonshëm, që ndryshon formën apo përmbajtjen e tyre, bëhet në bazë të aplikimit të IAL-së nëpërmjet portalit unik qeveritar “e-Albania”.
+2. Aplikimi për regjistrimin e formës së diplomës ose certifikatës shqyrtohet nga QSHA-ja. Formulari për regjistrimin e formës së diplomës, i nënshkruar prej rektorit të IAL-së, shoqërohet me:
+a) vendimin e Senatit Akademik, shoqëruar me formën e miratuar të diplomës apo certifikatës që do të regjistrohet, si dhe suplementin e diplomës (nëse ka);
+b) mandatpagesën për tarifën e regjistrimit në regjistrin shtetëror.
+QSHA-ja siguron nëpërmjet ndërveprimit me institucionet përgjegjëse dokumentacionin e mëposhtëm:
+a) kopjen e statutit të IAL-së të miratuar dhe aktin e miratimit të tij;
+b) kopjen e aktit të hapjes/riorganizimit (nëse ka) dhe kopjen e aktit të akreditimit të IAL-së ose kur afati i akreditimit ka përfunduar, kopjen e dokumentit, me anë të të cilit vërtetohet aplikimi në organin kompetent për akreditimin periodik institucional;
+c) kopjen e aktit të hapjes/riorganizimit (nëse ka) të programit të studimit për të cilin lëshohet diploma, që regjistrohet dhe kopjen e aktit të akreditimit të programit të studimit për të cilin lëshohet diploma që regjistrohet, ose kopjen e dokumentit me anë të të cilit vërtetohet aplikimi në organin kompetent për akreditimin periodik të programit të studimit, me përjashtim të programit të studimit për të cilin legjislacioni në fuqi nuk parashikon akreditimin e tij.
 3. Dokumentet duhet të jenë në gjuhën shqipe ose të përkthyera dhe të vërtetuara në gjuhën shqipe dhe të legalizuara sipas legjislacionit në fuqi.
 4. QShA-ja kryen shqyrtimin dhe verifikimin e dokumenteve të paraqitura në dosjen e aplikimit, brenda një afati 45-ditor nga data e depozitimit të aplikimit.
 5. QShA-ja pasi kryen shqyrtimin dhe verifikimin e dokumentacionit në dosjen e aplikimit dhe kur konstaton se IAL-ja dhe programi i studimit përmbushin kriteret për lëshimin e diplomës ose certifikatës, në përputhje me kuadrin ligjor në fuqi, regjistron formën e diplomës ose certifikatës.
-6. QShA-ja kryen regjistrimin e formës së diplomës ose certifikatës në Regjistrin shtetëror dhe lëshon vërtetimin përkatës për IAL-në.
+6. QSHA-ja kryen regjistrimin e formës së diplomës ose certifikatës në Regjistrin shtetëror dhe lëshon vërtetimin përkatës me vulë elektronike për IAL-në. Ky vërtetim i dërgohet IAL-së nëpërmjet portalit unik qeveritar e-Albania.
 7. Vërtetimi i regjistrimit lëshohet brenda 2 (dy) muajve nga data e paraqitjes së aplikimit.
-8. Në rast se pas verifikimeve, rezulton se nuk janë përmbushur të gjitha kërkesat për regjistrim, të parashikuara në këtë udhëzim, QShA-ja pezullon aplikimin dhe njofton IAL-në me shkrim, për plotësimin ose ndreqjen e elementeve që pengojnë regjistrimin e formës së diplomës ose certifikatës. Afati i procedurës së regjistrimit rifillon ditën pasardhëse të plotësimit ose ndreqjes së këtyre elementëve.
+8. Në rast se pas verifikimeve, rezulton se nuk janë përmbushur të gjitha kërkesat për regjistrim, të parashikuara në këtë udhëzim, QSHA-ja pezullon aplikimin dhe njofton IAL-në në portalin unik qeveritar e-Albania, për plotësimin ose ndreqjen e elementeve që pengojnë regjistrimin e formës së diplomës ose certifikatës, brenda 10 (dhjetë) ditëve nga data e njoftimit. Afati i procedurës së regjistrimit rifillon ditën pasardhëse të plotësimit ose ndreqjes së këtyre elementeve, në portalin unik qeveritar e-Albania.
 9. QShA-ja refuzon regjistrimin në rastet kur:
 a) Aplikimi nuk është në përputhje me legjislacionin në fuqi dhe me kriteret e vendosura në këtë udhëzim;
 b) Të dhënat që kërkohen të regjistrohen janë të ndryshme nga dokumentet e paraqitura.
-10. Refuzimi i kërkesës i njoftohet IAL-së me shkrim, me shkakun e refuzimit.
+10. Refuzimi i aplikimit, i cili përmban shkakun e refuzimit, i njoftohet IAL-së nëpërmjet portalit unik qeveritar e-Albania.
