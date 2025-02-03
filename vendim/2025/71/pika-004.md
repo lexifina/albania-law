@@ -1,0 +1,1 @@
+4. Shoqëria “Dukagjini Group” sh.p.k. kryen pranë Drejtorisë Vendore të Agjencisë Shtetërore të Kadastrës Lezhë veprimet për regjistrimin e sipërfaqes pyjore private, të identifikuar sipas pikës 2 të këtij vendimi, nga kategoria “pyll” në kategorinë “truall”.
