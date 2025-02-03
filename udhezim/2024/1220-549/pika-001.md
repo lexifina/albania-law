@@ -1,0 +1,1 @@
+1. Tarifa e përcaktuar në nenin 14, pika 9, të ligjit nr. 61/2023, “Për kontrollin e kultivimit dhe përpunimit të bimës së Cannabis-it dhe prodhimit të nënprodukteve të saj për qëllime mjekësore dhe industriale” është në vlerën 100,000 (njëqind mijë) lekë. Kjo tarifë është e pakthyeshme.

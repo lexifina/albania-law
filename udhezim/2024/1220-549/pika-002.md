@@ -1,0 +1,1 @@
+2. Tarifa do të paguhet nga subjekti që kërkon të licencohet sipas faturës për arkëtim, referuar modelit të miratuar me urdhrin nr. 35, datë 11.11.2009, të ministrit te Financave, “Për miratimin e faturës për arkëtim”.
