@@ -6,35 +6,34 @@ DËFTESAVE TË KLASAVE TË ARSIMIT PARAUNIVERSITAR
 DHE DIPLOMAVE TË ARSIMIT TË MESËM TË LARTË
 1. Aplikimi për njohjen dhe njësimin e dëftesës së përfundimit të arsimit bazë, dëftesave të klasave, si dhe diplomës së arsimit të mesëm të lartë, që i përkasin nivelit 1 deri në 4 të Kornizës Shqiptare dhe Kornizës Evropiane të Kualifikimeve, kryhet online nëpërmjet portalit e-Albania.
 2. Aplikimi kryhet sipas procedurës së mëposhtme:
-a) Formulari i aplikimit për dëftesat e përfundimit të arsimit bazë dhe dëftesa klase të arsimit parauniversitar plotësohet online në portalin e-Albania.
+a) Formulari i aplikimit për dëftesat e përfundimit të arsimit bazë dhe dëftesa klase të arsimit parauniversitar plotësohen nëpërmjet portalit unik qeveritar “e-Albania”, drejtuar ZVAP.
 b) Aplikanti ngarkon në format elektronik (PDF) dokumentacionin e mëposhtëm:
 i. dëftesën e përfundimit të arsimit bazë, dëftesa klase, të lëshuara nga institucionet përgjegjëse për lëshimin e kualifikimit në vendin e origjinës, të pajisur me vulë apostile ose legalizim nga vendi i lëshimit, të njësuar me origjinalin (noterizuar), si dhe të përkthyer në gjuhën shqipe nga përkthyes të licencuar në Republikën e Shqipërisë;
 ii. dokumentin e vijueshmërisë së klasës nëse nxënësi nuk e ka përfunduar klasën, të lëshuar nga institucionet përgjegjëse për lëshimin e kualifikimit në vendin e origjinës, të pajisur me vulë apostile ose legalizim nga vendi i lëshimit, të njësuar me origjinalin (noterizuar), si dhe të përkthyer në gjuhën shqipe nga përkthyes të licencuar në Republikën e Shqipërisë;
-iii. fotokopjen e dokumentit të identifikimit.
-c) Formulari i aplikimit për diplomën e arsimit të mesëm të lartë plotësohet online në portalin e-Albania.
+iii. Shfuqizuar.
+c) Formulari i aplikimit për diplomën e arsimit të mesëm të lartë plotësohet online në portalin unik qeveritar e-Albania, nëpërmjet Sistemit të Menaxhimit të Informacionit të Parauniversitar (SMIP), drejtuar QSHA.
 d) Aplikanti ngarkon në format elektronik (PDF) dokumentacionin e mëposhtëm:
 i. diplomën e arsimit të mesëm të lartë ose dokumentin zyrtar përkatës të lëshuar nga institucionet përgjegjëse për lëshimin e kualifikimit në vendin e origjinës ekuivalent me diplomën që vërteton përfundimin e studimeve të arsimit të mesëm të lartë, të pajisur me vulë apostile ose legalizim nga vendi i lëshimit, të njësuar me origjinalin (noterizuar), si dhe të përkthyer në gjuhën shqipe nga përkthyes të licencuar në Republikën e Shqipërisë;
 ii. dëftesat e të gjitha viteve të arsimit të mesëm të lartë, të pajisura me vulë apostile ose legalizim nga vendi i lëshimit, të njësuara me origjinalin (noterizuara), si dhe të përkthyera në gjuhën shqipe nga përkthyes të licencuar në Republikën e Shqipërisë;
 iii. dokumentin që vërteton se ka dhënë provime kombëtare të njëvlershme me ato të Maturës Shtetërore në Republikën e Shqipërisë, të pajisur me vulë apostile ose legalizim nga vendi i lëshimit, të njësuar me origjinalin (noterizuar), si dhe të përkthyer në gjuhën shqipe nga përkthyes të licencuar në Republikën e Shqipërisë;
-iv. fotokopjen e dokumentit të identifikimit.
-3. Dokumentacioni shoqërues i kërkuar duhet të depozitohet detyrimisht në formatin elektronik gjatë aplikimit online, si dhe të dërgohet brenda 5 (pesë) ditëve nga data e aplikimit online edhe në rrugë postare, sipas përcaktimeve të mëposhtme:
-a) pas kryerjes së aplikimit online, për njohjen dhe njësimin e dëftesave të arsimit bazë dhe dëftesave të klasave të arsimit parauniversitar, në rrugë postare dërgohet në ZVAP dokumentacioni i specifikuar në shkronjën “b”, të pikës 2, të këtij kreu;
-b) pas kryerjes së aplikimit online, për njohjen dhe njësimin e diplomës së arsimit të mesëm të lartë, në rrugë postare dërgohet në QSHA dokumentacioni i specifikuar në shkronjën “d”, të pikës 2, të këtij kreu.
+iv. Shfuqizuar.
+3. Shfuqizuar.
 KREU III
 PROCEDURAT E NJOHJES DHE TË NJËSIMIT TË DËFTESËS
 SË PËRFUNDIMIT TË ARSIMIT BAZË DHE TË DËFTESAVE
 TË KLASAVE TË ARSIMIT PARAUNIVERSITAR
-1. Procedura e njohjes dhe njësimit të dëftesës së përfundimit të arsimit bazë dhe të dëftesave të klasave të arsimit parauniversitar, pas aplikimit online vijon me shqyrtimin dhe verifikimin e dokumentacionit nga ana e Komisionit të Njohjes së Dëftesave në ZVAP. Kur dosja e aplikimit është e plotësuar me të gjithë dokumentacionin e kërkuar sipas këtij udhëzimi, kjo procedurë përfundon brenda 45 ditëve.
+1. Procedura e njohjes dhe njësimit të dëftesës së përfundimit të arsimit bazë dhe të dëftesave të klasave të arsimit parauniversitar, pas aplikimit online vijon me shqyrtimin dhe verifikimin e dokumentacionit nga ana e Komisionit të Njohjes së Dëftesave në ZVAP. Kur dosja e aplikimit është e plotësuar me të gjithë dokumentacionin e kërkuar sipas këtij udhëzimi, kjo procedurë përfundon brenda 30 ditëve.
 1.1 Aplikimi nuk konsiderohet i plotë nëse mungon një nga dokumentet e cituara në këtë udhëzim.
 Informimi dhe kërkesa për plotësim dokumentacioni bëhet me postë elektronike. Procedura e njohjes dhe njësimit fillon menjëherë pasi ZVAP-së i është shfaqur aplikimi në sistemin online në rastet kur dokumentacioni i ngarkuar në formë elektronike është i plotë sipas përcaktimeve të këtij udhëzimi.
 Brenda 5 (pesë) ditëve nga fillimi i procedurës së njohjes dhe njësimit, ZVAP-ja kontakton me anë të postës elektronike me institucionin përgjegjës që ka lëshuar dëftesën e përfundimit të arsimit bazë ose dëftesën e klasës.
-1.2 Në çdo rast, procedura e njohjes dhe e njësimit nuk mund të përfundojë nëse aplikanti nuk paraqet në ZVAP në formatin shkresor me postë dokumentacionin e parashikuar në këtë udhëzim.
-1.3 Në rast të konstatimit të mangësive në dokumentacion, Komisioni i Njohjes së Dëftesave i kërkon aplikantit fillimisht plotësimin e dokumentacionit me anë të postës elektronike, brenda 15 ditëve nga momenti i depozitimit të aplikimit. Në rast të mosdepozitimit të plotësimeve brenda 30 ditëve, aplikantit i kërkohen plotësime për herë të dytë me anë të postës elektronike, të cilat duhet të depozitohen brenda 30 ditëve në ZVAP. Në të kundërt, shqyrtimi i aplikimit përkatës ndërpritet dhe dokumentacioni arkivohet në ZVAP.
+1.2 Shfuqizuar.
+1.3 Në rast të konstatimit të mangësive në dokumentacion, Komisioni i Njohjes së Dëftesave i kërkon aplikantit fillimisht plotësimin e dokumentacionit nëpërmjet portalit unik qeveritar “e-Albania”, brenda 15 ditëve nga momenti i aplikimit. Në rast të mosdepozitimit të plotësimeve brenda këtij afati, aplikimi refuzohet.
 1.4 Komisioni i Njohjes së Dëftesave llogarit afatet e përcaktuara në këtë udhëzim për njohjen dhe njësimin e dëftesës së përfundimit të arsimit bazë dhe të dëftesës/dëftesave të klasave, duke iu referuar datës së plotësimit të praktikës me të gjithë dokumentacionin e plotë.
 2. ZVAP-ja, në zbatim të procedurës së verifikimit:
 a) Kërkon çdo informacion shtesë që e konsideron të nevojshëm për vlerësimin objektiv për njohjen dhe njësimin e dëftesës së përfundimit të arsimit bazë dhe të dëftesës/dëftesave të klasave të arsimit parauniversitar.
 b) Shfuqizuar.
-c) Depoziton në dosjen e aplikantit materialet shkresore ose të printuara për të gjitha verifikimet e kryera shkresore ose të printuara. Për verifikimet e kryera online, dokumentacioni i printuar nënshkruhet nga nëpunësi që kryen verifikimet dhe depozitohet në dosjen e aplikantit.
+c) Depoziton në dosjen e aplikantit materialet shkresore ose të printuara për të gjitha
+verifikimet e kryera shkresore ose të printuara.
 3. Komisioni i Njohjes së Dëftesave ngrihet me urdhër të titullarit të ZVAP-së, si dhe drejtohet nga kryetari dhe përbëhet nga tre anëtarë. Komisioni shqyrton, njeh dhe njëson dëftesën e përfundimit të arsimit bazë dhe dëftesa klase të arsimit parauniversitar.
 4. Njëvlershmëria e rezultateve të arritura në shtetin përkatës të kryhet sipas shtojcës nr. 3, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
 4.1 Njëvlershmëria e notave në sistemin shqiptar bëhet me nota të plota, duke krahasuar sistemimin e vlerësimit në shtetin që ka lëshuar dokumentin shkollor me sistemin e vlerësimit në Republikën e Shqipërisë.

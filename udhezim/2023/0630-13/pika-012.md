@@ -39,7 +39,7 @@ h) dokumentacionin përkatës ku është mbështetur raporti.
 10. Refugjatët, personat e zhvendosur dhe personat e ngjashëm me refugjatët kanë të drejtën e ankimit sipas kreut VI të këtij udhëzimi.
 KREU VI
 ANKIMI
-1. Aplikanti për njohjen dhe njësimin e dëftesës të arsimit bazë, dëftesa klase, diplomave të përfundimit të arsimit parauniversitar dhe/ose periudhave të studimit që i përkasin nivelit 1 deri në 4, të Kornizës Shqiptare të Kualifikimeve dhe Kornizës Evropiane të Kualifikimeve ka të drejtë të bëjë ankim me shkrim kundër vendimit të Komisionit të Njohjes së Dëftesave dhe Komisionit të Njohjes së Diplomave, përkatësisht në ZVAP dhe në QSHA, sipas afateve të parashikuara nga Kodi i Procedurave Administrative të Republikës së Shqipërisë.
+1. Aplikanti për njohjen dhe njësimin e dëftesës të arsimit bazë, dëftesa klase, diplomave të përfundimit të arsimit parauniversitar dhe/ose periudhave të studimit që i përkasin nivelit 1 deri në 4, të Kornizës Shqiptare të Kualifikimeve dhe Kornizës Evropiane të Kualifikimeve ka të drejtë të bëjë ankim në portalit unik qeveritar “e-Albania” kundër vendimit të Komisionit të Njohjes së Dëftesave dhe Komisionit të Njohjes së Diplomave, përkatësisht në ZVAP dhe në QSHA, sipas afateve të parashikuara nga Kodi i Procedurave Administrative të Republikës së Shqipërisë.
 2. Ankesa duhet të shoqërohet me dokumentacionin mbi të cilin mbështeten pretendimet e ankuesit.
 KREU VII
 DISPOZITA TRANZITORE DHE TË FUNDIT
