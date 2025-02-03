@@ -80,10 +80,10 @@ Kriteret për regjistrim
 4. Revista, përbërja e bordit editorial, procedurat e vlerësimit dhe të gjitha elementet për secilën kategori të specifikuar më sipër, duhet të jenë të publikuara në faqen zyrtare web.
 Neni 7
 Procedura e aplikimit
-1. Institucionet kërkimore shkencore përcjellin pranë AKKSHI-së, aplikimin për përfshirjen e revistës/ave shkencore në regjistër.
+1. Institucionet kërkimore shkencore ngarkojnë aplikimin në platformën e-Albania për përfshirjen e revistës/ave shkencore në regjistër.
 2. Në rast se i njëjti institucion boton më shumë se një revistë shkencore, dërgon aplikim individual për secilin botim.
-3. Aplikimi kryhet në formatin elektronik dhe përmban:
-a) Formularin e aplikimit, me elementet e mëposhtme:
+3. Aplikimi kryhet në platformën e-Albania dhe përmban:
+a) Formularin e aplikimit, i cili plotësohet në platformën e-Albania, me elementet e mëposhtme:
 i. titullin e revistës shkencore;
 ii. link-un e faqes zyrtare web të revistës shkencore;
 iii. ISSN;
@@ -97,15 +97,13 @@ x. procedurën e vlerësimit;
 xi. procedurën e vlerësimit të jashtëm (nëse ka);
 xii. procedurën e vlerësimit të plagjiaturës;
 xiii. formularin e nënshkruar nga titullari i institucionit dhe drejtuesi i revistës shkencore;
-b) Dokumentacionin provues, sipas elementeve të plotësuara në formular.
-4. Regjistrimi fillestar i revistave të botuara nga institucionet kërkimore shkencore, si dhe çdo regjistrim tjetër i mëvonshëm, që ndryshon formën apo përmbajtjen e tyre, bëhet në bazë të aplikimit drejtuar AKKSHI-së.
-5. Në përbërje të dokumentacionit të aplikimit duhet të jenë këto elemente:
-i. kërkesa për regjistrim;
-ii. formulari;
-iii. vendimi i senatit të IAL-së apo Këshillit Shkencor të institucionit kërkimor për miratimin e formës së revistës, periodocitetit duhet të jenë në origjinal ose kopje autentike me origjinalin;
-iv. akti i hapjes së revistës ose numri më i vjetër i revistës që disponon institucioni;
-v. akti i indeksimit të revistës;
-vi. forma e revistës (design) që do të regjistrohet;
+b) Dokumentacioni provues sipas elementeve të plotësuara në formular.
+4. Regjistrimi fillestar i revistave të botuara nga institucionet kërkimore shkencore, si dhe çdo regjistrim tjetër i mëvonshëm, që ndryshon formën apo përmbajtjen e tyre, bëhet në bazë të aplikimit drejtuar AKKSHI, nëpërmjet platformës e-Albania.
+5. Aplikimi shoqërohet me dokumentacionin e mëposhtëm:
+a) Vendimi i senatit të IAL-së, apo Këshillit Shkencor të institucionit kërkimor për miratimin e formës së revistës dhe periodicitetit, ngarkohen si kopje e skanuar me origjinalin;
+b) Akti i hapjes së revistës ose numri më i vjetër i revistës qe disponon institucioni;
+c) Akti i indeksimit të revistës;
+d) Forma e revistës (design) që do të regjistrohet.
 6. Dokumentet duhet të jenë në gjuhën shqipe ose të përkthyera dhe të konfirmuara nga institucioni përkatës.
 7. AKKSHI-ja kryen shqyrtimin dhe verifikimin e dokumenteve të paraqitura në dosjen e aplikimit, brenda 10 ditë pune, nga data e depozitimit të aplikimit.
 Neni 8
@@ -165,4 +163,6 @@ Vlerësimi i plotësimit të kritereve të revistave, sipas përcaktimeve në k�
 KREU III
 DISPOZITAT PËRFUNDIMTARE
 1. Ministria përgjegjëse për arsimin kryen vlerësime periodike çdo tre vjet, në vijimësi të përputhshmërisë së kritereve përkatëse nga revistat shkencore, të cilat regjistrohen në regjistrin shtetëror.
+1/1. Procedura e aplikimit sipas këtij urdhri nëpërmjet portalit unik qeveritar e-Albania, zbatohet pasi ministria përgjegjëse për arsimin të publikojë në Buletinin e Njoftimeve Zyrtare përfundimin e zhvillimeve teknike për realizimin e procedurës në Sistemit Shqiptar i Informacionit të Kërkimit Shkencor (ACRIS).
+Kërkesat dhe procedurat administrative, që janë në proces shqyrtimi nga AKKSHI, deri në momentin e implementimit dhe funksionalitetit të Sistemit Shqiptar i Informacionit të Kërkimit Shkencor (ACRIS), trajtohen dhe zhvillohen sipas dispozitave në fuqi të këtij urdhri, në kohën e paraqitjes së tyre.
 2. Kjo Rregullore hyn në fuqi menjëherë.
