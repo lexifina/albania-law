@@ -13,3 +13,4 @@ c) Për kategorinë e kualifikimit “Mësues mjeshtër”:
 i. 15-20 vjet punë si mësues, nga të cilat 7 vjet punë si mësues specialist;
 ii. të ketë 70 kredite zhvillim profesional;
 iii. vlerësimin e performancës nga drejtori i shkollës “Shumë mirë”.
+Kërkesat dhe procedurat administrative, që janë në proces shqyrtimi nga institucionet kompetente, lidhur me procedurën e aplikimit për kualifikimin e punonjësit arsimor dhe/ose e ankimit, trajtohen dhe zhvillohen sipas dispozitave në fuqi të këtij udhëzimi, në kohën e paraqitjes së tyre.
