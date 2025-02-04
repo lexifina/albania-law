@@ -1,0 +1,28 @@
+{
+  "qbz_id": 29723,
+  "title": "Mbi licencimin e shoqërisë “Mountain’s Green Energy” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "283",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2024-12-18",
+  "published": "2025-02-04",
+  "in_force": "2025-02-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/1602b90ce88c111a3f1dfd48429131519f21178bce666f15fabf1db9e5e3f613.docx",
+  "source_sha256": "1602b90ce88c111a3f1dfd48429131519f21178bce666f15fabf1db9e5e3f613",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29723",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2024/12/18/283",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    30584
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
