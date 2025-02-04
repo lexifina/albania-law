@@ -1,0 +1,28 @@
+{
+  "qbz_id": 29727,
+  "title": "Mbi licencimin e shoqërisë “Samasol” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "14",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2025-01-16",
+  "published": "2025-02-04",
+  "in_force": "2025-02-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/f7bb6f4115d11c912df197e16882d95c808fbd685a0bb791a46162d4912d4368.docx",
+  "source_sha256": "f7bb6f4115d11c912df197e16882d95c808fbd685a0bb791a46162d4912d4368",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29727",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/01/16/14",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    32081
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
