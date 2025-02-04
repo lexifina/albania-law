@@ -1,0 +1,28 @@
+{
+  "qbz_id": 29728,
+  "title": "Mbi licencimin e shoqërisë “Rebesol” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "15",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2025-01-16",
+  "published": "2025-02-04",
+  "in_force": "2025-02-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/131484d50d10f9dc788e7592eb9a46cf2d647fa8fc7dc39f7ef801117da44565.docx",
+  "source_sha256": "131484d50d10f9dc788e7592eb9a46cf2d647fa8fc7dc39f7ef801117da44565",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29728",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/01/16/15",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    32079
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
