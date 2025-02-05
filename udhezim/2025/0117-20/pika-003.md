@@ -1,0 +1,1 @@
+3. Kriteret biopsikosociale pasqyrojnë ecurinë në mjekësinë bashkëkohore dhe plotësohen dhe/ose ndryshohen në bashkëpunim me mjekët specialist dhe në përputhje me zhvillimin shkencor, sipas edhe zhvillimeve në fushën farmakologjike në trajtimin e sëmundjeve duke ndikuar në aftësinë e kufizuar.

@@ -1,0 +1,1 @@
+4. Ngarkohet Shërbimi Social Shtetëror, Komisioni Shumëdisiplinor i Vlerësimit të Aftësisë së Kufizuar, strukturat e shërbimit shëndetësor parësor dhe dytësor, qendrat komunitare të shëndetit mendor dhe Qendra Kombëtare Terapeutike dhe Rehabilituese për Fëmijët për zbatimin e këtij udhëzimi.
