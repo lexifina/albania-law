@@ -1,0 +1,1 @@
+6. Urdhri nr. 4, datë 7.1.2025 “Për marrjen e masave kufizuese për parandalimin dhe kontrollin e sëmundjes së influencës aviare në shpendë, në mjediset e hapura dhe në tregjet e kafshëve të gjalla”, shfuqizohet.

@@ -1,0 +1,12 @@
+4. Intensifikimin e mbikëqyrjes së popullatave të shpendëve të egër, veçanërisht ato të ujit, si dhe monitorimin e mëtejshëm për zogj të ngordhur ose të sëmurë në territorin e:
+- Njësisë Administrative Paskuqan;
+- Njësisë Administrative Dajt;
+- Njësive Administrative të Qytetit Tiranë;
+- Njësisë Administrative Farkë;
+- Njësinë Administrative Petrelë;
+- Njësisë Administrative Bërxull;
+- Njësisë Administrative Vaqarr;
+- Njësisë Administrative Kashar;
+- Njësisë Administrative Kamzë;
+- Njësisë Administrative Zall Herr;
+- Njësinë Administrative Nikël.
