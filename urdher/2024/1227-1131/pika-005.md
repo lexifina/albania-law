@@ -1,1 +1,0 @@
-5. Të forcohet marrja e masave për kontrollin e lëvizjes së kafshëve, zbatimin e masave të biosigurisë dhe masave sanitaro-veterinare në zonën e mbrojtjes dhe mbikëqyrjes në Njësitë Administrative Shëngjin, Kolsh, Zejmen, Lezhë, Balldre, Kallmet dhe Shënkoll.
