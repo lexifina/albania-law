@@ -1,0 +1,19 @@
+URDHËR
+
+Nr. 114, datë 5.2.2025
+
+PËR DELEGIM KOMPETENCE
+
+Në mbështetje të pikës 4, të nenit 102, të Kushtetutës, të ligjit nr. 9000, “Për organizimin dhe funksionimin e Këshillit të Ministrave”; të pikës 2, të nenit 7, të ligjit nr. 8678, datë 14.5.2001, “Për organizimin dhe funksionimin e Ministrisë së Drejtësisë”, të ndryshuar; të neneve 28 dhe 29, të ligjit nr. 44/2015, “Kodi i Procedurave Administrative i Republikës së Shqipërisë”; të pikave 2 dhe 3, të nenit 11, të ligjit nr. 90/2012 ,“Për organizimin dhe funksionimin e administratës shtetërore”,
+
+URDHËRO J:
+
+1. Delegimin e kompetencave të titullarit të Ministrisë së Drejtësisë për datat 6.2.2025 dhe 7.2.2025, zëvendësministrit të Drejtësisë, z. Klajd Karameta.
+
+2. Ngarkohet zëvendësministri i Drejtësisë, z. Klajd Karameta, për zbatimin e këtij urdhri.
+
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
+
+MINISTËR I DREJTËSISË
+
+Ulsi Manja
