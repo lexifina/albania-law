@@ -1,0 +1,1 @@
+1. Ky vendim përcakton rregullat për përbërjen, organizimin dhe funksionimin e Komisionit të Disiplinës pranë Urdhrit të Mjekëve dhe Komisionit të Apelimit pranë ministrisë përgjegjëse për shëndetësinë.

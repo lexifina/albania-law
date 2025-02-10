@@ -1,0 +1,1 @@
+13. Komisioni i Disiplinës asistohet nga sekretariati teknik, i cili verifikon nëse kërkesa i plotëson kushtet formale të parashikuara në pikën 9, të kreut II, të këtij vendimi, dhe përgatit një relacion me shkrim për komisionin.

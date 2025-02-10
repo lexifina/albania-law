@@ -1,0 +1,1 @@
+2. Ky vendim ka për qëllim të përcaktojë rregullat për përbërjen, organizimin dhe funksionimin e Komisionit të Disiplinës dhe të Komisionit të Apelimit, duke siguruar një proces të rregullt ligjor për shqyrtimin e pretendimeve për shkelje disiplinore dhe zbatimin e masave disiplinore, në përputhje me parimet e transparencës dhe llogaridhënies në sistemin shëndetësor.

@@ -1,0 +1,1 @@
+23. Kur vërtetohet se anëtari ka kryer shkelje të etikës, të Kodit të Etikës dhe të Deontologjisë Mjekësore ose ka bërë shkelje të tjera, Komisioni i Disiplinës jep një nga masat disiplinore, të parashikuara nga neni 17, i ligjit nr. 123/2014, “Për Urdhrin e Mjekëve në Republikën e Shqipërisë”, të ndryshuar.

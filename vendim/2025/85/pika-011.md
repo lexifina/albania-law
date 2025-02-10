@@ -1,0 +1,1 @@
+11. Komisioni i Disiplinës fillon kryesisht procedimin disiplinor për mjekun, ndaj të cilit është regjistruar një procedim penal, për të cilin vihet në dijeni institucioni shëndetësor ose Urdhri i Mjekëve.

@@ -1,0 +1,1 @@
+18. Komisioni i Disiplinës mbledh dhe verifikon çdo dokumentacion të nevojshëm, që ka lidhje me çështjen, objekt hetimi, dhe nëse e konsideron të nevojshme, thërret për dëshmi mjekun e akuzuar, pacientin (ose përfaqësuesin e tij ligjor), familjarët apo të afërm të tjerë të pacientit, si edhe çdo person tjetër që vlerësohet se ka informacion të rëndësishëm për hetimin.

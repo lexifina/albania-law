@@ -1,0 +1,1 @@
+21. Komisioni i Disiplinës përgatit një raport të plotë me përshkrimin e procesit hetimor, gjetjeve, dëshmive dhe rekomandimeve, i cili përfshihet në dosjen disiplinore të mjekut dhe u njoftohet edhe palëve të tjera, pjesëmarrëse në këtë procedim.

@@ -1,0 +1,1 @@
+16. Nëse ankesa e depozituar plotëson kushtet formale, të parashikuara në pikën 9, të këtij kreu, Komisioni i Disiplinës merr vendim për fillimin e hetimit disiplinor dhe njofton mjekun për fillimin e procedimit. Afati i përfundimit të procedimit disiplinor është 30 (tridhjetë) ditë dhe fillon të ecë nga momenti që merr vendim për fillimin e hetimit disiplinor.

@@ -1,0 +1,1 @@
+6. Në rast largimi të parakohshëm të ndonjë anëtari, organi i emërtesës emëron një anëtar të ri, brenda 30 (tridhjetë) ditëve. Anëtari i ri qëndron në detyrë deri në përfundimin e mandatit të paraardhësit.

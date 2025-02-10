@@ -1,0 +1,1 @@
+20. Komisioni i Disiplinës ka të drejtë të kryejë inspektime në vendet e punës, ku mjeku ushtron veprimtarinë mjekësore, për të vlerësuar kushtet e punës, pajisjet e respektimin e standardeve profesionale dhe etike të kërkuara.
