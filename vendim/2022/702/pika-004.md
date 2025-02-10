@@ -1,1 +1,1 @@
-4. Vlera e përgjithshme e shpronësimit, prej 1 728 384 (një milion e shtatëqind e njëzet e tetë mijë e treqind e tetëdhjetë e katër) lekësh, përballohet nga Operatori i Shpërndarjes së Energjisë Elektrike.
+4. Vlera e përgjithshme e shpronësimit, prej 7 029 267 (shtatë milionë e njëzet e nëntë mijë e dyqind e gjashtëdhjetë e shtatë) lekësh, përballohet nga Operatori i Shpërndarjes së Energjisë Elektrike.
