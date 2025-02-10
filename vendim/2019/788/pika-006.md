@@ -1,1 +1,1 @@
-6. Propozimi për shpalljen ose njohjen e statusit “Dëshmor i atdheut” paraqitet pranë stafit teknik të Komisionit Qendror të Statusit “Dëshmor i atdheut”, në Ministrinë e Mbrojtjes.
+6. Kërkesa për shpalljen ose njohjen e statusit “Dëshmor i atdheut” paraqitet pranë stafit teknik të Komisionit Qendror të Statusit “Dëshmor i atdheut”, në Ministrinë e Mbrojtjes nëpërmjet portalit “e-Albania”.

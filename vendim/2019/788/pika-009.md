@@ -1,1 +1,2 @@
 9. Shpërblimi për pjesëmarrje në mbledhje, për çdo anëtar, bëhet sipas përcaktimeve në vendimin normativ të masës së shpërblimit të këshillave, bordeve ose komisioneve të njësive të qeverisjes qendrore.
+9.1 Deri në momentin e krijimit të infrastrukturës së nevojshme teknike për ofrimin e shërbimeve përmes portalit “e-Albania”, pritja dhe trajtimi i aplikimeve do të vijojë të kryhet sipas mënyrave dhe mjeteve ekzistuese.
