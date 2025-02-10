@@ -1,0 +1,1 @@
+7. Baza e të dhënave shtetërore “Databaza e treguesve të statistikave zyrtare” ndërvepron me bazat e të dhënave shtetërore të autoriteteve publike, sipas ligjit nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, ligjit nr. 17/2018, “Për statistikat zyrtare”, dhe programit të statistikave zyrtare.

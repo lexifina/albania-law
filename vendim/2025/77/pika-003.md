@@ -1,0 +1,1 @@
+3. Të dhënat që përmban databaza shtetërore “Databaza e treguesve të statistikave zyrtare” ndahen në të dhëna parësore dhe të dhëna dytësore, që përditësohen sipas legjislacionit për programin e statistikave zyrtare dhe përpunohen në zbatim të legjislacionit për mbrojtjen e të dhënave personale.
