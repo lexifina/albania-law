@@ -1,0 +1,2 @@
+6. Ngarkohen për zbatimin e këtij urdhri Sekretari i Përgjithshëm në Ministrinë e Arsimit dhe Sportit, Drejtoria e Përgjithshme Rregullatore për Arsimin dhe Sportin, Agjencia Kombëtare e Arsimit Parauniversitar, Drejtoria Rajonale Arsimore Parauniversitare, Fier, Zyra Vendore e Arsimit Parauniversitar Vlorë-Himarë dhe institucioni arsimor parauniversitar publik, Gjimnazi “Shaban Demiraj”, Vlorë.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

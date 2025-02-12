@@ -1,0 +1,1 @@
+5. Në rast të moszbatimit të detyrimeve, nga institucioni arsimor parauniversitar publik, Gjimnazi “Shaban Demiraj”, Vlorë, të përcaktuara në pikën 2, të këtij urdhri, Zyra Vendore e Arsimit Parauniversitar, Vlorë-Himarë, të marrë të gjitha masat, sipas legjislacionit në fuqi.
