@@ -1,0 +1,1 @@
+21. Në rastet kur konstatohet se subjekti i licencuar ose i autorizuar është në kushtet e parashikuara në pikën 5, të nenit 13, të ligjit nr. 87/2024, “Për rregullimin e prodhimit, tregtimit, kërkimit dhe zhvillimit të armëve, municioneve, pajisjeve dhe teknologjive ushtarake”, AIM-ja revokon licencën apo autorizimin e lëshuar.

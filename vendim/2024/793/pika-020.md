@@ -1,0 +1,1 @@
+20. Pas marrjes së njoftimit për pezullimin e licencës, subjekti duhet të korrigjojë rrethanën pezulluese, brenda 45 (dyzet e pesë) ditëve. AIM-ja, me qëllim verifikimin e korrigjimit, mund të kryejë inspektime në vend.

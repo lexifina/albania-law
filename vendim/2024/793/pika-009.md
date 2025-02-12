@@ -1,0 +1,1 @@
+9. Për të verifikuar plotësimin e kritereve për dhënien e autorizimit të kërkimit dhe zhvillimit teknologjik të aplikuar, përveç dokumentacionit të përcaktuar në pikën 8 të këtij kreu do të vlerësohet edhe studimi i fizibilitetit të zgjidhjes së propozuar.

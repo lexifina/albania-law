@@ -1,0 +1,1 @@
+23. Operatori ekonomik, 90 (nëntëdhjetë) ditë përpara përfundimit të afatit të vlefshmërisë së licencës apo autorizimit, paraqet kërkesën për rinovim. Rinovimi i licencës u nënshtrohet të njëjtave procedura të marrjes së licencës.

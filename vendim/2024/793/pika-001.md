@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim të rregullojë procesin e licencimit dhe autorizimit të operatorëve ekonomikë për kryerjen e veprimtarive të prodhimit, magazinimit, transportimit, tregtimit, kërkimit dhe zhvillimit të armëve, municioneve, pajisjeve dhe teknologjive ushtarake.

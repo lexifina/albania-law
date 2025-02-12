@@ -1,0 +1,1 @@
+19. Raporti negativ i ndikimit në mjedis konsiderohet mospërmbushje e kushteve të licencës sipas përcaktimit të shkronjës “a”, të pikës 3, të nenit 13, të ligjit nr. 87/2024, “Për rregullimin e prodhimit, tregtimit, kërkimit dhe zhvillimit të armëve, municioneve, pajisjeve dhe teknologjive ushtarake”.

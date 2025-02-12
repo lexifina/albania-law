@@ -1,0 +1,1 @@
+2. Objekti i këtij vendimi është përcaktimi i llojeve të licencave dhe autorizimeve, kritereve të detajuara, procedurave të lëshimit, rinovimit, pezullimit dhe revokimit të tyre si dhe i tarifave të aplikimit e të përdorimit të licencës dhe autorizimit.

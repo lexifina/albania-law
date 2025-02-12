@@ -1,0 +1,1 @@
+12. Entet publike, të cilat kanë si fushë të përgjegjësisë së tyre sigurinë dhe mbrojtjen, të përcaktuara sipas legjislacionit në fuqi, përjashtohen nga pajisja me autorizim për kërkim dhe zhvillim teknologjik.

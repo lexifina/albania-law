@@ -1,0 +1,1 @@
+11. Operatori ekonomik, aksionar i të cilit është kompania shtetërore e prodhimit të armatimit ushtarak, nuk i nënshtrohet verifikimit të kriterit financiar dhe kriterit për ndikimin e influencës së huaj dhe të dokumenteve që verifikojnë këto kritere.

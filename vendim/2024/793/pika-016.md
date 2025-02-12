@@ -1,0 +1,1 @@
+16. Operatori ekonomik në rast ndryshimi të informacionit të paraqitur në dosjen e aplikimit njofton, brenda 10 (dhjetë) ditëve pune, AIM-në. Ndryshimet e njoftuara duhet të verifikohen dhe të miratohen nga AIM-ja brenda 10 (dhjetë) ditëve nga dita e paraqitjes së kërkesës.
