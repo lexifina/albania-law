@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim miratimin e licencës standarde për ripërdorimin e të dhënave të hapura në Republikën e Shqipërisë. Ripërdorimi i të dhënave të hapura/dokumenteve të organeve të sektorit publik dhe sipërmarrjeve publike si rregull është i hapur dhe vendosja e kushteve bëhet në rastet e justifikuara për interesin publik.
