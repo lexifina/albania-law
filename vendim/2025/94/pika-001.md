@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni i segmentit rrugor ’Shën Gjergj’-’Naun Kaçaku’ (ish-ura me shkallë-Stacioni i Patosit), Fier”, Bashkia Fier.
