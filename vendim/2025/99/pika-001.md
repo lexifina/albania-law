@@ -1,0 +1,1 @@
+1. Komiteti për të Dhënat Statistikore në Turizëm, këtu e në vijim “Komiteti”, është organi koordinues pranë Ministrisë së Turizmit dhe Mjedisit, i cili mundëson bashkëpunimin ndërinstitucional për koordinimin dhe integrimin efektiv të të dhënave statistikore, të lidhura me turizmin në nivel qendror dhe vendor.

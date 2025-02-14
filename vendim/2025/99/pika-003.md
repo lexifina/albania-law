@@ -1,0 +1,1 @@
+3. Në varësi të çështjeve dhe kur e çmon të nevojshme, Komiteti fton të marrin pjesë në mbledhjet e tij përfaqësues edhe nga njësitë e tjera të vetëqeverisjes vendore, përveç sa janë përmendur në shkronjën “ë”, të pikës 2, të këtij vendimi, si dhe grupet e interesit në fushën e turizmit.

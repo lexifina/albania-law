@@ -1,0 +1,1 @@
+7. Mbledhjet drejtohen nga kryetari dhe në rast se ai mungon apo është në pamundësi për të ushtruar funksionin e tij, mbledhja e thirrur drejtohet nga përfaqësuesi i ministrisë përgjegjëse për turizmin.

@@ -1,0 +1,1 @@
+5. Kryetari, në rastet urgjente apo kur e vlerëson të nevojshme, thërret mbledhjen e Komitetit. Në këtë rast, rendi i ditës i propozuar dhe materialet për diskutim u vihen në dispozicion anëtarëve në fillim të mbledhjes.

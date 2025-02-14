@@ -1,0 +1,1 @@
+6. Njoftimi për mbledhjen e Komitetit dhe çështjet për diskutim, pjesë e rendit të ditës, së bashku me dokumentacionin shoqërues i përcillen çdo anëtari në rrugë elektronike nga sekretariati teknik, të paktën 7 (shtatë) ditë përpara datës së mbledhjes. Njoftimi përfshin informacionin për vendin, datën dhe kohën e mbajtjes së mbledhjes.

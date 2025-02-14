@@ -1,0 +1,1 @@
+11. Ngarkohen institucionet e përcaktuara në pikën 2, të këtij vendimi, që, brenda 15 (pesëmbëdhjetë) ditëve nga hyrja në fuqi e këtij vendimi, të caktojnë përfaqësuesit e tyre si anëtar të Komitetit.
