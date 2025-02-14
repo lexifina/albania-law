@@ -278,3 +278,81 @@ ZK 8531
 22,836,033
 Shuma
 402,655,835
+TË DHËNAT MBI LISTËN EMËRORE TË PRONAVE DHE PRONARËVE QË DO TË SHPRONËSOHEN PËR OBJEKTIN, “PËR REHABILITIMIN E LUMIT GJANICË” DHE PROJEKTIT PËR RIKONCEPTIMIN E QENDRËS SË QYTETIT SIPAS VKB-së NR. 66, DATË 25.9.2017, BASHKIA FIER
+Nr.
+Emër, mbiemër
+Zona kadastrale
+Nr. i pasurisë
+Sip. e objektit të banimit (m2)
+Sipërfaqja e truallit (m2)
+Sip. e objektit të shërbimit (m2)
+Çmimi i objektit të banimit (lekë/m2)
+Çmimi i truallit (lekë/m2)
+Vlera e objektit të shërbimit sipas situacionit (lekë)
+Vlera e objektit të banimit (lekë)
+Vlera
+e truallit (lekë)
+Vlera totale e truallit, objektit të banimit dhe shërbimit (lekë)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+19
+Fatos Sadik Buzi, Mirela Dule Buzi
+8531
+truall
+300
+12458
+3,737,400
+3,737,400
+6/273
+SHUMA
+3,737,400
+TË DHËNAT MBI LISTËN EMËRORE TË PRONAVE DHE PRONARËVE QË DO TË SHPRONËSOHEN PËR OBJEKTIN, “PËR REHABILITIMIN E LUMIT GJANICË” DHE PROJEKTIT PËR RIKONCEPTIMIN E QENDRËS SË QYTETIT SIPAS VKB-së NR. 66, DATË 25.9.2017, BASHKIA FIER
+Nr.
+Emër, mbiemër
+Zona kadastrale
+Nr. i pasurisë
+Sip. e objektit të banimit (m2)
+Sipërfaqja e truallit (m2)
+Sip. e objektit të shërbimit (m2)
+Çmimi i objektit të banimit (lekë/m2)
+Çmimi i truallit (lekë/m2)
+Vlera e objektit të shërbimit sipas situacionit (lekë)
+Vlera e objektit të banimit (lekë)
+Vlera
+e truallit (lekë)
+Vlera totale e truallit, objektit të banimit dhe shërbimit (lekë)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+19
+Fatos Sadik Buzi, Mirela Dule Buzi
+8531
+truall
+300
+12458
+3,737,400
+3,737,400
+6/273
+SHUMA
+3,737,400
