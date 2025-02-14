@@ -4,6 +4,10 @@ Nr. 241, datë 14.11.2024
 
 MBI VENDOSJEN E DETYRIMIT TË PUBLIKIMIT TË OFERTAVE TË FURNIZIMIT ME ENERGJI ELEKTRIKE NGA TË LICENCUARIT NË AKTIVITETIN E FURNIZIMIT NË TREGUN E LIRË
 
+(Ndryshuar me vendimin nr. 43, datë 14.2.2025)
+
+(i përditësuar)
+
 Në mbështetje të neneve 8, pika 1, germa “a”, 16, 18, pika 1, germat “a” dhe “dh”, 19, germa “j”, 20 germat “a” dhe “ç”, 22, germa “c”, dhe 109, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 7.3 dhe 9.2, germat “ç” dhe “d”, dhe 11, pika 1 të “Rregullores mbi kushtet e përgjithshme të shërbimit të furnizimit me energji elektrike për klientët fundorë”, miratuar me vendimin nr. 203, datë 18.12.2017, të Bordit të Entit Rregullator të Energjisë (ERE);  pikave 3.1 dhe 5.2.1 të “Kushteve të licencës për veprimtarinë e furnizimit të energjisë elektrike”, miratuar me vendimin nr. 98, datë 17.06.2016, të Bordit të ERE-s; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE- s, nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 14.11.2024, pasi shqyrtoi relacionin e përgatitur nga Drejtoria e Çështjeve të Konsumatorit me nr. 2052/5 prot., datë 12.11.2024 “Mbi vendosjen e detyrimit të publikimit të ofertave të furnizimit me energji elektrike nga të licencuarit në aktivitetin e furnizimit në tregun e lirë”,
 
 konstatoi se:
@@ -34,7 +38,7 @@ Për gjithë sa më sipër, Bordi i ERE-s
 
 VENDOSI:
 
-1. Vendosjen e detyrimit të publikimit të ofertave të furnizimit me energji elektrike nga të licencuarit në aktivitetin e furnizimit në tregun e lirë në Platformën e krahasimit të çmimeve të krijuar nga ERE (PCT).
+1. Vendos detyrimin për publikimin e ofertave të furnizimit me energji elektrike në Platformën e Krahasimit të Çmimeve (PCT), të krijuar nga ERE, për të licencuarit, që janë aktivisht të angazhuar në veprimtarinë e furnizimit në tregun e lirë, për konsumatorët familjarë dhe jofamiljarë të vegjël me një konsum vjetor të pritshëm më pak se 100,000 kwh.
 
 2. Të licencuarit në aktivitetin e furnizimit në treg të lirë kanë detyrimin të publikojnë ofertat e furnizimit dhe të përcaktojnë afatet e vlefshmërisë për çdo ofertë të publikuar, duke filluar nga data 2.12.2024.
 
