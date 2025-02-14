@@ -1,0 +1,1 @@
+1. Dërgimin në operacionin e NATO-s “FOCOPS”, pjesë e operacionit “Sea Guardian”, në detin Mesdhe, të 1 (një) anijeje të klasit “Iliria”, e kompletuar me efektivë, të përbërë nga 21 (njëzet e një) ushtarakë të Forcave të Armatosura të Republikës së Shqipërisë.

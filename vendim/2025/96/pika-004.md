@@ -1,0 +1,1 @@
+4. Kohëzgjatja në operacionin e NATO-s “FOCOPS”, pjesë e operacionit “Sea Guardian”, në detin Mesdhe, është deri më 31.12.2028. Qëndrimi në këtë operacion është deri në 21 (njëzet e një) ditë në vit, afat i cili fillon të llogaritet nga data e dërgimit të anijes në këtë operacion.
