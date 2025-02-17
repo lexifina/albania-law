@@ -1,0 +1,5 @@
+# Shtojca
+MINISTËR I BUJQËSISË DHE ZHVILLIMIT RURAL
+Anila Denaj
+MINISTËR I BRENDSHËM
+Ervin Hoxha
