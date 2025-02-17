@@ -4,9 +4,9 @@ Nr.10 019, datë 29.12.2008
 
 KODI ZGJEDHOR I REPUBLIKËS SË SHQIPËRISË
 
-(Ndryshuar me vendimin e Gjykatës Kushtetuese nr. 32, datë 21.6.2010; nr. 28, datë 9.5.2012; me ligjin nr. 74/2012, datë 19.7.2012; nr. 31/2015, datë 2.4.2015; nr. 101/2020, datë 23.7.2020; nr. 118/2020, datë 5.10.2020; me vendimin e Gjykatës Kushtetuese nr. 28, datë 30.6.2021; nr. 31, datë 4.10.2021; me ligjin nr. 81/2024, datë 26.7.2024)
+(Ndryshuar me vendimin e Gjykatës Kushtetuese nr. 32, datë 21.6.2010; nr. 28, datë 9.5.2012; me ligjin nr. 74/2012, datë 19.7.2012; nr. 31/2015, datë 2.4.2015; nr. 101/2020, datë 23.7.2020; nr. 118/2020, datë 5.10.2020; me vendimin e Gjykatës Kushtetuese nr. 28, datë 30.6.2021; nr. 31, datë 4.10.2021; me ligjin nr. 81/2024, datë 26.7.2024; nr. 10/2025, datë 17.2.2025)
 
-(I ndryshuar)
+(I përditësuar)
 
 Në mbështetje të neneve 81 pika 2 dhe 83 pika 1 të Kushtetutës, me propozimin e një grupi deputetësh,
 
@@ -582,7 +582,7 @@ Neni 25
 
 Lista e zgjedhësve që votojnë jashtë territorit të Republikës së Shqipërisë
 
-(Ndryshuar me ligjin nr. 81/2024, datë 26.7.2024)
+(Ndryshuar me ligjin nr. 81/2024, datë 26.7.2024; ndryshuar pika 8 me ligjin nr. 10/2025, datë 17.2.2025)
 
 1. Zgjedhësi që ndodhet jashtë territorit të Republikës së Shqipërisë dhe që dëshiron të ushtrojë të drejtën e votës për zgjedhjet e radhës për Kuvendin duhet të regjistrohet në listën e zgjedhësve jashtë vendit, në përputhje me përcaktimet e bëra në këtë Kod dhe aktet nënligjore në zbatim të tij. 
 
@@ -598,7 +598,7 @@ Lista e zgjedhësve që votojnë jashtë territorit të Republikës së Shqipër
 
 7. Komisioneri Shtetëror për Zgjedhjet, 63 ditë përpara datës së zgjedhjeve, publikon listën paraprake të zgjedhësve që votojnë jashtë territorit të Republikës së Shqipërisë, me qëllim që zgjedhësit brenda 48 orësh nga publikimi i saj të mund të kërkojnë regjistrimin apo rregullimin e pasaktësive të regjistrimit të tyre. Komisioneri Shtetëror për Zgjedhjet, 60 ditë para datës së zgjedhjeve, miraton dhe publikon në faqen zyrtare të internetit të KQZ-së listën përfundimtare të zgjedhësve që votojnë jashtë territorit të Republikës së Shqipërisë. Lista e zgjedhësve pas përfundimit të procesit nuk ndryshon në asnjë rrethanë dhe për asnjë shkak pas afatit të parashikuar në këtë pikë, me përjashtim të rastit të parashikuar në pikën 8 të këtij neni.
 
-8. Kur zgjedhësi që ka paraqitur kërkesë për regjistrim në listën e zgjedhësve që votojnë nga jashtë territorit të Republikës së Shqipërisë vëren se nuk është i regjistruar në këtë listë, ose regjistrimi i tij ka pasaktësi, ai ka të drejtë të paraqesë kërkesë në Gjykatën e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë deri 7 ditë përpara datës së zgjedhjeve. Kërkesa, sipas kësaj pike, përjashtohet nga taksat gjyqësore. Gjykata e shqyrton dhe vendos në lidhje me kërkesën, sipas kësaj pike, brenda 24 orëve nga data e regjistrimit të kërkesës, por jo më vonë se 5 ditë para datës së zgjedhjeve. Emri dhe të dhënat e tjera të zgjedhësit, që i shtohet listës së zgjedhësve që votojnë nga jashtë territorit të Republikës së Shqipërisë, i bashkëngjitet vendimi i gjykatës. 
+8. Kur zgjedhësi që ka paraqitur kërkesë në listën e zgjedhësve që votojnë nga jashtë territorit të Republikës së Shqipërisë vëren se nuk është i regjistruar në këtë listë ose regjistrimi i tij ka pasaktësi, ai ka të drejtë të paraqesë kërkesë në Gjykatën e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë deri 30 ditë përpara datës së zgjedhjeve. Kërkesa mund të paraqitet edhe online nëpërmjet një platforme elektronike të miratuar nga Këshilli i Lartë Gjyqësor. Kërkesa sipas kësaj pike përjashtohet nga taksa gjyqësore. Gjykata shqyrton dhe vendos për kërkesën, sipas kësaj pike, nëpërmjet kësaj platforme brenda 48 orëve nga data e regjistrimit të kërkesës. Emrit dhe të dhënave të tjera të zgjedhësit, që i shtohen listës së zgjedhësve që votojnë nga jashtë territorit të Republikës së Shqipërisë, i bashkëngjitet vendimi i Gjykatës.
 
 9. Shtetasit shqiptarë që janë regjistruar në listën e zgjedhësve jashtë vendit, pas përfundimit të procedurës së regjistrimit sipas këtij neni, çregjistrohen nga lista e zgjedhësve brenda vendit që shpallet sipas nenit 56 të këtij Kodi.
 
@@ -612,17 +612,37 @@ Lista e zgjedhësve që votojnë jashtë territorit të Republikës së Shqipër
 
 Neni 25/1
 
-Votimi nga jashtë territorit të Republikës së Shqipërisë dhe rezultati zgjedhor
+Procedura e votimit nga jashtë territorit të Republikës së Shqipërisë
 
-(Shtuar me ligjin nr. 81/2024, datë 26.7.2024)
+ (Shtuar me ligjin nr. 81/2024, datë 26.7.2024; ndryshuar titulli, pika 3 dhe shfuqizuar pika 4 me ligjin nr. 10/2025, datë 17.2.2025)
 
 1. Votimi nga jashtë territorit të Republikës së Shqipërisë quhet i çelur nga dita që KQZ-ja nis procedurat për dërgimin e dokumentacionit të votimit dhe dokumentacionit udhëzues në adresë të zgjedhësve nga jashtë vendit. Votimi nga jashtë vendit mbyllet në ditën e votimit, në orën e caktuar nga ky Kod për mbylljen e votimit në qendrat e votimit. Me mbylljen e votimit nga jashtë territorit të Republikës së Shqipërisë, KQZ-ja nuk mund të pranojë dhe përfshijë në numërim asnjë fletë votimi të mbërritur pas këtij orari, me përjashtim të zarfeve me fletë votimi të cilat kanë vulën e hyrjes ose çdo shënim tjetër për këtë gjë në territorin e Republikës së Shqipërisë deri në orën e mbylljes së votimit brenda vendit, sipas këtij Kodi. 
 
 2. KQZ-ja dërgon nëpërmjet shërbimit postar fletët e votimit dhe çdo material tjetër zgjedhor dhe informativ në adresën e deklaruar të vendbanimit të zgjedhësit sipas listës së zgjedhësve për votimin nga jashtë territorit të Republikës së Shqipërisë. Fleta e votimit është e njëjtë, por me një element të veçantë dallues me fletën e votimit që përdoret brenda territorit të Republikës së Shqipërisë.
 
-3. Fletët e votimit të plotësuara dhe të sekretuara dërgohen në adresën zyrtare të KQZ-së nëpërmjet shërbimit postar me shpenzimet e zgjedhësit. KQZ-ja fillimisht bën përpjekje të përzgjedhë ofrues ndërkombëtarë të shërbimit postar me jashtë vendit, që kanë eksperiencë dhe reputacion të mirë në shërbimin e postës së shpejtë, dhe zgjedhja e tij realizohet nëpërmjet procedurave më afatshkurtra që mundëson legjislacioni për prokurimin publik.
+3. Fletët e votimit të plotësuara nga zgjedhësit jashtë territorit të Republikës së Shqipërisë dhe të sekretuara dërgohen në adresën zyrtare të Komisionit Qendror të Zgjedhjeve nëpërmjet shërbimit postar. Shpenzimet për dërgimin dhe kthimin e fletës së votimit dhe çdo materiali tjetër zgjedhor dhe informativ nga Komisioni Qendror i Zgjedhjeve tek votuesit nga jashtë paguhet nga KQZ-ja. KQZ-ja fillimisht bën përpjekje të përzgjedhë ofrues ndërkombëtarë të shërbimit postar me jashtë vendit, që kanë eksperiencë dhe reputacion të mirë në shërbimin e postës së shpejtë, dhe zgjedhja e tij realizohet nëpërmjet procedurave më afatshkurtra që mundëson legjislacioni për prokurimin publik.
 
-4. Fletët e votimit të dërguara nga zgjedhësit jashtë territorit të Republikës së Shqipërisë dhe të administruara numërohen në ambientet e KQZ-së. Fletët e votimit të dërguara nga zgjedhësit jashtë territorit të Republikës së Shqipërisë në momentin e mbërritjes në KQZ regjistrohen në një regjistër të posaçëm dhe ndahen sipas zonës zgjedhore të vendbanimit më të fundit të zgjedhësit para largimit nga Shqipëria. Procesi i numërimit të tyre fillon në të njëjtin moment që fillon numërimi i kutisë së parë me fletë votimi të zonës zgjedhore përkatëse, si dhe vlerësimi i tyre kryhet nga administrata e KQZ-së dhe tabelohen në tabelën e rezultateve të zonës zgjedhore përkatëse. Rregullatori, me propozimin e Komisionerit, përcakton me akt nënligjor dokumentacionin, mënyrën e plotësimit të tij dhe çdo aspekt tjetër për administrimin, vëzhgimin e procesit të numërimit, numërimin, vlerësimin e votës dhe tabelimin e rezultatit zgjedhor sipas këtij neni.
+ 4. Shfuqizuar.
+
+Neni 25/2
+
+Numërimi dhe vlerësimi i votave nga jashtë territorit të Republikës së Shqipërisë 
+
+dhe rezultati zgjedhor
+
+(Shtuar me ligjin nr. 10/2025, datë 17.2.2025)
+
+1. Fletët e votimit të dërguara nga zgjedhësit jashtë territorit të Republikës së Shqipërisë në momentin e mbërritjes në KQZ regjistrohen në një regjistër të posaçëm dhe ndahen sipas zonës zgjedhore të vendbanimit më të fundit të zgjedhësit para largimit nga Shqipëria.
+
+2. Fletët e votimit të dërguara nga zgjedhësit jashtë territorit të Republikës së Shqipërisë dhe të administruara nga KQZ-ja numërohen dhe vlerësohen në vendin e numërimit të votave nga jashtë territorit të Republikës së Shqipërisë të caktuar nga KQZ-ja.
+
+3. Procesi i numërimit të tyre fillon në të njëjtin moment kur fillon numërimi i kutisë së parë me fletë votimi të zonës zgjedhore përkatëse. 
+
+4. Numërimi dhe vlerësimi i votave nga jashtë territorit të Republikës së Shqipërisë administrohet nga një komision i përbërë prej 4 anëtarësh dhe sekretari, të emëruar nga Komisioneri Shtetëror i Zgjedhjeve. Propozimi për 2 anëtarë bëhet nga partia më e madhe e shumicës parlamentare dhe për 2 anëtarët e tjerë propozimi bëhet nga partia më e madhe e pakicës parlamentare. Sekretari i komisionit emërohet në bazë të aplikimeve të lira dhe duhet të jetë me profesion jurist. Anëtarët dhe sekretari duhet të plotësojnë kushtet dhe kriteret e përcaktuara në nenet 30 dhe 31 të këtij Kodi. Nëse numri në listën përfundimtare të zgjedhësve nga jashtë është më i madh se 80 mijë, Komisioneri Shtetëror i Zgjedhjeve mund të ngrejë më shumë se një komision të numërimit dhe të vlerësimit të votave nga jashtë, me kushtin që vlerësimi i votave të një qarku të kryhet nga i njëjti komision.
+
+5. Për numërimin dhe vlerësimin e votave Komisioneri Shtetëror i Zgjedhjeve cakton grupe numërimi të përbërë nga dy anëtarë. Një anëtar propozohet nga partia më e madhe e shumicës parlamentare dhe anëtari tjetër nga partia më e madhe e pakicës parlamentare.
+
+6. Rregullatori, me propozimin e Komisionerit, përcakton me akt nënligjor dokumentacionin, mënyrën e plotësimit të tij dhe çdo aspekt tjetër për administrimin, vëzhgimin e procesit të numërimit, numërimin, vlerësimin e votës dhe tabelimin e rezultatit zgjedhor sipas këtij neni.
 
 Neni 26
 
@@ -1440,9 +1460,9 @@ Neni 64
 
 Regjistrimi i partive politike në zgjedhje
 
-(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012;  shtuar shkronja “e” me ligjin nr. 101/2020, datë 23.7.2020)
+(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012;  shtuar shkronja “e” me ligjin nr. 101/2020, datë 23.7.2020; ndryshuar togfjalësh në pikën 1 me ligjin nr. 10/2025, datë 17.2.2025)
 
-1. Çdo parti politike duhet të paraqesë kërkesën për t’u regjistruar si subjekt zgjedhor në KQZ jo më vonë se 70 ditë përpara datës së zgjedhjeve.
+1. Çdo parti politike duhet të paraqesë kërkesën për t’u regjistruar si subjekt zgjedhor në KQZ jo më vonë se 75 ditë përpara datës së zgjedhjeve.
 
 2. Për t’u regjistruar si subjekt zgjedhor për çdo lloj zgjedhjeje, një parti politike duhet të paraqesë në KQZ:
 
@@ -1464,9 +1484,9 @@ Neni 65
 
 Regjistrimi i koalicioneve zgjedhore
 
-(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012; shtuar pika 3 me ligjin nr. 118/2020, datë 5.10.2020)
+(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012; shtuar pika 3 me ligjin nr. 118/2020, datë 5.10.2020; ndryshuar togfjalësh në pikën 1 me ligjin nr. 10/2025, datë 17.2.2025)
 
-1. Dy ose më shumë parti politike të regjistruara si subjekte zgjedhore në KQZ, sipas nenit 64 të këtij Kodi, mund të regjistrohen në KQZ si koalicion zgjedhor në shkallë vendi jo më vonë se 60 ditë përpara datës së zgjedhjeve. 
+1. Dy ose më shumë parti politike të regjistruara si subjekte zgjedhore në KQZ, sipas nenit 64 të këtij Kodi, mund të regjistrohen në KQZ si koalicion zgjedhor në shkallë vendi jo më vonë se 70 ditë përpara datës së zgjedhjeve. 
 
 2. Partia politike pjesëmarrëse në një koalicion nuk mund të marrë pjesë në një koalicion tjetër dhe as të paraqesë kandidatë apo listë shumemërore kandidatësh jashtë koalicionit ku ajo bën pjesë.
 
@@ -1482,9 +1502,9 @@ Neni 67
 
 Lista e kandidatëve të partive dhe koalicioneve të partive politike
 
- (Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012; ndryshuar pika 3 e shtuar paragraf në fund të pikës 6 me ligjin nr. 31/2015, datë 2.4.2015; ndryshuar pikat 5 e 6 me ligjin nr. 101/2020, datë 23.7.2020; ndryshuar pikat 1, 2, 3, 4 dhe 5 me ligjin nr. 118/2020, datë 5.10.2020; ndryshuar me ligjin nr. 81/2024, datë 26.7.2024)
+ (Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012; ndryshuar pika 3 e shtuar paragraf në fund të pikës 6 me ligjin nr. 31/2015, datë 2.4.2015; ndryshuar pikat 5 e 6 me ligjin nr. 101/2020, datë 23.7.2020; ndryshuar pikat 1, 2, 3, 4 dhe 5 me ligjin nr. 118/2020, datë 5.10.2020; ndryshuar me ligjin nr. 81/2024, datë 26.7.2024; ndryshuar togfjalësh në pikën 1 me ligjin nr. 10/2025, datë 17.2.2025)
 
-1. Partia politike ose koalicioni zgjedhor, në kuptim të nenit 65, që është regjistruar në KQZ si subjekt zgjedhor për zgjedhjet në Kuvend, depoziton në KQZ për çdo zonë zgjedhore, jo më vonë se 50 ditë para datës së zgjedhjeve, listën që përbëhet nga:
+1. Partia politike ose koalicioni zgjedhor, në kuptim të nenit 65, që është regjistruar në KQZ si subjekt zgjedhor për zgjedhjet në Kuvend, depoziton në KQZ për çdo zonë zgjedhore, jo më vonë se 60 ditë para datës së zgjedhjeve, listën që përbëhet nga:
 
 a) lista shumemërore me renditje të fiksuar të kandidatëve; dhe	
 
@@ -1524,13 +1544,13 @@ Neni 69
 
  Kandidatët e propozuar nga zgjedhësit për zgjedhjet në Kuvend 
 
-(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012)
+(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012; ndryshuar togfjalësh në pikat 1 dhe 3 me ligjin nr. 10/2025, datë 17.2.2025)
 
-1. Një grup zgjedhësish në një zonë zgjedhore kanë të drejtë të propozojnë një kandidat për atë zonë zgjedhore, i cili përmbush kushtet e përcaktuara në nenin 45 të Kushtetutës dhe në nenin 63 të këtij Kodi, jo më vonë se 50 ditë nga data e zgjedhjeve. 
+1. Një grup zgjedhësish në një zonë zgjedhore kanë të drejtë të propozojnë një kandidat për atë zonë zgjedhore, i cili përmbush kushtet e përcaktuara në nenin 45 të Kushtetutës dhe në nenin 63 të këtij Kodi, jo më vonë se 60 ditë nga data e zgjedhjeve. 
 
 2. Kandidati i propozuar nga një grup zgjedhësish nuk mund të jetë pjesë e asnjë partie apo koalicioni që konkurron në zgjedhje dhe as të mbështesë haptazi apo në mënyrë të tërthortë ndonjë subjekt apo kandidat tjetër që konkurron në zgjedhje. 
 
-3. Për paraqitjen e një kandidati nga zgjedhësit krijohet një komitet nismëtar me jo më pak se 9 zgjedhës nga zona zgjedhore përkatëse, të cilët janë të ngarkuar të organizojnë punën për mbledhjen e firmave mbështetëse për kandidatin, sipas këtij Kodi. Jo më vonë se 70 ditë para datës së zgjedhjeve komiteti nismëtar regjistrohet në KQZ, duke paraqitur emrat e anëtarëve të komitetit. Komiteti mund të regjistrojë një kandidat për deputet vetëm në rast se ka marrë mbështetje për kandidatin nga një numër zgjedhësish që i korrespondon jo më pak se 1 për qind të listës së zgjedhësve të zonës zgjedhore, por në çdo rast jo më shumë se 3 000 zgjedhës, sipas procedurave të përcaktuara në Kod.
+3. Për paraqitjen e një kandidati nga zgjedhësit krijohet një komitet nismëtar me jo më pak se 9 zgjedhës nga zona zgjedhore përkatëse, të cilët janë të ngarkuar të organizojnë punën për mbledhjen e firmave mbështetëse për kandidatin, sipas këtij Kodi. Jo më vonë se 75 ditë para datës së zgjedhjeve komiteti nismëtar regjistrohet në KQZ, duke paraqitur emrat e anëtarëve të komitetit. Komiteti mund të regjistrojë një kandidat për deputet vetëm në rast se ka marrë mbështetje për kandidatin nga një numër zgjedhësish që i korrespondon jo më pak se 1 për qind të listës së zgjedhësve të zonës zgjedhore, por në çdo rast jo më shumë se 3 000 zgjedhës, sipas procedurave të përcaktuara në Kod.
 
 4. Kandidatët e propozuar nga zgjedhësit përjashtohen nga detyrimi i parashikuar në pikën 3 të këtij neni nëse janë deputetë. Në këtë rast, kandidati paraqet një vërtetim me shkrim të nënshkruar nga institucioni i Kuvendit, ku vërtetohet zotërimi i mandatit të paktën 6 muajt e fundit.
 
@@ -1592,11 +1612,11 @@ Neni 73
 
 Verifikimi i dokumentacionit
 
-(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012)
+(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012; ndryshuar togfjalësh në pikat 1 dhe 2 me ligjin nr. 10/2025, datë 17.2.2025)
 
-1. KQZ-ja ose, sipas rastit, KZAZ-ja verifikon rregullsinë e dokumentacionit të kandidimit dhe nëse vëren parregullsi apo mospërmbushje të kërkesave të këtij Kodi, ia kthen ato subjekteve zgjedhore për korrigjim jo më vonë se 45 ditë përpara datës së zgjedhjeve. 
+1. KQZ-ja ose, sipas rastit, KZAZ-ja verifikon rregullsinë e dokumentacionit të kandidimit dhe nëse vëren parregullsi apo mospërmbushje të kërkesave të këtij Kodi, ia kthen ato subjekteve zgjedhore për korrigjim jo më vonë se 55 ditë përpara datës së zgjedhjeve. 
 
-2. Dokumentacioni i korrigjuar depozitohet jo më vonë se 42 ditë përpara datës së zgjedhjeve. Vendimi për miratimin ose refuzimin e dokumentacionit përfundimtar merret brenda 48 orëve nga depozitimi i tyre. 
+2. Dokumentacioni i korrigjuar depozitohet jo më vonë se 52 ditë përpara datës së zgjedhjeve. Vendimi për miratimin ose refuzimin e dokumentacionit përfundimtar merret brenda 48 orëve nga depozitimi i tyre. 
 
 3. KQZ-ja e publikon listën e plotë të kandidatëve në media dhe në faqen zyrtare të saj në internet. Një kopje e listës për çdo zonë zgjedhore i dërgohet prefektit, këshillit të qarkut dhe KZAZ-ve, të cilat e publikojnë atë në mediat vendore dhe e shpallin në vende publike në zonën e tyre, sipas udhëzimeve të marra nga KQZ-ja.
 
@@ -1762,7 +1782,7 @@ Neni 84
 
 Fushata zgjedhore në radiot dhe televizionet private
 
-(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012; shtuar shkronja “d” e pikës 2, ndryshuar akronim dhe fjalë në pikën 10 me ligjin nr. 101/2020, datë 23.7.2020)
+(Ndryshuar me ligjin nr. 74/2012, datë 19.7.2012; shtuar shkronja “d” e pikës 2, ndryshuar akronim dhe fjalë në pikën 10 me ligjin nr. 101/2020, datë 23.7.2020; shtuar fjali në pikën 5 me ligjin nr. 10/2025, datë 17.2.2025)
 
 1. Në radiot dhe televizionet private, pasqyrimi i fushatës zgjedhore bëhet vetëm në edicionet e zakonshme dhe të posaçme informative. Radiot dhe televizionet private nuk vënë kohë transmetimi në dispozicion të subjekteve politike për pasqyrimin e fushatës zgjedhore të tyre. Informacionet mbi aktivitete të fushatës zgjedhore, që përgatiten dhe transmetohen në edicionet informative, bazuar në materiale të vëna në dispozicion nga subjektet zgjedhore, duhet të identifikohen qartë, në përputhje me udhëzimet e KQZ-së.
 
@@ -1784,7 +1804,7 @@ Në rast shkeljeje, KQZ-ja urdhëron entin rregullator për mediat audiovizive t
 
 4. Vetëm subjektet zgjedhore të regjistruara për zgjedhje kanë të drejtë të transmetojnë reklama politike gjatë periudhës zgjedhore në radiot, televizionet apo mediat audiovizive private, qofshin këto numerike, kabllore, analoge, satelitore apo të çdo lloj forme dhe mënyre të transmetimit të sinjalit. Reklamat politike të koalicioneve zgjedhore llogariten brenda kohës së partive politike anëtare të koalicionit, sipas marrëveshjes individuale të secilës parti me operatorin radioteleviziv. Reklama politike duhet të identifikojë qartë subjektin porositës. Në rast se reklama politike nuk është identifikur qartë, KQZ-ja urdhëron pezullimin e menjëhershëm të transmetimit të saj derisa të bëhet identifikimi i kërkuar nga kjo pikë.  
 
-5. Koha e përgjithshme e transmetimit të reklamave politike gjatë gjithë fushatës zgjedhore nga secila radio dhe televizion privat nuk mund të jetë më shumë se 90 minuta për secilën parti të regjistruar për zgjedhje. Operatorët radiotelevizivë në çdo rast zbatojnë tarifa të njëjta brenda të njëjtit segment kohor përgjatë gjithë kohës së fushatës. Operatorët radiotelevizivë detyrohen të dorëzojnë  5 ditë përpara fillimit të fushatës  tarifat për çdo segment kohor pranë KQZ-së. Tarifat publikohen në faqen zyrtare të internetit të Komisionit Qendror të Zgjedhjeve.
+5. Koha e përgjithshme e transmetimit të reklamave politike gjatë gjithë fushatës zgjedhore nga secila radio dhe televizion privat nuk mund të jetë më shumë se 90 minuta për secilën parti të regjistruar për zgjedhje. Koha e përgjithshme e transmetimit të reklamave politike për kandidatët e listës shumemërore, që i nënshtrohen votimit parapëlqyes të secilit subjekt zgjedhor, nga secila radio dhe televizion privat nuk mund të jetë më shumë se 140 minuta. Operatorët radiotelevizivë në çdo rast zbatojnë tarifa të njëjta brenda të njëjtit segment kohor përgjatë gjithë kohës së fushatës. Operatorët radiotelevizivë detyrohen të dorëzojnë 5 ditë përpara fillimit të fushatës tarifat për çdo segment kohor pranë KQZ-së. Tarifat publikohen në faqen zyrtare të internetit të Komisionit Qendror të Zgjedhjeve.
 
 6. Për zgjedhjet në Kuvend radiot dhe televizionet private kombëtare dhe satelitore, të cilat pranojnë reklama me pagesë, sipas këtij neni, detyrohen që gjysmën e kohës totale të reklamës së parashikuar në pikën 5 të këtij neni t’ua vënë në dispozicion falas subjekteve zgjedhore. Kostoja për vënien e kohës në dispozicion falas subjekteve zgjedhore nga ana e radiove dhe televizioneve private llogaritet si shpenzim i zbritshëm për efekte tatimore. Ngarkohen KQZ-ja, enti rregullator për mediat audiovizive dhe Ministri i Financave të nxjerrin udhëzimet përkatëse. 
 
@@ -1970,13 +1990,19 @@ Neni 92/2
 
 Regjistrimi i fondeve jopublike
 
+(Shtuar pika 3/1 dhe ndryshuar fjalia e parë e pikës 4 me ligjin nr. 10/2025, datë 17.2.2025)
+
 1. Çdo subjekt zgjedhor duhet të regjistrojë në një regjistër të posaçëm, miratuar si model me vendim të KQZ-së, shumën e fondeve të përfituara për çdo person fizik ose juridik, si dhe të dhëna të tjera që lidhen me identifikimin e qartë të dhuruesit, huadhënësit ose kredidhënësit. Në çastin e dhurimit, dhuruesi nënshkruan një deklaratë, ku zotohet se ai nuk ndodhet në një nga rrethanat e përcaktuara në nenin 92/1 të këtij ligji dhe mban përgjegjësi personale për deklarim të rremë. Forma dhe përmbajtja e deklaratës miratohet nga KQZ-ja dhe është e detyrueshme për t’u nënshkruar në çdo rast dhurimi.
 
 2. Dhurimi i fondeve jopublike me vlerë më të madhe se 50 mijë lekë duhet të bëhet vetëm në llogari të posaçme të hapura në banka nga subjekti zgjedhor. Llogaritë deklarohen në momentin e regjistrimit sipas nenit 64 të këtij ligji. Në formularin e deklarimit përfshihet edhe autorizimi për KQZ-në dhe të ngarkuarit e saj për të marrë drejtpërdrejt nga banka të dhëna për të gjitha transaksionet e llogarisë. Subjekti zgjedhor nuk mund të përdorë asnjë llogari tjetër bankare, përveç atyre të deklaruara, për pranimin e dhurimeve për fushatën zgjedhore, qoftë edhe për shuma më të vogla se 50 mijë lekë.
 
 3. Kandidatët e subjekteve zgjedhore, nëse planifikojnë të pranojnë dhurime për fushatën e tyre me vlerë më të madhe se 50 mijë lekë, janë të detyruar të hapin llogari bankare të posaçme për të pranuar dhurimin e fondeve jopublike. Llogaritë deklarohen në momentin e regjistrimit sipas nenit 67 të këtij ligji. Në formularin e deklarimit përfshihet edhe autorizimi për KQZ-në dhe të ngarkuarit e saj për të marrë drejtpërdrejt nga banka të dhëna për të gjitha transaksionet e llogarisë. Kandidati i subjektit zgjedhor nuk mund të përdorë asnjë llogari tjetër bankare, përveç atyre të deklaruara, për pranimin e dhurimeve për fushatën zgjedhore, qoftë edhe për shuma më të vogla se 50 mijë lekë.
 
-4. Shuma e shpenzimeve të bëra nga një subjekt zgjedhor, përfshirë kandidatët e tij, për një fushatë zgjedhore nuk duhet të jetë më shumë se 3 herë më e madhe se shuma më e lartë që ka marrë një subjekt zgjedhor nga fondet publike për qëllime zgjedhore, në përputhje me nenin 88 të këtij ligji. Çdo shpenzim i fushatës zgjedhore dokumentohet dhe zbatohet në përputhje me legjislacionin fiskal në fuqi. Në zbatim të këtij ligji “shpenzim fushate” është çdo shpenzim që bën një parti ose kandidatët e saj për qëllime të fushatës zgjedhore, pavarësisht datës se kur është bërë.
+3/1. Kandidatët e partisë politike ose koalicionit zgjedhor të regjistruar si subjekt zgjedhor kanë të drejtë të vetëfinancojnë fushatën e tyre deri në shumën 3 milionë lekë. Deklarimi i këtij vetëfinancimi paraqitet nga kandidati së bashku me raportin financiar të dorëzuar nga subjekti zgjedhor që i përket, sipas nenit 92/3 të këtij Kodi. Kandidati bën deklarimin sipas kësaj pike në përputhje me modelet e miratuara nga KQZ-ja. KQZ-ja miraton modelet e raportimit financiar të kandidatëve të subjekteve zgjedhore brenda 10 ditësh nga hyrja në fuqi e këtij ligji. Shkelja e përcaktimeve të bëra në këtë pikë nga kandidati i subjektit zgjedhor u nënshtrohet sanksioneve të parashikuara në nenin 173 të këtij Kodi.
+
+4. Shuma e shpenzimeve të bëra nga një subjekt zgjedhor, pa përfshirë kandidatët e tij, për fushatën zgjedhore, nuk duhet të jetë më shumë se 5 herë më e madhe se shuma më e lartë që ka marrë një subjekt zgjedhor nga fondet publike për qëllime zgjedhore, në përputhje me nenin 88 të këtij Kodi.
+
+Çdo shpenzim i fushatës zgjedhore dokumentohet dhe zbatohet në përputhje me legjislacionin fiskal në fuqi. Në zbatim të këtij ligji “shpenzim fushate” është çdo shpenzim që bën një parti ose kandidatët e saj për qëllime të fushatës zgjedhore, pavarësisht datës se kur është bërë.
 
 5. Detyrimet e parashikuara në këtë nen vlejnë edhe për kandidatët e propozuar nga zgjedhësit, të regjistruar sipas neneve 69 dhe 70 të këtij ligji. Shpenzimi total që mund të kryejë kandidati i propozuar nga zgjedhësit nuk duhet të kalojë 50 për qind të shumës më të madhe që një subjekt zgjedhor ka marrë nga fondet publike, sipas nenit 88 të këtij ligji.
 
