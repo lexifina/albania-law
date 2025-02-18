@@ -1,0 +1,2 @@
+12. Ngarkohet për zbatimin e këtij udhëzimi Sekretari i Përgjithshëm, Drejtoria e Përgjithshme e Zhvillimit të Arsimit Parauniversitar, Qendra e Shërbimeve Arsimore, Agjencia për Sigurimin e Cilësisë në Arsimin Parauniversitar, Agjencia Kombëtare e Arsimit Parauniversitar, Drejtoritë Rajonale të Arsimit Parauniversitar, zyrat vendore të arsimit parauniversitar dhe institucionet arsimore parauniversitare.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
