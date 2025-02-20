@@ -1,0 +1,28 @@
+{
+  "qbz_id": 29825,
+  "title": "Mbi licencimin e shoqërisë “MER Energji” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "29",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2025-02-03",
+  "published": "2025-02-20",
+  "in_force": "2025-02-20",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/fb4f4ddd629c4c31c7c607793a0d1e11094bc7788f7706b3362790a67e593521.docx",
+  "source_sha256": "fb4f4ddd629c4c31c7c607793a0d1e11094bc7788f7706b3362790a67e593521",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29825",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/02/03/29",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31604
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
