@@ -1,0 +1,28 @@
+{
+  "qbz_id": 29822,
+  "title": "Mbi licencimin e shoqërisë “Zenina” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "25",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2025-01-27",
+  "published": "2025-02-20",
+  "in_force": "2025-02-20",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/9971aaf736d5f7ba7b90347a5002ee2e976bbfe093b753f6a6eb2c6bff5323e4.docx",
+  "source_sha256": "9971aaf736d5f7ba7b90347a5002ee2e976bbfe093b753f6a6eb2c6bff5323e4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29822",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/01/27/25",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    32082
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
