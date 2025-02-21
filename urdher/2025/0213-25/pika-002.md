@@ -1,0 +1,1 @@
+2. Në ushtrimin e kompetencës së deleguar, z. Ami Kozeli, ndjek dhe zbaton procedurat dhe rregullat e parashikuara në vendimin e Këshillit të Ministrave nr. 1054, datë 22.10.2010, “Për miratimin e rregullores mbi pajisjet e regjistrimit në transportin rrugor”.
