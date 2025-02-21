@@ -1,0 +1,1 @@
+3. Vendimi nr. 612, datë 16.9.2014, i Këshillit të Ministrave, “Për riorganizimin e Ambasadës së Republikës së Shqipërisë në Mbretërinë e Belgjikës dhe të Misionit të Përhershëm të Republikës së Shqipërisë pranë Bashkimit Evropian”, shfuqizohet.
