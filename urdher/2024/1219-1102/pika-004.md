@@ -1,1 +1,0 @@
-4. Urdhri nr. 832, datë 21.10.2024, “Për disa masa mbrojtëse ndaj sëmundjes së gjuhës blu të shfaqur në shtetin e Zvicrës”, dhe urdhri nr. 978, datë 19.11.2024, “Për disa masa mbrojtëse ndaj sëmundjes së gjuhës blu të shfaqur në shtetin e Zvicrës”, shfuqizohet.
