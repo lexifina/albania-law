@@ -1,0 +1,1 @@
+3. Sekretari i Përgjithshëm ose personi i autorizuar prej tij, sipas pikës 2 të këtij urdhri, autorizohet për përgatitjen e parashtrimeve, pretendimeve përfundimtare, ankimeve, si dhe çdo veprim tjetër procedural të nevojshëm sipas legjislacionit në fuqi në kuadër të përfaqësimit të Kuvendit pranë Komisionerit Shtetëror të Zgjedhjeve dhe Komisionit të Ankimimeve dhe Sanksioneve.

@@ -1,0 +1,1 @@
+1. Sekretari i Përgjithshëm i Kuvendit të Republikës së Shqipërisë është autoriteti të cilit i delegohet kompetenca e përfaqësimit të Kuvendit pranë Komisionerit Shtetëror të Zgjedhjeve dhe Komisionit të Ankimimeve dhe Sanksioneve.

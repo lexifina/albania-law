@@ -1,0 +1,1 @@
+2. Përfaqësimi pranë Komisionerit Shtetëror të Zgjedhjeve dhe Komisionit të Ankimimeve dhe Sanksioneve bëhet nga vetë Sekretari i Përgjithshëm i Kuvendit ose, rast pas rasti, nga punonjës të administratës së Kuvendit të përcaktuar në autorizimin e lëshuar prej Sekretarit të Përgjithshëm të Kuvendit.
