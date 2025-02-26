@@ -1,1 +1,0 @@
-2. Ngarkohet Drejtoria e Politikave dhe Programeve të Peshkimit dhe Akuakulturës, për zbatimin e pikave 1-10, 12-29, 33-34, 36-60, 61-73, 76, 80-91, 93, 95-109, 111-129, 131-139, 140-194, 196-206, 207-218, 226-228, 235-236, si dhe shtojcat 1-2, 5 dhe 8-13, të rekomandimit 22-08 të ICCAT-it.
