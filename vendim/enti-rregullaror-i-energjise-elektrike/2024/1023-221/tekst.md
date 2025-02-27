@@ -4,6 +4,10 @@ Nr. 221, datë 23.10.2024
 
 		MBI KËRKESËN E SHOQËRISË “ALBESP TRADING & CONSULTING” SHPK, PËR DHËNIEN E AUTORIZIMIT NGA ERE PËR NDRYSHIMIN E ORTAKUT QË KONTROLLON INTERESAT E SAJ
 
+(Ndryshuar me vendimin nr. 46, datë 27.2.2025)
+
+(i përditësuar)
+
 		Në mbështetje të nenit 16, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; neneve 5, 7 dhe 10 të “Rregullores për procedurat dhe afatet për dhënien e autorizimit nga ERE për ndryshimin e statusit ligjor të të licencuarit, ndryshimin e ortakut/aksionarit që kontrollon interesat e të licencuarit dhe vendosjen e kuotave/aksioneve të ortakut/aksionarit që kontrollon interesat e të licencuarit si mjete për garantimin e përmbushjes së detyrimit/eve ndaj të tretëve, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 235, datë 26.11.2021; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 23.10.2024, mbasi shqyrtoi relacionin me nr. 1628/8 prot., datë 21.10.2024, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë “AlbEsp Trading & Consulting” sh.p.k. për dhënien e autorizimit nga ERE për ndryshimin e ortakut që kontrollon interesat e saj”,
 
 konstatoi se: 
@@ -38,11 +42,11 @@ VENDOSI:
 
 3. Dhënia e autorizimit nga ERE, për ndryshimin e ortakut që kontrollon interesat e shoqërisë “AlbEsp Trading & Consulting” sh.p.k., nuk e çliron këtë të fundit nga detyrimi për të marrë autorizimin/miratimin e organeve të tjera apo të palëve të treta për këtë ndryshim, në rast se kjo kërkohet nga këto organe.
 
-4. Shoqëria duhet të depozitojë në ERE marrëveshjen/kontratën për shitblerjen e kuotave brenda datës 31.12.2024. 
+4. Shfuqizuar.
 
-5. Shoqëria duhet të depozitojë në ERE ekstraktin historik të regjistrit tregtar brenda 10 (dhjetë) ditëve nga reflektimi në të i ndryshimit të ortakut që kontrollon interesat e saj. 
+5. Shfuqizuar.
 
-6. Ky vendim është objekt rishikimi nga ERE.
+6. Shfuqizuar.
 
 7. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “AlbEsp Trading & Consulting” sh.p.k. për vendimin e Bordit të ERE-s.
 
