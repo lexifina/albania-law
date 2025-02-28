@@ -2,8 +2,11 @@
 Dosja e kandidatit
 1. Në dosje, kandidati plotëson të dhënat e tij të zhvillimit profesional dhe ngarkon dokumentet e mëposhtme në sistemin elektronik përkatës, të cilat konfirmohen nga drejtori i institucionit arsimor dhe/ose njësia arsimore vendore, përgjegjëse për arsimin parauniversitar:
 a) Licencë për ushtrimin e profesionit të mësuesit, në profilin përkatës.
-Mësuesit që janë përjashtuar nga detyrimi i provimit të shtetit, ngarkojnë diplomë në fushën e mësuesisë ose diploma të arsimit të lartë të ciklit të parë dhe të dytë ose të barasvlershme me to, të ngjashme ose të përafërta me fushën përkatëse të mësimdhënies në arsimin parauniversitar, përfshirë edhe diplomat e kandidatëve që japin lëndët e muzikës, të arteve pamore, kërcimit dhe edukimi fizik.
-Mësuesit ngarkojnë edhe diplomën për fitimin e gradës shkencore “Doktor” në fushën e edukimit, e drejtimit të arsimit dhe/ose që lidhet me profilin përkatës (nëse ka).
+Mësuesit që janë përjashtuar nga detyrimi i provimit të shtetit, ngarkojnë diplomë në fushën e mësuesisë ose diploma të arsimit të lartë të ciklit të parë dhe të dytë ose të barasvlershme me to, të ngjashme ose të përafërta me fushën përkatëse të mësimdhënies në arsimin parauniversitar, përfshirë edhe diplomat e kandidatëve që japin lëndët e muzikës, të arteve pamore, kërcimit dhe edukimit fizik.
+Mësuesit nëse kanë, ngarkojnë edhe:
+i. Diplomë të ciklit të dytë master me 60-120 kredite, e cila nuk është diplomë që vlen si kriter arsimimi për profesionin e mësuesit;
+ii. Diplomë të ciklit të tretë “Master ekzekutiv” ose të barasvlershme me to me 60-120 kredite;
+iii. Diplomë për fitimin e gradës shkencore “Doktor” në fushën e edukimit, e drejtimit të arsimit dhe/ose që lidhet me profilin përkatës.
 b) Certifikatat me kreditet përkatëse të vlefshme.
 c) Dëshmi të mbrojtjes së gjuhëve të huaja (nëse ka). Gjuha e huaj e mbrojtur në Fakultetin e Gjuhëve të Huaja të Universitetit të Tiranës ose në testime ndërkombëtare, të njohura sipas legjislacionit në fuqi.
 ç) Vlerësimi i fundit i drejtorit të shkollës.

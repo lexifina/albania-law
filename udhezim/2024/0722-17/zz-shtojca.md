@@ -37,11 +37,14 @@ FORMATI I INSTRUMENTIT PËR VLERËSIMIN E ORËS SË HAPUR MËSIMORE “MËSUES I
 | |Demonstrimi i tyre | | | |
 | |(20 pikë) | | | |
 | |Kandidati mësues | |
-|b) |Diplomë: për ciklin e tretë të studimeve “Master ekzekutiv” ose ekuivalentë me të në fushën e edukimit (nëse ka)” : 5 |5-10 pikë |
-| |pikë. | |
-| |Diplomë: për fitimin e gradës shkencore “Doktor” në fushën e edukimit, e drejtimit të arsimit dhe/ose që lidhet me | |
-| |profilin përkatës (nëse ka)”: 10 pikë. | |
-|c) |Pikët e krediteve: |2-10 pikë |
+|b) |Diplomë: Diplomë e ciklit të dytë master me 60-120 kredite ECTS, diplomat e ciklit të tretë “Master ekzekutiv” ose të |8-10 pikë|
+| |barasvlershme me to me 60-120 kredite ECTS, doktoratë të fituar në fushën e edukimit, të drejtimit të arsimit dhe/ose që | |
+| |lidhet me profilin përkatës. | |
+| |Kjo lloj diplome nuk përfiton pikë shtesë nëse vlen si kriter shkollimi për profesionin e mësuesit. | |
+| |1. Diploma me 60-90 kredite, vlerësohen me 8 pikë. | |
+| |2. Diploma me 120 kredite, vlerësohen me 9 pikë. | |
+| |3. Doktoraturë, vlerësohet me 10 pikë. | |
+|c) |Pikët e krediteve: |2-10 pikë|
 | |a) të paktën 50% e krediteve të ZHVP-së duhet të jenë të lidhura me fushën e profilit që mbulon: 2 pikë | |
 | |b) mbi 50% e krediteve të ZHVP-së duhet të jenë të lidhura me fushën e profilit që mbulon: 3 pikë | |
 | |c) të paktën 70% e krediteve të ZHVP-së duhet të jenë në aktivitete të drejtpërdrejta: 2 pikë | |
