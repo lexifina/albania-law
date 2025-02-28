@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikualifikimi i hyrjes së qytetit të Shkodrës dhe bregut perëndimor të liqenit të Shkodrës”, Bashkia Shkodër.

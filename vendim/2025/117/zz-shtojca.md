@@ -1,0 +1,505 @@
+# Shtojca
+LISTA EMËRORE E PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, TË CILËT SHPRONËSOHEN PËR INTERES PUBLIK, NGA REALIZIMI I PROJEKTIT “RIKUALIFIKIMI I HYRJES SË QYTETIT TË SHKODRËS DHE BREGUT PERËNDIMOR TË LIQENIT TË SHKODRËS”, BASHKIA SHKODËR
+Nr. rendor
+Pronari
+Të dhënat kadastrale (sipas kartelës së pasurisë)
+VLERËSIMET PËR SHPRONËSIM
+Vlera totale (lekë)
+Shënime (kufizime hipotekore, barrë mbi pasurinë etj.)
+Livadh
+Truall
+Ndërtesë social-ekonomike, vlerësuar me preventiv punimesh
+Ndërtesë banimi
+Emri
+Atësia
+Mbiemri
+Qyteti
+Zona kadastrale
+Indeksi i hartës
+Nr. i pasurisë
+Lloji i pasurisë
+Sipërfaqja totale (m2)
+Volumi
+Faqe
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+1
+LUANI-A sh.p.k.
+Shkodër
+8591
+U-3
+18/773
+Truall
+275
+54
+26
+275
+8511
+2,340,525
+0
+0
+-
+2,340,525
+2
+LUANI-A sh.p.k..
+Shkodër
+8591
+U-3
+18/771
+Truall
+360
+54
+28
+360
+8511
+3,063,960
+0
+0
+-
+3,063,960
+3
+LUANI-A sh.p.k..
+Shkodër
+8591
+U-3
+18/769
+Truall
+63
+54
+30
+63
+8511
+536,193
+0
+0
+-
+536,193
+4
+LUANI-A sh.p.k..
+Shkodër
+8591
+U-3
+18/764
+Truall
+102
+51
+224
+102
+8511
+868,122
+0
+0
+-
+868,122
+5
+LUANI-A sh.p.k..
+Shkodër
+8591
+T-3
+18/669
+Truall+ ndërtesë
+3500
+38
+195
+3500
+8511
+29,788,500
+1975
+0
+52,111,766
+81,900,266
+6
+LUANI-A sh.p.k..
+Shkodër
+8591
+T-3
+18/731
+Truall
+1270
+47
+132
+1270
+8511
+10,808,970
+0
+0
+-
+10,808,970
+7
+IZET
+BRAHIM
+SHEQI
+Shkodër
+8591
+T-3
+18/714
+Truall+ ndërtesë
+1350
+24
+18
+1350
+8511
+11,489,850
+937.3
+0
+28,871,529
+233.93
+58013
+13,570,981
+53,932,360
+8
+GEZIM
+FAIK
+BALA
+Shkodër
+8591
+S-4
+18/85
+Truall
+700
+15
+36
+700
+8511
+5,957,700
+0
+0
+-
+5,957,700
+9
+GEZIM
+FAIK
+BALA
+Shkodër
+8591
+S-4
+18/86
+Truall
+700
+15
+37
+700
+8511
+5,957,700
+0
+0
+-
+5,957,700
+10
+MUHARREM
+SHKJAU
+Shkodër
+8591
+S-4
+18/108
+Truall + ndërtesë
+1450
+19
+183
+1450
+8511
+12,340,950
+288
+0
+8,213,907
+20,554,857
+11
+GEZIM
+ABAZI
+Shkodër
+8591
+S-4
+18/808
+Truall
+693
+61
+109
+693
+8511
+5,898,123
+0
+0
+-
+5,898,123
+12
+HASIJE XHEMAL SADET YMER MIHAMET HAXHI ALI ISA EQEREM
+IDRIZ BAJRAM BAJRAM BAJRAM BAJRAM BAJRAM BAJRAM BAJRAM BAJRAM
+KADRIJA KADRIJA KADRIJA KADRIJA KADRIJA KADRIJA KADRIJA KADRIJA KADRIJA
+Shkodër
+8591
+S-4
+18/806
+Truall
+1882
+61
+113
+1882
+8511
+16,017,702
+0
+0
+-
+16,017,702
+13
+BILAL
+FASLI
+MEHAJ
+Shkodër
+8591
+R-4
+18/708/ND
+Ndërtesë
+80
+40
+15
+80
+8511
+680,880
+103.04
+0
+3,364,055
+4,044,935
+14
+PRANVERA
+MUHAMER
+MESHNUNI
+Shkodër
+8591
+R-4
+18/44
+Truall+ ndërtesë
+240
+17
+212
+240
+8511
+2,042,640
+240
+0
+2,407,671
+4,450,311
+15
+TEREZINA
+ZEF
+GEGA
+Shkodër
+8591
+Q-5
+10/123
+Truall
+10500
+37
+127
+10500
+8511
+89,365,500
+0
+0
+-
+89,365,500
+16
+MERZUK
+LUSHA
+Shkodër
+8591
+S-4
+18/695
+Ndërtesë
+360
+37
+144
+0
+8511
+-
+302
+0
+7,555,309
+7,555,309
+17
+FIRDEUS
+FUAT
+GOLEMI
+Shkodër
+8591
+S-4
+18/41ND
+Ndërtesë
+250
+62
+239
+0
+8511
+-
+248
+0
+5,629,025
+5,629,025
+18
+VIRGJINIA
+NIKOLL
+CAFI
+Shkodër
+8591
+R-4
+18/700N
+Ndërtesë
+56
+39
+222
+0
+0
+-
+56
+0
+1,353,991
+1,353,991
+Leje ndërtimi. Hipotekohet në favor të Shoqërisë “Nopi” sh.a.
+19
+FERIT
+JONUZ
+ALIJA
+Shkodër
+8591
+R-4
+18/786
+Truall+ ndërtesë
+245
+57
+109
+245
+8511
+2,085,195
+89
+0
+1,783,359
+3,868,554
+20
+FERIT
+JONUZ
+ALIJA
+Shkodër
+8591
+R-4
+18/787
+Truall+ ndërtesë
+200
+57
+110
+200
+8511
+1,702,200
+59.2
+0
+1,807,689
+3,509,889
+21
+FATMIR
+MUÇA
+Shkodër
+8591
+R-4
+18/71
+Truall
+11200
+14
+194
+7770
+8511
+66,130,470
+0
+0
+-
+66,130,470
+Shënim. Ka VKM shpronësimi nr. 725/2020, për 3430 m2. Sipërfaqja e kërkuar për shpronësim nuk mbivendoset me pjesën e shpronësimit me VKM-n e sipërcituar.
+22
+KYDRETE FRIDA IDRIZ ARSHI AGIM ANILA RITVAN NIRVANA MELIHA KYTBI EHADU BEHAR VALBONA VALDETE BAFTJAR SOKOL ARDITA MIMOZA
+KASEM KASEM ELJAZ ELJAZ SHUAJP SHUAJP HASAN HASAN QAMIL RAGIP RAGIP TAHIR RAGIP TAHIR TAHIR RASIM RASIM RAGIP
+LOPÇI ULQINAKU TROSHANI TROSHANI TROSHANI TROSHANII TROSHANI TROSHANI TROSHANI TROSHANI MERSINI PUKA VILA LESHA PUKA KRAJA KRAJA KRAJA
+Shkodër
+8591
+P-5
+4/1122
+Truall
+765
+61
+105
+488
+8511
+4,153,368
+0
+0
+-
+4,153,368
+23
+KYDRETE FRIDA IDRIZ ARSHI AGIM ANILA RITVAN NIRVANA MELIHA KYTBI EHADU BEHAR VALBONA VALDETE BAFTJAR SOKOL ARDITA MIMOZA
+KASEM KASEM ELJAZ ELJAZ SHUAJP SHUAJP HASAN HASAN QAMIL RAGIP RAGIP TAHIR RAGIP TAHIR TAHIR RASIM RASIM RAGIP
+LOPÇI ULQINAKU TROSHANI TROSHANI TROSHANI TROSHANI TROSHANI TROSHANI TROSHANI TROSHANI MERSINI PUKA VILA LESHA PUKA KRAJA KRAJA KRAJA
+Shkodër
+8591
+P-5
+4/1121
+Truall
+460
+61
+104
+244
+8511
+2,076,684
+0
+0
+-
+2,076,684
+24
+ABDYL ARDIAN BAHRI INDIRA MAKBULE MIMOZA MIRJAM NERMIN RIZA SHKENDI SHPRESA THABIT
+Rusi Rusi Rusi Rusi Rusi Rusi Rusi Rusi Rusi Rusi Rusi
+Shkodër
+8591
+0-5, P-5
+4/1027
+Livadh
+7000
+54
+33
+3810
+117
+445,770
+0
+0
+-
+445,770
+25
+MYFTINIA SHKODER
+Shkodër
+8591
+O-5, P-5
+4/157
+Truall
+4300
+16
+145
+233
+8511
+1,983,063
+0
+-
+1,983,063
+Shënim. Korrigjim hartografik, ka VKM shpronësimi nr. 725/2020, për 2428 m2. Sipërfaqja e kërkuar për shpronësim nuk mbivendoset me sipërfaqen e shpronësimit me VKM-n e sipërcituar.
+Vlera totale e shpronësimit
+3810
+445,770
+32,112
+275,288,295
+4297.54
+113,098,301
+13,570,981
+402,403,347
