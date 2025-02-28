@@ -2,7 +2,7 @@
 RREGULLAT E HOLLËSISHME
 PËR ZHVILLIMIN E AKTIVITETEVE TURISTIKE DETARE
 I. PËRCAKTIMI I RREGULLAVE PËR USHTRIMIN E AKTIVITETIT TË LUNDRIMIT PËR ZBAVITJE
-1. Dispozitat e këtij kreu zbatohen për ushtrimin e aktivitetit të lundrimit për zbavitje me mjete lundruese turistike nga operatorët e turizmit detar, që mund të jenë persona fizikë apo juridikë, vendës e të huaj, të licencuar si “Operator turistik”, me kodin XIII.1.B, dhe të certifikuar nga ministria përgjegjëse për turizmin, në vijim, operator i turizmit detar, si dhe nga individët vendës e të huaj, që lundrojnë në vijën bregdetare, në hapësirën detare dhe në ujërat e brendshme të Republikës së Shqipërisë, për qëllime turistike dhe argëtim, private apo tregtare përkundrejt një kontrate qiraje me/pa ekuipazh, përfshirë dhe ofrimin e shërbimeve të akomodimit, pijeve dhe të ushqimit për klientët në bord.
+1. Dispozitat e këtij kreu zbatohen për ushtrimin e aktivitetit të lundrimit për zbavitje me mjete lundruese turistike nga operatorët e turizmit detar, që mund të jenë persona fizikë apo juridikë, vendës e të huaj, të certifikuar nga ministria përgjegjëse për turizmin, në vijim, operator i turizmit detar, si dhe nga individët vendës e të huaj, që lundrojnë në vijën bregdetare, në hapësirën detare dhe në ujërat e brendshme të Republikës së Shqipërisë, për qëllime turistike dhe argëtim, private apo tregtare përkundrejt një kontrate qiraje me/pa ekuipazh, përfshirë dhe ofrimin e shërbimeve të akomodimit, pijeve dhe të ushqimit për klientët në bord.
 2. Mjetet lundruese turistike konsiderohen se përdoren për qëllime tregtare, në këto raste:
 a) kur kryejnë lundrime turistike me pasagjerë nga një port në një destinacion turistik për qëllime argëtimi;
 b) kur janë objekt i kontratave të qirasë;
@@ -28,7 +28,7 @@ d) të ketë një policë sigurimi të përgjegjësisë ndaj palëve të treta q
 dh) për mjetet mbi 12 (dymbëdhjetë) pasagjerë, të ketë paraprakisht raportin e inspektimit nga Kontrolli Shtetëror i Flamurit.
 8. Përveç kushteve, sipas pikës 7 të këtij kreu, një anije me flamur të huaj nuk duhet të ketë tejkaluar afatin prej 18 (tetëmbëdhjetë) muajsh që nga njoftimi në hyrje i Kapitenarisë së Porteve për përdorimin e regjimit të përkohshëm.
 9. Nëse në vendin e përkatësisë nuk është i parashikuar detyrimi për të regjistruar qëllimin e një mjeti lundrues, për mjete lundruese me të njëjtat karakteristika teknike të zbatohen parashikimet e pikës 7 të këtij kreu.
-10. Kontrata e qirasë së mjetit lundrues turistik është kontrata me të cilën njëra prej palëve detyrohet të japë në përdorim mjetin, për qëllime turistike (argëtimi), për një periudhë të caktuar kohore. Këto kontrata lidhen vetëm kur njëra nga palët është operator turistik detar i licencuar me licencën me kodin XIII.1.B si “Operator turistik” dhe i certifikuar në Republikën e Shqipërisë, sipas legjislacionit në fuqi për aktivitetet e turizmit detar.
+10. Kontrata e qirasë së mjetit lundrues turistik është kontrata me të cilën njëra prej palëve detyrohet të japë në përdorim mjetin, për qëllime turistike (argëtimi), për një periudhë të caktuar kohore. Këto kontrata lidhen vetëm kur njëra nga palët është operator turistik detar i certifikuar në Republikën e Shqipërisë, sipas legjislacionit në fuqi për aktivitetet e turizmit detar.
 11. Kontratat e qirasë janë:
 a) kontrata “Bareboat”, sipas së cilës njëra nga palët merr përsipër t’i dorëzojë palës tjetër mjetin lundrues për një periudhë të caktuar kohe, kundrejt pagesës së një tarife, pa ekuipazh. Kjo kontratë hartohet me shkrim, nënshkruhet nga palët e kopja origjinale ose një kopje e njësuar me origjinalin mbahet në bord;
 b) kontrata “Çarter me kohë”, me të cilën njëra palë merr përsipër të vërë në dispozicion të palës tjetër mjetin lundrues për një periudhë të caktuar kohore, kundrejt një pagese të caktuar, përfshirë kapitenin e ekuipazhin. Kjo kontratë hartohet me shkrim dhe kopja origjinale ose një kopje e njësuar me origjinalin mbahet në bord.
@@ -89,7 +89,7 @@ i) “Gaz frymëmarrjeje”, përzierje e gazeve inerte me oksigjenin, që do t�
 a) zhytjen e organizuar e të shoqëruar për zhytësit;
 b) dhënien me qira të pajisjeve të zhytjes nënujore;
 c) furnizimin e zhytësve me gaz për frymëmarrje.
-4. Ushtrimi i aktivitetit të zhytjes çlodhëse kryhet vetëm nga operatori i turizmit detar, i licencuar si operator turistik me licencën me kodin XIII.1.B “Operator turistik”, dhe i certifikuar nga ministri përgjegjës për turizmin. Ai duhet:
+4. Ushtrimi i aktivitetit të zhytjes çlodhëse kryhet vetëm nga operatori i turizmit detar, i certifikuar nga ministri përgjegjës për turizmin. Ai duhet:
 a) të ushtrojë aktivitetin e tij në vende të lejuara, sipas zonave të publikuara nga ministria përgjegjëse për turizmin;
 b) të ketë policë sigurimi, që mbulon përgjegjësinë ndaj palëve të treta, sipas legjislacionit për turizmin;
 c) të ketë një kontratë punësimi ose kontratë shërbimi me një drejtues zhytjeje të certifikuar si udhërrëfyes turistik i interesit të veçantë “zhytje”, sipas legjislacionit në fuqi.
@@ -110,7 +110,7 @@ iv. kopje e aprovimit për të marrë pjesë në aktivitetet e zhytjes nga prind
 e) administrimin e ruajtjen e të dhënave për jo më pak se 1 (një) vit nga organizimi, për çdo zhytje në mjedis ujor të kufizuar ose të hapur, duke përfshirë emrat e klientëve, personelin/anëtarët e qendrës që asistojnë klientët, vendin e zhytjes, datën, kohën e hyrjes e të daljes, thellësinë, gazin e përdorur, kushtet e erës dhe të detit. Ky dokument mund të përdoret si një pjesë e vlerësimit të rrezikut;
 ë) administrimin dhe ruajtjen e të dhënave për klientët që kanë lidhur kontratë qiraje për pajisjet, të paktën për një periudhë prej 30 (tridhjetë) ditësh.
 6. Të gjithë klientëve, para ofrimit të shërbimeve të zhytjes çlodhëse, duhet t’u jepet detyrimisht informacioni i mëposhtëm:
-a) licenca si operator turistik, certifikata si operator i turizmit detar për ushtrimin e aktivitetit të zhytjes çlodhëse;
+a) certifikata si operator i turizmit detar për ushtrimin e aktivitetit të zhytjes çlodhëse;
 b) parakushtet e kërkesat thelbësore që duhet të përmbushë klienti, me qëllim që të përftohet shërbimi (aneksi A);
 c) tarifat e polica e sigurimit që disponon qendra në rast aksidentesh;
 ç) informacion për mjedisin ku do të kryhen zhytjet, legjislacionin në lidhje me zhytjet e kërkesat ligjore lidhur me llojin specifik të shërbimit.
@@ -243,7 +243,7 @@ III. PËRCAKTIMI I RREGULLAVE PËR USHTRIMIN E AKTIVITETIT TË KITESURFING-ut
 2. Operatori i turizmit detar ofron shërbimet e mëposhtme:
 a) ture kitesurfing të organizuara për një ose më shumë persona;
 b) dhënien me qira të pajisjeve për organizimin e tureve kitesurfing.
-3. Ushtrimi i aktivitetit të kitesurfing-ut kryhet vetëm nga operatori i turizmit detar, i licencuar si operator turistik me licencën me kodin XIII.1.B “Operator turistik”, dhe i certifikuar nga ministri përgjegjës për turizmin. Ai duhet të ushtrojë aktivitetin e tij brenda zonës së miratuar për ushtrimin e veprimtarisë së operatorit të turizmit detar nga ministri përgjegjës për turizmin.
+3. Ushtrimi i aktivitetit të kitesurfing-ut kryhet vetëm nga operatori i turizmit detar, i certifikuar nga ministri përgjegjës për turizmin. Ai duhet të ushtrojë aktivitetin e tij brenda zonës së miratuar për ushtrimin e veprimtarisë së operatorit të turizmit detar nga ministri përgjegjës për turizmin.
 4. Operatori i turizmit detar të sigurojë që klientët e tij para se të nisin rrëshqitjen në ujë në kuadër të aktivitetit të kitesurfing-ut, të kenë marrë dijeni, të njohin e të familjarizohen me procedurat e vetëshpëtimit, si:
 a) duke siguruar sa më shumë që të jetë e mundur shtensionimin e litarëve. Kjo zakonisht do të përfshijë heqjen e të gjithë tensionit nga dy litarët drejtues. Shtensionimi nënkupton zakonisht lëshimin e shiritit të personit që rrëshqet në ujë ose aktivizimin e një mekanizmi shtensionues;
 b) duke lidhur litarët lirshëm, për t’u siguruar që tensioni mbetet jashtë litarëve të pasmë e duke lidhur litarin drejtues të mesit mbi shiritin;
@@ -288,7 +288,7 @@ IV. PËRCAKTIMI I RREGULLAVE PËR USHTRIMIN E AKTIVITETIT WINDSURFING
 2. Operatori i turizmit detar ofron shërbimet e mëposhtme:
 a) ture windsurfing të organizuara për një ose më shumë persona;
 b) dhënie me qira të pajisjeve për organizimin e tureve windsurfing.
-3. Ushtrimi i aktivitetit windsurfing kryhet vetëm nga operatori i turizmit detar, licencuar si operator turistik me licencën me kodin XIII.1.B “Operator turistik”, dhe i certifikuar nga ministri përgjegjës për turizmin. Ai duhet të ushtrojë aktivitetin e tij në vende të lejuara, sipas zonave të publikuara nga ministria përgjegjëse për turizmin.
+3. Ushtrimi i aktivitetit windsurfing kryhet vetëm nga operatori i turizmit detar, i certifikuar nga ministri përgjegjës për turizmin. Ai duhet të ushtrojë aktivitetin e tij në vende të lejuara, sipas zonave të publikuara nga ministria përgjegjëse për turizmin.
 4. Operatori i turizmit detar të sigurojë që klientët e tij, para se të nisin rrëshqitjen në ujë, në kuadër të aktivitetit të windsurfing-ut, të kenë marrë dijeni, të njohin dhe të familjarizohen me procedurat e vetëshpëtimit, që përfshijnë:
 a) kontrollin e pajisjeve që do të përdoren para nisjes së lundrimit, pasi dëmtimi i tyre mund të sjellë aksidente dhe të rezultojë me pasoja të mundshme:
 i. bordi rrëshqitës duhet të kontrollohet për krisje të mundshme;
@@ -333,7 +333,7 @@ b) të njoftojë për ndihmë, pa pritur që dikush ta dallojë. Sinjali duhet t
 V. PËRCAKTIMI I RREGULLAVE PËR USHTRIMIN E AKTIVITETIT ME MOTOR UJI (JET SKI)
 1. Rregullave të parashikuara në këtë krye u nënshtrohen të gjithë personat fizikë/juridikë që janë certifikuar si operatorë të turizmit detar, që ushtrojnë aktivitetin e lundrimit me motor uji (jet ski) për qëllime tregtare në territorin e Republikës së Shqipërisë dhe personat që ushtrojnë individualisht për kënaqësi, për të maksimizuar sigurinë gjatë ushtrimit të këtij aktiviteti.
 2. Operatori i turizmit detar ofron ture me motor uji (jet ski) të organizuara për një ose më shumë persona nëpërmjet dhënies me qera të pajisjeve motor uji.
-3. Ushtrimi i aktivitetit të lundrimit me motor uji kryhet vetëm nga operatori i turizmit detar, i licencuar si operator turistik me licencën me kodin XIII.1.B “Operator turistik”, dhe i certifikuar nga ministri përgjegjës për turizmin dhe:
+3. Ushtrimi i aktivitetit të lundrimit me motor uji kryhet vetëm nga operatori i turizmit detar, i certifikuar nga ministri përgjegjës për turizmin dhe:
 a) aktiviteti duhet të ushtrohet brenda zonës së miratuar për ushtrimin e veprimtarisë së operatorit të turizmit detar nga ministri përgjegjës për turizmin;
 b) mjetet në përdorim të tij duhet të jenë të siguruara pranë shoqërive të sigurimit, në përputhje me kuadrin ligjor që rregullon sigurimin e detyrueshëm të mjeteve të lundrimit.
 4. Operatori i turizmit detar, për të ushtruar aktivitetin e lundrimit me motor uji, paraprakisht duhet të zbatojë kriteret e mëposhtme:
@@ -395,11 +395,11 @@ a) të nisë lëvizjen e mjetit lundrues vetëm pas sinjalit aprovues të person
 b) të mos ndërmarrë manovra të forta për të mënjanuar humbjen e kontrollit nga personi që rrëshqet mbi ujë;
 c) të mos marrë në bordin e mjetit lundrues personin që rrëshqet mbi ujë, pa fikur më parë motorin e mjetit lundrues.
 VII. RREGULLORE PËR USHTRIMIN E AKTIVITETEVE TË RAFTING, KAYAKE DHE KANOE, NË LUMENJ DHE NË UJËRAT E BRENDSHME
-1. Rregullave të parashikuara në këtë krye u nënshtrohen të gjithë personat fizikë/juridikë që janë licencuar e certifikuar si operatorë të turizmit detar, që ushtrojnë aktivitetet rafting, kayake dhe kanoe për qëllime tregtare në territorin e Republikës së Shqipërisë dhe personat që ushtrojnë individualisht për kënaqësi, për të maksimizuar sigurinë gjatë ushtrimit të këtij aktiviteti.
+1. Rregullave të parashikuara në këtë krye u nënshtrohen të gjithë personat fizikë/juridikë që janë certifikuar si operatorë të turizmit detar, që ushtrojnë aktivitetet rafting, kayake dhe kanoe për qëllime tregtare në territorin e Republikës së Shqipërisë dhe personat që ushtrojnë individualisht për kënaqësi, për të maksimizuar sigurinë gjatë ushtrimit të këtij aktiviteti.
 2. Operatori i turizmit detar ofron shërbimet e mëposhtme:
 a) ture rafting, kayake dhe kanoe me mjetet lundruese për një ose më shumë persona;
 b) dhënie me qira e mjeteve dhe të pajisjeve për ushtrimin e aktiviteteve kayake dhe kanoe.
-3. Ushtrimi i aktiviteteve rafting, kayake dhe kanoe kryhet vetëm nga operatori i turizmit detar, licencuar si operator turistik me licencën me kodin XIII.1.B “Operator turistik” dhe i certifikuar nga ministri përgjegjës për turizmin. Ai duhet të ushtrojë aktivitetin e tij brenda zonës së miratuar për ushtrimin e veprimtarisë së operatorit të turizmit detar nga ministri përgjegjës për turizmin.
+3. Ushtrimi i aktiviteteve rafting, kayake dhe kanoe kryhet vetëm nga operatori i turizmit detar, i certifikuar nga ministri përgjegjës për turizmin. Ai duhet të ushtrojë aktivitetin e tij brenda zonës së miratuar për ushtrimin e veprimtarisë së operatorit të turizmit detar nga ministri përgjegjës për turizmin.
 4. Rafting-u, për shkak të varësisë nga prurjet e ujit e të nivelit të tyre realizohet në përputhje me regjimin vjetor të tyre.
 5. Shërbimet e rafting-ut duhet të jenë gjithmonë të planifikuara mirë, të organizuara, të shoqëruara me personel të trajnuar e me të gjitha elementet e nevojshme për të siguruar një praktikim të sigurt të lundrimit dhe të mbrojtjes së mjedisit.
 6. Ofruesi shërbimeve të rafting-ut duhet:
