@@ -1,0 +1,1 @@
+1. Miratimin e tavaneve përgatitore të shpenzimeve të Programit Buxhetor Afatmesëm 2026-2028, sipas lidhjes nr. 1 “Tavanet e ministrive dhe institucioneve buxhetore”, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
