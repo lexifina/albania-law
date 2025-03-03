@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Rikualifikimi i hyrjes së qytetit të Shkodrës dhe bregut perëndimor të liqenit të Shkodrës, Muzeu i Navigimit”.
