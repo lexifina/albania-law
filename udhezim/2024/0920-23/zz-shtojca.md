@@ -55,34 +55,49 @@ Zbulimi i infeksionit të fshehtë (latente) do të kryhet në mostrat e përbë
 4.3 Mostrat nga bimët e specifikuara simptomatike
 Seksionet e indeve duhet të hiqen në mënyrë aseptike nga unaza vaskulare në një zhardhok ose nga enët vaskulare në kërcellin e bimëve të specifikuara që shfaqin simptoma të tharjes. Procedura e përshtatshme laboratorike për përpunimin e këtyre indeve, për të marrë ekstraktin, për zbulimin e dëmtuesit të specifikuar, është përshkruar me detaje të plota në standardet ndërkombëtare të diagnostikimit.
 ANEKSI II
-Formati i vrojtimit, referuar në pikën 3, të nenit 3
-Formati për paraqitjen e rezultateve të vrojtimit të kalbëzimit unazor për vjeljen e patates, të vitit kalendarik paraardhës.
-Kjo tabelë do të përdoret vetëm për rezultatet e anketës për patatet e vjelura në vend.
+Formati i vrojtimit referuar në pikën 3 të nenit 3
+Formati për paraqitjen e rezultateve të vrojtimeve të kalbëzimit unazor të kryera gjatë vitit kalendarik që i paraprin vitit të raportimit.
+Rajoni
 Kategoria
 Zona e mbjelljes (ha)
-Testimi laboratorik
-Inspektimi vizual i zhardhokëve (1)
-Inspektimet vizuale të kulture në rritje (1)
-Informacioni tjetër
-Numri i mostrave
-Numri i loteve
-Madhësia e lotet (në t ose ha)
-Periudha e mostrimit
-Jo pozitive
-Numri i mostrave të inspektuara
-Madhësia e mostrës
-Nr. i mostrave pozitiv (2)
-Numri e vizuale inspektimet
-Nr. prej ha
-Nr. i rezultateve pozitiv (2)
-Mostrat
-Lotet
-Zhardhokët e certifikuar për mbjelljen
-Zhardhokët e tjerë për mbjellje (specifikoni)
-Mallra dhe patatet e përpunuara
-Zhardhokët e tjerë (specifiko)
-(1) Kuptohet si ekzaminim makroskopik i zhardhokëve ose kulturave.
-(2) U gjendën simptoma, u mor një mostër dhe testimi laboratorik konfirmoi praninë e dëmtuesit të specifikuar.
+Inspektime vizuale të kulturave në rritje
+Inspektimet vizuale të loteve të zhardhokëve në magazinë (a)
+Zona e inspektuar vizualisht (ha)
+Numri i inspektimeve vizuale (c)
+Numri i inspektimeve vizuale ku janë vëzhguar simptoma (ç)
+Numri i mostrave simptomatike të marra (d)
+Numri i mostrave asimptomatike të marra (d)
+Numri i inspektimeve vizuale (c)
+Numri i inspektimeve vizuale ku janë vëzhguar simptoma (dh)
+Numri i mostrave simptomatike të marra (d)
+Numri i mostrave asimptomatike të marra (d)
+Zhardhokët e patates për mbjellje (b)
+Zhardhokët e patates të destinuara të destinuara për t’u mbjellë në vendin e tyre të prodhimit
+Zhardhokët e patates përveç atyre për mbjellje
+Laboratori
+Kategoria
+Testet laboratorike në lidhje me inspektimet vizuale të kulturave në rritje
+Testet laboratorike në lidhje me inspektimet e grupit të zhardhokëve
+Numrat e njoftimit të shpërthimeve të reja të njoftuara, sipas rastit, në përputhje me nenin 15 të ligjit nr. 105/2016, “Për mbrojtjen e bimëve”, të ndryshuar
+Numri i mostrave simptomatike
+Testuar pozitiv
+Numri i mostrave asimptomatike të testuar pozitiv
+Numri i inspektimeve vizuale pozitive (e)
+Numri i mostrave simptomatike të testuar pozitiv
+Numri i mostrave asimptomatike të testuar pozitiv
+Numri i lot-eve pozitiv
+Informacione shtese
+Zhardhokët e patates për mbjellje (b)
+Zhardhokët e patates të destinuara për t’u mbjellë në vendin e tyre të prodhimit
+Zhardhokët e patates përveç atyre për mbjellje
+.
+(a) Të plotësohet vetëm për rezultatet e vrojtimeve të kryera në bimë të specifikuara të rritura dhe të vjela në rajonin përkatës.
+(b) Përveç zhardhokëve të destinuara për t’u mbjellë në vendin e tyre të prodhimit.
+(c) Duke përfshirë numrin e inspektimeve të shumëfishta vizuale të kryera në të njëjtën fushë ose në të njëjtin lot, sipas rastit.
+(ç) Simptomat u gjetën në zhardhokët ose bimët e prera dhe mostrat u morën për testim laboratorik.
+(d) Përgatitja e mostrës përshkruhet në aneksin I, pika 4.
+(dh) Simptomat u gjetën në zhardhokët e prerë dhe mostrat u morën për testim laboratorik.
+(e) Numri total i inspektimeve vizuale për të cilat mostrat u testuan pozitivisht për praninë ose C. sepedonicus.
 ANEKSI III
 Elementet për përcaktimin e përhapjes së mundshme të dëmtuesit të specifikuar dhe për përcaktimin e kritereve si potencialisht të infektuara nga dëmtuesi i specifikuar, siç përmendet në piken 2, të nenit 5 dhe në shkronjën “b”, të pikës 4, të nenit 5
 1. Elementet që duhen marrë parasysh në përcaktimin e përhapjes potenciale të dëmtuesit të specifikuar, siç përmendet në pikën 2, të nenit 5, janë si më poshtë:
