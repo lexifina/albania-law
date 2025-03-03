@@ -35,8 +35,10 @@ Testimi, duke aplikuar metodat e mëposhtme për nxjerrjen e dëmtuesit të spec
 a) në lidhje me nxjerrjen, metodat e bazuara në Fenwick can, centrifugë Schuiling, Elutriator seinhorst ose Kort elutriator;
 b) në lidhje me zbulimin dhe identifikimin, një nga sa vijon:
 i. izolimi i cisteve Globodera nga mbetjet bazuar në morfologjinë e cistit, i ndjekur nga identifikimi i specieve bazuar në morfologjinë e cisteve individuale dhe të vegjlit (juvenilies), i kombinuar me testin konvencional PCR, bazuar në Bulman & Marshall, 1997 (në rast dyshimi për praninë e G. tabacum, testi konvencional PCR i bazuar në Skantar et al., 2007 mund të kryhet shtesë);
-ii. izolimi i cisteve Globodera nga mbetjet bazuar në morfologjinë e cistit, i ndjekur nga identifikimi i specieve bazuar në morfologjinë e cisteve individuale dhe të vegjlit (juvenilies), i kombinuar me real-time PCR bazuar në Gamel et al., 2017;
+ii. izolimi i cisteve Globodera nga mbetjet bazuar në morfologjinë e cistit, i ndjekur nga identifikimi i specieve bazuar në morfologjinë e cisteve individuale dhe të vegjlit (juvenilies), i kombinuar me real-time PCR, bazuar në Gamel et al., 2017 ose real-time PCR, bazuar në Lombard et al. 2024(*1)
 iii. izolimi i cisteve nematode nga mbeturinat, i ndjekur nga zbulimi i specieve me real-time PCR bazuar në Gamel et al., 20171.
+iv) izolimi i cisteve nematode nga mbetjet bazuar në morfologjinë e cisteve, i ndjekur nga zbulimi dhe identifikimi i specieve, bazuar në real-time PCR, të cisteve të qëndrueshme (viable) dhe të vegjlit (juvenilies) të gjallë bazuar në Lombard et al. 2024”.
+(*1) Lombard L, Dekker-Nooren CCEM, Wuijster B, van Kessel, SP, van Duivenbode I, van Bruggen AS, van Heese EYJ (2024), Krahasimi i efektivitetit të real-time PCR-ve për të treguar dhe për të treguar sigurinë. Globodera pallida dhe G. rostochiensis. Eur J Plant Pathol, https://doi.org/10.1007/s10658-024-02864-7.
 2. Marrja e mostrave për vrojtimin zyrtar të monitorimit, siç përmendet në nenin 7, kryhet në përputhje me një nga sa vijon:
 a) mostrimin e përmendur në pikën 1, me një normë minimale të marrjes së mostrave të dheut prej të paktën 400 ml/ha;
 b) mostrimi i synuar i të paktën 400 ml dheu pas ekzaminimit vizual të rrënjëve ku ka simptoma vizuale; ose
@@ -53,25 +55,36 @@ b) në rastin e normës së reduktuar të përmendur në pikën 3 të këtij ane
 6. Madhësia standarde e mostrimit të dheut mund të reduktohet në një minimum prej 200 ml dhe/ha, me kusht që vendndodhja e prodhimit të jetë e vendosur në një zonë të shpallur të pastër nga dëmtuesit e specifikuar dhe të caktuar, mirëmbajtur dhe vrojtuar në përputhje me Standardet Ndërkombëtare për Masat Fitosanitare përkatëse (ISPM nr. 4).
 7. Madhësia minimale e mostrimit të dheut në të gjitha rastet është 200 ml dhe për vendndodhje prodhimi.
 ANEKSI IV
-Shablloni i vrojtimit referuar në nenet 3 dhe 6
-Formatin për paraqitjen e rezultateve të vrojtimit të nematodes së cisteve të patates nga vjelja e patates së vitit të kaluar.
-Tabela e mëposhtëm përdoret vetëm për patatet e korrura në vendin tonë.
-Rajonet
-ose
-zonat
+Modeli i vrojtimit referuar në nenet 3 dhe 6
+Modeli për paraqitjen e rezultateve të vrojtimit të nematodes së cisteve të patates të kryera gjatë vitit kalendarik që i paraprin vitit të raportimit.
+Tabela e mëposhtme përdoret vetëm për patatet e korrura në vendin tonë.
+Rajonet ose zonat
 Lloji i vrojtimit
-(Zbulimi/monitorimi)
-Sipërfaqja totale e mbjelljes (ha)
-Zona e mostrimit (1)
-Norma e mostrimit
-Zona e infektuar pas analizave laboratorike
+Kategoria
+Zona e kultivimit (ha) (1)
+Zona e vrojtimit (ha)
+Norma e aplikuar e mostrimit sipas pikave 1-7 të aneksit III të udhëzimit nr. 21, datë 18.7.2024 (2)
+Zona e infektuar pas testeve laboratorike (ha)
+Madhësia fillestare e zonës së infektuar (5) (ha)
+Madhësia e përditësuar e zonës së infektuar (6) (ha)
+Numrat e njoftimit të shpërthimeve të reja të njoftuara, sipas rastit, në përputhje me nenin 15, të ligjit nr. 105/2016, “Për mbrojtjen e bimëve”, të ndryshuar
 Informacione të tjera
-Vetëm G. p
-Vetëm G. r.
-G. f. (2) dhe
-G. r. (3) së bashku në të njëjtën
-faqe prodhimi
-Sipërfaqja totale e zonës së infektuar
+Vetëm G. p. (3)
+Vetëm G. r. (4)
+G. f. dhe G.r. të pranishme së bashku në të njëjtin vendndodhje prodhimi
+Zbulimi (nenit 3 të udhëzimit nr. 21, datë 18.7.2024)
+- Zhardhokët e patates për prodhimin e zhardhokëve për mbjellje (7) dhe;
+- Bimë të tjera bujtëse, siç renditen në aneksin I të udhëzimit nr. 21, datë 18.7.2024
+Monitorimi (neni 6 i udhëzimit nr. 21, datë 18.7.2024
+Patate të tjera nga ato për mbjellje
+(1) E rëndësishme vetëm në rastin e vrojtimeve monitoruese.
+(2) Shkalla e mostrimit në kuptimin e aneksit III të udhëzimit nr. 21, datë 18.7.2024 (kryesisht e përcaktuar nga madhësia e mostrës); përdorni një rresht individual për çdo normë mostrimi, përkatësisht.
+(3) Globodera pallida.
+(4) Globodera rostochiensis.
+(5) Sipërfaqja totale e zonës së infektuar në vitin, para vitit të mbuluar nga raporti.
+(6) Sipërfaqja totale e zonës së infektuar në vitin e mbuluar nga raporti.
+(7) Asnjë vrojtim zbulimi nuk kërkohet për mbjelljen e patateve të destinuara për prodhimin e zhardhokëve të patates që do të përdoren brenda të njëjtit vend të prodhimit që ndodhet brenda një zone të përcaktuar nga AKVMB-ja.
+(8) Asnjë vrojtim zbulimi nuk kërkohet për mbjelljen e bimëve të aneksit I të destinuara për rimbjellë brenda të njëjtit vend prodhimi që ndodhet brenda një zone të përcaktuar nga AKVMB-ja dhe për bimët e renditura në pikat 2 dhe 3, të aneksit I, të destinuara për rimbjellë, kur bimët e vjela do t’u nënshtrohen masave të miratuara zyrtarisht të përmendura në pikën 1 të aneksit II.
 ANEKSI V
 Kuantifikimi i shkallës së rezistencës së varieteteve të patates dhe protokolli për testimin e rezistencës, përmendur në pikën 3 të nenit 8
 1. Shkalla e rezistencës
