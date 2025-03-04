@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja ndryshuese e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim për financimin e projektit “Hekurudhat shqiptare - Rehabilitimi i linjës hekurudhore Tiranë-Durrës dhe ndërtimi i linjës hekurudhore për në Aeroportin Ndërkombëtar të Tiranës”, ratifikuar me ligjin nr. 29/2017, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
