@@ -1,0 +1,26 @@
+{
+  "qbz_id": 29944,
+  "title": "Për dhënie grade madhore",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "85",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2025-02-28",
+  "published": "2025-03-04",
+  "in_force": "2025-03-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/e998894a9c9ab0255c0f4212dd7ec7d771618d5345e11c6e2718014ecdd74623.docx",
+  "source_sha256": "e998894a9c9ab0255c0f4212dd7ec7d771618d5345e11c6e2718014ecdd74623",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29944",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2025/02/28/85",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
