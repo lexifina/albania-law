@@ -1,0 +1,1 @@
+1. Zbatimin e rekomandimit GFCM/46/2023/18 mbi skemën e përbashkët ndërkombëtare të inspektimit dhe mbikëqyrjes në ujërat ndërkombëtare në detin Adriatik (nënzona gjeografike 17 dhe 18), që i bashkëlidhen këtij urdhri dhe është pjesë përbërëse e tij.

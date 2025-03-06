@@ -1,0 +1,1 @@
+7. Brenda datës 31 dhjetor të çdo viti, inspektorët pjesëmarrës në skemën e përbashkët ndërkombëtare, përgatisin një raport të detajuar i cili përshkruan aktivitetet e zhvilluara në kontekstin e kësaj skeme, kontrollet e zhvilluara, masat administrative të marra, vëzhgimet, pikasjet dhe çdo informacion relevant mbi skemën.

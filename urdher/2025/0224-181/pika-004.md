@@ -1,0 +1,1 @@
+4. Drejtoria e Politikave, Strategjisë dhe Programeve të Peshkimit dhe Akuakulturës, brenda datës 1 dhjetor të çdo viti, dërgon në GFCM listën e emrave të inspektorëve të autorizuar për të kryer inspektim dhe mbikëqyrje në zonën që mbulohet nga GFCM-ja.

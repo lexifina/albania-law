@@ -1,0 +1,1 @@
+3. Inspektorati që mbulon fushën e peshkimit përzgjedh inspektorët të cilët do të marrin pjesë në skemën e përbashkët ndërkombëtare dhe dërgon brenda datës 15 nëntor të çdo viti në Drejtorinë e Politikave, Strategjisë dhe Programeve të Peshkimit dhe Akuakulturës listën e emrave të inspektorëve të përzgjedhur.

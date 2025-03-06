@@ -1,0 +1,1 @@
+2. Inspektorati që mbulon fushën e peshkimit merr pjesë në skemën e përbashkët ndërkombëtare të inspektimit dhe mbikëqyrjes në ujërat ndërkombëtare në detin Adriatik (nënzona gjeografike 17 dhe 18), në vijim skema e përbashkët ndërkombëtare.
