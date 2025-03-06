@@ -1,0 +1,1 @@
+5. Punonjësi i administratës shtetërore, pas orarit zyrtar të punës dhe jashtë mjediseve të institucioneve shtetërore, ka të drejtë të marrë pjesë në veprimtari politike apo zgjedhore të një partie politike ose kandidati në zgjedhje, por pa shprehur publikisht bindjet apo preferencat e tij politike.

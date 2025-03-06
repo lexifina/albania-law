@@ -1,0 +1,1 @@
+13. Departamenti i Administratës Publike merr masat e nevojshme që gjatë fushatës zgjedhore të mos publikojë vendet vakante të shërbimit civil të institucioneve të administratës shtetërore dhe të pezullojë të gjitha fazat e proceseve të rekrutimit në shërbimin civil në institucionet e administratës shtetërore, të nisura para datës 11 prill 2025.
