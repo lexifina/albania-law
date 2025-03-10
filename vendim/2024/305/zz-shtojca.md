@@ -604,3 +604,42 @@ Truall
 Konfirmuar nga ASHK Librazhd.
 Vlera totale
 3,223,464.00
+LISTA EMËRORE SHTESË E PRONARËVE, PASURITË E PALUAJTSHME , PRONË PRIVATE E TË CILËVE SHPRONËSOHEN PËR REALIZIMIN E PROJEKTIT, ZGJERIMI I SEGMENTIT RRUGOR DALJE ELBASAN-PËRRENJAS-QAFËTHANË”
+Nr. rendor
+PRONARI
+Të dhënat kadastrale (sipas kartelës së pasurisë)
+Vlerësimet për shpronësim, sipas llojit të pasurisë
+Objekt
+Vlera totale në lekë
+Shënime (D+E) Kufizime hipotekare, barrë mbi pasurinë etj.
+Emri
+Atësia
+Mbiemri
+Adresa e pasurisë
+Rrethi
+Zona Kadastrale
+Nr. Pasurie
+Lloji i pasurisë
+Sipërfaqe totale
+Sip. (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+34
+Ilir
+Mustafa
+Koçi
+Miraka
+Librazhd
+2696
+2192-N
+Ndërtesë
+124.2
+3,719,462.90
+3,719,462.90
+Konfirmuar ASHK Librazhd
+Behare
+Ali
+Koçi
+Vlera totale
+3,719,462.90
+Vlerësimi për pasurinë e llojit “ndërtesë” është bërë me preventiv punimesh, bazuar në pikën 3 të vendimit nr. 138, datë 23.3.2000, të Këshillit të Ministrave, “Për kriteret teknike të vlerësimit dhe të përllogaritjes së masës së shpërblimit të pasurisë pronë private që shpronësohen, të pasurive që zhvlerësohen dhe të të drejtave të personave të tretë, për interes publik”, të ndryshuar.
