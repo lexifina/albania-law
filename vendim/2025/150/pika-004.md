@@ -1,0 +1,2 @@
+4. Për aplikimet në masat mbështetëse, sipas shkronjave “a”, “b” dhe “c”, të pikës 2.1, kryhet kontrolli në terren për verifikimin faktik të numrit të krerëve, në jo më pak se 30% të subjekteve përfituese.
+Çdo subjekt, në rastet kur verifikohet se ka përfituar më shumë se 20% nga vlera për të cilën plotëson kriteret, përjashtohet 3 (tre) vjet nga e drejta e përfitimit prej masave mbështetëse për bujqësinë dhe zhvillimin rural, të financuara nga buxheti i shtetit.
