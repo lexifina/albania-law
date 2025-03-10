@@ -518,3 +518,40 @@ Kufizim mbi pasurinë
 S H U M A
 37520
 16808960
+LISTA E PRONARËVE QË SHPRONËSOHEN NGA NDËRTIMI I SEGMENTIN RRUGOR “RRUGA E ARBRIT” (SHTESA)
+Nr.
+PRONARI
+TË DHËNAT (mbi pasurinë sipas ASHK-së)
+VLERËSIMET PËR SHPRONËSIM SIPAS LLOJIT Ë PASURISË
+VLERA TOTALE (lekë)
+SHËNIME
+Emri
+Atësia
+Mbiemri
+ZK
+Nr. i pas.
+Lloji i pas.
+Sip. totale (m2)
+Shpronësim tokë “arë”
+Shpronësim tokë “truall”
+Sip. (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sip. (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+41
+Kujtim
+Osman
+Sinani
+3444
+5/83
+ARË
+1313
+255.0
+100.0
+25 500
+25 500
+SHUMA
+255.0
+25 500
