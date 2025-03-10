@@ -1,0 +1,1 @@
+2. Përcaktimin e zonës mbrojtëse të “Ansamblit arkitektonik urban” të një zone në qytetin e Peshkopisë, sipas hartës dhe koordinatave në Kornizën Referuese Gjeodezike Shqiptare (KRGJSH), që i bashkëlidhen këtij vendimi.
