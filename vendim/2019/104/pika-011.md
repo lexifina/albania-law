@@ -1,1 +1,2 @@
 11. Kërkesa për sasinë e certifikatave të nxënësve i paraqitet ministrisë përgjegjëse për arsimin nga Ministria për Evropën dhe Punët e Jashtme.
+11/1. Për nxënësit që kanë ndjekur programin e mësimit të gjuhës shqipe e të kulturës shqiptare në diasporë lëshohet vërtetim i pjesëmarrjes nga autoritetet që organizojnë mësimin e gjuhës e të kulturës shqiptare në diasporë. Ky vërtetim prodhohet nga Qendra e Botimeve të Diasporës, sipas modelit dhe kërkesave të përcjella nga misionet diplomatike të Republikës së Shqipërisë nëpërmjet ministrisë përgjegjëse për punët e jashtme.
