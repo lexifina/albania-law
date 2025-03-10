@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2025, zëri “Shpenzime korrente”, në programin buxhetor 01620 “Zgjedhjet e përgjithshme dhe lokale”, i shtohet fondi prej 927 212 000 (nëntëqind e njëzet e shtatë milionë e dyqind e dymbëdhjetë mijë) lekësh, për organizimin e zgjedhjeve për Kuvend të datës 11 maj 2025.
