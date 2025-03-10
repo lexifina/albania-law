@@ -1,0 +1,1 @@
+2. Fondi sipas pikës 1, të këtij vendimi, përballohet nga fondi rezervë i buxhetit të shtetit, miratuar për vitin 2025, dhe përdoret për kryerjen e pagesës së këstit të dytë, sipas përcaktimeve në kontratën e nënshkruar ndërmjet palëve, për vitin 2025.
