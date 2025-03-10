@@ -1,0 +1,1 @@
+2. Me mbrojtje të veçantë kuptohen masat me karakter organizativ e profesional për sigurimin e ruajtjen e veçantë të jetës, familjes dhe të pronës së punonjësit të kërcënuar të policisë, si dhe çdo masë tjetër, që lidhet me këtë mbrojtje.

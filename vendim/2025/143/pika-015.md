@@ -1,0 +1,1 @@
+15. Vendimi nr. 331, datë 22.4.2015, i Këshillit të Ministrave, “Për mbrojtjen e veçantë të punonjësit të Policisë së Shtetit që, për shkak të detyrës, i kërcënohet jeta, familja dhe prona”, shfuqizohet.

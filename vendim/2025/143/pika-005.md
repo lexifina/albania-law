@@ -1,0 +1,1 @@
+5. Mbrojtja e veçantë për punonjësin e kërcënuar të policisë bëhet me vendim të Komisionit për Vlerësimin e Mbrojtjes së Veçantë (KVMV), i cili ngrihet dhe funksionon pranë Drejtorisë së Përgjithshme të Policisë së Shtetit.
