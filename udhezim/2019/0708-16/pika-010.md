@@ -1,4 +1,4 @@
-10. Në rast ndryshimi/riorganizimi të IAL-së, njësisë kryesore apo të programit të studimit, IAL-të dërgojnë zyrtarisht në QSHA kërkesën për regjistër të ri themeltar, regjistër të ri të arritjeve akademike dhe regjistër të ri të lëshimit të diplomave dhe certifikatave.
+10. Në rast ndryshimi/riorganizimi të IAL-së, njësisë kryesore apo të programit të studimit, IAL-ja bën aplikim të ri për regjistër themeltar, regjistër të arritjeve akademike dhe regjistër të lëshimit të diplomave dhe certifikatave.
 KREU II
 REGJISTRI THEMELTAR I STUDENTËVE
 1. QSHA-ja pajis me regjistër themeltar të studentëve IAL-të, sipas përcaktimeve të këtij udhëzimi.

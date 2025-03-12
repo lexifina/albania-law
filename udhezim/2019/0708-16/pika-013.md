@@ -24,9 +24,10 @@ i) aktin e akreditimit të parë dhe periodik të programit të studimit.
 12. IAL-ja merr të gjitha masat për ruajtjen e përhershme të të dhënave të regjistrit elektronik të lëshimit të diplomave dhe certifikatave, duke siguruar back-up të tyre pas çdo hedhje të dhënash.
 KREU V
 DISPOZITA TË FUNDIT DHE HYRJA NË FUQI
-1. IAL-të paguajnë tarifën përkatëse të përcaktuar me vendim të Këshillit të Ministrave, për llogari të QSHA-së, për çdo regjistër. Kopja e mandatit të pagesës i bashkëlidhet kërkesës që dorëzohet në QSHA. Tarifa dhe llogaria bankare ku ajo depozitohet i komunikohen IAL-ve nga QSHA-ja dhe bëhen publike në faqen web të saj.
+1. Shfuqizuar.
 2. IAL-ja merr masa për ruajtjen e fshehtësisë së të dhënave personale në zbatim të akteve ligjore e nënligjore në fuqi për mbrojtjen e të dhënave personale.
 3. IAL-të të marrin masat e nevojshme për sigurimin e informacionit, për plotësimin e regjistrave, në formë elektronike dhe të shkruar (me dorë) me ngjyrë blu, për çdo student, sipas të gjitha rubrikave të përcaktuara në shtojcat e këtij udhëzimi.
+3/1. Kërkesat dhe procedurat administrative, që janë në proces shqyrtimi nga institucioni përgjegjës, trajtohen dhe zhvillohen sipas dispozitave në fuqi të këtij udhëzimi, në kohën e paraqitjes së tyre dhe të dhënat pasqyrohen në Sistemin e Menaxhimit të Informacionit të Arsimit të Lartë (SMIAL).
 4. Udhëzimi nr. 31, datë 16.9.2014, “Për pajisjen e institucioneve të arsimit lartë publik dhe privat me regjistra bazë të studentëve”, shfuqizohet.
 5. Ngarkohen Sekretari i Përgjithshëm, Drejtoria e Përgjithshme e Politikave dhe Zhvillimit të Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme Ekonomike dhe e Shërbimeve Mbështetëse, Qendra e Shërbimeve Arsimore dhe institucionet e arsimit të lartë për zbatimin e këtij udhëzimi.
 Ky udhëzim hyn në fuqi pasi botohet në Fletoren Zyrtare.
