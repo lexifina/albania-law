@@ -1,0 +1,1 @@
+2. Vendimi nr. 371, datë 18.5.2016, i Këshillit të Ministrave, “Për miratimin e Dokumentit Politik për Sigurinë dhe Shëndetin në Punë, 2016-2020, dhe planit të veprimit të zbatimit të tij”, shfuqizohet.
