@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 440, datë 17.5.2017](https://qbz.gov.al/api/v1/acts/63303); [QBZ versions](https://qbz.gov.al/api/v1/acts/63303/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2018-06-27; after QBZ act 63503 (nr. 394).
+Status of this text: `official consolidated version 2`, applying from 2025-03-12; after QBZ act 30020 (nr. 164).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
