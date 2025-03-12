@@ -1,0 +1,1 @@
+4. Urdhri nr. 1056, datë 5.12.2024, “Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në shtetin e Turqisë” dhe urdhri nr. 164, datë 21.2.2025, “Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në shtetin e Turqisë”, shfuqizohet.
