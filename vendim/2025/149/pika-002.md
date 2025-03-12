@@ -1,0 +1,1 @@
+2. Ushtrimin e aktivitetit të kultivimit të bimës së Cannabis-it për qëllime industriale, në përputhje me kufizimet e përcaktuara në vendimin nr. 50, datë 22.1.2025, të Këshillit të Ministrave, “Për miratimin e standardeve për zonat dhe parcelat e tokës në të cilat do të lejohet kultivimi i bimës së Cannabis-it për qëllime mjekësore dhe industriale”.
