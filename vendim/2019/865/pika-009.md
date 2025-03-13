@@ -1,1 +1,1 @@
-9. Institucioni i kujdesit shëndetësor, që ka plotësuar standardet bazë të akreditimit, pas ftesës së marrë nga institucioni përgjegjës për akreditim, mund të vijojë procesin e akreditimit sipas procedurës së përcaktuar në këtë vendim.
+9. Institucioni i kujdesit shëndetësor, që ka plotësuar standardet bazë të akreditimit, pas ftesës së marrë nga institucioni përgjegjës për akreditim, mund të vijojë procesin e akreditimit sipas procedurës së përcaktuar në këtë vendim në shërbimin on-line që ofrohet nëpërmjet portalit “e-Albania”.
