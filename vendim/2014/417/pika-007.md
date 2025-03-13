@@ -1,1 +1,1 @@
-7. Tarifa derdhet nga kërkuesi në llogarinë bankare të ministrisë përgjegjëse për mjedisin dhe është e pakthyeshme. Të ardhurat e mbledhura nga tarifat e përcaktuara në këtë vendim derdhen në buxhetin e shtetit.
+7. Tarifat për çdo aplikim sipas shkronjave “a” dhe “b”, të pikës 1, të këtij vendimi, derdhen nga kërkuesi në llogarinë bankare të Agjencisë Kombëtare të Mjedisit dhe janë të pakthyeshme. Të ardhurat e mbledhura nga tarifat e përcaktuara në këtë vendim derdhen në buxhetin e shtetit.
