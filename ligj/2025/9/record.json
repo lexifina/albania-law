@@ -1,0 +1,26 @@
+{
+  "qbz_id": 63162,
+  "title": "Për një ndryshim në ligjin nr. 29/2023, “Për tatimin mbi të ardhurat”, i ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2025-01-30",
+  "published": "2025-02-26",
+  "in_force": "2025-03-13",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/f34c0d4290d9c8160346a56b58a09ae2212801158a1c9d9a5a49cf074bdac82a.docx",
+  "source_sha256": "f34c0d4290d9c8160346a56b58a09ae2212801158a1c9d9a5a49cf074bdac82a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/63162",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2025/01/30/9",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
