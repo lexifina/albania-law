@@ -1,0 +1,1 @@
+1. Miratimin e Strategjisë Kombëtare të Specializimit Inteligjent (S3) 2025-2030, të planit të veprimit për zbatimin e saj dhe të anekseve, sipas dokumenteve, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
