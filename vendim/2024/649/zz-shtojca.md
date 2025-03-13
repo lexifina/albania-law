@@ -67,9 +67,19 @@ dh) miratimin e vendqëndrimeve të mjeteve lundruese dhe korridoret e lëvizjes
 3. Policia Bashkiake e NJVV-së përkatëse është përgjegjëse për mbikëqyrjen dhe ruajtjen e hapësirave të plazheve publike, si dhe marrjen e masave të menjëhershme për rastet e parashikuara në pikat 5 dhe 6, të nenit 8, të kësaj rregulloreje.
 Neni 7
 Kriteret për ushtrimin e veprimtarisë së stacionit të plazhit
-1. Në stacionin e plazhit ushtrojnë veprimtarinë subjektet që plotësojnë kriteret e kësaj rregullloreje dhe që lidhin një kontratë qiraje për përdorimin e hapësirës së plazhit, në varësi të kapacitetit të strukturës akomoduese, si dhe, rast pas rast, njësitë e vetëqeverisjes vendore përkatëse.
+1. Në stacionin e plazhit ushtrojnë veprimtarinë subjektet që plotësojnë kriteret e kësaj rregulloreje dhe që lidhin një kontratë qiraje për përdorimin e hapësirës së plazhit. Të drejtën për të përdorur hapësirën e plazhit e kanë subjektet e mëposhtme:
+a) Subjektet private që disponojnë strukturë akomoduese të kategorizuar si:
+i. “Bujtinë” ;
+ii. “Fjetinë” (Hostel);
+iii. “Hotel”;
+iv. “Resort”;
+v. “Qendër kurative”;
+vi. “Fjetje dhe mëngjes” (B&B);
+vii. “Apartament”/“vilë”, që kanë jo më pak se 5 (pesë) dhoma;
+viii. “Bllok apartamentesh”, që janë dy ose më shumë apartamente në të njëjtën vendndodhje dhe menaxhohen nga i njëjti sipërmarrës turistik, që kanë jo më pak se 5 (pesë) dhoma”;
+b) Njësitë e vetëqeverisjes vendore përkatëse, rast pas rasti.
 2. Në rastin e kërkesave të projekteve me potencial strategjik, sipas përcaktimeve të ligjit nr. 55/2015, “Për investimet strategjike në Republikën e Shqipërisë”, të ndryshuar, apo kërkesave të investitorëve në zonat me përparësi zhvillimin e turizmit, kontrata për përdorimin e hapësirës së plazhit lidhet sipas akteve ligjore dhe nënligjore përkatëse.
-3. Kur veprimtaria e stacionit të plazhit ushtrohet nga subjekt privat, subjekti përmbush kriteret, si më poshtë:
+3. Subjektet private të parashikuara në shkronjën “a”, të pikës 1, të këtij neni, përmbushin kriteret e mëposhtme:
 a) Të jetë i regjistruar si person fizik/tregtar apo juridik për ushtrimin e veprimtarisë, si strukturë akomoduese;
 b) Të disponojë një strukturë akomoduese të kategorizuar nga ministria përgjegjëse për turizmin, me hapësirë plazhi para/në afërsi të strukturës akomoduese;
 c) Të ketë shlyer të gjitha detyrimet tatimore qendrore dhe detyrimet vendore;
@@ -215,6 +225,8 @@ Dispozitë kalimtare
 a) të jetë i regjistruar si person fizik/tregtar apo juridik për ushtrimin e veprimtarisë, si strukturë shërbimi;
 b) të disponojë një strukturë shërbimi me kapacitet mbi 20 tavolina dhe të ketë hapësirë plazhi pranë strukturës së shërbimit.
 4. Subjektet e parashikuara në pikën 3, të këtij neni, paraqesin kërkesën me shkrim pranë Agjencisë Kombëtare të Bregdetit dhe për dijeni NJVV-së, së bashku me dokumentacionin, që vërteton plotësimin e kritereve të parashikuara në këtë rregullore. GTSHA-ja është përgjegjëse për sigurimin e ekstraktit të regjistrimit, sipas shkronjës “a”, të pikës 3, të këtij neni. Agjencia Kombëtare e Bregdetit i përcjell për shqyrtim kërkesën GTSHA-së dhe për trajtimin e aplikimit ndiqet e njëjta procedurë e parashikuar në nenin 7, të kësaj rregulloreje. Numri maksimal i çadrave që vendosen në stacionin e plazhit pranë strukturës së shërbimit është 50 çadra.
+5. Përjashtimisht, për vitin 2025, afati kohor për lidhjen e kontratave të qirasë për përdorimin e stacionit të plazheve, të parashikuar në pikën 5, të nenit 4, të kësaj rregulloreje, do të jetë deri në datën 31 maj.
+6. Përjashtimisht, për vitin 2025, afati kohor për fazën e dytë të aplikimit të subjektit, të parashikuar në pikën 9, të nenit 7, të kësaj rregulloreje, do të jetë brenda datës 30 prill.
 SHTOJCA I
 KONTRATA MODEL PËR PËRDORIMIN E HAPËSIRËS SË PLAZHIT
 Sot, më datë [•], në [•], nënshkruhet kjo kontratë për përdorimin e hapësirës së plazhit (kontrata) ndërmjet palëve, si më poshtë:
