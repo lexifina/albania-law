@@ -1,0 +1,1 @@
+1. Përcaktimin e rregullave për shfrytëzimin e strukturave akomoduese dhe të nivelit minimal të kapacitetit të shfrytëzimit të tyre, në funksion të deklarimit për qëllime tatimore, gjatë vitit kalendarik.

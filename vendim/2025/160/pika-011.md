@@ -1,0 +1,1 @@
+11. Në rastet kur ka ndryshime të kapacitetit të strukturës akomoduese, sipërmarrësi ka detyrimin të deklarojë ndryshimet e kapacitetit të strukturës akomoduese, brenda 15 (pesëmbëdhjetë) ditëve kalendarike nga data e ndryshimit të kapacitetit të strukturës.

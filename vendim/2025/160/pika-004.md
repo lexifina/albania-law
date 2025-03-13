@@ -1,0 +1,1 @@
+4. Periudhë e shfrytëzimit është periudha e ndarë në dy periudha sezonale, përkatësisht, nga data 1 maj deri në datën 30 shtator dhe nga data 1 tetor deri në datën 30 prill të çdo viti. Në përllogaritjet, për efekt të kapacitetit të shfrytëzimit, ditët që merren në konsideratë janë ditët kalendarike gjatë kësaj periudhe.

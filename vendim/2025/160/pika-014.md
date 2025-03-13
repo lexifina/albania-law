@@ -1,0 +1,1 @@
+14. Në rast të ndryshimit nga ana e sipërmarrësit të kapacitetit të strukturës akomoduese, ministria përgjegjëse për turizmin, brenda 15 (pesëmbëdhjetë) ditëve nga marrja e njoftimit, ua dërgon Drejtorisë së Përgjithshme të Tatimeve dhe njësisë së qeverisjes vendore, që administron territorin ku ndodhet struktura akomoduese, të dhënat e deklaruara nga sipërmarrësi.

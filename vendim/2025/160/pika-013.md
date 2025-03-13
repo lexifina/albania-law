@@ -1,0 +1,1 @@
+13. Ministria përgjegjëse për turizmin, brenda muajit shkurt të çdo viti, u dërgon Drejtorisë së Përgjithshme të Tatimeve dhe njësisë së qeverisjes vendore, që administron territorin ku ndodhet struktura akomoduese, të dhënat e deklaruara nga sipërmarrësi, sipas parashikimeve të pikës 10, të këtij vendimi.

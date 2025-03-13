@@ -1,0 +1,1 @@
+10. Sipërmarrësi, për strukturat akomoduese, të përcaktuara në pikën 3 të këtij vendimi, deklaron pranë ministrisë përgjegjëse për turizmin, brenda muajit janar të çdo viti, kapacitetin e shfrytëzimit dhe nivelin e shfrytëzimit të strukturës akomoduese, sipas aneksit 2, që i bashkëlidhet këtij vendimi.
