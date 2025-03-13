@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Eliminimi i pikave të zeza (Black Spots) në rrjetin rrugor kombëtar Shkodër-Hani i Hotit, kryqëzimi Rruga e Hurmave”.
