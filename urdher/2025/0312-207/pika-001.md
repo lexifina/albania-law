@@ -1,0 +1,1 @@
+1. Ngarkimin e përkohshëm në detyrë (zëvendësimin) e titullarit të Drejtorisë së Përgjithshme të Arkivave, z. Endrit Musaj, zëvendësdrejtorit të përgjithshëm të Arkivave, për shkak të mungesës me arsye të titullarit të këtij institucioni, me përjashtim të kompetencave të ngarkuara te drejtues të tjerë me urdhra të posaçëm përgjatë vitit 2025.
