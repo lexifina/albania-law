@@ -1,0 +1,11 @@
+2. Ndalimin e lëvizjes së shpendëve të gjallë nga ferma në fermë dhe nga ferma në tregjet e kafshëve të gjalla në territorin e:
+- Njësisë Administrative Sukth;
+- Njësisë Administrative Manëz;
+- Njësisë Administrative Katund i Ri;
+- Njësisë Administrative Maminas;
+- Njësisë Administrative Gjepalaj;
+- Njësisë Administrative Rashbull;
+- Njësisë Administrative Thumanë;
+- Njësisë Administrative Bubq;
+- Njësisë Administrative Prezë;
+- Njësisë Administrative Vorë.

@@ -1,0 +1,11 @@
+4. Intensifikimin e mbikëqyrjes së popullatave të shpendëve të egër, veçanërisht ato të ujit, si dhe monitorimin e mëtejshëm për zogj të ngordhur ose të sëmurë në territorin e:
+- Njësisë Administrative Sukth;
+- Njësisë Administrative Manëz;
+- Njësisë Administrative Katund i Ri;
+- Njësisë Administrative Maminas;
+- Njësisë Administrative Gjepalaj;
+- Njësisë Administrative Rashbull;
+- Njësisë Administrative Thumanë;
+- Njësisë Administrative Bubq;
+- Njësisë Administrative Prezë;
+- Njësisë Administrative Vorë.

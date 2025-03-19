@@ -1,0 +1,11 @@
+1. Ndalimin e shitjes dhe tregtimit të shpendëve të gjallë në mjediset e hapura dhe tregjet e kafshëve të gjalla në territorin e:
+- Njësisë Administrative Sukth;
+- Njësisë Administrative Manëz;
+- Njësisë Administrative Katund i Ri;
+- Njësisë Administrative Maminas;
+- Njësisë Administrative Gjepalaj;
+- Njësisë Administrative Rashbull;
+- Njësisë Administrative Thumanë;
+- Njësisë Administrative Bubq;
+- Njësisë Administrative Prezë;
+- Njësisë Administrative Vorë.
