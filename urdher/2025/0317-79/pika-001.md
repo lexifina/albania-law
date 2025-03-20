@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Kolegjit të Posaçëm të Apelimit, znj. Alketa Çeli, Sekretar i Përgjithshëm i Kolegjit të Posaçëm të Apelimit, për të kryer procedurat dhe nënshkruar akte në emër të Kolegjit të Posaçëm të Apelimit, për të zgjidhur kontratën e qirasë me nr. 997/3 prot., datë 26.9.2024, sipas parashikimeve të legjislacionit në fuqi.
