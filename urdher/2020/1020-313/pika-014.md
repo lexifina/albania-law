@@ -27,7 +27,9 @@ PROCEDURAT E KONKURRIMIT
 a) vlerësimi i dokumentacionit të paraqitur në dosje;
 b) testimi me shkrim për vlerësimin e njohurive të profesionit dhe për njohuritë mbi legjislacionin që lidhet me ushtrimin e profesionit;
 c) intervista e strukturuar.
-7. Për realizimin procedurave të konkurrimit dhe të shpalljes së listës të kandidatëve fitues, DRAP-i përkatës krijon një komision ad-hoc, i cili përbëhet nga 2 (dy) përfaqësues nga MAS-i, nga 1 (një) përfaqësues nga DPAP-ja, 1 (një) përfaqësues nga njëra prej ZVAP-ve, 1 (një) përfaqësues nga DRAP-i.
+7. Për realizimin procedurave të konkurrimit dhe të shpalljes së listës të kandidatëve fitues, DRAP-i përkatës krijon një komision ad-hoc, i cili përbëhet nga 2 (dy) përfaqësues nga MAS-i, nga 1 (një) përfaqësues nga AKAP-i, 1 (një) përfaqësues nga njëra prej ZVAP-ve, 1 (një) përfaqësues nga DRAP-i.
+7/1. Përjashtimisht, në përbërje të Komisionit ad-hoc, të ngritur sipas pikës 7, të këtij kreu, për shqyrtimin dhe vlerësimin e dosjeve të kandidatëve për psikologë/punonjës socialë të cilët në aplikimin e tyre kanë përzgjedhur përpunësim ZVAP Shkodër, Divjakë, Berat dhe Kolonjë, caktohet edhe nga 1 (një) përfaqësues nga bashkitë e përfshira në projektin pilot në ushtrimin e përgjegjësive në fushën e arsimit parauniversitar.
+Kjo përbërje e Komisionit ad-hoc zbatohet sipas kohëzgjatjes së marrëveshjes së bashkëpunimit ndërmjet MAS-it dhe bashkisë përkatëse.
 8. Komisioni ad-hoc shqyrton dhe vlerëson dosjet e kandidatëve sipas shtojcës 2 të këtij urdhri.
 9. DRAP-i është përgjegjës për njoftimin e kandidatëve për datën, orën, mjedisin ku do të zhvillohet testimi, si dhe për caktimin e administratorëve për testimin me shkrim.
 10. DRAP-i përcakton datën, orën dhe vendin e intervistës së strukturuar si dhe bën njoftimin e kandidatëve dhe anëtarëve të komisionit ad-hoc.
@@ -38,13 +40,13 @@ c) intervista e strukturuar.
 KREU IV/1
 1. Në përfundim të vitit shkollor procedurat e lëvizjes paralele administrohen nga DRAP-ja, për punonjësit e SHPS që ushtrojnë profesionin në institucionet arsimore publike parauniversitare, brenda juridiksionit të zyrave vendore të arsimit parauniversitar.
 2. Punonjësi i SHPS që dëshiron të kryejë lëvizje paralele në përfundim të vitit shkollor, dërgon me postë në DRAP kërkesën për lëvizje paralele.
-3. Dorëzimi i dosjeve për lëvizje paralele bëhet sipas afateve të përcaktuara nga DPAP- ja.
+3. Dorëzimi i dosjeve për lëvizje paralele bëhet sipas afateve të përcaktuara nga AKAP-i.
 4. DRAP-ja krijon komisionin e vlerësimit të dosjeve për lëvizje paralele, me këtë përbërje:
 a) drejtuesi i DRAP-së (kryetar);
 b) një specialist i kurrikulës dhe zhvillimit profesional në DRAP (anëtar);
 c) juristi i DRAP-së (anëtar).
 5. Komisioni i vlerësimit të dosjeve në DRAP bën vlerësimin e dosjeve të kandidatëve për lëvizje paralele sipas shtojcës nr. 2 të urdhrit, brenda muajit korrik.
-6. Komisioni i vlerësimit të dosjeve shpall renditjen e konkurrentëve për lëvizje paralele sipas zyrave vendore dhe pikëve në rendin zbritës. Lista me renditjen e punonjësve të SHPS-së shpallet në faqen elektronike zyrtare të DRAP-së, e cila dërgon një kopje të listës në DPAP.
+6. Komisioni i vlerësimit të dosjeve shpall renditjen e konkurrentëve për lëvizje paralele sipas zyrave vendore dhe pikëve në rendin zbritës. Lista me renditjen e punonjësve të SHPS-së shpallet në faqen elektronike zyrtare të DRAP-së, e cila dërgon një kopje të listës në AKAP.
 7. Punonjësi i renditur me numrin më të madh të pikëve, ka të drejtën e zgjedhjes për vendin e lirë të punës brenda ZVAP-së ku ka emërimin e përhershëm. Ai dërgon brenda 24 orëve me e-mail konfirmimin ose refuzimin e vendit të propozuar. Në rast të mos konfirmimit nga kandidati, ky vend pune i ofrohet punonjësit të listuar një rend më poshtë.
 8. Pas përzgjedhjes së vendit të punës nga kandidati, DRAP-i përkatës nxjerr aktin e emërimit të kandidatit në institucionin arsimor parauniversitar të përzgjedhur prej tij dhe nënshkruan kontratën e punës me të.
 KREU V
@@ -72,5 +74,5 @@ DISPOZITA KALIMTARE DHE TË FUNDIT
 3. Kriteret e veçanta të përcaktuara në shkronjat “b” dhe “c”, të pikës 2, të kreut III, të këtij urdhri, do të zbatohen për profesionet e rregulluara, për të cilat ofrohet pajisja me licencën përkatëse të kandidatëve dhe për profesionin për të cilin është krijuar urdhri përkatës.
 4. DRAP-i, në vendet e punës që mbeten të paplotësuara, si rrjedhojë e mungesës së kandidatëve që plotësojnë kushtet dhe kriteret e përcaktuara në këtë urdhër, mund të punësojë me kontratë pune me afat, deri në përfundim të vitit shkollor, kandidatë që kanë bërë kërkesë në DRAP sipas një thirrjeje të veçantë dhe që kanë kryer të paktën studime të ciklit të parë të studimeve në fushën e psikologut/punonjësit social, pasi ka vlerësuar dhe renditur dosjet e secilit prej kandidatëve.
 5. Urdhri nr. 344, datë 19.8.2013, i ministrit të Arsimit dhe Shkencës “Për ngritjen e njësisë së shërbimit psikosocial”, i ndryshuar, shfuqizohet.
-6. Ngarkohen për zbatimin e këtij urdhri, Sekretari i Përgjithshëm, Drejtoria e Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse, Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar, Drejtoria e Përgjithshme e Arsimit Parauniversitar, drejtoritë rajonale të arsimit parauniversitar, zyrat vendore të arsimit parauniversitar dhe institucionet arsimore publike të arsimit parauniversitar.
+6. Ngarkohen për zbatimin e këtij urdhri, Sekretari i Përgjithshëm, Drejtoria e Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse, Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar, Agjencia Kombëtare e Arsimit Parauniversitar, drejtoritë rajonale të arsimit parauniversitar, zyrat vendore të arsimit parauniversitar dhe institucionet arsimore publike të arsimit parauniversitar.
 Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
