@@ -1,0 +1,1 @@
+2. Miratimin e rregullores “Mbi përcaktimin e kërkesave teknike dhe procedurave administrative për miratimin e organizatave të përfshira në projektimin ose prodhimin e sistemeve dhe përbërësve të menaxhimit të trafikut ajror/shërbimeve të lundrimit ajror” sipas shtojcës II, që i bashkëlidhet këtij urdhri dhe që është pjesë përbërëse e tij.

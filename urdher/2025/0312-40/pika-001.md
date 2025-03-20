@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi rregullat e detajuara për certifikimin dhe deklarimin e sistemeve të menaxhimit të trafikut ajror/shërbimeve të lundrimit ajror dhe përbërësve të menaxhimit të trafikut ajror/shërbimeve të lundrimit ajror”, sipas shtojcës I, që i bashkëlidhet këtij urdhri dhe që është pjesë përbërëse e tij.
