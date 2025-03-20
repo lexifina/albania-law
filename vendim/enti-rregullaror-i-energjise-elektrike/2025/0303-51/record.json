@@ -1,0 +1,28 @@
+{
+  "qbz_id": 30067,
+  "title": "Mbi licencimin e shoqërisë “Deliu 3D” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Shiroku”, me kapacitet të instaluar 1,6 mw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "51",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2025-03-03",
+  "published": "2025-03-20",
+  "in_force": "2025-03-20",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/c95bb9599db91352437f67bf11051ad29f4fee2d2cd5c1afac1d81508c060cc4.docx",
+  "source_sha256": "c95bb9599db91352437f67bf11051ad29f4fee2d2cd5c1afac1d81508c060cc4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/30067",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/03/03/51",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31034
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
