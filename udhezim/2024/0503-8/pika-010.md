@@ -6,6 +6,8 @@ KOMISIONI I VLERËSIMIT TË DOSJEVE
 a) 2 (dy) anëtarë nga DRAP-ja, kryetar i komisionit është drejtori i DRAP-së;
 b) 1 (një) anëtar nga AKAP-ja;
 c) 2 (dy) anëtarë nga ZVAP-ja në juridiksion të DRAP-së, nga të cilët të paktën njëri të jetë në profesion mësues.
+2/1. Përjashtimisht, në përbërje të Komisionit të Vlerësimit të Dosjeve (KVD), të ngritur sipas pikës 2 të këtij kreu, për vlerësimin e dosjeve të kandidatëve të cilët në aplikimin e tyre kanë përzgjedhur për punësim ZVAP Shkodër, Divjakë, Berat dhe Kolonjë, caktohet edhe nga 1 (një) përfaqësues nga bashkitë e përfshira në projektin pilot në ushtrimin e përgjegjësive në fushën e arsimit parauniversitar.
+Kjo përbërje e KVD-së zbatohet sipas kohëzgjatjes së marrëveshjes së bashkëpunimit ndërmjet MAS-it dhe bashkisë përkatëse.
 3. Specialisti i burimeve njerëzore dhe juristi në DRAP, kryejnë rolin e sekretariatit teknik për mbajtjen e të dhënave për dokumentet e kandidatëve.
 4. KVD-ja kryen këto detyra:
 a) vlerëson dokumentacionin e dosjes së çdo kandidati, sipas kritereve të vlerësimit të përcaktuara në shtojcën 1, të këtij udhëzimi;
