@@ -1611,6 +1611,11 @@ Aparati i Ministrisë
 Teknik i mesëm
 6 orë/ditë
 Vjetore
+Drejtoria e Përgjithshme e Policisë së Shtetit
+3
+Teknik i mesëm
+8 orë/ditë
+1.3.2025-31.5.2025
 Shtëpia e Pushimit Durrës
 3
 Kuzhinier
