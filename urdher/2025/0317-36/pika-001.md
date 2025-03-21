@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave, znj. Denada Qirici, zëvendësdrejtor i përgjithshëm i Agjencisë për Media dhe Informim, për të gjitha procedurat që lejon ligji, për aq sa është e mundur dhe në përputhje me legjislacionin në fuqi, përfshirë kompetencën për kalimin e pagave, sigurimeve shoqërore dhe shpenzimeve operative, në Agjencinë për Media dhe Informim.
