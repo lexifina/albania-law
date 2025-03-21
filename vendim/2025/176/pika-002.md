@@ -1,0 +1,2 @@
+2. Përfitimi i kësaj pagese vazhdon deri në ndryshimin e vendbanimit të punonjësit të policisë, që nënkupton sistemimin me banesë brenda juridiksionit të strukturës së Policisë së Shtetit, në territorin ku ai është i emëruar/transferuar.
+Kompensimin e udhëtimit e përfiton edhe punonjësi i Policisë së Shtetit që plotëson kushtet e pikës 1, të këtij kreu, brenda qarkut ku është i emëruar/transferuar.

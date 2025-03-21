@@ -1,0 +1,10 @@
+3. Për përfitimin e pagesës, sipas pikës 1, të këtij kreu, punonjësi i policisë paraqet në organin ku emërohet, transferohet në mënyrë të përhershme apo të përkohshme dokumentacionin, si më poshtë vijon:
+a) Kërkesën me shkrim pranë njësisë shpenzuese ku është i punësuar punonjësi i Policisë;
+b) Fotokopjen e kartës së identitetit;
+c) Vërtetimin nga organi publik përgjegjës nëse punonjësi i policisë ka banesë në pronësi ose në proces legalizimi në juridiksionin e strukturës së Policisë së Shtetit, ku emërohet apo transferohet në mënyrë të përhershme apo të përkohshme.
+II. PAGESA PËR PAPUNËSINË E BASHKËSHORTES/IT
+1. Kur punonjësi i policisë emërohet, transferohet në mënyrë të përhershme apo të përkohshme për nevoja pune dhe shërbimi dhe, për këtë shkak, bashkëshortja/i humbet marrëdhëniet e punës, në rast të pamundësisë së punësimit, i jepet një pagesë, deri në çastin e punësimit, në masën:
+a) 50 % të pagës bazë minimale mujore në shkallë vendi, të miratuar nga Këshilli i Ministrave, kur bashkëshortja/i ka vjetërsi pune mbi 1 (një) vit dhe shtesë në masën 5% të pagës bazë minimale mujore në shkallë vendi, për çdo vit mbi 1 (një) vit, por jo më shumë se paga bazë minimale në shkallë vendi;
+b) 100 % të pagës mesatare mujore të vitit të fundit të punës, por jo më shumë se 150% të pagës bazë minimale mujore në shkallë vendi, të miratuar nga Këshilli i Ministrave, kur bashkëshortja/i ka vjetërsi në punë mbi 10 (dhjetë) vjet.
+2. Paga mesatare mujore e bashkëshortes/it rritet sipas indeksit të pagës minimale, në përputhje me aktet nënligjore në fuqi.
+3. Vjetërsia në punë e bashkëshortes/it konsiderohet vjetërsia e përgjithshme në punë, e dokumentuar në librezën e punës së çdo punonjësi/eje apo, në mungesë të librezës së punës, me çdo dokument tjetër ligjor të lëshuar nga organet kompetente përkatëse, sipas legjislacionit në fuqi, me përjashtim të viteve të sigurimit vullnetar, vetëpunësimit, shërbimit ushtarak për meshkujt, viteve të shkollimit në institucionet e arsimit të lartë dhe periudhave të trajtimit me pagesë papunësie.
