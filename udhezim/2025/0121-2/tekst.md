@@ -208,7 +208,7 @@ i. aktin e akreditimit të programit të studimit;
 
 ii. marrëveshjen specifike për programin e përbashkët të studimit, ku të parashikohen modalitetet e ofrimit të tij, si: autorësia dhe pronësia e syllabuseve të depozituara, gjuha dhe metoda e mësimit dhe provimeve, shkëmbimi i stafit pedagogjik, lloji i diplomës etj. Kjo marrëveshje mund të jetë edhe në formën e rregullores së përbashkët mësimore.” 
 
-i) Titulli i kreut IV/F dhe paragrafi i parë i pikës 1 të tij, ndryshojnë si vijon:
+i) Kreu IV/F ndryshon si vijon:
 
  “F. DOKUMENTACIONI DHE PROCEDURA PËR VERIFIKIMIN E KAPACITETEVE AKADEMIKE DHE INFRASTRUKTURORE.”
 
