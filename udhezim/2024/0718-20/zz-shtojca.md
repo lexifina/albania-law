@@ -86,34 +86,28 @@ R
 (11) Glynne MD. 1925. Eksperimentet e infeksionit me sëmundjen e kancerit të patateve. Synchytrium endobioticum. Analet e Biologjisë së Aplikuar 12:34-60.
 (12) Lemmerzahl J. 1930. Një metodë e re e thjeshtuar për inokulimin e kultivarëve të patates për të testuar rezistencën ndaj kancerit. Züchter 2:288-297.
 (13) Noble M, Glynne MD. 1970. Sëmundja e kancerit të patateve. Buletini i FAO-s për Mbrojtjen e Bimëve 18:125-135.
-ANEKSI II
-FORMATI I VROJTIMIT SIÇ PËRMENDET NË NENIN 3
-Formati për paraqitjen e rezultateve e vrojtimit të dëmtuesit të kancerit të patates nga vjelja e patates gjatë vitit, para vitit të raportimit.
-Kjo tabelë përdoret vetëm për rezultatet e vrojtimeve për patatet e vjela.
+ANEKS II
+FORMATI I VROJTIMIT SIÇ PËRMENDET NË NENIN 3(Ndryshuar me udhëzimin nr. 13, datë 17.3.2025)
+Formati për paraqitjen e rezultateve të vrojtimit të dëmtuesit të kancerit të patates, të kryera gjatë vitit kalendarik që i paraprin vitit të raportimit.
+Kjo tabelë përdoret vetëm për rezultatet e vrojtimit për patatet e vjelura
 Rajoni ose zona
-Kategoria e patateve
-Sipërfaqja totale e mbjelljes (ha)
+Kategoria
+Zona e mbjelljes (ha)
 Inspektimi vizual i zhardhokëve
 Testimi laboratorik
+Madhësia fillestare e zonës së infektuar (1) (ha)
+Madhësia e përditësuar e zonës së infektuar (2) (ha)
+Numrat e njoftimit të shpërthimeve të reja të njoftuara, sipas rastit, në përputhje me nenin 15, të ligjit nr. 105/2016, “Për mbrojtjen e bimëve”, të ndryshuar
 Informacion tjetër
-Numri i mostrave
-Numri i lot-it
-Madhësia e mostër
-Periudha e mostrimit
-Jo të dyshimta
-Numri i mostrave
-Madhësia e
-mostrat
-Një lloj testi
-Jo pozitive
-Mostrat
-Shumë
-Mostrat
-Shumë
-Patate për prodhimin e zhardhokëve për mbjellje
-Konsum dhe përpunim
-Të tjera(1)(specifiko)
-(1) Për vendet me shpërthime, është e rëndësishme për të treguar veçmas nga vrojtimet e përgjithshme sasinë e mostrave të përdorura për të hulumtuar ose ndjekur shpërthimet.
+Numri i loteve
+Numri i loteve të dyshimta
+Numri i mostrave të testuara
+Numri i mostrave pozitive
+Zhardhokët e patates për mbjellje
+Zhardhokët e patates përveç për mbjellje
+.
+(1) Madhësia totale e zonës së infektuar para vitit të mbuluar nga raporti.
+(2) Madhësia totale e zonës së infektuar në vitin e mbuluar nga raporti.
 ANEKSI III
 PROTOKOLLI PËR VLERËSIMIN E REZISTENCËS TË NJË VARIETETI TË PËRMENDUR NË PIKËN 2 TË NENIT 7
 Protokolli për vlerësimin e rezistencës së një varieteti përfshin hapat e mëposhtëm.
@@ -179,7 +173,8 @@ Fusha të dendura infeksioni, fusha të shumta të pjekura jonekrotike dhe sorus
 ANEKSI IV
 KUSHTET PËR REVOKIMIN E MASAVE TË PËRMENDURA NË NENIN 9
 1. Kushtet për revokimin e masave
-1.1 Pas një minimumi prej 50 vjetësh nga zbulimi i fundit i dëmtuesit të specifikuar, nëse ka një të dhënë pa shkëputje të kulturave në zonën e infektuar që tregon se dispozitat e pikës 2 dhe 3 të nenit 6, janë respektuar gjatë gjithë kohës dhe se zona e infektuar nuk është përdorur si kullotë e përhershme;
+1.1 Pas një minimumi prej 50 vitesh nga zbulimi i fundit i dëmtuesit të specifikuar, nëse ka një të dhënë pa shkëputje të kulturave në zonën e infektuar, që tregon se dispozitat e pikave 2 dhe 3, të nenit 6, janë respektuar gjatë të gjithë kohës dhe se zona e infektuar nuk është përdorur si kullotë e përhershme.
+Kur zona e infektuar është përdorur si kullotë e përhershme, masat mund të revokohen vetëm kur nuk janë zbuluar shenja infektimi nga dëmtuesi i specifikuar në mostrat e tokës, të cilat janë marrë duke aplikuar skemën që do të përdoret për të marrë dheun për testimin e përcaktuar në pikën 1.2 të këtij aneksi; ose
 1.2 Pas një minimumi prej 20 vjetësh, që nga zbulimi i fundit i dëmtuesit të specifikuar, nëse ka një të dhënë pa boshllëqe të kulturave që tregojnë se dispozitat e pikës 2 dhe 3 të nenit 6, janë respektuar gjatë gjithë kohës dhe se zona e infektuar nuk është përdorur si kullotë e përhershme; dhe
 - asnjë shenjë e infeksionit me dëmtuesin e specifikuar nuk është zbuluar në dy analiza biologjike (siç përshkruhet në pikën 3) me kultivarë të ndjeshëm të patates; ose
 - asnjë shenjë e infeksionit me dëmtuesin e specifikuar nuk është zbuluar në 1 analizë biologjike (siç përshkruhet në pikën 3) me kultivarë të ndjeshëm të patates dhe nuk janë gjetur spore të qëndrueshme pushimi gjatë një ekzaminimi të drejtpërdrejtë të tokës nga zona e infektuar me mikroskop pas një nxjerrje të sporeve me një nga metodat e parashikuara në pikën 2 e aneksit I.
