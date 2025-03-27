@@ -21,7 +21,7 @@ a) bimët bujtëse të referuara në shkronjën “a” të pikës 2 të këtij 
 b) bimët bujtëse të referuara në shkronjën “b” të pikës 2 të këtij neni, si potencialisht të infektuara.
 4. Kur prania e dëmtuesit të specifikuar konfirmohet në ujërat sipërfaqësore, në shkarkimet e mbeturinave të lëngshme nga përpunimi industrial ose nga ambientet e ambalazhimit që trajtojnë bimë të specifikuara ose në bimë bujtëse të egra të lidhura dhe ku prodhimi i bimëve të specifikuara identifikohet me risk nëpërmjet ujitjes, spërkatjes ose përmbytjes me ujë sipërfaqësor, AKVMB-ja merr masat e mëposhtme:
 a) nisë një hulumtim në përputhje me aneksin III, bashkëlidhur këtij udhëzimi, duke përfshirë një vrojtim në kohë të përshtatshme mbi mostrat e ujërave sipërfaqësore dhe mbetjeve të lëngshme dhe mbi bimët bujtëse të egra solanaceous, nëse janë të pranishme, në mënyrë që të përcaktohet shtrirja e infeksionit; dhe
-b) vendos një zonë të shënuar që përmban një zonë të infektuar duke marrë parasysh elementet e një përhapjeje të mundshme të dëmtuesit të specifikuar, siç përcaktohet në pikën 2, të aneksit IV bashkëlidhur këtij udhëzimi.
+b) ujërat sipërfaqësore që mund të infektohen, duke marrë parasysh elementet e rendituar në shkronjat “ii” dhe “iii”, të shkronjës “b”, të pikës 2, të aneksit IV, bashkëlidhur këtij udhëzimi.
 Zona e infektuar duhet të përmbajë, si vijon:
 a) ujin sipërfaqësor nga i cili është marrë mostra e infektuar;
 b) ujin sipërfaqësor që mund të infektohet, duke marrë parasysh elementet e renditura në pikën 1, të aneksit IV, bashkëlidhur këtij udhëzimi.

@@ -51,37 +51,61 @@ Seksionet e indeve duhet të hiqen në mënyrë aseptike nga unaza vaskulare në
 4.4. Mostrat e ujit sipërfaqësor ose riqarkullues (përfshirë përpunimin e patates ose rrjedhjet e ujërave të zeza)
 Testi kryesor për zbulimin e dëmtuesit të specifikuar në mostrat e ujërave sipërfaqësore, ujit nga sistemet e riqarkullimit dhe mostrat e efluentit (industria e përpunimit të patates) është izolimi selektiv. Procedura e përshtatshme laboratorike për përpunimin e mostrave të ujit është përshkruar në standardet ndërkombëtare të diagnostikimit​
 ANEKSI II
-Modeli i vrojtimit referuar në pikën 3 të nenit 3
-Formati për paraqitjen e rezultateve të vrojtimit të kalbëzimit kaf për vjeljen e patates dhe të domateve të vitit kalendarik paraardhës.
-Kjo tabelë përdoret vetëm për rezultatet e vrojtimit për patatet dhe domatet e vjela.
+FORMATI I VROJTIMIT, REFERUAR NË PIKËN 3, TË NENIT 3
+Formati për paraqitjen e rezultateve të vrojtimeve të kalbëzimit unazor të kryera gjatë vitit kalendarik që i paraprin vitit të raportimit.
+Rajoni
 Kategoria
 Zona e mbjelljes (ha)
-Testimi laboratorik
-Inspektimi vizual i zhardhokëve(1)
-Inspektimet vizuale të kulturave në rritje(1)
-Informacioni tjetër
-Numri i mostrave
-Numri i lot-eve
-Madhësia e lot-et (në t ose ha)
-Periudha e mostrimit
-Jo pozitive
-Numri i mostrave të inspektuara
-Madhësia e mostrës
-Nr. i mostrave pozitiv (2)
-Numri i inspektimeve vizuale
-Nr. i ha (patate) ose bimë (domate)
-Nr. i rezultateve pozitive (2)
-Mostrat
-Lotet
-Zhardhokët e certifikuar për mbjellje
-Zhardhokët e tjerë për mbjellje (specifikoni)
-Mallra dhe patatet e përpunuar
-Zhardhokët e tjerë (specifiko)
+Inspektime vizuale të kulturave në rritje
+Inspektimet vizuale të lot-eve të zhardhokëve në magazinë (a)
+Zona e inspektuar vizualisht (ha)
+Numri i inspektimeve vizuale (b)
+Numri i inspektimeve vizuale ku janë vëzhguar simptomat (c)
+Numri i mostrave simptomatike të marra (ç)
+Numri i mostrave asimptomatike të marra (ç)
+Numri i inspektimeve vizuale (b)
+Numri i inspektimeve vizuale ku janë vëzhguar simptomat (c)
+Numri i mostrave simptomatike të marra (ç)
+Numri i mostrave asimptomatike të marra (ç)
+Zhardhokët e patates për mbjellje (e)
+Zhardhokët e patates të destinuara për t’u mbjellë në vendin e tyre të prodhimit
+Zhardhokët e patates përveç atyre për mbjellje
 Domate të destinuara për rimbjellje
-Bujtësit e tjerë (specifikoni speciet, lumin/zonën)
-Uji (specifikoni lumin/zonën/vendndodhjen e ndërtesave)
-(1) Kuptohet si ekzaminim makroskopik i zhardhokëve ose i kulturave.
-(2) U gjendën simptoma, u mor një mostër dhe testimi laboratorik konfirmoi pranin e dëmtuesit të specifikuar.
+Bujtësit e tjerë (specifikoni speciet)
+Uji i ujitjes
+Ujëra të ndotura
+(a) Të plotësohet vetëm për rezultatet e vrojtimit të kryer në bimë të specifikuara dhe bujtës të tjerë të rritur dhe vjelur në rajonin përkatës.
+(b) Duke përfshirë numrin e inspektimeve të shumta vizuale të kryera në të njëjtën fushë ose në të njëjtin lot, sipas rastit.
+(c) Simptomat u gjetën në zhardhokët ose bimët e prera dhe mostrat u morën për testim laboratorik.
+(ç) Përgatitja e mostrës përshkruhet në pikën 4, të aneksit I të këtij udhëzimi.
+(d) Simptomat u gjetën në zhardhokët e prerë dhe mostrat u morën për testim laboratorik.
+(e) Përveç zhardhokëve të patates që synohen të mbillen në vendin e tyre të prodhimit.
+Laboratori
+Kategoria
+Testet laboratorike në lidhje me inspektimet vizuale të kulturave në rritje
+Testet laboratorike në lidhje me inspektimet e lot-it të zhardhokëve
+Testet laboratorike në lidhje me ujin
+Numrat e njoftimit të shpërthimeve të reja të njoftuara, sipas rastit, në përputhje me nenin 15, të ligjit nr. 105/2016, “Për mbrojtjen e bimëve”, të ndryshuar
+Informacione shtesë
+Numri i mostrave simptomatike
+Testuar pozitiv
+Numri i mostrave asimptomatike të testuara pozitiv
+Numri i inspektimeve vizuale pozitive (a)
+Numri i mostrave simptomatike të testuara pozitiv
+Numri i mostrave asimptomatike të testuara pozitiv
+Numri i lot-eve pozitiv
+Numri i mostrave të testuara
+Numri i mostrave pozitive
+Zhardhokët e patates për mbjellje (b)
+Zhardhokët e patates të destinuara për t’u mbjellë në vendin e tyre të prodhimit
+Zhardhokët e patates përveç atyre për mbjellje
+Domate të destinuara për rimbjellje
+Bujtësit e tjerë (specifikoni speciet)
+Uji i ujitjes
+Ujëra të ndotura
+.
+(a) Numri total i inspektimeve vizuale për të cilat mostrat u testuan pozitivisht për praninë ose R. solanacearum.
+(b) Përveç zhardhokëve të patates që synohen të mbillen në vendin e tyre të prodhimit.
 ANEKSI III
 Hulumtimi i përmendur në shkronjën “a” të pikës 2 të nenit 5, shkronja “a” e paragrafit të parë të pikës 3 të nenit 5, dhe shkronja “a” e paragrafit të parë të pikës 4 të nenit 5
 Hulumtimi i përmendur në shkronjën “a” të pikës 2 të nenit 5, shkronja “a” e paragrafit të parë të pikës 3 të nenit 5, dhe në shkronjën “a” të paragrafit të parë të pikës 4 të nenit 5, do të ketë të bëjë me elementet e mëposhtme, sipas rastit:
@@ -97,7 +121,7 @@ f) të përmbytur ose që janë përmbytur me ujë sipërfaqësor të konfirmuar
 2. Ujërat sipërfaqësore të përdorura për ujitje ose spërkatje të bimëve të specifikuara ose që kanë përmbytur fusha ose vende prodhimi të konfirmuara se janë të infektuara me dëmtuesin e specifikuar.
 ANEKSI IV
 Elementet për përcaktimin e artikujve si të infektuar me gjasë nga dëmtuesi i specifikuar në përputhje me shkronjat “ii”, “b” të pikës 2 të nenit 5 dhe shkronja “b” e paragrafit të dytë të pikës 4 të nenit 5 dhe për përcaktimin e përhapjes së mundshme të dëmtuesit të specifikuar në përputhje me shkronjën “c” të pikës 2 të nenit 5 dhe shkronjës “b” paragrafit të parë të pikës 4 të nenit 5
-1. Elementet që merren parasysh për përcaktimin e një rasti si të infektuar me gjasë nga dëmtuesi i specifikuar në përputhje me shkronjën “ii”, “b” të pikës 2 të nenin 5, dhe nënparagrafi e dytë të shkronjës “b” të pikës 4 të nenit 5, janë si më poshtë:
+1. Elementet që duhen marrë parasysh për përcaktimin e një rasti me gjasë si të infektuar nga dëmtuesi i specifikuar, në përputhje me shkronjat “ii”/“b”, të pikës 2, të nenit 5, janë si më poshtë:
 a) bimët e specifikuara të rritura në një vend prodhimi të përcaktuar si të infektuar në përputhje me shkronjën “i”, “ç” të pikës 2 të nenit 5;
 b) vendi/et e prodhimit me ndonjë hallkë prodhimi me bimët e specifikuara të përcaktuara si të infektuara në përputhje me shkronjën “i”, “ç” të pikës 2 të nenit 5, duke përfshirë ato që ndajnë pajisjet dhe pajisjet e prodhimit drejtpërdrejt ose nëpërmjet një kontraktori të përbashkët;
 c) bimët e specifikuara të prodhuara në vendet e prodhimit të përmendura në shkronjën “b” ose të pranishme në këto vende prodhimi gjatë periudhës kur bimët e specifikuara janë përcaktuar si të infektuara, në përputhje me shkronjën nenin “i”, “ç” të pikës 2 të nenit 5, pika ishin të pranishme në vendin e prodhimit të përmendur në shkronjën “a”;
@@ -106,19 +130,19 @@ d) çdo makineri, automjet, anije, magazinë ose njësi të tyre, dhe çdo objek
 e) ndonjë nga bimët e specifikuara të ruajtura ose në kontakt me ndonjë nga strukturat ose objektet e renditura në pikën e mëparshme, përpara pastrimit dhe dezinfektimit të strukturave dhe objekteve të tilla;
 ë) si rezultat i hulumtimit dhe testimit në përputhje me shkronjën nenin “a”, të pikës 2, të nenit 5, pika në rastin e patateve, ato zhardhokët ose bimët e klonuara gjenetikisht të njëjta, dhe në rastin e domates, ato bimë me të njëjtin burim si bimët e specifikuara të përcaktuara për t’u infektuar, në përputhje me shkronjën “i” “ç”, të pikës 2, të nenit 5, dhe për të cilat, megjithëse mund të kenë rezultuar negative për dëmtuesin e specifikuar, duket se infeksioni është e mundshme përmes një lidhje klonale;
 f) vendi/et e prodhimit të bimëve të specifikuara të përmendura në shkronjën “ë”;
-i) vendi/et e prodhimit të bimëve të specifikuara që përdorin ujë për ujitje ose spërkatje të përcaktuara si të infektuara sipas nënparagrafi të tretë të shkronjës “a”, të pikës 4, të nenit 5;
-g) bimët e specifikuara të prodhuara në vendet e prodhimit të përmbytura me ujë sipërfaqësor të konfirmuar të infektuar.
+i. vendi/et e prodhimit të bimëve të specifikuara që përdorin ujë për ujitje ose spërkatje, të përcaktuara si të infektuara në përputhje me nënparagrafin e tretë, të shkronjës “a”, të pikës 4, të nenit 5 të këtij udhëzimi ose që mund të infektohen në përputhje me nënparagrafin e tretë të shkronjës “b”, të pikës 4, të nenit 5, të këtij udhëzimi;
+j. bimët e specifikuara të prodhuara në vendndodhjet e prodhimit të përmbytura me ujë sipërfaqësor të konfirmuar të infektuar ose që rrezikon të infektohet.
 2. Elementet që duhen marrë parasysh në përcaktimin e përhapjes së mundshme të dëmtuesit të specifikuar, në përputhje me shkronjën “c”, të pikës 2, të nenit 5 dhe nënparagrafi të parë të shkronjës “b”, të pikës 4, të nenit 5, janë si më poshtë:
 a) në zonën e shënuar si të përcaktuar në bazë të shkronjës “b”, të pikës 2, të nenit 5:
 i. afërsia e vendeve të tjera të prodhimit ku rriten bimët e specifikuara;
 ii. prodhimi dhe përdorimi i përbashkët i rezervave të zhardhokëve për mbjellje;
 iii. vendet e prodhimit që përdorin ujërat sipërfaqësore për ujitje ose spërkatje të bimëve të specifikuara, në rastet kur ka ose ka pasur risk të rrjedhjes së ujit sipërfaqësor nga ose përmbytjes së, vendeve të prodhimit të përcaktuara për t’u infektuar, në përputhje me shkronjën “i”, “b”, të pikës 2 të nenit 5;
-b) në rastet kur uji sipërfaqësor është përcaktuar si i infektuar në përputhje me nënparagrafi e tretë të pikës 4 të nenit 5:
-i. vendi/et e prodhimit që prodhojnë bimë të specifikuara ngjitur ose në risk nga përmbytjet nga uji sipërfaqësor i përcaktuar si i infektuar;
-ii. çdo basen ujitës të veçantë të lidhur me ujin sipërfaqësor të përcaktuar si të infektuar;
-iii. ujëmbajtës të lidhur me ujin sipërfaqësor të përcaktuar si të infektuar, duke marrë parasysh:
-- drejtimin dhe shpejtësinë e rrjedhës së ujit të përcaktuar si të infektuar;
-- pranin e bimëve bujtëse të egra solanaceous.
+b) në rastet kur uji sipërfaqësor është përcaktuar si i infektuar në përputhje me nënparagrafin e tretë, të shkronjën “a”, të pikës 4, të nenit 5 ose mund të infektohet në përputhje me nënparagrafin e tretë, të shkronjës “b”, të pikës 4, të nenit 5, të këtij udhëzimi:
+i. vendet e prodhimit ngjitur që prodhojnë bimë të specifikuara ose në risk nga përmbytjet nga ujërat sipërfaqësore të përcaktuara si të infektuara ose që rrezikon të infektohet;
+ii. çdo basen ujitës të veçantë të lidhur me ujin sipërfaqësor të përcaktuar si të infektuar ose që rrezikon të infektohet;
+iii. ujëmbajtës të lidhur me ujin sipërfaqësor të përcaktuar si të infektuar ose që rrezikon të infektohet, duke marrë parasysh:
+- drejtimin dhe shpejtësinë e rrjedhjes së ujit të përcaktuar si të infektuar ose që rrezikon të infektohet;
+- praninë e bimëve bujtëse të egra solanaceous.
 ANEKSI V
 Masat e çrrënjosjes, siç referohen në nenin 6
 1. Masat e përmendura në pikën 1 të nenit 6 do të jenë një ose më shumë nga sa vijon:
@@ -184,10 +208,13 @@ ii. ata do të kërkojnë mbjelljen e vetëm zhardhokëve të certifikuar për m
 iii. do të kërkojnë trajtimin e veçantë të zhardhokëve të vjelë për mbjellje të stoqeve nga rezervat e zhardhokëve të tjerë në të gjitha vendet e prodhimit, brenda zonës së shënuar, ose një sistem pastrimi dhe, sipas rastit, dezinfektimi që do të kryhet ndërmjet trajtimit të rezervave të zhardhokëve për mbjellje dhe të zhardhokëve të tjerë;
 iv. kërkojnë mbjelljen e vetëm të bimëve të domates të rritura nga farat që plotësojnë kërkesat e urdhrit nr. 113 ose, nëse shumohen në mënyrë vegjetative, nga bimë domate të prodhuara nga fara të tilla dhe të rritura nën kontrollin zyrtar, për të gjitha kulturat e domates brenda asaj zone shënuar;
 v) do të kryejnë vrojtime, siç parashikohet në pikën 1 të nenit 3;
-b) në rastet kur uji sipërfaqësor është përcaktuar si i infektuar në përputhje me nënparagrafi i tretë të shkronjës “a” të pikës 4 të nenit 5, ose është përfshirë në elementet për përhapjen e mundshme të dëmtuesit të specifikuar në përputhje me pikën 2 të aneksit IV:
-i. do të kryejnë vrojtimin vjetor në momentet e duhura, duke përfshirë marrjen e mostrave të ujërave sipërfaqësore dhe kur është e përshtatshme, të bimëve bujtëse të egra solanaceous në burimet përkatëse ujore dhe do të garantojnë që mostrat u nënshtrohen testeve të përmendura në aneksin I;
-ii. do të vendosin kontrolle zyrtare mbi programet e ujitjes dhe të spërkatjes, duke përfshirë ndalimin e përdorimit të ujit të përcaktuar si të infektuar për ujitjen dhe spërkatjen e bimëve të specifikuara, dhe sipas rastit, bimëve të tjera të kultivuara bujtëse solanaceous, në mënyrë që të parandalohet përhapja e dëmtuesit të specifikuar. Ky ndalim mund të rishikohet në bazë të rezultateve të marra nga mostrimi intensiv dhe testimi i ujit sipërfaqësor, në kohë të përshtatshme, për të siguruar një nivel të lartë besueshmërie se dëmtuesi i specifikuar nuk është më i pranishëm. Përdorimi i ujit që i nënshtrohet ndalimit mund të lejohet në serra, nën kontrollin zyrtar, për ujitje dhe spërkatje të bimëve të domates dhe bimëve të tjera bujtëse të destinuara për konsum dhe përpunim përfundimtar, me kusht që uji të dezinfektohet duke përdorur metoda të përshtatshme. Në këtë rast, AKVMB-të mund të revokojnë përcaktimin e ujit si të infektuar nga dëmtuesi i specifikuar;
-iii. në rastet kur shkarkimet e mbetjeve të lëngshme janë të infektuara, AKVMB-të do të vendosin kontrolle zyrtare për asgjësimin e shkarkimeve të mbetjeve të ngurta ose të lëngshme nga stacionet e përpunimit industrial ose të ambalazhimit që trajtojnë bimë të specifikuara të vendeve të prodhimit;
+b) në rastet kur uji sipërfaqësor është përcaktuar si i infektuar në përputhje me nënparagrafin e tretë, të shkronjës “a”, të pikës 4, të nenit 5, të këtij udhëzimi ose që rrezikohet të infektohet në përputhje me nënparagrafin e tretë, të shkronjës “b”, të pikës 4, të nenit 5 të këtij udhëzimi, ose është përfshirë në elementet që duhen marrë parasysh në përcaktimin e përhapjes së mundshme të dëmtuesit të specifikuar në përputhje me pikën 2, të aneksit IV, të këtij udhëzimi:
+i. do të kryejnë vrojtime vjetor në momentet e duhura, duke përfshirë marrjen e mostrave të ujërave sipërfaqësore dhe kur është e përshtatshme, të bimëve bujtëse të egra solanaceous në burimet përkatëse ujore dhe do të sigurojnë që mostrat i nënshtrohen testeve të përmendura në aneksin I, bashkëlidhur këtij udhëzimi;
+ii. do të vendosin kontrolle zyrtare mbi programet e ujitjes dhe spërkatjes, duke përfshirë ndalimin e përdorimit të ujit të përcaktuar si të infektuar dhe të ujit që rrezikon të infektohet për ujitjen dhe spërkatjen e bimëve të specifikuara dhe, sipas rastit, solanaceous të tjera të kultivuara bimët bujtëse për të parandaluar përhapjen e dëmtuesit të specifikuar;
+iii. në rastet kur shkarkimet e mbetjeve të lëngshme janë të infektuara, AKVMB-të do të vendosin kontrolle zyrtare për asgjësimin e shkarkimeve të mbetjeve të ngurta ose të lëngshme nga përpunimi industrial ose stacionet e ambalazhimit që trajtojnë bimët e specifikuara të vendeve të prodhimit.
+c) në rastet e përmendura në paragrafin hyrës, të shkronjës “b” të kësaj pike, do të zbatohen përjashtimet e mëposhtme:
+i. duke përjashtuar shkronjën “i”/“b”, AKVMB-të mund të vendosin të mos kryejnë vrojtime vjetore të ujërave sipërfaqësore që janë përcaktuar si të infektuara ose që rrezikojnë për t’u infektuar, për sa kohë që nuk ka tregues të ndryshimit të statusit të dëmtuesve në zonën e shënuar;
+ii. me përjashtim të shkronjës “ii”/“b” të kësaj pike, përdorimi i ujit që i nënshtrohet atij ndalimi mund të lejohet në serra, nën kontrollin zyrtar, për ujitje dhe spërkatje të bimëve të domates dhe bimëve të tjera bujtëse, të destinuara për konsum përfundimtar dhe përpunim, me kusht që uji të dezinfektohet duke përdorur metoda të përshtatshme ose të jetë i pastër nga dëmtuesit pas marrjes së mostrave dhe testimit intensiv.
 3. Do të krijojnë një program, sipas rastit, për zëvendësimin e të gjitha rezervave të zhardhokëve për mbjellje gjatë një periudhe të përshtatshme kohore.
 ANEKSI VI
 Kërkesat për asgjësimin e mbeturinave të miratuara zyrtarisht siç përmendet në pikën 1 të aneksit V
