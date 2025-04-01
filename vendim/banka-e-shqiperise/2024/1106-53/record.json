@@ -1,0 +1,26 @@
+{
+  "qbz_id": 29200,
+  "title": "Për disa ndryshime në rregulloren \"Mbi raportimet në Bankën e Shqipërisë sipas sistemit raportues të unifikuar\"",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "53",
+  "institution": "Banka e Shqipërisë",
+  "adopted": "2024-11-06",
+  "published": "2024-11-14",
+  "in_force": "2025-04-01",
+  "in_force_basis": "\"hyn në fuqi më 1 prill 2025\"",
+  "source": "https://qbz.gov.al/files/20207866c736d6e5f71c15a62d5d42b8af78722411b0cdc0f1d17b1145e9ae5d.docx",
+  "source_sha256": "20207866c736d6e5f71c15a62d5d42b8af78722411b0cdc0f1d17b1145e9ae5d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/29200",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2024/11/06/53",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
