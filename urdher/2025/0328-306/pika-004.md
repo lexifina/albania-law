@@ -1,0 +1,1 @@
+4. Për zbatimin e këtij urdhri, të hartohet një Plan i Përbashkët Operativ Veprimi nga Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës, në koordinim me OMP-të përkatëse që ushtrojnë aktivitete peshkimi në këto liqene.

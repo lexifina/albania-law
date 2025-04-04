@@ -1,0 +1,1 @@
+6. OMP-të, bashkëpunojnë me strukturat e vetëqeverisjes vendore, Drejtoritë Rajonale të AKU-së, Drejtorinë e Policisë së Rendit dhe atë Kufitare të qarqeve përkatëse dhe me Policitë Bashkiake përkatëse.
