@@ -8,4 +8,4 @@ dh) “Vlerësim kontributi”, shkresa e arsyetuar, me anë të së cilës mini
 KREU II
 KRITERET PËR FITIMIN E SHTETËSISË SHQIPTARE NË BAZË TË PROGRAMEVE TË VEÇANTA TË SHTETËSISË ME INTERES NË FUSHËN E ARSIMIT, SHKENCËS, ARTIT, KULTURËS DHE SPORTIT
 Ka të drejtë të kërkojë për t’u përfshirë në programin e veçantë shtetasi i huaj (në vijim kërkuesi), që plotëson këto kritere:
-1. Ka mbushur moshën 18 vjeç;
+1. Ka mbushur moshën 18 vjeç dhe ka zotësi për të vepruar ose në rast se nuk ka mbushur këtë moshë, shtetësia shqiptare mund të fitohet vetëm me pëlqimin e të dy prindërve ose kujdestarit ligjor, si dhe të fëmijës që ka moshën 14-18 vjeç.

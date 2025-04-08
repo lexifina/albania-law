@@ -14,7 +14,7 @@ Kontrolli, verifikimi dhe përpunimi i të dhënave personale të kërkuesit do 
 Kontrolli i të dhënave përfshin verifikimin e identitetit të kërkuesit dhe bashkëpunimin me organet kompetente lidhur me verifikimin e të dhënave ndaj kërkuesit.
 Përpunimi i ligjshëm i të dhënave personale bëhet duke respektuar dhe garantuar të drejtat e njeriut dhe në veçanti të drejtën e respektimit të jetës private.
 Ky formular do të pranohet nëse:
-1. Është plotësuar nga vetë kërkuesi, në dorëshkrim, me shkronja kapitale dhe pa korrigjime.
+1. Është plotësuar nga vetë kërkuesi kur ai është mbi 14 vjeç ose nga prindërit ose kujdestari ligjor për kërkuesin, kur ai është nën këtë moshë.
 2. Nuk ka rubrika të paplotësuara.
 3. Kërkuesi vendos emrin, mbiemrin dhe nënshkrimin në fund të çdo faqeje
 General information:

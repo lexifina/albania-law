@@ -1,1 +1,1 @@
-2. Ka zotësi për të vepruar;
+2. Shfuqizuar;
