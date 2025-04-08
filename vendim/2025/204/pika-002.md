@@ -1,0 +1,1 @@
+2. Miratimin e zonifikimit të zonave arkelologjike “A” dhe “B” të qytetit të Krujës, sipas koordinatave dhe hartës së zonifikimit në Kornizën Referuese Gjeodezike Shqiptare (KRGJSH), që i bashkëlidhen këtij vendimi.
