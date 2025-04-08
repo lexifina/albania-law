@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINISTRIA E BUJQËSISË DHE ZHVILLIMIT RURAL
-Anila Denaj
