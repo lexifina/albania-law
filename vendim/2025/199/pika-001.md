@@ -1,0 +1,1 @@
+1. Për financimin e fushatës zgjedhore për Kuvendin e Shqipërisë të datës 11 maj 2025, në programin “Mbështetje për partitë politike” shtohet fondi prej 150 000 000 (njëqind e pesëdhjetë milionë) lekësh, i cili u shpërndahet subjekteve zgjedhore, pjesëmarrëse në këto zgjedhje, nga Komisioni Qendror i Zgjedhjeve.

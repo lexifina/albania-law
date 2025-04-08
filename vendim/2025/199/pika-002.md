@@ -1,0 +1,1 @@
+2. Efekti financiar, i parashikuar sipas pikës 1, të këtij vendimi, përballohet nga fondi rezervë i Këshillit të Ministrave, për raste të paparashikuara të njësive të qeverisjes së përgjithshme, miratuar për vitin 2025.
