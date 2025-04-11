@@ -8,7 +8,7 @@ Objekti
 Në këtë rregullore përcaktohen kërkesat dhe kriteret, të cilave u nënshtrohen të gjithë personat fizikë a juridikë, sipërmarrjet që ushtrojnë veprimtarinë nëpërmjet platformave elektronike, që licencohen për ushtrimin e veprimtarisë si agjenci udhëtimi, në territorin e Republikës së Shqipërisë.
 Neni 2
 Kërkesat dhe kriteret për ushtrimin e veprimtarisë, si agjenci udhëtimi
-Personi fizik ose juridik, që ushtron veprimtarinë, si agjenci udhëtimi, duhet të zbatojë kërkesat e mëposhtme:
+Personi fizik ose juridik, që ushtron veprimtarinë si agjenci udhëtimi, përveç kritereve të përcaktuara në pikën 2, të nenit 48, të ligjit nr. 93/2015, zbaton edhe kërkesat dhe kriteret e mëposhtme:
 1. Ambienti i ushtrimit të veprimtarisë nuk mund të jetë më pak se 10 m2 dhe duhet të jetë i pajisur me pajisje të përshtatshme pune, përfshirë tavolinë pune, karrige, pajisje informatike, duhet të ketë akses në internet, akses në rrjetin telefonik etj.
 2. Subjekti, që ushtron veprimtarinë, si agjenci udhëtimi, duhet të ketë jo më pak se dy të punësuar.
 3. Nëse në mjedisin e punës punojnë më shumë se dy punonjës, sipërfaqja minimale e detyrueshme duhet të jetë të paktën 4 m2 mbi sipërfaqen minimale të përcaktuar në pikën 1 të këtij neni, për çdo punonjës shtesë.
@@ -20,7 +20,7 @@ Personi fizik ose juridik, që ushtron veprimtarinë, si agjenci udhëtimi, duhe
 9. Çdo paketë udhëtimi, e përgatitur nga operatori turistik, kur shitet te klienti fundor nëpërmjet agjencisë së udhëtimit, në mënyrë të drejtpërdrejtë në mjedisin e punës ose nëpërmjet komunikimit elektronik, shoqërohet me kontratën e lidhur mes klientit, operatorit turistik dhe/ose agjencisë së udhëtimit sipas legjislacionit në fuqi, e nënshkruar nga palët në formën e printuar ose sipas parashikimeve të ligjit nr. 9880, datë 25.2.2008, ”Për nënshkrimin elektronik’’.
 10. Agjencia e udhëtimit mbron të dhënat personale të administruara prej saj në përputhje me ligjin nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, përfshirë identitetin, adresën, vendin, kohën e udhëtimit, qëndrimin dhe çmimin dhe nuk i përhap të dhënat te palë të treta, pa pëlqimin paraprak të shprehur të klientit, me përjashtim të rasteve kur detyrohet nga ligji ta japë këtë informacion tek organet përkatëse shtetërore.
 11. Të sigurojë një mënyrë të përshtatshme për depozitimin e ankesave nga klientët, përfshirë, por pa u kufizuar, një libër ankesash në mjedisin e punës, adresë elektronike për pritjen e ankesave etj. dhe, brenda 3 (tri) ditësh nga data e depozitimit të ankesës, të japë një përgjigje me shkrim.
-12. Në përfundim të afatit 3-ditor për shqyrtimin e ankesës nga operatori turistik, parashikuar në pikën 11, të nenit 2, të rregullores, klienti mund të paraqesë ankesë pranë Inspektoratit Shtetëror të Mbikëqyrjes së Tregut, në përputhje me nenin 17, të ligjit nr. 93/2015, “Për turizmin”, dhe rregulloren për trajtimin dhe shqyrtimin e ankesave.
+12. Në përfundim të afatit 3-ditor për shqyrtimin e ankesës nga operatori turistik, parashikuar në pikën 11, të nenit 2, të rregullores, klienti mund të paraqesë ankesë pranë strukturës përgjegjëse për inspektimin në fushën e turizmit.
 Neni 3
 Përfaqësimi i agjencisë së udhëtimit
 1. Agjencia e udhëtimit përfaqësohet gjatë ushtrimit të veprimtarisë nga përfaqësuesi ligjor (administratori).

@@ -1,2 +1,2 @@
-2. Ngarkohen Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes dhe Inspektorati Shtetëror i Mbikëqyrjes së Tregut për zbatimin e këtij vendimi.
+2. Ngarkohen Ministria e Turizmit dhe Mjedisit dhe Struktura përgjegjëse për inspektimin në fushën e turizmit për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
