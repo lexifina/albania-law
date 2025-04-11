@@ -1,0 +1,1 @@
+1. Caktimin e datave 15 dhe 16 maj 2025 ditë pushimi për punonjësit e institucioneve të administratës shtetërore, me seli në territoret e bashkive Tiranë, Kamzë, Vorë dhe Krujë, me përjashtim të Forcave të Armatosura, të Policisë së Shtetit, të Gardës së Republikës, të shërbimit zjarrfikës dhe të punonjësve të sistemit shëndetësor.
