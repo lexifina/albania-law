@@ -142,6 +142,7 @@ dh) drejtorinë përgjegjëse për çështjet e strehimit.”.
 a) nëpunësi në pozicionin “titullar i institucionit”, në masën 70 000 (shtatëdhjetë mijë) lekë në muaj;
 b) nëpunësit në pozicionet “drejtor drejtorie” të drejtorive të përmbajtjes, në masën 60 000 (gjashtëdhjetë mijë) lekë në muaj;
 c) nëpunësit në pozicionet “përgjegjës sektori” dhe “specialist” në njësitë organizative të përmbajtjes, në masën 45 000 (dyzet e pesë mijë) lekë në muaj.
+29. Në Kancelarinë e Urdhrave dhe Medaljeve, nëpunësi në pozicionin “kancelar”, në masën 70 000 (shtatëdhjetë mijë) lekë në muaj.
 Lidhja nr. 4
 Nëpunësit civilë dhe nëpunësit e përcaktuar që përfitojnë shtesë për kushte të vështira e të dëmshme për shëndetin në masën dhe sipas rregullave e kritereve të përcaktuara në vendimin përkatës të Këshillit të Ministrave
 Nëpunësit civilë dhe nëpunësit e institucioneve të përcaktuara në pikën 1, të kreut I, të këtij vendimi që përfitojnë shtesë për kushte të vështira e të dëmshme për shëndetin, janë si vijon:
@@ -452,34 +453,38 @@ Klasat e pagave të pozicioneve të punës në Shkollën e Magjistraturës
 | |IV-2 |1 ose 2, ose 3 |
 | |IV-3 |1 ose 2, ose 3 |
 Lidhja nr. 8
-Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “Titullar institucioni” në institucionet e përcaktuara në shkronjën “b”, të pikës, 1, të kreut I, të këtij vendimi
+Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “Specialist” deri në “Titullar institucioni” në institucionet e përcaktuara në shkronjën “b”, të pikës, 1, të kreut I, të këtij vendimi
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
-|Titullar i institucionit. |I-2 |1 |
-|Zëvendëstitullar i Agjencisë për Media dhe Informim. |I-3 |1 |
-|Drejtor njësie në Departamentin e Administratës Publike. |I-4 |1 |
-|Zv/titullar i institucionit. |II-1 |1 |
-|Drejtor i drejtorive të përmbajtjes. | | |
-|Koordinator në Agjencinë për Dialog dhe Bashkëqeverisje. | | |
+|Kancelar i Kancelarisë së Urdhrave dhe Medaljeve |I-1 |1 |
+|Titullar i institucionit |I-2 |1 |
+|Zëvendëstitullar i Agjencisë për Media dhe Informim; |I-3 |1 |
+|Zëvendëskancelar i Kancelarisë së Urdhrave dhe Medaljeve | | |
+|Drejtor njësie në Departamentin e Administratës Publike |I-4 |1 |
+|Zv./titullar i institucionit; |II-1 |1 |
+|Drejtor i drejtorive të përmbajtjes; | | |
+|Koordinator në Agjencinë për Dialog dhe Bashkëqeverisje; | | |
 |Koordinator në Agjencinë Shtetërore të Programimit Strategjik dhe Koordinimit| | |
-|të Ndihmës. | | |
-|Koordinator në Agjencinë për Media dhe Informim. | | |
-|Zëdhënës i ministrit. | | |
-|Koordinator në Autoritetin Kombëtar për Sigurinë Kibernetike. | | |
-|Drejtor i drejtorive mbështetëse. |II-2 |1 |
-|Përgjegjës Sektori. |III-1 |1 |
-|Koordinator në Agjencinë për Dialog dhe Bashkëqeverisje. | | |
+|të Ndihmës; | | |
+|Koordinator në Agjencinë për Media dhe Informim; | | |
+|Zëdhënës i ministrit; | | |
+|Koordinator në Autoritetin Kombëtare për Sigurinë Kibernetike; | | |
+|Ekspert në Kancelarinë e Urdhrave dhe Medaljeve. | | |
+|Drejtor i drejtorive mbështetëse |II-2 |1 |
+|Përgjegjës Sektori; |III-1 |1 |
+|Koordinator në Agjencinë për Dialog dhe Bashkëqeverisje; | | |
 |Koordinator në Agjencinë Shtetërore të Programimit Strategjik dhe Koordinimit| | |
-|të Ndihmës. | | |
-|Ndërmjetës në Agjencinë për Dialog dhe Bashkëqeverisje. | | |
+|të Ndihmës; | | |
+|Ndërmjetës në Agjencinë për Dialog dhe Bashkëqeverisje; | | |
 |Analist në Agjencinë Shtetërore të Programimit Strategjik dhe Koordinimit të | | |
-|Ndihmës. | | |
-|Përgjegjës sektori. |III-2 |1 |
-|Koordinator në Agjencinë për Dialog dhe Bashkëqeverisje. | | |
+|Ndihmës; | | |
+|Ekspert në Kancelarinë e Urdhrave dhe Medaljeve; | | |
+|Përgjegjës sektori; |III-2 |1 |
+|Koordinator në Agjencinë për Dialog dhe Bashkëqeverisje; | | |
 |Koordinator në njësitë organizative të përmbajtjes në Departamentin e | | |
-|Administratës Publike. | | |
+|Administratës Publike; | | |
 |Inspektor në Agjencinë e Prokurimit Publik. | | |
-|Specialist. |IV-1 |1 ose 2 |
-|Specialist. |IV-2 |1 ose 2, ose 3 |
+|Specialist |IV-1 |1 ose 2 |
+|Specialist |IV-2 |1 ose 2, ose 3 |
 | |IV-3 |1 ose 2, ose 3 |
 Lidhja nr. 8/1
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “Specialist” deri në “Titullar institucioni” në Agjencinë Kombëtare të Shoqërisë së Informacionit
