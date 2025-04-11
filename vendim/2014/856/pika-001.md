@@ -1,0 +1,1 @@
+1. Dhënien në përdorim të përkohshëm, pa shpërblim, për periudhën dhjetor 2014 - dhjetor 2029, nga Drejtoria e Shërbimit të Trupit Diplomatik për Ministrinë e Punëve të Jashtme, të pasurisë nr. 1/586/5, zona kadastrale nr. 8380, Tiranë, për t’u përdorur si seli e Sekretariatit të Fondit të Ballkanit Perëndimor.
