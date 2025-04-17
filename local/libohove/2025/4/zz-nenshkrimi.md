@@ -1,0 +1,2 @@
+KRYETARI 1 KËSHIUQË BASHK LAK
+tas .
