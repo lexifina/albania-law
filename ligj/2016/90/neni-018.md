@@ -1,7 +1,7 @@
 # Neni 18
 Stafi i Agjencisë
-1. Marrëdhëniet e punës së nëpunësve të Agjencisë rregullohen nga legjislacioni në fuqi për nëpunësin civil. Marrëdhëniet e punës së puno-njësve administrativë rregullohen sipas para-shikimeve të Kodit të Punës.
-2. Përveç kritereve të përgjithshme, të para-shikuara nga legjislacioni në fuqi për nëpunësin civil, audituesi i Agjencisë duhet të përmbushë njëkohësisht kriteret e mëposhtme:
+1. Marrëdhëniet e punës së nëpunësve të Agjencisë rregullohen nga legjislacioni në fuqi për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë rregullohen sipas parashikimeve të Kodit të Punës.
+2. Përveç kritereve të përgjithshme, të parashikuara nga legjislacioni në fuqi për nëpunësin civil, audituesi i Agjencisë duhet të përmbushë njëkohësisht kriteret e mëposhtme:
 a) të ketë diplomë universitare “Master i shkencave” ose ekuivalente me të në fushën e shkencave ekonomike, juridike dhe disiplina të tjera, sipas nevojave të sektorit që auditohet;
 b) të ketë të paktën 5 vjet përvojë pune në profesion;
 c) të zotërojë kualifikime dhe/ose certifikime profesionale të akredituara në fushën e auditimit ose të ketë jo më pak se 3 vjet përvojë pune në auditim;

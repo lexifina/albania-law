@@ -6,7 +6,7 @@ Fusha e veprimit
 4. Subjekt i auditimeve të Agjencisë janë të gjitha njësitë e qeverisjes së përgjithshme, individë dhe persona juridikë privatë që përfitojnë fonde të IPA-s dhe/ose të cilëve u kërkohet të kryejnë veprimtari që rrjedhin nga financimi i IPA-s. Këtu përfshihen:
 a) njësitë e qeverisjes së përgjithshme dhe çdo institucion tjetër që kryen funksione publike;
 b) përfituesit e drejtpërdrejtë dhe indirekt të fondeve IPA;
-c) shoqëritë shtetërore, organizatat jo-fitimprurëse dhe autoritetet e përbashkëta që zotë-rohen, kontrollohen, financohen ose garantohen financiarisht nga një njësi e qeverisjes së përgjithshme, ose në të cilën një njësi e qeverisjes së përgjithshme zotëron apo kontrollon një pjesë të aksioneve, e cila i jep të drejtën e kontrollit;
+c) shoqëritë shtetërore, organizatat jofitimprurëse dhe autoritetet e përbashkëta që zotërohen, kontrollohen, financohen ose garantohen financiarisht nga një njësi e qeverisjes së përgjithshme, ose në të cilën një njësi e qeverisjes së përgjithshme zotëron apo kontrollon një pjesë të aksioneve, e cila i jep të drejtën e kontrollit;
 ç) njësitë e qeverisjes vendore;
 d) individët dhe personat juridikë privatë.
 5. Në rast se gjatë ushtrimit të kompetencave të auditimit të Agjencisë lindin çështje, që nuk rregullohen me këtë ligj, zbatohen dispozitat përkatëse të Kodit të Procedurave Administrative.
