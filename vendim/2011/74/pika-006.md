@@ -1,1 +1,0 @@
-6. Në mbledhjet e Komitetit ftohen dhe përfaqësues të subjekteve që ushtrojnë veprimtari në aeroporte. Në të gjitha rastet, është i detyrueshëm identifikimi i personave që do të marrin pjesë në mbledhje.

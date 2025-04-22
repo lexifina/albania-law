@@ -1,1 +1,0 @@
-4. Autoriteti i Aviacionit Civil, në çdo rast, paraprakisht, i njofton zyrtarisht Komitetit variantet në fuqi të aneksit 17, të ICAO-s, dokumentit 30 të ECAC -së, rregulloreve të Komisionit Europian për sigurinë apo të dokumenteve të tjera ndërkombëtare.

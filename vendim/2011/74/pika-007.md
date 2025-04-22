@@ -1,1 +1,0 @@
-7. Komiteti Kombëtar i Sigurisë së Aviacionit Civil mblidhet rregullisht 4 (katër) herë në vit dhe, në raste të veçanta, me kërkesën e 1/3 të anëtarëve dhe me miratimin e kryetarit e të zëvendëskryetarit të këtij komiteti. Anëtarët këshillues nuk kanë të drejtën e thirrjes së mbledhjes.
