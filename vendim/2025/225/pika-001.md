@@ -1,0 +1,1 @@
+1. Krijimin e bazës së të dhënave shtetërore për institucionet ofruese të formimit profesional publik. Baza e të dhënave të institucioneve ofruese të formimit profesional publik quhet Sistemi i Formimit Profesional (SFP).

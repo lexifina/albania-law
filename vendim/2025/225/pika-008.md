@@ -1,0 +1,1 @@
+8. Rolet e nivelit të aksesit dhe të drejtave të çdo përdoruesi do të jenë në përputhje me pozicionin e punës, të përcaktuar në përshkrimet e punës të miratuara, sipas rregullores “Për organizimin dhe funksionimin e brendshëm të bazës së të dhënave shtetërore për Sistemin e Formimit Profesional”, e cila miratohet nga drejtori i përgjithshëm i AKPA-së.

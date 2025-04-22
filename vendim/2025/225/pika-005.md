@@ -1,0 +1,1 @@
+5. Të dhënat personale të grumbulluara ruhen në një formë që lejon identifikimin e subjekteve, në përputhje me qëllimin për të cilin janë mbledhur. Këto të dhëna kanë vlerë të përhershme ruajtjeje, pasi konsiderohen dokumente me rëndësi historike kombëtare.

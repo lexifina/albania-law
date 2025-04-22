@@ -1,0 +1,1 @@
+6. Të dhënat e dokumentuara nuk përdoren për qëllime të tjera, që nuk janë në përputhje me qëllimin e grumbullimit. Ndalohet njohja ose çdo përpunim i të dhënave të regjistruara në SFP për një qëllim të ndryshëm nga ai fillestar, i përcaktuar në momentin e mbledhjes së të dhënave.
