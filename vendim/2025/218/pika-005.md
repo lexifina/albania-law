@@ -1,0 +1,1 @@
+5. Komiteti mund të ngrejë grupe pune ose komisione teknike për të raportuar mbi qëndrueshmërinë operacionale të programeve kombëtare të sigurisë së aviacionit dhe masave të reja, me qëllim përmirësimin e tyre.

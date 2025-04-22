@@ -1,0 +1,1 @@
+8. Për çdo mbledhje, sekretari i Komitetit mban procesverbal, i cili përmban të dhëna, të paktën, për datën e mbledhjes, pjesëmarrjen, diskutimet, votimin, për rastet kur ka vota kundër, miratimet, mosmiratimet, me shpjegimet përkatëse, si dhe nënshkrimet e anëtarëve pjesëmarrës në mbledhje dhe të sekretarit.

@@ -1,0 +1,1 @@
+7. Data, ora dhe rendi i ditës së mbledhjes u njoftohen, me shkrim, anëtarëve të Komitetit të paktën 7 (shtatë) ditë përpara mbledhjes. Në rastet e jashtëzakonshme, data, ora dhe rendi i ditës së mbledhjes u njoftohen, me shkrim, anëtarëve të Komitetit të paktën 1 (një) ditë përpara mbledhjes.
