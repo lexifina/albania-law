@@ -1,0 +1,1 @@
+7. Bashkëlidhur me urdhrin e përmendur në pikën 6 të këtij vendimi, për dhënien e kompensimit të menjëhershëm financiar, në rast dëmtimi të rëndë të pronës, për shkak të detyrës, duhet të gjendet dokumentacioni i përcaktuar në pikën 3 të këtij vendimi.

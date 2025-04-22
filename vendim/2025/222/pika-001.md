@@ -1,0 +1,1 @@
+1. Punonjësi i Policisë së Shtetit, në rast të dëmtimit të rëndë të pronës, për shkak të detyrës, përfiton kompensim të menjëhershëm financiar deri në 1 000 000 (një milion) lekë, sipas akteve të vlerësimit të dëmit.

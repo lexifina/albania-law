@@ -1,0 +1,1 @@
+9. Drejtori i Përgjithshëm i Policisë së Shtetit vendos për pranimin ose refuzimin e ankimit të punonjësit. Në rast pranimi, kërkesa për dhënien e kompensimit të menjëhershëm financiar i kthehet për rishqyrtim komisionit.

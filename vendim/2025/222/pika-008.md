@@ -1,0 +1,1 @@
+8. Në rast se komisioni vendos për refuzimin e dhënies së kompensimit të menjëhershëm financiar, punonjësi ka të drejtë të ankimojë vendimin e komisionit pranë drejtorit të Përgjithshëm të Policisë së Shtetit.

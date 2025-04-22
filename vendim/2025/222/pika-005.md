@@ -1,0 +1,1 @@
+5. Komisioni kryen vlerësimin e përputhshmërisë së dokumentacionit të paraqitur me kriteret për përfitimin e kompensimit të menjëhershëm financiar, brenda 10 (dhjetë) ditëve punë nga paraqitja e kërkesës së punonjësit të policisë. Komisioni i vë në dispozicion drejtorit të Përgjithshëm të Policisë së Shtetit vendimin përkatës.

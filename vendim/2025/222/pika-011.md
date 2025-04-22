@@ -1,0 +1,1 @@
+11. Vendimi nr. 169, datë 8.3.2017, i Këshillit të Ministrave, “Për dhënien e ndihmës së menjëhershme financiare punonjësit të policisë, në rast të dëmtimit të rëndë të pronës, për shkak të detyrës”, shfuqizohet.
