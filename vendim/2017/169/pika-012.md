@@ -1,1 +1,0 @@
-12. Kur nga hetimi apo gjykimi i çështjes provohet se dëmi i shkaktuar nuk ka ardhur për shkak të detyrës, punonjësi i policisë që ka përfituar ndihmë të menjëhershme financiare është i detyruar të kthejë në masën 100 për qind shumën e përfituar.

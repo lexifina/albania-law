@@ -1,1 +1,0 @@
-9. Komisioni verifikon faktin e dëmtimit të pronës, bën vlerësimin paraprak të dëmit të shkaktuar dhe shikon përputhshmërinë me kriteret për përfitimin e ndihmës së menjëhershme financiare, sa më shpejt, por jo më vonë se 10 ditë pune nga paraqitja e kërkesës së punonjësit të policisë. Komisioni i vë në dispozicion Drejtorit të Policisë së Shtetit përfundimet e arritura.
