@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për oficerët ndërlidhës të atashuar në vendet e tjera apo në organizata e misione ndërkombëtare, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
