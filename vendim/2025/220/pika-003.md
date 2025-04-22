@@ -1,0 +1,1 @@
+3. Pronarët e pasurisë së paluajtshme, pronë private, që shpronësohen, kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për pasurinë e llojit “truall”, me një vlerë të përgjithshme prej 34 891 230 (tridhjetë e katër milionë e tetëqind e nëntëdhjetë e një mijë e dyqind e tridhjetë) lekësh.

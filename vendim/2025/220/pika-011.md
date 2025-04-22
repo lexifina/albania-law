@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës pezullon të gjitha transaksionet me pasuritë e shpronësuara deri në momentin e realizimit të procesit të hedhjes së gjurmës së projektit mbi hartën kadastrale dhe regjistrimin e kalimit të pronësisë në favor të shtetit, në përgjegjësi administrimi të Bashkisë Tiranë, për Ujësjellës-Kanalizimet Tiranë sh.a., sipas këtij vendimi.
