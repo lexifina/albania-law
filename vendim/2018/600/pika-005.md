@@ -1,1 +1,1 @@
-5. Dokumentacioni, mënyra dhe afati i dorëzimit, konkurrimit dhe shpallja e rezultateve të konkurrimit përcaktohen me urdhër të ministrit përgjegjës për arsimin.
+5. Dokumentacioni, mënyra dhe afati i dorëzimit, konkurrimit dhe shpallja e rezultateve të konkurrimit përcaktohen me urdhër të ministrit përgjegjës për arsimin, përveç institucioneve të arsimit të mesëm profesional, të cilat miratohen nga ministri përgjegjës për arsimin dhe formimin profesional.

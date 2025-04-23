@@ -1,1 +1,6 @@
-1. Miratimin e shërbimit të sigurisë publike në institucionet e arsimit parauniversitar të mesëm të lartë, që kanë jo më pak se 80 nxënës, dhe në institucionet e arsimit parauniversitar bazë, që kanë jo më pak se 600 nxënës.
+1. Miratimin e shërbimit të sigurisë publike në institucionet e arsimit parauniversitar, si më poshtë vijon:
+a) institucionet e arsimit të mesëm të lartë gjimnaz, arsimit të mesëm profesional dhe arsimit të mesëm të orientuar, që kanë mbi 80 (tetëdhjetë) nxënës, të kenë 1 (një) oficer sigurie;
+b) institucionet e arsimit bazë ose shkollat e bashkuara, që kanë mbi 350 (treqind e pesëdhjetë) nxënës, të kenë 1 (një) oficer sigurie;
+c) institucionet e arsimit të mesëm të lartë gjimnaz, institucionet e arsimit të mesëm të orientuar, institucionet e arsimit bazë ose shkollat e bashkuara, që kanë mbi 900 (nëntëqind) nxënës, të kenë 2 (dy) oficerë sigurie;
+ç) institucionet e arsimit të mesëm profesional, që kanë mbi 700 (shtatëqind) nxënës, të kenë 2 (dy) oficerë sigurie.
+Institucionet e arsimit parauniversitar, që përfitojnë shërbim të sigurisë publike, përcaktohen me urdhër të ministrit përgjegjës për arsimin, përveç institucioneve të arsimit të mesëm profesional, të cilat miratohen nga ministri përgjegjës për arsimin dhe formimin profesional. Shërbimi i sigurisë publike konsiston në monitorimin nga oficeri i sigurisë në institucionet e arsimit parauniversitar, të përcaktuara në këtë vendim, nëpërmjet ndërveprimit të vazhdueshëm të nxënësve, personelit mësimor dhe komunitetit.
