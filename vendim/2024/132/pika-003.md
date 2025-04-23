@@ -3,7 +3,8 @@ a) koordinimin, monitorimin dhe bashkëpunimin me njësitë e qeverisjes vendore
 b) promovimin dhe nxitjen e zbatimit të hierarkisë së mbetjeve për zhvillimin gradual të grumbullimit përmes ndarjes në burim e riciklimit në shkallë të gjerë dhe monitorimin e implementimit të standardeve dhe edukimin mjedisor, në përputhje me kompetencat e përcaktuara në këtë vendim dhe dispozitat në ligjin përkatës për menaxhimin e integruar të mbetjeve.
 II. PËRGJEGJËSITË FUNKSIONALE TË AGJENCISË KOMBËTARE TË EKONOMISË SË MBETJEVE
 Agjencia ka këto përgjegjësi funksionale:
-a) të koordinojë punën me institucionet e administratës publike, në nivel qendror e vendor, partnerët ndërkombëtarë, investitorët dhe palët e interesuara për zbatimin e standardeve në menaxhimin efikas të integruar të mbetjeve, planifikimin territorial në infrastrukturën e mbetjeve dhe implementimin e tyre;
+të koordinojë punën me institucionet e administratës publike, në nivel qendror e vendor, partnerët ndërkombëtarë, investitorët dhe palët e interesuara për zbatimin e standardeve në menaxhimin efikas të integruar të mbetjeve, planifikimin territorial në infrastrukturën e mbetjeve dhe implementimin e tyre;
+a/1) të kryejë detyrat e autoritetit kontraktor për ministrinë përgjegjëse për menaxhimin e mbetjeve për projektet/kontratat ekzistuese dhe të ardhshme të infrastrukturës së mbetjeve.
 b) të organizojë punën për edukimin mjedisor, promovimin dhe nxitjen e zbatimit të hierarkisë së mbetjeve për zhvillimin gradual të grumbullimit përmes ndarjes në burim e riciklimit në shkallë të gjerë.
 III. ORGANIZIMI DHE FUNKSIONIMI I AGJENCISË KOMBËTARE TË EKONOMISË SË MBETJEVE
 1. Agjencia e shtrin veprimtarinë e saj në të gjithë territorin e Republikës së Shqipërisë dhe organizohet në nivel qendror.
