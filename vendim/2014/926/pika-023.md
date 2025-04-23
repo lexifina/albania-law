@@ -1,1 +1,1 @@
-23. Personi që ka fituar të drejtën e blerjes së objektit, nëpërmjet ankandit, ose të drejtën e parablerjes, pajiset nga Struktura përgjegjëse për shitjen e pronës publike, në ministrinë përgjegjëse për ekonominë, me autorizim për kalim pronësie, ku përcaktohen qartë detyrimet e blerësit.
+23. Personi që ka fituar të drejtën e blerjes së objektit, nëpërmjet ankandit, ose të drejtën e parablerjes, pajiset nga Struktura përgjegjëse për shitjen e pronës publike, me autorizim për kalim pronësie, ku përcaktohen qartë detyrimet e blerësit.
