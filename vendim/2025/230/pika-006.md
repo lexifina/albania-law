@@ -1,0 +1,1 @@
+6. Shoqëria shtetërore “KAYO” sh.a., në çdo rast dhe në çdo fazë të negociimit, bazohet në kërkesat teknike dhe operacionale, të paraqitura nga Ministria e Mbrojtjes, përmes strukturave të saj të specializuara dhe në bashkëpunim me Shtabin e Përgjithshëm të Forcave të Armatosura.

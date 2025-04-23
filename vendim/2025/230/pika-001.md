@@ -1,0 +1,1 @@
+1. Ky vendim ka për objekt miratimin e kushteve të negociimit të shoqërisë “KAYO” sh.a., me subjekte private për sigurimin e bashkëpunimit, me qëllim ngritjen e kapaciteteve për ofrimin e programeve të edukimit dhe trajnimit të pilotëve të helikopterëve e të kontrollorëve të fluturimit.

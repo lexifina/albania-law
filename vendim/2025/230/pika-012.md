@@ -1,0 +1,1 @@
+12. Shoqëria shtetërore “KAYO” sh.a., gjatë negocimit, nuk ofron në asnjë rast pjesëmarrje të subjektit që negocion në shpërndarjen e të ardhurave të krijuara nga ofrimi i programeve të edukimit dhe trajnimit të pilotëve të helikopterëve e të kontrollorëve të fluturimit.

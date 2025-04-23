@@ -1,0 +1,1 @@
+5. Shoqëria shtetërore “KAYO” sh.a., kryen negociata me subjekte private, vendase ose të huaja, të cilat përmbushin kriteret ligjore e teknike për ngritjen e kapaciteteve për ofrimin e programeve të edukimit e të trajnimit të pilotëve të helikopterëve dhe kontrollorëve të fluturimit, sipas këtij vendimi.

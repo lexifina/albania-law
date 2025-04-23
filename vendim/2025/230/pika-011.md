@@ -1,0 +1,1 @@
+11. E drejta e menaxhimit e strukturës/strukturave të krijuara, me qëllim ofrimin e programeve të edukimit dhe trajnimit të pilotëve të helikopterëve e të kontrollorëve të fluturimit, nuk mund të ofrohet gjatë negocimit dhe mbetet, në çdo rast, e drejtë e shoqërisë shtetërore “KAYO” sh.a.
