@@ -1,0 +1,1 @@
+2. Ngarkohet ministri i Drejtësisë t’i bëjë të njohura rekomandimet, në përputhje me parashikimet e pikës 3, të nenit 103, të ligjit nr. 97/2016, “Për organizimin dhe funksionimin e prokurorisë në Republikën e Shqipërisë”, të ndryshuar.
