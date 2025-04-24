@@ -1,0 +1,1 @@
+1. Pezullimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Bjellorusisë, për heqjen reciproke të kërkesave për vizë, miratuar me vendimin nr. 152, datë 19.2.2020, të Këshillit të Ministrave.
