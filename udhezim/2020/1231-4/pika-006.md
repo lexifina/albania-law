@@ -3,7 +3,7 @@ V. LËSHIMI I CERTIFIKATËS “OPERATOR I TURIZMIT DETAR”
 1. Brenda 5 ditëve nga data e vendimit të komisionit, subjektit i lëshohet certifikata për të vepruar si operator i turizmit detar.
 2. Certifikata, sipas modelit standard, nënshkruhet nga ministri përgjegjës për turizmin dhe përmban të dhënat e mëposhtme:
 a) emrin e subjektit aplikues dhe numrin e NIPT-it;
-b) numrin e licencës së operatorit turistik;
+b) shfuqizuar;
 c) adresën e subjektit;
 ç) llojin e aktivitetit të turizmit detar të miratuar;
 d) zonën e ushtrimit të aktivitetit të turizmit detar;

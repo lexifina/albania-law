@@ -11,7 +11,7 @@ Adresë e-mail
 Informacion mbi subjektin
 Emri tregtar
 NIPT
-Numër licence
+Shfuqizuar
 Adresa
 Numër telefoni
 Adresë email
@@ -21,7 +21,7 @@ Përshkrimi i aktivitetit /
 aktiviteteve të parashikuara
 SEKSIONI C:
 Dokumentacion shoqërues:
-a) fotokopje të licensës XIII.1.B dhe një kopje e ekstraktit historik të QKR;
+a) një kopje e ekstraktit historik të QKR;
 b) kontratën e vendbazimit (lidhur mes subjektit aplikues dhe subjektit që administron vendbazimin;
 c) plani i menaxhimit të emergjrncave (nënshkruar nga përfaqësuesi ligjor i subjektit);
 d) dokumenti që vërteton pronësinë apo kontratën noteriale (lidhur për përdorimin e mjeteve lundruese me qëllim aktivitetin detar);
