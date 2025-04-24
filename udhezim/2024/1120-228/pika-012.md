@@ -1,1 +1,0 @@
-12. Data e lëshimit të tyre të mos kapërcejë gjashtë muajt e fundit, me përjashtim të dokumentit premtimi i shtetësisë dhe vërtetim banimi/qëndrimi, të cilat kanë vlefshmëri 2 vjet. Në rastet kur për dokumentet e ardhura nga jashtë është i pamundur lëshimi i dokumentit origjinal, për shkak të legjislacionit, atëherë pranohen dokumentet e njësuara me akt noterial.

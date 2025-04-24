@@ -1,3 +1,0 @@
-# Shtojca
-MINISTËR PËR EVROPËN DHE PUNËT E JASHTME
-Igli Hasani
