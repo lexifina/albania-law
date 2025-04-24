@@ -1,0 +1,1 @@
+8. Në rastet e ndryshimit të gjeneraliteteve për personat që kanë hequr dorë nga shtetësia shqiptare dhe kanë fituar një shtetësi të huaj, të paraqitet dokument zyrtar i cili vërteton ndryshimin e gjeneraliteteve në shtetin e shtetësisë së huaj, i legalizuar/apostiluar, përkthyer dhe noterizuar.
