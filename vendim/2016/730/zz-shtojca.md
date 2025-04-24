@@ -6,7 +6,7 @@ DISPOZITA TË PËRGJITHSHME
 Neni 1
 Qëllimi
 Kjo rregullore përcakton:
-1. Kushtet dhe kriteret për klasifikimin dhe kategorizimin e strukturave akomoduese;
+1. Kushtet dhe kriteret për klasifikimin e strukturave akomoduese;
 2. Procedurat, afatet dhe strukturat administrative për klasifikimin e strukturave akomoduese;
 3. Tarifat e aplikimit dhe kostot e verifikimit për marrjen e certifikatës së klasifikimit për secilën kategori të strukturave akomoduese.
 4. Shfuqizuar.
@@ -18,10 +18,10 @@ Neni 3
 Përkufizime
 1. Termat e përdorur në këtë rregullore kanë të njëjtin kuptim me atë të përcaktuar në nenin 4, të ligjit nr. 93/2015, “Për turizmin”.
 2. Në zbatim të kësaj rregulloreje, termat e mëposhtëm kanë këto kuptime:
-a) “Aplikim elektronik”, portali elektronik i ministrisë përgjegjëse për turizmin, i aksesueshëm nëpërmjet portalit të shërbimeve shtetërore elektronike, ku mundësohet aplikimi për klasifikimin e strukturave akomoduese dhe plotësimi i formularit të vetëdeklarimit, nëpërmjet mjeteve elektronike;
+a) “Aplikim nga subjekti ose sipërmarrësi turistik”, është aplikimi on-line, nëpërmjet portalit qeveritar “e-Albania” për klasifikim, riklasifikim, rinovim të vlerësimit të strukturës akomoduese, si dhe ndryshim të të dhënave në certifikatë;
 b) “Bujtinë” (shtëpi pritëse), një strukturë akomoduese, një ndërtesë, një pjesë e së cilës përdoret si rezidencë e pronarit dhe ku ofrohet akomodim dhe ushqim për vizitorët, përkundrejt pagesës;
 c) “Certifikatë klasifikimi”, dokumenti i lëshuar nga komisioni i standardizimit të veprimtarive turistike për klasifikimin e strukturës akomoduese;
-c/1 “Dokument kategorizimi” është certifikata e lëshuar nga Komisioni i Standardizimit të Veprimtarive Turistike për përmbushjen e kritereve lidhur me llojin e stukturës akomoduese.
+c/1 Shfuqizuar;
 ç) “Fjetinë” (Hostel), ndërtesë që ofron akomodim dhe ushqim me çmime ekonomike, zakonisht për udhëtarë, studentë e punëtorë, ku dhoma ndahet mes disa klientëve të ndryshëm;
 d) “Fjetje dhe mëngjes (B&B)”, strukturë akomoduese që ofron shërbimin e fjetjes dhe të mëngjesit brenda çmimit të dhomës. Kjo strukturë akomoduese nuk ofron shërbim restoranti dhe ambiente të përbashkëta;
 dh) “Hotel”, ndërtesë me jo më pak se 6 dhoma, ku akomodimi dhe shërbimet si ushqim, pije etj., ofrohen nga një staf i kualifikuar, kundrejt një çmimi të afishuar;
@@ -39,24 +39,13 @@ ll) “Ministria”, ministria përgjegjëse për turizmin;
 m) “Inspektorati”, inspektorati që mbulon fushën e turizmit, në përputhje me ligjin;
 n) “Sistem klasifikimi”, ndarja e llojeve të ndryshme të strukturave akomoduese në kategori, duke u bazuar në një sërë kriteresh, të cilat kanë të bëjnë me kushtet fizike të objektit ku ushtrohet veprimtaria si strukturë akomoduese, si dhe me shërbimet që kjo strukturë ofron.
 KREU II
-KATEGORITË DHE KLASIFIKIMI I STRUKTURAVE AKOMODUESE
+KLASIFIKIMI I STRUKTURAVE AKOMODUESE
 Neni 4
 Kategoritë e strukturave akomoduese
-1. Çdo sipërmarrës turistik, që ushtron veprimtarinë si strukturë akomoduese, duhet të pajiset me certifikatë klasifikimi për ushtrimin e këtij aktiviteti.
-2. Strukturat akomoduese kategorizohen si më poshtë vijon:
-a) “Bujtinë”;
-b) “Fjetinë” (Hostel);
-c) “Kamping”;
-ç) “Hotel”;
-d) “Motel”;
-dh) “Resort”;
-e) “Qendër kurative”;
-ë) “Fjetje dhe mëngjes” (B&B);
-3. Çdo sipërmarrës turistik që ushtron veprimtarinë si strukturë akomoduese duhet të pajiset me dokument kategorizimi, i cili është i nevojshëm për përfitimin e lehtësirave fiskale, sipas legjislacionit në fuqi. Mënyra, kriteret dhe procedurat e kategorizimit të strukturave akomoduese përcaktohen me rregullore të miratuar me urdhër të ministrit përgjegjës për turizmin.
-4. Shfuqizuar.
 Neni 5
 Klasifikimi i strukturave akomoduese
-1. Komisioni kategorizon dhe klasifikon çdo strukturë akomoduese, mbështetur në kushtet dhe kriteret e parashikuar nga kjo rregullore dhe të aneksit nr. 1, “Kushtet dhe kriteret e klasifikimit”, bashkëlidhur. Kategorizimi i çdo strukture akomoduese bëhet sipas parashikimeve të pikës 3 të nenit 4.
+1. Çdo sipërmarrës turistik, që ushtron veprimtarinë si strukturë akomoduese, pajiset me certifikatë klasifikimi për ushtrimin e këtij aktiviteti.
+1/1. Komisioni klasifikon çdo strukturë akomoduese, mbështetur në kushtet dhe kriteret e parashikuara në këtë rregullore dhe në aneksin nr. 1 “Kushtet dhe kriteret e klasifikimit”, bashkëlidhur këtij vendimi.
 2. Për strukturat akomoduese “hotele”, certifikata e klasifikimit, sipas nivelit përkatës, lëshohet kur plotësohet totali i pikëve të kërkuara për secilin nivel klasifikimi, sipas aneksit 1/d. Pikët përftohen nga:
 - plotësimi i kritereve të detyrueshme, referuar nivelit përkatës;
 - plotësimi i disa prej kritereve me zgjedhje.
@@ -65,44 +54,44 @@ Klasifikimi i strukturave akomoduese
 KREU III
 PROCEDURA PËR MARRJEN E CERTIFIKATËS
 Neni 6
-Kërkesa për pajisjen me certifikatë klasifikimi
-1. Sipërmarrësi turistik, që ushtron veprimtarinë strukturë akomoduese, duhet të paraqesë pranë ministrisë përgjegjëse për turizmin kërkesën për pajisjen me certifikatë klasifikimi, duke plotësuar në sistemin elektronik të turizmit formularin e vetëdeklarimit, të miratuar me urdhër të ministrit. Sipërmarrësi turistik mban përgjegjësi për vërtetësinë e të dhënave të deklaruara.
-2. Me dërgimin e formularit, kërkuesi pajiset me një numër aplikimi të gjeneruar nga sistemi.
+Aplikimi për pajisjen me certifikatë klasifikimi
+1. Sipërmarrësi turistik, që ushtron veprimtarinë strukturë akomoduese, duhet të paraqesë nëpërmjet portalit qeveritar “e-Albania” aplikimin për pajisjen me certifikatë klasifikimi, duke plotësuar formularin elektronik.
+2. Me dërgimin e formularit, aplikuesi pajiset me një numër aplikimi të gjeneruar nga sistemi.
 3. Gjatë procedurës për pajisjen me certifikatë klasifikimi, sipërmarrësi turistik mund të ushtrojë veprimtarinë si strukturë akomoduese.
 Neni 7
 Procesi i verifikimit
-1. Për verifikimin e të dhënave të vetëdeklaruara nga kërkuesi, Ministria bashkëpunon me agjenci dhe organizata ndërkombëtare të mirënjohura në fushën e vlerësimit të strukturave akomoduese, të cilat, në bazë të marrëveshjes së nënshkruar me Ministrinë, kryejnë vlerësimin për klasifikimin e strukturës akomoduese.
-2. Me marrjen e aplikimit, Ministria njofton kërkuesin për kryerjen e pagesës së tarifës së verifikimit në llogarinë e Ministrisë, në llogarinë e unifikuar të thesarit të shtetit.
-3. Brenda 5 ditëve nga kryerja e pagesës së tarifës së verifikimit, Ministria njofton kërkuesin për datën/datat e caktuara për verifikimin e kushteve dhe kritereve që plotësohen nga struktura akomoduese. Data për verifikimin caktohet, të paktën, 5 ditë pas njoftimit të kërkuesit nga Ministria.
-4. Procesi i verifikimit të përmbushjes së kritereve përkatëse nga struktura akomoduese kryhet nga jo më pak se dy persona dhe duhet të përfundojë brenda 30 ditëve, nga dita e njoftimit të kërkuesit për datën/datat e verifikimit.
+1. Për verifikimin e të dhënave të vetëdeklaruara nga aplikuesi, Ministria bashkëpunon me agjenci dhe organizata ndërkombëtare të mirënjohura në fushën e vlerësimit të strukturave akomoduese, të cilat, në bazë të marrëveshjes së nënshkruar me Ministrinë, kryejnë vlerësimin për klasifikimin e strukturës akomoduese.
+2. Me marrjen e aplikimit, Ministria njofton aplikuesin, elektronikisht, nëpërmjet portalit qeveritar “e-Albania”, për kryerjen e pagesës së tarifës së verifikimit në llogarinë e Ministrisë, në llogarinë e unifikuar të thesarit të shtetit.
+3. Brenda 5 ditëve nga kryerja e pagesës së tarifës së verifikimit, Ministria njofton aplikuesin elektronikisht, nëpërmjet portalit qeveritar “e-Albania”, për datën/datat e caktuara për verifikimin e kushteve dhe kritereve që plotësohen nga struktura akomoduese. Data për verifikimin caktohet, të paktën, 5 ditë pas njoftimit të aplikuesit nga Ministria.
+4. Procesi i verifikimit të përmbushjes së kritereve përkatëse nga struktura akomoduese kryhet nga jo më pak se dy persona dhe duhet të përfundojë brenda 30 ditëve, nga dita e njoftimit të aplikuesit për datën/datat e verifikimit.
 5. Procesi i verifikimit përfshin një ose më shumë vizita pranë strukturës akomoduese, të cilat duhet të kryhen brenda afatit të parashikuar në pikën 3 të këtij neni.
-6. Me përfundimin e procesit të verifikimit, formulari i plotësuar nga verifikuesit në sistemin elektronik mund të aksesohet nga Komisioni dhe nga kërkuesi, nëpërmjet numrit të tij të aplikimit.
-7. Kërkuesi, brenda 5 ditëve nga ngarkimi në sistem i formularit të plotësuar të verifikimit, mund t’i paraqesë, me shkrim, Komisionit, kundërshtimet e tij për rezultatet e verifikimit.
-8. Në rast se kërkuesi ka kundërshtuar rezultatet e verifikimit, Komisioni, brenda 15 ditëve nga paraqitja e këtij kundërshtimi, vendos nëse është e nevojshme kryerja e një verifikimi të strukturës ose zgjedhja e një vlerësuesi tjetër. Në rast të kundërt, Komisioni, në vendimin e tij, argumenton edhe arsyet e mosmarrjes në konsideratë të kundërshtimit të kërkuesit.
+6. Me përfundimin e procesit të verifikimit, formulari i plotësuar nga verifikuesit në sistemin elektronik mund të aksesohet nga Komisioni dhe nga aplikuesi, nëpërmjet numrit të tij të aplikimit.
+7. Aplikuesi, brenda 5 ditëve nga ngarkimi në sistem i formularit të plotësuar të verifikimit, mund t’i paraqesë, elektronikisht, nëpërmjet portalit qeveritar “e-Albania”, Komisionit, kundërshtimet e tij për rezultatet e verifikimit.
+8. Në rast se aplikuesi ka kundërshtuar rezultatet e verifikimit, Komisioni, brenda 15 ditëve nga paraqitja e këtij kundërshtimi, vendos nëse është e nevojshme kryerja e një verifikimi të strukturës ose zgjedhja e një vlerësuesi tjetër. Në rast të kundërt, Komisioni, në vendimin e tij, argumenton edhe arsyet e mosmarrjes në konsideratë të kundërshtimit të aplikuesit.
 Neni 7/1
-1. Përjashtimisht, deri në nënshkrimin e marrëveshjes me agjenci apo organizata ndërkombëtare të mirënjohura në fushën e vlerësimit të strukturave akomoduese, sipas përcaktimeve të bëra në pikën 1, të këtij neni, verifikimi dhe vlerësimi i strukturave akomoduese me 4 apo 5 yje, që janë mbajtës të një marke tregtare të regjistruar dhe të njohur ndërkombëtarisht “Brand name”, bëhet nga ministria përgjegjëse për turizmin, me kërkesë të vetë sipërmarrësit turistik.
+1. Përjashtimisht, deri në nënshkrimin e marrëveshjes me agjenci apo organizata ndërkombëtare të mirënjohura në fushën e vlerësimit të strukturave akomoduese, sipas përcaktimeve të bëra në pikën 1, të këtij neni, verifikimi dhe vlerësimi i strukturave akomoduese me 4 apo 5 yje, që janë mbajtës të një marke tregtare të regjistruar dhe të njohur ndërkombëtarisht “Brand name”, bëhet nga ministria përgjegjëse për turizmin, me aplikim të vetë sipërmarrësit turistik.
 2. Procedura e klasifikimit për strukturat akomoduese me 4 apo 5 yje, që janë mbajtës të një marke tregtare të regjistruar dhe të njohur ndërkombëtarisht “Brand name”, përcaktohet në rregulloren e miratuar me urdhër të ministrit përgjegjës për turizmin.
 Neni 8
 Vendimi i Komisionit
-1. Komisioni, brenda 30 ditëve nga data e depozitimit të formularit të verifikimit, shqyrton dhe vlerëson, në mënyrë tërësore, dokumentet dhe të dhënat e paraqitura nga kërkuesi, rezultatet e verifikimit, si dhe përmbushjen e kritereve të kërkuara për klasifikimin e strukturës akomoduese.
-2. Komisioni ka të drejtë ta shtyjë afatin e parashikuar në pikën 1, të këtij neni, në mënyrë të arsyetuar, me jo më shumë se 60 ditë, duke i dërguar kërkuesit një njoftim me shkrim, jo më vonë se përfundimi i afatit të parashikuar në pikën 1 të këtij neni.
+1. Komisioni, brenda 30 ditëve nga data e depozitimit të formularit të verifikimit, shqyrton dhe vlerëson, në mënyrë tërësore, dokumentet dhe të dhënat e paraqitura nga aplikuesi, rezultatet e verifikimit, si dhe përmbushjen e kritereve të kërkuara për klasifikimin e strukturës akomoduese.
+2. Komisioni ka të drejtë ta shtyjë afatin e parashikuar në pikën 1, të këtij neni, në mënyrë të arsyetuar, me jo më shumë se 60 ditë, duke i dërguar aplikuesit njoftimin elektronikisht, nëpërmjet portalit qeveritar “e-Albania”, jo më vonë se përfundimi i afatit të parashikuar në pikën 1 të këtij neni.
 3. Në përfundim të procesit të shqyrtimit dhe vlerësimit, Komisioni, sipas rastit, vendos:
-a) Lëshimin e certifikatës së klasifikimit, e cila përcakton kategorinë dhe nivelin përkatës të strukturës akomoduese;
+a) Lëshimin e certifikatës së klasifikimit me vulë elektronike, nëpërmjet portalit qeveritar “e-Albania”, e cila përcakton kategorinë dhe nivelin përkatës të strukturës akomoduese;
 b) Dhënien, vetëm një herë, të një afati deri në 60 ditë për plotësimin e mangësive dhe kushteve minimale për lëshimin e certifikatës së klasifikimit. Verifikimi i përmbushjes së kushteve dhe kritereve minimale për lëshimin e certifikatës së klasifikimit pas përfundimit të këtij afati kryhet sipas procedurës së përcaktuar në nenin 8.
-4. Në rast të mospërmbushjes së kushteve minimale për lëshimin e certifikatës së klasifikimit pas përfundimit të afatit të parashikuar në shkronjën “b”, të pikës 3, të këtij neni, Komisioni vendos refuzimin e kërkesës për certifikatë klasifikimi.
+4. Në rast të mospërmbushjes së kushteve minimale për lëshimin e certifikatës së klasifikimit pas përfundimit të afatit të parashikuar në shkronjën “b”, të pikës 3, të këtij neni, Komisioni vendos refuzimin e aplikimit për certifikatë klasifikimi.
 5. Vendimi i Komisionit duhet të jetë i arsyetuar dhe të përmbajë kriteret e përmbushura nga struktura akomoduese, si dhe kategorinë e nivelin e përcaktuar për këtë strukturë.
-6. Ndaj vendimit të Komisionit lejohet ankimi në Gjykatën Administrative të Shkallës së Parë, Tiranë, brenda afateve dhe sipas procedurave të parashikuara në legjislacionin për gjykimin e mosmarrëveshjeve administrative. Ankimi ndaj vendimit të Komisionit nuk sjell pezullimin e zbatimit të tij. Në rast se Komisioni vendos refuzimin e kërkesës për certifikatë klasifikimi, sipërmarrësi turistik mund të ushtrojë veprimtarinë si strukturë akomoduese deri në marrjen e një vendimi gjykate të formës së prerë, por nuk ka të drejtë të afishojë shenjat dalluese të klasifikimit të strukturës akomoduese.
-7. Pas refuzimit të kërkesës për lëshimin e certifikatës së klasifikimit, kërkuesi ka të drejtë të paraqesë kërkesën e tij për ta nisur procesin përsëri vetëm pasi të kenë kaluar 90 ditë nga refuzimi, dhe do të trajtohet si kërkesë e paraqitur për herë të parë.
+6. Ndaj vendimit të Komisionit lejohet ankimi në Gjykatën Administrative të Shkallës së Parë, Tiranë, brenda afateve dhe sipas procedurave të parashikuara në legjislacionin për gjykimin e mosmarrëveshjeve administrative. Ankimi ndaj vendimit të Komisionit nuk sjell pezullimin e zbatimit të tij. Në rast se Komisioni vendos refuzimin e aplikimit për certifikatë klasifikimi, sipërmarrësi turistik mund të ushtrojë veprimtarinë si strukturë akomoduese deri në marrjen e një vendimi gjykate të formës së prerë, por nuk ka të drejtë të afishojë shenjat dalluese të klasifikimit të strukturës akomoduese.
+7. Pas refuzimit të aplikimit për lëshimin e certifikatës së klasifikimit, aplikuesi ka të drejtë të paraqesë aplikimin e tij për ta nisur procesin përsëri vetëm pasi të kenë kaluar 90 ditë nga refuzimi, dhe do të trajtohet si aplikim i paraqitur për herë të parë.
 Neni 9
 Lëshimi i certifikatës së klasifikimit
-1. Komisioni, brenda 10 ditëve nga marrja e vendimit për përcaktimin e kategorisë dhe nivelit të klasifikimit, përgatit certifikatën e klasifikimit dhe njofton, me shkrim, kërkuesin, për vendimin e marrë.
-2. Certifikata e klasifikimit nënshkruhet nga ministri dhe përmban:
+1. Komisioni, brenda 10 (dhjetë) ditëve nga marrja e vendimit për përcaktimin e nivelit të klasifikimit, përgatit certifikatën e klasifikimit me nënshkrim elektronik/dhe me vulë elektronike dhe ia dërgon aplikuesit nëpërmjet portalit qeveritar “e-Albania”.
+2. Certifikata e klasifikimit nënshkruhet elektronikisht nga ministri ose personi i autorizuar prej tij dhe përmban:
 a) emrin e shoqërisë dhe emërtimin e strukturës akomoduese;
 b) kategorinë dhe nivelin e klasifikimit;
 c) datën e lëshimit të certifikatës së klasifikimit;
 ç) afatin e vlefshmërisë.
-3. Kërkuesi duhet të tërheqë certifikatën e klasifikimit brenda 30 ditëve nga data e njoftimit, në të kundërt, ai do të konsiderohet i paklasifikuar nga autoritetet e kontrollit dhe të inspektimit dhe do të mbajë përgjegjësi administrative, sipas legjislacionit në fuqi.
-4. Certifikata e klasifikimit, e lëshuar dhe e miratuar nga Komisioni, sipas formatit dhe modelit bashkëngjitur në aneksin nr. 2, është tregues i cilësisë së strukturës akomoduese dhe afishohet në recepsionin e strukturës akomo-duese.
+3. Shfuqizuar.
+4. Certifikata e klasifikimit, e lëshuar dhe e miratuar nga Komisioni, sipas formatit dhe modelit bashkëngjitur në aneksin nr. 2, është tregues i cilësisë së strukturës akomoduese dhe afishohet në recepsionin e strukturës akomoduese.
 5. Shenja dalluese e klasifikimit sipas cilësisë, e prodhuar sipas formatit dhe modelit të miratuar me urdhër të ministrit përgjegjës për turizmin, vendoset në hyrjen kryesore të strukturës akomoduese.
 6. Certifikata e klasifikimit regjistrohet automatikisht, pas përfundimit të procesit të klasifikimit, në Regjistrin Qendror të Turizmit, që administrohet nga struktura përgjegjëse pranë ministrisë përgjegjëse për turizmin.
 KREU IV
@@ -110,21 +99,21 @@ RINOVIMI, NDRYSHIMI DHE REVOKIMI I CERTIFIKATËS
 Neni 10
 Vlefshmëria e certifikatës
 1. Afati i vlefshmërisë së certifikatës së klasifikimit është 4 vjet, nga data e lëshimit të saj, me të drejtë rinovimi.
-2. Për rinovimin e certifikatës së klasifikimit sipërmarrësi turistik dorëzon kërkesën përkatëse jo më vonë se 30 ditë përpara mbarimit të afatit të vlefshmërisë së saj.
+2. Për rinovimin e certifikatës së klasifikimit sipërmarrësi turistik dorëzon aplikimin përkatës jo më vonë se 30 ditë përpara mbarimit të afatit të vlefshmërisë së saj.
 3. Procedura për lëshimin e certifikatës së klasifikimit, e parashikuar në këtë rregullore, do të zbatohet edhe në rastin e rinovimit të certifikatës së klasifikimit.
-4. Gjatë procedurës së rinovimit, certifikata e klasifikimit, së cilës i ka kaluar afati i vlefshmërisë, do të konsiderohet e vlefshme deri në përfundim të afateve të parashikuara në këtë rregullore për shqyrtimin e kërkesës për rinovimin e saj.
+4. Gjatë procedurës së rinovimit, certifikata e klasifikimit, së cilës i ka kaluar afati i vlefshmërisë, do të konsiderohet e vlefshme deri në përfundim të afateve të parashikuara në këtë rregullore për shqyrtimin e aplikimit për rinovimin e saj.
 Neni 11
 Riklasifikimi i strukturës akomoduese
-1. Me kërkesë të sipërmarrësit turistik, Komisioni mund të nisë procedurat për rivlerësimin dhe riklasifikimin e strukturës akomoduese, me qëllim ngritjen e nivelit të klasifikimit.
-2. Kërkesa për riklasifikim nuk mund të paraqitet më parë se 12 muaj nga data e lëshimit të certifikatës së klasifikimit. Procedura për lëshimin e certifikatës së klasifikimit, e parashikuar në këtë rregullore, zbatohet edhe për riklasifikimin e strukturës akomoduese.
+1. Me aplikim të sipërmarrësit turistik, Komisioni mund të nisë procedurat për rivlerësimin dhe riklasifikimin e strukturës akomoduese, me qëllim ngritjen e nivelit të klasifikimit.
+2. Aplikimi për riklasifikim nuk mund të paraqitet më parë se 12 muaj nga data e lëshimit të certifikatës së klasifikimit. Procedura për lëshimin e certifikatës së klasifikimit, e parashikuar në këtë rregullore, zbatohet edhe për riklasifikimin e strukturës akomoduese.
 Neni 12
 Ndryshimi i certifikatës së klasifikimit
-1. Sipërmarrësi turistik, që pajiset me certifikatë klasifikimi nga Komisioni, duhet të njoftojë Ministrinë për çdo ndryshim në të dhënat e paraqitura për marrjen e saj ose çdo ndryshim që mund të ndikojë në klasifikimin e strukturës akomoduese brenda 7 ditëve, nga ndodhja e tyre.
+1. Sipërmarrësi turistik, i cili zotëron një certifikatë klasifikimi, në rastet kur kanë ndodhur ndryshime në të dhënat e paraqitura për marrjen e saj ose çdo ndryshim, që mund të ndikojë në klasifikimin e strukturës akomoduese, brenda 7 (shtatë) ditëve nga ndodhja e tyre, aplikon në portalin qeveritar “e-Albania”.
 2. Në rast se Komisioni e çmon të arsyeshme se ndryshimet e njoftuara nga sipërmarrësi turistik mund të ndikojnë në klasifikimin e strukturës akomoduese, Komisioni mund të nisë procedurën e rivlerësimit kryesisht, në përputhje me nenin 13, të kësaj rregulloreje.
 Neni 13
 Rivlerësimi kryesisht
 1. Komisioni mund të nisë procedurën e rivlerësimit kryesisht në këto raste:
-a) Me kërkesë të inspektoratit, të shoqëruar me aktin e inspektimit, në rastet kur struktura akomoduese, në mënyrë të përsëritur, nuk përmbush kushte dhe kriteret e përcaktuara në këtë rregullore dhe në akte të tjera në zbatim të ligjit;
+a) Me aplikim të inspektoratit, të shoqëruar me aktin e inspektimit, në rastet kur struktura akomoduese, në mënyrë të përsëritur, nuk përmbush kushte dhe kriteret e përcaktuara në këtë rregullore dhe në akte të tjera në zbatim të ligjit;
 b) Kur struktura akomoduese ka njoftuar Komisionin për ndryshime që ndikojnë në uljen e klasifikimit të saj.
 2. Vendimi i Komisionit për hapjen e procedurës së rivlerësimit kryesisht duhet të jetë i arsyetuar dhe të përmbajë arsyet për rivlerësimin kryesisht të strukturës akomoduese.
 3. Ndaj vendimit të Komisionit lejohet ankimi në Gjykatën Administrative të Shkallës së Parë, Tiranë, brenda afateve dhe sipas procedurave të parashikuara në legjislacionin për gjykimin e mosmarrëveshjeve administrative. Ankimi ndaj vendimit të Komisionit nuk sjell pezullimin e zbatimit të tij.
@@ -146,7 +135,7 @@ KREU V
 TARIFAT E KLASIFIKIMIT
 Neni 16
 Tarifat për klasifikimin e strukturave akomoduese
-1. Kërkuesi, për aplikimin për klasifikim, riklasifikim ose rinovim të vlerësimit të strukturës akomoduese, si dhe për lëshimin e certifikatës së klasifikimit do të paguajë tarifën në shumën 100 (njëqind) lekë.
+1. Aplikuesi, për aplikimin për klasifikim, riklasifikim ose rinovim të vlerësimit të strukturës akomoduese, si dhe për lëshimin e certifikatës së klasifikimit do të paguajë tarifën në shumën 100 (njëqind) lekë.
 2. Kostot e procesit të verifikimit për klasifikimin e strukturës akomoduese mbulohet nga sipërmarrjet turistike që aplikojnë për pajisjen me certifikatë klasifikimi.
 3. Tarifat për verifikimin në terren (në lekë) janë, si më poshtë vijon:
 Kategoria
