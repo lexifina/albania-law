@@ -4,6 +4,10 @@ Nr. 241, datë 2.12.2021
 
 MBI LICENCIMIN E SHOQËRISË “ALBESP TRADING & CONSULTING” SHPK NË VEPRIMTARINË E FURNIZIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me Vendimin nr. 82, datë 24.4.2025)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “ç”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të nenit 4, pika 1, germa “d”, nenit 5, pika 1, germa “d” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, të ndryshuar, si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 2.12.2021, mbasi shqyrtoi relacionin nr. 145/4 prot., datë 25.11.2021, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi licencimin e shoqërisë ‘AlbEsp Trading & Consulting’ sh.p.k. në veprimtarinë e furnizimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -44,11 +48,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “AlbEsp Trading & Consulting” sh.p.k. në veprimtarinë e furnizimit të energjisë elektrike, për një afat 5-vjeçar.
 
-2. Me fillimin e operimit, shoqëria “AlbEsp Trading & Consulting” sh.p.k. të depozitojë në ERE sistemin IT.
+2. Shoqëria “AlbEsp Trading & Consulting” sh.p.k. të depozitojë në ERE kontratën e qirasë së zyrave që disponon, jo më vonë se një (1) muaj pas rinovimit të saj (afati i përfundimit: 1.11.2025).
 
-3. Shoqëria “AlbEsp Trading & Consulting” sh.p.k. të depozitojë në ERE kontratën e qirasë së zyrave që disponon, jo më vonë se 1 (një) muaj pas rinovimit të saj (afati i përfundimit data 20.9.2024).
-
-4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
+3. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
 Ky vendim hyn në fuqi menjëherë.
 
