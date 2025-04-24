@@ -2,7 +2,7 @@
 
 Official source: [Vendim nr. 254, datë 23.8.2023 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/26574); [QBZ versions](https://qbz.gov.al/api/v1/acts/26574/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2024-07-25; after QBZ act 28904 (nr. 151).
+Status of this text: `official consolidated version 2`, applying from 2025-04-24; after QBZ act 62902 (nr. 91).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 

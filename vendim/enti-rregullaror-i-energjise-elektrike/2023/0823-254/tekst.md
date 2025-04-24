@@ -4,9 +4,9 @@ Nr. 254, datë 23.8.2023
 
 MBI LICENCIMIN E SHOQËRISË “G.S.K.” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA CENTRALI FOTOVOLTAIK ME KAPACITET TË INSTALUAR 2 mw
 
-(Ndryshuar me Vendimin nr. Nr. 151, datë 25.7.2024)
+(Ndryshuar me vendimin nr. 151, datë 25.7.2024; nr. 91, datë 24.4.2025)
 
-(I përditësuar)
+(i përditësuar)
 
 	Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a” dhe 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 23.8.2023, mbasi shqyrtoi relacionin me nr. 1931/7 prot., datë 17.8.2023, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes “Mbi licencimin e shoqërisë ‘G.S.K.’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 2 mw”,
 
@@ -34,11 +34,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “G.S.K.” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 2 mw, për një afat 25-vjeçar.
 
-2. Përpara fillimit të operimit/ushtrimit të veprimtarisë së energjisë elektrike, shoqëria “G.S.K” sh.p.k. të depozitojë në ERE, VNM-në e rinovuar.
+2. Shfuqizuar.
 
-3. Ky vendim është objekt rishikimi nga ERE.
+3. Shfuqizuar.
 
-4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “G.S.K.” sh.p.k. dhe Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s. 
+4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “G.S.K.” sh.p.k. dhe Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s.  
 
 Ky vendim hyn në fuqi menjëherë.
 
