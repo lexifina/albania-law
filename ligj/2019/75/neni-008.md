@@ -8,7 +8,7 @@ c) bashkëpunon me organizma, institucione, donatorë dhe subjekte të tjera, ve
 ç) mbështet ngritjen e kapaciteteve të njësive dhe strukturave në nivel qendror dhe vendor;
 d) krijon dhe mirëmban bazën e aksesueshme të të dhënave për rininë;
 dh) siguron financime nëpërmjet aplikimit në projekte kombëtare dhe ndërkombëtare, të cilat transferohen mbi bazë vjetore në rastet kur miratohet një projekt shumëvjeçar;
-e) mbledh, administron dhe analizon të dhënat mbi situatën e të rinjve në bashkëpunim me institucionet e tjera dhe njësitë e vetëqeverisjes vendore;
+e) mbledh, administron dhe analizon të dhënat mbi situatën e të rinjve në bashkëpunim me institucionet e tjera dhe bashkitë;
 ë) raporton në mënyrë periodike pranë ministrisë përgjegjëse për rininë për situatën e të rinjve dhe zbatimin e detyrimeve që burojnë nga ky ligj;
-f) mbikëqyr veprimtarinë rinore dhe të punës me të rinjtë nga organizatat rinore dhe organizatat për të rinjtë, që përfitojnë mbështetje sipas parashikimeve të këtij ligji.
+f) mbikëqyr veprimtarinë rinore dhe të punës me të rinjtë nga organizatat rinore, grupet joformale rinore, këshillat rinorë vendorë dhe organizatat për të rinjtë, që përfitojnë mbështetje sipas parashikimeve të këtij ligji.
 3. Mënyra e krijimit, organizimit dhe funksionimit të institucionit përgjegjës për rininë miratohet me vendim të Këshillit të Ministrave.
