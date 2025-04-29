@@ -1,0 +1,1 @@
+1. Programi “CEEPUS IV” mbështet bashkëpunimin ndëruniversitar në fushën e arsimit të lartë dhe kërkimit shkencor, shkëmbimin e studentëve, të stafit akademik dhe kërkuesve shkencorë ndërmjet institucioneve të arsimit të lartë pjesëmarrëse të vendeve anëtare në këtë program.

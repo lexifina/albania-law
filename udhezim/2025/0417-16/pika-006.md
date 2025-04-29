@@ -1,0 +1,1 @@
+6. Udhëzimi nr. 4, datë 16.2.2018, i MAS-it, “Për zbatimin e programit të shkëmbimit të studimeve universitare në Evropën Qendrore CEEPUS III në Republikën e Shqipërisë”, shfuqizohet. Dispozitat e këtij udhëzimi zbatohen sipas kohëzgjatjes së programit CEEPUS IV, të miratuar me ligjin nr. 19/2024.
