@@ -208,15 +208,29 @@ shtetësi
 vendbanimi (adresa).
 Në formë shkresore, sipas kërkesës, si dhe në formë elektronike.
 16
-Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor
-Ligji nr. 10383, datë 24.2.2011, “Për sigurimin e detyrueshëm të kujdesit shëndetësor në Republikën e Shqipërisë”:
-neni 5, “Personat e siguruar”;
-neni 27, “Regjistrimi dhe identifikimi i personave të siguruar”, paragrafët 5 dhe 6.
-Të dhënat që përmban:
-certifikata personale;
-certifikata familjare;
-certifikata e lëshuar nga akti i vdekjes.
-Në formë elektronike.
+Fondi i Sigurimit të
+Detyrueshëm të Kujdesit Shëndetësor (FSDKSH)
+Ligji nr. 10 383, datë 24.2.2011, “Për sigurimin e detyrueshëm të kujdesit shëndetësor në Republikën e Shqipërisë”, i ndryshuar”:
+- Neni 5 “Personat e siguruar”;
+- Neni 27 “Regjistrimi dhe identifikimi i personave të siguruar”.
+Të dhënat personale të personave që kanë ndërruar jetë:
+- Zyra e gjendjes civile në bashki/njësi administrative;
+- Emër;
+- Mbiemër;
+- Numër personal;
+- Datëlindje; vendlindje;
+- Emri i babait;
+- Emri i nënës;
+- Gjinia;
+- Gjendja civile;
+- Shtetësia;
+- Vendbanimi (adresa);
+- Data e vdekjes;
+- Vendi i vdekjes;
+- Shteti i vdekjes;
+- Shkaku i vdekjes;
+- Data e çregjistrimit.
+Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse.
 17
 Inspektorati i Lartë i Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave
 Neni 9/1 dhe neni 26, i ligjit nr. 9046, datë 10.4.2003, “Për deklarimin dhe kontrollin e pasurive, të detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publike”, i ndryshuar.
@@ -401,7 +415,7 @@ Në formë shkresore, sipas kërkesës
 Në formë elektronike
 28
 Përfaqësitë diplomatike të qeverive të huaja
-Ligji nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, të ndryshuar, konkretisht nenet 8 dhe 9.
+Ligji nr. 124, datë 19.12.2024, “Për mbrojtjen e të dhënave personale”, konkretisht nenet 8 dhe 9.
 Vendimi nr. 3, datë 20.11.2012, “Për përcaktimin e shteteve me nivel të mjaftueshëm të mbrojtjes së të dhënave personale”, i Komisionerit për Mbrojtjen e të Dhënave Personale.
 Të dhënat e domosdoshme, të cilat vlerësohen të nevojshme për plotësimin e qëllimit. Marrësi në kërkesë përcakton qartë qëllimin e marrjes së të dhënave. Transferuesi i të dhënave vlerëson dhënien e sasisë së të dhënave në përputhje me qëllimin.
 Në formë shkresore, sipas kërkesës.
@@ -691,31 +705,60 @@ numër personal;
 datëlindje;
 vendbanimi (adresa);
 Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse.
-50.
-Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor (FSDKSH)
-Ligji nr. 10 383, datë 24.2.2011 “Për sigurimin e detyrueshëm të kujdesit shëndetësor në Republikën e Shqipërisë”, i ndryshuar”
-neni 5
-Personat e siguruar
-neni 27
-Regjistrimi dhe identifikimi i personave të siguruar
-Të dhënat personale të personave që kanë ndërruar jetë:
-zyra e gjendjes civile në bashki/njësi administrative;
-emër;
-mbiemër;
-numër personal;
-datëlindje;vendlindje;
-emri i babait;
-emri i nënës;
-gjinia;
-gjendja civile;
-shtetësia;
-vendbanimi (adresa);
-data e vdekjes;
-vendi i vdekjes;
-shteti i vdekjes;
-shkaku i vdekjes;
-data e ç’regjistrimit;
-Në formë elektronike, përmes ndërveprimit të bazave të të dhënave shtetërore përkatëse.
+50
+Agjencia Kombëtare e Punësimit dhe Aftësive (AKPA)
+Ligji nr. 15/2017, “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”, i ndryshuar.
+Vendimi nr. 554, datë 31.7.2019 i Këshillit të Ministrave, “Për krijimin, mënyrën e organizimit dhe të funksionimit të Agjencisë Kombëtare të Punësimit dhe Aftësive”, i ndryshuar.
+Të dhënat e nevojshme për regjistrimin e kursantëve në kurset e formimit profesional si dhe për të dhënat e punonjësve të institucioneve ofruese të formimit profesional, si vijon:
+- Numri personal;
+- Emri;
+- Atësia;
+- Mbiemri;
+- Datëlindja;
+- Adresa;
+- Të dhënat për vendbanimin.
+Në formë elektronike si dhe nëpërmjet identifikimit elektronik në RKGJC.
+51
+Drejtoria e Përgjithshme e Taksës së Pasurisë (DPTP)
+Ligji nr. 9632, datë 30.10.2006, “Për sistemin e taksave vendore”, i ndryshuar.
+Germa “e”, e pikës 1, të nenit 4, të vendimit nr. 132, datë 7.3.2018, “Për metodologjinë për përcaktimin e vlerës së taksueshme të pasurisë së paluajtshme ’ndërtesa’ e bazës së taksës për kategori specifike, natyrën dhe prioritetin e informacionit dhe të dhënave për përcaktimin e bazës së taksës, si dhe të kritereve dhe rregullave për vlerësimin alternative të detyrimit të taksës”, i ndryshuar.
+Vendim nr. 273, datë 16.5.2018, “Për krijimin e regjistrit qendror të bazës së të dhënave për llogaritjen e taksës vendore të pasurisë së paluajtshme ’ndërtese’ (Kadastra Fiskale)”.
+Vendim nr. 171, datë 28.3.2018, “Për organizimin dhe funksionimin e Drejtorisë së Përgjithshme të Taksës së Pasurisë”.
+Të dhënat e nevojshme për identifikimin e individëve subjekt i taksës së ndërtesës:
+- Emër;
+- Mbiemër;
+- Atësia;
+- Amësia;
+- Gjinia;
+- Vendlindje;
+- Datëlindje;
+- Adresën.
+Në formë elektronike, si dhe nëpërmjet identifikimit elektronik në RKGJC.
+52
+Agjencia Kombëtare e Kontrollit të Cannabis-it
+Ligji nr. 61/2023, “Për kontrollin e kultivimit dhe përpunimit të bimës së cannabis-it dhe prodhimit të nënprodukteve të saj për qëllime mjekësore dhe industriale”:
+- Pika 8, e nenit 3, “Përkufizime”;
+- Neni 7, “Krijimi, statusi dhe financimi i Agjencisë”;
+- Neni 6, “Procesi i verifikimit të pastërtisë së figurës”;
+- Neni 8, “Drejtimi dhe organizimi”.
+- Germa “ë”, e pikës 2, të nenit 9, “Kompetencat e Agjencisë”.
+Kreu I, germa “d”, e pikës 2 të nenit 3 dhe kreu IV pika 6, e nenit 9 të udhëzimit të përbashkët të ministrit të Shëndetësisë dhe Mbrojtjes Sociale, Ministrit të Bujqësisë dhe Zhvillimit Rural dhe Ministrit të Brendshëm nr. 274, datë 16.5.2024, “Për përcaktimin e procedurave, afateve, kritereve dhe dokumentacionit të nevojshëm për verifikimin e pastërtisë së figurës së punonjësve të Agjencisë Kombëtare të Kontrollit të Cannabis-it, apo të subjekteve të licencuara, apo të lejuara, si dhe të kritereve etiko-profesionale”.
+Të dhënat e nevojshme për vlerësimin dhe verifikimin e pastërtisë së figurës në lidhje me vetëdeklarimin e bërë nga aplikanti/punonjësi dhe të familjarëve, respektivisht si vijon:
+- informacion lidhur me ndryshimet në përbërësit e gjendjes civile të nëpunësve të agjencisë;
+- informacion lidhur me ndryshimet në përbërësit e gjendjes civile të familjarëve të nëpunësve të agjencisë;
+- informacion lidhur me ndryshimet në përbërësit e gjendjes civile të punonjësit të subjektit që do të licencohet.
+Në formë shkresore, sipas kërkesës.
+53
+Subjektet zgjedhore/ partitë politike
+Neni 60, i ligjit nr. 10 019, datë 29.12.2008, “Kodi Zgjedhor i Republikës së Shqipërisë”, i ndryshuar.
+Të dhënat, përbërësit zgjedhorë si më poshtë vijon:
+- Emri;
+- Mbiemri;
+- Atësia;
+- Datëlindja;
+- Shtetësi;
+- Kodi i vendbanimit.
+Në formë elektronike.
 ANEKS II
 Protokolluar me nr. ________ , datë ________.
 FORMULAR
@@ -744,7 +787,7 @@ ________________________________________________________________________________
 Datë _______ .____. ______
 ANEKS III
 DHËNIA E PËLQIMIT TË SUBJEKTIT PËR KONTROLL NË TË DHËNAT PERSONALE NË DOKUMENTACIONIN QË MBAN SHËRBIMI I GJENDJES CIVILE
-Unë _____________________________ , pas marrjes së informacionit të detajuar, në lidhje me natyrën dhe rëndësinë e përpunimit të të dhënave personale nga kontrolluesi, si dhe pas marrjes së informacionit të detajuar mbi të drejtat e mia të parashikuara në ligjin nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, të ndryshuar, jap pëlqimin tim të lirë për ________________________________________________________.
+Unë _____________________________ , pas marrjes së informacionit të detajuar, në lidhje me natyrën dhe rëndësinë e përpunimit të të dhënave personale nga kontrolluesi, si dhe pas marrjes së informacionit të detajuar mbi të drejtat e mia të parashikuara në ligjin nr. 124, datë 19.12.2024, “Për mbrojtjen e të dhënave personale”, jap pëlqimin tim të lirë për ________________________________________________________.
 (Subjekti i autorizuar) të ketë të drejtën të kontrollojë të dhënat e mia personale, në lidhje me emrin, mbiemrin, datën e lindjes dhe (të dhëna të tjera sipas rastit), në dokumentacionin që mban shërbimi i gjendjes civile, në përputhje me legjislacionin në fuqi.
 Qëllimi i këtij përpunimi do të jetë ekskluzivisht verifikimi i ________________________________ .
 (Subjekti i autorizuar) _____________________________, si kontrollues mund të përhapë ose të vërë në dispozicion të dhënat e mia personale te këta marrës: ________________________, me kusht që kjo përhapje të jetë absolutisht e nevojshme për përmbushjen e shërbimit të kërkuar ose nëse kontrolluesi kryen një përpunim që është thelbësor për përmbushjen e një detyrimi ligjor.
