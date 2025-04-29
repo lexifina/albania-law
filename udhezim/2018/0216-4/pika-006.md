@@ -1,1 +1,0 @@
-6. Udhëzimi nr. 13, datë 15.4.2010, i MASH-së, “Për zbatimin e programit për mbështetjen e bashkëpunimit në fushën e arsimit të lartë, në kuadër të programit të shkëmbimeve të studimeve universitare për Evropën Qendrore CEEPUS II, për vitin akademik 2009-2010”, shfuqizohet.

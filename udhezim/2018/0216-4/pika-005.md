@@ -1,4 +1,0 @@
-5. Tarifat për çdo kategori përcaktohen në shtojcën 1, bashkëlidhur këtij udhëzimi.
-a) Nëse kuotat e parashikuara për shkëmbimet e studentëve dhe të stafit akademik nuk janë shpenzuar, ato mund të përdoren edhe për bursat freemovers (aplikime jashtë rrjeteve CEEPUS). Miratimi i bursave freemovers bëhet mbi të njëjtat kritere si për bursat e zakonshme CEEPUS, sipas pikës 4 të këtij udhëzimi.
-b) Fondet e miratuara për një vit akademik, të pashpenzuara apo të kursyera në fund të vitit financiar/akademik, bazuar në ligjin 80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”, transferohen për vitin e ardhshëm financiar/akademik për të njëjtin qëllim.
-c) Bazuar në nenin 1, pikën 7, të ligjit 25/2016, fondet CEEPUS të pashpenzuara gjatë një viti akademik mund të përdoren edhe për takimet koordinuese ndërmjet rrjeteve.
