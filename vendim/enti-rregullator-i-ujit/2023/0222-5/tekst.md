@@ -4,7 +4,7 @@
 
 	PËR LICENCIMIN E SHOQËRISË UJËSJELLËS-KANALIZIME TIRANË SHA
 
-	(Ndryshuar me vendimin nr. 53, datë 20.12.2024)
+	(Ndryshuar me vendimin nr. 53, datë 20.12.2024; nr. 13, datë 30.4.2025)
 
 	(I përditësuar)
 
@@ -50,7 +50,7 @@ VENDOSI:
 
 	2. Shoqëria Ujësjellës-Kanalizime Tiranë sh.a. autorizohet të kryejë veprimtaritë e licencuara me:
 
-	a) drejtues ligjor: z. Kostandin Budurushi;
+	a) drejtues ligjor: z. Skerdi Drenova;
 
 	b) drejtues teknik: Edgar Çani;
 
