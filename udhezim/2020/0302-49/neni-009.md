@@ -1,8 +1,0 @@
-# Neni 9
-Kërkimi shkencor
-1. Përpunimi i të dhënave shëndetësore për qëllimet e kërkimit shkencor duhet t’u nënshtrohet masave të përshtatshme të mbrojtjes të parashikuara me ligj dhe në këtë udhëzim, duke garantuar të drejtat dhe liritë themelore të subjektit të të dhënave.
-2. Nevoja e përpunimit të të dhënave shëndetësore për kërkimin shkencor duhet të vlerësohet në pikëpamjen e qëllimeve kërkimore, rreziqeve ndaj subjektit të të dhënave, si dhe për sa i përket përpunimit të të dhënave gjenetike, në kuadër të rrezikut për familjen biologjike.
-3. Të dhënat shëndetësore, në parim, duhet të përpunohen vetëm në një projekt kërkimi shkencor, nëse subjekti i të dhënave ka dhënë pëlqimin, në përputhje me këtë udhëzim, me përjashtim të rasteve të parashikuara ndryshe me ligj.
-4. Të dhënat duhet të anonimizohen kur qëllimet e kërkimit shkencor e lejojnë. Kur qëllimet e kërkimit nuk e lejojnë këtë, duhet të zbatohet pseudonimizimi i të dhënave në fazën e ndarjes së identifikimit, për të mbrojtur të drejtat dhe liritë themelore të subjektit të të dhënave.
-5. Kur subjekti i të dhënave tërhiqet nga një projekt i kërkimit shkencor, të dhënat që lidhen me shëndetin, të përpunuara në kuadër të atij kërkimi, duhet të shkatërrohen ose anonimizohen në një mënyrë që nuk kompromenton vlefshmërinë shkencore të kërkimit, duke informuar subjektin e të dhënave.
-6. Të dhënat personale të përdorura për kërkim shkencor nuk duhet të publikohen në një formë që mundëson identifikimin e subjektit të të dhënave, përjashtuar rastin kur subjekti i të dhënave ka dhënë pëlqimin dhe/ose kur parashikohet shprehimisht nga ligji.
