@@ -1,0 +1,5 @@
+# Neni 7
+Masat e sigurisë
+1. Kontrolluesit përdorin masat e duhura të sigurisë, duke marrë parasysh zhvillimet e teknologjisë së sigurisë dhe kostot, mënyrën e zbatimit dhe sensitivitetin e të dhënave të grumbulluara, për të parandaluar çdo humbje ose shkatërrim aksidental, shpërndarje ose qasje të paautorizuar në të dhënat personale, që përpunohen për qëllime të marketingut të drejtpërdrejtë.
+2. Këto masa përfshijnë, ndër të tjera, sigurinë e ndërtesave, në të cilat përpunohen të dhënat personale (përfshirë hyrjet e ndërtesave), listën e personave të autorizuar për të pasur akses në të dhëna, mekanizmat e duhur, masat e sigurisë për transferimin e të dhënave ndërmjet kontrolluesit dhe përpunuesit të të dhënave etj.
+3. Kontrolluesit sigurojnë që çdo përpunues që kontraktojnë, garanton një nivel të duhur të masave të sigurisë. Kontrolluesi është përgjegjës ndaj subjekteve të të dhënave për veprimtarinë e përpunuesit, në raport me parashikimet e aktit që rregullon marrëdhënien midis tyre.

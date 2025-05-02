@@ -1,0 +1,9 @@
+# Neni 6
+Përpunimi i të dhënave personale të të miturve
+1. Në kuadër të mbrojtjes së të dhënave personale, një individ nën moshën 18 vjeç, duhet të konsiderohet si “i mitur” dhe gëzon mbrojtje të veçantë.
+2. Në rastin kur kontrolluesit mbledhin të dhëna për të miturit, për qëllime të marketingut të drejtpërdrejtë, duhet t’i kushtojnë vëmendje të veçantë parimit të minimizimit të të dhënave, në mënyrë që të mos përpunohen të dhëna personale më shumë se sa është e nevojshme për realizimin e qëllimit duke mos cenuar natyrën e veçantë të kësaj kategorie subjektesh.
+3. Në rastet kur kërkohet pëlqimi për mbledhjen e të dhënave për qëllime marketingu, ai duhet të merret nga prindi ose kujdestari ligjor i të miturit. Kontrolluesi verifikon se prindi ose kujdestari ligjor i tij, është personi që përfaqëson të miturin.
+4. Informacioni i nevojshëm duhet t’i vihet në dispozicion të miturit, si dhe prindit ose kujdestarit ligjor të tij. Informacioni që i vihet në dispozicion të miturit, duhet të jetë i përshtatshëm për këtë kategori subjektesh dhe të jetë lehtësisht i dukshëm, i lexueshëm dhe i kuptueshëm.
+5. Materialet dhe mesazhet e marketingut drejtuar të miturve, duhet të jenë të përshtatshme në mënyrë që të jenë lehtësisht të dukshme, të lexueshme dhe të kuptueshme dhe të mos cenojnë natyrën delikate personale të të miturve.
+6. Prindi ose kujdestari ligjor i të miturit, si përfaqësues ligjor i tij, gëzon të njëjtat të drejta si i mituri, në rolin e subjektit të të dhënave personale.
+7. Në rastin kur kontrolluesi mbledh të dhënat e një të mituri, me qëllim pjesëmarrjen në një lojë, ofrimin e një çmimi ose ndonjë veprim tjetër që kërkon shpërndarjen e të dhënave të të miturit, kontrolluesi do të kufizojë përpunimin e të dhënave rreptësisht në masën që është e nevojshme, me qëllim që i mituri të marrë pjesë në këtë aktivitet.
