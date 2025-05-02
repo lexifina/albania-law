@@ -1,0 +1,4 @@
+# Neni 3
+Dispozitat e përgjithshme
+1. Të dhënat personale në fushën e arsimit, mblidhen drejtpërdrejtë nga subjektet e të dhënave ose nga kujdestarët e tyre. Subjektet e të dhënave në fushën e arsimit, konsiderohen nxënësit, studentët dhe të gjithë ata që janë regjistruar në një institucion arsimor. Të dhënat e tyre personale sigurohen nga vetë ata kur janë në moshë madhore, ose kur janë të mitur, nga prindërit apo kujdestarët ligjorë.
+2. Subjekti i të dhënave, ka të drejtën të informohet për të dhënat që do të përpunohen. Kontrolluesi duhet t’i sigurojë çdo informacion dhe të zhvillojë çdo komunikim sipas neneve 13-20 të ligjit, për përpunimin e të dhënave të tij në formë koncize, transparente, të kuptueshme dhe lehtësisht të aksesueshme, duke përdorur gjuhë të qartë dhe të thjeshtë, veçanërisht për sa i takon informacionit që i drejtohet në mënyrë specifike një të mituri.

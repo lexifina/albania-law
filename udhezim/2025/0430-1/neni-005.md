@@ -1,0 +1,4 @@
+# Neni 5
+Përpunimi i të dhënave personale në fushën e arsimit
+1. Të dhënat e përpunuara në përputhje me parashikimet e nenit 6 të ligjit, mund të ruhen për aq kohë sa është e nevojshme për qëllimet për të cilat ato janë mbledhur. Nëse të dhënat e ruajtura nuk janë më të nevojshme, ato duhet të fshihen, të anonimizohen ose të shkatërrohen duke zbatuar masat e duhura të sigurisë.
+2. Etika ka një rol thelbësor gjatë përpunimit të të dhënave. Respektimi i parimit të integritetit dhe konfidencialitetit sipas pikës 6, të nenit 6 të ligjit, është i rëndësishëm të zbatohet sa herë që përpunohen të dhëna personale. Kontrolluesit, përpunuesit dhe personeli që vihen në dijeni të përmbajtjes së të dhënave personale gjatë kryerjes së aktiviteteve të tyre profesionale janë të detyruar të ruajnë konfidencialitetin edhe pas mbarimit të funksionit të tyre.

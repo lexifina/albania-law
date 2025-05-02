@@ -1,0 +1,7 @@
+# Neni 7
+Transferimi i të dhënave personale në fushën e arsimit
+1. Transferimi i të dhënave personale të nxënësve, studentëve, prindërve ose kujdestarëve të tyre, si dhe i stafit mësimor, administrativ të shkollave dhe organeve përgjegjëse, lejohet vetëm nëse:
+a) subjekti i të dhënave ka dhënë pëlqimin, që shërben si provë e shfaqjes së vullnetit të qartë, të plotë e të lirë, çka nënkupton që subjekti i të dhënave është informuar për arsyen e përpunimit dhe shpreh pëlqimin për përpunimin e të dhënave personale që i përkasin atij/asaj për një ose më shumë qëllime të caktuara;
+b) është e nevojshme për përmbushjen dhe realizimin e detyrave që përcakton legjislacioni në fushën e arsimit. Të dhënat nuk përpunohen për një qëllim tjetër nga ai fillestar i përcaktuar në momentin e mbledhjes. Nëse të dhënat duhet të transferohen për një qëllim të ndryshëm nga ai fillestar, subjekti i të dhënave duhet të japë përsëri pëlqimin për këtë qëllim të ri.
+2. Nëse të dhënat personale do të transferohen për një qëllim të ndryshëm , kontrolluesi duhet të sigurohet që edhe qëllimi i ri të jetë në përputhje me të gjitha parimet e mbrojtjes së të dhënave dhe dispozitat e ligjit nr. 124/2024, “Për mbrojtjen e të dhënave personale”, si dhe të sigurojë që subjekti i të dhënave të ketë dhënë përsëri pëlqimin për këtë qëllim të ri.
+3. Çdo transferim duhet të dokumentohet në përputhje me nenin 27, të ligjit.
