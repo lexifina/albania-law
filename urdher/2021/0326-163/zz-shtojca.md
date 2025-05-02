@@ -3257,3 +3257,20 @@ Standardi 1 skadon më 1 janar 2022.
 12.14.1.1 Të gjitha pajisjet EVD, të përdorura për skanimin e bagazhit të hambarit ose kargo, duhet të plotësojnë të paktën standardin 1.
 12.14.1.2 Të gjitha pajisjet EVD, të përdorura për skanimin e personave ose bagazheve të kabinës, duhet të plotësojnë të paktën standardin 3.
 12.14.1.3 Kërkesat e hollësishme për këto standarde janë të përcaktuara në vendimin implementues të komisionit C (2015) 8005.
+ANEKS 2
+KRITERET PËR SHMANGIEN NGA STANDARDET THEMELORE TË PËRBASHKËTA TË SIGURISË NË AVIACION DHE ZBATIMIN E MASAVE ALTERNATIVE
+1. Autoriteti i Aviacionit Civil (“AAC”) mund të propozojë shmangien nga standardet themelore të përbashkëta të sigurisë në aviacion (standardet bazë), të përcaktuara në nenin 4 të VKM-së nr. 821, datë 24.12.2021, “Për përcaktimin e standardeve bazë për ruajtjen e aviacionit civil nga aktet e ndërhyrjes së paligjshme, që rrezikojnë sigurinë e aviacionit civil”, si dhe masat alternative të sigurisë në aviacion që do të zbatohen, të cilat do të mundësojnë një nivel të përshtatshëm të mbrojtjes, mbi bazën e një vlerësimi të riskut të miratuar nga AAC-ja, në aeroportet ose pjesë të ndara të aeroporteve në territorin e Republikës së Shqipërisë ku trafiku kufizohet në një ose më shumë prej kategorive të mëposhtme:
+1.1 Avion me peshë maksimale në ngritje më pak se 15 000 kilogramë;
+1.2 Helikopterët;
+1.3 Fluturime shtetërore, ushtarake dhe të agjencive ligjzbatuese;
+1.4 Fluturime për shuarjen e zjarrit;
+1.5 Fluturime për shërbimet mjekësore, emergjencë ose shërbime të shpëtimit;
+1.6 Fluturime për kërkim dhe zhvillim;
+1.7 Fluturime për punë ajrore;
+1.8 Fluturime të ndihmës humanitare;
+1.9 Fluturime të operuara nga transportuesit ajror, prodhuesit e avionëve ose kompanitë e mirëmbajtjes, që nuk transportojnë as pasagjerë e bagazhe dhe as mallra e postë ajrore;
+1.10 Fluturime me avion me peshë maksimale në ngritje më pak se 45 500 kilogramë, në pronësi të një shoqërie për transportin e personelit të vet dhe të pasagjerëve dhe mallrave pa pagesë si një ndihmë për kryerjen e biznesit të shoqërisë;
+1.11 Fluturimet me avionë me një peshë maksimale në ngritje më pak se 45 500 kilogramë, të marrë me marrëveshje charter ose me qira në tërësinë e tij nga një shoqëri, nga një operator avioni me të cilin ka një marrëveshje me shkrim për transportin e personelit të vet dhe të pasagjerëve dhe mallrave pa pagesë si një ndihmë për kryerjen e biznesit të shoqërisë;
+1.12 Fluturimet me avionë me një peshë maksimale në ngritje më pak se 45 500 kilogramë, për transportin e pronarit të avionit dhe të pasagjerëve e mallrave pa pagesë.
+2. Për fluturimet e përmendura në pikat 1.10, 1.11 dhe 1.12, por me një peshë maksimale në ngritje prej 45 500 kilogramë ose më shumë, Autoriteti i Aviacionit Civil mundet në raste të jashtëzakonshme, dhe bazuar në një vlerësim të riskut për çdo rast individual, të propozojë heqjen e kufizimit të peshës të përcaktuar në këto kategori. Shtetet anëtare të ZPAE-së që presin fluturime të tilla me 45 500 kilogramë ose më shumë mund të kërkojnë njoftim paraprak, i cili mund të përfshijë një kopje të vlerësimit të riskut të kryer ose miratimin e tyre paraprak. Kërkesa për njoftim ose miratim paraprak do t’u dorëzohet me shkrim të gjitha shteteve të tjera anëtare të ZPAE-së.
+3. Masat alternative në rast të shmangies zbatohen pas miratimit nga ministri.
