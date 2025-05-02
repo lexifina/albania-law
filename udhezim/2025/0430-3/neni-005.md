@@ -1,0 +1,5 @@
+# Neni 5
+Masat e sigurisë
+1. Masat e sigurisë duhet të mbrojnë sistemet e regjistrimit dhe pajisjet e transmetimit që ruajnë të dhënat e regjistruara, duke i mbrojtur ato nga aksesi, ndryshimi, shkatërrimi, humbja ose përpunimi i paautorizuar ose aksidental.
+2. Të dhënat personale duhet të mbahen në mënyrë të sigurt dhe të mos keqpërdoren apo cenohen nga persona të paautorizuar. Siguria nuk lidhet vetëm me masat e sigurisë fizike, por ka të bëjë gjithashtu me organizimin e punës në mënyrë të tillë që të minimizohet rreziku, për shembull, duke siguruar që personeli të ketë akses në të dhënat personale vetëm për aq sa është e nevojshme për të kryer veprimtarinë e tyre të punës. Çdo punonjës duhet të trajnohet rregullisht mbi përdorimin e sigurt të të dhënave personale dhe të kuptojë qartë përgjegjësitë dhe kufizimet që ka, në përputhje me kërkesat e ligjit.
+3. Kontrolluesit, përpunuesit dhe personat e autorizuar, të cilët gjatë ushtrimit të detyrës, vihen në dijeni për përmbajtjen e të dhënave të regjistruara nga sistemi CCTV, janë të detyruar ta ruajnë konfidencialitetin edhe pas përfundimit të punës së tyre, për kontrolluesin ose përpunuesin.

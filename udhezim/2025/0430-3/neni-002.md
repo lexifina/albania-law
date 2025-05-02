@@ -1,0 +1,18 @@
+# Neni 2
+Kushtet paraprake për mbikëqyrjen e ligjshme me kamera
+1. Përpunimi i të dhënave personale, përmes sistemit të CCTV përbën një ndërhyrje serioze në jetën private të individit. Kontrolluesi mund të përpunojë këto të dhëna vetëm kur legjitimohet sipas nenit 7, të ligjit.
+2. Kontrolluesi i të dhënave duhet të sigurojë marrjen e pëlqimit të subjektit të të dhënave, por praktikisht kjo është e mundshme vetëm në raste shumë të kufizuara, atëherë kur identifikimi i një grupi personash brenda zonës së kamerës bëhet në mënyrë të qartë. Në shumicën e rasteve, kontrolluesi e ka të pamundur identifikimin paraprak të individëve që do të kalojnë në zonën e survejuar, për të siguruar më parë “pëlqimin” e tyre. Në këtë rast, Kontrolluesi legjitimohet të vendosë sisteme CCTV, nëse ky përpunim është i nevojshëm për përmbushjen e një detyrimi ligjor apo të interesave të ligjshëm të tij. Në çdo rast duhet të garantojë që nuk ka mënyrë tjetër më pak ndërhyrëse në jetën e subjekteve të të dhënave për përmbushjen e qëllimit.
+3. Interesi i ligjshëm në funksionimin e një sistemi CCTV, nënkupton që:
+a) kontrolluesi ka të drejtë të vendosë se kush lejohet të hyjë dhe të qëndrojë brenda zonës nën vëzhgim (e drejta mbi ambientin);
+b) përdorimi i një sistemi CCTV duhet të justifikohet nga një nevojë e veçantë për të mbrojtur të drejtat e kontrolluesit ose të personave të tretë, si rreziku nga vjedhja ose kërcënimi për sigurinë fizike ose mendore të personave që qëndrojnë brenda zonës së mbikëqyrur;
+c) qëllimi i regjistrimit duhet të specifikohet qartë dhe në përputhje me interesat ligjore të kontrolluesit (p.sh. mbrojtja e pronës kundër vjedhjes);
+ç) përpunimi i të dhënave me anë të sistemit CCTV mund të lejohet vetëm nëse qëllimi për të cilin është instaluar ky sistem, nuk mund të arrihet në ndonjë mënyrë tjetër;
+d) ndalohet instalimi i një sistemi CCTV, në ambiente që përdoren ekskluzivisht për qëllime private, si: tualete, dushe, dhoma zhveshje etj.
+4. Meqenëse përpunimi i të dhënave kryhet për përmbushjen e interesave të ligjshëm të kontrolluesit, është thelbësore që të merren parasysh interesat e subjekteve të të dhënave, në mënyrë që të dhënat e sistemit CCTV të mos jenë të aksesueshme nga persona të paautorizuar. Në këto kushte:
+a) të dhënat duhet të ruhen për një afat sa më të shkurtër të jetë e mundur;
+b) rrethi i personave që kanë akses në të dhënat e regjistruara duhet të kufizohet e të jetë sa më i ngushtë të jetë e mundur;
+c) çdo akses i marrë në të dhënat e regjistruara duhet të dokumentohen, për qëllime të një kontrolli të mundshëm të mëvonshëm. Të dhënat e regjistruara për parandalimin e rrezikut, si arsyeja e instalimit të sistemit CCTV, nuk do të përdoren për qëllime të tjera, përveç rasteve që parashikohen me ligj, p.sh. për interesa të rëndësishme publike si lufta kundër krimit.
+5. Përpara fillimit të përpunimit të të dhënave personale me anë të sistemit CCTV, duhet të merret dhe të dokumentohet me një akt të brendshëm nga organi vendimmarrës i kontrolluesit, duke përcaktuar pikat e mëposhtme:
+a) llojin, specifikimet e kamerave dhe vendosjen e tyre në përputhje me qëllimin për të cilin do të përdoren. Pozicioni i kamerave nuk duhet të jetë në një mënyrë, nga e cila përftohen imazhe nga mjedise që nuk përputhen me qëllimin e mbikëqyrjes;
+b) zonat e sakta që do të jenë nën mbikëqyrje; p.sh.: ndalohet monitorimi dhe regjistrimi i imazheve në ambiente private;
+c) ndalohet mbikëqyrja dhe transmetimi në kohë reale i imazheve të regjistruara nga sistemi CCTV, nëpërmjet internetit ose shërbimeve të komunikimit elektronik, ku personat mund të identifikohen lehtë.
