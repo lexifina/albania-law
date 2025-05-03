@@ -1,0 +1,4 @@
+# Neni 7
+Verifikimet që kryhen nga bashkia
+1. Bashkia kompetente brenda 30 (tridhjetë) ditëve nis evidentimin në terren të sipërfaqeve, objekt të kërkesave të administruara, duke verifikuar gjendjen e posedimit të pasurisë nga subjektet, për të cilën mban procesverbalin përkatës.
+2. Krahas evidentimit në terren, bashkia kërkon informacion për gjendjen juridike të pasurisë, faktin nëse përfshihet në proceset kalimtare të pronësisë, si dhe për faktin nëse ajo është inventarizuar apo jo nga Agjencia Shtetërore e Kadastrës. Gjithashtu, kërkon informacion nga Agjencia e Trajtimit të Pronave për faktin nëse për sipërfaqen ka ose jo vendim për kthimin ose kompensimin fizik në favor të ish-pronarëve, sipas legjislacionit përkatës. Këto institucione duhet t’i kthejnë përgjigje bashkisë brenda 20 (njëzet) ditëve nga administrimi i kërkesës sipas legjislacionit në fuqi.

@@ -1,0 +1,3 @@
+# Neni 1
+Qëllimi
+Ky ligj ka për qëllim tërheqjen e investimeve dhe nxitjen e zhvillimit ekonomik apo turistik në zonat me përparësi zhvillimin e ekonomisë malore, përmes kalimit të pronësisë së pronës së paluajtshme shtetërore tek individët dhe/ose personat fizikë e juridikë posedues jopronar me destinacion investimin në projekte që mundësojnë rimëkëmbjen ekonomike, nxitjen e punësimit në zonë, përmirësimin e kushteve të jetesës, shfrytëzimin eficient të burimeve natyre, mbrojtjen e ekosistemit dhe vlerave territoriale, në përputhje me parimet e transparencës dhe mbrojtjes së interesit publik.
