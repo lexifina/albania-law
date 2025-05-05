@@ -1,0 +1,9 @@
+# Neni 20
+Dokumentacioni i nevojshëm për t’u pajisur me autorizim për negociata për nënshkrimin e një marrëveshjeje/kontrate ekonomike me vendet nën embargo
+1. Subjekti kërkues, i cili kërkon të pajiset me autorizim për negociata për nënshkrimin e një marrëveshjeje/kontrate ekonomike me vendet nën embargo, paraqet:
+a) kërkesën, nëpërmjet portalit “e-Albania” për autorizim sipas formularit tip, në bazë të udhëzimeve të përcaktuara në këtë formular, nënshkruar nga përfaqësuesi ligjor i subjektit;
+b) kopje e draftmarrëveshjes ose të kontratës, që do të negociohet, ku janë përcaktuar përdoruesit e fundit dhe mallrat.
+2. AKSHE-ja, pas kryerjes së vlerësimit të riskut, sipas kritereve të përcaktuara në nenin 12, të ligjit nr. 46/2018, kur ka dyshime të arsyetuara, kërkon nga kërkuesi, nëpërmjet portalit “e-Albania”, të dhëna shtesë, për:
+a) identitetin e palëve të përfshira nga kompanitë vendëse ose të huaja (ortakë, administratorë, përfaqësues ligjorë), si dhe të dhëna për përdoruesin e fundit dhe qëllimin e përdorimit;
+b) vendet e transitit, kushtet e transportit, kompanitë transportuese.
+3. AKSHE-ja, për verifikimin e të dhënave në dokumentacionin e mësipërm, bashkëpunon me institucionet e tjera të përfshira në transferimet ndërkombëtare të mallrave të kontrolluara, sipas përcaktimeve të kreut III, të vendimit nr. 31, datë 22.1.2020, të Këshillit të Ministrave, “Për organizimin, përbërjen, funksionimin dhe statusin e Autoritetit të Kontrollit Shtetëror të Eksporteve, përcaktimin e afateve, të mënyrës dhe të procedurës për shkëmbimin e informacionit dhe të marrjes së mendimit nga institucionet e tjera të përfshira në transferimet ndërkombëtare të mallrave të kontrolluara, si dhe përcaktimin e procedurave për lëshimin e garancive dhe kryerjen e kontrollit shtetëror”, në rastet kur këto negociata janë objekt i fushës së përgjegjësisë së këtyre institucioneve.
