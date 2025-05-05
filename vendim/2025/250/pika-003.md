@@ -1,0 +1,15 @@
+3. AQShD-ja ka si mision ruajtjen, përpunimin, administrimin dhe shërbimin e të gjitha dokumenteve gjyqësore dhe hetimore-penale të krijuara, të të gjitha shkallëve të sistemit të drejtësisë, si dhe të dokumenteve në funksion të vendimmarrjes së procesit të rivlerësimit të kryer nga organet e rivlerësimit kalimtar të gjyqtarëve e të prokurorëve.
+II. PËRGJEGJËSITË FUNKSIONALE TË ARKIVIT QENDROR SHTETËROR TË DREJTËSISË
+AQShD-ja ka përgjegjësi të organizojë punën për:
+a) ruajtjen, përpunimin, administrimin dhe shërbimin e trashëgimisë dokumentare tipologjike gjyqësore dhe hetimore, të krijuar nga institucionet e sistemit të drejtësisë, si dhe të dokumenteve në funksion të vendimmarrjes së procesit të rivlerësimit të kryer nga organet e rivlerësimit kalimtar të gjyqtarëve e të prokurorëve;
+b) bashkëpunimin dhe koordinimin ndërinstitucional, me qëllim administrimin efektiv të trashëgimisë dokumentare gjyqësore dhe hetimore-penale të krijuara, të të gjitha shkallëve të sistemit të drejtësisë, si dhe të dokumenteve në funksion të vendimmarrjes së procesit të rivlerësimit të kryer nga organet e rivlerësimit kalimtar të gjyqtarëve e të prokurorëve.
+III. ORGANIZIMI DHE FUNKSIONIMI I ARKIVIT QENDROR SHTETËROR TË DREJTËSISË
+1. AQShD-ja kryen detyrat, si më poshtë vijon:
+a) harton dhe miraton manuale udhëzuese me rregulla, procedura dhe teknika të harmonizuara në lidhje me mirëmbajtjen, administrimin, ruajtjen, transferimin dhe dorëzimin e njësive të ruajtjes së dokumenteve të tipologjisë RHK pranë tij të të gjitha dokumenteve gjyqësore dhe hetimore-penale të krijuara, të të gjitha shkallëve të sistemit të drejtësisë, si dhe të të gjithë fondit të dokumenteve, në funksion të vendimmarrjes së procesit të rivlerësimit të kryer nga organet e rivlerësimit kalimtar të gjyqtarëve e të prokurorëve;
+b) mban dhe përditëson regjistrin fizik dhe digjital të të dhënave për njësitë RHK që administron;
+c) u shërben subjekteve të interesuara njësitë RHK që administron;
+ç) bashkërendon punën me organet e sistemit të drejtësisë, organe të tjera të pavarura sipas fushës së përgjegjësisë së AQShD-së dhe Drejtorinë e Përgjithshme të Arkivave, për:
+i. hartimin, përditësimin dhe zbatimin e programeve të posaçme trajnuese për zhvillimin profesional të personelit arkivor në trajtimin e njësive të ruajtjes së dokumenteve të tipologjisë, me qëllim respektimin dhe zbatimin efektiv të dispozitave ligjore për transferimin dhe dorëzimin e njësive tipologjike RHK nga fondkrijuesit;
+ii. përditësimin në vazhdimësi të të dhënave për sektorin, me qëllim menaxhimin efektiv të infrastrukturës fizike në dispozicion, si dhe reduktimin e riskut të dëmtimit të njësive tipologjike RHK.
+2. AQShD-ja organizohet në nivel qendror dhe e shtrin veprimtarinë në të gjithë territorin e Republikës së Shqipërisë.
+3. Struktura dhe organika e AQShD-së miratohet me urdhër të Kryeministrit, me propozim të ministrit, sipas përcaktimeve të legjislacionit në fuqi për organizimin dhe funksionimin e administratës shtetërore.

@@ -1,0 +1,1 @@
+4. AQShD-ja drejtohet dhe përfaqësohet ligjërisht në marrëdhënie me të tretët nga drejtori, i cili përgjigjet para ministrit për administrimin, menaxhimin dhe funksionimin e përgjithshëm të institucionit, si dhe cilësinë e efektivitetin e veprimtarisë së tij.

@@ -1,0 +1,1 @@
+9. Stema e AQShD-së përbëhet nga stema e Republikës së Shqipërisë dhe shënimet: “Republika e Shqipërisë, Ministria e Drejtësisë, Arkivi Qendror Shtetëror i Drejtësisë”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

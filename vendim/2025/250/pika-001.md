@@ -1,0 +1,1 @@
+1. Organizimin dhe funksionimin e Arkivit Qendror Shtetëror të Drejtësisë (në vijim AQShD), si person juridik, publik buxhetor, në varësi të ministrit të Drejtësisë (në vijim ministri), me seli në Tiranë.

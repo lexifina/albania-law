@@ -1,0 +1,1 @@
+6. Marrëdhëniet e punës së nëpunësve të AQShD-së rregullohen në bazë të dispozitave të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë të AQShD-së rregullohen në bazë të dispozitave të Kodit të Punës.
