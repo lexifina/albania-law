@@ -225,8 +225,8 @@ Dispozitë kalimtare
 a) të jetë i regjistruar si person fizik/tregtar apo juridik për ushtrimin e veprimtarisë, si strukturë shërbimi;
 b) të disponojë një strukturë shërbimi me kapacitet mbi 20 tavolina dhe të ketë hapësirë plazhi pranë strukturës së shërbimit.
 4. Subjektet e parashikuara në pikën 3, të këtij neni, paraqesin kërkesën me shkrim pranë Agjencisë Kombëtare të Bregdetit dhe për dijeni NJVV-së, së bashku me dokumentacionin, që vërteton plotësimin e kritereve të parashikuara në këtë rregullore. GTSHA-ja është përgjegjëse për sigurimin e ekstraktit të regjistrimit, sipas shkronjës “a”, të pikës 3, të këtij neni. Agjencia Kombëtare e Bregdetit i përcjell për shqyrtim kërkesën GTSHA-së dhe për trajtimin e aplikimit ndiqet e njëjta procedurë e parashikuar në nenin 7, të kësaj rregulloreje. Numri maksimal i çadrave që vendosen në stacionin e plazhit pranë strukturës së shërbimit është 50 çadra.
-5. Përjashtimisht, për vitin 2025, afati kohor për lidhjen e kontratave të qirasë për përdorimin e stacionit të plazheve, të parashikuar në pikën 5, të nenit 4, të kësaj rregulloreje, do të jetë deri në datën 31 maj.
-6. Përjashtimisht, për vitin 2025, afati kohor për fazën e dytë të aplikimit të subjektit, të parashikuar në pikën 9, të nenit 7, të kësaj rregulloreje, do të jetë brenda datës 30 prill.
+5. Përjashtimisht, për vitin 2025, afati kohor për lidhjen e kontratave të qirasë për përdorimin e stacionit të plazheve, të parashikuar në pikën 5, të nenit 4, të kësaj rregulloreje, do të jetë brenda muajit qershor.
+6. Përjashtimisht, për vitin 2025, afati kohor për fazën e dytë të aplikimit të subjektit, të parashikuar në pikën 9, të nenit 7, të kësaj rregulloreje, do të jetë brenda muajit qershor.
 SHTOJCA I
 KONTRATA MODEL PËR PËRDORIMIN E HAPËSIRËS SË PLAZHIT
 Sot, më datë [•], në [•], nënshkruhet kjo kontratë për përdorimin e hapësirës së plazhit (kontrata) ndërmjet palëve, si më poshtë:
