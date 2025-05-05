@@ -1,1 +1,0 @@
-6. Arkivi Shtetëror i Sistemit Gjyqësor ka për mision ruajtjen, përpunimin dhe administrimin e dokumentacionit gjyqësor e hetimor, i cili i nënshtrohet procedurës së arkivimit nga gjykatat dhe prokuroritë, sipas ligjit për arkivin.
