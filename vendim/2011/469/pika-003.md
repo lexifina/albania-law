@@ -1,1 +1,0 @@
-3. Afati i licencës për importin dhe eksportin e lëndëve plasëse për përdorim civil është 1-vjeçar, ndërsa afati i licencës për prodhimin e lëndëve plasëse për përdorim civil është 8-vjeçar, me të drejtë rinovimi.

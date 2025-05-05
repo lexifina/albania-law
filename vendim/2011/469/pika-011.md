@@ -1,1 +1,0 @@
-11. Komisioni i dhënies së licencave në Ministrinë e Mbrojtjes për qëllimet e përcaktuara në këtë vendim, ka të drejtë të kryejë kontrolle dhe verifikime rast pas rasti, në pikat doganore për importin e lëndëve plasëse, në depot e magazinimit dhe në linjat e prodhimit.

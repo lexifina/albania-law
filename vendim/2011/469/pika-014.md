@@ -1,1 +1,0 @@
-14. Tarifat financiare për dhënien e licencave të importimit, eksportimit dhe prodhimit të lëndëve plasëse për përdorim civil, caktohen me urdhër të përbashkët të Ministrit të Financave dhe Ministrit të Mbrojtjes.

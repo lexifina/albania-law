@@ -1,1 +1,0 @@
-4. Për dhënien e licencës së importit, të eksportit dhe të prodhimit të lëndëve plasëse për përdorim civil në Ministrinë e Mbrojtjes, krijohet komisioni i dhënies së licencave, përbërja dhe funksionimi i të cilit përcaktohen në rregulloren e miratuar nga Ministri i Mbrojtjes.
