@@ -1,0 +1,6 @@
+# Neni 1
+Objekti
+Ky vendim përcakton:
+a) funksionet, përgjegjësitë e marrëdhëniet midis autoriteteve dhe strukturave për menaxhimin e asistencës financiare të dhënë nga Bashkimi Evropian për Republikën e Shqipërisë, në bazë të marrëveshjes së financimit që lidhet me zbatimin e mbështetjes së Bashkimit Evropian për Republikën e Shqipërisë, në kuadër të facilitetit për reforma dhe rritje (Instrumenti RGF), në përputhje me Agjendën Kombëtare të Reformave 2024-2027, të miratuar me vendimin nr. 621, datë 10.10.2024, të Këshillit të Ministrave, dhe me ligjin nr. 19/2025, “Për ratifikimin e marrëveshjes së facilitetit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, dhe Bashkimit Evropian, të përfaqësuar nga Komisioni, për rregullimet specifike për zbatimin e mbështetjes së Bashkimit Evropian për Republikën e Shqipërisë, në kuadër të facilitetit për reforma dhe rritje”;
+b) autoritetet dhe strukturat e ngarkuara me koordinimin, zbatimin, menaxhimin financiar, monitorimin, vlerësimin dhe raportimin, transparencën, mbrojtjen e të dhënave dhe vizibilitetin, mbikëqyrjen, kontrollin dhe auditimin e Instrumentit RGF;
+c) mekanizmat për të garantuar zbatimin e duhur të Instrumentit RGF.

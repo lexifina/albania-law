@@ -1,0 +1,7 @@
+# Neni 11
+Komunikimi, informimi, publiciteti dhe vizibiliteti
+1. Koordinatori Kombëtar, në bashkëpunim me Komisionin Evropian, do të hartojë një plan gjithëpërfshirës për komunikimin dhe vizibilitetin.
+2. Koordinatori Kombëtar do të jetë përgjegjës për zbatimin dhe koordinimin e planit të komunikimit dhe vizibilitetit, në bashkëpunim me ministritë e linjës apo institucionet e tjera publike, që zbatojnë reformat dhe investimet e listuara në Agjendën Kombëtare të Reformave dhe, në koordinim me Agjencinë për Media dhe Informim, hartojnë planet përkatëse të komunikimit sipas masave të përcaktuara në Instrumentin RGF.
+3. Planet e veçanta të komunikimit i bëhen me dije Koordinatorit Kombëtar dhe Agjencisë për Media dhe Informim 1 (një) muaj pas miratimit të këtij vendimi. Planet e veçanta të komunikimit përditësohen në fund të çdo viti.
+4. Çdo ministri e linjës dhe institucion tjetër publik, që zbaton reformat dhe investimet e listuara në Agjendën Kombëtare të Reformave, do të caktojnë një koordinator për informimin (komunikimin), i cili do të zbatojë, do të ndjekë dhe do të raportojë mbi planin e komunikimit dhe vizibilitietit sipas masave përkatëse dhe të sigurojë informacion dhe të dhëna për komunikim publik për Zyrën Mbështetëse të Koordinatorit Kombëtar dhe Agjencinë për Media dhe Informim.
+5. Mjetet dhe resurset për komunikim në zbatim të planit të komunikimit dhe vizibilitetit mbulohen nga institucionet përgjegjëse për zbatimin e masave të instrumentit RGF.

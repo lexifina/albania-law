@@ -1,0 +1,12 @@
+# Neni 10
+Menaxhimi financiar
+1. Ministria përgjegjëse për financat do të sigurojë zbatimin e duhur të marrëveshjes së huas dhe do të kryejë detyrat e thesarit, sipas marrëveshjes së facilitetit dhe marrëveshjes së huas.
+2. Për të zbatuar funksionin e menaxhimit financiar, ministria përgjegjëse për financat:
+a) në bashkëpunim me ministritë e linjës do të sigurojë planifikimin buxhetor dhe alokimin e duhur të ndihmës financiare të BE-së brenda buxhetit kombëtar, si dhe përdorimin e rregullt të fondeve të ndihmës financiare në kuadër të Instrumentit RGF, në përputhje me nenet 6 dhe 13-16 të marrëveshjes së facilitetit dhe nenin 4 të marrëveshjes së huas për Instrumentin RGF;
+b) do të mirëmbajë dhe do të verifikojë të dhënat financiare dhe pagesat e lidhura me fondet e ndihmës financiare në kuadër të Instrumentit RGF;
+c) do të menaxhojë huamarrjen, disbursimin dhe shlyerjen e kredive në përputhje me nenin 20 të marrëveshjes së facilitetit dhe nenin 6 të marrëveshjes së huas;
+ç) menjëherë pas përcjelljes së drafteve nga menaxherët e fondeve do të lidhë marrëveshjet e kontributit dhe do të sigurojë përputhshmërinë me kushtet dhe afatet e shlyerjes. Do të ndjekë procedurat e negocimit, nënshkrimit si dhe përmbushjes së hapave deri në bërjen efektive të marrëveshjeve të kredive/granteve për financim të projekteve në kuadër të paketës financiare për “Lehtësinë e reformës dhe zgjerimit për Ballkanin Perëndimor”;
+d) do të sigurojë që kërkesat për disbursim përmbushin kushtet e kërkuara, pas konfirmimit paraprak nga SASPAC-u, në përputhje me nenin 14 të marrëveshjes së facilitetit dhe nenin 7 të marrëveshjes së huas.
+3. Ministria përgjegjëse për financat do t’i dorëzojë Koordinatorit Kombëtar kopje të marrëveshjeve të kontributit, të nënshkruara me menaxherët e fondeve dhe provën e disbursimit në Fondin e Përbashkët Evropian për Ballkanin Perëndimor, siç përcaktohet në nenin 20 të marrëveshjes së facilitetit. Koordinatori Kombëtar do t’ia përcjellë këto marrëveshje Komisionit Evropian.
+4. Ministria përgjegjëse për financat do të përgatisë, do të bashkënënshkruajë së bashku me Koordinatorin Kombëtar dhe do t’ia paraqesë Komisionit kërkesat për pagesë sipas marrëveshjes së huas.
+5. Ministria përgjegjëse për financat do të sigurojë ndërveprimin e të dhënave ndërmjet regjistrave të saj elektronikë mbi Instrumentin RGF dhe modulit REGFIS, të menaxhuar nga Agjencia Kombëtare e Shoqërisë së Informacionit, duke mundësuar shkëmbim elektronik të të dhënave dhe reduktimin e përpunimit manual dhe gabimeve të mundshme.

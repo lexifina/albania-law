@@ -1,0 +1,7 @@
+# Neni 12
+Kapacitetet administrative të strukturave dhe autoriteteve
+1. Strukturat dhe autoritetet përgjegjëse për funksionet dhe detyrat në kuadër të Instrumentit RGF duhet të sigurojnë personel të mjaftueshëm, me përvojë dhe kompetencë profesionale, për të përmbushur funksionet e këtyre strukturave në përputhje me kërkesat për zbatimin e Instrumentit RGF.
+2. Strukturat dhe autoritetet e përcaktuara në nenin 3 të këtij vendimi, do të përgatisin një analizë të ngarkesës së punës për periudhën 2025-2027 për të përcaktuar, ndër të tjera, numrin e punonjësve të nevojshëm për kryerjen e detyrave të tyre në përputhje me kërkesat për zbatimin e Instrumentit RGF. Analiza e ngarkesës së punës duhet të përditësohet çdo vit. Analiza e ngarkesës së punës dhe vendimet e brendshme për përcaktimin e kapacitetit administrativ të nevojshëm duhet t’i komunikohen Koordinatorit Kombëtar.
+3. Kapaciteti administrativ duhet të sigurohet brenda dy muajve nga hyrja në fuqi e këtij vendimi. Institucionet e përcaktuara në nenin 3 duhet të miratojnë dhe/ose të përditësojnë, sipas nevojës, përshkrimet e punës për stafin e caktuar. Përshkrimet e punës duhet të specifikojnë përqindjen e kohës së dedikuar nga secili punonjës për detyrat e lidhura me Instrumentin RGF.
+4. Strukturat përgjegjëse, të cilat ngarkohen me përmbushjen e detyrave nën masat e planit të rritjes brenda institucionit përgjegjës, do të përcaktohen me urdhra të brendshëm të titullarit të institucionit.
+5. Koordinatori Kombëtar do të sigurojë trajnime të rregullta për stafin që zbaton Instrumentin RGF.
