@@ -1,1 +1,1 @@
-4. Dhënës të informacionit për SMIP-në janë institucionet arsimore parauniversitare, zyrat vendore të arsimit parauniversitar dhe ministria përgjegjëse për arsimin.
+4. Dhënës të informacionit për SMIP-në janë institucionet arsimore parauniversitare, zyrat vendore të arsimit parauniversitar, ministria përgjegjëse për arsimin, si dhe institucionet në varësi të ministrisë përgjegjëse për arsimin, ministria përgjegjëse për arsimin dhe formimin profesional, si dhe institucionet në varësi të ministrisë përgjegjëse për arsimin dhe formimin profesional.

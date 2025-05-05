@@ -1,1 +1,1 @@
-7. Të dhënat personale të transmetuara duhet të ruhen për aq kohë sa është e nevojshme për të përmbushur qëllimin për të cilin janë grumbulluar.
+7. Të dhënat që lidhen me dokumentacionin shkollor duhet të ruhen për aq kohë sa janë përcaktuar në aktet ligjore/nënligjore në fuqi.

@@ -1,1 +1,1 @@
-6. Sistemi SMIP ndërvepron me bazën e të dhënave shtetërore të Regjistrit Kombëtar të Gjendjes Civile.
+6. Sistemi SMIP ndërvepron me bazën e të dhënave shtetërore të regjistrit kombëtar të gjendjes civile me portalin unik qeveritar “e-Albania”, me sistemin “e-Matura” dhe sistemin e provimeve të shtetit (SPSH).
