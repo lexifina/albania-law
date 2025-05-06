@@ -1,0 +1,30 @@
+{
+  "qbz_id": 30307,
+  "title": "Mbi licencimin e shoqërisë “Renew” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet prodhues 2 mw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "68",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2025-04-08",
+  "published": "2025-05-06",
+  "in_force": "2025-05-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/058e64a10b4bd6abd05371893e4151501eefa70e23add6cf92d69114096f0945.docx",
+  "source_sha256": "058e64a10b4bd6abd05371893e4151501eefa70e23add6cf92d69114096f0945",
+  "official_record": "https://qbz.gov.al/api/v1/acts/30307",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/04/08/68",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    34277,
+    33591,
+    31568
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
