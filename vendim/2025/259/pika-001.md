@@ -1,0 +1,1 @@
+1. Punonjësit të Agjencisë së Mbikëqyrjes Policore (në vijim “AMP”), të cilit, gjatë ushtrimit të funksionit ose për shkak të tij, i kërcënohet jeta, familja dhe prona nga veprime të paligjshme të të tretëve, i sigurohet mbrojtje e veçantë.

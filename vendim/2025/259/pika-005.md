@@ -1,0 +1,1 @@
+5. Mbrojtja e veçantë për punonjësin e kërcënuar të AMP-së bëhet me vendim të Komisionit për Vlerësimin e Kërcënimeve (KVK), i cili ngrihet dhe funksionon pranë Drejtorisë së Përgjithshme të Agjencisë së Mbikëqyrjes Policore.

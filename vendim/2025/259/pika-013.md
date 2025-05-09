@@ -1,0 +1,1 @@
+13. Në rastet kur punonjësi i kërcënuar i AMP-së ushtron detyrën larg vendbanimit dhe familjes së tij, masat urgjente mbrojtëse merren sipas nevojës për të dhe për familjen, në funksion të mbrojtjes e në varësi të intensitetit që ka kërcënimi.

@@ -1,0 +1,1 @@
+12. Krahas marrjes së masave mbrojtëse, Agjencia e Mbikëqyrjes Policore bashkëpunon me institucionet e tjera për marrjen në vazhdimësi të informacioneve, në funksion të parandalimit të ngjarjeve të mundshme kriminale në drejtim të punonjësit të AMP-së të marrë në mbrojtje, familjes dhe pronës së tij.
