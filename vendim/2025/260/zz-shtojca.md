@@ -1,0 +1,156 @@
+# Shtojca
+LISTA E PASURIVE QË DO TË PËRFSHIHEN NË
+“VERTIGO FREE ZONE-DURRËS INDUSTRIAL PARK” SHIJAK
+ZK
+Numri i pasurisë
+Sipërfaqja totale e pasurisë (m2)
+Sipërfaqja totale ndërtesë
+(m2)
+Pronësia
+3852
+346/9
+2400
+0
+“VERTIGO” sh.p.k.
+3852
+346/10
+2400
+0
+“VERTIGO” sh.p.k.
+3852
+346/11
+750
+0
+“VERTIGO” sh.p.k.
+3852
+346/12
+2400
+0
+“VERTIGO” sh.p.k.
+3852
+346/13
+2400
+0
+“VERTIGO” sh.p.k.
+3852
+346/14
+6720
+0
+“VERTIGO” sh.p.k.
+3852
+346/18
+2016
+0
+“VERTIGO” sh.p.k.
+3852
+346/19
+3072
+0
+“VERTIGO” sh.p.k.
+3852
+346/20
+3072
+0
+“VERTIGO” sh.p.k.
+3852
+346/21
+2016
+0
+“VERTIGO” sh.p.k.
+3852
+346/22
+4800
+0
+“VERTIGO” sh.p.k.
+3852
+346/23
+4488
+0
+“VERTIGO” sh.p.k.
+3852
+346/24
+3816
+0
+“VERTIGO” sh.p.k.
+3852
+346/25
+5904
+0
+“VERTIGO” sh.p.k.
+3852
+346/26
+4944
+0
+“VERTIGO” sh.p.k.
+3852
+346/27
+6960
+0
+“VERTIGO” sh.p.k.
+3852
+346/56
+4736
+4478
+“VERTIGO” sh.p.k.
+3852
+346/61
+12640
+2671.8
+“VERTIGO” sh.p.k.
+3852
+347/17
+7828
+0
+“VERTIGO” sh.p.k.
+3852
+347/18
+5856
+0
+“VERTIGO” sh.p.k.
+3852
+347/19
+6333
+0
+“VERTIGO” sh.p.k.
+3852
+345/54
+7883
+0
+“VERTIGO” sh.p.k.
+3852
+345/55
+293
+0
+Shteti
+3852
+345/58
+3406.5
+0
+“VERTIGO” sh.p.k.
+3852
+345/59
+3406.5
+0
+“VERTIGO” sh.p.k.
+3852
+345/60
+367
+0
+Shteti
+3852
+345/61
+11810
+0
+“VERTIGO” sh.p.k. (kontratë enfiteoze)
+3852
+345/62
+760
+0
+Shteti
+3852
+345/63
+11738
+0
+“VERTIGO” sh.p.k. (kontratë enfiteoze)
+135,215
+7,149.8
