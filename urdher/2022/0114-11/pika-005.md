@@ -1,1 +1,1 @@
-5. Ky plan menaxhimi është i zbatueshëm për 7 (shtatë) vijet nga data e miratimit të tij.
+5. Ky plan menaxhimi është i zbatueshëm deri më 31 dhjetor 2029.
