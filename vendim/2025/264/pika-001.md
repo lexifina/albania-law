@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi te Fondi Shqiptar i Zhvillimit të pasurive me nr. 15/451, nr. 15/209, nr. 15/445, nr. 15/447 dhe nr. 18/451, në zonën kadastrale 8642, Sarandë, sipas formularit dhe plan-rilevimit, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, me qëllim realizimin e projektit “Poli i zhvillimit turistik në Sarandë”.
