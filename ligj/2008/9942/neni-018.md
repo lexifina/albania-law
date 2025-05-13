@@ -7,5 +7,5 @@ c) 200 mijë lekë, shoqëruar me bllokimin e mallit, për shkeljen e parashikua
 ç) për shkeljet e parashikuara në pikën 4 të nenit 17 të këtij ligji:
 i) 500 mijë lekë, shoqëruar me bllokimin e mallit, kur kemi mospërputhje me treguesit cilësorë;
 ii) 200 mijë lekë, shoqëruar me bllokim dhe riambalazhim të mallit, në përputhje me ligjin, kur shkeljet lidhen me ambalazhimin, etiketimin, transportin dhe ruajtjen.
-1/1 Masa e gjobës është dënim kryesor, kur parashikohet si dënim më vete dhe dënim plotësues, kur jepet njëkohësisht me masën e bllokimit të mallit.
-2. Autoriteti përgjegjës për vënien dhe ekzekutimin e gjobave është struktura përgjegjëse për inspektimin në fushën e shëndetit.
+1/1. Masa e gjobës është dënim kryesor, kur parashikohet si dënim më vete dhe dënim plotësues, kur jepet njëkohësisht me masën e bllokimit të mallit.
+2. Autoriteti përgjegjës për vënien dhe ekzekutimin e gjobave është struktura përgjegjëse për inspektimin në shëndetësi.

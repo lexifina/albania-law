@@ -1,2 +1,2 @@
 # Neni 10
-Kompetencat dhe detyrat e Kryeinspektorit të Inspektoratit Shtetëror që mbulon fushën e punës
+Kompetencat dhe detyrat e Kryeinspektorit të strukturës përgjegjëse për inspektimin e punës

@@ -1,7 +1,7 @@
 # Neni 2
 Përkufizime
 Në këtë ligj termat e mëposhtëm kanë këto kuptime:
-1. “Inspektorat” është inspektorati shtetëror që mbulon fushën e punës, organizimi dhe funksionimi i të cilit përcaktohen me vendim të Këshillit të Ministrave, në përputhje me ligjin nr. 10 433, datë 16.6.2011, “Për inspektimin në Republikën e Shqipërisë”.
+1. “Inspektorat” është struktura përgjegjëse për inspektimin e punës, organizimi dhe funksionimi i të cilit përcaktohen me vendim të Këshillit të Ministrave, në përputhje me ligjin nr. 10 433, datë 16.6.2011, “Për inspektimin në Republikën e Shqipërisë”.
 2. “Inspektim në punë” është çdo formë kontrolli për verifikimin e respektimit të kërkesave ligjore, sipas legjislacionit të punës, i bërë nga inspektorati, në përputhje me këtë ligj dhe me ligjin për inspektimin.
 3. “Legjislacion i punës” janë:
 a) konventat e ratifikuara nga Kuvendi i Republikës së Shqipërisë;
@@ -14,7 +14,7 @@ e) i gjithë legjislacioni që ngarkon Inspektoratin e Punës për sigurimin e z
 ë) aktet nënligjore në zbatim të shkronjave “b”, “c”, “ç”, “d” dhe “dh”, të pikës 3, të këtij neni.”.
 4. “Ministër” është ministri, i cili mbulon çështjet që kanë të bëjnë me legjislacionin e punës.
 5. “Person fizik”, “Person juridik” apo “Subjekt” është çdo person fizik apo juridik, sipas përcaktimit të bërë në Kodin Civil.
-6. “Inspektor pune” është inspektori i inspektoratit shtetëror që mbulon fushën e punës.
+6. “Inspektor pune” është trupa inspektuese e strukturës përgjegjëse për inspektimin e punës.
 7. “Mirëqenie në punë” janë të gjitha lehtësitë sociale që duhet t’u krijojë punëdhënësi punëmarrësve, si: shërbimi i ushqimit, shërbimi i shëndetit në punë, shërbimi i kohës së lirë, shërbimi i transportit të punëmarrësve, si dhe shërbimi i personelit.
 8. “Kushte pune” janë elementet që lidhen me mjedisin, në të cilin një punëmarrës ushtron veprimtarinë e vet, si dhe elementet sociale e administrative, të tilla si pagat, kohëzgjatja e punës, puna e natës, pushimi javor dhe ai vjetor.
 9. “Degë e veprimtarisë ekonomike” është çdo degë, ku punësohet punëmarrësi, përfshirë dhe shërbimin publik.

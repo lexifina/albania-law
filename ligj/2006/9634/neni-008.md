@@ -1,2 +1,2 @@
 # Neni 8
-Organizimi dhe drejtimi i Inspektoratit shtetëror që mbulon fushën e punës
+Organizimi dhe drejtimi i strukturës përgjegjëse për inspektimin e punës

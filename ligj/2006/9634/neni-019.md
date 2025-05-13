@@ -1,2 +1,2 @@
 # Neni 19
-Inspektori i punës duhet të respektojë Kodin e Etikës për punonjësit e inspektorateve shtetërore në Republikën e Shqipërisë.
+Trupa inspektuese e punës duhet të respektojë Kodin e Etikës për punonjësit e inspektorateve shtetërore në Republikën e Shqipërisë.
