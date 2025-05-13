@@ -1,3 +1,3 @@
 # Miratimi dhe shpallja
 Miratuar në datën 16.10.2014
-Shpallur me dekretin nr. 8770, datë 4.11.2014 të Presidentit të Republikës së Shqipërisë, Bujar Nishani
+Shpallur me dekretin nr. 8770, datë 4.11.2014 të Presidentit të Republikës së Shqipërisë,
