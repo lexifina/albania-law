@@ -1,0 +1,7 @@
+# Neni 14
+Inventarizimi dhe rilevimet floristike
+1. Fondi i BMET-ve, që rriten në pyje e kullota, inventarizohen sipas llojeve dhe për to kryhen rilevimet floristike. Për sipërfaqet pyjore e kullosore shtetërore, inventarizimi dhe rilevimet bëhen nga drejtoritë e shërbimit pyjor, për pyjet e kullotat komunale bëhen nga njësitë tekniko-organizative, që funksionojnë në qeverisjet vendore, ndërsa në pyjet e kullotat private, nga pronari privat.
+2. Inventarizimi bëhet çdo 5 vjet dhe rezultatet e tij pasqyrohen në regjistrat, që administrohen nga drejtoritë vendore të shërbimit pyjor e në regjistrin kombëtar të BMET-ve, që administrohet nga drejtoria përkatëse në ministri, formati i të cilëve miratohet nga ministri.
+3. Regjistrat e fondit të BMET-ve krijojnë bazën e të dhënave për bimët, në shkallë vendi, qarku, rrethi, komune dhe për çdo ekonomi pyjore e kullosore.
+4. Ngarkohen strukturat e shërbimit pyjor, organet përkatëse të qeverisjes vendore dhe pronarët e pyjeve e kullotave private që, brenda 3 vjetëve nga hyrja në fuqi e këtij ligji, të përfundojnë inventarizimin e BMET-ve në pyjet e kullotat që kanë në zotërim, në përputhje me rregullat e procedurat e inventarizimit, të cilat miratohen me udhëzim të ministrit.
+5. Rezultatet e inventarizimit, në shkallë vendi, përpunohen dhe publikohen nga Agjencia e Mjedisit dhe Pyjeve, si dhe trajtohen si zë i veçantë në raportin e gjendjes së mjedisit.

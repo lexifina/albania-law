@@ -1,0 +1,5 @@
+# Neni 42
+Dokumentimi dhe vendosja e masës administrative
+1. Procesi i inspektimit, konstatimit të shkeljes, pasqyrimit të saj dhe dënimit bëhet në përputhje me ligjin “Për inspektimin në Republikën e Shqipërisë”.
+2. Të drejtën e vendosjes së gjobës për kundërvajtjet administrative, të parashikuara në këtë ligj, e ka struktura përgjegjëse për inspektimin në fondin e mbrojtjeve të bimëve, struktura përgjegjëse, inspektorati që mbulon fushën e mbrojtjes së mjedisit dhe inspektorët e organeve vendore për sipërfaqet pyjore e kullosore që ato kanë në pronësi apo në përdorim.
+3. Në rastet kur bëhen kontrolle nga më shumë se një inspektorat apo edhe nga struktura përgjegjëse e pushtetit vendor, masa administrative, në zbatim të këtij ligji, jepet nga inspektorati, i cili fillon i pari procesin e inspektimit. Në qoftë se procesi fillon njëkohësisht, në të njëjtën datë, nga më shumë se një inspektorat, apo edhe nga inspektorët e organeve vendore, procesi i vënies së gjobës realizohet nga inspektorati që mbulon fushën e mbrojtjes së mjedisit.
