@@ -1,0 +1,3 @@
+# Neni 5
+Komisioni i Mbrojtjes nga Rrezatimet
+Komisioni i Mbrojtjes nga Rrezatimet është autoriteti përgjegjës kombëtar rregullator, që mbikëqyr dhe siguron zbatimin e dispozitave të këtij ligji e të akteve të tjera ligjore e nënligjore në fushën e mbrojtjes nga rrezatimet jojonizuese, i cili është ngritur dhe funksionon sipas parashikimeve të ligjit nr. 8025, datë 9.11.1995 “Për mbrojtjen nga rrezatimet jonizuese”, të ndryshuar. Komisioni i Mbrojtjes nga Rrezatimet përcakton masat e nevojshme për të siguruar në çdo rast që ekspozimet e çdo instalimi ose pajisjeje që emeton rrezatim jojonizues të jenë në përputhje me normat e miratuara nga rregulloret përkatëse.
