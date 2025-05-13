@@ -1,0 +1,6 @@
+# Neni 33
+Masat që merren nga punëdhënësi për gratë shtatzëna dhe gratë me fëmijë në gji
+l. Kur ekspozimi ndaj agjentëve të rrezikshëm, proceseve apo kushteve të punës përbën një rrezik për sigurinë dhe shëndetin, apo ka efekt mbi shtatzaninë dhe ushqimin e fëmijës me gji, punëdhënësi duhet të marrë masa për shmangien e rrezikut, ose t’i përshtasë vendin e punës punëmarrësit në përputhje me shkronjat “a” dhe “ë” të pikës 3 të nenit 6 të këtij ligji.
+2. Nëse masat e parashikuara në pikën 1 të këtij neni nuk mund të zbatohen për arsye teknike dhe/ose objektive, punëdhënësi duhet të përshtatë përkohësisht kushtet e punës dhe/ose oraret e punës për punëmarrësen, derisa të eliminohet ekspozimi ndaj atyre rreziqeve.
+3. Nëse për shkaqe teknike dhe/ose objektive nuk mund të ndërmerren masat e parashikuara në pikën 2 të këtij neni, ose nuk mund të kërkohet zbatimi i tyre mbi baza të justifikuara dhe të vërtetuara, punëdhënësi duhet të sigurojë lëvizjen e punëmarrëses në një punë tjetër, njëlloj të vlerësueshme.
+4. Nëse punëdhënësi, për shkaqe teknike dhe/ose objektive, nuk mund të marrë masat e parashikuara në pikën 3 të këtij neni, ose nuk mund të kërkohet zbatimi i tyre mbi baza të justifikuara dhe të vërtetuara, ai duhet të japë pushim të paguar punëmarrëses grua derisa të shmanget rreziku.
