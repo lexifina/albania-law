@@ -7,6 +7,6 @@ sekuestrimi i pajisjeve të institucionit;
 heqja e të drejtës së ushtrimit të profesionit;
 kallëzim penal.
 3. Masa e gjobës është dënim kryesor kur parashikohet si dënim më vete dhe dënim plotësues kur jepet njëkohësisht me masat e parashikuara në pikën 2.
-4. Inspektimi për verifikimin e respektimit të kërkesave ligjore që burojnë nga ky ligj kryhet nga inspektorati që mbulon fushën e shëndetit, në përputhje me këtë ligj dhe ligjin nr. 10 433, datë 16.6.2011 “Për inspektimin në Republikën e Shqipërisë”.
+4. Inspektimi për verifikimin e respektimit të kërkesave ligjore që burojnë nga ky ligj kryhet nga inspektorati që mbulon fushën e shëndetit, në përputhje me këtë ligj dhe ligjin “Për inspektimin në Republikën e Shqipërisë”.
 5. Ankimi ndaj vendimit të inspektoratit bëhet në përputhje me ligjin për inspektimin.
 6. Ekzekutimi i vendimeve bëhet sipas legjislacionit në fuqi për kundërvajtjet administrative.

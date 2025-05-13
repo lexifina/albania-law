@@ -1,6 +1,6 @@
 # Neni 30
 Kundërvajtjet administrative
-Shkeljet e mëposhtme, kur nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative dhe dënohen nga inspektorët e pajisjeve mjekësore si më poshtë:
+Shkeljet e mëposhtme, kur nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative dhe dënohen nga inspektorët e pajisjeve mjekësore të strukturës përgjegjëse për inspektimin në shëndetësi, si më poshtë:
 a) Shkelja e nenit 13, të këtij ligji, për regjistrimin e pajisjeve mjekësore në regjistrin kombëtar të pajisjeve mjekësore dënohet me gjobë në masën 300 000 (treqind mijë) lekë.
 b) Ofrimi i të dhënave të pasakta në kërkesën për regjistrim dhe mosnjoftimi në kohë për ndryshimet e aplikuara në dokumentacionin, mbi bazën e të cilit është bërë regjistrimi, dënohen me gjobë 100 000 (njëqind mijë) lekë.
 c) Shkelja e nenit 18, pika 3, afishimi i mbishkrimeve, të cilat ka të ngjarë të çorientojnë palët e treta, në lidhje me kuptimin ose grafikën e shenjës së konformitetit, dënohet me gjobë 50 000 (pesëdhjetë mijë) lekë.
@@ -16,4 +16,4 @@ h) Shkelja e pikës 2, të nenit 24, për dhënien e informacionit të nevojshë
 i) Shkelja e nenit 25, regjistrimi, vendosja në treg dhe përdorimi i pajisjeve mjekësore të përdorura në kundërshtim me parashikimet e këtij ligji, dënohet me gjobë 300 000 (treqind mijë) lekë.
 j) Shkelja e nenit 27/1, moszbatimi i kërkesave të autoritetit kompetent në lidhje me procedurën për pajisjet që paraqesin rrezik për shëndetin ose sigurinë e pacientëve, dënohet me gjobë 1 000 000 (një milion) lekë.
 k) Tregtimi me pakicë i pajisjeve të paregjistruara dënohet me gjobë 200 000 (dyqind mijë) lekë.
-Në rast të përsëritjes së shkeljes më shumë se një herë brenda dy viteve, ministri përgjegjës për shëndetësinë, me propozimin e Agjencisë Kombëtare të Barnave dhe Pajisjeve Mjekësore, revokon licencën/at, sipas parashikimeve të këtij ligji.
+Në rast të përsëritjes së shkeljes më shumë se një herë brenda dy viteve, ministri përgjegjës për shëndetësinë, me propozimin e strukturës përgjegjëse për inspektimin në shëndetësi, revokon licencën/at, sipas parashikimeve të këtij ligji.

@@ -1,5 +1,6 @@
 # Neni 15
 Përgjegjësitë e institucioneve qendrore për pyjet
+(Hequr togfjalësh në shkronjën “ë” të pikës 2 dhe në pikën 3 me ligjin nr. 99/2024, datë 12.9.2024)
 1. Ministria, në përmbushje të rolit të saj, nëpërmjet strukturave përgjegjëse për pyjet në ministri ka këto përgjegjësi:
 a) përcakton drejtimet e politikave për pyjet, duke garantuar harmonizimin me prioritetet kombëtare dhe politikat e tjera sektoriale;
 b) harton dhe monitoron zbatimin e programeve dhe të dokumenteve strategjike për zhvillimin, ruajtjen dhe administrimin e fondit pyjor kombëtar;
@@ -15,6 +16,6 @@ c) propozimin te ministri për vendosjen e normave, standardeve, çmimeve bazë 
 d) garantimin e koordinimit, të bashkëveprimit dhe të angazhimit të strukturave përgjegjëse për pyjet, në nivel qendror dhe vendor, si dhe të aktorëve të tjerë (OJF, biznese, komunitete etj.), duke konsideruar edhe respektimin e barazisë gjinore;
 dh) ngritjen dhe funksionimin e sistemit të integruar të informacionit për pyjet në nivel kombëtar, si dhe harmonizimin e kërkimit shkencor në fushën e pyjeve;
 e) mbikëqyrjen e zbatimit të kërkesave ligjore dhe të dokumenteve planifikuese në pyje, si dhe këshillimin e ndërgjegjësimin e aktorëve në lidhje me detyrimet për pyjet;
-ë) garantimin e funksionalitetit të sistemit të kontrollit dhe të inspektimit të veprimtarive që zhvillohen në fondin pyjor kombëtar, duke ndërhyrë sipas përcaktimeve në këtë ligj.
+ë) garantimin e funksionalitetit të sistemit të kontrollit dhe të veprimtarive që zhvillohen në fondin pyjor kombëtar, duke ndërhyrë sipas përcaktimeve në këtë ligj.
 Rregullat për organizimin dhe funksionimin e agjencisë përcaktohen me vendim të Këshillit të Ministrave, me propozimin e ministrit.
-3. Agjencia përgjegjëse për zonat e mbrojtura garanton menaxhimin e qëndrueshëm, ruajtjen, rigjenerimin, përdorimin e fondit pyjor kombëtar nën administrim, kontrollin dhe inspektimin e tij, si dhe ushtron përgjegjësitë në përputhje me dispozitat e këtij ligji dhe legjislacionin e posaçëm për zonat e mbrojtura.
+3. Agjencia përgjegjëse për zonat e mbrojtura garanton menaxhimin e qëndrueshëm, ruajtjen, rigjenerimin, përdorimin e fondit pyjor kombëtar nën administrim, si dhe ushtron përgjegjësitë në përputhje me dispozitat e këtij ligji dhe legjislacionin e posaçëm për zonat e mbrojtura.

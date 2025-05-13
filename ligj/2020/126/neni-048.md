@@ -1,6 +1,6 @@
 # Neni 48
 Detyrat e inspektorit
-1. Gjatë inspektimit metrologjik, një inspektor kontrollon:
+1. Gjatë inspektimit metrologjik, një trupë inspektuese kontrollon:
 a) përdorimin e njësive ligjore të matjeve;
 b) konformitetin dhe përdorimin e instrumenteve matëse ligjërisht të kontrolluara;
 c) konformitetin e parapaketimeve dhe të shisheve enë matëse me masat e këtij ligji dhe me aktet nënligjore në zbatim të tij;

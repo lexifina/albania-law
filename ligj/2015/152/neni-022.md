@@ -1,14 +1,14 @@
 # Neni 22
 Gradat
-1. Gradat, për punonjësit operacionalë, inspektues e drejtues në shërbimin e MZSH-së, sipas rendit hierarkik rritës, emërtohen, si më poshtë:
+1. Gradat, për punonjësit operacionalë, parandalues e drejtues në shërbimin e MZSH-së, sipas rendit hierarkik rritës, emërtohen, si më poshtë:
 Niveli bazë:
 a) “Asistent zjarrfikës”;
 b) “Zjarrfikës”;
 c) “Kryezjarrfikës”.
 Niveli mesëm:
-a) “Inspektor zjarrfikës”;
-b) “Kryeinspektor zjarrfikës”;
-c) “Komisar zjarrfikës”.
+a) “Nënkomisar zjarrfikës”;
+b) “Komisar zjarrfikës”;
+c) “Kryekomisar zjarrfikës”.
 Niveli lartë:
 a) “Drejtues zjarrfikës”;
 b) “Drejtues i parë zjarrfikës”.

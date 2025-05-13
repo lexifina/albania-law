@@ -3,7 +3,7 @@ Përkufizime
 Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 1. “Bërje e disponueshme e produktit në treg” ka të njëjtin kuptim sikurse përcaktohet në legjislacionin në fuqi që rregullon tregtimin dhe mbikëqyrjen e tregut të produkteve joushqimore.
 2. “Burime të tjera kryesore” janë uji, kimikatet ose çdo substancë tjetër e konsumuar nga një produkt në përdorim normal.
-3. “Dokumentacion teknik” është dokumentacioni i mjaftueshëm për t’u mundësuar autoriteteve të mbikëqyrjes së tregut të vlerësojnë saktësinë e etiketës dhe të skedës së informacionit të një produkti, duke përfshirë raportet e testimit ose dëshmi të ngjashme teknike.
+3. “Dokumentacion teknik” është dokumentacioni i mjaftueshëm për t’u mundësuar strukturës përgjegjëse për inspektimin për mbikëqyrjen e tregut të vlerësojnë saktësinë e etiketës dhe të skedës së informacionit të një produkti, duke përfshirë raportet e testimit ose dëshmi të ngjashme teknike.
 4. “Eficienca e energjisë” ka të njëjtin kuptim sikurse përcaktohet në legjislacionin në fuqi që rregullon eficiencën e energjisë.
 5. “Etiketë e rishkallëzuar” është një etiketë për një grup produktesh të caktuar, që ka pësuar rishkallëzim dhe është i dallueshëm nga etiketat përpara rishkallëzimit, duke ruajtur një gjurmueshmëri të dukshme të të gjitha etiketave.
 6. “Etiketë” është një diagram grafik, qoftë në formë të shtypur ose elektronike, duke përfshirë një shkallë të mbyllur, duke përdorur vetëm shkronjat nga “A” në “G”, çdo shkronjë që përfaqëson një klasë dhe çdo klasë që korrespondon me kursimet e energjisë, në shtatë ngjyra të ndryshme nga jeshile e errët në të kuqe, për të informuar klientët për eficiencën e energjisë dhe konsumin e energjisë; ai përfshin etiketat e rishkallëzuara dhe etiketat me më pak klasa dhe ngjyra, sikurse specifikohet në aktet nënligjore respektive.
@@ -28,9 +28,9 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 25. “Sistem” është një kombinim i disa mallrave, të cilat, kur bashkohen, kryejnë një funksion specifik në një mjedis të caktuar dhe eficienca energjetike e të cilit mund të përcaktohet më pas si një njësi e vetme.
 26. “Skedë informative” është një tabelë standarde e informacionit në lidhje me një produkt, në formë të shtypur ose elektronike.
 27. “Standard i harmonizuar” janë standardet evropiane, sikurse janë adoptuar dhe janë për t’u aplikuar sipas legjislacionit të harmonizuar të Bashkimit Evropian.
-28. “Struktura përgjegjëse për mbikëqyrjen e tregut” është Inspektorati Shtetëror për Mbikëqyrjen e Tregut (ISHMT) të produkteve të destinuara për konsumatorët.
+28. “Struktura përgjegjëse për inspektimin për mbikëqyrjen e tregut” është struktura për mbikëqyrjen e produkteve të destinuara për konsumatorët.
 29. “Shitje në distancë” është oferta për shitje ose marrje me qira nëpërmjet porosive me postë, katalog, internet, telemarketing ose me ndonjë metodë tjetër me të cilën klienti potencial nuk mund të pritet të shohë në mënyrë të drejtpërdrejtë produktin që kërkon të blejë.
-30. “Tolerancë verifikimi” është devijimi maksimal i pranueshëm i rezultateve të matjes dhe llogaritjes së testeve të verifikimit të kryera nga ose në emër të autoriteteve të mbikëqyrjes së tregut, krahasuar me vlerat e parametrave të deklaruara ose të publikuara, duke reflektuar devijimin që rrjedh nga laboratori.
+30. “Tolerancë verifikimi” është devijimi maksimal i pranueshëm i rezultateve të matjes dhe llogaritjes së testeve të verifikimit të kryera nga ose në emër të strukturës përgjegjëse për inspektimin për mbikëqyrjen e tregut, krahasuar me vlerat e parametrave të deklaruara ose të publikuara, duke reflektuar devijimin që rrjedh nga laboratori.
 31. “Tregtar” është shitësi me pakicë ose çdo person tjetër, i cili shet, jep me qira, ofron shitje me këste apo ekspozon produkte për përdoruesit fundorë.
 32. “Vendosje në treg” ka të njëjtin kuptim, sikurse përcaktohet në legjislacionin në fuqi, që rregullon tregtimin dhe mbikëqyrjen e tregut të produkteve joushqimore.
 33. “Vënie në shërbim” është përdorimi për herë të parë i produktit, sipas qëllimit të tij të parashikuar.

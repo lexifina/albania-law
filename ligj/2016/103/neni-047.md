@@ -44,6 +44,6 @@ ii) nga 200 mijë deri në 250 mijë lekë, nëse aktiviteti është akuakultur�
 iii) nga 300 mijë deri në 400 mijë lekë, nëse aktiviteti është akuakulturë gjysmëintensive;
 iv) nga 1 000 000 deri në 10 000 000 lekë, nëse aktiviteti është akuakulturë intensive;
 gj) mosdorëzimi i të dhënave të sakta ose dhënia e të dhënave jo të vërteta apo të falsifikuara, sikurse përcaktohet në nenin 36, të këtij ligji, ose i akteve nënligjore të dala në zbatim të tij, dënohet me gjobë nga 10 mijë deri në 50 mijë lekë.
-2. Të drejtën e gjobës për kundërvajtjet administrative, të parashikuara në këtë nen, e ka Inspektorati i Peshkimit.
+2. Marrja e masave administrative për kundërvajtjet administrative bëhet sipas ligjit për inspektimin nga struktura përgjegjëse për inspektimin e peshkimit dhe akuakulturës.
 3. Procedurat e ekzekutimit të gjobave bëhen në përputhje me ligjin nr. 10 279, datë 20.5.2010, “Për kundërvajtjet administrative”.
 4. Të ardhurat nga gjobat për kundërvajtjet administrative derdhen 100 për qind në Buxhetin e Shtetit.

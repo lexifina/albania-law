@@ -9,7 +9,7 @@ c) raportet e testeve dhe, sipas rastit, edhe ato të kryera nga organizma evrop
 ç) kur vlerat janë përdorur për modele të ngjashme, referimet për identifikimin e këtyre modeleve.
 Për këtë qëllim, furnizuesi mund të përdorë dokumentacionin teknik, të përgatitur në përputhje me kërkesat e përcaktuara në rregullat teknike përkatëse.
 4. Pasi njësia e fundit e një modeli të jetë hedhur në treg, furnizuesi ruan informacionin në lidhje me atë model për një periudhë 15-vjeçare. Aty ku është e përshtatshme, në lidhje me jetëgjatësinë mesatare të një produkti, një periudhë më e shkurtër ruajtjeje mund të parashikohet nga aktet nënligjore përkatëse.
-5. Furnizuesit vënë në dispozicion të strukturës përgjegjëse të mbikëqyrjes së tregut dokumentacionin teknik, në formë elektronike ose fizike, brenda 10 ditëve pune, pas marrjes së kërkesës nga kjo strukturë.
+5. Furnizuesit vënë në dispozicion të strukturës përgjegjëse për inspektimin për mbikëqyrjen e tregut dokumentacionin teknik, në formë elektronike ose fizike, brenda 10 ditëve pune, pas marrjes së kërkesës nga kjo strukturë.
 6. Furnizuesit sigurojnë falas etiketat e nevojshme dhe informacionin për produktin, sipas kërkesës së tregtarëve.
 7. Pavarësisht sistemit të zgjedhur nga furnizuesi për shpërndarjen e etiketave, furnizuesi i shpërndan menjëherë etiketat dhe në çdo rast brenda pesë ditëve pune me kërkesë të tregtarëve.
 8. Përveç etiketave, furnizuesi siguron dhe skedën informative të produktit.

@@ -1,8 +1,9 @@
 # Neni 35
 Institucionet përgjegjëse kontrolluese
+(Hequr togfjalësh në shkronjën “b” të pikës 1 me ligjin nr. 99/2024, datë 12.9.2024)
 1. Agjencia, në kuadër të sigurimit të performancës në sektorin e pyjeve, si dhe vlerësimit të gjendjes së pyjeve dhe impaktit të sektorit, kryen:
 a) monitorimin e treguesve kyç dhe nivelit të realizimit të politikave, programeve dhe planeve në nivel kombëtar nga strukturat përgjegjëse në bashki për pyjet;
-b) mbikëqyrjen e zbatimit të akteve ligjore/nënligjore, akteve administrative, politikave, programeve dhe planeve në nivel kombëtar nga strukturat e kontrollit të pyjeve në bashki dhe në zonat e mbrojtura, si dhe ndërhyn në mënyrë të drejtpërdrejtë dhe të pakufizuar në rastet kur vëren pamundësinë ose mosushtrimin e kompetencave ligjore nga ana e tyre.
+b) mbikëqyrjen e zbatimit të akteve ligjore/nënligjore, akteve administrative, politikave, programeve dhe planeve në nivel kombëtar nga strukturat e kontrollit të pyjeve në bashki, si dhe ndërhyn në mënyrë të drejtpërdrejtë dhe të pakufizuar në rastet kur vëren pamundësinë ose mosushtrimin e kompetencave ligjore nga ana e tyre.
 2. Strukturat përgjegjëse kontrolluese/inspektuese në bashki dhe në zonat e mbrojtura:
 a) kontrollojnë përmbushjen e detyrimeve ligjore, kontraktuale, si dhe përcaktimet në planet e mbarështimit, operacionale dhe të shfrytëzimit (përfshirë planet e rehabilitimit), nga ana e subjekteve (persona juridikë dhe fizikë), që kryejnë veprimtari në pyje;
 b) parandalojnë, zbulojnë dhe marrin masa administrative në rastet e dëmtimit, të pushtimit, shpërdorimit, tjetërsimit, shkretimit dhe degradimit të pyjeve brenda territorit të tyre, si dhe bashkëpunojnë me strukturat e ngarkuara me ligj për parandalimin dhe shuarjen e zjarreve;

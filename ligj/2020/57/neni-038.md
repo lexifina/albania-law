@@ -1,10 +1,7 @@
 # Neni 38
 Procedimi në fondin pyjor
-1. Të drejtën e procedimit administrativ për zbatimin e këtij ligji e kanë strukturat përgjegjëse për pyjet, sipas këtij ligji, nëpërmjet inspektorëve përkatës të tyre, të cilët, kur evidentojnë shkelje:
-a) mbajnë procesverbal në momentin e konstatimit të kundërvajtjes, që nënshkruhet nga hartuesi i tij, dëshmitarët, nëse ka të tillë, dhe kundërvajtësi. Procesverbali është i vlefshëm edhe vetëm me nënshkrimin e hartuesit, sipas kompetencës territoriale;
-b) dokumentojnë shkeljet me të gjitha mjetet e mundshme, foto, regjistrime zanore e video;
-c) ndjekin procedurat e mëtejshme për dënimin e kundërvajtësit sipas ligjit dhe detyrimin për shpërblimin e dëmit deri në ekzekutimin e tyre.
-2. Inspektorët e pyjeve kanë të gjitha të drejtat për të hyrë, kontrolluar, realizuar procesin e inspektimit dhe për të marrë masat përkatëse të procedimit, si dhe të bllokimit apo të sekuestrimit në rastet e shkeljeve.
+1. Të drejtën e inspektimit për zbatimin e këtij ligji e kanë strukturat përgjegjëse për inspektimin e pyjeve, sipas ligjit të inspektimit dhe këtij ligji, nëpërmjet inspektorëve përkatës të tyre, të cilët, kur konstatojnë shkelje, marrin masat përkatëse në bazë të ligjit për inspektimin.
+2. Inspektorët e pyjeve kanë të gjitha të drejtat për të hyrë, kontrolluar, realizuar procesin e inspektimit dhe për të marrë masat përkatëse të procedimit, si dhe të bllokimit apo të sekuestrimit në rastet e shkeljeve në përputhje me ligjin për inspektimin.
 3. Masa e gjobës përcaktohet, në çdo rast, në përpjesëtim të drejtë me rëndësinë dhe natyrën e kundërvajtjes së konstatuar dhe pasojat e ardhura, me rrethanat, përgjegjësinë dhe pjesëmarrjen në vendimmarrje të zyrtarit ose të kundërvajtësit dhe me faktin nëse kundërvajtësi është përsëritës apo jo.
 4. Në rast përsëritjeje të kundërvajtjes, kundërvajtësi dënohet me dyfishin e vlerës së gjobës.
 5. Në përputhje me rastet dhe nevojat, krahas dënimit kryesor me gjobë, merren edhe masa urgjente sipas ligjit përkatës për kundërvajtjet administrative dhe për inspektimin.
