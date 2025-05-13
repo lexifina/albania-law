@@ -1,5 +1,5 @@
 # Neni 61
-(shtohen pika 3, 4, 5 me Ligjin nr. 27/2024, datë 4.4.2024)
+(shtohen pika 3, 4, 5 me ligjin nr. 27/2024, datë 4.4.2024)
 1. Dokumentet e publikuara një herë janë lirisht të shfrytëzueshme.
 2. Dokumentet që administrohen në institucionet arkivore shtetërore, jepen për shfrytëzim pasi kanë kaluar 25 vjet nga data e krijimit.
 3. Dokumentet, që ruhen në bazat e të dhënave shtetërore apo në sistemet e të dhënave shtetërore, shfrytëzohen në përputhje me rregullat e këtij ligji.

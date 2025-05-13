@@ -9,5 +9,5 @@ d) pengimi i punonjësve të autorizuar nga Drejtoria e Përgjithshme e Arkivave
 3. Personat fizikë e juridikë privatë i nënshtrohen gjobës nga 100 mijë deri në 300 mijë lekë kur kanë kryer shkeljet e përmendura në shkronjat “a”, “ç”, “d” të pikës 1 dhe pikën 2 të këtij neni.
 4. Gjoba vendoset nga punonjësi i autorizuar nga Drejtoria e Përgjithshme e Arkivave.
 5. Për botimin e burimeve arkivore në kundërshtim me dispozitat e këtij ligji, mbajnë përgjegjësi edhe kërkuesit. Kërkuesi që shkel në mënyrë të përsëritur rregulloren e shfrytëzimit të dokumenteve arkivore, ose dëmton vetë dokumentet, mund të përjashtohet për një periudhë deri 1-vjeçare nga e drejta e shërbimit arkivor.
-6. Kundër vendimit të dënimit me gjobë ose të përjashtimit, personat që kanë kryer shkeljet mund të bëjnë ankim në gjykatë brenda 30 ditëve nga data e shpalljes së vendimit.
+6. Kundër vendimit për dënimin administrativ, personat që kanë kryer shkelje mund të bëjnë ankim sipas ligjit për inspektimin.
 7. Asgjësimi i dokumenteve, në kundërshtim me kërkesat e këtij ligji, vjedhja, si dhe humbja e dokumenteve të shpallura të një rëndësie të veçantë, kur shkelja përbën vepër penale, dënohet sipas Kodit Penal.

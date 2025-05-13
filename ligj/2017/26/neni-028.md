@@ -9,6 +9,6 @@ d) vendosja në treg e produkteve kozmetike, që përmbajnë substanca të ndalu
 dh) mosrespektimi i kërkesave të pikës 1, të nenit 22, të këtij ligji, lidhur me efektet e padëshirueshme serioze të produktit kozmetik nga personi përgjegjës dënohet me 100 000 (njëqind mijë) lekë gjobë;
 e) shkelja e pikës 3, të nenit 26, të këtij ligji, dënohet me 500 000 (pesëqind mijë) lekë gjobë;
 ë) aplikimi i produkteve kozmetike nga subjekte mjekësore pa profesionistë shëndetësorë të kualifikuar dënohet me 500 000 (pesëqind mijë) lekë gjobë.
-2. Autoriteti përgjegjës për vendosjen e masave të përcaktuara në këtë nen është inspektorati përgjegjës për fushën e shëndetësisë.
+2. Autoriteti përgjegjës për vendosjen e masave të përcaktuara në këtë nen është struktura përgjegjëse për inspektimin në shëndetësi.
 3. Shqyrtimi, marrja e vendimit përfundimtar dhe ankimi ndaj vendimit të marrë, sipas këtij neni, bëhen në përputhje me ligjin për inspektimin.
 4. Ekzekutimi i dënimeve me gjobë, sipas këtij ligji, bëhet në përputhje me legjislacionin në fuqi për kundërvajtjet administrative.

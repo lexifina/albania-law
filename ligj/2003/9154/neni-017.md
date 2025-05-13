@@ -1,5 +1,5 @@
 # Neni 17
-(hequr togfjalëshi në fjalinë hyrëse; ndryshohen shkronjat “b”, “c”, “ç” dhe “d” dhe termi në shkronjën dh); shtohet shkronja e) me Ligjin Ligjin nr. 27/2024, datë 4.4.2024)
+(hequr togfjalëshi në fjalinë hyrëse, ndryshuar shkronjat “b”, “c”, “ç” dhe “d” dhe termi në shkronjën “dh”; shtohet shkronja “e” me ligjin nr. 27/2024, datë 4.4.2024)
 Arkivi Qendror Shtetëror ruan, përpunon, administron:
 a) dokumentet që janë trashëguar nga shteti shqiptar nga periudha parashtetërore;
 b) dokumentet që janë krijuar nga autoritetet publike deri në vitin 1944;
