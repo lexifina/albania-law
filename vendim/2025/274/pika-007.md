@@ -1,0 +1,1 @@
+7. Çdo individ dhe/ose person fizik apo juridik që pretendon se një masë administrative e vendosur ndaj tij dhe e shfuqizuar me ligjin nr. 127/2024, nuk është hequr/fshirë në sistem, paraqet kërkesë, përkatësisht pranë strukturave përgjegjëse në nivel vendor, për heqjen/fshirjen e masës.
