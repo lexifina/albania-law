@@ -1,0 +1,5 @@
+VENDIM
+Nr. 275, datë 9.5.2025
+PËR MIRATIMIN E STRATEGJISË KOMBËTARE KUNDËR MASHTRIMIT PËR MBROJTJEN E INTERESAVE FINANCIARE TË BASHKIMIT EVROPIAN, 2025-2030, DHE TË PLANIT TË SAJ TË VEPRIMIT
+Në mbështetje të nenit 100 të Kushtetutës, me propozimin e ministrit të Financave, Këshilli i Ministrave
+VENDOSI:

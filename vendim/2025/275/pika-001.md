@@ -1,0 +1,1 @@
+1. Miratimin e Strategjisë Kombëtare kundër Mashtrimit për Mbrojtjen e Interesave Financiarë të Bashkimit Evropian, 2025-2030, dhe të planit të saj të veprimit, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
