@@ -1,0 +1,1 @@
+1. Miratimin e normave dhe afateve të përdorimit të uniformës ushtarake që përdoret në shërbimin ushtarak rezervist të Forcave të Armatosura të Republikës së Shqipërisë, sipas shtojcave 1 dhe 2, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

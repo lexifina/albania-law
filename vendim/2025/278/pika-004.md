@@ -1,0 +1,1 @@
+4. Kur ushtaraku i shërbimit rezervist humbet jetën në krye të detyrës, për ceremoninë e varrimit familjes së tij i jepet pa pagesë një uniformë ceremoniale (xhaketë, pantallona, kapele, këmishë me mëngë të gjata, kollare dhe këpucë gjysmëceremoniale).

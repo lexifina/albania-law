@@ -1,0 +1,1 @@
+2. Ushtarakët e shërbimit rezervist të Forcave të Armatosura, të cilët dërgohen në misione ushtarake jashtë vendit, përfitojnë të njëjtin trajtim me uniformë si ushtarakët aktivë që marrin pjesë në këtë lloj veprimtarie.
