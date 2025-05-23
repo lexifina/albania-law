@@ -46,7 +46,7 @@ E
 DETYRIME PËRMBYLLËSE
 3-5% (kredite)
 10-20% (kredite)
-10-15% (kredite)
+10-25% (kredite)
 3-5% (kredite)
 18-20% (kredite)
 Shënim. Përqindja totale e lëndëve të kategorive A dhe B nuk duhet të jetë më pak se 70%, në rastin e programeve të ciklit të parë “Bachelor” dhe të programeve të integruara të studimit të ciklit të dytë “Master i shkencave”, dhe jo më pak se 60% në rastin e programeve të ciklit të dytë “Master i shkencave”. Në rastin e programeve të ciklit të dytë “Master i arteve” ky raport vendoset sipas specifikave të vetë programit të studimit. Për programet e studimit të ciklit të tretë “Master ekzekutiv” lëndët e kategorisë B duhet të kenë një karakter dhe orientim të theksuar praktik, me qëllim avancimin e mëtejshëm profesional të studentëve. Për të përmbushur këtë objektiv, lëndët mund të ofrohen në bashkëpunim me industrinë dhe botën profesionale dhe, për çdo rast, ato duhet të jenë, të paktën, 50% praktikë në terren.
