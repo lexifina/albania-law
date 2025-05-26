@@ -1,0 +1,29 @@
+{
+  "qbz_id": 62904,
+  "title": "Mbi licencimin e shoqërisë “Solar Horizon” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike, nga centrali fotovoltaik, me kapacitet prodhues 2 mw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "94",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2025-04-28",
+  "published": "2025-05-26",
+  "in_force": "2025-05-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/7029fafec7c7d8a77c719105f17c42b762a7819ff164a30f919ea85db8051b2e.docx",
+  "source_sha256": "7029fafec7c7d8a77c719105f17c42b762a7819ff164a30f919ea85db8051b2e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/62904",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/04/28/94",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    120205,
+    30926
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
