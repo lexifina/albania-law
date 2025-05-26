@@ -1,0 +1,28 @@
+{
+  "qbz_id": 62896,
+  "title": "Mbi dhënien e autorizimit nga ERE për ndryshimin e ortakut që kontrollon interesat e shoqërisë “AlbEsp Trading & Consulting” sh.p.k.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "85",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2025-04-24",
+  "published": "2025-05-26",
+  "in_force": "2025-05-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5e303dc963c75e2db30d01d7e9e2a144503cc39c7e6dd32eb15b4140bdeada48.docx",
+  "source_sha256": "5e303dc963c75e2db30d01d7e9e2a144503cc39c7e6dd32eb15b4140bdeada48",
+  "official_record": "https://qbz.gov.al/api/v1/acts/62896",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/04/24/85",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    30558
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
