@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të drejtorit të përgjithshëm vetëm për nënshkrimin e akteve të cilat depozitohen pranë gjykatave kompetente, te znj. Alisa Basha me pozicion drejtor i Drejtorisë Juridike dhe Shqyrtimit të Aplikimeve.
