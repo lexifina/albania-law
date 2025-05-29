@@ -1,0 +1,1 @@
+2. Aplikimi i Ndryshimeve të Përmirësimeve Vjetore të Standardeve të Kontabilitetit SNRF - Vëllimi 11, publikuar në korrik 2024, kanë datë efektive më 1 janar 2026, por lejohet zbatimi më i hershëm i tyre.
