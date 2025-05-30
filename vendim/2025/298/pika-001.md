@@ -1,0 +1,1 @@
+1. Autorizimin e shoqërisë aksionare “Korporata e Investimeve Shqiptare”, vetë apo nëpërmjet entitetit të krijuar prej saj, për të vepruar si zhvillues i pronës së përcaktuar në shtojcën nr. 1, sipas këtij vendimi, me qëllim realizimin e projektit të investimit “Rijetëzimi i Pallatit të Lojërave me Dorë ’Asllan Rusi’”, në përmbushje të interesit publik për projektin e investimit.
