@@ -1,1 +1,1 @@
-16. DEBASKON-i dhe Ministria e Financave mbikëqyrin ministritë e linjës, për përmbushjen e kushteve të vendosura në marrëveshjet me huadhënësit dhe/ose dhuruesit dhe për progresin e bërë në zbatimin e projekteve përkatëse.
+16. Struktura përgjegjëse për koordinimin e ndihmës së huaj dhe Ministria e Financave mbikëqyrin ministritë e linjës, për përmbushjen e kushteve të vendosura në marrëveshjet me huadhënësit dhe/ose dhuruesit dhe për progresin e bërë në zbatimin e projekteve përkatëse.

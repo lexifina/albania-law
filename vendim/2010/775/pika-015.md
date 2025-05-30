@@ -1,1 +1,1 @@
-15. Ministria e Financave dhe DEBASKON-i shkëmbejnë informacionin me huadhënësit/dhuruesit dhe përfituesit e financimeve të huaja lidhur me huat/grantet e marra, masën dhe destinacionin e përdorimit të tyre.
+15. Ministria e Financave dhe struktura përgjegjëse për koordinimin e ndihmës së huaj shkëmbejnë informacionin me huadhënësit/dhuruesit dhe përfituesit e financimeve të huaja lidhur me huat/grantet e marra, masën dhe destinacionin e përdorimit të tyre.

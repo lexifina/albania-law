@@ -1,1 +1,1 @@
-25. Ngarkohen Ministria e Financave, DEBASKON-i, Ministria e Integrimit dhe ministritë e linjës, si dhe institucionet e tjera në varësi të pushtetit ekzekutiv qendror për zbatimin e këtij vendimi.
+25. Ngarkohen Ministria e Financave, struktura përgjegjëse për koordinimin e ndihmës së huaj, dhe ministritë e linjës, si dhe institucionet e tjera në varësi të pushtetit ekzekutiv qendror për zbatimin e këtij vendimi.
