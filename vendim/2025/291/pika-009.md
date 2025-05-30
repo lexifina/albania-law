@@ -1,0 +1,1 @@
+9. Siguria fizike e personelit dhe infrastrukturës do të sigurohet nga Forcat e Armatosura, sipas akteve nënligjore, të nxjerra nga autoritetet kompetente, sipas ligjit nr. 64/2014, “Për pushtetet dhe autoritetet e drejtimit dhe komandimit të Forcave të Armatosura të Republikës së Shqipërisë”, të ndryshuar.

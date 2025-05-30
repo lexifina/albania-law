@@ -1,0 +1,1 @@
+3. Shoqëria “KAYO” sh.a. do të kontribuojë në entitetin e ri tregtar me pasuri të paluajtshme, në masën jo më pak se 20 000 (njëzet mijë) m², që do t’i jepen në përdorim shoqërisë së përbashkët në një nga format e parashikuara nga Kodi Civil i Republikës së Shqipërisë, pa të drejtë tjetërsimi.
