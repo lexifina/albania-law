@@ -1,0 +1,757 @@
+# Shtojca
+LISTA EMËRORE E PRONARËVE, PASURITË E PALUAJTSHME, PRONË PRIVATE E TË CILËVE SHPRONËSOHEN PËR INTERES PUBLIK PËR REALIZIMIN E PROJEKTIT “SHËTITORJA DRILON-TUSHEMISHT”, BASHKIA POGRADEC
+PRONARI
+TË DHËNAT KADASTRALE (SIPAS KARTELËS SË PASURISË)
+VLERËSIMET PËR SHPRONËSIM
+SHËNIME (Kufizime hipotekore, barrë mbi pasurinë etj.)
+ARË
+TRUALL
+VLERA TOTALE (lekë)
+Nr.
+Emri
+Atësia
+Mbiemri
+ZK
+Nr. i pasurisë
+Lloji i pasurisë
+Sipërfaqja totale
+Truall (m2)
+Ndërtesë (m2)
+Volumi
+Faqe
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+1
+Kristaq
+Gaqi
+Mitllari
+3664
+Nr. 4/88
+arë
+750
+6
+179
+33.00
+192.00
+6,336.00
+6,336.00
+2
+“RES-HOT L&G” SH.P.K
+3664
+Nr. 4/83
+truall
+600
+6
+81
+28.00
+1,640.00
+45,920.00
+45,920.00
+3
+“RES-HOT L&G” SH.P.K
+3664
+Nr. 4/54
+truall
+1300
+1300
+4
+82
+85.70
+1,640.00
+140,548.00
+140,548.00
+4
+“RES-HOT L&G” SH.P.K
+3664
+Nr. 4/77
+truall
+1012
+1012
+5
+88
+8.00
+1,640.00
+13,120.00
+13,120.00
+5
+“RES-HOT L&G” SH.P.K
+3664
+Nr. 4/85
+arë
+500
+6
+85
+24.10
+192.00
+4,627.20
+4,627.20
+6
+HOTEL GREEN GARDEN
+3664
+Nr. 4/86
+truall
+500
+6
+86
+23.80
+1,640.00
+39,032.00
+39,032.00
+7
+HOTEL GREEN GARDEN
+3664
+Nr. 4/73
+truall
+1000
+1000
+7
+139
+39.10
+1,640.00
+64,124.00
+64,124.00
+8
+HOTEL GREEN GARDEN
+3664
+Nr. 4/6
+truall
+984
+2
+210
+30.90
+1,640.00
+50,676.00
+50,676.00
+9
+HOTEL GREEN GARDEN
+3664
+Nr. 4/7
+truall
+993
+1
+173
+14.30
+1,640.00
+23,452.00
+23,452.00
+10
+BREGU
+3664
+Nr. 4/81
+truall
+2905
+2905
+1059
+5
+186
+101.40
+1,640.00
+166,296.00
+166,296.00
+11
+Ina 2024
+3664
+Nr. 4/87
+truall
+3213
+3213
+1123
+6
+87
+165.00
+1,640.00
+270,600.00
+270,600.00
+12
+“Marsi”shpk,’’harizi Konstruksion’’shpk,risto Cobani
+3664
+Nr. 4/82
+truall
+4765
+4765
+1728
+5
+195
+131.40
+1,640.00
+215,496.00
+215,496.00
+13
+Vasil
+Koco
+Llakmani
+3664
+Nr. 4/20
+truall
+883
+883
+2
+134
+19.60
+1,640.00
+32,144.00
+32,144.00
+14
+Eftimi
+Lia
+Llakmani
+3664
+Nr. 4/21
+arë
+543
+2
+88
+19.00
+192.00
+3,648.00
+3,648.00
+15
+Arian
+Gjergj
+Mihilli
+3664
+Nr. 4/22
+arë
+1095
+1
+88
+22.10
+192.00
+4,243.20
+4,243.20
+16
+Aurel
+Rexhep
+Dikellari
+3664
+Nr. 4/71
+arë
+989
+5
+65
+13.50
+192.00
+2,592.00
+2,592.00
+Mankela
+Përparim
+Dikellari
+17
+Nesti
+Piro
+Mihilli
+3664
+Nr. 4/64
+arë
+1012
+5
+31
+30.70
+192.00
+5,894.40
+5,894.40
+18
+Nesti
+Piro
+Mihilli
+3664
+Nr. 4/25
+arë
+846
+1
+100
+29.10
+192.00
+5,587.20
+5,587.20
+19
+Zisi
+Llazi
+Tasellari
+3664
+Nr. 4/26
+arë
+740
+1
+35
+23.00
+192.00
+4,416.00
+4,416.00
+20
+Engjell
+Shahin
+Shahini
+3664
+Nr. 4/89
+arë
+685
+6
+193
+30.79
+192.00
+5,911.68
+5,911.68
+21
+Ilija
+Vangjel
+Turshinka
+3664
+Nr. 4/28
+arë
+772
+2
+174
+23.00
+192.00
+4,416.00
+4,416.00
+Lavdie
+Turshinka
+Dhimitri
+Vangjel
+Turshinka
+Nastasije
+Vangjel
+Turshinka
+22
+Todi
+Tushi
+Llakmani
+3664
+Nr. 4/29
+arë
+820
+2
+94
+22.00
+192.00
+4,224.00
+4,224.00
+23
+Llazi
+Kopi
+Turshinka
+3664
+Nr. 4/30
+arë
+814
+2
+168
+19.60
+192.00
+3,763.20
+3,763.20
+24
+Luljeta
+Fejzi
+Seitaj
+3664
+Nr. 4/31
+arë
+1052
+1
+203
+27.45
+192.00
+5,270.40
+5,270.40
+25
+Dritan
+Fahri
+Hoxhallari
+3664
+Nr. 4/58
+arë
+1007
+4
+214
+22.70
+192.00
+4,358.40
+4,358.40
+26
+Thoma
+Kopi
+Tushinka
+3664
+Nr. 4/33
+arë
+1156
+2
+202
+23.00
+192.00
+4,416.00
+4,416.00
+27
+Bashkim
+Kapllan
+Ganolli
+3664
+Nr. 4/52
+truall
+500
+500
+100
+4
+118
+28.40
+1,640.00
+46,576.00
+46,576.00
+Kastriot
+Kapllan
+Ganolli
+28
+Pandeli
+Kristaq
+Bardhi
+3664
+Nr. 4/35
+arë
+820
+2
+229
+10.80
+192.00
+2,073.60
+2,073.60
+29
+Simon
+Vangjel
+Shyta
+3664
+Nr. 4/36
+arë
+2017
+1
+203
+106.30
+192.00
+20,409.60
+20,409.60
+Ilir
+Vangjel
+Shyta
+30
+Thoma
+Mitri
+Mitllari
+3664
+Nr. 4/37
+arë
+776
+1
+110
+64.20
+192.00
+12,326.40
+12,326.40
+31
+Polikseni
+Nikolla
+Kapobardhi
+3664
+Nr. 4/38
+arë
+679
+1
+168
+54.90
+192.00
+10,540.80
+10,540.80
+Nikoleta
+Stasi
+Kapobardhi
+Konstandin
+Stasi
+Kapobardhi
+Kliti
+Stasi
+Kapobardhi
+32
+Polikseni
+Nikolla
+Kapobardhi
+3664
+Nr. 4/39
+arë
+202
+1
+167
+19.00
+192.00
+3,648.00
+3,648.00
+Nikoleta
+Stasi
+Kapobardhi
+Konstandin
+Stasi
+Kapobardhi
+Kliti
+Stasi
+Kapobardhi
+33
+Llambi
+Ligor
+Çulaku
+3664
+Nr. 4/40
+arë
+616
+2
+202
+52.90
+192.00
+10,156.80
+10,156.80
+34
+Stasi
+Ligor
+Tasellari
+3664
+Nr. 4/79
+arë
+912
+5
+108
+36.80
+192.00
+7,065.60
+7,065.60
+Anerije
+Nazif
+Tasellari
+Ervin
+Stasi
+Tasellari
+35
+Besim
+Penko
+3664
+Nr. 15/21
+truall
+300
+300
+54
+6
+185
+35.20
+1,640.00
+57,728.00
+57,728.00
+36
+Alban
+Gëzim
+Zeka
+3664
+Nr. 15/3
+truall
+232
+232
+61
+3
+80
+18.30
+1,640.00
+30,012.00
+30,012.00
+37
+Minella
+Arqile
+Kaçori
+3664
+Nr. 15/24
+truall
+300
+300
+118
+6
+240
+31.20
+1,640.00
+51,168.00
+51,168.00
+Viollanda
+Jovan
+Kaçori
+Dorjan
+Minella
+Kaçori
+38
+Pandeli
+Nasi
+Tereziu
+3664
+Nr. 15/5
+truall
+331
+331
+3
+82
+25.50
+1,640.00
+41,820.00
+41,820.00
+39
+Vasil
+Ilija
+Terezi
+3664
+Nr. 15/6
+truall
+239
+239
+59
+3
+83
+13.20
+1,640.00
+21,648.00
+21,648.00
+40
+Dhimitër
+Thoma
+Llakmani
+3664
+Nr. 15/7
+truall
+300
+300
+113
+3
+177
+25.80
+1,640.00
+42,312.00
+42,312.00
+41
+Rajmonda
+Vangjel
+Pendavinji
+3664
+Nr. 15/8
+truall
+300
+300
+113
+3
+179
+20.90
+1,640.00
+34,276.00
+34,276.00
+Evelina
+Vangjel
+Kove
+Ivana
+Vangjel
+Shtylla
+Albana
+Vangjel
+Gusho
+Leonard
+Vangjel
+Llakmani
+42
+Vasil
+Koço
+Llakmani
+3664
+Nr. 15/9
+truall
+183
+183
+80
+3
+84
+13.70
+1,640.00
+22,468.00
+22,468.00
+43
+Gjergji
+Koço
+Llakmani
+3664
+Nr. 15/10
+truall
+248
+248
+80
+3
+85
+16.00
+1,640.00
+26,240.00
+26,240.00
+44
+Kopi
+Koço
+Llakmani
+3664
+Nr. 15/19
+truall
+283
+283
+56
+5
+283
+11.65
+1,640.00
+19,106.00
+19,106.00
+45
+Rolandi
+Sotir
+Llakmani
+3664
+Nr. 15/20
+truall
+255
+255
+36
+5
+78
+14.90
+1,640.00
+24,436.00
+24,436.00
+46
+Sofije
+Tushi
+Llakmani
+3664
+Nr. 17/4
+truall
+922
+922
+4
+158
+36.00
+1,640.00
+59,040.00
+59,040.00
+Vasil
+Tushi
+Llakmani
+Vangjeli
+Tushi
+Llakmani
+Eliverta
+Naum
+Llakmani
+Roza
+Jovan
+Llakmani
+Pandi
+Llakmani
+VLERA TOTALE
+1,674,162.48
