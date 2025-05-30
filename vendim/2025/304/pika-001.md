@@ -1,0 +1,1 @@
+1. Këshilli Kombëtar për Shkencën dhe Kërkimin Shkencor (në vijim “KKSHKSH”) organizohet si organ këshillimor për politikat e shkencës dhe të kërkimit shkencor dhe ka në përbërje 19 (nëntëmbëdhjetë) anëtarë.

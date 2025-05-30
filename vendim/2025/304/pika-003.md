@@ -1,0 +1,1 @@
+3. Me qëllim realizimin e misionit të tij, pranë KKSHKSH-së mund të ngrihen komisione të përhershme apo të përkohshme me anëtarët e këtij këshilli, për studimin e çështjeve e të problematikave të veçanta, që lidhen me politikat e shkencës dhe të kërkimit shkencor.

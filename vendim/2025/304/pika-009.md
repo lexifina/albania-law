@@ -1,0 +1,1 @@
+9. Anëtarët e KKSHKSH-së qëndrojnë në detyrë për sa kohë anëtari ushtron funksionin në institucionin që përfaqëson, me përjashtim të evidentimit të rasteve të lirimit nga detyra të anëtarit. Anëtari që zëvendëson anëtarin e liruar caktohet sipas përcaktimeve të pikës 2 të këtij vendimi.
