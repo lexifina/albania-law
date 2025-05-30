@@ -1,0 +1,1 @@
+1. Përdorimin e fondit prej 80 000 000 (tetëdhjetë milionë) lekësh, të miratuar në buxhetin e vitit 2025 për Ministrinë e Arsimit dhe Sportit, në programin buxhetor 08140 “Për zhvillimin e sportit”, në llogarinë ekonomike 604 “Transferta të brendshme”, për financimin e shpenzimeve të ushtrimit të veprimtarisë së fondacionit “Durrah City Football Academy”.

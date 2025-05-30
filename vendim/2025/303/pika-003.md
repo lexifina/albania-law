@@ -1,0 +1,1 @@
+3. Fondacioni “Durrah City Football Academy”, brenda muajit shkurt 2026, dërgon në Ministrinë e Arsimit dhe Sportit raportin e shpenzimeve të realizuara për vitin 2025, të miratuar nga bordi drejtues i fondacionit.
