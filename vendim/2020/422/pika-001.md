@@ -3,15 +3,15 @@
 - Z. Tedi Dobi, zëvendësministër i Drejtësisë, negociator përgjegjës për kriteret politike dhe kapitulin 23 të legjislacionit të Bashkimit Evropian;
 - Z. Besfort Lamallari, zëvendësministër i Brendshëm dhe negociator përgjegjës për kapitullin 24;
 - Znj. Megi Fino, zëvendësministër për Evropën dhe Punët e Jashtme, negociator përgjegjës për kapitullin 31;
-- Znj. Adela Xhemali, zëvendësministër i Financave, negociator përgjegjës për kriteret ekonomike dhe kapitujt 32 dhe 33;
+- “Znj. Erjona Çela, zëvendësministër i Financave, negociator përgjegjës për kriteret ekonomike dhe kapitullin 33;
 - Z. Endrit Yzeiraj, zëvendësministër për Evropën dhe Punët e Jashtme, bashkënegociator përgjegjës për kapitullin 30;
 - Shfuqizuar;
-- Zëvendësministri i Financave, përgjegjës për tatimet dhe doganat, negociator përgjegjës për kapitujt 16 dhe 29;
+- Z. Florian Semani, zëvendësministër i Financave, negociator përgjegjës për kapitujt 16 dhe 29;
 - Shfuqizuar;
 - Z. Arian Jaupllari, zëvendësministër i Bujqësisë dhe Zhvillimit Rural, negociator për kapitujt 11 dhe 12;
 - Z. Roland Kristo, zëvendësministër i Bujqësisë dhe Zhvillimit Rural, negociator për kapitullin 13;
 - Znj. Ana Kapaj, zëvendësministër i Arsimit dhe Sportit, negociator përgjegjës për kapitullin 25;
-- Znj. Nina Guga, zëvendësministër i Arsimit dhe Sportit, negociator për kapitullin 26;
+- Znj. Orjana Osmani, zëvendësministër i Arsimit dhe Sportit, negociator për kapitullin 26;
 - Z. Sofjan Jaupaj, zëvendësminitër i Turizmit dhe Mjedisit, negociator për kapitullin 27;
 - Znj. Natasha Ahmetaj, zëvendësguvernator i dytë në Bankën e Shqipërisë, negociator përgjegjës për kapitullin 17 dhe bashkënegociator për kapitullin 4;
 - Znj. Reida Kashta, drejtor i Përgjithshëm i Agjencisë së Prokurimit Publik, negociator për kapitullin 5;
@@ -26,4 +26,5 @@
 - Znj. Olta Manjani, zëvendësministër i Ekonomisë, Kulturës dhe Inovacionit, negociator përgjegjës për kapitujt 2 e 3, si dhe bashkënegociator përgjegjës për kapitullin 19.
 Z. Enkelejd Musabelliu, zëvendësministër i Ekonomisë, Kulturës dhe Inovacionit, negociator përgjegjës për kapitullin 1 dhe bashkënegociator përgjegjës për kapitujt 28 e 30;
 - Z. Sokol Duma, zëvendësministër i Ekonomisë, Kulturës dhe Inovacionit, negociator përgjegjës për kapitujt 7 e 20;
-- Znj. Blerta Rama, zëvendësministër i Ekonomisë, Kulturës dhe Inovacionit, negociator përgjegjës për kapitullin 6 dhe bashkënegociator përgjegjës për kapitullin 4.
+- Znj. Blerta Rama, zëvendësministër i Ekonomisë, Kulturës dhe Inovacionit, negociator përgjegjës për kapitullin 6 dhe bashkënegociator përgjegjës për kapitullin 4;
+- Z. Andi Memeti, zëvendësministër i Financave, negociator përgjegjës për kapitullin 32.
