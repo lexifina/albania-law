@@ -1,0 +1,3 @@
+I. TË PËRGJITHSHME
+Ky vendim përcakton procedurat, mënyrat dhe rregullat për rikthimin në shërbimin aktiv të ushtarakëve në rezervë në Forcat e Armatosura të Republikës së Shqipërisë, duke garantuar respektimin e parimeve të barazisë, meritokracisë dhe mosdiskriminimit, përmbushjen e nevojave me personel të kualifikuar, si dhe forcimin e kapaciteteve të mbrojtjes, nëpërmjet një procesi të drejtë dhe transparent.
+II. PROCEDURAT PËR RIKTHIMIN NË SHËRBIMIN AKTIV TË USHTARAKËVE NË REZERVË NË RASTET E SHTIMIT TË NUMRIT TË PËRGJITHSHËM TË PERSONELIT DHE KUR KËRKOHEN SPECIALITETE QË NDIKOJNË NË RUAJTJEN E OPERACIONALITETIT TË FORCAVE TË ARMATOSURA

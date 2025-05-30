@@ -1,0 +1,1 @@
+3. Komisioni i shqyrtimit të ankimit për kandidatët oficerë përbëhet nga 3 (tre) anëtarë dhe ngrihet me urdhër të ministrit të Mbrojtjes, ndërsa komisioni i shqyrtimit të ankimit për kandidatët nënoficerë dhe ushtarë/detarë përbëhet nga 3 (tre) anëtarë dhe ngrihet me urdhër të shefit të Shtabit të Përgjithshëm të Forcave të Armatosura.
