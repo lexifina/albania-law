@@ -1,0 +1,32 @@
+# Neni 6
+Dokumentet që përpilohen për përdorimin e fondit të veçantë
+Dokumentet që përpilohen për përdorimin e fondit të veçantë janë:
+1. Vendimi për përdorimin e fondit të veçantë:
+a) që përpilohet nga specialisti i policisë për krimet/hetimin e krimeve, në drejtoritë qendrore apo drejtoritë vendore e komisariatet e policisë, i cili do të realizojë veprimin konkret policor. Vendimi miratohet nga eprori në linjë vertikale sipas hierarkisë, por, në çdo rast, duke respektuar funksionin që ka të drejtë të autorizojë përdorimin e shumës konkrete të fondit të veçantë;
+b) për shpërblimin e informatorit që përmban numrin kodik të informatorit, arsyen e shpërblimit, dosjen ku administrohet e dhëna/informata, rezultatin e arritur, shumën e parave;
+c) për shpërblimin e burimit konfidencial, burimit të veçantë dhe personit që i përgjigjet thirrjes së policisë për informacion/ndihmë, që përmban gjenealitetet e plota dhe adresën, dosjen ku administrohet informacioni, arsyen e shpërblimit, rezultatin e arritur, shumën e parave;
+Vendimi për shpërblim përpilohet në një kopje të vetme sipas lidhjes nr. 1, bashkëlidhur këtij vendimi, i cili protokollohet dhe administrohet në seksionin/sektorin e arkivit kriminal.
+2. Vendimi për pagesat që kryhen nga fondi i veçantë, sipas lidhjes nr. 2 bashkëlidhur këtij vendimi, që duhet të përmbajë:
+a) situatën kriminale dhe rezultatin që synohet të arrihet;
+b) qëllimin e shpenzimeve;
+c) numrin dhe datën e procedimit penal, si dhe numrin e datën e autorizimit të prokurorit, për rastet e përcaktuara në Kodin e Procedurës Penale, kur ka procedim penal të regjistruar;
+ç) sasinë e parave që do të shpenzohen për ushqim, fjetje, transport, karburant, ndërlidhje, qiramarrje mjedisi/ambienti/automjeti, si dhe shpenzime të tjera në funksion të realizimit të detyrave funksionale të punonjësit, me qëllim arritjen e rezultatit që synohet.
+d) dosjen apo fashikullin ku administrohet praktika shkresore për zhvillimin e operacionit të veçantë policor.
+Shpenzimet e kryera sipas shkronjës “ç” justifikohen me dokumentet përkatëse, që i bashkëlidhen dëftesës së pagimit. Në pamundësi për t’i siguruar këto dokumente, drejtuesi i operacionit të veçantë policor vërteton shpenzimet e kryera në relacionin shpjegues.
+Vendimi për pagesë përpilohet në një kopje të vetme, i cili protokollohet dhe administrohet në seksionin/sektorin e arkivit kriminal.
+3. Urdhërpagimi, që shërben për të realizuar tërheqjen e shumës së parave, sipas lidhjes nr. 3, bashkëlidhur këtij vendimi,:
+a) përpilohet në dy kopje, nga të cilat njëra qëndron në sektorin/seksionin e financave dhe tjetra i bashkëlidhet vendimit për pagesë;
+b) plotësohet nga specialisti për krimet/hetimin e krimeve, firmoset nga eprorët sipas shkallës hierarkike dhe urdhërdhënësi, merr numrin e protokollit të vendimit për pagesë dhe vuloset në sekretari/protokollin e strukturës policore përkatëse;
+c) nënshkruhet edhe nga shefi i sektorit/seksionit të financave, përpara se të kryhen veprimet me arkën.
+4. Dëftesa e pagimit, që është dokumenti që shërben për pasqyrimin e veprimit të marrjes së parave nga personi, i cili trajtohet financiarisht nga fondi i veçantë, sipas lidhjes nr. 4, bashkëlidhur këtij vendimi, si më poshtë vijon:
+a) Dëftesa e pagimit të shpenzimeve për kryerjen e operacioneve të veçanta policore nënshkruhet nga specialisti i policisë për hetimin e krimeve që ka përgjegjësinë për realizimin e veprimit policor dhe eprori i drejtpërdrejtë.
+b) Në mungesë të eprorit të drejtpërdrejtë, dëftesa e pagimit nënshkruhet nga një epror në shkallë më të lartë hierarkike, brenda strukturës ku bën pjesë specialisti i policisë që kryen veprimin policor.
+c) Dëftesa e pagimit për shpërblim të burimeve të informacionit nënshkruhet nga personi konkret që trajtohet nga fondi i veçantë, specialisti i policisë i ngarkuar për të kryer veprimin, eprori i drejtpërdrejtë apo punonjësi i autorizuar që asiston veprimin.
+ç) Përjashtimisht, në rastet kur personi, që trajtohet nga fondi i veçantë, është informator i regjistruar, ky i fundit vendos në dëftesën e pagimit numrin kodik dhe firmos.
+d) Në rastet e shpërblimit të burimeve të informacionit deri në shumën 30 000 (tridhjetë mijë) lekë, dëftesa e pagimit nënshkruhet nga personi konkret që trajtohet nga fondi i veçantë dhe specialisti i policisë i ngarkuar për të kryer veprimin.
+dh) Në rastet vijuese të shpërblimit të të njëjtit burim të informacionit, dëftesa e pagimit nënshkruhet nga personi konkret që trajtohet nga fondi i veçantë, specialisti i policisë i ngarkuar për të kryer veprimin dhe punonjësi i autorizuar prej urdhërdhënësit për përdorimin e fondit të veçantë.
+e) Dëftesa e pagimit plotësohet në një kopje dhe i bashkëlidhet vendimit për pagesë.
+5. Relacioni shpjegues, që është dokumenti që përpilohet nga specialisti i policisë për të vërtetuar shpenzimet e kryera, sipas lidhjes nr. 6, bashkëlidhur këtij vendimi. Relacioni përpilohet nga specialisti i policisë për të vërtetuar shpenzimet e kryera, firmoset sipas shkallës hierarkike dhe miratohet nga drejtuesi i operacionit të veçantë policor. Relacioni shpjegues plotësohet në një kopje dhe i bashkëlidhet vendimit për pagesë.
+6. Dëftesa përfundimtare, sipas lidhjes nr. 5, që i bashkëlidhet këtij vendimi, që është dokumenti që vërteton shpenzimin e shumës së parave sipas qëllimit të përcaktuar. Dëftesa firmoset nga specialisti që ka bërë pagesën, sipas shkallës hierarkike dhe nga urdhërdhënësi. Dëftesa përfundimtare përpilohet në një kopje dhe dorëzohet në seksionin/sektorin e financave nga specialisti i policisë për hetimin e krimeve, që ka realizuar tërheqjen e parave.
+7. Mandatpagesa, që është dokumenti që plotësohet nga përfaqësuesi i seksionit/sektorit të financave, pas marrjes së dëftesës përfundimtare. Ky dokument plotësohet në tri kopje, ku dy kopje qëndrojnë në seksionin/sektorin e financave dhe një kopje e merr specialisti që ka bërë tërheqjen e parave, e cila i bashkëlidhet vendimit për shpërblim/pagesë.
+8. Autorizimi për asistuesin, sipas lidhjes nr. 7, bashkëlidhur këtij vendimi, që përpilohet në të gjitha rastet kur shpërblehen burime të informacionit policor, me mbi 30 000 (tridhjetë mijë) lekë, me të cilin punonjësi i policisë që kryen veprimin asistohet nga një punonjës i autorizuar nga urdhërdhënësi për përdorimin e fondit të veçantë. Autorizimi për punonjësin e policisë, që asiston veprimin, përpilohet në një kopje, e cila i bashkëlidhet vendimit për shpërblim.
