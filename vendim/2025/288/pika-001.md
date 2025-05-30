@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Spostim i linjave 220 kV Koman - Tirana 2, linja 110 kV Laç 2-Tiranë dhe linja 220 kV Fier-Rrashbull, si rrjedhojë e ndërtimit të segmentit të rrugës Thumanë-Kashar”.
