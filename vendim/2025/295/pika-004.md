@@ -1,0 +1,10 @@
+4. Për punonjësit e policisë jepen këto lloj certifikatash:
+a) Drejtori i përgjithshëm i Policisë së Shtetit jep:
+i. certifikatë për shërbime të dalluara për punonjësin e policisë, që ka kryer shërbim të dalluar në mënyrë të vazhdueshme dhe për një periudhë kohe jo më pak se 3 (tre) vjet, duke shfaqur profesionalizëm e rezultate të larta në punë.
+Certifikata për shërbime të dalluara, e cila shoqërohet me shpërblim financiar në vlerën 50 000 (pesëdhjetë mijë) lekë, që përballohet nga buxheti i njësisë, ku është i punësuar punonjësi.
+ii. certifikatë të karrierës, që i jepet punonjësit të policisë, që ka mbushur më shumë së 10 (dhjetë) vjet punë/shërbim në Policinë e Shtetit, duke kontribuuar në rritjen e standardeve të rendit dhe të sigurisë publike.
+Certifikata e karrierës shoqërohet me shpërblim financiar në vlerën 45 000 (dyzet e pesë mijë) lekë, që përballohet nga buxheti i njësisë, ku punonjësi është i punësuar.
+b) Drejtuesit e departamenteve të Policisë së Shtetit japin certifikata të karrierës për punonjësit e policisë në varësi të tyre. Certifikata e karrierës i jepet punonjësit të policisë, që ka mbushur më shumë se 10 (dhjetë) vjet punë/shërbim në Policinë e Shtetit, duke kontribuuar në rritjen e standardeve të rendit e të sigurisë publike.
+Certifikata e karrierës shoqërohet me shpërblim financiar në vlerën 35 000 (tridhjetë e pesë mijë) lekë, që përballohet nga buxheti i njësisë, ku është i punësuar punonjësi.
+c) Drejtorët e drejtorive vendore të Policisë së Shtetit dhe drejtuesit e strukturave të veçanta japin certifikata për shërbime të dalluara për punonjësit e policisë në varësi të tyre. Certifikata për shërbime të dalluara i jepet punonjësit të policisë, që ka kryer shërbim të dalluar në mënyrë të vazhdueshme dhe për një periudhë kohe jo më pak se 3 (tre) vjet, duke shfaqur profesionalizëm e rezultate të larta në punë.
+Certifikata për shërbime të dalluara shoqërohet me shpërblim financiar në vlerën 30 000 (tridhjetë mijë) lekë, që përballohet nga buxheti i njësisë, ku është i punësuar punonjësi.

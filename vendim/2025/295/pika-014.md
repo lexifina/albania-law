@@ -1,0 +1,1 @@
+14. Medaljet mbahen në uniformën e punonjësit të policisë dhe në uniformën ceremoniale. Punonjësit e policisë, përveç medaljeve të dhëna sipas ligjit për Policinë e Shtetit, gëzojnë të drejtën të mbajnë edhe medalje, dekorata e tituj nderi të dhëna nga institucione dhe autoritete të tjera publike, si dhe nga institucione e autoritete të shteteve të tjera.

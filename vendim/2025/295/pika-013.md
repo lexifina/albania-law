@@ -1,0 +1,1 @@
+13. Kopje të urdhrave për akordim të medaljeve dhe të certifikatave, së bashku me kopjen e certifikatave, vendosen në dosjen personale të punonjësit të Policisë, si dhe pasqyrohen në vlerësimin e rezultateve të punës që bëhet për punonjësin.

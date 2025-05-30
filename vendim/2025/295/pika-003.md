@@ -1,0 +1,2 @@
+3. Medaljet shoqërohen me 1 (një) certifikatë.
+Certifikata duhet të përmbajë lart, në qendër, stemën e Republikës së Shqipërisë, institucionin, autoritetin që jep medaljen, gradën, emrin dhe mbiemrin e personit që i jepet medalja, titullin e medaljes, motivacionin, numrin dhe datën e urdhrit për dhënien e medaljes, si dhe në fund, emrin, mbiemrin e firmën e drejtorit të përgjithshëm që jep medaljen dhe vulën.

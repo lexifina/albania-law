@@ -1,0 +1,1 @@
+5. Punonjësi i propozuar për dhënie të certifikatës nuk duhet të ketë masë disiplinore në fuqi apo të ketë marrë më parë masë disiplinore për shkelje të rëndë gjatë viteve të punës në strukturat e Policisë së Shtetit.

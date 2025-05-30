@@ -1,0 +1,1 @@
+6. Certifikata duhet të përmbajë: stemën e Republikës së Shqipërisë, llojin e certifikatës; gradën, emrin dhe mbiemrin e personit që certifikohet, numrin dhe datën e urdhrit, si dhe motivacionin për dhënien e saj, gradën, emrin dhe mbiemrin e autoritetit që jep certifikatën, firmën dhe vulën e institucionit.
