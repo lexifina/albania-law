@@ -1,0 +1,1 @@
+1. Shpalljen e përkthimit të Standardit Ndërkombëtar të Raportimit Financiar 18, “Paraqitja dhe dhënia e informacioneve shpjeguese në pasqyrat financiare” (SNRF 18), dhe Standardit Ndërkombëtar të Raportimit Financiar 19, “Filialet pa përgjegjësi publike: Dhënia e informacioneve shpjeguese” (SNRF 19).
