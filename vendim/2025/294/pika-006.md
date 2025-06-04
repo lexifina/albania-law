@@ -1,0 +1,1 @@
+6. Punonjësi i Policisë së Shtetit pajiset me dokumentin dhe medaljonin zyrtar të identifikimit. Forma, përmasat dhe të dhënat që përmban dokumenti identifikues dhe medaljoni zyrtar i identitetit të punonjësit të Policisë së Shtetit janë të përcaktuara dhe të përshkruara në lidhjen nr. 5 të albumit.

@@ -1,0 +1,1 @@
+1. Miratimin e paraqitjes, formës dhe specifikimeve teknike të gradave, simboleve, uniformave dhe shenjave dalluese, dokumentit dhe medaljonit zyrtar të identitetit të Policisë së Shtetit, sipas albumit me 87 (tetëdhjetë e shtatë) faqe, që i bashkëlidhet këtij vendimi.

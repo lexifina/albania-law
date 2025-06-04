@@ -1,0 +1,1 @@
+9. Ndalohen shumëfishimi dhe realizimi i modeleve e ngjyrave të tyre për përdorues të organizatave të tjera publike apo private, që trajtohen me uniformë, të cilat nuk kanë të njëjtin mision dhe detyra që ka Policia e Shtetit.

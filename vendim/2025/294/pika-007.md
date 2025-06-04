@@ -1,0 +1,1 @@
+7. Gradat, simbolet, uniformat, shenjat, dokumenti dhe medaljoni zyrtar identifikues të Policisë së Shtetit, të miratuara sipas këtij vendimi, për nga qëllimi i përdorimit, janë pronë e Drejtorisë së Përgjithshme të Policisë së Shtetit dhe përdoren vetëm gjatë shërbimit ose për shkak të tij nga punonjësit e Policisë së Shtetit.

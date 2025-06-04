@@ -1,0 +1,1 @@
+11. Vendimi nr. 55, datë 27.1.2016, i Këshillit të Ministrave, “Për miratimin e paraqitjes, formës dhe specifikimeve teknike të gradave, simboleve, uniformave dhe shenjave të Policisë së Shtetit”, të ndryshuar, shfuqizohet.
