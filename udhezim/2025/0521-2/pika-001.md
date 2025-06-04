@@ -1,0 +1,1 @@
+1. Miratimin e formatit që do të përdoret nga Agjencia Kombëtare e Mjedisit, për raportimin vjetor për vlerësimin e cilësisë së ajrit në mjedis, sipas shtojcës 1 bashkëlidhur dhe që është pjesë e këtij udhëzimi.
