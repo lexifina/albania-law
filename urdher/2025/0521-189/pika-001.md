@@ -1,0 +1,1 @@
+1. Miratimin e formatit të raportit trevjeçar për zbatimin e ligjit nr. 162/2014, “Për mbrojtjen e cilësisë së ajrit në mjedis”, i ndryshuar, dhe informacionin që duhet të përmbajë ky raport, sipas shtojcës 1, bashkëlidhur këtij urdhri dhe që është pjesë përbërëse e tij.
