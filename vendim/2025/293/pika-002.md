@@ -1,0 +1,1 @@
+2. Qëllimi i këtij vendimi është përmirësimi i sigurisë publike, forcimi i kapaciteteve të strukturave të Policisë së Shtetit dhe inkurajimi i angazhimit qytetar, duke promovuar bashkëpunimin ndërmjet policisë dhe komunitetit për rritjen e besimit dhe parandalimin e veprimtarive të kundërligjshme, në përputhje me legjislacionin në fuqi.

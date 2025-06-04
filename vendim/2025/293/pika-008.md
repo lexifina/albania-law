@@ -1,0 +1,1 @@
+8. Nëse dokumentacioni i paraqitur nuk vërteton plotësisht përmbushjen e kritereve, nuk është i plotë e i saktë ose ka dyshime të arsyeshme për vërtetësinë e tij, struktura përgjegjëse mund të kërkojë informacion ose dokumentacion shtesë nga çdo organ publik apo persona të tjerë juridikë, vendës ose të huaj.

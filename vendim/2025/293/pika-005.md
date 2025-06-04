@@ -1,0 +1,1 @@
+5. Kohëzgjatja ditore e vullnetarizmit është periudha kohore e angazhimit të vullnetarit në shërbimin e policimit vullnetar, e cila nuk tejkalon 5 (pesë) orë në ditë dhe 25 (njëzet e pesë) orë në javë.

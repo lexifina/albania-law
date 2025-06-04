@@ -1,0 +1,1 @@
+10. Aplikantëve, të cilëve u është refuzuar aplikimi, kanë të drejtë të paraqesin ankim pranë drejtorit të Drejtorisë Vendore të Policisë, brenda 10 (dhjetë) ditëve nga data e marrjes së njoftimit, duke bashkëlidhur argumentet dhe dokumentacionin që provon përmbushjen e kritereve.
