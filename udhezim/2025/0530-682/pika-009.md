@@ -1,0 +1,1 @@
+9. Të gjithë përdoruesit e cituar në pikën 8 të këtij udhëzimi, në trajtimin e kërkesave të ndryshme, për sa i përket respektimit të afatit të trajtimit të këtyre kërkesave, duhet të ketë parasysh dhe kohën që ju duhet përdoruesve të tjerë për trajtimin e kërkesës përkatëse brenda afateve ligjore të miratuara për secilin shërbim.
