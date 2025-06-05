@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTËR I BUJQËSISË DHE ZHVILLIMIT RURAL
+Anila Denaj
