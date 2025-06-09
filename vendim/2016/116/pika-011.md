@@ -1,1 +1,2 @@
-11. Përfundimet e çdo mbledhjeje pasqyrohen në një memorandum, i cili i bëhet i ditur ministrit të Financave dhe, së bashku me procesverbalin e mbledhjes, depozitohen në protokollin e Ministrisë së Financave.
+11. Përfundimet e çdo mbledhjeje pasqyrohen në vendimet përkatëse dhe, së bashku me procesverbalin e mbledhjes, depozitohen në protokollin e ministrisë përgjegjëse për financat.
+11/1. Komisioni i paraqet ministrit përgjegjës për financat një raport të hollësishëm mbi ecurinë dhe rezultatet e procesit në përfundim të çdo sezoni të provimeve të certifikimit të audituesve të brendshëm dhe në fund të çdo viti kalendarik.

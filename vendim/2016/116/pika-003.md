@@ -1,6 +1,6 @@
-3. Komisioni i kualifikimit të audituesve të brendshëm përbëhet nga anëtarë, të cilët kanë njohuri për auditimin e brendshëm, përkatësisht:
-a) Një anëtar nga fusha e auditimit të brendshëm në sektorin publik;
-b) Një anëtar nga fusha e legjislacionit në sektorin publik;
-c) Një anëtar nga trupa e personelit akademik në institucionet e arsimit të lartë;
-ç) Një anëtar nga fusha e menaxhimit financiar dhe kontrollit në sektorin publik;
-d) Një anëtar nga struktura përgjegjëse për harmonizimin e auditimit të brendshëm.
+3. Komisioni i kualifikimit të audituesve të brendshëm përbëhet nga anëtarë nga fusha e auditimit, të përzgjedhur nga ministri përgjegjës për financat, përkatësisht:
+a) një anëtar, përfaqësues nga organizatat profesionale të audituesve të brendshëm në Shqipëri;
+b) një anëtar nga fusha e auditimit të brendshëm në sektorin publik;
+c) një anëtar, përfaqësues nga struktura përgjegjëse për harmonizimin e menaxhimit financiar dhe kontrollit në ministrinë përgjegjëse për financat;
+ç) një anëtar nga trupa e personelit akademik në fushën e auditimit nga institucionet e arsimit të lartë;
+d) një anëtar, përfaqësues nga struktura përgjegjëse për harmonizimin e auditimit të brendshëm në ministrinë përgjegjëse për financat.
