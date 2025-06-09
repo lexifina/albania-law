@@ -1,0 +1,4 @@
+# Neni 3
+1. Programi Kombëtar i Praktikave të Punës realizohet nga ministria përgjegjëse për rininë, e cila mbështetet nga institucionet e administratës shtetërore dhe institucione të tjera publike që ofrojnë gatishmëri për pranimin e praktikantëve. Ministria përgjegjëse për rininë kryen rolin e sekretariatit teknik të programit për koordinimin ndërinstitucional.
+2. Programi Kombëtar i Praktikave të Punës realizohet për çdo thirrje vjetore, sipas plan-veprimit dhe metodologjisë së përcaktuar në lidhjen 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+3. Shpallja e thirrjes vjetore dhe procesi i aplikimit për profesionistët e rinj realizohet përmes platformës zyrtare elektronike të Programit Kombëtar të Praktikave të Punës, që administrohet nga ministria përgjegjëse për rininë.
