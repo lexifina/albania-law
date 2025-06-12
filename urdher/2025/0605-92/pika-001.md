@@ -1,0 +1,1 @@
+1. Caktimin e zëvendësdrejtorit të përgjithshëm të Gardës së Republikës së Shqipërisë drejtues i lartë Simon Zereci, për ushtrimin e kompetencave dhe detyrave të drejtorit të përgjithshëm të Gardës së Republikës së Shqipërisë.
