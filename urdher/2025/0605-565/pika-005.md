@@ -1,0 +1,1 @@
+5. Kafshët e llojit të imëta duhet të mbarështohen sipas kërkesave shëndetësore të mbarështimit të tyre, si dhe të jenë të izoluara nga kafshët e tjera në fermë dhe të kufizohet kontakti me kafshët e tjera.
