@@ -1,0 +1,1 @@
+3. Substancat aromatizuese në vlerësim vendosen në treg dhe përdoren në ushqime deri në përfundimin e vlerësimit të tyre dhe përfshirjen si substanca aromatizuese të vlerësuara në pjesën A të listës ose heqjen e tyre nga ajo listë;
