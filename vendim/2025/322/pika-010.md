@@ -1,0 +1,1 @@
+10. Autorizohen shoqëria “KAYO” sh.a., dhe shoqëria private, me të cilën do të bashkëpunojë, të furnizojnë Forcat e Armatosura të Republikës së Shqipërisë me mjetet që do të prodhohen nëpërmjet shoqërisë që do të krijohet, në përputhje me këtë vendim.

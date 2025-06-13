@@ -1,0 +1,1 @@
+6. Shoqëria “KAYO” sh.a., siguron nga pala tjetër, gjatë negociatave, se administratori/ët i/e shoqërisë, që do të krijohet nga dy shoqëritë e sipërcituara, zgjidhen/t me dakordësinë e shoqërisë “KAYO” sh.a.
