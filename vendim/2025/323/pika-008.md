@@ -1,0 +1,1 @@
+8. AKSHE-ja, pas marrjes në shqyrtim të kërkesës nga operatori ekonomik, verifikimit të dokumentacionit, si dhe verifikimit të kushteve të përcaktuara në nenin 9, të ligjit nr. 27/2023, në një afat kohor brenda 20 (njëzet) ditëve punë, vendos lëshimin ose refuzimin e kërkesës.

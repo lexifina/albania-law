@@ -1,0 +1,1 @@
+9. Në rastet kur AKSHE-ja konstaton që aplikimi ka mangësi në dokumentacion, brenda 5 (pesë) ditëve punë nga marrja në dorëzim e kërkesës, i njofton operatorit ekonomik, nëpërmjet portalit e-Albania, kërkesën për plotësim dokumentacioni. Komunikimi për plotësimin e mangësive të konstatuara pezullon afatet e shqyrtimit të kërkesës.

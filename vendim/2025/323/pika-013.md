@@ -1,0 +1,1 @@
+13. Autorizimi i përgjithshëm miratohet pas konsultimit me grupet e interesit (operatorët ekonomikë në transferimin e mallrave që mund të përdoren për qëllime torture apo ndëshkime mizore, çnjerëzore ose poshtëruese), si dhe me institucionet e përmendura në pikën 2, të nenit 24, të ligjit nr. 27/2023.

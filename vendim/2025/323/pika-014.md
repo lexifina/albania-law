@@ -1,0 +1,1 @@
+14. Informacioni i dërguar nga institucionet shtetërore dhe subjektet e tjera bëhet pjesë përbërëse e vlerësimit përfundimtar nga AKSHE-ja, mbi bazën e të cilit merret vendimi për lëshimin ose refuzimin e aplikimit.

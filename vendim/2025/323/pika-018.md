@@ -1,0 +1,1 @@
+18. Autorizimi individual për import, eksport, transit, ofrimin e shërbimeve të ndërmjetësimit dhe për ndihmën teknike lëshohet nga AKSHE-ja për një afat 1-vjeçar dhe mund të përdoret për disa transferta brenda vlefshmërisë së autorizimit ose deri sa të mbarojë sasia e mallrave në autorizim.

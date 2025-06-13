@@ -1,0 +1,1 @@
+12. AKSHE-ja bashkëpunon me institucionet e tjera përgjegjëse, të përcaktuara në nenin 24, të ligjit nr. 27/2023, duke marrë mendim dhe informacion për operatorët ekonomikë, që paraqesin kërkesat për pajisjet me autorizim pranë tij, sipas fushave të përgjegjësisë.

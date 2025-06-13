@@ -1,0 +1,1 @@
+10. Nga momenti i njoftimit për plotësimin e mangësive të konstatuara, operatori ekonomik ka 5 (pesë) ditë pune kohë për të plotësuar mangësitë e konstatuara, në të kundërt kërkesa do të konsiderohet e refuzuar. Për këtë, operatori ekonomik njoftohet nëpërmjet portalit e-Albania.

@@ -1,0 +1,1 @@
+11. Në rastin e plotësimit të mangësive të konstatuara, AKSHE-ja shqyrton kërkesën, verifikon dokumentacionin dhe vendos lëshimin ose refuzimin e kërkesës, në përputhje me afatin e parashikuar në pikën 8 të këtij vendimi.

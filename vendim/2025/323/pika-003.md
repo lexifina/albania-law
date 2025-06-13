@@ -1,0 +1,1 @@
+3. Modelet standarde të dokumentacionit për autorizimet individuale/të përgjithshme/globale për eksportin, importin, transitin, ofrimin e ndihmës teknike dhe veprimtaritë ndërmjetësuese, të lëshuara nga Autoriteti i Kontrollit Shtetëror të Eksporteve (në vijim, AKSHE), janë sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
