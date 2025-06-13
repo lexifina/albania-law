@@ -1,0 +1,71 @@
+7. Masat e sipërcituara nga pika 1 deri në pikën 6 zbatohen në territorin e:
+Nr.
+RRETHI
+NJËSIA ADMINISTRATIVE
+FSHATI
+3 km
+1
+Dibër
+Martanesh
+Ndërfushas
+2
+Dibër
+Martanesh
+Melcu
+3
+Dibër
+Martanesh
+Val
+10 km
+4
+Tiranë
+Shëngjergj
+Shëngjergj
+5
+Tiranë
+Shëngjergj
+Bizë
+6
+Dibër
+Martanesh
+Ballenj
+7
+Dibër
+Martanesh
+Lenë
+8
+Dibër
+Martanesh
+Peshk
+9
+Dibër
+Martanesh
+Gjon
+10
+Dibër
+Martanesh
+Krastë
+11
+Dibër
+Martanesh
+Stavec
+12
+Dibër
+Klos
+Plani bardhë
+13
+Dibër
+Klos
+Shëngjun
+14
+Dibër
+Klos
+Klos katund
+15
+Dibër
+Klos
+Fshat
+16
+Dibër
+Xibër
+Petralbë
