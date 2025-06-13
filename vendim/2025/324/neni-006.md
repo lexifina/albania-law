@@ -1,0 +1,7 @@
+# Neni 6
+Funksionimi i Komisionit të Ekspertizës
+1. Në Arkivin Qendror në Veprim për Dokumentacionin Teknik të Tipologjisë së Veçantë të Armatimit, Pajisjeve Teknologjike Ushtarake të Forcave të Armatosura funksionon Komisioni i Ekspertizës, i përbërë nga jo më pak se 5 (pesë) anëtarë, me kryetar drejtorin e arkivit.
+2. Komisioni i Ekspertizës harton listën konkrete të dokumenteve me rëndësi historike kombëtare dhe të dokumenteve me afat ruajtjeje të përkohshme, si dhe përcakton afatet e ruajtjes për këto të fundit jo më pak se 15 (pesëmbëdhjetë) vjet dhe jo më shume se 25 (njëzet e pesë) vjet.
+3. Komisioni i Ekspertizës ndjek dhe zbaton të gjitha rregullat dhe procedurat e parashikuara në ligjin nr .9154, datë 6.11.2003, “Për arkivat”, të ndryshuar, dhe aktet nënligjore në zbatim të tij për asgjësimin e dokumenteve.
+4. Komisioni i Ekspertizës shqyrton dhe miraton paraprakisht listat e veçimit për dokumentet e tipologjisë së veçantë, të përshkruara në pikën 2, të këtij neni, të cilat e kanë plotësuar afatin e ruajtjes dhe nuk paraqesin vlerë për ruajtje të mëtejshme pranë Arkivit Qendror në Veprim për Dokumentacionin Teknik të Tipologjisë së Veçantë të Armatimit, Pajisjeve Teknologjike Ushtarake të Forcave të Armatosura.
+5. Asgjësimi i dokumenteve nga Arkivi Qendror në Veprim i Dokumentacionit Teknik të Tipologjisë së Veçantë së Armatimit, Pajisjeve Teknologjike Ushtarake të Forcave të Armatosura bëhet pas miratimit të vendimit nga Komisioni Qendror i Ekspertizës, që funksionon pranë Drejtorisë së Përgjithshme të Arkivave.

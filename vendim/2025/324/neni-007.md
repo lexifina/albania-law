@@ -1,0 +1,4 @@
+# Neni 7
+Detyrimet e institucioneve fondkrijuese
+1. Institucionet fondkrijuese të Forcave të Armatosura, që krijojnë dhe administrojnë dokumentacion të tipologjisë së veçantë, të përshkruar në nenin 2, të këtij vendimi, duhet t’i dorëzojnë ato për ruajtje dhe administrim pranë Arkivit Qendror në Veprim për Dokumentacionin Teknik të Tipologjisë së Veçantë të Armatimit, Pajisjeve Teknologjike Ushtarake të Forcave të Armatosura, brenda afatit të përcaktuar në pikën 1, të nenit 4, të këtij vendimi.
+2. Rregullat për mënyrën e dorëzimit dhe transferimit të këtij dokumentacioni pranë Arkivit Qendror në Veprim për Dokumentacionin Teknik të Tipologjisë së Veçantë të Armatimit të Forcave të Armatosura miratohen nga Arkivi Qendror në Veprim, në përputhje me legjislacionin në fuqi për arkivat dhe aktet nënligjore në fuqi.
