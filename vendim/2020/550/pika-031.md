@@ -1,1 +1,0 @@
-31. Kërkesat për leje/autorizim, gjatë periudhës 1 tetor 2020 deri në datën 31 dhjetor 2020, dorëzohen edhe në formë shkresore pranë ZABU-ve përkatëse, deri në funksionimin e plotë të sistemit elektronik “Aplikim për përdorim burimi ujor”.

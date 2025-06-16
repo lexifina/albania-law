@@ -1,1 +1,0 @@
-22. Kërkesa për rinovimin e lejes/autorizimit paraqitet nëpërmjet sistemit elektronik, sipas formularit përkatës të parashikuar në shtojcën 1, të këtij vendimi, duke plotësuar dokumentacionin e kërkuar. Shqyrtimi i kërkesës për rinovim bëhen sipas procedurës dhe afateve të parashikuara në kreun III, të këtij vendimi.

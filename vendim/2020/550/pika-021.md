@@ -1,1 +1,0 @@
-21. Subjekti i pajisur me leje/autorizim, jo më vonë se 6 (gjashtë) muaj përpara përfundimit të afatit të vlefshmërisë, njofton AMBU-në nëse do të kërkojë rinovimin e tyre. Nëse ky njoftim nuk bëhet nga subjekti, AMBU-ja njofton titullarin e saj, jo më vonë se 5 (pesë) muaj përpara përfundimit të afatit të vlefshmërisë, të shprehet me shkrim nëse do të kërkojë rinovimin.

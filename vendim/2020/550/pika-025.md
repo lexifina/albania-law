@@ -1,2 +1,0 @@
-25. Anulimi, shfuqizimi i lejes/autorizimit bëhen për shkaqet e parashikuara në nenin 55, të ligjit nr. 111/2012, “Për menaxhimin e integruar të burimeve ujore”, të ndryshuar, sipas procedurave të parashikuara në ligjin që rregullon veprimtarinë e dhënies së licencave, lejeve dhe autorizimeve në Republikën e Shqipërisë dhe në legjislacionin në fuqi.
-VI. HYRJA NË FUQI E LEJES/AUTORIZIMIT, AFATET E VLEFSHMËRISË

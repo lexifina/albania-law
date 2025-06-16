@@ -1,1 +1,0 @@
-30. Gjatë periudhës nga data e hyrjes në fuqi e këtij vendimi deri në datën 1 tetor 2020, kërkesat për leje/autorizim dorëzohen në formë shkresore pranë ZABU-ve përkatëse sipas kushteve dhe kritereve të përcaktuara në këtë vendim.

@@ -1,1 +1,0 @@
-26. Leja/autorizimi për përdorimin e burimit ujor hyn në fuqi vetëm pas publikimit të saj në Regjistrin Kombëtar të Licencave dhe Lejeve, përveçse kur hyrja në fuqi lidhet me botimin në Fletoren Zyrtare.

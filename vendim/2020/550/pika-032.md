@@ -1,1 +1,0 @@
-32. Pranimi, shqyrtimi i kërkesave për leje/autorizime, lëshimi i dokumenteve, si dhe bashkërendimi institucional, nga data 1 janar 2021, kryhen vetëm nëpërmjet sistemit elektronik “Aplikim për përdorim burimi ujor”.

@@ -1,1 +1,0 @@
-3. Miratimin e formularëve të kërkesës për secilën veprimtari, për të cilën kërkohet miratim në parim për dhënien me koncesion të përdorimit të burimit ujor, leje/autorizim, rinovim, ndryshim dhe pezullim të tyre, të dokumentacionit teknik e ligjor shoqërues sipas shtojcës 1 dhe të përmbajtjes së dokumentacionit teknik sipas shtojcës 3, bashkëlidhur këtij vendimi.
