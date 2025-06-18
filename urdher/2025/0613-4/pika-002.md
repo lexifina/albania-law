@@ -1,0 +1,1 @@
+2. Programi Kombëtar i Praktikave të Punës, për vitin 2025, të realizohet sipas planit të veprimit dhe metodologjisë së thirrjes vjetore, që është pjesë përbërëse e vendimit të Këshillit të Ministrave nr. 317, datë 4.6.2025.

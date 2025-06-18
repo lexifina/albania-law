@@ -1,0 +1,1 @@
+1. Shpalljen e “Thirrjes së dhjetë” të Programit Kombëtar të Praktikave të Punës në institucionet e administratës shtetërore, në nivel qendror dhe vendor, në institucionet e tjera publike dhe njësitë e vetëqeverisjes vendore, më datë 27.6.2025.
