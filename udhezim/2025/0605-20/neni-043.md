@@ -1,0 +1,6 @@
+# Neni 43
+Trajtimi mjekësor veterinar
+1. Kur kafshët sëmuren ose lëndohen, trajtohen menjëherë, pavarësisht masave parandaluese.
+2. Produktet mjekësore veterinare alopatike të sintetizuara kimikisht, përfshirë antibiotikët, përdoren sipas përcaktimeve në pikat 2 dhe 3, të nenit 41 të këtij udhëzimi.
+3. Lëndët e para për ushqim për kafshë me origjinë minerale dhe aditivët ushqimorë, që përdoren në prodhimin organik, si dhe produktet fitoterapeutike dhe homeopatike përdoren me përparësi ndaj produkteve mjekësore veterinare alopatike të sintetizuara kimikisht, ose antibiotikëve, me kusht që efekti i tyre terapeutik të jetë efektiv për llojin e kafshës dhe gjendjen që trajtohet.
+4. Me përjashtim të vaksinimeve, trajtimeve për parazitë dhe skemave të detyrueshme të çrrënjosjes së sëmundjeve, në rastet kur kafsha ose grupi i kafshëve merr më shumë se tre kura trajtimesh me produkte mjekësore veterinare alopatike të sintetizuara kimikisht, përfshirë antibiotikët, brenda një periudhe 12-mujore, ose më shumë se një kurë trajtimi, nëse cikli i tyre produktiv i jetës është më i shkurtër se një vit, kafsha në fjalë dhe prodhimi prej saj nuk shitet si organik dhe kafsha i nënshtrohet periudhave të kalimit të përcaktuara në nenet 28 dhe 29 të këtij udhëzimi.

@@ -1,0 +1,7 @@
+# Neni 14
+Aksesi në zona të hapura
+1. Kafshët kanë akses të përhershëm në zona të hapura që i lejojnë kafshët të kullotin dhe të lëvizin të lira, në varësi nga kushtet sezonale, të motit dhe gjendja e terrenit, përveç rasteve kur vendosen kufizime dhe detyrime në lidhje me mbrojtjen e shëndetit të njerëzve dhe kafshëve, në bazë të legjislacionit në fuqi për shërbimin veterinar.
+2. Zonat e hapura mund të jenë pjesërisht të mbuluara. Verandat nuk konsiderohen zona të hapura.
+3. Me përjashtim të kafshëve të llojit derra, shpendëve dhe bletëve, kafshët e tjera kanë akses të përhershëm në kullota kur e lejojnë kushtet ose në ushqime me fibra bimore.
+4. Zonat e kullotjes në gjendje të lirë, të ushtrimit ose vrapimit në natyrë, ofrojnë mbrojtje të mjaftueshme ndaj shiut, erës, diellit dhe temperaturave ekstreme, në varësi të kushteve lokale të motit dhe racës përkatëse. Mbajtja jashtë në dimër e kafshëve është e pranueshme kur kushtet e lejojnë një gjë të tillë, me kusht që racat të jenë rezistente ndaj kushteve të vështira klimatike dhe/ose kur ka strehim të përshtatshëm për të parandaluar ndonjë problem lidhur me mirëqenien e tyre.
+5. Me përjashtim të parashikimeve të pikës 1 të këtij neni, aksesi i përhershëm në zona të hapura në natyrë gjatë muajve të dimrit mund të kufizohet, me kusht që gjedhët, njëthundrakët, të imëtat dhe drerët të kenë akses në kullota gjatë periudhës së kullotjes dhe sistemi i strehimit dimëror i lejon kafshët të lëvizin lirshëm.
