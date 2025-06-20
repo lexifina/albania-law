@@ -1,1 +1,0 @@
-2. Inspektorati Qendror drejtohet nga Inspektori i Përgjithshëm dhe organizohet në drejtori dhe sektorë për kryerjen e funksioneve të parashikuara në ligjin nr.10 433, datë 16.6.2011 “Për inspektimin në Republikën e Shqipërisë”.
