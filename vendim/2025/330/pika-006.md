@@ -1,0 +1,1 @@
+6. Inspektorati i Përgjithshëm promovon rëndësinë e zbatimit të legjislacionit nëpërmjet fushatave ndërgjegjësuese, botimeve, publikimeve, konferencave, seminareve, forumeve apo konsultimeve me grupet e interesit.

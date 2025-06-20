@@ -1,0 +1,1 @@
+7. Inspektorati i Përgjithshëm përgatit e publikon në faqen zyrtare të Inspektoratit të Përgjithshëm raporte për veprimtarinë inspektuese të inspektorateve qendrore e vendore, të cilat gjenerohen nëpërmjet sistemit elektronik “e-Inspektimi” në modulin përkatës.

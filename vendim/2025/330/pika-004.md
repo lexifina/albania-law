@@ -1,0 +1,1 @@
+4. Inspektorati i Përgjithshëm nuk ushtron kompetenca inspektuese apo hierarkike mbi strukturat e vetëqeverisjes vendore, përveç rasteve të përcaktuara në mënyrë të qartë e të posaçme nga legjislacioni në fuqi.

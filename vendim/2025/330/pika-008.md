@@ -1,0 +1,1 @@
+8. Inspektorati i Përgjithshëm kryen vlerësime, propozon metoda e teknika inovative, që kontribuojnë në rritjen e efektivitetit dhe eficiencës në fushat e inspektimit, si dhe bashkëpunon me institucione përkatëse e analoge, vendase e të huaja, të cilat punojnë në fushat e inspektimit që mbulon.
