@@ -1,0 +1,5 @@
+URDHËR
+Nr. 257, datë 13.6.2025
+PëR SHPALLJEN E KONKURRIMIT PËR POZICIONIN e ZËVENDËSDREJTORIT TË PËRGJITHSHËM TË AGJENCISË KOMBËTARE TË ARSIMIT PARAUNIVERSITAR
+Në mbështetje të nenit 102, të Kushtetutës, të nenit 26, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, të ndryshuar, të nenit 18, të ligjit nr. 90/2012 “Për organizimin dhe funksionimin e administratës shtetërore”, të vendimit nr. 99, datë 27.2.2019, të Këshillit të Ministrave “Për krijimin, mënyrën e organizimit e të funksionimit të Agjencisë Kombëtare të Arsimit Parauniversitar”, të ndryshuar, të urdhrit nr. 144, datë 1.8.2024, të Kryeministrit “Për miratimin e strukturës dhe të organikës së Agjencisë Kombëtare dhe drejtorive rajonale të arsimit parauniversitar”, të urdhrit nr. 454, datë 13.9.2019, “Për miratimin e rregullores për rregullat dhe procedurat e konkurrimit për pranimin dhe lirimin nga detyra të nëpunësve të DPAP-së në të gjitha nivelet e organizimit të saj”, të ndryshuar, dhe të urdhrit nr. 609, datë 20.12.2024, “Për delegimin e kompetencave dhe caktimin e detyrave të zëvendësministrit të Arsimit dhe Sportit, znj. Orjana Osmani”,
+URDHËROJ:

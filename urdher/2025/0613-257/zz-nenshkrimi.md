@@ -1,0 +1,3 @@
+# Nënshkrimi
+ZËVENDËSMINISTËr i MINISTRISË SË ARSIMIT DHE SPORTIT
+Orjana Osmani

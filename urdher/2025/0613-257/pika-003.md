@@ -1,0 +1,1 @@
+3. Afati i aplikimit dhe dorëzimit të dokumentacionit nga kandidatët për pozicionin e zëvendësdrejtor të përgjithshëm të Agjencisë Kombëtare të Arsimit Parauniversitar do të jetë deri në datën 27.6.2025.

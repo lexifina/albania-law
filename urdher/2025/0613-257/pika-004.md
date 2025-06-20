@@ -1,0 +1,1 @@
+4. Publikimi i kritereve dhe procedura që do të ndiqet për konkurrimin për pozicionin e zëvendësdrejtorit të përgjithshëm të Agjencisë Kombëtare të Arsimit Parauniversitar, të bëhet në faqen zyrtare të ministrisë përgjegjëse për arsimin, në Buletinin e Njoftimeve Zyrtare të Qendrës së Botimeve Zyrtare dhe në Buletinin e Njoftimeve Publike të Agjencisë së Prokurimit Publik.

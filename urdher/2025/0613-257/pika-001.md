@@ -1,0 +1,1 @@
+1. Njoftimin e fillimit të procedurës së konkurrimit për pozicionin e zëvendësdrejtorit të përgjithshëm të Agjencisë Kombëtare të Arsimit Parauniversitar, sipas shtojcës nr. 1, bashkëlidhur dhe pjesë përbërëse e këtij urdhri.

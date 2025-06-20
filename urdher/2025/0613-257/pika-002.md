@@ -1,0 +1,1 @@
+2. Procedura e konkurrimit për pozicionin e zëvendësdrejtorit të përgjithshëm të Agjencisë Kombëtare të Arsimit Parauniversitar, do të kryhet në përputhje me kriteret dhe dokumentacionin që duhet dorëzuar, sipas përcaktimeve të shtojcës nr. 1, bashkëlidhur dhe pjesë përbërëse e këtij urdhri.
