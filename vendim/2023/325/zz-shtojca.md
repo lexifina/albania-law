@@ -7,7 +7,7 @@ Kategoritë e klasat e pozicioneve të punës, si dhe vlerat mujore të shtesave
 |Kategoria |(pozicioneve të punës | |
 | |për secilën kategori) | |
 | | |Paga për pozicion |Shtesa e |Shtesa për vjetërsi |
-| | |(lek në muaj) |nivelit të kualifikimit |(sipas mënyrës së |
+| | |(lekë në muaj) |nivelit të kualifikimit |(sipas mënyrës së |
 | | | | |llogaritjes së |
 | | | | |përcaktuar në |
 | | | | |shkronjën “ç”, të |
@@ -15,6 +15,7 @@ Kategoritë e klasat e pozicioneve të punës, si dhe vlerat mujore të shtesave
 |1 |2 |3 |4 |5 |
 | | |I-1 |235 000 |1 | |
 |E lartë drejtuese |I | | | | |
+| | |I-1/1 |226 000 |1 | |
 | | |I-2 |217 000 |1 | |
 | | |I-3 |205 000 |1 | |
 | | |I-4 |180 000 |1 | |
@@ -54,7 +55,7 @@ Masa e shtesës për kushte pune (natyrë të veçantë pune) për disa nga funk
 3. Në Komisionin e Prokurimit Publik, nëpunësit në njësitë organizative të përmbajtjes, në masën 10 000 (dhjetë mijë) lekë në muaj.
 4. Në Qendrën për Teknologjinë e Informacionit për sistemin e Drejtësisë, në masën 70 000 (shtatëdhjetë mijë) lekë në muaj për nëpunësin në pozicionin “Drejtor ekzekutiv” dhe 60 000 (gjashtëdhjetë mijë) lekë në muaj për nëpunësit në pozicionet “specialist”.
 5. Në Kryeministri:
-a) në masën 65 000 (gjashtëdhjetë e pesë mijë) lekë në muaj, për nëpunësin në pozicionin “Sekretar i Përgjithshëm”;
+a) në masën 65 000 (gjashtëdhjetë e pesë mijë) lekë në muaj për nëpunësit në pozicionet “Sekretar i përgjithshëm” dhe “Zëvendëssekretar i përgjithshëm”;
 b) në masën 26 000 (njëzet e gjashtë mijë) lekë në muaj, për funksionarin në pozicionin “drejtor i kabinetit të Kryeministrit”;
 c) në masën 75 000 (shtatëdhjetë e pesë mijë) lekë në muaj, për nëpunësin në pozicionin “drejtor departamenti” në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave;
 ç) në masën 70 000 (shtatëdhjetë mijë) lekë në muaj, për nëpunësit në pozicionet “jurist” dhe “koordinator” në varësi të drejtpërdrejtë të drejtorit të Departamentit, në departamentin përgjegjës për aktet rregullatore të Këshillit të Ministrave;
@@ -70,7 +71,7 @@ i. “këshilltar” në kabinetin e Kryeministrit dhe të zëvendëskryeministr
 ii. “drejtor departamenti”, në departamentin përgjegjës për administrimin;
 iii. “drejtor njësie” në njësinë përgjegjëse për buxhetin dhe administrimin;
 iv. “drejtor drejtorie” me funksione të nëpunësit zbatues, sipas legjislacionit të menaxhimit buxhetor e financiar;
-v. “koordinator” në njësinë e menaxhimit pranë Sekretarit të Përgjithshëm.
+v. “koordinator” në njësinë e menaxhimit pranë sekretarit të përgjithshëm dhe në njësinë e menaxhimit pranë zëvendëssekretarit të përgjithshëm.
 6. Në ministritë e linjës:
 i. në masën 25 000 (njëzet e pesë mijë) lekë në muaj për nëpunësit në pozicionet “Sekretar i Përgjithshëm”;
 ii. në masën 10 000 (dhjetë mijë) lekë në muaj për nëpunësit në pozicionet “drejtor drejtorie” me funksione të nëpunësit zbatues, sipas legjislacionit të menaxhimit buxhetor e financiar.
@@ -271,14 +272,15 @@ Klasat e pagave për pozicionet e veçanta të punës për funksionet e veçanta
 Lidhja nr. 7
 Klasat e pagave të pozicioneve të punës së nëpunësve civilë/nëpunësve në institucionet e përcaktuara në shkronjën “a”, të pikës 1, të kreut I, të këtij vendimi
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
-|Sekretar i Përgjithshëm në: |I-1 |1 |
+|Sekretar i përgjithshëm në: |I-1 |1 |
 |Kryeministri, Presidencë, Kuvend, Prokurori të Përgjithshme, | | |
 |Avokatin e Popullit. | | |
-|Sekretar i Përgjithshëm në ministri dhe institucionet e tjera |I-2 |1 |
+|Zëvendëssekretar i përgjithshëm në Kryeministri. |I-1/1 |1 |
+|Sekretar i përgjithshëm në ministri dhe institucionet e tjera |I-2 |1 |
 |të pavarura. | | |
 |Drejtor ekzekutiv i Institutit të Studimeve për Krimet dhe | | |
 |Pasojat e Komunizmit në Shqipëri. | | |
-|Drejtor Departamenti në Kryeministri. | | |
+|Drejtor departamenti në Kryeministri. | | |
 |Drejtor i drejtorive të përgjithshme të përmbajtjes |I-4 |1 |
 |(përgjegjëse për çështjet e zhvillimit dhe politikave të | | |
 |sektorit që mbulon institucioni, si dhe për çështjet | | |
@@ -289,7 +291,7 @@ Klasat e pagave të pozicioneve të punës së nëpunësve civilë/nëpunësve n
 |dhe Pasojat e Komunizmit në Shqipëri. | | |
 |Kancelar i Gjykatës së Lartë. | | |
 |Drejtor i drejtorive të përgjithshme mbështetëse. |I-5 |1 |
-|Drejtor Ekzekutiv i Qendrës për Teknologjinë e Informacionit |II-1 |1 |
+|Drejtor ekzekutiv i Qendrës për Teknologjinë e Informacionit |II-1 |1 |
 |për Sistemin e Drejtësisë. | | |
 |Drejtor i drejtorive të përmbajtjes (përgjegjëse për çështjet | | |
 |e zhvillimit dhe politikave të sektorit që mbulon | | |
@@ -301,7 +303,7 @@ Klasat e pagave të pozicioneve të punës së nëpunësve civilë/nëpunësve n
 |Drejtor i drejtorive mbështetëse. |II-2 |1 |
 |Ndihmësit ligjorë pranë prokurorëve në Prokurorinë e |III-1 |1 |
 |Përgjithshme dhe ekspertët në Prokurorinë e Përgjithshme. | | |
-|Përgjegjës Sektori. |III-1 |1 |
+|Përgjegjës sektori. |III-1 |1 |
 |Kryesekretar gjyqësor. | | |
 | |III-2 |1 |
 |Specialist. |IV-1 |1 ose 2 |
@@ -1268,3 +1270,4 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 [4] Vendimi nr. 485, datë 24.7.2024 botuar në F.Z nr. 127, datë 26.7.2024 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, fillojnë nga data e emërimit/transferimit të nëpunësit në detyrë dhe për vitin 2024 përballohen nga fondet e miratuara për institucionin për këtë vit.”
 [5] Vendimi nr.502, datë 1.8.2024 botuar në F.Z. nr. 134, datë 1.8.2024 në pikën 2 të tij shprehet: “Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, fillojnë nga data 1 korrik 2024 dhe për vitin 2024 përballohen nga fondet buxhetore të miratuara, si dhe nga fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
 [6] Vendimi 25, datë 10.1.2025 botuar në F.Z nr. 6 datë 13.1.2025 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përballohen nga fondet e miratuara për secilin institucion dhe fillojnë: a) nga momenti i emërimit të nëpunësve/punonjësve për përcaktimet në shkronjat “a” dhe “b”, të pikës 1, të këtij vendimi; b) nga momenti i transferimit në pozicionet e reja të nëpunësve në ish-departamentin përgjegjës për aktet ligjore prioritare të Këshillit të Ministrave.”
+[7] Vendimi nr. 337, datë 16.09.2025 botuar në F.Z nr. 108, datë 23.06.2025 në pikën 2 të tij shprehet se: 2. “Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi për vitin 2025, përballohen nga buxheti i miratuar për Kryeministrinë për këtë vit dhe fillojnë nga momenti i emërimit të nëpunësve/punonjësve.”
