@@ -1,0 +1,1 @@
+6. Rregullorja për metodat e brendshme të punës dhe për sjelljen e personelit të Agjencisë dhe zyrave të administrimit të baseneve lumore miratohet nga Kryeministri, me propozim të drejtorit të përgjithshëm.
