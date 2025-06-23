@@ -21,7 +21,7 @@ xix) gjykatës së rrethit gjyqësor, Berat;
 xx) gjykatës së rrethit gjyqësor, Berat, “Qendra e ushtrimit të veprimtarisë gjyqësore, Skrapar”;
 xxi) gjykatës së rrethit gjyqësor, Fier;
 xxii) gjykatës së rrethit gjyqësor, Vlorë;
-xxiii) gjykatës së apelit, Vlorë;
+xxiii)[3] gjykatës së apelit, Vlorë;
 xxiv) gjykatës së rrethit gjyqësor, Elbasan;
 xxv) gjykatës së rrethit gjyqësor, Elbasan “Qendra e ushtrimit të veprimtarisë gjyqësore, Librazhd”;
 xxvi) gjykatës së rrethit gjyqësor, Elbasan “Qendra e ushtrimit të veprimtarisë gjyqësore, Gramsh”;
