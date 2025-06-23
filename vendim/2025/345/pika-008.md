@@ -1,0 +1,1 @@
+8. Vendimi nr. 485, datë 1.8.2023, i Këshillit të Ministrave, “Për ngarkimin e Fondit Shqiptar të Zhvillimit si autoritet kontraktor për realizimin e projektit të zonës multifunksionale përreth kompleksit të stadiumit ’Niko Dovana’ në Durrës, përfshirë stadiumin”, shfuqizohet.
