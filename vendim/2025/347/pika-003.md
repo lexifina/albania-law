@@ -1,0 +1,6 @@
+3. KDIMDHP-ja ka akses si administrator dhe përdorues në RENMDHP. Niveli i aksesimit, funksionet dhe të drejtat për secilën kategori konsultuesish dhe përdoruesish të sistemit, si dhe për punonjësit e KDIMDHP-së janë në përputhje me pozicionin e punës dhe përcaktohen në rregulloren “Për sigurinë e bazave të të dhënave shtetërore të krijuara në KDIMDHP”, miratuar nga Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale.
+VII. Të gjitha ndryshimet në arkitekturën software dhe hardware të RENMDHP-së në KDIMDHP, të cilat mund të ndodhin në varësi të nevojave të institucionit dhe praktikave evropiane e ndërkombëtare në fushën e mbrojtjes së të dhënave, bëhen në përputhje me legjislacionin në fuqi.
+VIII. “Regjistri elektronik i subjekteve kontrolluese” vijon të funksionojë si “Regjistri elektronik i nëpunësve të mbrojtjes së të dhënave personale”, në përputhje me këtë vendim, duke bërë ndryshimet përkatëse.
+IX. Vendimi nr. 144, datë 13.3.2018, i Këshillit të Ministrave, “Për krijimin e bazës së të dhënave shtetërore ’Regjistri elektronik i subjekteve kontrolluese’”, shfuqizohet.
+X. Ngarkohet Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

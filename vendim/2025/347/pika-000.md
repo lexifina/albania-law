@@ -1,0 +1,4 @@
+I. Krijimin, pranë institucionit të Komisionerit për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale (në vijim, KDIMDHP), e bazës së të dhënave shtetërore “Regjistri elektronik i nëpunësve të mbrojtjes së të dhënave personale” (në vijim, RENMDHP), përmbajtja e së cilës publikohet në faqen zyrtare të internetit të KDIMDHP-së.
+II. KDIMDHP-ja është përgjegjëse për krijimin, mbajtjen, administrimin, ndërveprimin me bazat e tjera dhe bërjen të disponueshëm të informacionit, në përmbajtje të bazës së të dhënave “Regjistri elektronik i nëpunësve të mbrojtjes së të dhënave personale”.
+III. RENMDHP-ja përmban të dhëna për nëpunësit e mbrojtjes së të dhënave personale (në vijim, NMDHP), caktuar nga kontrolluesit dhe përpunuesit.
+IV. Të dhënat që përmban RENMDHP-ja ndahen në të dhëna parësore dhe në të dhëna dytësore, si më poshtë:
