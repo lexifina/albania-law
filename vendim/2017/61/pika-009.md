@@ -1,3 +1,4 @@
 9. Marzhet e tregtimit me shumicë dhe pakicë në rrjetin e hapur farmaceutik, si dhe marzhet e tregtimit të rrjetit spitalor, përcaktohen çdo vit, bashkë me listën përkatëse vjetore.
 9.1. Lista e pajisjeve mjekësore (fisha diabeti), që do të rimbursohen nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, për pacientët e grup-moshës 0-25 vjeç dhe nga 65 vjeç e më shumë, si dhe invalidët e punës dhe personat me aftësi të kufizuar të grup-moshës 25-65 vjeç është sipas shtojcës nr. 1, që i bashkëlidhet këtij vendimi.
 9.2 Marzhet e tregtimit me shumicë dhe pakicë për listën e pajisjeve mjekësore (fisha diabeti) të rimbursueshme, sipas shtojcës bashkëlidhur, janë përkatësisht 5.5% dhe 13%.
+9.3 Paketat e trajtimit të stomës, që do të rimbursohen nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, janë sipas shtojcës nr. 2, që i bashkëlidhet këtij vendimi.
