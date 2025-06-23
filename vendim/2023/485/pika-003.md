@@ -1,1 +1,0 @@
-3. Fondi Shqiptar i Zhvillimit, Ministria e Arsimit dhe Sportit, Agjencia Kombëtare e Planifikimit të Territorit dhe Bashkia Durrës lidhin marrëveshje bashkëpunimi në funksion të zhvillimit të projektit të përcaktuar në pikën 1, të këtij vendimi.
