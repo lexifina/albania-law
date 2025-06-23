@@ -1,4 +1,0 @@
-6. Niveli i aksesit në sistemin dhe bazën e të dhënave të RESK-ut është si më poshtë vijon:
-a) Qytetarët (subjekte të të dhënave personale) kanë nivel aksesi si lexues dhe konsultues, lidhur me informacionin e vënë në dispozicion, nëpërmjet faqes së internetit të KDIMDP-së.
-b) Kontrolluesit publikë dhe privatë, të cilët përpunojnë të dhëna personale, kanë të njëjtin nivel aksesi si ai i parashikuar në shkronjën “a” të kësaj pike.
-c) KDIMDP-ja ka akses si administrator dhe përdorues në RESK. Niveli i aksesimit, funksionet dhe të drejtat për secilën kategori konsultuesish dhe përdoruesish të sistemit, si dhe për punonjësit e KDIMDP-së janë në përputhje me pozicionin e punës dhe përcaktohen në rregulloren “Për sigurinë e bazave të të dhënave shtetërore të krijuara në KDIMDP”, miratuar nga Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale.

@@ -1,1 +1,0 @@
-8. Të gjitha ndryshimet në arkitekturën software dhe hardware të RESK-ut në KDIMDP, të cilat mund të ndodhin në varësi të nevojave të institucionit dhe praktikave evropiane e ndërkombëtare në fushën mbrojtjes së të dhënave, bëhen në përputhje me legjislacionin në fuqi.

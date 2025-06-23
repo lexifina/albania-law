@@ -1,1 +1,0 @@
-1. Krijimin, në zyrën e Komisionerit për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale (në vijim “KDIMDP”), e bazës së të dhënave shtetërore “Regjistri elektronik i subjekteve kontrolluese” (në vijim “RESK”), përmbajtja e së cilës publikohet në faqen zyrtare të KDIMDP-së.

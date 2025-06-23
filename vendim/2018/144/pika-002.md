@@ -1,1 +1,0 @@
-2. KDIMDP-ja është përgjegjëse për krijimin, mbajtjen, administrimin, ndërveprimin me bazat e tjera dhe bërjen të disponueshëm të informacionit në përmbajtje të bazës së të dhënave “Regjistri elektronik i subjekteve kontrolluese”.
