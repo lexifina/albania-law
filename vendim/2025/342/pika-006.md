@@ -1,0 +1,1 @@
+6. Task-Forca, kur e vlerëson të nevojshme, fton në mbledhjet e saj ekspertë të jashtëm ose përfaqësues nga organizata, që mbulojnë fushën e institucioneve të përfshira, për çështje që janë jashtë profilit të saj dhe opinioni i tyre bëhet pjesë e vendimmarrjes.

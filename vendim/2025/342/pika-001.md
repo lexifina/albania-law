@@ -1,0 +1,1 @@
+1. Ngritjen e Task-Forcës për zbatimin e protokollit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Italiane, për forcimin e bashkëpunimit në fushën e migracionit, si dhe të marrëveshjes zbatuese të tij.

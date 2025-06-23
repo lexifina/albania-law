@@ -1,0 +1,1 @@
+12. Ngarkohen titullarët e institucioneve, të përmendura në pikën 3 të këtij vendimi, që brenda 10 (dhjetë) ditëve nga hyrja në fuqi e tij, të caktojnë dhe të dërgojnë pranë Ministrisë së Brendshme emrat e përfaqësuesve të tyre në këtë Task-Forcë, si dhe në sekretariatin teknik mbështetës, sipas shkronjave “c” e “ç”, të pikës 9.

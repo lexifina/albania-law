@@ -1,0 +1,5 @@
+4. Task-Forca ka si detyrë:
+a) të hartojë planin e veprimit, sipas fushave të përgjegjësive të institucioneve të përfshira, si një dokument i vetëm i miratuar;
+b) të evidentojë strukturat, përgjegjësitë dhe detyrimet, në rast të situatave të paparashikuara që lindin gjatë zbatimit të protokollit dhe të marrëveshjes zbatuese të tij;
+c) të garantojë mbështetjen e strukturave të angazhuara me burimet e nevojshme për përmbushjen e përgjegjësive të tyre, në zbatim të protokollit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Italiane, për forcimin e bashkëpunimit në fushën e migracionit, si dhe të marrëveshjes zbatuese të tij;
+ç) të trajtojë kërkesat dhe çështjet e përcjella nga Ambasada e Republikës së Italisë në Tiranë nëpërmjet Ministrisë për Evropën dhe Punët e Jashtme, që lidhen me zbatimin e protokollit dhe të marrëveshjes zbatuese, si dhe merr vendime, të cilat i përcillen për zbatim strukturave përkatëse, sipas fushës së tyre të përgjegjësisë.
