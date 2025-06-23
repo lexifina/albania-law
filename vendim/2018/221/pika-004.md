@@ -1,1 +1,0 @@
-4. Marrëdhëniet e punës së drejtorit të Përgjithshëm, nëpunësve të Agjencisë dhe të zyrave të administrimit të baseneve ujore rregullohen sipas dispozitave të legjislacionit për nëpunësin civil, ndërsa për punonjësit administrativë sipas dispozitave të Kodit të Punës.

@@ -1,1 +1,0 @@
-2. Misioni i Agjencisë është mirëqeverisja e burimeve ujore me qëllim përmbushjen e të gjitha nevojave jetësore, duke mbajtur në vëmendje qëndrueshmërinë e ekosistemeve, duke nxitur konkurrueshmërinë e përdorimeve dhe prioritizimin drejt përfitueshmërisë ekonomike.

@@ -1,1 +1,0 @@
-5. Struktura dhe organika e Agjencisë dhe zyrave të administrimit të baseneve ujore miratohen me urdhër të Kryeministrit sipas përcaktimeve në legjislacionin në fuqi për organizimin dhe funksionimin e administratës shtetërore.
