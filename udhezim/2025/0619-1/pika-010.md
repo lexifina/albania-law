@@ -1,0 +1,1 @@
+10. Kryetari i bashkisë ndërmerr të gjithë hapat e nevojshëm administrativë, në përputhje me legjislacionin në fuqi, për të përfshirë projektaktin për shpalljen e zonës zhvillimore dhe dokumentet shoqëruese në mbledhjen e radhës së këshillit bashkiak.

@@ -1,0 +1,1 @@
+14. Në rast se territori i bashkisë që synohet të shpallet zonë zhvillimi është objekt mosmarrëveshjeje midis bashkive kufitare, në lidhje me hartën e miratuar për territorin e bashkisë përkatëse dhe ndarjen administrativo-territoriale sipas legjislacionit në fuqi, territori nuk mund të shpallet zonë zhvillimi për atë bashki sipas këtij udhëzimi.

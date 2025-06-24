@@ -1,0 +1,1 @@
+22. Bashkia, menjëherë pas hyrjes në fuqi të këtij udhëzimi, organizon aktivitete ndërgjegjësuese dhe informative në forma të ndryshme, duke përfshirë edhe përdorimin e mjeteve të ndryshme të komunikimit për të rritur nivelin e informimit dhe ndërgjegjësimit të qytetarëve mbi përfitimet nga ky ligj.

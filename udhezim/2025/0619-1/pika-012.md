@@ -1,0 +1,9 @@
+12. Pas përfundimit të procedurës së parashikuar në pikën 10, të këtij udhëzimi, kryetari i bashkisë paraqet pranë ministrit përgjegjës për pushtetin vendor kërkesën për shpalljen e zonës zhvillimore në territorin e bashkisë. Kërkesës duhet t’i bashkëngjiten këto dokumente:
+a) Raporti përmbledhës mbi procedurën e ndjekur nga bashkia përkundrejt parashikimeve të këtij udhëzimi;
+b) Hartën e zonës së propozuar dhe, nëse propozohet shpallja e më shumë se një zone (për shembull territor i bashkisë ose pjesë malore e atij territori), hartën që pasqyron vendndodhjen e çdo zone brenda territorit të bashkisë;
+c) Konfirmimin se zona e zhvillimit e propozuar nuk përfshin territore që janë pjesë e mosmarrëveshjeve midis bashkive kufitare, në lidhje me hartën e miratuar për territorin e bashkisë përkatëse dhe ndarjen administrativo-territoriale, sipas legjislacionit në fuqi, si dhe se territori nuk është zonë e mbrojtur sipas legjislacionit në fuqi;
+ç) Vendimin e këshillit bashkiak, miratuar sipas pikës 9, të këtij udhëzimi;
+d) Dokumentin analizues mbi efektet e pritshme dhe se si shpallja e zonës së zhvillimit mund të kontribuojë në nxitjen dhe realizimin e potencialit për zhvillim ekonomik, industrial apo turistik të zonës.
+Në këtë analizë duhet të renditet, gjithashtu:
+i. niveli i pranisë së poseduesve jopronarë, duke specifikuar sipërfaqen në posedim;
+ii. vështirësitë e hasura në dhënien e akteve të zhvillimit të territorit (leje zhvillimi dhe ndërtimi) në raport me pjesën tjetër të territorit, si pasojë e mosrregullimit të marrëdhënieve juridike të pronësisë private mbi tokën. Analiza duhet të evidentojë nivelin e akteve të zhvillimit të territorit në këtë zonë përkundrejt zonave të tjera dhe se si mosrregullimi i marrëdhënieve juridike të pronësisë mbi tokën ka ndikuar në këtë zonë.

@@ -1,0 +1,1 @@
+17. Bashkia mund të iniciojë sërish procesin e identifikimit e të vlerësimit të zonës së zhvillimit, në përputhje me parashikimet e këtij udhëzimi, për atë zonë apo ndonjë zone tjetër brenda territorit.

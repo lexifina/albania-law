@@ -1,0 +1,1 @@
+16. Kërkesa e bashkisë kompetente për shpallje e zonës së zhvillimit që nuk përmbush kriteret ligjore dhe ato të parashikuara në këtë udhëzim, në lidhje me dokumentacionin që duhet të paraqitet dhe procedurën që duhet ndjekur, refuzohet. Vendimi i ministrit përgjegjës për refuzimin e kërkesës përmban arsyet e refuzimit.

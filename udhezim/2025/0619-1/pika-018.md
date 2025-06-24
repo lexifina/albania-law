@@ -1,0 +1,2 @@
+18. Bashkia publikon në faqen zyrtare të internetit vendimin e Këshillit të Ministrave për shpalljen e zonës së zhvillimit, si dhe të gjithë informacionin e nevojshëm në lidhje me procedurat përkatëse. Bashkia siguron informacionin e nevojshëm që do të vendoset në platformën digjitale të dedikuar për zbatimin e ligjit nr. 20/2025, “Për paketën e maleve”, në lidhje me ecurinë e zbatimit të ligjit në bashkinë përkatëse.
+IV. DISPOZITA TË FUNDIT
