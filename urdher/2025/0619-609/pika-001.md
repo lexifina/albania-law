@@ -1,0 +1,1 @@
+1. Ndalimin e importit dhe tranzitimit për në territorin e Republikës së Shqipërisë, të të gjitha kafshëve të gjalla të llojit dhen dhe dhi, materialit biologjik, leshit dhe lëkurës së kafshëve të llojit dhen dhe dhi nga i gjithë shteti i Rumanisë.
