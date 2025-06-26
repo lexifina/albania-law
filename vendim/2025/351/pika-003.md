@@ -1,0 +1,1 @@
+3. Të ardhurat e realizuara derdhen 100% në buxhetin e shtetit, në përputhje me vendimin nr. 432, datë 28.6.2006, të Këshillit të Ministrave, “Për krijimin dhe administrimin e të ardhurave, që krijohen nga institucionet buxhetore”.

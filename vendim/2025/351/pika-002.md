@@ -1,0 +1,1 @@
+2. Pagesa e tarifës së përcaktuar në pikën 1, të këtij vendimi, kryhet nga organet e vlerësimit të konformitetit për sigurinë kibernetike 1 (një) herë në vit, brenda 3-mujorit të parë të vitit pasardhës.
