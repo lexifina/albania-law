@@ -1,0 +1,1 @@
+2. Zbatimi i rregullave, sipas tekstit që i bashkëlidhet këtij vendimi, nuk cenon zbatimin e kërkesave, të miratuara me vendimin nr. 378, datë 5.6.2019, të Këshillit të Ministrave, “Për miratimin e rregullit teknik për pajisjet radio, njohjen e ndërsjellë të vlerësimit të konformitetit të tyre dhe përcaktimin e listës së standardeve të harmonizuara”, të ndryshuar.
