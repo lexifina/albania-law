@@ -1,0 +1,27 @@
+{
+  "qbz_id": 122115,
+  "title": "PËR INVESTIMET E HUAJA",
+  "type": "Ligj",
+  "number": "7764",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1993-11-02",
+  "version_no": 2,
+  "qbz_version_id": 10586,
+  "in_force": "2025-07-03",
+  "in_force_basis": "QBZ consolidated version 2 validFrom 2025-07-03",
+  "changed_by_qbz_id": 30738,
+  "changed_by_number": "56",
+  "changed_by_title": "Për një shtesë në ligjin nr. 7764, datë 2.11.1993, “Për investimet e huaja”, i ndryshuar”",
+  "source": "https://qbz.gov.al/files/271b5a7158c8f94669a4e19e2aba73cbc0ef58dd86b0d9f08baaaba55e6bffce.docx",
+  "source_sha256": "271b5a7158c8f94669a4e19e2aba73cbc0ef58dd86b0d9f08baaaba55e6bffce",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122115",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/122115/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
