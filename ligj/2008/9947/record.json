@@ -1,0 +1,27 @@
+{
+  "qbz_id": 67240,
+  "title": "PËR PRONËSINË INDUSTRIALE",
+  "type": "Ligj",
+  "number": "9947",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-07-07",
+  "version_no": 5,
+  "qbz_version_id": 5147,
+  "in_force": "2025-07-03",
+  "in_force_basis": "QBZ consolidated version 5 validFrom 2025-07-03",
+  "changed_by_qbz_id": 30850,
+  "changed_by_number": "53",
+  "changed_by_title": "Për patentat, modelet e përdorimit dhe certifikatat e mbrojtjes shtesë",
+  "source": "https://qbz.gov.al/files/c858e604692e9e575c149648a7ce8830bf014c402fc843868c7e9cd7bec7c45e.docx",
+  "source_sha256": "c858e604692e9e575c149648a7ce8830bf014c402fc843868c7e9cd7bec7c45e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/67240",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/67240/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
