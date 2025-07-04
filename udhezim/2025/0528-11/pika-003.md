@@ -1,0 +1,1 @@
+3. Udhëzimi nr. 5, datë 5.4.2024, “Për përcaktimin e kufirit financiar të vlerës së plotë të projektit në përputhje me specifikat e sektorit, mbi bazën e të cilit përcaktohet mënyra dhe procedura e vlerësimit të projektit të investimit publik”, shfuqizohet.

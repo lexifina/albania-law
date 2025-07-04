@@ -1,0 +1,1 @@
+2. Çdo propozim për projekt investimesh publike që ka një vlerë të plotë brenda kufijve financiarë të përcaktuara sipas lidhjes nr. 2, përpara fillimit të procesit buxhetor duhet të përgatisë studimin e fizibilitetit të thjeshtuar.
