@@ -1,0 +1,1 @@
+6. Informacioni për taksapaguesit i mbledhur, i regjistruar dhe i administruar në përputhje më këtë idhëzim, trajtohet sipas rregullave të përcaktuara në legjislacionin që rregullon procedurat tatimore dhe mbrojtjen e të dhënave personale në Shqipëri.

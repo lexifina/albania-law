@@ -1,0 +1,1 @@
+4. Në krijimin dhe mbajtjen e Regjistrit, NJVQV-të bashkëpunojnë me institucione dhe entitete të tjera publike dhe private. Ky bashkëpunim siguron që shkëmbimi i informacionit, në përputhje me marrëveshjet e lidhura, të realizohet duke ruajtur konfidencialitetin e të dhënave.

@@ -1,0 +1,1 @@
+5. NJVQV-të, sipas procedurave të brendshme të miratuara nga kryetari, janë përgjegjëse për përditësimin e vazhdueshëm të Regjistrit për të reflektuar ndryshimet ligjore, demografike e socio-ekonomike që kanë efekt në taksat e tarifat vendore.
