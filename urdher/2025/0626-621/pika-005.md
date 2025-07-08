@@ -1,1 +1,0 @@
-5. Autoriteti Kombëtar i Ushqimit dhe Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve të informojnë të gjitha subjektet importuese të kafshëve të gjalla të llojit ruminantë dhe spermën dhe embrionet e kafshëve të gjalla të llojit ruminantë, mishit dhe nënprodukteve të tyre për hyrjen në fuqi të këtij urdhri.
