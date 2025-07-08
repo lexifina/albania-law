@@ -1,1 +1,0 @@
-2. Ndalimin përkohshëm të tregtimit të kafshëve të gjalla të llojit dhen dhe dhi në tregjet e kafshëve të gjalla, mjedise të hapura, panaire dhe grumbullime të tjera në të gjithë territorin e Republikës së Shqipërisë.
