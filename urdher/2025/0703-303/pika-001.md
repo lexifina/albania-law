@@ -1,0 +1,1 @@
+1. Njoftimin e fillimit të procedurës së përzgjedhjes së anëtarit të Bordit të Administrimit, përfaqësues i ministrisë përgjegjëse për arsimin, në institucionet publike të arsimit të lartë, sipas shtojcës nr. 1, bashkëlidhur këtij urdhri dhe pjesë përbërëse e tij.
