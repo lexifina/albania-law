@@ -33,3 +33,22 @@ i. për të vlerësuar përputhshmërinë e vetëdeklarimeve me situatën reale 
 ii. në jo më pak se 10% të subjekteve përfituese, përfshirë kontrollin e të gjitha subjekteve me sipërfaqe mbi 10 (dhjetë) ha.
 2.2.7. Çdo subjekt, në rastet kur verifikohet se ka përfituar më shumë se 20% nga vlera për të cilën plotëson kriteret sipas nënndarjes “i”, të pikës 2.2.6, ose ka paraqitur dokumente të pasakta, përjashtohet 3 (tre) vjet nga e drejta e përfitimit prej masave mbështetëse për bujqësinë dhe zhvillimin rural, të financuara nga buxheti i shtetit.
 2.3. Mbështetje për investime në ferma, në zbatim të pikave 2.3 dhe 3/2, të vendimit nr. 130, datë 6.3.2024, të Këshillit të Ministrave, “Për përcaktimin e kritereve bazë të sektorëve që do të mbështeten dhe të masës së financimit nga fondi i programit për bujqësinë e zhvillimin rural, për vitin 2024”, të ndryshuar.
+Përfituesve të financimit nga masat e mbështetjes së investimeve pas lidhjes së kontratës u paguhet paraprakisht deri në 30% të masës së financimit të kontraktuar, kundrejt garancisë së pagesës së lëshuar nga shoqëri sigurimi dhe/ose banka.
+2.4. Mbështetje për investime për:
+a) ndërtimin e serrave diellore të reja për perime, luleshtrydhe dhe rrush tavoline, përfshirë edhe instalimin e sistemit të ujitjes, me sipërfaqe minimale 0.2 ha dhe sipërfaqe maksimale 2 ha.
+Masa e përfitimit të jetë në 50% të vlerës totale të faturave tatimore, por jo më shumë se:
+- 15 000 000 (pesëmbëdhjetë milionë) lekë/ha për serrat e prodhimit të perimeve;
+- 8 000 000 (tetë milionë) lekë/ha për serrat e prodhimit të rrushit për tavolinë;
+- 4 000 000 (katër milionë) lekë/ha për serrat (tunelet plastike) të prodhimit të luleshtrydheve.
+b) mbjelljet e reja të pemëve frutore, ullinjve, agrumeve dhe vreshtave. Financimi të bëhet për sipërfaqe jo më pak se 0,5 ha dhe jo më shumë se 10 ha. Masa e përfitimit të jetë në 50% të vlerës totale të faturave tatimore, por jo më shumë se 800 000 (tetëqind mijë) lekë/ha.
+Përfitojnë pagesë shtesë fermerët që instalojnë sistemet e ujitjes me pika.
+Masa e përfitimit të jetë në 50% të vlerës totale të faturave tatimore, por jo më shumë se 250 000 (dyqind e pesëdhjetë mijë) lekë/ha.
+c) rrjeta për mbrojtjen e prodhimit nga breshëri në blloqet ekzistuese me pemë frutore, agrume dhe vreshta. Masa e përfitimit të jetë në 50% të vlerës totale të faturave tatimore, por jo më shumë se 1 500 000 (një milion e pesëqind mijë) lekë/ha. Financimi të bëhet për sipërfaqe jo më pak se 1 (një) ha dhe jo më shumë se 5 (pesë) ha.
+ç) sistemet e ujitjes me pika në pemëtore, ullishte, agrume dhe vreshta ekzistuese. Masa e përfitimit të jetë në 50% të vlerës totale të faturave tatimore, por jo më shumë se 250 000 (dyqind e pesëdhjetë mijë) lekë/ha. Financimi të bëhet për sipërfaqe jo më pak se 1 (një) ha dhe jo më shumë se 10 ha.
+d) ndërtimin e ambienteve të reja për mbarështimin e kafshëve dhe të stabilimenteve për rritjen e shpendëve, përfshirë pajisjet/sistemet e nevojshme, me kapacitet jo më pak se 10 (dhjetë) lopë, jo më pak se 100 (njëqind) të imëta, jo më pak se 10 (dhjetë) dosa dhe jo më pak se 10 000 (dhjetë mijë) shpendë.
+Masa e përfitimit të jetë në 50% të vlerës totale të faturave tatimore, por jo më shumë se 15 000 000 (pesëmbëdhjetë milionë) lekë për subjekt.
+dh) mekanizimin dhe modernizimin e proceseve të punës në fermat bujqësore e blegtorale. Masa e përfitimit të jetë në 50% të vlerës totale të faturave tatimore, por jo më shumë se 5 000 000 (pesë milionë) lekë për subjekt.
+e) linja/makineri/pajisje për përpunimin, seleksionimin, paketimin dhe etiketimin e perimeve, frutave, rrushit dhe verës, ullirit dhe vajit të ullirit në 50% të vlerës totale të faturave tatimore, por jo më shumë se 7 500 000 (shtatë milionë e pesëqind mijë) lekë për subjekt.
+ë) investime në agroturizëm me një masë përfitimi në 50% të vlerës totale të faturave tatimore, por jo më shumë 15 000 000 lekë (pesëmbëdhjetë milionë) për subjekt.
+f) akuakulturën detare për koshat e rritjes së peshkut (vetëm për koshat dhe rrjetat). Masa e përfitimit të jetë në 50% të vlerës totale të faturave tatimore, por jo më shumë se 15 000 000 (pesëmbëdhjetë milionë) lekë për subjekt.
+Fondi total për mbështetje për investime të jetë në vlerën 2 (dy) miliardë lekë dhe të përdoret për vitin 2025 deri në 537,8 milionë lekë të akorduara në programin buxhetor 04250, “Zhvillimi rural duke mbështetur prodhimin bujqësor, blegtoral, agroindustrinë dhe marketingun”, në shpenzime korrente, duke vijuar plotësimin e vlerës së plotë në buxhetin e vitit 2026, si pjesë e PBA-së 2026-2028.
