@@ -1,0 +1,1 @@
+Miratimin e aktit normativ, me fuqinë e ligjit, nr. 4, datë 7.5.2025, “Për një shtesë në ligjin nr. 8668, datë 23.10.2000, ’Për pajisjen e shtetasve shqiptarë me pasaportë për jashtë shtetit’”, i ndryshuar.
