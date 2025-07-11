@@ -1,0 +1,1 @@
+3. Autoriteti Kombëtar i Ushqimit dhe Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve të informojnë të gjitha subjektet importuese të kafshëve të llojit derra, produkteve dhe nënprodukteve të tyre, materialit biologjik, embrioneve, mishit dhe nënprodukteve të tyre për hyrjen në fuqi të këtij urdhri.
