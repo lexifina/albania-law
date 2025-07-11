@@ -1,0 +1,1 @@
+1. Caktimin e zëvendësdrejtorit të përgjithshëm të Agjencisë së Mbikëqyrjes Policore, z. Artjol Saliasi, për ushtrimin e kompetencave dhe detyrave të drejtorit të përgjithshëm të Agjencisë së Mbikëqyrjes Policore.
