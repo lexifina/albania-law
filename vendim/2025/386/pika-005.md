@@ -1,0 +1,1 @@
+5. Shoqëria “KAYO” sh.a., siguron nga pala tjetër, gjatë negociatave, se, përpos parashikimeve të tjera, objekti i aktivitetit të shoqërisë tregtare, që do të krijohet, do të përmbajë prodhimin dhe tregtimin e municioneve për Forcat e Armatosura, si dhe municionet për përdorim nga strukturat e tjera të sigurisë.
