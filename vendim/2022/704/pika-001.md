@@ -1,1 +1,0 @@
-1. Dërgimin me mision të një toge, të përbërë nga 30 (tridhjetë) ushtarakë të Forcave të Armatosura të Republikës së Shqipërisë, në operacionin e prezencës dhe vigjilencës së përforcuar (eVA), drejtuar nga NATO-ja, në Bullgari.

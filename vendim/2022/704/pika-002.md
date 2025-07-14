@@ -1,1 +1,0 @@
-2. Misioni i personelit të Forcave të Armatosura të Republikës së Shqipërisë është kryerja e detyrave në mbështetje të grup-batalionit shumëkombësh për sigurinë e kufirit lindor të Aleancës, në zonën e caktuar të përgjegjësisë.
