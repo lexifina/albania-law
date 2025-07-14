@@ -272,37 +272,9 @@ Vlorë
 Konfirmuar nga ASHK-ja
 Hipotekohet në favor të Societe General Albania.
 17
-Latif Reshat Totaj dhe Nadire Yzeir Totaj
-8604
-32/589
-Truall
-67
-239
-437
-Vlorë
-95
-6,899.00
-655,405.00
--
-655,405.00
-Konfirmuar nga ASHK-ja
-Bashkim pasurie pas vendimit për miratimin e kërkesës për kalimin në pronësi të oborrit në përdorim nr. 280, datë 19.11.2021 dhe objektit 57 m2 të regjistruar me nr. pasurie 32/16-ND, vol. 59, faqe 149.
+Shiko tabelën bashkëlidhur
 18
-Latif Reshat Totaj
-8604
-32/16-ND
-Ndërtesë
-59
-149
-57
-Vlorë
--
-57
-52,296.00
-2,980,872.00
-2,980,872.00
-Konfirmuar nga ASHK-ja Vlorë
-Sipas origjinës së pronës së konfirmuar nga ASHK-ja dhe vëzhgimit nëe terren objekti është banese. Kjo pasuri ngrihet mbi pasurinë 32/16-T, vol. 59, faqe 148. Mungon marrëdhënia me truallin. Në lidhje me truallin pasuria 32/16-T, vol. 59 faqe 148, ju sqarojmë se: trualli preket nga vija e shpronësimit të projektit, por gjendje juridike nga ASHK, figuron pronar i pavërtetuar, ndaj nuk është vendosur në tabelë.
+Shiko tabelën bashkëlidhur
 19
 BP Muhameti
 8604
@@ -464,40 +436,9 @@ Vlorë
 Konfirmuar nga ASHK-ja
 Në kartelën e konfimruar nga ASHK nuk ka truall të privatizuar.
 28
-Armida, Esmeralda, Lefter dhe Thomaidha Bifsha
-8604
-32/134+1-9
-Apartament
+Shiko tabelën bashkëlidhur
 29
-51
-53.12
-33.72
-Vlorë
-53
-6,899.00
-366,474.88
-33.72
-52,296.00
-1,763,421.12
-2,129,896.00
-Konfirmuar nga ASHK-ja
-Në kartelën e konfirmuar nga ASHK-ja ka 53 m2 truall të privatizuar.
-29
-Shpresa, Lonard,Alfred,Elisabeta Xhako dhe Gentiana Rapo
-8604
-32/134+1-10
-Apartament
-22
-189
-50
-Vlorë
--
-50
-52,296.00
-2,614,800.00
-2,614,800.00
-Konfirmuar nga ASHK-ja
-Në kartelën e konfimruar nga ASHK-ja nuk ka truall të privatizuar.
+Shiko tabelën bashkëlidhur
 30
 Gezim Lako
 8604
@@ -710,22 +651,7 @@ Vlorë
 1,572,972.00
 Konfirmuar nga ASHK-ja
 43
-Jaho Avdulla Dano
-8604
-32/208-ND
-Ndërtesë
-21
-121
-20
-Vlorë
-6,899.00
--
-20
-52,296.00
-1,045,920.00
-1,045,920.00
-Konfirmuar nga ASHK-ja
-Ngrihet mbi pasurinë nr. 32/208. Kufizim veprimesh. Sqarojmë se trualli me nr. pasurie 32/208, preket nga vija e shpronësimit, por nuk është vendosur në tabelë, pasi gjendja juridike e truallit me nr. pasurie 32/208, konfirmuar nga ASHK-ja është pronar i pavërtetuar.
+Shiko tabelën bashkëlidhur
 44
 Dhimitra Zotaj, Monika Petromilo, Ballkeze Gjiriti, Arta Shehu, Gezim Gjiriti, Luljeta Zuna, Merita Gjiriti, Kujtim Gjiriti, Naile Zaloshnja, Nexhmije Osmani, Avdul Skenderaj, Qanie Asllani, Luan Hasanbelliu, Vangjeli Skenderaj, Denisa Rakipaj
 8604
@@ -846,3 +772,187 @@ Vlorë
 Konfirmuar nga ASHK-ja
 Vlera totale e shpronësimit
 182,020,370.86
+LISTA EMËRORE E PRONARËVE TË PASURIVE TË PALUAJTSHME PRONË PRIVATE QË SHPRONËSOHEN PËR INTERES PUBLIK, NGA REALIZIMI I PROJEKTIT “LIDHJA E RRUGËS TRANSBALLKANIKE ME PORTIN DETAR”, VLORË
+(ndryshimet dhe shtesat e parashikuara me VKM nr. 379, datë 10.7.2025)
+NR.
+Pronari
+ZK
+Nr. i pasurisë
+Lloji i pasurisë
+Volum
+Faqe
+Truall m2
+Ndërtesë m2
+Adresa
+Sipërfaqe trualli për shpronësim
+Çmimi i truallit lekë/m²
+Vlera e truallit lekë
+Sipërfaqe ndërtimi për shpronësim
+Çmimi i ndërtimit lekë/m²
+Vlera e ndërtimit lekë
+Vlera e truallit dhe ndërtesës
+Shënime
+17
+Latif Reshat Totaj
+8604
+32/589
+Truall
+67
+239
+437
+57
+Vlorë
+95
+6,899.00
+655,405.00
+57
+52,296.00
+2,980,872.00
+3,636,277.00
+Nadire Yzeir Totaj
+28
+Armida Bifsha
+8604
+32/134+1-9/1
+Apartament
+29
+51
+53.12
+33.72
+Vlorë
+53
+6,899.00
+366,474.88
+33.72
+52,296.00
+1,763,421.12
+2,129,896.00
+Esmeralda Bifsha
+Lefter Bifsha
+Thomaidha Bifsha
+29
+Shpresë Ali Xhako
+8604
+32/134+1-10
+Apartament
+22
+189
+50
+Vlorë
+27
+6,899.00
+186,273.00
+50
+52,296.00
+2,614,800.00
+2,801,073.00
+Lonard Bashkim Xhako
+Alfred Bashkim Xhako
+Elisabeta Bashkim Xhako
+Gentiana Bashkim Rapo
+43
+Jaho Avdulla Dano
+8604
+32/208/1
+Truall
+73
+13
+39
+19
+Vlorë
+39
+6,899.00
+269,061.00
+19
+52,296.00
+993,624.00
+1,262,685.00
+Vera Ferik Dano
+51
+Agim Safet Mustafarai
+8604
+32/20/ND
+Ndërtesë
+72
+244
+41
+Vlorë
+-
+41
+52,296.00
+2,144,136.00
+2,144,136.00
+Medine Ali Mustafarai
+52
+Fatmir Xhemil Sulejmeni
+8604
+32/638/3
+Truall
+72
+210
+78
+100
+Vlorë
+78
+6,899.00
+538,122.00
+100
+52,296.00
+5,229,600.00
+5,767,722.00
+53
+Mimoza Nuri Çelaj
+8604
+32/641
+Truall
+73
+27
+294
+103
+Vlorë
+294
+6,899.00
+2,028,306.00
+103
+52,296.00
+5,386,488.00
+7,414,794.00
+54
+Izet Qazim Zeraj
+8604
+32/603
+Truall
+70
+65
+25
+25
+Vlorë
+1.68
+6,899.00
+11,590.32
+25
+52,296.00
+1,307,400.00
+1,318,990.32
+Violeta Muhamet Zeraj
+55
+Izet Qazim Zeraj
+8604
+32/134+1-7
+Apartament
+18
+95
+40.1
+33.6
+Vlorë
+0.70
+6,899.00
+4,829.30
+33.6
+52,296.00
+1,757,145.60
+1,761,974.90
+Violeta Muhamet Zeraj
+Robert Izet Zeraj
+Vlera totale shtesë e shpronësimit
+18,810,655.22
