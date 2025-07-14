@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të drejtorit të përgjithshëm vetëm për nënshkrimin dhe shpërndarjen e akteve, të cilat hyjnë në protokollin e AZHT-së, te znj. Alisa Basha, me pozicion drejtor i Drejtorisë Juridike dhe Shqyrtimit të Aplikimeve.
