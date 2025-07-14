@@ -1,1 +1,0 @@
-2. Anëtari madhor i familjes, i cili kërkon të regjistrojë ose të ndryshojë vendbanimin, më parë duhet të kryejë procedurën e veçimit, si familje më vete në rrugë elektronike (on-line), përmes paraqitjes së kërkesës nëpërmjet portalit qeveritar “e-Albania”, përveç rasteve të përcaktuara në pikën 4, të këtij vendimi.

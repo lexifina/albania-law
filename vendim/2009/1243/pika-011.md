@@ -1,1 +1,0 @@
-11. Nëpunësi i zyrës së gjendjes civile, pas marrjes së dokumentacionit e të kërkesës nga shtetasit dhe nga institucionet që e kanë këtë detyrim ligjor, bën ndryshimin e adresës së shtetasit në Regjistrin Kombëtar të Gjendjes Civile, sipas rregullave dhe procedurave të përcaktuara me urdhër të ministrit, që mbulon gjendjen civile.

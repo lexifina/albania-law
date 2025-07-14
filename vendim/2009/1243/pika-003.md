@@ -1,2 +1,0 @@
-3. Shtetasi, i cili kërkon të bashkohet në një familje, paraqet kërkesën në rrugë elektronike (on-line) nëpërmjet portalit qeveritar “e-Albania”, duke depozituar në portal konfirmimin e të gjithë anëtarëve madhorë të familjes pritëse, duke pasur në konsideratë standardet e banimit, të miratuara nga legjislacioni në fuqi.
-II.VEPRIMET QË KRYHEN NGA INSTITUCIONET SHTETËRORE, DOKUMENTACIONI I NEVOJSHËM DHE AFATET E KOMUNIKIMIT

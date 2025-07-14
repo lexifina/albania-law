@@ -1,1 +1,0 @@
-5. Lista emërore e hartuar nga institucionet e parashikuara në pikën 4, të këtij vendimi, duhet të përmbajë emrin, mbiemrin dhe numrin personal. Kjo listë i dërgohet zyrës së gjendjes civile përkatëse nëpërmjet sistemit të qarkullimit të dokumenteve me nënshkrim elektronik.

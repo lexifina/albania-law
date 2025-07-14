@@ -1,1 +1,0 @@
-7. Institucionet, shtetërore dhe arsimore, për shtetasit, të cilët për arsye pune/arsimimi, ndryshojnë vendbanimin, brenda 5 ditëve nga data e marrjes së dokumentacionit nga këta shtetas, në përputhje me kërkesat e ligjit për gjendjen civile, e dërgojnë listën në zyrën e gjendjes civile përkatëse.

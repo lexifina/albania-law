@@ -1,2 +1,0 @@
-1. Shtetasit me banim në territorin e Republikës së Shqipërisë kryejnë regjistrimin ose ndryshimin e vendbanimit të tyre në rrugë elektronike (on-line), nëpërmjet paraqitjes së kërkesës në portalin qeveritar “e-Albania”, duke depozituar dokumentin e pronësisë së banesës, kontratën e qiramarrjes, huadhënies, përdorimit ose çdo dokument tjetër të ligjshëm që provon vendbanimin.
-Dokumentet e ngarkuara në portalin qeveritar “e-Albania” nga shtetasi, që provojnë regjistrimin ose ndryshimin e vendbanimit të ri, ruhen në arkivin elektronik të Regjistrit Kombëtar të Gjendjes Civile.
