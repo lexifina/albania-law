@@ -1,0 +1,1 @@
+12. Me ndryshimin e vendbanimit të shtetasve, nga zyrat e gjendjes civile në bashki/njësi administrative kryhen përditësimet e përbërësve të tjerë të gjendjes civile, si elementet e adresës së vendbanimit dhe numri i votimit.

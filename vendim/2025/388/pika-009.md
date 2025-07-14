@@ -1,0 +1,1 @@
+9. Kur përfundon qëndrimi i shtetasve në një nga institucionet e përcaktuara në pikën 8 të këtij vendimi, institucioni përkatës njofton zyrën e gjendjes civile, që ka në juridiksion territorial lidhur me këtë fakt, brenda 5 (pesë) ditëve.

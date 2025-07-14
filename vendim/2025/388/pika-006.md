@@ -1,0 +1,1 @@
+6. Të gjithë anëtarët e një familjeje duhet të kenë të njëjtën adresë vendbanimi, që plotëson të gjitha elementet e adresës, sipas dispozitave të parashikuara nga legjislacioni për sistemin e adresave në Republikën e Shqipërisë.

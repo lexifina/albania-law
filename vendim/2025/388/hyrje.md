@@ -1,0 +1,5 @@
+VENDIM
+Nr. 388, datë 10.7.2025
+PËR PËRCAKTIMIN E MËNYRËS SË PARAQITJES SË KËRKESËS, TË DOKUMENTACIONIT TË NEVOJSHËM, TË RREGULLAVE PËR DEKLARIMIN DHE NDRYSHIMIN E VENDBANIMIT OSE TË VENDQËNDRIMIT TË SHTETASVE, SI DHE PËR SHTETASIT NË INSTITUCIONET SHËNDETËSORE DHE NË INSTITUCIONET E EKZEKUTIMIT TË VENDIMEVE PENALE
+Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 7, të nenit 14, të ligjit nr. 10129, datë 11.5.2009, “Për gjendjen civile”, të ndryshuar, me propozimin e ministrit të Brendshëm, Këshilli i Ministrave
+VENDOSI:

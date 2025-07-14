@@ -1,0 +1,1 @@
+16. Drejtoria e Përgjithshme e Policisë së Shtetit apo zyra që mbulon shtetësinë dhe refugjatët njofton shërbimin e gjendjes civile për çdo akt që krijon, shuan apo ndryshon të drejta lidhur me vendqëndrimin e shtetasve të huaj me leje qëndrimi, të shtetasve të huaj që kanë fituar statusin e refugjatit ose të mbrojtjes plotësuese, si dhe të personave pa shtetësi.

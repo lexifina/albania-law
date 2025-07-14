@@ -1,0 +1,1 @@
+2. Shtetasi, i cili kërkon të banojë në një familje ekzistuese, paraqet kërkesën në rrugë elektronike (on-line), nëpërmjet portalit qeveritar “e-Albania”. Kjo kërkesë duhet të konfirmohet nga kryefamiljari i familjes pritëse në portalin qeveritar “e-Albania”, duke respektuar standardet e banimit, të miratuara nga legjislacioni në fuqi.

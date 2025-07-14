@@ -1,0 +1,1 @@
+17. Nëpunësi i zyrës së gjendjes civile, pas marrjes së dokumentacionit dhe të kërkesës nga shtetasit apo nga institucionet që e kanë këtë detyrim ligjor, bën deklarimin ose ndryshimin e adresës së shtetasit të huaj në Regjistrin Kombëtar të Gjendjes civile, sipas rregullave të përcaktuara nga legjislacioni në fuqi për të huajt.

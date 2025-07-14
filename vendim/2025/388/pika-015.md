@@ -1,0 +1,1 @@
+15. Zyrat e gjendjes civile në bashki/njësi administrative, kur konstatojnë element të pasaktë të adresës, që mund të rregullohet prej tyre, e saktësojnë këtë element kryesisht, pa qenë nevoja për aplikim nga ana e shtetasit.

@@ -1,0 +1,1 @@
+18. Vendimi nr. 1243, datë 11.12.2009, i Këshillit të Ministrave, “Për përcaktimin e dokumenteve, që duhen të paraqesin shtetasit, e të procedurave që duhet të kryejnë zyrat e gjendjes civile, në bashki/njësi administrative dhe institucionet shtetërore të posaçme, për ndryshimet e vendbanimit/adresës së shtetasve”, të ndryshuar, shfuqizohet.
