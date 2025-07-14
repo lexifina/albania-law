@@ -1,0 +1,1 @@
+8. Vendimi nr. 704, datë 4.11.2022, i Këshillit të Ministrave, “Për pjesëmarrjen e personelit të Forcave të Armatosura të Republikës së Shqipërisë në operacionin e prezencës dhe vigjilencës së përforcuar (eVA), drejtuar nga NATO-ja, në Bullgari”, i ndryshuar, shfuqizohet.

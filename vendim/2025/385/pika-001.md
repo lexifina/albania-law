@@ -1,0 +1,1 @@
+1. Dërgimin me mision të një toge, të përbërë nga 30 (tridhjetë) ushtarakë të Forcave të Armatosura të Republikës së Shqipërisë, në operacionin e Forcës së Përparuar Tokësore (Forward Land Force), drejtuar nga NATO-ja, në Novo Selo, Bullgari.

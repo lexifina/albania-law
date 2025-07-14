@@ -1,0 +1,1 @@
+4. Kohëzgjatja e këtij misioni është deri më 31.12.2028, me sistem rotacioni. Periudha e rotacionit, për çdo togë, është 180 (njëqind e tetëdhjetë) ditë, së cilës i shtohen edhe ditët e qëndrimit për ndërrimin me togën e radhës.
