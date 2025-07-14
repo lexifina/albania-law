@@ -1,17 +1,18 @@
 # Shtojca
-Tabela 1. Lista e projekteve
-|Nr. |Institucioni përfitues |Emërtimi i projektit |Vlera e plotë e |Financimi |Financimi |Financimi |
-| | | |projektit |për vitin |për vitin |për vitin |
-| | | |(në lekë) |2024 |2025 |2026 |
+Tabela 1. ’’Lista e projekteve’’
+|Nr. |Institucioni përfitues |Emërtimi i projektit | Vlera e plotë e | Financimi | | |
+| | | |projektit |për vitin |Financimi |Financimi |
+| | | |(në lekë) |2024 |për vitin |për vitin |
+| | | | | |2025 |2026 |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
 |1 |Bashkia Fier | | | | | |
 | | | | | | | |
 |2 |Bashkia Shkodër | | | | | |
-| | |Vepra e marrjes Spathar KU-10 |51,853,884 | 15,000,000|16,000,000 |20,853,884 |
+| | |Vepra e marrjes Spathar KU-10 |31,248,170 | 15,000,000 | 16,248,170 | |
 | | |Vukatanë-Kuç | | | | |
-| | |KU-32-33 Berdice |44,539,557 | 19,000,000|22,073,730 | 3,465,827 |
+| | |KU-32-33 Bërdicë |28,189,218 | 2,005,680 | 22,073,730 | 4,109,808 |
 | | | | | | | |
 |3 |Bashkia Finiq | | | | | |
 | | | | | | | |
@@ -26,13 +27,16 @@ Tabela 1. Lista e projekteve
 |8 |Bashkia Lezhë | | | | | |
 | | | | | | | |
 |9 |Bashkia Vlorë | | | | | |
-| | |Mirëmbajtje kanali ujitës Tragjas-Rradhimë dhe |15,328,547 |8,000,000 | 7,328,547 | |
-| | |vepra arti | | | | |
-| | |Rehabilitimi i kanalit Kallafet dhe Babicë, |28,593,993 | 10,000,000|18,593,993 | |
-| | |Vlorë (skema ujitëse VL-9 dega majtas dhe | | | | |
-| | |djathtas) | | | | |
-| | |Riparim saraçineske dhe vepra arti të |6,863,735 |6,863,735 | | |
-| | |rezervuarët Bestrove, Panaja dhe Kaninë | | | | |
+| | |Mirëmbajtje kanali ujitës |13,126,053 | 8,000,000 | 5,126,053 | |
+| | |Tragjas-Rradhimë dhe vepra arti | | | | |
+| | |Rehabilitimi i kanalit Kallafet dhe |20,152,119 | - | 10,000,000 | 10,152,119 |
+| | |Babicë, Vlorë (skema ujitëse VL-9 dega| | | | |
+| | |majtas dhe djathtas) | | | | |
+| | |Riparim saraçineske dhe vepra arti të |5,551,320 | 5,551,320 | | |
+| | |rezervuarët Bestrovë, Panaja dhe | | | | |
+| | |Kaninë | | | | |
+| | |Rikonstruksioni i hidrovorit të |169,452,660 | | 37,199,549 | 132,253,111 |
+| | |qytetit të Vlorës | | | | |
 | | | | | | | |
 |10 |Bashkia Malësi e Madhe | | | | | |
 | | | | | | | |
@@ -41,35 +45,36 @@ Tabela 1. Lista e projekteve
 |12 |Bashkia Klos | | | | | |
 | | | | | | | |
 |13 |Bashkia Konispol | | | | | |
-| | |Ndërtimi i linjës së çelikut për vaditjen e |40,096,583 |9,000,000 |13,000,000 |18,096,583 |
-| | |tokave të Markatit | | | | |
+| | |Ndërtimi i linjës së çelikut për |38,462,997 | 9,000,000 | 13,000,000 | 16,462,997 |
+| | |vaditjen e tokave të Markatit | | | | |
 | | | | | | | |
 |15 |Bashkia Divjakë | | | | | |
-| | |Prita nivelngritëse në kanalin kullues kryesor |1,672,756 |1,672,756 | | |
+| | |Prita nivelngritëse në kanalin kullues|1,286,602 | - | 1,286,602 | |
+| | |kryesor | | | | |
 | | |K 3-4 Bedat | | | | |
 | | | | | | | |
 |16 |Bashkia Lushnje | | | | | |
 | | | | | | | |
 |17 |Bashkia Tropojë | | | | | |
-| | |Rehabilitimi i ujëmbledhësit Visoce |1,927,181 |1,927,181 | | |
-| | |Rehabilitimi i ujëmbledhësit Vlad |4,099,180 |4,099,180 | | |
-| | |Rehabilitimi i ujëmbledhësit Radogosh |4,211,100 |4,211,100 | | |
+| | |Rehabilitimi i ujëmbledhësit Visoçë |1,777,460 |0 | 1,777,460 | |
+| | |Rehabilitimi i ujëmbledhësit Vlad |3,128,237 |0 | 3,128,237 | |
+| | |Rehabilitimi i ujëmbledhësit Radogosh |3,420,926 |2,506,152 | 914,774 | |
 | | | | | | | |
 |18 |Bashkia Elbasan | | | | | |
 | | | | | | | |
 |19 |Bashkia Roskovec | | | | | |
 | | | | | | | |
 |20 |Bashkia Himarë | | | | | |
-| | |Rehabilitimi i kanalit ujitës të tokave |35,163,689 |8,000,000 |11,000,000 |16,163,689 |
-| | |bujqësore të fshatit Kuç | | | | |
+| | |Rehabilitimi i kanalit ujitës të |33,411,147 | - | 10,000,000 | 23,411,147 |
+| | |tokave bujqësore të fshatit Kuç | | | | |
 | | | | | | | |
 |21 |Bashkia Librazhd | | | | | |
 | | | | | | | |
 |22 |Bashkia Pogradec | | | | | |
-| | |Rikonstruksion kanali ujitës rezervuari i |14,762,968 | 14,762,968| | |
-| | |Pusis-Gjollet Leshnicë | | | | |
+| | |Rikonstruksion kanali ujitës |10,005,625 | 8,738,400 | 1,267,225 | |
+| | |rezervuari i Pusis-Gjollet Leshnicë | | | | |
 | | | | | | | |
-|23 |Bashkia Përrenjas | | | | | |
+|23 |Bashkia Prrenjas | | | | | |
 | | | | | | | |
 |24 |Bashkia Bulqizë | | | | | |
 | | | | | | | |
@@ -78,7 +83,11 @@ Tabela 1. Lista e projekteve
 |26 |Bashkia Libohovë | | | | | |
 | | | | | | | |
 |27 |Bashkia Delvinë | | | | | |
+| | |Rehabilitimi i kanalit vaditës të | 39,999,893 | | 39,999,893 | |
+| | |Trushes Vergo-Delvinë (pjesa e dytë) | | | | |
 | | | | | | | |
 |28 |Bashkia Poliçan | | | | | |
 | | | | | | | |
 |29 |Bashkia Memaliaj | | | | | |
+| | | | | | | |
+|30 |Bashkia Tiranë | | | | | |
