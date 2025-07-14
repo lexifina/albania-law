@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese, me shkëmbim letrash, të marrëveshjes së huas, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Fondit Saudit për Zhvillim, për projektin e rehabilitimit dhe ndërtimit të objekteve në afërsi të rrugës bregdetare (Vlorë-Orikum), ratifikuar me ligjin nr. 83/2021, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
