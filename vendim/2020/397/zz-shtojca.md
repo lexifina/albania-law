@@ -180,3 +180,61 @@ Seksioni D: Mbi këtë truall pozicionohen ndërtesat me nr. 9/612/nd., vol 24, 
 Mbyllet me nr. rendor 1
 TOTALI
 62,764,102.00
+LISTA EMËRORE PËRFUNDIMTARE PËR PASURINË E PALUAJTSHME PRONË PRIVATE, QË PREKET NGA DISA SHTESA DHE NDRYSHIME NË VKM-në NR. 397, DATË 13.5.2020, ’PËR SHPRONËSIMIN PËR INTERES PUBLIK TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA PROJEKTI ’NDËRTIMI I SEGMENTIT RRUGOR UNAZA LINDORE LOTI 3’, TIRANË”, I NDRYSHUAR
+Nr.
+Emri
+Atësia
+Mbiemri
+ZK
+Nr. i pasurisë
+Lloji i pasurisë
+Sip. totale m2
+ARË
+TRUALL
+BANESË
+NDËRTESË
+VLERA
+TOTALE
+(lekë)
+SHËNIME
+Sip. m2
+Çmimi l/m2
+Vlera lekë/m2
+Sip.
+(m2)
+Çmimi
+(lekë/m2)
+Vlera
+(lekë)
+Sip.Ndërt.
+konf.
+ZVRPP
+(m2)
+Çmimi mes.
+sh/blerjeve
+sipas ZVRPP-së
+(l/m2)
+Vlera
+(lekë)
+Sip. m2
+Çmimi
+Vlera (sipas preventivit)
+1
+NAIM
+FERID
+HOXHA
+8170
+10/243
+TRUALL
+140.7
+140.7
+32878
+4625934.6
+45.1
+86400
+3896640
+8,522,574.60
+VLERA TOTALE
+4,625,935.00
+3896640
+8,522,574.60

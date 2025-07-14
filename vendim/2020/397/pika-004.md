@@ -1,5 +1,6 @@
-4. Vlera e përgjithshme e shpronësimit prej 1 231 857 207.57 (një miliard e dyqind e tridhjetë e një milion e tetëqind e pesëdhjetë e shtatë mijë e dyqind e shtatë pikë pesëdhjetë e shtatë) lekësh të përballohet:
+4. Vlera e përgjithshme e shpronësimit prej 1 240 379 782.17 (një miliard e dyqind e dyzet milionë e treqind e shtatëdhjetë e nëntë mijë e shtatëqind e tetëdhjetë e dy pikë shtatëmbëdhjetë) lekë të përballohet:
 - 959 423 147.57 (nëntëqind e pesëdhjetë e nëntë milionë e katërqind e njëzet e tre mijë e njëqind e dyzet e shtatë pikë pesëdhjetë e shtatë) lekë, nga buxheti i miratuar për Ministrinë e Infrastrukturës dhe Energjisë, për vitet 2020-2021;
 - 111 393 560 (njëqind e njëmbëdhjetë milionë e treqind e nëntëdhjetë e tre mijë e pesëqind e gjashtëdhjetë) lekë, nga buxheti i miratuar për Autoritetin Rrugor Shqiptar.
 - 161 040 500 (njëqind e gjashtëdhjetë e një milionë e dyzet mijë e pesëqind) lekë, nga buxheti i miratuar në programin e “Transportit rrugor” në Ministrinë e Infrastrukturës dhe Energjisë, për vitin buxhetor 2021.
 4/1. Vlera shtesë prej 62 764 102 (gjashtëdhjetë e dy milionë e shtatëqind e gjashtëdhjetë e katër mijë e njëqind e dy) lekësh të përballohet nga Autoriteti Rrugor Shqiptar.
+4/2. Vlera shtesë, prej 8 522 574.60 (tetë milionë e pesëqind e njëzet e dy mijë e pesëqind e shtatëdhjetë e katër pikë gjashtëdhjetë) lekësh, përballohet nga buxheti i shtetit, llogaria “Fondi i shpronësimeve”, në Bankën e Shqipërisë.
