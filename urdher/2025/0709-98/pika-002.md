@@ -1,0 +1,1 @@
+2. Në bazë të pikës 1 të këtij urdhri, drejtori i përgjithshëm i Agjencisë Shtetërore për Shpronësimin, në çdo autorizim përcakton kohën e zgjatjes së shërbimit, qëllimin e tij dhe çdo të dhënë tjetër të nevojshme.

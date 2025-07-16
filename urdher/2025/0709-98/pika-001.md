@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Infrastrukturës dhe Energjisë, drejtorit të përgjithshëm të Agjencisë Shtetërore për Shpronësimin, z. Kastriot Gurra, për të autorizuar dërgimin me shërbim të punonjësve të Agjencisë Shtetërore për Shpronësimin jashtë qendrës së punës, brenda vendit, me largësi mbi 100 km.
