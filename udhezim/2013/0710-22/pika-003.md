@@ -1,0 +1,1 @@
+3. Për entet publike jobuxhetore dhe ndërmarrjet shtetërore/shoqëritë tregtare me kapital mbi 50 për qind shtetëror, titullar urdhërues, në kuptim të këtij udhëzimi është administratori/ drejtuesi, i cili raporton në institucionin e tij drejtues periodikisht për këto shpenzime, si pjesë e raportimit periodik të treguesve ekonomiko-financiar të entitetit.
