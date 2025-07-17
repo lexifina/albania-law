@@ -4,6 +4,10 @@ Nr. 94, datë 28.4.2025
 
 MBI LICENCIMIN E SHOQËRISË “SOLAR HORIZON” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE, NGA CENTRALI FOTOVOLTAIK, ME KAPACITET PRODHUES 2 MW
 
+(ndryshuar me vendimin nr. 158, datë 17.7.2025)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16 dhe 37, pika 2, germa “a”, 38, pika 1, germa “a”, 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 15 të Rregullores për organizimin, funksionimin dhe procedurat e ERE-s, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 28.4.2025, mbasi shqyrtoi relacionin me nr. 1329/9 prot., datë 25.4.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘Solar Horizon’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -50,7 +54,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Solar Horizon” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet prodhues 2 mw, me vendndodhje në zonën kadastrale nr. 3358, Njësia Administrative Topojë, Bashkia Fier, qarku Fier, për një afat 30-vjeçar.
 
-2. Shoqëria duhet të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike, brenda datës 30.6.2025.
+2. Shoqëria duhet të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 5.11.2025.
 
 3. Me fillimin e operimit, por jo më vonë se 60 (gjashtëdhjetë) ditë nga data e fillimit të operimit, shoqëria duhet të dokumentojë në ERE testimin e veprës dhe të përditësojë informacionin mbi strukturën organizative të saj, e cila duhet të përmbajë stafin teknik sipas veprimtarisë së licencuar. 
 
