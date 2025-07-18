@@ -1,0 +1,1 @@
+2. Ndihmesa financiare konsiston në mbulimin e kostos fillestare të themelimit të subjektit të kompetencave të përbashkëta dhe të jo më pak se 50% të kostove operacionale të funksionimit të saj për tri vitet e para të funksionimit për përmbushjen e objektivave.

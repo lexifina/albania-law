@@ -1,0 +1,5 @@
+VENDIM
+Nr. 405, datë 16.7.2025
+PËR AUTORIZIMIN E MINISTRIT PËRGJEGJËS PËR ÇËSHTJET VENDORE PËR NEGOCIIMIN DHE NËNSHKRIMIN E MARRËVESHJES ME NJËSITË E VETËQEVERISJES VENDORE PËR KRIJIMIN E PERSONIT JURIDIK SI SUBJEKT I KOMPETENCAVE TË PËRBASHKËTA ME VETËQEVERISJEN VENDORE PËR RRITJEN E KAPACITETEVE TË QEVERISJES VENDORE TË REPUBLIKËS SË SHQIPËRISË
+Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 5, të nenit 14, të ligjit nr. 139/2015, “Për vetëqeverisjen vendore”, të ndryshuar, me propozimin e ministrit të Shtetit për Pushtetin Vendor, Këshilli i Ministrave
+VENDOSI:
