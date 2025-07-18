@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja e financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, dhe Komisionit Evropian për programin operacional shumëvjeçar për energjinë, në favor të Republikës së Shqipërisë, për periudhën 2024-2027, në kuadër të Instrumentit të Asistencës së Paraanëtarësimit (IPA III), sipas tekstit që i bashkëlidhet këtij ligji.
