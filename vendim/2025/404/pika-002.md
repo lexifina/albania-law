@@ -1,0 +1,1 @@
+2. Indeksi i përcaktuar sipas pikës 1, të këtij vendimi, aplikohet për llogaritjen e bazës së vlerësuar individuale vjetore, të arritur nëpërmjet kontributeve të paguara dhe rivlerësimeve të tyre, të kryera deri në vitin 2023, dhe zbatohet për efekt të llogaritjes së masës fillestare mujore të pensioneve, me datë lindjeje të së drejtës nga data 1.1.2025 e në vazhdim.
