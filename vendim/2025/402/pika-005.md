@@ -1,0 +1,1 @@
+5. Pas shqyrtimit të kërkesës për nevojën e mbrojtjes së personalitetit apo të banesës së tij, komisioni merr vendim brenda 48 (dyzet e tetë) orëve. Vendimi u njoftohet ministrit të Brendshëm dhe personalitetit të rrezikuar.
