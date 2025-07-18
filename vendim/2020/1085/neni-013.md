@@ -7,8 +7,8 @@ Llogaritja e vlerës së projektit dhe e vlerës limit të kontratës
 5. Në rastet e kontratave të mallrave dhe shërbimeve, përmes qirasë, vlera limit e kontratës llogaritet, duke përfshirë qiranë apo këstin mujor, shumëzuar me numrin e muajve, gjatë të cilave do të zgjasë kontrata.
 6. Në përllogaritjen e vlerës limit të kontratës, autoriteti kontraktor duhet të ketë parasysh:
 a) krahasueshmërinë me çmimet e kontratave të mëparshme, të realizuara nga vetë autoriteti kontraktor dhe strukturat vartëse të tij;
-b) çmimet e kontratave aktuale, të realizuara nga ministritë homologe dhe strukturat e tyre të varësisë të vendeve anëtare të NATO-s, agjenci të NATO-s, për mallra dhe shërbime të tilla apo të ngjashme;
-c) deklarimet në faqet zyrtare të NATO-s, të vendeve anëtare të NATO-s, agjenci të NATO-s ose të subjekteve që operojnë me këto vende;
-ç) koston dhe disponueshmërinë e ministrive homologe, strukturave vartëse të tyre, agjenci të NATO-s dhe/ose subjekteve e operatorëve ekonomikë vendës ose të huaj, që operojnë me to, të ofruara prej tyre.
+b) çmimet e kontratave aktuale, të realizuara nga ministritë homologe dhe strukturat e tyre të varësisë të vendeve anëtare të NATO-s, agjenci të NATO-s ose vende partnere të Republikës së Shqipërisë dhe/ose të NATO-s ose agjenci të tyre për mallra dhe shërbime të tilla apo të ngjashme;
+c) deklarimet në faqet zyrtare të NATO-s, të vendeve anëtare të NATO-s, agjenci të NATO-s ose vende partnere të Republikës së Shqipërisë dhe/ose të NATO-s ose agjenci të tyre ose të subjekteve që operojnë me këto vende;
+ç) koston dhe disponueshmërinë e ministrive homologe, strukturave vartëse të tyre, agjenci të NATO-s ose vende partnere të Republikës së Shqipërisë dhe/ose të NATO-s ose agjenci të tyre dhe/ose subjekteve e operatorëve ekonomikë vendës ose të huaj, që operojnë me to, të ofruara prej tyre.
 7. Çmimet merren në formë krahasimore ose si një mesatare e ofertave të mbledhura, duke bërë llogaritjet e nevojshme në përshtatshmëri me objektin e prokurimit.
 8. Analiza e kostos bëhet në bazë të konceptit kosto-efektivitet.
