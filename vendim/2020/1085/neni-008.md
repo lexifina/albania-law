@@ -8,5 +8,5 @@ Grupi i punës për hartimin e projektit
 6. Grupi i punës ka dhe detyrimin e përgjegjësinë e përcaktimit të:
 a) procedurës së prokurimit, bazuar në përgjigjet e ardhura nga kërkesat e dërguara për çmim dhe disponueshmëri;
 b) rekomandimit për fazat dhe lotet, bazuar në fondet e vëna në dispozicion;
-c) mënyrës së implementimit të projektit;
+c) mënyrës së implementimit të projektit duke iu përmbajtur dhe përditësuar specifikimet teknike, parashikuar në kërkesën operacionale;
 ç) vlerës së projektit, duke përfshirë këtu edhe taksat e aplikueshme, në veçanti, tatimin mbi vlerën e shtuar.

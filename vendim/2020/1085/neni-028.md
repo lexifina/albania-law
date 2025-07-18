@@ -25,7 +25,7 @@ e) kërkon sqarime nga ofertuesi, nëse e gjykon të nevojshme. Komunikimi kryhe
 ë) nëse e gjykon të nevojshme, kryen për kontrata komplekse testimin e mallit ose shërbimit, por duke e njoftuar paraprakisht ofertuesin. Në rast se ofertuesi nuk pranon testimin, oferta e tij skualifikohet. Koha e testimit negociohet me ofertuesin dhe nuk mund të fillojë para dorëzimit të ofertës dhe duhet të përfundojë para shpalljes së fituesit;
 f) merr vendim për ofertën e paraqitur dhe ia komunikon ofertuesit, jo më vonë se 20 (njëzet) ditë nga data e dorëzimit të ofertës;
 g) shtyn kohën e vlerësimit të ofertës, në rast se afati i caktuar nuk është i mjaftueshëm për marrjen e një vendimi. Afati i ri i njoftohet ofertuesit.
-5. Në procedurën “shtet me shtet”, nëpërmjet dhënies së autorizimit një vendi anëtar të NATO-s ose agjencie të NATO-s, për të kryer procedurat e prokurimit, autoriteti kontraktor ndjek këta hapa:
+5. Në procedurën “shtet me shtet”, nëpërmjet dhënies së autorizimit një vendi anëtar të NATO-s ose agjencie të NATO-s ose vend partner i Republikës së Shqipërisë dhe/ose të NATO-s ose agjenci e tij, për të kryer procedurat e prokurimit, autoriteti kontraktor ndjek këta hapa:
 a) kërkesën operacionale;
 b) negocion marrëveshjeve teknike ose kërkesën e veçantë për prokurim, ku duhet të përfshihen minimalisht:
 i. palët;

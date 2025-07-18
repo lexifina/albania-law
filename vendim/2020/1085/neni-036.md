@@ -30,3 +30,4 @@ gj) Drejtori i Drejtorisë së Planifikimit dhe Monitorimit të
 Mbrojtjes J-5/8 në Shtabin e Përgjithshëm të Forcave të Armatosura
 (anëtar).
 2. Në rast se nuk ka funksionar të emëruar në pozicionin e anëtarit, atëherë përfaqësimi do të kryhet nga zëvendësi i tij.
+3. Anëtarët e KVK-së asistohen në veprimtarinë e tyre në kuadër të këtij komisioni nga specialistë sipas fushave përkatëse.

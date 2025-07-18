@@ -1,10 +1,11 @@
 # Neni 31
 Procedura e shqyrtimit të ankesave
 1. Çdo operator ekonomik, pjesëmarrës në një procedurë prokurimi që rrezikohet të dëmtohet nga një vendim i autoritetit kontraktor, mund ta kundërshtojë këtë vendim.
-2. Ankesat, si për dokumentet e tenderit, ashtu edhe për vendimet e komisionit të vlerësimit të ofertave, duhet të dorëzohen pranë autoritetit kontraktor, brenda 5 (pesë) ditëve punë nga data kur ankimuesi është vënë në dijeni të dokumenteve ose vendimmarrjes që konteston.
+2. Ankesat, si për dokumentet e tenderit, ashtu edhe për vendimet e komisionit të vlerësimit të ofertave, duhet të dorëzohen pranë autoritetit kontraktor, brenda 10 (dhjetë) ditëve kalendarike nga dita e nesërme e punës kur ankimuesi është vënë në dijeni të dokumenteve ose vendimmarrjes që konteston.
 3. Ankimuesi përdor formularin e ankesës, pjesë e dokumenteve të tenderit, që përmban emrin dhe adresën e ankimuesit, objektin e procedurës konkrete, bazën ligjore, si dhe një përshkrim të shkeljes së pretenduar.
 4. Me marrjen e ankesës me shkrim nga ankimuesi, titullari i autoritetit kontraktor urdhëron njësinë e prokurimit dhe komisionin e vlerësimit të ofertave të pezullojnë vazhdimin e procedurës, derisa ankesa të shqyrtohet plotësisht.
 5. Titullari i autoritetit kontraktor ia ngarkon çështjen një komisioni të përbërë nga 3 (tre) persona, ku të paktën njëri është ekspert i fushës për të shqyrtuar ankesën dhe për të dhënë një vendim. Përjashtimisht, në rast të mungesës së personelit, titullari i autoritetit kontraktor ia ngarkon çështjen për shqyrtim 1 (një) zyrtari të vetëm, i cili duhet të jetë ekspert fushe. Komisioni/zyrtari i ngarkuar është përgjegjës për shqyrtimin e ankesës dhe marrjen e vendimit lidhur me të.
+5.1. Anëtarët e komisionit/zyrtari i ngarkuar nuk duhet të kenë marrë pjesë në marrjen e vendimit, për të cilin është paraqitur ankesa.
 6. Njësia e prokurimit mbledh të gjithë informacionin e nevojshëm për të shqyrtuar ankesën dhe për të ndihmuar komisionin/zyrtarin e ngarkuar për shqyrtimin e saj.
 Në rast se ankimi lidhet me dokumentet e tenderit, titullari mund t’ia ngarkojë shqyrtimin e ankesës komisionit të vlerësimit të ofertës.
 7. Vendimi për ankesën duhet të merret brenda 10 (dhjetë) ditëve punë nga marrja e saj.

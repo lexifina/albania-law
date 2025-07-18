@@ -4,3 +4,4 @@ Autoriteti kontraktor, në përcaktimin e fituesve të kontratave për mallra dh
 1. Procedura konkurruese;
 2. Procedura me negocim të drejtpërdrejtë;
 3. Procedura “shtet me shtet”.
+4. Dialogu negociues.
