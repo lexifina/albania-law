@@ -1,0 +1,1 @@
+1. Miratimin e përshkrimeve dhe të specifikimeve teknike të urdhrave dhe medaljeve, si dhe të certifikatave e letrave njoftuese për dorëzimin e tyre, sipas lidhjeve 1, 2, 3 dhe 4, që i bashkëlidhen këtij vendimi.
