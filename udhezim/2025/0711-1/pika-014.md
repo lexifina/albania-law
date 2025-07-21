@@ -1,0 +1,1 @@
+14. Gjendja e fondit të prokuruar dhe të papërdorur nga bashkitë në fund të vitit buxhetor trashëgohet në vitin buxhetor pasardhës dhe përdoret për të njëjtat projekte/produkte për të cilin është prokuruar.

@@ -1,0 +1,1 @@
+9. Pas marrjes së vendimit nga KB-ja, bashkitë i dërgojnë ministrisë përgjegjëse për financat vendimin e KB për përcaktimin e destinacionit/qëllimit të përdorimit të këtij fondi, duke kërkuar çeljen e kodit të produktit/projektit për të cilin do përdoret ky fond.

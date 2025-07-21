@@ -1,0 +1,1 @@
+5. Pas përfundimit të afatit të parashikuar në pikën 4 më sipër, brenda 2 ditëve, KVA-ja miraton vlerësimin përfundimtar të aplikimit për çdo bashki, dhe në vijim “AMVV” shpall tabelën përfundimtare të rezultateve të GBP-së, e bën atë publike në faqen zyrtare të internetit dhe njofton menjëherë bashkitë me shkrim.

@@ -1,0 +1,1 @@
+6. Vendimet e KVA-së për vlerësimin përfundimtar të aplikimit për çdo bashki dhe tabela përmbledhëse e shpallur nga AMVV-ja i përcillen nga drejtori i përgjithshëm i AMVV-së Ministrisë së Financave, së bashku me listën për shpërndarjen e fondeve të grantit të performancës për çdo bashki.
