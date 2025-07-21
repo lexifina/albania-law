@@ -16,8 +16,12 @@ n) “kafshë gëzofi” do të thotë kafshët e specieve të gjitarëve që mb
 o) “depopullimi” do të thotë procesi i vrasjes së kafshëve për arsye të shëndetit publik, shëndetit të kafshëve, të mirëqenies së kafshëve apo për arsye mjedisore, nën mbikëqyrjen e Drejtorisë së Shërbimit Veterinar;
 p) “shpendë” do të thotë shpendë të mbarështuar, duke përfshirë shpendët që nuk konsiderohen shpendë shtëpiakë, por mbarështohen si kafshët shtëpiake, me përjashtim të ratitëve;
 q) “fiksimi” do të thotë aplikimin për një kafshë të çdo procedure të projektuar për të kufizuar lëvizjet e saj duke kursyer çdo dhimbje të shmangshme, frikë ose shqetësim, në mënyrë që të lehtësohet trullosja dhe vrasja;
-r) “metoda me stilet” nënkupton gërvishtjen e indit nervor qendror dhe palcës kurrizore me anë të një instrumenti në formë shufre të zgjatur që futet në zgavrën e kafkës.
-s) “elektro-shok” nënkupton vrasjen e kafshëve nëpërmjet shokut elektrik.
+r) “metoda me stilet” nënkupton gërvishtjen e indit nervor qendror dhe palcës kurrizore me anë të një instrumenti në formë shufre të zgjatur që futet në zgavrën e kafkës;
+s) “elektro-shok” nënkupton vrasjen e kafshëve nëpërmjet shokut elektrik;
+sh) “Autoritet kompetent” nënkupton:
+i. Autoriteti kompetent qendror ose autoritetet kompetente për organizimin e kontrolleve zyrtare dhe aktiviteteve të tjera zyrtare, në përputhje me legjislacionin në fuqi për kontrollet zyrtare;
+ii. çdo institucion tjetër të cilit i është dhënë kjo përgjegjësi;
+iii. autoritetet kompetente të shteteve të tjera.
 II. Kërkesa të përgjithshme
 1. Gjatë vrasjes së kafshëve ose kryerjes së operacioneve të ngjashme duhet të evitohet çdo dhimbje, ankth apo vuajte e shmangshme.
 2. Për qëllime të pikës 1 të këtij kreu, operatorët e biznesit duhet, në veçanti, të marrin masat e nevojshme për t’u siguruar që kafshët:

@@ -122,7 +122,7 @@ Koha minimale e ekspozimit për çdo kafshë.
 Zhytja e shpendëve deri në bazën e krahëve.
 Koha maksimale trullosje-çgjaksim/ therje për frekuencë mbi 50 Hz (s)
 Pika 6
-Tabela 3 - Metodat e gazit
+Tabela 3 - Metodat atmosferike të kontrolluara
 Nr.
 Emri
 Përshkrimi
@@ -201,6 +201,12 @@ Kohëzgjatja e ekspozimit.
 Temperatura e gazit.
 Filtrimi i gazit të prodhuar nga motori
 Pika 9
+7
+Trullosje me presion të ulët atmosferik
+Ekspozimi i kafshëve të vetëdijshme ndaj dekompresionit gradual me reduktimin e oksigjenit të disponueshëm në më pak se 5%.
+Pulat për mish deri në 4 kg peshë e gjallë.
+Ekspozimi i kafshëve të vetëdijshme ndaj dekompresionit gradual me reduktimin e oksigjenit të disponueshëm në më pak se 5%.
+Pulat për mish deri në 4 kg peshë e gjallë.
 Tabela 4 - Metoda të tjera
 Nr.
 Emri
@@ -292,6 +298,12 @@ b) ka qenë filtruar mjaftueshëm;
 c) nuk ka asnjë komponent ngacmues ose gaz irritues.
 Motori do të testohet çdo vit para se të kryhet vrasja e kafshëve.
 9.5 Kafshët nuk duhet të vendosen në dhomën derisa të jetë arritur përqendrimi minimal i monoksidit të karbonit.
+10. Trullosja me presion të ulët atmosferik
+10.1 Gjatë fazës së parë, shpejtësia e uljes së presionit atmosferik nuk duhet të kalojë një ulje të presionit nga niveli standard i presionit atmosferik në nivelin e detit nga 760 Torr në 250 Torr, për një periudhë jo më të shkurtër se 50 sekonda.
+10.2 Gjatë fazës së dytë, duhet të arrihet një presion minimal standard në nivelin e detit prej 160 Torr brenda 210 sekondave të mëvonshme.
+10.3 Kurba e presionit në funksion të kohës duhet të rregullohet për të siguruar që të gjitha shpendët të jenë trullosur në mënyrë të pakthyeshme brenda ciklit të kohës.
+10.4 Dhoma duhet të testohet për rrjedhje dhe matësit e presionit duhet të kalibrohen para çdo seance veprimtarie dhe jo më rrallë se një herë në ditë.
+10.5 Duhet të mbahen të dhëna për presionin absolut të vakumit, kohën e ekspozimit, temperaturën dhe lagështinë për të paktën një vit.
 ANEKSI II
 PLANIMETRIA, NDËRTIMI DHE PAJISJET E THERTOREVE
 1. Të gjitha strukturat për vendqëndrimet para therjes
@@ -336,6 +348,9 @@ b) parandaluar dëmtimet ose traumat në kafshë;
 c) minimizuar rezistencën dhe klithmat në momentin kur kafshët do të fiksohen.
 6.2 Mjetet e trullosjes me gaz të jetë e pajisur me mekanizma për të matur dhe regjistruar vazhdimisht përqendrimin e gazit dhe kohën e ekspozimit, dhe për të dhënë një sinjal të qartë të dukshëm dhe të dëgjueshëm nëse përqendrimi i gazit bie nën nivelin e kërkuar. Pajisja të vendosen në mënyrë që të jetë e dukshme qartë për personelin. të dhënat duhet të mbahen për të paktën një vit.
 6.3 Mjetet e trullosjes me gaz të jenë të projektuara në mënyrë që, edhe gjatë punës në kapacitetin maksimal të lejuar, kafshët të pranë e pranë pa u bërë pirg mbi njëri-tjetrin.
+7. Trullosja me presion të ulët atmosferik.
+7.1 Pajisjet për trullosjen me presion të ulët atmosferik do të dizenjohen dhe ndërtohen për të siguruar një vakum të dhomës që mundëson dekompresimin të ngadaltë dhe gradual me uljen e oksigjenit të disponueshëm dhe mbajtjen e presionit minimal.
+7.2 Sistemi duhet të jetë i pajisur për të matur vazhdimisht, shfaqur dhe regjistruar presionin absolut të vakumit, kohën e ekspozimit, temperaturën, lagështinë dhe për të dhënë një paralajmërim të qartë vizual dhe të dëgjueshëm nëse presioni devijon nga nivelet e kërkuara. Pajisja duhet të jetë e dukshme për stafin.
 ANEKSI III
 RREGULLAT E PUNËS NË THERTOREVE
 1. Mbërritja, lëvizja dhe trajtimi i kafshëve
