@@ -1,0 +1,6 @@
+# Neni 13
+Kriteret për rishikimin e nevojës për vazhdimin e ruajtjes së të dhënave
+Në përcaktimin e nevojës për vazhdimin e ruajtjes së të dhënave personale, duhet të merren parasysh kriteret e mëposhtme:
+a) mosha e subjektit të të dhënave, duke i kushtuar një vëmendje të veçantë të miturve dhe personave të moshuar;
+b) dënimet e shlyera, në rastin kur një person ka përfunduar dënimin e tij/saj me heqje lirie dhe ndërkohë periudha e parë e rishikimit ka kaluar, të dhënat e tij/saj personale duhet të fshihen, përveç rasteve kur ka prova se të dhënat janë të nevojshme për hetime të tjera në vazhdim. Në rastin e të dhënave sensitive, ato duhet të fshihen, përveç rasteve kur është e domosdoshme që ato të ruhen për shkak të hetimeve të tjera në vazhdim;
+c) vendimet gjyqësore, veçanërisht vendimet për pafajësi që lidhen me vepra të caktuara penale, ku i gjithë informacioni mbi çështjet duhet të fshihet, përveç rasteve kur ka prova se të dhënat janë të nevojshme për hetime të tjera në vazhdim. Në rastin e përpunimit të të dhënave sensitive, ato duhet të fshihen, me përjashtim të rasteve kur është e domosdoshme që ato të ruhen për shkak të hetimeve të tjera në vazhdim. Të njëjtat kritere mund të zbatohen në rastet e amnistisë ose rehabilitimit.
