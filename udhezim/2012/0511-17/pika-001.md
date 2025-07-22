@@ -1,1 +1,0 @@
-1. Të dhënat personale të përpunuara për një apo disa qëllime të caktuara nuk mbahen për një afat më të gjatë sesa është e nevojshme për arritjen e këtij apo këtyre qëllimeve. Ky është parimi në të cilin duhet të bazohet puna e policisë për sa i përket kohës së mbajtjes së të dhënave personale nga ana e saj.
