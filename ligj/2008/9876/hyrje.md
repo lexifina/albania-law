@@ -1,9 +1,0 @@
-LIGJ
-Nr.9876, datë 14.2.2008
-PËR PRODHIMIN, TRANSPORTIMIN DHE TREGTIMIN E
-BIOKARBURANTEVE DHE TË LËNDËVE TË TJERA DJEGËSE,
-TË RINOVUESHME, PËR TRANSPORT
-Në mbështetje të neneve 78 e 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:
