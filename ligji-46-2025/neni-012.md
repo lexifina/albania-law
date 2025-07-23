@@ -1,0 +1,6 @@
+# Neni 12
+Inspektorati shtetëror përgjegjës
+1. Organi shtetëror, i specializuar për kontrollin e veprimtarisë së ushtruar nga personat juridikë, në përputhje me dispozitat këtij ligji, me përjashtim të strukturës përgjegjëse për verifikimin e kritereve të qëndrueshmërisë dhe reduktimit të emetimeve të gazeve serrë për biokarburantet, sipas neneve 6 dhe 7 të këtij ligji, është inspektorati shtetëror përgjegjës, në varësi të ministrit përgjegjës për energjinë.
+2. Inspektorati shtetëror përgjegjës funksionon sipas dispozitave të ligjit nr. 8450, datë 24.2.1999, “Për përpunimin, transportimin dhe tregtimin e naftës, të gazit dhe nënprodukteve të tyre”, i ndryshuar.
+3. Inspektorati shtetëror përgjegjës shkëmben informacion me strukturat doganore e tatimore në momentin e prodhimit ose importimit, përpara hedhjes së produkteve në treg.
+4. Inspektorati shtetëror përgjegjës organizon dhe ushtron kontroll mbi personat juridikë, që i nënshtrohen këtij ligji, lidhur me respektimin e dispozitave ligjore sipas këtij ligji, për kontrollin e treguesve cilësorë për parandalimin e abuzimeve e të falsifikimeve, sipas parashikimit të ligjit nr. 8450, datë 24.2.1999, “Për përpunimin, transportimin dhe tregtimin e naftës, të gazit dhe nënprodukteve të tyre”, i ndryshuar.

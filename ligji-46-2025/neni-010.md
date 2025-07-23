@@ -1,0 +1,5 @@
+# Neni 10
+Përgatitja për tregtimin e biokarburanteve dhe të lëndëve të tjera djegëse, të rinovueshme
+1. Ruajtja, magazinimi dhe transportimi i biokarburanteve dhe i lëndëve të tjera djegëse, të rinovueshme, realizohen në depozita ose impiante magazinimi dhe transportimi të përshtatshme për këto lloj produktesh, të cilat plotësojnë kushtet e parametrat teknikë dhe të sigurisë, në përputhje me dispozitat ligjore në fuqi.
+2. Përzierja e biokarburanteve dhe e lëndëve të tjera djegëse, të rinovueshme, me produktet përkatëse, të përfituara nga distilimi i naftës bruto, realizohet vetëm në instalimet e posaçme, të miratuara nga inspektorati shtetëror përgjegjës, në përputhje me dispozitat ligjore në fuqi.
+3. Impiantet ku realizohet përzierja e biokarburanteve dhe e lëndëve të tjera djegëse, të rinovueshme, me produktet përkatëse të nënproduketeve të hidrokarbureve, të përfituara nga distilimi i naftës bruto, duhet të jenë të licencuara si magazina fiskale, doganore ose zona të lira, të pajisura me autorizim, sipas përcaktimeve të ligjit nr. 61/2012, “Për akcizat në Republikën e Shqipërisë”, dhe të ligjit nr. 102/2014 “Kodi Doganor i Republikës së Shqipërisë”.
