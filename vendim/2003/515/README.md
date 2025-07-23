@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 515, datë 18.7.2003](https://qbz.gov.al/api/v1/acts/18741); [QBZ versions](https://qbz.gov.al/api/v1/acts/18741/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2025-04-17; after QBZ act 30229 (nr. 217).
+Status of this text: `official consolidated version 2`, applying from 2025-07-23; after QBZ act 30813 (nr. 412).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
