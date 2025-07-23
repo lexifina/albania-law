@@ -1,0 +1,1 @@
+1. Përcaktimin e masës së sanksioneve administrative të parashikuara në pikat 1, 2 dhe 3, të nenit 94 të ligjit, të bazuar në një vlerësim specifik të kryer rast pas rasti sipas tekstit të “Metodologjisë për përllogaritjen e masës së sanksioneve administrative”, bashkëlidhur këtij udhëzimi.
