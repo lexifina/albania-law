@@ -1,0 +1,7 @@
+# Neni 23
+Raporte për vlerësimin e sistemeve të ngrohjes, sistemeve të ventilimit dhe sistemeve të ajrit të kondicionuar
+1. Pas çdo vlerësimi të sistemit të ngrohjes, sistemit të ventilimit ose sistemit të ajrit të kondicionuar nga ekspertët e certifikuar sipas shkronjës “b” të pikës 3 të nenit 24 të këtij ligji, do të lëshohet një raport. Raporti i vlerësimit duhet të përmbajë rezultatin e vlerësimit të kryer në përputhje me nenin 22 të këtij ligji, dhe të përfshijë rekomandime për përmirësimin me kosto efektive të performancës energjetike të sistemit.
+2. Këto rekomandime mund të bazohen në një krahasim të performancës energjetike të sistemit të vlerësuar me atë të sistemit më të mirë të mundshëm të disponueshëm, duke përdorur teknologji të kursimit të energjisë dhe një sistem të llojit të ngjashëm për të cilin të gjithë komponentët përkatës arrijnë nivelin e performancës energjetike, sipas kërkesave të ligjit në fuqi. Rekomandimet, sipas rastit, do të përfshijnë rezultatet nga vlerësimi bazë i zbatueshmërisë për të reduktuar përdorimin në vend të lëndëve djegëse fosile.
+3. Raporti i vlerësimit duhet të tregojë çdo çështje sigurie që është zbuluar gjatë inspektimit. Megjithatë, autori i raportit nuk do të konsiderohet si përgjegjës në lidhje me zbulimin ose treguesin e ndonjë çështjeje të tillë sigurie.
+4. Raporti i vlerësimit i dorëzohet pronarit ose qiramarrësit të ndërtesës ose njësisë së ndërtesës.
+5. Raporti i vlerësimit do të ngarkohet në bazën kombëtare të të dhënave për performancën energjetike të ndërtesave sipas nenit 29 të këtij ligji.
