@@ -1,0 +1,1 @@
+2. Pavarësisht delegimit të kompetencave sipas këtij urdhri, drejtori i Drejtorisë së Vlerësimit të Riskut dhe Menaxhimit të Sistemeve nëse e vlerëson të nevojshme, mund t’i përcjellë për nënshkrim drejtorit të përgjithshëm shkresat të cilat përbëjnë një rëndësi të veçantë.
