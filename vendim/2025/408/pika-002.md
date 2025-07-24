@@ -1,0 +1,1 @@
+2. Funksionet inspektuese të Agjencisë Kombëtare të Arsimit Parauniversitar dhe të Agjencisë Kombëtare të Bregdetit transferohen në inspektoratet e reja qendrore, që do të krijohen sipas fushave të inspektimit, që mbulojnë ministritë përgjegjëse dhe sipas parimeve të ligjit nr. 99/2024, “Për inspektimin në Republikën e Shqipërisë”.
