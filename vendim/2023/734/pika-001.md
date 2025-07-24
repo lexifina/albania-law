@@ -1,1 +1,0 @@
-1. Caktimin e Fondit Shqiptar të Zhvillimit, si autoritet kontraktor dhe njësi zbatuese, për kryerjen e procedurave të prokurimit publik, për zbatimin e projektit, për zhvillimin e zonës multifunksionale përreth kompleksit të stadiumit “Flamurtari” në Vlorë, përfshirë stadiumin.
