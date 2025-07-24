@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim të përcaktojë rregullat e hollësishme për funksionimin e komisionit disiplinor në Inspektoratin e Përgjithshëm dhe mënyrën e ushtrimit të përgjegjësive prej tij për organizimin e procedurës disiplinore dhe vendimmarrjen.

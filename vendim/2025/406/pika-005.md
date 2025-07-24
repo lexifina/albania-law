@@ -1,0 +1,1 @@
+5. Në rastin e procedimit disiplinor të kryeinspektorit qendror, komisioni disiplinor përbëhet nga 3 (tre) anëtarë dhe ka në përbërje 2 (dy) anëtarët e përcaktuar në shkronjat “a” e “b”, të pikës 3, të këtij kreu, dhe 1 (një) anëtar, përfaqësues nga ministri përgjegjës, në nivel sekretar i përgjithshëm ose drejtor i përgjithshëm në ministrinë përgjegjëse.

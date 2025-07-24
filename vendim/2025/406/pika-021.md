@@ -1,0 +1,1 @@
+21. Marrja e vendimeve në mbledhjen e komisionit disiplinor bëhet me votim, i cili është individual dhe i hapur. Secili prej anëtarëve ka të drejtën e ushtrimit të një vote. Në asnjë rast, anëtarët e komisionit disiplinor nuk mund të abstenojnë.

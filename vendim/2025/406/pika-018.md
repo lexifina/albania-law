@@ -1,0 +1,1 @@
+18. Në seancën dëgjimore, kryeinspektori apo inspektori paraqitet vetë ose cakton një përfaqësues, sipas ligjit. Në rast se pas dy njoftimeve të njëpasnjëshme, kryeinspektori, inspektori apo përfaqësuesi ligjor nuk paraqiten, procedura disiplinore vazhdon në mungesë.

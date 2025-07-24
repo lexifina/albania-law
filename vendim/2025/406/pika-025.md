@@ -1,0 +1,1 @@
+25. Inspektori i Përgjithshëm, brenda 5 (pesë) ditëve nga data e paraqitjes së vendimit të komisionit disiplinor dhe materialeve shoqëruese, nxjerr urdhrin për zbatimin e masave që vendosen në procedimin disiplinor, në të cilin parashikohen edhe modalitetet e zbatimit të tij.

@@ -1,0 +1,1 @@
+6. Në rastin e procedimit disiplinor të inspektorit të Inspektoratit të Përgjithshëm, komisioni disiplinor ka në përbërje 2 (dy) anëtarë të pozicioneve drejtor drejtorie dhe 1 (një) anëtar, përfaqësues nga struktura përgjegjëse e burimeve njerëzore pranë Inspektoratit të Përgjithshëm.

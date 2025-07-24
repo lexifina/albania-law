@@ -1,0 +1,1 @@
+15. Komisioni disiplinor mblidhet dhe zhvillon seancën dëgjimore, jo më vonë se 10 (dhjetë) ditë kalendarike nga nxjerrja e urdhrit të inspektorit të Përgjithshëm për ngritjen e komisionit dhe zhvillimin e procedimit disiplinor.

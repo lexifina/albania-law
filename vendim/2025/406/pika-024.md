@@ -1,0 +1,1 @@
+24. Vendimi zbardhet brenda 5 (pesë) ditëve kalendarike nga shpallja e vendimit në 3 (tri) kopje origjinale: një kopje mbahet nga Inspektorati i Përgjithshëm, një kopje nga ministria përgjegjëse/inspektorati qendror/struktura tjetër inspektuese dhe një kopje i përcillet kryeinspektorit apo inspektorit të proceduar.

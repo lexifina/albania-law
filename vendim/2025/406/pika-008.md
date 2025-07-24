@@ -1,0 +1,1 @@
+8. Për rastet kur konstatohet pamundësia e vijimit të pjesëmarrjes në komision të njërit prej anëtarëve të komisionit, sipas përcaktimit në pikën 7, të këtij kreu, apo në raste të pamundësisë objektive, inspektori i Përgjithshëm cakton një përfaqësues tjetër, brenda një afati prej 3 (tri) ditësh pune, nga momenti i konstatimit të këtij fakti.

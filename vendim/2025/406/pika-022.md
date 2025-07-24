@@ -1,0 +1,1 @@
+22. Vendimet e komisionit disiplinor miratohen me shumicën e gjithë anëtarëve të komisionit dhe arsyetohen në mënyrë të plotë. Arsyetimi i anëtarit që ka votuar “kundër” depozitohet në sekretariatin teknik dhe përcillet bashkë me vendimin përfundimtar.
