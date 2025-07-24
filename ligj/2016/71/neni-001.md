@@ -1,3 +1,0 @@
-# Neni 1
-Objekti
-Ky ligj përcakton rregullat për transmetimin e të dhënave të pasagjerit dhe regjimin e kontrollit kufitar të personave që kalojnë kufirin shtetëror të Republikës së Shqipërisë.
