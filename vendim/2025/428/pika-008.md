@@ -1,0 +1,1 @@
+8. Vendimi nr. 734, datë 13.12.2023, i Këshillit të Ministrave, “Për ngarkimin e Fondit Shqiptar të Zhvillimit, si autoritet kontraktor, për realizimin e projektit të zonës multifunksionale përreth kompleksit të stadiumit ’Flamurtari’ në Vlorë, përfshirë stadiumin”, shfuqizohet.
