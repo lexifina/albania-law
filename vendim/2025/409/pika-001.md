@@ -1,0 +1,1 @@
+1. Ky vendim përcakton afatet për zhvillimin e testimit fillestar dhe intervalet e testimit periodik, rregullat për realizimin e procedurës së testimit fillestar dhe periodik të inspektorit, si dhe kriteret e vlerësimit të provimit.

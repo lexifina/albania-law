@@ -1,0 +1,1 @@
+2. Ky vendim synon të sigurojë standardizimin, transparencën dhe objektivitetin e procesit të testimit, duke garantuar që inspektorët të kenë njohuritë, aftësitë dhe integritetin e nevojshëm për ushtrimin e funksionit të tyre, me qëllim përmirësimin e cilësisë dhe efektivitetit të veprimtarisë inspektuese.
