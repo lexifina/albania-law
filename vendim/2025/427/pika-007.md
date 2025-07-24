@@ -1,0 +1,1 @@
+7. Vendimi nr.568, datë 4.10.2023, i Këshillit të Ministrave “Për ngarkimin e Fondit Shqiptar të Zhvillimit, si autoritet kontraktor për realizimin e projektit të zonës multifunksionale përreth kompleksit të stadiumit ’Skënderbeu’ në Korçë, përfshirë stadiumin”, shfuqizohet, me hyrjen në fuqi të këtij vendimi.
