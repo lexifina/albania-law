@@ -1,0 +1,8 @@
+# Neni 11
+Zona e verifikimit kufitar
+1. Çdo pikë e kalimit kufitar, në formë rrethore, si dhe përgjatë gjithë vijës së kufirit, në kufijtë tokësorë, ka një zonë të verifikimit kufitar, që është 2 km në brendësi të territorit. Brenda kësaj zone rojat kufitare janë të autorizuara të kryejnë verifikime kufitare sipas kompetencave të dhëna atyre në këtë ligj.
+2. Rreth çdo pike të kalimit kufitar caktohet një zonë e sigurisë kufitare, e cila përcaktohet me vendim të Këshillit të Ministrave.
+3. Brenda zonës së sigurisë kufitare nuk lejohet asnjë ndërtim apo zhvillim i ndonjë aktiviteti privat, përveç atyre, të cilat i shërbejnë mirëfunksionimit të veprimtarisë së agjencive shtetërore, që veprojnë në kufi dhe që ofrojnë shërbime.
+4. Zona e verifikimit kufitar në qarkullimin hekurudhor mbulon shinat dhe ambiente të tjera të hekurudhës, nga pika e kalimit kufitar deri në brendësi të vendit, në aq shtrirje sa është e nevojshme për të kryer verifikime kufitare të efektshme.
+5. Zona e verifikimit kufitar në aeroporte dhe porte, që janë pika të kalimit kufitar, mbulon gjithë territorin e aeroportit e të portit.
+6. Për pikat e kalimit kufitar të vendosura në shtetin fqinj, zona e verifikimit kufitar në shtetin fqinj përcaktohet në marrëveshjen ndërkombëtare dypalëshe, që rregullon pikën e përbashkët të kalimit kufitar. Në marrëveshjen me vendet fqinje autorizohen gjithashtu rojat kufitare që të kryejnë detyrat e tyre në një zonë të përcaktuar në vendin fqinj. Çdo verifikim që kryhet brenda kësaj zone të përcaktuar të pikës së përbashkët të kalimit kufitar konsiderohet të jetë kryer në zonën e kompetencës së autoritetit vendor të Policisë Kufitare dhe të Migracionit, që ka gjithashtu kompetencën territoriale për pikën e kalimit kufitar.

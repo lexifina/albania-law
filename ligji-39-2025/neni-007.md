@@ -1,0 +1,5 @@
+# Neni 7
+Kompetencat e Policisë Kufitare dhe të Migracionit në brendësi të territorit
+1. Policia Kufitare dhe e Migracionit ka të drejtë që në brendësi të territorit të Republikës së Shqipërisë të marrë masa për të zbuluar të huajt që qëndrojnë ose që kalojnë transit në territorin e Republikës së Shqipërisë, në mënyrë të paligjshme, si dhe të parandalojë, të zbulojë dhe të luftojë krimin ndërkufitar.
+2. Policia Kufitare dhe e Migracionit ka të drejtë të verifikojë dhe të intervistojë persona, të kontrollojë mjetet e tyre të transportit dhe sendet që kanë në zotërim, brenda territorit të Republikës së Shqipërisë, me qëllim ndalimin e hyrjes, kalimit transit dhe qëndrimit të paligjshëm të të huajve në Republikën e Shqipërisë.
+3. Policia Kufitare dhe e Migracionit ka gjithashtu të drejtë të ndërmarrë veprime hetimore dhe procedurale në rastet e veprave penale që lidhen me kufirin, përveç atyre veprave që janë përcaktuar të ndiqen posaçërisht nga struktura të tjera të policisë ose agjenci të tjera.

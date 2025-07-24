@@ -1,0 +1,24 @@
+# Neni 15
+Verifikimi kufitar i personave
+1. Në hyrje dhe në dalje, të gjithë personat janë subjekt i verifikimit kufitar minimal, i cili përbëhet nga:
+a) verifikimi i identitetit e i shtetësisë së personit, si dhe i vlefshmërisë e i origjinalitetit të dokumentit të udhëtimit, duke përdorur pajisje teknike dhe duke u konsultuar me bazat përkatëse të të dhënave, veçanërisht me:
+i. bazat kombëtare të të dhënave, që përmbajnë informacion për dokumentet e vjedhura, të përvetësuara, të humbura dhe të zhvleftësuara të udhëtimit;
+ii. bazën e të dhënave të INTERPOL-it për dokumentet e vjedhura dhe të humbura të udhëtimit;
+iii. bazat ndërkombëtare të të dhënave, të njohura nga Republika e Shqipërisë.
+b) verifikimi që personi, mjeti i tij i transportit dhe sendet që ai transporton nuk përbëjnë rrezik për rendin dhe sigurinë publike, shëndetin publik dhe marrëdhëniet ndërkombëtare me shtetet e tjera, duke u konsultuar me regjistrat dhe bazat e të dhënave përkatëse. Kur ka dyshime për origjinalitetin e dokumentit të udhëtimit ose për identitetin e mbajtësit të tij, në verifikime përfshihen verifikimi i identifikuesve biometrikë të integruar në pasaportat dhe dokumentet e udhëtimit.
+2. Të huajt, krahas verifikimeve të përmendura në pikën 1 të këtij neni, janë subjekt i verifikimeve tërësore në hyrje dhe në dalje, të cilat konsistojnë në verifikimin e plotësimit të të gjitha kushteve për kalimin e kufirit shtetëror.
+3. Verifikimet kufitare tërësore në hyrje përbëhen nga:
+a) verifikimi i të huajit, nëse ai posedon, për kalimin e kufirit shtetëror, një dokument udhëtimi të njohur nga Republika e Shqipërisë, të shoqëruar me vizë ose leje qëndrimi, kur kjo kërkohet nga legjislacioni;
+b) këqyrja e plotë e dokumentit për ndonjë shenjë falsifikimi, sajimi apo tjetërsimi;
+c) shqyrtimi i vulave të hyrjeve/daljeve në dokumentin e udhëtimit, duke i krahasuar me të dhënat në bazat e të dhënave të hyrjeve/daljeve, për të verifikuar nëse i huaji ka tejkaluar afatin e autorizuar të qëndrimit në territorin e vendit;
+ç) verifikimi i dokumentacionit për nisjen, destinacionin dhe arsyen e qëndrimit të personit;
+d) verifikimi i të huajit nëse ai ka mjete të mjaftueshme financiare për kohën dhe qëllimin e qëndrimit, si dhe për kthimin në vendin e origjinës apo për kalimin transit në një vend të tretë, ku i lejohet të hyjë ose verifikimi se ai është në gjendje t’i sigurojë këto mjete financiare në mënyrë të ligjshme.
+4. Verifikimet kufitare tërësore në dalje përbëhen nga:
+a) verifikimi nëse personi posedon një vizë të vlefshme, në qoftë se kjo kërkohet, përveçse kur ai mban një leje qëndrimi të vlefshme, të lëshuar në Republikën e Shqipërisë, ose dokumente të tjera që autorizojnë qëndrim apo rihyrje në territorin e Republikës së Shqipërisë;
+b) verifikimi nëse personi ka shkelur afatin e lejuar të qëndrimit në territorin e Republikës së Shqipërisë, në qoftë se ai është subjekt i një afati të limituar qëndrimi.
+5. Përjashtimisht, shtetasit e Bashkimit Evropian, Zonës Ekonomike Evropiane, Zvicrës, Andorrës, Monakos dhe San-Marinos, si dhe të huajt që janë familjarë të tyre dhe që gëzojnë të drejtën e Bashkimit Evropian për lëvizje të lirë ose që janë familjarë të shtetasve shqiptarë, në rast se identiteti dhe lidhjet familjare të tyre provohen, i nënshtrohen verifikimit minimal. Përkufizimi i anëtarëve të familjes në ligjin për të huajt është i vlefshëm edhe për këtë ligj.
+6. Personat, që janë subjekt i verifikimit kufitar minimal, në bazë të analizës së riskut dhe në mënyrë josistematike, mund t’i nënshtrohen verifikimit tërësor.
+7. Nëse nga rezultatet e verifikimit në vijën e parë konsiderohen të nevojshme verifikime të mëtejshme, personit i kërkohet t’i nënshtrohet verifikimit në vijën e dytë, i cili mund të përfshijë verifikime të hollësishme personale, verifikime të hollësishme të sendeve në posedim dhe inspektime të hollësishme të automjetit.
+8. Aty ku janë kushtet, verifikimet e vijës së dytë kryhen në ambiente të përshtatura posaçërisht për këtë qëllim.
+9. Të gjithë personat, që janë subjekt i verifikimit në vijën e dytë, informohen me shkrim për qëllimin dhe procedurat që ndiqen gjatë këtij verifikimi, në një gjuhë që e kuptojnë apo që ka arsye për të besuar se e kuptojnë ose në një mënyrë tjetër efektive. Informacioni pasqyron të drejtën që ka personi, subjekt i verifikimit në vijën e dytë, për të kërkuar emrin ose numrin e identifikimit të rojës kufitare që kryen verifikimin tërësor në vijën e dytë, emrin e pikës së kalimit kufitar dhe datën kur është kaluar kufiri shtetëror. Përmbajtja e këtij informacioni përcaktohet me udhëzim të ministrit përgjegjës për rendin dhe sigurinë publike.
+10. Si përjashtim nga rregullat e përgjithshme të verifikimit kufitar, për kategori të caktuara personash dhe mjetesh transporti zbatohen rregulla të veçanta, të cilat përcaktohen me vendim të Këshillit të Ministrave.
