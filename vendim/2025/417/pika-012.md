@@ -1,0 +1,2 @@
+12. Ngarkohen Ministria e Infrastrukturës dhe Energjisë, Ministria e Ekonomisë, Kulturës dhe Inovacionit, Operatori i Sistemit të Transmetimit sh.a., Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Durrës-Kavajë-Krujë, Agjencia Shtetërore e Kadastrës, Zyra Vendore Kurbin, Agjencia Shtetërore për Shpronësimin, Drejtoria e Administrimit dhe Mbrojtjes së Tokës pranë Këshillit të Qarkut Durrës dhe Drejtoria e Administrimit dhe Mbrojtjes së Tokës pranë Këshillit të Qarkut Lezhë për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
