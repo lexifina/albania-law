@@ -1,0 +1,6 @@
+# Neni 66
+Nxjerrja e bimëve, produkteve bimore dhe objekteve të tjera nga stacionet e karantinës
+dhe objektet e izolimit
+1. Bimët, produktet bimore dhe objektet e tjera nxirren nga stacionet e karantinës ose objektet e izolimit vetëm nëse lejohet nga IPKZPIK-ja dhe IPKSHB-ja kur konfirmohet se nuk ka prani të dëmtuesit karantinor dhe dëmtuesit që u nënshtrohet masave të miratuara, në përputhje me pikën 2, të nenit 36 të këtij ligji, ose, sipas rastit, dëmtuesit karantinor të zonës së mbrojtur.
+2. IPKZPI-ja dhe IPKSHB-ja lejojnë lëvizjen e bimëve, produkteve bimore ose objekteve të tjera të infektuara nga një dëmtues karantinor ose dëmtues që u nënshtrohet masave të marra, në zbatim të pikës 2 të nenit 36 të këtij ligji, nga një stacion karantine ose nga një objekt izolimi në një tjetër stacion karantine apo objekt izolimi, nëse kjo lëvizje është e mbështetur në testime zyrtare ose arsye shkencore dhe kryhet sipas kushteve të përcaktuara nga IPKSHB-ja dhe IPKZPIK-ja.
+3. Ministri miraton me udhëzim rregulla të veçanta për nxjerrjen e bimëve, produkteve bimore dhe objekteve të tjera nga stacionet e karantinës dhe objektet e izolimit e, sipas rastit, kërkesat e etiketimit, që lidhen me nxjerrjen e tyre ose me lëvizjen e përmendur në pikën 2 të këtij neni.

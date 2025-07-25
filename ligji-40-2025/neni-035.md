@@ -1,0 +1,6 @@
+# Neni 35
+Masat kombëtare për dëmtuesit specifikë karantinorë
+1. Masat ndaj dëmtuesve karantinorë specifikë për Shqipërinë miratohen me urdhër të ministrit. Këto masa zbatohen specifikisht për çdo dëmtues karantinor, për një ose më shumë nga masat e parashikuara në nenet 19, 23, 24, 26, 27, 28, 29, 31, 33 dhe 34 të këtij ligji.
+2. Përjashtimisht nga rregullimet e nenit 26 të këtij ligji, kur në bazë të vrojtimeve të parashikuara në nenin 28 të këtij ligji ose të dhënave të tjera arrihet në përfundimin se çrrënjosja e atij dëmtuesi karantinor në një zonë të shënuar nuk është e mundur, ministri miraton me urdhër masat e përcaktuara në pikën 1 të këtij neni për mbajtjen në kontroll të dëmtuesit.
+3. Kur IPKSHB-ja dhe IPKP-ja arrijnë në përfundimin se masat parandaluese në zonat jashtë hapësirave të shënuara janë të nevojshme për të mbrojtur pjesën e territorit, ku dëmtuesi karantinor nuk është i pranishëm, i propozojnë ministrit të miratojë masat e përcaktuara në pikën 1 të këtij neni.
+4. Masat e përcaktuara në pikat 1, 2 dhe 3 të këtij neni merren në përputhje me aneksit II të këtij ligji, duke marrë parasysh risqet specifike të dëmtuesve karantinorë, kushtet e risqet specifike ekoklimatike për territorin e Republikës së Shqipërisë dhe nevojën për zbatimin e masave të nevojshme për reduktimin e riskut.

@@ -1,0 +1,7 @@
+# Neni 78
+Papërdorshmëria e certifikatës fitosanitare
+1. Kur certifikata fitosanitare është lëshuar në përputhje me pikat 1, 2 dhe 3, të nenit 72 të këtij ligji dhe IPKZPIK-ja konstaton se kushtet e parashikuara nga neni 77 i këtij ligji nuk janë plotësuar, e deklaron si të papërdorshme këtë certifikatë fitosanitare dhe garanton që ajo të mos shoqërojë më bimët, produktet bimore ose objektet të tjera. Në këtë rast, dhe në lidhje me bimët, produktet bimore ose objektet e tjera në fjalë, autoriteti kompetent merr një nga masat që parashikohen në rast të dërgesave që nuk janë në përputhje me rregullat, referuar legjislacionit për kontrollet zyrtare për hyrjen e tyre në territorin e Republikës së Shqipërisë nga vende të tjera.
+Certifikatës së papërdorshme i vendoset në ballinën e saj dhe në një pozicion të dukshëm një vulë trekëndore me ngjyrë të kuqe nga autoriteti kompetent përkatës, ku shënohet “certifikatë e papërdorshme”, së bashku me emërtimin e saktë të IPKZPIK-së që e ka deklaruar të papërdorshme certifikatën dhe datën e deklarimit, si të papërdorshme të saj, me shkronja të mëdha, në gjuhën shqipe.
+2. IPKZPIK-ja njofton, përmes sistemit elektronik të njoftimit ose mënyrave të tjera të njoftimit, vendin që ka lëshuar atë certifikatë fitosanitare.
+Seksioni 2
+Pasaporta bimore që kërkohet për lëvizjen e bimëve, produkteve bimore dhe objekteve të tjera, brenda territorit të Republikës së Shqipërisë

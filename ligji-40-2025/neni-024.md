@@ -1,0 +1,5 @@
+# Neni 24
+Marrja e masave të tjera
+1. Kur një person, i ndryshëm nga një operator profesionist, merr dijeni për praninë e një dëmtuesi karantinor ose ka arsye të dyshojë për një prani të tillë, ai person njofton menjëherë IPKSHB-në, IPKP-në ose ministrinë. Kur ky njoftim nuk bëhet me shkrim, IPKSHB-ja, IPKP-ja ose ministria e regjistron atë zyrtarisht. Personi duhet t’u sigurojë autoriteteve kompetente informacionin që disponon në lidhje me praninë e dëmtuesit, nëse një gjë e tillë kërkohet prej tyre.
+2. IPKSHB-ja dhe IPKP-ja, sipas rastit, vendosin që njoftimi i përmendur në pikën 1 të këtij neni të mos regjistrohet kur është e ditur se një dëmtues specifik është i pranishëm në atë zonë.
+3. Personi që ka bërë njoftimin konsultohet me IPKSHB-në dhe IPKP-në, sipas rastit, për veprimet që do të ndërmerren dhe në përputhje me udhëzimet përkatëse merr masat e nevojshme për parandalimin e përhapjes së atij dëmtuesi dhe eliminimin e tij nga bima, produktet bimore ose objekte të tjera në fjalë dhe, kur është rasti, dhe nga mjediset e tij.

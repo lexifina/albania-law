@@ -1,0 +1,4 @@
+# Neni 71
+Lëvizjet e bimëve, produkteve bimore dhe objekteve të tjera brenda dhe ndërmjet mjediseve të operatorit profesionist
+1. Operatorët profesionistë, që furnizohen ose furnizojnë bimë, produkte bimore ose objekte të tjera, të parashikuara në pikat 1 dhe 2, të nenit 70 të këtij ligji, duhet të kenë sisteme ose procedura gjurmueshmërie për të lejuar identifikimin e lëvizjeve të këtyre bimëve, produkteve bimore dhe objekteve të tjera, brenda dhe ndërmjet mjediseve të tyre. Kjo kërkesë nuk zbatohet për operatorët profesionistë të parashikuar në shkronjat “c” dhe “ç”, të pikës 3, të nenit 67 të këtij ligji.
+2. Informacioni i identifikuar nga sistemet ose procedurat e përmendura në pikën 1 të këtij neni, për lëvizjen e bimëve, produkteve bimore dhe objekteve të tjera, brenda dhe ndërmjet mjediseve të operatorëve profesionistë, të përmendur në atë pikë, i vihet në dispozicion IPKSHB-së me kërkesën e saj.

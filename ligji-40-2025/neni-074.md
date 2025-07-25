@@ -1,0 +1,6 @@
+# Neni 74
+Bimë të tjera për të cilat kërkohen certifikata fitosanitare
+1. Ministri, me urdhër, të parashikuar në shkronjën “g”, të nenit 106, urdhëron që për bimët, të tjera nga ato të përcaktuara në listën e parashikuar në pikën 1, të nenit 73 të këtij ligji, të kërkohet një certifikatë fitosanitare për hyrjen në territorin e Republikës së Shqipërisë.
+2. Lista e bimëve për të cilat nuk kërkohet një certifikatë fitosanitare, kur ka një vlerësim sipas aneksit VI për ato bimë, bazuar në evidenca për risqet e dëmtuesve, si dhe në përvojën me tregtinë, i cili tregon se një certifikatë e tillë nuk është e nevojshme, përcaktohet në shkronjën “g”, të nenit 106 të këtij ligji.
+Kur është e përshtatshme, vlerësimi bëhet vetëm me bimët e një vendi të caktuar të origjinës ose nga është nisur dërgesa apo të një grupi vendesh të tjera të origjinës ose nga është nisur dërgesa. Në këtë listë, bimët identifikohen gjithashtu nga kodi i tyre përkatës NK, kur ai kod është i disponueshëm ose kode të tjera shtesë, ku specifikojnë më tej kodin NK, të zbatueshëm për një bimë specifike, produkt bimor ose objekt tjetër.
+3. Ministri me udhëzim përcakton kriteret për identifikimin e bimëve, të referuara në pikën 2 të këtij neni, për të cilat nuk kërkohet certifikatë fitosanitare.

@@ -1,0 +1,4 @@
+# Neni 31
+Vrojtimet e dëmtuesve prioritarë
+1. Për çdo dëmtues prioritar, IPKSHB-ja dhe IPKP-ja kryejnë çdo vit një vrojtim, siç parashikohet në pikat 1 dhe 2 të nenit 29 të këtij ligji. Këto vrojtime përfshijnë një numër të madh ekzaminimesh vizuale, marrje të mostrave dhe testime, të përshtatshme për çdo dëmtues prioritar, të mjaftueshme për të siguruar një shkallë të lartë besueshmërie për zbulimin në kohë të këtyre dëmtuesve, për aq sa është e mundur, duke pasur parasysh biologjinë përkatëse të çdo dëmtuesi prioritar dhe kushtet ekoklimatike.
+2. IPKSHB-ja dhe IPKP-ja i raportojnë ministrisë rezultatet e vrojtimeve, të cilat janë kryer sipas pikës 1 të këtij neni, në vitin kalendarik paraardhës, brenda datës 30 prill të çdo viti. Këto raporte kryhen përmes sistemit të njoftimit elektronik, të përmendura në pikën 4, të nenit 104 të këtij ligji.

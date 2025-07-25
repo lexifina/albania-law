@@ -1,0 +1,6 @@
+# Neni 90
+Miratimi i operatorëve profesionistë për lëshimin e pasaportave bimore
+1. IPKSHB-ja miraton një operator profesionist për të lëshuar pasaportë bimore (miratimi për lëshimin e pasaportës bimore) për familje të caktuara, gjini ose specie dhe llojet e mallrave bimë, produkteve bimore dhe objekteve të tjera, kur operatori profesionist përmbush të dyja kushtet e mëposhtme:
+a) zotëron njohuritë e nevojshme për të kryer ekzaminimet e përmendura në nenin 88 të këtij ligji në lidhje me dëmtuesit karantinorë ose dëmtuesit që u nënshtrohen masave të miratuara, në përputhje me pikën 2, të nenit 36 të këtij ligji, dëmtuesit karantinorë të zonës së mbrojtur dhe dëmtuesit jokarantinorë të rregulluar, që prekin bimët, produktet bimore dhe objektet e tjera në fjalë dhe në lidhje me shenjat e pranisë së këtyre dëmtuesve, simptomat e shkaktuara prej tyre e mjetet për të parandaluar praninë dhe përhapjen e këtyre dëmtuesve;
+b) ka sisteme dhe procedura, që i mundësojnë të përmbushë detyrimet në lidhje me gjurmueshmërinë, sipas neneve 70 dhe 71 të këtij ligji.
+2. Kriteret që duhet të plotësojnë operatorët profesionistë për të përmbushur kushtet e përcaktuara në shkronjën “a”, të pikës 1 të këtij neni dhe procedurat për përmbushjen e këtyre kritereve janë të përcaktuara në pikën 2, të nenit 84 të këtij ligji.

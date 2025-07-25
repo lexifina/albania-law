@@ -1,0 +1,14 @@
+# Neni 27
+Krijimi i zonave të shënuara
+1. Kur vërtetohet zyrtarisht një nga situatat e përmendura në shkronjat “a” dhe “b”, të pikës 1, të nenit 20 të këtij ligji, IPKSHB-ja dhe IPKP-ja, sipas rastit, përcaktojnë menjëherë një ose më shumë zona ku do të merren masat e çrrënjosjes, të përmendura në pikën 1, të nenit 26 të këtij ligji, referuar në vijim si zonë e shënuar, e cila miratohet me urdhër të ministrit. Zona e shënuar përbëhet nga zona e infektuar dhe nga zona e sigurisë.
+2. Zona e infektuar, sipas rastit, përmban:
+a) të gjitha bimët që dihet se janë të infektuara nga dëmtuesi në fjalë;
+b) të gjitha bimët që shfaqin shenja ose simptoma infektimi të mundshëm nga ai dëmtues;
+c) të gjitha bimët e tjera që janë kontaminuar ose janë infektuar nga ai dëmtues,
+duke përfshirë bimët që janë të infektuara për shkak të ndjeshmërisë së tyre ndaj atij dëmtuesi, afërsisë së tyre me bimët e infektuara ose burimit të përbashkët të prodhimit, nëse njihet, me bimët e infektuara ose bimë të rritura prej tyre;
+ç) toka, dheu, rrjedhat ujore ose elemente të tjera të infektuara ose që mund të infektohen nga dëmtuesi në fjalë.
+3. Zona e sigurisë duhet të jetë ngjitur me zonën e infektuar dhe duhet ta rrethojë atë. Shtrirja e saj duhet të jetë e përshtatshme duke pasur parasysh riskun e përhapjes së dëmtuesit në fjalë jashtë zonës së infektuar në mënyrë natyrale ose nga aktivitetet njerëzore në zonën e infektuar dhe rrethinat e saj, dhe përcaktohet në përputhje me parimet e parashikuara në seksionin 2, të aneksit II të këtij ligji. Kur risku i përhapjes së dëmtuesit jashtë zonës së infektuar eliminohet ose reduktohet në një nivel të pranueshëm nëpërmjet barrierave natyrore ose artificiale, nuk krijohet asnjë zonë sigurie.
+4. Përjashtimisht nga rregullimet e pikës 1 të këtij neni, kur në bazë të ekzaminimit fillestar të IPKSHB-së dhe IPKP-së, dhe duke pasur parasysh natyrën e dëmtuesit, bimën, produktin bimor ose objektin tjetër, si dhe vendin ku është gjetur ai, IPKSHB-ja dhe IPKP-ja arrijnë në përfundimin se dëmtuesi mund të eliminohet menjëherë dhe vendosin të mos krijojnë një zonë të shënuar.
+Në këtë rast kryhet një vrojtim për të përcaktuar nëse ndonjë bimë ose produkt tjetër bimor është infektuar dhe në bazë të tij IPKSHB-ja dhe IPKP-ja përcaktojnë nëse ka nevojë që të krijohet një zonë e shënuar.
+5. Kur në përputhje me pikat 2 dhe 3, një zonë e shënuar shtrihet në territorin e një shteti anëtar tjetër, ministria kontakton menjëherë me shtetin anëtar në territorin e të cilit shtrihet zona e shënuar, në mënyrë që ky shtet snëtar të marrë të gjitha masat e duhura, siç referohen në paragrafët 1 deri në 4 të këtij neni.
+6. IPKSHB-ja dhe IPKP-ja njoftojnë ministrinë për zonat e shënuara menjëherë pas krijimit të tyre, së bashku me dëmtuesit në fjalë dhe masat përkatëse të marra. Këto njoftime kryhen nëpërmjet sistemit të njoftimit elektronik, të përmendura në pikën 4, të nenit 104 të këtij ligji.
