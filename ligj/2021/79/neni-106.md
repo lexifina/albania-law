@@ -1,5 +1,5 @@
 # Neni 106
-Procedurat dhe ekzekutimi i urdhrit të dëbimit
+Ekzekutimi i urdhrit të dëbimit
 1. Urdhri i dëbimit ekzekutohet nga autoriteti përgjegjës vendor për kufirin dhe migracionin, i cili:
 a) merr masa për ndalimin e të huajit në qendrën e mbyllur ose aplikimin e masave të përkohshme, sipas përcaktimeve në seksionin IV të këtij kreu, derisa të ekzekutohet urdhri i dëbimit, sipas përcaktimit në urdhrin e dëbimit;
 b) merr shenjat e gishtërinjve dhe të pëllëmbës së të huajit, si dhe fotografinë;

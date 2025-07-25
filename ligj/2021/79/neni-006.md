@@ -1,6 +1,6 @@
 # Neni 6
 Kritere të përgjithshme për hyrjen, daljen dhe kalimin transit
-1. I huaji, i cili ka për qëllim të hyjë, të qëndrojë, të dalë ose të kalojë transit në/nga Republika e Shqipërisë, me përjashtim të rasteve të azilkërkimit, si dhe kur me marrëveshje dy ose shumëpalëshe është përcaktuar ndryshe, duhet të paraqitet në pikën e kalimit kufitar duke plotësuar kushtet, si më poshtë:
+1. I huaji, i cili ka për qëllim të hyjë, të qëndrojë, të dalë ose të kalojë transit në/nga Republika e Shqipërisë, me përjashtim të rasteve të azilkërkimit, si dhe kur me marrëveshje dy ose shumëpalëshe ose me qëndrim të njëanshëm të shprehur me vendim të Këshillit të Ministrave është përcaktuar ndryshe, duhet të paraqitet në pikën e kalimit kufitar duke plotësuar kushtet, si më poshtë:
 a) të ketë një dokument udhëtimi të njohur nga Republika e Shqipërisë, me një afat vlefshmërie të paktën 3 muaj para datës së përfundimit të qëndrimit të lejuar të ligjshëm në territor.
 b) të jetë i pajisur me vizë hyrëse të vlefshme, nëse kërkohet, ose të jetë i pajisur me leje të vlefshme qëndrimi, të lëshuar nga autoriteti kompetent shqiptar ose të lëshuar nga vende të tjera dhe të njohur nga Republika e Shqipërisë;
 c) të mos përbëjë kërcënim për rendin dhe sigurinë publike, për sigurinë kombëtare, si dhe të mos cenojë marrëdhëniet ndërkombëtare të Republikës së Shqipërisë me shtete të tjera;
@@ -19,3 +19,4 @@ e) mbi bazën e vlerësimit, rast pas rasti, të huajit mund t’i kërkohet par
 10. Banorët e zonave kufitare të përcaktuara në marrëveshje dypalëshe, të njohura nga Republika e Shqipërisë, mund të hyjnë dhe të qëndrojnë në Republikën e Shqipërisë duke përdorur një dokument kufitar, të lëshuar në zbatim të këtyre marrëveshjeve për qarkullim të vogël ndërkufitar.
 11. Personeli i organizatave ndërkombëtare, në kuadër të kryerjes së detyrave dhe misioneve të ngarkuara prej tyre, mund të hyjnë, të qëndrojnë, të kalojnë transit dhe të dalin nga Republika e Shqipërisë duke përdorur leje kalimi të lëshuar prej tyre ose ndonjë dokument tjetër, që është i vlefshëm në kuadër të marrëveshjeve ndërkombëtare, të njohura nga Republika e Shqipërisë.
 12. Lista e dokumenteve të udhëtimit të lejuara përcaktohet me vendim të Këshillit të Ministrave.
+13. Procedurat e hyrjes dhe daljes së shtetasve nga vendet e treta, që hyjnë në Republikën e Shqipërisë pa vizë, rregullohet me vendim të Këshillit të Ministrave.

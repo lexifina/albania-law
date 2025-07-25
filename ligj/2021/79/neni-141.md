@@ -22,5 +22,6 @@ k) transportuesit që transportojnë të huaj, të cilët dukshëm nuk plotësoj
 l) prindërit ose kujdestarët ligjorë, të cilët nuk përmbushin përgjegjësitë ligjore për të miturit sipas dispozitave të këtij ligji, dënohen me gjobë nga 50 000 (pesëdhjetë mijë) deri në 100 000 (njëqind mijë) lekë.
 ll) punëdhënësi ose punëmarrësi, i cili hyn në marrëdhënie pune në mënyrë të paligjshme, duke shkelur dispozitat e përcaktuara nga ky ligj dhe aktet nënligjore në zbatim të tij për punësimin e të huajve, dënohet me gjobë nga 350 000 (treqind e pesëdhjetë mijë) deri në 400 000 (katërqind mijë) lekë për person.
 m) i huaji ose shtetasi shqiptar, i cili lidh një martesë fiktive për të përfituar leje qëndrimi pa pasur qëllime serioze martesore, dënohet me gjobë nga 350 000 (treqind e pesëdhjetë mijë) deri në 400 000 (katërqind mijë) lekë.
+n) punëdhënësi, i cili nuk vë në dispozicion të inspektorit të punës evidenca mbi punësimin e të huajve dhe shkel të drejtat e tyre gjatë marrëdhënies së punës, sanksionohet me gjobë sipas përcaktimeve të ligjit për inspektimin e punës.
 2. Gjobat ndaj të huajve, sipas përcaktimeve në këtë nen, vendosen pavarësisht nëse ndaj tyre është marrë ndonjë masë tjetër administrative, sipas dispozitave të këtij ligji.
 3. Formati i aktit administrativ që vendos masën administrative miratohet me vendim të Këshillit të Ministrave.

@@ -8,6 +8,7 @@ c) siguron strehim në kushte normale jetese sipas standardeve të përgjithshme
 d) garanton burime të qëndrueshme të të ardhurave financiare për të mbajtur veten dhe familjen e tij, pa iu drejtuar skemës së ndihmës ekonomike;
 dh) paraqet dokumentacionin, sipas përcaktimeve të vendimit të Këshillit të Ministrave.
 2. Leja e qëndrimit për bashkim familjar jepet për herë të parë për një periudhë kohe 1-vjeçare, e ripërtëritshme, nëse nuk është përcaktuar ndryshe në marrëveshje apo në këtë ligj.
+2/1. Leja e qëndrimit për anëtarët e familjes së të huajit të pajisur me “Kartë blu AL” lëshohet për herë të parë për një periudhë vlefshmërie të njëjtë me afatin e kartës blu.
 3. Leja e qëndrimit për bashkim familjar, në rast se plotësohen kushtet e kërkuara në këtë ligj dhe kriteret e miratuara me vendim të Këshillit të Ministrave, ripërtërihet sipas përcaktimeve në nenin 37 të këtij ligji.
 4. Fëmijët e pamartuar, si dhe paraardhësit e kërkuesit (ftuesit), që janë objektivisht të pamundur të plotësojnë nevojat e tyre për arsye të gjendjes shëndetësore, mund të pajisen me leje qëndrimi si raste përjashtimore.
 5. Fëmijët e pamartuar mund të aplikojnë për leje qëndrimi për bashkim familjar deri në moshën 30 vjeç, me kusht që i huaji kërkues (ftuesi) të garantojë mbulimin e të gjitha shpenzimeve të jetesës për ta.

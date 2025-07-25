@@ -22,9 +22,11 @@ vii. leje unike për shërbim vullnetar;
 viii. leje unike për punonjës me kualifikim të lartë;
 ix. leje unike për persona të vetëpunësuar;
 x. leje unike për punonjës lëvizës digjital;
-xi. leje unike për investitorë;
+xi. shfuqizuar;
 xii. leje unike për shërbime kontraktuese;
-xiii. leje unike për kategori të veçanta.
+xiii. leje unike për kategori të veçanta;
+xiv) leje unike për punëtor shtëpie.
 h) për ekuipazhin e mjeteve të lundrimit;
 i) për leje qëndrimit për përdorim të pasurisë së paluajtshme në pronësi;
-j) për leje qëndrimit për pensionistët.
+j) për leje qëndrimit për pensionistët;
+k) leje qëndrimi për investitor.

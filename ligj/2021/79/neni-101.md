@@ -2,7 +2,7 @@
 Ekzekutimi vullnetar i urdhrit të largimit
 1. Autoriteti përgjegjës për kufirin dhe migracionin nuk ekzekuton urdhrin e largimit në rast se i huaji deklaron se do të largohet vullnetarisht nga territori. Deklarimi i të huajit për t’u larguar vullnetarisht mund të merret në konsideratë nga autoriteti përgjegjës për kufirin dhe migracionin me qëllim mosvendosjen e ndalimit të hyrjes, heqjes apo pezullimit të tij, në raste të veçanta për arsye humanitare apo për arsye të tjera të argumentuara, përjashtuar rastet kur për interesa të rendit dhe sigurisë publike ky deklarim nuk mund të merret në konsideratë.
 2. Autoriteti përgjegjës vendor për kufirin dhe migracionin i jep përparësi ekzekutimit të kthimit vullnetar, sidomos për këtë kategori personash:
-a) të huajin, i cili ka qëndruar në mënyrë të paligjshme në territorin e Republikës së Shqipërisë, por që nuk ka sjellë pasoja të dëmshme për rendin dhe sigurinë publike dhe që deklaron se do të largohet vullnetarisht nga territori;
+a) të huajin, i cili ka qëndruar, hyrë apo dalë, në mënyrë të paligjshme në territorin e Republikës së Shqipërisë, por që nuk ka sjellë pasoja të dëmshme për rendin dhe sigurinë publike dhe që deklaron se do të largohet vullnetarisht nga territori;
 b) të miturit e pashoqëruar;
 c) personat e sëmurë, invalidë ose me aftësi të kufizuara;
 ç) prindërit me fëmijë të vegjël;

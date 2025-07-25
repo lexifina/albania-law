@@ -1,6 +1,9 @@
 # Neni 119
 Ndalimi i të miturve të pashoqëruar
-1. Përjashtimisht, i mituri i pashoqëruar, ndaj të cilit është nxjerrë një urdhër ndalimi, mbahet në një qendër sociale shtetërore, të hapur posaçërisht për këtë qëllim, nga ose në një qendër tjetër, në kuadër të bashkëpunimit me organizatat ndërkombëtare, që kryejnë misione për fëmijët, viktimat e trafikimit ose kategori të tjera individësh në nevojë.
-2. I mituri mund të mbahet në qendër të mbyllur vetëm në rast të interesit më të lartë të tij apo të familjes, në mjedise të posaçme të ndara nga ato për të rritur.
-3. Para ndalimit të një të mituri në qendër të mbyllur kërkohet mendimi i një punonjësi social dhe psikologu.
-4. Në rast të dyshimit të moshës së të huajit të ndaluar, autoriteti përgjegjës për kufirin dhe migracionin mund të kërkojë në institucionet shtetërore të specializuara kryerjen e ekzaminimeve mjekësore të të ndaluarit, vetëm me qëllim verifikimin e moshës. Në rast se edhe pas verifikimeve dhe ekspertimeve mbeten dyshime për moshën e të ndaluarit, prezumohet se ai është i mitur.
+1. Përjashtimisht, i mituri i pashoqëruar i ndaluar mbahet në një qendër për të mitur, në ambiente apo qendra të cilat janë hapur apo operojnë në kuadrin e marrëveshjeve të bashkëpunimit midis institucioneve shtetërore/publike, me organizata ndërkombëtare apo organizata jofitimprurëse, që kryejnë misione për fëmijë apo për kategori të tjera në nevojë.
+2. Ndalimi i të miturit të pashoqëruar dhe familjeve me fëmijë është mjeti i fundit administrativ që zbatohet për periudhën më të shkurtër të përshtatshme.
+3. Familjeve të ndaluara, në pritje për t’u larguar, u sigurohet ambient akomodimi i veçantë, i cili garanton privatësinë e duhur.
+4. I mituri i pashoqëruar mbahet në ambiente të veçanta nga ato për të rritur.
+5. Të miturit të pashoqëruar të ndaluar i garantohet përfshirja në aktivitete të kohës së lirë, aktivitete rekreative të përshtatshme për moshën e tyre dhe aksesi për arsimim, në varësi të kohëzgjatjes së ndalimit në qendër.
+6. Në interesin më të lartë të fëmijës, para ndalimit të një të mituri të pashoqëruar, në pritje për t’u larguar, merret mendimi i punonjësit social ose psikologut.
+7. Kur ka dyshime rreth moshës së të miturit të huaj të pashoqëruar, autoriteti i qendrës në bashkëpunim me autoritetin vendor përgjegjës për kufirin dhe migracionin kërkon nga institucionet shtetërore të specializuara kryerjen e ekzaminimeve mjekësore vetëm me qëllim verifikimin e moshës. Në rast se edhe pas verifikimeve dhe ekzaminimeve mbeten dyshime për moshën, prezumohet se ai është i mitur.

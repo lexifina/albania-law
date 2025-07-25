@@ -1,5 +1,5 @@
 # Neni 99
-Urdhri i largimit dhe afati i ekzekutimit
+Urdhri i largimit dhe afati i ekzekutimit vullnetar
 1. Autoriteti përgjegjës vendor për kufirin dhe migracionin lëshon urdhrin e largimit për të huajin kur:
 a) nuk plotëson më kushtet e qëndrimit në Republikën e Shqipërisë, sipas përcaktimeve në këtë ligj;
 b) ka vuajtur një dënim të dhënë nga gjykatat shqiptare për një krim të kryer me dashje për të cilin Kodi Penal i Republikës së Shqipërisë parashikon dënim minimal jo më pak se 2 vjet burg;
@@ -14,7 +14,7 @@ a) fëmijët të cilët frekuentojnë shkollat dhe afati i përfundimit të viti
 b) të huajit që ka një detyrim financiar dhe duhet të likuidojë këtë detyrim deri në 3 muaj nga data e njoftimit;
 c) të huajve me probleme shëndetësore deri në aftësimin shëndetësor të tyre për të udhëtuar apo përfundimin e qëndrimit në izolim ose karantinë, sipas një vendimi të autoriteteve shtetërore.
 6. Shtetasit e huaj, me qëndrim të parregullt, që u është miratuar kohëzgjatja e afatit të ekzekutimit vullnetar të urdhrit të largimit, çdo 10 ditë duhet të paraqiten pranë autoritetit rajonal përgjegjës për kufirin dhe migracionin ku kanë vendqëndrimin.
-7. I huaji të cilit i është miratuar zgjatja e periudhës së zbatimit të urdhrit vullnetar të largimit ka të drejtë:
+7. I huaji, të cilit i është miratuar zgjatja e periudhës së ekzekutimit të urdhrit të largimit, ka të drejtë:
 a) të qëndrojë së bashku me familjarët e tij që janë në territor;
 b) të përdorë shërbimet e kujdesit parësor shëndetësor, të përfitojë trajtim për sëmundje specifike, si dhe shërbimet e shëndetit publik;
 c) i huaji i mitur të ketë akses të garantuar në sistemin shkollor, bazuar në periudhën e tij të qëndrimit;

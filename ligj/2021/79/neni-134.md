@@ -3,7 +3,7 @@ Detyrimet për punëdhënësin
 1. Punëdhënësit, që punësojnë një të huaj në Republikën e Shqipërisë, janë të detyruar që:
 a) para punësimit të tij t’i kërkojnë të paraqesë një leje apo autorizim tjetër qëndrimi, të vlefshëm për periudhën e punësimit në fjalë;
 b) para se të fillojë punësimi, të kopjojnë ose të regjistrojnë përmbajtjen e lejes së qëndrimit ose të një autorizimi tjetër qëndrimi;
-c) të ruajnë, të paktën për kohëzgjatjen e punësimit, kopjet ose regjistrat, të gatshëm për inspektim nga autoritetet përgjegjëse shtetërore për kontrollin e të huajve në territor, si dhe të inspektoratit përgjegjës për punësimin;
+c) të ruajnë kohëzgjatjen e punësimit, kopjet ose regjistrat, si dhe evidencat për respektimin e të drejtave të punëmarrësve të huaj që burojnë nga legjislacioni i punës, të gatshëm për inspektim nga autoritetet përgjegjëse shtetërore për kontrollin e të huajve në territor, si dhe të inspektoratit përgjegjës për punësimin;
 ç) të njoftojnë autoritetet përgjegjëse si për fillimin, ashtu edhe për përfundimin e punësimit të të huajit brenda një jave;
 d) të mbulojnë shpenzimet e rikthimit për çdo të huaj të punësuar në mënyrë të paligjshme prej tyre në rastet kur zbatohen procedurat e rikthimit;
 dh) të paguajnë çdo shpërblim të prapambetur të të huajit të punësuar në mënyrë të paligjshme prej tyre;
@@ -14,3 +14,4 @@ e) të paguajnë çdo taksë dhe kontribut shoqëror të prapambetur, përfshir�
 a) përjashtimin nga e drejta e përfitimeve publike, ndihmave ose financimeve deri në 5 vjet;
 b) përjashtimin nga pjesëmarrja në kontrata publike deri në 5 vjet;
 c) mbylljen e përkohshme apo të vazhdueshme të subjekteve, që u përdorën në kryerjen e shkeljes.
+5. Për shkelje të detyrimeve të legjislacionit të punës nga punëdhënësit për punëmarrësit e huaj zbatohen sanksionet e përcaktuara në legjislacionin për inspektimin në punë nga autoriteti përgjegjës për inspektimin e punës.

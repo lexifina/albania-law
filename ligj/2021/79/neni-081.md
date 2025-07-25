@@ -17,7 +17,7 @@ dh) personel që kryejnë shërbime humanitare pa shpërblim në organizata jofi
 e) trajnues që vijnë në Republikën e Shqipërisë nga kompani të huaja ose degë të tyre në vende të tjera për aktivitet trajnimi për formim profesional, në bazë programesh bashkëpunimi midis institucioneve;
 ë) ekspertë në fushën e mbrojtjes së trashëgimisë kulturore, bibliotekave apo arkivave;
 f) nxënës ose studentë që vijnë në kuadër të marrëdhënieve të bashkëpunimit, trajnimit apo të shkëmbimit të eksperiencës.
-3. Pajisen me leje unike për kategori të veçanta, për një qëndrim më shumë se 90 ditë sipas kohëzgjatjes së kontratës së punës, të huajt:
+3. Pajisen me leje unike për kategori të veçanta, për një qëndrim më shumë se 90 ditë, por jo më shumë se 5 vjet, në përputhje me afatin e ushtrimit të aktivitetit të përcaktuar në kontratën e punës, projektin përkatës apo në marrëveshje, të huajt:
 a) e misioneve e të asistencës teknike pranë institucioneve qendrore, institucioneve të pavarura ose institucioneve me varësi të drejtpërdrejtë nga këto institucione;
 b) konsulentët ose këshilltarët pranë institucioneve qendrore shtetërore, institucioneve të pavarura apo institucioneve me varësi të drejtpërdrejtë nga këto institucione, në kuadër të marrëveshjeve qeveritare apo projekteve të organizatave ndërkombëtare;
 c) përfaqësuesit dhe stafi i organizatave jofitimprurëse, të njohura dhe të regjistruara në organet përgjegjëse të Republikës së Shqipërisë, të cilët nuk shpërblehen për punën e tyre;

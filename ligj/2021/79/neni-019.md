@@ -1,5 +1,5 @@
 # Neni 19
-Vizë e tipit “A”
+Llojet e vizave
 1. Viza e tipit “A” është viza transit në aeroport, që i jep të drejtën mbajtësit të hyjë dhe të qëndrojë në zonën për qarkullim ndërkombëtar të aeroportit deri në nisjen e fluturimit për në vendin e destinacionit. Vlefshmëria e kësaj vize jepet në përputhje me kohën dhe rezervimet e biletave për udhëtimin/et, në të cilin/at aplikuesi parashikon të kalojë transit.
 2. Viza e tipit “A” mund të jepet me shumë hyrje-dalje dhe me vlefshmëri maksimumi deri në gjashtë muaj në rastet kur:
 a) aplikuesi dokumenton se e ka të nevojshme të kalojë transit shpesh ose rregullisht;
@@ -9,4 +9,9 @@ a) ato kategori që përjashtohen nga detyrimi i pajisjes me vizë për t’u fu
 b) mbajtësve të pasaportave diplomatike;
 c) anëtarëve të ekuipazheve të mjeteve të transportit ajror, të cilët janë shtetas të një pale kontraktuese të Konventës së Çikagos mbi Aviacionin Civil Ndërkombëtar, si dhe Konventës së Detit Montego Bay;
 ç) mbajtësit të një vize apo lejeje qëndrimi të vlefshme shqiptare.
+3/1. Periudha e vlefshmërisë së vizës “A” do të përfshijë një “periudhë përjashtimi” nga penaliteti për tejkalim qëndrimi deri në 15 ditë kalendarike.
+3/2. Autoriteti përgjegjës për kufirin dhe migracionin nuk merr parasysh “periudhën e përjashtimit” nga ky penalitet në rastet kur:
+a) cenohet siguria publike;
+b) nuk justifikohet tejkalimi i afatit të qëndrimit;
+c) për shkak të marrëdhënieve ndërkombëtare.
 4. Vendet për të cilat mund të aplikohet kjo vizë përcaktohen me vendim të Këshillit të Ministrave.
