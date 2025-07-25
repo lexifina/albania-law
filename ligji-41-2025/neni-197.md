@@ -1,0 +1,10 @@
+# Neni 197
+Lëvizjet e kafshëve të akuakulturës të destinuara për vende, zona, ndarje, që janë deklaruar “të pastër nga sëmundja” ose që i nënshtrohen një programi çrrënjosjeje dhe rregulla të hollësishme
+1. Operatorët lëvizin kafshët e akuakulturës të specieve të listuara, që lidhen me një ose më shumë nga sëmundjet e listuara sipas nenit 9, pika 1, shkronjat “b” ose “c” të këtij ligji, për në një stabiliment akuakulture ose për t’i lëshuar në një habitat natyror të vendit, në një zonë ose ndarje, që janë deklaruar të pastra nga ato sëmundje të listuara, në përputhje me nenin 36, pika 4, të këtij ligji, ose me nenin 37, pika 4, të këtij ligji, vetëm nëse vijnë nga një vend tjetër, zonë ose ndarje i tij, që është deklaruar i pastër nga ato sëmundje.
+2. Operatorët lëvizin kafshët e akuakulturës të specieve të listuara, që lidhen me një ose më shumë nga sëmundjet e listuara sipas nenit 9, pika 1, shkronjat “b” ose “c”, të këtij ligji, për në një stabiliment akuakulture ose për t’i lëshuar në një habitat natyror të vendit, në një zonë ose ndarje, që i janë nënshtruar një programi të çrrënjosjes për një ose më shumë sëmundje të listuara, në përputhje me nenin 31, pika 1 ose 2, të këtij ligji, vetëm nëse vijnë nga një vend tjetër, zonë ose ndarje i tij, që është deklaruar i pastër nga ato sëmundje të listuara.
+3. Ministri, me propozimin e autoritetit kompetent qendror, në përputhje me nenin 271 të këtij ligji, miraton me urdhër rregulla lidhur me përjashtimet nga kërkesat e lëvizjes ose lëshimit në habitat natyror, sipas pikave 1 dhe 2 të këtij neni, të cilat nuk përbëjnë risk të lartë për përhapjen e sëmundjeve të listuara sipas nenit 9, pika 1, shkronja “ç”, të këtij ligji, për shkak të:
+a) specieve, kategorive dhe fazave të ciklit jetësor të kafshëve të akuakulturës në fjalë;
+b) tipit të stabilimentit të origjinës e të mbërritjes;
+c) përdorimit të parashikuar të kafshëve të akuakulturës;
+ç) vendit të mbërritjes së kafshëve të akuakulturës;
+d) trajtimeve, metodave të përpunimit dhe masave të tjera të veçanta për zbutjen e riskut të zbatuara në vendin e origjinës ose të mbërritjes.

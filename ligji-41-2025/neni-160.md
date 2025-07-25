@@ -1,0 +1,10 @@
+# Neni 160
+Rregulla të hollësishme lidhur me lëvizjet e produktit gjerminal të kafshëve të mbajtura të specieve të gjedhit, dhenve, dhive, derrave, kuajve dhe produktit gjerminal të shpendëve
+1. Ministri, me propozimin e autoritetit kompetent qendror, në përputhje me nenin 271 të këtij ligji, do të miratojë me urdhër rregulla të hollësishme lidhur me kërkesat e shëndetit të kafshëve për lëvizjen e produktit gjerminal të kafshëve të mbajtura të specieve të gjedhit, dhenve, dhive, derrave, kuajve dhe produktit gjerminal të shpendëve, sipas kërkesave të nenit 159 të këtij ligji, ku saktësohen:
+a) rregullat për mbledhjen, prodhimin, përpunimin e magazinimin e produktit gjerminal të atyre kafshëve të mbajtura në stabilimentet e miratuara sipas nenit 159, pika 1, shkronja “a”, të këtij ligji;
+b) kërkesat në fushën e shëndetit të kafshëve sipas nenit 159, pika 1, shkronja “b”, të këtij ligji, për kafshët e mbajtura dhuruese, nga të cilat është mbledhur produkti gjerminal dhe kërkesat lidhur me izolimin ose karantinimin e atyre kafshëve;
+c) analizat laboratorike dhe analiza të tjera, që kryhen për kafshët e mbajtura dhuruese dhe produktin gjerminal;
+ç) kërkesat në fushën e shëndetit të kafshëve për mbledhjen, prodhimin, përpunimin, magazinimin ose për procedurat e tjera dhe transportin, sipas nenit 159, pika 1, shkronja “c”, të këtij ligji.
+2. Ministri, me propozimin e autoritetit kompetent qendror, në përputhje me nenin 271 të këtij ligji, miraton me urdhër rregulla të hollësishme lidhur me kërkesat në fushën e shëndetit të kafshëve për lëvizjen e produktit gjerminal të kafshëve të mbajtura të specieve të gjedhit, dhenve, dhive, derrave, kuajve dhe produktit gjerminal të shpendëve, sipas kërkesave të nenit 159 të këtij ligji, ku përcaktohen përjashtimet e operatorëve nga zbatimi i kërkesave të përshkruara në këtë nen, duke mbajtur parasysh riskun, që lidhet me produktin gjerminal në fjalë dhe masat për zbutjen e tij.
+Seksioni 3
+Certifikimi shëndetësor i kafshëve dhe njoftimi i lëvizjeve për produktin gjerminal

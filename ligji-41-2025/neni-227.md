@@ -1,0 +1,15 @@
+# Neni 227
+Kërkesat shëndetësore për kafshët e tjera dhe produkt gjerminal dhe produktet me origjinë shtazore të këtyre kafshëve
+Kur kafshët e tjera janë të një specie të listuar për një sëmundje të listuar sipas nenit 9, pika 1, shkronja ç, dhe këto kafshë të tjera ose produktet e tyre gjerminale e ose produktet me origjinë shtazore paraqesin një rrezik për shëndetin publik ose të kafshëve në vend, do të zbatohet një ose më shumë nga kërkesat e mëposhtme:
+a) kërkesat lidhur me regjistrimin, miratimin, mbajtjen e të dhënave dhe të regjistrave të stabilimenteve dhe transportuesve, sipas përshkrimeve në titullin I, krerët I (nenet nga 84 deri në 101) e II dhe titullin II (nenet nga 172 deri në 175) të këtij ligji;
+b) kërkesat lidhur me gjurmueshmërinë e parashikuar nga nenet 108 deri në 111 dhe në nenin 117 të këtij ligji për kafshët e tjera dhe nenin 122 të këtij ligji për produkteve gjerminale;
+c) kërkesat që lidhen me lëvizjen e kafshëve:
+i. për sa u përket kafshëve të tjera që jetojnë kryesisht në një mjedis tokësor ose që në përgjithësi preken nga sëmundjet e kafshëve të tokës, duke mbajtur parasysh kriteret e përshkruara në nenin 228, pika 3, shkronjat “ç” dhe “d”, të këtij ligji, kërkesat e përshkruara në pjesën IV, titulli I, kreu III, seksioni I (nenet 124 dhe 125) të këtij ligji, në seksionin 6 (nenet nga 137 deri në 142) të këtij ligji dhe në kreun IV (nenet 155 dhe 156) të këtij ligji;
+ii. për sa u përket kafshëve të tjera që jetojnë kryesisht në mjedis ujor ose që në përgjithësi preken nga sëmundjet e kafshëve të ujit, duke mbajtur parasysh kriteret e përshkruara në nenin 228, pika 3, shkronjat “ç” dhe “d”, të këtij ligji, si dhe kërkesat e përshkruara në pjesën IV, titulli II, kreu II, nga seksioni 1 deri në 4 (nenet nga 191 deri në 207) të këtij ligji;
+iii. për sa u përket produkteve gjerminale, kërkesat e përgjithshme për lëvizjet e parashikuara në nenet 157 dhe 158 të këtij ligji dhe kërkesat e veçanta për lëvizjet e parashikuara në nenet 164 dhe 165 të këtij ligji;
+iv. për sa u përket produkteve me origjinë shtazore, detyrimet e përgjithshme të operatorëve në fushën e shëndetit të kafshëve lidhur me prodhimin, përpunimin e shpërndarjen e produkteve me origjinë shtazore të parashikuara në nenet 166 dhe 222 të këtij ligji;
+ç) detyrimin e operatorëve dhe të autoritetit kompetent të kontrolleve zyrtare për certifikimin shëndetësor dhe detyrimin e operatorëve për vetëdeklarimin:
+i. për sa u përket kafshëve të tjera, në përputhje me rregullat e parashikuara nga nenet 143 deri në 151 ose nga nenet 208 deri në 218 të këtij ligji;
+ii. për sa u përket produkteve gjerminale, në përputhje me rregullat e parashikuara në nenet 161 dhe 162 të këtij ligji;
+iii. për sa u përket produkteve me origjinë shtazore, në përputhje me rregullat e parashikuara në nenet 167 dhe 168 të këtij ligji ose nenet 223 dhe 224 të këtij ligji;
+d) detyrimin e operatorëve dhe të autoritetit kompetent të kontrolleve zyrtare për njoftimin e lëvizjeve, duke mbajtur parasysh kërkesat e përshkruara në nenet 152, 153, 154, 163, 169, nga nenet 219 deri në 221 dhe nenin 225 të këtij ligji.

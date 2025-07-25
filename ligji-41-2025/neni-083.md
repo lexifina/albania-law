@@ -1,0 +1,10 @@
+# Neni 83
+Bashkëpunimi dhe rregullat e veçanta të përkohshme të kontrollit të sëmundjeve lidhur me seksionin 1 deri në 4 të këtij kreu
+1. Autoriteti kompetent i kontrolleve zyrtare njofton autoritetin kompetent qendror për:
+a) masat e kontrollit të sëmundjeve të marra në përputhje me nenet 77, pika 1, 78, 79 dhe 81, të këtij ligji, si dhe me rregullat e miratuara në zbatim të nenit 77, pika 2, të këtij ligji, lidhur me një sëmundje të listuar sipas nenit 9, pika 1, shkronja “b”, të këtij ligji;
+b) masat e kontrollit të sëmundjeve të marra në përputhje me nenet 77, pika 1, 78, 80, pika 1, dhe 82, të këtij ligji, si dhe me rregullat e miratuara në zbatim të nenit 77, pika 2, të këtij ligji, lidhur me një sëmundje të listuar sipas nenit 9, pika 1, shkronja “c”, të këtij ligji.
+2. Autoriteti kompetent i kontrolleve zyrtare i kërkon autoritetit kompetent qendror një vlerësim për masat e kontrollit të sëmundjeve të marra nga autoriteti kompetent për sëmundjen në fjalë, si dhe masat e mundshme shtesë të kontrollit të sëmundjeve të marra në përputhje me dispozitat e këtij kreu.
+Autoriteti kompetent zbaton sugjerimet e mundshme të autoritetit kompetent qendror për masat e veçanta të kontrollit të sëmundjeve dhe i propozon ministrit për miratim masat e veçanta të kontrollit të sëmundjeve për një periudhë kohe të kufizuar lidhur me një sëmundje të listuar sipas nenit 9, pika 1, shkronjat “b” ose “c”, të këtij ligji, në kushte që i përshtaten situatës epidemiologjike atëherë kur:
+a) masat e marra për kontrollin e sëmundjes nuk janë më të përshtatshme për situatën epidemiologjike;
+b) sëmundja e listuar sipas nenit 9, pika 1, shkronjat “b” ose “c”, të këtij ligji vazhdon të përhapet më tej, pavarësisht masave të kontrollit të sëmundjeve të marra në përputhje me këtë krye.
+3. Për rastet e urgjencave të mirargumentuara, që lidhen me një sëmundje të listuar sipas nenit 9, pika 1, shkronjat “b” ose “c”, të këtij ligji, që përbën një risk të menjëhershëm me pasoja shumë të rënda, ministri, me propozimin e autoritetit kompetent qendror, përcakton masa me zbatim të menjëhershëm.

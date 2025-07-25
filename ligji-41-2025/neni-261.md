@@ -1,0 +1,4 @@
+# Neni 261
+Masa emergjente të tjera
+1. Autoriteti kompetent qendror, me propozimin e autoritetit kompetent të kontrolleve zyrtare, për masat e marra sipas nenit 260, pika 3, të këtij ligji mund të marrë një ose më shumë masa emergjente të përkohshme, sipas përcaktimeve të nenit 259, shkronja “a”, të këtij ligji, lidhur me kafshët dhe produktet, si dhe me mjetet e transportit ose me materialet e tjera, që mund të kenë rënë në kontakt me këto kafshë e produkte, të cilat vijnë nga një shtet joanëtar i Bashkimit Evropian ose territor i tij, sipas nenit 260, pika 1, të këtij ligji, në varësi të situatës së rëndë të përhapjes së sëmundjes në shtetin në fjalë.
+2. Autoriteti kompetent qendror njofton pa vonesa të panevojshme Komisionin Evropian dhe autoritetet kompetente të shteteve të tjera, sipas marrëveshjeve dypalëshe, për masat urgjente të marra sipas pikës 1 të këtij neni, duke përshkruar arsyet e marrjes së këtyre masave.

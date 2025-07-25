@@ -1,0 +1,8 @@
+# Neni 243
+Eksporti
+1. Autoriteti kompetent qendror merr masat e nevojshme për të siguruar që eksporti dhe rieksporti i kafshëve dhe i produkteve për në një shtet tjetër ose territor të tij të bëhet në përputhje me rregullat për lëvizjen e kafshëve dhe të produkteve brenda vendit, të parashikuara në dispozitat e pjesës IV (nenet nga 84 deri në 228) të këtij ligji. Autoriteti kompetent, për marrjen e masave të nevojshme, merr në konsideratë statusin shëndetësor të kafshëve në shtetin e mbërritjes ose në territorin e tij, ose të zonës apo të ndarjeve të tij, lidhur me sëmundjet e listuara, sipas nenit 9, pika 1, shkronja “ç”, të këtij ligji, dhe sëmundjet emergjente.
+2. Në ndryshim nga kërkesat e pikës 1 të këtij neni, nëse kërkohet nga autoriteti kompetent i shtetit tjetër ose autoriteti që vepron në një territor, që importon kafshët e produktet në fjalë ose nëse është përcaktuar nga procedurat ligjore dhe administrative në fuqi në atë shtet ose territor të tij, eksporti dhe rieksporti nga Shqipëria mund të bëhet në përputhje me procedurat në fuqi në atë shtet ose territor të tij, me kusht që këto eksporte ose rieksporte të mos cenojnë shëndetin e kafshëve ose shëndetin publik.
+3. Në rastet e marrëveshjeve dypalëshe të lidhura ndërmjet Shqipërisë dhe Bashkimit Evropian dhe me shtete të tjera, lëvizjet e kafshëve e të produkteve kryhen në përputhje me kërkesat e këtij ligji.
+4. Autoriteti kompetent qendror harton listat e stabilimenteve të kafshëve, të produktit gjerminal dhe produkteve me origjinë shtazore të miratuara dhe/ose të regjistruara, që eksportojnë, në përputhje me kërkesat e këtij ligji.
+PJESA VΙ
+LËVIZJET PËR QËLLIME JOTREGTARE TË KAFSHËVE TË SHOQËRIMIT

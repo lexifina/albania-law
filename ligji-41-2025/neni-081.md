@@ -1,0 +1,5 @@
+# Neni 81
+Masat e kontrollit për sëmundjet e listuara sipas nenit 9, pika 1, shkronja “b”, të këtij ligji, në kafshët e egra
+Kur autoriteti kompetent qendror dyshon ose konfirmon zyrtarisht praninë e një sëmundjeje të listuar sipas nenit 9, pika 1, shkronja “b”, të këtij ligji, te kafshët e egra, në të gjithë territorin ose në zonën përkatëse, që lidhet me shpërthimin, autorizon autoritetin kompetent të kontrolleve zyrtare të marrë masat që vijojnë:
+a) zbatimin e masave të kontrollit të sëmundjeve të përcaktuara në programin e detyrueshëm të çrrënjosjes, sipas nenit 31, pika 1, të këtij ligji, për atë sëmundje të listuar; ose
+b) fillimin e një programi të detyrueshëm të çrrënjosjes, kur programi i çrrënjosjes sipas nenit 31, pika 1, të këtij ligji për atë sëmundje të listuar nuk është zbatuar ende për shkak të mungesës së asaj sëmundjeje ose të statusit “i pastër” nga sëmundja në fjalë, si dhe, nëse janë të nevojshme, masa për kafshët e egra, me qëllim kontrollin dhe parandalimin e përhapjes së asaj sëmundjeje.

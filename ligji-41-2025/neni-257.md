@@ -1,0 +1,10 @@
+# Neni 257
+Masat emergjente që merr autoriteti kompetent në rastin e shfaqjes së një shpërthimi të një sëmundjeje të listuar ose të një sëmundjeje emergjente ose të shfaqjes së një rreziku në një shtet tjetër
+1. Autoriteti kompetent i kontrolleve zyrtare, në rast të shfaqjes së një shpërthimi ose rreziku, sipas përcaktimeve të nenit 256, pika 1, të këtij ligji, në një shtet tjetër, në varësi të situatës së rëndë të sëmundjes ose rrezikut në fjalë, merr menjëherë një ose më shumë nga masat emergjente të përshkruara në nenin 256, pika 1, të këtij ligji, kur zbulon praninë në vend të kafshëve ose produkteve që vijnë nga shteti tjetër apo të mjeteve të transportit ose materialeve të tjera që mund të kenë rënë në kontakt me këto kafshë dhe produkte, në shtetin tjetër ose gjatë transportit.
+2. Autoriteti kompetent i kontrolleve zyrtare mund të marrë masa emergjente të përkohshme, sipas nenit 256, pika 1, të këtij ligji, në varësi të situatës së rëndë të sëmundjes, që lidhet me kafshët ose produktet:
+a) që vijnë nga stabilimente ose vende të tjera ose sipas rastit nga zona mbi të cilat janë vendosur masa kufizuese nga autoriteti kompetent i shtetit të origjinës, ku është shfaqur sëmundja ose rreziku sipas nenit 256, pika 1, të këtij ligji; ose
+b) në mjetet e transportit ose në materialet e tjera, që mund të kenë rënë në kontakt me këto kafshë.
+3. Autoriteti kompetent, në rast të shfaqjes në një shtet kufitar të një shpërthim të një sëmundjeje të listuar sipas nenit 9, pika 1, shkronja “a”, të këtij ligji, ose të një sëmundjeje emergjente, mund të marrë masat e përshkruara në nenin 256, pika 1, të këtij ligji, me qëllim parandalimin e përhapjes së sëmundjes në fjalë në territorin e Republikës së Shqipërisë.
+4. Autoriteti kompetent njofton Komisionin Evropian dhe shtetet e tjera sipas marrëveshjeve dypalëshe:
+a) menjëherë për shfaqjen e një shpërthimi ose shfaqjen e një rreziku sipas pikës 1 të këtij neni;
+b) për masat emergjente të marra, pa vonesa të panevojshme, sipas pikave 1 dhe 2 të këtij neni.

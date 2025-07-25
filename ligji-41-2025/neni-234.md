@@ -1,0 +1,9 @@
+# Neni 234
+Kërkesat në fushën e shëndetit të kafshëve për hyrjen në vend të specieve dhe kategorive të kafshëve, produktit gjerminal dhe produkteve me origjinë shtazore
+1. Kërkesat në fushën e shëndetit të kafshëve për hyrjen në vend të specieve dhe të kategorive të kafshëve, të produktit gjerminal dhe produkteve me origjinë shtazore nga shtete të tjera ose territore të tyre:
+a) janë po aq shtrënguese sa dhe kërkesat për shëndetin e kafshëve të përcaktuara në këtë ligj dhe në rregullat e miratuara në zbatim të tij, për lëvizjet e specieve dhe kategorive të kafshëve, produktit gjerminal ose produkteve me origjinë shtazore në vend; ose
+b) japin garanci të barasvlefshme me kërkesat në fushën e shëndetit të kafshëve që zbatohen për speciet dhe kategoritë e kafshëve, produktit gjerminal ose produkteve me origjinë shtazore të përshkruara në pjesën IV (nenet nga 84 deri në 228) të këtij ligji.
+2. Ministri, me propozimin e autoritetit kompetent qendror, në përputhje me nenin 271 të këtij ligji, miraton rregulla në fushën e shëndetit të kafshëve për:
+a) hyrjen në vend të specieve dhe kategorive të kafshëve, produktit gjerminal dhe produkteve me origjinë shtazore nga shtetet e tjera ose territore të tyre;
+b) lëvizjet e kafshëve dhe trajtimi i produktit gjerminal dhe produkteve me origjinë shtazore pas hyrjes së tyre në vend, kur kjo është e nevojshme për zbutjen e riskut.
+3. Për një specie dhe kategori të veçantë të kafshëve, produktit gjerminal ose produkteve me origjinë shtazore, në pritje të përcaktimit të rregullave në fushën e shëndetit të kafshëve, sipas përshkrimeve të pikës 1 të këtij neni, autoriteti kompetent, pas vlerësimit të riskut që lidhet me hyrjen e asaj specie dhe kategorie të kafshëve, produktit gjerminal ose produkteve me origjinë shtazore, zbaton rregullat e miratuara sipas kërkesave të pikës 1 të këtij neni dhe të neneve 235 dhe 236 të këtij ligji.

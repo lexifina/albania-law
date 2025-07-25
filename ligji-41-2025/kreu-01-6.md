@@ -1,0 +1,4 @@
+KREU I
+REGJISTRIMI, MIRATIMI, RUAJTJA E DOKUMENTACIONEVE DHE E REGJISTRAVE
+Seksioni 1
+Regjistrimi i stabilimenteve të akuakulturës

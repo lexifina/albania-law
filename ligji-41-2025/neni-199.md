@@ -1,0 +1,3 @@
+# Neni 199
+Masat lidhur me lëshimin në habitatin natyror të kafshëve të ujit
+Autoriteti kompetent i kontrolleve zyrtare mund të vendosë që kafshët e ujit të lëshohen në habitatin natyror vetëm nëse ato vijnë nga një vend, zonë ose ndarje i tij, që është deklaruar “i pastër nga sëmundja”, sipas nenit 36, pika 1, të këtij ligji, ose nenit 37, pika 1, të këtij ligji, lidhur me një ose më shumë nga sëmundjet e listuara sipas nenit 9, pika 1, shkronjat “b” dhe “c”, të këtij ligji, për të cilat speciet e kafshëve të ujit që lëvizen është një specie e listuar, pavarësisht nga statusi shëndetësor i zonës, ku ato kafshë uji lëshohen.

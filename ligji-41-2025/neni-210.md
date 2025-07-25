@@ -1,0 +1,3 @@
+# Neni 210
+Përjashtimet nga certifikimi shëndetësor për kafshët e ujit
+Në ndryshim nga kërkesat e certifikimit shëndetësor të përcaktuara në nenet 208 dhe 209 të këtij ligji, autoriteti kompetent i kontrolleve zyrtare mund të autorizojë përjashtime për lëvizjet brenda vendit të ngarkesave të caktuara të kafshëve të ujit pa një certifikatë shëndetësore të kafshëve, me kusht që të ketë një sistem alternativ, i cili garanton gjurmueshmërinë e këtyre ngarkesave të kafshëve të ujit dhe përmbushjen e kërkesave të shëndetit të kafshëve për këto lëvizje, të parashikuara në seksionet 1 deri në 4 të këtij kreu (nenet 191 deri 207).

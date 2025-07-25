@@ -1,0 +1,17 @@
+# Neni 31
+Programet e çrrënjosjes të detyrueshme dhe opsionale
+1. Autoriteti kompetent qendror për zonat që nuk janë të pastra dhe që nuk njihen si të pastra nga një ose më shumë sëmundje të listuara, sipas nenit 9, pika 1, shkronja “b”, të këtij ligji, për të gjithë territorin e vendit ose në zona të caktuara ose në ndarjet e tij:
+a) harton një program për çrrënjosjen e sëmundjes së listuar ose që provon se sëmundja e listuar nuk është e pranishme. Ky program i detyrueshëm i çrrënjosjes përfshin të gjitha popullatat e kafshëve të prekshme nga sëmundja e listuar në fjalë dhe zbatohet deri në plotësimin e kushteve për dhënien e statusit i pastër nga sëmundja në fjalë në të gjithë territorin ose në një zonë të caktuar, në përputhje me nenin 36, pika 1, të këtij ligji, ose në një ndarje, në përputhje me nenin 37, pika 2, të këtij ligji;
+b) dërgon në Komisionin Evropian për njoftim, kur i kërkohet, projektprogramin e çrrënjosjes së detyrueshme të hartuar sipas këtij neni.
+2. Autoriteti kompetent qendror për zonat që nuk janë të pastra dhe që nuk njihen si të pastra nga një ose më shumë sëmundje të listuara, sipas nenit 9, pika 1, shkronja “c”, mund të vendosë të hartojë një program për çrrënjosjen e sëmundjes së listuar. Ky program opsional i çrrënjosjes zbatohet në popullatat e kafshëve të prekshme nga sëmundja në fjalë dhe shtrihet në një pjesë të territorit, zonë ose ndarje të tij.
+Autoriteti kompetent qendror i dërgon Komisionit Evropian, për njoftim, projektprogramin opsional të çrrënjosjes, me qëllim që Komisioni Evropian të njohë garancitë në fushën e shëndetit të kafshëve, që i jepen për lëvizjen e kafshëve ose produkteve për sëmundjen në fjalë, kur i kërkohet.
+Një program i tillë opsional i çrrënjosjes zbatohet deri kur:
+a) të jenë plotësuar kushtet për dhënien e statusit “i pastër nga sëmundja” për të gjithë territorin ose një zonë sipas nenit 36, pika 1, të këtij ligji, ose për një ndarje sipas nenit 37, pika 2, të këtij ligji; ose
+b) të vendoset se kushtet për dhënien e statusit “i pastër nga sëmundja” nuk mund të arrihen dhe se programi nuk arrin më qëllimin e tij; ose
+c) autoriteti kompetent tërhiqet nga zbatimi i programit.
+3. Ministri, me propozimin e autoritetit kompetent qendror, sipas rastit, miraton, nëse plotësohen kushtet e përcaktuara në këtë krye:
+a) projektprogramet e çrrënjosjes së detyrueshme, të hartuara sipas pikës 1 të këtij neni;
+b) projektprogramet opsionale të çrrënjosjes, të hartuara sipas pikës 2 të këtij neni.
+4. Në rastet e urgjencës së mirargumentuar për një sëmundje të listuar, që paraqet një risk me një ndikim shumë të rëndësishëm, ministri miraton me urgjencë programin e çrrënjosjes së detyrueshme me zbatim të menjëhershëm, sipas pikës 3, shkronja “a”, të këtij neni.
+Për arsye të mirargumentuara, në rastet kur Komisioni Evropian kërkon ndryshime në projektprogramin e dërguar të çrrënjosjes ose shfuqizon një program çrrënjosjeje të miratuar më parë sipas pikës 3, shkronjat “a” dhe “b”, autoriteti kompetent qendror i propozon ministrit ndryshime ose shfuqizime, sipas rastit, në programet e çrrënjosjes sipas pikës 3, shkronjat “a” dhe “b”, të këtij neni.
+5. Ministri, me propozimin e autoritetit kompetent qendror, në përputhje me nenin 271 të këtij ligji, miraton programet afatgjata të kontrollit të sëmundjeve, objektivat e ndërmjetëm e përfundimtarë për sëmundjet specifike dhe periudhën e zbatimit të programeve të çrrënjosjes.

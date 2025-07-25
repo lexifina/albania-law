@@ -1,0 +1,10 @@
+# Neni 143
+Detyrimi i operatorëve për t’u siguruar që kafshët të shoqërohen me një certifikatë shëndetësore
+1. Operatorët i lëvizin speciet dhe kategoritë e mëposhtme të kafshëve të mbajtura të tokës vetëm nëse kafshët në fjalë shoqërohen me një certifikatë shëndetësore të lëshuar nga autoriteti kompetent i kontrolleve zyrtare, në përputhje me nenin 149, pika 1, të këtij ligji, për:
+a) thundrakët;
+b) shpendët;
+c) kafshët e mbajtura të tokës, të ndryshme nga thundrakët dhe shpendët, të destinuara për në një stabiliment të izoluar;
+ç) kafshë të mbajtura të tokës, të ndryshme nga ato të përshkruara në shkronjat “a”, “b” dhe “c” të kësaj pike, nëse kërkohet nga rregullat e miratuara sipas nenit 144, pika 1, shkronja “c”, të këtij ligji.
+2. Operatorët autorizohen t’i lëvizin kafshët e mbajtura të tokës, të cilat u përkasin specieve të kafshëve që u nënshtrohen masave të kontrollit të sëmundjeve dhe nga një zonë mbi të cilën janë vendosur masa kufizuese, sipas neneve 55, pika 1, shkronja “dh ”, nënndarja “ii”, 56 dhe 64, pika 1, të këtij ligji, si dhe u nënshtrohen masave të kontrollit të sëmundjeve të parashikuara në nenet 55, pika 1, 65, pika 1, 74, pika 1, 79 ose 80 të këtij ligji, ose rregullave të miratuara në zbatim të neneve 55, pika 2, 67, 71, pika 3, 74, pika 4, 83, pika 3, ose 258 të këtij ligji, vetëm kur kafshët që lëvizen shoqërohen me një certifikatë shëndetësore të lëshuar nga autoriteti kompetent i kontrolleve zyrtare, sipas nenit 149, pika 1, të këtij ligji.
+Autoriteti kompetent i kontrolleve zyrtare mund të vendosë që të mos lëshojë një certifikatë shëndetësore për lëvizjet brenda vendit të kafshëve të mbajtura të tokës kur ka një sistem alternativ, që garanton gjurmueshmërinë e ngarkesës së këtyre kafshëve dhe që ato kafshë përmbushin kërkesat shëndetësore për një lëvizje të tillë.
+3. Operatorët marrin masat e nevojshme për të siguruar që kafshët e mbajtura të tokës të shoqërohen me certifikatën shëndetësore sipas pikës 1 të këtij neni, nga vendi i tyre i origjinës deri në vendmbërritjen fundore, me përjashtim të rasteve kur parashikohen masa të veçanta në rregullat e miratuara në zbatim të nenit 147 të këtij ligji.

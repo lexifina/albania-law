@@ -1,0 +1,8 @@
+# Neni 177
+Miratimi i grupeve të stabilimenteve të akuakulturës nga autoriteti kompetent
+Autoriteti kompetent i kontrolleve zyrtare mund të japë miratimin për një grup stabilimentesh akuakulture, sipas nenit 181, pika 1, të këtij ligji, me kusht që ata të përmbushin një nga kriteret e mëposhtme:
+a) janë të vendosura në një zonë të lidhur nga ana epidemiologjike dhe të gjithë operatorët e asaj zone zhvillojnë aktivitetin e tyre në kuadër të një sistemi të përbashkët të biosigurisë. Megjithatë, çdo stabiliment në breg ose në det për pritjen, kondicionimin, larjen, pastrimin, klasifikimin, ambalazhimin dhe paketimin i molusqeve të gjalla bivalve të destinuara për konsum njerëzor (të ashtuquajturat “qendra dërgimi”), vendosje me rezervuarë të ushqyer nga uji i pastër i detit, në të cilin vendosen molusqet e gjalla bivalve për kohën e nevojshme për të zvogëluar ndotjen për t’i bërë ato të përshtatshme për konsum njerëzor (të ashtuquajturat “qendrat e depurimit”) dhe stabilimentet e ngjashme të vendosura brenda një zone të tillë të lidhur epidemiologjikisht duhet të miratohen individualisht;
+b) janë nën përgjegjësinë e të njëjtit operator; dhe
+i. zhvillojnë aktivitetin në kuadër të një sistemi të përbashkët të biosigurisë; dhe
+ii. kafshët e akuakulturës të këtyre stabilimenteve janë pjesë e së njëjtës njësi epidemiologjike.
+Kur jepet një miratim i vetëm për një grup stabilimentesh të akuakulturës, për secilin nga stabilimentet e akuakulturës në përbërje të grupit zbatohen rregullat e përshkruara në nenin 178 dhe nga neni 180 deri në nenin 184 të këtij ligji, si dhe rregullat e miratuara në zbatim të neneve 180, pika 2, dhe 181, pika 2, të këtij ligji.

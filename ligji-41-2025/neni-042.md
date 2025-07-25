@@ -1,0 +1,15 @@
+# Neni 42
+Pezullimi, heqja dhe ridhënia e statusit “i pastër nga sëmundja”
+1. Ministri, me propozimin e autoritetit kompetent qendror, kur ky i fundit ka dijeni ose ka arsye për të dyshuar se është shkelur ndonjë prej kushteve për ruajtjen e statusit “i pastër nga sëmundja” të vendit, zonës ose ndarjet të tij, në mënyrë të menjëhershme:
+a) pezullon ose kufizon, nëse nevojitet sipas riskut, lëvizjet e specieve të listuara për sëmundjet e listuara për të cilat është dhënë statusi “i pastër nga sëmundja”, në drejtim të shteteve të tjera, zonave ose ndarjeve, që kanë një status shëndetësor më të lartë lidhur me atë sëmundje të listuar;
+b) zbatohen masat e kontrollit të sëmundjeve sipas kërkesave të pjesës III, titulli II, të këtij ligji, kur është e rëndësishme për të parandaluar përhapjen e një sëmundjeje të listuar për të cilën është dhënë statusi “i pastër nga sëmundja”.
+2. Masat e përshkruara në pikën 1 të këtij neni hiqen nëse nga hetimi i mëtejshëm konfirmohet se:
+a) shkelja e dyshuar nuk ka ndodhur; ose
+b) shkelja e dyshuar nuk ka pasur pasoja të rënda dhe autoriteti kompetent mund të garantojë se kushtet për ruajtjen e statusit “i pastër nga sëmundja” janë plotësuar përsëri.
+3. Kur hetimi i mëtejshëm i kryer nga autoriteti kompetent konfirmon se ka pasur një shpërthim të sëmundjes së listuar për të cilën është dhënë statusi “i pastër nga sëmundja”, ose se ka pasur shkelje të tjera të rënda të kushteve për ruajtjen e statusit “i pastër nga sëmundja”, sipas nenit 41, pika 1, të këtij ligji, ose kur ka një probabilitet të lartë që kjo të ketë ndodhur, autoriteti kompetent qendror i kërkon ministrit heqjen e statusit “i pastër” nga sëmundja në fjalë pa vonesa të panevojshme dhe njofton menjëherë Komisionin Evropian për heqjen e statusit.
+4. Ministri, me propozimin e autoritetit kompetent qendror, duhet të shfuqizojë, pa vonesa të panevojshme, statusin “i pastër nga sëmundja” për të gjithë vendin ose një zonë të caktuar, të dhënë në përputhje me nenin 36, pika 4, ose statusin “i pastër nga sëmundja” për një ndarje, të dhënë në përputhje me nenin 37, pika 4, të këtij ligji, në rastet kur:
+a) autoriteti kompetent qendror arrin në përfundimin se kushtet për ruajtjen e statusit “i pastër nga sëmundja” nuk plotësohen më;
+b) Komisioni Evropian nuk miraton kërkesën për dhënien e statusit “i pastër nga sëmundja”;
+c) Komisioni Evropian kërkon heqjen e statusit “i pastër nga sëmundja”.
+5. Për rastet e urgjencave të mirargumentuara dhe që kërkojnë ndërhyrje të menjëhershme, kur sëmundja e listuar e përshkruar në pikën 3 të këtij neni përhapet me shpejtësi të lartë dhe mbart riskun e pasojave shumë të rënda për shëndetin e kafshëve ose shëndetin publik, në ekonomi ose shoqëri, ministri, me propozimin e autoritetit kompetent qendror, përcakton masa me zbatim të menjëhershëm.
+6. Ministri, me propozimin e autoritetit kompetent qendror dhe në përputhje me nenin 271 të këtij ligji, miraton rregullat lidhur me pezullimin, heqjen dhe ridhënien e statusit “i pastër nga sëmundja”, sipas pikave 1 dhe 2 të këtij neni.

@@ -1,0 +1,4 @@
+# Neni 66
+Detyrimet e operatorëve për lëvizjen në zonën e kufizuar
+1. Në zonat, ku janë vendosur masat kufizuese, sipas nenit 64, pika 1, të këtij ligji, operatorët i lëvizin kafshët e mbajtura dhe produktet vetëm me autorizimin dhe në përputhje me udhëzimet e dhëna nga autoriteti kompetent i kontrolleve zyrtare.
+2. Operatorët që mbajnë kafshë dhe produkte në një zonë, ku janë vendosur masa kufizuese, sipas nenit 64, pika 1, të këtij ligji, njoftojnë paraprakisht autoritetin kompetent të kontrolleve zyrtare për çdo lloj lëvizjeje të parashikuar të kafshëve të mbajtura ose produkteve, brenda ose për jashtë zonës, ku janë vendosur masat kufizuese në fjalë. Në zbatim të detyrimeve për njoftimin, të vendosura nga autoriteti kompetent sipas nenit 65, pika 2, shkronja “b”, të këtij ligji, operatorët në fjalë njoftojnë autoritetin kompetent të kontrolleve zyrtare për përmbushjen e tyre.

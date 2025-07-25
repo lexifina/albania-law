@@ -1,0 +1,6 @@
+# Neni 269
+Operatorët e stabilimenteve ekzistuese
+1. Stabilimentet dhe operatorët e regjistruar ose të licencuar, në përputhje me ligjin nr. 10 081, datë 23.2.2009, “Për licencat, autorizimet dhe lejet në Republikën e Shqipërisë”, i ndryshuar, dhe aktet nënligjore në zbatim të tij, përpara hyrjes në fuqi të këtij ligji, vazhdojnë të kryejnë aktivitetin e tyre deri në plotësimin e kërkesave të pikës 2 të këtij neni.
+2. Stabilimentet dhe operatorët e regjistruar ose të miratuar, të parashikuar në pikën 1 të këtij neni, miratohen dhe/ose regjistrohen, sipas rastit, në përputhje me kërkesat e këtij ligji brenda 6 (gjashtë) muajve nga data e hyrjes në fuqi të këtij ligji.
+3. Autoriteti kompetent ndalon ushtrimin e veprimtarisë së stabilimenteve dhe të operatorëve, që janë subjekt i këtij ligji, kur nuk plotësojnë kërkesat e pikës 2 të këtij neni.
+4. Këshilli i Ministrave, me propozimin e ministrit, mund të miratojë rregulla në përputhje me nenin 271 të këtij ligji, të nevojshme për të garantuar një tranzicion të lehtë nga rregullat e zbatuara përpara hyrjes në fuqi të këtij ligji dhe të përshkruara në pikën 1 të këtij neni, veçanërisht për të mbrojtur të drejtat e fituara dhe për t’iu përgjigjur pritshmërive të ligjshme të personave fizikë dhe personave juridikë, që preken nga ky ligj.

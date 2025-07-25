@@ -1,0 +1,8 @@
+# Neni 252
+Kërkesa lidhur me masat e parandalimit e të zbutjes së riskut
+1. Ministri, me propozimin e autoritetit kompetent qendror, lidhur me kafshët e shoqërimit të specieve të listuara në aneksin I, pjesa A:
+a) përcakton rregulla për formatin, paraqitjen dhe gjuhët e dokumenteve, kërkuar sipas nenit 251, pika 4, shkronjat “c” dhe “ç”, të këtij ligji;
+b) mbështetur në listën përkatëse të miratuar nga Komisioni Evropian, përcakton listën e shteteve anëtare të Bashkimit Evropian, që përmbushin kushtet e përshkruara në nenin 251, pika 4, shkronja “ç”, të këtij ligji, dhe heqjen e tyre nga lista kur ato shtete nuk i përmbushin më kushtet përkatëse;
+c) mbështetur në listën përkatëse të miratuar nga Komisioni Evropian, përcakton listën e shteteve anëtare të Bashkimit Evropian, që përmbushin rregullat për klasifikimin e shteteve ose zonave të tyre, sipas nenit 251, pika 4, shkronja “a”, të këtij ligji, dhe i heq nga lista kur ato shtete nuk i përmbushin më kushtet përkatëse;
+ç) mbështetur në listën përkatëse të miratuar nga Komisioni Evropian, përcakton listën e shteteve të tjera dhe territoreve të tyre, që përmbushin kushtet e përshkruara sipas nenit 251, pika 4, shkronja “ç”, të këtij ligji, dhe i heq nga lista atëherë kur ato shtete nuk i përmbushin më kushtet përkatëse.
+2. Për kafshët e shoqërimit të specieve të listuara në aneksin I, pjesa B, ministri, me propozimin e autoritetit kompetent qendror, mbështetur në listën përkatëse të miratuar nga Komisioni Evropian, përcakton listën e shteteve të tjera dhe territoreve të tyre që përmbushin kushtet e përshkruara në nenin 251, pika 4, shkronjat “b”, “c” dhe/ose “ç”, të këtij ligji, dhe i heq nga lista kur ato shtete nuk i përmbushin më kushtet përkatëse.

@@ -1,0 +1,6 @@
+# Neni 206
+Rregulla të përkohshme për lëvizjet e specieve ose kategorive të veçanta të kafshëve të ujit
+1. Ministri, me propozimin e autoritetit kompetent qendror, mund të përcaktojë rregulla të përkohshme, si shtesë ose alternative ndaj atyre të parashikuara në këtë krye, për lëvizjet e specieve ose të kategorive të veçanta të kafshëve të ujit, nëse:
+a) kërkesat e lëvizjes të parashikuara në nenet 196, 197, pika 1, 198, 199, 200, pikat 1 dhe 2, 201, 202, pika 1, 203, pika 1, 204, pikat 1 dhe 2, të këtij ligji, ose në rregullat e miratuara në zbatim të neneve 197, pika 3, 200, pika 3, 202, pika 3, 203, pika 2, 204, pika 3, dhe 205 të këtij ligji, nuk tregojnë efikasitet në zbutjen e risqeve, që paraqet lëvizja e këtyre kafshëve të ujit; ose
+b) sëmundjet e listuara sipas nenit 9, pika 1, shkronja “ç” duket se po përhapen, me gjithë masat e marra për lëvizjen e kafshëve të ujit, të përcaktuara në përputhje me seksionet 1 deri në 4 të këtij kreu (nenet 191 deri në 207).
+2. Për rastet e urgjencave të mirargumentuara dhe që kërkojnë ndërhyrje të menjëhershme, kur sëmundja mbart riskun e pasojave shumë të rënda dhe duke mbajtur parasysh kërkesat e nenit 205 të këtij ligji, ministri, me propozimin e autoritetit kompetent qendror, përcakton rregulla me zbatim të menjëhershëm.
