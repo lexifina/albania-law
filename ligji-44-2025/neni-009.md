@@ -1,0 +1,8 @@
+# Neni 9
+Përgjegjësitë funksionale
+ZRA-ja është përgjegjëse për:
+a) lehtësimin e bashkëpunimit të agjencive kombëtare ligjzbatuese me agjencitë ligjzbatuese të vendeve ku janë krijuar dhe funksionojnë ZRA-të homologe, me qëllim gjurmimin dhe identifikimin e të ardhurave, aseteve dhe përfitimeve të tjera pasurore, që lidhen drejtpërdrejt ose tërthorazi me një vepër penale ose veprimtari kriminale, të cilat janë ose mund të jenë objekt i një vendimi sekuestrimi apo konfiskimi pas fillimit të procedimit penal;
+b) shkëmbimin e informacionit me organet ligjzbatuese kombëtare dhe ndërkombëtare për rastet për të cilat ka filluar një procedim penal, për të ndihmuar në gjurmimin e identifikimin e të ardhurave, aseteve ose përfitimeve pasurore nga aktivitetet kriminale, në përputhje me standardet e mbrojtjes së të dhënave dhe marrëveshjet e zbatueshme të bashkëpunimit;
+c) shkëmbimin e praktikave dhe të metodave me organet ligjzbatuese kombëtare e ndërkombëtare për të përmirësuar gjurmimin dhe rikuperimin e aseteve, duke siguruar përputhjen me standardet e mbrojtjes së të dhënave dhe duke u fokusuar në teknikat procedurale, por jo në informacione të ndjeshme specifike për çështje konkrete;
+ç) mbledhjen e statistikave lidhur me gjurmimin e identifikimin e të ardhurave, aseteve dhe përfitimeve të tjera pasurore, që lidhen drejtpërdrejt ose tërthorazi me një vepër penale ose veprimtari kriminale, sipas legjislacionit në fuqi;
+d) bashkëpunimin me rrjetet ndërkombëtare të rikuperimit të aseteve dhe me organizma të tjerë, që konsiderohen të përshtatshëm në funksion të kryerjes së veprimtarisë së ZRA-së, sipas përcaktimeve të këtij ligji.

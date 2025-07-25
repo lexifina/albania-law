@@ -1,0 +1,8 @@
+# Neni 13
+Mbrojtja dhe konfidencialiteti i të dhënave personale dhe atyre të klasifikuara
+“sekret shtetëror”
+1. Mbledhja, përpunimi dhe administrimi i të dhënave personale dhe atyre të klasifikuara “sekret shtetëror” kryhet në përputhje me parimet, kriteret, si dhe masat tekniko-organizative të zbatueshme për garantimin e zbatimit të legjislacionit në fuqi për mbrojtjen e të dhënave personale, për informacionin e klasifikuar dhe marrëveshjet ndërkombëtare, ku Republika e Shqipërisë është palë.
+2. Vetëm personat e autorizuar dhe të trajnuar nga ZRA-ja mund të kenë akses në përpunimin e të dhënave personale dhe detyrohen të ruajnë konfidencialitetin edhe pas përfundimit të funksionit që kryejnë, sipas qëllimeve të këtij ligji.
+3. Të dhënat personale mbahen për aq kohë sa është e nevojshme për qëllimin e identifikimit, gjurmimit dhe rikuperimit të aseteve, por jo më shumë se 5 (pesë) vjet. Të dhënat rishikohen periodikisht, të paktën çdo 3 (tre) vjet, për të përcaktuar nëse mbajtja e vazhdueshme është e justifikuar dhe i shërben qëllimit të grumbullimit dhe përpunimit të tyre.
+4. Për rastet që lidhen me terrorizmin ose kërcënimet serioze për sigurinë kombëtare, të dhënat personale mund të ruhen deri në 10 (dhjetë) vjet, duke iu nënshtruar rishikimit periodik çdo 5 (pesë) vjet për të konfirmuar se mbajtja e tyre është e nevojshme dhe i shërben qëllimit për të cilin janë grumbulluar e përpunuar.
+5. Të dhënat personale, që nuk konsiderohen më të nevojshme për qëllimin për të cilin janë mbledhur e përpunuar, fshihen në mënyrë të sigurt, në përputhje me standardet e mbrojtjes së të dhënave.

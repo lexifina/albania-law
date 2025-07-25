@@ -1,0 +1,5 @@
+# Neni 12
+Bashkëpunimi dhe shkëmbimi i praktikave me rrjetet ndërkombëtare
+1. ZRA-ja, në përmbushje të misionit dhe të përgjegjësive ligjore, bashkëpunon me pikat e kontaktit të agjencive të zbatimit të ligjit në Rrjetin Ndërinstitucional të Rikuperimit të Aseteve Camden, Rrjetin Evropian të Zyrave të Rikuperimit të Aseteve, si dhe rrjetet e tjera të rikuperimit të aseteve.
+2. Bashkëpunimi me rrjetet e rikuperimit të aseteve synon përmirësimin e njohurive të ndërsjella të metodave dhe teknikave të bashkëpunimit operacional në fushën e gjurmimit e të identifikimit ndërkufitar të të ardhurave, aseteve dhe përfitimeve të tjera pasurore, që lidhen drejtpërdrejt ose tërthorazi me një vepër penale ose veprimtari kriminale.
+3. ZRA-ja shkëmben praktika me zyrat e huaja homologe për të përmirësuar efektivitetin e veprimeve për identifikimin e të ardhurave, aseteve ose përfitimeve të tjera pasurore, që lindin nga një vepër penale, veprimtari kriminale ose që janë të lidhura me to, në përputhje me legjislacionin në fuqi.
