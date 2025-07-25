@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, pronë private, që shpronësohet, kompensohet në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për pasurinë e llojit “pyll”, me një vlerë të përgjithshme prej 1 079 595 (një milion e shtatëdhjetë e nëntë mijë e pesëqind e nëntëdhjetë e pesë) lekësh.

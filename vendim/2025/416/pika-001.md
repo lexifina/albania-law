@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Qendra multifunksionale në luginën e Vjosës, stacioni i informimit Vlorë”.
