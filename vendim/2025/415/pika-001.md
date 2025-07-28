@@ -1,0 +1,1 @@
+1. Ngarkimin e Fondit Shqiptar të Zhvillimit, si autoritet kontraktor dhe njësi zbatuese, për kryerjen e procedurës së prokurimit publik për krijimin e hapësirave të reja për arkivin e Kryeministrisë.
