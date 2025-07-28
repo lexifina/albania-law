@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të shoqërisë aksionare “Korporata e Investimeve Shqiptare”, me NIPT: M01917011D, të pasurisë shtetërore nr. 867/7, në zonën kadastrale 1604, për realizimin e projektit të investimit “Expo Albania”.

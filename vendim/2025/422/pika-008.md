@@ -1,0 +1,1 @@
+8. Në listat e pronave, që i bashkëlidhen vendimit nr. 515, datë 18.7.2003, të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Mbrojtjes”, të ndryshuar, hiqet pasuria shtetërore nr. 867/7, në zonën kadastrale 1604.

@@ -1,0 +1,1 @@
+7. Në funksion të zhvillimit të pronës së përcaktuar në këtë vendim, në përputhje me parashikimet ligjore përkatëse për planifikimin dhe zhvillimin e territorit, autorizohet Korporata e Investimeve Shqiptare për të proceduar me prishjen e objektit, pjesë e pasurisë nr. 867/7, në zonën kadastrale 1604.
