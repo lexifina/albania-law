@@ -15,6 +15,10 @@ gj) komunikon dhe shpërndan në sistemin elektronik të lejeve vendimet e dokum
 h) ofron mbështetje ndaj njësive të vetëqeverisjes vendore në proceset e tyre të zbatimit të instrumenteve të drejtimit të zhvillimit, sipas legjislacionit për planifikimin dhe zhvillimin e territorit;
 i) përfaqëson Këshillin Kombëtar të Territorit dhe Ujit në të gjitha çështjet, objekt shqyrtimi gjyqësor, që kanë lidhje me vendimet e miratuara dhe procedurat e kryera nga Këshilli Kombëtar i Territorit dhe Ujit lidhur me zhvillimin e territorit;
 j) nënshkruan marrëveshje bashkëpunimi për koordinimin ndërinstitucional dhe mënyrën e pagesës e të alokimit të tarifave me institucionet e tjera shtetërore, të cilat shqyrtojnë, miratojnë, lëshojnë autorizime, leje dytësore, të cilat janë të domosdoshme, në funksion të miratimit të lejeve të zhvillimit/ndërtimit.
+1/1. Agjencia kryen gjithashtu detyrat e mëposhtme:
+a) Kryen monitorimin e lejeve të ndërtimit, në kompetencë të KKTU-së, nëpërmjet kontrolleve në terren dhe kontrolleve të sistemeve të kamerave, në përputhje me legjislacionin në fuqi, si dhe përgatit raportin përkatës për të informuar Këshillin Kombëtar të Territorit dhe Ujit e autoritetet e tjera, që kanë përgjegjësi në fushën e zhvillimit të territorit mbi kontrollet përkatëse;
+b) Organizon aktivitete, ekspozita, panaire, expo, si dhe veprimtari të tjera promocionale, kombëtare e ndërkombëtare, me qëllim promovimin e zhvillimit të qëndrueshëm të territorit dhe përfshirjes së arkitekturës moderne në zhvillimin urban;
+c) Financon/bashkëfinancon projektet që lidhen me zhvillimin e territorit dhe promovimin e arkitekturës moderne dhe inovative.
 2. Agjencia siguron që dokumentet e kontrollit të zhvillimit, në nivel qendror e vendor, të jenë në përputhje me dispozitat e këtij ligji dhe me dokumentet e miratuara të planifikimit në çdo nivel.
 IV. BASHKËPUNIMI NDËRINSTITU-CIONAL
 1. Agjencia, gjatë ushtrimit të veprimtarisë së saj, ka të drejtë të marrë nga organet e tjera shtetërore, qendrore e vendore, dhe autoritetet përgjegjëse të gjithë ndihmën, të dhënat dhe dokumentet e nevojshme për ushtrimin e funksioneve që i janë caktuar.
