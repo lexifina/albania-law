@@ -1,0 +1,1 @@
+2. Fondi i përcaktuar sipas pikës 1, të këtij vendimi, transferohet në llogarinë e Federatës Shqiptare të Skive, në një bankë të nivelit të dytë, dhe përballohet nga buxheti i miratuar për vitin 2025 për Ministrinë e Arsimit dhe Sportit, në llogarinë ekonomike 604 “Transferta të brendshme”, në programin buxhetor 08140 “Zhvillimi i sportit”.

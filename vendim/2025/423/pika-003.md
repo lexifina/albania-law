@@ -1,0 +1,1 @@
+3. Federata Shqiptare e Skive, brenda muajit gusht 2025, të paraqesë në Ministrinë e Arsimit dhe Sportit planin e detajuar dhe të miratuar nga Asambleja e Përgjithshme e Federatës Shqiptare të Skive të veprimtarisë, për të cilën do të përdoret ky fond.
