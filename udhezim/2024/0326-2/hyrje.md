@@ -1,5 +1,0 @@
-UDHËZIM
-Nr. 2, datë 26.3.2024
-PËR MIRATIMIN E METODOLOGJISË, PËR KRITERET DHE PROCEDURAT, PËR SHPËRNDARJEN DHE PËRDORIMIN E SUBVENCIONEVE SHTETËRORE, PËR OFRUESIT E SHËRBIMEVE NË SEKTORIN E UJËSJELLËS-KANALIZIMEVE, PËR VITIN BUXHETOR 2024
-Në mbështetje të pikës 4, të nenit 102 të Kushtetutës; të pikës 1, të pjesës 1, të skedulit 1, të ligjit nr. 25/2023, “Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, për Programin Kombëtar të Modernizimit të Sektorit të Ujësjellës-Kanalizimeve në Shqipëri”; të ligjit nr. 9000, datë 30.1.2003, “Për organizimin dhe funksionimin e Këshillit të Ministrave”; të ligjit nr. 97/2023, “Për buxhetin e vitit 2024”; të ligjit nr. 9374, datë 21.4.2005, “Për ndihmën shtetërore”, të ndryshuar; të VKM-së nr. 431, datë 11.7.2018, “Për krijimin e Agjencisë Kombëtare të Ujësjellës-Kanalizimeve” të ndryshuar, si dhe të udhëzimit nr. 9, datë 20.7.2018, “Për procedurat standarde të zbatimit të buxhetit”, të ndryshuar,
-UDHËZOJ:
