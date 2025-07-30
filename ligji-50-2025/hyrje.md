@@ -1,0 +1,9 @@
+LIGJ
+Nr. 50/2025
+PËR RATIFIKIMIN E VENDIMIT NR. 2/2024, TË KOMITETIT TË PËRBASHKËT
+TË MARRËVESHJES SË TREGTISË SË LIRË TË EVROPËS QENDRORE
+“PËR LEHTËSIMIN E TREGTISË ELEKTRONIKE”
+Në mbështetje të neneve 78, 83, pika 1, dhe 121, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
