@@ -1,0 +1,2 @@
+# Neni 1
+Republika e Shqipërisë aderon në marrëveshjen ndërmjet Këshillit të Ministrave të Bosnjës dhe Hercegovinës, qeverisë së Republikës së Bullgarisë, qeverisë së Republikës së Kroacisë, qeverisë së Hungarisë, qeverisë së Republikës së Maqedonisë së Veriut, qeverisë së Malit të Zi, qeverisë së Republikës së Serbisë, qeverisë së Republikës së Sllovakisë dhe qeverisë së Republikës së Sllovenisë për bashkëpunimin dhe koordinimin në fushën e kërkimit dhe shpëtimit ajror, nënshkruar në Ohër, më 22.2.2023, sipas tekstit që i bashkëlidhet këtij ligji.
