@@ -1,9 +1,9 @@
 # PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, TË INSTITUCIONEVE TË VARËSISË, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË BUJQËSISË, USHQIMIT DHE MBROJTJES SË KONSUMATORIT
 
-Official source: [Vendimi i Këshillit të Ministrave nr. 820, datë 13.10.2010](https://qbz.gov.al/api/v1/acts/16344).
+Official source: [Vendimi i Këshillit të Ministrave nr. 820, datë 13.10.2010](https://qbz.gov.al/api/v1/acts/16344); [QBZ versions](https://qbz.gov.al/api/v1/acts/16344/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2010-10-13; published 2010-11-12; in force 2010-11-12.
+Status of this text: `official consolidated version 1`, applying from 2025-07-31; after QBZ act 65095 (nr. 459).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
