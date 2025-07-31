@@ -4,7 +4,7 @@ Nr. 258, datë 21.12.2021
 
 MBI LICENCIMIN E SHOQËRISË “ALBANIAN ENERGY SUPPLIER 2” SHPK, NË VEPRIMTARINË E FURNIZIMIT TË ENERGJISË ELEKTRIKE
 
-(ndryshuar me vendimin nr. 68, datë 3.3.2023)
+(ndryshuar me vendimin nr. 68, datë 3.3.2023; nr. 164, datë 31.7.2025)
 
 (i përditësuar)
 
@@ -50,9 +50,9 @@ VENDOSI:
 
 2. Shfuqizuar.
 
-3. Me fillimin e operimit, shoqëria “Albanian Energy Supplier 2” sh.p.k. të depozitojë në ERE sistemin IT.
+3. Me fillimin e operimit, shoqëria “Yildirim Energy Europe Albania” sh.p.k. të depozitojë në ERE informacion mbi sistemin IT.
 
-4. Shoqëria “Albanian Energy Supplier 2” sh.p.k. të depozitojë në ERE kontratën e huapërdorjes të rinovuar jo më vonë se 1 (një) muaj pas rinovimit të saj (afati i përfundimit data 1.2.2024).
+4. Shfuqizuar.
 
 5. Mosplotësimi i kushteve të mësipërme përbën shkak për rishikimin e këtij vendimi.
 
