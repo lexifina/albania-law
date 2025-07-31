@@ -4,6 +4,10 @@ Nr. 199, datë 3.8.2022
 
 MBI LICENCIMIN E SHOQËRISË “NRG POWER” SHPK, NË VEPRIMTARINË E FURNIZIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr. 165, datë 31.7.2025)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “ç”, të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike”, i ndryshuar; nenit 4, pika 1, germa “d”, nenit 5, pika 1, germa “d”  dhe nenit 13 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96 datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 3.8.2022, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes me nr. 1379/9 prot., datë 29.7.2022, “Mbi licencimin e shoqërisë ‘NRG Power’ sh.p.k. në veprimtarinë e furnizimit të energjisë elektrike”,
 
 konstatoi se:
@@ -30,11 +34,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “NRG Power” sh.p.k., në veprimtarinë e furnizimit të energjisë elektrike, për një afat 5-vjeçar. 
 
-2. Me fillimin e operimit, shoqëria “NRG Power” sh.p.k. duhet të dokumentojë në ERE instalimin e sistemit IT.
+2. Shfuqizuar.
 
-3. Shoqëria duhet të depozitojë në ERE kontratën e rinovuar të qirasë jo më vonë se data e fundit e afatit të vlefshmërisë së saj (brenda datës 31.12.2024). 
+3. Shfuqizuar.
 
-4. Ky vendim është objekt rishikimi nga ERE.
+4. Shfuqizuar.
 
 5. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
