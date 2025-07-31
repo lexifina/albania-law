@@ -4,6 +4,10 @@ Nr. 147, datë 24.4.2023
 
 MBI DHËNIEN E AUTORIZIMIT NGA ERE PËR VENDOSJEN E KUOTAVE TË SHOQËRISË “SPV BLUE 1” SHPK SI MJET (BARRË SIGURUESE) PËR GARANTIMIN E DETYRIMIT NDAJ “GREEN FOR GROWTH FUND SOUTHEAST EUROPE S.A., SICAV-SIV”
 
+(Ndryshuar me vendimin nr. 169, datë 31.7.2025)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 5, 8, 9, pikat 4 dhe 5, dhe 10 të “Rregullores për procedurat dhe afatet për dhënien e autorizimit nga ERE për ndryshimin e statusit ligjor të të licencuarit, ndryshimin e ortakut/aksionarit që kontrollon interesat e të licencuarit dhe vendosjen e kuotave/aksioneve të ortakut/aksionerit që kontrollon interesat e të licencuarit si mjete për garantimin e përmbushjes së detyrimit/eve ndaj të tretëve”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 235, datë 26.11.2021; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 24.4.2023, mbasi shqyrtoi relacionin me nr. 1134/1 prot., datë 20.4.2023, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, “Mbi dhënien e autorizimit nga ERE për vendosjen e kuotave të shoqërisë “SPV Blue 1” sh.p.k. si mjet (barrë siguruese) për garantimin e detyrimit ndaj “Green for Growth Fund Southeast Europe S.A., Sicav-Siv”,
 
 konstatoi se:
@@ -28,7 +32,7 @@ Për gjithë sa më sipër, Bordi i ERE-s
 
 VENDOSI:
 
-1. Dhënien e autorizimit nga ERE për vendosjen e kuotave të shoqërisë “SPV Blue 1” sh.p.k. si mjet (barrë siguruese) për garantimin e detyrimit ndaj “Green for Growth Fund Southeast Europe S.A., Sicav-SIV”.
+1. Dhënien e autorizimit nga ERE për vendosjen e kuotave të shoqërisë “SPV blue 1” sh.p.k. si mjet (barrë siguruese) për garantimin e detyrimeve që burojnë nga kontrata e kredisë e lidhur më datë 25.6.2025, në favor të kreditorëve “Banka e Parë e Investimeve – Albania” sh.a. dhe “First Investment Bank AD” (Bullgari).
 
 2. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, të njoftojë shoqërinë “SPV Blue 1” sh.p.k. dhe Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s.
 
