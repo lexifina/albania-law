@@ -14,7 +14,7 @@ ii. të konstatuar si përdorues të lëndëve narkotike nga Policia e Shtetit a
 dh) të mos jetë përdorues i drogave (përfshirë dhe cannabis-in), të vërtetuar nga analizat e kryera pranë Institutit të Mjekësisë Ligjore, dhe të kryejë testin përkatës kur i kërkohet gjatë fazës së aplikimit dhe verifikimit të pastërtisë së figurës, apo sa herë i kërkohet në kuadër të verifikimit periodik apo kur ka indicie për mosplotësim të kriterit të pastërtisë së figurës.
 2. Për kriteret e veçanta etike:
 Çdo punonjës i Agjencisë, pavarësisht pozicionit specifik të punës, duhet të plotësojë kriteret e veçanta etike, si më poshtë:
-a) të mos ketë angazhime të tjera të cilat e vendosin në kushtet e konfliktit të interesit me detyrën që kryen, si dhe të deklarojë në formularin në aneksin 2 çdo veprimtari tjetër të tij apo aksione/ pjesë që ai apo anëtarët e familjes së tij zotërojnë;
+a) të mos ketë angazhime të tjera të cilat e vendosin në kushtet e konfliktit të interesit me detyrën që kryen, si dhe të deklarojë në formularin në aneksin nr. 2/1 çdo veprimtari tjetër të tij apo aksione/ pjesë që ai apo anëtarët e familjes së tij zotërojnë;
 b) të mos ketë masë disiplinore në fuqi për shkelje të etikës profesionale, të cilat përfshijnë, por nuk kufizohen, në:
 i. ruajtjen e integritetit gjatë ushtrimit të detyrës, si dhe gjatë jetës së tij private;
 ii. sjelljen dinjitoze gjatë ushtrimit të detyrës;

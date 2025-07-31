@@ -2,7 +2,7 @@
 Dokumentacioni i nevojshëm për verifikimin e pastërtisë së figurës së punonjësve të Agjencisë
 1. Aplikanti/punonjësi dorëzon pranë Agjencisë dokumentacionin e mëposhtëm me qëllim verifikimin e pastërtisë së figurës:
 a) jetëshkrim i plotësuar në format europass;
-b) formularët sipas anekseve 1 dhe 2 të këtij udhëzimi;
+b) formularët sipas anekseve nr. 1, nr. 2 dhe nr. 2/1 të këtij udhëzimi;
 c) formularin e dekriminalizimit;
 ç) fotokopje të kartës së identitetit;
 d) certifikata përkatësisht të gjendjes familjare/personale;
