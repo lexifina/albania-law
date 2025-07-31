@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Agjencisë Shtetërore të Kadastrës të objektit “Hotel 6-katësh me 2 kate nën tokë”, të ndërtuar në tejkalim të lejes së ndërtimit, me vendndodhje në rrugën “Qamil Guranjaku”, Bashkia Tiranë, të konfiskuar për interes publik, sipas dokumentacionit të pronësisë, që i bashkëlidhet këtij vendimi.
