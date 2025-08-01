@@ -1,0 +1,1 @@
+1. Drejtoria e Përgjithshme e Agjencisë Shtetërore të Kadastrës kryen evidentimin e numrit të përgjithshëm të vakancave në të gjithë strukturën e saj, si dhe drejtorive/zyrave vendore për të cilat duhet të kryhet procedura e rekrutimit, të evidentuara sipas pozicionit të punës dhe kërkesave të veçanta për sa i përket formimit profesional respektiv.

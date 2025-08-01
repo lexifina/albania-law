@@ -1,0 +1,1 @@
+9. Të gjithë kandidatët pjesëmarrës në fazën e fundit të testimit me gojë njoftohen elektronikisht në lidhje me pikët e mbledhura dhe informohen nëse janë kandidatë fitues. Gjithashtu, ata njoftohen për plotësimin e dokumentacionit (dosjes) fizike sipas përcaktimeve përkatëse.

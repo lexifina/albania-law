@@ -1,0 +1,2 @@
+3. Drejtori i përgjithshëm i ASHK-së, miraton me urdhër krijimin e Komisionit të Vlerësimit, i cili përbëhet nga 3 (tre) anëtarë, dy prej të cilëve janë punonjës të Agjencisë Shtetërore të Kadastrës dhe një anëtar i jashtëm me profesion pedagog/specialist i fushës.
+Në këtë urdhër përcaktohen detyrat e komisionit lidhur me procedurën e konkurrimit, ndër të cilat dhe hartimi i tezës së testimit me shkrim dhe pyetjeve të testimit me gojë.

@@ -1,0 +1,1 @@
+10. Pas çdo fazë të procedurës së vlerësimit, në përputhje me parimin e transparencës dhe të dëgjimit të palëve në proces administrativ, në çdo njoftim të kryer kandidatëve jo fitues, në secilën fazë të konkurrimit, i lihet në dispozicion dhe një afat për ankimin e rezultatit. Për çdo ankim mbahet procesverbal/vendim përkatës, lidhur me pranimin ose jo të ankimit.

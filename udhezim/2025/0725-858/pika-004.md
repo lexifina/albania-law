@@ -1,0 +1,1 @@
+4. Anëtari i jashtëm i komisionit, specialist i fushës për profilet jurist/inxhinier/ekonomist etj., përzgjidhet nga Universiteti i Tiranës, pas kërkesës për vendosje në dispozicion nga ana e ASHK-së.

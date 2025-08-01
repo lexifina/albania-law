@@ -1,0 +1,1 @@
+6. Pas përfundimit të afatit të dorëzimit nga ana e Sektorit të Burimeve Njerëzore kryhet verifikimi paraprak i dokumentacionit (dosjeve) të depozituara nga kandidatët në lidhje me plotësimin e kërkesave të posaçme dhe kritereve të përgjithshme duke u mbajtur procesverbali përkatës.

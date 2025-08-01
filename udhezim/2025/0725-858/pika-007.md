@@ -1,0 +1,1 @@
+7. Pas shqyrtimit të dokumentacionit të depozituar nga kandidatët, kryhet në adresën elektronike njoftimi i të gjithë kandidatëve të kualifikuar, duke i njoftuar lidhur me datën, orën dhe vendin e zhvillimit të testimit me shkrim. Kandidatët e skualifikuar njoftohen në lidhje me skualifikimin nga procesi duke i njoftuar edhe të drejtën dhe afatin e ankimit.
