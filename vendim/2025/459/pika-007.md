@@ -1,0 +1,1 @@
+7. Autorizohet Korporata e Investimeve Shqiptare për negociimin me subjekte private, me qëllim lidhjen e kontratës përkatëse për zhvillimin e pronave të transferuara në pronësi apo për të cilat ka autorizim zhvillimi, në funksion të realizimit të projekteve të saj të investimit.

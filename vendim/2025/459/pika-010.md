@@ -1,0 +1,1 @@
+10. Në funksion të zhvillimit të pronave, të përcaktuara në këtë vendim, në përputhje me parashikimet ligjore përkatëse për planifikimin dhe zhvillimin e territorit, autorizohet Korporata e Investimeve Shqiptare për të proceduar me prishjen e objekteve, pjesë e pronave të përcaktuara në shtojcat nr. 1 dhe nr. 2, që i bashkëlidhen këtij vendimi.
