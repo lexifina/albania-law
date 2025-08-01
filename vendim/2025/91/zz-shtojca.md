@@ -974,8 +974,21 @@ Sektori social i referohet programeve dhe politikave apo aktiviteteve ekonomike,
 Transporti i referohet aktiviteteve ekonomike, të cilat kanë për qëllim zhvillimin apo përmirësimin e infrastrukturës ekzistuese të transportit të mallrave dhe/ose qyteteve nëpërmjet tokës, ujërave dhe ajrit. Do të konsiderohen si pjesë e këtij sektori të gjitha projektet e investimit, rezultatet e të cilave synohet të kenë ndikim të paktën në një prej nënsektorëve: transporti ajror, transporti në ujërat e brendshme, portet, transporti hekurudhor, transporti rrugor.
 Në aneksin 1 paraqitet Lista Unike e Projekteve me Rëndësi Kombëtare.
 ANEKS 1
-I. Lista Unike e Projekteve me Rëndësi Kombëtare - Projekte me status “I maturuar”
-|Nr. |Emërtimi |
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+[pic]
+AKRONIME DHE SHKURTIME
+|AKSHI |Agjencia Kombëtare e Shoqërisë së Informacionit |
 |AKMC |Agjencia Kombëtare e Mbrojtjes Civile |
 |AKUM |Agjencia Kombëtare Ujësjellës-Kanalizime dhe Infrastrukturës së Mbetjeve |
 |ARRSH |Autoriteti Rrugor Shqiptar |
@@ -1086,7 +1099,8 @@ Në tabelën e mëposhtme do të gjeni përshkrimin e detajuar të COFOG-ut;
 -----------------------
 [1] https://kryeministria.al/ëp-content/uploads/2021/10/Programi_Qeverises_2021-2025.pdf.
 [2]https://www.qbz.gov.al/eli/vendim/2023/12/13/736/a53e6796-bf25-47e7-b157 0607b1aab777;q=udh%C3%ABrr%C3%ABfyes
-[3]https://www.qbz.gov.al/eli/vendim/2023/12/13/737/01303320-3536-4f02-991f-7f59fcde80b3;q=udh%C3%ABrr%C3%ABfyes
+[3]
+WX\]˜™Þßõö3 4 l m https://www.qbz.gov.al/eli/vendim/2023/12/13/737/01303320-3536-4f02-991f-7f59fcde80b3;q=udh%C3%ABrr%C3%ABfyes
 [4]https://www.qbz.gov.al/eli/vendim/2024/10/02/611/a556637f-882f-4a0c-9eaa-ac6bbd350ba4;q=udh%C3%ABrr%C3%ABfyes
 [5] https://neighbourhood-enlargement.ec.europa.eu/albania-report-2024_en
 [6] Parimet e OECD/SIGMA për Administratën Publike janë:
