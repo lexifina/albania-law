@@ -1,0 +1,5 @@
+VENDIM
+Nr. 458, datë 31.7.2025
+PËR DEKLARIMIN PASURI KULTURORE E PALUAJTSHME “ANSAMBËL ARKITEKTONIK URBAN” TË NJË ZONE NË QYTETIN E KONISPOLIT, PËRCAKTIMIN E ZONËS MBROJTËSE TË TIJ DHE MIRATIMIN E PLANIT PËR RUAJTJEN, MBROJTJEN DHE ADMINISTRIMIN E TYRE
+Në mbështetje të nenit 100 të Kushtetutës, të shkronjave “a” e “ç”, të pikës 3, të nenit 9, të nënndarjes “ii”, të shkronjës “b”, të pikës 3, të nenit 53, të pikës 3, të nenit 62, dhe të pikës 1, të nenit 96, të ligjit nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë”, të ndryshuar, me propozimin e ministrit të Ekonomisë, Kulturës dhe Inovacionit, Këshilli i Ministrave
+VENDOSI:

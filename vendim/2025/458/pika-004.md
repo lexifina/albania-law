@@ -1,0 +1,1 @@
+4. Ngarkohet Autoriteti Shtetëror për Informacionin Gjeohapësinor për publikimin e hartave të “Ansamblit arkitektonik urban” të një zone të qytetit të Konispolit dhe zonës mbrojtëse në Gjeoportalin Kombëtar.
