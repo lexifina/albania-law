@@ -1,1 +1,1 @@
-11. Përjashtohen nga pagesa e kësaj tarife të gjitha organet publike dhe shtetërore, në nivel qendror dhe vendor, të cilat janë në rolin e investitorit/zhvilluesit apo të objekteve publike.
+11. Përjashtohen nga pagesa e kësaj tarife të gjitha organet publike dhe shtetërore, në nivel qendror dhe vendor, të cilat janë në rolin e investitorit/zhvilluesit apo të objekteve publike, si dhe objektet me destinacion publik që ndërtohen në bazë të partneriteteve publike private.

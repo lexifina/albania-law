@@ -6,4 +6,5 @@ c) leje për strukturë shërbimi në stacionet e plazhit;
 d) leje për shtyrje të afatit të lejes së ndërtimit;
 dh) leje për rishikim të kushteve dhe ndryshime në projekt gjatë ndërtimit;
 e) leje për ndryshim të subjektit zhvillues;
-ë) leje për ndryshim funksioni.
+ë) leje për ndryshim funksioni;
+f) ndryshimi/rishikimi i lejes së zhvillimit.
