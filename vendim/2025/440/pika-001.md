@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni i shkollës së mesme ’Ramiz Aranitasi’, Çorovodë, si dhe ruajtjes së perimetrit të sigurisë në shkolla”, Bashkia Skrapar.
