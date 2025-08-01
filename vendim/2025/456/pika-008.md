@@ -1,0 +1,1 @@
+8. Listat e familjeve përfituese të programit të subvencionimit të interesave të kredisë me 0 interes i dërgohen institucionit financiar me të cilin është nënshkruar marrëveshja, si dhe çdo institucioni që do të monitorojë subvencionimin.
