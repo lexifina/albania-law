@@ -1,0 +1,2 @@
+Z. Hermon Bonati emërohet anëtar i Komisionit Kombëtar Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura për periudhën e mbetur të mandatit, sipas përcaktimit të shkronjës “d”, të pikës 3, të nenit 4, të ligjit nr. 8102, datë 28.3.1996, “Për kuadrin rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, të ndryshuar.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
