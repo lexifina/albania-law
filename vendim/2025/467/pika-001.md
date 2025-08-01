@@ -1,0 +1,1 @@
+1. Miratimin e tarifave të përdorimit të kullotave dhe livadheve për kullotjen e bagëtive ose për kositje të barit dhe për veprimtari shoqërore, shëndetësore, sportive e turistike, si dhe për prodhimin e energjisë së rinovueshme, sipas përcaktimeve të këtij vendimi.
