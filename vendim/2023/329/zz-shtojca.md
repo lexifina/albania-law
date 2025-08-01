@@ -961,3 +961,251 @@ SHUMA
 558086
 558,086
 -
+LISTA EMËRORE E PRONARËVE, PASURITË PRONË PRIVATE, TË TË CILËVE SHPRONËSOHEN PËR INTERES PUBLIK,
+NGA REALIZIMI I PROJEKTIT “NDËRTIMI I LINJËS 110 kV FIBËR-ELBASAN”
+NR. RENDOR
+NR. SHTYLLE
+PRONARI
+TË DHËNA KADASTRALE
+VLERËSIMET PËR SHPRONËSIM
+SHËNIME
+Adresa
+ARË
+TRUALL
+NDËRTESË
+Vlera totale (lekë)
+Nr. dok
+Data e regjistrimit
+Seksionet D&E të kartelës së pasurisë
+Emri
+Atësia
+Mbiemri
+Fshati ose qyteti
+Zona kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sipërfaqja Totale
+Arë (m2)
+Truall (m2)
+Ndërtesë (m2)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+A
+B
+C
+C
+Ç
+D
+E
+F
+G
+H
+I
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+Ndryshime
+24
+22
+Alma
+Halil
+Ibrahimi
+Elbasan
+8526
+2112/3
+ullishte
+822
+115.0
+222
+25,530.0
+25,530.0
+Vasil
+Zaçeliçi
+Ismail
+Zaçeliçi
+Zana
+Kapja
+Hatixhe
+Alinj
+Meleqe
+Zaçeliçi
+Rabihane
+Haxhi
+Liçi
+Ilir
+Rexhep
+Liçi
+Anila
+Rexhep
+Kovaçi
+Desida
+Rexhep
+Bica
+Shtesa
+36
+4
+Saimir
+Haxhi
+Barolli
+Shijon
+3371
+229/18
+arë
+945
+17.0
+222.0
+3,774.0
+3,774.0
+Nafarete
+Jashar
+Barolli
+37
+Midis shtyllave 11_4 dhe 11_5
+Arben
+Beshir
+Capja
+Kusarth
+2346
+434/3
+ndërtesë social-ekonomike
+2730
+655.4
+9,722,878.03
+9,722,878.03
+38
+Midis shtyllave 11_4 dhe 11_5
+Arben
+Beshir
+Çapja
+Kusarth
+2346
+434/3/1- ND
+ndërtesë
+48.4
+48.4
+32695
+1,582,438
+1,582,438.0
+Anila
+Isuf
+Çapja
+39
+7
+Ramiz
+Azem
+Plaku
+Karakullak
+2346
+242/6
+arë
+2000
+70
+222
+15,540.00
+222
+15,540.00
+40
+8
+Emin
+Ethem
+Gjoni
+Kusarth
+2346
+419/33
+arë
+2700
+62
+222
+13,764.00
+222
+13,764.00
+41
+8
+Ilmi
+Selim
+Ramazan
+Kusarth
+2346
+419/34
+arë
+1200
+25
+222
+5,550.00
+222
+5,550.00
+42
+9
+Petrit
+Sali
+Halili
+Kusarth
+2346
+419/22
+arë
+1300
+53
+222
+11,766.00
+222
+11,766.00
+43
+9
+Bajram
+Hamit
+Halili
+Kusarth
+2346
+419/23
+arë
+2600
+34
+222
+7,548.00
+222
+7,548.00
+44
+10
+Refik
+Sali
+Ahmeti
+Kusarth
+2346
+419/2
+arë
+2500
+26
+222
+5,772.00
+222
+5,772.00
+45
+10
+Jonuz
+Budani
+Kusarth
+2346
+419/1
+arë
+2000
+44
+222
+9,768.00
+222
+9,768.00
+SHUMA TOTALE
+11,378,798.03
