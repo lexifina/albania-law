@@ -1,0 +1,1 @@
+1. Shpalljen “Zonë e teknologjisë dhe zhvillimit ekonomik” të territorit me sipërfaqe 52 140 (pesëdhjetë e dy mijë e njëqind e dyzet) m2, pjesë të zonave kadastrale 2105, 2119, me vendndodhje në Kashar, Tiranë, me emërtimin “Teda Nexus Park Tirana”, të përbërë nga pasuritë me sipërfaqet përkatëse, sipas listës dhe genplanit, që i bashkëlidhen këtij vendimi.
