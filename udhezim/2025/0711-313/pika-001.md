@@ -1,0 +1,1 @@
+1. Të gjithë profesionistët e shëndetit që kanë të drejtën e lëshimit të recetës mjekësore pajisen me recetën sipas formatit tip të miratuar nga ministria përgjegjëse për shëndetësinë. Nuk lejohet lëshimi dhe ekzekutimi i recetës jashtë këtij formati.

@@ -1,0 +1,1 @@
+3. Farmacitë e rrjetit të hapur dhe agjencitë farmaceutike lejohen të tregtojnë pa recetë vetëm barnat që nuk i nënshtrohen recetës mjekësore, si barnat OTC, sipas listës së miratuar nga ministria përgjegjëse për shëndetësinë.

@@ -1,0 +1,1 @@
+7. Farmacisti ka të drejtën e kopjes së recetës, bazuar në recetën e mjekut duke plotësuar të dhënat e pacientit, diagnozën, përshkrimin e barnave, të dhënat e mjekut, datën e lëshimit të recetës nga mjeku si dhe datën e lëshimit të kopjes së recetës, emrin dhe mbiemrin e farmacistit si dhe vulën e farmacisë.

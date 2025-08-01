@@ -1,0 +1,1 @@
+6. Në rast të ekzekutimit të pjesshëm të recetës mjekësore, farmacisti shënon në recetë sasinë e barnave të marra nga pacienti, datën e ekzekutimit si dhe firmos dhe vendos vulën e farmacisë dhe ia kthen atë pacientit. Farmacia mban një kopje fizike të recetës ose e ruan në mënyrë elektronike në një file të veçantë në kompjuter.

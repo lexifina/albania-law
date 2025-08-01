@@ -1,0 +1,1 @@
+8. Profesionistët e shëndetit që nuk i përshkruajnë barnat sipas këtij udhëzimi, dhe kryejnë ekzekutimin në farmaci në kundërshtim me përcaktimet e këtij udhëzimi, penalizohet sipas legjislacionit në fuqi për barnat dhe shërbimin farmaceutik.
