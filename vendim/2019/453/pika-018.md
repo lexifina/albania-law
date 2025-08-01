@@ -1,12 +1,4 @@
 18. Për efekt të përfitimit të subvencionimit të interesave të kredisë, veprohet, si më poshtë vijon:
 a) Individët/familjet, që do të miratohen me vendim të këshillit të njësisë vetëqeverisjes vendore, paraqesin kërkesën në portalin qeveritar “e-Albania”, në sistemin e banesave sociale, duke ngarkuar deklaratën për dhënien e pëlqimit për përdorimin e të dhënave personale, si dhe për të ngarkuar dokumentacionin e përcaktuar në pikën 16, të vendimit nr.384, datë 12.6.2019, të Këshillit të Ministrave, “Për përcaktimin e dokumentacionit për të përfituar strehim sipas çdo programi social të strehimit dhe të afateve e të procedurave të miratimit nga organet e vetëqeverisjes vendore”;
-b) Individët/familjet me statusin e qiramarrësit në ish-pronë private, të cilët përfitojnë kredi me 0 (zero) % interes në vit, paraqesin kërkesën në portalin qeveritar “e-Albania”, në sistemin e Entit Kombëtar të Banesave, duke ngarkuar dokumentacionin, si më poshtë vijon:
-i. Autorizim ose dokument të lëshuar nga ish-Komiteti Ekzekutiv i lagjes/Këshilli Popullor i lagjes;
-ii. Certifikatë apo vërtetim pronësie në favor të pronarit ose vendim gjykate, në të cilin vërtetohet se prona i është kthyer pronarit të ligjshëm dhe qytetari është i pastrehë; vërtetim negativ nga Agjencia Shtetërore e Kadastrës përkatëse, që, në emër të kryefamiljarit dhe anëtarëve të tjerë të familjes, sipas certifikatës të gjendjes familjare të datës 1.12.1992, nuk figuron banesë e regjistruar ose në proces regjistrimi;
-iii. Vërtetim nga organet tatimore se asnjë anëtar i familjes, që përfiton kredi të lehtësuar, nuk është subjekt i tatimit mbi vlerën e shtuar, si biznes i madh;
-iv. Certifikatë e gjendjes familjare të datës 1 dhjetor 1992 dhe ajo aktuale;
-v. Adresa e banesës dhe emri i pronarit të banesës.
-c) Familjet e punonjësve, që kanë humbur jetën në krye apo për shkak të detyrës, të cilët përfitojnë kredi me 0 (zero) % interes në vit, plotësojnë dokumentacionin, si më poshtë vijon:
-i. Certifikatë e gjendjes familjare aktuale;
-ii. Vërtetim negativ nga Agjencia Shtetërore e Kadastrës e vendit ku banojnë, që, në emër të kryefamiljarit dhe të anëtarëve të tjerë të familjes, nuk figuron pronë e regjistruar apo në proces regjistrimi;
-iii. Lista e miratuar nga Ministria e Brendshme dhe e shoqëruar me dokumentacionin e plotësuar i përcillet Entit Kombëtar të Banesave, i cili shqyrton dokumentacionin për të vazhduar me procedurat e kreditimit.
+b) Shfuqizuar.
+c) Shfuqizuar.
