@@ -1,0 +1,28 @@
+{
+  "qbz_id": 63632,
+  "title": "Mbi pezullimin e vendimmarrjes së Bordit të ERE-s lidhur me shqyrtimin e kërkesës së shoqërisë \"SunPro\" sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "148",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2025-07-08",
+  "published": "2025-08-04",
+  "in_force": "2025-08-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/608680518aef1d7e64a9731b7066bd1a91b69fa082d4043c87f4e9d13ee43ce0.docx",
+  "source_sha256": "608680518aef1d7e64a9731b7066bd1a91b69fa082d4043c87f4e9d13ee43ce0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/63632",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/07/08/148",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31398
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
