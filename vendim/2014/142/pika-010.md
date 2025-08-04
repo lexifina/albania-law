@@ -1,0 +1,1 @@
+10. Secili grup i administrimit të posaçëm përfshin pozicionet e ngjashme, në një apo më shumë institucione të shërbimit civil, që kanë të bëjnë me ushtrimin e përgjegjësive specifike, kryerja me sukses e të cilave kërkon njohuri dhe aftësi të posaçme, të cilat burojnë dhe lidhen domosdoshmërisht me zotërimin e një apo disa profesioneve të ngjashme.

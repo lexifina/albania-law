@@ -1,0 +1,1 @@
+30.Në rastin e Kryeministrisë, ministrisë, institucioneve të pavarura dhe njësive të qeverisjes vendore, komiteti vlerësues përbëhet nga tre anëtarë, njëri prej të cilëve është i ngarkuar me funksionin e analistit të punës ose ndonjë funksion tjetër të menaxhimit të burimeve njerëzore, kurse dy anëtarët e tjerë janë nëpunës civilë me përvojë në institucion.

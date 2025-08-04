@@ -1,0 +1,1 @@
+16. Në rastet kur në institucion mungon analisti i punës, përshkrimi i punës hartohet nga drejtuesi i njësisë organizative përgjegjëse për menaxhimin e burimeve njerëzore, në bashkëpunim me eprorin direkt të pozicionit respektiv të punës.

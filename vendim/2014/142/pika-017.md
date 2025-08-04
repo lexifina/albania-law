@@ -1,0 +1,1 @@
+17. Në rastin e krijimit të institucioneve të reja, përshkrimet e punës hartohen nga njësia përgjegjëse për menaxhimin e burimeve njerëzore, në Kryeministri apo në ministrinë nga e cila varet institucioni.

@@ -1,0 +1,1 @@
+7. Vlerësimi i pozicioneve për rastet e parashikuara në pikën 6 të nënndarjes II të këtij vendimi, bëhet nga Departamenti i Administratës Publike, pas marrjes së kërkesës nga ministri/institucioni i pavarur. Departamenti i Administratës Publike ia përcjell vlerësimin ministrit përgjegjës për administratën publike për propozimin e mëtejshëm në Këshillin e Ministrave.

@@ -1,0 +1,1 @@
+19. Departamenti i Administratës Publike, për institucionet e administratës shtetërore, apo njësia përgjegjëse, për institucionet e tjera pjesë të shërbimit civil, kthejnë për rishikim përshkrimet e punës për pozicionet respektive në rast se vërejnë se ato nuk janë të hartuara në bazë dhe në përputhje me legjislacionin specifik të fushës apo formatin standard të miratuar.

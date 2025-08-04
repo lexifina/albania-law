@@ -1,0 +1,1 @@
+14. Përshkrimet e punës hartohen kur krijohen institucione të reja, kur ndryshon mënyra e organizimit të institucionit apo kur kanë ndodhur ndryshime ose miratime të legjislacionit specifik mbi bazën e të cilit funksionon institucioni.

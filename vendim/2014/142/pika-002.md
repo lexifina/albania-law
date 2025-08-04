@@ -1,0 +1,1 @@
+2.Vendimi është i zbatueshëm për të gjitha institucionet pjesë të shërbimit civil, ku përfshihen: institucionet e administratës shtetërore, institucionet e pavarura kushtetuese apo të krijuara me ligj të posaçëm, si dhe njësitë e qeverisjes vendore.

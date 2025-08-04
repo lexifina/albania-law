@@ -1,0 +1,1 @@
+6. Këshilli i Ministrave, me propozimin e ministrit përgjegjës për administratën publike, përcakton pozicionet e barasvlefshme për secilën nga klasat e nivelit të lartë drejtues, të mesëm drejtues dhe të ulët drejtues.

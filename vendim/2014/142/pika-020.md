@@ -1,0 +1,1 @@
+20. Përshkrimet e punës depozitohen në Departamentin e Administratës Publike, për institucionet e administratës shtetërore, apo njësinë përgjegjëse, për institucionet e tjera, pjesë të shërbimit civil.

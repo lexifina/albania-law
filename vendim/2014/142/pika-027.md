@@ -1,0 +1,1 @@
+27. Për çdo pozicion përcaktohen pikët për secilin nga faktorët e matur dhe shuma totale e pikëve të katër faktorëve përcakton edhe vlerën relative të pozicionit të punës në shërbimin civil dhe, për rrjedhojë, klasën së cilës ky pozicion i përket.
