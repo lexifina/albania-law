@@ -589,16 +589,18 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “Sp
 |Specialist. |IV-2 |1 ose 2, ose 3 |
 | |IV-3 |1 ose 2, ose 3 |
 Lidhja nr. 9/1
-Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni”, në Inspektoratin Qendror
+Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni”, në Inspektoratin e Përgjithshëm
 |Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune (natyrë të |
 | | | |veçantë pune) (lek/muaj) |
 |Titullar i institucionit. |I-3 |1 |15 000 |
-|Drejtor i drejtorive të përmbajtjes. |II-1 |1 |15 000 |
+|Zëvendësinspektor i përgjithshëm. Drejtor |II-1 |1 |15 000 |
+|i drejtorive të përmbajtjes. | | | |
 |Drejtor i drejtorive mbështetëse. |II-2 |1 |0 |
 |Përgjegjës i sektorit të përmbajtjes. |III-1 |1 |20 000 |
 | |III-2 | | |
 |Përgjegjës i sektorit mbështetës. |III-2 |1 |0 |
-|Specialist një njësitë e përmbajtjes. |IV-1 |1 ose 2 |25 000 |
+|Inspektor/specialist një njësitë e |IV-1 |1 ose 2 |25 000 |
+|përmbajtjes. | | | |
 |Specialist në njësitë mbështetëse. |IV-2 |1 ose 2, ose 3 |0 |
 | |IV-3 |1 ose 2, ose 3 |0 |
 Lidhja nr. 9/2
@@ -1271,3 +1273,4 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 [5] Vendimi nr.502, datë 1.8.2024 botuar në F.Z. nr. 134, datë 1.8.2024 në pikën 2 të tij shprehet: “Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, fillojnë nga data 1 korrik 2024 dhe për vitin 2024 përballohen nga fondet buxhetore të miratuara, si dhe nga fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
 [6] Vendimi 25, datë 10.1.2025 botuar në F.Z nr. 6 datë 13.1.2025 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përballohen nga fondet e miratuara për secilin institucion dhe fillojnë: a) nga momenti i emërimit të nëpunësve/punonjësve për përcaktimet në shkronjat “a” dhe “b”, të pikës 1, të këtij vendimi; b) nga momenti i transferimit në pozicionet e reja të nëpunësve në ish-departamentin përgjegjës për aktet ligjore prioritare të Këshillit të Ministrave.”
 [7] Vendimi nr. 337, datë 16.09.2025 botuar në F.Z nr. 108, datë 23.06.2025 në pikën 2 të tij shprehet se: 2. “Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi për vitin 2025, përballohen nga buxheti i miratuar për Kryeministrinë për këtë vit dhe fillojnë nga momenti i emërimit të nëpunësve/punonjësve.”
+[8] Vendimi nr. 473, datë 31.7.2025 botuar në F.Z nr. 141, datë 4.8.2025 në pikën 2 të tij shprehet se: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për vitin 2025, përballohen nga buxheti i miratuar për Inspektoratin e Përgjithshëm për këtë vit dhe fillojnë nga momenti i emërimit të nëpunësve.”
