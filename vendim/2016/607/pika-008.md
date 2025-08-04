@@ -1,5 +1,5 @@
-8. Bordi i administrimit është organ kolegjial vendimmarrës, që kryesohet nga ministri i Arsimit dhe Sportit dhe ka në përbërje:
-a) ministrin e Shtetit për Inovacionin dhe Administratën Publike;
+8. Bordi i administrimit është organ kolegjial vendimmarrës, që kryesohet nga ministri përgjegjës për shkencën dhe kërkimin shkencor ose zëvendësministri i autorizuar prej tij dhe ka në përbërje:
+a) ministrin përgjegjës për inovacionin;
 b) dy përfaqësues të nivelit të lartë të Ministrisë së Arsimit dhe Sportit;
 c) drejtorin e Agjencisë Kombëtare të Financimit të Arsimit të Lartë;
 ç) drejtorin e Agjencisë së Sigurimit të Cilësisë në Arsimin e Lartë;
