@@ -1,0 +1,1 @@
+5. Shoqëria “KAYO” sh.a. siguron nga pala tjetër gjatë negociatave, se, përpos parashikimeve të tjera, objekti i aktivitetit të shoqërisë tregtare, që do të krijohet, do të përmbajë prodhimin, montimin dhe tregtimin e armëve të kalibrave të vegjël dhe dronëve për Forcat e Armatosura dhe për përdorim nga strukturat e tjera të sigurisë.

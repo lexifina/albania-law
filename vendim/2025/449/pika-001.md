@@ -1,0 +1,1 @@
+1. Miratimin e kushteve të negocimit të shoqërisë “KAYO” sh.a me shoqëri private, me qëllim krijimin e një shoqërie aksionare të përbashkët për prodhimin dhe tregtimin e armëve të kalibrave të vegjël, të mesëm dhe dronëve, të regjistruar në Republikën e Shqipërisë, në përputhje me legjislacionin në fuqi për shoqëritë tregtare dhe sipas kushteve të përcaktuara në këtë vendim.
