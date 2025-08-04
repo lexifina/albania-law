@@ -1,0 +1,1 @@
+5. Ngarkohen Agjencia për Menaxhimin e Garancive dhe Kredive të Pakthyera dhe Agjencia për Zhvillim Bujqësor dhe Rural, në përputhje me parashikimet ligjore në fuqi, për ndjekjen dhe administrimin e kësaj skeme garancie.
