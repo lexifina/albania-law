@@ -1,0 +1,1 @@
+1. Dhënien e miratimit për lidhjen e kontratës, ndërmjet Ministrisë së Ekonomisë, Kulturës dhe Inovacionit dhe zhvilluesit “VERTIGO” sh.p.k., për ndërtimin, administrimin dhe monitorimin e funksionimit të zonës së teknologjisë dhe zhvillimit ekonomik në Xhafzotaj, Shijak, sipas tekstit të projektkontratës, që i bashkëlidhet këtij vendimi.
