@@ -1,0 +1,1 @@
+1. Ministria e Brendshme, brenda fondeve buxhetore vjetore, të miratuara për Drejtorinë e Përgjithshme të Policisë së Shtetit, përballon shpenzimet e oficerit ndërlidhës dhe familjarëve, që i shoqërojnë ata gjatë kohës që shërbejnë në përfaqësitë diplomatike të Republikës së Shqipërisë dhe në organizatat ndërkombëtare jashtë vendit.

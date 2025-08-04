@@ -1,0 +1,1 @@
+2. Për efekt të këtij vendimi, familjarë të oficerit ndërlidhës janë bashkëshorti/ja, fëmijët nën moshën 18 vjeç, si dhe persona të tretë, në kujdestari që shoqërojnë oficerin ndërlidhës, që shërben në përfaqësitë diplomatike të Republikës së Shqipërisë dhe në organizatat ndërkombëtare jashtë vendit.

@@ -1,0 +1,1 @@
+14. Në rast humbjeje të jetës së oficerit ndërlidhës apo të pjesëtarit të familjes që e shoqëron në detyrë, shpenzimet për transportin e trupit në atdhe, si dhe ato të ceremonisë mortore përballohen nga buxheti i Policisë së Shtetit.

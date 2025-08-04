@@ -1,0 +1,1 @@
+16. Vendimi nr. 759, datë 8.7.2009, i Këshillit të Ministrave, “Për përballimin e shpenzimeve të punonjësve shqiptarë, që shërbejnë si oficerë kontakti pranë ministrive të brendshme të shteteve të ndryshme, të atashuar në përfaqësitë diplomatike të Republikës së Shqipërisë”, shfuqizohet.

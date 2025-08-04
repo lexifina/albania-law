@@ -1,0 +1,1 @@
+11. Me miratimin e drejtorit të përgjithshëm të Policisë së Shtetit, vetëm në rast fatkeqësie (vdekja e prindërve, bashkëshortit/es, fëmijës, vëllait dhe motrës), oficerit ndërlidhës dhe familjarëve shoqërues u paguhen nga shteti shpenzimet e udhëtimit për ardhjen në atdhe dhe kthimin në vendin e huaj.
