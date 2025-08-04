@@ -1,1 +1,0 @@
-2. Kur oficeri i kontaktit dërgohet me shërbim jashtë shtetit pritës ose kur vjen në atdhe, ndërkohë që në shtetin ku kryen detyrën ka lënë bashkëshorten dhe fëmijët, merr 100 për qind të trajtimit financiar, të dhënë për përkujdesje ndaj familjes së tij.
