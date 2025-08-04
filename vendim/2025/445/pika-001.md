@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Për zbatimin e projektit të portit të ri tregtar të integruar të Durrësit në Porto-Romano”.
