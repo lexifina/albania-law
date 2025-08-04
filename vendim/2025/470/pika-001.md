@@ -1,0 +1,1 @@
+1. Përjashtimisht, për vitin 2025, procedura e pranimit të drejtpërdrejtë në TND është e hapur edhe për kandidatë të tjerë jashtë shërbimit civil, që plotësojnë kërkesat specifike për pranimin në TND.
