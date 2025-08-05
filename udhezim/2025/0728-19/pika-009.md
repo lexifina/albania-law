@@ -1,0 +1,1 @@
+9. Çdo zyrë vendore e arsimit parauniversitar merr nga qendrat e vlerësimit të testeve dhe ruan të dhënat e çdo nxënësi, të vlerësuesve të testeve dhe të mjediseve ku janë realizuar provimet kombëtare të arsimit bazë. Këto të dhëna dërgohen nëpërmjet drejtorive rajonale të arsimit parauniversitar, në Agjencinë Kombëtare të Arsimit Parauniversitar dhe në QSHA.
