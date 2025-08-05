@@ -1,0 +1,1 @@
+13. Drejtori i AKAP-së, brenda datës 9 gusht 2025, të njoftojë zyrtarisht QSHA-në dhe MAS-in, për qendrat dhe mjediset ku do të zhvillohen provimet e detyruara dhe me zgjedhje të Maturës Shtetërore 2025, sesioni i dytë, dhe për listën e shkollave që marrin pjesë në provimet e Maturës Shtetërore 2025 dhe të Maturës Shtetërore Profesionale 2025, sesioni i dytë.

@@ -1,0 +1,1 @@
+8. Maturantët/kandidatët me aftësi të kufizuara do të zhvillojnë provimet e Maturës Shtetërore bazuar në pikat 2 dhe 3, të nenit 49, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, të ndryshuar, si dhe nenit 31 dhe 31/1 të Rregullores së Maturës Shtetërore.

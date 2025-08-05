@@ -1,0 +1,1 @@
+15. Shpenzimet e përfaqësuesve të MAS-it për monitorimin e provimeve të Maturës Shtetërore 2025 dhe të Maturës Shtetërore Profesionale 2025, sesioni i dytë, të mbulohen nga institucionet ku janë të punësuar.

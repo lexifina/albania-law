@@ -1,0 +1,1 @@
+10. Drejtori i institucionit arsimor parauniversitar dërgon zyrtarisht në ZVAP, listën e maturantëve që do të marrin pjesë në provimet e detyruara dhe me zgjedhje të Maturës Shtetërore 2025 dhe në provimet e detyruara të Maturës Shtetërore Profesionale 2025, sesioni i dytë, deri më datë 11 gusht 2025. Drejtori i ZVAP-së ta dërgojë këtë listë në QSHA, më datë 12 gusht 2025.
