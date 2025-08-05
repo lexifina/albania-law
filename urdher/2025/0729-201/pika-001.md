@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Kolegjit të Posaçëm të Apelimit te znj. Alketa Çeli, me detyrë Sekretar i Përgjithshëm i Kolegjit të Posaçëm të Apelimit, për të kryer procedurat administrative dhe nënshkruar aktet që lidhen me përpunimin tekniko-shkencor të dokumentacionit arkivor të Kolegjit, sipas legjislacionit në fuqi.
