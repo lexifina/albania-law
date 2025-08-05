@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së përfaqësimit të institucionit në marrëdhëniet me palët e treta, znj. Alketa Çeli, Sekretare e Përgjithshme e Kolegjit të Posaçëm të Apelimit, për periudhën 4.8.2025 deri më 20.8.2025.
