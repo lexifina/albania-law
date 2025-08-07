@@ -14,3 +14,4 @@ g) miraton normat e trajtimit me ushqim të ushtarakëve;
 gj) miraton rezervat materiale në Forcat e Armatosura, si dhe përcakton rregullat për krijimin, shkallëzimin, mënyrën e administrimit e të përdorimit të tyre për kohë paqeje dhe të gjendjeve, për të cilat kërkohet marrja e masave të jashtëzakonshme;
 h) përcakton detyrimet e institucioneve dhe subjekteve publike e private për mbajtjen e rezervave të materialeve e të mallrave në interes të mbrojtjes dhe Forcave të Armatosura për situata të veçanta;
 i) miraton listën e aerodromeve civile, që mund të caktohen si aeroporte rezervë të Forcave të Armatosura gjatë gjendjeve, për të cilat kërkohet marrja e masave të jashtëzakonshme.
+j) përcakton rregullat e bashkëpunimit ndërmjet Ministrisë së Mbrojtjes dhe institucioneve të tjera shtetërore në angazhimin e strukturave, mjeteve dhe pajisjeve të Forcave të Armatosura të Republikës së Shqipërisë.

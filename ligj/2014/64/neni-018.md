@@ -15,7 +15,8 @@ e) planin për arsimim e kualifikim të personelit për forcën që drejton.
 a) miraton manualet e luftimit dhe të teknikës për forcën që drejton;
 b) paraqet kërkesat buxhetore dhe ndjek zbatimin e buxhetit, sipas akteve ligjore e nënligjore të menaxhimit të sistemit buxhetor;
 c) siguron që sistemi i vlerësimit të ushtarakëve aktivë në forcën apo strukturën mbështetëse që drejton të zbatohet në përputhje me politikat, udhëzimet e procedurat standarde, të miratuara nga Ministri i Mbrojtjes;
-ç) emëron, liron ose shkarkon nga detyra ushtarët dhe nënoficerët aktivë, si dhe personelin civil të forcës apo strukturës mbështetëse që drejton, me përjashtim të atyre që gëzojnë statusin e nëpunësit civil ose që janë në funksione oficeri;
+ç) emëron, liron ose shkarkon nga detyra ushtarët dhe nënoficerët aktivë, si dhe personelin civil të forcës apo strukturës mbështetëse që drejton, me përjashtim të atyre që gëzojnë statusin e nëpunësit civil ose që janë në funksione oficeri si dhe merr në punë me kontratë, me miratimin e shefit të Shtabit të Përgjithshëm të Forcave të Armatosura, personelin civil, i cili është në funksione ushtar/civil (U/C), nënoficer/civil (N/C);
+ç/1) komandon në një detyrë tjetër nënoficerët aktivë, ushtarët aktivë dhe personelin civil të forcës apo të strukturës mbështetëse që drejton, me përjashtim të atyre që gëzojnë statusin e nëpunësit civil ose që janë në funksione oficer/civil (O/C), për një periudhë kohe jo më shumë se 6 (gjashtë) muaj, por jo më shumë se 2 (dy) herë.
 d) gradon ushtarët aktivë të forcës apo strukturës mbështetëse që drejton;
 dh) jep medalje apo certifikata, sipas legjislacionit në fuqi;
 e) planizon dhe kryen operacione luftarake dhe joluftarake;

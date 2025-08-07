@@ -13,9 +13,10 @@ e) emëron, liron ose shkarkon nga detyra përfaqësuesit ushtarakë të Republi
 f) nxjerr urdhra dhe udhëzime për Forcat e Armatosura, në zbatim të kompetencave të tij;
 g) miraton direktivën e mbrojtjes;
 gj) jep titullin “oficer aktiv” dhe gradën e parë për oficerët, me propozimin e titullarit të institucionit arsimor dhe stërvitor në Forcat e Armatosura;
-h) emëron, liron ose shkarkon nga detyra, nxjerr në rezervë apo lirim, me propozimin e Shefit të Shtabit të Përgjithshëm, oficerët aktivë të Forcave të Armatosura, me përjashtim të oficerëve me grada madhore;
+h) emëron, liron ose shkarkon nga detyra oficerët aktivë të Ministrisë së Mbrojtjes dhe të strukturave të varësisë së drejtpërdrejtë të Ministrisë së Mbrojtjes dhe oficerët me gradën “nënkolonel/kapiten i rangut të dytë” dhe “kolonel/kapiten i rangut të parë” në Forcat e Armatosura, me propozimin e shefit të Shtabit të Përgjithshëm të Forcave të Armatosura, me përjashtim të oficerëve me grada madhore;
+h/1) nxjerr në rezervë apo në lirim oficerët aktivë të Forcave të Armatosura, me propozimin e shefit të Shtabit të Përgjithshëm të Forcave të Armatosura, me përjashtim të oficerëve me grada madhore;
 i) gradon, me propozimin e komisioneve të karrierës, oficerët aktivë të Forcave të Armatosura, deri në gradën kolonel;
-j) komandon në një detyrë tjetër oficerët aktivë të Forcave të Armatosura, për një periudhë kohe jo më shumë se 6 muaj, me përjashtim të oficerëve me grada madhore;
+j) komandon në një detyrë tjetër oficerët aktivë të Ministrisë së Mbrojtjes dhe të strukturave të varësisë së drejtpërdrejtë të Ministrisë së Mbrojtjes dhe oficerët me gradën “nënkolonel/kapiten i rangut të dytë” dhe “kolonel/kapiten i rangut të parë”, në Forcat e Armatosura, për një periudhë kohe jo më shumë se 6 (gjashtë) muaj, me të drejtë rikomandimi, por jo më shumë se 2 (dy) herë, me propozimin e shefit të Shtabit të Përgjithshëm të Forcave të Armatosura, me përjashtim të oficerëve me grada madhore;
 k) i paraqet për miratim Këshillit të Ministrave, me propozimin e Shefit të Shtabit të Përgjithshëm, modelet e uniformave ushtarake, gradave, simboleve, flamujve dhe çdo shenje tjetër dalluese të uniformës ushtarake;
 l) i paraqet për miratim Presidentit të Republikës, me propozimin e Shefit të Shtabit të Përgjithshëm, njësitë e Forcave të Armatosura, të cilat do të mbajnë flamuj luftarakë;
 ll) jep medalje, sipas legjislacionit në fuqi;
@@ -29,6 +30,7 @@ r) miraton politika në fushën e zbulimit, kundërzbulimit dhe sigurisë në Fo
 rr) emëron, liron ose shkarkon nga detyra personelin civil në Ministrinë e Mbrojtjes dhe në Forcat e Armatosura, përveç atyre që gëzojnë statusin e nëpunësit civil apo që janë në funksione ushtari ose nënoficeri;
 s) urdhëron pjesëmarrjen e ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë në stërvitje ushtarake ndërkombëtare, jep lejen për qëndrim të përkohshëm të forcave ushtarake të huaja në territorin e Republikës së Shqipërisë, si dhe jep lejen për transitim të forcave ushtarake të huaja nëpër territorin e Republikës së Shqipërisë, sipas legjislacionit në fuqi.
 sh) emëron, liron ose shkarkon nga detyra personelin civil në strukturat civile të varësisë së Ministrisë së Mbrojtjes, përveç atyre që gëzojnë statusin e nëpunësit civil.
+t) i propozon për miratim Presidentit të Republikës planin e vendosjes dhe përhapjes së Forcave të Armatosura.
 3. Ministri i Mbrojtjes mund të delegojë te Shefi i Shtabit të Përgjithshëm të Forcave të Armatosura, si dhe te komandantët e forcave apo strukturave mbështetëse kompetencat dhe përgjegjësitë e përcaktuara në shkronjat “h”, “i” dhe “rr”, të pikës 2, të këtij neni.
-4. Ministri i Mbrojtjes zëvendësohet nga zëvendësministri i Mbrojtjes në kryerjen e detyrave, në rastet e mungesave, të pamundësisë apo të paaftësisë fizike për të vepruar ose për shkak të një pengese ligjore që has gjatë veprimtarisë së tij.
+4. Ministri i Mbrojtjes zëvendësohet nga zëvendësministri i Mbrojtjes në kryerjen e detyrave, sipas legjislacionit në fuqi.
 5. Ministri i Mbrojtjes, përveç detyrave të përcaktuara në këtë ligj, ushtron edhe detyra të tjera, të përcaktuara nga legjislacioni në fuqi.

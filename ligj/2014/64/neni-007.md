@@ -1,5 +1,5 @@
 # Neni 7
-Pushtetet dhe autoritetet e drejtimit e të komandimit strategjik
+Pushtetet dhe autoritetet e drejtimit e të komandimit të Forcave të Armatosura të Republikës së Shqipërisë
 Hierarkia e autoriteteve të drejtimit e të komandimit strategjik të Forcave të Armatosura të Republikës së Shqipërisë është si më poshtë:
 1. Kuvendi i Republikës së Shqipërisë;
 2. Presidenti i Republikës;
