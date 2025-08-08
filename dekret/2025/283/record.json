@@ -1,0 +1,26 @@
+{
+  "qbz_id": 30900,
+  "title": "Për daljen në rezervë të oficerit me gradë madhore",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "283",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2025-08-04",
+  "published": "2025-08-08",
+  "in_force": "2025-08-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/23dbe551cd1991947a8a3d77c93004065e6c01771481c07a2e440173341d5b0f.docx",
+  "source_sha256": "23dbe551cd1991947a8a3d77c93004065e6c01771481c07a2e440173341d5b0f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/30900",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2025/08/04/283",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
