@@ -1,0 +1,1 @@
+2. Emërtimi i bashkisë/njësisë administrative/qytetit/fshatit, si elemente të adresës kryhet në përputhje me parashikimet e ligjit nr. 115/2014, “Për ndarjen administrativo-territoriale të njësive të qeverisjes vendore në Republikën e Shqipërisë”, të ndryshuar.

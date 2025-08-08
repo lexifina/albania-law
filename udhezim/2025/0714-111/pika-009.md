@@ -1,0 +1,1 @@
+9. Kodi unik i adresës gjenerohet për ndërtesat e regjistruara në Regjistrin Kombëtar të Adresave (RKA), sipas aneksit nr. 2, “Ndërtimi i strukturës së përgjithshme të Kodit Unik të Adresës”, pjesë përbërëse e këtij udhëzimi.
