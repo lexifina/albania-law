@@ -1,0 +1,28 @@
+{
+  "qbz_id": 30937,
+  "title": "Mbi pezullimin e vendimmarrjes së bordit të ERE-s lidhur me kërkesën e shoqërisë “IDI 2005” sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "160",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2025-07-18",
+  "published": "2025-08-12",
+  "in_force": "2025-08-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/df220e75500b8fa9edc0ec5bfc33de0de663c2cc9939c5b26a5c4bc95641c9b3.docx",
+  "source_sha256": "df220e75500b8fa9edc0ec5bfc33de0de663c2cc9939c5b26a5c4bc95641c9b3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/30937",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/07/18/160",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31397
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
