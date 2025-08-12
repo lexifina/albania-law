@@ -1,0 +1,1 @@
+1. Z.Sokol Ismaili, drejtor i përgjithshëm i Drejtorisë së Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse, që në mungesë dhe me porosi, të zëvendësojë për nënshkrimin e korrespodencave të përditshme shkresore, që janë kompetencë e Sekretarit të Përgjithshëm të Ministrisë së Ekonomisë, Kulturës dhe Inovacionit.
