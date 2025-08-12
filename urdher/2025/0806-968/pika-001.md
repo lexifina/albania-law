@@ -1,0 +1,1 @@
+1. Kompetencat e deleguara nga ministri tek Sekretari i Përgjithshëm, delegohen te z.Sokol Ismaili, drejtor i përgjithshëm i Drejtorisë së Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse, për periudhën 8.8.2025 deri më 18.8.2025.
