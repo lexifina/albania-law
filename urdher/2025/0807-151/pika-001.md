@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të drejtorit të përgjithshëm, për nënshkrimin e korrespondencave/ shkresave hyrëse dhe dalëse të Agjencisë së Zhvillimit të Territorit te znj. Alisa Basha, aktualisht me pozicion drejtor i Drejtorisë Juridike dhe Shqyrtimit të Aplikimeve.
