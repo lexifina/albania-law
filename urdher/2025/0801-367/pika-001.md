@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale nga data 4.8.2025, deri më datë 15.8.2025, zëvendësministrit të Shëndetësisë dhe Mbrojtjes Sociale, znj. Entela Ramosaçaj.
