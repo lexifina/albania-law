@@ -1,6 +1,0 @@
-1. Sipërmarrës për zbatimin e punimeve të ndërtimit është çdo subjekt juridik, vendas ose i huaj, publik ose privat, i licencuar nga komisioni i dhënies së licencave profesionale, pranë Ministrisë së Rregullimit të Territorit dhe të Turizmit, për të ushtruar veprimtari në zbatimin e punimeve të ndërtimit.
-Licenca i jepet subjektit zbatues në emër të drejtuesit ligjor dhe teknik të tij.
-1.1 Çdo subjekt juridik i licencuar ka të drejtë të ushtrojë veprimtari zbatimi, vetëm në klasat dhe kategoritë e punimeve, që ka përcaktuar në licencë.
-Kushtet dhe kriteret, që duhet të plotësojë subjekti juridik për të fituar klasa e kategori në zbatimin e punimeve të ndërtimit, përcaktohen në rregulloren për dhënien e licencave profesionale, që miraton Ministri i Rregullimit të Territorit dhe i Turizmit.
-1.2 Drejtuesit ligjorë dhe teknikë të sipërmarrësit janë përgjegjës përpara investitorit për ndërtimin e veprës, sipas projektit, për kryerjen e punimeve të ndërtimit, në përputhje me kushtet teknike të zbatimit, specifikimet teknike, sigurimin teknik dhe mbrojtjen në punë, brenda kushteve të kontratës e dispozitave ligjore në fuqi.
-1.3 Edhe në rastet kur investitori ndërton për llogari të vet, ai duhet të jetë i pajisur me licencë profesionale për zbatimin e punimeve të ndërtimit.
