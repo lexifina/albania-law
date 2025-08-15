@@ -4,6 +4,10 @@ Nr. 193, datë 18.9.2024
 
 MBI LICENCIMIN E SHOQËRISË “HPG ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE 
 
+(Ndryshuar me vendimin nr. 196, datë 15.8.2025)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a” dhe 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 18.9.2024, mbasi shqyrtoi relacionin me nr.1724/8 prot., datë 17.9.2024, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes “Mbi kërkesën e shoqërisë ‘HPG Energy’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -36,9 +40,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “HPG Energy” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 2 mw, në Njësinë Administrative Topojë, Bashkia Fier, qarku Fier, për një afat 30-vjeçar.
 
-2. Shoqëria duhet të fillojë ushtrimin e aktivitetit të prodhimit të energjisë elektrike nga centrali fotovoltaik, jo më vonë se data 16.10.2024.
+2. Shoqëria duhet të fillojë ushtrimin e aktivitetit të prodhimit të energjisë elektrike nga centrali fotovoltaik, jo më vonë se data 16.12.2025.
 
-3. Shoqëria duhet të raportojë në ERE çdo 3 (tre) muaj, në lidhje me fillimin e punimeve për ndërtimin e centralit fotovoltaik dhe të dokumentojë fillimin e tyre brenda afatit të fundit të vlefshmërisë së VNM-së paraprake, pra brenda datës 18.7.2026, përndryshe duhet të depozitojë në ERE VNM-në paraprake të re.
+3. Brenda 60 (gjashtëdhjetë) ditëve nga fillimi i operimit, shoqëria duhet të dokumentojë në ERE testimin e veprës.
 
 4. Ky vendim është objekt rishikimi në rast se depozitohet/konstatohet një dokumentacion i ndryshëm nga ai që ka shërbyer për këtë vendimmarrje. 
 
