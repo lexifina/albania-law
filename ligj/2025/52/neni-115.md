@@ -1,0 +1,7 @@
+# Neni 115
+Informacioni konfidencial
+1. Gjatë procedurave në DPPI, palët mund të përcaktojnë se provat ose dokumentet e depozituara përmbajnë sekrete tregtare dhe informacione konfidenciale. Në këtë rast, DPPI-ja mund të vendosë:
+a) moskopjimin e dokumenteve ose provave që përmbajnë sekrete tregtare dhe informacione konfidenciale, por vetëm mundësinë e inspektimit të tyre;
+b) ndalimin e njohjes me dokumentet ose provat që përmbajnë sekrete tregtare dhe informacione konfidenciale, përveçse kur njohja me dokumentet justifikohet nga një interes i ligjshëm dhe mbizotërues i palës që kërkon inspektimin; ose
+c) mbylljen e dokumenteve ose provave që përmbajnë sekrete tregtare dhe informacione konfidenciale në një zarf të veçantë që mund të hapet vetëm në mjediset e DPPI-së. Në këtë rast, dokumentet ose provat mbyllen përsëri në një zarf të veçantë pas njohjes me dokumentet dhe DPPI-ja shënon faktin se u krye njohja me dokumentet ose provat, datën dhe orën e kryerjes së këtij procesi dhe të dhënat e identifikimit për personin që ka kryer njohjen me dosjen.
+2. Nëse dokumentet ose provat që përmbajnë sekrete tregtare dhe informacione konfidenciale vendosen në dispozicion për inspektim sipas pikës 1 të këtij neni, DPPI-ja informon paraprakisht personin që ka të drejtë të njihet me dokumentet për detyrimin e konfidencialitetit. Në këtë rast, individi duhet të nënshkruajë deklaratën për detyrimin e konfidencialitetit.

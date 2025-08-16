@@ -1,0 +1,5 @@
+# Neni 117
+Shfuqizimi i vendimeve
+1. DPPI-ja çregjistron të dhënat e pasqyruara në regjistër ose shfuqizon vendimin e marrë kur ajo ka regjistruar një të dhënë në regjistër ose ka marrë një vendim që përmban një gabim të dukshëm që i atribuohet DPPI-së. Kur ka vetëm një palë në procedurën administrative në DPPI dhe regjistrimi i të dhënave ose vendimi sjell efekte tek të drejtat e palës, çregjistrimi ose shfuqizimi i vendimit kryhet edhe nëse gabimi nuk është i dukshëm për palën.
+2. Çregjistrimi ose shfuqizimi i përcaktuar në pikën 1 të këtij neni kryhet me nismën e DPPI-së ose me kërkesë të njërës prej palëve pjesëmarrëse në procedurë. Çdo çregjistrim i të dhënave ose shfuqizim vendimi shënohet në regjistër.
+3. Ky nen nuk cenon të drejtën e palëve për të depozituar një ankim në Bordin e Apelit ose mundësinë për korrigjimin e gabimeve dhe pasaktësive të dukshme sipas nenit 116 të këtij ligji. Kur ankimi është depozituar kundër një vendimi të DPPI-së që përmban një gabim, procedurat e ankimit mbeten pa objekt pas shfuqizimit të vendimit nga DPPI-ja në përputhje me pikën 1 të këtij neni. Në këtë rast, tarifa e paguar për ankimin i rimbursohet apeluesit.

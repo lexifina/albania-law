@@ -1,0 +1,7 @@
+# Neni 71
+Markat kolektive
+1. Marka kolektive është marka që përcaktohet si e tillë në kërkesën për regjistrim të markës tregtare dhe që mundëson dallimin e mallrave dhe shërbimeve të anëtarëve të shoqatës që është pronare e markës tregtare nga mallrat dhe shërbimet e ndërmarrjeve të tjera.
+2. Kërkesa për regjistrim marke kolektive depozitohet nga shoqatat e prodhuesve, ofruesve të shërbimeve ose tregtarëve sipas legjislacionit në fuqi, të cilët kanë të drejtë të fitojnë të drejta e të marrin përsipër detyrime të të gjitha llojeve dhe që në emrin e tyre të lidhin kontrata, të kryejnë veprime juridike, si dhe të padisin dhe të paditen. Kërkesa për regjistrim marke kolektive depozitohet edhe nga persona juridikë që rregullohen nga e drejta publike.
+3. Shenjat ose treguesit që mund të shërbejnë në tregti për të përcaktuar origjinën gjeografike të mallrave dhe shërbimeve mund të mbrohen si markë kolektive, me përjashtim të shkronjës “c”, të pikës 1, të nenit 8, të këtij ligji.
+4. Marka kolektive nuk i jep të drejtë pronarit që të ndalojë palët e treta të përdorin në treg shenjat ose treguesit që përcaktohen në pikën 3 të këtij neni, me kusht që ato t’i përdorin shenjat ose treguesit në përputhje me praktikat e drejta dhe të ndershme në fushat e industrisë e të tregtisë, sidomos ndaj palëve të treta që kanë të drejtë të përdorin një emër gjeografik.
+5. Dispozitat e tjera të këtij ligji zbatohen edhe për markat kolektive, përveçse kur parashikohet ndryshe në këtë kre të ligjit.

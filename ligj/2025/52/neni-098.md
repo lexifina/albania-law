@@ -1,0 +1,13 @@
+# Neni 98
+Ekzaminimi i shkaqeve absolute për refuzim dhe specifikimi i listës së mallrave dhe shërbimeve në regjistrimin ndërkombëtar
+1. Regjistrimet ndërkombëtare që shtrihen në Republikën e Shqipërisë janë objekt ekzaminimi nga DPPI-ja për sa u përket shkaqeve absolute për refuzim dhe specifikimit të listës së mallrave dhe shërbimeve në të njëjtën mënyrë si kërkesat kombëtare për markë.
+2. Nëse regjistrimi ndërkombëtar që shtrihet në Republikën e Shqipërisë konsiderohet se është i papranueshëm për mbrojtje për të gjithë ose një pjesë të mallrave dhe shërbimeve për të cilat ai është regjistruar në Zyrën Ndërkombëtare, DPPI-ja, përpara përfundimit të periudhës së zbatueshme të refuzimit të përcaktuar në paragrafin 2/“a”, të nenit 5 të Protokollit të Madridit, i dërgon me nismën e saj Zyrës Ndërkombëtare njoftimin për refuzim të përkohshëm, në përputhje me paragrafët 1 dhe 2, të nenit 5 të Protokollit të Madridit.
+3. Çdo njoftim për refuzim të përkohshëm të regjistrimit ndërkombëtar që shtrihet në Republikën e Shqipërisë duhet t’i njoftohet Zyrës Ndërkombëtare së bashku me një deklaratë që përmban të gjitha arsyet e lidhura me njoftimin. Ky njoftim duhet bërë përpara përfundimit të afatit kohor të zbatueshëm, i cili llogaritet duke filluar nga data në të cilën njoftimi për shtrirje i është dërguar Republikës së Shqipërisë nga Zyra Ndërkombëtare.
+4. Mbajtësi i regjistrimit ndërkombëtar mund t’i përgjigjet njoftimit për refuzim të përkohshëm duke depozituar observimet e tij mbi arsyet e refuzimit brenda 4 muajve nga data e marrjes së njoftimit të dërguar nga Zyra Ndërkombëtare. Observimet duhet të depozitohen me shkrim nëpërmjet përfaqësuesve të autorizuar për markat tregtare që janë licencuar dhe regjistruar si të tillë nga DPPI-ja.
+5. DPPI-ja vendos për refuzimin e mbrojtjes për të gjithë ose një pjesë të mallrave dhe shërbimeve të regjistrimit ndërkombëtar dhe e njofton vendimin përfundimtar në Zyrën Ndërkombëtare kur:
+a) mbajtësi i regjistrimit ndërkombëtar nuk depoziton observimet e tij ndaj njoftimit për refuzim të përkohshëm brenda afatit të caktuar; ose
+b) regjistrimi ndërkombëtar konsiderohet se nuk është i pranueshëm për t’u mbrojtur në Republikën e Shqipërisë.
+6. DPPI-ja vendos për pranimin e mbrojtjes së regjistrimit ndërkombëtar dhe e njofton këtë vendim përfundimtar në Zyrën Ndërkombëtare kur:
+a) mbajtësi i regjistrimit ndërkombëtar depoziton observimet e tij ndaj njoftimit për refuzim të përkohshëm brenda afatit të caktuar;
+b) regjistrimi ndërkombëtar konsiderohet se është i pranueshëm për t’u mbrojtur në Republikën e Shqipërisë; dhe
+c) nuk depozitohet asnjë kundërshtim ndaj regjistrimit ndërkombëtar.

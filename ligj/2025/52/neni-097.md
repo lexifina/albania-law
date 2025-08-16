@@ -1,0 +1,6 @@
+# Neni 97
+Efektet e regjistrimeve ndërkombëtare që shtrihen në Republikën e Shqipërisë
+1. Regjistrimi ndërkombëtar që shtrihet në Republikën e Shqipërisë sjell të njëjtat efekte si kërkesa kombëtare për markë, duke filluar nga data e regjistrimit të tij sipas paragrafit 4, të nenit 3, të Protokollit të Madridit ose nga data e shtrirjes së mëvonshme në Republikën e Shqipërisë sipas paragrafit 2, të nenit 3ter të Protokollit të Madridit.
+2. Nëse DPPI-ja nuk ka njoftuar asnjë refuzim në Zyrën Ndërkombëtare, në përputhje me paragrafët 1 dhe 2/“a”, të nenit 5 të Protokollit të Madridit ose nëse ndonjë refuzim i tillë është tërhequr, regjistrimi ndërkombëtar i markës sjell të njëjtat efekte si regjistrimi kombëtar i markës, duke filluar nga data e përcaktuar në pikën 1 të këtij neni.
+3. Data e depozitimit është data e regjistrimit ndërkombëtar kur Republika e Shqipërisë është përcaktuar për mbrojtje në regjistrimin ndërkombëtar ose data e shtrirjes së mëvonshme kur Republika e Shqipërisë është përcaktuar më vonë për mbrojtje në regjistrimin ndërkombëtar.
+4. Treguesi i mallrave dhe shërbimeve të përcaktuara në regjistrimin ndërkombëtar që shtrihet në Republikën e Shqipërisë nuk përbën detyrim për DPPI-në, në lidhje me përcaktimin e objektit të mbrojtjes së markës.

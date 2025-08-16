@@ -1,0 +1,10 @@
+# Neni 104
+Shfuqizimi dhe deklarimi i pavlefshmërisë i regjistrimit ndërkombëtar të markës
+1. Regjistrimi ndërkombëtar i markës, që shtrihet në Republikën e Shqipërisë, mund të deklarohet i pavlefshëm në përputhje me këtë ligj.
+2. Kërkesa për pavlefshmërinë e regjistrimit ndërkombëtar të markës që shtrihet në Republikën e Shqipërisë u nënshtrohet të njëjtave rregulla dhe procedura, të parashikuara në lidhje me kërkesën për shfuqizim në nenet 62 deri në 64 të këtij ligji ose kërkesën për deklarim të pavlefshmërisë në nenet 65 deri në 70 të këtij ligji, sipas rastit.
+3. Në procedurat lidhur me kërkesën për shfuqizimin ose deklarimin e pavlefshmërisë së regjistrimit ndërkombëtar të markës, DPPI-ja i dërgon njoftim mbajtësit të regjistrimit ndërkombëtar të markës për kërkesën për shfuqizim ose deklarim pavlefshmërie të markës, si dhe e fton atë që të caktojë një përfaqësues të autorizuar për markën tregtare brenda 2 muajve nga data e marrjes së njoftimit. Përfaqësuesi i autorizuar duhet të depozitojë prokurën ose aktin e përfaqësimit në DPPI.
+4. Afati i përcaktuar në pikën 1 të këtij neni nuk shtyhet.
+5. Kur plotësohen kërkesat e përcaktuara në pikën 3 të këtij neni, DPPI-ja i dërgon një kopje të kërkesës përfaqësuesit të autorizuar dhe e fton atë të paraqesë observimet e tij brenda 2 muajve nga data e marrjes së njoftimit.
+6. Kur mbajtësi i regjistrimit ndërkombëtar nuk plotëson kërkesat e përcaktuara në pikat 3 dhe 5, të këtij neni, brenda afateve të caktuara, DPPI-ja vendos automatikisht për pranimin e kërkesës për shfuqizim ose deklarimin e pavlefshmërisë së regjistrimit ndërkombëtar të markës në lidhje me një pjesë ose të gjitha mallrat dhe shërbimet.
+7. DPPI-ja i dërgon Zyrës Ndërkombëtare njoftimin për shfuqizimin ose deklarimin e pavlefshmërisë së regjistrimit ndërkombëtar të markës pasi ky vendim merr formë të prerë.
+8. Njoftimi i mbajtësit të regjistrimit ndërkombëtar të markës lidhur me kërkesën për shfuqizim ose deklarimin e pavlefshmërisë së regjistrimit ndërkombëtar të markës i komunikohet Zyrës Ndërkombëtare sipas rregullit 23bis të Protokollit në lidhje me Marrëveshjen e Madridit për regjistrimin ndërkombëtar të markave.

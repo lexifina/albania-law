@@ -1,0 +1,8 @@
+# Neni 36
+E drejta për prioritet
+1. Personi, që ka depozituar rregullisht një kërkesë për regjistrim marke në ose në lidhje me një shtet palë të Konventës së Parisit ose të Marrëveshjes për Themelimin e Organizatës Botërore të Tregtisë, ose zëvendësuesi i tij ligjor, gëzon të drejtën për prioritet, me kusht që kërkesa kombëtare për regjistrim marke në Republikën e Shqipërisë të depozitohet brenda 6 muajve nga data e depozitimit të kërkesës së parë për regjistrim marke.
+2. Për qëllime të pikës 1 të këtij neni, kërkesa kombëtare për regjistrimin e markës në Republikën e Shqipërisë duhet të depozitohet për të njëjtën markë, në lidhje me mallra dhe shërbime që janë të njëjta ose që përfshihen te lista e mallrave dhe shërbimeve për të cilat është depozituar kërkesa e parë për regjistrim marke.
+3. Çdo kërkesë që është ekuivalente me një kërkesë kombëtare të rregullt, sipas ligjit të shtetit ku është depozituar ose sipas marrëveshjeve dypalëshe apo shumëpalëshe, konsiderohet se siguron të drejtë për prioritet.
+4. Me kërkesë të rregullt kombëtare kuptohet çdo kërkesë për regjistrim marke që plotëson kushtet e nevojshme për të marrë një datë depozitimi, pavarësisht se çfarë vendoset në lidhje me kërkesën për regjistrim marke.
+5. Kur pretendohet një e drejtë prioriteti, kërkesa përmban datën, numrin dhe shtetin e kërkesës së mëparshme, si dhe mallrat ose shërbimet për të cilat pretendohet e drejta e prioritetit. Kjo e drejtë prioriteti pretendohet në momentin e depozitimit të kërkesës kombëtare për markë.
+6. Kërkuesi që pretendon prioritet paraqet në DPPI një kopje të kërkesës së parë dhe përkthimin e saj në gjuhën shqipe brenda 3 muajve nga data e depozitimit të kërkesës kombëtare për markë tregtare.

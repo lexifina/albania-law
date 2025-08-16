@@ -1,0 +1,10 @@
+# Neni 47
+Procedura e kundërshtimit
+1. Dhoma e Kundërshtimeve shqyrton brenda 2 muajve nëse kundërshtimi është depozituar në përputhje me kërkesat e përcaktuara në nenin 46 të këtij ligji.
+2. Nëse kundërshtimi nuk përmbush kërkesat e parashikuara në pikat 1 dhe 2, të nenit 46 të këtij ligji, Dhoma e Kundërshtimeve vendos për refuzimin e kundërshtimit.
+3. Nëse kundërshtimi nuk është depozituar në përputhje me kërkesat e përcaktuara në nenin 46 të këtij ligji, Dhoma e Kundërshtimeve i dërgon njoftim kundërshtuesit që të plotësojë të metat ose mangësitë brenda 2 muajve nga data e marrjes së njoftimit.
+4. Nëse kundërshtuesi nuk i plotëson të metat dhe mangësitë, sipas njoftimit të përcaktuar në pikën 3 të këtij neni, Dhoma e Kundërshtimeve vendos për refuzimin e kundërshtimit.
+5. Nëse kundërshtimi përmbush kërkesat e parashikuara në pikën 1 të këtij neni, Dhoma e Kundërshtimeve, brenda 2 muajve, i dërgon kërkuesit që ka depozituar kërkesën për regjistrim marke një kopje të kundërshtimit bashkë me njoftimin për kundërshtimin e markës dhe e fton atë që të depozitojë observimet kundër kundërshtimit, brenda 2 muajve nga data e marrjes së njoftimit. Nëse kërkuesi i markës së kundërshtuar, gjatë kësaj periudhe, kërkon me shkrim paraqitjen e provave për përdorimin real dhe efektiv të markës së mëparshme nga kundërshtuesi, zbatohen procedura dhe afatet e përcaktuara në nenin 48 të këtij ligji.
+6. Afati i përcaktuar në pikën 5 të këtij neni nuk shtyhet.
+7. Nëse kërkuesi nuk paraqet observimet e tij ndaj kundërshtimit brenda afatit të caktuar në pikën 5 të këtij neni, Dhoma e Kundërshtimeve, brenda 2 muajve, vendos automatikisht për pranimin e kundërshtimit dhe refuzimin e kërkesës për regjistrimin e markës në lidhje me një pjesë ose të gjitha mallrat dhe shërbimet.
+8. Nëse Dhoma e Kundërshtimeve vendos për pranimin e kundërshtimit vetëm për një pjesë të mallrave ose shërbimeve të markës së kundërshtuar, për procedurën e regjistrimit të markës në lidhje me pjesën tjetër të mbetur të mallrave dhe shërbimeve vazhdon të merret vendimi për pranimin e pjesshëm të kundërshtimit.

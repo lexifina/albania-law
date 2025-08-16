@@ -1,0 +1,4 @@
+# Neni 140
+Shfuqizime
+1. Nenet 1, 2, 3, 4, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 150/“a”, 151, 151/“a”, 151/“b”, 151/“c”, 152, 153, 153/“a”, 154, 155, 156, 156/“a”, 157, 158, 159, 160, 161, 162, 163, 163/“a”, 163/“b”, 164, 165, 166, 172, 173, 174, 175, 175/“a”, 184, 184/“a”, 184/“b”, 184/“c”, 184/“ç”, 185, 185/“a”, 186, 187, 188, 192, 195, 201, 202, 203 dhe 204, të ligjit nr. 9947, datë 7.7.2008, “Për pronësinë industriale”, i ndryshuar, shfuqizohen, për aq sa parashikohet në lidhje me markat tregtare, me hyrjen në fuqi të këtij ligji.
+2. Deri në miratimin e akteve nënligjore të parashikuara në këtë ligj, aktet nënligjore të nxjerra në zbatim të ligjit nr. 9947, datë 7.7.2008, “Për pronësinë industriale”, i ndryshuar, dhe aktet nënligjore ekzistuese në fushën e pronësisë industriale mbeten në fuqi për aq sa nuk bien ndesh me këtë ligj.

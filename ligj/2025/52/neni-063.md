@@ -1,0 +1,13 @@
+# Neni 63
+Procedura për shfuqizimin e markës
+1. Dhoma për Shfuqizim dhe Pavlefshmëri brenda 2 muajve shqyrton nëse kërkesa për shfuqizimin e markës tregtare është depozituar në përputhje me nenin 62 të këtij ligji.
+2. Nëse kërkesa për shfuqizimin e markës është depozituar përpara përfundimit të periudhës 5-vjeçare nga data e regjistrimit të markës, ose nëse kërkesa nuk është depozituar për shkaqet e përcaktuara në pikat 4 dhe 5, të nenit 62 të këtij ligji, Dhoma për Shfuqizim dhe Pavlefshmëri merr vendim për refuzimin e kërkesës.
+3. Nëse nuk plotësohen kërkesat e përcaktuara në nenin 62 të këtij ligji, Dhoma për Shfuqizim dhe Pavlefshmëri i dërgon njoftim kërkuesit që të plotësojë të metat ose mangësitë brenda 2 muajve nga data e marrjes së njoftimit.
+4. Nëse kërkuesi plotëson të metat ose mangësitë brenda afati të caktuar, Dhoma për Shfuqizim dhe Pavlefshmëri merr vendim për refuzimin e kërkesës.
+5. Nëse plotësohen kërkesat e përcaktuara në nenin 62 të këtij ligji, Dhoma për Shfuqizim dhe Pavlefshmëri brenda 1 muaji i dërgon pronarit të markës, objekt shfuqizimi, një kopje të kërkesës për shfuqizim dhe e fton atë që të depozitojë observimet dhe provat për përdorimin real dhe efektiv të markës brenda 2 muajve nga data e marrjes së njoftimit.
+6. Nëse pronari i markës, objekt shfuqizimi, nuk depoziton observimet dhe provat brenda afatit të caktuar, marka shfuqizohet për ato mallra ose shërbime për të cilat është depozituar kërkesa për shfuqizim.
+7. Nëse pronari i markës, objekt shfuqizimi, depoziton observimet dhe provat në afatin e caktuar, Dhoma për Shfuqizim dhe Pavlefshmëri brenda 1 muaji i dërgon një kopje të observimeve e të provave kërkuesit dhe e fton atë që të depozitojë observimet e tij brenda 2 muajve nga data e marrjes së njoftimit.
+8. Nëse kërkuesi nuk depoziton observimet e tij brenda afatit të caktuar në pikën 7 të këtij neni, Dhoma për Shfuqizim dhe Pavlefshmëri brenda 2 muajve merr vendim bazuar në observimet dhe provat e depozituara më parë.
+9. Nëse kërkuesi depoziton observimet e tij sipas pikës 7 të këtij neni, Dhoma për Shfuqizim dhe Pavlefshmëri brenda 1 muaji i dërgon një kopje të këtyre observimeve shtesë pronarit të markës, objekt shfuqizimi, dhe e fton atë të depozitojë observime dhe prova të tjera shtesë brenda 2 muajve nga data e marrjes së njoftimit.
+10. Nëse kërkuesi nuk depoziton observimet e tij brenda afatit të caktuar në pikën 9 të këtij neni, Dhoma për Shfuqizim dhe Pavlefshmëri brenda 2 muajve merr vendim bazuar në observimet dhe provat e depozituara më parë.
+11. Përpara marrjes së vendimit, Dhoma për Shfuqizim dhe Pavlefshmëri mund të thërrasë palët në seancë dëgjimore. Në seancën dëgjimore nuk paraqiten prova të reja.
