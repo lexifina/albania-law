@@ -1,0 +1,4 @@
+# Neni 53
+Ndërtesat e paregjistruara në zyrën e kadastrës
+1. Për ndërtesat e paregjistruara në kadastër, por që përdoren nga porositësit e tyre, garant për zbatimin e këtyre rregullave caktohet shoqëria ndërtuese (sipërmarrësi), si krijues i pronës dhe, në rast falimentimi të saj, kryetari i bashkisë.
+2. Shoqëria ndërtuese (sipërmarrësi) detyrohet që në kontratën e sipërmarrjes të vërë si aneks rregulloren e administrimit të banesave dhe të ndërtesave, si dhe aktin e bashkëpronësisë për ndërtesën, ku është porositur njësia e veçantë. Shoqëria ndërtuese është përgjegjëse për të gjitha detyrimet dhe kostot që lidhen me administrimin e bashkëpronësisë për ndërtesën deri në momentin që kryhet kolaudimi i ndërtesës dhe është lëshuar certifikata e shfrytëzimit sipas ligjit. Kjo e drejtë nuk mund të delegohet përveç rasteve të pamundësisë ligjore të ushtrimit të veprimtarisë nga personat, që mundësojnë zhvillimin e pronës.

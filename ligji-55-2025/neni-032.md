@@ -1,0 +1,5 @@
+# Neni 32
+Përcaktimi i tarifës
+1. Tarifa e administrimit për secilin bashkëpronar është e njëjtë për të gjithë bashkëpronarët dhe, si rregull, përcaktohet bazuar në shpenzimet e administrimit dhe në kuotën e pjesëmarrjes në bashkëpronësi të pronarëve të njësive. Përjashtimisht, për pronarët e njësive, të cilët i shfrytëzojnë vetë apo përmes të tretëve këto njësi për qëllime tregtare, tarifa që aplikohet duhet të jetë më e lartë se ajo që aplikohet për pronarët e njësive familjare, duke marrë parasysh qëllimin e përdorimit të njësisë, amortizimin e pronës së përbashkët, ashensorëve, shpenzimet për pastrimin dhe mirëmbajtjen e hapësirave të përbashkëta dhe frekuentueshmërinë e saj.
+2. Në rast se asambleja e bashkëpronarëve nuk gjen dakordësinë, për përcaktimin e tarifës zbatohet tarifa e referencës, e miratuar nga këshilli bashkiak përkatës, e ndarë sipas zonave dhe tipologjisë së ndërtesës, që bazohet në udhëzuesin për llogaritjen e tarifës së administrimit.
+3. Ministri, që mbulon fushën e çështjeve vendore, miraton udhëzuesin për parimet dhe metodologjinë e llogaritjes së tarifës së administrimit.

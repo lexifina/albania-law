@@ -1,0 +1,5 @@
+# Neni 9
+Regjistrimi
+1. Regjistrimi i aktit të bashkëpronësisë për të gjitha ndërtesat bëhet në drejtorinë vendore të kadastrës, nën juridiksionin e së cilës ndodhet ndërtesa, në përputhje me legjislacionin në fuqi për kadastrën. Akti i bashkëpronësisë regjistrohet në emër të bashkëpronarëve të ndërtesës.
+2. Në kohën kur regjistrohet ndërtesa, çdo njësi individuale së bashku me kuotën e pjesëmarrjes në bashkëpronësi regjistrohen më vete dhe përbëjnë një pjesë të veçantë pasurie të paluajtshme. Për rastet kur prona e çdo njësie kalon nga krijuesi tek pronari individual, si dhe për çdo ndryshim tjetër të mëvonshëm të pronësisë së njësisë, në regjistër shënohen data e ndryshimit të pronësisë, emri i pronarit të ri dhe çdo informacion shtesë, i nevojshëm për regjistrimin e pasurisë së paluajtshme.
+3. Bashkia, sipas rastit, mbështet bashkëpronarët me të ardhura të pakta, që përfitojnë ndihmë ekonomike sipas ligjit nëpërmjet skemave mbështetëse me financime ose duke vënë në dispozicion personel teknik që i ndihmon në përmbushjen e detyrimeve që rrjedhin nga administrimi i objekteve në bashkëpronësi.

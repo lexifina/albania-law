@@ -1,0 +1,7 @@
+# Neni 39
+Rinesimi dhe përmirësimi i pasurisë së përbashkët
+1. Përmirësimet e zakonshme në komoditetin dhe mirëfunksionimin e bashkëpronësisë ndërmerren nga asambleja, me miratimin e shumicës së kuotave pjesëmarrëse.
+2. Përmirësimet e mëdha ose rinesimet e pronës së përbashkët, siç janë lyerja, mirëmbajtja e fasadës, mirëmbajtja e çatisë, vendosja e sistemeve për ujë të ngrohtë, e sistemeve të ngrohjes apo ftohjes qendrore, e depozitave të ujit, gjeneratorëve, ashensorëve dhe përmirësime të tjera të kësaj natyre, ndërmerren nga asambleja vetëm nëse miratohen nga të paktën 75 për qind e kuotave pjesëmarrëse.
+3. Rinesimet cilësore apo punime të tjera, që lidhen me strukturën dhe qëndrueshmërinë fizike të ndërtesës, të tilla si: riparime strukturore të kornizës së ndërtesës apo ndërhyrje të tjera, që lidhen me pasojat e fatkeqësive natyrore, kryhen në përputhje me standardet ligjore të miratuara me ligje të veçanta ose me akte nënligjore. Vendimi i asamblesë miratohet nga të paktën 75 për qind e kuotave pjesëmarrëse në bashkëpronësi.
+4. Instituti i Ndërtimit harton dhe miraton standardet për kryerjen e rinesimeve cilësore apo të punimeve, që lidhen me strukturën dhe qëndrueshmërinë e ndërtesës, periodicitetin e tyre dhe procedurën për zbatimin e tyre.
+5. Përmirësimet e zakonshme, rinesimet cilësore apo punime të tjera, që mund të ndryshojnë pamjen, ose elemente të veçanta të objekteve të banimit në bashkëpronësi, të shpallura monument kulture, bëhen sipas kërkesave dhe procedurave të legjislacionit për trashëgiminë kulturore.

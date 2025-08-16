@@ -1,0 +1,11 @@
+# Neni 22
+Kompetencat e veçanta të kryesisë
+1. Përveç kompetencave të tjera, të përcaktuara në këtë ligj, kryesia ka edhe këto kompetenca:
+a) miraton vendimin për vlerësimin e dëmit dhe ndreqjen e tij me kërkesë të një bashkëpronari, të cilit i është shkaktuar dëm nga përdorimi i pakujdesshëm i një bashkëpronari tjetër, duke e detyruar atë të rivendosë në gjendjen e mëparshme njësinë e bashkëpronarit të dëmtuar. Vlerësimi i dëmit kryhet, sipas rastit, nga personat e specializuar, që ofrojnë ndreqjen dhe riparimin, apo eksperti i licencuar, në përputhje me legjislacionin në fuqi. Nëse dëmtuesi nuk ndërmerr masat e nevojshme për të rivendosur në gjendjen e mëparshme bashkëpronarin e dëmtuar brenda 10 (dhjetë) ditëve nga njoftimi i vendimit, vendimi i kryesisë së bashkëpronarëve për ndreqjen e dëmit përbën titull ekzekutiv, në kuptim të shkronjës “e” të nenit 510 të Kodit të Procedurës Civile dhe ekzekutohet nga shërbimi përmbarimor sipas ligjit. Nëse pronari që ka shkaktuar dëmin nuk është dakord me vlerën e dëmit të caktuar nga kryesia, ka të drejtën e ankimit në gjykatën kompetente për mosmarrëveshjet civile. Ankimi në gjykatë nuk pezullon zbatimin e titullit ekzekutiv;
+b) autorizon administratorin ose shoqërinë administruese për të kërkuar lëshimin e urdhrit të ekzekutimit sipas pikës 3 të nenit 33 të këtij ligji, si dhe ndjekjen deri në fund të ekzekutimit për mospagesën e tarifës së administrimit nga bashkëpronari;
+c) përdor/prek fondin rezervë ose autorizon administratorin të përdorë/prekë fondin rezervë, sipas kritereve të përdorimit, të përcaktuara nga asambleja e bashkëpronarëve;
+ç) përfaqëson asamblenë e bashkëpronarëve në raport me të tretët për kryerjen e veprimeve juridike, me qëllim administrimin e objekteve në bashkëpronësi;
+d) miraton planin dhe modalitetet për shfrytëzimin apo përdorimin e hapësirës së përbashkët për aktivitete tregtare në dobi të të gjithë bashkëpronarëve dhe autorizon administratorin në lidhje me nënshkrimin e kontratës përkatëse;
+dh) shkarkon administratorin ose shoqërinë administruese, në rast të mospërmbushjes së detyrimeve kontraktore;
+e) çdo detyrë tjetër të caktuar nga asambleja e bashkëpronësisë.
+2. Kryesia mund të autorizojë administratorin/shoqërinë administruese për të njoftuar ndryshimet në të dhënat e librit të bashkëpronësisë dhe të depozitojë dokumentacionin përkatës në bashki.

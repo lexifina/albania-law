@@ -1,0 +1,7 @@
+# Neni 38
+Mirëmbajtja e bashkëpronësisë dhe e njësive individuale
+1. Mirëmbajtja e bashkëpronësisë sipas standardeve kryhet nga shoqëritë tregtare, që ushtrojnë veprimtari në këtë fushë, ose nga shoqëria e administrimit, në përputhje me parashikimet e këtij ligji. Të gjithë bashkëpronarët kontribuojnë financiarisht për mirëmbajtjen e bashkëpronësisë, në përpjesëtim me kuotën e pjesëmarrjes në këtë bashkëpronësi.
+2. Pronari i njësisë është i detyruar ta mirëmbajë njësinë me shpenzimet e veta. Me mirëmbajtjen e njësisë individuale, asnjë pronar nuk duhet të cenojë, të dëmtojë ose të rrezikojë pronën e përbashkët apo pronën e një pronari tjetër.
+3. Kur elemente të pronës së përbashkët ose individuale dëmtohen për shkak të mosfunksionimit, keqpërdorimit apo dëmtimeve, të shkaktuara nga çdo bashkëpronar apo persona të tjerë, çdo pronar i një njësie fqinje ose të mbivendosur detyrohet të lejojë inspektimin, konstatimin, riparimin dhe zëvendësimin e elementeve të pronës së dëmtuar, nëse më parë është bërë njoftimi me shkrim.
+4. Kur nga pronari i njësisë individuale, ku duhet të kryhet inspektimi, konstatimi, riparimi ose zëvendësimi, refuzohet leja, kryesia, me vendim, u drejtohet policisë bashkiake dhe inspektoratit vendor, që mundësojnë kryerjen e veprimeve të nevojshme për riparimin e dëmit.
+5. Pronari i njësisë ka të drejtë ankimi në gjykatë kundër vendimit të kryesisë. Ankimi në gjykatë nuk e pezullon kryerjen e inspektimit e të riparimit.

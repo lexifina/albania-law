@@ -1,0 +1,11 @@
+# Neni 34
+Masa e sigurimit të detyrimit
+1. Administratori ose shoqëria administruese ka të drejtë të kërkojë pranë Agjencisë Shtetërore të Kadastrës regjistrimin e një kufizimi mbi pasurinë e paluajtshme të bashkëpronarit të një njësie, që nuk ka shlyer detyrimin për tarifën e administrimit dhe të mirëmbajtjes për një periudhë jo më pak se 12 muaj ose kur detyrimi i papaguar arrin jo më pak se 0.5% të vlerës së njësisë në pronësi të tij.
+2. Vendimi për të vendosur kufizim mbi pasurinë e bashkëpronarit merret nga kryesia, me shumicë të cilësuar të anëtarëve të saj, pas njoftimit me shkrim të tij. Bashkëpronari njoftohet me shkrim 10 (dhjetë) ditë para marrjes së vendimit mbi vendosjen e kufizimit mbi pasurinë e tij. Njoftimi duhet të përmbajë të gjithë informacionin lidhur me identifikimin e pronarit, detyrimin e papaguar, pasurinë, objekt kufizimi, si dhe kompetencën e kryesisë për të marrë vendimin dhe për të autorizuar administratorin ose shoqërinë administruese për të dorëzuar kërkesë për vendosjen e kufizimit pranë Agjencisë Shtetërore të Kadastrës.
+3. Vendimi i kryesisë, që përcakton vendosjen e kufizimit në ngarkim të bashkëpronarëve, si rrjedhojë e mospagesës së tarifës së administrimit dhe mirëmbajtjes të përcaktuar në këtë ligj, regjistrohet nga drejtoria përgjegjëse e kadastrës brenda 15 (pesëmbëdhjetë) ditëve nga data e paraqitjes së kërkesës, dokumentacionit dhe kryerjes së pagesës së tarifave kadastrale.
+4. Kërkesa për regjistrimin e kufizimit përmban:
+a) vendimin e kryesisë, që autorizon vendosjen e kufizimit sipas këtij ligji;
+b) dokumentacionin që vërteton vlerën e detyrimit të papaguar;
+c) vërtetimin e identitetit të administratorit ose të shoqërisë administruese.
+5. Kufizimi hiqet me kërkesë të pronarit të njësisë kur vërtetohet shlyerja e detyrimeve të akumuluara me anë të vërtetimit bankar, pa qenë e nevojshme nxjerrja e vendimit të kryesisë. Agjencia Shtetërore e Kadastrës heq kufizimin në kartelë brenda 5 (pesë) ditësh nga data e depozitimit të vërtetimit të shlyerjes së detyrimit nga pronari i njësisë.
+6. Pasuria e paluajtshme, në kartelën e së cilës është vendosur kufizimi, nuk mund të tjetërsohet, të kalohet, të jepet në përdorim, të ngarkohet me barrë apo çdo të drejtë tjetër reale sipas ligjit, pa u vërtetuar shlyerja e detyrimeve sipas pikës 5 të këtij neni.

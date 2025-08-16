@@ -1,0 +1,4 @@
+# Neni 27
+Shoqëritë administruese
+1. Shoqëritë administruese, përveç shërbimit të administrimit, mund të mbulojnë me veprimtarinë e tyre edhe shërbimet e mirëmbajtjes, nëse kanë personelin me kualifikimin e nevojshëm për veprimtari specifike të mirëmbajtjes sipas ligjit, si: mirëmbajtja e ashensorëve, restaurimi apo rikonstruksioni i fasadave apo mjediseve të brendshme, si dhe çdo lloj veprimtarie tjetër, që kërkon kualifikim të posaçëm, në një fushë të caktuar sipas ligjit.
+2. Nëse administratorët apo shoqëritë administruese, gjatë përmbushjes së veprimtarisë në lidhje me përmbushjen e standardeve të administrimit, kryejnë veprime në kundërshtim me këtë ligj, bashkia, kryesisht apo me kërkesë të çdo të interesuari, i heq ata nga lista e subjekteve të regjistruara dhe të certifikuara. Në aktin e heqjes nga kjo listë parashikohen edhe detyrimet e këtij subjekti ndaj asamblesë së bashkëpronarëve të kontraktuar.
