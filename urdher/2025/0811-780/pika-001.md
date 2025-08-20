@@ -1,0 +1,1 @@
+1. Miratimin e rregullores mbi parimet dhe udhëzimet e praktikave të mira të prodhimit të produkteve mjekësore veterinare, si dhe procedurën e aplikimit dhe lëshimit të autorizimit të prodhimit të PMV-ve, sipas tekstit që i bashkëlidhet dhe është pjesë përbërëse e këtij urdhri.
