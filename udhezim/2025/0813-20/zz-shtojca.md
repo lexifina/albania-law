@@ -1,0 +1,117 @@
+# Shtojca
+Ogerta Manastirliu
+Blendi Gonxhja
+SHTOJCË NR. 1
+PLANI MËSIMOR I ARSIMIT BAZË PËR KLASAT VI-IX
+FUSHA/LËNDËT
+KLASAT
+VI
+VII
+VIII
+IX
+KURRIKULA BËRTHAMË
+GJUHET DHE KOMUNIKIMI
+8
+8
+8
+8
+GJUHË SHQIPE
+5
+5
+5
+5
+GJUHË E HUAJ E PARË
+3
+3
+3
+3
+MATEMATIKË
+4
+4
+4
+4
+SHKENCAT E NATYRËS
+2
+4
+6
+6
+Dituri natyre
+Fizikë
+1
+2
+2
+2
+Kimi
+2
+2
+Biologji
+1
+2
+2
+2
+SHOQËRIA DHE MJEDISI
+3
+5
+5
+5
+Edukim për shoqërinë
+Qytetari
+1
+1
+1
+1
+Histori
+1
+2
+2
+2
+Gjeografi
+1
+2
+2
+2
+ARTE
+3
+2
+2
+2
+Muzikë
+1
+1
+1
+1
+Art pamor
+1
+1
+1
+1
+Kërcim
+Teatër
+1
+EDUKIMI FIZIK, SPORTI DHE SHËNDETI
+3
+3
+3
+3
+TEKNOLOGJI DHE TIK
+2
+1
+1
+1
+TIK
+1
+1
+1
+1
+Aftësimi teknologjik praktik
+1
+KURRIKULA ME ZGJEDHJE
+2
+2
+2
+2
+Totali (orë javore)
+27
+29
+31
+31

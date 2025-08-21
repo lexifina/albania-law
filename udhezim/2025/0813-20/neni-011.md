@@ -1,0 +1,13 @@
+# Neni 11
+Reduktimi i braktisjes shkollore
+1. Për reduktimin e braktisjes shkollore, institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar dhe institucionet arsimore të zbatojnë me përgjegjësi:
+a) Marrëveshjen e Bashkëpunimit ndërmjet MAS-it, Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale (MSHMS) dhe Ministrisë së Brendshme (MB), nr. 7522 prot., datë 12.7.2018, “Për identifikimin dhe regjistrimin në shkollë të të gjithë fëmijëve të moshës shkollore”;
+b) Urdhrin e përbashkët të MAS-it, MB-së dhe MSHMS-së nr. 292, datë 28.5.2019, “Për miratimin e rregullores për zbatimin e Marrëveshjes së Bashkëpunimit ndërmjet tri ministrive ’Për identifikimin dhe regjistrimin në shkollë të të gjithë fëmijëve të moshës së detyrimit shkollor’”.
+2. Drejtoritë e shkollave raportojnë në mënyrë të detajuar mbi rastet e braktisjes apo atyre në rrezik braktisje të shkollës nga nxënësi. Ky raportim bëhet pasi kanë marrë informacion nga prindi ose personi që ushtron të drejtën prindërore dhe nga njësia administrative për arsyet e braktisjes apo rrezikut të braktisjes dhe masat e marra për parandalimin. Çdo rast raportohet menjëherë në ZVAP dhe vihet në dijeni dhe njësia administrative në bashkinë përkatëse për ndjekjen e përbashkët dhe adresimin në strukturat përgjegjëse, çdo fund viti shkollor.
+3. Drejtoritë e shkollave të evidentojnë dhe të raportojnë dhe rastet e transferimeve nga një shkollë në një tjetër apo largimit të nxënësve për arsye të ndryshimit të vendbanimit të familjes, duke i klasifikuar në një kategori të veçantë dhe raportuar në ZVAP, çdo fund viti shkollor.
+4. ZVAP-të kanë këto detyra:
+a) të monitorojnë shkollat lidhur me raportimin e nxënësve braktisës dhe të atyre në rrezik braktisje, sipas kalendarit të miratuar nga AKAP-i;
+b) të trajnojnë drejtuesit e shkollave për raportimin në kohë të rasteve të braktisjes apo riskut të braktisjes së shkollës nga nxënësit dhe protokollet e ndjekjes në rastet kur konstatohet braktisja;
+c) të koordinojnë bashkëpunimin ndërmjet Njësisë së Mbrojtjes së Fëmijëve dhe organizatave të shoqërisë civile, për adresimin dhe zgjidhjen e problemeve të nxënësve braktisës dhe të fëmijëve në situatë rruge;
+ç) të ndjekin me përparësi arsimimin e fëmijëve të ngujuar apo të strehuar pranë institucioneve që bëjnë pjesë në Koalicionin Kombëtar të Strehëzave Antitrafik dhe të zbatojnë procedurat e ndjekjes së arsimit bazë, sipas udhëzimit përkatës për nxënësit që nuk kanë ndjekur të paktën dy klasa të arsimit bazë;
+d) të raportojnë në DRAP punën e bërë për reduktimin e braktisjes shkollore, sipas kalendarit të miratuar nga AKAP-i. DRAP-të të raportojnë në AKAP, e cila përcjell raportin në MAS çdo fund viti dhe sa herë është e nevojshme.
