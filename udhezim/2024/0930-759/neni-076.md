@@ -10,7 +10,7 @@ iv. organizimin e aktiviteteve që lidhen me proceset e sigurimit të cilësisë
 v. organizimin e aktiviteteve të këshillimit për karrierë;
 vi. zbatimin e projekteve zhvillimore;
 vii. zhvillimin e aktiviteteve për marketingun e ofruesit publik të AFP-së;
-viii. gjurmimin e nxënësve dhe kursantëve;
+viii. gjurmimin e nxënësve;
 b) zëvendësdrejtorin e kulturës profesionale për:
 i. monitorimin e procesit të maturës shtetërore profesionale;
 ii. monitorimin e dokumentacionit shkollor;
@@ -46,7 +46,7 @@ iv. planifikimin e praktikave profesionale në biznes;
 v. organizimin e aktiviteteve të këshillimit për karrierë;
 vi. zbatimin e projekteve zhvillimore;
 vii. marketingun e ofruesit publik të AFP-së;
-viii. gjurmimin e nxënësve dhe kursantëve;
+viii. gjurmimin e nxënësve;
 b) zëvendësdrejtorin e kulturës së përgjithshme për:
 i. monitorimin e procesit të maturës shtetërore;
 ii. monitorimin e zbatimit të dokumentacionit shkollor;

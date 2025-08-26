@@ -1,6 +1,6 @@
 # Neni 96
 Detyrat e përgjegjësit të departamentit mësimor
-1. Numri i departamenteve varet nga madhësia e ofruesit publik dhe ndarja kryhet bazuar në drejtimet mësimore, të cilat mund të grupohen sipas ngjashmërisë.
+1. Departamenti është njësi bazë e zhvillimit të mësimdhënies, i cili përfshin drejtime të përafërta/ngjashme dhe grupon disiplinat mësimore respektive. Numri i departamenteve varet nga madhësia e ofruesit publik dhe ndarja kryhet bazuar në numrin e nxënësve, numrin e mësuesve, numrin e drejtimeve/profileve mësimore, të cilat mund të grupohen sipas ngjashmërisë.
 2. Përgjegjësi i departamentit organizon dhe koordinon punën për zbatimin e programit mësimor në fushat e kualifikimeve profesionale që mbulon.
 3. Përgjegjësi i departamentit kryen funksionet e mëposhtme:
 a) harton planin vjetor të punës së departamentit, duke zbërthyer dhe duke zbatuar planin e zhvillimit të ofruesit publik në nivel departamenti, sipas politikave e parimeve të miratuara dhe vendos objektivat e departamentit;

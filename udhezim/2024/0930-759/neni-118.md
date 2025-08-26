@@ -1,6 +1,6 @@
 # Neni 118
 Kriteret e marrjes në punë të personelit mësimdhënës të kulturës profesionale
-Aplikanti për mësues i kulturës profesionale në ofruesit publik të arsimit profesional duhet të përmbushë këto kritere:
+Aplikanti për mësimdhënës i kulturës profesionale në ofruesit publik të arsimit dhe formimit profesional duhet të përmbushë këto kritere:
 1. Kritere të përgjithshme:
 a) të ketë zotësi të plotë për të vepruar;
 b) të jetë në kushte shëndetësore që e lejojnë të kryejë detyrën;

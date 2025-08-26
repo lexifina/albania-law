@@ -1,5 +1,6 @@
 # Neni 152
 Largimi dhe mbarimi i marrëdhënies së punës së personelit mësimdhënës
+(Hequr togfjalësh në shkronjën ’’h’’ të pikës 2 me udhëzimin nr. 4, datë 18.8.2025)
 1. Mbarimi i marrëdhënies së punës së personelit mësimdhënës me institucionin publik të arsimit parauniversitar bëhet:
 a) kur jep dorëheqjen;
 b) kur mbush moshën e pensionit;
@@ -15,7 +16,7 @@ d) ka përvetësuar fonde financiare ose materiale të institucionit;
 e) ka organizuar kurse me pagesë me nxënësit që mëson dhe me nxënësit e ofruesit publik të AFP-së;
 f) ka organizuar kurse me pagesë me nxënës jashtë ofruesit publik të AFP-së, kur nuk është i licencuar për të ushtruar këtë veprimtari private;
 g) shkel Kodin e Etikës në institucion;
-h) ka mosarritje të nxënësve të tij, sipas shkronjës “c”, të pikës 2, të nenit 60, të ligjit nr. 69/2012, “Për sistemin e arsimit parauniversitar në Republikën e Shqipërisë”, të ndryshuar.
+h) ka mosarritje të nxënësve të tij;
 i) ka rekomandim në raportin e monitorimit dhe të vlerësimit;
 j) ka kryer korrupsion pasiv;
 k) ka kryer shkelje të dispozitave të Kodit të Punës dhe të legjislacionit në fuqi.

@@ -20,13 +20,21 @@ c) të njohë dhe të përdorë teknologjinë e informacionit.
 1. të ketë të paktën nivelin arsimor Bachelor, në shkenca shoqërore/juridike në shpalljen për pozicionin përkatës;
 2. të ketë të paktën 1 (një) vit përvojë pune sipas përcaktimeve në shpalljen për pozicionin përkatës;
 3. të njohë dhe të përdorë teknologjinë e informacionit.
+5/1. Kritere të posaçme për specialistin e arkiv/protokollit:
+a) të ketë të paktën diplomë të nivelit “Bachelor”, në shkenca shoqërore, sipas përcaktimeve në shpalljen për pozicionin përkatës;
+b) të ketë të paktën 1 (një) vit përvojë pune në pozicione të ngjashme, sipas përcaktimeve në shpalljen për pozicionin përkatës;
+c) të njohë dhe të përdorë teknologjinë e informacionit.
 6. Kritere të posaçme për specialistin e teknologjisë së informacionit dhe komunikimit:
 a) të ketë të paktën nivelin arsimor Bachelor, në fushën e shkencave të natyrës në shpalljen për pozicionin përkatës;
 b) të ketë të paktën 1 (një) vit përvojë pune, sipas përcaktimeve në shpalljen për pozicionin përkatës.
 c) të ketë aftësi didaktiko-pedagogjike për të mbështetur përdoruesit në aplikimin e platformave, aplikacioneve dhe teknologjive arsimore në mësimdhënie, mësimnxënie.
+6/1. Kritere të posaçme për oficerin e sigurisë:
+a) të ketë diplomë të ciklit të dytë ose diplomë të barasvlershme me të në fushën e edukimit, të shkencave sociale, sociologjisë, psikologjisë, drejtësisë;
+b) të ketë njohuri të mira kompjuterike.
 7. Kriteret dhe procedurat për marrjen në punë të personelit që ofron shërbim psikosocial në ofruesit publik të AFP-së, të cilët ofrojnë arsim të mesëm profesional përcaktohen me udhëzim të posaçëm të ministrit përgjegjës për arsimin dhe rregullohen në të njëjtën mënyrë si për institucionet e arsimit parauniversitar, sipas nenit 20, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, i ndryshuar.
 8. Kritere të posaçme për sekretar shkolle, magazinier, punonjës pastrimi, punonjës i sigurisë (roje), punonjës ndihmës:
-a) të ketë nivelin arsimor të mesëm ose shkollë të mesme profesionale, në fushën në shpalljen për pozicionin përkatës;
+a) të ketë nivelin arsimor të mesëm ose shkollë të mesme profesionale;
 b) të ketë të paktën 1 (një) vit përvojë pune sipas përcaktimeve në shpalljen për pozicionin përkatës;
 9. Për pozicionet e punës që përfshijnë më shumë se një rol, kriteret e marrjes në punë duhet të përmbushen për të gjitha rolet.
 10. Përzgjedhja e personelit tjetër mbështetës të ofruesit publik të AFP-së bëhet sipas legjislacionit në fuqi.
+11. Nëse procedura e përzgjedhjes përfundon me fitues, njoftimi për fituesin bëhet në faqen zyrtare të AKPA-së, në faqen elektronike zyrtare të ofruesit publik të AFP-së, nëse ka, si dhe në një vend të dukshëm në hyrje të institucionit, që ka vendin e lirë.

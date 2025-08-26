@@ -1,15 +1,9 @@
 # Neni 132
-Detyrat e sekretarit të shkollës
-Sekretari i shkollës kryen detyrat e mëposhtme:
-a) plotëson amzën, e mban në ruajtje atë dhe përgjigjet për veprimtaritë praktike me të;
-b) sistemon dhe arkivon të gjithë dokumentacionin e institucionit;
-c) mban dhe administron protokollin dhe vulën e ofruesit publik të AFP-së;
-d) regjistron në sistem nxënësit/kursantët sipas formatit të regjistrimit;
-e) regjistron nxënësit/kursantët që kalojnë në vitin pasardhës/nivelin pasardhës në bazë të rezultateve;
-f) përgatit procedurat e transferimit të nxënësve;
-g) regjistron largimet dhe hyrjet e nxënësve gjatë vitit shkollor;
-h) regjistron rezultatet e nxënësve/kursantëve sipas vitit shkollor, kursit dhe nivelit;
-i) regjistron nxënësit/kursantët dhe ruan dokumentet e regjistrimit;
-j) përgatit vërtetime/lista notash etj.;
-k) ruan dhe shpërndan dokumentet e certifikimit të lëshuara nga ofruesi publik i AFP-së;
-l) mbledh, përpilon dhe përditëson rregullisht të dhëna administrative në fushën e AFP-së.
+Detyrat e sekretarit në ofruesit e AFP-së
+Sekretari në ofruesit e AFP-së ushtron funksione administrative, në përputhje me përgjegjësitë e përcaktuara nga kuadri rregullator i Sistemit të Menaxhimit të Informacionit në Arsimin Parauniversitar (SMIP), duke përfshirë:
+a) sistemon dhe arkivon të gjithë dokumentacionin zyrtar të institucionit, në përputhje me aktet përkatëse;
+b) mban dhe administron protokollin hyrës/dalës dhe vulën zyrtare të ofruesit publik të AFP-së;
+c) regjistron nxënësit në arsimin profesional pas të mesëm që kalojnë në vitin pasardhës/nivelin pasardhës në bazë të rezultateve;
+d) regjistron rezultatet e nxënësve në arsimin profesional pas të mesëm sipas vitit shkollor dhe nivelit;
+e) përgatit dokumente zyrtare si vërtetime, lista notash, si dhe çdo material mbështetës për nxënësit;
+f) mbledh, përpunon dhe përditëson të dhëna administrative që lidhen me veprimtarinë e institucionit në fushën e arsimit.

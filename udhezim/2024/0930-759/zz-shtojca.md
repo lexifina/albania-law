@@ -3,122 +3,141 @@ Blendi Gonxhja
 SHTOJCË 1
 RREGULLORE TIP E OFRUESIT PUBLIK TË AFP-së
 TABELA E PËRMBAJTJES SË RREGULLORES SË BRENDSHME TË OFRUESIT PUBLIK TË AFP-së
-Kreu I: Parimet e përgjithshme
+PËRMBLEDHJE:
+KREU I: DISPOZITAT E PËRGJITHSHME
 1. Baza ligjore
-2. Juridiksioni
-3. Misioni
+2. Fusha e zbatimit
+3. Qëllimi
 4. Përkufizime
-Kreu II: Organizimi i institucionit
-1. Struktura organizative
-2. Organe kolegjiale të institucionit
-3. Autoritetet drejtuese
-4. Njësitë përbërëse të institucionit
-5. Hapja, riorganizimi dhe mbyllja e institucionit
-Kreu III: Funksionimi i organeve kolegjiale, autoriteteve drejtuese dhe njësive të tjera mbështetëse të institucionit
-Seksioni 1: Funksionimi i organeve kolegjiale
-1. Bordi Drejtues
-2. Funksionet e Bordit Drejtues
-3. Njësia e Zhvillimit
-4. Funksionet e Njësisë së Zhvillimit
+KREU II: ORGANIZIMI INSTITUCIONAL
+1. Misioni
+2. Parimet
+3. Struktura organizative
+4. Hapja, riorganizimi dhe mbyllja e institucionit
+KREU III: FUNKSIONIMI I ORGANEVE KOLEGJIALE
+1. Organet kolegjiale të institucionit
+2. Bordi Drejtues
+3. Komisioni i etikës dhe sjelljes
+4. Komisioni i disiplinës
 5. Këshilli i mësuesve
-6. Funksionet e këshillit të mësuesve
-7. Komisioni i etikës dhe i sjelljes
-8. Funksionet e komisionit të etikës dhe të sjelljes
-9. Komisioni i disiplinës
-10. Funksionet i disiplinës
-11. Komisioni i shëndetit, sigurisë, mirëmbajtjes dhe mjedisit
-12. Qeveria e nxënësve
-13. Këshilli i prindërve
-Seksioni 2: Funksionimi i autoriteteve drejtuese
+6. Komisioni i shëndetit, sigurisë, mirëmbajtjes dhe mjedisit
+7. Qeveria e nxënësve
+8. Këshilli i prindërve
+KREU IV: FUNKSIONIMI I AUTORITETEVE DREJTUESE
 1. Drejtori i institucionit
-2. Funksionet e drejtorit
+2. Detyrat e drejtorit
 3. Zëvendësdrejtori/at
-4. Funksionet e zëvendësdrejtorit të kulturës së përgjithshme
-5. Funksionet e zëvendësdrejtorit të kulturës profesionale
-6. Përgjegjësi i sektorit mbështetës
-7. Funksionet e përgjegjësit të sektorit mbështetës
-8. Përgjegjësi i departamentit
-9. Funksionet e përgjegjësit të departamentit
-Seksioni 3: Funksionimi i njësive të tjera mbështetëse të institucionit
-1. Biblioteka/infoteka
-2. Aktivitetet jashtëshkollore dhe artistike (duke përfshirë edhe shërbimet e ofruesit publik si qendër komunitare)
-3. Shërbimi psikosocial
-4. Shërbimi sanitar
-5. Shërbimi i mirëmbajtjes
-6. Shërbimi i ruajtjes së institucionit
-Kreu 4: Personeli i ofruesit publik/institucionit
-Seksioni 1: Personeli mësimdhënës/mësimor
-1. Procedurat e punësimit të personelit mësimdhënës/mësimor
-2. Kontrata e punës së personelit mësimdhënës/mësimor
-3. Të drejtat dhe detyrimet e personelit mësimdhënës/mësimor i kulturës së përgjithshme
-4. Të drejtat dhe detyrimet e personelit mësimdhënës/mësimor i kulturës profesionale
-5. Mësuesi ditor (dezhurni)
-6. Mësuesi kujdestar
-7. Nderime për mësuesit e dalluar
-Seksioni 2: Personeli administrativ
-1. Procedura e punësimit të personelit administrativ
-2. Kontrata e punës së të personelit administrativ
-3. Të drejtat dhe detyrimet të personelit administrativ
-Seksion 3: Funksionet e njësive/personelit të ofruesit publik/institucionit
-1. Departamentet mësimore
-2. Njësia e menaxhimit financiar dhe aseteve
-3. Njësia e burimeve njerëzore
-4. Sekretaria mësimore/e shkollës
-5. Njësia e menaxhimit të sistemeve të informacionit
-Kreu 5: Mbarëvajtja e marrëdhënies së punës
-1. Orari zyrtar
+4. Zëvendësdrejtori i kulturës së përgjithshme
+5. Detyrat e zëvendësdrejtorit të kulturës së përgjithshme
+6. Zëvendësdrejtori i kulturës profesionale
+7. Detyrat e zëvendësdrejtorit të kulturës profesionale
+8. Përgjegjësi i bazës prodhuese
+9. Detyrat e përgjegjësit të bazës prodhuese
+KREU V: NJËSITË E BRENDSHME FUNKSIONALE TË ofruesit publik të AFP-së
+1. Njësia e zhvillimit
+2. Departamentet mësimore
+3. Ekipi lëndor
+4. Shërbimi psiko-social në ofruesit e AFP-së
+5. Biblioteka/infoteka
+6. Përgjegjësi i Sektorit të Administrimit të Formimit Profesional
+7. Detyrat e përgjegjësit të Sektorit të Administrimit të Formimit Profesional
+8. Përgjegjësi i Sektorit të Financës dhe Administrimit
+9. Detyrat e përgjegjësit të Sektorit të Financës dhe Administrimit
+KREU VI: PERSONELI MËSIMDHËNËS I ofruesit publik të AFP-së
+1. Personeli mësimdhënës
+2. Procedurat e punësimit të personelit mësimdhënës
+3. Kontrata e punës së personelit mësimdhënës
+4. Të drejtat e personelit mësimdhënës
+5. Detyrat e personelit mësimdhënës të kulturës së përgjithshme
+6. Detyrat e personelit mësimdhënës të kulturës profesionale
+7. Detyrat e mësuesit ndihmës
+8. Mësuesi ditor (dezhurni)
+9. Mësuesi kujdestar
+10. Nderime për mësuesit e dalluar
+KREU VII: PERSONELI MBËSHTETËS
+1. Përbërja e personelit mbështetës
+2. Kontrata e punës së personelit mbështetës
+3. Të drejtat dhe detyrimet e personelit mbështetës
+4. Detyrat e sekretarit të shkollës
+5. Detyrat e specialistit
+6. Detyrat e punonjësit të shërbimit psiko-social
+7. Detyrat e magazinierit
+8. Detyrat e sanitares
+9. Detyrat e teknikut të mesëm/mirëmbajtësit
+10. Detyrat e rojës së institucionit
+11. Detyrat e punëtorit
+KREU VIII: MARRËDHËNIET E PUNËS PËR PERSONELIN E INSTITUCIONIT
+1. Orari i punës
 2. Prezenca dhe mungesa në punë
-3. Rregullat e etikës dhe të komunikimit
-4. Mbarimi i marrëdhënies së punës
-5. Masat disiplinore dhe procedura për dhënien e masave disiplinore.
-Kreu 6: Organizimi i studimeve
-1. Forma e studimeve/programe formimi profesional
-2. Qëllimi i drejtimeve/profileve mësimore/kurseve të formimit profesional;
-3. Kualifikimet profesionale dhe nivelet përkatëse të ofruara nga institucioni
-4. Viti shkollor/kalendarik dhe organizimi i mësimdhënies
-5. Gjuha e mësimdhënies
-6. Pranimi i nxënësve/kursanteve në kualifikimet përkatëse të ofruara
-7. Pranimi në programet mësimore pas të mesme
-8. Regjistrimi i nxënësve/kursantëve
-9. Transferimi i nxënësve
-Kreu 7: Nxënësit/kursantët
-1. Statusi i nxënësit/kursantit
-2. Të drejtat dhe detyrimet e nxënësit/kursantit
-3. Frekuentimi
-4. Mungesat
-5. Masat disiplinore për nxënësit/kursantët
-6. Vlerësimet/certifikata për arritjet e veçanta
-Kreu 8: Organizimi i procesit mësimor
-1. Vitit mësimor/shkollor
-2. Procesi mësimor
-3. Zhvillimi dhe ndjekja e praktikës profesionale
-4. Orari i mësimit
-5. Ora mësimore
-6. Regjistri mësimor
-Kreu 9: Vlerësimi i cilësisë dhe akreditimi
-1. Standardet e sigurimit të cilësisë
-2. Sigurimi i brendshëm i cilësisë
-3. Vlerësimi dhe akreditimi periodik
-4. Aktiviteti i grupit i sigurimit të brendshëm të cilësisë
-Kreu 10: Procedurat për administrimin e dokumentacionit dhe forma e dokumenteve zyrtar të institucionit
+3. Rregullat e etikës dhe komunikimit
+4. Mbarimi i marrëdhënieve të punës
+5. Masat disiplinore për personelin mësimdhënës
+6. Llojet dhe masat disiplinore për personelin mbështetës
+KREU IX: RREGULLAT PËR PLANIFIKIMIN DHE ORGANIZIMIN E PROCESIT MËSIMOR
+1. Planifikimi i procesit mësimor
+2. Organizmi i procesit mësimor
+3. Dokumentimi i procesit mësimor
+4. Organizimi dhe ndjekja e praktikës profesionale
+5. Standardet e sigurimit të cilësisë
+6. Sigurimi i brendshëm i cilësisë (vetëvlerësimi)
+7. Aktiviteti i grupit të sigurimit të brendshëm të cilësisë
+8. Vlerësimi i jashtëm dhe akreditimi periodik
+Kreu X: Procedurat për administrimin e dokumentacionit dhe forma e dokumenteve zyrtare në institucion
 1. Hartimi i shkresave zyrtare dhe forma e tyre
 2. Procedura e miratimit të shkresave zyrtare
 3. Protokollimi
 4. Shpërndarja e dokumentacionit
-5. Format e komunikimit të brendshëm dhe të jashtëm.
-Kreu 11: Simbolet zyrtare të institucionit (vula/stema/flamuri)
-Kreu 12: Dispozitat e fundit
-1. Hyrja në fuqi e rregullores
-2. Interpretimi i rregullores
-3. Miratimi dhe ndryshimi
-4. Sanksione
-Anekse
-Aneksi 1. Organigrama e institucionit
-Aneksi 2. Urdhrat për ngritjen e njësive dhe të grupeve të parashikuara në rregullore, si dhe emërimet përkatëse në funksionet shtesë
+5. Format e komunikimit të brendshëm dhe të jashtëm
+KREU XI: SIMBOLET ZYRTARE TË INSTITUCIONIT (VULA/STEMA/FLAMURI)
+KREU XII: DISPOZITAT E FUNDIT
+1. Miratimi dhe ndryshimi
+2. Hyrja në fuqi e rregullores
 SHTOJCË 2
 STRUKTURA TIP E OFRUESVE PUBLIK TË AFP-së
 2/1. Struktura tip e shkollës së mesme profesionale
 2/2. Struktura tip e qendrës shumëfunksionale
+Bordi DrejtuesBordi Drejtues
+Bordi Drejtues
+Bordi Drejtues
+SpecialistSpecialistRojeRojePunonjës PastrimiPunonjës PastrimiPunonjës i Shërbimit Psiko-SocialPunonjës i Shërbimit Psiko-SocialSpecialistSpecialistSekretarSekretarInstruktor i Praktikave ProfesionaleInstruktor i Praktikave ProfesionaleMësues i Kulturës ProfesionaleMësues i Kulturës ProfesionalePërgjegjës i Sektorit të Financës dhe AdministrimitPërgjegjës i Sektorit të Financës dhe AdministrimitZv/Drejtori i Kulturës së PërgjithshmeZv/Drejtori i Kulturës së PërgjithshmeZv/Drejtori i Kulturës ProfesionaleZv/Drejtori i Kulturës ProfesionalePërgjegjës i Sektorit të Administrimit të Formimit ProfesionalPërgjegjës i Sektorit të Administrimit të Formimit ProfesionalPërgjegjës i Bazës ProdhuesePërgjegjës i Bazës ProdhueseMësues NdihmësMësues NdihmësMësues i Kulturës së PërgjithshmeMësues i Kulturës së PërgjithshmeTeknik i Mesëm (Mirëmbajtës i Kaldajës, Pajisjeve, etj)Teknik i Mesëm (Mirëmbajtës i Kaldajës, Pajisjeve, etj)MagazinierMagazinierPunëtorPunëtorDrejtorDrejtor
+Specialist
+Specialist
+Roje
+Roje
+Punonjës Pastrimi
+Punonjës Pastrimi
+Punonjës i Shërbimit Psiko-Social
+Punonjës i Shërbimit Psiko-Social
+Specialist
+Specialist
+Sekretar
+Sekretar
+Instruktor i Praktikave Profesionale
+Instruktor i Praktikave Profesionale
+Mësues i Kulturës Profesionale
+Mësues i Kulturës Profesionale
+Përgjegjës i Sektorit të Financës dhe Administrimit
+Përgjegjës i Sektorit të Financës dhe Administrimit
+Zv/Drejtori i Kulturës së Përgjithshme
+Zv/Drejtori i Kulturës së Përgjithshme
+Zv/Drejtori i Kulturës Profesionale
+Zv/Drejtori i Kulturës Profesionale
+Përgjegjës i Sektorit të Administrimit të Formimit Profesional
+Përgjegjës i Sektorit të Administrimit të Formimit Profesional
+Përgjegjës i Bazës Prodhuese
+Përgjegjës i Bazës Prodhuese
+Mësues Ndihmës
+Mësues Ndihmës
+Mësues i Kulturës së Përgjithshme
+Mësues i Kulturës së Përgjithshme
+Teknik i Mesëm (Mirëmbajtës i Kaldajës, Pajisjeve, etj)
+Teknik i Mesëm (Mirëmbajtës i Kaldajës, Pajisjeve, etj)
+Magazinier
+Magazinier
+Punëtor
+Punëtor
+Drejtor
+Drejtor
 2/3. Struktura tip e qendrës së formimit profesional
 SHTOJCË 3
 PLANI AFATMESËM I OFRUESIT PUBLIK TË AFP-së
@@ -706,8 +725,8 @@ DREJTORISË JURIDIKE DHE BURIMEVE NJERËZORE
 DREJTORISË SË MARRËDHËNIEVE ME PUBLIKUN
 AGJENCISË KOMBËTARE TË PUNËSIMIT DHE AFTËSIVE
 Në zbatim të ligjit nr. 15/2019, “Për nxitjen e punësimit”; të ligjit nr. 15/2017, “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”; të vendimit të Këshilli të Ministrave nr. 554, datë 31.7.2019, “Për krijimin, mënyrën e organizimit dhe të funksionimit të Agjencisë Kombëtare të punësimit dhe aftësive”; të udhëzimit nr. ..., datë ..., “Për mënyrën e organizimit dhe veprimtarinë e ofruesve publik të arsimit dhe formimit profesional”,
-Ofruesi publik i AFP-së.........., ju njofton krijimin e vendit të lirë për pozicionin ...:
-- Pozicioni
+Ofruesi publik i AFP-së.........., ju njofton krijimin e vendit të lirë për pozicionin ...
+.......
 1. Kriteret e përgjithshme dhe kriteret e posaçme
 Aplikanti duhet të plotësojë kriteret e përgjithshme për lëvizjen paralele si vijon:
 ....
@@ -730,6 +749,7 @@ Dosja e aplikimit, e cila përmban dokumentacionin e kërkuar, sipas njoftimit t
 Të gjitha dokumentet duhet të jenë origjinale ose të noterizuara;
 Dokumentet në gjuhë të huaj duhet të jenë të përkthyera dhe të noterizuara.
 Dokumentet e aplikimit dorëzohen në protokollin e ofruesit publik të AFP-së, brenda datës ...
+3. Vlerësimi i kandidatëve do bëhet referuar përcaktimeve të udhëzimit nr. 759, datë 27.5.2024, “Për mënyrën e organizimit dhe veprimtarisë, menaxhimin e burimeve njerëzore, përbërjen e njësisë së zhvillimit të institucioneve, ofruesve të arsimit dhe formimit profesional dhe zhvillimit të vazhduar profesional të personelit”, i ndryshuar.
 DREJTOR (I OFRUESIT PUBLIK TË AFP-së)
 SHTOJCË 10
 NJOFTIM I VENDIT TË LIRË
@@ -756,7 +776,7 @@ Aplikanti duhet të plotësojë kriteret e posaçme si vijon:
 ....
 2. Dokumentet e aplikimit
 Dosja e aplikimit, e cila përmban dokumentacionin e kërkuar, sipas njoftimit të vendit të lirë, duhet të përfshijë:
--letërmotivimin për pozicioni:
+- letërmotivimin për pozicionin:
 - jetëshkrimin (CV-në);
 - kartën e identitetit;
 - diplomën;
@@ -769,6 +789,7 @@ Dosja e aplikimit, e cila përmban dokumentacionin e kërkuar, sipas njoftimit t
 - të gjitha dokumentet duhet të jenë origjinale ose të noterizuara.
 Dokumentet në gjuhë të huaj duhet të jenë të përkthyera dhe të noterizuara.
 Dokumentet e aplikimit dorëzohen në protokollin e ofruesit publik të AFP-së, brenda datës ...
+3. Vlerësimi i kandidatëve do bëhet referuar përcaktimeve të udhëzimit nr. 759, datë 27.5.2024, “Për mënyrën e organizimit dhe veprimtarisë, menaxhimin e burimeve njerëzore, përbërjen e njësisë së zhvillimit të institucioneve, ofruesve të arsimit dhe formimit profesional dhe zhvillimit të vazhduar profesional të personelit”, i ndryshuar.
 DREJTORI (I OFRUESIT PUBLIK TË AFP-së)
 SHTOJCË 11
 JETËSHKRIMI (CV)
@@ -886,3 +907,19 @@ Regjistri i klasës
 10 vjet
 Ligje dhe vendime të Këshillit të Ministrave për nivelin arsimor të institucionit, akte nënligjore të ministrisë përgjegjëse për arsimin, dokumentacioni kurrikular
 deri në shfuqizimin e tyre
+SHTOJCË 13
+NJOFTIM FITUESI
+MINISTRIA E EKONOMISË, KULTURËS DHE INOVACIONIT
+AGJENCIA KOMBËTARE E PUNËSIMIT DHE AFTËSIVE
+EMRI I OFRUESIT TË AFP-së
+Nr. ______ prot.
+Data ___.___.___
+Lënda: Njoftim fituesi
+DREJTORISË JURIDIKE DHE BURIMEVE NJERËZORE
+DREJTORISË SË MARRËDHËNIEVE ME PUBLIKUN
+AGJENCISË KOMBËTARE TË PUNËSIMIT DHE AFTËSIVE
+Në zbatim të ligjit nr. 15/2017, “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”, i ndryshuar; të vendimit të Këshilli të Ministrave nr. 554, datë 31.7.2019, “Për krijimin, mënyrën e organizimit dhe të funksionimit të Agjencisë Kombëtare të Punësimit dhe Aftësive”, i ndryshuar dhe të udhëzimit nr. 759, datë 27.5.2024, “Për mënyrën e organizimit dhe veprimtarisë, menaxhimin e burimeve njerëzore, përbërjen e njësisë së zhvillimit të institucioneve, ofruesve të arsimit dhe formimit profesional dhe zhvillimit të vazhduar profesional të personelit”, i ndryshuar,
+Ofruesi i AFP-së ... ju njofton plotësimin e vendit të lirë për pozicionin:
+...................................
+Duke ju falënderuar për mirëkuptimin,
+DREJTORI I OFRUESIT

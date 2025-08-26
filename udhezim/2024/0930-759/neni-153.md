@@ -1,12 +1,7 @@
 # Neni 153
-Regjistri i klasës/kursit
-1. Regjistrat e klasës/kursit sigurohen në sekretari ose në zyrën e drejtorit/zëvendësdrejtorit të shkollës.
-2. Regjistri plotësohet dhe përdoret në përputhje me aktet nënligjore në fuqi.
-3. Në periudhën kur regjistri nuk përdoret në klasë, mund të merret vetëm nga:
-a) mësuesi kujdestar i klasës;
-b) mësuesit lëndorë të asaj klase;
-c) monitoruesit që janë duke kryer vlerësimin e jashtëm të ofruesit publik të AFP-së;
-d) mësuesi/t i/e kursit;
-e) të tjerë që janë të autorizuar me shkrim nga drejtori i institucionit.
-4. Regjistri i klasës/kursit ruhet në arkivin e ofruesit publik të AFP-së për 10 (dhjetë) vjet, e më pas ndiqen procedurat e arkivimit në arkivin vendor.
-5. Regjistri plotësohet në përputhje me Sistemin e Menaxhimit të Informacionit Parauniversitar (SMIP).
+Regjistri digjital i klasës në shkollat e mesme profesionale
+1. Regjistri i klasës është digjital dhe krijohet e plotësohet në SMIP.
+2. Regjistri i klasës plotësohet sipas rubrikave në përputhje me aktet nënligjore në fuqi.
+3. Mësuesi kujdestar i klasës dhe mësuesit që japin lëndë mësimore në klasën përkatëse, plotësojnë rubrikat e regjistrit digjital të klasës, sipas afateve të përcaktuara në SMIP.
+4. Mësuesi i ngarkuar nga shkolla për administrimin e SMIP-it krijon regjistrin për secilën klasë dhe ushtron përgjegjësitë e kryen detyrat, sipas rregullores për SMIP-in, të miratuar me urdhër të ministrit për arsimin.
+5. Mësuesit (kujdestarë klase dhe lëndësh) përdorues të regjistrit digjital ushtrojnë përgjegjësitë dhe kryejnë detyrat sipas rregullores për SMIP-in, të miratuar me urdhër të ministrit për arsimin.

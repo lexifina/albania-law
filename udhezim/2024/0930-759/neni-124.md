@@ -10,6 +10,7 @@ d) Lista përfundimtare e kandidatëve të kualifikuar, sipas rendit alfabetik, 
 a) Komisioni mbledh pikët e secilit aplikant dhe përzgjedh aplikantin me shumën më të madhe të pikëve.
 b) Numri minimal i pikëve është 60 pikë.
 c) Brenda një dite, komisioni shpall, në një vend të dukshëm në institucion, tabelat e pikëve të secilit aplikant dhe pret tri ditë për ankimimet e mundshme. Afati i shqyrtimit të ankimeve është 3 ditë pune.
+ç) Nëse procedura e përzgjedhjes përfundon me fitues, njoftimi për fituesin bëhet në faqen zyrtare të AKPA-së, në faqen elektronike zyrtare të ofruesit publik të AFP-së, nëse ka, si dhe në një vend të dukshëm në hyrje të institucionit, që ka vendin e lirë.
 d) Kandidati fitues, për pozicionet e punës me kohë të pjesshme, lidh një kontratë me afat deri në një vit, pa të drejtë rinovimi.
 e) Njoftimi dhe shpallja e vendit të lirë të punës për mësues të kulturës profesionale me kohë të pjesshme bëhet me shkresë zyrtare në Drejtorinë Qendrore të AKPA-së nga ana e drejtorit të ofruesit të AFP-së.
 3. Struktura e vlerësimit të kandidatëve është si më poshtë:
