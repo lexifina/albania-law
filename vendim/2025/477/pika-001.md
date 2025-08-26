@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Restaurimi dhe rikualifikimi urban i zonës perspektive TID me vendndodhje në parkun arkeologjik Durrës, me zhvillues Bashkia Durrës”.
