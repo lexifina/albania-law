@@ -1,0 +1,28 @@
+{
+  "qbz_id": 30993,
+  "title": "Mbi licencimin e shoqërisë “Energovia.Albania” sh.p.k. në veprimtarinë e tregtimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "190",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2025-08-12",
+  "published": "2025-08-28",
+  "in_force": "2025-08-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/cf0df5f141249b4592721f6cf007a9ee961b8ccc6ae4e9035c1f51378b15b8a7.docx",
+  "source_sha256": "cf0df5f141249b4592721f6cf007a9ee961b8ccc6ae4e9035c1f51378b15b8a7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/30993",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/08/12/190",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    32531
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
