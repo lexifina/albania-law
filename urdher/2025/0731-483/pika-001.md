@@ -1,1 +1,1 @@
-1. Delegimin e kompetencave të titullarit të Ministrisë së Drejtësisë nga data 19.8.2025-25.8.2025, zëvendësministrit të Drejtësisë, z. Klajd Karameta.
+1. Delegimin e kompetencave të titullarit të Ministrisë së Drejtësisë nga data 19.8.2025-21.8.2025, zëvendësministrit të Drejtësisë, z. Klajd Karameta.
