@@ -1,0 +1,28 @@
+{
+  "qbz_id": 30995,
+  "title": "Mbi dhënien e autorizimit të ERE-s për vendosjen e kuotave të shoqërisë “SPV Blue 2” sh.p.k. si mjet për garantimin e përmbushjes së detyrimit ndaj \"Banka e Tiranës \" sh.a., \"Banka OTP Albania\" sh.a., \"Intesa Sanpaolo Bank Albania\" sh.a. dhe \"Union Bank\" sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "192",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2025-08-12",
+  "published": "2025-08-28",
+  "in_force": "2025-08-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d9a0ab26c1d83089cd897aaca7638c4fe109576e0bbb04ceb1c81ed64c4ec455.docx",
+  "source_sha256": "d9a0ab26c1d83089cd897aaca7638c4fe109576e0bbb04ceb1c81ed64c4ec455",
+  "official_record": "https://qbz.gov.al/api/v1/acts/30995",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/08/12/192",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31616
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
