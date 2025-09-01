@@ -4,6 +4,10 @@ Nr. 142, datë 7.7.2025
 
 MBI DHËNIEN E AUTORIZIMIT NGA ERE PËR NDRYSHIMIN E ORTAKUT QË KONTROLLON INTERESAT E SHOQËRISË “ARIS ALBANIA” SHPK
 
+(Ndryshuar me vendimin nr. 204, datë 1.9.2025)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 5, 7, 9, pika 4 dhe 5, dhe nenit 10, të “Rregullores për procedurat dhe afatet për dhënien e autorizimit nga ERE për ndryshimin e statusit ligjor të të licencuarit, ndryshimin e ortakut/aksionarit që kontrollon interesat e të licencuarit dhe vendosjen e kuotave/aksioneve të ortakut/aksionerit që kontrollon interesat e të licencuarit si mjete për garantimin e përmbushjes së detyrimit/eve ndaj të tretëve”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 235, datë 26.11.2021; si dhe nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 7.7.2025, mbasi shqyrtoi relacionin me nr. 1671/3 prot., datë 2.7.2025, të Drejtorisë së Licencimit dhe Autorizimeve, “Mbi kërkesën e shoqërisë ‘Aris Albania’ sh.p.k. për dhënien e autorizimit nga ERE për ndryshimin e ortakut që kontrollon interesat e saj”,
 
 Konstatoi se:
@@ -80,9 +84,9 @@ VENDOSI:
 
 3. Dhënia e autorizimit nga ERE për ndryshimin e ortakut që kontrollon interesat e shoqërisë “Aris Albania” sh.p.k., nuk e çliron këtë të fundit nga detyrimi për të marrë autorizimin/miratimin e organeve të tjera apo palëve të treta për këtë ndryshim, në rast se kjo kërkohet nga këto organe.
 
-4. Shoqëria duhet të depozitojë në ERE ekstraktin historik të regjistrit tregtar brenda 10 (dhjetë) ditëve nga reflektimi në të i ndryshimit të ortakut që kontrollon interesat e saj. 
+4. Shfuqizuar. 
 
-5. Ky vendim është objekt rishikimi nga ERE në zbatim të pikave 3 dhe 4. 
+5. Ky vendim është objekt rishikimi nga ERE në varësi të plotësimit/mosplotësimit të kushtit të vendosur në pikën 3 të këtij vendimi. 
 
 Ky vendim hyn në fuqi menjëherë.
 
