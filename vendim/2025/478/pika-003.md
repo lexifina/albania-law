@@ -1,0 +1,1 @@
+3. Homazhet publike dhe ceremonia shtetërore të organizohen në mjediset e Teatrit Kombëtar të Operës, Baletit dhe Ansamblit Popullor, Tiranë, ditën e martë, datë 2.9.2025, nga ora 10:00 deri në orën 13:00.

@@ -1,0 +1,11 @@
+6. Për organizimin e homazheve dhe të ceremonisë shtetërore ngrihet Komisioni i Posaçëm Shtetëror nën mbikëqyrjen e Kryeministrit, i cili në përbërje të ketë:
+- Ministrin e Ekonomisë, Kulturës dhe Inovacionit;
+- Ministrin e Mbrojtjes;
+- Ministrin e Brendshëm;
+- Nënkryetarin e Bashkisë Tiranë;
+- Drejtorin e Protokollit të Shtetit;
+- Drejtorin e Përgjithshëm të Policisë së Shtetit;
+- Komandantin e Gardës së Republikës së Shqipërisë;
+- Drejtorin e Drejtorisë së Shërbimeve Qeveritare;
+- Përfaqësues nga kabineti i Kryeministrit;
+- Përfaqësues nga zyra e shtypit të Kryeministrit.
