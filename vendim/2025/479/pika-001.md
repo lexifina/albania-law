@@ -1,0 +1,1 @@
+1. Ngarkimin e Drejtorisë së Shërbimeve Qeveritare për paraqitjen e kërkesave për kryerjen e punimeve, sipas legjislacionit në fuqi, dhe ndjekjen e zbatimit të marrëveshjes së dhurimit, me objekt realizimin e projektit të rikonstruksionit dhe rikonceptimit të sallës së mbledhjeve dhe hollit të saj në mjediset e Kryeministrisë.

@@ -1,0 +1,1 @@
+2. Drejtoria e Shërbimeve Qeveritare, në funksion të zbatimit të projektit dhe të marrëveshjes së përcaktuar në pikën 1, të këtij vendimi, ngarkohet për kryerjen e procedurave përzgjedhëse për mbikëqyrjen dhe kolaudimin, sipas legjislacionit në fuqi.
