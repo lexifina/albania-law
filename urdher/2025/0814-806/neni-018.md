@@ -1,0 +1,5 @@
+# Neni 18
+Tregimi i përmbajtjes së sheqerit për produktet e rrushit për verë, përveç verës së gazuar shkumbëzuese, verës së gazifikuar shkumbëzuese, verës së gazuar shkumbëzuese cilësore ose verës së gazuar shkumbëzuese aromatike cilësore
+1. Përmbajtja e sheqerit e shprehur si fruktozë dhe glukozë, sipas tabelës B, të shtojcës II, të këtij urdhri, mund të shfaqet në etiketën e produkteve të rrushit për verë, përveç rastit të verës së gazuar shkumbëzuese, verës së gazifikuar shkumbëzuese, verës së gazuar shkumbëzuese cilësore aromatike, për të cilin treguesi i përmbajtjes së sheqerit është i detyrueshëm në përputhje me shkronjën “ë”, të nenit 31 të ligjit.
+2. Kur përmbajtja e sheqerit në produktet e rrushit për verë justifikon përdorimin e dy prej termave të tabelës B, të shtojcës II, të këtij urdhri, do të zgjidhet vetëm njëri prej këtyre dy termave.
+3. Pa rënë ndesh me kushtet e përdorimit të përshkruara në tabelën B, të shtojcës II, të këtij urdhri, përmbajtja e sheqerit nuk mund të ndryshojë me më shumë se 1 gram për litër nga ajo që shfaqet në etiketën e produktit.

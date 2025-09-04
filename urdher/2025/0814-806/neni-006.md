@@ -1,0 +1,5 @@
+# Neni 6
+Marketingu dhe eksporti
+1. Produktet e rrushit për verë, etiketa ose prezantimi i të cilave nuk është në përputhje me kushtet përkatëse të përcaktuara në këtë urdhër, nuk tregtohen brenda territorit të Republikës së Shqipërisë dhe as eksportohen jashtë saj.
+2. Përjashtimisht nga rregullimet e parashikuara në nenet 21 dhe 22, të kreut V të ligjit, kur produktet e rrushit për verë do të eksportohen, institucioni përgjegjës për kontrollet mund të lejojë të dhëna dhe paraqitje që bien ndesh me rregullat në fuqi të etiketimit dhe prezantimit të produkteve të rrushit për verë, nëse këto të dhëna ose kjo paraqitje e produkteve kërkohet nga legjislacioni i vendit ku do të eksportohet.
+3. Përjashtimisht nga rregullimet e parashikuara në nenet 21 dhe 22, të kreut V të ligjit, kur produktet e rrushit për verë do të konsumohen në bordet e avionëve, institucioni përgjegjës për kontrollet mund të lejojë paraqitje që bien ndesh me rregullat në fuqi të paraqitjes, nëse prezantime të tilla të produkteve të rrushit për verë janë të nevojshme për arsye sigurie.

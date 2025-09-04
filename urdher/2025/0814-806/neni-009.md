@@ -1,0 +1,4 @@
+# Neni 9
+Treguesi i prejardhjes
+1. Për treguesin e prejardhjes, siç referohet në shkronjën “d”, pika 1, të nenit 31 të ligjit, për produktet e rrushit për verë, të përmendura në nenin 2, pika 20, nënpikat 20.1, 20.3 deri në 20.9, 20.15 dhe 20.16 të ligjit, do të përdoren fjalët “verë (...)”, “prodhuar në (...)”, “produkt (...)”, ose do të shprehen në terma të barasvlershëm të plotësuar me emrin e shtetit ku rrushi vilet dhe kthehet në verë.
+2. Për treguesin e prejardhjes, siç referohet në shkronjën “d”, pika 1, të nenit 31 të ligjit, për produktet e rrushit për verë të përmendura në nënpikat 20.2, 20.10, 20.11 dhe 20.13, të pikës 20, të nenit 2 të ligjit, do të përdoren fjalët “musht (…)” ose “musht i prodhuar në (...)” ose të shprehur në terma të barasvlershëm, të plotësuar me emrin e shtetit.

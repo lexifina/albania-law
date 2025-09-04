@@ -1,0 +1,9 @@
+# Neni 13
+Lista e përbërësve
+1. Termi “rrush” përdoret për të zëvendësuar treguesin e rrushit dhe/ose mushtit të rrushit që përdoret si lëndë e parë për prodhimin e produkteve të rrushit për verë.
+2. Termi “musht i përqendruar rrushi” përdoret për të zëvendësuar treguesin e mushtit të përqendruar të rrushit dhe/ose të mushtit të përqendruar të retifikuar të rrushit që përdoret për prodhimin e produkteve të rrushit për verë.
+3. Kategoritë e substancave enologjike, emrat dhe Numrat Evropian (E numbers) që do të përdoren në listën e përbërësve përcaktohen në urdhrin e ministrit, të miratuar në përputhje me pikën 7, të nenit 13, të ligjit.
+4. Pa rënë ndesh me pikën 1, të nenit 5 të këtij urdhri, termat që do të përdoren për të treguar substancat enologjike që shkaktojnë alergji ose intolerancë në listën e përbërësve, përcaktohen në urdhrin e ministrit të miratuar në përputhje me pikën 7, të nenit 13 të ligjit.
+5. Aditivët nën kategoritë “rregullatorë të aciditetit” dhe “agjentë stabilizues”, të cilët janë të ngjashëm ose reciprokisht të zëvendësueshëm, tregohen në listën e përbërësve duke përdorur shprehjen “përmban... dhe/ose”, të ndjekur nga jo më shumë se tre aditivë, ku të paktën një prej tyre është i pranishëm në produktin përfundimtar.
+6. Treguesi i aditivëve që i përkasin kategorisë “gazra ambalazhimi” në listën e përbërësve mund të zëvendësohet me frazën “të ambalazhuar në atmosferë mbrojtëse” ose “mbushja mund të ndodhë në një atmosferë mbrojtëse”.
+7. Shtimi i tirage liqueur dhe i expedition liqueur në produktet e rrushit mund të tregohet nga të dhënat specifike “tirage liqueur” dhe “expedition liqueur”, të vetme ose të shoqëruara në kllapa, nga një listë e përbërësve të tyre, siç përcaktohet në urdhrin e ministrit të miratuar në përputhje me pikën 7, të nenit 13 të ligjit.
