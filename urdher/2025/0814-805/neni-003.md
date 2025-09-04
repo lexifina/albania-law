@@ -1,0 +1,5 @@
+# Neni 3
+Kufijtë e pasurimit
+1. Në zona të caktuara të rritjes së rrushit, për shkak të kushteve klimatike që kanë krijuar këtë nevojë, lejohet të shtohet fortësia alkoolike natyrale sipas vëllimit të rrushit të freskët, mushtit të rrushit, mushtit të rrushit në fermentim, verës së re ende në fermentim dhe verës së përftuar nga varietetet e rrushit për verë të klasifikuara sipas nenit 10 të ligjit.
+2. Rritja e fortësisë alkoolike natyrale sipas vëllimit arrihet me anë të praktikave enologjike të referuara në nenin 4 të këtij urdhri dhe nuk duhet të kalojë 1,5% sipas volumit.
+3. Në vitet kur kushtet klimatike kanë qenë veçanërisht të pafavorshme, prodhuesit e verës mund të kërkojnë që kufiri i përcaktuar në pikën 2 të këtij neni të rritet me 0,5%. Në këtë rast, pas konsultimit me Këshillin Kombëtar të Vitivinikulturës, brenda një periudhe 1-mujore (njëmujore) nga data e dorëzimit të një kërkese të tillë, ministri miraton aktin normativ për rritjen e fortësisë për zonat përkatëse të kultivimit të vreshtave për verë.

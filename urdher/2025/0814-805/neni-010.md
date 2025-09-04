@@ -1,0 +1,3 @@
+# Neni 10
+Praktika enologjike të zbatueshme për verërat e gazuara shkumbëzuese
+Përveç praktikave enologjike dhe kufizimeve të përgjithshme të përcaktuara në nenet 13, 14 dhe 15 të ligjit, nenet 3, 4, 5 dhe 6 dhe shtojcën I të këtij urdhri, praktikat specifike enologjike të autorizuara dhe kufizimet, duke përfshirë pasurimin, acidifikimin dhe deacidifikimin për verërat e gazuara shkumbëzuese, verërat e gazuara shkumbëzuese cilësore dhe verërat e gazuara shkumbëzuese cilësore aromatike, të përkufizuara në nënpikat 20.4, 20.5, 20.6, të pikës 20, të nenit 2 të ligjit, parashikohen në shtojcën II, të këtij urdhri.
