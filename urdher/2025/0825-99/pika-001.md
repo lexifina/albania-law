@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të institucionit të Agjencisë Kombëtare të Kontrollit të Cannabis-it, koordinatorit pranë drejtorit të përgjithshëm, znj. Marçela Shahini, për shkak të mungesës me arsye të titullarit.

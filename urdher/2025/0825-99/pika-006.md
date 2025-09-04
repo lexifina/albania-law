@@ -1,0 +1,1 @@
+6. Për veprimet e kryera në zbatim të këtij urdhri, koordinatori pranë drejtorit të përgjithshëm do të ruajë kopje të kartelave shoqëruese të praktikave shkresore të iniciuara, apo të përfunduara prej tij, së bashku me afatet e përcaktuara dhe ecurinë e mbarëvajtjen e çështjeve dhe do t’ia bëj të ditura titullarit me rikthimin e tij në detyrë.
