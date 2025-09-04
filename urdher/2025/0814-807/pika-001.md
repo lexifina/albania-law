@@ -1,0 +1,1 @@
+1. Miratimin e formës dhe të përmbajtjes së certifikatës për eksport që shoqëron produktet e verës, jashtë territorit të Republikës së Shqipërisë, sipas formatit në shtojcën I, bashkëlidhur këtij urdhri.

@@ -1,0 +1,1 @@
+6. Autoriteti kompetent për lëshimin e certifikatës së eksportit për vendet e Bashkimit Evropian, sipas formatit në shtojcën II të këtij urdhri, është institucioni përgjegjës për kontrollet, i përcaktuar në nenin 5, të ligjit nr. 86, datë 22.12.2022, “Për vreshtarinë dhe verën”.

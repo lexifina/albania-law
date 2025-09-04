@@ -1,0 +1,1 @@
+4. Për produktet e verës me destinacion eksportin në vendet e Bashkimit Evropian, entet dhe laboratorët e autorizuar nga Ministria e Bujqësisë dhe Zhvillimit Rural, për lëshimin e certifikatës VI-1, certifikatë e detyrueshme për eksport në vendet e BE-së, përdorin edhe formatin në shtojcën II, bashkëlidhur këtij urdhri.
