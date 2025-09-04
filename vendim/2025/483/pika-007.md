@@ -1,0 +1,1 @@
+7. Në buxhetin e Ministrisë së Brendshme, në shpenzimet korrente, shtohet fondi prej 69 615 100 (gjashtëdhjetë e nëntë milionë e gjashtëqind e pesëmbëdhjetë mijë e njëqind) lekësh në programin buxhetor “Policia e Shtetit”.
