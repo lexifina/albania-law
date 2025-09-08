@@ -1,0 +1,1 @@
+1. Ky udhëzim përcakton tarifat për shërbimet e ofruara nga Instituti Kombëtar i Trashëgimisë Kulturore Materiale, në përputhje me kompetencat e parashikuara në ligjin nr. 27/2018, “Për Trashëgiminë Kulturore dhe Muzetë”, i ndryshuar.
