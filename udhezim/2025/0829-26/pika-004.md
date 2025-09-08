@@ -1,0 +1,1 @@
+4. Çdo lot i produktit përfundimtar testohet në Institutin e Sigurisë Ushqimore dhe Veterinarisë, nëse një mostër, siç përcaktohet në shtojcën 1 bashkëlidhur, përmban më shumë se 20 mg/kg DA, i gjithë loti asgjësohet nën mbikëqyrjen e Autoritetit Kombëtar të Ushqimit.

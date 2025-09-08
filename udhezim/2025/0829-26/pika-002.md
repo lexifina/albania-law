@@ -1,0 +1,1 @@
+2. Autoriteti Kombëtar i Ushqimit autorizon mbledhjen e molusqeve bivalvore, që i përkasin specieve Pecten maximus dhe Pecten jacobaeus, me një përqendrim të acidit domoik (DA) në të gjithë trupin, që kalon 20 mg/kg, por është më i ulët se 250 mg/kg, të cilat plotësojnë kërkesat e përcaktuara në pikën 3 të këtij udhëzimi.

@@ -1,0 +1,5 @@
+3. Kërkesat referuar në pikën 2 janë, si më poshtë:
+a) molusqet u nënshtrohen kushteve të mbledhjes të përcaktuara në shtojcën 1, bashkëlidhur këtij udhëzimi, dhe që është pjesë përbërëse e tij;
+b) transportohen në kontejnerë ose automjete të vulosura nga Autoriteti Kombëtar i Ushqimit dhe dërgohen nga zonat e prodhimit në një stabiliment të aprovuar për kryerjen e përgatitjeve të veçanta të tyre, që përfshin heqjen e hepatopankreasit, indeve të buta ose çdo pjesë tjetër të kontaminuar që nuk është në përputhje me pikën 2, të shtojcës 1, bashkëlidhur këtij udhëzimi;
+c) shoqërohen me një dokument regjistrimi, të lëshuar nga Autoriteti Kombëtar i Ushqimit, për çdo ngarkesë, si dhe pjesën ose pjesët anatomike që mund të përpunohen për konsum njerëzor. Autorizimi i përhershëm i transportit, i dhënë nga Autoriteti Kombëtar i Ushqimit, nuk është i vlefshëm;
+ç) pas heqjes së plotë të hepatopankreasit, indeve të buta dhe çdo pjese tjetër të kontaminuar, muskuli aduktor dhe/ose gonadet e destinuara për konsum njerëzor nuk duhet të përmbajnë një nivel të ASP-së të zbulueshëm nga teknikat HPLC, që tejkalon 20 mg/kg të DA.

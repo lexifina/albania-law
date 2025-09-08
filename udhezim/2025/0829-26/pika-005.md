@@ -1,0 +1,1 @@
+5. Hepatopankreasi, indet e buta dhe çdo pjesë tjetër e kontaminuar, që tejkalon kufijtë e përcaktuar në pikën 2 të shtojcës bashkëlidhur (përfshirë produktin përfundimtar që tejkalon kufirin prej 20 mg/kg DA), asgjësohet nën mbikëqyrjen e Autoritetit Kombëtar të Ushqimit.

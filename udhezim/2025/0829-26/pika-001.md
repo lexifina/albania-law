@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim përcaktimin e kushteve për vendosjen e kontrolleve të veçanta shëndetësore, për mbledhjen dhe përpunimin e molusqeve bivalvore me një nivel të toksinës amnesike të molusqeve (ASP), që tejkalon kufirin 20 mg/kg.
