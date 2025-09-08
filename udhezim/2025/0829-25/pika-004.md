@@ -1,0 +1,1 @@
+4. Autoriteti Kombëtar i Ushqimit kontrollon që aplikimi i procedurave të sistemit të HACCP-së, i hartuar dhe i zbatuar nga personi përgjegjës i stabilimentit, i autorizuar për të kryer trajtimin termik specifik të tyre, zbatohet specifikisht me trajtimin termik, sipas përcaktimeve në shtojcën bashkëlidhur këtij udhëzimi.

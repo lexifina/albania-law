@@ -1,0 +1,1 @@
+3. Produktet përfundimtare, që rezultojnë nga molusqet e përmendura në pikën 2, nuk duhet të përmbajnë një nivel të zbulueshëm të PSP-së me metodën e bioanalizës, pas përfundimit të procesit të trajtimit specifik termik. Çdo lot i nënshtrohet testimit.

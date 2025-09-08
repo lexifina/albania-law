@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim përcaktimin e kushteve për mbledhjen dhe përpunimin e molusqeve bivalve, që i përkasin species Acanthocardia Tuberculatum dhe vijnë nga zona ku niveli i toksinës paralitike të molusqeve (PSP), tejkalon kufirin 80 μg/100 g.
