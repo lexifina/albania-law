@@ -4,6 +4,10 @@ Nr. 160, datë 18.7.2025
 
 MBI PEZULLIMIN E VENDIMMARRJES SË BORDIT TË ERE-s LIDHUR ME KËRKESËN E SHOQËRISË “IDI 2005” SHPK PËR LICENCIM NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr.211, datë 9.9.2025)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16 të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; nenit 66, pika 1, të ligjit nr. 44/2015, “Kodi i Procedurave Administrative i Republikës së Shqipërisë”; nenit 14, pika 10, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 18.7.2025, mbasi shqyrtoi relacionin me nr. 1849/7 prot., datë 15.7.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘IDI 2005’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 Konstatoi se: 
@@ -40,7 +44,7 @@ VENDOSI:
 
 1. Të pranojë kërkesën e shoqërisë “IDI 2005” sh.p.k. për pezullimin e shqyrtimit të kërkesës për licencim në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet të instaluar 8.8 MW, me vendndodhje në zonën kadastrale nr. 3038, fshati Povelçë, Njësia Administrative Dërmenas, Bashkia Fier, qarku Fier, deri në një njoftim të dytë nga vetë shoqëria.
 
-2. Brenda 45 (dyzet e pesë) ditëve shoqëria duhet të depozitojë në ERE kontratën e nënshkruar me Ministrinë e Infrastrukturës dhe Energjisë. 
+2. Ky vendim është objekt rishikimi me depozitimin nga ana e shoqërisë të kontratës së nënshkruar me Ministrinë e Infrastrukturës dhe Energjisë.
 
 3. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “IDI 2005” sh.p.k., për vendimin e Bordit të ERE-s.
 
