@@ -1,9 +1,9 @@
 # Mbi pezullimin e vendimmarrjes së Bordit të ERE-s lidhur me shqyrtimin e kërkesës së shoqërisë "SunPro" sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike
 
-Official source: [Vendim nr. 148, datë 8.7.2025 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/63632).
+Official source: [Vendim nr. 148, datë 8.7.2025 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/63632); [QBZ versions](https://qbz.gov.al/api/v1/acts/63632/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2025-07-08; published 2025-08-04; in force 2025-08-04.
+Status of this text: `official consolidated version 1`, applying from 2025-09-09; after QBZ act 31398 (nr. 212).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.

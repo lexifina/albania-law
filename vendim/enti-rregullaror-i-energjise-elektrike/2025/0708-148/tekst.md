@@ -4,6 +4,10 @@ Nr. 148, datë 8.7.2025
 
 MBI PEZULLIMIN E VENDIMMARRJES SË BORDIT TË ERE-s LIDHUR ME SHQYRTIMIN E KËRKESËS SË SHOQËRISË “SUNPRO” SHPK PËR LICENCIM NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr. 212, datë 9.9.2025)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; nenit 14, pika 3, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar, si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”; Bordi i ERE-s, në mbledhjen e tij të datës 8.7.2025, mbasi shqyrtoi relacionin me nr. 1648/13 prot., datë 2.7.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘SunPro’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 Konstatoi se: 
@@ -50,7 +54,7 @@ VENDOSI:
 
 1. Të pezullojë afatin e vendimmarrjes së bordit të ERE-s për kërkesën e shoqërisë “SunPro” sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike nga centrali eolik, me kapacitet prodhues 3 mw, me vendndodhje në Tragjas, Njësia Administrative Orikum, qarku Vlorë.
 
-2. Shoqëria duhet të depozitojë dokumentacionin e munguar brenda datës 30.9.2025.
+2. Brenda datës 22.11.2025, shoqëria duhet të depozitojë në ERE përgjigjen e Operatorit të Sistemit të Transmetimit sh.a. për aplikimin e bërë për pikën e lidhjes së centralit me rrjetin e transmetimit.
 
 3. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “SunPro” sh.p.k., për vendimin e Bordit të ERE-s.
 
