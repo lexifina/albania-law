@@ -1,0 +1,29 @@
+{
+  "qbz_id": 31038,
+  "title": "Mbi licencimin e shoqërisë \"EZ-5 Energy\" sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet të instaluar 30 mw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "171",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2025-07-31",
+  "published": "2025-09-10",
+  "in_force": "2025-09-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/6109e513b316fb552ed2cf1662fef09d92fc5d314d3a9c39aab237140806017f.docx",
+  "source_sha256": "6109e513b316fb552ed2cf1662fef09d92fc5d314d3a9c39aab237140806017f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/31038",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/07/31/171",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    33576,
+    31746
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
