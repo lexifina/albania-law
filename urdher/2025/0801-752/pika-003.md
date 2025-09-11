@@ -1,1 +1,0 @@
-3. Urdhri nr. 696, datë 17.7.2025, “Për disa masa mbrojtëse ndaj sëmundjes së murtajës afrikane të derrave, të shfaqur në shtetin e Kroacisë”, dhe urdhri nr. 737, datë 30.7.2025, “Për disa masa mbrojtëse ndaj sëmundjes së murtajës afrikane të derrave, të shfaqur në shtetin e Kroacisë”, shfuqizohet.
