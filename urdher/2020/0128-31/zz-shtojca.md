@@ -56,6 +56,7 @@ AK Aftësi e kufizuar
 AMU Arsim i mesëm i ulët
 AML Arsim i mesëm i lartë
 FSHSSH Federata Shqiptare e Sportit në Shkollë
+SMIP Sistemi i Menaxhimit të Informacionit Parauniversitar
 Neni 3
 Përkufizime
 Në këtë rregullore, termat e mëposhtëm kanë këto kuptime:
@@ -73,25 +74,24 @@ Në këtë rregullore, termat e mëposhtëm kanë këto kuptime:
 12. “Personi që ushtron përgjegjësinë prindërore” është njëri nga prindërit ose kujdestari ligjor i fëmijës/nxënësit.
 13. “Punonjësit arsimorë të IA” janë drejtori, nëndrejtori, kryemësuesi, mësuesi dhe mësuesi ndihmës.
 14. “Punonjës të IA” janë psikologu, punonjësi social, oficeri i sigurisë dhe sekretari.
-15. “Shkollë e arsimit bazë” është institucioni arsimor që ka mbi 80 nxënës dhe drejtohet nga drejtori. Shkolla e arsimit bazë mund të ketë:
+15. “Shkollë e arsimit bazë” është institucioni arsimor që drejtohet nga drejtori dhe në përbërje të saj mund të ketë:
 a) vetëm klasa të arsimit bazë (1-9);
 b) vetëm klasa të arsimit fillor (1-5);
 c) vetëm klasa të arsimit të mesëm të ulët (6-9);
 ç) kopsht pa drejtor, klasë përgatitore dhe klasa të arsimit bazë;
 d) kopsht pa drejtor, klasë përgatitore, klasa të arsimit bazë në atë qendër banimi dhe në shkolla vartëse;
 dh) klasa të arsimit bazë në atë qendër banimi dhe në shkolla vartëse.
-16. “Shkollë vartëse” është shkolla që ka më pak se 80 nxënës dhe është pjesë e një shkolle të arsimit bazë apo të mesme të bashkuar. Shkolla vartëse mund të ketë kryemësues, kur plotësohet kriteri i përcaktuar në udhëzimin për normat mësimore. Shkolla vartëse mund të ketë:
+16. “Shkollë vartëse” është pjesë e një shkolle të arsimit bazë apo shkolle të bashkuar. Shkolla vartëse mund të ketë:
 a) vetëm klasa të arsimit fillor (1-5);
 b) vetëm klasa të arsimit të mesëm të ulët (6-9);
 c) klasa të arsimit bazë (1-9);
 ç) kopsht pa drejtor, klasë përgatitore dhe klasa të arsimit fillor (1-5);
 d) kopsht pa drejtor, klasë përgatitore dhe klasat e arsimit bazë (1-9).
-17. “Shkollë e mesme e bashkuar” është:
-a) shkolla e mesme që, përveç gjimnazit, ka edhe klasa të arsimit bazë në atë qendër banimi;
-b) shkolla e mesme që, përveç gjimnazit, ka edhe klasa të arsimit bazë në atë qendër banimi dhe shkolla vartëse;
-c) shkolla e mesme që, përveç gjimnazit, ka edhe kopsht pa drejtor, edhe klasa të arsimit bazë në atë qendër banimi dhe në shkolla vartëse.
+17. “Shkollë e bashkuar” është institucioni arsimor parauniversitar publik në të cilën përfshihen nxënës nga nivelet arsimore me kodet 1, 2, 3 ose vetëm disa prej tyre. Në këto shkolla mund të përfshihen edhe grupe të arsimit parashkollor. Mësimi në këto shkolla realizohet në një ose disa godina mësimore me vendndodhje të ndryshme.
 18. “Gjimnazi” është shkolla e mesme e përgjithshme.
 19. “Shkolla të arsimit të orientuar” janë shkollat artistike, shkollat sportive, shkollat për gjuhët e huaja dhe shkollat për fusha të tjera të të nxënit.
+19.1 “Shkollë me status të veçantë” është institucioni arsimor parauniversitar publik, i arsimit të orientuar me drejtim artistik dhe sportiv, i cili ka strukturë organizimi, kurrikul dhe mënyrë financimi të ndryshme nga IAPP-të.
+19.2 “Qendër burimore” është institucioni i arsimit special, që ofron arsim special dhe shërbime të veçanta për fëmijët me aftësi të kufizuara.
 20. “Viti mësimor” është periudha nga data e fillimit të mësimeve deri në datën e përfundimit të mësimeve dhe fillimin e provimeve kombëtare të sesionit të parë.
 21. “Viti shkollor” është periudha nga data e fillimit të mësimeve deri në datën e mbarimit të provimeve të sesionit të dytë (provime kombëtare dhe klase).
 22. “Zona e një gjimnazi” është zona e përcaktuar nga NJVV-ja përkatëse, dhe mbulon shkollat e arsimit bazë, nxënësve të të cilave u takon të regjistrohen në atë gjimnaz.
@@ -109,7 +109,7 @@ Organizimi i institucioneve të arsimit parashkollor
 3. Fëmija 6 vjeç ka të drejtë të qëndrojë në kopsht deri një ditë para fillimit të klasës së parë.
 4. Klasat përgatitore ngrihen pranë IA-ve për fëmijët e moshës 5 vjeç që nuk kanë ndjekur kopshtin për arsye të ndryshme apo në vendbanimin e tyre nuk ka kopsht.
 5. Regjistrimi i fëmijëve në institucionet e arsimit parashkollor bëhet në të njëjtën periudhë me regjistrimin e fëmijëve në shkollat e arsimit bazë, me përjashtim të fëmijëve të grupeve të para në kopshte, të cilët kanë të drejtë të regjistrohen në kopshte me mbushjen e moshës 3 vjeç.
-6. Regjistrimi i fëmijës në institucionet e arsimit parashkollor bëhet me deklaratën tip të plotësuar nga personi që ushtron përgjegjësinë prindërore sipas shtojcës nr. 1, bashkëlidhur kësaj rregulloreje.
+6. Regjistrimi i fëmijës në institucionet e arsimit parashkollor bëhet nga personi që ushtron përgjegjësinë prindërore sipas procedurave të përcaktuara nga NJVV-ja përkatëse.
 Neni 6
 Kurrikula e arsimit parashkollor
 1. Kurrikula në arsimin parashkollor mbështetet në këto dokumente: LAPU, Korniza Kurrikulare e arsimit parashkollor, standardet e zhvillimit dhe të të nxënit për fëmijët 3-6 vjeç dhe programet e arsimit parashkollor për çdo grup-moshë.
@@ -136,31 +136,19 @@ Përsëritja e klasës nga nxënësi në klasat I-III
 3. Përsëritja e klasës parë, të dytë apo të tretë bëhet vetëm një herë dhe vetëm për njërën prej tyre.
 Neni 9
 Kurrikula në institucionet e arsimit bazë
-1. Kurrikula në arsimin bazë mbështetet në këto dokumente: LAPU, Korniza Kurrikulare e arsimit parauniversitar, standardet e të nxënit, programet lëndore, urdhrat dhe udhëzimet e nxjerra nga ministria përgjegjëse për arsimin.
-2. Kurrikula e arsimit bazë është e organizuar në kurrikul bërthamë dhe kurrikul me zgjedhje.
+1. Kurrikula në arsimin bazë mbështetet në këto dokumente: LAPU, Korniza Kurrikulare e arsimit parauniversitar, nivelet e arritjes, programet lëndore, urdhrat dhe udhëzimet e nxjerra nga ministria përgjegjëse për arsimin.
+2. Kurrikula e arsimit bazë është e organizuar në kurrikul bërthamë dhe kurrikul në bazë shkolle.
 3. Kurrikula bërthamë është e detyruar dhe e përbashkët për të gjithë nxënësit.
-4. Kurrikula me zgjedhje është pjesë e kurrikulës së përgjithshme, zgjidhet nga shkolla dhe zhvillohet brenda kohës së planifikuar në planin mësimor, në përputhje me interesat, me nevojat e nxënësve dhe me mundësitë e shkollës.
+4. Kurrikula në bazë shkolle është pjesë e kurrikulës së përgjithshme, zgjidhet nga shkolla dhe zhvillohet brenda kohës së planifikuar në planin mësimor, në përputhje me interesat, me nevojat e nxënësve dhe me mundësitë e shkollës.
 Neni 10
 Planifikimi i mësimdhënies në arsimin bazë
 1. Planifikimi i mësimdhënies në arsimin bazë përfshin: planifikimin lëndor vjetor të ndarë në tri periudha, planifikimin për secilën periudhë dhe planifikimin ditor.
 2. Në fillim të vitit shkollor, mësuesi dorëzon në drejtorinë e shkollës planin vjetor të lëndës, i cili është një kornizë e ndarjes së përgjithshme të përmbajtjes lëndore dhe të orëve mësimore, si edhe planin e periudhës së parë. Planet e periudhës së dytë dhe të tretë dorëzohen para fillimit të secilës periudhë.
 3. Gjatë vitit, sipas rrethanave që i krijohen, mësuesi mund të bëjë ndryshime në planin fillestar të periudhës, ndryshime të cilat miratohen nga drejtori i IA-së.
+4. Plani vjetor dhe planet e periudhës janë dokumente zyrtare dhe objekt monitorimi/vlerësimi.
 Neni 11
-Hapja e klasave të profilizuara në sport
-1. Klasat e profilizuara në sport krijohen në disiplinat të ndryshme sportive, sipas kërkesave të nxënësve, vetëm në fillim të vitit shkollor dhe pas miratimit nga DRAP-ja.
-2. Drejtuesit e ZVAP-ve dhe/ose drejtorët e shkollave 9-vjeçare kërkojnë në DRAP hapjen e klasës së profilizuar në sport, vetëm nëse shkolla plotëson kushtet e infrastrukturës dhe kriteret e mësimdhënies së personelit të edukimit fizik.
-3. DRAP-ja shoqëron vendimin për hapjen e klasës së profilizuar në sport në ministrinë përgjegjëse për arsimin me informacion për:
-a) qëllimin e hapjes së klasës së profilizuar në sport;
-b) kushtet infrastrukturore për zhvillimin e disiplinës sportive;
-c) personelin mësimor të specializuar në disiplinën sportive përkatëse;
-ç) bazën materiale dhe didaktike për zhvillimin e disiplinës sportive;
-d) numrin e nxënësve që do të përfshihen dhe ndarjen e tyre sipas disiplinave sportive.
-4. Krijimi i klasës së profilizuar në sport, referuar elementeve bazë teknike dhe fizike të nxënësve, bëhet pas përfundimit të arsimit fillor (AF), mbështetur në vullnetarizmin e nxënësve dhe të personave që ushtrojnë përgjegjësinë prindërore.
-5. Krijimi i klasës së re të profilizuar në sport nis nga klasa VI, për vitin shkollor aktual, për të vijuar në vitet në vazhdim deri në klasën IX.
-6. Klasa e profilizuar në sport krijohet:
-a) në një disiplinë të vetme sportive;
-b) në dy disiplina sportive të kombinuara (djemtë në një disiplinë, vajzat në disiplinën tjetër).
-7. Drejtorët e shkollave 9-vjeçare hartojnë ngarkesën mësimore për mësuesit e edukimit fizik, referuar kuadrit ligjor në fuqi.
+Hapja e klasave të arsimit të orientuar artistik dhe sportiv në arsimin bazë
+Në shkollat e arsimit bazë krijohen klasa të arsimit të orientuar artistik/sportiv, sipas rregullave dhe procedurave të përcaktuara me udhëzim të ministrisë përgjegjëse për arsimin.
 KREU IV
 ARSIMI I MESËM I LARTË
 Neni 12
@@ -191,7 +179,7 @@ Kurrikula e gjimnazit
 2. Zbatimi i kurrikulës në gjimnaz mbështetet në dokumentet kurrikulare dhe në udhëzimet e ministrit.
 3. Kurrikula e gjimnazit është e organizuar në kurrikul bërthamë, kurrikul me zgjedhje dhe kurrikul në bazë shkolle.
 4. Kurrikula bërthamë është e detyruar dhe e përbashkët për të gjithë nxënësit.
-5. Kurrikula me zgjedhje fokusohet në zgjedhjen e lëndëve/moduleve që nuk zhvillohen në kurrikulën bërthamë.
+5. Kurrikula në bazë shkolle fokusohet në zgjedhjen e lëndëve/moduleve që zhvillojnë prirjet dhe interesat e nxënësve, të cilat nuk zhvillohen në kurrikulën bërthamë.
 6. Kurrikula në bazë shkolle nuk është e detyruar për nxënësin; ajo i mundëson nxënësit të zhvillojë aftësitë nëpërmjet moduleve kurrikulare, projekteve ndërkurrikulare apo veprimtarive të tjera shkollore.
 7. Shkolla ka detyrimin t’i sigurojë secilit nxënës:
 a) kurrikulën bërthamë të plotë;
@@ -210,25 +198,17 @@ Planifikimi i mësimdhënies në gjimnaz
 1. Planifikimi i mësimdhënies në gjimnaz përfshin: planifikimin lëndor vjetor të ndarë në periudha, planifikimin për secilën periudhë dhe planifikimin ditor.
 2. Në fillim të vitit shkollor, mësuesi dorëzon në drejtorinë e shkollës planin vjetor të lëndës, i cili është një kornizë e ndarjes së përgjithshme të përmbajtjes lëndore dhe të orëve mësimore, si edhe planin e periudhës së parë. Planet e periudhës së dytë dhe të tretë dorëzohen para fillimit të secilës periudhë.
 3. Gjatë vitit, sipas rrethanave që i krijohen, mësuesi mund të bëjë ndryshime në planin fillestar të periudhës, ndryshime të cilat miratohen nga drejtori i IA-së.
+4. Plani vjetor dhe planet e periudhës janë dokumente zyrtare dhe objekt monitorimi/vlerësimi.
 KREU VI
 VLERËSIMI I NXËNËSIT NË KLASAT I-XII
 Neni 19
 Vlerësimi i nxënësit
 1. Vlerësimi është procesi gjatë të cilit mblidhen të dhëna dhe gjykohet për vlerën e arritjes së rezultateve të të nxënit, duke u bazuar në nivelet e arritjes.
-2. Qëllimi kryesor i vlerësimit është të mbështesë të nxënit dhe përparimin e nxënësit.
+2. Qëllimi kryesor i vlerësimit të arritjeve është nxitja e nxënësve për të përmirësuar rezultatet dhe nocionet e të nxënit.
 Neni 20
 Vlerësimi i nxënësit në arsimin parauniversitar
-1. Vlerësimi i nxënësit në klasat I-III bëhet me përshkrim.
-2. Vlerësimi i nxënësit për arritjen e kompetencave të fushave/lëndëve të të nxënit në klasat IV-XII bëhet me notë dhe realizohet me:
-a) vlerësimin e vazhduar;
-b) vlerësimin me test ose me detyrë përmbledhëse;
-c) vlerësimin e portofolit të nxënësit.
-3. Vlerësimi përfundimtar kryhet në përfundim të vitit shkollor me notë, referuar niveleve të arritjes.
-4. Nota përfundimtare përfshin notat vjetore si më poshtë:
-a) notën vjetore të vlerësimit të vazhduar për tri periudhat;
-b) notën vjetore të vlerësimit me test ose detyrë përmbledhëse për tri periudhat;
-c) notën vjetore të vlerësimit të portofolit të nxënësit për tri periudhat.
-5. Mësuesi mban të dhëna gjatë gjithë vitit shkollor për vlerësimin e nxënësit. Vlerësimi i vazhduar, testet/detyrat përmbledhëse dhe portofoli i nxënësit ruhen në shkollë dhe janë objekt monitorimi në çdo periudhë të vitit shkollor.
+1. Vlerësimi i nxënësve bëhet sipas parashikimeve të udhëzimit përkatës të ministrisë përgjegjëse për arsimin, për vlerësimin e nxënësve në arsimin parauniversitar.
+2. Mësuesi mban të dhëna gjatë gjithë vitit shkollor për vlerësimin e nxënësit, sipas akteve ligjore në fuqi. Vlerësimi i vazhduar, testet/detyrat përmbledhëse dhe projekti kurrikular i nxënësit ruhen në shkollë dhe janë objekt monitorimi/vlerësimi në çdo periudhë të vitit shkollor.
 Neni 21
 Testimet me short për të evidentuar arritjet e nxënësve
 1. Drejtoria e IA-së organizon testime me short për të gjitha lëndët ose fushat e të nxënit dhe të gjitha klasat, për të evidentuar arritjet e nxënësve në një periudhë të caktuar.
@@ -254,7 +234,7 @@ KREU VII
 INSTITUCIONET ARSIMORE
 Neni 24
 Organizimi i mësimit në shkollë
-1. Veprimtaria në institucionet arsimore (me kohë të plotë apo me kohë të pjesshme) është 5 (pesë) ditë në javë, nga e hëna deri të premten.
+1. Veprimtaria në institucionet arsimore me kohë të plotë është 5 (pesë) ditë në javë dhe në ato me kohë të pjesshme 3 (tri) ditë në javë, nga e hëna deri të premten.
 2. Drejtori i IA-së publike informon menjëherë ZVAP-në për çdo rënie/rritje të numrit të nxënësve që ndikon në mbylljen/hapjen e klasave/shkollave vartëse.
 3. Me propozim të drejtorit të IA-së dhe miratim të titullarit të ZVAP-së, shkolla funksionon me dy ndërresa. Mësimi, si rregull, në të gjitha shkollat e ndërresës së parë fillon në orën 8.00. Për ndërresën e dytë dhe për arsimin me kohë të pjesshme, ora e fillimit të mësimit miratohet nga titullari i ZVAP-së.
 4. Drejtori i IA-së cakton mësues ditor për të lehtësuar mbarëvajtjen e shkollës. Detyrat e mësuesit ditor përshkruhen në rregulloren e brendshme të shkollës.
@@ -270,8 +250,8 @@ Neni 26
 Veprimtaritë plotësuese dhe ato jashtëshkollore
 1. Veprimtaritë plotësuese dhe ato jashtëshkollore planifikohen nga drejtoria e IA-së në bashkëpunim me këshillin e mësuesve, bazuar në udhëzimin e vitit shkollor, si dhe me miratim të ZVAP-së.
 2. Veprimtaritë plotësuese dhe ato jashtëshkollore përfshijnë:
-a) veprimtari social-kulturore, artistike, sportive, letrare, shkencore, mjedisore;
-b) ekskursione, vizita dhe konkurse që plotësojnë e thellojnë kurrikulën;
+a) veprimtari social-kulturore, artistike, sportive, letrare, shkencore, mjedisore, edukim për karrierën;
+b) ekskursione, vizita, konkurse dhe klube, që plotësojnë dhe zgjerojnë njohuritë e kurrikulës;
 c) festime të ditëve të shënuara.
 3. Veprimtaritë plotësuese dhe ato jashtëshkollore, që zhvillohen në nivel IA-je, pasqyrohen në një dokument ku shënohen synimi i veprimtarisë e pjesëmarrja dhe përshkruhet përmbledhtas ecuria e saj.
 4. Veprimtaritë plotësuese, ato jashtëshkollore dhe veprimtari të tjera, si olimpiadat, zhvillohen pa cenuar orët mësimore të parashikuara në planin mësimor.
@@ -311,43 +291,33 @@ b) mësuesve në rastet kur kërkohet prej tyre, ose kur drejtori i IA-së e shi
 3. Shërbimi psikosocial mbështet personat që ushtrojnë përgjegjësinë prindërore të nxënësve dhe bashkëpunon me ta për zgjidhjen e situatave dhe në raste nevoje të kërkuara prej tyre.
 Neni 30
 Njësia e Shërbimit Psikosocial
-1. ZVAP-ja organizon ngritjen e Njësisë së Shërbimit Psikosocial (NJSHPS) sipas urdhrit për shërbimin psikosocial të miratuar nga ministri.
-2. NJSHPS-ja përbëhet nga psikologë dhe punonjës socialë.
-3. Numri i psikologëve dhe punonjësve socialë në NjShPS vendoset sipas urdhrit të ministrit për normat e punonjësve psikosocialë në IA-të publike.
+1. Njësia e shërbimit psikosocial (NJSHPS) ngrihet sipas urdhrit për shërbimin psikosocial të miratuar nga ministria përgjegjëse për arsimin.
+2. Detyrat, funksionet dhe përgjegjësitë e psikologëve dhe punonjësve socialë përcaktohen në udhëzuesin për praktikën e punës të shërbimit psikosocial shkollor, miratuar nga ministria përgjegjëse për arsimin.
+3. Numri i psikologëve dhe punonjësve socialë në NJSHPS vendoset sipas urdhrit të ministrisë përgjegjëse për arsimin.
 4. Drejtuesi i NJSHPS-së kryen këto detyra:
-a) harton planin vjetor të njësisë, i cili miratohet nga titullari i ZVAP-së;
-b) organizon mbledhjet mujore të njësisë;
-c) bashkëpunon me NJMF për të trajtuar çështje të abuzimit dhe mbrojtjes së fëmijëve;
-ç) komunikon me drejtorin e IA-së dhe atë të ZVAP-së për rastet e fëmijëve në rrezik dhe me vështirësi sociale dhe ekonomike;
-d) njofton me shkrim drejtorin e ZVAP-së dhe atë të IA-së për çdo rast të provuar apo të dyshuar për abuzimin e nxënës-it/-ve;
-dh) mbikëqyr veprimtaritë e psikologëve/punonjësve socialë të NJSHPS-së përkatëse;
-e) takon rregullisht punonjës arsimorë, nxënës që përfitojnë nga shërbimi i psikologëve dhe i punonjësve socialë, si dhe personat që ushtrojnë përgjegjësinë prindërore të nxënësve;
-ë) harton raporte gjashtëmujore për titullarin e ZVAP-së, ku përshkruan veprimtarinë e NJSHPS-së dhe propozon përmirësime të shërbimit psikosocial.
-5. Shërbimi psikosocial mbledh dhe përpunon të dhëna, për:
-a) ndryshime të sjelljes të nxënësve;
-b) nivelin social dhe ekonomik të nxënësve;
-c) marrëdhëniet me shokët;
-ç) marrëdhëniet me mësuesit;
-d) komunikimin dhe marrëdhëniet me personat që ushtrojnë përgjegjësinë prindërore të nxënësve;
-dh) dukurinë e bulizmit në IA;
-e) mënyrën se si e kalojnë nxënësit kohën e lirë;
-ë) varësinë e nxënësve ndaj internetit;
-f) varësinë ndaj pirjes së duhanit, alkoolit dhe drogave etj.
-6. Punonjësi psikosocial ka për detyrë të njoftojë mësuesin kujdestar të klasës së nxënësit dhe drejtuesit e IA-së për të dhënat që grumbullon për nxënësin.
-7. Të dhënat për nxënësin bëhen pjesë e raporteve të paraqitura në ZVAP.
+a) harton planin vjetor të njësisë, i cili miratohet nga titullari i DRAP-it;
+b) organizon mbledhjet e njësisë;
+c) bashkëpunon me njësinë e mbrojtjes së fëmijëve, për të trajtuar çështje të abuzimit dhe të mbrojtjes së fëmijëve;
+ç) komunikon rregullisht me drejtorin e DRAP-it, të ZVAP-së, supervizorin e NJSHPS-ës dhe me koordinatorin në DRAP, për çdo problematikë të këtij shërbimi, për një monitorim sa më të mirë të punës dhe për rritjen e cilësisë së shërbimit të ofruar;
+d) komunikon me drejtorin e DRAP-it dhe të ZVAP-së për rastet e fëmijëve në rrezik dhe me vështirësi sociale dhe ekonomike;
+dh) njofton me shkrim drejtorin e DRAP-it dhe të ZVAP-së për çdo rast të provuar apo të dyshuar për abuzimin e nxënësit/ve;
+e) mbikëqyr dhe mbështet veprimtaritë e psikologëve/punonjësve socialë të NJSHPS-së përkatëse në bashkëpunim me supervizoret sipas nevojës dhe numrit të punonjësve të njësisë;
+ë) harton raporte vjetore për çdo vit shkollor për titullarin e DRAP, ku përshkruan veprimtarinë e NJSHPS-së dhe propozon përmirësime të shërbimit psikosocial.
 Neni 31
 Detyrat kryesore të psikologut dhe punonjësit social në institucionin arsimor
 Psikologu/punonjësi social ka këto detyra kryesore në institucionin arsimor:
 1. Identifikon e vlerëson, sa më herët, në bashkëpunim me mësuesit dhe personat që ushtrojnë përgjegjësinë prindërore, nxënësit me probleme të sjelljes ose me vështirësi në të nxënë dhe harton e zbaton për këta nxënës plane individuale parandaluese ose rehabilituese;
 2. Ndihmon punonjësit arsimorë, personat që ushtrojnë përgjegjësinë prindërore dhe nxënësit në parandalimin ose eliminimin e abuzimeve të punonjësve arsimorë ndaj nxënësve, të nxënësve ndaj nxënësve, të nxënësve ndaj punonjësve arsimorë dhe të abuzimeve të vetë nxënësve me duhan, alkool, drogë etj.;
 3. Informon punonjësit e IA-ve për zhvillimet e moshës tipike të nxënësve dhe problemet tipike që hasin nxënësit gjatë të mësuarit dhe të nxënit;
-4. Ndihmon mësuesit kujdestarë dhe mësuesit lëndorë për integrimin e fëmijëve me aftësi të kufizuara në klasat e IA-ve.
+4. Ndihmon mësuesit kujdestarë, mësuesit lëndorë dhe mësuesit ndihmës, për integrimin e fëmijëve me aftësi të kufizuara në klasat e IA-ve;
 5. Administron dhe interpreton teste psikologjike (nga psikologu);
 6. Plotëson dosjet individuale për rastet e nxënësve që kanë përfituar nga shërbimi psikosocial;
-7. raporton me shkrim për çdo rast të provuar apo të dyshuar për abuzim të nxënësve nga punonjës arsimorë dhe nga personat që ushtrojnë përgjegjësinë prindërore të nxënësit te drejtuesi i NJSHPS dhe te drejtori i IA-së.
+7. Raporton me shkrim për çdo rast të provuar apo të dyshuar për abuzim të nxënësve nga punonjës arsimorë dhe nga personat që ushtrojnë përgjegjësinë prindërore të nxënësit te drejtuesi i NJSHPS dhe te drejtori i IA-së;
+8. Punonjësi i shërbimit psikosocial ofron shërbim në IA për nxënës, mësues dhe prindër për gjatë gjithë kohës kur shtrihet procesi mësimor dhe sa herë që është e nevojshme sipas udhëzimeve të miratuara. Në periudha kur ndërpritet procesi mësimor, punonjësit e shërbimit psikosocial angazhohen në veprimtari nga njësia e shërbimit psikosocial dhe në veprimtari për zhvillimin profesional në mënyrë që të ruhen standardet profesionale;
+9. Punonjësi i shërbimit psikosocial njofton sipas protokolleve të miratuara personat që ushtrojnë përgjegjësitë prindërore. Gjithashtu personat që ushtrojnë përgjegjësitë prindërore i njofton nëpërmjet SMIP individualisht ose në grup për të gjithë nxënësit e klasës, me anë të “Fletores së komunikimit digjital”, për t’i informuar ata, në kohë reale për nxënësit sipas detyrave dhe fushës së përgjegjësisë që mbulojnë.
 Neni 32
 Zhvillimi profesional i psikologëve dhe punonjësve socialë dhe ruajtja e privatësisë
-1. Njësia e Shërbimit Psikosocial realizon zhvillimin e brendshëm profesional, sipas një plani vjetor të miratuar nga titullari i ZVAP-së, dhe zhvillimin e jashtëm profesional sipas akteve nënligjore në fuqi.
+1. Njësia e shërbimit psikosocial realizon zhvillimin e brendshëm profesional, sipas një plani vjetor të miratuar nga titullari i DRAP dhe zhvillimin e jashtëm profesional sipas akteve nënligjore në fuqi.
 2. Testet psikologjike, vlerësimet, këshillimet apo ndërhyrje të tjera me natyrë psikologjike dhe/ose sociale dhe çdo komunikim tjetër i psikologut dhe punonjësit social realizohen pas miratimit të personave që ushtrojnë përgjegjësinë prindërore të nxënësve dhe në përputhje me aktet ligjore e nënligjore në fuqi.
 3. Informacioni për nxënësit dhe familjet e tyre, i marrë për shkak të detyrës nga psikologu/punonjës social, ruhet prej tij në dosje. Dosja është e siguruar nga përdorimi i saj prej personave të paautorizuar.
 4. Dosja e nxënësit, e hartuar nga psikologu/punonjësi social, mund të lexohet vetëm nga personi që ushtron përgjegjësinë prindërore dhe nga nxënësi mbi moshën 16 vjeç.
@@ -373,7 +343,9 @@ Detyrat dhe përgjegjësitë kryesore të oficerit të sigurisë janë:
 15. Harton raporte javore, vjetore dhe të situatës/incidentit, të cilat ia dërgon Zyrës për Koordinimin dhe Monitorimin.
 16. Raporton në mënyrë periodike tek autoritetet përgjegjëse (institucioneve arsimore vendore, ministria përgjegjëse për arsimin), sipas formateve të miratuara të raportimit.
 17. Zbaton parimet etike për ruajtjen e konfidencialitetit të rasteve të veçanta dhe të ndjeshme.
-18. Zhvillon kontrolle fizike të nxënësve ose të mjediseve, vetëm në raste emergjente ose me vendim nga drejtoria e IA-së.
+18. Zhvillon kontrolle fizike të nxënësve ose të mjediseve, sa herë vlerësohet e nevojshme në bashkëpunim me drejtorin e IA-së.
+19. Me miratim të drejtorit të shkollës, akseson sipas rastit kamerat dhe sistemet e sigurisë së institucionit, për të realizuar detyrat e tij funksionale.
+20. Oficeri i sigurisë njofton sipas protokolleve të miratuara personat që ushtrojnë përgjegjësitë prindërore. Gjithashtu personat që ushtrojnë përgjegjësitë prindërore i njofton nëpërmjet SMIP-it individualisht ose në grup për të gjithë nxënësit e klasës, me anë të “Fletores së komunikimit digjital”, për t’i informuar ata, në kohë reale për nxënësit sipas detyrave dhe fushës së përgjegjësisë që mbulojnë.
 KREU IX
 KOMISIONI I ETIKËS DHE SJELLJES NË INSTITUCIONIN ARSIMOR
 Neni 34
@@ -497,11 +469,11 @@ b) për përmbushjen e pëlqimeve të nxënësve për lëndët me zgjedhje.
 5. Drejtori, në bashkëpunim me këshillin e mësuesve, shqyrton rregullisht mbingarkesën e mundshme të nxënësve.
 6. Drejtori merr nisma dhe nxit e mbështet zbatimin e teknologjisë së informacionit dhe komunikimit në administrimin e menaxhimin e institucionit dhe në zhvillimin e kurrikulës.
 7. Drejtori lejon të përdoren nga nxënësit në IA vetëm botime ndihmëse dhe materiale të tjera mësimore, të miratuara nga ministri përgjegjës për arsimin nëpërmjet udhëzimeve të tij.
-8. Institucioni arsimor ka të drejtë të aplikojë në strukturat përkatëse arsimore për pjesëmarrje në kërkimet shkencore dhe eksperimentimet.
+8. Institucioni arsimor ka të drejtë të aplikojë në strukturat përkatëse arsimore për pjesëmarrje në veprimtari shkencore, dhe projekte, si dhe të bashkëpunojë me programet evropiane të Erasmus +, për arsimin parauniversitar.
 9. Drejtori nuk ka të drejtë të ngarkojë mësuesit me detyra shtesë, të cilat nuk rrjedhin drejtpërdrejt nga zbatimi i legjislacionit arsimor në fuqi.
 Neni 45
 Aspekte të zhvillimit profesional të mësuesve
-1. Drejtori ka përgjegjësi për hartimin dhe zbatimin e planit vjetor të zhvillimit të brendshëm profesional të punonjësve të IA-së;
+1. Drejtori i shkollës dhe mësuesi koordinator i sigurimit të cilësisë kanë për detyrë të hartojnë Planin e Zhvillimit Profesional tre vjeçar për mësuesit e shkollës dhe vlerësimin individual të nevojave për trajnim për mësuesit, të identifikuara nga monitorimi periodik i kryer dhe nevoja për trajnim për mësuesit, i cili duhet të përcillet përmes SMIP në ZVAP, AKAP dhe ASCAP. Këto institucione duhet të përgatisin kalendarin e trajnimeve për planifikimin e tyre në programin e zhvillimit profesional të mësuesve të hartuar dhe zhvilluar nga ASCAP-ja.
 2. Drejtori nxit dhe kontrollon pjesëmarrjen e mësuesve në rrjetet profesionale.
 3. Drejtori organizon:
 a) përhapjen e përvojave të mësuesve që kanë marrë pjesë në trajnime;
@@ -510,8 +482,9 @@ b) ndihmën profesionale të mësuesve më me përvojë ndaj mësuesve më të r
 a) vëzhgojnë orë mësimore, orë të kujdestarisë, mbledhje të ekipeve lëndore, takime të mësuesve kujdestarë me personat që ushtrojnë përgjegjësinë prindërore të nxënësve dhe veprimtari jashtëkurrikulare;
 b) organizojnë zhvillimin e pyetësorëve me nxënës, persona që ushtrojnë përgjegjësinë prindërore të tyre dhe mësues.
 Neni 46
-Vlerësimi i drejtorit të shkollës nga titullari i ZVAP-së
-Vlerësimi i drejtorit të IA-së, që bëhet në fund të çdo viti shkollor nga titullari i ZVAP-së, bazohet në standardet e drejtorit të shkollës, të miratuara nga ministri përgjegjës për arsimin, dhe në performancën e IA-së. Vlerësimi i drejtorit të IA-së është pjesë e dosjes së drejtorit.
+Vlerësimi i punës së drejtorit të institucionit arsimor
+1. Vlerësimi i drejtorit të IA-së, bëhet nga ZVAP përmes strukturave në fund të çdo viti shkollor dhe dërgohet në DRAP deri në 15 gusht të vitit korrent. Vlerësimi është pjesë e dosjes së drejtorit.
+2. Vlerësimi bazohet në standardet e performancës së drejtorit të shkollës të miratuara nga ministria përgjegjëse për arsimin, në performancën e IA-së, si dhe në vlerësimin vjetor të Këshillit të Prindërve përmes një pyetësori standard në SMIP, i cili plotësohet në mënyrë digjitale nga anëtarët e Këshillit të Prindërve çdo muaj korrik të vitit korrent.
 Neni 47
 Ndarja e detyrave në drejtorinë e institucionit arsimor
 1. Anëtarë të drejtorisë janë drejtori, nëndrejtorët (nëse ka) dhe kryemësuesit e shkollave vartëse (nëse ka).
@@ -526,17 +499,13 @@ Për këto takime mbahet procesverbal i nënshkruar nga drejtori. Drejtoria e IA
 6. Drejtoria e IA-së kryen testime me short.
 Neni 48
 Sekretari i institucionit arsimor
-1. Sekretari i IA-së, ose personi i ngarkuar me këtë funksion, ka këto detyra:
+1. Sekretari i IA-së, kryen këto detyra:
 a) sistemon dhe mirëmban arkivin e IA-së;
-b) plotëson amzën, indeksin e saj dhe regjistrin e veçantë në përputhje me udhëzimet që jepen në faqen e parë të tyre dhe mban përgjegjësi për çdo shkelje;
-c) përgatit dokumentet që lëshon shkolla për nxënësit ose ish-nxënësit e saj;
-ç) vë në dijeni drejtorin e IA-së kur bën gabime në dokumentacion dhe ndreqja e tyre bëhet vetëm në praninë e drejtorit dhe të dy mësuesve, duke nënshkruar të gjithë një procesverbal ku shpjegohet korrigjimi;
-d) merr dhe dërgon postën zyrtare (sekretari);
-dh) përgatit, sipas kuadrit ligjor në fuqi, statistikat që dërgohen në ZVAP dhe i ruan ato;
-e) për çdo regjistrim të ri të nxënësve siguron dhe ruan dokumentacionin e kërkuar sipas akteve nënligjore në fuqi;
-ë) përgatit procedurat e transferimit të nxënësve;
-f) administron regjistrat e klasave që janë në përdorim të përditshëm;
-g) kryen çdo detyrë tjetër të ngarkuar nga drejtori i IA-së.
+b) përgatit dokumentet që lëshon shkolla për nxënësit ose ish-nxënësit e saj;
+c) vë në dijeni drejtorin e IA-së kur bën gabime në dokumentacion dhe ndreqja e tyre bëhet vetëm në praninë e drejtorit dhe të dy mësuesve, duke nënshkruar të gjithë një procesverbal ku shpjegohet korrigjimi;
+ç) merr dhe dërgon postën zyrtare;
+d) asiston drejtorin e IA-së në përgatitjen e statistikave zyrtare sipas legjislacionit në fuqi;
+dh) kryen çdo detyrë tjetër të ngarkuar nga drejtori i IA-së, që lidhet me veprimtarinë e shkollës.
 KREU XI
 PLANE TË INSTITUCIONIT ARSIMOR,
 VLERËSIMI I BRENDSHËM, RAPORTI VJETOR
@@ -644,7 +613,7 @@ dh) të kërkojë të shqyrtohen në drejtorinë, këshillin e mësuesve, këshi
 e) të kryejë me përgjegjësi detyra që i ngarkohen në provimet kombëtare dhe në testimet ndërkombëtare.
 Neni 57
 Punonjësi arsimor, psikologu, punonjësi social, oficeri i sigurisë dhe sekretari
-1. Punonjësi arsimor, psikologu, punonjësi social, oficeri i sigurisë dhe sekretari respektojnë Kodin e Etikës së Mësuesit.
+1. Punonjësit arsimor, psikologu, punonjësi social, oficeri i sigurisë dhe sekretari respektojnë rregulloren e IA-së dhe kodin përkatës të etikës.
 2. Në veçanti, punonjësi arsimor, psikologu, punonjësi social, oficeri i sigurisë dhe sekretari e ka të ndaluar:
 a) të ushtrojë dhunë fizike ose psikologjike ndaj nxënësve ose kolegëve;
 b) ta largojë nxënësin nga klasa dhe shkolla për çështje a nevoja vetjake të tij;
@@ -1056,12 +1025,13 @@ b) të shprehë pikëpamjet dhe të organizojë personat që ushtrojnë përgjeg
 c) të thërrasë mbledhjen e përgjithshme të personave që ushtrojnë përgjegjësinë prindërore.
 3. Këshilli i prindërve të IA-së ka për detyrë:
 a) të ndërmarrë nisma për ndihmesën e personave që ushtrojnë përgjegjësinë prindërore për mbarëvajtjen e institucionit dhe t’i realizojë ato në bashkëpunim me drejtorinë e institucionit;
-b) të organizojë takime të përbashkëta me këshillat e prindërve të klasave.
+b) të organizojë takime të përbashkëta me këshillat e prindërve të klasave;
+c) Të vlerësojë në fund të çdo viti mësimor, performancën e drejtorit të shkollës.
 4. Këshilli i prindërve të institucionit përbëhet nga persona që ushtrojnë përgjegjësinë prindërore të zgjedhur nga këshillat e klasave. Numri i personave që ushtrojnë përgjegjësinë prindërore në këshillin e prindërve, përcaktohet në rregulloren e brendshme të IA-së, nga gjashtë deri në nëntë anëtarë.
 5. Në mbledhjen e parë të këshillit të prindërve zgjidhet kryetari i tij me shumicë të thjeshtë votash të anëtarëve të këshillit ndërmjet kandidatëve për këtë detyrë.
 6. Kryetari dhe anëtarët e këshillit të prindërve nuk duhet të jenë në konflikt interesi me drejtorin e institucionit, nuk duhet të kenë precedentë penalë dhe të mos jenë në forumet drejtuese të partive politike.
 7. Në mbledhjen e parë përcaktohen detyrat e anëtarëve të këshillit të prindërve.
-8. Zgjedhjet për këshillin e prindërve të IA-së dhe për kryetarin e tij zhvillohen çdo vit në fillim të vitit shkollor.
+8. Zgjedhjet për këshillin e prindërve të IA-së dhe për kryetarin e tij zhvillohen në fillim të vitit shkollor dhe janë me mandat dyvjeçar. Mandati i anëtarit dhe kryetarit të këshillit të prindërve ndërpritet, kur fëmija/ët e tij nuk janë më nxënës të institucionit arsimor.
 9. Në këshillin pasues të prindërve të institucionit mund të zgjidhen kryetari dhe anëtarë të këshillit të vitit paraardhës.
 Neni 90
 Mbledhjet dhe vendimet e këshillit të prindërve të institucionit arsimor
