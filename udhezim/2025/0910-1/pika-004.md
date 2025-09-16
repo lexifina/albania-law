@@ -1,0 +1,1 @@
+4. Në rastet kur ka ndryshime të çmimit të zërave, mbi bazën e të cilave llogaritet kostoja mesatare e ndërtimit në manualin e integruar të çmimeve të ndërtimit, kostoja e ndërtimit, sipas manualit të integruar të çmimeve, e gjeneruar nëpërmjet portalit qeveritar “e-Albania”, prevalon mbi koston mesatare të ndërtimit të përcaktuar në këtë udhëzim.

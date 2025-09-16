@@ -1,0 +1,1 @@
+1. Kostoja mesatare e ndërtimit të banesave nga Enti Kombëtar i Banesave, në shkallë republike, për vitin 2025, të jetë 56 491 (pesëdhjetë e gjashtë mijë e katërqind e nëntëdhjetë e një) lek/m² për sipërfaqe shfrytëzimi.
