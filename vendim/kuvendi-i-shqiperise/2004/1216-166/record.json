@@ -1,0 +1,27 @@
+{
+  "qbz_id": 3280,
+  "title": "PËR MIRATIMIN E RREGULLORES SË KUVENDIT TË REPUBLIKËS SË SHQIPËRISË",
+  "type": "Vendim",
+  "number": "166",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2004-12-16",
+  "version_no": 1,
+  "qbz_version_id": 333,
+  "in_force": "2025-09-16",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2025-09-16",
+  "changed_by_qbz_id": 31126,
+  "changed_by_number": "57",
+  "changed_by_title": "Për disa ndryshime në vendimin e Kuvendit nr. 166, datë 16.12.2004, \"Për miratimin e rregullores së Kuvendit të Shqipërisë\", të ndryshuar",
+  "source": "https://qbz.gov.al/files/301d44c2ed62d79f0493a55ed87488921e19c80f1f01f72a8ca2ed6f29c94375.docx",
+  "source_sha256": "301d44c2ed62d79f0493a55ed87488921e19c80f1f01f72a8ca2ed6f29c94375",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3280",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/3280/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
