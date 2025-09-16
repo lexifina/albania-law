@@ -1,0 +1,1 @@
+2. Autorizohet Korporata e Investimeve Shqiptare për marrjen e masave me qëllim rivitalizimin e godinës së Pallatit të Kongreseve si dhe zhvillimin e pronës sipas shtojcës nr. 2, bashkëlidhur këtij vendimi, në funksion të miradministrimit të godinës së Pallatit të Kongreseve dhe të realizimit të projektit të investimit.

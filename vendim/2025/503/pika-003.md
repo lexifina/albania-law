@@ -1,0 +1,1 @@
+3. Korporata e Investimeve Shqiptare, vetë apo nëpërmjet entiteteve të krijuara prej saj, të zhvillojë pronat e përcaktuara në shtojcat nr. 1 dhe nr. 2, bashkëlidhur këtij vendimi, në funksion të realizimit të projektit të investimit, i cili ka si qëllim, ndër të tjera, përmbushjen e interesit publik.
