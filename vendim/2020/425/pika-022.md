@@ -1,4 +1,4 @@
-22. Oferta fituese është oferta e vlefshme e kualifikuar me vlerën më të ulët ekonomike. Në rastin e procedurave të konkurrimit për përzgjedhjen e subjekteve të pajisura me licencë për projektim, kriteri i përcaktimit të ofertës fituese është oferta ekonomikisht më e favorshme.
+22. Oferta fituese përcaktohet sipas çmimit më të ulët ose sipas konceptit “oferta më e favorshme”, duke u bazuar në kombinimin e elementeve teknike dhe ekonomike. Për vlerësimin e propozimeve teknike dhe ekonomike përdoren kritere dhe metoda të përcaktuara në dokumentet standarde të konkurrimit publik.
 22/1. Pas hapjes së ofertave, Komisioni mund të anulojë procedurën, në rastet kur:
 a) nuk është paraqitur asnjë ofertë;
 b) nuk është kualifikuar asnjë ofertë e vlefshme;
