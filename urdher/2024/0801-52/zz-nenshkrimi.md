@@ -1,3 +1,0 @@
-# Nënshkrimi
-KRYETARE
-Elisa Spiropali
