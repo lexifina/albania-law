@@ -1,0 +1,1 @@
+1. Objekti i këtij udhëzimi është përcaktimi i rregullave për ndalimin, përjashtimet, përgjegjësitë dhe masat në lidhje me përdorimin e telefonit celular dhe pajisjeve të ndërlidhura me të në institucionet arsimore parauniversitare.
