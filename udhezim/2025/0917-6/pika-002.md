@@ -1,0 +1,1 @@
+2. Tarifat për dhënien në përdorim me qëllim rijetëzimi të pasurive kulturore të paluajtshme për aktivitete kulturore caktohen sipas shtojcës 2 që i bashkëlidhet dhe është pjesë përbërëse e këtij udhëzimi.

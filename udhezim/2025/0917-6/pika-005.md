@@ -1,0 +1,1 @@
+5. Çdo akt tjetër nënligjor që përcakton tarifa të përdorimit të pasurive kulturore në administrim të ministrisë përgjegjëse për trashëgiminë kulturore, me hyrjen në fuqi të këtij udhëzimi, shfuqizohet.
