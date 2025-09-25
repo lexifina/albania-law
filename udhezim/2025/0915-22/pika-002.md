@@ -1,0 +1,1 @@
+2. Çdo propozim për projekt investimesh publike, që ka vlerë të plotë brenda kufijve financiarë të përcaktuar me udhëzim të ministrit të Financave, duhet të shoqërohet me studimin e thjeshtuar të fizibilitetit, i cili përgatitet sipas shtojcës nr. 2 bashkëlidhur këtij udhëzimi, përpara procesit të buxhetimit.

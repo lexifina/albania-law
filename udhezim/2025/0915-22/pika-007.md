@@ -1,0 +1,1 @@
+7. Dokumenti i Studimit të Plotë të Fizibilitetit, si dhe dokumenti i Studimit të Thjeshtuar të Fizibilitetit përgatiten nga institucioni propozues me burime të brendshme ose nëpërmjet kontraktimit të subjekteve private të licencuara apo enteve publike dhe/ose akademike të specializuara.

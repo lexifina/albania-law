@@ -1,0 +1,1 @@
+1. Çdo propozim për projekt investimesh publike, që ka vlerë të plotë mbi kufirin e përcaktuar me udhëzim të ministrit të Financave, për t’u përfshirë në Listën Unike të Projekteve me Rëndësi Kombëtare, duhet të shoqërohet me studimin e plotë të fizibilitetit, i cili përgatitet sipas shtojcës nr. 1 bashkëlidhur këtij udhëzimi.

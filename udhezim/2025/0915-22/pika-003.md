@@ -1,0 +1,1 @@
+3. Cilësia e konceptimit dhe e përmbajtjes së dokumentit të Studimit të Plotë të Fizibilitetit dhe Studimit të Thjeshtuar të Fizibilitetit të projektit është përgjegjësia përfundimtare e propozuesve të projektit.

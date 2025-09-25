@@ -1,0 +1,1 @@
+6. Bazuar në kërkesat specifike të projekteve, apo kërkesat e donatorëve dhe financuesve ndërkombëtarë, institucionet propozuese mund të përfshijnë seksione shtesë në Studimet e Fizibilitetit për të adresuar aspektet specifike të kërkuara.
