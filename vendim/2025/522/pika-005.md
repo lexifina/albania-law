@@ -1,0 +1,1 @@
+5. Ministri i Shtetit për Administratën Publike dhe Antikorrupsionin është përgjegjës për përmbushjen e parimeve të qeverisjes së mirë dhe bashkëdrejtues i Komitetit Shumëpalësh të Partneritetit për Qeverisje të Hapur.
