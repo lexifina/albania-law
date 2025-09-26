@@ -1,0 +1,1 @@
+3. Fushat e përgjegjësisë shtetërore të Ministrisë së Drejtësisë dhe kompetencat për realizimin e tyre parashikohen në nenet 5 dhe 6, të ligjit nr. 8678, datë 14.5.2001, “Për organizimin dhe funksionimin e Ministrisë së Drejtësisë”, të ndryshuar.
