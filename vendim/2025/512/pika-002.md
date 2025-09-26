@@ -1,0 +1,5 @@
+2. Ministria e Turizmit, Kulturës dhe Sportit, në përputhje me kuadrin ligjor në fuqi, drejtimet kryesore të politikës së përgjithshme shtetërore dhe me programin e Këshillit të Ministrave, ushtron veprimtarinë e saj në këto fusha përgjegjësie shtetërore:
+a) harton dhe zbaton politikat për turizmin;
+b) harton dhe zbaton politikat e qeverisë në fushën e kulturës dhe trashëgimisë kulturore, materiale dhe jomateriale, duke përfshirë ruajtjen dhe promovimin e kulturës së shkruar, nxitjen e krijimtarisë artistike dhe industrive krijuese, zhvillimin e edukimit kulturor, mbrojtjen dhe rijetësimin e vlerave kulturore, si dhe rritjen e dialogut e të shkëmbimit kulturor në kuadër të integrimit evropian dhe ndërkombëtar, në përputhje me programin e qeverisë së Republikës së Shqipërisë;
+c) harton, programon, zhvillon dhe bashkërendon punën për politikat kombëtare në fushën e sportit, harton politikat mbrojtëse e promovuese, si dhe krijon hapësirat e nevojshme për zhvillimin dhe përmirësimin e sportit shqiptar.
+ç) harton dhe zbaton politika që synojnë mbrojtjen e të drejtave të të rinjve dhe garantimin e pjesëmarrjes të të rinjve në jetën sociale.

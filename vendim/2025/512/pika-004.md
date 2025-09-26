@@ -1,0 +1,1 @@
+4. Vendimet e Këshillit të Ministrave nr. 112, datë 2.3.2022, “Për përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Turizmit dhe Mjedisit”, dhe nr. 524, datë 22.9.2021, “Për përcaktimin e fushës së përgjegjësisë shtetërore të ministrit të Shtetit për Rininë dhe Fëmijët”, shfuqizohen.
