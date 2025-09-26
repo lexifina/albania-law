@@ -1,1 +1,0 @@
-4. Vendimet e Këshillit të Ministrave nr. 500, datë 13.9.2017, “Për përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë për Evropën dhe Punët e Jashtme”, dhe nr. 510, datë 13.9.2017, “Për përcaktimin e fushës së përgjegjësisë shtetërore të ministrit të Shtetit për Diasporën”, shfuqizohen.
