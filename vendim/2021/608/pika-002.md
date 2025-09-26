@@ -1,1 +1,0 @@
-2. Ministria e Bujqësisë dhe Zhvillimit Rural ka si mision hartimin e zbatimin e politikave në fushat e bujqësisë, zhvillimit rural, veterinarisë, ushqimit dhe sigurisë ushqimore, peshkimit, akuakulturës, pyjeve drufrutorë.
