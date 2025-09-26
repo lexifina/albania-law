@@ -1,0 +1,1 @@
+5. Ministria e Financave është institucioni i vetëm që bën bashkërendimin e përgjithshëm të veprimtarisë së auditimit të brendshëm nëpërmjet hartimit dhe miratimit të politikave, manualeve, metodave, procedurave, udhëzimeve dhe rregulloreve të auditit të brendshëm.
