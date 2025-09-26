@@ -1,1 +1,0 @@
-4. Ministri i Shtetit për Administratën Publike dhe Antikorrupsionin ka rolin e Koordinatorit Kombëtar kundër Korrupsionit, si dhe ushtron çdo përgjegjësi tjetër shtetërore që i ngarkohet me ligj, me akte të Këshillit të Ministrave dhe nga Kryeministri.
