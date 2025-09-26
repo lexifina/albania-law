@@ -1,1 +1,0 @@
-4. Vendimet e Këshillit të Ministrave nr. 110, datë 2.3.2022, “Për përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Financave dhe Ekonomisë”, dhe nr. 607, datë 20.10.2021, “Për përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Kulturës”, shfuqizohen.
