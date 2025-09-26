@@ -1,0 +1,10 @@
+3. Ministria për Evropën dhe Punët e Jashtme ushtron veprimtarinë e saj në këto fusha përgjegjësie shtetërore:
+a) harton, përpunon, organizon dhe zbaton politikën e jashtme të shtetit shqiptar;
+b) realizon shprehjen dhe mbrojtjen e interesave të shtetit shqiptar, si dhe të drejtat dhe interesat e shtetasve shqiptarë në marrëdhëniet ndërkombëtare me shtetet e tjera dhe organizatat ndërkombëtare;
+c) mbështet Kuvendin e Republikës së Shqipërisë, Këshillin e Ministrave dhe Presidentin e Republikës së Shqipërisë në përcaktimin e qëndrimeve të rëndësishme lidhur me politikën e jashtme;
+ç) bashkërendon veprimtarinë me jashtë të institucioneve qendrore dhe vendore;
+d) mbron të drejtat dhe interesat e shtetasve shqiptarë dhe të drejtat kombëtare të popullsisë shqiptare që jeton jashtë kufijve të Republikës së Shqipërisë, si dhe organizon, harton e zbaton politikën shtetërore në interes të tyre, në bashkëpunimin me ministritë përgjegjëse;
+dh) nxit dhe promovon zhvillimin e komunikimit dhe ndërveprimit të diasporës me shqiptarët jashtë kufijve, për të rritur dhe zhvilluar vlerat dhe traditat më të mira shqiptare;
+e) promovon interesin ekonomik kombëtar në arenën ndërkombëtare, duke ndërmarrë aktivitete zyrtare diplomatike të fokusuara në rritjen e eksporteve, tërheqjen e investimeve të huaja dhe pjesëmarrjen në punë të organizatave ekonomike ndërkombëtare;
+ë) drejton, bashkërendon dhe shpreh qëndrimet politike në emër të shtetit shqiptar për procesin e integrimit të Republikës së Shqipërisë në Bashkimin Evropian, përfshirë nëpërmjet rrjetit të përfaqësive diplomatike pranë Bashkimit Evropian dhe në vendet anëtare të tij. Zhvillon dialogun politik, përfshirë lidhur me politikën e përbashkët të jashtme e të sigurisë, me institucionet e Bashkimit Evropian dhe vendet anëtare, në kuadrin e procesit të negociatave të aderimit dhe të procesit të stabilizimit dhe të asociimit;
+f) ndjek procedurat për lidhjen e akteve ndërkombëtare, si dhe anëtarësimin e Republikës së Shqipërisë në organizatat ndërkombëtare, sipas legjislacionit në fuqi që rregullon marrëveshjet ndërkombëtare në Republikën e Shqipërisë.
