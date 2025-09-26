@@ -1,0 +1,1 @@
+4. Ministri i Ekonomisë dhe Inovacionit ka një rol të përgjithshëm këshillues dhe koordinues në interes të politikave qeveritare për efektshmërinë, performancën e lartë dhe mirëqeverisjen në të gjithë sektorin publik dhe institucionet qeveritare, në kuadër të zhvillimit të sipërmarrjes dhe klimës së biznesit.

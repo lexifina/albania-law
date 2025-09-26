@@ -1,0 +1,1 @@
+5. Vendimet e Këshillit të Ministrave nr. 30, datë 17.1.2024, “Për përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Ekonomisë, Kulturës dhe Inovacionit”, dhe nr. 558, datë 4.10.2023, “Për përcaktimin e fushës së përgjegjësisë shtetërore të ministrit të Shtetit për Sipërmarrjen dhe Klimën e Biznesit”, shfuqizohen.
