@@ -1,1 +1,0 @@
-2. Përgatit dokumente apo mendime vlerësuese për projektaktet e propozuara për shqyrtim në Këshillin e Ministrave. Bashkërendon, nëse nevojitet, veprimtarinë e Këshillit të Ministrave, ministrive apo autoriteteve përgjegjëse shtetërore me institucionet e pavarura.

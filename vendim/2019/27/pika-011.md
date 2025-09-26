@@ -1,1 +1,0 @@
-11. Kujdeset dhe bashkërendon procesin e një kontrolli parlamentar të ndërmarrë nga komisionet e Kuvendit me ministrinë apo autoritetin përgjegjës të administratës shtetërore, i cili është subjekt i kontrollit.
