@@ -1,0 +1,1 @@
+4. Ndjek në mënyrë periodike ecurinë e procesit ligjbërës në Kuvend, nëpërmjet procesverbaleve dhe relacioneve që përpunohen gjatë shqyrtimit të projektligjeve dhe informon Kryeministrin për problematikat që mund të dalin gjatë këtij procesi.
