@@ -1,0 +1,1 @@
+2. Misioni i Ministrisë së Mbrojtjes është hartimi, zbatimi dhe mbikëqyrja e politikave të mbrojtjes kombëtare duke siguruar pavarësinë e vendit, si dhe mbrojtja e tërësisë territoriale dhe rendit kushtetues.
