@@ -1,1 +1,0 @@
-2. Ministri i Shtetit për Rininë dhe Fëmijët harton dhe zbaton politika që synojnë mbrojtjen e të drejtave të të rinjve, garantimin e pjesëmarrjes të të rinjve në jetën sociale dhe koordinimin e çështjeve që kanë të bëjnë me mbrojtjen, përkujdesjen, shëndetin, mirërritjen dhe miredukimin e fëmijëve.

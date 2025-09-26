@@ -1,1 +1,0 @@
-2. Ministria e Turizmit dhe Mjedisit ka si mision hartimin e zbatimin e politikave që synojnë mbrojtjen e mjedisit, mbrojtjen nga ndryshimet klimatike, përdorimin e qëndrueshëm të burimeve natyrore, mbrojtjen e natyrës dhe të biodiversitetit, zhvillimin e qëndrueshëm të pyjeve e kullotave, monitorimin e cilësisë së ujërave, si dhe hartimin e zbatimin e politikave për turizmin.
