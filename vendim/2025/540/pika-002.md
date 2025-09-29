@@ -1,0 +1,1 @@
+2. Indeksimin, sipas përcaktimeve të pikës 1, të këtij vendimi, e përfitojnë edhe pensionet që do të caktohen nga data 1.10.2025 e në vazhdim, me kusht që data e lindjes të së drejtës së pensionit të jetë deri në datën 30.9.2025, përfshirë edhe këtë datë.
