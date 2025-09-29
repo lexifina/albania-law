@@ -1,0 +1,1 @@
+3. Autoriteti Kombëtar i Ushqimit dhe Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve të informojnë të gjitha subjektet importuese të kafshëve të gjalla të llojit dhen dhe dhi, materialit biologjik, leshit dhe lëkurës së kafshëve të llojit dhen dhe dhi për hyrjen në fuqi të këtij urdhri.
