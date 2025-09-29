@@ -1,1 +1,0 @@
-1. Delegimin e kompetencave të Titullarit të Autoritetit Kontraktor, znj. Ledina Beqiraj Agalliu, me detyrë sekretar i përgjithshëm pranë Ministrisë së Turizmit dhe Mjedisit, për të gjitha procedurat e prokurimit publik me fonde buxhetore për Ministrinë e Turizmit dhe Mjedisit.
