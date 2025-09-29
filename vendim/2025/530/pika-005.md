@@ -1,0 +1,1 @@
+5. Shkëmbimi realizohet nëpërmjet kontratës së shkëmbimit, e cila lidhet ndërmjet Drejtorisë së Përgjithshme të Policisë së Shtetit dhe Bashkisë Shkodër, pasi të jetë bërë akomodimi i përshtatshëm i “Njësisë së sigurisë publike Shkodër” dhe krijimi i kushteve të përshtatshme për ushtrimin e funksioneve administrative të kësaj njësie.
