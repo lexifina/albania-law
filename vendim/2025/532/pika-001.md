@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Leje rikonstruksioni të ndërtesës së dëmtuar, pa shtim apo ndryshim volumi, për projektin ’Përforcimi i pallatit 1300’, Bashkia Vlorë”.

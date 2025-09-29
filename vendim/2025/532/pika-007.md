@@ -1,0 +1,1 @@
+7. Pronari i pasurive të paluajtshme, pronë private, pasqyruar në tabelën bashkëlidhur këtij vendimi, kompensohet, për efekt shpronësimi, pasi të ketë paraqitur dokumentacionin justifikues për likuidim, pranë Bashkisë Vlorë.
