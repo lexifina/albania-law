@@ -1,0 +1,1 @@
+4. Shërbimi Përmbarimor Gjyqësor Shtetëror, për shërbimin që kryejnë si Agjent Tatimor, përfitojnë komision, të cilin e marrin në rrugë buxhetore. Ky komision llogaritet në përqindje mbi shumat e arkëtuara të të ardhurave që kanë transferuar në llogari të Drejtorisë Rajonale Tatimore për Buxhetin e Shtetit.
