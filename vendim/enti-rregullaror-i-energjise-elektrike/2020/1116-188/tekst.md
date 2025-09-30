@@ -4,7 +4,7 @@ Nr. 188, datë 16.11.2020
 
 MBI LICENCIMIN E SHOQËRISË “IDI 2005” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “KAMIÇAN”, ME KAPACITET TË INSTALUAR 1860 kW
 
-(ndryshuar me vendimet nr. 259, datë 21.12.2021; nr. 209, datë 27.6.2023; nr. 291, datë 9.10.2023 )
+(Ndryshuar me vendimin nr. 259, datë 21.12.2021; nr. 209, datë 27.6.2023; nr. 291, datë 9.10.2023; nr. 223, datë 30.9.2025)
 
 (i përditësuar)
 
@@ -60,11 +60,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “IDI 2005” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Kamiçan”, me kapacitet të instaluar 1860 kW, për një afat 30-vjeçar.
 
-2. Shoqëria “IDI 2005” sh.p.k. të depozitojë në ERE:
-
-a) Brenda datës 19.9.2032, kontratën e rinovuar “Për dhënien në përdorim të fondit pyjor dhe kullosor publik”, të lidhur me Bashkinë Elbasan, si dhe kontratën e rinovuar “Për dhënien në përdorim të fondit pyjor dhe kullosor publik”, të lidhur me Bashkinë Gramsh, ose çdo dokument tjetër që rregullon pronësinë në territorin ku shtrihet projekti i HEC Kamiçan.
-
-b) Brenda datës 29.6.2028, lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Kamiçan”.
+2. Shoqëria “IDI 2005” sh.p.k. duhet të depozitojë në ERE, brenda datës 29.6.2028, lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Kamiçan”.
 
 3. Mos plotësimi i kushteve të parashikuara në pikën 2, të këtij vendimi, përbën shkak për rishikimin e vendimit nga ERE.
 
