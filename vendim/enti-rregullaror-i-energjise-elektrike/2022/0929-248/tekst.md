@@ -4,6 +4,10 @@ Nr. 248, datë 29.9.2022
 
 MBI LICENCIMIN E SHOQËRISË “EGNATIA HYDROPOWER” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-et: “GOSTIMA 1”, ME KAPACITET TË INSTALUAR 3047 kw; “GOSTIMA 2”, ME KAPACITET TË INSTALUAR 5586 kw; “GOSTIMA 3”, ME KAPACITET TË INSTALUAR 5335 kw; “GOSTIMA 4”, ME KAPACITET TË INSTALUAR 7396 kw; “GOSTIMA 5”, ME KAPACITET TË INSTALUAR 10321 kw, “GOSTIMA 5/1”, ME KAPACITET TË INSTALUAR 450 kw; DHE “GOSTIMA 6”, ME KAPACITET TË INSTALUAR 16819 kw, ME KAPACITET TOTAL TË INSTALUAR 48 864 kw
 
+(Ndryshuar me vendimin nr. 231, datë 30.9.2025)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16 dhe të nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; si dhe neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, dhe nenit 10, pika 3, dhe 11, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave”, në sektorin e energjisë elektrike, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, dhe nenit 19, pika 1, germa “a”, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 29.9.2022, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes me nr. 1625/2 prot., datë 26.9.2022, “Mbi licencimin e shoqërisë ‘Egnatia Hydropower’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et: ‘Gostima 1’, me kapacitet të instaluar 3047 kw; ‘Gostima 2’, me kapacitet të instaluar 5586 kw; ‘Gostima 3’, me kapacitet të instaluar 5335 kw; ‘Gostima 4’, me kapacitet të instaluar 7396, ‘Gostima 5’, me kapacitet të instaluar 10321 kw; ‘Gostima 5/1’, me kapacitet të instaluar 450 kw; dhe ‘Gostima 6’, me kapacitet të instaluar 16819 kw, me kapacitet total të instaluar 48 864 kw”,
 
 konstatoi se: 
@@ -26,7 +30,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Egnatia Hydropower” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et: “Gostima 1”, me kapacitet të instaluar 3047 kw; “Gostima 2”, me kapacitet të instaluar 5586 kw; “Gostima 3”, me kapacitet të instaluar 5335 kw; “Gostima 4”, me kapacitet të instaluar 7396 kw; “Gostima 5”, me kapacitet të instaluar 10321 kw; “Gostima 5/1”, me kapacitet të instaluar 450 kw; dhe “Gostima 6”, me kapacitet të instaluar 16819 kw, me kapacitet total të instaluar 48 864 kw, për një afat 25 vjet e 5 muaj.
 
-2. Shoqëria “Egnatia Hydropower” sh.p.k. të përcjellë në ERE, me afat të rinovuar kontratën e qirasë me Bashkinë Përrenjas, jo më vonë se data e përfundimit të saj (datë 25.3.2031); kontratën e qirasë me Bashkinë Librazhd, jo më vonë se data e përfundimit të saj (datë 7.1.2031); kontratën e qirasë me Bashkinë Elbasan, jo më vonë se data e përfundimit të saj (datë 31.12.2030); ose çdo dokument tjetër që rregullon pronësinë në zonën ku do të shtrihet projekti.
+2. Shfuqizuar.
 
 3. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e bordit të ERE-s.
 
