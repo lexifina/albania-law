@@ -1,9 +1,9 @@
 # Mbi licencimin e shoqërisë “Tren Sun System” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet të instaluar 2 MW
 
-Official source: [Vendim nr. 192, datë 21.7.2022 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/24856).
+Official source: [Vendim nr. 192, datë 21.7.2022 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/24856); [QBZ versions](https://qbz.gov.al/api/v1/acts/24856/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2022-07-21; published 2022-08-22; in force 2022-08-22.
+Status of this text: `official consolidated version 1`, applying from 2025-09-30; after QBZ act 31599 (nr. 235).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
