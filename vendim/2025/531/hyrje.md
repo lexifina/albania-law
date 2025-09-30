@@ -1,0 +1,5 @@
+VENDIM
+Nr. 531, datë 25.9.2025
+PËR PËRMBAJTJEN DHE MËNYRËN E DOKUMENTIMIT TË MASAVE ORGANIZATIVE, TEKNIKE DHE OPERACIONALE TË SIGURISË KIBERNETIKE DHE KATEGORIZIMIN E AFATEVE TË MASAVE KORRIGJUESE NË INFRASTRUKTURAT KRITIKE E TË RËNDËSISHME TË INFORMACIONIT
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 20, pika 5, e 43, pika 5, të ligjit nr. 25/2024, “Për sigurinë kibernetike”, me propozimin e Kryeministrit, Këshilli i Ministrave
+VENDOSI:

@@ -1,0 +1,1 @@
+1. Miratimin e përmbajtjes dhe mënyrës së dokumentimit të masave organizative, teknike dhe operacionale të sigurisë kibernetike në infrastrukturat kritike e të rëndësishme të informacionit dhe të kategorizimit të afateve të masave korrigjuese, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
