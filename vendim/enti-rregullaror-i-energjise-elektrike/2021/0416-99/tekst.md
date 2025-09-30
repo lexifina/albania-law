@@ -6,7 +6,7 @@ MBI LICENCIMIN E SHOQËRISË “GERTI” SHPK, NË VEPRIMTARINË E PRODHIMIT TË
 
 ME KAPACITET TË INSTALUAR 1972 kw
 
-(ndryshuar me vendimin nr. 208, datë 17.8.2022; ndryshuar me vendimin nr. 284, datë 25.9.2023)
+(Ndryshuar me vendimin nr. 208, datë 17.8.2022; ndryshuar me vendimin nr. 284, datë 25.9.2023; nr. 229, datë 30.9.2025)
 
 (i përditësuar)
 
@@ -64,11 +64,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Gerti” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Vardari”, me kapacitet të instaluar 1972 kw, për një afat 30-vjeçar.
 
-2. Shfuqizuar
+2. Shoqëria “Gerti” sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Vardari” brenda datës 23.2.2028.
 
-3. Shoqëria “Gerti” sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor, për prodhim hidroenergjie nga HEC “Vardari”, brenda datës 23.2.2028.
+3. Ky vendim është objekt rishikimi nga ERE, në varësi të plotësimit të kushtit të përcaktuar në pikën 2 të këtij vendimi.
 
-4. Shoqëria “Gerti” sh.p.k. duhet të depozitojë në ERE kontratën e qirasë së rinovuar me Bashkinë Librazhd, jo më vonë se data 7.8.2027, ose çdo dokument tjetër që rregullon pronësinë në zonën ku shtrihet projekti.
+4. Shfuqizuar.
 
 5. Brenda 6 (gjashtë) muajve nga marrja dijeni e këtij vendimi, shoqëria “Gerti” sh.p.k. duhet të dokumentojë në ERE transferimin e kontratës së qirasë “Për dhënien në përdorim të fondit pyjor dhe kullosor publik, ndërtim dhe shfrytëzim HEC-i Vardari”, të lidhur me Bashkinë Librazhd nga “Drini Bulqizë” sh.p.k. tek shoqëria “GERTI” sh.p.k.
 
