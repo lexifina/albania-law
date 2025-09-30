@@ -4,7 +4,7 @@ Nr. 55, datë 22.2.2021
 
 MBI LICENCIMIN E SHOQËRISË ARIS ALBANIA SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE, NGA HEC “GURI I ZI” ME KAPACITET TË INSTALUAR 1719 kw, HEC “DAZNJANË” ME KAPACITET TË INSTALUAR 1518 kw, DHE HEC “SHËLLI” ME KAPACITET TË INSTALUAR 1518 kw, ME KAPACITET TOTAL TË INSTALUAR 4755 kw
 
-`(ndryshuar me vendimin nr. 177, datë 23.8.2021; nr. 170, datë 15.5.2023)   
+`(ndryshuar me vendimin nr. 177, datë 23.8.2021; nr. 170, datë 15.5.2023; nr. 227, datë 30.9.2025)   
 
 (i përditësuar)
 
@@ -54,7 +54,7 @@ VENDOSI:
 
 	c) brenda datës 4.4.2028, lejen e rinovuar për HEC “Shëlli”.”.
 
-3. Shoqëria “Aris Albania” sh.p.k. duhet të depozitojë në ERE kontratat e qirasë të rinovuara me Bashkinë Mat, jo më vonë se data 24.8.2032, ose çdo dokument tjetër që rregullon pronësinë në zonën ku shtrihet projekti.
+3. Shfuqizuar.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
