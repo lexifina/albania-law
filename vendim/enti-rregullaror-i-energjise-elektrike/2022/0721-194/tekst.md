@@ -4,7 +4,7 @@ Nr. 194, datë 21.7.2022
 
 MBI LICENCIMIN E SHOQËRISË “GREEN ENERGY BILISHT” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA CENTRALI FOTOVOLTAIK, ME KAPACITET TË INSTALUAR 2 MW
 
-( ndryshuar me vendimin nr. 240, datë 22.9.2022)
+( Ndryshuar me vendimin nr. 240, datë 22.9.2022; nr. 237, datë 30.9.2025)
 
 (i përditësuar)
 
@@ -50,11 +50,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Green Energy Bilisht” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me vendndodhje në zonën Bitinckë, Bilisht, qarku Korçë, me kapacitet të instaluar 2 MW, për një afat 25-vjeçar.
 
-2. Shoqëria “Green Energy Bilisht” sh.p.k. duhet të përcjellë në ERE jo më vonë se data 11.9.2038 kontratën e qirasë për zonën ku do të shtrihet projekti të rinovuar, ose çdo dokument tjetër që rregullon pronësinë. 
+2. Shfuqizuar. 
 
 3. Shfuqizuar.
 
-4. Ky vendim është objekt rishikimi nga ERE.
+4. Shfuqizuar.
 
 5. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
