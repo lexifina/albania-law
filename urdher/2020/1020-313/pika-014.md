@@ -20,14 +20,14 @@ KREU IV
 PROCEDURAT E KONKURRIMIT
 1. Procedura e konkurrimit, renditja e kandidatëve për psikologë/punonjës socialë, si dhe pranimi në një vend të lirë pune realizohen nëpërmjet konkurrimit të hapur.
 2. Shpallja për vendet e lira të punës në NJSHPS-së bëhet nga drejtoritë rajonale të arsimit parauniversitar dhe publikohet në faqen e tyre zyrtare.
-3. DRAP-i, bazuar në kërkesën e ZVAP-së, bën shpalljen e vendeve të lira të punës për psikologë/punonjës socialë, që krijohen në instititucionet arsimore në juridiksionin e tij.
+3. DRAP-i, bazuar në kërkesën e ZVAP-së, shpall vendin e lirë të punës për psikologë/punonjës socialë, menjëherë sapo vendi i punës del i lirë.
 4. DRAP-i është përgjegjës për të gjitha procedurat e organizimit dhe administrimit të procedurave të konkurrimit, për vendet vakante në njësitë e SHPS-së.
 5. Kandidatët që dëshirojnë të kryejnë profesionin e psikologut/punonjësit social, pas publikimit të vendeve të lira të punës për psikologë/punonjës socialë, dërgojnë me postë në adresën e DRAP-it përkatës, dokumentacionin e kërkuar në shtojcën 1, të këtij urdhri.
 6. Procesi i konkurrimit për psikologë/punonjës socialë në SHPS-në realizohet në tri faza:
 a) vlerësimi i dokumentacionit të paraqitur në dosje;
 b) testimi me shkrim për vlerësimin e njohurive të profesionit dhe për njohuritë mbi legjislacionin që lidhet me ushtrimin e profesionit;
 c) intervista e strukturuar.
-7. Për realizimin procedurave të konkurrimit dhe të shpalljes së listës të kandidatëve fitues, DRAP-i përkatës krijon një komision ad-hoc, i cili përbëhet nga 2 (dy) përfaqësues nga MAS-i, nga 1 (një) përfaqësues nga AKAP-i, 1 (një) përfaqësues nga njëra prej ZVAP-ve, 1 (një) përfaqësues nga DRAP-i.
+7. Për realizimin e procedurave të konkurimit dhe shpalljes së listës së kandidatëve fitues, DRAP-i përkatës krijon një komision ad-hoc, i cili përbëhet nga 1 (një) përfaqësues nga AKAP-ja, 1 (një) përfaqësues nga DRAP dhe 1 (një) përfaqësues nga njëra prej ZVAP-ve.
 7/1. Përjashtimisht, në përbërje të Komisionit ad-hoc, të ngritur sipas pikës 7, të këtij kreu, për shqyrtimin dhe vlerësimin e dosjeve të kandidatëve për psikologë/punonjës socialë të cilët në aplikimin e tyre kanë përzgjedhur përpunësim ZVAP Shkodër, Divjakë, Berat dhe Kolonjë, caktohet edhe nga 1 (një) përfaqësues nga bashkitë e përfshira në projektin pilot në ushtrimin e përgjegjësive në fushën e arsimit parauniversitar.
 Kjo përbërje e Komisionit ad-hoc zbatohet sipas kohëzgjatjes së marrëveshjes së bashkëpunimit ndërmjet MAS-it dhe bashkisë përkatëse.
 8. Komisioni ad-hoc shqyrton dhe vlerëson dosjet e kandidatëve sipas shtojcës 2 të këtij urdhri.
