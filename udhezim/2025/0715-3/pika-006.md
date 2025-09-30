@@ -1,0 +1,1 @@
+6. Tarifa fikse e përllogaritur sipas pikave 1, 2, 3 dhe 4, të këtij kreu, paguhet nga debitori apo personi i barazuar me të pas ekzekutimit tërësor të detyrimit që përmban titulli ekzekutiv ose në proporcion me vlerën e detyrimit të ekzekutuar.
