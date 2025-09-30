@@ -1,0 +1,1 @@
+3. Masa e tarifës së suksesit përcaktohet në marrëveshjen e nënshkruar midis kreditorit dhe subjektit përmbarues, duke respektuar nivelin minimal dhe maksimal të aplikimit të saj, sipas përcaktimit në këtë udhëzim.

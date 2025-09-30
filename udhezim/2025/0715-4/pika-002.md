@@ -1,0 +1,1 @@
+2. Masa e tarifës së suksesit është shprehje e vullnetit të palës kreditore dhe përmbaruesit gjyqësor dhe përcaktohet me marrëveshje të nënshkruar nga të dyja palët, sipas formatit “tip”, miratuar me urdhër të veçantë nga ministri i Drejtësisë.

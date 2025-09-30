@@ -1,0 +1,1 @@
+5. Tarifa e suksesit paguhet në çdo rast nga kreditori, sipas kushteve dhe afateve të përcaktuara në marrëveshjen e nënshkruar nga kreditori dhe zyra përmbarimore. Tarifa e suksesit nuk parapaguhet dhe nuk i ngarkohet debitorit.
