@@ -4,7 +4,7 @@ Nr. 175, datë 4.11.2020
 
 MBI LICENCIMIN E SHOQËRISË “TIRANA ENERGJI” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “MALI”, ME KAPACITET TË INSTALUAR 1490 kw
 
-(ndryshuar me Vendimin nr. 107, datë 31.5.2024; nr. 197, datë 18.9.2024)
+(Ndryshuar me vendimin nr. 107, datë 31.5.2024; nr. 197, datë 18.9.2024; nr. 238, datë 30.9.2025)
 
 (i përditësuar)
 
@@ -52,7 +52,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Tirana Energji” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Mali”, me kapacitet të instaluar 1490 kw, për një afat 30-vjeçar. 
 
-    2. Shoqëria “Tirana Energji” sh.p.k. duhet të depozitojë në ERE informacion mbi rinovimin e kontratës së qirasë me ADZM Tiranë 3 (tre) muaj para nga afati i vlefshmërisë, dhe ta depozitojë atë brenda datës 15.2.2029 ose çdo dokument tjetër që rregullon pronësinë në zonën ku shtrihet projekti.
+    2. Shfuqizuar.
 
    3. Shoqëria “Tirana Energji” sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Mali”, brenda datës 17.7.2029.
 
