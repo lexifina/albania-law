@@ -4,7 +4,7 @@ Nr. 63, datë 8.4.2020
 
 MBI LICENCIMIN E SHOQËRISË “GEGA-G” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “PREVALLI”, ME KAPACITET TË INSTALUAR 1750 kw
 
-(ndryshuar me vendimin e bordit të ERE-s nr. 207, datë 27.6.2023)
+(Ndryshuar me vendimin nr. 207, datë 27.6.2023; nr. 220, datë 30.9.2025)
 
 (i përditësuar)
 
@@ -58,7 +58,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “GEGA-G” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Prevalli”, me kapacitet të instaluar 1750 kw, për një afat 30-vjeçar.
 
-2. Shoqëria “Gega-G” sh.p.k. të depozitojë në ERE kontratën e rinovuar të qirasë të lidhur me Bashkinë Librazhd brenda datës 4.10.2027, ose çdo dokument tjetër që rregullon pronësinë në territorin ku shtrihet projekti i HEC “Prevalli”.
+2. Shfuqizuar.
 
  3. Shoqëria “GEGA-G” sh.p.k. të depozitojë në ERE lejen e rinovuar për përdorim burimi ujor sipërfaqësor për prodhim hidroenergjie nga HEC Prevalli jo më vonë se data 6.10.2027.
 
