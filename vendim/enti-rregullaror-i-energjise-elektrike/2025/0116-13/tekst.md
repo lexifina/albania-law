@@ -6,6 +6,10 @@ MBI LICENCIMIN E SHOQËRISË “SUNNY SIDE ENERGY” SHPK
 
 NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr. 241, datë 30.9.2025)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a”, 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 16.1.2025, mbasi shqyrtoi relacionin me nr. 116 prot., datë 14.1.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘Sunny Side Energy’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -48,11 +52,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Sunny Side Energy” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet prodhues 100 mw, me vendndodhje në zonën kadastrale nr. 1451, fshati Darzezë, Njësia Administrative Dërmenas, Bashkia Fier, qarku Fier, për një afat 30-vjeçar. 
 
-2. Përpara fillimit të ushtrimit të veprimtarisë së prodhimit të energjisë elektrike, shoqëria duhet të depozitojë në ERE, marrëveshjen e nënshkruar me OST sh.a. për miratimin e pikës së lidhjes së centralit me rrjetin e transmetimit.
+2. Shfuqizuar.
 
-3. Shoqëria duhet të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 30.10.2027.
+3. Shfuqizuar.
 
-4. Ky vendim është objekt rishikimi nga ERE, në varësi të plotësimit të kushteve të vendosura në pikat 2 dhe 3. 
+4. Shfuqizuar. 
 
 5. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “Sunny Side Energy” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, OST sh.a. dhe ALPEX sh.a. për vendimin e Bordit të ERE-s.
 
