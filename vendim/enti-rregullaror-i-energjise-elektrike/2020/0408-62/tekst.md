@@ -4,7 +4,7 @@ Nr. 62, datë 8.4.2020
 
 MBI LICENCIMIN E SHOQËRISË “ERA HYDRO” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “STRORI”, ME KAPACITET TË INSTALUAR 2000 kw
 
-(ndryshuar me vendimin nr. 314, datë 6.11.2023)
+(Ndryshuar me vendimin nr. 314, datë 6.11.2023; nr. 219, datë 30.9.2025)
 
                                                                                                                                            (i përditësuar)
 
@@ -58,7 +58,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Era Hydro” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Strori”, me kapacitet të instaluar 2000 kw, për një afat 30-vjeçar. 
 
-2. Shoqëria “Era Hydro” sh.p.k. duhet të depozitojë në ERE kontratën e qirasë së rinovuar të truallit ku ushtrohet veprimtaria, brenda datës 26.10.2027.
+2. Shfuqizuar.
 
 3. Shoqëria “Era Hydro” sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor sipërfaqësor për prodhim hidroenergjie nga HEC “Strori” brenda datës 5.3.2028.
 
