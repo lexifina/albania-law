@@ -4,6 +4,10 @@ Nr. 190, datë 21.7.2022
 
 MBI LICENCIMIN E SHOQËRISË “NTSP” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA CENTRALI FOTOVOLTAIK, ME VENDNDODHJE NË ZONËN BITINCKË, BILISHT, QARKU KORÇË, ME KAPACITET TË INSTALUAR 2 MW
 
+(Ndryshuar me vendimin nr. 233, datë 30.9.2025)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16, nenit 37, pika 2, germa “a”, dhe nenit 38, pika 1, germa “a”, të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike” i ndryshuar; nenit 4, pika 1, germa “a”, nenit 5, pika 1, germa “a”, nenit 10, pikat 4, 5 dhe 6, dhe nenit 13, të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 15, të rregullores “Për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 21.7.2022, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes me nr. 1144/4 prot., datë 19.7.2022, “Mbi licencimin e shoqërisë ‘NTSP’ sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me vendndodhje në zonën Bitinckë, Bilisht, qarku Korçë, me kapacitet të instaluar 2 MW”,
 
 konstatoi se: 
@@ -44,9 +48,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “NTSP” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me vendndodhje në zonën Bitinckë, Bilisht, qarku Korçë, me kapacitet të instaluar 2 MW, për një afat 25-vjeçar.
 
-2. Shoqëria “NTSP” sh.p.k. duhet të përcjellë në ERE, jo më vonë se data 11.9.2038 kontratën e qirasë për zonën ku do të shtrihet projekti të rinovuar, ose çdo dokument tjetër që rregullon pronësinë. 
+2. Shfuqizuar.
 
-3. Ky vendim është objekt rishikimi nga ERE.
+3. Shfuqizuar.
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
