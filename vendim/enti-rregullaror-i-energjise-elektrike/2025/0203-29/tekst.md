@@ -4,6 +4,10 @@ Nr. 29, datë 3.2.2025
 
 MBI LICENCIMIN E SHOQËRISË “MER ENERGJI” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr. 240, datë 30.9.2025)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a”, 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 3.2.2025, mbasi shqyrtoi relacionin me nr. 52/5 prot., datë 30.1.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë “MER Energji” sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 Konstatoi se: 
@@ -48,11 +52,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “MER Energji” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga hidrocentrali “Faqekuqi 3”, me kapacitet të instaluar 1300 kW, me vendndodhje në fshatin Vlush, Njësia Administrative Leshnjë, Bashkia Skrapar, qarku Berat, me afat deri më 16.10.2053.
 
-2. Shoqëria duhet të fillojë operimin/ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 14.5.2025.
+2. Shfuqizuar.
 
-3. Me fillimin e operimit, por jo më vonë se 60 (gjashtëdhjetë) ditë nga ky fakt, shoqëria duhet të dokumentojë në ERE testimin e veprës.
+3. Shfuqizuar.
 
-4. Ky vendim është objekt rishikimi nga ERE në varësi të plotësimit të pikave 2 dhe 3. 
+4. Ky vendim është objekt rishikimi, në rast të depozitimit të akteve të ndryshme nga ato që kanë shërbyer për marrjen e këtij vendimi.
 
 5. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “MER Energji” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, OSSH sh.a., FTL sh.a. dhe ALPEX sh.a. për vendimin e Bordit të ERE-s.
 
