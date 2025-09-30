@@ -4,6 +4,10 @@ Nr. 83, datë 30.3.2021
 
 MBI LICENCIMIN E SHOQËRISË “REI – ENERGJI” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “LINGJACA 1”, ME KAPACITET TË INSTALUAR 1897 kw, HEC “LINGJACA 2”, ME KAPACITET TË INSTALUAR 300 kw, ME KAPACITET TOTAL TË INSTALUAR 2197 kw
 
+(Ndryshuar me vendimin nr. 228, datë 30.9.2025)
+
+(I përditësuar)
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike”, i ndryshuar, nenit 4, pika 1, germa “a”, nenit 5, pika 1, germa “a”, nenit 13, të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar, si dhe nenit 15, të rregullores “Për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 30.3.2021, mbasi shqyrtoi relacionin nr. 39/2 prot., datë 24.3.2021, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, mbi licencimin e shoqërisë “Rei – Energji” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Lingjanca 1”, me kapacitet të instaluar 1897 kw dhe “Lingjanca 2”, me kapacitet të instaluar 300 kW, me kapacitet total të instaluar 2197 kw,
 
 konstatoi se: 
@@ -48,7 +52,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Rei – Energji” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Lingjanca 1”, me kapacitet te instaluar 1897 kw, HEC “Lingjanca 2” me kapacitet të instaluar 300 kw, me kapacitet total te instaluar 2197 kw, për një afat 25 vjet e 10 muaj.
 
-2. Shoqëria “Rei – Energji” sh.p.k., në përfundim të afatit të kontratës së qirasë me Bashkinë Përrenjas (data e përfundimit 13.5.2027), duhet ta depozitojë atë me afate të rinovuara, jo më vonë se një muaj pas nënshkrimit të rinovimit.
+2. Shfuqizuar.
 
 3. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
