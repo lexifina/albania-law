@@ -4,7 +4,7 @@ Nr. 71, datë 22.4.2020
 
 MBI LICENCIMIN E SHOQËRISË “KALISI HYDROPOWER” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-et “VELESHICA 1”, ME KAPACITET TË INSTALUAR 5801 kw DHE “VELESHICA 2”, ME KAPACITET TË INSTALUAR 8116 kw, ME KAPACITET TOTAL TË INSTALUAR 13917 kw
 
-(Ndryshuar me vendimin nr. 135, datë 10.8.2020)
+(Ndryshuar me vendimin nr. 135, datë 10.8.2020; nr. 222, datë 30.9.2025)
 
 (I përditësuar)
 
@@ -62,11 +62,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Kalisi Hydropower” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et “Veleshica 1”, me kapacitet të instaluar 5801 kw, si dhe “Veleshica 2”, me kapacitet të instaluar 8116 kw, me kapacitet total 13917 kw, për një afat 30-vjeçar. 
 
-2. Shoqëria “Kalisi Hydropower” sh.p.k. të depozitojë në ERE kontratën e rinovuar të qirasë për truallin ku do të ushtrohet veprimtaria, jo më vonë se 3 (tre) muaj përpara përfundimit të afatit të saj.
+2. Shfuqizuar.
 
 3. Shfuqizuar.
 
-4. Mosplotësimi i kushteve të këtij vendimi përbën shkak për rishikimin e tij. 
+4. Shfuqizuar.
 
 5. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e bordit të ERE-s.
 
