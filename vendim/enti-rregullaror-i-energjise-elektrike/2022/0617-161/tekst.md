@@ -4,11 +4,11 @@ Nr. 161, datë 17.6.2022
 
 MBI LICENCIMIN E SHOQËRISË “VOKOPOLA ENERGJI” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-et: “VOKOPOLA 1”, ME KAPACITET TË INSTALUAR 274 kw; “VOKOPOLA 2”, ME KAPACITET TË INSTALUAR 3104 kw; DHE “VOKOPOLA 3”, ME KAPACITET TË INSTALUAR 2297 kw, ME KAPACITET TOTAL TË INSTALUAR 5675 kw
 
-(ndryshuar me vendimin nr. 311, datë 30.11.2022 ;  nr. 112, datë 27.3.2023 ; nr. 6, datë 17.6.2022)
+(ndryshuar me vendimin nr. 311, datë 30.11.2022 ;  nr. 112, datë 27.3.2023 ; nr. 6, datë 17.6.2022; nr. 230, datë 30.9.2025)
 
 (i përditësuar)
 
-Në mbështetje të neneve 16 dhe 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, si dhe neneve 4, pika 1, germa “a”, 5, pika 1, germa “a” dhe nenit 10, pika 3, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e energjisë elektrike”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe nenit 19, pika 1, germa “a” të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 17.6.2022, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes me nr. 925/4 prot., datë 16.6.2022, “Mbi licencimin e shoqërisë ‘Vokopola Energji’ sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et: ‘Vokopola 1’, me kapacitet të instaluar 274 kw; ‘Vokopola 2’, me kapacitet të instaluar 3104 kw; dhe ‘Vokopola 3’, me kapacitet të instaluar 2297 kw, me kapacitet total të instaluar 5675 kw”,
+Në mbështetje të neneve 16 dhe 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, si dhe neneve 4, pika 1, germa “a”, 5, pika 1, germa “a” dhe nenit 10, pika 3, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e energjisë elektrike”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe nenit 19, pika 1, germa “a” të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 17.6.2022, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes me nr. 925/4 prot., datë 16.6.2022, “Mbi licencimin e shoqërisë ‘Vokopola Energji’ sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et: ‘Vokopola 1’, me kapacitet të instaluar 274 kë; ‘Vokopola 2’, me kapacitet të instaluar 3104 kw; dhe ‘Vokopola 3’, me kapacitet të instaluar 2297 kw, me kapacitet total të instaluar 5675 kw”,
 
  konstatoi se: 
 
@@ -64,7 +64,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Vokopola Energji” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et: “Vokopola 1”, me kapacitet të instaluar 274 kw; “Vokopola 2”, me kapacitet të instaluar 3104 kw; dhe “Vokopola 3”, me kapacitet të instaluar 2297 kw, me kapacitet total të instaluar 5675 kw, për një afat 25 vjet e 8 muaj.
 
-	2. Shoqëria “Vokopola Energji” sh.p.k. të depozitojë në ERE kontratat e qirasë me afate të rinovuara, me Bashkinë Skrapar jo më vonë se data 22.12.2024, me Bashkinë Memaliaj jo më vonë se data 27.12.2024, me Bashkinë Poliçan jo më vonë se data 31.10.2024, ose çdo dokumentacion tjetër që rregullon pronësinë.
+	2. Shfuqizuar.
 
 3. Shfuqizuar.
 
