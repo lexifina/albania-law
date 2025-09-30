@@ -4,7 +4,7 @@ Nr. 27, datë 29.1.2021
 
 MBI LICENCIMIN E SHOQËRISË “AGETA” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “BORIE – LURË 1” ME KAPACITET TË INSTALUAR 1800 kw
 
-(ndryshuar me vendimet nr. 104, datë 22.4.2021dhe nr. 310, datë 30.11.2022)
+(ndryshuar me vendimet nr. 104, datë 22.4.2021; nr. 310, datë 30.11.2022; nr. 226, datë 30.9.2025)
 
 (i përditësuar)
 
@@ -48,7 +48,7 @@ VENDOSI:
 
 2. Shfuqizuar.
 
-3. Shoqëria do të depozitojë në ERE kontratën e rinovuar jo më vonë se data 17.11.2027.
+3. Shfuqizuar.
 
 4. Shoqëria do të depozitojë në ERE lejen e përdorimit të burimit ujor të rinovuar jo më vonë se data 25.10.2027.
 
