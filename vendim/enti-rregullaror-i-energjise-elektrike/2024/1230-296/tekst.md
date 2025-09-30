@@ -4,6 +4,10 @@ Nr. 296, datë 30.12.2024
 
 MBI LICENCIMIN E SHOQËRISË “SPV BLUE 2” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA PARKU FOTOVOLTAIK “BLUE 2”, ME KAPACITET TË INSTALUAR 50 mw
 
+(Ndryshuar me vendimin nr. 239, datë 30.9.2025)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a” dhe 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 30.12.2024, mbasi shqyrtoi relacionin me nr. 2144/14 prot., datë 27.12.2024, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘SPV Blue 2’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -44,9 +48,9 @@ Për gjithë sa më sipër, Bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë e shoqërinë “SPV Blue 2” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga parku fotovoltaik “Blue 2”, me kapacitet të instaluar 50 mw, me vendndodhje në Sheq Marinas, Bashkia Fier, për një afat 25-vjeçar, duke filluar nga momenti i energjizimit të veprës, por jo më vonë se data 17.3.2026.
+1. Të licencojë shoqërinë “SPV Blue 2” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga parku fotovoltaik “Blue 2”, me kapacitet të instaluar 50 mw, me vendndodhje në Sheq Marinas, Bashkia Fier, për një afat 25-vjeçar, duke filluar nga data 13.8.2025.
 
-2. Ky vendim është objekt rishikimi nga ERE.
+2. Shfuqizuar.
 
 3. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “SPV Blue 2” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë dhe OST sh.a. për vendimin e Bordit të ERE-s.
 
