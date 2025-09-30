@@ -4,7 +4,7 @@ Nr. 240, datë 21.12.2020
 
 MBI LICENCIMIN E SHOQËRISË “ERDY ENERGY” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE, NGA HEC “KALIS” ME KAPACITET TË INSTALUAR 2138 kw
 
-(ndryshuar me vendimin nr. 219, datë 1.9.2022)
+(Ndryshuar me vendimin nr. 219, datë 1.9.2022; nr. 224, datë 30.9.2025)
 
 (i përditësuar)
 
@@ -38,9 +38,9 @@ Vendosi:
 
 1. Të licencojë shoqërinë “Erdy Energy” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Kalis”, me kapacitet të instaluar 2138 kw, për një afat 30-vjeçar.
 
-2. Shoqëria “Erdy Energy” sh.p.k. të depozitojë në ERE kontratën e rinovuar të qirasë me Bashkinë Librazhd, jo më vonë se data 21.10.2025.
+2. Shfuqizuar.
 
-3. Shoqëria “Erdy Energy” sh.p.k. të depozitojë në ERE informacion/dokumentacion mbi statusin e aplikimit për heqjen nga fondi pyjor bazuar në komunikimet shkresore me autoritetet përgjegjëse, brenda 3 muajve nga marrja dijeni e këtij vendimi.
+3. Shfuqizuar.
 
 4. Shoqëria “Erdy Energy” sh.p.k. të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor, jo më vonë se data 4.7.2027.
 
