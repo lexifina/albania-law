@@ -1,0 +1,28 @@
+{
+  "qbz_id": 31213,
+  "title": "Për caktimin e datës së zgjedhjeve të pjesshme vendore për kryetar bashkie, për disa njësi të qeverisjes vendore",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "350",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2025-10-01",
+  "published": "2025-10-02",
+  "in_force": "2025-10-02",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/bf96a1fbe5a6d24462301981be0ef06b87f1d7086f2b7d252870b81e3d5959ed.docx",
+  "source_sha256": "bf96a1fbe5a6d24462301981be0ef06b87f1d7086f2b7d252870b81e3d5959ed",
+  "official_record": "https://qbz.gov.al/api/v1/acts/31213",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2025/10/01/350",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    55745
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
