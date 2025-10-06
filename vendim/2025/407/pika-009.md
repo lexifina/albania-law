@@ -1,0 +1,1 @@
+9. Anëtarët e Komisionit të Shqyrtimit të Ankimit duhet të tërhiqen nga shqyrtimi i ankimit administrativ në rastet kur ekziston një nga pengesat ligjore të parashikuara në nenin 30, të Kodit të Procedurave Administrative.

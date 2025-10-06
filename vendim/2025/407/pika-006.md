@@ -1,0 +1,1 @@
+6. Organizatat joqeveritare me aktivitet në fushën e biznesit apo organet e përfaqësimit të biznesit, në përputhje me fushat që mbulojnë dhe sipas fushave të inspektimit, përcaktojnë përfaqësuesin e tyre dhe anëtarët zëvendësues në Komisionin e Shqyrtimit të Ankimit.

@@ -1,0 +1,5 @@
+2. Në kuptim të këtij vendimi, termat e mëposhtëm kanë këto kuptime:
+a) “Komisioni i shqyrtimit të ankimit”, në vijim “Komisioni”, organi kolegjial i ngritur pranë Inspektoratit të Përgjithshëm, i cili shqyrton ankimin administrativ, të paraqitur nga subjekti i inspektimit kundër vendimit përfundimtar të inspektimit;
+b) “Struktura të tjera inspektuese”, strukturat që kryejnë funksione inspektimi në juridiksionin e pushtetit ekzekutiv të qeverisjes qendrore dhe që janë në fushën e zbatimit të ligjit nr. 99/2024, “Për inspektimin në Republikën e Shqipërisë”, por nuk janë të organizuara si inspektorate qendrore;
+c) “Subjekt i inspektimit”, çdo person fizik apo juridik, privat apo publik, i cili kryen veprimtari tregtare, ekonomike, profesionale apo veprime të tjera dhe që ka detyrimin të respektojë kërkesat ligjore në fushën e inspektimit;
+ç) “Vendim përfundimtar i inspektimit”, vendimi, i cili merret nga trupa inspektuese, sipas përcaktimeve në ligjin nr. 99/2024, “Për inspektimin në Republikën e Shqipërisë”.

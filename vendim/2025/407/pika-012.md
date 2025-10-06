@@ -1,0 +1,1 @@
+12. Për çdo mbledhje të komisionit, procesverbali përmban një përmbledhje të parashtrimeve në mbledhje, datën dhe vendin e mbledhjes, anëtarët që morën pjesë, pjesëmarrjen e subjektit që ka paraqitur ankimin administrativ apo përfaqësuesin, çështjet që u diskutuan, arsyet e votimit pro ose kundër, vendimet që u morën, si dhe formën e rezultatin përfundimtar të vendimit.

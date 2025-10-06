@@ -1,0 +1,1 @@
+1. Ky vendim përcakton rregullat e hollësishme për organizimin, funksionimin dhe vendimmarrjen e Komisionit të Shqyrtimit të Ankimit, sipas parashikimeve në ligjin nr. 99/2024, “Për inspektimin në Republikën e Shqipërisë”.
