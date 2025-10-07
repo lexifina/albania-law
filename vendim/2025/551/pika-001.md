@@ -1,0 +1,2 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Infrastrukturës dhe Energjisë, për Agjencinë Kombëtare të Burimeve Natyrore, për ushtrimin e aktivitetit sipas fushës së saj të përgjegjësisë shtetërore.
+Lista përbëhet, gjithsej, nga 1 (një) fletë formulari dhe 1 (një) plan rilevimi, që u bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
