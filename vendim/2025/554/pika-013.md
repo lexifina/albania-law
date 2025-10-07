@@ -1,0 +1,1 @@
+13. Efektet financiare për zbatimin e këtij vendimi për krijimin e kapitalit fillestar të shoqërisë, në vlerën 10 000 000 (dhjetë milionë) lekë, përballohen nga buxheti i miratuar për Ministrinë e Infrastrukturës dhe Energjisë, për vitin 2025, në programin “Transporti rrugor”.

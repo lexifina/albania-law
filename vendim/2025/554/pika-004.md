@@ -1,0 +1,1 @@
+4. Kapitali fillestar për krijimin e shoqërisë “MobAl” sh.a., është 10 000 000 (dhjetë milionë) lekë. Vlera prej 10 000 000 (dhjetë milionë) lekësh transferohet nga buxheti i Ministrisë së Infrastrukturës dhe Energjisë pranë shoqërisë “MobAl” sh.a., menjëherë pas regjistrimit në Qendrën Kombëtare të Biznesit.

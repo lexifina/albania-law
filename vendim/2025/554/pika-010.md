@@ -1,0 +1,1 @@
+10. Ministria e Infrastrukturës dhe Energjisë, në cilësinë e përfaqësuesit të pronarit shtet, me qëllim përmbushjen e misionit të shoqërisë, siguron injektim kapitali për shoqërinë, brenda fondeve buxhetore të miratuara për Ministrinë e Infrastrukturës dhe Energjisë, në programin “Transporti rrugor”.
