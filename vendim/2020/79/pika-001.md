@@ -1,1 +1,0 @@
-1. Shpalljen si zonë e përshtatshme për zhvillimin e detyruar, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi, të zonës autotraktori, Njësia Administrative 1, Bashkia Tiranë, zonë e re për zhvillim.
