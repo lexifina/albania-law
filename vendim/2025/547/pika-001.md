@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 16.7.2024, për çështjen “Meli dhe Swinkels Family Brewers N.V. kundër Shqipërisë”, përfundimtar në datën 16.10.2024, për kërkesat nr. 41373/21 dhe 48801/21, sipas shumave të përcaktuara në shtojcën 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
