@@ -1,1 +1,1 @@
-13. Për kryerjen e procedurave të përzgjedhjes së anëtarit të KPK-së, Sekretari i Përgjithshëm i Këshillit të Ministrave ngre komisionin ad-hoc, i cili funksionon pranë KPK-së, kryesohet nga kryetari i saj dhe ka në përbërje një përfaqësues nga jeta akademike dhe përfaqësuesin e Shqipërisë në Komitetin Këshillimor të Konventës Kuadër për Mbrojtjen e Pakicave Kombëtare të Këshillit të Evropës, në cilësinë e anëtarëve.
+13. Shfuqizuar.
