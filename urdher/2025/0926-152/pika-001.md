@@ -1,0 +1,1 @@
+1. Autorizimet për përfaqësimin ligjor të Ministrisë së Punëve të Brendshme, në proceset gjyqësore kur thirret si palë në një gjykim, lëshohen për aparatin nga sekretari i përgjithshëm, në emër të personit që do të përfaqësojë ministrinë.
