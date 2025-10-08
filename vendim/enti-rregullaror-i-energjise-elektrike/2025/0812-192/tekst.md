@@ -4,6 +4,10 @@ Nr. 192, datë 12.8.2025
 
 MBI DHËNIEN E AUTORIZIMIT TË ERE-s PËR VENDOSJEN E KUOTAVE TË SHOQËRISË “SPV BLUE 2” SHPK SI MJET PËR GARANTIMIN E PËRMBUSHJES SË DETYRIMIT NDAJ “BANKA E TIRANËS” SHA, “BANKA OTP ALBANIA” SHA, “INTESA SANPAOLO BANK ALBANIA” SHA DHE “UNION BANK” SHA
 
+(Ndryshuar me vendimin nr. 252, datë 8.10.2025)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 9, pika 8, dhe 10, të “Rregullores për procedurat dhe afatet për dhënien e autorizimit nga ERE për ndryshimin e statusit ligjor të të licencuarit, ndryshimin e ortakut/aksionarit që kontrollon interesat e të licencuarit dhe vendosjen e kuotave/aksioneve të ortakut/aksionerit që kontrollon interesat e të licencuarit si mjete për garantimin e përmbushjes së detyrimit/eve ndaj të tretëve”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 235, datë 26.11.2021; si dhe nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 12.8.2025, mbasi shqyrtoi relacionin me nr. 2200/1 prot., datë 6.8.2025, të Drejtorisë së Licencimit dhe Autorizimeve, “Mbi kërkesën e shoqërisë ‘SPV Blue 2’ sh.p.k. për dhënien e autorizimit nga ERE për vendosjen e kuotave të saj, si mjet për garantimin e përmbushjes së detyrimit ndaj të tretëve”,
 
 Konstatoi se:
@@ -62,7 +66,7 @@ VENDOSI:
 
 2. Dhënia e autorizimit nga ERE sipas përcaktimeve të pikës 1 të këtij vendimi nuk e çliron shoqërinë “SPV Blue 2” sh.p.k. nga detyrimi për të marrë autorizimin/miratimin e organeve të tjera apo palëve të treta për këtë ndryshim, në rast se kjo kërkohet nga këto organe.
 
-3. Shoqëria “SPV Blue 2” sh.p.k. duhet të depozitojë në ERE ekstraktin historik të regjistrit tregtar brenda 10 (dhjetë) ditëve nga reflektimi në të i vendosjes së kolateralit mbi kuotat e saj. 
+3. Shfuqizuar. 
 
 4. Shoqëria “SPV Blue 2” sh.p.k. të njoftojë ERE-n për heqjen e barrës siguruese mbi kuotat ose në rast të ndodhjes së një ekzekutimi të detyrueshëm.
 
