@@ -1,18 +1,18 @@
 Vendim 
 
-Nr. 840, datë 17.12.2004 
+Nr.840, datë 17.12.2004
 
 Për veprimtarinë e drejtorisë së shërbimit të trupit diplomatik
 
-(Ndryshuar me VKM nr. 631, datë 15.9.2006; nr. 407, 18.6.2014; nr. 562, datë 8.10.2025)
+(Ndryshuar me VKM nr. 631, datë 15.9.2006; nr. 407, datë 18.6.2014; nr. 562, datë 8.10.2025)
 
-(i përditësuar)
+(I përditësuar)
 
-Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 33 të ligjit nr. 7582, datë 13.7.1992 “Për ndërmarrjet shtetërore”, me propozimin e Ministrit të Punëve të Jashtme, Këshilli i Ministrave
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 33 të ligjit nr.7582, datë 13.7.1992 “Për ndërmarrjet shtetërore”, me propozimin e Ministrit të Punëve të Jashtme, Këshilli i Ministrave
 
 Vendosi:
 
-1. Drejtoria e Shërbimit të Trupit Diplomatik (DSHTD) është person juridik, publik, në varësi të Drejtorisë së Shërbimeve Qeveritare, që ushtron veprimtarinë në mbështetje të ligjit nr. 7582, datë 13.7.1992 “Për ndërmarrjen shtetërore”.
+1. Drejtoria e Shërbimit të Trupit Diplomatik (DSHTD) është person juridik, publik, në varësi të Drejtorisë së Shërbimeve Qeveritare, që ushtron veprimtarinë në mbështetje të ligjit nr.7582, datë 13.7.1992 “Për ndërmarrjen shtetërore”.
 
 2. Objekti i veprimtarisë së DSHTD-së është:
 
@@ -36,13 +36,13 @@ b) Të ardhurat nga qiratë e objekteve të vëna në dispozicion për subjekte 
 
 c) Të ardhurat nga veprimtaritë e tjera dytësore;
 
-ç) Donacionet, vendase ose të huaja, të dhëna, të cilat përdoren vetëm në funksion të veprimtarisë kryesore të DSHTD-së.
+ç) Donacionet, vendase ose të huaja, të dhëna të cilat përdoren vetëm në funksion të veprimtarisë kryesore të DSHTD-së.
 
-6. Kapitali themeltar i Drejtorisë së Shërbimit të Trupit Diplomatik është 1 586 848 843 (një miliard e pesëqind e tetëdhjetë e gjashtë milionë e tetëqind e dyzet e tetë mijë e tetëqind e dyzet e tre) lekë.
+6. Kapitali themeltar i Drejtorisë së Shërbimit të Trupit Diplomatik është 1 586 848 843 (një miliard e pesëqind e tetëdhjetë e gjashtë milionë e tetëqind e dyzet e tetë mijë e tetëqind e dyzet e tre) lekë. 
 
 Bilanci financiar i Drejtorisë së Shërbimit të Trupit Diplomatik miratohet, në fund të çdo viti financiar, nga këshilli drejtues, së bashku me raportin e auditimit nga ekspertët kontabël të pavarur.
 
-7. Veprimtaria ekonomiko-financiare e DSHTD-së kontrollohet nga organet përkatëse, të ngarkuara me ligj. Po ashtu, edhe Drejtoria e Shërbimeve Qeveritare, ka të drejtë të udhërojë ushtrimin e kontrolleve, të plota ose të pjesshme, për veprimtarinë e DSHTD-së, nëpërmjet strukturave të specializuara.
+7. Veprimtaria ekonomiko-financiare e DSHTD-së kontrollohet nga organet përkatëse, të ngarkuara me ligj. Po ashtu edhe Drejtoria e Shërbimeve Qeveritare ka të drejtë të udhërojë ushtrimin e kontrolleve, të plota ose të pjesshme, për veprimtarinë e DSHTD-së, nëpërmjet strukturave të specializuara.
 
 8. Tarifat e shërbimeve dhe çmimet e qirave, që Drejtoria e Shërbimit të Trupit Diplomatik zbaton për Trupin Diplomatik, përcaktohen në përputhje me të drejtat e përfaqësive diplomatike dhe detyrimet e shtetit shqiptar, që burojnë nga marrëveshjet dypalëshe, dhe miratohen për çdo vit financiar, nga këshilli drejtues i Drejtorisë së Shërbimit të Trupit Diplomatik.
 
@@ -50,7 +50,7 @@ Bilanci financiar i Drejtorisë së Shërbimit të Trupit Diplomatik miratohet, 
 
 10. Mënyra e organizimit dhe e ushtrimit të veprimtarisë së DSHTD-së, përgjegjësitë e organeve drejtuese dhe mënyra e ushtrimit të funksioneve nga ana e tyre, përcaktohen në statutin, që miratohet nga Drejtoria e Shërbimeve Qeveritare.
 
-10/1 Ngarkohet drejtori i Shërbimit të Trupit Diplomatik të bëjë regjistrimin në gjykatë, në përputhje me ligjet nr. 7582, datë 13.7.1992 “Për ndërmarrjet shtetërore” dhe nr. 7667, datë 28.7.1993 “Për regjistrin tregtar dhe formalitetet, që duhen respektuar nga shoqëritë tregtare”, dhe të kryejë regjistrimin e listës së inventarit të pronave, të dhëna në përgjegjësi administrimi, në mbështetje të vendimit nr. 450, datë 16.6.2005 të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Drejtorisë së Shërbimit të Trupit Diplomatik”.
+10/1 Ngarkohet drejtori i Shërbimit të Trupit Diplomatik të bëjë regjistrimin në gjykatë, në përputhje me ligjet nr.7582, datë 13.7.1992 “Për ndërmarrjet shtetërore” dhe nr.7667, datë 28.7.1993 “Për regjistrin tregtar dhe formalitetet, që duhen respektuar nga shoqëritë tregtare”, dhe të kryejë regjistrimin e listës së inventarit të pronave, të dhëna në përgjegjësi administrimi, në mbështetje të vendimit nr.450, datë 16.6.2005 të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Drejtorisë së Shërbimit të Trupit Diplomatik.
 
 11. Vendimi nr. 113, datë 26.2.1993 i Këshillit të Ministrave “Për veprimtarinë e Drejtorisë së Shërbimit të Trupit Diplomatik”, dhe aktet e tjera, të nxjerra në zbatim të tij, shfuqizohen.
 
