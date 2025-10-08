@@ -1,0 +1,1 @@
+17. Zyrat e gjendjes civile në bashkitë Tiranë, Vlorë, Berat, Tepelenë, Mat dhe Cërrik/njësitë administrative nën juridiksionin e tyre, ku do të zhvillohen zgjedhjet e pjesshme vendore për kryetar bashkie, zbatojnë dhe vendimet gjyqësore, sipas nenit 57, të ligjit nr. 10 019, datë 29.12.2008, “Kodi Zgjedhor i Republikës së Shqipërisë”, i ndryshuar.

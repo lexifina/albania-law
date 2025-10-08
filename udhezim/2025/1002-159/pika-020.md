@@ -1,0 +1,2 @@
+20. Ngarkohen me zbatimin e këtij udhëzimi kryetari i komanduar në detyrë në bashkitë Tiranë, Vlorë, Berat, Tepelenë, Mat dhe Cërrik, Drejtoria e Përgjithshme e Gjendjes Civile, zyrat e gjendjes civile në bashkitë Tiranë, Vlorë, Berat, Tepelenë, Mat dhe Cërrik dhe në njësitë administrative nën juridiksionin e tyre, si dhe institucionet e tjera shtetërore të parashikuara nga Kodi Zgjedhor.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

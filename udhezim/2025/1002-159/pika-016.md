@@ -1,0 +1,1 @@
+16. Drejtoria e Përgjithshme e Gjendjes Civile dërgon në KZAZ të 3 (tre) formatet e listës së zgjedhësve të pjesshme vendore, në rast se nga kryetarët e komanduar në detyrë për bashkitë Tiranë, Vlorë, Berat, Tepelenë, Mat dhe Cërrik, nuk përmbushen kompetencat sipas pikës 15 të këtij udhëzimi.

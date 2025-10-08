@@ -1,0 +1,1 @@
+2. Miratimin dhe shpalljen e listës së zgjedhësve për zgjedhjet e pjesshme vendore për kryetar të bashkive Tiranë, Vlorë, Berat, Tepelenë, Mat dhe Cërrik, në përputhje me nenin 48 të Kodit Zgjedhor brenda datës 6.10.2025, nga kryetarët e komanduar në detyrë në bashkitë Tiranë, Vlorë, Berat, Tepelenë, Mat dhe Cërrik.

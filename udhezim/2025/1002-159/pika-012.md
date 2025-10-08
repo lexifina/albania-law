@@ -1,0 +1,1 @@
+12. Procedurat e parashikuara në pikat 3, 4, 5, 6, 7, 8, 9, 10 dhe 11 të këtij udhëzimi, kryhen për listën e zgjedhësve për zgjedhjet e pjesshme vendore, brenda datës 6.10.2025, që do të publikohet për zgjedhjet për kryetar të bashkive Tiranë, Vlorë, Berat, Tepelenë, Mat dhe Cërrik.
