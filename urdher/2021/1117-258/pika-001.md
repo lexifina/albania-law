@@ -1,1 +1,0 @@
-1. Delegimin e kompetencave Sekretarit të Përgjithshëm, për lëshimin e autorizimeve për përfaqësimin ligjor të Ministrisë së Turizmit dhe Mjedisit në proceset gjyqësore në të cilat është palë në gjykim.

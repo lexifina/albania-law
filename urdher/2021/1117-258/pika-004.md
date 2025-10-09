@@ -1,1 +1,0 @@
-4. Përfaqësimi për çdo proces gjyqësor bëhet nga juristë dhe, sipas rastit, në bashkëpunim me strukturat teknike, si dhe përfaqësues nga institucionet e varësisë së Ministrisë së Turizmit dhe Mjedisit, nëpërmjet autorizimit përkatës.

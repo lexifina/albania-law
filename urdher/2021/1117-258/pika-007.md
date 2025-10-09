@@ -1,1 +1,0 @@
-7. Ngarkohen të gjitha institucionet e varësisë së Ministrisë së Turizmit dhe Mjedisit të caktojnë një person përgjegjës si pikë kontakti, për të shkëmbyer çdo informacion të nevojshëm, si dhe njoftim për ecurinë e ndjekjen e proceseve gjyqësore, në Ministrinë së Turizmit dhe Mjedisit.
