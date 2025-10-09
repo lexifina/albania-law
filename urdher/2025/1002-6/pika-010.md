@@ -1,0 +1,1 @@
+10. Urdhri i ministrit të Turizmit dhe Mjedisit nr. 258, datë 17.11.2021, “Për delegimin e kompetencave përfaqësimit ligjor të Ministrisë së Turizmit dhe Mjedisit, si dhe disa rregulla mbi përfaqësimin ligjor”, shfuqizohet.

@@ -1,0 +1,1 @@
+2. Autorizimet për përfaqësimin ligjor të Ministrisë së Mjedisit, kur thirret si palë në gjykim, në proceset gjyqësore, në të cilat objekti i padisë ka lidhje me institucionin e varësisë, lëshohen në emër të nëpunësit të institucionit të varësisë, që do të përfaqësojnë ministrinë, nga drejtuesi i institucionit të varësisë, sipas vendit ku është ngritur kërkesëpadia.

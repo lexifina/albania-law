@@ -1,0 +1,13 @@
+# Shtojca
+Lidhja nr. 1
+(SEKRETARI I PËRGJITHSHËM/INSTITUCIONI I VARËSISË)
+Nr.............. prot. Tiranë, më ___.__.___
+AUTORIZIM PËR PËRFAQËSIMIN NË ÇËSHTJEN GJYQËSORE ME PALË:
+Paditës: ....
+E paditur: ...
+Objekti: ...
+Në mbështetje të neneve 64-77 të Kodit Civil; të nenit 96 të Kodit të Procedurës Civile; të nenit 14, të ligjit nr. 49, datë 3.5.2012, “Për gjykatat administrative dhe gjykimin e mosmarrëveshjeve administrative”, të ndryshuar; dhe të urdhrit të ministrit të Mjedisit nr. ..., datë ..., “Për delegimin e kompetencave për përfaqësimin ligjor të Ministrisë së Mjedisit, si dhe disa rregulla mbi përfaqësimin ligjor”,
+VENDOSA:
+Autorizimin e ... dhe/ose..., për të përfaqësuar Ministrinë e Mjedisit, së bashku ose veç e veç, në bashkëpunim me Avokaturën e Shtetit, në të gjitha seancat gjyqësore të procesit me nr. ... akti, pranë Gjykatës...
+Përfaqësuesi ka të drejtë të përgatitë, nënshkruajë e depozitojë të gjitha aktet e nevojshme procedurale para gjykatës, në përputhje me ligjin dhe në interesin e ligjshëm të palës, Ministria e Mjedisit, të cilën përfaqëson, deri në marrjen e formës së prerë të vendimit.
+(SEKRETARI I PËRGJITHSHËM/DREJTUESI I INSTITUCIONIT TE VARËSISË)
