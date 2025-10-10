@@ -1,0 +1,1 @@
+8. Komisioni ad-hoc shqyrton dokumentacionin e paraqitur nga kandidatët dhe bën vlerësimin e kandidaturave të paraqitura brenda 30 (tridhjetë) ditëve nga data e përfundimit të afatit të dorëzimit të dokumentacionit, sipas pikës 3, të këtij kreu, harton listën e kandidatëve që plotësojnë kriteret ligjore e kualifikohen dhe ia paraqet atë Kryeministrit.

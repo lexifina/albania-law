@@ -1,0 +1,1 @@
+2. Këshilli Mbikëqyrës e ushtron veprimtarinë në bazë të rregullave të përcaktuara në këtë vendim. Për çështje që nuk janë të rregulluara posaçërisht në këtë vendim, lidhur me funksionimin dhe veprimtarinë e Këshillit Mbikëqyrës, gjejnë zbatim parashikimet e legjislacionit për funksionimin e organeve kolegjiale të administratës shtetërore.

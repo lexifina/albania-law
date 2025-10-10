@@ -1,0 +1,1 @@
+5. Në rastin e krijimit të vakancës së kryetarit ose anëtarit të Këshillit Mbikëqyrës të AAPAA-së, para përfundimit të mandatit, AAPAA-ja njofton menjëherë Kryeministrinë për fillimin e procedurave për përzgjedhjen e kandidatëve për këto pozicione.

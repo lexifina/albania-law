@@ -1,0 +1,1 @@
+6. Për kryerjen e procedurave të përzgjedhjes për kryetar dhe anëtar të Këshillit Mbikëqyrës, Sekretari i Përgjithshëm në Kryeministri ngre një komision ad-hoc të përbërë nga 3 (tre) anëtarë të caktuar prej tij.

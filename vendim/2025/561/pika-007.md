@@ -1,0 +1,1 @@
+7. Vlerësimi i kandidatëve bazohet në jetëshkrimin (CV-në), që përfshin vlerësimin e arsimimit, kualifikime të larta profesionale, eksperiencën dhe trajnimet në profesion ose të lidhura me fushën, sipas kritereve të përcaktuara në nenin 12, të ligjit.

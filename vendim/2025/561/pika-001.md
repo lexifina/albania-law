@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i rregullave të hollësishme për veprimtarinë e Këshillit Mbikëqyrës të Agjencisë së Auditimit të Programeve të Asistencës, Akredituar nga Bashkimi Evropian në Republikën e Shqipërisë (në vijim “Këshilli Mbikëqyrës”), si dhe të procedurës për emërimin dhe shkarkimin e anëtarëve të tij.
