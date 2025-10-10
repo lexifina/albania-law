@@ -1,0 +1,1 @@
+2. Akti i krijimit dhe statuti i fondacionit miratohen në gjykatë sipas legjislacionit në fuqi për themelimin, regjistrimin, funksionimin, organizimin dhe veprimtarinë e organizatave jofitimprurëse, të cilat ndjekin qëllime në të mirë dhe në interes të publikut.
