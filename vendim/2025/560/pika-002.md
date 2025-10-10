@@ -1,0 +1,1 @@
+2. Dokumentet e përmendura në pikën 1 të këtij vendimi dërgohen jashtë dhe rikthehen brenda vendit në periudhën ndërmjet datave 1 tetor 2025 - 15 janar 2026, pas mbylljes së ekspozitës, në Kuvendin e Republikës së Shqipërisë, me postë diplomatike, korrier diplomatik.
