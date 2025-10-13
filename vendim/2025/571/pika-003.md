@@ -1,0 +1,1 @@
+3. Komiteti mblidhet dy herë në vit me njoftim të kryetarit. Komiteti mund të mbajë mbledhje ad-hoc kurdo që konsiderohet e nevojshme, me qëllim rishikimin e situatës së lehtësirave dhe gjetjen e zgjidhjeve për problemet që mund të hasen.

@@ -1,0 +1,1 @@
+5. Komiteti ka një sekretar, i cili është punonjës i Autoritetit të Aviacionit Civil dhe është përgjegjës për kryerjen e të gjitha përgatitjeve administrative për mbledhjet e Komitetit në bashkëpunim me kryetarin.
