@@ -1,0 +1,1 @@
+5. Në rast të moszbatimit të detyrimeve nga institucioni arsimor parauniversitar jopublik, kopshti “Katër Stinët”, të përcaktuara në pikën 2 të këtij urdhri, Zyra Vendore e Arsimit Parauniversitar, Tiranë, të marrë të gjitha masat, sipas legjislacionit në fuqi.

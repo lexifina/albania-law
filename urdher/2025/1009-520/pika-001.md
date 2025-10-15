@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar jopublik, kopshti “Katër Stinët”, e subjektit juridik “4 Stinët” sh.p.k, i licencuar me urdhrin nr. 352, datë 3.12.2001, të ministrit të Arsimit dhe Shkencës, “Për dhënien e lejes së funksionimit të institucionit arsimor jopublik”, me kërkesën e tij datë 25.9.2025

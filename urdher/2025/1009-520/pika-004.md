@@ -1,0 +1,1 @@
+4. Agjencia Kombëtare e Arsimit Parauniversitar dhe Drejtoria Rajonale Arsimore Parauniversitare, Tiranë të monitorojnë veprimtarinë e Zyrës Vendore të Arsimit Parauniversitar, Tiranë, për zbatimin e detyrave, sipas këtij urdhri.
