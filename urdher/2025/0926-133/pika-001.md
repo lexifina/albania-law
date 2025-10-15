@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e procedurës për shpalljen dhe përzgjedhjen e anëtarëve në këshillat mbikëqyrës të shoqërive tregtare strategjike dhe jostrategjike të Ministrisë së Infrastrukturës dhe Energjisë”, sipas tekstit bashkëlidhur këtij urdhri.
