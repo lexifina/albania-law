@@ -1,0 +1,1 @@
+1. Objekt i këtij udhëzimi është përcaktimi i rregullave të hollësishme për dokumentacionin dhe procedurën e shpalljes së zonës me përparësi zhvillimin e ekonomisë malore (në vijim, zonë zhvillimi) nga të gjitha bashkitë në vend, sipas ndarjes territoriale në fuqi.
