@@ -1,0 +1,1 @@
+5. Për nëpunësit e administratës në institucionet publike me vetëfinancim, shërbimi i nënshkrimit elektronik ofrohet nga Agjencia Kombëtare e Shoqërisë së Informacionit, me tarifën 4 800 (katër mijë e tetëqind) lekë, me afat vlefshmërie 1 (një) vit.

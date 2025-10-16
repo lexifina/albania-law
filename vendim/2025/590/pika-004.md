@@ -1,0 +1,1 @@
+4. Për shtetasit shqiptarë dhe shtetasit e huaj, shërbimi i nënshkrimit elektronik ofrohet nga Agjencia Kombëtare e Shoqërisë së Informacionit, me tarifën 2 000 (dy mijë) lekë, me afat vlefshmërie 1 (një) vit.

@@ -1,0 +1,1 @@
+8. Pagesat e tarifave, të përcaktuara në shkronjat “b” e “ç”, të pikës 3, të këtij vendimi, realizohen periodikisht çdo muaj për numrin e transaksioneve të kryera gjatë asaj periudhe on-line nëpërmjet portalit qeveritar “e-Albania”, si dhe kryerja e tyre shihet në kohë reale.

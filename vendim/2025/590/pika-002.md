@@ -1,0 +1,1 @@
+2. Për organet dhe institucionet e administratës publike, shërbimet elektronike për nënshkrim elektronik, vulë elektronike, certifikatë elektronike për projektin e fiskalizimit, vulë kohore, transaksion në platformën qeveritare të ndërveprimit (GG) ofrohen nga Agjencia Kombëtare e Shoqërisë së Informacionit, me tarifën zero lek.
