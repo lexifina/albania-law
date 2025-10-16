@@ -1,1 +1,0 @@
-19. Agjencia për Mbështetjen e Vetëqeverisjes Vendore shërben si sekretariat teknik për kryerjen e procedurave sipas kreut III, të këtij udhëzimi, dhe për aq sa është e mundur, mbështet bashkitë në lidhje me fuqizimin e kapaciteteve për administrimin e procesit të parashikuar në këtë udhëzim.

@@ -1,5 +1,0 @@
-UDHËZIM
-Nr. 1, datë 19.6.2025
-PËR PËRCAKTIMIN E RREGULLAVE TË HOLLËSISHME PËR DOKUMENTACIONIN DHE PROCEDURËN E SHPALLJES SË ZONËS PRIORITARE TË ZHVILLIMIT NË TERRITORET E BASHKIVE
-Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 4, të nenit 4, të ligjit nr. 20/2025, “Për paketën e maleve”,
-UDHËZOJ:

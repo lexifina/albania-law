@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINISTËR I SHTETIT PËR PUSHTETIN VENDOR
-Arbjan Mazniku

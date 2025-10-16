@@ -1,1 +1,0 @@
-2. Bashkitë kryejnë procedurat në përputhje me parashikimet ligjore të legjislacionit që rregullon organizimin dhe funksionimin e njësive të vetëqeverisjes vendore, si dhe ato të parashikuara në këtë udhëzim.

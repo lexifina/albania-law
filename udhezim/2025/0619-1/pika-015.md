@@ -1,1 +1,0 @@
-15. Në përfundim të vlerësimit të kërkesës dhe dokumentacionit shoqërues, nëse konstatohet se bashkia ka përmbushur kriteret ligjore sipas përcaktimeve të këtij udhëzimi, ministri përgjegjës vendos t’i propozojë Këshillit të Ministrave shpalljen e territorit të bashkisë apo të pjesës malore të atij territori si zonë zhvillimi.

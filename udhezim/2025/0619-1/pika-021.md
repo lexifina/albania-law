@@ -1,1 +1,0 @@
-21. Agjencia Kombëtare e Planifikimit të Territorit bashkëpunon dhe ndërvepron, në përputhje me afatet e parashikuara në këtë udhëzim, me qëllim verifikimin e statusit të zonës së propozuar për zhvillim, sipas Planit të Përgjithshëm Vendor të bashkisë përkatëse.
