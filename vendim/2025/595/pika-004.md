@@ -1,0 +1,1 @@
+4. Me qëllim përmbushjen e detyrave, të përcaktuara në pikën 3, të këtij vendimi, kryetari i Komitetit cakton mbledhjet e rregullta periodike, jo më pak se 2 (dy) herë në vit dhe të jashtëzakonshme, sipas rastit në ngjarje madhore, në rast operacionesh masive për aksidentet ajrore e detare.
