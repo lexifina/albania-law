@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 10.12.2024, për çështjen “Ramaj kundër Shqipërisë”, për kërkesën nr. 17758/06, përfundimtar në datën 28.4.2025, në shumën 4 000 (katër mijë) euro, në lidhje me dëmin jopasuror, dhe shumën 10 000 (dhjetë mijë) euro, në lidhje me kostot e shpenzimet, plus çdo taksë, që mund të jetë e aplikueshme.
