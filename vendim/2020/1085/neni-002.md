@@ -1,7 +1,7 @@
 # Neni 2
 Përkufizime
 Për qëllim të këtij vendimi, termat e mëposhtëm kanë këto kuptime:
-1. “Autoritet kontraktor”, Ministria e Mbrojtjes ose struktura varësie apo shoqëri aksionare shtetërore, që ushtrojnë veprimtarinë në fushën e industrisë ushtarake të autorizuara nga Ministria e Mbrojtjes.
+1. “Autoritet kontraktor”, Ministria e Mbrojtjes ose struktura varësie apo shoqëri aksionare shtetërore, që ushtrojnë veprimtarinë në fushën e industrisë ushtarake të autorizuara nga Ministria e Mbrojtjes dhe sipërmarrje publike, ku shoqëritë shtetërore që ushtrojnë veprimtarinë në fushën e industrisë ushtarake zotërojnë më shumë se 50% të aksioneve apo kuotave për plotësimin e nevojave të tyre.
 2. “Dokumentet e tenderit”, dokumentet që autoriteti kontraktor vë në dispozicion të kandidatëve dhe ofertuesve të mundshëm për përgatitjen e ofertave, sipas përcaktimeve të bëra në këtë vendim.
 3. “E drejta ekskluzive”, e drejta e një operatori ekonomik të vetëm, agjencie të Organizatës së Traktatit të Atlantikut të Veriut (në vijim “NATO”) ose një vendi anëtar të NATO-s, për të ofruar një mall ose shërbim, objekt të këtij vendimi.
 4. “Fondet publike” (në vijim, fonde) janë:
@@ -32,5 +32,5 @@ Do të konsiderohet procedurë prokurimi “shtet me shtet” dhe në rastet kur
 23. “Projekti”, dokumenti i përgatitur nga grupi i punës për hartimin e projektit, bazuar në kërkesën operacionale të miratuar nga Komisioni i Veçantë i Klasifikimit, i cili përfshin qëllimin, referencat ligjore, mënyrën e implementimit, analizën e kostos dhe vlerën e projektit, procedurën e përzgjedhur të prokurimit, konkluzionet, specifikimet teknike të mallrave dhe të shërbimeve, aspektet logjistike, aspektet e mirëmbajtjes dhe trajnimit, operatorët e përzgjedhur dhe elemente të tjera teknike në varësi të projektit.
 24. “Prokurim për mallrat dhe/ose shërbime”, prokurimi që realizohet nëpërmjet njërës prej procedurave të përcaktuara në këtë vendim.
 25. “Shpallje e fituesit”, komunikimi me shkrim i autoritetit kontraktor me operatorin ekonomik të vlerësuar të suksesshëm në përfundim të procedurave të prokurimit sipas këtyre rregullave.
-26. “Titullari i autoritetit kontraktor”, ministri i Mbrojtjes ose një person i autorizuar prej tij;
+26. “Titullari i autoritetit kontraktor”, ministri i Mbrojtjes ose një person i autorizuar prej tij apo administratori i shoqërisë që kryen rolin e autoritetit kontraktor;
 27. “Vend anëtar i NATO-s”, Ministria e Mbrojtjes e vendit anëtar të NATO-s ose strukturat e varësisë së tij.
