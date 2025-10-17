@@ -548,7 +548,7 @@ Kriteri 1. Programi i studimit duhet të garantojë thellimin e njohurive, të z
 Kriteri 2. Programi i studimit garanton zhvillimin e aftësive të veçanta në fushën e teknologjisë së informacionit, humane, sociale, komunikimit dhe ndërveprimit.
 Kriteri 3. Kompetencat dhe aftësitë që fiton studenti, të paraqitura në programin e studimit dhe syllabuset e çdo lënde, analizohen e shqyrtohen në përfundim të lëndës. Personeli akademik vë në pah çështjet më të rëndësishme dhe orienton studentët për zbatimin e tyre, si dhe për detyrimet përmbyllëse.
 Kriteri 4. Mësimdhënia realizohet mbi bazë kompetencash që t’u japë studentëve mundësi të zhvillojnë njohuritë e marra në laboratorë dhe praktikat profesionale. Personeli akademik mbështet diskutimet dhe punën në grup në interpretimin dhe zgjidhjen e problemeve/çështjeve të caktuara; ndërthur format e mësimdhënies me institucionet bashkëpunuese për të mundësuar dhe rritur mobilitetin e studentëve.
-Kriteri 5. Personeli akademik, efektiv dhe me kontratë, realizon orë të hapura dhe seminare mbi zhvillime të reja të shkencës dhe teknologjisë brenda/jashtë strukturës së programit të studimit.
+Kriteri 5. Personeli akademik, me kohë të plotë dhe me kontratë, realizon orë të hapura dhe seminare mbi zhvillime të reja të shkencës dhe teknologjisë brenda/jashtë strukturës së programit të studimit.
 Standardi III.5 Institucioni ndjek një procedurë të qartë të detyrimeve përmbyllëse të studentit në programin e studimit dhe e pajis atë me dokumentacionin përkatës
 Kriteri 1. Institucioni harton procedurë të posaçme për detyrimet përmbyllëse, para realizimit të tyre dhe i bën ato publike.
 Kriteri 2. Strukturat përgjegjëse dhe personeli akademik ndihmojnë studentët, duke vënë në dispozicion informacione, udhëzime dhe materialet e nevojshme në funksion të detyrimeve përmbyllëse.
@@ -566,7 +566,7 @@ Kriteri 4. Institucioni, nëpërmjet mekanizmave të vlerësimit dhe rezultateve
 IV. BURIMET NJERËZORE, FINANCIARE, INFRASTRUKTURA, LOGJISTIKA PËR REALIZIMIN E PROGRAMIT TË STUDIMIT
 Standardi IV.1 Personeli akademik dhe ndihmës akademik që mbulon programin e studimit, përmbush standardet sasiore dhe ka kualifikimin e duhur e të posaçëm akademik dhe profesional në përputhje me fushën e programit, për garantimin e standardeve të mësimdhënies të programit të studimit
 Kriteri 1. Personeli akademik dhe ndihmës akademik, që angazhohet në realizimin e programit të studimit, përmbushin kërkesat ligjore në fuqi, për nivelin e kualifikimit akademik, për drejtimin e programit, drejtimin dhe angazhimin në mbulimin e lëndëve/moduleve të programit, për fushën kërkimore ose eksperiencën praktike në përputhje me programin e studimit, natyrën dhe veçorinë e moduleve të tij.
-Kriteri 2. Personeli akademik efektiv duhet të mbulojë ngarkesën mësimore për programin e studimit në përputhje me kornizën ligjore në fuqi.
+Kriteri 2. Personel akademik me kohë të plotë duhet të mbulojë ngarkesën mësimore për programin e studimit në përputhje me kornizën ligjore në fuqi.
 Kriteri 3. Institucioni duhet të garantojë dhe të dëshmojë qëndrueshmërinë e personelit akademik të angazhuar në programin e studimit, për të gjithë periudhën e akreditimit, duke përfshirë kontratat e punësimit dhe mbulimin me sigurime shoqërore dhe shëndetësore.
 Kriteri 4. Institucioni ndjek procedura rekrutimi dhe vlerësimi, mbështetur në kritere të përgjithshme dhe specifike të shpallura dhe që garantojnë përzgjedhjen e personelit me nivelin e duhur të kualifikimit dhe në përputhje me natyrën, strukturën, modulet dhe përmbajtjen e programit të studimit.
 Kriteri 5. Institucioni siguron dhe garanton angazhimin e personelit ndihmës akademik të përshtatshëm dhe të mjaftueshëm për realizimin e orëve laboratorike dhe për mirëmbajtjen e laboratorëve e mjediseve të tjera mësimore, sipas natyrës specifike të programit të studimit.
@@ -709,7 +709,7 @@ Kriteri 1. Programi i studimit duhet të garantojë thellimin e njohurive, të z
 Kriteri 2. Programi i studimit garanton zhvillimin e aftësive të veçanta në fushën e teknologjisë së informacionit, humane, sociale, komunikimit dhe ndërveprimit.
 Kriteri 3. Kompetencat dhe aftësitë që fiton studenti, të paraqitura në programin e studimit dhe syllabuset e çdo lënde, analizohen e shqyrtohen në përfundim të lëndës. Personeli akademik vë në pah çështjet më të rëndësishme dhe orienton studentët për zbatimin e tyre dhe për detyrimet përmbyllëse.
 Kriteri 4. Mësimdhënia realizohet mbi bazë kompetencash që t’u japë studentëve mundësi të zhvillojnë njohuritë e marra në laboratorë dhe praktikat profesionale. Personeli akademik mbështet diskutimet dhe punën në grup në interpretimin dhe zgjidhjen e problemeve/çështjeve të caktuara; krijon klimë të përshtatshme për zhvillimin e ideve inovative, studime të përparuara kërkimore e shkencore dhe i mbështet ato; ndërthur format e mësimdhënies me institucionet bashkëpunuese për të mundësuar dhe rritur mobilitetin e studentëve.
-Kriteri 5. Personeli akademik, efektiv dhe me kontratë, realizon orë të hapura dhe seminare mbi zhvillime të reja të shkencës dhe teknologjisë brenda/jashtë strukturës së programit të studimit.
+Kriteri 5. Personel akademik me kohë të plotë dhe me kontratë, realizon orë të hapura dhe seminare mbi zhvillime të reja të shkencës dhe teknologjisë brenda/jashtë strukturës së programit të studimit.
 Standardi III.5 Institucioni ndjek një procedurë të qartë të detyrimeve përmbyllëse të studentit në programin e studimit dhe e pajis atë me dokumentacionin përkatës
 Kriteri 1. Institucioni harton rregullore të posaçme për provimin e përgjithshëm përfundimtar ose punimin e diplomës. Në rregulloren e programit të studimit përcaktohet pragu i notës mesatare që i jep të drejtën studentit për punim diplome dhe e bën atë publike.
 Kriteri 2. Strukturat përgjegjëse dhe personeli akademik asistojnë studentët, duke vënë në dispozicion informacione, udhëzime dhe materialet e nevojshme në funksion të detyrimeve përmbyllëse.
@@ -722,8 +722,8 @@ Kriteri 8. Institucioni ruan në përputhje me legjislacionin në fuqi kopje të
 IV. BURIMET NJERËZORE, FINANCIARE, INFRASTRUKTURA, LOGJISTIKA PËR REALIZIMIN E PROGRAMIT TË STUDIMIT
 Standardi IV.1 Personeli akademik që mbulon programin e studimit, përmbush standardet sasiore dhe ka kualifikimin e duhur e të posaçëm akademik në përputhje me fushën e programit për garantimin e standardeve të mësimdhënies të programit të studimit
 Kriteri 1. Personeli akademik dhe ndihmës akademik, që angazhohet në realizimin e programit të studimit, përmbushin kërkesat ligjore në fuqi, për nivelin e kualifikimit akademik, për drejtimin e programit, drejtimin dhe angazhimin në mbulimin e lëndëve/moduleve të programit, për fushën kërkimore ose eksperiencën praktike në përputhje me programin e studimit, natyrën dhe veçorinë e moduleve të tij.
-Kriteri 2. Personeli akademik efektiv duhet të mbulojë ngarkesën mësimore për programin e studimit në përputhje me kornizën ligjore në fuqi.
-Kriteri 3. Institucioni duhet të garantojë dhe të dëshmojë qëndrueshmërinë e personelit akademik efektiv të angazhuar në programin e studimit, për të gjithë periudhën e akreditimit, duke përfshirë kontratat e punësimit dhe mbulimin me sigurime shoqërore dhe shëndetësore.
+Kriteri 2. Personel akademik me kohë të plotë duhet të mbulojë ngarkesën mësimore për programin e studimit në përputhje me kornizën ligjore në fuqi.
+Kriteri 3. Institucioni duhet të garantojë dhe të dëshmojë qëndrueshmërinë e personelit akademik me kohë të plotë të angazhuar në programin e studimit, për të gjithë periudhën e akreditimit, duke përfshirë kontratat e punësimit dhe mbulimin me sigurime shoqërore dhe shëndetësore.
 Kriteri 4. Institucioni ndjek procedura rekrutimi dhe vlerësimi, mbështetur në kritere të përgjithshme dhe specifike të publikuara e që garantojnë përzgjedhjen e personelit me nivelin e duhur të kualifikimit dhe në përputhje me natyrën, strukturën, modulet dhe përmbajtjen e programit të studimit.
 Kriteri 5. Institucioni siguron dhe garanton angazhimin e personelit ndihmës akademik të përshtatshëm dhe të mjaftueshëm për realizimin e orëve laboratorike dhe për mirëmbajtjen e laboratorëve e mjediseve të tjera mësimore, sipas natyrës specifike të programit të studimit.
 Kriteri 6. Institucioni mbledh, ruan dhe përditëson çdo vit akademik të dhënat e personelit të angazhuar në programin e studimit, në përputhje me legjislacionin në fuqi për mbrojtjen e të dhënave personale. Këto të dhëna përfshijnë anëtarët e personelit akademik të përfshirë në program dhe të personit përgjegjës për organizimin e programit të studimit, angazhimin e çdo anëtari në çdo semestër dhe vit akademik, si dhe atë të personelit ndihmës dhe administrativ.
@@ -915,7 +915,7 @@ Kriteri 1. Programi i studimit duhet të garantojë thellimin e njohurive, të z
 Kriteri 2. Programi i studimit garanton zhvillimin e aftësive të veçanta në fushën e teknologjisë së informacionit, humane, sociale, komunikimit dhe ndërveprimit (përfshirë edhe në gjuhë të huaj).
 Kriteri 3. Kompetencat dhe aftësitë që fiton studenti, të paraqitura në programin e studimit dhe syllabuset e çdo lënde, analizohen e shqyrtohen në përfundim të lëndës. Personeli akademik vë në pah çështjet më të rëndësishme dhe orienton studentët për zbatimin e tyre, si dhe për detyrimet përmbyllëse.
 Kriteri 4. Mësimdhënia realizohet mbi bazë kompetencash që t’u japë studentëve mundësi të zhvillojnë njohuritë e marra në laboratorë dhe praktikat profesionale. Personeli akademik mbështet diskutimet dhe punën në grup në interpretimin dhe zgjidhjen e problemeve/çështjeve të caktuara; krijon klimë të përshtatshme për zhvillimin e ideve inovative, studimeve të përparuara kërkimore e shkencore dhe i mbështet ato; ndërthur format e mësimdhënies me institucionet bashkëpunuese për të mundësuar dhe rritur mobilitetin e studentëve.
-Kriteri 5. Personeli akademik efektiv dhe me kontratë realizon orë të hapura dhe seminare mbi zhvillime të reja të shkencës dhe teknologjisë brenda/jashtë strukturës së programit të studimit.
+Kriteri 5. Personeli akademik me kohë të plotë dhe me kontratë realizon orë të hapura dhe seminare mbi zhvillime të reja të shkencës dhe teknologjisë brenda/jashtë strukturës së programit të studimit.
 Kriteri 6. Institucioni nxit zhvillimin e ideve inovative, studimeve të përparuara kërkimore nga studentët dhe i mbështet financiarisht ato.
 Standardi III.5 Institucioni ndjek një procedurë të qartë të detyrimeve përmbyllëse të studentit në programin e studimit dhe e përgatit atë me dokumentacionin e nevojshëm
 Kriteri 1. Institucioni harton procedurë të posaçme për detyrimet përmbyllëse, para realizimit të tyre dhe e bën atë publike.
@@ -932,8 +932,8 @@ Kriteri 2. Institucioni, në bashkëpunim dhe partneritet, garanton realizimin e
 Kriteri 3. Praktikat profesionale, klinike dhe stazhet e zhvilluara gjatë studimeve, ekuivalentohen në kredite dhe dokumentohen në dokumente të posaçme duke e shoqëruar me mendimin e trajnerëve dhe vlerësimin përkatës.
 IV. BURIMET NJERËZORE, FINANCIARE, INFRASTRUKTURA, LOGJISTIKA PËR REALIZIMIN E PROGRAMIT TË STUDIMIT
 Standardi IV.1 Personeli akademik që mbulon programin e studimit, përmbush standardet sasiore dhe ka kualifikimin e duhur e të posaçëm akademik në përputhje me fushën e programit për garantimin e standardeve të mësimdhënies të programit të studimit
-Kriteri 1. Personeli akademik efektiv dhe me kontratë, personeli ndihmës akademik, që angazhohet në realizimin e programit të studimit, përmbush kërkesat ligjore në fuqi, për nivelin e duhur të kualifikimit akademik, për drejtimin e programit, drejtimin dhe angazhimin në mbulimin e lëndëve/moduleve mësimore të programit. Ka fushë kërkimore në përputhje me programin e studimit, natyrën dhe veçorinë e moduleve të tij.
-Kriteri 2. Personeli akademik efektiv duhet të mbulojë ngarkesën mësimore për programin e studimit në përputhje me kornizën ligjore në fuqi.
+Kriteri 1. Personeli akademik me kohë të plotë dhe me kontratë, personeli ndihmës akademik, që angazhohet në realizimin e programit të studimit, përmbush kërkesat ligjore në fuqi, për nivelin e duhur të kualifikimit akademik, për drejtimin e programit, drejtimin dhe angazhimin në mbulimin e lëndëve/moduleve mësimore të programit. Ka fushë kërkimore në përputhje me programin e studimit, natyrën dhe veçorinë e moduleve të tij.
+Kriteri 2. Personeli akademik me kohë të plotë duhet të mbulojë ngarkesën mësimore për programin e studimit në përputhje me kornizën ligjore në fuqi.
 Kriteri 3. Institucioni duhet të garantojë dhe të dëshmojë qëndrueshmërinë e personelit akademik të angazhuar në programin e studimit, për të gjithë periudhën e akreditimit, duke përfshirë kontratat e punësimit dhe mbulimin me sigurime shoqërore dhe shëndetësore.
 Kriteri 4. Institucioni ndjek procedura rekrutimi dhe vlerësimi, mbështetur në kritere të përgjithshme dhe specifike të shpallura e që garantojnë përzgjedhjen e personelit me nivelin e duhur të kualifikimit dhe në përputhje me natyrën, strukturën, modulet dhe përmbajtjen e programit të studimit.
 Kriteri 5. Institucioni siguron dhe garanton angazhimin e personelit ndihmës akademik të përshtatshëm dhe të mjaftueshëm për realizimin e orëve laboratorike dhe për mirëmbajtjen e laboratorëve e mjediseve të tjera mësimore, sipas natyrës specifike të programit të studimit.
@@ -1124,7 +1124,7 @@ Kriteri 2. Programi i studimit garanton zhvillimin e aftësive të veçanta komu
 Kriteri 3. Kompetencat dhe aftësitë që fiton studenti, të paraqitura në programin e studimit dhe syllabuset e çdo lënde, analizohen e shqyrtohen në përfundim të lëndës. Personeli akademik vë në pah çështjet më të rëndësishme dhe orienton studentët për zbatimin e tyre dhe provimin përfundimtar i lëndës.
 Kriteri 4. Mësimdhënia realizohet mbi bazë kompetencash me karakter dhe orientim të theksuar praktik, me qëllim avancimin e mëtejshëm profesional të studentëve dhe u jep mundësi studentëve, të zhvillojnë njohuritë e marra në laborator dhe në orët praktike.
 Kriteri 5. Personeli akademik mbështet diskutimet dhe punën në grup në interpretimin dhe zgjidhjen e problemeve/çështjeve të caktuara; krijon klimë të përshtatshme për zhvillimin e ideve inovative, studime të avancuara kërkimore-shkencore dhe aplikative dhe i mbështet ato; ndërthur format e mësimdhënies me institucionet bashkëpunuese për të mundësuar mobilitetin e studentëve, si dhe krijuar oportunitete të reja për punësimin dhe karrierën e tyre profesionale.
-Kriteri 6. Personeli akademik efektiv dhe me kontratë realizon orë të hapura dhe seminare mbi zhvillime të reja të shkencës dhe teknologjisë, në kuadër të veprimtarive ekstra kurrikulare të lidhura me programin e studimit.
+Kriteri 6. Personeli akademik me kohë të plotë dhe me kontratë realizon orë të hapura dhe seminare mbi zhvillime të reja të shkencës dhe teknologjisë, në kuadër të veprimtarive ekstra kurrikulare të lidhura me programin e studimit.
 Kriteri 7. Institucioni nxit zhvillimin e ideve inovative, studime të përparuara kërkimore nga studentët dhe i mbështet financiarisht ato.
 Standardi III.5 Institucioni ndjek një procedurë të qartë të diplomimit të studentit në programin e studimit dhe e përgatit atë me dokumentacionin e nevojshëm
 Kriteri 1. Institucioni harton procedurë të posaçme për detyrimet përmbyllëse, para realizimit të tyre dhe i bën ato publike.
@@ -1141,9 +1141,9 @@ Kriteri 3. Institucioni angazhohet për krijimin e mjedisit dhe mundësive të p
 Kriteri 4. Institucioni angazhohet për kualifikimin e vazhdueshëm dhe zhvillimin e mëtejshëm profesional të personelit që mbulon dhe administron programin e studimit.
 Kriteri 5. Institucioni organizon programe specifike për metodat inovative të mësimdhënies e përdorimit të teknologjive të reja, për kualifikimin e mëtejshëm profesional të personelit akademik e të personelit mësimor-shkencor.
 Standardi IV.2 Personeli akademik që mbulon programin e studimit, përmbush standardet sasiore dhe ka kualifikimin e duhur e të posaçëm akademik në përputhje me fushën e programit për garantimin e standardeve të mësimdhënies të programit të studimit
-Kriteri 1. Personeli akademik efektiv dhe me kontratë, që angazhohet në realizimin e programit të studimit, është i kategorisë “Profesor”.
+Kriteri 1. Personeli akademik me kohë të plotë dhe me kontratë, që angazhohet në realizimin e programit të studimit, është i kategorisë “Profesor”.
 Kriteri 2. Fusha akademike-kërkimore e përgjithshme dhe specifike e anëtarëve të personelit akademik, që mbulon programin e studimit, është në përputhje me fushën e programit të studimit, natyrën dhe specifikën e moduleve të tij.
-Kriteri 3. Institucioni dëshmon një angazhim optimal të burimeve njerëzore për përmbushjen e objektivave të programit të studimeve. Personeli akademik efektiv duhet të mbulojë ngarkesën mësimore për programin e studimit në përputhje me kornizën ligjore në fuqi.
+Kriteri 3. Institucioni dëshmon një angazhim optimal të burimeve njerëzore për përmbushjen e objektivave të programit të studimeve. Personeli akademik me kohë të plotë duhet të mbulojë ngarkesën mësimore për programin e studimit në përputhje me kornizën ligjore në fuqi.
 Kriteri 4. Institucioni duhet të garantojë dhe të dëshmojë qëndrueshmërinë e personelit akademik të angazhuar në programin e studimit, për të gjithë periudhën e akreditimit, duke përfshirë kontratat e punësimit dhe mbulimin me sigurime shoqërore dhe shëndetësore.
 Kriteri 5. Institucioni siguron dhe garanton angazhimin e personelit ndihmës akademik të përshtatshëm dhe të mjaftueshëm për realizimin e orëve laboratorike dhe për mirëmbajtjen e laboratorëve e mjediseve të tjera mësimore, sipas natyrës specifike të programit të studimit.
 Kriteri 6. Institucioni ndjek procedura rekrutimi dhe vlerësimi, mbështetur në kritere të përgjithshme dhe specifike të shpallura e që garantojnë përzgjedhjen e personelit me nivelin e duhur të kualifikimit dhe në përputhje me natyrën, strukturën, modulet dhe përmbajtjen e programit të studimit.
@@ -1424,7 +1424,7 @@ Kriteri 3. Rezultatet e vlerësimit duhet të shoqërohen me një plan masash, q
 Kriteri 4. Institucioni vlerëson dhe siguron efektivitetin dhe impaktin e veprimtarive në kuadër të monitorimit e vlerësimit të cilësisë, në përmirësimin në vijim të cilësisë së programit të doktoratës.
 Kriteri 5. Institucioni dhe njësia përgjegjëse organizon veprimtari periodike me personelin akademik përgjegjëse dhe studentët doktorantë për informimin dhe ndërgjegjësimin e tyre për sigurimin dhe përmirësimin e afatgjatë të cilësisë së programit të doktoratës.
 SHTOJCA NR. 7
-STANDARDET E CILËSISË PËR PROGRAMET E STUDIMEVE TË CIKLIT TË TRETË “SPECIALIZIME AFATGJATA”
+STANDARDET E CILËSISË PËR PROGRAMET E STUDIMEVE TË CIKLIT TË TRETË “SPECIALIZIME AFATGJATA” NË FUSHËN E MJEKËSISË
 FUSHA 1. KUADRI I PËRGJITHSHËM I PROGRAMIT SPECIALIZIM AFATGJATË
 Standardi I.1 Programi i studimit i ciklit të tretë Specializim afatgjatë në fushën e mjekësisë ofrohet nga institucione të arsimit të lartë që përmbushin kriteret ligjore në fuqi në Republikën e Shqipërisë
 Kriteri 1. Programi i specializimit afatgjatë ofrohet nga institucione me statusin universitet, i akredituar në Republikën e Shqipërisë.
@@ -1946,3 +1946,223 @@ Terapi stomatologjike
 2
 120
 63
+SHTOJCA NR. 8
+STANDARDET E CILËSISË PËR PROGRAMET E STUDIMEVE TË CIKLIT TË TRETË “SPECIALIZIME AFATGJATA” NË FUSHËN E MJEKËSISË VETERINARE
+FUSHA 1. KUADRI I PËRGJITHSHËM I PROGRAMIT TË SPECIALIZIMIT AFATGJATË
+Standardi I.1 Programi i studimit i ciklit të tretë “Specializim afatgjatë” në fushën e mjekësisë veterinare ofrohet nga institucione të arsimit të lartë, që përmbushin kriteret ligjore në fuqi në Republikën e Shqipërisë
+Kriteri 1. Programi i specializimit afatgjatë ofrohet nga institucione me statusin universitet, i akredituar në Republikën e Shqipërisë.
+Kriteri 2. Programi i specializimit afatgjatë, që ofrohet në bashkëpunim me institucione të tjera të arsimit të lartë brenda ose jashtë vendit, të cilat të jenë të akredituara në vendin e origjinës.
+Kriteri 3. Programi i specializimit afatgjatë hartohet nga njësitë bazë përgjegjëse të institucionit nëpërmjet procedurave të brendshme transparente dhe miratohet në përputhje me statutin, rregulloren e aktet organizative të institucionit.
+Kriteri 4. Programi i specializimit afatgjatë në fushën e mjekësisë veterinare përfshin formim teorik e praktik në fushën e specialitetit. Institucionet e arsimit të lartë duhet të kenë zhvilluar dhe akredituar programet e integruara të ciklit të dytë në fushën e mjekësisë veterinare në momentin e ofrimit të një programi të ciklit të tretë.
+Kriteri 5. Programi i studimeve të specializimit afatgjatë kryhet me kohë të plotë, në përputhje me programin përkatës të specializimit, procedurat e përcaktuara, si dhe nën mbikëqyrjen e personave dhe të autoritetit apo entit përgjegjës.
+Standardi I.2 Programi i studimit afatgjatë në fushën e mjekësisë veterinare ofrohet në përputhje me strategjinë e zhvillimit të institucionit
+Kriteri 1. Programi i studimit “specializim afatgjatë” hartohet e ofrohet në përputhje dhe në zbatim të strategjisë së zhvillimit të institucionit.
+Kriteri 2. Programi i specializimit afatgjatë në fushën e mjekësisë veterinare ka të përcaktuara qartë emërtimin, organizimin, strukturën, përmbajtjen, qëllimin dhe objektivat e tij, të harmonizuara me ato të institucionit ofrues, në përputhje dhe me Kornizën Shqiptare të Kualifikimeve.
+Standardi I.3 Programi i studimit “specializim afatgjatë” në fushën e mjekësisë veterinare synon të plotësojë nevojat aktuale që ka vendi për specialistë në fushën e mjekësisë veterinare
+Kriteri 1. Programi i studimeve specializuese në fushën e mjekësisë veterinare synon të plotësojë kërkesat e tregut të punës në përputhje me nevojat për specialistë në fushën e mjekësisë veterinare.
+Standardi I.4 Programi i studimeve ofrohet në përshtatje me nivelin e studimeve
+Kriteri 1. Programi i specializimit afatgjatë në fushën e mjekësisë veterinare, i cili përfshin formim teorik e praktik, duhet të ketë të gjithë informacionin e nevojshëm, që përshkruan strukturën didaktike dhe figurat profesionale të angazhuara në programin specializues.
+Kriteri 2. Programi i specializimit afatgjatë kryhet me kohë të plotë dhe përfshin pjesëmarrjen në veprimtaritë akademike, laboratorike dhe/ose klinike të departamentit/eve, ku ofrohet formimi, në përputhje me rregulloren e programit të specializimeve afatgjata në fushën e mjekësisë veterinare.
+Standardi I.5 Programi i studimit i ciklit të tretë “specializim afatgjatë” në fushën e mjekësisë veterinare synon të plotësojë nevojat që ka vendi për specialistë në fushën e mjekësisë veterinare
+Kriteri 1. Për hartimin e programit të specializimit afatgjatë, njësia bazë përgjegjëse kryen studime dhe analiza mbi situatën, zhvillimin, nevojat, prioritetet në fushën e përgjithshme dhe specifike të programit dhe në bazë të politikave shtetërore të zhvillimit të fushës së mjekësisë veterinare, të cilat bëhen pjesë e projektpropozimit përpara hapjes së programit.
+Kriteri 2. Programi i specializimit afatgjatë ka objektiva të përcaktuar qartë për formimin e specialistëve në fushën e mjekësisë veterinare me njohuri të thelluara kërkimore, si dhe aftësi e kompetenca të thelluara praktike në fushat përkatëse të mjekësisë veterinare, në përputhje me kërkesat dhe nevojat që ka vendi.
+Kriteri 3. Programi i specializimit afatgjatë hartohet e harmonizohet me programe të ngjashme të ofruara nga institucione partnere vendase apo të huaja, udhëzues, direktiva të Bashkimit Evropian, të institucioneve dhe organizmave ndërkombëtarë, me të cilët është partner apo bashkëpunon vendi ynë.
+Kriteri 4. Me qëllim rritjen e bashkëpunimit në nivel ndërkombëtar, mobilitetit dhe përfshirjen në veprimtaritë akademike të programit edhe të specialistëve të huaj, programi mund të aplikohet pjesërisht ose plotësisht edhe në një nga gjuhët e Bashkimit Evropian.
+Kriteri 5. Programet e studimeve specializuese afatgjata në fushën e mjekësisë veterinare synojnë të plotësojnë kërkesat e tregut të punës, në përputhje me nevojat për specialistë në fushën e mjekësisë veterinare.
+Kriteri 6. Numri i përgjithshëm i specializantëve dhe numri i atyre që e ndjekin këtë program studimi çdo vit përcaktohen në përputhje me politikat shtetërore të zhvillimit të fushës së mjekësisë veterinare dhe kapacitetet pritëse të institucionit të arsimit të lartë (në varësi të kapaciteteve pritëse akademike/profesionale dhe infrastrukturore).
+Standardi I.6 Organizimi i programit të specializimit afatgjatë është në përputhje me fushën akademike dhe në bazë specialiteti
+Kriteri 1. Programi i specializimit afatgjatë organizohet në nivel njësie bazë, e cila është përgjegjëse për mbarëvajtjen dhe ecurinë e tij.
+Kriteri 2. Njësia përgjegjëse ka profilin, përvojën, kapacitetet dhe burimet e duhura në fushën akademike për ofrimin e programit të specializimit afatgjatë në fushën e mjekësisë veterinare.
+Kriteri 3. Programi i specializimit mbështetet mbi objektiva të qartë profesionalë dhe është i integruar me veprimtaritë praktike e didaktike.
+Kriteri 4. Fusha specifike e programit të specializimit afatgjatë është në përputhje me fushën akademike të njësisë përgjegjëse (departamentit), sipas klasifikimit të programit të studimit, në përputhje me direktivat e udhëzimet kombëtare dhe evropiane.
+Kriteri 5. Në rastet kur programi ofrohet në bashkëpunim me institucione të tjera, fusha specifike e programit të specializimit është në përputhje me fushën akademike të njësive përgjegjëse në institucionet përkatëse.
+FUSHA 2. ORGANIZIMI, STRUKTURA DHE ADMINISTRIMI I PROGRAMIT
+Standardi II.1 Organizimi i programit bazohet në rregullore dhe udhëzues të posaçëm të programit të specializimit afatgjatë
+Kriteri 1. Njësia kryesore përgjegjëse për organizimin e zhvillimin e programit të specializimit përcakton në mënyrë të detajuar rregullat e organizimit e të funksionimit të tij dhe i përditëson ato në funksion të përmirësimit të cilësisë.
+Kriteri 2. Elementet e organizimit të programit, përgjegjësisë, të drejtat dhe detyrimet, përcaktohen në rregulloren e specializimeve afatgjata dhe në aktet e brendshme rregullatore.
+Kriteri 3. Institucioni harton e miraton udhëzues, modele për raportimin, vlerësimin dhe arritjen e specializantëve gjatë vitit akademik dhe gjithë kohëzgjatjes së studimeve.
+Standardi II.2 Përmbajtja e programit të studimit “specializim afatgjatë” organizohet në përputhje me aktet ligjore e nënligjore në fuqi, si dhe në udhëzues të hapësirës evropiane në arsimin e lartë
+Kriteri 1. Kohëzgjatja normale e këtyre programeve të studimeve është jo më pak se 2 vjet akademikë, në përputhje me ligjin e profesioneve të rregulluara dhe studenti duhet të grumbullojë jo më pak se 120 kredite.
+Kriteri 2. Kohëzgjatja maksimale e programit të specializimit afatgjatë në fushën e mjekësisë veterinare nuk mund të jetë më shumë se dyfishi i kohëzgjatjes normale të tij.
+Kriteri 3. Programi duhet të përfshijë të paktën 80% të ECTS-ve totale për aktivitete praktike e profesionalizuese dhe 20% për studime të organizuara teorike të shpërndara në vite sipas një plani mësimor të përcaktuar në fillim të programit të studimit. Përmbajtja e programit, organizimi, vlerësimi dhe monitorimi përafrohen me shembuj të ngjashëm në institucione ndërkombëtare të hapësirës evropiane të arsimit të lartë.
+Kriteri 4. Raporti i lëndëve (referuar totalit të ECTS) të përcaktuara në programin e studimit përbëhet nga:
+60% lëndë specifike;
+30% lëndë karakterizuese të fushës;
+5% lëndë të formimit bazë, ndërdisiplinore ose integruese dhe për aktivitete të tjera;
+5% provimi përfundimtar.
+Jo më shumë se 15% e lëndëve vjetore duhet të jenë lëndë me zgjedhje, sipas kuadrit ligjor në fuqi.
+Kriteri 5. Në përfundim të secilit vit organizohet provimi vlerësues teorik dhe praktik i lëndës, i cili vlerësohet me notë. Vlerësimi vjetor i lëndës kryhet nga një komision i përbërë nga të paktën 2 (dy) pedagogë. Ndër ta, të paktën njëri prej tyre duhet të jetë pedagog me kohë të plotë në fushën përkatëse, ndërsa pedagogu i dytë, me përvojë i fushës përkatëse ose të përafërt me të sipas moduleve të zhvilluara. Studentët, që vlerësohen negativisht 5 herë, marrin një dëshmi për modulet e zhvilluara së bashku me kreditet e grumbulluara dhe i ndërpresin studimet e specializimeve afatgjata.
+Kriteri 6. Në përfundim të programit specializues, studenti i nënshtrohet provimit përfundimtar, i cili përfshin testimin praktik dhe me gojë të studentit dhe/ose paraqitjen e temës së diplomës. Komisioni për vlerësimin përfundimtar të studentit përbëhet nga 5 specialistë të fushës, pedagogë me kohë të plotë të IAL-it, që ofron specializimin, ose të një fushe të afërt, me eksperiencë të paktën 10- (dhjetë-) vjeçare në fushën përkatëse. Kryetar i komisionit duhet të jetë një pedagog me kohë të plotë i fushës përkatëse, përgjegjës për programin e specializimit afatgjatë në këtë fushë. Disa nga njohuritë bazë për të cilat aplikanti testohet në provimin përfundimtar janë:
+a) zhvillimi i mendimit kritik lidhur me situata të ndryshme;
+b) lidhjet mes fushave të ndryshme të mjekësisë veterinare;
+c) aftësi të zhvilluara për zgjidhjen e problemeve që dalin gjatë punës.
+Kriteri 7. Në kuadër të përmirësimit të programit, njësia përgjegjëse ka të drejtën e ndryshimeve në përmbajtje të formimit teorik të programit të specializimit, duke dokumentuar procedurat në përputhje me legjislacionin në fuqi.
+Standardi II.3 Pranimi i studentëve në një program studimi specializues afatgjatë në fushën e mjekësisë veterinare
+Kriteri 1. Studenti i pranuar në programin e studimit “specializues afatgjatë” në fushën e mjekësisë veterinare ka përfunduar programin e integruar të studimeve të ciklit të dytë në fushën e mjekësisë veterinare, me kohëzgjatje 5- (pesë-) vjeçare (300 ECTS), pranë një institucioni të arsimit të lartë të akredituar për programin në fjalë dhe zotëron diplomë “Master i shkencave” ose ekuivalente me të në fushën e mjekësisë veterinare. Për studentët e diplomuar në të njëjtin program studimi jashtë shtetit, duhet të paraqesin diplomën dhe lejen për ushtrimin e profesionit të njohur nga institucionin shtetëror përgjegjës.
+Kriteri 2. Kandidati që aplikon për të vazhduar programin e studimeve të ciklit të tretë, për specializim afatgjatë në fushën e mjekësisë veterinare, i nënshtrohet një konkursi pranimi të miratuar e të organizuar nga institucioni, për të testuar njohuritë në fushën përkatëse të studimit.
+Kriteri 3: Vlerësimi i kandidatit për pranimin në një program studimi bëhet me pikë kumulative, duke vlerësuar të paktën elementet e mëposhtme:
+- Notën mesatare të ponderuar (notën përfundimtare sipas tipologjisë së diplomës, që ai disponon) për jo më shumë se 30% të pikëve totale;
+- Testimin përkatës për jo më shumë se 70% të pikëve totale.
+Kriteri 4. Kandidati që aplikon në programin e ciklit të tretë specializim afatgjatë duhet të ketë përfunduar me sukses provimin e shtetit në profesionin përkatës ose të ketë fituar të drejtën e ushtrimit të profesionit në Republikën e Shqipërisë ose jashtë saj (njohur në Republikën e Shqipërisë).
+Kriteri 5. Kriteret minimale për t’u kualifikuar pasqyrohen në rregulloren e programit të studimeve të specializimit afatgjata në fushën e mjekësisë veterinare dhe të aprovuara nga Senati Akademik.
+Kriteri 6. Kandidati njihet me rregulloren e specializimit afatgjatë të miratuar nga Senati Akademik i IAL-së, me kriteret minimale të pranimit, në faqen zyrtare të IAL-së dhe/ose njësitë kryesore para se të pranohet në të.
+Standardi II.4. Hartimi dhe miratimi i rregullores së specializimit afatgjatë
+Kriteri 1. Rregullorja është hartuar në përputhje me standardet e specializimeve në fushën e mjekësisë veterinare dhe me aktet ligjore e nënligjore në fuqi.
+Kriteri 2. Përditësimet në rregulloren e specializimit afatgjatë i përkasin ciklit të specializimit, që fillojnë për herë të parë me rregulloren e përditësuar deri në përfundim të tij. Nëse është e nevojshme, ndryshimet në rregulloret pasardhëse duhet të përjashtojnë shprehimisht ciklin e nisur të specializimit.
+Kriteri 3. Rregullorja propozohet nga njësia kryesore në bashkëpunim me njësinë bazë, që ofron programin e specializimit dhe miratohet nga senati akademik i IAL.
+Standardi II.5 Rregullorja përcakton kriteret dhe mënyrën e përzgjedhjes së organeve drejtuese të programit të specializimit dhe tutorëve
+Kriteri 1. Në rregullore pasqyrohen qartë kriteret dhe mënyra e përzgjedhjes së përgjegjësit të programit të specializimit, sipas përcaktimeve në këto standarde.
+Kriteri 2. Në rregullore përcaktohen kriteret dhe mënyra e përzgjedhjes së përgjegjësit/tutorit për çdo specializant, si dhe detyrat e tij.
+Standardi II.6 Në rregullore është përcaktuar qartë mënyra e pranimit të studentëve në programin e specializimit
+Kriteri 1. Në rregulloren e programit të studimit të specializimit afatgjatë në fushën e mjekësisë veterinare të miratuar nga Senati Akademik, janë përcaktuar qartë kriteret për aplikim (niveli i studimeve të kryera, kohëzgjatja dhe titulli i diplomës që kërkohet etj.); kriteret minimale për t’u kualifikuar, si dhe kriteret përjashtuese, nëse ka të tilla.
+Kriteri 2. Në rregullore përcaktohet qartë dokumentacioni që duhet të dorëzojë kandidati për aplikim, mënyra e dorëzimit të dokumentacionit dhe afati përfundimtar.
+Kriteri 3. Në rregullore janë përcaktuar qartë pikët maksimale që mund të grumbullojë kandidati dhe pikët që i jepen kandidatit për çdo kriter të plotësuar, si dhe pikët maksimale e minimale që mund t’i jepen kandidatit gjatë çdo testimi.
+Kriteri 4. Në rregullore përcaktohet qartë mënyra e aplikimit, e konkurrimit të kandidatit për specializim; përcaktohet sa kohë para datës së shpallur mbyllet pranimi i dokumenteve.
+Kriteri 5. Në rregullore është përcaktuar qartë mënyra e zhvillimit të konkurrimit dhe procedura e saj.
+Kriteri 6. Në rregullore përcaktohet qartë mënyra e vlerësimit të kandidatëve dhe dokumentacioni i përdorur i cili ruhet sipas procedurave të parashikuara në rregullore.
+Kriteri 7. Numri i specializantëve që do të pranohen publikohet të paktën 2 javë përpara datës së fillimit të aplikimeve.
+Kriteri 8. Mënyra e vlerësimit, mbi të cilat bëhet përzgjedhje, duhet të përcaktohet në rregullore dhe të publikohet të paktën 2 javë përpara datës së fillimit të aplikimeve.
+Kriteri 9. Në rregullore është përcaktuar qartë mënyra dhe afatet e shpalljes së rezultateve të testeve dhe të listës përfundimtare me fituesit, si dhe vendi e data e shpalljes së rezultateve.
+Standardi II.7 Në rregullore parashikohen elemente të procesit mësimor të programit specializues
+Kriteri 1. Në rregulloren e specializimeve parashikohen mënyra e frekuentimit, maksimumi i mungesave të lejuara dhe arsyet, leja e lindjes dhe mënyra e rikuperimit të mungesave etj.
+Kriteri 2. Në rregulloren e specializimeve parashikohen procedurat për transferimet nga institucione të tjera, që ofrojnë programe specializuese në mjekësi veterinare.
+Kriteri 3. Në rregulloren e specializimeve parashikohen kriteret dhe mënyra e pezullimit të studimeve, të zgjatjes së tyre, ose të përjashtimit të specializantit.
+Standardi II.8 Në rregullore parashikohet libreza e aktivitetit praktik të studentit
+Kriteri 1. Rregullorja parashikon librezën e aktivitetit praktik të studentit, mënyrën e plotësimit të saj dhe të zëvendësimit, në rast humbjeje. Libreza e studentit e shoqëron atë deri në përfundim të programit specializues dhe të diplomimit të tij.
+Standardi II.9 Në rregullore parashikohen procedurat për testimet vjetore dhe testimin përfundimtar, si dhe forma e diplomës
+Kriteri 1. Në rregullore përcaktohet mënyra e testimit vjetor të lëndëve dhe e atij përfundimtar të specializantëve, pikët minimale dhe maksimale, lloji i testit etj.
+Kriteri 2. Në përfundim të studimeve të specializimit afatgjatë, i diplomuari pajiset me diplomën e specializimit. Diploma duhet të firmoset nga rektori i IAL-së, që ofron specializimin, dhe nga dekani i fakultetit përkatës.
+Standardi II.10 Të drejtat dhe detyrimet e specializantit
+Kriteri 1. Rregullorja duhet të përmbajë të drejtat dhe detyrat që ka specializanti.
+Kriteri 2. Në rregullore parashikohen rastet kur mund të pezullohet specializimi nga ana e specializantit dhe periudha maksimale e lejuar për pezullim, si dhe procedurat për të hequr dorë nga specializimi.
+Kriteri 3. Në rregullore përcaktohen tregues të matshëm lidhur me plagjiaturën e punimit të diplomës, si dhe referenca të lidhura me to, duke u kujdesur që niveli i ngjashmërisë së punimit të diplomës të jetë nën 30%.
+Standardi II.11 Njësia kryesore përgjegjëse për programin e specializimit administron të gjithë dokumentacionin e nevojshëm për çdo specializant nga aplikimi, pranimi deri në përfundim të studimeve
+Kriteri 1. Njësia kryesore mban në formë elektronike dhe shkresore të gjithë dokumentacionin e aplikantëve në fazën e aplikimit.
+Kriteri 2. Njësia kryesore mban në formë elektronike dhe shkresore të gjithë dokumentacionin e procesit të përzgjedhjes e të vendimmarrjes së kandidatëve aplikantë dhe fitues dhe garanton transparencë në vendimmarrje e në proceset e ankimimit.
+Kriteri 3. Njësia kryesore mban në formë elektronike dhe shkresore të dhënat e çdo specializanti në lidhje me veprimtaritë akademike dhe kërkimore eksperimentale gjatë të gjithë kohëzgjatjes së studimeve.
+Kriteri 4. Njësia kryesore mban në formë elektronike dhe shkresore raportimet, komunikimet zyrtare, vlerësimet e lëndëve dhe të progresit të specializantit.
+Kriteri 5. Njësia kryesore harton në mënyrë periodike raportime mbi ecurinë e programit të specializimit.
+Kriteri 6. Njësia kryesore vë në dispozicion të studentëve sistemin elektronik antiplagjiaturë, si dhe mekanizma të tjerë të vetëkontrollit për eliminimin e plagjiaturës dhe respektimin e së drejtës së pronësisë intelektuale.
+FUSHA 3. BURIMET NË FUNKSION TË PROGRAMIT TË SPECIALIZIMIT AFATGJATË
+Standardi III.1 Njësia përgjegjëse garanton personelin e nevojshëm akademik për zhvillimin e programit dhe realizimin e objektivave të tij
+Kriteri 1. Personeli akademik i angazhuar në programin e specializimit afatgjatë është i kategorisë profesor (“Profesor”, “Profesor i asociuar”), i kategorisë lektor (“Doktor”), të cilët janë angazhuar me punë kërkimore, didaktike, klinike/laboratorike, duke pasur të paktën 10 vjet përvojë pune.
+Kriteri 2. Përgjegjësi/drejtuesi i programit të specializimit, është i kategorisë “Profesor”, me kohë të plotë në fushën përkatëse, me jo më pak se 10 vjet përvojë në ushtrimin e profesionit. Përgjegjësi/drejtuesi i programit të specializimit propozohet nga njësia bazë përgjegjëse dhe miratohet në nivel të njësisë kryesore.
+Kriteri 3. Personeli akademik i programit të studimit afatgjatë përbëhet nga:
+1. Personel akademik me kohë të plotë me tituj akademikë dhe me grada shkencore, jo më pak se 50% e pedagogëve, që mbulojnë programin e studimit. Të paktën 1 (një) pedagog me kohë të plotë, i kategorisë “Profesor”, duhet t’i përkasë fushës së programit të studimit.
+2. Personel akademik, i cili ushtron profesionin në strukturat universitare të përcaktuara, sipas legjislacionit në fuqi në masën jo më shumë se 50% e pedagogëve që mbulojnë programin e studimit. Ky personel akademik të ketë eksperiencë didaktike-formuese dhe eksperiencë profesionale-kërkimore në fushën përkatëse.
+3. Personel akademik me kohë të pjesshme, për disiplina të veçanta, jo më shumë se 10% e pedagogëve që mbulojnë programin e studimit, me të cilët lidhet një kontratë, sipas nevojave të strukturës së programit të studimit.
+Kriteri 4. Njësia përgjegjëse garanton se ka kapacitete për udhëheqjen e specializantit. Udhëheqësi i specializantit është udhëheqës akademik. Drejtimi i specializantit i ngarkohet, në cilësinë e udhëheqësit, një pedagogu (udhëheqës akademik/tutori), të programit të studimit, i cili/të cilët udhëheqin specializantin gjatë gjithë periudhës së specializimit dhe janë përgjegjës për drejtimin, këshillimin, vlerësimin e nevojave të studentit, si edhe për zhvillimin e monitorimin e punës së studentit.
+Fusha e specializimit të udhëheqësit duhet të përputhet me atë të programit specializues që ndjek. Udhëheqësi ka një përvojë profesionale të paktën 10- (dhjetë-) vjeçare në fushën përkatëse dhe ka të paktën gradën shkencore “Doktor”. Numri maksimal i studentëve specializantë që mund të ndiqen nga udhëheqësi është 3 (tre). Udhëheqësi/tutori është personel me kohë të plotë pranë IAL-it, që ofron programin. Për caktimin e udhëheqësit merret vendimi i drejtuesit të strukturës dhe udhëheqja konsiderohet si pjesë e orarit të punës.
+Aktiviteti i mësimdhënies kryhet njëkohësisht me aktivitetin profesional, në përputhje me kërkesat e programit të studimit.
+Standardi III.2 Institucioni garanton infrastrukturën dhe logjistikën e nevojshme në funksion të programit të specializimit afatgjatë
+Kriteri 1. Institucioni ka një vendndodhje të përhershme, që nënkupton mjedis qendror administrativ dhe mjedis, ku zhvillohet veprimtaria mësimore. Këto mjedise duhet të jenë në dispozicion të institucionit për jo më pak se 2 vjet.
+Kriteri 2. Institucioni duhet të ketë kapacitete të mjaftueshme infrastrukturore dhe teknologjike. Ai disponon struktura administrative dhe laboratorike/klinike, të mjaftueshme për aktivitetet e parashikuara në programin e studimit specializues.
+Kriteri 3. Institucioni mund të organizojnë programe të përbashkëta specializuese afatgjata me një apo më shumë institucione të tjera, të njohura/akredituara sipas legjislacionit në fuqi.
+Standardi III.3 Institucioni mund të ofrojë programe mësimdhënieje në gjuhë të huaj me një personel akademik të kualifikuar
+Kriteri 1. Institucioni që ofron programe mësimdhënieje në gjuhë të huaj, plotëson të njëjtat standarde të përcaktuara për IAL-et, që ofrojnë programet e studimeve specializuese të fushës së mjekësisë veterinare në gjuhën shqipe.
+Kriteri 2. Personeli akademik që angazhohet në mësimdhënie në gjuhë të huaj disponon një certifikatë për njohje të gjuhës së njohur ndërkombëtarisht, sipas kuadrit ligjor në fuqi.
+Standardi III.4 Strukturat e përfshira duhet të disponojnë standardet e përgjithshme dhe specifike të parashikuara
+Kriteri 1. Institucioni disponon standarde të përgjithshme, në përputhje me kapacitetin infrastrukturor, teknologjik, organizativ dhe asistencial, sipas kritereve të mëposhtme dhe sipas kritereve specifike të parashikuara:
+1. Kapaciteti infrastrukturor: hapësira të mjaftueshme për ushtrimin e funksioneve të parashikuara;
+2. Kapaciteti teknologjik: pajisje të nevojshme për ushtrimin e funksioneve të parashikuara;
+3. Kapaciteti organizativ: kompetenca të nevojshme profesionale;
+4. Kapaciteti asistencial: sasi dhe tipologji të caktuar të ndërhyrjeve veterinare;
+5. Struktura asistenciale me pajisjet e nevojshme teknologjike.
+Kriteri 2. Të gjitha strukturat (për shembull, auditorët, biblioteka, sekretaria etj.) plotësojnë standardet e përgjithshme.
+Kriteri 3. Struktura bazë është pajisur me ambientet/pajisjet e nevojshme:
+1. Sekretari didaktike;
+2. Bibliotekë shkencore të pasur me botime dhe në formë elektronike;
+3. Infrastrukturë të plotë të IT-së;
+4. Laboratorë kërkimorë dhe didaktikë.
+Ambientet e mësipërme duhet të sigurojnë standardet e sigurisë dhe ato higjienike dhe nuk kanë barriera arkitektonike, që pengojnë aksesin në veprimtaritë e ndryshme të parashikuara nga programi i studimit.
+Kriteri 4. Institucioni, që ofron programet specializuese, garanton se ka kapacitete të mjaftueshme në personel akademik, ndihmësakademik e administrativ për të mbuluar nevojat në bazë të kapaciteteve.
+Kriteri 5. Institucioni që ofron programin specializues është i mirorganizuar dhe disponon dokumentacion që tregon mënyrën e organizimit dhe strukturën drejtuese, si dhe personelin akademik, ndihmësakademik e administrativ dhe rolet e parashikuara për secilin.
+Standardi III.5 Njësia përgjegjëse për programin e specializimit afatgjatë dëshmon qëndrueshmëri financiare dhe siguron mjetet e duhura të financimit e të mbështetjes së studentëve
+Kriteri 1. Institucioni nëpërmjet raporteve dhe auditeve financiare dëshmon ecuri pozitive dhe qëndrueshmëri në gjenerimin dhe përdorimin e të ardhurave financiare.
+Kriteri 2. Njësia përgjegjëse siguron nëpërmjet institucionit, projekteve ose financimeve nga subjekte të tjera fondet e nevojshme për zhvillimin e programit të specializimeve.
+Kriteri 3. Programi i studimeve të specializimit afatgjatë mbështetet nga një buxhet i mjaftueshëm i njësisë përgjegjëse.
+Kriteri 4. Struktura e shpërndarjes së buxhetit financiar të programit të studimeve të specializimeve përputhet me politikën dhe zhvillimin e institucionit.
+Kriteri 5. Përdorimi i mjeteve financiare të alokuara për zhvillimin e programit të specializimit është objekt i raportimit dhe i auditimit të vazhdueshëm.
+FUSHA 4. KËRKIMI DHE EKSPERIENCA KLINIKE E PROFESIONALE
+Standardi IV.1 Specializanti ka një tutor, që e ndjek atë gjatë gjithë periudhës së specializimit
+Kriteri 1. Studenti ka një udhëheqës (tutor) të diplomuar dhe me eksperiencë në fushën e specializimit të paktën 10- (dhjetë-) vjeçare, i cili zotëron gradën shkencore “Doktor”.
+Kriteri 2. Njësia përgjegjëse përzgjedh udhëheqësit (tutorët) sipas përcaktimeve në rregulloren e programit të specializimit afatgjatë në fushën e mjekësisë veterinare.
+Kriteri 3. Udhëheqësit punojnë për përditësimin e njohurive dhe aftësive të tyre, mbështetur në marrëveshjet institucionale, me qëllim mundësimin e shkëmbimeve të praktikave më të mira dhe dhënien e këshillave në mbështetje efektive të studentëve.
+Kriteri 4. Udhëheqësi ka ekspertizën, formimin dhe jep udhëzimet e duhura për rolin e tij në udhëheqjen e specializantit në realizimin e studimeve dhe në veçanti të pjesës praktike.
+Kriteri 5. Në të gjitha rastet, studenti ka vetëm një pikë të identifikuar kontakti, i cili duhet të jetë udhëheqësi i tij. Nëse udhëheqësi kryesor nuk është në dispozicion, studentit i bëhet me dije se cili do të jetë personi që do ta zëvendësojë.
+Kriteri 6. Institucioni siguron që udhëheqësi të ketë kohën e mjaftueshme për ta mbikëqyrur specializantin.
+Standardi IV.2 Objektiva të programit të studimit të specializimit afatgjatë në fushën e mjekësisë veterinare janë angazhimi i vazhdueshëm në punën kërkimore dhe nxitja e punës në ekip e studentëve
+Kriteri 1. Studenti angazhohet në punën kërkimore për aftësimin dhe përfundimin me sukses të programit të studimit.
+Kriteri 2. Studenti merr pjesë në aktivitete të ndryshme kërkimore të lidhura ngushtë me fushën specifike në të cilën ndjek studimet e specializimeve, të cilat e ndihmojnë të aftësohet për:
+1. përvetësimin e metodologjive dhe njohurive kërkimore për veprimtari të pavarura krijuese, si: artikuj shkencorë, prezantime etj.;
+2. punën e pavarur në laborator;
+3. përdorimin e burimeve të informacionit (bibliotekat dhe internetin, databazat me karakter shkencor) dhe administrimin e informacionit;
+4. përdorimin e teknologjive bashkëkohore për prezantime publike;
+5. përvetësimin e metodave të avancuara të analizës dhe përpunimit të të dhënave;
+6. njohjen dhe përvetësimin e terminologjisë së specializuar lidhur me fushën e specializimit.
+Kriteri 3. Studenti i programit specializues merr pjesë në aktivitetet e parashikuara të programit të studimit jashtë punës së tyre.
+Specializanti ka të drejtë të marrë pjesë si dëgjues apo referues në:
+1. ligjërata;
+2. seminare;
+3. debate ndërdisiplinore, të organizuara në kuadër të programit të studimit të specializimeve;
+4. mundësi të tjera të të mësuarit, si: ndjekja e prezantimeve të konferencave dhe të seminareve të ndryshme me karakter shkencor e praktik;
+Udhëheqësit i këshillojnë studentët të marrin pjesë në aktivitete dhe konferenca shkencore, që i ndihmojnë në punën e tyre.
+Kriteri 4. Studenti, para diplomimit të tij, duhet të ketë botuar ose të pranuar të paktën një artikull kërkimor shkencor/eksperimental të lidhur me fushën në një revistë shkencore brenda ose jashtë vendit (open access).
+Kriteri 5. Studenti ndjek rregullat e sjelljes etike dhe profesionale me kolegët, dhe fiton aftësi për komunikim korrekt me të tjerët.
+FUSHA 5. STUDENTËT
+Standardi V.1 Studenti që ka përfunduar një program të integruar të studimeve në fushën e mjekësisë veterinare plotëson standardet akademike të kritereve të pranimit të institucionit përkatës dhe gëzon të drejtën për t’u regjistruar në programin e specializimit afatgjatë në fushën e mjekësisë veterinare
+Kriteri 1. Aplikanti që kërkon të pranohet në programin e specializimit i nënshtrohet procedurës së konkurrimit.
+Kriteri 2. Institucioni disponon një model vlerësues për përcaktimin e njohurive, të kapacitetit, të aftësive të aplikantëve në këndvështrime të ndryshme.
+Kriteri 3. Institucioni shpall paraprakisht kriteret e pranimit dhe instrumentet, që përdor për përcaktimin e njohurive, kapacitetit, aftësive të aplikantëve në këndvështrime të ndryshme.
+Kriteri 4. Institucioni vlerëson në mënyrë të vazhdueshme politikat e pranimit dhe ndikimin e tyre në përparimin e mëtejshëm të studentëve në programin e studimit.
+Standardi V.2 Institucioni disponon statistika në lidhje me numrin dhe të dhënat e studentëve, që ndjekin programet e studimit specializuese afatgjata
+Kriteri 1. Institucioni ka një pasqyrë të përvitshme për numrin e të diplomuarve, në programin e specializimit afatgjatë, tërheqjet nga programi, si dhe largimet para përfundimit të programit apo mospërfundimin me sukses të vitit akademik.
+Kriteri 2. Institucioni zotëron të dhëna individuale për ecurinë akademike të studentëve që nga pranimi (notat e mëparshme, p.sh. vlerësimin e studentëve në programin e mëparshëm të studimit).
+Standardi V.3 Institucioni informon studentët në mënyrë të vazhdueshme dhe të detajuar në lidhje me programin e studimit
+Kriteri 1. Studenti informohet në mënyrë të vazhdueshme dhe të detajuar për organizimin e programit të studimit dhe afatin e përfundimit.
+Kriteri 2. Studenti informohet nga njësia përgjegjëse për rezultatet e vlerësimit.
+Standardi V.4 Studenti ka të gjitha kushtet e nevojshme për të realizuar programin e studimit
+Kriteri 1. Studenti i pranuar në programin e studimit ka kushtet e nevojshme për të realizuar veprimtaritë me karakter akademik, shkencor e praktik.
+Kriteri 2. Programi i studimit siguron harmonizim të synimeve të studentit në fushën kërkimore-shkencore dhe praktike dhe, në përfundim të tij, edhe mundësive për karrierë profesionale ose punësim.
+Kriteri 3. Studenti ka në dispozicion bibliotekën shkencore të pasur me botime shkresore dhe në formë elektronike, si dhe infrastrukturë të plotë të IT-së.
+Kriteri 4. Studenti ka mbështetje teknike të mjaftueshme për zhvillimin e aktivitetit mësimor.
+Kriteri 5. Hulumtimet që kanë të përfshira kërkime laboratorike mbështeten me bazë laboratorike të mjaftueshme.
+Kriteri 6. Studenti është i siguruar gjatë gjithë periudhës së specializimit dhe për të gjitha aktivitetet e parashikuara në programin specializues. Për këtë disponohet dokumentacion i mjaftueshëm nga institucioni. Një kopje e policës së sigurimit i dorëzohet studentit në momentin e lidhjes së saj.
+Kriteri 7. Institucioni mban një bazë të dhënash të studentëve të punësuar dhe vendet e punësimit.
+Standardi V.5 Institucioni ndjek procedura të qarta për vlerësimin e njohurive të studentëve
+Kriteri 1. Institucioni ndjek procedura të qarta dhe transparente për vlerësimin në vazhdimësi të dijeve të studentit, të përcaktuara dhe të bëra të ditura që në fillim të programit të studimeve në rregulloren e specializimit.
+Kriteri 2. Institucioni disponon një sistem të informatizuar për kontrollin e vlerësimin e njohurive të marra nga studentët gjatë programit të studimit.
+Kriteri 3. Konkluzionet e vlerësimit në vazhdimësi janë të qarta dhe transparente, përfshirë pezullimin, zgjatjen ose përjashtimin nga studimet specializuese.
+Kriteri 4. Vlerësimi i studentëve bëhet sipas lëndëve që ka ndjekur specializanti gjatë atij viti akademik.
+FUSHA 6. SIGURIMI I CILËSISË NË PROGRAMIN E SPECIALIZIMIT AFATGJATË
+Standardi VI.1 Institucioni dhe njësia përgjegjëse e lartë harton e zbaton politika dhe procedura transparente të posaçme për sigurimin e cilësisë së programit të specializimit afatgjatë, në kuadër të strukturave e sistemit të brendshëm të sigurimit të cilësisë
+Kriteri 1. Institucioni ka politika, struktura dhe procedura për sigurimin e brendshëm të cilësisë (SBC), në përputhje me parashikimet ligjore e nënligjore në fuqi dhe me aktet rregullatore institucionale.
+Kriteri 2. Institucioni ka të ngritur dhe funksional sistemin e brendshëm të sigurisë së cilësisë dhe zbaton një strategji institucionale për përmirësimin e vazhdueshëm të cilësisë, ku përfshihen edhe studentët dhe bashkëpunëtorë e ekspertë të jashtëm.
+Kriteri 3. Institucioni përdor instrumentet e duhura për sigurimin e cilësisë, sigurimi i jashtëm i cilësisë në arsimin e lartë realizohet përmes proceseve të vlerësimit të jashtëm të akreditimit, vlerësimeve analitike e krahasuese, si dhe proceseve të tjera, që promovojnë e përmirësojnë cilësinë.
+Kriteri 4. Institucioni ka hartuar një politikë të qartë dhe ndjek procedura periodike për sigurimin dhe përmirësimin e cilësisë së programit të studimit që ofron, në kuadër të SBC-së. Ato synojnë krijimin e kulturës së cilësisë në rang institucional të njësive përbërëse dhe të të gjithë aktorëve të brendshëm të institucionit.
+Standardi VI.2 Institucioni dhe njësia përgjegjëse monitoron e vlerëson në mënyrë të vazhdueshme programin e studimit, për të garantuar arritjen e objektivave formues dhe të rezultateve të synuara të të nxënit
+Kriteri 1. Institucioni ngre njësi të posaçme për monitorimin, shqyrtimin, mbikëqyrjen, rishikimin e programit të specializimit.
+Kriteri 2. Institucioni përdor mekanizma dhe procese formale e të dokumentuara për shqyrtimin, miratimin dhe mbikëqyrjen e herëpashershme të programit të specializimit.
+Kriteri 3. Institucioni ka përcaktuar indikatorë dhe tregues cilësorë të matshëm sasiorë për programin e specializimit në kuadër të vlerësimit të cilësisë së programit.
+Kriteri 4. Institucioni përdor metodologji vlerësimi, instrumente matëse dhe vlerësuese për ecurinë dhe mbarëvajtjen e programit të studimit.
+Kriteri 5. Rezultatet e këtyre vlerësimeve dokumentohen dhe u bëhen të njohura autoriteteve përgjegjëse dhe vendimmarrëse për programin e studimit.
+Kriteri 6. Raportet e vlerësimit duhet të përfshijnë rezultatet e pritshme, rezultatet e vlerësimit dhe masat e marra për adresimin e mangësive dhe përmirësimin në vijim të cilësisë.
+Standardi VI.3 Institucioni dhe njësia përgjegjëse përdorin procedura e metodologji vlerësimi, instrumente matëse dhe vlerësuese për hapjen, zhvillimin dhe ecurinë e programit të studimit, diplomimin dhe daljen në tregun e punës apo të studimeve të mëtejshme të studentëve
+Kriteri 1. Vlerësimi i brendshëm i programit të specializimit kryhet në mënyrë periodike nga njësia e brendshme e cilësisë, që lidhet me këtë program studimi. Institucioni i arsimit të lartë e përfshin këtë informacion në vetëvlerësimin institucional në kuadër të akreditimit apo vetëvlerësimeve të brendshme periodike.
+Kriteri 2. Për kryerjen e vlerësimit, institucioni përdor metoda dhe instrumente të ndryshme, të posaçme e të përshtatshme, në përputhje me natyrën e specifikën, që ka programi i specializimit.
+Kriteri 3. Institucioni, në kuadër të vlerësimit të realizimit, mbarëvajtjes e cilësisë së programit, përdor metoda të drejtpërdrejta për vlerësimin e cilësisë.
+Kriteri 4. Institucioni, në kuadër të vlerësimit të realizimit, mbarëvajtjes e cilësisë së programit, përdor metoda të tërthorta vlerësimi, si: sondazhe e intervista të studentëve, të atyre të diplomuar, të personelit akademik, të udhëheqësve dhe të partnerëve.
+Kriteri 5. Mekanizmat e vlerësimit në kuadër të përmirësimit të vazhdueshëm të programit përfshijnë palët e interesuara, institucionet që bashkëpunojnë në realizimin e programit të studimit dhe palëve të tjera, që përfshihen në realizimin apo që shërbejnë për vlerësimin e dijeve e kompetencave të përftuara nga ky program.
+Standardi VI.4 Institucioni përfshin njësitë akademike, stafin e studentët në proceset e SBC-së të programit të studimit dhe informon palët e interesuara lidhur me rezultatet e masat e marra në vijim të tyre
+Kriteri 1. Institucioni duhet të parashikojë dhe të garantojë në politikat e në procedurat e brendshme të cilësisë përfshirjen e aktorëve të brendshëm dhe të jashtëm të interesuar për sigurimin e përmirësimin e vazhduar të cilësisë së programit.
+Kriteri 2. Institucioni përcakton përgjegjësi dhe detyra konkrete për njësitë, individët, studentët dhe palë të tjera të angazhuara në sigurimin e brendshëm të cilësisë së programit të studimit dhe garanton ushtrimin me përgjegjësi të këtyre detyrave.
+Kriteri 3. Në vlerësimin dhe sigurimin e cilësisë së programit të studimit duhet të garantohet përfshirja e njësisë përgjegjëse për programin e studimit, anëtarët e personelit akademik, ndihmësakademik e administrativ dhe studentët e programit të studimit.
+Kriteri 4. Përfshirja dhe aktivizimi i aktorëve të brendshëm në proceset ciklike të vlerësimit duhet të respektojë integritetin akademik dhe të shmangë çdo lloj diskriminimi apo pabarazie kundrejt personelit dhe studentëve.
+Kriteri 5. Pjesë aktive e proceseve të vlerësimit dhe të sigurimit të brendshëm të cilësisë mund të bëhen edhe bashkëpunëtorë dhe/ose ekspertë të jashtëm, që kanë lidhje me programin e studimit apo mund të japin ekspertizë e mendime lidhur me cilësinë e programit e përmirësimin e tij.
+Kriteri 6. Monitorimi i ecurisë akademike të programit dhe sigurimi i cilësisë është pjesë e veprimtarisë së njësisë përgjegjëse që ofron programin.
+Standardi VI.5 Politikat, proceset dhe veprimtaritë për sigurimin e brendshëm të cilësisë për programin e studimit duhet të jenë publike, transparente dhe efektive e të synojnë krijimin e kulturës së brendshme të cilësisë
+Kriteri 1. Politika, strategjia, organizimi dhe veprimtaritë në kuadër të sistemit të sigurimit të brendshëm të cilësisë për programin e studimit janë transparente dhe bëhen publike për studentët dhe të gjithë të interesuarit.
+Kriteri 2. Institucioni dhe njësia përgjegjëse publikon rezultatet e vlerësimeve të programit të studimit, duke respektuar lirinë dhe etikën akademike, si dhe legjislacionin për të dhënat personale.
+Kriteri 3. Rezultatet e vlerësimit duhet të shoqërohen me një plan masash, të adresojnë dhe të synojnë përmirësimin e mangësive e të dobësive të evidentuara.
+Kriteri 4. Institucioni vlerëson e siguron efektivitetin dhe impaktin e veprimtarive, në kuadër të monitorimit e të vlerësimit të cilësisë, në përmirësimin në vijim të cilësisë së programit të studimit.
+Kriteri 5. Institucioni dhe njësia përgjegjëse organizon veprimtari periodike me personelin akademik përgjegjës dhe studentët për informimin e ndërgjegjësimin e tyre për sigurimin dhe përmirësimin afatgjatë të cilësisë së programit.
