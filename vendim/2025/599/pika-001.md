@@ -1,0 +1,1 @@
+1. Ngarkimin e Agjencisë Kombëtare të Planifikimit të Territorit, si organ qendror blerës, për realizimin e konkursit të projektimit për projektidetë e zhvillimit të kampusit universitar “Aleksandër Moisiu”, Durrës.
