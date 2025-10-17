@@ -1,0 +1,1 @@
+4. Agjencia Kombëtare e Arsimit Parauniversitar dhe Drejtoria Rajonale Arsimore Parauniversitare, Korçë të monitorojnë veprimtarinë e Zyrës Vendore të Arsimit Parauniversitar, Korçë-Pustec, për zbatimin e detyrave, sipas këtij urdhri.
