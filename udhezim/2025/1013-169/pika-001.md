@@ -1,0 +1,1 @@
+1. Ndalimin e qarkullimit të patinave elektrike ose kombinimit të tyre, për arsye të sigurisë publike dhe sigurisë së qarkullimit rrugor në rrugë urbane dhe trotuare që ndikojnë në rrjedhshmërinë e qarkullimit dhe në segmentet rrugore për përdorim publik.

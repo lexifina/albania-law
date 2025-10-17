@@ -1,0 +1,1 @@
+3. Drejtoria e Përgjithshme e Policisë së Shtetit në zbatim të misionit të saj për ruajtjen e rendit dhe sigurisë publike, të marri masat e nevojshme për ndalimin e qarkullimit të patinave elektrike ose kombinimit të tyre, deri në rregullimin e kuadrit ligjor mbi përdorimin e tyre.
