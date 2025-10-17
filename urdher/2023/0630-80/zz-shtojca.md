@@ -4,7 +4,10 @@ RREGULLORE
 PËR KËRKESAT TEKNIKE DHE PROCEDURAT ADMINISTRATIVE PËR OPERIMET AJRORE
 Neni 1
 Objekti dhe fusha e veprimit
-1. Kjo rregullore përcakton rregullat e detajuara për operimet ajrore me aeroplanë dhe helikopterë, duke përfshirë inspektimet ramp të avionit, të operatorëve nën mbikëqyrjen e sigurisë së operimit të një shteti tjetër, kur ulen në aerodromet që ndodhen në territorin e Republikës së Shqipërisë.
+1. Kjo rregullore përcakton rregullat e detajuara për operimet ajrore me aeroplanë dhe
+helikopterë, duke përfshirë inspektimet ramp të avionit, të operatorëve nën mbikëqyrjen e sigurisë së operimit të një shteti tjetër, kur ulen në aerodromet që ndodhen në territorin e Republikës së Shqipërisë.
+1a. Kjo rregullore përcakton rregulla të detajuara për operimet inovative të lëvizshmërisë ajrore në
+përputhje me rregullat e fluturimit vizual gjatë ditës të kryera me sipërfaqen në pamje, me avionë me ekuipazh me pilot të vetëm me aftësi ngritjeje dhe uljeje vertikale të përmendura në shkronjën (b)(i) dhe (ii) të nenit 2(1), të vendimit të Këshillit të Ministrave nr. 1095, datë 24.12.2020, “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, i ndryshuar.
 2. Kjo rregullore, gjithashtu, përcakton rregullat e detajuara për kushtet e lëshimit, ruajtjes, ndryshimit, kufizimit, pezullimit ose revokimit të certifikatave të operatorëve të avionëve të përmendur në pikat (b)(i) dhe (ii), të nenit 2(1) të VKM-së nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, me përjashtim të balonave dhe planerave, të angazhuar në operimin e transportit tregtar ajror, privilegjet dhe përgjegjësitë e mbajtësve të certifikatave, si dhe kushtet në të cilat operimet do të ndalohen, kufizohen ose do t’u nënshtrohen kushteve të caktuara në interes të sigurisë.
 3. Kjo rregullore, gjithashtu, përcakton rregullat e detajuara për kushtet dhe procedurat për deklarimin e operatorëve të angazhuar në operime tregtare të specializuara të aeroplanëve dhe helikopterëve ose në operimin jotregtar të avionëve kompleksë me motor, duke përfshirë operimet e specializuara jotregtare të avionëve kompleksë me motor, të aftësive të tyre dhe mundësisë së mjeteve për të zbatuar përgjegjësitë që lidhen me operimin e avionëve dhe për mbikëqyrjen e operatorëve të tillë.
 4. Kjo rregullore përcakton rregulla të detajuara për kushtet nën të cilat disa operime të specializuara, tregtare, me rreziqe të larta duhet të jenë subjekt i një autorizimi në interes të sigurisë, për kushtet e lëshimit, mbajtjes, ndryshimit, kufizimit, pezullimit ose heqjen e autorizimeve.
@@ -15,7 +18,8 @@ Neni 2
 Përkufizime
 Për qëllime të kësaj rregulloreje:
 1. “Aeroplan” nënkupton një avion me krahë fiks të drejtuar nga motori, më i rëndë se ajri që mbështetet në fluturim nga reaksioni dinamik i ajrit kundërejt krahëve të tij;
-1.a. “Helikopter” nënkupton një avion më të rëndë se ajri i mbështetur në fluturim, kryesisht, nga reaksionet e ajrit në një ose më shumë rotorë të drejtuar, kryesisht, nga fuqia në akset vertikale;
+1.a. “Rotorcraft” nënkupton një avion me motor, më i rëndë se ajri, i cili mbështetjen e tij në fluturim e ka të varur kryesisht nga fuqia ngritëse e krijuar me një maksimum deri në dy rotorë;
+1aa) “Helikopter” nënkupton një lloj mjeti rrotullues i mbështetur në fluturim kryesisht nga reagimet e ajrit në një ose më shumë helika me fuqi shtytëse kryesisht në akset vertikale;
 1.b. “Balonë” nënkupton një avion më i lehtë se ajri, i drejtuar nga njeriu, që nuk është i drejtuar nga fuqi motori dhe mbështet fluturimin nëpërmjet përdorimit të gazit më të lehtë se ajri ose të një ngrohësi ajror, duke përfshirë balonat e gazit, balonat me ajër të nxehtë, balona të përziera dhe airship-et me fuqi motorike me ajër të nxehtë;
 1.c. “Planeri (sailplane)” nënkupton një avion më të rëndë se ajri që mbështetet në fluturim nga reaksioni dinamik i ajrit kundër sipërfaqeve fikse të ngritjes së tij, fluturimi i lirë i të cilit nuk varet nga një motor;
 1.d. “Operim tregtar” nënkupton çdo veprim të një avioni, në këmbim të shpërblimit ose një shpërblim tjetër të vlerësuar me pagesë, i cili është në dispozicion për publikun ose, kur nuk vihet në dispozicion të publikut, që kryhet sipas një kontrate ndërmjet një operatori dhe një klienti, ku ky i fundit nuk ka kontroll mbi operatorin;
@@ -30,6 +34,17 @@ Për qëllime të kësaj rregulloreje:
 9. “Fluturim prezantues” nënkupton çdo operim kundrejt shpërblimit ose një lloj tjetër pagese me vlerë që konsiston në një udhëtim ajror, me një kohëzgjatje të shkurtër, me qëllim të tërheqjes së personave të rinj ose të anëtarëve të rinj, që kryhet ose nga një organizatë trajnuese, referuar urdhrit të ministrit nr. 262, datë 28.6.2019 “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative, në lidhje me ekuipazhin ajror të aviacionit civil”, i ndryshuar ose nga një organizatë e krijuar me qëllim të promovimit të sportit ajror ose aviacionit të kohës së lirë;
 10. “Fluturim konkurrimi” nënkupton çdo veprimtari fluturuese në të cilën avioni përdoret në garat apo konkurrimet ajrore, si edhe kur avioni përdoret për t’u ushtruar për gara, ose konkurrime ajrore, dhe për të fluturuar për dhe nga aktiviteti i garës ose konkursit;
 11. “Shfaqje fluturuese” nënkupton çdo veprimtari fluturuese të kryer lirisht, me qëllim të ofrimit të një ekspozite ose argëtimi në një event reklamimi të hapur për publikun, duke përfshirë edhe atë ku avioni përdoret për t’u ushtruar për një shfaqje fluturuese dhe për të fluturuar për dhe nga aktiviteti i reklamimit.
+12. “Operime inovative të lëvizshmërisë ajrore (IAM)” nënkupton çdo operim me avion me aftësi ngritjeje dhe uljeje vertikale (VTOL) në zona të mbipopulluara dhe jo të mbipopulluara;
+13. “Aeroplan me aftësi për ngritje dhe ulje vertikale (VTOL)” (VCA) do të thotë një avion me fuqi shtytëse, më i rëndë se ajri, i ndryshëm nga avioni ose rotorkrafti, i aftë për të kryer ngritje dhe ulje vertikale me anë të ngritjes dhe njësitë shtytëse të përdorura për të siguruar ngritjen gjatë ngritjes dhe uljes;
+14. “Fluturim VEMS” nënkupton një fluturim me një VCA që operon sipas një miratimi VEMS, ku transporti i menjëhershëm dhe i shpejtë është thelbësor dhe qëllimi i të cilit është ose:
+a) të lehtësojë ndihmën mjekësore urgjente duke mbajtur një ose më shumë nga sa vijon:
+i. personelin mjekësor;
+ii. furnizime mjekësore (pajisje, gjak, organe, barna);
+iii. personat e sëmurë ose të lënduar dhe personat e tjerë të përfshirë drejtpërdrejt,
+ose
+b) të kryejë çdo operim ku një person është në rrezik të afërt ose të parashikuar për shëndetin nga mjedisi dhe/ose:
+i. duhet të shpëtohet ose të pajiset me furnizime; ose
+ii. personat, kafshët ose pajisjet duhet të transportohen në/nga vendi i operimit VEMS.
 Përkufizimet shtesë janë përcaktuar në aneksin I, për qëllimet e anekseve II deri në VIII të kësaj rregulloreje.
 Neni 3
 Kapacitetet e mbikëqyrjes
@@ -57,6 +72,7 @@ Neni 5
 Operimet ajrore
 1. Operatorët duhet të operojnë një aeroplan ose helikopter për qëllime të transportit ajror tregtar vetëm në përputhje me anekset III dhe IV.
 1.a. Operatorët që marrin pjesë në operimet CAT, që fillojnë dhe mbarojnë në të njëjtin aerodrom/vend operimi me avionë të performancës së klasit B ose helikopterët jokompleksë, duhet të përputhen me dispozitat kryesore të anekseve III dhe IV.
+1b. Operatorët do të operojnë VCA vetëm në kontekstin e operimeve të IAM-it siç specifikohet në anekset III dhe IX të kësaj rregulloreje.
 2. Operatorët duhet të jenë në përputhje me dispozitat përkatëse të aneksit V, kur operojnë:
 a) Aeroplanë dhe helikopterë që përdoren, për:
 i) operimet në përputhje me lundrimet e bazuara në performancë (PBN);
@@ -68,12 +84,17 @@ c) Avionët me dy motorë që përdoren për operime në transportin ajror tregt
 d) Helikopterët që përdoren për operimet e transportit ajror tregtar me ndihmën e sistemeve të pamjes për shikim natën (NVIS);
 e) Helikopterët që përdoren për operimet e transportit ajror tregtar, me ngritje (HHO);
 f) Helikopterët që përdoren për operimet tregtare të shërbimeve emergjente mjekësore të transportit ajror (HEMS);
-g) Helikopterë të përdorur për operime në det të hapur (HOFO).
+g) Helikopterë të përdorur për operime në det të hapur (HOFO);
+h) VCA të përdoret për:
+i. transportin e mallrave të rrezikshme (DG);
+ii. VEMS.
 3. Operatorët e avionëve dhe helikopterëve kompleksë, me fuqi motorike që marrin pjesë në operime jotregtare, duhet të deklarojnë për mundësitë e tyre dhe të mjeteve për të realizuar përgjegjësitë e tyre, që shoqërohen me operimin e avionit dhe të operojnë avionin, në përputhje me dispozitat e specifikuara në aneksin III dhe aneksin VI. Ky grup operatorësh, kur përfshihen në operime të specializuara jotregtare, duhet të operojnë avionin, në përputhje me dispozitat e specifikuara në anekset III dhe VIII.
 4. Operatorët e aeroplanëve dhe të helikopterëve ndryshe nga ata kompleks me motor, të përfshirë në operime jotregtare, përfshirë operimet e specializuara jotregtare, duhet të përdorin avionin në përputhje me dispozitat e përcaktuara në aneksin VII.
 5. Organizatat e trajnimit të referuara në urdhrin e ministrit nr. 262, datë 28.6.2019, “Për miratimin e rregullores për kërkesat teknike dhe për procedurat administrative, në lidhje me ekuipazhin ajror të aviacionit civil” dhe që kanë vendin e tyre kryesor të biznesit në Shqipëri, gjatë kryerjes së trajnimit të fluturimit, brenda ose jashtë Shqipërisë, duhet të përdorin:
 a) aeroplanë dhe helikopterë kompleksë me motor, në përputhje me dispozitat e specifikuara në aneksin VI;�
-b) aeroplanë dhe helikopterë të tjerë, në përputhje me dispozitat e specifikuara në aneksin VII.
+b) aeroplanë dhe helikopterë të tjerë, në përputhje me dispozitat e specifikuara në aneksin VII;
+c) VCA në përputhje me kërkesat e specifikuara në aneksin IX.
+Në rastin e shkronjave “a”, “b” dhe “c” të nënparagrafit të parë, organizatat e trajnimit duhet të përmbushin kërkesat e përcaktuara në aneksin VII (pjesa-ORA) të urdhrit të ministrit nr. 178, datë 20.12.2023, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil”, i ndryshuar në vend të aneksit III (pjesa-ORO) të kësaj rregulloreje. Trajnimi për VCA-në do të ofrohet vetëm nga organizatat e miratuara të trajnimit.
 6. Operatorët duhet të operojnë një aeroplan ose një helikopter për qëllime të operimeve të specializuara tregtare vetëm në përputhje me kërkesat në anekset III dhe VIII.
 7. Fluturimet që kryhen menjëherë para, gjatë ose menjëherë pas operimeve të specializuara dhe të lidhura direkt me këto operime, duhet të kryhen në përputhje me paragrafët 3, 4 dhe 6, në qoftë se është e aplikueshme. Përveç anëtarëve të ekuipazhit, personat që nuk janë të domosdoshëm për misionin, nuk do të mbahen në bord.
 Neni 6
@@ -104,10 +125,11 @@ Raporti i konvertimit duhet të përfshijë një kopje të të gjitha dokumentev
 3. AAC-ja mund të vendosë të përdorë formularin e përcaktuar në shtojcën II të aneksit II vetëm për lëshimin e certifikatave të reja të operatorit ose në rastin e kryerjes së ndryshimeve në certifikatat ekzistuese, në përputhje me pikat ARO.GEN.310 ose ARO.GEN.330 të aneksit II të kësaj rregulloreje.
 Neni 8
 Kufizimet e kohës së fluturimit
-1. Operimet “Transporti ajror tregtar-CAT” do t’u nënshtrohen kërkesave të nënpjesës FTL të aneksit III.
+1. Operimet CAT me aeroplanë dhe helikopterë do t’u nënshtrohen kërkesave të nënpjesës FTL të aneksit III.
 2. Në shmangie të paragrafit 1, taksia ajrore, shërbimi mjekësor i emergjencës dhe operimet CAT, me pilot të vetëm me aeroplanë, u nënshtrohen kërkesave të përcaktuara në urdhrin e ministrit nr. 92, datë 28.9.2011, “Për miratimin e rregullores për harmonizimin e kërkesave teknike dhe procedurave administrative në fushën e aviacionit civil” dhe në nënpjesën Q, të aneksit III, të asaj rregulloreje.
 3. Me anë të shmangies nga paragrafi 1, operimet CAT me helikopterë dhe operimet CAT me planerë (sailplane) duhet të jenë në përputhje me kërkesat e përcaktuara në ligjin kombëtar, kur operatori ka Shqipërinë si vendin e tij kryesor të biznesit.
 4. Operimet jotregtare, përfshirë operimet e specializuara jotregtare, me aeroplanë dhe helikopterë kompleksë me motorë, si dhe operimet e specializuara tregtare me aeroplanë, helikopterë dhe planera (sailplane), duhet të jenë në përputhje me kufizimet kohore të fluturimit, me kërkesat kombëtare, kur Shqipëria është vendi kryesor i biznesit të operatorit ose, kur operatori nuk ka vend kryesor të biznesit, Shqipëria është vendi ku operatori është i vendosur ose banon.
+5. Një operator IAM, për sa u përket kufizimeve të kohës së fluturimit, duhet të jetë në përputhje me kërkesat e specifikuara në legjislacionin kombëtar, kur Shqipëria është shteti në të cilin operatori ka vendin kryesor të biznesit, ose, kur operatori nuk ka vendin kryesor të biznesit, Shqipëria është vendi ku operatori është vendosur ose banon.
 Neni 9
 Lista minimale e pajisjeve
 Listat minimale të pajisjeve (MEL - Minimum Equipment Lists), aprovuar nga shteti i operatorit ose i regjistrit, përpara aplikimit të kësaj rregulloreje, konsiderohen të miratuara në përshtatje me këtë rregullore dhe mund të vazhdojnë të përdoren nga operatori.
@@ -139,7 +161,7 @@ Dispozita tranzitore
 3. Pika SPA.HEMS.125, kërkesat e performancës për operimet HEMS, në aneksin V të kësaj rregulloreje, do të zbatohet deri në datë 24 maj 2028. Duke filluar nga data 25 maj 2028, për operimet HEMS mbuluar nga pika 61 (b) e aneksit I të kësaj rregulloreje, do të zbatohet pika SPA.HEMS.125/1.
 4. Pika SPA.HEMS.130, kërkesat e ekuipazhit, për operimet HEMS, në aneksin V të kësaj rregulloreje, do të zbatohet deri në datë 24 maj 2026. Duke filluar nga data 25 maj 2026, për operimet HEMS mbuluar nga pika 61 (b) e aneksit I të kësaj rregulloreje, do të zbatohet pika SPA.HEMS.130/1.
 ANEKSI I
-PËRKUFIZIMET PËR TERMAT E PËRDORUR NË ANEKSET II DERI NË VIII
+PËRKUFIZIMET PËR TERMAT E PËRDORUR NË ANEKSET II DERI NË IX
 Për qëllime të kësaj rregulloreje, do të zbatohen përkufizimet e mëposhtme:
 1) “Distanca e disponueshme për ndalimin e akselerimit (ASDA)” nënkupton gjatësinë e disponueshme për vrullin në ngritje plus gjatësinë e rrugës së ndalimit, nëse një brez i tillë deklarohet si i disponueshëm nga shteti i aerodromit dhe është në gjendje të durojë masën e aeroplanit nën kushtet operuese të momentit.
 2) “Mjetet e pranueshme të pajtueshmërisë” (AMC) nënkupton një standard jo të detyrueshëm, të miratuar nga EASA, dhe të pranuar nga AAC-ja, për të ilustruar mjetet për të arritur pajtueshmërinë me VKM-në nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil” dhe rregullat zbatuese të tij.
@@ -171,7 +193,7 @@ d) “aerodrom alternativ i destinacionit” nënkupton një aerodrom alternativ
 14) “Specifikimet e certifikimit (CS)” nënkupton standarde teknike të miratuara nga Agjencia, dhe pranuara dhe publikuar nga AAC-ja, të cilat tregojnë mjete përputhshmërie, me VKM-në nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil” dhe rregullat implementuese të tij dhe të cilat mund të përdoren nga një organizate për qëllime certifikimi.
 15) “Rrotullime”, nënkupton fazën vizuale të një operimi afrimi rrotullues.
 15a) “Operime afrimi rrotullues” nënkupton një operim afrimi me instrument të tipit A që sjell avionin në pozicion për ulje në një pistë/zonë afrimi ose ngritjeje përfundimtare (FATO) që nuk është e vendosur në mënyrë të përshtatshme për një afrim të drejtë;
-16) “Brezi i lirë” nënkupton një hapësirë drejtkëndore në tokë apo ujë nën kontrollin e autoritetit kompetent, e zgjedhur ose e përgatitur si një hapësirë e përshtatshme mbi të cilën një aeroplan mund të kryejë një pjesë të marrjes fillestare të lartësisë deri në një lartësi të specifikuar.
+16) “Brezi i lirë” nënkupton një zonë të përcaktuar drejtkëndore në tokë ose në ujë nën kontrollin e autoritetit përkatës, e zgjedhur ose e përgatitur si një zonë e përshtatshme mbi të cilën një avion mund të bëjë një pjesë të ngjitjes së tij fillestare deri në një lartësi të caktuar;
 17) “Baza e reve” nënkupton lartësinë më të ulët të bazës së resë, të vëzhguar apo të parashikuar në afërsi të aerodromit apo së bazës operuese apo brenda zonës së specifikuar për operim, normalisht e matur mbi nivelin e aerodromit ose, në rast të operimeve larg bregut, mbi nivelin e detit.
 17a) “Regjistruesi i zërit të kabinës (CVR)” nënkupton një regjistrues fluturimi i mbrojtur nga përplasjet që përdor një kombinim të mikrofonave dhe të dhënave të tjera audio dhe digjitale për të mbledhur dhe regjistruar mjedisin zanor të kabinës së ekuipazhit të fluturimit dhe komunikimet nga, dhe ndërmjet anëtarëve të ekuipazhit të fluturimit;
 18) “Ndarje kodi” nënkupton një marrëveshje nëpërmjet së cilës një operator vendos kodin e tij të caktuar në një fluturim të operuar nga një operator tjetër dhe shet bileta për atë fluturim.
@@ -180,14 +202,16 @@ d) “aerodrom alternativ i destinacionit” nënkupton një aerodrom alternativ
 18c) “Kuadër i kompetencave” nënkupton një grup të plotë të kompetencave të identifikuara që zhvillohen, trajnohen dhe vlerësohen në programin e trajnimit të bazuar në prova të operatorit duke përdorur skenarë që janë të rëndësishëm për operimet dhe i cili është mjaft i gjerë për përgatitjen e pilotit për kërcënimet dhe gabimet e parashikuara dhe të paparashikuara.
 19) “Zonë e dendur” nënkupton, në lidhje me një qytet apo zonë të banuar, çdo zonë e cila përdoret kryesisht për qëllime rezidenciale, tregtare ose prodhuese.
 20) “Pistë e kontaminuar” nënkupton një pistë ku një pjesë e konsiderueshme e sipërfaqes së saj (qoftë në zona të izoluara ose jo) brenda gjatësisë dhe gjerësisë që përdoret është e mbuluar nga një ose më shumë nga substancat e renditura në përshkruesit e gjendjes së sipërfaqes së pistës.
-21) “Karburant /energji rezervë” nënkupton karburantin/energjinë e nevojshme për kompensim në rastin e faktorëve të paparashikuar që mund të kenë ndikim në konsumin e karburantit/energjisë në drejtim të aerodromit të destinacionit.
+21)“Karburanti/energjia rezervë” nënkupton karburantin/energjinë e nevojshme për të kompensuar faktorët e paparashikuar që mund të kenë një ndikim në konsumin e karburantit/energjisë në aerodromin ose vertiportin e destinacionit.
 22) “Afrimi përfundimtar me zbritje të vazhdueshme (CDFA)” nënkupton një teknikë, në përputhje me procedurat e afrimit të stabilizuar, për fluturimin në segmentin përfundimtar të afrimit (FAS) përmes një afrimi jopreciz me instrument (NPA) si një zbritje e vazhdueshme, pa nivel të përcaktuar nga një lartësi në ose mbi lartësinë fikse të afrimit përfundimtar:
 a) për operimet e afrimit të drejtë, në një pikë afërsisht 15 m (50 ft) mbi pragun e pistës së uljes ose në pikën ku fillon manovra e ndezjes; ose
 b) për operimet e afrimit me rrotullim, derisa të arrihet MDA/H, ose gjatësia/lartësia vizuale.e manovrës së fluturimit.
 23) “Shikimi meteorologjik i konvertuar (CMV)” nënkupton një vlerë, e barabartë me një RVR, e cila del nga shikueshmëria meteorologjike e raportuar.
 24) “Anëtar ekuipazhi” nënkupton një person të caktuar nga operatori për të kryer detyra në bordin e një avioni.
 25) “Fazë kritike e fluturimit”, në rastin e aeroplanëve, nënkupton vrullin për ngritje, trajektoren e ngritjes, afrimin final, kalimin në rreth të dytë, uljen, përfshirë dhe rulimin ose çdo fazë tjetër e fluturimit, siç mund të përcaktohet nga piloti në komandë ose komandanti.
-26) “Fazat kritike të fluturimit”, në rastin e helikopterëve, nënkupton rulimin, varjen, ngritjen, afrimin final, kalimin në rreth të dytë, uljen ose çdo fazë tjetër të fluturimit, siç mund të përcaktohet nga piloti në komandë ose komandanti.
+26) “Fazat kritike të fluturimit” nënkupton:
+a) në rastin e helikopterëve, rulimin, varjen, ngritjen, afrimin final, procedurën e mos arritjes me sukses të afrimit final, uljen dhe çdo fazë tjetër të fluturimit siç mund të përcaktohet nga piloti në komandë.
+b) në rastin e VCA-ve, rulimin në tokë me pasagjerë për qëllime fluturimi ose pas uljes, rulimin në ajër, varjen, ngritjen, afrimi final, procedurën e mos arritjes me sukses të afrimit final, uljen dhe çdo fazë tjetër të fluturimit siç mund të përcaktohet nga piloti në komandë;
 26a) “Skema aktuale e karburantit/energjisë” nënkupton skemën e miratuar të karburantit/ energjisë që përdoret aktualisht nga operatori.
 27) “Mallrat e rrezikshme (DG)” nënkupton artikuj ose substanca të cilat janë në gjendje të përbëjnë rrezik për shëndetin, sigurinë, pronën ose ambientin dhe të cilat tregohen në listën e mallrave të rrezikshme në instruksionet teknike ose të cilat klasifikohen sipas këtyre instruksioneve.
 28) “Aksident me mallra të rrezikshme” nënkupton një ndodhi të lidhur me mallrat e rrezikshme dhe transportin e tyre nga ajri, i cili rezulton në një dëmtim fatal ose serioz të një personi apo dëmtim madhor të pronës.
@@ -198,7 +222,7 @@ b) çdo ngjarje e lidhur me transportin e mallrave të rrezikshme e cila rreziko
 30) “Shkrirje e akullit” në rastin e procedurave në tokë, nënkupton një procedurë me të cilën hiqet nga sipërfaqja e avionit akulli ose dëbora e shkrirë, me qëllim që të mos ketë sipërfaqe të kontaminuar.
 31) “Pika e përcaktuar pas ngritjes (DPATO)” nënkupton pikën, brenda fazës së ngritjes dhe të marrjes së lartësisë fillestare, para së cilës nuk sigurohet kapaciteti i helikopterit për të vazhduar fluturimin me një motor kritik jofunksional dhe mund të kërkohet ulje e detyruar.
 32) “Pika e përcaktuar para uljes (DPBL)” nënkupton pikën brenda fazës së afrimit dhe të uljes, pas së cilës nuk sigurohet aftësia e helikopterit për të vazhduar fluturimin në mënyrë të sigurt, me një motor kritik jofunksional dhe mund të kërkohet ulje e detyruar.
-33) “Distanca DR” nënkupton distancën horizontale që ka përshkuar helikopteri nga një pikë e fundit e distancës së disponoheshme për ngritjen.
+33) “Distanca DR” nënkupton distancën horizontale që helikopteri ose VCA ka përshkuar nga një pikë e fundit e distancës së disponueshme për ngritjen.
 34) “Marrëveshje qiraje e thatë” nënkupton një marrëveshje midis palëve në bazë të së cilës avioni operon nën certifikatën e operatorit ajror (AOC) të qiramarrësit ose, në rastin e operimeve tregtare të ndryshme nga CAT, nën përgjegjësinë e qiramarrësit.
 35) “Pesha operuese e thatë” nënkupton peshën totale të avionit gati për një lloj operimi, përjashtuar karburantin e përdorshëm dhe ngarkesën e trafikut.
 36) “Pistë e thatë” nënkupton një pistë, sipërfaqja e së cilës nuk ka lagështi të dukshme dhe nuk është e ndotur brenda zonës së parashikuar për përdorim.
@@ -228,7 +252,7 @@ d) një “Rotorcraft” (avion që ngrihet vertikalisht duke përdorur helika) 
 42d) “Ekuivalencë e keqfunksionimeve” nënkupton të gjitha mosfunksionimet që i paraqesin një kërkesë të rëndësishme një ekuipazhi të aftë, pavarësisht nëse ato janë përdorur ose jo në modulet EBT.
 42e) “Faza e vlerësimit” nënkupton një nga fazat e një moduli EBT i cili është një skenar fluturimi i orientuar i linjës, përfaqësues i mjedisit të operatorit gjatë të cilit ka një ose më shumë ngjarje për të vlerësuar elementët kryesorë të kuadrit të kompetencës së përcaktuar.
 42f) “Trajnim i bazuar në evidencë (EBT)” nënkupton një vlerësim dhe trajnim të bazuar në të dhëna operacionale që karakterizohen nga zhvillimi dhe vlerësimi i aftësive të përgjithshme të një piloti përmes një vargu kompetencash (kuadër i kompetencave) më shumë se sa nëpërmjet matjes së performancës në ngjarje apo manovrime individuale.
-43) “Zona e afrimit final dhe e ngritjes (FATO)” nënkupton një zonë të përcaktuar për operimet me helikopterë, mbi të cilën përmbushen faza finale e manovrës së afrimit për varje ose ulje dhe nga e cila niset manovra e ngritjes. Në rastin e helikopterëve që operojnë në klasin 1 të performancës, zona e përcaktuar përfshin zonën e disponueshme në rast të ngritjes së dështuar.
+43) “Zona e afrimit final dhe e ngritjes (FATO)” nënkupton një zonë të përcaktuar për operimet e helikopterit ose VCA-së mbi të cilën përmbushen faza finale e manovrës së afrimit për varje ose ulje dhe nga e cila niset manovra e ngritjes; në rastin e helikopterëve që operojnë në klasin 1 të performancës dhe VCA-të që operojnë në kategorinë e përmirësuar ose ekuivalente, zona e përcaktuar përfshin zonën e disponueshme në rast të ngritjes së dështuar.
 43a) “Anëtar i ekuipazhit të fluturimit” nënkupton çdo anëtar të licencuar të ekuipazhit të cilit i janë ngarkuar detyra që janë thelbësore për operimin e një avioni gjatë periudhës së fluturimit.
 43b) “Segmenti përfundimtar i afrimit (FAS)” nënkupton atë të segment të një procedure me afrim instrumental (IAP), në të cilin përmbushet futja në linjë dhe zbritja për ulje.
 44) “Monitorimi i të dhënave të fluturimit (FDM)” nënkupton përdorimin proaktiv dhe jondëshkimor të të dhënave digjitale të fluturimit nga operimet rutine për të përmirësuar sigurinë teknike në aviacion.
@@ -244,12 +268,13 @@ c) ndihmën kritike për ekuipazhin e fluturimit në rast emergjence gjatë flut
 a) në rastin e aeroplanëve: një simulator i plotë fluturimi (FFS), një pajisje trajnimi fluturimi (FTD), një trajnues për procedurat e fluturimit dhe lundrimit (FNPT) ose një pajisje trajnimi për instrumentet bazë (BITD);
 b) në rastin e helikopterëve: një simulator i plotë fluturimi (FFS), një pajisje trajnimi fluturimi (FTD) ose një trajnues për procedurat e fluturimit dhe lundrimet (FNPT).
 45a) “Koha e fluturimit” nënkupton:
-a) për aeroplanët, kohën e plotë kur një aeroplan lëviz për herë të parë që nga momenti i ngritjes deri në momentin kur aeroplani përfundon fluturimin;
-b) për helikopterët, kohën e plotë kur një helikopter, që nga momentit kur helikat e helikopterit fillojnë të rrotullohen për qëllim ngritjeje deri në momentin kur aeroplani përfundon fluturimin dhe helikat ndalojnë;
+a) për aeroplanët, kohën e plotë nga momenti kur një aeroplan lëviz për herë të parë me qëllim ngritjen deri në momentin kur aeroplani përfundon fluturimin;
+b) për helikopterët, kohën e plotë ndërmjet momentit kur helikat e rotorit të helikopterit fillojnë të rrotullohen për qëllime të ngritjes deri në momentin kur helikopteri përfundon fluturimin dhe helikat e rotorit ndalojnë;
+c) për VCA-të, kohën e plotë ndërmjet momentit kur njësitë e ngritjes dhe shtytjes janë ndezur me qëllim ngritjen deri në momentin kur avioni përfundon fluturimin dhe njësitë e ngritjes dhe shtytjes janë fikur.
 45b) “Vrojtimi i fluturimeve” nënkupton, përveç të gjithë elementëve të përcaktuar për “monitorimin e fluturimit”, gjurmimin aktiv të fluturimeve nga personeli i kontrollit operacional të kualifikuar në mënyrë të përshtatshme gjatë të gjitha fazave të fluturimit për të siguruar që fluturimi po ndjek rrugën e përcaktuar pa devijime, ose vonesa të paplanifikuara.
 46) “Sistemi i uljes GBAS (GLS)” nënkupton një afrimi për ulje që përdor informacionin e sistemit satelitor global të lundrimit të bazuar në tokë (GNSS/GBAS) për të siguruar udhëzime për avionin të bazuara në pozicionin anësor (majtas-djathtas) dhe vertikal (lart-poshtë) të tij GNSS. Ky sistem përdor referenca gjeometrike të lartësisë për shmangiet në afrimin final.
 46a) “Lëvizje xhiruese (go-around)” nënkupton kalimin nga një operim afrimi në një ngjitje të stabilizuar. Kjo përfshin manovrat e kryera në ose mbi MDA/H ose DA/H, ose nën DA/H (ulje të penguara).
-47) “Personeli i shërbimit emergjent në tokë” nënkupton çdo personel të shërbimit emergjent në tokë (si policët, zjarrfikësit etj.) të përfshirë në shërbimet mjekësore emergjente me helikopter (HEMS) dhe detyrat e të cilëve janë të çdo lloji, në lidhje me operimin e helikopterit.
+47) “Personeli i shërbimit emergjent në tokë” nënkupton çdo personel të shërbimit emergjent në tokë, të tillë si oficerët e policisë, zjarrfikësit etj., të përfshirë në shërbimet mjekësore emergjente me helikopterë (HEMS) ose në shërbimet mjekësore emergjente me VCA (VEMS) dhe detyrat e të cilëve janë të çdo lloji, në lidhje me operimin.
 48) “Bllokimi i avionit në tokë” nënkupton ndalimin e një avioni për t’u ngritur dhe marrjen e hapave të tillë të nevojshme për ta mbajtur atë në tokë.
 49) “Sistemi i ekranit ballor për fazën e uljes (HUDLS)” nënkupton sistemin total ajror i cili i ofron udhëzime pilotit me anë të një ekrani ballor i cili i mundëson pilotit të kontrollojë avionin ose të monitorojë autopilotin gjatë ngritjes (nëse është e aplikueshme), afrimit ose uljes (dhe qarkullimin nëse është e aplikueshme), ose lëvizjeve xhiruese (go-around). Përfshihen të gjithë sensorët, kompjuterët, furnizuesit e energjisë elektrike, treguesit dhe komandat.
 50) “Anëtar ekuipazhi për operime ngritëse me pesha të varura nga jashtë me helikopter (HHO)” nënkupton një anëtar ekuipazhi teknik, i cili kryen detyrat e caktuara, në lidhje me operimin ngritës.
@@ -274,7 +299,7 @@ ii) personat, kafshët ose pajisjet duhet të transportohen në dhe nga vendi i 
 61) “Ambient i papërshtatshëm” nënkupton:
 a) një ambient në të cilin:
 i) nuk mund të bëhet një ulje e detyruar, për shkak të sipërfaqes së papërshtatshme;
-ii) personat në bordin e helikopterit s’mund të mbrohen siç duhet nga elementet natyrore;
+ii) personat në bordin e helikopterit ose pasagjerët e VCA s’mund të mbrohen siç duhet nga elementet; ose
 iii) nuk sigurohet shërbim i vazhdueshëm i kërkim-shpëtimit; ose
 iv) ka rrezik të papranueshëm i cili rrezikon personat apo pronat në tokë;
 b) në çdo rast, zonat e mëposhtme:
@@ -294,9 +319,17 @@ b) një operim afrimi me instrument tredimensional (3D), që përdor udhëzime l
 a) procedura e afrimit jopreciz (NPA), që nënkupton një IAP të projektuar për operimet e afrimit me instrument 2D të tipit A;
 b) procedura e afrimit me drejtim vertikal (APV) nënkupton një IAP lundrimi të bazuar në performancë (PBN) i projektuar për operimet e afrimit me instrument 3D të tipit A;
 c) procedura e afrimit preciz (PA) nënkupton një IAP të bazuar në sistemet e lundrimit të projektuar për operimet e afrimit me instrument 3D të tipit A ose B.
-62) “Pika e vendimit për ulje (LDP)” nënkupton pikën e përdorur në përcaktimin e performancës së uljes nga e cila, nëse vërehet një dështim i motorit në këtë pikë, ulja mund të vazhdohet e sigurt ose mund të nise një kalim në rreth të dytë.
+62) “Pika e vendimit për ulje (LDP)” nënkupton:
+a) për helikopterët, pikën e përdorur për të përcaktuar performancën e uljes nga e cila, nëse vërehet një dështim i motorit në këtë pikë, ulja mund të vazhdohet e sigurt ose mund të nisë një kalim në rreth të dytë;
+b) për VCA, pikën e përdorur për të përcaktuar performancën e uljes nga e cila mund të vazhdohet në mënyrë të sigurt ulja ose të nisë një kalim në rreth të dytë, pas një CFP.
 62a) “Distanca e uljes në kohën e mbërritjes (LDTA)” nënkupton një distancë uljeje që është e arritshme në operacionet normale bazuar në të dhënat e performancës së uljes dhe procedurat shoqëruese të përcaktuara për kushtet mbizotëruese në kohën e uljes.
-63) “Distanca e disponueshme për ulje (LDA)”, nënkupton gjatësinë e pistës e cila është deklaruar e disponueshme nga shteti i aerodromit dhe e përshtatshme për bredhjen gjatë uljes së aeroplanit.
+63) “Distanca e disponueshme për ulje” nënkupton:
+a) për aeroplanët (LDAA), gjatësinë e pistës e cila është deklaruar e disponueshme nga shteti i aerodromit dhe e përshtatshme për vrullin në tokë të një aeroplani që ulet;
+b) për helikopterët (LDAH), gjatësinë e FATO-s plus çdo zonë shtesë e deklaruar e disponueshme nga shteti i aerodromit dhe e përshtatshme që helikopteri të përfundojë manovrën e uljes nga një lartësi e përcaktuar; dhe
+c) për VCA-të (LDAV), gjatësinë e FATO-s plus çdo zonë shtesë e deklaruar e disponueshme dhe e përshtatshme për VCA për të përfunduar manovrën e uljes nga një lartësi e përcaktuar.
+63a)”Distanca e kërkuar e uljes (LDR)” nënkupton:
+a) për helikopterët (LDRH), distancën horizontale të nevojshme për t’u ulur dhe për të ndalur plotësisht nga një pikë prej 15 m (50 ft) mbi sipërfaqen e uljes; dhe
+b) për VCA-të (LDRV), distancën horizontale të nevojshme për t’u ulur dhe për të ndalur plotësisht nga një pikë prej 15 m (50 ft) mbi sipërfaqen e uljes.
 64) “Aeroplan tokësor/landplane” nënkupton një avion i cili është i projektuar për t’u ngritur dhe për t’u ulur në tokë, ku përfshihen dhe avionët amfib që operohen për t’u ulur dhe ngritur në tokë.
 64a) “Skenari i fluturimit i orientuar nga linja” do të thotë vlerësimi dhe trajnimi që përfshin një simulim real të misionit të plotë ’në kohë reale’, të skenarëve që janë përfaqësues të operimeve të linjës.
 64b) “Kontroll linje” nënkupton një kontroll të kryer nga operatori dhe i përfunduar nga piloti ose anëtari teknik i ekuipazhit që demonstron kompetencë në kryerjen e operacioneve normale të linjës të përshkruara në manualin e operimeve.
@@ -311,7 +344,7 @@ d) për të asistuar në izolimin e defektit apo në riparimin e tij;
 68b) “Faza e trajnimit të manovrave” nënkupton një fazë të një moduli EBT gjatë së cilës, sipas gjenerimit të avionit, ekuipazhet kanë kohë për të praktikuar dhe përmirësuar performancën në ushtrime kryesisht të bazuara në aftësi psikomotore duke arritur një trajektore të përshkruar të fluturimit, apo duke performuar një ngjarje të caktuar sipas një rezultati të parashikuar;
 68c) “Program i përzier EBT” nënkupton programin e trajnimit dhe kontrollit periodik të një operatori sipas ORO.FC.230, një pjesë e së cilës i dedikohet aplikimit të EBT por që nuk zëvendëson kontrollet e aftësive siç parashikohen në shtojcën 9 të aneksit I (Pjesa-FCL) të urdhrit të ministrit nr. 262, datë 28.6.2019, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil”.
 69) “Konfigurimi maksimal operues i ndenjëseve të pasagjerëve (MOPSC)” nënkupton kapacitetin maksimal të ndenjëseve të pasagjerëve të një avioni, përjashtuar ndenjëset e ekuipazhit, të vendosura për qëllime operimi dhe të specifikuara në manualin e operimeve. Duke marrë si bazë konfigurimin maksimal të ndenjëseve të pasagjerëve të vendosura gjatë procesit të certifikimit për certifikatën e tipit (TC), certifikatën shtesë të tipit (STC) ose të ndryshimeve të TC-së apo STC-së, sipas rastit për avionin, MOPSC-ja mund të vendosë një numër të barabartë ose më të ulët ndenjësesh, në varësi të kufizimeve operuese.
-70) “Pasagjer mjekësor” do të thotë një person mjekësor i transportuar në helikopter gjatë një fluturimi HEMS, duke përfshirë, por pa u kufizuar te mjekët, infermierët dhe ndihmësit e mjekëve;
+70) “Pasagjer mjekësor” do të thotë një person mjekësor i transportuar në një helikopter gjatë një fluturimi HEMS ose në një VCA gjatë një fluturimi VEMS, duke përfshirë, por pa u kufizuar te mjekët, infermierët dhe ndihmësmjekët.
 70a) “Gjendje e dështimit minimal” do të thotë një gjendje e humbjes së aftësisë së përkohshme që nuk do të reduktonte ndjeshëm sigurinë e avionit dhe që përfshin veprime të ekuipazhit të fluturimit, që janë mjaftueshëm brenda mundësive të tyre;
 70b) “Keqpërdorimi i substancave” nënkupton përdorimin e një ose më shumë substancave psikoaktive nga ekuipazhi i fluturimit, anëtarët e ekuipazhit të kabinës dhe personeli tjetër i ndjeshëm ndaj sigurisë në operim, në mënyrë që:�
 a) përbën një rrezik të drejtpërdrejtë për përdoruesit ose rrezikon jetën, shëndetin ose mirëqenien e të tjerëve; dhe/ose�
@@ -322,7 +355,7 @@ b) shkakton ose përkeqëson një problem ose çrregullim profesional, social, m
 73) “Sistem me pamje për shikim natën (NVIS)” nënkupton integrimin e të gjitha elementeve të kërkuara për të përdorur në mënyrë të efektshme dhe të sigurt NVG gjatë operimit të një helikopterit. Sistemi përfshin minimalisht NVG, ndriçimin e NVIS-së, përbërësit e helikopterit, trajnimet dhe vazhdueshmërinë e vlefshmërisë.
 74) “Ambient i përshtatshëm” nënkupton një ambient në të cilin:
 a) mund të kryhet një ulje e detyruar;
-b) personat në bordin e helikopterit mund të mbrohen nga elementet atmosferike; dhe
+b) personat në bordin e helikopterit ose pasagjerët e VCA-së mund të mbrohen nga elementet atmosferike; dhe
 c) sigurohet shërbim i vazhdueshëm i kërkim-shpëtimit.
 Në çdo rast, ato pjesë të zonave të banuara me hapësira të sigurta për ulje të detyruar duhet të konsiderohen si të përshtatshme.
 75) “Anëtar ekuipazhi NVIS’ nënkupton anëtarin e ekuipazhit teknik të caktuar në një fluturim NVIS.
@@ -346,7 +379,7 @@ Në çdo rast, ato pjesë të zonave të banuara me hapësira të sigurta për u
 a) standardet e harmonizuara sipas vendimit të Këshillit të Ministrave nr. 674, datë 10.11.2021 “Për miratimin e rregullit teknik ’Për pajisjet mbrojtëse personale (PMP) dhe përcaktimin e listës së standardeve të harmonizuara’” transpozim i rregullores (BE) 2016/425 mbi pajisjet mbrojtëse personale dhe që shfuqizon direktivën e Këshillit 89/686 të KE-së direktivës KE 2006/42/KE për makineritë dhe që ndryshon direktivën 95/16 të KE-së;
 b) është projektuar për të mbartur jo më shumë se një person (për shembull, operatorin për mbajtjen e ngarkesave, specialistin e operimeve apo fotografin) brenda në kabinë, ose jo më shumë se dy persona jashtë kabinës;
 c) nuk është strukturë e ngurtë si kafaz, platformë apo kosh.
-86) “Pilot në komandë” nënkupton pilotin e caktuar në komandë dhe përgjegjës për kryerjen e sigurt të fluturimit. Për qëllime të transportit ajror tregtar, piloti në komandë mund të quhet dhe komandant.
+86) “Pilot në komandë (PIC)” nënkupton pilotin e caktuar në komandë dhe përgjegjës për kryerjen e sigurt të fluturimit; për qëllime të operimeve të transportit ajror tregtar me aeroplanë dhe helikopterë, “piloti në komandë” mund të quhet “komandant”.
 86a) “EFB portativ” do të thotë një platformë pritëse portative EFB, e përdorur në kuvertën e fluturimit, e cila nuk është pjesë e konfiguracionit të avionit të certifikuar.
 86b) “Pajisja elektronike portative (PED)” do të thotë çdo lloj pajisjeje elektronike, zakonisht, por pa u kufizuar në elektronikën e konsumit, të sjellë në bordin e avionit nga anëtarë të ekuipazhit, pasagjerëve ose si pjesë e ngarkesës, që nuk është përfshirë në konfigurimin e avionit të certifikuar. Ai përfshin të gjitha pajisjet që janë në gjendje të konsumojnë energji elektrike. Energjia elektrike mund të sigurohet nga burime të brendshme, të tilla si bateritë (të kërkueshme ose jo të rikarikueshme) ose pajisjet mund të lidhen, gjithashtu, me burime të veçanta të energjisë në avion.
 87) “Vendi kryesor i biznesit” nënkupton zyrat kryesore ose ato të regjistruara të organizatës, brenda të cilave ushtrohen funksionet kryesore financiare dhe kontrolli operues i veprimtarive të referuara në këtë rregullore.
@@ -356,13 +389,17 @@ c) nuk është strukturë e ngurtë si kafaz, platformë apo kosh.
 89) “Vend i interesit publik (PIS)” nënkupton një vend ekskluzivisht për operime në interes të publikut.
 90) “Inspektime në VQA (RAMP)” nënkupton inspektimin e avionit, të kualifikimeve të ekuipazhit të fluturimit ose kabinës dhe të dokumentacionit të fluturimit, më qëllim për të verifikuar përputhshmërinë me kërkesat e aplikueshme.
 91) “Interval korrigjimi” nënkupton një kufizim në kohëzgjatjen e operimeve me një pajisje jofunksionale.
-92) “Distanca e disponueshme për ngritje të dështuar (RTODAH)” nënkupton gjatësinë e zonës së afrimit final dhe të ngritjes së deklaruar si e disponueshme dhe e përshtatshme për helikopterët që operojnë në klasin 1 të performancës për të përfunduar një ndalim të ngritjes.
-93) “Distanca e kërkuar për ngritje të dështuar (RTODRH)” nënkupton distancën horizontale të kërkuar nga fillimi i ngritjes deri në pikën ku helikopteri ndalon plotësisht pas një dështimi të motorit dhe dështimi të ngritjes në pikën e vendimit të ngritjes.
+92) “Distanca e disponueshme për ngritje të dështuar (RTODA)” nënkupton:
+a) për helikopterët (RTODAH), gjatësinë e zonës së afrimit dhe ngritjes finale e deklaruar si e disponueshme dhe e përshtatshme për helikopterët që operojnë në klasin 1 të performancës për të përfunduar një ndalim të ngritjes; ose
+b) për VCA-të (RTODAV), gjatësinë e afrimit përfundimtar dhe zonën e ngritjes e deklaruar e disponueshme dhe e përshtatshme për VCA për të përfunduar një ndalim të ngritjes në përputhje me kategorinë në të cilën ato operohen.
+93) “Distanca e kërkuar për ngritje të dështuar (RTODR)” nënkupton:
+a) për helikopterët (RTODRH), distancën horizontale të kërkuar nga fillimi i ngritjes deri në pikën ku helikopteri ndalon plotësisht pas një dështimi të motorit dhe dështimi të ngritjes në pikën e vendimit të ngritjes;
+b) për VCA-të (RTODRV), distancën horizontale të kërkuar nga fillimi i ngritjes deri në pikën ku VCA ndalon plotësisht duke përfunduar një ngritje të refuzuar pas njohjes së një CFP në pikën e vendimit për ngritje.
 93a) “Specifikim i performancës së kërkuar në lundrim (RNP)” nënkupton një specifikim në lundrim për operimet PBN, që përfshin edhe një kërkesë për monitorimin dhe njoftimin në bord të performancës së lundrimit ajror.
 93b) “ Rregullat e ajrit” do të thotë rregullat e vendosura në urdhrin e ministrit nr. 327, datë 29.8.2019 “Për përcaktimin e rregullave të përbashkëta të ajrit dhe dispozitat operacionale në lidhje me shërbimet dhe procedurat në lundrimin ajror”, dhe çdo përditësimi të tij në fuqi, që përafron rregulloren (BE) Nr. 923/2012, apo ndryshimet e saj.
 93c) “Raporti i gjendjes së pistës (RCR)” nënkupton një raport gjithëpërfshirës të standardizuar në lidhje me kushtet e sipërfaqes së pistës dhe ndikimin e tyre në performancën e uljes dhe ngritjes së avionit, të përshkruar me anë të kodit të kushteve të pistës.
 94) “Distanca e shikimit të pistës (RVR)” nënkupton distancën në të cilën piloti i një avioni në vijën qendrore të pistës mund të shohë shenjat në sipërfaqe të saj ose dritat që kufizojnë pistën apo dritat që identifikojnë vijën qendrore të saj.
-94a) “Ulje e sigurt” nënkupton, në kontekstin e politikës së karburantit/energjisë ose skemave të karburantit/energjisë, një ulje në një aerodrom të përshtatshëm ose në një vend operimi me jo më pak karburant/energji rezervë përfundimtare të mbetur.
+94a) “Ulje e sigurt” nënkupton, në kontekstin e politikës së karburantit/energjisë ose skemave të karburantit/energjisë, një ulje në një aerodrom të përshtatshëm ose në një vend operimi ose në një vertiport të përshtatshëm ose vendndodhje devijimi me jo më pak se karburantin/energjinë rezervë përfundimtare të mbetur dhe në përputhje me procedurat operative të zbatueshme dhe minimumin e operimit të aerodromit.
 95) “Ulje e detyruar e sigurt” nënkupton një ulje të pashmangshme në tokë ose në det pa pasoja dëmtimi të personave në bord ose në tokë.
 95a) “Personel i ndjeshëm për sigurinë teknike” nënkupton personat që mund të rrezikojnë sigurinë e aviacionit, nëse kryejnë detyrat dhe funksionet e tyre, në mënyrë të paligjshme, duke përfshirë ekuipazhin e fluturimit dhe anëtarët e ekuipazhit të kabinës, personelin e mirëmbajtjes së avionëve dhe kontrollorët e trafikut ajror.
 95b) “Faza e trajnimit e bazuar në skenar” nënkupton një fazë të një moduli EBT, e cila përqendrohet në zhvillimin e kompetencave, në mënyrë që piloti të trajnohet në mënyrë që të zbusë rreziqet më kritike të identifikuara për gjenerimin e avionit. Ai duhet të përfshijë menaxhimin e kërcënimeve dhe gabimeve specifike të operatorit në një mjedis të orientuar të linjës në kohë reale.
@@ -373,15 +410,23 @@ c) nuk është strukturë e ngurtë si kafaz, platformë apo kosh.
 99) “Afrim i stabilizuar (SAp)” nënkupton një afrim që kryhet në një mënyrë të kontrolluar dhe të përshtatshme në terma të konfigurimit, energjisë dhe kontrollit të trajektores së fluturimit nga një pikë ose lartësi (altitude/height) e paracaktuar deri në një pikë 50 ft mbi kufirin e uljes në pistë ose mbi pikën ku mund të kryhet fillimi i rrafshimit të avionit nëse kjo pikë është më lart.
 99a) “Ambienti steril i ekuipazhit të fluturimit” nënkupton çdo periudhë kohore kur anëtarët e ekuipazhit të fluturimit nuk janë të shqetësuar ose të shpërqendruar, përveç rasteve kritike për funksionimin e sigurt të avionit ose sigurinë e banorëve të zonës mbi të cilët po fluturohet.
 100) “Aerodrom alternativ për ngritje” nënkupton një aerodrom alternativ në të cilin mund të ulet një avion nëse kjo do të jetë e nevojshme menjëherë pas ngritjes dhe nëse nuk është e mundur të përdoret aerodromi i nisjes.
-101) “Pika e vendimit për ngritje (TDP)” nënkupton pikën e përdorur për të përcaktuar performancën e ngritjes nga e cila, kur vërehet një fikje motori, të mund të kryhet një ngritje e refuzuar ose të mund të vazhdohet ngritja në mënyrë të sigurt.
-102) “Distanca e disponueshme për ngritje (TODA)”, në rastin e aeroplanëve, nënkupton gjatësinë disponueshme për vrullin e ngritjes , plus gjatësinë e brezit të butë të pistës, nëse është e disponueshme.
+101) “Pika e vendimit për ngritje (TDP)” nënkupton:
+a) për helikopterët, pikën e përdorur për të përcaktuar performancën e ngritjes nga e cila, kur vërehet një dështim motori, të mund të kryhet një ngritje e refuzuar ose të mund të vazhdohet ngritja në mënyrë të sigurt;
+b) për VCA-të, pikën e parë të përcaktuar nga kombinimi i shpejtësisë dhe lartësisë nga e cila mund të kryhet një ngritje e vazhdueshme duke përmbushur performancën minimale të certifikuar (CMP) pas një CFP dhe është pika e fundit në rrugën e ngritjes nga e cila një refuzim ngritjeje është i siguruar.
+102) “Distanca e disponueshme e ngritjes (TODA)” nënkupton:
+a) për helikopterët (TODAH), gjatësinë e zonës së afrimit dhe ngritjes përfundimtare plus, nëse sigurohet, gjatësinë e rrugës së lirë të helikopterit e deklaruar e disponueshme dhe e përshtatshme për helikopterin për të përfunduar ngritjen;
+b) për VCA-të (TODAV), gjatësinë e afrimit përfundimtar dhe zonës së ngritjes plus, nëse sigurohet, gjatësinë e rrugës së lirë të deklaruar të disponueshme dhe të përshtatshme për VCA për të përfunduar ngritjen.
 103) “Distanca e disponueshme për ngritje (TODAH)”, në rastin e helikopterëve, nënkupton gjatësinë e zonës së afrimit final dhe të ngritjes, plus, nëse ekziston, gjatësinë e brezit të butë për helikopterët e deklaruar si e diponueshme dhe e përshtatshme për helikopterët që të përfundojnë ngritjen.
-104) “Distanca e kërkuar e ngritjes (TODRH)”, në rastin e helikopterëve, nënkupton distancën horizontale të kërkuar nga fillimi i ngritjes, deri sa arrihet një pikë për një shpejtësi sigurie për ngritje (VTOSS), një lartësi e zgjedhur dhe këndi i llogaritur pozitiv i marrjes së lartësisë, pas fikjes së një motori kritik që vihet re në TDP, kur motorët e mbetur funksionalë operojnë brenda limiteve të miratuara.
-105) “Trajektorja e ngritjes” nënkupton trajektoren vertikale dhe horizontale, me një motor kritik jofunksional, nga një pikë e specifikuar në ngritjen e aeroplanëve deri në 1500 ft mbi sipërfaqen dhe për helikopterët deri në 1000 ft mbi sipërfaqen.
-106) “Masa e ngritjes” nënkupton masën përfshirë çdo pajisje dhe çdo person në bord në fillim të ngritjes për helikopterët dhe të vrapimit për ngritje për aeroplanët.
+104) “Distanca e kërkuar e ngritjes (TODR)” nënkupton:
+a) për helikopterët (TODRH), distancën horizontale të kërkuar nga fillimi i ngritjes, deri sa arrihet një pikë për një shpejtësi të sigurisë në operim për ngritjen (VTOSS), një lartësi e zgjedhur dhe këndi i llogaritur pozitiv i marrjes së lartësisë, pas fikjes së një motori kritik që vihet re në TDP, kur motorët e mbetur funksionalë operojnë brenda limiteve të miratuara;
+b) për VCA-të (TODRV), distancën horizontale të kërkuar nga fillimi i ngritjes, deri në pikën në të cilën arrihet largimi i sigurt i pengesave dhe këndi i llogaritur pozitiv i marrjes së lartësisë, pas një dështimi kritik për performancën (CFP) të njohur në TDP.
+105) “Trajektorja e ngritjes” nënkupton:
+a) trajektoren vertikale dhe horizontale, me një motor kritik jofunksional, nga një pikë e specifikuar në ngritjen e aeroplanëve deri në 1500 ft mbi sipërfaqen dhe për helikopterët deri në 1000 ft mbi sipërfaqen;
+b) për VCA-të, trajektoren vertikale dhe horizontale me një dështim kritik për performancën (CFP), e cila shtrihet nga pika e ngritjes në një pikë në të cilën VCA është në një lartësi mbi lartësinë e ngritjes që është në përputhje me profilin e rrugëtimit dhe jo më i lartë se 305 m (1 000 ft).
+106) “Masa e ngritjes” nënkupton masën përfshirë çdo pajisje dhe çdo person në bord në fillim të ngritjes për helikopterët ose për VCA-të, dhe të vrapimit për ngritje për aeroplanët.
 107) “Distanca e disponueshme për vrullin e ngritjes (TORA)” nënkupton gjatësinë e pistës që deklarohet e disponueshme nga shteti i aerodromit dhe e përshtatshme për vrullin në tokë të aeroplanit që ngrihet.
 107a) “Specialist detyrash” do të thotë një person i caktuar nga operatori ose një palë e tretë, ose që vepron si ndërmarrje, i cili kryen detyra në terren të lidhura drejtpërdrejtë me një detyrë të specializuar ose kryen detyra të specializuara në bord ose nga avioni;
-108) “Anëtar ekuipazhi teknik” nënkupton një anëtar ekuipazhi në operime të transportit ajror tregtar HEMS, HEMS HEC, HHO ose NVIS, përveç një anëtari të ekuipazhit të fluturimit ose kabinës i caktuar nga operatori për detyra në avion ose në tokë me qëllim të ndihmojë pilotin gjatë operimeve HEMS, HEMS HEC, HHO, ose NVIS, të cilat mund të kërkojnë vënie në funksion të pajisjeve speciale në bord.
+108) “Anëtar teknik i ekuipazhit” nënkupton një anëtar ekuipazhi në operime të transportit ajror tregtar HEMS, VEMS, HHO ose NVIS, përveç një anëtari të ekuipazhit të fluturimit ose kabinës, i caktuar nga operatori për detyra në avion ose në tokë me qëllim të ndihmojë pilotin gjatë operimeve HEMS, VEMS, HHO ose NVIS, të cilat mund të kërkojnë vënien në funksion të pajisjeve speciale në bord.
 109) “Instruksione teknike (TI)” nënkupton botimin më të fundit në fuqi të “Instruksioneve teknike për transportin e mallrave të rrezikshme nga ajri”, përfshirë shtesat dhe çdo shtesë tjetër, të miratuara dhe publikuara nga ICAO-ja.
 110) “Ngarkesa e trafikut” nënkupton masën totale të pasagjerëve, bagazheve, ngarkesave të transportit dhe mjeteve të specializuara dhe duke përfshirë çdo material të rëndë.
 110a) “Aplikimi EFB i tipit A” nënkupton një aplikim EFB, keqfunksionimi ose keqpërdorimi i të cilit nuk ka efekt në sigurinë teknike.�
@@ -418,6 +463,20 @@ i) për një masë maksimale ngritjeje që tejkalon 3 175 kg; ose
 ii) për një konfigurim maksimal të ndenjëseve të pasagjerëve prej më shumë se nëntë; ose
 iii) për operim me një ekuipazh minimal prej të paktën dy pilotësh; ose
 c) një avion me rotor me anim.
+120) “Lëvizja në tokë” nënkupton lëvizjen e një avioni në zonën e lëvizjes së një aerodromi ose një vertiporti me ndihmën e pajisjeve ose aksesorëve të jashtëm që nuk mundësohen nga avioni.
+121) “Personeli në tokë” nënkupton personelin, të ndryshëm nga anëtarët e ekuipazhit të fluturimit ose anëtarët e ekuipazhit teknik, të cilët janë caktuar për detyra që lidhen me lëvizjen në tokë të VCA-së ose çdo ndihmë tjetër në tokë që i ofrohet avionit, dhe që kanë marrë trajnime për procedurat përkatëse operacionale dhe të sigurisë në operim.
+122) “Kategoria e përmirësuar” nënkupton një kategori për certifikimin dhe funksionimin e VCA-së, sipas së cilës avioni plotëson kërkesat për vazhdimin e fluturimit dhe uljes së sigurt pas një dështimi kritik për performancën (CFP).
+123) “Performanca minimale e certifikuar (CMP)” nënkupton, në lidhje me VCA-në, tërësinë e të dhënave të performancës të marra duke marrë parasysh efektin e dështimeve të vetme dhe kombinimet e dështimeve që nuk janë jashtëzakonisht të pamundura në parametrat nominal të performancës.
+124) “Fluturim dhe ulje e vazhdueshme e sigurt (CSFL)” nënkupton, në lidhje me një VCA që operohet në kategorinë e përmirësuar, që avioni është në gjendje të vazhdojë fluturimin e kontrolluar dhe të ulet në një vertiport, ndoshta duke përdorur procedura emergjente, pa kërkuar aftësi apo forcë të jashtëzakonshme pilotuese.
+125) “Dështim kritik për performancën (CFP)” nënkupton, në lidhje me VCA-në, një dështim ose një kombinim dështimesh që rezulton në degradimin maksimal për një fazë të caktuar fluturimi dhe parametrave të performancës; tërësia e dështimeve kritike për performancën përdoret për të vendosur performancën minimale të certifikuar (CMP).
+126) “Operim i kufizuar mbi ujë” nënkupton një operim IAM me një VCA që kryhet për një kohë të kufizuar fluturimi mbi ujë.
+127) “Anëtar i ekuipazhit teknik VEMS” do të thotë një anëtar i ekuipazhit teknik (TCM) që është caktuar në një fluturim VEMS me qëllim të asistimit të pilotit gjatë operimit të fluturimit dhe kujdesit ndaj çdo personi që ka nevojë për ndihmë mjekësore.
+128) “Baza operative VEMS” nënkupton një vertiport në të cilin VCA, ekuipazhi i saj i fluturimit dhe anëtarët e ekuipazhit VEMS janë në gatishmëri për operimet VEMS.
+129) “Vendi operativ VEMS” nënkupton një vend operimi të zgjedhur nga piloti në komandë për operimet, uljet dhe ngritjet e VEMS-it;
+130) “Vertiport” nënkupton një zonë toke, uji ose strukture që përdoret ose synohet të përdoret për uljen dhe ngritjen e VCA-së dhe për lëvizjen e VCA-së.
+131) “Vertiport i përshtatshëm “ nënkupton një vertiport në të cilin VCA mund të operohet, duke marrë parasysh përmasat e avionit, peshën, shtigjet e afrimit dhe nisjes, dhe i cili është i pajisur me shërbime dhe struktura të nevojshme për operimin e synuar dhe është i disponueshëm në kohën e pritshme të përdorimit.
+132) “Shpejtësia e sigurisë së ngritjes VTOL (V TOSS)” nënkupton shpejtësinë minimale me të cilën do të arrihet ngjitja me një CFP të njohur në TDP në rastin e VCA që operohet në kategorinë e përmirësuar.
+133) “VCA me pilot” nënkupton një VCA të pilotuar nga të paktën një pilot në bord.
 ANEKSI II
 KËRKESAT E AUTORITETIT PËR OPERIMET AJRORE
 [PJESA-ARO]
@@ -589,7 +648,8 @@ b) Nëse gjatë mbikëqyrjes apo nëpërmjet një mënyre tjetër, janë gjetur 
 ARO.GEN.360 Gjetjet dhe masat shtrënguese - të gjithë operatorët
 Në qoftë se gjatë mbikëqyrjes ose me ndonjë mënyre tjetër, gjenden evidenca që tregojnë një mospërputhje me kërkesat e aplikueshme nga një operator që është subjekt i kërkesave të parashikuara në VKM-në nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil” dhe rregullat zbatuese të tij, AAC-ja që e identifikon mospërputhjen, duhet të marrë çdo masë të nevojshme shtrënguese për parandalimin e vazhdimësisë së mospërputhjes.
 NËNPJESA OPS. OPERIMET AJRORE
-Seksioni I. Certifikimi i operatorëve për transport ajror tregtar
+SEKSIONI I
+Certifikimin e operatorëve të transportit ajror tregtar (CAT) dhe operatorëve inovativë të lëvizshmërisë ajrore (IAM)
 ARO.OPS.100 Lëshimi i certifikatës së operatorit ajror
 a) AAC-ja lëshon Certifikatën e Operatorit Ajror (COA), kur bindet se operatori ka demonstruar përputhje me elementet e kërkuara në ORO.AOC.100.
 b) Certifikata duhet të përfshijë specifikimet përkatëse të operimit.
@@ -631,7 +691,7 @@ Seksioni II. Miratimet
 ARO.OPS.200 Procedura e miratimeve specifike
 a) Pas marrjes së një kërkese për lëshimin e një miratim të veçantë ose ndryshimet e tij, AAC-ja duhet të vlerësojë aplikimin, në përputhje me kërkesat përkatëse të aneksit V (pjesa SPA) dhe të kryejë një inspektim tek operatorit, sipas rastit.
 b) Kur bindet se operatori ka demonstruar përputhshmëri me kërkesat e zbatueshme, AAC-ja duhet të lëshojë ose të bëjë ndryshime në aprovim. Aprovimi duhet të specifikohet në:
-1) specifikimet e operimeve, siç përcaktohet në shtojcën II, për operimet e transportit tregtar ajror; ose
+1) specifikimet e operimeve, siç përcaktohet në shtojcën II, për operimet e transportit ajror tregtar me aeroplanë dhe helikopterë dhe për operimet inovative të lëvizshmërisë ajrore (IAM) me VCA; ose
 2) listën e aprovimeve specifike, siç përcaktohet në shtojcën III, për operimet jotregtare dhe operime të specializuara.
 ARO.OPS.205 Miratimi i listës minimale të pajisjeve
 a) Kur AAC-ja merr një kërkesë nga një operator për miratim fillestar të një liste minimale pajisjesh (MEL) ose një ndryshim të tij, ai (autoriteti) duhet të vlerësojë çdo artikull që ndikohet, për të verifikuar përputhjen me kërkesat e zbatueshme, para lëshimit të miratimit.
@@ -651,7 +711,12 @@ d) Nëse njoftohen ose zbulohen ndryshime në mjedisin e pengesave në një vend
 2) vendndodhja nuk do të kualifikohet më për miratimin e vendndodhjes me interes publik sipas pikës CAT.POL.H.225 të aneksit IV;
 3) kur hiqen pengesat e reja, operatorët mund të aplikojnë ose të riaplikojnë për një miratim për një operim me helikopter sipas pikës CAT.POL.H.225 të aneksit IV për vendndodhjen e caktuar.
 e) Autoriteti kompetent nuk do të japë një miratim sipas pikës CAT.POL.H.225 të aneksit IV për një vend me interes publik që ka qenë operuar më parë në klasën e performancës 1 pas një ndryshimi në mjedisin e pengesave.
-ARO.OPS.225 Miratimi i skemave të karburantit/energjisë
+ARO.OPS.224 Miratimi i skemave të karburantit/energjisë për operimet e IAM
+a) Autoriteti i Aviacionit Civil duhet të miratojë skemën e karburantit/energjisë të propozuar nga një operator IAM nëse ai operator demonstron përputhje me kërkesat e pikave UAM.OP.VCA.190, UAM.OP.VCA.191, UAM.OP.VCA.192 dhe UAM.OP.VCA.195 të aneksit IX.
+b) Përveç kësaj, Autoriteti i Aviacionit Civil duhet të:
+1) vlerësojë nëse sistemi i menaxhimit të operatorit IAM dhe procesi i menaxhimit të rrezikut të sigurisë në operim mund të mbështesin zbatimin e skemës së propozuar individuale të karburantit/energjisë; dhe
+2) krijojë një plan mbikëqyrës për të kryer vlerësime periodike të skemës aktuale të karburantit/energjisë së operatorit IAM për të verifikuar përputhjen e skemës me kërkesat e zbatueshme ose për të vendosur nëse skema duhet të ndryshohet apo revokohet.
+ARO.OPS.225 Miratimi i skemave të karburantit/energjisë - aeroplanët dhe helikopterët
 a) AAC-ja miraton skemën e karburantit/energjisë të propozuar nga një operator CAT nëse operatori është në përputhje me të gjitha kërkesat e zbatueshme të përcaktuara në këtë rregullore në lidhje me karburantin/energjinë për aeroplanët ose helikopterët e përfshirë në CAT.
 b) AAC-ja vlerëson dhe mbikëqyr planifikimin e karburantit/energjisë dhe riplanifikimin gjatë fluturimit, përzgjedhjen e aerodromit dhe politikat e menaxhimit të karburantit/energjisë gjatë fluturimit që lidhen me skemat e karburantit/energjisë, së bashku me proceset që mbështesin zbatimin e këtyre skemave të karburantit/energjisë.
 c) Përveç pikave (a) dhe (b), kur miratohen skemat individuale të karburantit/energjisë, AAC-ja do të:
@@ -815,113 +880,118 @@ ARO.RAMP.160 Informacioni për publikun dhe mbrojtja e informacionit
 a) Republika e Shqipërisë duhet të përdorë informacionin e marrë nga ana e saj në pajtim me ARO.RAMP.105 dhe ARO.RAMP.145, vetëm për qëllime të VKM-së nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil” transpozim i rregullores bazë evropiane nr. 2018/1139 dhe rregullave implementuese të saj, dhe duhet ta mbrojë atë informacion sipas rrethanave.
 b) Agjencia publikon një raport informues përmbledhës vjetor, që duhet të jetë i disponueshëm për publikun dhe të përmbajë analizën e informacioneve të marra në përputhje me ARO.RAMP.145. Raporti duhet të jetë i thjeshtë dhe i lehtë për t’u kuptuar, dhe burimi i informacionit të jetë i paidentifikuar.
 Për Republikën e Shqipërisë, AAC-ja do të publikojë një raport përmbledhës informues, të disponueshëm për publikun.
-SHTOJCA I
-CERTIFIKATA E OPERATORIT AJROR
-(Plani i miratimit për operatorët e transportit ajror)
-Llojet e operimeve: Operim tregtar ajror (CAT) □ Pasagjerët; □ Mallrat; □ Të tjerat (1)
-| |Shteti i operatorit (2) |(5) |
+Shtojca I
+|CERTIFIKATA E OPERATORIT AJROR |
+|(Plani i miratimit për operatorët e transportit ajror) |
+|Llojet e operimeve: |
+|Transporti ajror tregtar (CAT) □ Pasagjerët; □ Mallrat; □ Të tjerat (1): … |
+|Lëvizshmëria inovative ajrore (IAM) □ Pasagjerët; □ Mallrat; □ Të tjerat (1): … |
+| (4) |Shteti i operatorit (2) | (5) |
 | |Autoriteti lëshues (3) | |
-|AOC# (6) |Emri i operatorit (7) |Pikat e kontaktit të operimit (9) |
-| |Emri tregtar i operatorit (Dba) (8) |Detajet e kontaktit, ku mund të kontaktohen |
-| | |drejtuesit operacional pa vonesa, janë listuar |
-| | |tek ………………..(12) |
-| |Adresa e operatorit: (10) | |
-| |Telefon: (11) | |
-| |Faks: | |
+|AOC # (6): |Emri i operatorit (7) |Pikat e kontaktit të operimit: (9) |
+| |Emri tregtar i operatorit Dba (8) |Detajet e kontaktit ku mund të |
+| |Adresa postare e operatorit (10): |kontaktohen drejtuesit |
+| |Telefoni (11): |operacionalë pa vonesa, janë |
+| |Faks |listuar tek… (12). |
 | |Email: | |
-Kjo certifikatë vërteton që……………………………………(13) është i autorizuar të kryejë operime tregtare ajrore, siç përcaktohet në specifikimet e operimeve bashkëngjitur, në përputhje me manualin e operimeve, shtojca V e VKM-së nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, që përafron rregulloren (BE) 2018/1139.”.
-|Data e lëshimit (14): |Emri dhe firma (15): |
-| |Titulli (16): |
-1) Lloje të tjera të transportit që duhet të specifikohen.
-2) Zëvendësuar nga emri i shtetit të operatorit.
-3) Zëvendësuar nga identifikimi i autoritetit kompetent lëshues.
-4) Për përdorim nga autoriteti kompetent.
-5) Për përdorim nga autoriteti kompetent.
-6) Referenca e aprovimit, siç është lëshuar nga autoriteti kompetent.
-7) Zëvendësuar me emrin e operatorit të regjistruar.
-8) Emri i tregtar i operatorit, n.q.s. është ndryshe. Vendos “Dba” për (“Kryen aktivitet si”) para emrit tregtar.
-9) Të dhëna të kontaktit, përfshirë numrat e telefonit dhe faksit, përfshirë kodin e shtetit (prefiksin), adresën email (n.q.s. është e aplikueshme), ku mund të kontaktohet me drejtuesit operacional pa vonesa për problemet që kanë të bëjnë me operimet ajrore, vlefshmërisë ajrore, kompetenca të ekuipazhit të fluturimit dhe kabinës, mallrat e rrezikshme dhe probleme të tjera sipas rastit.
-10) Selia e aktivitetit të operatorit.
-11) Të dhënat e telefonit dhe të faksit të vendit kryesor të aktivitetit të operatorit, përfshirë kodin e shtetit (prefiksin). Duhet të jepet email, n.q.s. ka.
-12) Vendosja e dokumenteve që merren në bord, të cilat janë kontrolluar, në të cilat janë shënuar të dhënat e kontaktit, paragrafit përkatës ose referencës së faqes. p.sh.: “Detajet e kontaktit... janë shënuar në manualin e operimeve, të përgjithshme/bazë, kapitulli 1, 1.1”; ose “... janë shënuar në specifikimet e operimeve, faqe 1; ose “... janë shënuar në një material bashkëngjitur këtij dokumenti”.
-13) Emri i regjistruar i operatorit.
-14) Data e lëshimit të AOC-së (dita-muaji-viti).
-15) Emërtimi i pozicionit të punës, emri dhe nënshkrimi i përfaqësuesit të autoritetit kompetent. Po ashtu mbi AOC-në mund të vendoset vula zyrtare.
-_________________________________________________________________________
-Forma e RSH-së, nr. 138, Lëshimi 2, sipas modelit të EASA-s.
-SHTOJCA II
+| | | |
+| | | |
+|□ Kjo vërteton që … (13) është i autorizuar të kryejë operime të transportit tregtar ajror (CAT), siç përcaktohet në specifikimet|
+|e operimeve bashkëngjitur, në përputhje me manualin e operimeve dhe me aneksin V të VKM-së nr. 1095, datë 24.12.2020, “Për |
+|miratimin e kërkesave thelbësore në fushën e aviacionit civil”, i ndryshuar që përafron rregulloren (BE) 2018/1139 dhe aktet e saj|
+|të deleguara dhe zbatuese. |
+|□ Kjo vërteton që … (13) është i autorizuar të kryejë operime inovative të lëvizshmërisë ajrore (IAM), siç përcaktohet në |
+|specifikimet e operimeve bashkëngjitur, në përputhje me manualin e operimeve dhe me aneksin V të VKM-së nr. 1095, datë 24.12.2020,|
+|“Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, i ndryshuar që përafron rregulloren (BE) 2018/1139 dhe aktet |
+|e saj të deleguara dhe zbatuese. |
+|Data e lëshimit (14): |Emri dhe nënshkrimi (15): |
+| |Titulli: |
+|Forma e 138 e RSH-ë, sipas modelit të EASA-s - Lëshimi 3 |
+Shtojca II
 |SPECIFIKIMET E OPERIMEVE |
 |(në varësi të kushteve të miratuara në manualin e operimeve) |
-|Detaje të kontakit të autoritetit lëshues |
-|Telefon (1):_______________________ Fax: _____________________ |
-|Email:____________________________ |
-|AOC (2): Emri i operatorit (3): Data (4): Firma: |
-| |
-|Dba Emri tregtar |
+|Detaje të kontaktit të autoritetit lëshues |
+|Telefoni (1): __________________; Faks __________________; |
+|Email: __________________ |
+|AOC (2): |Emri i operatorit (3): |Data (4): |Nënshkrimi: |
+| |Emri tregtar DBA |
 |Specifikimet e operimeve #: |
 |Modeli i avionit (5): |
-|Shenja e regjistrimit (6): |
-|Tipi i operimit: transport tregtar ajror |
-|□ Pasagjerë □ Ngarkesë □ Tjetër (7):__________________ |
-|Fusha e operimit (8): |
-|Kufizime të veçanta (9): |
-|Miratime specifike: |Po |Jo |Specifikime (10) |Vërejtje |
-|Të mira/mallra të rrezikshme |□ |□ | | |
+|Shenjat e regjistrimit (6): |
+|Tipi i operimit: |
+|Transporti tregtar ajror (CAT) □ Pasagjerë □ Ngarkesë □ Të tjera (7): _______________ |
+|Lëvizshmëria inovative ajrore (IAM) □ Pasagjerë □ Ngarkesë □ Të tjera (7): _______________ |
+|Fusha e operimit (9): |
+|Kufizime të veçanta (9): | | | | |
+|Miratime specifike: |po |jo |Specifikime (10) |Vërejtje |
+|Mallra të rrezikshme |□ |□ | | |
 |Operime me shikueshmëri të ulët | | | | |
-|Ngritjet |□ |□ |RVR (11)...m | |
-|Afrimi dhe ulja |□ |□ |CAT(12)...DA/H:ft RVR:m | |
-|Kredite operative |□ |□ |CAT(13)...DA/H:ft RVR:m | |
-|RVSM (14) □ N/A |□ |□ | | |
-|ETOPS (15) □ N/A |□ |□ |Koha maksimale e shmangies(16) | |
-| | | |Min. | |
+|Ngritjet |□ |□ |RVR (11): ... m | |
+|Afrimi dhe ulja |□ |□ |CAT (12) .... DA/H: ...ft, RVR: | |
+| | | |...m | |
+|Kreditet operative |□ |□ |CAT (13) …. DA/H: ...ft, RVR: | |
+| | | |...m | |
+|RVSM (14) |□ N/A |□ |□ | | |
+|ETOPS (15) |□ N/A |□ |□ |Koha maksimale e devijimit | |
+| | | | |(16):… minuta | |
 |Specifikime të lundrimeve komplekse për |□ |□ | | (18) |
 |operimet PBN (17) | | | | |
-|Specifikimet e performancës minimale të |□ |□ | | |
-|lundrimit | | | | |
-|Operimet e aeroplanëve me turbinë me një |□ |□ | (19) | |
-|motor natën ose në IMC | | | | |
+|Specifikimet e performancës minimale të lundrimit |□ |□ | | |
+|Operimet e aeroplanëve me turbinë me një motor natën ose në IMC |□ |□ | (19) | |
 |(SET-IMC) | | | | |
 |Operimet e helikopterëve me ndihmën e |□ |□ | | |
 |sistemeve për shikimin e pamjeve natën | | | | |
-|Operimet ngritëse të helikopterëve në një|□ |□ | | |
-|vend | | | | |
-|Operimet e shërbimit të emergjencës |□ |□ | | |
-|mjekësore e helikopterëve | | | | |
-|Operimet në det të hapur të helikopterëve|□ |□ | | |
-|Afrimet dhe nisjet e helikopterëve në |□ |□ | | |
-|pikë në hapësirë me minimume VFR të | | | | |
-|reduktuara | | | | |
-|Trajnim i ekuipazhit të kabinës(20) |□ |□ | | |
+|Operimet e ngritjes së helikopterit |□ |□ | | |
+|Operimet e shërbimit të emergjencës mjekësore e helikopterëve |□ |□ | | |
+|Operimet në det të hapur të helikopterëve |□ |□ | | |
+|Operimet e shërbimit mjekësor emergjent të avionëve me aftësi |□ |□ | | |
+|VTOL (VEMS) | | | | |
+|Trajnimi i ekuipazhit të kabinës (20) |□ |□ | | |
 |Lëshimi i vërtetimit të CC-së (21) |□ |□ | | |
-|Përdorimi i aplikacioneve EFB të tipit B |□ |□ |(22) | |
-|EFB | | | | |
-|Vazhdueshmëria e vlefshmërisë ajrore |□ |□ |(23) | |
+|Përdorimi i aplikacioneve të tipit B EFB |□ |□ | (22) | |
+|Vazhdueshmëria e vlefshmërisë ajrore |□ |□ | (23) | |
 |Të tjera (24) | | | | |
-(1) Detajet e kontaktit të numrit të telefonit dhe faksit të autoritetit kompetent, duke përfshirë kodin e vendit. Duhet të sigurohet dhe email-i nëse është i disponueshëm.
-(2) Futja e numrit të certifikatës së operatorit ajror shoqërues (AOC).
-(3) Futja e emrit të regjistruar të operatorit dhe emri tregtar i operatorit, nëse është i ndryshëm. Futni “Dba” përpara emrit tregtar (për “Të bërit biznes si”).
-(4) Data e lëshimit të specifikimeve të operimeve (dd.mm.vvvv) dhe nënshkrimi i përfaqësuesit të autoritetit kompetent.
-(5) Futja e emërtimit të ICAO-së të modelit të avionit, modelit dhe serive, ose serisë kryesore origjinale, nëse një seri është përcaktuar (p.sh.: Boeing-737-3K2 ose Boeing-777-232).
-(6) Shenjat e regjistrimit janë të shënuara në specifikimet e operimeve ose në manualin e operimeve. Në rastin e fundit, specifikimet e operimeve përkatëse duhet të kenë një referencë në faqen përkatëse në manualin e operimit. Në rast se jo të gjitha miratimet specifike për modelin e avionit, shenjat e regjistrimit të avionit vendosen në kolonën e vërejtjeve në miratimin specifik përkatës.
-(7) Specifikoni llojet e tjera të transportit (p.sh., shërbimi mjekësor emergjent).
-(8) Listimi i zonës gjeografike të operimeve të autorizuar (sipas koordinatave gjeografike ose rrugëve specifike, rajonit të informacionit të fluturimit ose kufijve kombëtarë ose rajonalë).
-(9) Listimi i kufizimeve të veçanta të aplikueshme (p.sh., vetëm VFR, vetëm ditën etj.).
-(10) Listoni në këtë kolonë kriteret më të lejueshme për secilin miratim ose llojin e miratimit (me kritere të përshtatshme).
-(11) Vendosni RVR minimale të miratuar për ngritje në metra. Mund të përdoret një linjë për çdo miratim të ndryshëm.
-(12) Përcaktoni kategoritë e zbatueshme të afrimit preciz: CAT II or CAT III. Përcaktoni RVR minimale në metra dhe DH në njësi këmbë(FT). Çdo linjë përdoret për kategorinë e afrimit të listuar.
-(13) Vendosni kreditet operative të zbatueshme: SA CAT I, SA CAT II, EFVS etj. Përcaktoni RVR minimale në metra dhe DH në njësi këmbë (FT). Një linjë përdoret për çdo kredit të listuar operativ.
-(14)Kutia e paaplikueshme (N/A) mund të plotësohet vetëm nëse tavani maksimal i avionit është nën FL290.
-(15) Operimet e shtrirjes së zgjeruar (ETOPS), aktualisht, përdoren vetëm për avionët me dy motorë. Prandaj, kutia e paaplikueshme (N/A) mund të plotësohet nëse modeli i avionit ka më shumë ose më pak se dy motorë.
-(16) Renditet distanca e pragut po ashtu edhe lloji i motorit.
-(17) Lundrimi me bazë performance (PBN): një linjë përdoret për secilin miratim specifik kompleks të PBN-së (p.sh., RNP AR APCH), me kufizime të përshtatshme të listuar në kolonat “Specifikimet” ose “Vërejtje/shënime” ose në të dyja. Aprovimet specifike të procedurave specifike RNP AR APCH mund të renditen në specifikimet e operimeve ose në manualin e operimeve. Në rastin e fundit, specifikimet e operimeve përkatëse duhet të kenë një referencë në faqen përkatëse në manualin e operimeve.
-(18) Specifikoni nëse aprovimi specifik është i kufizuar në skajet e caktuara të pistës dhe/ose të aerodromeve.
-(19) Futja e kombinimit të veçantë të korpusit të avionit/motorëve.
-(20) Miratimi për kryerjen e kursit të trajnimit dhe ekzaminimit që duhet plotësuar nga aplikuesit për të marrë një vërtetim të ekuipazhit të kabinës, siç përcaktohet në shtojca V (pjesa CC), të rregullores së miratuar me urdhrin e ministrit përgjegjës për transportin nr. 262, datë 28.6.2019, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative, në lidhje me ekuipazhin ajror të aviacionit civil”.
-(21) Miratimi për lëshimin e vërtetimeve të ekuipazhit të kabinës, siç përcaktohet në shtojca V (PJESA CC), të rregullores së miratuar me urdhrin e ministrit përgjegjës për transportin nr. 262, datë 28.6.2019, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative, në lidhje me ekuipazhin ajror të aviacionit civil”
-(22) Futja e listës të tipit B së aplikacioneve EFB së bashku me referencën e pajisjeve EFB (për EFB portative). Ose, kjo listë gjendet në specifikimet e operimeve ose në manualin e operimeve. Në rastin e fundit, specifikimet e operimeve përkatëse duhet të bëjnë një referencë në faqen përkatëse në manualin e operimeve.
-(23) Emri i personit/i organizatës përgjegjës/e për të siguruar ruajtjen e vazhdueshmërisë së vlefshmërisë ajrore të avionit dhe referencën ndaj rregullores për atë që kërkon punën, p.sh., nënpjesën G të aneksit I (pjesa M), të UM nr. ___, datë _______, që përafron rregulloren (BE) nr. 1321/2014.
-(24) Miratime ose të dhëna të tjera mund të regjistrohen këtu, duke përdorur një rresht (ose një bllok me shumë rreshta) për autorizime (p.sh., operime uljeje të shkurtra, operime me qasje të pjerrët, distanca e nevojshme e reduktuar e uljes, operime me helikopter në/nga një vend me interes publik, operime me helikopter një mjedis armiqësor që ndodhet jashtë zonës së mbingarkuar, operime të helikopterëve pa aftësi sigurie të uljes së detyruar, operime me kënde më të larta planesh, distanca maksimale nga një aerodrom adekuat për aeroplanë me dy motorë pa miratimin ETOPS)).
-Forma e RSH-së sipas Modelit të EASA-s 139 Lëshimi 8.
+|Forma 139 e RSH-së sipas modelit të EASA-s - Lëshimi 8 |
+[pic]
+(1) Lloji tjetër i transportit që do të specifikohet.
+(2) Zëvendësohet me emrin e shtetit të operatorit.
+(3) Zëvendësohet me identifikimin e autoritetit kompetent lëshues.
+(4) Për përdorim nga autoriteti kompetent.
+(5) Për përdorim nga autoriteti kompetent.
+(6) Referenca e miratimit, e lëshuar nga autoriteti kompetent.
+(7) Zëvendësohet me emrin e regjistruar të operatorit.
+(8) Emri tregtar i operatorit, nëse është i ndryshëm. Vendosni “Dba” përpara emrit tregtar (për “Të bërit biznes si”).
+(9) Detajet e kontaktit përfshijnë numrat e telefonit dhe faksit, duke përfshirë kodin e shtetit dhe adresën e emailit (nëse është e disponueshme) në të cilën menaxhmenti operacional mund të kontaktohet pa vonesa të panevojshme për çështje që lidhen me operimet e fluturimit, vlefshmërinë ajrore, fluturimin dhe kompetencat e anëtarëve të ekuipazhit të kabinës, mallrat e rrezikshme dhe çështje të tjera sipas rastit.
+(10) Adresa e operatorit të vendit kryesor të biznesit.
+(11) Vendi kryesor i biznesit të operatorit, detajet e telefonit dhe faksit, duke përfshirë kodin e shtetit. Email-i të jepet nëse është i disponueshëm.
+(12) Futja e dokumentit të kontrolluar, të mbajtur në bord, në të cilin janë shënuar të dhënat e kontaktit, me paragrafin ose referencën e faqes përkatëse. P.sh.: “Detajet e kontaktit … janë të listuara në manualin e operimeve, gjener/bazë, Kapitulli 1, 1.1”; ose “… janë të listuara në specifikimet e operimeve, faqe 1”; ose “… janë të listuara në një bashkëlidhje të këtij dokumenti”.
+(13) Emri i regjistruar i operatorit.
+(14) Data e lëshimit të AOC (dd-mm-vvvv).
+(15) Titulli, emri dhe nënshkrimi i përfaqësuesit të autoritetit kompetent. Përveç kësaj, një vulë zyrtare mund të aplikohet në AOC.
+(16) Të dhënat e kontaktit telefonik të autoritetit kompetent, duke përfshirë kodin e shtetit. Duhet të jepet adresa e emailit, si dhe faksi nëse është i disponueshëm.
+(17) Futja e numrit të certifikatës së operatorit ajror shoqërues (AOC).
+(18) Futja e emrit të regjistruar të operatorit dhe emrit tregtar të operatorit, nëse janë të ndryshëm. Vendosni “Dba” përpara emrit tregtar (për “Të bërit biznes si”).
+(19) Data e lëshimit të specifikimeve të operimit (dd-mm-vvvv) dhe nënshkrimi i përfaqësuesit të autoritetit kompetent.
+(20) Futja e përcaktimit të ICAO-s të markës, modelit dhe serisë së avionit, ose serisë kryesore, nëse është caktuar një seri (p.sh. Boeing-737-3K2 ose Boeing-777-232) ose futja e markës së avionit të aftë për VTOL, modeli dhe seria, sipas rastit.
+(21) Shenjat e regjistrimit renditen ose në specifikimet e operimit ose në manualin e operimit. Në rastin e fundit, specifikimet përkatëse të operimeve duhet t’i referohen faqes përkatëse në manualin e operimeve. Në rast se nuk zbatohen të gjitha miratimet specifike për modelin e avionit, shenjat e regjistrimit të avionit mund të futen në kolonën “Vërejtje” të miratimit specifik përkatës.
+(22) Lloji tjetër i transportit (p.sh. shërbimi mjekësor emergjent) të specifikohet.
+(23) Lista e zonave gjeografike të operimit të autorizuar (sipas koordinatave gjeografike ose rrugëve specifike, rajonit të informacionit të fluturimit ose kufijve kombëtarë ose rajonalë).
+(24) Lista e kufizimeve të veçanta të zbatueshme (p.sh. vetëm VFR, vetëm ditën etj.).
+(25) Futja në këtë kolonë e kritereve më lejuese për çdo miratim ose llojin e miratimit (me kriteret e duhura).
+(26) Futja e RVR minimale të miratuar për ngritje në metra. Një linjë për miratim mund të përdoret nëse jepen miratime të ndryshme.
+(27) Futja e kategorisë së aplikueshme të afrimit me saktësi: CAT II ose CAT III. Futja e RVR minimale në metra dhe DH në këmbë. Një rresht përdoret për kategorinë e qasjes së listuar.
+(28) Futja e krediteve operative të aplikueshme: SA CAT I, SA CAT II, ​​EFVS etj. Futja e RVR minimale në metra dhe DH në këmbë. Një linjë përdoret për kreditet operacionale të listuara.
+(29) Kutia “Nuk zbatohet” (N/A) mund të kontrollohet vetëm nëse tavani maksimal i avionit është nën FL290.
+(30) Operimet me rreze të zgjeruar (ETOPS) aktualisht zbatohen vetëm për avionët me dy motorë. Prandaj, kutia “Nuk zbatohet” (N/A) mund të kontrollohet nëse modeli i avionit ka më pak ose më shumë se dy motorë.
+(31) Mund të renditet edhe distanca e pragut (në NM), si dhe lloji i motorit.
+(32) Navigacion i bazuar në performancë (PBN): përdoret një linjë për çdo miratim kompleks specifik të PBN (p.sh. RNP AR APCH), me kufizimet e duhura të listuara në kolonat “Specifikimet” ose “Vërejtje”, ose në të dyja. Aprovimet specifike për procedurat e procedurave specifike të RNP AR APCH mund të renditen në specifikimet e operimeve ose në manualin e operimeve. Në rastin e fundit, specifikimet përkatëse të operimeve duhet të kenë një referencë në faqen përkatëse në manualin e operimeve.
+(33) Specifikoni nëse miratimi specifik kufizohet në skaje të caktuara të pistës ose aerodrome, ose të dyja.
+(34) Futja e strukturës së veçantë ose kombinimit të motorit.
+(35) Miratimi për të kryer kursin e trajnimit dhe provimin që duhet të plotësojnë aplikantët për një vërtetim të ekuipazhit të kabinës siç specifikohet në aneksin V (pjesa-CC) të urdhrit të ministrit nr. 178, datë 20.12.2023, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil”, i ndryshuar.
+(36) Miratimi për lëshimin e vërtetimeve të ekuipazhit të kabinës siç specifikohet në aneksin V (pjesa-CC) të urdhrit të ministrit nr. 178, datë 20.12.2023, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil”, i ndryshuar.
+(37) Futja e listës së aplikacioneve EFB të tipit B së bashku me referencën e harduerit EFB (për EFB-të portative). Kjo listë gjendet ose në specifikimet e operimeve ose në manualin e operimeve. Në rastin e fundit, specifikimet përkatëse të operimeve duhet t’i referohen faqes përkatëse në manualin e operimeve.
+(38) Referenca e miratimit të organizatës përgjegjëse për menaxhimin e vazhdueshmërisë së vlefshmërisë ajrore të avionit dhe një referencë në rregulloren përkatëse (p.sh. aneksi Vc (pjesa-CAMO) i urdhrit të ministrit nr. 79, datë 15.4.2024, “Për miratimin e rregullores “Mbi vazhdueshmërinë e vlefshmërisë ajrore të avionëve dhe produkteve, pjesëve dhe pajisjeve aeronautike dhe mbi miratimin e organizatave dhe personelit të përfshirë në këto detyra”.
+(39) Miratimet ose të dhënat e tjera mund të futen këtu, duke përdorur një linjë (ose një bllok me shumë linja) për autorizim (p.sh. operimet e uljes së shkurtër, operime me afrim të pjerrët, distanca e reduktuar e kërkuar e uljes, operimet e helikopterit drejt ose nga një vend me interes publik, operimet e helikopterit mbi një mjedis armiqësor të vendosur jashtë një zone të mbingarkuar, operimet e helikopterëve pa aftësi të sigurt uljeje të detyruar, operimet me kënde përkuljeje të rritura, distanca maksimale nga një aerodrom i përshtatshëm për aeroplanët me dy motorë pa një miratim ETOPS).
 SHTOJCA III
 LISTA E APROVIMEVE SPECIFIKE
 Operimet jotregtare
@@ -985,11 +1055,12 @@ ANEKSI III
 KËRKESAT NDAJ ORGANIZATËS PËR OPERIMET AJRORE
 [PJESA-ORO]
 ORO.GEN.005 Qëllimi
-Ky aneks përcakton kërkesat që duhet të ndiqen nga një operator ajror që kryen:
+Ky aneks përcakton kërkesat që duhet të përmbushë një operator ajror që kryen:
 a) operimet e transportit ajror tregtar (CAT);
 b) operimet e specializuara tregtare;
-c) operimet jotregtare me avionë kompleks me motor;
-d) operimet e specializuara jotregtare me avionë kompleks me motor.
+c) operimet jotregtare me avionë kompleksë me motor;
+d) operimet e specializuara jotregtare me avionë kompleks me motor;
+e) operimet inovative të lëvizshmërisë ajrore (IAM).
 NËNPJESA GEN.
 KËRKESAT E PËRGJITHSHME
 Seksioni I. Të përgjithshme
@@ -1040,7 +1111,9 @@ ORO.GEN.140 Aksesi
 a) Me qëllim vendosjen e përputhshmërisë me kërkesat përkatëse të vendimit të Këshillit të Ministrave nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil” që përafron rregulloren (BE) 2018/1139 dhe rregullat implementuese të tij, operatori do të lejojë hyrjen, në çdo kohë, në çdo objekt, avion, dokument, regjistrime, të dhëna, procedure apo çdo material tjetër të rëndësishëm për aktivitetet që lidhen me certifikimin, me autorizimin ose me deklaratën SPO, pavarësisht nëse ajo është kontraktuar ose jo, çdo personi të autorizuar nga njëri prej autoriteteve të mëposhtme:
 1) AAC-ja, siç përcaktohet në pikën ORO.GEN.105 të aneksit III të kësaj rregulloreje;
 2) autoriteti që vepron nën kushtet e ARO.GEN.300(d), ARO.GEN.300(e) ose nënpjesës RAMP të aneksit II të kësaj rregulloreje.
-b) Hyrja tek avioni i përmendur në shkronjën (a), në rastin e CAT-së, duhet të përfshijë mundësinë për hyrjeje dhe qëndrim më të gjatë të fluturimit, nëse nuk vendoset ndryshe nga komandanti për kabinën e pilotimit, në përputhje me CAT.GEN.MPA.135 në interes të sigurisë.
+b) Hyrja tek avioni i përmendur në shkronjën “a”, duhet:
+i. për operimet CAT me aeroplanë dhe helikopterë, të përfshijë mundësinë për të hyrë dhe qëndruar në avion gjatë fluturimit, përveç rasteve kur vendoset ndryshe nga komandanti për kabinën e pilotimit në përputhje me pikën CAT.GEN.MPA.135 në interes të sigurisë në operim;
+ii. për operimet IAM me VCA, të përfshijë mundësinë për të hyrë dhe qëndruar në avion gjatë fluturimit, përveç nëse vendoset ndryshe nga piloti në komandë në përputhje me pikën IAM.GEN.MVCA.135 në interes të sigurisë në operim.
 ORO.GEN.150 Gjetjet
 Pas marrjes së njoftimit të gjetjeve, operatori duhet:
 a) të identifikojë shkakun e mospajtueshmërisë;
@@ -1088,44 +1161,43 @@ a) Operatori duhet të krijojë një sistem të mbajtjes së të dhënave që le
 b) Formati i të dhënave do të specifikohet në procedurat e operatorit.
 c) Të dhënat duhet të ruhen në një mënyrë të atillë që të sigurojnë mbrojtje nga dëmtimet, modifikimet dhe vjedhja.
 Seksioni 3. Kërkesa organizative shtesë
-ORO.GEN.310 Përdorimi i avionëve të listuar në një AOC për operimet jotregtare dhe operimet e specializuara
-a) Avionët e listuar në AOC-në e operatorit mund të mbeten në AOC në rast se operohen në një nga situatat e mëposhtme:
-1) nga vetë mbajtësi i AOC-së, për operimet e specializuara në përputhje me aneksin VIII (Pjesa-SPO);
-2) nga operatorë të tjerë, për operimet jotregtare me avionë me motor ose për operimet e specializuara të kryera në përputhje me aneksin VI (Pjesa-NCC), aneksin VII (Pjesa-NCO) ose aneksin VIII (Pjesa SPO), me kusht që avioni të jetë në përdorim për një periudhë të vazhdueshme jo më shumë se 30 ditë.
-b) Kur avioni përdoret në përputhje me pikën (a) (2), mbajtësi i AOC-së që mundëson avionin dhe operatori që e përdor atë do të përcaktojnë një procedurë e cila do të:
-1) identifikojë në mënyrë të qartë se cili operator është përgjegjës për kontrollin operacional të secilit fluturim dhe përshkruajë se si kontrolli operacional transferohet brenda tyre;
-2) përshkruajë procedurën e dorëzimit të avionit pasi t’i jetë kthyer mbajtësit të AOC-së.
-Kjo procedurë do të përfshihet në manualin e operimeve të çdo operatori ose në një kontratë midis mbajtësit të AOC-së dhe operatorit që përdor avionin në përputhje me pikën (a) (2). Mbajtësi i AOC-së do të krijojë një model për një kontratë të tillë. Pika ORO.GEN.220 do të zbatohet për mbajtjen e të dhënave të këtyre kontratave.
-Mbajtësi i AOC-së dhe operatori që përdorin avionin në përputhje me pikën (a) (2) duhet të sigurojnë që procedura t’i komunikohet personelit përkatës.
-c) Mbajtësi i AOC-së duhet t’i paraqesë AAC-së procedurën e përmendur në pikën (b) për miratim paraprak.
-Mbajtësi i AOC-së bie dakord me AAC-në për mjetet dhe shpeshtësinë e dhënies së informacionit rreth transferimeve të operacioneve të kontrollit, në përputhje me pikën ORO.GEN.130(c).
-d) Vazhdueshmëria e vlefshmërisë ajrore të avionit që vihet në përdorim sipas pikës (a) do të menaxhohet nga organizata përgjegjëse për vazhdueshmërinë e vlefshmërisë ajrore të avionit që ndodhet në AOC, në përputhje me urdhrin e ministrit nr. 167, datë 4.6.2020, “Për miratimin e rregullores mbi vazhdueshmërinë e vlefshmërisë ajrore të avionit dhe produkteve, pjesëve dhe pajisjeve aeronautike dhe mbi miratimin e organizatave të personelit të përfshirë në këto detyra”, apo çdo përditësimi të saj në fuqi, që transpozon rregulloren e BE-së nr. 1321/2014 dhe amendimet e saj.
-e) Mbajtësi i AOC-së që vë në dispozicion avionin në përputhje me pikën (a), duhet:
-1) të tregojë në manualin e tij të operimit shenjat e regjistrimit të avionit të dhënë në përdorim dhe llojin e operimeve të kryera me avionin në fjalë;
-2) të qëndrojë i informuar gjatë gjithë kohës dhe mbajë shënime për çdo operator që mban kontrollin operacional të avionit në çdo moment të caktuar derisa avioni t’i kthehet mbajtësit të AOC-së;
-3) të sigurojë që masat e identifikimit, vlerësimit të rrezikut dhe zbutjes së rrezikut të adresojnë të gjitha operacionet e kryera me ato avionë.
-f) Për operimet sipas aneksit VI (Pjesa-NCC) dhe aneksit VIII (Pjesa-SPO), operatori që përdor avionin në përputhje me pikën (a) duhet të sigurojë të gjitha sa vijon:
-1) që çdo fluturim i kryer nën kontrollin e tij operacional të regjistrohet në sistemin e regjistrit teknik të avionit;
-2) se nuk janë bërë ndryshime në sistemet ose konfigurimin e avionit;
-3) që çdo defekt ose mosfunksionim teknik që ndodh gjatë kohës që avioni është nën kontrollin e tij operacional i raportohet organizatës së përmendur në pikën (d);
-4) që mbajtësi i AOC-së të marrë një kopje të çdo raporti të ngjarjeve në lidhje me fluturimet e kryera me avion, të përfunduar në përputhje me urdhrin e ministrit të Infrastrukturës dhe Energjisë nr. 89, datë 5.5.2022 “Për miratimin e rregullores për raportimin dhe ndjekjen e ngjarjeve në Aviacionin Civil në Republikën e Shqipërisë”, që përafron rregulloren e (BE-së) nr. 376/2014 dhe rregulloren zbatuese të Komisionit (BE) 2015/1018.
+ORO.GEN.310 Përdorimi i avionëve ose i helikopterëve të listuar në një AOC për operimet jotregtare dhe operimet e specializuara
+a) Një avion ose një helikopter i listuar në AOC-në e një operatori mund të qëndrojë në AOC nëse operohet në ndonjë nga situatat e mëposhtme:
+1) nga vetë mbajtësi i AOC-së, për operimet e specializuara në përputhje me aneksin VIII (pjesa-SPO);
+2) nga operatorë të tjerë, për operime jotregtare me avionë me motor ose për operime të specializuara të kryera në përputhje me aneksin VI (pjesa-NCC), aneksin VII (pjesa-NCO) ose aneksin VIII (pjesa-SPO), me kusht që avioni të përdoret për një periudhë të vazhdueshme jo më shumë se 30 ditë.
+b) Kur një avion ose një helikopter përdoret në përputhje me shkronjën (a)(2), mbajtësi i AOC-së që mundëson avionin ose helikopterin dhe operatori që e përdor avionin ose helikopterin duhet të vendosin një procedurë e cila, do të:
+1) identifikojë qartë se cili operator është përgjegjës për kontrollin operacional të çdo fluturimi, dhe të përshkruajë se si kontrolli operacional transferohet ndërmjet tyre;
+2) përshkruajë procedurën e dorëzimit të avionit ose helikopterit pasi t’i jetë kthyer mbajtësit të AOC-së.
+Kjo procedurë do të përfshihet në manualin e operimeve të çdo operatori ose në një kontratë të lidhur ndërmjet mbajtësit të AOC-së dhe operatorit që përdor avionin ose helikopterin në përputhje me shkronjën (a)(2). Mbajtësi i AOC-së do të krijojë një model për një kontratë të tillë. Për këto kontrata do të zbatohet pika ORO.GEN.220.
+Mbajtësi i AOC-së dhe operatori që përdorin avionin ose helikopterin në përputhje me shkronjën (a)(2) duhet të sigurojnë që procedura t’i komunikohet personelit përkatës.
+c) Mbajtësi i AOC-së duhet t’i paraqesë AAC-së procedurën e përmendur në shkronjën “b” për miratim paraprak. Mbajtësi i AOC-së bie dakord me AAC-në për mjetet dhe shpeshtësinë e dhënies së informacionit rreth transferimeve të operacioneve të kontrollit në përputhje me pikën ORO.GEN.130(c).
+d) Vazhdueshmëria e vlefshmërisë ajrore e avionit ose e helikopterit të përdorur në përputhje me shkronjën “a” do të menaxhohet nga organizata përgjegjëse për vazhdueshmërinë e vlefshmërisë ajrore të avionit ose helikopterit të përfshirë në AOC, në përputhje me urdhrin e ministrit nr. 79, datë 15.4.2024, “Për miratimin e rregullores mbi vazhdueshmërinë e vlefshmërisë ajrore të avionëve dhe produkteve, pjesëve dhe pajisjeve aeronautike dhe mbi miratimin e organizatave dhe personelit të përfshirë në këto detyra”.
+e) Mbajtësi i AOC-së që vë në dispozicion avionin ose helikopterin në përputhje me shkronjën “a”, duhet:
+1) të tregojë në manualin e tij të operimit shenjat e regjistrimit të avionit ose helikopterit të dhënë në përdorim dhe llojin e operimeve të kryera me atë avion ose helikopter;
+2) të qëndrojë i informuar gjatë gjithë kohës dhe mbajë shënime për çdo operator që mban kontrollin operacional të avionit ose helikopterit në çdo moment të caktuar derisa avioni ose helikopteri t’i kthehet mbajtësit të AOC-së;
+3) të sigurojë që masat e identifikimit, vlerësimit të rrezikut dhe zbutjes së rrezikut që ka vendosur të adresojnë të gjitha operimet e kryera me atë avion ose helikopter.
+f) Për operimet e kryera sipas aneksit VI (pjesa-NCC) dhe aneksit VIII (pjesa-SPO), operatori që përdor avionin ose helikopterin në përputhje me shkronjën “a” duhet të sigurojë të gjitha sa vijon:
+1) që çdo fluturim i kryer nën kontrollin e tij operacional të regjistrohet në sistemin e regjistrit teknik të avionit ose helikopterit;
+2) se nuk janë bërë ndryshime në sistemet e avionit ose helikopterit ose në konfigurimin e tij;
+3) që çdo defekt ose mosfunksionim teknik që ndodh gjatë kohës që avioni ose helikopteri është nën kontrollin e tij operacional i raportohet organizatës së përmendur në shkronjën “d”;
+4) që mbajtësi i AOC-së të marrë një kopje të çdo raporti të ngjarjeve në lidhje me fluturimet e kryera me avion ose helikopter, të përfunduar në përputhje me urdhrin e ministrit të Infrastrukturës dhe Energjisë nr. 89, datë 5.5.2022, “Për miratimin e rregullores për raportimin dhe ndjekjen e ngjarjeve në Aviacionin Civil në Republikën e Shqipërisë”, që përafron rregulloren e BE-së nr. 376/2014 dhe rregulloren zbatuese të Komisionit BE 2015/1018.
 NËNPJESA AOC.
 CERTIFIKIMI I OPERATORIT AJROR
-ORO.AOC.100 Aplikimi për një certifikatë operatori ajror
-a) Pa cenuar udhëzimin e ministrit nr. 17, datë 2.9.2010, “Mbi rregullat e zbatueshme të operimit në fushën e shërbimeve ajrore”, që përafron rregulloren EU nr. 1008/2008, para se të fillojnë operimet ajrore për transport tregtar, operatori do të aplikojë për të marrë një Certifikatë të Operatorit Ajror (AOC) të lëshuar nga AAC-ja.
-b) Operatori duhet të japë informacionin e mëposhtëm tek AAC-ja:
-1) emrin (e tij) zyrtar dhe emrin e biznesit, adresën dhe adresën postare të aplikantit;
-2) një përshkrim të operimit që propozohet, ku përfshihen tipi/at, dhe numrin e
-3) avionit që do të operojë;
-4) një përshkrim të sistemit të menaxhimit, përfshirë strukturën organizative;
-5) emrin e drejtorit të përgjithshëm;
-6) emrat e personave të emëruar sipas kërkesave të ORO.AOC.135 (A) së bashku me kualifikimet dhe eksperiencën e tyre;
-7) një kopje të manualit të operimeve sipas kërkesave të ORO.MLR.100;
-8) një vërtetim, ku të tregohet që të gjitha dokumentet e dërguara tek AAC-ja janë verifikuar nga aplikanti dhe janë në përputhje me kërkesat e aplikuara.
-c) Aplikantët duhet t’i tregojnë Autoritetit të Aviacionit Civil, që:
-1) ata janë në përputhshmëri me të gjitha kërkesat e shtojcës V të vendimit të Këshillit të Ministrave nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, e këtij aneksi (Pjesa-ORO), aneksit IV (Pjesa-CAT) dhe aneksit V (Pjesa-SPA) të kësaj rregulloreje dhe aneksit I (Pjesa 26) të rregullores “Për përcaktimet shtesë të vlefshmërisë ajrore sipas llojit të operimeve” transpozim i rregullores (BE) 2015/640 “Për përcaktimet shtesë të vlefshmërisë ajrore sipas llojit të operimeve”.
-2) të gjithë avionët që operojnë kanë një certifikatë të vlefshmërisë ajrore (CofA), në përputhje me urdhrin e ministrit përgjegjës për transportin nr. 326, datë 29.8.2019, “Për miratimin e rregullores për përcaktimin e rregullave zbatuese të vlefshmërisë ajrore dhe të certifikimit mjedisor të mjeteve fluturuese dhe të produkteve që kanë lidhje me to, pjesëve dhe pajisjeve, si dhe për certifikimin e organizatave të projektimit dhe prodhimit”, që përafron rregulloren EU nr. 748/2012 ose janë marrë me qira të thatë, në përputhje me ORO.AOC.110 (d); dhe
-3) organizimi dhe menaxhimi janë të përshtatshme dhe përputhen siç duhet me shkallën dhe fushëveprimin e operimit.
+ORO.AOC.100 Aplikimi për një certifikatë operatori ajror (AOC)
+a) Pa cenuar VKM-në nr. 802, datë 28.12.2023, “Për miratimin e kërkesave për dhënien e licencës së operimit për ofrimin e shërbimeve ajrore, procedurat, kriteret dhe kushtet për refuzimin, pezullimin apo revokimin e licencës së operimit”, që përafron rregulloren BE nr. 1008/2008, përpara fillimit të operimeve CAT me avionë ose helikopterë ose operimeve IAM me VCA, operatori duhet të aplikojë dhe të marrë një AOC të lëshuar nga AAC-ja.
+b) Operatori duhet t’i japë AAC-së informacionin e mëposhtëm:
+1) emrin zyrtar dhe emrin e biznesit, adresën dhe adresën postare të aplikantit;
+2) një përshkrim të operimit që propozohet, duke përfshirë tipin/at dhe numrin e avionit që do të operojë;
+3) një përshkrim të sistemit të menaxhimit, duke përfshirë strukturën organizative;
+4) emrin e menaxherit përgjegjës;
+5) emrat e personave të emëruar siç kërkohet në pikën ORO.AOC.135(a), së bashku me kualifikimet dhe eksperiencën e tyre;
+6) një kopje të manualit të operimeve sipas kërkesave në pikën ORO.MLR.100;
+7) një deklaratë se i gjithë dokumentacioni i dorëzuar pranë AAC-së është verifikuar nga aplikanti dhe është konstatuar se është në përputhje me kërkesat e aplikueshme.
+c) Aplikantët duhet t’i tregojnë Autoritetit të Aviacionit Civil, se:
+1) operimet CAT me avionë dhe helikopterë janë në përputhje me kërkesat thelbësore të aneksit V të vendimit të Këshillit të Ministrave nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, i ndryshuar, këtij aneksi (pjesa-ORO), aneksit IV (pjesa-CAT) dhe aneksit V (pjesa-SPA) të kësaj rregulloreje, dhe aneksit I (pjesa-26) të urdhrit të ministrit nr. 61, datë 18.3.2024, “Për miratimin e rregullores ’Për specifikimet shtesë të vlefshmërisë ajrore për një tip të caktuar të operimeve’”;
+1a) për operimet e IAM me VCA, ato përputhen me kërkesat thelbësore të aneksit V të vendimit të Këshillit të Ministrave nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, i ndryshuar këtij aneksi III (pjesa-ORO), aneksit V (pjesa-SPA) dhe aneksit IX (pjesa-IAM) të kësaj rregulloreje, dhe me aneksin I (pjesa-26) të urdhrit të ministrit nr. 61, datë 18.3.2024, “Për miratimin e rregullores ’Për specifikimet shtesë të vlefshmërisë ajrore për një tip të caktuar të operimeve’”;
+2) të gjithë avionët që operojnë kanë një certifikatë të vlefshmërisë ajrore (CofA) në përputhje me urdhrin e ministrit nr. 57, datë 13.3.2024, “Për miratimin e rregullores ’Për përcaktimin e rregullave zbatuese të vlefshmërisë ajrore dhe të certifikimit mjedisor të mjeteve fluturuese dhe të produkteve që kanë lidhje me to, pjesëve dhe pajisjeve, si dhe certifikimin e organizatave të projektimit dhe prodhimit” ose janë marrë me qira të thatë në përputhje me pikën ORO.AOC.110(d); dhe
+3) organizimi dhe menaxhimi i tyre është i përshtatshëm dhe përputhet siç duhet me shkallën dhe fushëveprimin e operimit të synuar.
 ORO.AOC.105 Specifikimet e operimeve dhe privilegjet e mbajtjes së një AOC-je
 Privilegjet e operatorit, duke përfshirë edhe ato të garantuara në marrëveshje me shtojcën V (pjesa SPA), do të detajohen në specifikimet e certifikatës së operimeve.
 ORO.AOC.110 Marrëveshja e qirasë
@@ -1169,16 +1241,16 @@ i) kryerjen e ekzaminimit të kërkuar nga CC.TRA.220;
 ii) lëshimin e dëshmive të ekuipazhit të kabinës; dhe
 iii) t’i paraqesë Autoritetit të Aviacionit Civil të gjitha informacionet përkatëse dhe dokumentacionin që lidhet me dëshmitë që do të lëshojë dhe zotëruesit e tyre, për qëllimin e regjistrave, mbikëqyrjen dhe zbatimin e veprimeve nga ana e këtij autoriteti.
 b) Miratimet e përmendura në pikat (a) dhe (b) do të detajohen në specifikimet e operimeve.
-ORO.AOC.125 Operimet jotregtare të një mbajtësi AOC-je me avionë të listuar në AOC-në e tij
-a) Mbajtësi i një AOC-je mund të kryejë operime jotregtare në përputhje me aneksin VI (Pjesa-NCC) ose aneksin VII (Pjesa-NCO) me avionë të shënuar në listë në specifikimet e operimeve të AOC-së ose në manualin e tij të operimit, me kusht që mbajtësi i AOC-së të bëj një përshkrim të detajuar të këtyre operimeve në manualin e operimeve, përfshirë këtu:
-1) identifikimin e kritereve të zbatueshme;
-2) një përshkrim të të gjitha ndryshimeve ndërmjet procedurave të operimit që përdoren gjatë kryerjes së operimeve CAT dhe operimeve jotregtare;
-3) mjetet që do të mundësojnë që i gjithë personeli i përfshirë në operime të ketë plotësisht njohuri mbi procedurat e lidhura.
-b) Mbajtësi i njëAOC-je respekton kriteret e:
-1) aneksit VIII (Pjesa-SPO) për kryerjen e fluturimeve për kontrollin e mirëmbajtjes me avionë kompleks me motorë;
-2) aneksit VII (Pjesa-NCO)për kryerjen e fluturimeve për kontrollin e mirëmbajtjes me avionë të ndryshëm nga ata kompleks me motorë.
-c) Mbajtësit të një AOC-je që kryen operime të cilat janë përmendur në pikat (a) dhe (b) nuk do t’i kërkohet të paraqesë ndonjë deklaratë në përputhje me këtë aneks.
-d) Mbajtësi i AOC-së specifikon llojin e fluturimit, siç është listuar në manualin e operacioneve dhe dokumentet që lidhen me fluturimin (plani operacional i fluturimit, fletët e ngarkesave dhe dokumente të tjera të vlefshme).
+ORO.AOC.125 Operimet jotregtare të një mbajtësi AOC me avionë ose helikopterë të listuar në AOC-në e tij
+a) Mbajtësi i AOC-je mund të kryejë operime jotregtare në përputhje me aneksin VI (pjesa-NCC) ose aneksin VII (pjesa-NCO) me avionë ose helikopterë të listuar në specifikimet e operimeve të AOC-së ose në manualin e tij të operimit, me kusht që mbajtësi i AOC-së të bëjë një përshkrim të detajuar të këtyre operimeve në detaje në manualin e operimeve, duke përfshirë këtu:
+1) identifikimin e kërkesave të aplikueshme;
+2) një përshkrim të çdo ndryshimi midis procedurave të operimit që përdoren gjatë kryerjes së operimeve CAT dhe operimeve jotregtare;
+3) mjetet që do të mundësojnë që i gjithë personeli i përfshirë në operime të ketë plotësisht njohuri mbi procedurat përkatëse.
+b) Mbajtësi i një AOC-je respekton kriteret e:
+1) Aneksit VIII (pjesa-SPO) për kryerjen e fluturimeve për kontrollin e mirëmbajtjes me avionë kompleks me motorë;
+2) Aneksit VII (pjesa-NCO) për kryerjen e fluturimeve për kontrollin e mirëmbajtjes me avionë të ndryshëm nga ato komplekse me motorë.
+c) Mbajtësit të një AOC-je që kryen operime të cilat janë përmendur në shkronjat “a” dhe “b” nuk do t’i kërkohet të paraqesë një deklaratë në përputhje me këtë aneks.
+d) Mbajtësi i AOC-së specifikon llojin e fluturimit, siç është listuar në manualin e tij të operimit, në dokumentet që lidhen me fluturimin (plani operacional i fluturimit, fletët e ngarkesave dhe dokumente të tjera të vlefshme).
 ORO.AOC.130 Monitorimi i të dhënave të fluturimit - aeroplanët
 a) Operatori duhet të krijojë dhe të mbajë një program monitorimi të të dhënave të fluturimit, i cili duhet të integrohet në sistemin e tij të menaxhimit, për aeroplanët me një masë maksimale të lëshimit të certifikuar prej më shumë se 27 000 kg.
 b) Programi i monitorimit të të dhënave të fluturimit duhet të jetë jondëshkues dhe të përmbajë mbrojtje adekuate për të mbrojtur burimin/et e të dhënave.
@@ -1257,7 +1329,7 @@ NËNPJESA MLR.
 MANUALET, DOKUMENTET DHE TË DHËNAT
 ORO.MLR.100 Manualet e operimit. Të përgjithshme
 a) Një operator do të krijojë një Manual të Operimeve (OM) siç specifikohet në pikën 8.2 të shtojcës V, të VKM-së nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil” dhe rregullat zbatuese të tij.
-b) Përmbajtja e OM-së duhet të reflektojë kërkesat e vendosura në këtë aneks, aneksi IV (Part- CAT), aneksi V (Part-SPA), aneksi VI (Part-NCC) dhe aneksi VIII (nënpjesa SPO), kur është e aplikueshme dhe nuk mund të shkelë (veprojë kundër) kushtet që ekzistojnë në specifikimet e operimeve të certifikatës së operimeve ajrore (AOC), autorizimin e SPO-së ose deklaratën dhe listën e aprovimeve specifike, sipas rastit.
+b) Përmbajtja e OM-së duhet të pasqyrojë kërkesat e përcaktuara në këtë aneks, në aneksin IV (pjesa-CAT), aneksin V (pjesa-SPA), aneksin VI (pjesa-NCC), aneksin VIII (pjesa-SPO) dhe aneksin IX (Pjesa-IAM), sipas rastit, dhe nuk bie ndesh me kushtet që ekzistojnë në specifikimet e operimeve të certifikatës së operatorit ajror (AOC), autorizimin e SPO-së ose deklaratën dhe listën e miratimet specifike, sipas rastit.
 c) OM-ja mund të lëshohet në pjesë të veçanta.
 d) I gjithë personeli i operimit duhet të ketë akses të lehtë në pjesët të OM-së që kanë lidhje me detyrat e tyre.
 e) OM-të do të mbahen të përditësuara. I gjithë personeli duhet të vihet në dijeni për ndryshimet që kanë lidhje me detyrat e tyre.
@@ -1270,12 +1342,12 @@ h) Pavarësisht pikave (g) edhe (g1), kur ndryshimet e menjëhershme apo rishiki
 i) Operatori duhet të përfshijë të gjitha ndryshimet dhe revizionimet e kërkuara nga AAC-ja.
 j) Operatori duhet të sigurojë se informacioni i marrë nga dokumentet e miratuara, si dhe çdo ndryshim të pasqyrohet saktë në OM. Kjo nuk e ndalon operatorin të publikojë në OM të dhëna dhe procedurat mbrojtëse.
 k) Operatori duhet të sigurojë që i gjithë personeli është në gjendje të kuptojë gjuhën në të cilën janë shkruar ato pjesë të OM-së, që u përkasin detyrave dhe përgjegjësive të tij/saj. Përmbajtja e OM-së duhet të paraqitet në një formë që mund të përdoret pa vështirësi dhe të respektojë parimet e faktorëve njerëzorë.
-ORO.MLR.101 Manuali i operimeve - struktura
-Përveç operimeve me aeroplanë me helikë me motor të vetëm me një MOPSC, prej 5 ose më pak ose helikopterësh jo të ndërlikuar me një motor sipas MOPSC, prej 5 ose më pak ngritje dhe ulje në të njëjtin aerodrom ose në vendin e operimit, sipas VFR-së ditën, struktura kryesore e OM-së do të jetë si më poshtë:
-a) Pjesa A: Të përgjithshme/bazat; e përbërë nga politikat, instruksionet dhe procedurat operuese për të gjithë tipat e avionëve;
-b) Pjesa B: Çështjet operuese të Avionit; i përbërë nga procedurat dhe instruksionet që lidhen me tipat e avionit, duke marrë në konsideratë dallimet në mes tipave/kategorive, varianteve apo avionëve individualë të përdorur nga operatori;
-c) Pjesa C: Operime të transportit ajror tregtar; e përbërë nga instruksione dhe informacione për itineraret/rolet/hapësirat/aerodromet/bazat operuese;
-d) Pjesa D: Trajnimi; e përbërë nga të gjitha udhëzimet për trajnimin e personelit të kërkuar për një operim të sigurte.
+ORO.MLR.101 Manuali i operimeve- struktura për operimet CAT dhe IAM
+Me përjashtim të operimeve me aeroplanë me helikë me një motor me një MOPSC prej 5 ose më pak ose me helikopterë me një motor jokompleks me një MOPSC prej 5 ose më pak, që ngrihen dhe ulen në të njëjtin aerodrom ose vend operimi, nën VFR gjatë ditës, struktura kryesore e manualit të operimeve (OM) do të jetë si më poshtë:
+a) Pjesa A: Të përgjithshme/bazat që përfshin të gjitha politikat, instruksionet dhe procedurat operative që nuk kanë lidhje me tipin;
+b) Pjesa B: Çështjet e operimit të avionit, që përfshijnë të gjitha instruksionet dhe procedurat që lidhen me tipin, duke marrë parasysh dallimet ndërmjet tipave/klasave, varianteve ose avionëve individualë të përdorur nga operatori;
+c) Pjesa C: Operime CAT me aeroplanë dhe helikopterë, që përfshin instruksionet dhe informacionin e itinerarit/rolit/zonës dhe aerodromit/vendit operativ ose, operimet e IAM me VCA, që përfshin itinerarin/rolin/zonën dhe vertiportin/ vendndodhjen e devijimit / instruksionet dhe informacionin e vendndodhjes së operimit;
+d) Pjesa D: Trajnimi, që përfshin të gjitha instruksionet e trajnimit për personelin e nevojshëm për të siguruar operime të sigurta.
 ORO.MLR.105 Lista minimale e pajisjeve
 a) Një listë minimale e pajisjeve (MEL) duhet të vendoset siç është specifikuar në pikën 5.c) të nenit 30 të seksionit III, i VKM-së nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil” bazuar në listën master të pajisjeve minimale përkatëse (MMEL), siç përcaktohet në të dhënat e caktuara, në përputhje me urdhrin e ministrit përgjegjës për transportin nr. 326, datë 29.8.2019, “Për miratimin e rregullores për përcaktimin e rregullave zbatuese të vlefshmërisë ajrore dhe të certifikimit mjedisor të mjeteve fluturuese dhe të produkteve që kanë lidhje me to, pjesëve dhe pajisjeve, si dhe për certifikimin e organizatave të projektimit dhe prodhimit”, që përafron rregulloren EU nr. 748/2012.
 Nëse një MMEL nuk është e vendosur si pjesë e të dhënave të përshtatshmërisë operuese, MEL-i mund të bazohet në MMEL-in përkatës të pranuar nga shteti i operatorit ose i regjistrit, sipas rastit.
@@ -1311,10 +1383,10 @@ j) Si subjekt i një miratimi të veçantë individual nga organi kompetent, ope
 ORO.MLR.110 Regjistri ditor i udhëtimit
 Për çdo fluturim apo seri fluturimesh, duhet të mbahen raportet e avionit, të ekuipazhit të tij dhe të çdo udhëtimi në formën e një regjistri udhëtimi ose një dokument ekuivalent.
 ORO.MLR.115 Mbajtja e të dhënave
-a) Rekordet e mëposhtme duhet të ruhen të paktën për 5 vjet.
-1) për operatorët CAT, rekordet e aktivitetit referohen në ORO.GEN.200;
-2) për operatorët e deklaruar, një kopje e deklaratës së operatorit, detajet që mban aprovimi dhe manuali i operimeve;
-3) për mbajtësin e autorizimit SPO, në shtesë të (a)(2), rekordet e bazuara në vlerësimin e riskut kryhen në përputhje me SPO.OP. 230, bazuar në procedurat standarde të operimit.
+a) Të dhënat e mëposhtme duhet të ruhen për të paktën 5 vjet:
+1) për operatorët CAT të avionëve dhe helikopterëve dhe operatorët IAM të VCA, të dhënat e aktiviteteve të përmendura në pikën ORO.GEN.200;
+2) për operatorët e deklaruar, një kopje të deklaratës së operatorit, detajet e miratimeve të mbajtura dhe manuali i operimit;
+3) për mbajtësit e autorizimit të SPO-së, përveç shkronjës (a)(2), të dhënat në lidhje me vlerësimin e rrezikut të kryer në përputhje me pikën SPO.OP.230 dhe procedurat standarde të funksionimit përkatës.
 b) Informacioni i mëposhtëm, i cili përdoret për përgatitjen dhe realizimin e një fluturimi, si dhe raportet shoqëruese, do të ruhen për tre muaj:
 1) plani operues i fluturimit, nëse aplikohet;
 2) njoftimet specifike për aviatorët (NOTAM) dhe dokumentacioni udhëzues nga shërbimet e informacionit aeronautik (AIS), në qoftë se redaktohen nga operatori;
@@ -1353,12 +1425,13 @@ Nëse është instaluar, dera e kabinës së ekuipazhit të fluturimit në një 
 NËNPJESA FC.
 EKUIPAZHI I FLUTURIMIT
 ORO.FC.005 Qëllimi
-Kjo nënpjesë vendos kërkesat që duhet të arrihen nga operatori bazuar në trajnimin e ekuipazhit të fluturimit, eksperiencës dhe kualifikimit, dhe përbërjes (së tyre):
-a) Seksioni 1 specifikon kërkesat e përbashkëta të aplikueshme për të dyja operimet jotregtare me avion kompleks, me fuqi motorike dhe çdo operim tregtar.
-b) Seksioni 2 që specifikon kërkesat shtesë të zbatueshme për operimet e transportit ajror tregtar, me përjashtim të operacioneve tregtare të transportit ajror të udhëtarëve të kryer nën VFR për ditë, duke filluar dhe duke mbaruar në të njëjtin aerodrom ose vend operimi dhe brenda një zone lokale të specifikuar nga AAC-ja, me:
-1) aeroplanë me një motor me helikë që kanë maksimumin e certifikuar të masës për ngritje prej 5 700 kg ose më pak dhe një MOPSC prej 5 pasagjerësh; ose
-2) helikopterë me një motor ndryshe nga ata kompleks me fuqi motorike, me një MOPSC prej 5 pasagjerësh.
-c) Seksioni 3 specifikon kërkesat shtesë për operime tregtare të specializuara dhe për ato të referuara te b(1) dhe (2).
+Kjo nënpjesë përcakton kërkesat për trajnimin, eksperiencën dhe kualifikimet e ekuipazhit të fluturimit që duhet të përmbushë një operator ajror dhe përfshin:
+a) SEKSIONI 1, specifikon kërkesat e përbashkëta.
+b) SEKSIONI 2, specifikon kërkesat shtesë të zbatueshme për operimet CAT me aeroplanë dhe helikopterë, me përjashtim të operimeve CAT me pasagjerë të kryera nën VFR gjatë ditës, duke filluar dhe mbaruar në të njëjtin aerodrom ose vend operimi dhe brenda një zone lokale të përcaktuar nga AAC-ja, me:
+1) aeroplanë me një motor me helikë që kanë maksimumin e certifikuar të masës për ngritje prej 5 700 kg ose më pak dhe një MOPSC prej 5 pasagjerësh ose më pak; ose
+2) helikopterë me një motor ndryshe nga ata kompleks me fuqi motorike, me një MOPSC prej 5 pasagjerësh ose më pak.
+c) SEKSIONI 3, specifikon kërkesat shtesë për operimet tregtare të specializuara dhe për ato operime të përmendura në shkronjën (b)(1) dhe (2).
+d) SEKSIONI 4, specifikon kërkesat shtesë për operimet e IAM me avionë të drejtuar me aftësi VTOL (VCA).
 Seksioni I.
 Kërkesat e përbashkëta
 ORO.FC.100 Përbërja e ekuipazhit të fluturimit
@@ -1374,24 +1447,24 @@ Nëse helikopteri operohet nga një ekuipazh prej dy pilotësh, secili pilot do 
 1) marrë një certifikatë për përfundimin me sukses të një kursi bashkëpunimi me shumë ekuipazhe (MCC) për helikopterë në përputhje me urdhrin e ministrit nr. 262, datë 28.6.2019, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil”, që përafron rregulloren e BE-së nr. 1178/2011; ose
 2) ketë të paktën 500 orë kohë fluturimi si pilot në operimet me shumë pilotë.
 ORO.FC.105 Emërimi si pilot në komandë/komandant
-a) Në përputhje me pikën 8.6 të shtojcës V të VKM-së nr. 1095, datë 24.12.2020 “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, që përafron rregulloren (BE) 2018/1139, një pilot nga ekuipazhi i fluturimit, do të emërohet si pilot në komandë në përputhje me shtojcën I (Pjesa-FCL) të urdhrit të ministrit nr. 262, datë 28.6.2019, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil”, që përafron rregulloren e BE-së nr. 1178/2011, i caktuar nga operatori si pilot në komandë/komandant, për operimet e transportit ajror tregtar.
-b) Operatori duhet të caktojë një anëtar të ekuipazhit të fluturimit për të vepruar si pilot në komandë/komandant nëse zbatohen të gjitha sa vijon::
-1) anëtari i ekuipazhit të fluturimit duhet të ketë nivelin minimal të përvojës së specifikuar në manualin e operimeve;
-2) anëtari i ekuipazhit të fluturimit duhet të ketë njohuri të mjaftueshme të rrugëkalimit ose të zonës që do fluturojë dhe të aerodromeve, përfshirë dhe aerodromet alternative, objektet dhe procedurat që do të përdoren;
-3) në rastin e operimeve me më shumë ekuipazhe, nëse anëtari i ekuipazhit të fluturimit ka përfunduar kursin e komandës së një operatori, ngrihet në detyrë dhe nga një pilot i thjeshtë në pilot në komandë/komandant.
-c) Në rastin e operimeve tregtare të aeroplanëve dhe të helikopterëve, piloti në komandë ose piloti të cilit mund t’i delegohet drejtimi i fluturimit, duhet të ketë pasur trajnim fillestar në lundrim për familjarizimin e rrugëkalimit ose të zonës së fluturimit, aerodromeve, fasiliteteve dhe procedurave që do të përdoren dhe do të ruajë njohuritë si më poshtë:
-1) Vlefshmëria e njohurive për aerodromin duhet të ruhet mbas kryerjes së operimeve të paktën një herë në aerodrom brenda një periudhe 12 mujore kalendarike.
-2) Njohuritë për rrugën ose zonën duhet të ruhen mbasi operimi të jetë kryer të paktën një herë në rrugë ose zonë brenda një periudhe 36 mujore. Për më tepër, kërkohet trajnim i ri nëse nuk kryhet një operim në një rrugë ose zonë për 12 muaj brenda periudhës 36-mujore në lidhje me njohjen e rrugës ose zonës.
-d) Pavarësisht pikës (c), në rastin e operimeve VFR të bëra gjatë ditës me aeroplanë dhe helikopterë të kategorisë të performancës B dhe C, trajnimi i familjarizimit për njohjen e rrugës dhe në aerodrome zëvendësohet nga trajnimi për njohjen e zonës.
+a) Në përputhje me pikën 8.6 të aneksit V të VKM-së nr. 1095, datë 24.12.2020, “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, i ndryshuar që përafron rregulloren (BE) 2018/1139, një pilot nga ekuipazhi i fluturimit, i kualifikuar si pilot në komandë në përputhje me aneksin I (pjesa-FCL) të urdhrit të ministrit nr. 178, datë 20.12.2023, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil”, i ndryshuar do të emërohet nga operatori si pilot në komandë ose, për operimet CAT me aeroplanë dhe helikopterë, si komandant.
+b) Operatori duhet të caktojë një anëtar të ekuipazhit të fluturimit për të vepruar si pilot në komandë ose komandant nëse zbatohen të gjitha sa vijon:
+1) anëtari i ekuipazhit të fluturimit ka nivelin minimal të përvojës të specifikuar në manualin e operimeve;
+2) anëtari i ekuipazhit të fluturimit ka njohuri të mjaftueshme për itinerarin ose zonën që do të fluturohet dhe për aerodromet, duke përfshirë aerodromet alternative, pikat vertikale, pajisjet dhe procedurat që do të përdoren;
+3) për operimet me shumë ekuipazhe, anëtari i ekuipazhit të fluturimit ka përfunduar kursin e komandës së një operatori nëse ngrihet në detyrë nga një bashkëpilot në pilot në komandë/komandant.
+c) Si për operimet tregtare me aeroplanë dhe helikopterë, ashtu edhe për operimet e IAM me VCA-në, piloti ose komandanti ose piloti të cilit mund t’i delegohet kryerja e fluturimit duhet të ketë marrë trajnim fillestar në lundrim për familjarizimin e rrugëkalimit ose zonës së fluturimit, aerodromeve, vertiporteve, vendeve të devijimit, objekteve dhe procedurave që do të përdoren, dhe duhet të ruajë njohuritë si më poshtë:
+1) njohuritë për aerodromin ose vertiportin duhet të ruhen duke operuar të paktën një herë në një aerodrom ose në një vertiport brenda një periudhe 12-mujore kalendarike;
+2) njohuritë për rrugën ose zonën ose vendndodhjen e devijimit duhet të ruhen duke operuar të paktën një herë në një itinerar ose një zonë ose në një vendndodhje devijimi brenda një periudhe 36-mujore kalendarike; përveç kësaj, kërkohet trajnim rifreskues në lidhje me njohuritë e rrugës ose zonës nëse nuk kryhet një operim në një rrugë ose një zonë për 12 muaj brenda periudhës 36-mujore kalendarike.
+d) Pavarësisht shkronjës “c”, për operimet e kryera nën VFR gjatë ditës me aeroplanë dhe helikopterë të kategorisë të performancës B dhe C, trajnimi i familjarizimit për njohjen e rrugës dhe në aerodrome mund të zëvendësohet nga trajnimi për njohjen e zonës.
 ORO.FC.110 Inxhinier fluturimi
 Kur në avion është instaluar një vend i veçantë për inxhinierin e fluturimit, në ekuipazhin e fluturimit duhet të përfshihet një anëtar i cili të jetë i kualifikuar, sipas rregullave të zbatueshme kombëtare.
 ORO.FC.115 Trajnimi i menaxhimit të burimeve të ekuipazhit (CRM)
 a) Para operimit, anëtari i ekuipazhit të fluturimit duhet të ketë kryer një trajnim CRM, të përshtatshëm për rolin e tij/saj, siç është specifikuar në manualin e operimeve.
 b) Elementet e trajnimit CRM do të përfshihen në tipin e avionit ose trajnimin e klasit dhe trajnimit periodik, si dhe në kurset e komandës.
 ORO.FC.120 Trajnimet e konvertimit të operatorit
-a) Në rastin e operimeve me aeroplan apo helikopter, anëtari i ekuipazhit të fluturimit do të përfundojë kursin e trajnimit për konvertimin nga operatori para se të fillojë një fluturim linje pa mbikëqyrje:
-1) kur kalon në një avion për të cilin kërkohet një vlerësim i ri i tipit dhe i klasit;
-2) kur punësohet nga një operator.
+a) Anëtari i ekuipazhit të fluturimit duhet të përfundojë kursin e trajnimit për konvertimin nga operatori para se të fillojë një fluturim linje pa mbikëqyrje:
+1) kur kalon në një avion për të cilin kërkohet një vlerësim i ri i tipit ose i klasit;
+2) sa herë që anëtari i ekuipazhit të fluturimit i bashkohet një operatori.
 b) kursi i trajnimit për konvertimin e operatorit do të përfshijë trajnime mbi pajisjet e instaluara në avion, të cilat lidhen me rolet e anëtarëve të ekuipazhit të fluturimit.
 ORO.FC.125 Trajnimet e diferencave, të familjarizimit si dhe trajnimi mbi pajisjet dhe procedurat
 a) Anëtarët e ekuipazhit të fluturimit duhet të përfundojnë trajnimet e diferencave ose të familjarizimeve, kur kërkohet nga aneksi I (Part-FCL) i urdhrit të ministrit nr. 262, datë 28.6.2019, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil”, që përafron rregulloren e BE-së nr. 1178/2011 dhe për ndryshimet e pajisjeve apo të procedurave që kërkojnë njohuri shtesë në krahasim me tipat apo variantet që operohen aktualisht.
@@ -1408,12 +1481,12 @@ b) Operatori mund të përcaktojë grupet e tipave të helikopterëve me një mo
 1) grupi ose përfshin vetëm helikopterë me një motor të vetëm me turbinë që operojnë në VFR ose përfshin helikopterë me një motor me piston që operojnë në VFR;
 2) për operimet CAT, duhet të kryhen të paktën dy kontrolle të aftësive të operatorit për çdo lloj brenda një cikli 3-vjeçar.
 c) Për operimet e specializuara, elementët e trajnimit për avionët/FSTD dhe kontrolli i aftësive të operatorit që mbulojnë aspektet përkatëse të lidhura me detyrat e specializuara dhe që nuk lidhen me tipin ose grupin e tipave, do i kreditohen grupeve ose tipave të tjerë, bazuar nga një vlerësim rreziku që kryhet nga operatori.
-d) Për operimet më shumë se një tip ose variant helikopteri që përdoren për kryerjen e operimeve mjaft të ngjashme, nëse kontrollet e linjës kombinohen midis tipave ose varianteve, çdo kontroll linje do të rivlerësojë kontrollin e linjës për llojet ose variantet e tjera të helikopterit.
+d) Për operimet me më shumë se një tip ose variant helikopteri ose tip ose variant VCA të përdorur për kryerjen e operimeve mjaft të ngjashme, nëse kontrollet e linjës kombinohen midis tipave ose varianteve, çdo kontroll linje do të rivlerësojë kontrollin e linjës për llojet ose variantet e tjera të helikopterit ose llojet apo variantet e VCA-së.
 e) Procedurat e përshtatshme dhe çdo kufizim operativ do të specifikohet në manualin e operimeve për çdo operim për një ose shumë lloje ose variante.
 ORO.FC.145 Sigurimi i trajnimit, kontrollit dhe vlerësimit
 a) I gjithë trajnimi, kontrolli dhe vlerësimi i kërkuar në këtë nënpjesë duhet të kryhet në përputhje me programet e trajnimit dhe planprogramet e përcaktuara nga operatori në manualin e operimeve;
 2) Kur përcakton vendos programet dhe planet e trajnimit, operatori do të përfshijë elementet përkatëse të përcaktuara në pjesën e detyrueshme të të dhënave të përshtatshmërisë operacionale të përcaktuara në përputhje me urdhrin e ministrit nr. 326, datë 29.8.2019 “Për miratimin e rregullores ’Për përcaktimin e rregullave zbatuese të vlefshmërisë ajrore dhe të certifikimit mjedisor të mjeteve fluturuese dhe të produkteve që kanë lidhje me to, pjesëve dhe pajisjeve, si dhe për certifikimin e organizatave të projektimit dhe prodhimit’”, që transpozon rregulloren e BE-së nr. 748/2012.
-c) Në rastin e operimeve CAT, programet, trajnimet dhe programet e kontrollit, që përfshijnë planet dhe përdorimin e mjeteve për të ofruar programin, si pajisjet individuale të trajnimit për simulimin e fluturimit (FSTD) dhe zgjidhje të tjera për trajnime, do të miratohen nga AAC-ja.
+c) Si për operimet CAT me aeroplanë dhe helikopterë, ashtu edhe për operimet IAM me VCA, programet e trajnimit dhe kontrollit, duke përfshirë planprogramet dhe mjetet për të ofruar programin, si pajisjet individuale të trajnimit të simulimit të fluturimit (FSTD) zgjidhje të tjera për trajnime, do të miratohen nga AAC-ja.
 d) FSTD-ja e përdorur që përmbush kërkesat e kësaj nënpjese do të kualifikohet në përputhje me urdhrin e ministrit nr. 262, datë 28.6.2019, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil”, që përafron rregulloren e BE-së nr. 1178/2011 dhe do të imitoj avionin e përdorur nga operatori, për aq sa është e mundur. Dallimet ndërmjet FSTD-së dhe avionit do të përshkruhen dhe trajtohen nëpërmjet një informimi ose trajnimi, sipas rastit.
 e) Operatori duhet të krijojë një sistem në mënyrë që të përshtatë dhe të monitorojë ndryshimet në FSTD dhe për të siguruar se këto ndryshime nuk ndikojnë në përshtatshmërinë e programeve të trajnimit.
 f) Operatori do të monitorojë vlefshmërinë e çdo trajnimi dhe kontrolli periodik.
@@ -1426,10 +1499,11 @@ c) Për një program EBT, personeli që kryen vlerësimin dhe siguron trajnimin,
 2) ketë kryer programin e standardizimit të instruktorit EBT të operatorit. Kjo duhet të përfshijë një program fillestar të standardizimit dhe një program periodik të standardizimit.
 Kryerja e standardizimit fillestar të operatorit EBT do ta kualifikojë instruktorin për të kryer vlerësimin praktik të EBT.
 d) Pavarësisht pikës (b), vlerësimi i kompetencës së linjës mund të kryhet nga një komandant i kualifikuar siç duhet, i emëruar nga operatori përkatës që është i standardizuar me konceptet EBT dhe me vlerësimin e kompetencave (vlerësuesi i linjës).
-e) Pavarësisht pikës (b), trajnimi për avionët/FSTD dhe kontrolli i aftësisë së operatorit mund të kryhet nga një komandant i kualifikuar siç duhet, që ka një certifikatë FI/TRI/SFI dhe i emëruar nga operatori për cilindo nga operimet e mëposhtme:
-1) operimet CAT për helikopterët që plotësojnë kriteret e përcaktuara në pikën ORO.FC.005(b)(2);
-2) operimet CAT për helikopterët të ndryshëm me motorë kompleksë që përdoren gjatë ditës dhe përgjatë rrugëve të përshkuara që i referohen pikave vizuale;
-3) operimet CAT për aeroplanë të kategorisë së performancës B që nuk plotësojnë kriteret e përcaktuara në pikën ORO.FC.005(b)(1).
+e) Pavarësisht shkronjës “b”, trajnimi i avionit/FSTD dhe kontrolli i aftësisë së operatorit mund të kryhen nga një komandant i kualifikuar ose pilot në komandë për operimet e IAM, që ka një certifikatë FI/TRI/SFI dhe është emëruar nga operatori për cilindo nga operimet e mëposhtme:
+1) Operimet CAT me helikopterë që plotësojnë kriteret e përcaktuara në pikën ORO.FC.005(b)(2);
+2) Operimet CAT për helikopterët të ndryshëm me motorë kompleksë që përdoren gjatë ditës dhe përgjatë rrugëve të përshkuara që i referohen pikave vizuale;
+3) Operimet CAT me aeroplanë të kategorisë së performancës B që nuk plotësojnë kriteret e përcaktuara në pikën ORO.FC.005(b)(1);
+4) Operimet e IAM me VCA-në gjatë ditës dhe përgjatë rrugëve të përshkuara duke iu referuar pikave vizuale.
 f) Pavarësisht pikës (b), trajnimi për avionin/FSTD dhe demonstrimi i kompetencës/kontrollit të aftësisë së operatorit mund të kryhet nga një pilot komandues/komandant i kualifikuar siç duhet, i emëruar nga operatori për cilindo nga operimet e mëposhtme:
 1) operime të specializuara;
 2) operimet CAT për aeroplanët duhet të plotësojnë kriteret e përcaktuara në pikën ORO.FC.005(b)(1).
@@ -1451,7 +1525,9 @@ a) Komandanti mund t’i delegojë kryerjen e fluturimit:
 2) vetëm për operimet mbi lartësinë e fluturimit 20 000ft, një piloti i cili përputhet me kualifikimet minimale të mëposhtme:
 i) ATPL;
 ii) trajnimi i konvertimit dhe kontrolli, duke përfshirë trajnimin e kategorizimit të tipit, në përputhje me ORO.FC.220;
-iii) gjithë trajnimin dhe kontrollin periodik, në përputhje me ORO.FC.230 dhe ORO.FC.240;
+iii) trajnime dhe kontrolle të përsëritura në përputhje me pikën ORO.FC.230, në varësi të kushteve të mëposhtme:
+A) kontrolli nuk përfshin manovrat e ngritjes;
+B) kontrolli do të përfshijë manovra uljeje të paktën në rolin e monitorimit pilot;
 iv) kompetencën në rrugët/zonat dhe aerodromet, në përputhje me ORO.FC.105.
 b) piloti i dytë mund të asistohet nga:
 1) një tjetër pilot i kualifikuar siç duhet;
@@ -1672,6 +1748,42 @@ ORO.FC.330 Trajnimi dhe kontrolli periodik- kontrolli i aftësive të operatorit
 a) Çdo anëtar i ekuipazhit të fluturimit duhet të kryejë trajnime periodike dhe kontrolle të aftësive të operatorit. Në rastin e operimeve të specializuara, trajnimi dhe kontrolli periodik mbulon aspektet përkatëse që lidhen me detyrat e specializuara të përshkruara në manualin e operimeve.
 b) Duhet t’iu jepet rëndësi e veçantë operimeve që ndërmerren sipas IFR ose gjatë natës.
 c) Periudha e vlefshmërisë së kontrollit të aftësive të operatorit është 12 muaj kalendarikë.
+SEKSIONI 4
+KËRKESA SHTESË PËR OPERIMET IAM ME AVIONË ME PILOT ME AFTËSI PËR VTOL (VCA)
+ORO.FC.400 Përbërja e ekuipazhit të fluturimit
+Përbërja minimale e ekuipazhit të fluturimit për operimet IAM me avionë me pilot me aftësi për VTOL (VCA) do të korrespondojë me atë të specifikuar në manualin e operimeve, duke marrë parasysh numrin minimal të specifikuar në manualin e fluturimit ose në dokumente të tjera që lidhen me certifikatën vlefshmërisë ajrore (CofA) të avionit të caktuar.
+ORO.FC.415 Trajnimi fillestar i menaxhimit të burimeve të ekuipazhit të operatorit (CRM).
+a) Anëtari i ekuipazhit të fluturimit duhet të kryejë një kurs trajnimi fillestar CRM përpara se të fillojë fluturimin në linjë të pambikëqyrur.
+b) Kursi fillestar i trajnimit CRM do të kryhet nga të paktën një trajner i kualifikuar për CRM, i cili mund të asistohet nga ekspertë për të trajtuar fusha specifike të trajnimit.
+ORO.FC.420 Trajnimi dhe kontrolli i konvertimit të operatorit
+a) Trajnimi CRM do të integrohet në kursin e trajnimit për konvertimin e operatorëve.
+b) Pasi të fillojë një kurs trajnimi për konvertimin e operatorit IAM, anëtari i ekuipazhit të fluturimit nuk do të caktohet në detyra fluturimi në një lloj ose klasë tjetër avioni derisa kursi i trajnimit të përfundojë ose përmbyllur.
+c) Sasia e trajnimit të kërkuar nga anëtari i ekuipazhit të fluturimit për kursin e konvertimit të operatorit IAM do të përcaktohet në përputhje me standardet e kualifikimit dhe përvojës të specifikuara në manualin e operimeve, duke marrë parasysh trajnimin dhe përvojën e mëparshme të anëtarit të ekuipazhit të fluturimit.
+d) Anëtari i ekuipazhit të fluturimit duhet të kryejë:
+1) kontrollin e aftësisë së operatorit IAM dhe trajnimin dhe kontrollin e pajisjeve emergjente dhe të sigurisë në operim, përpara fillimit të fluturimit në linjë nën mbikëqyrje (LIFUS); dhe
+2) kontrollin e linjës pas përfundimit të LIFUS.
+e) Nëse rrethanat operacionale, të tilla si aplikimi për një AOC të re ose shtimi i një lloji ose klase të re avioni në flotë, nuk e lejojnë operatorin IAM të përmbushë kërkesat në shkronjën “d”, ai operator mund të zhvillojë një kurs specifik konvertimi për t’u përdorur përkohësisht për një numër të kufizuar anëtarësh të ekuipazhit të fluturimit.
+ORO.FC.430 Trajnimi dhe kontrolli periodik
+a) Secili anëtar i ekuipazhit të fluturimit duhet të kryejë trajnime dhe kontrolle të periodike në lidhje me llojin ose variantin e VCA-së në të cilën ata operojnë, dhe me pajisjet përkatëse.
+b) Kontrolli i aftësisë së operatorit IAM.
+1) Çdo anëtar i ekuipazhit të fluturimit duhet të kryejë kontrollet e aftësisë së operatorit IAM si pjesë e plotësimit normal të ekuipazhit për të demonstruar kompetencën e tij në zbatimin e procedurave normale, jonormale dhe emergjente, duke mbuluar aspektet përkatëse që lidhen me detyrat e përshkruara në manualin e operimit.
+2) Qëllimisht e lënë bosh.
+3) Periudha e vlefshmërisë së kontrollit të aftësisë së operatorit IAM do të jetë 6 muaj kalendarikë.
+c) Kontrolli i linjës
+Çdo anëtar i ekuipazhit të fluturimit duhet të kryejë një kontroll të linjës në VCA. Periudha e vlefshmërisë së kontrollit të linjës do të jetë 12 muaj kalendarikë.
+d) Trajnimi dhe kontrolli i pajisjeve emergjente dhe të sigurisë në operim
+Çdo anëtar i ekuipazhit të fluturimit duhet të kryejë trajnime dhe kontrolle periodike në lidhje me vendndodhjen dhe përdorimin e të gjitha pajisjeve të emergjencës dhe sigurisë në operim që mbahen në avion. Periudha e vlefshmërisë së një kontrolli të pajisjeve emergjente dhe të sigurisë në operim do të jetë 12 muaj kalendarikë.
+e) Trajnimi CRM
+1) Elementet e trajnimit CRM do të integrohen në të gjitha fazat e duhura të trajnimit periodik.
+2) Çdo anëtar i ekuipazhit të fluturimit do të marrë trajnim specifik modular CRM. Të gjitha temat kryesore të trajnimit CRM do të mbulohen duke shpërndarë sesione trajnimi modulare në mënyrë sa më të barabartë gjatë çdo periudhe 3-vjeçare.
+f) Çdo anëtar i ekuipazhit të fluturimit do të marrë trajnimin në tokë dhe trajnimin e fluturimit në një FSTD ose një VCA, ose një kombinim të trajnimit FSTD dhe VCA, të paktën çdo 12 muaj kalendarik.
+ORO.FC.440 Kryerja e operimeve në më shumë se një lloj ose variant
+a) Procedurat ose kufizimet operacionale për kryerjen e operimeve në më shumë se një lloj ose variant të përcaktuara në manualin e operimeve dhe të miratuara nga AAC-ja, duhet të mbulojnë:
+1) eksperiencën minimale të kërkuar të anëtarëve të ekuipazhit të fluturimit;
+2) eksperiencën minimale të kërkuar për një lloj ose variant të caktuar përpara fillimit të trajnimit dhe operimit në një lloj ose variant tjetër;
+3) procesin ku anëtarët e ekuipazhit të fluturimit të kualifikuar për një lloj ose variant do të trajnohen dhe kualifikohen për një lloj ose variant tjetër; dhe
+4) të gjitha kërkesat e aplikueshme për eksperiencën e fundit për çdo lloj ose variant.
+b) Anëtarët e ekuipazhit të fluturimit nuk duhet të operojnë më shumë se tri lloje avionësh ose grupe tipash, duke përfshirë të paktën një VCA.
 NËNPJESA CC.
 EKUIPAZHI I KABINËS
 ORO.CC.005 Qëllimi
@@ -1869,13 +1981,13 @@ c) Elementet e mëposhtme shtesë të trajnimit duhet të jenë të mbuluar me t
 NËNPJESA TC.
 EKUIPAZHI TEKNIK NË OPERIMET HEMS, HHO OSE NVIS
 ORO.TC.100 Qëllimi
-Kjo nënpjesë përcakton kërkesat që duhet të plotësohen nga operatori, kur vepron një avion me anëtarë të ekuipazhit teknikë në transportin ajror tregtar me shërbime të emergjencave mjekësore me helikopter (HEMS), sisteme të shikimit të pamjeve natën (NVIS) dhe operimeve me ngarkesa të jashtme (të varura) me helikopter (HHO).
+Kjo nënpjesë përcakton kërkesat që duhen përmbushur nga një operator ajror kur operon një avion me anëtarë të ekuipazhit teknik në operimet tregtare të helikopterëve të transportit ajror të shërbimit mjekësor emergjent (HEMS), operimet e shërbimit mjekësor emergjent me VCA (VEMS), operimet e sistemit të shikimit të pamjeve natën (NVIS) ose operimet me ngarkesa të jashtme (të varura) me helikopter (HHO).
 ORO.TC.105 Kushtet për caktimin në detyrë
-a) Anëtarëve teknikë të ekuipazhit në transportit ajror tregtar HEMS, HHO ose operimet NVIS duhet t’u caktohet detyra, nëse ata:
+a) Anëtarëve të ekuipazhit teknik të përfshirë në operimet e transportit ajror tregtar HEMS, VEMS, HHO ose NVIS do t’u caktohen detyra vetëm nëse ata:
 1) janë të paktën 18 vjeç;
-2) janë fizikisht dhe mendërisht të aftë dhe të sigurt të përgjegjshëm të kryejnë detyrat;
-3) kanë përfunduar të gjitha trajnimet e aplikueshme që kërkohen nga kjo nënpjesë për të kryer detyrat e ngarkuara;
-4) janë të kontrolluar si të aftë për të kryer të gjitha detyrat e ngarkuara, në përputhje me procedurat e specifikuara në manualin e operimeve.
+2) janë fizikisht dhe mendërisht të aftë për të kryer në mënyrë të sigurt detyrat dhe përgjegjësitë e tyre të caktuara;
+3) kanë përfunduar të gjithë trajnimin e zbatueshëm të kërkuar nga kjo nënpjesë për të kryer detyrat e tyre të caktuara;
+4) janë kontrolluar dhe janë konstatuar se janë të aftë për të kryer të gjitha detyrat e tyre të caktuara në përputhje me procedurat e specifikuara në manualin e operimeve.
 b) Para caktimit të detyrave teknike të anëtarëve të ekuipazhit të cilët janë të vetëpunësuar dhe/ose duke punuar mbi një bazë të pavarur ose me kohë të pjesshme, operatori duhet të verifikojë që të gjitha kërkesat e zbatueshme të kësaj nënpjese janë në pajtueshmëri me të, duke marrë parasysh të gjitha shërbimet teknike të kryera nga anëtari i ekuipazhit të operatorit tjetër për të përcaktuar në mënyrë të veçantë:
 1) numrin total të tipave të avionëve të ndryshëm dhe variantet e operuar;
 2) kufizimet kohore të detyrave në fluturim dhe kërkesat e tjera.
@@ -1883,7 +1995,7 @@ ORO.TC.110 Trajnimi dhe kontrolli
 a) Operatori duhet të krijojë një program trajnimi, në përputhje me kërkesat e zbatueshme të kësaj nënpjese, që të mbulojë detyrat dhe përgjegjësitë që do të kryhen nga anëtarët e ekuipazhit teknik.
 b) Pas përfundimit të trajnimit fillestar, atij të konvertimit nga operatori, trajnimit për ndryshimet dhe ato periodike, dhe pas çdo fluturimi familjarizimi të kërkuar, çdo anëtar i ekuipazhit teknik do t’i nënshtrohet një kontrolli për të demonstruar aftësitë e tij në kryerjen e procedurave normale dhe emergjente.
 c) Trajnimi dhe kontrolli duhet të kryhet për çdo kurs trajnimi nga një personel i përshtatshëm i kualifikuar dhe me përvojë që subjekti të jetë i mbuluar. Operatori duhet të informojë Autoritetin e Aviacionit Civil i cili ushtron kontrolle në lidhje me personelin.
-d) Kontrollet që pasojnë trajnimin e konvertimit të operatorit dhe çdo fluturim familjarizimi të kërkuar do të kryhen përpara se të operohet si anëtar i ekuipazhit teknik i kërkuar në operimet HEMS, HHO ose NVIS.
+d) Kontrollet që pasojnë trajnimin e konvertimit të operatorit dhe çdo fluturim familjarizimi i kërkuar do të kryhen përpara se të operohet si anëtar i ekuipazhit teknik i kërkuar në operimet HEMS, VEMS, HHO ose NVIS.
 e) Vlefshmëria e kontrollit të anëtarëve të ekuipazhit teknik për të demonstruar aftësinë e tyre në kryerjen e procedurave normale dhe emergjente do të jetë 12 muaj kalendarik.
 ORO.TC.115 Trajnimi fillestar
 Para se të ndërmarrë trajnimin e konvertimit nga operatori, çdo anëtar i ekuipazhit teknik duhet të përfundojë trajnimin fillestar, duke përfshirë:
@@ -1897,10 +2009,10 @@ ORO.TC.120 Trajnimi i konvertimit nga operatori
 a) Trajnimin e konvertimit nga operatori, përfshirë edhe elementet përkatëse CRM:
 1) përpara se të caktohet nga operatori për herë të parë si një anëtar ekuipazhi teknik; ose
 2) kur kalon në një lloj të ndryshëm avioni apo klase, nëse ndonjë prej pajisjeve apo procedurave të përmendura në pikën (b) janë të ndryshme.
-b) Trajnimi i konvertimit nga operatori duhet të përfshijnë:
-1) vendndodhjen dhe përdorimin e të gjitha pajisjeve të sigurisë dhe mbijetesës që mbarten në avion;
+b) Trajnimi i konvertimit nga operatori do të përfshijë:
+1) vendndodhjen dhe përdorimin e të gjitha pajisjeve të sigurisë në operim dhe mbijetesës që ndodhen në avion;
 2) të gjitha procedurat normale dhe emergjente;
-3) pajisjet e përdorura në bord për të kryer detyrat në avion apo në tokë me qëllim që të ndihmojë pilotin gjatë operimeve HEMS, HHO ose NVIS.
+3) pajisjet në bord të përdorura për të kryer detyra në avion ose në tokë me qëllim që të ndihmojë pilotin gjatë operimeve HEMS, VEMS, HHO ose NVIS.
 ORO.TC.125 Trajnimi i ndryshimeve (diferencave)
 a) Çdo anëtar i ekuipazhit teknik duhet të përfundojë trajnimin e ndryshimeve kur pajisjet nuk janë të njëjta ose procedurat aktuale të operimeve, për tipat apo variantet.
 b) Operatori, kur është e nevojshme, duhet ta specifikojë në manualin e operimeve trajnime të tilla për ndryshimet.
@@ -1919,7 +2031,7 @@ KUFIZIMET NË KOHËN E FLUTURIMIT DHE TË DETYRËS DHE KËRKESAT PËR ÇLODHJE
 Seksioni 1.
 Të përgjithshme
 ORO.FTL.100 Fushëveprimi
-Kjo nënpjesë përcakton kërkesat që duhen plotësuar nga një operator dhe anëtarët e tij të ekuipazhit, në lidhje me kufizimet e kohës së fluturimit dhe detyrës, gjithashtu, dhe me kërkesat e çlodhjes (pushimit) për anëtarët e ekuipazhit.
+Kjo nënpjesë përcakton kërkesat që duhen plotësuar nga një operator ajror dhe anëtarët e tij të fluturimit dhe ekuipazhit të kabinës (ekuipazhit ajror) në lidhje me kufizimet e kohës së fluturimit dhe detyrës gjithashtu, dhe me kërkesat e çlodhjes (pushimit) për anëtarët e ekuipazhit ajror të caktuar në operimet e transportit ajror tregtar (CAT) me aeroplanë.
 ORO.FTL.105 Përkufizimet
 Për qëllime të kësaj nënpjese do të zbatohen përkufizimet e mëposhtme:
 1) “ambientim” do të thotë një gjendje, në të cilën koha biologjike 24-orëshe e një anëtari të ekuipazhit është e njëjtë me orën lokale ku ndodhet anëtari i ekuipazhit. Një anëtar ekuipazhi konsiderohet si i përshtatur në një gjerësi zonale 2-orëshe, që përfshin orën lokale në pikën e nisjes. Kur ora lokale në vendin e fillimit të detyrës ndryshon me më shumë se 2 orë nga ora lokale e vendit ku fillon detyra tjetër, anëtari i ekuipazhit, për llogaritjen maksimale të periudhës ditore të fluturimit, konsiderohet të jetë i përshtatur në përputhje me vlerat e tabelës 1.
@@ -4232,13 +4344,14 @@ MIRATIMET SPECIFIKE [PJESA SPA]
 NËNPJESA A.
 KËRKESAT E PËRGJITHSHME
 SPA.GEN.100 Autoriteti kompetent
-a) Autoriteti kompetent për lëshimin e një aprovimi specifik do të jetë:
-1) Autoriteti i Aviacionit Civil (AAC), për operatorin tregtar, kur operatori ka qendrën e tij kryesore të biznesit në Republikën e Shqipërisë;
-2) për operatorin jotregtar, Autoriteti i shtetit në të cilin operatori ka qendrën e tij kryesore të biznesit, është i vendosur (institucionalizuar ), ose banon.
-b) Pavarësisht pikës(a)(2), për operatorët jotregtar që përdorin avionë të regjistruar në një vend të tretë, kriteret e aplikueshme sipas këtij aneksi për aprovimin e operimeve që vijojnë nuk do të zbatohen nëse këto miratime lëshohen nga shteti i regjistrit i një vendi të tretë.
-1) Navigacion i bazuar në performancë (PBN);
-2) Specifikimet minimale për performancën operuese (MNPS);
-3) Hapësira ajrore ku aplikohet ndarja minimale e (lartësisë) vertikale e reduktuar (RVSM).
+a) Autoriteti kompetent për lëshimin e një miratimi specifik, do të jetë:
+1) Autoriteti i Aviacionit Civil (AAC), për operatorin tregtar të avionëve dhe helikopterëve, kur operatori ka qendrën e tij kryesore të biznesit në Republikën e Shqipërisë;
+2) Autoriteti i Aviacionit Civil (AAC), për operatorin jotregtar të avionëve ose helikopterëve, kur operatori ka vendin kryesor të biznesit, është vendosur ose banon në Republikën e Shqipërisë;
+3) për një operator IAM të avionëve të aftë për VTOL (VCA), Autoriteti i Aviacionit Civil (AAC), kur operatori ka vendin kryesor të biznesit ose banon në Republikën e Shqipërisë.
+b) Pavarësisht pikës (a)(2), për operatorët jotregtarë që përdorin avionë ose helikopterë të regjistruar në një vend të tjetër, kërkesat e aplikueshme sipas këtij aneksi për miratimin e operimeve që vijojnë, nuk do të zbatohen nëse ai miratim është dhënë nga shteti i regjistrit i një vendi tjetër:
+1) Navigimi i bazuar në performancë (PBN);
+2) Specifikimet minimale të performancës së navigimit (MNPS);
+3) Hapësira ajrore ku aplikohet ndarja minimale e (lartësisë) vertikale e reduktuar (RVSM);
 4) Operimet me shikueshmëri të ulët (LVO).
 SPA.GEN.105 Aplikimi për një miratim specifik
 a) Operatori që aplikon për lëshimin fillestar të një miratimi specifik do t’i sigurojë Autoritetit të Aviacionit Civil dokumentacionin e kërkuar në nënpjesën e aplikueshme, së bashku me informacionin e mëposhtëm:
@@ -4279,7 +4392,7 @@ f) është krijuar një program për monitorimin dhe menaxhimin RNP për operime
 NËNPJESA C.
 OPERIMET ME PERFORMANCË TË SPECIFIKUAR MINIMALE TË LUNDRIMIT (MNPS)
 SPA.MNPS.100 Operimet MNPS
-Avioni duhet të operojë vetëm në hapësira ajrore me performancë të specifikuar minimale të lundrimit (MNPS), në përputhje me procedurat suplementare rajonale, ku janë vendosur specifikime të performancës minimale të lundrimit, nëse operatorit i është dhënë një miratim nga Autoriteti i Aviacionit Civil shqiptar për të kryer operime të tilla.
+Avionët dhe helikopterët duhet të operojnë vetëm në hapësirën ajrore të përcaktuar me specifikimet minimale të performancës së lundrimit (MNPS) në përputhje me procedurat shtesë rajonale, ku janë krijuar MNPS, nëse operatorit i është dhënë miratimi nga Autoriteti i Aviacionit Civil për të kryer operime të tilla.
 SPA.MNPS.105 Miratimi i operimeve MNPS
 Për të marrë një miratim operimi MNPS nga AAC-ja, operatori duhet të sigurojë dëshmi që:
 a) Pajisjet navigacionale plotësojnë performancën e kërkuar;
@@ -4294,7 +4407,7 @@ d) Janë krijuar procedurat operuese të cilat specifikojnë:
 NËNPJESA D.
 OPERIMET NË HAPËSIRËN AJRORE ME MINIMUMIN E REDUKTUAR TË NDARJES VERTIKALE (RVSM)
 SPA.RVSM.100 Operimet RVSM
-Avioni do të operohet në hapësirën ajrore të caktuar kur aplikohet minimumi i reduktuar i ndarjes vertikale (RVSM) prej 300 m (1000 ft) midis nivelit të fluturimit (FL) 290 dhe 410 të përfshirë, vetëm n.q.s. operatorit i është dhënë një miratim nga Autoriteti i Aviacionit Civil Shqiptar për të kryer operime të tilla.
+Avionët dhe helikopterët do të operohen vetëm në hapësirën ajrore të caktuar ku zbatohet një ndarje vertikale e reduktuar minimalisht prej 300 m (1 000 ft) ndërmjet nivelit të fluturimit (FL) 290 dhe FL 410 të përfshirë, vetëm n.q.s. operatorit i është dhënë një miratim nga Autoriteti i Aviacionit Civil shqiptar për të kryer operime të tilla.
 SPA.RVSM.105 Miratimi i operimit RVSM
 Për të marrë një miratim të një operimi RVSM nga AAC-ja, operatori duhet të sigurojë dëshmi, që:
 a) Është marrë miratimi për vlefshmërinë ajrore RVSM;
@@ -4325,8 +4438,8 @@ b) Raportet e ndodhive të tilla duhet të dërgohen tek AAC-ja brenda 72 orëve
 c) Kur gabimet e ruajtjes së lartësisë regjistrohen apo merren, operatorit duhet të marrë masa të menjëhershme për të korrigjuar kushtet që shkaktuan gabimet dhe të sigurojë në vazhdimësi raporte korrigjimi, nëse kërkohet nga AAC-ja.
 NËNPJESA E.
 OPERIMET ME DUKSHMËRI TË ULËT (LVO) DHE OPERIME ME KREDITE OPERACIONALE
-SPA.LVO.100 Operimet me shikueshmëri të ulët dhe operimet me kredite operative
-Operatori do të kryejë operimet e mëposhtme vetëm nëse ato miratohen nga AAC:
+SPA.LVO.100 Operime me shikueshmëri të ulët dhe operimet me kredite operative
+Një operator avionësh ose helikopterësh do të kryejë operimet e mëposhtme vetëm nëse ato miratohen nga AAC-ja:
 a) operimet e ngritjes me kushte shikueshmërie më pak se 400 m RVR;
 b) operimet e afrimit me instrumente në kushte me shikueshmëri të ulët; dhe
 c) operimet me kredite operative, me përjashtim të operimeve EFVS 200, të cilat nuk do t’i nënshtrohen një miratimi specifik.
@@ -4385,8 +4498,8 @@ Tabela 1. Planifikimi i minimumeve për ETOPS për në aerodromin alternativ në
 |(*) VIS: Shikimi” MDA/H: Humbja minimale e lartësisë/lartësia |
 NËNPJESA G.
 TRANSPORTI I MALLRAVE TË RREZIKSHME
-SPA.DG.100 - Transporti i mallrave të rrezikshme
-Me përjashtim të kërkesave që përcaktohen në aneksin IV (Part CAT), aneksin VI (pjesa-NCC), aneksin VII (pjesa-NCO) dhe aneksin VIII (pjesa-SPO), operatori kryen transportin e mallrave të rrezikshme vetëm pas një miratimi paraprak nga AAC-ja.”.
+SPA.DG.100 Transporti i mallrave të rrezikshme
+Me përjashtim të kërkesave që përcaktohen në aneksin IV (pjesa-CAT), aneksin VI (pjesa-NCC), aneksin VII (pjesa-NCO), aneksin VIII (pjesa-SPO) dhe aneksin IX (pjesa-IAM) të kësaj rregulloreje, operatori mund të kryejë transportin e mallrave të rrezikshme në rrugë ajrore vetëm nëse është miratuar nga AAC-ja.
 SPA.DG.105 Miratimi për transportin e mallrave të rrezikshëm
 Për të marrë miratimin për transportin e mallrave të rrezikshëm, operatori në përputhje me instruksionet teknike duhet:
 a) Të krijojë dhe të mbajë një program trajnimi për personelin e përfshirë dhe t’i demonstrojë Autoritetit të Aviacionit Civil Shqiptar që gjithë personelit i është dhënë trajnimi i duhur;
@@ -4622,6 +4735,9 @@ ii) masat e referuar në pikën (f)(2)(i) duhet të vlerësohen gjatë:
 A) Kontrolleve të aftësisë me kushte VMC ditën ose kontrolleve të aftësisë VMC natën kur nga operatori ndërmerren operime HEMS natën; dhe
 B) Kontrollet në fluturim në detyrë.
 (Pika SPA.HEMS.130 do të zbatohet deri në datë 24 maj 2026).
+g) Anëtarët e ekuipazhit të fluturimit që kanë mbushur moshën 60 vjeç dhe që kryejnë operacione HEMS me një pilot të vetëm në përputhje me pikën FCL.065(a) të aneksit I (Pjesa-FCL) të urdhrit të ministrit nr. 178, datë 20.12.2023, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil”, i ndryshuar.
+1) Për anëtarët e ekuipazhit të fluturimit që kanë mbushur moshën 60 vjeç dhe që kryejnë operacione HEMS me një pilot të vetëm në përputhje me pikën FCL.065(a) të aneksit I (pjesa-FCL) të urdhrit të ministrit nr. 178, datë 20.12.2023, “Për miratimin e rregullores për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil”, i ndryshuar operatori do të marrë parasysh në vlerësimin e tij të rrezikut të kryer në përputhje me ORO.GEN.200 rritjen e rrezikut të paaftësisë për shkak të sëmundjeve kardiovaskulare dhe faktorët cerebrovaskularë të lidhur me rrethanat operacionale.
+2) Trajnimi dhe kontrolli për anëtarët e ekuipazhit të fluturimit, të përmendur në pikën 1, do të kryhet nga personeli që ka marrë trajnimin e duhur për t’i ndihmuar ata të zbulojnë një rënie të lehtë njohëse dhe të kërkojnë vlerësim mjekësor të anëtarit të ekuipazhit kur është e nevojshme.
 SPA.HEMS.130/1 Kërkesat për ekuipazhin
 a) Përzgjedhja. Operatori duhet të vendosë kritere për përzgjedhjen e anëtarëve të ekuipazhit të fluturimit për detyrat HEMS, duke marrë parasysh eksperiencën e mëparshme.
 b) Qëllimisht e lënë bosh.
@@ -4843,7 +4959,7 @@ l) një pajisje emergjente për kontrollin e fuqisë së motorit që lejon funks
 NËNPJESA M.
 ÇANTA ELEKTRONIKE E FLUTURIMIT (EFBs- ÇEF)
 SPA.EFB.100 Përdorimi i çantave elektronike të fluturimit (EFBs-ÇEF) - miratimi operacional
-a) Një operator i transportit tregtar ajror do të përdorë vetëm një aplikim të tipit B ÇEF, nëse operatorit i është dhënë miratimi nga autoriteti kompetent për këtë lloj përdorimi.
+a) Një operator i transportit tregtar ajror i avionëve ose helikopterëve ose një operator IAM do të përdorë një aplikim të tipit B ÇEF vetëm nëse operatorit i është dhënë një miratim nga autoriteti kompetent për këtë lloj përdorimi.
 b) Për të marrë miratimin e operimit nga autoriteti kompetent për përdorimin e një aplikimi të tipit B ÇEF, operatori duhet të ofrojë dëshmi se:
 1) është bërë një vlerësim i riskut në lidhje me përdorimin e pajisjes ÇEF që përmban aplikacionin dhe përdorimin e ÇEF dhe funksionet e tij shoqëruese, duke identifikuar dhe zvogëluar risqet dhe siguruar që ato janë menaxhuar në mënyrë të përshtatshme;�
 2) ndërfaqjet njerimakinë të pajisjes ÇEF dhe aplikacioni ÇEF janë vlerësuar kundrejt parimeve të faktorëve njerëzorë;
@@ -4867,6 +4983,69 @@ b) Minimumet e reduktuara operative VFR zbatohen vetëm për një fluturim me he
 3) segmenti i fluturimit i përshkruar nën VFR është një nisje me synimin për të kaluar në IFR në nisjen fillestare fikse dhe të afërt.
 c) Operatori duhet të përcaktojë procedurat operative që janë të zbatueshme kur fluturohet me minimume operative të reduktuara VFR.
 d) Operatori duhet të garantojë se anëtarët e ekuipazhit të fluturimit kanë përvojë dhe janë të trajnuar për të operuar me minimume operative të reduktuara VFR.
+NËNPJESA O
+OPERIMET E SHËRBIMIT MJEKËSOR TË EMERGJENCËS ME AVIONË ME PILOT TË AFTË PËR VTOL (VEMS)
+SPA.VEMS.100 Operimet e shërbimit mjekësor emergjent me avionë me pilot të aftë për VTOL (VEMS)
+a) Një operator IAM do të kryejë operime të shërbimit mjekësor të emergjencës me avionë me pilot të aftë për VTOL (VEMS) vetëm nëse operatorit i është dhënë miratimi nga AAC-ja për operime të tilla.
+b) Për të marrë një miratim të tillë nga AAC-ja, operatori IAM, duhet:
+1) të mbajë një AOC në përputhje me aneksin III (pjesa-ORO);
+2) kryejë operime në përputhje me kërkesat përkatëse të aneksit IX (pjesa-IAM); dhe
+3) t’i demonstrojë AAC-së pajtueshmërinë me kërkesat e përfshira në këtë nënpjesë.
+c) Operatori IAM do të përdorë vertiportet e përshtatshëm për bazën e tij operative VEMS dhe vendet e spitalit, përveç rasteve kur miratohet nga AAC-ja për të përdorur një vend me interes publik (PIS) pranë një vendi spitalor.
+d) Operatori IAM mund të përdorë vende të përshtatshme operimi për qëllime të misioneve VEMS ose fluturimeve të trajnimit VEMS duke marrë parasysh:
+1) kërkesat e performancës së avionit të zbatueshme për ngritje dhe ulje;
+2) karakteristikat e vendit operativ, duke përfshirë përmasat, pengesat dhe gjendjen e sipërfaqes;
+3) ndarjen e sigurt të avionëve të aftë për VTOL (VCA) nga njerëzit në tokë; dhe
+4) kërkesat e privatësisë, mbrojtjes së të dhënave, përgjegjësisë, siguracionit, sigurisë dhe mbrojtjes së mjedisit.
+SPA.VEMS.110 Kërkesat e pajisjeve për operimet VEMS
+a) Instalimi në një avion të aftë për VTOL (VCA) i të gjitha pajisjeve mjekësore të dedikuara dhe çdo modifikim i mëpasshëm i atij instalimi dhe, kur është e përshtatshme, operimi i tij, do të miratohen në përputhje me urdhrin e ministrit nr. 57, datë 13.3.2024, “Për miratimin e rregullores për përcaktimin e rregullave zbatuese të vlefshmërisë ajrore dhe të certifikimit mjedisor të mjeteve fluturuese dhe të produkteve që kanë lidhje me to, pjesëve dhe pajisjeve, si dhe çertifikimin e organizatave të projektimit dhe prodhimit”.
+b) Për fluturimet VFR gjatë ditës mbi rrugë ose zona të lundruara duke iu referuar pikave vizuale, VCA-ja do të pajiset me mjete që ofrojnë pozicionin e mjetit dhe pengesave në një ekran të lëvizshëm të hartës. Baza e të dhënave të hartave dhe pengesave duhet të mbahet e përditësuar.
+c) Për fluturimet VFR gjatë ditës, VCA-ja duhet të pajiset me një mjet për të matur dhe për t’i shfaqur pilotit qëndrimin dhe drejtimin e stabilizuar ose me mjete të tjera ekuivalente për të zbutur çorientimin e pilotit në rast të reduktimit të sinjaleve vizuale.
+d) Çdo VCA e përdorur në misionet VEMS do të pajiset me mjete që kanë një aftësi ADS-B Out.
+e) Instrumentet dhe pajisjet e kërkuara sipas shkronjës “f” do të certifikohen në përputhje me kërkesat e zbatueshme të vlefshmërisë ajrore.
+f) Operatori IAM do të sigurojë që të gjitha informacionet përkatëse të dokumentohen në listën minimale të pajisjeve (MEL).
+SPA.VEMS.115 Komunikimi
+Përveç kërkesave për instrumentet dhe pajisjet e zbatueshme për VCA-në në konfigurimin e personelit, VCA e përdorur për fluturimet VEMS duhet të ketë pajisje komunikimi të afta për të kryer komunikim të dyanshëm me organizatën për të cilën kryhet fluturimi VEMS dhe, kur është e mundur, për të komunikuar me personelin e shërbimit emergjent në tokë në vendin e operimit.
+SPA.VEMS.120 Shikueshmëria dhe largësia nga minimumi i resë
+Minimumet për fazën e nisjes dhe të rrugëkalimit të fluturimit VEMS do të jenë ato të përcaktuara në përputhje me pikën SERA.5001. Nëse gjatë fazës së rrugëkalimit kushtet e motit bien nën minimumin e aplikueshëm:
+a) VCA-ja e certifikuar për fluturime vetëm nën VFR gjatë ditës do të ulet sa më shpejt që të jetë e mundur ose do të kthehet në bazën VEMS.
+b) Qëllimisht e lënë bosh.
+SPA.VEMS.125 Kërkesat e performancës për operimet VEMS
+VCA e përdorur për operimet VEMS do të operohet në përputhje me kërkesat e zbatueshme të performancës të përcaktuara në pikën UAM.POL.VCA.100.
+SPA.VEMS.130 Kërkesat e ekuipazhit
+a) Përzgjedhja. Operatori IAM vendos kritere për përzgjedhjen e anëtarëve të ekuipazhit të fluturimit për operimet VEMS, duke marrë parasysh përvojën e tyre të mëparshme.
+b) Trajnimi operacional. Anëtarët e ekuipazhit duhet të përfundojnë me sukses trajnimin operacional në përputhje me procedurat VEMS të përfshira në manualin e operimeve.
+c) Qëllimisht e lënë bosh.
+d) Përbërja e ekuipazhit
+1) Fluturimi ditën. Përbërja minimale e ekuipazhit në nisje për një fluturim VEMS nën VFR ditën do të jetë dy pilotë ose një pilot dhe një anëtar i ekuipazhit teknik VEMS.
+Pas uljes në vendin e operimit VEMS, fluturimet pasuese mund të kryhen nga një pilot:
+i) nëse ka nevojë për furnizime mjekësore shtesë, furnizim karburanti/furnizim baterie ose ripozicionim ndërkohë që anëtari i ekuipazhit teknik të VEMS ofron ndihmë mjekësore në terren; ose
+ii) nëse anëtari i ekuipazhit teknik të VEMS i ofron ndihmë mjekësore pacientit mjekësor në fluturim ose gjatë transportit me një mjet tjetër.
+2) Qëllimisht e lënë bosh.
+3) Operatori IAM duhet të sigurojë që vazhdimësia e konceptit të ekuipazhit të ruhet gjatë gjithë misionit VEMS.
+e) Trajnimi dhe kontrolli i ekuipazhit teknik dhe fluturimit
+1) Trajnimi dhe kontrolli do të kryhen nga personel i kualifikuar siç duhet, në përputhje me planprogramin e përfshirë në manualin e operimeve dhe të miratuar nga AAC-ja.
+2) Anëtarët e ekuipazhit
+i) Të gjitha elementet përkatëse të programit të trajnimit të ekuipazhit duhet të përmirësojnë njohuritë e ekuipazhit për mjedisin dhe pajisjet e punës VEMS, të përmirësojnë koordinimin e ekuipazhit dhe të përfshijnë masa për të minimizuar rreziqet që lidhen me një tranzit gjatë rrugëkalimit drejt kushteve me shikueshmëri të ulët, përzgjedhjen e vendeve operative të VEMS-it, dhe profilet e afrimit dhe nisjes.
+ii) Masat e përmendura në pikën “i: do të vlerësohen në të dyja rastet e mëposhtme:
+A) Kontrollet e aftësisë ditën VMC;
+B) Kontrollet e linjës.
+iii) Komponentët VEMS të kontrolleve të aftësisë dhe kontrolleve të linjës të përmendura në pikën “ii” do të kenë një periudhë vlefshmërie përkatësisht 6 dhe 12 muaj kalendarik.
+SPA.VEMS.135 Informimi i pasagjerëve mjekësorë dhe personelit tjetër
+a) Pasagjerët mjekësorë. Përpara çdo fluturimi VEMS, ose seri fluturimesh VEMS, pasagjerët mjekësorë duhet të informohen për t’u siguruar që ata janë të njohur me mjedisin dhe pajisjet e punës VEMS, mund të përdorin pajisjet e emergjencës në bord dhe mund të marrin pjesë në procedurat normale dhe emergjente të hyrjes dhe daljes.
+b) Personeli i shërbimit emergjent në tokë. Kur është i punësuar personeli i shërbimit të emergjencës në tokë, operatori IAM do të marrë të gjitha masat e nevojshme për të siguruar që ky personel është i njohur me mjedisin dhe pajisjet e punës VEMS dhe rreziqet që lidhen me operimet në tokë në një vend operimi VEMS.
+c) Pacientët mjekësorë. Pavarësisht pikës UAM.OP.MVCA.170 të aneksit IX (Pjesa-IAM), një takim për informim do të mbahet vetëm nëse gjendja mjekësore e pacientit mjekësor e bën atë të mundur.
+SPA.VEMS.140 Informacioni, procedura dhe dokumentacioni
+a) Operatori IAM do të vlerësojë, zbusë dhe minimizojë rreziqet që lidhen me mjedisin VEMS si pjesë e procesit të tij të analizës dhe menaxhimit të rrezikut. Operatori IAM do të përshkruajë masat e tij lehtësuese, duke përfshirë procedurat e operimit, në manualin e operimit.
+b) Operatori IAM do të sigurojë që piloti në komandë (PIC) vlerëson rreziqet specifike që lidhen me një fluturim të veçantë VEMS.
+c) Ekstraktet përkatëse nga manuali i operimeve do t’i vihen në dispozicion organizatës për të cilën ofrohet operimi VEMS.
+SPA.VEMS.145 Strukturat në bazën operative VEMS
+a) Nëse anëtarëve të ekuipazhit u kërkohet të jenë në gatishmëri me një kohë reagimi më të vogël se 45 minuta, akomodimi i përshtatshëm i dedikuar duhet të sigurohet pranë çdo baze operative VEMS.
+b) Në çdo bazë operative VEMS, ekuipazhit të fluturimit do t’i jepet akses në strukturat për marrjen e informacionit aktual dhe të parashikimit të motit dhe do t’u sigurohen komunikimet e duhura me njësitë e duhura të shërbimit të trafikut ajror (ATS). Objektet e përshtatshme do të jenë në dispozicion për planifikimin e të gjitha detyrave të ndërlidhura.
+SPA.VEMS.150 Furnizimi me karburant/shkarkimi i karburantit/karikimi i baterisë/zëvendësimi i baterisë/ndërkohë që pasagjerët janë duke hipur në bord ose duke zbritur
+Procedurat e furnizimit me karburant/shkarkimi i karburantit/karikimi i baterisë/zëvendësimi i baterisë me njësitë ngritëse dhe shtytëse të ndezura ose të fikura do të kryhen vetëm në përputhje me pikën UAM.OP.MVCA.200 ose pikën UAM.OP.MVCA.205 sipas rastit.
+SPA.VEMS.155 Sistemi i gjurmimit të avionëve
+Operatori IAM do të krijojë dhe mirëmbajë një sistem gjurmimi të monitoruar të avionit për operimet VEMS për të gjithë kohëzgjatjen e fluturimit VEMS.
 ANEKSI VI
 OPERIMET AJRORE JOTREGTARE ME MJETË FLUTURIMI KOMPLEKSE ME FUQI MOTORIKE [PJESA NCC]
 NËNPJESA A.
@@ -7754,5 +7933,703 @@ SPO.SPEC.MCF.140 Sistemet dhe pajisjet
 Kur fluturimet për kontrolle mirëmbajtjeje kryhen për të kontrolluar funksionimin e një sistemi apo pajisjeje, ato duhen identifikuar si potencialisht të pasigurt dhe duhet rënë dakord mbi masat e duhura përpara fluturimit për të minimizuar rreziqet për sigurinë e fluturimit.
 SPO.SPEC.MCF.145 Kriteret për regjistruesit e zërave në kabinë, regjistruesit e të dhënave të fluturimeve dhe të regjistruesit e lidhjeve të të dhënave për mbajtësit e AOC-ve
 Për fluturimet për kontrolle mirëmbajtjeje të avionëve që përdoren për operimet CAT, dispozitat për regjistruesit e zërave në kabinë (CVR), regjistruesit e të dhënave të fluturimeve (FDR) dhe regjistruesit e lidhjeve të të dhënave (DLR) të aneksit IV do të vazhdojnë të jenë në zbatim.
+ANEKSI IX
+OPERIMET INOVATIVE TË LËVIZSHMËRISË AJRORE
+(PJESA-IAM)
+NËNPJESA A
+KËRKESAT E PËRGJITHSHME
+IAM.GEN.050 Fushëveprimi
+Ky aneks do të zbatohet për operimet e IAM-it me avionë me pilot me aftësi për VTOL (VCA) në përputhje me VFR gjatë ditës.
+IAM.GEN.055 Autoriteti kompetent
+Autoriteti kompetent i operatorit IAM do të jetë Autoriteti i Aviacionit Civil, kur ai operator ka vendin kryesor të biznesit ose vendbanimin e tij në Republikën e Shqipërisë, ose kur të jetë e zbatueshme, Agjencia në përputhje me nenin 65 të vendimit të Këshillit të Ministrave nr. 1095, datë 24.12.2020, “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, i ndryshuar.
+SEKSIONI 1
+Avionët me aftësi për VTOL (VCA)
+IAM.GEN.VCA.050 Fushëveprimi
+Ky seksion përmban kërkesa të përgjithshme për operimin e VCA-së.
+IAM.GEN.VCA.100 Përgjegjësitë e ekuipazhit
+a) Pilotët dhe anëtarët e tjerë të ekuipazhit do të jenë përgjegjës për ekzekutimin e duhur të detyrave të tyre, që:
+1) lidhen me sigurinë e të gjithë anëtarëve të ekuipazhit, pasagjerëve dhe kargos në bord të VCA-së; dhe
+2) specifikohen në manualin e operimeve (OM) të operatorit VCA.
+b) Pilotët dhe anëtarët e tjerë të ekuipazhit duhet të jenë në përputhshmëri me të gjitha sa vijon:
+1) raportojnë, nëse nuk është raportuar tashmë, te piloti në komandë (PIC) çdo defekt, dështim, mosfunksionim ose defekt që ata besojnë se mund të ndikojë në aftësinë ajrore ose operimin e sigurt të VCA-së, duke përfshirë sistemet e emergjencës;
+2) raportojnë, nëse nuk është raportuar tashmë, në PIC çdo incident që ka rrezikuar, ose mund të kishte rrezikuar sigurinë e operimit të VCA-së;
+3) të jenë në përputhje me kërkesat përkatëse të skemës së operatorit për raportimin e ngjarjeve;
+4) të jenë në përputhje me kërkesat e kohës së fluturimit, kohës së detyrës dhe pushimit, të zbatueshme për aktivitetet e tyre;
+5) të mos çaktivizojnë ose fikin regjistruesit gjatë fluturimit, ose fshijnë qëllimisht regjistrimet e tyre.
+c) Pilotët dhe anëtarët e tjerë të ekuipazhit nuk do të kryejnë detyra në lidhje me operimin e VCA-së nëse janë në ndonjë nga situatat e mëposhtme:
+1) kur janë nën ndikimin e substancave psikoaktive ose kur janë të papërshtatshëm për shkak të lëndimit, lodhjes, mjekimit, sëmundjes ose shkaqeve të tjera të ngjashme;
+2) kur nuk plotësojnë kërkesat mjekësore të aplikueshme;
+3) kur ata kanë ndonjë dyshim se nuk janë në gjendje të përmbushin detyrat e tyre të caktuara;
+4) kur ata e dinë ose dyshojnë se vuajnë nga lodhja siç përmendet në pikën 7.5 të aneksit V të vendimit të Këshillit të Ministrave nr. 1095, datë 24.12.2020, “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, i ndryshuar, ose ndryshe ndihen të papërshtatshëm në masën që mund të rrezikohet siguria e fluturimit.
+IAM.GEN.VCA.105 Përgjegjësitë e pilotit në komandë (PIC)
+a) Përveç pajtueshmërisë me pikën IAM.GEN.VCA.100, PIC, sapo të marrë përsipër funksionet e komandës në stacionin e caktuar dhe derisa të dorëzojë funksionet e komandës ose të largohet nga stacioni i caktuar në fund të fluturimit, duhet të pajtohet me të gjitha sa vijon:
+1) të jetë përgjegjës për sigurinë në operim e të gjithë anëtarëve të ekuipazhit, pasagjerëve dhe ngarkesave në bordin e VCA-së;
+2) të jetë përgjegjës për operimin dhe sigurinë në operim të VCA-së kur njësitë e ngritjes dhe shtytjes janë të ndezura;
+3) të jetë përgjegjës për fillimin, vazhdimin, përfundimin ose devijimin e një fluturimi në interes të sigurisë në operim;
+4) të ketë autoritetin për të dhënë të gjitha komandat dhe për të ndërmarrë çdo veprim të duhur me qëllim të garantimit të sigurisë në operim të VCA-së dhe të personave dhe/ose pronës që mbahen në të;
+5) të sigurojë që të gjithë pasagjerët të informohen për vendndodhjen e daljeve emergjente, dhe për vendndodhjen dhe përdorimin e pajisjeve përkatëse të sigurisë në operim dhe emergjencave, sipas rastit;
+6) të sigurojë që të gjithë pasagjerët të informohen se kur dhe si të komunikojnë me anëtarët e ekuipazhit të fluturimit gjatë fluturimit;
+7) të sigurojë që të gjitha procedurat operative dhe listat e kontrollit janë në përputhje me manualin e operimeve (OM) të operatorit të VCA-së;
+8) të mos lejojë asnjë anëtar të ekuipazhit të kryejë ndonjë aktivitet gjatë fazave kritike të fluturimit, me përjashtim të detyrave të kërkuara për operimin e sigurt të VCA-së;
+9) të sigurohet që regjistruesit të mos çaktivizohen ose fiken gjatë fluturimit dhe që regjistrimet e tyre të mos fshihen qëllimisht;
+10) të vendosë për pranimin e një VCA-je me mungesë shërbimi në përputhje me listën e devijimeve të konfigurimit të VCA-së (CDL) ose listën minimale të pajisjeve (MEL) dhe regjistrin teknik të VCA-së;
+11) të sigurojë që inspektimi para fluturimit është kryer në përputhje me kërkesat e zbatueshme të vazhdueshmërisë së vlefshmërisë ajrore;
+12) të jetë i bindur që pajisjet përkatëse të urgjencës mbeten lehtësisht të aksesueshme për përdorim të menjëhershëm;
+13) të regjistrojë, në përfundim të fluturimit, në përputhje me kërkesat e sistemit të regjistrimit të vazhdueshmërisë së vlefshmërisë ajrore, të dhënat e përdorimit dhe të gjitha defektet e njohura ose të dyshuara të VCA-së për të garantuar sigurinë në operim të vazhdueshme të fluturimit.
+b) PIC, në një situatë emergjente që kërkon vendim dhe veprim të menjëhershëm, do të ndërmarrë çdo veprim që ata e konsiderojnë të nevojshëm sipas rrethanave. Në raste të tilla, PIC mund të devijojë nga rregullat, procedurat operative dhe metodat në interes të sigurisë në operim.
+c) PIC, sa më shpejt që të jetë e mundur, do t’i raportojë njësisë përkatëse të shërbimeve të trafikut ajror (ATS) çdo mot të rrezikshëm ose gjendje fluturimi të hasur gjatë fluturimit që ka të ngjarë të ndikojë në sigurinë e operimeve të tjera VCA.
+IAM.GEN.VCA.110 Autoriteti i pilotit në komandë
+Operatori IAM do të marrë të gjitha masat e arsyeshme për të siguruar që të gjithë personat e transportuar në bord të VCA-së t’u binden të gjitha komandave të ligjshme të dhëna nga PIC me qëllim të garantimit të sigurisë në operim së VCA-së dhe të personave ose pronës që mbahen në të.
+IAM.GEN.VCA.120 Gjuha e përbashkët
+Operatori IAM duhet të sigurojë që të gjithë anëtarët e ekuipazhit të mund të komunikojnë me njëri-tjetrin në një gjuhë të përbashkët.
+IAM.GEN.VCA.130 Ndezja e njësive ngritëse dhe shtytëse
+Njësitë ngritëse dhe shtytëse të VCA-së duhet të ndizen vetëm për qëllime fluturimi nga një pilot i kualifikuar në kontrollet e VCA-së.
+IAM.GEN.VCA.140 Pajisje elektronike portative (PED)
+Operatori IAM nuk do të lejojë asnjë person të përdorë një PED në bordin e një avioni që mund të ndikojë negativisht në performancën e sistemeve dhe pajisjeve të VCA-së dhe do të marrë të gjitha masat e arsyeshme për të parandaluar një përdorim të tillë.
+IAM.GEN.VCA.141 Përdorimi i çantave elektronike të fluturimit (EFB)
+a) Kur një EFB përdoret në bordin e një avioni, operatori IAM duhet të sigurojë që ai të mos ndikojë negativisht në performancën e sistemeve ose pajisjeve të VCA-së, ose aftësinë e anëtarit të ekuipazhit të fluturimit për të operuar VCA-në.
+b) Operatori IAM nuk do të përdorë një aplikacion EFB të tipit B nëse nuk miratohet në përputhje me nënpjesën M të aneksit V (Pjesa-SPA).
+IAM.GEN.VCA.145 Informacioni mbi pajisjet emergjente dhe të mbijetesës që mbahen në bord VCA
+Operatori IAM duhet të ketë në çdo kohë në dispozicion për komunikim të menjëhershëm me listat e qendrave të koordinimit të shpëtimit (RCC) që përmbajnë informacion mbi pajisjet e emergjencës dhe të mbijetesës që mbahen në bordin e çdo VCA-je të tij.
+IAM.GEN.VCA.155 Transportimi i armëve luftarake dhe i municioneve luftarake
+Operatori IAM nuk do të pranojë armë lufte ose municione luftarake për transport ajror në VCA.
+IAM.GEN.VCA.160 Transporti i armëve sportive dhe i municionit
+a) Operatori IAM nuk do të pranojë armë sportive për transport ajror në VCA, përveç nëse:
+1) ato mund të vendosen në VCA në një vend që është i paarritshëm për pasagjerët gjatë fluturimit; dhe
+2) i gjithë municioni shkarkohet dhe transportohet veçmas nga armët sportive.
+IAM.GEN.VCA.165 Mënyra e transportit të personave
+Operatori IAM do të marrë të gjitha masat e arsyeshme për të siguruar që asnjë person të mos gjendet në asnjë pjesë të VCA-së në fluturim që nuk është projektuar ose caktuar për akomodimin e personave, me përjashtim të rasteve kur një person ndërmerr një veprim që është i nevojshëm për sigurinë në operim të VCA-së ose të çdo personi, kafshe ose mallrave të transportuara në VCA.
+IAM.GEN.VCA.170 Substancat psikoaktive
+a) Operatori IAM do të marrë të gjitha masat e arsyeshme për të siguruar që asnjë person të mos hyjë ose të jetë në bordin e VCA-së kur është nën ndikimin e substancave psikoaktive në masën që siguria në operim e VCA-së ose e pasagjerëve të saj ka të ngjarë të rrezikohet.
+b) Operatori IAM do të zhvillojë dhe zbatojë një politikë dhe procedurë objektive, transparente dhe jodiskriminuese për parandalimin dhe zbulimin e keqpërdorimit të substancave psikoaktive nga pilotët dhe personeli tjetër i ndjeshëm ndaj sigurisë në operim nën kontrollin e drejtpërdrejtë të operatorit IAM, në mënyrë që të sigurojë që siguria në operim e VCA-së dhe e banorëve të saj nuk është e rrezikuar.
+c) Nëse pilotët ose personeli tjetër i ndjeshëm ndaj sigurisë në operim testohen pozitivë ndaj substancave psikoaktive, operatori IAM duhet të informojë autoritetin e tij kompetent dhe autoritetin që është përgjegjës për pilotët dhe personelin në fjalë.
+IAM.GEN.VCA.175 Rrezikimi i sigurisë në operim.
+a) Operatori IAM do të marrë të gjitha masat e arsyeshme për të siguruar që asnjë person nga pakujdesia, me dashje ose nga neglizhenca të veprojë ose të mos veprojë, në mënyrë që:
+1) rrezikojë sigurinë në operim të VCA-së ose sigurinë e personave në të; ose
+2) shkaktojë ose lejojë VCA-në të rrezikojë çdo person ose pronë.
+b) Operatori IAM duhet të sigurojë që pilotët t’i nënshtrohen një vlerësimi psikologjik përpara fillimit të operimeve të fluturimit në mënyrë që:
+1) të identifikojë atributet psikologjike dhe përshtatshmërinë e pilotëve në lidhje me mjedisin e tyre të punës; dhe
+2) të zvogëlojë gjasat që pilotët të ndërhyjnë negativisht në operimin e sigurt të VCA-së.
+IAM.GEN.VCA.176 Programi i mbështetjes së pilotit
+a) Operatori IAM do të mundësojë, lehtësojë dhe sigurojë aksesin në një program mbështetës proaktiv dhe jondëshkues që do të ndihmojë dhe mbështesë pilotët në njohjen, përballimin dhe tejkalimin e çdo problemi që mund të ndikojë negativisht në aftësinë e tyre për të ushtruar në mënyrë të sigurt privilegjet e licencës së tyre.
+b) Pa cenuar legjislacionin kombëtar për mbrojtjen e individëve në lidhje me përpunimin e të dhënave personale dhe për lëvizjen e lirë të këtyre të dhënave, mbrojtja e konfidencialitetit të të dhënave personale do të jetë një parakusht për një program mbështetës efektiv të pilotit.
+IAM.GEN.VCA.185 Informacionet që duhet të ruhet në terren/tokë
+a) Operatori IAM do të sigurojë që për kohëzgjatjen e çdo fluturimi ose serie fluturimesh, informacioni që është i rëndësishëm për fluturimin ose serinë e fluturimeve dhe i përshtatshëm për llojin e operacionit:
+1) ruhet në tokë; dhe
+2) ruhet derisa të duplikohet në vendin ku do të ruhet; ose, nëse kjo është e pamundur,
+3) transportohet në një ambalazhim rezistent ndaj zjarrit në VCA.
+b) Informacioni i përmendur në shkronjën “a” përfshin të gjitha sa vijon:
+1) një kopje të planit operacional të fluturimit;
+2) kopjet e pjesëve përkatëse të regjistrimeve të vlefshmërisë ajrore të avionit;
+3) dokumentacionin NOTAM specifik për itinerarin, nëse është modifikuar në mënyrë specifike nga operatori IAM;
+4) dokumentacionin i masës dhe balancës;
+5) njoftimin e ngarkesave speciale.
+IAM.GEN.VCA.190 Sigurimi i dokumentacionit dhe regjistrimeve
+PIC, brenda një kohe të arsyeshme pasi t’i kërkohet një gjë e tillë nga një person i autorizuar nga një autoritet, do t’i sigurojë atij personi dokumentacionin e kërkuar për t’u mbajtur në bord, në letër ose media digjitale.
+IAM.GEN.VCA.195 Ruajtja, prodhimi, mbrojtja dhe përdorimi i regjistrimeve audiovizive
+a) Pas një aksidenti, një incidenti të rëndë ose një ngjarje të identifikuar nga autoriteti hetues, operatori IAM do të ruajë të dhënat origjinale të regjistruara audiovizive, të mbajtura në VCA në përputhje me nënpjesën D të këtij aneksi, për një periudhë prej 60 ditësh ose derisa të urdhërohet ndryshe nga autoriteti hetues.
+b) Operatori IAM do të kryejë kontrolle operacionale dhe vlerësime të regjistrimeve për të siguruar shërbimin e vazhdueshëm të regjistruesit.
+c) Operatori IAM duhet të sigurojë që të ruhen regjistrimet e parametrave të fluturimit që kërkohen të regjistrohen në një regjistrues. Për qëllime të testimit dhe mirëmbajtjes së regjistruesit, mund të fshihet deri në 1 orë nga materiali më i vjetër i regjistruar në kohën e testimit.
+d) Operatori IAM duhet të ruajë dhe të mbajë të përditësuar dokumentacionin që përmban informacionin e nevojshëm për të konvertuar të dhënat e papërpunuara të fluturimit në parametra fluturimi të shprehura në njësitë inxhinierike.
+e) Operatori IAM do të vërë në dispozicion çdo regjistrim të regjistruesit që është ruajtur, nëse kështu përcaktohet nga autoriteti kompetent.
+f) Pa cenuar VKM-në nr. 739, datë 3.12.2021, “Për organizimin dhe funksionimin e Autoritetit të Investigimit për Sigurinë e Operimit në Aviacionin Civil dhe në përputhje me rregullat për procesimin e të dhënave në legjislacionin kombëtar”:
+1) përveç sigurimit të funksionalitetit të një regjistruesi, regjistrimet audio nuk do të zbulohen ose përdoren nëse nuk plotësohen të gjitha kushtet e mëposhtme:
+i. ekziston një procedurë në lidhje me trajtimin e regjistrimeve të tilla audio dhe të transkriptit të tyre;
+ii. të gjithë pilotët dhe personeli i mirëmbajtjes në fjalë kanë dhënë pëlqimin e tyre paraprak;
+iii. regjistrime të tilla audio përdoren vetëm për ruajtjen ose përmirësimin e sigurisë në operim;
+2) kur inspekton regjistrimet audio të një regjistruesi për të siguruar shërbimin e atij regjistruesi, operatori IAM duhet të mbrojë privatësinë e këtyre regjistrimeve audio dhe të sigurohet që ato të mos zbulohen ose përdoren për qëllime të tjera përveç sigurimit të funksionimit të regjistruesit;
+3) Parametrat e fluturimit të regjistruara nga një regjistrues nuk do të përdoren për qëllime të tjera përveçse për hetimin e një aksidenti ose një incidenti që i nënshtrohet raportimit të detyrueshëm, përveç nëse këto regjistrimet plotësojnë ndonjë nga kushtet e mëposhtme:
+i. përdoren nga operatori IAM vetëm për qëllime të vlefshmërisë ajrore ose mirëmbajtjes;
+ii. janë çidentifikuar;
+iii. zbulohen sipas procedurave të sigurta;
+4) me përjashtim të sigurimit të funksionalitetit të një regjistruesi, imazhet e regjistruara në kabinën e ekuipazhit të fluturimit nuk duhet të zbulohen ose përdoren përveç nëse plotësohen të gjitha kushtet e mëposhtme:
+i. ekziston një procedurë në lidhje me trajtimin e regjistrimeve të tilla të imazheve;
+ii. të gjithë pilotët dhe personeli i mirëmbajtjes në fjalë kanë dhënë pëlqimin e tyre paraprak;
+iii. regjistrime të tilla imazhi përdoren vetëm për ruajtjen ose përmirësimin e sigurisë në operim;
+5) kur imazhet e kabinës së ekuipazhit të fluturimit, të regjistruara nga një regjistrues, inspektohen për të siguruar shërbimin e atij regjistruesi, atëherë:
+i. ato imazhe nuk do të zbulohen ose përdoren për qëllime të tjera përveçse për të siguruar shërbimin e regjistruesit;
+ii. nëse pjesët e trupit të pilotëve ose pasagjerëve ka të ngjarë të jenë të dukshme në imazhe, operatori duhet të sigurojë privatësinë e këtyre imazheve.
+IAM.GEN.VCA.200 Transporti i mallrave të rrezikshme sipas një miratimi specifik
+a) Transporti i mallrave të rrezikshme nga ajri duhet të kryhet të paktën në përputhje me aneksin 18 të Konventës së Çikagos dhe udhëzimet teknike të zbatueshme (TI).
+b) Operatori IAM duhet të miratohet për transportin e mallrave të rrezikshme në rrugë ajrore si ngarkesë në përputhje me nënpjesën G të aneksit V (pjesa-SPA).
+c) Operatori IAM duhet të vendosë procedura për të siguruar që janë marrë të gjitha masat e arsyeshme për të parandaluar që mallrat e rrezikshme të padeklaruara ose të të deklaruara jo saktë të transportohen në bord pa dijeni.
+d) Operatori IAM duhet të sigurojë që i gjithë personeli, duke përfshirë personelin e palëve të treta, i përfshirë në pranimin, trajtimin, ngarkimin dhe shkarkimin e ngarkesave, të jetë i informuar për miratimin operacional dhe kufizimet e operatorit në lidhje me transportin e mallrave të rrezikshme nga ajri, dhe sigurohet me informacionin e nevojshëm që u mundëson atyre të kryejnë përgjegjësitë e tyre, siç kërkohet nga TI.
+e) Operatori IAM, në përputhje me TI, do të sigurojë që pasagjerëve t’u sigurohet informacion në lidhje me transportin e mallrave të rrezikshme në bord.
+f) Operatori IAM, në përputhje me TI, do t’i raportojë pa vonesë autoritetit kompetent dhe autoritetit përkatës të shtetit të ngjarjes:
+1) çdo aksident ose incident që përfshin mallra të rrezikshme;
+2) zbulimin e mallrave të rrezikshme të padeklaruara ose të deklaruara jo saktë në ngarkesë ose postë; ose
+3) gjetjen e mallrave të rrezikshme të transportuara nga pasagjerët ose anëtarët e ekuipazhit, ose në bagazhet e tyre, kur nuk është në përputhje me pjesën 8 të TI.
+g) Operatori IAM duhet të sigurojë që njoftimet që japin informacion në lidhje me transportin e mallrave të rrezikshme të jepen në pikat e pranimit të ngarkesave siç kërkohet nga TI.
+IAM.GEN.VCA.205 Transporti i mallrave të rrezikshme pa miratimin specifik
+a) Transporti i mallrave të rrezikshme në rrugë ajrore duhet të kryhet të paktën në përputhje me aneksin 18 të Konventës së Çikagos dhe TI-në e zbatueshme.
+b) Mallrat e rrezikshme duhet të transportohen nga operatorët në bordin e VCA-së pa miratimin specifik të kërkuar sipas nënpjesës G të aneksit V (pjesa-SPA), nëse:
+1) ato nuk i nënshtrohen TI-së në përputhje me pjesën 1 të tij; ose
+2) ato transportohen nga pasagjerët ose ekuipazhi, ose janë në bagazh, në përputhje me pjesën 8 të TI-së.
+c) Operatorët IAM, që nuk janë miratuar në përputhje me nënpjesën G të aneksit V (pjesa-SPA), duhet të krijojnë një program trajnimi për mallrat e rrezikshme që plotëson kërkesat e aneksit 18 të Konventës së Çikagos dhe TI-së në fuqi.
+d) Operatori IAM duhet të sigurojë që pasagjerëve t’u sigurohet informacioni për transportin e mallrave të rrezikshme në përputhje me udhëzimet teknike.
+e) Operatori IAM duhet të vendosë procedura për të siguruar që të gjitha masat e arsyeshme janë marrë për të parandaluar që mallrat e rrezikshme të padeklaruara të transportohen pa dashje në bord.
+f) Operatori IAM, në përputhje me TI, duhet t’i raportojë pa vonesë autoritetit kompetent dhe autoritetit përkatës të shtetit të ngjarjes:
+1) çdo aksident ose incident që përfshin mallra të rrezikshme;
+2) zbulimin e mallrave të rrezikshme të padeklaruara në ngarkesë ose postë; ose
+3) gjetjen e mallrave të rrezikshme të transportuara nga pasagjerët ose anëtarët e ekuipazhit, ose në bagazhet e tyre, kur nuk është në përputhje me pjesën 8 të TI.
+SEKSIONI 2
+Avionët me pilot me aftësi për VTOL (MVCA)
+IAM.GEN.MVCA.050 Qëllimi
+Ky seksion përcakton kërkesa shtesë për operimet IAM me avionë me pilot me aftësi për VTOL (MVCA).
+IAM.GEN.MVCA.135 Aksesi në kabinën e ekuipazhit të fluturimit
+a) Operatori IAM duhet të sigurojë që asnjë person, përveç pilotit të caktuar për një fluturim, të mos pranohet ose të transportohet në kabinën e ekuipazhit të fluturimit, përveç nëse ai person:
+1) është një anëtar i ekuipazhit operativ;
+2) është një përfaqësues i autoritetit kompetent ose autoritetit inspektues, nëse kjo kërkohet për kryerjen e detyrave të tyre zyrtare; ose
+3) lejohet dhe transportohet në përputhje me OM-në e operatorit.
+b) Piloti në komandë duhet të sigurojë që:
+1) pranimi në kabinën e ekuipazhit të fluturimit nuk shkakton shpërqendrim ose ndërhyrje në kryerjen e fluturimit; dhe
+2) të gjithë personat e transportuar në kabinën e ekuipazhit të fluturimit njoftohen me procedurat përkatëse të sigurisë në operim.
+c) Piloti në komandë do të marrë vendimin përfundimtar në lidhje me pranimin në kabinën e ekuipazhit të fluturimit në VCA.
+IAM.GEN.MVCA.180 Dokumentet, manualet dhe informacionet që duhen mbajtur në bord në çdo fluturim
+a) Dokumentet, manualet dhe informacionet e mëposhtme, në letër ose media digjitale, do të mbahen në çdo fluturim me një VCA dhe do të jenë lehtësisht të aksesueshme për qëllime inspektimi:
+1) manuali i fluturimit të avionit (AFM), ose dokumenti/et ekuivalent;
+2) certifikata origjinale e regjistrimit të avionit;
+3) certifikata origjinale e vlefshmërisë ajrore (CofA);
+4) certifikata e zhurmës, duke përfshirë një përkthim në gjuhën angleze, ku një e tillë është dhënë nga autoriteti që është përgjegjës për lëshimin e certifikatës së zhurmës;
+5) një kopje e certifikuar konform certifikatës së operatorit ajror (AOC), duke përfshirë një përkthim në anglisht kur AOC është lëshuar në një gjuhë tjetër;
+6) specifikimet e operimeve të lidhura me llojin e avionit, të lëshuara me AOC-në, duke përfshirë një përkthim në anglisht kur specifikimet e operimit janë lëshuar në një gjuhë tjetër;
+7) licenca origjinale e radios së avionit, nëse është e aplikueshme;
+8) certifikata e siguracionit të përgjegjësisë ndaj palëve të treta;
+9) regjistri i udhëtimit, ose ekuivalenti, për avionin;
+10) të dhënat e vazhdueshmërisë së vlefshmërisë ajrore, sipas rastit;
+11) detajet e planit të paraqitur të fluturimit ATS, nëse është e aplikueshme;
+12) hartat aktuale dhe të përshtatshme aeronautike për itinerarin e fluturimit të propozuar dhe të gjitha rrugët përgjatë të cilave është e arsyeshme të pritet që fluturimi të devijohet;
+13) procedurat dhe informacionet mbi sinjalet vizuale për përdorim nga aeroplanët interceptues dhe të interceptuar.
+14) informacioni në lidhje me shërbimet e kërkim-shpëtimit për zonën e fluturimit të synuar, i cili duhet të jetë lehtësisht i aksesueshëm në avion;
+15) pjesët aktuale të OM që janë të rëndësishme për detyrat e pilotëve, të cilat do të jenë lehtësisht të aksesueshme për ata pilot;
+16) MEL-i;
+17) njoftimet e duhura për aviatorët (NOTAM) dhe dokumentacioni informues i shërbimit të informacionit aeronautik (AIS);
+18) informacioni i duhur meteorologjik;
+19) manifestet e ngarkesave dhe/ose pasagjerëve;
+20) dokumentacioni i masës dhe balancës;
+21) plani operacional i fluturimit, aty ku kërkohet;
+22) njoftimi për kategoritë e veçanta të pasagjerëve (SCP), nëse është e aplikueshme; dhe
+23) çdo dokumentacion tjetër që mund të jetë i lidhur me fluturimin ose që kërkohet nga shtetet e interesuara me fluturimin.
+b) Dokumentet, manualet dhe informacionet që mbahen në çdo fluturim duhet të jenë të aksesueshme për personat e autorizuar, të përdorshëm dhe të besueshëm.
+c) Pavarësisht shkronjës “a”, në rast të humbjes ose vjedhjes së dokumenteve të specifikuara në shkronjën (a)(2) deri në (8), operimi mund të vazhdojë derisa fluturimi të arrijë destinacionin e tij ose në një vend ku mund të sigurohen dokumentet zëvendësuese.
+IAM.GEN.MVCA.181 Dokumentet dhe informacionet që nuk mund të mbahen në bord
+a) Pavarësisht pikës IAM.GEN.MVCA.180, për operimet IAM në përputhje me VFR gjatë ditës, ngritja dhe ulja në të njëjtin vertiport brenda 24 orëve, ose qëndrimi brenda një zone lokale të specifikuar në OM, dokumentet dhe informacionet e mëposhtme mund të mbahen në vertiport në vend që të transportohen në çdo fluturim:
+1) certifikata e zhurmës;
+2) licenca për radio avioni;
+3) regjistri i udhëtimit, ose ekuivalenti;
+4) të dhënat e vazhdueshmërisë së vlefshmërisë ajrore;
+5) njoftimet për aviatorët (NOTAM) dhe dokumentacioni informues i shërbimit të informacionit aeronautik (AIS);
+6) informacioni meteorologjik;
+7) njoftimi për kategoritë e veçanta të pasagjerëve (SCP), nëse është e aplikueshme; dhe
+8) dokumentacioni i masës dhe balancës.
+NËNPJESA B
+PROCEDURAT OPERATIVE
+SEKSIONI 1
+Avionët me aftësi për VTOL (VCA)
+UAM.OP.VCA.050 Qëllimi
+Ky seksion përcakton kërkesat për operimet IAM me avionë me aftësi për VTOL (VCA).
+UAM.OP.VCA.101 Kontrolli i lartësimatësit dhe sistemimi i lartësimatësit
+a) Operatori IAM duhet të vendosë procedurat për kontrollin e lartësisë përpara çdo nisjeje.
+b) Operatori IAM duhet të vendosë procedura për përcaktimet e lartësisë për të gjitha fazat e fluturimit, të cilat do të marrin parasysh procedurat e vendosura nga shteti vertiportit ose, nëse është e aplikueshme, nga shteti i hapësirës ajrore të fluturuar.
+UAM.OP.VCA.125 Rulimi dhe lëvizja në tokë
+a) Operatori IAM duhet të vendosë procedura standarde dhe të kontigjencës për rulimin e VCA-së (në ajër dhe në tokë) dhe për lëvizjen e VCA-së në tokë me qëllim që të sigurojë funksionimin e sigurt të VCA-së në vertiport, vendndodhjen e devijimit ose vendin operativ VEMS. Në veçanti, operatori IAM duhet të marrë në konsideratë rrezikun e përplasjes midis një VCA-je në rulim ose një VCA-je në lëvizje dhe një avioni tjetër ose objekteve të tjera, si dhe rrezikun e lëndimeve të personelit në tokë. Procedurat e operatorit IAM duhet të koordinohen me operatorin e vertiportit, vendndodhjen e devijimit ose vendin operativ, sipas rastit.
+b) VCA duhet të vendoset në zonën e lëvizjes së një vertiporti, vendndodhjen e devijimit ose vendin operativ VEMS:
+1) nga një pilot i kualifikuar siç duhet në kontrollet e VCA; ose
+2) në rastin e rulimit në tokë pa pasagjerë për një qëllim të ndryshëm nga ngritja, nga një person në kontrollet e VCA-së, i caktuar nga operatori IAM, pasi të ketë marrë trajnimin dhe udhëzimet e duhura.
+c) Operatori IAM duhet të sigurojë që lëvizja në tokë e një VCA-je në zonën e lëvizjes së një vertiporti, vendndodhjen e devijimit ose vendndodhjen e operimit VEMS kryhet ose mbikëqyret nga personeli që ka marrë trajnimin dhe udhëzimet e duhura.
+UAM.OP.VCA.130 Procedurat e zvogëlimit të zhurmës
+a) Gjatë zhvillimit të procedurave të operimit, operatori IAM duhet të marrë parasysh nevojën për të minimizuar efektin e zhurmës dhe çdo procedurë të publikuar për zvogëlimin e zhurmës.
+b) Procedurat e operatorit IAM, duhet të:
+1) garantojnë që siguria në operim të ketë përparësi mbi zbutjen e zhurmës; dhe
+2) jenë të thjeshta dhe të sigurta për t’u zbatuar duke mos rritur ndjeshëm ngarkesën e ekuipazhit të fluturimit gjatë fazave kritike të fluturimit.
+UAM.OP.VCA.135 Rrugëkalimet dhe zonat e operimit
+a) Operatori IAM duhet të sigurojë që operimet të kryhen vetëm përgjatë rrugëkalimeve ose brenda zonave për të cilat:
+1) Ofrohen struktura të bazuara në hapësirë, struktura dhe shërbime në tokë dhe shërbime meteorologjike, të përshtatshme për operimin e planifikuar;
+2) janë të disponueshme vertiporte të përshtatshme, vendndodhje devijimi ose vende operimi VEMS që lejojnë ekzekutimin e një uljeje në rastin e dështimit kritik për performancën (CFP) të VCA-së;
+3) performanca e VCA është e përshtatshme për të përmbushur kërkesat e lartësisë minimale të fluturimit;
+4) pajisja e VCA-së plotëson kërkesat minimale për operimin e planifikuar; dhe
+5) janë në dispozicion hartat dhe grafikët e duhur.
+b) Operatori IAM duhet të sigurojë që operimet të kryhen në përputhje me çdo kufizim në rrugët ose zonat e operimit të specifikuara nga autoriteti kompetent.
+UAM.OP.VCA.145 Vendosja e lartësive minimale të fluturimit
+a) Për të gjitha segmentet e rrugëkalimit që do të fluturohen, operatori IAM duhet të vendosë:
+1) lartësitë minimale të fluturimit që sigurojnë hapësirën e kërkuar vertikale nga terreni dhe pengesat, duke marrë parasysh kërkesat përkatëse të nënpjesës C të këtij aneksi dhe minimalet e përcaktuara nga shteti ku kryhet operimi; dhe
+2) një metodë për pilotin për të përcaktuar lartësitë e përmendura në pikën 1.
+b) Metoda për përcaktimin e lartësive minimale të fluturimit miratohet nga autoriteti kompetent.
+c) Kur lartësitë minimale të fluturimit të përcaktuara nga operatori IAM dhe shteti ku kryhet operimi ndryshojnë, do të zbatohen vlerat më të larta.
+UAM.OP.VCA.190 Skema e karburantit/energjisë - e përgjithshme
+a) Operatori IAM duhet të krijojë, zbatojë dhe mirëmbajë një skemë karburanti/energjie që përfshin politika dhe procedura për:
+1) planifikimin e karburantit/energjisë dhe riplanifikimin e karburantit/energjisë gjatë fluturimit;
+2) përzgjedhjen e vertiporteve, lokacioneve të devijimit ose vendeve operative të VEMS; dhe
+3) menaxhimin e karburantit/energjisë gjatë fluturimit.
+b) Skema e karburantit/energjisë duhet të:
+1) të jetë e përshtatshme për operimin e synuar; dhe
+2) korrespondojë me kapacitetin e operatorit IAM për të mbështetur zbatimin e tij.
+c) Skema e karburantit/energjisë duhet të përfshihet në manualin e operimeve.
+d) Skema e karburantit/energjisë dhe çdo ndryshim në të duhet të kërkojë miratimin paraprak të autoritetit kompetent.
+UAM.OP.VCA.191 Skema e karburantit/energjisë - planifikimi i karburantit/energjisë dhe riplanifikimi i karburantit/energjisë gjatë fluturimit
+Operatori IAM duhet të sigurojë që:
+a) VCA mban një sasi të mjaftueshme karburanti/energjie të përdorshme dhe rezerva për të përfunduar në mënyrë të sigurt fluturimin e planifikuar dhe për të lejuar devijime nga operimi i planifikuar;
+b) sasia e planifikuar e karburantit/energjisë së përdorshme për fluturimin e synuar bazohet në të gjitha sa vijon:
+1) të dhënat e konsumit të karburantit/energjisë të ofruara në AFM ose të dhënat aktuale specifike të avionit që rrjedhin nga një sistem monitorimi i konsumit të karburantit/energjisë;
+2) kushtet në të cilat do të kryhet fluturimi, duke përfshirë, por pa u kufizuar në:
+i) performancën e kërkuar për fluturimin e synuar për në destinacion, duke përfshirë vertiportet, vendndodhjet e devijimit ose vendet e operimit, të zgjedhura përgjatë itinerarit;
+ii) masat e parashikuara;
+iii) NOTAMs;
+iv) kushtet e parashikuara meteorologjike;
+v) efektet e artikujve të shtyrë të mirëmbajtjes në përputhje me MEL-in e operatorit IAM dhe/ose të devijimeve të konfigurimit në përputhje me CDL-në e operatorit IAM;
+vi) itinerarin e pritshëm të nisjes dhe mbërritjes, dhe vonesat e parashikuara;
+3) efikasitetin dhe kapacitetin e pajisjeve të ruajtjes së energjisë për kushtet e planifikuara të operimit, duke marrë parasysh degradimin e atyre pajisjeve të ruajtjes së energjisë sipas rastit;
+c) llogaritja para fluturimit të karburantit/energjisë së përdorshme dhe rezervave për një fluturim përfshin:
+1) karburantin/energjinë e rezervës që nuk duhet të jetë më e vogël se sasia që pritet të përdoret para ngritjes;
+2) karburantin/energjinë e udhëtimit që do të jetë sasia e karburantit/energjisë që nevojitet për t’i mundësuar aeroplanit të fluturojë nga ngritja, ose nga pika e riplanifikimit gjatë fluturimit, deri në ulje në vertiportin e destinacionit, vendndodhjen e devijimit ose vendin e operimit, duke marrë parasysh kushtet e operimit të shkronjës (b)(2);
+3) karburantin/energjinë e paparashikuar që do të jetë sasia e karburantit/energjisë së nevojshme për të kompensuar faktorët e paparashikuar që mund të kenë një ndikim në konsumin e karburantit/energjisë deri në vertiportin e destinacionit, vendndodhjen e devijimit ose vendin e operimit;
+4) karburantin/energjia rezervë përfundimtare që do të përcaktohet bazuar në të gjitha sa vijon:
+i. një kohë përfaqësuese e dhënë në AFM për të kryer një kthesë nga një pikë vendimi uljeje (LDP) dhe përsëri në atë LDP duke marrë parasysh performancën minimale të certifikuar (CMP) të VCA;
+ii. kushtet konservative të ambientit nga pikëpamja e konsumit të karburantit/energjisë;
+iii. një konfigurim/shpejtësi të përshtatshme për të kryer procedurat e lëvizjes dhe afrimit;
+iv. konsumi konservativ i karburantit/energjisë;
+5) karburantin/energjinë shtesë që do të jetë sasia e karburantit/energjisë për t’i mundësuar VCA-së të kryejë një ulje të sigurt në një vertiport, vendndodhje devijimi ose vend operimi, të zgjedhur përgjatë rrugës, duke marrë parasysh CMP-në e VCA-së në çdo pikë të rrugës; kjo lëndë djegëse/energji shtesë kërkohet vetëm nëse sasia e karburantit/energjisë që llogaritet sipas shkronjës (c)(2) dhe (c)(3) nuk është e mjaftueshme për një event të tillë;
+6) karburantin/energjinë shtesë për të marrë parasysh vonesat e parashikuara ose kufizimet specifike operacionale; dhe
+7) karburantin/energjinë diskrete, nëse kërkohet nga PIC;
+d) nëse një fluturim duhet të vazhdojë përgjatë një itinerari ose drejt një vertiporti të destinacionit, vendndodhjes së devijimit ose vendndodhjes së operimit të ndryshëm nga ai i planifikuar fillimisht, procedurat e riplanifikimit gjatë fluturimit për llogaritjen e karburantit/energjisë së nevojshme të përdorshme përfshijnë ato të përmendura në shkronjën (b)(2) dhe në shkronjën (c)(2) deri në (6).
+UAM.OP.VCA.195 Skema e karburantit/energjisë - menaxhimi i karburantit/energjisë gjatë fluturimit
+a) Operatori IAM duhet të vendosë politika dhe procedura që sigurojnë që kontrollet e karburantit/energjisë gjatë fluturimit dhe menaxhimi i karburantit/energjisë janë kryer.
+b) PIC do të monitorojë sasinë e karburantit/energjisë së përdorshme që mbetet në VCA për të siguruar që ajo është e mbrojtur dhe jo më pak se karburanti/energjia e nevojshme për të vazhduar drejt vertiportit të destinacionit, vendndodhjes së devijimit ose vendit operativ VEMS ku mund të bëhet një ulje e sigurt.
+c) Kur një ndryshim në leje për të vazhduar në një vertiport specifik, vendndodhje devijimi ose vend operimi VEMS në të cilin PIC është angazhuar të ulet mund të rezultojë në ulje me më pak karburant/energji rezervë përfundimtare të planifikuar, ata duhet të njoftojnë kontrollin e trafikut ajror (ATC) për gjendjen “karburant/energji minimale” duke deklaruar “KARBURANT NË MINIMUM”.
+d) PIC duhet të deklarojë një situatë “emergjente karburanti/energjie” duke transmetuar “MAYDAY MAYDAY MAYDAY FUEL” kur karburanti/energjia e përdorshme që llogaritet të jetë e disponueshme gjatë uljes në vertiportin më të afërt, vendndodhjen e devijimit ose vendin e operimit VEMS ku një ulje e sigurt mund të kryhet është më pak se rezerva përfundimtare e planifikuar e karburantit/energjisë.
+UAM.OP.VCA.210 Pilotët në vendet e tyre të caktuara
+a) Gjatë ngritjes dhe uljes, piloti që kërkohet të jetë në detyrë duhet të jetë në vendin e caktuar.
+b) Gjatë të gjitha fazave të tjera të fluturimit, piloti i kërkuar të jetë në detyrë do të qëndrojë në vendin e caktuar, përveç rasteve kur mungesa është e nevojshme për kryerjen e detyrave në lidhje me operimin ose për nevoja fiziologjike. Kur mungesa është e nevojshme për arsyet e sipërpërmendura, kontrolli i VCA-së do t’i dorëzohet një piloti tjetër të kualifikuar siç duhet.
+c) Gjatë të gjitha fazave të fluturimit, piloti që kërkohet të jetë në detyrë duhet të qëndrojë vigjilent. Nëse piloti konstaton mungesë vigjilence, duhet të merren kundërmasat e duhura.
+UAM.OP.VCA.245 Kushtet meteorologjike
+Operatori IAM duhet të sigurojë që avioni të operohet brenda kufizimeve të operimit të motit për të cilin është certifikuar dhe duke marrë parasysh kushtet aktuale dhe të parashikuara të motit për të gjithë kohëzgjatjen e fluturimit.
+UAM.OP.VCA.250 Akulli dhe ndotësit e tjerë - procedurat në tokë
+a) Operatori IAM duhet të vendosë procedurat që duhen ndjekur kur janë të nevojshme trajtimet kundër ngrirjes dhe kundër akullit në tokë dhe inspektimet përkatëse të VCA-së për operimin e tij të sigurt.
+b) PIC duhet të fillojë ngritjen vetëm nëse VCA është e çliruar nga çdo depozitë që mund të ndikojë negativisht në performancën ose kontrollueshmërinë e saj në përputhje me AFM-në e saj.
+UAM.OP.VCA.255 Akulli dhe ndotësit e tjerë - procedurat e fluturimit
+a) Operatori IAM duhet të vendosë procedura për fluturimet në kushte të pritshme ose aktuale të ngrirjes.
+b) PIC duhet të fillojë fluturimin ose duhet të fluturojë qëllimisht në kushtet e pritshme ose aktuale të ngrirjes vetëm nëse VCA është e certifikuar dhe e pajisur për të operuar në kushte të tilla.
+c) Nëse ngrirja aktuale tejkalon intensitetin e ngrirjes për të cilën është certifikuar avioni, ose nëse një avion i pacertifikuar për fluturim në kushte të njohura ngrirjeje ndeshet me ngrirje, PIC do të dalë nga kushtet e ngrirjes pa vonesë dhe, nëse është e nevojshme, do të deklarojë një emergjencë në ATS.
+UAM.OP.VCA.260 Furnizimi me naftë
+Aty ku është e aplikueshme, PIC duhet të fillojë një fluturim, ose do të vazhdojë në rast të riplanifikimit gjatë fluturimit, vetëm kur bindet se VCA mban të paktën sasinë e planifikuar të naftës për të përfunduar fluturimin në mënyrë të sigurt, duke marrë parasysh kushtet e pritshme të operimit.
+UAM.OP.VCA.265 Kushtet e ngritjes
+Përpara fillimit të ngritjes, PIC duhet të jetë i bindur që:
+a) kushtet meteorologjike në vertiport, vendndodhjen e devijimit ose vendin e operimit të VEMS dhe gjendja e sipërfaqes për ngritje që synohet të përdoret nuk do ta pengojnë PIC të kryejë një ngritje dhe nisje të sigurt; dhe
+b) do të respektohen minimumet e vendosura të operimit për vertiportin, vendndodhjen e devijimit ose vendin e operimit VEMS, sipas rastit.
+UAM.OP.VCA.270 Lartësitë minimale të fluturimit
+PIC nuk duhet të fluturojë nën lartësitë minimale të përcaktuara të fluturimit, përveç:
+a) kur është e nevojshme për ngritje ose ulje; ose
+b) kur zbresin në përputhje me procedurat e miratuara nga autoriteti kompetent.
+UAM.OP.VCA.275 Simulimet e situatave anormale ose emergjente gjatë fluturimit
+Kur transporton pasagjerë ose ngarkesë, PIC nuk duhet të simulojë situata anormale ose emergjente që kërkojnë aplikimin e procedurave jonormale ose emergjente.
+UAM.OP.VCA.290 Detektimi/zbulimi i afërsisë
+Kur afërsia e panevojshme me tokën dhe/ose pengesat e vendosura horizontalisht në lidhje me VCA-në zbulohen nga PIC ose nga një sistem paralajmërimi i afërsisë, PIC do të ndërmarrë menjëherë veprime korrigjuese për të vendosur kushte të sigurta fluturimi.
+UAM.OP.VCA.300 Afrimi dhe kushtet e uljes
+Përpara se të fillojë një operim afrimi, PIC duhet të jetë i bindur, që:
+a) kushtet meteorologjike në vertiport, vendndodhjen e devijimit ose vendin e operimit VEMS nuk do ta pengojnë PIC të kryejë një afrim, ulje ose kthim të sigurt, duke marrë parasysh informacionin e performancës që përmban manuali i operimeve (OM); dhe
+b) respektohen minimumet e vendosura të operimit të vertiportit, ose dukshmëria dhe distanca nga minimumet e reve për fluturimet e kryera në përputhje me VFR gjatë ditës.
+UAM.OP.VCA.315 Orët e fluturimit - raportimi
+Operatori IAM duhet të vërë në dispozicion të autoritetit kompetent sasinë e orëve të fluturimit për çdo VCA të operuar gjatë vitit të kaluar kalendarik.
+SEKSIONI 2
+Avionët me pilot me aftësi për VTOL (MVCA)
+UAM.OP.MVCA.050 Qëllimi
+Ky seksion përcakton kërkesa shtesë për operimet IAM me avionë me pilot me aftësi për VTOL (MVCA).
+UAM.OP.MVCA.100 Përdorimi i shërbimeve të trafikut ajror (ATS)
+Operatori IAM, duhet të sigurojë që:
+a) ATS të përshtatshme për hapësirën ajrore në të cilën kryhet operimi dhe për rregullat e zbatueshme të ajrit përdoren, kurdoherë që është e disponueshme;
+b) udhëzimet operacionale gjatë fluturimit që përfshijnë një ndryshim në planin e fluturimit ATS koordinohen me njësinë përkatëse ATS përpara transmetimit në VCA;
+c) marrëveshjet e shërbimit të kërkimit dhe shpëtimit mund të mbahen sa herë që përdorimi i ATS në hapësirën ajrore në të cilën kryhet operimi nuk është i detyrueshëm për fluturimet VFR gjatë ditës;
+d) për operimet në hapësirën ajrore të përcaktuar nga autoriteti kompetent si hapësirë ajrore U-space dhe që nuk ofrohen shërbime të kontrollit të trafikut ajror (ATC) nga një ofrues i shërbimit të lundrimit ajror (ANSP), VCA bëhet vazhdimisht e dukshme elektronikisht për ofruesit e shërbimeve U-space.
+UAM.OP.MVCA.107 Vertiporti i përshtatshëm dhe vendndodhja e duhur e devijimit
+a) Operatori IAM duhet të përdorë vertiportet e përshtatshëm për operimet e tij normale dhe për devijimin nga rruga e planifikuar sipas nevojës.
+b) Pavarësisht pikës “a”, operatori IAM mund të përdorë një ose më shumë lokacione të përshtatshme devijimi gjatë rrugës për të devijuar nga rruga e planifikuar sipas nevojës.
+c) Një vertiport konsiderohet i përshtatshëm nëse në kohën e pritshme të përdorimit është:
+1) në përputhje me përmasat dhe peshën e VCA-së;
+2) në përputhje me rrugët e afrimit dhe nisjes VCA;
+3) i pajisur me shërbime të shpëtimit dhe të zjarrfikësve (RFFS) dhe shërbime dhe struktura të tjera të nevojshme për operimin e synuar; dhe
+4) i disponueshëm.
+d) Vendi i devijimit konsiderohet i përshtatshëm nëse në kohën e pritshme të përdorimit:
+1) karakteristikat e tij, duke përfshirë përmasat, pengesat dhe gjendjen e sipërfaqes, janë në përputhje me VCA dhe lejojnë uljen në përputhje me një profil të miratuar uljeje;
+2) mund të arrihet brenda CMP-së së VCA-së duke marrë parasysh kufizimet e erës;
+3) ka një nivel të pranueshëm të mbrojtjes RFFS;
+4) është ekzaminuar paraprakisht; dhe
+5) është në dispozicion.
+UAM.OP.MVCA.111 Shikueshmëria dhe distanca nga minimumi i reve - fluturimet VFR
+a) Operatori IAM duhet të vendosë minimumin e shikueshmërisë dhe distancën nga minimumi i reve për fluturimet që do të kryhen në përputhje me VFR gjatë ditës. Këto minimume nuk duhet të jenë më të ulëta se ato të specifikuara në pikën SERA.5001 të aneksit (pjesa-SERA) të urdhrit të ministrit nr. 42, datë 27.3.2023, “Për miratimin e rregullores ’Mbi përcaktimin e rregullave të përbashkëta të ajrit dhe dispozitat operacionale në lidhje me shërbimet dhe procedurat në lundrimin ajror’”, i ndryshuar, për klasën e hapësirës ajrore që fluturohet, përveç rasteve kur lejohet të operohet si një fluturim special VFR.
+b) Kur është e nevojshme, operatori IAM mund të specifikojë në OM kushte shtesë për zbatueshmërinë e këtyre minimumeve duke marrë parasysh faktorë, të tillë: si mbulimi me radio, terreni, natyra e vendeve, kushtet e fluturimit dhe kapaciteti i ATS-së.
+c) Fluturimet duhet të kryhen duke e pasur sipërfaqen në pamje.
+UAM.OP.MVCA.127 Nisja dhe ulja - Fluturime VFR gjatë ditës
+a) Kur kryen një fluturim në përputhje me VFR gjatë ditës, PIC nuk duhet të ngrihet ose të ulet në një vertiport ose vend devijimi, përveç nëse kushtet e motit të raportuara në atë vertiport ose vendin e devijimit janë të barabarta ose më të mira se ato të specifikuara në pikën SERA.5001 ose pika SERA.5005 e aneksit (pjesa-SERA) të urdhrit të ministrit nr. 42, datë 27.3.2023, “Për miratimin e rregullores mbi përcaktimin e rregullave të përbashkëta të ajrit dhe dispozitat operacionale në lidhje me shërbimet dhe procedurat në lundrimin ajror”, i ndryshuar për klasën e hapësirës ajrore që fluturohet.
+b) Kur kushtet e raportuara të motit janë nën ato të kërkuara për ngritje, një ngritje do të fillojë vetëm nëse PIC mund të përcaktojë që shikueshmëria dhe distanca nga minimumet e reve përgjatë zonës së ngritjes janë të barabarta ose më të mira se minimumi i kërkuar.
+c) Kur nuk ka kushte të raportuara të motit, një ngritje do të fillojë vetëm nëse PIC mund të përcaktojë që shikueshmëria dhe distanca nga minimumet e reve përgjatë zonës së ngritjes janë të barabarta ose më të mira se minimumi i kërkuar.
+UAM.OP.MVCA.155 Transporti i kategorive të veçanta të pasagjerëve (SCP)
+a) SCP-të duhet të mbahen në bord në kushte të tilla që garantojnë sigurinë në operim të VCA-së dhe të personave në të sipas procedurave të përcaktuara nga operatori i VCA-së.
+b) SCP-të nuk do të ndahen dhe as nuk do të zënë vende që lejojnë hyrjen e drejtpërdrejtë në daljet e emergjencës ose ku prania e tyre, mund të:
+1) pengojë detyrat e anëtarëve të ekuipazhit;
+2) pengojë aksesin në pajisjet e urgjencës; ose
+3) pengojë evakuimin emergjent të pasagjerëve.
+c) PIC duhet të njoftohet paraprakisht kur SCP-të duhet të transportohen në bord.
+UAM.OP.MVCA.160 Ruajtja e bagazheve dhe ngarkesave
+Operatori IAM duhet të vendosë procedura për të siguruar që:
+a) vetëm bagazhet që mund të ruhen në mënyrë të përshtatshme dhe të sigurt të çohen në hapësirën e rezervuar për pasagjerët; dhe
+b) të gjitha bagazhet dhe ngarkesat në bordin e avionit që mund të shkaktojnë lëndime ose dëmtime, ose të pengojnë korridoret dhe daljet nëse zhvendosen, të ruhen për të parandaluar lëvizjen e tyre.
+UAM.OP.MVCA.165 Sediljet e pasagjerëve
+Në lidhje me një evakuim të mundshëm emergjent, operatori IAM duhet të vendosë procedura për sediljet e pasagjerëve për të siguruar që pasagjerët të jenë të ulur në një pozicion të tillë që të lehtësojnë evakuimin dhe jo ta pengojnë atë.
+UAM.OP.MVCA.170 Informimi i pasagjerëve
+Operatori IAM duhet të sigurojë që pasagjerët:
+a) marrin informacionet dhe demonstrimet e sigurisë në operim me qëllim lehtësimin e ekzekutimit të procedurave të aplikueshme në rast emergjence; dhe
+b) janë të pajisur me material informues për sigurinë në operim, në të cilin udhëzimet e ilustruara tregojnë funksionimin e pajisjeve emergjente dhe daljeve emergjente që mund të përdoren nga pasagjerët.
+UAM.OP.MVCA.175 Përgatitja e fluturimit
+a) Një plan operativ fluturimi (OFP) duhet të plotësohet për çdo fluturim të synuar, duke marrë parasysh hapësirën ajrore në të cilën do të kryhet fluturimi dhe rregullat e zbatueshme të ajrit, performancën e avionit, kufizimet e operimit dhe kushtet përkatëse të pritshme përgjatë itinerarit që do të përshkohet dhe në vertiportin ose vendin e devijimit që do të përdoret.
+b) Fluturimi nuk do të fillojë përveç nëse PIC është i bindur se:
+1) të gjithë artikujt e përcaktuar në pikën 2.c të aneksit V të vendimit të Këshillit të Ministrave nr. 1095, datë 24.12.2020, “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, i ndryshuar në lidhje me vlefshmërinë ajrore dhe regjistrimin e avionit, instrumentet dhe pajisjet, masa dhe vendndodhja e qendrës së gravitetit (CG), bagazhi dhe ngarkesa, dhe kufizimet e operimit të avionëve mund të respektohen;
+2) avioni nuk operohet kundër kërkesave të listës së devijimeve të konfigurimit (CDL);
+3) janë të disponueshme pjesët e manualit të operimeve (OM) që kërkohen për kryerjen e fluturimit të planifikuar;
+4) dokumentet, informacionet shtesë dhe formularët që kërkohen të jenë të disponueshëm nga pika IAM.GEN.MVCA.110 janë në bord, përveç rasteve kur lejohet të mbahen në terren në përputhje me pikën IAM.GEN.MVCA.115;
+5) hartat aktuale, grafikët dhe dokumentacioni përkatës ose të dhënat ekuivalente janë të disponueshme për operimin e synuar të avionit, duke përfshirë çdo devijim që mund të pritet në mënyrë të arsyeshme;
+6) strukturat e bazuara në hapësirë, strukturat në tokë dhe shërbimet që kërkohen për fluturimin e planifikuar janë të disponueshme dhe të përshtatshme;
+7) kërkesat e zbatueshme të specifikuara në OM në lidhje me karburantin/energjinë, vajin, oksigjenin, lartësitë minimale të fluturimit, minimumin e operimit të vertiportit, shikueshmërinë dhe distancën nga minimumi i reve për fluturimet VFR gjatë ditës dhe përzgjedhja e vertiporteve të përshtatshëm dhe vendeve të devijimit mund të respektohen për fluturimin e planifikuar;
+8) qëllimisht e lënë bosh;
+9) kufizimet e mundshme operacionale shtesë mund të respektohen;
+10) çdo ngarkesë e transportuar është e shpërndarë siç duhet dhe e fiksuar në mënyrë të sigurt;
+11) është miratuar një plan fluturimi i shërbimit të trafikut ajror (ATS) dhe është dhënë leja e fluturimit në përputhje me rregullat e zbatueshme të ajrit dhe klasës(at) e hapësirës ajrore në të cilën do të kryhet operimi.
+UAM.OP.MVCA.177 Paraqitja e një plani fluturimi për shërbimet e trafikut ajror (ATS)
+a) Operatori IAM duhet të paraqesë një plan fluturimi ATS siç kërkohet nga rregullat e zbatueshme të ajrit për klasën/at e hapësirës ajrore në të cilën do të kryhet operimi.
+b) Nëse dorëzimi i një plani fluturimi ATS nuk kërkohet nga rregullat e zbatueshme të ajrit për klasat e hapësirës ajrore në të cilën do të kryhet operimi, operatori IAM duhet të sigurojë që informacioni i duhur të depozitohet në njësinë përkatëse ATS për të mundësuar aktivizimin e shërbimetve të sinjalizimit nëse është e nevojshme.
+c) Nëse kërkohet dorëzimi i një plani fluturimi ATS, por është e pamundur të dorëzohet nga vendi ku fillon operimi, plani i fluturimit ATS do të transmetohet sa më shpejt që të jetë e mundur pas ngritjes nga PIC ose operatori IAM.
+UAM.OP.MVCA.192 Skema e karburantit/energjisë - përzgjedhja e vertiporteve dhe vendeve të devijimit
+a) PIC duhet të zgjedhë dhe specifikojë në planin operacional të fluturimit dhe, nëse kërkohet, në planin e fluturimit ATS, për operimet normale, duke përfshirë trajnimin, dhe për qëllimin e devijimit:
+1) të paktën dy opsione të sigurta uljeje në destinacion, të cilat mund të arrihen nga pika e angazhimit për ulje; dhe
+2) një ose më shumë vertiporte ose vendndodhje devijimi për të siguruar ulje të sigurt në rast se një devijim është i nevojshëm pas një CFP në çdo moment gjatë fluturimit.
+b) Për qëllimin e përzgjedhjes së vertiporteve dhe vendndodhjeve të devijimit në përputhje me shkronjën “a”, PIC duhet të marrë parasysh nëse:
+1) kushtet aktuale dhe të parashikuara të motit tregojnë se në kohën e parashikuar të përdorimit, kushtet në vertiportet e përzgjedhura dhe vendndodhjet e devijimit do të jenë në ose mbi minimumin e zbatueshëm të vendosur në përputhje me pikën UAM.OP.MVCA.111;
+2) CMP-ja e VCA-së lejon uljen e sigurt në vertiportet ose vendet e devijimit të zgjedhur;
+3) mbahet çdo miratim operacional shtesë i kërkuar.
+c) PIC duhet të zbatojë kufijtë e duhur të sigurisë në operim për planifikimin e fluturimit për të marrë parasysh përkeqësimin e mundshëm të kushteve meteorologjike në kohën e parashikuar të uljes në krahasim me parashikimin e disponueshëm.
+UAM.OP.MVCA.193 Opsionet e sigurta të uljes në destinacion
+PIC duhet të angazhohet për t’u ulur në një nga opsionet e sigurta të uljes në përputhje me pikën UAM.OP.MVCA.192, kur vlerësimi aktual i kushteve meteorologjike, trafikut dhe kushteve të tjera operacionale tregojnë se një ulje e sigurt mund të kryhet në vendin e caktuar të uljes në kohën e parashikuar të përdorimit.
+UAM.OP.MVCA.200 Furnizimi me karburant ose shkarkimi i veçantë i VCA-së
+a) Furnizimi me karburant ose shkarkimi i veçantë do të kryhet vetëm nëse operatori IAM, ka:
+1) zhvilluar procedura standarde operative në bazë të vlerësimit të rrezikut; dhe
+2) krijuar një program trajnimi për personelin e tij të përfshirë në operime të tilla.
+b) Furnizimi me karburant ose shkarkimi i posaçëm zbatohet për:
+1) furnizimin me karburant me njësi ngritëse dhe shtytëse të ndezura;
+2) furnizimin/shkarkimin e karburantit me pasagjerë që hipin, në bord ose zbresin; dhe
+3) furnizimin/shkarkimin me karburant me prerje të gjerë/wide-cut.
+c) Procedurat e furnizimit me karburant me njësi ngritëse dhe shtytëse të ndezura, dhe çdo ndryshim në këto procedura, do të kërkojë miratimin paraprak të autoritetit kompetent.
+UAM.OP.MVCA.205 Karikimi ose ndërrimi i baterive VCA ndërkohë që pasagjerët hipin, janë në bord ose zbresin
+a) Karikimi ose zëvendësimi i baterive VCA ndërkohë që pasagjerët hipin, janë në bord ose zbresin do të kryhet vetëm nëse operatori IAM ka:
+1) zhvilluar procedura standarde operative në bazë të vlerësimit të rrezikut; dhe
+2) krijuar një program trajnimi për personelin e tij të përfshirë në operime të tilla.
+UAM.OP.MVCA.216 Përdorimi i kufjeve
+a) Çdo pilot që kërkohet të jetë në detyrë në vendin e caktuar duhet të mbajë një kufje me mikrofon boom ose ekuivalent. Kufjet do të përdoren si pajisje kryesore për komunikimet zanore me njësitë ATS.
+b) Pozicioni i kufjeve të mikrofonit boom ose ekuivalenti në kabinë duhet të lejojë përdorimin e tij për komunikime radio me dy drejtime kur VCA është duke ruluar me fuqinë e vet dhe kurdoherë që gjykohet e nevojshme nga PIC.
+UAM.OP.MVCA.220 Mjetet ndihmëse për evakuimin emergjent
+Operatori IAM duhet të vendosë procedura për të siguruar që përpara rulimit ose lëvizjes në tokë, ngritjes dhe uljes, dhe kur është e sigurt dhe praktike për ta bërë këtë, të gjitha mjetet ndihmëse të evakuimit emergjent që aktivizohen automatikisht të jenë të armatosura.
+UAM.OP.MVCA.225 Sedijet, rripat e sigurimit dhe sistemet e frenimit
+a) Pilotët
+Gjatë ngritjes dhe uljes, dhe sa herë që gjykohet e nevojshme nga PIC në interes të sigurisë në operim, çdo pilot duhet të sigurohet siç duhet përmes të gjithë rripave të sigurisë dhe sistemeve mbajtëse të vendosura në sediljet e tyre.
+b) Pasagjerët
+1) Përpara ngritjes dhe uljes, dhe gjatë rulimit ose lëvizjes në tokë, dhe sa herë që konsiderohet e nevojshme në interes të sigurisë në operim, PIC duhet të jetë i bindur që çdo pasagjer në bord të zërë një vend me rripin e tij të sigurimit ose sistemin mbajtës të siguruar siç duhet.
+2) Operatori IAM duhet të përvetësojë dispozita për zënien e shumëfishtë të vendeve të avionit që lejohet vetëm në vendet e specifikuara. PIC duhet të jetë i bindur që sediljet e avionit nuk përdoren për zënie të shumëfishta, përveçse nga një i rritur dhe një foshnjë, me këtë të fundit të siguruar siç duhet nga një rrip sigurimi shtesë ose pajisje tjetër frenuese.
+UAM.OP.MVCA.230 Sigurimi i kabinës së pasagjerëve
+a) Operatori IAM duhet të vendosë procedura për të siguruar që përpara rulimit ose lëvizjes në tokë, ngritjes dhe uljes, të gjitha daljet dhe shtigjet e arratisjes janë të lira.
+b) PIC duhet të sigurojë që përpara ngritjes dhe uljes, dhe sa herë që konsiderohet e nevojshme në interes të sigurisë në operim, të gjitha pajisjet dhe bagazhet të ruhen dhe të sigurohen siç duhet.
+UAM.OP.MVCA.235 Jelekët e shpëtimit
+Operatori IAM duhet të vendosë procedura për të siguruar që, kur operon një VCA mbi ujë, kohëzgjatja e fluturimit dhe kushtet që do të ndeshen gjatë fluturimit të merren parasysh siç duhet kur vendoset nëse jelekët e shpëtimit duhet të vishen nga të gjithë pasagjerët e avionit.
+UAM.OP.MVCA.240 Pirja e duhanit në bord
+PIC nuk duhet të lejojë kurrë pirjen e duhanit në bord.
+UAM.OP.MVCA.245 Kushtet meteorologjike
+a) PIC duhet të:
+1) fillojë fluturimin; ose
+2) nëse është e aplikueshme, vazhdojë përtej pikës nga e cila zbatohet një plan i rishikuar i fluturimit ATS në rast të riplanifikimit gjatë fluturimit;
+3) vazhdojë drejt pikës së planifikuar të vertiportit të destinacionit,
+vetëm kur raportet aktuale meteorologjike ose një kombinim i raporteve dhe parashikimeve aktuale tregojnë se kushtet meteorologjike të pritshme në pikën e nisjes, përgjatë rrugës që do të fluturohet dhe në vertiportin e destinacionit, në momentin e mbërritjes, janë në ose mbi minimumin e planifikimit të vendosur në përputhje me pikën UAM.OP.MVCA.111.
+UAM.OP.MVCA.285 Përdorimi i oksigjenit shtesë
+PIC duhet të sigurojë që të gjithë pilotët e angazhuar në kryerjen e detyrave thelbësore për operimin e sigurt të VCA-së gjatë fluturimit të përdorin oksigjen shtesë në mënyrë të vazhdueshme sa herë që lartësia e kabinës kalon 10 000 ft për një periudhë prej më shumë se 30 minuta dhe sa herë që lartësia e kabinës kalon 13. 000 ft.
+UAM.OP.MVCA.295 Përdorimi i sistemit të shmangies së përplasjeve ajrore (ACAS)
+Operatori IAM duhet të krijojë procedura operacionale dhe programe trajnimi kur një ACAS është i instaluar dhe i përdorshëm në mënyrë që ekuipazhi i fluturimit të jetë i trajnuar siç duhet për shmangien e përplasjeve dhe të jetë i aftë në përdorimin e pajisjeve ACAS II.
+NËNPJESA C
+PERFORMANCA DHE KUFIZIMET E OPERIMIT TË AVIONËVE ME AFTËSI PËR VTOL (VCA)
+UAM.POL.VCA.050 Qëllimi
+Kjo nënpjesë përcakton kërkesat e performancës dhe kufizimet e operimit për operimet IAM me avionë të aftë për VTOL (VCA).
+UAM.POL.VCA.100 Lloji i operimit
+VCA duhet të operohet në përputhje me kërkesat e zbatueshme të performancës për llojin e synuar të operimit që do të kryhet.
+UAM.POL.VCA.105 Të dhënat e performancës së avionëve me aftësi për VTOL (VCA).
+VCA duhet të operohet në përputhje me të dhënat e certifikuara të performancës dhe kufizimet e përfshira në AFM.
+UAM.POL.VCA.110 Kërkesat e përgjithshme të performancës
+a) Masa e VCA:
+1) në fillim të ngritjes; ose
+2) në rast të riplanifikimit gjatë fluturimit, në pikën nga e cila zbatohet plani operacional i rishikuar i fluturimit;
+nuk duhet të jetë më e madhe se masa në të cilën kërkesat e kësaj nënpjese mund të përmbushen për fluturimin që do të kryhet, duke marrë parasysh reduktimet e pritshme të masës gjatë fluturimit dhe shkarkimin e karburantit, sipas rastit.
+b) Të dhënat e miratuara të performancës të përfshira në AFM duhet të përdoren për të përcaktuar përputhshmërinë me kërkesat e kësaj nënpjese, të plotësuara sipas nevojës me të dhëna të tjera siç përshkruhet në kërkesën përkatëse. Operatori IAM duhet të specifikojë të dhëna të tjera në manualin e operimeve (OM). Kur zbatohen faktorët e përshkruar në këtë nënpjesë, çdo faktor operacional i përfshirë tashmë në të dhënat e performancës të përfshira në AFM do të konsiderohet për të shmangur aplikimin e dyfishtë të faktorëve.
+c) Kur tregohet përputhshmëria me kërkesat e kësaj nënpjese, duhet të merren parasysh parametrat e mëposhtëm:
+1) masa e VCA;
+2) konfigurimi i VCA;
+3) kushtet mjedisore, në veçanti:
+i. dendësia e lartësisë;
+ii. era:
+A) përveç siç parashikohet në shkronjën “C”, për ngritjen, trajektorjen e ngritjes dhe uljes, korrigjimi për erën nuk duhet të jetë më shumë se 50% e çdo komponenti të erës së kundërt të qëndrueshme e raportuar e barabartë ose më shumë se 5 kt;
+B) kur lejohet ngritja dhe ulja me një komponent të erës së pasme në AFM, dhe në të gjitha rastet për trajektorjen e ngritjes, korrigjimi për erën e pasme nuk duhet të jetë më pak se 150% e çdo komponenti të raportuar të erës;
+C) kur pajisjet e sakta matëse të erës mundësojnë matjen e saktë të shpejtësisë së erës në pikën e ngritjes dhe uljes, komponentët e erës mbi 50 % mund të merren parasysh nga operatori IAM, me kusht që operatori IAM t’i demonstrojë autoritetit kompetent që afërsia me FATO dhe përmirësimet e saktësisë së pajisjeve matëse të erës ofrojnë një nivel të barabartë sigurie në operim;
+4) teknikat e operimit; dhe
+5) operimi i çdo sistemi që ka një efekt negativ në performancën e VCA-së.
+UAM.POL.VCA.115 Përgjegjësia e pengesave
+Për operimet në/nga zonat përfundimtare të afrimit dhe ngritjes (FATO), operatori IAM, gjatë planifikimit para fluturimit dhe për qëllime të llogaritjeve të pastrimit të pengesave:
+a) konsideron një pengesë të vendosur përtej FATO-s, në trajektoren e fluturimit të ngritjes ose në shtegun e fluturimit të afrimit të humbur, nëse distanca e saj anësore deri në pikën më të afërt në sipërfaqe nën trajektoren e synuar të fluturimit nuk është më larg se sa vijon:
+1) për fluturimet që do të kryhen në përputhje me VFR:
+i. “0,75 × D”;
+ii. plus më i madhi prej “0,25 × D” ose “3 m”;
+iii. plus:
+A) 0,10 × distancën DR për operimet nën VFR gjatë ditës; ose
+B) Qëllimisht e lënë bosh;
+b) konsideron një pengesë të vendosur në zonën rezervë ose të tranzicionit anësor për ngritje duke përdorur një procedurë rezervë ose tranzicioni anësor, nëse distanca e saj anësore nga pika më e afërt në sipërfaqe nën shtegut të synuar të fluturimit nuk është më larg se:
+1) “0,75 × D”;
+2) plus më i madhi prej “0,25 × D” ose “3 m”;
+3) plus:
+i. 0,10 × distancën DR për operimet nën VFR gjatë ditës; ose
+ii. Qëllimisht e lënë bosh;
+c) shpërfillë pengesat që ndodhen përtej FATO-s në shtegun e fluturimit të ngritjes ose në shtegun e fluturimit të afrimit të humbur nëse distanca e tyre anësore deri në pikën më të afërt në sipërfaqe nën shtegun e synuar të fluturimit është më larg se sa vijon:
+1) 3 × D për operimet e ditës VFR nëse sigurohet se saktësia e lundrimit mund të arrihet duke iu referuar shenjave të përshtatshme vizuale gjatë ngjitjes;
+2) qëllimisht e lënë bosh.
+UAM.POL.VCA.120 Nisja
+a) Masa e ngritjes së VCA-së nuk duhet të kalojë masën maksimale të ngritjes të specifikuar në AFM për procedurën ose procedurat e certifikuara të ngritjes që do të përdoren.
+b) Operatori IAM duhet të marrë parasysh:
+1) parametrat e duhur të pikës UAM.POL.VCA.110(c); dhe
+2) pengesat e konstatuara në përputhje me pikën UAM.POL.VCA.115.
+c) Përveç kësaj, për operimet VCA nga një FATO:
+1) masa e ngritjes duhet të jetë e tillë që:
+i. të jetë e mundur të refuzohet ngritja dhe ulja në FATO nëse një CFP është njohur në ose përpara pikës së vendimit për ngritje (TDP);
+ii. distanca e kërkuar e ngritjes së refuzuar (RTODRV) nuk e kalon distancën e disponueshme të ngritjes së refuzuar (RTODAV); dhe
+iii. TODRV nuk e kalon TODAV-në, përveç rasteve kur VCA me një CFP të njohur në ose përpara TDP-së mundet, kur vazhdon ngritjen, të kalojë të gjitha pengesat në fund të TODRV me një diferencë vertikale prej jo më pak se 10,7 m (35 ft).
+2) Kjo pjesë e ngritjes deri dhe duke përfshirë TDP do të kryhet në pamje të sipërfaqes në mënyrë që një ngritje e refuzuar të mund të kryhet në mënyrë të sigurt.
+d) Për ngritjet duke përdorur një procedurë rezervë ose tranzicioni anësor, me një CFP të njohur në ose përpara TDP-së, të gjitha pengesat në zonën rezervë ose të tranzicionit anësor do të pastrohen me një diferencë të përshtatshme.
+UAM.POL.VCA.125 Rruga e fluturimit të ngritjes
+a) Nga fundi i distancës së ngritjes së kërkuar për VCA (TODRV), pas një CFP që njihet në ose pas pikës së vendimit të ngritjes (TDP):
+1) masa e ngritjes duhet të jetë e tillë që shtegu i fluturimit të ngritjes të sigurojë hapësirë vertikale, mbi të gjitha pengesat e vendosura në shtegun e ngjitjes, prej jo më pak se 10,7 m (35 ft) për operimet nën VFR gjatë ditës;
+2) kur bëhet një ndryshim i drejtimit prej më shumë se 15°, duhet të sigurohet aftësia për të ruajtur gradientin e ngjitjes në përputhje me kërkesat e kalimit të pengesave në përputhje me AFM; ky ndryshim i drejtimit nuk duhet të fillojë përpara se të arrijë një lartësi prej 61 m (200 ft) mbi sipërfaqen e ngritjes, përveç nëse është pjesë e një procedure ngritjeje të miratuar në AFM.
+b) Kur tregohet përputhshmëria me shkronjën “a”, parametrat përkatës të pikës UAM.POL.VCA.110(c) do të merren parasysh në vertiportin, vendndodhjen e devijimit ose vendin e operimit të nisjes.
+UAM.POL.VCA.130 Rrugëkalimi
+a) Masa e VCA-së dhe shtegu i fluturimit në të gjitha pikat përgjatë itinerarit pas një dështimi kritik për performancën (CFP), dhe duke marrë parasysh kushtet meteorologjike të pritura për fluturimin, duhet të lejojnë pajtueshmërinë me sa vijon:
+1) Qëllimisht e lënë bosh.
+2) Qëllimisht e lënë bosh.
+3) Masa e VCA-së do të lejojë operimin e saj në ose mbi nivelin minimal të përcaktuar në përputhje me pikën SERA.5005(f) të aneksit (pjesa-SERA) të urdhrit të ministrit nr. 42, datë 27.3.2023, “Për miratimin e rregullores ’Mbi përcaktimin e rregullave të përbashkëta të ajrit dhe dispozitat operacionale në lidhje me shërbimet dhe procedurat në lundrimin ajror”’, i ndryshuar, dhe një zbritje nga lartësia e lundrimit në pikën e vendimit të uljes (LDP) mbi vertiport, vendndodhjen e devijimit ose vendin e operimit ku mund të kryhet ulja në përputhje me pikën UAM.POL.VCA.135.
+b) Kur tregohet përputhshmëria me shkronjën “a”, duhet të zbatohen të gjitha sa vijon:
+1) CFP supozohet të ndodhë në pikën më kritike përgjatë rrugëkalimit;
+2) konsiderohen efektet e erërave në shtegun e fluturimit;
+3) shkarkimi i karburantit, nëse është e aplikueshme, planifikohet të kryhet vetëm në një masë që është në përputhje me arritjen në vertiport, vendndodhjen e devijimit ose vendin e operimit me rezervat e nevojshme të karburantit/energjisë dhe duke përdorur një procedurë të sigurt; dhe
+4) shkarkimi i karburantit, nëse është e aplikueshme, nuk është planifikuar nën 300 m (1 000 ft) mbi terren.
+UAM.POL.VCA.135 Ulja
+a) Masa e uljes së VCA-së në kohën e parashikuar të uljes nuk duhet të kalojë masën maksimale të specifikuar në AFM për procedurën e certifikuar të uljes që do të përdoret.
+b) Operatori IAM do të marrë parasysh:
+1) parametrat përkatës të pikës UAM.POL.VCA.110(c); dhe
+2) pengesat e konstatuara në përputhje me pikën UAM.POL.VCA.115.
+c) Nëse një dështim kritik për performancën (CFP) njihet në çdo moment në ose përpara pikës së vendimit të uljes (LDP), është e mundur që të ulet dhe ndalohet brenda pistës ose FATO-s, ose të kryhet një ulje e pandërprerë duke kaluar të gjitha pengesat në rrugën e fluturimit me një diferencë vertikale prej 10,7 m (35 ft).
+d) Nëse një CFP njihet në çdo pikë në ose pas LDP-së, është e mundur të ulet dhe të ndalet brenda pistës ose FATO-s duke kaluar të gjitha pengesat në rrugën e afrimit.
+UAM.POL.VCA.140 Pesha, balanca dhe ngarkesa
+a) Gjatë çdo faze të operimit, ngarkesa, pesha dhe qendra e gravitetit (CG) e VCA-së duhet të jenë në përputhje me kufizimet e specifikuara në AFM, ose manualin e operimeve (OM), nëse janë më kufizuese.
+b) Operatori IAM duhet të përcaktojë peshën dhe CG-në e çdo avioni që operon përmes peshimit efektiv përpara hyrjes në shërbim fillestar dhe më pas në intervale prej 4 vjetësh nëse përdoren masa individuale VCA, ose në intervale prej 9 vjetësh nëse përdoren peshat e flotës. Efektet e akumuluara të modifikimeve dhe riparimeve në peshën dhe ekuilibrin e avionit do të merren parasysh dhe dokumentohen siç duhet. VCA duhet të ripeshohet nëse efekti i modifikimeve në peshën dhe ekuilibrin e tij nuk dihet saktësisht.
+c) Peshimi duhet të kryhet nga prodhuesi i avionit ose nga një organizatë e miratuar mirëmbajtjeje.
+d) Operatori IAM duhet të përcaktojë peshën e të gjithë artikujve operativë dhe anëtarëve të ekuipazhit (pilotët dhe, nëse është e aplikueshme, ekuipazhi teknik), të përfshirë në peshën e thatë operative të VCA-së, përmes peshimit efektiv ose duke përdorur pesha standarde. Duhet të përcaktohet ndikimi i pozicionit të tyre në CG të avionit.
+e) Operatori IAM duhet të përcaktojë peshën e ngarkesës së trafikut, duke përfshirë çdo ngarkesë të veçantë, duke peshuar ose duke përcaktuar peshën e ngarkesës së trafikut në përputhje me peshat standarde të pasagjerëve dhe, nëse është e aplikueshme, të bagazheve.
+f) Operatori IAM mund të përdorë pesha standarde për elemente të tjera të ngarkesës nëse i tregon autoritetit kompetent se këto elemente kanë të njëjtën peshë ose se peshat e tyre janë brenda tolerancave të përcaktuara.
+g) Operatori IAM duhet të përcaktojë peshën e ngarkesës së karburantit dhe/ose të njësisë së ruajtjes së energjisë si më poshtë:
+1) për ngarkesën e karburantit, duke përdorur densitetin efektiv ose, nëse nuk dihet, densitetin e llogaritur në përputhje me një metodë të specifikuar në manualin e operimeve (OM);
+2) për njësinë e ruajtjes së energjisë, duke peshuar ose duke përdorur pesha standarde të specifikuara në OM.
+h) Operatori IAM duhet të sigurojë që ngarkimi i:
+1) VCA kryhet nën mbikëqyrjen e personelit të kualifikuar; dhe
+2) trafikut është në përputhje me të dhënat e përdorura për llogaritjen e peshës dhe balancës së avionit.
+i) Operatori IAM duhet të jetë në përputhje me kufijtë strukturorë shtesë si kufizimet e forcës së dyshemesë, ngarkesën maksimale për metër linear, peshën maksimale për ndarje ngarkese dhe kufirin maksimal të ndenjëseve.
+j) Operatori IAM duhet të specifikojë në OM parimet dhe metodat e aplikuara për ngarkesën dhe në sistemin e peshës dhe balancës që plotësojnë kërkesat e shkronjave nga “a” deri në “i”. Ky sistem duhet të mbulojë të gjitha llojet e operimeve të synuara të operatorit.
+UAM.POL.VCA.145 Të dhënat e peshës dhe balancës, dhe dokumentacioni i peshës dhe balancës
+a) Operatori IAM duhet të krijojë të dhëna për peshën dhe balancën dhe duhet të prodhojë dokumentacionin për peshën dhe balancën përpara çdo fluturimi, duke specifikuar ngarkesën dhe shpërndarjen e saj. Dokumentacioni i peshës dhe balancës duhet t’i mundësojë PIC-së të përcaktojë që ngarkesa dhe shpërndarja e saj është e tillë që kufijtë e masës dhe ekuilibrit të avionit të mos tejkalohen. Dokumentacioni i peshës dhe balancës duhet të përmbajë informacionin e mëposhtëm:
+1) regjistrimin dhe llojin e VCA-së;
+2) identifikimin e fluturimit, numrin dhe datën;
+3) emrin e plotë të PIC;
+4) emrin e plotë të personit që ka përgatitur dokumentacionin;
+5) peshën e thatë operative dhe CG përkatëse të avionit:
+6) peshën e karburantit ose të njësisë së ruajtjes së energjisë në ngritje, dhe peshën e karburantit të udhëtimit;
+7) peshën e materialeve të konsumit të ndryshme nga karburanti, nëse është e aplikueshme;
+8) komponentët e ngarkesës së trafikut, duke përfshirë pasagjerët, bagazhet, mallrat dhe ngarkesat e veçanta;
+9) peshën e ngritjes, peshën e uljes dhe peshën me karburant zero;
+10) pozicionet e aplikueshme CG të avionit; dhe
+11) peshën kufizuese dhe vlerat CG.
+Informacioni i mësipërm do të jetë i disponueshëm në dokumentet e planifikimit të fluturimit ose në sistemet e peshës dhe balancës.
+b) Kur të dhënat e peshës dhe balancës dhe dokumentacioni i peshës dhe balancës gjenerohen nga një sistem i kompjuterizuar i peshës dhe balancës, operatori duhet:
+1) të verifikojë integritetin e të dhënave dalëse për të siguruar që të dhënat janë brenda kufizimeve të AFM; dhe
+2) specifikojë udhëzimet dhe procedurat për përdorimin e tij në manualin e tij të operimeve (OM);
+c) Personi që mbikëqyr ngarkesën e avionit duhet të konfirmojë me nënshkrim të shkruar me dorë ose ekuivalent se ngarkesa dhe shpërndarja e saj janë në përputhje me dokumentacionin e peshës dhe balancës të dhënë PIC. PIC duhet të tregojë pranimin e tyre me nënshkrim të shkruar me dorë ose ekuivalent.
+d) Operatori IAM duhet të specifikojë procedurat për ndryshimet e momentit të fundit të ngarkesës për të siguruar që:
+1) çdo ndryshim i minutës së fundit pas plotësimit të dokumentacionit të peshës dhe balancës vihet në vëmendje të PIC dhe futet në dokumentet e planifikimit të fluturimit që përmbajnë dokumentacionin e peshës dhe balancës;
+2) specifikohet ndryshimi maksimal i minutës së fundit të lejuar në numrat e pasagjerëve ose ngarkesën e stivës; dhe
+3) përgatitet dokumentacioni i ri i peshës dhe balancës nëse tejkalohet numri maksimal i pasagjerëve.
+NËNPJESA D
+INSTRUMENTET, TË DHËNAT DHE PAJISJET
+SEKSIONI 1
+Avionët me aftësi për VTOL (VCA)
+UAM.IDE.VCA.050 Qëllimi
+Ky seksion përcakton kërkesat për operimet IAM me avionë të aftë për VTOL (VCA).
+UAM.IDE.VCA.100 Instrumentet dhe pajisjet
+a) Instrumentet, të dhënat dhe pajisjet e kërkuara nga kjo nënpjesë, si dhe nga kërkesat e certifikimit të tipit dhe kërkesat e hapësirës ajrore, duhet të instalohen ose mbahen në VCA sipas kushteve në të cilat do të kryhet operimi.
+Instrumentet dhe pajisjet e kërkuara nga kjo nënpjesë, si dhe nga kërkesat e certifikimit të tipit dhe kërkesat e hapësirës ajrore, duhet të miratohen në përputhje me kërkesat e zbatueshme të vlefshmërisë ajrore, me përjashtim të pikave të mëposhtme:
+1) kutitë e ndihmës së parë;
+2) pajisjet e mbijetesës dhe sinjalizimit;
+3) spirancat e detit dhe pajisje për ankorim; dhe
+4) pajisjet për mbajtjen e fëmijëve.
+b) Instrumentet dhe pajisjet që nuk kërkohen nga ky aneks, si dhe çdo pajisje tjetër që nuk kërkohet në përputhje me këtë rregullore, por që mbahen gjatë fluturimit, duhet të jenë në përputhje me sa vijon:
+1) informacioni i dhënë nga këto instrumente, pajisje ose aksesorë nuk do të përdoret nga piloti në përputhje me aneksin II dhe me pikën 2.1 të aneksit IX të vendimit të Këshillit të Ministrave nr. 1095, datë 24.12.2020, “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, i ndryshuar ose me pikat UAM.IDE.MVCA.330, UAM. IDE.MVCA.335 dhe UAM.IDE.MVCA.345 të këtij aneksi; dhe
+2) instrumentet dhe pajisjet nuk duhet të ndikojnë në aftësinë fluturuese të avionit, edhe në rast të dështimit ose mosfunksionimit.
+c) Nëse pajisjet do të përdoren nga piloti në vendin e tyre të caktuar gjatë fluturimit, ato duhet të instalohen në mënyrë që të jenë lehtësisht të operueshme nga ai vend. Kur një pajisje e vetme do të përdoret nga më shumë se një person në vendet e tyre të caktuara, ajo duhet të instalohet në mënyrë që të funksionojë lehtësisht nga çdo vend.
+d) Ato instrumente që përdoren nga piloti duhet të rregullohen në mënyrë që t’i lejojnë pilotit të shohë lehtësisht indikacionet nga vendi i caktuar me devijimin minimal praktik nga pozicioni dhe linja e shikimit që merr zakonisht piloti kur shikon përpara përgjatë shtegut të fluturimit.
+e) Të gjitha pajisjet e nevojshme emergjente duhet të jenë lehtësisht të aksesueshme për përdorim të menjëhershëm.
+UAM.IDE.VCA.105 Pajisjet minimale të nevojshme për një fluturim
+Një fluturim nuk do të fillojë kur ndonjë nga instrumentet e avionit, elementet e pajisjeve ose funksionet e kërkuara për fluturimin e synuar nuk funksionojnë ose mungojnë, përveç nëse:
+a) avioni operohet në përputhje me listën minimale të pajisjeve të operatorit (MEL); ose
+b) operatori miratohet nga autoriteti kompetent për të operuar avionin brenda kufizimeve të listës së pajisjeve minimale kryesore (MMEL) në përputhje me pikën ORO.MLR.105(j) të aneksit III.
+SEKSIONI 2
+Avionët me pilot me aftësi për VTOL (MVCA)
+UAM.IDE.MVCA.050 Qëllimi
+Ky seksion përcakton kërkesa shtesë për operimet IAM me avionë me pilot me aftësi për VTOL (MVCA).
+UAM.IDE.MVCA.115 Dritat operative
+Një VCA që operon nën VFR gjatë ditës duhet të pajiset me drita kundër përplasjes.
+UAM.IDE.MVCA.125 Instrumentet e fluturimit dhe pajisjet përkatëse
+a) VCA duhet të pajiset me instrumentet dhe pajisjet e fluturimit të specifikuara në miratimin e tij të certifikimit të tipit për fluturimet që do të kryhen në përputhje me VFR-në gjatë ditës.
+b) Instrumentet dhe pajisjet shtesë të fluturimit duhet të instalohen ose mbahen në VCA, sipas nevojës, sipas kushteve të pritshme të operimit dhe ngarkesës së ekuipazhit.
+UAM.IDE.MVCA.140 Pajisjet për matjen dhe vizualizimin e karburantit/energjisë
+a) VCA duhet të pajiset me mjete për matjen dhe shfaqjen te piloti në fluturim të sasisë së mbetur të përdorshme të karburantit/energjisë.
+b) Një vlerësim i kujdesshëm i sasisë së karburantit/energjisë së nevojshme për të përfunduar pjesën e mbetur të fluturimit duhet t’i shfaqet pilotit në fluturim, përveç rasteve kur sigurohet me mjete të tjera sipas pikës UAM.OP.VCA.195(a).
+UAM.IDE.MVCA.145 Pajisjet për përcaktimin e lartësisë
+a) VCA, për fluturimet mbi ujë, duhet të pajiset me një mjet për të përcaktuar lartësinë e avionit në lidhje me sipërfaqen e ujit, të aftë për të lëshuar një paralajmërim audio nën një vlerë të paracaktuar dhe një paralajmërim vizual në një lartësi të zgjedhur nga piloti, kur funksionon:
+1) në një distancë nga toka që korrespondon me më shumë se 3 minuta kohë fluturimi me shpejtësi normale lundrimi;
+2) qëllimisht e lënë bosh;
+3) qëllimisht e lënë bosh;
+4) larg pamjes së tokës.
+UAM.IDE.MVCA.170 Sistemi i interfonit të ekuipazhit
+Për operimet me më shumë se një anëtar të ekuipazhit, VCA duhet të pajiset me një sistem interfoni, duke përfshirë kufjet dhe mikrofonat, për t’u përdorur nga të gjithë anëtarët e ekuipazhit.
+UAM.IDE.MVCA.180 Sistemi i adresave publike (PAS)
+VCA duhet të pajiset me një PAS, përveç rastit kur operatori IAM është në gjendje të demonstrojë se kur është në fluturim, zëri i pilotit është i dëgjueshëm dhe i kuptueshëm në të gjitha vendet e pasagjerëve.
+UAM.IDE.MVCA.185 Regjistruesi i zërit në kabinë (CVR)
+a) Një VCA me një MCTOM prej më shumë se 5 700 kg duhet të pajiset me një CVR.
+b) CVR duhet të jetë në gjendje të ruajë të dhënat e regjistruara gjatë të paktën 2 orëve të mëparshme.
+c) CVR duhet të regjistrojë duke iu referuar një afati kohor në mjete të tjera përveç shiritit magnetik ose telit magnetik:
+1) komunikimet zanore të transmetuara ose të marra në kabinën e ekuipazhit të fluturimit me radio;
+2) komunikimet zanore të anëtarëve të ekuipazhit duke përdorur sistemin e interfonit dhe sistemin e adresave publike (PAS), nëse është i instaluar;
+3) mjedisin zanor të kabinës së ekuipazhit të fluturimit, duke përfshirë sinjalet audio të marra nga mikrofoni i ekuipazhit të fluturimit;
+4) sinjalet zanore ose audio që identifikojnë ndihmat e navigimit ose afrimit të futura në një kufje ose një altoparlant.
+d) CVR, në varësi të disponueshmërisë së energjisë elektrike, duhet të regjistrojë sa më shpejt që të jetë e mundur gjatë kontrolleve të kabinës në fillim të fluturimit përpara se VCA të jetë në gjendje të lëvizë me fuqinë e vet derisa në kontrollet e kabinës së pilotimit menjëherë pas fikjes së njësive të ngritjes dhe shtytjes në fund të fluturimit. Në çdo rast, CVR duhet të fillojë automatikisht të regjistrojë përpara se avioni të lëvizë me fuqinë e tij dhe duhet të vazhdojë të regjistrojë deri në përfundimin e fluturimit.
+e) Një funksion për të modifikuar regjistrimet CVR duhet të jetë në dispozicion të PIC në mënyrë që regjistrimet e bëra përpara aktivizimit të këtij funksioni të mos mund të merren duke përdorur teknikat normale të riprodhimit ose kopjimit.
+f) Nëse CVR nuk mund të dislokohet, ai duhet të ketë një pajisje për të ndihmuar në vendosjen e tij nën ujë me një kohë minimale transmetimi nënujor prej 90 ditësh. Nëse CVR është i dislokueshëm, ai duhet të ketë një transmetues automatik të lokalizimit të urgjencës (ELT).
+UAM.IDE.MVCA.190 Regjistruesi i të dhënave të fluturimit (FDR)
+a) Një VCA me një MCTOM prej më shumë se 5 700 kg duhet të pajiset me një FDR që përdor një metodë dixhitale të regjistrimit dhe ruajtjes së të dhënave dhe për të cilën disponohet një metodë e marrjes së lehtë të këtyre të dhënave nga suporti i ruajtjes.
+b) FDR duhet të regjistrojë parametrat e kërkuar për të përcaktuar me saktësi shtegun e fluturimit, shpejtësinë, qëndrimin, fuqinë e motorit(ve), funksionimin, konfigurimin dhe çdo parametër që është vendosur gjatë certifikimit të tipit të VCA-së dhe duhet të jetë në gjendje të mbajë të dhënat e regjistruara gjatë të paktën 25 orëve të mëparshme.
+c) Të dhënat duhet të merren nga burimet e VCA-së që mundësojnë korrelacion të saktë me informacionin e shfaqur te pilotët.
+d) FDR duhet të fillojë automatikisht të regjistrojë të dhënat jo më vonë se VCA është në gjendje të lëvizë me fuqinë e vet dhe do të ndalojë automatikisht pas fikjes së njësive të ngritjes dhe shtytjes në fund të fluturimit.
+e) Nëse FDR nuk është i dislokueshëm, ai duhet të ketë një pajisje për të ndihmuar në vendosjen e tij nën ujë me një kohë minimale transmetimi nënujor prej 90 ditësh. Nëse FDR është i dislokueshëm, ai duhet të ketë një ELT automatik.
+UAM.IDE.MVCA.191 Regjistruesi i fluturimit
+a) Një VCA me një MCTOM prej 5 700 kg ose më pak duhet të pajiset me një regjistrues fluturimi.
+b) Regjistruesi i fluturimit duhet të regjistrojë me anë të të dhënave të fluturimit dhe/ose imazheve informacione të mjaftueshme për të përcaktuar rrugën e fluturimit dhe shpejtësinë e avionit, si dhe:
+1) audion nga kabina e ekuipazhit të fluturimit në operimet me shumë ekuipazh dhe VEMS; ose
+2) komunikimet radio me njësitë e shërbimit të trafikut ajror (ATS), aty ku është e aplikueshme.
+c) Regjistruesi i fluturimit duhet të jetë në gjendje të ruajë të dhënat dhe/ose imazhet e fluturimit, si dhe audion, të regjistruara gjatë të paktën 5 orëve të mëparshme.
+d) Regjistruesi i fluturimit duhet të fillojë automatikisht të regjistrojë përpara se VCA të jetë në gjendje të lëvizë me fuqinë e vet dhe do të ndalojë automatikisht pas fikjes së njësive të ngritjes dhe shtytjes në fund të fluturimit.
+e) Nëse regjistruesi i fluturimit regjistron imazhe ose audio të ndarjes së ekuipazhit të fluturimit, një funksion për të modifikuar regjistrimet e imazhit dhe audios duhet të jetë në dispozicion të PIC, në mënyrë që regjistrimet e bëra përpara aktivizimit të këtij funksioni të mos mund të merren duke përdorur teknika normale të riprodhimit ose kopjimit.
+f) Si një alternativë ndaj shkronjave “b” dhe “c”, disa të dhëna fluturimi, imazhe ose audio mund të transmetohen dhe regjistrohen nga distanca nëse miratohen si pjesë e certifikimit të tipit të avionit.
+UAM.IDE.MVCA.200 Regjistruesi i kombinuar i të dhënave të fluturimit dhe zërit të kabinës së pilotimit
+Pajtueshmëria me kërkesat CVR dhe FDR mund të arrihet duke transportuar një regjistrues të kombinuar.
+UAM.IDE.MVCA.205 Sediljet, rripat e sigurimit, sistemet e fiksimit dhe pajisjet e mbajtjes së fëmijëve (CRD)
+a) VCA do të pajiset me:
+1) një sedilje ose shtrat të vogël për çdo person në bord që është 24 muajsh ose më shumë;
+2) një rrip sigurie me një sistem fiksimi në pjesën e sipërme të bustit për përdorim në çdo sedilje pasagjeri dhe rripa fiksues në çdo shtrat;
+3) një pajisje mbajtëse për fëmijë (CRD) për çdo person në bord që është më i vogël se 24 muaj; dhe
+4) një sistem fiksimi me katër pika në pjesën e sipërme të bustit që përfshin një rrip sigurie me dy rripa shpatullash, në çdo sedilje të pilotit.
+b) Një rrip sigurie me sistem fiksimi të pjesës së sipërme të trupit duhet:
+1) të ketë një pikë të vetme për t’u liruar; dhe
+2) në sediljen e pilotit, të inkorporojë një pajisje që do të frenojë automatikisht bustin e pasagjerit në rast të ngadalësimit të shpejtë.
+UAM.IDE.MVCA.210 Shenjat “LIDHNI RRIPIN E SIGURIMIT” dhe “NDALOHET PIRJA E DUHANIT”
+VCA duhet të pajiset me një mjet për t’u treguar të gjithë personave në bord se kur duhet të vendosen rripat e sigurimit dhe se duhanpirja nuk lejohet në asnjë moment.
+UAM.IDE.MVCA.220 Kutitë e ndihmës së parë
+a) VCA duhet të pajiset me të paktën një çantë të ndihmës së parë.
+b) Kutitë e ndihmës së parë duhet të jenë:
+1) lehtësisht të aksesueshme për përdorim;
+2) mbahen të përditësuara.
+UAM.IDE.MVCA.240 Oksigjeni shtesë - avioni pa presion
+VCA pa presion që operohet në lartësi presioni mbi 10 000 ft duhet të pajiset me pajisje shtesë oksigjeni të afta për të ruajtur dhe shpërndarë oksigjen në përputhje me tabelën e mëposhtme:
+Tabela. Kërkesat minimale në lidhje me oksigjenin shtesë në avionët pa presion
+|Furnizimi për: |Kohëzgjatja e fluturimit dhe lartësia e presionit të kabinës |
+|Personi/ët që piloton avionin |Për të gjithë kohën e fluturimit në lartësitë e presionit mbi 13 000 ft dhe për |
+| |çdo periudhë që i kalon 30 minutat në lartësi presioni mbi 10 000 ft, por jo më |
+| |shumë se 13 000 ft. |
+|100 % e pasagjerëve (1) |Për të gjithë kohën e fluturimit në lartësi mbi presion mbi 13 000 ft. |
+|10 % e pasagjerëve (1) |Për të gjithë kohën e fluturimit përtej 30 minutave në lartësi presioni mbi 10 |
+| |000 ft, por jo më shumë se 13 000 ft. |
+UAM.IDE.MVCA.250 Fikset portative të zjarrit
+a) VCA duhet të pajiset me të paktën një fikse portative të zjarrit në kabinën e ekuipazhit të fluturimit, i cili duhet të jetë lehtësisht i aksesueshëm për përdorim.
+b) Të paktën një fikse portative e zjarrit duhet të vendoset në kabinën e pasagjerëve nëse fiksja portative e vendosur në kabinën e ekuipazhit të fluturimit nuk mund të aksesohet lehtësisht nga pasagjerët.
+c) Lloji dhe sasia e agjentit të shuarjes së zjarrit të fikseve portative duhet të jenë të përshtatshme për llojin e zjarrit që mund të ndodhë në kabinën ku synohet të përdoret fiksja portative e zjarrit dhe për të minimizuar rrezikun e përqendrimit të gazit toksik në kabinat e zëna nga personat.
+UAM.IDE.MVCA.260 Shënimi i pikave të thyerjes
+Nëse shënohen zona në trupin e avionit të VCA-së që janë të përshtatshme për t’u depërtuar nga ekuipazhet e shpëtimit në rast emergjence, këto zona duhet të shënohen siç tregohet në figurën më poshtë.
+[pic]
+UAM.IDE.MVCA.275 Ndriçimi dhe sinjalizimi emergjent
+VCA-ja duhet të pajiset, me:
+a) një sistem ndriçimi emergjent të pavarur nga furnizimi normal me energji elektrike VCA për të lehtësuar evakuimin e pasagjerëve nga avioni; dhe
+b) shenjat e sinjalizimit dhe vendndodhjes së daljeve emergjente të dukshme në dritën e ditës, në errësirë dhe në një kabinë të mbushur me tym.
+UAM.IDE.MVCA.280 Transmetuesit e lokalizimit së emergjencës (ELT)
+VCA duhet të pajiset (instalohet) me të paktën një ELT automatik të miratuar ose, si alternativë, me një pajisje tjetër të tillë automatike të aprovuar për gjurmimin e avionit në kombinim me një radiofener lokalizues që do t’u mundësojë shërbimeve të shpëtimit që të vihen në gatishmëri, të arrijnë vendin e aksidentit dhe të lokalizojnë me saktësi të mbijetuarit.
+UAM.IDE.MVCA.300 Fluturimet mbi ujë
+a) Një VCA që transporton pasagjerë duhet të certifikohet:
+1) për ankorim (ulje në ujë), kur operohet mbi ujë në një det armiqësor në një distancë nga toka që korrespondon me më shumë se 10 minuta kohë fluturimi me shpejtësi normale lundrimi;
+2) për ankorim (ulje në ujë) ose pluskim emergjent, kur operohet mbi ujë në një det joarmiqësor në një distancë nga toka që korrespondon me më shumë se 10 minuta kohë fluturimi me shpejtësi normale lundrimi;
+3) për operimet e kufizuara mbi ujë, nëse nuk plotësojnë kriteret e përmendura në shkronjën (a)(1) ose (a) (2), dhe kur zbatohen një ose më shumë nga kushtet e mëposhtme:
+i. koha totale e fluturimit mbi ujë është më e gjatë se 3 minuta;
+ii. ulja ose ngritja kryhet mbi ujë.
+b) Një VCA që nuk transporton pasagjerë duhet të certifikohet:
+1) për ankorim (ulje në ujë) ose pluskim emergjent, kur operohet mbi ujë në një distancë nga toka që korrespondon me më shumë se 10 minuta kohë fluturimi me shpejtësi normale lundrimi;
+2) për operimet e kufizuara mbi ujë, nëse nuk plotësojnë kriteret e përmendura në shkronjën (b)(1) dhe kur zbatohen një ose më shumë nga kushtet e mëposhtme:
+i. koha totale e fluturimit mbi ujë është më e gjatë se 3 minuta;
+ii. ulja ose ngritja kryhet mbi ujë.
+c) Një VCA që operon në ujë duhet të certifikohet për operimet në ujë përveç plotësimit të kritereve të përmendura në shkronjën “a” ose “b”.
+d) Një VCA që operon në sipërfaqet pluskuese duhet të certifikohet për operimet në sipërfaqet pluskuese përveç plotësimit të kritereve të përmendura në shkronjën “a” ose “b”.
+e) VCA duhet të mbajë një ELT mbijetese (ELT(S)) që është pluskuese dhe mund të aktivizohet automatikisht për fluturimet mbi ujë, me përjashtim të operimeve të kufizuara mbi ujë.
+UAM.IDE.MVCA.305 Jelekët e shpëtimit dhe pajisjet e tjera
+a) Përveç sa specifikohet në shkronjën “c” për fluturimet mbi ujë siç përcaktohet në pikën UAM.IDE.MVCA.300, VCA duhet të pajiset minimalisht me një jelek shpëtimi për çdo person në bord, të vendosur në një pozicion që është lehtësisht i aksesueshëm nga sedilja ose shtrati i personit, i cilit është parashikuar të përdoret me sistemin e fiksimit të mbërthyer. Nëse nuk është e mundur që jelekët e shpëtimit të jenë lehtësisht të aksesueshëm me sistemin e fiksimit të mbërthyer, çdo person duhet të veshë një jelek shpëtimi ose, nëse ai person është më i vogël se 24 muaj, një pajisje ekuivalente pluskimi.
+b) Çdo jelek shpëtimi ose pajisje ekuivalente individuale për pluskim duhet të pajiset me një mjet ndriçimi elektrik për qëllimin e lehtësimit të lokalizimit të personave në ujë.
+c) Për fluturimet mbi ujë në një det armiqësor në një distancë nga toka që korrespondon me më shumë se 10 minuta kohë fluturimi me shpejtësi normale lundrimi, me qëllim mbështetjen e aktiviteteve që lidhen me burimet e energjisë jo të rinovueshme dhe të rinovueshme dhe mbështetjen për mjetet lundruese:
+1) çdo person në bord duhet të veshë një jelek shpëtimi gjatë gjithë operimit, përveç rasteve kur vishen kostume të integruara mbijetese që plotësojnë kërkesat e kombinuara të kostumit të mbijetesës dhe jelekut të shpëtimit;
+2) çdo person në bord duhet të veshë një kostum mbijetese sipas nevojës në lidhje me temperaturën e ujit dhe kohën e parashikuar të shpëtimit; niveli i izolimit të ofruar duhet të jetë i mjaftueshëm për kushtet mbizotëruese dhe jo i tepruar;
+3) çdo person në bord duhet të mbajë me vete një sistem të frymëmarrjes emergjente (EBS) dhe duhet të udhëzohet për përdorimin e tij.
+UAM.IDE.MVCA.310 Gomonet e shpëtimit
+a) VCA-ja duhet të pajiset me një ose më shumë gomone shpëtimi për fluturimet mbi ujë në një zonë detare armiqësore në një distancë nga toka që korrespondon me më shumë se 10 minuta kohë fluturimi me shpejtësi normale lundrimi ose duhet të mbajë të paktën një gomone shpëtimi të ruajtur në mënyrë që të lehtësojë përdorimin në rast emergjence për fluturimet mbi ujë në një det joarmiqësor në një distancë nga toka që korrespondon me më shumë se 10 minuta kohë fluturimi me shpejtësi normale lundrimi. Gomonet e shpëtimit duhet të kenë kapacitet të mjaftueshëm, veçmas ose së bashku, për të akomoduar të gjithë personat e transportuar në bordin e VCA-së.
+b) Të gjitha gomonet e shpëtimit të kërkuara duhet të lejojnë përdorimin e tyre në rast emergjence.
+c) Çdo gomone shpëtimi e kërkuar duhet të përmbajë të paktën një ELT(S).
+d) Çdo gomone shpëtimi e kërkuar duhet të jetë e përdorshme në kushtet e detit në të cilat karakteristikat e ankorimit, pluskimit dhe rregullimit të VCA-së janë vlerësuar për qëllime certifikimi.
+e) Çdo gomone shpëtimi e kërkuar duhet të përmbajë pajisje shpëtimi, duke përfshirë mjetet e jetesës, sipas nevojës për fluturimin që do të ndërmerret.
+UAM.IDE.MVCA.311 Pajisjet e mbijetesës
+a) Një VCA që operon në zona ku kërkimi dhe shpëtimi do të ishte veçanërisht i vështirë duhet të pajiset me:
+1) pajisje sinjalizimi për të dërguar sinjale shpëtimi;
+2) të paktën një ELT(S); dhe
+3) pajisje shtesë mbijetese për itinerarin që do të fluturohet duke marrë parasysh numrin e personave në bord.
+UAM.IDE.MVCA.315 Pajisjet për operimet në ujë
+a) Një VCA e certifikuar për operimin në ujë duhet të jetë e pajisur me:
+1) një spirancë deti pluskuese dhe pajisje të tjera të nevojshme për të lehtësuar ankorimin ose manovrimin e VCA-së në ujë, të përshtatshme për madhësinë, peshën dhe karakteristikat e tij të manovrimit; dhe
+2) pajisje për lëshimin e sinjaleve akustike të përshkruara në rregulloret ndërkombëtare për parandalimin e përplasjeve në det, aty ku është e aplikueshme.
+UAM.IDE.MVCA.325 Kufjet
+VCA do të pajiset me një kufje me mikrofon boom ose ekuivalent dhe një buton transmetimi në komandat e fluturimit për çdo pilot të VCA në vendin e caktuar.
+UAM.IDE.MVCA.330 Pajisjet e radiokomunikimit
+a) VCA duhet të pajiset me të paktën një sistem radio komunikimi të lidhur me furnizimin kryesor me energji elektrike të avionit dhe me shumë sisteme të tjera radiokomunikimi sa që nevojiten për llojin e operimit që do të kryhet dhe klasën/at e hapësirës ajrore, në të cilën do të kryhet operimi.
+b) Pajisjet e radiokomunikimit duhet të lejojnë ekuipazhet e fluturimit në kushte normale operimi të:
+1) komunikojnë me stacionet e duhura në tokë nga çdo pikë e rrugës, duke përfshirë devijimet;
+2) komunikojnë me stacionet e duhura ATC-në nga çdo pikë në hapësirën ajrore të kontrolluar brenda së cilës synohet të operohen fluturimet; dhe
+3) marrin informacione meteorologjike.
+c) Pajisja e radiokomunikimit duhet të lejojë komunikimin në frekuencën emergjente aeronautike 121,5 MHz.
+UAM.IDE.MVCA.345 Pajisjet e lundrimit
+a) VCA duhet të pajiset me pajisje lundrimi për fluturimet në përputhje me VFR-në gjatë ditës dhe në përputhje me kërkesat e zbatueshme të hapësirës ajrore.
+b) VCA duhet të pajiset me pajisje të mjaftueshme lundrimi për të siguruar që, në rast të dështimit të një pajisjeje në çdo fazë të fluturimit, pajisjet e mbetura do të lejojnë lundrim të sigurt në përputhje me planin e fluturimit.
+UAM.IDE.MVCA.350 Transponderët
+Kur kërkohet nga klasa e hapësirës ajrore që fluturohet, VCA-ja që operohet nën VFR-në gjatë ditës duhet të pajiset me një transponder dytësor të radarit të mbikëqyrjes (SSR) me të gjitha aftësitë e kërkuara.
+UAM.IDE.MVCA.355 Menaxhimi i bazave të të dhënave aeronautike
+a) Operatori IAM, duhet:
+1) të sigurojë që bazat e të dhënave aeronautike që do të përdoren në aplikacionet e sistemit të certifikuar të avionëve plotësojnë kërkesat e cilësisë së të dhënave që janë të përshtatshme për përdorimin e synuar të të dhënave;
+2) të sigurojë shpërndarjen dhe përditësimin në kohë të bazave të të dhënave aeronautike aktuale dhe të pandryshuara për të gjithë avionët që i kërkojnë ato;
+3) t’i raportojë ofruesit të bazës së të dhënave rastet e të dhënave të gabuara, jokoherente ose të munguara që mundet në mënyrë të arsyeshme të përbëjnë një rrezik për fluturimin, pavarësisht nga çdo kërkesë tjetër për raportimin e ngjarjeve siç përcaktohet në urdhrin e ministrit të Infrastrukturës dhe Energjisë nr. 89, datë 5.5.2022, “Për miratimin e rregullores për raportimin dhe ndjekjen e ngjarjeve në Aviacionin Civil në Republikën e Shqipërisë”, që përafron rregulloren e (BE-së) nr. 376/2014. Në raste të tilla, operatori IAM duhet të informojë të gjithë personelin në fjalë dhe duhet të sigurojë që të dhënat e prekura të mos përdoren.
 -----------------------
 [1] Ky urdhër përafron rregulloren e Komisionit (BE) nr. 965/2012, të datës 5 tetor 2012, për përcaktimin e kërkesave teknike dhe të procedurave administrative, në lidhje me operacionet ajrore, në përputhje me rregulloren (KE) nr. 216/2008 të Parlamentit Evropian dhe të Këshillit, botuar në Fletoren Zyrtare të BE-së, L 296/2012, të ndryshuar me rregulloret e Komisionit (BE) nr. 800/2013, të 14 gusht 2013, nr. 71/2014 e 27 janarit 2014, nr. 83/2014 e 29 janarit 2014, nr. 379/2014 e 7 prillit 2014, nr. 2015/140 e 29 janarit 2015, nr. 2015/640 e 23 prillit 2015, nr. 2015/1329 e 31 korrikut 2015, nr. 2015/2338, e 11 dhjetorit 2015, nr. 2016/1199 e 22 korrikut 2016, nr. 2017/363 e 1 marsit 2017, nr. 2018/394 e 13 marsit 2018, nr. 2018/1042 e 23 korrikut 2018, nr. 2018/1975 e 14 dhjetorit 2018, nr. 2019/1384 e 24 korrikut 2019, nr. 2019/1387 e 1 gushtit 2019, nr. 2020/2036 e 9 dhjetorit 2020, nr. 2021/1296 e 4 gushtit 2021, nr. 2021/2237 e 15 dhjetorit 2021, nr. 2022/2203 e 11 nëntorit 2022, nr. 2023/217 e 1 shkurtit 2023 nr. 2023/203 e 2 shkurtit 2023, nr. 2023/1020 e 24 majit 2023, botuar në Fletoret Zyrtare të BE-së: L 227/2013, L 23/2014, L 28/2014, L 123/2014, L 24/2015, L 106/2015, L 206/2015, L 330/2015, L 198/2016, L 55/2017, L 71/2018, L 188/2018 dhe L 53/2018, L 228/2019, L 229/2019, L 416/2020, L 282/2021, L 450/2021, L 293/3, L 30/11, L 31/1 dhe L 137/1.
