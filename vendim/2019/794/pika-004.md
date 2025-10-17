@@ -1,2 +1,3 @@
-4. Vlera e përgjithshme e shpronësimit prej 6 244 373 (gjashtë milionë e dyqind e dyzet e katër mijë e treqind e shtatëdhjetë e tre) lekë do të përballohet nga buxheti i vitit 2019, zëri “Shpronësime”, miratuar për Autoritetin Rrugor Shqiptar, në programin buxhetor “Transporti rrugor”.
+4. Vlera e përgjithshme e shpronësimit prej 6 998 021 (gjashtë milionë e nëntëqind e nëntëdhjetë e tetë mijë e njëzet e një) lekë do të përballohet nga buxheti i vitit 2019, zëri “Shpronësime”, miratuar për Autoritetin Rrugor Shqiptar, në programin buxhetor “Transporti rrugor”.
 4.1 Vlera shtesë e shpronësimit prej 4 475 454 (katër milionë e katërqind e shtatëdhjetë e pesë mijë e katërqind e pesëdhjetë e katër) lekësh përballohet nga buxheti i Autoritetit Rrugor Shqiptar.
+4.2 Vlera shtesë e shpronësimit, prej 753 648 (shtatëqind e pesëdhjetë e tre mijë e gjashtëqind e dyzet e tetë) lekësh, përballohet nga buxheti i shtetit, llogaria “Fondi i shpronësimeve”, në Bankën e Shqipërisë.

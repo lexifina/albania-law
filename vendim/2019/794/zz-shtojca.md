@@ -836,3 +836,99 @@ Totali
 98
 2662660
 4,475,454.00
+LISTA EMËRORE PËRFUNDIMTARE E SHPRONËSIMIT PËR PROJEKTIN, “PËR DISA SHTESA DHE NDRYSHIME NË VKM-në NR. 794, DATË 11.12.2019, TË KËSHILLIT TË MINISTRAVE, ’PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA ’NDËRTIMI I SEGMENTIT RRUGOR ’RRUGA E ARBËRIT’’”, TË NDRYSHUAR
+Nr.
+Pronari
+Të dhëna (mbi pasurinë sipas ASHK-së)
+Vlerësimet për shpronësim sipas llojit
+Vlera totale (lekë)
+Shënime
+Adresa
+Emër
+Atësi
+Mbiemër
+Zona kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sipërfaqja totale
+Sip. e shpronësimit (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+1
+Said
+Ramazan
+Canaj
+1263
+728/3
+Arë
+3020
+586
+448
+262,528.0
+262,528.0
+Tiranë, Brar
+Astrit
+Said
+Canaj
+Durim
+Said
+Canaj
+2
+Kujtim
+Osman
+Sinani
+3444
+5/75.
+Arë
+715
+140
+100
+14,000.0
+14,000.0
+Bulqizë
+3
+Ylber
+Selman
+Hoxha
+1171
+515
+Arë
+4259
+147
+448
+65,856.0
+65,856.0
+Tiranë Besh
+Arben
+Selman
+Hoxha
+Aishe
+Ylber
+Hoxha
+Melisa
+Ylber
+Hoxha
+4
+Ylber
+Selman
+Hoxha
+1171
+507/1
+Arë
+1461
+918
+448
+411,264.0
+411,264.0
+Tiranë Besh
+Arben
+Selman
+Hoxha
+Aishe
+Ylber
+Hoxha
+Melisa
+Ylber
+Hoxha
+Vlera totale
+753,648.0
