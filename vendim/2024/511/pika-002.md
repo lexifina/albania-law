@@ -1,1 +1,0 @@
-2. Vendimi nr. 668, datë 10.11.2021, i Këshillit të Ministrave, “Për miratimin e listës së mallrave ushtarake dhe të listës së artikujve e teknologjive me përdorim të dyfishtë, objekt i kontrollit shtetëror të transferimeve ndërkombëtare”, shfuqizohet.
