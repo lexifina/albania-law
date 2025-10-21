@@ -1,0 +1,9 @@
+# Vendim (mospranimi) nr. 255, datë 21.10.2025 (Gjykata Kushtetuese)
+
+Court: Gjykata Kushtetuese (Constitutional Court of Albania). Kind: decision not to admit an application to plenary review (inadmissibility decision).
+Number: 255. Decision date: 2025-10-21 (read from the heading of the official PDF: “Vendim nr.255 datë 21.10.2025”).
+
+Official text (PDF, 10 pages): <https://www.gjykatakushtetuese.gov.al/wp-content/uploads/2025/11/vend.mosk_.25525.pdf>.
+Official media record: <https://www.gjykatakushtetuese.gov.al/wp-json/wp/v2/media/52621> (title “vend.mosk.255’25”, listed 2025-11-25T15:26:12 UTC).
+
+Metadata record: the Court publishes its decisions with the applicants' names (not anonymised), so the parties, the object and the text are not reproduced here.
