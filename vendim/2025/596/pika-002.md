@@ -1,0 +1,1 @@
+2. Vendimi nr. 511, datë 1.8.2024, i Këshillit të Ministrave, “Për miratimin e listës së përditësuar të mallrave ushtarake dhe të listës së artikujve e teknologjive me përdorim të dyfishtë, objekt i kontrollit shtetëror të transferimeve ndërkombë-tare”, shfuqizohet.

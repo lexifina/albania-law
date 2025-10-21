@@ -1,0 +1,1 @@
+1. Miratimin e listës së mallrave ushtarake dhe të listës së artikujve e teknologjive me përdorim të dyfishtë, përkatësisht, sipas shtojcave I dhe II, që i bashkëlidhen këtij vendimi, të cilat janë objekt i kontrollit shtetëror të transferimeve ndërkombëtare.
