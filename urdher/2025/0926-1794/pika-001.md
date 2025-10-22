@@ -1,0 +1,1 @@
+1. Zëvendësministrja e Mbrojtjes, znj. Blerina Abrazhda, ngarkohet të ndjekë, të monitorojë dhe të koordinojë me drejtoritë në përbërje të Ministrisë së Mbrojtjes, institucionet e varësisë, shoqëritë me aksionar shtetin që përfshihen në këtë fushë, ministritë e tjera dhe të përgjigjet para ministrit mbi proceset e lidhura me zhvillimin e industrisë ushtarake.
