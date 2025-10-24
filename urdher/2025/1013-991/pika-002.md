@@ -1,0 +1,1 @@
+2. Urdhri nr. 139/1, datë 7.4.2017, “Për substancat aktive farmakologjike dhe klasifikimin e tyre në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore”, i ndryshuar, shfuqizohet.

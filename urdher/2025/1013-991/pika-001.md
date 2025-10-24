@@ -1,0 +1,1 @@
+1. Përcaktimin e substancave farmakologjikisht aktive dhe klasifikimin e tyre në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore, sipas shtojcës 1, bashkëlidhur dhe pjesë përbërëse e këtij urdhri.

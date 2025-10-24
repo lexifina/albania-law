@@ -1,0 +1,1 @@
+4. Neni 14 i rregullores “Mbi procedurat për vendosjen e kufijve të mbetjeve të lëndëve aktive farmakologjike në ushqimet me origjinë shtazore”, miratuar me urdhrin nr. 363, datë 3.1.2013, “Për miratimin e rregullores ’Mbi procedurat për vendosjen e kufijve të mbetjeve të lëndëve aktive farmakologjike në ushqimet me origjinë shtazore’”, shfuqizohet.

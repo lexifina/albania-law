@@ -1,0 +1,2 @@
+5. Për zbatimin e këtij urdhri ngarkohen Drejtoria e Politikave Veterinare në Drejtorinë e Përgjithshme të Zhvillimit në Fushën e Sigurisë Ushqimore, Veterinarisë, Mbrojtjes së Bimëve dhe Peshkimit, Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve, Autoriteti Kombëtar i Ushqimit dhe Instituti i Sigurisë Ushqimore dhe Veterinarisë.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
