@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rehabilitimi i hapësirës së pallateve në kryqëzimin e rrugës “Kujtim Laro” dhe “Kongresi i Manastirit”, Bashkia Tiranë”.
