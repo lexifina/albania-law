@@ -1,0 +1,10 @@
+6. Procedura për mbledhjen dhe administrimin e tarifës është, si më poshtë vijon:
+a) Transportuesit, brenda datës 5 (pesë) të çdo muaji, paraqesin pranë Sektorit të Inteligjencës së Udhëtimit raportimin e të dhënave për pasagjerët e transportuar në muajin paraardhës;
+b) Sektori i Inteligjencës së Udhëtimit, brenda 5 (pesë) ditëve punë, verifikon dhe konfirmon të dhënat për numrin e pasagjereve dhe ia paraqet këto operatorit ekonomik që do të ofrojë shërbimin e transmetimit dhe të transformimit të informacionit të udhëtimit;
+c) Operatori ekonomik, brenda 5 (pesë) ditëve nga konfirmimi i Sektorit të Inteligjencës së Udhëtimit, prodhon dhe i njofton faturën mujore përkatëse çdo transportuesi të detyruar për transmetimin e të dhënave, bazuar në numrin e pasagjerëve dhe për të cilët janë transmetuar të dhënat e udhëtimit;
+ç) Një kopje e faturës së prodhuar i dërgohet Sektorit të Inteligjencës së Udhëtimit, së bashku me informacionin lidhur me momentin e njoftimit të faturës transportuesit;
+d) Pagesa kryhet nga transportuesi në llogarinë e operatorit ekonomik që do të ofrojë shërbimin e transmetimit të informacionit të udhëtimit, brenda 30 (tridhjetë) ditëve nga momenti i njoftimit të faturës;
+dh) Në rast mospagese të tarifës, sipas afateve të përcaktuara në këtë pikë, zbatohen parashikimet e ligjit nr. 48/2014, “Për pagesat e vonuara në detyrimet kontraktore e tregtare”, të ndryshuar;
+e) Administrimi i tarifës kryhet nga operatori ekonomik që do të ofrojë shërbimin për transmetimin dhe për transformimin e informacionit të udhëtimit, dhe përdoret për qëllimin për të cilin është vendosur tarifa;
+ë) Operatori ekonomik ka detyrimin për të siguruar transparencë të plotë në administrimin e tarifës, duke mbajtur të dhëna të sakta dhe të gjurmueshme për çdo pagesë të kryer nga transportuesit ose nga operatorët e tyre përfaqësues;
+f) Operatori ekonomik është i detyruar të raportojë çdo tremujor te Sektori i Inteligjencës së Udhëtimit për numrin e transportuesve të mbuluar, shërbimet e kryera dhe vlerën e përgjithshme të tarifave të arkëtuara. Raportet shoqërohen me dokumentacion mbështetës financiar dhe teknik.

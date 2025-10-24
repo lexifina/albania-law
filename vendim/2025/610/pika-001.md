@@ -1,0 +1,1 @@
+1. Ky vendim përcakton rregullat, masën, përjashtimet nga sanksionet dhe procedurën për mbledhjen dhe administrimin e tarifës, që paguhet nga transportuesit që transmetojnë informacionin e udhëtimit në sistemet e Sektorit të Inteligjencës së Udhëtimit.
