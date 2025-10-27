@@ -1,0 +1,5 @@
+URDHËR
+Nr. 137, datë 30.9.2025
+PËR MIRATIMIN E RREGULLORES “PËR KUSHTET TEKNIKE PËR NDËRVEPRIMIN NË LIDHJE ME AKSESUESHMËRINË E SISTEMIT HEKURUDHOR PËR PERSONAT ME AFTËSI TË KUFIZUARA DHE PERSONAT ME LËVIZSHMËRI TË REDUKTUAR, IDENTIFIKIMIN E BARRIERAVE, MONITORIMIN DHE RAPORTIMIN E PROGRESIT TË AKSESUESHMËRISË”
+Në zbatim të pikës 4, të nenit 102, të Kushtetutës; të nenit 135, të ligjit nr. 142/2016, datë 22.12.2016, “Kodi Hekurudhor i Republikës së Shqipërisë”; të nenit 70, të ligjit nr. 9590, datë 27.7.2006, “Për ratifikimin e marrëveshjes së stabilizim-asociimit ndërmjet Republikës së Shqipërisë dhe Komuniteteve Evropiane e shteteve të tyre anëtare”; të vendimit të Këshillit të Ministrave nr. 621, datë 10.10.2024, “Për miratimin e dokumentit të politikës ’Agjenda Kombëtare e Reformave 2024-2027’”, në kuadër të instrumentit të Bashkimit Evropian “Faciliteti për reforma dhe rritje për Ballkanin Perëndimor”, R 1.1.5. Ofrimi i sistemeve të transportit elektronik dhe inteligjent të mallrave,
+URDHËROJ:

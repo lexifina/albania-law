@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për kushtet teknike për ndërveprimin në lidhje me aksesueshmërinë e sistemit hekurudhor për personat me aftësi të kufizuara dhe personat me lëvizshmëri të reduktuar, identifikimin e barrierave, monitorimin dhe raportimin e progresit të aksesueshmërisë”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
