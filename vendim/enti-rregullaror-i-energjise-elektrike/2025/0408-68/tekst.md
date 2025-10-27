@@ -4,6 +4,10 @@ Nr. 68, datë 8.4.2025
 
 MBI LICENCIMIN E SHOQËRISË “RENEW” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA CENTRALI FOTOVOLTAIK ME KAPACITET PRODHUES 2 mw
 
+(Ndryshuar me vendimin nr. 269, datë 27.10.2025)
+
+(I përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a”, 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 8.4.2025, mbasi shqyrtoi relacionin me nr. 1452/1prot., datë 4.4.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘Renew’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -58,13 +62,13 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Renew” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet prodhues 2 mw, me vendndodhje në zonën kadastrale nr. 3358, Njësia Administrative Topojë, Bashkia Fier, qarku Fier, për një afat 30-vjeçar.
 
-2. Shoqëria duhet të raportojë në ERE, në lidhje me fillimin e punimeve për ndërtimin e centralit, brenda datës 31.8.2025.
+2. Shfuqizuar.
 
-3. Shoqëria duhet të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 30.9.2025.
+3. Shoqëria duhet të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 11.6.2026.
 
 4. Me fillimin e operimit, jo më vonë se 60 (gjashtëdhjetë) ditë nga data e fillimit të operimit, shoqëria duhet të dokumentojë në ERE testimin e veprës, si dhe duhet të përditësojë në ERE informacionin mbi strukturën organizative të shoqërisë, e cila duhet të përmbajë stafin teknik sipas veprimtarisë së licencuar.
 
-	5. Ky vendim është objekt rishikimi në rast të përmbushjes apo mospërmbushjes së kushteve të përcaktuara në pikat 2, 3 dhe 4 të këtij vendimi.
+	5. Ky vendim është objekt rishikimi në rast të përmbushjes apo mospërmbushjes së kushteve të përcaktuara në pikat 3 dhe 4 të këtij vendimi.
 
 6. Drejtoria e Licencimit dhe Autorizimeve, të njoftojë shoqërinë “Renew” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, “OSSH” sh.a., “FTL” sh.a. dhe “ALPEX” sh.a., për vendimin e Bordit të ERE-s.
 
