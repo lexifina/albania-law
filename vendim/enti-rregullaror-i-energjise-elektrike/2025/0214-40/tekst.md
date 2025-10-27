@@ -4,6 +4,10 @@ Nr. 40, datë 14.2.2025
 
 MBI LICENCIMIN E SHOQËRISË “EB ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr. 269, datë 27.10.2025)
+
+(I përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, gërma “a”, 38, pika 1, gërma “a” dhe 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, gërma “a”, 5, pika 1, gërma “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe nenit 15 të Rregullores për organizimin, funksionimin dhe procedurat e ERE-s, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 14.2.2025, mbasi shqyrtoi relacionin me nr. 191/5 prot., datë 12.2.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘EB Energy’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -42,13 +46,13 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “EB Energy” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet prodhues 2 mw, me vendndodhje në zonën kadastrale nr. 3358, Njësia Administrative Topojë, Bashkia Fier, qarku Fier, për një afat 30-vjeçar.
 
-2. Shoqëria duhet të dokumentojë në ERE fillimin e punimeve për ndërtimin e centralit brenda muajit shtator 2025.
+2. Shfuqizuar.
 
-3. Shoqëria duhet të fillojë operimin/ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 5.12.2025.
+3. Shoqëria duhet të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 11.6.2026.
 
 4. Brenda 60 (gjashtëdhjetë) ditëve nga fillimi i operimit, shoqëria duhet të dokumentojë në ERE testimin e veprës.
 
-5. Ky vendim është objekt rishikimi nga ERE, në kuadër të plotësimit të pikave 2 dhe 3, të këtij vendimi.
+5. Ky vendim është objekt rishikimi në rast të përmbushjes apo mospërmbushjes së kushteve të përcaktuara në pikat 3 dhe 4 të këtij vendimi.
 
 6. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “EB Energy” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, “OSSH” sh.a., “FTL” sh.a. dhe “ALPEX” sh.a., për vendimin e Bordit të ERE-s.
 
