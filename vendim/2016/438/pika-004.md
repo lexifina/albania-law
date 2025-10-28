@@ -1,1 +1,0 @@
-4. Sasia e shfrytëzimit vjetor, pavarësisht nga nevojat e popullsisë për ngrohje, caktohet brenda mundësisë vjetore të shfrytëzimit, të përcaktuar në planet e mbarështimit të pyjeve shtetërore dhe privat, si dhe nga materiali drusor që rezulton nga realizimi i përmirësimeve pyjore nëpërmjet investimeve.

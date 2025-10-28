@@ -1,1 +1,0 @@
-15. Caktimi i ngastrave për t’u përshkuar me prerje ripërtëritëse/rigjeneruese, shënimi i drurëve me damkë dhe matja e tyre, përpilimi i listëdamkave, hartimi i projektit teknologjik dhe tekniko-ekonomik të trajtimeve për secilën ngastër pyjore, për prodhimin e druve të zjarrit, bëhet deri më 30 korrik të çdo viti.

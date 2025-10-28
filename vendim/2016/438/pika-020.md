@@ -1,1 +1,0 @@
-20. Dorëzimi i ngastrës bëhet me pjesë te subjekti i kontraktuar, me procesverbal, dhe pas dorëzimit të kësaj pjese, struktura përgjegjëse për menaxhimin e pyjeve dhe kullotave në bashki, bën procesverbalin e kolaudimit provizor të saj. E njëjta procedurë vijohet edhe me pjesët e tjera, deri në kolaudimin përfundimtar të ngastrës/nëngastrës.

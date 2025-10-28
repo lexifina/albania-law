@@ -1,1 +1,0 @@
-27. Shitja e materialit drusor të pyjeve publike, me qëllim ngrohjen e popullsisë, bëhet vetëm nga bashkitë, drejtpërsëdrejti te popullata apo enti shtetëror, ndërkohë që transporti i lëndës drusore për ngrohje mund të realizohet nëpërmjet të kontraktuarit të saj, nga venddepozitimi deri në destinacionin e blerësit.

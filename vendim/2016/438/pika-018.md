@@ -1,2 +1,0 @@
-18. Me miratimin paraprak të ministrit, mbështetur në legjislacionin në fuqi për prokurimet ose me anë të ndërmarrjes së saj të specializuar, bashkia realizon pastrimin e mbeturinave drusore. Në raste të tilla, bashkia, nëpërmjet strukturave përgjegjëse për pyjet dhe/ose personave të licencuar, harton një studim mbi sasinë, cilësinë, kostot e përfitimet financiare dhe vendndodhjen e mbeturinave dhe e paraqet atë për miratim në Ministrinë e Mjedisit.
-IV. CAKTIMI, DORËZIMI PËR SHFRYTË-ZIM I NGASTRAVE DHE NËNNGASTRAVE PYJORE

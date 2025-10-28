@@ -1,1 +1,0 @@
-43. Vlerësimi e dërgimi për miratim i nevojave të komunitetit dhe enteve të tjera publike për dru zjarri, nga ana e bashkisë, në përputhje me pikën 6 të këtij vendimi, vetëm për vitin 2016, do të realizohet brenda datës 30 korrik 2016.

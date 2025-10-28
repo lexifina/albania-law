@@ -1,1 +1,0 @@
-9. Subjektet e përcaktuara në shkronjën “a”, të pikës 8, përpara fillimit të shfrytëzimit duhet të pajisen me kopje kontrate, me procesverbal dorëzimi të ngastrave/nënngastrave, leje shfrytëzimi dhe vërtetim transporti.

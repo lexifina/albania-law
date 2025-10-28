@@ -1,1 +1,0 @@
-31. Koha e pezullimit të kontratave, që nga hyrja në fuqi e ligjit nr. 5/2016, “Për shpalljen e moratoriumit në pyje në Republikën e Shqipërisë”, dhe deri në rinegocimin, për pasojë rilidhjen e tyre me bashkitë, do të shtyjë afatin e përfundimit të kontratës ekzistuese për aq kohë sa është periudha e ndërprerjes (pezullimit).

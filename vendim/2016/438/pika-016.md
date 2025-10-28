@@ -1,1 +1,0 @@
-16. Prerja e drurëve pyjorë në fondin pyjor kombëtar bëhet pas shënimit të tyre me damkë të veçantë nga specialistët e lartë të pyjeve (dega silvikulturë, i përgjithshëm, mbarështim-shfrytëzim). Shënimi i drurëve me damkë, si rregull, fillon mbas datës 15 maj dhe përfundon në datën 15 korrik.

@@ -1,1 +1,0 @@
-11. Sasia e lëndës drusore së prerë, sipas pikës 8 më sipër, i dorëzohet bashkisë, e cila, më pas, e magazinon dhe e administron atë, sipas planifikimeve të miratuara paraprakisht nga drejtoria përkatëse, në Ministrinë e Mjedisit.

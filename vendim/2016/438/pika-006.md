@@ -1,1 +1,0 @@
-6. Bashkitë, brenda datës 30 prill të çdo viti, pasi vlerësojnë nevojat e komunitetit dhe enteve të tjera publike për dru zjarri, pa tejkaluar mundësinë e shfrytëzimit të pyjeve shtetërore dhe private, dërgojnë për miratim, në drejtorinë përkatëse, në Ministrinë e Mjedisit, kapacitetin dhe mundësinë vjetore të shfrytëzimit.

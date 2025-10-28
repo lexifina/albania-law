@@ -1,1 +1,0 @@
-33. Grumbullimi nga pylli i prodhimeve të dyta pyjore, si rrënjë shqope, mareje, bushi etj. dhe i boçave të pishës realizohet nga bashkia, me anë të një subjekti të licencuar, të kontraktuar, referuar legjislacionit në fuqi për ankandet publike.

@@ -1,1 +1,0 @@
-37. Planifikimi i mundësisë vjetore të shfrytëzimit të pyjeve, damkimi i drurëve pyjorë dhe trajtimi e shfrytëzimi i pyjeve në të gjitha fazat realizohet në përputhje më kërkesat e legjislacionit në fuqi për pyjet dhe atij për inspektimin dhe janë objekt i inspektimit të Inspektoratit Shtetëror të Mjedisit dhe Pyjeve.

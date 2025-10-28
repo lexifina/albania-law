@@ -1,1 +1,0 @@
-3. Pas miratimit të sasisë së shfrytëzimit, struktura përgjegjëse për pyjet dhe kullotat në bashki miraton projektin tekniko-ekonomik të trajtimit apo shfrytëzimit të pyjeve, për të cilat garantohet zhvillimi i qëndrueshëm, efektiviteti ekonomik, mirëadministrimi dhe ruajtja e asortimentit dru zjarri.
