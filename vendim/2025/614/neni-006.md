@@ -1,0 +1,6 @@
+# Neni 6
+Dorëzimi i ngastrave/nënngastrave për trajtim dhe shfrytëzim të materialit drusor dhe kolaudimi i tyre
+1. Dorëzimi i ngastrës/nënngastrës për trajtim dhe/ose shfrytëzim te subjekti i kontraktuar mbështetet në projektin teknologjik të ndërhyrjes. Për çdo rast, nga struktura përgjegjëse për pyjet në bashki mbahet procesverbali i dorëzimit të çdo pjese dhe më pas ai i kolaudimit provizor të saj. E njëjta procedurë vijohet edhe me pjesët e tjera deri në kolaudimin përfundimtar të ngastrës/nënngastrës.
+2. Njësitë/ekipet e specializuara të bashkisë apo subjekti i licencuar, i kontraktuar për shfrytëzim, mbajnë përgjegjësi për mossigurimin e ripërtëritjes, dëmtimin e tokës pyjore, materialit të padamkosur, dëmtimin e filizërisë, rënien e zjarreve, dëmtimin e shenjave të mbarështimit dhe të infrastrukturës pyjore.
+3. Deri në momentin e kolaudimit përfundimtar të ngastrës/nënngastrës, mbrojtja nga dëmtimet dhe zjarret e ngastrave bëhet nga subjekti i licencuar, i kontraktuar për shfrytëzimin e ngastrës/nënngastrës.
+4. Kolaudimet provizore dhe ai përfundimtar bëhen nga struktura përgjegjëse për pyjet në bashki, në prani të drejtuesit teknik të subjektit apo të ekipit të specializuar të bashkisë. Drejtuesi teknik përgjigjet për procesin e trajtimit dhe të shfrytëzimit të lëndës drusore e të produkteve jopyjore.

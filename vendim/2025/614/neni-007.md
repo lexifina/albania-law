@@ -1,0 +1,8 @@
+# Neni 7
+Trajtimi dhe shfrytëzimi i prodhimeve jodrusore pyjore dhe i BMET-së
+1. Trajtimi dhe shfrytëzimi i prodhimeve jodrusore pyjore dhe i BMET-së bazohet në potencialet, kriteret teknike dhe statusin e llojit, të parashikuar në aneksin nr. 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+2. Kontingjenti i shfrytëzimit bazohet në studimin dhe projektin mbi mundësitë e grumbullimit të prodhimeve jodrusore pyjore dhe i BMET-së, të hartuar nga struktura përgjegjëse për pyjet në bashki dhe të miratuar nga ministria përgjegjëse për pyjet e kullotat.
+3. Grumbullimi i prodhimeve jodrusore pyjore, që përfshijnë lulet, frutat, farat, sythat, bisqet, degët, drurët dekorativë, shpatullat, kalemat, gjethet, halat, boçet, zhukat, kallamishtet, rrëshirën, plisat, barin, rrënjët, zhardhokët, kërpudhat, myshqet, humusin, lëgushat, torfat, dheun, gurët, zhavorrin, rërën, bimët mjekësore, eterovajore e tanifere dhe të nënprodhimeve të tjera, pyjore e jopyjore, u lejohet personave fizikë e juridikë, të pajisur me lejen përkatëse, të lëshuar nga struktura përgjegjëse për pyjet e kullotat pranë bashkisë.
+4. Prodhimet pyjore dhe i BMET-së grumbullohen nga subjekti i ngarkuar me këtë detyrë, sipas përcaktimeve të këtij vendimi.
+5. Trajtimi dhe shfrytëzimi i prodhimeve jodrusore pyjore dhe i BMET-së në zonat e mbrojtura bëhet në përputhje me legjislacionin në fuqi për zonat e mbrojtura dhe, në rastet kur ky legjislacion lejon shfrytëzimin, zbatohen rregullat e përcaktuara në këtë vendim.
+III. SHITJA E MATERIALIT DRUSOR DHE PRODHIMEVE JODRUSORE PYJORE, TRANSPORTI, EKSPORTI (NË RASTET E LEJUARA) DHE IMPORTI I TIJ
