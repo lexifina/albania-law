@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Shëndetësisë dhe Mirëqenies Sociale për periudhën 24.10.2025-28.10.2025 te znj. Denada Seferi, zëvendësministër i Shëndetësisë dhe Mirëqenies Sociale.
