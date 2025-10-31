@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të shtetit dhe në përgjegjësi administrimi të Ministrisë së Financave për përdorim nga Drejtoria e Përgjithshme e Tatimeve dhe Drejtoria e Përgjithshme e Doganave të 2 (dy) objekteve publike, sipas listës së inventarit, që i bashkëlidhet këtij vendimi.
