@@ -1,0 +1,1 @@
+6. Parashikimet e përgjithshme lidhur me klasifikimin e statusit ekologjik të lumenjve, liqeneve, ujërave tranzitore dhe ujërave bregdetare përcaktohen në shtojcën IV, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

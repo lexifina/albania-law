@@ -1,0 +1,1 @@
+7. Parashikimet specifike të statusit ekologjik shumë të mirë, të mirë dhe mesatar të lumenjve, liqeneve, ujërave tranzitore dhe ujërave bregdetare lidhur me elementet biologjike, hidromorfologjike dhe fiziko-kimike të cilësisë përcaktohen në shtojcën V, që është pjesë përbërëse e këtij vendimi.

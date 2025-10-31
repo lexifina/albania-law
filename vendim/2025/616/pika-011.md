@@ -1,0 +1,3 @@
+11. Në vendimin nr. 1015, datë 16.12.2020, të Këshillit të Ministrave, “Për përmbajtjen, zhvillimin dhe zbatimin e Strategjisë Kombëtare të Menaxhimit të Burimeve Ujore, të planeve të menaxhimit të baseneve ujore dhe të planeve të menaxhimit të rrezikut nga përmbytjet”, bëhen këto ndryshime:
+a) Në shkronjën “b”, të pikës 1, të kreut 1, të shtojcës II, fjalët “... e ujërave sipërfaqësore ...” hiqen;
+b) Pikat 1.1, 1.2, 1.3, 1.4 dhe 1.5, të aneksit I; pikat 1.1 dhe 1.2 në përmbledhjen e aneksit 5, dhe nënpikat 1.1 dhe 1.2, të pikës 1, “Statusi i ujërave sipërfaqësore”, të aneksit 5, pjesë e shtojcës III, shfuqizohen.

@@ -1,0 +1,1 @@
+4. Elementet e cilësisë për klasifikimin e statusit ekologjik të lumenjve të liqeneve, ujërave tranzitore dhe ujërave bregdetare përcaktohen në shtojcën III, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

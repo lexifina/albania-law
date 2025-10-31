@@ -1,0 +1,1 @@
+10. Për efekt të zbatimit të këtij vendimi lidhur me karakterizimin e trupave ujorë do të përdoret sistemi A, sipas shtojcës I, deri në momentin kur të sigurohen të dhënat e nevojshme dhe të mjaftueshme për të përdorur sistemin B.

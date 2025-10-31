@@ -1,0 +1,1 @@
+2. Agjencia e Menaxhimit të Burimeve Ujore (në vijim “AMBU”) kryen analizën e karakteristikave (në vijim “karakterizimin”) fillestare të trupave ujorë sipërfaqësorë për çdo basen apo rajon baseni lumor, sipas rastit, në përputhje me kërkesat e përcaktuara në shtojcën I, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+3. AMBU-ja kryen vlerësimin e ndikimit të aktivitetit njerëzor në statusin e trupave ujorë sipërfaqësorë, në përputhje me kërkesat e përcaktuara në shtojcën II, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

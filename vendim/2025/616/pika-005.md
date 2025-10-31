@@ -1,0 +1,1 @@
+5. Elementet e cilësisë, të përcaktuara në shtojcën III, të këtij vendimi, do të aplikohen njësoj edhe në rastin e trupave ujorë artificialë ose tepër të modifikuar, vetëm në rastet kur këta të fundit përngjajnë me trupat ujorë natyrorë, të specifikuar në pikën 4 të këtij vendimi.
