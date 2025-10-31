@@ -1,0 +1,1 @@
+3. Kalimin në përgjegjësi administrimi të përbashkët të Ministrisë së Infrastrukturës dhe Energjisë dhe Ministrisë së Arsimit, për Universitetin Politeknik të Tiranës, të pasurisë nr. 4/589 dhe truallit nën objektin e ndodhur në një pjesë të pasurisë me nr. 4/697, zona kadastrale 8260, Tiranë, sipas planrilevimit në aneksin 4, që i bashkëlidhet këtij vendimi.
