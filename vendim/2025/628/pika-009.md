@@ -1,0 +1,1 @@
+9. Ngarkohet Sekretari i Përgjithshëm i Këshillit të Ministrave që të krijojë dhe të drejtojë grupin e punës, përgjegjës për ndjekjen dhe zbatimin e masave organizative të ceremonialit funebër shtetëror.

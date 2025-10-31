@@ -1,0 +1,11 @@
+8. Për organizimin e ceremonisë funebre shtetërore ngrihet me urdhër të Sekretarit të Përgjithshëm të Këshillit të Ministrave Komisioni i Posaçëm Shtetëror, nën mbikëqyrjen e Kryeministrit, i cili në përbërje të ketë:
+- Ministrin e Mbrojtjes;
+- Ministrin e Punëve të Brendshme;
+- Nënkryetarin e Bashkisë Tiranë;
+- Sekretarin e Përgjithshëm të Këshillit të Ministrave;
+- Drejtorin e Protokollit të Shtetit;
+- Drejtorin e Përgjithshëm të Policisë së Shtetit;
+- Komandantin e Gardës së Republikës së Shqipërisë;
+- Drejtorin e Drejtorisë së Shërbimeve Qeveritare;
+- Përfaqësues nga kabineti i Kryeministrit;
+- Përfaqësues nga zyra e shtypit të Kryeministrit.
