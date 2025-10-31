@@ -1,0 +1,1 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Përmet të zonës nr. 1, Njësia Administrative Çarçovë, fshatrat Kanikol dhe Draçovë, me sipërfaqe 2.04 (dy pikë zero katër) km², sipas hartës në sistemin KRRGJSH, të paraqitura mbi ortofoto.
