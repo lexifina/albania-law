@@ -1,0 +1,1 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Skrapar të zonës zhvillimore nr. 1, Helmës-Staraveckë, Njësia Administrative Potom, me sipërfaqe 258 (dyqind e pesëdhjetë e tetë) ha, sipas hartës në sistemin KRRGJSH, të paraqitura mbi ortofoto.
