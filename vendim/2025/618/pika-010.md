@@ -1,0 +1,1 @@
+10. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Tiranë Veri, brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, nis procedurat për hedhjen e gjurmës së projektit mbi hartën kadastrale, sipas planimetrisë së shpronësimit të miratuar, dhe regjistron kalimin e pronësisë në favor të Bashkisë Tiranë për pasuritë e shpronësuara sipas këtij vendimi.

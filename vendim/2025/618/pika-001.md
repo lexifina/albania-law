@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni i bllokut të kufizuar nga rrugët ’Ali Baushi’, ’Arben Minga’, ’Kongresi i Manastirit’, ’Ibrahim Brahja’ dhe ’Xhanfize Keko’”, Bashkia Tiranë.
