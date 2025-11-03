@@ -1,0 +1,1 @@
+1. Delegimin te Sekretari i Përgjithshëm të kompetencës për lëshimin e autorizimeve për përfaqësim ligjor të Ministrisë së Ekonomisë dhe Inovacionit, në proceset gjyqësore ku ministria thirret si palë në gjykim, apo si subjekt i interesuar. Modeli i autorizimit është sipas lidhjes nr. 1 të këtij urdhri.

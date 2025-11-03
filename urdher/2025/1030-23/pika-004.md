@@ -1,0 +1,1 @@
+4. Delegimin e kompetencave Sekretarit të Përgjithshëm, për të autorizuar dërgimin me shërbim të punonjësve të Aparatit të Ministrisë së Ekonomisë dhe Inovacionit, jashtë qendrës së punës, brenda vendit, me largësi mbi 100 km.

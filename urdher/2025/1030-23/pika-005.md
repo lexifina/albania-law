@@ -1,0 +1,1 @@
+5. Delegimin te Sekretari i Përgjithshëm të kompetencave për nënshkrimin e kontratave të punës, si dhe aktet për përfundimin e marrëdhënies së punës, për pozicionet e punës që rregullohen me Kodin e Punës së Republikës së Shqipërisë, si dhe kryerjen e të gjitha veprimeve administrative dhe procedurale në zbatim të tyre.
