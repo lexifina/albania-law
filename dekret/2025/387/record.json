@@ -1,0 +1,26 @@
+{
+  "qbz_id": 31550,
+  "title": "Për shpalljen e procedurës së aplikimit pë plotësimin e vendit vakant gjyqtar në Gjykatën Kushtetuese të Republikës së Shqipërisë",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "387",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2025-10-31",
+  "published": "2025-11-03",
+  "in_force": "2025-11-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ae7d91fe695cc5825835b185f0c7cfd00daa503a862287d88904dd5238bca131.docx",
+  "source_sha256": "ae7d91fe695cc5825835b185f0c7cfd00daa503a862287d88904dd5238bca131",
+  "official_record": "https://qbz.gov.al/api/v1/acts/31550",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2025/10/31/387",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
