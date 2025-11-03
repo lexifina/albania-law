@@ -6,6 +6,10 @@ PËR CAKTIMIN E DATËS SË ZGJEDHJEVE TË PJESSHME VENDORE PËR
 
 KRYETAR BASHKIE, PËR DISA NJËSI TË QEVERISJES VENDORE
 
+(Ndryshuar me vendimin e Gjyakatës Kushtetuese nr. 66, datë 3.11.2025)
+
+(i përditësuar)
+
 Në mbështetje të nenit 92, shkronja “gj” dhe nenit 93, të Kushtetutës së Republikës së Shqipërisë, si dhe nenit 10, të ligjit nr. 10 019, datë 29.12.2008, “Kodi Zgjedhor i Republikës së Shqipërisë”, i ndryshuar”,
 
 DEKRETOJ:
@@ -14,7 +18,7 @@ Neni 1
 
  Caktimin e datës 9.11.2025, për zhvillimin e zgjedhjeve të pjesshme vendore, për kryetar bashkie, për këto njësi të qeverisjes vendore: 
 
-1. Bashkia Tiranë, Qarku Tiranë;
+1. Shfuqizuar;
 
 2. Bashkia Vlorë, Qarku Vlorë;
 
