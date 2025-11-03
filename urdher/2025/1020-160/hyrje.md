@@ -1,0 +1,5 @@
+URDHËR
+Nr. 160, datë 20.10.2025
+PËR MIRATIMIN E RREGULLORES, “PËR PËRCAKTIMIN E RREGULLAVE TË DETAJUARA PËR OPERIMIN E PLANERAVE, SI DHE PËR LICENCIMIN E EKUIPAZHIT TË FLUTURIMIT PËR PLANERAT, NË PËRPUTHJE ME VENDIMIN E KËSHILLIT TË MINISTRAVE NR. 1095, DATË 24.12.2020, ’PËR MIRATIMIN E KËRKESAVE THELBËSORE NË FUSHËN E AVIACIONIT CIVIL’, I NDRYSHUAR”
+Në zbatim të nenit 102, pika 4, të Kushtetutës, të nenit 7 shkronja “ç”, të nenit 22, pika 4 dhe 28, pika 4 të Ligjit nr. 96/2020, “Kodi Ajror i Republikës së Shqipërisë”, dhe në përputhje me ligjin nr. 9658, datë 18.12.2006, “Për ratifikimin e marrëveshjes shumëpalëshe ndërmjet Komunitetit Evropian dhe shteteve anëtare të tij, Republikës së Shqipërisë, Bosnjës dhe Hercegovinës, Republikës së Bullgarisë, Republikës së Kroacisë, Republikës së Maqedonisë, Republikës së Islandës, Republikës së Malit të Zi, Mbretërisë së Norvegjisë, Republikës së Rumanisë, Republikës së Serbisë dhe Misionit Administrativ të Përkohshëm të Kombeve të Bashkuara në Kosovë, për krijimin e një zone të përbashkët të aviacionit evropian”,
+URDHËROJ:
