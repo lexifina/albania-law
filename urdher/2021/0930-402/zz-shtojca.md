@@ -24,24 +24,24 @@ c) Porti i Peshkimit Vlorë;
 4. Procedurat e inspektimit dhe të mbikëqyrjes kryhen sipas parashikimeve të përcaktuara në vendimin nr. 407, datë 8.5.2013, të Këshillit të Ministrave, “Për përcaktimin e një regjimi kontrolli për të garantuar respektimin e rregullave të politikave menaxhuese në peshkim”, të ndryshuar.
 Neni 4
 Përjashtimet nga detyrimi i zbarkimit të lidhura me aftësinë e species për të mbijetuar
-1. Speciet e mëposhtme, të cilat sipas të dhënave shkencore, zotërojnë një shkallë të lartë mbijetese, përjashtohen nga detyrimi për t’u zbarkuar:
-a) Gjuhëz kanali (Solea solea) e zënë me rrjeta fundore me shfletim (TBB) në Detin Adriatik deri më 31 dhjetor 2022;
-b) Skampi (Nephrops norvegicus) i zënë me rrjeta fundore (OTB, OTT, PTB, TBN, TBS, TB, OT, PT, TX) në Mesdheun Perëndimor, Detin Adriatik dhe Mesdheun Juglindor;
-c) Skampi (Nephrops norvegicus) i zënë me kurthe (FPO, FIX), në Mesdheun Perëndimor, Detin Adriatik dhe Mesdheun Juglindor deri më 31 dhjetor 2022;
-ç) Astakua (Homarus gammarus) e zënë me mrezha dhe njica fikse (GNS, GN, GND, GNC, GTN, GTR, GEN) dhe kurthe (FPO, FIX) në Mesdheun Perëndimor, Detin Adriatik dhe Mesdheun Juglindor;
-d) Aragostat (Palinuridae) të zëna me mrezha dhe njica fikse (GNS, GN, GND, GNC, GTN, GTR, GEN) dhe kurthe (FPO, FIX) në Mesdheun Perëndimor, Detin Adriatik dhe Mesdheun Juglindor.
-2. Gjuhëza e kanalit (Solea solea), skampi (Nephrops norvegicus), astakua (Homarus gammarus) dhe aragostat (Palinuridae) të zëna sipas specifikimeve të përcaktuara në pikën 1 të këtij neni, lëshohen menjëherë në zonën ku janë peshkuar.
 Neni 5
 Përjashtimi mbi minimumin e lejuar
-1. Si përjashtim i nenit 4 të kësaj rregulloreje, në Detin Adriatik mund të hidhen speciet në sasitë e përcaktuara si më poshtë:
-a) Merluci (Merluccius merluccius) dhe barbuni (Mullus spp.), maksimum 6% më 2021-shin dhe 2022-shin dhe maksimum 5% më 2023-shin të zënieve totale vjetore të këtyre specieve për anijet fundore;
+1. Në Detin Adriatik mund të hidhen speciet në sasitë e përcaktuara si më poshtë:
+a) Merluci (Merluccius merluccius) dhe barbuni (Mullus spp.), maksimum 5% të zënieve totale vjetore të këtyre specieve për anijet fundore;
 b) Merluci (Merluccius merluccius) dhe barbuni (Mullus spp.), maksimum 1% të zënieve totale vjetore të këtyre specieve për anijet që peshkojnë me mrezha dhe njica fikse;
 c) Merluci (Merluccius merluccius) dhe barbuni (Mullus spp.), maksimum 1% të zënieve totale vjetore të këtyre specieve për anijet fundore që përdorin rrjeta me shfletim (TBB);
 ç) Gjuhëz kanali (Solea solea), maksimum 3% të zënieve totale vjetore për anijet fundore;
 d) Levreku (Dicentrarchus labrax), sargu bishtëzi (Diplodus annularis), sharan (Diplodus puntazzo), sargu (Diplodus sargus), sargua (Diplodus vulgaris), kern (Epinephelus spp.), murra (Lithognathus mormyrus), mormuri i egër (Pagellus acarne), spalca e kuqe (Pagellus bogaraveo), pagri (Pagellus erythrinus), pagri (Pagrus pagrus), kerr fundi (Polyprion americanus), koce (Sparus aurata) karkaleci rozë i thellësisë (Parapenaeus longirostris), maksimum 5% të zënieve totale vjetore të këtyre specieve për anijet fundore;
-dh) Levreku (Dicentrarchus labrax), sargu bishtëzezë (Diplodus annularis), sharan (Diplodus puntazzo), sargu (Diplodus sargus), sargua (Diplodus vulgaris), kern (Epinephelus spp.), murra (Lithognathus mormyrus), mormuri i egër (Pagellus acarne), spalca e kuqe (Pagellus bogaraveo), pagri (Pagellus erythrinus), pagri (Pagrus pagrus), kerr fundi (Polyprion americanus), gjuhëz kanali (Solea solea), koce (Sparus aurata), maksimum 3% të zënieve totale vjetore të këtyre specieve për anijet që peshkojnë me mrezha dhe njica fikse;
+dh) Levreku (Dicentrarchus labrax), sargu bishtëzezë (Diplodus annularis), sharan (Diplodus puntazzo), sargu (Diplodus sargus), sargua (Diplodus vulgaris), kern (Epinephelus spp.), murra (Lithognathus mormyrus), mormuri i egër (Pagellus acarne), spalca e kuqe (Pagellus bogaraveo), pagri (Pagellus erythrinus), pagri (Pagrus pagrus), kerr fundi (Polyprion americanus), gjuhëz kanali (Solea solea), koce (Sparus aurata), maksimum 2% të zënieve totale vjetore të këtyre specieve për anijet që peshkojnë me mrezha dhe njica fikse;
 e) Levreku (Dicentrarchus labrax), sargu bishtëzezë (Diplodus annularis), sharan (Diplodus puntazzo), sargua (Diplodus sargus), sargua (Diplodus vulgaris), kern (Epinephelus spp.), murra (Lithognathus mormyrus), mormuri i egër (Pagellus acarne), pagri (Pagellus erythrinus), pagri (Pagrus pagrus), kerr fundi (Polyprion americanus), gjuhëz kanali (Solea solea), kocë (Sparus aurata), maksimum 1% të zënieve totale vjetore të këtyre specieve për anijet që peshkojnë me grepa dhe pallangarë;
 ë) Açuga (Engraulis encrasicolus), sardele (Sardina pilchardus), skumbri (Scomber spp.) stavridh (Trachurus spp.), maksimum 5% i zënieve jo objekt peshkimi totale vjetore të këtyre specieve për anijet fundore.
+f) Skampi (Nephrops norvegicus), maksimum 1% të zënieve totale vjetore të kësaj specie për anijet që përdorin kurthe.
+Neni 6
+Monitorimi dhe grumbullimi i të dhënave për hedhurat
+1. Institucioni përgjegjës për shërbimet e peshkimit dhe të akuakulturës monitoron dhe grumbullon të dhëna mbi hedhurinat për speciet të listuara në nenin 5 të kësaj rregulloreje.
+2. Institucioni përgjegjës për shërbimet e peshkimit dhe akuakulturës përgatit në bazë vjetore një raport mbi respektimin e sasive minimale të lejuara për speciet e listuara në nenin 5 të kësaj rregulloreje, totalin vjetor të hedhurinave për anijet që përdorin rrjeta fundore, njica dhe mrezha, si edhe totalin vjetor të hedhurinave sipas specieve.
+3. Raporti dorëzohet brenda datës 28 shkurt të vitit pasardhës te drejtoria përgjegjëse për peshkimin në Ministrinë e Bujqësisë dhe Zhvillimit Rural”.
+4. Për zbatimin e këtij urdhri ngarkohen institucioni përgjegjës për shërbimet e peshkimit dhe akuakulturës dhe inspektorati që mbulon fushën e peshkimit.
 SHTOJCA 1
 1. Deti Adriatik
 |Speciet |Kodi i veglës së |Veglat e peshkimit |Detyrimi i zbarkimit |
