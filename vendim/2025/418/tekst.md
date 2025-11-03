@@ -118,9 +118,9 @@ Në nenin 27 bëhen ndryshimi dhe shtesa e mëposhtme:
 
 a) Përmbajtja e fjalisë së parë të pikës 1 zëvendësohet me “Në përfundim të procesit të zhvillimit, kërkuesi paraqet kërkesën për t’u pajisur me certifikatë përdorimi, së bashku me procesverbalin e kolaudimit dhe dokumentacionin shoqërues, përfshirë deklaratën teknike se objekti është ndërtuar në përputhje me projektin dhe kushtet teknike në fuqi, pranë autoritetit të zhvillimit që ka miratuar lejen e ndërtimit.”.
 
-b) Pas pikës 9 shtohet pika 10, me këtë përmbajtje: 
+b) Pas pikës 8 shtohet pika 9, me këtë përmbajtje: 
 
-“10. Për certifikatat e përdorimit që lëshohen nga KKTU-ja, sekretariati lëshon refuzimin e certifikatës së përdorimit, në rast se subjekti kërkues nuk kryen pagesën e tarifës përkatëse, brenda 15 (pesëmbëdhjetë) ditëve nga marrja e njoftimit për lëshimin e faturës nga sekretariati.”.
+“9. Për certifikatat e përdorimit që lëshohen nga KKTU-ja, sekretariati lëshon refuzimin e certifikatës së përdorimit, në rast se subjekti kërkues nuk kryen pagesën e tarifës përkatëse, brenda 15 (pesëmbëdhjetë) ditëve nga marrja e njoftimit për lëshimin e faturës nga sekretariati.”.
 
 Neni 14
 
