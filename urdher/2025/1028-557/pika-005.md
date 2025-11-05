@@ -1,0 +1,1 @@
+5. Në rast të moszbatimit të detyrimeve nga institucioni arsimor parauniversitar jopublik, i nivelit të arsimit bazë, shkolla “Dituria”, të përcaktuara në pikën 2, të këtij urdhri, Zyra Vendore e Arsimit Parauniversitar Tiranë të marrë të gjitha masat, sipas legjislacionit në fuqi.

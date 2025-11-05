@@ -1,0 +1,1 @@
+6. Urdhri nr. 105, datë 13.9.1999, i ministrit të Arsimit dhe Shkencës, “Për dhënien e lejes së funksionimit të institucionit arsimor jopublik”, i ndryshuar, dhe urdhri nr. 169, datë 11.7.2002, i ministrit të Arsimit dhe Shkencës, “Për dhënien e lejes së funksionimit të institucionit arsimor jopublik parauniversitar”, i ndryshuar, shfuqizohen.
