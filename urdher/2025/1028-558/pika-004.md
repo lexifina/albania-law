@@ -1,0 +1,1 @@
+4. Agjencia Kombëtare e Arsimit Parauniversitar dhe Drejtoria Rajonale Arsimore Parauniversitare Lezhë të monitorojnë veprimtarinë e Zyrës Vendore të Arsimit Parauniversitar Lezhë për zbatimin e detyrave, sipas këtij urdhri.

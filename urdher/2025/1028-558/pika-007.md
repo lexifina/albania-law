@@ -1,0 +1,2 @@
+7. Ngarkohen për zbatimin e këtij urdhri Sekretari i Përgjithshëm në Ministrinë e Arsimit, Drejtoria e Përgjithshme Rregullatore për Arsimin dhe Sportin, Agjencia Kombëtare e Arsimit Parauniversitar, Drejtoria Rajonale Arsimore Parauniversitare Lezhë, Zyra Vendore e Arsimit Parauniversitar Lezhë, institucioni arsimor parauniversitar privat, kopshti “Ate Annibale Di Francia”.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

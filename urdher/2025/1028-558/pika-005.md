@@ -1,0 +1,1 @@
+5. Në rast të moszbatimit të detyrimeve nga institucioni arsimor parauniversitar privat, kopshti “Ate Annibale Di Francia”, të përcaktuara në pikën 2, të këtij urdhri, Zyra Vendore e Arsimit Parauniversitar Lezhë të marrë të gjitha masat, sipas legjislacionit në fuqi.
