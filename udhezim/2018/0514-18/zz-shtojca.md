@@ -252,11 +252,11 @@ Loje elektronike në distancë 15% e të ardhurave bruto
 XVI
 KAZINO/KAZINO ME 5 YJE/RESORT KAZINO
 [95/96]
-Për tryezat me më shumë se një pozicion ruletë, 12% mbi vëllimin e qarkullimit
+Për tryezat me më shumë se një pozicion ruletë, 25% mbi të ardhurat bruto
 [95]
 [96]
 [97/98]
-Për tryezat të lojërave me letër dhe ose me zare, 12% mbi vëllimin e qarkullimit
+Për tryezat e lojërave me letra dhe/ose me zare, 25% mbi të ardhurat bruto
 [97]
 [98]
 [99/100]
@@ -267,6 +267,10 @@ Për lojërat elektronike dhe videolotari në kazino, 25% mbi të ardhurat bruto
 Për makinat slot me fitim në çast, 25% mbi të ardhurat bruto
 [101]
 [102]
+[102.1/102.2]
+Turnetë e lojërave 25 % mbi të ardhurat bruto
+102.1
+102.2
 XVII
 KAZINO ELEKTRONIKE
 [103/104]
@@ -427,16 +431,18 @@ XV LOJË ELEKTRONIKE NË DISTANCË
 [94] Norma e taksës në %, e përcaktuar me ligj, për lojë elektronike në distancë shumëzuar me të ardhurat bruto, rubrika [93] x 15 % mbi të ardhurat bruto.
 XVI. KAZINO/KAZINO ME 5 YJE/RESORT KAZINO
 [95] Vëllimi i qarkullimit i realizuar për periudhën për të cilën paguhet taksa për tryezat me më shumë se një pozicion, ruletë.
-[96] Norma e taksës në %, e përcaktuar me ligj, shumëzuar me vëllimin e qarkullimit të realizuar për periudhën për të cilën paguhet taksa për tryezat me më shumë se një pozicion, ruletë, rubrika [95] x 12% mbi vëllimin e qarkullimit.
+[96] Norma e taksës në %, e përcaktuar me ligj, shumëzuar me vëllimin e qarkullimit të realizuar për periudhën për të cilën paguhet taksa për tryezat me më shumë së një pozicion, ruletë, rubrika [95] x 25% mbi të ardhurat bruto.
 [97] Vëllimi i qarkullimit i realizuar për periudhën për të cilën paguhet për tryezat të lojërave me letër dhe ose me zare.
-[98] Norma e taksës në %, e përcaktuar me ligj, shumëzuar me vëllimin e qarkullimit i realizuar për periudhën për të cilën paguhet taksa për tryezat të lojërave me letër dhe ose me zare, rubrika [97] x 12% mbi vëllimin e qarkullimit.
+[98] Norma e taksës në %, e përcaktuar me ligj, shumëzuar me vëllimin e qarkullimit të realizuar për periudhën për të cilën paguhet taksa për tryezat e lojërave me letër dhe/ose me zare, rubrika [97] x 25% mbi të ardhurat bruto.
 [99] Të ardhura bruto të realizuara për periudhën për të cilën paguhet taksa për lojërat elektronike dhe videolotari në kazino.
 [100] Norma e taksës në %, e përcaktuar me ligj, shumëzuar me të ardhura bruto të realizuara për periudhën për të cilën paguhet taksa për lojërat elektronike dhe videolotari në kazino, rubrika [99] x 25% mbi të ardhurat bruto.
 [101] Të ardhura bruto të realizuara për periudhën për të cilën paguhet taksa për makinat slot me fitim në çast.
 [102] Norma e taksës në %, e përcaktuar me ligj, shumëzuar me të ardhura bruto të realizuara për periudhën për të cilën paguhet taksa për makinat slot me fitim në çast, rubrika [101] x 25% mbi të ardhurat bruto.
+[102.1] Të ardhurat bruto të realizuara për periudhën për të cilën paguhet taksa për turnetë e lojërave.
+[102.2] Norma e taksës në %,e përcaktuar me ligj, shumëzuar me të ardhurat bruto të realizuara për periudhën për të cilët paguhet taksa për turnetë e lojërave, [102.1] x 25% mbi të ardhurat bruto.
 XVII. KAZINO ELEKTRONIKE
 [103] Të ardhurat bruto të realizuara për periudhën për të cilën paguhet taksa për çdo makinë elektronike të tipit slot, videolotari.
 [104] Norma e taksës në %, e përcaktuar me ligj, shumëzuar me të ardhurat bruto të realizuara për periudhën për të cilët paguhet taksa për çdo makinë elektronike të tipit slot, videolotari, rubrika [103] x 15% mbi të ardhurat bruto.
-[105] Tatimi për t’u paguar është shuma e kutive të kolonës “detyrimi”. Pra, shuma e rubrikave: tatimi për t’u paguar = 10 + 12 + 14 + 15 + 16 + 17 + 19 + 21 + 23 + 25 + 27 + 29 + 31 + 33 + 35 + 37 + 39 + 41 + 43 + 45 + 47 + 48 + 50 + 52 + 54 + 55 + 57 + 59 + 61 + 63 + 65 + 67 + 69 + 71 + 73 + 75 + 77 + 79 + 81 + 82 + 84 + 86 + 88 + 90 + 92 + 94 + 96 + 98 + 100 + 102 + 104).
+[105] Tatimi për t’u paguar është shuma e kutive të kolonës “detyrimi”. Pra, shuma e rubrikave: tatimi për t’u paguar = 10 + 12 + 14 + 15 + 16 + 17 + 19 + 21 + 23 + 25 + 27 + 29 + 31 + 33 + 35 + 37 + 39 + 41 + 43 + 45 + 47 + 48 + 50 + 52 + 54 + 55 + 57 + 59 + 61 + 63 + 65 + 67 + 69 + 71 + 73 + 75 + 77 + 79 + 81 + 82 + 84 + 86 + 88 + 90 + 92 + 94 + 96 + 98 + 100 + 102 + 104+102.2).
 [106] Dënime/interesa për vonesa janë dënimet dhe interesat për vonesat në deklarim ose pagesë që mund të llogariten paraprakisht dhe që mund të paguhen me deklaratën.
 [107] Totali për t’u paguar është shuma e tatimit për t’u paguar (kutia 105) me dënimet dhe interesat e llogaritura me deklaratën (kutia 106), (107=105+106).
