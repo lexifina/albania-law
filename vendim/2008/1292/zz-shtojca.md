@@ -2,19 +2,24 @@
 FORMULAR PëR INVENTARIZIMIn E PRONAVE Të PALUAJTSHME SHTETëRORE
 (PËR INVENTARIZIMIN E PRONAVE TË VEÇANTA)
 |GJYKATA E RRETHIT GJYQËSOR SHKODËR |
-|Nr. rend.|A |B |C |
+|Nr. |A |B |C |
+|rend. | | | |
 | | | | |
 | |
-|Nr. rend. |A |B |C |
+|Nr. |A |B |C |
+|rend. | | | |
 | | | | |
 | |
-|Nr. rend.|A |B |C |
+|Nr. |A |B |C |
+|rend. | | | |
 | | | | |
 | |
-|Nr. rend.|A |B |C |
+|Nr. |A |B |C |
+|rend. | | | |
 | | | | |
 | |
-|Nr. rend.|A |B |C |
+|Nr. |A |B |C |
+|rend. | | | |
 | | | | |
 | |
 |Nr. rend.|A |B |C |
@@ -106,29 +111,16 @@ FORMULAR PëR INVENTARIZIMIn E PRONAVE Të PALUAJTSHME SHTETëRORE
 |Nr. |A |B |C |
 |rend. | | | |
 | | | | |
-| |Zona kadastrale |Nr. |Lloji i pronës |
-| |& |pasurisë | |
-| |indeksi | | |
-| |i hartës | | |
-|Zona kadastr.& indeksi i hartës |Nr. pasurisë |Lloji i pronës |Emri i pronës, adresa |Sip. totale e pronës (m2) |Nga sip. totale sa ndërtesë (m2) |Funksioni për të cilin përdoret prona |Institucioni/enti me përgjegjësi administrative |Institucioni/enti përdorues, statusi juridik i përdorimit |Të dhëna të tjera
-(shënime të veçanta) | |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 | |
-2 |
-8150
-TR - P - 13
-| |
-Truall/ndërtesë
-|
-Gjykata e Apelit Ushtarak, Tiranë
-“Bul. Zhan D’Ark“
-|
-128 |
-128 |
-Zyra |
-Gjykata Apelit
-Ushtarak, Tiranë |
-Gjykata Apelit
-Ushtarak, Tiranë |
-Godina ka tre kate | |
+|Zona kadastrale
+&
+indeksi
+i hartës |Nr.
+pasurisë
+|Lloji i pronës
+|Emri i pronës, adresa |Sip. totale: e pronës (m2) |Nga sip. totale:
+sa ndërtesë (m2) |Funksioni për të cilin përdoret prona |Institucioni/enti me përgjegjësi administrative |Institucioni/enti përdorues, statusi juridik i përdorimit |Të dhëna të tjera (Shënime të veçanta) | |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 | |31 |8641 |13/75 |Truall | |404 |290.5 |Zyra |Gjykata e Rrethit |Gjykata e Rrethit |Gjykata ka 3+1 kate | | |Sr-F-12 | |1+3Kt |Gjykata e Rrethit | | | |Sarandë |Sarandë |Gjykata ushtron aktivitetin e saj në katin përdhes, katin e parë dhe të dytë. Prokuroria e ushtron aktivitetin e saj në katin e tretë. Të dy institucionet kanë hyrje të përbashkët për personelin. Gjykata ka hyrje të veçanta për administratën, për të pandehurin dhe për qytetarët. | | | | | |Sarandë | | | |Prokuroria |Prokuroria | | | | | | |L.nr.1 Sarandë | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+1. Formular për iventarizimin e pronave të paluajtshme shtetërore
+(PËR INVENTARIZIMIN E PRONAVE TË VEÇANTA)
 -----------------------
 [1]
 Shënim.
