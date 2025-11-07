@@ -1,0 +1,1 @@
+15. Anëtarët e këshillave të baseneve lumore shpërblehen sipas legjislacionit në fuqi për shpërblimin e anëtarëve të këshillave, të bordeve ose të komisioneve të përhershme të njësive të qeverisjes qendrore, por jo më shumë se 6 (gjashtë) pagesa në vit.

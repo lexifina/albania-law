@@ -1,0 +1,1 @@
+14. AMBU-ja sigurohet që informacioni i kërkuar, në përputhje me pikën 13 të këtij vendimi, të publikohet në faqen e saj të internetit brenda 6 (gjashtë) muajve pas hyrjes në fuqi të këtij vendimi. AMBU-ja siguron përditësimin e këtij informacioni në rastet e ndryshimeve.

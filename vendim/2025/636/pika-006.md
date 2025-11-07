@@ -1,0 +1,1 @@
+6. Përcaktimi i ujërave bregdetare, që bëjnë pjesë në rajonet e baseneve lumore Mat, Ishëm dhe Erzen, është sipas hartës së paraqitur në shtojcën V, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

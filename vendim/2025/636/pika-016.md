@@ -1,0 +1,1 @@
+16. Vendimi nr. 696, datë 30.10.2019, i Këshillit të Ministrave, “Për përcaktimin e kufijve territorialë, hidrografikë të baseneve ujore në Republikën e Shqipërisë dhe të qendrës e përbërjes së Këshillit të secilit prej tyre”, shfuqizohet.

@@ -1,0 +1,1 @@
+4. Përcaktimi i ujërave nëntokësore, që bëjnë pjesë në rajonet individuale të baseneve lumore, është sipas hartës së paraqitur në shtojcën III, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

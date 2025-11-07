@@ -1,0 +1,1 @@
+1. Përcaktimin e kufijve hidrografikë të baseneve lumore kryesore, të përmendura në nenin 12 të ligjit nr. 29/2024, “Për burimet ujore”, të ndryshuar, sipas hartës hidrografike të paraqitur në shtojcën I, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

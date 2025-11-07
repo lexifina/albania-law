@@ -1,0 +1,1 @@
+3. Kufijtë territorialë të rajoneve të baseneve lumore dhe të baseneve lumore kryesore janë të njëjta, të përcaktuara sipas hartës së paraqitur në shtojcën II, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

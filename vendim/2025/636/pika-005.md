@@ -1,0 +1,1 @@
+5. Përcaktimi i nënbaseneve, që bëjnë pjesë në rajonet e baseneve lumore Mat, Ishëm dhe Erzen, është sipas hartës së paraqitur në shtojcën IV, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
