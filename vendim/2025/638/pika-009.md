@@ -1,0 +1,1 @@
+9. Në rastet kur shoqëria aksionare shtetërore “KAYO” sh.a. mund të furnizojë autoritetet kërkuese, në përputhje me kërkesën e paraqitur prej tyre, vetë ose nëpërmjet subjekteve të krijuara prej saj, autoritetet kërkuese hyjnë në negociata të drejtpërdrejta me këtë shoqëri për plotësimin e nevojave të tyre, në marrëveshje ndërmjet palëve.

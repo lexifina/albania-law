@@ -1,0 +1,1 @@
+5. Kërkesa, sipas pikës 4 të këtij vendimi, paraqitet në formë shkresore dhe shoqërohet me projektin për mallrat ose shërbimet e kërkuara. Në projekt përfshihen qëllimi i përdorimit, referencat ligjore, specifikimet teknike të mallrave ose shërbimeve, mënyra e zbatimit dhe vlera e projektit.

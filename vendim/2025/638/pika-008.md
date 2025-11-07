@@ -1,0 +1,1 @@
+8. Në rastet kur shoqëria aksionare shtetërore “KAYO” sh.a. nuk shprehet brenda 30 (tridhjetë) ditëve nga marrja e kërkesës lidhur me mundësinë e realizimit të furnizimit, kërkesa konsiderohet e refuzuar dhe autoritetet kërkuese vijojnë me realizimin e prokurimit, sipas kuadrit ligjor në fuqi për prokurimin publik ose prokurimin në fushën e mbrojtjes dhe sigurisë.

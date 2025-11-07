@@ -1,0 +1,1 @@
+7. Në rastet kur shoqëria aksionare shtetërore “KAYO” sh.a. shprehet se nuk mund të furnizojë autoritetet kërkuese, në përputhje me specifikimet teknike apo projektin e parashtruar, autoritetet kërkuese vijojnë me realizimin e prokurimit, sipas kuadrit ligjor në fuqi për prokurimin publik, ose prokurimin në fushën e mbrojtjes dhe sigurisë.

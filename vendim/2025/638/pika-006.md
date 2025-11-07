@@ -1,0 +1,1 @@
+6. Shoqëria aksionare shtetërore “KAYO” sh.a. shprehet për mundësinë e furnizimit, sipas kërkesës së administruar nga autoriteti kërkues, me produkte apo shërbime nga vetë kjo shoqëri ose shoqëri të krijuara prej saj.

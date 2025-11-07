@@ -1,0 +1,1 @@
+3. Shoqëria aksionare shtetërore “KAYO” sh.a. dërgon pranë autoriteteve kërkuese listën e produkteve dhe shërbimeve, që ofron vetë ose nëpërmjet shoqërive të krijuara prej saj, minimalisht çdo 6 (gjashtë) muaj.
