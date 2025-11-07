@@ -1,1 +1,0 @@
-10. Anëtarët e KBU-së shpërblehen sipas legjislacionit në fuqi për shpërblimin e anëtarëve të këshillave, bordeve ose komisioneve të përhershme të njësive të qeverisjes qendrore, por jo më shumë se gjashtë pagesa në vit.

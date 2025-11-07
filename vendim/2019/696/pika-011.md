@@ -1,1 +1,0 @@
-11. Vendimi nr. 342, datë 4.5.2016, i Këshillit të Ministrave “Për miratimin e kufijve territorialë e hidrografikë të baseneve ujore në Republikën e Shqipërisë dhe qendrën e përbërjen e këshillit të secilit prej tyre”, i ndryshuar, shfuqizohet.
