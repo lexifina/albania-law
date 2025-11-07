@@ -1,0 +1,1 @@
+1. Lirimin e z. Ermal Nufi, anëtar i këshillit drejtues të Agjencisë Shtetërore të Kadastrës, përfaqësues i Ministrisë së Infrastrukturës dhe Energjisë, dhe emërimin e znj. Viola Haxhiademi anëtar të këshillit drejtues të Agjencisë Shtetërore të Kadastrës, përfaqësues i Ministrisë së Infrastrukturës dhe Energjisë.
