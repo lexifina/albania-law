@@ -1,2 +1,0 @@
-2. Ngarkohen Ministria e Brendshme, Drejtoria e Përgjithshme e Policisë së Shtetit, Ministria e Financave dhe Ekonomisë, Drejtoria e Përgjithshme e Doganave, Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave, Ministria e Mbrojtjes, Agjencia e Inteligjencës dhe Sigurisë së Mbrojtjes, Ministria e Infrastrukturës dhe Energjisë/Autoriteti i Aviacionit Civil, “Albcontrol” sh.a., dhe Shërbimi Informativ i Shtetit për zbatimin e këtij vendimi.
-Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
