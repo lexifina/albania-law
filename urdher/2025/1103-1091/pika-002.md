@@ -1,0 +1,1 @@
+2. Autorizimet për përfaqësimin ligjor të Ministrisë për Evropën dhe Punët e Jashtme në proceset gjyqësore të nënshkruhen nga Sekretari i Përgjithshëm në emër të personit apo personave që përfaqësojnë institucionin.

@@ -1,0 +1,1 @@
+4. Të gjitha aktet e nënshkruara përpara hyrjes në fuqi të këtij urdhri dhe që janë nxjerrë në zbatim të urdhrit nr. 51, datë 1.2.2024, “Për delegim kompetencash”, do të vazhdojnë të jenë të vlefshme deri në përfundimin e procesit gjyqësor përkatës.
