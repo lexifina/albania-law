@@ -1,1 +1,0 @@
-90. Dispozitat e këtij kreu zbatohen për aktivitetet e peshkimit, subjekt i vëzhgimit në det, të miratuara në kuadër të organizatave rajonale të menaxhimit të peshkimit dhe që janë detyruese për Republikën e Shqipërisë.

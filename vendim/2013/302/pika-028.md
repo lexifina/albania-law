@@ -1,1 +1,0 @@
-28. Për të siguruar efikasitetin e ndalimit të parashikuar në pikën 27 të këtij vendimi, produktet peshkore importohen dhe eksportohen vetëm kur ato janë të shoqëruara nga një certifikatë zënieje në përputhje me kërkesat e këtij vendimi.

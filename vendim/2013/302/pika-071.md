@@ -1,1 +1,0 @@
-71. Pronari ose përdoruesi i një anijeje peshkimi të regjistruar në listën PPP mund të paraqesë kërkesë për rishikimin e statusit të anijes së peshkimit në rast se shteti flamur nuk vepron sipas pikës 70 të këtij vendimi.

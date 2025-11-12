@@ -1,1 +1,0 @@
-75. Ministria publikon listën e anijeve PPP në faqen në internet, duke e përditësuar informacionin çdo tre muaj. Lista mundëson një sistem njoftimi automatik për organizatat rajonale të menaxhimit të peshkimit, FAO-n, si dhe për anëtarë të shoqërisë civile që bëjnë kërkesë.

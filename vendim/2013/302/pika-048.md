@@ -1,1 +1,0 @@
-48. Cilido ka të drejtën për të apeluar kundër vendimeve të marra nga Drejtoria e Peshkimit, sipas pikave 45, 46 dhe 47 të këtij vendimi, që kanë lidhje me të. E drejta e ankimimit ushtrohet duke u bazuar në dispozitat e ligjit nr. 64/2012, datë 31.5.2012 “Për peshkimin”.

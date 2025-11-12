@@ -1,1 +1,0 @@
-31. Një kopje të certifikatës sipas pikës 28 të këtij vendimi, inspektorati i portit përkatës i anijes apo anijeve të peshkimit, të cilat kanë kryer zëniet, e dërgon menjëherë brenda 24 (njëzet e katër) orëve në Drejtorinë e Peshkimit, si dhe dokumentacionin provues, në format elektronik dhe në formatin origjinal.

@@ -1,1 +1,0 @@
-93. Raportet e vëzhgimit dërgohen pa vonesë tek Inspektorati i Peshkimit në Drejtorinë e Peshkimit. Drejtoria e Peshkimit i dërgon raportin e vëzhgimit shtetit, flamurin e të cilit anija mban ose sekretarit ekzekutiv të organizatës rajonale të menaxhimit të peshkimit, me qëllim që të ndiqet në përputhje me masat e miratuara nga këto organizata.

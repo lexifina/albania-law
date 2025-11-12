@@ -1,1 +1,0 @@
-65. Drejtoria krijon listën e anijeve të peshkimit PPP. Në këtë listë përfshihen anijet, për të cilat informacioni i marrë sipas këtij vendimi, si dhe pas veprimeve të kryera sipas pikave 61-64 të këtij vendimi, mundëson që të gjykohet për pjesëmarrjen në peshkimin PPP të kësaj anijeje.

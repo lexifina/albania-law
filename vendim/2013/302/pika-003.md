@@ -1,1 +1,0 @@
-3. Ky vendim zbatohet për të gjitha aktivitetet e peshkimit (PPP), siç është referuar në nenin 117 të ligjit nr. 64/2012, datë 31.5.2012 “Për peshkimin”, si dhe për aktivitete të tjera të lidhura me të, kur këto aktivitete ushtrohen sipas nenit 3 të ligjit nr. 64/2012, datë 31.5.2012 “Për peshkimin”.

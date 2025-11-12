@@ -1,1 +1,0 @@
-63. Në bazë të informacioneve të përcaktuara në pikën 61 të këtij vendimi, drejtoria identifikon anijet e peshkimit, për të cilat supozohet të jenë të përfshira në peshkimin PPP dhe që justifikon fillimin e një hetimi në bashkëpunim me shtetin flamur të anijes së peshkimit.

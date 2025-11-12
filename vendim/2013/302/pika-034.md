@@ -1,1 +1,0 @@
-34. Lista e produkteve të paraqitura në shtojcën I bashkëlidhur këtij vendimi, që përjashtohet nga qëllimi i zbatimit të certifikatës së zënieve, mund të rishikohet çdo vit nga ministria, bazuar mbi ndryshimet e bëra nga Komisioni Europian.

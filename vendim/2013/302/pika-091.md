@@ -1,1 +1,0 @@
-91. Në rast se vëzhgojnë një anije peshkimi, që është duke zhvilluar aktivitet peshkimi PPP, QNOD-ja dhe inspektorët e peshkimit plotësojnë pa vonesë një raport vëzhgimi. Ky raport dhe hetimi i kryer nga ministria shërbejnë si elemente të provës për sistemet e identifikimit, në zbatim të këtij vendimi.

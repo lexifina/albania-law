@@ -1,1 +1,0 @@
-21. Inspektimet përfshijnë të gjitha operacionet e zbarkimit dhe të transbordimit, si dhe kontrollin e kryqëzuar ndërmjet sasive të treguara në njoftimin paraprak të zbarkimit dhe sasive të zbarkuara ose të transborduara.

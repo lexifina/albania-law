@@ -1,1 +1,0 @@
-99. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe Drejtoria e Përgjithshme e Doganave hartojnë një marrëveshje bashkëpunimi për modalitetet e zbatimit të pikave 36, 37, 39, 42, 45 dhe 46 të këtij vendimi.

@@ -1,1 +1,0 @@
-81. Ministria dërgon njoftimin duke përdorur mjete të ndryshme komunikimi, si dhe duke u siguruar që të marrë konfirmim për këtë njoftim. Në njoftim lihet koha e nevojshme për përgjigje dhe marrjen e masave përmirësuese.

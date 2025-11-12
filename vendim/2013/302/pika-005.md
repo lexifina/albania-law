@@ -1,1 +1,0 @@
-5. Janë të ndaluara të gjitha operacionet e transbordimit ndërmjet anijeve shqiptare të peshkimit dhe anijeve të vendeve të tjera në zonën e përcaktuar nga neni 3 i ligjit nr. 64/2012, datë 31.5.2012 “Për peshkimin”. Këto operacione lejohen në port, vetëm në përputhje me rregullat e këtij kreu.

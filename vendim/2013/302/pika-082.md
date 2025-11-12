@@ -1,1 +1,0 @@
-82. Ministria njofton pa vonesë vendin në fjalë për vendimin e saj, për identifikimin si vend jobashkëpunues dhe penalitetet që zbatohen sipas pikës 86 të këtij vendimi, si dhe i bën ftesë që të përmirësojë situatën dhe të garantojë respektimin e masave mbrojtëse e menaxhuese nga anijet e tij.

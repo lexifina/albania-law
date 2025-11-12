@@ -1,1 +1,0 @@
-6. Anijeve të peshkimit me flamur shqiptar nuk u lejohet të transbordojnë në det, jashtë ujërave shqiptare, zëniet e kryera nga anije me flamur të huaj, me përjashtim të rasteve kur janë të regjistruara si anije transporti pranë një organizate rajonale peshkimi.

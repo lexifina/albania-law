@@ -1,4 +1,0 @@
-39. Certifikata e vlefshme e zënieve paraqitet nga importuesi të paktën tri dite pune para kohës së parashikuar të mbërritjes tek:
-a) autoritetet kompetente të shtetit anëtar, në të cilin produkti synohet të importohet në pikën e hyrjes në territorin e Bashkimit Europian;
-b) Inspektorati i Peshkimit në Shqipëri, pasi janë vulosur nga autoritetet doganore në pikën e hyrjes në territorin e Shqipërisë.
-Afati kohor prej tri ditësh pune, llogaritet duke konsideruar llojin e produktit peshkor, distancën e pikës së hyrjes në territorin e vendeve të Komunitetit Europian ose shqiptar apo mjetet e transportit të përdorura sipas shtojcës V bashkëlidhur këtij vendimi. Autoritetet sipas shkronjave “a” dhe “b”, të kësaj pike, kontrollojnë certifikatat e zënieve, në bazë të menaxhimit të riskut për përmbajtjen e tyre dhe në përputhje me kushtet e përcaktuara në pikat 50 dhe 54 të këtij vendimi.

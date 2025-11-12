@@ -1,1 +1,0 @@
-56. Nëse nga informacionet e mbledhura sipas këtij vendimi ka dyshime të bazuara në lidhje me përputhshmërinë e anijeve ose të prodhimeve peshkore të disa shteteve me legjislacionin dhe rregulloret ndërkombëtare të menaxhimit e të mbrojtjes së burimeve peshkore, ministria publikon në faqen e saj në internet një njoftim alarmi, duke njoftuar operatorët shqiptarë për këtë alarm.

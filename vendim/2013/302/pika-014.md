@@ -1,1 +1,0 @@
-14. Autorizimi për të filluar veprimet e zbarkimit dhe të trasbordimit jepet pas një kontrolli që ka për qëllim verifikimin e të gjithë dokumentacionit të paraqitur sipas pikës 13 të këtij vendimi dhe, nëse është e nevojshme, sipas modaliteteve të parashikuara në seksionin 2 të këtij kreu.

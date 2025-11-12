@@ -1,1 +1,0 @@
-53. Shqipëria pranon certifikatat e zënies së një vendi të Bashkimit Europian ose të ndryshëm nga Bashkimi Europian, të cilat kanë dhënë njoftim në Komisionin Europian në përputhje me kërkesat e pikave 29 dhe 51 të këtij vendimi.
