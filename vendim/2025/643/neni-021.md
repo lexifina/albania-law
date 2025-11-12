@@ -1,0 +1,6 @@
+# Neni 21
+Tranziti dhe transporti
+1. Nëse, në pikën e hyrjes në territorin e Republikës së Shqipërisë, produktet e peshkimit janë nën një regjim tranziti dhe transportohen në një shtet tjetër, zbatohen dispozitat e neneve 18 dhe 20 të këtij vendimi.
+2. Nëse, në pikën e hyrjes në territorin e Republikës së Shqipërisë, produktet e peshkut janë nën një regjim tranziti dhe transportohen në një pikë tjetër doganore në Shqipëri, ku do të vendosen nën një regjim tjetër doganor, dispozitat e neneve 17, 18 dhe 20 të këtij vendimi zbatohen në pikën e hyrjes ose në vendin e destinacionit.
+3. Nëse, në pikën e hyrjes në territorin e Republikës së Shqipërisë, produktet e peshkimit transbordohen dhe transportohen nga deti për në një shtet tjetër, do të zbatohen dispozitat e neneve 18 dhe 20 të këtij vendimi.
+4. Ministria i komunikon në rrugë elektronike shtetit të destinacionit, sapo të njihet me informacionin dhe, në çdo rast, përpara datës së pritshme të mbërritjes në portin e destinacionit, informacionin që përmban dokumentacioni i transportit, në lidhje me llojin e produkteve të peshkimit, peshën e tyre, portin e ngarkimit dhe dërguesin e vendit të tretë, emrin e mjetit lundrues, që kryen transportin dhe portet e transbordit e të destinacionit.

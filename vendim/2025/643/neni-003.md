@@ -1,0 +1,6 @@
+# Neni 3
+Inspektimi portual
+1. Rregullat e inspektimit në port zbatohen për anijet e peshkimit me flamur të huaj, që hyjnë në portet shqiptare me synimin për të parandaluar, reduktuar dhe eliminuar peshkimin PPP.
+2. Anijeve me flamur të huaj, që nuk plotësojnë kërkesat e parashikuara nga ky vendim, u ndalohet hyrja në portet shqiptare, përfitimi nga shërbimet portuale, si dhe kryerja e operacioneve të zbarkimit, transbordimit në këto porte, me përjashtim të rasteve të forcës madhore, sipas Konventës mbi të Drejtën e Detit, miratuar me ligjin nr. 9055, datë 24.4.2003, “Për aderimin e Republikës së Shqipërisë në ’Konventën mbi të Drejtën e Detit’ të OKB-së”.
+3. Të gjitha operacionet e transbordimit janë të ndaluara ndërmjet anijeve shqiptare të peshkimit dhe anijeve me flamur të huaj në ujërat territoriale shqiptare. Këto operacione lejohen në port, vetëm në përputhje me rregullat e këtij kreu.
+4. Anijeve të peshkimit me flamur shqiptar nuk u lejohet të transbordojnë në det, jashtë ujërave territoriale shqiptare, zëniet e kryera nga anije me flamur të huaj, me përjashtim të rasteve kur anijet me flamur të huaj janë të regjistruara si anije transporti pranë një organizate rajonale të menaxhimit të peshkimit.

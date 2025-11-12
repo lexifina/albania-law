@@ -1,0 +1,16 @@
+# Neni 5
+Njoftimi paraprak
+1. Kapitenët e anijeve të peshkimit me flamur të huaj ose përfaqësuesit e tyre njoftojnë paraprakisht Drejtorinë e Përgjithshme Detare, jo më vonë se 3 (tri) ditë para kohës së parashikuar për mbërritjen në port. Njoftimi përmban informacionet e mëposhtme:
+a) të dhënat për identifikimin e anijes;
+b) emrin e portit të përcaktuar si destinacion dhe qëllimin e mbërritjes në port, të zbarkimit, të transbordimit ose të përfitimit të shërbimeve;
+c) autorizimin/lejen e peshkimit ose, sipas rastit, autorizimin për të mbështetur operacionet e peshkimit ose të transbordimit të prodhimeve të peshkimit;
+ç) datën dhe orën e parashikuar për mbërritje në port;
+d) datat e zënieve të prodhimeve të peshkimit;
+dh) të dhënat për sasitë për secilin lloj të mbajtur në bord ose, sipas rastit, kur nuk ka të tillë, një relacion negativ;
+e) të dhënat për zonën ose zonat, në të cilën/at janë kryer zëniet ose transbordimet (ujërat shqiptare ose zonat ujore nën juridiksionin e vendeve të huaja ose në det të hapur);
+ë) të dhënat për sasitë që do të zbarkohen ose do të transbordohen për çdo lloj.
+2. Kapitenët e anijeve të peshkimit me flamur shqiptar ose përfaqësuesit e tyre njoftojnë paraprakisht autoritetet përgjegjëse të vendit anëtar të Bashkimit Evropian të porteve të përcaktuara, që kanë qëllim të përdorin, jo më vonë se 3 (tri) ditë pune, përpara kohës së parashikuar për mbërritjen në port, informacionet sipas pikës 1 të këtij neni.
+3. Njoftimi paraprak kryhet sipas modelit të përcaktuar në shtojcën II A, që i bashkëlidhet këtij vendimi dhe, në rast se zëniet janë të shoqëruara me një certifikatë zënieje, njoftimi bëhet sipas formatit të parashikuar në shtojcën II B, që i bashkëlidhet këtij vendimi.
+4. Kapitenët e anijeve të peshkimit me flamur të huaj dhe kapitenët e anijeve shqiptare të peshkimit ose përfaqësuesit e tyre përjashtohen nga detyrimi i njoftimit të informacionit, sipas pikave 1, shkronjat: “a”, “c”, “d”, “e” e “ë”, dhe 2, të këtij neni, në rastet kur certifikatës së zënieve i është dhënë vlefshmëria, sipas kreut III të këtij vendimi, për të gjitha zëniet që do të zbarkojnë ose do të transbordojnë në territorin shqiptar ose të Bashkimit Evropian.
+5. Nëse një anije peshkimi shqiptare ose me flamur të huaj mban në bord produkte peshkimi, njoftimi, sipas pikave 1 dhe 2 të këtij neni, shoqërohet nga një certifikatë zëniesh, që ka marrë vlefshmërinë sipas kreut III të këtij vendimi. Rregullat, sipas neneve 13 e 15 të këtij vendimi, zbatohen në portet shqiptare dhe të vendeve të Bashkimit Evropian, sipas certifikatave të zënies ose të mënyrës së kontrollit, pjesë në sistemet e dokumentimit të zënieve ose të kontrollit në porte, të miratuara nga organizatat rajonale të menaxhimit të peshkimit përkatëse. Ministri përjashton disa kategori të anijeve të peshkimit me flamur të huaj ose shqiptare nga detyrimi i parashikuar në pikën 1 të këtij neni për një periudhë kohe të kufizuar e të rinovueshme ose parashikon një periudhë tjetër njoftimi, duke marrë parasysh, ndër të tjera, llojin e produktit të peshkimit, distancën ndërmjet zonave të peshkimit, vendeve të zbarkimit dhe porteve, ku janë të regjistruara ose të listuara anijet në fjalë.
+6. Ky nen zbatohet pa prekur dispozitat e veçanta të përcaktuara në marrëveshjet ndërkombëtare të peshkimit, në të cilat është palë Republika e Shqipërisë.

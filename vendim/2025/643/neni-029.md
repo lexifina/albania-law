@@ -1,0 +1,10 @@
+# Neni 29
+Hartimi i listës së anijeve PPP
+1. Ministria krijon listën e anijeve të peshkimit PPP. Në këtë listë përfshihen anijet, për të cilat informacioni i marrë sipas këtij vendimi, si dhe pas veprimeve të kryera sipas neneve 27 dhe 28 të këtij vendimi, vlerësohen për pjesëmarrjen në peshkimin PPP të këtyre anijeve dhe shtetet e flamurit të të cilave nuk kanë përmbushur detyrimin e shkronjave “b” dhe “c”, të pikës 2, të nenit 28, të këtij vendimi, për të luftuar një peshkim PPP.
+2. Përpara regjistrimit të një anijeje në listën PPP, ministria i dërgon pronarit ose përdoruesit të anijes në fjalë një relacion për arsyet, për të cilat anija do të regjistrohet në këtë listë, duke përshkruar të gjitha elementet, që çojnë në dyshimin se kjo anije është e përfshirë në peshkim PPP. Ky relacion shpjegon arsyet dhe të drejtën e kërkesës ose të dërgimit të informacioneve të tjera shtesë, si dhe i jep mundësinë pronarit ose përdoruesit që të dëgjohet e të ushtrojë të drejtën e ankimit, sipas rregullave të parashikuara në Kodin e Procedurave Administrative.
+3. Në rastin kur ministria vendos të regjistrojë anijen në listën PPP, ky vendim i dërgohet pronarit ose përdoruesit të anijes së peshkimit së bashku me arsyet.
+4. Detyrimet e ministrisë për zbatimin e pikave 2 dhe 3 të këtij neni zbatohen pa cenuar përgjegjësinë kryesore të shtetit flamur kundrejt anijes së peshkimit dhe zbatohen vetëm në rast se ministria identifikon qartësisht pronarin ose përdoruesin e anijes së peshkimit.
+5. Ministria, gjithashtu, njofton shtetin flamur për vendimin e saj për të përfshirë në listën e anijeve PPP të anijes së peshkimit së bashku me arsyen përkatëse.
+6. Ministria u kërkon vendeve flamur, që kanë anije të regjistruara në listën PPP, që:
+a) të njoftojnë pronarët e anijeve për regjistrimin e anijeve të tyre në listën PPP, për arsyet që justifikojnë këtë regjistrim, si dhe për pasojat;
+b) të marrin të gjitha masat e nevojshme për të ndaluar peshkimin PPP, përfshirë këtu, nëse është e nevojshme, çregjistrimin, anulimin e lejes së anijeve në fjalë, si dhe të njoftojnë edhe ministrinë për masat e marra.

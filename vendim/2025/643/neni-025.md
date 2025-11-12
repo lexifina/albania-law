@@ -1,0 +1,3 @@
+# Neni 25
+Njoftimi i alarmit
+Nëse, nga informacionet e mbledhura, Komisioni Evropian publikon një njoftim alarmi të ardhur nga dyshime të bazuara për përputhshmërinë e anijeve ose të prodhimeve peshkore të disa shteteve me legjislacionin, përfshirë këtu edhe legjislacionin e zbatueshëm të njoftuar që zbatohet nga këto shtete dhe rregulloret ndërkombëtare të menaxhimit e të mbrojtjes së burimeve peshkore, ministria publikon, në faqen e saj zyrtare të internetit, një njoftim alarmi, duke njoftuar operatorët shqiptarë për këtë alarm dhe duke marrë masat e nevojshme në drejtim të shteteve në fjalë, sipas përcaktimeve në këtë kre.

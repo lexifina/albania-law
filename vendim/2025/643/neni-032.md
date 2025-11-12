@@ -1,0 +1,5 @@
+# Neni 32
+Listat e anijeve PPP të miratuara nga organizatat rajonale të peshkimit
+1. Përveç anijeve të parashikuara në pikën 1, të nenit 29, të këtij vendimi, në listën kombëtare të anijeve PPP regjistrohen anijet e përcaktuara në listat e organizatave rajonale të menaxhimit të peshkimit dhe të Komisionit Evropian. Fshirja nga kjo listë rregullohet nga vendimet e këtyre organizatave rajonale të menaxhimit të peshkimit dhe të Komisionit Evropian.
+2. Ministria, çdo vit, njofton inspektoratin përgjegjës për peshkimin me email ose shkresë zyrtare për listat e anijeve të peshkimit, që dyshohet ose konfirmohet se janë të përfshira në peshkimin PPP të dërguara nga organizatat rajonale të menaxhimit të peshkimit.
+3. Ministria njofton menjëherë inspektoratin përgjegjës për peshkimin për çdo shtesë, çdo fshirje nga lista ose çdo modifikim të listave të përmendura në pikën 2 të këtij neni, në çdo kohë që ndodhin këto ndryshime. Neni 39 i këtij vendimi zbatohet në lidhje me anijet që publikohen në listat e anijeve të organizatave rajonale të menaxhimit të peshkimit PPP, sa herë ndryshohen listat që nga momenti i njoftimit të tyre tek inspektorati përgjegjës për peshkimin.

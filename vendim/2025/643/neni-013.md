@@ -1,0 +1,5 @@
+# Neni 13
+Dokumentacioni i peshkimit, i miratuar dhe i zbatuar nga organizatat rajonale të menaxhimit të peshkimit
+1. Dokumentet e zënies dhe çdo dokument që lidhet me to, të cilave u është dhënë vlefshmëri, në përputhje me skemat e dokumentacionit të zënieve të miratuara nga një organizatë rajonale e menaxhimit të peshkimit dhe që janë në përputhje me kërkesat e përcaktuara në këtë vendim, pranohen si certifikata zënieje për produktet e peshkimit për speciet, për të cilat këto skema u nënshtrohen detyrimeve të kontrollit dhe verifikimit nga shteti importues Shqipëria ose shtetet anëtare të Bashkimit Evropian, në përputhje me nenet 17, 18 dhe 20 të këtij vendimi.
+2. Pika 1 e këtij neni zbatohet pa cenuar rregullat e përcaktuara në këtë vendim dhe të legjislacionit për peshkimit në fuqi.
+3. Skemat e dokumentimit të zënieve të miratuara nga organizatat rajonale të menaxhimit të peshkimit, të listuara në pjesët I dhe II, të shtojcës V, të këtij vendimi, zbatohen për qëllimet e pikës 1 të këtij neni.
