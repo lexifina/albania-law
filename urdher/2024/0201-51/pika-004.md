@@ -1,1 +1,0 @@
-4. Të gjitha aktet e nënshkruara para hyrjes në fuqi të këtij urdhri dhe që janë nxjerrë në zbatim të urdhrit nr. 317, datë 13.9.2023, “Për delegim kompetencash”, do të vazhdojnë të jenë të vlefshme deri në përfundimin e procesit gjyqësor përkatës.
