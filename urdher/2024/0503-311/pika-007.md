@@ -1,1 +1,0 @@
-7. Të gjitha njoftimet për çështjet konsullore, publikimi i aktiviteteve konsullore në faqet zyrtare dhe llogaritë zyrtare të rrjeteve sociale të MEPJ-së dhe të misioneve diplomatike/posteve konsullore të RSH-së bëhen me miratim të Sekretarit të Përgjithshëm, sipas propozimeve të Drejtorisë së Çështjeve Konsullore, në bashkëpunim me kabinetin e ministrit.

@@ -1,1 +1,0 @@
-3. Sekretaria Qendrore qarkullon kundrejt nënshkrimit te drejtori i Drejtorisë së Çështjeve Konsullore dokumentet hyrëse në institucion me karakter të qartë konsullor. Rastet e tjera qarkullohen sipas rregullit të përgjithshëm të dokumenteve hyrëse.
