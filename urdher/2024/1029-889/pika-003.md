@@ -1,1 +1,0 @@
-3. Të gjitha strukturat e Ministrisë së Ekonomisë, Kulturës dhe Inovacionit detyrohen të shkëmbejnë çdo informacion të nevojshëm, mbajtjen e një qëndrimi zyrtar me shkrim dhe/ose dhënie mendimi teknik, me qëllim realizimin e mbrojtjes ligjore nga ana e Drejtorisë së Programimit, Standardizimit dhe Harmonizimit të Kuadrit Rregullator.
