@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Arsimit, zëvendësministrit të Arsimit, znj. Herida Duro, për ushtrimin e kompetencave në fushën e arsimit parauniversitar, lidhur me veprimtaritë ekstrakurrikulare që kryhen jashtë orarit mësimor.
