@@ -1,0 +1,30 @@
+2. Në ushtrim të kompetencave të titullarit të Ministrisë së Arsimit, sipas pikës 1 të këtij urdhri, zëvendësministri ngarkohet të kryejë detyrat e mëposhtme:
+a) Ndjek dhe nënshkruan akte për zbatimin e programit të qeverisë lidhur me hartimin, zbatimin dhe monitorimin e strategjive kombëtare në fushën e arsimit të lartë dhe kërkimit shkencor, si dhe planeve të veprimit në zbatim të tyre;
+b) Kontribuon në hartimin, plotësimin dhe përmirësimin e kuadrit ligjor dhe nënligjor, për organizimin dhe veprimtarinë në fushën e arsimit të lartë dhe kërkimit shkencor;
+c) Inicion dhe ndjek përgatitjen e akteve ligjore e nënligjore bazuar në planin e miratuar të akteve dhe rregulloreve;
+ç) Monitoron dhe organizon punën për zbatimin e strategjive kombëtare për arsimin në fushën e arsimit të lartë dhe kërkimit shkencor, dhe nënshkruan akte që lidhen me to përfshirë programet dhe planet e veprimit të Strategjisë Kombëtare të Arsimit dhe Strategjisë Kombëtare për Kërkimin Shkencor, Teknologjinë dhe Inovacionin 2023-2030 dhe planet e veprimit të tyre, në zbatim të legjislacionit në fuqi;
+d) Trajton dhe miraton standarde dhe kritere të përcaktuara në kuadrin ligjor në fuqi, në fushën e arsimit të lartë dhe kërkimit shkencor, si dhe monitoron zbatimin e tyre;
+dh) Siguron të dhëna të detajuara dhe analiza periodike për politikat e zhvillimit të arsimit të lartë dhe kërkimit shkencor;
+e) Ndjek dhe monitoron zbatimin e planit të veprimit për organizimin dhe zhvillimin e burimeve njerëzore, si dhe në ushtrimin e detyrave të tyre profesionale;
+ë) Trajton dhe nënshkruan programet e financimit dhe investimeve në fushën e arsimit të lartë dhe kërkimin shkencor, përfshirë edhe ato që lidhen me digjitalizimin, si dhe ndjek dhe monitoron ecurinë e zbatimit të tyre;
+f) Nënshkruan dhe drejton grupe pune me nëpunës të Ministrisë përgjegjëse për arsimin apo të strukturave vartëse për hartimin e akteve ligjore, nënligjore në fushën e arsimit të lartë dhe kërkimit shkencor, si dhe ndjek procesin për realizimin e detyrave të tyre;
+g) Trajton dhe nënshkruan aktet për hapjen, mbylljen dhe riorganizimin e programeve të institucioneve të arsimit të lartë për të gjitha ciklet e studimit, ofrimin e programeve të studimit edhe në gjuhë të huaj, certifikimin e kapaciteteve pritëse dhe rialokimin e kuotave të miratuara brenda njësive kryesore;
+gj) Trajton dhe miraton projekt-statutet dhe ndryshimet statutore të institucioneve të arsimit të lartë;
+h) Nënshkruan, ndjek dhe monitoron zbatimin e programeve dhe projekteve në fushën e arsimit të lartë dhe kërkimit shkencor;
+i) Ndjek dhe monitoron performancën e strukturave arsimore të varësisë, duke marrë masa për organizimin e punës me strukturat përgjegjëse, me fokus strukturat AKFAL, AKKSHI, QSHA, ASCAL dhe institucionet e tjera që kanë fokus dhe objekt të punës arsimin e lartë dhe kërkimin shkencor;
+j) Nënshkruan, ndjek dhe monitoron projektet strategjike dhe programet e studimit të të gjitha cikleve të arsimit të lartë dhe kërkimit shkencor, duke bashkërenduar punën me ministritë e tjera dhe të gjitha institucionet partnere kombëtare dhe ndërkombëtare;
+k) Drejton grupe pune, në funksion të analizimit të programeve e projekteve dhe inicion përmirësimin e tyre në bashkëpunim me partnerë dhe ekspertë vendas dhe të huaj;
+l) Nënshkruan dhe miraton rregulloret tip të institucioneve të varësisë dhe manualet operacionale tip, për punën e institucioneve të varësisë në fushën e arsimit të lartë dhe kërkimit shkencor;
+ll) Trajton dhe nënshkruan shkresat që i drejtohen institucioneve të tjera për çështje të antikorrupsionit dhe bashkëqeverisjes, në fushën e arsimit të lartë dhe kërkimit shkencor;
+m) Ndjek monitoron dhe nënshkruan, projekt-raportet dhe raportet e kontrollit të ligjshmërisë së institucioneve të arsimit të lartë;
+n) Trajton dhe monitoron kthimin e përgjigjeve për shkresat, kërkesat dhe ankesat e ardhura nga institucionet shtetërore dhe organizmat e tjerë për fushën e arsimit të lartë;
+nj) Trajton dhe nënshkruan miratimin e vendimit të arsyetuar për vlerësimin e kontributit të shtetasve të huaj që kërkojnë fitimin e shtetësisë shqiptare për kontribut të veçantë në fushën e arsimit të lartë ose shkencës, nëse ai përbën interes për shtetin shqiptar ose jo, sipas përcaktimeve në kuadrin ligjor në fuqi, si dhe dhënien e pëlqimit nga ministria përgjegjëse për arsimin për titullin “Doctor Honoris Causa”, sipas kërkesave të institucioneve të arsimit të lartë, pas procedurave të verifikimit;
+o) Përfaqëson ministrinë në këshilla vendas apo të huaj, grupe pune ndërinstitucionale, komisione sipas delegimit përkatës për fushën e përgjegjësisë që mbulon apo evente të tjera;
+p) Përfaqëson institucionin në grupe pune lidhur me fushën e arsimit të lartë dhe kërkimit shkencor, me qëllim hartimin dhe ndjekjen e programeve, projekteve dhe politikave arsimore në vend;
+q) Bashkëpunon dhe koordinon punën me zëvendësministrin për çështjet e arsimit parauniversitar, për çështje të caktuara që i përkasin edhe fushës së përgjegjësisë dhe veprimtarisë së dy ose më shumë zëvendësministrave;
+r) Informon periodikisht dhe sa herë është e nevojshme, ndjekjen e detyrave dhe zbatimin e tyre, pranë Kabinetit të ministrit;
+rr) Ndjek procedurat ngarkuara ose autorizuara nga ministri bazuar në legjislacionin në fuqi;
+s) Ndjek dhe nënshkruan njohjen dhe njësimin e titujve akademikë dhe gradave shkencore të fituara jashtë vendit, duke përfshirë kryesimin dhe ngritjen e Komisionit të Njohjes dhe Njësimit të Gradave Shkencore (KNJG) dhe komisioneve ad-hoc për njohjen e titujve akademikë për secilin aplikim, për njohje titulli akademik të fituar jashtë vendit, me pedagogë ekspertë të fushës përkatëse të kategorisë “Profesor”;
+sh) Kryeson Bordin e Administrimit të Agjencisë Kombëtare të Kërkimit Shkencor dhe Inovacionit;
+t) trajton dhe nënshkruan përgjigjet për kontrollet dhe raportet e auditit të brendshëm sipas fushës së përgjegjësisë, të koordinuara nga Sekretari i Përgjithshëm, në fushën e arsimit të lartë dhe kërkimit shkencor;
+th) Ndjek dhe nënshkruan udhëzimet në fushën e arsimit të lartë dhe kërkimit shkencor.
