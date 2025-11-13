@@ -1,0 +1,1 @@
+4. Të gjitha strukturat e Ministrisë së Turizmit, Kulturës dhe Sportit, si dhe institucionet në varësi të saj, detyrohen të shkëmbejnë çdo informacion të nevojshëm, mbajtjen e një qëndrimi zyrtar me shkrim dhe/ose dhënie mendimi teknik, me qëllim realizimin e mbrojtjes ligjore nga ana e Sektorit të Këshillimit të Çështjeve Ligjore dhe Gjyqësore.

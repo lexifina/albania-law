@@ -1,0 +1,1 @@
+8. Urdhri nr. 889, datë 29.10.2024, “Për delegimin dhe disa rregulla të përfaqësimit ligjor të Ministrisë së Ekonomisë, Kulturës dhe Inovacionit”, i ndryshuar, për pjesën e fushës së përgjegjësisë shtetërore të kulturës, shfuqizohet.
