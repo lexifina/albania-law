@@ -1,0 +1,1 @@
+4. Tabela bashkëlidhur këtij urdhri do të përmbajë informacionin për të gjitha çështjet gjyqësore të ndjekura brenda një viti pune dhe do të përsëritet në fillim të çdo viti, duke pasqyruar çështjet e mbartura, të ankimuara dhe çështjet e reja. Numri rendor i çështjeve në tabelën raportuese duhet të mbetet i njëjtë deri në fund të vitit.

@@ -1,0 +1,1 @@
+3. Në çështjet gjyqësore në të cilat kërkohet “marrja e masës së sigurimit të padisë” apo “sigurimi i provës”, të cilat kanë afate të shkurtra kohore, raportohet menjëherë me marrjen në dijeni të tyre pranë Sekretarit të Përgjithshëm të MTKS-së dhe personit të kontaktit të caktuar për koordinimin e mbrojtjes me Avokaturën e Shtetit.
