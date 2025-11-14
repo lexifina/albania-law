@@ -1,0 +1,1 @@
+4. Të gjitha shpenzimet për kryerjen e procedurave për mbylljen e akademisë “Nehemiah Gateway”, në zbatim të këtij vendimi, përballohen nga ana e institucionit jopublik të arsimit të lartë/fondacioni “Nehemiah Gateway Albania (NG Albania)”, që e përfaqëson.
