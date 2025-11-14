@@ -1,0 +1,1 @@
+3. Organet e qeverisjes qendrore, për çdo person juridik, publik në varësi, brenda fushës së përgjegjësisë, që kryejnë veprime juridike për tjetërsimin e dhënien në përdorim të pronës shtetërore ose që kryejnë evidentimin, transferimin apo tjetërsimin e pronës shtetërore.

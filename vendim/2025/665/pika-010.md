@@ -1,0 +1,4 @@
+10. Ministria përgjegjëse për kulturën, për:
+a) shitblerjen me ankand të sendeve me vlerë në fushën e artit e të kulturës mbi 1 000 000 (një milion) lekë ose më shumë;
+b) shitblerjen apo ndërmjetësimin e veprave të artit, përfshirë kur kjo kryhet nga galeritë e artit apo shtëpitë e ankandeve, kur vlera e transaksionit të vetëm apo e transaksioneve të lidhura me njëra-tjetrën është e barabartë apo më e madhe se 1 000 000 (një milion) lekë, pavarësisht nëse transaksioni kryhet në një transaksion të vetëm ose në disa transaksione të lidhura me njëra-tjetrën;
+c) magazinimin, shitblerjen apo ndërmjetësimin e veprave të artit, kur kjo kryhet në “zonat e lira”, kur vlera e transaksionit të vetëm apo e transaksioneve të lidhura me njëra-tjetrën është e barabartë apo më e madhe se 1 000 000 (një milion) lekë, pavarësisht nëse transaksioni kryhet në një transaksion të vetëm ose në disa transaksione të lidhura me njëra-tjetrën.
