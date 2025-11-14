@@ -1,1 +1,0 @@
-5. Titullimi “Oficer rezervist” dhe dhënia e gradës ushtarake për oficerët deri në kolonel/ kapiten i rangut I bëhet me urdhër të ministrit të Mbrojtjes, me propozimin e Shefit të Shtabit të Përgjithshëm ose të Komandantit të Forcave të Armatosura.

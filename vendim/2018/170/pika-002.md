@@ -1,1 +1,0 @@
-2. Ushtaraku në rezervë, me përfshirjen e tij në strukturat rezerviste të Forcave të Armatosura, titullohet dhe i jepet grada ushtarake që ai ka pasur në momentin e ndërprerjes së shërbimit aktiv në Forcat e Armatosura.

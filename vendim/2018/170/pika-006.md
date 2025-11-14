@@ -1,1 +1,0 @@
-6. Titullimi “Nënoficer dhe ushtar/detar rezervist” dhe dhënia e gradës ushtarake deri ushtar/detar IV ose kryekapter bëhet me urdhër të Shefit të Shtabit të Përgjithshëm të Forcave të Armatosura ose të Komandantit të Forcave të Armatosura, me propozimin e Qendrës së Personel Rekrutimit (QPR).

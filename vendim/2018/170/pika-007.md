@@ -1,1 +1,0 @@
-7. Ushtarakëve në rezervë (oficer, nënoficer dhe ushtarë/detar) u lind e drejta e gradimit të radhës kur plotësojnë kriteret e përgjithshme të gradimit, arsimimit dhe kualifikimit, të përcaktuara në krerët II e III, të këtij vendimi.
