@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është përcaktimi i kritereve, procedurave të pranimit, titullimit e të gradimit të ushtarakut në shërbimin ushtarak rezervist për sigurimin e individëve të trajnuar për kompletimin e strukturës së Forcave të Armatosura (FA) për ruajtjen e nivelit të gatishmërisë në sigurinë e vendit.

@@ -1,0 +1,1 @@
+8. Ushtarakët në shërbimin rezervistë, oficerë, nënoficerë dhe ushtarë/detarë kanë të drejtën e gradimit të radhës kur plotësojnë kriteret e përgjithshme të gradimit, arsimimit dhe kualifikimit, të përcaktuara në krerët V e VI të këtij vendimi.
