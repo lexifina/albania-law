@@ -92,10 +92,6 @@ FORMULAR PëR INVENTARIZIMIn E PRONAVE Të PALUAJTSHME SHTETëRORE
 | |
 |Nr. |A |B |C |
 | | | | |
-| |Zona kadastrale |Nr. |Lloji i pronës |
-| |& |pasurisë | |
-| |indeksi | | |
-| |i hartës | | |
 | |
 |Nr. |A |B |C |
 |rendor | | | |
