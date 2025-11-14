@@ -1,0 +1,1 @@
+3. Aplikimi i ndryshimeve në “Kontratat që i referohen energjisë elektrike në varësi të natyrës”, publikuar në dhjetor 2024, kanë datë efektive më 1 janar 2026, por lejohet zbatimi më i hershëm i tyre.

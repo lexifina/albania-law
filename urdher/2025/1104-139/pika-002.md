@@ -1,0 +1,1 @@
+2. Ndryshimet në “Kontratat që i referohen energjisë elektrike në varësi të natyrës”, publikuar nga BSNK, në dhjetor 2024, përfshijnë kryesisht ndryshime në SNRF 9, “Instrumentet Financiare”, SNRF 7, “Instrumentet Financiare: Dhënia informacioneve shpjeguese” dhe SNRF 19, “Filialet pa përgjegjësi publike: Dhënia e informacioneve shpjeguese”.
