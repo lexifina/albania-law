@@ -1,0 +1,1 @@
+4. Autoritetet licencuese dhe mbikëqyrëse i kthejnë përgjigje Agjencisë së Inteligjencës Financiare brenda 10 (dhjetë) ditëve kalendarike nga data e marrjes së kërkesës për informacion. Në raste urgjente, autoriteti përgjegjës mund të kërkojë informacion edhe brenda një afati më të shkurtër sesa ai i parashikuar në ligj.

@@ -1,0 +1,6 @@
+1. Autoritetet licencuese dhe mbikëqyrëse raportojnë tek autoriteti përgjegjës, Agjencia e Inteligjencës Financiare, menjëherë dhe jo më vonë se 72 (shtatëdhjetë e dy) orë nga çasti i konstatimit të çdo dyshimi, informacioni apo të dhëne, që lidhet me pastrimin e parave, financimin e terrorizmit, apo financimin e armëve të shkatërrimit në masë, për veprimtaritë nën juridiksionin e tyre, në rastet kur:
+a) kanë dyshime që mund të lidhen me parregullsi në dokumentacionin identifikues e justifikues të burimit të ligjshëm të kapitaleve me ato reale;
+b) vërejnë mosjustifikim të pasurisë apo të parave të deklaruara nga pikëpamja ekonomike ose ligjore;
+c) kanë informacione, sinjalizime se të dhënat për paratë apo pasuritë e depozituara për licencim rrjedhin nga vepra penale ose janë të përziera me para apo pasuri të tilla, apo kur dyshojnë se veprimtaria që kërkohet të licencohet do të ngrihet për të realizuar ose për të mbështetur pastrimin e parave;
+ç) kanë të dhëna apo dyshime për përfshirje ose qëllime, që vërtetojnë se veprimtaria do të përdoret për të kryer, mbështetur, lehtësuar, ruajtur, nxitur ose fshehur aktet terroriste apo do të financojnë terrorizmin;
+d) kanë dyshime të tjera, të bazuara në gjendjen ose në rrethanat, që nuk janë parashikuar më lart.
