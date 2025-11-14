@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 27.5.2025, për çështjen “ARB sh.p.k., dhe të tjerë kundër Shqipërisë”, për kërkesën nr. 39860/19 dhe 3 kërkesa të tjera, përfundimtar më 27.8.2025, sipas shumave të përcaktuara në shtojcën 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse tij.
