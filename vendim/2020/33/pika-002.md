@@ -1,2 +1,0 @@
-2. Ngarkohen Ministria e Mbrojtjes, Ministria e Brendshme, Ministria për Evropën dhe Punët e Jashtme, Ministria e Financave dhe Ekonomisë, Ministria e Drejtësisë, Ministria e Shëndetësisë dhe Mbrojtjes Sociale, Ministria e Arsimit, Sportit dhe Rinisë, Ministria e Infrastrukturës dhe Energjisë, Ministria e Turizmit dhe Mjedisit, Ministria e Bujqësisë dhe Zhvillimit Rural dhe Shërbimi Informativ i Shtetit për zbatimin e këtij vendimi.
-Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
