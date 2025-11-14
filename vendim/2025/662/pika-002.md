@@ -1,0 +1,1 @@
+2. Vendimi nr. 33, datë 22.1.2020, i Këshillit të Ministrave, “Për miratimin e Strategjisë Kombëtare për Mospërhapjen e Armëve të Dëmtimit në Masë dhe të planit të veprimit për zbatimin e saj”, shfuqizohet.
