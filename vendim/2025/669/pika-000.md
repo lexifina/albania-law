@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave (huamarrësi), Fondit Shqiptar të Zhvillimit (agjencia e zbatimit të projektit) dhe KfW, Frankfurt am Main (KfW), të marrëveshjes së huas, për financimin e programit “Furnizimi me ujë i zonave rurale IV”, ratifikuar me ligjin nr. 49/2019, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
