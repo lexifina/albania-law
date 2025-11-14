@@ -1,0 +1,1 @@
+5. “Subjekte të interesuara” për sistemin SIM janë subjektet apo institucionet e interesuara, që kanë të drejtën për informim, sipas legjislacionit për mbrojtjen e mjedisit dhe të atij për inspektimin, si dhe legjislacionit për të drejtën për informim e të atij për të dhënat e hapura dhe ripërdorimin e informacionit të sektorit publik.
