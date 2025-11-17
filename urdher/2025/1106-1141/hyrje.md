@@ -1,5 +1,0 @@
-URDHËR
-Nr. 1141, datë 6.11.2025
-PËR DISA MASA MBROJTËSE NDAJ SËMUNDJES SË INFLUENCËS AVIARE ME PATOGJENITET TË LARTË TË SHPENDËVE, TË SHFAQUR NË SHTETIN E GJERMANISË
-Në mbështetje të pikës 4, të nenit 102 të Kushtetutës dhe pikës 1, të nenit 43, të Ligjit nr. 10465, datë 29.9.2011, “Për shërbimin veterinar në Republikën e Shqipërisë”, të ndryshuar,
-URDHËROJ:
