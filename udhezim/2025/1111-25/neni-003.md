@@ -1,0 +1,4 @@
+# Neni 3
+Raportimi i organeve doganore
+1. Drejtoria e Përgjithshme e Doganave raporton në Agjencinë e Inteligjencës Financiare në rrugë elektronike, RTVK-të e administruara nga autoritetet doganore, së bashku me dokumentet shoqëruese apo të dhëna të tjera shtesë për rastin, brenda ditës pasardhëse të punës, nëpërmjet aksesit në sistemin online.
+2. Drejtoria e Përgjithshme e Doganave raporton në Agjencinë e Inteligjencës Financiare menjëherë, dhe jo më vonë se 72 orë, çdo dyshim, informacion ose të dhënë, që kanë lidhje me pastrim parash ose financim terrorizmi, për veprimtaritë nën juridiksionin e tyre, sipas formularit të RAD, të shoqëruar me të gjithë dokumentacionin mbështetës për rastin. Depozitimi/raportimi në Agjencinë e Inteligjencës Financiare bëhet në rrugë shkresore dhe elektronike deri në momentin që do të kalohet në aksesin online.

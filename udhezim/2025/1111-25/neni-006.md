@@ -1,0 +1,5 @@
+# Neni 6
+Shkëmbimi i informacionit
+1. Informacioni i shkëmbyer ndërmjet Drejtorisë së Përgjithshme të Doganave dhe Agjencisë të Inteligjencës Financiare kryhet mbi bazat e konfidencialitetit reciprok.
+2. Kur Agjencia e Inteligjencës Financiare ka bllokuar ose përgatitet të bllokojë një transaksion për 72 orë dhe kërkon informacion nga Drejtoria e Përgjithshme e Doganave, ky informacion duhet t’i vihet në dispozicion brenda 48 orëve. Kjo kërkesë e arsyetuar mund të bëhet me shkresë ose elektronikisht. Çdo kërkesë elektronike duhet të dokumentohet me shkresë brenda tri ditësh pune.
+3. Drejtoria e Përgjithshme e Doganave, në zbatim të nenit 22, germa “b”, të ligjit nr. 9917, datë 19.5.2008, të ndryshuar, i ofron Agjencisë të Inteligjencës Financiare akses në bazën e të dhënave Asycuda World. Modalitetet dhe specifikimet teknike në funksion të këtij aksesit përcaktohen në marrëveshje të lidhur për këtë qëllim mes Drejtorisë të Përgjithshme të Doganave, Agjencisë Kombëtare të Shoqërisë të Informacionit dhe Agjencisë të Inteligjencës Financiare.
