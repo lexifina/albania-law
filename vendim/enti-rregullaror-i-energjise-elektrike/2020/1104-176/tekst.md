@@ -4,6 +4,10 @@ Nr. 176, datë 4.11.2020
 
 MBI LICENCIMIN E SHOQËRISË “KOKA & ERGI ENERGY STAVEC” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “STAVEC”, ME KAPACITET TË INSTALUAR 6520 kw
 
+(Ndryshuar me vendimin nr. 298, datë 17.11.2025)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16 dhe të nenit 37, pika 2 germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; nenit 4, pika 1, germa “a”, nenit 5, pika 1, germa “a” dhe nenit 13 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016, të ndryshuar, si dhe nenit 15 të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE nr. 96, datë 17.6.2016, Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 4.11.2020, mbasi shqyrtoi relacionin nr. 116/5 prot., datë 29.10.2020, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes, mbi aplikimin e shoqërisë “Koka & Ergi Energy Stavec” sh.p.k., për licencim në veprimtarinë e prodhimit të energjisë elektrike, 
 
 konstatoi se: 
@@ -68,9 +72,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Koka & Ergi Energy Stavec” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Stavec”, me kapacitet të instaluar 6520 kw, për një afat 23-vjeçar.
 
-2. Shoqëria “Koka & Ergi Energy Stavec” sh.p.k. të bëjë me dije ERE-n mbi ecurinë e procesit të aplikimit për rinovim në çdo rast aplikimi, si dhe të depozitojë në ERE çdo dokument/leje që i nënshtrohet procedurës së rinovimit, jo më vonë se 1 muaj pas rinovimit të tyre.
+2. Shfuqizuar.
 
-3. Me plotësimin e afatit dhe të kushteve të parashikuara në pikën 2 të këtij vendimi ERE rezervon të drejtën e rishikimit të këtij vendimi. 
+3. Shfuqizuar. 
 
 4. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
