@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi përcaktimin e kërkesave teknike dhe procedurave administrative, në lidhje me licencat dhe certifikatat e kontrollorëve të trafikut ajror”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.

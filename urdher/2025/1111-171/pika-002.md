@@ -1,0 +1,1 @@
+2. Urdhri i ministrit nr. 91, datë 21.2.2019, “Për përcaktimin e kërkesave teknike dhe procedurave administrative, në lidhje me licencat dhe certifikatat e kontrollorëve të trafikut ajror”, shfuqizohet.
