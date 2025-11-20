@@ -2,13 +2,13 @@
 
 	Nr. 6, datë 22.2.2023
 
-	(Ndryshuar me Vendimin nr.14, datë 16.5.2024; nr. 32, datë 23.9.2024)
-
-	(I përditësuar)
-
 	PËR LICENCIMIN E SHOQËRISË RAJONALE UJËSJELLËS-KANALIZIME 
 
 	DURRËS SHA
+
+	(Ndryshuar me Vendimin nr.14, datë 16.5.2024; nr. 32, datë 23.9.2024; nr. 36, datë 20.11.2025)
+
+	(I përditësuar)
 
 Në mbështetje të neneve 13, 14, 15, 16 dhe 17, të ligjit nr. 8102, datë 28.3.1996, “Për kuadrin rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, i ndryshuar (ligji nr. 8102), VKM nr. 958, datë 6.5.2009, “Për miratimin e kategorive të licencimit dhe të procedurave për aplikim për licence” (VKM nr. 958), si dhe vendimit të Komisionit Kombëtar Rregullator nr. 29, datë 8.12.2009, “Për procedurat e dhënies dhe rinovimit të licencave profesionale për subjektet juridike e fizike që ushtrojnë veprimtari në sektorin e furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, e ndryshuar (rregullore e licencimit), 
 
@@ -54,11 +54,11 @@ VENDOSI:
 
 	2. Shoqëria rajonale Ujësjellës-Kanalizime Durrës sh.a. autorizohet të kryejë veprimtaritë e licencuara me:
 
-a) Drejtues ligjor: z. Sedi Çaushi;
+	a) Drejtues ligjor: z. Olsen Kavalli; 
 
-b) Drejtues teknik: z. Olsen Kavalli;
+	b) Drejtues teknik: z. Tonin Doda; 
 
-c) Drejtues teknik: z. Tonin Doda.
+	c) Drejtues teknik: z. Migen Duka.
 
 	3. Zona e shërbimit të shoqërisë rajonale Ujësjellës-Kanalizime Durrës sh.a. janë bashkitë: Durrës, Shijak, Rrogozhinë, Krujë, Kavajë.
 
