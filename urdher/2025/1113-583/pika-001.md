@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar jopublik, të nivelit të arsimit bazë, Shkolla “Rreze Drite”, licencuar me urdhrin nr. 72, datë 26.7.1999, të ministrit të Arsimit dhe Shkencës, “Për dhënien e lejes së funksionimit të institucionit arsimor jopublik”.
