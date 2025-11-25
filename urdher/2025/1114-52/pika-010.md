@@ -1,0 +1,1 @@
+10. Ngarkohen zëvendësministri, znj. Olta Manjani, institucionet e varësisë, agjencitë autonome dhe drejtoritë e aparatit në përbërje të Ministrisë së Ekonomisë dhe Inovacionit për zbatimin e këtij urdhri.
