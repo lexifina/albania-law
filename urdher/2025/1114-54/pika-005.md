@@ -1,0 +1,1 @@
+5. Institucionet e varësisë, agjencitë autonome dhe drejtoritë në përbërje të Ministrisë së Ekonomisë dhe Inovacionit raportojnë detyrimisht 1 herë në muaj dhe, rast pas rasti, sipas kërkesës te zëvendësministri për çështjet që janë specifikuar në këtë urdhër, pa cenuar pavarësinë operacionale të tyre.
