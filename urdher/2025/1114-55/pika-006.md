@@ -1,0 +1,1 @@
+6. Zëvendësministri raporton me shkrim te ministri për zbatimin e detyrave të caktuara në këtë urdhër sipas kërkesës së ministrit dhe detyrimisht 1(një) herë në javë për detyrat afatshkurtra dhe 1 (një) herë në muaj për detyrat dhe përgjegjësitë e deleguara sipas këtij urdhri dhe ato të parashikuara në legjislacionin në fuqi.
