@@ -25,6 +25,7 @@ I. Niveli i mesëm drejtues dhe të barasvlershëm
 21. Drejtor i Drejtorisë së Simulimit dhe Observimit, në Drejtorinë e Përgjithshme të Informacionit dhe Analizave Ekonomike, në Ministrinë e Ekonomisë, Kulturës dhe Inovacionit;
 22. Drejtor i Drejtorisë së Shitjes së Pronës Publike, në Drejtorinë e Përgjithshme të Pronës Shtetërore, në Ministrinë e Ekonomisë, Kulturës dhe Inovacionit;
 23. Shfuqizuar.
+24. Drejtor i Drejtorisë së Politikave të Zhvillimit të Pronës Shtetërore, në Drejtorinë e Përgjithshme të Pronës Shtetërore, në Ministrinë e Ekonomisë dhe Inovacionit.
 II. Niveli i ulët drejtues dhe të barasvlershëm
 1. Përgjegjës i Sektorit të Restaurimit, në Drejtorinë e Shërbimeve Arkivore, në Drejtorinë e Përgjithshme të Arkivave;
 2. Përgjegjës i Sektorit të Auditimit të Brendshëm, në Drejtorinë e Përgjithshme të Arkivave;
@@ -52,13 +53,13 @@ II. Niveli i ulët drejtues dhe të barasvlershëm
 24. Përgjegjës i Sektorit të Burimeve Njerëzore dhe Shërbimeve Mbështetëse, në Drejtorinë e Financës dhe Shërbimeve Mbështetëse, në Autoritetin Kombëtar të Veterinarisë dhe Mbrojtjes së Bimëve;
 25. Përgjegjës i Sektorit të Teknologjisë e Pajisjeve Mjekësore dhe Kozmetikës, në Drejtorinë e Politikave Farmaceutike dhe Pajisjeve Mjekësore, në Drejtorinë e Përgjithshme e Zhvillimit të Shëndetësisë, në Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale;
 26. Përgjegjës i Sektorit të Optimizimit dhe Pavarësisë Spitalore, në Drejtorinë e Politikave të Shërbimit Spitalor, në Drejtorinë e Përgjithshme të Zhvillimit të Shëndetësisë, në Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale;
-27. Përgjegjës i Sektorit të Gjeomjedisit, në Drejtorinë e Gjeologjisë, në Shërbimin Gjeologjik Shqiptar;
+27. Përgjegjës i Sektorit të Këshillimit Ligjor, në Drejtorinë e Programimit, Standardizimit dhe Harmonizimit të Kuadrit Rregullator, në Drejtorinë e Përgjithshme Rregullatore dhe Përputhshmërisë në Infrastrukturë dhe Energji, në Ministrinë e Infrastrukturës dhe Energjisë;
 28. Përgjegjës i Sektorit për Zbatimin e Iniciativës EITI në Shqipëri, në Sekretariatin e Nismës për Transparencë në Industrinë Nxjerrëse;
 29. Përgjegjës i Sektorit të Planifikimit dhe Koordinimit të Programeve në Mjedis, në Drejtorinë e Ekonomisë Qarkulluese, në Drejtorinë e Përgjithshme për Zhvillimin e Mjedisit, në Ministrinë e Turizmit dhe Mjedisit;
 30. Drejtor i Agjencisë Rajonale të Mjedisit Berat/Elbasan/Korçë;
 31. Drejtor i Agjencisë Rajonale të Mjedisit Fier/Vlorë/Gjirokastër;
 32. Përgjegjës i Sektorit të Menaxhimit, në Drejtorinë e Menaxhimit, Monitorimit dhe Regjistrit të Zonave të Mbrojtura, në Agjencinë Kombëtare të Zonave të Mbrojtura;
-33. Përgjegjës i Sektorit të Këshillimit dhe Rishikimit të Cilësisë, në Drejtorinë e Auditimit të Brendshëm, në Ministrinë e Ekonomisë, Kulturës dhe Inovacionit;
+33. Shfuqizuar;
 34. Përgjegjës i Sektorit të Privatizimit dhe Monitorimit të Shoqërive në Likuidim, në Drejtorinë e Privatizimit, në Drejtorinë e Përgjithshme të Pronës Shtetërore, në Ministrinë e Ekonomisë, Kulturës dhe Inovacionit;
 35. Përgjegjës i Sektorit të Fondit Social të Punësimit, në Drejtorinë e Projekteve dhe Marrëdhënieve me Punëdhënësin, në Agjencinë Kombëtare të Punësimit dhe Aftësive;
 36. Përgjegjës i Sektorit të Shërbimeve, në Drejtorinë e Shërbimeve të Brendshme, në Drejtorinë e Përgjithshme Ekonomike dhe të Shërbimeve Mbështetëse, në Ministrinë për Evropën dhe Punët e Jashtme;
