@@ -1,0 +1,1 @@
+3. Përditësimi i tekstit shkollor të nxënësit është procesi i ripunimit të përmbajtjes për tekstet shkollore, të cilët janë pjesë e katalogut të teksteve shkollore, miratuar nga ministria përgjegjëse për arsimin.

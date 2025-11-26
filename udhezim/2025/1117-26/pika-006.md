@@ -1,0 +1,1 @@
+6. Procedurat për përditësimin dhe miratimin e teksteve shkollore të përditësuara realizohen dhe administrohen nga Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar (ASCAP), sipas dispozitave të këtij udhëzimi.

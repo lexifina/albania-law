@@ -1,0 +1,1 @@
+7. Përmbajtja digjitale është paraqitja e tekstit shkollor të nxënësit në format elektronik, që mund të lexohet, dëgjohet, shihet dhe ndërveprohet nëpërmjet pajisjeve teknologjike (kompjuter, tablet, smartboard etj.).

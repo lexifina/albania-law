@@ -1,0 +1,1 @@
+1. Tekstet shkollore dhe përmbajtjet digjitale të tyre sigurohen nga botuesit, vendës ose të huaj, nëpërmjet një konkurrimi të hapur, të barabartë dhe transparent, sipas procedurave të përcaktuara në këtë udhëzim.

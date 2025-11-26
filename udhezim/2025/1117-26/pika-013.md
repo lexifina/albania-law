@@ -1,0 +1,1 @@
+13. Botuesit vendës të teksteve shkollore dhe shpërndarësit e teksteve shkollore të gjuhëve të huaja të botuesve të huaj, të cilët e ushtrojnë veprimtarinë e tyre në përputhje me legjislacionin në fuqi, kanë të drejtë të marrin pjesë në konkurrim për tekstet e reja shkollore vetëm me një alternativë për çdo lëndë të secilës klasë.

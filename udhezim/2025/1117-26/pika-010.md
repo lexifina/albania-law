@@ -1,0 +1,1 @@
+10. Shtëpitë botuese të tri alternativave që janë shpallur paraprakisht fituese të teksteve shkollore, duhet të sjellin, brenda një afati të përcaktuar, me urdhër të ministrit përgjegjës për arsimin, përmbajtjen digjitale që shoqëron tekstin fitues përkatës.

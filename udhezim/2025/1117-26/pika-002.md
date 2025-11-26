@@ -1,0 +1,1 @@
+2. Hartimi i teksteve shkollore të reja dhe i përmbajtjeve digjitale të tyre bëhet në përputhje me programet mësimore përkatëse dhe në respektim të standardeve të teksteve shkollore të miratuara nga ministria përgjegjëse për arsimin.
