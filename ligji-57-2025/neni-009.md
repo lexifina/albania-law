@@ -1,0 +1,9 @@
+# Neni 9
+Klasifikimi dhe katalogu i mbetjeve
+1. Në kuadër të këtij ligji, mbetjet klasifikohen, mbi bazën e origjinës së krijimit, në mbetje shtëpiake dhe mbetje nga veprimtari të tjera dhe, mbi bazën e karakteristikave të rrezikshmërisë, në mbetje të rrezikshme dhe mbetje jo të rrezikshme.
+2. Klasifikimi sipas pikës 1 të këtij neni bëhet nga katalogu i mbetjeve, që përmban listën e mbetjeve sipas origjinës dhe përbërjes së tyre dhe, kur është e nevojshme, edhe sipas vlerave kufi të përqendrimit të substancave të rrezikshme. Katalogu i mbetjeve miratohet nga Këshilli i Ministrave, me propozimin e ministrit.
+3. Katalogu i mbetjeve përfshin mbetjet e rrezikshme që klasifikohen si të tilla në përputhje me vetitë e mbetjeve të përcaktuara në shtojcën 3 të këtij ligji. Klasifikimi i një mbetjeje në katalogun e mbetjeve si mbetje e rrezikshme është detyrues.
+4. Ndalohet hollimi apo përzierja e mbetjeve të rrezikshme me mbetje të tjera, me qëllim uljen e përqendrimeve fillestare të substancave të rrezikshme në një nivel më të ulët se vlera kufi, që i përkufizon mbetjet si të rrezikshme, me qëllim riklasifikimin e tyre si mbetje jo të rrezikshme.
+5. Pavarësisht se një substancë ose objekt gjendet në katalogun e mbetjeve, ajo konsiderohet si e tillë vetëm në rastet kur përmbush parashikimet e pikës 20 të nenit 4 të këtij ligji.
+6. Ministria, të paktën çdo 2 vjet, analizon nëse është i nevojshëm rishikimi i katalogut të mbetjeve, veçanërisht në rastet kur evidenton një mbetje të re të rrezikshme ose kur konstaton se një mbetje e klasifikuar si e rrezikshme nuk shfaq vetitë e listuara në shtojcën 3. Në këto raste dhe në raste të tjera, kur është e nevojshme, ministri i propozon Këshillit të Ministrave rishikimin e katalogut të mbetjeve, me qëllim përditësimin dhe përshtatjen e tij.
+7. Katalogu i mbetjeve dhe çdo rishikim i tij publikohet në faqen zyrtare të ministrisë.

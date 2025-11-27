@@ -1,0 +1,21 @@
+# Neni 24
+Bashkitë
+1. Bashkitë janë përgjegjëse për organizimin dhe funksionimin e ndarjes së mbetjeve në burim dhe grumbullimin e diferencuar të tyre si pjesë e sistemit të menaxhimit të integruar të mbetjeve, në territorin nën juridiksionin e tyre.
+2. Për zbatimin e funksionit të përcaktuar në pikën 1 të këtij neni, bashkitë kanë këto kompetenca:
+a) grumbullimin e mbetjeve bashkiake dhe rrymave të tjera të mbetjeve të përcaktuara në këtë ligj;
+b) grumbullimin e diferencuar të mbetjeve sipas rrymave të caktuara të mbetjeve, në përputhje me parashikimet e akteve nënligjore zbatuese;
+c) kryerjen e të gjitha shërbimeve mbështetëse për realizimin e operacioneve funksionale të grumbullimit të diferencuar dhe të menaxhimit të mbetjeve të përmendura në shkronjat “a” dhe “b” të kësaj pike, të tilla si vendosja e kontejnerëve të përshtatshëm të grumbullimit, përcaktimi i metodës së grumbullimit, në përputhje me dokumentet planifikuese në fuqi;
+ç) ngritjen e sistemit bashkiak të grumbullimit të mbetjeve dhe përcaktimin e rregullave të grumbullimit, përcaktimin e pikave të grumbullimit, pikave të magazinimit të përkohshëm dhe të stacioneve të transferimit të mbetjeve dhe në përgjithësi të vendndodhjes së infrastrukturës së nevojshme për menaxhimin e integruar të mbetjeve brenda territorit të bashkisë, në përputhje me parashikimet e këtij ligji dhe legjislacionit në fuqi për planifikimin e zhvillimin e territorit;
+d) monitorimin dhe kontrollin e territorit të bashkisë me qëllim parandalimin dhe mbikëqyrjen e hedhjes së paligjshme të mbetjeve në vende të paautorizuara dhe/ose krijimin e venddepozitimeve të paligjshme të mbetjeve dhe, në bashkërendim me organet kompetente, marrjen e masave për ndëshkimin e paligjshmërisë, mbledhjen e mbetjeve të hedhura në mënyrë të paligjshme dhe trajtimin e tyre;
+dh) monitorimin dhe kontrollin e territorit të bashkisë për zbatimin e dispozitave të këtij ligji dhe bashkëpunimin e koordinimin me institucionet kompetente për marrjen e masave për ndëshkimin e shkeljeve të këtij ligji;
+e) organizimin dhe mbështetjen e skemave e të fushatave informuese dhe ndërgjegjësuese për menaxhimin e mbetjeve me fonde publike e burime të tjera të ligjshme për menaxhimin e integruar të mbetjeve dhe masave konkrete për parandalimin e mbetjeve brenda territorit të bashkisë;
+ë) mbledhjen, përpunimin, ruajtjen dhe raportimin e të dhënave në lidhje me menaxhimin e mbetjeve në territorin e bashkisë, përfshirë të dhënat për vendndodhjen e infrastrukturave të menaxhimit të mbetjeve, të dhëna për grumbullimin e diferencuar të mbetjeve, të dhëna për sasinë e rrymave të caktuara të mbetjeve të grumbulluara dhe të trajtuara në territorin e bashkisë, si dhe çdo të dhënë tjetër të parashikuar në këtë ligj dhe të domosdoshme për realizimin e funksioneve të menaxhimit të mbetjeve nga bashkia. Bashkia, në bazë të detyrimit ligjor, informon për këto të dhëna pranë AKEM-it;
+f) raportimin pranë AKEM-it të statistikave vjetore të mbetjeve të krijuara në territorin e tyre;
+g) përcaktimin e zërave të shërbimeve të menaxhimit të mbetjeve bashkiake në bazë të nevojave dhe infrastrukturës për rritjen e performancës së këtij shërbimi dhe përmbushjen e detyrimeve ligjore.
+3. Bashkitë ushtrojnë funksionet e grumbullimit të mbetjeve nëpërmjet:
+a) strukturave të tyre ekzistuese administrative apo ngritjes së strukturave administrative të posaçme për këtë qëllim;
+b) njësive ekonomike apo institucioneve ekzistuese në varësi të tyre apo ngritjes së tyre për këtë qëllim;
+c) personave juridikë publikë ekzistues apo themelimit të personave juridikë publikë për ushtrimin e këtyre funksioneve;
+ç) lidhjes së kontratave me subjekte private që ushtrojnë veprimtaritë e sipërpërmendura, në përputhje me parashikimet e këtij ligji dhe legjislacionit të posaçëm në fuqi.
+4. Për ushtrimin e funksioneve të tyre në fushën e menaxhimit të integruar të mbetjeve, bashkitë veprojnë në përputhje me dispozitat e këtij ligji dhe të legjislacionit të posaçëm për vetëqeverisjen vendore dhe zbatojnë parimet e barazisë dhe mosdiskriminimit.
+5. Kryetarët e njësive të vetëqeverisjes vendore janë përgjegjës për grumbullimin dhe administrimin e mbetjeve, që krijohen brenda territorit të tyre administrativ, në përputhje me parashikimet e këtij ligji.

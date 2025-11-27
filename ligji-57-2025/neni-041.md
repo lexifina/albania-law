@@ -1,0 +1,9 @@
+# Neni 41
+Ndalimi i përzierjes së mbetjeve të rrezikshme
+1. Ndalohet përzierja e mbetjeve të rrezikshme me lloje të tjera mbetjesh të rrezikshme ose me mbetje, substanca apo materiale të tjera, përveç rasteve të parashikuara në pikën 2 të këtij neni. Koncepti i përzierjes përfshin edhe hollimin e substancave të rrezikshme.
+2. Si përjashtim nga rregulli i përgjithshëm, i parashikuar në pikën 1 të këtij neni, lejohet përzierja e mbetjeve të rrezikshme vetëm kur kryhet nga një person fizik ose juridik që zotëron lejen përkatëse për përzierjen e mbetjeve të rrezikshme, që lëshohet kur plotësohen të gjitha kushtet e mëposhtme:
+a) përzierja kryhet në përputhje me parimet e nenit 5 të këtij ligji dhe nuk rrit ndikimin negativ në mjedis dhe në shëndetin e njeriut;
+b) operacioni i përzierjes kryhet në përputhje me teknikat më të mira të disponueshme.
+3. Lejet për veprimtaritë e përcaktuara në këtë dispozitë miratohen sipas legjislacionit në fuqi për licencat, autorizimet dhe lejet në Republikën e Shqipërisë dhe përfshihen në kategorinë III.1 të shtojcës bashkëlidhur ligjit në fuqi për lejet e mjedisit.
+4. Kur mbetjet e rrezikshme janë përzier në mënyrë të paligjshme, në kundërshtim me pikën 1 të këtij neni, zbatohen masat e parashikuara në nenet 77 dhe 78 të këtij ligji. Përveç zbatimit të masave të neneve 77 dhe 78, subjektet shkelëse kanë detyrimin të kryejnë me shpenzimet e tyre ndarjen e mbetjeve të rrezikshme të përziera, nëse një gjë e tillë është teknikisht e mundur dhe e nevojshme për të plotësuar kërkesat e nenit 5 të këtij ligji.
+5. Kur ndarja e mbetjeve të rrezikshme të përziera nuk është teknikisht e mundur dhe e nevojshme për plotësimin e kërkesave të nenit 5 të këtij ligji, atëherë përzierja duhet të trajtohet në një impiant, i cili është pajisur me lejen përkatëse.

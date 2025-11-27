@@ -1,0 +1,5 @@
+# Neni 40
+Menaxhimi i integruar i mbetjeve të rrezikshme
+1. Krijimi, grumbullimi, transporti, magazinimi dhe trajtimi i mbetjeve të rrezikshme kryhen në përputhje me parashikimet e këtij ligji dhe vetëm në kushte që sigurojnë mbrojtjen e mjedisit dhe shëndetit të njeriut.
+2. Këshilli i Ministrave, me propozimin e ministrit, miraton masat që sigurojnë gjurmueshmërinë e mbetjeve që nga krijimi deri në destinacionin përfundimtar të tyre, si dhe kontrollin e të dhënave të mbetjeve të rrezikshme, në përputhje me parashikimet e këtij ligji.
+3. Personat, që ushtrojnë veprimtari në fushën e menaxhimit të integruar të mbetjeve të rrezikshme, pajisen me një leje mjedisi, që përcakton kushtet që duhen përmbushur për të siguruar zbatimin e pikës 1 të këtij neni. Leja për ndikimin në mjedis përfshihet në kategorinë III.1 të shtojcës bashkëlidhur ligjit në fuqi për licencat, autorizimet dhe lejet në Republikën e Shqipërisë dhe lëshohet në përputhje me parashikimet e këtij ligji dhe legjislacionit në fuqi për lejet e mjedisit.

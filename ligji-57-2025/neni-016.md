@@ -1,0 +1,9 @@
+# Neni 16
+Përgjegjësia e krijuesit ose zotëruesit të mbetjeve
+1. Krijuesi ose zotëruesi i mbetjeve është përgjegjës për realizimin e menaxhimit të integruar të mbetjeve, të krijuara dhe/ose të zotëruara prej tij, në përputhje me këtë ligj, me legjislacionin në fuqi për vlerësimin e ndikimit në mjedis dhe lejet e mjedisit, si dhe me legjislacionin e posaçëm që rregullon rrymat e caktuara të mbetjeve. Në zbatim të këtij detyrimi, krijuesi ose zotëruesi i mbetjeve sigurohet që mbetjet e krijuara apo të zotëruara prej tij t’u nënshtrohen operacioneve të menaxhimit të integruar të mbetjeve në një nga mënyrat e mëposhtme:
+a) duke kryer menaxhimin e integruar të mbetjeve;
+b) duke realizuar menaxhimin e integruar të mbetjeve nëpërmjet një agjenti apo tregtari të licencuar, sipas legjislacionit në fuqi;
+c) duke transferuar apo dorëzuar mbetjet te personat që kryejnë trajtimin e mbetjeve, në përputhje me legjislacionin në fuqi;
+ç) duke i transferuar apo dorëzuar mbetjet te sistemi i grumbullimit të mbetjeve, i ngritur nga bashkia përkatëse;
+d) duke i transferuar apo dorëzuar mbetjet te një sistem grumbullimi, i ngritur dhe administruar nga operatorë privatë, brenda territorit ku ndodhen mbetjet dhe vepron në përputhje me parashikimet e legjislacionit në fuqi.
+2. Krijuesi ose zotëruesi i mbetjeve, që dorëzon apo transferon mbetjet te një agjent ose tregtar, nuk çlirohet nga përgjegjësia për kryerjen e plotë të operacioneve të rikuperimit ose asgjësimit të mbetjeve. Krijuesi ose zotëruesi i mbetjeve, që dorëzon apo transferon mbetjet te sistemi i grumbullimit të mbetjeve, i ngritur sipas parashikimeve të këtij ligji, ose te një person fizik ose juridik që kryen trajtimin e mbetjeve, çlirohet nga përgjegjësia për kryerjen e plotë të operacioneve të rikuperimit ose asgjësimit të mbetjeve, kur pajiset me dokumentacionin e përshtatshëm ligjor, sipas rastit.
