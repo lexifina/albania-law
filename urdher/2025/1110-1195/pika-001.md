@@ -1,0 +1,8 @@
+1. Delegimin e kompetencave znj. Nertila Mihali, drejtor i Drejtorisë së Investimeve dhe Shërbimeve, për sa vijon:
+- Për të trajtuar dhe nënshkruar aktet dalëse, lidhur me korrespondencën me institucionet e varësisë dhe dhënien e orientimeve për problematika të ndryshme që lidhen me specifikat e sektorit (mirëmbajtjen e ambienteve edhe mirëadministrimin e aseteve të paluajtshme të institucionit, sigurinë e ambienteve në bashkëpunim me strukturat e tjera, plotësimin e nevojave të institucioneve me mjete pune, pajisje, kancelari, etj.);
+- Për të trajtuar dhe nënshkruar aktet për shpërndarjen e pajisjeve kompjuterike, orendi e pajisje të tjera, kancelari, materiale pastrimi, tonera, etj., për drejtoritë/zyrat vendore të ASHK-së dhe Drejtorinë e Përgjithshme, bazuar në kërkesat e tyre dhe gjendjen e magazinës së Drejtorisë së Përgjithshme të ASHK-së;
+- Për të nënshkruar autorizimet për lëvizjen e automjeteve të Drejtorisë së Përgjithshme, si dhe aktet për shpërndarje karburanti në bazë të normativës së konsumit për çdo automjet për nevoja të lëvizjes së strukturave të institucionit për nevoja pune ose në mbështetje të urdhrave të punës/shërbimit të miratuar nga drejtori i përgjithshëm;
+- Për të trajtuar kërkesat dhe nënshkruar aktet dalëse për shpërndarjen e karburantit për furnizimin me karburant të gjeneratorëve, në mbështetje të normativës së konsumit;
+- Për të trajtuar kërkesat për kopje dokumentacioni të dosjeve personale të punonjësve të ASHK-së dhe nënshkrimin e kthimpërgjigjeve të këtyre kërkesave;
+- Për të trajtuar dhe nënshkruar vërtetimet e punës për punonjës të Drejtorisë së Përgjithshme të ASHK-së;
+- Për të nënshkruar shkresat dalëse përcjellë Departamentit të Administratës Publike për formularët e dekriminalizimit të punonjësve.
