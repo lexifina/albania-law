@@ -53,6 +53,16 @@ Bashkërendimi i punës së Avokaturës së Shtetit me personat juridikë
 12. Avokati i Përgjithshëm i Shtetit njofton titullarin e personit juridik për shkeljen e detyrimeve të parashikuara në këtë rregullore.
 13. Mosrespektimi i afateve, të përcaktuara në këtë rregullore, në lidhje me bashkërendimin e punës nga ana e personave juridikë, që u ofrohet asistencë juridike apo institucionet e tjera që duhet të ofrojnë shërbime, informacione, dokumentacion apo sqarime në ndihmë të funksioneve të Avokaturës së Shtetit, pa shkaqe të arsyeshme, apo krijimi i qëllimshëm i pengesave për shkeljen e tyre, përbën shkak për marrjen, sipas rastit, të masave disiplinore, masave administrative, civile dhe penale ndaj personave përgjegjës.
 14. Në rast se nga personat juridikë nuk respektohet detyrimi për bashkëpunim, Avokatura e Shtetit njofton Kryeministrin.
+Neni 5/1
+Regjistri i çështjeve gjyqësore
+1. Pranë Avokaturës së Shtetit krijohet “Regjistri i çështjeve gjyqësore” për çështjet, në të cilat personat juridikë ose Republika e Shqipërisë është palë.
+2. Çdo person juridik, të cilit i ofrohet shërbimi i përfaqësimit nga Avokatura e Shtetit, nëpërmjet personit të kontaktit të caktuar sipas nenit 5, të kësaj rregulloreje, duhet t’i ofrojë asaj informacion për të gjitha çështjet gjyqësore, ku është palë, gjykatën kompetente, shkallën dhe fazën e gjykimit të secilës çështje, datën dhe orën e zhvillimit të seancës së radhës, personin përgjegjës të caktuar nga personi juridik për të ndjekur çështjen, si dhe çdo informacion tjetër që gjykohet i nevojshëm nga Avokatura e Shtetit dhe që ka lidhje me çështjen.
+3. Avokatura e Shtetit regjistron e përditëson informacionin e parashikuar në pikën 2, të këtij neni, dhe informacionin për çështjet, në të cilat Republika e Shqipërisë është palë, në regjistrin e çështjeve gjyqësore.
+4. Avokati i Përgjithshëm i Shtetit përcakton formatin e regjistrit të çështjeve gjyqësore, mënyrën e mbajtjes e të përditësimit të të dhënave të këtij regjistri, si dhe të dhënat që mund të bëhen publike.
+5. Në çdo rast, kur përfaqësuesi i autorizuar i personit juridik nuk merr pjesë në proceset gjyqësore, ku ky i fundit është palë, Avokatura e Shtetit njofton:
+a) titullarin e institucionit shtetëror;
+b) titullarin e entit publik;
+c) administratorin e shoqërisë.
 KREU II
 MARRËDHËNIET E AVOKATURËS SË SHTETIT ME PERSONAT JURIDIKë, në kuadër të përfaqësimit dhe mbrojtjes në gjykim
 Neni 6
