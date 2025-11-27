@@ -1,0 +1,3 @@
+# Neni 18
+Plani i vlerësimit
+Përveç kritereve të parashikuara në pikën 7.4 të ISO 17065, organizmi i certifikimit harton dhe zbaton një plan vlerësimi që parashikon zbatimin e metodologjisë së vlerësimit të parashikuar në marrëveshje. Metodologjia mund të përfshijë vlerësime në terren, dokumentare, kryerjen e auditeve, intervistave ose zbatimin e instrumenteve të tjera të përshtatshme për të mbledhur gjetje që vërtetojnë plotësimin e kritereve të vlerësimit. Plani i vlerësimit përmban një vlerësim rreziku dhe vlerësimin e ndikimit në mbrojtjen e të dhënave për veprime përpunimi me rrezik të lartë për liritë dhe të drejtat themelore të individëve.

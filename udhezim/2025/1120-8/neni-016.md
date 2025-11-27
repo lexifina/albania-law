@@ -1,0 +1,12 @@
+# Neni 16
+Paraqitja e kërkesës nga klienti
+1. Klienti paraqet pranë organizmit të certifikimit kërkesën me shkrim për vlerësim dhe certifikim. Kërkesa specifikon bashkëpunimin që mund të ekzistojë midis klientit dhe palëve të treta për kontrollin ose angazhimin e përpunuesve të të dhënave që do të jenë objekt i certifikimit. Në rast se klienti vepron si bashkëkontrollues ose bashkëpërpunues, kërkesa specifikon përgjegjësitë e klientit, detyrat dhe dokumentacionin kontraktual dhe ligjor mbi të cilat mbështetet bashkëpunimi.
+2. Përveç kritereve të parashikuara në pikën 7.2 të ISO 17065, klienti i paraqet organizmit të certifikimit informacionin, si më poshtë, në lidhje me vlerësimin:
+a) përshkrim të detajuar të objektit të vlerësimit, duke përfshirë aspekte që lidhen me ndërfaqen me sisteme të jashtme ose subjekte të tjera, protokollet e zbatuara dhe garancitë për sigurinë e komunikimit të të dhënave;
+b) listë të transferimeve ndërkombëtare të të dhënave, duke përfshirë kuadrin ligjor të marrësit të të dhënave dhe garancitë që janë zbatuar për mbrojtjen e tyre;
+c) listë të përpunuesve të të dhënave ose nënpërpunuesve, duke përfshirë përgjegjësitë, veprimtaritë e përpunimit të të dhënave, kontratat kryesore ose model mbi të cilat bazohet marrëdhënia me klientin;
+ç) listën e bashkëkontrolluesve, duke përfshirë përgjegjësitë dhe detyrat, si dhe parimet dhe instrumentet ligjore mbi të cilat bazohet marrëdhënia me klientin;
+d) karakteristikat e përgjithshme të veprimeve të përpunimit të të dhënave që do të jenë objekt i certifikimit, duke përfshirë vendndodhjen fizike ku përpunohen të dhënat, kategorinë e të dhënave, si dhe detyrimet ligjore të zbatueshme;
+dh) informacion mbi certifikimet ose rezultate të tjera të vlerësimeve që janë kryer më parë, në rast se ka pasur të tilla, dhe nëse natyra e këtyre vlerësimeve, si dhe objekti i tyre mund të konsiderohet në kuadër të procesit të certifikimit;
+e) informacion në lidhje me hetime, sanksione të vendosura rishtazi ose masa korrigjuese të vendosura nga Komisioneri ose autoritete të tjera kompetente, në lidhje me përpunimin e të dhënave personale në kuadër të objektit të certifikimit;
+ë) në rast se përpunimi i të dhënave personale mund të përbëjë rrezik të lartë për të drejtat dhe liritë e individit, të tilla si përpunimi i të dhënave sensitive ose përdorimi i teknologjive të avancuara ose procese vendimmarrëse automatike, klienti kryen dhe paraqet një vlerësim ndikimi në mbrojtjen e të dhënave në përputhje me nenin 31, të ligjit nr. 124/2024, “Për mbrojtjen e të dhënave personale”.

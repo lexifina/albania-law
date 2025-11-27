@@ -1,0 +1,14 @@
+# Neni 7
+Marrëveshja e certifikimit
+1. Përveç përmbushjes së kritereve të parashikuara në pikën 4.1.2 të ISO 17065, marrëveshja e certifikimit e nënshkruar përkatësisht nga përfaqësuesit ligjorë të organizmit certifikues dhe klientit përfshin dhe përmban dakordësinë e palëve, në lidhje me këto aspekte:
+a) përputhshmërinë me kriteret e certifikimit dhe zbatimin e çdo përditësimi që komunikohet nga organizmi certifikues;
+b) dhënien e aksesit në informacion, dokumentacion, regjistra, pajisje, vendndodhje, personel ose informacion për kontraktorët apo nënkontraktorët e klientit në mënyrë që organizmi certifikues të kryejë procedurën e certifikimit, në përputhje me ligjin nr. 124/2024, “Për mbrojtjen e të dhënave personale” dhe parashikimet e udhëzimit nr. 9;
+c) përmbylljen/përfundimin brenda afateve të procedurës së certifikimit të parashikuar në skemën përkatëse të certifikimit;
+ç) njoftimin e organizmit certifikues për ndryshime thelbësore në statusin ligjor, veprimet e përpunimit të të dhënave personale, përputhshmërinë me kriteret e certifikimit ose informacionin mbi dokumentin formal të certifikimit. Ndryshime thelbësore të produktit, proceseve dhe shërbimeve janë ato që përbëjnë ndryshime në objektin e certifikimit, pasi nënkuptojnë shtesa ose ndryshime thelbësore të objektit të certifikimit apo llojit të produktit, objektit të përpunimit dhe mënyrës së dhënies së shërbimeve;
+d) bashkëpunimin për veprimtaritë monitoruese, auditimin periodik dhe masat korrigjuese që kërkohen nga organizmi certifikues. Mospërmbushja e këtij detyrimi passjell pezullimin apo shfuqizimin e certifikimit për subjektin që i nënshtrohet certifikimit, në përputhje me parashikimet e udhëzimit të Komisionerit nr. 9, datë 20.11.2025, “Për kriteret e përgjithshme për certifikimin dhe për dhënien e vulave dhe të shenjave të mbrojtjes së të dhënave”;
+e) raportimin e menjëhershëm të çdo shkeljeje ligjore apo rregullatore që mund të passjellë mospërputhje me kriteret e certifikimit.
+2. Marrëveshja e certifikimit përmban, gjithashtu, parashikime në lidhje me:
+a) përgjegjësinë për klientin që certifikimi nuk i përjashton ata nga detyrimet ligjore sipas legjislacionit për mbrojtjen e të dhënave personale;
+b) metodat e vlerësimit, ankesat dhe procedurat përkatëse, si dhe detyrimet ndaj klientit, në lidhje me këto procese që janë të përcaktuara nga organizmi i certifikimit, në përputhje me pikën 4.1.2.2 të ISO 17065 dhe parashikimet e këtij udhëzimi;
+c) rregullat për vlefshmërinë, rinovimin, pezullimin dhe shfuqizimin e certifikimit, duke përfshirë rivlerësimin periodik në përputhje me pikën 4.1.2.2 të ISO 17065 dhe parashikimet e këtij udhëzimi;
+d) pasojat e përfundimit të afatit, pezullimit, shfuqizimit apo moslëshimit të certifikatës, si dhe veprimet për të mbajtur ose rinovuar certifikimin.
