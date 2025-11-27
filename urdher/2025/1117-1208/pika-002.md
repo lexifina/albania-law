@@ -1,7 +1,0 @@
-2. Zonat e prekura me sëmundjen e influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në shtetin e Çekisë, janë sipas tabelës së mëposhtme:
-|Nr. |Ndarja administrative |Ndarja administrative |
-| |e nivelit 1 |e nivelit 2 |
-|1 |Jihočeský |Písek* |
-|2 |Kraj Vysočina |Třebíč* |
-|3 |Pardubický |Ústí nad Orlicí* |
-Shënim. Simboli (*) nënkupton zonën e infektuar që bllokohet.
