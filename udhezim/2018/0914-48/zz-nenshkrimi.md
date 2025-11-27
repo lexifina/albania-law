@@ -1,3 +1,0 @@
-# Nënshkrimi
-KOMISIONERI
-Besnik Dervishi

@@ -1,1 +1,0 @@
-40. Subjekti përpunues i të dhënave personale është i detyruar të përmbushë kërkesën e Komisionerit në kohën e duhur dhe të autorizojë, brenda 15 ditëve, një person tjetër për mbikëqyrjen e brendshme.
