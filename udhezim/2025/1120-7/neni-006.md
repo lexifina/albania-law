@@ -1,0 +1,8 @@
+# Neni 6
+Mbrojtja e të dhënave në procedimet penale
+1. Përpunimi i të dhënave me qëllim për të zbuluar masat e sigurimit personal të caktuara ndaj personave të dyshuar për kryerjen e një vepre penale, lejohet vetëm kur ky përpunim është në përmbushje të interesit publik.
+2. Në publikimin e informacionit të lidhur me një fakt penal, ndalohet identifikimi i personave të afërt me autorin e dyshuar ose të dënuarin për kryerjen e veprës penale, me përjashtim kur këta të fundit kanë dhënë pëlqimin.
+3. Me përjashtim të rasteve kur informacioni përbën interes publik, media nuk merr as prodhon imazhe të personave të ndaluar dhe/ose të arrestuar. Personat nuk duhen filmuar në kushtet e privimit të lirisë nga ana e organeve të rendit, përveç nëse kjo është e nevojshme për të raportuar veprime arbitrare nga organet e rendit.
+4. Respektimi i parimit të prezumimit të pafajësisë është pjesë përbërëse e të drejtës për një proces të rregullt ligjor. Media, në publikimin e një fakti penal, ka detyrimin të respektojë parimin e prezumimit të pafajësisë.
+5. Gjatë përpunimit për qëllime gazetarie të të dhënave personale që lidhen me persona të dyshuar për kryerjen e një vepre penale, persona të dënuar ose me subjekte të tjera të përfshira në një procedim penal, media ka detyrimin të respektojë të drejtën e tyre për një jetë private. Në mënyrë të veçantë kjo mbrojtje u garantohet të miturve, viktimave, dëshmitarëve, si dhe familjarëve të personave të dyshuar për kryerjen e një vepre penale ose të dënuar për kryerjen e një vepre penale.
+6. Media mban në vëmendje pasojat e dëmshme që mund t’u vijnë personave të sipërpërmendur si rezultat i publikimit të informacionit që mund të çojë në zbulimin e identitetit të tyre.

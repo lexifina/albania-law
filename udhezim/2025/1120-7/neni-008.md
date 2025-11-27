@@ -1,0 +1,4 @@
+# Neni 8
+Mbrojtja e të dhënave shëndetësore
+1. Të dhënat shëndetësore konsiderohen të dhëna sensitive dhe nuk mund të publikohen pa pëlqimin e subjektit, përveç rasteve kur personi nuk mund të identifikohet. Media ka detyrimin të respektojë dinjitetin dhe privatësinë e individit, veçanërisht në rastet e sëmundjeve të rënda, duke shmangur publikimin e detajeve të panevojshme. Publikimi i informacionit lejohet vetëm kur është i domosdoshëm për realizimin e qëllimit të informimit dhe gjithmonë duke ruajtur dinjitetin e personit, në përputhje me kufizimet e pikës 1, të nenit 10 të këtij udhëzimi, për individët me rëndësi të veçantë shoqërore ose publike.
+2. Nuk lejohet publikimi i të dhënave të përftuara nga analizat dhe ekzaminimet shëndetësore, të cilat mund të tregojnë të dhëna sensitive mbi shëndetin. Ky publikim lejohet vetëm kur ndjek thelbin e informacionit dhe gjithmonë duke respektuar dinjitetin e personit.

@@ -1,0 +1,11 @@
+# Neni 7
+Përdorimi i aparaturave për regjistrim
+1. Media nuk duhet të përpunojë të dhëna personale apo të botojë/publikojë materiale të siguruara nga përdorimi i kamerave/pajisjeve të tjera të fshehta, apo nga thirrje private ose telefon celular, mesazhe/email, ose nëpërmjet përdorimit të paautorizuar të dokumenteve dhe imazheve që përmbajnë të dhëna personale, përveç rasteve kur mbizotëron interesi publik.
+2. Ndalohet publikimi tërësisht ose pjesërisht i dokumenteve të klasifikuara apo të konsideruara të tilla në kuptim të legjislacionit specifik në fuqi në Republikën e Shqipërisë. Media gëzon të drejtën për të informuar mbi çështje me interes publik, por kjo e drejtë duhet ushtruar duke respektuar përmbajtjen thelbësore të informacionit, proporcionalitetin dhe domosdoshmërinë e publikimit, pa cenuar kufijtë e përcaktuar nga legjislacioni i posaçëm.
+3. Publikimi i përmbajtjes së përgjimeve mund të konsiderohet proporcional nëse:
+a) ndihmon në kuptimin e rrethanave të veçanta në të cilat ka ndodhur ngjarja dhe nuk tejkalon kufijtë e nevojshëm në raport me qëllimin informues dhe interesin publik të arsyeshëm;
+b) nuk cenon asnjë dispozitë të legjislacionit në fuqi dhe hetimet paraprake apo gjykimin e një procedimi në zhvillim.
+Në çdo rast, publikimi i materialeve të tilla duhet të bëhet duke respektuar të drejtat themelore të personave të përfshirë, bazuar në balancimin midis lirisë së shprehjes me mbrojtjen e jetës private.
+4. Nuk lejohet publikimi i përmbajtjeve të përgjimeve që përfshijnë aspekte të jetës private që nuk lidhen me ngjarjen që përbën interes publik, veçanërisht të dhëna që kanë të bëjnë me intimitetin, marrëdhëniet familjare, shprehjet personale apo orientimin seksual të personave të përfshirë. Çdo tejkalim i këtyre kufijve përbën shkelje të parimit të proporcionalitetit dhe të minimizimit të të dhënave, siç përcaktohet në ligj dhe cenon të drejtën për jetë private të individëve të përfshirë.
+5. Publikimet e paﬁltruara mund të sjellin keqkuptime në interpretimin e fakteve apo marrëdhënieve ndërpersonale, si dhe të cenojnë të drejtën për privatësi, dinjitetin dhe zhvillimin e hetimeve penale.
+6. Media gëzon të drejtën për të informuar mbi çështje me interes publik, por kjo e drejtë duhet ushtruar duke respektuar përmbajtjen thelbësore të informacionit, proporcionalitetin dhe domosdoshmërinë e publikimit.
