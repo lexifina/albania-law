@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të Sekretarit të Përgjithshëm të Ministrisë së Financave, përfshirë kompetencat për miratimin dhe ekzekutimin e veprimeve financiare, znj. Mimoza Dhëmbi, drejtor i përgjithshëm i Buxhetit.
