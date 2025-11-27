@@ -1,0 +1,6 @@
+# Neni 12
+Vlerësimi i rrezikut dhe vlerësimi i ndikimit në mbrojtjen e të dhënave
+1. Klienti kryen vlerësim të rregullt të rreziqeve që lidhen me veprimet e përpunimit të të dhënave personale.
+2. Vlerësimi merr në konsideratë mundësinë, shkallën dhe ndikimin e mundshëm në të drejtat dhe liritë e subjekteve të të dhënave.
+3. Vlerësimi i ndikimit në mbrojtjen e të dhënave kryhet për veprimet e përpunimit që mund të shkaktojnë një rrezik të lartë të të drejtave dhe lirive themelore të individëve, në përputhje me nenin 31 të ligjit dhe rezultatet dokumentohen, vlerësohen dhe integrohen në proceset e menaxhimit të rrezikut. Vlerësimi i ndikimit në mbrojtjen e të dhënave përditësohet në rast se rreziku mund të ketë ndryshuar si rezultat i faktorëve të jashtëm, si ndryshime në legjislacion, teknologji apo politika organizative. Ky proces kryhet në mënyrë të vazhdueshme, me qëllim sigurimin e përputhshmërisë dhe mbrojtjes së të dhënave personale.
+4. Rezultatet e vlerësimit të ndikimit në mbrojtjen e të dhënave dhe vendimet për trajtimin e rrezikut, miratohen nga struktura drejtuese përkatëse sipas legjislacionit në fuqi dhe akteve të brendshme të klientit dhe efektiviteti i tyre i nënshtrohet monitorimit të vazhdueshëm. Rivlerësimet e bazuara në ngjarje të caktuara kryhen sa herë që veprimet e përpunimit ndryshojnë apo ka përditësime rregullative.

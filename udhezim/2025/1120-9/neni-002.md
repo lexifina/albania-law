@@ -1,0 +1,10 @@
+# Neni 2
+Përkufizime
+1. Termat e përdorur në këtë udhëzim kanë të njëjtin kuptim si ato të parashikuara në ligj, si dhe ISO 27701 (siguria e të dhënave, siguria kibernetike dhe mbrojtja e të dhënave personale - sistemet e menaxhimit të të dhënave personale - kritere dhe udhëzime). Termat e tjerë të përdorur në këtë udhëzim kanë këto kuptime:
+a) “Certifikim” është procesi i zhvilluar nga organizmi i certifikimit, në përputhje me parashikimet e nenit 37 të ligjit, si dhe të këtij udhëzimi, me qëllim vlerësimin e konformitetit, në përfundim të të cilit klienti pajiset me vulën dhe shenjat për mbrojtjen e të dhënave personale, si dhe të gjitha aspektet e tjera që përfshijnë garantimin e përputhshmërisë dhe vlefshmërisë së certifikimit;
+b) “Vula dhe shenja” është simboli që do të përdoret nga organizmi i certifikimit për të treguar që një veprim përpunimi ose veprimet e përpunimit janë vlerësuar dhe janë gjetur në konformitet me kërkesat specifike ligjore për mbrojtjen e të dhënave personale;
+c) “Organizëm certifikimi” është personi juridik i akredituar nga Drejtoria e Përgjithshme e Akreditimit në përputhje me ligjin nr. 116/2014, “Për akreditimin e organeve të vlerësimit të konformitetit në Republikën e Shqipërisë”, ligjin nr. 124/2024, “Për mbrojtjen e të dhënave personale”, si dhe udhëzimin e Komisionerit nr. 8, datë 20.11.2025, “Për kriteret shtesë për akreditimin e organizmit certifikues”;
+ç) “Klient” është çdo person fizik apo juridik, publik ose privat, që bazuar në fushën e veprimtarisë ose në ushtrimin e kompetencave sipas ligjit, është kontrollues ose përpunues i të dhënave personale dhe për rrjedhojë i nënshtrohet vlerësimit të konformitetit dhe certifikimit me vula, dhe shenja sipas parashikimeve të ligjit dhe këtij udhëzimi;
+d) “Audit” është procesi i kontrollit sistematik, i pavarur dhe i dokumentuar, nëpërmjet të cilit përftohen të dhëna audituese dhe vlerësuese që përcaktojnë në mënyrë objektive masën në të cilën janë përmbushur kriteret ligjore;
+dh) “Komisioneri” është Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale;
+e) “Ligji” është ligji nr. 124/2024, “Për mbrojtjen e të dhënave personale”.
