@@ -1,0 +1,4 @@
+1. Shpalljen “zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Mat, si më poshtë vijon:
+a) Zona zhvillimore nr. 1, zona e liqeneve të Gërmanit, fshati Selixë, pjesë e Njësisë Administrative Komsi, me sipërfaqe 2 051 282 (dy milionë e pesëdhjetë e një mijë e dyqind e tetëdhjetë e dy) m², sipas hartës në sistemin KRGJSH të paraqitur mbi ortofoto;
+b) Zona zhvillimore nr. 2, zona ish-Vila e Zogut, fshati Selixë, pjesë e Njësisë Administrative Komsi, me sipërfaqe 1 585 237 (një milion e pesëqind e tetëdhjetë e pesë mijë e dyqind e tridhjetë e shtatë) m², sipas hartës në sistemin KRGJSH të paraqitur mbi ortofoto;
+c) Zona zhvillimore nr. 3, zona e kurorës së fshatit Selixë, pjesë e Njësisë Administrative Komsi, me sipërfaqe 2 564 391 (dy milionë e pesëqind e gjashtëdhjetë e katër mijë e treqind e nëntëdhjetë e një) m², sipas hartës në sistemin KRGJSH të paraqitur mbi ortofoto.
