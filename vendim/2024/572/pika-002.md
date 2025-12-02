@@ -1,1 +1,1 @@
-2. Ministrisë së Turizmit dhe Mjedisit i ndalohet të ndryshojë destinacionin e përdorimit të pronave të përcaktuara në pikën 1 të këtij vendimi, t’i tjetërsojë ose t’ua japë në përdorim të tretëve.
+2. Ministrisë së Mjedisit i ndalohet të ndryshojë destinacionin e përdorimit të pronave të përcaktuara në pikën 1 të këtij vendimi, t’i tjetërsojë ose t’ua japë në përdorim të tretëve.
