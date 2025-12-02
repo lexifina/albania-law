@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim përcaktimin e rregullave të hollësishme për funksionimin e Komisionit të Rekrutimit dhe Ecurisë në Karrierë, me qëllim menaxhimin e proceseve të rekrutimit dhe zhvillimit profesional të inspektorëve, në përputhje me parimet e transparencës, meritës dhe ngritjes së vazhdueshme profesionale.

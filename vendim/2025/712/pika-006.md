@@ -1,0 +1,1 @@
+6. Anëtarët e KREK-ut, pasi janë njohur me listën paraprake të kandidatëve të kualifikuar të përgatitur nga njësia përgjegjëse pranë Inspektoratit të Përgjithshëm, plotësojnë formularin e vetëdeklarimit, që nuk janë në kushtet e konfliktit të interesit dhe papajtueshmërisë, sipas legjislacionit në fuqi.

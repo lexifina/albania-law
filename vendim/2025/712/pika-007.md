@@ -1,0 +1,1 @@
+7. Anëtarët e KREK-ut, sipas përcaktimeve në pikat 2 dhe 3 të këtij kreu, duhet të kenë të paktën 3 (tri) vjet përvojë pune në Inspektoratin Qendror/ish-inspektorat shtetëror ose në Inspektoratin e Përgjithshëm/ish-Inspektoratin Qendror dhe nuk duhet të kenë lidhje familjare apo konflikt interesi me kandidatët.

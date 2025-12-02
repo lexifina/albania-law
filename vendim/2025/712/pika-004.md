@@ -1,0 +1,1 @@
+4. KREK-u, për pozicionin “kryeinspektor i Inspektoratit Qendror”, ka në përbërje anëtarët e përcaktuar në shkronjat “a” dhe “b”, të pikës 2, të këtij kreu, dhe 1 (një) anëtar, përfaqësues i ministrit përgjegjës të Inspektoratit Qendror, në pozicionin “sekretar i përgjithshëm” ose “drejtor i përgjithshëm” në ministrinë përgjegjëse.

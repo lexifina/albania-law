@@ -1,0 +1,1 @@
+3. KREK-u, për pozicionin “drejtuesi i strukturës tjetër inspektuese”, ka në përbërje anëtarët e përcaktuar në shkronjat “a” dhe “b”, të pikës 2, të këtij kreu, dhe 1 (një) anëtar, titullarin e institucionit përkatës ose një përfaqësues të autorizuar prej tij.
