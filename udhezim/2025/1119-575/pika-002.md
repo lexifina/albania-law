@@ -1,0 +1,1 @@
+2. Dokumenti nr. 822.2 prot., datë 13.2.2013, i miratuar nga Komisioni i Mbrojtjes nga Rrezatimet, “Metoda e llogaritjes së përmasave të zonës kritike të shpërhapjes së rrezatimit të një antene celulare”, shfuqizohet.
