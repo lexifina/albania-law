@@ -1,0 +1,21 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Shijak, si më poshtë vijon:
+a) zona zhvillimore nr. 1, Njësia Administrative Maminas, zona Rubjek, rezervuari Rubjek 2, me sipërfaqe 169.56 (njëqind e gjashtëdhjetë e nëntë pikë pesëdhjetë e gjashtë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+b) zona zhvillimore nr. 2, Njësia Administrative Maminas, zona Rubjek, rezervuari Rubjek 1, me sipërfaqe 3.88 (tre pikë tetëdhjetë e tetë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+c) zona zhvillimore nr. 3, Njësia Administrative Maminas, zona Rubjek, rezervuari Rubjek 1, me sipërfaqe 4.48 (katër pikë dyzet e tetë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+ç) zona zhvillimore nr. 4, Njësia Administrative Maminas, zona Karrec, rezervuari i Karrecit, me sipërfaqe 32.15 (tridhjetë e dy pikë pesëmbëdhjetë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+d) zona zhvillimore nr. 5, Njësia Administrative Maminas, zona Karpen, rezervuari i Karpenit, me sipërfaqe 1.86 (një pikë tetëdhjetë e gjashtë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+dh) zona zhvillimore nr. 6, Njësia Administrative Maminas, zona Karpen, rezervuari i Karpenit, me sipërfaqe 2.57 (dy pikë pesëdhjetë e shtatë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+e) zona zhvillimore nr. 7, Njësia Administrative Maminas, zona Karpen, rezervuari i Karpenit, me sipërfaqe 10.01 (dhjetë pikë zero një) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+ë) zona zhvillimore nr. 8, Njësia Administrative Maminas, zona Metallë, rezervuari i Metallës, me sipërfaqe 3.5 (tre pikë pesë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+f) zona zhvillimore nr. 9, Njësia Administrative Maminas, zona Metallë, rezervuari i Metallës, me sipërfaqe 1.7 (një pikë shtatë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+g) zona zhvillimore nr. 10, Njësia Administrative Maminas, zona Metallë, rezervuari i Metallës, me sipërfaqe 2.7 (dy pikë shtatë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+gj) zona zhvillimore nr. 11, Njësia Administrative Maminas, zona Metallë, rezervuari i Metallës, me sipërfaqe 3 (tre) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+h) zona zhvillimore nr. 12, Njësia Administrative Maminas, zona Metallë, rezervuari i Metallës, me sipërfaqe 5.1 (pesë pikë një) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+i) zona zhvillimore nr. 13, Njësia Administrative Maminas, zona Metallë, rezervuari i Metallës, me sipërfaqe 4.9 (katër pikë nëntë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+j) zona zhvillimore nr. 14, Njësia Administrative Maminas, zona Metallë, rezervuari i Metallës, me sipërfaqe 4.5 (katër pikë pesë) ha, sipas hartës në sistemin KRRGJSH, të paraqitur mbi ortofoto;
+k) zona zhvillimore nr. 15, Njësia Administrative Maminas, zona Metallë, rezervuari i Metallës, me sipërfaqe 1.4 (një pikë katër) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+l) zona zhvillimore nr. 16, Njësia Administrative Gjepalaj, zonat Shetël dhe Likesh, rezervuari i Callikës, me sipërfaqe 8.16 (tetë pikë gjashtëmbëdhjetë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+ll) zona zhvillimore nr. 17, Njësia Administrative Gjepalaj, zonat Shetël dhe Likesh, rezervuari i Callikës, me sipërfaqe 18.36 (tetëmbëdhjetë pikë tridhjetë e gjashtë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+m) zona zhvillimore nr. 18, Njësia Administrative Gjepalaj, zona Çizmeli, rezervuari i Çizmelisë, me sipërfaqe 16.73 (gjashtëmbëdhjetë pikë shtatëdhjetë e tre) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+n) zona zhvillimore nr. 19, Njësia Administrative Gjepalaj, zona Kënetë, rezervuari i Shtrazës, me sipërfaqe 5.3 (pesë pikë tre) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+nj) zona zhvillimore nr. 20, Njësia Administrative Gjepalaj, zona Gjepalaj, rezervuari i Terzies, me sipërfaqe 1.98 (një pikë nëntëdhjetë e tetë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto.
