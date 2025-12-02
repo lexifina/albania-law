@@ -1,0 +1,1 @@
+3. Prona e përcaktuar në pikën 1 të këtij vendimi hiqet nga lista e objekteve, që i bashkëlidhet vendimit nr. 1538, datë 26.11.2008, të Këshillit të Ministrave, “Për një ndryshim në vendimin nr. 378, datë 12.8.1999, të Këshillit të Ministrave, “Për kalimin e të drejtës së përfaqësuesit të pronarit për disa objekte, pronë publike, organeve të qeverisjes vendore”, të ndryshuar.

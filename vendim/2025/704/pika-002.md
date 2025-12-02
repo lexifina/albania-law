@@ -1,0 +1,1 @@
+2. Shoqërisë shtetërore “KAYO” sh.a., i ndalohet të ndryshojë destinacionin e përdorimit përtej objektit të saj të veprimtarisë, të përcaktuar nga legjislacioni në fuqi, ose të tjetërsojë pronën e përcaktuar në pikën 1 të këtij vendimi.

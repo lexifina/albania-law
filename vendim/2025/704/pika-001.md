@@ -1,0 +1,1 @@
+1. Transferimin e së drejtës së pronësisë te shoqëria shtetërore “KAYO” sh.a., të pasurisë së paluajtshme me nr. 10/304, me vendndodhje në zonën kadastrale 8170, Tiranë, sipas kartelës të pasurive dhe fragmentit të hartës kadastrale, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
