@@ -1,0 +1,28 @@
+{
+  "qbz_id": 31835,
+  "title": "Mbi licencimin e shoqërisë “Spitalla Solar” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "302",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2025-11-17",
+  "published": "2025-12-03",
+  "in_force": "2025-12-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ced16158d0c18f397e20b061d8f864a5ac41fe8a96f287ad45e63c07cca3a36e.docx",
+  "source_sha256": "ced16158d0c18f397e20b061d8f864a5ac41fe8a96f287ad45e63c07cca3a36e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/31835",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/11/17/302",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    32928
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
