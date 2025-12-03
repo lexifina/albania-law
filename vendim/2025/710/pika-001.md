@@ -1,0 +1,1 @@
+1. Miratimin e Strategjisë për Modernizimin dhe Harmonizimin e Sistemeve të Informacionit Doganor Shqiptar, në përputhje me sistemet e informacionit doganor të Bashkimit Evropian, për periudhën 2025-2030 dhe të planit të veprimit, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
