@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës për nënshkrimin e certifikatës së kategorizimit të strukturës akomoduese, të subjekteve të certifikuara nga Komisioni i Standardizimit të Veprimtarive Turistike, te znj. Llambriola Misto, Sekretar i Përgjithshëm.
