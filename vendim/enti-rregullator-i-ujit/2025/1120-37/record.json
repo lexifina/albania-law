@@ -1,0 +1,28 @@
+{
+  "qbz_id": 31849,
+  "title": "Për licencimin e Shoqërisë Rajonale Ujësjellës-Kanalizime Fier sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "37",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2025-11-20",
+  "published": "2025-12-05",
+  "in_force": "2025-12-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/659ad688a93283d9454704ecdafaa9a44935c7f84b079ec70ba7d38476b953a7.docx",
+  "source_sha256": "659ad688a93283d9454704ecdafaa9a44935c7f84b079ec70ba7d38476b953a7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/31849",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/11/20/37",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    32274
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
