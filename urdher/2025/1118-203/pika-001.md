@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës për nënshkrimin e “Certifikatës paraprake” dhe “Certifikatës” të subjekteve që ushtrojnë veprimtarinë e agroturizmit të miratuara nga Komisioni Vlerësues i Certifikimit të Subjekteve që Ushtrojnë Veprimtarinë e Agroturizmit, te znj. Llambriola Misto, Sekretar i Përgjithshëm.
