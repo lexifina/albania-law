@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 14.1.2025, për çështjen “Ibrahimi dhe të tjerë kundër Shqipërisë”, për kërkesën nr. 81057/17 dhe 4 kërkesa të tjera, përfundimtar në datën 14.1.2025, sipas shumave të përcaktuara në shtojcën 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
