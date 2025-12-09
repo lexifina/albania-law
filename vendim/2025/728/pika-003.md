@@ -1,0 +1,1 @@
+3. Në raste të veçanta, kur evidentohen kontribute të jashtëzakonshme dhe të argumentuara, dhënia e njërës prej shkallëve të medaljes së shërbimit ushtarak bëhet edhe pa plotësuar kriteret e kohëzgjatjes së shërbimit në Forcat e Armatosura, të parashikuara në shkronjën “ç”, të pikës 2, të këtij vendimi.

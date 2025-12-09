@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve, sipas këtij vendimi, për dhënien e medaljes së shërbimit ushtarak, me qëllim njohjen e përkushtimit e të kontributit në shërbim të interesave kombëtarë dhe kryerjen me përgjegjësi të lartë të detyrave.

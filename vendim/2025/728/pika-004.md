@@ -1,0 +1,1 @@
+4. Për përfitimin e medaljes së shërbimit ushtarak, ushtaraku i huaj vlerësohet vetëm për kontributin e veçantë, të vlerësuar si të rëndësishëm e të spikatur në funksion të interesave të Republikës së Shqipërisë.
