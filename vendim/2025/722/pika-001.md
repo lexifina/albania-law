@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit, nga Komisioni Qendror i Zgjedhjeve tek Fondi Shqiptar i Zhvillimit, të pronave me vendndodhje në Lundër, me numër pasurie 867/2, 867/17, 867/31 dhe 867/32, zona kadastrale 2529, Tiranë, sipas formularit dhe planit të rilevimit që i bashkëlidhen këtij vendimi, me qëllim për t’i përdorur për funksione publike.
