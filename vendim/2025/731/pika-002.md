@@ -1,0 +1,1 @@
+2. Fondi i përcaktuar në pikën 1, të këtij vendimi, transferohet në llogarinë bankare të fondacionit “Kinostudio” dhe përballohet nga buxheti i miratuar për vitin 2025 për Ministrinë e Arsimit, në programin buxhetor 01110 “Planifikim, menaxhim dhe administrim”, në llogarinë ekonomike 604. Financimi mbulon veprimtarinë për një periudhë 12-mujore.

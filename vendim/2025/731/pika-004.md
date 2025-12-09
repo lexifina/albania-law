@@ -1,0 +1,1 @@
+4. Fondacioni “Kinostudio” detyrohet të raportojë periodikisht mbi bazë katërmujore në Ministrinë e Arsimit për ecurinë e realizimit të aktiviteteve dhe të përdorimit të fondeve, sipas strukturës së miratuar të shpenzimeve.
