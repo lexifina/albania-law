@@ -1,0 +1,1 @@
+9. Pas paraqitjes së dokumentacionit pranë AKSK-së, kjo e fundit, brenda një afati 30-ditor, do të bëjë vlerësimin e tij bazuar në plotësimin e kritereve të përcaktuara në këtë vendim, si dhe në procesin e intervistimit e më pas do të njoftojë ekspertët e përzgjedhur.

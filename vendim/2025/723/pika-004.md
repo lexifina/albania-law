@@ -1,0 +1,1 @@
+4. AKSK-ja, me urdhër të drejtorit të përgjithshëm, bazuar në situatën e emergjencës e të krizës kibernetike, rast pas rasti, duke marrë në konsideratë kompleksitetin e situatës, natyrën e sulmit, si dhe numrin e infrastrukturave të prekura, vendos për numrin e ekspertëve, që do të përfshihen në ekipin e CERT-it dhe profilet e tyre.

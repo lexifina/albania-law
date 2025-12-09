@@ -1,0 +1,1 @@
+7. Shpallja do të përmbajë një informacion të detajuar, në lidhje me kriteret që duhet të plotësojnë ekspertët e sigurisë kibernetike, të teknologjisë së informacionit dhe ekspertët OT, dokumentet që duhet të dorëzojnë, mënyrën dhe formën e dorëzimit të tyre.

@@ -1,0 +1,1 @@
+1. Pranë Autoritetit Kombëtar për Sigurinë Kibernetike (në vijim, AKSK-ja) ngrihet dhe funksionon Ekipi i Përgjigjes ndaj Emergjencave dhe Krizës së Sigurisë Kibernetike (në vijim, CERT-i), i cili është një strukturë ad hoc, rast pas rasti, përgjegjëse për trajtimin në kohë dhe me eficiencë të emergjencave dhe të krizës së sigurisë kibernetike në Republikën e Shqipërisë.

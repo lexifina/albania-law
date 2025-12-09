@@ -1,0 +1,1 @@
+10. AKSK-ja do të hartojë listën me emrat dhe kontaktet e ekspertëve të sigurisë kibernetike, të teknologjisë së informacionit dhe ekspertët OT, nga të cilët do të përzgjidhen ekspertët që do të jenë pjesë e CERT-it.

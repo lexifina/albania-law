@@ -1,0 +1,1 @@
+3. Titullarët e institucioneve, sipas shkronjës “a”, të pikës 2, të këtij kreu, brenda 5 (pesë) ditëve nga hyrja në fuqi e këtij vendimi, dërgojnë pranë AKSK-së emrat e përfaqësuesve të institucioneve të tyre, si dhe përditësojnë emrat e listës, në raste ndryshimesh, brenda 5 (pesë) ditëve nga ndodhja e këtyre ndryshimeve.
