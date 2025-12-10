@@ -1,0 +1,1 @@
+1. Miratimin e planit të veprimit të Agjendës Digjitale për Arsimin 2025-2030, duke përfshirë standardet për arritjen e kompetencës digjitale, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

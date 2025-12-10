@@ -1,0 +1,5 @@
+VENDIM
+Nr. 733, datë 3.12.2025
+PËR MIRATIMIN E PLANIT TË VEPRIMIT TË AGJENDËS DIGJITALE PËR ARSIMIN 2025-2030, DUKE PËRFSHIRË STANDARDET PËR ARRITJEN E KOMPETENCËS DIGJITALE
+Në mbështetje të nenit 100 të Kushtetutës, me propozimin e ministrit të Arsimit, Këshilli i Ministrave
+VENDOSI:
