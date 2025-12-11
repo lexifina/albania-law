@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, dhe Komisionit Evropian, për planin shumëvjeçar të veprimit në favor të Shqipërisë, për vitet 2025-2027, në kuadër të Instrumentit të Asistencës së Paraanëtarësimit (IPA III)”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
