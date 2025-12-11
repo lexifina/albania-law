@@ -4,9 +4,9 @@ Nr. 92/2014
 
 PËR TATIMIN MBI VLERËN E SHTUAR NË REPUBLIKËN E SHQIPËRISË
 
-(ndryshuar me ligjet: nr. 90/2015, datë 23.7.2015; nr. 71/2017, datë 27.4.2017;
+(Ndryshuar me ligjet: nr. 90/2015, datë 23.7.2015; nr. 71/2017, datë 27.4.2017;
 
-nr. 107/2017,  datë 30.11.2017 ; nr. 40/2018, datë 9.7.2018 ; nr. 96/2018, datё 3.12.2018; me aktin normativ nr. 4, datë 30.11.2019[^fn2]; nr. 85/2019, datë 18.12.2019[^fn3]; nr. 64/2020, datё 14.5.2020;  nr. 123/2020, datë 15.10.2020; nr. 111/2021, datë 25.11.2021; nr. 82/2022, datë 24.11.2022; nr. 105/2023, datë 21.12.2023)
+nr. 107/2017,  datë 30.11.2017 ; nr. 40/2018, datë 9.7.2018 ; nr. 96/2018, datё 3.12.2018; me aktin normativ nr. 4, datë 30.11.2019[^fn2]; nr. 85/2019, datë 18.12.2019[^fn3]; nr. 64/2020, datё 14.5.2020;  nr. 123/2020, datë 15.10.2020; nr. 111/2021, datë 25.11.2021; nr. 82/2022, datë 24.11.2022; nr. 105/2023, datë 21.12.2023; nr. 80/2025, datë 11.12.2025)
 
  (i përditësuar)
 
@@ -2110,31 +2110,39 @@ Neni 148
 
 Norma e kompensimit të prodhuesit bujqësor
 
-(ndryshuar fjalë me ligjin nr. 96/2018, datё 3.12.2018, ndryshuar shifra me ligjin nr. 111/2021, datë 25.11.2021)
+(Ndryshuar fjalë me ligjin nr. 96/2018, datё 3.12.2018, ndryshuar shifra me ligjin nr. 111/2021, datë 25.11.2021; ndryshuar me ligjin nr. 80/2025, datë 11.12.2025)
 
-Norma e kompensimit të prodhuesve bujqësorë është 0 për qind.
+Norma e kompensimit të prodhuesve bujqësorë është 10 për qind.
 
 Neni 149
 
 Vlera e kompensimit
 
+(Ndryshuar pika 3 me ligjin nr. 80/2025, datë 11.12.2025)
+
 1. Norma e kompensimit aplikohet mbi çmimin pa TVSH të mallrave dhe të shërbimeve, të përcaktuara sipas shkronjës “dh”, të nenit 145, të këtij ligji.
 
 2. Kompensimi mbulon TVSH-në e paguar prej prodhuesve bujqësorë, të përfshirë në çmimin e blerjes së mallrave e shërbimeve, që u janë furnizuar atyre për nevoja të kryerjes së aktivitetit prodhues bujqësor.
 
-3. Kompensimi i akorduar i paguhet prodhuesit bujqësor nga blerësi, person i tatueshëm, përkundrejt furnizimeve të kryera të mallrave apo shërbimeve.
+3. Shuma që kompensohet është rezultat i shumëzimit të normës së kompensimit me vlerën totale të produkteve dhe të shërbimeve bujqësore, të furnizuara nga prodhuesi bujqësor, përgjatë një periudhe gjashtëmujore.
 
 Neni 150
 
 Mënyra e zbatimit të skemës
 
-1. Blerësi, person i tatueshëm, lëshon një faturë tatimore për shitësin prodhues bujqësor për çdo furnizim mallrash dhe shërbimesh të marrë prej tij. Vlera e faturës përfaqëson vlerën e furnizimit të paguar nga blerësi për llogari të shitësit, përfshirë normën e kompensimit.
+(Ndryshuar me ligjin nr. 80/2025, datë 11.12.2025)
 
-2. Forma dhe përmbajtja e faturës janë përcaktuar në nenin 101, të këtij ligji, në përputhje me natyrën e furnizimit. Në faturë duhet të shënohet NIPT-i sipas nenit 147, shkronja “ç”, të këtij seksioni.
+1. 	Blerësi i produkteve bujqësore, person i tatueshëm i regjistruar për TVSH-në, i cili ushtron aktivitet si grumbullues ose/dhe përpunues i produkteve bujqësore apo agroturizëm të certifikuar, sipas legjislacionit në fuqi për turizmin, lëshon një faturë tatimore për shitësin, prodhues bujqësor për çdo furnizim mallrash dhe shërbimesh të marrë prej tij. Vlera e faturës përfaqëson vlerën e furnizimit të paguar nga blerësi për llogari të shitësit, mbi të cilën aplikohet norma e kompensimit, sipas këtij ligji.
 
-3. Kompensimi, që personi i tatueshëm blerës i ka paguar shitësit prodhues bujqësor, është TVSH-ja e zbritshme për personin e tatueshëm, sipas kushteve të neneve 69 dhe 70, të këtij ligji, dhe deklarohet në periudhën tatimore kur është lëshuar fatura.
+2. 	Forma dhe përmbajtja e faturës janë përcaktuar në nenin 101 të këtij ligji, në përputhje me natyrën e furnizimit. Në faturë duhet të shënohet NIPT-i, sipas shkronjës “ç”, të nenit 147 të këtij seksioni.
 
-4. Në qoftë se fatura nuk përmban të dhënat e përcaktuara sipas pikës 2, të këtij neni, personi i tatueshëm nuk ka të drejtë të kreditojë kompensimin e paraqitur në të dhe detyrohet të paguajë dënimin në përputhje me ligjin për procedurat tatimore në Republikën e Shqipërisë.
+3. 	Kompensimi i akorduar i paguhet prodhuesit bujqësor nga administrata tatimore. Për të përfituar këtë kompensim, shitësi, prodhues bujqësor, duhet të dorëzojë në administratën tatimore, nëpërmjet shërbimit postar ose në rrugë elektronike, një kërkesë për kompensim, të shoqëruar me kopje të faturave të lëshuara nga blerësi i mallrave dhe shërbimeve bujqësore, si dhe numrin e llogarisë së tij bankare. Kërkesa për kompensim paraqitet sipas periudhave të mëposhtme:
+
+a) brenda datës 31 dhjetor për furnizimet e kryera gjatë periudhës janar–qershor të vitit përkatës;
+
+b) brenda datës 30 qershor të vitit pasardhës për furnizimet e kryera gjatë periudhës korrik–dhjetor të vitit paraardhës.
+
+4. Administrata tatimore kryen kompensimin brenda 30 (tridhjetë) ditëve nga data e paraqitjes së kërkesës.
 
 Seksioni 5
 
