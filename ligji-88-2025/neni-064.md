@@ -1,0 +1,4 @@
+# Neni 64
+Interesat e sigurisë
+1. Koncesionari/partneri privat mund sigurojë të drejtat e tij ndaj çdo pagese të çdo lloji të marrë ose që pritet të merret nga ai, në zbatim të një kontrate koncesioni/partneriteti publik privat ose në lidhje me të, pa cenuar të drejtën e tij ndaj çdo pjese tjetër të pasurisë së tij. Ky sigurim nuk mund të krijohet pa pëlqimin e autoritetit kontraktues dhe mund të bëhet vetëm në favor të institucioneve financiare për të siguruar pretendimet e këtyre institucioneve mbi bazën e kontratës së kredisë.
+2. Pretendimet e institucionit financiar, sipas pikës 1 të këtij neni, lidhen vetëm me instrumentet financiare të fituara për qëllime të ekzekutimit të kontratës së koncesionit/partneritetit publik privat dhe nuk përfshijnë asnjë nga pretendimet e tjera, që kanë institucionet financiare ndaj koncesionarit/partnerit privat për arsye të tjera.

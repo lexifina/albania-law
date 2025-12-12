@@ -1,0 +1,5 @@
+# Neni 68
+Paraqitja e ankesës
+1. Operatori ekonomik ankimues dërgon ankesën në Komisionin e Prokurimit Publik. Rregullat e posaçme për mënyrën e paraqitjes së ankesës përcaktohen me vendim të Këshillit të Ministrave.
+2. Ankesa bëhet sipas formularit përkatës, ku shënohen emri dhe adresa e ankuesit, referimi për procedurën konkrete dhe bazën ligjore ku ankuesi pretendon për shkeljet, duke e shoqëruar atë me dokumentacionin dhe provat përkatëse për të cilat mendon se mbështesin ankimin e tij. Elementet e sipërpërmendura janë të domosdoshme për shqyrtimin e ankesës. Ankimuesi është i detyruar t’i bashkëlidhë ankimit dokumentin bankar, që vërteton pagesën e tarifës për shqyrtimin e ankesës nga Komisioni i Prokurimit Publik.
+3. Nëse mungon ndonjë nga elementet e përcaktuara në pikën 2 të këtij neni ose formulari i ankesës nuk është plotësuar në mënyrën e duhur, atëherë Komisioni i Prokurimit Publik duhet të vërë në dijeni ankimuesin për të plotësuar mangësitë. Njoftimi mund të bëhet me çdo mjet të mundshëm, përfshirë edhe postën elektronike dhe në çdo rast dokumentohet. Nëse ankesa nuk korrigjohet brenda 2 (dy) ditëve nga njoftimi, ajo vlerësohet si e paparaqitur.

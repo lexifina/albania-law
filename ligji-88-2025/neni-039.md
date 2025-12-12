@@ -1,0 +1,7 @@
+# Neni 39
+Afatet kohore për paraqitjen e ofertave dhe të kërkesave për pjesëmarrje
+1. Gjatë përcaktimit të afateve kohore për pranimin e ofertave ose të kërkesave për pjesëmarrje, autoritetet ose entet kontraktuese marrin parasysh në veçanti kompleksitetin e kontratës dhe kohën e nevojshme për hartimin e tyre, pa cenuar afatet minimale kohore të përcaktuara në këtë nen.
+2. Kur kërkesat për pjesëmarrje ose ofertat mund të bëhen vetëm pas një vizite në kantier ose pas shqyrtimit në vend të dokumenteve që mbështesin dokumentet e tenderit, afatet kohore vendosen në mënyrë të tillë që të gjithë operatorët ekonomikë të interesuar të mund të kenë marrë dijeni për të gjithë informacionin e nevojshëm për të përgatitur kërkesat për pjesëmarrje ose ofertat dhe, në çdo rast, afatet janë më të gjata se afatet minimale kohore të përcaktuara në pikat 3 dhe 4 të këtij neni.
+3. Afati minimal kohor për pranimin e kërkesave për pjesëmarrje, pavarësisht nëse përfshin ose jo dorëzimin e ofertës, është 30 (tridhjetë) ditë nga e nesërmja e datës në të cilën është publikuar njoftimi i kontratës së koncesionit ose ftesa për shprehje interesi.
+4. Kur procedura zhvillohet në faza të njëpasnjëshme, afati minimal kohor për pranimin e ofertave fillestare është 22 (njëzet e dy) ditë nga e nesërmja e datës në të cilën është dërguar ftesa për ofertë.
+5. Afati kohor për pranimin e ofertave mund të reduktohet me 5 ditë kur autoriteti ose enti kontraktues pranon që ofertat mund të dorëzohen me mjete elektronike.

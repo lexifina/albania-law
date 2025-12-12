@@ -1,0 +1,3 @@
+# Neni 2
+Objekti i ligjit
+Ky ligj rregullon kompetencat e autoriteteve dhe të enteve kontraktuese për të hyrë në marrëveshje për investime të bazuara në koncesione/partneritete publike private, procedurat për dhënien e marrëveshjeve të tilla, si: nënshkrimi, ndërprerja dhe ndryshimet e marrëveshjeve të koncesionit/partneritetit publik privat, ndarja e risqeve fiskale, çështjet që kanë të bëjnë me rregullimet financiare dhe mbështetjen, në lidhje me koncesionet/partneritetet publike private, politikën e këtyre koncesioneve dhe autoritetin për zbatimin e tyre, si dhe çështje të tjera që lidhen me koncesionet/partneritetet publike private.

@@ -1,0 +1,4 @@
+# Neni 16
+Rregulla të zbatueshme për njësitë e vetëqeverisjes vendore dhe entet publike
+1. Njësitë e vetëqeverisjes vendore nuk mund të lidhin kontrata koncesioni/partneriteti publik privat nëse vlera totale e tyre kalon vlerën e 5 për qind të aktiveve, që rezulton në pasqyrat e fundit financiare të certifikuara. Shuma e përgjithshme e pagesave vjetore neto, që kryhen nga njësitë e vetëqeverisjes vendore, të cilat rezultojnë nga kontrata koncesionare apo partneriteti publik privat, nuk duhet të tejkalojnë kufirin prej 5 për qindësh të të ardhurave tatimore faktike të vitit paraardhës buxhetor.
+2. Entet e përcaktuara në shkronjën “b”, të pikës 2, të nenit 15 të këtij ligji, nuk mund të lidhin kontratë koncesioni/partneriteti publik privat nëse vlera totale e tyre kalon vlerën e 5 për qind të aktiveve, që rezulton në pasqyrat e fundit financiare të certifikuara.

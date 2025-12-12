@@ -1,0 +1,16 @@
+# Neni 23
+Studimi i fizibilitetit të koncesionit/partneritetit publik privat
+1. Studimi i fizibilitetit për koncesionin/partneritetin publik privat përmban, në mënyrë të veçantë:
+a) përmbledhjen operacionale dhe përshkrimin e përgjithshëm të projektit;
+b) analizat teknike, financiare, ligjore dhe ekonomike, që përfshijnë patjetër detajimin e investimeve të planifikuara, kostot e mirëmbajtjes, amortizimin dhe ndikimet e inflacionit të pritshëm;
+c) studimet mjedisore dhe implikimet në natyrë;
+ç) anekset shoqëruese, shtesat e kërkuara, konkluzionet dhe rekomandimet, përcaktimin e llojit dhe objektin e koncesionit/partneritetit publik privat;
+d) vlerësimin e risqeve të drejtpërdrejta financiare dhe ndikimin në buxhetin e qeverisë qendrore e vendore;
+dh) vlerën e parashikuar të kontratës;
+e) vlerësimet në lidhje me kriteret e zgjedhjes dhe të dhënies së koncesionit/partneritetit publik privat;
+ë) kohëzgjatjen e propozuar të kontratës, si edhe çdo informacion tjetër të nevojshëm për përgatitjen e dokumentacionit të tenderit.
+2. Në studimin e fizibilitetit merren parasysh, në veçanti, interesi publik, ndikimi në mjedis dhe mbrojtja e mjedisit, qëndrueshmëria, përshtatshmëria financiare e projektit, treguesit e vlerës për para, harmonizimi i projektit me objektivat kombëtarë dhe sektorialë strategjikë, risqet direkte e indirekte financiare dhe ndikimet në buxhetin qendror dhe në atë të qeverisjes vendore, mbështetja e nevojshme financiare, realizueshmëria teknike e tregtare, si dhe interesi i tregut dhe aftësia për të tërhequr operatorët e interesuar ekonomikë dhe mbështetësit financiarë.
+3. Përpara shpalljes së procedurës së dhënies me koncesion/partneritet publik privat, autoritetet kontraktuese dhe entet kontraktuese dërgojnë në ministrinë përgjegjëse për financat, për miratim paraprak, studimin e fizibilitetit, si dhe çdo ndryshim të mëtejshëm të tij së bashku me projektkontratën e ndarë në pjesën e panegociueshme dhe të negociueshme. Ministria përgjegjëse për financat e vlerëson dhe e miraton studimin së bashku me projektkontratën, në përputhje me kriteret e përcaktuara në pikën 2 të nenit 11 të këtij ligji.
+4. Përfshirja në Listën Unike të Projekteve me Rëndësi Kombëtare, që shoqërohen me investime, të cilat mund të kërkojnë angazhimin e fondeve të buxhetit të shtetit, direkt apo indirekt, aktualisht ose në të ardhmen, dhe kur vlera e plotë e investimit është mbi vlerat kufi të miratuara me udhëzim të ministrit përgjegjës për financat, miratohen sipas rregullave që caktohen në vendimin e Këshillit të Ministrave për menaxhimin e investimeve publike. Në këtë rast, pas maturimit të projektit në Listën Unike të Projekteve me Rëndësi Kombëtare, vijohen procedurat për dhënien me koncesion, sipas përcaktimeve të këtij ligji.
+5. Pas maturimit të projektit në Listën Unike të Projekteve me Rëndësi Kombëtare, nëse studimi i fizibilitetit përcakton se koncesioni/partneriteti publik privat është forma më e mirë e financimit, ndiqen procedurat e mëtejshme sipas këtij ligji.
+6. Të gjitha projektet e koncesionit/partneritetit publik privat, të cilat janë nën kufijtë financiarë të vendosur me udhëzim të ministrit përgjegjës për financat, ndjekin procedurat sipas këtij ligji.

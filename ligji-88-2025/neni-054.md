@@ -1,0 +1,10 @@
+# Neni 54
+Tarifa e koncesionit
+1. Nëse është përcaktuar në studimin e fizibilitetit, autoriteti/enti kontraktor do të përcaktojë në dokumentet e tenderit që koncesionari/partneri privat duhet të paguajë një kompensim monetar për koncesionin/partneritetin publik privat.
+Shuma dhe mënyra e kompensimit monetar duhet të specifikohet konkretisht në dokumentet e tenderit dhe në kontratën e koncesionit/partneritetit publik privat.
+Tarifa e koncesionit nuk do të aplikohet për koncesionet/partneritetet publike private, që aplikohen në fushën e shëndetësisë dhe në fushën e sportit.
+2. Tarifa koncesionare paguhet në përputhje me rregullat e caktuara nga ministri përgjegjës për financat, për arkëtimin e të ardhurave për llogari të buxhetit të shtetit.
+3. Shuma dhe afatet e pagesës së tarifës së koncesionit/partneritetit publik privat përcaktohen në përpjesëtim me objektin e koncesionit/partneritetit publik privat, me vlerën e parashikuar të kontratës, me kohëzgjatjen e kontratës, me risqet dhe me kostot që koncesionari/partneri privat merr përsipër dhe me fitimin e pritshëm, si dhe me nivelin e pajisjeve dhe me vlerën e pronës së dhënë sipas kontratës nga autoriteti ose enti kontraktues.
+4. Kontrata e koncesionit mund të përcaktojë ndryshueshmërinë e shumës dhe/ose mënyrën e llogaritjes dhe të pagesës së tarifës së koncesionit brenda një periudhe kohore të caktuar, gjatë gjithë periudhës së kohëzgjatjes së kontratës së koncesionit, në përputhje me dokumentacionin e tenderit dhe me vendimin për dhënien e kontratës.
+5. Tarifat e koncesionit janë pjesë e të ardhurave të buxhetit të shtetit të Republikës së Shqipërisë dhe/ose të buxheteve të organeve të qeverisjes vendore.
+6. Kur tarifa koncesionare nuk paguhet në përputhje me përcaktimet e këtij neni, autoriteti ose enti kontraktues njofton ministrin përgjegjës për financat, urdhri i të cilit, për arkëtimin e tarifës, përbën titull ekzekutiv për bankat e nivelit të dytë, ku ndodhet llogaria bankare e shoqërisë koncesionare, që vihet në ekzekutim nga përmbaruesi gjyqësor.

@@ -1,0 +1,7 @@
+# Neni 31
+Rregulla dhe parime të përgjithshme
+1. Procedura konkurruese për dhënien e koncesioneve fillon me miratimin e urdhrit përkatës nga autoriteti ose enti kontraktues, pasi të jetë miratuar studimi i fizibilitetit nga ministria përgjegjëse për financat ose të jetë maturuar në Listën Unike të Projekteve me Rëndësi Kombëtare dhe përfundon me publikimin e njoftimit të fituesit për dhënien e kontratës ose me publikimin e njoftimit të anulimit të procedurës.
+2. Autoriteti ose enti kontraktues organizon procedurën për përzgjedhjen e fituesit të koncesionit, në përputhje me këtë ligj.
+3. Organizimi i procedurës së dhënies së koncesionit duhet të respektojë parimet e përcaktuara në nenin 9 të këtij ligji. Në veçanti, gjatë procedurës së dhënies së koncesionit, autoriteti ose enti kontraktues nuk duhet të japë informacion në mënyrë diskriminuese, që mund t’u japë disa kandidatëve ose ofertuesve një avantazh ndaj të tjerëve.
+4. Autoriteti ose enti kontraktues merr masat e duhura për të siguruar që gjatë zbatimit të kontratave të koncesioneve, operatorët ekonomikë të kontraktuar të respektojnë detyrimet që zbatohen në fushat e së drejtës mjedisore, sociale dhe të punës, të përcaktuara nga e drejta e Bashkimit Evropian, e drejta kombëtare dhe e drejta ndërkombëtare e detyrueshme për t’u zbatuar nga Republika e Shqipërisë.
+5. Rregullat më të hollësishme për zhvillimin e procedurave konkurruese për dhënien me koncesion përcaktohen me vendim të Këshillit të Ministrave.

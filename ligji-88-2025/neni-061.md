@@ -1,0 +1,4 @@
+# Neni 61
+Marrëdhëniet e pronësisë
+1. Në rast se një kontratë koncesioni/partneriteti publik privat përfshin përdorimin e pasurisë në pronësi të një personi, që nuk është i përfshirë në procedurën për dhënie të kontratës, marrëdhëniet e pronësisë, që shoqërojnë një pasuri të tillë, duhet të zgjidhen sipas legjislacionit në fuqi, në mënyrë që të mos pengohet realizimi i projektit gjatë periudhës së kontraktuar.
+2. Nëse Republika e Shqipërisë është pronare e pasurisë së paluajtshme, të përfshirë në realizimin e një kontrate koncesioni/partneriteti publik privat, ose nëse koncesioni/partneriteti publik privat përfshin përdorimin e të mirave publike, atëherë autoriteti kontraktues zgjidh të gjitha marrëdhëniet e pronësisë, në përputhje me legjislacionin në fuqi, në një mënyrë që të mos pengohet realizimi i projektit gjatë periudhës së kontraktuar.

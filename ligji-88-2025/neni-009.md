@@ -1,0 +1,6 @@
+# Neni 9
+Parimet themelore
+1. Procedura për dhënien e koncesioneve/partneriteteve publike private zbatohet në përputhje me parimet e transparencës, mosdiskriminimit, proporcionalitetit, efikasitetit, trajtimit të barabartë, reciprocitetit dhe të sigurisë ligjore.
+2. Përgatitja e procedurës konkurruese të dhënies me koncesion/partneritet publik privat, duke përfshirë përllogaritjen e vlerës, nuk bëhet me qëllimin e përjashtimit nga objekti i këtij ligji ose për të favorizuar ose disavantazhuar në mënyrë të padrejtë një numër operatorësh ekonomikë ose punësh, mallrash ose shërbimesh të caktuara.
+3. Ky ligj njeh parimin e administrimit të lirë nga autoritetet kombëtare, qendrore dhe vendore. Këto autoritete janë të lira të vendosin se si ta menaxhojnë më mirë ekzekutimin e punimeve ose ofrimin e shërbimeve për të siguruar në veçanti një nivel të lartë cilësie, sigurie dhe përballueshmërie, trajtim të barabartë dhe promovimin e aksesit universal dhe të të drejtave të përdoruesve në shërbimet publike. Këto autoritete mund të zgjedhin të kryejnë detyrat e tyre me interes publik me burimet e tyre ose në bashkëpunim me autoritete të tjera ose t’ua delegojnë ato operatorëve ekonomikë.
+4. Ky ligj nuk ndikon në sistemet e pronësisë së Republikës së Shqipërisë, ku, në veçanti, nuk kërkohet privatizimi i ndërmarrjeve publike, që ofrojnë shërbime për publikun.
