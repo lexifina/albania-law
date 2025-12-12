@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 9, datë 1.10.2025, “Për disa shtesa dhe ndryshime në ligjin nr. 9780, datë 16.7.2007, ’Për inspektimin dhe mbrojtjen e territorit nga ndërtimet e kundërligjshme’”, të ndryshuar.
