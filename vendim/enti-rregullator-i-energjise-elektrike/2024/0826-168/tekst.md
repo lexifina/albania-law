@@ -4,6 +4,10 @@ Nr. 168, datë 26.8.2024
 
 MBI LICENCIMIN E SHOQËRISË “SUN’S MIRACLE” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me Vendimin nr. 316, datë 12.12.2025)
+
+(I përditësuar)
+
 Në mbështetje të neneve 16 dhe 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 4, pika 1, germa “a”, 5, pika 1, germa “a” dhe 13 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 26.8.2024, mbasi shqyrtoi relacionin me nr. 1652/9 prot., datë 22.8.2024, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes “Mbi licencimin e shoqërisë ‘Sun’s Miracle’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -30,7 +34,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Sun’s Miracle” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 2mw, për një afat 30-vjeçar. 
 
-2. Shoqëria duhet të fillojë ushtrimin e aktivitetit të prodhimit të energjisë elektrike nga centrali fotovoltaik, jo më vonë se data 15.9.2024.
+2.Shfuqizuar.
 
 3. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “Sun’s Miracle” sh.p.k. dhe Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s.
 
