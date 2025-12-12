@@ -6,6 +6,10 @@ MBI LICENCIMIN E SHOQËRISË “ALBANIA POWER CORE” SHPK
 
 NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr. 315, datë 12.12.2025)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a”, dhe 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13, dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 28.10.2024, mbasi shqyrtoi relacionin me nr. 1662/12 prot., datë 25.10.2024, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘Albania Power Core’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -48,11 +52,11 @@ VENDOSI:
 
 	2. Shoqëria të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike jo më vonë se data 27.3.2027.
 
-	3. Shoqëria duhet të dokumentojë fillimin e punimeve për ndërtimin e centralit fotovoltaik brenda afatit të fundit të vlefshmërisë së VNM-së paraprake (brenda datës 7.12.2024), ose duhet të depozitojë në ERE një VNM paraprake të re në rast të mos fillimit të punimeve brenda datës 7.12.2024. 
+	3. Shfuqizuar. 
 
 	4. Para vënies në operim të risjellë Marrëveshjen e lidhjes me OST-në me atë kapacitet prodhues sipas Kontratës së nënshkruar me Autoritetin Kontraktor.
 
-	5. Ky vendim është objekt rishikimi nga ERE në kuadër të pikave 2, 3 dhe 4 të këtij vendimi.
+	5. Ky vendim është objekt rishikimi nga ERE, në kuadër të pikave 2 dhe 4 të këtij vendimi.
 
 	6. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “Albania Power Core” sh.p.k. dhe Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s.
 
