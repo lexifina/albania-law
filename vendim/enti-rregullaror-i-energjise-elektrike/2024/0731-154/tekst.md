@@ -4,6 +4,10 @@ Nr. 154, datë 31.7.2024
 
 MBI LICENCIMIN E SHOQËRISË “AGE ERZEN” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “HEKALI”
 
+(Ndryshuar me vendimin nr. 314, datë 12.12.2025)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a” dhe 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; nenit 4, pika 1, germa “a”, nenit 5, pika 1, germa “a”, neneve 13 dhe 14, pika 9 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 31.7.2024, mbasi shqyrtoi relacionin me nr. 814/16 prot., datë 29.7.2024, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes “Mbi kërkesën e shoqërisë ‘Age Erzen’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike nga HEC ‘Hekali’”,
 
 konstatoi se: 
@@ -50,11 +54,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Age Erzen” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Hekali”, me kapacitet të instaluar 1940 kw, me vendndodhje në pellgun ujëmbledhës të lumit Erzen, Bashkia Tiranë, për një afat 30-vjeçar, duke filluar nga data 1.6.2026.
 
-2. Shoqëria “Age Erzen” sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor brenda datës 18.9.2025. 
+2. Shoqëria ‘Age Erzen’ sh.p.k. duhet të depozitojë në ERE lejen e rinovuar të përdorimit të burimit ujor brenda datës 8.1.2030. 
 
 	3. Në rast se shoqëria nuk depoziton lejen e rinovuar të përdorimit të burimit ujor brenda afatit të përcaktuar në pikën 2 të këtij vendimi dhe ka një vendim për ndërprerjen/pezullimin e veprimtarisë nga inspektoratet/agjencitë e mbrojtjes së territorit/mjedisit, atëherë ajo nuk ka të drejtë të operojë/ushtrojë veprimtarinë e prodhimit të energjisë elektrike.
 
-	4. Brenda datës 30 tetor 2024, shoqëria duhet të depozitojë në ERE, dakordësinë e kontraktorit të punimeve për financimin e shpenzimeve për ndërtimin e veprës deri në disbursimin e kredisë dhe certifikimin e punimeve, si dhe për mënyrën e shlyerjes së këtij investimi.
+	4. Shfuqizuar.
 
 5. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes, të njoftojë shoqërinë “Age Erzen” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, Agjencinë e Menaxhimit të Burimeve Ujore, “Furnizuesin e Tregut të Lirë” sh.a. dhe “Operatorin e Sistemit të Shpërndarjes” sh.a. për vendimin e Bordit të ERE-s.
 
