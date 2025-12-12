@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 7, datë 1.10.2025, “Për disa ndryshime dhe shtesa në ligjin nr. 8402, datë 10.9.1998, “Për kontrollin dhe disiplinimin e punimeve të ndërtimit”, të ndryshuar.
