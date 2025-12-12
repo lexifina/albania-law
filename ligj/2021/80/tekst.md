@@ -4,7 +4,7 @@ Nr. 80/2021
 
 PËR REGJISTRIMIN E ORGANIZATAVE JOFITIMPRURËSE
 
-(Ndryshuar me Vendimin e Gjykatës Kushtetuese nr. 62, datë 20.11.2023)
+(Ndryshuar me Vendimin e Gjykatës Kushtetuese nr. 62, datë 20.11.2023; me ligjin nr. 90/2025, datë 12.12.2025)
 
 (i përditësuar)
 
@@ -24,7 +24,9 @@ Neni 1
 
 Objekti i ligjit
 
-Ky ligj përcakton procedurat e regjistrimit të organizatave jofitimprurëse, si dhe rregullat për mbajtjen e regjistrit të tyre për organizata jofitimprurëse, të cilat kanë detyrimin për t’u regjistruar sipas legjislacionit në fuqi, që përcakton rregullat për themelimin, regjistrimin, funksionimin, organizimin dhe veprimtarinë e organizatave jofitimprurëse.
+(Ndryshuar me ligjin nr. 90/2025, datë 12.12.2025)
+
+Ky ligj përcakton procedurat e regjistrimit të organizatave jofitimprurëse, sipas legjislacionit në fuqi, që përcakton rregullat për themelimin, regjistrimin, funksionimin, organizimin dhe veprimtarinë e organizatave jofitimprurëse, si dhe rregullat për mbajtjen e regjistrit të tyre.
 
 Neni 2
 
@@ -36,15 +38,17 @@ Neni 3
 
 Përkufizime
 
+(Ndryshuar togfjalësh në pikat 10, 11 me ligjin nr. 90/2025, datë 12.12.2025; ndryshuar pika 9 me ligjin nr. 90/2025, datë 12.12.2025)
+
 Në kuptim të këtij ligji, me termat e mëposhtëm nënkuptojmë: 
 
 1. “Dokumente shoqëruese” janë dokumente të cilat provojnë të dhënat që regjistrohen. 
 
-2. “Kërkesë për regjistrim” është kërkesa që regjistrohet në Gjykatën e Rrethit Gjyqësor Tiranë për kryerjen e veprimeve në regjistër sipas këtij ligji. 
+2. “Kërkesë për regjistrim” është kërkesa që regjistrohet në Gjykatën e Shkallës së Parë e Juridiksionit të Përgjithshëm Tiranë për kryerjen e veprimeve në regjistër sipas këtij ligji. 
 
 3. “Kërkues” është organizata jofitimprurëse së cilës i përkasin të dhënat që regjistrohen, njoftohen ose depozitohen në regjistër, ose personat e tjerë që sipas këtij ligji kanë të drejtë të kërkojnë kryerjen e veprimeve në regjistër. 
 
- 	4. “Mjet elektronik” është çdo mjet me anë të të cilit mundësohet dërgimi fillestar i informacionit e marrja e tij nga marrësi i përcaktuar me anë të pajisjeve elektronike për përpunimin (duke përfshirë ngjeshjen shifrore) dhe ruajtja e të dhënave, tërësisht të transmetuara, të përcjella ose të marra përmes kabllove, valëve radio, mjeteve optike ose mjeteve të tjera elektromagnetike. 
+ 4. “Mjet elektronik” është çdo mjet me anë të të cilit mundësohet dërgimi për herë të parë i informacionit e marrja e tij nga marrësi i përcaktuar me anë të pajisjeve elektronike për përpunimin (duke përfshirë ngjeshjen shifrore) dhe ruajtja e të dhënave, tërësisht të transmetuara, të përcjella ose të marra përmes kabllove, valëve radio, mjeteve optike ose mjeteve të tjera elektromagnetike. 
 
 5. “Organizata jofitimprurëse” ka të njëjtin kuptim si në ligjin që përcakton rregullat për themelimin, regjistrimin, funksionimin, organizimin dhe veprimtarinë e organizatave jofitimprurëse. 
 
@@ -54,13 +58,13 @@ Në kuptim të këtij ligji, me termat e mëposhtëm nënkuptojmë:
 
 8. “Regjistri elektronik” është regjistri i organizatave jofitimprurëse, që krijohet dhe administrohet si një bazë të dhënash shtetërore, në të cilin regjistrohen organizatat jofitimprurëse sipas këtij ligji. 
 
-9. “Regjistrim fillestar” është regjistrimi për herë të parë në regjistër.
+9. “Regjistrimi për herë të parë” është regjistrimi i organizatave jofitimprurëse pranë Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë, me qëllim fitimin e personalitetit juridik.
 
-10. “Regjistrim tjetër” është çdo ndryshim, shtesë ose fshirje të dhënash në regjistër. 
+10. “Regjistrim i ndryshimeve të të dhënave” është çdo ndryshim, shtesë ose fshirje të dhënash në regjistër. 
 
-11. “Regjistrim” është regjistrimi fillestar dhe çdo regjistrim tjetër, përfshirë edhe transformimin, bashkimin, çregjistrimin e subjektit nga regjistri. 
+11. “Regjistrim” është regjistrimi për herë të parë dhe çdo regjistrim i ndryshimeve të të dhënave, përfshirë edhe transformimin, bashkimin, çregjistrimin e subjektit nga regjistri. 
 
-12. “Sporteli elektronik” është portali elektronik i Gjykatës së Rrethit Gjyqësor Tiranë, i aksesueshëm nëpërmjet portalit e-albania, ku mundësohet ofrimi i shërbimit për publikun në distancë, duke komunikuar drejtpërdrejt me sistemin qendror për regjistrimin e organizatave jofitimprurëse nëpërmjet mjeteve elektronike. 
+12. “Sporteli elektronik” është portali elektronik i Gjykatës së Shkallës së Parë e Juridiksionit të Përgjithshëm Tiranë, i aksesueshëm nëpërmjet portalit e-albania, ku mundësohet ofrimi i shërbimit për publikun në distancë, duke komunikuar drejtpërdrejt me sistemin qendror për regjistrimin e organizatave jofitimprurëse nëpërmjet mjeteve elektronike. 
 
 13. “Të dhëna” janë faktet, aktet dhe informacionet që regjistrohen, njoftohen ose depozitohen në regjistër. 
 
@@ -80,7 +84,7 @@ Regjistri elektronik i organizatave jofitimprurëse
 
 1. Regjistri elektronik i organizatave jofitimprurëse është një bazë e të dhënave shtetërore, nëpërmjet së cilës grumbullohet informacioni i organizuar dhe i ruajtur në formë elektronike për organizatat jofitimprurëse, ku përpunimi dhe përditësimi i tij kryhet përmes një sistemi kompjuterik. Informacioni përbëhet nga dosje të veçanta elektronike për çdo organizatë jofitimprurëse që regjistrohet sipas parashikimeve të këtij ligji. 
 
-2. Regjistri elektronik i organizatave jofitimprurëse krijohet nga Këshilli i Lartë Gjyqësor dhe administrohet nga Gjykata e Rrethit Gjyqësor Tiranë në përputhje me parashikimet e legjislacionit në fuqi për bazat e të dhënave shtetërore. Të gjitha të dhënat, kërkesat për regjistrim dhe dokumentet shoqëruese, pavarësisht nëse janë paraqitur në formë shkresore apo elektronike sipas këtij ligji, regjistrohen dhe ruhen në regjistër në formë elektronike. 
+2. Regjistri elektronik i organizatave jofitimprurëse krijohet nga Këshilli i Lartë Gjyqësor dhe administrohet nga Gjykata e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë, në përputhje me parashikimet e legjislacionit në fuqi për bazat e të dhënave shtetërore. Të gjitha të dhënat, kërkesat për regjistrim dhe dokumentet shoqëruese, pavarësisht nëse janë paraqitur në formë shkresore apo elektronike sipas këtij ligji, regjistrohen dhe ruhen në regjistër në formë elektronike. 
 
 3. Regjistrimi, përpunimi dhe ruajtja e të dhënave, të njoftuara dhe të depozituara në regjistrin elektronik, kryhen nëpërmjet një sistemi të informatizuar sipas procedurës së parashikuar në këtë ligj. 
 
@@ -98,7 +102,9 @@ Neni 6
 
 Mënyra e regjistrimit
 
-1. Regjistrimi fillestar dhe çdo regjistrim tjetër kryhet nëpërmjet paraqitjes së kërkesës për regjistrim pranë Gjykatës së Rrethit Gjyqësor Tiranë. Kërkesa për regjistrim paraqitet në formë shkresore ose në formë elektronike, sipas përcaktimeve të këtij ligji. 
+(Ndryshuar togfjalësh në pikën 1 me ligjin nr. 90/2025, datë 12.12.2025)
+
+1. Regjistrimi për herë të parë dhe çdo regjistrim i ndryshimeve të të dhënave kryhet nëpërmjet paraqitjes së kërkesës për regjistrim pranë Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë. Kërkesa për regjistrim paraqitet në formë shkresore ose në formë elektronike, sipas përcaktimeve të këtij ligji. 
 
 2. Këshilli i Lartë Gjyqësor miraton formularët e kërkesave për regjistrim, si dhe listën e dokumenteve shoqëruese për çdo regjistrim që kryhet në regjistër sipas kërkesave të legjislacionit në fuqi.
 
@@ -118,15 +124,17 @@ Marrja dijeni për regjistrim dhe publikim
 
 SEKSIONI II
 
-DETYRIMI PËR REGJISTRIM, RREGULLAT E EMËRIMIT, PERSONAT E AUTORIZUAR DHE FORMA E AKTEVE SHOQËRUESE
+REGJISTRIMI I ORGANIZATAVE JOFITIMPRURËSE, RREGULLAT E EMËRIMIT, PERSONAT E AUTORIZUAR DHE FORMA E AKTEVE SHOQËRUESE
+
+(Ndryshuar titulli i seksionit II me ligjin nr. 90/2025, datë 12.12.2025)
 
 Neni 8
 
-Detyrimi për regjistrim
+Regjistrimi i organizatës jofitimprurëse
 
-(Shfuqizuar togfjalësh me VGjK nr. 62, datë 20.11.2023)
+ (Shfuqizuar togfjalësh me VGjK nr. 62, datë 20.11.2023; ndryshuar me ligjin nr. 90/2025, datë 12.12.2025)
 
-Organizatat jofitimprurëse, të cilat kanë detyrimin për t’u regjistruar sipas legjislacionit në fuqi, që përcakton rregullat për themelimin, regjistrimin, funksionimin, organizimin dhe veprimtarinë e organizatave jofitimprurëse, janë të detyruara të paraqesin në Gjykatën e Rrethit Gjyqësor Tiranë kërkesën për regjistrime të tjera të detyrueshme brenda 30 (tridhjetë) ditëve kalendarike nga data e themelimit ose nga data e ngjarjes së rrethanës faktike dhe/ose hartimit të aktit të detyrueshëm për t’u regjistruar.
+Kërkesa për regjistrimin për herë të parë, si dhe kërkesa për regjistrimin e ndryshimeve të të dhënave paraqitet në Gjykatën e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë, sipas legjislacionit në fuqi për organizatat jofitimprurëse.
 
 Neni 9
 
@@ -140,17 +148,21 @@ Neni 10
 
 Personat e autorizuar për të bërë regjistrimin
 
-1. Kërkesa për regjistrimin fillestar të organizatave jofitimprurëse mund të paraqitet bashkërisht nga të gjithë themeluesit ose nga çdo person i autorizuar prej tyre. Kërkesa për regjistrimet e tjera paraqitet nga organi ekzekutiv që ka të drejtën e përfaqësimit të organizatës me të tretët ose nga çdo person i autorizuar prej tyre. 
+(Ndryshuar togfjalësh në pikën 1, 2, 3 me ligjin nr. 90/2025, datë 12.12.2025)
 
-2. Kërkesa për regjistrim fillestar dhe regjistrimet e tjera të organizatave jofitimprurëse të huaja bëhet nga përfaqësuesi ligjor i degës ose i organizatës jofitimprurëse të huaj ose nga çdo person i autorizuar nga njëri prej personave të përmendur më sipër. 
+1. Kërkesa për regjistrimin për herë të parë të organizatave jofitimprurëse mund të paraqitet bashkërisht nga të gjithë themeluesit ose nga çdo person i autorizuar prej tyre. Kërkesa për regjistrimin e ndryshimeve të të dhënave paraqitet nga organi ekzekutiv që ka të drejtën e përfaqësimit të organizatës me të tretët ose nga çdo person i autorizuar prej tyre. 
 
-3. Në çdo rast, të drejtën për të kërkuar regjistrimin fillestar ose regjistrimet e tjera e ka edhe çdo person tjetër që ligji i posaçëm ia ka njohur këtë të drejtë. 
+2. Kërkesa për regjistrim për herë të parë dhe regjistrimin e ndryshimeve të të dhënave të organizatave jofitimprurëse të huaja bëhet nga përfaqësuesi ligjor i degës ose i organizatës jofitimprurëse të huaj ose nga çdo person i autorizuar nga njëri prej personave të përmendur më sipër. 
+
+3. Në çdo rast, të drejtën për të kërkuar regjistrimin për herë të parë ose regjistrimin e ndryshimeve të të dhënave e ka edhe çdo person tjetër që ligji i posaçëm ia ka njohur këtë të drejtë.  
 
 Neni 11
 
 Kërkesa për regjistrim dhe forma e dokumenteve shoqëruese
 
-1. Regjistrimi fillestar dhe çdo regjistrim tjetër kryhet nëpërmjet paraqitjes së kërkesës për regjistrim, sipas formularit përkatës, pranë Gjykatës së Rrethit Gjyqësor Tiranë në formë shkresore ose në formë elektronike. Kërkesës për regjistrim i bashkëlidhen dokumentet shoqëruese që provojnë të dhënat që regjistrohen. 
+(Ndryshuar togfjalësh në pikën 1 me ligjin nr. 90/2025, datë 12.12.2025)
+
+1. Regjistrimi për herë të parë dhe çdo regjistrim i ndryshimeve të të dhënave kryhet nëpërmjet paraqitjes së kërkesës për regjistrim, sipas formularit përkatës, pranë Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë, në formë shkresore ose në formë elektronike. Kërkesës për regjistrim i bashkëlidhen dokumentet shoqëruese që provojnë të dhënat që regjistrohen. 
 
  2. Dokumentet shoqëruese duhet të dorëzohen në origjinal ose në kopje të njësuara me origjinalin dhe të jenë hartuar sipas formës dhe mënyrës së përcaktuar nga legjislacioni përkatës ose nga dispozitat e këtij ligji. Dokumentet shoqëruese mund të dorëzohen edhe në format elektronik, sipas parashikimeve të kreut V të këtij ligji. 
 
@@ -160,17 +172,17 @@ Kërkesa për regjistrim dhe forma e dokumenteve shoqëruese
 
 SEKSIONI III
 
-REGJISTRIMI FILLESTAR
+REGJISTRIMI PËR HERË TË PARË
 
 Neni 12
 
-Aktet për regjistrimin fillestar
+Aktet për regjistrimin për herë të parë
 
- 	1. Organizatat jofitimprurëse regjistrohen në regjistrin elektronik duke depozituar kërkesën për regjistrim fillestar, të plotësuar me të gjitha të dhënat e detyrueshme sipas këtij ligji, statutin dhe aktin e themelimit, aktet e emërimit të organeve vendimmarrëse, duke përfshirë edhe aktin për caktimin e përfaqësuesit ligjor të organizatës jofitimprurëse, nëse nuk përfshihet në aktet e mësipërme, si dhe aktet e tjera të nevojshme për themelimin sipas legjislacionit në fuqi. 
+ 	1. Organizatat jofitimprurëse regjistrohen në regjistrin elektronik duke depozituar kërkesën për regjistrim për herë të parë, të plotësuar me të gjitha të dhënat e detyrueshme sipas këtij ligji, statutin dhe aktin e themelimit, aktet e emërimit të organeve vendimmarrëse, duke përfshirë edhe aktin për caktimin e përfaqësuesit ligjor të organizatës jofitimprurëse, nëse nuk përfshihet në aktet e mësipërme, si dhe aktet e tjera të nevojshme për themelimin sipas legjislacionit në fuqi. 
 
-2. Për fondacionet që themelohen në bazë të një akti testamentar, bashkë me kërkesën për regjistrim fillestar, të plotësuar me të gjitha të dhënat e detyrueshme sipas këtij ligji, depozitohet testamenti dhe statuti në rastet kur është hartuar dhe miratuar nga ekzekutori i testamentit. 
+2. Për fondacionet që themelohen në bazë të një akti testamentar, bashkë me kërkesën për regjistrim për herë të parë, të plotësuar me të gjitha të dhënat e detyrueshme sipas këtij ligji, depozitohet testamenti dhe statuti në rastet kur është hartuar dhe miratuar nga ekzekutori i testamentit. 
 
-3. Degët e organizatave jofitimprurëse të huaja, përveç përmbushjes së kërkesave të tjera të legjislacionit në fuqi, regjistrohen duke depozituar kërkesën për regjistrim fillestar të plotësuar me të gjitha të dhënat e detyrueshme sipas këtij ligji, si dhe: 
+3. Degët e organizatave jofitimprurëse të huaja, përveç përmbushjes së kërkesave të tjera të legjislacionit në fuqi, regjistrohen duke depozituar kërkesën për regjistrim për herë të parë të plotësuar me të gjitha të dhënat e detyrueshme sipas këtij ligji, si dhe: 
 
 a) aktin e themelimit e statutin e organizatës jofitimprurëse të huaj, kur këto janë dy dokumente të veçanta ose, në mungesë, aktin ekuivalent të krijimit sipas legjislacionit të huaj, si dhe tekstin e plotë të tyre me ndryshimet e mëpasshme; 
 
@@ -184,13 +196,13 @@ Neni 13
 
 Organizatat jofitimprurëse me themelues të huaj
 
-Në rastet e regjistrimit të organizatave jofitimprurëse me themelues një person juridik të huaj, përveç dokumenteve të kërkuara sipas formës së organizatës jofitimprurëse, kërkesës për regjistrim fillestar i bashkëlidhen edhe dokumentet e përcaktuara në pikën 3 të nenit 12 të këtij ligji për personin juridik të huaj. 
+Në rastet e regjistrimit të organizatave jofitimprurëse me themelues një person juridik të huaj, përveç dokumenteve të kërkuara sipas formës së organizatës jofitimprurëse, kërkesës për regjistrim për herë të parë i bashkëlidhen edhe dokumentet e përcaktuara në pikën 3 të nenit 12 të këtij ligji për personin juridik të huaj. 
 
 Neni 14
 
 Të dhënat e detyrueshme për organizatat jofitimprurëse
 
-Për regjistrimin fillestar të organizatave jofitimprurëse janë të detyrueshme këto të dhëna:
+Për regjistrimin për herë të parë të organizatave jofitimprurëse janë të detyrueshme këto të dhëna:
 
 a) emri; 
 
@@ -218,7 +230,7 @@ Neni 15
 
 Të dhënat e detyrueshme për degët e organizatave jofitimprurëse të huaja
 
-Për regjistrimin fillestar të degëve të organizatave jofitimprurëse të huaja janë të detyrueshme këto të dhëna: 
+Për regjistrimin për herë të parë të degëve të organizatave jofitimprurëse të huaja janë të detyrueshme këto të dhëna: 
 
 a) të dhënat e përcaktuara në shkronjat “a”, “b”, “c”, “d”, “dh”, “e”, “ë” “f” dhe “g” të nenit 14 të këtij ligji për organizatat jofitimprurëse të huaja, përfshirë numrin dhe vendin e regjistrimit; 
 
@@ -236,19 +248,23 @@ e) specimenet e nënshkrimit (firmave) të personave, që përfaqësojnë degën
 
 Neni 16
 
-Pasojat e regjistrimit fillestar
+Pasojat e regjistrimit për herë të parë
 
 Organizatat jofitimprurëse fitojnë personalitet juridik ditën që vendimi i gjykatës për regjistrimin e saj ka marrë formë të prerë. Me fitimin e personalitetit juridik, organizatat jofitimprurëse regjistrohen nga sekretaria e regjistrit elektronik në regjistrin elektronik të organizatave jofitimprurëse.
 
 SEKSIONI IV
 
-REGJISTRIMET E TJERA
+REGJISTRIMET E NDRYSHIMEVE TË TË DHËNAVE 
+
+(Ndryshuar titulli i seksionit me ligjin nr. 90/2025, datë 12.12.2025)
 
 Neni 17
 
-Regjistrimet e tjera të detyrueshme
+Regjistrimi i ndryshimeve të të dhënave 
 
-1. Çdo organizatë jofitimprurëse që kryen regjistrimin fillestar mbart edhe detyrimin të regjistrojë çdo ndryshim në të dhënat e njoftuara dhe në dokumentet shoqëruese që depozitohen në regjistrin elektronik, sipas seksionit III të kreut II të këtij ligji.
+(Ndryshuar titulli me ligjin nr. 90/2025, datë 12.12.2025)
+
+1. Çdo organizatë jofitimprurëse që kryen regjistrimin për herë të parë mbart edhe detyrimin të regjistrojë çdo ndryshim në të dhënat e njoftuara dhe në dokumentet shoqëruese që depozitohen në regjistrin elektronik, sipas seksionit III të kreut II të këtij ligji.
 
  2. Në rast ndryshimi të aktit të themelimit ose statutit, depozitohet edhe teksti i plotë i tyre, që pasqyron ndryshimet e mëpasshme. Për degët e organizatave jofitimprurëse të huaja depozitohet statuti dhe akti i themelimit i organizatës jofitimprurëse të huaj ose dokumenti ekuivalent i krijimit, sipas legjislacionit të huaj, me tekstin e plotë që pasqyron ndryshimet e bëra. 
 
@@ -286,7 +302,7 @@ Neni 19
 
 Regjistrimet me vendim gjyqësor
 
-1. Gjykata e Rrethit Gjyqësor Tiranë regjistron në regjistrin elektronik të organizatave jofitimprurëse dhe publikon, kryesisht ose me kërkesë nga çdo person i interesuar, vendimet gjyqësore për të dhënat e regjistruara ose veprimtarinë e organizatës jofitimprurëse. 
+1. Gjykata e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë regjistron në regjistrin elektronik të organizatave jofitimprurëse dhe publikon, kryesisht ose me kërkesë nga çdo person i interesuar, vendimet gjyqësore për të dhënat e regjistruara ose veprimtarinë e organizatës jofitimprurëse. 
 
 2. Kërkesës për regjistrim nga personat e interesuar i bashkëlidhet vendimi përkatës. Regjistrimi kryhet sipas rregullave të përcaktuara në kreun III të këtij ligji. 
 
@@ -324,7 +340,7 @@ Neni 23
 
 Të dhënat e subjekteve të çregjistruara
 
-1. Të dhënat e organizatave jofitimprurëse të çregjistruara mbahen në regjistrin elektronik duke vënë shënimin “i çregjistruar”, si dhe numrin e datën e vendimit gjyqësor që ka vendosur çregjistrimin nga regjistri sipas ligjeve të posaçme. Këto të dhëna ruhen nga Gjykata e Rrethit Gjyqësor Tiranë në format elektronik dhe janë gjithnjë të aksesueshme për publikun. 
+1. Të dhënat e organizatave jofitimprurëse të çregjistruara mbahen në regjistrin elektronik duke vënë shënimin “i çregjistruar”, si dhe numrin e datën e vendimit gjyqësor që ka vendosur çregjistrimin nga regjistri sipas ligjeve të posaçme. Këto të dhëna ruhen nga Gjykata e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë në format elektronik dhe janë gjithnjë të aksesueshme për publikun. 
 
 2. Emri i organizatës jofitimprurëse ndalohet të përdoret dhe nuk mund të regjistrohet nga asnjë subjekt tjetër për një afat prej 6 (gjashtë) muajsh nga data e çregjistrimit. 
 
@@ -346,29 +362,29 @@ SHQYRTIMI DHE VENDIMMARRJA
 
 Neni 25
 
-Gjyqtari i vetëm
+Vendimmarrja e gjyqtarit
 
-Vendimi për regjistrimin fillestar të organizatave jofitimprurëse, si dhe vendimi për çregjistrimin e tyre merret nga një gjyqtar i seksionit tregtar i Gjykatës së Rrethit Gjyqësor Tiranë në përputhje me rregullat e përcaktuara në këtë ligj. 
+(Ndryshuar me ligjin nr. 90/2025, datë 12.12.2025)
+
+Vendimi për regjistrimin për herë të parë të organizatave jofitimprurëse ose për regjistrimin e ndryshimeve të të dhënave, si dhe vendimi për çregjistrimin e tyre merret nga një gjyqtar i seksionit tregtar i Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë, në përputhje me rregullat e përcaktuara në këtë ligj.
 
 Neni 26
 
 Kancelari
 
-(Shfuqizuar togfjalësh me VGjK nr. 62, datë 20.11.2023)
-
-Vendimi për regjistrimet e tjera, sipas përcaktimit të seksionit IV të kreut II të këtij ligji, merret nga Gjykata e Rrethit Gjyqësor Tiranë në përputhje me rregullat e përcaktuara në këtë ligj. 
+(Shfuqizuar togfjalësh me VGjK nr. 62, datë 20.11.2023; shfuqizuar me ligjin nr. 90/2025, datë 12.12.2025)
 
 Neni 27
 
 Sekretaria e regjistrit elektronik
 
-1. Sekretaria e regjistrit elektronik është struktura përgjegjëse në Gjykatën e Rrethit Gjyqësor Tiranë për administrimin e regjistrit elektronik në përputhje me parashikimet e këtij ligji. Sekretaria e regjistrit drejtohet nga kryesekretari, i cili është përgjegjës për mbajtjen e korrespondencave të sekretarisë së regjistrit me palët e treta dhe për koordinimin e punës brenda kësaj zyre. 
+1. Sekretaria e regjistrit elektronik është struktura përgjegjëse në Gjykatën e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë, për administrimin e regjistrit elektronik në përputhje me parashikimet e këtij ligji. Sekretaria e regjistrit drejtohet nga kryesekretari, i cili është përgjegjës për mbajtjen e korrespondencave të sekretarisë së regjistrit me palët e treta dhe për koordinimin e punës brenda kësaj zyre. 
 
 2. Sekretaria e regjistrit të organizatave jofitimprurëse është përgjegjëse dhe kryen këto funksione:
 
 a) administron procedurën e regjistrimit të organizatave jofitimprurëse, ndryshimeve në aktin e themelimit dhe statutin e organizatave jofitimprurëse dhe kryen shënimet përkatëse në skedën elektronike të secilës organizatë;
 
-b) administron vendimet e lëshuara për regjistrimin fillestar të organizatave jofitimprurëse, depozitimin e akteve të organizatave jofitimprurëse, si edhe çregjistrimin e tyre; 
+b) administron vendimet e lëshuara për regjistrimin për herë të parë të organizatave jofitimprurëse, depozitimin e akteve të organizatave jofitimprurëse, si edhe çregjistrimin e tyre; 
 
 c) lëshon ose miraton lëshimin e vërtetimeve të regjistrimit, vërtetimeve historike të akteve në regjistrin elektronik të organizatave jofitimprurëse, si dhe vërtetimeve të tjera në rastet e parashikuara me ligj dhe është përgjegjëse për nënshkrimin e tyre sipas ligjit;
 
@@ -406,7 +422,7 @@ e) pagesën e tarifës përkatëse për regjistrim;
 
 3. Sekretaria e regjistrit elektronik lëshon një konfirmim sipas një formati të miratuar nga Këshilli i Lartë Gjyqësor për çdo kërkesë të dorëzuar. Konfirmimi duhet të tregojë kohën e dorëzimit, numrin rendor të paraqitjes së kërkesës, objektin e kërkesës, listën e dokumenteve të dorëzuara dhe shumën e tarifës së paguar. 
 
-4. Gjykata e Rrethit Gjyqësor Tiranë merr në shqyrtim kërkesat për regjistrim sipas radhës së paraqitjes së tyre. 
+4. Gjykata e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë merr në shqyrtim kërkesat për regjistrim sipas radhës së paraqitjes së tyre. 
 
 5. Sekretaria e regjistrit është e detyruar të marrë në dorëzim çdo kërkesë  të paraqitur sipas këtij ligji dhe dokumentet që i bashkëlidhen, edhe nëse kërkesa është e paplotë ose dokumentet shoqëruese janë të pasakta.
 
@@ -420,19 +436,19 @@ Pezullimi i shqyrtimit të kërkesës
 
 1. Në rastet kur pas verifikimeve të parashikuara në nenin 28 të këtij ligji rezulton se nuk janë përmbushur kushtet për regjistrim, nuk janë paguar tarifat përkatëse të regjistrimit apo nuk janë kryer veprimet e kërkuara sipas nenit 46 të këtij ligji, gjyqtari, sipas rastit, pezullon shqyrtimin e kërkesës dhe e njofton kërkuesin me shkrim për shkakun e pezullimit, duke i dhënë një afat deri në 15 (pesëmbëdhjetë) ditë për plotësimin ose ndreqjen e të metave që pengojnë regjistrimin. Njoftimi i shkakut të pezullimit bëhet nëpërmjet një formulari standard sipas formatit të miratuar nga Këshilli i Lartë Gjyqësor. 
 
-2. Nëse kërkuesi plotëson ose ndreq të metat që pengojnë regjistrimin brenda afatit të përcaktuar në pikën 1 të këtij neni, Gjykata e Rrethit Gjyqësor Tiranë është e detyruar të kryejë regjistrimin brenda një afati prej 5 (pesë) ditësh pune nga data e plotësimit ose ndreqjes së dokumentacionit. Në këtë rast, regjistrimi mban datën e paraqitjes së kërkesës së parë për regjistrim. 
+2. Nëse kërkuesi plotëson ose ndreq të metat që pengojnë regjistrimin brenda afatit të përcaktuar në pikën 1 të këtij neni, Gjykata e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë është e detyruar të kryejë regjistrimin brenda një afati prej 5 (pesë) ditësh pune nga data e plotësimit ose ndreqjes së dokumentacionit. Në këtë rast, regjistrimi mban datën e paraqitjes së kërkesës së parë për regjistrim. 
 
 Neni 30
 
-Përjashtimi i gjyqtarit ose kancelarit
+Përjashtimi i gjyqtarit 
 
-(Shfuqizuar togfjalësh në pikën 1, 2 dhe 3 me VGjK nr. 62, datë 20.11.2023)
+(Shfuqizuar togfjalësh në pikën 1, 2 dhe 3 me VGjK nr. 62, datë 20.11.2023; ndryshuar titulli me ligjin nr. 90/2025, datë 12.12.2025)
 
 1. Gjyqtari është i detyruar të heqë dorë nga shqyrtimi i kërkesës për regjistrim në rastet e parashikuara në nenin 72 të Kodit të Procedurës Civile. 
 
 2. Për heqjen dorë dhe përjashtimin e gjyqtarit nga shqyrtimi i kërkesës zbatohen nenet 73, 74 dhe 75 të Kodit të Procedurës Civile. 
 
-3. Në rastet kur kryetari i gjykatës ka pranuar heqjen dorë të kancelarit është përjashtuar nga shqyrtimi i një kërkesë për regjistrim sipas neneve 74 dhe 75 të Kodit të Procedurës Civile, vendimi për regjistrimet e tjera, sipas përcaktimit të seksionit IV të kreut II të këtij ligji, merret nga një gjyqtar i seksionit tregtar të Gjykatës së Rrethit Gjyqësor Tiranë. 
+3. Në rastet kur kryetari i gjykatës ka pranuar heqjen dorë të kancelarit është përjashtuar nga shqyrtimi i një kërkesë për regjistrim sipas neneve 74 dhe 75 të Kodit të Procedurës Civile, vendimi për regjistrimet e tjera, sipas përcaktimit të seksionit IV të kreut II të këtij ligji, merret nga një gjyqtar i seksionit tregtar të Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë.
 
 Neni 31
 
@@ -452,11 +468,11 @@ Neni 33
 
 Mospranimi i kërkesës për regjistrim
 
-(Shfuqizuar togfjalësh në pikën 2, 6 me VGjK nr. 62, datë 20.11.2023)
+(Shfuqizuar togfjalësh në pikën 2 dhe pika 6 me VGjK nr. 62, datë 20.11.2023; ndryshuar togfjalësh në pikën 2 me ligjin nr. 90/2025, datë 12.12.2025; ndryshuar pika 5 me ligjin nr. 90/2025, datë 12.12.2025)
 
- 1. Mospranimi i kërkesës për regjistrimin fillestar të organizatave jofitimprurëse në regjistrin elektronik bëhet me vendim të gjyqtarit të seksionit tregtar të Gjykatës së Rrethit Gjyqësor Tiranë. 
+ 1. Mospranimi i kërkesës për regjistrimin për herë të parë të organizatave jofitimprurëse në regjistrin elektronik bëhet me vendim të gjyqtarit të seksionit tregtar të Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë. 
 
-2. Mospranimi i kërkesës për regjistrimet e tjera, sipas përcaktimit të seksionit IV të kreut II të këtij ligji, bëhet me vendim. 
+2. Mospranimi i kërkesës për regjistrimin e ndryshimeve të të dhënave, sipas përcaktimit të seksionit IV të kreut II të këtij ligji, bëhet me vendim. 
 
 3. Kërkesa për regjistrim refuzohet vetëm në rastet kur: 
 
@@ -468,25 +484,25 @@ c) individë, pjesë e themeluesve ose organeve drejtuese apo vendimmarrëse të
 
 4. Vendimi i refuzimit i njoftohet kërkuesit me shkrim sipas formularit standard në të cilin jepet edhe shkaku i këtij refuzimi. 
 
-5. Kundër vendimit të gjyqtarit për mospranimin e kërkesës për regjistrim fillestar mund të bëhet ankim në Gjykatën e Apelit të Tiranës brenda 15 (pesëmbëdhjetë) ditëve pune nga njoftimi i vendimit.
+5. Kundër vendimit të gjyqtarit për mospranimin e kërkesës për regjistrimin për herë të parë të organizatave jofitimprurëse ose kërkesës për ndryshimin e të dhënave mund të bëhet ankim në Gjykatën e Apelit të Juridiksionit të Përgjithshëm brenda 15 (pesëmbëdhjetë) ditëve punë nga njoftimi i vendimit.
 
- 6. Kundër vendimit për mospranimin e kërkesës për regjistrimet e tjera mund të bëhet ankim pranë gjyqtarit të seksionit tregtar të Gjykatës së Rrethit Gjyqësor Tiranë brenda 10 (dhjetë) ditëve pune nga njoftimi i vendimit. Në këtë rast, gjyqtari shqyrton ankimin në dhomë këshillimi brenda 5 (pesë) ditëve nga data e depozitimit të ankimit. Ndaj vendimit të gjyqtarit për mospranimin e ankimit mund të bëhet ankim në Gjykatën e Apelit Tiranë. 
+ 6. Shfuqizuar.
 
 Neni 34
 
 Përmbajtja e vendimit të regjistrimit
 
-(Shfuqizuar togfjalësh me VGjK nr. 62, datë 20.11.2023)
+(Shfuqizuar togfjalësh me VGjK nr. 62, datë 20.11.2023; ndryshuar me ligjin nr. 90/2025, datë 12.12.2025)
 
- Vendimi i gjyqtarit për regjistrimin e organizatave jofitimprurëse për regjistrimin e të dhënave të tjera duhet të përmbajë në mënyrë të plotë çështjet që duhet të pasqyrohen në regjistrin elektronik. 
+ Vendimi i gjyqtarit për regjistrimin për herë të parë të organizatave jofitimprurëse ose për regjistrimin e ndryshimeve të të dhënave duhet të përmbajë në mënyrë të plotë çështjet që duhet të pasqyrohen në regjistrin elektronik.
 
 Neni 35
 
 Ekzekutimi i vendimit të regjistrimit
 
-(Shfuqizuar togfjalësh në pikën 1 me VGjK nr. 62, datë 20.11.2023)
+(Shfuqizuar togfjalësh në pikën 1 me VGjK nr. 62, datë 20.11.2023; ndryshuar togfjalësh në pikën 1 me ligjin nr. 90/2025, datë 12.12.2025)
 
-1. Vendimi i gjyqtarit për regjistrimin ose çregjistrimin në regjistrin elektronik, si dhe vendimi për regjistrimet e tjera regjistrohen në regjistrin elektronik nga sekretaria e regjistrit ditën që vendimi ka marrë formë të prerë. 
+1. Vendimi i gjyqtarit për regjistrimin ose çregjistrimin në regjistrin elektronik, si dhe vendimi për regjistrimin e ndryshimeve të të dhënave regjistrohen në regjistrin elektronik nga sekretaria e regjistrit ditën që vendimi ka marrë formë të prerë. 
 
 2. Menjëherë me regjistrimin e vendimit, sekretaria e regjistrit lëshon certifikatën e regjistrimit ose vërtetimin e kryerjes së regjistrimeve të tjera. 
 
@@ -500,25 +516,25 @@ Regjistrimi i njëkohshëm
 
 1. Regjistrimi i organizatave jofitimprurëse në regjistrin elektronik përbën gjithashtu regjistrimin e njëkohshëm të tyre pranë administratës tatimore qendrore dhe vendore në skemën e sigurimeve shoqërore e shëndetësore dhe pranë inspektoratit të punës. 
 
-2. Organizatat jofitimprurëse, për qëllimet e regjistrimit e të pajisjes me certifikatën e regjistrimit fillestar, deklarojnë gjithashtu të dhënat e detyrueshme sipas legjislacionit tatimor, të sigurimeve shoqërore e shëndetësore dhe atij të statistikave sipas formularëve përkatës. 
+2. Organizatat jofitimprurëse, për qëllimet e regjistrimit e të pajisjes me certifikatën e regjistrimit për herë të parë, deklarojnë gjithashtu të dhënat e detyrueshme sipas legjislacionit tatimor, të sigurimeve shoqërore e shëndetësore dhe atij të statistikave sipas formularëve përkatës. 
 
-3. Me përjashtim të rasteve kur ligji shprehimisht kushtëzon nisjen e veprimtarisë përkatëse me marrjen e një lejeje, licence apo autorizimi, organizata jofitimprurëse e pajisur nga sekretaria e regjistrit me certifikatën e regjistrimit fillestar ka të drejtë të nisë menjëherë veprimtarinë e saj. 
+3. Me përjashtim të rasteve kur ligji shprehimisht kushtëzon nisjen e veprimtarisë përkatëse me marrjen e një lejeje, licence apo autorizimi, organizata jofitimprurëse e pajisur nga sekretaria e regjistrit me certifikatën e regjistrimit për herë të parë ka të drejtë të nisë menjëherë veprimtarinë e saj. 
 
 Neni 37
 
 Numri unik i identifikimit të subjektit
 
-1. Me regjistrimin në regjistrin elektronik, organizatave jofitimprurëse u jepet numri i identifikimit, i cili gjenerohet në mënyrë elektronike nga Gjykata e Rrethit Gjyqësor Tiranë dhe është unik për çdo organizatë jofitimprurëse të regjistruar. 
+1. Me regjistrimin në regjistrin elektronik, organizatave jofitimprurëse u jepet numri i identifikimit, i cili gjenerohet në mënyrë elektronike nga Gjykata e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë dhe është unik për çdo organizatë jofitimprurëse të regjistruar. 
 
 2. Numri unik i identifikimit të organizatës jofitimprurëse është i vlefshëm për identifikimin e organizatave për qëllimet e regjistrimit në regjistrin elektronik, për qëllimet e regjistrimit si person i tatueshëm pranë autoriteteve tatimore qendrore dhe vendore, për skemën e sigurimeve shoqërore dhe shëndetësore, për autoritetet e inspektimit të marrëdhënieve të punës, si dhe për çdo qëllim tjetër statistikor ose identifikues. 
 
-3. Numri unik i identifikimit të organizatave jepet vetëm një herë në çastin e regjistrimit fillestar dhe është i pandryshueshëm, si dhe nuk u jepet organizatave të tjera edhe pas çregjistrimit. 
+3. Numri unik i identifikimit të organizatave jepet vetëm një herë në çastin e regjistrimit për herë të parë dhe është i pandryshueshëm, si dhe nuk u jepet organizatave të tjera edhe pas çregjistrimit. 
 
 Neni 38
 
 Publikimi elektronik
 
-1. Gjykata e Rrethit Gjyqësor Tiranë publikon në Buletinin e Njoftimeve Zyrtare të Regjistrimit, që mbahet nga sekretaria e regjistrit, në format elektronik dhe në faqen zyrtare të internetit të Gjykatës së Rrethit Gjyqësor Tiranë, në çdo rast të regjistrimit ose të ndryshimit të të dhënave në regjistër të dhënat e mëposhtme:
+1. Gjykata e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë publikon në Buletinin e Njoftimeve Zyrtare të Regjistrimit, që mbahet nga sekretaria e regjistrit, në format elektronik dhe në faqen zyrtare të internetit të Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë, në çdo rast të regjistrimit ose të ndryshimit të të dhënave në regjistër të dhënat e mëposhtme:
 
 a) emrin;
 
@@ -526,7 +542,7 @@ b) formën e organizimit;
 
 c) datën e themelimit;
 
-      ç) qëllimin dhe fushën e veprimtarisë;
+ç) qëllimin dhe fushën e veprimtarisë;
 
       d) kohëzgjatjen, në qoftë se është e përcaktuar;
 
@@ -542,13 +558,15 @@ c) datën e themelimit;
 
 Neni 39
 
-Certifikata e regjistrimit fillestar
+Certifikata e regjistrimit për herë të parë
 
-1. Sekretaria e regjistrit elektronik, brenda afatit të përcaktuar në këtë ligj për regjistrimin fillestar, i lëshon organizatës jofitimprurëse të regjistruar certifikatën e regjistrimit, e cila përmban emrin, formën, numrin unik të identifikimit, numrin serial të certifikatës, datën e regjistrimit fillestar dhe selinë ose adresën e vendit kryesor të ushtrimit të veprimtarisë.
+(Hequr fjalë në pikën 1 me ligjin nr. 90/2025, datë 12.12.2025)
 
- 2. Në rast se organizata jofitimprurëse e regjistruar ushtron veprimtarinë në më shumë se një vend, sekretaria e regjistrit elektronik lëshon nga një certifikatë regjistrimi për çdo vend të ushtrimit të veprimtarisë. Këto certifikata, përveç adresës përkatëse, përmbajnë gjithashtu emrin, formën, datën e regjistrimit fillestar, numrin serial të certifikatës, si dhe të njëjtin numër unik të identifikimit të organizatës jofitimprurëse. 
+1. Sekretaria e regjistrit elektronik i lëshon organizatës jofitimprurëse të regjistruar certifikatën e regjistrimit, e cila përmban emrin, formën, numrin unik të identifikimit, numrin serial të certifikatës, datën e regjistrimit për herë të parë dhe selinë ose adresën e vendit kryesor të ushtrimit të veprimtarisë.
 
-3. Në rastet kur organizata jofitimprurëse ndryshon emrin, formën, selinë ose vendet e ushtrimit të veprimtarisë, sekretaria e regjistrit elektronik zëvendëson certifikatat e lëshuara më parë me një certifikatë të re për çdo vend të ushtrimit të veprimtarisë. Këto certifikata, përveç adresës përkatëse, përmbajnë gjithashtu emrin, formën, datën e regjistrimit fillestar dhe numrin unik të identifikimit të organizatës jofitimprurëse. 
+ 2. Në rast se organizata jofitimprurëse e regjistruar ushtron veprimtarinë në më shumë se një vend, sekretaria e regjistrit elektronik lëshon nga një certifikatë regjistrimi për çdo vend të ushtrimit të veprimtarisë. Këto certifikata, përveç adresës përkatëse, përmbajnë gjithashtu emrin, formën, datën e regjistrimit për herë të parë, numrin serial të certifikatës, si dhe të njëjtin numër unik të identifikimit të organizatës jofitimprurëse. 
+
+3. Në rastet kur organizata jofitimprurëse ndryshon emrin, formën, selinë ose vendet e ushtrimit të veprimtarisë, sekretaria e regjistrit elektronik zëvendëson certifikatat e lëshuara më parë me një certifikatë të re për çdo vend të ushtrimit të veprimtarisë. Këto certifikata, përveç adresës përkatëse, përmbajnë gjithashtu emrin, formën, datën e regjistrimit për herë të parë dhe numrin unik të identifikimit të organizatës jofitimprurëse. 
 
 4. Certifikata e regjistrimit lëshohet në një kopje origjinale për çdo vend të ushtrimit të veprimtarisë. Në rast humbjeje apo dëmtimi të certifikatës së regjistrimit, ajo zëvendësohet me një dublikatë të lëshuar nga sekretaria e regjistrit elektronik. 
 
@@ -626,7 +644,7 @@ Neni 47
 
 Identifikimi elektronik
 
-Veprimet pranë sportelit elektronik të Gjykatës së Rrethit Gjyqësor Tiranë, për të cilat ky ligj kërkon identifikimin elektronik, kryhen nëpërmjet mjeteve elektronike që garantojnë autenticitetin e origjinës dhe pacenueshmërinë e përmbajtjes së dokumenteve në format elektronik, të paktën nëpërmjet nënshkrimit elektronik, sipas përcaktimeve të legjislacionit në fuqi për nënshkrimin elektronik. 
+Veprimet pranë sportelit elektronik të Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë, për të cilat ky ligj kërkon identifikimin elektronik, kryhen nëpërmjet mjeteve elektronike që garantojnë autenticitetin e origjinës dhe pacenueshmërinë e përmbajtjes së dokumenteve në format elektronik, të paktën nëpërmjet nënshkrimit elektronik, sipas përcaktimeve të legjislacionit në fuqi për nënshkrimin elektronik. 
 
 Neni 48
 
@@ -642,19 +660,17 @@ Neni 49
 
 Kundërvajtjet administrative
 
-(Shfuqizuar pikat 2, 3, 4, 5, 6 me VGjK nr. 62, datë 20.11.2023)
+(Shfuqizuar pikat 2, 3, 4, 5, 6 me VGjK nr. 62, datë 20.11.2023; shtuar pikat 1/1, 1/2, 1/3 dhe 1/4  me ligjin nr. 90/2025, datë 12.12.2025)
 
  	1. Organizata jofitimprurëse, si dhe personat e autorizuar për të bërë regjistrimin janë përgjegjëse sipas ligjeve në fuqi për vërtetësinë e fakteve, të të dhënave të njoftuara dhe të dokumenteve shoqëruese të depozituara në regjistrin elektronik. 
 
- 	2. Shfuqizuar.
+ 	1/1. Deklarimi në regjistrin elektronik i të dhënave të pavërteta, kur nuk përbën vepër penale, përbën kundërvajtje administrative dhe dënohet me gjobë në masën 60 000 (gjashtëdhjetë mijë) lekë.
 
-       3. Shfuqizuar.
+       1/2. Moskryerja e detyrimit për regjistrimin e ndryshimeve të të dhënave përbën kundërvajtje administrative dhe dënohet me gjobë në masën 60 000 (gjashtëdhjetë mijë) lekë.
 
-       4.  Shfuqizuar.
+       1/3. Gjykata përpara marrjes së vendimit për caktimin e masës administrative, sipas pikave 1/1 dhe 1/2 të këtij neni, urdhëron palët të paraqesin kërkesën për regjistrimin e ndryshimit të të dhënave ose për kryerjen e korrigjimeve të tyre. Në rast se brenda 10 ditëve nga marrja e njoftimit, organizata jofitimprurëse ose personat e autorizuar nuk paraqesin kërkesën përkatëse, gjykata vendos gjobë sipas përcaktimeve të këtij neni.
 
-       5. Shfuqizuar.
-
-       6. Shfuqizuar.
+        1/4. Ndaj vendimit për caktimin e gjobës mund të paraqitet ankim në Gjykatën e Apelit të Juridiksionit të Përgjithshëm.
 
 KREU VII
 
@@ -666,11 +682,11 @@ Regjimi tranzitor
 
  1. Deri në fillimin e funksionimit të regjistrit elektronik, procedurat e regjistrimit të organizatave jofitimprurëse kryhen sipas parashikimeve të ligjit nr. 8789, datë 7.5.2001, “Për regjistrimin e organizatave jofitimprurëse”. 
 
-2. Administrata tatimore brenda 3 (tre) muajve nga krijimi i regjistrit elektronik i jep Gjykatës së Rrethit Gjyqësor Tiranë të gjitha të dhënat që disponon për organizatat jofitimprurëse të regjistruara pranë tyre. 
+2. Administrata tatimore brenda 3 (tre) muajve nga krijimi i regjistrit elektronik i jep Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë të gjitha të dhënat që disponon për organizatat jofitimprurëse të regjistruara pranë tyre. 
 
-3. Gjykata e Rrethit Gjyqësor Tiranë brenda 6 (gjashtë) muajve nga krijimi i regjistrit elektronik përditëson regjistrin elektronik me të dhënat e nevojshme dhe njofton të gjitha organizatat jofitimprurëse të regjistruara në regjistër për plotësimin e dokumentacionit, nëse konstatohet se dokumentacioni i administruar kërkon përditësim në përmbushje të detyrimeve për regjistrim sipas këtij ligji. 
+3. Gjykata e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë, brenda 6 (gjashtë) muajve nga krijimi i regjistrit elektronik përditëson regjistrin elektronik me të dhënat e nevojshme dhe njofton të gjitha organizatat jofitimprurëse të regjistruara në regjistër për plotësimin e dokumentacionit, nëse konstatohet se dokumentacioni i administruar kërkon përditësim në përmbushje të detyrimeve për regjistrim sipas këtij ligji. 
 
-4. Organizatat jofitimprurëse kanë detyrimin të bashkëpunojnë me Gjykatën e Rrethit Gjyqësor Tiranë në plotësimin e të dhënave të nevojshme, në përmbushje të kërkesave të këtij ligji, për regjistrimin fillestar. 
+4. Organizatat jofitimprurëse kanë detyrimin të bashkëpunojnë me Gjykatën e Shkallës së Parë të Juridiksionit të Përgjithshëm Tiranë, në plotësimin e të dhënave të nevojshme, në përmbushje të kërkesave të këtij ligji, për regjistrimin për herë të parë. 
 
 5. Organizatat jofitimprurëse, që nuk janë të regjistruara në administratën tatimore, si dhe nuk kërkojnë regjistrimin në administratën tatimore brenda 12 (dymbëdhjetë) muajve nga hyrja në fuqi e këtij ligji, çregjistrohen nga regjistri i organizatave jofitimprurëse. 
 
@@ -698,7 +714,7 @@ Kundërvajtjet administrative
 
 2. Në çdo rast, masa e gjobës, sipas pikës 1 të këtij neni, nuk mund të jetë më e vogël se 30.000 (tridhjetë mijë) lekë.
 
-3. Kundër vendimit për dënimin me gjobë mund të bëhet ankim në gjykatën e apelit.”.
+3. Kundër vendimit për dënimin me gjobë mund të bëhet ankim në gjykatën e apelit.
 
 Neni 52
 
