@@ -1,0 +1,1 @@
+11. Skuadra Kombëtare e Organizimit është përgjegjëse për bashkërendimin me Task-Forcën e Samitit të NATO-s në Bruksel, me Misionin e Përhershëm të Shqipërisë në NATO, si dhe me task-forcat e vendeve pritëse të samiteve paraardhëse.

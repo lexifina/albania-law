@@ -1,0 +1,1 @@
+10. Në mbledhjet e Skuadrës Kombëtare të Organizimit mund të ftohen përfaqësues të institucioneve të tjera publike, enteve private dhe ekspertë vendas e të huaj, në varësi të problematikave që do të trajtohen.
