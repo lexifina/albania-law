@@ -1,0 +1,1 @@
+1. Ngarkimin e Fondit Shqiptar të Zhvillimit, si autoritet kontraktor dhe njësi zbatuese, për kryerjen e procedurave të prokurimit publik, për projektimin dhe kryerjen e punimeve të zbatimit për rikonstruksionin e transformimin e mjediseve të dëmtuara në hapësira funksionale në katin nëntokësor të ndërtesës së Kryeministrisë.
