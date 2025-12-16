@@ -1,0 +1,1 @@
+2. DSHQ-ja kryen procedurat në funksion të trajtimit të punonjësve të DSHTD-së sipas nevojave të institucionit të DSHQ-së, në përshtatje të realizimit të funksionit institucional, në përputhje me përcaktimet e Kodit të Punës.

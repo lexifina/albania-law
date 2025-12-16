@@ -1,0 +1,1 @@
+7. Ngrihet komisioni i likuidimit të DSHTD-së, i përbërë nga 7 (shtatë) anëtarë, i cili do të përgatisë bilancet e likuidimit, inventarizimin e pasurisë, mbylljen e kontratave, përgatitjen e pasqyrave financiare dhe dorëzimin te DSHQ-ja brenda 30 (tridhjetë) ditëve nga hyrja në fuqi e këtij vendimi. Pasqyrimi te DSHQ-ja bëhet me pasqyrat financiare të vitit ushtrimor 2025.

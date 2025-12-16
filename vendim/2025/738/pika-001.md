@@ -1,0 +1,1 @@
+1. Përthithjen e Drejtorisë së Shërbimit të Trupit Diplomatik (në vijim, DSHTD) nga Drejtoria e Shërbimeve Qeveritare (në vijim, DSHQ) dhe kryerjen e të gjitha procedurave për transferimin e funksioneve institucionale nga DSHTD-ja tek DSHQ-ja.

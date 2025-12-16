@@ -1,0 +1,1 @@
+10. Në shkronjën “k”, të pikës 2, të vendimit nr. 34, datë 7.1.1999, të Këshillit të Ministrave, “Për Drejtorinë e Shërbimeve Qeveritare dhe trajtimin e personaliteteve të larta të Këshillit të Ministrave”, të ndryshuar, fjalët “... nëpërmjet drejtorisë përkatëse në varësi të saj ...” zëvendësohen me “... nëpërmjet strukturës përgjegjëse në përbërje të saj ...”.

@@ -1,0 +1,1 @@
+5. DSHTD-ja përgatit inventarët e sendeve të luajtshme dhe të paluajtshme, si dhe kryen të gjitha procedurat, në përputhje me legjislacionin përkatës në fuqi. DSHQ-së i kalojnë të gjitha të drejtat e detyrimet, që lidhen me këto sende, në përputhje me legjislacionin në fuqi.

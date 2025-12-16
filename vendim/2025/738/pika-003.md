@@ -1,0 +1,1 @@
+3. Procedurat për trajtimin e punonjësve të DSHTD-së përfundojnë brenda datës 31.12.2025, por duke respektuar, në çdo rast, parashikimet e Kodit të Punës e duke u paguar atyre të gjitha detyrimet e parashikuara nga dispozitat e tij, sipas rastit.
