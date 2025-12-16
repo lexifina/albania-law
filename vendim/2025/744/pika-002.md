@@ -1,0 +1,1 @@
+2. Për pozicionet e nëpunësve nga “specialist” deri në “titullar institucioni”, kategoritë e klasave, shtesa e nivelit të kualifikimit që shpërblen nivelin arsimor të kërkuar për pozicionin përkatës të punës, si dhe shtesa për vjetërsi në punë, në Drejtorinë e Shërbimeve Qeveritare, janë sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

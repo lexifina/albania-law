@@ -1,0 +1,1 @@
+7. Vendimi nr. 365, datë 16.6.2023, i Këshillit të Ministrave, “Për miratimin e strukturës dhe të niveleve të pagave të nëpunësve dhe punonjësve të Drejtorisë së Shërbimeve Qeveritare”, i ndryshuar, shfuqizohet.

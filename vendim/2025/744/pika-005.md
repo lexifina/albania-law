@@ -1,0 +1,1 @@
+5. Klasat e pagës, shtesat për vjetërsi në punë, si dhe shtesat për kushte pune të punonjësve mbështetës në Drejtorinë e Shërbimeve Qeveritare janë sipas lidhjes nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+6. Vlera e pagës bazë për klasë dhe mënyra e llogaritjes së vjetërsisë për secilën klasë të përcaktuar në lidhjen nr. 2, që i bashkëlidhet këtij vendimi, janë të njëjta me ato të miratuara në vendimin e Këshillit të Ministrave për pagat e punonjësve mbështetës në institucionet e administratës publike.
