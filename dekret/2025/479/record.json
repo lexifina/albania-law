@@ -1,0 +1,26 @@
+{
+  "qbz_id": 31976,
+  "title": "Për dhënie grade madhore",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "479",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2025-12-16",
+  "published": "2025-12-18",
+  "in_force": "2025-12-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/1d3d9e91e80b86ddd0c7aff0a14592adb3e228be66b764f36b37dd525f31f31a.docx",
+  "source_sha256": "1d3d9e91e80b86ddd0c7aff0a14592adb3e228be66b764f36b37dd525f31f31a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/31976",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2025/12/16/479",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
