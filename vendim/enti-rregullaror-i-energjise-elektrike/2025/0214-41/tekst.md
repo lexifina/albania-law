@@ -4,6 +4,8 @@ Nr. 41, datë 14.2.2025
 
 MBI LICENCIMIN E SHOQËRISË “GREEN PLUS ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me Vendimin nr. 334, datë 18.12.2025)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a”, dhe 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 14.2.2025, mbasi shqyrtoi relacionin me nr. 190/5 prot., datë 12.2.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘Green Plus Energy’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -42,13 +44,13 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Green Plus Energy” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet prodhues 2 mw, me vendndodhje në zonën kadastrale nr. 3358, Njësia Administrative Topojë, Bashkia Fier, qarku Fier, për një afat 30-vjeçar.
 
-2. Shoqëria duhet të raportojë në ERE çdo 6 (gjashtë) muaj, në lidhje me fillimin e punimeve të ndërtimit të centralit, në kuadër të VNM-së paraprake, e cila është e vlefshme deri më 17.7.2026.
+2. Shfuqizuar.
 
-3. Shoqëria duhet të fillojë operimin/ushtrimin e veprimtarisë së prodhimit të energjisë brenda datës 31.8.2025.
+3. Shoqëria duhet të fillojë operimin/ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 13.10.2026.
 
 4. Me fillimin e operimit, por jo më vonë se 60 (gjashtëdhjetë) ditë nga ky fakt, shoqëria duhet të dokumentojë në ERE testimin e veprës.
 
-5. Ky vendim është objekt rishikimi nga ERE, në kuadër të plotësimit të pikave 2, 3 dhe 4, të këtij vendimi.
+5. Ky vendim është objekt rishikimi nga ERE, në kuadër të plotësimit të pikave 3 dhe 4 të këtij vendimi.
 
 6. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “Green Plus Energy” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, “OSSH” sh.a., “FTL” sh.a. dhe “ALPEX” sh.a. për vendimin e Bordit të ERE-s.
 
