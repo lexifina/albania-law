@@ -4,6 +4,10 @@ Nr. 15, datë 16.1.2025
 
 MBI LICENCIMIN E SHOQËRISË “REBESOL” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE 
 
+(Ndryshuar me vendimin nr. 330, datë 18.12.2025)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a” dhe 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13, dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 16.1.2025, mbasi shqyrtoi relacionin me nr. 117 prot., datë 14.1.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘Rebesol’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -48,9 +52,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Rebesol” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet prodhues 2 mw, në fshatin Grykë, Njësia Administrative Topojë, Bashkia Fier, qarku Fier, për një afat 30-vjeçar.
 
-2. Shoqëria duhet të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda afateve të përcaktuara nga kontrata me MIE-n.
+2. Shoqëria duhet të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 15.9.2026 dhe jo më vonë se 60 ditë nga fillimi i ushtrimit të aktivitetit duhet të dokumentojë në ERE testimin e veprës.
 
-3. Ky vendim është objekt rishikimi nga ERE.
+3. Ky vendim është objekt rishikimi nga ERE, në rast të plotësimit/mosplotësimit të kushteve të përcaktuara në pikën 2 të këtij vendimi dhe në rast të depozitimit të akteve të ndryshme nga ato që kanë shërbyer për marrjen e këtij vendimi.
 
 4. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “Rebesol” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, “OSSH” sh.a. dhe “FTL” sh.a. për vendimin e Bordit të ERE-s.
 
