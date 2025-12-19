@@ -1,0 +1,1 @@
+1. Përcaktimin e tarifave për shërbimet e ofruara nga Arkivi Qendror Shtetëror i Filmit, (AQSHF), në përputhje me kompetencat e parashikuara në ligjin nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë”, të ndryshuar, sipas shtojcës nr. 1, pjesë përbërëse e këtij udhëzimi.
