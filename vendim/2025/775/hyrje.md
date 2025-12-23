@@ -1,0 +1,5 @@
+VENDIM
+Nr. 775, datë 19.12.2025
+PËR MIRATIMIN E MARRËVESHJES NDRYSHUESE NR. 2 ME SHKËMBIM LETRASH TË MARRËVESHJES SË HUAS, NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE BANKËS NDËRKOMBËTARE PËR RINDËRTIM DHE ZHVILLIM, PËR FINANCIMIN E PROJEKTIT “PËR LEHTËSIMIN E TREGTISË DHE TRANSPORTIT NË BALLKANIN PERËNDIMOR ME QASJE PROGRAMATIKE ME SHUMË FAZA”, RATIFIKUAR ME LIGJIN NR. 62/2019
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 12, 19 e 23, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, të ndryshuar, me propozimin e ministrit të Financave, Këshilli i Ministrave
+VENDOSI:
