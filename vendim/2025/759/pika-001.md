@@ -1,0 +1,1 @@
+1. Kalimin te Bashkia Tiranë të 188 (njëqind e tetëdhjetë e tetë) apartamenteve në 3 (tri) ndërtesa me njësi banimi (pallat), përkatësisht, sipas listës të inventarit, që i bashkëlidhet këtij vendimi.
