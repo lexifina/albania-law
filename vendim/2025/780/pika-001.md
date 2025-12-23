@@ -1,0 +1,7 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Vau i Dejës të disa zonave, si më poshtë vijon:
+a) Zona zhvillimore nr. 1, Barbullush, pjesë e Njësisë Administrative Bushat, me sipërfaqe 41.35 (dyzet e një pikë tridhjetë e pesë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+b) Zona zhvillimore nr. 2, Lugina e Drinit, pjesë e njësive administrative Temal, Shllak dhe Vau i Dejës, me sipërfaqe 7 930.82 (shtatë mijë e nëntëqind e tridhjetë pikë tetëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+c) Zona zhvillimore nr. 3, Bushat, pjesë e Njësisë Administrative Bushat, me sipërfaqe 188.89 (njëqind e tetëdhjetë e tetë pikë tetëdhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+ç) Zona zhvillimore nr. 4, Shllak, Njësia Administrative Shllak, me sipërfaqe 931.76 (nëntëqind e tridhjetë e një pikë shtatëdhjetë e gjashtë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+d) Zona zhvillimore nr. 5, Mnelë, pjesë e Njësisë Administrative Vig-Mnelë, me sipërfaqe 116.48 (njëqind e gjashtëmbëdhjetë pikë dyzet e tetë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+dh) Zona zhvillimore nr. 6, Nënshat, pjesë e Njësisë Administrative Hajmel, me sipërfaqe 355.78 (treqind e pesëdhjetë e pesë pikë shtatëdhjetë e tetë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto.
