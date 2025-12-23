@@ -21,3 +21,4 @@ n) mban regjistrin me certifikatat përfundimtare dhe suplementet e certifikatav
 nj) kryen studime periodike për tregun e punës apo të një pjese të tij, në nivel kombëtar dhe rajonal;
 o) kryen studime për gjurmimin e të diplomuarve të arsimit dhe formimit profesional;
 p) ushtron kompetenca të parashikuara nga ky vendim dhe nga legjislacioni në fuqi.
+q) mbledh dhe administron informacion mbi vendet e lira të punës të shpallura nga punëdhënësit e sektorit publik e privat.
