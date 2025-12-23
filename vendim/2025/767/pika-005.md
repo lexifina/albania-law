@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e kompensimit, prej 13 929 889 (trembëdhjetë milionë e nëntëqind e njëzet e nëntë mijë e tetëqind e tetëdhjetë e nëntë) lekë, përballohet nga shpenzimet e fondit të rindërtimit, që i transferohen Bashkisë Durrës.

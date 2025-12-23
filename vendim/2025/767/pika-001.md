@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, dhe shkëmbimin e pronës, për interes publik, në funksion të procesit të rindërtimit, në zonën e re për zhvillim në Spitallë, Bashkia Durrës, në kuadër të projektit “Rikonstruksioni i rrugëve ’Miqësia’ dhe ’Azem Hajdari’, loti II - rruga ’Miqësia’”.
