@@ -1,0 +1,1 @@
+2. Efekti financiar në masën 5 314 932,40 (pesë milionë e treqind e katërmbëdhjetë mijë e nëntëqind e tridhjetë e dy presje dyzet) lekë përballohet nga shpenzimet e fondit të rindërtimit, miratuar për vitin 2025, dhe i transferohet Bashkisë Shijak në formën e transfertës së pakushtëzuar.
