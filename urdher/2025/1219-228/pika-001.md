@@ -1,0 +1,1 @@
+1. Zgjatjen e veprimtarisë së Task-Forcës për monitorimin, inspektimin dhe marrjen e masave, me qëllim rregullimin e pasojave që vijnë nga mostrajtimi i ujërave të ndotura që shkarkohen pranë ose në ujëra larëse në zonat bregdetare, ose në bregun e liqeneve e të lumenjve, në varësi të titullarit të Agjencisë Kombëtare të Ujësjellës-Kanalizimeve (AKUK), deri më 1 dhjetor 2026.
