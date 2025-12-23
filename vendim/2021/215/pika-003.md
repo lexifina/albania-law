@@ -1,1 +1,1 @@
-3. Caktimin si njësi zbatuese të bashkive Lezhë dhe Kurbin për rindërtimin e njësive individuale të banimit, të cilat janë klasifikuar si objekte që duhen ndërtuar nga e para, sipas pikave 1, 2, 2/1 dhe 2/2 të këtij vendimi.
+3. Caktimin si njësi zbatuese të bashkive Lezhë dhe Kurbin për rindërtimin e njësive individuale të banimit, të cilat janë klasifikuar si objekte që duhen ndërtuar nga e para, sipas pikave 1, 2, 2/1, 2/2 dhe 2/3 të këtij vendimi.
