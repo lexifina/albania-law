@@ -4,6 +4,10 @@ Nr. 724, datë 7.12.2023
 
 PËR RINDARJEN ME SHORT TË ÇËSHTJEVE GJYQËSORE
 
+(Ndryshuar me vendimin nr. 867, datë 23.12.2025)
+
+(i përditësuar)
+
 Këshilli i Lartë Gjyqësor, bazuar në pikën 1, të nenit 147 dhe në shkronjat “d” dhe “ë”, të pikës 1, të nenit 147/a, të Kushtetutës së Republikës së Shqipërisë; në shkronjën “d”, të pikës 3, të nenit 25, të ligjit nr. 98/2016, “Për organizimin e pushtetit gjyqësor në Republikën e Shqipërisë”, të ndryshuar, si dhe në pikën 4, të nenit 94, dhe shkronjën “c”, pika 1, të nenit 97, të ligjit nr. 115/2016, “Për organet e qeverisjes së sistemit të drejtësisë”, të ndryshuar, me propozim të Komisionit të Planifikimit Strategjik, Administrimit dhe Buxhetit, 
 
 VENDOSI:
@@ -35,6 +39,8 @@ Mënyra e rindarjes së çështjeve me short
 Neni 5
 
 Rastet e rindarjes me short të çështjeve gjyqësore
+
+(Shtuar pika 1.1 me vendimin nr. 867, datë 23.12.2025)
 
 1. Çështjet rindahen me short në rastet e mëposhtme:
 
@@ -70,6 +76,8 @@ iii. caktimit të gjyqtarit në një seksion tjetër.
 
 	gj) shtimi i gjyqtarëve në gjykatë.
 
+	1.1. Neni 5, pika 1, shkronja f (iii) dhe shkronja “g” nuk aplikohen në rastet e gjykatave të shkallëve të para.
+
 2. Nuk rindahen me short çështjet urgjente për të cilat, çdo fillim viti, kryetari i gjykatës, në zbatim të shkronjës “b”, të nenit 37, të ligjit nr. 98/2016, “Për organizimin e pushtetit gjyqësor në Republikën e Shqipërisë”, ka miratuar listën e gjyqtarëve për gjykimin e tyre. Rindarja e këtyre çështjeve bëhet sipas aktit të kryetarit të gjykatës, i nxjerrë në përputhje me rregullat e miratuara nga Këshilli i Lartë Gjyqësor.
 
 3. Kryetarët e gjykatave, në çdo rast tjetër, tej atyre të përcaktuara në këtë vendim, kur vlerësojnë se zgjidhja e një situate konkrete që ka të bëjë me eficiencën e drejtësisë mund të bëhet vetëm përmes rindarjes me short të çështjeve gjyqësore, duhet të informojnë menjëherë Këshillin e Lartë Gjyqësor për të vlerësuar nëse ajo situatë përbën një rast nevoje që justifikon rindarjen me short të çështjeve gjyqësore.
@@ -94,19 +102,21 @@ Neni 7
 
 Kriteret për rindarjen me short të çështjeve për rrethana që kanë të bëjnë me gjykatën ku janë regjistruar
 
+(Ndryshuar pikat 3, 4, 5, 6 dhe 7 me vendimin nr. 867, datë 23.12.2025)
+
 1. Çështjet e ndara me short, për të cilat bëhet e nevojshme rindarja e tyre për rrethana që kanë të bëjnë me gjykatën ku janë regjistruar, rindahen me short menjëherë me konfirmimin e shkakut të rindarjes së çështjeve, si dhe në varësi të shkakut konkret të rindarjes.
 
 2. Në rastin e suprimimit të gjykatës për shkak të riorganizimit gjyqësor, çështjet rindahen me short pas regjistrimit të tyre në gjykatën kompetente nga pikëpamja tokësore. Nëse gjyqtari i gjykatës së suprimuar caktohet në gjykatën që përcaktohet si kompetente nga pikëpamja tokësore, çështjet e caktuara atij më parë me short nuk rindahen, por i kalojnë këtij gjyqtari.
 
-3. Në rastin e krijimit të seksioneve të reja në gjykatë, çështjet që i përkasin këtyre seksioneve rindahen me short me krijimin e tyre. Në këtë rast rindahen me short vetëm ato çështje gjykimi i të cilave nuk ka filluar për gjykatat e shkallës së parë apo ato çështje të cilat nuk janë shpallur për gjykim në gjykatat e niveleve më të larta. Kryetari i gjykatës është autoriteti që vendos për rindarjen me short të çështjeve në rastin e krijimit të seksioneve të reja në gjykatë, si dhe për përcaktimin e çështjeve të regjistruara më parë që do të rishortohen.
+3. Në rastin e krijimit të seksioneve të reja në gjykatë, çështjet që u përkasin këtyre seksioneve rindahen me short me krijimin e tyre. Në këtë rast rindahen me short vetëm ato çështje të cilat nuk janë shpallur për gjykim në gjykatat e niveleve më të larta. Kryetari i gjykatës është autoriteti që vendos për rindarjen me short të çështjeve në rastin e krijimit të seksioneve të reja në gjykatë, si dhe për përcaktimin e çështjeve të regjistruara më parë që do të rishortohen.
 
-4. Në rastin e shtimit të trupave gjykuese në një seksion të gjykatës, çështjet e seksionit ku shtohen trupat gjykues rindahen me short me krijimin e trupave të reja gjykuese. Në këtë rast rindahen me short vetëm ato çështje gjykimi i të cilave në shkallë të parë nuk ka filluar apo ato çështje të cilat nuk janë shpallur për gjykim në gjykatat e niveleve më të larta. Kryetari i gjykatës është autoriteti që vendos për rindarjen me short të çështjeve në rastin e shtimit të trupave gjykuese në gjykatë, si dhe për përcaktimin e rrethit të çështjeve që do të rishortohen, me qëllim që ngarkesa e punës për gjyqtarët e caktuar rishtazi në një seksion të gjykatës, për aq sa është e mundur, të jetë jo më e lartë se numri mesatar i çështjeve për gjyqtar të këtij seksioni, si dhe të përfshijë çështje të së njëjtës vjetërsi sipas kohës së regjistrimit të tyre në gjykatë dhe të kategorive të ndryshme.
+4. Në rastin e shtimit të trupave gjykuese në një seksion të gjykatës, çështjet e seksionit ku shtohen trupat gjykues rindahen me short me krijimin e trupave të reja gjykuese. Në këtë rast rindahen me short vetëm ato çështje të cilat nuk janë shpallur për gjykim në gjykatat e niveleve më të larta. Kryetari i gjykatës është autoriteti që vendos për rindarjen me short të çështjeve në rastin e shtimit të trupave gjykuese në gjykatë, si dhe për përcaktimin e rrethit të çështjeve që do të rishortohen, me qëllim që ngarkesa e punës për gjyqtarët e caktuar rishtazi në një seksion të gjykatës, për aq sa është e mundur, të jetë jo më e lartë se numri mesatar i çështjeve për gjyqtar të këtij seksioni, si dhe të përfshijë çështje të së njëjtës vjetërsi, sipas kohës së regjistrimit të tyre në gjykatë dhe të kategorive të ndryshme.
 
-5. Në rastin e pakësimit të trupave gjykuese në një seksion të gjykatës, çështjet e gjyqtarëve të trupave gjykuese të pakësuara, me daljen e vendimit përkatës të këshillit të gjykatës, rindahen me short ndërmjet gjyqtarëve të tjerë të këtij seksioni. Në këtë rast rindahen me short vetëm ato çështje gjykimi i të cilave në shkallë të parë nuk ka filluar apo ato çështje të cilat nuk janë shpallur për gjykim. Kryetari i gjykatës është autoriteti që vendos për rindarjen me short të çështjeve në rastin e pakësimit të trupave gjykuese në një seksion të gjykatës, si dhe për përcaktimin e çështjeve që do të rishortohen.
+5. Në rastin e pakësimit të trupave gjykuese në një seksion të gjykatës, çështjet e gjyqtarëve të trupave gjykuese të pakësuar, me daljen e vendimit përkatës të këshillit të gjykatës, rindahen me short ndërmjet gjyqtarëve të tjerë të këtij seksioni. Në këtë rast rindahen me short vetëm ato çështje të cilat nuk janë shpallur për gjykim. Kryetari i gjykatës është autoriteti që vendos për rindarjen me short të çështjeve në rastin e pakësimit të trupave gjykuese në një seksion të gjykatës, si dhe për përcaktimin e çështjeve që do të rishortohen.
 
-6. Në rastin e caktimit të gjyqtarit në një seksion tjetër të gjykatës, çështjet e këtij gjyqtari, me caktimin e tij në një seksion tjetër nga këshilli i gjykatës, rindahen me short ndërmjet gjyqtarëve të tjerë të seksionit ku ky gjyqtar bënte pjesë. Në këtë rast rindahen me short vetëm ato çështje gjykimi i të cilave në shkallë të parë nuk ka filluar apo ato çështje të cilat nuk janë shpallur për gjykim në gjykatat e niveleve më të larta. Kryetari i gjykatës është autoriteti që vendos për rindarjen me short të çështjeve në rastin e caktimit të gjyqtarit në një seksion tjetër të gjykatës, si dhe për përcaktimin e rrethit të çështjeve që do të rishortohen, me qëllim që ngarkesa e punës për gjyqtarin e caktuar rishtazi në një seksion tjetër, për aq sa është e mundur, të jetë jo më e lartë se numri mesatar i çështjeve për gjyqtar të seksionit ku caktohet, si dhe të përfshijë çështje të së njëjtës vjetërsi sipas kohës së regjistrimit të tyre në gjykatë dhe të kategorive të ndryshme.
+6. Në rastin e caktimit të gjyqtarit në një seksion tjetër të gjykatës, çështjet e këtij gjyqtari, me caktimin e tij në një seksion tjetër nga këshilli i gjykatës, rindahen me short ndërmjet gjyqtarëve të tjerë të seksionit ku ky gjyqtar bënte pjesë. Në këtë rast rindahen me short vetëm ato çështje të cilat nuk janë shpallur për gjykim në gjykatat e niveleve më të larta. Kryetari i gjykatës është autoriteti që vendos për rindarjen me short të çështjeve në rastin e caktimit të gjyqtarit në një seksion tjetër të gjykatës, si dhe për përcaktimin e rrethit të çështjeve që do të rishortohen, me qëllim që ngarkesa e punës për gjyqtarin e caktuar rishtazi në një seksion tjetër, për aq sa është e mundur, të jetë jo më e lartë se numri mesatar i çështjeve për gjyqtar të seksionit ku caktohet, si dhe të përfshijë çështje të së njëjtës vjetërsi sipas kohës së regjistrimit të tyre në gjykatë dhe të kategorive të ndryshme.
 
-7. Në rastin e shtimit të gjyqtarëve në gjykatë, çështjet e gjykatës dhe kur është rasti ato që i përkasin seksionit ku gjyqtarët e ardhur rishtazi caktohen, rindahen me short menjëherë dhe, kur është rasti, me caktimin e këtyre gjyqtarëve në seksione. Në këtë rast rindahen me short vetëm ato çështje gjykimi i të cilave në shkallë të parë nuk ka filluar apo ato çështje të cilat nuk janë shpallur për gjykim në gjykatat më të larta. Gjyqtarët e ardhur rishtazi, përmes rindarjes me short të çështjeve, ngarkohet me një numër çështjesh jo më të lartë se numri mesatar i çështjeve për gjyqtar të asaj gjykate apo, kur është rasti, se numri mesatar i çështjeve për gjyqtar të seksionit përkatës të gjykatës në të cilin gjyqtarët e ardhur rishtazi caktohen. Kryetari i gjykatës është autoriteti që vendos për rindarjen me short të çështjeve në rastin e shtimit të gjyqtarëve në gjykatë, si dhe për përcaktimin e rrethit të çështjeve që do të rishortohen, me qëllim që ngarkesa e punës për gjyqtarët e ardhur rishtazi në gjykatë, për aq sa është e mundur, të përfshijë çështje të së njëjtës vjetërsi sipas kohës së regjistrimit të tyre në gjykatë.
+7. Në rastin e shtimit të gjyqtarëve në gjykatë, çështjet e gjykatës dhe kur është rasti ato që i përkasin seksionit ku gjyqtarët e ardhur rishtazi caktohen, rindahen me short menjëherë dhe, kur është rasti, me caktimin e këtyre gjyqtarëve në seksione. Në këtë rast rindahen me short Bufer vetëm ato çështje të cilat nuk janë shpallur për gjykim në gjykatat më të larta. Gjyqtarët e ardhur rishtazi, përmes rindarjes me short të çështjeve, ngarkohet me një numër çështjesh jo më të lartë se numri mesatar i çështjeve për gjyqtar të asaj gjykate apo, kur është rasti, se numri mesatar i çështjeve për gjyqtar të seksionit përkatës të gjykatës në të cilin gjyqtarët e ardhur rishtazi caktohen. Kryetari i gjykatës është autoriteti që vendos për rindarjen me short të çështjeve në rastin e shtimit të Peter gjyqtarëve në gjykatë, si dhe për përcaktimin e rrethit të çështjeve që do të rishortohen, me qëllim që ngarkesa e punës për gjyqtarët e ardhur rishtazi në gjykatë, për aq sa është e mundur, të përfshijë çështje të së njëjtës vjetërsi sipas kohës së regjistrimit të tyre në gjykatë.
 
 Neni 8
 
