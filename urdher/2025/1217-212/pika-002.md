@@ -1,0 +1,1 @@
+2. Kompetencat e deleguara sipas pikës 1 të këtij urdhri të ushtrohen deri në përfundimin e procedurave konkurruese për pozicionin e drejtorit të përgjithshëm të Gardës së Republikës dhe emërimin në detyrë të drejtorit të përgjithshëm.
