@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 169 850 000 (njëqind e gjashtëdhjetë e nëntë milionë e tetëqind e pesëdhjetë mijë) lekë pa TVSH, për financimin e rikonstruksionit të njësive individuale të banimit në Bashkinë Durrës.
