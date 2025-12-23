@@ -1,0 +1,10 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Klos të disa zonave, si më poshtë vijon:
+a) Zona nr. 1, Njësia Administrative Xibër, zona zhvillimore “Ura e Vashës-Gujë”, me sipërfaqe 821.22 (tetëqind e njëzet e një pikë njëzet e dy) ha, sipas hartës në sistemin KRGJSH, të paraqitura mbi ortofoto;
+b) Zona nr. 2, Njësia Administrative Xibër, zona zhvillimore “Xibër-Murriz”, me sipërfaqe 411.72 (katërqind e njëmbëdhjetë pikë shtatëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH, të paraqitura mbi ortofoto;
+c) Zona nr. 3, Njësia Administrative Xibër, zona zhvillimore “Maja Kulbot”, me sipërfaqe 7.07 (shtatë pikë zero shtatë) ha, sipas hartës në sistemin KRGJSH, të paraqitura mbi ortofoto;
+ç) Zona nr. 4, Njësia Administrative Xibër, zona zhvillimore “Kodër Thekna”, me sipërfaqe 11.13 (njëmbëdhjetë pikë trembëdhjetë) ha, sipas hartës në sistemin KRGJSH, të paraqitura mbi ortofoto;
+d) Zona nr. 5, Njësia Administrative Xibër, zona zhvillimore “Maja e Balzit”, me sipërfaqe 74.22 (shtatëdhjetë e katër pikë njëzet e dy) ha, sipas hartës në sistemin KRGJSH, të paraqitura mbi ortofoto;
+dh) Zona nr. 6, Njësia Administrative Xibër, zona zhvillimore “Splaj-Tejlum”, me sipërfaqe 193.85 (njëqind e nëntëdhjetë e tre pikë tetëdhjetë e pesë) ha, sipas hartës në sistemin KRGJSH, të paraqitura mbi ortofoto;
+e) Zona nr. 7, Njësia Administrative Gurrë, zona zhvillimore “Zhuri i Arrikut”, me sipërfaqe 249.48 (dyqind e dyzet e nëntë pikë dyzet e tetë) ha, sipas hartës në sistemin KRGJSH, të paraqitura mbi ortofoto;
+ë) Zona nr. 8, Njësia Administrative Klos, zona zhvillimore “Plan i Bardhë-Bejnë-Cerujë-Patin”, me sipërfaqe 6 872.20 (gjashtë mijë e tetëqind e shtatëdhjetë e dy pikë njëzet) ha, sipas hartës në sistemin KRGJSH, të paraqitura mbi ortofoto;
+f) Zona nr. 9, Njësia Administrative Suç, zona zhvillimore “Balgjaj-Suç”, me sipërfaqe 1 715.53 (një mijë e shtatëqind e pesëmbëdhjetë pikë pesëdhjetë e tre) ha, sipas hartës në sistemin KRGJSH, të paraqitura mbi ortofoto.
