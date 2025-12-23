@@ -4,7 +4,7 @@ a) cakton datën dhe vendin e zhvillimit të mbledhjes së komisionit dhe vendos
 b) drejton zhvillimin e mbledhjeve të KSHAT-it;
 c) mbikëqyr veprimtarinë e sekretariatit të komisionit;
 ç) cakton anëtarin/anëtarët që do të relatojnë ankimin për shqyrtim nga komisioni në mbledhjen e radhës;
-d) raporton për ecurinë e veprimtarisë së KSHAT-it pranë ministrit të Financave brenda muajit dhjetor të çdo viti ose sa herë i kërkohet prej tij;
+d) raporton për ecurinë e veprimtarisë së KSHAT-së pranë ministrit të Financave brenda muajit janar të vitit pasardhës ose sa herë i kërkohet prej tij;
 dh) ruan konfidencialitetin e informacionit të marrë gjatë ushtrimit të funksioneve të tij;
 e) nënshkruan vendimet e KSHAT-it, në përputhje me parashikimet e Kodit të Procedurave Administrative.
 3.2 Anëtarët e KSHAT-it ushtrojnë këto detyra:
