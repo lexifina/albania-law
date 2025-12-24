@@ -1,0 +1,1 @@
+10. Struktura përgjegjëse për thesarin në qendër publikon paraprakisht të dhënat faktike të detajuara në nivel njësie shpenzuese ,sipas strukturës buxhetore, në faqen elektronike zyrtare të Ministrisë së Financave, brenda muajit janar të vitit 2026. Versioni përfundimtar i të dhënave publikohet pas dërgimit të projektbuxhetit faktik në Këshillin e Ministrave për miratim.
