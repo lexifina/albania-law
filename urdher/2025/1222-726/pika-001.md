@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Drejtësisë për nënshkrimin e dokumentacionit të klasifikuar, nga data 22.12.2025 deri në plotësimin e detyrimeve ligjore për njohjen me informacionin e klasifikuar, tek zëvendësministri i Drejtësisë, z. Tedi Dobi.
