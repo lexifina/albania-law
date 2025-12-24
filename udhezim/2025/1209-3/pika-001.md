@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave të hollësishme, kritereve specifike shtesë dhe procedurave të brendshme të trajtimit të kërkesave, që ndihmojnë në evidentimin e kontributit me interes kombëtar në fushën e artit, kulturës dhe sportit.

@@ -1,0 +1,1 @@
+4. Struktura përgjegjëse kujdeset për dërgimin e shkresës së arsyetuar për vlerësimin e kontributit në zbatim të afateve të përcaktuara në shkronjën “c”, të pikës 3, të kreut V, të VKM-së nr. 135/2024, të ndryshuar.
