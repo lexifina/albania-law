@@ -1,0 +1,28 @@
+# Neni 32
+Procedura dhe masat disiplinore
+1. Procedimi disiplinor ndaj inspektorëve të të gjitha pozicioneve në inspektoratin qendror, strukturat e tjera inspektuese dhe Inspektoratin e Përgjithshëm kryhet nga komisioni disiplinor, i cili ngrihet rast pas rasti pranë Inspektoratit të Përgjithshëm.
+2. Kur inspektori i përgjithshëm konstaton, ose i bëhet me dije nga burime të tjera shkelje të akteve ligjore ose nënligjore gjatë ushtrimit të detyrës nga inspektori në pozicionet e përcaktuara në këtë vendim, ai fillon menjëherë procedurën për ngritjen e komisionit disiplinor.
+3. Kur kryeinspektori qendror ose drejtuesi i strukturës tjetër inspektuese/titullari konstaton, ose i bëhet me dije nga burime të tjera shkelje të akteve ligjore ose nënligjore gjatë ushtrimit të detyrës nga inspektori, në pozicionet e përcaktuara në shkronjat “b”, “c”, “ç” dhe “d”, të pikës 1, të nenit 6, të këtij vendimi, ai i përcjell Inspektorit të Përgjithshëm kërkesën për fillimin e procedurës për ngritjen e komisionit disiplinor, të shoqëruar me informacionin e dokumentacionin përkatës.
+4. Në rastet kur konstatohet ekzistenca e rrethanave, që mund të përbëjnë shkak për procedim disiplinor ndaj kryeinspektorit të inspektoratit qendror, njësia përgjegjëse për burimet njerëzore në ministrinë përgjegjëse, brenda 5 (pesë) ditëve punë, përgatit relacionin shpjegues dhe dokumentacionin mbështetës dhe ia paraqet ministrit përgjegjës për shqyrtim e vendimmarrje lidhur me nisjen e procedurës pranë komisionit disiplinor.
+5. Për strukturat e tjera inspektuese, kur titullari i institucionit pranë të cilit funksionon struktura inspektuese konstaton ose i bëhet me dije nga burime të tjera shkelje të akteve ligjore dhe nënligjore gjatë ushtrimit të detyrës nga drejtuesi i strukturës, ai i përcjell inspektorit të përgjithshëm kërkesën për fillimin e procedurës për ngritjen e komisionit disiplinor të shoqëruar me informacionin dhe dokumentacionin përkatës.
+6. Procedimi disiplinor fillon pa vonesë, me marrjen dijeni për një shkelje disiplinore, por jo më vonë se afati 1-vjeçar nga data e kryerjes së shkeljes, për shkeljet e lehta dhe të rënda disiplinore, dhe jo më vonë se 4 (katër) vjet nga data e kryerjes së shkeljes, për shkeljet shumë të rënda disiplinore.
+7. Komisioni disiplinor fillon ecurinë disiplinore dhe njofton me shkrim kryeinspektorin apo inspektorin përkatës për shkeljen disiplinore të pretenduar për të, për të drejtat e tij dhe për datën kur do të shqyrtohet shkelja e pretenduar. Kjo datë nuk mund të caktohet më shpejt se 5 (pesë) ditë dhe jo më vonë se 15 (pesëmbëdhjetë) ditë nga marrja e njoftimit nga inspektori.
+8. Inspektori ka të drejtë të paraqesë me shkrim mbrojtjen e tij, përfshirë provat dhe shpjegimet përkatëse, jo më vonë se 3 (tri) ditë pune përpara datës së caktuar për shqyrtimin disiplinor nga komisioni.
+9. Komisioni disiplinor heton kryesisht të gjitha faktet dhe vlerëson të gjitha rrethanat e ngjarjes, që janë të nevojshme për marrjen e vendimit, si dhe mund të përdorë çdo mjet për të mbledhur prova, në përputhje me Kodin e Procedurave Administrative.
+10. Procedura e shqyrtimit të masës disiplinore duhet të garantojë të drejtën e inspektorit për t’u dëgjuar, mbrojtur, parashtruar fakte dhe prova, brenda një afati të arsyeshëm.
+11. Komisioni disiplinor, pasi shqyrton çështjen dhe pasi ka dëgjuar inspektorin përkatës ose përfaqësuesin e tij ligjor apo konstaton me shkrim mosparaqitjen e tij, megjithëse inspektori ka marrë dijeni rregullisht, vendos marrjen e masës disiplinore ose ndërprerjen e ecurisë disiplinore.
+12. Vendimi për ndërprerjen e ecurisë disiplinore merret nga komisioni disiplinor, në rastet kur:
+a) nuk ka shkelje disiplinore, siç ishte pretenduar;
+b) rezulton se inspektori nuk ka kryer shkelje me faj;
+c) veprimi nuk ka qenë ose nuk është kryer nga inspektori përkatës.
+13. Në rast se pas verifikimit dhe hetimit të kryer nga komisioni disiplinor, bazuar në fakte dhe në prova, rezulton se inspektori ka kryer shkelje disiplinore, masat disiplinore që mund të vendosen ndaj kryeinspektorit apo inspektorit në të gjitha pozicionet, në përfundim të procedimit disiplinor, janë:
+a) vërejtje;
+b) ulje e përkohshme e pagës, deri në 30% për një periudhë jo më të gjatë se 6 (gjashtë) muaj;
+c) pezullim nga e drejta e ngritjes në detyrë për një periudhë deri në 1 (një) vit;
+ç) vërejtje me paralajmërim për largim nga detyra;
+d) largim nga detyra.
+14. Masa disiplinore e përcaktuar në shkronjën “a” të pikës 13, të këtij neni, vendoset për shkelje të lehta; masat disiplinore të përcaktuara në shkronjat “b”, “c” dhe “ç”, të po kësaj pike, vendosen për shkelje të rënda dhe masa disiplinore e përcaktuar në shkronjën “d”, të pikës 13, të këtij neni, vendoset për shkelje shumë të rënda.
+15. Si rregull, procedura disiplinore duhet të përfundojë brenda 30 (tridhjetë) ditëve kalendarike. Në raste përjashtimore, për shkak të situatave të jashtëzakonshme apo për shkak të kompleksitetit të çështjes, ky afat mund të zgjatet vetëm 1 (një) herë, por jo më shumë se afati fillestar, me vendim të ndërmjetëm të komisionit disiplinor.
+16. Për përcaktimin e masës disiplinore të zbatueshme, komisioni disiplinor duhet të mbajë në konsideratë rëndësinë e shkeljes dhe pasojat e ardhura prej saj, qëllimet dhe motivet, nëse shkelja është e përsëritur dhe qëndrimin e kryeinspektorit apo të inspektorit ndaj veprimit të kryer.
+17. Për çdo shkelje jepet vetëm 1 (një) masë disiplinore.
+18. Masat disiplinore shuhen pas kalimit të afatit 1-vjeçar nga momenti i marrjes së masës disiplinore. Deklarimi i shuarjes bëhet kryesisht apo me kërkesë me vendim të njësisë së burimeve njerëzore të institucionit, ku kryeinspektori apo inspektorët e të gjitha pozicioneve janë të punësuar.

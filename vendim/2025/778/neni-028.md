@@ -1,0 +1,6 @@
+# Neni 28
+Procedurat dhe fazat e vlerësimit
+1. Procesi i vlerësimit të rezultateve në punë është i vazhdueshëm dhe konsiston fazën e planifikimit, të bisedimeve të ndërmjetme dhe të vlerësimit përfundimtar.
+2. Në fazën e planifikimit, gjatë 15-ditëshit të dytë të muajit dhjetor të vitit paraardhës, përfshihet përgatitja e objektivave dhe e një plani veprimtarish për arritjen e objektivave kryesorë, të cilët duhet të jenë të matshëm dhe me veprime të dukshme. Në këtë fazë, zyrtari raportues dhe inspektori që do të vlerësohet diskutojnë së bashku qëllimet e inspektorit për karrierë, aspiratat dhe çdo gjë tjetër, që lidhet me trajnimin e zhvillimin profesional.
+3. Në mes të periudhës së vlerësimit, zyrtarët raportues takohen me secilin prej inspektorëve që do të vlerësohen për të rishikuar progresin e bërë në arritjen e objektivave të planifikuar për të shprehur mendime dhe për të dhënë komente, si dhe për të bërë përmirësimet e nevojshme në planin e hartuar me shkrim.
+4. Gjatë vlerësimit përfundimtar të rezultateve në punë, zyrtari raportues bën një vlerësim të përmbledhur të suksesit të inspektorit që do të vlerësohet në arritjen e objektivave kryesorë të punës, të përcaktuar në fazën e planifikimit dhe të rishikuar gjatë bisedimeve të ndërmjetme. Kjo fazë realizohet brenda datës 15 janar të vitit pasardhës.
