@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINISTËR I SHËNDETËSISË DHE MIRËQENIES SOCIALE
-Evis Sala
