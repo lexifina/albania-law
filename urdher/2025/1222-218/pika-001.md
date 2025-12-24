@@ -1,0 +1,4 @@
+1. Delegimin e kompetencave drejtorit të përgjithshëm të Zhvillimit për Migracionin dhe Azilin, znj. Ami Çarçani, të praktikave të mëposhtme:
+a) Nënshkrimin e kërkesave drejtuar Drejtorisë së Përgjithshme të Policisë së Shtetit, drejtorive vendore të Policisë për shtetasit që aplikojnë për fitimin, rifitimin e shtetësisë shqiptare dhe për shtetasit që kërkojnë heqjen dorë nga shtetësia shqiptare;
+b) Kthimi i aplikimit të paraqitur në rastet e mungesës ose pasaktësisë së dokumentacionit për shtetasit që aplikojnë për fitimin, rifitimin e shtetësisë shqiptare dhe për shtetasit që kërkojnë heqjen dorë nga shtetësia shqiptare;
+c) Trajtimin dhe nënshkrimin e kërkesave të ndryshme, nga persona fizikë dhe juridikë, shtetas shqiptarë dhe/ose të huaj, për çështjet që lidhen me shtetësinë shqiptare.
