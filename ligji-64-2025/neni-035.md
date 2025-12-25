@@ -1,0 +1,6 @@
+# Neni 35
+Barazia gjinore në fushën e teknologjive të informacionit dhe komunikimit, dhe të shoqërisë së informacionit
+Ministria përgjegjëse për fushën e teknologjive të informacionit dhe komunikimit dhe të shoqërisë së informacionit, si dhe subjektet e tjera publike dhe private:
+a) promovojnë përdorimin e teknologjive të informacionit dhe komunikimit dhe shoqërisë së informacionit pa dallime gjinore dhe marrin masa për të parandaluar dhe eliminuar diskriminimin gjinor dhe për shkak të përkatësisë së shumëfishtë dhe dhunën me bazë gjinore që ndodh përmes ose përforcohet prej përdorimit të teknologjisë së informacionit, komunikimit dhe shoqërisë së informacionit dhe/ose inteligjencës artificiale (AI);
+b) mbështetin me fonde publike programe që kontribuojnë në promovimin e barazisë gjinore dhe eliminimin e stereotipave gjinorë në fushën e teknologjive të informacionit, komunikimit dhe shoqërisë së informacionit;
+c) promovojnë në bashkëpunim me ministritë përgjegjëse në fushën e arsimit të përgjithshëm dhe profesional, si dhe formimit profesional njohuritë e aftësitë digjitale dhe inteligjencën artificiale, pa dallime gjinore, me qëllim përfaqësimin gjithëpërfshirës e të balancuar gjinor në tregun digjital të punës.

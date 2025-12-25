@@ -1,0 +1,6 @@
+# Neni 10
+Gjuha e ndjeshme gjinore gjithëpërfshirëse
+1. Institucionet legjislative, ekzekutive, gjyqësore dhe subjektet private marrin masa që në hartimin, miratimin, zbatimin dhe vlerësimin e politikave, legjislacionit, programeve, buxheteve dhe çdo informacioni të përdorin një gjuhë me ndjeshmëri gjinore, gjithëpërfshirëse dhe me aksesueshmëri, me qëllim heqjen e stereotipave gjinorë në modelet sociale, kulturore, zakonet dhe praktikat e bazuara në to, eliminimin e diskriminimit gjinor dhe pabarazive gjinore për shkak të përkatësisë së shumëfishtë, si dhe ndërgjegjësimin për rëndësinë e barazisë gjinore.
+2. Ofruesit e shërbimeve mediatike audiovizive, si dhe të shtypit të shkruar, përfshirë edhe ato online, marrin masa për përdorimin e gjuhës me ndjeshmëri gjinore në programacionin e mediave të shkruara, elektronike, raportimin mediatik, si dhe çdo formë komunikimi me publikun.
+3. Në certifikatat, diplomat, titujt akademikë, dokumentet e certifikimit të kualifikimeve profesionale, pozicionet e punës dhe profesionet, licencat, tekstet mësimore, materialet studimore, përkthimet, punimet e referimet shkencore, si botime të çdo lloji, përdoret gjuha në përputhje me gjininë gramatikore, si dhe gjithëpërfshirëse e me aksesueshmëri.
+4. Ngarkohet Këshilli i Ministrave të përcaktojë me vendim rregullat e përdorimit të gjuhës me ndjeshmëri gjinore.
