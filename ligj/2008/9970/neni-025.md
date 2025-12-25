@@ -1,4 +1,0 @@
-# Neni 25
-Edukimi i barazisë gjinore
-1. Subjektet, që ofrojnë arsimim, kualifikim e trajnim, si dhe ata që formulojnë tekstet, programet dhe materialet e tjera mësimore, në të gjitha nivelet, sigurojnë mësimdhënien e njohurive të nevojshme dhe përdorin metoda mësimdhënieje, trajnimi e kualifikimi, në mënyrë të tillë që të ndihmojnë në promovimin, nxitjen dhe formimin e edukatës së barazisë dhe në ndalimin e diskriminimit për shkak të gjinisë, të stereotipave negativë, paragjykimeve dhe praktikave zakonore ose të çdo lloji tjetër, që cenojnë parimet e barazisë gjinore.
-2. Institucionet e arsimit të lartë, në mënyrë të veçantë, sipas fushave përkatëse, ndërmarrin nisma për kryerjen e studimeve në fushën e barazisë gjinore, ose e përfshijnë atë në studimet e kryera, për të siguruar materiale me informacionin përkatës, si dhe për t’i paraprirë zhvillimit praktik e shkencor të kësaj fushe.

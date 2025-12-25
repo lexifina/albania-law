@@ -1,4 +1,0 @@
-# Neni 6
-Ndalimi i diskriminimit për shkak të gjinisë
-1. Çdo trajtim më pak i favorshëm i një personi për shkak të gjinisë, në krahasim me trajtimin që i bëhet, i është bërë ose do t’i bëhej një personi të gjinisë tjetër, në një situatë të ngjashme, përbën diskriminim të drejtpërdrejtë për shkak të gjinisë dhe ndalohet.
-2. Hartimi, zbatimi, nxitja dhe krijimi i dispozitave, kushteve, kritereve apo praktikave, në dukje neutrale, por që sjellin vendosjen në një situatë më pak të favorshme të një personi të njërës gjini, krahasuar me personat e gjinisë tjetër, përbën diskriminim të tërthortë për shkak të gjinisë dhe ndalohet. Nga ky ndalim bëjnë përjashtim rastet kur këto dispozita, kushte, kritere apo praktika justifikohen nga një qëllim i përligjur dhe mjetet apo rrugët për arritjen e këtij qëllimi janë të nevojshme dhe të përshtatshme.
