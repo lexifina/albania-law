@@ -1,0 +1,1 @@
+3. Instituti i kërkimit shkencor dhe njësia e veçantë e kërkimit shkencor kanë si mision nxitjen e dijes e të së vërtetës shkencore, mbrojtjen e shëndetit publik, të trashëgimisë kulturore, mjedisore e materiale, nxitjen e teknologjisë dhe inovacionit, nëpërmjet kryerjes së veprimtarive laboratorike dhe vlerësimeve shkencore në këto fusha.

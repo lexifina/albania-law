@@ -1,0 +1,1 @@
+8. Në rast se ministria përgjegjëse për çështjet e shkencës dhe të kërkimit shkencor konstaton përmbushjen e kushteve të vendosura prej saj, brenda afatit të përcaktuar në aktin e pezullimit, vendos për heqjen e pezullimit dhe lejimin e ushtrimit të veprimtarisë kërkimore-shkencore të institutit ose të njësisë së veçantë të kërkimit shkencor.

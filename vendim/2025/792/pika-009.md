@@ -1,0 +1,1 @@
+9. Në rast se kushtet e përcaktuara në aktin e pezullimit të ministrisë përgjegjëse për çështjet e shkencës dhe të kërkimit shkencor nuk janë plotësuar brenda afatit të përcaktuar, ministria vijon procedurën për mbylljen e institutit apo të njësisë së veçantë të kërkimit shkencor, sipas kreut V të këtij vendimi.
