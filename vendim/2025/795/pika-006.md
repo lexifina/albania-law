@@ -1,0 +1,1 @@
+6. Thirrja për paraqitjen e projektpropozimeve hapet çdo vit brenda muajit shkurt dhe qëndron e hapur, sipas afatit të përcaktuar, me urdhër të ministrit përgjegjës për sportin. Pas përfundimit të afatit të aplikimit, struktura përgjegjëse, brenda 7 (shtatë) ditëve, nëse konstaton parregullsi, njofton aplikuesit, duke i caktuar afatin 5-ditor për plotësimin e parregullsive.

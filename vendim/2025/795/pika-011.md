@@ -1,0 +1,1 @@
+11. Monitorimi për mbikëqyrjen e realizimit të mbështetjes financiare të KOKSH-it kryhet nga grupi i punës, i caktuar me urdhër të ministrit përgjegjës për sportin. Përbërja dhe detyrat e grupit të punës përcaktohen me urdhër të ministrit përgjegjës për sportin.
