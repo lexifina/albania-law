@@ -1,1 +1,1 @@
-2. Drejtoria e Përgjithshme e Taksës së Pasurisë ka si mision kryesor administrimin në nivel qendror nga pikëpamja ligjore dhe metodologjike e taksës vendore mbi pasuritë e paluajtshme.
+2. Drejtoria e Përgjithshme e Taksës së Pasurisë ka si mision kryesor mbështetjen e njësive të vetëqeverisjes vendore (bashkitë) në zbatimin e legjislacionit që rregullon taksën mbi pasurinë e paluajtshme.
