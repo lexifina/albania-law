@@ -1,0 +1,3 @@
+4. Projektet arkeologjike nënujore mund të zhvillohen nga:
+a) institucionet e specializuara dhe/ose në bashkëpunim me institucione të huaja, që kryejnë veprimtari të kërkimit arkeologjik, të cilat do të kryejnë projekte arkeologjike nënujore në territore të njohura ose jo si zona me vlera arkeologjike. Në rastet kur këto zona bien brenda territorit të zonave të mbrojtura, institucionet e specializuara, si dhe veprimtaritë e kërkimit arkeologjik respektojnë edhe kërkesat e legjislacionit në fuqi për zonat e mbrojtura;
+b) subjekte të licencuara në fushën e arkeologjisë nënujore, sipas legjislacionit në fuqi për trashëgiminë kulturore.

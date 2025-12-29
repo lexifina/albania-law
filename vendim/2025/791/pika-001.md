@@ -1,0 +1,1 @@
+1. Ky vendim përcakton kushtet e kriteret për zhvillimin e projekteve arkeologjike nënujore dhe të aktiviteteve të tjera, që prekin direkt ose indirekt tërësinë e vlerave arkeologjike dhe historike nënujore.

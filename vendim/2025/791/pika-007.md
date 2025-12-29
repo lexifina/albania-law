@@ -1,0 +1,1 @@
+7. Zbatimi i projekteve duhet të sigurojë ruajtjen fizike të objekteve arkeologjike, që zbulohen gjatë zhvillimit të tij, duke krijuar kushte laboratorike të përshtatshme, si dhe transport të sigurt, nga momenti i zbulimit deri te depozitimi në laborator.

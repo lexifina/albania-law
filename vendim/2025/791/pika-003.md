@@ -1,0 +1,1 @@
+3. Projekte arkeologjike nënujore janë aktivitete që kanë trashëgiminë kulturore nënujore, si objekt kryesor, dhe, të cilat, drejtpërdrejt ose tërthorazi, mund ta dëmtojnë trashëgiminë kulturore nënujore.
