@@ -1,0 +1,1 @@
+17. Kandidatëve që zotërojnë titujt akademikë “Profesor i asociuar” dhe “Profesor”, në rast të angazhimit në institutin e kërkimit shkencor ose në njësi të veçantë të kërkimit shkencor u caktohet kategoria “drejtues kërkimor-shkencor”, pavarësisht kritereve të përcaktuara në këtë vendim.

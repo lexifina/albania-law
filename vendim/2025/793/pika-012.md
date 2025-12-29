@@ -1,0 +1,1 @@
+12. Drejtuesi i institutit kërkimor shkencor përkatës lëshon aktin e miratimit të kategorisë, brenda 5 (pesë) ditëve punë nga vlerësimi i Këshillit Shkencor, për përfitimin e kategorisë përkatëse për punonjësin kërkimor-shkencor.

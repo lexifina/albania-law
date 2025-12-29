@@ -1,0 +1,1 @@
+11. Kur aplikimi për përfitimin e kategorive nga kandidatët bëhet pranë njësisë së veçantë të kërkimit shkencor, funksionin e Këshillit Shkencor e kryen Këshilli Shkencor i institutit kërkimor-shkencor, me të cilin njësia e veçantë e kërkimit shkencor ka lidhur marrëveshje për këtë qëllim.

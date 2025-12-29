@@ -1,0 +1,1 @@
+7. Instituti kërkimor-shkencor ose njësia e veçantë e kërkimit shkencor ngre një komision të posaçëm të vlerësimit të dosjeve ( në vijim “KVD”) për vlerësimin e aplikimeve. KVD-ja, nëse e vlerëson të nevojshme, fton personel të kategorisë “Profesor” nga universitetet publike, për shqyrtimin e aplikimeve.

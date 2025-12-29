@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve dhe të procedurave për përfitimin e kategorisë nga punonjësit kërkimorë-shkencorë, “asistent kërkues-shkencor”, “kërkues-shkencor”, “kërkues-shkencor i avancuar” dhe “drejtues kërkimor-shkencor”, të instituteve dhe të njësive të veçanta të kërkimit shkencor, të krijuara sipas përcaktimeve të legjislacionit në fuqi.
