@@ -1,0 +1,1 @@
+1. Miratimin e Planit të Veprimit për Përmirësimin e Renditjes së Shqipërisë në Indeksin e OECD-së për Politikat e NMV-ve (Ndërmarrjeve të Vogla dhe të Mesme), bazuar në rekomandimet e Raportit për Shqipërinë në raportin e vitit 2022: “Indeksi i Politikave për NVM-të në Ballkanin Perëndimor dhe Turqinë”.
