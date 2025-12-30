@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të autoritetit kontraktor, për kryerjen e procedurave të prokurimit/konkurrimit publik, për Ministrinë e Turizmit, Kulturës dhe Sportit, sekretarit të përgjithshëm të ministrisë, znj. Llambriola Misto.
