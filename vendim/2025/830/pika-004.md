@@ -1,0 +1,1 @@
+4. Pas lidhjes së kontratës, çdo pagesë e ministrisë përgjegjëse për sportin për subjektet përfituese bëhet pas paraqitjes së kërkesës së këtij të fundit dhe në përputhje me parashikimet e kontratës, përfshirë edhe pagesën e tarifës së pjesëmarrjes (fee), në rast parashikimi në kontratë.
