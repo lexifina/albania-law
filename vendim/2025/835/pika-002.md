@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, llogariten në shumën 2 227 500 000 (dy miliardë e dyqind e njëzet e shtatë milionë e pesëqind mijë) lekë dhe përballohen nga buxheti i akorduar për Ministrinë e Shëndetësisë dhe Mirëqenies Sociale, për vitin 2025.
