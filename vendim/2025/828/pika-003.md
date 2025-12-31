@@ -1,0 +1,3 @@
+3. Përfitojnë kompensim të të ardhurave mujore deri në 1 000 (një mijë) lekë në muaj personat me të ardhura deri në 18 000 (tetëmbëdhjetë mijë) lekë në muaj në datën 31.12.2025, sipas kategorive të mëposhtme:
+a) Personat që përfitojnë pension pleqërie të caktuar në bazë të ligjit nr. 4976, datë 29.6.1972, “Për pensionet e anëtarëve të kooperativave bujqësore në Republikën Popullore të Shqipërisë”, të ndryshuar;
+b) Personat që përfitojnë pension pleqërie rural, me datë lindjeje të së drejtës deri në datën 31.12.2014, të caktuar në bazë të neneve 31, 34, 93, 95 dhe të paragrafit të dytë, të nenit 96, të ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar.

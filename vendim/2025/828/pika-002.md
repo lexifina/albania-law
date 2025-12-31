@@ -1,0 +1,5 @@
+2. Përfitojnë kompensim të të ardhurave mujore deri në 800 (tetëqind) lekë në muaj personat me të ardhura deri në 22 000 (njëzet e dy mijë) lekë në muaj në datën 31.12.2025, sipas kategorive të mëposhtme:
+a) Personat që përfitojnë pension pleqërie të pjesshëm, të caktuar sipas ligjit nr. 4171, datë 13.9.1966, “Për sigurimet shoqërore në Republikën Popullore të Shqipërisë”, të ndryshuar;
+b) Personat që përfitojnë pension pleqërie të pjesshëm urban, me datë lindjeje të së drejtës deri në datën 31.12.2014, të caktuar në bazë të neneve 34 e 95, të ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar;
+c) Personat që përfitojnë pension pleqërie, me datë lindjeje të së drejtës nga data 1.1.2015 e në vijim, të caktuara në bazë të ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, që nuk plotësojnë periudhën e domosdoshme të sigurimit të parashikuar në nenin 92 të këtij ligji;
+ç) Personat që përfitojnë pension social të caktuar, në bazë të nenit 5/1, të ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar.

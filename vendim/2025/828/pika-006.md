@@ -1,0 +1,2 @@
+6. Masa individuale e kompensimeve të parashikuara në këtë vendim do të përfitohet deri në plotësimin e vlerës së të ardhurave të parashikuar në pikat 1, 2, 3, 4 dhe 5 të këtij vendimi.
+Për të gjitha rastet që kompensimi i parashikuar sjell si pasojë tejkalimin e vlerës së të ardhurave sipas pikave 1, 2, 3, 4 dhe 5 të këtij vendimi, masa individuale e kompensimit do të llogaritet si diferencë e të ardhurave të parashikuara në pikat 1, 2, 3, 4 dhe 5 të këtij vendimi, me shumën e të ardhurave mujore të përfituesve, sipas përcaktimeve në këtë vendim.

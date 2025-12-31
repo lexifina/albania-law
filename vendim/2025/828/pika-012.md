@@ -1,0 +1,1 @@
+12. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, në shumën 9 800 960 000 (nëntë miliardë e tetëqind milionë e nëntëqind e gjashtëdhjetë mijë) lekë, do të përballohen nga buxheti i shtetit, i planifikuar në buxhetin për sigurimet shoqërore, për vitin 2026.

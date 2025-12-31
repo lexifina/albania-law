@@ -1,0 +1,3 @@
+11. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi llogariten në shumën 9 800 960 000 (nëntë miliardë e tetëqind milionë e nëntëqind e gjashtëdhjetë mijë) lekë, të cilat ndahen:
+a) 9 728 460 000 (nëntë miliardë e shtatëqind e njëzet e tetë milionë e katërqind e gjashtëdhjetë mijë) lekë, për mbulimin e pagesave të kompensimit të të ardhurave mujore të pensionistëve;
+b) 72 500 000 (shtatëdhjetë e dy milionë e pesëqind mijë) lekë shpenzime administrative për procedurat teknike të zbatimit të këtij vendimi dhe për pagesën e komisioneve të shërbimit të pagesave të pensioneve nga Posta Shqiptare sh.a., dhe bankat e nivelit të dytë.
