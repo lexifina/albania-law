@@ -1,0 +1,1 @@
+6. Çmimet bazë për normat përkatëse të punimeve në pyje e kullota ndahen në 4 (katër) kategori, sipas nivelit të vështirësisë dhe natyrës së operacioneve, me koeficientët përkatës të indeksimit, kundrejt çmimeve të kategorisë së parë.

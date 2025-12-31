@@ -1,0 +1,1 @@
+1. Miratimin e normave teknike, standardeve, çmimeve bazë dhe praktikave më të mira në fushën e pyjeve, të unifikuara për njësi të punimeve, sipas operacioneve që kryhen në pyje e kullota, të përcaktuara në lidhjet nr. 1 e nr. 2, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

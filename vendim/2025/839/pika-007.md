@@ -1,0 +1,1 @@
+7. Çmimet e kategorisë së parë i referohen masës së pagës minimale mujore, të miratuar me vendim të Këshillit të Ministrave, dhe janë të detyrueshme për t’u zbatuar në të gjithë territorin nga çdo person juridik ose fizik, vendas apo i huaj.
