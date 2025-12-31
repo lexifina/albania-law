@@ -1,1 +1,2 @@
 3. Efekti financiar, për vitin 2024, përballohet nga shpenzimet buxhetore të fondit të rindërtimit, miratuar për vitin 2024, dhe i transferohet bashkive Durrës, Kamzë, Mirditë, Shijak, Krujë dhe Vorë, në formën e transfertës së pakushtëzuar.
+3/1. Efekti financiar, për vitin 2025, përballohet nga shpenzimet buxhetore të fondit të rindërtimit, miratuar për vitin 2025, dhe i transferohet bashkive Durrës, Shijak, Krujë dhe Vorë në formën e transfertës së pakushtëzuar.
