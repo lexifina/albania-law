@@ -1,0 +1,1 @@
+I. Në vendimin nr. 837, datë 26.12.2024, të Këshillit të Ministrave, “Për përdorimin e fondit të rindërtimit për financimin e rindërtimit të banesave individuale në bashkitë Durrës, Kamzë, Mirditë, Shijak, Krujë dhe Vorë”, bëhen këto shtesa:

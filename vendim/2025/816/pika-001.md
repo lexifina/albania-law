@@ -1,0 +1,6 @@
+1. Pas pikës 2 shtohet pika 2/1, me këtë përmbajtje:
+“2/1. Përdorimin e fondit të rindërtimit, për vitin 2025, nga bashkitë Durrës, Shijak, Krujë dhe Vorë, në masën 501 942 235 (pesëqind e një milionë e nëntëqind e dyzet e dy mijë e dyqind e tridhjetë e pesë) lekë pa TVSH, për financimin e rindërtimit të banesave individuale për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte që duhen rindërtuar nga e para, në bazë të aktekspertizave të thelluara, sipas detajimit të mëposhtëm:
+a) Bashkisë Durrës i transferohet fondi, në masën 136 643 876 (njëqind e tridhjetë e gjashtë milionë e gjashtëqind e dyzet e tre mijë e tetëqind e shtatëdhjetë e gjashtë) lekë pa TVSH;
+b) Bashkisë Shijak i transferohet fondi, në masën 46 682 144 (dyzet e gjashtë milionë e gjashtëqind e tetëdhjetë e dy mijë e njëqind e dyzet e katër) lekë pa TVSH;
+c) Bashkisë Krujë i transferohet fondi, në masën 177 818 041 (njëqind e shtatëdhjetë e shtatë milionë e tetëqind e tetëmbëdhjetë mijë e dyzet e një) lekë pa TVSH;
+ç) Bashkisë Vorë i transferohet fondi, në masën 140 798 174 (njëqind e dyzet milionë e shtatëqind e nëntëdhjetë e tetë mijë e njëqind e shtatëdhjetë e katër) lekë pa TVSH.”.
