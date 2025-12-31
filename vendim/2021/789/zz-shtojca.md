@@ -1,6 +1,7 @@
 # Shtojca
 Tabela I
 VEPRIMTARITË NDËRKOMBËTARE ZYRTARE
+Tabela nr. 1:
 Veprimtaria
 Rezultati
 Masa e shpërblimit
@@ -16,16 +17,16 @@ Rekord ballkanik
 1 500 000 lekë
 Lojëra olimpike
 Vendi i parë
-10 000 000 lekë
+15 000 000 lekë
 Lojëra olimpike
 Vendi i dytë
-7 000 000 lekë
+10 000 000 lekë
 Lojëra olimpike
 Vendi i tretë
-5 000 000 lekë
+7 000 000 lekë
 Lojëra olimpike
 Vendi i katërt
-3 000 000 lekë
+4 000 000 lekë
 Lojëra olimpike
 Vendi i pestë
 2 000 000 lekë
