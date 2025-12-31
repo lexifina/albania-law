@@ -1,0 +1,1 @@
+2. Bashkisë Krujë, në buxhetin e vitit 2025, i transferohet fondi në masën 63 080 290 (gjashtëdhjetë e tre milionë e tetëdhjetë mijë e dyqind e nëntëdhjetë) lekë pa TVSH, në formën e transfertës së pakushtëzuar, i cili do të përballohet nga shpenzimet buxhetore të fondit të rindërtimit, miratuar për vitin 2025.

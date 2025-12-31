@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 315 401 450,36 (treqind e pesëmbëdhjetë milionë e katërqind e një mijë e katërqind e pesëdhjetë presje tridhjetë e gjashtë) lekë pa TVSH, për financimin e rindërtimit të shkollës së mesme të bashkuar “Ramazan Karaj”, Bashkia Krujë.
