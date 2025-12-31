@@ -1,6 +1,8 @@
 4. Tarifa për shqyrtimin e kërkesave për leje zhvillimi dhe tarifa për shqyrtimin e kërkesave për ndryshimin/rishikimin e lejeve të zhvillimit do të llogaritet në bazë të sipërfaqes bazë së pronave që do të zhvillohen dhe niveli i tarifës do të llogaritet:
-a) për projektet me sipërfaqe të përgjithshme prone deri në 100 ha, tarifa është në vlerën 100 (njëqind) lekë për m2;
-b) për projektet me sipërfaqe të përgjithshme prone mbi 100 ha, tarifa është në vlerën 100 (njëqind) lekë për m2, por jo më shumë se 130 000 000 (njëqind e tridhjetë milionë) lekë në total.
+a) për kërkesat për leje zhvillimi, për projektet me sipërfaqe të përgjithshme prone deri në 100 ha, tarifa është në vlerën 100 (njëqind) lekë për m2;
+b) për kërkesat për leje zhvillimi, për projektet me sipërfaqe të përgjithshme prone mbi 100 ha, tarifa është në vlerën 100 (njëqind) lekë për m2, por jo më shumë se 130 000 000 (njëqind e tridhjetë milionë) lekë në total;
+c) për kërkesat për ndryshimin/rishikimin e lejeve të zhvillimit, kur ndryshimi apo rishikimi i lejes së zhvillimit kryhet brenda kufirit të miratuar me një leje zhvillimi dhe nuk shoqërohet me shtim të sipërfaqes së përgjithshme të pronës apo kur kërkesa për ndryshimin/rishikimin e lejeve të zhvillimit shoqërohet me zvogëlim të sipërfaqes së miratuar me një leje zhvillimi, tarifa është fikse, në masën 300 000 (treqind mijë) lekë;
+ç) për kërkesat për ndryshimin/rishikimin e lejeve të zhvillimit, kur ndryshimi apo rishikimi i lejes së zhvillimit shoqërohet me shtim të sipërfaqes së përgjithshme të pronës, tarifa llogaritet si total i tarifës fikse, në masën 300 000 (treqind mijë) lekë, dhe shtohet vlera prej 100 (njëqind) lekë për m2, vetëm për sipërfaqen shtesë.
 4/1. Nga përcaktimet e bëra në pikën 4, përjashtohen aplikimet për leje zhvillimi për centralet gjeneruese të energjisë, tarifa për shqyrtimin e të cilave do të llogaritet sipas përcaktimeve, si më poshtë vijon:
 a) Për centralet deri në 2 mw, tarifa fikse në vlerën 1 000 000 (një milion) lekë;
 b) Për centralet mbi 2 mw deri në 10 mw, tarifa fikse në vlerën 3 000 000 (tre milionë) lekë;
