@@ -11,3 +11,4 @@ c) kontribuimin me njohuri dhe ekspertizë të posaçme profesionale për çësh
 7/3. Anëtarët e këshillit të ekspertëve e ushtrojnë këtë funksion për një periudhë 2-vjeçare, me të drejtë riemërimi.
 7/4. Anëtarët e këshillit të ekspertëve përfitojnë shpërblimin në masën e përcaktuar me vendim të Këshillit të Ministrave.
 7/5. Këshilli i ekspertëve mblidhet sa herë e kërkon ministri dhe anëtarët e tij kryejnë detyra të ngarkuara nga ministri, brenda përcaktimeve të pikës 7/1, të këtij vendimi.
+7/6. Përcaktimet në pikat 7/1, 7/2, 7/3, 7/4 dhe 7/5, të këtij vendimi, zbatohen me ndryshimet përkatëse edhe për institucionet me vetëfinancim në varësi të Kryeministrit.
