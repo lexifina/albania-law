@@ -1,0 +1,1 @@
+9. Palët zbatojnë masat e duhura teknike dhe organizative për të siguruar një nivel sigurie të përshtatshëm ndaj rrezikut, për çdo veprim në regjistër lidhur me aksesin, ndryshimin, korrigjimin, përhapjen e të dhënave personale, me qëllim garantimin e gjurmueshmërisë, konfidencialitetit, integritetit, disponueshmërinë dhe qëndrueshmërinë e sistemeve e të shërbimeve të përpunimit.

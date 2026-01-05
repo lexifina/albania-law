@@ -1,0 +1,1 @@
+4. Dhënës të informacionit për SMIAL-in janë institucionet e arsimit të lartë, Agjencia e Sigurimit të Cilësisë në Arsimin e Lartë, Agjencia Kombëtare e Financimit të Arsimit të Lartë dhe ministria përgjegjëse për arsimin.
