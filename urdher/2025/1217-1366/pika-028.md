@@ -1,0 +1,1 @@
+28. Duke përjashtuar pikat 25, 26 dhe 27 të këtij urdhri, tërheqjet e të njëjtit produkt mund të regjistrohen në regjistër në formën e një totali mujor, kur produkti vendoset vetëm në kontejnerë me një vëllim nominal prej 10 litrash ose më pak, të pajisur me një pajisje mbyllëse jo të ripërdorshme, siç referohet në pikën 2, të nenit 16, të ligjit.

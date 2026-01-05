@@ -1,0 +1,1 @@
+20. Përqindjet maksimale të pranueshme për humbjet nga avullimi gjatë magazinimit, veprimet e përpunimit ose ndryshimet në kategorinë e produktit lejohen në një kufi të sipërm prej 1.5% gjatë një periudhe njëvjeçare.

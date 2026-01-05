@@ -1,0 +1,1 @@
+12. Për verërat e përmendura në pikat 20.1-20.9, 20.15 dhe 20.16, të nenit 2, të ligjit, shënimi në regjistër i mbajtur nga operatorët duhet të përmbaje të dhënat opsionale të përcaktuara në nenin 32, të ligjit, me kusht që ato shfaqen në etiketë ose planifikohet që të shfaqen në etiketim.

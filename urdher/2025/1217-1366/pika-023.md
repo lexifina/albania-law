@@ -1,0 +1,1 @@
+23. Nuk konsiderohen si humbje vëllimet e produktit të shkatërruar ose të humbur, për shkak të forcave madhore, si thyerje tubash, valvolash të enëve të verës ose vjedhje. Këto raste duhet t’u komunikohen menjëherë autoriteteve kompetente dhe humbjet të shënohen në regjistër.

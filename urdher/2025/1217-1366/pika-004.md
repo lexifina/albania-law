@@ -1,0 +1,1 @@
+4. Për çdo shënim në regjistër, operatorët duhet të jenë në gjendje të paraqesin një nga dokumentet shoqëruese të referuara në bazën nënligjore, “Mbi dokumentet shoqëruese”, ose çdo dokument tjetër tregtar që ka shoqëruar ngarkesën përkatëse.

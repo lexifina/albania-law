@@ -1,0 +1,1 @@
+1. Përdorimin e formularëve, sipas përcaktimeve në aneksin I, nga operatorët të cilët mbajnë produkte vere në ushtrimin e tregtisë së tyre, për të regjistruar secilin nga veprimet e përshkruara më poshtë, në regjistrin e hyrjeve dhe të daljeve.

@@ -1,0 +1,1 @@
+16. Kur një produkt ndryshon kategori pa iu nënshtruar njërit prej operacioneve të përmendur në pikat 6, 7 dhe 8 të këtij urdhri, veçanërisht në rastin e fermentimit të mushtit të rrushit, sasitë dhe lloji i produktit të përftuar pas ndryshimit duhet të shënohen në regjistër.
