@@ -1,0 +1,2 @@
+2. Ngarkohen Autoriteti Kombëtar për Sigurinë Kibernetike, CSIRT-et sektoriale, CSIRT-et pranë operatorëve të infrastrukturave të informacionit dhe të gjitha strukturat e institucionet përgjegjëse, që kanë role dhe përgjegjësi specifike të përcaktuara në procedurën e identifikimit, klasifikimit, përshkallëzimit dhe menaxhimit të krizës kibernetike, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
