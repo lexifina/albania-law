@@ -1,0 +1,8 @@
+# Neni 47
+Fazat e vlerësimit të oponencës
+1. Gjatë fazës përgatitore, anëtarët e ekipit të vlerësimit të oponencës shqyrtojnë dokumentacionin e organit certifikues, që mbulon politikat e procedurat e tij, duke përfshirë përdorimin e dokumenteve teknike më të fundit.
+2. Gjatë fazës së vizitës në terren, ekipi i vlerësimit të oponencës vlerëson kompetencën teknike të organit certifikues dhe, kur është e zbatueshme, kompetencën e ITSEF-it që ka kryer të paktën një vlerësim të produktit TIK të mbuluar nga vlerësimi i oponencës.
+3. Kohëzgjatja e fazës së vizitës në terren mund të zgjatet ose të zvogëlohet në varësi të faktorëve të tillë, si: mundësia e ripërdorimit të provave dhe të rezultateve ekzistuese të vlerësimit të oponencave, ose numri i ITSEF-ve dhe fushave teknike, për të cilat organi certifikues lëshon certifikata.
+4. Nëse është e aplikueshme, ekipi i vlerësimit të oponencës përcakton kompetencën teknike të çdo ITSEF-i, duke vizituar laboratorin ose laboratorët e tij teknikë dhe duke intervistuar vlerësuesit e tij në lidhje me fushën teknike dhe metodat specifike të sulmit.
+5. Në fazën e raportimit, ekipi i vlerësimit të oponencës dokumenton konkluzionet e tij në një raport vlerësimi oponence, duke përfshirë një vendim, dhe, ku është e zbatueshme, një listë të moskonformiteteve të konstatuara, secila e vlerësuar sipas një niveli kritikaliteti.
+6. Raporti i vlerësimit të oponencës, së pari, diskutohet me organin certifikues të vlerësuar nga ekipi i vlerësimit të oponencës. Pas këtyre diskutimeve, organi certifikues i vlerësuar nga ekipi i vlerësimit të oponencës krijon një plan të masash që merren për të adresuar përfundimet.

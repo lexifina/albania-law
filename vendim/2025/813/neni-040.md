@@ -1,0 +1,4 @@
+# Neni 40
+Bashkëpunimi me autoritetet e tjera të certifikimit të sigurisë kibernetike
+1. Organi kombëtar i certifikimit të sigurisë kibernetike ndan informacionin përkatës, të marrë sipas përcaktimeve të nenit 39 të këtij vendimi, me autoritetet e tjera të certifikimit të sigurisë kibernetike të shteteve anëtare të Bashkimit Evropian dhe me ENISA-n, me anëtarësimin e Republikës së Shqipërisë në Bashkimin Evropian.
+2. Autoritetet e tjera të certifikimit të sigurisë kibernetike, me anëtarësimin e Republikës së Shqipërisë në Bashkimin Evropian, mund të vendosin të analizojnë më tej vulnerabilitetin ose, pasi të informojnë zotëruesin e certifikatës, bazuar në kriteret e përbashkëta evropiane, të kërkojnë nga organet certifikuese të vlerësojnë nëse vulnerabiliteti mund të prekë produkte të tjera TIK të certifikuara.

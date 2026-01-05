@@ -1,0 +1,7 @@
+# Neni 32
+Pezullimi i certifikatës
+1. Në rastin e pezullimit të një certifikate, sipas përcaktimeve të këtij vendimi, organi certifikues pezullon një certifikatë për një periudhë të përshtatshme për rrethanat që shkaktuan pezullimin, e cila nuk i kalon 42 (dyzet e dy) ditë. Periudha e pezullimit fillon të nesërmen e ditës së vendimit të organit certifikues dhe nuk ndikon në vlefshmërinë e certifikatës.
+2. Organi certifikues njofton menjëherë zotëruesin e certifikatës dhe organin kombëtar të certifikimit të sigurisë kibernetike për pezullimin dhe jep arsyet e pezullimit, veprimet e duhura që duhen ndërmarrë, si dhe periudhën e pezullimit.
+3. Zotëruesit e certifikatës njoftojnë blerësit e produkteve TIK për pezullimin dhe arsyet e dhëna nga organi certifikues për pezullimin, me përjashtim të atyre arsyeve, ku ndarja e të cilave përbën një rrezik sigurie ose përmban informacion të ndjeshëm. Ky informacion vihet, gjithashtu, në dispozicion të publikut nga zotëruesi i certifikatës.
+4. Kur legjislacioni në fuqi parashikon një supozim konformiteti, bazuar në certifikatat e lëshuara sipas dispozitave të këtij vendimi, organi kombëtar i certifikimit të sigurisë kibernetike informon autoritetin përgjegjës për mbikëqyrjen e tregut për legjislacionin e posaçëm në fuqi në lidhje me pezullimin.
+5. Në raste të justifikuara, organi kombëtar i certifikimit të sigurisë kibernetike mund të autorizojë një zgjatje të periudhës së pezullimit të një certifikate, ku periudha totale e pezullimit nuk mund të kalojë një vit.

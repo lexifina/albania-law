@@ -1,0 +1,16 @@
+# Neni 25
+Kërkesa shtesë ose specifike për një ITSEF dhe njohja e vlerësimeve dhe e raporteve të tyre
+1. Një ITSEF autorizohet nga organi kombëtar i certifikimit të sigurisë kibernetike për të kryer vlerësimin e produkteve TIK, që i nënshtrohen certifikimit në nivelin e sigurisë “të lartë”, ku ITSEF-i është organ i akredituar nga institucioni përgjegjës për akreditimin në Republikën e Shqipërisë, sipas legjislacionit në fuqi për akreditimin, i cili përmbush kërkesat, si më poshtë vijon:
+a) Ka ekspertizën e nevojshme për kryerjen e aktiviteteve të vlerësimit për të përcaktuar rezistencën ndaj sulmeve kibernetike të sofistikuara të kryera nga aktorë me aftësi dhe burime të konsiderueshme;
+b) Për fushat teknike dhe profilet e mbrojtjes, që janë pjesë e procesit TIK dhe për produktet TIK, ka:
+i. ekspertizën për të kryer aktivitetet specifike të vlerësimit për të përcaktuar në mënyrë metodike një objektiv të rezistencës së vlerësimit kundër sulmuesve të aftë në mjedisin e tij operacional, duke supozuar një potencial sulmi “të moderuar” ose “të lartë”, sipas përcaktimeve në standardet e përmendura në nenin 3 të këtij vendimi;
+ii. kompetencat e duhura teknike, sipas specifikimeve në dokumentet teknike më të fundit, sipas përcaktimeve në aneksin I të këtij vendimi.
+c) kompetencat e duhura dhe vendos masat e duhura teknike dhe operacionale për të mbrojtur në mënyrë efektive informacionin konfidencial e sensitiv për nivelin e sigurisë “të lartë”, përveç kërkesave të përcaktuara në nenin 44 të këtij vendimi.
+2. Organi kombëtar i certifikimit të sigurisë kibernetike vlerëson nëse një ITSEF përmbush të gjitha kërkesat e përcaktuara në pikën 1 të këtij neni. Ky vlerësim përfshin të paktën intervista të strukturuara dhe një rishikim të të paktën një vlerësimi pilot të kryer nga ITSEF-i, në përputhje me këtë vendim.
+3. Në vlerësim, organi kombëtar i certifikimit të sigurisë kibernetike mund të ripërdorë çdo dëshmi të përshtatshme nga autorizimi paraprak ose aktivitete të ngjashme, sipas përcaktimeve në:
+a) këtë vendim;
+b) një skemë evropiane të certifikimit të sigurisë kibernetike.
+4. Organi kombëtar i certifikimit të sigurisë kibernetike harton një raport autorizimi, në përputhje me procedurat për monitorimin, autorizimin dhe mbikëqyrjen e veprimtarive të organeve të vlerësimit të konformitetit.
+5. Organi kombëtar i certifikimit të sigurisë kibernetike specifikon kategoritë e produkteve TIK dhe profilet e mbrojtjes, në të cilat shtrihet autorizimi. Autorizimi është i vlefshëm për një periudhë jo më të gjatë se vlefshmëria e akreditimit. Autorizimi mund të rinovohet me kërkesë, me kusht që ITSEF-i të plotësojë kërkesat, sipas përcaktimeve të këtij neni. Për rinovimin e autorizimit nuk kërkohen vlerësime pilot.
+6. Organi kombëtar i certifikimit të sigurisë kibernetike tërheq autorizimin e ITSEF-it, kur nuk plotëson kushtet sipas përcaktimeve të këtij neni. Pas tërheqjes së autorizimit, ITSEF-i pushon menjëherë së ushtruari veprimtarinë si një ITSEF i autorizuar.
+7. Vlerësimet e kryera dhe raportet teknike të lëshuara nga ITSEF-e të akredituara dhe të autorizuara në një shtet të Bashkimit Evropian kanë të njëjtën vlefshmëri si vlerësimet e kryera dhe raportet teknike të lëshuara nga ITSEF-e të akredituara e të autorizuara në Republikën e Shqipërisë.

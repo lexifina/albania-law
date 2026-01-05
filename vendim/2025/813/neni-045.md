@@ -1,0 +1,18 @@
+# Neni 45
+Kushtet
+1. Republika e Shqipërisë, për të certifikuar produktet në përputhje me rregulloret e Bashkimit Evropian dhe që një certifikim i tillë të njihet brenda Bashkimit Evropian, lidh një marrëveshje njohjeje reciproke me Bashkimin Evropian.
+2. Marrëveshja e njohjes reciproke mbulon nivelet e aplikueshme të sigurisë për produktet TIK të certifikuara dhe, sipas rastit, edhe profilet e mbrojtjes.
+3. Republika e Shqipërisë, për lidhjen e marrëveshjes së njohjes reciproke me Bashkimin Evropian, sipas përcaktimeve në pikën 1 të këtij neni, duhet të plotësojë kushtet, si më poshtë vijon:
+a) Të ketë një autoritet:
+i. publik, të pavarur nga subjektet që mbikëqyr dhe monitoron për nga struktura organizative e ligjore, burimi financiar dhe vendimmarrja;
+ii. me kompetencat e duhura monitoruese e mbikëqyrëse për të kryer verifikime dhe që është i autorizuar të marrë masat e duhura korrigjuese për të siguruar pajtueshmërinë;
+iii. me sistem penaliteti efektiv, proporcional dhe bindës për të siguruar pajtueshmërinë;
+iv. që dakordëson për të bashkëpunuar me Grupin Evropian të Certifikimit të Sigurisë Kibernetike dhe ENISA-n për të shkëmbyer praktikat më të mira dhe zhvillimet përkatëse në fushën e certifikimit të sigurisë kibernetike e për të punuar drejt një interpretimi uniform të kritereve dhe të metodave të vlerësimit aktualisht të zbatueshme, ndër të tjera, duke aplikuar dokumentacion të harmonizuar, që është ekuivalent me dokumentet teknike më të fundit, sipas përcaktimeve në aneksin I të këtij vendimi.
+b) Të ketë një autoritet përgjegjës të pavarur për akreditimin që kryen akreditime, sipas rregulloreve të Bashkimit Evropian;
+c) Të marrë angazhimin që proceset dhe procedurat e vlerësimit e të certifikimit të kryhen në mënyrë profesionale, duke marrë në konsideratë pajtueshmërinë me standardet ndërkombëtare, sipas përcaktimeve në nenin 3 të këtij vendimi;
+ç) Të ketë kapacitetin për të raportuar vulnerabilitete të pazbuluara më parë dhe një procedurë të vendosur, adekuate të menaxhimit e të zbulimit të vulnerabiliteteve;
+d) Të ketë procedura që e mundësojnë paraqitjen dhe trajtimin efektiv të ankesave dhe ofrimin e mjeteve juridike efektive për ankuesin;
+dh) Të krijojë një mekanizëm për bashkëpunimin me organet të Bashkimit Evropian dhe shteteve anëtare, që lidhen me certifikimin e sigurisë kibernetike, duke përfshirë ndarjen e informacionit në lidhje me mospajtueshmëritë e mundshme të certifikatave, monitorimin e zhvillimeve përkatëse në fushën e certifikimit, si dhe sigurimin e një qasjeje të përbashkët në mirëmbajtjen e rishikimin e certifikimit.
+4. Republika e Shqipërisë, përveç kushteve sipas përcaktimeve të pikës 3 të këtij neni, për lidhjen e një marrëveshje njohjeje reciproke me Bashkimin Evropian, sipas përcaktimeve të pikës 1 të këtij neni, që mbulon nivelin e sigurisë “të lartë”, duhet të plotësojë edhe kushtet, si më poshtë vijon:
+a) Të ketë një autoritet të pavarur e publik të certifikimit të sigurisë kibernetike, që kryen ose delegon aktivitetet e vlerësimit për të lejuar certifikimin në nivelin e sigurisë “të lartë”, që janë ekuivalente me kërkesat dhe procedurat e përcaktuara për autoritetet kombëtare të sigurisë kibernetike, sipas rregullores për skemën e certifikimit të sigurisë kibernetike bazuar në kriteret e përbashkëta, si dhe rregullores së sigurisë kibernetike të teknologjisë së informacionit dhe komunikimit të Bashkimit Evropian;
+b) Marrëveshja e njohjes reciproke të krijojë një mekanizëm të përbashkët të ngjashëm me vlerësimin e oponencës për certifikimin e sigurisë kibernetike bazuar në kriteret e përbashkëta, për të përmirësuar shkëmbimin e praktikave dhe për të zgjidhur së bashku çështjet në fushën e vlerësimit e të certifikimit.

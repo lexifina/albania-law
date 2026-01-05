@@ -1,0 +1,10 @@
+# Neni 48
+Raporti i vlerësimit të oponencës
+1. Ekipi i vlerësimit të oponencës i siguron organit certifikues një raport fillestar të vlerësimit të oponencës.
+2. Organi certifikues i vlerësuar nga ekipi i vlerësimit të oponencës i paraqet grupit të vlerësimit të oponencës komentet lidhur me përfundimet dhe një listë angazhimesh për të adresuar mangësitë e identifikuara në raportin fillestar të vlerësimit të oponencës.
+3. Ekipi i vlerësimit të oponencës i dorëzon Grupit Evropian të Certifikimit të Sigurisë Kibernetike një raport përfundimtar të vlerësimit të oponencës, i cili gjithashtu përfshin komentet dhe angazhimet e bëra nga organi certifikues i vlerësuar. Ekipi i vlerësimit të oponencës përfshin, gjithashtu, qëndrimin e tij mbi komentet, si dhe nëse ato angazhime janë të mjaftueshme për të adresuar mangësitë e identifikuara.
+4. Kur konstatohen moskonformitete në raportin e vlerësimit të oponencës, Grupi Evropian i Certifikimit të Sigurisë Kibernetike mund të caktojë një afat kohor të përshtatshëm për organin certifikues të vlerësuar për të trajtuar moskonformitetet.
+5. Grupi Evropian i Certifikimit të Sigurisë Kibernetike miraton një opinion mbi raportin e vlerësimit të oponencës, kur:
+a) raporti i vlerësimit të oponencës nuk identifikon moskonformitetet ose kur moskonformitetet janë adresuar në mënyrën e duhur nga organi certifikues i vlerësuar, Grupi Evropian i Certifikimit të Sigurisë Kibernetike mund të dalë në një përfundim pozitiv dhe të gjitha dokumentet përkatëse publikohen në faqen e internetit të certifikimit të ENISA-s;
+b) organi certifikues i vlerësuar nuk i trajton moskonformitetet në mënyrë të duhur, brenda afatit kohor të caktuar, Grupi Evropian i Certifikimit të Sigurisë Kibernetike mund të dalë në një përfundim negativ, i cili publikohet në faqen e internetit të certifikimit të ENISA, duke përfshirë raportin e vlerësimit të oponencës dhe të gjitha dokumentet përkatëse.
+6. Përpara publikimit të përfundimit, nga dokumentet e publikuara hiqen të gjitha informacionet e ndjeshme, personale ose të pronësisë.

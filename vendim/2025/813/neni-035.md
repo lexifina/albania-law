@@ -1,0 +1,7 @@
+# Neni 35
+Procedurat e menaxhimit të vulnerabilitetit
+1. Zotëruesi i një certifikate krijon dhe mirëmban të gjitha procedurat e nevojshme të menaxhimit të vulnerabiliteteve, në përputhje me rregullat e përcaktuara në këtë seksion dhe, kur është e nevojshme, të plotësuara nga procedurat e përcaktuara në ISO/IEC 30111 për teknologjinë e informacionit, teknikat e sigurisë dhe proceset e trajtimit të vulnerabiliteteve.
+2. Zotëruesi i një certifikate, bazuar në këtë vendim, mban e publikon metodat e duhura për marrjen e informacionit mbi vulnerabilitetet, që lidhen me produktet e tyre nga burime të jashtme, duke përfshirë përdoruesit, organet e certifikimit dhe kërkuesit në fushën e sigurisë.
+3. Kur zotëruesi i një certifikate, sipas përcaktimeve të këtij vendimi, zbulon ose merr informacion në lidhje me një vulnerabilitet të mundshëm që prek një produkt të certifikuar TIK, duhet ta regjistrojë atë dhe të kryejë një analizë të ndikimit të vulnerabilitetit.
+4. Kur një vulnerabilitet i mundshëm prek një produkt të përbërë, zotëruesi i certifikatës, bazuar në përcaktimet e këtij vendimi, informon zotëruesin e certifikatave të varura për vulnerabilitete të mundshme.
+5. Në përgjigje të një kërkese të arsyeshme nga organi certifikues që ka lëshuar certifikatën, zotëruesi i një certifikate, bazuar në përcaktimet e këtij vendimi, transmeton informacionin përkatës në lidhje me vulnerabilitetet e mundshme tek ai organ certifikues.
