@@ -1,0 +1,1 @@
+1. Miratimin e Kodit të Etikës në Shkencë dhe në Kërkim Shkencor, që zbatohet në zonën evropiane të kërkimit, në përputhje me Kodin Evropian të Sjelljes për Integritet në Kërkimin Shkencor, i cili rregullon normat e etikës në shkencë dhe në kërkim shkencor, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
