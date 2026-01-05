@@ -1,0 +1,1 @@
+5. Çdo ndryshim në të dhënat e deklaruara nga operatorët në regjistrin e vreshtave duhet të deklarohet në formularët e përcaktuar në aneksin I dhe IA, brenda 1 muaji nga data që kanë ndodhur ndryshimet.

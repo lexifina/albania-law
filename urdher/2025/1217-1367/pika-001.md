@@ -1,0 +1,1 @@
+1. Përcaktimin e formës dhe të përmbajtjes së kërkesës për regjistrim, në regjistrin e vreshtave, nga vreshtarët, vjelësit dhe prodhuesit, përpunuesit dhe mbushësit e shisheve, si dhe ndryshimeve në të dhëna ose heqjen nga regjistri i vreshtave, sipas formularëve të anekseve I, IA dhe II, bashkëlidhur këtij urdhri.

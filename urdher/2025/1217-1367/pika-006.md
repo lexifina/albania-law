@@ -1,0 +1,1 @@
+6. Drejtori i Agjencisë Rajonale të Ekstensionit Bujqësor përkatës, ose një person i deleguar prej tij, është përgjegjës për ngarkimin e informacionit në sistemin elektronik, brenda 10 ditëve pune nga data e dorëzimit të formularëve.

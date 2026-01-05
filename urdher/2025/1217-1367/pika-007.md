@@ -1,0 +1,1 @@
+7. Brenda 3 muajve nga regjistrimi i vreshtit nga vreshtarët ose vjelësit, një përfaqësues i institucionit përgjegjës për kadastrën e vreshtave shqiptare do të kryejë një vlerësim të detajuar të vreshtit duke plotësuar dhe shtuar të dhënat e formularit që gjendet në aneksin II, bashkëlidhur këtij urdhri.

@@ -1,0 +1,1 @@
+11. Të dhënat e regjistrit të vreshtave të parashikuara në pikën 10, të këtij urdhri, do të ruhen për aq kohë sa është e nevojshme për qëllime të monitorimit dhe verifikimit të masave ose skemës me të cilën ato lidhen dhe në çdo rast për të paktën 5 (pesë) vjet.

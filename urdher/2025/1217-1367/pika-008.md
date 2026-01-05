@@ -1,0 +1,1 @@
+8. Përfaqësuesi i institucionit përgjegjës për kadastrën e vreshtave shqiptare, gjatë vlerësimit të përcaktuar në pikën 7, të këtij urdhri, mund të përditësojë të dhënat e treguara nga vreshtarët ose vjelësit gjatë regjistrimit në regjistrin e vreshtave.
