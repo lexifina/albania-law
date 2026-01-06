@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për zbatimin e kërkesave për aplikimin e mureve të dyfishta ose dizajnit të barasvlershëm për anijet cisternë të naftës me një trup”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
