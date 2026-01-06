@@ -1,0 +1,1 @@
+1. Miratimin e Planit të Veprimit për Përmirësimin e kuadrit për rritjen e atraktivitetit të investimeve, veçanërisht të investimeve të huaja direkte, si dhe të mjedisit të biznesit, nëpërmjet derregullimit dhe modernizimit të shërbimeve për biznesin, sipas tekstit bashkëlidhur këtij urdhri.

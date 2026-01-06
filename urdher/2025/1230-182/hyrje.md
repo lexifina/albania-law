@@ -1,0 +1,5 @@
+URDHËR
+Nr. 182, datë 30.12.2025
+PËR MIRATIMIN E PLANIT TË VEPRIMIT PËR PËRMIRËSIMIN E KUADRIT PËR RRITJEN E ATRAKTIVITETIT TË INVESTIMEVE, VEÇANËRISHT TË INVESTIMEVE TË HUAJA DIREKTE, SI DHE TË MJEDISIT TË BIZNESIT, NËPËRMJET DERREGULLIMIT DHE MODERNIZIMIT TË SHËRBIMEVE PËR BIZNESIN
+Në mbështetje të pikës 4, të nenit 102 të Kushtetutës; të ligjit nr. 9000, datë 30.1.2003, “Për organizimin dhe funksionimin e Këshillit të Ministrave”, të VKM-së nr. 516, datë 25.9.2025, “Për përcaktimin e fushës së përgjegjësive shtetërore të Ministrisë së Ekonomisë dhe Inovacioni”; të VKM-së nr. 621, datë 10.10.2024, “Për miratimin e dokumentit të politikës ’Agjenda Kombëtare e Reformave 2024-2027’”, në kuadër të instrumentit të Bashkimit Evropian “Faciliteti për reforma dhe rritje për Ballkanin Perëndimor”, masa 1.1.4, lidhur me “Përmirësimin e kuadrit për rritjen e atraktivitetit të investimeve, veçanërisht të investimeve të huaja direkte, si dhe i mjedisit të biznesit, nëpërmjet derregullimit dhe modernizimit të shërbimeve për biznesin”,
+URDHËROJ:
