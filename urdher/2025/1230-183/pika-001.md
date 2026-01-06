@@ -1,0 +1,1 @@
+1. Miratimin e Planit të Veprimit për Promovimin e Eksporteve dhe Ndërkombëtarizimin e Ndërmarrjeve, përfshirë lehtësimin e eksporteve dhe tregtisë përmes Korridoreve të Gjelbra, sipas tekstit bashkëlidhur këtij urdhri, i cili është pjesë përbërëse e tij.
