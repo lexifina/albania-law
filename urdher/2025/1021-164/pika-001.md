@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi aspekte të caktuara të kushteve të punës së punonjësve të lëvizshëm të angazhuar në shërbime ndërvepruese ndërkufitare në sektorin hekurudhor”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
