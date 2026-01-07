@@ -1,0 +1,9 @@
+LIGJ
+Nr. 69/2025
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË MEMORANDUMIN
+E MIRËKUPTIMIT PËR KONTROLLIN SHTETËROR PORTUAL NË RAJONIN
+E MESDHEUT, BËRË NË MALTË, MË 11 KORRIK 1997
+Në mbështetje të neneve 78, 83, pika 1, dhe 121, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
