@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave menaxheriale dhe vendimmarrëse të titullarit të autoritetit kontraktor të SUOGJ-së “Mbretëresha Geraldinë”, në lidhje me zhvillimin e procedurave të prokurimit publik me fonde buxhetore, zëvendësdrejtorit Ekonomik/Administrativ të këtij institucioni, znj. Arta Hajro.
