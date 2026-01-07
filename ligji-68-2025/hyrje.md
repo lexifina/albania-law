@@ -1,0 +1,8 @@
+LIGJ
+Nr. 68/2025
+PËR PRANIMIN E NDRYSHIMEVE TË STATUTIT TË ROMËS PËR GJYKATËN NDËRKOMBËTARE PENALE PËR KRIMIN E AGRESIONIT, RATIFIKUAR
+ME LIGJIN NR. 8984, DATË 23.12.2002
+Në mbështetje të neneve 78, 81, pika 1, 83, pika 1, dhe 121, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
