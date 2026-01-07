@@ -1,0 +1,26 @@
+{
+  "qbz_id": 31995,
+  "title": "Për një ndryshim në ligjin nr. 8454, datë 4.2.1999, “Për Avokatin e Popullit”, i ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "78",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2025-12-04",
+  "published": "2025-12-23",
+  "in_force": "2026-01-07",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/f7e1cc7b583f705a696c805ef624d7f3959e65060f92a3770f2623dd1979323c.docx",
+  "source_sha256": "f7e1cc7b583f705a696c805ef624d7f3959e65060f92a3770f2623dd1979323c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/31995",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2025/12/04/78",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
