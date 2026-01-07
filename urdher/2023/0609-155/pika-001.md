@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor për procedurat e prokurimit me të ardhurat dytësore dhe financimet e tjera, në Spitalin Universitar Obstetrik Gjinekologjik “Mbretëresha Geraldinë”, zv.drejtorit Ekonomik/Administrativ, znj. Arta Hajro.
