@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e rregullave për mbajtjen e deklaratave nga operatorët dhe mënyrën e grumbullimit të informacionit për prodhimin potencial”, sipas tekstit bashkëlidhur këtij urdhri.

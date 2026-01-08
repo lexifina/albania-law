@@ -1,0 +1,1 @@
+2. Për zbatimin e këtij urdhri ngarkohet struktura përgjegjëse për vreshtarinë dhe verën në Ministri, Qendra e Transferimit të Teknologjive Bujqësore në Fushë-Krujë, si dhe Agjencitë Rajonale të Ekstensionit Bujqësor.
