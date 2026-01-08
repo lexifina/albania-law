@@ -1,0 +1,6 @@
+# Neni 3
+Aplikimi për certifikimin e verërave pa EOM ose TGJM
+1. Procedura për certifikimin, miratimin dhe verifikimin e përdorimit të vitit të vjeljes dhe/ose emrin e një apo më shumë varieteteve, në etiketimin e verërave pa EOM ose TGJM, nis me një njoftim paraprak.
+2. Operatori duhet t’i komunikojë paraprakisht autoritetit kompetent fillimin e operacioneve të mbushjes dhe mundësisht numrin e lotit që i është caktuar ngarkesës nëpërmjet përdorimit të formularit “Njoftim paraprak i mbushjes së verërave varietore”, sipas modelit në shtojcën 1 të këtij urdhri.
+3. Aplikimi në përputhje me pikat 1 dhe 2 të këtij neni bëhet të paktën 5 (pesë) ditë pune përpara fillimit të operacioneve të ambalazhimit, nëpërmjet aplikimit me shkresë, elektronikisht ose online nëpërmjet portalit qeveritar e-Albania.
+4. Për të provuar saktësinë dhe vërtetësinë e të dhënave që lidhen me varietetin/et e rrushit të përdorur, dhe vitin e vjeljes, që shënohet në etiketë, apo paraqitet në mënyrë tjetër në prezantimin e produktit, aplikimi shoqërohet me dokumentacion mbështetës si kopje e deklaratës së vjeljes, deklaratës së prodhimit, regjistrit të prodhimit, ose dokumentit shoqërues të produktit në fjalë, sipas specifikimeve të formularit në shtojcën 1 të këtij urdhri.
