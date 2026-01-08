@@ -1,0 +1,1 @@
+2. Ngarkohen për zbatimin e këtij urdhri të gjitha autoritetet publike sipas përcaktimit në pikën 1, të nenit 2, të ligjit nr. 119/2014, “Për të drejtën e informimit”, të ndryshuar, me përjashtim të njësive të vetëqeverisjes vendore.

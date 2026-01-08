@@ -1,0 +1,1 @@
+3. Autoritetet publike të përcaktuara në pikën 2 të këtij urdhri, zbatojnë Programin Institucional të Transparencës, sipas formës dhe përmbajtjes në përputhje me lidhjen nr. 1, bashkëlidhur këtij urdhri, jo më vonë se data 31 mars 2026.
