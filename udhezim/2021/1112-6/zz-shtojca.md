@@ -1035,19 +1035,42 @@ Mangësitë që nuk janë të listuara në këtë aneks do të vlerësohen në l
 | | |d. Çelësi i dëmtuar ose nuk funksionon në mënyrë korrekte. | |X | |
 | | |e. Indikatori i keqfunksionimit të sistemit ESC tregon një defekt çfarëdo të sistemit. | |X | |
 | | |f. Sistemi tregon defekt nëpërmjet ndërfaqes elektronike të automjetit. | |X | |
-|8. NDIKIMI NË MJEDIS |
-|8.1. Zhurma |
-|8.1.1. Sistemi për reduktimin e |Vlerësim subjektiv (vetëm nëse |a. Niveli i zhurmës tejkalon nivelin e lejuar në kërkesën1. | |X | |
+|7.13 eThirrje (në se disponohet, në | | | |X | |
+|përputhje me legjislacionin e | | | | | |
+|homologimit)[2] | | | | | |
+|7.13.1 |Inspektim vizual i plotësuar, kur |a) Mungesa e sistemit ose |X | | |
+|Vendosja dhe konfigurimi |është e mundur nga karakteristikat |ndonjë komponenti; | | | |
+| |teknike të mjetit dhe kur të dhënat e|b) Versioni i programit jokorrekt; |X | | |
+| |nevojshme janë të disponueshme, me |c) Kodimi i sistemit jokorrekt. | | | |
+| |përdorimin e ndërfaqes elektronike. | | | | |
+|7.13.2 |Inspektim vizual i plotësuar, kur |a) Sistemi ose komponentët; |X | | |
+|Gjendja funksionale |është e |b) Indikatori i funksionimit për eThirrje tregon defekt të sistemit; |X | | |
+| |mundur nga karakteristikat teknike të|c) Defekti i njësisë së kontrollit elektronik të eThirrje-s; |X | | |
+| |mjetit dhe kur të dhënat e nevojshme |d) Defekt i njësisë të rrjetit të komunikimit të lëvizshëm; |X | | |
+| |janë të disponueshme, me përdorimin e|e) Defekti i sinjalit GPS; |X | | |
+| |ndërfaqes elektronike. |f) Komponentët e zërit jo të lidhur; |X | | |
+| | |g) Burimi i energjisë i palidhur ose ngarkesë e pamjaftueshme; |X | | |
+| | |h) Sistemi tregon defekt përmes ndërfaqes elektronike të mjetit; |X | | |
+|7.13.3 |Inspektim vizual i plotësuar, kur |a) Përbërësit minimal të të dhënave jokorrekt; |X | | |
+| |është e mundur nga karakteristikat |b) Komponentët e zërit nuk punojnë në rregull. |X | | |
+| |teknike të mjetit dhe kur të dhënat e| | | | |
+| |nevojshme janë të disponueshme, me | | | | |
+| |përdorimin e ndërfaqes elektronike. | | | | |
+| | | | | | |
+| | | | | | |
+|8. NDIKIMI NË MJEDIS | |e) Defekti i sinjalit GPS; |
+|8.1. Zhurma | |f) Komponentët e zërit jo të lidhur; |
+|8.1.1. Sistemi për reduktimin e |Vlerësim subjektiv (vetëm nëse |g) Burimi i energjisë i palidhur ose ngarkesë e pamjaftueshme; | |X | |
 |zhurmës |inspektuesi e konsideron nivelin e | | | | |
 | |zhurmave brenda kufijve, dhe në këtë | | | | |
 | |rast mund të kryhet një matje e | | | | |
 | |nivelit të zhurmave të nxjerra nga | | | | |
 | |mjeti i ndaluar në vend duke përdorur| | | | |
 | |një matës të nivelit të zhurmave) | | | | |
-| | |b. Një pjesë çfarëdo e sistemit për reduktimin e zhurmës i lirshëm, i dëmtuar, i instaluar| |X | |
-| | |në mënyrë jokorrekte, mungon ose dukshëm i modifikuar në një mënyrë që ndikon negativisht | | | |
-| | |në nivelin e zhurmës. | | | |
-| | |- Rrezik serioz për të rënë. | | | |
+| | |h) Sistemi tregon defekt përmes ndërfaqes elektronike të mjetit; | |X | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
 | | | | | |X |
 |8.2. Emetimi i gazrave të shkarkimit |
 |8.2.1. Emetimi i gazrave të shkarkimit në motorët me ndezje të komanduar |
@@ -1512,3 +1535,4 @@ d. Organet mbikëqyrëse:
 - apelimet dhe ankesat.
 -----------------------
 [1] Ky udhëzim është përafruar plotësisht me direktivën 2014/45/BE, të Parlamentit Evropian dhe të Këshillit, datë 3 prill 2014 “Mbi kontrollin teknik periodik të automjeteve dhe rimorkiove të tyre, dhe që shfuqizon direktivën 2009/40/KE”. Numri CELEX 32009L0103, Fletorja Zyrtare e Bashkimit Evropian, seria L, numër 127, datë 29.04.2014, faqe 51-128.
+[2] Shtuar pika 7.13 me udhëzimin nr. 5, datë 29.12.2025.
