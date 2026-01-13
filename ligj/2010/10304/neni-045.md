@@ -7,7 +7,7 @@ c) mosrespektimi i detyrimeve dhe/apo kushteve që janë përcaktuar në lejen m
 ç) shkelja e dispozitave të neneve 13 pika 5, 18 pika 1 shkronja “b”, 20 pika 1 shkronja “b”, 25 shkronja “b”, 27 pika 2 shkronja “a” dhe 36 pikat 8 dhe 11 të këtij ligji, me gjobë deri në 100 000 (njëqind mijë) lekë për çdo shkelje;
 d) shkelja e dispozitave të neneve 13 pika 11, 18 pika 1 shkronja “c”, 25 shkronja “c”, 27 pika 2 shkronja “b” dhe 36 pikat 12, 14, 15 e 23 të këtij ligji, me gjobë 150 000 (njëqind e pesëdhjetë mijë) lekë për çdo shkelje;
 dh) shkelja e dispozitave të neneve 13 pika 12, 18 pika 1 shkronja “ç”, 25 shkronja “ç”, 27 pika 2 shkronja “c” dhe 36 pika 13 dhe pika 25 shkronja “a” të këtij ligji, me gjobë 250 000 (dyqind e pesëdhjetë mijë) lekë për çdo shkelje;
-e) shkelja e dispozitave të neneve 13 pika 13, 18 pika 1 shkronja “ë”, 20 pika 1 shkronja “c” dhe 25 shkronja “d” të këtij ligji, me gjobë 300 000 (treqind mijë) lekë për çdo shkelje;
+e) shkelja e dispozitave të neneve 13, pika 13; 18, pika 1, shkronja “ë”; 20, pika 1, shkronja “c”, dhe 25, shkronja “ë”, të këtij ligji, me gjobë 300 000 (treqind mijë) lekë për çdo shkelje;
 ë) shkelja e dispozitave të neneve 36 pikat 3, 4, 6, 7 e 10 të këtij ligji, me gjobë 200 000 (dyqind mijë) lekë për çdo shkelje;
 f) shkelja e dispozitave të nenit 37 pika 2 të këtij ligji, me gjobë 500 000 (pesëqind mijë) lekë për çdo shkelje;
 g) shkelja e dispozitave të nenit 37 pika 3 të këtij ligji, me gjobë 800 000 (tetëqind mijë) lekë për çdo shkelje.
@@ -18,3 +18,4 @@ g) shkelja e dispozitave të nenit 37 pika 3 të këtij ligji, me gjobë 800 000
 Njësia e ankimit ngrihet dhe funksionon sipas rregullave dhe procedurave të përcaktuara me udhëzim të ministrit.
 6. Gjoba paguhet brenda një periudhe prej 30 ditësh kalendarike nga njoftimi i saj, përveçse kur vendimi për dhënien e saj është pezulluar sipas legjislacionit në fuqi.
 7. Kryerja për herë të dytë nga i njëjti subjekt i shkeljeve të parashikuara në shkronjat “d” dhe “dh” të pikës 1 të këtij neni dënohet me dyfishin e gjobës së parashikuar dhe mund të shoqërohet me pezullimin e lejes minerare deri në plotësimin detyrimit.
+8. Të ardhurat nga gjobat për shkeljet e përcaktuara nga ky ligj i kalojnë në masën 60 për qind strukturës që ka verifikuar shkeljen, me qëllim përmirësimin e shërbimit, në zbatim të këtij ligji, kurse 40 për qind i kalojnë shtetit.

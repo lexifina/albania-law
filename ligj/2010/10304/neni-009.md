@@ -10,7 +10,7 @@ b) e lejeve të kërkim-zbulimit, nëse në përfundim të afatit të lejes subj
 c) e lejeve të shfrytëzimit të braktisura nga zotëruesit e lejeve;
 ç) e minierave apo punimeve të vjetra minerare të braktisura, të cilat mund të rezultojnë me interes publik për shfrytëzim.
 3. Objekti i dhënies së lejes së kërkim-zbulimit me procedurë konkurruese, sipas kritereve të përcaktuara në pikën 1, të këtij neni, kur nuk ka kërkesa për leje shfrytëzimi, janë të gjitha zonat:
-a) për të cilat nuk ka informacion gjeologjik;
+a) shfuqizuar;
 b) për të cilat ka informacion gjeologjik, por ka interes për studim më të hollësishëm dhe besueshmëri më të lartë në lidhje me të dhënat për zonën;
 c) që u përkasin lejeve të kërkim-zbulimit, nëse në përfundim të afatit të tyre subjekti minerar, edhe pse ka zbuluar një sasi rezervash, nuk e ka kaluar në leje shfrytëzimi dhe ka interes për të vazhduar kërkim-zbulimin për këtë zonë, me qëllim rritjen e besueshmërisë dhe sasisë së rezervave;
 ç) në minierat apo punimet e vjetra e të braktisura, për të cilat ka interes për studime ose saktësime në drejtim të rezervave minerare.

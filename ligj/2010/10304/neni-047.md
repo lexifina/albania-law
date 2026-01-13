@@ -6,7 +6,7 @@ a/1) konstatohet se zona e licencuar ka mbivendosje të plotë ose të pjesshme,
 b) zotëruesi i lejes minerare nuk fillon veprimtarinë minerare në afatin e përcaktuar më poshtë nga hyrja në fuqi e lejes:
 i) leje kërkim-zbulimi për të gjitha grupet e mineraleve, 120 ditë kalendarike;
 ii) leje shfrytëzimi për të gjitha grupet e mineraleve, 180 ditë kalendarike;
-c) zotëruesi i lejes minerare pezullon për 1 vit ose ndërpret veprimtarinë minerare, pa njoftuar më parë, jo më vonë se 90 ditë kalendarike, strukturat përgjegjëse të veprimtarisë minerare, duke përfshirë në njoftim dhe arsyet e këtij pezullimi ose ndalimi;
+c) zotëruesi i lejes minerare pezullon ose ndërpret veprimtarinë minerare pa miratimin e ministrisë;
 ç) zotëruesi i lejes minerare, brenda 30 ditëve kalendarike nga data e çdo viti në vazhdim, që i korrespondon datës së hyrjes në fuqi të lejes, nuk paraqet dokumentin e garancisë financiare të zbatimit të planit të rehabilitimit, dokumentin e garancisë financiare të zbatimit të programit minimal të punës, dokumentin e garancisë financiare të zbatimit të investimit;
 d) zotëruesi nuk paguan rentën minerare sipas afateve të legjislacionit në fuqi;
 dh) zotëruesi i lejes së shfrytëzimit minerar të grupit të mineraleve metalore, jometalore, qymyret dhe bitumet apo grupit të mineraleve ndërtimore vazhdon të përdorë praktika të dëmshme të shfrytëzimit të mineraleve dhe të trajtimit të tyre, ose i drejton operacionet e punës në kundërshtim me projektin e miratuar;
@@ -16,8 +16,7 @@ f) zotëruesi i lejes së shfrytëzimit për dy vjet radhazi dështon në realiz
 g) nuk kryen detyrat e lëna nga struktura përgjegjëse, brenda afateve të caktuara në vendimin e pezullimit, në përputhje me nenin 46 të këtij ligji;
 gj) zotëruesi nuk i paraqet informacionet e kërkuara nga struktura përgjegjëse, paraqet informacione të pavërteta apo pengon strukturën përgjegjëse në ushtrimin e funksioneve të inspektimit, në zbatim të këtij ligji;
 h) organi kompetent, sipas legjislacionit në fuqi, ka revokuar lejen mjedisore;
-i) zotëruesi i lejes minerare nuk respekton kërkesat e shkronjës “c” të pikës 25 të nenit 36 të këtij ligji.
-j) Në rast se zotëruesi i lejes minerare shkel kërkesat e shkronjës “e”, të pikës 1, të nenit 18.
+i) zotëruesi i lejes minerare nuk respekton kërkesat e shkronjës “c” të pikës 25 të nenit 36 të këtij ligji. j) Në rast se zotëruesi i lejes minerare shkel kërkesat e shkronjës “e”, të pikës 1, të nenit 18.
 2. Leja minerare, që përfshin shfrytëzimin minerar, revokohet edhe:
 a) me kërkesë të zotëruesit, kur ai ka plotësuar të gjitha detyrimet e lejes minerare;
 b) kur janë mbaruar rezervat gjeologjike dhe zotëruesi e kërkon revokimin e lejes;

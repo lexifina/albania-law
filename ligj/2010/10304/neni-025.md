@@ -1,7 +1,7 @@
 # Neni 25
-Detyrimet e zotëruesit të lejes së shfrytëzimit me karrierë të mineraleve
+Detyrimet e zotëruesit të lejes së shfrytëzimit me minierë sipërfaqësore të mineraleve
 dhe grupit të mineraleve ndërtimore
-Zotëruesi i lejes së shfrytëzimit me karrierë të mineraleve dhe materialeve të ndërtimit, të grupit të mineraleve ndërtimore, ka këto detyrime:
+Zotëruesi i lejes së shfrytëzimit me minierë sipërfaqësore të mineraleve dhe materialeve të ndërtimit, të grupit të mineraleve ndërtimore, ka këto detyrime:
 a) të realizojë programin e investimit, të parashikuar në planin vjetor të veprimtarive minerare dhe projektin e zhvillimit të këtyre veprimtarive;
 b) të paraqesë pranë strukturës përgjegjëse çdo 6 muaj kalendarikë, jo më vonë se data 15 e muajit që vijon pas gjashtëmujorit përkatës kalendarik, një informacion mbi realizimin e prodhimit, investimeve, vlerën e produkteve të shitura, punimeve minerare të realizuara dhe gjithë operacioneve të kryera për rehabilitimin e mjedisit dhe menaxhimin e mbetjeve minerare, në përputhje me detyrimet e tij të lejes minerare dhe planin vjetor;
 c) të paraqesë pranë strukturës përgjegjëse çdo vit kalendarik, jo më vonë se 30 ditë nga përfundimi i vitit përkatës, raportin financiar dhe teknik të të gjitha operacioneve të kryera, në përputhje me detyrimet e përcaktuara në lejen e tij minerare dhe planin vjetor të punës;
@@ -11,6 +11,9 @@ dh) të njoftojë jo më pak se 90 ditë kalendarike më parë nëse kërkon ta 
 e) të njoftojë jo më pak se 30 ditë kalendarike më parë nëse kërkon ta zvogëlojë më shumë se 20 për qind sasinë e prodhimit të parashikuar në planin e miratuar të prodhimit, pjesë e lejes përkatëse;
 ë) t’i raportojë strukturës përgjegjëse, në përfundim të afatit të së drejtës së shfrytëzimit, me një informacion të hollësishëm, siç parashikohet në aktet nënligjore të miratuara nga ministri, për investimet e realizuara gjatë shfrytëzimit, për punimet minerare të kryera në zonën e tij të lejuar, shoqëruar me vizatimet inxhinierike;
 f) të ketë personel të kualifikuar teknik gjatë gjithë kohëzgjatjes së lejes së shfrytëzimit.
-Njoftimi, sipas shkronjave “d”, “dh” dhe “e” të këtij neni, duhet të përmbajë një informacion të hollësishëm për arsyet e pushimit, pezullimit ose të uljes së prodhimit.
+Njoftimi, sipas shkronjave “d”, “dh” dhe “e” të këtij neni, duhet të përmbajë një informacion të hollësishëm për arsyet e ndërprerjes, pezullimit ose të uljes së prodhimit.
+Njoftimi i pezullimit, sipas shkronjës “dh” të këtij neni, miratohet nga ministri për një afat jo më të gjatë se 2 vjet.
+Në tri vitet e para të ushtrimit të veprimtarisë minerare, zotëruesi i lejes minerare nuk mund të paraqesë kërkesë për pezullim të përkohshëm.
+Procedurat dhe rregullat për shkaqet dhe mënyrën e njoftimit për pezullim nga ana e zotëruesit të lejes miratohen nga ministri në bashkërendim me strukturat përgjegjëse për veprimtarinë minerare.
 SEKSIONI I KATËRT
 LEJA MINERARE PËR GRUPIN E MINERALEVE TË ÇMUARA DHE GJYSMË TË ÇMUARA DHE GRUPIN E MINERALEVE RADIOAKTIVE

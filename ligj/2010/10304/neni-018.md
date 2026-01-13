@@ -11,7 +11,10 @@ dh) të njoftojë jo më pak se 90 ditë kalendarike më parë, nëse kërkon ta
 e) të njoftojë jo më pak se 30 ditë kalendarike më parë, nëse kërkon ta zvogëlojë më shumë se 20 për qind sasinë e prodhimit, të parashikuar në planin e miratuar të prodhimit, pjesë e lejes përkatëse;
 ë) t’i raportojë strukturës përgjegjëse, në përfundim të afatit të së drejtës së shfrytëzimit, me një informacion të hollësishëm, siç përshkruhet në aktet nënligjore, të miratuara nga ministri, për investimet e realizuara gjatë shfrytëzimit, për punimet minerare të kryera në zonën e tij të lejuar, shoqëruar me vizatimet inxhinierike.
 f) të ketë personel të kualifikuar teknik gjatë gjithë kohëzgjatjes së lejes së shfrytëzimit.
-2. Njoftimi, sipas shkronjave “d”, “dh” dhe “e” të pikës 1 të këtij neni, duhet të përmbajë një informacion të hollësishëm për arsyet e pushimit, pezullimit apo uljes së prodhimit.
+2. Njoftimi, sipas shkronjave “d”, “dh” dhe “e” të pikës 1 të këtij neni, duhet të përmbajë një informacion të hollësishëm për arsyet e ndërprerjes, pezullimit apo uljes së prodhimit.
+2/1. Njoftimi i pezullimit, sipas shkronjës “dh” të pikës 1 të këtij neni miratohet nga ministri për një afat jo më të gjatë se 2 (dy) vjet.
+Në tri vitet e para të ushtrimit të veprimtarisë minerare, zotëruesi i lejes minerare nuk mund të paraqesë kërkesë për pezullim të përkohshëm.
+Procedurat dhe rregullat për shkaqet dhe mënyrën e njoftimit për pezullim nga ana e zotëruesit të lejes miratohen nga ministri në bashkërendim me strukturat përgjegjëse për veprimtarinë minerare.
 3. Shfuqizuar.
 SEKSIONI I TRETË
 SHFRYTËZIMI I GRUPIT TË MINERALEVE NDËRTIMORE
