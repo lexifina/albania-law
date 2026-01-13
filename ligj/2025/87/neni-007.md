@@ -1,0 +1,5 @@
+# Neni 7
+Fondi i rindërtimit për përballimin e pasojave të tërmetit
+1. Fondi i rindërtimit për përballimin e pasojave të tërmetit të vitit 2019 prej 5 000 milionë lekësh përdoret për të përballuar kostot për projektet e miratuara dhe të pafinancuara të viteve të mëparshme dhe pjesa e mbetur për projekte të reja.
+Ky fond shton kufijtë e shpenzimeve për çdo ministri dhe institucion në nivel programi dhe kufijtë e transfertës së pakushtëzuar, të miratuar në tabelat 1 dhe 3, të përmendura në nenet 11 e 15 të këtij ligji.
+2. Çdo e ardhur në formë granti, me destinacion përballimin e pasojave të tërmetit, rrit në të njëjtën masë të ardhurat dhe shpenzimet e fondit të rindërtimit, duke shtuar kufijtë e përcaktuar në nenet 1, 2, 3 e 11, si dhe kufijtë e miratuar në tabelat 1, 3 dhe 4, të përmendura në nenet 11 e 15 të këtij ligji. Fondet që rishpërndahen me vendim të Këshillit të Ministrave nga programet sipas tabelës 1 të këtij ligji, si ato korrente dhe ato kapitale, në fondin e rindërtimit, nuk u nënshtrohen kufijve të përcaktuar në nenin 17 të këtij ligji.
