@@ -1,0 +1,6 @@
+# Neni 8
+Detyrimi për regjistrim dhe kontrata me shoqërinë për përgjegjësinë e zgjeruar
+të subjektit prodhues
+1. Çdo subjekt prodhues, në cilësinë e zotëruesit të rrymës specifike të mbetjeve, në rast se nuk e organizon vetë sistemin e marrjes mbrapsht, të grumbullimit e të trajtimit të mbetjeve, regjistrohet në SHPZP sipas rrymës përkatëse për të cilën është subjekt i detyrimeve të PZP-së.
+2. Subjekti prodhues, subjekt i PZP-së, nënshkruan një kontratë me SHPZP-në për përmbushjen e detyrimeve që rrjedhin nga sistemi i PZP-së, sipas parashikimeve të shkronjave “b” dhe “c” të pikës 3 të nenit 6 të këtij ligji për të paktën një vit fiskal.
+3. Subjekti prodhues lidh kontratë të veçantë vetëm me një SHPZP për çdo rrymë mbetjeje të caktuar dhe në kontratë, përveç të drejtave dhe detyrimeve ndërmjet palëve, parashikohen shprehimisht rastet kur SHPZP-ja nuk arrin të përmbushë detyrimet e subjektit prodhues për PZP-në dhe objektivat e lidhur me to, si dhe/ose është në pamundësi financiare për të paguar penalitetet për mospërmbushjen e detyrimeve. Në çdo rast, detyrimet paguhen në përputhje me përqindjen e produkteve të vendosura në tregun vendas për vitin në të cilin objektivi nuk është përmbushur.

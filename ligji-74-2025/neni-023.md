@@ -1,0 +1,6 @@
+# Neni 23
+Procedura e kundërvajtjeve administrative
+1. Kontrolli i zbatimit të këtij ligji dhe i akteve nënligjore të dala në zbatim të tij, si dhe vendosja e gjobës dhe/apo pezullimi ose ndërprerja e veprimtarisë, sipas legjislacionit në fuqi për inspektimin, kryhet nga struktura përgjegjëse inspektuese në fushën e mjedisit dhe struktura përgjegjëse inspektuese për mbikëqyrjen e tregut sipas fushës së përgjegjësisë së tyre.
+2. Konstatimi i shkeljeve që përbëjnë kundërvajtjeve administrative të parashikuara në nenin 22 të këtij ligji dhe vendosja e gjobës bëhet nga struktura përgjegjëse për inspektimin në mjedis dhe struktura përgjegjëse inspektuese për mbikëqyrjen e tregut sipas fushës së përgjegjësisë së tyre.
+3. Kundër vendimit të masës administrative të vendosur nga struktura përgjegjëse inspektuese për mbikëqyrjen e tregut bëhet ankim në përputhje me legjislacionin e posaçëm në fuqi për inspektimin e mbikëqyrjes së tregut.
+4. Kundër vendimit të masës administrative të vendosur nga struktura përgjegjëse për inspektimin në mjedis bëhet ankim në përputhje me ligjin për inspektimin dhe shqyrtimi e marrja e vendimit përfundimtar, ekzekutimi dhe ankimi ndaj tij bëhen në përputhje me Kodin e Procedurave Administrative, si dhe me legjislacionin në fuqi për inspektimin.
