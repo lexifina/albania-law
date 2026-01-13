@@ -1,0 +1,28 @@
+{
+  "qbz_id": 54882,
+  "title": "Për krijimin e shoqërisë aksionare \"Operatori i Shërbimeve të Integruara të Sterilizimit\", sh.a., (OSHIS sh.a) për ofrimin e shërbimeve të integruara të procesit të sterilizimit",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "845",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2025-12-30",
+  "published": "2026-01-13",
+  "in_force": "2026-01-13",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/445a3a48ac64e75f99e9905c398c717318d33935a484bc478b3e81c120e20f43.docx",
+  "source_sha256": "445a3a48ac64e75f99e9905c398c717318d33935a484bc478b3e81c120e20f43",
+  "official_record": "https://qbz.gov.al/api/v1/acts/54882",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2025/12/30/845",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    34055
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
