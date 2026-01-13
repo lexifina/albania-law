@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave që lidhen me procedurat e verifikimit të sigurisë së individëve, që aplikojnë për Certifikatë Sigurie të Personelit (CSP) dhe operatorëve ekonomikë, që aplikojnë për Certifikatë të Sigurisë Industriale (CSI), z. Mark Ndreca me detyrë drejtor i Drejtorisë së Vetting-ut dhe Sigurisë Industriale.
