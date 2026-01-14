@@ -1,0 +1,1 @@
+11. Të merren masa për të ndërtuar mekanizma dhe procedura të pjesëmarrjes, të lidhura me prokurimin e përbashkët me Bashkimin Evropian, por edhe vendet fqinje të rajonit, për mjetet, medikamentet, vaksinat dhe pajisjet e nevojshme mjekësore të përgjigjes, duke përcaktuar qartë procedurën, vlerësimin e prokurimit të përbashkët e të tenderimit, si dhe të menaxhimit të kontratës.

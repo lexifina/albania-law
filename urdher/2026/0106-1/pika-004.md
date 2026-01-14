@@ -1,0 +1,1 @@
+4. Shqipëria do të ruajë të drejtën të fusë në zbatim marrëveshje, procedura dhe masa shtesë në fushat e përmendura në pikat 2 dhe 3, të këtij urdhri, përfshirë marrëveshjet e parashikuara në traktate ose konventa dypalëshe apo shumëpalëshe, ekzistuese ose të ardhshme, me kusht që këto të mos pengojnë zbatimin e këtij urdhri.

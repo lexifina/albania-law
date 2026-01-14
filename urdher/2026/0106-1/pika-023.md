@@ -1,0 +1,2 @@
+23. Ministria përgjegjëse për shëndetësinë, në rastin kur i duhet të miratojë si çështje urgjente masa të shëndetit publik në përgjigje të shfaqjes ose rishfaqjes së një kërcënimi serioz në nivel kufitar për shëndetin, duhet të informojë menjëherë OBSH-në, ECDC-në dhe Komisionin Evropian për natyrën, qëllimin dhe fushëveprimin e këtyre masave, veçanërisht në rajonet në nivel kufitar.
+Nëse është e nevojshme, në rast të një kërcënimi serioz në nivel kufitar për shëndetin, mund të kërkojë ndihmë nga Komisioni Evropian, OBSH-ja dhe vende të tjera partnere.

@@ -1,0 +1,1 @@
+20. Instituti i Shëndetit Publik të krijojë kapacitetet, të përgatisë raporte në lidhje me vlerësimin e riskut për shëndetin publik dhe të koordinojë veprimet e tij me ministrinë përgjegjëse për shëndetësinë.

@@ -1,0 +1,1 @@
+27. Ministria përgjegjëse për shëndetësinë merr masa për kryerjen e vlerësimeve përkatëse të përgjigjes, menjëherë pas datës së përfundimit të kërcënimit përkatës serioz në nivel kufitar për shëndetin.

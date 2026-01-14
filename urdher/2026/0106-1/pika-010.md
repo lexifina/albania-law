@@ -1,0 +1,1 @@
+10. Të sigurohet pjesëmarrja në trajnimet për elementet përkatëse të planeve kombëtare të parandalimit, përgatitjes dhe përgjigjes, dhe ato të Komisionit Evropian, të organizuara nga ECDC-ja dhe OBSH-ja.

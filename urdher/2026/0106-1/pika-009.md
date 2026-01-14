@@ -1,0 +1,1 @@
+9. Të paraqitet pranë ECDC-së dhe Komisionit Evropian, brenda nëntë muajve nga kryerja e vlerësimit nga ECDD-ja, një plan veprimi, që adreson rekomandimet e propozuara të vlerësimit. Ky plan veprimi të përfshijë: a) veprime rregullatore; b) iniciativa trajnimi; c) një përmbledhje të praktikave të mira.

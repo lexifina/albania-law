@@ -1,0 +1,1 @@
+16. Të sigurohet funksionimi i sistemeve të integruara të survejancës dhe të raportohet nëpërmjet Institutit të Shëndetit Publik në sistemet e platformës digjitale të ECDC-së dhe Komisionit Evropian me sisteme digjitale dhe ndërvepruese.

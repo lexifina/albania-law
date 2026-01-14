@@ -1,0 +1,1 @@
+6. Ministria përgjegjëse për shëndetësinë, në bashkëpunim me institucionet e saj të varësisë, të përgatisë planin kombëtar për parandalimin, përgatitjen dhe përgjigjen mbështetur në udhëzimet e Organizatës Botërore të Shëndetësisë dhe ECDC-së.

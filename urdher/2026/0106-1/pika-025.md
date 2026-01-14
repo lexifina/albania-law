@@ -1,0 +1,1 @@
+25. Ministria përgjegjëse për shëndetësinë ndjek udhëzimet e ECDC-së, OBSH-së dhe të ekspertëve kombëtarë për të konsideruar kërcënimin përkatës serioz në nivel kufitar për shëndetin, përfshirë këtu edhe pandeminë.

@@ -1,0 +1,4 @@
+21. Koordinimi me ECDC-në, OBSH-në, vendet anëtare, si dhe vende të tjera partnere të bëhet, në lidhje me:
+a) përgjigjen kombëtare, duke përfshirë nevojat e kërkimit ndaj kërcënimit serioz në nivel kufitar për shëndetin, si edhe rastet kur një emergjencë shëndetësore e shëndetit publik me rëndësi ndërkombëtare shpallet në përputhje me Rregulloren Ndërkombëtare të Shëndetit;
+b) komunikimin e rrezikut dhe krizës, që duhet të përshtatet me nevojat dhe rrethanat e vendit, me qëllim ofrimin e informacionit të qëndrueshëm dhe të koordinuar pranë Bashkimit Evropian dhe OBSH-së për publikun, profesionistët e kujdesit shëndetësor dhe profesionistët e shëndetit publik;
+c) miratimin e opinioneve dhe udhëzimeve, duke përfshirë masat specifike të përgjigjes për parandalimin dhe kontrollin e një kërcënimi serioz në nivel kufitar për shëndetin, bazuar në opinionin e ekspertëve ose organeve teknike përkatëse të vendit.

@@ -1,0 +1,1 @@
+13. Të merren masa për të qenë pjesë e rrjetit të survejancës epidemiologjike të sëmundjeve infektive të Bashkimit Evropian, si edhe të sigurojë komunikimin e vazhdueshëm për këto sëmundje me ECDC-në dhe Komisionin, nëpërmjet Institutit të Shëndetit Publik, si autoriteti kombëtar për survejancën epidemiologjike në nivel kombëtar.
