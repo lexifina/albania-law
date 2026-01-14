@@ -11,7 +11,7 @@ Objekti i kësaj rregulloreje është përcaktimi i procedurave, detyrave dhe p�
 Neni 2
 Përkufizime
 Në këtë rregullore, shkurtimet dhe përkufizimet e mëposhtme kanë këto kuptime:
-1. “MAS” është Ministria e Arsimit dhe Sportit.
+1. “MA” është Ministria e Arsimit.
 1/1. Ministria përgjegjëse për AFP (ministria përgjegjëse për arsimin dhe formimin profesional).
 2. “Maturë Shtetërore” është një standard i njësuar provimesh, nga të cilat tri të detyruara dhe një me zgjedhje të detyruar (më poshtë “me zgjedhje”), i cili vërteton përfundimin e shkollës së mesme.
 3. “Maturë Shtetërore Profesionale” është një standard i njësuar prej katër provimesh të detyruara, i cili vërteton përfundimin e shkollës së mesme profesionale.
@@ -59,7 +59,8 @@ INSTITUCIONET DHE STRUKTURAT PËRGJEGJËSE PËR ZHVILLIMIN E PROVIMEVE TË MATUR
 Neni 4
 Institucionet dhe strukturat përgjegjëse
 Institucionet dhe strukturat përgjegjëse për organizimin dhe zhvillimin e provimeve të Maturës, janë:
-1. Ministria e Arsimit dhe Sportit;
+1. Ministria e Arsimit;
+1/1. Ministria e Ekonomisë dhe Inovacionit.
 2. Komiteti i Maturës Shtetërore;
 3. Qendra e Shërbimeve Arsimore;
 4. Agjencia e Sigurimit të Cilësisë në Arsimin Parauniversitar;
@@ -72,7 +73,7 @@ Institucionet dhe strukturat përgjegjëse për organizimin dhe zhvillimin e pro
 11. Institucionet e arsimit të mesëm të lartë.
 Neni 5
 Detyrat e Komitetit të Maturës Shtetërore
-Detyrat e KOMSH-së janë të përcaktuara në urdhrin përkatës të ministrit të Arsimit dhe Sportit.
+Detyrat e KOMSH-së janë të përcaktuara në urdhrin përkatës të ministrit të Arsimit.
 Neni 6
 Detyrat e Qendrës së Shërbimeve Arsimore
 Qendra e Shërbimeve Arsimore kryen këto detyra:
@@ -92,14 +93,14 @@ Qendra e Shërbimeve Arsimore kryen këto detyra:
 4. Pranon kërkesat në portalin qeveritar “e-Albania” të maturantëve/kandidatëve, duke u dërguar atyre kopjet elektronike të testeve të vlerësuara.
 15. Arkivon të gjitha materialet e provimeve dhe i ruan ato për 6 (gjashtë) muaj.
 16. Ruan në formë elektronike dhe administron të gjitha të dhënat e procesit.
-17. Lëshon diplomën e Maturës Shtetërore dhe Maturës Shtetërore Profesionale për të gjithë maturantët/kandidatët. Për maturantët që do të studiojnë jashtë vendit diplomat lëshohen më datë 10 korrik.
+17. Lëshon diplomën e Maturës Shtetërore dhe Maturës Shtetërore Profesionale për të gjithë maturantët/kandidatët. Për maturantët që do të studiojnë jashtë vendit diplomat lëshohen më datë 9 korrik.
 Neni 7
 Detyrat e Komisionit të Maturës Shtetërore në ZVAP
 KMSH-ja përbëhet nga 3-5 anëtarë dhe drejtohet nga drejtori i ZVAP-së. KMSH-ja kryen këto detyra:
 1. Organizon ngritjen e KSHMSH-së brenda muajit nëntor.
 2. Siguron zbatimin e akteve nënligjore të adresuara për provimet e Maturës Shtetërore.
-3. Koordinon veprimtaritë ndërmjet MAS-it, QSHA-së dhe KSHMSH-së.
-4. Dërgon zyrtarisht në QSHA, në DRAP dhe në institucionet e arsimit profesional (të printuar dhe në version elektronik), dy ditë pas përfundimit të shkollës, listën e maturantëve që nuk mund të japin provimet e maturës, si rezultat i mospërfundimit me sukses të vitit të fundit të shkollës së mesme.
+3. Koordinon veprimtaritë ndërmjet MA-së, QSHA-së dhe KSHMSH-së.
+4. Dërgon zyrtarisht në QSHA, në DRAP dhe në institucionet e arsimit profesional, si dhe hedh në sistemin e-Matura, dy ditë pas përfundimit të shkollës, listën e maturantëve që nuk mund të japin provimet e maturës, si rezultat i mospërfundimit me sukses të vitit të fundit të shkollës së mesme.
 5. Lëshon vërtetimin me notat e maturës për çdo kandidat që do të regjistrohet me A1Z në Maturë dhe dërgon në QSHA, në DRAP dhe në institucionet e arsimit profesional listën e kandidatëve të regjistruar me A1Z, ku janë të pasqyruara të gjitha të dhënat mbi të cilat janë të printuara vërtetimet e lëshuara për çdo rast.
 6. Trajnon anëtarët e KSHMSH-së, kontrollon dhe vlerëson gjendjen teknike të infrastrukturës elektronike në dispozicion të procesit.
 7. Organizon dhe monitoron plotësimin e bazës së të dhënave në sistemet informatike online për të gjitha shkollat e ZVAP-së përkatëse.
@@ -108,7 +109,7 @@ KMSH-ja përbëhet nga 3-5 anëtarë dhe drejtohet nga drejtori i ZVAP-së. KMSH
 10. Verifikon dhe siguron përputhshmërinë e kushteve të mjediseve ku do të zhvillohen provimet e Maturës me ato të përcaktuara në këtë rregullore.
 11. Harton listën e përgjegjësve të administrimit të provimit, përgjegjësve të katit, administratorëve të provimit dhe administratorëve të sekretimit të testeve të Maturës.
 12. Trajnon përgjegjësit e administrimit të provimit, përgjegjësit e katit, administratorët e provimit dhe administratorët e sekretimit të testeve të Maturës.
-13. Hedh shortin dy orë para zhvillimit të çdo provimi, në prani të përfaqësuesit të MAS-it, për caktimin e përfaqësuesve të KMSH-së, PAP-it, PK-së, AS-së dhe AP-së për çdo mjedis provimi të Maturës. Përfaqësuesi i KMSH-së, në një qendër provimi mbështet PAP-in për organizimin e provimit deri para hapjes së kutisë. Më pas largohet dhe i ndalohet të qëndrojë në qendrën e provimit gjatë kohës që zhvillohet provimi.
+13. Hedh shortin dy orë para zhvillimit të çdo provimi, në prani të përfaqësuesit të MA-së, për caktimin e përfaqësuesve të KMSH-së, PAP-it, PK-së, AS-së dhe AP-së për çdo mjedis provimi të Maturës. Përfaqësuesi i KMSH-së, në një qendër provimi mbështet PAP-in për organizimin e provimit deri para hapjes së kutisë. Më pas largohet dhe i ndalohet të qëndrojë në qendrën e provimit gjatë kohës që zhvillohet provimi.
 14. Dorëzon në QSHA, në formë shkresore dhe elektronike, brenda pesë ditëve pas çdo provimi, listën e plotë të emrave të PAP-it dhe AP-së, PK-së dhe AS-së për çdo mjedis.
 15. Dërgon në QSHA, brenda datës së përcaktuar nga QSHA-ja, listën e qendrave për provimet e Maturës.
 16. Njofton KSHMSH-të përkatëse për mjediset e përcaktuara për zhvillimin e provimeve.
@@ -126,7 +127,7 @@ f) koordinon me mësuesit kujdestarë plotësimin e tabelave ku janë hedhur emr
 g) monitoron, drejton dhe realizon procesin e regjistrimit në “SMIP” të rezultateve lëndore për të gjitha vitet e shkollimit të arsimit të mesëm të lartë për të gjithë maturantët/kandidatët;
 h) gjeneron certifikatat e Maturës Shtetërore dhe të Maturës Shtetërore Profesionale për maturantët e diplomuar;
 i) shpall listën përfundimtare të maturantëve/kandidatëve që do të vazhdojnë procesin e maturës;
-j) raporton në KMSH, një ditë pas përfundimit të shkollës, maturantët që nuk mund të vazhdojnë procesin e Maturës si rezultat i mospërfundimit me sukses të vitit të fundit të shkollës së mesme;
+j) raporton në KMSH, një ditë pas përfundimit të shkollës, maturantët që nuk mund të vazhdojnë procesin e Maturës si rezultat i mospërfundimit me sukses të vitit të fundit të shkollës së mesme. Kryetari i KSHMSH-së verifikon listën e nxënësve mbetës në momentin e hyrjes së nxënësve në qendrën e provimit;
 k) shpall listën e mjediseve ku do të zhvillohen provimet dhe informon për këtë çdo maturant/kandidat;
 l) përgatit/kontrollon mjediset e provimeve 24 orë përpara çdo provimi. Drejtori i shkollës, i cili është edhe në cilësinë e kryetarit të KSHMSH-së, do bëjë certifikimin e mjedisit një ditë para provimit të maturës dhe nëse mjedisi i provimit në ditën e provimit është në kundërshtim me rregulloren e MSH-së, për drejtorin e shkollës do të merren masa administrative sipas përcaktimeve të kësaj rregulloreje;
 m) plotëson, brenda datës së përcaktuar nga QSHA-ja, bazën e të dhënave për maturantët/kandidatët për të gjitha vitet e shkollës së mesme, me përjashtim të vitit të fundit. Secilit maturant/kandidat i jepet një kopje e printuar e rezultateve të hedhura, të firmosura nga maturanti/kandidati, të vulosur dhe të firmosur nga drejtori i shkollës dhe kopja tjetër ruhet në arkivin e shkollës;
@@ -136,11 +137,11 @@ p) përfundon procesin e verifikimit dhe konfirmimit të rezultateve në sistem 
 q) administron procedurën për kërkesat për rivlerësim testi të maturantit/kandidatit.
 Neni 9
 Detyrat e ministrisë përgjegjëse për AFP-në, ASCAP-it, AKAFPK-së, AKAP-it dhe DRAP-it
-1. ASCAP-i harton programet lëndore orientuese për provimet e Maturës Shtetërore, të cilat publikohen në faqet zyrtare të ASCAP-së, QSHA-së dhe MAS-it.
+1. ASCAP-i harton programet lëndore orientuese për provimet e Maturës Shtetërore, të cilat publikohen në faqet zyrtare të ASCAP-së, QSHA-së dhe MA-së.
 1/1. Ministria përgjegjëse për AFP-në ka për detyrë të përgatisë listën e të gjitha shkollave të mesme të arsimit profesional dhe ta dërgojë në AKAP.
-2. AKAFPK-ja harton programet orientuese të provimit të Teorisë Profesionale të Integruar, për çdo kualifikim profesional, të provimeve të Maturës Shtetërore Profesionale. Programet orientuese publikohen në faqet zyrtare të AKAFPK-së dhe QSHA-së. AKAFPK-ja përditëson listën e provimeve të detyruara të teorisë profesionale të integruar, sipas kualifikimit profesional që maturantët/kandidatët kanë ndjekur në shkollat profesionale.
+2. AKAFPK-ja harton programet orientuese të provimit të Teorisë Profesionale të Integruar, për çdo kualifikim profesional, të provimeve të Maturës Shtetërore Profesionale. Programet orientuese publikohen në faqet zyrtare të AKAFPK-së dhe QSHA-së. AKAFPK-ja përditëson listën e provimeve të detyruara të teorisë profesionale të integruar, sipas kualifikimit profesional që maturantët/kandidatët kanë ndjekur në shkollat profesionale dhe e përcjell në QSHA.
 3. AKAP-ja ka për detyrë:
-a) të koordinojë me MAS-in, DRAP-në dhe ZVAP-në të gjithë procesin e Maturës.
+a) të koordinojë me MA- së, DRAP-në dhe ZVAP-në të gjithë procesin e Maturës.
 b) të koordinojë me DRAP-në dhe të sigurojë cilësinë në trajnimin e PAP-it, AP-së, PK- së dhe AS-së.
 c) Të dërgojë zyrtarisht në QSHA brenda muajit nëntor dhe elektronikisht listën dhe emërtimet zyrtare të shkollave të arsimit të mesëm të lartë, për Maturën Shtetërore dhe Maturën Shtetërore Profesionale.
 4. DRAP-i ka për detyrë:
@@ -152,7 +153,7 @@ PROCEDURAT E PROVIMEVE TË MATURËS
 Neni 10
 Forma e provimeve dhe kriteri i kalueshmërisë
 1. Provimet e Maturës zhvillohen me shkrim.
-2. Struktura, datat dhe kohëzgjatja e provimeve të Maturës përcaktohen me udhëzim të përbashkët të ministrit të Arsimit dhe Sportit dhe ministrit të Financave dhe Ekonomisë.
+2. Struktura, datat dhe kohëzgjatja e provimeve të Maturës përcaktohen me udhëzim të përbashkët të ministrit përgjegjës për arsimin dhe ministrit përgjegjës për arsimin profesional.
 3. Maturanti/kandidati konsiderohet mbetës në provim nëse ka marrë më pak se 25% të pikëve të testit.
 Neni 11
 E drejta për dhënien e provimeve të Maturës
@@ -160,17 +161,18 @@ E drejta për dhënien e provimeve të Maturës
 2. Kandidatët, të cilët kanë marrë dëftesë pjekurie para vitit 2011 dhe dëshirojnë të aplikojnë për ndjekjen e studimeve në institucionet e arsimit të lartë, t’u njihen provimet e detyruara dhe me zgjedhje ose provimet e njëvlershme me to, të njehsuara nga ZVAP-ja. Këta kandidatë, në rastet kur nuk kanë dhënë provime me zgjedhje ose i kanë dhënë dhe nuk kanë rezultuar kalues, kanë të drejtë të japin një provim me zgjedhje kur e kanë të nevojshme për plotësimin e kritereve të pranimit të përcaktuara nga institucionet e arsimit të lartë.
 3. Çdo maturant që rezulton kalues në provimet e detyruara dhe provimin/et me zgjedhje, pajiset me diplomë.
 4. Çdo maturant i arsimit të mesëm të lartë profesional, që rezulton kalues në provimet e detyruara, pajiset me diplomë të Maturës Shtetërore Profesionale.
-5. Diploma e Maturës Shtetërore dhe Maturës Shtetërore Profesionale lëshohet vetëm një herë.
+5. Diploma e Maturës Shtetërore dhe e Maturës Shtetërore Profesionale lëshohet vetëm një herë. Nga viti 2024 e në vijim, diploma e Maturës Shtetërore gjenerohet përmes sistemit “e-Matura” dhe i dërgohet automatikisht çdo maturanti që përfundon me sukses provimet, në llogarinë personale “e-Albania”, si dhe në adresën e email-it të dhënë në formularin A1/A1Z për shtetasit e huaj.
 6. Kandidatët, që në Maturat Shtetërore 2012-2019, rezultojnë kalues në një prej provimeve me zgjedhje, dhe nuk janë pajisur me diplomën e maturës/certifikatën, duhet të pajisen me to.
 7. Kandidatët që kanë përfunduar shkollën e mesme para vitit 2014, por nuk janë pajisur me dëftesë pjekurie/diplomë, nuk e japin gjuhën e huaj si provim të detyruar. Pasi rezultojnë kalues në provimet e Maturës, marrin diplomën dhe certifikatën e Maturës Shtetërore.
 8. Maturanti/kandidati, nëse nuk rezulton kalues në sesionin e parë të Maturës, në sesionet e ardhshme jep vetëm provimin/et e detyruara dhe me zgjedhje, në të cilat ka mbetur.
 Neni 12
 Përgatitja e testeve të Maturës
 1. QSHA-ja ngre grupet lëndore për hartimin e fondit të pyetjeve sipas kuadrit ligjor dhe nënligjor në fuqi dhe rregullores së brendshme të institucionit. Anëtarët e grupeve lëndore, në kontratën që nënshkruajnë me QSHA-në, marrin përsipër të ruajnë sekretin e hartimit të fondit të pyetjeve dhe të mos jenë në konflikt interesi, sipas përcaktimeve të kuadrit ligjor në fuqi. Fondi i pyetjeve është jo më i vogël se dhjetëfishi i pyetjeve që do të përmbajë testi përkatës.
-2. Provimi i teorisë profesionale të integruar, për Maturën Shtetërore Profesionale të përgatitet me 4 teste alternative për drejtimet/profilet dhe të përzgjidhet vetëm një test për provim.
+2. Testet e Teorisë Profesionale të integruar, për Maturën Shtetërore Profesionale të dorëzohen nga AKAFPK-ja të hartuara, formatuara dhe në format PDF-je në QSHA. Përgatiten 4 (katër) teste alternative për drejtimet/profilet dhe përzgjidhet vetëm një test për provim.
 3. QSHA-ja ngre grupet e punës, për hartimin e testeve të Maturës Shtetërore dhe Maturës Shtetërore Profesionale, sipas lëndëve/kualifikimeve profesionale, të cilat miratohen me udhëzim të posaçëm.
 4. Përzgjedhja e pyetjeve për hartimin e testeve përfundimtare të provimeve të Maturës Shtetërore të bëhet përmes teknologjisë digjitale, nga specialistë (PTP) të caktuar me urdhër të QSHA-së. Përzgjedhja e pyetjeve për hartimin e testeve të bëhet në kushtet e ruajtjes së plotë të sekretit brenda ambienteve të izoluara të QSHA-së. Të drejtën e përzgjedhjes dhe hartimit të testit përfundimtar të provimeve të Maturës Shtetërore (sesioni i parë dhe i dytë) e kanë vetëm PTP-të. Specialistët e QSHA-së në periudhën e KOEPS-it nuk kanë të drejtë të përzgjedhin, sugjerojnë, ndryshojnë testet e provimeve të Maturës Shtetërore të hartuar nga PTP-të. Pas hartimit të testeve përfundimtare kryhet shumëfishimi dhe paketimi i testeve të Maturës Shtetërore nga punonjësit e caktuar me urdhër të QSHA-së.
 5. Përzgjedhja e testit përfundimtar të provimeve të Maturës Shtetërore Profesionale të bëhet përmes teknologjisë digjitale. Përzgjedhja e testit përfundimtar të bëhet në kushtet e ruajtjes së plotë të sekretit brenda ambienteve të izoluara të QSHA-së. Pas hartimit të testeve përfundimtare kryhet shumëfishimi dhe paketimi i testeve të Maturës Shtetërore Profesionale nga punonjësit e caktuar me urdhër të QSHA-së.
+6. QSHA-ja printon dhe paketon testet e shkollave me seksion dygjuhësh “shqiptaro-italian” për lëndët “gjuhë dhe letërsi italiane, matematikë italiane, fizikë italiane dhe histori italiane”. Testet e këtij seksioni vijnë në zarf dhe elektronikisht nga Ambasada Italiane. Testet e seksionit dygjuhësh “shqiptaro-gjerman” për lëndën “matematikë-gjermane”, vijnë të shumëfishuara dhe paketuara në QSHA. QSHA-ja bën vetëm shpërndarjen e tyre.
 KREU IV
 APLIKIMI PËR PROVIMET E MATURËS
 Neni 13
@@ -182,7 +184,7 @@ c) udhëzuesi i plotësimit online të bazës së të dhënave nga KSHMSH-ja në
 d) udhëzuesi i plotësimit të bazës së të dhënave nga KSHMSH-ja në “SMIP”;
 2. Maturanti/kandidati bën aplikimin online, fillimisht në portalin qeveritar “e- Albania”, më pas, në sistemin “e-Matura”, në periudhën e përcaktuar nga QSHA-ja, sipas një plani kalendarik të publikuar në faqen e internetit të QSHA-së. Aplikimi në sistemin “e-Matura”, bëhet edhe sipas afateve të vendosura nga QSHA-ja.
 3. Sistemi “e-Matura” do të qëndrojë i aktivizuar gjatë të gjithë vitit. Mbikëqyrësi i Maturës Shtetërore do të kryejë verifikimin e bazës së të dhënave. Korrigjimet e mundshme të të dhënave do të mund të kryhen në datat e përcaktuara nga QSHA-ja.
-4. Çdo maturant/kandidat do të plotësojë/firmosë në KSHMSH formularin e deklarimit të saktësisë së të dhënave të tij në sistemin “e-Matura”, dhe ky formular ruhet nga KSHMSH-ja deri në përfundimin e vitit shkollor përkatës.
+4. Çdo maturant/kandidat do të plotësojë/firmosë në KSHMSH formularin A1/A1Z për saktësinë e të dhënave të tij në sistemin “e-Matura” dhe ky formular ruhet nga KSHMSH-ja deri në përfundimin e vitit shkollor përkatës.
 Neni 14
 Plotësimi i formularëve A1 dhe A1Z
 1. Plotësimi i formularit A1 nga maturantët e këtij viti shkollor bëhet në shkollat ku ata kryejnë arsimin e mesëm të lartë dhe arsimin e mesëm të lartë profesional.
@@ -191,7 +193,7 @@ a) kërkesën me shkrim për dhënien e provimeve të Maturës dhe/ose për të 
 b) kopje të noterizuar të dëftesës së pjekurisë/vërtetimin me notat e të gjitha viteve të shkollës së mesme me fotografi/certifikatën e Maturës me notat e të gjitha viteve të shkollës së mesme, lëshuar nga drejtori i shkollës, sipas regjistrit të amzës apo dokumentit të lëshuar nga Arkivi i Shtetit.
 3. Plotësimi i formularit A1Z nga kandidatët që kanë përfunduar shkollën e mesme jashtë vendit bëhet në shkollën e përcaktuar nga KMSH-ja në ZVAP.
 4. KMSH-ja e ZVAP-së i dërgon zyrtarisht KSHMSH-së dokumentet e dorëzuara nga kandidati, si dhe vërtetimin e notave të provimeve të Maturës. Ky vërtetim i bashkëngjitet formularit të aplikimit A1Z dhe ruhet në shkollë.
-5. Kandidati i para vitit shkollor 2011, jep provime të Maturës sipas kritereve të përcaktuara në udhëzimin e MAS-it, “Për organizimin dhe zhvillimin e provimeve të Maturës Shtetërore”.
+5. Kandidati i para vitit shkollor 2011, jep provime të Maturës sipas kritereve të përcaktuara në udhëzimin e MA-së, “Për organizimin dhe zhvillimin e provimeve të Maturës Shtetërore”.
 6. Për shkollat profesionale dhe shkollat e mesme të orientuara, në rastet kur kandidati ka fituar dëftesën e pjekurisë, si provime të detyruara njihen:
 a) letërsia dhe matematika, nëse janë dhënë dhe janë fituar;
 b) një ose dy nga provimet, në mungesë të letërsisë dhe të matematikës, sipas planit mësimor të shkollës së tyre. KMSH-ja në ZVAP përcakton provimet, rezultatet e të cilave do të mbarten në sistem në vend të letërsisë dhe matematikës.
@@ -216,14 +218,14 @@ KREU VI
 PROCEDURAT E SHPËRNDARJES DHE GRUMBULLIMIT TË MATERIALEVE TË PROVIMEVE TË MATURËS
 Neni 17
 Transporti i materialeve të provimeve
-Ministria e Arsimit dhe Sportit, Ministria e Brendshme dhe Posta Shqiptare organizojnë transportin e materialeve të provimeve, ruajtjen e mjediseve në shkolla, në QSHA dhe në qendrat e vlerësimit të testeve. Format e bashkëpunimit mes tyre përcaktohen në marrëveshjen e përbashkët të dy ministrive përgjegjëse dhe të Postës Shqiptare.
+Ministria e Arsimit, Ministria e Brendshme dhe Posta Shqiptare organizojnë transportin e materialeve të provimeve, ruajtjen e mjediseve në shkolla, në QSHA dhe në qendrat e vlerësimit të testeve. Format e bashkëpunimit mes tyre përcaktohen në marrëveshjen e përbashkët të dy ministrive përgjegjëse dhe të Postës Shqiptare.
 Neni 18
 Shpërndarja dhe grumbullimi i materialeve të provimeve
-1. Shpërndarja dhe grumbullimi i materialeve të provimeve bëhet me procesverbal. Materialet e provimit tërhiqen në QSHA nga personi i autorizuar i Postës Shqiptare në prani të përfaqësuesit të autorizuar të MAS-it dhe të shërbimeve të Policisë së Shtetit, sipas një grafiku të përcaktuar nga QSHA-ja.
+1. Shpërndarja dhe grumbullimi i materialeve të provimeve bëhet me procesverbal. Materialet e provimit tërhiqen në QSHA nga personi i autorizuar i Postës Shqiptare në prani të përfaqësuesit të autorizuar të MA-së dhe të shërbimeve të Policisë së Shtetit, sipas një grafiku të përcaktuar nga QSHA-ja.
 2. Personat e autorizuar, sipas këtij neni, mbajnë përgjegjësi për ruajtjen e sekretit dhe sigurimin e materialeve të provimit.
 3. Materialet e çdo provimi duhet të arrijnë në KMSH-në e ZVAP-së jo më vonë se ora 08:00 e ditës kur do të zhvillohet provimi.
-4. Dorëzimi i materialeve në KMSH-në e ZVAP-së bëhet me procesverbal, në të cilin evidentohet përmbajtja e elementeve të sigurisë (fishat). Procesverbali nënshkruhet nga përfaqësuesit e autorizuar të Postës Shqiptare, të MAS-it, si dhe nga kryetari i KMSH-së të ZVAP-së.
-5. Pas çdo provimi, PAP-i dorëzon me procesverbal materialet e provimit te kryetari i KMSH-së të ZVAP-së. Përfaqësuesi i MAS-it, përfaqësuesi i Postës dhe punonjësi i Policisë së Shtetit të cilët shoqërojnë materialet e provimit dhe i dorëzojnë ato në QSHA.
+4. Dorëzimi i materialeve në KMSH-në e ZVAP-së bëhet me procesverbal, në të cilin evidentohet përmbajtja e elementeve të sigurisë (fishat). Procesverbali nënshkruhet nga përfaqësuesit e autorizuar të Postës Shqiptare, të MA-së, si dhe nga kryetari i KMSH-së të ZVAP-së.
+5. Pas çdo provimi, PAP-i dorëzon me procesverbal materialet e provimit te kryetari i KMSH-së të ZVAP-së. Përfaqësuesi i MA-së, përfaqësuesi i Postës dhe punonjësi i Policisë së Shtetit të cilët shoqërojnë materialet e provimit dhe i dorëzojnë ato në QSHA.
 6. Përfaqësuesi i KMSH-së të ZVAP-së dhe PAP-i mbajnë përgjegjësi sipas dispozitave ligjore në fuqi për ruajtjen e sekretit dhe sigurimin e materialeve të provimit.
 Neni 19
 Administrimi i materialeve të provimit në qendrën e provimit
@@ -231,7 +233,7 @@ Administrimi i materialeve të provimit në qendrën e provimit
 2. Pas shpërndarjes së materialeve të provimit, PAP-i dhe AP-ja mbajnë procesverbal për testet që nuk përdoren dhe i mbyllin ato (bashkë me procesverbalin) në një zarf, i cili vendoset në një vend të sigurt brenda mjediseve të provimit, deri në përfundim të tij. Procesverbali plotësohet në dy kopje, njëra futet në kuti dhe tjetra dorëzohet nga PAP-i te përfaqësuesi i KMSH-së të ZVAP-së në momentin e dorëzimit të kutisë. Ky zarf përbën objekt verifikimi nga QSHA-ja dhe KOMSH-ja.
 3. Pas përfundimit të provimit, AP-ja i dorëzon me procesverbal PAP-it testet e plotësuara nga çdo maturant/kandidat, të ndara sipas llojit të testit.
 4. Pas përfundimit të provimit, AP-ja i dorëzon me procesverbal PAP-it listat emërore të firmosura nga çdo maturant/kandidat pas përfundimit dhe dorëzimit të testit, për mjedisin që ai ka administruar.
-5. Testet e plotësuara, ato të papërdorura, si dhe materialet e tjera të provimit, PAP-i i mbyll në kuti në prani të përfaqësuesit të MAS-it dhe AP-së.
+5. Testet e plotësuara, ato të papërdorura, si dhe materialet e tjera të provimit, PAP-i i mbyll në kuti në prani të përfaqësuesit të MA-it dhe AP-së.
 6. Kutia e mbyllur vuloset nga drejtori i shkollës i cili paraqitet në qendrën e provimit vetëm pas përfundimit të provimit në atë qendër. Kur provimi zhvillohet në mjedise të tjera, jo në shkolla, atëherë kutia vuloset nga drejtori i shkollës së përzgjedhur nga KMSH-ja në ZVAP.
 7. Përfaqësuesi i KMSH-së dhe PAP-it dorëzojnë me procesverbal në KMSH-në e ZVAP-së kutinë me materialet e provimit.
 KREU VII
@@ -242,7 +244,7 @@ Numri i administratorëve të provimit dhe caktimi i tyre në qendrat/mjediset e
 2. KMSH-ja në ZVAP, në bashkëpunim me KSHMSH-e, përcakton numrin e nevojshëm të AP-ve, PAP-ve, PK-ve dhe AS-ve për mjediset e çdo provimi.
 3. KMSH-ja në ZVAP harton, një muaj përpara provimit të parë të maturës, listën emërore të PAP-ve, AP-ve, AS-ve dhe PK-ve për çdo provim. Kjo listë duhet të përmbajë dyfishin e personave të përcaktuar në pikën 2 të këtij neni.
 4. PAP-i, AP-ja, AS-ja dhe PK-ja pajisen nga KMSH-ja në ZVAP me manualin e detyrave dhe përgjegjësive të tyre në proces, si dhe nënshkruajnë deklaratat e përgjegjshmërisë.
-5. KMSH-ja në ZVAP, në prani të përfaqësuesit të MAS-it, hedh shortin elektronik për administrimin e qendrave dhe mjediseve ku do të zhvillohen provimet. Rezultati i shortit pasqyrohet në procesverbal, që hartohet nga KMSH-ja.
+5. KMSH-ja në ZVAP, në prani të përfaqësuesit të MA-së, hedh shortin elektronik për administrimin e qendrave dhe mjediseve ku do të zhvillohen provimet. Rezultati i shortit pasqyrohet në procesverbal, që hartohet nga KMSH-ja.
 KREU VIII
 ADMINISTRIMI I PROVIMIT
 Neni 21
@@ -252,8 +254,8 @@ Detyrat e përgjegjësit të administrimit të provimit
 a) tërheq në KMSH-në e ZVAP-së materialet e provimit;
 b) ndalohet të mbajë celular gjatë zhvillimit të provimit;
 c) kryen identifikimin e AP-së, AS-së dhe të PK-së sipas listës së ardhur nga ZVAP-ja;
-d) merr masa që të thërrasë ndihmën e shpejtë në rast nevoje dhe i shoqëron maturantët në prani të përfaqësuesit të MAS-it;
-e) udhëzon dhe cakton me short, në prani të përfaqësuesit të MAS-it, administratorët e provimit për çdo mjedis;
+d) merr masa që të thërrasë ndihmën e shpejtë në rast nevoje dhe i shoqëron maturantët në prani të përfaqësuesit të MA-së;
+e) udhëzon dhe cakton me short, në prani të përfaqësuesit të MA-së, administratorët e provimit për çdo mjedis;
 f) nuk lejon prezencën e drejtuesve të shkollave dhe punonjësve të ZVAP-së gjatë zhvillimit të provimit;
 g) fillon identifikimin e maturantëve/kandidatëve 1 orë e 30 minuta para provimit, sipas listës emërore të dërguar nga QSHA-ja;
 h) kryen kontrollin fizik të çdo maturanti/kandidati, në bashkëpunim me përgjegjësit e kateve, të cilin e dokumenton me një procesverbal të nënshkruar nga ata. Procesverbali futet në kutinë e materialeve të provimit;
@@ -266,6 +268,7 @@ n) paketon, pas përfundimit të provimit, testet e përdoruara dhe materialet e
 o) shoqëron pas përfundimit të provimit, materialet e provimit dhe i dorëzon ato në KMSH-në e ZVAP-së;
 p) nuk publikon në asnjë mënyrë apo formë testin e Maturës Shtetërore gjatë procesit të administrimit;
 q) të ketë një veshje dhe paraqitje serioze që t’i përgjigjet vendit dhe natyrës së punës.
+r) Përgjegjësi i administrimit të provimit mban përgjegjësi për mospërmbushje të detyrave të përcaktuara në këtë nen, sipas nenit 34 të kësaj rregulloreje.
 3. Përgjegjësi i administrimit të provimit të jetë i trajnuar dhe të mos jetë mësues i shkollës së maturantit/kandidatit dhe i lëndës së provimit.
 Neni 22
 Detyrat e administratorit të provimit
@@ -289,6 +292,7 @@ o) nuk largohet nga mjedisi i provimit dhe nuk kryen veprime të tjera që nuk l
 p) respekton orarin e zhvillimit të provimit;
 q) të ketë një veshje dhe paraqitje serioze që t’i përgjigjet vendit dhe natyrës së punës;
 r) të mos publikojë në ndonjë mënyrë apo formë testin e Maturës gjatë procesit të administrimit.
+rr) Administratori i provimit mban përgjegjësi për mospërmbushje të detyrave të përcaktuara në këtë nen, sipas nenit 34 të kësaj rregulloreje.
 3. Administratori i provimit të jetë i trajnuar dhe të mos jetë mësues i shkollës së maturantit/kandidatit dhe i lëndës së provimit.
 Neni 23
 Detyrat e administratorit të sekretimit
@@ -302,6 +306,7 @@ d) sekreton testet pasi ka përfunduar shpërndarja e tyre;
 e) dorëzon te PAP-i barkodet e papërdorura, pas përfundimit të procesit të sekretimit;
 f) qëndron në një mjedis të caktuar nga PAP-i, deri në fund të procesit të provimit, duke kryer detyra që mund t’i ngarkojë ai;
 g) të ketë një veshje dhe paraqitje serioze që t’i përgjigjet vendit dhe natyrës së punës.
+gj) Administratori i sekretimit mban përgjegjësi për mospërmbushje të detyrave të përcaktuara në këtë nen, sipas nenit 34 të kësaj rregulloreje.
 4. Administratori i sekretimit të jetë i trajnuar dhe të mos jetë mësues i shkollës së maturantit/kandidatit dhe i lëndës së provimit.
 Neni 24
 Detyrat e përgjegjësit të katit
@@ -315,13 +320,14 @@ e) nuk largohet nga mjedisi i provimit gjatë provimit dhe nuk kryen veprime të
 f) respekton orarin e zhvillimit të provimit;
 g) të ketë një veshje dhe paraqitje serioze që t’i përgjigjet vendit dhe natyrës së punës;
 h) të mos publikojë në ndonjë mënyrë apo formë testin e Maturës gjatë procesit të administrimit.
+i) Përgjegjësi i katit mban përgjegjësi për mospërmbushje të detyrave të përcaktuara në këtë nen, sipas nenit 34 të kësaj rregulloreje.
 3. Përgjegjësi i katit duhet të jetë i trajnuar dhe të mos jetë mësues i shkollës së maturantit/kandidatit dhe i lëndës së provimit.
 Neni 25
-Detyrat e përfaqësuesit të MAS-it
-1. Përfaqësues të ministrisë në provimet e Maturës janë punonjës të MAS-it, të institucioneve të varësisë dhe oficerët e sigurisë.
-2. Përfaqësuesi i MAS-it në qendrën e provimit monitoron që i gjithë procesi të zhvillohet në përputhje me përcaktimet e kësaj rregulloreje. Në ato qendra, ku janë vërejtur shkelje apo parregullsi, ka detyrim të raportojë me shkrim në KOMSH.
-3. Përfaqësuesi i MAS-it mbështet dhe këshillon të gjithë personat që administrojnë provimet e Maturës Shtetërore.
-4. Përfaqësuesi i MAS-it trajnohet nga KOMSH-ja.
+Detyrat e përfaqësuesit të MA-së
+1. Përfaqësues të ministrisë në provimet e Maturës janë punonjës të MA-së, të institucioneve të varësisë dhe oficerët e sigurisë.
+2. Përfaqësuesi i MA-së në qendrën e provimit monitoron që i gjithë procesi të zhvillohet në përputhje me përcaktimet e kësaj rregulloreje. Në ato qendra, ku janë vërejtur shkelje apo parregullsi, ka detyrim të raportojë me shkrim në KOMSH.
+3. Përfaqësuesi i MA-së mbështet dhe këshillon të gjithë personat që administrojnë provimet e Maturës Shtetërore.
+4. Përfaqësuesi i MA-së trajnohet nga KOMSH-ja.
 5. Ai raporton në KOMSH brenda ditës, për procesin e provimit të Maturës që ai ka monitoruar.
 Neni 26
 Detyrat dhe të drejtat e maturantit/kandidatit
@@ -332,23 +338,23 @@ Detyrat dhe të drejtat e maturantit/kandidatit
 5. Maturantëve/kandidatëve të paraburgosur u sigurohen kushtet për zhvillimin normal të provimeve, në mjedise të posaçme nën mbikëqyrjen e përfaqësuesve të autorizuar të policisë, pa uniformë dhe pa armë.
 6. Maturantët/kandidatët, kur e dorëzojnë testin, nënshkruajnë për dorëzimin e tij në listën që disponon AP-ja.
 7. Maturantët/kandidatët që dorëzojnë testin e provimit përpara kohës së përcaktuar, nuk mund të dalin nga qendra e provimit para kohës së përfundimit të provimit. Ata grumbullohen brenda qendrës së provimit, në një mjedis të përcaktuar më parë.
-8. Kur maturanti/kandidati vëren ndonjë shkelje të rregullores së provimit, ai ka të drejtë të informojë AP-në, PAP-in dhe përfaqësuesin e MAS-it.
+8. Kur maturanti/kandidati vëren ndonjë shkelje të rregullores së provimit, ai ka të drejtë të informojë AP-në, PAP-in dhe përfaqësuesin e MA-së.
 9. Maturanti/kandidati, i cili paraqitet në qendrën e provimit dhe/ose konstatohet gjatë provimit me celular përjashtohet nga ai provim, por ka të drejtë ta japë atë në sesionin pasardhës.
 Neni 27
 Rivlerësimi i testit
 1. Maturanti/kandidati ka të drejtë të kërkojë fotokopjen e testit, 1 (një) ditë pas shpalljes së rezultateve paraprake të të gjitha provimeve.
-2. Maturanti/kandidati pasi është pajisur me fotokopjen e testit, ka të drejtë ta paraqesë kërkesën për rivlerësim testi në KSHMSH-në e shkollës, ku është regjistruar si maturant, më datë 5 korrik.
+2. Maturanti/kandidati pasi është pajisur me fotokopjen e testit, ka të drejtë ta paraqesë kërkesën për rivlerësim testi në KSHMSH-në e shkollës, ku është regjistruar si maturant, më datë 3 korrik.
 3. Fotokopjet e testeve të paraqitura në KSHMSH shqyrtohen nga dy mësues lëndor të përcaktuar nga KSHMSH-ja (nëse një shkollë nuk ka dy mësues të lëndës shqyrtimi do të bëhet vetëm nga një mësues i lëndës).
 4. Mësuesit e përcaktuar sipas pikës 3, të këtij neni, shqyrtojnë kërkesat e paraqitura nga maturantët/kandidatët vetëm për pyetjet e ankimuara dhe vendosin nëse këto teste do t’i kalojnë për rivlerësim QSHA-së.
-5. KSHMSH-ja, kërkesat për rivlerësim të miratuara nga mësuesit lëndor, i përcjell në ZVAP në format elektronik, brenda datës 5 korrik dhe në format shkresor brenda datës 6 korrik.
-6. KMSH-ja në ZVAP, kërkesat e paraqitura nga KSHMSH-ja i përcjell në format elektronik në QSHA brenda datës 5 korrik, si dhe zyrtarisht në format shkresor, brenda datës 7 korrik.
-6/1. AKAP-i dërgon listën përfundimtare të maturantëve/kandidatëve që do t’i nënshtrohen rivlerësimit, në format elektronik në QSHA brenda datës 5 korrik.
+5. KSHMSH-ja, kërkesat për rivlerësim të miratuara nga mësuesit lëndor, i përcjell në ZVAP në format elektronik, brenda datës 3 korrik dhe në format shkresor brenda datës 6 korrik.
+6. KMSH-ja në ZVAP, kërkesat e paraqitura nga KSHMSH-ja i përcjell në format elektronik në QSHA brenda datës 3 korrik, si dhe zyrtarisht në format shkresor, brenda datës 7 korrik.
+6/1. AKAP-i dërgon listën përfundimtare të maturantëve/kandidatëve që do t’i nënshtrohen rivlerësimit, në format elektronik në QSHA brenda datës 3 korrik.
 7. QSHA-ja kryen procesin e rivlerësimit të testeve, me të njëjtat rregulla e procedura si vlerësimi i testeve, duke i sekretuar me barkode testet që rivlerësohen.
 8. QSHA-ja kryen rivlerësimin e të gjithë testit. Pas rivlerësimit, vlerësimi përfundimtar i maturantit mund të jetë:
 a) me të njëjtin rezultat;
 b) duke iu ndryshuar rezultati me rritje pikësh;
 c) duke iu ndryshuar rezultati me ulje pikësh;
-9. Rezultatet përfundimtare të provimeve të maturës pas procesit të rivlerësimit shpallen jo më vonë se data 10 korrik.
+9. Rezultatet përfundimtare të provimeve të maturës pas procesit të rivlerësimit shpallen jo më vonë se data 9 korrik.
 Neni 28
 Përjashtimi dhe mosnjohja e provimit nga QSHA-ja
 1. Maturanti/kandidati përjashtohet nga provimi, kur:
@@ -381,10 +387,10 @@ g) të jetë treguar i saktë dhe i përpiktë në vlerësimet e mëparshme të 
 6. Vlerësimi i testeve realizohet në qendra vlerësimi me mjedise të përshtatshme dhe të sigurta, të përzgjedhura nga QSHA-ja.
 7. Rezultatet e provimeve paraprake të Maturës shpallen jo më vonë se data 30 qershor.
 8. Procesi i vlerësimit të testeve mbikëqyret nga grupe pune, të ngritura me urdhër të ministrit përgjegjës për arsimin.
-9. QSHA-ja të dorëzojë zyrtarisht në MAS të gjitha rezultatet paraprake dhe përfundimtare të Maturës Shtetërore, sipas rregullave dhe afateve të përcaktuara nga MAS-i, të cilat do të jenë objekt monitorimi.
+9. QSHA-ja të dorëzojë zyrtarisht në MA të gjitha rezultatet paraprake dhe përfundimtare të Maturës Shtetërore, sipas rregullave dhe afateve të përcaktuara nga MA-ja, të cilat do të jenë objekt monitorimi.
 Neni 30
 Teste të parregullta dhe të dyshuara për kopje
-1. MAS-i ngre komisione të posaçme (KOPOTED) që shqyrtojnë të gjitha testet që raportohen nga vlerësuesit e testeve si të dyshimta për kopjim dhe testet me parregullsi.
+1. MA-ja ngre komisione të posaçme (KOPOTED) që shqyrtojnë të gjitha testet që raportohen nga vlerësuesit e testeve si të dyshimta për kopjim dhe testet me parregullsi.
 2. Vlerësuesit e testeve i dorëzojnë përgjegjësit përkatës të vlerësimit, testet me parregullsi apo që dyshohen për kopje. Përgjegjësi i vlerësimit, nga ana e tij, i përcjell ato në QSHA, duke i shoqëruar me një përshkrim të detajuar mbi parregullsitë dhe pyetjet, përgjigjet e të cilave dyshohen për kopje, dhe QSHA-ja i përcjell në KOPOTED.
 3. KOPOTED, për parregullsitë që konstaton informon me shkrim KOMSH.
 KREU X
@@ -415,7 +421,7 @@ KLASIFIKIMI I MATERIALEVE DHE RUAJTJA E TYRE
 Neni 32
 Materiale të rëndësisë së veçantë
 1. Konsiderohen materiale të rëndësisë së veçantë:
-a) testet dhe skemat e vlerësimit të tyre, deri para shpalljes në faqen elektronike të MAS-it dhe QSHA-së;
+a) testet dhe skemat e vlerësimit të tyre, deri para shpalljes në faqen elektronike të MA-së dhe QSHA-së;
 b) testet e plotësuara nga çdo maturant/kandidat;
 c) formularët e Maturës;
 d) baza e të dhënave të Maturës;
@@ -448,7 +454,7 @@ Masat disiplinore
 10. Për moszbatim të shkronjave “c”, “e”, të pikës 2, të nenit 24, të kësaj rregulloreje, të merret masa “Paralajmërim për largim nga puna”. Kjo masë depozitohet në dosjen personale
 11. Për moszbatim të shkronjave “a”, “h”, “i” dhe “r”, të pikës 2, të nenit 22 dhe të shkronjave “b” dhe “h”, të pikës 2, të nenit 24 të kësaj rregulloreje merret masa “Largim nga puna”. Kjo masë pasqyrohet në librezën e punës së punonjësit.
 12. Për moszbatim të pikës 1 dhe 3, të nenit 21, pikës 1 dhe 3, të nenit 22 dhe të pikës 1, të nenit 23, ndaj drejtorit të zyrës arsimore vendore merret masa “Largim nga detyra”, nga titullari përkatës. Kjo masë pasqyrohet në librezën e punës së punonjësit.
-13. Për moszbatim të nenit 25, të kësaj rregulloreje, ndaj përfaqësuesve të MAS-it merren masat disiplinore sipas parashikimeve të legjislacionit në fuqi.
+13. Për moszbatim të nenit 25, të kësaj rregulloreje, ndaj përfaqësuesve të MA-së merren masat disiplinore sipas parashikimeve të legjislacionit në fuqi.
 14. Për pasaktësi në korrigjim, ndaj vlerësuesve merren masat “Paralajmërim për largim nga detyra”, deri “Largim nga detyra”, si dhe përjashtim nga e drejta për të qenë korrigjues për 5 vjet, sipas përcaktimeve të Kodit të Punës, masë e cila depozitohet në dosjen personale.
 15. Për publikim në të gjitha format të testeve të Maturës Shtetërore, nga hartuesit merret masa “Largim nga detyra”, si dhe “Përjashtim nga e drejta për të qenë hartues për 5 vjet”, sipas përcaktimeve të Kodit të Punës, masë e cila depozitohet në dosjen personale.
 16. Për publikim në të gjitha format të testeve të Maturës si materiale të një rëndësie të veçantë, nga çdo person deri në çastin e përfundimit të kohës së testimit, ndaj individit që i ka publikuar, Agjencia Kombëtare e Arsimit Parauniversitar bën kallëzimin penal dhe ndjek procedurat përkatëse për ndjekje penale pranë organeve kompetente, në rastet kur përbën vepër penale sipas legjislacionit në fuqi.
