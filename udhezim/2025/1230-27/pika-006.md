@@ -1,0 +1,1 @@
+6. Kandidatët, që në Maturat Shtetërore 2012-2025 nuk kanë rezultuar kalues në asnjë prej provimeve që kanë zgjedhur për të dhënë, japin vetëm një lëndë nga lista e lëndëve të provimit me zgjedhje, të përcaktuar në shkronjën “a”, të pikës 3 të këtij udhëzimi.
