@@ -4,7 +4,7 @@ Nr. 1039, datë 4.12.2013
 
 PËR FUNKSIONIMIN E KËSHILLIT KOMBËTAR TË PUNËS DHE PËR CAKTIMIN E PËRFAQËSUESVE TË KËSHILLIT TË MINISTRAVE NË KËTË KËSHILL
 
-(ndryshuar me VKM nr.84, datë 14.2.2018, nr. 54, datë 29.1.2020, nr. 265, datë 27.4.2023; nr. 296, datë 15.5.2024)
+(ndryshuar me VKM nr.84, datë 14.2.2018, nr. 54, datë 29.1.2020, nr. 265, datë 27.4.2023; nr. 296, datë 15.5.2024; nr. 12, datë 15.1.2026)
 
 (i përditësuar)
 
@@ -18,21 +18,21 @@ VENDOSI:
 
 3. Organizatat e punëdhënësve e të punëmarrësve, si dhe administrata publike duhet t’i vënë në dispozicion KKP-së, sipas kërkesës, të gjitha informacionet dhe të dhënat e nevojshme, që kanë lidhje me objektin e funksionimit të këtij Këshilli, për zhvillimin e këshillimeve.
 
-4. KKP-ja kryesohet nga ministri i Ekonomisë, Kulturës dhe Inovacionit dhe ka në përbërje, si përfaqësues të Këshillit të Ministrave, edhe këta anëtarë:
+4. KKP-ja kryesohet nga ministri përgjegjës për çështjet e punës dhe ka në përbërje, si përfaqësues të Këshillit të Ministrave, këta anëtarë: 
 
-- ministrin e Financave;
+a) Ministrin e Financave;
 
-- ministrin e Drejtësisë;
+b) Ministrin e Drejtësisë;
 
-- ministrin e Shëndetësisë dhe Mbrojtjes Sociale;
+c) Ministrin e Shëndetësisë dhe Mirëqenies Sociale; 
 
-- ministrin e Arsimit dhe Sportit;
+ç) Ministrin e Arsimit; 
 
-- ministrin e Turizmit dhe Mjedisit;
+d) Ministrin e Turizmit, Kulturës dhe Sportit;
 
-- ministrin e Infrastrukturës dhe Energjisë.
+dh) Ministrin e Infrastrukturës dhe Energjisë; 
 
-Përfaqësues, kandidatë të KKP-së, në mungesë të përfaqësuesve, anëtarë të Këshillit të Ministrave, janë zëvendësministrat përkatës.
+Përfaqësues kandidatë të KKP-së, në mungesë të përfaqësuesve, anëtarë të Këshillit të Ministrave, janë zëvendësministrat përkatës.
 
 4/1. Përfaqësimi i organizatave të punëmarrësve dhe të punëdhënësve në Këshillin Kombëtar të Punës përcaktohet sipas kritereve të mëposhtme: 
 
@@ -84,7 +84,7 @@ c) të informojë Këshillin e Ministrave për rekomandimet e këtij Këshilli, 
 
 9. Pranë KKP-së krijohen dhe funksionojnë komisionet e përhershme e të specializuara tripalëshe, me përbërje, si më poshtë vijon:
 
-a) Komisioni juridik kryesohet nga drejtori i Drejtorisë së Programimit, Standardizimit dhe Harmonizimit të Kuadrit Rregullator në Ministrinë e Financave dhe Ekonomisë dhe ka në përbërje anëtarë, përfaqësues nga:
+a) Komisioni juridik kryesohet nga drejtori i Drejtorisë së Programimit, Standardizimit dhe Harmonizimit të Kuadrit Rregullator në Ministria e Ekonomisë dhe Inovacionit dhe ka në përbërje anëtarë, përfaqësues nga:
 
 i. Ministria e Drejtësisë:
 
@@ -96,9 +96,9 @@ iv. Biznesalbania;
 
 v. shoqata “Bashkimi i Prodhuesve Shqiptarë”.
 
-b) Komisioni i punësimit, arsimit dhe formimit profesional kryesohet nga drejtori i Drejtorisë së Punësimit, Arsimit dhe Formimit Profesional në Ministrinë e Financave dhe Ekonomisë dhe ka në përbërje anëtarë, përfaqësues nga:
+b) Komisioni i punësimit, arsimit dhe formimit profesional kryesohet nga drejtori i Drejtorisë së Politikave të Punësimit dhe Migratore në Ministrinë e Ekonomisë dhe Inovacionit dhe ka në përbërje anëtarë, përfaqësues nga:
 
-i. Ministria e Financave dhe Ekonomisë, përgjegjës sektori i PAFP-së; 
+i. Ministria e Ekonomisë dhe Inovacionit, përgjegjësi i sektorit të PAP-së;
 
 ii. Bashkimi i Sindikatave të Pavarura të Shqipërisë (BSPSH);
 
@@ -108,9 +108,9 @@ iv. Biznesalbania;
 
 v. Shoqata e Bukës, Pastiçerisë dhe Brumërave. 
 
-c) Komisioni i pagave, pensioneve dhe përkrahjes sociale kryesohet nga drejtori i Drejtorisë së Pensioneve dhe Pagës Minimale në Ministrinë e Financave dhe Ekonomisë dhe ka në përbërje anëtarë, përfaqësues nga:
+c) Komisioni i pagave, pensioneve dhe përkrahjes sociale kryesohet nga drejtori i Drejtorisë së Politikave të Sigurimeve Shoqërore në Ministrinë e Ekonomisë dhe Inovacionit dhe ka në përbërje anëtarë, përfaqësues nga:
 
-i. Ministria e Financave dhe Ekonomisë, drejtori i Drejtorisë së Buxhetit; 
+i. Ministria e Shëndetësisë dhe Mirëqenies Sociale, përgjegjësi i sektorit që mbulon çështjet për mbrojtjen sociale; 
 
 ii. Bashkimi i Sindikatave të Pavarura të Shqipërisë (BSPSH);
 
@@ -120,9 +120,9 @@ iv. Biznesalbania;
 
 v. Dhoma Kombëtare e Prodhuesve të Veshjeve/Këpucëve-Proeksport. 
 
-ç) Komisioni i kushteve të punës, shëndetit dhe sigurimit në punë kryesohet nga drejtori i Drejtorisë së Inspektimit dhe Marrëdhënieve të Punës në Ministrinë e Financave dhe Ekonomisë dhe ka në përbërje anëtarë, përfaqësues nga:
+ç) Komisioni i kushteve të punës, shëndetit dhe sigurimit në punë kryesohet nga drejtori i Drejtorisë së Marrëdhënieve të Punës, Sigurisë dhe Shëndetit në Ministrinë e Ekonomisë dhe Inovacionit dhe ka në përbërje anëtarë, përfaqësues nga:
 
-i. ISHPSHSH-ja, nëndrejtori; 
+i. Ministria e Shëndetësisë dhe Mirëqenies Sociale, përgjegjësi i sektorit që mbulon çështjet e shëndetit dhe sigurisë në punë;
 
 ii. Bashkimi i Sindikatave të Pavarura të Shqipërisë (BSPSH);
 
@@ -132,9 +132,9 @@ iv. Biznesalbania;
 
 v. Shoqata e Ndërtuesve të Shqipërisë.
 
-d) Komisioni i ekonomisë dhe i financës kryesohet nga drejtori i Drejtorisë së Buxhetit i dhe Borxhit në Ministrinë e Financave dhe Ekonomisë dhe ka në përbërje anëtarë, përfaqësues nga:
+d) Komisioni i ekonomisë dhe i financës kryesohet nga drejtori i Drejtorisë së Buxhetit dhe Menaxhimit Financiar në Ministrinë e Ekonomisë dhe Inovacionit dhe ka në përbërje anëtarë, përfaqësues nga:
 
-i. Ministria e Financave dhe Ekonomisë, përgjegjësi i sektorit të Drejtorisë së Buxhetit dhe Borxhit; 
+i. Ministria e Ekonomisë dhe Inovacionit, përgjegjës i sektorit, Drejtoria e Buxhetit dhe Menaxhimit Financiar; 
 
 ii. Bashkimi i Sindikatave të Pavarura të Shqipërisë (BSPSH);
 
@@ -144,9 +144,9 @@ iv. Biznesalbania;
 
 v. Shoqata Shqiptare e Bankave.
 
-dh) Komisioni i shanseve të barabarta, aftësive të kufizuara dhe rinisë kryesohet nga drejtori i Drejtorisë Përgjegjëse për Shanset e Barabarta dhe Aftësitë e Kufizuara në Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale dhe ka në përbërje anëtarë, përfaqësues nga:
+dh) Komisioni i shanseve të barabarta, aftësive të kufizuara dhe rinisë kryesohet nga drejtori i Drejtorisë së Politikave të Aftësimit Profesional dhe Inspektimit të AFP-së në Ministrinë e Ekonomisë dhe Inovacionit dhe ka në përbërje anëtarë, përfaqësues nga:
 
-i. Ministria e Arsimit dhe Sportit, drejtori i drejtorisë përgjegjëse për rininë; 
+i. Ministria e Shëndetësisë dhe Mirëqenies Sociale, përgjegjës i sektorit që mbulon çështjet për shanset e barabarta dhe aftësitë e kufizuara; 
 
 ii. Bashkimi i Sindikatave të Pavarura të Shqipërisë (BSPSH);
 
