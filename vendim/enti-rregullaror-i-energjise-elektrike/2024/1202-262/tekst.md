@@ -4,9 +4,9 @@ Nr. 262, datë 2.12.2024
 
 MBI LICENCIMIN E SHOQËRISË “SLR ALBANIA” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
-(Ndryshuar me vendimin nr. 294, datë 26.12.2024)
+(Ndryshuar me vendimin nr. 294, datë 26.12.2024; nr. 13, datë 15.1.2026)
 
-(I përditësuar)
+(i përditësuar)
 
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a”, 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 4, pika 1, germa “a”; 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 2.12.2024, mbasi shqyrtoi relacionin me nr. 2152/7 prot., datë 27.11.2024, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘SLR Albania’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
@@ -44,9 +44,9 @@ VENDOSI:
 
 2. Shfuqizuar.
 
-3. Shoqëria duhet të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike, brenda afateve të përcaktuara në kontratën me MIE-n.
+3. Shfuqizuar.
 
-4. Ky vendim është objekt rishikimi në zbatim të plotësimit të pikave 2 dhe 3.
+4. Shfuqizuar.
 
 5. Drejtoria e Licencimit dhe Autorizimeve, të njoftojë shoqërinë “SLR ALBANIA” sh.p.k. dhe Ministrinë e Infrastrukturës dhe Energjisë për vendimin e bordit të ERE-s.
 
