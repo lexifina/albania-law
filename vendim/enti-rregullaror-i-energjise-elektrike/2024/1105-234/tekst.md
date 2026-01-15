@@ -4,6 +4,10 @@ Nr. 234, datë 5.11.2024
 
 MBI LICENCIMIN E SHOQËRISË “DELTA PLAN STUDIO” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me Vendimin nr. 12, datë 15.1.2026)
+
+(I përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a”, dhe 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, i ndryshuar; neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, e ndryshuar; si dhe nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e datës 5.11.2024, mbasi shqyrtoi relacionin me nr. 1968/7 prot., datë 31.10.2024, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘Delta Plan Studio’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -40,11 +44,13 @@ VENDOSI:
 
 	1. Të licencojë shoqërinë “Delta Plan Studio” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 2 mw, në zonën kadastrale nr. 3038, fshati Povelçë, Njësia Administrative Dërmenas, Bashkia Fier, për një afat 30-vjeçar.
 
-	2. Shoqëria duhet të dokumentojë fillimin e punimeve për ndërtimin e centralit fotovoltaik brenda afatit të fundit të vlefshmërisë së VNM-së paraprake (brenda datës 18.12.2025), ose duhet të depozitojë në ERE një VNM paraprake të re.
+2. Shoqëria duhet të dokumentojë fillimin e punimeve për ndërtimin e centralit fotovoltaik brenda datës 6.1.2028, ose duhet të depozitojë në ERE një VNM paraprake të re.
 
 	3. Shoqëria duhet të fillojë ushtrimin e aktivitetit të prodhimit të energjisë elektrike nga centrali fotovoltaik, brenda afateve të përcaktuara në kontratën me MIE.
 
-	4. Ky vendim është objekt rishikimi nga ERE.
+3/1. Jo më vonë se 60 ditë nga fillimi i ushtrimit të aktivitetit duhet të dokumentojë në ERE testimin e veprës.
+
+4. Ky vendim është objekt rishikimi nga ERE, në rast të plotësimit/mosplotësimit të kushteve të këtij vendimi dhe në rast të depozitimit të akteve të ndryshme nga ato që kanë shërbyer për marrjen e këtij vendimi.
 
 	5. Drejtoria e Licencimit dhe Autorizimeve, të njoftojë shoqërinë “Delta Plan Studio” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, shoqërinë “Operatori i Sistemit të Shpërndarjes” sh.a. dhe shoqërinë “Furnizuesi i Tregut të Lirë” sh.a. për vendimin e Bordit të ERE-s.
 
