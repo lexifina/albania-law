@@ -1,0 +1,1 @@
+4. Për kërkesat e paraqitura nga subjektet, modeli i kërkesës për kalimin e pronësisë është sipas aneksit 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij. Kërkesa paraqitet online nëpërmjet portalit unik qeveritar “e-Albania” dhe tarifa e shërbimit paguhet në momentin e paraqitjes së kërkesës nga subjekti i interesuar.

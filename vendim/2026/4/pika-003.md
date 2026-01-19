@@ -1,0 +1,1 @@
+3. Procedura e kalimit të së drejtës së pronësisë, sipas këtij vendimi, fillon sipas përcaktimeve të nenit 62, të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”, dhe ndjek rregullat dhe afatet e parashikuara në këtë ligj dhe në Kodin e Procedurave Administrative.

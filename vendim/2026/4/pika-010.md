@@ -1,0 +1,1 @@
+10. Regjistrimi kryhet nga drejtoria vendore e ASHK-së, pa u kushtëzuar nga kërkesa për shërbim kadastral dhe nga parapagimi i tarifave kadastrale. Pas kryerjes së shërbimit të regjistrimit ajo njofton subjektin përfitues për të shlyer tarifat përkatëse. Deri në shlyerjen e vlerës së plotë të tarifës së shërbimit, mbi pasurinë e regjistruar rëndon hipoteka ligjore.

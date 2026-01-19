@@ -1,0 +1,1 @@
+6. Për kërkesat e paraqitura pranë strukturës përgjegjëse për shitjen e pronës publike, para hyrjes në fuqi të ligjit, për të cilat nuk ka përfunduar procedura administrative, nuk aplikohet pagesa e tarifës sipas pikës 5, të kreut I, të këtij vendimi.
