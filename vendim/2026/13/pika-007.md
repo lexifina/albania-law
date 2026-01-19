@@ -1,0 +1,1 @@
+7. Komisioni harton listën përfundimtare të kandidatëve të kualifikuar, të shoqëruar me renditjen sipas pikëve të grumbulluara, dhe ia paraqet sekretarit të përgjithshëm të institucionit përgjegjës brenda 3 (tri) ditëve kalendarike nga përfundimi i procesit të vlerësimit.

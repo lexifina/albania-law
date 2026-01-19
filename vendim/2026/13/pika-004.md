@@ -1,0 +1,1 @@
+4. Komisioni ad hoc përfundon shqyrtimin e dokumentacionit dhe zhvillimin e intervistave me kandidatët, brenda një afati jo më shumë se 15 (pesëmbëdhjetë) ditë kalendarike nga data e përfundimit të afatit për dorëzimin e aplikimeve.
