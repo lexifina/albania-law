@@ -1,1 +1,1 @@
-3. Institucioni administrues i SSHP-së është Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit.
+3. Agjencia Kombëtare e Punësimit dhe Aftësive është administratori i vetëm i SSHP-së. AKPA-ja, në mbështetje të funksionimit të SSHP-së, krijon e administron platformën e bashkëpunimit “puna.gov.al”, ku realizohen procedurat e shërbimit të punësimit ndaj punëkërkuesve dhe punëdhënësve.
