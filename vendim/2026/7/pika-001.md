@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërhyrje në zona sportive dhe lodra për fëmijë ’Dua të luaj’”, Bashkia Fier.
