@@ -1,2 +1,2 @@
-13. Ngarkohet Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit për zbatimin e këtij vendimi.
+13. Ngarkohet Drejtoria Qendrore e Agjencisë Kombëtare e Punësimit dhe Aftësive për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
