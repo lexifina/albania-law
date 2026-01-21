@@ -1,0 +1,1 @@
+3. Urdhri nr. 267, datë 24.7.2019, i ministrit të Turizmit dhe Mjedisit, “Për miratimin e rregullores ’Për mënyrën, kriteret dhe procedurat e kategorizimit të strukturave akomoduese’”, i ndryshuar, shfuqizohet.
