@@ -1,0 +1,1 @@
+2. Agjencia e Industrisë së Mbrojtjes dhe Drejtoria e Përgjithshme e Doganave bashkëpunojnë nëpërmjet shkëmbimit të informacionit, me qëllim identifikimin dhe verifikimin e mallrave të përcaktuara në shtojcën nr. 1, që i bashkëlidhet këtij vendimi.
