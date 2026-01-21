@@ -1,1 +1,0 @@
-4. Çdo subjekt që ushtron veprimtarinë si strukturë akomoduese është i detyruar të aplikojë në portalin e-Albania, për pajisjen me certifikatë kategorizimit, për të përfituar shkallën e reduktuar të tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e shërbimit të akomodimit në strukturat akomoduese.
