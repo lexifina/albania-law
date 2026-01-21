@@ -1,0 +1,1 @@
+14. Në rastet kur struktura përgjegjëse për financat, me fondet buxhetore që ka në dispozicion, nuk është në gjendje të shlyejë detyrimin e plotë sipas vendimit gjyqësor, ajo njofton nëpunësin autorizues. Në informacionin e paraqitur, struktura përgjegjëse për financat parashtron mundësitë për ekzekutim, sa i takon vlerës dhe periodicitetit të pagesave.

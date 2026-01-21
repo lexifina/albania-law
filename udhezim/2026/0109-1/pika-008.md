@@ -1,0 +1,1 @@
+8. Pas verifikimit të dokumentacionit shoqërues dhe të plotësimit të kritereve ligjore, sipas pikës 7, vendimi gjyqësor i formës së prerë dhe dokumentacioni shoqërues i përcillen strukturës përgjegjëse për financat, brenda 5 (pesë) ditëve nga administrimi i kërkesës/praktikës përmbarimore apo dokumentacionit të plotësuar, për parashikimin e fondeve buxhetore për likuidim.

@@ -1,0 +1,1 @@
+5. Struktura përgjegjëse për financat, me përparësi në vitet e ardhshme, planifikon fondet e nevojshme për shlyerjen e detyrimeve të mbartura, duke ndjekur procedurat përkatëse të planifikimit të fondeve buxhetore, të përcaktuara në aktet ligjore dhe nënligjore respektive.

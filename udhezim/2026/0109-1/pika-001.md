@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i mënyrës së ekzekutimit të detyrimeve monetare që rrjedhin nga vendimet gjyqësore të formës së prerë, me debitor ministrinë përgjegjëse për turizmin, kulturën dhe sportin.

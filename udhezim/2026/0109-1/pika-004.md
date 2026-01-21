@@ -1,0 +1,1 @@
+4. Struktura përgjegjëse për financat është përgjegjëse për dokumentimin e të gjitha transaksioneve financiare. Ajo, gjithashtu, garanton para miratimit të shkresave/urdhrave me karakter financiar ligjshmërinë, rregullshmërinë dhe respektimin e parimeve të ekonomicitetit, eficiencës dhe efektivitetit.
