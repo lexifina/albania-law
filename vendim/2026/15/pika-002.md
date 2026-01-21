@@ -1,0 +1,1 @@
+2. Ministria e Ekonomisë dhe Inovacionit, me transferimin e kuotave, sipas pikës 1, të këtij vendimi, ushtron të gjitha të drejtat dhe detyrimet, që rrjedhin nga cilësia e ortakut në shoqërinë “Air Albania” sh.p.k.
