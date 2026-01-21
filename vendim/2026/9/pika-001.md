@@ -1,0 +1,1 @@
+1. Miratimin e kuadrit makroekonomik e fiskal për periudhën 2027-2029, “Treguesit kryesorë makroekonomikë”, lidhja nr. 1, dhe “Treguesit fiskalë sipas buxhetit të konsoliduar”, lidhjet nr. 2/1 e nr. 2/2, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
