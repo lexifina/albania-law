@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të autoritetit kontraktor te znj. Florenca Korbi, me detyrë drejtor i Drejtorisë së Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse, për të gjitha procedurat e prokurimit publik të Ministrisë së Financave.
