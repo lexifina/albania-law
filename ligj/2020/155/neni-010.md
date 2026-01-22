@@ -1,9 +1,5 @@
 # Neni 10
-Aplikimi për leje mjedisi që përfshin shkarkimet e GES-it
-1. Operatori i një instalimi, sipas nenit 9 të këtij ligji, i cili aplikon për leje mjedisi që përfshin shkarkimet e GES-it, sipas përcaktimit të ligjit nr. 10 081, datë 23.2.2009, “Për licencat, autorizimet dhe lejet në Republikën e Shqipërisë”, të ndryshuar, dorëzon formatin e aplikimit që përmban informacionin për:
-a) instalimin dhe aktivitetet e tij, përfshirë përshkrimin rreth teknologjisë më të mirë të mundshme të përdorur, që ndihmon në uljen e shkarkimeve të GES-it;
-b) lëndët e para dhe materialet ndihmëse, përdorimi i të cilave mund të çojë në shkarkime të GES-it, të listuara në shtojcën I;
-c) burimet e shkarkimeve të GES-it nga instalimet e listuara në shtojcën II-A;
-ç) masat e planifikuara prej tij për të monitoruar e raportuar shkarkimet e GES-it në përputhje me rregulloren e parashikuar në nenin 8 të këtij ligji.
-2. Informacioni i përcaktuar në pikën 1 të këtij neni përfshihet në formatin e aplikimit për lejen e mjedisit, miratuar me vendim të Këshillit të Ministrave, në zbatim të ligjit në fuqi për lejet e mjedisit.
-3. Kur operatori zotëron një ose më shumë instalime në të njëjtën vendndodhje, AKM-ja lëshon vetëm një leje mjedisi, që përfshin shkarkimet e GES-it me kërkesa për këto instalime.
+Ndryshime të instalimit dhe aktivitetit të subjektit të rregulluar
+1. Operatori i instalimit informon menjëherë AKM-në për çdo ndryshim që planifikon të kryejë në natyrën apo funksionimin e instalimit ose për çdo zgjerim apo reduktim të rëndësishëm të kapacitetit të vet, që mund të kërkojë përditësimin e planit të monitorimit ose të autorizimit të shkarkimeve GES. Konsiderohet ndryshim i rëndësishëm i kapacitetit një ndryshim në funksionim që arrin pragun e kapacitetit prodhues ose sasinë e prodhimit të një instalimi të përfshirë në shtojcën II, pjesa A, të këtij ligji.
+2. Subjekti i rregulluar informon menjëherë AKM-në për çdo ndryshim të planifikuar në natyrën e aktivitetit ose të lëndëve djegëse që nxjerr për konsum, të cilat mund të kërkojnë përditësimin e planit të monitorimit ose të autorizimit të shkarkimeve GES.
+3. Përditësimi i planit të monitorimit dhe të autorizimit të shkarkimeve GES, në rastet e parashikuara në pikat 1 dhe 2 të këtij neni, kryhet sipas përcaktimeve të akteve nënligjore të parashikuara në shkronjat “a” dhe “d” të pikës 6 të nenit 8 të këtij ligji.

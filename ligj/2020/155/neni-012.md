@@ -1,5 +1,12 @@
 # Neni 12
-Ndryshime të instalimeve
-1. Operatori duhet të informojë AKM-në për çdo ndryshim që planifikon të bëjë në natyrën apo funksionimin e instalimit ose çdo zgjerim a reduktim të rëndësishëm të kapacitetit të vet, për të cilin mund të nevojitet përditësimi i kushteve të lejes së mjedisit lidhur me shkarkimin e GES-it.
-2. Ndryshimi i rëndësishëm i kapacitetit, siç referohet në pikën 1 të këtij neni, nënkupton një ndryshim në funksionim, i cili, sipas gjykimit të AKM-së, arrin pragun e kapacitetit prodhues ose sasinë e prodhimit të një instalimi të listuar në shtojcën II-A të këtij ligji.
-3. AKM-ja njofton operatorin kur e sheh të nevojshme përditësimin e kushteve që lidhen me shkarkimet e GES-it. Procedura e përditësimit të kushteve që lidhen me shkarkimet GES është e njëjtë me atë të përcaktuar në legjislacionin në fuqi për lejet e mjedisit.
+Detyrimet MRVA të shoqërisë së transportit detar
+1. Çdo shoqëri e transportit detar, për anijet që mbajnë flamurin shqiptar, ka detyrimin e monitorimit dhe të raportimit të shkarkimeve të GES-eve nga anijet e përfshira në shtojcën II, pjesa C, të këtij ligji, që transportojnë mallra apo pasagjerë për qëllime tregtare nga porti i fundit i zbarkimit në një port zbarkimi të vendosur në territorin e Republikës së Shqipërisë ose nga një port zbarkimi, i vendosur në territorin e Republikës së Shqipërisë, në portin e ardhshëm të zbarkimit, si dhe midis porteve të zbarkimit që ndodhen në territorin e Republikës së Shqipërisë.
+2. Shoqëria e transportit detar harton planin e monitorimit të shkarkimeve të GES-eve, që verifikohet nga verifikuesi i akredituar dhe miratohet nga Drejtoria e Përgjithshme Detare.
+3. Shoqëria e transportit detar raporton shkarkimet e GES-eve nëpërmjet raportit të të dhënave të monitorimit të shkarkimeve GES, që hartohet nga shoqëria e transportit detar dhe dorëzohet te verifikuesi i akredituar jo më vonë se muaji janar i çdo viti.
+4. Verifikuesi i akredituar verifikon raportin e të dhënave të monitorimit të shkarkimeve GES të shoqërisë së transportit detar. Raporti i verifikuar i të dhënave të monitorimit të shkarkimeve GES të shoqërisë së transportit detar dorëzohet pranë Drejtorisë së Përgjithshme Detare brenda muajit mars të çdo viti.
+5. Këshilli i Ministrave, me propozimin e ministrit, dhe, sipas rastit, të ministrit përgjegjës për transportin detar dhe për akreditimin në Republikën e Shqipërisë, miraton rregulloret për kushtet, kriteret dhe procedurat e monitorimit, raportimit dhe verifikimit të shkarkimeve të GES-eve nga shoqëria e transportit detar dhe akreditimit të verifikuesve, që përmbajnë:
+a) kushtet, kriteret dhe procedurën për miratimin e planit të monitorimit nga shoqëria e transportit detar dhe për verifikimin nga verifikuesi i akredituar;
+b) kushtet, kriteret e procedurat për monitorimin dhe hartimin e raportit të të dhënave të monitorimit të shkarkimeve GES;
+c) kushtet, kriteret e procedurat e verifikimit dhe hartimit të raportit të verifikimit nga verifikuesi i akredituar;
+ç) kushtet, kriteret dhe procedurat e akreditimit të verifikuesit të akredituar;
+d) kompetencat e Drejtorisë së Transportit Detar në lidhje me raportimin e të dhënave të monitorimit të shkarkimeve të GES-eve nga shoqëria e transportit detar dhe me verifikimin nga verifikuesi i akredituar.

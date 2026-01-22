@@ -1,4 +1,4 @@
 # Neni 36
 Raportimi
-1. AKM-ja përgatit raportin për zbatimin e kërkesave për monitorimin dhe raportimin e shkarkimeve të GES-it, që kërkohen nga ky ligj dhe aktet e tij nënligjore, çdo vit, pas datës së hyrjes në fuqi të rregullores së parashikuar në pikën 2 të nenit 8 të këtij ligji.
-2. Raporti i parë përgatitet pas një viti nga data e hyrjes në fuqi të rregullores së parashikuar në pikën 2 të nenit 8 të këtij ligji, sipas formatit të përmbajtjes së raportit të miratuar me urdhër të ministrit.
+1. AKM-ja përgatit raportin për zbatimin e kërkesave për monitorimin, raportimin, verifikimin e shkarkimeve të GES-eve, sipas kërkesave të këtij ligji dhe akteve nënligjore të tij, çdo vit pas fillimit të efekteve të detyrimeve të operatorëve, sipas parashikimeve të nenit 38/1 të këtij ligji, dhe ia vendos në dispozicion ministrisë përgjegjëse për mjedisin.
+2. Formati dhe përmbajtja e raportit të parashikuar në këtë nen miratohet me urdhër të ministrit.

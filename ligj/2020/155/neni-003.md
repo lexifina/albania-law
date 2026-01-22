@@ -5,6 +5,7 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 2. “Ndryshim klimatik” është një ndryshim i klimës, që i atribuohet direkt apo indirekt aktivitetit të njeriut, i cili ndryshon përbërjen e atmosferës globale dhe që i shtohet ndryshueshmërisë natyrore të klimës, që vërehet në periudha kohe të krahasueshme.
 3. “Sistem i klimës” është tërësia e atmosferës, hidrosferës, biosferës e gjeosferës dhe ndërveprimeve të tyre.
 4. “Shkarkime” janë çlirimet nga aktivitetet antropogjene të GES-it dhe/ose prekursorëve të tyre në atmosferë, në një sipërfaqe dhe periudhë kohe të caktuar.
+4/1. “Shkarkime GES” janë çlirimet e gazeve me efekt serrë (GES) nga burimet e instalimit, që kryejnë aktivitetet e përfshira në shtojcën II, pjesa A; nga operatori i avionit, sipas përcaktimeve në shtojcën II, pjesa B; nga anija që kryen një veprimtari transporti detar dhe çliron GES-et e përfshira në shtojcën II, pjesa C, ose nga subjekti i rregulluar që kryen veprimtarinë e përmendur në shtojcën II, pjesa D.
 5. “Rezervuar” është një përbërës apo përbërësit e sistemit të klimës ku depozitohet një GES apo një prekursor i GES-it.
 6. “Përthithës” është çdo proces, aktivitet apo mekanizëm, që largon një GES, një aerosol ose një prekursor të GES-it nga atmosfera.
 7. “Burim” është çdo proces apo aktivitet që çliron një GES, një aerosol apo një prekursor të GES-it nga atmosfera.
@@ -12,7 +13,7 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 9. “Protokolli i Kiotos” është Protokolli i Kiotos i Konventës Kuadër të Kombeve të Bashkuar për Ndryshimet Klimatike, miratuar në Kioto më 11 dhjetor 1997, që ka hyrë në fuqi në Republikën e Shqipërisë më 30 qershor 2005.
 10. “Kapja dhe depozitimi gjeologjik i dyoksidit të karbonit (CO2)” është një teknologji e ndërmjetme/lidhëse, që synon të kontribuojë në zbutjen e ndryshimeve klimatike. Ajo konsiston në kapjen e CO2 nga instalimet industriale, transportin e tij në një vend depozitimi dhe injektimin në një formacion gjeologjik të përshtatshëm nën tokë, me qëllim ruajtjen e përhershme.
 11. “Gaz me efekt serrë (GES)” janë gazet që gjenden në atmosferë në gjendje natyrale dhe të shkaktuara nga aktivitetet antropogjene, të cilat përthithin dhe riemetojnë rrezatimin infra të kuq. Lista e GES-it të shkarkuar nga aktivitetet antropogjene, që mbulohen nga ky ligj, është në shtojcën I.
-12. “Leje mjedisi që përfshin shkarkimet e GES-it” janë lejet e mjedisit të tipave A dhe B, që përmbajnë edhe kushte për GES-in dhe që lëshohen në përputhje me kërkesat e ligjit për lejet e mjedisit dhe të kreut III të seksionit I të këtij ligji.
+12. Shfuqizuar.
 13. “Instalim” është një njësi teknike e palëvizshme, ku kryhen një apo më shumë aktivitete që bëjnë pjesë në shtojcën II, pjesa A e këtij ligji, dhe çdo aktivitet tjetër shoqërues që ka lidhje teknike me aktivitetet e kryera në atë vendndodhje dhe që mund të ketë ndonjë efekt mbi shkarkimet dhe ndotjen;
 14. “Ton ekuivalent dyoksid karboni” është një ton metrik dyoksid karboni (CO2) ose një sasi e çfarëdo GES-i tjetër të listës në shtojcën I, që ka potencial ekuivalent për ngrohje globale.
 15. “Djegie” është oksidimi i lëndës djegëse, pavarësisht mënyrës sesi përdoret nxehtësia, energjia elektrike apo mekanike e prodhuar nga ky proces, dhe çdo aktivitet tjetër që lidhet drejtpërdrejt me të, përfshirë pastrimin e mbetjeve të gazta;
@@ -34,7 +35,40 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 31. “Mekanizmi i zhvillimit të pastër (MZHP)” është një mekanizëm i bazuar në projekte, që buron nga Protokolli i Kiotos dhe që nxit partnershipin midis vendeve të zhvilluara dhe vendeve në zhvillim të Konventës për arritjen e objektivit final të saj, stabilizimin e GES-it në atmosferë.
 32. “Sistemi i inventarit kombëtar” është sistemi i rregullimeve institucionale, ligjore dhe procedurale të bëra në Republikën e Shqipërisë për vlerësimin e shkarkimeve antropogjene nga burimet dhe përthithjen e tyre nga përthithësit e GES-it, të listuara në shtojcën I, si dhe për raportimin dhe arkivimin e informacionit të këtij inventari.
 33. “Inventari i GES-it” është inventari i shkarkimeve, që përfshin shkarkimet e GES-it nga kategoritë e burimeve, si dhe përthithjen e tyre nga përthithësit e karbonit.
-34. “IGJEUM” është Instituti i Gjeoshkencës, Energjisë, Ujit dhe Mjedisit.
+34. “IGJEO” është Instituti i Gjeoshkencave.
 35. “Konventa e Aarhusit” është konventa për të drejtën e publikut për të pasur informacion, për të marrë pjesë në vendimmarrje dhe për t’iu drejtuar gjykatës për çështjet e mjedisit, ratifikuar me ligjin nr. 8672, datë 26.10.2000.
 36. “Njësitë që përdorin ekskluzivisht biomasën” janë njësitë që përdorin lëndë djegëse fosile gjatë ndezjes apo fikjes së njësisë.
 37. “Emergjencë klimatike” është një situatë në të cilën kërkohet veprim urgjent për të zvogëluar ose ndalur ndryshimet klimatike dhe për të shmangur dëmet e mundshme të pakthyeshme mjedisore që rezultojnë prej saj.
+38. “Efektet në aviacion, të palidhura me shkarkimin e CO2” janë efektet në klimë nga çlirimi i oksideve të azotit (NOx), i grimcave të blozës dhe i oksideve të squfurit gjatë djegies së karburantit dhe efektet nga avujt e ujit, duke përfshirë vijat e kondensimit (contrail) nga një avion që kryen një veprimtari aviacioni, të radhitur në shtojcën II, pjesa B.
+39. “MRVA” është sistemi i Bashkimit Evropian që parashikon detyrimet e monitorimit, raportimit, verifikimit dhe akreditimit, në lidhje me shkarkimet e gazeve me efekt serrë për disa veprimtari specifike, që ngrihet në përputhje me direktivën 2003/87/KE të Parlamentit Evropian dhe të Këshillit, datë 13 tetor 2003, “Për krijimin e një skeme për tregtinë e lejeve për shkarkimet e gazeve me efekt serrë brenda Komunitetit dhe që ndryshon direktivën e Këshillit 96/61/KE.
+40. “Lëndë djegëse”, për qëllimin e këtij ligji, është çdo produkt energjetik që përfshihet në listën e shtojcës II, pjesa D, të këtij ligji, që tregtohet dhe përdoret për djegie në sektorët e ngrohjes së ndërtesave, transportit rrugor, industrisë energjetike, industrisë së prodhimit dhe të ndërtimit, sipas specifikimeve teknike dhe përjashtimeve të përcaktuara në shtojcën II, pjesa D, të këtij ligji.
+41. “Porti i zbarkimit” është porti ku një anije ndalon për të ngarkuar ose për të shkarkuar ngarkesë, për të ngjitur apo për të zbritur pasagjerë, ose porti ku një mjet lundrues në det të hapur (offshore) ndalon për të ndërruar ekuipazhin. Nuk përfshihen ndalesat që kanë si qëllim të vetëm furnizimin me karburant, marrjen e furnizimeve të tjera, ndërrimin e ekuipazhit të një anijeje, të ndryshme nga ajo në det të hapur, hyrjen në dok ose riparimin e anijes dhe/ose të pajisjeve të saj, ndalesat në port kur mjeti ka nevojë për ndihmë ose është në rrezik, transferimet nga anija në anije, të kryera jashtë porteve, ndalesat me qëllimin e vetëm për t’u strehuar nga moti i pafavorshëm ose që bëhen të domosdoshme për kryerjen e aktivitetit të kërkim-shpëtimit dhe ndalesat e anijeve të kontejnerëve në një port fqinj transporti kontejnerësh.
+42. “Subjekti i rregulluar”, për qëllim të këtij ligji, është:
+a) shoqëria e tregtimit me shumicë të naftës, gazit dhe nënprodukteve të tyre, sipas përkufizimit të ligjit nr. 8450, datë 24.12.1999, “Për përpunimin, transportimin dhe tregtimin e naftës, të gazit dhe të nënprodukteve të tyre”, të ndryshuar, që ushtron veprimtarinë e tregtimit me shumicë të produkteve të mëposhtme, kur përdoren si lëndë djegëse, në kuptim të shtojcës II, pjesa D, të këtij ligji:
+i. naftë bruto;
+ii. gaz natyror;
+iii. gaz i lëngshëm;
+iv. benzinë automjetesh;
+v. nënprodukte të tjera, të lëngshme, si benzol, toluol, ksilol, solven, white spirit;
+vi. gazoil (diezel);
+vii. vajgur ndriçues;
+viii. kerozene;
+ix. lëndë djegëse për përdorim termik civil dhe/ose industrial;
+x. vajra;
+xi. solarë;
+xii. bitum (asfalt);
+xiii. mazut.
+b) çdo person fizik ose juridik që ushtron veprimtarinë e tregtimit me shumicë të produkteve të tjera, që konsiderohen dhe përdoren si lëndë djegëse, në kuptim të shtojcës II, pjesa D, të këtij ligji.
+43. “Shoqëri transporti detar”, për qëllim të këtij ligji, janë subjektet detare sipas nenit 3 të ligjit nr. 9251, datë 8.7.2004, “Kodi Detar i Republikës së Shqipërisë”, të ndryshuar, me përjashtim të të punësuarve.
+44. “Lëndë djegëse alternative” do të thotë lëndë djegëse ose burime energjie që shërbejnë, të paktën pjesërisht, si zëvendësim për burimet e naftës fosile në energjinë e përdorur për transport dhe që kanë potencialin të kontribuojnë në dekarbonizimin e tij dhe të përmirësojnë performancën mjedisore të sektorit të transportit, duke përfshirë:
+a) lëndë djegëse për automjete, trena, anije ose avionë me emetim zero të llojit:
+i. energji elektrike;
+ii. hidrogjen;
+iii. amoniak.
+b) lëndë djegëse të rinovueshme dhe konkretisht:
+i. karburante të biomasës, duke përfshirë biogazin dhe biokarburantet e përcaktuara në ligjin nr. 24/2023 “Për nxitjen e përdorimit të energjisë nga burimet e rinovueshme”, si dhe në legjislacionin në fuqi për prodhimin, tregtimin, transportin e biokarburanteve dhe lëndëve të tjera djegëse;
+ii. lëndë djegëse sintetike dhe parafinike, duke përfshirë amoniakun, të prodhuara nga energjia e rinovueshme;
+c) lëndë djegëse alternative jo të rinovueshme dhe karburante fosile kalimtare dhe konkretisht:
+i. gaz natyror në formë të gaztë (gaz natyror i kompresuar (GNK)) dhe në formë të lëngëzuar (gaz natyror i lëngëzuar (GNL)), i përcaktuar në ligjin nr.102/2015 “Për sektorin e gazit natyror”, të ndryshuar;
+ii. gaz nafte i lëngëzuar (LPG) që përbëhet nga hidrokarbure të lehta parafinike, të cilat rrjedhin nga proceset e rafinerisë, nga stabilizimi i naftës bruto dhe nga impiantet e përpunimit të gazit natyror, të përbëra kryesisht nga propani dhe butani ose kombinimi i të dyjave, që mund të përfshijnë edhe propilenin, butilenin, izopropilenin dhe izobutilenin;
+iii. lëndë djegëse sintetike dhe parafinike të prodhuara nga energji jo e rinovueshme.
