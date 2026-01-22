@@ -1,0 +1,1 @@
+5. Autoriteti Kombëtar i Ushqimit dhe Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve informojnë të gjithë subjektet importuese të kafshëve të gjalla të llojit ruminantë dhe kamelidë, spermës dhe embrioneve të kafshëve të gjalla të llojit ruminantë dhe kamelidë.
