@@ -1,0 +1,3 @@
+# Neni 3
+Aktet nënligjore
+Ngarkohen ministri përgjegjës për financat dhe drejtori i përgjithshëm i Agjencisë Shtetërore të Kadastrës për nxjerrjen e udhëzimit të përbashkët për procedurat e zbatimit të këtij ligji për llogaritjen e bazës së tatueshme, paraqitjen dhe administrimin e kërkesës për rivlerësim, pagesën e tatimit të rivlerësimit, rregullat e procedurat për pasqyrimin e rivlerësimit të pasurisë në regjistrat e pasurive të paluajtshme, pagesën e të ardhurave nga tatimi i rivlerësimit në buxhetin e shtetit, si dhe për përcaktimin e tarifës së kryerjes së shërbimeve të parashikuara nga ky ligj nga Agjencia Shtetërore e Kadastrës brenda 30 ditëve nga hyrja në fuqi e këtij ligji.
