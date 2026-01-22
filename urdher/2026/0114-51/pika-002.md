@@ -1,0 +1,1 @@
+2. Pavarësisht delegimit të kompetencave sipas këtij urdhri, përgjegjësi i Sektorit të Hartimit të Legjislacionit, nëse e gjykon të nevojshme, mund t’i përcjellë për nënshkrim drejtorit të përgjithshëm shkresat që i vlerëson të një rëndësie të veçantë.
