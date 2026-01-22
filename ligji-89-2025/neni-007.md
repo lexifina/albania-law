@@ -1,0 +1,6 @@
+# Neni 7
+Gjuetia për qëllime kërkimore-shkencore
+1. Gjuetia për qëllime kërkimore-shkencore përfshin gjuetinë ose zënien e kafshëve të egra për hulumtime shkencore, për qëllime mësimore në institucionet e arsimit të mesëm e të lartë, si dhe për shumim të kafshëve për gjah.
+2. Individë të llojeve të faunës së egër që nuk janë objekt gjuetie mund të gjuhen për qëllime kërkimore-shkencore, përjashtimisht vetëm me miratimin e ministrit përgjegjës për gjuetinë.
+3. Institucionet, institutet dhe njësitë e veçanta të kërkimit shkencor mund të realizojnë veprimtari gjuetie për qëllime kërkimore-shkencore vetëm në bashkëpunim me gjuetarë të pajisur me leje të vlefshme gjuetie, në përputhje me legjislacionin në fuqi. Pas përfundimit të veprimtarisë së gjuetisë, subjektet e mësipërme kanë detyrimin të dorëzojnë raportin për rezultatet e arritura, duke përfshirë të dhëna të sakta për llojet e individëve të vrarë ose të kapur në strukturën përgjegjëse për gjuetinë pranë njësive të vetëqeverisjes vendore, si dhe pranë strukturës përgjegjëse për gjuetinë në ministri dhe në ministrinë përgjegjëse për shkencën e kërkimin shkencor.
+4. Procedura, afatet dhe dokumentacioni i nevojshëm për miratimin e gjuetisë për qëllime kërkimore-shkencore miratohen me urdhër të ministrit përgjegjës për gjuetinë, me propozimin e strukturës përgjegjëse që mbulon gjuetinë në ministri.

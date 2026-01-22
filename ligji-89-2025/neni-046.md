@@ -1,0 +1,6 @@
+# Neni 46
+Monitorimi i gjuetisë
+1. Monitorimi i gjuetisë është proces i detyrueshëm, që kryhet nga menaxhuesi i zonës së gjuetisë, nën mbikëqyrjen dhe kontrollin e strukturës përgjegjëse që mbulon natyrën dhe biodiversitetin pranë njësisë së vetëqeverisjes vendore.
+2. Programet e monitorimit dhe zbatimi i tyre kryhen nga njësia përgjegjëse që mbulon natyrën dhe biodiversitetin pranë njësisë së vetëqeverisjes vendore, në bashkëpunim me menaxhuesin e zonës së gjuetisë, dhe përcaktojnë metodat e grumbullimit të të dhënave për llojet, objekt gjuetie, dhe të përpunimit të tyre.
+3. Monitorimi i gjuetisë, si pjesë përbërëse e monitorimit të faunës së egër, përmbledh monitorimin e veprimtarisë së gjuetisë dhe monitorimin e zonave të gjuetisë.
+4. Të dhënat vjetore të monitorimit të zonave të gjuetisë mblidhen në nivel qarku nga njësia përgjegjëse që mbulon natyrën dhe biodiversitetin pranë njësisë së vetëqeverisjes vendore, e cila ia dërgon ato strukturës përgjegjëse për gjuetinë në ministri brenda muajit maj për vitin paraardhës. Struktura përgjegjëse për natyrën dhe biodiversitetin në ministri i përpunon të dhënat e grumbulluara dhe rezultatet i publikon brenda muajit qershor në faqen e saj zyrtare.
