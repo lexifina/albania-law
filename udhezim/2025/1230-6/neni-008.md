@@ -1,0 +1,8 @@
+# Neni 8
+Disponueshmëria e të dhënave dhe vënia në zbatim e shërbimeve SIT
+1. Informacioni bazë, me të dhënat për çdo zonë gjeografike publikohet dhe bëhet i disponueshëm në faqen e web-it të Pikës Kombëtare të Aksesit nga ofruesit e të dhënave, në përputhje me llojin e të dhënave dhe afatet e përcaktuara në shtojcën III.
+2. Ofruesit e të dhënave përditësojnë dhe bëjnë të disponueshme pa vonesë në faqen e web të Pikës Kombëtare të Aksesit, të dhënat që i korrespondojnë informacionit bazë, të cilat janë krijuar ose përditësuar në ose pas datës së përcaktuar në kolonën e tretë të shtojcës III.
+3. Ofruesit e të dhënave që publikojnë dhe bëjnë të disponueshëm në faqen e web të Pikës Kombëtare të Aksesit, lloje të tjera të dhënash, të ndryshme nga ato të përcaktuara në pikën 1 të këtij neni, respektojnë afatet e përcaktuara në shtojcën III dhe i përditësojnë këto të dhëna kurdo që është e nevojshme.
+4. Afatet për publikimin dhe bërjen të disponueshme të të dhënave për të cilat nuk është përcaktuar një afat në kolonën e katërt të shtojcës III, përcaktohen nga ministri përgjegjës për transportin.
+5. Afatet e përcaktuara në shtojcën III, zbatohen vetëm për infrastrukturën ekzistuese. Për infrastrukturën e re, të dhënat e përcaktuara në shtojcën III publikohen dhe bëhen të disponueshme në faqen e web të Pikës Kombëtare të Aksesit, në datën e hapjes së kësaj infrastrukture për trafikun rrugor.
+6. Ofruesit e shërbimeve të SIT-it janë përgjegjës që shërbimet e SIT-it të përcaktuara në shtojcën IV të zbatohen për zonën gjeografike të mbuluar sa më shpejtë që është mundur dhe në asnjë rast, jo më vonë se datat korresponduese të përcaktuara në këtë Shtojcë.

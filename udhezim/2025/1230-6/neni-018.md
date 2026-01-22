@@ -1,0 +1,5 @@
+# Neni 18
+Raportimi
+1. Brenda datës 21 mars 2026, Komiteti i Transportit për Planifikimin e SIT-it i paraqet ministrit përgjegjës për transportin, raportin fillestar mbi zbatimin e këtij udhëzimi dhe të urdhrave të miratuar mbi zbatimin e sistemeve inteligjente të transportit, si dhe mbi aktivitetet dhe projektet kryesore kombëtare, në lidhje me fushat prioritare dhe me disponueshmërinë e të dhënave dhe shërbimeve të renditura në shtojcat III dhe IV, pjesë përbërëse të këtij udhëzimi.
+2. Modeli i raportit fillestar dhe i atyre të përparimit, duke përfshirë listën e treguesve kryesorë të performancës për vlerësimin e zbatimit të këtij udhëzimi dhe urdhrave për zbatimin e sistemeve inteligjente në transport është bashkëlidhur si shtojca V dhe shtojca VI pjesë përbërëse të këtij udhëzimi.
+3. Raporti i parë i përparimit do të plotësohet brenda datës 21 mars 2028 dhe më pas çdo tre vjet mbi përparimin e bërë lidhur me zbatimin e këtij udhëzimi dhe të urdhrave të miratuar për zbatimin e sistemeve inteligjente në transport.

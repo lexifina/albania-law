@@ -1,0 +1,7 @@
+# Neni 14
+Rregullat mbi përgjegjësinë
+1. Autoritetet përgjegjëse të sigurojnë që çështjet që lidhen me përgjegjësinë, për sa i përket vendosjes dhe përdorimin e aplikacioneve dhe shërbimeve të SIT-it të përcaktuara në specifikimet e miratuara sipas nenit 6, janë trajtuar në përputhje me legjislacionin përkatës kombëtar.
+2. Autoriteti Rrugor Shqiptar (ARRSH) administron:
+a) Sistemin e menaxhimit të trafikut, që nënkupton një sistem, i cili konsiston në instalimin e pajisjeve stacionare trafikmatëse në akset kryesore të rrjetit rrugor kombëtar. Ky sistem i ofron ARRSH-së të dhëna trafiku në kohë reale dhe është në zbatim të detyrimeve që rrjedhin nga ligji nr. 8378, datë 22.7.1998, “Kodi Rrugor i Republikës së Shqipërisë”, i ndryshuar, mbi monitorimin e trafikut në rrjetin rrugor kombëtar dhe udhëzimit nr. 12, datë 30.12.2024, “Mbi ofrimin e shërbimeve të informacionit të trafikut në kohë reale”.
+b) Qendrën e Monitorimit dhe Kontrollit të Trafikut Rrugor, që ka për qëllim përfshirjen e shërbimeve SIT dhe për realizimin e këtij qëllimi, bashkëpunon me Institutin e Transportit dhe Policinë Rrugore.
+c) Sistemin “WEB-GIS”, që është një sistem i cili shërben si një inventar i hollësishëm i rrjetit rrugor kombëtar, duke ndihmuar në miradministrimin e të dhënave përkatëse. Ky sistem është ndërtuar në përputhje me standardet evropiane INSPIRE dhe ligjin nr. 72/2012, “Për organizimin dhe funksionimin e infrastrukturës kombëtare të informacionit gjeohapësinor”, të ndryshuar.

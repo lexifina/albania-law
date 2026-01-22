@@ -1,0 +1,4 @@
+# Neni 9
+Standardet
+1. Në fushat prioritare dhe për veprimet prioritare zhvillohen standardet e nevojshme për të siguruar ndërveprueshmërinë, përputhshmërinë dhe vijimësinë për vënien në zbatim dhe përdorimin operacional të SIT-it. Për këtë qëllim, ministria përgjegjëse për transportin, pas konsultimeve me Komitetin e Transportit për Planifikimin e SIT-it, i propozon Drejtorisë së Përgjithshme të Standardizimit, në përputhje me rregullat e përcaktuara në nenin 15 të ligjit nr. 9870, datë 4.2.2008, “Për standardizimin”, të ndryshuar, adoptimin e standardeve evropiane përkatëse, si standarde shqiptare.
+2. Ministria përgjegjëse për transportin paraqet propozimin për institucionin përgjegjës për standardizimit, në përputhje me shtojcën II, pjesë përbërëse e këtij udhëzimi, si dhe çdo dispozitë funksionale të përfshirë në një specifikim të miratuar në përputhje me nenin 7.
