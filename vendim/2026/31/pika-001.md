@@ -1,0 +1,1 @@
+1. Miratimin e planit të shpenzimeve, për vitin 2026, të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura, në shumën 76 762 426 (shtatëdhjetë e gjashtë milionë e shtatëqind e gjashtëdhjetë e dy mijë e katërqind e njëzet e gjashtë) lekë, sipas pasqyrës nr. 1, që i bashkëlidhet këtij vendimi.
