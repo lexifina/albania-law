@@ -1,0 +1,1 @@
+7. Plotësimi i vendeve vakante në Trupën e Nëpunësve Civilë të Nivelit të Lartë Drejtues bëhet sipas përcaktimeve në nenet 27-30, të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar, dhe aktet nënligjore në zbatim të tij.
