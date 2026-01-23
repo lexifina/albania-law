@@ -1,0 +1,4 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Memaliaj të zonave, si më poshtë vijon:
+a) Zona zhvillimore nr. 1, që përfshin territore nga fshatrat Arrëz e Madhe, Maricaj dhe Vagalat, pjesë e njësisë administrative Luftinjë, me sipërfaqe 1 152.01 ha (një mijë e njëqind e pesëdhjetë e dy pikë zero një) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+b) Zona zhvillimore nr. 2, njësia administrative Buz, me sipërfaqe 5 916.22 ha (pesë mijë e nëntëqind e gjashtëmbëdhjetë pikë njëzet e dy) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+c) Zona zhvillimore nr. 3, fshati Rabie, pjesë e njësisë administrative Luftinjë, me sipërfaqe 1 241.43 ha (një mijë e dyqind e dyzet e një pikë dyzet e tre) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto.
