@@ -1,0 +1,1 @@
+8. Kriteret e emërimit të anëtarëve të Këshillit Mbikëqyrës, periudha e emërimit apo e riemërimit të tyre, masa dhe skema e shpërblimit caktohen në statutin e shoqërisë, duke mbajtur në konsideratë parashikimet e nenit 167, të ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar.

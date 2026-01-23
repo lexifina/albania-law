@@ -1,0 +1,1 @@
+15. Marrëdhëniet e punës së punonjësve të shoqërisë “AKEM” sh.a., rregullohen sipas dispozitave të Kodit të Punës të Republikës së Shqipërisë dhe akteve të brendshme të kësaj shoqërie dhe kriteret specifike të emërimit të punonjësve përcaktohen në aktet e brendshme të shoqërisë.

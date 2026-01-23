@@ -1,0 +1,1 @@
+18. Me mbylljen e veprimtarisë së AKEM-it, brenda 30 (tridhjetë) ditëve, inventari ekonomik, dokumentacioni dhe arkivi i kësaj Agjencie transferohet pranë shoqërisë “AKEM” sh.a. Për punonjësit aktualë të Agjencisë Kombëtare të Ekonomisë së Mbetjeve, në rastin e mbylljes së institucionit, zbatohen dispozitat e Kodit të Punës.

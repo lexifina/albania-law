@@ -1,0 +1,1 @@
+3. Agjencia Kombëtare e Ekonomisë së Mbetjeve sh.a., sipas përcaktimeve në pikën 1, të këtij vendimi, themelohet, organizohet dhe funksionon me dy nivele administrimi, këshill mbikëqyrës dhe administrator, në përputhje me parashikimet e ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar.

@@ -1,0 +1,1 @@
+16. Agjencia Kombëtare e Ekonomisë së Mbetjeve do të vijojë të kryejë funksionet e saj, në emër dhe për llogari të ministrisë përgjegjëse për mjedisin, deri në fillimin e ushtrimit të veprimtarisë së shoqërisë “AKEM” sh.a.

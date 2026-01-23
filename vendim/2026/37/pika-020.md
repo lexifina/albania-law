@@ -1,0 +1,1 @@
+20. Fillimi i ushtrimit të funksionimit të veprimtarisë së AKEM-it si shoqëri aksionare, sipas parashikimeve të këtij vendimi, do të kryhet me shfuqizimin e vendimi nr. 132, datë 6.3.2024, të Këshillit të Ministrave, “Për krijimin, organizimin dhe funksionimin e Agjencia Kombëtare e Ekonomisë së Mbetjeve sh.a.”, të ndryshuar.
