@@ -1,0 +1,1 @@
+10. Shpenzimet kapitale për investimet në spitale mbulohen nga Ministria e Shëndetësisë dhe Mirëqenies Sociale. Spitalet paraqesin kërkesën për investime në Ministrinë e Shëndetësisë dhe Mirëqenies Sociale.

@@ -1,0 +1,1 @@
+12. Spitali zbaton sistemin e referimit dhe tarifat për shërbimet me pagesë, të miratuara nga ministri i Shëndetësisë dhe Mirëqenies Sociale, me përjashtim të spitaleve që kanë përfituar autonominë financiare.
