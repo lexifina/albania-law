@@ -1,0 +1,17 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Dibër të zonave, si më poshtë vijon:
+a) Zona zhvillimore nr. 1, Bjeshkët e Korabit, me sipërfaqe 1146.11 (një mijë e njëqind e dyzet e gjashtë pikë njëmbëdhjetë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+b) Zona zhvillimore nr. 2, Bjeshkët e Hinoskës, me sipërfaqe 272.02 (dyqind e shtatëdhjetë e dy pikë zero dy) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+c) Zona zhvillimore nr. 3, Bjeshkët e Gramës, me sipërfaqe 859.80 (tetëqind e pesëdhjetë e nëntë pikë tetëdhjetë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+ç) Zona zhvillimore nr. 4, Bjeshkët e Zimurit, me sipërfaqe 559.83 (pesëqind e pesëdhjetë e nëntë pikë tetëdhjetë e tre) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+d) Zona zhvillimore nr. 5, Kodra e Gjaricës, fshati Brezhdan, pjesë e Njësisë Administrative Tomin, me sipërfaqe 195.72 (njëqind e nëntëdhjetë e pesë pikë shtatëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+dh) Zona zhvillimore nr. 6, fshati Kallë, pjesë e njësisë administrative Sllovë, me sipërfaqe 34.32 (tridhjetë e katër pikë tridhjetë e dy) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+e) Zona zhvillimore nr. 7, fshati Lashkizë, pjesë e njësisë administrative Zall-Dardhë, me sipërfaqe 160.48 (njëqind e gjashtëdhjetë pikë dyzet e tetë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+ë) Zona zhvillimore nr. 8, fshati Lugjej, pjesë e njësisë administrative Zall-Dardhë, me sipërfaqe 626.74 (gjashtëqind e njëzet e gjashtë pikë shtatëdhjetë e katër ha), sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+f) Zona zhvillimore nr. 9, Lurë, pjesë e njësisë administrative Lurë, me sipërfaqe 509.05 (pesëqind e nëntë pikë zero pesë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+g) Zona zhvillimore nr. 10, fshati Qa (Prat), pjesë e njësisë administrative Zall-Dardhë, me sipërfaqe 107.38 (njëqind e shtatë pikë tridhjetë e tetë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+gj) Zona zhvillimore nr. 11, fshati Sllatinë, pjesë e njësisë administrative Sllovë, me sipërfaqe 79.62 (shtatëdhjetë e nëntë pikë gjashtëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+h) Zona zhvillimore nr. 12, Lan - Lurë, pjesë e njësisë administrative Lurë, me sipërfaqe 219.35 (dyqind e nëntëmbëdhjetë pikë tridhjetë e pesë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+i) Zona zhvillimore nr. 13, livadhet e Kallës - Vleshë, pjesë e fshatrave Kallë dhe Vleshë, pjesë e njësisë administrative Sllovë, me sipërfaqe 868.34 (tetëqind e gjashtëdhjetë e tetë pikë tridhjetë e katër) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+j) Zona zhvillimore nr. 14, lugina e lumit Drin, me sipërfaqe 971.29 (nëntëqind e shtatëdhjetë e një pikë njëzet e nëntë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+k) Zona zhvillimore nr. 15, pjesë e njësive administrative Selishtë dhe Luzni, me sipërfaqe 8590.19 (tetë mijë e pesëqind e nëntëdhjetë pikë nëntëmbëdhjetë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto;
+l) Zona zhvillimore nr. 16, fshati Rabdisht, pjesë e njësisë administrative Melan, me sipërfaqe 1421.12 (një mijë e katërqind e njëzet e një pikë dymbëdhjetë) ha, sipas hartës në sistemin KRGJSH, të paraqitur mbi ortofoto.
