@@ -40,3 +40,13 @@ Në pronësi
 427,430,431
 Infrastrukturë (troje të lira)
 Në përdorim
+SHTOJCA NR. 1
+Numri rendor i pronave në listën e inventarit
+Fusha e përdorimit të pronave
+Lloji i transferimit të pronave
+437-442
+Për realizimin e funksioneve në fushën e pyjeve dhe të kullotave
+Në pronësi
+443
+Për realizimin e funksioneve në fushën e shërbimeve funerale
+Në pronësi
