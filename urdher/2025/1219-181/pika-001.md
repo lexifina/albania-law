@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për kushtet teknike për ndërveprimin në lidhje me nënsistemin ’energji’ të sistemit hekurudhor dhe dispozitat për sistemin e matjes së energjisë dhe sistemin e mbledhjes së të dhënave”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
