@@ -1,0 +1,1 @@
+4. Vendimi nr. 806, datë 28.12.2023, i Këshillit të Ministrave, “Për miratimin e listës të mallrave, që mund të përdoren ose nuk kanë përdorim tjetër përveç qëllimit të dënimit me vdekje, torturës ose dënime apo trajtime mizore, çnjerëzore ose poshtëruese, të cilat janë objekt i kontrollit shtetëror të transferimeve ndërkombëtare”, shfuqizohet.

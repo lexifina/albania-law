@@ -1,0 +1,1 @@
+3. Miratimin e listës së mallrave, që mund të përdoren për dënimin me vdekje, sipas shtojcës nr. 3, që i bashkëlidhet këtij vendimi, të cilat janë objekt i kontrollit shtetëror të transferimeve ndërkombëtare.

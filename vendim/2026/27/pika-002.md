@@ -1,0 +1,1 @@
+2. Miratimin e listës së mallrave, që mund të përdoren për qëllime torture ose ndëshkime mizore, çnjerëzore apo poshtëruese, sipas shtojcës nr. 2, që i bashkëlidhet këtij vendimi, të cilat janë objekt i kontrollit shtetëror të transferimeve ndërkombëtare.
