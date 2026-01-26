@@ -1,0 +1,1 @@
+12. Fondet buxhetore, që do t’u akordohen fondacioneve nga ministria përgjegjëse për sportin, duhet t’u nënshtrohen rregullave të menaxhimit financiar dhe kontrollit, në përputhje me legjislacionin në fuqi për menaxhimin financiar dhe kontrollin.

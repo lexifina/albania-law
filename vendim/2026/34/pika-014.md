@@ -1,0 +1,2 @@
+14. Ngarkohen Ministria e Turizmit, Kulturës dhe Sportit, Komiteti Olimpik Kombëtar Shqiptar, Komiteti Paralimpik Kombëtar Shqiptar, Organizata Kombëtare Antidoping, federatat sportive olimpike, fondacionet sportive, me themelues institucionet publike përgjegjëse në fushën e sportit, dhe Këshilli i Arbitrazhit Sportiv për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

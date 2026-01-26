@@ -1,0 +1,1 @@
+8. Pas marrjes së kërkesës, struktura përgjegjëse pranë ministrisë, brenda 7 (shtatë) ditëve nga data e regjistrimit të kërkesës, nëse konstatohen të meta, i cakton kërkuesit një afat prej 7 (shtatë) ditësh për plotësimin e të metave.

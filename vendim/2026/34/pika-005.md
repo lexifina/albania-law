@@ -1,0 +1,1 @@
+5. Komiteti Olimpik Kombëtar Shqiptar, Komiteti Paralimpik Kombëtar Shqiptar, Organizata Kombëtare Antidoping, fondacionet sportive, me themelues institucionet publike përgjegjëse në fushën e sportit, dhe Këshilli i Arbitrazhit Sportiv financohen në bazë të programeve vjetore e të planeve të zhvillimit përkatës dhe nuk i nënshtrohen sistemit të pikëzimit.
