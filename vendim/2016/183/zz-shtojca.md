@@ -94,3 +94,43 @@ QIRAMARRËSI
 Shoqëria “PARTIZANI” sh.a.
 Përfaqësuar nga:
 Gazmend Demi
+REPUBLIKA E SHQIPËRISË
+ZYRA E NOTERISË TIRANË
+Nr. ______ Rep.
+Nr. ______ Kol.
+SHTESË E KONTRATËS ME ÇMIMIN 1 EURO/KONTRATA
+Në Tiranë, sot, më _______, të muajit _____, të vitit _____ (________________), u paraqitën para meje, noterit _______________________, palët kontraktuese si më poshtë vijon:
+Ministria e Ekonomisë dhe Inovacionit, përfaqësuar me autorizim të titullarit të institucionit “Qiradhënës”, nr. ______________ nga z./znj. ______________, me detyrë _____________, në Ministrinë e Ekonomisë dhe Inovacionit, i datëlindjes __.__._____, banues në ________, me shtetësi shqiptare i/e pajisur me letër njoftimin nr. _______________, që më poshtë do të quhet “QIRADHËNËSI”
+DHE
+Shoqëria “Partizani” sh.a., me seli qendrore në ______, me adresë: _____________, regjistruar si person juridik dhe pajisur nga QKB-ja, me NIPT: __________, përfaqësuar nga z./znj._________________, i biri/bija i/e _________, i datëlindjes __.__._____, lindur në ________ dhe banues në ______, me shtetësi _______, identifikuar me letërnjoftimin personal me nr. ____________, që më poshtë do të quhet “QIRAMARRËSI”.
+Institucioni “Qiradhënës”, me propozimin nr. ____, datë ___.___._____, të ___________, mbështetur në pikën 5/e të vendimit nr. 54, datë 5.2.2014, të Këshillit të Ministrave, “Për përcaktimin e kritereve, të procedurës dhe të mënyrës së dhënies me qira, enfiteozë apo kontrata të tjera të pasurive shtetërore”, të ndryshuar, në zbatim të vendimit nr. ____, datë __.__.____ , të Këshillit të Ministrave, “Për një shtesë dhe një ndryshim në vendimin nr. 183, datë 9.3.2016, të Këshillit të Ministrave, “Për dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën 1 euro/kontrata, ndërmjet Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, si qiradhënës, dhe shoqërisë ’Partizani’ sh.a., si qiramarrës, për pasurinë “Ambiente të pronës nr. 4, me emërtim ’Reparti ushtarak nr. 4030, rruga ’Myslym Keta’, Tiranë’, në administrim të Ministrisë së Mbrojtjes”, palët bien dakord të hartojnë këtë kontratë, me kushtet, si më poshtë:
+Neni 1
+Neni 1 i kontratës së qirasë riformulohet, si më poshtë:
+“Objekti i kësaj kontrate, është dhënia me qira e pasurisë së paluajtshme shtetërore: “Ambiente të pronës nr. 4, me emërtim “Reparti ushtarak nr. 4030”, me sipërfaqe të përgjithshme 37 000 m2, nga ku sipërfaqe ndërtimore 5 164.72 m2 dhe sipërfaqe funksionale 31 835.28 m2, si dhe pasurisë së paluajtshme shtetërore nr. 3/442 (prona nr. 6, me emërtim “Reparti ushtarak nr. 6010 (IGJIU), ish-RU nr. 7030 (IGJU), me sipërfaqe të përgjithshme 12,692.94 m2, nga ku sipërfaqe ndërtimore 3200.91 m2 dhe sipërfaqe funksionale 9,492.03 m2, në ZK 8110, me vendndodhje në Tiranë, në përgjegjësi administrimi të Ministrisë së Mbrojtjes.”.
+Neni 2
+Në nenin 5 të kontratës së qirasë bëhen ndryshimet, si më poshtë:
+a) Pas pikës 5.4 shtohet pika 5.4/1, me këtë përmbajtje:
+“5.4/1. “Qiramarrësi”, në funksion të zhvillimit të aktivitetit, në sipërfaqen shtesë, objekt i kësaj kontrate, do të investojë vlerën prej 3,027,812 (tre milionë e njëzet e shtatë mijë e tetëqind e dymbëdhjetë) eurosh, sipas fazave të shprehura në planin e biznesit, brenda 12 muajve, si më poshtë vijon:
+Faza e parë përfshin pastrimin e terrenit, prishjen e strukturave ekzistuese të amortizuara, në përputhje me legjislacionin në fuqi, sistemin e truallit, ndërtimin e fushave sportive dhe vendosjen e infrastrukturës teknike bazë.
+Faza e dytë përfshin ndërtimin e ambienteve ndihmëse, instalimet elektrike dhe hidrosanitare, ndriçimin, sistemin e vaditjes dhe funksionalizimin e plotë të hapësirave sportive e shërbimeve.”.
+b) Pas pikës 5.5 shtohet pika 5.5/1, me përmbajtjen si vijon:
+“5.5/1. “Qiramarrësi”, sipas parashikimit për punësimin të shprehur në planin e biznesit të paraqitur, do të punësojë në sipërfaqen shtesë, objekt i kësaj kontrate, 20 punonjës me kohë të plotë, pas përfundimit të investimit.”.
+Neni 3
+Në nenin 6 të kontratës bëhen ndryshimet, si më poshtë:
+Pas pikës 6.2 shtohet pika 6.2/1, me këtë përmbajtje:
+“6.2/1. “Para nënshkrimit të kontratës, “Qiramarrësi” ka paguar garancinë e kontratës, në vlerën 60,556.24 (gjashtëdhjetë mijë e pesëqind e pesëdhjetë e gjashtë pikë njëzet e katër) euro, sipas faturës së lëshuar nga “Qiradhënësi”, e cila qëndron e ngurtësuar, në llogarinë përkatëse në buxhetin e shtetit, deri në përfundim të investimit të shprehur në nenin 5.4/1 të kësaj kontrate.”.
+Neni 4
+Pjesë të kësaj kontrate janë plani i biznesit, procesverbali i marrjes në dorëzim të pasurisë shtetërore, sipas shtesës të kontratës së qirasë dhe dokumentacionit kadastral.
+Neni 5
+Kudo në kontratë, emërtesa “Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes” zëvendësohet me “Ministria e Ekonomisë dhe Inovacionit”.
+Neni 6
+1. Palët deklarojnë se shtesa e kontratës fillestare të qirasë nr. 1955 rep., nr. 564 kol., datë 23.3.2016, do të regjistrohet në Agjencinë Shtetërore të Kadastrës, Drejtoria Vendore Tiranë.
+2. Kjo kontratë është pjesë përbërëse e kontratës së qirasë nr. 1955 rep., nr. 564 kol., datë 23.3.2016, dhe hyn në fuqi me firmosje nga palët.
+3. Kjo kontratë është formuluar në 7 (shtatë) kopje origjinale. Pasi iu lexua palëve, u kuptua, u pranua prej tyre, si dhe u nënshkrua para meje me vullnetin e tyre të plotë e të lirë.
+Ndërsa unë, noter ________________, në bazë të nenit 801 e në vijim të Kodit Civil, e vërtetoj atë si të rregullt.
+QIRADHËNËSI
+Ministria e Ekonomisë dhe Inovacionit
+Përfaqësuar nga
+QIRAMARRËSI
+Shoqëria “Partizani” sh.a.
+Përfaqësuar nga
