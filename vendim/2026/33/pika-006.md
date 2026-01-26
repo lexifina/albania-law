@@ -1,0 +1,1 @@
+6. Subjekti, të cilit i është refuzuar dhënia lejes, ka të drejtën e ankimit pranë ministrisë përgjegjëse për çështjet e shkencës dhe të kërkimit shkencor, në përputhje me përcaktimet e Kodit të Procedurave Administrative.

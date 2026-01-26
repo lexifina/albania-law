@@ -1,0 +1,1 @@
+4. Ministria përgjegjëse për çështjet e shkencës dhe të kërkimit shkencor shqyrton propozimin brenda 15 (pesëmbëdhjetë) ditëve, bazuar mbi vlerësimin e ministrisë përkatëse, sipas fushës së përgjegjësisë shtetërore.
