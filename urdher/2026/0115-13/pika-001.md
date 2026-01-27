@@ -1,0 +1,1 @@
+1. Ngarkimin e znj. Juxhina Spahiu për ushtrimin e detyrave të drejtorit të përgjithshëm të Agjencisë Kombëtare të Zonave të Mbrojtura, krahas ushtrimit të detyrës aktuale të drejtorit të zhvillimit të projekteve, në AKZM.
