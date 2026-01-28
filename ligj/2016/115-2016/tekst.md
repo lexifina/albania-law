@@ -4,7 +4,7 @@ Nr. 115/2016
 
 PËR ORGANET E QEVERISJES SË SISTEMIT TË DREJTËSISË
 
-( shfuqizuar nene me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 dhe  me vendimin e Gjykatës Kushtetuese nr. 78, datë 12.12.2017, ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
+(Shfuqizuar nene me vendimin e Gjykatës Kushtetuese nr. 41, datë 16.5.2017 dhe  me vendimin e Gjykatës Kushtetuese nr. 78, datë 12.12.2017; ndryshuar me ligjin nr. 47/2019, datë 18.7.2019; nr. 10/2026, datë 28.1.2026)
 
 (i përditësuar)
 
@@ -27,6 +27,28 @@ Neni 1
 Objekti
 
 Objekti i rregullimit të këtij ligji është përcaktimi i parimeve dhe rregullave në lidhje me organizimin dhe funksionimin e Këshillit të Lartë Gjyqësor, të Këshillit të Lartë të Prokurorisë, të Inspektorit të Lartë të Drejtësisë, të Këshillit të Emërimeve në Drejtësi, si dhe të Shkollës së Magjistraturës.	
+
+Neni 1/1
+
+Përkufizime
+
+(Shtuar me ligjin nr. 10/2026, datë 28.1.2026)
+
+Për qëllim të këtij ligji termat e mëposhtëm kanë këto kuptime: 
+
+a) “Pasuri” janë të gjitha pasuritë e luajtshme dhe të paluajtshme në Republikën e Shqipërisë ose jashtë saj sipas parashikimit të nenit 4 të ligjit nr. 9049, datë 10.4.2013, “Për deklarimin dhe kontrollin e pasurive, të detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publikë”, i ndryshuar, që janë në pronësi, posedim ose në përdorim të kandidatit.
+
+b) “Person i lidhur” është bashkëshorti/ja, bashkëjetuesi/ja dhe fëmija madhor i kandidatit, i cili për shkak të kësaj marrëdhënieje u nënshtrohet detyrimeve të parashikuara në këtë ligj.
+
+c) “Persona të tjerë të lidhur” janë personat e afërt deri në shkallë të dytë, personi i besuar, drejtuesi dhe ortakët e shoqërisë në të cilën kandidati ose personat e lidhur me të zotërojnë drejtpërdrejt ose tërthorazi aksione ose kuota, si dhe çdo person fizik ose juridik, i cili ka pasur ose ka një lidhje të përbashkët interesi privat.
+
+ç) “Person i përfshirë në krimin e organizuar” është çdo person që është dënuar ose proceduar penalisht, brenda ose jashtë territorit të Republikës së Shqipërisë, për një nga veprat e parashikuara në pikën 1 të nenit 3 të ligjit nr. 10 192, datë 3.12.2009, “Për parandalimin dhe goditjen e krimit të organizuar, trafikimit dhe korrupsionit nëpërmjet masave parandaluese kundër pasurisë”, të ndryshuar, me përjashtim të rastit kur është deklaruar i pafajshëm me vendim gjyqësor të formës së prerë. Personi konsiderohet i përfshirë në krimin e organizuar edhe kur: 
+
+i. 	procedimi penal i filluar ndaj tij pushohet nga organi procedues për shkak të vdekjes, ose sepse nuk mund të merret si i pandehur dhe nuk mund të dënohet;
+
+ii. 	deklarohet i pafajshëm nga gjykata pasi vepra penale është kryer nga një person që nuk mund të akuzohet ose dënohet.
+
+d) “Të ardhura të ligjshme” janë të ardhurat e kandidatit për anëtar të Këshillit dhe personave të lidhur të tij/saj sipas përcaktimeve të burimit të të ardhurave, të parashikuara në ligjin “Mbi tatimin mbi të ardhurat.
 
 Neni 2
 
@@ -76,7 +98,7 @@ Neni 5
 
 Shkeljet disiplinore të anëtarëve të Këshillit të Lartë Gjyqësor
 
-(shfuqizuar me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 dhe ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
+(Shfuqizuar me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 dhe ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Anëtari i Këshillit të Lartë Gjyqësor kryen shkelje disiplinore, me dashje ose për shkak të pakujdesisë, kur:
 
@@ -98,7 +120,7 @@ Neni 5/1
 
 Shkeljet disiplinore në lidhje me ushtrimin e funksionit
 
-(shtuar me ligjin nr. 47/2019, datë 18.7.2019)
+(Shtuar me ligjin nr. 47/2019, datë 18.7.2019)
 
 Shkelje disiplinore gjatë ushtrimit të funksionit janë, në veçanti, por pa u kufizuar në to, veprimet, mosveprimet ose sjelljet e anëtarit të Këshillit të Lartë Gjyqësor, si më poshtë:
 
@@ -142,7 +164,7 @@ Neni 5/2
 
 Shkelje disiplinore jashtë ushtrimit të funksionit
 
-(shtuar me ligjin nr. 47/2019, datë 18.7.2019)
+(Shtuar me ligjin nr. 47/2019, datë 18.7.2019)
 
 Shkeljet disiplinore jashtë ushtrimit të funksionit janë, në veçanti, por pa u kufizuar në to, veprimet, mosveprimet ose sjelljet e anëtarit të Këshillit të Lartë Gjyqësor, si më poshtë:
 
@@ -160,7 +182,7 @@ Neni 5/3
 
 Shkelje disiplinore për shkak të kryerjes së një vepre penale
 
-(shtuar me ligjin nr. 47/2019, datë 18.7.2019)
+(Shtuar me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Shkeljet disiplinore për shkak të kryerjes së një kundërvajtjeje penale janë veprime, mosveprime ose sjellje, për të cilat anëtari i Këshillit të Lartë Gjyqësor është dënuar me vendim të formës së prerë dhe që, sipas natyrës së tyre, diskreditojnë pozitën dhe figurën e anëtarit të Këshillit të Lartë Gjyqësor ose dëmtojnë rëndë besimin e publikut në sistemin gjyqësor, bazuar në faktet dhe rrethanat e pranuara nga gjykata. 
 
@@ -172,7 +194,7 @@ Neni 6
 
 Procedura disiplinore
 
-(shtuar fjalë në pikën 4 me ligjin nr. 47/2019, datë 18.7.2019)
+(Shtuar fjalë në pikën 4 me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Shkeljet disiplinore të anëtarit të Këshillit të Lartë Gjyqësor hetohen nga Inspektori i Lartë i Drejtësisë, në bazë të procedurave dhe rregullave të parashikuara në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
 
@@ -396,6 +418,8 @@ Verifikimi dhe vleresimi paraprak i kandidatëve për anëtarë të Këshillit
 
 të Lartë Gjyqësor nga avokatia dhe kushtet për t’u zgjedhur
 
+(Shtuar shkronja “ç/1” në pikën 3 me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Kuvendi zgjedh 2 anëtarë të Këshillit të Lartë Gjyqësor nga radhët e avokatëve, të cilët plotësojnë kushtet e parashikuara nga Kushtetuta dhe nga parashikimet e këtij neni. 
 
 2. Për verifikimin paraprak të plotësimit të kushteve ligjore nga kandidatët dhe për vlerësimin paraprak të integritetit moral e profesional të tyre, krijohet një Komision i Pavarur Ad Hoc, sipas parashikimeve të nenit 23 të këtij ligji. 
@@ -409,6 +433,8 @@ b) të kenë përfunduar ciklin e dytë të studimeve universitare për drejtës
 c) të jenë avokatë të licencuar sipas ligjit;
 
 ç) të kenë shlyer rregullisht të gjitha detyrimet tatimore dhe financiare ndaj Dhomës së Avokatisë;
+
+ç/1) të mos kenë masë disiplinore në fuqi, të mos jenë shkarkuar më parë nga detyra si rezultat i një mase disiplinore, në rastin e ish-magjistratëve të kenë kaluar me sukses procesin e rivlerësimit kalimtar të gjyqtarëve dhe prokurorëve ose të mos kenë dhënë dorëheqjen pa iu nënshtruar këtij procesi, ndërkohë që kanë qenë subjekt rivlerësimi në përputhje me ligjin nr. 84/2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, si dhe të mos jenë skualifikuar më parë nga pozicione të ndryshme për shkak të verifikimit të pasurisë dhe figurës, sipas kërkesave të përcaktuara në legjislacionin në fuqi;
 
 d) të kenë jo më pak se 15 vjet përvojë pune në profesion si jurist, nga të cilat të paktën 10 vitet e fundit të kenë ushtruar profesionin e avokatit pa ndërprerje;
 
@@ -436,13 +462,17 @@ Neni 20
 
 Thirrja për paraqitjen e shprehjes së interesit
 
-1. Jo më vonë se 4 muaj para datës së mbarimit të mandatit të anëtarëve avokatë të Këshillit të Lartë Gjyqësor në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall vendet vakante dhe thirrjen për paraqitjen e shprehjeve të interesit nga avokatët që plotësojnë kriteret e parashikuara në nenin 19 të këtij ligji. Shpallja bëhet në faqen zyrtare të Kuvendit, të Dhomës Kombëtare të Avokatisë, të Avokatit të Popullit dhe në të paktën një gazetë me tirazhin më të lartë. 
+(Zëvendësuar togfjalësh në pikën 1 me ligjin nr. 10/2026, datë 28.1.2026)
+
+1. Jo më vonë se 10 muaj para datës së mbarimit të mandatit të anëtarëve avokatë të Këshillit të Lartë Gjyqësor në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall vendet vakante dhe thirrjen për paraqitjen e shprehjeve të interesit nga avokatët që plotësojnë kriteret e parashikuara në nenin 19 të këtij ligji. Shpallja bëhet në faqen zyrtare të Kuvendit, të Dhomës Kombëtare të Avokatisë, të Avokatit të Popullit dhe në të paktën një gazetë me tirazhin më të lartë. 
 
 2. Thirrja për paraqitjen e shprehjes së interesit përmban afatin, brenda të cilit duhet të dorëzohet shprehja e interesit, adresën postare dhe elektronike ku duhet të dorëzohet shprehja e interesit dhe dokumentet që duhet të shoqërojnë atë.
 
 Neni 21
 
 Paraqitja e shprehjes së interesit
+
+(Shtuar pikat 4, 5, 6, 7 dhe 8  me ligjin nr. 10/2026, datë 28.1.2026)
 
 1. Jo më vonë se 15 ditë nga shpallja e thirrjes për paraqitjen e shprehjeve të interesit, avokatët e interesuar shprehin interesin e tyre përmes një kërkese me shkrim drejtuar Avokatit të Popullit.
 
@@ -464,9 +494,21 @@ dh) dokumente konfirmuese nga Dhoma Kombëtare e Avokatisë, që vërtetojnë se
 
 e) çdo dokument tjetër që vërteton plotësimin e kushteve ligjore të parashikuara në nenin 19 të këtij ligji.
 
+4. Avokatët e interesuar brenda 15 ditëve nga shprehja e interesit duhet të dorëzojnë deklaratën e pasurisë dhe interesave private për kontrollin e pasurive të kandidatëve për pozicione të ndryshme në institucionet e drejtësisë në përputhje me nenin 3/1 të ligjit nr. 9049, datë 10.4.2003, “Për deklarimin të detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publikë”, i ndryshuar pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave, si dhe formularin e vetëdeklarimit për zbatimin e ligjit nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike” pranë Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar.
+
+5. Brenda afatit të parashikuar në pikën 4 të këtij neni, avokatët e interesuar dhe personat e lidhur me të së bashku me deklaratën e pasurisë duhet të paraqesin pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive të gjitha dokumentet që justifikojnë vërtetësinë e deklarimeve dhe burimin e ligjshëm të krijimit të pasurive.
+
+6. Inspektorati i Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesave bazuar në deklarimet e pasurive zhvillon një procedurë kontrolli në përputhje me ligjin “Për deklarimin dhe kontrollin e pasurive, detyrimeve financiare të personave të zgjedhur dhe nëpunësve të caktuar publikë”, ligjin “Për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike” dhe Kodin e Procedurave Administrative. Në përfundimin të kontrollit, Inspektorati i Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesit harton brenda 30 ditëve nga dorëzimi i dokumentacionit raportin për subjektin dhe e përcjell pranë Komisionit të Pavarur Ad Hoc sa më shpejt të jetë e mundur jo më vonë se 7 ditë nga dita e përfundimit të raportit.
+
+7. Jo më vonë se 15 ditë nga shpallja e thirrjes për paraqitjen e shprehjeve të interesit, kandidatët e interesuar dorëzojnë formularin e vetëdeklarimit të kontrollit të figurës të Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar sipas kërkesave të ligjit për informacionin e klasifikuar pranë këtij institucioni.
+
+8. Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar kryen kontrollin e saktësisë dhe vërtetësisë së deklarimit sipas ligjit brenda 30 ditëve nga paraqitja e formularëve të vetëdeklarimit dhe bashkëpunon me autoritetet ligjzbatuese për realizimin e kontrollit të saktësisë dhe vërtetësisë së deklarimit. Në përfundim të procedurës së verifikimit Autoriteti harton raportin për subjektin dhe e përcjell pranë Komisionit të Pavarur Ad Hoc sa më shpejt të jetë e mundur, por jo më vonë se 7 ditë nga dita e përfundimit të raportit.
+
 Neni 22
 
 Shqyrtimi i shprehjes së interesit
+
+(Shtuar pikat 6, 7 me ligjin nr. 10/2026, datë 28.1.2026)
 
 1. Për marrjen në dorëzim të shprehjeve të interesit dhe të dokumentacionit shoqërues të kandidatëve, mbahet një procesverbal, i cili tregon numrin dhe llojin e dokumenteve të paraqitura nga kandidatët. Procesverbali firmoset nga kandidati dhe përfaqësuesi i zyrës së protokollit të Avokatit të Popullit.
 
@@ -477,6 +519,10 @@ Shqyrtimi i shprehjes së interesit
 4. Mosparaqitja e dokumentacionit plotësues, ose dokumentacionit shtesë në përfundim të afatit 5-ditor, nuk pezullon procesin e regjistrimit përfundimtar të kandidatëve dhe të dokumentacionit shoqërues. Në këtë rast, vlerësimi i kandidatit bëhet mbi dokume-ntacionin e dosjes së administruar nga Avokati i Popullit.
 
 5. Data në të cilën plotësohet dokumentacioni i kërkuar, ose afati i përcaktuar për plotësimin, konsiderohet dhe dita e paraqitjes dhe regjistrimit të kandidatëve dhe dokumentacionit shoqërues në zyrën e Avokatit të Popullit. Paraqitja përfundimtare dokumentohet me një numër regjistrimi nga zyra e protokollit të Avokatit të Popullit.
+
+6. Avokati i Popullit brenda 15 ditëve nga dorëzimi i shprehjeve të interesit dhe dokumentacionit shoqërues mbledh të dhëna për çdo person të interesuar nga Prokuroria e Përgjithshme, gjykata, administrata tatimore, autoritetet doganore, Prokuroria e Posaçme, Byroja Kombëtare e Hetimit, Agjencia e Inteligjencës Financiare, Autoriteti për Informimin mbi Dokumentet e ish-Sigurimit të Shtetit, si dhe nga çdo autoritet disiplinor dhe person fizik ose juridik që kanë të dhëna të vlefshme për qëllime verifikimi. Për kontrollin e përmbushjes së kushteve të përcaktuara në shkronjat “c” deri në “e” të nenit 19 të këtij ligji, nëse është e nevojshme, Avokati i Popullit i drejtohet Dhomës Kombëtare të Avokatisë për saktësinë e informacionit të deklaruar nga personi i interesuar.
+
+7. Çdo institucion publik ose person fizik apo juridik duhet të plotësojë kërkesat e Avokatit të Popullit për informacion, dokumente ose materiale të tjera, përveç rasteve kur përcaktohet ndryshe me ligj, brenda afateve të arsyeshme të përcaktuara nga Avokati i Popullit në kërkesat e tij.
 
 Neni 23
 
@@ -592,17 +638,29 @@ Neni 31
 
 Verifikimi i plotësimit të kushteve ligjore
 
+(Shtuar pikat 2/1, 2/2,7, ndryshuar pikat 3 dhe 4,  shtuar togfjalësh në pikën 5 me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Jo më vonë se 45 ditë nga dita kur përfundon afati për dorëzimin e shprehjeve të interesit për të qenë anëtarë të Këshillit të Lartë Gjyqësor, Komisioni i Pavarur Ad Hoc verifikon plotësimin e kushteve ligjore nga kandidatët. Në ushtrimin e përgjegjësive të tij për verifikimin paraprak të plotësimit të kushteve ligjore nga kandidatët, komisioni ndihmohet nga administrata e Avokatit të Popullit.
 
 2. Për kontrollin e integritetit të kandidatëve, kryetari i komisionit i përcjell menjëherë Prokurorisë së Përgjithshme formularët e vetëdeklarimit, të plotësuar nga kandidatët, sipas kërkesave të ligjit “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”. Prokuroria e Përgjithshme kryen verifikimet brenda 30 ditëve nga paraqitja e formularëve. 
 
-3. Për kontrollin e kushteve të tjera ligjore, kryetari i komisionit dërgon kërkesa me shkrim në adresë të subjekteve publike dhe private, sipas nevojës.
+2/1. Komisioni i Pavarur Ad Hoc çmon sipas bindjes së tij se cilat fakte konsiderohen të provuara bazuar në vlerësimin e hollësishëm të raporteve të paraqitura nga institucionet kompetente, në përputhje me pikat 6 dhe 8 të nenit 21 të këtij ligji, si dhe në rezultatin tërësor të hetimit administrativ.
 
-4. Për kontrollin e plotësimit të kushteve të parashikuara nga shkronjat “c” deri në “e”, të nenit 19, të këtij ligji, nëse është e nevojshme, kryetari i komisionit i drejtohet Dhomës Kombëtare të Avokatisë për saktësimin e informacionit të deklaruar nga kandidati. 
+2/2. Komisioni i Pavarur Ad Hoc ka të drejtë të kërkojë akses të plotë në të dhënat që i nevojiten për procesin e verifikimit dhe vlerësimit, duke përfshirë dokumente të shkruara, elektronike, regjistra publikë, si dhe çdo të dhënë tjetër të ligjshme që mbahet dhe përpunohet nga institucionet publike, personat fizikë dhe juridikë që ushtrojnë funksione publike sipas legjislacionit në fuqi.
 
-5. Me përfundimin e procedurës së verifikimit paraprak, komisioni shpall menjëherë emrat e kandidatëve që plotësojnë kushtet ligjore për të qenë anëtarë të Këshillit të Lartë Gjyqësor në faqen zyrtare të Avokatit të Popullit, të Kuvendit dhe të Dhomës Kombëtare të Avokatisë. Në të njëjtën kohë, komisioni i komunikon individualisht kandidatëve, rezultatin e verifikimit të të dhënave të deklaruara.
+ 3. Brenda 30 ditëve nga marrja e kërkesës, çdo organ publik është i detyruar të bashkëpunojë me Komisionin e Pavarur Ad Hoc për dorëzimin, aksesin dhe verifikimin e të dhënave, fakteve ose rrethanave. Mosbashkëpunimi ose refuzimi për të bashkëpunuar, shkatërrimi i të dhënave, vonesat gjatë procesit të verifikimit përbëjnë shkelje disiplinore.
+
+4. Komisioni i Pavarur Ad Hoc vendos që kandidati të mos kalojë verifikimin e pasurisë dhe figurës kur: 
+
+a) ka mungesë të burimeve financiare të ligjshme për të justifikuar pasuritë, është kryer fshehje pasurie, është kryer deklarim i rremë, subjekti gjendet në situatën e konfliktit të interesi bazuar në gjetjet e Inspektoratit të Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesave dhe të fakteve e provave që mund të kenë mbledhur nga institucione të tjera gjatë procesit të verifikimit;
+
+b) kandidati ka lidhje apo kontakte me persona të përfshirë në krimin e organizuar, siç përcaktohet në ligjin për organizimin dhe funksionimin e institucioneve për të luftuar korrupsionin dhe krimin e organizuar, bazuar në kontrollin e kryer nga Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar, si dhe fakteve, provave dhe dokumenteve që mund të kenë mbledhur nga institucione të tjera gjatë procesit të verifikimit. 
+
+5. Me përfundimin e procedurës së verifikimit paraprak, komisioni shpall menjëherë emrat e kandidatëve që plotësojnë kushtet ligjore për të qenë anëtarë të Këshillit të Lartë Gjyqësor në faqen zyrtare të Avokatit të Popullit, të Kuvendit dhe të Dhomës Kombëtare të Avokatisë. Në të njëjtën kohë, komisioni i komunikon individualisht kandidatëve, rezultatin e verifikimit të të dhënave të deklaruara dhe i jep një kopje të raportit të vlerësimit.
 
 6. Komisioni i Pavarur Ad Hoc e ushtron veprimtarinë e tij në mënyrë kolegjiale, sipas rregullave dhe procedurave të parashikuara në legjislacionin për organizimin dhe funksionimin e organeve kolegjiale, për aq sa nuk është parashikuar ndryshe në këtë ligj.
+
+7. Në ushtrimin e veprimtarisë Komisioni i Pavarur Ad Hoc respekton legjislacionin në fuqi për mbrojtjen e të dhënave personale në rastet kur mbledh, përpunon, administron dhe ruan të dhëna personale.
 
 Neni 32
 
@@ -676,13 +734,15 @@ Neni 35
 
 Përzgjedhja e anëtarit të Këshillit të Lartë Gjyqësor nga radhët e avokatëve 
 
-1. Kryetari Komisionit të Pavarur Ad Hoc i përcjell Sekretarit të Përgjithshëm të Kuvendit një listë me emrat e kandidatëve që kanë marrë pikët më të larta, por jo më shumë se 10 kandidatë dhe në çdo rast jo më pak se trefishi i numrit të vendeve vakante. Lista me emrat e renditur të kandidatëve dhe lista me kandidatët që nuk plotësojnë kushtet dhe kriteret ligjore, si dhe raporti i vlerësimit regjistrohen në regjistrin e protokollit të Kuvendit të Shqipërisë. Asaj i bashkëngjiten kopjet origjinale, ose të noterizuara, të dokumentacionit të çdo kandidati, së bashku me inventarin e dosjes së tij.
+(Ndryshuar fjalia e tretë e pikës 1, ndryshuar pika 3, zëvendësuar togfjalësh në pikën 4, ndryshuar fjalia e dytë e shkronjës “b” në pikën 7, shtuar fjali në pikën 8 me ligjin nr. 10/2026, datë 28.1.2026)
+
+1. Kryetari Komisionit të Pavarur Ad Hoc i përcjell Sekretarit të Përgjithshëm të Kuvendit një listë me emrat e kandidatëve që kanë marrë pikët më të larta, por jo më shumë se 10 kandidatë dhe në çdo rast jo më pak se trefishi i numrit të vendeve vakante. Lista me emrat e renditur të kandidatëve dhe lista me kandidatët që nuk plotësojnë kushtet dhe kriteret ligjore, si dhe raporti i vlerësimit regjistrohen në regjistrin e protokollit të Kuvendit të Shqipërisë. Asaj i bashkëngjitet dokumentacioni i plotë i dosjes së çdo kandidati dhe dokumentacioni i administruar gjatë procesit të vlerësimit, shoqëruar me inventarin e plotë.
 
 2. Sekretari i Përgjithshëm i Kuvendit, jo më vonë se 10 ditë nga dita e paraqitjes së listës dhe dokumentacionit shoqërues, të regjistruar sipas pikës 1, të këtij neni, verifikon, në bazë të dokumentacionit të paraqitur, nëse kandidatët plotësojnë kushtet e parashikuara nga Kushtetuta dhe neni 19 i këtij ligji. Sekretari i Përgjithshëm përjashton kandidatët, të cilët, sipas vlerësimit të tij, nuk i plotësojnë kushtet e parashikuara nga Kushtetuta dhe ky ligj.
 
-3. Nëse dokumentacioni i kandidatit nuk është i plotë për të vlerësuar plotësimin e kushteve kushtetuese dhe ligjore, si dhe të kritereve profesionale e morale, sipas nenit 19, pika 3, të këtij ligji, Sekretari i Përgjithshëm i kërkon kandidatit që brenda 5 ditëve të bëjë plotësimin e dokumentacionit ose paraqitjen e dokumenteve shtesë. Njoftimi për plotësimin e dokumentacionit ose paraqitjen e dokumentacionit shtesë i dërgohet kandidatit në adresën elektronike të deklaruar.
+3. Nëse dokumentacioni i kandidatit ose i institucioneve nuk është i plotë për të vlerësuar plotësimin e kushteve kushtetuese dhe ligjore, si dhe të kritereve profesionale e morale, sipas pikës 3 të nenit 19 dhe pikave 4 deri në 8 të nenit 21 të këtij ligji, Sekretari i Përgjithshëm i kërkon kandidatit ose institucioneve që brenda 30 ditëve të bëjnë plotësimin e dokumentacionit ose paraqitjen e dokumenteve shtesë. Njoftimi për plotësimin e dokumentacionit ose paraqitjen e dokumentacionit shtesë i dërgohet kandidatit në adresën elektronike të deklaruar. Sekretari i Përgjithshëm njofton menjëherë institucionet nga momenti i konstatimit të mangësive në dokumentacion.
 
-4. Mosparaqitja e dokumentacionit plotësues ose dokumentacionit shtesë në përfundim të afatit 5-ditor, nuk pezullon procesin e regjistrimit përfundimtar në Kuvend të listës së kandidatëve dhe dokumentacionit shoqërues të saj. 
+4. Mosparaqitja e dokumentacionit plotësues ose dokumentacionit shtesë në përfundim të afatit 30-ditor, nuk pezullon procesin e regjistrimit përfundimtar në Kuvend të listës së kandidatëve dhe dokumentacionit shoqërues të saj. 
 
 5. Data në të cilën plotësohet dokumentacioni i kërkuar, ose afati i përcaktuar për plotësimin, konsiderohet dhe dita e paraqitjes dhe regjistrimit të listës së kandidatëve të dhe dokumentacionit shoqërues në Kuvend. Paraqitja përfundimtare dokumentohet me një numër regjistrimi nga zyra e protokollit në Kuvend.
 
@@ -692,11 +752,11 @@ Përzgjedhja e anëtarit të Këshillit të Lartë Gjyqësor nga radhët e avoka
 
 a) një listë me emrat e kandidatëve që plotësojnë kushtet e parashikuara nga Kushtetuta dhe ky ligj për të qenë anëtarë të Këshillit të Lartë Gjyqësor;
 
-b) një listë me emrat e kandidatëve, të cilët, sipas vlerësimit të tij, nuk i plotësojnë kushtet e parashikuara nga Kushtetuta dhe ky ligj për të qenë anëtarë të Këshillit të Lartë Gjyqësor. Lista e kandidatëve të përjashtuar përmban emrat e tyre dhe arsyet e përjashtimit për secilin;
+b) një listë me emrat e kandidatëve, të cilët, sipas vlerësimit të tij, nuk i plotësojnë kushtet e parashikuara nga Kushtetuta dhe ky ligj për të qenë anëtarë të Këshillit të Lartë Gjyqësor. Lista e kandidatëve të përjashtuar përmban emrat e tyre dhe analizën në mënyrë të mirarsyetuar për shkaqet e përjashtimit;
 
 c) një raport me shkrim, ku vlerësohet shkalla e përmbushjes së kritereve profesionale e morale nga secili kandidat, mbështetur në procesin e zhvilluar dhe raportin e përgatitur nga Komisioni i Pavarur Ad Hoc.
 
-8. Kandidatët e përjashtuar njoftohen me shkrim, në mënyrë individuale dhe të arsyetuar për përjashtimin në adresën e tyre elektronike të deklaruar. 
+8. Kandidatët e përjashtuar njoftohen me shkrim, në mënyrë individuale dhe të arsyetuar për përjashtimin në adresën e tyre elektronike të deklaruar. Sekretari i Përgjithshëm, nëse konstaton se ka mospërputhje të dukshme të rezultateve të raportit të vlerësimit me dokumentacionin e depozituar ose të administruar ose janë kualifikuar persona në kundërshtim me kriteret e këtij ligji, duhet të informojë kryetarin e komisionit parlamentar përgjegjës për çështjet ligjore.
 
 9. Sekretari i Përgjithshëm i dërgon komisionit të përhershëm përgjegjës për çështjet ligjore në Kuvend, brenda ditës së nesërme nga dita e hartimit të dokumenteve të parashikuara në pikën 7, të këtij neni, listat, së bashku me raportin e parashikuar në pikën 7, shkronja “c”, të këtij neni, si dhe dokumentacionin për secilin kandidat. Listat dhe raporti bëhen publikë në faqen zyrtare të Kuvendit jo më vonë se 10 ditë pas regjistrimit të listës së kandidatëve në Kuvend.
 
@@ -730,6 +790,8 @@ Zgjedhja e anëtarëve të Këshillit të Lartë Gjyqësor nga trupa e pedagogë
 
 të fakulteteve të drejtësisë dhe të Shkollës së Magjistraturës
 
+(Shtuar shkronja “ç/1” në pikën 2 me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Kuvendi zgjedh 2 anëtarë të Këshillit të Lartë Gjyqësor nga trupa e pedagogëve të fakulteteve të drejtësisë dhe të Shkollës së Magjistraturës.
 
 2. Kandidatët e propozuar, sipas pikës 1, të këtij neni, duhet të plotësojnë kushtet e mëposhtme:
@@ -741,6 +803,8 @@ b) të kenë jo më pak se 15 vjet përvojë profesionale si jurist;
 c) në kohën e kandidimit, të jenë pedagogë me kohë të plotë jo më pak se 5 vjet në fakultetin e drejtësisë të një institucioni të arsimit të lartë (IAL) ose pedagogë të brendshëm ose të jashtëm jomagjistratë në Shkollën e Magjistraturës; 
 
 ç) të jenë personel akademik të kategorisë “profesor” ose “lektor”; 
+
+ç/1) të mos ketë masë disiplinore në fuqi, të mos jetë shkarkuar më parë nga detyra si rezultat i një mase disiplinore, në rastin e ish-magjistratëve të ketë kaluar me sukses procesin e rivlerësimit kalimtar të gjyqtarëve dhe prokurorëve ose të mos ketë dhënë dorëheqjen pa iu nënshtruar këtij procesi, ndërkohë që ka qenë subjekt rivlerësimi në përputhje me ligjin nr. 84/2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, si dhe të mos jetë skualifikuar më parë nga pozicione të ndryshme për shkak të verifikimit të pasurisë dhe figurës sipas kërkesave të përcaktuara në legjislacionin në fuqi;
 
 d) në kohën e kandidimit të mos jenë rektor ose Drejtor i Shkollës së Magjistraturës 
 
@@ -772,7 +836,9 @@ Neni 37
 
 Thirrja për paraqitjen e shprehjes së interesit
 
-1. Jo më vonë se 4 muaj para datës së mbarimit të mandatit të anëtarëve pedagogë të Këshillit të Lartë Gjyqësor në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall vendet vakante në faqen zyrtare të Kuvendit dhe në çdo mënyrë tjetër të përshtatshme.
+(Zëvendësuar togfjalësh në pikën 1 me ligjin nr. 10/2026, datë 28.1.2026)
+
+1. Jo më vonë se 10 muaj para datës së mbarimit të mandatit të anëtarëve pedagogë të Këshillit të Lartë Gjyqësor në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall vendet vakante në faqen zyrtare të Kuvendit dhe në çdo mënyrë tjetër të përshtatshme.
 
 2. Jo më vonë se 7 ditë nga shpallja e vendeve vakante, rektori i institucionit të arsimit të lartë që ka fakultet drejtësie dhe Drejtori i Shkollës së Magjistraturës shpallin thirrjet për paraqitjen e shprehjeve të interesit nga anëtarët e personelit akademik dhe nga pedagogët e Shkollës së Magjistraturës që plotësojnë kriteret e parashikuara në nenin 36, pika 2, të këtij ligji.
 
@@ -794,6 +860,8 @@ Neni 39
 
 Paraqitja dhe trajtimi i shprehjes së interesit
 
+(Shtuar pikat 4, 5, 6, 7 dhe 8  me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Brenda 15 ditëve nga shpallja e thirrjes për pranimin e shprehjeve të interesit, pedagogët e interesuar shprehin interesin e tyre përmes një kërkese me shkrim drejtuar, sipas rastit, dekanit të fakultetit ose Drejtorit të Shkollës së Magjistraturës. Një kopje e kërkesës, së bashku me dokumentacionin shoqërues, i dërgohet, sipas rastit, rektorit të IAL-it dhe Kryetarit të Këshillit Drejtues të Shkollës së Magjistraturës.
 
 2. Shprehja e interesit mund të bëhet në adresën elektronike ose postare të përmendur në thirrjen për paraqitjen e shprehjeve të interesit me letër të porositur ose në adresën elektronike zyrtare, sipas rastit, të dekanit të fakultetit, ose të Drejtorit të Shkollës së Magjistraturës.
@@ -812,21 +880,47 @@ d) një deklaratë përkundrejt përgjegjësisë ligjore se nuk janë bashkëpun
 
 dh) çdo dokument tjetër që vërteton përmbushjen e kushteve ligjore, të parashikuara në nenin 36 të këtij ligji.
 
+4. Pedagogët e interesuar brenda 15 ditëve nga shprehja e interesit duhet të dorëzojnë deklaratën e pasurisë dhe interesave private për kontrollin e pasurive të kandidatëve për pozicione të ndryshme në institucionet e drejtësisë në përputhje me nenin 3/1 të ligjit nr. 9049, datë 10.4.2003, “Për deklarimin të detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publikë”, i ndryshuar, pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave, si dhe formularin e vetëdeklarimit për zbatimin e ligjit nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike” pranë Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar. 
+
+5. Brenda afatit të parashikuar në pikën 4 të këtij neni, pedagogët e interesuar dhe personat e lidhur me ta së bashku me deklaratën e pasurisë duhet të paraqesin pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive të gjitha dokumentet që justifikojnë vërtetësinë e deklarimeve dhe burimin e ligjshëm të krijimit të pasurive.
+
+6. Inspektorati i Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesave, bazuar në deklarimet e pasurive, zhvillon një procedurë kontrolli në përputhje me ligjin “Për deklarimin dhe kontrollin e pasurive, detyrimeve financiare të personave të zgjedhur dhe nëpunësve të caktuar publikë”, ligjin “Për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike” dhe Kodin e Procedurave Administrative. Në përfundim të kontrollit, Inspektorati i Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesit harton brenda 30 ditëve nga dorëzimi i dokumentacionit raportin për subjektin dhe e përcjell sipas rastit pranë dekanit të fakultetit të drejtësisë ose drejtorit të Shkollës së Magjistraturës sa më shpejt të jetë e mundur, jo më vonë se 7 ditë nga dita e përfundimit të raportit.
+
+7. Jo më vonë se 15 ditë nga shpallja e thirrjes për paraqitjen e shprehjeve të interesit, kandidatët e interesuar e dorëzojnë formularin e vetëdeklarimit të kontrollit të figurës të Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar sipas kërkesave të ligjit për informacionin e klasifikuar pranë këtij institucioni. 
+
+8. Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar kryen kontrollin e saktësisë dhe vërtetësisë së deklarimit sipas ligjit brenda 30 ditëve nga paraqitja e formularëve të vetëdeklarimit dhe bashkëpunon me autoritetet ligjzbatuese për realizimin e kontrollit të saktësisë dhe vërtetësisë së deklarimit. Në përfundim të procedurës së verifikimit Autoriteti harton raportin për subjektin dhe e përcjell sipas rastit pranë dekanit të fakultetit të drejtësisë ose drejtorit të Shkollës së Magjistraturës sa më shpejt të jetë e mundur, por jo më vonë se 7 ditë nga dita e përfundimit të raportit.
+
 Neni 40
 
 Verifikimi i plotësimit të kritereve ligjore
 
-1. Brenda 7 ditëve nga dita kur mbyllet afati për dorëzimin e shprehjeve të interesit, dekanati i fakultetit të drejtësisë mblidhet në një mbledhje të posaçme për të verifikuar plotësimin e kushteve ligjore nga kandidatët.
+(Ndryshuar pika 1, 2, shtuar pikat 1/1, 1/2 dhe 1/3, 4/1, 6/1, ndryshuar fjalia e dytë e pikës 5 me ligjin nr. 10/2026, datë 28.1.2026)
 
-2. Verifikimi i plotësimit të kushteve ligjore dhe i mbështetjes është çështja e vetme në rendin e ditës së mbledhjes së dekanatit.
+1. Dekani i fakultetit të drejtësisë brenda 15 ditëve nga dorëzimi i shprehjeve të interesit dhe dokumentacionit shoqërues mbledh të dhëna për çdo person të interesuar nga Prokuroria e Përgjithshme, gjykata, administrata tatimore, autoritetet doganore, Prokuroria e Posaçme, Byroja Kombëtare e Hetimit, Agjencia e Inteligjencës Financiare, Autoriteti për Informimin mbi Dokumentet e ish – Sigurimit të Shtetit, si dhe nga çdo autoritet disiplinor dhe person fizik ose juridik që kanë të dhëna të vlefshme për qëllime verifikimi.
+
+1/1. Dekanati i fakultetit të drejtësisë ka të drejtë të kërkojë akses të plotë në të dhënat që i nevojiten për procesin e verifikimit dhe vlerësimit, duke përfshirë dokumente të shkruara, elektronike, regjistra publikë, si dhe çdo të dhënë tjetër të ligjshme që mbahet dhe përpunohet nga institucionet publike, personat fizikë dhe juridikë që ushtrojnë funksione publike sipas legjislacionit në fuqi.
+
+1/2. Dekanati i fakultetit të drejtësisë çmon sipas bindjes së vet se cilat fakte konsiderohen të provuara bazuar në vlerësimin e hollësishëm të raporteve të paraqitura nga institucionet kompetente, në përputhje me pikat 6 dhe 8 të nenit 39, si dhe në rezultatin tërësor të hetimit administrativ.
+
+1/3. Brenda 30 ditëve nga marrja e kërkesës, çdo institucion publik dhe personat fizikë e juridikë janë të detyruar të bashkëpunojë me dekanatin e fakultetit të drejtësisë për dorëzimin, aksesin dhe verifikimin e të dhënave, fakteve ose rrethanave. Mosbashkëpunimi ose refuzimi për të bashkëpunuar, shkatërrimi i të dhënave, vonesat gjatë procesit të verifikimit përbëjnë shkelje disiplinore.
+
+2. Brenda 30 ditëve nga mbledhja e dokumentacionit nga institucionet publike ose personat fizikë dhe juridikë, dekanati i fakultetit të drejtësisë mblidhet në një mbledhje të posaçme për të verifikuar plotësimin e kushteve ligjore nga kandidatët. Verifikimi i plotësimit të kushteve ligjore dhe i mbështetjes është çështja e vetme në rendin e ditës së mbledhjes së njësisë. Mosverifikimi i saktë i plotësimit të kushteve ligjore përbën shkelje disiplinore për anëtarët e dekanatit të fakultetit të drejtësisë.
 
 3. Mbledhja e dekanatit është e vlefshme kur në të marrin pjesë jo më pak se gjysma e anëtarëve. Mosmarrja pjesë pa shkak të arsyeshëm në mbledhjen e dekanatit për verifikimin e kritereve ligjore dhe të mbështetjes për kandidatët për anëtarë të Këshillit të Lartë Gjyqësor përbën shkelje disiplinore për anëtarët e dekanatit.
 
 4. Mbledhja e dekanatit merr vendime me shumicën e votave të anëtarëve të pranishëm. 
 
-5. Anëtarët e dekanatit, të cilët kandidojnë, nuk marrin pjesë në mbledhje dhe nuk votojnë. Në rastin e kandidimit të dekanit, detyrat e tij kryhen prej një nga zëvëndesdekanët. 
+4/1. Dekanati i fakultetit të drejtësisë vendos që kandidati të mos kalojë verifikimin e pasurisë dhe figurës kur: 
+
+a) ka mungesë të burimeve financiare të ligjshme për të justifikuar pasuritë, është kryer fshehje e pasurie, është kryer deklarim i rremë, subjekti gjendet në situatën e konfliktit të interesi bazuar në gjetjet e Inspektoratit të Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesave dhe të fakteve e provave që mund të kenë mbledhur nga institucione të tjera gjatë procesit të verifikimit;
+
+b) kandidati ka lidhje apo kontakte me persona të përfshirë në krimin e organizuar, siç përcaktohet në ligjin për organizimin dhe funksionimin e institucioneve për të luftuar korrupsionin dhe krimin e organizuar bazuar në kontrollin e kryer nga Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar dhe të fakteve e provave që mund të kenë mbledhur nga institucione të tjera gjatë procesit të verifikimit.
+
+5. Anëtarët e dekanatit, të cilët kandidojnë, nuk marrin pjesë në mbledhje dhe nuk votojnë. Në rastin e kandidimit të drejtuesit të dekanatit, detyrat e tij kryhen nga një prej zëvendësdekanëve të Fakultetit të Drejtësisë ose pedagogu më i vjetër në detyrë i Fakultetit. 
 
 6. Në përfundim të mbledhjes dekani shpall zyrtarisht kandidaturat përmes afishimit në këndin e njoftimeve të universitetit ose të fakultetit të drejtësisë ose në një vend tjetër të dukshëm dhe i përcjell rektorit të IAL-it listën e kandidatëve të shoqëruar me një raport që shpjegon plotësimin ose mosplotësimin e kushteve nga secili kandidat.
+
+6/1. Dekanati i Fakultetit të Drejtësisë dhe Këshilli Pedagogjik i Shkollës së Magjistraturës në ushtrimin e veprimtarisë së tyre respektojnë legjislacionin në fuqi për mbrojtjen e të dhënave personale në rastet kur mbledhin, përpunojnë, administrojnë dhe ruajnë të dhëna personale.
 
 7. Kandidatët e përjashtuar njoftohen me shkrim, në  mënyrë individuale dhe të arsyetuar për shkaqet e skualifikimit.
 
@@ -1034,7 +1128,11 @@ Neni 53
 
 Përzgjedhja e anëtarit të Këshillit të Lartë Gjyqësor nga trupa e pedagogëve të fakulteteve të drejtësisë dhe Shkollës së Magjistraturës 
 
+(Shtuar pika 1/1 me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Kandidatët e përzgjedhur nga mbledhja e posaçme, sipas parashikimeve të nenit 48 dhe raporti i vlerësimit, sipas nenit 51, pika 8, të këtij ligji, i përcillen Sekretarit të Përgjithshëm të Kuvendit në një listë me emrat e kandidatëve që kanë marrë pikët më të larta, por jo më shumë se 10 kandidatë dhe në çdo rast jo më pak se trefishi i numrit të vendeve vakante. Lista dhe raporti i vlerësimit regjistrohen në regjistrin e protokollit të Kuvendit të Shqipërisë. Asaj i bashkëngjiten kopjet origjinale, ose të noterizuara, të dokumentacionit të çdo kandidati, së bashku me inventarin e dosjes së tij.
+
+1/1. Sekretari i Përgjithshëm, nëse konstaton se ka mospërputhje të dukshme të rezultateve të raportit të vlerësimit me dokumentacionin e depozituar ose të administruar ose janë kualifikuar persona në kundërshtim me kriteret e këtij ligji, i propozon rektorit të IAL-ve fillimin e procedimit disiplinor për anëtarët e dekanatit të Fakultetit të Drejtësisë.
 
 2. Rregullat e parashikuara në nenin 35, nga pika 2 deri në pikën 19, të këtij ligji, zbatohen edhe për përzgjedhjen e anëtarit të Këshillit të Lartë gjyqësor nga trupa e pedagogëve të fakulteteve të drejtësisë dhe Shkollës së Magjistraturës. 
 
@@ -1084,7 +1182,9 @@ Neni 55
 
 Thirrja për paraqitjen e shprehjes së interesit
 
-1. Jo më vonë se 4 muaj para datës së mbarimit të mandatit të anëtarit nga shoqëria civile në Këshillin e Lartë Gjyqësor në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall thirrjen për paraqitjen e shprehjeve të interesit nga kandidatët e shoqërisë civile që janë të interesuar për pozicionin e anëtarit të Këshillit.
+(Ndryshuar togfjalësh në pikën 1 me ligjin nr. 10/2026, datë 28.1.2026)
+
+1. Jo më vonë se 10 muaj para datës së mbarimit të mandatit të anëtarit nga shoqëria civile në Këshillin e Lartë Gjyqësor në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall thirrjen për paraqitjen e shprehjeve të interesit nga kandidatët e shoqërisë civile që janë të interesuar për pozicionin e anëtarit të Këshillit.
 
 2. Thirrja shpallet në faqen zyrtare të Kuvendit.
 
@@ -1093,6 +1193,8 @@ Thirrja për paraqitjen e shprehjes së interesit
 Neni 56
 
 Paraqitja dhe shqyrtimi i shprehjes së interesit
+
+(Shtuar pikat 3/1, 3/2, 3/3, 3/4 dhe 3/5, 9/1 dhe 9/2 , ndryshuar afati në pikën 9 me ligjin nr. 10/2026, datë 28.1.2026)
 
 1. Jo më vonë se 15 ditë nga shpallja e thirrjes për pranimin e shprehjeve të interesit, anëtarët e shoqërisë civile shprehin interesin e tyre përmes një kërkese me shkrim drejtuar Avokatit të Popullit.
 
@@ -1112,6 +1214,16 @@ d) një deklaratë përkundrejt përgjegjësisë ligjore se nuk janë bashkëpun
 
 dh) çdo dokument tjetër që vërteton përmbushjen e kushteve ligjore të parashikuara në nenin 54, pika 2, të këtij ligji.
 
+3/1. Kandidatët nga shoqëria civile brenda 15 ditëve nga shprehja e interesit duhet të dorëzojnë deklaratën e pasurisë dhe interesave private për kontrollin e pasurive të kandidatëve për pozicione të ndryshme në institucionet e drejtësisë në përputhje me nenin 3/1 të ligjit nr. 9049, datë 10.4.2003 “Për deklarimin e detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publikë”, i ndryshuar, pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave, si dhe formularin e vetëdeklarimit në zbatim të ligjit nr. 138/2015 “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike” pranë Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar.
+
+3/2. Brenda afatit të parashikuar në pikën 3/1 të këtij neni, kandidatët nga shoqëria civile dhe personat e lidhur me ta së bashku me deklaratën e pasurisë duhet të paraqesin pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive të gjitha dokumentet që justifikojnë vërtetësinë e deklarimeve dhe burimin e ligjshëm të krijimit të pasurive.
+
+3/3. Inspektorati i Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesave, bazuar në deklarimet e pasurive, zhvillon një procedurë kontrolli në përputhje me ligjin “Për deklarimin dhe kontrollin e pasurive, detyrimeve financiare të personave të zgjedhur dhe nëpunësve të caktuar publikë”, ligjin “Për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike” dhe Kodin e Procedurave Administrative. Në përfundimin të kontrollit, Inspektorati i Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesit harton brenda 30 ditëve nga dorëzimi i dokumentacionit raportin për subjektin dhe e përcjell pranë komisionit të shoqërisë civile sa më shpejt të jetë e mundur, por jo më vonë se 7 ditë nga dita e përfundimit të raportit. 
+
+3/4. Jo më vonë se 15 ditë nga shpallja e thirrjes për paraqitjen e shprehjeve të interesit, anëtarët e shoqërisë civile dorëzojnë formularin e vetëdeklarimit të kontrollit të figurës të Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar sipas kërkesave të ligjit për informacionin e klasifikuar pranë këtij institucioni.
+
+3/5. Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar kryen kontrollin e saktësisë dhe vërtetësisë së deklarimit sipas ligjit brenda 30 ditëve nga paraqitja e formularëve të vetëdeklarimit dhe bashkëpunon me autoritetet ligjzbatuese për realizimin e kontrollit të saktësisë dhe vërtetësisë së deklarimit. Në përfundim të procedurës së verifikimit Autoriteti harton raportin për subjektin dhe e përcjell pranë Komisionit të Pavarur Ad Hoc sa më shpejt të jetë e mundur, por jo më vonë se 7 ditë nga dita e përfundimit të raportit.
+
 4. Emrat e kandidatëve nga shoqëria civile dhe kopjet origjinale, ose të noterizuara, të dokumentacionit të paraqitur prej tyre, regjistrohen në regjistrin e protokollit të Avokatit të Popullit.
 
 5. Zyra e protokollit të Avokatit të Popullit merr në dorëzim shprehjen e interesit dhe dokumentacionin shoqërues të kandidatëve dhe u jep atyre një vërtetim shkresor për dorëzimin e shprehjes së interesit dhe të dokumentacionit shoqërues.
@@ -1122,7 +1234,11 @@ dh) çdo dokument tjetër që vërteton përmbushjen e kushteve ligjore të para
 
 8. Data në të cilën plotësohet dokumentacioni i kërkuar, ose afati i përcaktuar për plotësimin, konsiderohet dita e paraqitjes dhe regjistrimit të kandidatëve dhe dokumentacionit shoqërues në Institucionin e Avokatit të Popullit. Paraqitja përfundimtare dokumentohet me një numër regjistrimi nga zyra e protokollit tek Avokati i Popullit.
 
-9. Avokati i Popullit, jo më vonë se 10 ditë nga dita e regjistrimit të kandidatëve dhe dokume-ntacionit shoqërues, sipas pikës 5, të këtij neni, merr në shqyrtim dhe verifikon përmbushjen e kushteve dhe kritereve ligjore të çdo kandidature të parashikuara në Kushtetutë dhe në nenin 54, të këtij ligji, me anë të një procesi të hapur edhe publik.
+9. Avokati i Popullit, jo më vonë se 30 ditë nga dita e regjistrimit të kandidatëve dhe dokume-ntacionit shoqërues, sipas pikës 5, të këtij neni, merr në shqyrtim dhe verifikon përmbushjen e kushteve dhe kritereve ligjore të çdo kandidature të parashikuara në Kushtetutë dhe në nenin 54, të këtij ligji, me anë të një procesi të hapur edhe publik.
+
+9/1. Avokati i Popullit brenda 5 ditëve nga dorëzimi i shprehjeve të interesit dhe dokumentacionit shoqërues mbledh të dhëna për çdo person të interesuar nga Prokuroria e Përgjithshme, gjykata, administrata tatimore, autoritetet doganore, Prokuroria e Posaçme, Byroja Kombëtare e Hetimit, Agjencia e Inteligjencës Financiare, Autoriteti për Informimin mbi Dokumentet e ish – Sigurimit të Shtetit, si dhe nga çdo autoritet disiplinor dhe person fizik ose juridik që kanë të dhëna të vlefshme për qëllime verifikimi.
+
+ 9/2. Çdo institucion publik ose person fizik ose juridik duhet të plotësojë kërkesat e Avokatit të Popullit për informacion, dokumente ose materiale të tjera, përveç rasteve kur përcaktohet ndryshe me ligj, brenda afateve të arsyeshme të përcaktuara nga Avokati i Popullit në kërkesat e tij.
 
 10. Brenda 3 ditëve, nga dita e shpalljes së njoftimit për dorëzimin e shprehjeve të interesit për anëtar të Këshillit të Lartë Gjyqësor nga shoqëria civile, Avokati i Popullit publikon thirrjen për shprehje interesi për anëtar të komisionit të shoqërisë civile për verifikimin paraprak nga organizatat e shoqërisë civile, sipas përcaktimit të nenit 54, pika 1, të këtij ligji. Thirrja publikohet në faqen zyrtare të Avokatit të Popullit, si dhe në një nga gazetat me tirazhin më të lartë. Njoftimi u dërgohet të gjitha organizatave të shoqërisë civile në adresat e elektronike të tyre zyrtare. Shprehja e interesit duhet të paraqitet nga organizatat e shoqërisë civile brenda 7 ditëve dhe duhet të përmbajë dokumentacionin përkatës që vërteton plotësimin e kritereve që parashikohen në nenin 54, pika 1, e këtij ligji, dhe ato të parashikuara në këtë pikë. 
 
@@ -1142,7 +1258,21 @@ Verifikimi paraprak i plotësimit të kushteve ligjore nga komisioni i shoqëris
 
 pranë Avokatit të Popullit
 
+(Shtuar pikat 1/1, 1/2, 1/3, 7 me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Komisioni i shoqërisë civile për verifikimin paraprak verifikon nëse kandidatët e shoqërisë civile për anëtar të Këshillit të Lartë Gjyqësor i plotësojnë kushtet dhe kriteret ligjore, sipas parashikimeve ligjore të nenit 54 të këtij ligji. 
+
+1/1. Komisioni i shoqërisë civile çmon sipas bindjes së tij se cilat fakte konsiderohen të provuara bazuar në vlerësimin e hollësishëm të raporteve të paraqitura nga institucionet kompetente, në përputhje me pikat 3/3 dhe 3/5 të nenit 56 të këtij ligji, si dhe në rezultatin tërësor të hetimit administrativ.
+
+1/2. Komisioni i shoqërisë civile ka të drejtë të kërkojë akses të plotë në të dhënat që i nevojiten për procesin e verifikimit dhe vlerësimit, duke përfshirë dokumente të shkruara, elektronike, regjistra publikë, si dhe çdo të dhënë tjetër të ligjshme që mbahet dhe përpunohet nga institucionet publike, personat fizikë dhe juridikë që ushtrojnë funksione publike sipas legjislacionit në fuqi.
+
+Brenda 30 ditëve nga marrja e kërkesës, çdo organ publik është i detyruar të bashkëpunojë me komisionin e shoqërisë civile për dorëzimin, aksesin dhe verifikimin e të dhënave, fakteve ose rrethanave. Mosbashkëpunimi ose refuzimi për të bashkëpunuar, shkatërrimi i të dhënave, vonesat gjatë procesit të verifikimit përbëjnë shkelje disiplinore.
+
+1/3. Komisioni i shoqërisë civile vendos që kandidati të mos kalojë verifikimin e pasurisë dhe figurës kur: 
+
+a) ka mungesë të burimeve financiare të ligjshme për të justifikuar pasuritë, është kryer fshehje pasurie, është kryer deklarim i rremë, subjekti gjendet në situatën e konfliktit të interesi bazuar në gjetjet e Inspektoratit të Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesave dhe provave e fakteve që mund të kenë mbledhur nga institucione të tjera gjatë procesit të verifikimit;
+
+b) kandidati ka lidhje apo kontakte me persona të përfshirë në krimin e organizuar, siç përcaktohet në ligjin për organizimin dhe funksionimin e institucioneve për të luftuar korrupsionin dhe krimin e organizuar bazuar në kontrollin e kryer nga Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar dhe të provave e fakteve që mund të kenë mbledhur nga institucione të tjera gjatë procesit të verifikimit.
 
 2. Me përfundimin e procedurës së verifikimit paraprak, komisioni i shoqërisë civile bën menjëherë publike emrat e kandidatëve që plotësojnë kushtet ligjore për të qenë anëtarë të Këshillit të Lartë Gjyqësor në faqen zyrtare të Avokatit të Popullit dhe atë të Kuvendit. Komisioni i shoqërisë civile u komunikon individualisht kandidatëve, rezultatin e verifikimit të plotësimit ose jo të kushteve ligjore, si dhe shkaqet e përjashtimit të tyre.
 
@@ -1153,6 +1283,8 @@ pranë Avokatit të Popullit
 5. Anëtarët e komisionit të shoqërisë civile votojnë në mënyrë individuale dhe të fshehtë për mënyrën e renditjes së kandidatëve. 
 
 6. Komisioni i shoqërisë civile e ushtron veprimtarinë e tij në mënyrë kolegjiale, sipas rregullave dhe procedurave të parashikuara në legjislacionin për organizimin dhe funksionimin e organeve kolegjiale për aq sa nuk është parashikuar ndryshe në këtë ligj.
+
+7. Në ushtrimin e veprimtarisë komisioni i shoqërisë civile respekton legjislacionin në fuqi për mbrojtjen e të dhënave personale në rastet kur mbledh, përpunon, administron dhe ruan të dhëna personale.
 
 Neni 58
 
@@ -1208,7 +1340,7 @@ Neni 61
 
 Mbledhja plenare e Këshillit të Lartë Gjyqësor
 
-(shfuqizuar me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 , ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
+(Shfuqizuar me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 , ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Këshilli i Lartë Gjyqësor organizohet dhe e ushtron veprimtarinë e tij në mbledhje plenare ose në komisione. 
 
@@ -1504,7 +1636,7 @@ Neni 76
 
 Përjashtimi i anëtarit
 
-(shfuqizuar pika 2 me vendimin e Gjykatës Kushtetuese nr. 78, datë 12.12.2017 dhe  ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
+(Shfuqizuar pika 2 me vendimin e Gjykatës Kushtetuese nr. 78, datë 12.12.2017 dhe  ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Gjyqtari ose nëpunësi civil i proceduar ose përfaqësuesi ligjor i tij, ose Inspektori i Lartë i Drejtësisë mund të kërkojnë përjashtimin e anëtarit të Këshillit nga pjesëmarrja në shqyrtimin e procedurës administrative vetëm në fazën paraprake të procesit, kur ekziston një nga shkaqet e parashikuara në nenin 75, të këtij ligji, dhe anëtari nuk heq dorë vetë nga shqyrtimi i çështjes.
 
@@ -1976,6 +2108,8 @@ Neni 98
 
 Njoftimi dhe botimi i akteve të Këshillit të Lartë Gjyqësor
 
+(Ndryshuar pika 2 me ligjin nr. 10/2026, datë 28.1.2026)
+
 	1. Njoftimi i akteve administrative individuale të Këshillit të Lartë Gjyqësor, në lidhje me statusin e gjyqtarëve ose nëpunësve civilë gjyqësorë, bëhet në një ose disa nga format e mëposhtme:
 
 	a) personalisht ose përfaqësuesit ligjor kur janë të pranishëm në çastin e shpalljes së aktit;
@@ -1984,7 +2118,7 @@ Njoftimi dhe botimi i akteve të Këshillit të Lartë Gjyqësor
 
 	c) në adresën postare elektronike të depozituar zyrtarisht nga subjekti i aktit administrativ.
 
-	2. Aktet administrative individuale të Këshillit, në lidhje me statusin e gjyqtarëve ose nëpunësve civilë gjyqësorë, bëhen publike në faqen zyrtare të internetit të Këshillit, të shoqëruara me arsyetimin përkatës, pasi të redaktohen për sigurimin e anonimatit të subjekteve, përveç rasteve të parashikuara ndryshe në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”. 
+	2. Aktet administrative individuale të Këshillit në lidhje me statusin e gjyqtarëve ose nëpunësve civilë gjyqësorë për efekt të transparencës bëhen publike në faqen zyrtare të internetit të Këshillit, të shoqëruara me arsyetimin përkatës. Përjashtimisht, nuk publikohen të dhënat sensitive sipas përkufizimit të dhënë në legjislacionin në fuqi për mbrojtjen e të dhënave personale. Të dhënat personale të personave të tretë, që nuk janë subjekte të këtij ligji, mbrohen sipas legjislacionit në fuqi për të dhënat personale.
 
 	3. Njoftimi i akteve administrative kolektive, në lidhje me statusin e të gjithë gjyqtarëve ose zyrtarëve të administratës gjyqësore, bëhet nëpërmjet botimit në faqen zyrtare të Këshillit. Këto akte hyjnë në fuqi në datën e botimit në faqen zyrtare të Këshillit.
 
@@ -2022,7 +2156,7 @@ Neni 100
 
 Ankimi i vendimeve të Këshillit të Lartë Gjyqësor
 
-(ndryshuar fjalia e parë e pikës 1 me ligjin nr. 47/2019, datë 18.7.2019)
+(Ndryshuar fjalia e parë e pikës 1 me ligjin nr. 47/2019, datë 18.7.2019)
 
 	1. Ndaj aktit administrativ individual të Këshillit mund të bëhet ankim, brenda 15 ditëve nga data e njoftimit, në Gjykatën Administrative të Apelit, përveçse kur parashikohet ndryshe në ligj. Aktet administrative individuale që vendosin masa disiplinore mbi gjyqtarët ankimohen në Gjykatën Kushtetuese.
 
@@ -2074,7 +2208,7 @@ Neni 103
 
 Shkeljet disiplinore të anëtarëve të Këshillit të Lartë të Prokurorisë
 
-(shfuqizuar me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 dhe ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
+(Shfuqizuar me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 dhe ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Anëtari i Këshillit të Lartë të Prokurorisë kryen shkelje disiplinore, me dashje ose për shkak të pakujdesisë, kur:
 
@@ -2096,7 +2230,7 @@ Neni 103/1
 
 Shkeljet disiplinore në lidhje me ushtrimin e funksionit
 
-(shtuar me ligjin nr. 47/2019, datë 18.7.2019)
+(Shtuar me ligjin nr. 47/2019, datë 18.7.2019)
 
 Shkelje disiplinore gjatë ushtrimit të funksionit janë, në veçanti, por pa u kufizuar në to, veprimet, mosveprimet ose sjelljet e anëtarit të Këshillit të Lartë të Prokurorisë, si më poshtë:
 
@@ -2140,7 +2274,7 @@ Neni 103/2
 
 Shkelje disiplinore jashtë ushtrimit të funksionit
 
-(shtuar me ligjin nr. 47/2019, datë 18.7.2019)
+(Shtuar me ligjin nr. 47/2019, datë 18.7.2019)
 
 Shkeljet disiplinore jashtë ushtrimit të funksionit janë, në veçanti, por pa u kufizuar në to, veprimet, mosveprimet ose sjelljet e anëtarit të Këshillit të Lartë të Prokurorisë, si më poshtë:
 
@@ -2158,7 +2292,7 @@ Neni 103/3
 
 Shkelje disiplinore për shkak të kryerjes së një vepre penale
 
-(shtuar me ligjin nr. 47/2019, datë 18.7.2019)
+(Shtuar me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Shkeljet disiplinore për shkak të kryerjes së një kundërvajtjeje penale janë veprime, mosveprime ose sjellje, për të cilat anëtari i Këshillit të Lartë të Prokurorisë, është dënuar me vendim të formës së prerë dhe që, sipas natyrës së tyre, diskreditojnë pozitën dhe figurën e anëtarit të Këshillit të Lartë të Prokurorisë, ose dëmtojnë rëndë besimin e publikut te prokuroria, bazuar në faktet dhe rrethanat e pranuara nga gjykata. 
 
@@ -2170,7 +2304,7 @@ Neni 104
 
 Procedura disiplinore
 
-(shtuar fjalë në pikën 4 me ligjin nr. 47/2019, datë 18.7.2019)
+(Shtuar fjalë në pikën 4 me ligjin nr. 47/2019, datë 18.7.2019)
 
 	1. Shkeljet disiplinore të anëtarit të Këshillit të Lartë Prokurorisë hetohen nga Inspektori i Lartë i Drejtësisë në bazë të procedurave dhe rregullave të ligjit, të parashikuara në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
 
@@ -2394,6 +2528,8 @@ Neni 117
 
 Verifikimi dhe vlerësimi paraprak i kandidatëve për anëtarë të Këshillit të Lartë të Prokurorisë nga avokatia dhe kushtet për t’u zgjedhur
 
+(Shtuar shkronja “ç/1”  në pikën 3 me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Kuvendi zgjedh 2 anëtarë të Këshillit të Lartë të Prokurorisë nga radhët e avokatëve, të cilët plotësojnë kushtet e parashikuara nga Kushtetuta dhe nga parashikimet e këtij neni.
 
 2. Për verifikimin paraprak të plotësimit të kushteve ligjore nga kandidatët dhe për vlerësimin paraprak të integritetit moral e profesional të tyre, krijohet një Komision i Pavarur Ad Hoc, sipas parashikimeve të nenit 121 të këtij ligji.
@@ -2407,6 +2543,8 @@ b) të kenë përfunduar ciklin e dytë të studimeve universitare për drejtës
 c) të jenë avokatë të licencuar sipas ligjit;
 
 ç) të kenë shlyer rregullisht të gjitha detyrimet tatimore dhe ato financiare ndaj Dhomës së Avokatisë;
+
+ç/1) të mos ketë masë disiplinore në fuqi, të mos jetë shkarkuar më parë nga detyra si rezultat i një mase disiplinore, në rastin e ish-magjistratëve të ketë kaluar me sukses procesin e rivlerësimit kalimtar të gjyqtarëve dhe prokurorëve ose të mos ketë dhënë dorëheqjen pa iu nënshtruar këtij procesi, ndërkohë që ka qenë subjekt rivlerësimi në përputhje me ligjin nr. 84/2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, si dhe të mos jetë skualifikuar më parë nga pozicione të ndryshme për shkak të verifikimit të pasurisë dhe figurës, sipas kërkesave të përcaktuara në legjislacionin në fuqi;
 
 d) të kenë  jo më pak se 15 vjet përvojë pune në profesionin e juristit, nga të cilat të paktën 10 vitet e fundit të kenë ushtruar profesionin e avokatit pa ndërprerje;
 
@@ -2434,13 +2572,17 @@ Neni 118
 
 Thirrja për paraqitjen e shprehjes së interesit
 
-1. Jo më vonë se 4 muaj para datës së mbarimit të mandatit të anëtarëve avokatë të Këshillit të Lartë të Prokurorisë në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall vendet vakante dhe thirrjen për paraqitjen e shprehjeve të interesit për avokatët që plotësojnë kriteret e parashikuara në nenin 117 të këtij ligji. Shpallja bëhet në faqen zyrtare të Kuvendit, të Dhomës Kombëtare të Avokatisë, të Avokatit të Popullit dhe të paktën në një gazetë me tirazhin më të lartë. 
+(Ndryshuar togfjalësh në pikën 1 me ligjin nr. 10/2026, datë 28.1.2026)
+
+1. Jo më vonë se 10 muaj para datës së mbarimit të mandatit të anëtarëve avokatë të Këshillit të Lartë të Prokurorisë në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall vendet vakante dhe thirrjen për paraqitjen e shprehjeve të interesit për avokatët që plotësojnë kriteret e parashikuara në nenin 117 të këtij ligji. Shpallja bëhet në faqen zyrtare të Kuvendit, të Dhomës Kombëtare të Avokatisë, të Avokatit të Popullit dhe të paktën në një gazetë me tirazhin më të lartë. 
 
 2. Thirrja për paraqitjen e shprehjes së interesit përmban afatin, brenda të cilit duhet të dorëzohet shprehja e interesit, adresën postare dhe elektronike ku duhet të dorëzohet shprehja e interesit dhe dokumentet që duhet të shoqërojnë atë.
 
 Neni 119
 
 Paraqitja e shprehjes së interesit
+
+(Shtuar pikat 4,5,6,7 dhe 8 me ligjin nr. 10/2026, datë 28.1.2026)
 
 1. Jo më vonë se 15 ditë nga shpallja e thirrjes për paraqitjen e shprehjeve të interesit, avokatët e interesuar shprehin interesin e tyre përmes një kërkese me shkrim drejtuar Avokatit të Popullit.
 
@@ -2462,9 +2604,21 @@ dh) dokument konfirmues për plotësimin e kushteve nga Dhoma Kombëtare e Avoka
 
 e) çdo dokument tjetër që vërteton plotësimin e kushteve ligjore të parashikuara në nenin 117 të këtij ligji.
 
+4. Avokatët e interesuar brenda 15 ditëve nga shprehja e interesit duhet të dorëzojnë deklaratën e pasurisë dhe interesave private për kontrollin e pasurive të kandidatëve për pozicione të ndryshme në institucionet e drejtësisë në përputhje me nenin 3/1 të ligjit nr. 9049, datë 10.4.2003, “Për deklarimin e detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publikë”, i ndryshuar, pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave, si dhe formularin e vetëdeklarimit për zbatimin e ligjit nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike” pranë Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar.
+
+5. Brenda afatit të parashikuar në pikën 4 të këtij neni, avokatët e interesuar dhe personat e lidhur me ta, së bashku me deklaratën e pasurisë, duhet të paraqesin pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive të gjitha dokumentet që justifikojnë vërtetësinë e deklarimeve dhe burimin e ligjshëm të krijimit të pasurive.
+
+6. Inspektorati i Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesave, bazuar në deklarimet e pasurive, zhvillon një procedurë kontrolli në përputhje me legjislacionin në fuqi për deklarimin dhe kontrollin e pasurive, detyrimeve financiare të personave të zgjedhur dhe nëpunësve të caktuar publikë, i ndryshuar, për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike dhe Kodin e Procedurave Administrative. Në përfundimin të kontrollit, Inspektorati i Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesit harton brenda 30 ditëve nga dorëzimi i dokumentacionit raportin për subjektin dhe e përcjell pranë Komisionit të Pavarur Ad Hoc sa më shpejt të jetë e mundur, por jo më vonë se 7 ditë nga dita e përfundimit të raportit. 
+
+7. Jo më vonë se 15 ditë nga shpallja e thirrjes për paraqitjen e shprehjeve të interesit, kandidatët e interesuar dorëzojnë formularin e vetëdeklarimit të kontrollit të figurës të Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar sipas kërkesave të ligjit për informacionin e klasifikuar pranë këtij institucioni. 
+
+8. Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar kryen kontrollin e saktësisë dhe vërtetësisë së deklarimit sipas ligjit brenda 30 ditëve nga paraqitja e formularëve të vetëdeklarimit dhe bashkëpunon me autoritetet ligjzbatuese për realizimin e kontrollit të saktësisë dhe vërtetësisë së deklarimit. Në përfundim të procedurës së verifikimit Autoriteti harton raportin për subjektin dhe e përcjell pranë Komisionit të Pavarur Ad Hoc sa më shpejt të jetë e mundur, por jo më vonë se 7 ditë nga dita e përfundimit të raportit.
+
 Neni 120
 
 Shqyrtimi i shprehjes së interesit
+
+(Shtuar pikat 6 dhe 7 me ligjin nr. 10/2026, datë 28.1.2026)
 
 1. Për marrjen në dorëzim të shprehjeve të interesit dhe të dokumentacionit shoqërues të kandidatëve mbahet një procesverbal, i cili tregon numrin dhe llojin e dokumenteve të paraqitura nga kandidatët. Procesverbali firmoset nga kandidati dhe përfaqësuesi i zyrës së protokollit të Avokatit të Popullit.
 
@@ -2475,6 +2629,10 @@ Shqyrtimi i shprehjes së interesit
 4. Mosparaqitja e dokumentacionit plotësues ose dokumentacionit shtesë në përfundim të afatit 5-ditor nuk pezullon procesin e regjistrimit përfundimtar të kandidatëve dhe të dokume-ntacionit shoqërues. Në këtë rast, vlerësimi i kandidatit bëhet mbi dokumentacionin e dosjes së administruar nga Avokati i Popullit.
 
 5. Data në të cilën plotësohet dokumentacioni i kërkuar, ose afati i përcaktuar për plotësimin, konsiderohet dhe dita e paraqitjes dhe regjistrimit të kandidatëve dhe dokumentacionit shoqërues në zyrën e Avokatit të Popullit. Paraqitja përfundimtare dokumentohet me një numër regjistrimi nga zyra e protokollit të Avokatit të Popullit.
+
+6. Avokati i Popullit brenda 15 ditëve nga dorëzimi i shprehjeve të interesit dhe dokumentacionit shoqërues mbledh të dhëna për çdo person të interesuar nga Prokuroria e Përgjithshme, gjykata, administrata tatimore, autoritetet doganore, Prokuroria e Posaçme, Byroja Kombëtare e Hetimit, Agjencia e Inteligjencës Financiare, Autoriteti për Informimin mbi Dokumentet e ish – Sigurimit të Shtetit, si dhe nga çdo autoritet disiplinor dhe person fizik ose juridik, që kanë të dhëna të vlefshme për qëllime verifikimi.
+
+7. Çdo institucion publik ose person fizik ose juridik duhet të plotësojë kërkesat e Avokatit të Popullit për informacion, dokumente ose materiale të tjera, përveç rasteve kur përcaktohet ndryshe me ligj, brenda afateve të arsyeshme të përcaktuara nga Avokati i Popullit në kërkesat e tij.
 
 Neni 121
 
@@ -2588,17 +2746,27 @@ Neni 129
 
 Verifikimi i plotësimit të kushteve ligjore
 
+(Ndryshuar pika 2, 3, 4, shtuar pikat 2/1, 7,  shtuar togfjalësh në pikën 5,  me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Jo më vonë se 45 ditë nga dita kur përfundon afati për dorëzimin e shprehjeve të interesit për të qenë anëtarë të Këshillit të Lartë të Prokurorisë, Komisioni i Pavarur Ad Hoc verifikon plotësimin e kushteve ligjore nga kandidatët. Në ushtrimin e përgjegjësive të tij për verifikimin paraprak të plotësimit të kushteve ligjore nga kandidatët, komisioni ndihmohet nga administrata e Avokatit të Popullit.
 
-2. Për kontrollin e integritetit të kandidatëve, kryetari i komisionit i përcjell menjëherë Prokurorisë së Përgjithshme formularët e vetëdeklarimit, të plotësuar nga kandidatët, sipas kërkesave të ligjit “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike” nëse është e nevojshme. Prokuroria e Përgjithshme kryen verifikimet brenda 30 ditëve nga paraqitja e formularëve.
+2. Komisioni i Pavarur Ad Hoc çmon sipas bindjes së tij se cilat fakte konsiderohen të provuara bazuar në vlerësimin e hollësishëm të raporteve të paraqitura nga institucionet kompetente, në përputhje me pikat 6 dhe 8 të nenit 119 të këtij ligji, si dhe në rezultatin tërësor të hetimit administrativ.
 
-3. Për kontrollin e kushteve të tjera ligjore, kryetari i komisionit dërgon kërkesa me shkrim në adresë të subjekteve publike dhe private, sipas nevojës.
+2/1. Komisioni i Pavarur Ad Hoc ka të drejtë të kërkojë akses të plotë në të dhënat që i nevojiten për procesin e verifikimit dhe vlerësimit, duke përfshirë dokumente të shkruara, elektronike, regjistra publikë, si dhe çdo të dhënë tjetër të ligjshme që mbahet dhe përpunohet nga institucionet publike, personat fizikë dhe juridikë që ushtrojnë funksione publike sipas legjislacionit në fuqi.
 
-4. Për kontrollin e plotësimit të kushteve të parashikuara nga shkronjat “c” deri në “e”, të nenit 19, të këtij ligji, nëse është e nevojshme, kryetari i komisionit i drejtohet Dhomës Kombëtare të Avokatisë për saktësimin e informacionit të deklaruar nga kandidati. 
+3. Brenda 30 ditëve nga marrja e kërkesës, çdo organ publik është i detyruar të bashkëpunojë me Komisionin e Pavarur Ad Hoc për dorëzimin, aksesin dhe verifikimin e të dhënave, fakteve ose rrethanave. Mosbashkëpunimi ose refuzimi për të bashkëpunuar, shkatërrimi i të dhënave, vonesat gjatë procesit të verifikimit përbëjnë shkelje disiplinore.
 
-5. Me përfundimin e procedurës së verifikimit paraprak, komisioni shpall menjëherë emrat e kandidatëve që plotësojnë kushtet ligjore për të qenë anëtarë të Këshillit të Lartë të Prokurorisë në faqen zyrtare të Avokatit të Popullit, të Kuvendit dhe të Dhomës Kombëtare të Avokatisë. Në të njëjtën kohë, komisioni i komunikon individualisht kandidatëve rezultatin e verifikimit të të dhënave të deklaruara.
+ 4. Komisioni i Pavarur Ad Hoc vendos që kandidati të mos kalojë verifikimin e pasurisë dhe figurës kur: 
+
+a) ka mungesë të burimeve financiare të ligjshme për të justifikuar pasuritë, është kryer fshehje e pasurie, është kryer deklarim i rremë, subjekti gjendet në situatën e konfliktit të interesi bazuar në gjetjet e Inspektoratit të Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesave dhe të fakteve e provave që mund të kenë mbledhur nga institucione të tjera gjatë procesit të verifikimit;
+
+b) kandidati ka lidhje apo kontakte me persona të përfshirë në krimin e organizuar, siç përcaktohet në ligjin për organizimin dhe funksionimin e institucioneve për të luftuar korrupsionin dhe krimin e organizuar bazuar në kontrollin e kryer nga Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar dhe fakteve e provave që mund të kenë mbledhur nga institucione të tjera gjatë procesit të verifikimit. 
+
+5. Me përfundimin e procedurës së verifikimit paraprak, komisioni shpall menjëherë emrat e kandidatëve që plotësojnë kushtet ligjore për të qenë anëtarë të Këshillit të Lartë të Prokurorisë në faqen zyrtare të Avokatit të Popullit, të Kuvendit dhe të Dhomës Kombëtare të Avokatisë. Në të njëjtën kohë, komisioni i komunikon individualisht kandidatëve rezultatin e verifikimit të të dhënave të deklaruara dhe i jep një kopje të raportit të vlerësimit.
 
 6. Komisioni i Pavarur Ad Hoc e ushtron veprimtarinë e tij në mënyrë kolegjiale, sipas rregullave dhe procedurave të parashikuara në legjislacionin për organizimin dhe funksionimin e organeve kolegjiale, për aq sa nuk është parashikuar ndryshe në këtë ligj.
+
+7. Në ushtrimin e veprimtarisë Komisioni i Pavarur Ad Hoc respekton legjislacionin në fuqi për mbrojtjen e të dhënave personale në rastet kur mbledh, përpunon, administron dhe ruan të dhëna personale.
 
 Neni 130
 
@@ -2684,6 +2852,8 @@ Neni 134
 
 Zgjedhja e anëtarëve të Këshillit të Lartë të Prokurorisë nga trupa e pedagogëve të fakulteteve të drejtësisë dhe të Shkollës së Magjistraturës
 
+(Shtuar shkronja “ç/1” në pikën 2 me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Kuvendi zgjedh 2 anëtarë të Këshillit të Lartë të Prokurorisë nga trupa e pedagogëve të fakulteteve të drejtësisë dhe të Shkollës së Magjistraturës. 
 
 2. Kandidatët e propozuar, sipas pikës 1, të këtij neni, duhet të plotësojnë kushtet e mëposhtme:
@@ -2695,6 +2865,8 @@ Zgjedhja e anëtarëve të Këshillit të Lartë të Prokurorisë nga trupa e pe
 	c) në kohën e kandidimit, të jenë pedagogë me kohë të plotë jo më pak se 5 vjet në fakultetin e drejtësisë të një institucioni të arsimit të lartë ose pedagogë të brendshëm ose pedagogë të jashtëm jomagjistratë në Shkollën e Magjistraturës; 
 
 ç) të jenë personel akademik të kategorisë “profesor” ose “lektor”; 
+
+ç/1) të mos kenë masë disiplinore në fuqi, të mos jenë shkarkuar më parë nga detyra si rezultat i një mase disiplinore, në rastin e ish-magjistratëve të kenë kaluar me sukses procesin e rivlerësimit kalimtar të gjyqtarëve dhe prokurorëve ose të mos kenë dhënë dorëheqjen pa iu nënshtruar këtij procesi, ndërkohë që kanë qenë subjekt rivlerësimi në përputhje me ligjin nr. 84/2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, si dhe të mos jenë skualifikuar më parë nga pozicione të ndryshme për shkak të verifikimit të pasurisë dhe figurës, sipas kërkesave të përcaktuara në legjislacionin në fuqi;
 
 d) në kohën e kandidimit, të mos jenë rektor ose Drejtor i Shkollës së Magjistraturës; 
 
@@ -2726,7 +2898,9 @@ Neni 135
 
 Thirrja për paraqitjen e shprehjes së interesit
 
-1. Jo më vonë se 4 muaj para datës së mbarimit të mandatit të anëtarëve pedagogë të Këshillit të Lartë të Prokurorisë në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall vendet vakante në faqen zyrtare të Kuvendit dhe në çdo mënyrë tjetër të përshtatshme.
+(Ndryshuar togfjalësh në pikën 1 me ligjin nr. 10/2026, datë 28.1.2026)
+
+1. Jo më vonë se 10 muaj para datës së mbarimit të mandatit të anëtarëve pedagogë të Këshillit të Lartë të Prokurorisë në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall vendet vakante në faqen zyrtare të Kuvendit dhe në çdo mënyrë tjetër të përshtatshme.
 
 2. Jo më vonë se 7 ditë nga shpallja e vendeve vakante, rektori i institucionit të arsimit të lartë që ka fakultet drejtësie dhe Drejtori i Shkollës së Magjistraturës shpallin thirrjet për paraqitjen e shprehjeve të interesit nga anëtarët e personelit akademik dhe nga pedagogët e Shkollës së Magjistraturës që plotësojnë kriteret e parashikuara në nenin 134, pika 2, të këtij ligji.
 
@@ -2748,6 +2922,8 @@ Neni 137
 
 Paraqitja dhe trajtimi i shprehjes së interesit
 
+(Shtuar pikat  4, 5, 6, 7 dhe 8 me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Brenda 15 ditëve nga shpallja e thirrjes për pranimin e shprehjeve të interesit, pedagogët e interesuar shprehin interesin e tyre përmes një kërkese me shkrim drejtuar, sipas rastit, dekanit të fakultetit ose Drejtorit të Shkollës së Magjistraturës. Një kopje e kërkesës, së bashku me dokumentacionin shoqërues, i dërgohet, sipas rastit, rektorit të IAL-it dhe Kryetarit të Këshillit Drejtues të Shkollës së Magjistraturës.
 
 2. Shprehja e interesit mund të bëhet në adresën elektronike ose postare të përmendur në thirrjen për paraqitjen e shprehjeve të interesit me letër të porositur ose në adresën elektronike zyrtare, sipas rastit, të dekanit të fakultetit, ose të Drejtorit të Shkollës së Magjistraturës.
@@ -2766,21 +2942,47 @@ d) një deklaratë përkundrejt përgjegjësisë ligjore se nuk janë bashkëpun
 
 dh) çdo dokument tjetër që vërteton përmbushjen e kushteve ligjore të parashikuara në nenin 134 të këtij ligji.
 
+4. Pedagogët e interesuar brenda 15 ditëve nga shprehja e interesit duhet të dorëzojnë deklaratën e pasurisë dhe interesave private për kontrollin e pasurive të kandidatëve për pozicione të ndryshme në institucionet e drejtësisë në përputhje me nenin 3/1 të ligjit nr. 9049, datë 10.4.2003, “Për deklarimin të detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publikë”, i ndryshuar, pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave, si dhe formularin e vetëdeklarimit për zbatimin e ligjit nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike” pranë Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar. 
+
+5. Brenda afatit të parashikuar në pikën 4 të këtij neni, pedagogët e interesuar dhe personat e lidhur me ta së bashku me deklaratën e pasurisë duhet të paraqesin pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive të gjithë dokumentet që justifikojnë vërtetësinë e deklarimeve dhe burimin e ligjshëm të krijimit të pasurive.
+
+6. Inspektorati i Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesave, bazuar në deklarimet e pasurive, zhvillon një procedurë kontrolli në përputhje me legjislacionin në fuqi për deklarimin dhe kontrollin e pasurive, detyrimeve financiare të personave të zgjedhur dhe nëpunësve të caktuar publikë, për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike dhe Kodin e Procedurave Administrative. Në përfundim të kontrollit, Inspektorati i Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesit harton brenda 30 ditëve nga dorëzimi i dokumentacionit raportin për subjektin dhe e përcjell sipas rastit pranë dekanit të Fakultetit të Drejtësisë ose drejtorit të Shkollës së Magjistraturës sa më shpejt të jetë e mundur, por jo më vonë se 7 ditë nga dita e përfundimit të raportit.
+
+7. Jo më vonë se 15 ditë nga shpallja e thirrjes për paraqitjen e shprehjeve të interesit, kandidatët e interesuar dorëzojnë formularin e vetëdeklarimit të kontrollit të figurës të Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar sipas kërkesave të ligjit për informacionin e klasifikuar pranë këtij institucioni. 
+
+8. Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar kryen kontrollin e saktësisë dhe vërtetësisë së deklarimit sipas ligjit brenda 30 ditëve nga paraqitja e formularëve të vetëdeklarimit dhe bashkëpunon me autoritetet ligjzbatuese për realizimin e kontrollit të saktësisë dhe vërtetësisë së deklarimit. Në përfundim të procedurës së verifikimit Autoriteti harton raportin për subjektin dhe e përcjell sipas rastit pranë dekanit të Fakultetit të Drejtësisë ose drejtorit të Shkollës së Magjistraturës sa më shpejt të jetë e mundur, por jo më vonë se 7 ditë nga dita e përfundimit të raportit.
+
 Neni 138
 
 Verifikimi i plotësimit të kritereve ligjore
 
-1. Brenda 7 ditëve nga dita kur mbyllet afati për dorëzimin e shprehjeve të interesit, dekanati i fakultetit të drejtësisë mblidhet në një mbledhje të posaçme për të verifikuar plotësimin e kushteve ligjore nga kandidatët. 
+(Ndryshuar pika 1, 2, shtuar pikat 1/1, 1/2 dhe 1/3, 4/1, 6/1 ndryshuar fjali në pikën 5,  me ligjin nr. 10/2026, datë 28.1.2026)
 
-2. Verifikimi i plotësimit të kushteve ligjore dhe i mbështetjes është çështja e vetme në rendin e ditës së mbledhjes së dekanatit.
+1. Dekani i Fakultetit të Drejtësisë brenda 15 ditëve nga dorëzimi i shprehjeve të interesit dhe dokumentacionit shoqërues mbledh të dhëna për çdo person të interesuar nga Prokuroria e Përgjithshme, gjykata, administrata tatimore, autoritetet doganore, Prokuroria e Posaçme, Byroja Kombëtare e Hetimit, Agjencia e Inteligjencës Financiare, Autoriteti për Informimin mbi Dokumentet e ish – Sigurimit të Shtetit, si dhe nga çdo autoritet disiplinor dhe person fizik ose juridik që kanë të dhëna të vlefshme për qëllime verifikimi.
+
+1/1. Dekanati i Fakultetit të Drejtësisë ka të drejtë të kërkojë akses të plotë në të gjitha bazat e të dhënave që i nevojiten për procesin e verifikimit dhe vlerësimit, duke përfshirë dokumente të shkruara, elektronike, regjistra publikë, si dhe çdo të dhënë tjetër të ligjshme që mbahet dhe përpunohet nga institucionet publike, personat fizikë dhe juridikë që ushtrojnë funksione publike sipas legjislacionit në fuqi”.
+
+1/2. Dekanati i Fakultetit të Drejtësisë çmon sipas bindjes së vet se cilat fakte konsiderohen të provuara bazuar në vlerësimin e hollësishëm të raporteve të paraqitura nga institucionet kompetente, në përputhje me pikat 6 dhe 8 të nenit 137 të këtij ligji, si dhe në rezultatin tërësor të hetimit administrativ.
+
+1/3. Brenda 30 ditëve nga marrja e kërkesës çdo institucion publik dhe personat fizikë e juridikë janë të detyruar të bashkëpunojnë me dekanatin e Fakultetit të Drejtësisë për dorëzimin, aksesin dhe verifikimin e të dhënave, fakteve ose rrethanave. Mosbashkëpunimi ose refuzimi për të bashkëpunuar, shkatërrimi i të dhënave, vonesat gjatë procesit të verifikimit përbëjnë shkelje disiplinore. 
+
+2. Brenda 30 ditëve nga mbledhja e dokumentacionit nga institucionet publike ose nga personat fizikë dhe juridikë, dekanati i Fakultetit të Drejtësisë mblidhet në një mbledhje të posaçme për të verifikuar plotësimin e kushteve ligjore nga kandidatët. Verifikimi i plotësimit të kushteve ligjore dhe i mbështetjes është çështja e vetme në rendin e ditës së mbledhjes së njësisë. Mosverifikimi i saktë i plotësimit të kushteve ligjore përbën shkelje disiplinore për anëtarët e dekanatit të Fakultetit të Drejtësisë.
 
 3. Mbledhja e dekanatit është e vlefshme kur në të marrin pjesë jo më pak se gjysma e anëtarëve. Mosmarrja pjesë pa shkak të arsyeshëm në mbledhjen e dekanatit për verifikimin e kritereve ligjore dhe të mbështetjes për kandidatët për anëtarë të Këshillit të Lartë të Prokurorisë përbën shkelje disiplinore për anëtarët e dekanatit.
 
 4. Mbledhja e dekanatit merr vendime me shumicën e votave të anëtarëve të pranishëm. 
 
-5. Anëtarët e dekanatit, të cilët kandidojnë, nuk marrin pjesë në mbledhje dhe nuk votojnë. Në rastin e kandidimit të dekanit, detyrat e tij kryhen nga një prej  zëvendësdekanëve. 
+4/1. Dekanati i Fakultetit të Drejtësisë vendos që kandidati të mos kalojë verifikimin e pasurisë dhe figurës kur: 
+
+a) ka mungesë të burimeve financiare të ligjshme për të justifikuar pasuritë, është kryer fshehje pasurie, është kryer deklarim i rremë, subjekti gjendet në situatën e konfliktit të interesit bazuar në gjetjet e Inspektoratit të Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesave dhe të fakteve e provave që mund të kenë mbledhur nga institucione të tjera gjatë procesit të verifikimit;
+
+b) kandidati ka lidhje apo kontakte me persona të përfshirë në krimin e organizuar, siç përcaktohet në ligjin për organizimin dhe funksionimin e institucioneve për të luftuar korrupsionin dhe krimin e organizuar bazuar në kontrollin e kryer nga Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar dhe fakteve e provave që mund të kenë mbledhur nga institucione të tjera gjatë procesit së verifikimit.
+
+5. Anëtarët e dekanatit, të cilët kandidojnë, nuk marrin pjesë në mbledhje dhe nuk votojnë. Në rastin e kandidimit të drejtuesit të dekanatit detyrat e tij kryhen nga një prej zëvendësdekanëve të Fakultetit të Drejtësisë ose pedagogu më i vjetër në detyrë i Fakultetit. 
 
 6. Në përfundim të mbledhjes dekanati shpall zyrtarisht kandidaturat përmes afishimit në këndin e njoftimeve të universitetit ose të fakultetit të drejtësisë ose në një vend tjetër të dukshëm dhe i përcjell rektorit të IAL-it listën e kandidatëve të shoqëruar me një raport që shpjegon plotësimin ose mosplotësimin e kushteve nga secili kandidat.
+
+6/1. Dekanati i Fakultetit të Drejtësisë dhe Këshilli Pedagogjik i Shkollës së Magjistraturës në ushtrimin e veprimtarisë së tyre respektojnë legjislacionin në fuqi për mbrojtjen e të dhënave personale në rastet kur mbledhin, përpunojnë, administrojnë dhe ruajnë të dhëna personale.
 
 7. Kandidatët e përjashtuar njoftohen menjëherë me shkrim, individualisht dhe në mënyrë të arsyetuar për shkaqet e skualifikimit.
 
@@ -2988,7 +3190,11 @@ Neni 151
 
 Përzgjedhja e anëtarit të Këshillit të Lartë të Prokurorisë nga trupa e pedagogëve të fakulteteve të Drejtësisë dhe Shkollës së Magjistraturës
 
+(Shtuar pikat 1/1 me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Kandidatët e përzgjedhur nga mbledhja e posaçme, sipas parashikimeve të nenit 146 dhe raporti i vlerësimit, sipas nenit 149, pika 8 të këtij ligji, i përcillen Sekretarit të Përgjithshëm të Kuvendit në një listë me emrat e kandidatëve që kanë marrë pikët më të larta, por jo më shumë se 10 kandidatë dhe në çdo rast jo më pak se trefishi i numrit të vendeve vakante. Lista dhe raporti i vlerësimit regjistrohen në regjistrin e protokollit të Kuvendit. Asaj i bashkëngjiten kopjet origjinale, ose të noterizuara, të dokumentacionit të çdo kandidati, së bashku me inventarin e dosjes së tij.
+
+1/1. Sekretari i Përgjithshëm, nëse konstaton se ka mospërputhje të dukshme të rezultateve të raportit të vlerësimit me dokumentacionin e depozituar ose të administruar ose janë kualifikuar persona në kundërshtim me kriteret e këtij ligji, i propozon rektorit të IAL-ve fillimin e procedimit disiplinor për anëtarët e dekanatit të Fakultetit të Drejtësisë.
 
 2. Rregullat e parashikuara në nenin 35, nga pika 2 deri në pikën 19, të këtij ligji, zbatohen edhe për përzgjedhjen e anëtarit të Këshillit të Lartë të Prokurorisë nga trupa e pedagogëve të fakulteteve të drejtësisë dhe Shkollës së Magjistraturës. 
 
@@ -3040,7 +3246,9 @@ Neni 153
 
 Thirrja për paraqitjen e shprehjes së interesit
 
-1. Jo më vonë se 4 muaj para datës së mbarimit të mandatit të anëtarit nga shoqëria civile në Këshillin e Lartë të Prokurorisë në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall thirrjen për paraqitjen e shprehjeve të interesit nga kandidatët e shoqërisë civile që janë të interesuar për pozicionin e anëtarit të Këshillit.
+(Ndryshuar togfjalësh në pikën 1 me ligjin nr. 10/2026, datë 28.1.2026)
+
+1. Jo më vonë se 10 muaj para datës së mbarimit të mandatit të anëtarit nga shoqëria civile në Këshillin e Lartë të Prokurorisë në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall thirrjen për paraqitjen e shprehjeve të interesit nga kandidatët e shoqërisë civile që janë të interesuar për pozicionin e anëtarit të Këshillit.
 
 2. Thirrja shpallet në faqen zyrtare të Kuvendit.
 
@@ -3049,6 +3257,8 @@ Thirrja për paraqitjen e shprehjes së interesit
 Neni 154
 
 Paraqitja dhe shqyrtimi i shprehjes së interesit
+
+(Shtuar pikat 3/1, 3/2, 3/3, 3/4 dhe 3/5, 9/1 dhe 9/2 ndryshuar afati në pikën 9, me ligjin nr. 10/2026, datë 28.1.2026)
 
 	1. Jo më vonë se 15 ditë nga shpallja e thirrjes për pranimin e shprehjeve të interesit, anëtarët e shoqërisë civile shprehin interesin e tyre përmes një kërkese me shkrim drejtuar Avokatit të Popullit.
 
@@ -3068,6 +3278,16 @@ Paraqitja dhe shqyrtimi i shprehjes së interesit
 
 	dh) çdo dokument tjetër që vërteton përmbushjen e kushteve ligjore të parashikuara në nenin 152, pika 2, të këtij ligji.
 
+3/1. Kandidatët nga shoqëria civile brenda 15 ditëve nga shprehja e interesit duhet të dorëzojnë deklaratën e pasurisë dhe interesave private për kontrollin e pasurive të kandidatëve për pozicione të ndryshme në institucionet e drejtësisë në përputhje me nenin 3/1 të ligjit nr. 9049, datë 10.4.2003, “Për deklarimin e detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publikë”, i ndryshuar, pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave, si dhe formularin e vetëdeklarimit në zbatim të ligjit nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike” pranë Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar.
+
+3/2. Brenda afatit të parashikuar në pikën 3/1 të këtij neni, kandidatët e interesuar nga shoqëria civile dhe personat e lidhur me ta së bashku me deklaratën e pasurisë duhet të paraqesin pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive të gjitha dokumentet që justifikojnë vërtetësinë e deklarimeve dhe burimin e ligjshëm të krijimit të pasurive.
+
+3/3. Inspektorati i Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesave, bazuar në deklarimet e pasurive, zhvillon një procedurë kontrolli në përputhje me legjislacionin në fuqi për deklarimin dhe kontrollin e pasurive, detyrimeve financiare të personave të zgjedhur dhe nëpunësve të caktuar publikë, për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike dhe Kodin e Procedurave Administrative. Në përfundimin të kontrollit, Inspektorati i Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesit harton brenda 30 ditëve nga dorëzimi i dokumentacionit raportin për subjektin dhe e përcjell pranë komisionit të shoqërisë civile sa më shpejt të jetë e mundur, por jo më vonë se 7 ditë nga dita e përfundimit të raportit. 
+
+3/4. Jo më vonë se 15 ditë nga shpallja e thirrjes për paraqitjen e shprehjeve të interesit, kandidatët e interesuar të shoqërisë civile dorëzojnë formularin e vetëdeklarimit të kontrollit të figurës të Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar sipas kërkesave të ligjit për informacionin e klasifikuar pranë këtij institucioni.
+
+	3/5. Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar kryen kontrollin e saktësisë dhe vërtetësisë së deklarimit sipas ligjit brenda 30 ditëve nga paraqitja e formularëve të vetëdeklarimit dhe bashkëpunon me autoritetet ligjzbatuese për realizimin e kontrollit të saktësisë dhe vërtetësisë së deklarimit. Në përfundim të procedurës së verifikimit Autoriteti harton raportin për subjektin dhe e përcjell pranë Komisionit të Pavarur Ad Hoc sa më shpejt të jetë e mundur, por jo më vonë se 7 ditë nga dita e përfundimit të raportit.
+
 	4. Emrat e kandidatëve nga shoqëria civile dhe kopjet origjinale, ose të noterizuara, të dokumentacionit të paraqitur prej tyre regjistrohen në regjistrin e protokollit të Avokatit të Popullit.
 
 5. Zyra e protokollit të Avokatit të Popullit merr në dorëzim shprehjen e interesit dhe dokumentacionin shoqërues të kandidatëve dhe u jep atyre një vërtetim shkresor për dorëzimin e shprehjes së interesit dhe të dokumentacionit shoqërues.
@@ -3078,7 +3298,11 @@ Paraqitja dhe shqyrtimi i shprehjes së interesit
 
 8. Data në të cilën plotësohet dokumentacioni i kërkuar, ose afati i përcaktuar për plotësimin, konsiderohet dita e paraqitjes dhe regjistrimit të kandidatëve dhe dokumentacionit shoqërues në Institucionin e Avokatit të Popullit. Paraqitja përfundimtare dokumentohet me një numër regjistrimi nga zyra e protokollit tek Avokati i Popullit.
 
-9. Avokati i Popullit, jo më vonë se 10 ditë nga dita e regjistrimit të kandidatëve dhe dokumentacionit shoqërues, sipas pikës 5, të këtij neni, merr në shqyrtim dhe verifikon përmbushjen e kushteve dhe kritereve ligjore të çdo kandidature, të parashikuara në Kushtetutë dhe në nenin 54, të këtij ligji, me anë të një procesi të hapur edhe publik.
+9. Avokati i Popullit, jo më vonë se 30 ditë nga dita e regjistrimit të kandidatëve dhe dokumentacionit shoqërues, sipas pikës 5, të këtij neni, merr në shqyrtim dhe verifikon përmbushjen e kushteve dhe kritereve ligjore të çdo kandidature, të parashikuara në Kushtetutë dhe në nenin 54, të këtij ligji, me anë të një procesi të hapur edhe publik.
+
+9/1. Avokati i Popullit brenda 5 ditëve nga dorëzimi i shprehjeve të interesit dhe dokumentacionit shoqërues ka të drejtë të kërkojë të dhëna për çdo person të interesuar nga Prokuroria e Përgjithshme, gjykata, administrata tatimore, autoritetet doganore, Prokuroria e Posaçme, Byroja Kombëtare e Hetimit, Agjencia e Inteligjencës Financiare, Autoriteti për Informimin mbi Dokumentet e ish – Sigurimit të Shtetit, si dhe nga çdo autoritet disiplinor dhe person fizik ose juridik, që kanë të dhëna të vlefshme për qëllime verifikimi.
+
+ 9/2. Çdo institucion publik ose person fizik ose juridik duhet të plotësojë kërkesat e Avokatit të Popullit për informacion, dokumente ose materiale të tjera, përveç rasteve kur përcaktohet ndryshe me ligj, brenda afateve të arsyeshme të përcaktuara nga Avokati i Popullit në kërkesat e tij.
 
 10. Brenda 3 ditëve nga dita e shpalljes së njoftimit për dorëzimin e shprehjeve të interesit për anëtar të Këshillit të Lartë të Prokurorisë nga shoqëria civile, Avokati i Popullit publikon thirrjen për shprehje interesi për anëtar të komisionit të shoqërisë civile për verifikimin paraprak nga organizatat e shoqërisë civile, sipas përcaktimit të nenit 152, pika 1, të këtij ligji. Thirrja publikohet në faqen zyrtare të Avokatit të Popullit, si dhe në një nga gazetat me tirazhin më të lartë. Njoftimi u dërgohet të gjitha organizatave të shoqërisë civile në adresat e elektronike të tyre zyrtare. Shprehja e interesit duhet të paraqitet nga organizatat e shoqërisë civile brenda 7 ditëve dhe duhet të përmbajë dokumentacionin përkatës që vërteton plotësimin e kritereve që parashikohen në nenin 54, pika 1, të këtij ligji, dhe ato të parashikuara në këtë pikë. 
 
@@ -3098,17 +3322,33 @@ Verifikimi paraprak i plotësimit të kushteve ligjore nga komisioni i shoqëris
 
 pranë Avokatit të Popullit
 
-	1. Komisioni i shoqërisë civile për verifikimin paraprak verifikon nëse kandidatët e shoqërisë civile për anëtarë të Këshillit të Lartë të Prokurorisë i plotësojnë kushtet dhe kriteret ligjore, sipas parashikimeve të nenit 152 të këtij ligji. 
+(Shtuar pikat 1/1, 1/2, 1/3, 7 me ligjin nr. 10/2026, datë 28.1.2026)
 
-	2. Me përfundimin e procedurës së verifikimit paraprak, komisioni i shoqërisë civile bën menjëherë publike emrat e kandidatëve që plotësojnë kushtet ligjore për të qenë anëtarë të Këshillit të Lartë të Prokurorisë në faqen zyrtare të Avokatit të Popullit dhe atë të Kuvendit. Komisioni i shoqërisë civile u komunikon individualisht kandidatëve rezultatin e verifikimit të plotësimit ose jo të kushteve ligjore, si dhe shkaqet e përjashtimit të tyre.
+1. Komisioni i shoqërisë civile për verifikimin paraprak verifikon nëse kandidatët e shoqërisë civile për anëtarë të Këshillit të Lartë të Prokurorisë i plotësojnë kushtet dhe kriteret ligjore, sipas parashikimeve të nenit 152 të këtij ligji. 
+
+1/1. Komisioni i shoqërisë civile çmon sipas bindjes së tij se cilat fakte konsiderohen të provuara bazuar në vlerësimin e hollësishëm të raporteve të paraqitura nga institucionet kompetente, në përputhje me pikat 3/3 dhe 3/5 të nenit 154 të këtij ligji, si dhe në rezultatin tërësor të hetimit administrativ.
+
+1/2. Komisioni i shoqërisë civile ka të drejtë të kërkojë akses të plotë në të dhënat që i nevojiten për procesin e verifikimit dhe vlerësimit, duke përfshirë dokumente të shkruara, elektronike, regjistra publikë, si dhe çdo të dhënë tjetër të ligjshme që mbahet dhe përpunohet nga institucionet publike, personat fizikë dhe juridikë që ushtrojnë funksione publike sipas legjislacionit në fuqi.
+
+Brenda 30 ditëve nga marrja e kërkesës, çdo organ publik është i detyruar të bashkëpunojë me komisionin e shoqërisë civile për dorëzimin, aksesin dhe verifikimin e të dhënave, fakteve ose rrethanave. Mosbashkëpunimi ose refuzimi për të bashkëpunuar, shkatërrimi i të dhënave, vonesat gjatë procesit të verifikimit përbëjnë shkelje disiplinore.
+
+1/3. Komisioni i shoqërisë civile vendos që kandidati të mos kalojë verifikimin e pasurisë dhe figurës kur: 
+
+a) ka mungesë të burimeve financiare të ligjshme për të justifikuar pasuritë, është kryer fshehje pasurie, është kryer deklarim i rremë, subjekti gjendet në situatën e konfliktit të interesi bazuar në gjetjet e Inspektoratit të Lartë për Deklarimin dhe Kontrollin e Pasurive dhe Konfliktit të Interesave dhe të fakteve e provave që mund të kenë mbledhur nga institucione të tjera gjatë procesit të verifikimit;
+
+b) kandidati ka lidhje apo kontakte me persona të përfshirë në krimin e organizuar, siç përcaktohet në ligjin për organizimin dhe funksionimin e institucioneve për të luftuar korrupsionin dhe krimin e organizuar bazuar në kontrollin e kryer nga Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar dhe të fakteve e provave që mund të kenë mbledhur nga institucione të tjera gjatë procesit të verifikimit.
+
+2. Me përfundimin e procedurës së verifikimit paraprak, komisioni i shoqërisë civile bën menjëherë publike emrat e kandidatëve që plotësojnë kushtet ligjore për të qenë anëtarë të Këshillit të Lartë të Prokurorisë në faqen zyrtare të Avokatit të Popullit dhe atë të Kuvendit. Komisioni i shoqërisë civile u komunikon individualisht kandidatëve rezultatin e verifikimit të plotësimit ose jo të kushteve ligjore, si dhe shkaqet e përjashtimit të tyre.
 
 3. Ankimet kundër vendimit për përjashtimin e kandidatëve vetëm për shkelje të rënda procedurale bëhen në Gjykatën Administrative të Apelit jo më vonë se 5 ditë nga dita e njoftimit të vendimit të kontestuar. Gjykata Administrative e Apelit vendos brenda 7 ditëve nga dita e dorëzimit të ankimit. Vendimi i saj është përfundimtar dhe i formës së prerë. Ankimi nuk pezullon zhvillimin e procedurës së vlerësimit dhe të verifikimit paraprak të kryer nga komisioni i shoqërisë civile, sipas këtij neni.
 
- 4. Komisioni i shoqërisë civile bën verifikimin paraprak të kritereve profesionale dhe morale dhe i rendit në listë, sipas parashikimeve të nenit 132 të këtij ligji. Komisioni i shoqërisë civile organizon seancë publike me secilin kandidat që plotëson kriteret formale ligjore. Kandidatët nëpërmjet seancës publike shpalosin platformën e tyre. Procesi i dëgjesave publike është i hapur për mediat dhe të gjithë vëzhguesit e tjerë që shprehin interes për të ndjekur procesin. 
+4. Komisioni i shoqërisë civile bën verifikimin paraprak të kritereve profesionale dhe morale dhe i rendit në listë, sipas parashikimeve të nenit 132 të këtij ligji. Komisioni i shoqërisë civile organizon seancë publike me secilin kandidat që plotëson kriteret formale ligjore. Kandidatët nëpërmjet seancës publike shpalosin platformën e tyre. Procesi i dëgjesave publike është i hapur për mediat dhe të gjithë vëzhguesit e tjerë që shprehin interes për të ndjekur procesin. 
 
 5. Anëtarët e komisionit të shoqërisë civile votojnë në mënyrë individuale dhe të fshehtë për mënyrën e renditjes së kandidatëve. 
 
 6. Komisioni i shoqërisë civile e ushtron veprimtarinë e tij në mënyrë kolegjiale, sipas rregullave dhe procedurave të parashikuara në legjislacionin për organizimin dhe funksionimin e organeve kolegjiale, për aq sa nuk është parashikuar ndryshe në këtë ligj.
+
+7. Në ushtrimin e veprimtarisë komisioni i shoqërisë civile respekton legjislacionin në fuqi për mbrojtjen e të dhënave personale në rastet kur mbledh, përpunon, administron dhe ruan të dhëna personale.
 
 Neni 156
 
@@ -3132,7 +3372,7 @@ Neni 157
 
 Kryetari i Këshillit të Lartë të Prokurorisë
 
-(ndryshuar fjalë në shkronjën “dh” të pikës 3  me ligjin nr. 47/2019, datë 18.7.2019)
+(Ndryshuar fjalë në shkronjën “dh” të pikës 3  me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Kryetari dhe Zëvëndëskryetari i Këshillit të Lartë të Prokurorisë zgjidhen në mbledhjen e parë të Këshillit nga radhët e anëtarëve joprokurorë me shumicën e thjeshtë të votave të anëtarëve. Ata qëndrojnë në detyrë deri në përfundim të mandatit si anëtar i Këshillit.
 
@@ -3166,7 +3406,7 @@ Neni 159
 
 Mbledhja plenare e Këshillit të Lartë të Prokurorisë
 
-(shfuqizuar me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 dhe ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
+(Shfuqizuar me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 dhe ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Këshilli i Lartë i Prokurorisë organizohet dhe e ushtron veprimtarinë e tij në mbledhje plenare ose në komisione. 
 
@@ -3390,7 +3630,7 @@ Neni 169
 
 Marrëdhënia e Këshillit të Lartë të Prokurorisë me Ministrin e Drejtësisë
 
-(shfuqizuar pika 5 me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017)
+(Shfuqizuar pika 5 me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017)
 
 1. Ministri i Drejtësisë koordinon zhvillimin dhe zbatimin e politikave shtetërore dhe të strategjisë sektoriale të sektorit të drejtësisë. Ministri i Drejtësisë është gjithashtu përgjegjës për përgatitjen e projektakteve ligjore në fushën e drejtësisë penale pasi ka marrë mendimin e Këshillit të Lartë të Prokurorisë.
 
@@ -3410,13 +3650,27 @@ Neni 170
 
 Bashkëpunimi ndërinstitucional i aktorëve të sistemit të drejtësisë
 
-1. Këshilli i Lartë Gjyqësor dhe Këshilli i Lartë i Prokurorisë, të paktën 1 herë në vit, organizojnë mbledhje të përbashkëta për shkëmbimin e përvojave, për unifikimin e interpretimit dhe zbatimit të ligjeve, lidhur me ushtrimin e funksioneve dhe organizimit të tyre, si dhe të çështjeve të përgjithshme të lidhura me funksionimin e sistemit të drejtësisë. 
+(Ndryshuar pika 1, 4, shtuar pikat 5 dhe 6  me ligjin nr. 10/2026, datë 28.1.2026)
+
+1. Këshilli i Lartë Gjyqësor dhe Këshilli i Lartë i Prokurorisë të paktën 2 herë në vit dhe sa herë konsiderohet e nevojshme organizojnë mbledhje të përbashkëta për shkëmbimin e përvojave, për unifikimin e interpretimit dhe zbatimit të ligjeve, për ushtrimin e funksioneve dhe organizimit të tyre, si dhe për çështje të përgjithshme të lidhura me funksionimin e sistemit të drejtësisë. 
 
 2. Këshilli i Lartë i Prokurorisë mund të dërgojë përfaqësues në mbledhjet e Këshillit të Lartë Gjyqësor për çështje me interes të përbashkët dhe anasjelltas.
 
 3. Këshilli i Lartë Gjyqësor bashkëpunon me Këshillin e Lartë të Prokurorisë për unifikimin e interpretimit dhe zbatimit të ligjit, të praktikës së punës dhe shkëmbimin e përvojës, lidhur me çështjet e statusit të magjistratëve.
 
-4. Presidenti i Republikës, Kryetari i Gjykatës Kushtetuese, Kryetari i Gjykatës së Lartë, Ministri i Drejtësisë,  Kryetari i Gjykatës së Posaçme për gjykimin e veprave penale të Korrupsionit dhe Krimit të Organizuar, Drejtuesi i Prokurorisë së Posaçme dhe Prokurori i Përgjithshëm ftohen të marrin pjesë në këto mbledhje të përbashkëta.
+4. Presidenti i Republikës, Kryetari i Gjykatës Kushtetuese, Kryetari i Gjykatës së Lartë, ministri i Drejtësisë, kryetarët e Gjykatave të Posaçme të Shkallës së Parë dhe të Apelit për gjykimin e veprave penale të korrupsionit dhe krimit të organizuar, Drejtuesi i Prokurorisë së Posaçme, Prokurori i Përgjithshëm, Inspektori i Lartë i Drejtësisë dhe drejtori i Shkollës së Magjistraturës ftohen të marrin pjesë në këto mbledhje të përbashkëta. Nëse është e përshtatshme, çdo palë tjetër e interesuar ftohen të marrin pjesë në këto mbledhje të përbashkëta.
+
+5. Me qëllim koordinimin e hartimit dhe zbatimit të politikave shtetërore në sektorin e drejtësisë, përfshirë në veçanti hartimin, zbatimin, monitorimin, vlerësimin dhe raportimin mbi:
+
+a) strategjitë, mbledhjen dhe analizën e të dhënave statistikore të lidhura me to, që hyjnë në kompetencën e Ministrisë së Drejtësisë, si edhe strategjitë ndërsektoriale;
+
+b) udhërrëfyesit, planet e veprimit dhe dokumentet strategjike, si dhe mbledhjet dhe analizat e të dhënave statistikore të lidhura me to, që lidhen me procesin e integrimit evropian në sektorin e drejtësisë;
+
+c) çështjet që lidhen me ndihmën e huaj;
+
+Ministri i Drejtësisë thërret mbledhje koordinimi dhe miraton udhëzime të përbashkëta me titullarët e institucioneve përkatëse për përmbushjen e detyrimeve të parashikuara në këtë nen, përfshirë modelet, udhëzimet, afatet, monitorimin dhe raportimin. 
+
+6. Ministri i Drejtësisë drejton mekanizmat për koordinimin e integruar të politikave shtetërore në sektorin e drejtësisë. Mekanizmat për koordinimin e integruar të politikave shtetërore në sektorin e drejtësisë miratohen me vendim të Këshillit të Ministrave.
 
 SEKSIONI 3
 
@@ -3474,7 +3728,7 @@ Neni 175
 
 Përjashtimi i anëtarit
 
-(ndryshuar pika 2 me ligjin nr. 47/2019, datë 18.7.2019)
+(Ndryshuar pika 2 me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Prokurori ose nëpunësi civil i proceduar ose përfaqësuesi i tij ligjor, ose Inspektori i Lartë i Drejtësisë mund të kërkojnë përjashtimin e anëtarit të Këshillit nga pjesëmarrja në shqyrtimin e procedurës administrative vetëm në fazën paraprake të procesit, kur ekziston një nga shkaqet e parashikuara në nenin 174, të këtij ligji, dhe anëtari nuk heq dorë vetë nga shqyrtimi i çështjes.
 
@@ -3730,6 +3984,8 @@ Neni 190
 
 Njoftimi dhe botimi i akteve të Këshillit të Lartë të Prokurorisë
 
+(Ndryshuar 2  me ligjin nr. 10/2026, datë 28.1.2026)
+
 	1. Njoftimi i akteve administrative individuale të Këshillit të Lartë të Prokurorisë, në lidhje me statusin e prokurorëve ose nëpunësve civilë të prokurorisë, bëhet në një ose disa nga format e mëposhtme:
 
 	a) personalisht ose përfaqësuesit ligjor kur janë të pranishëm në çastin e shpalljes së aktit;
@@ -3738,9 +3994,9 @@ Njoftimi dhe botimi i akteve të Këshillit të Lartë të Prokurorisë
 
 	c) në adresën postare elektronike të depozituar zyrtarisht nga subjekti i aktit administrativ.
 
-	2. Aktet administrative individuale të Këshillit, në lidhje me statusin e prokurorëve ose nëpunësve civilë të sistemit të prokurorisë, bëhen publike në faqen zyrtare të internetit të Këshillit, të shoqëruara me arsyetimin përkatës, pasi të redaktohen për sigurimin e anonimatit të subjekteve, përveç rasteve të parashikuara ndryshe në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”. 
+	2. Aktet administrative individuale të Këshillit në lidhje me statusin e prokurorëve ose nëpunësve civilë të sistemit të prokurorisë për efekt të transparencës bëhen publike në faqen zyrtare të internetit të Këshillit, të shoqëruara me arsyetimin përkatës. Përjashtimisht, nuk publikohen të dhënat sensitive sipas përkufizimit të dhënë në legjislacionin në fuqi për mbrojtjen e të dhënave personale. Të dhënat personale të personave të tretë, që nuk janë subjekte të këtij ligji, mbrohen sipas legjislacionit në fuqi për të dhënat personale. 
 
-		3. Njoftimi i akteve administrative kolektive, në lidhje me statusin e të gjithë prokurorëve ose nëpunësve civilë, bëhet nëpërmjet botimit në faqen zyrtare të Këshillit. Këto akte hyjnë në fuqi në datën e botimit në faqen zyrtare të Këshillit.
+	3. Njoftimi i akteve administrative kolektive, në lidhje me statusin e të gjithë prokurorëve ose nëpunësve civilë, bëhet nëpërmjet botimit në faqen zyrtare të Këshillit. Këto akte hyjnë në fuqi në datën e botimit në faqen zyrtare të Këshillit.
 
 	4. Aktet normative nënligjore botohen në faqen zyrtare të internetit të Këshillit dhe në Fletoren Zyrtare. Ato hyjnë në fuqi në datën e botimit në Fletoren Zyrtare. Nëse akti normativ nënligjor ndryshon një akt tjetër, akti i ndryshuar botohet në formë të konsoliduar në faqen zyrtare të Këshillit.
 
@@ -3776,7 +4032,7 @@ Neni 192
 
 Ankimi i vendimeve të Këshillit
 
-(ndryshuar fjalia e parë e pikës 1 me ligjin nr. 47/2019, datë 18.7.2019)
+(Ndryshuar fjalia e parë e pikës 1 me ligjin nr. 47/2019, datë 18.7.2019)
 
 	1. Ndaj aktit administrativ individual të Këshillit mund të bëhet ankim, brenda 15 ditëve nga data e njoftimit, në Gjykatën Administrative të Apelit, përveçse kur parashikohet ndryshe në ligj. Aktet administrative individuale që vendosin masa disiplinore mbi prokurorët ankimohen në Gjykatën Kushtetuese.
 
@@ -4070,6 +4326,8 @@ Neni 209
 
 Kushtet për emërimin e inspektorit
 
+(Ndryshuar shkronja “a” e pikës 5 me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Jo më pak se gjysma e inspektorëve të Zyrës së Inspektorit të Lartë të Drejtësisë janë magjistratë, të cilët komandohen në këtë detyrë nga Këshilli i Lartë Gjyqësor ose Këshilli i Lartë i Prokurorisë.
 
 2. Inspektorët e tjerë emërohen nga Inspektori i Lartë i Drejtësisë, pas këshillimit me Komitetin e Emërimit dhe të Vlerësimit të Inspektorëve, në bazë të një procedure përzgjedhëse të hapur, konkurruese dhe të planifikuar, në analogji, për aq sa është e mundur, me rregullat e ligjit “Për nëpunësin civil”.
@@ -4080,7 +4338,7 @@ Kushtet për emërimin e inspektorit
 
 5. Kandidatët për inspektorë, të cilët vijnë nga radhët e magjistratëve, duhet të plotësojnë kushtet e mëposhtme:
 
-a) në kohën e kandidimit, plotësojnë kushtet për t’u emëruar në Gjykatën e Lartë ose në Prokurorinë e Përgjithshme;
+a) në kohën e komandimit të ketë ushtruar funksionin për jo më pak se 10 vjet, prej të cilave jo më pak se shtatë vjet si gjyqtar ose prokuror, duke përfshirë edhe përvojën si magjistrat i komanduar sipas ligjit për statusin e gjyqtarëve dhe prokurorëve;
 
 b) në kohën e kandidimit, nuk janë kryetarë të një gjykate ose drejtues të një zyre të prokurorisë dhe as anëtarë të organeve drejtuese të grupeve të interesit, të tilla si shoqata ose sindikata magjistratësh etj.;
 
@@ -4116,17 +4374,21 @@ Neni 210
 
 Statusi i inspektorëve
 
-	1. Inspektorët magjistratë të Zyrës së Inspektorit të Lartë të Drejtësisë përfitojnë pagën dhe përfitimet e gjyqtarit të gjykatës së apelit. 
+(Ndryshuar pika 1, shfuqizuar pika 2 me ligjin nr. 10/2026, datë 28.1.2026)
 
-	2. Inspektorët jomagjistratë të Zyrës së Inspektorit të Lartë të Drejtësisë gëzojnë statusin e nëpunësve civilë të kategorisë së lartë drejtuese.
+	1. Inspektorët magjistratë dhe inspektorët jomagjistratë të Zyrës së Inspektorit të Lartë të Drejtësisë gëzojnë pagën dhe përfitimet e gjyqtarit të gjykatës së apelit. 
+
+	2. Shfuqizuar.
 
 Neni 211
 
 Rekrutimi i inspektorëve
 
-1. Inspektorët magjistratë komandohen në këtë detyrë nga Këshilli i Lartë Gjyqësor ose Këshilli i Lartë i Prokurorisë për një periudhe 5-vjeçare me të drejtë riemërimi vetëm një herë. Të drejtën e riemërimit e gëzojnë vetëm ata inspektorë, të cilët janë vlerësuar të paktën “shumë mirë” gjatë kohës së shërbimit si inspektorë. Magjistratët e komanduar pranë Inspektorit të Lartë të Drejtësisë mund të kthehen në çdo kohë në funksionet e tyre të mëparshme me kërkesën e tyre ose të Inspektorit të Lartë, sipas rregullave të parashikuara në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, me përjashtim të rastit kur ndaj tyre merret masa disiplinore e shkarkimit nga detyra.
+(Ndryshuar fjalia e parë e pikës 1, shtuar fjali në pikën 2 me ligjin nr. 10/2026, datë 28.1.2026)
 
-2. Inspektorët e tjerë emërohen nga Inspektori i Lartë i Drejtësisë në bazë të një procedure përzgjedhëse dhe konkurruese të hapur dhe të planifikuar. Jo më vonë se 3 muaj nga krijimi i Zyrës së Inspektorit të Lartë të Drejtësisë, Inspektori i Lartë miraton rregulla më të hollësishme për procedurën e përzgjedhjes, konkurrimit dhe emërimit të inspektorëve jomagjistratë. Rregullat e miratuara nga Inspektori i Lartë i Drejtësisë zbatohen, për aq sa është e mundur, me rregullat e ligjit “Për nëpunësin civil”.
+1. Inspektorët magjistratë komandohen në këtë detyrë nga Këshilli i Lartë Gjyqësor ose Këshilli i Lartë i Prokurorisë për një periudhe 5-vjeçare me të drejtë riemërimi. Të drejtën e riemërimit e gëzojnë vetëm ata inspektorë, të cilët janë vlerësuar të paktën “shumë mirë” gjatë kohës së shërbimit si inspektorë. Magjistratët e komanduar pranë Inspektorit të Lartë të Drejtësisë mund të kthehen në çdo kohë në funksionet e tyre të mëparshme me kërkesën e tyre ose të Inspektorit të Lartë, sipas rregullave të parashikuara në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, me përjashtim të rastit kur ndaj tyre merret masa disiplinore e shkarkimit nga detyra.
+
+2. Inspektorët e tjerë emërohen nga Inspektori i Lartë i Drejtësisë në bazë të një procedure përzgjedhëse dhe konkurruese të hapur dhe të planifikuar. Inspektorët e tjerë që përpara emërimit punonin me kohë të plotë në sektorin publik, rikthehen në vendin e mëparshëm të punës ose në pamundësi në një detyrë të barasvlershme me të. Jo më vonë se 3 muaj nga krijimi i Zyrës së Inspektorit të Lartë të Drejtësisë, Inspektori i Lartë miraton rregulla më të hollësishme për procedurën e përzgjedhjes, konkurrimit dhe emërimit të inspektorëve jomagjistratë. Rregullat e miratuara nga Inspektori i Lartë i Drejtësisë zbatohen, për aq sa është e mundur, me rregullat e ligjit “Për nëpunësin civil”.
 
 Neni 212
 
@@ -4210,7 +4472,7 @@ c) mirëmbajtjen e sistemit elektronik të teknologjisë së informacionit të �
 
 ç) përmirësimin periodik të sistemit, për të siguruar zbatimin e kërkesave funksionale të inspektimit dhe të organeve të tjera brenda sistemit të drejtësisë, si dhe për të reflektuar ndryshimet në ligjet procedurale;
 
-d) sigurimin që sistemi elektronik i teknologjisë së informacionit të të dhënave gjeneron informacione statistikore, të cilat janë të nevojshme për punën e Inspektorit të Lartë dhe të organeve të tjera;
+d)sigurimin që sistemi elektronik i teknologjisë së informacionit të të dhënave gjeneron informacione statistikore, të cilat janë të nevojshme për punën e Inspektorit të Lartë dhe të organeve të tjera;
 
 dh) sigurimin e saktësisë dhe sigurisë së të dhënave dhe mbrojtjen e të dhënave personale;
 
@@ -4258,7 +4520,7 @@ Neni 220
 
 Përbërja, mandati i anëtarëve dhe zëvendësimi
 
-(shtuar fjalë në fund të pikës 3 me ligjin nr. 47/2019, datë 18.7.2019)
+(Shtuar fjalë në fund të pikës 3 me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Këshilli i Emërimeve në Drejtësi përbëhet nga  9 anëtarë si më poshtë:
 
@@ -4282,7 +4544,7 @@ Neni 221
 
 Kushtet dhe kriteret për t’u përfshirë në shortin për zgjedhjen e anëtarëve të Këshillit dhe procedurat e përzgjedhjes
 
-(ndryshuar shkronja “a” dhe “dh” dhe shfuqizuar shkronjat “ç” dhe “d” të pikës 1, me ligjin nr. 47/2019, datë 18.7.2019)
+(Ndryshuar shkronja “a” dhe “dh” dhe shfuqizuar shkronjat “ç” dhe “d” të pikës 1, me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Mund të përfshihen në shortin për zgjedhjen e anëtarëve të Këshillit të Emërimeve në Drejtësi vetëm ata magjistratë dhe gjyqtarë të Gjykatës Kushtetuese, të cilët, në momentin e organizimit të shortit, plotësojnë kushtet e mëposhtme:
 
@@ -4356,7 +4618,7 @@ Neni 225
 
 Përjashtimi dhe zëvendësimi i anëtarit
 
-(ndryshuar referencat ligjore në pikën 1 me ligjin nr. 47/2019, datë 18.7.2019)
+(Ndryshuar referencat ligjore në pikën 1 me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Kandidatët mund të kërkojnë përjashtimin e anëtarit të Këshillit nga pjesëmarrja në verifikimin  e kushteve ligjore, vlerësimin e kritereve profesionale dhe renditjen jo më vonë se 3 ditë nga data e mbledhjes së Këshillit, kur ekziston një nga shkaqet e parashikuara në nenet 222, 223 dhe 224, të këtij ligji, dhe anëtari nuk heq dorë vetë nga shqyrtimi i çështjes.
 
@@ -4680,13 +4942,15 @@ Neni 244
 
 Funksionet
 
+(Ndryshuar pika 4 me ligjin nr. 10/2026, datë 28.1.2026)
+
 1. Shkolla e Magjistraturës siguron formimin profesional të magjistratëve.
 
 2. Formimi profesional përfshin programin e formimit fillestar të kandidatëve për magjistratë dhe të formimit vazhdues të gjyqtarëve dhe prokurorëve në detyrë.
 
 3. Shkolla e Magjistraturës pranon në programin e formimit fillestar dhe të formimit vazhdues të kandidatëve për magjistratë,  në kuptim të pikës 2, të këtij neni, dhe në përputhje me ligjin “Për Avokaturën e Shtetit” kandidatë për pozicionet në Avokaturën e Shtetit.   
 
-4. Shkolla e Magjistraturës pranon, në vitin e parë të trajnimit fillestar dhe në programin e trajnimit të vazhduar, në kuptimin e pikës 2, të këtij neni, dhe në përputhje me ligjin “Për organizimin e pushtetit gjyqësor në Republikën e Shqipërisë”, kandidatët për ndihmës ligjorë. 
+4. Shkolla e Magjistraturës pranon në programin e trajnimit fillestar dhe vazhdues sipas ligjit kandidatët për këshilltarë dhe ndihmësligjor të gjykatave dhe prokurorive, si dhe të prokurorisë së posaçme sipas ligjit. 
 
 5. Rregulla më të detajuara që lidhen me parashikimet e pikave 3 dhe 4, të këtij neni, në veçanti lidhur me numrin e të trajnuarve në vit, kurset e trajnimit për këta të trajnuar dhe fondet përkatëse që do të bëhen të disponueshme nga institucionet ose donatorët e interesuar, rregullohen me marrëveshje ndërmjet Shkollës së Magjistraturës dhe institucionit të interesuar.
 
@@ -5086,9 +5350,13 @@ c) një vit praktikë profesionale që do të organizohet sipas mënyrës dhe af
 
 Neni 264
 
-Zgjedhja dhe emërimi i pedagogëve, përgjegjësve për programet e trajnimit dhe kancelarit 
+Zgjedhja dhe emërimi i pedagogëve, përgjegjësve për programet e trajnimit dhe kancelarit
+
+(Shtuar pika 1/1 me ligjin nr. 10/2026, datë 28.1.2026)
 
 1. Pedagogët e brendshëm dhe të jashtëm emërohen nga Këshilli Drejtues me propozim të drejtorit ose të anëtarëve të Këshillit Drejtues, pas një procesi transparent e gjithëpërfshirës të bazuar në meritë dhe në një proces konkurrues.
+
+1/1. Magjistrati që nuk ka kaluar me sukses procesin e rivlerësimit kalimtar të prokurorëve dhe gjyqtarëve ose ka dhënë dorëheqjen, pa iu nënshtruar procesit të rivlerësimit në përputhje me ligjin nr. 84/2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, sipas vendimit përkatës të organeve kompetente, nuk mund të përzgjidhet në detyrën e pedagogut, trajnerit/ekspertit në programet e formimit fillestar dhe vazhdues të Shkollës së Magjistraturës.
 
 2. Pedagogët e brendshëm zgjidhen nga radhët e juristëve më të shquar me eksperiencë mbi 15-vjeçare si juristë, gjyqtarë, prokurorë, avokatë dhe me eksperiencë mësimdhënëse si pedagogë të brendshëm në sistemin universitar ose  si pedagogë të jashtëm e të brendshëm në Shkollën e Magjistraturës, me eksperiencë mbi 10 vjet. 
 
@@ -5262,9 +5530,15 @@ Konkurrimi, formimi fillestar dhe vazhdues i avokatëve të shtetit
 
 Neni 274
 
-Konkurrimi, formimi fillestar dhe vazhdues i këshilltarëve ligjorë të gjykatave dhe prokurorive
+Konkurrimi, formimi fillestar dhe vazhdues i këshilltarëve ligjorë dhe ndihmësve ligjorë 
 
-Konkurruesit për kandidatë për këshilltarë ligjorë të gjykatave dhe prokurorive, që parashikojnë kushtet e parashikuara në ligj, i nënshtrohen të njëjtit konkurrim si konkurruesit për gjyqtarë dhe prokurorë.
+të gjykatave dhe prokurorive
+
+ (Ndryshuar me ligjin nr. 10/2026, datë 28.1.2026)
+
+1. Konkurruesit për kandidatë për këshilltarë ligjorë dhe ndihmësligjorë të gjykatave dhe prokurorive, sipas kushteve të parashikuara në ligj, i nënshtrohen konkurrimit bazuar në një testim të posaçëm që hartohet nga Shkolla e Magjistraturës për profilet e punës së këshilltarëve ligjorë dhe ndihmësve ligjorë. Për hartimin e testimit Shkolla e Magjistraturës këshillohet me Këshillin e Lartë Gjyqësor, Këshillin e Lartë të Prokurorisë, Gjykatën e Lartë, Prokurorin e Përgjithshëm, drejtuesin e Prokurorisë së Posaçme për tematikat e mundshme të testimit dhe aftësitë e nevojshme për t'u bërë këshilltarë ligjorë ose ndihmës ligjorë.
+
+2. Programi i formimit fillestar të këshilltarëve ligjorë dhe ndihmësve ligjorë të gjykatave dhe prokurorive përfshin një periudhë njëvjeçare që përbëhet nga një program i posaçëm teoriko-praktik, që synon të rrisë njohuritë në lëndë të ndryshme të së drejtës si dhe rrisë aftësitë praktike që kërkohen në ushtrimin e funksionit të këshilltarit ligjor ose ndihmësit ligjor.
 
 Neni 275
 
