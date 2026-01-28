@@ -6,9 +6,9 @@ PËR STATUSIN E GJYQTARËVE DHE PROKURORËVE NË REPUBLIKËN
 
 E SHQIPËRISË
 
-(Shfuqizuar nene me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017, ndryshuar me ligjin nr. 48/2019, datë 18.7.2019, nr. 15/2020, datë 12.2.2020; nr. 149/2020, datë 17.12.2020;
+(Ndryshuar me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; me ligjin nr. 48/2019, datë 18.7.2019; nr. 15/2020, datë 12.2.2020; nr. 149/2020, datë 17.12.2020;
 
-nr. 50/2021, datë 23.3.2021; nr. 33/2023, datë 25.5.2023)
+nr. 50/2021, datë 23.3.2021; nr. 33/2023, datë 25.5.2023; nr. 9/2026, datë 28.1.2026)
 
 (i përditësuar)
 
@@ -45,6 +45,8 @@ d) përgjegjësinë disiplinore, penale dhe civile të tyre;
 Neni 2
 
 Përkufizime
+
+(Shtuar shkronjat “j/1”, “k/1”, “k/2”, “k/3” dhe “m/1” me ligjin nr. 9/2026, datë 28.1.2026)
 
 Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 
@@ -84,13 +86,27 @@ i) “Ndryshimi i strukturës administrative ose kompetencave tokësore të gjyk
 
 j) “Paga bruto fillestare”, në kuptim të këtij ligji, përfaqëson pagën referuese bazë dhe shtesën e pagës në grup.
 
+j/1) “Pasuri” janë të gjitha pasuritë e luajtshme dhe të paluajtshme në Republikën e Shqipërisë ose jashtë saj, sipas parashikimit të nenit 4 të ligjit nr. 9049, datë 10.4.2013, “Për deklarimin dhe kontrollin e pasurive, të detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publikë”, i ndryshuar, që janë në pronësi, posedim ose në përdorim të kandidatit për magjistrat ose magjistratit.
+
 k) “Periudha e vlerësimit” është periudha, gjatë së cilës bëhet vlerësimi etik dhe profesional i magjistratit.
+
+k/1) “Person i lidhur” është bashkëshorti/ja, bashkëjetuesi/ja dhe fëmija madhor i kandidatit për magjistrat ose magjistratit, i cili për shkak të kësaj marrëdhënieje u nënshtrohet detyrimeve të parashikuara në këtë ligj.
+
+k/2) “Persona të tjerë të lidhur” janë personat e afërt deri në shkallë të dytë, personi i besuar, drejtuesi dhe ortakët e shoqërisë në të cilën kandidati për magjistrat, magjistrati ose personat e lidhur me të zotërojnë drejtpërdrejt ose tërthorazi aksione ose kuota, si dhe çdo person fizik ose juridik, i cili ka pasur ose ka një lidhje të përbashkët interesi privat.
+
+k/3) “Person i përfshirë në krimin e organizuar” është çdo person që është dënuar ose proceduar penalisht brenda ose jashtë territorit të Republikës së Shqipërisë për një nga veprat e parashikuara në pikën 1 të nenit 3 të ligjit nr. 10 192, datë 3.12.2009, “Për parandalimin dhe goditjen e krimit të organizuar, trafikimit dhe korrupsionit nëpërmjet masave parandaluese kundër pasurisë”, të ndryshuar, me përjashtim të rastit kur është deklaruar i pafajshëm me vendim gjyqësor të formës së prerë. Personi konsiderohet i përfshirë në krimin e organizuar edhe kur: 
+
+i. procedimi penal i filluar ndaj tij pushohet nga organi procedues për shkak të vdekjes, ose sepse nuk mund të merret si i pandehur dhe nuk mund të dënohet;
+
+ii. deklarohet i pafajshëm nga gjykata pasi vepra penale është kryer nga një person që nuk mund të akuzohet ose dënohet.
 
 l) “Rendimenti i përfundimit të çështjeve” për një magjistrat është raporti i numrit të çështjeve gjyqësore të përfunduara prej tij me numrin e çështjeve gjyqësore të caktuara brenda një viti kalendarik. 
 
 ll) “Skema e vlerësimit” i referohet tërësisë së rregullave të vlerësimit etik dhe profesional, sipas këtij ligji dhe akteve nënligjore të nxjerra në bazë dhe për zbatim të tij.
 
 m) “Standardet minimale të afatit” janë afate orientuese, brenda të cilave një çështje duhet të përfundojë. Këshillat miratojnë dhe rishikojnë standardet minimale të afatit, në mënyrë të veçantë për lloje të ndryshme çështjesh, duke vlerësuar natyrën, kompleksitetin dhe sasinë e çështjeve të regjistruara në gjykatë ose në prokurori, si dhe infrastrukturën e gjykatës ose të prokurorisë. 
+
+m/1) “Të ardhura të ligjshme” janë të ardhurat e kandidatit për magjistrat ose magjistratit dhe personave të lidhur të tij/saj sipas përcaktimeve të burimit të të ardhurave, të parashikuara në ligjin “Për tatimin mbi të ardhurat”.
 
 n) “Vendimi jopërfundimtar” është vendimi, i cili nuk e zgjidh çështjen në themel, si vendimi për pushimin e një kërkese ose vendimi për përfundimin ose për mbylljen e procedurës për shkaqe formale.  
 
@@ -218,7 +234,7 @@ Neni 8
 
 Papajtueshmëria ambientale
 
- (Shfuqizuar me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017 dhe ndryshuar me ligjin nr. 48/2019, datë 18.7.2019)
+ (Shfuqizuar me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; ndryshuar me ligjin nr. 48/2019, datë 18.7.2019)
 
 1. Papajtueshmëria ambientale, në kuptimin e këtij neni, krijohet për shkak të lidhjeve të ngushta familjare mes magjistratëve, që janë përkatësisht bashkëshorti/ja, bashkëjetuesi/ja,  ose të afërmit e tij deri në shkallë të dytë. 
 
@@ -246,7 +262,7 @@ Neni 9
 
 Veprimtaritë jashtë funksionit
 
-(Shfuqizuar fjalia e fundit e shkronjës “c” të pikës 1, pikat 7 dhe 8 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017, ndryshuar pikat 7 dhe 8 me ligjin nr. 48/2019, datë 18.7.2019)
+(Shfuqizuar fjalia e fundit e shkronjës “c” të pikës 1, pikat 7 dhe 8 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; ndryshuar pikat 7 dhe 8 me ligjin nr. 48/2019, datë 18.7.2019)
 
 1. Magjistrati lejohet të kryejë veprimtari jashtë funksionit, vetëm nëse këto veprimtari:
 
@@ -308,7 +324,7 @@ Neni  11
 
 Parimet e caktimit të pagës dhe përfitimeve financiare të magjistratit
 
-(ndryshuar shkronja “a”  e pikës 3 me ligjin nr. 50/2021, datë 23.3.2021)
+(Ndryshuar shkronja “a”  e pikës 3 me ligjin nr. 50/2021, datë 23.3.2021)
 
 1. Paga e magjistratit dhe përfitimet e tjera financiare duhet të jenë në përputhje me dinjitetin e detyrës së magjistratit dhe të përshtatshme për të garantuar pavarësinë dhe mbrojtjen nga ndërhyrjet e jashtme në ushtrim të funksionit të tyre.  
 
@@ -336,7 +352,7 @@ Neni 12
 
 Caktimi i pagës së magjistratit
 
-(ndryshuar shkronja “d” e pikës 5 me ligjin nr. 15/2020, datë 12.2.2020; ndryshuar shkronja “a” e pikës 5, ndryshuar fjalë në shkronjën “d” të pikës 5 me ligjin nr. 50/2021, datë 23.3.2021; ndryshuar shkronja “a” e pikës 5 me ligjin nr. 33/2023, datë 25.3.2023)
+(Ndryshuar shkronja “d” e pikës 5 me ligjin nr. 15/2020, datë 12.2.2020; ndryshuar shkronja “a” e pikës 5, ndryshuar fjalë në shkronjën “d” të pikës 5 me ligjin nr. 50/2021, datë 23.3.2021; ndryshuar shkronja “a” e pikës 5 me ligjin nr. 33/2023, datë 25.3.2023)
 
 1. Paga e magjistratit caktohet sipas përkatësisë së magjistratit në grupin dhe nivelin e pagës. 
 
@@ -386,7 +402,7 @@ Neni 13/1
 
 Paga e magjistratëve në skemë delegimi
 
-(shtuar me ligjin nr. 50/2021, datë 23.3.2021)
+(Shtuar me ligjin nr. 50/2021, datë 23.3.2021)
 
 1. Magjistrati në skemë delegimi përfiton 10 për qind shtesë page mbi pagën bruto fillestare të tij.
 
@@ -412,7 +428,7 @@ Neni 15
 
 Kompensimi i magjistratëve
 
- (ndryshuar me ligjin nr. 50/2021, datë 23.3.2021)
+ (Ndryshuar me ligjin nr. 50/2021, datë 23.3.2021)
 
 1. Magjistrati në skemën e delegimit i caktuar në një gjykatë ose prokurori, si dhe magjistratët e tjerë, kur transferohen përkohësisht ose caktohen përkohësisht për jo më shumë se 22 ditë pune, përfiton kompensim për mbulimin e shpenzimeve të qëndrimit, shpenzimeve të transportit, si dhe dietë ditore për çdo ditë të ushtrimit të funksionit pranë gjykatës ose prokurorisë ku delegohet, transferohet ose caktohet përkohësisht. Shpenzimet e transportit llogariten në bazë të distancës më të shkurtër që rezulton ndërmjet gjykatës ose prokurorisë ku ai delegohet, transferohet ose caktohet përkohësisht me gjykatën ose prokurorinë ku ai është i caktuar në mënyrë të përhershme në pozicion ose me vendbanimin e tij të përhershëm.
 
@@ -512,7 +528,7 @@ Neni 22
 
 Paprekshmëria e pagës dhe përfitimeve të tjera financiare të magjistratit
 
-(ndryshuar  shkronja “ç” e pikës 1 me ligjin nr. 50/2021, datë 23.3.2021)
+(Ndryshuar shkronja “ç” e pikës 1 me ligjin nr. 50/2021, datë 23.3.2021)
 
 1. Paga dhe përfitimet e tjera të magjistratit nuk mund të ulen, me përjashtim të rasteve kur: 
 
@@ -534,7 +550,7 @@ Neni 23
 
 Pushimet vjetore
 
-(Shfuqizuar pika 10 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017 dhe ndryshuar me ligjin nr. 48/2019, datë 18.7.2019)
+(Shfuqizuar pika 10 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; ndryshuar me ligjin nr. 48/2019, datë 18.7.2019)
 
 1. Magjistrati gëzon të drejtën për pushime vjetore të paguara me kohëzgjatje 25 ditë pune. 
 
@@ -600,7 +616,7 @@ Neni 26
 
 Ulja e ngarkesës
 
-(Shfuqizuar shkronja “b” e pikës 4 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017, ndryshuar shkronja “a” e pikës 1, shtuar shkronja “c” e pikës 1, ndryshuar shkronja “a” e pikës 3 dhe shkronja “b” e pikës 4 me ligjin nr. 48/2019, datë 18.7.2019)
+(Shfuqizuar shkronja “b” e pikës 4 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; ndryshuar shkronja “a” e pikës 1, shtuar shkronja “c” e pikës 1; ndryshuar shkronja “a” e pikës 3 dhe shkronja “b” e pikës 4 me ligjin nr. 48/2019, datë 18.7.2019)
 
 1.  Magjistrati ka të drejtë për ulje të ngarkesës së çështjeve, në rast nevoje, për një nga këto shkaqe:
 
@@ -640,7 +656,7 @@ Neni 27
 
 Pensioni i parakohshëm
 
-(shfuqizuar shkronja “c” e pikës 1 , shtuar pikat pikat 1/1 dhe 1/2  me ligjin nr. 50/2021, datë 23.3.2021)
+(Shfuqizuar shkronja “c” e pikës 1, shtuar pikat pikat 1/1 dhe 1/2  me ligjin nr. 50/2021, datë 23.3.2021)
 
 1.  Magjistrati gëzon të drejtën e pensionit të parakohshëm nëse:
 
@@ -676,7 +692,7 @@ Neni 28
 
 Kriteret e pranimit në formimin fillestar
 
-(ndryshuar shkronja “c”, shtuar fjalë  në shkronjën “ç”, ndryshuar shkronja “d” dhe “dh” me ligjin nr. 50/2021, datë 23.3.2021)
+(Ndryshuar shkronja “c”, shtuar fjalë  në shkronjën “ç”, ndryshuar shkronja “d” dhe “dh” me ligjin nr. 50/2021, datë 23.3.2021)
 
 Çdo person ka të drejtë të kandidojë në Shkollën e Magjistraturës, për t’u pranuar në formimin fillestar për magjistrat, nëse përmbush njëkohësisht kriteret e mëposhtme:
 
@@ -738,13 +754,27 @@ Neni 32
 
 Verifikimi i pasurisë dhe figurës
 
-(ndryshuar pikat  2, 4, 6 , shtuar pikat  4/1 dhe 6/1 me ligjin nr. 50/2021, datë 23.3.2021)
+(Ndryshuar pikat  2, 4, 6, shtuar pikat  4/1 dhe 6/1 me ligjin nr. 50/2021, datë 23.3.2021; shtuar fjali në pikën 1, ndryshuar fjalë në pikën 2 dhe pika 3, shtuar pikat 2/1, 2/2, 2/3, 2/4 dhe 2/5 me ligjin nr. 9/2026, datë 28.1.2026)
 
-1. Kandidatët me rezultatet më të larta në listën e publikuar, sipas përcaktimeve të nenit 31, të këtij ligji, të cilët mund të pranohen në formimin fillestar të Shkollës së Magjistraturës, i nënshtrohen verifikimit të plotë të pasurisë dhe figurës. 
+1. Kandidatët me rezultatet më të larta në listën e publikuar, sipas përcaktimeve të nenit 31, të këtij ligji, të cilët mund të pranohen në formimin fillestar të Shkollës së Magjistraturës, i nënshtrohen verifikimit të plotë të pasurisë dhe figurës. Verifikimi i plotë i pasurisë dhe figurës përfshin vlerësimin e saktësisë së deklarimit dhe kontrollin e pasurive, ligjshmërinë e burimit të krijimit të tyre, përmbushjen e detyrimeve financiare, përfshirë interesat private për kandidatin për magjistrat dhe për personat e lidhur të tij, identifikimin e kontakteve të papërshtatshme të kandidatëve me personat e përfshirë në krimin e organizuar, si dhe identifikimin e sjelljeve të papërshtatshme etike dhe morale të kandidatëve, të cilat cenojnë besimin e publikut në sistemin e drejtësisë.
 
-2. Brenda një jave nga publikimi i listës përfundimtare, sipas nenit 31 të këtij ligji, për secilin kandidat të parashikuar në pikën 1 të këtij neni, Këshillat kërkojnë raportim nga institucionet kompetente për verifikimin e pasurisë dhe të figurës në lidhje me çdo shkak tjetër përjashtues, nga Inspektorati i Lartë i Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave, prokuroria, gjykata, organet e administratës tatimore dhe doganore, Byroja Kombëtare e Hetimit, shërbimet shtetërore informative, çdo organ disiplinor që ka mbikëqyrur disiplinën në marrëdhëniet e punës së kandidatit, si dhe çdo organ publik, person fizik ose juridik që disponon të dhëna të vlefshme për qëllimet e verifikimit. Nëse është e nevojshme, Këshillat kërkojnë informacion shtesë nga institucionet e përmendura në këtë pikë.
+2. Brenda një jave nga publikimi i listës përfundimtare, sipas nenit 31 të këtij ligji, për secilin kandidat të parashikuar në pikën 1 të këtij neni, Këshillat kërkojnë raportim nga institucionet kompetente për verifikimin e pasurisë dhe të figurës në lidhje me çdo shkak tjetër përjashtues, nga Inspektorati i Lartë i Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave, Prokuroria e Përgjithshme, Prokuroria e Posaçme kundër Krimit të Organizuar dhe Korrupsionit, Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar, gjykata, organet e administratës tatimore dhe doganore, Byroja Kombëtare e Hetimit, shërbimet shtetërore informative, çdo organ disiplinor që ka mbikëqyrur disiplinën në marrëdhëniet e punës së kandidatit, si dhe çdo organ publik, person fizik ose juridik që disponon të dhëna të vlefshme për qëllimet e verifikimit. Nëse është e nevojshme, Këshillat kërkojnë informacion shtesë nga institucionet e përmendura në këtë pikë.
 
-3. Çdo institucion publik, subjekt fizik ose juridik, duhet të përmbushë kërkesat e Këshillave për informacion, dokumentacion, ose materiale të tjera në lidhje me një hetim, me përjashtim të rasteve të kufizuara me ligj, brenda afatit ligjor të arsyeshëm të përcaktuar nga Këshillat në kërkesën  e tyre.
+2/1. Kandidati brenda 10 ditëve nga data e publikimit të listës përfundimtare, në përputhje me nenin 31 të këtij ligji, duhet të plotësojë dhe të dorëzojë pranë:
+
+a) Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave deklaratën e pasurisë dhe interesave private për kontrollin e pasurive të kandidatëve për pozicione të ndryshme në institucionet e drejtësisë në përputhje me nenin 3/1 të ligjit nr. 9049, datë 10.4.2003, “Për deklarimin dhe kontrollin e pasurive, detyrimeve financiare të personave të zgjedhur dhe nëpunësve të caktuar publikë”, i ndryshuar; si dhe
+
+b) Autoritetit Kombëtar për Sigurinë e Informacionit të Klasifikuar formularin e vetëdeklarimit për zbatimin e ligjit nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”.
+
+2/2. Inspektorati i Lartë i Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesit, bazuar në deklarimet e pasurive, zhvillon një procedurë kontrolli në përputhje me legjislacionin në fuqi për deklarimin dhe kontrollin e pasurive, detyrimeve financiare të personave të zgjedhur dhe nëpunësve të caktuar publikë, për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike dhe Kodin e Procedurave Administrative. Në përfundim të kontrollit, por jo më vonë se 30 ditë nga paraqitja e deklaratës nga kandidati sipas pikës 2/1 të këtij neni, Inspektori i Përgjithshëm i Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesit përgatit raportin për kandidatin dhe e përcjell pranë Këshillit përkatës.
+
+2/3. Autoriteti Kombëtar për Sigurinë e Informacionit të Klasifikuar kryen kontrollin e saktësisë dhe vërtetësisë së deklarimit sipas ligjit brenda 30 ditëve nga paraqitja e formularit të vetëdeklarimit. Në përfundim të procedurës së verifikimit Autoriteti harton raportin për kandidatin dhe e përcjell pranë Këshillit përkatës.
+
+2/4. Këshilli heton dhe vlerëson të gjitha faktet e rrethanat, duke kërkuar informacione shtesë nga çdo subjekt privat ose publik dhe kryen një analizë të pavarur financiare duke përfshirë personat e lidhur dhe personat e tjerë të lidhur. 
+
+2/5. Këshilli ka akses të plotë në të gjitha bazat e të dhënave që i nevojiten për procesin e verifikimit dhe vlerësimit, duke përfshirë dokumente të shkruara, elektronike, regjistra publikë, si dhe çdo të dhënë tjetër të ligjshme që mbahet dhe përpunohet nga institucionet publike, personat fizikë dhe juridikë që ushtrojnë funksione publike sipas legjislacionit në fuqi.
+
+3. Brenda 15 ditëve nga marrja e kërkesës, çdo organ shtetëror, ent publik dhe person juridik privat detyrohet të bashkëpunojë me Këshillin për dorëzimin, aksesin dhe verifikimin e të dhënave, fakteve ose rrethanave. Mosbashkëpunimi ose refuzimi për të bashkëpunuar, asgjësimi, vonesat ose sjellja e papërshtatshme gjatë procesit të verifikimit raportohen në zyrën e prokurorisë si vepër penale sipas nenit 248 të Kodit Penal dhe përbëjnë shkelje disiplinore.
 
 4. Në çdo rast Këshillat çmojnë, sipas bindjes së tyre, se cilat fakte konsiderohen të provuara bazuar në vlerësimin e hollësishëm të raporteve të paraqitura nga institucionet kompetente, sipas pikës 2 të këtij neni, si dhe në rezultatin tërësor të hetimit administrativ.
 
@@ -830,7 +860,7 @@ Neni 34
 
 Verifikimi i pasurisë dhe figurës dhe renditja e kandidatëve magjistratë të diplomuar 
 
-(ndryshuar titulli i nenit, ndryshuar pika 1, shtuar pika 1/1  me ligjin nr. 50/2021, datë 23.3.2021)
+(Ndryshuar titulli i nenit, ndryshuar pika 1, shtuar pika 1/1 me ligjin nr. 50/2021, datë 23.3.2021)
 
 1. Çdo vit, jo më vonë se në fund të muajit janar, Shkolla e Magjistraturës u dërgon Këshillave listën e kandidatëve që mund të diplomohen në përfundim të vitit akademik për verifikimin e pasurisë dhe figurës, në përputhje me rregullat e parashikuara në nenin 32 të këtij ligji.
 
@@ -850,7 +880,7 @@ Neni 35
 
 Emërimi i kandidatit magjistrat të diplomuar
 
-(ndryshuar pika 2, shfuqizuar pika 3, ndryshuar shkronjat “a” dhe “b” të pikës 4  me ligjin nr. 50/2021, datë 23.3.2021)
+(Ndryshuar pika 2, shfuqizuar pika 3, ndryshuar shkronjat “a” dhe “b” të pikës 4  me ligjin nr. 50/2021, datë 23.3.2021; shtuar fjali në shkronjën “c” të pikës 1 me ligjin nr. 9/2026, datë 28.1.2026)
 
 1. I diplomuari emërohet magjistrat nëse plotëson njëkohësisht këto kritere:
 
@@ -858,7 +888,7 @@ a) është diplomuar në Shkollën e Magjistraturës, në formimin fillestar, me
 
 b) është vlerësuar minimalisht “mirë” për të gjitha detyrat e dhëna gjatë stazhit profesional në vitin e tretë të formimit fillestar; 
 
-c) ka kaluar sërish verifikimin e pasurisë dhe figurës, të kryer nga Këshillat në përputhje me parashikimet në pikat 2 deri në 6, të nenit 32, të këtij ligji.
+c) ka kaluar sërish verifikimin e pasurisë dhe figurës, të kryer nga Këshillat në përputhje me parashikimet në pikat 2 deri në 6, të nenit 32, të këtij ligji. Verifikimi kryhet për periudhën kohore që fillon nga data e përfundimit të procesit të verifikimit të pasurisë dhe figurës sipas nenit 32 të këtij ligji.
 
 2. I diplomuari që përmbush kriteret e përcaktuara në pikën 1 të këtij neni, për shkaqe të justifikuara, jo më vonë se dy javë nga data e publikimit të listës së të diplomuarve, mund të kërkojë që të emërohet si magjistrat në vitin pasardhës.
 
@@ -876,7 +906,7 @@ Neni 36
 
 Riemërimi magjistrat i ish-gjyqtarëve dhe ish-prokurorëve
 
- (ndryshuar me ligjin nr. 50/2021, datë 23.3.2021)
+ (Ndryshuar me ligjin nr. 50/2021, datë 23.3.2021)
 
 1. Ish-gjyqtarët dhe ish-prokurorët mund të kandidojnë për t’u riemëruar si magjistratë jo më vonë se dy javë pas shpalljes së vendeve të lira, sipas pikës 1 të nenit 39 të këtij ligji.
 
@@ -900,7 +930,7 @@ Neni 37
 
 Betimi
 
-(shtuar  fjalë në pikën 2 dhe shtuar pika 3 me ligjin nr. 15/2020, datë 12.2.2020)
+(Shtuar  fjalë në pikën 2 dhe shtuar pika 3 me ligjin nr. 15/2020, datë 12.2.2020)
 
 1. Magjistrati, para fillimit të ushtrimit të funksionit, bën betimin si më poshtë: 
 
@@ -914,7 +944,7 @@ Neni 38
 
 Dosjet personale dhe regjistri i magjistratëve
 
-(shtuar  shkronja “ç/1” në pikën 2 me ligjin nr. 15/2020, datë 12.2.2020)
+(Shtuar  shkronja “ç/1” në pikën 2 me ligjin nr. 15/2020, datë 12.2.2020)
 
 1. Këshillat krijojnë dhe administrojnë dosjet personale dhe regjistrin e magjistratëve. Regjistri i magjistratëve është një bazë unike e të dhënave profesionale dhe personale të magjistratit.
 
@@ -960,7 +990,7 @@ Neni 39
 
 Caktimi në pozicion i magjistratit të emëruar
 
-(shtuar fjali në pikën 1, ndryshuar shkronja “b” e pikës 3, ndryshuar pika 4, shtuar pika 4/1  me ligjin nr. 50/2021, datë 23.3.2021)
+(Shtuar fjali në pikën 1, ndryshuar shkronja “b” e pikës 3, ndryshuar pika 4, shtuar pika 4/1 me ligjin nr. 50/2021, datë 23.3.2021)
 
 1. Brenda muajit qershor të çdo viti, pas përfundimit të procedurave të transferimit paralel dhe ngritjes në detyrë, secili Këshill shpall vendet e lira për të emëruarit. Jo më vonë se dy javë nga shpallja e vendeve të lira, të emëruarit i bëjnë me dije Këshillit, sipas renditjes preferenciale, tri gjykata ose prokurori në të cilat kërkojnë të caktohen.
 
@@ -1004,7 +1034,7 @@ Neni 41
 
 Të drejtat dhe detyrimet e të emëruarit
 
-(shtuar fjalë në fund të fjalisë së parë të pikës 2 me ligjin nr. 48/2019, datë 18.7.2019)
+(Shtuar fjalë në fund të fjalisë së parë të pikës 2 me ligjin nr. 48/2019, datë 18.7.2019)
 
 1. I emëruari duhet të pranojë pozicionin e ofruar në përputhje me nenet 39 dhe 40, të këtij ligji, duke përfshirë:
 
@@ -1031,6 +1061,8 @@ TRANSFERIMI
 Neni 42
 
 Parimet e transferimit
+
+(Shtuar pika 10 me ligjin nr. 9/2026, datë 28.1.2026)
 
 1. “Transferimi” është:
 
@@ -1072,11 +1104,13 @@ c) nga magjistrati që transferohet për shkak të lëvizjes paralele;
 
 9. Në rast të hapjes së pozicioneve të lira në gjykatën e apelit administrativ, procedura e lëvizjeve paralele do të jetë e hapur vetëm për gjyqtarë që kanë punuar për të paktën për pesë vjet në 9 vitet e fundit si gjyqtar në çështjet administrative. 
 
+10. Këshilli, për efekt të transparencës, publikon vendimin e transferimit në faqen zyrtare të internetit. Përjashtimisht, nuk publikohen të dhënat sensitive sipas përkufizimit të dhënë në legjislacionin në fuqi për mbrojtjen e të dhënave personale.
+
 Neni 43
 
 Procedura e lëvizjes paralele
 
-(ndryshuar fjalë në shkronjën “ii” të  pikës 7 me ligjin nr. 48/2019, datë 18.7.2019; shfuqizuar shkronja “b” e pikës 2, ndryshuar pika 5, ndryshuar  nënparagrafi “i” i shkronjës “a” të pikës 7, hequr fjalë në shkronjën  “a” të pikës 8, ndryshuar shkronjat “a” dhe “c” të pikës 12 me ligjin nr. 50/2021, datë 23.3.2021)
+(Ndryshuar fjalë në shkronjën “ii” të  pikës 7 me ligjin nr. 48/2019, datë 18.7.2019; shfuqizuar shkronja “b” e pikës 2, ndryshuar pika 5, ndryshuar  nënparagrafi “i” i shkronjës “a” të pikës 7, hequr fjalë në shkronjën  “a” të pikës 8, ndryshuar shkronjat “a” dhe “c” të pikës 12 me ligjin nr. 50/2021, datë 23.3.2021; shtuar pika 11/1 me ligjin nr. 9/2026, datë 28.1.2026)
 
 1. Në zbatim të nenit 42, pikat 3 dhe 4, të këtij ligji, Këshillat organizojnë, të paktën çdo 3 muaj, procedurën e lëvizjes paralele për çdo pozicion që:
 
@@ -1130,7 +1164,9 @@ b) në renditjen në listën e të diplomuarve në Shkollën e Magjistraturës o
 
 10. Këshillat shpallin pozicione të lira për magjistratët, sipas renditjes së parashikuar në pikat 7, 8 dhe 9, të këtij neni, dhe në përputhje me rregullat e miratuara sipas pikës 12 të këtij neni.
 
-11. Rregullat e nenit 41, pikat 2 deri në 4, aplikohen për aq sa gjejnë zbatim edhe në këtë nen. 
+11. Rregullat e nenit 41, pikat 2 deri në 4, aplikohen për aq sa gjejnë zbatim edhe në këtë nen.
+
+11/1. Këshilli, për efekt të transparencës, publikon vendimin e lëvizjes paralele në faqen zyrtare të internetit. Përjashtimisht, nuk publikohen të dhënat sensitive sipas përkufizimit të dhënë në legjislacionin në fuqi për mbrojtjen e të dhënave personale.
 
 12. Këshillat miratojnë rregulla më të detajuara, të cilat përcaktojnë:
 
@@ -1146,7 +1182,7 @@ Neni 44
 
 Transferimi pa pëlqim
 
-(Shfuqizuar shkronja “c” e pikës 1 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017, shtuar fjalë në fund të fjalisë së parë të pikës 4 me ligjin nr. 48/2019, datë 18.7.2019)
+(Shfuqizuar shkronja “c” e pikës 1 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; shtuar fjalë në fund të fjalisë së parë të pikës 4 me ligjin nr. 48/2019, datë 18.7.2019)
 
 1. Magjistratët transferohen pa pëlqim vetëm në këto raste:
 
@@ -1172,7 +1208,7 @@ Neni 45
 
 Magjistratët në skemën e delegimit
 
-(ndryshuar fjalë në pikën 1, shtuar shkronja “c” në pikën 4, shtuar fjalë në pikën 6 me ligjin nr. 50/2021, datë 23.3.2021)
+(Ndryshuar fjalë në pikën 1, shtuar shkronja “c” në pikën 4, shtuar fjalë në pikën 6 me ligjin nr. 50/2021, datë 23.3.2021)
 
 1. Magjistratët në të gjitha shkallët, me të paktën një vit përvojë në funksion, mund të kandidojnë për t’u caktuar në një pozicion, në skemën e delegimit, e cila krijohet në Këshill. 
 
@@ -1228,7 +1264,7 @@ Neni 47
 
 Kriteret minimale të përvojës profesionale për ngritjen në detyrë
 
-(shtuar fjalë në shkronjën “b” të pikës 2 me ligjin nr. 50/2021, datë 23.3.2021)
+(Shtuar fjalë në shkronjën “b” të pikës 2 me ligjin nr. 50/2021, datë 23.3.2021; shtuar pika 7 me ligjin nr. 9/2026, datë 28.1.2026)
 
 1.  “Ngritja në detyrë” është kalimi nga:
 
@@ -1268,11 +1304,13 @@ iii) njohuri për strukturat organizative dhe modele të ndryshme të drejtimit,
 
 c) nuk ka qenë anëtar i Këshillit në tre vitet e fundit. 
 
+7. Këshilli, për efekt të transparencës, publikon vendimin e ngritjes në detyrë në faqen zyrtare të internetit. Përjashtimisht, nuk publikohen të dhënat sensitive sipas përkufizimit të dhënë në legjislacionin në fuqi për mbrojtjen e të dhënave personale.
+
 Neni 48
 
 Ngritja në detyrë në shkallët më të larta ose të specializuara
 
-(shtuar fjalë në pikën 1 dhe në nënndarjen “ii” të shkronjës “a’ të pikës 9 me ligjin nr. 48/2019, datë 18.7.2019; ndryshuar pika 6, ndryshuar shkronjat “a” dhe “c” të pikës 14 me ligjin nr. 50/2021, datë 23.3.2021)
+(Shtuar fjalë në pikën 1 dhe në nënndarjen “ii” të shkronjës “a’ të pikës 9 me ligjin nr. 48/2019, datë 18.7.2019; ndryshuar pika 6, ndryshuar shkronjat “a” dhe “c” të pikës 14 me ligjin nr. 50/2021, datë 23.3.2021)
 
 1. Pozicionet në Gjykatën e Lartë, Prokurorinë e Përgjithshme, Prokurorinë e Posaçme dhe gjykatat e posaçme për gjykimin e veprave penale të korrupsionit dhe krimit të organizuar plotësohen nëpërmjet procedurës së ngritjes në detyrë. Pozicionet në gjykatat e tjera të apelit plotësohen nëpërmjet procedurave të lëvizjes paralele, në përputhje me nenet 42 dhe 43 të këtij ligji. 
 
@@ -1298,7 +1336,7 @@ c) procedurën e kandidimit dhe vendin e dorëzimit të dokumentacionit.
 
 6. Pas shpalljes së procedurës së ngritjes në detyrë, magjistrati mund të kandidojë për jo më shumë se tri pozicione të lira, që janë në proces. Nëse magjistrati kandidon për më shumë se tri pozicione të lira në proces, kandidime të vlefshme konsiderohen ato të bëra më parë në kohë, ose në rastin e shumë kandidimeve në të njëjtën kohë, ato sipas radhës kronologjike të pozicioneve të shpallura, duke filluar nga ai i shpallur më parë. Magjistrati që kandidon për më shumë se një pozicion, bën renditjen e tyre sipas preferencës.
 
-7. Këshilli verifikon kandidatët, sipas parashi-kimeve të pikave 2 deri në 7, të nenit 32, të këtij ligji.
+7. Këshilli verifikon kandidatët, sipas parashikimeve të pikave 2 deri në 7, të nenit 32, të këtij ligji.
 
 8. Vetëm kandidatët të cilët kalojnë verifikimin e pasurisë dhe figurës dhe që nuk kanë masa disiplinore në fuqi, pranohen në procedurat e mëtejshme të ngritjes në detyrë. 
 
@@ -1426,13 +1464,15 @@ Neni 52
 
 Emërimi i kryetarëve të tjerë
 
+(Shtuar fjali në pikën 4 me ligjin nr. 9/2026, datë 28.1.2026)
+
 1. Mandati i Kryetarit të gjykatave dhe prokurorive të tjera, me përjashtim të Prokurorit të Përgjithshëm, është tre vjet, me të drejtë rizgjedhjeje vetëm një herë. Mandati i kryetarit të Prokurorisë së Posaçme është tre vjet, pa të drejtë rizgjedhjeje. 
 
 2. Jo më vonë se 6 muaj përpara mbarimit të mandatit të parë, kryetari i gjykatës ose prokurorisë me të drejtën e rizgjedhjes, mund të kandidojë për një mandat të dytë. Kur kryetari nuk kandidon për një mandat të dytë brenda afatit të përcaktuar, konsiderohet që ka dhënë dorëheqjen si kryetar në fund të mandatit.
 
 3. Kur kryetari në detyrë kandidon për riemërim, i nënshtrohet verifikimit të pasurisë dhe figurës nga Këshilli përkatës, jo më vonë se tre muaj para mbarimit të mandatit të parë, sipas rregullave të parashikuara në pikat nga 2 deri në 7, të nenit 32, të këtij ligji.  
 
-4. Kryetari riemërohet për një mandat tjetër vetëm nëse kalon me sukses verifikimin, sipas parashikimeve të pikave 2 deri në 7, të nenit 32, të këtij ligji, dhe nëse vlerësimi për veprimtarinë si kryetar dhe magjistrat, është të paktën  “shumë mirë”.
+4. Kryetari riemërohet për një mandat tjetër vetëm nëse kalon me sukses verifikimin, sipas parashikimeve të pikave 2 deri në 7, të nenit 32, të këtij ligji, dhe nëse vlerësimi për veprimtarinë si kryetar dhe magjistrat, është të paktën “shumë mirë”. Në rastin e përzgjedhjes së Drejtuesit të Prokurorisë, Prokurori i Përgjithshëm ka të drejtë të japë opinion të arsyetuar bazuar mbi fakte për kandidatin, i cili merret në konsideratë në rastin e riemërimit.
 
 5. Këshilli merr vendim jo më vonë se tre muaj nga mbarimi i mandatit të kryetarit. 
 
@@ -1476,7 +1516,7 @@ Neni 53
 
 Parimet e komandimit të magjistratëve
 
-(shtuar fjalë në pikën 1dhe 2, shtuar pika 8/1  me ligjin nr. 50/2021, datë 23.3.2021
+(Shtuar fjalë në pikën 1dhe 2, shtuar pika 8/1  me ligjin nr. 50/2021, datë 23.3.2021; shtuar fjali në pikën 7 dhe 8 me ligjin nr. 9/2026, datë 28.1.2026)
 
 1. “Komandim” është lëvizja e magjistratit në një pozicion jomagjistrati në një institucion brenda sistemit të drejtësisë ose organizatë ndërkombëtare, pozicion i cili është i pajtueshëm me pavarësinë dhe mbajtjen e statusit të tij. 
 
@@ -1494,9 +1534,9 @@ b) është i komanduar.
 
 6. Periudha e komandimit të magjistratit nuk mund të jetë më shumë se pesë vjet, me përjashtim kur parashikohet ndryshe në ligj. 
 
-7. Magjistrati duhet të shërbejë jo më pak se pesë vjet si magjistrat pas përfundimit të periudhës së komandimit. 
+7. Magjistrati duhet të shërbejë jo më pak se pesë vjet si magjistrat pas përfundimit të periudhës së komandimit. Ky rregull nuk zbatohet për magjistratët e komanduar në Zyrën e Inspektorit të Lartë të Drejtësisë.
 
-8. Magjistrati nuk mund të komandohet për më shumë se dhjetë vjet gjatë gjithë periudhës së ushtrimit të detyrës së tij.
+8. Magjistrati nuk mund të komandohet për më shumë se dhjetë vjet gjatë gjithë periudhës së ushtrimit të detyrës së tij. Periudha e komandimit në Zyrën e Inspektorit të Lartë të Drejtësisë nuk mund të jetë më shumë se 10 vjet.
 
 8/1. Magjistrati që komandohet në një organizatë ndërkombëtare, me qëllim përfaqësimin e Republikës së Shqipërisë në atë organizatë, gëzon të njëjtin status me diplomatët, sipas parashikimeve të ligjit në fuqi për shërbimin e jashtëm të Republikës së Shqipërisë.
 
@@ -1514,7 +1554,9 @@ Neni 54
 
 Procedurat e komandimit
 
-1. Çdo institucion, i parashikuar në nenin 53, pika 2, të këtij ligji, ku komandohet magjistrati mund të kërkojnë nga çdo Këshill komandimin e magjistratëve për një periudhë të përcaktuar, në çdo rast jo më shumë se pesë vjet. 
+(Shtuar fjali në pikën 1me ligjin nr. 9/2026, datë 28.1.2026)
+
+1. Çdo institucion, i parashikuar në nenin 53, pika 2, të këtij ligji, ku komandohet magjistrati mund të kërkojnë nga çdo Këshill komandimin e magjistratëve për një periudhë të përcaktuar, në çdo rast jo më shumë se pesë vjet. Në rast të komandimit në zyrën e Inspektorit të Lartë të Drejtësisë, kufizimet kohore rregullohen sipas pikave 7 dhe 8 të nenit 53 të këtij ligji.
 
 2. Këshilli, pasi ka bërë vlerësimin e nevojave të tij, brenda dy javëve nga paraqitja e kërkesës për kandidatura nga institucionet, sipas përcaktimeve të nenit 53, pika 2, për plotësimin e pozicioneve të komanduara, shpall kërkesën për kandidatura për plotësimin e këtyre pozicioneve. 
 
@@ -1538,17 +1580,19 @@ Neni 55
 
 Komandimi i magjistratëve në Zyrën e Inspektorit të Lartë të Drejtësisë
 
-1. Magjistratët që plotësojnë kriteret për t’u emëruar si magjistratë në Gjykatën e Lartë ose në Prokurorinë e Përgjithshme mund të komandohen në Zyrën e Inspektorit të Lartë të Drejtësisë.
+(Ndryshuar pikat 1 dhe 4, shfuqizuar pika 3, shtuar fjali në pikën 6 me ligjin nr. 9/2026, datë 28.1.2026)
+
+1. Magjistratët që në kohën e komandimit e kanë ushtruar funksionin për jo më pak se 10 vjet, prej të cilave jo më pak se shtatë vjet si gjyqtar ose prokuror, duke përfshirë edhe përvojën si magjistrat i komanduar, sipas këtij ligji mund të komandohen në Zyrën e Inspektorit të Lartë të Drejtësisë.
 
 2. Për procedurat e komandimit në plotësimin e pozicionit të inspektorit, Këshilli, përpara përgatitjes së opinionit, sipas parashikimeve të pikës 4, të nenit 54, verifikon kandidatët sipas parashikimeve të pikave 2 deri në 7, të nenit 32, të këtij ligji. 
 
-3. Magjistrati, i cili komandohet si inspektor, konsiderohet magjistrat i ngritur në detyrë në Gjykatën e Lartë.
+3. Shfuqizuar.
 
-4. Magjistrati mund të komandohet si inspektor në Zyrën e Inspektorit të Lartë të Drejtësisë për një periudhë pesëvjeçare. Pas mbarimit të periudhës pesëvjeçare, Inspektori ka të drejtën e rikomandimit, në rast se është vlerësuar të paktën “shumë mirë” në vlerësimin etik dhe profesional si inspektor.
+4. Magjistrati mund të komandohet në Zyrën e Inspektorit të Lartë të Drejtësisë për një afat 5-vjeçar. Në përfundim të afatit 5-vjeçar magjistrati ka të drejtë të kërkojë zgjatjen e afatit për një periudhë tjetër 5-vjeçare në rast se është vlerësuar të paktën “shumë mirë” në vlerësimin etik dhe profesional si inspektor.
 
 5. Inspektori i Lartë i Drejtësisë, tre muaj përpara mbarimit të afatit të mandatit të parë të komandimit të një inspektori, mund t’i paraqesë Këshillit kërkesë me shkrim, përfshirë dokumentet e nevojshme, për konfirmimin e inspektorit si i komanduar në Zyrën e Inspektorit të Lartë të Drejtësisë. Këshilli konfirmon inspektorin nëse ai është vlerësuar të paktën “shumë mirë” në vlerësimin etik dhe profesional, si dhe nëse ka dhënë pëlqimin për konfirmimin. Kur kërkesa nuk është paraqitur në kohë, afati i pozicionit të komanduar si inspektor konsiderohet i mbaruar. 
 
-6. Inspektori ka të drejtën të caktohet në një pozicion në nivel apeli në fund të përfundimit të mandatit të komandimit në rast se është vlerësuar me vlerësimin “shumë mirë” në të gjitha vlerësimet etike dhe profesionale si inspektor.
+6. Inspektori ka të drejtën të caktohet në një pozicion në nivel apeli në fund të përfundimit të mandatit të komandimit në rast se është vlerësuar me vlerësimin “shumë mirë” në të gjitha vlerësimet etike dhe profesionale si inspektor. Përvoja si magjistrat i komanduar pranë Inspektoratit të Lartë të Drejtësisë, që i ka përfunduar afati i komandimit, sipas ligjit konsiderohet vlerë e shtuar dhe do të ketë përparësi në vlerësimin dhe renditjen në lëvizjet paralele apo ngritjen në detyrë sipas rregullave të parashikuara në këtë ligj.
 
 Neni 56
 
@@ -1648,7 +1692,7 @@ Neni 61
 
 Kufizimi i mandatit me ligj
 
-(ndryshuar pika 2 dhe shtuar pikat 2/1, 2/2 dhe 2/3 me ligjin nr. 15/2020, datë 12.2.2020)
+(Ndryshuar pika 2 dhe shtuar pikat 2/1, 2/2 dhe 2/3 me ligjin nr. 15/2020, datë 12.2.2020)
 
 1. Mandati i gjyqtarëve të Gjykatës së Lartë është nëntë vjet pa të drejtë rizgjedhjeje. Mandati i Prokurorit të Përgjithshëm është shtatë vjet pa të drejtë rizgjedhjeje. Mandati i prokurorëve në Prokurorinë e Posaçme është nëntë vjet pa të drejtë rizgjedhjeje.
 
@@ -1702,7 +1746,7 @@ Neni 64
 
 Kohëzgjatja në detyrë e magjistratit
 
-(shfuqizuar pika 5 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017, ndryshuar shkronja “c” e pikës 1, pika 4 dhe 5 me ligjin nr. 48/2019, datë 18.7.2019; ndryshuar shkronja “c” në pikën 1, ndryshuar pika 5 dhe 6 me ligjin nr. 50/2021, datë 23.3.2021)
+(Shfuqizuar pika 5 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; ndryshuar shkronja “c” e pikës 1, pika 4 dhe 5 me ligjin nr. 48/2019, datë 18.7.2019; ndryshuar shkronja “c” në pikën 1, ndryshuar pika 5 dhe 6 me ligjin nr. 50/2021, datë 23.3.2021)
 
 1. Statusi i magjistratit mbaron në rastet kur: 
 
@@ -1820,7 +1864,7 @@ Neni 70
 
 Subjektet e vlerësimit
 
-(ndryshuar fjalia e dytë e pikës 3 me ligjin nr. 48/2019, datë 18.7.2019)
+(Ndryshuar fjalia e dytë e pikës 3 me ligjin nr. 48/2019, datë 18.7.2019)
 
 1. Të gjithë magjistratët, përfshirë kryetarët e gjykatave dhe prokurorive, janë subjekt i vlerësimit të tyre etik dhe profesional, në përputhje me rregullat e parashikuara në këtë ligj. 
 
@@ -1948,7 +1992,7 @@ Neni 78
 
 Nivelet e vlerësimit
 
-(Shfuqizuar shprehje në pikën 3 dhe fjalia e fundit e pikës 5  me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017, ndryshuar pika 3 me ligjin nr. 48/2019, datë 18.7.2019)
+(Shfuqizuar shprehje në pikën 3 dhe fjalia e fundit e pikës 5 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; ndryshuar pika 3 me ligjin nr. 48/2019, datë 18.7.2019)
 
 1. Vlerësimi i magjistratit kryhet sipas këtyre niveleve: 
 
@@ -2120,7 +2164,7 @@ Neni 85
 
 Programi dhe njoftimi i vlerësimit
 
-(ndryshuar fjalë në fjalinë e dytë të pikës 1 me ligjin nr. 48/2019, datë 18.7.2019)
+(Ndryshuar fjalë në fjalinë e dytë të pikës 1 me ligjin nr. 48/2019, datë 18.7.2019)
 
 1. Këshilli, jo më vonë se muaji nëntor i çdo viti, miraton programin që përcakton listën e magjistratëve dhe kryetarëve, për të cilët do të kryhet vlerësimi përgjatë vitit pasardhës dhe periudhën e vlerësimit. Në program përfshihen të paktën ata magjistratë, për të cilët përfundon ose ka përfunduar periudha e vlerësimit në vitin përkatës, me qëllim që të sigurohet në kohë vlerësimi etik dhe profesional i magjistratit. Vendimi publikohet në faqen zyrtare të Këshillit.
 
@@ -2234,7 +2278,9 @@ Neni 91
 
 Përzgjedhja e çështjeve për vlerësim
 
-(shtuar fjalë pikën 4 me ligjin nr. 48/2019, datë 18.7.2019, ndryshuar pika 2 me ligjin nr.  149/2020,  datë 17.12.2020)
+(s
+
+(Shtuar fjalë pikën 4 me ligjin nr. 48/2019, datë 18.7.2019; ndryshuar pika 2 me ligjin nr.  149/2020,  datë 17.12.2020)
 
 1. Për vlerësimin etik dhe profesional të veprimtarisë së magjistratit përzgjidhen me short jo më shumë se 21 çështje të përfunduara nga magjistrati në periudhën për të cilën bëhet vlerësimi. Për vlerësimin e përgjithshëm përzgjidhen 15 dosje, nga të cilat pesë dosje për çdo vit kalendarik të periudhës për të cilën bëhet vlerësimi, në rast të vlerësimit për një periudhë trevjeçare, dhe tri dosje për çdo vit kalendarik, në rast të vlerësimit për një periudhë pesëvjeçare. Pjesa tjetër e dosjeve përzgjidhet sipas kriterit të vonesës në afate, nga të cilat 5 për qind, por jo më shumë se gjashtë çështje nga numri i përgjithshëm, është vendosur përtej afateve standarde. Në rast se magjistrati mungon në detyrë për një periudhë më shumë se gjashtë muaj, numri i dosjeve të përzgjedhura do të ulet në mënyrë proporcionale me kohën.
 
@@ -2310,7 +2356,7 @@ Neni 95
 
 Vendimi për vlerësimin
 
-(Shfuqizuar shprehje në pikën 7 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017, hequr fjalë në pikën 5 dhe ndryshuar pika 7 me ligjin nr. 48/2019, datë 18.7.2019)
+(Shfuqizuar shprehje në pikën 7 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; hequr fjalë në pikën 5 dhe ndryshuar pika 7 me ligjin nr. 48/2019, datë 18.7.2019; ndryshuar pika 9 me ligjin nr. 9/2026, datë 28.1.2026)
 
 1. Këshilli fton magjistratin që vlerësohet, si dhe persona të tjerë në seancë dëgjimore, nëse kjo kërkohet nga magjistrati ose nëse kjo është e nevojshme për të sqaruar faktet. 
 
@@ -2328,7 +2374,7 @@ Vendimi për vlerësimin
 
 8. Projektraporti i vlerësimit, çdo vendim i Këshillit dhe, sipas rastit, vendimet e mundshme gjyqësore duhet të përfshihen si pjesë e dosjeve individuale të magjistratit.
 
-9. Këshilli publikon ekstrakte të raportit të vlerësimit dhe vendimit, të cilat pasqyrojnë të dhënat statistikore, analizën e të dhënave, nivelin e vlerësimit dhe arsyetimin për caktimin e këtij niveli. Ekstrakti publikohet duke respektuar të drejtën e konfidencialitetit dhe mbrojtjen e të dhënave. Në çdo rast, nga ekstrakti duhet të hiqet çdo informacion që mund të zbulojë identitetin e magjistratit.
+9. Këshilli, për efekt të transparencës, publikon raportin e vlerësimit dhe vendimin përkatës në faqen zyrtare të internetit. Përjashtimisht, nuk publikohen të dhënat sensitive sipas përkufizimit të dhënë në legjislacionin në fuqi për mbrojtjen e të dhënave personale. Të dhënat personale të personave të tretë që nuk janë subjekte të këtij ligji mbrohen sipas legjislacionit në fuqi për të dhënat personale.
 
 Neni 96
 
@@ -2344,7 +2390,7 @@ Neni 97
 
 Vlerësimi me kërkesë
 
-(ndryshuar pika 6 me ligjin nr. 48/2019, datë 18.7.2019)
+(Ndryshuar pika 6 me ligjin nr. 48/2019, datë 18.7.2019)
 
 1. Magjistrati vlerësohet me procedurë të përshpejtuar, sipas kërkesës së tij, në rastet kur kërkohet të transferohet ose ngrihet në detyrë dhe kur vlerësimi i fundit është realizuar para më shumë se dy viteve. Vlerësimi me procedurë të përshpejtuar kryhet sipas parashikimeve të këtij ligji për aq sa është e mundur.  
 
@@ -2430,7 +2476,7 @@ Neni 101
 
 Shkeljet disiplinore
 
- (Shfuqizuar me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017 dhe ndryshuar me ligjin nr. 48/2019, datë 18.7.2019)
+ (Shfuqizuar me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; ndryshuar me ligjin nr. 48/2019, datë 18.7.2019)
 
 	1. Magjistrati kryen shkelje disiplinore, me dashje ose për shkak të pakujdesisë, kur:
 
@@ -2454,7 +2500,7 @@ Neni 102
 
 Shkeljet disiplinore në lidhje me ushtrimin e funksionit
 
-(Shfuqizuar me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017, ndryshuar me ligjin nr. 48/2019, datë 18.7.2019)
+(Shfuqizuar me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; ndryshuar me ligjin nr. 48/2019, datë 18.7.2019)
 
 	1. Shkelje disiplinore gjatë ushtrimit të funksionit janë, në veçanti, por pa u kufizuar në to, veprimet, mosveprimet ose sjelljet e magjistratit, si më poshtë:
 
@@ -2526,7 +2572,7 @@ Shkeljet disiplinore në lidhje me ushtrimin e funksionit
 
 Shkeljet disiplinore jashtë ushtrimit të funksionit
 
-(Shfuqizuar me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017, ndryshuar me ligjin nr. 48/2019, datë 18.7.2019)
+(Shfuqizuar me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; ndryshuar me ligjin nr. 48/2019, datë 18.7.2019)
 
 	Shkeljet disiplinore jashtë ushtrimit të funksionit janë, në veçanti, por pa u kufizuar në to, veprimet, mosveprimet ose sjelljet e magjistratit, si më poshtë:
 
@@ -2898,7 +2944,7 @@ Neni 124/1
 
 Verifikimi i pasurisë dhe figurës
 
-(shtuar me ligjin nr. 15/2020, datë 12.2.2020)
+(Shtuar me ligjin nr. 15/2020, datë 12.2.2020)
 
 	1. Inspektori i Lartë i Drejtësisë, brenda një jave nga vendimi për fillimin e hetimeve, sipas nenit 123 dhe 124, të këtij ligji, kërkon informacion nga Inspektorati i Lartë i Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave, prokuroria, Policia e Shtetit, organet e administratës tatimore dhe doganore, Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave, Byroja Kombëtare e Hetimit, shërbimet shtetërore informative, çdo organ disiplinor që ka mbikëqyrur disiplinën në marrëdhëniet e punës të magjistratit, si dhe çdo institucion tjetër kompetent për verifikimin e pasurisë dhe të figurës në lidhje me çdo shkelje tjetër disiplinore. 
 
@@ -2920,7 +2966,7 @@ Neni 126
 
 Pezullimi i hetimeve
 
-(ndryshuar fjalë në pikën 5 me ligjin nr. 48/2019, datë 18.7.2019)
+(Ndryshuar fjalë në pikën 5 me ligjin nr. 48/2019, datë 18.7.2019)
 
 1. Inspektori i Lartë i Drejtësisë vendos pezullimin e hetimit disiplinor kur është duke u zhvilluar hetim penal ose një proces gjyqësor penal, administrativ ose civil:
 
@@ -2964,7 +3010,7 @@ Neni 130
 
 Ecuria e hetimeve
 
-(ndryshuar fjalë në pikën 2 me ligjin nr. 15/2020, datë 12.2.2020)
+(Ndryshuar fjalë në pikën 2 me ligjin nr. 15/2020, datë 12.2.2020)
 
 1. Objekti i hetimit tregon qartë elementet e shkeljes së pretenduar, sipas përcaktimeve në vendimin për fillimin e hetimit, sipas parashikimeve të nenit 123 të këtij ligji. 
 
@@ -3108,7 +3154,7 @@ c) provat e mbledhura janë në kundërshtim haptazi me deklarimin e magjistrati
 
 d) magjistrati është detyruar të pranojë marrë-veshjen; 
 
-dh) magjistrati tërheq pëlqimin për marrë-veshjen.
+dh) magjistrati tërheq pëlqimin për marrëveshjen.
 
 7. Nëse Këshilli e pranon marrëveshjen, ajo do të konsiderohet si një vendim i formës së prerë i procedimit disiplinor, e cila nuk ankimohet. 
 
@@ -3172,7 +3218,7 @@ Neni 138
 
 Fillimi i procedurës disiplinore
 
-(ndryshuar pika 1 me ligjin nr. 15/2020, datë 12.2.2020)
+(Ndryshuar pika 1 me ligjin nr. 15/2020, datë 12.2.2020)
 
 1. Përveç parashikimeve të nenit 152, të këtij ligji, nëse ka dyshime të arsyeshme që magjistrati ka kryer shkelje disiplinore, Inspektori i Lartë i Drejtësisë fillon procedimin disiplinor, duke paraqitur raportin e hetimit së bashku me dosjen hetimore.
 
@@ -3224,7 +3270,7 @@ Neni 141
 
 Të drejtat dhe detyrimet e palëve gjatë procedimit disiplinor
 
-(Shfuqizuar fjalë në pikën 1 dhe shkronjat “a”, “b” dhe “c” të kësaj pike, me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017 dhe ndryshuar pika 1 e shtuar pika 1/1me ligjin nr. 48/2019, datë 18.7.2019)
+(Shfuqizuar fjalë në pikën 1 dhe shkronjat “a”, “b” dhe “c” të kësaj pike me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017; ndryshuar pika 1 e shtuar pika 1/1me ligjin nr. 48/2019, datë 18.7.2019)
 
 1. Gjatë procedurës disiplinore, magjistrati ose përfaqësuesi i tij ka të drejtë të njihet me dokumentet e dosjes dhe të marrë kopje të tyre. Brenda pesë ditëve nga paraqitja e kërkesës, Këshilli i siguron magjistratit kushtet për njohjen me dosjen dhe i vë në dispozicion kopje të dokumenteve.
 
@@ -3360,9 +3406,11 @@ Neni 149
 
 Publikimi i vendimeve disiplinore
 
+(Ndryshuar pika 2 me ligjin nr. 9/2026, datë 28.1.2026)
+
 1. Këshilli publikon brenda 2 javëve çdo vendim të formës së prerë për shkarkimin e magjistratëve në faqen zyrtare.
 
-2. Këshilli publikon ekstrakte të çdo vendimi përfundimtar për çështje disiplinore, duke përcaktuar rrethanat e fakteve, provat e administruara, vlerën provuese të tyre, si dhe llojin e shkeljes disiplinore të kryer sipas këtyre fakteve. Botimi i ekstrakteve duhet të mbrojë të dhënat personale dhe të garantojë mbrojtjen e konfidencialitetit. Në çdo rast në ekstrakt nuk botohet asnjë informacion që mund të tregojë identitetin e magjistratit.
+2. Këshilli, për efekt të transparencës, publikon çdo vendim përfundimtar për çështje disiplinore në faqen zyrtare të internetit. Përjashtimisht, nuk publikohen të dhënat sensitive sipas përkufizimit të dhënë në legjislacionin në fuqi për mbrojtjen e të dhënave personale. Të dhënat personale të personave të tretë që nuk janë subjekte të këtij ligji mbrohen sipas legjislacionit në fuqi për të dhënat personale.
 
 Neni 150
 
@@ -3422,7 +3470,7 @@ Neni 153
 
 Fillimi i procedimit të pezullimit
 
-(shfuqizuar shkronjat “c” dhe “ç” me ligjin nr. 48/2019, datë 18.7.2019)
+(Shfuqizuar shkronjat “c” dhe “ç” me ligjin nr. 48/2019, datë 18.7.2019)
 
 Pezullimi nga detyra i magjistratit, në kuptimin e nenit 152, mund të vendoset nga një Këshill: 
 
@@ -3464,7 +3512,7 @@ Neni 156
 
 Kufijtë e kohëzgjatjes së pezullimit
 
-(ndryshuar me ligjin nr. 48/2019, datë 18.7.2019)
+(Ndryshuar me ligjin nr. 48/2019, datë 18.7.2019)
 
 	1. Pezullimi i magjistratit, i parashikuar në nenet 151 dhe 152, të këtij ligji, vendoset për një periudhë të caktuar kohe dhe nuk mund të vazhdojë nëse arsyet e pezullimit, të parashikuara në këto nene, pushojnë së ekzistuari.
 
@@ -3710,7 +3758,7 @@ Neni 169
 
 Dispozita kalimtare për të drejtat dhe detyrimet e magjistratëve
 
-(Shfuqizuar fjalia e fundit e pikës 5 dhe pika 6   me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017)
+(Shfuqizuar fjalia e fundit e pikës 5 dhe pika 6 me vendimin e Gjykatës Kushtetuese nr. 34, datë 10.4.2017)
 
 1. Pjesa mbi të drejtat dhe detyrimet e magjistratit zbatohet menjëherë me hyrjen në fuqi të këtij ligji, përveç rasteve kur parashikohet ndryshe në këtë nen.
 
@@ -3736,7 +3784,7 @@ Neni 170/1
 
 Caktimi i magjistratëve për çështje të veçanta
 
-(shtuar me ligjin nr. 50/2021, datë 23.3.2021)
+(Shtuar me ligjin nr. 50/2021, datë 23.3.2021)
 
 1. Në rastin kur në skemën e delegimit nuk ka magjistrat të disponueshëm dhe transferimi i përkohshëm i magjistratëve është i padobishëm për mbarëvajtjen e sistemit gjyqësor, Këshillat mund të caktojnë një magjistrat për gjykimin ose hetimin e çështjeve të veçanta në një gjykatë ose prokurori të ndryshme nga ajo ku ai ushtron funksionin në mënyrë të përhershme në rastet e mëposhtme:
 
@@ -3754,7 +3802,7 @@ Neni 170/2
 
 Caktimi i përkohshëm në pozicione të lira të përkohshme
 
-(shtuar me ligjin nr. 50/2021, datë 23.3.2021)
+(Shtuar me ligjin nr. 50/2021, datë 23.3.2021)
 
 1. Kur numri i të emëruarve të sapodiplomuar është më i madh se vendet e lira të shpallura për ata, të emëruarit që nuk janë caktuar në një pozicion të lirë të përhershëm për magjistrat caktohen përkohësisht në një pozicion të lirë të përkohshëm.
 
@@ -3767,6 +3815,14 @@ a) Këshillat i ofrojnë të emëruarit mundësinë e zgjedhjes për të paktën
 b) i emëruari i caktuar përkohësisht në një pozicion magjistrati duhet të marrë pjesë në procedurën e radhës së lëvizjes paralele në shkallën e parë, me qëllim që të caktohet sa më shpejt në një pozicion të lirë të përhershëm.
 
 4. Këshillat nuk mund të caktojnë magjistratë përkohësisht në pozicione të lira të përkohshme, sipas këtij neni, pas përfundimit të afatit të caktuar për përfundimin e procesit të rivlerësimit kalimtar të magjistratëve.
+
+Neni 170/3
+
+Dispozita tranzitore për caktimin e kryetarëve
+
+(Shtuar me ligjin nr. 9/2026, datë 28.1.2026)
+
+Magjistratët të cilët në datën e hyrjes në fuqi të këtij ligji ushtrojnë detyrën si kryetar gjykate në gjykatat e juridiksionit të përgjithshëm dhe administrative, si dhe drejtues të prokurorive pranë gjykatave me juridiksion të përgjithshëm të shkallës së parë dhe të prokurorive pranë gjykatave me juridiksion të përgjithshëm të apelit, qëndrojnë në detyrë deri në zgjedhjen e drejtuesve të rinj sipas ligjit, por jo më vonë se data 31.12.2027.
 
 Neni 171
 
@@ -3806,7 +3862,7 @@ Dispozita kalimtare për procedimet disiplinore
 
 Dispozitë kalimtare
 
-(vendosur me ligjin nr. 48/2019, datë 18.7.2019)
+(Vendosur me ligjin nr. 48/2019, datë 18.7.2019)
 
 	1. Deri në miratimin nga këshillat të akteve nënligjore të vlerësimit etik dhe profesional të magjistratëve dhe të realizimit të procedurave të vlerësimit, sipas këtij ligji, por jo më vonë se afati i caktuar për përfundimin e procesit të rivlerësimit kalimtar të magjistratëve, emërimi i kandidatëve të diplomuar në Shkollën e Magjistraturës, që sipas ligjit është parësor, nuk do të ndërvaret nga përfundimi i procedurave të transferimit paralel dhe/ose të ngritjes në detyrë për magjistratët. 
 
@@ -3862,7 +3918,7 @@ b) Brenda një viti nga krijimi i Këshillit, aktet e tjera.
 
 Dispozitë tranzitore
 
-(e ligjit nr. 33/2023, datë 25.5.2023)
+(Parashikuar në ligjin nr. 33/2023, datë 25.5.2023)
 
 1. Paga referuese bazë për funksionet gjyqësore dhe të prokurorisë indeksohet për herë të parë nga Këshilli i Ministrave jo më herët se data 1.1.2026.
 
