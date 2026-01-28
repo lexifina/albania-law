@@ -1,9 +1,9 @@
 # Për licencimin e shoqërisë rajonale Ujësjellës-Kanalizime Lushnjë sh.a.
 
-Official source: [Vendim nr. 12, datë 3.3.2023 (Enti Rregullator i Ujit)](https://qbz.gov.al/api/v1/acts/62124).
+Official source: [Vendim nr. 12, datë 3.3.2023 (Enti Rregullator i Ujit)](https://qbz.gov.al/api/v1/acts/62124); [QBZ versions](https://qbz.gov.al/api/v1/acts/62124/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2023-03-03; published 2023-03-21; in force 2023-03-21.
+Status of this text: `official consolidated version 1`, applying from 2026-01-28; after QBZ act 63736 (nr. 3).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
