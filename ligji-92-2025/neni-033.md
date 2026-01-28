@@ -1,0 +1,4 @@
+# Neni 33
+Masat për punonjësit përgjegjës për kujdesin alternativ në familje
+1. Punonjësit e ngarkuar me detyra dhe përgjegjësi në bazë të këtij ligji, që shkelin rregullat e këtij ligji, u nënshtrohen masave disiplinore sipas ligjit përkatës, i cili rregullon marrëdhënien e tyre të punës. Organet eprore të këtyre punonjësve, me nismën e tyre ose me kërkesë të cilitdo në dijeni të këtyre shkeljeve, janë të detyruar të fillojnë procedimin disiplinor. Mosfillimi i procedimit disiplinor përbën shkak për fillimin e procedimit disiplinor ndaj organit epror apo fillimin e ndjekjes penale sipas rastit, kur ka elemente të veprës penale.
+2. Rastet e dyshuara të korrupsionit, shpërdorimit të detyrës ose mosveprimit nga ana e punonjësve të ngarkuar me detyra dhe përgjegjësi në bazë të këtij ligji dhe që sjellin pasoja për fëmijën u referohen organeve kompetente për hetim penal.

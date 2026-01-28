@@ -1,0 +1,6 @@
+# Neni 25
+Inspektimi
+1. Inspektorati përgjegjës për shërbimet sociale inspekton shërbimin e kujdesit alternativ në familje në përputhje me legjislacionin në fuqi për inspektimin, legjislacionin për shërbimet e kujdesit shoqëror, si dhe me këtë ligj. Inspektorati përgjegjës për shërbimet sociale bashkëpunon me strukturat monitoruese të ofrimit të kujdesit alternativ në familje sipas këtij ligji, me qëllim harmonizimin e planeve të inspektimit dhe monitorimin për garantimin e realizimit të tyre në përputhje me standardet ligjore dhe profesionale.
+2. Nëse gjatë inspektimit merret dijeni ose vlerësohet se një fëmijë i vendosur në kujdes alternativ në familje ndodhet në situatë emergjente abuzimi, neglizhimi ose dhune, apo mungese kujdesi nga familja kujdestare, inspektorati e referon menjëherë rastin pranë njësisë së vlerësimit të nevojave dhe referimit dhe njësisë/punonjësit për mbrojtjen e fëmijës në përputhje me këtë ligj dhe legjislacionin në fuqi për të drejtat dhe mbrojtjen e fëmijës dhe për shërbimet e kujdesit shoqëror në Republikën e Shqipërisë.
+3. Për çdo vizitë inspektuese mbahet procesverbal, i cili së bashku me vendimin e inspektimit regjistrohen në Regjistrin Elektronik për Kujdesin Alternativ në Familje.
+4. Rregullat e procedurat për organizimin dhe zbatimin e monitorimit e të inspektimit miratohen me vendim të Këshillit të Ministrave.

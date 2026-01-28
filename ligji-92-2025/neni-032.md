@@ -1,0 +1,7 @@
+# Neni 32
+Masat për familjet që ofrojnë kujdes alternativ në familje
+1. Familjet që ofrojnë kujdes alternativ në familje, që shkelin detyrimet e përcaktuara në këtë ligj, u nënshtrohen masave të mëposhtme:
+a) paralajmërim zyrtar për heqjen e përkohshme ose përfundimtare të statusit si familje kujdestare;
+b) heqje e përkohshme ose përfundimtare e statusit si familje kujdestare.
+2. Masat sipas pikës 1 të këtij neni jepen në përputhje me parimin e proporcionalitetit. Në rast se shkelja përsëritet ose në raste flagrante të keqtrajtimit të fëmijës, familja humbet përgjithmonë të drejtën për të ofruar kujdes alternativ në familje. Nëse shkeljet e identifikuara përbëjnë vepër penale, njësia/ punonjësi i mbrojtjes së fëmijës në nivel vendor paraqet kallëzim penal në përputhje me Kodin Penal.
+3. Vendimi për heqjen e kujdestarisë jepet nga komisioni shumëdisiplinar për kujdesin alternativ në familje në bashki me propozimin e njësisë/punonjësit të mbrojtjes së fëmijës. Ky vendim është i ankimueshëm në përputhje me legjislacionin në fuqi. Deri në marrjen e vendimit në formë të prerë, familja kujdestare pezullohet nga e drejta e ofrimit të shërbimit të kujdesit alternativ në familje. Në raste të tilla, në përputhje me interesin më të lartë të fëmijës, fëmija i vendosur në kujdes alternativ në familje transferohet në një familje që ofron kujdes alternativ profesional emergjent sipas përcaktimeve të këtij ligji dhe akteve nënligjore në zbatim të tij. Vendimi për përfundimin e kujdesit alternativ në familje jepet nga gjykata.

@@ -1,0 +1,5 @@
+# Neni 21
+Standardet e ofrimit të shërbimit të kujdesit alternativ në familje
+1. Njësia/punonjësi për mbrojtjen e fëmijës dhe njësia e vlerësimit të nevojave dhe referimit në nivel vendor, në bashkëpunim me fëmijën, familjen kujdestare, prindërit biologjikë/familjen e mëparshme, nëse është e mundur, hartojnë një plan individual të kujdesit alternativ në familje për fëmijën e vendosur në kujdes alternativ në familje. Plani individual i kujdesit rishikohet rregullisht në bazë të vlerësimit të nevojave të fëmijës.
+2. Familja kujdestare ofron shërbimin e kujdesit alternativ në familje në përputhje me standardet e ofrimit të këtij shërbimi. Familja kujdestare është e detyruar të njoftojë njësinë/punonjësin për mbrojtjen e fëmijës dhe njësinë e vlerësimit të nevojave dhe referimit për çdo ndryshim në rrethanat e ofrimit të shërbimit të kujdesit alternativ në familje.
+3. Standardet e ofrimit të shërbimit të kujdesit alternativ në familje miratohen me udhëzim të ministrit përgjegjës për çështjet sociale.
