@@ -1,0 +1,10 @@
+# Vendim nr. 00-2026-406, datë 28.1.2026 (Gjykata e Lartë)
+
+Court: Gjykata e Lartë (High Court of Albania). Verdict number: 00-2026-406. Verdict date: 2026-01-28.
+Case number: 11200-00633-00-2022 (case id 2022-01668). Registered at the High Court: 2022-10-27.
+Category: Çështje Civile (civil). Decided in: council chamber (dhomë këshillimi).
+
+Official decision document (High Court register): <https://be.gjykataelarte.gov.al/public/verdict?caseId=2022-01668&caseNumber=11200-00633-00-2022>.
+Official search page: <https://www.gjykataelarte.gov.al/kerko-vendimet/>.
+
+Metadata record: the High Court publishes its decisions with the parties' names (not anonymised), so the parties, the case title and the decision text are not reproduced here.
