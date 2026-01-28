@@ -1,0 +1,1 @@
+4. Ngarkohen për zbatimin e këtij urdhri Sekretari i Përgjithshëm, Drejtoria e Menaxhimit të Burimeve Njerëzore dhe Çështjeve Juridike, drejtoria përgjegjëse për importet dhe të gjitha strukturat e tjera përkatëse të Ministrisë së Bujqësisë dhe Zhvillimit Rural.

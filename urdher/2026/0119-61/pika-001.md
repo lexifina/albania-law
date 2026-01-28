@@ -1,0 +1,1 @@
+1. Për shkak të angazhimeve për të garantuar vijimësinë e veprimtarisë administrative të Ministrisë, delegoj të drejtën e firmës për të gjitha dokumentet dhe aktet që lidhen me procedurat e importeve në varësi të Ministrisë së Bujqësisë dhe Zhvillimit Rural, zëvendësministrit, z. Fatmir Guri, për periudhën 19.1.2026 deri më datë 4.2.2026.
