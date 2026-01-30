@@ -1,0 +1,26 @@
+{
+  "qbz_id": 32201,
+  "title": "Për disa shtesa dhe ndryshim në ligjin nr. 9632, datë 30.10.2006, “Për sistemin e taksave vendore”, i ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "82",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2025-12-11",
+  "published": "2026-01-15",
+  "in_force": "2026-01-30",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/9bb539da5a8381f54dc1adbfdb7e83d6ef0b390a16a855ea3c97e0d93d9ea34c.docx",
+  "source_sha256": "9bb539da5a8381f54dc1adbfdb7e83d6ef0b390a16a855ea3c97e0d93d9ea34c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/32201",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2025/12/11/82",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
