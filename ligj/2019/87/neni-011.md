@@ -10,7 +10,7 @@ dh) NIVF-në;
 e) NSLF-në;
 ë) datën dhe kohën (orën, minutat dhe sekondat) e lëshimit të faturës;
 f) identifikimin e shitësit (numrin identifikues unik, emrin e tatimpaguesti/emrin dhe mbiemrin, dhe adresën);
-g) identifikimin e blerësit (numrin identifikues unik, emrin e tatimpaguesit/emrin dhe mbiemrin, dhe adresën). Ky informacion është i detyrueshëm vetëm në rast se blerësi është tatimpagues, subjekt i tatimit mbi fitimin, tatimit të thjeshtuar mbi fitimin për biznesin e vogël, ose subjekt i TVSH-së, në përputhje me ligjet e veçanta, ose është person juridik, që është furnizuar me mallra apo shërbime në territorin e Republikës së Shqipërisë, me qëllim të ushtrimit të veprimtarisë së tij ekonomike; ose në raste të tjera, kur blerësi kërkon shënimin e këtyre të dhënave në faturë;
+g) identifikimin e blerësit (numrin identifikues unik, emrin e tatimpaguesit/emrin dhe mbiemrin, dhe adresën). Ky informacion është i detyrueshëm vetëm në rast se blerësi është tatimpagues, subjekt i tatimit mbi të ardhurat e korporatës, tatimit mbi të ardhurat personale nga biznesi, ose subjekt i TVSH-së, në përputhje me ligjet e veçanta, ose është person juridik, që është furnizuar me mallra apo shërbime në territorin e Republikës së Shqipërisë, me qëllim të ushtrimit të veprimtarisë së tij ekonomike; ose në raste të tjera, kur blerësi kërkon shënimin e këtyre të dhënave në faturë;
 gj) sasinë dhe përshkrimin e mallrave apo të shërbimeve të furnizuara dhe çmimin për njësi;
 h) vlerën totale të faturës;
 i) kodin QR, i cili përmban të dhënat e përcaktuara me udhëzimin e ministrit përgjegjës për financat.
