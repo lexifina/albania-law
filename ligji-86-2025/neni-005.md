@@ -1,0 +1,7 @@
+# Neni 5
+Fshirja e detyrimeve tatimore të papaguara
+1. Fshihen plotësisht detyrimet tatimore të papaguara, që u përkasin periudhave tatimore deri në datën 31 dhjetor 2014, të cilat rezultojnë të llogaritura apo të regjistruara në llogaritë tatimore të tatimpaguesve apo të regjistruara në kontabilitetin e administratës tatimore, përveç kontributit të sigurimeve shoqërore e shëndetësore, si dhe rasteve kur parashikohet ndryshe në këtë ligj.
+2. Fshihen/shuhen detyrimet e papaguara, të përcaktuara sipas ligjit nr. 9632, datë 30.10.2006, “Për sistemin e taksave vendore”, të ndryshuar, që u përkasin periudhave tatimore deri në datën 31 dhjetor 2014.
+3. Shuhen dënimet administrative (gjobat dhe kamatëvonesat) për sigurimet shoqërore e shëndetësore, që u përkasin periudhave tatimore deri në datën 31 dhjetor 2014, që rezultojnë të llogaritura apo të regjistruara në llogarinë e tatimpaguesit, përfshirë të vetëpunësuarit në bujqësi, por pa përfshirë kontributin.
+4. Pavarësisht nga përcaktimet në pikat 1 dhe 2 të këtij neni, në rastin kur është paguar principali dhe tatimpaguesi ka detyrime të papaguara vetëm gjoba dhe kamatëvonesa në llogarinë e tij, falen gjobat dhe kamatëvonesat.
+5. Detyrimet tatimore të papaguara, të vendosura për subjektet e çregjistruara në Qendrën Kombëtare të Biznesit pas datës së çregjistrimit, të evidentuara dhe të kontabilizuara në regjistrat e administratës tatimore deri në datën 31.12.2024 fshihen.
