@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor, Gjykata Administrative e Shkallës së Parë Tiranë, kancelarit, znj. Selvana Gogo, për kryerjen e detyrave dhe nënshkrimin e akteve për të gjitha procedurat e prokurimit pranë kësaj gjykate.
