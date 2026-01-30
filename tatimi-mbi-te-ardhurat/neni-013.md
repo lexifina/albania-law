@@ -10,6 +10,6 @@ dh) fitimi kapital i realizuar nga transferimi i aktiveve dhe pasiveve të bizne
 e) dhuratat, grantet apo subvencionet e marra nga një person në lidhje me biznesin e tij;
 ë) të ardhurat e realizuara nga personi fizik për çdo lloj tarife shërbimi teknik apo digjital automatik;
 f) fitimet kapitale nga rivlerësimi i aktiveve të biznesit kur këto aktive janë dhënë si kontribut në natyrë në kapitalin e një shoqërie, qoftë në themelimin e saj apo rritjen e kapitalit;
-g) të ardhurat nga nxjerrja apo përfitimi i mjeteve virtuale;
-gj) ardhurat nga transaksionet me mjete virtuale, të cilat janë efektivisht të lidhura me biznesin.
+g) të ardhurat nga nxjerrja apo përfitimi i kripto-aseteve;
+gj) ardhurat nga transaksionet me kripto-asete, të cilat janë efektivisht të lidhura me biznesin.
 2. Të ardhurat vjetore të tatueshme nga biznesi përcaktohen si shuma e përgjithshme e të ardhurave të biznesit, pakësuar me shpenzimet përkatëse të dokumentuara dhe të kryera me qëllim fitimin, ruajtjen dhe sigurimin e të ardhurave. Të ardhurat vjetore të tatueshme të biznesit llogariten në përputhje me kreun IV të këtij ligji.

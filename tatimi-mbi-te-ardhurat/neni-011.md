@@ -10,3 +10,4 @@ dh) shpërblimet dhe çmimet e dhëna nga institucionet shtetërore për arritje
 e) bursat e nxënësve dhe të studentëve;
 ë) përfitimet për dëmshpërblime, të marra nëpërmjet vendimeve të formës së prerë të gjykatave, përfitimet për dëmshpërblimet nga kontrata e sigurimit, të marra në zbatim të ligjit në fuqi për veprimtarinë e sigurimit dhe risigurimit, si dhe kompensimet e caktuara për kostot gjyqësore;
 f) të ardhurat nga mbështetja me grante dhe subvencione në bujqësi dhe blegtori me fonde të buxhetit të shtetit ose burime të tjera.
+g) të ardhurat nga sponsorizimet deri në masën e përcaktuar në shkronjën “p”, të pikës 1, të nenit 50, të këtij ligji.

@@ -19,6 +19,6 @@ f) fitimet kapitale nga tjetërsimi i aksioneve të entiteteve rezidente dhe çd
 g) interesat e paguara nga organet e qeverisjes vendore ose qendrore, nga një tatimpagues rezident ose nga një seli e përhershme në Republikën e Shqipërisë;
 gj) qiratë, kontratat e qirasë, tarifat e licencës, tarifat e shërbimit teknik dhe/ose digjital automatik, si dhe honoraret që paguhen nga një person rezident ose nga një seli e përhershme në Republikën e Shqipërisë;
 h) fitimet nga lojërat e fatit për një tatimpagues rezident apo jorezident ose të paguara nga një seli e përhershme në Republikën e Shqipërisë, të ardhurat nga trashëgimitë dhe nga dhurimet e marra nga asete të ndodhura në Republikën e Shqipërisë;
-i) të ardhurat nga nxjerrja apo përfitimi i mjeteve virtuale nga një person rezident në Republikën e Shqipërisë;
-j) të ardhurat nga transaksionet me mjete virtuale nga një person rezident në Republikën e Shqipërisë;
+i) të ardhurat nga nxjerrja apo përfitimi i kripto-aseteve nga një person rezident në Republikën e Shqipërisë;
+j) të ardhurat nga transaksionet me kripto-aseteve nga një person rezident në Republikën e Shqipërisë;
 k) të ardhurat nga çdo veprimtari tjetër që kryhet fizikisht në Republikën e Shqipërisë.
