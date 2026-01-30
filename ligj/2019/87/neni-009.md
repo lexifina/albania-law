@@ -8,7 +8,7 @@ c) numrin e faturës;
 d) emrin e tatimpaguesit/emrin dhe mbiemrin e shitësit;
 dh) adresën e shitësit;
 e) numrin unik të identifikimit të blerësit, emrin e tatimpaguesit/emrin, mbiemrin dhe adresën e blerësit. Këto të dhëna janë të detyrueshme vetëm në rast se blerësi është:
-i. tatimpagues, subjekt i tatimit mbi fitimin, tatimit të thjeshtuar mbi fitimin, për biznesin e vogël, ose subjekt i TVSH-së, në përputhje me legjislacionin përkatës;
+i. tatimpagues, subjekt i tatimit mbi të ardhurat e korporatës, tatimit mbi të ardhurat personale nga biznesi, ose subjekt i TVSH-së, në përputhje me legjislacionin përkatës;
 ii. person juridik;
 iii. person që blen pronë personale, me vlerë individuale mbi 500 000 lekë;
 iv. në raste të tjera, kur blerësi kërkon shënimin e këtyre të dhënave në faturë;
@@ -24,7 +24,7 @@ l) numrin identifikues të veçantë të faturës (NIVF), të shprehur si shenj�
 ll) numrin e sigurisë së lëshuesit të faturës (NSLF), të shprehur si shenjë alfa numerike;
 m) kodin QR, i cili përmban të dhënat e përcaktuara me udhëzimin e ministrit përgjegjës për financat.
 n) shkallën e aplikuar të TVSH-së.
-2. Në rast të eksportimit të mallrave jashtë territorit të Republikës së Shqipërisë, përveç informacionit të referuar në pikën 1, të këtij neni, fatura duhet të përfshijë edhe emrin e tatimpaguesit/emrin, mbiemrin dhe adresën e blerësit, nëse ai është tatimpagues ose person juridik në vendin e tij rezident, si dhe numrin e identifikimit tatimor të lëshuar në vendin e tij të rezidencës. Nëse blerësi është individ, i cili nuk është tatimpagues në vendin e tij të rezidencës, në faturë shënohet emri i tij i plotë dhe adresa ku dërgohen mallrat.
+2. Në rast të eksportimit të mallrave jashtë territorit të Republikës së Shqipërisë, përveç informacionit të referuar në pikën 1, të këtij neni, fatura duhet të përfshijë edhe emrin e tatimpaguesit/emrin, mbiemrin dhe adresën e blerësit, nëse ai është tatimpagues ose person juridik në vendin e tij rezident, si dhe numrin e identifikimit tatimor të lëshuar në vendin e tij të rezidencës. Nëse blerësi është individ i paregjistruar si subjekt për ushtrim aktiviteti tregtar, në faturë shënohet emri i tij i plotë, numri personal i identifikimit ID dhe adresa e saktë ku dërgohen mallrat.
 3. Çdo dokument në letër ose formë elektronike, që ndryshon faturën origjinale dhe që i referohet në mënyrë specifike e të qartë kësaj fature, konsiderohet si faturë dhe duhet të përmbajë të gjitha elementet, në përputhje me këtë ligj, si dhe referencën te fatura origjinale.
 4. Përveç informacionit të përmendur në pikën 1, të këtij neni, kur fatura lëshohet nga blerësi për furnizimin e marrë nga shitësi, fatura e lëshuar duhet të përmbajë edhe shënimin “Vetëfaturim”. Në këtë rast, është e detyrueshme të përfshihet në faturë edhe informacioni me numrin unik të identifikimit, emrin e tatimpaguesit/emrin, mbiemrin dhe adresën e shitësit.
 5. Përveç të dhënave të detyrueshme, të përcaktuara në pikën 1, të këtij neni, tatimpaguesit, që lëshojnë faturë, mund të përfshijnë edhe të dhëna të tjera, sipas nevojave të tyre.
