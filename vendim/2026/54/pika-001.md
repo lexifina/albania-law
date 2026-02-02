@@ -1,0 +1,1 @@
+1. Ky vendim përcakton organizimin dhe funksionimin e Drejtorisë së Përgjithshme të Rezervave Materiale të Shtetit (në vijim, DPRMSH) si person juridik, publik, buxhetor, në varësi të ministrit përgjegjës për rezervat materiale të shtetit, me seli në Tiranë.

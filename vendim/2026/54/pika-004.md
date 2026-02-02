@@ -1,0 +1,1 @@
+4. Drejtoritë rajonale janë struktura në varësi të DPRMSH-së, nën drejtimin e drejtorit rajonal dhe zbatojnë detyrat e ngarkuara për mundësimin e ndërhyrjes operacionale në nivel vendor e rajonal, që mbulon drejtoria rajonale, apo dhe kombëtar, në raste të shpalljes së gjendjes së luftës, të sulmeve terroriste, të gjendjes së jashtëzakonshme dhe të fatkeqësive natyrore.

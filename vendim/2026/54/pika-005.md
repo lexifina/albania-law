@@ -1,0 +1,1 @@
+5. Drejtoritë rajonale drejtohen, mbikëqyren dhe përfaqësohen nga drejtori i institucionit, i cili i raporton drejtorit të përgjithshëm të DPRMSH-së për realizimin e objektivave të përcaktuar dhe të detyrave të ngarkuara.
