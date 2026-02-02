@@ -1,0 +1,1 @@
+1. Ky vendim përcakton organizimin dhe funksionimin e agjencisë “Innovation4Albania”, në vijim Agjencia, si person juridik publik buxhetor, në varësi të ministrit përgjegjës për inovacionin, me seli në Tiranë.

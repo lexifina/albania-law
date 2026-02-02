@@ -1,0 +1,1 @@
+4. Agjencia për realizimin e misionit të saj bashkëpunon me organizma vendas dhe ndërkombëtarë me fushë të ngjashme veprimtarie, me qëllim përthithjen e praktikave më të mira ndërkombëtare në fushën e zhvillimit të inovacionit dhe startup-eve.

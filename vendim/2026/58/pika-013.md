@@ -1,0 +1,1 @@
+13. Agjencia ka stemën, logon dhe vulën e saj zyrtare. Stema e saj përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë”, “Ministria e Ekonomisë dhe Inovacionit”, Agjencia “Innovation4Albania”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

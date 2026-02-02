@@ -1,0 +1,1 @@
+11. Agjencitë dhe institucionet kërkimore në varësi të ministrive të linjës, si dhe institucionet e tjera të administratës shtetërore koordinojnë aktivitetin e tyre me Agjencinë sa i përket çështjeve që lidhen me inovacionin.

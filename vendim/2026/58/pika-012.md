@@ -1,0 +1,1 @@
+12. Institucionet e tjera që mbështesin me masa mbështetëse inovacionin, teknologjinë e informacionit dhe digjitalizimin, sipas kërkesës, i përcjellin informacion Agjencisë për subjektet e mbështetura në funksion të koordinimit në tërësi.
