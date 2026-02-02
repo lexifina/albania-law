@@ -1,0 +1,3 @@
+# Neni 11
+Niveli i aksesimit të Regjistrit Qendror të Bazës së Dhënave të Pasurive të Paluajtshme (Kadastra fiskale) nga bashkia
+Bashkia ka të drejta leximi, hedhjeje ose modifikimi vetëm mbi të dhënat e regjistruara në Regjistrin Qendror të Bazës së të Dhënave të Pasurive të Paluajtshme (Kadastra fiskale) për pasuritë e paluajtshme që ndodhen në territorin e saj, taksapaguesit, detyrimet përkatëse tatimore dhe të dhëna të tjera të ndërlidhura, përveç atyre të përcaktuara në pikën 1, të nenit 7, të kreut IV, të këtij vendimi, për të cilat bashkia ushtron të drejtën e leximit dhe jo të drejtën e hedhjes ose modifikimit për të dhënat e veta.
