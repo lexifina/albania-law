@@ -1,1 +1,0 @@
-8. Me qëllim që çdo taksapagues të jetë i njohur në kohë reale me detyrimin për taksën e pasurisë, si dhe të ketë mundësinë të kërkojë korrigjimet e mundshme, RQTVPP dhe harta dixhitale e pasurisë së paluajtshme është e hapur edhe për publikun.

@@ -1,1 +1,0 @@
-7. Të dhënat e regjistrit qendror të bazës së të dhënave për llogaritjen e taksës vendore mbi pasurinë e paluajtshme pasqyrohen në hartën digjitale të pasurisë së paluajtshme për efekt taksimi, për çdo kod unik identifikues të pasurisë së paluajtshme ndërtesë.

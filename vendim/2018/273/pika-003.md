@@ -1,1 +1,0 @@
-3. RQTVPP-ja përmban të dhëna në nivel kombëtar vetëm për qëllimin e llogaritjes së taksës së pasurisë së paluajtshme. Këto të dhëna përpunohen dhe analizohen nga DPTP-ja, që është dhënësi i vetëm i informacionit që përmban ky regjistër.
