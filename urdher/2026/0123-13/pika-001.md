@@ -1,0 +1,1 @@
+1. Shpalljen e përkthimit të ndryshimeve në Standardin Ndërkombëtar të Kontabilitetit 21 “Efektet e ndryshimeve në kurset e këmbimit të monedhave të huaja” (SNK 21), si dhe shpalljen e përkthimit të ndryshimeve në SNK 21 që ndryshojnë SNRF 19 “Filialet pa përgjegjësi publike: Dhënia e informacioneve shpjeguese” dhe SNK 29 “Raportimi Financiar në Ekonomitë Hiperinflacioniste”.
