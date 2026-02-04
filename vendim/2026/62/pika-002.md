@@ -1,0 +1,1 @@
+2. Autoriteti Kombëtar për Sigurinë Kibernetike (AKSK), në bashkëpunim me entet rregullatore të fushës, ndërmerr veprimet e nevojshme për realizimin e heqjes së masave për ndërprerjen e aksesit të kësaj platforme, duke respektuar edhe dispozitat ligjore për mbrojtjen e të dhënave personale, në përputhje me legjislacionin në fuqi në territorin e Republikës së Shqipërisë.

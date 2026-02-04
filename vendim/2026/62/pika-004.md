@@ -1,0 +1,2 @@
+4. Ngarkohen Ministria e Arsimit, Ministria e Drejtësisë, Ministria e Infrastrukturës dhe Energjisë, Ministria e Punëve të Brendshme, Ministria e Shëndetësisë dhe Mirëqenies Sociale, Autoriteti Kombëtar për Sigurinë Kibernetike, Agjencia Kombëtare e Shoqërisë së Informacionit dhe autoritetet rregullatore sektoriale për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

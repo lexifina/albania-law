@@ -1,0 +1,1 @@
+1. Heqjen e masave të përkohshme për ndërprerjen e aksesit në platformën online “TikTok” në territorin e Republikës së Shqipërisë, pas adresimit të problematikave në fushën e sigurisë publike dhe sociale në mjedisin digjital.
