@@ -1,0 +1,7 @@
+# Neni 43
+Regjistri Elektronik për Vullnetarizmin dhe Regjistri i Vullnetarizmit
+1. Regjistri Elektronik për Vullnetarizmin krijohet dhe integrohet në bazën e të dhënave të sistemit të shërbimeve të punësimit, me qëllim grumbullimin e informacionit të përditësuar për vullnetarizmin në vend dhe për ofrimin e shërbimeve publike për vullnetarët, ofruesit e vullnetarizmit dhe subjektet e tjera, sipas këtij ligji dhe legjislacionit të posaçëm.
+2. Institucioni përgjegjës për punësimin dhe aftësitë grumbullon e administron të dhënat për vullnetarizmin në përputhje me legjislacionin në fuqi për bazat e të dhënave shtetërore dhe legjislacionin në fuqi për mbrojtjen e të dhënave personale.
+3. Regjistri i vullnetarizmit mbahet e plotësohet nga ofruesi i vullnetarizmit dhe përmban të dhënat për vullnetarizmin afatgjatë dhe vullnetarizmin afatshkurtër. Regjistri plotësohet nga dita e fillimit deri në ditën e përfundimit të programit të vullnetarizmit.
+4. Ofruesi i vullnetarizmit raporton vullnetarizmin e kryer përmes ngarkimit në bazën e të dhënave të shërbimeve të punësimit, si dhe të dhënave të regjistrit të vullnetarizmit, përcaktuar në pikën 3 të këtij neni.
+5. Përmbajtja dhe rregullat e plotësimit të Regjistrit të Vullnetarizmit, si dhe rregullat, afatet e procedurat e raportimit në bazën e të dhënave të shërbimeve të punësimit nga ofruesit e vullnetarizmit miratohen me vendim të Këshillit të Ministrave, me propozimin e ministrit përgjegjës për çështjet e punësimit.

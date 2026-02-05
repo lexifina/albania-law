@@ -1,0 +1,5 @@
+# Neni 30
+Kryerja e vullnetarizmit pa lidhjen e kontratës
+1. Vullnetarizmi afatshkurtër, kur kryhet pa lidhjen e kontratës së vullnetarizmit, do të bazohet në rregulloren e brendshme të ofruesit të vullnetarizmit, që përcakton mënyrën e angazhimit dhe të trajtimit të vullnetarëve, dhe në programin e vullnetarizmit. Në këtë rast, vullnetari nënshkruan një deklaratë, ku shpreh vullnetin për të kryer vullnetarizëm, në përputhje me kushtet dhe rregullat e përcaktuara nga ofruesi i vullnetarizmit, me rregulloren e brendshme të tij dhe me programin e vullnetarizmit. Deklarata përmban një detyrim të posaçëm për ruajtjen e konfidencialitetit të të dhënave personale, me të cilat vullnetari bie në kontakt gjatë vullnetarizmit.
+2. Deklarata e nënshkruar shërben për të provuar ekzistencën e marrëdhënies së vullnetarizmit, në rastin e vullnetarizmit që kryhet pa lidhjen e kontratës.
+3. Ofruesi i vullnetarizmit dhe vullnetari, në kryerjen e vullnetarizmit sipas këtij neni, duhet të respektojnë parashikimet e ligjit që janë të zbatueshme për vullnetarizmin afatshkurtër dhe në çdo rast nuk duhet të shkelin parimet bazë të këtij ligji.
