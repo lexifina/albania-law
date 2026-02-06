@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 1128, datë 30.12.2020](https://qbz.gov.al/api/v1/acts/22545); [QBZ versions](https://qbz.gov.al/api/v1/acts/22545/versions).
 
-Status of this text: `official consolidated version 15`, applying from 2026-01-28; after QBZ act 32353 (nr. 53).
+Status of this text: `official consolidated version 16`, applying from 2026-02-06; after QBZ act 63721 (nr. 74).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
