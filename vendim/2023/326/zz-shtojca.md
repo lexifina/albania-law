@@ -1,36 +1,34 @@
 # Shtojca
 Lidhja I
-Nivelet e pagës bazë për klasë të punonjësve të institucioneve
-të përmendura në shkronjën “a”, të pikës 1, të këtij vendimi
-|Nr. |Klasa e pagës |Paga bazë mujore për klasë |
+Nivelet e pagës bazë për klasë të punonjësve të institucioneve të përmendura në shkronjën “a”, të pikës 1, të këtij vendimi
+|Nr. |Klasa e pagës |Paga bazë për klasë |
 |rendor | | |
-|1 |I |40 000 |
-|2 |II |41 000 |
-|3 |III |41 800 |
-|4 |IV |42 500 |
-|5 |V |43 000 |
-|6 |VI |44 000 |
-|7 |VII |45 500 |
-|8 |VIII |46 300 |
-|9 |IX |47 000 |
+|1 |I |50 000 |
+|2 |II |51 000 |
+|3 |III |51 800 |
+|4 |IV |52 500 |
+|5 |V |53 000 |
+|6 |VI |54 000 |
+|7 |VII |55 500 |
+|8 |VIII |56 300 |
+|9 |IX |57 000 |
 Lidhja II
-Nivelet e pagës bazë për klasë të punonjësve të institucioneve
-të përmendura në shkronjën “b”, të pikës 1, të këtij vendimi
-|Nr. |Klasa e pagës |Paga bazë mujore për klasë |
+Nivelet e pagës bazë për klasë të punonjësve të institucioneve të përmendura në shkronjën “b”, të pikës 1, të këtij vendimi
+|Nr. |Klasa e pagës |Paga bazë për klasë |
 |rendor | | |
-|1 |I |40 000 |
-|2 |II |41 000 |
-|3 |III |41 800 |
-|4 |IV |42 500 |
-|5 |V |42 800 |
-|6 |VI |43 200 |
-|7 |VII |43 600 |
-|8 |VIII |44 100 |
-|9 |IX |44 800 |
-|10 |X |45 300 |
-|11 |XI |45 700 |
-|12 |XII |46 000 |
-|13 |XIII |46 700 |
+|1 |I |50 000 |
+|2 |II |51 000 |
+|3 |III |51 800 |
+|4 |IV |52 500 |
+|5 |V |52 800 |
+|6 |VI |53 200 |
+|7 |VII |53 600 |
+|8 |VIII |54 100 |
+|9 |IX |54 800 |
+|10 |X |55 300 |
+|11 |XI |55 700 |
+|12 |XII |56 000 |
+|13 |XIII |56 700 |
 Lidhja III
 Kriteret e ndarjes së punëve sipas shkallës të vështirësisë dhe dëmshmërisë për shëndetin
 Në zbatim të pikës nr. 9 të këtij vendimi, punë që kryhen në kushte të vështira e të dëmshme për shëndetin, konsiderohen ato punë që kryhen në ambiente që kapërcejnë kufijtë e lejueshëm të faktorëve të dëmshëm për shëndetin, që përcaktohen në dispozita të veçanta ose në norma të detyrueshme higjieno-sanitare.
@@ -523,3 +521,5 @@ Shënim. Për emërtesat e pozicioneve të punës, klasat e të cilave nuk janë
 -----------------------
 [1] Vendimi nr. 422, date 26.6.2024 botuar në F.Z nr. 108, date 1.7.2024 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për vitin 2024, përballohen nga buxheti i miratuar dhe fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.”
 [2] Vendimi 640, datë 16.10.2024 botuar në F.Z me nr. 176, datë 18.10.2024 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për vitin 2024, përballohen nga buxheti i miratuar i ministrive përgjegjëse dhe nga fondet e Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor.”
+[3] VKM nr. 87[4], datë 6.2.2026 në pikën 2 shprehet;
+’’ 2. Vlerat e elementit “paga bazë për klasë”, në lidhjet nr. 1 dhe nr. 2, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, janë rezultat i indeksimit në masën 2.5% dhe i politikës së rritjes së pagave për punonjësit, pjesë e fushës së veprimit të këtij vendimi.’’
