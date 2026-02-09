@@ -1,1 +1,0 @@
-1. Ngarkimin e përkohshëm të z.Manush Kullolli, me detyrë përgjegjës në Sektorin e Planifikimit Strategjik dhe Raportimit, në Drejtorinë e Vlerësimit të Riskut, në Drejtorinë e Përgjithshme të Autoritetit Kombëtar të Ushqimit me detyrën e drejtorit të përgjithshëm të Autoritetit Kombëtar të Ushqimit.
