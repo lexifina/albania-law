@@ -3,31 +3,31 @@ Lidhja nr. 1
 Paga për gradë për punonjësit e Gardës së Republikës së Shqipërisë
 Roli i punonjësve sipas gradave
 Grada
-Paga mujore për gradë
+Paga për gradë
 Për punonjësit e nivelit madhor
-Drejtues madhor
-180 000
+Drejtues Madhor
+184 500
 Drejtues i lartë
-160 000
+164 000
 Për punonjësit e nivelit të lartë
 Drejtues i parë
-135 000
+138 375
 Drejtues
-120 000
+123 000
 Për punonjësit e nivelit të mesëm
 Kryekomisar
-105 000
+107 625
 Komisar
-95 000
+97 375
 Nënkomisar
-85 000
+88 000
 Për punonjësit e nivelit bazë
 Inspektor i parë
-80 000
+83 000
 Inspektor i dytë
-75 000
+78 000
 Inspektor
-70 000
+73 500
 Lidhja nr. 2
 Masa e shtesës mujore për natyrë të veçantë pune për punonjësit e Gardës së Republikës së Shqipërisë
 Nr.
