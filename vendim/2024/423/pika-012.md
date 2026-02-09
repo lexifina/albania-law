@@ -11,7 +11,7 @@ c) normat e pajisjeve dhe të materialeve të shërbimit të ushqimit.
 4. Punonjësi i Policisë së Burgjeve përfiton trajtimin me ushqim pa pagesë apo kompensimin e shpenzimeve të ushqimit, sipas këtij kreu, deri në momentin e sistemimit me banesë në territorin e bashkisë ku ndodhet institucioni i ekzekutimit të vendimeve penale, ku ai është transferuar ose komanduar.
 5. Fondi i përcaktuar për këtë qëllim planifikohet për çdo vit në programin buxhetor të Policisë së Burgjeve.
 VI. DISPOZITA KALIMTARE DHE TË FUNDIT
-1. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për vitin 2024, përballohen nga buxheti i miratuar për këtë institucion, si dhe nga fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.
+1. Efektet financiare[1], që rrjedhin nga zbatimi i këtij vendimi, për vitin 2024, përballohen nga buxheti i miratuar për këtë institucion, si dhe nga fondi i kontingjencës për rritjen e pagave, sipas përcaktimeve në ligjin nr. 97/2023, “Për buxhetin e vitit 2024”, të ndryshuar.
 2. Vendimi nr. 920, datë 25.11.2020, i Këshillit të Ministrave, “Për trajtimin me pagë e shtesa mbi pagë dhe për procedurën e kompensimit financiar gjatë qëndrimit në punë të punonjësve të Policisë së Burgjeve”, të ndryshuar, shfuqizohet.
 3. Ngarkohen Ministria e Drejtësisë dhe Drejtoria e Përgjithshme e Burgjeve për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1 korrik 2024.
