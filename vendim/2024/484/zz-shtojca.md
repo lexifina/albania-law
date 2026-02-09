@@ -29,19 +29,19 @@ Lidhja nr. 2
 Paga bruto mujore për pozicionet “koordinator kundër korrupsionit”, në institucionet e përcaktuara në shkronjën “b”, të pikës 1, të këtij vendimi
 |Pozicioni |Paga bruto mujore |
 | |Grupi i diplomës |Shtesa për vjetërsi |Paga e pozicionit |
-|Koordinator në: |1 |2% |170 000 |
+|Koordinator në: |1 | |174 250 |
 |- Qendrën Spitalore Universitare “Nënë | | | |
 |Tereza”. | | | |
-|Koordinator në: |1 |2% |160 000 |
+|Koordinator në: |1 | |164 000 |
 |- Spitalin Universitar të Traumës; | | | |
 |- Qendrën Spitalore Rajonale, të Tiranës | | | |
 |“Shefqet Ndroqi”. | | | |
-|Koordinator në: |1 |2% |155 000 |
+|Koordinator në: |1 | |158 875 |
 |- Drejtorinë Qendrore të Operatorit të | | | |
 |Shërbimeve të Kujdesit Shëndetësor; | | | |
 |- Agjencinë Kombëtare të Barnave dhe | | | |
 |Pajisjeve Mjekësore. | | | |
-|Koordinator në: |1 |2% |141 000 |
+|Koordinator në: |1 | |144 525 |
 |- Spitalin Obstetrik Gjinekologjik | | | |
 |“Mbretëresha Geraldinë”; | | | |
 |- Spitalin Universitar Obstetrik | | | |
