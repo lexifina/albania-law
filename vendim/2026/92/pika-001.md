@@ -1,0 +1,1 @@
+1. Paga e Presidentit të Republikës indeksohet në masën 2,5%. Pas indeksimit, vlera e pagës së Presidentit bëhet 435 625 (katërqind e tridhjetë e pesë mijë e gjashtëqind e njëzet e pesë) lekë në muaj.
