@@ -2,17 +2,26 @@
 4.1 Për personelin e administrimit të përgjithshëm, nga “specialist” deri në “titullar institucioni”, të institucioneve pjesë e fushës së veprimit të këtij vendimi, me përjashtim të institucioneve të përmendura në nënpikën “3.5”, të pikës 3, të këtij vendimi:
 a) paga për pozicion, që shpërblen vlerën relative të çdo pozicioni pune, është sipas lidhjeve përkatëse nr. 1 dhe nr. 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij;
 b) shtesa e nivelit të kualifikimit, që shpërblen nivelin arsimor të kërkuar për pozicionin përkatës të punës. Vlera e shtesës së nivelit të kualifikimit për çdo grup diplome është sipas lidhjes nr. 8, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij;
-c) shtesa për vjetërsi në punë, që jepet në masën 2% pas çdo viti pune, deri në 25 (njëzet e pesë) vjet dhe llogaritet mbi vlerën e shtesës së nivelit të kualifikimit, për çdo grup diplome.
+c) Shtesa për vjetërsi në punë që jepet në masën:
+i. 0.6% pas çdo viti pune për 10 vitet e para (1-10 vite) dhe llogaritet mbi pagën e pozicionit;
+ii. 0.8% pas çdo viti pune për 10 vitet e dyta (11-20 vite) dhe llogaritet mbi pagën e pozicionit;
+iii. 1% pas çdo viti pune për 10 vitet e treta (21-30 vite) dhe llogaritet mbi pagën e pozicionit.
 4.2 Për personelin “mjekë dhe punonjës të tjerë me arsim të lartë” dhe për personelin “teknikë të shkencave mjekësore” në institucionet shëndetësore, të përcaktuara në nënpikat 3.1, 3.2, 3.3 dhe 3.5, të pikës 3, të këtij vendimi, me përjashtim të personelit mjekësor me grada shkencore dhe tituj akademikë, të Institutit të Shëndetit Publik dhe të spitaleve universitare, të disa institucioneve të tjera shëndetësore, që gëzojnë statusin e qendrave kërkimore shkencore, si dhe me përjashtim të mjekëve në nënpikën 3.4, të pikës 3, të këtij vendimi:
 a) paga për pozicion, që shpërblen vlerën relative të çdo pozicioni pune dhe që është sipas lidhjeve përkatëse të këtij vendimi;
 b) shtesa e nivelit të kualifikimit, që shpërblen nivelin arsimor të kërkuar për pozicionin përkatës të punës. Vlera e shtesës së nivelit të kualifikimit për çdo grup diplome është sipas lidhjes nr. 8, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij;
-c) shtesa për vjetërsi në punë, që jepet në masën 2% pas çdo viti pune, deri në 25 (njëzet e pesë) vjet dhe llogaritet mbi vlerën e shtesës së nivelit të kualifikimit, për çdo grup diplome;
+c) Shtesa për vjetërsi në punë që jepet në masën:
+i. 0.6% pas çdo viti pune për 10 vitet e para (1-10 vite) dhe llogaritet mbi pagën e pozicionit;
+ii. 0.8% pas çdo viti pune për 10 vitet e dyta (11-20 vite) dhe llogaritet mbi pagën e pozicionit;
+iii. 1% pas çdo viti pune për 10 vitet e treta (21-30 vite) dhe llogaritet mbi pagën e pozicionit;
 ç) shtesa për kushte pune, e përcaktuar sipas lidhjeve nr. 5 dhe nr. 6, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij;
 d) shtesa për natyrë të veçantë pune, që aplikohet për disa pozicione që kanë një natyrë të veçantë, të përcaktuara në tekstin e këtij vendimi.
 4.3 Për mjekët që janë punonjës efektivë me kohë të plotë në drejtoritë rajonale të Shërbimit Social Shtetëror, të cilët bëjnë vlerësimin e aftësisë së kufizuar dhe biopsiko-sociale dhe në institucionet e përkujdesjes sociale, pavarësisht specialitetit që kanë dhe të cilët janë përcaktuar në nënpikën 3.4, të pikës 3, të këtij vendimi:
 a) paga për pozicion, që shpërblen vlerën relative të çdo pozicioni pune, vlera e së cilës është e njëjtë me vlerën e pagës për pozicion të pozicionit “mjek i përgjithshëm që punon në specialitete”, e përcaktuar në pikën 3, të kreut VII, të lidhjes nr. 4, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij;
 b) shtesa e nivelit të kualifikimit, që shpërblen nivelin arsimor të kërkuar për pozicionin përkatës të punës. Vlera e shtesës së nivelit të kualifikimit për çdo grup diplome është sipas lidhjes nr. 8, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij;
-c) shtesa për vjetërsi në punë që jepet në masën 2% pas çdo viti pune, deri në 25 (njëzet e pesë) vjet dhe llogaritet mbi vlerën e shtesës së nivelit të kualifikimit, për çdo grup diplome.
+c) Shtesa për vjetërsi në punë që jepet në masën:
+i. 0.6% pas çdo viti pune për 10 vitet e para (1-10 vite) dhe llogaritet mbi pagën e pozicionit;
+ii. 0.8% pas çdo viti pune për 10 vitet e dyta (11-20 vite) dhe llogaritet mbi pagën e pozicionit;
+iii. 1% pas çdo viti pune për 10 vitet e treta (21-30 vite) dhe llogaritet mbi pagën e pozicionit.
 4.4 Për mjekët me tituj e grada shkencore, të cilët janë punonjës efektivë me kohë të plotë, në spitalet universitare dhe në institucione të tjera shëndetësore, që gëzojnë statusin e qendrave kërkimore-shkencore, (në bazë të legjislacionit përkatës për arsimin e lartë dhe kërkimin shkencor, dhe të vendimit përkatës të Këshillit të Ministrave) në Institutin e Shëndetit Publik dhe në spitalin “Memorial” Fier, dhe për personelin “teknik i shkencave mjekësore”, në njësinë e ortopedisë në Spitalin Universitar të Traumës, elementet përbërëse të pagës bruto mujore janë, si më poshtë vijon:
 a) paga bazë mujore e pozicionit të punës, e përcaktuar sipas titullit akademik apo gradës shkencore, sipas lidhjeve nr. 9 dhe nr. 10, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij;
 b) shtesa për vjetërsi në punë, që aplikohet në masën 0.5% për çdo vit pune, por jo më shumë se 15 (pesëmbëdhjetë) vjet dhe llogaritet mbi vlerën e pagës bazë mujore të pozicionit të punës;

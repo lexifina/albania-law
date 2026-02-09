@@ -3,4 +3,7 @@
 16.2 Për mjekët, në drejtoritë rajonale të Shërbimit Social Shtetëror dhe në institucionet e përkujdesjes sociale, vlera e pagesës së një ore pune të kontraktuar është e njëjtë me vlerën orare të pozicionit “mjek i përgjithshëm që punon në specialitete”, e përcaktuar në pikën 3, të kreut VII, të lidhjes nr. 4, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij. Paga bruto e këtij pozicioni, për efekt të llogaritjes së pagës orare, për këto raste, do të llogaritet si shumë e elementeve:
 a) paga për pozicion, vlera e së cilës është e njëjtë me vlerën e pagës për pozicion të pozicionit “mjek i përgjithshëm që punon në specialitete”, e përcaktuar në pikën 3, të kreut VII, të lidhjes nr. 4, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij;
 b) shtesa e nivelit të kualifikimit, vlera e së cilës për çdo grup diplome, është sipas lidhjes nr. 8, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij;
-c) shtesa për vjetërsi në punë, që jepet në masën 2% pas çdo viti pune, deri në 25 (njëzet e pesë) vjet dhe llogaritet mbi vlerën e shtesës së nivelit të kualifikimit, për çdo grup diplome.
+c) Shtesa për vjetërsi në punë që jepet në masën:
+i. 0.6% pas çdo viti pune për 10 vitet e para (1-10 vite) dhe llogaritet mbi pagën e pozicionit;
+ii. 0.8% pas çdo viti pune për 10 vitet e dyta (11-20 vite) dhe llogaritet mbi pagën e pozicionit;
+iii. 1% pas çdo viti pune për 10 vitet e treta (21-30 vite) dhe llogaritet mbi pagën e pozicionit.
