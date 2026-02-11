@@ -5,7 +5,7 @@ KREU I
 DISPOZITA TË PËRGJITHSHME
 Neni 1
 Të përgjithshme
-Termi “Ligj” në këtë statut i referohet ligjit nr.10 093, datë 9.3.2009 “Për organizimin dhe funksionimin e Agjencisë për Mbështetjen e Shoqërisë Civile”.
+Termi “Ligj” në këtë statut i referohet ligjit nr. 10 093, datë 9.3.2009 “Për organizimin dhe funksionimin e Agjencisë për Mbështetjen e Shoqërisë Civile”.
 Neni 2
 Organizimi dhe funksionimi i Agjencisë për Mbështetjen e Shoqërisë Civile
 1. Agjencia për Mbështetjen e Shoqërisë Civile (në vijim AMSHC) organizohet dhe funksionon në bazë të ligjit dhe të këtij statuti.
@@ -199,51 +199,3 @@ Sugjerohet që numri i punonjësve të AMSH-së që propozohet për miratim të 
 - Financa dhe kontrolli i brendshëm (1 administrator + 1 specialist)
 - Monitorimi financiar i granteve (1 specialist)
 - Shërbimet e administratës (1 specialist).
-Organika e Agjencisë për mbështetjen e shoqërisë civile
-POZICIONI
-KATEGORIA
-NUMRI
-I
-Drejtor ekzekutiv
-Sekretar
-1
-1
-II
-Sektori i administrimit të programeve të grandeve dhe zhvillimit rajonal
-Përgjegjës sektori
-Specialist
-III-a/1
-IV-a
-(3)
-1
-2
-III
-Sektori i zhvillimit të programeve, bashkëpunimit ndërkombëtar dhe komunikimit
-Përgjegjës sektori
-Specialist
-III-a/1
-IV-a
-(4)
-1
-3
-IV
-V
-Sektori i financës dhe kontrolli i brendshëm
-Përgjegjës sektori
-Inspektor
-Specialist
-Magazinier
-Njësia për Sekretariatin e KKSHC-së
-Specialist - marrëdhëniet me jashtë të KKSHC-së IV-a 1;
-Specialist - Draftimi dhe përgatitja e materialeve IV-a 1;
-Specialist - arkivim dhe komunikim IV-a 1.”.
-III-a/1
-III-b
-IV-a
-(4)
-1
-1
-1
-1
-Punonjës gjithsej
-16
