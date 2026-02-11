@@ -1,0 +1,1 @@
+5. Çdo institucion, institut dhe njësi e veçantë e kërkimit shkencor dhe kërkues shkencor, që regjistrohet për herë të parë, ashtu si dhe në vijim, ka detyrimin të regjistrojë çdo ndryshim, sa herë që ka të tilla në të dhënat e regjistrimit fillestar dhe në dokumentet shoqëruese, që depozitohen në regjistër.

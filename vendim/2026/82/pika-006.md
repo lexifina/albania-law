@@ -1,0 +1,1 @@
+6. Dokumentet shoqëruese, si për regjistrimin për herë të parë ashtu edhe për përditësimin e të dhënave në regjistër, depozitohen nëpërmjet portalit “e-Albania”, në përputhje me mënyrën e përcaktuar në rregulloren për administrimin e regjistrit.

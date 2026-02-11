@@ -1,0 +1,1 @@
+1. Ky vendim ka për objekt përcaktimin e formës, përmbajtjes, elementeve të Regjistrit Kombëtar të Institucioneve, Instituteve, Njësive të Veçanta të Kërkimit Shkencor dhe të Kërkuesve Shkencorë (në vijim “regjistri”), procedurave të krijimit të tij, e të administrimit të informacionit, si dhe të dokumentacionit që depozitohet për regjistrim.
