@@ -1,0 +1,1 @@
+2. Vendimi nr. 1252, datë 10.9.2008, i Këshillit të Ministrave, “Për miratimin e rregullave të zhvillimit të tenderit publik për dhënien e së drejtës së përdorimit të frekuencave”, i ndryshuar, shfuqizohet.
