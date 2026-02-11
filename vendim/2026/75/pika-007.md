@@ -1,0 +1,1 @@
+7. Vendimi nr. 1299, datë 16.12.2009, i Këshillit të Ministrave, “Për miratimin e strukturës, të organikës dhe të numrit të nëpunësve të shërbimit të gjendjes civile në bashki/njësi administrative dhe në zyrat e gjendjes civile pranë prefektit të qarkut”, i ndryshuar, shfuqizohet.

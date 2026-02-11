@@ -1,0 +1,1 @@
+3. Numri i zyrave të shërbimit të gjendjes civile është 141 (njëqind e dyzet e një) dhe numri i nëpunësve të shërbimit të gjendjes civile në bashki dhe pranë prefektit të qarkut është 364 (treqind e gjashtëdhjetë e katër).
