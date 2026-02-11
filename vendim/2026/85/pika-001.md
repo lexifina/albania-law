@@ -1,0 +1,6 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Krujë të zonave, si më poshtë vijon:
+a) Zona nr. 1, zonat Barkanesh, Dane - Fushë Madhe, Bojë, pjesë e Njësisë Administrative Krujë, me sipërfaqe 1258.65 (një mijë e dyqind e pesëdhjetë e tetë pikë gjashtëdhjetë e pesë) ha, sipas hartës në sistemin KRGJSH të paraqitur mbi ortofoto;
+b) Zona nr. 2, Njësia Administrative Cudhi, me sipërfaqe 7712.62 (shtatë mijë e shtatëqind e dymbëdhjetë pikë gjashtëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH të paraqitur mbi ortofoto;
+c) Zona nr. 3, zonat Picërragë, Brret, Gjyre, Abaze, Krastë, Mali i Krujës, pjesë e Njësisë Administrative Krujë, me sipërfaqe 1917.76 (një mijë e nëntëqind e shtatëmbëdhjetë pikë shtatëdhjetë e gjashtë) ha, sipas hartës në sistemin KRGJSH të paraqitur mbi ortofoto;
+ç) Zona nr. 4, zonat Halil, Virjon, Nikël, Zezë, Kurcaj, Buran, Mukaj, pjesë e njësive administrative Fushë-Krujë dhe Nikël, me sipërfaqe 2424.28 (dy mijë e katërqind e njëzet e katër pikë njëzet e tetë) ha, sipas hartës në sistemin KRGJSH të paraqitur mbi ortofoto;
+d) Zona nr. 5, zonat Budull, Bubq, Mazhë-Madhe, Mallkuç, pjesë e Njësisë Administrative Bubq, me sipërfaqe 1920.2 (një mijë e nëntëqind e njëzet pikë dy) ha, sipas hartës në sistemin KRGJSH të paraqitur mbi ortofoto.
