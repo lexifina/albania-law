@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve dhe të procedurave për dhënien e statusit “Qendër ekselence” instituteve dhe njësive të veçanta të kërkimit shkencor për rezultate të spikatura në nivel kombëtar ose ndërkombëtar në fushën e kërkimit apo për zhvillimin e kërkimit shkencor në fusha prioritare.

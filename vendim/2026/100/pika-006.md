@@ -1,0 +1,1 @@
+6. Kërkesa për përfitimin e statusit “Qendër ekselence” së bashku me dokumentacionin paraqiten në formë të shkruar pranë ministrisë përgjegjëse për shkencën e kërkimin shkencor, duke ndjekur procedurën administrative të përcaktuar në këtë vendim, deri në momentin e implementimit e të funksionalitetit të Sistemit Shqiptar të Informacionit të Kërkimit Shkencor (ACRIS).

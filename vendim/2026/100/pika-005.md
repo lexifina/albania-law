@@ -1,0 +1,1 @@
+5. Procedura e aplikimit sipas këtij vendimi, nëpërmjet portalit unik qeveritar “e-Albania”, zbatohet pasi ministria përgjegjëse për çështjet e shkencës e të kërkimit shkencor të publikojë në Buletinin e Njoftimeve Zyrtare përfundimin e zhvillimeve teknike për realizimin e procedurës në Sistemin Shqiptar të Informacionit të Kërkimit Shkencor (ACRIS).
