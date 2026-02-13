@@ -3,36 +3,36 @@ Lidhja nr. 1
 Struktura dhe nivelet e pagave për punonjësit e Shërbimit të Mbrojtjes nga Zjarri dhe Shpëtimin
 Niveli
 Grada
-Paga bazë për gradë
+Paga për gradë
 Shtesa për natyrë të veçantë pune
 Niveli bazë
-Asistent zjarrfikës
-60,000
+Asistent Zjarrfikës
+65,000
 7,000
 Zjarrfikës
-65,000
+69,000
 8,000
 Kryezjarrfikës
-70,000
+73,500
 8,000
 Niveli i mesëm
-Inspektor zjarrfikës
-75,000
-6,000
-Kryeinspektor Zjarrfikës
-85,000
+Nënkomisar zjarrfikës
+78,000
 6,000
 Komisar zjarrfikës
-105,000
+88,000
+6,000
+Kryekomisar zjarrfikës
+108,000
 6,000
 Niveli i lartë
-Drejtues zjarrfikës
-115,000
+Drejtues Zjarrfikës
+118,000
 6,000
-Drejtues i parë zjarrfikës
-140,000
+Drejtues i Parë Zjarrfikës
+143,500
 6,000
 Niveli madhor
-Drejtues i lartë zjarrfikës
-160,000
+Drejtues i Lartë Zjarrfikës
+164,000
 6,000
