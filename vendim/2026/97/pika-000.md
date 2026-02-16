@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit shoqërues ndërmjet Republikës së Shqipërisë (marrësi), të përfaqësuar nga Ministria e Financave, dhe Korporatës Elektroenergjetike Shqiptare (KESH) (agjencia e zbatimit të projektit) dhe KfW, Frankfurt am Main (KfW), masat shoqëruese për projektin “Rehabilitimi i hidrocentralit të Fierzës”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
