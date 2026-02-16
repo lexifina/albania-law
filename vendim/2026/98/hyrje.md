@@ -1,0 +1,5 @@
+VENDIM
+Nr. 98, datë 11.2.2026
+PËR MIRATIMIN E MARRËVESHJES SË GRANTIT DHE PROJEKTIT NDËRMJET REPUBLIKËS SË SHQIPËRISË (MARRËSI), TË PËRFAQËSUAR NGA MINISTRIA E FINANCAVE DHE KORPORATËS ELEKTROENERGJETIKE SHQIPTARE (KESH) (AGJENCIA E ZBATIMIT TË PROJEKTIT), DHE KfW, FRANKFURT AM MAIN (KfW), PËR FINANCIMIN E PROJEKTIT “REHABILITIMI I HIDROCENTRALIT TË FIERZËS”
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 19 të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, të ndryshuar, me propozimin e ministrit të Financave, Këshilli i Ministrave
+VENDOSI:
