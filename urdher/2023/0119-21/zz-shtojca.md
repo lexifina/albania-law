@@ -205,3 +205,5 @@ Miratoi: A. Mësonjësi
 M. Dobruna
 Konfirmoi: O. Muzaka
 R. Kristo
+Shtojca 1
+Zona me regjim të kufizuar peshkimi fundor (ndalim peshkimi fundor në periudhën 15 shtator-31 dhjetor të çdo viti)
