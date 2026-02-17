@@ -1,0 +1,1 @@
+5. Aplikimi bëhet kundrejt tarifave financiare të përcaktuara në udhëzimin e përbashkët nr. 35, datë 5.2.2016, të ministrit të Brendshëm dhe të ministrit të Financave, “Për miratimin e tarifave për shërbimet e ofruara nga Policia e Shtetit.”

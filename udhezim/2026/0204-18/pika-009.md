@@ -1,0 +1,1 @@
+9. Aplikanti plotëson formularin dhe e dorëzon bashkëlidhur me dokumentacionin e kërkuar në strukturën e burimeve njerëzore në drejtorinë vendore të policisë, ku aplikanti ka vendbanimin e përhershëm.

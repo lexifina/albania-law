@@ -1,0 +1,1 @@
+15. Strukturat vendore të burimeve njerëzore njoftojnë me shkrim dhe nëpërmjet postës elektronike aplikantin që nuk kualifikohet dhe arsyet e skualifikimit. Aplikantët kanë të drejtën e ankimit në Komisionin Vendor të Ankimeve, të ngritur me urdhër të drejtorit të përgjithshëm të Policisë së Shtetit.

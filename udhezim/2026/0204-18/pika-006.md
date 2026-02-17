@@ -1,0 +1,1 @@
+6. Urdhri i drejtorit të përgjithshëm të Policisë së Shtetit për hapjen e fazës së aplikimeve publikohet në faqen zyrtare të Policisë së Shtetit, në median e shkruar dhe atë audiovizive, nga struktura përgjegjëse për komunikimin me median dhe publikun.

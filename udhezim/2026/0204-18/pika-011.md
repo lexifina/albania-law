@@ -1,0 +1,1 @@
+11. Nëse gjatë shqyrtimit të dokumentacionit, rezulton se aplikanti nuk ka dorëzuar të gjithë dokumentacionin e nevojshëm, struktura përgjegjëse kthen dosjen për plotësim. Afati për plotësimin e dokumentacionit është 2 (dy) ditë pune, duke llogaritur afatin e përgjithshëm të kësaj faze, të përcaktuar në shkronjën “a”, të pikës 7, të këtij kreu.
