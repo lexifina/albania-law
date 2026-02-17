@@ -1,1 +1,0 @@
-2. Informacion mbi numrin e familjeve që përfitojnë ndihmë ekonomike nga fondet e buxhetit të bashkisë/komunës sipas përbërjes së saj me anëtarë, numrin e familjeve dhe individëve në skemën e ndihmës ekonomike, numrin e kryefamiljareve gra dhe fondet për familje/individë. Të dhënat plotësohen sipas mod.1, tab.2, bashkëlidhur këtij udhëzimi.
