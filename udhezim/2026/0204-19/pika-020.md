@@ -1,0 +1,1 @@
+20. Kandidatët që përfundojnë me sukses fazat e mësipërme, ndjekin programin e formimit të miratuar nga Senati Akademik në Akademinë e Sigurisë, i cili përfundon me emërimin në rolin e parë drejtues dhe dhënien e gradës “Nënkomisar”.

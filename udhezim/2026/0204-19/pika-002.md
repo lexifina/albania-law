@@ -1,0 +1,4 @@
+2. Kandidatët duhet të plotësojnë edhe kriteret e përgjithshme të parashikuara në nenin 70 të ligjit nr. 82/2024, “Për Policinë e Shtetit”.
+IV. FAZAT E PROCESIT TË APLIKIMIT DHE PRANIMIT NË ROLIN E PARË DREJTUES NË POLICINË E SHTETIT
+1. Shpallja e konkurrimit për pranimin në rolin e parë drejtues bëhet vetëm për kategoritë e përcaktuara në shkronjën “b” dhe “c”, të pikës 1, të kreut III, të këtij udhëzimi. Punonjësit e përcaktuar në shkronjën “a” të kësaj pike, nuk i nënshtrohen konkurrimit, por pranohen në Policinë e Shtetit, pasi kanë kaluar me sukses testin e aftësive dhe testin psikologjik, si dhe kanë kryer programin përkatës të formimit bazë të punonjësve të Policisë së Shtetit.
+2. Aplikimi dhe verifikimi i dokumenteve realizohet nga strukturat përgjegjëse në Drejtorinë e Përgjithshme të Policisë së Shtetit dhe në strukturën e burimeve njerëzore në drejtoritë vendore të policisë.

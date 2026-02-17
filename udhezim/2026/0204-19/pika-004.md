@@ -1,0 +1,1 @@
+4. Kontrolli shëndetësor përfshin vizita të përgjithshme mjekësore, ekzaminime të specializuara dhe vlerësim të shëndetit mendor. Organizimi dhe menaxhimi bëhet nga Komisioni i Kontrollit Shëndetësor ose mund të kryhet në institucione të posaçme, sipas vendimit të komisionit.
