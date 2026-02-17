@@ -1,0 +1,1 @@
+3. Ngarkohet Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës dhe Inspektorati që mbulon fushën e peshkimit për zbatimin e pikave 94, 219-225, 229-232, si dhe shtojcat 6-7 të rekomandimit 25-04 të ICCAT-it.

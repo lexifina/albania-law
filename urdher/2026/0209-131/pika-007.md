@@ -1,0 +1,1 @@
+7. Urdhri nr. 140, datë 13.2.2025, “Për zbatimin e rekomandimit 24-05 të ICCAT-it për ndryshimin e rekomandimit 22-08, për hartimin e një plani menaxhimi shumëvjeçar për tonin e kuq në Atlantikun Lindor dhe Detin Mesdhe” [rek. ICCAT 24-05] shfuqizohet.

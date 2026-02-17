@@ -1,0 +1,1 @@
+1. Zbatimin e rekomandimit 25-04 të ICCAT-it, “Për zëvendësimin e rekomandimit 24-05, për hartimin e një plani menaxhimi shumëvjeçar për tonin në Atlantikun Lindor dhe detin Mesdhe”, bashkëlidhur këtij urdhri dhe që është pjesë përbërëse e tij.
