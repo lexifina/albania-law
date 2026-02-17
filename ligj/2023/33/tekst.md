@@ -6,6 +6,10 @@ PËR NJË NDRYSHIM NË LIGJIN NR. 96/2016 “PËR STATUSIN E GJYQTARËVE
 
 DHE PROKURORËVE NË REPUBLIKËN E SHQIPËRISË”, TË NDRYSHUAR
 
+(Ndryshuar me vendimin e Gjykatës Kushtetuese nr. 15, datë 17.2.2026)
+
+(i përditësuar)
+
 Në mbështetje të neneve 81 dhe 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 KUVENDI
@@ -18,17 +22,21 @@ Në ligjin nr. 96/2016 “Për statusin e gjyqtarëve dhe prokurorëve në Repub
 
 Neni 1
 
+(Shfuqizuar fjalia e parë e shkronjës “a” me vendimin e Gjykatës Kushtetuese nr. 15, datë 17.2.2026)
+
 Shkronja “a” e pikës 5 të nenit 12 ndryshohet si më poshtë:
 
-“a) paga referuese bazë për funksionet gjyqësore dhe të prokurorisë, e cila është e njëjtë me shumëzimin e koeficientit 0.36 me pagën e Presidentit të Republikës. Paga referuese bazë për funksionet gjyqësore dhe të prokurorisë indeksohet me vendim të Këshillit të Ministrave jo më vonë se dy vjet nga indeksimi i fundit. Niveli i indeksimit në çdo rast nuk kalon një pikë përqindjeje mbi nivelin e targetuar të inflacionit nga Banka e Shqipërisë.”.
+“a) Paga referuese bazë për funksionet gjyqësore dhe të prokurorisë indeksohet me vendim të Këshillit të Ministrave jo më vonë se dy vjet nga indeksimi i fundit. Niveli i indeksimit në çdo rast nuk kalon një pikë përqindjeje mbi nivelin e targetuar të inflacionit nga Banka e Shqipërisë.”.
 
 Neni 2
 
 Dispozitë tranzitore
 
+(Shfuqizuar pika 2 me vendimin e Gjykatës Kushtetuese nr. 15, datë 17.2.2026)
+
 1. Paga referuese bazë për funksionet gjyqësore dhe të prokurorisë indeksohet për herë të parë nga Këshilli i Ministrave jo më herët se data 1.1.2026.
 
-2. Për vitin 2023 paga referuese bazë për funksionet gjyqësore dhe të prokurorisë përllogaritet sipas këtij ligji nga data 1 prill, duke u bazuar, për efekt të përllogaritjes, në pagën e Presidentit të Republikës me vlerë 425000 (katërqind e njëzet e pesë mijë) lekë.
+2. Shfuqizuar.
 
 Neni 3
 
