@@ -1,0 +1,3 @@
+4. Statistikat për gratë përfshijnë të dhëna mbi:
+a) Numrin e shërbimeve publike rezidenciale apo ditore, që ofrohen për gratë, sipas llojit të shërbimeve, grup-moshave, vendbanimit, statusit social, arsimor, familjar dhe punësimit, si edhe burimin e financimit dhe fondet e përdorura, sipas modulit 3, tabela 5, bashkëlidhur këtij udhëzimi.
+b) Numrin e shërbimeve jopublike rezidenciale apo ditore, që ofrohen për gratë, nga OJF-të vendëse apo të huaja, private, numrin e përfituesve, llojit të shërbimeve, grup-moshave, vendbanimit, statusit social, arsimor, familjar dhe punësimit, si edhe burimin e financimit dhe fondet e përdoruara sipas modulit 3, tabela 6, bashkëlidhur këtij udhëzimi.

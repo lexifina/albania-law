@@ -1,0 +1,3 @@
+3. Statistikat për të rinjtë përfshijnë të dhëna mbi:
+a) Numrin e shërbimeve publike rezidenciale apo ditore, që ofrohen për të rinjtë, sipas llojit të shërbimeve, grup-moshave, gjinisë, vendbanimit, statusit social, arsimor dhe familjar, si edhe fondet e përdorura sipas modulit 3, tabela 3, bashkëlidhur këtij udhëzimi.
+b) Numrin e shërbimeve jopublike rezidenciale apo ditore, që ofrojnë shërbime për të rinjtë, nga OJF-të vendëse apo të huaja, private etj., numrin e përfituesve, llojit të shërbimeve, grup- moshave, gjinisë, vendbanimit, statusit social, arsimor dhe familjar, si edhe burimin e financimit dhe fondet e përdoruara sipas modulit 3, tabela 4, bashkëlidhur këtij udhëzimi.

@@ -1,0 +1,3 @@
+7. Periodiciteti i dërgimit të treguesve statistikorë të programit të shërbimeve të përkujdesjes shoqërore realizohet, si më poshtë:
+a) Treguesit statistikorë që formulohen dhe dërgohen nga bashkia, sipas pikës III të këtij udhëzimi përcillen një herë në 2 muaj, brenda datës 10 të muajit pasardhës, pranë Drejtorisë Rajonale të Shërbimit Social Shtetëror dhe një kopje në sektorin e shërbimeve të përkujdesjes shoqërore në nivel qarku.
+b) Drejtoritë rajonale, brenda datës 15 të muajit pasardhës, e përcjellin informacionin e përpunuar në Drejtorinë e Përgjithshme të Shërbimit Social Shtetëror, e cila brenda datës 30 të muajit pasardhës e përcjell në ministrinë përgjegjëse për çështjet sociale.
