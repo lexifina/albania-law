@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Departamentit të Administratës Publike, znj. Enkela Dudushi, drejtor i Njësisë së Politikave dhe Programeve të Zhvillimit të Administratës Publike në Departamentin e Administratës Publike.
