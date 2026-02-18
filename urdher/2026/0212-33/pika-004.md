@@ -1,0 +1,1 @@
+4. Kryetari i Kolegjit të Posaçëm të Apelimit do të mbikëqyrë realizimin e kompetencave të deleguara, si dhe do të revokojë çdo akt që nuk do të jetë në përputhje me fushën e veprimtarisë së institucionit.

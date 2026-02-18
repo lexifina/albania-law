@@ -1,0 +1,1 @@
+2. Përjashtimisht sa përcaktohet në pikën 1, komunikimet drejtuar Operacionit Ndërkombëtar të Monitorimit, Presidentit të Republikës, Kuvendit të Shqipërisë, Kryeministrit, ministrave, titullarëve të institucioneve kushtetuese, përfaqësive diplomatike, nënshkruhen nga kryetari i Kolegjit.
