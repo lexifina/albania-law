@@ -1,0 +1,12 @@
+# Neni 4
+Programi 2: Trajtimi dhe këshillimi
+1. Programi 2: Trajtimi dhe këshillimi synon të ofrojë këshillimin dhe mbështetjen për çdo lojtar që është i prekur nga varësia e lojërave të fatit. Ky program ofrohet edhe për familjarët dhe të afërmit e personave me varësi, duke i këshilluar për mënyrë se si mund t’ju ofrojnë ndihmë këtyre personave, me qëllim parandalimin e kësaj varësie.
+2. Ky program përfshin:
+2.1 Këshillimin me telefon, ku në faqen zyrtare të AMLF-së të publikohet numri i telefonit që vihet në dispozicion të çdo lojtari apo të afërmi të tij. Këshillimi me telefon synon të ofrojë ndihmën, apo këshillimin e duhur, që i nevojitet çdo lojtari, apo të afërmi të tij, për të parandaluar varësinë nga lojërat e fatit, apo minimizimin e pasojave të ardhura tashmë nga përdorimi i lojërave të fatit. Nuk është e detyrueshme që lojtari të identifikohet, me qëllim për të mos u kufizuar nga kjo e drejtë, por edhe në rast se identifikohet ruhet privatësia dhe konfidencialiteti në përputhje me legjislacionin në fuqi.
+2.2 Në dispozicion për të komunikuar me këta lojtarë do të jetë një punonjës i trajnuar i AMLF-së, për t’u dhënë ndihmën e nevojshme këtyre personave. Në varësi të problematikave që shfaq lojtari, apo i afërmi i tij, punonjësi i AMLF-së, në bashkëpunim me MSHMS-në, apo institucione/organizata të tjera mund t’u ofrojë këtyre lojtarëve ndihmë të vazhduar dhe më të specializuar nga një psikolog apo punonjës social. Në këtë rast, është e detyrueshme sjellja e kujdesshme dhe bashkëpunuese që duhet të tregohet ndaj lojtarit dhe dokumentimi i rastit përkatës.
+2.3 Këshillimi online është mundësia që i jepet çdo lojtari apo të afërmi të tij, që nëpërmjet chat-it online të ngritur në faqen zyrtare të AMLF-së, t’i ofrohet mundësia për këshillim, apo ndihmë, me qëllim parandalimin e varësisë nga lojërat e fatit. Nuk është e detyrueshme që lojtari të identifikohet, me qëllim për të mos u kufizuar nga kjo e drejtë, por edhe në rast se identifikohet ruhet privatësia dhe konfidencialiteti, në përputhje me legjislacionin në fuqi për mbrojtjen e të dhënave personale. Këshillimi nënkupton sipas rastit ndihmë dhe mbështetje, lidhur me:
+a) paralajmërime të qarta për rrezikun e varësisë;
+b) udhëzime për vetëpërjashtimin;
+c) informacion për linjat e ndihmës dhe shërbimet që ofrohen edhe nga MSHMS-ja;
+ç) trajtim me psikolog dhe punonjës social;
+d) elemente edukative që nxisin sjellje të përgjegjshme dhe të kontrolluar.

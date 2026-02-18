@@ -1,0 +1,8 @@
+# Neni 12
+Roli dhe detyrat e Ministrisë së Shëndetësisë dhe Mirëqenies Sociale
+1. MSHMS-ja cakton një koordinator si person përgjegjës që koordinon veprimet dhe masat me institucionet dhe organizatat për zbatimin e programeve të dedikuara të mbrojtjes së lojtarëve.
+2. MSHMS-ja, në bashkëpunim me institucionet e tjera përgjegjëse organizon çdo vit “Javën Kombëtare të Ndërgjegjësimit për Varësinë nga Lojërat e Fatit”, me aktivitete në institucionet shëndetësore, shërbimet sociale, shkolla, media dhe platforma sociale, me synim informimin dhe edukimin e publikut mbi rreziqet e varësisë.
+3. MSHMS-ja ka të drejtën të paraqesë kërkesë për mbështetje me projekte nga Këshilli i Mbështetjes së Projekteve, për të përfituar programe me fokus mbështetjen sociale të lojtarit dhe rehabilitimin, riintegrimin e tij në shoqëri, në përputhje me kriteret dhe procedurat e legjislacionit në fuqi për lojërat e fatit.
+4. Të gjitha institucionet përgjegjëse për mbrojtjen sociale në varësi të MSHMS-së, kanë për detyrë që në kuadër të funksionimit të tyre të zbatojnë ndërhyrje ndërgjegjësuese dhe sensibilizuese për parandalimin e varësisë nga lojërat e fatit dhe të promovojnë kërkimin e ndihmës për të trajtuar këtë varësi.
+5. MSHMS-ja, nëpërmjet koordinatorit, mban komunikimin institucional me strukturat përgjegjëse të bashkive për adresimin, shkëmbimin e informacionit për gjendjen e lojtarit dhe zbatimin e programeve të dedikuara, në zbatim të këtij udhëzimi.
+6. MSHMS-ja, bazuar në raportimin e kryer nga institucionet përgjegjëse, përgatit raportin kombëtar vjetor për parandalimin e varësisë së lojërave të fatit. Raportet përfshijnë të dhëna statistikore, numrin e rasteve të identifikuara, aktivitetet ndërgjegjësuese dhe masat rehabilituese të ndërmarra.
