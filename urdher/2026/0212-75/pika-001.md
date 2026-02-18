@@ -1,0 +1,1 @@
+1. Delegimin e të gjitha kompetencave të drejtorit të përgjithshëm të Autoritetit Kombëtar të Sigurisë Kibernetike dhe të nëpunësit të autorizuar, z. Saimir Kapllani, drejtor, Drejtoria e Analizës së Përputhshmërisë, Riskut dhe Kontrollit të Masave të Sigurisë Kibernetike.

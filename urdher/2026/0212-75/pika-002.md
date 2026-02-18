@@ -1,0 +1,1 @@
+2. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor për Autoritetin Kombëtar të Sigurisë Kibernetike, z. Saimir Kapllani, drejtor, Drejtoria e Analizës së Përputhshmërisë, Riskut dhe Kontrollit të Masave të Sigurisë Kibernetike.

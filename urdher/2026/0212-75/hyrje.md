@@ -1,0 +1,5 @@
+URDHËR
+Nr. 75, datë 12.2.2026
+PËR DELEGIMIN E KOMPETENCAVE
+Në mbështetje të neneve 28 e 29, të ligjit nr. 44/2015, “Kodi i Procedurave Administrative i Republikës së Shqipërisë”, të ndryshuar; të ligjit nr. 90/2012, “Për organizimin dhe funksionimin e administratës shtetërore”; të ligjit nr. 25/2024, “Për sigurinë kibernetike”; të ligjit nr. 10296, datë 8.7.2010, “Për menaxhimin financiar dhe kontrollin”, të ndryshuar; të pikës 5, të nenit 21, të ligjit nr. 162/2020, datë 23.12.2020, “Për prokurimin publik”, të ndryshuar; të kreut IX, neni 73, pika 2, të vendimit nr. 285, datë 19.5.2021, të Këshillit të Ministrave, “Për miratimin e rregullave të prokurimit publik”; vendimit nr. 783, datë 18.12.2024, të Këshillit të Ministrave, “Për organizimin dhe funksionimin e Autoritetit Kombëtar për Sigurinë Kibernetike”; të rregullores së brendshme të miratuar me urdhër të Kryeministrit nr. 201, datë 20.11.2023, “Për miratimin e rregullores se brendshme ’Për organizimin dhe funksionimin e Autoritetit Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike’”,
+URDHËROJ:
