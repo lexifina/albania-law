@@ -1,0 +1,10 @@
+# Neni 2
+Përkufizime
+1. Në këtë udhëzim, termat e mëposhtëm kanë këto kuptime:
+a) “përpunimi i të dhënave personale për qëllime policore” është përpunimi i të dhënave personale nga Policia e Shtetit, me qëllim ruajtjen e rendit dhe sigurisë publike, parandalimin dhe zbulimin e veprave penale, mbrojtjen dhe parandalimin e kërcënimeve për sigurinë publike, duke përfshirë operacionet policore (që kryhen me të dhëna personale ose grupe të të dhënave personale, me mjete automatike ose jo), si: mbledhja, regjistrimi, organizimi, strukturimi, ruajtja, përshtatja ose ndryshimi, tërheqja, konsultimi, përdorimi, deklarimi nëpërmjet transmetimit, shpërndarja ose ofrimi, njësimi ose kombinimi, kufizimi, fshirja ose asgjësimi;
+b) “ndalimi i përkohshëm policor” është dërgimi i shtetasit në ambientet e policisë, në institucionet shëndetësore, në qendrat e rehabilitimit, te kujdestari ligjor ose personi përgjegjës, në institucionin epror ose në institucionet e tjera me ose pa vullnetin e tij, sipas përcaktimeve të bëra në nenin 19, të ligjit 82/2024, “Për Policinë e Shtetit” (në vijim “ligji nr. 82/2024”);
+c) “ndalim” ka të njëjtin kuptim me atë të parashikuar në nenin 253, të Kodit të Procedurës Penale;
+d) “arrestim” ka të njëjtin kuptim me atë të parashikuar në nenin 251, të Kodit të Procedurës Penale;
+e) “arrestim i përkohshëm” ka të njëjtin kuptim me atë të parashikuar në nenin 495, të Kodit të Procedurës Penale;
+f) “profilizimi i të dhënave” i referohet përpunimit të automatizuar të të dhënave personale për të vlerësuar karakteristikat e një individi, siç janë sjellja, preferencat ose vendndodhja e tij, për të parashikuar ose analizuar aspekte të personalitetit, ose performancës së tij. Kjo përfshin përdorimin e të dhënave për të marrë vendime që ndikojnë ndjeshëm te jeta private e individit.
+2. Terma të tjerë, të përdorur në këtë udhëzim, kanë të njëjtin kuptim me ato të nenit 3, të ligjit nr. 82/2024, dhe të nenit 5, të ligjit nr. 124/2024, “Për mbrojtjen e të dhënave personale” (në vijim “ligjit 124/2024”).
