@@ -1,5 +1,5 @@
 1. Delegimin te Sekretari i Përgjithshëm i Ministrisë së Financave të kompetencave funksionale si vijon:
-a) lëshimin e autorizimeve për përfaqësim ligjor, të Ministrisë së Financave, në proceset gjyqësore ku thirret si palë në gjykim apo si subjekt i interesuar dhe nënshkrimin e akteve procedurale, të tilla si: kërkesëpadi, ankime, rekurse, kërkesa për pezullim ekzekutim vendimi;
+a) Lëshimin e autorizimeve për përfaqësimin ligjor të Ministrisë së Financave në të gjitha proceset gjyqësore dhe procedurat gjyqësore, në të cilat ministria paraqitet si palë në gjykim ose si subjekt i interesuar, si dhe për hartimin, nënshkrimin dhe paraqitjen e kërkesëpadive, dhe të çdo akti tjetër procedural, në përputhje me formatin e autorizimit që i bashkëlidhet këtij urdhri dhe që përbën pjesë përbërëse të tij;
 b) përcaktimin e numrit të punonjësve që shoqërojnë delegacionet e huaja dhe miratimin e programeve për shërbimet e pritje-përcjellje që organizon ministri i Financave;
 c) miratimin e kërkesave për kryerjen e orëve shtesë të punës, për punonjësit e strukturës së ministrisë, sipas legjislacionit në fuqi;
 ç) nënshkrimin e kontratave të punës, si dhe aktet për përfundimin e marrëdhënies së punës, për pozicionet që rregullohen me Kodin e Punës së Republikës së Shqipërisë;
