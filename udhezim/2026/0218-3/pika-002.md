@@ -1,0 +1,1 @@
+2. Testi është i integruar dhe përmban njohuri nga lëndët gjuhë shqipe, matematikë dhe dituri natyre, bazuar në programin orientues për Vlerësimin e Arritjeve të Nxënësve në Arsimin Fillor, përgatitur nga ASCAP-i.
