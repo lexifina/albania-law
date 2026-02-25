@@ -1,0 +1,28 @@
+{
+  "qbz_id": 32568,
+  "title": "Mbi dhënien e autorizimit nga ERE për ndryshimin e ortakut që kontrollon interesat e shoqërisë “Parisol” sh.p.k.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "44",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2026-02-11",
+  "published": "2026-02-25",
+  "in_force": "2026-02-25",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a427489b92a6be3f0509176a751fcaa93ecc840ab49e538a6190b81b714a1c3c.docx",
+  "source_sha256": "a427489b92a6be3f0509176a751fcaa93ecc840ab49e538a6190b81b714a1c3c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/32568",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2026/02/11/44",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    34197
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
