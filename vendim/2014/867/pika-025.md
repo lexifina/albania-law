@@ -27,15 +27,26 @@ e) mjetet financiare, nëse është e nevojshme;
 16. Caktimi i ekspertëve të jashtëm bëhet nga ministri përgjegjës kryesor.
 17. Nëpunësit e caktuar duhet që menjëherë t’i bëjnë me dije titullarit të tyre nëse kanë konflikt interesi. Në të njëjtën mënyrë veprohet edhe nëse konflikti i interesit zbulohet më vonë.
 18. Në rastin e përcaktuar nga pika 17, e kreut III, të këtij vendimi, ose në çdo rast tjetër pamundësie ligjore të nëpunësve të caktuar për të marrë pjesë në grupin e përbashkët, titullarët e institucioneve të përfaqësuara bëjnë zëvendësimet përkatëse.
+18/1. Nëpunësit dhe ekspertët e jashtëm, të cilët caktohen për të qenë pjesë e grupit të përbashkët, nënshkruajnë deklaratën me shkrim, ku pranojnë detyrat dhe përgjegjësitë e punës në grupin e përbashkët, duke u zotuar të ushtrojnë me përgjegjshmëri dhe integritet funksionet në grupin e përbashkët, duke shërbyer me ndershmëri e profesionalizëm, brenda fushës së tyre të përgjegjësisë dhe ekspertizës.
+18/2. Secili anëtar i grupit të përbashkët mban përgjegjësi ligjore individuale për punën dhe veprimtarinë e tij, në kuadër të kryerjes së detyrave që i janë caktuar. Përgjegjësia ligjore është e kufizuar brenda fushës së tij të përgjegjësisë, nivelit të ekspertizës dhe veprimtarisë, detyrës e kontributit të dhënë apo të kërkuar, në kuadër të detyrave/projektit të grupit të përbashkët.
 19. Drejtuesi i grupit të përbashkët ka këto funksione:
 a) Përfaqëson dhe drejton grupin e përbashkët;
 b) U kërkon institucioneve të tjera përgjegjëse shpjegime, relatime dhe verifikime administrative për çështje të fushës që ata mbulojnë dhe që i shërbejnë punës së grupit të përbashkët. Në këtë rast, zbatohen me analogji dispozitat e kreut II, të këtij vendimi;
 c) Organizon dhe asiston në mbarëvajtjen e mbledhjeve të grupit të përbashkët;
 ç) Ndjek procesin e vendimmarrjes së grupit të përbashkët, që nga paraqitja e projekteve për shqyrtim e deri sa ato marrin formë të plotë;
-d) Përcakton detyrat për secilin prej anëtarëve të grupit të përbashkët dhe kontrollon zbatimin e tyre;
-dh) Kryen çdo veprim tjetër të nevojshëm për realizimin e qëllimit, objektit dhe detyrave, për të cilat është ngritur grupi i përbashkët.
+d) Përcakton detyrat konkrete për secilin prej anëtarëve të grupit të përbashkët, duke marrë në konsideratë:
+i. detyrën e përbashkët/projektin e përcaktuar, sipas pikës 9, të këtij kreu;
+ii. fushën e përgjegjësisë që mbulon secili anëtar i grupit të punës;
+iii. ekspertizën dhe eksperiencën e secilit anëtar të grupit të punës;
+iv. institucionin që përfaqëson anëtari i grupit të punës dhe, në rastin e ekspertëve të jashtëm, profilin dhe kualifikimin, si dhe arsyet e angazhimit të tij, të përcaktuara në urdhrin për ngritjen e grupit të punës.
+dh) Kontrollon zbatimin e detyrave për secilin prej anëtarëve të grupit të përbashkët dhe mund të kërkojë zëvendësimin e tyre, në rast se performanca e anëtarit është e ulët dhe/ose përbën pengesë për funksionimin dhe mbarëvajtjen e punës.
+e) Identifikon dhe individualizon kontributin e secilit anëtar të grupit të përbashkët;
+ë) Kujdeset për përgatitjen e procesverbalit për secilën mbledhje të grupit të përbashkët dhe evidentimin në të të kontributeve individuale të secilit anëtar të grupit të përbashkët;
+f) Në përfundim të veprimtarisë së grupit, përmbledh të gjithë dokumentacionin që dëshmon punën dhe kontributin e secilit anëtar dhe ia bashkëlidh ato procesverbaleve të punës që arkivohen, sipas përcaktimeve të bëra në urdhrin për ngritjen e grupit;
+g) Kryen çdo veprim tjetër të nevojshëm për realizimin e qëllimit, objektit dhe detyrave, për të cilat është ngritur grupi i përbashkët.
 20. Mbledhjet e grupit janë të vlefshme kur në të marrin pjesë të paktën 2/3 e anëtarëve të grupit.
-21. Për shkaqe të arsyeshme, kur mungon njëri prej anëtarëve të grupit, drejtuesi i tij mund të vendosë shtyrjen e mbledhjes për një datë tjetër.
+20/1. Mbledhjet e grupit evidentohen përmes procesverbalit që përgatitet për çdo mbledhje të grupit të punës. Në procesverbalin për çdo mbledhje shënohen diskutimet, kontributet dhe e gjithë veprimtaria e punës së grupit të përbashkët. Procesverbali miratohet dhe nënshkruhet në mbledhjen e ardhshme të grupit.
+21. Për shkaqe të arsyeshme, kur mungon njëri prej anëtarëve të grupit, drejtuesi i tij mund të vendosë shtyrjen e mbledhjes për një datë tjetër. Në rast se mungesa e anëtarit është e përsëritur dhe përbën pengesë për punën e grupit të punës, drejtuesi i grupit mund të kërkojë zëvendësimin e tij, pranë titullarit të institucionit që e ka caktuar.
 22. Vendimet në grupin e punës merren me votim nominal dhe me shumicën e votave të të gjithë anëtarëve të grupit. Në rast të barazisë së votave, vota e kryetarit të grupit është përcaktuese.
 23. Në urdhrin për ngritjen e grupit të përbashkët të punës duhet të përcaktohen saktësisht mjediset dhe mjetet e nevojshme materiale, të cilat do t’i shërbejnë grupit të përbashkët për realizimin e detyrave të tij funksionale. Në rast se janë përfshirë disa institucione, në urdhër përcaktohet përgjegjësia e çdo institucioni.
 24. Në urdhrin për ngritjen e grupit të përbashkët të punës duhet të përcaktohen saktësisht mjetet buxhetore dhe financiare që duhet të mbulojnë veprimtarinë e tij, ku përfshihet, nëse ka, edhe pagesa e ekspertëve të jashtëm. Në rast se këto mjete nuk mbulohen nga buxhetet e institucioneve të përfshira ose nuk ishin parashikuar në fondet e tyre, atëherë përpara ngritjes së grupit kërkohet detyrimisht mendimi nga Ministria e Financave.
