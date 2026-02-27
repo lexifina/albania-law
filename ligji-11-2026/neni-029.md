@@ -1,0 +1,6 @@
+# Neni 29
+Organi kompetent për lëshimin e urdhrave të mbrojtjes
+1. Organi kompetent për lëshimin e urdhrave mbrojtës në rastet e dhunës ndaj grave dhe dhunës në familje, të parashikuara nga ky ligj, është gjykata e juridiksionit të përgjithshëm e shkallës së parë, e vendbanimit ose vendndodhjes së viktimës apo dhunuesit.
+2. Gjykata lëshon urdhra mbrojtjeje sipas pikës 2 të nenit 18 të këtij ligji për marrjen e masave të nevojshme për mbrojtjen dhe sigurinë e viktimës e të personave në varësi, duke garantuar për secilin rast vendosjen e një ose disa prej masave mbrojtëse, të përmendura në nenet 19 deri në 22 të këtij ligji.
+3. Pala e interesuar mund t’i kërkojë gjykatës, sipas rastit, konform dispozitave të këtij ligji, lëshimin e urdhrit të mbrojtjes kundër dhunës ndaj grave ose dhunës në familje, pa kërkuar paraprakisht nxjerrjen e urdhrit të menjëhershëm të mbrojtjes.
+4. Pasi gjykata të ketë lëshuar një urdhër të menjëhershëm mbrojtjeje, pala e interesuar mund të kërkojë lëshimin e një urdhri mbrojtjeje, siç parashikohet në këtë ligj. Urdhri i mbrojtjes përkatës shërben për të rikonfirmuar vazhdimësinë e urdhrit të menjëhershëm të mbrojtjes, si dhe siguron zbatimin e masave mbrojtëse të përcaktuara sipas këtij ligji.

@@ -1,0 +1,19 @@
+# Neni 13
+Raportimi i dhunës
+1. Viktima e dhunës në familje raporton nëpërmjet një kërkese, pavarësisht formës, pranë Mekanizmit të Koordinuar të Referimit, përfshirë, por pa u kufizuar pranë:
+a) stacionit, komisariatit ose drejtorisë vendore të policisë më të afërt ku banon, ndodhet ose është ushtruar dhuna;
+b) njësisë së vetëqeverisjes vendore ku banon apo ndodhet ose është ushtruar dhuna;
+c) qendrës shëndetësore të zonës ku banon, ndodhet ose është ushtruar dhuna;
+ç) shërbimeve të kujdesit shoqëror, sipas legjislacionit në fuqi;
+d) qendrave të specializuara për viktimat e dhunës ndaj grave dhe dhunës në familje;
+dh) institucioneve të mbrojtjes së të drejtave të njeriut.
+2. Viktima e rasteve të tjera të dhunës ndaj grave raporton dhunën pranë mekanizmave të brendshëm, joformal dhe formal të subjektit publik ose privat, të përcaktuar për mbrojtjen ndaj dhunës, ngacmimit dhe ngacmimit seksual; mekanizmave të jashtëm, të përfshirë në pikën 1 të këtij neni, dhe, sipas rastit, inspektoratit përgjegjës për zbatimin e legjislacionit të punës, Komisionerit për Mbrojtjen nga Diskriminimi dhe/ose mekanizmave të të drejtave të njeriut.
+3. Viktima, sipas pikave 1 dhe 2 të këtij neni, mund t’i drejtohet njëkohësisht me kërkesëpadi edhe gjykatës së shkallës së parë të juridiksionit të përgjithshëm të vendbanimit ose vendndodhjes së tij/saj ose të dhunuesit për të kërkuar marrjen e masave të nevojshme për mbrojtje e siguri të viktimës dhe në rastin e dhunës në familje, sipas rastit, edhe marrjen e masave mbrojtëse ndaj pjesëtarëve të familjes.
+4. Fëmijët mund të raportojnë dhunë në familje dhe gëzojnë mbrojtje të njëjtë si viktima të drejtpërdrejta. Nëse ushtruesi i përgjegjësisë prindërore ose kujdestari është i përfshirë në aktin e dhunës, raportimi nga një fëmijë nuk varet nga pëlqimi i prindit ose i kujdestarit. Në rastet e raportimeve të fëmijëve zbatohen rregullat e legjislacionit në fuqi për të drejtat dhe mbrojtjen e fëmijës mbi parimet, autoritetet përgjegjëse dhe vlefshmërinë e deklaratës.
+5. Punonjësi i cilitdo autoritet, që merr dijeni, ka informacion ose konstaton një rast të ushtrimit të dhunës ndaj grave dhe dhunës në familje i drejtohet me anë të një kërkese autoriteteve sipas pikave 1 dhe 2 të këtij neni.
+6. Çdo person që konstaton një rast të ushtrimit të dhunës mund t’u drejtohet me anë të një kërkese autoriteteve, sipas pikave 1 dhe 2 të këtij neni, për të ndërmarrë masat e nevojshme.
+7. Në rastin e dhunës së raportuar nga të huajt dhe personat pa shtetësi, autoritetet përgjegjëse njoftojnë strukturat e migracionit për të marrë masat për pezullimin e menjëhershëm të çdo procedure largimi, duke garantuar mbrojtjen e viktimës deri në përfundimin e shqyrtimit të kërkesës për azil, si dhe për lejen e qëndrimit ose të rinovimit të saj, sipas legjislacionit në fuqi për të huajt dhe azilin.
+8. Raportimi i dhunës nëpërmjet teknologjisë së informacionit dhe komunikimeve të tjera të aksesueshme e të sigurta garanton ruajtjen e anonimatit në përputhje me interesin më të lartë të viktimës, veçanërisht në rastet me fëmijë, gra, vajza, të moshuar, persona me aftësi të kufizuara.
+9. Autoriteti kryesor përgjegjës në zbatim të këtij neni miraton:
+a) udhëzim të përbashkët me autoritetin përgjegjës për çështjet e rendit dhe sigurisë publike për përcaktimin e rregullave dhe procedurave, me qëllim raportimin e dhunës nëpërmjet teknologjisë së informacionit dhe komunikimeve të tjera, në zbatim të pikës 8 të këtij neni;
+b) udhëzim të përbashkët me autoritetin përgjegjës për çështjet e rendit dhe sigurisë publike për përcaktimin e rregullave për procedurat, afatet e lejes së qëndrimit dhe azilit, protokollet e bashkëpunimit e të bashkërendimit të veprimtarisë mes Mekanizmit të Koordinuar të Referimit dhe strukturave përgjegjëse të migracionit, në zbatim të pikës 7 të këtij neni.

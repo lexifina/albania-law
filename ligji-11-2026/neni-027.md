@@ -1,0 +1,17 @@
+# Neni 27
+Të drejtat dhe interesat e viktimave
+1. Të drejtat dhe interesat e viktimave, duke përfshirë nevojat e tyre të veçanta, si dëshmitarë, garantohen në të gjitha fazat procedurale të lëshimit të urdhrave të mbrojtjes, duke siguruar në veçanti:
+a) mbrojtjen e viktimave, të familjeve të tyre e të dëshmitarëve nga hakmarrja, kërcënimi dhe viktimizimi i përsëritur;
+b) informimin e viktimave të paktën në rastet kur viktima e familja mund të jenë në rrezik, kur autori i dhunës shkel urdhrin e mbrojtjes, si dhe informimin e viktimës në lidhje me lirimin e autorit të veprës penale dhe kthimin e tij në banesë;
+c) informimin e viktimave për të drejtat e tyre për shqyrtimin e kërkesës së tyre për urdhër mbrojtjeje, ecurinë e përgjithshme të procesit dhe rolin e tyre në to, si dhe rezultatin e çështjes së tyre;
+ç) të drejtat e viktimave për t’u dëgjuar, për të siguruar prova, për të paraqitur pikëpamjet, nevojat dhe shqetësimet e tyre, në mënyrë të drejtpërdrejtë ose nëpërmjet një përfaqësuesi, si dhe marrjen e tyre në shqyrtim;
+d) miratimin e masave për të mbrojtur jetën private dhe imazhin e viktimës;
+dh) marrjen e masave që kontakti ndërmjet viktimave dhe autorëve të dhunës brenda gjykatës, strukturave të Policisë së Shtetit e prokurorisë apo çdo institucioni tjetër të shmanget kur është e mundur;
+e) garantimin e përkthyesit të pavarur kur viktima palë në proces është shtetas i huaj ose kur sigurojnë prova, si dhe garantimi i një interpretuesi të gjuhës së shenjave ose lehtësues i komunikimit për personat me aftësi të kufizuara në të folur dhe në të dëgjuar;
+ë) dhënien e dëshmive në sallën e gjyqit pa qenë të pranishëm ose të paktën pa praninë e autorit të dhunës, veçanërisht nëpërmjet përdorimit të teknologjive të përshtatshme të komunikimit, kur janë në dispozicion dhe në varësi të vlerësimit të rrezikut të viktimës, viktima të pyetet nëpërmjet sistemit audioviziv;
+f) garantimin e masave të përshtatshme dhe të posaçme mbrojtjeje për fëmijët viktima dhe dëshmitarë të dhunës ndaj grave dhe dhunës në familje, kur është e nevojshme, duke marrë parasysh interesin më të mirë të fëmijës;
+g) garantimin për personat në varësi që konsiderohen si të rrezikuar në të njëjtën mënyrë, të njëjtat masa mbrojtjeje si ato që u ofrohen viktimave, përveç rasteve kur ka tregues që nuk kanë nevoja të veçanta për mbrojtje. Çdo masë që bazohet në supozimin e gabuar të ekzistencës së nevojave të veçanta për mbrojtje, konsiderohet joproporcionale;
+gj) pyetjen e viktimës në prani të një psikologu, punonjësi social ose koordinatorit të dhunës;
+h) shqyrtimin e çështjes së dhunës në familje edhe në mungesë të viktimës, duke garantuar përfaqësimin e saj me mbrojtës të zgjedhur ose mbrojtës të caktuar kryesisht nga gjykata.
+2. Kur është e rëndësishme për sigurinë e viktimave, autoritetet përgjegjëse kompetente informojnë viktimat për mundësinë e kërkimit të urdhrave mbrojtës dhe për mundësinë e njohjes së tyre në shtete të huaja.
+3. Autoritetet përgjegjëse në fushën e drejtësisë, Këshilli i Lartë Gjyqësor, gjykatat e juridiksionit të përgjithshëm të shkallës së parë dhe gjykata e juridiksionit të përgjithshëm e apelit për lëshimin e urdhrave të mbrojtjes, të parashikuara në nenet 19 deri në 22 të këtij ligji, mund të nxjerrin udhëzime të brendshme ose manuale procedurale për trajtimin e rasteve që kërkojnë lëshimin ose zbatimin e urdhrave përkatës të mbrojtjes, me natyrë këshilluese dhe bazuar në praktikat më të mira dhe rrethanat specifike të dhunës ndaj grave dhe dhunës në familje.

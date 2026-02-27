@@ -1,0 +1,6 @@
+# Neni 50
+Detyrat e ministrisë për çështjet e rendit dhe sigurisë, si autoritet përgjegjës i linjës
+Autoriteti përgjegjës i linjës për çështjet e rendit e të sigurisë publike dhe institucionet e varësisë, përveç detyrimeve të përgjithshme, sipas nenit 48 të këtij ligji, garanton zbatimin e tij edhe nëpërmjet:
+a) krijimit të seksioneve përgjegjëse pranë strukturave vendore të Policisë së Shtetit përmes masave të riorganizimit të brendshëm, me oficerë të policisë gjyqësore, në nivel komisariati, të trajnuar dhe të specializuar për dhunën në familje dhe dhunën ndaj grave, me qëllim parandalimin, mbrojtjen dhe luftën kundër dhunës ndaj grave dhe dhunës në familje;
+b) miratimit me udhëzim të përbashkët të autoritetit përgjegjës të linjës për çështjet e rendit e të sigurisë publike dhe të autoritetit kryesor përgjegjës, sipas këtij ligji, të modelit dhe të procedurave për vlerësimin e riskut për rastet e dhunës në familje, si dhe të formave të tjera të dhunës ndaj grave, të përcaktuara në këtë ligj, dhe detyrat hetimore të Policisë së Shtetit;
+c) miratimit me urdhër të drejtorit të Përgjithshëm të Policisë së Shtetit të përmbajtjes së të dhënave, formularëve me të dhëna të rasteve të dhunës ndaj grave dhe dhunës në familje, sipas këtij ligji, dhe mënyrës së numërimit të rasteve të raportuara.

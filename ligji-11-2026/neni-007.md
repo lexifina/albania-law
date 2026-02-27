@@ -1,0 +1,4 @@
+# Neni 7
+Dhunë psikologjike
+1. Dhunë psikologjike është çdo veprim ose mosveprim i qëllimshëm, që synon ose ka si pasojë dëmtimin e integritetit psikologjik, emocional ose të vetëvlerësimit të një personi, duke krijuar gjendje frike, pasigurie, cenim të dinjitetit, gjendje varësie ose ndjenjë inferioriteti nëpërmjet frikësimit, kërcënimit, fyerjes, denigrimit, poshtërimit, izolimit, kontrollit, manipulimit, mohimit të informacionit ose të së drejtës për të marrë vendime.
+2. Dhuna psikologjike përfshin, por pa u kufizuar, përdorimin e dhunës dhe presionit psikologjik, ekonomik, kërcënimit, shantazhit, mashtrimit, përndjekjes e çdo forme tjetër detyrimi, që cenon lirinë e vendimmarrjes, përfshirë shtrëngimin ose pengimin për të filluar apo për të vazhduar bashkëjetesën ose martesën, si dhe martesën dhe bashkëjetesën në moshë të hershme, pa pëlqimin e lirë e të informuar.

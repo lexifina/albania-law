@@ -1,0 +1,9 @@
+# Neni 55
+Detyrat e autoriteteve të informimit publik dhe medias
+Autoritetet e mediave dhe të teknologjisë së informacionit, si dhe subjektet publike e private në fushën e informimit publik dhe medias, sipas kompetencave të tyre ligjore, garantojnë zbatimin e këtij ligji përmes:
+a) nxitjes së hartimit të politikave, udhëzimeve, kodeve vetërregulluese, mekanizmave monitorues e të procedurave të trajtimit të ankesave, të harmonizuara me standardet ndërkombëtare për një mjedis të sigurt, të besueshëm, që garanton mbrojtjen e të drejtave të viktimave;
+b) parandalimit të dhunës ndaj grave dhe dhunës në familje, si dhe krijimin e mjediseve të sigurta në hapësirat mediatike e digjitale;
+c) përcaktimit të masave për heqjen e menjëhershme dhe ndalimin e transmetimit, botimit dhe/ose publikimit të materialeve e të informacioneve, përfshirë reklamat e përmbajtjet e platformave të shpërndarjes së komunikimeve dhe videove, raportimin mediatik, si dhe çdo formë komunikimi digjitale me publikun, që krijojnë ose nxisin dhunë ndaj grave dhe dhunë në familje;
+ç) monitorimit dhe ndalimit të gjuhës seksiste, gjuhës së urrejtjes, eliminimit të stereotipave gjinorë, paragjykimeve, zakoneve ose modeleve të sjelljeve shoqërore diskriminuese;
+dh) kultivimit të gjuhës së ndjeshme gjinore përmes hartimit, trajnimit dhe shpërndarjes së fjalorthëve të përshtatshëm në informimin publik e mediatik të mediave të shkruara, audiovizuale e elektronike;
+e) zbatimit të programit kombëtar të dijeve, njohurive dhe aftësive për të aksesuar, menaxhuar, kuptuar, integruar, komunikuar, vlerësuar dhe krijuar informacion në mënyrë të sigurt e të përshtatshëm (letrimit digjital) kundër dhunës së lehtësuar nga teknologjia, duke ofruar udhëzime për identifikimin e përmbajtjes së dëmshme, raportimin online dhe për mbështetjen e viktimave.
