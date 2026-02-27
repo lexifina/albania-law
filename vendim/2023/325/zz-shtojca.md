@@ -1,4 +1,5 @@
 # Shtojca
+Lidhja nr. 1
 Kategoritë e klasat e pozicioneve të punës, si dhe vlerat mujore të shtesave të pozicioneve të nëpunësve civilë dhe nëpunësve të institucioneve të përcaktuara në pikën 1, të kreut I, të këtij vendimi, me përjashtim të punonjësve të përcaktuar në pikën 2, të kreut II
 | | |Elementet e pagës bruto mujore, përjashtuar shtesat për kushte pune (natyrë |
 | | |të veçantë pune) dhe për kushte të vështira e të dëmshme për shëndetin, që |
@@ -13,22 +14,23 @@ Kategoritë e klasat e pozicioneve të punës, si dhe vlerat mujore të shtesave
 | | | | |shkronjën “ç”, të |
 | | | | |pikës 1, të kreut II) |
 |1 |2 |3 |4 |5 |
-| | |I-1 |235 000 |1 | |
+| | |I-1 |240 875 |1 | |
 |E lartë drejtuese |I | | | | |
-| | |I-1/1 |226 000 |1 | |
-| | |I-2 |217 000 |1 | |
-| | |I-3 |205 000 |1 | |
-| | |I-4 |180 000 |1 | |
-| | |I-5 |170 000 |1 | |
-|E mesme drejtuese |II |II-1 |155 000 |1 | |
-| | |II-2 |141 000 |1 | |
-|E ulët drejtuese |III |III-1 |115 000 |1 | |
-| | |III-2 |105 000 |1 | |
-| | |III-3 | 98 000 |1 | |
-|Ekzekutive |IV |IV-1 | 90 000 |1 ose 2 | |
-| | |IV-2 | 80 000 |1 ose 2, ose 3 | |
-| | |IV-3 | 70 000 |1 ose 2, ose 3 | |
-| | |IV-4 | 60 000 |1 ose 2, ose 3 | |
+| | |I-1/1 |231 650 |1 | |
+| | |I-2 |222 425 |1 | |
+| | |I-3 |210 125 |1 | |
+| | |I-4 |184 500 |1 | |
+| | |I-5 |174 250 |1 | |
+|E mesme drejtuese |II |II-1 |158 875 |1 | |
+| | |II-2 |144 525 |1 | |
+|E ulët drejtuese |III |III-1 |119 000 |1 | |
+| | |III-2 |109 000 |1 | |
+| | |III-3 | 102 000 |1 | |
+|Ekzekutive |IV |IV-1 | 95 000 |1 ose 2 | |
+| | |IV-2 | 85 000 |1 ose 2, ose 3 | |
+| | |IV-3 | 75 000 |1 ose 2, ose 3 | |
+| | |IV-4 | 65 000 |1 ose 2, ose 3 | |
+Lidhja nr. 2
 Vlera e shtesës së nivelit të kualifikimit
 |Grupi i diplomës |Niveli i kualifikimit sipas Kornizës |Vlera e shtesës së nivelit të kualifikimit |
 | |Shqiptare të Kualifikimeve (KSHK) |(lek/muaj) |
@@ -116,7 +118,7 @@ a) titullar institucioni, në masën 10 000 (dhjetë mijë) lekë në muaj;
 b) drejtues i degëve territoriale të Shërbimit të Provës, në masën 8 000 (tetë mijë) lekë në muaj;
 c) specialistë të përmbajtjes në degët territoriale të Shërbimit të Provës, në masën 5 000 (pesë mijë) lekë në muaj.
 20. Në Institutin e Mjekësisë Ligjore nëpunësit në pozicionet Ekspert Mjeko-Ligjor, Ekspert Antropolog Ligjor, Ekspert Toksikologo-Ligjor, Ekspert Psikiatër-Ligjor, Ekspert Biologo-Ligjor, Ekspert Mjeko-Ligjor pranë gjykatave të apelit dhe Ekspert Anatomo-Patolog pranë gjykatave të apelit, në masën 20 000 (njëzet mijë) lekë në muaj.
-21. Në Agjencinë e Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara, nëpunësit në pozicionet “titullar i institucionit” dhe “administrator”, në masën 15 000 (pesëmbëdhjetë mijë) lekë në muaj.
+21. Shfuqizuar.
 22. Në Drejtorinë e Shifrës, nëpunësit në pozicionet “përgjegjës sektori” dhe “specialist”, në masën 15 000 (pesëmbëdhjetë mijë) lekë në muaj.
 23. Në Institutin e Gjeografisë dhe Infrastrukturës Ushtarake nëpunësit në pozicionin “titullar i institucionit” dhe nëpunësit në njësitë organizative të përmbajtjes, në masën 10 000 (dhjetë mijë) lekë në muaj.
 24. Në institucionet e përcaktuara në pikën 1, të kreut I, të këtij vendimi, në masën 15 000 (pesëmbëdhjetë mijë) lekë në muaj për nëpunësin në pozicionin “drejtor drejtorie”, nëse funksioni i auditimit të brendshëm të institucionit është i organizuar në nivel drejtorie dhe për nëpunësin në pozicionin “përgjegjës sektori”, nëse ky funksion është i organizuar në nivel sektori.
@@ -203,9 +205,9 @@ Klasat e pagave për funksionarët e kabineteve të institucioneve të përcaktu
 |Nr. Rendor |Pozicioni |Vlera e pagës bazë mujore të pozicionit të punës|
 | | |(lek/muaj) |
 |1 |Zëvendësministër. |0.85 e pagës së ministrit |
-|2 |Prefekt. |205 000 |
-|3 |Nënprefekt. |170 000 |
-|2 |Sekretar i Presidentit. |90 000 |
+|2 |Prefekt. |210 125 |
+|3 |Nënprefekt. |174 250 |
+|4 |Sekretar i Presidentit. |95 000 |
 | |Sekretar i Kryeministrit. | |
 | |Sekretar i Kryetarit të Kuvendit. | |
 | |Sekretar i Kryetarit të Gjykatës së Lartë. | |
@@ -214,7 +216,7 @@ Klasat e pagave për funksionarët e kabineteve të institucioneve të përcaktu
 | |Sekretar i Nënkryetarit të Kuvendit. | |
 | |Sekretar i Avokatit të Popullit. | |
 | |Këshilltar i Prefektit të qarkut Tiranë. | |
-|3 |Sekretar i ministrit. |80 000 |
+|5 |Sekretar i ministrit. |85 000 |
 | |Sekretar në zyrën e Avokatit të Popullit. | |
 | |Sekretar i titullarëve të institucioneve të tjera të pavarura, të | |
 | |përmendura në shkronjën “a”, të pikës 1, të kreut I, të këtij vendimi. | |
@@ -255,13 +257,16 @@ Klasat e pagave për pozicionet e veçanta të punës për funksionet e veçanta
 | |Koordinator. |1 |III-1 |
 |Ministria për Evropën dhe Punët e |Koordinator në Sekretariatin (Drejtorinë |1 |III-1 |
 |Jashtme. |e Përgjithshme) e BE-së. | | |
-|Ministria e Drejtësisë. |Koordinator në drejtorinë e përgjithshme,|1 |III-2 |
+|Ministria e Drejtësisë |Koordinator në drejtorinë e përgjithshme,|1 |III-2 |
 | |përgjegjëse për kodifikimin dhe | | |
 | |harmonizimin e legjislacionit. | | |
 |Ministria përgjegjëse për financat |Koordinator në njësitë përgjegjëse për |1 |III-2 |
 | |planifikimin dhe monitorimin e buxhetit | | |
 | |qendror dhe vendor të Drejtorisë së | | |
 | |Përgjithshme të Buxhetit. | | |
+| | | | |
+| |Inspektor në drejtorinë përgjegjëse për | | |
+| |inspektimin financiar publik. |1 |III-1 |
 |Shërbimi Përmbarimor Gjyqësor |Përmbarues gjyqësor shtetëror. |1 |II-1 |
 |Shtetëror | | | |
 | |Inspektor në Drejtorinë e Përgjithshme të|1 |III-1 |
@@ -324,7 +329,8 @@ Klasat e pagave të pozicioneve të punës së nëpunësve civilë gjyqësorë n
 |Drejtor i drejtorive të përmbajtjes. |II-1 |1 |
 |Drejtor drejtorie me funksione të nëpunësit zbatues, sipas legjislacionit të | | |
 |menaxhimit buxhetor e financiar. | | |
-|Ndihmësligjor në gjykatat e apelit. | | |
+|Ndihmës ligjor në gjykatat e apelit, gjykatat e shkallës së parë të | | |
+|juridiksionit të përgjithshëm dhe gjykatat administrative të shkallës së parë. | | |
 |Drejtor i drejtorive mbështetëse. |II-2 |1 |
 |Kryesekretar. |III-1 |1 |
 |Përgjegjës sektori. | | |
@@ -337,7 +343,8 @@ Klasat e pagave të pozicioneve të punës së nëpunësve civilë gjyqësorë n
 |Pjesa e II - Niveli i dytë i gjykatave të apelit dhe gjykatave të shkallës së parë, si dhe i prokurorive pranë gjykatave të apelit dhe |
 |gjykatave të shkallës së parë sipas përcaktimit përkatësisht të KLGJ-së dhe të Prokurorit të Përgjithshëm |
 |Kancelar. |II-1 |1 |
-|Ndihmësligjor në gjykatat e apelit. | | |
+|Ndihmës ligjor në gjykatat e apelit, gjykatat e shkallës së parë të | | |
+|juridiksionit të përgjithshëm dhe gjykatat administrative të shkallës së parë. | | |
 |Drejtor drejtorie. |II-2 |1 |
 |Kryesekretar. |III-2 |1 |
 |Përgjegjës sektori. | | |
@@ -347,7 +354,8 @@ Klasat e pagave të pozicioneve të punës së nëpunësve civilë gjyqësorë n
 | |IV-3 | |
 |Pjesa e III - Niveli i tretë i gjykatave të apelit dhe gjykatave të shkallës së parë, si dhe i prokurorive pranë gjykatave të apelit dhe |
 |gjykatave të shkallës së parë sipas përcaktimit përkatësisht të KLGJ-së dhe të Prokurorit të Përgjithshëm |
-|Ndihmësligjor në gjykatat e apelit. |II-1 |1 |
+|Ndihmës ligjor në gjykatat e apelit, gjykatat e shkallës së parë të |II-1 |1 |
+|juridiksionit të përgjithshëm dhe gjykatat administrative të shkallës së parë. | | |
 |Kancelar. |III-1 |1 |
 |Kryesekretar. |IV-1 |1 |
 |Përgjegjës sektori. | | |
@@ -404,6 +412,8 @@ Klasat e pagave të pozicioneve të punës së nëpunësve në Strukturën e Pos
 |Drejtor i drejtorive të përmbajtjes. |II-1 |1 |
 |Drejtor drejtorie me funksione të nëpunësit zbatues, sipas legjislacionit të | | |
 |menaxhimit buxhetor e financiar. | | |
+|Ndihmës ligjor në Gjykatën e Posaçme të Shkallës së Parë për Korrupsionin dhe | | |
+|Krimin e Organizuar. | | |
 |Drejtor i drejtorive mbështetëse. |II-2 |1 |
 |Përgjegjës sektori. |III-1 |1 |
 | |III-2 | |
@@ -461,6 +471,8 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “Sp
 |Titullar i institucionit |I-2 |1 |
 |Zëvendëstitullar i Agjencisë për Media dhe Informim; |I-3 |1 |
 |Zëvendëskancelar i Kancelarisë së Urdhrave dhe Medaljeve | | |
+|Drejtor i njësisë përgjegjëse për politikat dhe programet e zhvillimit të | | |
+|administratës publike, në Departamentin e Administratës Publike. | | |
 |Drejtor njësie në Departamentin e Administratës Publike |I-4 |1 |
 |Zv./titullar i institucionit; |II-1 |1 |
 |Drejtor i drejtorive të përmbajtjes; | | |
@@ -565,6 +577,20 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 |Përgjegjës sektori në sektorët mbështetës. |III-2 |1 |0 |
 |Specialist në sektorët apo drejtoritë mbështetëse. |IV-2 |1 ose 2 ose 3 |0 |
 | |IV-3 | |0 |
+Lidhja nr. 8/4
+Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “ekspert”, “ekspert inovacioni”, “drejtor i drejtorive të përmbajtjes”, “zëvendëstitullar institucioni” dhe “titullar institucioni” në Agjencinë “Innovation4Albania”
+|Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune (natyrë të |
+| | | |veçantë pune) (lek/muaj) |
+|Titullar i institucionit |I-2 |1 |70 000 |
+|Zëvendëstitullar institucioni. |I-4 |1 |50 000 |
+|Drejtor i drejtorive të përmbajtjes |II-1 |1 |50 000 |
+|Ekspert inovacioni |II-1 |1 |30 000 |
+|Ekspert |II-2 |1 |30 000 |
+|Drejtor i drejtorive mbështetëse |II-2 |1 |0 |
+|Përgjegjës sektori në sektorët mbështetës |III-2 |1 |0 |
+|Specialist në sektorët apo drejtoritë |IV-2 |1 ose 2 ose 3 |0 |
+|mbështetëse | | | |
+| |IV-3 | |0 |
 Lidhja nr. 9
 Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “Specialist” deri në “Titullar institucioni” në institucionet e përcaktuara në shkronjën “c”, të pikës 1, të kreut I, të këtij vendimi
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
@@ -624,14 +650,14 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 | |III-2 | | |
 |Specialist në njësitë organizative të |IV-1 |1 ose 2 |90 000 |
 |përmbajtjes. | | | |
-|Specialist në drejtorinë për koordinimin |IV-1 |1 |60 000 |
+|Specialist në drejtorinë për koordinimin |IV-1 |1 ose 2 |60 000 |
 |juridik | | | |
 |Specialist në njësitë organizative |IV-2 |1 ose 2, ose 3 |0 |
 |mbështetëse. | | | |
 | |IV-3 |1 ose 2, ose 3 |0 |
 Lidhja nr. 9/3
-(Katër rreshtat e fundit të lidhjes nr. 9/3 ndryshuar me Vendimin nr. 864, datë 30.12.2024)
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të nëpunësve të sistemit doganor
+(Katër rreshtat e fundit të lidhjes nr. 9/3 ndryshuar me Vendimin nr. 864, datë 30.12.2024; ndryshuar vlerat e kolonës “Paga bazë mujore e pozicionit” për pozicionet e punës të klasifikimit doganor C3 dhe D1 me VKM nr. 131, datë 27.2.2026)
 |Klasifikimi doganor|Pozicioni |Klasa e |Grupi i diplomës|Paga bazë mujore |Shtesa për kushte |
 | | |pagës | |e pozicionit |pune (natyrë të |
 | | | | | |veçantë pune) |
@@ -672,12 +698,12 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të n�
 | |Në degët doganore: | |3 | | |
 | |Specialist finance i nivelit të dytë. Doganier klasifikim/vlerësim/kontroll | | | | |
 | |fizik/skaner/akcizë/aposterior/regjime/preferenca/përjashtime. | | | | |
-|C3 |Në DPD: | | |47 000 |9 000 |
+|C3 |Në DPD: | | |57 000 |9 000 |
 | |Sekretar/protokoll; Arkivist; Përpunues informacioni; Doganier pike kontrolli. | | | | |
 | | | | | | |
 | |Në degët doganore: | | | | |
 | |Doganier peshoreje/pike kontrolli; Sekretar; Arkivist. | | | | |
-|D1 |Në DPD: | | |45 600 |4 000 |
+|D1 |Në DPD: | | |55 600 |4 000 |
 | |Magazinier; Teknik marinë/motorist; Teknik mirëmbajtjeje; Shofer. | | | | |
 | | | | | | |
 | |Në degët doganore: | | | | |
@@ -795,9 +821,6 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “sp
 |Kapiten i Porteve. |III-1 |1 |
 |Përgjegjës departamenti në Autoritetin e Sigurisë Hekurudhore. | | |
 |Menaxher cilësie në Drejtorinë e Përgjithshme të Akreditimit. | | |
-|Përgjegjës i sektorëve të përmbajtjes në Agjencinë Shtetërore të Prokurimeve| | |
-|të Përqendruara. | | |
-|Koordinator në Agjencinë Shtetërore të Prokurimeve të Përqendruara. | | |
 |Përgjegjës i sektorëve të përmbajtjes në Agjencinë Kombëtare të Mbrojtjes | | |
 |Civile. | | |
 |Përgjegjës i sektorëve të përmbajtjes në Drejtorinë e Përgjithshme të | | |
@@ -810,8 +833,6 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “sp
 |Policisë së Shtetit. | | |
 |Specialist një njësitë organizative të përmbajtjes në Qendrën e Koordinimit | | |
 |kundër Ekstremizmit të Dhunshëm. | | |
-|Specialist në njësitë organizative të përmbajtjes në Agjencinë Shtetërore të| | |
-|Prokurimeve të Përqendruara. | | |
 |Specialist në njësitë organizative të përmbajtjes në Agjencinë Kombëtare të | | |
 |Mbrojtjes Civile. | | |
 |Specialist në njësitë organizative të përmbajtjes në Drejtorinë e | | |
@@ -826,11 +847,11 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “sp
 Lidhja nr. 10/1
 Nivelet e pagave për punonjësit kërkimorë e shkencorë në Qendrën e Studimeve dhe Publikimeve për Arbëreshët
 |Emërtimi |Paga në lekë |
-|Drejtor drejtorie në drejtoritë e përmbajtjes me titujt “Profesorë” apo “Profesor i Asociuar”. |159 000 |
-|Drejtor drejtorie në drejtoritë e përmbajtjes nga kategoria “Lektorë”. |137 040 |
-|Specialist në drejtoritë e përmbajtjes me titull “Profesorë”. |155 400 |
-|Specialist në drejtoritë e përmbajtjes me titull “Profesor i Asociuar”. |135 000 |
-|Specialist në drejtoritë e përmbajtjes nga kategoria “Lektorë”. |116 040 |
+|Drejtor drejtorie në drejtoritë e përmbajtjes me titujt “Profesorë” apo “Profesor i Asociuar” |163 000 |
+|Drejtor drejtorie në drejtoritë e përmbajtjes nga kategoria “Lektorë” |140 490 |
+|Specialist në drejtoritë e përmbajtjes me titull “Profesorë” |159 300 |
+|Specialist në drejtoritë e përmbajtjes me titull “Profesor i Asociuar” |138 400 |
+|Specialist në drejtoritë e përmbajtjes nga kategoria “Lektorë” |118 940 |
 Lidhja nr. 10/2
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni” në Agjencinë e Trajtimit të Pronës
 |Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune (natyrë të |
@@ -967,20 +988,20 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 | |IV-3 |1 ose 2, ose 3 |0 |
 Lidhja nr. 10/9
 Nivelet e pagave të punonjësve të trupës artistike në Teatrin Kombëtar dhe në Teatrin Kombëtar të Operës, Baletit dhe Ansamblit Popullor
-I- Për Teatrin Kombëtar
+I. Për Teatrin Kombëtar
 |Nr. |Pozicioni |Paga bazë mujore e pozicionit të punës |
 | | |(lek) |
-|1 |Regjisor. |151 000 |
+|1 |Regjisor; |154 775 |
 | |Aktor i parë. | |
-|2 |Asistent regjisor. |136 000 |
+|2 |Asistent regjisor; |139 400 |
 | |Aktor i dytë. | |
-|3 |Skenograf i kategorisë së parë. |116 000 |
-|4 |Aktor i tretë. |106 000 |
-|5 |Skenograf i kategorisë së dytë. |101 000 |
-II- Për Drejtorinë e Operës dhe Filarmonisë dhe Drejtorinë e Baletit në Teatrin Kombëtar të Operës, Baletit dhe Ansamblit Popullor
+|3 |Skenograf i kategorisë së parë. |118 900 |
+|4 |Aktor i tretë. |108 650 |
+|5 |Skenograf i kategorisë së dytë. |103 525 |
+II. Për Drejtorinë e Operës dhe Filarmonisë dhe Drejtorinë e Baletit në Teatrin Kombëtar të Operës, Baletit dhe Ansamblit Popullor
 |Nr. |Pozicioni |Paga bazë mujore e pozicionit të punës |
 | | |(lek) |
-|1 |Drejtor artistik i Operës dhe Filarmonisë. |195 000 |
+|1 |Drejtor artistik i Operës dhe Filarmonisë. |199 875 |
 | |Dirigjent i Operës dhe Filarmonisë. | |
 | |Dirigjent (orkestre). | |
 | |Dirigjent (baleti). | |
@@ -989,34 +1010,34 @@ II- Për Drejtorinë e Operës dhe Filarmonisë dhe Drejtorinë e Baletit në Te
 | |Koncertmaestër. | |
 | |Baletmaestër. | |
 | |Regjisor. | |
-|2 |Spala sektori (orkestre). |183 000 |
-|3 |Solist II (lirik, baleti, pianist). |176 000 |
+|2 |Spala sektori (orkestre). |187 575 |
+|3 |Solist II (lirik, baleti, pianist). |180 400 |
 | |Spalë sektori (kori). | |
-|4 |Asistent dirigjent. |164 000 |
+|4 |Asistent dirigjent. |168 100 |
 | |Orkestrant i kategorisë së parë. | |
-|5 |Orkestrant i kategorisë së dytë. |158 000 |
-|6 |Solist i tretë (lirik, baleti). |144 000 |
-|7 |Korist i kategorisë së parë. |135 000 |
+|5 |Orkestrant i kategorisë së dytë. |161 950 |
+|6 |Solist i tretë (lirik, baleti). |147 600 |
+|7 |Korist i kategorisë së parë. |138 375 |
 | |Balerin i kategorisë së parë. | |
 | |Pianist korepetitor. | |
-|8 |Korist i kategorisë së dytë. |131 500 |
+|8 |Korist i kategorisë së dytë. |134 790 |
 | |Pianist përgatitor. | |
 | |Balerin i kategorisë së dytë. | |
-III- Për Drejtorinë Artistike të Ansamblit të Këngëve dhe Valleve Popullore në Teatrin Kombëtar të Operës, Baletit dhe Ansamblit Popullor
+III. Për Drejtorinë Artistike të Ansamblit të Këngëve dhe Valleve Popullore në Teatrin Kombëtar të Operës, Baletit dhe Ansamblit Popullor
 |Nr. |Pozicioni |Paga bazë mujore e pozicionit të punës |
 | | |(lek) |
-|1 |Drejtor i Ansamblit të Këngëve dhe Valleve Popullore. |170 000 |
-| |Mjeshtër vallesh (korepetitor). | |
-|2 |Solist i parë. |135 000 |
-| |Orkestrant i kategorisë së parë. | |
-| |Korist i kategorisë së parë. | |
+|1 |Drejtor i Ansamblit të Këngëve dhe Valleve Popullore. |174 250 |
+| |Mjeshtër vallesh (korepetitor) | |
+|2 |Solist i parë |138 375 |
+| |Orkestrant i kategorisë së parë; | |
+| |Korist i kategorisë së parë; | |
 | |Valltar i kategorisë së parë. | |
-|3 |Orkestrant i kategorisë së dytë. |125 000 |
-| |Valltar i kategorisë së dytë. | |
+|3 |Orkestrant i kategorisë së dytë; |128 125 |
+| |Valltar i kategorisë së dytë; | |
 | |Korist i kategorisë së dytë. | |
-|4 |Solist i dytë. |108 000 |
-| |Orkestrant i kategorisë së tretë. | |
-| |Valltar i kategorisë së tretë. | |
+|4 |Solist i dytë; |110 700 |
+| |Orkestrant i kategorisë së tretë; | |
+| |Valltar i kategorisë së tretë; | |
 | |Korist i kategorisë së tretë. | |
 Lidhja nr. 10/10
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “ekspert” dhe “titullar i institucionit” në Qendrën e Inovacionit të Sigurisë dhe Mbrojtjes
@@ -1033,6 +1054,36 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 | | | |veçantë pune) (lek/muaj) |
 |Titullar i institucionit |I-4 |1 |70 000 |
 |Ekspertë |II-1 |1 |50 000 |
+Lidhja nr. 10/12
+Nivelet e pagave për punonjësit civilë të personelit akademik në Akademinë e Forcave të Armatosura
+|Nr. rendor |Pozicioni/kategoria |Paga |
+| |1 |2 |
+|1 |Rektor (Titullar i institucionit) me titullin “Profesor”. | 184 000 |
+|2 |Zëvendësrektor me titujt “Profesor” apo “Profesor i Asociuar”. | 174 100 |
+|3 |Zëvendësrektor me gradën shkencore “Doktor (PHD)”. | 171 720 |
+|4 |Dekan me titujt “Profesor” apo “Profesor i Asociuar”. | 174 100 |
+|5 |Zëvendësdekan me titujt “Profesor” apo “Profesor i Asociuar”. | 159 300 |
+|6 |Zëvendësdekan nga kategoria “Lektorë”. | 140 490 |
+|7 |Përgjegjës i njësisë bazë me titujt “Profesor” apo “Profesor i Asociuar” . | 163 000 |
+|8 |Përgjegjës i njësisë bazë nga kategoria “Lektorë”. | 140 490 |
+|9 |Titullar i grupit mësimor/kërkimor me titujt “Profesor” apo “Profesor i Asociuar”. | 163 000 |
+|10 |Titullar i grupit mësimor/kërkimor nga kategoria “Lektorë”. | 140 490 |
+|11 |Profesor. | 159 300 |
+|12 |Profesor i Asociuar. | 138 400 |
+|13 |Lektorë. | 118 940 |
+|14 |Asistent Lektorë. | 96 600 |
+Lidhja nr. 10/13
+Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) për pozicionet e punës së nëpunësve në Agjencinë e Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara
+|Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune (natyrë |
+| | | |të veçantë pune) (lek/muaj) |
+|Titullar i institucionit |I-4 |1 |15 000 |
+|Drejtor i drejtorive të përmbajtjes/Administrator |II-1 |1 |15 000 |
+|Drejtor i drejtorive mbështetëse |II-2 |1 |0 |
+|Përgjegjës i sektorëve të përmbajtjes/Administrator |III-1 |1 |15 000 |
+|Përgjegjës i sektorëve mbështetës |III-2 |1 |0 |
+|Specialist në drejtoritë dhe sektorët e përmbajtjes |IV-1 |1 ose 2 |0 |
+|Specialist në sektorët dhe drejtoritë mbështetëse |IV-2 |1 ose 2 ose 3 |0 |
+| |IV-3 | | |
 Lidhja nr. 11
 Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni” në institucionet e përcaktuara në shkronjën “d”, të pikës 1, të kreut I, të këtij vendimi
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
@@ -1045,8 +1096,6 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “sp
 |Ekspert Mjeko - Ligjor në Institutin e Mjekësisë Ligjore. |III-1 |1 |
 |Ekspert Antropolog Ligjor në Institutin e Mjekësisë Ligjore. | | |
 |Inspektor në administratën e Këshillit Kombëtar të Kontabilitetit. | | |
-|Administrator në Agjencinë e Administrimit të Pasurive të | | |
-|Sekuestruara dhe të Konfiskuara. | | |
 |Inspektor në Autoritetin Kombëtar të Investigimit për Sigurinë e | | |
 |Operimit në Aviacionin Civil. | | |
 |Kryeredaktor në Qendrën e Botimeve Zyrtare. |III-2 |1 |
@@ -1067,9 +1116,6 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “sp
 |përmbajtjes në Qendrat e Transferimit të Teknologjive Bujqësore. | | |
 |Specialist në njësitë organizative të përmbajtjes në Agjencinë e | | |
 |Hartimit të Programeve të Veçanta të Shtetësisë. | | |
-|Specialist në njësitë organizative të përmbajtjes në Agjencinë | | |
-|Shtetërore për Mbështetjen dhe Zhvillimin e Startup-eve dhe | | |
-|Lehtësuesve | | |
 |Inspektor. |IV-2 |1 ose 2, ose 3 |
 |Specialist pa grada e tituj shkencorë në njësitë organizative të | | |
 |përmbajtjes në Qendrat e Transferimit të Teknologjive Bujqësore. | | |
@@ -1101,26 +1147,26 @@ Lidhja nr. 11/1
 Nivelet e pagave të punonjësve të trupës artistike të Teatrit të Kukullave në Qendrën Kombëtare të Kulturës për Fëmijë, të Teatrit Kombëtar Eksperimental “Kujtim Spahivogli” dhe të Cirkut Kombëtar
 |Nr. |Pozicioni |Paga bazë mujore e pozicionit të punës |
 | | |(lek/muaj) |
-|1 |Dirigjent. |136 000 |
-| |Regjisor. | |
+|1 |Dirigjent; |139 400 |
+| |Regjisor; | |
 | |Drejtues artistik. | |
-|2 |Skenograf i kategorisë së parë. |116 000 |
-| |Mjeshtër i studios së cirkut. | |
-| |Mjeshtër profili i numrave të cirkut. | |
-| |Aktor i parë. | |
-| |Akrobat i kategorisë së parë. | |
+|2 |Skenograf i kategorisë së parë; |118 900 |
+| |Mjeshtër i studios së cirkut; | |
+| |Mjeshtër profili i numrave të cirkut; | |
+| |Aktor i parë; | |
+| |Akrobat i kategorisë së parë; | |
 | |Orkestrant i kategorisë së parë. | |
-|3 |Aktor i dytë. |91 000 |
-| |Skenograf i kategorisë së dytë. | |
+|3 |Aktor i dytë; |95 000 |
+| |Skenograf i kategorisë së dytë; | |
 | |Akrobat i kategorisë së dytë. | |
 Lidhja nr. 11/2
-Nivelet e pagave të punonjësve të trupës artistike në Qendrën e Kulturës, Medias dhe Botimeve të Mbrojtjes dhe Muzeu i Forcave të Armatosura dhe trupën artistike në Batalionin e Mbështetjes së Shtabit të Përgjithshëm të Forcave të Armatosura
+Nivelet e pagave të punonjësve të trupës artistike në Qendrën e Kulturës, Medias, Botimeve të Mbrojtjes dhe trupën artistike në Batalionin e Mbështetjes së Shtabit të Përgjithshëm të Forcave të Armatosura
 |Nr. |Pozicioni |Paga bazë mujore e pozicionit të punës (lek) |
-|1 |Udhëheqës Artistik. |109 000 |
+|1 |Udhëheqës Artistik; |111 725 |
 | |Kompozitor. | |
-|2 |Dirigjent. |98 000 |
+|2 |Dirigjent; |101 000 |
 | |Regjisor. | |
-|3 |Instrumentist. |82 500 |
+|3 |Instrumentist; |87 500 |
 | |Vokalist. | |
 Lidhja nr. 11/3
 Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni” (punonjës civilë) në institucionet e tjera të sistemit të Ministrisë së Mbrojtjes të përcaktuara në shkronjën “d”, të pikës 1, të kreut I, të këtij vendimi (përjashtuar Drejtorinë e Përgjithshme të Rezervave Materiale të Shtetit)
@@ -1167,9 +1213,10 @@ Lidhja nr. 11/5
 Vlera e pagës bazë mujore të pozicionit të punës dhe shtesa për kushte pune (natyrë të veçantë pune) në Sektorin e Helikopterëve të Repartit Special RENEA
 |Pozicioni |Vlera e pagës (lek/muaj) |Shtesa për kushte pune (natyrë të veçantë pune)|
 | | |(lek/muaj) |
-|Shef i sektorit. |93 100 |40 000 |
-|Pilot. | | |
+|Shef i sektorit; |97 100 |40 000 |
+|Pilot; | | |
 |Teknik fluturues | | |
+Lidhja nr. 12
 Klasat e pagave të nëpunësve në pozicionet “specialist” deri në “titullar institucioni”, në degët territoriale të institucioneve të përcaktuara në shkronjat “a” deri në “d”, të pikës 1, të kreut I, të këtij vendimi, të punonjësve që kryejnë funksione të deleguara të pushtetit qendror në pushtetin vendor, të drejtorive të ujitjes dhe të kullimit, administratave rajonale të zonave të mbrojtura, të komisioneve vendore të shqyrtimit të vlefshmërisë ligjore të krijimit të titujve të pronësisë mbi tokën bujqësore, pranë prefektit të Qarkut, të nëpunësve civilë në pozicionet mbështetëse “specialist”, “shef seksioni” dhe “përgjegjës/shef sektori”, në drejtoritë e policisë në qarqe, në komisariate dhe reparte autonome, si dhe të punonjësve civilë në qendrat e rekrutimit dhe mobilizimit dhe komandat e mbështetjes rajonale, të sistemit të Forcave të Armatosura
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
 |Titullar i institucionit rajonal. |III-1 |1 |
@@ -1225,6 +1272,7 @@ Klasat e pagave të nëpunësve në pozicionet “specialist” deri në “titu
 |Piktor. | | |
 |Kontrollor pune. | | |
 |Specialist në degën territoriale të Shërbimit të Provës. | | |
+Lidhja nr. 12/1
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni” në institucionet e ekzekutimit të vendimeve penale
 |Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune (natyrë të|
 | | | |veçantë pune (lek/muaj) |
@@ -1236,6 +1284,7 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 |social/psikolog/punonjës social. | | | |
 |Specialist. |IV-3 |1 ose 2, ose 3 |4 000 |
 Shfuqizuar Lidhja nr. 12/2 me Vendimin nr. 421, datë 26.6.2024)
+Lidhja nr. 12/3
 Klasat e pagave të nëpunësve civilë në pozicionet mbështetëse “specialist”, “shef seksioni” dhe “përgjegjës/shef sektori” në drejtoritë e policisë në qarqe, komisariate dhe reparte autonome
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
 |Përgjegjës/shef sektori në drejtoritë e policisë së qarkut. |III-2 |1 |
@@ -1248,6 +1297,7 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “sp
 |Pozicioni |Klasa e pagës |Grupi i diplomës |
 |Titullar i qendrës. |III-1 |1 |
 |Specialist. |IV-2 |1 ose 2, ose 3 |
+( Lidhja nr. 12/5
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar i degës”, në degët rajonale të Inspektoratit Shtetëror Shëndetësor
 |Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune |
 | | | |(natyrë të veçantë pune) |
@@ -1257,6 +1307,7 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 |Përgjegjës sektori në sektorët mbështetës. |III-3 |1 |0 |
 |Inspektor. |IV-3 |1 ose 2, ose 3 |18 500 |
 |Specialist në sektorët mbështetës. |IV-3 |1 ose 2, ose 3 |0 |
+Lidhja nr. 12/6
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar i zyrës përmbarimore vendore”, në zyrat përmbarimore vendore të Shërbimit Përmbarimor Gjyqësor Shtetëror
 |Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune |
 | | | |(natyrë të veçantë pune) |
