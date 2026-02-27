@@ -10,6 +10,8 @@ b) të identifikojë nëpunësin civil, i cili pretendohet se ka kryer shkeljen 
 c) të përcaktojë veprimin konkret, që pretendohet se përbën shkelje disiplinore dhe rrethanat e kryerjes së tij.
 5. Kërkesat anonime nuk pranohen për shqyrtim.
 6. Ankesa/rekomandimi i depozituar në institucion, sipas pikës 3 të kreut II të këtij vendimi, i dërgohet eprorit direkt të nëpunësit të cilit i atribuohet shkelja.
-6/1 Përjashtimisht, për rastet kur shkeljet disiplinore të pretenduara janë konstatuar nga Agjencia për Dialog dhe Bashkëqeverisje, si dhe Task-Forca Ndërinstitucionale Antikorrupsion, kërkesa/rekomandimi i depozituar në institucion, sipas pikës 3, të kreut II, të këtij vendimi, i dërgohet komisionit disiplinor.
+6/1 Përjashtimisht, kërkesa/rekomandimi i depozituar në institucion, sipas pikës 3, të këtij kreu, i dërgohet komisionit disiplinor për rastet kur:
+a) shkeljet disiplinore të pretenduara janë konstatuar nga Agjencia për Dialog dhe Bashkëqeverisje;
+b) shkeljet disiplinore të pretenduara janë konstatuar gjatë veprimtarisë së grupit akselerator nga zëvendëssekretari i Përgjithshëm i Këshillit të Ministrave.
 7. Eprori direkt, në rastet kur vihet në dijeni të një pretendimi për shkelje disiplinore nëpërmjet ankesave nga publiku, e vlerëson paraprakisht atë.
 7/1 Komisioni disiplinor, në rastet kur vihet në dijeni të një pretendimi për shkelje disiplinore, sipas pikës 6/1, të kreut II, të këtij vendimi, e vlerëson paraprakisht atë. Nëse nga vlerësimi i informacionit të marrë nuk rezulton të ketë elemente që mund të klasifikohen si shkelje disiplinore, komisioni disiplinor vendos të mos e fillojë ecurinë disiplinore.
