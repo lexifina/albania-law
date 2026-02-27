@@ -4,7 +4,7 @@ Nr. 99, datë 27.2.2019
 
 PËR KRIJIMIN, MËNYRËN E ORGANIZIMIT E TË FUNKSIONIMIT TË AGJENCISË KOMBËTARE TË ARSIMIT PARAUNIVERSITAR 
 
-(Ndryshuar me VKM nr. 129, datë 6.3.2024)
+(Ndryshuar me VKM nr. 129, datë 6.3.2024;  nr. 121, datë 27.2.2026)
 
                                                                                                                     (i përditësuar)
 
@@ -26,7 +26,7 @@ II. PËRGJEGJËSITË FUNKSIONALE TË AGJENCISË KOMBËTARE TË ARSIMIT PARAUNIVE
 
 AKAP-ja ka këto përgjegjësi:
 
-1. Të ofrojë shërbim cilësor në sistemin arsimor parauniversitar nëpërmjet monitorimit, vlerësimit dhe inspektimit.
+1. Të ofrojë shërbim cilësor në sistemin arsimor parauniversitar nëpërmjet monitorimit, vlerësimit.
 
 2. Të organizojë punën për menaxhimin, ndjekjen dhe kontrollin e institucioneve të sistemit arsimor parauniversitar për pajtueshmërinë e veprimtarisë së tyre me aktet ligjore dhe nënligjore në fuqi.
 
@@ -52,7 +52,7 @@ c) njësitë e ofrimit direkt të shërbimeve, të cilat përfshijnë zyrat vend
 
 4. AKAP-ja ka lidhje funksionale bashkëpunimi me institucionet e tjera të sistemit arsimor parauniversitar në varësi të ministrit.
 
-5. AKAP-ja drejtohet nga drejtori i përgjithshëm, i cili organizon dhe drejton të gjithë veprimtarinë e agjencisë kombëtare dhe përgjigjet përpara ministrit. Drejtori i përgjithshëm emërohet dhe lirohet nga ministri. Drejtori i përgjithshëm mbështetet nga 1 (një) zëvendësdrejtor i përgjithshëm, i cili emërohet me të njëjtat procedura si drejtori i përgjithshëm.
+5. Shfuqizuar.
 
 6. Struktura dhe organika e agjencisë kombëtare dhe e drejtorive rajonale miratohet me urdhër të Kryeministrit, sipas përcaktimeve në legjislacionin në fuqi për organizimin e funksionimin e administratës shtetërore. 
 
@@ -60,7 +60,7 @@ c) njësitë e ofrimit direkt të shërbimeve, të cilat përfshijnë zyrat vend
 
 8. Agjencia kombëtare kryen detyrat, si më poshtë vijon: 
 
-a) Bashkërendon zbatimin e politikave, strategjive të zhvillimit, programeve, kuadrin rregullator dhe kurrikulën në fushën e arsimit parauniversitar nëpërmjet monitorimit, vlerësimit dhe inspektimit.
+a) Bashkërendon zbatimin e politikave, strategjive të zhvillimit, programeve, kuadrin rregullator dhe kurrikulën në fushën e arsimit parauniversitar nëpërmjet monitorimit, vlerësimit.
 
 b) Analizon dhe përcakton kostot e realizimit të shërbimeve arsimore, duke mbledhur e përpunuar të dhëna nga drejtoritë rajonale, zyrat vendore dhe institucionet arsimore.
 
