@@ -7,6 +7,7 @@ a) të jenë shtetas shqiptarë;
 b) të kenë përfunduar ciklin e dytë të studimeve universitare për drejtësi me diplomë “Master i shkencave”, ose diplomë të njësuar me të, ose studimet universitare për drejtësi jashtë shtetit dhe të kenë marrë një diplomë të njësuar, sipas rregullave për njësimin e diplomave, të parashikuara me ligj;
 c) të jenë avokatë të licencuar sipas ligjit;
 ç) të kenë shlyer rregullisht të gjitha detyrimet tatimore dhe ato financiare ndaj Dhomës së Avokatisë;
+ç/1) të mos ketë masë disiplinore në fuqi, të mos jetë shkarkuar më parë nga detyra si rezultat i një mase disiplinore, në rastin e ish-magjistratëve të ketë kaluar me sukses procesin e rivlerësimit kalimtar të gjyqtarëve dhe prokurorëve ose të mos ketë dhënë dorëheqjen pa iu nënshtruar këtij procesi, ndërkohë që ka qenë subjekt rivlerësimi në përputhje me ligjin nr. 84/2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, si dhe të mos jetë skualifikuar më parë nga pozicione të ndryshme për shkak të verifikimit të pasurisë dhe figurës, sipas kërkesave të përcaktuara në legjislacionin në fuqi;
 d) të kenë jo më pak se 15 vjet përvojë pune në profesionin e juristit, nga të cilat të paktën 10 vitet e fundit të kenë ushtruar profesionin e avokatit pa ndërprerje;
 dh) të jenë licencuar për të ushtruar profesionin pranë Gjykatës së Lartë ose Gjykatës Kushtetuese, sipas parashikimeve të ligjit “Për profesionin e avokatit”;
 e) të mos kenë masë disiplinore në fuqi;

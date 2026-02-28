@@ -7,6 +7,7 @@ a) të jenë shtetas shqiptarë;
 b) të kenë jo më pak se 15 vjet përvojë profesionale si jurist;
 c) në kohën e kandidimit, të jenë pedagogë me kohë të plotë jo më pak se 5 vjet në fakultetin e drejtësisë të një institucioni të arsimit të lartë (IAL) ose pedagogë të brendshëm ose të jashtëm jomagjistratë në Shkollën e Magjistraturës;
 ç) të jenë personel akademik të kategorisë “profesor” ose “lektor”;
+ç/1) të mos ketë masë disiplinore në fuqi, të mos jetë shkarkuar më parë nga detyra si rezultat i një mase disiplinore, në rastin e ish-magjistratëve të ketë kaluar me sukses procesin e rivlerësimit kalimtar të gjyqtarëve dhe prokurorëve ose të mos ketë dhënë dorëheqjen pa iu nënshtruar këtij procesi, ndërkohë që ka qenë subjekt rivlerësimi në përputhje me ligjin nr. 84/2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, si dhe të mos jetë skualifikuar më parë nga pozicione të ndryshme për shkak të verifikimit të pasurisë dhe figurës sipas kërkesave të përcaktuara në legjislacionin në fuqi;
 d) në kohën e kandidimit të mos jenë rektor ose Drejtor i Shkollës së Magjistraturës
 dh) të mos kenë masë disiplinore në fuqi;
 e) të mos kenë qenë dënuar me vendim gjyqësor të formës së prerë për kryerjen e një vepre penale;

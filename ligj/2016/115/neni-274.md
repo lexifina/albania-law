@@ -1,3 +1,5 @@
 # Neni 274
-Konkurrimi, formimi fillestar dhe vazhdues i këshilltarëve ligjorë të gjykatave dhe prokurorive
-Konkurruesit për kandidatë për këshilltarë ligjorë të gjykatave dhe prokurorive, që parashikojnë kushtet e parashikuara në ligj, i nënshtrohen të njëjtit konkurrim si konkurruesit për gjyqtarë dhe prokurorë.
+Konkurrimi, formimi fillestar dhe vazhdues i këshilltarëve ligjorë dhe ndihmësve ligjorë
+të gjykatave dhe prokurorive
+1. Konkurruesit për kandidatë për këshilltarë ligjorë dhe ndihmësligjorë të gjykatave dhe prokurorive, sipas kushteve të parashikuara në ligj, i nënshtrohen konkurrimit bazuar në një testim të posaçëm që hartohet nga Shkolla e Magjistraturës për profilet e punës së këshilltarëve ligjorë dhe ndihmësve ligjorë. Për hartimin e testimit Shkolla e Magjistraturës këshillohet me Këshillin e Lartë Gjyqësor, Këshillin e Lartë të Prokurorisë, Gjykatën e Lartë, Prokurorin e Përgjithshëm, drejtuesin e Prokurorisë së Posaçme për tematikat e mundshme të testimit dhe aftësitë e nevojshme për t’u bërë këshilltarë ligjorë ose ndihmës ligjorë.
+2. Programi i formimit fillestar të këshilltarëve ligjorë dhe ndihmësve ligjorë të gjykatave dhe prokurorive përfshin një periudhë njëvjeçare që përbëhet nga një program i posaçëm teoriko-praktik, që synon të rrisë njohuritë në lëndë të ndryshme të së drejtës si dhe rrisë aftësitë praktike që kërkohen në ushtrimin e funksionit të këshilltarit ligjor ose ndihmësit ligjor.

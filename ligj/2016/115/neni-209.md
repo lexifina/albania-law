@@ -5,7 +5,7 @@ Kushtet për emërimin e inspektorit
 3. Komiteti i Emërimit dhe Vlerësimit të Inspektorëve përbëhet nga 3 inspektorë të Zyrës së Inspektorit të Lartë të Drejtësisë të përzgjedhur me short, sipas kushteve dhe procedurave të parashikuara në nenin 212 të këtij ligji. Anëtarët e komitetit qëndrojnë në detyrë për 1 vit.
 4. Komiteti i Emërimit dhe Vlerësimit të Inspektorëve verifikon përmbushjen e kushteve ligjore dhe vlerëson kriteret profesionale e morale të kandidatëve për inspektorë. Komiteti, pasi përjashton nga konkurrimi kandidatët që nuk plotësojnë kushtet ligjore, rendit kandidatët e tjerë, sipas meritës, duke zbatuar, për aq sa është e mundur dhe me ndryshimet e nevojshme, kërkesat e nenit 240 të këtij ligji.
 5. Kandidatët për inspektorë, të cilët vijnë nga radhët e magjistratëve, duhet të plotësojnë kushtet e mëposhtme:
-a) në kohën e kandidimit, plotësojnë kushtet për t’u emëruar në Gjykatën e Lartë ose në Prokurorinë e Përgjithshme;
+a) në kohën e komandimit të ketë ushtruar funksionin për jo më pak se 10 vjet, prej të cilave jo më pak se shtatë vjet si gjyqtar ose prokuror, duke përfshirë edhe përvojën si magjistrat i komanduar sipas ligjit për statusin e gjyqtarëve dhe prokurorëve;
 b) në kohën e kandidimit, nuk janë kryetarë të një gjykate ose drejtues të një zyre të prokurorisë dhe as anëtarë të organeve drejtuese të grupeve të interesit, të tilla si shoqata ose sindikata magjistratësh etj.;
 c) janë vlerësuar të paktën “shumë mirë” në dy vlerësimet e fundit të performancës etike dhe profesionale;
 ç) nuk kanë masë disiplinore në fuqi;
