@@ -1,0 +1,3 @@
+# Neni 257/a
+Refuzimi për deklarimin, mosdeklarimi, fshehja ose deklarimi i rremë i pasurive, interesave privatë të personave të zgjedhur dhe nëpunësve publikë ose i çdo personi tjetër që ka detyrimin ligjor për deklarim
+Refuzimi për deklarimin ose mosdeklarimi i pasurisë, interesave privatë të personave të zgjedhur ose nëpunësve publikë ose i çdo personi tjetër që ka detyrimin ligjor për deklarim sipas ligjit, kur më parë janë marrë masa administrative, përbën kundërvajtje penale dhe dënohet me gjobë ose me burgim deri në 6 muaj. Fshehja ose deklarimi i rremë i pasurive, interesave privatë të personave të zgjedhur dhe nëpunësve publikë ose i çdo personi tjetër që ka detyrimin ligjor për deklarim, dënohet me gjobë ose me burgim deri në tre vjet.

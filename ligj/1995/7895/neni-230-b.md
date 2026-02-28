@@ -1,0 +1,3 @@
+# Neni 230/b
+Fshehja e fondeve dhe e pasurive të tjera, që financojnë terrorizmin
+Transferimi, konvertimi, fshehja, lëvizja ose tjetërsimi i fondeve dhe i pasurive të tjera, ndaj të cilave zbatohen masat kundër financimit të terrorizmit, për të shmangur zbulimin dhe vendndodhjen e tyre, dënohen me burgim nga katër deri në dymbëdhjetë vjet. Kur kjo vepër kryhet gjatë ushtrimit të një veprimtarie profesionale, në bashkëpunim ose më shumë se një herë, dënohet me burgim nga shtatë deri në pesëmbëdhjetë vjet, ndërsa kur kryerja e kësaj vepre ka sjellë pasoja të rënda, dënohet me burgim jo më pak se pesëmbëdhjetë vjet.

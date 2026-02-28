@@ -1,0 +1,3 @@
+# Neni 293/b
+Ndërhyrja në të dhënat kompjuterike
+Dëmtimi, shtrembërimi, ndryshimi, fshirja apo suprimimi i paautorizuar i të dhënave kompjuterike dënohen me burgim nga gjashtë muaj deri në tre vjet. Kur kjo vepër kryhet në të dhënat kompjuterike ushtarake, të sigurisë kombëtare, të rendit publik, të mbrojtjes civile, të shëndetësisë apo në çdo të dhënë tjetër kompjuterike, me rëndësi publike, dënohet me burgim nga tre deri në dhjetë vjet. Në rastet kur veprimet e parashikuara në paragrafin e parë janë kryer nga një i mitur, ndaj tij do të zbatohen dispozitat e Kodit të Drejtësisë për të Mitur.

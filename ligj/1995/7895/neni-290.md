@@ -1,0 +1,3 @@
+# Neni 290
+Shkelja e rregullave të qarkullimit rrugor
+Shkelja e rregullave të qarkullimit rrugor, kur ka shkaktuar plagosjen e lehtë të disa personave, dënohet me gjobë ose me burgim deri në një vit. Shkelja e rregullave të qarkullimit rrugor, kur ka shkaktuar plagosjen e rëndë të një personi, dënohet me burgim nga një deri në pesë vjet. Shkelja e rregullave të qarkullimit rrugor, kur ka shkaktuar vdekjen e një personi, dënohet me burgim nga dy deri në dhjetë vjet. Kur nga vepra penale është shkaktuar vdekja ose plagosja e rëndë e disa personave, dënohet me burgim nga pesë deri në njëzet vjet.

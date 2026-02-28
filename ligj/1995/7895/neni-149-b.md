@@ -1,0 +1,3 @@
+# Neni 149/b
+Shkelja e të drejtave të topografisë së qarkut të gjysmëpërçuesit
+Prodhimi, përdorimi, mbajtja për qëllim tregtimi, shitja, ofrimi për shitje, furnizimi, shpërndarja, eksportimi ose importimi për këto qëllime i produktit që shkel të drejtat e topografisë së regjistruar të qarkut, të gjysmëpërçuesit ose të qarkut të integruar, pa pëlqimin e pronarit të topografisë, të kryera me dashje, përbëjnë kundërvajtje penale dhe dënohen me gjobë ose me burgim gjer në dy vit. Kur kjo vepër kryhet në bashkëpunim ose më shumë se një herë përbën kundërvajtje penale dhe dënohet me gjobë ose me burgim gjer në tre vjet.

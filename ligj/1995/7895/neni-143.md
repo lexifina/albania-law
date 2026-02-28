@@ -1,0 +1,2 @@
+# Neni 143
+Përvetësimi i pasurisë private ose publike nëpërmjet paraqitjes së fakteve të rreme ose duke fshehur fakte të vërteta, gënjeshtrës ose shpërdorimit të besimit, për vete ose persona të tjerë, përbën veprën penale të mashtrimit dhe dënohet me burgim deri në pesë vjet. Kjo vepër, kur kryhet në bashkëpunim ose më shumë se një herë, dënohet me burgim nga dy deri në gjashtë vjet. Kur vepra ka sjellë pasoja të rënda dënohet me burgim nga pesë deri në dhjetë vjet.

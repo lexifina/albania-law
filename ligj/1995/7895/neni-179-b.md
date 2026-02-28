@@ -1,0 +1,3 @@
+# Neni 179/b
+Thyerja, heqja, zëvendësimi i shenjave të sigurisë së autoriteteve doganore
+Thyerja, heqja e vulës doganore, zëvendësimi, ndërrimi ose falsifikimi i shenjave të tjera të sigurisë të vendosura nga autoritetet doganore për qëllime mbikëqyrjeje ose kontrolli ose për pezullimin e veprimtarisë tregtare në ambientet ekonomike ose të vendosura mbi mjetin e transportit ose mbi mallra ose falsifikimi në çfarëdo mënyre i numrit të identifikimit të mjetit të transportit, me qëllim shmangien nga kontrolli doganor, dënohen me burgim deri në tre vjet. Po kjo vepër, kur ka të bëjë me mallra akcize ose të ndaluara ose të kufizuara, dënohet me burgim deri në pesë vjet.

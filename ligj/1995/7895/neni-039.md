@@ -1,0 +1,3 @@
+# Neni 39
+Heqja e së drejtës të ushtrimit të një profesioni ose të një veprimtarie
+Heqja e së drejtës të ushtrimit të një profesioni ose të një veprimtarie e ndalon të dënuarin të ushtrojë profesionin ose veprimtarinë, për të cilën është dhënë leje e veçantë, dëshmi, autorizim apo licencë nga organi kompetent. Heqja e së drejtës së ushtrimit të një veprimtarie ose të një profesioni jepet për një kohë nga një muaj deri në pesë vjet dhe është rrjedhojë e çdo dënimi për vepra penale që kryhen duke i shpërdoruar ato, ose kur vlerësohet se ushtrimi i mëtejshëm i veprimtarisë apo profesionit bie ndesh me marrëdhënien juridike që synon të mbrojë vepra penale konkrete.

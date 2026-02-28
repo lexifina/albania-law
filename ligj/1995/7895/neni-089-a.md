@@ -1,0 +1,3 @@
+# Neni 89/a
+Shitblerja e paligjshme e organeve
+Shitblerja e transplanteve, si dhe çdo veprimtari që lidhet me heqjen dhe implantimin e paligjshëm të organeve, dënohet me burgim nga tre deri në shtatë vjet. Kjo vepër e kryer nga personi që shpërdoron pozitën e tij ndaj një fëmije ose një personi tjetër të pambrojtur, dënohet me burgim nga shtatë deri në dhjetë vjet. Kjo vepër, kur kryhet më shumë se një herë ose në bashkëpunim, dënohen me burgim nga dhjetë deri në pesëmbëdhjetë vjet. Kur nga vepra e mësipërme shkaktohet vdekja e viktimës ose kjo vepër kryhet nga grup i strukturuar kriminal ose organizatë kriminale dënohet nga pesëmbëdhjetë deri në njëzet e pesë vjet burgim.

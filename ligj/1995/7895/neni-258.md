@@ -1,0 +1,3 @@
+# Neni 258
+Shkelja e barazisë së pjesëmarrësve në tendera apo ankande publike
+Kryerja nga personi i ngarkuar me funksione shtetërore apo në shërbim publik i veprimeve në kundërshtim me ligjet që rregullojnë lirinë e pjesëmarrjes dhe barazinë e shtetasve në tendera dhe ankande publike, për të krijuar avantazhe ose privilegje të padrejta për të tretët, kur tenderi ose ankandi publik është deri në vlerën 800.000 lekë ose ekuivalencën në monedhë të huaj, dënohet me burgim deri në një vit. Po kjo vepër, kur kryhet në tender ose ankande publike me vlerë mbi 800.000 lekë ose ekuivalencën në monedhë të huaj, dënohet me burgim nga një deri në pesë vjet.

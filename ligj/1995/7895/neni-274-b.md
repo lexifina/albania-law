@@ -1,0 +1,3 @@
+# Neni 274/b
+Veprime të dhunshme në aktivitetet sportive
+Hyrja në fushën e lojës, gjatë kohës së zhvillimit të aktivitetit sportiv, nga persona të paautorizuar, përbën kundërvajtje penale dhe dënohet me gjobë nga 50 000 deri në 100 000 lekë. Kur nga kjo vepër ka ardhur pengimi i zhvillimit normal të aktivitetit sportiv, dënohet me gjobë ose me burgim deri në tre muaj. Hedhja e sendeve të forta në fushën e lojës ose mbi masën e njerëzve, mbajtja apo përdorimi i lëndëve piroteknike, fishekzjarreve, flakadanëve, gjatë zhvillimit të një aktiviteti sportiv, dënohen me burgim nga gjashtë muaj deri në tre vjet.

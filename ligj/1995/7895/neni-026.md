@@ -1,0 +1,3 @@
+# Neni 26
+Bashkëpunëtorët
+Bashkëpunëtorë për kryerjen e veprës penale quhen: organizatorët, ekzekutorët, shtytësit dhe ndihmësit. Organizatorë quhen ata persona që organizojnë dhe drejtojnë veprimtarinë për kryerjen e veprës penale. Ekzekutorë janë personat që kryejnë veprime të drejtpërdrejta për realizimin e veprës penale. Shtytës quhen personat që nxisin bashkëpunëtorët e tjerë për kryerjen e veprës penale. Ndihmës quhen personat që me këshilla, udhëzime, dhënie mjetesh, largim të pengesave, dhënie të premtimit për fshehjen e bashkëpunëtorëve, të gjurmëve apo të sendeve që rrjedhin nga vepra penale, ndihmojnë për kryerjen e saj.

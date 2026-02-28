@@ -1,0 +1,3 @@
+# Neni 302
+Përkrahja e autorit të krimit
+Furnizimi i autorit të një krimi me ushqime, me mjete të tjera për jetesë ose sigurimi i një banese, vendqëndrimi ose me çdo mënyrë tjetër me qëllim që t’i shpëtojë kërkimit, kapjes ose arrestimit, dënohet me gjobë ose me burgim gjer në pesë vjet. Po kjo vepër kur kryhet në lidhje me veprat penale, të parashikuara në nenet 73, 74, 75, 79, 219, 220, 221, 230, 230/a, 230/b, 231, 232, 232/a, 234/a, 234/b, 284/a, 333 e 333/a të këtij Kodi, dënohet me burgim nga dy deri në shtatë vjet. Përjashtohen nga përgjegjësia penale të paralindurit dhe të paslindurit, vëllezërit dhe motrat, bashkëshorti, adoptuesit dhe të adoptuarit.

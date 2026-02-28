@@ -1,0 +1,3 @@
+# Neni 329
+Kanosja apo dhunimi ndaj pjesëmarrësve në zgjedhje
+Kanosja që i bëhet zgjedhësit për të votuar në një mënyrë të caktuar apo për të marrë pjesë ose jo në votime, përbën vepër penale dhe dënohet me burgim nga gjashtë muaj deri në tre vjet. Kanosja apo përdorimi i dhunës që i bëhet komisionerit, vëzhguesit, numëruesit si dhe çdo zyrtari tjetër të ngarkuar me zgjedhjet për ta penguar në kryerjen e detyrës apo për shkak të veprimtarisë së tij në administrimin zgjedhor dënohet me burgim nga një vit deri në katër vjet. Kur kjo vepër kryhet në bashkëpunim ose më shumë se një herë dënohet me burgim nga dy deri në pesë vjet.

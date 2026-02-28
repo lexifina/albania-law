@@ -1,0 +1,3 @@
+# Neni 305/a
+Deklaratat e rreme përpara prokurorit
+Kushdo që, gjatë hetimeve apo procedimeve penale, i pyetur nga një prokuror që të japë informacionin e duhur lidhur me hetimin, jep të dhëna, me gojë ose me shkrim, që ai e di se janë, tërësisht ose pjesërisht, të rreme apo fsheh fakte ose prova, dënohet me gjobë ose me burgim deri në një vit. Dispozitat e këtij neni nuk janë të zbatueshme në rast se akti është kryer në çdo fazë të procedimit penal nga një person i dyshuar ose i pandehur për veprën penale ose nga dikush, që duhej të ishte përjashtuar nga kërkesa për informacion apo për të dëshmuar, për çdo arsye të ligjshme, ose që nuk ishte paralajmëruar për të drejtën për të mos dëshmuar apo për t’iu përgjigjur pyetjeve.

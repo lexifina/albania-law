@@ -1,0 +1,3 @@
+# Neni 174
+Kontrabanda me mallra të tjera
+Importimi, eksportimi ose transitimi i mallrave, nëpërmjet kalimit jashtë pikave doganore, fshehjes së plotë ose të pjesshme, mosdeklarimit të saktë në doganë, deklarimit të rremë për natyrën, llojin, cilësinë, çmimin, destinacionin e mallit ose të tjera forma, që kanë për qëllim shmangien nga detyrimet doganore ose përfitimin pjesor a tërësor të një përjashtimi, rimbursimi ose reduktimi nga tarifat doganore, taksat, tatimet, akciza ose të një avantazhi të çfarëdoshëm, që ka të bëjë me importin ose eksportin e mallrave, dënohet me burgim deri në pesë vjet. Po kjo vepër, kur kryhet në bashkëpunim ose më shumë se një herë, dënohet me burgim nga tre deri në shtatë vjet.

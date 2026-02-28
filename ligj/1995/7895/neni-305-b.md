@@ -1,0 +1,3 @@
+# Neni 305/b
+Deklaratat e rreme përpara oficerit të policisë gjyqësore
+Kushdo që, gjatë hetimit, i pyetur nga një oficer i policisë gjyqësore që të japë informacionin e duhur, jep të dhëna, me gojë ose me shkrim, që ai i di se janë, tërësisht ose pjesërisht, të rreme apo fsheh fakte ose prova, përbën kundërvajtje penale dhe dënohet me gjobë ose me burgim deri në gjashtë muaj. Dispozitat e këtij neni nuk janë të zbatueshme në rast se akti është kryer në çdo fazë të procedimit penal nga një person i dyshuar ose i pandehur për veprën penale ose nga dikush, që duhej të ishte përjashtuar nga kërkesa për informacion apo për të dëshmuar, për çdo arsye të ligjshme, ose që nuk ishte paralajmëruar për të drejtën për të mos dëshmuar apo për t’iu përgjigjur pyetjeve.

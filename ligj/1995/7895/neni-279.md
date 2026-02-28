@@ -1,0 +1,3 @@
+# Neni 279
+Prodhimi, mbajtja, blerja apo shitja pa leje e armëve të ftohta
+Prodhimi, mbajtja, blerja apo shitja, e armëve të ftohta si shpatat, bajonetat, thikat dhe mjete të tjera të përgatitura e të destinuara posaçërisht për sulm kundër personave ose për vetëmbrojtje, pa lejen e organeve kompetente, dënohen me gjobë ose me burgim deri në tre vjet. Mbajtja, blerja apo shitja në automjete apo në çdo mjet tjetër të motorizuar, në mjedise publike ose në mjedise të hapura për publikun, e armëve të ftohta si shpatat, bajonetat, thikat dhe mjete të tjera të përgatitura e të destinuara posaçërisht për sulm kundër personave ose për vetëmbrojtje, pa lejen e organeve kompetente, dënohen me burgim nga një deri në pesë vjet.

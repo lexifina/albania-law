@@ -1,0 +1,3 @@
+# Neni 326
+Falsifikimi i materialit zgjedhor dhe rezultateve të zgjedhjeve
+Falsifikimi, shpërndarja ose përdorimi i fletëve të votimit, i dokumenteve dhe materialit zgjedhor, me qëllim ndryshmin e rezultatit të zgjedhjeve nëpërmjet paraqitjes në to të të dhënave, që dihen se janë të pasakta, zëvendësimi i të saktave me të rreme ose nëpërmjet futjes në kuti të fletëve të votimit në mënyrë të paligjshme dënohet me burgim nga një gjer në pesë vjet. Po kjo vepër kur kryhet nga personat që kanë për detyrë të administrojnë procesin zgjedhor, ose ka sjellë pasoja të rënda në mbarëvajtjen e votimit, ka cenuar integritetin e rezultatit të zgjedhjeve apo ka sjellë pavlefshmërinë e tyre, dënohet me burgim nga tre gjer në shtatë vjet.

@@ -1,0 +1,3 @@
+# Neni 327
+Shkelja e fshehtësisë së votimit
+Shkelja e rregullave që garantojnë fshehtësinë e votimit nga ana e zgjedhësit, nëpërmjet fotografimit të fletës së votimit, ose filmimit të saj, ose dokumentimit me çdo mjet dhe formë të mënyrës sesi ka votuar, shfaqjes së tyre tek persona të tjerë, përbën vepër penale dhe dënohet me burgim nga tre muaj deri në tre vjet. Shkelja e rregullave që garantojnë fshehtësinë e votimit nga ana e personave të ngarkuar me zgjedhjet, përbën vepër penale dhe dënohet me burgim nga gjashtë muaj deri në tre vjet. Nxitja me ose pa shpërblim, ose detyrimi i zgjedhësit për të shkelur rregullat që garantojnë fshehtësinë e votimit, sipas paragrafit të parë të këtij neni, përbën vepër penale dhe dënohet nga një vit deri në katër vjet me burgim.

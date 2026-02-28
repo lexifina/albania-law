@@ -1,0 +1,3 @@
+# Neni 54
+Pranimi i pagimit të gjobës
+Për kundërvajtjet penale për të cilat, veç gjobës, parashikohet njëkohësisht dënimi me burgim, gjykata, me kërkesën e autorit të kundërvajtjes penale mund të pranojë që ai të paguajë aty për aty një shumë të hollash në favor të buxhetit të shtetit, e barabartë me gjysmën e maksimumit të gjobës të parashikuar për kundërvajtjet penale në Pjesën e Përgjithshme të këtij Kodi. Kërkesa mund të paraqitet në çdo fazë të gjykimit deri përpara dhënies së vendimit përfundimtar të shkallës së parë. Kur gjykata nuk pranon kërkesën, jep dënimin për veprën e kryer. Pranimi i kërkesës nuk lejohet për personat që më parë janë dënuar edhe për kundërvajtje penale.

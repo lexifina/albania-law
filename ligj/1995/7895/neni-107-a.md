@@ -1,0 +1,3 @@
+# Neni 107/a
+Dhuna seksuale
+Ushtrimi i dhunës seksuale, nëpërmjet kryerjes së veprimeve me natyrë seksuale në trupin e një personi tjetër me objekte, përbën vepër penale dhe dënohet me burgim nga tre deri në shtatë vjet. Kur kjo vepër kryhet në bashkëpunim, kundër disa personave, më shumë se një herë, ose kundër fëmijëve të moshës katërmbëdhjetë deri në tetëmbëdhjetë vjeç dënohet me burgim nga pesë deri në pesëmbëdhjetë vjet. Kur kjo vepër kryhet ndaj një të mituri që nuk ka arritur moshën katërmbëdhjetë vjeç apo një të mituri që nuk ka arritur pjekurinë seksuale, pavarësisht nëse kryhet me dhunë apo jo, dënohet me burgim jo më pak se njëzet vjet. Kur kjo vepër ka sjellë si pasojë vdekjen ose vetëvrasjen e të dëmtuarit dënohet me burgim jo më pak se njëzet e pesë vjet.

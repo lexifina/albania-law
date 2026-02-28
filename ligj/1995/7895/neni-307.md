@@ -1,0 +1,3 @@
+# Neni 307
+Refuzimi për të dëshmuar
+Refuzimi për t’iu përgjigjur pyetjeve rreth dijenisë për kryerjen e një vepre penale apo të autorit të saj, përbën kundërvajtje penale dhe dënohet me gjobë ose me burgim gjer në një vit. Kur refuzimi për të dëshmuar bëhet me qëllim fitimi apo çdo interes tjetër të dhënë apo të premtuar, dënohet me burgim nga një deri në katër vjet. Dispozitat e këtij neni nuk janë të zbatueshme në rast se akti është kryer në çdo fazë të procedimit penal nga një person i dyshuar ose i pandehur për veprën penale ose nga dikush, që duhej të ishte përjashtuar nga kërkesa për informacion apo për të dëshmuar, për çdo arsye të ligjshme, ose që nuk ishte paralajmëruar për të drejtën për të mos dëshmuar apo për t’iu përgjigjur pyetjeve.

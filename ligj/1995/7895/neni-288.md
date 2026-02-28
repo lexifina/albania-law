@@ -1,0 +1,3 @@
+# Neni 288
+Importimi, prodhimi, shitja dhe ruajtja e ushqimeve të rrezikshme për shëndetin ose jetën e njerëzve
+Importimi, prodhimi, ruajtja, shitja apo vendosja në qarkullim në ndonjë mënyrë tjetër i ushqimeve ose futja në prodhimin e artikujve ushqimorë e kimikateve, materialeve apo lëndëve shtesë, që rrezikojnë shëndetin ose jetën e njerëzve, në shkelje të kërkesave të legjislacionit të posaçëm, dënohet me burgim deri në tre vjet. Kur nga kjo vepër ka ardhur vdekja ose dëmtimi i rëndë i shëndetit të personit, dënohet me burgim nga tre deri në dhjetë vjet. Kur nga vepra është shkaktuar vdekja ose dëmtimi i rëndë i shëndetit të disa personave, dënohet me burgim nga dhjetë deri në njëzet e pesë vjet.

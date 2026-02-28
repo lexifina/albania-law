@@ -1,0 +1,3 @@
+# Neni 73
+Genocidi (Hequr togfjalësh me ligjin nr. 8733, datë 24.1.2001)
+Zbatimi i një plani të paramenduar që synon shkatërrimin tërësisht apo pjesërisht të një grupi nacional, etnik, racial apo fetar i drejtuar kundër anëtarëve të grupit dhe i shoqëruar me veprat që vijojnë, si: vrasje me dashje të anëtarëve të grupit, dëmtime të rënda fizike dhe psikike, vendosja në kushte jetese të rënda që shkaktojnë shkatërrimin fizik, zbatimi i masave që synojnë pengimin e lindjeve, si dhe transferimi i detyrueshëm i fëmijëve të një grupi në një grup tjetër, dënohet me burgim jo më pak se dhjetë vjet ose me burgim të përjetshëm.

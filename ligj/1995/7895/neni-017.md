@@ -1,0 +1,3 @@
+# Neni 17
+Papërgjegjshmëria për shkak të gjendjes mendore
+Nuk ka përgjegjësi penale personi që në kohën e kryerjes së veprës vuante nga një turbullim psikik ose neuropsikik që ka prishur tërësisht ekuilibrin e tij mendor dhe për pasojë nuk ka qenë në gjendje të kontrollojë veprimet apo mosveprimet e tij dhe as të kuptojë se kryen vepër penale. Personi që në kohën e kryerjes së veprës penale vuante nga një turbullim psikik ose neuropsikik, që ka ulur ekuilibrin e tij mendor për të kuptuar dhe kontrolluar plotësisht veprimet apo mosveprimet e tij, është i përgjegjshëm, por kjo rrethanë mbahet parasysh nga gjykata në caktimin e masës dhe llojit të dënimit.

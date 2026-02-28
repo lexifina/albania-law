@@ -1,0 +1,3 @@
+# Neni 287/b
+Përvetësimi i parave ose mallrave që rrjedhin nga vepra penale ose veprimtaria kriminale
+Kushdo që blen, merr, fsheh apo, në një mënyrë tjetër, përvetëson për vete ose një palë të tretë, apo ndihmon në blerjen, marrjen, fshehjen ose përdorimin e parave apo mallrave të tjera, duke ditur se një person tjetër ka përfituar këto para apo mallra, si pasojë e kryerjes së një vepre penale ose veprimtarie kriminale, dënohet me burgim nga gjashtë muaj gjer në tre vjet. Paragrafi i parë i këtij neni zbatohet pavarësisht ndalimit ligjor për të marrë në përgjegjësi penale personin që ka kryer veprën penale, nga e cila rrjedh përvetësimi i parave ose i mallrave të tjera.

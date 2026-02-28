@@ -1,0 +1,7 @@
+# Neni 59
+Pezullimi i ekzekutimit të vendimit me burgim dhe vënia në provë
+1. Për shkak të rrezikshmërisë së paktë të personit, moshës, kushteve shëndetësore apo mendore, mënyrës së jetesës dhe të nevojave, veçanërisht atyre që lidhen me familjen, shkollimin ose punën, rrethanave të kryerjes së veprës penale, si dhe të sjelljes pas kryerjes së veprës penale, gjykata, kur jep dënim me burg deri në pesë¸ vjet, mund të urdhërojë, që i dënuari të mbajë kontakte me shërbimin e provës dhe të vihet në provë, duke pezulluar ekzekutimin e dënimit, me kusht që gjatë kohës së provës të mos kryejë vepër tjetër penale.
+2. Gjykata urdhëron që i dënuari të përmbushë një apo më shume detyrime, të parashikuara në nenin 60 të këtij Kodi.
+3. Për dënimet e dhëna deri në dy vjet burgim, të pezulluara nga gjykata, afati i provës është sa dyfishi i kohës së dënimit me burgim të dhënë nga gjykata.
+4. Afati i provës, me përjashtim të rregullit të parashikuar në paragrafin 3 të këtij neni, është 24 muaj deri në 5 vjet. Afati i provës mund të shkurtohet ose zgjatet në varësi të mënyrës së ekzekutimit të provës dhe kushteve personale të të dënuarit, por pa cenuar afatin minimal dhe maksimal të parashikuar në këtë paragraf.
+5. Nëse i dënuari nuk mban kontakte me shërbimin e provës apo nuk përmbush detyrimet e parashikuara në nenin 60, siç është urdhëruar nga gjykata, gjykata vendos zëvendësimin e dënimit të parë me një dënim tjetër, zgjatjen e afatit të mbikëqyrjes, brenda periudhës së provës, ose revokimin e pezullimit të ekzekutimit të vendimit.

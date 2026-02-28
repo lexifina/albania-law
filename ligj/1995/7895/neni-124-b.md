@@ -1,0 +1,3 @@
+# Neni 124/b
+Keqtrajtimi i të miturit
+Keqtrajtimi fizik ose psikologjik i të miturit nga prindërit, motra, vëllai, gjyshi, gjyshja, kujdestari ligjor ose çdo person që është i detyruar të kujdeset për të, dënohet me burgim nga tre muaj gjer në dy vjet. Detyrimi, shfrytëzimi, shtytja ose përdorimi i të miturit për të punuar, për të siguruar të ardhura, për të lypur apo për të kryer veprime që dëmtojnë zhvillimin e tij mendor dhe/ose fizik, apo arsimimin e tij, dënohet me burgim nga dy deri në pesë vjet. Kur nga vepra është shkaktuar dëmtimi i rëndë i shëndetit ose vdekja e të miturit, dënohet me burgim nga dhjetë deri në njëzet vjet.

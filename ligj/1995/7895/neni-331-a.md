@@ -1,0 +1,3 @@
+# Neni 331/a
+Marrja ose përdormi i paligjshëm i dokumenteve të identifikimit
+Dhënia e dokumentit të identifikimit me qëllim përdorimin e tij në mënyrë të paligjshme për zgjedhje, garantimin e mospjesëmarrjes në votime, për të ndikuar në mënyrën e votimit, ose për çdo qëllim tjetër të paligjshëm që lidhet me zgjedhjet, përbën vepër penale dhe dënohet me burgim nga një vit deri në tre vjet. Marrja e dokumentit të identifikimit të shtetasve të tjerë, me qëllim përdorimin e tij në mënyrë të paligjshme për zgjedhje, moslejimin për të votuar, për të ndikuar në mënyrën e votimit, ose për çdo qëllim tjetër të paligjshëm që lidhet me zgjedhjet, përbën vepër penale dhe dënohet me burgim nga një deri në pesë vjet.

@@ -1,0 +1,3 @@
+# Neni 244
+Korrupsioni aktiv i personave që ushtrojnë funksione publike
+Premtimi, propozimi ose dhënia, drejtpërdrejt ose tërthorazi, i çfarëdo përfitimi të parregullt deri në vlerën 50.000 lekë ose ekuivalencën në monedhë të huaj personit që ushtron funksionin publik, për vete ose për persona të tjerë për të kryer ose mos kryer një veprim, që lidhet me detyrën ose funksionin e tij, dënohen me burgim nga gjashtë muaj deri në një vit. Po kjo vepër, kur përfitimi i parregullt i personit që ushtron funksionin publik, për vete ose për persona të tjerë, është mbi vlerën 50.000 lekë, ose ekuivalencën në monedhë të huaj, dënohet me burgim nga një deri në tre vjet.

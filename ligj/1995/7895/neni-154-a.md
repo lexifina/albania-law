@@ -1,0 +1,3 @@
+# Neni 154/a
+Shkatërrimi i ndërtesave dhe objekteve të tjera
+Kryerja me dashje e çdo veprimi tjetër, të ndryshëm me ato të parashikuara nga nenet e mësipërme të këtij seksioni, që mund të sjellë shkatërrimin e plotë ose të pjesshëm të ndërtesës, të objektit qytetar, të veprës industriale, të infrastrukturës apo të çdo objekti tjetër ose që mund të rrezikojë jetën ose shëndetin e njerëzve, nëse nuk përbën vepër tjetër penale, dënohet me gjobë ose me burgim deri në pesë vjet. Kur nga vepra penale kanë ardhur pasoja të rënda materiale, dënohet me burgim nga pesë deri në dhjetë vjet. Kur janë shkaktuar pasoja të rënda për jetën dhe shëndetin e njerëzve, dënohet me burgim nga pesë deri në pesëmbëdhjetë vjet.

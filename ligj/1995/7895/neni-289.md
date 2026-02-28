@@ -1,0 +1,3 @@
+# Neni 289
+Shkelja e rregullave të mbrojtjes në punë
+Shkaktimi i vdekjes ose dëmtimi i rëndë i shëndetit të personit ardhur si pasojë e mosrespektimit të rregullave që kanë të bëjnë me punën, prodhimin, shërbimin, të përcaktuara në ligj, në aktet e Këshillit të Ministrave apo në rregulloret përkatëse të sigurimit teknik, të disiplinës teknike, të mbrojtjes në punë, të higjienës dhe sigurimit nga zjarri prej personave të ngarkuar me respektimin e rregullave dhe marrjen e masave në zbatim të tyre, dënohet me gjobë ose me burgim gjer në dhjetë vjet. Kur nga vepra penale është shkaktuar vdekja ose dëmtimi i rëndë i shëndetit të disa personave, dënohet me burgim jo më pak se pesë vjet.

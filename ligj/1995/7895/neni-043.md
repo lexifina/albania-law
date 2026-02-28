@@ -1,0 +1,3 @@
+# Neni 43
+Publikimi i vendimit gjyqësor
+Publikimi i vendimit gjyqësor jepet nga gjykata kur çmon se njohja e përmbajtjes së vendimit ka interes për persona juridikë e fizikë. Publikimi i vendimit gjyqësor konsiston në detyrimin e të dënuarit që me shpenzimet e veta të publikojë në një apo disa gazeta ose stacione radiotelevizive tërësisht apo pjesërisht vendimin gjyqësor, sipas urdhërimit të bërë nga gjykata. Data e publikimit dhe kohëzgjatja e tij caktohen nga gjykata. Organet e shtypit dhe të radiotelevizionit janë të detyruar të bëjnë publikimin e vendimit gjyqësor të dërguar nga gjykata. Publikimi i vendimit gjyqësor nuk jepet kur rrezikohet përhapja e sekretit shtetëror, cenohet jeta intime e personave ose preket morali shoqëror.

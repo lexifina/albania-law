@@ -1,0 +1,3 @@
+# Neni 58
+Gjysmëliria
+Për dënimin deri në një vit burgim, gjykata, për shkak të detyrimeve të personit të dënuar për punën, arsimin, kualifikimin ose aftësimin profesional, përgjegjësitë thelbësore familjare apo për nevojën për trajtim ose rehabilitim mjekësor, mund të vendosë ekzekutimin e vendimit me burgim me gjysmëliri. Personi i dënuar, që vuan dënimin me gjysmëliri, është i detyruar të kthehet në burg, pasi të ketë kryer detyrimet jashtë burgut, brenda periudhës kohore të përcaktuar nga gjykata. Kur personi i dënuar nuk përmbush detyrimet, sipas këtij neni, zbatohet neni 62 i këtij Kodi.

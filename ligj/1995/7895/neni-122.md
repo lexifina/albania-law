@@ -1,0 +1,2 @@
+# Neni 122
+Përhapja e sekreteve vetjake Përhapja e një sekreti që i përket jetës private të një personi nga ai që e siguron atë për shkak të detyrës ose të profesionit, kur detyrohet të mos e përhapë pa qenë i autorizuar, përbën kundërvajtje penale dhe dënohet me gjobë ose me burgim gjer në një vit. Po kjo vepër, e kryer me qëllim fitimi ose për të dëmtuar një person tjetër, përbën kundërvajtje penale dhe dënohet me gjobë ose me burgim gjer në dy vjet.

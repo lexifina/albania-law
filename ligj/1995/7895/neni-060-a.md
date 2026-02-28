@@ -1,0 +1,3 @@
+# Neni 60/a
+Detyrimi për të hequr dorë nga përdorimi i alkoolit ose drogës
+Gjykata, ndaj të dënuarit të vënë në provë, i cili është në kushtet e varësisë kronike ndaj alkoolit apo lëndëve narkotike, vendos detyrimin për t’iu nënshtruar trajtimeve mjekësore për heqjen dorë nga përdorimi i alkoolit apo drogës. Trajtimi mjekësor për heqjen dorë nga përdorimi i alkoolit apo drogës bëhet në institucionin mjekësor të specializuar, sipas përcaktimit që bën Ministria e Shëndetësisë, në bazë të kërkesës së shërbimit të provës. Shërbimi i provës mbikëqyr ekzekutimin e vendimit të gjykatës dhe i raporton menjëherë prokurorit, kur personi i dënuar nuk përmbush detyrimin e vendosur sipas parashikimeve të nenit 60 të këtij Kodi.

@@ -1,0 +1,14 @@
+# Neni 287
+Pastrimi i produkteve të veprës penale ose veprimtarisë kriminale
+Pastrimi i produkteve të veprës penale ose veprimtarisë kriminale, nëpërmjet:
+a) këmbimit ose transferimit të pasurisë, me qëllim fshehjen ose mbulimin e origjinës së paligjshme të saj, ose për të ndihmuar çdo person që është i përfshirë në kryerjen e veprës penale për t’iu shmangur pasojave ligjore të veprimeve të tij, duke ditur se kjo pasuri është produkt i një vepre penale;
+b) fshehjes ose mbulimit të natyrës së vërtetë, burimit, vendndodhjes, disponimit, zhvendosjes, pronësisë ose të drejtave në lidhje me pasurinë, duke ditur që kjo pasuri është produkt i veprës penale;
+c) fitimit të pronësisë, posedimit ose përdorimit të pasurisë, duke e ditur në çastin e marrjes në dorëzim të saj, që kjo pasuri është produkt i veprës penale;
+ç) kryerjes së veprimeve financiare ose transaksioneve të copëzuara për shmangien nga raportimi, sipas legjislacionit për parandalimin e pastrimit të parave;
+d) investimit në veprimtari ekonomike ose financiare të parave a sendeve, duke ditur se janë produkte të veprës penale;
+dh) këshillimit, ndihmës, nxitjes ose thirrjes publike për kryerjen e secilës prej veprave të përcaktuara më sipër; dënohet me burgim nga pesë gjer në dhjetë vjet. Kur kjo vepër kryhet gjatë ushtrimit të një veprimtarie profesionale, nga subjekte të legjislacionit në fuqi për pastrimin e parave, në bashkëpunim ose më shumë se një herë, dënohet me burgim nga shtatë gjer në pesëmbëdhjetë vjet. E njëjta vepër, kur ka sjellë pasoja të rënda, dënohet jo më pak se pesëmbëdhjetë vjet me burgim. Dispozitat e këtij neni zbatohen edhe kur:
+a) vepra penale, produktet e së cilës pastrohen, është kryer nga një person që nuk mund të merret si i pandehur ose që nuk mund të dënohet;
+b) ndjekja penale për veprën, produktet e së cilës pastrohen, është parashkruar ose amnistuar;
+c) personi që kryen pastrimin e produkteve është i njëjtë me personin që ka kryer veprën, nga e cila kanë rrjedhur produktet;
+ç) për veprën penale, nga e cila kanë ardhur produktet, nuk është filluar asnjëherë çështja penale apo nuk është dhënë një dënim me vendim penal të formës së prerë; ç/1) vërtetohet se produktet që pastrohen rrjedhin nga një vepër penale, pa qenë e nevojshme të përcaktohen të gjitha elementet faktike ose të gjitha rrethanat që lidhen me atë vepër penale, përfshirë identitetin e personit që e ka kryer veprën.
+d) vepra penale, produktet e së cilës pastrohen, është kryer nga një person, pavarësisht shtetësisë së tij, jashtë territorit të Republikës së Shqipërisë dhe është e dënueshme në Republikën e Shqipërisë. Dijenia dhe qëllimi, sipas paragrafit të parë të këtij neni, nxirren nga rrethana fakti objektive. Dispozitat e këtij neni nuk zbatohen për pasuri që është produkt i veprave penale që prekin interesat financiare të Bashkimit Evropian.

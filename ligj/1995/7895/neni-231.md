@@ -1,0 +1,3 @@
+# Neni 231
+Rekrutimi i personave për kryerjen e veprave me qëllime terroriste ose të financimit të terrorizmit
+Rekrutimi i një ose më shumë personave për kryerjen, ose për dhënien e kontributit në kryerjen e veprave me qëllime terroriste, veprave të parashikuara në nenin 230, shkronjat “a” deri “m/1”, dhe nenin 234/a të këtij Kodi, ose të financimit të terrorizmit, edhe kur këto vepra drejtohen kundër një shteti tjetër, institucioni apo organizate ndërkombëtare, por pa qenë e nevojshme që këto vepra të kryhen, dënohet me burgim jo më pak se dhjetë vjet. Kur kjo vepër synon rekrutimin e fëmijëve, dënimi përkatës shtohet deri në një të dytën e tij.

@@ -1,0 +1,3 @@
+# Neni 40
+Heqja e së drejtës të ushtrimit të detyrave drejtuese
+Heqja e së drejtës të ushtrimit të detyrave drejtuese pranë personave juridikë, i heq mundësinë të dënuarit të ushtrojë detyrat e drejtorit, të administratorit, sipërmarrësit, likuidatorit, si dhe çdo detyrë tjetër që ka të bëjë me cilësinë e përfaqësuesit të personit juridik. Heqja e së drejtës të ushtrimit të detyrave drejtuese pranë personave juridikë është rrjedhojë e çdo dënimi për vepra penale dhe jepet për një kohë nga një muaj gjer në pesë vjet, kur i dënuari ka shpërdoruar funksionet apo ka vepruar në kundërshtim me rregullat që lidhen me detyrën. Kur dënimi i dhënë nga gjykata është jo më pak se pesë vjet burgim, kjo e drejtë mund të hiqet për një kohë nga pesë deri në dhjetë vjet.
