@@ -1,0 +1,1 @@
+21. Ankimi ndaj vendimit të komisionit të vlerësimit për refuzimin e aplikimit apo për vlerën e përllogaritur të mbështetjes financiare, që i akordohet kandidatit përfitues apo personit shoqërues, i drejtohet drejtorit të përgjithshëm të AKR-së, nëpërmjet portalit “e-Albania”, në përputhje me rregullat e parashikuara në Kodin e Procedurave Administrative.

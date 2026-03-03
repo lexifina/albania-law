@@ -1,0 +1,1 @@
+16. Vendimi për pranimin apo refuzimin e aplikimit për mbështetje financiare merret me shumicë votash nga anëtarët e komisionit të vlerësimit dhe i njoftohet kandidatit në portalin “e-Albania” me nënshkrim ose vulë elektronike.

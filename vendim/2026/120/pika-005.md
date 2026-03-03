@@ -1,0 +1,1 @@
+5. AKR-ja bashkëpunon me ministrinë përgjegjëse për punët e jashtme dhe përfaqësitë diplomatike të Republikës së Shqipërisë jashtë vendit, kur nevojitet verifikimi i organizatorëve dhe i veprimtarisë ndërkombëtare apo për lehtësimin e pjesëmarrjes së të rinjve në vendin pritës.

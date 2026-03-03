@@ -1,0 +1,1 @@
+1. Ky vendim ka si objekt miratimin e rregullave për organizimin e Programit të Talenteve Rinore (në vijim, Programi), si dhe të kritereve, të mënyrës së mbështetjes dhe të masës së shpërblimit financiar për të rinjtë përfitues në program.

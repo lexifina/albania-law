@@ -1,0 +1,1 @@
+23. Kandidati përfitues dhe personi shoqërues dorëzojnë pranë AKR-së dokumentet justifikuese të udhëtimit dhe të akomodimit, brenda 14 (katërmbëdhjetë) ditëve kalendarike nga data e përfundimit të veprimtarisë ndërkombëtare.

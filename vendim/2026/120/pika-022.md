@@ -1,0 +1,1 @@
+22. AKR-ja lidh marrëveshjen për mbështetjen financiare të kandidatit përfitues dhe të personit shoqërues. Disbursimi i mbështetjes financiare bëhet nga AKR-ja tek llogaria bankare e përfituesit dhe e shoqëruesit të tij, brenda 14 (katërmbëdhjetë) ditëve kalendarike nga nënshkrimi i marrëveshjes për mbështetjen nga Programi.

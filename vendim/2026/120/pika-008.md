@@ -1,0 +1,4 @@
+8. Kompensimi i shpenzimeve për pjesëmarrjen në veprimtarinë ndërkombëtare përfshin, si më poshtë vijon:
+a) Shpenzimet e udhëtimit vajtje-ardhje, përllogaritur në bazë të distancës ajrore në kilometra, nga vendi i nisjes tek vendi i zhvillimit të veprimtarisë, sipas vlerës financiare të përcaktuar për distancat në lidhjen 1, që i bashkëlidhet këtij vendimi;
+b) Shpenzimet e akomodimit përgjatë zhvillimit të veprimtarisë ndërkombëtare, të përllogaritur në bazë të netëve të qëndrimit dhe vlerës së kompensimit financiar për natë qëndrimi, të përcaktuar për shtetin ku zhvillohet veprimtaria ndërkombëtare, sipas lidhjes 2, që i bashkëlidhet këtij vendimi;
+c) Shpenzimet e udhëtimit vajtje-ardhje dhe akomodimi për një person shoqërues, kur kandidati është fëmijë apo është person me aftësi të kufizuara, që mbështetet me ndihmës personal, në bazë të legjislacionit në fuqi për përfshirjen dhe aksesueshmërinë e personave me aftësi të kufizuara.
