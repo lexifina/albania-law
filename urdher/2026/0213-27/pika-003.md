@@ -1,0 +1,1 @@
+3. Urdhri nr. 212, datë 17.12.2025, i ministrit të Punëve të Brendshme, “Për caktimin e zëvendësdrejtorit të përgjithshëm të Gardës së Republikës së Shqipërisë për ushtrimin e kompetencave dhe detyrave të drejtorit të përgjithshëm të Gardës së Republikës së Shqipërisë”, shfuqizohet.
