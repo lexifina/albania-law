@@ -1,0 +1,3 @@
+12. AMLF-ja shqyrton kërkesën për anulim vendimi brenda 5 (pesë) ditëve nga paraqitja e kësaj kërkese dhe vendos:
+a) të miratojë kërkesën për anulimin e vendimit në rastet kur provohet dhe identifikohet qartë ndryshimi i rrethanave të lojtarit dhe nuk ekzistojnë më pengesat e shkaqet për moslejim të lojtarit për t’u futur në ambientet e lojërave të fatit apo në faqe interneti, në aplikacione ose në platformë elektronike; ose
+b) të refuzojë kërkesën për anulim të vendimit, në rastet kur konstatohet se kërkesa e paraqitur nuk provon ndryshimin e rrethanave dhe të fakteve, mbi të cilat është marrë vendimi për moslejim të lojtarit.

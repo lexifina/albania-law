@@ -1,0 +1,1 @@
+2. Ky vendim ka si qëllim, gjithashtu, parandalimin, minimizimin dhe eliminimin e pasojave socio-ekonomike të lidhura me frekuentimin e lojërave të fatit nga ana e personave që shfaqin probleme me përdorimin e lojërave të fatit, probleme, të cilat kërcënojnë seriozisht stabilitetin financiar familjar e individual të lojtarit.

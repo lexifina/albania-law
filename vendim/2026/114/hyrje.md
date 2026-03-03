@@ -1,0 +1,5 @@
+VENDIM
+Nr. 114, datë 27.2.2026
+PËR KRIJIMIN, MBAJTJEN DHE FUNKSIONIMIN E REGJISTRIT ELEKTRONIK TË PERSONAVE, PËR TË CILËT ËSHTË VENDOSUR MOSLEJIMI PËR T’U FUTUR NË AMBIENTET E LOJËRAVE TË FATIT, NË FAQE INTERNETI, NË APLIKACIONE OSE NË PLATFORMË ELEKTRONIKE, KU MUND TË LUHEN LOJËRAT E FATIT, SIPAS KATEGORISË SË LICENCUAR, SI DHE RREGULLAT PËR PARAQITJEN, SHQYRTIMIN, MIRATIMIN, ANULIMIN APO REFUZIMIN E KËRKESËS PËR MOSLEJIMIN E PERSONAVE PËR TË HYRË NË AMBIENTET E LOJËRAVE TË FATIT
+Në mbështetje të nenit 100 të Kushtetutës, të pikës 5, të nenit 6, të ligjit nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”, të ndryshuar, dhe të nenit 4, të ligjit nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, me propozimin e ministrit të Financave, Këshilli i Ministrave
+VENDOSI:

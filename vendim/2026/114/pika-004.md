@@ -1,0 +1,1 @@
+4. Regjistri do të jetë i aksesueshëm nga të gjithë organizatorët e lojës së fatit të kategorisë përkatëse, të licencuar sipas ligjit nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”, të ndryshuar.

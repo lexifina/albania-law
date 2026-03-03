@@ -1,0 +1,1 @@
+11. Kërkesa për anulim paraqitet nga personat e përcaktuar në pikën 1 të këtij kreu dhe përmban argumentet, arsyet e faktet, që provojnë ndryshimin e rrethanave mbi të cilat ishte akorduar vendimi për moslejimin e lojtarit, si dhe çdo dokumentacion shoqërues që disponon kërkuesi.

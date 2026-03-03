@@ -1,0 +1,1 @@
+3. Regjistri elektronik i personave, për të cilët është vendosur moslejimi për t’u futur në ambientet e lojërave të fatit apo në faqe interneti, në aplikacione ose në platformë elektronike, ku mund të luhen lojëra fati, sipas kategorisë së licencuar (në vijim “Regjistri”), administrohet nga Autoriteti i Mbikëqyrjes të Lojërave të Fatit (në vijim “AMLF”).

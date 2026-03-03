@@ -1,0 +1,4 @@
+1. Ky vendim përcakton:
+a) krijimin e regjistrit elektronik të personave, për të cilët është vendosur moslejimi për t’u futur në ambientet e lojërave të fatit apo në faqe interneti, në aplikacione ose në platformë elektronike, ku mund të luhen lojëra fati, sipas kategorisë së licencuar;
+b) rregullat për paraqitjen, shqyrtimin, miratimin, anulimin apo refuzimin e kërkesës për moslejimin e personit për të hyrë në ambientet e lojërave të fatit, në faqe interneti, në aplikacione ose në platformë elektronike, ku mund të luhen lojëra fati, sipas kategorisë së licencuar;
+c) rregullat e mbajtjes e të funksionimit të regjistrit elektronik të personave, për të cilët është vendosur moslejimi për t’u futur në ambientet e lojërave të fatit, në faqe interneti, në aplikacione ose në platformë elektronike, ku mund të luhen lojëra fati, sipas kategorisë së licencuar.

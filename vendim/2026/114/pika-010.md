@@ -1,0 +1,1 @@
+10. Kërkuesi, ndaj të cilit është dhënë një vendim nga AMLF-ja për moslejimin për t’u futur në ambientet e lojërave të fatit apo në faqe interneti, në aplikacione ose në platformë elektronike, ka të drejtën të paraqesë një kërkesë anulimi të këtij vendimi pranë AMLF-së, por jo më parë se 3 (tre) muaj nga data hyrjes në fuqi të vendimit.
