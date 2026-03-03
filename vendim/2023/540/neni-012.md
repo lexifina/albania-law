@@ -4,7 +4,7 @@ Përcaktimi i strukturave dhe i autoriteteve për menaxhimin indirekt
 a) një njësi e veçantë brenda Zyrës së KKIPA-së, për programet kombëtare vjetore;
 b) një drejtori e veçantë në organikën e ministrisë përgjegjëse për energjinë për programin operativ shumëvjeçar në fushën e energjisë (2024-2027);
 c) një drejtori e veçantë në organikën e Agjencisë Kombëtare të Shoqërisë së Informacionit për programin operativ shumëvjeçar në fushën e ekonomisë dhe shoqërisë digjitale (2024-2027);
-ç) një drejtori e veçantë në organikën e ministrisë përgjegjëse për financat për programin operativ shumëvjeçar në fushën e garancisë rinore (2024-2027).
+ç) një drejtori e veçantë në organikën e ministrisë përgjegjëse për politikat e punësimit, për programin operativ shumëvjeçar në fushën e punësimit të të rinjve (2024-2027).
 2. Titullari i institucionit përgjegjës përcakton me urdhër të veçantë drejtorinë që duhet të përmbushë rolin e Autoritetit Menaxhues për programet shumëvjeçare.
 3. Roli dhe përgjegjësitë e Organit të Ndërmjetëm për Menaxhimin e Politikave, të përmendur në nenet 3, pika 1, shkronja “dh”, dhe 10, të këtij vendimi, përmbushet, përkatësisht:
 a) për programin operativ shumëvjeçar për energjinë 2024-2027:

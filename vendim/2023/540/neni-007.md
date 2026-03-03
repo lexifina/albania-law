@@ -1,11 +1,8 @@
 # Neni 7
 Struktura menaxhuese
-1. Struktura menaxhuese përbëhet nga:
-a) Zyra Mbështetëse e ZKA-së;
-b) organi kontabël.
-Përgjegjësitë dhe detyrimet e Zyrës Mbështetëse të ZKA-së dhe organit kontabël të ZKA-së ndahen në mënyrë të përshtatshme.
-2. Përgjegjësitë e Zyrës Mbështetëse të ZKA-së i ngarkohen drejtorisë mbështetëse të ZKA-së në ministrinë përgjegjëse për financat.
-3. Përgjegjësitë e organit kontabël për programet IPA III i ngarkohen Drejtorisë së Fondit Kombëtar në ministrinë përgjegjëse për financat.
+1 Struktura menaxhuese e përbërë nga zyra mbështetëse e ZKA-së dhe organi kontabël, si struktura të veçanta, drejtohet nga drejtori i përgjithshëm i strukturës për menaxhimin e fondeve të Bashkimit Evropian në ministrinë përgjegjëse për financat, nën përgjegjësinë e ZKA-së, për zbatimin e programit IPA III, sipas funksioneve të përcaktuara në këtë vendim dhe në përputhje me manualet e brendshme të procedurave dhe rregulloren e brendshme të Ministrisë së Financave.
+2. Përgjegjësitë e Zyrës Mbështetëse të ZKA-së i ngarkohen strukturës përkatëse në ministrinë përgjegjëse për financat.
+3. Përgjegjësitë e organit kontabël për programet IPA III i ngarkohen strukturës përkatëse Kombëtar në ministrinë përgjegjëse për financat.
 4. Struktura menaxhuese kryen detyrat e përgjegjësitë e përcaktuara në FFPA dhe marrëveshje financimi, si dhe i përgjigjet ZKA-së.
 5. Struktura kontabël kryen detyrat e përcaktuara në pikën 5, të nenit 61, dhe klauzolën 4, pika 3, të aneksit A, të FFPA-së, dhe është përgjegjëse për:
 a) mbështetjen e ZKA-së në kryerjen e detyrave të saj në lidhje me kontabilitetin, menaxhimin financiar dhe operacionet financiare të programeve IPA III nën përgjegjësinë e ZKA-së;
