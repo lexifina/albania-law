@@ -4,6 +4,10 @@ Nr. 9, datë 3.5.2024
 
 PËR ORGANIZIMIN E TESTIMIT TË INFORMATIZUAR TË KANDIDATËVE PËR T’U PUNËSUAR NË INSTITUCIONET ARSIMORE PUBLIKE TË ARSIMIT PARAUNIVERSITAR
 
+(Ndryshuar me udhëzimin nr. 6, datë 3.3.2026)
+
+(i përditësuar)
+
 Në mbështetje të nenit 102 të Kushtetutës së Republikës së Shqipërisë dhe nenit 26, të ligjit nr. 69/2012, datë 21.6.2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, të ndryshuar,
 
 UDHËZOJ:
@@ -108,7 +112,7 @@ g) merr masa për gjenerimin e tezës sipas strukturës së testimit të informa
 
 gj) mban procesverbale për çdo vendimmarrje gjatë procedurave të zhvillimit të testimit të informatizuar, deri në shpalljen e rezultateve;
 
-h) dërgon në AKAP dhe në MAS rezultatet e testimit përfundimtar;
+h) dërgon në AKAP dhe në MA rezultatet e testimit përfundimtar;
 
 i) harton raportin statistikor, lidhur me rezultatet e testimit të informatizuar dhe ia paraqet ministrit përgjegjës për arsimin;
 
@@ -166,7 +170,7 @@ a) Provimi i licencës 40 pikë (sasia e pikëve që kandidati fiton nga provimi
 
 b) Testimi i informatizuar për njohuritë psiko-pedagogjike 30 pikë.
 
-4. QSHA-ja bën konvertimin e vlerësimit të testimit të informatizuar dhe ua dërgon AKAP-së dhe MAS-it.
+4. QSHA-ja bën konvertimin e vlerësimit të testimit të informatizuar dhe ua dërgon AKAP-së dhe MA -së.
 
 KREU III
 
@@ -192,9 +196,11 @@ Neni 12
 
 Llojet e testimit të informatizuar
 
+(Shtuar togfjalësh me udhëzimin nr. 6, datë 3.3.2026)
+
 Provimi i testimit të informatizuar realizohet për profilet/lëndët e mëposhtme:
 
-Arsimi parashkollor, arsimi fillor, gjuhë shqipe dhe letërsi, gjuhë angleze, gjuhë frënge, gjuhë italiane, gjuhë gjermane, matematikë, fizikë, biologji, kimi, histori, gjeografi, teknologji informacioni dhe komunikimi (TIK), shkenca sociale, ekonomi, edukim fizik, muzikë, art pamor, arsim special, muzikë për shkollat artistike, art pamor për shkollat artistike, balet.
+Arsimi parashkollor, arsimi fillor, gjuhë shqipe dhe letërsi, gjuhë angleze, gjuhë frënge, gjuhë italiane, gjuhë gjermane, matematikë, fizikë, biologji, kimi, histori, gjeografi, teknologji informacioni dhe komunikimi (TIK), shkenca sociale, ekonomi, edukim fizik, muzikë, art pamor, arsim special, muzikë për shkollat artistike, art pamor për shkollat artistike, balet, arte skenike.
 
 Neni 13
 
@@ -264,7 +270,7 @@ Neni 17
 
 Konflikti i interesit
 
-1. Hartuesit e fondit të pyetjeve nuk duhet të jenë autorë të teksteve dhe të librave ndihmës për nxënësit (përveç atyre që botohen nga institucionet e varësisë të MAS-it).
+1. Hartuesit e fondit të pyetjeve nuk duhet të jenë autorë të teksteve dhe të librave ndihmës për nxënësit (përveç atyre që botohen nga institucionet e varësisë të MA -së).
 
 2. Hartuesit e fondit të pyetjeve dhe personat e autorizuar nga ASCAP-i nuk duhet të kenë lidhje familjare me kandidatët (bashkëshort/bashkëshorte, prind, vëlla/motër, fëmijë në moshë madhore, prindër të bashkëshortit/bashkëshortes).
 
@@ -290,7 +296,7 @@ Neni 20
 
 Shfuqizime
 
-Me hyrjen në fuqi të këtij udhëzimi, udhëzimi nr. 12, datë 27.2.2018, i ministrit të Arsimit, Sportit dhe Rinisë, “Për organizimin e testimit të informatizuar të kandidatëve për t’u punësuar në institucionet arsimore publike të arsimit parauniversitar”, i ndryshuar, shfuqizohet.
+Me hyrjen në fuqi të këtij udhëzimi, udhëzimi nr. 12, datë 27.2.2018, i ministrit të Arsimit “Për organizimin e testimit të informatizuar të kandidatëve për t’u punësuar në institucionet arsimore publike të arsimit parauniversitar”, i ndryshuar, shfuqizohet.
 
 Neni 21
 
