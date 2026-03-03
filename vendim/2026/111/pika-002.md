@@ -1,0 +1,3 @@
+2. Në funksion të zbatimit të projektit, të përcaktuar në pikën 1 të këtij vendimi, Fondi Shqiptar i Zhvillimit ngarkohet të kryejë:
+a) të gjitha procedurat, sipas legjislacionit në fuqi për prokurimin publik, duke lidhur edhe kontratat përkatëse për projektimin, zbatimin e mbikëqyrjen e projektit, si dhe të ndjekë zbatimin e tyre e të projektit përkatës;
+b) paraqitjen e kërkesave për miratimin e lejeve të zhvillimit dhe të ndërtimit në emër të institucioneve publike përfituese pranë autoritetit kompetent të zhvillimit të territorit, si dhe ndjekjen e të gjitha veprimeve e të procedurave të nevojshme për këtë qëllim, sipas legjislacionit në fuqi për zhvillimin e territorit.

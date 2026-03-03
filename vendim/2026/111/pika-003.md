@@ -1,0 +1,1 @@
+3. Fondi Shqiptar i Zhvillimit, Ministria e Turizmit, Kulturës dhe Sportit dhe Bashkia Tiranë mund të lidhin marrëveshje bashkëpunimi, në funksion të zhvillimit të projektit të përcaktuar në pikën 1 të këtij vendimi.
