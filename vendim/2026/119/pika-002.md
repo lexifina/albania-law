@@ -1,0 +1,1 @@
+2. Autorizimin e shoqërisë aksionare “Korporata e Investimeve Shqiptare”, vetë apo nëpërmjet entitetit të krijuar prej saj, për të vepruar si zhvillues i pronave me funksion vetëm publik, në emër dhe për llogari të pronarit shtet, për pronat shtetërore, sipas shtojcës nr. 2, bashkëlidhur këtij vendimi.

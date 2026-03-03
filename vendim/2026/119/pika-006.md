@@ -1,0 +1,1 @@
+6. Autorizohet Agjencia Kombëtare e Planifikimit të Territorit, që në të njëjtën procedurë, të asistojë Korporatën e Investimeve Shqiptare, nëpërmjet hartimit të termave të referencës për projektidetë arkitekturore, hartimit të kritereve të kualifikimit për projektuesit dhe kritereve të vlerësimit paraprak e përfundimtar të projektideve arkitekturore.

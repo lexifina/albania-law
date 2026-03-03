@@ -1,0 +1,2 @@
+10. Ngarkohen Ministria e Punëve të Brendshme, Instituti i Statistikave (INSTAT), Avokati i Popullit, Autoriteti i Konkurrencës, Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale, Komisioneri për Mbikëqyrjen e Shërbimit Civil, Komisioni i Prokurimit Publik, Agjencia Kombëtare e Planifikimit të Territorit, Agjencia Shtetërore e Kadastrës dhe Korporata e Investimeve Shqiptare për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

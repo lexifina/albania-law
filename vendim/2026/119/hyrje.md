@@ -1,0 +1,5 @@
+VENDIM
+Nr. 119, datë 27.2.2026
+PËR TRANSFERIMIN TE KORPORATA E INVESTIMEVE SHQIPTARE TË PRONAVE SHTETËRORE, NË PËRGJEGJËSI ADMINISTRIMI TË DISA INSTITUCIONEVE SHTETËRORE, PËR REALIZIMIN E PROJEKTIT TË INVESTIMIT “PËR ZHVILLIMIN DHE MENAXHIMIN E PRONAVE SHTETËRORE”, ME NËNPROJEKTET SI “KORPUSI I INSTITUCIONEVE TË PAVARURA”, “QENDRA PËR ZHVILLIMIN MULTIFUNKSIONAL TIRANË” DHE “COPËZAT”
+Në mbështetje të nenit 100 të Kushtetutës, të pikës 1, të nenit 7, të ligjit nr. 71/2019, “Për Korporatën e Investimeve Shqiptare”, të neneve 13 e 15, të ligjit nr. 8743, datë 22.2.2001, “Për pronat e paluajtshme të shtetit”, të ndryshuar, dhe në zbatim të shkronjës “b”, të pikës 1, të kreut II, të vendimit nr. 137, datë 6.3.2024, të Këshillit të Ministrave, “Për përcaktimin e kritereve dhe të procedurës për dhënien e pronës shtetërore me qira, enfiteozë, leasing, shitje, përdorim si kolateral dhe të përdorimit në forma të tjera nga ana e Korporatës së Investimeve Shqiptare”, të ndryshuar, me propozimin e ministrit të Ekonomisë dhe Inovacionit, Këshilli i Ministrave
+VENDOSI:
