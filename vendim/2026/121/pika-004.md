@@ -1,0 +1,1 @@
+4. Kryeinspektori i IQAP-it përgjigjet dhe raporton drejtpërdrejt pranë ministrit përgjegjës për arsimin, përveç rasteve kur ministri ka përcaktuar shprehimisht, me urdhër, një njësi tjetër raportimi në aparatin e ministrisë përgjegjëse për arsimin dhe Inspektoratit të Përgjithshëm për veprimtarinë inspektuese.

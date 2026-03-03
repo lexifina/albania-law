@@ -1,0 +1,1 @@
+5. Marrëdhëniet e punës së kryeinspektorit dhe inspektorëve të IQAP-it rregullohen sipas dispozitave të Kodit të Punës, dispozitave të ligjit për inspektimin dhe akteve nënligjore, në zbatim të tij. Marrëdhëniet e punës së punonjësve të tjerë administrativë të IQAP-it rregullohen sipas dispozitave të Kodit të Punës së Republikës së Shqipërisë.

@@ -1,0 +1,1 @@
+1. Krijimin e Inspektoratit Qendror të Arsimit Parauniversitar (në vijim “IQAP”), i cili organizohet dhe funksionon si person juridik publik, buxhetor, me seli në Tiranë, në varësi të ministrit përgjegjës për arsimin.

@@ -1,0 +1,1 @@
+8. Stema e IQAP-it përbëhet nga stema e Republikës dhe shënimet: “Republika e Shqipërisë, Ministria e Arsimit, Inspektorati Qendror i Arsimit Parauniversitar”, në përputhje me përcaktimet e vendimit nr. 474, datë 10.7.2003, të Këshillit të Ministrave, “Për mënyrën e përdorimit të stemës së Republikës, si dhe raportin e përmasave të saj”, të ndryshuar.
