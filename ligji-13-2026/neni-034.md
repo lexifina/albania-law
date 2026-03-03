@@ -1,0 +1,8 @@
+# Neni 34
+Detyrat e autoritetit përgjegjës për kontrollin shtetëror të eksporteve
+1. Për të siguruar zbatimin e duhur të këtij ligji, autoriteti përgjegjës për kontrollin shtetëror të eksporteve ka këto detyra:
+a) garanton përmes të gjitha masave të nevojshme zbatimin e këtij ligji, duke përfshirë, sipas rastit, konfiskimin dhe shitjen ose asgjësimin e mallrave të listuara në shtojcën I bashkëlidhur këtij ligji;
+b) mbledh informacion për çdo porosi ose transaksion, që përfshin mallrat e listuara në shtojcën I bashkëlidhur këtij ligji;
+c) përcakton nëse po përmbushen siç duhet detyrimet e një personi, në kuadër të këtij ligji, çka përfshin, në veçanti, kompetencën për të hyrë në ambientet e personit në fjalë ose të personave të tjerë me interes në transaksionin përkatës.
+2. Pas marrjes së vendimit përfundimtar nga autoriteti përgjegjës për kontrollin shtetëror të eksporteve, Drejtoria e Përgjithshme e Policisë së Shtetit, në përputhje me kompetencat e saj ligjore, ngarkohet me zbatimin e këtij vendimi. Zbatimi konsiston në marrjen dhe ekzekutimin e masave të përcaktuara, përfshirë konfiskimin e mallrave, objekt shkeljeje, si dhe, sipas rastit dhe në përputhje me legjislacionin në fuqi, shkatërrimin ose shitjen e tyre, duke garantuar respektimin e procedurave ligjore dhe mbrojtjen e interesit publik.
+3. Me kërkesë të një shteti eksportues, që është palë në Protokollin e OKB-së për armët e zjarrit në momentin e eksportit, autoriteti përgjegjës për kontrollin shtetëror të eksporteve lëshon autorizimin për import, që është përdorur për eksport nga vendi eksportues, konfirmon importin ose ruajtjen e përkohshme të mallrave të listuara në shtojcën I bashkëlidhur këtij ligji, të paraqitura në autorizimin për import.

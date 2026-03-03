@@ -1,0 +1,6 @@
+# Neni 24
+Shkëmbimi i informacionit dhe bashkëpunimi ndërmjet autoriteteve
+1. Autoriteti përgjegjës për kontrollin shtetëror të eksporteve, Drejtoria e Përgjithshme e Policisë së Shtetit dhe autoritetet doganore bashkëpunojnë ngushtësisht dhe shkëmbejnë informacione për të garantuar zbatimin e saktë të këtij ligji.
+2. Informacionet për riskun, duke përfshirë analizën e riskut dhe rezultatet e kontrollit, që janë të rëndësishme për zbatimin e kësaj ligji dhe veçanërisht lidhur me dyshimet për trafikimin e paligjshëm të mallrave të listuara, shkëmbehen sipas legjislacionit në fuqi.
+3. Shkëmbimi dhe përpunimi i informacionit, i parashikuar në pikat 1 dhe 2 të këtij neni, kryhet nëpërmjet sistemit të krijuar për këto qëllime nga legjislacioni në fuqi për organizimin dhe funksionimin e administratës shtetërore. Në rastet kur autoritetet shkëmbejnë informacion të klasifikuar si “konfidencial”, ato e komunikojnë këtë informacion në përputhje me parashikimet e legjislacionit në fuqi.
+4. Shkëmbimi i informacionit ndërmjet autoriteteve doganore dhe autoriteteve kompetente kryhet nëpërmjet informacionit të përcjellë në rrugë zyrtare nga autoritetet kompetente ose nëpërmjet sistemit elektronik të licencimit.

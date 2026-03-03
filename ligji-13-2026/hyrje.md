@@ -1,0 +1,8 @@
+LIGJ
+Nr. 13/2026
+PËR IMPORTIN, EKSPORTIN DHE TRANSITIN E ARMËVE TË ZJARRIT,
+TË KOMPONENTËVE TË TYRE KRYESORË DHE TË MUNICIONEVE
+Në mbështetje të neneve 78 e 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:

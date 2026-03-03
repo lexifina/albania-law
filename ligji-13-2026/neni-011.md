@@ -1,0 +1,17 @@
+# Neni 11
+Procedura e autorizimit për import
+1. Autoriteti përgjegjës për kontrollin shtetëror të eksporteve trajton aplikimet për autorizime për import brenda një periudhe jo më të gjatë se 90 ditë pune nga data kur i janë dërguar të gjitha informacionet e nevojshme. Për arsye të justifikuara dhe në rastin e një aplikimi lidhur me mallrat e listuara të kategorisë “A” në shtojcën I bashkëlidhur këtij ligji, kjo periudhë mund të zgjatet deri në 110 ditë pune.
+2. Autoriteti përgjegjës për kontrollin shtetëror të eksporteve refuzon dhënien e një autorizimi për import në rast se:
+a) kërkuesi është një person fizik, ndaj të cilit ka filluar procedimi penal ose është dënuar për një vepër penale të parashikuar me një dënim penal maksimal prej të paktën 4 vitesh burgim;
+b) kërkuesi është një person juridik dhe një nga personat e lidhur me këtë person juridik të përcaktuar si më poshtë, ndodhet në kushtet e shkronjës “a” të kësaj pike:
+i. kërkuesi;
+ii. personat përfaqësues për kërkuesin;
+iii. personat që ushtrojnë kontroll mbi menaxhimin e veprimtarisë së kërkuesit.
+c) arma që importohet është deklaruar e humbur apo e vjedhur, është objekt hetimi ose për të ka një kërkesë sekuestrimi në bazat e të dhënave përkatëse kombëtare ose ndërkombëtare;
+ç) ka indicie të qarta që sugjerojnë se një nga personat e përfshirë në transaksion përbën kërcënim ndaj sigurisë ose një kërcënim ndaj sigurisë publike apo se personat e përmendur në shkronjat “a” ose “b” të kësaj pike nuk plotësojnë detyrimet që u ngarkohen nga legjislacioni në fuqi për armët, nga ky ligj ose nga autorizimet e lëshuara lidhur me armët e tyre të zjarrit.
+3. Autoriteti përgjegjës për kontrollin shtetëror të eksporteve përpara marrjes së vendimit për dhënien e një autorizimi për import merr në konsideratë të gjithë faktorët me rëndësi, duke përfshirë faktorët e politikës së jashtme dhe të sigurisë së brendshme, sipas përcaktimeve të nenit 20 të këtij ligji.
+4. Autoriteti përgjegjës për kontrollin shtetëror të eksporteve, për qëllime të pikës 2 të këtij neni, merr informacion për dënimet e mëparshme penale të kërkuesit në shtete të tjera, sipas legjislacionit në fuqi për bashkëpunimin në fushën penale.
+5. Autoriteti përgjegjës për kontrollin shtetëror të eksporteve për qëllime të shkronjës “c” të pikës 2 të këtij neni kryen verifikime për t’u siguruar që arma e zjarrit nuk është e listuar në sistemet elektronike në përdorim të Drejtorisë së Përgjithshme të Policisë së Shtetit.
+6. Autoriteti përgjegjës për kontrollin shtetëror të eksporteve anulon, pezullon, ndryshon ose revokon autorizimin për import, nëse kushtet për dhënien e tij nuk janë përmbushur ose nuk përmbushen më. Në rastet kur autoriteti përgjegjës për kontrollin shtetëror të eksporteve merr një vendim të tillë, informon menjëherë autoritetet doganore dhe Drejtorinë e Përgjithshme të Policisë së Shtetit rreth këtij vendimi përmes sistemit elektronik të licencimit.
+7. Autoriteti përgjegjës për kontrollin shtetëror të eksporteve, kur refuzon dhënien e një autorizimi për import, vendimi përfundimtar dhe arsyetimi përkatës regjistrohen në sistemin elektronik të licencimit.
+8. Autoriteti përgjegjës për kontrollin shtetëror të eksporteve mbikëqyr përmbushjen e kushteve për autorizimet e importit në bazë të menaxhimit të riskut. Kushtet e autorizimeve të importit, të dhëna për një kohëzgjatje më të gjatë se 2 vjet, do të monitorohen pas 2 vitesh.
