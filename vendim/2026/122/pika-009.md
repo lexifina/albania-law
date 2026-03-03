@@ -1,0 +1,1 @@
+9. Në bazë të ligjit nr. 10325, datë 23.9.2010, “Për bazën e të dhënave shtetërore”, rregulloret për organizimin dhe funksionimin e brendshëm të bazës së të dhënave shtetërore përcaktohen nga institucioni administrues dhe miratohen nga titullari i tij.

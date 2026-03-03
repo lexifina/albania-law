@@ -1,0 +1,2 @@
+11. Ngarkohen ministria përgjegjëse për çështjet e shkencës dhe të kërkimit shkencor, Agjencia Kombëtare e Kërkimit Shkencor dhe Inovacionit, Qendra e Shërbimeve Arsimore, subjektet e kërkimit shkencor, të organizuar në institucione të kërkimit shkencor, institute dhe njësi të veçanta të kërkimit shkencor, të ngritura për të kryer veprimtari në fushën e shkencës e të kërkimit shkencor, institucionet e arsimit të lartë dhe kërkuesit shkencorë për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
