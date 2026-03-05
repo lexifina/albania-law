@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja ndryshuese nr. 1, me shkëmbim letrash, të marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Republikës së Kosovës, përfaqësuar nga Zyra e Kryeministrit, dhe Komisionit Evropian, për programin e bashkëpunimit ndërkufitar Shqipëri-Kosovë, 2021-2027, ratifikuar me ligjin nr. 12/2024, sipas tekstit që i bashkëlidhet këtij ligji.
