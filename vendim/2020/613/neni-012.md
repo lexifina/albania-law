@@ -1,6 +1,0 @@
-# Neni 12
-Shkëmbimi i informacionit mbi llogaritë e raportueshme
-1. Çdo institucion financiar raportues në Republikën e Shqipërisë i raporton Drejtorisë së Përgjithshme të Tatimeve informacionin mbi llogaritë e raportueshme, sipas shtojcës IV bashkëlidhur “Metodat e transferimit të të dhënave nga institucionet financiare të detyruar për të komunikuar me administratën tatimore, në kuadër të shkëmbimit automatik të informacionit të llogarive financiare”.
-2. Autoriteti kompetent, Drejtoria e Përgjithshme e Tatimeve, shkëmben me administratat e tjera tatimore informacionin e marrë nga institucionet financiare raportuese nëpërmjet sistemit CTS. Ky sistem, i cili aksesohet kundrejt një tarife vjetore, do të mundësojë transmetimin/pranimin e mesazheve dhe të integrimin me sistemet e autoriteteve të tjera tatimore.
-3. Shkëmbimi i informacionit mbi llogaritë e raportueshme duhet të realizohet duke respektuar parimin e mjaftueshmërisë, proporcionalitetit dhe afatit të përpunimit të të dhënave, në përputhje me legjislacionin e mbrojtjes së të dhënave personale.
-4. Gjatë procesit të shkëmbimit të informacionit mbi llogaritë e raportueshme duhet të garantohen masat e sigurisë së të dhënave personale, evidentimi i gjurmimit të përpunimit të të dhënave personale dhe të drejtat e subjekteve të të dhënave/tatimpaguesve.
