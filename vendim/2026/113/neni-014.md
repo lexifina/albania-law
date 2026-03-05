@@ -1,0 +1,5 @@
+# Neni 14
+Dispozita të tjera
+1. Pavarësisht nënndarjes “ii”, të shkronjës “a”, të pikës 1, dhe shkronjës “e”, të pikës 1, të nenit 4, të këtij vendimi, në lidhje me çdo llogari të raportueshme që mbahet nga një institucion financiar raportues që nga data 31 dhjetor 2025 dhe për periudhat e raportimit që përfundojnë në vitin e dytë kalendarik pas kësaj date, informacioni në lidhje me rolin/et në bazë të të cilit/cilave çdo person i raportueshëm është person kontrollues ose mbajtës i interesit të kapitalit të njësisë ekonomike duhet të raportohet vetëm nëse një informacion i tillë është i disponueshëm në të dhënat e kërkueshme elektronike të mbajtur nga institucioni financiar raportues.
+2. Duke filluar nga data 1 janar 2027, institucionet financiare raportuese i raportojnë administratës tatimore (dhe kjo e fundit administratave tatimore përkatëse) sipas skemës së rishikuar XML, paraqitur në shtojcën IV, bashkëlidhur këtij vendimi.
+3. Periudha e parë e raportimit sipas ndryshimeve që sjell ky vendim është viti kalendarik 2026, me afat dorëzimi deri më 30 maj 2027.

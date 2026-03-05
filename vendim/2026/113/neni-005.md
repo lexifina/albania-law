@@ -1,0 +1,11 @@
+# Neni 5
+Kërkesat e përgjithshme të vigjilencës së duhur
+1. Një institucion financiar raportues duhet të krijojë, të mirëmbajë dhe të dokumentojë procedurat e vigjilencës së duhur, të përcaktuara në nenet 5 deri në 10, të cilat shërbejnë për të identifikuar llogaritë e raportueshme që mbahen nga institucioni financiar raportues.
+2. Një llogari trajtohet si një llogari e raportueshme që nga data kur ajo është identifikuar si e tillë, në përputhje me procedurat e vigjilencës së duhur, sipas neneve 5 deri në 10, dhe, përveçse kur parashikohet ndryshe, informacioni në lidhje me një llogari të raportueshme duhet të raportohet çdo vit në vitin kalendarik që pason vitin me të cilin lidhet informacioni.
+3. Gjendja ose vlera e një llogarie përcaktohet duke filluar nga dita e fundit e vitit kalendarik.
+4. Kur limiti i gjendjes ose i vlerës së një llogarie do të përcaktohet duke filluar nga dita e fundit e një viti kalendarik, gjendja ose vlera përkatëse duhet të përcaktohet duke filluar nga dita e fundit e periudhës së raportimit që përfundon me vitin kalendarik ose brenda atij viti kalendarik.
+5. Një institucion financiar raportues mund të përdorë një ofrues të shërbimit për të përmbushur detyrimet e raportimit dhe të vigjilencës së duhur, të cilat i janë vendosur këtyre institucioneve financiare raportuese, por përmbushja e këtyre detyrimeve do të mbetet përgjegjësi e institucioneve financiare raportuese.
+6. Nëse një institucion financiar, ndërmjetës, ofrues shërbimi ose çdo person tjetër hyn në një marrëveshje ose angazhohet në një praktikë ku qëllimi kryesor ose një nga qëllimet është të shmangë ose të anashkalojë detyrimet që rrjedhin nga ky ligj dhe aktet nënligjore në zbatim të tij, ky ligj dhe aktet e tij nënligjore duhet të zbatohen sikur personi të mos kishte hyrë në marrëveshjen ose praktikën e sipërpërmendur.
+7. Një institucion financiar raportues mund të aplikojë:
+a) procedurat e vigjilencës së duhur për llogaritë e reja për të gjitha llogaritë paraekzistuese ose në lidhje me çdo grup të identifikuar qartë të llogarive paraekzistuese dhe rregullat për llogaritë paraekzistuese vazhdojnë të aplikohen pavarësisht këtyre;
+b) procedurat e vigjilencës së duhur për llogaritë me vlerë të lartë te llogaritë me vlerë të ulët.
