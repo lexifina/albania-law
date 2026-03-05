@@ -29,7 +29,7 @@ Dëshmi të njohjes së gjuhës/ve të huaja:
 a) Gjuhë e huaj e mbrojtur në IAL-të publike = 1 pikë;
 b) Gjuhë e huaj e mbrojtur me testim ndërkombëtar niveli B1 = 1 pikë;
 c) Gjuhë e huaj e mbrojtur me testim ndërkombëtar niveli B2 = 2 pikë.
-Si gjuhë e huaj e mbrojtur llogaritet edhe rasti kur gjuha e huaj është e mbrojtur në kuadër të përfundimit të studimeve të ciklit të dytë, sipas legjislacionit përkatës. Dokumenti i gjuhës së huaj duhet të jetë lëshuar nga subjekte të njohura nga Ministria e Arsimit dhe Sportit, për ofrimin e testeve ndërkombëtare dhe të jetë brenda afatit të vlefshmërisë. Lista e subjekteve është sipas udhëzimit nr. 52, datë 3.12.2015, i ndryshuar.
+Si gjuhë e huaj e mbrojtur llogaritet edhe rasti kur gjuha e huaj është e mbrojtur në kuadër të përfundimit të studimeve të ciklit të dytë, sipas legjislacionit përkatës. Dokumenti i gjuhës së huaj duhet të jetë lëshuar nga subjekte të njohura nga Ministria e Arsimit, për ofrimin e testeve ndërkombëtare dhe të jetë brenda afatit të vlefshmërisë. Lista e subjekteve është sipas udhëzimit nr. 52, datë 3.12.2015, i ndryshuar.
 Pavarësisht se kandidati mund të ketë disa gjuhë të huaja të mbrojtura, në këtë rubrikë nuk mund t’i llogariten më shumë se 2 pikë në vlerësimin e dosjes.
 Në rast se kandidati ka mbrojtur të njëjtën gjuhë të huaj në dy institucione të ndryshme, do t’i llogariten pikë vetëm për dëshminë me vlerësimin më të lartë.
 Kandidatit të profilit gjuhë e huaj, i njihen pikët e kësaj rubrike, përveç gjuhës së huaj për të cilën është diplomuar.
@@ -38,7 +38,7 @@ Kandidati që nuk zotëron dëshmi të gjuhës së huaj, vlerësohet me zero pik
 4
 Trajnime:
 Vlerësimi bëhet sipas kësaj skeme:
-a) Certifikata trajnimesh me kredite të lëshuara nga institucione në varësi të Ministrisë së Arsimit dhe Sportit ose nga agjenci trajnuese që janë akredituar nga ministria përgjegjëse për arsimin.
+a) Certifikata trajnimesh me kredite të lëshuara nga institucione në varësi të Ministrisë së Arsimit ose nga agjenci trajnuese që janë akredituar nga ministria përgjegjëse për arsimin.
 i. 1 kredit =1 pikë;
 ii. 2 kredite =2 pikë;
 iii. mbi 3 kredite = 3 pikë.
@@ -81,7 +81,7 @@ Dëshmi të njohjes së gjuhës/ve të huaja:
 a) Gjuhë e huaj e mbrojtur në IAL-të publike = 1 pikë.
 b) Gjuhë e huaj e mbrojtur me testim ndërkombëtar niveli B1 = 1 pikë.
 c) Gjuhë e huaj e mbrojtur me testim ndërkombëtar niveli B2 = 2 pikë.
-Dokumenti i gjuhës së huaj duhet të jetë lëshuar nga subjekte të njohura nga Ministria e Arsimit dhe Sportit, për ofrimin e testeve ndërkombëtare dhe të jetë brenda afatit të vlefshmërisë. Lista e subjekteve është sipas udhëzimit nr. 52, datë 3.12.2015, i ndryshuar.
+Dokumenti i gjuhës së huaj duhet të jetë lëshuar nga subjekte të njohura nga Ministria e Arsimit, për ofrimin e testeve ndërkombëtare dhe të jetë brenda afatit të vlefshmërisë. Lista e subjekteve është sipas udhëzimit nr. 52, datë 3.12.2015, i ndryshuar.
 Pavarësisht se kandidati mund të ketë disa gjuhë të huaja të mbrojtura, në këtë rubrikë nuk mund t’i llogariten më shumë 2 pikë në vlerësimin e dosjes.
 Në rast se kandidati ka mbrojtur të njëjtën gjuhë të huaj në dy institucione të ndryshme, do t’i llogariten pikë vetëm për dëshminë me vlerësimin më të lartë.
 Kandidatit të profilit gjuhë e huaj, i njihen pikët e kësaj rubrike, përveç gjuhës së huaj për të cilën është diplomuar.
@@ -89,7 +89,7 @@ Kandidati që nuk zotëron dëshmi të gjuhës së huaj, vlerësohet me zero pik
 0-2 pikë
 4
 Trajnime. Vlerësimi bëhet sipas kësaj skeme:
-a) Certifikata trajnimesh me kredite të lëshuara nga institucione në varësi të Ministrisë së Arsimit dhe Sportit ose nga agjenci trajnuese që janë akredituar nga ministria përgjegjëse për arsimin.
+a) Certifikata trajnimesh me kredite të lëshuara nga institucione në varësi të Ministrisë së Arsimit ose nga agjenci trajnuese që janë akredituar nga ministria përgjegjëse për arsimin.
 i. 1 kredit = 1 pikë.
 ii. 2 kredite = 2 pikë
 iii. mbi 3 kredite = 3 pikë.
@@ -138,7 +138,7 @@ Trajtimi i të dhënave personale në vijim të përdorimit të këtij autorizim
 AUTORIZUESI
 ____________________________
 SHTOJCË 5
-MINISTRIA E ARSIMIT DHE SPORTIT
+MINISTRIA E ARSIMIT
 AGJENCIA KOMBËTARE E ARSIMIT PARAUNIVERSITAR
 DREJTORIA RAJONALE E ARSIMIT PARAUNIVERSITAR_____
 ZYRA VENDORE E ARSIMIT PARAUNIVERSITAR ____________
@@ -146,7 +146,7 @@ INSTITUCIONI ARSIMOR PARAUNIVERSITAR ______________
 Nr. _____ prot. ________________, më ___.___.202_
 PROCESVERBAL I DOKUMENTIMIT TË OPINIONIT TË KËSHILLIT TË PRINDËRVE PËR MËSUESIN/EN _________________
 PROFILI _________________,
-Sot në datën _____._____.202_, ora ___:___, bazuar në ligjin nr. 7961, datë 12.7.1995, “Kodi i Punës i Republikës së Shqipërisë’, i ndryshuar; në ligjin nr. 69/2012, datë 21.6.2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, i ndryshuar, si dhe në udhëzimin nr. ____, datë _____________, të ministrit të Arsimit dhe Sportit, “Për procedurat e pranimit e të emërimit të mësuesit në një vend të lirë pune në institucionet arsimore publike të arsimit parauniversitar dhe për administrimin e portalit ’Mësues për Shqipërinë’”, u mblodh Këshilli i Prindërve në shkollën ________________________________________ për të dhënë opinion për mësuesin/en, z./znj. __________________________, profili __________________, dhe për performancën e tij/saj në procesin mësimor-edukativ, sjelljen dhe etikën në institucionin arsimor.
+Sot në datën _____._____.202_, ora ___:___, bazuar në ligjin nr. 7961, datë 12.7.1995, “Kodi i Punës i Republikës së Shqipërisë’, i ndryshuar; në ligjin nr. 69/2012, datë 21.6.2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, i ndryshuar, si dhe në udhëzimin nr. ____, datë _____________, të ministrit të Arsimit, “Për procedurat e pranimit e të emërimit të mësuesit në një vend të lirë pune në institucionet arsimore publike të arsimit parauniversitar dhe për administrimin e portalit ’Mësues për Shqipërinë’”, u mblodh Këshilli i Prindërve në shkollën ________________________________________ për të dhënë opinion për mësuesin/en, z./znj. __________________________, profili __________________, dhe për performancën e tij/saj në procesin mësimor-edukativ, sjelljen dhe etikën në institucionin arsimor.
 Në mbledhje morën pjesë _______________ prindër nga _____________ prindër gjithsej.
 Opinioni i prindërve mbi mësuesin/en z./znj. ___________________ është:
 1. Dobët 2. Mjaftueshëm 3. Mirë 4. Shumë mirë

@@ -7,7 +7,7 @@ a) 2 (dy) anëtarë nga DRAP-ja, kryetar i komisionit është drejtori i DRAP-s�
 b) 1 (një) anëtar nga AKAP-ja;
 c) 2 (dy) anëtarë nga ZVAP-ja në juridiksion të DRAP-së, nga të cilët të paktën njëri të jetë në profesion mësues.
 2/1. Përjashtimisht, në përbërje të Komisionit të Vlerësimit të Dosjeve (KVD), të ngritur sipas pikës 2 të këtij kreu, për vlerësimin e dosjeve të kandidatëve të cilët në aplikimin e tyre kanë përzgjedhur për punësim ZVAP Shkodër, Divjakë, Berat dhe Kolonjë, caktohet edhe nga 1 (një) përfaqësues nga bashkitë e përfshira në projektin pilot në ushtrimin e përgjegjësive në fushën e arsimit parauniversitar.
-Kjo përbërje e KVD-së zbatohet sipas kohëzgjatjes së marrëveshjes së bashkëpunimit ndërmjet MAS-it dhe bashkisë përkatëse.
+Kjo përbërje e KVD-së zbatohet sipas kohëzgjatjes së marrëveshjes së bashkëpunimit ndërmjet MA dhe bashkisë përkatëse.
 3. Specialisti i burimeve njerëzore dhe juristi në DRAP, kryejnë rolin e sekretariatit teknik për mbajtjen e të dhënave për dokumentet e kandidatëve.
 4. KVD-ja kryen këto detyra:
 a) vlerëson dokumentacionin e dosjes së çdo kandidati, sipas kritereve të vlerësimit të përcaktuara në shtojcën 1, të këtij udhëzimi;
@@ -15,7 +15,7 @@ b) evidenton kandidatët që mbartin pikët, si dhe rastet kur kandidatët kanë
 c) shqyrton ankesat e kandidatëve për vlerësimin e marrë;
 d) përgatit listat e kandidatëve që do të marrin pjesë në testimin e informatizuar;
 e) bën renditjen e kandidatëve sipas pikëve të marra në secilën fazë të vlerësimit dhe ato në total në përfundim të vlerësimit;
-f) dërgon elektronikisht në AKAP dhe në Ministrinë e Arsimit dhe Sportit listën me renditjen e pikëve për çdo kandidat.
+f) dërgon elektronikisht në AKAP dhe në Ministrinë e Arsimit listën me renditjen e pikëve për çdo kandidat.
 KREU III
 PROCEDURA E KONKURRIMIT
 1. Vlerësimi i kandidatëve përfshin:
@@ -29,7 +29,7 @@ c) formular të vetëdeklarimit të gjendjes gjyqësore, sipas modelit të shtoj
 d) deklaratë nga kandidati për autorizimin e institucionit arsimor që të shqyrtojë vërtetësinë e dokumenteve të paraqitura sipas modelit të shtojcës 4, të këtij udhëzimi;
 e) çdo dokument tjetër që disponon, që sipas shtojcës 1 të këtij udhëzimi vlerësohet me pikë, të cilat nuk janë të detyrueshme.
 4. Kandidati, dosja e të cilit nuk përmban një nga dokumentet e detyrueshme sipas pikës 3, të këtij kreu, nuk kualifikohet.
-5. Kandidati aplikon në DRAP-në ku ka vendbanimin e përhershëm. Ai ka të drejtë të përzgjedhë deri në tri ZVAP ku dëshiron të punësohet.
+5. Kandidati aplikon në DRAP-në ku ka vendbanimin e përhershëm. Ai ka të drejtë të përzgjedhë deri në tri ZVAP ku dëshiron të punësohet, brenda DRAP-it ku ka vendbanimin e përhershëm.
 6. Kandidati që zotëron më shumë se një licencë, ka të drejtë të konkurrojë në profilet sipas licencave përkatëse.
 7. Kandidati që ka qenë pjesëmarrës në portalin e mëparshëm ngarkon në portal dokumentacionin e përcaktuar në pikën 3 të këtij kreu.
 8. Kandidati i cili ka qenë pjesëmarrës në portalin e mëparshëm dhe dëshiron të marrë pjesë në testim, do të renditet në listën përfundimtare me pikët e testimit të fundit. Kandidati i cili nuk paraqet dokumente shtesë pranë KVD-së dhe nuk dëshiron të marrë pjesë në testimin e radhës, i mbarten pikët ekzistuese në renditjen e re deri në dy vjet.
