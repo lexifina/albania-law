@@ -1,24 +1,6 @@
 # Shtojca
 SHTOJCA 1
-Lista e lëndëve që përdoren shpesh për fabrikimin e paligjshëm të lëndëve narkotike dhe psikotrope
-Kategoria 1 *
-1. Acid lizergjik
-2. Acid N-acetilantranilik
-3. Efedrinë
-4. Ergometrinë
-5. Ergotaminë
-6. 1-Fenil-2-propanon
-7. Izosafrol (cis + trans)
-8. 3,4-Metilendioksifenilpropan-2-on
-9. Norefedrinë
-10. Piperonal
-11. Pseudoefedrinë
-12 . Safrol
-*) Edhe kripërat e këtyre lëndëve kur ekzistojnë të tilla.
-Kategoria 2 **
-1. Acid antranilik
-2. Acid fenil acetik
-3. Anhidrid acetik4. Piperidinë**) Edhe kripërat e këtyre lëndëve kur ekzistojnë të tilla.Kategoria 3 ***1. Aceton2. Acid klorhidrik3. Acid sulfurik4. Eter etilik5. Metil etil keton (MEK)6. Permanganat kaliumi7. Toluen***) Edhe kripërat e këtyre lëndëve, me përjashtim ato të acidit klorhidrik dhe sulfurik, kur ekzistojnë të tillaSHTOJCA 2
+SHTOJCA 2
 REPUBLIKA E SHQIPËRISË
 MINISTRIA E SHËNDETËSISË
 DREJTORIA FARMACEUTIKE
@@ -257,17 +239,6 @@ Funksioni:…………………………………………..
 Funksioni:………………………………………………………
 Data:………………………….. Vula
 Data:…………………………………………Vula
-SHTOJCA 4
-Sasitë maksimale të lëndëve të Kategorisë 3
-që mund të trajtohen nga operatorët pa qenë të regjistruar
-Lëndasasia
-1. Aceton50 kg
-2. Eter etilik20 kg
-3. Metil etil keton (MEK)20 kg
-4. Toluen50 kg
-5. Permanganat Kaliumi 5 kg
-6. Acid sulfurik 100 kg
-7. Acid klorhidrik 100 kg
 SHTOJCA 5
 Lista e lëndëve të Kategorisë 2 dhe destinacioni
 kur duhet Autorizimi Individual i Eksportit
