@@ -56,16 +56,18 @@ Histori-gjeografi, Histori, Gjeografi, Gjuhë shqipe-Letërsi
 10
 Art pamor
 Arte figurative
+Arte skenike
 11
 Muzikë
 Arte muzikore
+Arte skenike
 12
 Kërcim
-Arti skenik (koreografi)
-Mësuesit e arteve (art pamor, muzikë), ose edukim fizik.
+Arte skenike (koreografi)
+Mësuesit e arteve (art pamor, muzikë), ose edukim fizik, Arte skenike.
 13
 Teatër
-Arti skenik (aktrim, regji)
+Arte skenike (aktrim, regji)
 Mësuesit e arteve (art pamor, muzikë) ose gjuhë shqipe
 12
 Aftësim teknologjik
@@ -125,8 +127,8 @@ Shkenca Sociale
 Filozofi
 12
 Ekonomi
-Shkenca Sociale
 Ekonomi
+Shkenca sociale
 13
 TIK
 Informatikë, TIK, Matematikë-Informatikë
@@ -186,5 +188,5 @@ Edukimi fizik, sporte dhe shëndeti
 Edukim fizik
 13
 Arte
-Arti skenik, Muzikë, Art figurativ
+Arte skenike, Muzikë, Art figurativ, Koreografi
 Gjuhë shqipe dhe letërsi
