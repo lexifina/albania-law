@@ -12,9 +12,13 @@ c) kopje të njehsuar me origjinalin të diplomës së ciklit të dytë, të lë
 ç) vërtetim, nga institucionet ku ka ushtruar detyrën ose funksionin publik, se ndaj tij nuk është dhënë masa disiplinore e shkarkimit për arsye të integritetit etik, me vendim të organit kompetent, ose nëse është dhënë kjo masë, vërtetim nga institucioni që kjo masë disiplinore është shuar, sipas legjislacionit në fuqi;
 d) dëshminë e njohjes së gjuhës shqipe lëshuar nga Universiteti i Tiranës, kur kandidati është shtetas i huaj;
 dh) kopje të njehsuar me origjinalin të librezës së punës;
-e) formularin e vetëdeklarimit të gjendjes gjyqësore, të plotësuar dhe të nënshkruar.
+e) formularin e vetëdeklarimit të gjendjes gjyqësore, të plotësuar dhe të nënshkruar dhe/ose vërtetimin e gjendjes gjyqësore;
+ë) formularin e vetëdeklarimit mbi zotërimin e zotësisë së plotë për të vepruar, sipas shtojcës nr. 1, bashkëlidhur këtij urdhri dhe pjesë përbërëse të tij, të plotësuar dhe të nënshkruar dhe/ose vërtetim nga gjykata për zotërimin e zotësisë për të vepruar;
+f) në rast se përzgjedh kryerjen e njoftimeve të përcaktuara në këtë urdhër me mjete të komunikimit elektronik, deklarimin mbi dhënien e pëlqimit mbi kryerjen e njoftimeve me mjete të komunikimit elektronik, sipas shtojcës nr. 2, bashkëlidhur këtij urdhri dhe pjesë përbërëse të tij, të plotësuar dhe të nënshkruar.
 4. Kur kandidati është shtetas i huaj, përveç dokumenteve të përcaktuara në pikën 3, të këtij urdhri, paraqet edhe vërtetimin e gjendjes gjyqësore dhe vërtetimin mbi zotësinë e plotë për të vepruar, të lëshuara nga organet përgjegjëse të vendit të origjinës.
 5. Kandidati për interpret të gjuhës së shenjave paraqet pranë Ministrisë së Drejtësisë dokumentacionin shoqërues, si vijon:
 a) kopje të mjetit të identifikimit;
 b) jetëshkrimin;
-c) formularin e vetëdeklarimit të gjendjes gjyqësore, të plotësuar dhe të nënshkruar.
+c) formularin e vetëdeklarimit të gjendjes gjyqësore, të plotësuar dhe të nënshkruar dhe/ose vërtetimin e gjendjes gjyqësore;
+ç) formularin e vetëdeklarimit mbi zotërimin e zotësisë së plotë për të vepruar, sipas shtojcës nr. 1 bashkëlidhur këtij urdhri dhe pjesë përbërëse të tij, të plotësuar dhe të nënshkruar dhe/ose vërtetim nga gjykata për zotërimin e zotësisë për të vepruar;
+d) në rast se përzgjedh kryerjen e njoftimeve të përcaktuara në këtë urdhër me mjete të komunikimit elektronik, deklarimin mbi dhënien e pëlqimit mbi kryerjen e njoftimeve me mjete të komunikimit elektronik, sipas shtojcës nr. 2, bashkëlidhur këtij urdhri dhe pjesë përbërëse të tij, të plotësuar dhe të nënshkruar.
