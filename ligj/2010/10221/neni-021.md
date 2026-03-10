@@ -1,6 +1,8 @@
 # Neni 21
 Komisioneri
-1. Komisioneri për Mbrojtjen nga Diskriminimi, më poshtë komisioneri, siguron mbrojtjen efektive nga diskriminimi dhe nga çdo formë sjelljeje që nxit diskriminimin. Komisioneri është person juridik publik.
-2. Komisioneri mbështetet nga Zyra e Komisionerit për Mbrojtjen nga Diskriminimi (zyra). Zyra ka personelin dhe pajisjet e nevojshme për të mbështetur komisionerin në përmbushjen e detyrave të ngarkuara me ligj.
-3. Kuvendi vendos për pagën e komisionerit, strukturën organizative dhe klasifikimin e pagave për punonjësit e Zyrës së Komisionerit për Mbrojtjen nga Diskriminimi. Punonjësit e kësaj zyre gëzojnë statusin e nëpunësit civil.
-4. Komisioneri ka buxhetin e vet të pavarur, i cili financohet nga Buxheti i Shtetit dhe nga donacione të ndryshme.
+1. Komisioneri për Mbrojtjen nga Diskriminimi (Komisioneri) siguron mbrojtjen efektive nga diskriminimi dhe nga çdo formë sjelljeje që nxit diskriminimin. Komisioneri është person juridik publik.
+2. Komisioneri mbështetet nga Zyra e Komisionerit për Mbrojtjen nga Diskriminimi (Zyra). Zyra ka personelin, mjetet dhe pajisjet e nevojshme për të mbështetur Komisionerin në përmbushjen e detyrave të ngarkuara me ligj. Punonjësit e Zyrës gëzojnë statusin e nëpunësit civil dhe janë të pavarur në ushtrimin e detyrave të tyre. Përzgjedhja, emërimi, largimi nga detyra dhe konflikti i interesit të personelit i nënshtrohet legjislacionit në fuqi për nëpunësit civil dhe administratën shtetërore.
+3. Struktura e organizimit të Zyrës së Komisionerit garanton ushtrimin efektiv, të pavarur dhe të paanshëm të kompetencave të ngarkuara me ligj. Komisioneri miraton strukturën, organikën, si dhe rregulloren e brendshme të organizimit dhe funksionimit të Zyrës së Komisionerit.
+4. Kuvendi vendos për pagën e Komisionerit dhe klasifikimin e pagave për punonjësit e Zyrës së Komisionerit për Mbrojtjen nga Diskriminimi.
+5. Komisioneri ka buxhetin e vet të pavarur, i cili financohet nga buxheti i shtetit dhe nga donacione të ndryshme. Buxheti i alokuar mundëson burime të mjaftueshme financiare për përmbushjen në mënyrë efektive të detyrave dhe kompetencave të ngarkuara Komisionerit nga ky ligj ose ligje të tjera.
+6. Komisioneri është i pavarur në menaxhimin e burimeve të veta financiare, njerëzore dhe teknike. Ai paraqet raport vjetor për menaxhimin financiar dhe performancën organizative në Kuvendin e Shqipërisë. Raporti është publik dhe publikohet çdo vit në faqen zyrtare të Komisionerit.

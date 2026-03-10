@@ -1,5 +1,6 @@
 # Neni 4
 Subjektet
-1. Ky ligj zbatohet për të gjithë personat, që jetojnë dhe qëndrojnë në territorin e Republikës së Shqipërisë.
-2. Shtetasit shqiptarë, me banim të përkohshëm ose të përhershëm jashtë kufijve të Republikës së Shqipërisë, gëzojnë mbrojtjen, që ofron ky ligj, në marrëdhëniet me organet shtetërore shqiptare.
-3. Personat fizikë e juridikë të huaj, me banim, vendqëndrim apo seli jashtë territorit të Republikës së Shqipërisë, gëzojnë mbrojtjen, që ofron ky ligj, në marrëdhëniet me organet shtetërore shqiptare.
+1. Ky ligj zbatohet për sektorin publik dhe privat duke përfshirë edhe institucionet publike, si dhe të gjithë personat, përfshirë, por pa u kushtëzuar në:
+a) të gjithë shtetasit shqiptarë, të huaj apo personat pa shtetësi, si dhe personat fizikë e juridikë vendas dhe të huaj që kanë vendbanim, vendqëndrim apo seli në territorin e Republikës së Shqipërisë.
+b) shtetasit shqiptarë me banim të përkohshëm ose të përhershëm jashtë territorit të Republikës së Shqipërisë, si dhe personat fizikë dhe juridikë shqiptarë me aktivitet jashtë territorit të Republikës së Shqipërisë, të cilët gëzojnë mbrojtjen që ofron ky ligj në marrëdhënie me autoritetet publike, ose personat fizikë ose juridikë që ushtrojnë veprimtari në sektorin publik ose privat, që ndodhet nën juridiksionin shqiptar.
+c) shtetasit e huaj dhe personat pa shtetësi, me banim apo vendqëndrim jashtë territorit të Republikës së Shqipërisë, si dhe personat fizikë apo juridikë të huaj me aktivitet apo seli jashtë territorit të Republikës së Shqipërisë, të cilët gëzojnë mbrojtjen që ofron ky ligj në marrëdhënie me autoritetet publike ose personat fizikë ose juridikë që ushtrojnë veprimtari në sektorin publik ose privat, që ndodhet nën juridiksionin shqiptar.

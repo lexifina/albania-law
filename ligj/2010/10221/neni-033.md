@@ -5,7 +5,7 @@ Procedurat
 3. Ankesa përmban, të paktën:
 a) emrin e ankuesit;
 b) shpjegimin se si mund të kontaktohet ankuesi;
-c) subjektin që pretendohet të ketë kryer diskriminimin, ose shpjegim për pamundësinë e identifikimit të tij;
+c)subjektin që pretendohet të ketë kryer diskriminimin, ose shpjegim për pamundësinë e identifikimit të tij;
 ç) shpjegimin e diskriminimit të pretenduar;
 d) masat që kërkohen nga komisioneri;
 dh) datën dhe firmën e ankuesit ose të përfaqësuesit të tij.
@@ -27,6 +27,8 @@ dh) paraqitet më vonë se tre vjet nga ndodhja e diskriminimit ose më vonë se
 9. Kur e sheh të përshtatshme, komisioneri kërkon të arrijë marrëveshje pajtimi mes ankuesit dhe personit kundër të cilit është paraqitur ankesa.
 10. Komisioneri shprehet me vendim, i cili u njoftohet palëve brenda 90 ditëve nga dita e regjistrimit të ankesës ose nëse është zhvilluar një seancë dëgjimore publike, brenda 90 ditëve nga dita e seancës. Vendimi përmban rregullimet dhe masat e duhura, duke caktuar edhe një afat për kryerjen e tyre.
 11. Nëse komisioneri urdhëron rregullime ose masa, subjekti kundër të cilit është paraqitur ankesa, raporton brenda 30 ditëve para komisionerit në lidhje me veprimet e ndërmarra për zbatimin e vendimit. Në rast se subjekti, kundër të cilit është paraqitur ankesa nuk e informon komisionerin ose nuk e zbaton vendimin, komisioneri vendos masë për ndëshkimin me gjobë për subjektin kundër të cilit është paraqitur ankesa. Sanksioni me gjobë shfuqizohet nëse subjekti kundër të cilit është paraqitur ankesa, e zbaton vendimin brenda shtatë ditëve pasi është vendosur sanksioni.
+11/1. Komisioneri mund të përfshijë në vendimin e tij edhe masa jo të detyrueshme.
+Subjektet, sa herë që është e nevojshme, koordinojnë me Komisionerin lidhur me zbatimin e masave detyruese dhe jodetyruese të dhëna prej tij.
 12. Kur vendos masën, komisioneri siguron që ajo të jetë:
 a) e efektshme dhe parandaluese; dhe
 b) në përpjesëtim me gjendjen që e shkaktoi vendosjen e masës. Nëse vendoset gjobë, komisioneri përcakton shumën e gjobës duke marrë parasysh:
@@ -43,4 +45,4 @@ d) personi fizik ose juridik, i cili kryen një ose më shumë nga format e rën
 15. Si mjet të fundit, veçanërisht kur subjekti fizik ose juridik nuk i përmbahet vendimit të komisionerit ose nuk e paguan gjobën brenda tre muajve pas afatit të caktuar nga komisioneri dhe sanksioni nuk është kundërshtuar në gjykatë, komisioneri mund t’u kërkojë autoriteteve kompetente heqjen apo pezullimin e lejes ose autorizimit të subjektit fizik ose juridik për ta ushtruar veprimtarinë e tij.
 16. Në rastet kur vendimi i Komisionerit kthehet mbrapsht nga posta me shënimin “destinacion i panjohur” ose “destinacioni nuk gjendet” dhe për rrjedhim ankuesi dhe subjekti ndaj të cilit drejtohet ankesa nuk mund të marrin dijeni për masat e marra nga Komisioneri për Mbrojtjen nga Diskriminimi, përmbledhja e vendimit afishohet në ambientet e Komisionerit për Mbrojtjen nga Diskriminimi.
 17. Operatorët mediatikë shtetërorë kanë detyrimin që të publikojnë përmbledhjen e vendimeve të formës së prerë të Komisionerit për Mbrojtjen nga Diskriminimi, me objekt gjuhën e urrejtjes.
-18. Vendimet e Komisionerit për Mbrojtjen nga Diskriminimi ankimohen në gjykatën kompetente sipas rregullave të përcaktuara në legjislacionin në fuqi për gjykimin e mosmarrëveshjeve administrative.
+18. Vendimet e Komisionerit për Mbrojtjen nga Diskriminimi ankimohen në gjykatën kompetente sipas rregullave të përcaktuara në legjislacionin në fuqi për gjykimin e mosmarrëveshjeve administrative. E drejta për ankim në gjykatë zbatohet edhe pasi të ketë mbaruar marrëdhënia në të cilën pretendohet se ka ndodhur diskriminimi.

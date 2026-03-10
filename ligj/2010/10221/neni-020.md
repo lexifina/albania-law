@@ -6,9 +6,9 @@ b) duke refuzuar t’i ofrojë një personi të mira apo shërbime në mënyrë 
 2. Pika 1 e këtij neni zbatohet veçanërisht për:
 a) mundësi për të hyrë në një vend ku publiku lejohet të hyjë ose për të përdorur një vend, i cili lejohet për t’u përdorur nga publiku;
 b) mundësi për të marrë ose për të përfituar nga të mirat apo shërbimet që kanë të bëjnë me shëndetin;
-c) kontributin dhe mundësinë për të përfituar të mira nga skemat e mbrojtjes shoqërore, duke përfshirë asistencë sociale, sigurime shoqërore, mbrojtje të fëmijëve, përfitim për shkak të aftësisë së kufizuar, apo ndonjë skemë tjetër të mbrojtjes sociale ose avantazh tjetër social të ofruar për publikun;
+c) trajtim të barabartë për të gjitha skemat e mbrojtjes shoqërore, sigurimeve shoqërore dhe shëndetësore, përfshirë asistencën sociale, mbrojtjen e fëmijëve, përfitimet për shkak të aftësisë së kufizuar, paaftësisë për punë, pleqërisë, aksidenteve në punë, sëmundjeve profesionale, papunësisë, si dhe çdo skemë tjetër të mbrojtjes sociale apo avantazh tjetër social i ofruar për publikun;
 ç) mundësi për të përdorur ose për të hyrë në një institucion arsimor;
-d) sistemimin në një vend ku ofrohet strehim;
+d) mundësinë për t’u strehuar në një vend ku ofrohet strehim;
 dh) shitjen ose dhënien me qira të banesave dhe të mjediseve të tjera;
 e) shërbimet e bankës dhe mundësi për të siguruar grante, huadhënie, depozita bankare ose financim;
 ë) lehtësi për argëtim, çlodhje e freskim;
