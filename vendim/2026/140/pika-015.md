@@ -1,0 +1,11 @@
+15. Për kreditë e debitorëve të transferuar nga bankat e nivelit të dytë me kapital tërësisht shtetëror para privatizimit të tyre, të cilët kanë shlyer detyrimin për principal dhe shpenzimet gjyqësore para hyrjes në fuqi të ligjit nr. 55/2023, “Për menaxhimin e garancive dhe kredive shtetërore të pakthyera”, pasuria e të cilëve rezulton në pronësi të Agjencisë, kjo e fundit i kthen pronën debitorit. Kthimi i pronës bëhet vetëm pasi debitori ka përmbushur të gjitha detyrimet dhe ka shlyer të gjitha shpenzimet e kryera nga Agjencia për këtë qëllim.
+V. LLOGARITË BANKARE DHE VEPRIMET MBI TO
+1. Llogaritë bankare në bankat e nivelit të dytë, të transferuara nga ish-Agjencia e Trajtimit të Kredive, në monedhat lek, euro dhe dollar amerikan (USD), mbahen të hapura dhe përdoren për qëllimet e mëposhtme:
+a) Arkëtimet që vijnë nga kreditë sipas pikave 1 dhe 2, të nenit 15, të ligjit nr. 55/2023, “Për menaxhimin e garancive dhe kredive shtetërore të pakthyera”;
+b) Arkëtimet nga shitja e pronave të sekuestruara, të cilat janë në pronësi të Agjencisë;
+c) Arkëtimet e mbledhura në këto llogari përdoren për komisionet bankare për mirëmbajtjen e llogarive, si dhe për kthimin e 20% të shumës së derdhur për pjesëmarrjen në ankand, në rast se ka ofertues.
+2. Për arkëtimet e të gjithë debitorëve në trajtim nga Agjencia, në rast se fondet derdhen në një llogari aktive në monedhë tjetër nga monedha në të cilën debitori ka detyrimin, konvertimi kryhet sipas kursit të Bankës së Shqipërisë në datën e kryerjes së veprimit.
+VI. DISPOZITA TË FUNDIT
+1. Vendimi nr. 681, datë 11.6.2009, i Këshillit të Ministrave, “Për trajtimin e kredive të transferuara nga bankat e nivelit të dytë, me kapital tërësisht shtetëror, në Agjencinë e Trajtimit të Kredive, për kriteret dhe kushtet për ndryshimin e marrëveshjes së kredisë, si dhe procedurat e marrjes në pronësi të pasurive, të lëna si garanci ose jo nga huamarrësit, të administrimit, shitjes dhe dhënies me qira apo me enfiteozë të këtyre pasurive”, i ndryshuar, shfuqizohet.
+2. Ngarkohen Ministria e Financave dhe Agjencia e Menaxhimit të Garancive dhe Kredive të Pakthyera për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+9. Pas njoftimit nga ministria për kryerjen e pagesës në favor të bankës së nivelit të dytë, Agjencia ka detyrimin të informojë huamarrësin për detyrimin e tij ndaj ministrisë, në përputhje me marrëveshjen e mirëkuptimit të nënshkruar nga huamarrësi.

@@ -1,0 +1,1 @@
+3. Agjencia kryen mbikëqyrjen dhe verifikimin e kushteve financiare të të gjithë huamarrësve, që kanë përfituar financim me garanci shtetërore, nënhua ose hua të akorduar nga buxheti i shtetit, dhe, në rast mospagimi të detyrimit, kërkon prej tyre informacionin e dokumentacionin e nevojshëm për realizimin e kësaj mbikëqyrjeje.

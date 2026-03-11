@@ -1,0 +1,1 @@
+12. Pas marrjes së njoftimit për rikuperimin e detyrimit, Agjencia ka detyrimin të njoftojë me shkrim huadhënësin për detajet e pagesës, përfshirë shumën e rikuperuar dhe numrin e llogarisë bankare, ku do të kryhet derdhja e saj.

@@ -1,0 +1,1 @@
+6. Shumat, që janë objekt i këtij vendimi, lidhur me garancitë, huat dhe nënhuat, kthehen direkt në llogarinë unike të thesarit. Komisionet bankare, pagesat për shpenzime gjyqësore, përmbarimore ose çdo shpenzim tjetër i lidhur me rikuperimin e detyrimeve nuk zbriten nga shumat e arkëtuara.

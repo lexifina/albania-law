@@ -1,0 +1,1 @@
+10. Pas kryerjes së pagesës, Agjencia ka detyrimin të mbikëqyrë dhe të ndjekë veprimet e kryera nga bankat e nivelit të dytë, duke kërkuar dhe duke marrë informacion në formë shkresore, lidhur me procesin e rikuperimit të detyrimeve të huamarrësve.

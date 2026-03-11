@@ -1,0 +1,1 @@
+2. Agjencia i dërgon huamarrësit njoftimin zyrtar “Njoftim për shlyerje detyrimi”, në përputhje me gjendjen e përditësuar të detyrimeve, që rrjedhin nga huat, nënhuat dhe garancitë shtetërore, sipas kushteve dhe detyrimeve të përcaktuara në marrëveshjen përkatëse të huas ose të nënhuas të nënshkruar ndërmjet palëve.
