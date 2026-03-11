@@ -1,0 +1,1 @@
+7. Kompensimi financiar jepet në masën e kontributeve shoqërore dhe shëndetësore të punëdhënësit, 16.7%, llogaritur mbi diferencën e pagës së çdo punonjësi me pagë bruto, nga 40 000 (dyzet mijë) lekë deri në 49 999 (dyzet e nëntë mijë e nëntëqind e nëntëdhjetë e nëntë) lekë në shtator 2025, me pagën 50 000 (pesëdhjetë mijë) lekë.

@@ -1,0 +1,1 @@
+1. Dhënie kompensimi financiar çdo muaj, për periudhën kontributive janar-shtator 2026, për kontributet e sigurimeve shoqërore dhe shëndetësore të punëdhënësit për subjektet që preken nga rritja e pagës minimale.

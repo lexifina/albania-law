@@ -1,0 +1,1 @@
+3. Kompensimi financiar llogaritet dhe jepet bazuar në numrin maksimal të të punësuarve me fashën e pagës bruto, nga 40 000 (dyzet mijë) lekë deri në 49 999 (dyzet e nëntë mijë e nëntëqind e nëntëdhjetë e nëntë) lekë, që figurojnë në listëpagesën e deklaruar në organet tatimore për muajin shtator 2025, për përditësimin më të fundit të bërë gjatë vitit 2025.

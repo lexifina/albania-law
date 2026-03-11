@@ -1,0 +1,1 @@
+4. Kompensimi financiar për subjektet jepet çdo muaj, për periudhën kontributive janar-shtator 2026, nga Drejtoria Rajonale e Agjencisë Kombëtare të Punësimit dhe Aftësive (DRAKPA), ku kanë adresën e vendit, në të cilin zhvillohet pjesa kryesore e veprimtarisë tregtare.

@@ -1,0 +1,1 @@
+2. Subjektet përfituese të kompensimit financiar duhet të ushtrojnë aktivitet në të gjithë sektorët ekonomikë të nomenklaturës së veprimtarive ekonomike dhe të plotësojnë kriteret e përcaktuara në pikën 5, të këtij vendimi.
