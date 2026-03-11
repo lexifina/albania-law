@@ -1,0 +1,1 @@
+4. Në rast mungese në detyrë të Përgjegjësit të Sektorit të Çështjeve Gjyqësore, delegimi i kompetencës konsiderohet i ndërprerë për periudhën e mungesës, në kuptim të nenit 29, pika 2, germa “c”, të Kodit të Procedurës Administrative. Gjatë mungesës kompetenca ushtrohet nga drejtori i përgjithshëm.
