@@ -1,0 +1,1 @@
+3. Në fushën “Industria kulturore dhe kreative” përfshihen: departamenti artistik, kamera/kinematografi, kostumet, ndriçimi dhe pajisjet teknike, teknik zëri dhe pas-produksioni, efektet vizuale dhe efektet speciale, produksion dhe regjizurë, rekvizitat dhe dekorimi i setit ose promovimi/publiciteti apo fusha të tjera të ngjashme.
