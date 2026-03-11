@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 26.8.2025, për çështjen “Kroi dhe Noçka kundër Shqipërisë”, për kërkesën nr. 84056/17, përfundimtar në datën 26.11.2025, sipas shumave të përcaktuara në shtojcën 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
