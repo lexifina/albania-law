@@ -16,3 +16,4 @@ l) planifikon, koordinon dhe përfshin kompani partnere në ofrimin e orëve nga
 m) planifikon, koordinon dhe përfshin kompani partnere për sponsorizime të mundshme në ofruesit publik;
 n) planifikon, koordinon dhe përfshin kompani partnere në proceset të brendshme dhe bordit drejtues të ofruesit publik;
 o) planifikon, koordinon dhe përfshin kompani partnere pjesëmarrjen në projekte të përbashkëta nga donatorët dhe organizata të ndryshme.
+p) bashkëpunon me zyrën e punës për identifikimin e bizneseve që kanë vende të lira për praktika profesionale dhe për zbatimin e kontratës për mësimin e profesionit.

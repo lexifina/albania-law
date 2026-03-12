@@ -15,3 +15,4 @@ j) vlerëson periodikisht cilësinë e shërbimeve të ofruara nga njësia e zhv
 k) koordinon procesin e marrjes dhe në detyrë dhe largimit të koordinatorëve të njësisë së zhvillimit
 l) planifikon dhe organizon punën për zhvillimin e procesit të vetëvlerësimit në bashkëpunim me drejtorinë e ofruesit publik të AFP-së;
 m) planifikon dhe organizon punën për zhvillimin e procesit të akreditimit dhe inspektimit në bashkëpunim me stafin drejtues.
+n) identifikon nxënësit me rrezik braktisjeje, në kuadër të sistemit të paralajmërimit të hershëm, me qëllim marrjen e masave mbështetëse për parandalimin e braktisjes dhe riintegrimin e nxënësve në sistemin arsimor.

@@ -1,10 +1,11 @@
 # Neni 89
-Lëvizja paralele e zëvendësdrejtorit/përgjegjësit të bazës prodhuese në ofruesit publikë të AFP-së
-1. Kur krijohet vendi i lirë i zëvendësdrejtorit/përgjegjësit të bazës prodhuese në ofruesit publik të AFP-së, njofton me shkresë zyrtare Drejtorinë Qendrore të AKPA-së për shpalljen e vendit të lirë me lëvizje paralele, sipas shtojcës 9 të këtij udhëzimi.
+Lëvizja paralele e përgjegjësit të bazës prodhuese në ofruesit publikë të AFP-së
+(Hequr fjalë në titull dhe nen dhe shfuqizuar pika 7 me udhëzimin nr. 4, datë 4.3.2026)
+1. Kur krijohet vendi i lirë i përgjegjësit të bazës prodhuese në ofruesit publik të AFP-së, njofton me shkresë zyrtare Drejtorinë Qendrore të AKPA-së për shpalljen e vendit të lirë me lëvizje paralele, sipas shtojcës 9 të këtij udhëzimi.
 2. Njoftimi për lëvizje paralele bëhet në faqen zyrtare të AKPA-së, në faqen elektronike zyrtare të ofruesit publik, nëse ka, si dhe në një vend të dukshëm në hyrje të ofruesit publik të AFP-së, që ka vendin e lirë brenda 5 (pesë) ditëve pune.
-3. Shpallja për lëvizje paralele përmban kriteret e përgjithshme dhe të veçanta për marrjen në punë të zëvendësdrejtorit në ofruesin publik të AFP-së, dokumentet që duhet të paraqiten dhe afatet e aplikimit.
+3. Shpallja për lëvizje paralele përmban kriteret e përgjithshme dhe të veçanta për marrjen në punë në ofruesin publik të AFP-së, dokumentet që duhet të paraqiten dhe afatet e aplikimit.
 4. Kërkesa për lëvizje paralele dhe dokumentacioni përkatës dorëzohen pranë ofruesit publik të AFP-së, ku është krijuar vendi i lirë i punës, brenda 5 ditëve nga shpallja.
-5. Në rast se ka aplikues për procedurën e lëvizjes paralele, vijohet me procedurën e përzgjedhjes së zëvendësdrejtorit, sipas përcaktimeve të këtij udhëzimi;
+5. Në rast se ka aplikues për procedurën e lëvizjes paralele, vijohet me procedurën e përzgjedhjes, sipas përcaktimeve të këtij udhëzimi;
 6. Nëse nuk paraqiten kërkesa për lëvizje paralele brenda afatit, sipas pikës 3 të këtij neni, drejtori i ofruesit publik të AFP-së vijon me procedurën e shpalljes së vendit të lirë.
-7. Në procedurën e lëvizjes paralele kanë të drejtë të aplikojnë edhe drejtorë të ofruesve publik të AFP-së, të cilët plotësojnë kriteret e përgjithshme dhe të posaçme të përcaktuara në shpalljen e vendit të lirë të zëvendësdrejtorit.
+7. Shfuqizuar.
 8. Kandidatët kanë të drejtë të bëjnë ankimim, për rezultatin e pikëve pranë ofruesit publik të AFP-së, brenda 3 (tri) ditëve kalendarike nga data e marrjes së rezultateve të vlerësimit. Ankuesi merr përgjigje brenda 5 (pesë) ditëve pune nga data e depozitimit të ankesës.

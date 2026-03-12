@@ -37,6 +37,7 @@ n) merr pjesë në grupet e punës të ngritura për zhvillimin e aktiviteteve, 
 o) raporton rregullisht te drejtori i ofruesit publik të AFP-së për zbatimin e procesit mësimor në lëndët e kulturës së përgjithshme;
 p) administron regjistrat e klasave në përdorim të përditshëm;
 q) kryen çdo detyrë tjetër të ngarkuar nga drejtori i ofruesit publik të AFP-së, në përputhje me legjislacionin e AFP-së dhe legjislacionin e punës.
+r) identifikon nxënësit me rrezik braktisjeje në kuadër të sistemit të paralajmërimit të hershëm, me qëllim marrjen e masave mbështetëse për parandalimin e braktisjes dhe riintegrimin e nxënësve në sistemin arsimor.
 2. Zëvendësdrejtori i kulturës profesionale ka në varësi të drejtpërdrejtë përgjegjësit e departamenteve dhe personelit mësimdhënës të kulturës profesionale dhe bashkëpunon me:
 a) njësinë e zhvillimit për:
 i. zhvillimin e vazhduar profesional të personelit mësimdhënës të kulturës profesionale:
@@ -71,4 +72,5 @@ xi. merr pjesë në grupet e punës të ngritura, për zhvillimin e aktiviteteve
 xii. raporton rregullisht te drejtori i ofruesit publik të AFP-së, për zbatimin e procesit mësimor në lëndët dhe modulet e teorisë dhe praktikës profesionale;
 xiii. administron regjistrat e klasave në përdorim të përditshëm;
 xiv. kryen çdo detyrë tjetër të ngarkuar nga drejtori i ofruesit publik të AFP-së, në përputhje me legjislacionin e AFP-së dhe legjislacionin e punës.
+xv. identifikon nxënësit me rrezik braktisjeje në kuadër të sistemit të paralajmërimit të hershëm, me qëllim marrjen e masave mbështetëse për parandalimin e braktisjes dhe riintegrimin e nxënësve në sistemin arsimor.
 3. Shfuqizuar.

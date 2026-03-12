@@ -8,3 +8,4 @@ d) siguron që nxënësit kanë informacion të mjaftueshëm për zgjedhjen e pr
 e) siguron në bashkëpunim me koordinatorin/en për zhvillimin e kurrikulës, që kurrikula e zbatuar përmban elemente të edukimit për karrierë;
 f) informon dhe orienton në bashkëpunim me koordinatorin/en për marrëdhëniet me biznesin, nxënësit dhe prindërit e tyre mbi tregun e punës, mundësitë për karrierë dhe punëdhënësit e mundshëm, nivelet e pagave.
 g) mbështet nxënësit për hartimin e jetëshkrimit (CV) për aplikime në praktikë profesionale dhe në pozicionet vakante të punës për nxënësit punëmarrës.
+h) identifikon nxënësit me rrezik braktisjeje, në kuadër të sistemit të paralajmërimit të hershëm, me qëllim marrjen e masave mbështetëse për parandalimin e braktisjes dhe riintegrimin e nxënësve në sistemin arsimor.

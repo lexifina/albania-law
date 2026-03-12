@@ -32,9 +32,11 @@ c) të ketë aftësi didaktiko-pedagogjike për të mbështetur përdoruesit në
 a) të ketë diplomë të ciklit të dytë ose diplomë të barasvlershme me të në fushën e edukimit, të shkencave sociale, sociologjisë, psikologjisë, drejtësisë;
 b) të ketë njohuri të mira kompjuterike.
 7. Kriteret dhe procedurat për marrjen në punë të personelit që ofron shërbim psikosocial në ofruesit publik të AFP-së, të cilët ofrojnë arsim të mesëm profesional përcaktohen me udhëzim të posaçëm të ministrit përgjegjës për arsimin dhe rregullohen në të njëjtën mënyrë si për institucionet e arsimit parauniversitar, sipas nenit 20, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, i ndryshuar.
-8. Kritere të posaçme për sekretar shkolle, magazinier, punonjës pastrimi, punonjës i sigurisë (roje), punonjës ndihmës:
-a) të ketë nivelin arsimor të mesëm ose shkollë të mesme profesionale;
-b) të ketë të paktën 1 (një) vit përvojë pune sipas përcaktimeve në shpalljen për pozicionin përkatës;
+8. Kritere të posaçme për sekretar shkolle, magazinier, punonjës ndihmës:
+a) të ketë nivelin arsimor të mesëm ose shkollë të mesme profesionale, në fushën në shpalljen për pozicionin përkatës;
+b) të ketë të paktën 1 (një) vit përvojë pune sipas përcaktimeve në shpalljen për pozicionin përkatës.
+8/1. Kritere të posaçme për punonjës pastrimi, punonjës i sigurisë (roje):
+a) të kenë nivelin arsimor bazë.
 9. Për pozicionet e punës që përfshijnë më shumë se një rol, kriteret e marrjes në punë duhet të përmbushen për të gjitha rolet.
 10. Përzgjedhja e personelit tjetër mbështetës të ofruesit publik të AFP-së bëhet sipas legjislacionit në fuqi.
 11. Nëse procedura e përzgjedhjes përfundon me fitues, njoftimi për fituesin bëhet në faqen zyrtare të AKPA-së, në faqen elektronike zyrtare të ofruesit publik të AFP-së, nëse ka, si dhe në një vend të dukshëm në hyrje të institucionit, që ka vendin e lirë.

@@ -12,6 +12,7 @@ f) ndihmon ne lehtësimin e mbingarkesës së nxënësit me mësime;
 g) këshillon nxënësit në zgjedhjet kurrikulare dhe të karrierës;
 h) bashkëpunon me psikologun/punonjësin social;
 i) plotëson të dhënat në regjistrin e klasës.
+j) identifikon nxënësit me rrezik braktisjeje, në kuadër të sistemit të paralajmërimit të hershëm, me qëllim marrjen e masave mbështetëse për parandalimin e braktisjes dhe riintegrimin e nxënësve në sistemin arsimor.
 4. Mësuesi kujdestar dokumenton dhe raporton frekuentimin, rezultatet, notat mesatare të nxënësve/kursantëve dhe normën e kalueshmërisë, sipas vitit shkollor, kursit dhe nivelit, si dhe çdo informacion tjetër që ka të bëjë me mbarëvajtjen e nxënësit në shkollë.
 5. Orët e kujdestarisë përfshijnë:
 a) veprimtari me klasën;
