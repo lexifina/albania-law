@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit për Informim mbi Dokumentet e ish-Sigurimit të Shtetit, për nënshkrimin e dokumentacionit të klasifikuar, nga data 9.3.2026 deri në plotësimin e detyrimeve ligjore për njohjen me informacionin e klasifikuar, tek anëtari i Autoritetit për Informim mbi Dokumentet e ish-Sigurimit të Shtetit, z. Altin Hoxha.
