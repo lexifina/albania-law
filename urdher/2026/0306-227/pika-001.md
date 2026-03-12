@@ -1,0 +1,2 @@
+1. Delegimin e kompetencave z. Gentjan Mahmutaj, Koordinator për të Drejtën e Informimit në Drejtorinë e Përgjithshme të ASHK-së, për sa vijon:
+- Për të nënshkruar kthim përgjigje, me karakter njohës dhe informues, dalëse të Drejtorisë së Përgjithshme, në lidhje me kërkesat për informacion drejtuar Koordinatorit për të Drejtën e Informimit, në zbatim të ligjit nr. 119/2014, “Për të drejtën e informimit”, që u drejtohen të tretëve (personat fizikë, personat juridike privat), si dhe ato të drejtuara strukturave të varësisë së ASHK-së në funksion të informimit të të tretëve.
