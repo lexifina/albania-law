@@ -1,5 +1,6 @@
 # Neni 93
-Procesi i përzgjedhjes së zëvendësdrejtorit/përgjegjësit të bazës prodhuese
+Procesi i përzgjedhjes së përgjegjësit të bazës prodhuese
+(Hequr fjalë në titull dhe nen me udhëzimin nr. 4, datë 4.3.2026)
 Procesi i përzgjedhjes së kandidatit të institucionit publik ofrues të AFP-së kalon në këto faza:
 1. Faza e parë:
 a) njësia e burimeve njerëzore pranë ofruesit publik të AFP-së verifikon paraprakisht dokumentacionin e dorëzuar nga çdo aplikant dhe miraton listën paraprake të kandidatëve të kualifikuar për në fazën e dytë, me dokumentacion të plotë, në përputhje me kërkesat e aplikimit;

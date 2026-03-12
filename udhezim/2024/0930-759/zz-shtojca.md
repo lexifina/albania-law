@@ -142,7 +142,7 @@ Drejtor
 SHTOJCË 3
 PLANI AFATMESËM I OFRUESIT PUBLIK TË AFP-së
 REPUBLIKA E SHQIPËRISË
-MINISTRIA E EKONOMISË, KULTURËS DHE INOVACIONIT
+MINISTRIA E EKONOMISË DHE INOVACIONIT
 AGJENCIA KOMBËTARE E PUNËSIMIT DHE AFTËSIVE
 EMRI I OFRUESIT PUBLIK
 PLAN AFATMESËM
@@ -354,7 +354,7 @@ Viti
 SHTOJCË 4
 PLANI VJETOR I OFRUESIT PUBLIK TË AFP-së
 REPUBLIKA E SHQIPËRISË
-MINISTRIA E EKONOMISË KULTURËS DHE INOVACIONIT
+MINISTRIA E EKONOMISË DHE INOVACIONIT
 AGJENCIA KOMBËTARE E PUNËSIMIT DHE AFTËSIVE
 EMRI I OFRUESIT PUBLIK
 PLAN VJETOR
@@ -716,7 +716,7 @@ Nënshkrimi:_________________________
 Data e nënshkrimit të deklaratës: ________________
 SHTOJCË 9
 NJOFTIM PËR LËVIZJE PARALELE
-MINISTRIA E EKONOMISË, KULTURËS DHE INOVACIONIT
+MINISTRIA E EKONOMISË DHE INOVACIONIT
 AGJENCIA KOMBËTARE E PUNËSIMIT DHE AFTËSIVE
 EMRI I OFRUESIT PUBLIK TË AFP-së
 Nr. ______ prot. Data___.___.___
@@ -724,7 +724,7 @@ Lënda: Njoftim për lëvizje paralele
 DREJTORISË JURIDIKE DHE BURIMEVE NJERËZORE
 DREJTORISË SË MARRËDHËNIEVE ME PUBLIKUN
 AGJENCISË KOMBËTARE TË PUNËSIMIT DHE AFTËSIVE
-Në zbatim të ligjit nr. 15/2019, “Për nxitjen e punësimit”; të ligjit nr. 15/2017, “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”; të vendimit të Këshilli të Ministrave nr. 554, datë 31.7.2019, “Për krijimin, mënyrën e organizimit dhe të funksionimit të Agjencisë Kombëtare të punësimit dhe aftësive”; të udhëzimit nr. ..., datë ..., “Për mënyrën e organizimit dhe veprimtarinë e ofruesve publik të arsimit dhe formimit profesional”,
+Në zbatim të ligjit nr. 15/2019, “Për nxitjen e punësimit”; të ligjit nr. 15/2017, “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”; të vendimit të Këshilli të Ministrave nr. 554, datë 31.7.2019, “Për krijimin, mënyrën e organizimit dhe të funksionimit të Agjencisë Kombëtare të punësimit dhe aftësive”; të udhëzimit nr. ..., datë ..., “Për mënyrën e organizimit dhe veprimtarinë, menaxhimin e burimeve njerëzore, zhvillimin e vazhduar profesional të personelit, përbërjen e njësisë së zhvillimit, të institucioneve ofruesve të arsimit dhe formimit profesional”,
 Ofruesi publik i AFP-së.........., ju njofton krijimin e vendit të lirë për pozicionin ...
 .......
 1. Kriteret e përgjithshme dhe kriteret e posaçme
@@ -753,14 +753,14 @@ Dokumentet e aplikimit dorëzohen në protokollin e ofruesit publik të AFP-së,
 DREJTOR (I OFRUESIT PUBLIK TË AFP-së)
 SHTOJCË 10
 NJOFTIM I VENDIT TË LIRË
-MINISTRIA E EKONOMISË, KULTURËS DHE INOVACIONIT
+MINISTRIA E EKONOMISË DHE INOVACIONIT
 AGJENCIA KOMBËTARE E PUNËSIMIT DHE AFTËSIVE
 EMRI I OFRUESIT PUBLIK TË AFP-së
 Nr. ______ prot.
 Data ___.___.___
 Lënda: Njoftim për vend të lirë.
 AGJENCISË KOMBËTARE TË PUNËSIMIT DHE AFTËSIVE
-Në zbatim të ligjit nr. 15/2019, “Për nxitjen e punësimit”; të ligjit nr. 15/2017, “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”; të vendimit të Këshilli të Ministrave nr. 554, datë 31.7.2019, “Për krijimin, mënyrën e organizimit dhe të funksionimit të Agjencisë Kombëtare të Punësimit dhe Aftësive”; të udhëzimit nr. ..., datë ..., “Për mënyrën e organizimit dhe veprimtarinë e ofruesve publik të arsimit dhe formimit profesional”,
+Në zbatim të ligjit nr. 15/2019, “Për nxitjen e punësimit”; të ligjit nr. 15/2017, “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”; të vendimit të Këshilli të Ministrave nr. 554, datë 31.7.2019, “Për krijimin, mënyrën e organizimit dhe të funksionimit të Agjencisë Kombëtare të Punësimit dhe Aftësive”; të udhëzimit nr. ..., datë ..., “Për mënyrën e organizimit dhe veprimtarinë, menaxhimin e burimeve njerëzore, zhvillimin e vazhduar profesional të personelit, përbërjen e njësisë së zhvillimit, të institucioneve ofruesve të arsimit dhe formimit profesional”,
 Ofruesi publik i AFP-së.......... ju njofton krijimin e vendit të lirë për pozicionin/pozicionet:
 - _________________________
 1. Kriteret e përgjithshme dhe kriteret e posaçme
@@ -909,7 +909,7 @@ Ligje dhe vendime të Këshillit të Ministrave për nivelin arsimor të institu
 deri në shfuqizimin e tyre
 SHTOJCË 13
 NJOFTIM FITUESI
-MINISTRIA E EKONOMISË, KULTURËS DHE INOVACIONIT
+MINISTRIA E EKONOMISË DHE INOVACIONIT
 AGJENCIA KOMBËTARE E PUNËSIMIT DHE AFTËSIVE
 EMRI I OFRUESIT TË AFP-së
 Nr. ______ prot.
