@@ -2,4 +2,4 @@
 - Z. Blendi Gonxhja, ministër i Turizmit, Kulturës dhe Sportit;
 - Z. Andis Salla, ministër i Bujqësisë dhe Zhvillimit Rural;
 - Z. Ervin Demo, ministër i Shtetit për Pushtetin Vendor;
-- Znj. Ana Kapaj, zëvendësministër i Arsimit.
+- Znj. Olta Manjani, zëvendësministër i Ekonomisë dhe Inovacionit.

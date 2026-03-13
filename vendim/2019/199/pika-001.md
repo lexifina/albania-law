@@ -1,1 +1,1 @@
-1. Përcaktimin e zëvendëskryeministrit, znj. Belinda Balluku, kryetar të këshillit drejtues të Fondit Shqiptar të Zhvillimit.
+1. Përcaktimin e zëvendëskryeministrit, znj. Albana Koçiu, kryetar të këshillit drejtues të Fondit Shqiptar të Zhvillimit.
