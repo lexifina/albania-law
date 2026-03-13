@@ -1,0 +1,1 @@
+1. Miratimin e modelit tip të marrëveshjes, që lidhet ndërmjet Agjencisë Kombëtare të Bregdetit dhe investitorit, për përdorimin e brigjeve të deteve, liqeneve, lumenjve si stacione plazhi, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
