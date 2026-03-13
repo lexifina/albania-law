@@ -1,3 +1,0 @@
-# Nënshkrimi
-ZËVENDËSKRYEMINISTËR
-Belinda Balluku
