@@ -1,0 +1,1 @@
+5. Ngarkohet AKAFPK-ja për përzgjedhjen e anëtarëve, sipas shkronjave “ç”, “d”, “e” dhe “ë”, të pikës 2 të këtij urdhri, si dhe titullari i saj për ngritjen e sekretariatit teknik, brenda 3 (tre) muajve nga hyrja e tij në fuqi.
