@@ -503,3 +503,73 @@ Vlera totale e shpronësimit
 113,098,301
 13,570,981
 402,403,347
+TABELA E NDRYSHIMEVE DHE SHTESAVE NË LISTËN E PRONARËVE, PASURITË E PALUAJTSHME, PRONË PRIVATE, TË TË CILËVE SHPRONËSOHEN ME VENDIMIN NR. 117, DATË 26.2.2025, TË KËSHILLIT TË MINISTRAVE, “PËR SHPRONËSIM PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA PROJEKTI ’RIKUALIFIKIMI I HYRJES SË QYTETIT TË SHKODRËS DHE BREGUT PERËNDIMOR TË LIQENIT TË SHKODRËS’”
+Nr. rendor
+Pronari
+Të dhëna kadastrale (sipas kartelës së pasurisë)
+Vlerësimet për shpronësim
+Vlera totale (lekë)
+Shënime (kufizime hipotekore, barrë mbi pasurinë etj.)
+Livadh
+Truall
+Ndërtesë social-ekonomike, vlerësuar me preventiv punimesh
+Ndërtesë banimi
+Emri
+Atësia
+Mbiemri
+Qyteti
+Zona. kadastrale
+Indeksi i hartës
+Nr. i pasurisë
+Lloji i pasurisë
+Sipërfaqja totale (m2)
+Volumi
+Faqe
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+21
+Fatmir
+Xhezair
+Muça
+Shkodër
+8591
+R-4
+18/816
+Truall
+5828
+63
+134
+5,828
+8,511
+49,602,108
+49,602,108
+26
+Arben Klodiana Cuf Elona
+Teufik Hekuran Hekuran Hekuran
+Dibra Molika Dibra Dibra
+Shkodër
+8591
+R-4
+18/42-ND
+Ndërtesë
+545.8
+63
+158
+546
+20,111,181
+20,111,181
+VLERA TOTALE E SHPRONËSIMIT
+49,602,108
+20,111,181
+69,713,289
+Efekti financiar shtesë është 3,582,819 lekë
