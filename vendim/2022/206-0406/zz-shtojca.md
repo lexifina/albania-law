@@ -1127,3 +1127,51 @@ Shuma totale
 Shënime.
 1. Për pasuritë e llojit “truall” dhe “arë” vlerësimi është kryer bazuar në vendimin nr. 89, datë 3.2.2016, të Këshillit të Ministrave, “Për miratimin e hartës së vlerës së tokës në Republikën e Shqipërisë”.
 2. Për pasuritë e llojit “ndërtesë me funksion banimi dhe jobanim”, vlerësimi është kryer sipas VKM-së nr. 138, datë 23.3.2000, “Për kriteret teknike të vlerësimit dhe të përllogaritjes së masës së shpërblimit të pasurive që shpronësohen, të pasurive që zhvlerësohen dhe të të drejtave të personave të tretë, për interes publik”, të ndryshuar.
+LISTA SHTESË E PRONARËVE, PASURIA E PALUAJTSHME, PRONË PRIVATE, E TË CILËVE SHPRONËSOHET ME VENDIMIN NR. 206, DATË 6.4.2022, TË KËSHILLIT TË MINISTRAVE, “PËR SHPRONËSIMIN PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT ’PËRFUNDIMI I PUNIMEVE TË MBETURA DHE PLOTËSIMI ME RRUGË DYTËSORE, NYJA E MILOTIT’”
+Nr.
+Pronari
+Të dhënat kadastrale
+(sipas kartelës së pasurisë)
+Sipërfaqja që shpronësohet
+Objekti që shpronësohet
+Vlera totale (lekë)
+Shënime
+Emri
+Atësia
+Mbiemri
+Zona
+kadastrale
+Numri i
+pasurisë
+Sip.
+totale
+Lloji
+pasurisë
+Tokë “truall”
+Tokë “arë”
+Banim
+Soc.-ek.
+Sipërfaqja e shpronësuar (m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sipërfaqja e shpronësuar (m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sipërfaqja e shpronësuar (m2)
+Vlera lekë
+Sipërfaqja e shpronësuar (m2)
+Vlera lekë
+82
+Kujtim Sinan Lule Lindita Besim
+Baftjar Baftjar Baftjar Baftjar Baftjar
+Isufi Isufi Tuga Hidri Isufi
+3441
+5/15
+3,200
+Arë
+2240
+278
+622,720
+622,720
+SHUMA TOTALE
+622,720
