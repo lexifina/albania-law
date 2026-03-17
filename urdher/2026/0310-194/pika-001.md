@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Turizmit, Kulturës dhe Sportit te zëvendësministri, z. Endrit Hoxha, nga data 11.3.2026 deri në datën 13.3.2026, për trajtimin dhe nënshkrimin e akteve administrative dhe shkresave zyrtare që lidhen me çështjet e fushës së sportit.
