@@ -2,7 +2,7 @@
 Agjencia Kombëtare e Rinisë
 1. AKR-ja shpall çdo vit programin vjetor të financimit për projektet e kandidatëve.
 2. AKR-ja harton e publikon dokumentacionin mbështetës për zhvillimin e procedurës konkurruese të përfitimit të granteve për rininë, sipas kushteve dhe afateve të përcaktuara në këtë vendim, ku përfshihen:
-a) thirrjet publike për projektpropozime nga ana e organizatave rinore, organizatave për të rinjtë dhe njësive të vetëqeverisjes vendore;
+a) thirrjet publike për projektpropozime nga ana e organizatave rinore, organizatave për të rinjtë dhe bashkive dhe grupeve joformale rinore;
 b) fondi në dispozicion për çdo thirrje për projektpropozime;
 c) dokumentet për përgatitjen e dorëzimin e projektpropozimeve;
 ç) formularët e kërkesës;

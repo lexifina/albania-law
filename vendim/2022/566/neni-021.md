@@ -7,4 +7,4 @@ a) informacionin mbi thirrjet publike të zbatuara, sasinë e fondeve të shpër
 b) informacionin mbi numrin e aplikimeve të thirrjes dhe përshkrimin e cilësive dhe të të metave të projektpropozimeve të kandidatëve;
 c) informacion mbi arritjet e ndikimin e projekteve të mbështetura dhe kontributin e tyre për realizimin e objektivave të shpallur të thirrjes publike;
 ç) numrin e ankimeve administrative të paraqitura dhe vendimet përfundimtare të shqyrtimit të tyre.
-V. DISPOZITA TË FUNDIT
+V. DISPOZITA TË FUNDIT DHE KALIMTARE
