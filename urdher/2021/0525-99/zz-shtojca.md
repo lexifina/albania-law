@@ -4855,3 +4855,713 @@ Siguria në punë dhe mbrojtja e mjedisit në menaxhimin e furnizimit dhe logjis
 Kualifikim i të nxënit gjatë të gjithë jetës
 I pjesshëm
 4
+SHTOJCA 1.1
+NDRYSHIMET NE KATALOGUN KOMBËTAR TE KUALIFIKIMEVE PROFESIONALE - 2026
+(Ndryshimet e shtojcës me urdhrin nr. 156, datë 4.3.2026)
+Nr.
+Varianti i mëparshëm i kualifikimit profesional
+Kodi i kualifikimit profesional dhe i njësive të të nxënit
+Emërtimi i kualifikimeve
+Emërtimi i njësive të të nxënit
+Lloji i kualifikimit profesional
+Profesionet LKP
+Lidhja me kodet e LKP/ISCO
+Kualifikim i plotë/ i pjesshëm
+Niveli në KSHK
+1
+K-L/3-IV-25
+Tregti elektronike (e-Commerce)
+Program 4-vjeçar për nivelin teknik/menaxher i mesëm
+Menaxher i mesëm në tregtinë elektronike (e-commerce)
+5244.05
+I plotë
+4
+1-a
+NjN-11-IV-0432-25
+Planifikimi dhe organizimi i punës për tregtinë elektronike (e-Commerce)
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-b
+NjN-11-IV-0356-25
+Bazat e ekonomiksit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-c
+NjN-11-IV-0433-25
+Bazat e së drejtës në biznes për tregtinë elektronike
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-d
+NjN-11-IV-0434-25
+Bazat e tregtisë
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-e
+NjN-11-IV-0435-25
+Menaxhimi i produkteve në platformën online
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-f
+NjN-11-IV-0436-25
+Veprime në magazinë
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-g
+NjN-11-IV-0437-25
+Bazat e marketingut
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-h
+NjN-11-IV-0438-25
+Marketing digjital
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-i
+NjN-11-IV-0439-25
+Bazat e logjistikës
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-j
+NjN-11-IV-0440-25
+Menaxhimi i të dhënave në tregtinë elektronike
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-k
+NjN-11-IV-0441-25
+Menaxhimi i platformës e-Commerce/webshop
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-l
+NjN-11-IV-0442-25
+Optimizimi i motorëve të kërkimit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-m
+NjN-11-IV-0443-25
+Shërbimi ndaj klientit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-n
+NjN-11-IV-0444-25
+Llogaritje dhe kontabilizime të thjeshta
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-o
+NjN-11-IV-0445-25
+Shitjet, pagesat dhe dokumentacioni financiar
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-p
+NjN-22-IV-0006-24
+Komunikimi dhe etika profesionale
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-q
+NjN-23-IV-0005-24
+Sipërmarrje dhe edukim karriere
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+1-r
+NjN-11-IV-0446-25
+Rregullat e sigurisë në punë dhe mbrojtjes së mjedisit në tregti elektronike
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2
+N-IV-21
+K-N-IV-25
+Veterinari
+Program 4-vjeçar për nivelin teknik/menaxher i mesëm
+Teknik/menaxher i mesëm në veterinari
+3240
+I plotë
+4
+2-a
+NjN-13-IV-0447-25
+Planifikimi dhe organizimi i punës në veterinari
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-b
+NjN-13-IV-0448-25
+Bazat e anatomisë, fiziologjisë dhe patologjive në kafshë
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-c
+NjN-13-IV-0449-25
+Higjiena, shëndeti i kafshëve dhe mirëqenia e tyre
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-d
+NjN-13-IV-0450-25
+Mikroorganizmat, infeksioni, sëmundjet infektive dhe profilaksia e tyre
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-e
+NjN-13-IV-0451-25
+Sëmundjet e brendshme dhe diagnoza e tyre
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-f
+NjN-13-IV-0452-25
+Kujdesi për shëndetin riprodhues të kafshëve
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-g
+NjN-13-IV-0453-25
+Kujdesi për të ushqyerit e kafshëve
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-h
+NjN-13-IV-0454-25
+Kirurgjia profilaktike me procedura kirurgjikale
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-i
+NjN-13-IV-0455-25
+Administrimi i preparateve mjekësore veterinare
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-j
+NjN-13-IV-0456-25
+Kampionimi për analiza laboratorike dhe kërkim shkencor
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-k
+NjN-13-IV-0457-25
+Kontrolli i produkteve me origjinë shtazore
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-l
+NjN-23-IV-0005-24
+Sipërmarrje dhe edukim karriere
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-m
+NjN-22-IV-0006-24
+Komunikimi dhe etika profesionale
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+2-n
+NjN-13-IV-0458-25
+Rregullat e sigurisë në punë dhe mbrojtjes së mjedisit në veterinari
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+3
+O-IV-21
+K-O-IV-25
+Shërbime sociale dhe shëndetësore
+Programe 1 vit studimi për teknik/menaxher mesëm
+Menaxher i mesëm në ofrimin e shërbimeve social- shëndetësore
+3112
+I plotë
+4
+3-a
+NjN-14-IV-0374-25
+planifikimi dhe organizimi i punës në shërbimet sociale dhe shëndetësore
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+3-b
+NjN-14-IV-0375-25
+Identifikimi dhe vlerësimi i nevojave
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+3-c
+NjN-14-IV-0376-25
+Koordinimi i shërbimeve
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+3-d
+NjN-14-IV-0377-25
+Monitorimi i shërbimeve
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+3-e
+NjN-14-IV-0378-25
+Garantimi i cilësisë së shërbimeve
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+3-f
+NjN-23-IV-0005-24
+Sipërmarrje dhe edukim karriere
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+3-g
+NjN-22-IV-0006-24
+Komunikimi dhe etika profesionale
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+3-h
+NjN-14-IV-0379-25
+Mbikëqyrja e rregullave të sigurisë në punë dhe mbrojtjes së mjedisit në shërbimet sociale dhe shëndetësore
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+4
+K-O1-V-25
+Shërbime punësimi
+Program, pas të mesme 1-vjeçar studimi
+Specialist i shërbimeve të punësimit
+3333.04
+I plotë
+5
+4-a
+NjN-14-V-0380-25
+Legjislacioni në fushën e shërbimeve të punësimit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+5
+4-b
+NjN-14-V-0381-25
+Planifikimi dhe organizimi i punës në shërbime punësimi
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+5
+4-c
+NjN-14-V-0382-25
+Regjistrimi dhe pasqyrimi i të dhënave në sistemin e shërbimit të punësimit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+5
+4-d
+NjN-14-V-0383-25
+Promovimi i shërbimeve të punësimit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+5
+4-e
+NjN-14-V-0384-25
+Mbledhja e të dhënave nga tregu i punës
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+5
+4-f
+NjN-22-V-0130-24
+Komunikimi dhe etika profesionale
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+5
+4-g
+NjN-14-V-0385-25
+Ndërmjetësimi
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+5
+4-h
+NjN-14-V-0386-25
+Këshillimi dhe orientimi
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+5
+4-i
+NjN-14-V-0387-25
+Detyra administrative
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+5
+4-j
+NjN-23-V-0111-24
+Sipërmarrje dhe edukim karriere
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+5
+4-k
+NjN-14-V-0388-25
+Siguria në punë dhe mbrojtja e mjedisit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+5
+5
+K-T/1-IV-25
+Multimedia
+Program 4-vjeçar për nivelin teknik/menaxher i mesëm
+Teknik në multimedia
+3512
+I plotë
+4
+5-a
+NjN-19-IV-0393-25
+Planifikimi dhe organizimi i punës në multimedia
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-b
+NjN-19-IV-0394-25
+Pajisjet kompjuterike dhe komponentët
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-c
+NjN-19-IV-0395-25
+Bazat e rrjetit të komunikimit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-d
+NjN-19-IV-0396-25
+Bazat e programimit në web dhe sistemet e menaxhimit te përmbajtjes
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-e
+NjN-19-IV-0397-25
+Sistemet e operimit dhe programet aplikative
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-f
+NjN-19-IV-0398-25
+Konceptimi i projektit në multimedia
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-g
+NjN-19-IV-0399-25
+Dizajni grafik
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-h
+NjN-19-IV-0400-25
+Realizimi i animacioneve
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-i
+NjN-19-IV-0401-25
+Realizimi i fotove
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-j
+NjN-19-IV-0402-25
+Realizimi i videove
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-k
+NjN-19-IV-0403-25
+Realizimi i audiove
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-l
+NjN-19-IV-0404-25
+Media digjitale, tradicionale dhe përmbajtja
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-m
+NjN-19-IV-0405-25
+Produkti multimedial për prodhim dhe publikim
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-n
+NjN-19-IV-0406-25
+Përdorimi i IA për proceset e punës në multimedia
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-o
+NjN-19-IV-0407-25
+Politikat e sigurisë dhe të drejtat e autorit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-p
+NjN-23-IV-0005-24
+Sipërmarrje dhe edukim karriere
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-q
+NjN-22-IV-0006-24
+Komunikimi dhe etika profesionale
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+5-r
+NjN-19-IV-0408-25
+Sigurimi teknik dhe mbrojtja e mjedisit në multimedia
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6
+K-T/2-IV-25
+Zhvillim website
+Program 4-vjeçar për nivelin teknik/menaxher i mesëm
+Zhvillues website (i mesëm)
+3514
+I plotë
+4
+6-a
+NjN-19-IV-0422-25
+Planifikimi dhe organizimi i punës për zhvillim website
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-b
+NjN-19-IV-0423-25
+Bazat e TIK për zhvillim website
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-c
+NjN-19-IV-0414-25
+Bazat e rrjeteve të komunikimit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-d
+NjN-19-IV-0424-25
+Sistemet e shfrytëzimit dhe sistemet e menaxhimit të përmbajtjes (CMS)
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-e
+NjN-19-IV-0425-25
+Bazat e programimit dhe algoritmikë
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-f
+NjN-19-IV-0426-25
+Analizimi i kërkesave të klientit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-g
+NjN-19-IV-0427-25
+Ndërtimi i prototipit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-h
+NjN-19-IV-0428-25
+Programimi në front end
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-i
+NjN-19-IV-0429-25
+Programimi në back end
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-j
+NjN-19-IV-0430-25
+Testimi i programit/website-it
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-k
+NjN-19-IV-0431-25
+Përdorimi i Inteligjencës Artificiale
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-l
+NjN-19-IV-0418-25
+Siguria kibernetike
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-m
+NjN-23-IV-0005-24
+Sipërmarrje dhe edukim karriere
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-n
+NjN-22-IV-0006-24
+Komunikimi dhe etika profesionale
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+6-o
+NjN-19-IV-0421-25
+Rregullat e sigurisë në punë dhe mbrojtja e mjedisit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7
+K-T/3-IV-25
+Programim
+Program 4-vjeçar për nivelin teknik/menaxher i mesëm
+Programues
+(i mesëm)
+2514.03
+I plotë
+4
+7-a
+NjN-19-IV-0409-25
+Planifikimi dhe organizimi i punës në programim
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-b
+NjN-19-IV-0410-25
+Analiza e zhvillimit të software-ve
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-c
+NjN-19-IV-0411-25
+Bazat e TIK-ut
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-d
+NjN-19-IV-0412-25
+Bazat e programimit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-e
+NjN-19-IV-0413-25
+Algoritmika dhe struktura e të dhënave
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-f
+NjN-19-IV-0414-25
+Bazat e rrjeteve të komunikimit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-g
+NjN-19-IV-0415-25
+Zhvillimi i Front end
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-h
+NjN-19-IV-0416-25
+Zhvillimi i back end
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-i
+NjN-19-IV-0417-25
+Menaxhimi i hapësirave hostuese
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-j
+NjN-19-IV-0418-25
+Siguria kibernetike
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-k
+NjN-19-IV-0419-25
+Testimi i aplikacioneve/sistemeve
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-l
+NjN-19-IV-0420-25
+Zhvillimi i sistemeve të thjeshtë IA
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-m
+NjN-23-IV-0005-24
+Sipërmarrje dhe edukim karriere
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-n
+NjN-22-IV-0006-24
+Komunikimi dhe etika profesionale
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+7-o
+NjN-19-IV-0421-25
+Rregullat e sigurisë në punë dhe mbrojtjes së mjedisit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+8
+K-X-IV-25
+Kërkim, shpim dhe shfrytëzim për naftë, gaz dhe ujë
+Programe 1 vit studimi për teknik/menaxher mesëm
+Teknik të shpim- shfrytëzimit të vendburimeve të naftës, gazit dhe ujit
+3135
+I plotë
+4
+8-a
+NjN-21-IV-0389-25
+Planifikimi, organizimi dhe koordinimi i punës në kërkim, shpim dhe shfrytëzim për naftë, gaz dhe ujë
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+8-b
+NjN-21-IV-0390-25
+Mbikëqyrja e proceseve teknologjikë (shpimit dhe shfrytëzimit të puseve të naftës, gazit dhe ujit)
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+8-c
+NjN-21-IV-0391-25
+Mbikëqyrja e cilësisë së punimeve
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+8-d
+NjN-23-IV-0005-24
+Sipërmarrje dhe edukim karriere
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+8-e
+NjN-22-IV-0006-24
+Komunikimi dhe etika profesionale
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
+8-f
+NjN-21-IV-0392-25
+Mbikëqyrja e rregullave të sigurisë në punë dhe mbrojtjes së mjedisit në kërkim, shpim dhe shfrytëzim të puseve të naftës , gazit dhe ujit
+Kualifikim i të nxënit gjatë gjithë jetës
+I pjesshëm
+4
