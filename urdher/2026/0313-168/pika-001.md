@@ -1,0 +1,1 @@
+1. Z. Alqi Kushi, drejtor i përgjithshëm i Drejtorisë së Inovacionit dhe Teknologjisë, që në mungesë dhe me porosi, të zëvendësojë për nënshkrimin e korrespodencave të përditshme shkresore, që janë kompetencë e Sekretarit të Përgjithshëm të Ministrisë së Ekonomisë dhe Inovacionit.

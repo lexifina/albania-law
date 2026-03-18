@@ -1,0 +1,1 @@
+3. Gjatë periudhës së zëvendësimit të nënshkruajë elektronikisht, në emër dhe për llogari të Sekretarit të Përgjithshëm të Ministrisë Ekonomisë dhe Inovacionit, në sistemin AFMIS dhe miratimin në sistemin SIFQ.
