@@ -1,0 +1,1 @@
+8. Ngarkohen të gjitha institucionet e varësisë së Ministrisë së Punëve të Brendshme, qendrore dhe vendore, të caktojnë një person përgjegjës, si pikë kontakti për të shkëmbyer çdo njoftim për ecurinë dhe ndjekjen e proceseve gjyqësore.

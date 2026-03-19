@@ -1,0 +1,1 @@
+6. Përfaqësuesit e autorizuar të ndjekin me korrektësi seancat gjyqësore, për sa i takon pjesëmarrjes së tyre e, veçanërisht, kontributit provues, paraqitjes së kërkesave, prapësimeve, pretendimeve, ankimeve, rekurseve, si dhe dokumenteve të tjera, që do të ndihmonin mbrojtjen e përpiktë të interesave të institucionit të Ministrisë së Punëve të Brendshme.

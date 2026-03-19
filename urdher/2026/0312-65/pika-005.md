@@ -1,0 +1,1 @@
+5. Përfaqësimi ligjor i Ministrisë së Punëve të Brendshme në proceset gjyqësore, sipas këtij urdhri, i jep të drejtë përfaqësuesit të autorizuar të kryejë çdo veprim procedural, të parashikuar nga legjislacioni në fuqi, në kuadër të përfaqësimit në shkallën përkatëse të gjykimit, si dhe të drejtën për të hartuar, dorëzuar dhe nënshkruar kërkesëpadi.

@@ -1,0 +1,1 @@
+4. Përfaqësimi për çdo proces gjyqësor bëhet nga juristë dhe specialistë të fushës, sipas objektit të kërkesëpadisë, nëpërmjet autorizimit të lëshuar nga autoritetet e përcaktuara në pikat 1 dhe 2 të këtij urdhri.
