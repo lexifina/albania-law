@@ -1,3 +1,0 @@
-3.
-Burgas
-Aitos*
