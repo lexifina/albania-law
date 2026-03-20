@@ -1,0 +1,1 @@
+3. Subjektet dhe institucionet e përcaktuara në shkronjat “d”, “dh” dhe “e”, të pikës 2, të nenit 21/2, të ligjit nr.8450, datë 24.2.1999, të ndryshuar, detyrohen që, brenda datës 24.3.2026, të njoftojnë pranë ministrit përgjegjës për ekonominë përfaqësuesit e tyre në përbërje të këtij bordi.

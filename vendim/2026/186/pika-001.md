@@ -1,0 +1,1 @@
+1. Shpalljen e situatës së veçantë në tregun e hidrokarbureve në territorin e Republikës së Shqipërisë, sipas nenit 21/1, të ligjit nr.8450, datë 24.2.1999, “Për përpunimin, transportimin dhe tregtimin e naftës, të gazit dhe nënprodukteve të tyre”, të ndryshuar, nga data e hyrjes në fuqi të këtij vendimi deri në një vendimmarrje të dytë nga ana e Këshillit të Ministrave.

@@ -1,0 +1,1 @@
+4. Çmimet, që përcaktohen nga Bordi gjatë situatës së veçantë, janë të detyrueshme për të gjitha subjektet që ushtrojnë veprimtari në fushën e tregtimit të nënprodukteve të naftës dhe të gazit në vend, sipas përcaktimeve të legjislacionit në fuqi.
