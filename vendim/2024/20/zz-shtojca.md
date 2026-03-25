@@ -956,3 +956,106 @@ Violeta Muhamet Zeraj
 Robert Izet Zeraj
 Vlera totale shtesë e shpronësimit
 18,810,655.22
+LISTA EMËRORE E PRONARËVE TË PASURIVE TË PALUAJTSHME PRONË PRIVATE QË SHPRONËSOHEN PËR INTERES PUBLIK, NGA REALIZIMI I PROJEKTIT “LIDHJA E RRUGËS TRANSBALLKANIKE ME PORTIN DETAR VLORË”
+NR
+Pronari
+ZK
+Nr. pasurisë
+Lloji i pasurisë
+Volum
+Faqe
+Truall m²
+Ndërtesë m²
+Adresa
+Sipërfaqe trualli për shpronësim
+Çmimi i truallit lekë/m²
+Vlera e truallit lekë
+Siperfaqe ndërtimi për shpronësim
+Çmimi i ndërtimit lekë/m²
+Vlera e ndërtimit lekë
+Vlera e truallit dhe ndërtesës
+Shënime
+56
+Arben
+Ramadan
+Mamanaj
+8604
+32/134+1-13
+Apartament
+74
+39
+18
+Vlore
+-
+18
+52,296.00
+941,328.00
+941,328.00
+Konfirmuar nga ASHK-ja. Pasuria e llojit apartament. Kartela është e vlefshme vetëm për shpronësim.
+Emiljana
+Ramadan
+Xhaferaj
+Marinela
+Ramadan
+Mamanaj
+Gentjan
+Ramadan
+Mamanaj
+57
+Fatmir
+Remzi
+Idrizi
+8604
+32/33+1-7
+Apartament
+74
+48
+47.5
+44
+Vlore
+47.50
+6,899.00
+327,702.50
+44
+52,296.00
+2,301,024.00
+2,628,726.50
+Konfirmuar nga ASHK-ja.
+Te seksioni E - për këtë apartament është privatizuar edhe sipërfaqja e truallit prej 47.5 m2. Lëshohet për efekt shpronësimi.
+Vjollca
+Brahim
+Idrizi
+Lumturi
+Dine
+Sheme
+Remzi
+Berati
+Dylbere
+Remzi
+Sako
+Suzana
+Remzi
+Idrizi
+Feta
+Remzi
+Idrizi
+Armida
+Sezai
+Sinani
+Luçjana
+Sezai
+Rubino
+Gentjan
+Sezai
+Sinani
+Shpendi
+Sezai
+Sinani
+Lira
+Remzi
+Idrizi
+Astrit
+Ali
+Avdulla
+Vlera totale shtesë e shpronësimit
+3,570,054.50
