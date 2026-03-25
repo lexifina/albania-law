@@ -1,1 +1,1 @@
-8. Agjencia, gjatë ushtrimit të detyrave të përcaktuara në shkronjat “g”, “gj”, “h” dhe “i”, të pikës 7, të këtij kreu, u ofron të tretëve të përfshirë në aktivitete , si: studentëve, studiuesve, artistëve, kuratorëve, gazetarëve dhe aktivistëve të shoqërisë civile shfrytëzimin pa kundërshpërblim apo tarifë të mjediseve të saj në funksion të këtyre aktiviteteve të përkohshme.
+8. Shfuqizuar.
