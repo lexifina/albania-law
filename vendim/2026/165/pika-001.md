@@ -1,0 +1,1 @@
+1. Autorizimin e ministrit të Infrastrukturës dhe Energjisë për nënshkrimin e marrëveshjes së bashkëpunimit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komunitetit Mysliman të Shqipërisë, për rindërtimin e xhamisë në qytetin e Shijakut, sipas tekstit, që i bashkëlidhet këtij vendimi.
