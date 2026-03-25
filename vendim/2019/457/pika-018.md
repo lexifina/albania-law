@@ -1,6 +1,6 @@
 18. Punonjësit e DPPI-së i kryejnë pa pagesë trajnimet pranë Qendrës.
 18/1. Masa e shpërblimit të lektorëve, për të cilët lidhet kontratë ndërmjet Drejtorisë së Përgjithshme të Pronësisë Industriale dhe lektorëve, të jetë, si më poshtë vijon:
-a) 500 lekë/orë 60-minutëshe trajnimi, për kontratat me lektorët, të cilët do të përmbushin kriteret e mëposhtme:
+a) 1 500 (një mijë e pesëqind) lekë/orë 60-minutëshe trajnimi, për kontratat me lektorët, të cilët do të përmbushin kriteret e mëposhtme:
 i. të zotërojnë një diplomë “Master i shkencave” apo të barasvlershme me të, sipas legjislacionit të arsimit të lartë;
 ii. të zotërojnë kualifikimin e nevojshëm në përputhje me modulin apo kurrikulën për të cilën do të angazhohen si trajner, të vërtetuar me dëshmi, diploma, për eksperiencën profesionale;
 iii. të kenë jo më pak se 5 (pesë) vjet përvojë pune në fushën e pronësisë industriale;
