@@ -1,0 +1,11 @@
+9. “Matrica e vlerësimit të riskut”, një mjet analitik që përdoret për të vlerësuar dhe kategorizuar nivelet e riskut për subjektet e inspektimit, duke kombinuar gjasat e papërputhshmërisë me efektet e mundshme që ato mund të shkaktojnë. Matrica është një mjet që lejon një përmbledhje të qartë dhe vizuale të rrezikut që ndihmon në programimin e veprimtarisë inspektuese.
+III. rregullat e përgjithshme bazë të Programimit të inspektimit
+1. Veprimtaria inspektuese e inspektorateve qendrore dhe vendore bazohet në programin vjetor dhe mujor të inspektimit. Programi i inspektimeve është mjeti që përdor inspektorati qendror dhe vendor për planifikimin e inspektimeve në subjektet, që ushtrojnë veprimtarinë në fushën përkatëse të inspektimit.
+2. Inspektoratet qendrore dhe vendore hartojnë program vjetor dhe mujor të inspektimit.
+3. Programi vjetor i inspektimit të inspektorateve qendrore është plani i detajuar mbi bazë tematike, mbështetur në metodologjitë e vlerësimit të riskut, si dhe prioritetet dhe politikat e fushës përkatëse të inspektimit, mbështetur në politikat e ministrisë përgjegjëse.
+4. Programi mujor i inspektimit i inspektoratit qendror është i detajuar me subjekte inspektimi, i mbështetur në metodologjitë e vlerësimit të riskut dhe në detyrimin ligjor për inspektimin periodik të subjekteve të inspektimit.
+5. Programi vjetor i inspektimit të inspektoratit qendror hartohet nga inspektorati qendror dhe, pas dhënies së mendimit këshillimor nga Inspektori i Përgjithshëm, miratohet nga ministri përgjegjës.
+6. Inspektorati i Përgjithshëm miraton programin mujor të inspektimit, të hartuar nga inspektorati qendror ose strukturat e tjera inspektuese.
+7. Programi vjetor i inspektimit të inspektoratit vendor hartohet nga inspektorati vendor dhe miratohet nga kryetari i bashkisë, pas dhënies së mendimit këshillimor nga Inspektorati i Përgjithshëm.
+8. Programi mujor i inspektimit për çdo inspektorat vendor hartohet nga inspektoratet përkatëse vendore dhe i dërgohet për mendim Inspektoratit të Përgjithshëm.
+9. Inspektorati i Përgjithshëm mbikëqyr zbatimin e programeve vjetore dhe mujore pas miratimit të tyre sipas kërkesave ligjore. Këto programe mbikëqyren edhe nga ministri përgjegjës.

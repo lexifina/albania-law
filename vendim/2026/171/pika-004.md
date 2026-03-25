@@ -1,0 +1,1 @@
+4. “Gjasat për papërputhshmëri”, niveli i pritshëm i rrezikut që një subjekt, sektor apo veprimtari mund të paraqesë në drejtim të mosrespektimit të kërkesave ligjore dhe rregullatore. Vlerësimi i këtyre gjasave ndihmon në përcaktimin e prioriteteve në programimin mbi bazë risku të inspektimit.

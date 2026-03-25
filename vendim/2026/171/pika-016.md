@@ -1,0 +1,1 @@
+16. Numri i përgjithshëm i inspektimeve të planifikuara në programin vjetor përbën bazën për hartimin e programeve mujore të inspektimit dhe duhet të sigurojë prioritet për subjektet me risk të lartë.

@@ -1,0 +1,1 @@
+12. Numri i inspektimeve të kryera jashtë programit nuk duhet të kalojë masën 25% të numrit të inspektimeve, të përcaktuar në programin vjetor të inspektimit, me synim uljen e kësaj mase nga viti në vit. Në rastet kur rrethanat kërkojnë tejkalimin e këtij numri, merret miratimi i Inspektorit të Përgjithshëm.

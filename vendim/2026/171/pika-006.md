@@ -1,0 +1,1 @@
+6. “Faktor risku”, një element, rrethanë ose karakteristikë që ndikon në nivelin e rrezikut për papërputhshmëri me legjislacionin, rregulloret apo standardet në fuqi. Faktorët përdoren për të vlerësuar probabilitetin dhe ndikimin e papërputhshmërisë për të përcaktuar prioritetet e programimit të inspektimit.

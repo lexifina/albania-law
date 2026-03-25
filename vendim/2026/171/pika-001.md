@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim krijimin e kuadrit rregullator të përgjithshëm për programimin e inspektimeve, metodologjinë e vlerësimit të riskut në veprimtarinë inspektuese, përcaktimin e periudhës maksimale të lejuar të inspektimeve vjetore për çdo kategori të subjekteve të inspektimit.

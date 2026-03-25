@@ -1,0 +1,1 @@
+7. “Sistem pikëzimi”, shumatore e përgjithshme e vlerës së treguesve për secilin faktor risku, për të matur dhe kategorizuar nivelin e riskut të subjektit të inspektimit, si një vlerësim kompleks që përfshin shumë faktorë dhe ndryshon në bazë prioritetesh dhe objektivash sektorialë.
