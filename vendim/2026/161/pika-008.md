@@ -1,0 +1,1 @@
+8. Vendimi nr. 435, datë 25.6.2004, i Këshillit të Ministrave, “Për kriteret dhe masën e kompensimit të ushtarakut të Forcave të Armatosura të Republikës së Shqipërisë, kur emërohet ose komandohet në detyrë jashtë vendbanimit të tij”, shfuqizohet.

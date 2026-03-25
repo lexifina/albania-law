@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është përcaktimi i kritereve dhe i masës së kompensimit të ushtarakut të Forcave të Armatosura të Republikës së Shqipërisë, kur emërohet ose komandohet në detyrë jashtë vendbanimit të tij.

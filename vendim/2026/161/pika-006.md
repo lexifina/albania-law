@@ -1,0 +1,1 @@
+6. Me qëllim përfitimin e kompensimit të transportit sipas këtij vendimi, ushtaraku aktiv paraqet, çdo vit, dokumentacionin e përcaktuar në pikën 4 të këtij vendimi, pranë strukturës ushtarake, ku është emëruar ose komanduar.

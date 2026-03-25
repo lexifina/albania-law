@@ -1,0 +1,1 @@
+7. Ushtaraku i Forcave të Armatosura, që emërohet me detyrë jashtë vendbanimit të tij dhe në të njëjtën kohë transferon edhe familjen, përfiton transport falas për familjen dhe materialet e shtëpisë me mjetet e Ministrisë së Mbrojtjes.
