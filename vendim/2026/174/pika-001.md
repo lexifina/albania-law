@@ -1,0 +1,1 @@
+1. Ky vendim përcakton kriteret, procedurat, periodicitetin dhe metodologjinë e vlerësimit të përmbushjes së kushteve dhe të kritereve të funksionimit të instituteve dhe njësive të veçanta të kërkimit shkencor, të cilat financohen nga fonde publike, si dhe llojet e masave në rast të mospërmbushjes së kushteve dhe të kritereve të funksionimit.

@@ -1,0 +1,1 @@
+2. Ky vendim zbatohet për të gjitha institutet dhe njësitë e veçanta të kërkimit shkencor, që janë krijuar në bazë të ligjit nr. 109/2024, “Për shkencën dhe kërkimin shkencor në Republikën e Shqipërisë”, dhe që financohen plotësisht ose pjesërisht nga fonde publike apo sipas një marrëveshjeje të posaçme financimi.
