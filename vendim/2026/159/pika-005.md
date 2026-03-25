@@ -1,0 +1,1 @@
+5. Të dhënat e mbledhura nga Regjistri për Ekzekutimin dhe Vjeljen e Gjobave mund të përdoren për analiza dhe vlerësime. Në çdo rast, përpunimi i të dhënave realizohet në përputhje me parimet e kriteret e legjislacionit në fuqi për mbrojtjen e të dhënave personale.

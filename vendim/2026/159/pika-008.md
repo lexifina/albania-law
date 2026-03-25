@@ -1,0 +1,1 @@
+8. Për çdo veprim në Regjistrin për Ekzekutimin dhe Vjeljen e Gjobave lidhur me aksesin, ndryshimin, korrigjimin, përhapjen e të dhënave personale, duhet të sigurohet gjurmueshmëria, me qëllim garantimin e konfidencialitetit e të integritetit, disponueshmërinë dhe qëndrueshmërinë e sistemeve dhe të shërbimeve të përpunimit.
