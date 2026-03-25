@@ -1,0 +1,1 @@
+6. Institucioni administrues i bazës së të dhënave siguron përpunimin e të dhënave personale, në përputhje me legjislacionin në fuqi për mbrojtjen e të dhënave personale. Institucioni administrues mbledh vetëm të dhënat personale të domosdoshme për realizimin e qëllimit të bazës së të dhënave dhe provimeve.

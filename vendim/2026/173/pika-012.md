@@ -1,0 +1,2 @@
+12. Ngarkohen Ministria e Arsimit, ministritë sipas fushës së përgjegjësisë për profesionet e rregulluara, Qendra e Shërbimeve Arsimore, Agjencia Kombëtare e Arsimit Parauniversitar, Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar, drejtoritë rajonale të arsimit parauniversitar, zyrat vendore të arsimit parauniversitar, autoritetet kompetente të profesioneve të rregulluara dhe urdhrat profesionalë për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
