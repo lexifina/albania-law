@@ -1,1 +1,0 @@
-1. Ushtarakut të Forcava të Armatosura, që, për nevoja shërbimi, emërohet me detyrë jashtë vendbanimit të tij të përhershëm dhe, në të njëjtën kohë, transferon edhe familjen, Ministria e Mbrojtjes i siguron transportin falas të familjes dhe të orendive shtëpiake, me mjetet e saj.

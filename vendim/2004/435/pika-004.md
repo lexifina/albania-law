@@ -1,1 +1,0 @@
-4. Për vajtjen dhe kthimin nga familja, ushtarakut të komanduar i paguhen shpenzimet e udhëtimit, për një herë në javë, sipas dokumenteve të paraqitura, por në vlerë jo më të madhe se çmimet e miratuara për linjën përkatëse të autobusit.
