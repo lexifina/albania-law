@@ -1,0 +1,1 @@
+1. Krijimin, organizimin dhe funksionimin e Qendrës për Hapje dhe Dialog, “COD” (shkurtesa e emrit në anglisht “Center for Openness and Dialogue”), si një institucion juridik publik, në varësi të Kryeministrit, me seli në Tiranë.
