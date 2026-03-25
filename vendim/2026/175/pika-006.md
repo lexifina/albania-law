@@ -1,0 +1,1 @@
+6. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përballohen nga fondet grant të miratuara në buxhetin e shtetit për institutet dhe njësitë e veçanta të kërkimit shkencor publik, fondet publike për kërkimin shkencor, si dhe nga të ardhurat e krijuara nga veprimtaria e tyre.

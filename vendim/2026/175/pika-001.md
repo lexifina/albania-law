@@ -1,0 +1,1 @@
+1. Në fushën e veprimit të këtij vendimi përfshihen punonjësit kërkimorë-shkencorë dhe punonjësit ndihmësteknikë dhe administrativë të instituteve dhe të njësive të veçanta të kërkimit shkencor publik.
