@@ -1,0 +1,1 @@
+25. Zona nr. 25, fshati Veleshnjë, pjesë e Njësisë Administrative Velabisht, Bashkia Berat, qarku Berat, me sipërfaqe 12.66 (dymbëdhjetë pikë gjashtëdhjetë e gjashtë) ha, sipas hartës në sistemin KRGJSH;

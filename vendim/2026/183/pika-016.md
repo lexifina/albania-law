@@ -1,0 +1,1 @@
+16. Zona nr. 16, fshati Qereshnik, pjesë e Njësisë Administrative Otllak, Bashkia Berat, qarku Berat, me sipërfaqe 74.97 (shtatëdhjetë e katër pikë nëntëdhjetë e shtatë) ha, sipas hartës në sistemin KRGJSH;

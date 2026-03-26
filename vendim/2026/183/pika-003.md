@@ -1,0 +1,1 @@
+3. Zona nr. 3, fshati Balibardhë, pjesë e Njësisë Administrative Otllak, Bashkia Berat, qarku Berat, me sipërfaqe 91.84 (nëntëdhjetë e një pikë tetëdhjetë e katër) ha, sipas hartës në sistemin KRGJSH;

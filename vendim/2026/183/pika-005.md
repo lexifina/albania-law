@@ -1,0 +1,1 @@
+5. Zona nr. 5, fshati Bilçë, pjesë e Njësisë Administrative Velabisht, Bashkia Berat, qarku Berat, me sipërfaqe 299.06 (dyqind e nëntëdhjetë e nëntë pikë zero gjashtë) ha, sipas hartës në sistemin KRGJSH;
