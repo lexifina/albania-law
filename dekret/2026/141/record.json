@@ -1,0 +1,26 @@
+{
+  "qbz_id": 64778,
+  "title": "Për dhënie dekorate",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "141",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2026-03-13",
+  "published": "2026-03-26",
+  "in_force": "2026-03-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ad2f09dba723bc3b2b4a41cbe07383cf83ce908ca13fe59971a420d3c9e0f461.docx",
+  "source_sha256": "ad2f09dba723bc3b2b4a41cbe07383cf83ce908ca13fe59971a420d3c9e0f461",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64778",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2026/03/13/141",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
