@@ -1,0 +1,6 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” të disa zonave në territorin e Bashkisë Dimal të zonave, si vijon:
+a) Zona nr. 1, fshatrat Malas Breg, Agim, Syzez, pjesë të njësive administrative Kutalli dhe Poshnjë, Bashkia Dimal, qarku Berat, me sipërfaqe 159.92 (njëqind e pesëdhjetë e nëntë pikë nëntëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshati Konisbaltë, pjesë e Njësisë Administrative Ura Vajgurore, Bashkia Dimal, qarku Berat, me sipërfaqe 285.61 (dyqind e tetëdhjetë e pesë pikë gjashtëdhjetë e një) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr. 3, fshatrat Poshnjë, Pashalli, Vokopolë, Skrevan, Bistrovicë, pjesë e njësive administrative Poshnjë dhe Ura Vajgurore, Bashkia Dimal, qarku Berat, me sipërfaqe 1369.34 (një mijë e treqind e gjashtëdhjetë e nëntë pikë tridhjetë e katër) ha, sipas hartës në sistemin KRGJSH;
+ç) Zona nr. 4, fshati Vokopolë, pjesë e Njësisë Administrative Ura Vajgurore, Bashkia Dimal, qarku Berat, me sipërfaqe 0.32 (zero pikë tridhjetë e dy) ha, sipas hartës në sistemin KRGJSH;
+d) Zona nr. 5, fshati Vokopolë, pjesë e Njësisë Administrative Ura Vajgurore, Bashkia Dimal, qarku Berat, me sipërfaqe 0.71 (zero pikë shtatëdhjetë e një) ha, sipas hartës në sistemin KRGJSH.
