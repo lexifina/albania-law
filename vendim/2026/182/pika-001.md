@@ -1,0 +1,4 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” të disa zonave në territorin e Bashkisë Durrës, si më poshtë vijon:
+a) Zona nr. 1, fshatrat Gjuricaj, Kapidanaj, Kërtushaj, Likmetaj, Kuraten, Lalëz, Bizë, Draç, Shetaj, pjesë e Njësisë Administrative Ishëm, Bashkia Durrës, qarku Durrës, me sipërfaqe 8 217 (tetë mijë e dyqind e shtatëmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshatrat Armath, Borç, Kameras, Radë, Shkallë, fshat Manzë, pjesë e Njësisë Administrative Manzë, Bashkia Durrës, qarku Durrës, me sipërfaqe 3 881 (tre mijë e tetëqind e tetëdhjetë e një) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr. 3, fshatrat Romanat, Bozanxhije, Manskuri, pjesë e Njësisë Administrative Rrashbull, Bashkia Durrës, qarku Durrës, me sipërfaqe 2 612 (dy mijë e gjashtëqind e dymbëdhjetë) ha, sipas hartës në sistemin KRGJSH.
