@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të Sekretarit të Përgjithshëm në Ministrinë e Mbrojtjes, zonjës Florenca Korbi, me detyrë drejtor i Drejtorisë së Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse në Ministrinë e Mbrojtjes.
