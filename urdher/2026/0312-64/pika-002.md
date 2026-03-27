@@ -1,0 +1,1 @@
+2. Kryetari i Komisionit të Posaçëm Ndërinstitucional do të ushtrojë funksionin në përputhje me detyrat e përcaktuara në vendimin e Këshillit të Ministrave nr. 772, datë 19.12.2025, “Për miratimin e procedurave standarde të veprimit, për mbrojtjen e viktimave dhe viktimave të mundshme të trafikimit”.
