@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor për Ministrinë e Mbrojtjes, znj. Florenca Korbi, me detyrë drejtor i Drejtorisë së Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse, e cila sipas urdhrit nr. 526, datë 19.3.2026, ushtron funksionin e Sekretarit të Përgjithshëm në Ministrinë e Mbrojtjes.
