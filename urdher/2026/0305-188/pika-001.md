@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Shëndetësisë dhe Mirëqenies Sociale, për periudhën nga datat 9-10 mars dhe nga datat 17-18 mars, te znj. Eugena Tomini, zëvendësministër i Shëndetësisë dhe Mirëqenies Sociale.
