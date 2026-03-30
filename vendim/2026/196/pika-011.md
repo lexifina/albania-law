@@ -1,0 +1,1 @@
+11. Mandati i anëtarit të komisionit të vlerësimit fillon me aktin e emërimit dhe përfundon me përfundimin e plotë të procedurës së vlerësimit për thirrjen publike përkatëse, përfshirë miratimin e listës përfundimtare të projekteve të përzgjedhura për financim.

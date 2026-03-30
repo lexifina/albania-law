@@ -1,0 +1,1 @@
+7. Anëtari, ekspert i komisionit të vlerësimit, i parashikuar në shkronjat “a”, nënndarja “iii”, dhe “b”, nënndarja “iii”, të pikës 1, të këtij kreu, përzgjidhet mbi bazën e një procesi të hapur konkurrimi.

@@ -1,0 +1,1 @@
+8. AKR-ja harton termat e referencës dhe shpall thirrjen e konkurrimit për ekspertët, brenda 7 (shtatë) ditëve kalendarike nga shpallja e thirrjes publike për mbështetje përmes fondeve grant të buxhetit të shtetit, të dedikuara për rininë. Thirrja publikohet në faqen e internetit të institucionit dhe qëndron e hapur për të paktën 10 (dhjetë) ditë.

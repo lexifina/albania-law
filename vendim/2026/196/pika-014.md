@@ -1,0 +1,1 @@
+14. Pozicioni i anëtarit të komisionit të vlerësimit, i mbetur vakant për shkak të rasteve të mbarimit të mandatit apo lirimit nga detyra e anëtarit, plotësohet brenda 5 (pesë) ditësh kalendarike nga krijimi i vakancës, sipas procedurës së ndjekur për emërimin e anëtarit të larguar.
