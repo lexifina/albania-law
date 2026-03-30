@@ -1,0 +1,1 @@
+1. Miratimin e rregullave specifike për transferimin ose dhënien me qira të të drejtave të përdorimit të frekuencave, sipas rregullores që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
