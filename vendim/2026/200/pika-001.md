@@ -1,0 +1,13 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” të disa zonave në territorin e Bashkisë Lezhë, si më poshtë vijon:
+a) Zona nr. 1, fshatrat Balldren, Mali-Rencit, Kodër Mulliri, qyteti Lezhë, pjesë të njësive administrative Balldren, Shëngjin dhe Lezhë, Bashkia Lezhë, qarku Lezhë, me sipërfaqe 1 199 (një mijë e njëqind e nëntëdhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshatrat Mali-Kakariq, Koljakaj, Torovicë dhe Zojs, pjesë të njësive administrative Balldren dhe Dajç, Bashkia Lezhë, qarku Lezhë, me sipërfaqe 2 082 (dy mijë e tetëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr. 3, fshatrat Mabë dhe Dragush, pjesë të Njësisë Administrative Dajç, Bashkia Lezhë, qarku Lezhë, me sipërfaqe 222 (dyqind e njëzet e dy) ha, sipas hartës në sistemin KRGJSH;
+ç) Zona nr. 4, fshati Dajç, pjesë e Njësisë Administrative Dajç, Bashkia Lezhë, qarku Lezhë, me sipërfaqe 89 (tetëdhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH;
+d) Zona nr. 5, fshati Kodhel, pjesë e Njësisë Administrative Blinisht, Bashkia Lezhë, qarku Lezhë, me sipërfaqe 119 (njëqind e nëntëmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+dh) Zona nr. 6, fshati Baqel, pjesë e Njësisë Administrative Blinisht, Bashkia Lezhë, qarku Lezhë, me sipërfaqe 85 (tetëdhjetë e pesë) ha, sipas hartës në sistemin KRGJSH;
+e) Zona nr. 7, fshati Baqel, pjesë e Njësisë Administrative Blinisht, Bashkia Lezhë, qarku Lezhë, me sipërfaqe 49 (dyzet e nëntë) ha, sipas hartës në sistemin KRGJSH;
+ë) Zona nr. 8, fshati Fishtë, pjesë e Njësisë Administrative Blinisht, Bashkia Lezhë, qarku Lezhë, me sipërfaqe 14 (katërmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+f) Zona nr. 9, fshatrat Krajnë, Fishtë, Troshan, Kallmet i Vogël, Kallmet i Madh, Mërqi, Rraboshtë, Velë, Gjash, Lalm, Lalm Lukaj, Kacinar, Grykë, Manati, Patalej, Tresh, Spiten, Pruell, Markatomaj, Zejmen dhe Pllanë, pjesë të njësive administrative Blinisht, Kallmet, Kolsh dhe Zejmen, Bashkia Lezhë, qarku Lezhë, me sipërfaqe 8 314 (tetë mijë e treqind e katërmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+g) Zona nr. 10, fshatrat Ungrej, Kashnjet, Gjobardhaj, Kalivaç, Ras-Butë, Zinaj, Fregen, Kaluer, Sukaxhi, pjesë të Njësisë Administrative Ungrej, Bashkia Lezhë, qarku Lezhë, me sipërfaqe 7 102 (shtatë mijë e njëqind e dy) ha, sipas hartës në sistemin KRGJSH;
+gj) Zona nr. 11, fshatrat Kolsh, Grykë dhe qyteti Lezhë, pjesë të njësive administrative Lezhë dhe Kolsh, Bashkia Lezhë, qarku Lezhë, me sipërfaqe 259 (dyqind e pesëdhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH;
+h) Zona nr. 12, fshati Berzane, pjesë e Njësisë Administrative Zejmen, Bashkia Lezhë, qarku Lezhë, me sipërfaqe 753 (shtatëqind e pesëdhjetë e tre) ha, sipas hartës në sistemin KRGJSH.
