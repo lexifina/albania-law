@@ -1,0 +1,4 @@
+# Neni 4
+Autoriteti organizues dhe rregullat e procedurës konkurruese
+1. Me anë të procedurës konkurruese bëhet përzgjedhja e subjektit/ve për dhënien e licencës për lejimin e organizimit të basteve sportive online, të cilat janë të kufizuara në numër në rang kombëtar, jo më shumë se 10 ( dhjetë), në të cilën ka të drejtë të konkurrojë çdo subjekt i interesuar që plotëson kriteret e parashikuara në nenin 22, të ligjit nr. 155/2015, dhe paraqet ofertën më të favorshme.
+2. Autoriteti i Mbikëqyrjes së Lojërave të Fatit (AMLF), Komisioni i Licencave i ngritur në bazë të nenit 17/1, të ligjit nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”, të ndryshuar dhe sekretariati teknik pranë tij organizojnë procedurat konkurruese dhe vlerësuese sipas detyrave përkatëse, të përcaktuara në ligj dhe në këtë vendim.
