@@ -1,0 +1,1 @@
+2. Z. Hantin Bonati të ndjekë dhe zbatojë kriteret dhe procedurat e përcaktuara në ligjin nr. 8561, datë 22.12.1999, “Për shpronësimet dhe marrjen në përdorim të përkohshëm të pasurisë private, për interes publik”, i ndryshuar, gjatë ushtrimit të fushës së përcaktuar në pikën 1 të këtij urdhri.

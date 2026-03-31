@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së ministrit të Infrastrukturës dhe Energjisë, për nënshkrimin e të gjitha akteve që lidhen me procedurat e likuidimit për individët dhe subjektet e shpronësuara, në përputhje me rregullat dhe procedurat e përcaktuara në legjislacionin në fuqi, zëvendësministrit të Infrastrukturës dhe Energjisë, z. Hantin Bonati.
