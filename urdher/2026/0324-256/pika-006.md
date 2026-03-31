@@ -1,0 +1,1 @@
+6. Titullarët e misioneve diplomatike dhe posteve konsullore të Republikës së Shqipërisë i raportojnë për veprimtarinë konsullore, në bazë ditore, drejtorit të drejtorisë që mbulon çështjet konsullore.

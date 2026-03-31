@@ -1,0 +1,1 @@
+5. Të gjitha njoftimet/publikimet e aktiviteteve/njoftimeve konsullore në faqet, apo llogaritë zyrtare të rrjeteve sociale të MEPJ-së, si dhe të misioneve diplomatike/posteve konsullore të RSH-së, bëhen me miratimin e Sekretarit të Përgjithshëm, me propozim të Drejtorisë së Çështjeve Konsullore, në bashkëpunim me kabinetin e ministrit.
