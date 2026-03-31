@@ -1,0 +1,1 @@
+7. Zëvendësministri autorizohet për nënshkrimin e akteve administrative, trajtimin, komunikimin dhe ndjekjen e procedurave zyrtare. Zëvendësministrat e ushtrojnë të drejtën e delegimit sipas fushave të përgjegjësisë të përcaktuara në këtë urdhër.

@@ -1,0 +1,1 @@
+6. Zëvendësministri për Infrastrukturën dhe Energjinë, raporton me shkrim te Ministri për Infrastrukturën dhe Energjinë, për zbatimin e detyrave të caktuara në këtë urdhër, sipas kërkesës së ministrit.

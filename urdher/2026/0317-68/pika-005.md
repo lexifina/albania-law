@@ -1,0 +1,1 @@
+5. Zëvendësministri për Infrastrukturën dhe Energjinë kërkon, sa herë që konsideron të nevojshme, informacion nga institucionet e varësisë, agjencitë autonome dhe drejtoritë në shërbim të Ministrisë së Infrastrukturës dhe Energjisë, mbi çështjet që janë përcaktuar në këtë urdhër, fushë e përgjegjësisë së tij.
