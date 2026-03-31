@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së ministrit të Infrastrukturës dhe Energjisë, për miratimin e organit të vlerësimit të konformitetit, në përputhje me parashikimet në ligjin nr. 10489, datë 15.12.2011, “Për tregtimin dhe mbikëqyrjen e tregut të produkteve joushqimore”, të ndryshuar, zëvendësministrit të Infrastrukturës dhe Energjisë, z. Erlind Sulo.

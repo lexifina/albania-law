@@ -1,0 +1,1 @@
+2. Në ushtrimin e kompetencës së deleguar, sipas pikës 1 të këtij urdhri, zëvendësministri i Infrastrukturës dhe Energjisë z. Erlind Sulo, ndjek dhe zbaton rregullat dhe procedurat në përputhje me legjislacionin në fuqi.
