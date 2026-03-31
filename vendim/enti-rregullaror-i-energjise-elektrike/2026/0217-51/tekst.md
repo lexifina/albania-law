@@ -1,0 +1,41 @@
+VENDIM
+
+Nr. 51, datë 17.2.2026
+
+MBI PËRFUNDIMIN E PROCEDURËS ADMINISTRATIVE TË NISUR ME VENDIMIN E BORDIT TË ERE-s NR. 34, DATË 4.2.2026, “MBI FILLIMIN E PROCEDURËS PËR HEQJEN E LICENCËS PËR VEPRIMTARINË E TREGTIMIT TË ENERGJISË ELEKTRIKE DHËNË SHOQËRISË ‘GERTI’ SHPK, ME VENDIMIN E BORDIT TË ERE-s NR. 54, DATË 22.2.2021”
+
+Në mbështetje të nenit 16 të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; neneve 95 dhe 113 të ligjit nr. 44/2015, “Kodi i Procedurave Administrative i Republikës së Shqipërisë”; neneve 7, 8 dhe 9 të rregullores “Për procedurat e heqjes së licencave në sektorin e energjisë elektrike dhe të gazit natyror, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 58, datë 18.4.2017; si dhe nenit 15 të rregullores “Për organizimin, funksionimin dhe procedurat e ERE-s, Bordi i ERE-s, në mbledhjen e tij të datës 17.2.2026, pasi shqyrtoi relacionin me nr. 453/1 prot., datë 13.2.2026, të përgatitur nga Drejtoria e Licencimit,  Autorizimeve dhe Garancisë së Origjinës, Drejtoria Juridike dhe Zgjidhjes së Mosmarrëveshjeve dhe Drejtoria e Ekonomisë dhe Financës, “Mbi përfundimin e procedurave administrative të nisura për heqjen e licencave të shoqërive, ‘Breçani R.O.S.P’ sh.p.k., ‘Gerti’ sh.p.k., ‘Mountain’s Green Energy’ sh.p.k. dhe ‘Tirana Energji’ sh.p.k.”,
+
+	konstatoi se: 
+
+	- Bordi i ERE-s, me vendimin nr. 34, datë 4.2.2026, ka vendosur të fillojë procedurën për heqjen e licencës nr. 484, seria T21, për veprimtarinë e tregtimit të energjisë elektrike, dhënë shoqërisë “Gerti” sh.p.k., me vendimin e Bordit të ERE-s nr. 54, datë 22.2.2021.
+
+	- Nga rakordimet/verifikimet në gjendjen e llogarisë bankare të ERE-s, rezulton se shoqëria e ka shlyer plotësisht debinë e saj brenda afatit 30-ditor të fillimit të procedurës për heqjen e licencës së saj.
+
+	- Në nenin 9, germa “a”, të rregullores “Për procedurat e heqjes së licencave në sektorin e energjisë elektrike dhe të gazit natyror”, parashikohet, se: “Me marrjen e informacionit të detajuar me të dhënat sipas nenit 7 dhe 8 të kësaj rregulloreje, Bordi do të vendosë për mbylljen e procedurës për heqjen e licencës”.
+
+	- Në nenin 95 të ligjit nr. 44/2015, “Kodi i Procedurave Administrative i Republikës së Shqipërisë”, parashikohet, se: “Organi publik deklaron të përfunduar procedurën administrative pa një vendim përfundimtar për çështjen, kur objekti për të cilin kishte nisur procedura apo qëllimi i tij është bërë i pamundur”.
+
+	- Qëllimi i procedurës administrative, në kuptim të kësaj dispozite, është bërë i pamundur, për shkak të ndryshimit të rrethanave të faktik, konkretisht shlyerjes së plotë të detyrimit financiar nga ana e shoqërisë “Gerti” sh.p.k. Vërtetimi i pagesës së prapambetur konfirmon se nuk ekzistojnë kushtet që çuan në nisjen e procedurës për heqjen e licencës, pasi objekti për të cilin është nisur kjo procedurë nuk ekziston më. 
+
+	- Në këto kushte, vlerësohet përfundimi i procedurës për heqjen e licencës dhe shfuqizimi i vendimit të Bordit të ERE-s nr. 34, datë 4.2.2026. Në nenin 113 të ligjit nr. 44/2015, “Kodi i Procedurave Administrative i Republikës së Shqipërisë”, është parashikuar mundësia e shfuqizimit të plotë, apo të pjesshëm të një akti, me nismën e vetë organit që e ka nxjerrë, duke përcaktuar dhe formën ligjore të këtij ndryshimi të aktit, e cila duhet të bëhet me një akt të ri me shkrim.
+
+	Për gjithë sa më sipër, Bordi i ERE-s
+
+	VENDOSI:
+
+	1. Të përfundojë procedurën administrative të nisur me vendimin e Bordit të ERE-s nr. 34, datë 4.2.2026, “Mbi fillimin e procedurës për heqjen e licencës nr. 484, seria T21, në veprimtarinë e tregtimit të energjisë elektrike, dhënë shoqërisë ‘Gerti’ sh.p.k. me vendimin e Bordit të ERE-s nr. 54, datë 22.2.2021”. 
+
+	2. Të shfuqizojë vendimin e bordit nr. 34, datë 4.2.2026. 
+
+	3. Drejtoria e Licencimit, Autorizimeve dhe Garancisë së Origjinës të njoftojë shoqërinë “Gerti” sh.p.k. për vendimin e Bordit të ERE-s.
+
+	Ky vendim hyn në fuqi menjëherë.
+
+	Çdo palë e përfshirë në këtë procedurë mund t’i kërkojë ERE-s, brenda 7 ditëve kalendarike nga data e marrjes dijeni të vendimit, rishikimin e vendimit të Bordit, në rast se ka siguruar prova të reja që mund ta çojnë Bordin në marrjen e një vendimi të ndryshëm nga i mëparshmi, apo për gabime materiale të konstatuara. Për këtë vendim mund të bëhet ankim në Gjykatën Administrative Tiranë, brenda 30 ditëve kalendarike nga dita e publikimit në Fletoren Zyrtare.
+
+	Ky vendim botohet në Fletoren Zyrtare.
+
+	KRYETAR
+
+	Petrit Ahmeti
