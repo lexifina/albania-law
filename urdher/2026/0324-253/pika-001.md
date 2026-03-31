@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së ministrit për Evropën dhe Punët e Jashtme Sekretarit të Përgjithshëm të Ministrisë për Evropën dhe Punët e Jashtme, për përfaqësimin ligjor të institucionit në proceset gjyqësore në të gjitha shkallët e gjykimit dhe në Gjykatën Kushtetuese.

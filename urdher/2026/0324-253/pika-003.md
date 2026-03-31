@@ -1,0 +1,1 @@
+3. Përfaqësuesi i autorizuar nga Sekretari i Përgjithshëm ka të drejtë të kryejë çdo veprim procedural të parashikuar nga legjislacioni në fuqi përpara gjykatave, prokurorisë, zyrave të përmbarimit gjyqësor, përveç rasteve kur kjo e drejtë kufizohet në aktin e autorizimit.

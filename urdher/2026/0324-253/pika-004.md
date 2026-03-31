@@ -1,0 +1,1 @@
+4. Të gjitha aktet e nënshkruara përpara hyrjes në fuqi të këtij urdhri dhe që janë nxjerrë në zbatim të urdhrit nr. 1091, datë 3.11.2025, “Për delegimin e kompetencës së përfaqësimit ligjor të Ministrisë për Evropën dhe Punët e Jashtme në proceset gjyqësore”, do të vazhdojnë të jenë të vlefshme deri në përfundimin e procesit gjyqësor përkatës.
