@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së ministrit të Infrastrukturës dhe Energjisë, për miratimin dhe nënshkrimin e autorizimeve në transportin ndërkombëtar të udhëtarëve dhe shkresat përcjellëse drejtuar ministrive homologe, palë në marrëveshje në fushën e transportit ndërkombëtar rrugor, zëvendësministrit të Infrastrukturës dhe Energjisë, z. Hantin Bonati.
