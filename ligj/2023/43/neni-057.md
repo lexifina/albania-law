@@ -6,3 +6,6 @@ Nxjerrja e akteve nënligjore
 Dispozita kalimtare
 (e ligjit nr. 100, datë 12.9.2024)
 Trajtimi i punonjësve ekzistues të ADISA-s do të bëhet në përputhje me parashikimet e legjislacionit që rregullon marrëdhënien e tyre të punës.
+Dispozita kalimtare
+(e ligjit nr. 25/2026, datë 20.2.2026)
+Procedurat e prokurimit të nisura përpara hyrjes në fuqi të këtij ligji do të vijojnë të realizohen sipas parashikimeve të ligjit në fuqi në momentin e fillimit/nisjes së tyre.
