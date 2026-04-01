@@ -1,6 +1,6 @@
 # Neni 32
 Emërimi, lirimi ose shkarkimi nga detyra i drejtorit të përgjithshëm
-1. Drejtori i përgjithshëm i AKSHI-t emërohet, lirohet ose shkarkohet nga detyra me urdhër të Kryeministrit. Drejtori i përgjithshëm i AKSHI-t duhet të plotësojë kriteret e mëposhtme:
+1. Drejtori i përgjithshëm i AKSHI-t emërohet, lirohet ose shkarkohet nga detyra me urdhër të Kryeministrit apo ministrit përgjegjës për qeverisjen elektronike. Drejtori i përgjithshëm i AKSHI-t duhet të plotësojë kriteret e mëposhtme:
 a) të jetë shtetas shqiptar;
 b) të ketë zotësi të plotë për të vepruar;
 c) të ketë diplomë të nivelit “Master shkencor” apo “Master profesional”, të përfituar në fund të studimeve të ciklit të dytë me 120 kredite dhe me kohëzgjatje normale 2 vjet akademikë ose të barasvlershme me to, sipas legjislacionit të arsimit të lartë në fushën e teknologjisë së informacionit;

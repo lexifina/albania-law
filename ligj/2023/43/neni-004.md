@@ -21,7 +21,7 @@ Në kuptim të këtij ligji, termat e mëposhtëm kanë këto kuptime:
 18. “Nënshkrimi elektronik” ka të njëjtin kuptim me atë të ligjit për identifikimin elektronik dhe shërbimet e besuara.
 19. “Nomadë digjitalë” janë shtetasit e huaj që punojnë në vende të ndryshme, jo në një zyrë apo seli të regjistruar dhe punojnë kryesisht në distancë ose në lëvizje, të cilët përfitojnë statusin dhe përfitimet e “punonjësit lëvizës digjital”, në përputhje me përcaktimet e legjislacionit në fuqi për të huajt apo kuadrit ligjor të posaçëm në Republikën e Shqipërisë.
 20. “Ofrimi i shërbimeve elektronike” nënkupton ofrimin e shërbimit në formën e dërgimit dhe marrjes së të dhënave përmes sistemeve TIK, me kërkesë individuale të përdoruesit, pa qenë i pranishëm fizikisht.
-21. “Organi i blerjes së përqendruar në fushën TIK” është autoriteti publik, i cili organizon, kryen prokurimet e qendërzuara dhe lidh kontratat për sistemet, pajisjet software dhe hardware, mirëmbajtjen, si dhe shërbimet e internetit dhe intranetit për të gjitha institucionet e administratës shtetërore, si dhe organizon prokurimin e përqendruar për pajisjet TIK sipas përcaktimeve të këtij ligji dhe legjislacionit të posaçëm.
+21. Shfuqizuar.
 22. “Përdorues” janë nëpunësit e autoriteteve publike, të cilët përdorin shërbime elektronike në kuadër të ushtrimit të kompetencave të tyre dhe shtetasi, personi fizik ose juridik që përdor shërbimet elektronike.
 23. “Përfitim i shërbimit elektronik publik” nënkupton përfitimin e shërbimit publik nga përdoruesi, i ofruar nëpërmjet sistemeve TIK.
 24. “Platforma qeveritare ’e-Albania’” është platforma qeveritare e ndërveprimit për ofrimin e shërbimeve elektronike (portali “e-Albania”).
@@ -53,3 +53,4 @@ d) niveli 5 nënkupton që ofruesi i shërbimit ndërmerr veprime me qëllim pë
 45. “Vulë elektronike” janë të dhënat në formë elektronike, të cilat janë bashkëngjitur ose të lidhura logjikisht me të dhëna të tjera elektronike për të siguruar origjinën dhe integritetin e këtyre të fundit.
 46. “Zhvillues i një sistemi në fushën TIK” është autoriteti publik/subjekti privat që ofron shërbime publike, i cili nëpërmjet përdorimit të teknologjisë ofron apo realizon zgjidhje teknike.
 47.“Riinxhinerim” është procesi që synon thjeshtëzimin e procedurave administrative të nevojshme për përfitimin e një shërbimi, të dokumentacionit përkatës apo të proceseve të tjera të lidhura me lëvrimin e shërbimit edhe nëpërmjet përdorimit të teknologjisë së informacionit.
+48. “Shoqëri operatore TIK” është shoqëri aksionere, ku shteti zotëron të paktën 51 për qind të aksioneve për zhvillimin, administrimin dhe mirëmbajtjen e sistemeve, platformave dhe infrastrukturave të ofrimit të shërbimeve elektronike.

@@ -15,4 +15,6 @@ g) zhvillon, administron dhe mirëmban sistemin “e-Rezidenca” për shtetasit
 gj) administron qendrën teknologjike Techspace si kontribues në hartimin e politikave dhe planeve të veprimit në fushën TIK;
 h) për pajisjet, sistemet në të cilat përpunohet informacion i klasifikuar “sekret shtetëror”, i NATO-s, BE-së, shteteve dhe organizatave të tjera ndërkombëtare, AKSHI ndjek dhe zbaton politikat dhe strategjitë e hartuara nga institucioni përgjegjës për sigurimin e informacionit të klasifikuar për këtë qëllim, i cili mbikëqyr zbatimin e legjislacionit në fuqi për informacionin e klasifikuar;
 i) administron kodin burim të çdo sistemi si përfaqësues i pronarit shtet që është Këshilli i Ministrave;
-j) nxjerr nga përdorimi një sistem dhe/ose një infrastrukturë hardware dhe/ose software sipas parashikimeve të legjislacionit në fuqi.
+j) nxjerr nga përdorimi një sistem dhe/ose një infrastrukturë hardware dhe/ose software sipas parashikimeve të legjislacionit në fuqi;
+k) ushtrimi i detyrave të parashikuara në shkronjat “c”, “d”, “dh”, “f” dhe “g” të këtij neni mund të realizohet nga AKSHI, drejtpërdrejt ose nëpërmjet shoqërive operatore TIK në përputhje me këtë ligj.
+Në çdo rast autoriteti rregullator, përgjegjësia institucionale, si dhe pronësia mbi sistemet, infrastrukturat, kodin burimor dhe të dhënat mbeten te shteti dhe administrohen nga AKSHI.
