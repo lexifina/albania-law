@@ -4,7 +4,7 @@ Nr. 193, datë 18.9.2024
 
 MBI LICENCIMIN E SHOQËRISË “HPG ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE 
 
-(Ndryshuar me vendimin nr. 196, datë 15.8.2025)
+(Ndryshuar me vendimin nr. 196, datë 15.8.2025; nr. 94, datë 2.4.2026)
 
 (i përditësuar)
 
@@ -40,9 +40,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “HPG Energy” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 2 mw, në Njësinë Administrative Topojë, Bashkia Fier, qarku Fier, për një afat 30-vjeçar.
 
-2. Shoqëria duhet të fillojë ushtrimin e aktivitetit të prodhimit të energjisë elektrike nga centrali fotovoltaik, jo më vonë se data 16.12.2025.
+2. Shfuqizuar.
 
-3. Brenda 60 (gjashtëdhjetë) ditëve nga fillimi i operimit, shoqëria duhet të dokumentojë në ERE testimin e veprës.
+3. Shfuqizuar.
 
 4. Ky vendim është objekt rishikimi në rast se depozitohet/konstatohet një dokumentacion i ndryshëm nga ai që ka shërbyer për këtë vendimmarrje. 
 
