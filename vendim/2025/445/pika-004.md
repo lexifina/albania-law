@@ -1,1 +1,1 @@
-4. Vlera e përgjithshme e shpronësimit, prej 815 696 300.40 (tetëqind e pesëmbëdhjetë milionë e gjashtëqind e nëntëdhjetë e gjashtë mijë e treqind pikë dyzet) lekësh, përballohet nga Autoriteti Portual Durrës.
+4. Vlera e përgjithshme e shpronësimit, prej 819 943 380.4 (tetëqind e nëntëmbëdhjetë milionë e nëntëqind e dyzet e tre mijë e treqind e tetëdhjetë pikë katër) lekësh, përballohet nga Autoriteti Portual Durrës.

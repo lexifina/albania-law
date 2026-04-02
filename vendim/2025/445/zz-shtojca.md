@@ -4226,4 +4226,279 @@ ARE
 16,620,000.00
 SHUMA TOTALE
 815,696,300.40
-Shënim: Me qëllim uljen e efekteve financiare me subjektet që kanë bërë kërkesë për shkëmbimin para hyrjes në fuqi të këtij vendimi, negociohet brenda 6 (gjashtë) muajve nga hyrja në fuqi e këtij vendimi.
+Shënim: Me qëllim uljen e efekteve financiare me subjektet që kanë bërë kërkesë për shkëmbimin para hyrjes në fuqi të këtij vendimi, negociohet brenda 6 (gjashtë) muajve nga hyrja në fuqi e aktit nënligjor për detajimin e metodologjisë së shkëmbimit në natyrë në zbatim të procedurës për shpronësim për realizimin e projektit të portit të ri tregtar të integruar të Durrësit në Porto-Romano.
+LISTA E PRONARËVE QË SHPRONËSOHEN PËR INTERES PUBLIK NGA KËRKESA “PËR DISA SHTESA DHE NDRYSHIME, NË VENDIMIN NR . 445, DATË 31.7.2025, “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONE PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT ’PËR ZBATIMIN E PROJEKTIT TË PORTIT TË RI TREGTAR TË INTEGRUAR TË DURRËSIT NË PORTO - ROMANO”
+(Shtesat dhe ndryshimet e tabelës së mësipërme të parashikuara në VKM nr. 223, datë 1.4.2026)
+P R O N A R I
+TË DHËNAT KADASTRALE (SIPAS KARTELËS SË PASURISË)
+V L E R Ë S I M E T P Ë R S H P R O N Ë S I M
+S H Ë N I M E (Kufizime hipotekore, barrë mbi pasurinë etj.)
+”ARË”
+”TRUALL”
+NDËRTESË SOCIAL-EKONOMIKE
+”PYLL”
+VLERA TOTALE (lekë)
+NR.
+Emri
+Atësia
+Mbiemri
+Fshati ose Qyteti
+ZK
+Nr. i pasurisë
+Lloji i pasurisë
+Sipërfaqja Totale (m2)
+”Arë” (m2)
+”Truall” (m2)
+”Ndërtesë” (m2)
+Volumi
+Faqe
+Sipërfaqja e shpronësuar (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja e shpronësuar (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja e shpronësuar (m2)
+Vlera sipas preventivit
+Sipërfaqja e shpronësuar (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+A
+B
+C
+C
+Ç
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+T
+L
+M
+N
+Y
+Z
+54
+GLOBAL TRADING COMPANY
+SPITALLE
+8517
+18/2
+ARE
+5,200
+14
+150
+5,200
+356
+1,851,200
+1,851,200.00
+55
+MUHARREM
+RIZA
+BARDHOCI
+SPITALLE
+8517
+18/3
+ARE
+5,200
+14
+145
+5,200
+356
+1,851,200
+1,851,200.00
+56
+GLOBAL TRADING COMPANY
+SPITALLE
+8517
+18/4
+ARE
+5,200
+14
+152
+5,200
+356
+1,851,200
+1,851,200.00
+57
+GLOBAL TRADING COMPANY
+SPITALLE
+8517
+18/5
+ARE
+5,500
+14
+153
+5,500
+356
+1,958,000
+1,958,000.00
+58
+GLOBAL TRADING COMPANY
+SPITALLE
+8517
+18/6
+ARE
+5,500
+14
+154
+5,500
+356
+1,958,000
+1,958,000.00
+60
+GLOBAL TRADING COMPANY
+SPITALLE
+8517
+18/8
+ARE
+5,500
+14
+156
+5,500
+356
+1,958,000
+1,958,000.00
+61
+GLOBAL TRADING COMPANY
+SPITALLE
+8517
+18/9
+ARE
+6,050
+14
+157
+6,050
+356
+2,153,800
+2,153,800.00
+62
+GLOBAL TRADING COMPANY
+SPITALLE
+8517
+18/10
+ARE
+8,700
+14
+158
+8,700
+356
+3,097,200
+3,097,200.00
+63
+GLOBAL TRADING COMPANY
+SPITALLE
+8517
+18/11
+ARE
+8,350
+14
+159
+8,350
+356
+2,972,600
+2,972,600.00
+67
+NAXHIJE ZEMRITE ZYRA FADIL REMZIJE ERIGLENT LEONTINA LORISA FATBARDHA ELIOS
+BAJRAM VOKË VOK VOK VOKË OSMAN OSMAN OSMAN MUSLI OSMAN
+VOKA HALILAJ CAHANI VOKA PALUSHI VOKA VOKA VOKA VOKA VOKA
+SPITALLE
+8517
+19/4
+ARE
+5,070
+14
+220
+5,070
+356
+1,804,920
+1,804,920.00
+71
+FETAH
+ISUF
+ELEZI
+SPITALLE
+8517
+19/8
+ARE
+9,672
+15
+181
+9,672
+356
+3,443,232
+3,443,232.00
+73
+YLBER
+ISUF
+ELEZI
+SPITALLE
+8517
+20/2
+ARE
+3,696
+13
+244
+3,696
+356
+1,315,776
+1,315,776.00
+76
+DRITA ARMAND SIBORA KLEVIS LIRIE
+SHEFKI ZYLFI ZYLFI ZYLFI ZYLFI
+MUÇMATA MUÇMATA MUÇMATA MUÇMATA MUÇMATA
+SPITALLE
+8517
+20/6
+ARE
+6,500
+22
+191
+6,500
+356
+2,314,000
+2,314,000.00
+77
+ALGERT
+SUL
+VOKA
+SPITALLE
+8517
+20/9
+ARE
+17,220
+15
+145
+17,220
+356
+6,130,320
+6,130,320.00
+291
+FATMIR
+ZAIM
+MEHMETI
+SPITALLE
+8517
+20/8
+ARE
+1500
+18
+138
+1500
+356
+534,000
+534,000.00
+SHUMA TOTALE
+35,193,448.00
+EFEKTI FINANCIAR SHTESË
+4,247,080.00
