@@ -1,0 +1,1 @@
+9. Përjashtohen nga përfitimi i subvencionit të ndërmarrjeve sociale ato organizata jofitimprurëse që kanë përfituar në 3 vjetët e fundit nga programi i mbështetjes financiare të buxhetit të shtetit, fondi social.

@@ -1,0 +1,1 @@
+8. Subvencionimi i ndërmarrjeve sociale në një nga format e përcaktuara në këtë vendim nuk kushtëzon të drejtën e tyre për të përfituar nga forma të tjera të mbështetjes së ndihmës shtetërore, të përcaktuara sipas legjislacionit në fuqi.

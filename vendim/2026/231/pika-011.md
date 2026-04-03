@@ -1,0 +1,1 @@
+11. Ndërmarrja sociale përfituese e formave të subvencioneve, të përcaktuara në pikën 2, të këtij vendimi, plotëson deklaratën për çdo ndihmë “de minimis”, të miratuar nga Komisioni i Ndihmës Shtetërore, të përfituar gjatë dy viteve të kaluara dhe vitit financiar në vazhdim.

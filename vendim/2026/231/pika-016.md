@@ -1,0 +1,1 @@
+16. Subvencionet e miratuara dhe marrëdhëniet juridike të krijuara në zbatim të vendimit nr. 174, datë 24.3.2023, të Këshillit të Ministrave, “Për përcaktimin e formave të mbështetjes nëpërmjet subvencionit për ndërmarrjet sociale për periudhën 2023-2025”, vijojnë të zbatohen deri në përfundimin e tyre, sipas kushteve, afateve dhe akteve individuale të nxjerra në bazë të tij.

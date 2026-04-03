@@ -1,0 +1,1 @@
+15. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përballohen nga buxheti i miratuar për ministrinë përgjegjëse për çështjet sociale, sipas produktit përkatës, të parashikuar në programin buxhetor afatmesëm “Përkujdesje sociale”.

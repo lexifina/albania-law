@@ -1,0 +1,1 @@
+12. Ministri përgjegjës për çështjet sociale ngre komisionin vlerësues të kërkesave të ndërmarrjeve sociale për përfitimin e subvencioneve dhe përcakton përbërjen dhe rregullat e organizimit e të funksionimit të tij.

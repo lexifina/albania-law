@@ -1,0 +1,1 @@
+1. Krijimin e fondit në mbështetje të ndërmarrjeve sociale, të njohura si të tilla nga ministri përgjegjës për çështjet sociale, me vlerë të përgjithshme 210 000 000 (dyqind e dhjetë milionë) lekë, për periudhën 2026-2028, sipas produktit përkatës të parashikuar në programin buxhetor afatmesëm “Përkujdesja sociale”.
