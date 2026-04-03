@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Parku Natyror ’Liqeni i Ulzës’ dhe zona e mbrojtur përreth tij”, me vendndodhje në Bashkinë Mat.
