@@ -1,0 +1,1 @@
+5. AKKSHI-ja ushtron funksionet e vlerësimit teknik, verifikimit të të dhënave, llogaritjes vjetore të koeficientëve K₁, K₂, K₃ dhe K₄ dhe të indeksit të performancës (IP), si dhe publikon çdo vit tabelën zyrtare përkatëse për financimin e orientuar nga performanca (FOP), sipas përcaktimeve në aneksin 1, që i bashkëlidhet këtij vendimi.

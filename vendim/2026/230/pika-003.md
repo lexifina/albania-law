@@ -1,0 +1,1 @@
+3. Financimi bazë institucional (FBI) dhe financimi i orientuar nga performanca (FOP) sigurohen me fonde të buxhetit të shtetit, që shpërndahen nëpërmjet buxheteve të ministrive, apo të institucioneve qendrore përkatëse, që kanë propozuar krijimin e tyre.

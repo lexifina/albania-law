@@ -1,0 +1,1 @@
+4. Fondi për projektet kërkimore konkurruese (FPK) sigurohet me fonde të buxhetit të shtetit, i cili administrohet dhe shpërndahet nga Agjencia Kombëtare e Kërkimit Shkencor dhe Inovacionit (në vijim “AKKSHI”).

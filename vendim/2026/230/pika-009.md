@@ -1,0 +1,1 @@
+9. Në rast se në një institucion krijues ka vetëm një institucion ose njësi të veçantë kërkimore, financimi i orientuar nga performanca (FOP) aplikohet mbi bazën e vlerësimit të arritjes së objektivave të përcaktuar në kontratën e performancës dhe treguesve të miratuar paraprakisht.

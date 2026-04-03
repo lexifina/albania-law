@@ -1,0 +1,1 @@
+10. Financimi i orientuar nga performanca (FOP) për institutet dhe njësitë e veçanta publike kërkimore aplikohet vitin e katërt, nga viti i krijimit ose i riorganizimit të tyre, pas përfundimit të një periudhe fillestare 3-vjeçare konsolidimi dhe ndërtimi kapacitetesh.

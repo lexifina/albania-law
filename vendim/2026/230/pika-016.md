@@ -1,0 +1,1 @@
+16. Pragu minimal i bashkëfinancimit të kërkuar duhet të jetë i përcaktuar në shpalljen e thirrjes nga AKKSHI-ja, përpara aplikimit nga subjektet. Mosrespektimi i marrëveshjes së bashkëfinancimit përbën shkak për ndërprerjen e financimit dhe kthimin e fondeve.

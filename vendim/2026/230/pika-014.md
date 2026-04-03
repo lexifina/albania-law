@@ -1,0 +1,1 @@
+14. Financimi për zhvillimin e kapitalit njerëzor kërkimor përfshin mobilitetin shkencor, formimin e avancuar, shkëmbimet ndërkombëtare dhe trajnimin në standardet e zonës evropiane të kërkimit (ERA), me synim forcimin e kapaciteteve të kërkuesve dhe integrimin e tyre në rrjetet ndërkombëtare.

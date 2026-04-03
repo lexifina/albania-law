@@ -1,0 +1,1 @@
+11. Gjatë periudhës së parë 3-vjeçare nga krijimi ose riorganizimi këto institucione financohen vetëm nëpërmjet financimit bazë institucional (FBI) dhe, kur është e zbatueshme, nëpërmjet financimit konkurrues për projekte (PK).
