@@ -81,3 +81,5 @@ Në faqen e prapme të lejes së qëndrimit printohet shiriti MRZ (në format 3 
 5
 5
 Fig. 2: Faqja e prapme
+ANEKS NR. 3
+KARTË QËNDRIMI PËR ANËTARIN E FAMILJES SË SHTETASIT TË BASHKIMIT EVROPIAN
