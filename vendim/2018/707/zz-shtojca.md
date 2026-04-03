@@ -654,6 +654,80 @@ pyll
 Komuna Ishëm
 TOTALI
 150,610 m2 ose 15 ha
+9/1. Zona kadastrale, 1925 Durrës (Hamallaj) (Shtuar me vendimin nr. 163, datë 19.02.2020)
+ZK
+Nr. pasurie
+Vol.
+Faqe
+Lloji
+Sipërfaqja (m2
+ose ha)
+Pronësia
+1925
+52/1
+4
+207
+arë
+8,000.00
+shtet
+1925
+52/2
+4
+208
+pyll
+7,300.00
+shtet
+1925
+52/3
+4
+209
+arë
+10,200.00
+shtet
+1925
+52/4
+4
+210
+pyll
+10,500.00
+shtet
+1925
+53/1
+4
+211
+arë
+153,800.00
+shtet
+1925
+53/2
+4
+212
+arë
+158,300.00
+shtet
+1925
+53/3
+4
+213
+kënetë
+30,600.00
+shtet
+1925
+54/1
+4
+214
+arë
+105,500.00
+shtet
+1925
+54/2
+4
+215
+arë
+105,500.00
+shtet
+TOTALI
+589,700.00
 10. Zona kadastrale 3365, Durrës (Shetaj)
 ZK
 Nr. pasurie
@@ -923,7 +997,7 @@ Komuna Synej
 806,013
 Shuma
 806013 m2 ose 80.6 ha
-20. Zona kadastrale 3774, Kavajë (Vilë Bashtovë)
+20. Zona kadastrale 3774, Kavajë (Vilë Bashtovë) (Ndryshuar me vendimin nr. 227, datë 1.4.2026)
 ZK
 Nr. pasurie
 Vol
@@ -938,13 +1012,7 @@ Pronësia
 ranorë
 261,450
 shtet
-3774
-284/5
-13
-25
-ranorë
-294,845
-shtet
+Shfuqizuar
 Shuma
 556,295 m2 ose 55.6 ha
 21. Zona kadastrale 3774, Kavajë (Vilë Bashtovë)
