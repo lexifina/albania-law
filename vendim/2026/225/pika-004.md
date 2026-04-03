@@ -1,0 +1,1 @@
+4. Dokumentacioni i nevojshëm, që shoqëron kërkesën për aplikim, duhet të dorëzohet i firmosur dhe i vulosur nga aplikuesi, në origjinal ose në kopje të njësuar me origjinalin, e të lëshuara jo më herët se 30 (tridhjetë) ditë nga data e aplikimit për fonde.
