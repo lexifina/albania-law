@@ -392,380 +392,318 @@ arë
 276801
 Me certifikatë pronësie
 1. Vlerësimi i pasurisë së llojit tokë “arë”, është bërë bazuar në VKM nr. 89, datë 3.2.2016 “Për miratimin e hartës së vlerës së tokës në Republikën e Shqipërisë”.
-LISTA EMËRORE E PRONARËVE, PASURITË PRONË PRIVATE TË TË CILËVE PREKEN NGA DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR. 684, DATË 23.10.2019, TË KËSHILLIT TË MINISTRAVE ,”PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT ”NDËRTIMI I NËNSTACIONIT 400 KV FIER”
+LISTA EMËRORE E PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA PROJEKTI “NDËRTIMI I NËNSTACIONIT 400 kV FIER”
 Nr.
-Të dhëna për pronësine
-Sip. Shpronesim m2
-Çmimi Lek/m2
-Vlera Kulturave Bujqësore
-Vlera e Shpronesimit ne Lek pronësitë
-Vlera totale e shpronësimt në Lek
+Të dhëna për pronësinë
+Sip. që shpronësohet (m²)
+Çmimi i tokës (lekë/m²)
+Vlera e kulturave bujqësore (lekë)
+Vlera e shpronësimit të tokës (lekë)
+Vlera totale e shpronësimit (lekë)
 Shënime
-Emri
-Atësia
-Mbiemri
-Lloji I Pasurisë
-Zona Kadastrale
-Nr. Pasurisë
-Sasia Sip pronës m2
-Bashkia Fier
-Drizë
-Zona Kadastrale Nr. 1557
+Emër Atësi Mbiemër
+Lloji i pasurisë
+ZK
+Nr. pasurie
+Sip. totale e pronës (m²)
+Bashkia Fier/Fshati Drize
+Zona kadastrale nr. 1557
 1
-Shaban
-Sihat
-Gjeli
+Shaban Sihat Gjeli
 Arë
 1557
 190/1
-2218
-2218
-269
-30800
-596642
-627442
-Pa çertifikat pronësie, Kufizim Pronesie
+2,218
+2,218
+676
+1,383
+1,499,368.0
+1,500,751
 2
-Iljaz
-Nurce
-Shateri
+Iljaz Nurçe Shateri
 Arë
 1557
 192/1
 878
 878
-269
-12250
-236182
-248432
-Pa çertifikat pronësie
+676
+547
+593,528
+594,075
 3
-Nuredin
-Iljaz
-Shateri
+Nuredin Iljas Shatëri
 Arë
 1557
 192/2
 437
 437
-269
-6300
-117553
-123853
-Pa çertifikat pronësie
+676
+273
+295,412
+295,685
 4
-Fatmir
-Xhemil
-Brakaj
+Fatmir Xhemil Brakaj
 Arë
 1557
 250/7
-4557
-4557
-269
-63700
-1225833
-1289533
-Me çertifikat pronësie
+4,557
+4,557
+676
+55,140
+3,080,532
+3,135,672
+Tajane Jakup Brakaj
 5
-Ymer
-Dine
-Muhameti
+Ymer Dine Muhametaj
 Arë
 1557
-250/8
-4187
-4187
-269
-230050
-1126303
-1356353
-Pa çertifikat pronësie
+250/95
+3,777
+3,777
+676
+897,635
+2,553,252
+3,450,887
+Florije Ymer Malaj
+Vjollca Ymer Kodhelaj
 6
-Ismail
-Muhamet
-Muhameti
+Lavdosh Ismail Muhametaj
 Arë
 1557
-250/9
-4125
-4125
-269
-57750
-1109625
-1167375
-Pa çertifikat pronësie
+250/82
+2,827
+2,827
+676
+14,619
+1,911,052
+1,925,671
+Afërdita Yemin Muhametaj
+Riziana Lavdosh Muhametaj
+Ismail Lavdosh Muhametaj
+Muhamet Ismail Muhametaj
+Drita Ismail Bogdani
+Feruze Ismail Gjishti
+Xixëllonja Ismail Xheka
 7
-Fetah
-Rrapush
-Hoxha
+Fetah Rapush Hoxha
 Arë
 1557
 250/10
-2312
-2312
-269
-401100
-621928
-1023028
-Pa çertifikat pronësie
+2,312
+2,312
+676
+1,491,707
+1,562,912
+3,054,619
 8
-Ali
-Kodhel
-Myrto
+Ali Kodhel Myrtaj
 Arë
 1557
 250/12
 406
 406
-269
-5600
-109214
-114814
-Pa çertifikat pronësie
+676
+352,585
+274,456
+627,041
 9
-Zyni
-Ali
-Myrto
+Zini Ali Myrtaj
 Arë
 1557
 250/13
-2093
-2093
-269
-754450
-563017
-1317467
-Pa çertifikat pronësie
+2,093
+2,093
+676
+3,064,780
+1,414,868
+4,479,648
 10
-Shpresa
-Rrapo
-Myrto
+Shpresa Rrapo Myrtaj
 Arë
 1557
 250/14
-1937
-1937
-269
-633750
-521053
-1154803
-Pa çertifikat pronësie
+1,937
+1,937
+676
+2,413,854
+1,309,412
+3,723,266
 11
-Xhevair
-Ali
-Myrtaj
+Xhevair Ali Myrtaj
 Arë
 1557
 250/15
-1625
-1625
-269
-285200
-437125
-722325
-Pa çertifikat pronësie
+1,625
+1,625
+676
+2,413,854
+1,098,500
+3,512,354
 12
-Luan
-Idai
-Gjata
+Luan Hydai Gjata
 Arë
 1557
 250/16
 562
 562
-269
-5950
-151178
-157128
-Pa çertifikat pronësie
+676
+339,549
+379,912
+719,461
 13
-Agron
-Idai
-Gjata
+Agron Idai Gjata
 Arë
 1557
 250/17
 875
 875
-269
-9100
-235375
-244475
-Pa çertifikat pronësie
+676
+339,549
+591,500
+931,049
 14
-Kostandin
-Vangjel
-Saramanda
+Kostandin Vangjel Saramanda
 Arë
 1557
 250/18
-1078
-1078
-269
-15400
-289982
-305382
-Pa çertifikat pronësie
+1,078
+1,078
+676
+-
+728,728
+728,728
 15
-Zoi
-Vangjel
-Saramanda
+Zoi Vangjel Saramanda
 Arë
 1557
 250/19
-1078
-1078
-269
-15400
-289982
-305382
-Me çertifikat pronësie
+1,078
+1,078
+676
+-
+728,728
+728,728
 16
-Bani
-Llazi
-Bare
+Bani Llazi Bare
 Arë
 1557
 250/20
-1000
-1000
-269
-14000
-269000
-283000
-Me çertifikat pronësie
+1,000
+1,000
+676
+624
+676,000
+676,624
 17
-Filip
-Tezho
-Bare
+Filip Tezho Baraj
 Arë
 1557
 250/22
-1000
-1000
-269
-14000
-269000
-283000
-Pa çertifikat pronësie
+1,000
+1,000
+676
+624
+676,000
+676,624
 18
-Mihal
-Tezho
-Bare
+Mihal Tezho Baraj
 Arë
 1557
-250/23
-1000
-1000
-269
-14000
-269000
-283000
-Pa çertifikat pronësie
+250/92
+1,022
+1,022
+676
+624
+690,872
+691,496
+Lefteri Naun Baraj
+Roland Mihal Baraj
+Majlinda Idajet Baraj
+Nikola Roland Baraj
+Emiliano Roland Baraj
+Mateo Roland Baraj
 19
-Nikollaq
-Todi
-Bare
+Nikollaq Todi Bare
 Arë
 1557
 250/25
-1776
-1776
-269
-23800
-477744
-501544
-Me çertifikat pronësie
+1,776
+1,776
+676
+1,107
+1,200,576
+1,201,683
 20
-Feti
-Meto
-Gjata
+Fetih Meto Gjata
 Arë
 1557
 250/26
 974
 974
-269
-13650
-262006
-275656
-Pa çertifikat pronësie
+676
+-
+658,424
+658,424
 21
-Flutura
-Feti
-Gjata
+Flutura Feti Avdulaj
 Arë
 1557
 250/27
 187
 187
-269
-2800
-50303
-53103
-Pa çertifikat pronësie
+676
+117
+126,412
+126,529
 22
-Ismet
-Feti
-Gjata
+Ismet Fetih Gjata
 Arë
 1557
 250/28
-1278
-1278
-269
-17850
-343782
-361632
-Me çertifikat pronësie
+1,278
+1,278
+676
+797
+863,928
+864,725
 23
-Mihal
-Taqi
-Bare
+Ariste Naun Bare
 Arë
 1557
 250/29
-1407
-1407
-269
-19600
-378483
-398083
-Pa çertifikat pronësie
+1,407
+1,407
+676
+877
+951,132
+952,009
+Vladimir Mihal Bare
+Aurel Mihal Bare
+Katerina Jani Stavro
+Aleksandra Aurel Bare
 24
-Dhoksi
-Llazi
-Bare
+Artur Sotir Bare
 Arë
 1557
 250/30
 898
 898
-269
-12600
-241562
-254162
-Me çertifikat pronësie
+676
+10,866
+607,048
+617,914
 25
-Spiro
-Ndreu
-Bare
+Spiro Ndreu Bare
 Arë
 1557
 250/80
-1029
-1029
-269
-0
-276801
-276801
-Me çertifikat pronësie
-Sipërfaqe totale shpronësimi m2
-38,917
-Vlera e shpronësimit në Lek për kulturat bujqësore
-2,659,100
-Vlera totale e shpronësimit në Lek për sipërfaqet e pronësisë
-10.468,673
-Vlera totale e shpronësimit në Lek
-13,127,773
+1,029
+1,029
+676
+-
+695,604
+695,604
+“Ndërtimi i nënstacionit 400kV Fier” - Shuma e kompensimit (lekë)
+11,401,110
+25,168,156
+36,569,266
