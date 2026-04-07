@@ -1,0 +1,17 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” të disa zonave në territorin e Bashkisë Gramsh, si më poshtë vijon:
+a) Zona nr. 1, fshatrat Bicaj, Lenie, Grabovë e Poshtme, Valth, Sojnik dhe Bulçar, pjesë të njësive administrative Lenie, Kukur dhe Kodovjat, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 5 500 (pesë mijë e pesëqind) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshatrat Kalaj, Gribë dhe Kukur, pjesë të Njësisë Administrative Kukur, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 2 151 (dy mijë e njëqind e pesëdhjetë e një) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr. 3, fshatrat Skënderbegas, Sëmbërdhenj, Bletëz, Ermenj, Kotkë dhe Kullollas, pjesë të Njësisë Administrative Skënderbegas, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 2 825 (dy mijë e tetëqind e njëzet e pesë) ha, sipas hartës në sistemin KRGJSH;
+ç) Zona nr. 4, fshatrat Drizë dhe Cingar i Poshtëm, pjesë të Njësisë Administrative Pishaj, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 195 (njëqind e nëntëdhjetë e pesë) ha, sipas hartës në sistemin KRGJSH;
+d) Zona nr. 5, fshatrat Bërsnik i Sipërm dhe Posnovisht, pjesë të Njësisë Administrative Kodovjat, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 1 186 (një mijë e njëqind e tetëdhjetë e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+dh) Zona nr. 6, fshatrat Kutërqar dhe Kodër Zgjupe, pjesë të Njësisë Administrative Sult, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 1 293 (një mijë e dyqind e nëntëdhjetë e tre) ha, sipas hartës në sistemin KRGJSH;
+e) Zona nr. 7, fshatrat Tervol dhe Vinë, pjesë të Njësisë Administrative Pishaj, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 1 081 (një mijë e tetëdhjetë e një) ha, sipas hartës në sistemin KRGJSH;
+ë) Zona nr. 8, fshati Qerret, pjesë e njësisë administrative Pishaj, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 239 (dyqind e tridhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH;
+f) Zona nr. 9, fshatrat Tunjë, Duzh, Lubinjë dhe Tunjë e Re, pjesë të Njësisë Administrative Tunjë, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 1 535 (një mijë e pesëqind e tridhjetë e pesë) ha, sipas hartës në sistemin KRGJSH;
+g) Zona nr. 10, fshati Fshat-Gramsh, pjesë e njësisë administrative Pishaj, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 298 (dyqind e nëntëdhjetë e tetë) ha, sipas hartës në sistemin KRGJSH;
+gj) Zona nr. 11, fshatrat Zamshe, Shelcan dhe Snosëm, pjesë të njësive administrative Kukur dhe Kodovjat, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 1 032 (një mijë e tridhjetë e dy) ha, sipas hartës në sistemin KRGJSH;
+h) Zona nr. 12, fshati Jançe Mal, pjesë e njësisë administrative Tunjë, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 137 (njëqind e tridhjetë e shtatë) ha, sipas hartës në sistemin KRGJSH;
+i) Zona nr. 13, fshati Sotirë, pjesë e njësisë administrative Kushovë, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 494 (katërqind e nëntëdhjetë e katër) ha, sipas hartës në sistemin KRGJSH;
+j) Zona nr. 14, fshati Grabovë e Sipërme, pjesë e njësisë administrative Lenie, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 762 (shtatëqind e gjashtëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH;
+k) Zona nr. 15, fshati Holtas, pjesë e njësisë administrative Poroçan, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 614 (gjashtëqind e katërmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+l) Zona nr. 16, fshati Tervol, pjesë e njësisë administrative Pishaj, Bashkia Gramsh, qarku Elbasan, me sipërfaqe 611 (gjashtëqind e njëmbëdhjetë) ha, sipas hartës në sistemin KRGJSH.
