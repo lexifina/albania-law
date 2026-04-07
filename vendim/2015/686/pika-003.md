@@ -1,1 +1,1 @@
-3. Ministria, me marrjen e aplikimit, verifikon paraprakisht nëse dokumentacioni i paraqitur nga zhvilluesi është në përputhje me kërkesat e pikës 1 të këtij kreu dhe ia përcjell jo më vonë se 2 (dy) ditë pune Agjencisë Kombëtare të Mjedisit (AKM), duke e shoqëruar me rekomandimin përkatës.
+3. Ministria, me marrjen e aplikimit, verifikon paraprakisht nëse dokumentacioni i paraqitur nga zhvilluesi është në përputhje me kërkesat e pikës 1 të këtij kreu dhe ia përcjell brenda ditës Agjencisë Kombëtare të Mjedisit (AKM), duke e shoqëruar me rekomandimin përkatës.

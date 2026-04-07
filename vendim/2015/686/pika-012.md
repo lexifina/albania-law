@@ -1,4 +1,4 @@
-12. Afati maksimal për dërgimin e vendimit te zhvilluesi është 24 (njëzet e katër) ditë pune nga aplikimi pranë ministrisë. Afati për plotësimin e dokumentacionit sipas pikave 4 dhe 9, të këtij kreu, nuk llogaritet në afatin maksimal. Në rast se zhvilluesi nuk plotëson dokumentacionin/informacionin brenda afateve të përcaktuara në pikën 9, nënkupton që zhvilluesi ka hequr dorë nga aplikimi për VNM-në paraprake.
+12. Afati maksimal për dërgimin e vendimit te zhvilluesi është 12 (dymbëdhjetë) ditë pune nga aplikimi pranë ministrisë. Në rastet e plotësimit të dokumentacionit, duke llogaritur afatet sipas pikave 4 dhe 9, të këtij kreu, afati maksimal për dërgimin e vendimit te zhvilluesi është 14 (katërmbëdhjetë) ditë pune, duke mos llogaritur këtu afatin që i duhet subjektit zhvillues për të kryer plotësimin e dokumentacionit. Në rast se zhvilluesi nuk plotëson dokumentacionin/informacionin brenda afateve të përcaktuara në pikën 9, nënkupton që zhvilluesi ka hequr dorë nga aplikimi për VNM-në paraprake.
 KREU II
 ZHVILLIMI I PROCEDURËS SË THELLUAR TË VNM-së
 1. Zhvilluesi që synon të zbatojë një projekt, i cili është subjekt i procedurës së thelluar të VNM-së, njofton, nëpërmjet sistemit elektronik, ministrinë që në fazat fillestare të zhvillimit të projektit (projekt-idesë), duke e shoqëruar me informacionin e mëposhtëm:
@@ -30,22 +30,22 @@ e) mundësinë e rehabilitimit të mjedisit të ndikuar dhe mundësinë e kthimi
 f) ndikimet e mundshme në mjedisin ndër-kufitar (nëse projekti ka natyrë të tillë).
 1.3 Prokurë për autorizimin e aplikuesit kur nuk është i njëjtë me zhvilluesin.
 2. Shfuqizuar.
-3. Ministria, me marrjen e aplikimit, verifikon paraprakisht nëse dokumentacioni i paraqitur nga zhvilluesi është në përputhje me kërkesat e pikës 1 të këtij kreu dhe ia përcjell jo më vonë se 2 (dy) ditë pune Agjencisë Kombëtare të Mjedisit (AKM), duke e shoqëruar me rekomandimin përkatës.
-4. AKM-ja, brenda 7 (shtatë) ditëve pune nga data e marrjes së aplikimit dhe dokumentacionit shoqërues, shqyrton kërkesën bazuar edhe në rekomandimin e ministrisë dhe, në rast se konstaton se dokumentacioni i depozituar nga kërkuesi nuk është i plotë apo ka pasaktësi, e njofton atë përmes portalit “e-Albania”, duke i kërkuar plotësimin e dokumentacionit dhe të pasaktësive të konstatuara, brenda 30 (tridhjetë) ditëve pune nga dita e njoftimit.
+3. Ministria, me marrjen e aplikimit, verifikon paraprakisht nëse dokumentacioni i paraqitur nga zhvilluesi është në përputhje me kërkesat e pikës 1 të këtij kreu dhe ia përcjell brenda ditës Agjencisë Kombëtare të Mjedisit (AKM), duke e shoqëruar me rekomandimin përkatës.
+4. AKM-ja, brenda 2 (dy) ditëve pune nga data e marrjes së aplikimit dhe dokumentacionit shoqërues, shqyrton kërkesën bazuar edhe në rekomandimin e ministrisë dhe, në rast se konstaton se dokumentacioni i depozituar nga kërkuesi nuk është i plotë apo ka pasaktësi, e njofton atë përmes portalit “e-Albania”, duke i kërkuar plotësimin e dokumentacionit dhe të pasaktësive të konstatuara, brenda 20 (njëzet) ditëve pune nga dita e njoftimit.
 4/1. Mosplotësimi i dokumentacionit të kërkuar brenda afatit të përcaktuar në pikën 4, të këtij kreu, përbën shkak për mospranimin e kërkesës, e cila, në këtë rast, quhet se nuk është regjistruar. Kërkuesi njoftohet përmes portalit “e-Albania” për arsyet e mospranimit dhe kërkesa i kthehet bashkë me aktet e tjera.
-4/2. AKM-ja, kur vlerëson se dokumentacioni i aplikimit apo dokumentacioni i plotësuar është i plotë, sipas pikës 1, të këtij kreu, brenda 5 (pesë) ditëve pune, ia përcjell atë institucioneve të mëposhtme, të cilat japin mendimin e tyre brenda 7 (shtatë) ditëve pune:
+4/2. AKM-ja, kur vlerëson se dokumentacioni i aplikimit apo dokumentacioni i plotësuar është i plotë, sipas pikës 1, të këtij kreu, brenda 2 (dy) ditëve pune, ia përcjell atë institucioneve të mëposhtme, të cilat japin mendimin e tyre brenda 4 (katër) ditëve pune:
 a) ministrive të linjës, në varësi të projektit;
 b) drejtorive teknike të ministrisë, sipas specifikave të projektit;
 c) institucioneve të tjera që, në varësi të llojit të projektit, janë përgjegjëse për lejimin/autorizimin/licencimin e tij apo përgjegjëse për planifikimin dhe zhvillimin, shëndetin publik dhe emergjencat natyrore dhe civile;
 ç) Agjencisë Rajonale të Mjedisit (ARM), në qarkun ku propozohet të zbatohet projekti, së cilës i jepen edhe udhëzimet përkatëse për marrjen e mendimit nga njësitë e vetëqeverisjes vendore.
-5. ARM-ja, brenda 2 (dy) ditëve pune nga data e marrjes së aplikimit nga AKM-ja, e dërgon për mendim nëpërmjet sistemit elektronik te njësia/të e vetëqeverisjes vendore ku propozohet projekti, të cilat shprehen brenda 3 (tri) ditëve pune nga marrja e aplikimit.
+5. ARM-ja, brenda ditës nga marrja e aplikimit nga AKM-ja, e dërgon për mendim nëpërmjet sistemit elektronik te njësia/të e vetëqeverisjes vendore ku propozohet projekti, të cilat shprehen brenda 3 (tri) ditëve pune nga marrja e aplikimit.
 6. AKM-ja, pas marrjes së mendimeve nga institucionet e pikës 4, më sipër, njofton, nëpërmjet sistemit elektronik, zhvilluesin për çështje që duhet të trajtojë në raportin e thelluar të VNM-së, duke vënë në dijeni dhe ministrinë, si:
 a) kërkesat e saj dhe të institucioneve, të cilat duhet të merren parasysh dhe të trajtohen në raportin e thelluar të VNM-së;
 b) analizimin e alternativave të mundshme për zbatimin e projektit;
 c) udhëzime për studimet dhe metodat për sigurimin e informacionit mjedisor dhe parashi-kimin e ndikimeve në mjedis gjatë hartimit të raportit të thelluar të VNM-së;
 ç) strukturën dhe renditjen e informacionit në raportin e thelluar të VNM-së, në përputhje me shtojcën II, të këtij vendimi;
 d) udhëzime në rastin kur projekti është subjekt i procedurës ndërkufitare të VNM-së.
-7. Afati maksimal nga marrja e njoftimit, sipas pikës 1, të këtij kreu, deri në njoftimin nëpërmjet sistemit elektronik të zhvilluesit, sipas pikës 6, të këtij kreu, është 25 ditë pune. Afati për plotësimin e dokumentacionit sipas pikës 4 të këtij kreu nuk llogaritet në afatin maksimal.
+7. Afati maksimal nga marrja e njoftimit, sipas pikës 1, të këtij kreu, deri në njoftimin nëpërmjet sistemit elektronik të zhvilluesit, sipas pikës 6, të këtij kreu, është 12 (dymbëdhjetë)ditë pune. Afati për plotësimin e dokumentacionit sipas pikës 4 të këtij kreu nuk llogaritet në afatin maksimal.
 8. Zhvilluesi, pas marrjes së njoftimit nga AKM-ja sipas pikës 6, më sipër, harton projektraportin e thelluar të VNM-së dhe organizon dëgjesën me publikun, sipas procedurave të legjislacionit në fuqi për informimin dhe përfshirjen e publikut në vendimmarrje.
 9. Në përfundim të dëgjesës zhvilluesi harton Raportin e Thelluar të VNM-së, sipas kritereve të shtojcës II, bashkëlidhur këtij vendimi.
 10. Për t’u pajisur me deklaratën mjedisore zhvilluesi aplikon pranë ministrisë nëpërmjet sistemit elektronik dhe plotëson dokumentacionin e mëposhtëm:
@@ -56,5 +56,5 @@ c) Raportin teknik përfundimtar, të hartuar sipas kërkesave të pikës 1.1, t
 d) Një kopje të faturës të pagesës së tarifës së shërbimit, sipas përcaktimeve në legjislacionin përkatës.
 dh) Shfuqizuar;
 e) Prokurë për autorizimin e aplikuesit kur nuk është i njëjtë me zhvilluesin.
-11. Ministria, me marrjen e aplikimit, verifikon paraprakisht nëse dokumentacioni i paraqitur nga zhvilluesi është në përputhje me kërkesat e pikës 10 të këtij kreu dhe ia përcjell brenda 3 (tri) ditëve pune Agjencisë Kombëtare të Mjedisit (AKM), duke e shoqëruar me rekomandimin përkatës.
-12. AKM-ja, brenda 5 (pesë) ditëve pune nga dita e marrjes së aplikimit, publikon në faqen zyrtare përmbledhjen joteknike të Raportit të Thelluar të VNM-së, sipas procedurave të legjislacionit në fuqi për informimin dhe përfshirjen e publikut në vendimmarrje.
+11. Ministria, me marrjen e aplikimit, verifikon paraprakisht nëse dokumentacioni i paraqitur nga zhvilluesi është në përputhje me kërkesat e pikës 10 të këtij kreu dhe ia përcjell brenda 2 (dy) ditëve pune Agjencisë Kombëtare të Mjedisit (AKM), duke e shoqëruar me rekomandimin përkatës.
+12. AKM-ja, brenda 3 (tri) ditëve pune nga dita e marrjes së aplikimit, publikon në faqen zyrtare përmbledhjen joteknike të Raportit të Thelluar të VNM-së, sipas procedurave të legjislacionit në fuqi për informimin dhe përfshirjen e publikut në vendimmarrje.

@@ -1,1 +1,1 @@
-14. Ministri, brenda 7 (shtatë) ditëve pune, lëshon Deklaratën Mjedisore ose ia kthen deklaratën AKM-së për rivlerësim, me argumentet përkatëse. AKM-ja dërgon te Ministri deklaratën e rivlerësuar, brenda 7 (shtatë) ditëve pune.
+14. Ministri, brenda 5 (pesë) ditëve pune, lëshon Deklaratën Mjedisore ose ia kthen deklaratën AKM-së për rivlerësim, me argumentet përkatëse. AKM-ja dërgon te Ministri deklaratën e rivlerësuar, brenda 7 (shtatë) ditëve pune.
