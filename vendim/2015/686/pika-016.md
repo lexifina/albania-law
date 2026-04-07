@@ -5,12 +5,12 @@ TRANSFERIMI I VENDIMIT APO I DEKLARATËS MJEDISORE
 a) vendimin ekzistues;
 b) aktin/kontratën për transferimin e veprimtarisë, nga zhvilluesi ekzistues te zhvilluesi i ri;
 c) raportin mbi zbatimin e kushteve të vendimit për VNM-në paraprake, nga koha e pajisjes me vendim deri në momentin kur kryhet kërkesa për transferimin e tij.
-2. Transferimi i vendimit për procedurë paraprake të VNM-së bëhet me urdhër të titullarit të AKM-së. Urdhri i transferimit i përcillet zhvilluesit të ri, nëpërmjet sistemit, brenda 10 (dhjetë) ditëve pune nga data e paraqitjes së kërkesës.
+2. Transferimi i vendimit për procedurë paraprake të VNM-së bëhet me urdhër të titullarit të AKM-së. Urdhri i transferimit i përcillet zhvilluesit të ri, nëpërmjet sistemit, brenda 7 (shtatë) ditëve pune nga data e paraqitjes së kërkesës.
 3. Kur zhvilluesi ndryshon, pasi ka përfunduar procedura e thelluar e VNM-së, zhvilluesi i ri paraqet pranë ministrisë, në sistemin elektronik për vlerësimin e ndikimit në mjedis, nëpërmjet portalit e-Albania, kërkesën për transferimin e deklaratës mjedisore, shoqëruar me dokumentacionin e mëposhtëm:
 a) deklaratën mjedisore ekzistuese;
 b) aktin/kontratën për transferimin e veprimtarisë, nga zhvilluesi ekzistues te zhvilluesi i ri;
 c) raportin mbi zbatimin e kushteve të deklaratës mjedisore, nga koha e pajisjes me deklaratën mjedisore, deri në momentin kur kryhet kërkesa për transferimin e saj, në rast se ka filluar zbatimi.
-4. Transferimi i deklaratës mjedisore bëhet me urdhër të ministrit. Urdhri i transferimit i përcillet zhvilluesit të ri, nëpërmjet sistemit, brenda 10 (dhjetë) ditëve pune nga data e paraqitjes së kërkesës.
+4. Transferimi i deklaratës mjedisore bëhet me urdhër të ministrit. Urdhri i transferimit i përcillet zhvilluesit të ri, nëpërmjet sistemit, brenda 7 (shtatë) ditëve pune nga data e paraqitjes së kërkesës.
 KREU IV
 MONITORIMI I NDIKIMEVE, KONFIDENCIALITETI, ANKIMIMI DHE KOMUNIKIMI
 1. Gjatë zbatimit të projektit, zhvilluesi ka përgjegjësinë të kryejë monitorimin e ndikimeve të tij në mjedis, në përputhje me përcaktimet në deklaratën mjedisore dhe legjislacionin në fuqi.
