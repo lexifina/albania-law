@@ -1,0 +1,1 @@
+10. Organizata e Menaxhimit të Peshkimit të liqenit të Shkodrës bashkëpunon me strukturat e qeverisjes vendore, Drejtorinë Rajonale të AKU-së Shkodër, Drejtorinë e Policisë së Rendit dhe atë Kufitare në qarkun e Shkodrës dhe Policinë Bashkiake të Shkodrës dhe Malësisë së Madhe.

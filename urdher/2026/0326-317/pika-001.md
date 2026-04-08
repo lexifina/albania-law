@@ -1,0 +1,1 @@
+1. Ndalimin e peshkimit me çfarëdolloj mjeti dhe metode gjuetie, si dhe mbajtjen në bord, tranzitimin në barkë, zbarkimin e qëllimtë të krapit - (Cyprinus carpio) në liqenin e Shkodrës, për periudhën 1.4.2026 deri më 30.4.2026.

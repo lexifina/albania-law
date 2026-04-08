@@ -1,0 +1,1 @@
+3. Për periudhën 1.4.2026 deri më 30.4.2026 lejohet të peshkohet vetëm ngjala me grepa nga subjektet e pajisura me leje peshkimi nga Organizata e Menaxhimit të Peshkimit të liqenit të Shkodrës, siç është parashikuar në Planin e Menaxhimit të Ngjalës.
