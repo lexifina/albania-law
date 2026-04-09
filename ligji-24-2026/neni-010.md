@@ -1,0 +1,8 @@
+# Neni 10
+Bashkëpunimi me ministritë, institucionet në varësi të Kryeministrit dhe ministrave, institucionet e pavarura dhe njësitë e vetëqeverisjes vendore
+1. Ministritë, institucionet në varësi të Kryeministrit dhe ministrave, institucionet e pavarura dhe njësitë e vetëqeverisjes vendore e ushtrojnë veprimtarinë e tyre në fushën e politikës së jashtme në bashkëpunim të ngushtë me ministrinë.
+2. Ministrat dhe drejtuesit e institucioneve të tjera shtetërore, të përcaktuara në pikën 1 të këtij neni, ndërmarrin veprime, kryejnë dhe presin vizita në nivel ndërkombëtar, mbajnë qëndrime dhe bëjnë deklarata që kanë të bëjnë me marrëdhëniet me jashtë, pasi të kenë marrë më parë miratimin dhe rekomandimin e ministrisë.
+3. Drejtuesit e organeve të njësive të vetëqeverisjes vendore ndërmarrin veprime, presin vizita në nivel ndërkombëtar, mbajnë qëndrime dhe bëjnë deklarata që kanë të bëjnë me marrëdhëniet me jashtë, pasi të jenë konsultuar më parë me ministrinë dhe të kenë marrë udhëzimet e saj.
+4. Subjektet e përcaktuara në pikën 1 të këtij neni komunikojnë zyrtarisht nëpërmjet ministrisë me misionet diplomatike të Republikës së Shqipërisë të akredituara jashtë vendit dhe me misionet diplomatike të akredituara në Republikën e Shqipërisë.
+5. Subjektet e parashikuara në pikën 1 të këtij neni informojnë ministrinë për veprimtarinë e kryer prej tyre në fushën e marrëdhënieve me jashtë jo më vonë se 15 ditë kalendarike nga data e kryerjes së veprimtarisë.
+6. Me propozimin e ministrit, Këshilli i Ministrave miraton rregullat e veprimtarisë me jashtë të ministrive, institucionet në varësi të Kryeministrit dhe ministrave, institucionet e pavarura dhe njësitë e vetëqeverisjes vendore.

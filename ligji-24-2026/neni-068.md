@@ -1,0 +1,6 @@
+# Neni 68
+Aktet nënligjore
+1. Ngarkohet Këshilli i Ministrave që brenda 3 muajve nga hyrja në fuqi e këtij ligji të miratojë aktet nënligjore në zbatim të neneve 10, pika 6; 12; 13; 19; 20, pika 2; 21, pika 7; 25, pikat 1 dhe 3; 28, pika 5; 29, pika 3; 30, pika 3; 31, pika 3; 32, pika 5; 33, pika 5; 35, pika 7; 42, pikat 2 dhe 4; 60, pika 7, dhe 61, pika 11, të këtij ligji.
+2. Ngarkohet ministri të miratojë aktet nënligjore në zbatim të nenit 25, pika 2, të këtij ligji.
+3. Brenda 12 muajve nga hyrja në fuqi e këtij ligji të gjithë diplomatët në shërbim duhet t’i nënshtrohen një procedure transparente, konkurruese dhe objektive vlerësimi profesional të bazuar në performancën në Shërbimin e Jashtëm, integritetin etiko-profesional dhe kualifikimet në përputhje me procedurat e përcaktuara në legjislacionin në fuqi për nëpunësin civil, këtë ligj dhe aktet nënligjore në zbatim të tij.
+4. Diplomatëve të karrierës, të cilët nuk kanë përfituar në kohën e duhur gradat personale, u përllogaritet për efekt të marrjes së gradës personale periudha kohore nga marrja e gradës “Atashe” ose plotësimi i afatit për marrjen e kësaj grade. Kjo dispozitë aplikohet vetëm një herë në mbledhjen e parë të KKDD-së pas hyrjes në fuqi të këtij ligji, sipas parashikimeve të nenit 22, pikat 1, shkronja “a” dhe nenit 55, pika 4, të këtij ligji.
