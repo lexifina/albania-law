@@ -27,12 +27,12 @@ b) agjentët antitiroidalë;
 c) steroidet;
 d) laktonet e acidit rezorcilik (përfshirë zeranolin);
 e) β-agonistët.
-2. Substanca të ndaluara, të listuara në tabelën 2 të aneksit të urdhrit nr. 139/1, datë 7.4.2017, “Për substancat aktive farmakologjike dhe klasifikimin e tyre, në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore”, të ndryshuar:
+2. Substanca të ndaluara, të listuara në tabelën 2, të shtojcës 1, të urdhrit nr. 991, datë 13.10.2025, “Mbi substancat farmakologjikisht aktive dhe klasifikimin e tyre në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore”:
 a) kloramfenikoli;
 b) nitrofuranët;
 c) dimetridazoli, metronidazoli, ronidazoli dhe nitroimidazole të tjerë;
 d) substanca të tjera.
-3. Substanca farmakologjikisht aktive që nuk janë të listuara në tabelën 1 të aneksit të urdhrit nr. 139/1, datë 7.4.2017, “Për substancat aktive farmakologjike dhe klasifikimin e tyre, në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore”, të ndryshuar, ose substanca të paautorizuara për përdorimin në ushqimet për kafshë të destinuara për prodhimin e ushqimeve, në përputhje me nenin 83 të ligjit nr. 10 465, datë 29.9.2011, “Për shërbimin veterinar në Republikën e Shqipërisë”, të ndryshuar:
+3. Substanca farmakologjikisht aktive që nuk janë të listuara në tabelën I, të shtojcës I, të urdhrit nr. 991, datë 13.10.2025, “Mbi substancat farmakologjikisht aktive dhe klasifikimin e tyre në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore ose substanca të paautorizuara për përdorimin në ushqimet për kafshë të destinuara për prodhimin e ushqimeve, në përputhje me nenin 83 të ligjit nr. 10 465, datë 29.9.2011, “Për shërbimin veterinar në Republikën e Shqipërisë”, të ndryshuar:
 a) ngjyruesit;
 b) produktet fitosanitare sipas përshkrimeve të vendimit nr. 335, datë 6.6.2018, “Për miratimin e rregullave për regjistrimin, të procedurës dhe kritereve të vlerësimit të produkteve për mbrojtjen e bimëve dhe biocidet, sipas përshkrimeve të legjislacionit në fuqi;
 c) substancë antimikrobike;
@@ -41,7 +41,7 @@ e) hormonet proteinikë dhe peptididikë;
 f) antinflamatorët, sedativët dhe çdo substancë tjetër farmakologjikisht aktive;
 g) substanca antivirale.
 Grupi B - Substancat farmakologjikisht aktive të autorizuara për përdorim në kafshët që prodhojnë ushqim.
-1. Substanca farmakologjikisht aktive të listuara në tabelën 1 të aneksit të urdhrit nr. 139/1, datë 7.4.2017, “Për substancat aktive farmakologjike dhe klasifikimin e tyre në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore”, të ndryshuar:
+1. Substanca farmakologjikisht aktive të listuara në tabelën I, të shtojcës I, të urdhrit nr. 991, datë 13.10.2025, “Mbi substancat farmakologjikisht aktive dhe klasifikimin e tyre në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore”:
 a) substanca antimikrobike;
 b) insekticide, fungicide, antihelmintikë dhe agjentë antiparazitarë të tjerë;
 c) trankuilizantët;
@@ -78,7 +78,7 @@ Grupi A 1, germa “c”
 X
 X
 X
-X
+X (1)
 X
 Grupi A 1, germa “d”
 X
@@ -111,8 +111,6 @@ X
 X
 X
 X
-X
-X
 Grupi A 3, germa “c”
 X
 X
@@ -138,9 +136,8 @@ X
 X
 X
 X
-X
-X
 Grupi A 3, germa “g”
+E vlefshme vetëm për peshqit
 i. mbetjet ose grup-substancat duhet të analizohen në kampione të marra nga kafshë që prodhojnë ushqim, kur është e nevojshme, nga ekskretimet e tyre, lëngjet trupore dhe produktet e papërpunuara me origjinë shtazore, ushqimet për kafshë, ujë dhe nënprodukte me origjinë shtazore;
 ii. atëherë kur ka dyshime ose raste lidhur me trajtime të jashtëligjshme për mbetjet ose grupet e substancave në specie ose produktet që nuk janë të shënuara në tabelën e këtij aneksi, këto kontrolle duhet të jenë të përfshira edhe në planet e kontrollit të prodhimit të bazuar në risk.
 2. Kriteret për përzgjedhjen e substancave specifike për testim brenda secilit grup substancash:
@@ -163,7 +160,7 @@ iii. informacione rreth sasisë së medikamenteve veterinare të prodhuara, impo
 iv. informacione rreth zinxhirit të shpërndarjes së medikamenteve veterinare, regjistrit kombëtar të substancave farmakologjikisht aktive të autorizuara si medikamente veterinare ose aditivë për ushqimet e kafshëve, si dhe informacione mbi modelet e lëshimit të recetave;
 v. mundësia e përdorimit të jashtëligjshëm të substancave farmakologjikisht aktive;
 vi. limitet maksimale të mbetjeve dhe nivelet maksimale të substancave farmakologjikisht aktive dhe të aditivëve për ushqimet e kafshëve, përfshirë kufizimet (p.sh. jo për përdorim në kafshët gjatë laktacionit);
-vii. formulime të medikamenteve veterinare, për të cilat janë përcaktuar kohë pezullimi të gjata pas trajtimit të kafshëve, me qëllim garantimin e përputhshmërisë të produkteve me origjinë shtazore të paprocesuara, që konsumohen nga njerëzit, në përputhje me nivelet maksimale të lejuara të mbetjeve të përcaktuar nga urdhri 139/1, date 7.4.2017, “Për substancat aktive farmakologjike dhe klasifikimin e tyre, në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore”, të ndryshuar.
+vii. formulime të medikamenteve veterinare, për të cilat janë përcaktuar kohë pezullimi të gjata pas trajtimit të kafshëve, me qëllim garantimin e përputhshmërisë të produkteve me origjinë shtazore të paprocesuara, që konsumohen nga njerëzit, në përputhje me nivelet maksimale të lejuara të mbetjeve të përcaktuar nga urdhri nr. 991, datë 13.10.2025, “Mbi substancat farmakologjikisht aktive dhe klasifikimin e tyre, në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore”.
 viii. mundësia e trajtimit të kafshëve të destinuara për prodhimin e ushqimeve, sipas kërkesave të legjislacionit mbi produktet mjekësorë veterinare.
 2. Kritere për përzgjedhjen e grupeve të substancave, kafshëve dhe produkteve me origjinë shtazore:
 i. informacione mbi autorizimet e futjes në treg të produkteve mjekësore veterinare, që përmbajnë substanca farmakologjikisht aktive të destinuara për lloje kafshësh dhe klasa të veçanta të prodhimit;
@@ -196,9 +193,9 @@ v. mungesa e pjesëmarrjes në programet e garantimit të cilësisë (aty ku jan
 vi. qëllimin dhe rezultatet autokontrolleve që u përkasin mbetjeve.
 8. Gjatë marrjes së mostrave, duhet të bëhen përpjekje për të shmangur marrjen e mostrave të shumëfishta (d.m.th. marrjen e disa mostrave të ndryshme nga një kafshë/produkt i vetëm (përveç nëse mostrat e ndryshme analizohen për një grup të ndryshëm substancash), ose marrjen e mostrave të disa kafshëve/produkteve nga një prodhuesi i vetëm në një ditë të caktuar kur mund të nxirren mostra nga kafshë/produkte nga disa prodhues që do të plotësonin kriteret e synimit), përveç nëse operatori është identifikuar në bazë të kritereve të përfshira në pikën 6 ose është dhënë një justifikim i duhur në plani i kontrollit. Duhet të sigurohet pajtueshmëria me frekuencën e planifikuar të kontrolleve.
 ANEKSI IV
-Kriteret për përzgjedhjen e një kombinimi specifik të grupeve të substancave dhe grupeve të produkteve për planin kombëtar të mbikëqyrjes së rastësishme të prodhimit siç përshkruhet në pikën 3, nenin 2 të kësaj Rregulloreje
+Kriteret për përzgjedhjen e kombinimeve specifike të grupeve të substancave dhe grupeve të produkteve për hartimin e planit kombëtar të mbikëqyrjes së rastësishme, sipas kërkesave të pikës 3, nenin 2 të kësaj rregulloreje
 Substanca të grupit A
-Kampionet e marra përbëhen nga një kombinim i grupeve të substancave dhe i grupeve të produkteve si shtesë e atyre të parashikuara në planet kombëtare të kontrollit dhe të prodhimit të bazuara në risk.
+Kampionet e përbëra nga kombinime të grupeve të substancave dhe grupe të produkteve janë të ndryshme nga kampionet e marra në zbatim të planeve kombëtare të prodhimit të bazuara në risk.
 Substanca të grupit B
 Kombinimet e grupeve të substancave dhe grupeve të produkteve:
 Grupet e substancave
@@ -244,15 +241,6 @@ X
 X
 X
 B1e
-X
-X
-X
-X
-X
-X
-X
-X
-X
 B2
 X
 X
@@ -260,9 +248,8 @@ X
 X
 X
 X
-X
-Çdo kampion për një lloj të caktuar kafshe ose produkti do të analizohet për një gamë të gjerë të grupeve të substancave të listuara në tabelën e përfshirë në këtë aneks.
-Duhet të sigurohet që për një lloj të caktuar kafshe ose produkti të gjitha grupet e substancave të listuara në tabelë mbulohen nga plani i mbikëqyrjes. Kontrollet do të kryhen për sa më shumë substanca farmakologjikisht aktive që të jetë e mundur, për të cilat kufijtë maksimalë të mbetjeve janë vendosur në aneksin 1 të urdhrit nr. 139/1, datë 7.4.2017, “Për substancat aktive farmakologjike dhe klasifikimin e tyre, në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore”, të ndryshuar, dhe mbi aditivët për përdorim në ushqimin e kafshëve.
+Çdo kampion për një lloj të caktuar kafshe ose produkti specifik analizohet duke përfshirë një numër sa më të madh të mundshëm të substancave, në grupet e listuara në tabelën e përfshirë në këtë aneks.
+Duhet të sigurohet që për një lloj të caktuar kafshe ose produkt të caktuar, plani i survejancës të përfshijë të gjitha grupet e substancave të listuara në tabelë. Kontrollet kryhen për sa më shumë substanca farmakologjikisht aktive që të jetë e mundur, për të cilat kufijtë maksimalë të mbetjeve janë përcaktuar në shtojcën I, të urdhrit. nr. 991, datë 13.10.2025, “Mbi substancat farmakologjikisht aktive dhe klasifikimin e tyre, në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore” dhe legjislacionit mbi aditivët për përdorim në ushqimin e kafshëve.
 ANEKSI V
 Kriteret për strategjinë e kampionimit për planin kombëtar të mbikëqyrjes së rastësishme të prodhimit sipas kërkesave të pikës 3, nenit 2 të kësaj Rregulloreje
 1. Kampionimi duhet të jetë i rastësishëm dhe duhet të kryhet në momentin ose sa më afër pas momentit të therjes, të zënies ose të mbledhjes së prodhimit dhe duhet të jetë përfaqësues i modelit të prodhimit ose/dhe konsumit:
