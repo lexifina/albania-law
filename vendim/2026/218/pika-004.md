@@ -1,0 +1,1 @@
+4. Miratimin e rregullores “Për etiketimin energjetik të kaldajave me lëndë djegëse të ngurtë dhe sistemet e përbëra nga kaldajë me lëndë djegëse të ngurtë, ngrohës shtesë, termostat dhe sistem diellor për ngrohjen e ujit”, sipas aneksit nr. 4, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

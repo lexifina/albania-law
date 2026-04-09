@@ -1,0 +1,1 @@
+17. Miratimin e rregullores “Për etiketimin e gomave në lidhje me eficiencën e karburantit dhe parametrave të tjerë”, sipas aneksit nr. 17, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

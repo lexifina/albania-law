@@ -1,0 +1,1 @@
+5. Miratimin e rregullores “Për etiketimin energjetik të ngrohësve të hapësirës, sistemet e integruara, sistemet që përfshijnë ngrohës hapësire, sisteme diellore dhe termostatë, si dhe sistemet që përfshijnë ngrohësit e integruar, sisteme diellore dhe termostatë”, sipas aneksit nr. 5, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

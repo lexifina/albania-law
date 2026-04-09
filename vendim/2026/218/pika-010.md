@@ -1,0 +1,1 @@
+10. Miratimin e rregullores “Për etiketimin energjetik të ngrohësve të ujit, rezervuarëve të ujit të ngrohtë, paketave të ngrohësve të ujit dhe pajisjeve diellore”, sipas aneksit nr. 10, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

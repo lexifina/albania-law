@@ -1,0 +1,1 @@
+13. Miratimin e rregullores “Për etiketimin energjetik të pajisjeve frigoriferike me funksion të shitjes direkte”, sipas aneksit nr. 13, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
