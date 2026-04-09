@@ -50,19 +50,18 @@ c) frekuencat e kampionimit të kryer në pikat e kontrollit kufitar, duke marr�
 ç) metodat analitike që do të përdoren dhe karakteristikat e perfomancës së tyre;
 d) informacione të hollësishme sipas parashikimeve të nenit 7, pika 1 dhe 2.
 Neni 7
-Përmbajtja shtesë e planeve kombëtare të kontrollit të bazuar në risk dhe planit të rastësishëm të mbikëqyrjes
-1. Planet kombëtare të kontrollit të bazuar në risk sipas përshkrimeve të nenet 4 dhe 6 dhe planit kombëtar i mbikëqyrjes së rastësishme, sipas parashikimeve të nenit 5 përcaktojnë informacionet, që vijojnë:
-a) informacione të hollësishme mbi llojet e kafshëve të cilat do t’i nënshtrohen kampionimit dhe informacione mbi vendin e kampionimit;
-b) informacione mbi legjislacionin kombëtar që i përket përdorimit të substancave farmakologjikisht aktive dhe në veçanti për ndalimin ose autorizimin, shpërndarjen dhe vendosjen në treg të tyre dhe rregullave të administrimit të këtyre substancave, në atë masë në të cilën legjislacioni në fjalë nuk është i harmonizuar;
-c) informacione mbi autoritetet kompetente përgjegjëse për zbatimin e planeve;
-ç) llojet e masave të ndjekjes së rasteve të pa përputhshmërisë (follow-up) të marra nga autoritetet kompetente, në lidhje me kafshët ose produktet me origjinë shtazore, në të cilat janë gjetur mbetje në vitet e mëparshme.
-2. Planet kombëtare të kontrollit të bazuara në risk, sipas përshkrimeve të neneve 4 dhe 6, përveç informacioneve të përshkruara nga paragrafi 1, përfshijnë edhe sa vijon:
-a) një argumentim për substancat, llojet e kafshëve, produktet dhe matricat e përzgjedhura dhe të përfshira në plane mbi bazën e kritereve të listuara në Anekset II dhe VI, të Urdhrit të Nr. 85, datë 17.2.2023, duke përfshirë një argumentim të mënyrës në të cilën janë mbajtur parasysh kriteret e listuara në anekset e sipërpërmendura edhe kur nuk janë bërë ndryshime përkundrejt planit të vitit paraardhës;
-b) një argumentim në mënyrën në të cilën janë mbajtur parasysh, me qëllim përmirësimin e planit, informacionet e marra nga një analizë e përgjithshme e rasteve të papërputhshmërive, në vend gjatë tri vitetve të fundit kalendarike.
+Përmbajtja shtesë e planeve kombëtare të kontrollit të bazuara në risk dhe planit të mbikëqyrjes së rastësishme
+1. Planet kombëtare të kontrollit të bazuara në risk, sipas parashikimeve në nenet 4 dhe 6, dhe Plani Kombëtar i Mbikëqyrjes së Rastësishme, sipas parashikimeve të nenit 5, përcaktojnë informacionet si vijon:
+a) llojet e kafshëve që do i nënshtrohen kampionimit dhe vendin e kampionimit;
+b) legjislacionin kombëtar mbi përdorimin e substancave farmakologjikisht aktive dhe, në veçanti, ndalimin ose autorizimin e tyre, shpërndarjen, hedhjen në treg dhe administrimin, në atë masë në të cilën legjislacioni nuk është i harmonizuar me legjislacionin e Bashkimit Evropian;
+c) autoritetet kompetente përgjegjëse për zbatimin e planeve.
+2. Planet kombëtare të kontrollit të bazuara në risk, sipas parashikimeve të neneve 4 dhe 6, përveç informacioneve të përshkruara në paragrafin 1, përfshijnë edhe si vijon:
+a) një argumentim për substancat, llojet e kafshëve, produktet dhe matricat e përzgjedhura dhe të përfshira në plane mbi bazën e kritereve të listuara në anekset II dhe VI, të urdhrit të nr. 85, datë 17.2.2023, të ndryshuar, duke përfshirë një argumentim të mënyrës në të cilën janë mbajtur parasysh kriteret e listuara në anekset e sipërpërmendura edhe kur nuk janë bërë ndryshime përkundrejt planit të vitit paraardhës;
+b) një argumentim, lidhur me mënyrën në të cilën janë mbajtur parasysh informacionet e marra lidhur me rastet e papërputhshmërisë në vend, të konstatuara gjatë tre viteve kalendarike, me qëllim përmirësimin e planit.
 KAPITULLI III
 DORËZIMI DHE VLERËSIMI I PLANEVE DHE DORËZIMI I TË DHËNAVE NGA SHQIPËRIA
 Neni 8
-Dorëzimi dhe vlerësimi i planeve të kontrollit
+Paraqitja dhe vlerësimi i Planit Kombëtar të Kontrollit Mbështetur në Risk dhe Planit Kombëtar të Mbikëqyrjes së Rastësishme
 Deri më 31 mars të çdo viti, Shqipëria i paraqet Komisionit Evropian (KE), planet kombëtare të kontrollit të bazuara në risk dhe planin e mbikëqyrjes së rastësishme për vitin aktual kalendarik, të rishikuara dhe të përditësuara në mënyrë elektronike.
 Shqipëria i paraqet KE versionet e përditësuara të planeve përkatëse, duke përshkruar se si janë marrë parasysh komentet e KE, deri më 31 mars të vitit pasardhës. Kur Shqipëria vendos të mos përditësojë planet e kontrollit bazuar në komentet e KE, ajo duhet të arsyetojë pozicionin e saj.
 Neni 9
@@ -120,7 +119,7 @@ Mjaltë
 Minimumi 1 kampion për 50 tonë të prodhimit vjetor për 5.000 tonët e parë të prodhimit dhe në vijim 1 kampion shtesë për çdo 500 ton ëtë tjera shtesë.
 Dispozita plotësuese
 a) Nëse është e nevojshme për verifikimin e përputhshmërisë me legjislacionin kombëtar për përdorimin e substancave farmakologjikisht aktive të ndaluara ose të paautorizuara, AKVMB-ja mund të marrë kampione në ushqimet për kafshë, ujin e pijshëm nga kafshët ose matrica a të tjera ose në ambientin përkatës dhe t’i përllogarisë në arritjen e frekuencave minimale të kampionimit, sipas përshkrimeve të këtij aneksi.
-b) Kontrollet mbi kombinimet e secilit nëngrup të substancave të grupit A dhe grupit të produkteve të përshkruara nga aneksi II, të urdhrit nr. 85, datë 17.2.2023, kryhen çdo vit mbi të paktën 5% të kampioneve të marra, në përputhje me kërkesat e kësaj tabele të këtij aneksi për atë grup produktesh. Kjo përqindje minimale nuk zbatohet për zorrët dhe as për grupin A, paragrafi 3, germa “f”, për të gjitha grupet e produkteve.
+b) Kontrollet mbi secilin kombinim të nëngrupeve të substancave të grupit A dhe grupeve të produkteve të përshkruara nga aneksi II, të urdhrit nr. 85, datë 17.2.2023, të ndryshuar, kryhen çdo vit mbi të paktën 5% të kampioneve të marra, në përputhje me kërkesat e tabelës së këtij aneksi për atë grup produktesh. Kjo përqindje minimale nuk zbatohet për zorrët dhe as për substancat e grupit A, paragrafi 3, shkronjat “b” dhe “f”, për të gjitha grupet e produkteve.
 c) Për substancat e grupit B, përzgjedhja e substancave specifike që i nënshtrohen kontrollit brenda secilit grup të substancave vendoset në bazë të kritereve të listuara në aneksin II të urdhrit nr. 85, datë 17.2.2023.
 d) Brenda grupit “Gjedhë, dhen dhe dhi” kampionet merren nga të gjitha llojet e kafshëve, duke mbajtur parasysh vëllimin e prodhimit përkatës për secilin lloj. Kampionimi i përket qoftë kafshëve të destinuara për prodhimin e qumështit dhe atyre të destinuara për prodhimin e mishit.
 e) Brenda grupit “Shpendë” merren kampione nga pulat e mishit, pulat në fund të periudhës së prodhimit të vezëve, gjela deti dhe shpendë të tjerë, duke mbajtur parasysh vëllimin e prodhimit përkatës
