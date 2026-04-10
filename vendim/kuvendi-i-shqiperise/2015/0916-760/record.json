@@ -1,0 +1,27 @@
+{
+  "qbz_id": 55010,
+  "title": "Për  kërkesat  për gjurmimin  e  ushqimit  dhe  ushqimit  për kafshë përgjatë zinxhirit ushqimor.",
+  "type": "Vendim",
+  "number": "760",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-09-16",
+  "version_no": 1,
+  "qbz_version_id": 3618,
+  "in_force": "2026-04-10",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2026-04-10",
+  "changed_by_qbz_id": 33011,
+  "changed_by_number": "268",
+  "changed_by_title": "Për disa shtesa në vendimin nr. 760, datë 16.9.2015, të Këshillit të Ministrave, “Për kërkesat për gjurmimin e ushqimit dhe ushqimit për kafshë përgjatë zinxhirit ushqimor”",
+  "source": "https://qbz.gov.al/files/1e27c92562fbe5b7e7a03cf50a1b2e0f685369d82ad20002dd7a3062c71a1f76.docx",
+  "source_sha256": "1e27c92562fbe5b7e7a03cf50a1b2e0f685369d82ad20002dd7a3062c71a1f76",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55010",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/55010/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
