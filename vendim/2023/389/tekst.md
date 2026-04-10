@@ -4,6 +4,10 @@ Nr. 389, datë 29.6.2023
 
 PËR PËRCAKTIMIN E RREGULLAVE PËR LIDHJEN E KONTRATAVE PËR SHËRBIMET, PUNËT, BLERJEN E PAJISJEVE/MJETEVE, TË PROJEKTUARA POSAÇËRISHT OSE TË PËRSHTATURA PËR FUSHËN E SIGURISË DHE/OSE RENDIT PUBLIK, MATERIALET PËR QËLLIME OPERACIONALE, PËRFSHIRË TEKNOLOGJINË DHE SOFTWARE-t E LIDHURA ME KËTO MALLRA, SI DHE PËR PËRBËRJEN, MËNYRËN E ORGANIZIMIT E TË FUNKSIONIMIT TË KOMISIONIT TË VEÇANTË TË KLASIFIKIMIT TË KËTYRE KONTRATAVE
 
+(Ndryshuar me VKM nr. 256, datë 10.4.2026)
+
+(i përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 5, të ligjit nr. 36/2020, “Për prokurimet në fushën e mbrojtjes dhe të sigurisë”, me propozimin e ministrit të Brendshëm, Këshilli i Ministrave
 
 VENDOSI:
@@ -22,19 +26,21 @@ Objekti dhe qëllimi
 
 1. Objekt i këtij vendimi është:
 
-a) përcaktimi i rregullave që zbatohen nga Ministria e Brendshme për prokurimin e shërbimeve, punëve, pajisjeve/mjeteve të projektuara posaçërisht ose të përshtatura për fushën e sigurisë dhe/ose rendit publik, apo materialet për qëllime operacionale, përfshirë teknologjinë dhe software-t e lidhura me këto mallra, të përjashtuara nga procedurat e prokurimit, sipas legjislacionit në fuqi për prokurimet në fushën e sigurisë dhe/ose rendit publik; 
+a) përcaktimi i rregullave që zbatohen nga Ministria e Punëve të Brendshme për prokurimin e shërbimeve, punëve, pajisjeve/mjeteve të projektuara posaçërisht ose të përshtatura për fushën e sigurisë dhe/ose rendit publik, apo materialet për qëllime operacionale, përfshirë teknologjinë dhe software-t e lidhura me këto mallra, të përjashtuara nga procedurat e prokurimit, sipas legjislacionit në fuqi për prokurimet në fushën e sigurisë dhe/ose rendit publik; 
 
 b) përcaktimi i përbërjes, mënyrës së organizimit dhe të funksionimit të komisionit të veçantë të klasifikimit procedurave, të përcaktuara në shkronjën “a”, të pikës 1, të këtij neni. 
 
-2. Qëllimi i këtij vendimi është që t’u sigurojë Ministrisë së Brendshme, institucioneve të varësisë së saj, si dhe ndërmarrjeve, kapitali i të cilave zotërohet në masën mbi 50 (pesëdhjetë) % nga Ministria e Brendshme, furnizimin me shërbime, punë, pajisje/mjete, të projektuara posaçërisht ose të përshtatura për përdorim në fushën e sigurisë dhe/ose rendit publik apo materiale për qëllime operacionale, përfshirë teknologjinë dhe software-t e lidhura me këto mallra, në mënyrë të tillë që në asnjë moment të mos cenohet operacionaliteti i organeve ligjzbatuese, siguria dhe rendi publik.
+2. Qëllimi i këtij vendimi është që t’u sigurojë Ministrisë së Punëve të Brendshme, institucioneve të varësisë së saj, si dhe ndërmarrjeve, kapitali i të cilave zotërohet në masën mbi 50 (pesëdhjetë) % nga Ministria e Punëve të Brendshme, furnizimin me shërbime, punë, pajisje/mjete, të projektuara posaçërisht ose të përshtatura për përdorim në fushën e sigurisë dhe/ose rendit publik apo materiale për qëllime operacionale, përfshirë teknologjinë dhe software-t e lidhura me këto mallra, në mënyrë të tillë që në asnjë moment të mos cenohet operacionaliteti i organeve ligjzbatuese, siguria dhe rendi publik.
 
 Neni 2
 
 Përkufizime
 
+(Shtuar shkronja “ç” në pikën 4, ndryshuar pika 25 me VKM nr. 256, datë 10.4.2026)
+
 Për qëllim të këtij vendimi, termat e mëposhtëm kanë këto kuptime:
 
-1. “Autoritet kontraktor”, Ministria e Brendshme dhe organet e saj të varësisë ose shoqëri tregtare, ku Ministria e Brendshme zotëron më shumë se 50 (pesëdhjetë) % të aksioneve ose kuotave. 
+1. “Autoritet kontraktor”, Ministria e Punëve të Brendshme dhe organet e saj të varësisë ose shoqëri tregtare, ku Ministria e Punëve të Brendshme zotëron më shumë se 50 (pesëdhjetë) % të aksioneve ose kuotave. 
 
 2. “Dokumentet e tenderit”, dokumentet që autoriteti kontraktor vë në dispozicion të kandidatëve dhe ofertuesve të mundshëm për përgatitjen e ofertave, sipas përcaktimeve të bëra në këtë vendim.
 
@@ -46,7 +52,9 @@ a) çdo vlerë monetare e buxhetit të shtetit, e përcaktuar për përdorim në
 
 b) fonde ndihmë ose kredi, të dhëna nga donatorë të huaj, sipas një marrëveshjeje ndërkombëtare;
 
-c) të ardhura nga shteti, strukturat e tjera të Ministrisë së Brendshme.
+c) të ardhura nga shteti, strukturat e tjera të Ministrisë së Punëve të Brendshme;
+
+ç) të ardhura të krijuara nga tarifat për shërbime të ofruara nga strukturat e sigurisë dhe rendit publik ose shërbime të ofruara nga subjekte private të kontraktuara nga strukturat e sigurisë dhe rendit publik.
 
 5. “Grupi i punës për hartimin e projektit”, një strukturë e përkohshme, e ngritur rast pas rasti, me urdhër të autoritetit kontraktor, me qëllim hartimin e projektit.
 
@@ -56,7 +64,7 @@ c) të ardhura nga shteti, strukturat e tjera të Ministrisë së Brendshme.
 
 8. “Kërkesë e veçantë”, kërkesa që i dërgohet një vendi të NATO-s ose agjencie të NATO-s nga autoriteti kontraktor, për realizimin e procedurës së prokurimit “shtet me shtet”, në rastin kur nuk ka një marrëveshje të bashkëpunimit në fushën e sigurisë dhe/ose të rendit publik apo marrëveshje teknike përkatëse.
 
-9. “Kërkesë për prokurim”, dokumenti i përgatitur nga struktura përgjegjëse në Ministrinë e Brendshme ose nga titullari i organit të varësisë ose shoqërisë aksionare, në të cilin përshkruhen karakteristikat teknike kryesore të mallit, shërbimit ose punës. Kërkesa për prokurim nuk përmban vlera financiare të mallrave apo të shërbimeve.
+9. “Kërkesë për prokurim”, dokumenti i përgatitur nga struktura përgjegjëse në Ministrinë e Punëve të Brendshme ose nga titullari i organit të varësisë ose shoqërisë aksionare, në të cilin përshkruhen karakteristikat teknike kryesore të mallit, shërbimit ose punës. Kërkesa për prokurim nuk përmban vlera financiare të mallrave apo të shërbimeve.
 
 10. “Komunikimi me shkrim”, çdo shprehje që përbëhet nga fjalë ose shifra, të cilat mund të lexohen, të kopjohen e të komunikohen, përfshirë edhe informacionet, që transmetohen ose ruhen në mënyrë elektronike.
 
@@ -76,9 +84,9 @@ Kontrata, që ka si objekt mallra dhe shërbime, vlerësohet si “kontratë sh�
 
 17. “Ofertues”, operatori ekonomik, vendës ose i huaj ose një strukturë shtetërore e vendeve anëtare të NATO-s, agjenci e NATO-s, që paraqet një ofertë në një prokurim të kategorizuar, sipas procedurës së përshkruar në këtë vendim.
 
-18. “Procedura ‘shtet me shtet’”, procedura përmes së cilës Ministria e Brendshme blen direkt mallra dhe shërbime nga një vend anëtar i NATO-s ose nga një agjenci e NATO-s.
+18. “Procedura ‘shtet me shtet’”, procedura përmes së cilës Ministria e Punëve të Brendshme blen direkt mallra dhe shërbime nga një vend anëtar i NATO-s ose nga një agjenci e NATO-s.
 
-Do të konsiderohet procedurë prokurimi “shtet me shtet” dhe në rastet kur Ministria e Brendshme autorizon vendin anëtar të NATO-s ose agjencinë e NATO-s për të kryer procedurat e prokurimit në interes të saj, nëpërmjet marrëveshjeve teknike ose nëpërmjet një kërkese të veçantë për prokurim.
+Do të konsiderohet procedurë prokurimi “shtet me shtet” dhe në rastet kur Ministria e Punëve të Brendshme autorizon vendin anëtar të NATO-s ose agjencinë e NATO-s për të kryer procedurat e prokurimit në interes të saj, nëpërmjet marrëveshjeve teknike ose nëpërmjet një kërkese të veçantë për prokurim.
 
 19. “Procedure konkurruese”, procedura përmes së cilës mund të marrin pjesë vetëm operatorët ekonomikë të përzgjedhur nga autoriteti kontraktor.
 
@@ -92,7 +100,11 @@ Do të konsiderohet procedurë prokurimi “shtet me shtet” dhe në rastet kur
 
 24. “Shpallje e fituesit”, komunikimi me shkrim i autoritetit kontraktor me operatorin ekonomik, të vlerësuar të suksesshëm në përfundim të procedurave të prokurimit, sipas këtyre rregullave.
 
-25. “Titullari i autoritetit kontraktor”, ministri i Brendshëm ose një person i autorizuar prej tij.
+25. “Titullari i autoritetit kontraktor” është sipas rastit:
+
+a) Ministri i Punëve të Brendshme.
+
+b) Drejtori i Përgjithshëm i institucionit të varësisë së Ministrisë së Punëve të Brendshme ose administratori i shoqërisë tregtare ku Ministria e Punëve të Brendshme zotëron më shumë se 50 (pesëdhjetë) % të aksioneve ose kuotave.
 
 KREU II
 
@@ -130,7 +142,7 @@ Neni 5
 
 Struktura e gjenerimit të kërkesës për prokurim
 
-1. Struktura e gjenerimit të kërkesës për prokurim është struktura e Ministrisë së Brendshme ose organet në varësi të saj ose shoqërive tregtare, kapitali i të cilave zotërohet në masën mbi 50 (pesëdhjetë) % nga Ministria e Brendshme, që, pas studimit, nëpërmjet titullarit të tyre, gjenerojnë kërkesën për prokurim për mallra e shërbime, në mbështetje të plotësimit të misionit dhe detyrave të tyre funksionale. 
+1. Struktura e gjenerimit të kërkesës për prokurim është struktura e Ministrisë së Punëve të Brendshme ose organet në varësi të saj ose shoqërive tregtare, kapitali i të cilave zotërohet në masën mbi 50 (pesëdhjetë) % nga Ministria e Punëve të Brendshme, që, pas studimit, nëpërmjet titullarit të tyre, gjenerojnë kërkesën për prokurim për mallra e shërbime, në mbështetje të plotësimit të misionit dhe detyrave të tyre funksionale. 
 
 2. Struktura gjeneruese e kërkesës për prokurim merr në shqyrtim propozimin për ndryshimet e kërkesës, e cila i është përcjellë nga kryetari i komisionit të veçantë të klasifikimit dhe, pas shqyrtimit e analizimit të saj, bën ndryshimet e nevojshme në kërkesat për prokurim. 
 
@@ -140,7 +152,7 @@ Neni 6
 
 Komisioni i veçantë i klasifikimit
 
-Komisioni i veçantë i klasifikimit është strukturë e ngritur pranë Ministrisë së Brendshme, i cili funksionon sipas përcaktimeve të pjesës së dytë të këtij vendimi dhe ka për qëllim klasifikimin ose jo të kërkesave për prokurim, sipas këtij vendimi, të hartuara nga strukturat gjeneruese, si kërkesa për prokurimin e mallrave, punëve dhe shërbimeve, publikimi i të dhënave të të cilave do të cenonte interesat e ligjshëm publikë në fushën e rendit dhe sigurisë publike.
+Komisioni i veçantë i klasifikimit është strukturë e ngritur pranë Ministrisë së Punëve të Brendshme, i cili funksionon sipas përcaktimeve të pjesës së dytë të këtij vendimi dhe ka për qëllim klasifikimin ose jo të kërkesave për prokurim, sipas këtij vendimi, të hartuara nga strukturat gjeneruese, si kërkesa për prokurimin e mallrave, punëve dhe shërbimeve, publikimi i të dhënave të të cilave do të cenonte interesat e ligjshëm publikë në fushën e rendit dhe sigurisë publike.
 
 Neni 7
 
@@ -148,7 +160,7 @@ Grupi i punës për hartimin e projektit
 
 1. Grupi i punës për hartimin e projektit ngrihet me urdhër të titullarit të autoritetit kontraktor, i cili përbëhet nga jo më pak se 3 (tre) persona dhe ka në përbërje ekspertë të fushës, përfaqësues të strukturës përkatëse për projektet dhe të strukturës gjeneruese të kërkesës për prokurim.
 
-2. Grupi i punës për hartimin e projektit mund të thërrasë për ekspertizë përfaqësues të strukturave të tjera të Ministrisë së Brendshme dhe organeve të varësisë së këtyre ministrive.
+2. Grupi i punës për hartimin e projektit mund të thërrasë për ekspertizë përfaqësues të strukturave të tjera të Ministrisë së Punëve të Brendshme dhe organeve të varësisë së këtyre ministrive.
 
 3. Grupi i punës është e vetmja strukturë përgjegjëse për përzgjedhjen e operatorëve që do të ftohen dhe përcaktimin e numrit të tyre, duke gjykuar nga domosdoshmëria e sigurimit të mallrave dhe shërbimeve, kompleksitetit dhe/ose konfidencialitetit të projektit. 
 
@@ -172,7 +184,9 @@ Neni 8
 
 Njësia e prokurimit
 
-1. Njësia e prokurimit është strukturë e përkohshme që ngrihet me urdhër të ministrit të Brendshëm, me qëllim realizimin e procesit të prokurimit, rast pas rasti, dhe përbëhet nga jo më pak se 3 (tre) persona, ku, të paktën, njëri është specialist i fushës. 
+(Ndryshuar emërtim në pikën 1 me VKM nr. 256, datë 10.4.2026)
+
+1. Njësia e prokurimit është strukturë e përkohshme që ngrihet me urdhër të titullarit të autoritetit kontraktor, me qëllim realizimin e procesit të prokurimit, rast pas rasti, dhe përbëhet nga jo më pak se 3 (tre) persona, ku, të paktën, njëri është specialist i fushës. 
 
 2. Njësia e prokurimit përgjigjet për administrimin e procesit të prokurimit të mallrave dhe të shërbimeve në përputhje me rregullat e përcaktuara në këtë vendim. 
 
@@ -180,7 +194,9 @@ Neni 9
 
 Komisioni i vlerësimit të ofertave
 
-1. Komisioni i vlerësimit të ofertave është strukturë e përkohshme, që ngrihet me urdhër të ministrit të Brendshëm, rast pas rasti, dhe përbëhet nga jo më pak se 3 (tre) persona, ku të paktën, njëri është specialist i fushës.
+(Ndryshuar emërtim në pikën 1 me VKM nr. 256, datë 10.4.2026)
+
+1. Komisioni i vlerësimit të ofertave është strukturë e përkohshme, që ngrihet me urdhër të titullarit të autoritetit kontraktor, rast pas rasti, dhe përbëhet nga jo më pak se 3 (tre) persona, ku të paktën, njëri është specialist i fushës.
 
 2. Komisioni i vlerësimit të ofertave është përgjegjës vetëm për shqyrtimin dhe vlerësimin e ofertave. Në komisionin e vlerësimit të ofertave nuk mund të caktohen anëtarët e njësisë së prokurimit, të grupit të punës për hartimin e projektit dhe personat që kanë përgatitur kërkesën për prokurim. 
 
@@ -192,7 +208,9 @@ Neni 10
 
 Komisioni i negocimit të kontratës
 
-1. Komisioni i negocimit të kontratës është strukturë që ngrihet rast pas rasti, me urdhër të autoritetit kontraktor dhe përbëhet nga jo më pak se 3 (tre) persona, ku të paktën, njëri është specialist i fushës dhe përgjigjet për hartimin e projektkontratës, negocimin e kushteve të saj me operatorin ekonomik të shpallur fitues dhe ndjekjen e të gjitha procedurave ligjore, deri në nënshkrimin e saj. 
+(Shtuar fjali në fund të pikës 1 me VKM nr. 256, datë 10.4.2026)
+
+1. Komisioni i negocimit të kontratës është strukturë që ngrihet rast pas rasti, me urdhër të autoritetit kontraktor dhe përbëhet nga jo më pak se 3 (tre) persona, ku të paktën, njëri është specialist i fushës dhe përgjigjet për hartimin e projektkontratës, negocimin e kushteve të saj me operatorin ekonomik të shpallur fitues dhe ndjekjen e të gjitha procedurave ligjore, deri në nënshkrimin e saj. Komisioni i negocimit negocion klauzola specifike kontraktore, në përputhje me natyrën teknike dhe operacionale të projektit.
 
 2. Në komisionin e negocimit të kontratës nuk mund të caktohen anëtarët e komisionit të vlerësimit të ofertave.
 
@@ -204,11 +222,27 @@ Neni 11
 
 Klasifikimi i kontratave
 
+(Shtuar pikat 4-6 me VKM nr. 256, datë 10.4.2026)
+
 1. Kontratat për prokurimin e punëve, mallrave dhe të shërbimeve, sipas përcaktimit të bërë në këtë vendim, klasifikohen si kontrata të një rëndësie të veçantë, në kontrata njëvjeçare dhe në kontrata shumëvjeçare.
 
 2. Kontrata njëvjeçare janë kontratat, të cilat kërkojnë financim vetëm në 1 (një) vit financiar dhe miratohen nga autoriteti kontraktor.
 
-3. Kontratat shumëvjeçare janë kontratat, financimi i të cilave shtrihet në më shumë se 1 (një) vit financiar, realizimi i të cilave kryhet brenda një afati jo më shumë se 4 (katër) vjet, dhe miratohen nga autoriteti kontraktor;
+3. Kontratat shumëvjeçare janë kontratat, financimi i të cilave shtrihet në më shumë se 1 (një) vit financiar, realizimi i të cilave kryhet brenda një afati jo më shumë se 4 (katër) vjet, dhe miratohen nga autoriteti kontraktor.
+
+4. Për projekte teknologjike, sisteme inteligjence dhe shërbime të vazhdueshme, të cilat financohen nga të ardhura të krijuara nga tarifa që paguhet për shërbimin dhe nuk mbështeten nga buxheti i shtetit, lejohet lidhja e kontratave afatgjata me faza implementimi dhe mirëmbajtjeje. Në këtë rast, kohëzgjatja përcaktohet nga titullari i autoritetit kontraktor, sipas natyrës së projektit/shërbimit ose bazuar në projeksionin e të ardhurave, për një periudhë deri në 7 (shtatë) vjet.
+
+5. Kontratat shumëvjeçare, që lidhen sipas pikës 4, financohen tërësisht nga të ardhura tarifore, që nuk krijojnë detyrime të drejtpërdrejta ose të tërthorta ndaj buxhetit të shtetit. Autoriteti kontraktor duhet:
+
+a) të hartojë projeksione shumëvjeçare të të ardhurave dhe kostove, në përputhje me legjislacionin në fuqi për menaxhimin e sistemit buxhetor; 
+
+b) të dokumentojë që struktura tarifore siguron mbulim të plotë të kostove gjatë gjithë periudhës së kontratës;
+
+c) të deklarojë dhe të regjistrojë angazhimin financiar në sistemet përkatëse buxhetore;
+
+ç) të garantojë se kontrata nuk krijon detyrime kontingjente, të nënkuptuara ose kërkesa për fonde nga buxheti i shtetit.
+
+6. Autoriteti kontraktor është përgjegjës për plotësimin e detyrimeve të raportimit financiar dhe shmangien e krijimit të detyrimeve të prapambetura, sipas legjislacionit në fuqi.
 
 Neni 12
 
@@ -252,6 +286,8 @@ Neni 14
 
 Dokumentet e tenderit
 
+(Shtuar fjali në shkronjën “gj” të pikës 2 me VKM nr. 256, datë 10.4.2026)
+
 1. Njësia e prokurimit harton dokumentet e tenderit, sipas llojit të procedurës së prokurimit. Dokumentet e tenderit minimalisht duhet të përfshijnë: 
 
 a) informacionin e përgjithshëm; 
@@ -283,6 +319,8 @@ f) formularin e skualifikimit të ofertuesve/kandidatëve;
 g) formularin e ankesës; 
 
 gj) kushtet e përgjithshme dhe kushtet e veçanta të kontratës.
+
+Kushtet e kontratës mund të përfshijnë klauzola specifike për fazat e implementimit, mirëmbajtjen dhe përditësimin, pagesa të kushtëzuara nga performanca dhe zgjatjen e kontratës.
 
 Dokumentet e mësipërme nuk aplikohen në rastin e procedurës së prokurimit “shtet me shtet”.
 
@@ -548,11 +586,11 @@ b) Kur, në përgjigje të kërkesës për çmim dhe disponueshmëri, adresuar t
 
 c) Në rast se mallrat, shërbimet ose punët e kërkuara janë vijim i investimeve të mëparshme të pajisjeve/mjeteve, të projektuara posaçërisht ose të përshtatura për fushën e sigurisë dhe/ose rendit publik, përfshirë teknologjinë dhe software-t e lidhura me këto kërkesa. Në këtë rast, afati i përdorimit të atyre ekzistuese nuk duhet të ketë kaluar 50 (pesëdhjetë) % të jetëgjatësisë së tij, të përcaktuar sipas legjislacionit në fuqi. 
 
-ç) Në rast se blerja e mallrave është e njëjtë me ato ekzistuese në përdorim të organeve në varësi të Ministrisë së Brendshme dhe ndryshimi i furnizimit me tipa të ndryshëm do të rezultojë me mallra me karakteristika të ndryshme teknike, që çojnë në vështirësi operacionale, teknike, mirëmbajtjeje dhe trajnimi kompleks të personelit, duke cenuar në këtë mënyrë unifikimin e mallrave.
+ç) Në rast se blerja e mallrave është e njëjtë me ato ekzistuese në përdorim të organeve në varësi të Ministrisë së Punëve të Brendshme dhe ndryshimi i furnizimit me tipa të ndryshëm do të rezultojë me mallra me karakteristika të ndryshme teknike, që çojnë në vështirësi operacionale, teknike, mirëmbajtjeje dhe trajnimi kompleks të personelit, duke cenuar në këtë mënyrë unifikimin e mallrave.
 
 d) Në rastin e shtesës së kontratave të prokurimit të punëve, mallrave ose shërbimeve, nëse nevoja për mallra/shërbime/punë shtesë është shkaktuar nga rrethana të paparashikuara, që nuk varen nga autoriteti kontraktor dhe që nuk mund të ndahen teknikisht ose ekonomikisht nga kontrata fillestare, pa sjellë ndikime negative ose kosto të mëtejshme për autoritetin kontraktor, por që janë të nevojshme për përfundimin e kontratës fillestare. Shtesa e kontratës nuk mund të tejkalojë 20 (njëzet) % të vlerës së kontratës fillestare.
 
-dh) Në raste urgjencash, kur cenohet niveli i gatishmërisë dhe operacionalitetit të strukturave të varësisë së Ministrisë së Brendshme.
+dh) Në raste urgjencash, kur cenohet niveli i gatishmërisë dhe operacionalitetit të strukturave të varësisë së Ministrisë së Punëve të Brendshme.
 
 3. Për caktimin e afateve për dorëzimin e ofertës, autoriteti kontraktor merr në konsideratë kompleksitetin e objektit të prokurimit dhe kohën e nevojshme për realizimin e kontratës.
 
@@ -576,13 +614,13 @@ b) nëpërmjet dhënies së autorizimit një vendi anëtar të NATO-s ose agjenc
 
 3. Procedura e drejtpërdrejtë me vendin anëtar ose agjencinë e NATO-s është procedura përmes së cilës autoriteti kontraktor prokuron mallra dhe shërbime te një ministri homologe ose struktura vartëse të saj ose agjenci e NATO-s, me kushtet, çmimet e standardet që ato zbatojnë për strukturat e tyre. 
 
-4. Procedura me dhënie autorizimi një vendi/agjencie të NATO-s është procedura përmes së cilës autoriteti kontraktor autorizon një ministri homologe ose strukturë vartëse të saj apo dhe një agjenci të NATO-s për të realizuar prokurimin në interes të organeve të varësisë së Ministrisë së Brendshme, me procedurën, kushtet, çmimet e standardet, që ato zbatojnë për strukturat e tyre të sigurisë. Në këtë rast, autoriteti kontraktor transferon paraprakisht fondin financiar te shteti përkatës ose agjencia e NATO-s, pas autorizimit të marrë nga ministria përgjegjëse për financat. 
+4. Procedura me dhënie autorizimi një vendi/agjencie të NATO-s është procedura përmes së cilës autoriteti kontraktor autorizon një ministri homologe ose strukturë vartëse të saj apo dhe një agjenci të NATO-s për të realizuar prokurimin në interes të organeve të varësisë së Ministrisë së Punëve të Brendshme, me procedurën, kushtet, çmimet e standardet, që ato zbatojnë për strukturat e tyre të sigurisë. Në këtë rast, autoriteti kontraktor transferon paraprakisht fondin financiar te shteti përkatës ose agjencia e NATO-s, pas autorizimit të marrë nga ministria përgjegjëse për financat. 
 
 5. Procedurat “shtet me shtet” mund të bëhen me kontrata njëvjeçare ose kontrata disavjeçare. 
 
 6. Procedura e prokurimit “shtet me shtet” përfshin nënshkrimin e marrëveshjes teknike ose, në mungesë të saj, dërgimin e kërkesës së veçantë vendit/agjencisë së NATO-s, të cilave u delegohet realizimi i procedurës së prokurimit, sipas sistemit të tyre të prokurimit. Ky lloj prokurimi mund të realizohet në këto raste:
 
-a) kur testimi i mallit të caktuar kërkon analizë teknike komplekse dhe organet e varësisë së Ministrisë së Brendshme nuk kanë mundësi ta kryejnë atë;
+a) kur testimi i mallit të caktuar kërkon analizë teknike komplekse dhe organet e varësisë së Ministrisë së Punëve të Brendshme nuk kanë mundësi ta kryejnë atë;
 
 b) kur nuk ka një ekspertizë të mjaftueshme/nevojshme për objektin e prokurimit;
 
@@ -782,7 +820,7 @@ b) negocion marrëveshjeve teknike ose kërkesën e veçantë për prokurim, ku 
 
 i. palët;
 
-ii. delegimi i autoritetit për të prokuruar në emër të Ministrisë së Brendshëm dhe/ose institucioneve në varësi;
+ii. delegimi i autoritetit për të prokuruar në emër të Ministrisë së Punëve të Brendshëm dhe/ose institucioneve në varësi;
 
 iii. objekti i prokurimit; 
 
@@ -808,7 +846,7 @@ e) çdo veprim tjetër të nevojshëm.
 
 9. Me përfundimin e afateve/procedurave të ankimit, autoriteti kontraktor njofton operatorin ekonomik të shpallur fitues dhe/ose njoftim anulimi. 
 
-Me përfundimin e afateve/procedurave të ankimit autoritetit kontraktor bën shpalljen e fituesit. Shpallja bëhet në Ministrinë e Brendshëm dhe i njoftohet me shkrim operatorit ekonomik të suksesshëm. 
+Me përfundimin e afateve/procedurave të ankimit autoritetit kontraktor bën shpalljen e fituesit. Shpallja bëhet në Ministrinë e Punëve të Brendshëm dhe i njoftohet me shkrim operatorit ekonomik të suksesshëm. 
 
 10. Autoriteti kontraktor, pas dërgimit të njoftimit të fituesit, fton operatorin ekonomik për negocimin e kontratës. 
 
@@ -926,7 +964,7 @@ Neni 33
 
 Organizimi dhe funksionimi i KVK-së
 
-Komisioni i veçantë i klasifikimit (në vijim “KVK”) organizohet dhe funksionon si një strukturë e posaçme në Ministrinë e Brendshme, me qëllim klasifikimin e kontratave, si kontrata për blerjen e pajisjeve/mjeteve të projektuara posaçërisht ose të përshtatura për fushën e sigurisë dhe/ose rendit publik, punë/mallra/shërbime, si dhe materialet për qëllime operacionale, përfshirë teknologjinë dhe software-t e lidhura me këto mallra.
+Komisioni i veçantë i klasifikimit (në vijim “KVK”) organizohet dhe funksionon si një strukturë e posaçme në Ministrinë e Punëve të Brendshme, me qëllim klasifikimin e kontratave, si kontrata për blerjen e pajisjeve/mjeteve të projektuara posaçërisht ose të përshtatura për fushën e sigurisë dhe/ose rendit publik, punë/mallra/shërbime, si dhe materialet për qëllime operacionale, përfshirë teknologjinë dhe software-t e lidhura me këto mallra.
 
 Neni 34
 
@@ -950,13 +988,13 @@ Përbërja e KVK-së
 
 1. Komisioni i veçantë i klasifikimit do të përbëhet nga 3 (tre) anëtarë, ndër të cilët 2 (dy) janë anëtarë të përhershëm, si më poshtë vijon:
 
-a) drejtori i përgjithshëm, i cili mbulon çështjet ekonomike dhe të shërbimeve mbështetëse në Ministrinë e Brendshme, i cili kryen rolin e kryetarit (i përhershëm);
+a) drejtori i përgjithshëm, i cili mbulon çështjet ekonomike dhe të shërbimeve mbështetëse në Ministrinë e Punëve të Brendshme, i cili kryen rolin e kryetarit (i përhershëm);
 
-b) drejtori, i cili mbulon çështjet e kuadrit ligjor në Ministrinë e Brendshme (i përhershëm);
+b) drejtori, i cili mbulon çështjet e kuadrit ligjor në Ministrinë e Punëve të Brendshme (i përhershëm);
 
 c) një përfaqësues nga struktura propozuese e projektit, sipas rastit.
 
-2. Në mungesë të një prej anëtarëve të përhershëm, për shkaqe objektive, ministri i Brendshëm cakton me urdhër zëvendësuesin.
+2. Në mungesë të një prej anëtarëve të përhershëm, për shkaqe objektive, ministri i Punëve të Brendshëm cakton me urdhër zëvendësuesin.
 
 Neni 36
 
@@ -982,7 +1020,7 @@ Mënyra e funksionimit të KVK-së
 
 10. Vendimi duhet të jetë i argumentuar dhe i bazuar, duke përmendur në detaje referencat që kanë shërbyer si bazë për marrjen e këtij vendimi.
 
-11. Vendimet e KVK-së, së bashku me procesverbalin e mbledhjes, i përcillen drejtpërdrejt ministrit të Brendshëm, i cili vendos kalimin ose jo për vijimin e procedurave të mëtejshme nga struktura përgjegjëse për prokurimin.
+11. Vendimet e KVK-së, së bashku me procesverbalin e mbledhjes, i përcillen drejtpërdrejt ministrit të Punëve të Brendshëm, i cili vendos kalimin ose jo për vijimin e procedurave të mëtejshme nga struktura përgjegjëse për prokurimin.
 
 12. Kërkesat, që nuk klasifikohen, sipas shkronjës “a”, të pikës 1, të nenit 5, të ligjit nr. 36/2020, i rikthehen strukturës që ka bërë kërkesën për prokurim.
 
@@ -1008,7 +1046,7 @@ d) voton i fundit për miratimin e çdo kërkese apo projekti;
 
 dh) nënshkruan vendimin dhe procesverbalin e mbledhjes;
 
-e) paraqet drejtpërdrejt te ministri i Brendshëm të gjitha vendimet që merren nga KVK-ja dhe procesverbalet e mbledhjeve;
+e) paraqet drejtpërdrejt te ministri i Punëve të Brendshëm të gjitha vendimet që merren nga KVK-ja dhe procesverbalet e mbledhjeve;
 
 ë) raporton përpara ministrit, sipas kërkesave të këtij të fundit.
 
@@ -1058,7 +1096,7 @@ DISPOZITA TË FUNDIT
 
 Neni 41
 
-Ngarkohet Ministria e Brendshme për zbatimin e këtij vendimi.
+Ngarkohet Ministria e Punëve të Brendshme për zbatimin e këtij vendimi.
 
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
 
