@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 345, datë 24.4.2013](https://qbz.gov.al/api/v1/acts/65369); [QBZ versions](https://qbz.gov.al/api/v1/acts/65369/versions).
 
-Status of this text: `official consolidated version 2`, applying from 2020-01-30; after QBZ act 21093 (nr. 76).
+Status of this text: `official consolidated version 3`, applying from 2026-04-10; after QBZ act 32999 (nr. 251).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
