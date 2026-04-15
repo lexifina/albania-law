@@ -1,0 +1,1 @@
+2. Regjistri i kontratave për ushtrimin e aktivitetit të akuakulturës krijohet, ruhet, mirëmbahet dhe përditësohet nga drejtoria përgjegjëse në ministri për hartimin e politikave në akuakulturë, sipas modelit të përcaktuar në shtojcën nr. 1, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
