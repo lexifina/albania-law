@@ -1,4 +1,4 @@
-4. Ministria e Mbrojtjes të përballojë, për përfaqësuesit ushtarak pjesëmarrës në këtë operacion, shpenzimet për:
+4. Ministria e Mbrojtjes të përballojë, për personelin pjesëmarrës në këtë operacion, shpenzimet për:
 a) dieta për ditët e qëndrimit, në masën 12 000 (dymbëdhjetë mijë) lekë në ditë, përveç pagës mujore;
 b) sigurimin e jetës;
 c) siguracion shëndetësor;
