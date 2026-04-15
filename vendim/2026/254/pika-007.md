@@ -1,0 +1,1 @@
+7. Shoqëria “KAYO” sh.a. siguron nga pala tjetër gjatë negociatave se minimalisht 30% të këshillit drejtues ose këshillit mbikëqyrës të shoqërisë, që do të krijohet, në rast se forma e shoqërisë parashikon këto organe drejtuese/mbikëqyrëse, do të emërohen nga shoqëria “KAYO” sh.a.

@@ -1,0 +1,1 @@
+5. Shoqëria “KAYO” sh.a. siguron nga pala tjetër gjatë negociatave se, përpos parashikimeve të tjera, objekti i aktivitetit të shoqërisë tregtare, që do të krijohet, do të përmbajë montimin, prodhimin, riparimin dhe tregtimin e mjeteve fluturuese pa pilot.

@@ -1,0 +1,1 @@
+8. Statuti i shoqërisë, që do të krijohet, përmban dispozitat për të drejtën e vetos, që gëzon shoqëria “KAYO” sh.a, në bazë të pikës 9, të nenit 10, të ligjit nr. 88/2024, “Për krijimin e shoqërisë shtetërore për prodhimin dhe tregtimin e armëve, municioneve, pajisjeve dhe teknologjive ushtarake”.
