@@ -2,9 +2,8 @@
 MBI PERFORMANCËN E METODAVE ANALITIKE PËR MBETJET E SUBSTANCAVE FARMAKOLOGJIKISHT AKTIVE TË PËRDORURA NË KAFSHËT QË PRODHOJNË USHQIM, INTERPRETIMIN E REZULTATEVE, SI DHE METODAT QË DO TË PËRDOREN PËR MARRJEN E MOSTRAVE
 Neni 1
 Lënda dhe qëllimi
-Ky urdhër përcakton rregulla në lidhje me metodat e analizave të përdorura për marrjen e mostrave dhe për analizat laboratorike që i përkasin mbetjeve të substancave farmakologjikisht aktive në kafshëve të gjalla të destinuara për prodhimin e ushqimit, pjesët e trupit të tyre dhe lëngje ve trupore e tyre, jashtëqitjeve, indeve në produktet me origjinë shtazore, nënproduktet me origjinë shtazore, ushqimin për kafshë dhe ujin.
-Ky urdhër gjithashtu përcakton rregullat për interpretimin e rezultateve analitike të këtyre analizave laboratorike.
-Ky urdhër zbatohet për kontrollet që synojnë verifikimin e përputhshmërisë me kërkesat ligjore për praninë e mbetjeve të substancave farmakologjikisht aktive.
+1. Kjo rregullore përcakton rregulla në lidhje me metodat e analizave të përdorura për marrjen e kampioneve dhe për analizat laboratorike që u përkasin mbetjeve të substancave farmakologjikisht aktive, në kuadër të Planit Kombëtar të përcaktuar në nenin 3 të rregullores “Për miratimin e rregullave për praktikat uniforme në kryerjen e kontrolleve mbi përdorimin e substancave farmakologjikisht aktive të autorizuara si PMV ose si aditivë për ushqimet e kafshëve dhe mbetjeve të tyre, mbi substancat farmakologjikisht aktive të ndaluara, ose të paautorizuara, të përdorura në kafshët, që prodhojnë ushqim, mbetjet e tyre, si dhe për përmbajtjen specifike të planeve të kontrollit dhe mënyrat e hartimit të tyre, për zbatimin e planit kombëtar të monitorimit të mbetjeve”, të miratuar me urdhrin nr. 122, datë 6.3.2023, të ndryshuar.
+2. Kjo rregullore zbatohet për kontrollet që synojnë verifikimin e përputhshmërisë me kërkesat ligjore për praninë e mbetjeve të substancave farmakologjikisht aktive.
 Neni 2
 Përkufizimet
 Për qëllimet e këtij urdhri, përkufizimet në urdhrin nr. 123, datë 6.3.2023 “Për miratimin e Rregullores “Mbi rregullat që duhet të zbatohen për rastet e dyshuara ose të konstatuara në mospërputhshmëri me rregullat kombëtare të zbatueshme për përdorimin e substancave farmakologjikisht aktive të autorizuara në produktet mjekësore veterinare dhe mbetjeve të tyre ose aditivëve për ushqimin për kafshëve dhe përdorimin e substancave farmakologjike aktive të ndaluara ose të paautorizuara dhe mbetjeve të tyre”, urdhrin nr. 134, datë 10.3.2023 “Për miratimin e Rregullores “Mbi pikat e referencës për veprim për substancat farmakologjikisht aktive të palejuara të pranishme në ushqimet me origjinë shtazore”, urdhrin nr. 363, datë 3.1.2013, “Për miratimin e rregullores “Mbi procedurat për vendosjen e kufijve të mbetjeve të lëndëve aktive farmakologjike në ushqimet me origjinë shtazore”
@@ -52,7 +51,7 @@ c) një përqendrim aq i ulët sa mund të arrihet analitikisht për substancën
 33. “material reference” është një material mjaftueshëm homogjen dhe i qëndrueshëm në lidhje me një ose më shumë veti të specifikuara, i cili është vërtetuar se është i përshtatshëm për përdorimin e caktuar në një proces matjeje ose në ekzaminimin e materialit nominal;
 34. “efekti relativ i matricës” nënkupton ndryshimet në përgjigjet analitike midis një standardi të tretur në tretës dhe atij të tretur në mostër të fortifikuar (ndotur) në fund të procesit analitik i korrektuar me standard të brendshëm;
 35. “përsëritshmëria” nënkupton përpikërinë në kushtet, ku rezultatet e pavarura të testit merren me të njëjtën metodë, në të njëjtat matrica, në të njëjtin laborator, nga i njëjti operator duke përdorur të njëjtat pajisje brenda intervaleve të shkurtra kohore;
-36. “riprodhueshmëria” nënkupton përpikërinë në kushte, ku rezultatet e testit merren me të njëjtën metodë, në të njëjtën matricë, në laboratorë të ndryshëm, me operatorë të ndryshëm që përdorin pajisje të ndryshme;
+36. “riprodhueshmëria” është saktësia në kushte në të cilat rezultatet e testeve përftohen me të njëjtën metodë, në të njëjtën matricë, në laboratorë të ndryshëm, me operatorë të ndryshëm, që përdorin aparatura të ndryshme;
 37. “qëndrueshmëria” nënkupton ndjeshmërinë e një metode analitike ndaj ndryshimeve të kushteve të eksperimentit në të cilat metoda mund të aplikohet siç është ose me modifikime të vogla të specifikuara;
 38. “metodë screening” nënkupton një metodë që përdoret për ekzaminimin e një substance ose klase substancash në nivelin e dëshiruar;
 39. “përqendrimi target i Screening “ (STC) nënkupton përqendrimi më i ulët ose i barabartë me CCβ në të cilin një matje screening e kategorizon kampionin si “Screen Pozitive” pra potencialisht jokonform dhe të orienton drejt kryerjes së një testimi konfirmues;
@@ -63,7 +62,7 @@ c) një përqendrim aq i ulët sa mund të arrihet analitikisht për substancën
 44. “substancë” nënkupton lëndën me përbërje konstante e karakterizuar nga entitetet që e përbëjnë atë dhe nga vetitë fizike të caktuara;
 45. “mostër laboratori” nënkupton sasinë e materialit të nxjerrë nga kampioni mbi të cilin kryhet testi ose vëzhgimi;
 46. “vërtetësi” nënkupton afërsinë e rezultateve ndërmjet vlerës mesatare të marrë nga një seri e madhe rezultatesh testimi dhe një vlere referimi të pranuar;
-47. “njësi” nënkupton ato njësi të përshkruara në ISO 80000 dhe sipas legjislacionit në fuqi për këtë;
+47. “njësi” nënkupton ato njësi të përshkruara në ISO 80000-1:2022 dhe sipas legjislacionit në fuqi për sa u përket njësive të matjes;
 48. “validim” nënkupton demonstrimin me anë të testimit dhe sigurimin e provave efektive që kërkesat e veçanta të një përdorimi specifik të kërkuar janë përmbushur, nëpërmjet një studimi të vetëm laboratorik ose një studimi i përbashkët;
 49. “riprodhueshmëria brenda laboratorit” ose “përpikëria në kushtet e riprodhueshmërisë” nënkupton përpikërinë e matjeve në një laborator në kushtet e këtij.
 Neni 3
@@ -72,7 +71,8 @@ ISUV siguron që mostrat e marra në përputhje me Planin Kombëtar të Kontroll
 1. Të jenë të dokumentuara në udhëzimet e provës, mundësisht sipas shtojcave të ISO 78-2:1999 Kimi-Layouts për standardet - Pjesa 2: Metodat e analizës kimike.
 2. Ato janë në përputhje me kriteret e performancës dhe kërkesat e tjera për metodat analitike të përcaktuara në kapitullin 1 të aneksit I të këtij urdhri;
 3. Ato janë vërtetuar në përputhje me kërkesat e përcaktuara në kapitujt 2 dhe 4 të aneksit I të këtij urdhri;
-4. Ato lejojnë zbatimin e pikave të referencës për veprim të përcaktuara në udhëzim nr. 12, datë 13.7.2022 “Mbi përcaktimin e niveleve maksimale të pranisë së koksidiostatikëve dhe histomonostatikëve në qumësht, mëlçi, veshka, si dhe ushqime të tjera” dhe urdhrin nr. 609, datë 28.12.2022 , Për disa shtesa dhe ndryshime në urdhrin nr. 139/1, datë 7.4.2017, “Për substancat aktive farmakologjike dhe klasifikimin e tyre në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore” i përditësuar.
+4. Ato lejojnë zbatimin e pikave të referencës për veprim të përcaktuara në urdhrin nr. 134, datë 10.3.2023, “Për miratimin e rregullores ’Mbi pikat e referencës për veprim për substancat farmakologjikisht aktive të palejuara të pranishme në ushqimet me origjinë shtazore’”, zbulimin e pranisë se substancave të ndaluara dhe të paautorizuara dhe zbatimin e niveleve maksimale të përcaktuara nga legjislacioni në fuqi, dhe në udhëzimin nr. 12, datë 13.7.2022, “Mbi përcaktimin e niveleve maksimale të pranisë së koksidiostatikëve dhe histomonostatikëve në qumësht, mëlçi, veshka, si dhe ushqime të tjera”, si dhe limiteve maksimale (MRL) të përcaktuara në urdhrin nr. 991, datë 13.10.2025, “Mbi substancat farmakologjikisht aktive dhe klasifikimin e tyre, në lidhje me kufijtë maksimalë të mbetjeve në produktet ushqimore me origjinë shtazore”.
+Në rastet kur gjatë validimit vërehen mospërputhje me kërkesat e tabelave 1 dhe 2 bashkëlidhur kësaj rregulloreje, ndikimi i këtyre mospërputhjeve mbi rezultatin e validimit analizohet në mënyrë të dokumentuar dhe bëhet i gjurmueshëm.
 Neni 4
 Interpretimi i rezultateve
 1. Rezultati i një analize do të konsiderohet i papajtueshëm kur është i barabartë me kufirin limit për konfirmim (CCα).
@@ -95,11 +95,13 @@ Vetëm ato metoda analitike, për të cilat mund të demonstrohet në një mëny
 Metodat sasiore screening, të përdorura për të dyja screening dhe konfirmatore duhet të plotësojnë të njëjtat kërkesa për saktësinë, diapazonin dhe saktësinë siç përshkruhet në 1.2.2.1 dhe 1.2.2.2.
 1.2 Kërkesat e metodave konfirmuese
 1.2.1 Kërkesat e përgjithshme për metodat konfirmuese
-Për substancat e ndaluara ose të paautorizuara, CCα duhet të jetë aq i ulët sa është e arsyeshme të arrihet. Për substancat e ndaluara ose të paautorizuara, për të cilat është krijuar një RPA sipas urdhrit nr. 134, datë 10.3.2023, CCα do të jetë më e ulët ose e barabartë me pikën e referencës për veprim.
-Për substancat e autorizuara, CCα duhet të jetë më e madhe ose e barabartë, kur është e mundur, me MRL ose ML.
-Për qëllime konfirmimi, vetëm metodat analitike, për të cilat mund të demonstrohet në mënyrë të dokumentuar se ato janë të validuara dhe kanë një gabim në matje (gabim α), që është më i vogël ose i barabartë me 1% për substancat e ndaluara ose të paautorizuar dhe që është më pak ose i barabartë me 5% për substancat e autorizuara, do të përdoren.
-Metodat konfirmuese duhet të japin informacion mbi përbërjen strukturore kimike të analitit. Rrjedhimisht, metodat konfirmuese të bazuara vetëm në analizën kromatografike pa përdorimin e dedektimit të matjes spektrometrike nuk janë të përshtatshme për t’u përdorur si metoda konfirmuese për substancat farmakologjikisht aktive të ndaluara ose të paautorizuara. Në rastin kur matja spektrometrike nuk është e përshtatshme për substanca të autorizuara, mund të përdoren metoda të tjera si HPLC-DAD dhe -FLD, ose një kombinim i tyre.
-Kur kërkohet sipas metodës konfirmuese, një standard i brendshëm i përshtatshëm do t’i shtohet pjesës së testit duke filluar procedurën e ekstraktimit. Në varësi të disponueshmërisë secili izotop i analitit, të cilat janë veçanërisht të përshtatshme për dedektimin mas spektrometrike, ose komponime analoge që janë strukturalisht të lidhura ngushtë me analitin. Kur nuk mund të përdoret asnjë standard i brendshmi përshtatshëm, identifikimi i analitit preferohet të konfirmohet nga ko-kromatografi . Në këtë rast do të merret vetëm një piku, lartësia e pikut (ose sipërfaqja) është ekuivalente me sasinë e analitit të shtuar. Nëse kjo nuk është praktike, do të përdoren standarde të përputhura me matricën ose të fortifikuara me matricë.
+Për substancat e ndaluara ose të paautorizuara, CCα duhet të jetë aq i ulët sa është e arsyeshme të arrihet. Për substancat e ndaluara ose të paautorizuara, për të cilat është përcaktuar një vlerë e referencës për ndërhyrje (RPA), sipas urdhrit nr. 134, datë 10.3.2023, “Për miratimin e rregullores ’Mbi pikat e referencës për veprim për substancat farmakologjikisht aktive të palejuara të pranishme në ushqimet me origjinë shtazore’”, CCα është më e ulët ose e barabartë me vlerën e referencës për veprim.
+Për substancat e autorizuara, CCα duhet të jetë më e madhe ose sa me afër që të jetë e mundshme me MRL-në ose ML-në.
+Për qëllime konfirmimi përdoren vetëm metodat analitike për të cilat mund të demonstrohet në mënyrë të dokumentuar se ato janë të validuara dhe të gjurmueshme, dhe kanë një nivel fals të papërputhshmërisë (gabim α), që është më i vogël ose i barabartë me 1% për substancat e ndaluara dhe të paautorizuara, ose që është me i vogël ose i barabartë me 5% për substancat e autorizuara.
+Metodat konfirmuese duhet të japin informacione mbi përbërjen kimike dhe strukturën e analitit. Rrjedhimisht, metodat konfirmuese të bazuara vetëm në analiza kromatografike pa përdorimin të detektimit nëpërmjet spektrometrisë së masës, nuk janë të përshtatshme për t’u përdorur si metoda konfirmuese për substancat farmakologjikisht aktive të ndaluara ose të paautorizuara. Në rastin kur spektrometria e masës nuk është e përshtatshme për substanca të autorizuara, mund të përdoren metoda të tjera si HPLC-DAD dhe HPLC -FLD, ose një kombinim i tyre.
+Kur kërkohet. sipas metodës së konfirmimit, në fillim të procedurës së ekstraktimit, sasisë që analizohet i shtohet një standard i brendshëm i përshtatshëm. Në varësi të disponueshmërisë, përdoren forma të stabilizuara të analitit të markuar me izotope, të cilat janë të përshkruara veçanërisht për detektimin me psikometrinë e masës, ose përbërje analoge ngushtësisht të bashkëlidhura në mënyrë strukturale me analitin.
+1.2.1(a) Përdorimi specifik i Ko-kromatografisë, kur nuk janë të disponushëm standarde të brendshme.
+Kur nuk është e mundshme të përdoren standarde të brendshme të përshtatshme, caktimi i analitit, në mënyrë të preferueshme, përcaktohet nga Ko-kromatografia. Në këtë rast përfitohet vetëm një pikë më e lartë dhe pika (ose zona) më lartë e zmadhuar është e barasvlershme me sasinë e analitit të shtuar. Nëse kjo nuk është e mundshme, duhet të përdoren standarde me matricë të kombinuar ose një matricë e përforcuar.
 1.2.2 Kriteret e përgjithshme të performancës për metodat konfirmuese
 1.2.2.1 Vërtetësia nga rifitimi
 Për analizat e përsëritura të një materiali referues të certifikuar, devijimi i përcaktimit eksperimental rifiton korrektimin mesatar të pjesës së masës nga vlera e certifikuar, duhet të përputhet me kufijtë minimalë të vërtetësisë të listuara në tabelën 1.
@@ -129,9 +131,14 @@ CV e riprodhueshmërisë (%)
 < 10 μg/kg
 30 *
 * CV (%) e paraqitur është një udhëzues dhe duhet të jetë sa më i ulët të jetë e mundur.
-Për analizat e kryera në kushtet e përsëritshmërisë, koeficienti i variancës në kushtet e përsëritshmërisë duhet të jetë i barabartë ose nën dy të tretat e vlerave të dhëna në tabelën 2.
+Për analizat e kryera në kushtet e përsëritshmërisë, koeficienti i variancës në kushtet e përsëritshmërisë është përgjithësisht më i vogël se dy të tretat e vlerave të listuara në tabelën 2 dhe duhet të jetë e barabartë ose me i vogël se koeficienti i variancës në kushtet e përsëritshmërisë.
 1.2.3 Kërkesat për ndarjen kromatografike
-Për kromatografinë e lëngët (LC) ose të gaztë (GC), koha minimale e pranueshme e mbajtjes për analitin/ët në analizim do të jetë dyfishi i kohës së mbajtjes që korrespondon me vëllimin e zbrazët të kolonës. Koha e mbajtjes së analitit në ekstrakt duhet të korrespondojë me atë të standardit të kalibrimit, mostrës së fortifikuar në fillim të procesit analitik ose mostrës së fortifikuar në fund të procesit analitik me një tolerancë prej ± 0,1 minutë. Për kromatografinë e shpejtë, ku koha e mbajtjes është nën 2 minuta, një devijim prej më pak se 5% të kohës së mbajtjes, është i pranueshëm. Në rast se përdoret një standard i brendshëm, raporti i kohës së mbajtjes kromatografike të analitit me atë të standardit të brendshëm, që nënkupton koha relative të mbajtjes së analitit, duhet të korrespondojë me atë të standardit të kalibrimit, mostrës së fortifikuar në fillim të procesit analitik ose mostrës së fortifikuar në fund të procesit analitik me një devijim maksimal 0,5% për metodat gas kromatografike dhe 1% për metodat likuid kromatografisë së lëngët, për metodat e validuara nga dita e hyrjes në fuqi të këtij urdhri.
+1.2.3.1 Koha e retencionit minimal të pranueshëm (koha e mbajtjes)
+Për kromatografinë e lëngët (LC) ose gaz-kromatografinë (GC), koha minimale e pranueshme e retencionit për analitin/tet, që i nënshtrohen analizës, është e barabarte me dyfishin e kohës së retencionit që korrespondon me vëllimin e zbrazët të kolonës.
+1.2.3.2 Koha e retencionit të analitit në ekstrakt
+Koha e retencionit të analitit në ekstrakt duhet të korrespondojë me atë të standardit të kalibrimit, të një standardi me matricë të përshtatur, ose të një standardi me matricë të fortifikuar me një tolerancë prej ± 0,1 minuta. Për kromatografinë e shpejtë, me një kohë të retencionit më të vogël se 2 minuta, është i pranueshëm një devijim prej më pak se 5% të kohës së retencionit.
+1.2.3.3 Koha e retencionit në rastin e përdorimit të një standardi të brendshëm.
+Në rast se përdoret një standard i brendshëm, raporti i kohës së retencionit kromatografik të analitit me atë të standardit të brendshëm, që nënkupton kohën relative të retencionit të analitit, duhet të korrespondojë me atë të standardit të kalibrimit, të standardit me matrice të përshtatur, ose të standardit me matricë të përforcuar, me një devijim maksimal prej 0,5% për gaz- kromatografinë dhe 1% për kromatografinë e lëngët, për metodat e validuara nga dita e hyrjes në fuqi të këtij urdhri.
 1.2.4 Kriteret specifike të performancës për spektrometrinë e masës
 1.2.4.1 Dedektimi me spektrometrinë e masë
 Dedektimi me spektrometrinë e masës do të kryhet duke përdorur disa nga opsionet e mëposhtme:
@@ -233,7 +240,7 @@ Kjo vlen për molekulat që kanë veti fluoreshente dhe për molekulat që shfaq
 KAPITULLI 2
 VLERËSIMI
 2.1 Kriteret e performancës që duhet të përcaktohen për metodat analitike
-Me anë të studimit të vlefshmërisë (validimit) së metodës, do të demonstrohet se metoda analitike përmbush kriteret përkatëse të performancës. Qëllime të ndryshme kontrolli kërkojnë kategori të ndryshme metodash. Tabela 5 përcakton se cila kritere të performancës do të verifikohen për secilën lloj metode dhe shpjegimi i mëtejshëm i secilit parametër jepet në këtë kapitull.
+Nëpërmjet validimit të metodës do të demonstrohet që metoda analitike është në përputhje me kriteret e zbatueshme për karakteristikat përkatës të performancës. Qëllime të ndryshme kontrolli, kërkojnë kategori të ndryshme metodash. Tabela 5 përcakton se cilat nga karakteristika e performancës do të verifikohen dhe për cilën metodë. Shpjegim i mëtejshëm i secilit parametër jepet në këtë kapitull.
 Tabela 5. Klasifikimi i metodave analitike sipas kritereve të performancës që duhet të përcaktohen
 Metoda
 Konfirmatore
@@ -241,7 +248,7 @@ Screening
 Cilësore
 Sasiore
 Cilësore
-Gjysmë sasiore
+Gjysmësasiore (1)
 Sasiore
 Substancat
 A
@@ -249,7 +256,7 @@ A, B
 A, B
 A, B
 A, B
-Identifikimi në përputhje me 1.2
+Identifikimi në përputhje me pikën 1.2
 x
 x
 CCα
@@ -267,15 +274,15 @@ Përpikëria
 x
 (x)
 x
-Efekti relativ i matricës/rifitimi absolut
+Efekti relativ i matricës/rifitimi absolut (*1)
 x
 x
-Selektiviteti/specificiteti
+Selektiviteti/ specificiteti
 x
 x
 x
 x
-Stabiliteti
+Stabiliteti (2)
 x
 x
 x
@@ -285,16 +292,18 @@ x
 x
 x
 x
-x: Kërkohet të vërtetohet me anë të validimit se janë përmbushur kërkesat për kriteret e performancës.
-(x) Kërkesat e përpikërisë së kapitullit 1.2.2.2 nuk kanë nevojë të plotësohen për metodat screening gjysmësasiore. Megjithatë, përpikëria duhet të përcaktohet për të vërtetuar përshtatshmërinë e metodës për të shmangur rezultatet analitike fals konform.
-A: substanca të ndaluara ose të paautorizuara
-B: substanca të autorizuara
-#Nëse të dhënat e stabilitetit për analitet në një matricë janë të disponueshme nga literatura shkencore ose nga një laborator tjetër, këto të dhëna nuk kanë nevojë të përcaktohen përsëri nga laboratori përkatës. Megjithatë, një referencë për stabilitetin e analiteve në tretësirë është e pranueshme vetëm nëse zbatohen kushte identike.
-*Për metodat që përdorin dedektor MS duhet të provohet me anë të validimit se janë përmbushur kërkesat për kriteret e performancës. Efekti relativ i matricës së metodës duhet të përcaktohet kur ky efekt nuk është vlerësuar gjatë procedurës së validimit. rifitimi absolut i metodës duhet të përcaktohet kur nuk përdoret standard i brendshëm ose lakore kalibrimi në mostër të fortifikuar në fillim të procesit analitik.
+(1) Një metode Screening gjysmësasior është një metode Screening, që jep rezultate sasiore, porse nuk plotëson kërkesat e përpikërisë sipas përshkrimeve në aneksit I, tabela 2 të kësaj rregulloreje.
+(*1) Për metodat MS, plotësimi i kërkesave, që u përkasin karakteristikave të rendimentit duhet të plotësohen nëpërmjet provave të validimit. Efekti relativ i matricës së metodës duhet të përcaktohet nëse ky efekt nuk është vlerësuar gjatë procedurës së validimit. Rifitimi absolut i metodës duhet të përcaktohet, kur nuk përdoret standard i brendshëm ose lakore kalibrimi në mostër të fortifikuar.
+(2) Nëse të dhënat e stabilitetit për analitet në një matricë janë të disponueshme në literaturën shkencore ose në të dhënat e një laboratori tjetër, nuk është e nevojshme që këto të dhëna të përcaktohen përsëri nga laboratori. Referimi në të dhënat e disponueshme mbi stabilitetin e analiteve në tretësirë është e pranueshme, vetëm nëse zbatohen kushte identike.
+x: Kërkohet të vërtetohet me anë të validimit, se janë përmbushur kërkesat për kriteret e performancës.
+x) Nuk është e nevojshme që të respektohen të gjitha kërkesat përpikërisë të përshkruara në pikën 1.2.2.2 për metodat e Screening gjysmësasior. Përpikëria duhet të përcaktohet për të demonstruar përshtatshmërinë e metodës, me qëllim që të parandalohen rezultate analitike false konforme.
+A: substanca të ndaluara ose të paautorizuara.
+B: substanca të autorizuara.
 2.2 Vërtetësia, përsëritshmëria dhe riprodhueshmëria brenda laboratorit
 Ky kapitull ofron shembuj dhe referenca për procedurat e validimit. Mund të përdoren qasje të tjera për të demonstruar se metoda përputhet me kriteret e performancës, me kusht që ato të arrijnë të njëjtin nivel dhe cilësi informacioni.
 2.2.1 Validimi konvencional
-Llogaritja e parametrave në përputhje me metodat konvencionale (tradicionale) kërkon kryerjen e disa eksperimenteve individuale. Çdo kriteri performancës duhet të përcaktohet për çdo ndryshim madhor (shih seksionin 2.4). Për metodat me shumë analitë, disa analitë mund të analizohen njëkohësisht, për sa kohë që janë përjashtuar interferencat e mundshme. Disa kritere të performancës mund të përcaktohen në mënyrë të ngjashme. Prandaj, për të minimizuar ngarkesën e punës, këshillohet që eksperimentet të kombinohen sa më shumë që të jetë e mundur (p.sh. përsëritshmëria dhe riprodhueshmëria brenda laboratorit me specificitetin, analiza e mostrave të bardha për të përcaktuar kufirin e vendimit për konfirmimin dhe testimin për specificitetin).
+Llogaritja e parametrave në bazë të metodave konvencionale kërkon kryerjen e shumë eksperimenteve individuale (shiko tabelën 5 të këtij aneksi). Për kryerjen e ndryshimeve të rëndësishme është e nevojshme të verifikohet ruajtja e validitetit të karakteristikave të performancës. Për metodat që përdoren ndaj një analiti të shumëfishtë është e mundur të analizohen njëkohësisht shumë analite, me kusht që të jenë përjashtuar më parë mundësitë e interferencave përkatëse. Në këtë mënyrë është e mundur të përcaktohen shumë karakteristika të performancës.
+Për këtë, më qëllim uljen e ngarkesës së punës është e këshillueshme, për sa është e mundur, të kombinohen eksperimentet (të tilla si: përsëritshmëria dhe riprodhueshmëria ndërlaboratorike me specificitetin, analizat e kampioneve të bardha për të përcaktuar kufirin e vendimmarrjes së konfirmimit dhe të provës së specifitetit).
 2.2.1.1 Vërtetësia në bazë të materialit të referencës së certifikuar
 Preferohet të përcaktohet vërtetësia e një metode analitike me anë të një materiali reference të certifikuar (CRM). Procedura për këtë është përshkruar në ISO 5725-4:1994 (2).
 Një shembull është dhënë më poshtë:
@@ -305,9 +314,9 @@ Një shembull është dhënë më poshtë:
 Vërtetësia (%) = (përqendrimi mesatar i matur i korrigjuar për rifitimin i) × 100/vlerën e certifikuar
 2.2.1.2 Vërtetësia në bazë të mostrave të fortifikuara
 Nëse nuk disponohet asnjë material reference i certifikuar, vërtetësia e metodës minimalisht duhet të përcaktohet me anë të eksperimenteve duke përdorur një matricë të bardhë të fortifikuar, në përputhje me skemën e mëposhtme:
-1. Për metodat e validuara, zgjidhet materiali i bardhë dhe fortifikohet në përqendrimet si më poshtë:
-a) 0,5 (3), 1,0 dhe 1,5 herë RPA; ose
-b) 0,1 (4), 1,0 dhe 1,5 herë MRL ose ML për substancat e autorizuara; ose
+1. Për metodat e validuara, duke filluar nga data e hyrjes në fuqi të këtij urdhri, përzgjidhet material i bardhë dhe fortifikohet në përqendrimet prej:
+a) 0,5 , 1,0 dhe 1,5 herë RPA; ose
+b) 0,1 , 1,0 dhe 1,5 herë MRL ose ML për substancat e autorizuara; ose
 c) 1,0, 2,0 dhe 3,0 herë LCL për substancat e paautorizuara (për të cilat nuk ka RPA).
 2. Në çdo nivel, analiza do të kryhet me gjashtë replikate.
 3. Analizohen mostrat.
@@ -316,27 +325,27 @@ c) 1,0, 2,0 dhe 3,0 herë LCL për substancat e paautorizuara (për të cilat nu
 Vërtetësia (%) = (përqendrimi mesatar i matur i korrigjuar për rifitim) × 100/niveli i fortifikimit
 Për metodat për substancat e autorizuara të validuara, mjafton përcaktimi i vërtetësisë së metodës duke përdorur 6 replikate të fortifikuara në 0,5, 1,0 dhe 1,5 herë MRL ose ML.
 2.2.1.3 Përsëritshmëria
-1. Për metodat e validuara do të përgatitet një grup mostrash të matricave identike të bardha të së njëjtës specie. Ato duhet të fortifikohen me analitin për të dhënë përqendrime ekuivalente me:
-a) 0,5 (5), 1,0 dhe 1,5 herë RPA; ose
-b) 0,1 (6), 1,0 dhe 1,5 herë MRL ose ML për substancat e autorizuara; ose
-c) 1,0, 2,0 dhe 3,0 herë LCL për substancat e paautorizuara ose të ndaluara në rast se nuk aplikohet RPA.
+1. Për metodat e validuara, duke filluar nga data e hyrjes në fuqi të këtij urdhri, përgatitet një grupmostrash të matricave identike të bardha të së njëjtës specie, që fortifikohen me analitin për të përftuar përqendrime të barasvlershme, me:
+a) 0,5 , 1,0 dhe 1,5 herë RPA; ose
+b) 0,1, 1,0 dhe 1,5 herë MRL ose ML për substancat e autorizuara; ose
+c) 1,0, 2,0 dhe 3,0 herë LCL për substancat e paautorizuara, ose të ndaluara, në rast se nuk aplikohet RPA.
 2. Në çdo nivel, analiza do të kryhet me të paktën gjashtë replikate.
 3. Analizohen mostrat.
 4. Llogaritet përqendrimi i matur në çdo mostër.
 5. Llogaritet përqendrimi mesatar, shmangia standarde dhe koeficienti i variancës (%) të mostrave të fortifikuara.
-6. Përsëriten këta hapa në të paktën dy raste të tjera.
+6. Përsëriten këta hapa në të paktën dy raste të tjera, për të paktën 18 përsëritës (dublime) për çdo nivel.
 7. Llogaritet përqendrimi mesatar, shmangia standarde dhe koeficientët e variancës për mostrat e fortifikuara.
 Për substancat e autorizuara, metodat e validuara, mjafton përcaktimi i përsëritshmërisë me matrica të fortifikuara në përqendrime në 0,5, 1,0 dhe 1,5 herë MRL ose ML.
 Përndryshe, llogaritja për përsëritshmërinë mund të kryhet sipas ISO 5725-2:2019.
 2.2.1.4 Riprodhueshmëria brenda laboratorit
 1. Për validimet e kryera, përgatitet një grup mostrash të materialit të specifikuar për testim (matrica identike ose të ndryshme), të fortifikuara me analitin/ët për të dhënë përqendrime ekuivalente me:
-a) 0,5 , 1,0 dhe 1,5 herë RPA; ose
+a) 0,5, 1,0 dhe 1,5 herë RPA; ose
 b) 0,1 , 1,0 dhe 1,5 herë MRL ose ML për substancat e autorizuara; ose
 c) 1,0, 2,0 dhe 3,0 herë LCL për substancat e paautorizuara ose të ndaluara në rast se nuk aplikohet RPA.
 2. Kryhen analizat e të paktën 6 replikateve të mostrave të bardha të ndotura në çdo nivel përqendrimi.
 3. Analizohen mostrat.
 4. Llogaritet përqendrimi i matur në çdo mostër.
-5. Përsëritni këto hapa në të paktën dy raste të tjera me grupe të ndryshme të mostrave të bardha, operatorë të ndryshëm dhe sa më shumë kushte të ndryshme mjedisore që të jetë e mundur, p.sh. grupe të ndryshme reagjentësh, tretësish, temperatura të ndryshme dhome, instrumente të ndryshme ose variacione të parametrave të tjerë.
+5. Përsëriten këta hapa në të paktën dy raste të tjera (për të paktën 18 përsëritës (dublim) për çdo nivel), me lote të ndryshme të materialit të bardhë, operatorë të ndryshëm në kushte mjedisore sa më shume të ndryshme, si p.sh., lote të reagjentëve ose të tretësirave të ndryshme etj., temperatura të ndryshme të ambientit, instrumente të ndryshme ose variacione të parametrave të tjerë.
 6. Përcaktohet përqendrimi mesatar, shmangia standarde dhe koeficienti i variancës (%) i mostrave të fortifikuara.
 Për substancat e autorizuara metodat e validuara, mjafton përcaktimi i riprodhueshmërisë brenda laboratorit me matrica të fortifikuara në përqendrime në 0,5, 1,0 dhe 1,5 herë MRL ose ML.
 Përndryshe, llogaritja për riprodhueshmërinë brenda laboratorit / përpikëria e ndërmjetme gjithashtu mund të llogaritet sipas ISO 5725-2:2019, ISO 11843-1:1997 (8), Codex CAC/GL 59-2006 .
@@ -418,7 +427,7 @@ A
 A
 A
 B
-Llogaritja e kritereve të metodës do të kryhet siç përshkruhet nga Jülicher et al.
+Llogaritja e kritereve të metodës kryhet siç përshkruhet nga Jülicher et al ose nga norma ISO/TS 23471:2022.
 2.2.3 Qasje të tjera të validimit
 Mund të përdoren qasje të tjera për të demonstruar se metoda përputhet me kriteret e performancës për karakteristikat e performancës, me kusht që ato të arrijnë të njëjtin nivel dhe cilësi informacioni. Validimi mund të kryhet gjithashtu duke kryer një studim ndërlaboratorik siç është përshkruar nga Codex Alimentarius, ISO ose IUPAC ose sipas metodave alternative siç janë studimet e vetme laboratorike ose validimi brenda laboratorit. Kur aplikohen procedura alternative të validimit, modeli dhe strategjia bazë me parakushtet, supozimet dhe formulat përkatëse do të përshkruhen në protokollin e validimit ose të paktën do të jepen referenca për disponueshmërinë e tyre.
 2.3 Selektiviteti/specifikimi
@@ -432,9 +441,10 @@ c) ndikon dukshëm në kuantifikim.
 2.4 Qëndrueshmëria
 Metoda analitike do të testohet për performancën e saj të vazhdueshme në kushte të ndryshme eksperimentale, të cilat përfshijnë për shembull kushte të ndryshme të marrjes së mostrave dhe ndryshime të vogla që mund të ndodhin në testimin rutinë. Për testimin e qëndrueshmërisë së metodës, ndryshimet e paraqitura në kushtet eksperimentale duhet të jenë të vogla. Rëndësia e këtyre ndryshimeve duhet të vlerësohet. Çdo karakteristikë e performancës do të përcaktohet për të gjitha ndryshimet e vogla që kanë treguar të kenë një efekt të rëndësishëm në performancën e analizës.
 2.5 Stabiliteti
-Stabiliteti i standardeve të kalibrimit, të mostrave të ndotura në fund të procesit analitik dhe/ose të mostrave të ndotura në fillim të procesit analitik dhe të analitit ose përbërësve të matricës në mostër gjatë ruajtjes ose analizës duhet të përcaktohet, pasi paqëndrueshmëritë mund të ndikojnë në rezultatet e analizës.
-Zakonisht stabiliteti i analitit karakterizohet mirë në kushte të ndryshme ruajtjeje. Eksperimentet e kryera për monitorimin e kushteve të ruajtjes së standardeve dhe mostrave, të cilat kryhen si pjesë e akreditimit dhe kontrollit të cilësisë, mund të japin informacionin e kërkuar. Nëse të dhënat e stabilitetit për analitët në matricë janë të disponueshme (p.sh. në bazë të informacionit nga EURL-të, të dhënat e publikuara etj.), këto të dhëna nuk kanë nevojë të përcaktohen nga secili laborator. Megjithatë, të dhënat e disponueshme të stabilitetit të analitëve në tretësirë dhe në matricë pranohen vetëm nëse zbatohen kushte identike.
-Në rast se të dhënat e kërkuara të stabilitetit nuk janë të disponueshme, duhet të përdoren qasjet e mëposhtme.
+Nevojitet të përcaktohet stabiliteti i standardeve të kalibrimit, standardit me matricë krahasuese (matrix-matched) dhe/ose i standardit të përforcuar dhe i përbërësve të analitit, ose i matricës në përbërje të kampionit gjatë ruajtjes ose analizave, pasi që paqëndrueshmëritë mund të ndikojnë në rezultatet e testeve.
+Zakonisht, stabiliteti i analitit karakterizohet mirë në kushte të ndryshme ruajtjeje. Eksperimentet e kryera për monitorimin e kushteve të ruajtjes së standardeve dhe mostrave, të cilat kryhen në kuadër të sistemi normal të akreditimit të laboratorit dhe të kontrollit të cilësisë mund të japin informacionin e kërkuar.
+Nëse të dhënat e stabilitetit për analitët në matricë janë të disponueshme (p.sh. në bazë të informacionit nga EURL-të, të dhënat e publikuara etj.), këto të dhëna nuk kanë nevojë të përcaktohen nga secili laborator. Referimi në të dhënat e disponueshme mbi stabilitetin e analiteve në tretësira dhe në matricat është e pranueshme vetëm nëse zbatohen në kushte teknike identike.
+Në rast se nuk janë të disponueshme të dhëna mbi stabilitetin e kërkuar, duhet të përdoren qasjet që vijojnë. Gjithashtu, është e mundur të përqasja e “isochronous approach” (“barazisë kohore”), me një skeme të temperaturës se ruajtjes të ngjashme me skemën e përcaktuar në tabelën 7 të këtij aneksi, e cila bën të mundur që të përcaktohet paqëndrueshmëria e mundshme e analitit dhe të kryhet një vlerësim i periudhave të ruajtjes se përshtatshme.
 2.5.1 Përcaktimi i stabilitetit të analitit në tretësirë
 1. Përgatiten tretësira të freskëta stoku të analitit/ëve dhe hollohen siç specifikohet në udhëzimet e provës për të dhënë sasi të mjaftueshme (p.sh. 40) të çdo përqendrimi të zgjedhur. Mostrat do të përgatiten nga:
 a) tretësirat e analitit, të cilat përdoren për fortifikim;
@@ -457,12 +467,13 @@ Errësirë
 10 alikuota
 Dritë
 10 alikuota
-2.5.2 Përcaktimi i stabilitetit të analitit/ëve në matricë
-1. Aty ku është e mundur përdoren mostrat “incurred” (mostra të cilat merren pas trajtimeve që ju bëhen kafshëve për qëllime terapeutike ose studimore). Kur nuk ka matricë të tillë, do të përdoret një matricë e bardhë e fortifikuar me analitin.
-2. Kur është e disponueshme matrica “incurred”, përcaktohet përqendrimi në matricë, ndërkohë që matrica është ende e freskët. Ruhen alikuotatë tjera të matricës “incurred” të homogjenizuar në minus 20°C ose dhe më të ulët nëse kërkohet, dhe përcaktohet përqendrimi i analitit për sa kohë që kampioni ruhet në laborator.
-3. Nëse nuk ka matricë “incurred”, merrni matricë bardhë dhe homogjenizohet. Ndahet matrica në pesë pjesë. Fortifikohet secila alikuot me analitin, i cili preferohet të përgatitet në një sasi të vogël tretësirë ujore. Analizohet një alikuotë menjëherë. Ruhen alikuotat e tjera në të paktën minus 20°C ose më të ulët nëse kërkohet dhe analizohen ato pas ruajtjes afatshkurtër, afatmesme dhe afatgjatë, duke marrë parasysh metodat analitike të aplikuara.
-4. Regjistrohet koha maksimale e pranueshme e ruajtjes dhe kushtet optimale të ruajtjes.
-Vlera mesatare e pesë replikateve të tretësirave, të cilat janë ruajtur, nuk duhet të ndryshojë më shumë se riprodhueshmëria brenda laboratorit e metodës nga vlera mesatare e pesë replikatave të tretësirave të sapo përgatitura. Vlera mesatare e pesë tretësirave të sapo përgatitura do të përdoret si bazë për llogaritjen e diferencës në përqindje.
+2.5.2 Përcaktimi i stabilitetit të analitit/ analiteve në matrice
+1. Aty ku është e mundur përdoren mostrat “incurred”. Kur nuk ka matricë të tillë, do të përdoret një matricë e bardhë e fortifikuar me analitin.
+2. Kur është e disponueshme matrica “incurred”, homogjenizohet, në mënyrë të preferueshme për sa kohë është e freskët. Matrica ndahet në pesë pjesë dhe analizohet një sasi e secilës pjesë.
+3. Nëse nuk ka matricë “incurred”, merret një pjesë e matricës së bardhë dhe homogjenizohet. Matrica ndahet në pesë pjesë. Fortifikohet secila pjesë me analitin, deri në afërsi të nivelit të kërkuar, që në mënyrë të preferueshme përgatitet në një sasi të vogël të tretësirës ujore. Analizohet menjëherë një sasi për secilën pjesë.
+4. Pjesët (nënkampionet) e matricës “incurred” së homogjenizuar ose të matricës se bardhë të përforcuar ruhen në një temperaturë, e cila pasqyron kushtet e ruajtjes të krijuara në laborator për një ndërlidhje të caktuar analit/matrice dhe përcaktohen përqendrimet e analitit pas ruajtjes në një kohe të shkurtër, të mesme ose gjatë (të paktën për kohën në të cilën kampioni zakonisht ruhet në laborator).
+5. Vlera mesatare e pesë pjesëve të një sasie të ruajtur nuk duhet të ketë diferenca me të madhe se riprodhueshmëria ndërlaboratorike e metodës nga vlera mesatare e pjesëve të sapopërgatitura. Vlera mesatare e pesë pjesëve të porsapërgatitura përdoret si bazë për të llogaritur diferencën në përqindje.
+6. Regjistrohet koha maksimale e pranueshme e ruajtjes dhe kushtet optimale të ruajtjes.
 2.6 Kufiri i vendimit për konfirmim (CCα)
 CCα duhet të përcaktohet për metodat konfirmatore. CCα do të përcaktohet duke respektuar kushtet në përputhje me kërkesat për identifikim ose identifikimin dhe kuantifikimin siç përcaktohet në “Kriteret e performancës dhe kërkesat e tjera për metodat analitike”, siç përcaktohet në kapitullin 1.
 Për kontrollin e mostrave, pasiguria standard e kombinuar e matjeve tashmë është përfshirë në vlerën CCα (kufiri i vendimit për konfirmim).
@@ -485,7 +496,7 @@ b) Për substancat e autorizuara në kombinimet e matricës/specieve për të ci
 CCβ duhet të përcaktohet për metodat screening. CCβ duhet të përcaktohet siç jepet në “Kriteret e performancës dhe kërkesat e tjera për metodat analitike”, e cituar në kapitullin 1 të kësaj shtojce dhe sipas kërkesave të përcaktuara në tabelën 5. Megjithatë, të gjitha kërkesat për identifikimin (pika. 1.2. 3, 1.2.4, 1.2.5) nuk kanë nevojë të aplikohen për metodat screening.
 1. Për substancat farmakologjikisht aktive të paautorizuara ose të ndaluara, mund të aplikohet një gabim maksimal β prej 5%. CCβ do të llogaritet si më poshtë:
 a) Metoda 1: Procedura e lakores së kalibrimit sipas ISO 11843-1:1997 (këtu referuar si vlera minimale e detektueshme e ndryshores). Në këtë rast, duhet të përdoret mostër e bardhë përfaqësuese, i cili është i fortifikuar në ose poshtë RPA-së, ose nëse nuk aplikohet RPA, rreth STC në nivele të barazlarguara. Analizohen mostrat. Ndërtohet grafiku i sinjalit kundrejt përqendrimit të shtuar. Përqendrimi përkatës në STC plus 1,64 herë shmangien standarde të riprodhueshmërisë brenda laboratorit të sasisë mesatare të matur në STC është i barabartë me aftësinë e dedektimit. Ekstrapolimi në nivele shumë të ulët të fortifikimit (< 50% e nivelit më të ulët të fortifikimit) duhet të konfirmohet nga të dhënat eksperimentale gjatë procesit të validimit.
-b) Metoda 2: Analizohen mostra të bardha të fortifikuara në përqendrime në dhe mbi STC. Për çdo nivel përqendrimi duhet të analizohen 20 mostra të bardha të fortifikuara për të siguruar një rezultat të besueshëm për këtë përcaktim. Niveli i përqendrimit, ku mbeten vetëm ≤ 5% e rezultateve false konform, është i barabartë me aftësinë e dedektimit të metodës.
+b) Metoda 2: Studimi i materialit të bardhë të fortifikuar në nivel STC të përzgjedhur fillimisht. Në këtë nivel të përqendrimit analizohen 20 kampion të bardha të fortifikuara me qëllim që të garantohet një bazë e besueshme për këtë përcaktim. Nëse në një nivel të tillë të përqendrimit, rezultati i rezultateve false konforme ngelet ≤ 5%, niveli është i barasvlershëm me aftësinë përcaktuese të metodës. Nëse përftohet > 5% e rezultateve false konforme, STC-ja rritet dhe studimi përsëritet për të verifikuar përputhshmërinë me kërkesën prej ≤ 5 % të rezultateve false konforme.
 c) Metoda 3: CCβ = STC + k (one side, 95%) × pasiguria standarde (e kombinuar) e matjes në ose mbi STC.
 Për substancat farmakologjikisht aktive të paautorizuara ose të ndaluara, në varësi të eksperimentit të validimit (dhe shkallës respektive të lirisë), shpërndarja e studentit t mund të zbatohet në mënyrë të arsyeshme, ose nëse merret si bazë shpërndarja Gaussian (one side n=∞), do të përdoret një faktor k 1,64.
 Riprodhueshmëria brenda laboratorit dhe vërtetësia janë të përshtatshme për të përcaktuar pasigurinë standarde (e kombinuar) të matjes , nëse përcaktohet duke marrë parasysh të gjithë faktorët që ndikojnë në analizë.
@@ -496,7 +507,6 @@ b) Metoda 2: me analizimin e mostrave të bardha të fortifikuara në nivele pë
 c) Metoda 3: CCβ = STC + k (one side, 95%) × pasiguria (e kombinuar) e matjes standarde në ose mbi STC.
 Për substancat e autorizuara, në varësi të eksperimentit të validimit (dhe gradëve të lirisë respektive), t -shpërndarja mund të zbatohet në mënyrë të arsyeshme, ose nëse shpërndarja është Gaussiane (one side, n=∞) merret si bazë, një faktor k prej 1,64 (cilido qoftë rasti ose përdorim në kaskadë ose sipas rregullave të MRL).
 Riprodhueshmëria brenda laboratorit dhe vërtetësia janë të përshtatshme për të përcaktuar pasigurinë standarde (e kombinuar) e matjes , nëse përcaktohet duke marrë parasysh të gjithë faktorët që ndikojnë në analiza.
-Për substancat farmakologjikisht aktive për të cilat është vendosur MRL për shumën e substancave të ndryshme, CCβ e substancës me përqendrimin më të lartë në kampion do të përdoret si CCβ për të vlerësuar shumën e substancave në kampionin e matur.
 2.8 Lakorja e kalibrimit
 Kur lakoret e kalibrimit përdoren për kuantifikim:
 1) në ndërtimin e lakores duhet të përdoren të paktën pesë nivele të barazlarguara (duke përfshirë nivelin zero);
@@ -505,7 +515,7 @@ Kur lakoret e kalibrimit përdoren për kuantifikim:
 4. duhet të përshkruhen diapazoni i provueshmërisë për parametrat e lakores.
 Për lakoret e kalibrimit në tretës, të mostrave të ndotura në fund të procesit analitik dhe/ose të mostrave të ndotura në fillim të procesit analitik duhet të tregohen për parametrat e lakores së kalibrimit, të cilat mund të ndryshojnë
 2.9 Rifitimi absolut
-Rifitimi absolut i metodës duhet të përcaktohet kur nuk përdoret standard i brendshëm ose mostër e ndotur në fillim të procesit analitik.
+Nuk nevojitet të përcaktohet rifitimi absolut i metodës nëse është i disponushëm një standard i brendshëm, ose një kalibrim i matricës së fortifikuar, ose nëse janë të disponushëm që të dy, në të gjitha rastet e tjera përcaktohet rifitimi absolut i metodës.
 Kur plotësohen kërkesat për vërtetësinë, siç përcaktohet në tabelën 1, mund të përdoret një faktor korrigjimi fiks. Përndryshe, do të përdoret rifitimi i marrë për atë batch specifik. Si alternativë mund të përdoret procedura e shtesave standard , ose një standard i brendshëm mund të përdoret në vend të përdorimit të korrigjimit të rifitimit.
 Rifitimi absolut do të llogaritet për të paktën gjashtë lote përfaqësuese të matricës.
 Një pjesë e mostrës së bardhë do të fortifikohet me analit përpara ekstraktimit, dhe një pjesë do të fortifikohet pas procesit analitik që i është nënshtruar mostra e bardhë në një nivel përqendrimi të përshtatshëm dhe do të përcaktohet përqendrimi i analitit.
@@ -527,13 +537,13 @@ MF(standardi i normalizuar për IS)
 =
 MF(standart)
 MF( IS)
-IS: standardi i brendshëm
-MMS: mostër e ndotur pas procesit analitik
-Koeficienti i variancës nuk duhet të jetë më i madh se 20% për MF (standard i normalizuar për IS).
+IS: standardi i brendshëm;
+MMS: standard me matrice (matrix-matched standard).
+Koeficienti i variancës nuk duhet të jetë më i madh se vlerat e përshkruara në tabelën 2 të këtij aneksi për “faktorin matricë” (standard i normalizuar për IS).
 KAPITULLI 3
 KONTROLLI I CILËSISË GJATË ANALIZËS RUTINË - VERIFIKIMI I PERFORMANCËS SË METODAVE
 Duhet të respektohen kërkesat për sigurimin e cilësisë së rezultateve analitike të kapitullit 7.7 të ISO/IEC 17025:2017.
-Gjatë analizave rutinë, analizimi i materialeve referente të certifikuara (CRM) është opsioni i preferuar për të ofruar dëshmi të performancës së metodës. Meqenëse CRM-të që përmbajnë të gjithë analitët që interesohemi në nivelet e kërkuara të përqendrimit janë rrallë të disponueshme, gjithashtu materialet e referencës të ofruara dhe të karakterizuara nga EURL-të ose laboratorët që mbajnë një akreditim ISO/IEC 17043:2010 () mund të përdoren si alternativë. Si një alternativë tjetër, mund të përdoren materiale reference të brendshme, të cilat kontrollohen rregullisht.
+Gjatë analizave rutinë, analiza a materialeve të referencës të certifikuara (certified reference materials (CRMs)) është opsioni i preferuar për të demonstruar rendimentin e metodës. Duke qenë se CRMs, që përmbajnë analitet përkatëse në nivelet e përqendrimit të kërkuar, janë radhë herë të disponueshme, mund të përdoren si alternativë edhe materiale të referencës të furnizuara dhe të karakterizuara nga laboratorë të referencës së Bashkimit Evropian ose nga laboratorë, të cilat kanë një akreditim ISO/IEC 17043:2023. Si alternativë të mëtejshme mund të përdoren materiale të referencës të brendshme të kontrolluara periodikisht.
 Verifikimi i vazhdueshëm i performancës së metodës gjatë analizës rutinë duhet të kryhet si në analizat screening dhe konfirmatore.
 1. Për metodat screening:
 Për çdo seri (batch) analizash të kryera, seria e mostrave të mëposhtme të kontrollit të cilësisë duhet të analizohen njëkohësisht:
