@@ -18,3 +18,4 @@ Projekti 4-vjeçar i kandidatit për zhvillimin e shërbimit shëndetësor ku ap
 3
 Aftësi profesionale dhe organizative në strukturat shëndetësore
 14 pikë
+1/1. Komisioni, në përfundim të vlerësimit të kandidatëve, harton listën përfundimtare të kandidatëve të kualifikuar të cilët janë vlerësuar me mbi 60 (gjashtëdhjetë) pikë të renditur sipas pikëve, dhe ia përcjell atë ministrit përgjegjës për shëndetësinë dhe ministrit përgjegjës për arsimin.
