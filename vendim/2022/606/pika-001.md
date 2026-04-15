@@ -1,1 +1,1 @@
-1. Miratimin e Programit Kombëtar për Aktivitetet jashtë Orarit Mësimor, sipas aneksit 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+1. Zbatimin e programit “pas shkolle”, i cili është i organizuar dhe i strukturuar në veprimtari, që zhvillohen jashtë orarit mësimor të detyruar dhe ka për qëllim përforcimin e të nxënit dhe zhvillimin gjithëpërfshirës të aftësive edukative, sociale, sportive, kulturore dhe krijuese të nxënësve, i miratuar sipas ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, të ndryshuar.
