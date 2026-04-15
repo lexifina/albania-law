@@ -1,0 +1,1 @@
+3. Ministrisë së Infrastrukturës dhe Energjisë dhe Operatorit të Sistemit të Shpërndarjes sh.a., u ndalohet të ndryshojnë destinacionin e përdorimit të pronave të përcaktuara në pikën 1 të këtij vendimi, apo t’i tjetërsojnë ato.

@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Infrastrukturës dhe Energjisë, për Operatorin e Sistemit të Shpërndarjes sh.a., sipas formularëve dhe plan-rilevimeve, që i bashkëlidhen këtij vendimi, për ushtrimin e veprimtarisë, sipas fushës së përgjegjësisë shtetërore.
