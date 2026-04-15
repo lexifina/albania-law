@@ -1,0 +1,26 @@
+{
+  "qbz_id": 32969,
+  "title": "Për dhënie dekorate",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "202",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2026-04-08",
+  "published": "2026-04-15",
+  "in_force": "2026-04-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5d7dd75958bd7562cd5c0616d861f75798a6f49736762a972e8431bdaea55f61.docx",
+  "source_sha256": "5d7dd75958bd7562cd5c0616d861f75798a6f49736762a972e8431bdaea55f61",
+  "official_record": "https://qbz.gov.al/api/v1/acts/32969",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2026/04/08/202",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
