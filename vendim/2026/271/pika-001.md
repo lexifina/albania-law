@@ -1,0 +1,6 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” të disa zonave në territorin e Bashkisë Poliçan, si më poshtë vijon:
+a) Zona nr. 1, fshatrat Mbrakull, Peshtan, Fushë Peshtan, Bregas, Vërtop, Lybeshë, Drenovë, Kapinovë, Tomor i Madh, Tomor i Vogël, pjesë e Njësisë Administrative Vërtop, Bashkia Poliçan, qarku Berat, me sipërfaqe 5 205 (pesë mijë e dyqind e pesë) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshatrat Zhitom i Vogël, Zhitom i Madh dhe Tërpan, pjesë e Njësisë Administrative Tërpan, Bashkia Poliçan, qarku Berat, me sipërfaqe 2 693 (dy mijë e gjashtëqind e nëntëdhjetë e tre) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr. 3, fshatrat Teman dhe Tozhar, pjesë e Njësisë Administrative Tërpan, Bashkia Poliçan, qarku Berat, me sipërfaqe 1 210 (një mijë e dyqind e dhjetë) ha, sipas hartës në sistemin KRGJSH;
+ç) Zona nr. 4, fshatrat Çorogjaf dhe Rehovë, pjesë e Njësisë Administrative Tërpan, Bashkia Poliçan, qarku Berat, me sipërfaqe 748 (shtatëqind e dyzet e tetë) ha, sipas hartës në sistemin KRGJSH;
+d) Zona nr. 5, fshatrat Plashnik i Madh dhe Lugas, pjesë e Njësisë Administrative Tërpan, Bashkia Poliçan, qarku Berat, me sipërfaqe 1 691 (një mijë e gjashtëqind e nëntëdhjetë e një) ha, sipas hartës në sistemin KRGJSH.
