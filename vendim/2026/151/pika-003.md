@@ -1,0 +1,1 @@
+3. Platforma duhet të zbatojë masat e nevojshme për të mbrojtur financat e përdoruesve nga mashtrimi dhe aksesi i paautorizuar, në përputhje me direktivat dhe legjislacionin shqiptar dhe të Bashkimit Evropian.

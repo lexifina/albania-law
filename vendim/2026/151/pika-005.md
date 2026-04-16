@@ -1,0 +1,1 @@
+5. Platforma, gjithashtu, duhet të jetë e pajtueshme me rregulloret dhe legjislacionin e aplikueshëm lidhur me financat, duke përfshirë identifikimin e përdoruesve, raportimin e transaksioneve dhe zbatimin e masave kundër pastrimit të parave.
