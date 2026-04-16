@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rivitalizim urban i shesheve të pallateve nr. 588, 712 etj., ’Aleks Buda’, në lagjen ’5 Maj’, zona kadastrale 8525’, Bashkia Elbasan.
