@@ -1,0 +1,1 @@
+3. Zëvendësministri i Drejtësisë monitoron dhe mbikëqyr punën për realizimin dhe jetësimin e të gjitha aspekteve të reformës në drejtësi, përfshirë këtu, edhe ndryshimet e nevojshme në kuadrin ligjor në fuqi dhe zbatimin e hartës gjyqësore të miratuar në bashkëpunim me institucionet e sistemit të drejtësisë dhe misionet e asistencës teknike në këtë fushë.

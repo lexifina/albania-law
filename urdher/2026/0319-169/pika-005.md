@@ -1,0 +1,1 @@
+5. Zëvendësministri i Drejtësisë mbikëqyr mbarëvajtjen e punës në fushën e marrëdhënieve juridiksionale me shtetet e tjera, si dhe me urdhër të ministrit të Drejtësisë, merr pjesë në negociatat për lidhjen e marrëveshjeve dy- apo shumëpalëshe me shtetet e tjera.

@@ -1,0 +1,1 @@
+8. Kostot financiare për ushtrimin e kompetencave të parashikuara në këtë urdhër nga zëvendësministri i Drejtësisë përballohen nga buxheti i Ministrisë së Drejtësisë, në përputhje me legjislacionin në fuqi.
