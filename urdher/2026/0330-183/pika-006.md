@@ -1,0 +1,1 @@
+6. Zëvendësministri i Drejtësisë monitoron masat dhe koordinon raportimet e Ministrisë së Drejtësisë, në kuadër të procesit të integrimit të Republikës së Shqipërisë në Bashkimin Evropian, në bashkëpunim me strukturat përkatëse/kompetente të ministrisë përgjegjëse për punët e jashtme dhe integrimin në Bashkimin Evropian.

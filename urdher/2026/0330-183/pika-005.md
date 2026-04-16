@@ -1,0 +1,1 @@
+5. Në kuadër të realizimit të raporteve për strukturat e Bashkimit Evropian, zëvendësministri i Drejtësisë drejton procesin e hartimit të Raportit për Sundimin e Ligjit dhe e validon atë para dërgimit pranë strukturave të Bashkimit Evropian.
