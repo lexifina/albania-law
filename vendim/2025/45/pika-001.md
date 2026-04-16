@@ -1,1 +1,1 @@
-1. Pjesëmarrjen në operacionin ushtarak ndërkombëtar “Interflex” në Mbretërinë e Bashkuar të Britanisë së Madhe dhe Irlandës së Veriut të 8 (tetë) ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë.
+1. Pjesëmarrjen në operacionin ushtarak ndërkombëtar “Interflex” në Mbretërinë e Bashkuar të Britanisë së Madhe dhe Irlandës së Veriut të 12 (dymbëdhjetë) ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë.
