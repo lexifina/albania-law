@@ -135,21 +135,21 @@ Arë
 17208
 17208
 8
-K15’/V4
-Lufti
-Kurtish
-Kotarja
-Domje
-1514
+K15/V4
+Armand Denisa
+Hamdi Ramazan
+Çela Çela
+Valias
+15/14
 380/91
 Arë
-500
-10
-18
+2,761
+9
+110
 24
 717
-17208
-17208
+17,208
+17,208
 9
 K16/V4
 Azem
