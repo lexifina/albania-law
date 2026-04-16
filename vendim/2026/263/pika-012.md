@@ -1,0 +1,2 @@
+12. Ngarkohen Ministria e Infrastrukturës dhe Energjisë, Bashkia Peqin, Agjencia Shtetërore e Kadastrës, Zyra Vendore Peqin, Agjencia Shtetërore për Shpronësimin dhe Drejtoria e Administrimit dhe Mbrojtjes së Tokës pranë Këshillit të Qarkut Elbasan për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
