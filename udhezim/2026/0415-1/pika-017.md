@@ -1,0 +1,1 @@
+17. Kërkesa për regjistrim refuzohet kur aplikanti nuk plotëson kriteret ligjore ose nuk paraqet dokumentacionin e kërkuar brenda afatit 15 (pesëmbëdhjetë) ditor. Në të dyja rastet, aplikanti njoftohet për shkaqet e refuzimit nëpërmjet portalit e-Albania.

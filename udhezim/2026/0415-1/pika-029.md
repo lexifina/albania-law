@@ -1,0 +1,1 @@
+29. Sistemi i pikëzimit është i aksesueshëm në faqen zyrtare të Ministrisë së Drejtësisë dhe realizohet nëpërmjet plotësimit të formularit përkatës elektronik në shërbimin “Vlerësim i ekspertëve në gjykata” në portalin e-Albania.

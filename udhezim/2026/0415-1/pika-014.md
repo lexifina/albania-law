@@ -1,0 +1,1 @@
+14. Aplikimi dhe dokumentacioni shoqërues, të paraqitura në mënyrë elektronike nëpërmjet portalit e-Albania, shqyrtohen sipas radhës së regjistrimit. Aplikimi shqyrtohet brenda 60 (gjashtëdhjetë) ditëve nga data e paraqitjes së kërkesës për regjistrim.

@@ -1,0 +1,1 @@
+2. Regjistri Elektronik i Ekspertëve mbahet në formë elektronike dhe organizohet në seksione, duke grupuar ekspertët sipas fushës së ekspertizës dhe vendit të ushtrimit të aktivitetit, në përputhje me juridiksionin territorial të rretheve gjyqësore.

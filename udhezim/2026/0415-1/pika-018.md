@@ -1,0 +1,1 @@
+18. Aplikanti, kërkesa e të cilit është refuzuar, ka të drejtë të paraqesë ankim pranë ministrit të Drejtësisë brenda 5 (pesë) ditëve nga marrja e njoftimit. Ministri shqyrton ankimin dhe njofton ankuesin brenda 10 (dhjetë) ditëve nga data e depozitimit të tij.

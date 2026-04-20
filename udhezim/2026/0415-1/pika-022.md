@@ -1,0 +1,1 @@
+22. Në rast se eksperti largohet nga Shqipëria ose vendos të pezullojë ushtrimin e aktivitetit profesional, ai njofton Ministrinë e Drejtësisë dhe kërkon pezullimin e përkohshëm. Në këtë rast, në regjistër shënohet statusi “I pezulluar” dhe njoftohet eksperti për pezullimin e tij.

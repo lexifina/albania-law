@@ -1,0 +1,1 @@
+32. Udhëzimi i ministrit të Drejtësisë nr. 10619, datë 19.10.2018, “Për krijimin, administrimin dhe vënien në dispozicion për publikun të Regjistrit Elektronik të Ekspertëve”, i ndryshuar, shfuqizohet.
