@@ -1,0 +1,1 @@
+1. Miratimin e Planit të Menaxhimit të Rezervatit Natyror “Karaburun”, të shpallur me vendimin nr. 60, datë 26.1.2022, të Këshillit të Ministrave, sipas tekstit bashkëlidhur këtij urdhri dhe që është pjesë përbërëse e tij.

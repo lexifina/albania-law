@@ -1,0 +1,1 @@
+2. Plani i menaxhimit është hartuar nga Agjencia Kombëtare e Zonave të Mbrojtura në bashkëpunim me drejtoritë teknike të Ministrisë së Mjedisit dhe është paraqitur për miratim me shkresën nr. 1070 prot., datë 23.2.2026.

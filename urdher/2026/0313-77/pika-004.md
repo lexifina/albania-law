@@ -1,0 +1,1 @@
+4. Ngarkohet Agjencia Kombëtare e Zonave të Mbrojtura të njoftojë urdhrin dhe Planin e Menaxhimit të bashkive, pronarëve privatë, pronat e të cilëve shtrihen brenda territorit të zonës së mbrojtur, si dhe institucioneve të linjës, që kanë në fushën e tyre të përgjegjësisë masat e parashikuara në këtë plan menaxhimi.
