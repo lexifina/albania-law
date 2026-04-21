@@ -4,6 +4,10 @@ Nr. 46, datë 17.2.2026
 
 MBI RINOVIMIN E LICENCËS SË SHOQËRISË “DEVOLL HYDROPOWER” SHA NË VEPRIMTARINË E FURNIZIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr. 114, datë 21.4.2026)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16 dhe 37, pika 2, germa “ç” të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; neneve 4, pika 1, germa “d”, 5, pika 1, germa “d”, 13 dhe 16, të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe nenit 15 të rregullores “Për organizimin, funksionimin dhe procedurat e ERE-s”, të miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 17.2.2026, mbasi shqyrtoi relacionin me nr. 134/3 prot., datë 13.2.2026, të Drejtorisë së Licencimit, Autorizimeve dhe Garancisë së Origjinës “Mbi kërkesën e shoqërisë ‘Devoll Hydropower’ sh.a. për rinovimin e licencës në veprimtarinë e furnizimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -36,7 +40,7 @@ VENDOSI:
 
 1. Të rinovojë licencën nr. 343, seria F16/F21, të shoqërisë “Devoll Hydropower” sh.a., për veprimtarinë e furnizimit të energjisë elektrike, dhënë me vendimin e Bordit të ERE-s nr. 81, datë 9.6.2016, dhe rinovuar me vendimin e Bordit të ERE-s nr. 134, datë 7.6.2021, për një afat 5-vjeçar, duke filluar nga data 11.6.2026.
 
-2. Brenda datës 31.3.2026, shoqëria duhet të depozitojë në ERE kontratën e rinovuar të qirasë për përdorimin e zyrave përfaqësuese të furnizuesit ose një dokument në lidhje me disponimin e tyre për periudhën e mbetur të licencës.
+2. Brenda datës 31.3.2027, shoqëria duhet të depozitojë në ERE kontratën e rinovuar të qirasë për përdorimin e zyrave përfaqësuese të furnizuesit ose një dokument në lidhje me disponimin e tyre për periudhën e mbetur të licencës.
 
 3. Shoqëria duhet të depozitojë në ERE vendimin e gjykatës, në lidhje me detyrimet tatimore menjëherë sapo ta disponojë atë.
 
