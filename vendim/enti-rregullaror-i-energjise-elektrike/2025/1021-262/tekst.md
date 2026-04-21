@@ -4,7 +4,7 @@ Nr. 262, datë 21.10.2025
 
 MBI LICENCIMIN E SHOQËRISË “VIVID POWER” SHPK NË VEPRIMTARINË E FURNIZIMIT TË ENERGJISË ELEKTRIKE
 
-(Ndryshuar me Vendimin nr. 11, datë 15.1.2026)
+(Ndryshuar me Vendimin nr. 11, datë 15.1.2026; nr. 115, datë 21.4.2026)
 
  (I përditësuar)
 
@@ -40,11 +40,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Vivid Power” sh.p.k. në veprimtarinë e furnizimit të energjisë elektrike, për një afat 5-vjeçar.
 
-2. Me fillimin e operimit, shoqëria të depozitojë në ERE informacionin e përditësuar, në lidhje me sistemin IT dhe strukturën organizative me stafin teknik efektiv për ushtrimin e veprimtarisë së furnizimit të energjisë elektrike. 
+2. Shfuqizuar. 
 
 3. Shfuqizuar.
 
-4. Ky vendim është objekt rishikimi nga ERE në varësi të plotësimit/mosplotësimit të kushtit të vendosur në pikën 2.
+4. Shfuqizuar.
 
 5. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “Vivid Power” sh.p.k., “OST” sh.a., “OSSH” sh.a. dhe “ALPEX” sh.a. për vendimin e Bordit të ERE-s.
 
