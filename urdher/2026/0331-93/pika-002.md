@@ -1,0 +1,1 @@
+2. Plani i Integruar i Menaxhimit të Parkut Kombëtar “Lumi Vjosë”, i ndryshuar të publikohet në faqen zyrtare të Ministrisë së Mjedisit dhe në faqen zyrtare të Agjencisë Kombëtare të Zonave të Mbrojtura.

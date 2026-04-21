@@ -1,0 +1,1 @@
+1. Miratimin e Planit të Integruar të Menaxhimit të Parkut Kombëtar “Lumi Vjosë”, i ndryshuar, sipas tekstit bashkëlidhur këtij urdhri dhe që është pjesë përbërëse e tij, të hartuar dhe propozuar në përputhje me parashikimet e ligjit 81/2017, “Për zonat e mbrojtura”, të ndryshuar.
