@@ -1,0 +1,1 @@
+2. Miratimin e zonifikimit të zonës arkeologjike “A” të Bushatit, Bashkia Vau i Dejës, sipas koordinatave dhe hartave të zonifikimit në Kornizën Referuese Gjeodezike Shqiptare (KRGJSH), që i bashkëlidhet këtij vendimi.
