@@ -53,6 +53,6 @@ Mbledhja e BA-së dhe vendimmarrja
 Neni 5
 Shpërblimi i anëtarëve të BA-së
 1. Kryetari, anëtarët dhe sekretari teknik i BA-së do të përfitojnë shpërblim për çdo mbledhje të BA-së.
-2. Shpërblimi i kryetarit dhe i anëtarëve të BA-së është i barabartë në shumën 15 000 (pesëmbëdhjetë mijë) lekë, për çdo mbledhje të BA-së, por në çdo rast, numri i shpërblimeve nuk duhet të jetë më shumë se 6 pagesa në vit, pavarësisht nga numri i mbledhjeve të BA-së.
-3. Shpërblimi i sekretarit teknik është i barabartë me shumën 5 000 (pesë mijë) lekë, për çdo mbledhje të BA-së, por në çdo rast, numri i shpërblimeve nuk duhet të jetë më shumë se 6 pagesa në vit, pavarësisht nga numri i mbledhjeve të BA-së.
+2. Shpërblimi i kryetarit dhe i anëtarëve të BA-së është i barabartë me shumën 25 000 (njëzet e pesë mijë) lekë për çdo mbledhje, por, në çdo rast, numri i shpërblimeve nuk duhet të jetë më shumë se 12 (dymbëdhjetë) pagesa në vit, pavarësisht nga numri i mbledhjeve të BA-së.
+3. Shpërblimi i sekretarit teknik është i barabartë me shumën 10 000 (dhjetë mijë) lekë për çdo mbledhje, por, në çdo rast, numri i shpërblimeve nuk duhet të jetë më shumë se 12 (dymbëdhjetë) pagesa në vit, pavarësisht nga numri i mbledhjeve të BA-së.
 4. Shpenzimet që parashikohen nga zbatimi i kësaj rregulloreje janë parashikuar të mbulohen nga buxheti i DPPI-së, si agjenci autonome.
