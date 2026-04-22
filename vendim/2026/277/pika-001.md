@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i terreneve sportive dhe muri rrethues për shkollën ’Mustafa Greblleshi’ dhe ’Sandër Prosi’”, Bashkia Tiranë.
