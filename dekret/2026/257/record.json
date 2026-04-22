@@ -1,0 +1,26 @@
+{
+  "qbz_id": 33091,
+  "title": "Për dhënie dekorate",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "257",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2026-04-17",
+  "published": "2026-04-22",
+  "in_force": "2026-04-22",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ec1fc150e357c8f21d2b586c841b1ae43357a2b808802e10e642de01c891562d.docx",
+  "source_sha256": "ec1fc150e357c8f21d2b586c841b1ae43357a2b808802e10e642de01c891562d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/33091",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2026/04/17/257",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
