@@ -1,0 +1,1 @@
+4. Agjencia Shtetërore e Kadastrës raporton tek autoriteti përgjegjës, Agjencia e Inteligjencës Financiare, brenda 72 (shtatëdhjetë e dy) orëve, regjistrimin e kontratës së tjetërsimit të pronës, me një vlerë të barabartë ose më të madhe se 6 000 000 (gjashtë milionë) lekë ose kundërvlerën e saj në monedha të tjera të huaja, sipas formularit RTV.

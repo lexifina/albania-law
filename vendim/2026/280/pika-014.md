@@ -1,0 +1,1 @@
+14. Udhëzimi nr. 1, datë 1.4.2009, i Këshillit të Ministrave, “Për formën, mënyrat e procedurat e raportimit të të dhënave të subjekteve, Agjencisë së Legalizimit, Urbanizimit dhe Integrimit të Zonave/Ndërtimeve Informale dhe Zyrës Qendrore të Regjistrimit të Pasurive të Paluajtshme, në kuadrin e parandalimit të pastrimit të parave dhe financimit të terrorizmit”, shfuqizohet.

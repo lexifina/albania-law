@@ -1,0 +1,1 @@
+2. Termat e përdorur në këtë vendim kanë të njëjtin kuptim me termat e përkufizuar në ligjin nr. 9917, datë 19.5.2008, “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit”, të ndryshuar.

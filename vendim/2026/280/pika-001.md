@@ -1,0 +1,1 @@
+1. Ky vendim përcakton formën, mënyrën dhe procedurën e raportimit, që duhet të zbatohet nga Agjencia Shtetërore e Kadastrës, sipas përcaktimeve në ligjin nr. 9917, datë 19.5.2008, “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit”, të ndryshuar.

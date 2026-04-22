@@ -1,0 +1,6 @@
+7. Në zbatim të këtij vendimi, drejtori i Përgjithshëm i Agjencisë Shtetërore të Kadastrës:
+a) cakton në drejtorinë e përgjithshme një person që të shërbejë si person kontakti për autoritetin përgjegjës, Agjencinë e Inteligjencës Financiare;
+b) cakton një person përgjegjës për parandalimin e pastrimit të parave dhe financimin e terrorizmit, në nivel administrimi ose drejtimi në drejtorinë e përgjithshme dhe në çdo drejtori vendore të saj, ku të gjithë punonjësit e Agjencisë Shtetërore të Kadastrës raportojnë çdo fakt, që mund të përbëjë dyshim për pastrim parash apo financim terrorizmi;
+c) organizon procesin e monitorimit dhe siguron kryerjen e detyrave të përcaktuara nga ligji për parandalimin e pastrimit të parave dhe financimit të terrorizmit;
+ç) ngarkon kontrollin e brendshëm për të monitoruar zbatimin e detyrimeve ligjore nga personat përgjegjës të caktuar për raportimin, në përputhje me parashikimet ligjore në fuqi dhe të këtij vendimi;
+d) merr masa administrative dhe bashkëpunon me autoritetin përgjegjës, Agjencinë e Inteligjencës Financiare, për përgatitjen dhe organizimin e trajnimeve periodike të personave përgjegjës të Agjencisë Shtetërore të Kadastrës, për parandalimin e pastrimit të parave dhe financimit të terrorizmit, si dhe tipologjitë përkatëse, që lidhen me këto fusha.

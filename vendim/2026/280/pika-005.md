@@ -1,0 +1,1 @@
+5. Agjencia Shtetërore e Kadastrës raporton menjëherë dhe jo më vonë se 72 (shtatëdhjetë e dy) orë pranë autoritetit përgjegjës, Agjencisë së Inteligjencës Financiare, çdo dyshim, informacion ose të dhëna për pastrim parash apo financim terrorizmi për veprimtaritë nën juridiksionin e vet, sipas formularit RAD.
