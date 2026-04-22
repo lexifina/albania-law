@@ -1,0 +1,4 @@
+# Neni 6
+Trajtimi i materialit mbjellës dhe shumëzues bimor joorganik
+1. Materiali mbjellës dhe shumëzues bimor joorganik nuk duhet të trajtohet pas korrjes me produkte për mbrojtjen e bimëve, përveç atyre që përdoren për trajtimin e materialit mbjellës dhe shumëzues bimor të përcaktuara në pikën 4, të nenit 21, të ligjit, përveç rasteve kur trajtimi kimik është miratuar nga autoriteti kompetent për mbrojtjen e bimëve për qëllime fitosanitare, për të gjitha varietetet dhe materialet heterogjene të një lloji të dhënë në zonat ku materiali mbjellës dhe shumëzues bimor do të përdoret.
+2. Kur përdoret materiali mbjellës dhe shumëzues bimor joorganik i trajtuar, siç përcaktohet në pikën 1, parcela në të cilën kultivohet ky material mbjellës dhe shumëzues bimor, i nënshtrohet një periudhe kalimi, siç përcaktohet në pikën 3 dhe 4, të nenit 4, të këtij udhëzimi.
