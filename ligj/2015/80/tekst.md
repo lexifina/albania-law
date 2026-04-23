@@ -2,9 +2,13 @@ LIGJ
 
 Nr. 80/2015  
 
-PËR ARSIMIN E LARTË DHE KËRKIMIN SHKENCOR NË INSTITUCIONET  E ARSIMIT TË LARTË NË REPUBLIKËN 
+PËR ARSIMIN E LARTË DHE KËRKIMIN SHKENCOR NË INSTITUCIONET E ARSIMIT TË LARTË NË REPUBLIKËN 
 
 E SHQIPËRISË
+
+(Ndryshuar me ligjin nr. 43/2026, datë 23.4.2026)
+
+(I përditësuar)
 
 	Në mbështetje të neneve 78 dhe 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -258,33 +262,21 @@ Këshilli i Arsimit të Lartë dhe Kërkimit Shkencor
 
 Neni 9
 
-Qendra e Shërbimeve Arsimore
+Agjencia Kombëtare e Shërbimeve Arsimore
 
-1. Qendra e Shërbimeve Arsimore (QSHA) është institucion publik, në varësi të ministrisë përgjegjëse për arsimin, që ka për mision ofrimin e shërbimeve në fushën e arsimit të lartë dhe sigurimin e aksesit publik në të dhënat për arsimin e lartë.
+ (Ndryshuar me ligjin nr. 43/2026, datë 23.4.2026)
 
-2. QSHA-ja ka për objekt veprimtarie ofrimin e shërbimeve për qytetarët, IAL-të, institucionet e tjera dhe të tretët. Ofrimi i shërbimeve ndaj të tretëve bëhet nga QSHA-ja pas miratimit nga ministria përgjegjëse për arsimin, kundrejt pagesës së tarifave të përcaktuara me vendim të Këshillit të Ministrave. 
+1. Agjencia Kombëtare e Shërbimeve Arsimore organizohet dhe funksionon si agjenci autonome nën mbikëqyrjen e ministrit përgjegjës për arsimin, në përputhje ligjin e saj të krijimit si institucion i administratës shtetërore. 
 
-3. QSHA-ja financohet nga Buxheti i Shtetit dhe nga të ardhurat e veta, si dhe ka të drejtën e administrimit të të ardhurave të krijuara, në masën 90 për qind të vitit buxhetor. Të ardhurat e papërdorura kalojnë në vitin pasardhës buxhetor. 
-
-4. Organizimi, funksionimi i QSHA-së dhe procedurat e regjistrimit të studentëve rregullohen me udhëzim të ministrit përgjegjës për arsimin.
+2. Ofrimi i shërbimeve në fushën e arsimit të lartë dhe përcaktimi i tarifave të tyre bëhet në përputhje me përcaktimet në ligjin e organizimit dhe funksionimit të Agjencisë.
 
 Neni 10
 
-Funksionet e Qendrës së Shërbimeve Arsimore
+Funksionet e Agjencisë Kombëtare të Shërbimeve Arsimore
 
-1. QSHA-ja ka këto funksione:
+(Ndryshuar me ligjin nr. 43/2026, datë 23.4.2026)
 
-a) koordinon procesin e aplikimit në institucionet e arsimit të lartë për ndjekjen e studimeve në programet e ciklit të parë, atyre të integruara dhe programet profesionale;
-
-b) krijon dhe administron regjistrin kombëtar të studentëve të të gjitha cikleve dhe një bazë të dhënash për institucionet e arsimit të lartë, lidhur me programet e studimit, diplomat apo certifikatat që ato lëshojnë;
-
-c) pajis çdo student të regjistruar në një institucion të arsimit të lartë me një numër unik matrikullimi, që e shoqëron deri në marrjen e diplomës për programin përkatës të studimit, sipas përcaktimeve të bëra me udhëzim të ministrit përgjegjës për arsimin;
-
-ç) organizon dhe administron provimin e shtetit për profesionet e rregulluara, në bashkëpunim me organet kompetente përkatëse;
-
-d) ofron çdo shërbim tjetër të ngarkuar nga ministri përgjegjës për arsimin.
-
-2. Çdo institucion i arsimit të lartë raporton në QSHA për të gjithë aplikantët e regjistruar në ciklin e dytë dhe të tretë të studimeve të larta, si dhe për listën e të diplomuarve, sipas cikleve, brenda afateve të përcaktuara nga ministria përgjegjëse për arsimin.
+Agjencia Kombëtare e Shërbimeve Arsimore kryen detyrat dhe funksionet e përcaktuara në ligjin e krijimit.
 
 Neni 11
 
@@ -1342,9 +1334,9 @@ Pranimi në ciklin e parë të studimeve
 
 1. Pranimi në programet e studimit të ciklit të parë është i mundur për çdo kandidat që ka përfunduar me sukses ciklin e arsimit të mesëm dhe që plotëson kriterin e notës mesatare të përcaktuar çdo vit me vendim të Këshillit të Ministrave.
 
-2. Institucionet e arsimit të lartë mund të vendosin edhe kritere shtesë pranimi për përzgjedhjen e kandidatëve, të cilat shpallen nga institucioni i arsimit të lartë dhe vihen në dispozicion të Qendrës së Shërbimeve Arsimore dhe ministrisë përgjegjëse për arsimin. 
+2. Institucionet e arsimit të lartë mund të vendosin edhe kritere shtesë pranimi për përzgjedhjen e kandidatëve, të cilat shpallen nga institucioni i arsimit të lartë dhe vihen në dispozicion të Agjencisë Kombëtare të Shërbimeve Arsimore dhe ministrisë përgjegjëse për arsimin. 
 
-3. Në fillim të vitit akademik, institucionet e arsimit të lartë dërgojnë në Qendrën e Shërbimeve Arsimore listën e studentëve të regjistruar.
+3. Në fillim të vitit akademik, institucionet e arsimit të lartë dërgojnë në Agjencinë Kombëtare të Shërbimeve Arsimore listën e studentëve të regjistruar.
 
 Neni 75
 
@@ -1374,13 +1366,13 @@ Pranimi në programet e ciklit të dytë të studimeve
 
 2. Pranimi në programet e integruara të studimeve është i mundur për kandidatët që plotësojnë kriteret e përcaktuara në pikën 1, të nenit 74, të këtij ligji.
 
-3. Kriteret e pranimit të kandidatëve në programet e ciklit të dytë të studimeve përcaktohen nga njësia bazë ofruese e programit. Bëjnë përjashtim nga ky rregull programet e integruara të studimit. Kriteret bëhen publike nga njësia kryesore dhe QSHA-ja dhe miratohen sipas përcaktimeve në statutin e IAL-së.
+3. Kriteret e pranimit të kandidatëve në programet e ciklit të dytë të studimeve përcaktohen nga njësia bazë ofruese e programit. Bëjnë përjashtim nga ky rregull programet e integruara të studimit. Kriteret bëhen publike nga njësia kryesore dhe AKSHA-ja dhe miratohen sipas përcaktimeve në statutin e IAL-së.
 
 4. Kriter pranimi në një program studimi të ciklit të dytë “Master i shkencave”  është njohja nga kandidati e një prej pesë gjuhëve të huaja të Bashkimit Europian: anglisht, frëngjisht, gjermanisht, italisht, spanjisht. Nëse individi ka fituar një diplomë të një programi studimi të kryer në një nga këto gjuhë, diploma e fituar shërben si dëshmi për plotësimin e këtij kriteri. Niveli i njohjes së gjuhës së huaj përcaktohet me akt nënligjor të ministrisë përgjegjëse të arsimit të lartë.
 
 5. Institucionet e arsimit të lartë mund të njohin kredite të përfituara në programet e studimit të ciklit të dytë “Master profesional”, me qëllim transferimin e tyre në programet e studimit “Master i shkencave”.
 
-6. Në fillim të vitit akademik, institucionet e arsimit të lartë dërgojnë në QSHA listën e studentëve të regjistruar.
+6. Në fillim të vitit akademik, institucionet e arsimit të lartë dërgojnë në AKSHA listën e studentëve të regjistruar.
 
 Neni 77
 
@@ -1400,11 +1392,11 @@ Pranimi në programet e ciklit të tretë të studimeve
 
 1. Pranimi në programet e ciklit të tretë të studimeve është i mundur për kandidatët që kanë fituar diplomën “Masteri shkencave” ose “Master i arteve”dhe plotësojnë kriteret e pranimit, të përcaktuara nga institucioni i arsimit të lartë.
 
-2. Kriteret e pranimit në programet e ciklit të tretë përcaktohen nga njësitë bazë, në përputhje me standardet shtetërore të cilësisë. Këto kritere bëhen publike nga IAL-ja dhe i përcillen QSHA-së, si dhe ministrisë përgjegjëse për arsimin.
+2. Kriteret e pranimit në programet e ciklit të tretë përcaktohen nga njësitë bazë, në përputhje me standardet shtetërore të cilësisë. Këto kritere bëhen publike nga IAL-ja dhe i përcillen AKSHA-së, si dhe ministrisë përgjegjëse për arsimin.
 
 3. Kriter pranimi në një program studimi të ciklit të tretë është njohja nga kandidati e një prej pesë gjuhëve të huaja të Bashkimit Europian: anglisht, frëngjisht, gjermanisht, italisht, spanjisht, e vërtetuar përmes testeve të njohura ndërkombë-tare, në përputhje me udhëzimin përkatës të ministrit përgjegjës për arsimin. Nëse individi ka fituar një diplomë të një programi studimi të kryer në një nga këto gjuhë, diploma e fituar shërben si dëshmi për plotësimin e këtij kriteri.
 
-	4. Lista e studentëve fitues dërgohet në QSHA, në përputhje me përcaktimet e këtij ligji.
+4. Lista e studentëve fitues dërgohet në AKSHA, në përputhje me përcaktimet e këtij ligji.
 
 5. Lista e të diplomuarve në programet e ciklit të tretë përcillet nga institucioni i arsimit të lartë në ministrinë përgjegjëse për t’u pasqyruar në regjistrin shtetëror të gradave shkencore dhe titujve akademikë.
 
@@ -1560,7 +1552,7 @@ Lëshimi i diplomave, certifikatave dhe suplementi i diplomës
 
 2. Diplomat që lëshohen në përfundim të programeve të studimit të ciklit të parë, të ciklit të dytë, si edhe ato “Master ekzekutiv” të ciklit të tretë shoqërohen me suplementin e diplomës.
 
-3. Çdo formë diplome dhe certifikate, përpara se të lëshohet nga institucioni i arsimit të lartë, regjistrohet në regjistrin shtetëror të diplomave dhe regjistrin shtetëror të certifikatave për arsimin e lartë dhe kërkimin shkencor, që mbahet në Qendrën e Shërbimeve të Arsimit. 
+3. Çdo formë diplome dhe certifikate, përpara se të lëshohet nga institucioni i arsimit të lartë, regjistrohet në regjistrin shtetëror të diplomave dhe regjistrin shtetëror të certifikatave për arsimin e lartë dhe kërkimin shkencor, që mbahet në Agjencinë Kombëtare të Shërbimeve Arsimore. 
 
 4. Institucionet e arsimit të lartë nuk mund të lëshojnë dublikatë diplome, por mund të lëshojnë dokument të barasvlershëm me diplomën në formën e vërtetimit, i cili duhet të përmbajë emrin e institucionit që ka lëshuar diplomën, numrin e diplomës origjinale, datën e lëshimit të saj, ciklin dhe programin e studimit.
 
@@ -1568,21 +1560,23 @@ Lëshimi i diplomave, certifikatave dhe suplementi i diplomës
 
 Neni 92
 
-Njohja e diplomave, certifikatave e gradave të fituara në përfundim të studimeve  të kryera jashtë vendit dhe njohja e titujve të lëshuar nga një institucion i huaj  i arsimit të lartë
+Njohja e diplomave, certifikatave e gradave të fituara në përfundim të studimeve të kryera jashtë vendit dhe njohja e titujve të lëshuar nga një institucion i huaj i arsimit të lartë
+
+(Ndryshuar pikat 3, 5 dhe 7 me ligjin nr. 43/2026, datë 23.4.2026)
 
 1. Diplomat, certifikatat e gradat e fituara në përfundim të studimeve të kryera jashtë vendit, që i përkasin niveleve nga 5 deri në 8, të Kornizës Shqiptare të Kualifikimeve, njihen dhe njësohen përmes lëshimit të dokumentit zyrtar, të barasvlershëm nga pikëpamja e së drejtës për të vazhduar arsimimin, punësimin ose karrierën akademike në Shqipëri, në përfundim të procedurës zyrtare të njohjes.
 
 2. Një kualifikim apo program studimi i kryer jashtë vendit, për të cilin është lëshuar një certifikatë, diplomë apo gradë nga institucioni i huaj, i autorizuar në vendin përkatës për lëshimin e tyre, që vërteton përfundimin e kualifikimit apo programit të studimit, vlerësohet, njihet dhe njësohet në bazë të Kornizës Europiane të Kualifikimeve, të Kornizës së Kualifikimeve të vendit të origjinës dhe të Kornizës së Kualifikimeve të Republikës së Shqipërisë, sipas parimeve dhe standardeve ndërkombëtare të njohjes së kualifikimeve, përcaktuar në dokumentet, marrëveshjet dhe konventat ndërkombëtare, në të cilat përfshihet vendi ynë.
 
-3. Institucioni përgjegjës për njohjen dhe njësimin zyrtar, në Republikën e Shqipërisë, të certifikatave, diplomave dhe gradave shkencore është ministria përgjegjëse për arsimin. Ky proces kryhet nga njësia përgjegjëse e njësimit të diplomave.
+3. Institucioni përgjegjës për njohjen dhe njësimin zyrtar në Republikën e Shqipërisë të certifikatave, diplomave dhe gradave shkencore është Agjencia Kombëtare e Shërbimeve Arsimore.
 
 4. Titujt e lëshuar jashtë vendit nga një institucion i huaj i arsimit të lartë njihen në Republikën e Shqipërisë, të barasvlershëm nga pikëpamja e së drejtës për të vazhduar punësimin ose karrierën akademike në Shqipëri, përmes procedurës zyrtare të njohjes.
 
-5. Institucioni përgjegjës për njohjen zyrtare, në Republikën e Shqipërisë, të titujve akademikëtë lëshuar jashtë vendit është ministria përgjegjëse për arsimin. 
+5. Institucioni përgjegjës për njohjen zyrtare në Republikën e Shqipërisë të titujve akademikë të lëshuar jashtë vendit është ministria përgjegjëse për arsimin. Ky proces kryhet nga njësia përgjegjëse e njësimit të diplomave nëpërmjet komisioneve përkatëse. Sekretariati teknik për këtë shërbim ndodhet pranë Agjencisë Kombëtare të Shërbimeve Arsimore. 
 
 6. Procedurat dhe kriteret për njohjen dhe njësimin e diplomave, certifikatave dhe gradave të fituara në përfundim të studimeve të kryera jashtë vendit, si dhe njohjen e titujve akademikë të lëshuar nga institucione të huaja të arsimit të lartë përcaktohen me udhëzim të ministrit përgjegjës për arsimin, duke respektuar marrëveshjet ndërkombë-tare të nënshkruara nga vendi ynë për këtë qëllim. Ministria përgjegjëse për arsimin mund të përcaktojë dhe vlefshmërinë e diplomës së njësuar, sipas fushës së punësimit.
 
-7. Ministria përgjegjëse për arsimin mban bazën e të dhënave kombëtare të diplomave, certifikatave, gradave dhe titujve të njësuar apo tënjohur në Republikën e Shqipërisë.
+7. Baza e të dhënave kombëtare e diplomave, certifikatave, gradave dhe titujve të njësuar apo të njohur në Republikën e Shqipërisë mbahet e administrohet në përputhje me legjislacionin në fuqi për bazat e të dhënave shtetërore.
 
 KREU VIII
 
