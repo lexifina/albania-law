@@ -1,6 +1,6 @@
 # Shtojca
 RREGULLORE
-E ADMINISTRIMIT Të PARQEVE ARKEOLOGJIKE TË SHKODRËS, LEZHËS, APOLONISË, AMANTIAS, ORIKUMIT, ANTIGONESË DHE FINIQIT
+E ADMINISTRIMIT Të PARQEVE ARKEOLOGJIKE TË SHKODRËS, LEZHËS, APOLONISË, AMANTIAS, ANTIGONESË DHE FINIQIT
 KREU I
 DISPOZITA TË PËRGJITHSHME
 1. Kjo rregullore hartohet bazuar në:
@@ -8,11 +8,11 @@ a) ligjin nr.9048, datë 7.4.2003 “Për trashëgiminë kulturore”,
 b) ligjin nr.8906, datë 6.6.2002 “Për zonat e mbrojtura”,
 c) ligjin nr.8934, datë 5.9.2002 “Për mbrojtjen e mjedisit”,
 si dhe në aktet e tjera ligjore e nënligjore në fuqi.
-2. Kjo rregullore ka si qëllim, përcaktimin e kufijve dhe rregullave për mënyrën e administrimit të parqeve arkeologjike të Shkodrës, Lezhës, Apolonisë, Amantias, Orikumit, Antigonesë dhe Finiqit.
+2. Kjo rregullore ka si qëllim, përcaktimin e kufijve dhe rregullave për mënyrën e administrimit të parqeve arkeologjike të Shkodrës, Lezhës, Apolonisë, Amantias, Antigonesë dhe Finiqit.
 3. Strukturat përgjegjëse të administrimit të parqeve arkeologjike janë si më poshtë vijon:
 - Struktura përgjegjëse për administrimin e Parkut Arkeologjik Shkodër-Lezhë, sipas kësaj rregulloreje është Drejtoria Rajonale e Kulturës Kombëtare Shkodër;
 - Struktura përgjegjëse për administrimin e Parkut Arkeologjik Antigone, sipas kësaj rregulloreje është Drejtoria Rajonale e Kulturës Kombëtare Gjirokastër;
-- Struktura përgjegjëse për administrimin e Parkut Arkeologjik Amantia-Orikum-Finiq, sipas kësaj rregullore është Drejtoria Rajonale e Kulturës Kombëtare Vlorë;
+- Struktura përgjegjëse për administrimin e Parkut Arkeologjik Amantia -Finiq, sipas kësaj rregullore është Drejtoria Rajonale e Kulturës Kombëtare Vlorë;
 - Struktura përgjegjëse për Administrimin e Parkut Arkeologjik, Apoloni, është Zyra e Administrimit dhe Koordinimit të Parkut Arkeologjik, Apoloni.
 - Struktura përgjegjëse për administrimin e Parkut Arkeologjik, është Zyra e Administrimit dhe Koordinimit të Parkut Arkeologjik.
 KREU II
