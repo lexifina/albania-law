@@ -1,0 +1,2 @@
+2. Ngarkohen Ministria e Mjedisit, Ministria e Ekonomisë dhe Inovacionit, Ministria e Bujqësisë dhe Zhvillimit Rural, Ministria e Turizmit, Kulturës dhe Sportit, Ministria e Arsimit, ministri i Shtetit për Pushtetin Vendor, Agjencia Kombëtare e Ekonomisë së Mbetjeve, Agjencia Kombëtare e Mjedisit, njësitë e vetëqeverisjes vendore, Agjencia e Prokurimit Publik dhe struktura përgjegjëse për inspektimin në fushën e mjedisit, nën mbikëqyrjen e Inspektoratit të Përgjithshëm, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
