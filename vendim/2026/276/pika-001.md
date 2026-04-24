@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rrugët paralele me hekurudhën nga kthesa e Kamzës deri tek stacioni hekurudhor në Kashar-loti I”.
