@@ -1,0 +1,126 @@
+# Shtojca
+LISTA EMËRORE E PRONARËVE, PASURITË E PALUAJTSHME, PRONË PRIVATE, TË TË CILËVE SHPRONËSOHEN PËR INTERES PUBLIK, NGA NDËRTIMI I SEGMENTIN RRUGOR “NDËRTIMI I TUNELIT TË LLOGARASË”
+Nr.
+Pronari
+Të dhënat kadastrale
+(sipas kartelës së pasurisë)
+Vlerësimet për shpronësim sipas llojit të pasurisë
+Adresa e pronarëve
+Shënime
+Emri
+Atësia
+Mbiemri
+ZK
+Nr. i pasurisë
+Lloji i pasurisë
+Sip.
+Shpronësim tokë “arë”
+Shpronësim tokë “kullotë”
+Vlera
+totale
+Sip.
+Çmimi
+Vlera
+Sip.
+Çmimi
+Vlera
+totale
+(m2)
+(m2)
+(lek/m2)
+(lek)
+(m2)
+(lek/m2)
+(lek)
+(lek)
+1
+PRENJO
+HALILI
+1568
+214
+Arë
+709
+522
+204
+106,488.00
+106,488.00
+Dukat
+2
+PRENJO
+HALILI
+1568
+211
+Arë
+2052
+522.4
+204
+106,569.60
+106,569.60
+Dukat
+3
+PRENJO
+HALILI
+1568
+215
+Arë
+720
+571
+204
+116,484.00
+116,484.00
+Dukat
+4
+PRENJO
+HALILI
+1568
+217
+Arë
+1631
+69.5
+204
+14,178.00
+14,178.00
+Dukat
+5
+ISMAIL
+HASAN
+HALILI
+1568
+21/203/6
+Kullotë
+6320
+869.5
+241
+209,549.50
+209,549.50
+Tiranë
+6
+ALBAN
+HASAN
+HALILI
+1568
+21/203/7
+Kullotë
+6320
+881.2
+241
+212,369.20
+212,369.20
+Tiranë
+7
+ILIR
+HARIZ
+HALILI
+1568
+21/203/5
+Kullotë
+15464
+4255.3
+241
+1,025,527.30
+1,025,527.30
+Tiranë
+Vlera totale
+343,719.60
+1,447,446.00
+1,791,165.60
