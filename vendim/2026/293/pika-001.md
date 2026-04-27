@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Sistemim - asfaltim i rrugëve ’Xhejms Belushi’, ’Dhori Koti’ dhe rrugëve lidhëse”, Bashkia Korçë.
