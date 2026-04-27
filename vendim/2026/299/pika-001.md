@@ -1,0 +1,4 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Kurbin të zonave, si më poshtë vijon:
+a) Zona nr.1, fshatrat Gjorm, Zhejë, Shëmri, Shpërthet, zonat kadastrale 2120, 3924, 3336, 3412, 3295 dhe 1768, pjesë të njësisë administrative Mamurras, Bashkia Kurbin, Qarku Lezhë, me sipërfaqe 1918 (një mijë e nëntëqind e tetëmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr.2, fshatrat Ferr-Shkopet, Shkopet, zona kadastrale 3391, pjesë e njësisë administrative Milot, Bashkia Kurbin, Qarku Lezhë, me sipërfaqe 487 (katërqind e tetëdhjetë e shtatë) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr.3, fshatrat Selitë, Delbnisht, Mal i Bardhë i Sipërm, Mal Milot, Skuraj, Gallatë, Gernac, Vinjoll, zonat kadastrale 2365, 1458, 2580, 3295, 3780, 3469, pjesë të njësisë administrative Milot, Bashkia Kurbin, Qarku Lezhë, me sipërfaqe 8003 (tetë mijë e tre) ha, sipas hartës në sistemin KRGJSH.
