@@ -1,0 +1,1 @@
+1. Miratimin e indeksimit të bazës së vlerësuar të vitit 2024, me koeficient indeksi 6.4 %, të llogaritur sipas kritereve të përcaktuara në nenin nr. 59, të ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar.

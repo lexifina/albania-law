@@ -1,0 +1,1 @@
+5. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, lidhen me zbatimin e formulës së caktimit të pensioneve dhe aplikohen vetëm për pensionet që caktohen me datë lindjeje të së drejtës, nga data 1.1.2026 e në vazhdim, dhe përballohen brenda buxhetit vjetor, të miratuar për Institutin e Sigurimeve Shoqërore.

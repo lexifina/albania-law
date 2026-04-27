@@ -1,0 +1,3 @@
+4. Pas aplikimit të indeksit të vitit 2024, baza e vlerësuar për efekt të llogaritjes së masës fillestare mujore të pensioneve, që do të caktohen me datë lindjeje të së drejtës, nga data 1.1.2026, nuk mund të jetë më e lartë, se:
+a) trefishi i pagës minimale në shkallë vendi, e përcaktuar me vendim të Këshillit të Ministrave, për pagat e periudhës, nga viti 1994 deri në 31.12.2001;
+b) paga maksimale në shkallë vendi, e përcaktuar sipas kritereve të nenit 10, të ligjit nr. 7703, datë 1.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, për pagat e periudhës, nga viti 2002 e në vazhdim.
