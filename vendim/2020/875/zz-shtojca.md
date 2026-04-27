@@ -1,152 +1,157 @@
 # Shtojca
-LISTA PËRFUNDIMTARE E PRONARËVE TË PASURIVE, PRONË PRIVATE, QË SHPRONËSOHEN NGA REALIZIMI I PROJEKTIT:
-“NDËRTIMI I NËNSTACIONIT 400/110/20 kv, TIRANA 3”
+LISTA EMËRORE E PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË SHPRONËSOHEN, PËR INTERES PUBLIK, NGA REALIZIMI I PROJEKTIT “NDËRTIMI I NËNSTACIONIT 400/110/20 kV, TIRANA 3”
 Nr.
-Emër, Mbiemër
+rendor
+Pronësia
+Të dhënat kadastrale
+(sipas kartelës së pasurisë)
+Kompensimi sipas standardit ndërkombëtar (vlera në lekë)
+Shënime
+Emër Mbiemër
 Lloji i pasurisë
-Z.K.
-Nr. i pasurisë
-Sip. e pronës m2
-Sip. e shpronësimit
-Çmimi i tokës lekë/m2
-Vlera e shpronësimit në lekë
+ZK
+Nr. pasurie
+Sip. e pronës (m²)
+Sip. që shpronësohet (m²)
+Çmimi i tokës (lekë/m²) llogaritur sipas raportvlerësimit të përgatitur nga ekspertët vlerësues
+Vlera e kompensimit sipas standardit ndërkombëtar
+(në lekë)
 1
 Qemal Metoja
 Arë
 2947
 371/5
-9200
-9200
-470
-4,324,000
+9,200
+9,200
+1,406
+12,935,200
 2
-Artur Xhemzi Sinanaj Ferdinand Xhemzi Sinoma
+Artur Xhezmi Sinanaj Ferdinand Xhezmi Sinoma
 Arë
 2947
 371/6
-9000
-9000
-470
-4,230,000
+9,000
+9,000
+1,406
+12,654,000
 3
 Myrteza Gjashta
 Arë
 2947
 371/11
-8000
-1700
-470
-799,000
+8,000
+1,700
+1,406
+2,390,200
 4
 Mustafa Mahmut Kupi
 Arë
 2947
 371/12
-3450
-3450
-470
-1,621,500
+3,450
+3,450
+1,406
+4,850,700
 5
-Bashkëpronësi Aqif dhe Shaban Sina
+Aqif Maliq Sina, Shaban Maliq Sina
 Arë
 2947
 371/13
-4039
-4039
-470
-1,898,330
+4,039
+4,039
+1,406
+5,678,834
 6
-Bashkëpronësi Aqif dhe Shaban Sina
+Aqif Maliq Sina, Shaban Maliq Sina
 Arë
 2947
 371/14
 500
 500
-470
-235,000
+1,406
+703,000
 7
-Pietro Durim Kuqi
+Valbona Lalaj
 Arë
 2947
 371/15
-1500
-1500
-470
-705,000
+1,500
+1,500
+1,406
+2,109,000
 8
 Muhamet Abdulla Zaja
 Arë
 2947
 371/16
-5000
-5000
-470
-2,350,000
+5,000
+5,000
+1,406
+7,030,000
 9
-Bashkëpronësi Aqif dhe Shaban Sina
+Aqif Maliq Sina, Shaban Maliq Sina
 Arë
 2947
 371/17
 261
 261
-470
-122,670
+1,406
+366,966
 10
 Jakup Kupi
 Arë
 2947
 371/18
-2000
-2000
-470
-940,000
+2,000
+2,000
+1,406
+2,812,000
 11
 Mustafa Isak Doda
 Arë
 2947
 371/19
-2000
-2000
-470
-940,000
+2,000
+2,000
+1,406
+2,812,000
 12
-Bashkëpronësi, familjet Çejku, Çala, Domi, Gjana, Çajku
+Fatmir Maliq Çejku, Ylber Maliq Çajku, Nexhmije Maliq Gjana, Hatije Maliq Domi, Meriman Maliq Çejku, Fitore Maliq Çela, Luan Maliq Çajku, Abaz Maliq Çejku
 Arë
 2947
-5/1/6.
-14950
+5/1/6
+14,950
 457
-470
-214,790
+1,406
+642,542
 13
 Bashkim Isuf Kupi
 Arë
 2947
-5/1/7.
-7000
+5/1/30
 220
-470
-103,400
+220
+1,406
+309,320
 14
 Isuf Jakup Kupi
 Arë
 2947
-5/1/8.
-1000
+5/1/8
+1,000
 41
-470
-19,270
+1,406
+57,646
 15
-Mustafa Kupi
+Mustafa Mahmut Kupi
 Arë
 2947
-5/1/9.
-14200
+5/1/9
+9,950
 444
-470
-208,680
-Sipërfaqe totale shpronësimi m2
-39812
-Vlera totale
-18,711,640
-Vlerësimi për pasuritë “tokë arë” eshët kryer bazuar në VKM-në nr. 89, date 3.2.2016.
+1,406
+624,264
+Sipërfaqe totale shpronësimi (m²)
+39,812
+Nënstacioni 400/110/20 kV, Tirana 3 - shuma e kompensimit (lekë)
+55,975,672
