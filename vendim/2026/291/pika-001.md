@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikualifikimi urban në lagjen “5 Shtatori”, Çorovodë, blloku nr.1 (faza e parë)”, Bashkia Skrapar.
