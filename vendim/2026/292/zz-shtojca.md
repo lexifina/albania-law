@@ -1,0 +1,53 @@
+# Shtojca
+LISTA EMËRORE E PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, PËR SHPRONËSIM, PËR INTERES PUBLIK, QË PREKEN NGA REALIZIMI I PROJEKTIT “SISTEMIM ASFALTIM RRUGA ’PJETRUSHI’, PRANË VARREZAVE TË QYTETIT, GRUDË E RE”, BASHKIA SHKODËR
+Nr.
+PRONARI
+TË DHËNAT KADASTRALE (SIPAS KARTELËS SË PASURISË)
+VLERËSIMET PËR SHPRONËSIM
+VLERA TOTALE (lekë)
+SHËNIME (kufizime hipotekare, barrë mbi pasurinë etj.)
+ARË
+Emri
+Atësia
+Mbiemri
+Numri i pasurisë
+Zona kadastrale
+Indeksi i hartës
+Lloji i pasurisë
+Sipërfaqja totale (m2)
+Volumi
+Faqe
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+1
+Dede
+Shkambi
+221/10
+1965
+178-A
+ARE
+5900
+2
+112
+724
+270
+195,480
+195,480
+2
+Mhill
+Gjon
+Zefi
+221/15
+1965
+178-A
+ARE
+4000
+4
+69
+487
+270
+131,490
+131,490
+Vlera totale
+326,970
