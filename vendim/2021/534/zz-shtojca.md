@@ -100,9 +100,9 @@ Luca
 6/13
 4000
 are
-927
+1017
 420
-389,340
+427,140.00
 Konfirmuar nga ASHK-ja
 9
 Tana
@@ -306,17 +306,7 @@ are
 338,520
 Konfirmuar nga ASHK-ja
 27
-Besnik
-Xhavit
-Tusha
-8517
-5/4
-20000
-are
-7382
-420
-3,100,440
-Kufizuar nga ASHK
+Shfuqizuar
 28
 Çezarina
 Çezar
@@ -325,9 +315,9 @@ Larushi
 3/1
 4000
 are
-876
+143
 420
-367,920
+60,060.00
 Konfirmuar nga ASHK-ja
 29
 Adriatik
@@ -346,9 +336,9 @@ Aldoch Farma Sh.p.k
 2/221
 5000
 truall
-1821
+821
 3119
-5,679,699
+2,560,699.00
 Vihet ne favor te Credins Bank
 31
 Halil
@@ -701,65 +691,7 @@ are
 33,240
 Konfirmuar nga ASHK-ja
 Shuma totale
-27,694,048
-Me VKM-në nr. 333, datë 31.5.2023 në tabelën, që i bashkëlidhen vendimit nr. 534, datë 22.9.2021 bëhen këto ndryshime dhe shtesa:
-i. të dhënat e nënndarjeve me numrat rendorë 8, 28 dhe 30, që i përkasin, përkatësisht, pasurive nr. 6/13, nr. 3/1 dhe nr. 2/221, zona kadastrale 8517, si dhe nënndarja “Shuma totale”, zëvendësohen me të dhënat e pasqyruara në seksionin A, të tabelës që i bashkëlidhet këtij vendimi;
-ii. përmbajtja e nënndarjes me numrin rendor 27, që i përket pasurisë me nr. 5/4, zona kadastrale 8517, shfuqizohet;
-iii. pas nënndarjes me numër rendor 62 shtohen nënndarjet me numrat rendorë 63, 64, 65, 66, 67, 68, 69, 70 dhe 71, që i përkasin, përkatësisht, pasurive nr. 5/8, nr. 3/6, nr. 3/5, nr. 3/15, nr. 3/3, nr. 3/7, nr. 3/13, nr. 3/12 dhe nr. 2/220, sipas të dhënave të pasqyruara në seksionin B, të tabelës që i bashkëlidhet këtij vendimi.
-SEKSIONI A
-Nr.
-Pronari
-Lloji i pasurisë
-Sipërfaqe shpronësimi
-Çmimi lekë/(m2)
-Vlera (lekë)
-Shënime
-Emri
-Atësia
-Mbiemri
-Zona
-Numri i
-Sip.
-kadastrale
-pasurisë
-totale
-8
-Vivjana
-Luca
-8517
-6/13
-4000
-Arë
-1017
-420
-427,140.00
-Konfirmuar nga ASHK-ja
-28
-Çezarina
-Çezar
-Larushi
-8517
-3/1
-4000
-Arë
-143
-420
-60,060.00
-Konfirmuar nga ASHK-ja
-30
-Aldoch Farma sh.p.k.
-8517
-2/221
-5000
-Truall
-821
-3119
-2,560,699.00
-Konfirmuar nga ASHK-ja
-Vihet në favor të Credins Bank
-Shuma totale
-30 349 958
-SEKSIONI B
+30 646 898
 Nr.
 Pronari
 Lloji i pasurisë
@@ -884,3 +816,15 @@ Truall
 3119
 93,570.00
 Konfirmuar nga ASHK-ja Në favor të Bankës Credins në vitet 2014-2019
+72
+Rrahim
+Hamit
+Bardhoci
+8517
+38/27
+5650
+are
+707
+420
+296,940
+Konfirmuar nga ASHK-ja
