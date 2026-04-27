@@ -1,0 +1,37 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” të disa zonave në territorin e Bashkisë Selenicë, si më poshtë vijon:
+a) Zona nr. 1, fshati Mesaplik, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 14.08 (katërmbëdhjetë pikë zero tetë) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshati Bashaj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 1.96 (një pikë nëntëdhjetë e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr. 3, fshati Vërmik, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 271.87 (dyqind e shtatëdhjetë e një pikë tetëdhjetë e shtatë) ha, sipas hartës në sistemin KRGJSH;
+ç) Zona nr. 4, fshati Brataj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 8.54 (tetë pikë pesëdhjetë e katër) ha, sipas hartës në sistemin KRGJSH;
+d) Zona nr. 5, fshati Gjorm, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 778.90 (shtatëqind e shtatëdhjetë e tetë pikë nëntëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+dh) Zona nr. 6, fshati Lepenicë, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 10.20 (dhjetë pikë njëzet) ha, sipas hartës në sistemin KRGJSH;
+e) Zona nr. 7, fshati Gjorm, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 3.96 (tre pikë nëntëdhjetë e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+ë) Zona nr. 8, fshati Malas, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 24.01 (njëzet e katër pikë zero një) ha, sipas hartës në sistemin KRGJSH;
+f) Zona nr. 9, fshati Brataj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 4.04 (katër pikë zero katër) ha, sipas hartës në sistemin KRGJSH;
+g) Zona nr. 10, fshati Brataj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 12.16 (dymbëdhjetë pikë gjashtëmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+gj) Zona nr. 11, fshati Mesaplik, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 3.48 (tre pikë dyzet e tetë) ha, sipas hartës në sistemin KRGJSH;
+h) Zona nr. 12, fshati Bashaj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 1.14 (një pikë katërmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+i) Zona nr. 13, fshati Velçë, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 43.24 (dyzet e tre pikë njëzet e katër) ha, sipas hartës në sistemin KRGJSH;
+j) Zona nr. 14, fshati Mesaplik, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 25.42 (njëzet e pesë pikë dyzet e dy) ha, sipas hartës në sistemin KRGJSH;
+k) Zona nr. 15, fshati Ramicë, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 12.48 (dymbëdhjetë pikë dyzet e tetë) ha, sipas hartës në sistemin KRGJSH;
+l) Zona nr. 16, fshati Brataj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 1.75 (një pikë shtatëdhjetë e pesë) ha, sipas hartës në sistemin KRGJSH;
+ll) Zona nr. 17, fshati Lepenicë, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 19.22 (nëntëmbëdhjetë pikë njëzet e dy) ha, sipas hartës në sistemin KRGJSH;
+m) Zona nr. 18, fshati Brataj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 1.04 (një pikë zero katër) ha, sipas hartës në sistemin KRGJSH;
+n) Zona nr. 19, fshati Mesaplik, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 102.36 (njëqind e dy pikë tridhjetë e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+nj) Zona nr. 20, fshati Mesaplik, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 9.82 (nëntë pikë tetëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH;
+o) Zona nr. 21, fshati Bashaj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 0.71 (zero pikë shtatëdhjetë e një) ha, sipas hartës në sistemin KRGJSH;
+p) Zona nr. 22, fshati Matogjin, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 1.18 (një pikë tetëmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+q) Zona nr. 23, fshati Brataj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 28.04 (njëzet e tetë pikë zero katër) ha, sipas hartës në sistemin KRGJSH;
+r) Zona nr. 24, fshati Bashaj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 2.69 (dy pikë gjashtëdhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH;
+rr) Zona nr. 25, fshati Gjorm, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 14.33 (katërmbëdhjetë pikë tridhjetë e tre) ha, sipas hartës në sistemin KRGJSH;
+s) Zona nr. 26, fshati Mesaplik, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 1.37 (një pikë tridhjetë e shtatë) ha, sipas hartës në sistemin KRGJSH;
+sh) Zona nr. 27, fshati Brataj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 282.18 (dyqind e tetëdhjetë e dy pikë tetëmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+t) Zona nr. 28, fshati Lepenicë, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 11.43 (njëmbëdhjetë pikë dyzet e tre) ha, sipas hartës në sistemin KRGJSH;
+th) Zona nr. 29, fshati Brataj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 2.69 (dy pikë gjashtëdhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH;
+u) Zona nr. 30, fshati Bashaj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 89.84 (tetëdhjetë e nëntë pikë tetëdhjetë e katër) ha, sipas hartës në sistemin KRGJSH;
+v) Zona nr. 31, fshati Gjorm, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 4.63 (katër pikë gjashtëdhjetë e tre) ha, sipas hartës në sistemin KRGJSH;
+x) Zona nr. 32, fshati Brataj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 1.97 (një pikë nëntëdhjetë e shtatë) ha, sipas hartës në sistemin KRGJSH;
+xh) Zona nr. 33, fshati Velçë, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 71.72 (shtatëdhjetë e një pikë shtatëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH;
+y) Zona nr. 34, fshati Brataj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 1.78 (një pikë shtatëdhjetë e tetë) ha, sipas hartës në sistemin KRGJSH;
+z) Zona nr. 35, fshati Brataj, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 44.96 (dyzet e katër pikë nëntëdhjetë e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+zh) Zona nr. 36, fshati Mesaplik, pjesë e Njësisë Administrative Brataj, Bashkia Selenicë, qarku Vlorë, me sipërfaqe 12.99 (dymbëdhjetë pikë nëntëdhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH.
