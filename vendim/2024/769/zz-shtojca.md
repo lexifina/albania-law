@@ -38,7 +38,7 @@ Shtet
 -
 Shtet
 SHTOJCA NR. 2
-Pronat me funksion publik për të cilat Korporata e Investimeve Shqiptare vepron si zhvillues
+Pronat me funksion publik dhe privat për të cilat Korporata e Investimeve Shqiptare vepron si zhvillues
 Zona kadastrale
 Nr. i pasurisë
 Sip. e pasurisë (m²)
@@ -93,6 +93,37 @@ Shtet
 71
 -
 Shtet
+Zona kadastrale
+Nr. i pasurisë
+Sip. e pasurisë (m2)
+Nga sip.
+Institucioni me pronësi/ përgjegjësi administrimi
+Truall (m2)
+Ndërtesë (m2)
+8270
+1/301
+90
+90
+0
+shtet
+8270
+1/302
+54
+-
+-
+shtet
+8270
+1/303
+93
+-
+-
+shtet
+8270
+1/304
+87
+-
+-
+shtet
 SHTOJCA NR. 3
 Institucionet publike, të cilat lidhin marrëveshjen e bashkëpunimit me Korporatën e Investimeve Shqiptare:
 - Ministria e Arsimit dhe Sportit;
