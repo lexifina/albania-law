@@ -1,0 +1,1 @@
+11. Bazuar në koordinatat e pikave të kufirit, hartohet skica e plan-vendosjes dhe harta gjeohapësinore digjitale e zonës së gjuetisë, e cila është pjesë e dokumentacionit shoqërues të propozimit drejtuar ministrisë përgjegjëse për gjuetinë.

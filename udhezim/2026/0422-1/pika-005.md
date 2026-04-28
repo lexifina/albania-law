@@ -1,0 +1,1 @@
+5. Në rastet kur zona e gjuetisë shtrihet në territorin e më shumë se një njësie të vetëqeverisjes vendore, pavarësisht pronësisë shtetërore, private, ose të kombinuar, shënimi i kufijve realizohet në bashkëpunim ndërmjet njësive përkatëse.

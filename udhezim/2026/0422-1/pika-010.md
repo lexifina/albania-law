@@ -1,0 +1,1 @@
+10. Kur vendosja e shenjave në pikën ekzakte të kufirit nuk është e mundur, për shkak të kushteve të terrenit, shenja vendoset në distancën minimale të mundshme dhe shënohet devijimi në dokumentacionin përkatës.

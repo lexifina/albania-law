@@ -1,0 +1,1 @@
+1. Identifikimi, zonimi dhe shënimi në terren i kufijve të zonave të gjuetisë kryhet në përputhje me përcaktimet dhe kriteret e kreut III, të ligjit nr. 89/2025, “Për gjuetinë”, me qëllim përgatitjen e dokumentacionit për propozimin e miratimit të zonës së gjuetisë.

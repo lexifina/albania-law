@@ -1,0 +1,1 @@
+4. Në çdo rast, shënimi i kufijve të zonave të gjuetisë bazohen në të dhënat e inventarizimit të faunës së egër, analizat shkencore dhe vlerësimin e ndikimit në biodiversitet dhe nuk mund të shënohen në sipërfaqe territori ku cenohen objektivat e ruajtjes së biodiversitetit dhe detyrimet që rrjedhin nga marrëveshjet ndërkombëtare në fushën e mbrojtjes së natyrës.

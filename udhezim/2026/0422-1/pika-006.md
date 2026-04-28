@@ -1,0 +1,1 @@
+6. Nëse zona e gjuetisë ndodhet në kufi me zonat e mbrojtura, shënimi i kufijve kryhet në bashkëpunim dhe koordinim me specialistët e ADZM-ve vendore, duke pasur parasysh kriteret e përcaktuara në shkronjën “e” të nenit 9, të ligjit nr. 89/202,5 “Për gjuetinë”.

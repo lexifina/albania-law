@@ -1,0 +1,1 @@
+2. Kryetari i bashkisë ngre me urdhër një grup pune, të përbërë nga specialistë të strukturave përgjegjëse për natyrën dhe biodiversitetin pranë njësive të vetëqeverisjes vendore, të asistuar nga një jurist, si dhe me pjesëmarrjen e përfaqësuesve të shoqatave dhe federatave që operojnë në fushën e gjuetisë.
