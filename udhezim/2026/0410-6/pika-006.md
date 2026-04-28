@@ -1,0 +1,1 @@
+6. Shqyrtimi dhe analiza e dokumentacionit ekonomik/financiar dhe ligjor kryhet brenda një afati prej 15 (pesëmbëdhjetë) ditësh kalendarike nga data e paraqitjes së dokumentacionit përkatës nga subjekti kontraktor. Në rastin e OMP-ve, shqyrtimi dhe analiza e dokumentacionit ekonomik/financiar dhe ligjor kryhet brenda një afati prej 30 ditësh kalendarike.

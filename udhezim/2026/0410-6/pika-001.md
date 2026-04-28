@@ -1,0 +1,1 @@
+1. Ky udhëzim përcakton rregullat dhe procedurën për monitorimin e kontratave për ushtrimin e aktivitetit të peshkimit në ujërat e brendshme dhe të akuakulturës në sipërfaqe tokësore dhe ujore, me qëllim përmirësimin e mekanizmave të monitorimit përmes një procesi të unifikuar dhe të dokumentuar, duke garantuar trajtim të barabartë të të gjitha kontratave objekt monitorimi.
