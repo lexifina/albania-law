@@ -1,1 +1,0 @@
-6. Realizimi i investimeve të parashikuara në plan-biznes verifikohet nëpërmjet aktverifikimit të investimeve të dokumentuar dhe të plotësuar nga ana e investitorit dhe subjektit që ushtron aktivitetin. Këto investime duhet të jenë të shoqëruara me faturat tatimore përkatëse.

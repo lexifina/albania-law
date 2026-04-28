@@ -1,1 +1,0 @@
-9. Gjatë monitorimit të zbatimit të kontratave, struktura përgjegjëse për peshkimin dhe DSHPA-ja verifikojnë nëse baza materiale dhe mjetet e përdorura për ushtrimin e aktivitetit janë të njëjtat me deklarimet e bëra në plan-biznes.
