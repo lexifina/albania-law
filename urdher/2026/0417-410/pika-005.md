@@ -1,0 +1,1 @@
+5. Për periudhën prej 20.4.2026 deri më 20.7.2026, të lejohet peshkimi i riprodhuesve të krapit, në përputhje me kapacitetet mbajtëse të Qendrës së Prodhimit të Rasateve të Koranit, në fshatin Lin të Pogradecit.
