@@ -39,6 +39,6 @@ i) vepron si agjent formimi i personave juridikë;
 ii) vepron ose cakton dikë tjetër të veprojë si një drejtor ose administrator i një personi juridik, pjesëtar i një ortakërie apo një pozitë të ngjashme lidhur me persona të tjerë juridikë;
 iii) siguron një zyrë të regjistruar, akomodim ose adresë për biznesin, adresë zyrtare ose me korrespondencë për një shoqëri tregtare, partneritet, person juridik apo organizime ligjore;
 iv) vepron ose cakton dikë tjetër të veprojë si i besuar i një organizimi ligjor ose kryen funksion ekuivalent për një formë tjetër organizimi ligjor;
-v) vepron ose cakton dikë tjetër të veprojë si një aksionar dhe/ose ortak i shoqërive që kanë aksione të mbajtësit për një person tjetër;
+v) vepron ose cakton dikë tjetër të veprojë si një aksionar përfaqësues për një person tjetër;
 m) çdo individ, person fizik apo juridik, që tregton mallra apo shërbime në masën që kryen apo pranon pagesa në para fizike në një shumë prej 1 000 000 (një milion) lekësh ose më shumë, pavarësisht nëse transaksioni kryhet në një transaksion të vetëm ose në disa transaksione të lidhura;
 n) audituesit ligjorë, kontabilistët e miratuar, këshilltarët tatimorë, si dhe çdo person tjetër që merr përsipër të ofrojë drejtpërdrejt apo nëpërmjet personave të tjerë me të cilët ai person ka lidhje ndihmë materiale, asistencë apo këshillim për çështje tatimore, si biznes kryesor apo veprimtari profesionale.

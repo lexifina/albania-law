@@ -8,7 +8,7 @@ c) të kërkojnë dhe të marrin miratimin e drejtuesve të lartë për vazhdimi
 d) të marrin masat për të verifikuar nëse përfituesit apo pronarët përfitues në policat e sigurimit të jetës janë persona të ekspozuar politikisht, jo më vonë se në momentin e pagesës. Kur identifikohen rreziqe të larta, njoftohen drejtuesit e lartë përpara kryerjes së pagesës, kryhet verifikim i hollësishëm i marrëdhënies së biznesit me mbajtësin e policës, si dhe konsiderohet raportimi i aktivitetit të dyshimtë.
 2. Në rastet kur subjektet kanë një marrëdhënie biznesi me personat e ekspozuar politikisht, ata duhet të mbikëqyrin me vigjilencë të zgjeruar këtë marrëdhënie.
 2/1. Për anëtarët e familjes, personat e lidhur në marrëdhënie të ngushta personale, pune apo biznesi të personave të ekspozuar politikisht zbatohen masat e parashikuara në pikat 1 dhe 2 të këtij neni.
-3. Për klientët, të cilët janë organizata jofitimprurëse, subjektet duhet:
+3. Për klientët, të cilët janë organizata jofitimprurëse të konsideruara me rrezik të lartë, subjektet duhet:
 a) të mbledhin informacione të mjaftueshme për to, për të kuptuar plotësisht burimet e financimit, natyrën e veprimtarisë dhe mënyrën e administrimit dhe drejtimit të tyre;
 b) të përcaktojnë nëpërmjet informacionit publik ose me mjete të tjera reputacionin e tyre;
 c) të marrin miratimin nga instancat më të larta të administrimit/drejtimit përpara vendosjes së një marrëdhënieje biznesi me ta;
