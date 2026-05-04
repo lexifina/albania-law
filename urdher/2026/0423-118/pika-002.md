@@ -1,0 +1,2 @@
+2. Ngarkohet për zbatimin e këtij urdhri Sekretari i Përgjithshëm, Drejtoria e Përgjithshme e Zhvillimit të Arsimit të Lartë dhe Kërkimit Shkencor, Drejtoria e Përgjithshme Rregullatore për Arsimin, Drejtoria e Përgjithshme Ekonomike dhe e Shërbimeve Mbështetëse, Agjencia Kombëtare e Kërkimit Shkencor dhe Inovacionit, Agjencia e Sigurimit të Cilësisë në Arsimin e Lartë, Qendra e Shërbimeve Arsimore, si dhe institucionet e arsimit të lartë.
+Ky urdhër hyn në fuqi menjëherë.
