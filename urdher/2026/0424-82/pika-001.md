@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së titullarit të Partnerit Publik, Ministria e Punëve të Brendshme, zëvendësministrit të Punëve të Brendshme, znj. Anisa Ruseti, për nënshkrimin e marrëveshjes së bashkëpunimit me Korporatën e Investimeve Shqiptare, në kuadër të projektit të investimit “Qendra për Zhvillimin Multifunksional, Tiranë”.

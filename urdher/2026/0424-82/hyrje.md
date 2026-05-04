@@ -1,0 +1,5 @@
+URDHËR
+Nr. 82, datë 24.4.2026
+PËR DELEGIMIN E KOMPETENCËS ZËVENDËSMINISTRIT PËR NËNSHKRIMIN E MARRËVESHJES SË BASHKËPUNIMIT ME KORPORATËN E INVESTIMEVE SHQIPTARE, NË KUADËR TË PROJEKTIT TË INVESTIMIT “QENDRA PËR ZHVILLIMIN MULTIFUNKSIONAL, TIRANË” DHE DISA RREGULLA PËR ZBATIMIN E SAJ
+Në mbështetje të nenit 102, pika 4, të Kushtetutës së Republikës së Shqipërisë; të nenit 11, të pika 2, të ligjit nr. 90/2012, “Për organizimin dhe funksionimin e administratës shtetërore”; të nenit 6, pika 2, të ligjit nr. 9000, datë 30.1.2003, “Për organizimin dhe funksionimin e Këshillit të Ministrave”; të vendimit nr. 867, datë 10.12.2014, të Këshillit të Ministrave “Për procedurat e bashkëpunimit në institucionet e administratës shtetërore”, të ndryshuar; si dhe të vendimit nr. 119, datë 27.2.2026, të Këshillit të Ministrave “Për transferimin te Korporata e Investimeve Shqiptare të pronave shtetërore, në përgjegjësi administrimi të disa institucioneve shtetërore, për realizimin e projektit të investimit ’Për zhvillimin dhe menaxhimin e pronave shtetërore’, me nënprojektet si ’Korpusi i institucioneve të pavarura’, ’Qendra për Zhvillimin Multifunksional, Tiranë’”,
+URDHËROJ:
