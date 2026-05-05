@@ -1,7 +1,53 @@
 # Shtojca
+Pronari
+Të dhënat kadastrale
+(sipas kartelës së pasurisë)
+Vlerësimi për shpronësim
+Adresat
+Shënime
+Nr.
+Emri
+Atësia
+Mbiemri
+Të dhënat e pasurisë
+Tokë “arë”
+ZK
+Numri i pasurisë
+Lloji i pasurisë
+Sip. totale (m2)
+Sipërfaqja e shpronësuar (m2)
+Çmimi (lekë/m2)
+Vlera totale (lekë)
+26
+Bedrije
+Pasho
+Mehmetaj
+2636
+128/25
+Ullishte
+900
+730
+437
+319,010
+Mbrostar-Ura
+Shaqe
+Latif
+Agalliu
+Bektash
+Pasho
+Veliu
+Nexhmije
+Pasho
+Guri
+Valentina
+Pasho
+Jermini
+Shkelqim
+Pasho
+Veliu
 LISTA E PRONARËVE QË SHPRONËSOHEN PËR EFEKT TË NDËRTIMIT TË
 SUPERSTRADËS “FIER-VLORË”, SEGMENTI FIER-BY PASS LEVAN
-(tabelat e vendimit nr. 196, datë 4.3.2020)
+(Tabelat e vendimit nr. 196, datë 4.3.2020)
 Lloji i pasurisë së paluajtshme: Tokë arë
 Nr.
 PRONAR
@@ -10094,3 +10140,53 @@ Konfirmuar nga ASHK-ja
 Vlera
 63,781
 24,278,233
+1
+Selim Musa Veliu
+2636
+73/14
+Arë
+11564
+846
+437
+369,702
+Mbrostar-Ura
+2
+Nesti
+Zogu
+Profka
+3436
+58/80
+Arë
+1320
+1137
+299
+339,963
+Shtyllas
+3
+Nasi
+Todi
+Zhezha
+3980
+4/1
+Arë
+2220
+1532
+684
+1,047,888
+Mbrostar-Ferko
+4
+Refat
+Jonuz
+Braka
+2436
+121/36
+Arë
+7980
+793
+335
+265,655
+Fier
+Shuma totale
+4106.2
+2,342,218
+Efekti financiar shtesë 1,935,021.4 lekë
