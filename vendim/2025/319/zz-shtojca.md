@@ -64,6 +64,68 @@ Formulari 49 - Kërkesë për transferim të lejes/autorizimit.
 Formulari 50 - Kërkesë për pezullim të lejes/autorizimit.
 Formulari 51 - Kërkesë për ndryshim të lejes/autorizimit.
 Formular 52 - Kërkesë për revokim të lejes/autorizimit.
+Shënim: Tabela pas pikës 13 ndryshon me VKM nr. 29.4.2026 si më poshtë:
+Kategoria*
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+K1 (≤150 shishe/orë; ≤ 1 l/sek)
+√
+√
+√
+√
+√
+√
+√
+√
+√
+K2 (>151shishe/orë; >1l/sek)
+√
+√
+√
+√
+√
+√
+√
+√
+√
+√
+√
+√
+√
+FORMULARI 38
+KËRKESË PËR AUTORIZIM PËR PËRDORIM BURIMI UJOR PËR NDËRTIMIN E STRUKTURAVE ANKORUESE, PORTUALE DHE ISHUJVE ARTIFICIALË NË TRUPA UJORË
+I. TË DHËNA MBI VEPRIMTARINË
+Emri i burimit ujor _______________________________________________
+Vendndodhja e burimit ujor (Koordinatat KRGJSH)
+X __________________ Y __________________ Z __________________
+X __________________ Y __________________ Z __________________
+X __________________ Y __________________ Z __________________
+X __________________ Y __________________ Z __________________
+Lloji i burimit ujor ku do të kryhet veprimtaria?
+Det
+Vijë bregdetare
+Të tjera (specifiko)
+Lloji i veprimtarisë që do të kryhet __________________________________
+II. DOKUMENTACIONI TEKNIK.
+1. Dokumente të pronësisë së tokës (autorizimin/marrëveshjen paraprake për përdorimin e saj nga pronarët/subjektet, nëse veprimtaria shtrihet në prona të pronarëve apo subjekteve të tjera, ose marrëveshjen kontraktuale me autoritetin shtetëror që ka në administrim zonën sipas rastit), me përjashtim të rasteve kur struktura nuk lidhet me tokën;
+2. “Leje” nga Administrata Detare në zbatim të nenit 25, të ligjit nr. 9251, datë 8.7.2004 (i ndryshuar) (në rastet kur veprimtaria kryhet në det apo vijë bregdetare);
+3. Projekti i strukturës që do të ndërtohet;
+4. Studimi hidrologjik;
+5. Modelimi hidraulik;
+6. Vendimi i Agjencisë Kombëtare të Mjedisit (AKM) për vlerësimin e ndikimit në mjedis (VNM) paraprak ose deklarata e ministrit për VNM-në e thelluar, të shoqëruar me raportin paraprak, ose të thelluar të VNM-së, në rastet kur për instalimin është kryer procedura e vlerësimit të ndikimit në mjedis, sipas përcaktimit në ligjin “Për vlerësimin e ndikimit në mjedis”;
+KËRKUESI: ______________________
+(firma)
 SHTOJCA 2
 PËRMBAJTJA E DOKUMENTACIONIT TEKNIK
 Dokumentacioni teknik minimalisht duhet të përmbajë në mënyrë të strukturuar elementet si më poshtë.
