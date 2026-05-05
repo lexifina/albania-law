@@ -1,0 +1,8 @@
+LIGJ
+Nr. 34/2026
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË
+TRAKTATIN E NAJROBIT PËR MBROJTJEN E SIMBOLIT OLIMPIK, BËRË NË NAJROBI, MË 26 SHTATOR 1981
+Në mbështetje të neneve 78, 83, pika 1, dhe 121, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
