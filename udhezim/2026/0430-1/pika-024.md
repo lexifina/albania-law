@@ -1,0 +1,1 @@
+24. Punonjësit e njësisë përgjegjëse në subjektet private apo pala e tretë e jashtme, e angazhuar në përputhje me parashikimet e këtij udhëzimi, i nënshtrohen trajnimit të detyrueshëm për zbatimin e detyrave dhe përgjegjësive sipas ligjit dhe akteve nënligjore të nxjerra në zbatim të tij, sipas kalendarit të trajnimeve të njoftuar paraprakisht nga ILDKPKI-ja.

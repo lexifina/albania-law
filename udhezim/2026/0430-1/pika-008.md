@@ -1,0 +1,1 @@
+8. Subjektet private sigurohen që palët e treta, në ushtrimin e funksioneve të tyre si njësi përgjegjëse, të ofrojnë garancitë e duhura për respektimin e pavarësisë, konfidencialitetit, mbrojtjes së të dhënave dhe anonimitetit të sinjalizuesit e personave të përfshirë në procesin e sinjalizimit ose të kërkesës për mbrojtje.

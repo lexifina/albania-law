@@ -1,0 +1,1 @@
+14. Subjektet private njoftojnë menjëherë me shkrim ILDKPKI-në, për ngritjen e njësisë përgjegjëse, si dhe punonjësin/t apo palën e tretë të jashtme të përzgjedhur për të kryer detyrat e përcaktuara sipas ligjit dhe këtij udhëzimi.

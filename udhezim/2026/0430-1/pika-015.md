@@ -1,0 +1,1 @@
+15. Subjektet private mund të caktojnë punonjës zëvendësues për të kryer detyrat sipas pikës 11 të këtij udhëzimi, në rastet kur sinjalizuesi parashtron rrethana për praninë e konfliktit të interesave të punonjësve të njësisë përgjegjëse.

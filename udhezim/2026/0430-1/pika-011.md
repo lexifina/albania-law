@@ -1,0 +1,15 @@
+11. Njësia përgjegjëse apo pala e tretë e jashtme e ngarkuar me këtë funksion, ka për detyrë:
+a) të zbatojë detyrimet e përcaktuara në nenin 15 e vijues të ligjit;
+b) të veprojë me ndershmëri, integritet, paanshmëri, efikasitet dhe jashtë çdo ndikimi të padrejtë që mund të pengojë përmbushjen e detyrave të saj në zbatim të ligjit;
+c) të pranojë, të regjistrojë dhe të konfirmojë marrjen e sinjalizimit, brenda 7 ditëve nga data e paraqitjes, përveç rasteve kur sinjalizuesi ka kërkuar shprehimisht të mos marrë konfirmim ose kur konfirmimi rrezikon mbrojtjen e identitetit të tij;
+ç) të kërkojë informacione dhe dokumente, të urdhërojë inspektime ose analiza, të mbledhë deklarata ose të pyesë persona në dijeni ose rrethanat e çështjes, ose të konsultohet me ekspertë të fushave të ndryshme gjatë procedurës së shqyrtimit, në lidhje me veprimin ose praktikën që bien në fushën e veprimit të ligjit;
+d) të kryejë procedurën e hetimit administrativ, të marrë vendim për përfundimin e hetimit administrativ, apo mosfillimin e tij dhe ta dokumentojë atë;
+dh) të marrë të gjitha masat për shqyrtimin e hetimit administrativ të kërkesës për mbrojtje të sinjalizuesit;
+e) të raportojë mbi përfundimin e hetimit dhe problematikat e evidentuara gjatë procesit të shqyrtimit të hetimit administrativ pranë organeve mbikëqyrëse/drejtuese të subjektit privat;
+ë) të ndjekë me përgjegjshmëri sinjalizimin, të informojë sinjalizuesin për ecurinë e tij dhe rezultatin përfundimtar, jo më vonë se 3 muaj nga data e konfirmimit të regjistrimit të sinjalizimit. Ky afat zbatohet edhe në rastet kur konfirmimi nuk është dërguar;
+f) të sigurojë që mekanizmat e sinjalizimit të organizohen e të funksionojnë në mënyrë të sigurt, duke garantuar ruajtjen e konfidencialitetit, të identitetit të sinjalizuesit dhe të çdo personi të tretë të përmendur në sinjalizim, si dhe duke parandaluar aksesin e paautorizuar ndaj informacionit të përfshirë në sinjalizim;
+g) të sigurojë informacion të qartë e të kuptueshëm për procedurën e sinjalizimit të brendshëm, sinjalizimit të jashtëm pranë ILDKPKI-së apo sinjalizimit publik, përfshirë mënyrën e përdorimit të tyre;
+gj) të informojë menjëherë sinjalizuesin jo vetëm për veprimet e ndërmarra ose të parashikuara si ndjekje të mëtejshme, por edhe për arsyetimin përkatës në çdo rast dhe pa qenë nevoja për kërkesë të posaçme nga sinjalizuesi;
+h) të marrë masa për ndërgjegjësimin e punonjësve për trajtimin e sinjalizimit nëpërmjet mekanizmave të brendshëm të sinjalizimit, përpara përdorimit të mekanizmave të jashtëm, në rastet kur shkelja mund të trajtohet në mënyrë efektive brenda institucionit dhe kur sinjalizuesi vlerëson se nuk ekziston rrezik hakmarrjeje;
+i) të garantojë akses në të gjitha format e sinjalizimit, përfshirë ato verbale, me shkrim ose përmes mjeteve të tjera të njohura të komunikimit;
+j) të paraqesë pranë ILDKPKI-së, jo më vonë se data 15 janar e vitit pasardhës, raportin vjetor të konsoliduar për sinjalizimet dhe kërkesat për mbrojtje të marra dhe trajtimin e tyre, sipas formatit të përcaktuar nga ky i fundit.

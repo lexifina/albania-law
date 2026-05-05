@@ -1,0 +1,1 @@
+13. Subjektet private kanë detyrimin të sigurojnë kushtet dhe mjetet e nevojshme të punës e të komunikimit për punonjësit e njësisë përgjegjëse, në mënyrë që të ushtrojnë me efektivitet detyrat e tyre. Për palët e treta të jashtme, të caktuara si njësi përgjegjëse, përmbushja e këtij detyrimi rregullohet në marrëveshjen midis palëve.

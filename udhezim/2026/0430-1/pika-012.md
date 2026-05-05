@@ -1,0 +1,1 @@
+12. Subjektet private, në përputhje me aktet e tyre rregullatore, miratojnë rregullore të brendshme për procedurat e hetimit të sinjalizimit dhe masat për mbrojtjen e konfidencialitetit, si dhe përfshijnë funksionet e njësisë përgjegjëse në përshkrimet e punës së punonjësve të caktuar në këto njësi, në përputhje me ligjin dhe këtë udhëzim.

@@ -1,0 +1,1 @@
+22. Punonjësi i autorizuar për regjistrimin dhe hetimin administrativ të sinjalizimit apo kërkesës për mbrojtje, gëzon të drejtën e mbrojtjes sipas këtij ligji nëse bëhet objekt i veprimeve hakmarrëse për shkak të ushtrimit të detyrës.

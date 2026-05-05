@@ -1,0 +1,1 @@
+21. Punonjësi apo pala e tretë e jashtme, e ngarkuar me trajtimin e sinjalizimit dhe kërkesës për mbrojtje, në cilësinë e njësisë përgjegjëse, gëzon pavarësi në ushtrimin e kompetencave të tyre, veçanërisht në rastet kur sinjalizimi lidhet me veprimtarinë e punëdhënësit.

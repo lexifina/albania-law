@@ -1,0 +1,1 @@
+28. Subjektet private caktojnë punonjësit e njësisë përgjegjëse apo palën e tretë të jashtme të ngarkuar për këtë qëllim, brenda 2 muajve nga hyrja në fuqi e këtij udhëzimi dhe njoftojnë me shkrim ILDKPKI-në për krijimin e njësisë përgjegjëse, së bashku me kontaktet e personave përgjegjës.

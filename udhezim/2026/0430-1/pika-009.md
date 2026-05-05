@@ -1,0 +1,1 @@
+9. Subjektet private, të cilat kanë caktuar një palë të tretë si njësi përgjegjëse, nuk përjashtohen nga përgjegjësia për garantimin e funksionimit efektiv të mekanizmit të brendshëm të sinjalizimit, në përputhje me parashikimet e ligjit dhe të këtij udhëzimi.

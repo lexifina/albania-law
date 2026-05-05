@@ -1,0 +1,1 @@
+6. Subjektet private, me qëllim përzgjedhjen e përbërjes së njësisë përgjegjëse, mund të konsultohen me organizatat sindikale ose të punëdhënësve, të lidhura me subjektin, të cilat janë të njohura në përputhje me parashikimet e Kodit të Punës. Subjektet private vlerësojnë mendimin e këtyre të fundit në raport me kapacitetet e tyre të burimeve njerëzore.

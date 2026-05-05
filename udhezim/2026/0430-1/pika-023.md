@@ -1,0 +1,1 @@
+23. Nëse sinjalizimi apo kërkesa për mbrojtje është marrë nga një person që nuk është i autorizuar për të vepruar sipas ligjit, ky i fundit ka detyrimin ta përcjellë pa vonesë sinjalizimin apo kërkesën për mbrojtje pranë punonjësit të njësisë përgjegjëse ose pranë autoritetit kompetent, duke ruajtur identitetin e sinjalizuesit dhe të çdo informacioni, që mund ta zbulojë atë.

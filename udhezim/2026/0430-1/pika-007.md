@@ -1,0 +1,1 @@
+7. Subjektet private, të cilat përcaktojnë një palë të tretë të jashtme si njësi përgjegjëse, marrëdhënien juridike midis palëve e rregullojnë me një marrëveshje të posaçme me shkrim, në përputhje me kuadrin ligjor në fushën e së drejtës civile.
