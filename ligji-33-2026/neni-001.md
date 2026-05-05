@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet vendimi nr. 1/2025 i Komitetit të Përbashkët, i krijuar nga marrëveshja e tregtisë së lirë ndërmjet Republikës së Shqipërisë dhe Republikës së Turqisë, për ndryshimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Republikës së Turqisë, duke zëvendësuar protokollin II të saj, në lidhje me përcaktimin e konceptit të “Produkteve origjinuese” dhe metodave të bashkëpunimit administrativ, sipas tekstit që i bashkëlidhet këtij ligji.
