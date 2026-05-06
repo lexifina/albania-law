@@ -4,4 +4,4 @@ Miratimi i parqeve
 2. Propozimi për miratimin e parkut përfshin:
 a) kufijtë e zonës;
 b) llojet e veprimtarive të përfshira, sipas neneve 1 dhe 5 të këtij ligji.
-3. Veprimtaria e parkut fillon pas përcaktimit të zonës, të portave të hyrjes e të daljes dhe të funksionimit të pikës doganore.
+3. Veprimtaria e parkut fillon pas përcaktimit të zonës, të portave të hyrjes e të daljes dhe të funksionimit të pikës doganore. Veprimtaria e parkut virtual/në distancë fillon me lidhjen e marrëveshjes midis zhvilluesit dhe institucionit përgjegjës.

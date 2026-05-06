@@ -1,5 +1,7 @@
 # Neni 15
 Pronësia intelektuale
 1. Përdoruesit në park duhet të regjistrojnë pronësinë intelektuale për krijimet e zhvilluara në park edhe me autoritetet përkatëse të Republikës së Shqipërisë.
-2. Zhvilluesi ndihmon përdoruesit me regjistrimin e krijimeve në Republikën e Shqipërisë.
-3. Zhvilluesi mund të përfitojë një pjesë të të ardhurave që gjenerohen nga pronësia intelektuale e krijimeve, që zhvillohen në zonë nga përdoruesit për një periudhë 5-vjeçare, sipas përcaktimeve në marrëveshjen e lidhur ndërmjet zhvilluesit dhe përdoruesit.
+2. Zhvilluesi ndihmon përdoruesit me regjistrimin e krijimeve në Republikën e Shqipërisë dhe në përdorimin e tyre nga institucionet/entet publike sipas marrëveshjeve të bashkëpunimit për një produkt inovativ të negociuara mes përdoruesit, zhvilluesit dhe institucionit/entit publik përfitues.
+3. Zhvilluesi mund të përfitojë një pjesë të të ardhurave që gjenerohen nga pronësia intelektuale, nga transaksionet e lidhura me ofrimin e shërbimit/produktit/mallit për institucionet/entet publike, për krijimet/mallrat/shërbimet që zhvillohen në zonë nga përdoruesit për një periudhë 5-vjeçare, sipas përcaktimeve në marrëveshjen e lidhur ndërmjet zhvilluesit/institucionit/entit publik dhe përdoruesit.
+4. Të dhënat e përdorura për qëllim të krijimit të produkteve inovative, nëse janë pronë e institucioneve publike, në bazë të marrëveshjes me zhvilluesit e parkut mund të përdoren nga përdoruesit që kanë aksionar një ent/institucion/autoritet publik me kusht që produkti të përdoret ekskluzivisht prej një institucioni/enti/autoriteti publik apo një enti tjetër të autorizuar/miratuar prej tij apo në zbatim të një marrëveshje ndërqeveritare. Në përdorimin e të dhënave përdoruesi zbaton parashikimet e legjislacionit në fuqi në Republikën e Shqipërisë.
+5. Aksesi në bazat e të dhënave shtetërore jepet për zhvilluesin nëse është ent publik sipas rregullave të legjislacionit sektorial.
