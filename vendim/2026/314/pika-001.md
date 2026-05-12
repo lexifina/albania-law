@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi te Ministria e Ekonomisë dhe Inovacionit të pasurisë me nr. 10/211, në zonën kadastrale 8516, me vendndodhje në Durrës, sipas formularit të inventarizimit dhe plan-rilevimit, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, për ushtrimin e veprimtarisë, sipas fushës së përgjegjësisë shtetërore.
