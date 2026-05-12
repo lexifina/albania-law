@@ -1,0 +1,3 @@
+10.
+Gjoçaj
+Blinas
