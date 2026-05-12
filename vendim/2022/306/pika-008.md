@@ -1,1 +1,0 @@
-8. Kolegjiumi harton listën e artistëve, të cilët kanë shprehur interesin në kohën dhe sipas formës së parashikuar në pikat 2 dhe 3, të këtij kreu, të cilën ia kalon për vlerësim jurisë. Artistët, të cilët nuk përmbushin këto kërkesa, nuk përfshihen në listë dhe konsiderohen se nuk kanë shprehur formalisht interesin e tyre.

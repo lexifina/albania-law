@@ -1,1 +1,0 @@
-6. Juria përzgjedh listën e projektideve dhe të artistëve të kualifikuar për në fazën e dytë të seleksionimit, si dhe listën e projektideve më të mira, bazuar në vlerësimin artistik të veprës në raport me kërkesën, sipas renditjes përkatëse.

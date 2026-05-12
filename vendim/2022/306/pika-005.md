@@ -1,1 +1,0 @@
-5. Me përfundimin e afatit për dorëzimin e projektideve nga artistët pjesëmarrës në konkurs në formën e paraqitjes sipas kërkesave të thirrjes, ministri përgjegjës për artin dhe kulturën miraton urdhrin për ngritjen e jurisë.

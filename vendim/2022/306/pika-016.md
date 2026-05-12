@@ -1,1 +1,0 @@
-16. Struktura përgjegjëse për artin dhe për kulturën ndjek dhe mbikëqyr zbatimin e kontratës së nënshkruar sipas pikës 15 të këtij kreu, deri në momentin e vendosjes së saj në hapësirën publike të miratuar për këtë qëllim.

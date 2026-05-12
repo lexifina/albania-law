@@ -1,1 +1,0 @@
-13. Ministri përgjegjës për artin dhe kulturën miraton projektin fitues, i cili publikohet në faqen zyrtare të ministrisë përgjegjëse për artin dhe kulturën dhe Buletinin e Njoftimeve Publike, jo më vonë se 10 (dhjetë) ditë nga data e shpalljes së fituesit.
