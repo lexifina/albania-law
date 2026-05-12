@@ -1,2 +1,1 @@
-4. Dëmshpërblimi i miratuar nga Këshilli i Ministrave shpërndahet në tetë këste të barabarta.
-Për të gjitha subjektet përfituese parësore, kur vlera totale e dëmshpërblimit është mbi 8 000 000 (tetë milionë) lekë vijohet me pagesën e këstit pasardhës deri në shpërndarjen e plotë të shumës së miratuar. Në rast se vlera totale e miratuar për të gjithë përfituesit është deri në 1 000 000 (një milion) lekë, shpërndarja e dëmshpërblimit kryhet me një këst të vetëm, pavarësisht fazës në të cilën ndodhet shpërndarja e dëmshpërblimit.
+4. Shfuqizuar.
