@@ -1,0 +1,3 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” të disa zonave në territorin e Bashkisë Delvinë, si më poshtë vijon:
+a) Zona nr. 1, fshatrat Bamatat, Vllahat, Rusan, Lefterhor, Kakodhiq, Sopot, Stjar, Vanë dhe Blerimas, pjesë të Njësisë Administrative Delvinë, Bashkia Delvinë, qarku Vlorë, me sipërfaqe 5 733 (pesë mijë e shtatëqind e tridhjetë e tre) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshatrat Vërgo, Tatzat, Kalasë, Fushë-Vërri, Senicë, Kopaçez, Qafëdardhë dhe Bajkaj, pjesë të Njësisë Administrative Vërgo, Bashkia Delvinë, qarku Vlorë, me sipërfaqe 15 743 (pesëmbëdhjetë mijë e shtatëqind e dyzet e tre) ha, sipas hartës në sistemin KRGJSH.
