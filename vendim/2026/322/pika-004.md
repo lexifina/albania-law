@@ -1,0 +1,1 @@
+4. Dhënës të informacionit për bazën e të dhënave shtetërore PERF janë partitë politike, koalicionet, subjektet zgjedhore, kandidatët, financierët, audituesit ligjorë, si dhe institucionet publike, sipas ligjit nr. 10019, datë 29.12.2008, “Kodi Zgjedhor i Republikës së Shqipërisë”, të ndryshuar, dhe ligjit nr. 8580, datë 17.2.2000, “Për partitë politike”, të ndryshuar.

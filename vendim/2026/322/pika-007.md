@@ -1,0 +1,1 @@
+7. Të dhënat personale të transmetuara dhe të përpunuara në bazën e të dhënave shtetërore PERF ruhen për aq kohë sa është e nevojshme për përmbushjen e qëllimit për të cilin janë mbledhur, në përputhje me legjislacionin në fuqi. Pas përfundimit të këtij afati, të dhënat personale fshihen ose anonimizohen, sipas procedurave të institucionit administrues.
