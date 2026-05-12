@@ -1,0 +1,1 @@
+10. Monitorimi i zbatimit të kontratave dhe realizimit të aktiviteteve artistike dhe kulturore kryhet nga përfaqësues të ministrisë përgjegjëse për artin dhe kulturën, të cilët përcaktohen me urdhër të ministrit përgjegjës për artin dhe kulturën.

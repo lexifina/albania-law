@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim miratimin e procedurave që ndiqen për financimin e realizimit të projekteve dhe veprimtarive artistike e kulturore nga ministria përgjegjëse për artin dhe kulturën, referuar pikës 3, të nenit 26, të ligjit nr. 10352, datë 18.11.2010, “Për artin dhe kulturën”, të ndryshuar.

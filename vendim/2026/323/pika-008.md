@@ -1,0 +1,1 @@
+8. Në rastet kur natyra e tyre kërkon përfshirjen e individëve me profil të veçantë artistik ose ekspertizë të specializuar, përzgjedhja e artistëve, kuratorëve, drejtuesve artistikë, koordinatorëve dhe stafit krijues realizohet nëpërmjet thirrjes publike dhe negocimit.

@@ -1,0 +1,1 @@
+7. Projektet artistike, sipas pikës 6 të këtij kreu realizohen dhe ndiqen në përputhje me marrëveshjen e lidhur ndërmjet ministrisë përgjegjëse për artin dhe kulturën dhe subjekteve juridike brenda ose jashtë Republikës së Shqipërisë.
