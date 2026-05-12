@@ -1,0 +1,4 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Konispol të zonave, si më poshtë vijon:
+a) Zona nr. 1, qyteti Konispol dhe fshatrat Çiflik dhe Shalës, pjesë e njësive administrative Konispol dhe Markat, Bashkia Konispol, qarku Vlorë, me sipërfaqe 4829 (katër mijë e tetëqind e njëzet e nëntë) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshatrat Markat, Ninat, Janjar, Dishat dhe Vërvë, pjesë e Njësisë Administrative Markat, Bashkia Konispol, qarku Vlorë, me sipërfaqe 3981 (tre mijë e nëntëqind e tetëdhjetë e një) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr. 3, fshatrat Xarrë dhe Mursi, pjesë e Njësisë Administrative Xarrë, Bashkia Konispol, qarku Vlorë, me sipërfaqe 1264 (një mijë e dyqind e gjashtëdhjetë e katër) ha, sipas hartës në sistemin KRGJSH.
