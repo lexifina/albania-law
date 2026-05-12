@@ -175,42 +175,7 @@ Sipërfaqja që i takon apartamentit që privatizohet është = 1.9% x 550 = 10.
 Tarifa e privatizimit të truallit Tt = 10.45m2 x 1,080 lekë/m2 = 11286 lekë.
 3. Indeksi i korrigjimit të çmimit (I), sipas pikës 22 të vendimit, është 4,5585 (informacioni i kërkohet INSTAT-it).
 Tarifa e plotë e privatizimit (Tp) = (Ta + Tt) x I = (14,950 lekë + 11,286 lekë) x 4,5585 = 119,596.8 lekë.
-Shtojca 1
-Enti Kombëtar i Banesave/Njësia e vetëqeverisjes vendore
-FORMULARI I PRIVATIZIMIT
-Apartamenti nr. _____
-Banesa: __________________________________________
-Blerësi: __________________________________________
-Tarifa e privatizimit të apartamentit (Ta)
-Tarifa bazë e privatizimit, sipas kategorisë dhe llojit (sipas tab.1) (lekë) ______________
-Koeficienti i korrigjimit të vlerës në bazë të nivelit të banimit
-(sipas tab.2) (në %) (1a x 1b) ______________
-Koeficienti i korrigjimit të vlerës sipas vendndodhjes
-së apartamentit në godinë (sipas tab.3) (në %) (1a x 1c) ______________
-ç) Tarifa e privatizimit të ap. (1a+1b+1c) lekë ______________
-Tarifa e privatizimit të truallit (Tt) _____________
-Vlera e truallit (sipas pikës 22 e VKM nr. __ datë ___) (lekë/m2) _____________
-Përqindja e pjesëmarrjes në bashkëpronësi për ap. (në %) _____________
-Sipërfaqja totale e truallit funksional të objektit (m2) _____________
-ç) Sipërfaqja që i takon apartamentit (2b x 2c) (m2) _____________
-Tarifa e privatizimit të truallit (2d x 2a) (lekë) _____________
-Indeksi i korrigjimit të çmimit (I) (sipas pikës 22 të vendimit) _____________
-Tarifa e plotë e privatizimit (Tp)
-(1d + 2e) x (3) (lekë) _____________
-Data e llogaritjes: ____________
-Llogaritjet u kryen nga (emër, mbiemër, firma): ___________________________________
-___________________________________
-SHTOJCA 2
-VËRTETIM PËR SHLYERJEN E PLOTË TË VLERËS SË PRIVATIZIMIT
-Me kontratën për privatizimin e banesës, datë ____________, nr. ______ Rep, Nr. _____ Kol, që ndodhet në adresën: ______________________________________________, e regjistruar në zonën kadastrale nr. _____, me nr. pasurie ________, të lidhur me palë: EKB/Njësisë së vetëqeverisjes vendore _________ dhe z./znj. __________________________, përfitues të privatizimit, është parashikuar shlyerja e plotë e vlerës së privatizimit në masën ___________________ (_____________________________________________) lekë, me _____ (________) këste për _____ (_____________________) vjet.
-Sot, në datën _______________, në qytetin e ____________, përfituesi i privatizimit, z./znj. ___________________________, ka shlyer këstin e fundit të parashikuar me kontratën e mësipërme, duke e likuiduar të gjithë detyrimin e tij/saj për pagimin e vlerës së plotë të privatizimit të banesës.
-Ky vërtetim përgatitet në tri kopje identike, prej të cilave: një kopje i jepet subjektit përfitues; një kopje i dërgohet Agjencisë Shtetërore të Kadastrës dhe një kopje mbahet nga EKB/njësia e vetëqeverisjes vendore.
-Brenda tri ditëve nga lëshimi i këtij vërtetimi, palët kontraktore e përcjellin vërtetimin për shlyerjen e plotë të privatizimit të banesës për t’u bërë pjesë e dosjes së privatizimit me nr. _______, datë__________, të depozituar në Agjencinë Shtetërore të Kadastrës.
-Nga momenti i këtij depozitimi, rezerva e pronësisë e parashikuar në kontratën e lidhur mes palëve të mësipërme hiqet dhe përfituesi i privatizimit z./znj._____________________ bëhet pronar i banesës me nr. pasurie ________, në zonën kadastrale _______, që ndodhet në adresën: ____________________________________________________________.
-EKB/Njësia e vetëqeverisjes vendore
-_____________________________
-(Nënshkrimi/Vula)
-SHTOJCA 3
+SHTOJCA 4
 LIBRI I PRIVATIZIMIT
 Nr.
 Emri, Mbiemri

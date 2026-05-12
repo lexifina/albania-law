@@ -1,1 +1,1 @@
-31. Privatizimi i banesave, sipas këtij vendimi, ka afat 2 (dy) vjet pas daljes së certifikatës së pronësisë.
+31. Afati, brenda të cilit përfituesit duhet të lidhin kontratat e privatizimit, është deri në 2 (dy) vjet nga pajisja e subjektit shtetëror me certifikatën e pronësisë. Për ato banesa/objekte të kthyera në banesë, kur certifikata e pronësisë ka dalë, afati dyvjeçar fillon nga miratimi dhe hyrja në fuqi e këtij vendimi.

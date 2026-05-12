@@ -1,1 +1,1 @@
-36. Njësia e vetëqeverisjes vendore ose EKB-ja, pas lidhjes së kontratës së privatizimit, hedh të dhënat në vijimësi deri në shlyerjen e plotë të vlerës së privatizimit në librin e privatizimit, i cili krijohet sipas modelit të shtojcës 3, që i bashkëlidhet këtij vendimi.
+36. Njësia e vetëqeverisjes vendore ose EKB-ja, pas lidhjes së kontratës së privatizimit, hedh të dhënat në vijimësi deri në shlyerjen e plotë të vlerës së privatizimit në librin e privatizimit, i cili krijohet sipas modelit të shtojcës 4, që i bashkëlidhet këtij vendimi.
