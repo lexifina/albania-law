@@ -1,0 +1,1635 @@
+# Shtojca
+LISTA EMËRORE E PRONARËVE, PASURITË E PALUAJTSHME, PRONË PRIVATE TË TË CILËVE PREKEN NGA SHPRONËSIMI, PËR INTERES PUBLIK, PËR REALIZIMIN E PROJEKTIT “NDËRTIM RRUGA KASHAR - NYJA VAQAR FAZAT I DHE II”
+Numër rendor
+PRONAR
+TË DHËNAT KADASTRALE
+(sipas kartelës së pasurisë)
+VLERËSIMET PËR SHPRONËSIM SIPAS LLOJIT TË PASURISË
+Vlera totale
+Shënime
+(kufizime hipotekare barra mbi pasurinë etj.)
+Emër
+Atësi
+Mbiemër
+Zona kadastrale
+Nr. pasurie
+Lloji i pasurisë
+Sipërfaqe totale
+Shpronësimi toke arë
+Shpronësimi “ndërtesë”
+Sip. (m2)
+Çmimi (leke/m2)
+Vlera (m2)
+Sip. (m2)
+Çmimi (leke/m2)
+Vlera (m2)
+1
+Rifat Xhaferr Sula
+2105
+976/1
+ARË
+5448
+2125
+448
+952,000
+952,000
+2
+Alban Kosta Koçi
+2105
+976/2
+ARË
+4400
+3008
+448
+1,347,584
+1,347,584
+3
+Sulejman Mersin Sulaj
+2105
+1//24
+ARË
+2535
+125
+448
+56,000
+56,000
+4
+Halil Sulejman Sula
+2105
+2//26
+ARË
+1000
+916
+448
+410,368
+410,368
+5
+Bedri Sulejman Sula
+2105
+2//28
+ARË
+2500
+1770
+448
+792,960
+792,960
+Bujar Xhevahir Valisi
+Xhevahir Bujar Valisi
+Myzejene Sulejman Murataj
+Halil Sulejman Sula
+Ylvi Sulejman Sula
+Arben Sulejman Sula
+6
+Feride Domi
+2105
+2//30
+ARË
+3800
+2344
+448
+1,050,112
+1,050,112
+Rasim Dalip Sula
+Mirjana Dalip Bega
+Blerim Dalip Sula
+Roza Talip Mija
+7
+Ferdinand Muhamed Sula
+2105
+2//32
+ARË
+4300
+1700
+448
+761,600
+761,600
+Sabrije Islam Sula
+Roland Muhamed Sula
+Eduart Muhamed Sula
+8
+Fatmir Rakip
+2105
+17//17
+ARË
+5200
+1016
+448
+455,168
+455,168
+9
+Reshit Abdulla Hoxha
+2105
+17/22
+ARË
+2400
+148
+448
+66,304
+66,304
+10
+Grigor Spiro Lengo
+2105
+17/23
+ARË
+1840
+63
+448
+28,224
+28,224
+11
+Tasim Ibrahim Sorra
+2105
+113/1
+ARË
+3580
+2951
+448
+1,322,048
+1,322,048
+12
+Jemin Ibrahim Sorra
+2105
+113/2
+ARË
+2835
+755
+448
+338,240
+338,240
+13
+Eqerem Halil Sorra
+2105
+113/3
+ARË
+3450
+96
+448
+43,008
+43,008
+14
+Shoq Manifaktura 7 Sh.P.K
+2105
+112/1
+ARË
+3750
+3750
+448
+1,680,000
+1,680,000
+15
+Xhaferr Z.Lami
+2105
+112/2
+ARË
+3560
+3560
+448
+1,594,880
+1,594,880
+16
+Xhaferr Z.Lami
+2105
+112/3
+ARË
+3300
+1617
+448
+724,416
+724,416
+17
+Geront Teki Çela
+2105
+114/7
+ARË
+5000
+650
+448
+291,200
+291,200
+18
+Geront Teki Çela
+2105
+114/8
+ARË
+6240
+967
+448
+433,216
+433,216
+Bledar Teki Çela
+19
+Ali Reshit Sorra
+2105
+115/1
+ARË
+2000
+666
+448
+298,368
+298,368
+20
+Petrit Reshit Sorra
+2105
+115/2
+ARË
+2000
+2000
+448
+896,000
+896,000
+21
+Bahri Reshit Sorra
+2105
+115/3
+ARË
+2000
+2000
+448
+896,000
+896,000
+22
+Shefik Hamit Sorra
+2105
+115/4
+ARË
+3000
+3000
+448
+1,344,000
+1,344,000
+Emine Halim Sorra
+Adem Shefik Sorra
+Denisa Adem Agollari
+23
+Arb & Trans-2010
+2105
+115/5
+ARË
+5300
+4228
+448
+1,894,144
+1,894,144
+24
+Arb & Trans-2010
+2105
+115/28
+ARË
+5200
+1803
+448
+807,744
+807,744
+25
+Tirana Logistic Park
+2105
+118/1
+ARË
+7100
+28
+448
+12,544
+12,544
+26
+Tirana Logistic Park
+2105
+118/42
+ARË
+365
+365
+448
+163,520
+163,520
+27
+Tirana Logistic Park
+2105
+118/43
+ARË
+5635
+1096
+448
+491,008
+491,008
+28
+Tirana Logistic Park
+2105
+118/39
+ARË
+169
+169
+448
+75,712
+75,712
+29
+Tirana Logistic Park
+2105
+118/40
+ARË
+4086
+4086
+448
+1,830,528
+1,830,528
+30
+Tirana Logistic Park
+2105
+118/41
+ARË
+4345
+2472
+448
+1,107,456
+1,107,456
+31
+Festim Isak Sulaj
+2105
+118/21
+ARË
+2000
+1980
+448
+887,040
+887,040
+32
+Alfred Isak Sulaj
+2105
+118/22
+ARË
+2000
+1714
+448
+767,872
+767,872
+33
+Beharë Fadil Sorra
+2105
+118/23
+ARË
+5000
+2372
+448
+1,062,656
+1,062,656
+Isuf Enver Sorra
+Xhesika Enver Sorra
+34
+Tirana Logistic Park
+2105
+120/25
+ARË
+70
+70
+448
+31,360
+31,360
+35
+Tirana Logistic Park
+2105
+120/26
+ARË
+24230
+775
+448
+347,200
+347,200
+36
+Tirana Logistic Park
+2105
+120/28
+ARË
+4757
+4757
+448
+2,131,136
+2,131,136
+37
+Banka E Tiranes
+2105
+120/16
+ARË
+2462
+2462
+448
+1,102,976
+1,102,976
+38
+Banka E Tiranes
+2105
+120/17
+ARË
+4038
+2402
+448
+1,076,096
+1,076,096
+39
+Ilir Bilal Sorra
+2105
+120/22
+ARË
+800
+800
+448
+358,400
+358,400
+40
+Reshat Seit Sorra
+2105
+125/6
+ARË
+8500
+1301
+448
+582,848
+582,848
+41
+Petrit Qamil Sorra
+2105
+125/11
+ARË
+6000
+3086
+448
+1,382,528
+1,382,528
+42
+Hamdi Qamil Sorra
+2105
+125/13
+ARË
+5000
+2913
+448
+1,305,024
+1,305,024
+43
+Rushdi Guri Sorra
+2105
+125/9
+ARË
+4000
+3565
+448
+1,597,120
+1,597,120
+44
+Hasan Hekuran Çupi
+2105
+125/17
+ARË
+4435
+2315
+448
+1,037,120
+1,037,120
+45
+Abdulla Hysen Sorra
+2105
+132/36
+ARË
+13650
+602
+448
+269,696
+269,696
+46
+Osman Qamil Lami
+2625
+2//2
+ARË
+4050
+1569
+448
+702,912
+702,912
+47
+Hysni Xhemal Merja
+2625
+2//3
+ARË
+4000
+1381
+448
+618,688
+618,688
+48
+Grigor Spiro Lengo
+2625
+2//12
+ARË
+4240
+258
+448
+115,584
+115,584
+49
+Grigor Spiro Lengo
+2625
+2//18
+ARË
+3000
+326
+448
+146,048
+146,048
+50
+Grigor Spiro Lengo
+2625
+2//23
+ARË
+5000
+1174
+448
+525,952
+525,952
+51
+Grigor Spiro Lengo
+2625
+2//24
+ARË
+500
+373
+448
+167,104
+167,104
+52
+Grigor Spiro Lengo
+2625
+2//25
+ARË
+3000
+3000
+448
+1,344,000
+1,344,000
+53
+Grigor Spiro Lengo
+2625
+2//19
+ARË
+2300
+288
+448
+129,024
+129,024
+54
+Grigor Spiro Lengo
+2625
+2//20
+ARË
+1440
+278
+448
+124,544
+124,544
+55
+Grigor Spiro Lendo
+2625
+2//17
+ARË
+670
+97
+448
+43,456
+43,456
+56
+Grigor Spiro Lendo
+2625
+2//16
+ARË
+4000
+766
+448
+343,168
+343,168
+57
+Perparim Fasli Billa
+2625
+16/4
+ARË
+3320
+1770
+448
+792,960
+792,960
+58
+Perparim Fasli Billa
+2625
+16/5
+ARË
+4100
+1568
+448
+702,464
+702,464
+59
+Asllan Rexhep Lami
+2625
+16/15
+ARË
+2400
+173
+448
+77,504
+77,504
+60
+Hide Kapllan Lami
+2625
+16/45
+ARË
+1000
+126
+448
+56,448
+56,448
+Shpëtime Shaqir Dema
+Fiqiri Shaqir Lami
+Ruzhdi Shaqir Lami
+Flamur Shaqir Lami
+Fisnik Shaqir Lami
+Blerina Shaqir Zeneli
+Afrim Shaqir Lami
+Sazan Shaqir Lami
+Miranda Shaqir Breti
+61
+Alaudin Hasan Malaj
+2625
+16/46
+ARË
+5000
+708
+448
+317,184
+317,184
+62
+Idriz Adem Lami
+2625
+16/37
+ARË
+3020
+2640
+448
+1,182,720
+1,182,720
+Pranvera Adem Mici
+Selim Adem Lami
+63
+Kreshnik Emri Spahiu
+2625
+111/11
+ARË
+2700
+2564
+448
+1,148,672
+1,148,672
+64
+Ilia Fatinu
+2625
+111/31
+ARË
+408
+15
+448
+6,720
+6,720
+65
+Alida Luan Fatinu
+2625
+111/30
+ARË
+142
+142
+448
+63,616
+63,616
+66
+Ilir Haxhi Kaja
+2625
+111/9
+ARË
+2700
+378
+448
+169,344
+169,344
+67
+Fitnete, Daba, Alban, Alma Dritan, Ramazan Lami
+2625
+111/13
+ARË
+2700
+2700
+448
+1,209,600
+1,209,600
+68
+Dalip Fejzulla Lami
+2625
+111/15
+ARË
+5800
+1955
+448
+875,840
+875,840
+69
+Armand Gani Pashnjari
+2344
+168/1
+ARË
+5430
+2795
+448
+1,252,160
+1,252,160
+70
+Armand Gani Pashnjari
+2344
+168/10
+ARË
+4570
+1187
+448
+531,776
+531,776
+71
+Qamil Shaban Musteqja
+2344
+163/1
+ARË
+4560
+251
+448
+112,448
+112,448
+72
+Qamil Shaban Musteqja
+2344
+163/2
+ARË
+2560
+1100
+448
+492,800
+492,800
+73
+Glodmir Xhevair Malaj
+2344
+163/3
+ARË
+2000
+1389
+448
+622,272
+622,272
+Ramiz Mazar Çela
+Iva Shpëtim Saliaj
+74
+Gezim Shaban Musteqja
+2344
+163/1/3
+ARË
+3465
+3118
+448
+1,396,864
+1,396,864
+Fatime Avdi Musteqja
+75
+Ramiz Fejzulla Musteqja
+2344
+163/1/4
+ARË
+630
+273
+448
+122,304
+122,304
+76
+B.M Shpk
+2344
+163/1/5
+ARË
+1450
+625
+448
+280,000
+280,000
+77
+B.M Shpk
+2344
+163/1/6
+ARË
+1300
+301
+448
+134,848
+134,848
+78
+Zenun Sali Daiu
+2344
+163/1/7
+ARË
+4110
+272
+448
+121,856
+121,856
+79
+Beqir Bajram Hidri
+2344
+161/15
+ARË
+1631
+877
+448
+392,896
+392,896
+80
+Bujar Hasan Hidri
+2344
+161/30
+ARË
+3000
+1042
+448
+466,816
+466,816
+81
+Rej Francesk Dema
+2344
+161/26
+VESHTË
+1000
+192
+448
+86,016
+86,016
+82
+Marjus Ismail Paja
+2344
+161/27
+VESHTË
+2750
+1252
+448
+560,896
+560,896
+Armando Ismail Paja
+83
+Çlirim Shaqir Paja
+2344
+161/20
+ARË
+9600
+3337
+448
+1,494,976
+1,494,976
+84
+Alobaidan Shpk
+2344
+517/13
+PEMËTORE
+1980
+43
+448
+19,264
+19,264
+85
+Faik Besim Musteqja
+2344
+524/4
+ARË
+1806
+1221
+448
+547,008
+547,008
+86
+Veli Bajram
+2344
+524/2
+ARË
+5900
+3293
+448
+1,475,264
+1,475,264
+87
+Shkelqim Ramazan Gjoka
+2344
+524/1
+ARË
+2867
+1277
+448
+572,096
+572,096
+88
+Veli Bajram
+2344
+533/6
+ARË
+1600
+118
+448
+52,864
+52,864
+89
+Emiljan Minella Moçka
+2344
+535/3
+PEMËTORE
+1250
+824
+448
+369,152
+369,152
+90
+Emiljan Minella Moçka
+2344
+535/4
+PEMËTORE
+1800
+1800
+448
+806,400
+806,400
+91
+Emiljan Minella Moçka
+2344
+598/3
+ULLISHTE
+600
+17
+448
+7,616
+7,616
+92
+Hamit Ahmet Gjoka
+2344
+598/2
+ULLISHTE
+5000
+743
+448
+332,864
+332,864
+93
+Ramazan Bajram Gjoka
+2344
+510/1
+ARË
+1920
+594
+448
+266,112
+266,112
+94
+Hamit Ahmet
+2344
+510/2
+ARË
+4620
+1548
+448
+693,504
+693,504
+95
+Kadri Fadil Gjoka
+2344
+510/4
+ARË
+8600
+1543
+448
+691,264
+691,264
+96
+Kadri Fadil Gjoka
+2344
+597/4
+PEMËTORE
+5250
+2470
+448
+1,106,560
+1,106,560
+97
+Hamit Ahmet
+2344
+597/8
+PEMËTORE
+5428
+3914
+448
+1,753,472
+1,753,472
+98
+Riza Avdulla
+2344
+676/2
+ARË
+940
+60
+448
+26,880
+26,880
+99
+Vath Qerim Hidri
+2344
+676/5
+PEMËTORE
+5300
+116
+448
+51,968
+51,968
+100
+Bujar Hasan Hidri
+2344
+673/5
+ARË
+2340
+714
+448
+319,872
+319,872
+101
+Xhavit Ismail Hidri
+2344
+673/6
+ARË
+1110
+258
+448
+115,584
+115,584
+102
+Ismail Hasan Hidri
+2344
+673/7
+ARË
+1125
+297
+448
+133,056
+133,056
+103
+Halil Bajram Hidri
+2344
+677/1
+ARË
+2568
+2568
+448
+1,150,464
+1,150,464
+104
+Muharrem Bajram Hidri
+2344
+677/2
+ARË
+2718
+2513
+448
+1,125,824
+1,125,824
+105
+Sulejman Bajram Hidri
+2344
+677/3
+ARË
+4854
+2190
+448
+981,120
+981,120
+106
+Beqir Bajram Hidri
+2344
+678
+ARË
+3250
+81
+448
+36,288
+36,288
+107
+Hasan Mahmut
+2344
+676/10
+PEMËTORE
+2482
+498
+448
+223,104
+223,104
+108
+Avdulla Bajram Hidri
+2344
+676/12
+ARË
+1875
+107
+448
+47,936
+47,936
+109
+Avdyl Ramazan Shima
+1017
+2//5
+ARË
+11500
+1771
+448
+793,408
+793,408
+110
+Pellumb Ismail Musteqja
+1017
+2//4
+ARË
+7700
+998
+448
+447,104
+447,104
+111
+Bajram Hamit Saçi
+1017
+2//3
+ARË
+7200
+690
+448
+309,120
+309,120
+112
+Sabri Hamit Saçi
+1017
+2//2
+ARË
+12000
+5009
+448
+2,244,032
+2,244,032
+113
+Rexhep Murat Allgjata
+1017
+2//1
+ARË
+2230
+1332
+448
+596,736
+596,736
+114
+Nexhmi Llagami
+1017
+8//14
+ARË
+4800
+621
+448
+278,208
+278,208
+115
+Arif Ramazan Allgjata
+1017
+8//13
+ARË
+4200
+2573
+448
+1,152,704
+1,152,704
+116
+Qazim Haxhi Saçi
+1017
+8//12
+ARË
+3050
+694
+448
+310,912
+310,912
+117
+Hamide Haxhi
+1017
+8//11
+ARË
+3200
+767
+448
+343,616
+343,616
+Abdulla Zeqir
+Musa Zeqir
+Fatime Zeqir
+Rafman Zeqir
+118
+Bajram Hamit Saçi
+1017
+8//9
+ARË
+2320
+903
+448
+404,544
+404,544
+119
+Sabri Hamit Saçi
+1017
+8//8
+ARË
+3900
+1411
+448
+632,128
+632,128
+120
+Kujtim Kasem Allgjata
+1017
+8//7
+ARË
+6200
+2151
+448
+963,648
+963,648
+121
+Sulejman Allgjata
+1017
+8//5
+ARË
+7690
+3390
+448
+1,518,720
+1,518,720
+122
+Xhemal Sulejman Allgjata
+1017
+8//4
+ARË
+7590
+3244
+448
+1,453,312
+1,453,312
+123
+Refik Asllan Allgjata
+1017
+8//3
+ARË
+4200
+1825
+448
+817,600
+817,600
+124
+Riza Halil Allgjata
+1017
+8//2
+ARË
+4200
+2049
+448
+917,952
+917,952
+125
+Sefer Fejzulla Fejzo
+1017
+8//1
+ARË
+7400
+5501
+448
+2,464,448
+2,464,448
+126
+Asllan Halil
+1017
+127/11
+ARË
+12050
+1438
+448
+644,224
+644,224
+127
+Besim Beg Allgjata
+1017
+127/4
+ARË
+18200
+2406
+448
+1,077,888
+1,077,888
+128
+Hamza Myslym Allgjata
+1017
+127/9
+ARË
+1624.7
+512
+448
+229,376
+229,376
+129
+Petrit Besim
+1017
+133/19
+ARË
+3400
+701
+448
+314,048
+314,048
+130
+Ramazan Imer
+1017
+123/4
+ARË
+5500
+821
+448
+367,808
+367,808
+131
+Naim Shaqir Fejza
+1017
+123/5
+ARË
+3900
+1001
+448
+448,448
+448,448
+132
+Stiljan Suljoti
+1017
+123/6
+ARË
+3900
+1024
+448
+458,752
+458,752
+133
+Shaqir Rustem
+1017
+123/7
+ARË
+3900
+997
+448
+446,656
+446,656
+134
+Ali Rustem
+1017
+123/8
+ARË
+11050
+3137
+448
+1,405,376
+1,405,376
+135
+Osman Rustem
+1017
+123/9
+ARË
+5400
+1590
+448
+712,320
+712,320
+136
+Haxhire Mustafa Feza
+1017
+123/10
+ARË
+3000
+1142
+448
+511,616
+511,616
+137
+Avdyl Ramazan Shima
+1017
+123/11
+ARË
+5250
+2218
+448
+993,664
+993,664
+138
+Vait Qazim
+1017
+123/12
+ARË
+5750
+2263
+448
+1,013,824
+1,013,824
+139
+Muharrem Qazim
+1017
+123/13
+ARË
+8850
+3040
+448
+1,361,920
+1,361,920
+140
+Ruzhdi Muharrem Allgjata
+1017
+123/14
+ARË
+4000
+1378
+448
+617,344
+617,344
+141
+Emin Xhelal Allgjata
+1017
+123/15
+ARË
+5350
+1303
+448
+583,744
+583,744
+142
+Xhevdet Xhelal
+1017
+123/16
+ARË
+4300
+966
+448
+432,768
+432,768
+143
+Sefer Beg Allgjata
+1017
+123/17
+ARË
+4350
+973
+448
+435,904
+435,904
+144
+Shefqet Beg
+1017
+123/18
+ARË
+5300
+1255
+448
+562,240
+562,240
+145
+Hamza Myslym Allgjata
+1017
+123/19
+ARË
+5200
+1141
+448
+511,168
+511,168
+146
+Sabri Myslym Allgjata
+1017
+123/30
+ARË
+1550
+637
+448
+285,376
+285,376
+147
+Sabri Myslym Allgjata
+1017
+123/31
+ARË
+6700
+1370
+448
+613,760
+613,760
+148
+Shyqyri Selman
+1017
+123/21
+ARË
+3900
+1081
+448
+484,288
+484,288
+149
+Ramazan Haxhi Shima
+1017
+123/22
+ARË
+6650
+1945
+448
+871,360
+871,360
+150
+Muharrem Ramazan Shima
+1017
+123/23
+ARË
+2800
+767
+448
+343,616
+343,616
+151
+Haxhi Ramazan Shima
+1017
+123/24
+ARË
+5550
+1709
+448
+765,632
+765,632
+152
+Xhafer Ramazan
+1017
+123/25
+ARË
+6600
+2249
+448
+1,007,552
+1,007,552
+153
+Lutfi Selman
+1017
+123/26
+ARË
+7120
+3077
+448
+1,378,496
+1,378,496
+154
+Seit Haxhi Shima
+1017
+123/28
+ARË
+12450
+4680
+448
+2,096,640
+2,096,640
+155
+Selman Haxhi
+1017
+152/1
+ARË
+10200
+1908
+448
+854,784
+854,784
+156
+Selman Haxhi
+1017
+152/3
+ARË
+8650
+4459
+448
+1,997,632
+1,997,632
+157
+Hasan Rifat Sulaj
+2105
+976/1-ND2
+NDËRTESË
+174.00
+108429.11
+18,866,665.1
+18,866,665
+VLERA TOTALE
+107,417,856
+126,284,521
