@@ -21,7 +21,7 @@
 - Z. Ervin Demo, ministër i Shtetit për Pushtetin Vendor, negociator përgjegjës për kapitullin 22;
 - Znj. Enkelejda Muçaj, zëvendësministër i Infrastrukturës dhe Energjisë, negociator përgjegjës për kapitujt 14, 15 e 21 dhe bashkënegociator përgjegjës për kapitullin 10;
 - Znj. Denada Seferi, zëvendësministër i Shëndetësisë dhe Mirëqenies Sociale, bashkënegociator përgjegjës për kapitujt 19 dhe 28;
-- Znj. Mirlinda Karçanaj, drejtor i Përgjithshëm i Agjencisë Kombëtare të Shoqërisë së Informacionit, bashkënegociator përgjegjës për kapitullin 10;
+- Z. Igli Tafa , drejtor i Përgjithshëm i Agjencisë Kombëtare të Shoqërisë së Informacionit, bashkënegociator përgjegjës për kapitullin 10;
 - Znj. Adea Pirdeni, ministër i Shtetit për Administratën Publike dhe Antikorrupsionin, negociator përgjegjës për reformën në administratën publike.
 - Znj. Olta Manjani, zëvendësministër i Ekonomisë dhe Inovacionit, negociator përgjegjës për kapitujt 2 dhe 3, si dhe bashkënegociator përgjegjës për kapitullin 19.
 Z. Enkelejd Musabelliu, zëvendësministër i Ekonomisë dhe Inovacionit, negociator përgjegjës për kapitullin 1 dhe bashkënegociator përgjegjës për kapitujt 28 dhe 30;
