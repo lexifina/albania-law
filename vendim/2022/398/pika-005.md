@@ -7,13 +7,15 @@ a) nënshkrimin e një kontrate direkt me OST sh.a., në përputhje me rregullat
 b) transferimin e përgjegjësisë së tyre balancuese te një grup tjetër balancues, i ndryshëm nga grupi i balancimit OER;
 4. Për prodhuesit me përparësi të energjisë elektrike, të cilët për përgjegjësinë e tyre të balancimit kanë zgjedhur opsionet, sipas pikës 3 të këtij kreu, kontrata tip e shitblerjes së energjisë elektrike, e miratuar nga Enti Rregullator i Energjisë, ndryshon nga pagesa për prodhimin e matur në pagesë për prodhimin e nominuar.
 IV. OER, LIDER I GRUPIT TË BALANCIMIT
-1. Në rolin e tij si lider i grupit të balancimit, OER-ja do të alokojë te prodhuesit me përparësi të energjisë elektrike vlerën neto të faturave mujore të disbalancave në përpjesëtim me prodhimin e matur të energjisë.
-2. Në rast se grupi i balancimit ka në përbërje dhe palë të tjera përgjegjëse balancuese, të ndryshme nga prodhuesit me përparësi të energjisë elektrike, atëherë lideri i grupit të balancimit do të alokojë te të gjithë pjesëmarrësit e grupit vlerën neto të faturave mujore të disbalancave, sipas formulës së mëposhtme:
-Ku:
-- vlera e faturës së disbalancave për palën përgjegjëse balancuese.
-- fatura neto e disbalancave pozitive dhe negative për liderin e grupit të balancimit,
-- palët përgjegjëse balancuese të grupit të balancimit
-- sasia e energjisë totale e prodhuar dhe konsumuar (në vlerë absolute) nga të gjithë palët përgjegjëse balancuese të grupit të balancimit të Operatorit të Energjisë së Rinovueshme.
+1. Në rolin e tij si lider i grupit të balancimit, OER-ja do të alokojë te prodhuesit me përparësi të energjisë elektrike kostot totale mujore të balancimit në përpjesëtim me prodhimin e matur të energjisë.
+2. Në rast se grupi i balancimit ka në përbërje dhe palë të tjera përgjegjëse balancuese, të ndryshme nga prodhuesit me përparësi të energjisë elektrike, atëherë lideri i grupit të balancimit do të alokojë te të gjithë pjesëmarrësit e grupit kostot totale mujore të balancimit, sipas formulës së mëposhtme:
+ku:
+VFD - vlera e faturës së disbalancave për palën përgjegjëse balancuese;
+FNDLGB - vlera që rezulton nga netimi i faturave të disbalancave pozitive dhe negative për liderin e grupit të balancimit;
+VN - vlera që rezulton nga netimi i sasisë së disbalancave pozitive dhe negative për liderin e grupit të balancimit, shumëzuar me çmimin/njësi të kontratës së energjisë elektrike ndërmjet prodhuesit publik dhe “Furnizuesit të Shërbimit Universal” sh.a., kontratë e lidhur në kuadrin e Shërbimit Universal të Furnizimit;
+(PPB)i=i..n - palët përgjegjëse balancuese, anëtarë të grupit të balancimit;
+(Energji e matur)[MWh] - sasia e energjisë totale e prodhuar dhe e konsumuar (në vlerë absolute) nga të gjitha palët përgjegjëse balancuese, anëtarë të grupit të balancimit të Operatorit të Energjisë së Rinovueshme.
+2.1. Vlera neto (VN) reflektohet në pagesën totale të anëtarit të grupit të balancimit, që ofron Shërbimin Universal të Furnizimit.
 3. OER-ja në të njëjtën mënyrë do të shpërndajë çdo kosto shtesë nga zbatimi i mekanizmit balancues.
 4. Përveç sa më sipër, për shërbimin e balancimit, lideri i grupit të balancimit, Operatori i Energjisë së Rinovueshme do t’u ngarkojë pjesëmarrësve të grupit të balancimit një tarifë për mbulimin e shpenzimeve të këtij shërbimi, e cila përfaqëson kostot e OER-së për njësi lekë/kwh, shumëzuar me energjinë e matur/prodhuar.
 5. Pagesa për shërbimin e balancimit do të jetë shuma e vlerës së faturës së disbalancave për palën përgjegjëse balancuese plus tarifën e shërbimit të balancimit, sipas formulës së mëposhtme:
