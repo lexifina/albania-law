@@ -1,0 +1,1 @@
+5. Fshihen detyrimet tatimore të papaguara, të vendosura për subjektet e çregjistruara në Qendrën Kombëtare të Biznesit (QKB) pas datës së çregjistrimit, të cilat janë evidentuar dhe kontabilizuar në regjistrat e administratës tatimore deri në datën 31.12.2024, me përjashtim të kontributeve të sigurimeve shoqërore dhe shëndetësore.

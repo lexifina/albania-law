@@ -1,0 +1,1 @@
+3. Listat e detajuara dhe të përditësuara do të shërbejnë për njoftim zyrtar të tatimpaguesve/subjekteve që përjashtohen nga zbatimi i ligjit. Njoftimi zyrtar i tatimpaguesve/subjekteve për organin tatimor qendror bëhet në llogarinë e tyre në e-Filing, ndërsa për organin tatimor vendor dhe doganor bëhet me shkresë zyrtare.

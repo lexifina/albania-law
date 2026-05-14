@@ -1,0 +1,1 @@
+6. Për rastet kur data e njoftimit, apo aktkonstatimi mban datën 31.12.2014 dhe më parë, ndërsa data e kontabilizimit është bërë pas kësaj date, fshirja/shuarja bëhet manualisht nga strukturat përkatëse, sipas parashikimeve të këtij kreu.
