@@ -1,5 +1,6 @@
 # Neni 19
 Kontrata
+(Hequr fjalë në pikën 3 me VKM nr. 345, datë 13.5.2026)
 1. Kontrata midis institucionit përgjegjës dhe zhvilluesit reflekton termat e referencës së procedurës së konkurrimit dhe kriteret sipas të cilave është bërë përzgjedhja e zhvilluesit të cilat janë kushte të panegociueshme të kontratës.
 2. Kontrata përmban kërkesat që burojnë nga legjislacioni në fuqi, si dhe parashikon ato terma që vlerësohen të përshtatshëm nga palët, të tilla si:
 a) përkufizime, interpretime, natyra dhe objekti i punëve që duhet të kryhen dhe shërbimet që duhet të jepen nga zhvilluesi;
@@ -23,4 +24,4 @@ m) procedurat e rregullimit të shkeljes së kontratës, të bëra nga njëra pr
 n) kushtet dhe procedurat për ndryshimin dhe/ose përfundimin e kontratës, të drejtat dhe detyrimet e palëve, me kalimin e afatit apo përfundimin e kontratës (duke përfshirë mekanizmin e transferimit të sendeve pasurore, të teknologjisë, kompensimit, shërbimin e trajnimit dhe të mbështetjes që duhet të jepet nga zhvilluesi);
 nj) ligjin e zbatueshëm dhe mekanizmat për zgjidhjen e mosmarrëveshjeve që mund të lindin ndërmjet institucionit përgjegjës dhe zhvilluesit;
 o) të drejtat dhe detyrimet e palëve për informacionin konfidencial.
-3. Genplani i objektit, në 6 (gjashtë) kopje origjinale, i hartuar nga eksperti topograf i licencuar dhe i konfirmuar nga bashkia nën juridiksionin e së cilës është territori që do të shpallet zona, ku të jenë përcaktuar qartë sipërfaqja e truallit gjithsej, sipërfaqja nën ndërtesë, si dhe planimetria e detajuar e objekteve në qoftë se ka, është pjesë përbërëse e kontratës. Kostot për hartimin e genplanit përballohen nga zhvilluesi.
+3. Genplani i objektit, në 6 (gjashtë) kopje origjinale, i hartuar nga eksperti topograf i licencuar ku të jenë përcaktuar qartë sipërfaqja e truallit gjithsej, sipërfaqja nën ndërtesë, si dhe planimetria e detajuar e objekteve në qoftë se ka, është pjesë përbërëse e kontratës. Kostot për hartimin e genplanit përballohen nga zhvilluesi.
