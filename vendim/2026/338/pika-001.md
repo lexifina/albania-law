@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Studim-projektim aksi rrugor Elbasan-Lekaj, korridori 8, ndërtim aksi rrugor Papër-Ura e Grykshit”.
