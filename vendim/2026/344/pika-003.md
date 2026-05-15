@@ -1,0 +1,1 @@
+3. Fondi Shqiptar i Zhvillimit, Korporata e Investimeve Shqiptare dhe Agjencia Kombëtare e Planifikimit të Territorit lidhin marrëveshje bashkëpunimi, në funksion të zhvillimit të projektit, të përcaktuar në pikën 1, të këtij vendimi.

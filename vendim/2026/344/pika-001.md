@@ -1,0 +1,1 @@
+1. Caktimin e Fondit Shqiptar të Zhvillimit si autoritet kontraktor dhe njësi zbatuese për kryerjen e procedurave të prokurimit publik, për realizimin e fazës paraprake të projektit “Parku i Besimit”, si dhe përfshirjen e këtij projekti në programin e tij zhvillimor.
