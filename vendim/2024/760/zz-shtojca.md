@@ -166,9 +166,9 @@ Mirake
 56
 are
 1283
-3
+36
 174
-522
+6,264
 11
 Sofokli
 Koli
@@ -209,4 +209,150 @@ Arjana
 Mustafa
 Ymeri
 Vlera totale
-684,342
+14 724 608
+Nr.
+rendor
+Pronari
+Të dhënat kadastrale (sipas kartelës së pasurisë)
+Vlerësimet për shpronësim
+Shënime
+Emër
+Atësi
+Mbiemër
+Adresa
+Zona kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sipërfaqe totale
+Shpronësimi “arë”
+Shpronësimi ”truall”
+Shpronësimi “ndërtesë”
+Totali
+Sip. (m2)
+Çmimi (lek/m2)
+Vlera (m2)
+Sip. (m2)
+Çmimi (lek/m2)
+Vlera (m2)
+Sip. (m2)
+Çmimi (lek/m2)
+Vlera me preventiv punimesh
+14
+Rexhep
+Qemal
+Hasani
+Mirakë
+2629
+54
+Arë
+952
+143
+174
+24,882
+24,882
+15
+Sulejman
+Sherif
+Hasani
+Mirakë
+2629
+55
+Arë
+1395
+221
+174
+38,454
+38,454
+16
+Qani
+Abedin
+Hasani
+Mirakë
+2696
+57
+Arë
+1370
+152
+174
+26,448
+26,448
+17
+Osman
+Ismail
+Tola
+Mirakë
+2696
+77
+Arë
+2173
+241
+174
+41,934
+41,934
+18
+Xhemal
+Murat
+Tola
+Mirakë
+2696
+86
+Arë
+1393
+18
+174
+3,132
+3,132
+19
+Xhemal
+Murat
+Tola
+Mirakë
+2696
+95
+Arë
+637
+319
+174
+55,506
+55,506
+20
+Xheladin
+Muhamet
+Tola
+Mirakë
+2696
+100
+Arë
+606
+40
+174
+6,960
+6,960
+21
+Hysen
+Islam
+Tola
+Mirakë
+2696
+108
+Arë
+1007
+2
+174
+348
+348
+22
+Sofokli
+Koli
+Bualli
+Mirakë
+2696
+147/3
+Truall
+242
+242
+240
+58,080
+500.9
+13,778,780
+13,836,860
