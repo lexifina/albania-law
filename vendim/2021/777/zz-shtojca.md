@@ -1930,14 +1930,17 @@ a) udhëhiqet nga profesionalizmi dhe i ndalohet çdo sjellje apo veprim i papra
 b) ruajë të pastër figurën e tij morale duke shmangur veprime e sjellje të padenja si: dehja, komunikimi joetik, shpërdorimi i postit zyrtar, apo çdo veprim që cenon imazhin e Gardës;
 c) angazhohet në trajnime që përmirësojnë aftësitë e tij profesionale në fushën e sigurisë ose/dhe në specialitete të tjera të lidhura me detyrat funksionale.
 12. Punonjësi mban përgjegjësi për veprimet apo mosveprimet e tij, të cilat bien ndesh me zbatimin e ligjit.
-13. Punonjësi gjatë veprimtarisë së përditshme duhet të zbatojë normat e sjelljes, si më poshtë vijon:
+13. Punonjësi gjatë veprimtarisë së tij, zbaton rregullat, si më poshtë vijon:
 a) të ketë sjellje të mirë dhe korrekte në jetën private, në mënyrë që të mos cenohet imazhi i punonjësit të Gardës;
 b) të mos përdorë uniformën në ambiente publike që nuk kanë lidhje me detyrën që kryen;
 c) të mos përdorë informacionin konfidencial, të marrë gjatë kryerjes së detyrës apo për shkak të saj, për interes personal;
 ç) të mos përdorë apo ekspozojë pajisje/shenja dalluese të Gardës, si dhe i ndalohet vënia e tyre në dispozicion të personave të tjerë;
 d) të mos përdorë uniformën, pajisjet e tjera në përdorim apo autoritetin e funksionit për arsye që nuk lidhen me shërbimin/detyrën ose për përfitime/privilegje të ndryshme për vete ose për të tjerët;
-dh) të mos angazhohet dhe të mos marrë pjesë në asnjë veprimtari politike, partiake, sindikale, tubime, mitingje;
-e) punonjësi në të gjitha nivelet është personalisht përgjegjës për pasojat e veprimeve të tij.
+dh) të mos mbështesë fushatën e një partie, organizate politike, të një anëtari të një partie politike apo të një kandidati të pavarur, duke marrë pjesë ose duke kontribuar fizikisht, ose financiarisht, dhe të mos shprehë publikisht bindje apo preferenca politike. Punonjësit të Gardës i ndalohet të marrë pjesë, edhe nëse nuk është në shërbim, në mbledhje e në tubime të partive, të shoqatave dhe të organizatave politike;
+e) punonjësi në të gjitha nivelet është personalisht përgjegjës për pasojat e veprimeve të tij;
+ë) ka të drejtë të organizohet në sindikata për të mbrojtur interesat e tij profesionalë dhe të drejtat e përcaktuara në legjislacionin në fuqi;
+f) të mos kandidojë dhe të mos zgjidhet, pa hequr dorë më parë nga detyra, në funksione politike;
+g) të mos kryejë veprimtari politike, pavarësisht nëse veprimtaria kryhet në bashkëpunim me ndonjë parti politike ose jo, si dhe të mos kryejë veprimtari, që përbën konflikt interesi apo që mund të krijojë përshtypjen se punonjësi i Gardës së Republikës është i njëanshëm dhe i ndikuar.
 Neni 159
 Komunikimi, marrëdhëniet e brendshme dhe ndërinstitucionale
 1. Komunikimi është procesi me anë të cilit shkëmbehen informacione, jepen urdhra, udhëzime, porosi etj. Komunikimi, qoftë verbal apo me shkrim, duhet të kryhet profesionalisht dhe duhet t’u përmbahet standardeve etike. Këto standarde duhet të zbatohen edhe gjatë komunikimit me punonjësit kolegë, eprorë apo vartës, sikurse edhe gjatë ndërveprimit me institucione të tjera apo qytetarë.
