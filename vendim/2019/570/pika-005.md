@@ -10,6 +10,11 @@ e) garanton integrimin dhe angazhimin e aktorëve, duke ngritur sistemin e ndër
 ë) harton dhe mirëmban baza të dhënash, dokumente, manualë, plane, teknika, raporte mbi komunikim-ndërveprimin e aktorëve;
 f) ndjek ngritjen dhe funksionimin e komisioneve, të komiteteve apo të grupeve të punës, për çështje që lidhen me menaxhimin e burimeve pyjore;
 g) merr masa për parandalimin dhe zbutjen e kërcënimeve, të risqeve dhe të problematikave sociale e ekonomike, që mund të rezultojnë nga shfrytëzimi i burimeve pyjore.
+5.1/1. Në lidhje me angazhimet e Republikës së Shqipërisë në procesin e integrimit në Bashkimin Evropian:
+a) kontribuon në përafrimin dhe zbatimin e legjislacionit të Bashkimit Evropian në fushën e pyjeve, të biodiversitetit e të ujërave;
+b) kryen inventarizimin, monitorimin dhe raportimin e gjendjes së pyjeve, sipas standardeve të Bashkimit Evropian;
+c) kontribuon në politikat për ndryshimet klimatike dhe mbrojtjen e biodiversitetit nëpërmjet menaxhimit të qëndrueshëm të pyjeve;
+ç) kontribuon për përfitimin nga programet dhe fondet e Bashkimit Evropian, si dhe nxit përdorimin e teknologjive moderne në sektorin pyjor.
 5.2. Në lidhje me vlerësimin e gjendjes së pyjeve:
 a) vlerëson gjendjen e pyjeve dhe të treguesve pyjorë në nivel kombëtar të treguesve silvikulturorë, të burimeve gjenetike, të agropylltarisë, të tokës, të biodiversitetit, të shëndetit në pyje e kullota etj.);
 b) kryen vlerësime në nivel ekspertize dhe përgatit projekte të rehabilitimit për fondin pyjor, kullosor dhe/ose atë të bimëve etero-vajore, në rastet e dëmit të shkaktuar nga ushtrimi i aktiviteteve të ndryshme që zhvillohen në to, me kërkesë të subjektit që shkakton dëmin, ose kur informohet për dëmin në rrugë të tjera;
