@@ -1,0 +1,1 @@
+1. Vulat që përdoren nga rojat kufitare, për efekt të verifikimeve kufitare në hyrje dhe në dalje të kufirit shtetëror të Republikës së Shqipërisë (në vijim “vulat e hyrje-daljes”), kategorizohen si mall me natyrë të veçantë dhe prokurohen në përputhje me parashikimet e ligjit nr. 162/2020, “Për prokurimin publik”, të ndryshuar.

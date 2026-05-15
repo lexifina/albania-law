@@ -1,0 +1,1 @@
+19. Vendimi nr. 824, datë 23.11.2016, i Këshillit të Ministrave, “Për përcaktimin e formatit e të specifikimeve teknike të vulave të verifikimit kufitar dhe të rregullave të vendosjes së tyre në dokumentet e udhëtimit gjatë hyrje-daljeve në kufirin shtetëror”, shfuqizohet.

@@ -1,0 +1,1 @@
+17. Departamenti për Kufirin dhe Migracionin, në bazë të nevojave të secilës pikë të kalimit kufitar, harton listën e plotë të kërkesave për vulat e hyrje-daljes, duke përfshirë kodet e personalizuara dhe simbolet përkatëse të mjetit të transportit për secilën vulë.

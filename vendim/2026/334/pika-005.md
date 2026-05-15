@@ -1,0 +1,1 @@
+5. Gjurma e vulave të hyrje-daljes përmban kodin e personalizuar, emrin e pikës përkatëse të kalimit kufitar, simbolin përkatës të mjetit të udhëtimit, në varësi të pikës së kalimit kufitar dhe, në zonën ku vendosen shkronjat e simbolit të shtetit, përmban simbolin “AL” të rrethuar nga një rreth.

@@ -1,0 +1,1 @@
+11. Vulosja e pasaportës që ka një vizë, me të cilën personit i jepet e drejta e hyrjes, kryhet sipas parashikimeve të pikës 10 të këtij vendimi, në faqen përballë faqes, ku është vendosur viza. Nëse kjo faqe është e zënë, vulosja kryhet në faqen e lirë vijuese.
