@@ -1,0 +1,1 @@
+7. Bashkia Tiranë, brenda 10 (dhjetë) ditëve punë, dërgon pranë degës përkatëse të thesarit urdhërshpenzimet, duke bashkëlidhur listën përmbledhëse të subjekteve përfituese, sipas bankave të nivelit të dytë, ku përfituesit kanë llogarinë e tyre bankare.

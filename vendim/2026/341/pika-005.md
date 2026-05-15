@@ -1,0 +1,1 @@
+5. Administrata tatimore pas verifikimit të dokumentacionit, të përcaktuar në pikën 2, të këtij kreu, dërgon pranë degës përkatëse të thesarit, brenda 15 (pesëmbëdhjetë) ditëve punë, urdhërshpenzimet, duke bashkëlidhur listën përmbledhëse të subjekteve përfituese, sipas bankave të nivelit të dytë, ku përfituesit kanë llogarinë e tyre bankare.

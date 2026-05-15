@@ -1,0 +1,1 @@
+6. Kur shpenzimet përballohen nga Bashkia Tiranë, administrata tatimore, pas verifikimit të dokumentacionit të përcaktuar në pikën 2, të këtij kreu, i dërgon, brenda 10 (dhjetë) ditëve punë Bashkisë Tiranë, në tërësi, dokumentacionin e administruar dhe listën përmbledhëse të subjekteve përfituese dhe vlerave.

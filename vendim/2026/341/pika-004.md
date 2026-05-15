@@ -1,0 +1,1 @@
+4. Në rastin kur konstatohet se dokumentet e dorëzuara nga subjekti janë të paplota apo kanë mangësi, administrata tatimore, brenda 5 (pesë) ditëve punë, e kthen kërkesën, me qëllim plotësimin e dokumentacionit.
