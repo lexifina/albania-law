@@ -1,5 +1,0 @@
-VENDIM
-Nr. 491, datë 24.7.2024
-PËR MIRATIMIN E LISTËS SË BARNAVE, QË RIMBURSOHEN NGA FONDI I SIGURIMIT TË DETYRUESHËM TË KUJDESIT SHËNDETËSOR, DHE TË MASËS SË MBULIMIT TË ÇMIMIT TË TYRE
-Në mbështetje të nenit 100 të Kushtetutës, të pikës 3, të nenit 37, të ligjit nr. 105/2014, “Për barnat dhe shërbimin farmaceutik”, të ndryshuar, dhe të pikave 2, shkronja “b”, dhe 6, të nenit 10, të ligjit nr. 10383, datë 24.2.2011, “Për sigurimin e detyrueshëm të kujdesit shëndetësor në Republikën e Shqipërisë”, të ndryshuar, me propozimin e ministrit Shëndetësisë dhe Mbrojtjes Sociale, Këshilli i Ministrave
-VENDOSI:

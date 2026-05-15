@@ -1,1 +1,0 @@
-11. Vendimi nr. 489, datë 30.7.2021, i Këshillit të Ministrave, “Për miratimin e listës së barnave, që rimbursohen nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor dhe masën e mbulimit të çmimit të tyre”, i ndryshuar, shfuqizohet.
