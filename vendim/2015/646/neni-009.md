@@ -1,6 +1,6 @@
 # Neni 9
 Bashkimi i përkohshëm i operatorëve
-(hequr fjalë në pikën 5 me vkm nr.271, datë 16.5.2018)
+(Hequr fjalë në pikën 5 me VKM nr. 271, datë 16.5.2018)
 1. Operatorët ekonomikë mund të ofertojnë të vetëm ose të krijojnë grupe operatorësh ekonomikë dhe të ofertojnë si një kandidat i vetëm. Në rast të bashkimit të grupeve të operatorëve ekonomikë, institucioni përgjegjës duhet t’i kërkojë një formë të veçantë ligjore bashkimit të shoqërive, për qëllim të dorëzimit të ofertës ose kërkesës për pjesëmarrje.
 2. Bashkimi i operatorëve duhet të krijohet me një marrëveshje të noterizuar, ku të përcaktohen përfaqësuesi i grupit, përqindja e pjesëmarrjes së punës/shërbimit dhe elementet konkrete që do të kryejë secili nga anëtarët e këtij grupi, e cila nuk mund të jetë më pak se 11%. Ndërsa operatori drejtues i grupit nuk mund të ketë më pak se 35%.
 3. Oferta mund të paraqitet nga një grup operatorësh ekonomikë, ku njëri prej të cilëve i përfaqëson të tjerët gjatë procedurës së përzgjedhjes, edhe gjatë zbatimit të kontratës.
