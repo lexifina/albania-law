@@ -4,6 +4,6 @@ IV. DISPOZITA KALIMTARE DHE TË FUNDIT
 2. Për nëpunësit civilë aktualë të strukturës përgjegjëse për pyjet në Agjencinë Kombëtare të Mjedisit, të cilët transferohen në Agjencinë Kombëtare të Pyjeve, zbatohen dispozitat e legjislacionit për nëpunësin civil në rastin e mbylljes dhe të ristrukturimit të institucionit. Për punonjësit administrativë zbatohen dispozitat e Kodit të Punës.
 2/1. Për nëpunësit e Inspektoratit Shtetëror të Mjedisit, Pyjeve, Ujërave dhe Turizmit, të cilët kanë kryer funksione të lidhura me monitorimin dhe kontrollin në fushën e pyjeve, zbatohen dispozitat e nenit 67, të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar.
 3. Numri i punonjësve dhe fondet buxhetore të strukturës përgjegjëse për pyjet në Agjencinë Kombëtare të Mjedisit i kalojnë Agjencisë Kombëtare të Pyjeve.
-4. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti i shtetit, nëpërmjet Ministrisë së Turizmit dhe Mjedisit.
-5. Ngarkohen Ministria e Turizmit dhe Mjedisit, Ministria e Financave dhe Ekonomisë dhe Departamenti i Administratës Publike për zbatimin e këtij vendimi.
+4. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti i shtetit, nëpërmjet Ministrisë përgjegjëse për pyjet.
+5. Ngarkohen Ministria përgjegjëse për pyjet, Ministria e Financave dhe Ekonomisë dhe Departamenti i Administratës Publike për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
