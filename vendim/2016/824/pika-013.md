@@ -1,1 +1,0 @@
-13. Në dokumentet e tjera, që janë përcaktuar për t’u vulosur sipas ligjit nr.71/2016, “Për kontrollin kufitar”, dhe akteve nënligjore në zbatim të tij, vulat e hyrje-daljes vendosen në hapësirën e posaçme për vulosje ose në një pjesë të dukshme të dokumentit, kur nuk ka një hapësirë të tillë të posaçme.

@@ -1,1 +1,0 @@
-10. Vulosja e pasaportës që nuk përmban vizë kryhet duke vendosur vulën e hyrjes në anën e majtë të faqes së parë të lirshme të pasaportës, duke filluar nga lart. Vula e daljes vendoset, parimisht, në të njëjtën faqe, përbri vulës së hyrjes.

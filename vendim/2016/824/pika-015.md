@@ -1,1 +1,0 @@
-15. Kur vula e hyrjes ose e daljes vendoset gabimisht në një dokument apo paraqet të dhëna jo të sakta, ajo revokohet me dy viza paralele, me bojë që nuk del, të vendosura në këndin e sipërm të vulës, në anën e dorës së majtë, siç tregohet në shtojcën 1/b, bashkëlidhur dhe pjesë përbërëse e këtij vendimi.

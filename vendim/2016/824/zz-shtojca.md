@@ -1,3 +1,0 @@
-# Shtojca
-SHTOJCA 1/A
-ANULIMI I VULËS SË HYRJES

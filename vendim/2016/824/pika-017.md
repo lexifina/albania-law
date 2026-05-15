@@ -1,1 +1,0 @@
-17. Drejtoria e Përgjithshme për Kufirin dhe Migracionin, në bazë të nevojave të secilës pikë kalimi kufitar, harton listën e plotë të kërkesës për vula hyrjeje dhe daljeje, duke përfshirë kodet e personalizuara dhe simbolet përkatëse të mjetit të transportit për secilën vulë.
