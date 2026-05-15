@@ -1,0 +1,1 @@
+2. Pronarët dëmshpërblehen nga buxheti i vitit 2026, miratuar për Ministrinë e Bujqësisë dhe Zhvillimit Rural, nga shpenzimet korrente, në programin buxhetor 04220 “Siguria ushqimore dhe mbrojtja e konsumatorit”.
