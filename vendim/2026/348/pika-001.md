@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat të arsimit të mesëm të lartë “Kryqi i Nderuar”, Gjirokastër, në të cilin zhvillohen edhe lëndë fetare, të cilit i është dhënë leje funksionimi me vendimin nr. 279, datë 10.6.1999, të Këshillit të Ministrave, “Për dhënie leje funksionimi të institucionit arsimor jopublik”.

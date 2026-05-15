@@ -1,0 +1,2 @@
+5. Ngarkohen Ministria e Arsimit, Agjencia Kombëtare e Arsimit Parauniversitar, Drejtoria Rajonale e Arsimit Parauniversitar Fier, Zyra Vendore e Arsimit Parauniversitar Gjirokastër-Libohovë, institucioni arsimor parauniversitar privat i arsimit të mesëm të lartë “Kryqi i Nderuar”, Gjirokastër, dhe Kisha Ortodokse Autoqefale e Shqipërisë për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
