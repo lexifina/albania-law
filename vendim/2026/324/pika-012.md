@@ -1,0 +1,1 @@
+12. Vendimi nr. 491, datë 24.7.2024, i Këshillit të Ministrave, “Për miratimin e listës së barnave, që rimbursohen nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor dhe masën e mbulimit të çmimit të tyre”, i ndryshuar, shfuqizohet.

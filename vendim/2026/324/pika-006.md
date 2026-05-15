@@ -1,0 +1,1 @@
+6. Ngarkohet Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor që, në përputhje me legjislacionin në fuqi, të përcaktojë kufizimet në përdorim, në sasi dhe në kohëzgjatje të trajtimit me barnat e kësaj liste, bazuar në kritere ekonomike, mjekësore dhe sociale.

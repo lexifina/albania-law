@@ -1,0 +1,1 @@
+9. Çmimet e aplikuara për hartimin e listave I e II të barnave të rimbursueshme bazohen mbi çmimet e rivlerësuara, të miratuara për vitin 2026, sipas përcaktimeve të vendimit nr. 645, datë 1.10.2014, të Këshillit të Ministrave, “Për ngritjen dhe mënyrën e funksionimit të Komisionit të Çmimit të Barnave”, të ndryshuar.

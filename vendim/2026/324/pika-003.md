@@ -1,0 +1,1 @@
+3. Miratimin e masës së mbulimit të çmimeve të barnave të rimbursueshme, të renditur sipas klasifikimit ATC, në masën 50%-100%, sipas grupeve terapeutike dhe barnave, të përcaktuara në pasqyrën nr. 1, që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+7. Ngarkohet Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor që, në përputhje me legjislacionin në fuqi, të lidhë marrëveshje për reduktimin e çmimeve të përfshira në këtë listë me mbajtësit e autorizimit për tregtim.
