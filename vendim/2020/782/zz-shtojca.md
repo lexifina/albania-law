@@ -3,6 +3,8 @@
 [pic]
 [pic]
 [pic]
+[pic]
+[pic]
 [pic][pic]
 Aneks 7
 [pic]
