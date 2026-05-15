@@ -236,6 +236,7 @@ a) Të jetë i regjistruar si person fizik apo juridik për ushtrimin e veprimta
 b) Të disponojë një strukturë shërbimi dhe të ketë hapësirë plazhi pranë strukturës së shërbimit.
 4. Subjektet e parashikuara në pikën 3, të këtij neni, paraqesin kërkesën për aplikim pranë portalit “e-Albania”, së bashku me dokumentacionin, që vërteton plotësimin e kritereve të parashikuara në këtë rregullore. GTSHA-ja është përgjegjëse për sigurimin e ekstraktit të regjistrimit, sipas shkronjës “a”, të pikës 3, të këtij neni. Numri maksimal i çadrave, që vendosen në stacionin e plazhit pranë strukturës së shërbimit, është 50 (pesëdhjetë).
 5. Përjashtimisht, për vitin 2025, afati kohor për lidhjen e kontratave të qirasë për përdorimin e stacionit të plazheve, të parashikuar në pikën 5, të nenit 4, të kësaj rregulloreje, do të jetë brenda muajit qershor.
+5/1. Përjashtimisht, për vitin 2026, afati kohor për lidhjen e kontratave të qirasë për përdorimin e stacionit të plazheve, të parashikuar në pikën 5, të nenit 4, të kësaj rregulloreje, do të jetë brenda muajit qershor.
 6. Përjashtimisht, për vitin 2025, afati kohor për fazën e dytë të aplikimit të subjektit, të parashikuar në pikën 9, të nenit 7, të kësaj rregulloreje, do të jetë brenda muajit qershor.
 7. Subjekti që disponon një strukturë akomoduese të marrë me qira, në rast zgjidhjeje të saj, ka detyrimin për njoftimin e menjëhershëm të AKB-së dhe përbën shkak për zgjidhjen e kontratës.
 8. Për kontratat e lidhura me subjektet private për ushtrimin e veprimtarisë së stacioneve të plazhit, njësia e vetëqeverisjes vendore mund të negociojë me subjektin privat çmimet maksimale, që do të aplikohen për shërbimin e çadrave dhe të shezlongëve, në përputhje me karakteristikat specifike të zonës bregujore përkatëse.
@@ -275,6 +276,8 @@ Neni 5
 Të drejtat dhe detyrimet e dhënësit
 1. Dhënësi ka të drejtë të kontrollojë dhe monitorojë në çdo kohë respektimin e kushteve, kërkesave dhe kritereve të ushtrimit të veprimtarisë, të përcaktuara në vendimin nr.[•], datë [•], të Këshillit të Ministrave, “Për miratimin e rregullores ’Për kushtet dhe kriteret e ushtrimit të veprimtarisë së stacionit të plazhit’”.
 2. Dhënësi ka detyrimin të bashkëpunojë me përfituesin për respektimin e parashikimeve të vendimit nr. [•], datë [•], të Këshillit të Ministrave, “Për miratimin e rregullores ’Për kushtet dhe kriteret e ushtrimit të veprimtarisë së stacionit të plazhit’”.
+3. Dhënësi, në bashkëpunim me njësinë e vetëqeverisjes vendore, mund të propozojë amendime në këtë kontratë, në rastet e ndryshimeve në kapacitetin e strukturës akomoduese, zonës së plazhit apo zhvillimeve në zonën bregujore, vetëm me pëlqimin e ndërsjellë të palëve.
+4. Për kontratat ekzistuese të lidhura për përdorimin e hapësirës së plazhit, ndryshimet e parashikuara në pikën 3, të këtij neni, kryhen vetëm me pëlqimin e ndërsjellë të palëve, nëpërmjet nënshkrimit të amendimit të kontratës.
 Neni 6
 Të drejtat dhe detyrimet e përdoruesit
 1. Përdoruesi ka të drejtë të përdorë e të gëzojë hapësirën e stacionit të plazhit, të marrë në përdorim dhe përmirësimet e bëra në të për gjithë kohëzgjatjen e kontratës.
