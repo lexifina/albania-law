@@ -1,0 +1,1 @@
+2. Pas regjistrimit të saktë të aplikimit në sistemin FER-TIMS, gjenerohet akti i arkivimit të dokumenteve të depozituara online të të huajit. Brenda 1 (një) ditë pune, leja provizore e qëndrimit me vulë elektronike i përcillet të huajit në format elektronik, në formularin e aplikimit online në adresën e email-it të dhënë nga aplikuesi.
