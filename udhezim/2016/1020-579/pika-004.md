@@ -1,1 +1,0 @@
-4. Kur personi është i huaj, dokumenti i lëshohet në gjuhën shqipe dhe në njërën nga gjuhët e përfshira në shtojcën nr. 1, në të cilën personi e kërkon ose kur nuk ka një kërkesë të tillë, në gjuhën që përkon me shtetësinë e personit apo në gjuhën që ka arsye për të besuar se personi e kupton.

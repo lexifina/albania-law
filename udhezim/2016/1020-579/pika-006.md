@@ -1,1 +1,0 @@
-6. “Dokumenti” i lëshuar në gjuhë të huaj ruan formatin e dokumentit të hartuar në gjuhën shqipe, duke plotësuar në gjuhë të huaj vetëm pjesën e përmbajtjes, përfshirë titullin, sipas shembullit të shtojcës nr. 2.

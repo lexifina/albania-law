@@ -1,1 +1,0 @@
-2. Dokumenti i përmendur në pikën 1 të këtij udhëzimi titullohet “Formular informacioni për verifikim të detajuar në vijën e dytë”, sipas shtojcës nr. 1, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
