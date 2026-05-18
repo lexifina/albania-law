@@ -1,0 +1,1 @@
+4. Lista, sipas shtojcës nr. 1, hartohet në gjuhën shqipe dhe në gjuhën angleze, dhe publikohet në faqen zyrtare të Ministrisë së Punëve të Brendshme, si dhe në faqen zyrtare të Drejtorisë së Përgjithshme të Policisë së Shtetit.
