@@ -1,0 +1,1 @@
+6. Në pjesën e pasme të çdo flete shënohet kujtesa dhe udhëzuesi për mënyrën e administrimit, plotësimit dhe lëshimit të vërtetimit të transportit, sipas tekstit të shtojcës 2, bashkëlidhur këtij urdhri.

@@ -1,0 +1,1 @@
+8. Me hyrjen në fuqi të këtij urdhri, urdhri i ministrit të Mjedisit, Pyjeve dhe Administrimit të Ujërave nr. 143, datë 20.7.2016, “Për miratimin e formatit dhe përmbajtjes së vërtetimit të transportit për lëvizjen e lëndës drusore”, shfuqizohet.

@@ -1,0 +1,1 @@
+5. Në fletën e fundit të bllokut, e lidhur me të, është një fletë kartoni me dimensione sa gjerësia e bllokut, ndërsa gjatësia do të jetë 42 cm, ku gjatësia prej 21 cm do të kthehet dhe do të shërbejë për ta vendosur atë, në çdo përdorim, pas fletës së tretë të çdo numri serial, për të mos depërtuar shkrimi në fletët me numrin serial pasardhës.

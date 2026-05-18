@@ -1,0 +1,1 @@
+1. Miratimin e modelit të vërtetimit të transportit të materialit drusor të papërpunuar, si dhe prodhimeve të tjera pyjore e jopyjore, përfshirë bimët mjekësore, eterovajore e tanifere natyrore (BMET) me përmbajtjen sipas shtojcës 1, që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
