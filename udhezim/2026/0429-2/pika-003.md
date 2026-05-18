@@ -1,0 +1,1 @@
+3. Çekiçdamkat prodhohen dhe shpërndahen nga agjencia shtetërore përgjegjëse për pyjet që administron edhe informacionin për numrin total të çekiçdamkave të shpërndarë, si dhe shenjat përkatëse sipas bashkive.

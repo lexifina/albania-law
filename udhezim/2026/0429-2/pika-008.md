@@ -1,0 +1,1 @@
+8. Nuk lejohet damkimi i llojeve të listës së kuqe, të përcaktuara në vendimin e Këshillit të Ministrave nr. 804, datë 4.12.2003, “Për miratimin e listës së specieve të florës shqiptare që vihen në mbrojtje”.

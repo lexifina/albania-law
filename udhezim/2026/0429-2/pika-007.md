@@ -1,0 +1,1 @@
+7. Drurët shënohen me çekiçdamkë në pjesën e poshtme të tyre, sa më afër sipërfaqes së tokës. Krahas damkës, në lartësinë 1.5 m, drurit i bëhet një shenjë, duke hequr një pjesë të lëvores me sëpatë. Damka dhe shenja vendosen në shpat nga lart poshtë.

@@ -1,0 +1,1 @@
+2. Forma dhe karakteristikat teknike të çekiçdamkës janë sipas parashikimeve të shkronjës “c”, të nenit 2, dhe kreut III, të aneksit nr. 1, të vendimit të Këshillit të Ministrave nr. 614, datë 23.10.2025.

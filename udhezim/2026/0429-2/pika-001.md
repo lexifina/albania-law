@@ -1,0 +1,1 @@
+1. Damkimi kryhet me çekiçdamkë nga specialistët e strukturave përgjegjëse për pyjet pranë bashkive, sipas kritereve dhe pas plotësimit të kërkesave teknike të përcaktuara në pikat 4 dhe 6 të nenit 3, si dhe aneksin nr. 1 të vendimit të Këshillit të Ministrave nr. 614, datë 23.10.2025.

@@ -1,0 +1,1 @@
+4. Strukturat përgjegjëse për pyjet në bashki, janë përgjegjëse për administrimin e çekiçdamkës dhe gjithë procesin e damkimit, sipas parashikimeve të vendimit të Këshillit të Ministrave nr. 614, datë 23.10.2025.
