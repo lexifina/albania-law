@@ -1,0 +1,1 @@
+8. Udhëzimi nr. 579, datë 20.10.2016, i Ministrit të Punëve të Brendshme, “Për informacionin që u jepet personave të cilët janë subjekt i verifikimeve në vijën e dytë në pikat e kalimit kufitar”, shfuqizohet.

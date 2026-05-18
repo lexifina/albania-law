@@ -1,0 +1,1 @@
+2. Dokumenti hartohet në përputhje me formatin e shkresave zyrtare të përdorura në pikën e kalimit kufitar dhe nënshkruhet e vuloset nga punonjësi i autorizuar për ushtrimin e së drejtës së firmës dhe vulës në këto pika të kalimit kufitar. Ky dokument i dorëzohet personit, që është subjekt i verifikimit kufitar në vijën e dytë (në vijim “personi”).

@@ -1,0 +1,1 @@
+1. Dokumenti informues që u vihet në dispozicion personave subjekt të verifikimit në vijën e dytë (në vijim “dokumenti”), titullohet “Formular informacioni për verifikim të detajuar në vijën e dytë”, sipas shtojcës nr. 1, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
