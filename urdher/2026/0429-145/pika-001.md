@@ -1,0 +1,1 @@
+1. Miratimin e formatit të certifikatës së origjinës për produktet pyjore drusore dhe jodrusore, përfshirë bimët mjekësore, eterovajore dhe tanifere natyrore, sipas formatit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.

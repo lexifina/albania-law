@@ -1,0 +1,1 @@
+6. Në pjesën e pasme të çdo flete shënohet kujtesa dhe udhëzuesi për mënyrën e administrimit, plotësimit dhe lëshimit të certifikatës së origjinës në gjuhët shqipe dhe anglisht sipas tekstit të shtojcës 1, bashkëlidhur këtij urdhri dhe që është pjesë përbërëse e tij.

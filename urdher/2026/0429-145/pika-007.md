@@ -1,0 +1,1 @@
+7. Certifikatat e origjinës janë letra me vlerë që prodhohen dhe merren në dorëzim, duke respektuar të gjitha rregullat e administrimit të letrave me vlerë sipas legjislacionit në fuqi dhe ruhen për një afat 5-vjeçar.
