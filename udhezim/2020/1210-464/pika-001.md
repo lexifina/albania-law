@@ -1,1 +1,0 @@
-1. Transportuesit ajrorë i transmetojnë NIP-së të dhënat PNR, sipas përcaktimeve të nenit 19/4, të ligjit nr. 71/2016, “Për kontrollin kufitar”, të ndryshuar, 48 orë deri në 24 orë para kohës së planifikuar të nisjes së fluturimit dhe menjëherë, pasi kanë përfunduar procedurat e imbarkimit dhe avioni është në përgatitje për nisje, duke përditësuar kështu të dhënat e transmetuara.
