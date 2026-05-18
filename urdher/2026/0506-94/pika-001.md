@@ -1,0 +1,1 @@
+1. Miratimin e formatit dhe përmbajtjes së certifikatës së regjistrimit për shtetas të vendeve të Bashkimit Evropian, sipas përcaktimeve në aneksin nr. 1, bashkëlidhur dhe pjesë përbërëse e këtij urdhri.
