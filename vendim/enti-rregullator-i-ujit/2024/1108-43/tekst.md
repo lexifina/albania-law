@@ -6,7 +6,7 @@
 
 	VLORË SHA
 
-(Ndryshuar me vendimin nr. 11, datë 17.4.2025)
+(Ndryshuar me vendimin nr. 11, datë 17.4.2025; nr. 13, datë 18.5.2026)
 
 (i përditësuar)
 
@@ -48,7 +48,7 @@ VENDOSI:
 
 	2. Shoqëria Rajonale Ujësjellës-Kanalizime Vlorë sh.a. autorizohet të kryejë veprimtaritë e licencuara me:
 
-	a) Drejtues ligjor – Ermal Murati;
+	a) Drejtues ligjor – Klevis Kaso;
 
 	b) Drejtues teknik – Kendi Manaj.
 
