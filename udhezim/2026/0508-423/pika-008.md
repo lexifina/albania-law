@@ -1,0 +1,1 @@
+8. Të gjitha shërbimet që ofrohen nga Agjencia Shtetërore e Kadastrës do të bazohen vetëm në të dhënat e administruara në mënyrë digjitale dhe për çdo shërbim të kërkuar nga ana e drejtorive vendore do të lëshohet vetëm harta kadastrale digjitale.

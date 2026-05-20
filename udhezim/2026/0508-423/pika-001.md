@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim garantimin e zbatimit të procesit të digjitalizimit të hartave kadastrale përmes unifikimit të procedurës në të gjitha drejtoritë vendore, si dhe sigurimin e kalimit nga hartat fizike në atë digjitale.

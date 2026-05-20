@@ -1,0 +1,1 @@
+5. Drejtoria vendore gjatë procesit vë në dispozicion të kontraktorit hartat fizike të administruara pranë drejtorisë, sipas planit të punës të dërguar nga kontraktori dhe në fund të procedurës firmos procesverbalin për fillimin e procesit me kontraktorin.

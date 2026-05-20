@@ -1,0 +1,1 @@
+2. Procesi i digjitalizimit teknik të hartës kadastrale nis më datë 8 maj 2026 dhe përfundon më datë 7.12.2026 për të gjithë territorin në Republikën e Shqipërisë. Puna për secilën drejtori vendore të ASHK-së do të nisë zyrtarisht sipas planit të punës të dërguar nga kompania kontraktore e ngarkuar për realizimin e këtij procesi.
