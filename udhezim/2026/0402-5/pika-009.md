@@ -1,0 +1,1 @@
+9. Ministria e Bujqësisë dhe Zhvillimit Rural miraton numrin e punonjësve me kontratë për secilën kategori me shkresë të Sekretarit të Përgjithshëm, përcakton afatet e punësimit duke vënë në dijeni Degët Rajonale të Thesarit dhe Drejtorisë së Përgjithshme të Buxhetit.

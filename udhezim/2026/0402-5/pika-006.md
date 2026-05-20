@@ -1,0 +1,1 @@
+6. Grumbullimi i të dhënave: Të dhënat e grumbulluara përcillen nga Ministria e Bujqësisë dhe Zhvillimit Rural pranë Institutit të Statistikave (INSTAT), në përputhje me procedurat dhe standardet në fuqi.

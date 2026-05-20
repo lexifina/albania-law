@@ -1,0 +1,1 @@
+1. Për realizimin e veprimtarisë statistikore, si proces që siguron prodhimin e treguesve statistikorë për bujqësinë, blegtorinë dhe peshkimin, Ministria e Bujqësisë dhe Zhvillimit Rural rekruton punonjës me kontratë të përkohshme.

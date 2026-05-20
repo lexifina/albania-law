@@ -1,0 +1,1 @@
+10. Për shkak të natyrës së veçantë të punës, si masë garantuese për cilësinë dhe saktësinë e të dhënave të grumbulluara, pagesa e punonjësve mbështetës kryhet vetëm pas verifikimit të cilësisë së pyetësorëve dhe përfundimit të procesit të hedhjes së të dhënave në bazën elektronike.

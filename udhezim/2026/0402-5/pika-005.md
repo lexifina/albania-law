@@ -1,0 +1,1 @@
+5. Përgjegjësitë funksionale: Ngarkohen me përgjegjësi për grumbullimin, përpunimin dhe dorëzimin e të dhënave punonjësit që ushtrojnë funksione statistikore pranë njësive përgjegjëse në varësi të Ministrisë së Bujqësisë dhe Zhvillimit Rural (MBZHR).

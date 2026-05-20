@@ -1,0 +1,1 @@
+2. Punonjësit luajnë rol mbështetës në realizimin e të gjitha fazave të procesit të vrojtimeve statistikore në fushat përkatëse, duke përfshirë në mënyrë të veçantë, mbledhjen e të dhënave në terren, verifikimin dhe kontrollin e cilësisë së tyre, si dhe hedhjen dhe përpunimin e të dhënave në sistemet elektronike përkatëse.
