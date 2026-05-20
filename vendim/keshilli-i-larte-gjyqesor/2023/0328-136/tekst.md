@@ -4,6 +4,10 @@ Nr. 136, datë 28.3.2023
 
 PËR FILLIMIN E FUNKSIONIMIT TË GJYKATËS SË SHKALLËS SË PARË TË JURIDIKSIONIT TË PËRGJITHSHËM SHKODËR
 
+(Ndryshuar me vendimin nr. 254, datë 20.5.2026)
+
+(I përditësuar)
+
 Këshilli i Lartë Gjyqësor, mbështetur në nenet 135, pika 1, 147, pika 1, 147/a, shkronja “ë” të Kushtetutës së Republikës së Shqipërisë, nenet 13 dhe 66 të Ligjit nr. 98/2016 “Për organizimin e pushtetit gjyqësor në Republikën e Shqipërisë” i ndryshuar, nenin 44 të Ligjit nr. 96/2016 “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, i ndryshuar, si dhe nenin 61, paragrafi 2, shkronja “ë” të Ligjit nr. 115/2016 “Për organet e qeverisjes së sistemit të drejtësisë”, i ndryshuar, me propozim të Komisionit të Planifikimit Strategjik, Administrimit dhe Buxhetit,
 
 VENDOSI:
@@ -16,11 +20,13 @@ VENDOSI:
 
 	Emërtimi dhe selia 
 
+(Ndryshuar togfjalësh në pikën 3 me vendimin nr. 254, datë 20.5.2026)
+
 1. Gjykata e Rrethit Gjyqësor Shkodër emërtohet Gjykata e Shkallës së Parë e Juridiksionit të Përgjithshëm Shkodër.
 
 2. Gjykata e Shkallës së Parë e Juridiksionit të Përgjithshëm Shkodër fillon funksionimin më datë 1.5.2023.
 
-3. Selia e Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Shkodër është në Shkodër, në adresën: Rruga “Don Bosko”.
+3. Selia e Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Shkodër është në Shkodër, në adresën: Rruga “Et’hem Osmani”.
 
 4. Gjykata e Rrethit Gjyqësor Pukë, ndërpret veprimtarinë më datë 30.4.2023.
 
