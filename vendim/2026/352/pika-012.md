@@ -1,0 +1,2 @@
+12. Ngarkohen Ministria e Infrastrukturës dhe Energjisë, Ministria për Evropën dhe Punët e Jashtme, Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Tiranë Jug, dhe Agjencia Shtetërore për Shpronësimin për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
