@@ -1,0 +1,3 @@
+# Nënshkrimi
+NË MUMGESË DHE ME URDHËR
+ZËVENDËSMINISTËR I BUJQËSISË
