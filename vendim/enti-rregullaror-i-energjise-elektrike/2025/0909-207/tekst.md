@@ -4,6 +4,10 @@ Nr. 207, datë 9.9.2025
 
 MBI LICENCIMIN E SHOQËRISË “AMEL ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA CENTRALI FOTOVOLTAIK, ME KAPACITET PRODHUES 2 mw
 
+(Ndryshuar me vendimin nr. 135, datë 21.5.2026)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a”, 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 9.9.2025, mbasi shqyrtoi relacionin me nr. 2174/9 prot., datë 3.9.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘Amel Energy’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -50,11 +54,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Amel Energy” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet prodhues 2 mw, me vendndodhje në zonën kadastrale nr. 3358, Njësia Administrative Topojë, Bashkia Fier, qarku Fier, për një afat 30-vjeçar.
 
-2. Shoqëria duhet të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 31.12.2025.
+2. Shfuqizuar.
 
-3. Me fillimin e operimit, por jo më vonë se 60 (gjashtëdhjetë) ditë nga ky fakt, shoqëria duhet të dokumentojë në ERE testimin e veprës.
+3. Shfuqizuar.
 
-4. Ky vendim është objekt rishikimi, në rast të plotësimit/mosplotësimit të kushtit të pikave 2 dhe 3 të këtij vendimi dhe në rast të depozitimit të akteve të ndryshme nga ato që kanë shërbyer për marrjen e këtij vendimi.
+4. Ky vendim është objekt rishikimi nga ERE në rast të depozitimit të akteve të ndryshme nga ato që kanë shërbyer për marrjen e këtij vendimi.
 
 5. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “Amel Energy” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, “OSSH” sh.a. dhe “ALPEX” sh.a., për vendimin e Bordit të ERE-s.
 
