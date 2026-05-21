@@ -4,7 +4,7 @@ Nr. 40, datë 14.2.2025
 
 MBI LICENCIMIN E SHOQËRISË “EB ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
-(Ndryshuar me vendimin nr. 269, datë 27.10.2025; nr. 14, datë 15.1.2026)
+(Ndryshuar me vendimin nr. 269, datë 27.10.2025; nr. 14, datë 15.1.2026; nr. 136, datë 21.5.2026)
 
 (i përditësuar)
 
@@ -48,11 +48,11 @@ VENDOSI:
 
 2. Shfuqizuar.
 
-3. Shoqëria duhet të fillojë operimin/ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda 30 (tridhjetë) ditëve nga hyrja në fuqi e këtij vendimi.
+3. Shfuqizuar.
 
-4. Brenda 60 (gjashtëdhjetë) ditëve nga fillimi i operimit, shoqëria duhet të dokumentojë në ERE testimin e veprës.
+4. Shfuqizuar.
 
-5. Ky vendim është objekt rishikimi nga ERE në rast të plotësimit/mosplotësimit të kushteve të përcaktuara në pikat 3 dhe 4 të këtij vendimi, si dhe në rast të depozitimit të akteve të ndryshme nga ato që kanë shërbyer për marrjen e këtij vendimi.
+5. Ky vendim është objekt rishikimi nga ERE në rast të depozitimit të akteve të ndryshme nga ato që kanë shërbyer për marrjen e këtij vendimi.
 
 6. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “EB Energy” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, “OSSH” sh.a., “FTL” sh.a. dhe “ALPEX” sh.a., për vendimin e Bordit të ERE-s.
 
