@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Federale të Gjermanisë mbi bashkëpunimin teknik 2024, për projektin “Green Vjosa (Vjosa e gjelbër) - Zhvillim rajonal i gjelbër dhe gjithëpërfshirës në zonën e ujëmbledhësit të Parkut Kombëtar të Vjosës”, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
