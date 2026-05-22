@@ -1,1 +1,0 @@
-6. Brenda 30 ditëve nga depozitimi i kërkesës dhe dokumentacionit të përcaktuar në këtë udhëzim, kërkuesi do t’i nënshtrohet intervistës, e cila do të kryhet në gjuhën që ai/ajo kupton me prezencën e përkthyesit.

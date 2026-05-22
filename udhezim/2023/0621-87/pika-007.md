@@ -1,1 +1,0 @@
-7. Pas dorëzimit të kërkesës dhe dokumentacionit të nevojshëm autoriteti përgjegjës, i caktuar pranë Drejtorisë së Politikave për Azilin, të Huajt dhe Shtetësinë, njofton kërkuesin për ditën dhe orën e intervistës, të paktën pesë (5) ditë para zhvillimit të saj.

@@ -1,1 +1,0 @@
-18. Drejtori i Drejtorisë së Azilit, të Huajve dhe Shtetësisë, si dhe drejtori i përgjithshëm për Zhvillimin e Migracionit dhe Azilit, kanë të drejtë të japin rekomandime shtesë dhe ta kthejnë dosjen për rishqyrtim në rast të mosdakordësisë me rekomandimet e përcjella nga sektori përgjegjës për shqyrtimin e kërkesës për statusin e pashtetësisë.
