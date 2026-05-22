@@ -1,0 +1,1 @@
+1. Personat e huaj që gjenden pa shtetësi në territorin e Republikës së Shqipërisë mund të paraqesin kërkesë pranë autoritetit shtetëror qendror përgjegjës për përcaktimin e statusit të pashtetësisë, në ministrinë përgjegjëse për çështjet e rendit dhe sigurisë publike, për shpallje të statusit të pashtetësisë.

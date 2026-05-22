@@ -1,0 +1,1 @@
+16. Pas vlerësimit të të gjithë aplikimit, autoritetit shtetëror qendror përgjegjës për përcaktimin e statusit të pashtetësisë harton vendimin së bashku me rekomandimin e nënshkruar prej tyre, për shpalljen ose refuzimin e statusit të pashtetësisë, sipas aneksit nr. 2, bashkëlidhur këtij udhëzimi.

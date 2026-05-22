@@ -1,0 +1,1 @@
+18. Drejtori i Përgjithshëm për Politikat e Shtetësisë ka të drejtë të japë rekomandime shtesë dhe ta kthejnë dosjen për rishqyrtim në rast të mosdakordësisë me rekomandimet e përcjella nga autoriteti shtetëror qendror, përgjegjës për përcaktimin e statusit të pashtetësisë.

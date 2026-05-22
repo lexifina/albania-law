@@ -1,0 +1,1 @@
+12. Intervista do të dokumentohet në një procesverbal, i cili do t’i komunikohet në gjuhën që ai/ajo kupton dhe do të nënshkruhet nga kërkuesi, sektori përgjegjës, si dhe pjesëmarrësit e tjerë në intervistë.

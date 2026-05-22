@@ -1,0 +1,1 @@
+7. Pas dorëzimit të kërkesës dhe dokumentacionit të nevojshëm, autoritetit shtetëror qendror, përgjegjës për përcaktimin e statusit të pashtetësisë, njofton kërkuesin për ditën dhe orën e intervistës, të paktën pesë (5) ditë para zhvillimit të saj.

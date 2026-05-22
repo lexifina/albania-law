@@ -1,0 +1,1 @@
+14. Pas zhvillimit të intervistës nga punonjësi, autoriteti përgjegjës nis procesin e verifikimit dhe nëse është e nevojshme, merr informacione edhe përmes institucioneve përkatëse të përfaqësive të huaja diplomatike dhe organizatave ndërkombëtare.

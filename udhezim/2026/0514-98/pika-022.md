@@ -1,0 +1,1 @@
+22. Udhëzimi i ministrit të Brendshëm nr. 87, datë 21.6.2023, “Mbi dokumentacionin dhe procedurën për aplikimin, vlerësimin, miratimin dhe refuzimin e kërkesës për shpalljen e statusit të pashtetësisë”, shfuqizohet.

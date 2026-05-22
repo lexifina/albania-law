@@ -1,0 +1,1 @@
+15. Autoriteti përgjegjës shqyrton dhe analizon dëshminë e dhënë gjatë intervistës, si dhe të gjithë dokumentacionin e depozituar, për të vërtetuar saktësinë e dëshmisë së dhënë dhe provave të ofruara gjatë procedurës.
