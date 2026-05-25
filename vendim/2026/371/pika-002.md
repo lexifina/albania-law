@@ -1,0 +1,1 @@
+2. Vendimi nr. 67, datë 3.2.2021, i Këshillit të Ministrave, “Për caktimin e gjashtë anëtarëve në përbërje të Këshillit Kombëtar të Arsimit Parauniversitar, të përzgjedhur me konkurrim publik”, i ndryshuar, shfuqizohet.
