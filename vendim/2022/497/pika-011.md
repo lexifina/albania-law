@@ -13,8 +13,8 @@ d) Siguron regjistrimin dhe arkivimin e dokumenteve të KKZHRK-së;
 dh) Siguron publikimin e dokumenteve të KKZHRK-së sipas ligjit;
 e) Me kërkesë të kryetarit të KKZHRK-së harton analiza në lidhje me veprimtarinë e BMZHR-ve, në bazë të raporteve të veprimtarisë së paraqitur prej tyre;
 ë) Kryen detyra të tjera që mund t’i delegohen nga KKZHRK-ja ose kryetari i KKZHRK-së, sipas përcaktimeve në ligj.
-V. DISPOZITA KALIMTARE DHE T¨ FUNDIT
-1. Anëtar i KKZHRK-së, sipas përcaktimeve të pikës 5, të kreut II, të këtij vendimi, deri në ngritjen e BMZHR-ve dhe zgjedhjen e kryetarëve përkatës, është kryetari i këshillit të qarkut, me popullsinë më të madhe të secilit rajon zhvillimor.
-2. Sekretariati teknik kryen verifikimin për përcaktimin e qarkut më të madh të rajonit zhvillimor, sipas publikimit më të fundit të INSTAT-it.
+V. DISPOZITA KALIMTARE DHE TË FUNDIT
+1. Shfuqizuar.
+2. Shfuqizuar.
 3. Ngarkohen KKZHRK-ja dhe Fondi Shqiptar i Zhvillimit për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
