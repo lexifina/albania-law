@@ -1,4 +1,4 @@
-7. Përfaqësuesi i ministrisë përgjegjëse për financat kryen detyrat e zëvendëskryetarit të KKZHRK-së. Zëvendëskryetari asiston kryetarin dhe/ose drejton KKZHRK-në, në mungesë të kryetarit.
+7. Shfuqizuar.
 III. VENDIMMARRJA DHE VEPRIMTARIA
 1. Secili anëtar i KKZHRK-së shpreh qëndrimin e institucionit që ai përfaqëson. Çdo mendim merret parasysh dhe diskutohet.
 2. Vendimet e KKZHRK-së i nënshtrohen një procesi shqyrtimi dhe diskutimi midis anëtarëve për çdo propozim apo çështje për diskutim.
@@ -6,4 +6,4 @@ III. VENDIMMARRJA DHE VEPRIMTARIA
 4. Vendimet e KKZHRK-së përmbajnë numrin, datën, nënshkrimin e kryesuesit të mbledhjes dhe të sekretariatit teknik.
 5. Vendimet e miratuara u komunikohen anëtarëve të KKZHRK-së dhe pjesëmarrësve pa të drejtë vote nga sekretariati i KKZHRK-së, brenda 15 (pesëmbëdhjetë) ditëve pune nga data e mbledhjes.
 6. KKZHRK-ja zhvillon veprimtarinë e saj nëpërmjet mbledhjeve të zakonshme dhe mbledhjeve të jashtëzakonshme.
-7. Mbledhjet e KKZHRK-së janë të vlefshme, vetëm nëse janë të pranishëm minimalisht 2/3 e anëtarëve, një prej të cilëve duhet të jetë kryetari ose zëvendëskryetari.
+7. Mbledhjet e KKZHRK-së janë të vlefshme, vetëm nëse janë të pranishëm minimalisht 2/3 e anëtarëve, një prej të cilëve duhet të jetë kryetari.

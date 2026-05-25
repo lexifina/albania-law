@@ -10,12 +10,6 @@ dh) miraton rregullat dhe procedurat për monitorimin e vlerësimin e planeve ra
 e) monitoron zbatimin e Politikës Kombëtare për Zhvillimin Rajonal dhe Kohezionin;
 ë) harton dhe miraton raportet vjetore për aktivitetin e saj, të cilat i paraqiten Këshillit të Ministrave;
 f) harton dhe miraton rregulloren e brendshme, që lidhet me aspekte administrative dhe/ose teknike të veprimtarisë së saj.
-2. KKZHRK-ja përbëhet nga 11 (njëmbëdhjetë) anëtarë me të drejtë vote dhe drejtohet nga zëvendëskryeministri në cilësinë e kryetarit.
-3. 6 (gjashtë) anëtarë janë përfaqësues të ministrive që mbulojnë fushat e përgjegjësisë që ndërveprojnë me zhvillimin rajonal dhe kohezionin, si më poshtë vijon:
-a) financat dhe ekonomia;
-b) infrastruktura publike;
-c) turizmi dhe mjedisi;
-ç) mbrojtja sociale;
-d) pushteti vendor dhe decentralizimi;
-dh) kultura.
-4. Anëtarët e KKZHRK-së, sipas përcaktimeve të pikës 3, të këtij kreu, janë në nivel zëvendësministri, përgjegjës për koordinimin e procesit brenda institucionit dhe fushës së tyre të përgjegjësisë, si dhe për dhënien e kontributit në funksion të politikës së zhvillimit rajonal, dhe caktohen me urdhër të Kryeministrit.
+2. KKZHRK-ja drejtohet nga zëvendëskryeministri, në cilësinë e kryetarit.
+3. Përbërja e KKZHRK-së do të jetë e njëjtë me përbërjen e këshillit drejtues të Fondit Shqiptar të Zhvillimit (FSHZH). Anëtarë të KKZHRK-së janë anëtarët e këshillit drejtues të FSHZH-së, të emëruar sipas përcaktimeve të nenit 10, të ligjit nr. 10130, datë 11.5.2009, “Për Fondin Shqiptar të Zhvillimit”, të ndryshuar.
+4. Shfuqizuar.
