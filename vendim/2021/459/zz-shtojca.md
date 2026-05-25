@@ -1,2 +1,3 @@
 # Shtojca
-Aneks 1 : Harta e rajoneve të zhvillimit
+ANEKS 1
+HARTA E RAJONEVE TË ZHVILLIMIT
