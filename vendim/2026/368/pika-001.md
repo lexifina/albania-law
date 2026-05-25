@@ -1,0 +1,1 @@
+1. Miratimin e rregullave dhe procedurave të lidhjes në rrjetin e shpërndarjes për vetëprodhuesit e energjisë së rinovueshme dhe të skemës së kompensimit të tyre, bazuar në metodologjinë e faturimit neto, sipas tekstit që i bashkëlidhet këtij vendimi.
