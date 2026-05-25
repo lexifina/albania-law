@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Përmirësimi i infrastrukturës, kryesisht në zonat informale, ’Rikonstruksion i gjendjes ekzistuese të rrugës ’Arif Dardha’’, në zonën kadastrale 8527”, Bashkia Elbasan.
