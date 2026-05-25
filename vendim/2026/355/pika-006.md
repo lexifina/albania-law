@@ -1,0 +1,1 @@
+6. Dokumentet e planifikimit e të koordinimit i nënshtrohen procesit të konsultimit gjatë fazave të ndryshme të hartimit dhe ndjekin parimin e planifikimit e të koordinimit si proces pune në vazhdimësi, duke reflektuar, sipas rastit, kërkesat që burojnë nga procesi i anëtarësimit në Bashkimin Evropian dhe politika e kohezionit.

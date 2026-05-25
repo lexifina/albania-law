@@ -1,0 +1,1 @@
+8. Për nevoja të hartimit të PKZHRK-së në nivel kombëtar, KKZHRK-ja mund të ngrejë grupe teknike/tematike pune me përfaqësues nga ministritë e linjës apo institucione të tjera qendrore, rajonale dhe vendore, që janë të përfshira në çështjet e zhvillimit rajonal.

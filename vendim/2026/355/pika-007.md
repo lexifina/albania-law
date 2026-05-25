@@ -1,0 +1,1 @@
+7. Organi përgjegjës për hartimin e dokumentit të planifikimit e të koordinimit, në përputhje me parimin e partneritetit, kryen bashkërendimin horizontal ndërmjet autoriteteve/aktorëve kombëtare/ë të zhvillimit sektorial dhe bashkërendimin vertikal ndërmjet autoriteteve/aktorëve kombëtare/ë dhe aktorëve të zhvillimit në nivel vendor e rajonal.
