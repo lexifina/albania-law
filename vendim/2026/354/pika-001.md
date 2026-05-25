@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Gjirokastër të pasurisë me nr. 10/175, me vendndodhje në zonën kadastrale 8542, sipas formularit dhe planit të rilevimit, që i bashkëlidhen këtij vendimi, për t’u përdorur si qendër multifunksionale kulturore dhe teknologjike.
