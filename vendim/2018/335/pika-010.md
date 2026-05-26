@@ -93,6 +93,15 @@ gj) Instruksionet për përdorimin pa rrezik të PMB-së apo të ambalazhit të 
 3. Në etiketë duhet të shënohet nëse PMB-ja mund të përdoret kur bletët ose insektet e dobishme janë në aktivitet apo kur kulturat dhe/ose bimët e dëmshme janë në lulëzim, ose të vendosen shënime të tjera analoge, që njoftojnë për mbrojtjen e bletëve dhe të insekteve të dobishme, nëse regjistrimi parashikon qartësisht përdorimin gjatë periudhave të pranisë së bletës ose të organizmave të tjerë të specifikuar, dhe që rreziqet për to janë të parëndësishme. Duhet të shënohet, gjithashtu, edhe distanca e largësisë nga burimet ujore, që duhet respektuar për mbrojtjen nga përdorimi i PMB-ve.
 4. Piktogramet e rrezikut, si dhe përcaktimet për rrezikun e kujdesin vendosen sipas legjislacionit që rregullon klasifikimin, ambalazhimin dhe etiketimin e kimikateve.
 5. Përmbajtja e etiketës duhet të jetë në gjuhën shqipe.
+6. Aplikanti ose mbajtësi i dokumentit të regjistrimit, institucionet zyrtare ose shkencore, të përfshira në aktivitetet bujqësore ose organizatat/shoqatat profesionale bujqësore ose përdoruesit profesionistë, mund të kërkojnë që regjistrimi i një PMB-je të regjistruar të shtrihet në përdorime të vogla, që nuk mbulohen nga ai regjistrim.
+7. Regjistrimi zgjerohet në përdorime të vogla, me kusht që:
+a) përdorimi i synuar është i vogël në natyrë;
+b) zgjerimi është në interes të publikut;
+c) dokumentacioni dhe informacioni për të mbështetur zgjerimin e përdorimit është dorëzuar nga personat ose nga organet e përmendura në pikën 6, të këtij kreu, veçanërisht, të dhënat mbi nivelin e mbetjeve dhe, kur është e nevojshme, për vlerësimin e riskut për operatorin, punonjësin dhe kalimtarin.
+8. Kur miratohet një zgjerim për përdorim të vogël, ministria përgjegjëse për bujqësinë, nëse është e nevojshme, informon aplikantin ose mbajtësin e dokumentit për regjistrim dhe i kërkon atij të ndryshojë etiketimin, në përputhje me rrethanat.
+Në rast se aplikanti ose mbajtësi i dokumentit për regjistrim refuzon ta bëjë këtë, ministria përgjegjëse për bujqësinë siguron informimin e përdoruesve nëpërmjet publikimit në faqen zyrtare të ministrisë, duke përfshirë edhe udhëzimet specifike për përdorim.
+9. Publikimi zyrtar sipas pikës 8, të këtij vendimi ose aty ku është e aplikueshme, etiketa duhet të përmbajë një referencë për përgjegjësinë e personit që përdor PMB-në, lidhur me dështimet për efikasitetin ose fitotoksicitetin e PMB-së, për të cilin është dhënë përdorimi i vogël.
+10. Zgjerimi i përdorimit të vogël shënohet veçmas në etiketë dhe i referohet më vete kufizimeve të përgjegjësisë për efikasitetin ose fitotoksicitetin e PMB-së.
 VII. AFATET, RISHIKIMI, MODIFIKIMI, PEZULLIMI, ÇREGJISTRIMI DHE RIREGJI-STRIMI I PMB-ve
 1. Afatet e vlefshmërisë së regjistrimit të PMB-ve janë, si më poshtë vijon:
 a) 1 vit më shumë se afatet e lëndës/ve vepruese në përmbajtje të tyre, të miratuara me urdhër të ministrit;
@@ -172,7 +181,7 @@ i) Të dhënat për rrezikun në mjedis.
 IX. INFORMIMI DHE REKLAMIMI
 1. Ministria informon në medien e shkruar ose elektronike veprimtaritë e organizuara lidhur me sigurinë, cilësinë, efektshmërinë, përdorimin dhe parandalimin e rreziqeve nga tregtimi dhe përdorimi i PMB-ve.
 2. Reklamimi lejohet vetëm për PMB-të e regjistruara dhe në përputhje me dokumentin e regjistrimit.
-3. Reklamimi në medien e shkruar ose elektronike miratohet nga drejtuesi i SPMB-së, pas kërkesës së paraqitur nga mbajtësi i dokumentit të regjistrimit.
+3. Shfuqizuar.
 4. Në varësi të tipit të reklamës, tekstet dhe piktogramet duhet të jenë të lexueshme e të dëgjueshme qartë, veçanërisht kur ato kanë të bëjnë me mbrojtjen e njerëzve, të kafshëve dhe mjedisit.
 5. Reklamimi i veçantë për PMB-të që dëmtojnë ose jo bletët apo insektet e dobishme kryhet:
 a) Kur ato janë në aktivitet;
