@@ -1,1 +1,0 @@
-2. Urdhri i ministrit të Drejtësisë nr. 640, datë 29.10.2025, “Për autorizimin dhe delegimin e disa kompetencave/autoritetit të Ministrisë së Drejtësisë, Sekretarit të Përgjithshëm të Ministrisë së Drejtësisë”, i ndryshuar, shfuqizohet.
