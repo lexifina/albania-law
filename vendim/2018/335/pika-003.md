@@ -21,7 +21,10 @@
 3.20 “Doza e përdorimit”, sasia e lëndës vepruese ose e PMB-së për njësinë e sipërfaqes, duke përcaktuar dhe sasinë e tretësirës spërkatëse që duhet të përdoret. Mund të shprehet edhe në përqindje;
 3.21 “PMB me prejardhje bimore”, PMB-së, lënda vepruese e së cilës përmban një ose më shumë lëndë me prejardhje bimore, të kombinuara me një a më shumë përgatesa me prejardhje bimore;
 3.22 “Farmakovigjilencë”, shkenca dhe veprimtaria që merret me zbulimin, evidentimin dhe vlerësimin e efekteve të padëshiruara dhe/ ose të dëmshme të PMB-ve, për parandalimin e mundshëm të tyre, si dhe me çdo problem që lidhet me sigurinë dhe efektshmërinë e PMB-ve;
-3.23 “Tërheqës (Feromon)”, substanca e sekretuar jashtë organizmit, shumë avulluese dhe që metabolizohet menjëherë, sapo kërkohet transmetimi i mesazhit, ndërmjet insekteve të së njëjtës specie. Është lëndë me erë karakteristike të femrave të dëmtuesit që do të kontrollohet, e cila përdoret për tërheqjen e meshkujve në “kurthe seksuale”. Përdoret, kryesisht, në programet e integruara të kontrollit të dëmtuesve, si dhe në monitorimin e tyre.
+3.23 “Tërheqës (Feromon)”, substanca e sekretuar jashtë organizmit, shumë avulluese dhe që metabolizohet menjëherë, sapo kërkohet transmetimi i mesazhit, ndërmjet insekteve të së njëjtës specie. Është lëndë me erë karakteristike të femrave të dëmtuesit që do të kontrollohet, e cila përdoret për tërheqjen e meshkujve në “kurthe seksuale”. Përdoret, kryesisht, në programet e integruara të kontrollit të dëmtuesve, si dhe në monitorimin e tyre;
+3.24 “Përdorim i vogël” nënkupton përdorimin e një produkti për mbrojtjen e bimëve në Shqipëri, të caktuar në bimë ose produkte bimore, të cilat janë:
+a) jo të kultivuara gjerësisht në Shqipëri; ose
+b) të kultivuara gjerësisht për të përmbushur një nevojë të jashtëzakonshme për mbrojtjen e bimëve.
 II. REGJISTRIMI I PMB-ve
 1. Të gjitha PMB-të, që vendosen në treg dhe përdoren në territorin e Republikës së Shqipërisë, duhet të jenë vetëm të regjistruara.
 2. Në Republikën së Shqipërisë pranohen për regjistrim vetëm PMB-të që janë të regjistruara në një nga vendet e Bashkimit Evropian.
