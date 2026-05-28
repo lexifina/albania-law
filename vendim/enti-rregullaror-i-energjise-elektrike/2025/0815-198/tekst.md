@@ -4,7 +4,7 @@ Nr. 198, datë 15.8.2025
 
 MBI LICENCIMIN E SHOQËRISË “POWER ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA CENTRALI FOTOVOLTAIK, ME KAPACITET PRODHUES 25 mw
 
-(Ndryshuar me vendimin nr. 278, datë 6.11.2025)
+(Ndryshuar me vendimin nr. 278, datë 6.11.2025; nr. 147, datë 28.5.2026)
 
 (i përditësuar)
 
@@ -56,7 +56,7 @@ VENDOSI:
 
 2. Shfuqizuar. 
 
-3. Shoqëria “Power Energy” sh.p.k. duhet të fillojë operimin e centralit fotovoltaik jo më vonë se data 31.12.2025.
+3. Shoqëria të fillojë operimin/ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 4.6.2028.
 
 4. Me fillimin e operimit, por jo më vonë se 60 (gjashtëdhjetë) ditë nga ky fakt, shoqëria duhet të dokumentojë në ERE testimin e veprës.
 
