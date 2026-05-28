@@ -4,7 +4,7 @@ Nr. 171, datë 31.7.2025
 
 MBI LICENCIMIN E SHOQËRISË “EZ-5 ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA CENTRALI FOTOVOLTAIK, ME KAPACITET TË INSTALUAR 30 MW
 
-(Ndryshuar me vendimin nr. 280, datë 6.11.2025)
+(Ndryshuar me vendimin nr. 280, datë 6.11.2025; nr. 155, datë 28.5.2026)
 
 (i përditësuar)
 
@@ -58,7 +58,7 @@ VENDOSI:
 
 2. Shfuqizuar.
 
-3. Shoqëria “EZ-5 Energy” sh.p.k. duhet të fillojë operimin e centralit fotovoltaik jo më vonë se data 31.12.2025.
+3. Shoqëria të fillojë operimin/ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 30.4.2028.
 
 4. Me fillimin e operimit, por jo më vonë se 60 (gjashtëdhjetë) ditë nga ky fakt, shoqëria duhet të dokumentojë në ERE testimin e veprës. 
 
