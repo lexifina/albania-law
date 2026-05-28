@@ -45,7 +45,7 @@ TARIFAT
 KREU VI
 ANKIMIMI
 1. Aplikanti për njohjen dhe njësimin e certifikatave dhe diplomave që i përkasin nivelit 5 deri në 8, përveç gradave shkencore “Doktor”, të Kornizës Shqiptare të Kualifikimeve dhe Kornizës Evropiane të Kualifikimeve ka të drejtë të bëjë ankim me shkrim kundër vendimit të Titullarit të QSHA, sipas afateve të parashikuara nga Kodi i Procedurave Administrative të Republikës së Shqipërisë.
-2. Aplikanti për njohjen dhe njësimin e gradës shkencore “Doktor” dhe titujve akademikë ka të drejtë të bëjë ankim me shkrim kundër vendimit të KNJG ose komisionit ad hoc pranë MAS-it, sipas afateve të parashikuara nga Kodi i Procedurave Administrative të Republikës së Shqipërisë.
+2. Aplikanti për njohjen dhe njësimin e gradës shkencore “Doktor” ose njohjen e titullit akademik ka të drejtë të bëjë ankim me shkrim kundër vendimit të KNJG-së ose Komisionit për Njohjen e Titujve Akademikë pranë ministrisë përgjegjëse për arsimin, sipas afateve të parashikuara nga Kodi i Procedurave Administrative të Republikës së Shqipërisë.
 3. Ankesa duhet të shoqërohet me dokumentacionin mbi të cilin mbështeten pretendimet e ankuesit.
 KREU VII
 DISPOZITA TRANZITORE DHE TË FUNDIT
