@@ -5,5 +5,5 @@ c) emërtimin e titullit të fituar;
 ç) shtetin përkatës;
 d) datën e fitimit të titullit akademik;
 dh) fushën e studimit;
-e) numrin dhe datën e vendimit të komisionit ad hoc;
+e) numrin dhe datën e vendimit të komisionit;
 ë) numrin rendor të regjistrimit të titullit akademik në regjistrin shtetëror të gradave shkencore dhe titujve akademikë të fituar jashtë vendit.
