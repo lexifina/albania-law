@@ -4,6 +4,10 @@ Nr. 238, datë 6.11.2024
 
 MBI LICENCIMIN E SHOQËRISË “ORHER” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me Vendimin nr. 150, datë 28.5.2026)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16 dhe 37, pika 2, 38, pika 1, germa “a”, dhe 39, pika 4, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të nenit 15, pika 1, germa “a”, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 6.11.2024, mbasi shqyrtoi relacionin me nr. 1958/10 prot., datë 4.11.2024, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘Orher’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -36,13 +40,13 @@ Për gjithë sa më sipër, Bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “Orher” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 2 mw, në fshatin Grykë, Njësia Administrative Topojë, Bashkia Fier, qarku Fier, për një afat 25-vjeçar.
+1. Të licencojë shoqërinë “Orher” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 2 mw, në zonën e Semanit, Njësia Administrative Topojë, Bashkia Fier, qarku Fier, për një afat 25-vjeçar.
 
-2. Shoqëria duhet të dokumentojë fillimin e punimeve për ndërtimin e centralit fotovoltaik brenda afatit të fundit të vlefshmërisë së VNM-së paraprake (brenda datës 11.4.2025) ose duhet të depozitojë në ERE një VNM paraprake të re.
+2. Shfuqizuar.
 
-3. Shoqëria të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda afateve të përcaktuara në kontratën e nënshkruar me MIE-n.
+3. Shoqëria duhet të dokumentojë në ERE testimin e veprës brenda datës 22.7.2026.
 
-4. Ky vendim është objekt rishikimi nga ERE në kuadër të pikave 2 dhe 3.
+4. Ky vendim është objekt rishikimi në rast të përmbushjes apo mospërmbushjes së kushtit të përcaktuar në pikën 3 të këtij vendimi, si dhe në rast të depozitimit të dokumenteve të ndryshme nga ato që kanë shërbyer për marrjen e këtij vendimi.
 
 5. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “Orher” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, shoqërinë “Operatori i Sistemit të Shpërndarjes” sh.a. dhe shoqërinë “Furnizuesi i Tregut të Lirë” sh.a. për vendimin e Bordit të ERE-s.
 

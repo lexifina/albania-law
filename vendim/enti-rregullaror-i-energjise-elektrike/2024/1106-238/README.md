@@ -1,9 +1,9 @@
 # Për licencimin e shoqërisë "ORHER" sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike
 
-Official source: [Vendim nr. 238, datë 6.11.2024 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/29246).
+Official source: [Vendim nr. 238, datë 6.11.2024 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/29246); [QBZ versions](https://qbz.gov.al/api/v1/acts/29246/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2024-11-06; published 2024-12-02; in force 2024-12-02.
+Status of this text: `official consolidated version 1`, applying from 2026-05-28; after QBZ act 33571 (nr. 150).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
