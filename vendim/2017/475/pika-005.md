@@ -1,1 +1,1 @@
-5. Kohëzgjatja e këtij misioni është deri më 31 dhjetor 2026, me sistem rotacioni. Periudha e rotacionit, për çdo togë, të jetë 6 (gjashtë) muaj, së cilës i shtohen edhe ditët e qëndrimit për ndërrimin me togën e radhës.
+5. Kohëzgjatja e këtij misioni është deri më 31.12.2029, me sistem rotacioni. Kohëzgjatja për çdo rotacion është deri në 6 (gjashtë) muaj, periudhë së cilës i shtohen edhe ditët e qëndrimit për ndërrimin me togën e radhës.
