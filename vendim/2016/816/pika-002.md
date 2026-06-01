@@ -1,1 +1,0 @@
-2. Njësia përgjegjëse në autoritetet publike është drejtuesi i strukturës së auditimit të brendshëm dhe një nëpunës/punonjës i saj. Në mungesë të tyre, kjo njësi përbëhet nga dy nëpunës/punonjës të njësisë së auditimit të brendshëm.

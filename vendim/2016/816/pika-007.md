@@ -1,1 +1,0 @@
-7. Caktimi si nëpunës/punonjës i njësisë përgjegjëse për sinjalizimin dhe mbrojtjen e sinjalizuesve në autoritetin publik, krahas detyrave dhe funksioneve të pozicionit të punës, sipas aktit të emërimit, është pa afat dhe përfundon me mbarimin e marrëdhënieve në atë pozicion pune.

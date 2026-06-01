@@ -1,1 +1,0 @@
-4. Autoritetet publike, të cilat në strukturën e tyre kanë njësi të posaçme, ndër të tjera, për luftën ndaj korrupsionit dhe praktikave apo veprimeve të dyshuara të korrupsionit, kryejnë edhe detyrën e njësisë përgjegjëse, në zbatim të ligjit nr. 60/2016.
