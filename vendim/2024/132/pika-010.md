@@ -1,1 +1,0 @@
-10. Agjencia ka stemën, logon dhe vulën e vet zyrtare. Stema e Agjencisë përbëhet nga stema e Republikës së Shqipërisë, me shënimet: “Republika e Shqipërisë, Ministria (emri i ministrisë përgjegjëse), Agjencia Kombëtare e Ekonomisë së Mbetjeve”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

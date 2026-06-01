@@ -1,1 +1,0 @@
-1. Krijimin dhe mënyrën e organizimit e të funksionimit të Agjencisë Kombëtare të Ekonomisë së Mbetjeve (në vijim “Agjencia”), si person juridik, publik, buxhetor, në varësi të ministrit përgjegjës për mjedisin (në vijim “ministri”), me seli në Tiranë.
