@@ -1,0 +1,1 @@
+13. Marrëdhëniet e punës së punonjësve të njësisë përgjegjëse rregullohen sipas dispozitave të Kodit të Punës ose legjislacionit të posaçëm, që zbatohet për pozicionin në të cilin ata janë të emëruar.

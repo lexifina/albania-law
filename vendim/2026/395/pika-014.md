@@ -1,0 +1,1 @@
+14. Titullarët e autoriteteve publike caktojnë punonjësit në detyrën e njësisë përgjegjëse, brenda 15 (pesëmbëdhjetë) ditëve nga hyrja në fuqi e këtij vendimi, dhe njoftojnë me shkrim inspektorin e përgjithshëm të ILDKPKI-së, për krijimin e njësisë përgjegjëse, së bashku me kontaktet e saj.

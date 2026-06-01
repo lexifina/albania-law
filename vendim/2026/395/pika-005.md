@@ -1,0 +1,4 @@
+5. Në ato autoritete publike, në të cilat nuk mund të zbatohen pikat 2, 3 dhe 4, të këtij vendimi, për shkak se nuk kanë njësi auditimi apo të burimeve njerëzore ose nuk plotësohet numri, sipas pikës 1, të këtij vendimi, njësia përgjegjëse plotësohet ose përbëhet nga 2 (dy) nëpunës/punonjës të përhershëm të autoritetit, të cilët, përveç kërkesave/kritereve të përgjithshme e të veçanta, të përcaktuara në legjislacionin që rregullon marrëdhënien e punës, duhet të plotësojë edhe këto kërkesa/kritere:
+a) të ketë përvojë në profesion jo më pak se 2 (dy) vjet;
+b) të ketë mbaruar arsimin e lartë në shkencat juridike, shkencat sociale, shkencat ekonomike ose disiplina të tjera, që lidhen me fushën e veprimtarisë së institucionit;
+c) të mos jetë dënuar me vendim gjyqësor të formës së prerë për kryerjen e ndonjë vepre penale.

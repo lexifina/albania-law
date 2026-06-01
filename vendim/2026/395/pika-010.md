@@ -1,0 +1,1 @@
+10. Autoritetet publike marrin masat për të siguruar kushtet dhe mjetet e nevojshme të punës e të komunikimit, në mënyrë që punonjësit e njësisë përgjegjëse të ushtrojnë efektivisht detyrat e tyre, në përputhje me parashikimet e pikës 9, të këtij vendimi.

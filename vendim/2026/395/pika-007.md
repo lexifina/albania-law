@@ -1,0 +1,1 @@
+7. Caktimi si punonjës i njësisë përgjegjëse në autoritetin publik, krahas detyrave dhe funksioneve të pozicionit të punës, sipas aktit të emërimit, është pa afat dhe përfundon sipas njërit prej rasteve të parashikuara në pikën 12, të këtij vendimi.
