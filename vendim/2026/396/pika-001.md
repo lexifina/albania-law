@@ -1,0 +1,9 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” të disa zonave në territorin e Bashkisë Fier, si më poshtë vijon:
+a) Zona nr. 1, fshatrat Libofshë, Rreth Libofshë, Vanaj dhe Daullas, pjesë të Njësisë Administrative Libofshë, Bashkia Fier, qarku Fier, me sipërfaqe 1 198 (një mijë e njëqind e nëntëdhjetë e tetë) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshatrat Cakran, Cakran i Ri, Vreshtas, Gorishovë, Gjonç, Buzmadh, Hambar, Floq, Varibop, Vjosë, Kreshpan dhe Gjorgos, pjesë të Njësisë Administrative Cakran, Bashkia Fier, qarku Fier, me sipërfaqe 6 100 (gjashtë mijë e njëqind) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr. 3, fshatrat Radostinë dhe Kryegjatë, pjesë të Njësisë Administrative Dërmenas, Bashkia Fier, qarku Fier, me sipërfaqe 863 (tetëqind e gjashtëdhjetë e tre) ha, sipas hartës në sistemin KRGJSH;
+ç) Zona nr. 4, fshatrat Peshtan Bregas, Frakull e Madhe, Kafaraj dhe Frakull e Vogël, pjesë të Njësisë Administrative Frakull, Bashkia Fier, qarku Fier, me sipërfaqe 2 181 (dy mijë e njëqind e tetëdhjetë e një) ha, sipas hartës në sistemin KRGJSH;
+d) Zona nr. 5, fshatrat Levan, Shtyllas, Peshtan i Madh dhe Peshtan i Vogël, pjesë të Njësisë Administrative Levan, Bashkia Fier, qarku Fier, me sipërfaqe 2 547 (dy mijë e pesëqind e dyzet e shtatë) ha, sipas hartës në sistemin KRGJSH;
+dh) Zona nr. 6, fshatrat Mbrostar dhe Petov, pjesë të Njësisë Administrative Mbrostar Ura, Bashkia Fier, qarku Fier, me sipërfaqe 542 (pesëqind e dyzet e dy) ha, sipas hartës në sistemin KRGJSH;
+e) Zona nr. 7, fshatrat Mbyet, Portëz, Plyk, Kraps, Lalar dhe Patos Fshat, pjesë të Njësisë Administrative Portëz, Bashkia Fier, qarku Fier, me sipërfaqe 2 488 (dy mijë e katërqind e tetëdhjetë e tetë) ha, sipas hartës në sistemin KRGJSH;
+ë) Zona nr. 8, fshatrat Zhupan dhe Vadhizë, pjesë të Njësisë Administrative Qendër, Bashkia Fier, qarku Fier, me sipërfaqe 346 (treqind e dyzet e gjashtë) ha, sipas hartës në sistemin KRGJSH.
