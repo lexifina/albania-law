@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Baza Ajrore Farkë”, me vendndodhje në Bashkinë Tiranë, me subjekt zhvillues Ministrinë e Mbrojtjes.

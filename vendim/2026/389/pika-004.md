@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 18 396 117 (tetëmbëdhjetë milionë e treqind e nëntëdhjetë e gjashtë mijë e njëqind e shtatëmbëdhjetë) lekësh, përballohet nga buxheti i Komandës së Forcës Ajrore, Ministria e Mbrojtjes.
