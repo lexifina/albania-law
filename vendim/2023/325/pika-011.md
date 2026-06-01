@@ -10,6 +10,10 @@ IV. DISPOZITA KALIMTARE DHE TË FUNDIT
 1. Punonjësit e projekteve, me tituj “Projekte me KfW”, “Projekti i kanalizimeve të Tiranës së Madhe”, “Projekti i shërbimeve esenciale”, në Agjencinë Kombëtare të Ujësjellës-Kanalizimeve, deri në përfundimin e projektit përkatës të trajtohen me pagë, si më poshtë vijon:
 a) drejtues projekti (koordinator): klasa I-4;
 b) specialist: klasa IV-1.
+1/1. Punonjësit e njësisë për zbatimin e projektit me titull “Sistemi i kamerave nën administrimin e Policisë së Shtetit
+Smart-City”, deri në përfundimin e projektit, të trajtohen me pagë, si më poshtë vijon:
+a) drejtues/menaxher projekti - klasa I-5;
+b) koordinator/punonjës teknik - klasa II-2.
 2. Nëpunësit e Sekretariatit Kombëtar të Nismës për Transparencë në Industrinë Nxjerrëse (EITI - Shqipëri), të cilët, sipas organizimit të mëparshëm, kanë pasur emërtesën “koordinator” dhe një nivel page më të lartë se përcaktimi i këtij vendimi, do të vazhdojnë të përfitojnë pagën që kanë pasur sipas organizimit të mëparshëm.
 3. Pagat e punonjësve administrativë të institucioneve të përfshira në fushën e veprimit të këtij vendimi përcaktohen, në bazë të vendimit përkatës të Këshillit të Ministrave për pagat e punonjësve mbështetës.
 4. Pavarësisht kategorive të pagave të miratuara në strukturat dhe organikat ekzistuese të institucioneve, deri në miratimin e strukturave dhe organikave të reja:
