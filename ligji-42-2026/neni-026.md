@@ -1,0 +1,16 @@
+# Neni 26
+Politikat për cilësinë e shërbimeve dhe kodet sjelljes
+1. Autoritetet kompetente, në bashkëpunim me Komisionin Evropian, marrin masa shoqëruese për të nxitur ofruesit e shërbimeve që në mënyrë vullnetare të ndërmarrin veprime për të siguruar cilësinë e ofrimit të shërbimeve, veçanërisht përmes:
+a) certifikimit ose vlerësimit të veprimtarisë së tyre nga organe të pavarura ose të akredituara;
+b) hartimit të kartave të cilësisë ose pjesëmarrjes në to apo në etiketa cilësie të hartuara nga organizata profesionale në nivel kombëtar ose evropian.
+2. Autoritetet kompetente sigurojnë që informacioni mbi domethënien e etiketave të cilësisë dhe kriteret për vendosjen e tyre apo të çdo treguesi tjetër cilësie lidhur me shërbimet të jetë lehtësisht i aksesueshëm nga ofruesit dhe përfituesit.
+3. Autoritetet kompetente në bashkëpunim me Komisionin Evropian nxisin organizatat profesionale, dhomat e tregtisë, shoqatat e zejeve dhe ato të konsumatorëve, brenda territorit të tyre, që të bashkëpunojnë në nivel kombëtar dhe evropian për promovimin e cilësisë së ofrimit të shërbimeve, veçanërisht duke lehtësuar vlerësimin e aftësive të ofruesit.
+4. Autoritetet kompetente në bashkëpunim me Komisionin Evropian marrin masa për të nxitur zhvillimin e vlerësimeve të pavarura, veçanërisht nga shoqatat e konsumatorëve, në lidhje me cilësinë dhe defektet në ofrimin e shërbimeve dhe, në veçanti, për zhvillimin e testimeve e të provave krahasuese në nivel Bashkimi Evropian dhe komunikimin e rezultateve përkatëse.
+5. Autoritetet kompetente në bashkëpunim me Komisionin Evropian nxisin zhvillimin e standardeve vullnetare evropiane me qëllim lehtësimin e përputhshmërisë së shërbimeve të ofruara nga ofruesit në Republikën e Shqipërisë dhe ofruesve në shtete të ndryshme anëtare të informacionit për përfituesin dhe cilësinë e ofrimit të shërbimit.
+6. Autoritetet kompetente në bashkëpunim me Komisionin Evropian marrin masa për të nxitur hartimin në nivel të Bashkimit Evropian, veçanërisht nga organet, shoqatat dhe organizatat profesionale, të kodeve të sjelljes që synojnë lehtësimin e ofrimit të shërbimeve ose të vendosjes së ofruesve në një shtet anëtar në përputhje me të drejtën e Bashkimit Evropian.
+7. Autoritetet kompetente sigurojnë akses në distancë, me mjete elektronike, në kodet e sjelljes, të përmendura në pikën 6 të këtij neni, përmes PVK-së dhe/ose faqeve zyrtare të autoriteteve kompetente, duke publikuar, sipas rastit, lidhje elektronike drejt burimeve përkatëse në nivel të Bashkimit Evropian dhe informacion shpjegues për fushëveprimin e tyre.
+8. Ministria përgjegjëse për ekonominë dhe tregtinë mund të nxjerrë udhëzues për cilësinë e shërbimeve dhe kodet e sjelljes, me qëllim orientimin e autoriteteve kompetente, organizatave profesionale dhe ofruesve të shërbimeve në zbatimin e praktikave të mira për sigurimin e cilësisë, transparencën dhe mbrojtjen e përfituesve të shërbimeve.
+Udhëzuesit mund të përcaktojnë:
+a) parimet dhe standardet orientuese për hartimin dhe zbatimin e kodeve të sjelljes;
+b) kriteret dhe mënyrën e vlerësimit të cilësisë së ofrimit të shërbimeve dhe të informimit të përfituesve;
+c) formatet dhe mënyrat e bashkëpunimit ndërmjet autoriteteve kompetente, organizatave profesionale dhe palëve të interesuara për promovimin e cilësisë së shërbimeve.

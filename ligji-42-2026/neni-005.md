@@ -1,0 +1,14 @@
+# Neni 5
+Parime të përgjithshme për vendosjen dhe skemat e autorizimit
+1. E drejta për të ushtruar një veprimtari shërbimi ose ushtrimi i saj në territorin e Republikës së Shqipërisë nga ofruesit që synojnë vendosjen ose janë të vendosur në këtë territor nuk mund të kufizohet nga një skemë autorizimi, përveçse kur plotësohen kushtet e mëposhtme:
+a) skema e autorizimit nuk është diskriminuese ndaj ofruesit të shërbimit;
+b) nevoja për vendosjen e një skeme autorizimi është e justifikuar nga një arsye madhore që lidhet me interesin publik;
+c) qëllimi i ndjekur nuk mund të arrihet me masa më pak kufizuese, në veçanti sepse kontrolli pas ushtrimit të veprimtarisë do të ishte tepër i vonuar për të qenë realisht efektiv.
+2. Autoritetet kompetente identifikojnë skemat e autorizimit ekzistuese dhe argumentojnë përputhshmërinë e tyre me kushtet e pikës 1 të këtij neni, duke u siguruar që kriteret e vendosjes, mënyra e funksionimit dhe efektet e tyre të jenë të justifikuara, proporcionale dhe në përputhje me këtë ligj.
+3. Ky nen nuk zbatohet për ato aspekte të skemave të autorizimit që rregullohen drejtpërdrejt ose tërthorazi nga instrumente të posaçme të së drejtës së Bashkimit Evropian.
+4. Autoritetet kompetente në ushtrimin e përgjegjësive të tyre vlerësojnë legjislacionin sektorial ekzistues dhe projektaktet e reja që parashikojnë vendosjen ose funksionimin e skemave të autorizimit për të siguruar që çdo kërkesë e tillë të jetë në përputhje me parimet e pikës 1 të këtij neni.
+Në rast se konstatohet mospërputhje, autoritetet kompetente marrin masa për përshtatjen ose shfuqizimin e dispozitave përkatëse.
+5. Autoritetet kompetente njoftojnë ministrinë përgjegjëse për ekonominë dhe tregtinë për çdo projektakt ligjor, nënligjor ose administrativ sektorial që parashikon krijimin, ndryshimin ose rishikimin e një skeme autorizimi, duke bashkëngjitur arsyetimin përkatës mbi domosdoshmërinë, proporcionalitetin dhe qëllimin e saj.
+Ministria vlerëson përputhshmërinë e këtyre masave me këtë ligj dhe, sipas rastit, rekomandon mosmiratimin, rishikimin ose shfuqizimin e tyre.
+6. Ministria përgjegjëse për ekonominë dhe tregtinë njofton Komisionin Evropian në përputhje me nenin 35 të këtij ligji për çdo skemë autorizimi ekzistuese apo të re, që kufizon të drejtën për të ushtruar një veprimtari shërbimi ose ushtrimin e veprimtarive të shërbimit, duke përfshirë informacion për përmbajtjen e saj dhe arsyet e justifikimit.
+7. Këshilli i Ministrave me vendim përcakton metodologjinë, procedurat, afatet dhe formatet e vlerësimit, të shqyrtimit dhe të njoftimit të skemave të autorizimit, sipas pikave 4 dhe 5 të këtij neni, si dhe rregullat për koordinimin ndërmjet ministrisë përgjegjëse për ekonominë e tregtinë dhe autoriteteve përkatëse, përfshirë regjistrat dhe formatet tip për dokumentimin e tyre.
