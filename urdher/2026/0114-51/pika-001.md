@@ -1,2 +1,0 @@
-1. Delegimin e përkohshëm të kompetencave znj. Erlira Gjikondi, Përgjegjës i Sektorit të Hartimit të Legjislacionit, për sa vijon:
-- Për të nënshkruar shkresat me karakter njohës dhe informues, dalëse të Drejtorisë së Përgjithshme, pjesë e fushës së përgjegjësisë së Drejtorisë Juridike dhe Kontrollit Tekniko-Ligjor që u drejtohen të tretëve (personave fizikë, personave juridik privat), si dhe ato të drejtuara strukturave të varësisë së ASHK-së në funksion të informimit të të tretëve.

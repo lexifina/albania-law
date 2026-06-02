@@ -1,1 +1,0 @@
-3. Delegimi i kompetencës sipas këtij urdhri nuk përfshin nënshkrimin e autorizimit për përfaqësim gjyqësor, ankimet, rekurset apo aktet administrative dhe detyrat të cilat duhet të miratohen, dhe të ushtrohen nga drejtori i përgjithshëm, në zbatim të nenit 9, të ligjit nr. 111/2018 “Për kadastrën”.
