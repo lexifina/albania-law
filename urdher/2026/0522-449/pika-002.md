@@ -1,0 +1,1 @@
+2. Pavarësisht delegimit të kompetencave sipas këtij urdhri, drejtori i Drejtorisë Juridike dhe Kontrollit Tekniko-Ligjor, nëse e gjykon të nevojshme, mund t’i përcjellë për nënshkrim drejtorit të përgjithshëm aktet që i vlerëson të një rëndësie të veçantë.
