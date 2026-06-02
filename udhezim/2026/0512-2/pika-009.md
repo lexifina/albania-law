@@ -1,0 +1,1 @@
+9. Në përfundim të shqyrtimit të kërkesës, struktura përgjegjëse për mbikëqyrjen dhe monitorimin e veprimtarisë minerare, përgatit një propozim të arsyetuar për miratimin ose refuzimin e kërkesës për pezullim dhe ia përcjell atë ministrit.

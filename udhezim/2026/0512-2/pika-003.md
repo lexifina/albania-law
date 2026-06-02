@@ -1,0 +1,1 @@
+3. Subjekti minerar, nëse kërkon ta pezullojë veprimtarinë e shfrytëzimit në zonën e lejuar, sipas përcaktimeve të neneve 18 dhe 25 të ligjit nr. 10 304, datë 15.7.2010, “Për sektorin minerar në Republikën e Shqipërisë”, të ndryshuar, është i detyruar të paraqesë kërkesë me shkrim pranë ministrisë përgjegjëse për veprimtarinë minerare.

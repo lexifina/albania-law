@@ -1,0 +1,1 @@
+6. Struktura përgjegjëse për mbikëqyrjen dhe monitorimin e veprimtarisë minerare, gjatë vlerësimit të kërkesës, kur e çmon të nevojshme për shqyrtimin e plotë të saj, kërkon nga subjekti minerar paraqitjen e informacionit dhe dokumentacionit shtesë për rastet e përcaktuara në pikën 2, të këtij udhëzimi si dhe kur është e nevojshme, kryen verifikime në terren.

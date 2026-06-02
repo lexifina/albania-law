@@ -1,0 +1,1 @@
+10. Ministri, brenda 30 (tridhjetë) ditëve kalendarike nga data e paraqitjes së propozimit të struktura përgjegjëse për mbikëqyrjen dhe monitorimin e veprimtarisë minerare, merr vendim për miratim ose refuzim të kërkesës për pezullim të veprimtarisë së shfrytëzimit në zonën e lejuar.

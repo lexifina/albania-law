@@ -1,0 +1,1 @@
+8. Struktura përgjegjëse për mbikëqyrjen dhe për monitorimin e veprimtarisë minerare, bazuar në të dhënat e depozituara gjatë gjithë aktivitetit minerar për subjektin, që ka kërkuar pezullimin e , të raportuara nga vetë subjekti, si dhe nga monitorimet e kryera në terren, përgatit një përmbledhje të ecurisë së lejes minerare në zotërim të subjektit minerar.

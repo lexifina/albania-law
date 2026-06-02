@@ -1,0 +1,1 @@
+5. Ministria përgjegjëse për veprimtarinë minerare përcjell për shqyrtim dhe vlerësim kërkesën, së bashku me dokumentacionin shoqërues, pranë strukturës përgjegjëse për mbikëqyrjen dhe monitorimin e veprimtarisë minerare, e cila shprehet mbi të brenda afatit prej 30 (tridhjetë) ditësh nga data e depozitimit të kërkesës.

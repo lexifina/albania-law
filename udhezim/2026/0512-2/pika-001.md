@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve, kushteve dhe procedurave për shqyrtimin dhe miratimin e kërkesave për pezullim të aktivitetit minerar nga subjektet që ushtrojnë veprimtarinë e shfrytëzimit në zonën e lejuar, në përputhje me legjislacionin në fuqi për sektorin minerar.
