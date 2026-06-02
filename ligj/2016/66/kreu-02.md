@@ -1,4 +1,0 @@
-KREU II
-E DREJTA E THEMELIMIT DHE SKEMAT E AUTORIZIMIT
-Seksioni 1
-E drejta e themelimit
