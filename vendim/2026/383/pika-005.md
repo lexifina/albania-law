@@ -1,0 +1,1 @@
+5. Gradat për ushtarakët e shërbimit aktiv në Forcat e Armatosura, që shërbejnë në Forcën Tokësore dhe në repartet në varësi të saj, njësohen me funksionet organike, sipas lidhjeve nr. 4 e nr. 4/1, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

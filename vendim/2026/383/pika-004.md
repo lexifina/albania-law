@@ -1,0 +1,1 @@
+4. Gradat për ushtarakët e shërbimit aktiv në Forcat e Armatosura, që shërbejnë në repartet dhe në strukturat në varësi të Shtabit të Përgjithshëm të Forcave të Armatosura, njësohen me funksionet organike, sipas lidhjeve nr. 3 e nr. 3/1, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

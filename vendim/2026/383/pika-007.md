@@ -1,0 +1,1 @@
+7. Gradat për ushtarakët e shërbimit aktiv në Forcat e Armatosura, që shërbejnë në Forcën Ajrore dhe në repartet në varësi të saj, njësohen me funksionet organike, sipas lidhjeve nr. 6 e nr. 6/1, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

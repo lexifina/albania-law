@@ -1,0 +1,1 @@
+8. Gradat për ushtarakët e shërbimit aktiv në Forcat e Armatosura, që shërbejnë në Komandën Mbështetëse dhe në repartet në varësi të saj, njësohen me funksionet organike, sipas lidhjeve nr. 7 e nr. 7/1, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

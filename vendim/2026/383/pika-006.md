@@ -1,0 +1,1 @@
+6. Gradat për ushtarakët e shërbimit aktiv në Forcat e Armatosura, që shërbejnë në Forcën Detare dhe në repartet në varësi të saj, njësohen me funksionet organike, sipas lidhjeve nr. 5 e nr. 5/1, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
