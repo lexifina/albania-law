@@ -1,0 +1,1 @@
+17. Për masat e investimeve kur dokumentacioni i kërkuar, dorëzohet si fotokopje (me përjashtim të kartës së identitetit ose pasaportës biometrike, formularit të regjistrimit në QKB të ofertuesve, certifikatës/vërtetimit të pronësisë, AMTP-së, hartës treguese) të jetë i noterizuar.

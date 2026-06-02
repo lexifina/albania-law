@@ -1,0 +1,1 @@
+18. Në rastet kur aplikanti aplikon në dy masa investimesh, financimi jepet vetëm për ato investime që janë specifike, të veçanta dhe të dallueshme për secilën masë. Nuk pranohen për financim investime, makineri apo pajisje që janë të njëjta ose që realizojnë të njëjtin funksion, objekt apo qëllim investimi në të dyja masat.
