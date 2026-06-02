@@ -1,0 +1,1 @@
+1. Miratimin e formateve standarde për dokumentimin e veprimtarisë së inspektimit në Republikën e Shqipërisë, sipas formateve të aneksit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.

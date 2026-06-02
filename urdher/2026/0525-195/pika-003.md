@@ -1,0 +1,1 @@
+3. Inspektoratet qendrore, inspektoratet vendore, trupat e inspektimit, në përputhje me veçoritë dhe kërkesat e legjislacionit të tyre specifik, të përshtatin formatet e tyre të dokumentimit të veprimtarisë së inspektimit, sipas fushave të inspektimit që mbulojnë.
