@@ -1,0 +1,6 @@
+# Neni 41
+Shërbimi i kualifikuar i vërtetimit të vlefshmërisë së nënshkrimeve elektronike të kualifikuara
+1. Shërbimi i kualifikuar i vërtetimit të vlefshmërisë së nënshkrimeve elektronike të kualifikuara ofrohet vetëm nga një ofrues i kualifikuar i shërbimit të besuar, i cili:
+a) siguron procesin e vërtetimit të vlefshmërisë në përputhje me përcaktimet e pikës 1 të nenit 39 të këtij ligji;
+b) lejon palët e përfshira të marrin rezultatin e procesit të vërtetimit të vlefshmërisë në një mënyrë të automatizuar, e cila është e besueshme, efikase dhe mban nënshkrimin elektronik të avancuar ose vulën elektronike të avancuar të ofruesit të shërbimit të kualifikuar të vërtetimit të vlefshmërisë.
+2. Standardet e referencës dhe, kur është e nevojshme, specifikimet dhe procedurat për shërbimin e kualifikuar të vërtetimit të vlefshmërisë, të përmendur në pikën 1 të këtij neni, miratohen me vendim të Këshillit të Ministrave në përputhje me aktet zbatuese të Komisionit Evropian. Përputhshmëria me kërkesat e përcaktuara në pikën 1 të këtij neni prezumohet kur shërbimi i kualifikuar i vërtetimit të vlefshmërisë për nënshkrimet elektronike të kualifikuara është në përputhje me këto standarde, specifikime dhe procedura.

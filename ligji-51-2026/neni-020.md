@@ -1,0 +1,6 @@
+# Neni 20
+Certifikimi i skemave të identifikimit elektronik
+1. Konformiteti i skemave të identifikimit elektronik, në përputhje me kërkesat e sigurisë kibernetike, të përcaktuara në këtë ligj, përfshirë kërkesat përkatëse të sigurisë kibernetike, të përcaktuara në pikën 2 të nenit 14 të këtij ligji, në lidhje me nivelet e sigurisë së skemave të identifikimit elektronik, certifikohet nga organet e vlerësimit të konformitetit të akredituara në Republikën e Shqipërisë ose nga vendet anëtare të Bashkimit Evropian.
+2. Certifikimi sipas pikës 1 të këtij neni kryhet në bazë të skemës kombëtare të certifikimit të sigurisë kibernetike, për aq sa certifikata e sigurisë kibernetike ose pjesë të saj mbulojnë këto kërkesa të sigurisë kibernetike.
+3. Certifikimi, në bazë të pikës 1 të këtij neni, është i vlefshëm deri në pesë vjet, me kusht që çdo dy vjet të kryhet një vlerësim i vulnerabilitetit. Kur një vulnerabilitet identifikohet dhe nuk korrigjohet brenda tre muajve nga një identifikim i tillë, certifikimi shfuqizohet nga organet e vlerësimit të konformitetit.
+4. Pavarësisht përcaktimeve të pikës 2 të këtij neni, me anëtarësimin e Republikës së Shqipërisë në Bashkimin Evropian Autoriteti mund të kërkojë informacione shtesë për skemat e identifikimit elektronik ose për një pjesë të certifikuar të tyre nga autoriteti përgjegjës i shtetit anëtar njoftues.

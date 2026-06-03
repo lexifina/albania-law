@@ -1,0 +1,3 @@
+# Neni 78
+Aktet nënligjore
+Ngarkohet Këshilli i Ministrave që brenda 24 muajve nga hyrja në fuqi e këtij ligji të miratojë aktet nënligjore në zbatim neneve 6, pikat 4, shkronja “ë”, 6, 22, 23 dhe 24, 7, pika 11, 8, pikat 6, 8 dhe 9, 10, pika 5, 14, pika 3, 16, pika 4, 18, pika 3, 19, pika 5, 24, pika 7, 25, pika 2, 26 pika 9, 27, pikat 6 dhe 7, 28, pika 5, 30, pikat 4 dhe 9, 32, pika 2, 33, pika 4, 34, pikat 6 dhe 7, 35, pikat 5, 36, pika 2, 37 pikat 5 dhe 6, 38, pika 3, 39, pika 3, 40, pika 3, 41, pika 2, 42, pika 3, 44, pika 2, 45, pika 4, 46, pikat 6 dhe 7, 52 pika 3, 54 pikat 4 dhe 6, 55, pika 5, 59, pika 6, 60 pika 2, 61, pikat 6 dhe 7, 65, pika 2, 67, pika 3, 69, pika 6 dhe 70, pika 6, të këtij ligji.

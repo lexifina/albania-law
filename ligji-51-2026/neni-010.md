@@ -1,0 +1,7 @@
+# Neni 10
+Shkelja e sigurisë së portofolave të identitetit digjital
+1. Kur për portofolat e parashikuar në përputhje me nenin 6 të këtij ligji mekanizmat e vlefshmërisë të përmendura në pikën 7 të nenit 6 ose skemën e identifikimit elektronik, sipas së cilës ofrohen, janë shkelur ose janë komprometuar pjesërisht në një mënyrë që ndikon në besueshmërinë e tyre ose besueshmërinë e portofolave të tjerë të identitetit digjital, Autoriteti pezullon menjëherë ofrimin dhe përdorimin e tyre. Në varësi të shkallës së shkeljes së sigurisë ose komprometimit të përmendur në këtë pikë, Autoriteti tërheq menjëherë portofolin. Autoriteti informon përdoruesit e prekur dhe palët e përfshira.
+2. Kur shkelja e sigurisë ose komprometimi i përmendur në pikën 1 të këtij neni nuk korrigjohet brenda tre muajve nga pezullimi, Autoriteti tërheq portofolin dhe shfuqizon vlefshmërinë e tij. Autoriteti informon përdoruesit e prekur dhe palët e përfshira.
+3. Kur shkelja e sigurisë ose komprometimi i përmendur në pikën 1 të këtij neni korrigjohet, Autoriteti siguron rikthimin dhe përdorimin e portofolit dhe informon menjëherë përdoruesit e prekur dhe palët e përfshira.
+4. Autoriteti publikon në faqen zyrtare të tij listën e përditësuar sipas përcaktimeve në nenin 9 të këtij ligji.
+5. Lista e standardeve të referencës dhe procedurat për masat e përmendura në pikat 1, 2 dhe 3 të këtij neni miratohen me vendim të Këshillit të Ministrave në përputhje me aktet zbatuese të Komisionit Evropian.

@@ -1,0 +1,6 @@
+# Neni 45
+Vulat elektronike në shërbimet publike
+1. Nëse një vulë elektronike e avancuar kërkohet për t’u përdorur në një shërbim online, të ofruar nga ose në emër të një organi të sektorit publik, organi i sektorit publik njeh vulat elektronike të avancuara, të bazuara në një certifikatë të kualifikuar për vulat elektronike dhe vulat elektronike të kualifikuara në të paktën një ndër formatet e përcaktuara ose metodat sipas përcaktimeve në pikën 4 të këtij neni.
+2. Nëse një vulë elektronike e avancuar, bazuar në një certifikatë të kualifikuar, kërkohet për t’u përdorur në një shërbim online, të ofruar nga ose në emër të një organi të sektorit publik, organi i sektorit publik njeh vulat elektronike të avancuara, bazuar në një certifikatë të kualifikuar dhe vulat elektronike të kualifikuara në të paktën një ndër formatet e përcaktuara ose metodat sipas përcaktimeve në pikën 4 të këtij neni.
+3. Në një shërbim online ndërkufitar, të ofruar nga një organ i sektorit publik, niveli i sigurisë së vulës elektronike nuk mund të jetë më i lartë se ai i vulës elektronike të kualifikuar.
+4. Formatet e referencës për vulat elektronike të avancuara dhe metodat e referencës, kur përdoren formatet alternative, miratohen me vendim të Këshillit të Ministrave në përputhje me aktet e nxjerra nga Komisioni Evropian.

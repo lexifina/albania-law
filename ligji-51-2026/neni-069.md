@@ -1,0 +1,17 @@
+# Neni 69
+Mbikëqyrja e kuadrit ligjor të portofolit të identitetit digjital
+1. Autoriteti është organi përgjegjës për mbikëqyrjen e portofolit të identitetit digjital në Republikën e Shqipërisë, i cili ka kompetencat e nevojshme dhe burimet e duhura për ushtrimin e detyrave të tij në mënyrë efektive.
+2. Me anëtarësimin e Republikës së Shqipërisë në Bashkimin Evropian, Autoriteti i komunikon Komisionit Evropian emrin dhe adresën e organit mbikëqyrës sipas përcaktimeve të pikës 1 të këtij neni dhe çdo ndryshim të mëvonshëm të tij.
+3. Autoriteti, sipas pikës 1 të këtij neni, kryen detyrat e mëposhtme:
+a) mbikëqyr ofruesit e portofolit dhe siguron që përmbushin kërkesat e përcaktuara në këtë ligj;
+b) ndërmerr veprime, nëse është e nevojshme, në lidhje me ofruesit e portofolit kur informohet se ofruesit ose portofolat që ata ofrojnë bien në kundërshtim me përcaktimet e bëra në këtë ligj;
+c) bashkëpunon me organet e tjera mbikëqyrëse dhe u ofron atyre ndihmë sipas përcaktimeve në pikën 2 të nenit 71 dhe në nenin 72 të këtij ligji;
+ç) kërkon informacionin e nevojshëm për të monitoruar përmbushjen e kërkesave ligjore sipas përcaktimeve në këtë ligj;
+d) informon për çdo shkelje të rëndësishme të sigurisë ose humbje të integritetit për të cilën Autoriteti merr dijeni gjatë kryerjes së detyrave të tij dhe në rastin e një shkeljeje të konsiderueshme të sigurisë ose humbjes së integritetit, që ka të bëjë me transaksionet ndërkufitare, informon pikën e vetme të kontaktit për identifikimin elektronik, shërbimet e besuara dhe portofolin, si dhe pikën e vetme të kontaktit për sigurinë kibernetike të shtetit të prekur, me qëllim informimin e publikut ose për të kërkuar nga ofruesi i portofolit të njoftojë shkeljen e sigurisë apo humbjen e integritetit, e cila është në interes të publikut;
+dh) kryen kontrolle në vend dhe në distancë;
+e) kërkon nga ofruesit e portofolave të korrigjojnë çdo mangësi për përmbushjen e kërkesave të përcaktuara në këtë ligj;
+ë) pezullon ose shfuqizon regjistrimin dhe përfshirjen e palëve të përfshira në mekanizmin e përmendur në pikën 7 të nenit 7 të këtij ligji në rastin e përdorimit të paligjshëm të portofolit;
+f) bashkëpunon me Komisionerin bazuar në legjislacionin në fuqi për mbrojtjen e të dhënave personale në mënyrë të veçantë, duke informuar menjëherë kur vihet re se janë shkelur rregullat e mbrojtjes së të dhënave personale dhe për shkeljet e sigurisë, që vihen re se përbëjnë shkelje në të dhëna personale.
+4. Kur Autoriteti kërkon që ofruesi i një portofoli të korrigjojë çdo mangësi në përmbushjen e kërkesave sipas shkronjës “e” të pikës 3 të këtij neni, dhe kur ofruesi nuk vepron në përputhje me rrethanat dhe kur është e aplikueshme brenda një afati kohor të caktuar nga Autoriteti, atëherë ky i fundit, duke marrë në konsideratë shtrirjen, kohëzgjatjen dhe pasojat e këtyre mangësive, urdhëron ofruesin të pezullojë ose të ndërpresë ofrimin e portofolit. Autoriteti informon menjëherë për vendimin për të kërkuar pezullimin ose ndërprerjen e ofrimit të portofolit përdoruesit e portofolit, palët e përfshira, si dhe shtetet e tjera në rastin e transaksioneve ndërkufitare.
+5. Brenda datës 31 mars të çdo viti, Autoriteti harton një raport për aktivitetet kryesore për vitin e kaluar kalendarik dhe e publikon atë në faqen zyrtare të tij.
+6. Formati dhe mënyra e mbajtjes së raportit, të përmendur në pikën 5 të këtij neni, miratohen me vendim të Këshillit të Ministrave në përputhje me formatin e përcaktuar nga Komisioni Evropian.

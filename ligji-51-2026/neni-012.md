@@ -1,0 +1,9 @@
+# Neni 12
+Njohja reciproke
+1. Skemat e identifikimit elektronik dhe shërbimet e besuara njihen dhe zbatohen në përputhje me marrëveshjet e ratifikuara nga Republika e Shqipërisë, për pranimin e tyre dhe shkëmbimin e të dhënave, në përputhje me legjislacionin në fuqi për mbrojtjen e të dhënave personale.
+2. Identifikimet dhe shërbimet e besuara, të lëshuara nga ofruesit e kualifikuar të shërbimeve të besuara, të cilët operojnë në vendet anëtare të Bashkimit Evropian dhe kanë marrë statusin “i kualifikuar” nga autoritetet përgjegjëse, si dhe janë pjesë e listës së besuar të Bashkimit Evropian, kanë të njëjtën vlefshmëri ligjore dhe fuqi provuese si ato të lëshuara nga një ofrues i kualifikuar i shërbimit të besuar, që operon në Republikën e Shqipërisë.
+3. Për qëllim të pikës 1 të këtij neni, njohja reciproke plotëson kushtet e mëposhtme:
+a) mjeti i identifikimit elektronik lëshohet sipas një skeme identifikimi elektronik, që përfshihet në listën e publikuar nga autoritetet përkatëse të shteteve;
+b) niveli i sigurisë së mjetit të identifikimit elektronik korrespondon me një nivel sigurie të barabartë ose më të lartë se niveli i sigurisë, që kërkohet nga organi përkatës i sektorit publik për të aksesuar atë shërbim online në shtetin tjetër, me kusht që niveli i sigurisë së atij mjeti identifikimi elektronik të korrespondojë me një nivel të konsiderueshëm ose të lartë sigurie;
+c) organi përkatës i sektorit publik përdor nivelin e sigurisë të konsiderueshëm ose të lartë në lidhje me aksesin në atë shërbim online.
+4. Një mjet identifikimi elektronik, që lëshohet sipas një skeme identifikimi elektronik, të përfshirë në listën e publikuar nga autoritetet përgjegjëse ose Komisioni Evropian dhe që korrespondon me nivelin e ulët të sigurisë, mund të njihet nga organet e sektorit publik për qëllime të autentifikimit ndërkufitar për shërbimin e ofruar online nga këto organe.

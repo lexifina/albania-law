@@ -1,0 +1,4 @@
+# Neni 53
+Efektet ligjore të ofrimit të shërbimeve të transmetimit elektronik të regjistruar
+1. Të dhënave të dërguara dhe të marra, duke përdorur një shërbim të transmetimit elektronik të regjistruar, nuk u mohohet efekti ligjor dhe pranimi si provë në procedurat ligjore vetëm me arsyetimin se janë në formë elektronike apo se nuk i plotësojnë kërkesat e ofrimit të shërbimit të transmetimit elektronik të kualifikuar të regjistruar.
+2. Të dhënat e dërguara dhe të marra për ofrimin e shërbimit të transmetimit elektronik të kualifikuar të regjistruar gëzojnë prezumimin e integritetit të të dhënave, dërgimin e të dhënave nga dërguesi i identifikuar, marrjen e tyre nga marrësi i identifikuar, si dhe saktësinë e datës e të orës së dërgimit dhe të pranimit, të vërtetueshme nga shërbimi i transmetimit elektronik të kualifikuar të regjistruar.

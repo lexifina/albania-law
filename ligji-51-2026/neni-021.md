@@ -1,0 +1,4 @@
+# Neni 21
+Aksesi në karakteristikat e hardware-it dhe software-it
+1. Në rast se ofruesit e portofolave dhe lëshuesit e mjeteve të identifikimit elektronik të njoftuara përdorin shërbime të platformës bërthamë, sipas përcaktimeve të pikës 52 të nenit 3 të këtij ligji, për qëllime tregtare ose profesionale, për ofrimin e shërbimeve të portofolit për përdoruesit fundorë, në kuptim të pikës 40 të nenit 3 të këtij ligji, ato kanë të drejtë aksesi në të njëjtin sistem operativ hardware ose software të kontrolluesit të aksesit (gatekeepers).
+2. Aksesi i ofruar duhet të jetë efektiv dhe pa pagesë, pavarësisht nëse karakteristikat e hardware-it ose software-it janë pjesë e sistemit operativ të disponueshme ose përdoren nga kontrolluesi i aksesit (gatekeeper) kur ofron shërbime të tilla. Ky nen nuk duhet të bjerë ndesh me përcaktimet e pikës 13 të nenit 6 të këtij ligji.
