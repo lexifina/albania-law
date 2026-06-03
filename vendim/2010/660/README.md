@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 660, datë 4.8.2010](https://qbz.gov.al/api/v1/acts/56441); [QBZ versions](https://qbz.gov.al/api/v1/acts/56441/versions).
 
-Status of this text: `official consolidated version 5`, applying from 2022-06-01; after QBZ act 55578 (nr. 371).
+Status of this text: `official consolidated version 6`, applying from 2026-06-03; after QBZ act 33503 (nr. 403).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
