@@ -34,3 +34,10 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 31. “Tregtar” është shitësi me pakicë ose çdo person tjetër, i cili shet, jep me qira, ofron shitje me këste apo ekspozon produkte për përdoruesit fundorë.
 32. “Vendosje në treg” ka të njëjtin kuptim, sikurse përcaktohet në legjislacionin në fuqi, që rregullon tregtimin dhe mbikëqyrjen e tregut të produkteve joushqimore.
 33. “Vënie në shërbim” është përdorimi për herë të parë i produktit, sipas qëllimit të tij të parashikuar.
+34. “Projektim ekologjik” nënkupton integrimin e aspekteve mjedisore në projektimin e produktit me qëllim përmirësimin e performancës mjedisore të produktit gjatë gjithë ciklit të tij jetësor.
+35. “Cikli i jetës së produktit” është periudha që përfshin prodhimin, shpërndarjen, përdorimin, mirëmbajtjen dhe fundjetën e produktit.
+36. “Aspekt mjedisor” nënkupton një element ose funksion të një produkti që mund të ndërveprojë me mjedisin gjatë ciklit të tij të jetës.
+37. “Kërkesë e projektimit ekologjik” është një kërkesë e performancës ose një kërkesë informacioni që synon ta bëjë një produkt më të qëndrueshëm për mjedisin, duke përfshirë proceset që ndodhin përgjatë zinxhirit të vlerës së produktit.
+38. “Klasë e performancës” është një sërë nivelesh të performancës në lidhje me një ose më shumë parametra produkti, e cila përcaktohet bazuar në një metodologji të përbashkët për produktin ose grupin e produktit, të renditur në mënyrë të tillë që të lejojë diferencimin e produktit.
+39. “Marka CE” është një markë me të cilën prodhuesi tregon se produkti përkatës është në përputhje me kërkesat e zbatueshme të përcaktuara në legjislacionin e harmonizimit të Bashkimit Evropian që parashikon vendosjen e saj.
+40. “Zinxhiri i vlerës” nënkupton tërësinë e aktiviteteve dhe proceseve që përbëjnë ciklin jetësor të një produkti, duke përfshirë gjithashtu fazat e ripërdorimit, riparimit, riciklimit ose riprodhimit të mundshëm të tij.

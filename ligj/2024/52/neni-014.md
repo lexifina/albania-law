@@ -8,5 +8,6 @@ c) për shkelje të pikave 2, 6, 7, 8 deri 9 të nenit 9 të këtij ligji me gjo
 d) për shkelje të pikave 2 dhe 3 të nenit 5 dhe të pikave 5 dhe 10 të nenit 9 të këtij ligji me gjobë në masën 350 000 lekë;
 dh) për shkelje të parashikimeve të nenit 10 me gjobë në masën 300 000 lekë;
 e) për moszbatimin e masave, referuar në parashikimet e neneve 12 dhe 13 të këtij ligji me gjobë në masën 350 000 lekë;
-ë) për bizneset e vogla, të klasifikuara si rezultat i xhiros vjetore, vlera e gjobës për secilën prej shkeljeve të mësipërme është 150 000 lekë.
+ë) për bizneset e vogla, të klasifikuara si rezultat i xhiros vjetore, vlera e gjobës për secilën prej shkeljeve të mësipërme është 150 000 lekë;
+f) për shkelje të parashikimeve të këtij ligji për projektimin ekologjik dhe akteve nënligjore në zbatim të tij me gjobë në masën 350 000 lekë.
 2. Kur edhe pas marrjes së masave, sipas parashikimeve të këtij neni, furnizuesi ose tregtari rezulton se përsërit shkeljen për të njëjtin produkt, atëherë masat e gjobës dyfishohen.
