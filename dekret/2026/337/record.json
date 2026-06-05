@@ -1,0 +1,26 @@
+{
+  "qbz_id": 33453,
+  "title": "Për lirim ambasadori nga detyra",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "337",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2026-06-01",
+  "published": "2026-06-05",
+  "in_force": "2026-06-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/913d019f95af2855a00983061e742229ff9a9b32b90c63a8464ecb5ace874bef.docx",
+  "source_sha256": "913d019f95af2855a00983061e742229ff9a9b32b90c63a8464ecb5ace874bef",
+  "official_record": "https://qbz.gov.al/api/v1/acts/33453",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2026/06/01/337",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
