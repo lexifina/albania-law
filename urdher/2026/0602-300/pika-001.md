@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të ministrit të Drejtësisë për nënshkrimin e korrespondencës dalëse me institucione të ndryshme, kur ato përfshijnë informacion të klasifikuar në nivelin “Sekret” dhe “Konfidencial”, te zëvendësministri, znj. Elona Hoxha.
