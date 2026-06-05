@@ -4,7 +4,7 @@ Nr. 68, datë 8.4.2025
 
 MBI LICENCIMIN E SHOQËRISË “RENEW” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA CENTRALI FOTOVOLTAIK ME KAPACITET PRODHUES 2 mw
 
-(Ndryshuar me vendimin nr. 269, datë 27.10.2025)
+(Ndryshuar me vendimin nr. 269, datë 27.10.2025; nr. 162, datë 5.6.2026)
 
 (I përditësuar)
 
@@ -64,11 +64,11 @@ VENDOSI:
 
 2. Shfuqizuar.
 
-3. Shoqëria duhet të fillojë ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 11.6.2026.
+3. Shfuqizuar.
 
-4. Me fillimin e operimit, jo më vonë se 60 (gjashtëdhjetë) ditë nga data e fillimit të operimit, shoqëria duhet të dokumentojë në ERE testimin e veprës, si dhe duhet të përditësojë në ERE informacionin mbi strukturën organizative të shoqërisë, e cila duhet të përmbajë stafin teknik sipas veprimtarisë së licencuar.
+4. Brenda datës 16.8.2026, shoqëria duhet të depozitojë në ERE informacion të përditësuar mbi stafin teknik.
 
-	5. Ky vendim është objekt rishikimi në rast të përmbushjes apo mospërmbushjes së kushteve të përcaktuara në pikat 3 dhe 4 të këtij vendimi.
+5. Ky vendim është objekt rishikimi në rast të përmbushjes apo mospërmbushjes së kushtit të përcaktuar në pikën 4 të këtij vendimi, si dhe në rast të depozitimit të dokumenteve të ndryshme që kanë shërbyer për marrjen e këtij vendimi.
 
 6. Drejtoria e Licencimit dhe Autorizimeve, të njoftojë shoqërinë “Renew” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, “OSSH” sh.a., “FTL” sh.a. dhe “ALPEX” sh.a., për vendimin e Bordit të ERE-s.
 
