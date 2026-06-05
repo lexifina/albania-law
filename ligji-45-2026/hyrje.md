@@ -1,0 +1,8 @@
+LIGJ
+Nr. 45/2026
+PËR RATIFIKIMIN E KONVENTËS SHUMËPALËSHE PËR LEHTËSIMIN
+E ZBATIMIT TË SHTYLLËS SË DYTË, SUBJEKT I RREGULLIT TATIMOR
+Në mbështetje të neneve 78, 83, pika 1, dhe 121, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
