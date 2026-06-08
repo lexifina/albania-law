@@ -1,0 +1,1 @@
+2. Në kuptim të këtij udhëzimi “zona të mbrojtura si pasuri kulturore” janë ansamblet historike urbane, parqe arkeologjike, qendra historike; zonë arkeologjike sipas përcaktimeve të nenit 5, ligjit nr. 27/2018.

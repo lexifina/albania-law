@@ -1,0 +1,1 @@
+10. Llogaritja e tarifës, për dhënien e interesit kulturor ose shkencor të veprimtarive kulturore dhe të çdo iniciative tjetër me karakter kulturor, bazohet në parashikimet e udhëzimin “Për përcaktimin e tarifave të përdorimit të pasurive kulturore në administrim të ministrisë përgjegjëse për trashëgiminë kulturore”.
