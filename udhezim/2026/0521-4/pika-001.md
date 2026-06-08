@@ -1,0 +1,1 @@
+1. Objekti i këtij udhëzimi është përcaktimi i termave dhe i kushteve për kategorizimin e vlerave kulturore të paluajtshme, në kuptim të ligjit nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë”, i ndryshuar.
