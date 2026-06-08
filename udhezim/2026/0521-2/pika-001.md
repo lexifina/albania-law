@@ -1,0 +1,1 @@
+1. Ky udhëzim përcakton mënyrat e ndërhyrjes së ministrisë përgjegjëse për trashëgiminë kulturore, në rastet kur pronari ose poseduesi i pasurisë kulturore nuk përmbush detyrimet ligjore për realizimin e ndërhyrjeve të detyruara ruajtëse, sipas dispozitave ligjore në fuqi.

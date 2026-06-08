@@ -1,0 +1,1 @@
+2. Qëllimi i këtij udhëzimi është garantimi i ruajtjes fizike të pasurive kulturore, parandalimi i degradimit të mëtejshëm të tyre, përcaktimi i procedurave administrative dhe teknike për ndërhyrjen e ministrisë, në rastet e parashikuara nga legjislacioni në fuqi, si dhe mbrojtja e interesit publik, në funksion të ruajtjes dhe të mbrojtjes të vlerave të trashëgimisë kulturore.

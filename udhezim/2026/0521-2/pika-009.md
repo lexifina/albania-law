@@ -1,0 +1,1 @@
+9. Shpenzimet e ndërhyrjeve të detyruara ruajtëse shlyhen dhe i ngarkohen pronarit dhe poseduesit, sipas parashikimeve të nenit 93 dhe 94, sipas ligjit nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë”, i ndryshuar.
