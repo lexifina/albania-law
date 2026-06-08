@@ -1,0 +1,1 @@
+16. Pas përfundimit të projektit, ndërmarrja përgatit dhe paraqet pranë Shërbimit Social Shtetëror një raport mbi projektin. Raporti vjetor i hartuar nga Shërbimi Social Shtetëror përcillet pranë Ministrisë përgjegjëse për çështjet sociale.

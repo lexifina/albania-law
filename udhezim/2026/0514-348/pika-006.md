@@ -1,0 +1,1 @@
+6. Sekretariati i Komisionit të Vlerësimit të Ndërmarrjeve Sociale vlerëson dosjen sipas kritereve të përcaktuara në vendimin nr. 231/2026 të Këshillit të Ministrave, “Për përcaktimin e formave të mbështetjes, nëpërmjet subvencionit për ndërmarrjet sociale, për periudhën 2026-2028”, përgatit informacionin dhe ia paraqet Komisionit.

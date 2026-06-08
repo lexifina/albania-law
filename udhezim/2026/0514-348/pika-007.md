@@ -1,0 +1,1 @@
+7. Komisioni i vlerësimit shqyrton çdo aplikim, në bazë të informacionit të përgatitur nga Sekretariati dhe merr vendimin për miratimin ose refuzimin e një aplikimi bazuar mbi dokumentet e paraqitura, sipas formatit në aneksin nr. 2.

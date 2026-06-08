@@ -1,0 +1,1 @@
+1. Organizatat jofitimprurëse, me status “Ndërmarrje Sociale”, të njohur me urdhrin e ministrit përgjegjës për çështjet sociale, kanë të drejtën e aplikimit për format e mbështetjes, nëpërmjet subvencionit të ndërmarrjeve sociale.

@@ -1,0 +1,1 @@
+11. Ndërmarrja sociale, çdo tre muaj, brenda datës 10 të muajit pasardhës, paraqet pranë Sektorit të Financës së Shërbimit Social Shtetëror, dokumentacionin justifikues për subvencionim, i cili protokollohet në datën e dorëzimit.

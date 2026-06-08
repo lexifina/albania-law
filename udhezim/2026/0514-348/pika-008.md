@@ -1,0 +1,1 @@
+8. Pas miratimit të aplikimeve për subvencionim, vendimi i Komisionit të Vlerësimit, së bashku me dosjet përkatëse, përcillet pranë Shërbimit Social Shtetëror, i cili ndjek procedurën për dhënien e subvencionit.

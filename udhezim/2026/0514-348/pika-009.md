@@ -1,0 +1,1 @@
+9. Ndërmarrja, së cilës i është miratuar kërkesa, njoftohet me shkrim ose në mënyrë elektronike dhe paraqitet pranë Shërbimit Social Shtetëror për të nënshkruar kontratën për dhënien e subvencionit, në të cilën do të përcaktohet dhe afati për përfundimin e projektit, sipas modelit në aneksin nr. 3.

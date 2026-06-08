@@ -1,0 +1,1 @@
+17. Ministria do të ruajë në mënyrë konfidenciale informacionet e marra nga ndërmarrjet. Asnjë e dhënë e marrë prej Ministrisë nga ana e aplikuesve nuk do t’u bëhet e ditur palëve të treta pa miratimin e tyre.

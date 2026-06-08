@@ -1,0 +1,1 @@
+3. Aplikimi shoqërohet me një projekt-propozim si edhe përshkrimin e detajuar të aktiviteteve të projektit. Aplikimi mund të bëhet nga vetë kërkuesi apo çdo person i autorizuar prej tij, sipas “Formularit të aplikimit për financimin e ndërmarrjeve sociale” në aneksin nr. 1, i cili do të publikohet në thirrjen publike në faqen zyrtare të Ministrisë.

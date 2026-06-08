@@ -1,0 +1,1 @@
+10. Kontrata do të hartohet në pesë kopje origjinale me nënshkrimin në çdo faqe dhe vulën e titullarit të Shërbimit Social Shtetëror, si dhe nënshkrimin në çdo faqe dhe vulën e subjektit përfitues (ose personit të autorizuar prej tij).
