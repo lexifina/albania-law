@@ -1,0 +1,4 @@
+7. Njohja e provimeve përfundimtare të programeve ndërkombëtare:
+a) Provimet përfundimtare të programeve ndërkombëtare të arsimit të mesëm të lartë, të përcaktuara në pikën 3 të këtij udhëzimi, njihen si të barasvlershme me provimet e Maturës Shtetërore në Republikën e Shqipërisë, për efekt të njësimit të diplomës;
+b) Për qëllime të njësimit të diplomës, rezultatet e provimeve përfundimtare të përmendura në pikën 3 shërbejnë si bazë për verifikimin dhe barasvlerësimin akademik të arritjeve të nxënësit, pa qenë e nevojshme pjesëmarrja në Maturën Shtetërore;
+c) Në përfundim të procedurës së njësimit, institucioni përgjegjës për shërbimet arsimore lëshon aktin administrativ të njësimit të diplomës, i cili konfirmon barasvlerësinë e saj me diplomën e arsimit të mesëm të lartë në Republikën e Shqipërisë, njësimin e notave me sistemin shqiptar të vlerësimit dhe notën mesatare të studimeve.

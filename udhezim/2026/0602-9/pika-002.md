@@ -1,0 +1,4 @@
+2. Në këtë udhëzim termat e mëposhtëm kanë kuptimet, si vijon:
+a) “Program ndërkombëtar” është programi i arsimit të mesëm të lartë i akredituar nga një organizatë arsimore ndërkombëtare dhe i njohur ndërkombëtarisht;
+b) “Institucion ndërkombëtar akreditues/certifikues” është organizata ose enti ndërkombëtar që akrediton ose certifikon programin arsimor dhe provimet përfundimtare;
+c) “Njësim diplome” është procesi administrativ i barasvlerësimit të diplomës së një institucioni arsimor të huaj ose të ngjashëm me të, e cila lëshohet në përfundim të një programi të arsimit të mesëm të lartë të zhvilluar në një shkollë private të arsimit të mesëm të lartë, të licencuar në Republikën e Shqipërisë, që zbaton një program arsimor të aprovuar nga institucioni i huaj dhe që është e akredituar nga një institucion arsimor jashtë vendit.

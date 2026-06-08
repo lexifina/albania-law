@@ -1,0 +1,1 @@
+5. Institucionet arsimore parauniversitare private të licencuara, të depozitojnë në ministrinë përgjegjëse për arsimin dhe në institucionin përgjegjës për shërbimet arsimore, dokumentacionin provues për plotësimin e kritereve, sipas pikës 4 të këtij udhëzimi.

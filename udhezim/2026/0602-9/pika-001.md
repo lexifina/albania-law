@@ -1,0 +1,1 @@
+1. Të përcaktohen procedurat për njësimin e diplomave të institucioneve arsimore të huaja ose të ngjashme me to, lëshuar nga shkollat private të arsimit të mesëm të lartë, të licencuara në Republikën e Shqipërisë.

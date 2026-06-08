@@ -1,0 +1,1 @@
+13. Institucioni përgjegjës për shërbimet arsimore është institucioni përgjegjës për mbajtjen dhe përditësimin e regjistrit zyrtar të njësimit të diplomave. Regjistri mbahet në format fizik (hard copy) dhe elektronik.

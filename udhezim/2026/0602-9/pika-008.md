@@ -1,0 +1,1 @@
+8. Procedura e njësimit të diplomës vijon me shqyrtimin dhe verifikimin e dokumentacionit nga Komisioni i Njohjes së Diplomave në institucionin përgjegjës për shërbimet arsimore. Kur aplikimi është i plotë, institucioni përgjegjës për shërbimet arsimore ngarkon në mënyrë elektronike vërtetimin e njësimit të diplomës brenda 5 (pesë) ditëve nga data e aplikimit.

@@ -1,0 +1,1 @@
+9. Në rast konstatimi të mangësive në dokumentacion, institucioni përgjegjës për shërbimet arsimore njofton aplikantin brenda 3 (tre) ditëve nga data e aplikimit në adresën elektronike të deklaruar prej tij në formular, për plotësimin e dokumentacionit të munguar.
