@@ -1,0 +1,1 @@
+3. Autorizohet Korporata e Investimeve Shqiptare dhe Drejtoria e Shërbimeve Qeveritare, që, brenda 30 (tridhjetë) ditëve nga hyrja në fuqi e këtij vendimi, të lidhin marrëveshjen e bashkëpunimit për përcaktimin e standardit, metodologjisë, termave dhe kushteve të bashkëpunimit për përmbushjen e interesit publik, në zbatim të detyrave të këtij vendimi.

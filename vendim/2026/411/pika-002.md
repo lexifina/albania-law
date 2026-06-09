@@ -1,0 +1,1 @@
+2. Institucionet shtetërore, të përfshira në çështjet e pronësisë apo të administrimit të pronave, sipas parashikimit të shkronjës “a”, të pikës 1, të këtij vendimi, të paraqesin informacionin dhe dokumentacionin e kërkuar, brenda 5 (pesë) ditëve nga momenti i administrimit të kërkesës së paraqitur me shkrim nga Korporata e Investimeve Shqiptare.
