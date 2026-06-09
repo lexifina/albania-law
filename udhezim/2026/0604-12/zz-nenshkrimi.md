@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTËR i BUJQËSISË DHE ZHVILLIMIT RURAL
+Andis Salla

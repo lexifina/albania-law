@@ -1,0 +1,10 @@
+# Neni 6
+Etiketimi i produkteve ushqimore të trajtuara me rrezatim jonizues, kryhet sipas përcaktimeve të mëposhtme:
+1. Në rastin e produkteve të destinuara për konsumatorin e fundit dhe për shërbimet kateringu dhe operatorë të ngjashëm ushqimorë:
+a) Nëse produktet shiten si njësi, fjalët “rrezatuar” ose “trajtuar me rrezatim jonizues”, do të vendosen në etiketë në përputhje me nenin 17, pika 5, të vendimit të Këshillit të Ministrave nr. 434, datë 11.7.2018, “Për etiketimin e ushqimeve dhe informimin e konsumatorit”. Në rastin e produkteve që shiten në sasi të mëdha, këto fjalë vendosen së bashku me emrin e produktit në një tabelë ose në njoftimin sipër ose pranë kontejnerit, në të cilën produktet janë vendosur;
+b) Nëse një produkt i rrezatuar është përdorur si përbërës, të njëjtat fjalë do të shoqërojnë emërtimin e tij në listën e përbërësve. Në rastin e produkteve që shiten në sasi të mëdha, këto fjalë vendosen së bashku me emrin e produktit në një tabelë, ose në njoftimin sipër, ose pranë kontejnerit, në të cilin produktet janë vendosur;
+c) Si përjashtim nga neni 18, pika 2, të vendimit të Këshillit të Ministrave nr. 434, datë 11.7.2018, “Për etiketimin e ushqimeve dhe informimin e konsumatorit”, të njëjtat fjalë kërkohen të vendosen për të treguar përbërësit e rrezatuar të përdorur në prodhimin e përbërësve të përbërë të produkteve ushqimore, edhe në qoftë se këto përbëjnë më pak se 25% të produktit përfundimtar.
+2. Në rastin e produkteve jo të destinuara për konsumatorin e fundit dhe shërbimet kateringu dhe operatorë të ngjashëm ushqimorë:
+a) Fjalët e parashikuara në pikën 1 të këtij neni, përdoren për të treguar trajtimin e produkteve ushqimore dhe përbërësve ushqimorë që përmban një produkt ushqimor jo i rrezatuar;
+b) Tregohet identiteti dhe adresa e objektit që ka kryer rrezatimin ose numri i tij i referimit, siç parashikohet në nenin 7 të këtij udhëzimi.
+3) Treguesi i trajtimit, në të gjitha rastet jepet në dokumentet që shoqërojnë ose t’i referohen produktit ushqimor të rrezatuar.

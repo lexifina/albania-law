@@ -1,0 +1,3 @@
+# Neni 3
+1. Kushtet, të cilat duhet të plotësohen për autorizimin e trajtimit të produkteve ushqimore me rrezatim jonizues, janë përcaktuar në shtojcën I, bashkëlidhur këtij udhëzimi. Në momentin e trajtimit, produktet ushqimore duhet të jenë në gjendje të përshtatshme dhe të sigurt për konsum.
+2. Rrezatimi mund të bëhet vetëm me anë të burimeve të listuara në shtojcën II, bashkëlidhur këtij udhëzimi dhe në përputhje me kërkesat e Kodit të Praktikës, cituar në pikën 2, të nenit 7 të këtij udhëzimi. Doza mesatare e përgjithshme e absorbuar, llogaritet në përputhje me përcaktimet në shtojcën III, bashkëlidhur këtij udhëzimi.
