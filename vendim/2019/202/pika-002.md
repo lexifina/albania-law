@@ -1,1 +1,0 @@
-2. Vendimi nr. 341, datë 8.4.2009, i Këshillit të Ministrave, “Për përcaktimin e tarifave për lëshimin e dokumenteve ligjore nga Autoriteti i Kontrollit Shtetëror të Eksporteve subjekteve të përfshira në transferimet ndërkombëtare të mallrave ushtarake dhe të mallrave e teknologjive me përdorim të dyfishtë”, shfuqizohet.
