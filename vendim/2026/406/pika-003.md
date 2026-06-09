@@ -1,0 +1,1 @@
+3. Efektet financiare, prej 24 550 000 (njëzet e katër milionë e pesëqind e pesëdhjetë mijë) lekësh, përballohen nga buxheti i Institutit të Gjeografisë dhe Infrastrukturës Ushtarake, miratuar për vitin 2026.

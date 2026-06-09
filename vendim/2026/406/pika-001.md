@@ -1,0 +1,1 @@
+1. Ngarkimin e Agjencisë Kombëtare të Planifikimit të Territorit (AKPT), si organ qendror blerës, për realizimin e konkursit të projektimit për projektidetë e muzealizimit të infrastrukturës dhe tunelit të Porto-Palermos.

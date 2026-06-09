@@ -1,0 +1,1 @@
+2. Ngarkimin e Ministrisë së Turizmit, Kulturës dhe Sportit për koordinimin e termave të referencës me Agjencinë Kombëtare të Planifikimit të Territorit (AKPT) për muzealizimin e infrastrukturës dhe tunelit të Porto-Palermos.
