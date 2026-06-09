@@ -1,0 +1,1 @@
+3. Vendimi nr. 202, datë 10.4.2019, i Këshillit të Ministrave, “Për përcaktimin e tarifave për lëshimin e dokumenteve ligjore për transferimin ndërkombëtar të mallrave ushtarake dhe të artikujve e teknologjive me përdorim të dyfishtë, që lëshohen nga Autoriteti i Kontrollit Shtetëror të Eksporteve”, shfuqizohet.

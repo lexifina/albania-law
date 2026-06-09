@@ -1,0 +1,1 @@
+1. Përcaktimin e tarifave për lëshimin e dokumenteve ligjore për transferimin ndërkombëtar të mallrave ushtarake dhe të artikujve e teknologjive me përdorim të dyfishtë, që lëshohen nga Autoriteti i Kontrollit Shtetëror të Eksporteve, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi.
