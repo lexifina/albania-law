@@ -1,3 +1,0 @@
-3. Produktet ushqimore që do t’i nënshtrohen rrezatimit jonizues, duhet të jenë në gjendje përshtatshmërish të shëndetshme në kohën e trajtimit. Kushtet, të cilat duhet të plotësohen për autorizimin e trajtimit të produkteve ushqimore me rrezatim jonizues, janë përcaktuar në shtojcën I, bashkëlidhur këtij udhëzimi.
-Rrezatimi mund të bëhet vetëm me anë të burimeve të listuara në shtojcën II, bashkëlidhur këtij udhëzimi dhe në përputhje me kërkesat e përcaktuara në pikën 6 (a). Doza e përgjithshme mesatare e absorbuar llogaritet në përputhje me përcaktimet në shtojcën III, bashkëlidhur këtij udhëzimi.
-Produktet ushqimore të autorizuara për trajtim rrezatues, si dhe rrezatimi maksimal i lejuar jepen në shtojcën IV, bashkëlidhur këtij udhëzimi.

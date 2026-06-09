@@ -1,1 +1,0 @@
-4. Doza maksimale e rrezatimit për produktet ushqimore mund të jepet në doza të pjesshme, por doza maksimale e lejuar e rrezatimit nuk duhet të tejkalohet në asnjë rast. Trajtimi me rrezatim nuk mund të përdoret në kombinim me ndonjë trajtim kimik që ka të njëjtin qëllim si trajtimi me rrezatim.
