@@ -1,0 +1,2 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Arsimit, për Universitetin e Mjekësisë, Tiranë, për ushtrimin e aktivitetit, sipas fushës së saj të përgjegjësisë shtetërore.
+Lista përbëhet gjithsej nga 8 (tetë) fletë formulari, 8 (tetë) plan-rilevime, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
