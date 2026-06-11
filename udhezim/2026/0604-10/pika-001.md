@@ -1,0 +1,1 @@
+1. Ky udhëzim përcakton kriteret dhe procedurat për ndarjen e fondeve publike për institucionet e arsimit të lartë, institucionet e krijuara me ligj të posaçëm, institutet dhe njësitë e veçanta të kërkimit shkencor, publike dhe jopublike, për kërkim shkencor, me qëllim rritjen e cilësisë së kërkimit shkencor dhe integrimin në Hapësirën Evropiane të Kërkimit (ERA).
