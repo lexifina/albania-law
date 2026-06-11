@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare, prej 5 000 000 (pesë milionë) lekësh, familjes së inspektor Enea Seladin Mekollit, ish-punonjës policie në Drejtorinë Vendore të Policisë Korçë, i cili ka humbur jetën në krye të detyrës.
