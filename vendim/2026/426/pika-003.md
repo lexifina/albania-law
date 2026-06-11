@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, pronë private, që shpronësohen, kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për pasuritë e llojit “ullishte”, me një vlerë të përgjithshme prej 1 431 283.84 (një milion e katërqind e tridhjetë e një mijë e dyqind e tetëdhjetë e tre pikë tetëdhjetë e katër) lekë.

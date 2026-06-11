@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 1 431 283.84 (një milion e katërqind e tridhjetë e një mijë e dyqind e tetëdhjetë e tre pikë tetëdhjetë e katër) lekësh, përballohet nga Ujësjellës-Kanalizimet Tiranë sh.a.
