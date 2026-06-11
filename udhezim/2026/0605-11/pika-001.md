@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim përcaktimin e kritereve dhe procedurave për vlerësimin e veprimtarisë kërkimore-shkencore të punonjësve kërkimorë-shkencorë në institutet apo njësitë e veçanta kërkimore-shkencore në Republikën e Shqipërisë.
