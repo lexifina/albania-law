@@ -4,6 +4,10 @@ Nr. 197, datë 15.8.2025
 
 MBI LICENCIMIN E SHOQËRISË “KËLCYRA 2020” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “KLISYRË”, ME KAPACITET PRODHUES 2 mw
 
+(Ndryshuar me vendimin nr. 171, datë 15.6.2026)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a”, 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 15.8.2025, mbasi shqyrtoi relacionin me nr. 2038/8 prot., datë 11.8.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘Këlcyra 2020’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -54,17 +58,17 @@ Për gjithë sa më sipër, Bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “Këlcyra 2020” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Klisyrë”, me kapacitet prodhues 2 mw, me vendndodhje në zonën kadastrale 2170, nr. pasurie 1071, Klisyrë, Tropojë, për një afat 30-vjeçar.
+1. Të refuzojë kërkesën e shoqërisë “Këlcyra 2020” sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Klisyrë”, me kapacitet prodhues 2 mw, me vendndodhje në zonën kadastrale 2170, nr. pasurie 1071, Klisyrë, Tropojë, për një afat 30-vjeçar. 
 
-2. Përpara fillimit të operimit, shoqëria duhet të depozitojë në ERE lejen e përdorimit të burimit ujor për prodhimin e energjisë elektrike nga HEC “Klisyrë”, për kapacitetin 2 mw. 
+2. Shfuqizuar.
 
-3. Shoqëria duhet të dokumentojë në ERE ndërtimin dhe vënien në punë të HEC brenda datës 31.12.2025.
+3. Shfuqizuar.
 
-4. Me fillimin e operimit, por jo më vonë se 60 (gjashtëdhjetë) ditë nga ky fakt, shoqëria duhet të dokumentojë në ERE testimin e veprës.
+4. Shfuqizuar.
 
-5. Brenda datës 1.1.2026, shoqëria duhet të depozitojë marrëveshjen e rinovuar për shërbimet e kontabilitetit. 
+5. Shfuqizuar.
 
-6. Ky vendim është objekt rishikimi, në rast të plotësimit/mosplotësimit të kushteve të pikave 2, 3, 4 dhe 5 të këtij vendimi dhe në rast të depozitimit të akteve të ndryshme nga ato që kanë shërbyer për marrjen e këtij vendimi.
+6. Shfuqizuar.
 
 7. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “Këlcyra 2020” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, “OSSH” sh.a. dhe “ALPEX” sh.a. për vendimin e Bordit të ERE-s.
 
