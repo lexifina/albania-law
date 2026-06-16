@@ -1,0 +1,1 @@
+10. AMVV-ja administron ankesat e paraqitura nga bashkitë dhe i përcjell KVA-së dokumentacionin për shqyrtim dhe miratim të vlerësimit përfundimtar për treguesit e GBP-së 2026. Në rast se brenda afatit të përcaktuar nuk paraqitet asnjë koment apo vërejtje, vlerësimi paraprak konfirmohet si vlerësim përfundimtar.

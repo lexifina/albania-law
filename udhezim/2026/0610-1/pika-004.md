@@ -1,0 +1,6 @@
+4. Fondet e përfituara nga Granti i Bazuar në Performancë përdoren nga bashkitë sipas nevojave të tyre dhe në asnjë rast për kryerjen e shpenzimeve për personelin dhe/ose shpërblime.
+II. PËRKUFIZIME
+1. “Granti i Bazuar në Performancë (GBP)” - është një mekanizëm i bashkëfinancuar nga qeveria shqiptare dhe nga qeveria e Konfederatës Zvicerane, dhe qeveria e Suedisë, të përfaqësuara nga Agjencia Zvicerane për Zhvillim dhe Bashkëpunim (SDC), bazuar në marrëveshjen e bashkëfirmosur nga palët sipas ligjit nr. 114/2024, “Për ratifikimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga ministri i Shtetit për Pushtetin Vendor, dhe qeverisë së Konfederatës Zvicerane, përfaqësuar nga Agjencia Zvicerane për Zhvillim dhe Bashkëpunim, që vepron nëpërmjet Ambasadës së Zvicrës në Shqipëri, për projektin ’Bashki të Forta (BTF), faza 2’”.
+2. “AMVV” - është Agjencia për Mbështetjen e Vetëqeverisjes Vendore.
+3. “Donator” - është Agjencia Zvicerane për Zhvillim dhe Bashkëpunim (SDC)/Ambasada e Zvicrës dhe Agjencia Suedeze për Zhvillim dhe Bashkëpunim (SIDA).
+4. “KVA” - është Komisioni i Vlerësimit të Aplikimeve, përgjegjës për kryerjen e vlerësimit administrativ të dokumentacionit të paraqitur nga bashkitë në përputhje me këtë udhëzim.

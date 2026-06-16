@@ -1,0 +1,1 @@
+8. AMVV-ja është përgjegjëse për organizimin e takimeve me KVA-në, për vënien në dispozicion të deklaratave për nënshkrimin e konfidencialitetit dhe konfliktit të interesit, si dhe formularëve të vlerësimit për treguesit përkatës.
