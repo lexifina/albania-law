@@ -1,0 +1,9 @@
+LIGJ
+Nr. 47/2026
+PËR MIRATIMIN E AKTIT NORMATIV, ME FUQINË E LIGJIT, NR. 1,
+DATË 3.4.2026, “PËR NJË SHTESË NË LIGJIN NR.61/2012 ’PËR AKCIZAT
+NË REPUBLIKËN E SHQIPËRISË’”, I NDRYSHUAR
+Në mbështetje të neneve 78 dhe 101 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
