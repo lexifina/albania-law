@@ -1,0 +1,1 @@
+2. Me hyrjen në fuqi të këtij vendimi, kapitulli 6 “Plani Kombëtar i Përshtatjes ndaj Ndryshimeve Klimatike”, i vendimit nr. 466, datë 3.7.2019, të Këshillit të Ministrave, “Për miratimin e dokumentit strategjik dhe të planeve kombëtare për zbutjen e gazeve me efekt serrë dhe për përshtatjen ndaj ndryshimeve klimatike”, shfuqizohet.
