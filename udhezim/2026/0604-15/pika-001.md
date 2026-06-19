@@ -1,0 +1,1 @@
+1. Operatorët e biznesit ushqimor lejohen të përdorin ujë të nxehtë të ricikluar për të hequr kontaminimin sipërfaqësor mikrobiologjik nga karkasat në përputhje me kërkesat e përcaktuara në shtojcën I, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
