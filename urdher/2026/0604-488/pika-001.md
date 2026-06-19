@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës për nënshkrimin e certifikatave për ushtrimin e veprimtarisë së udhërrëfyesit turistik, të individëve të certifikuar nga Komisioni i Standardizimit të Veprimtarive Turistike, te z. Xheni Beqaj, drejtor i përgjithshëm, Agjencia Kombëtare e Bregdetit.
