@@ -1,0 +1,1 @@
+1. Operatorët e biznesit ushqimor lejohen të përdorin acidin laktik për të reduktuar kontaminimin mikrobiologjik të sipërfaqes së karkasës së gjedhit, të gjysmëkarkasës ose çerekkarkasës, në nivelin e thertores, në përputhje me kushtet e përcaktuara në shtojcën I, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij.
