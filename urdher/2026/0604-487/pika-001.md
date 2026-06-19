@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës për nënshkrimin e Certifikatës së Kategorizimit të strukturës akomoduese, të subjekteve të certifikuara nga Komisioni i Standardizimit të Veprimtarive Turistike, te z. Xheni Beqaj, drejtor i përgjithshëm, Agjencia Kombëtare e Bregdetit.
