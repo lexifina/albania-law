@@ -1,0 +1,26 @@
+{
+  "qbz_id": 33444,
+  "title": "Për disa ndryshime dhe shtesa në ligjin nr. 113/2020, “Për shtetësinë”, i ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "49",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2026-05-08",
+  "published": "2026-06-05",
+  "in_force": "2026-06-20",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/b922172061c356d9cc2b12000d8ee4d4ab13fd6e6a035b1ad8b1f95b4f04462a.docx",
+  "source_sha256": "b922172061c356d9cc2b12000d8ee4d4ab13fd6e6a035b1ad8b1f95b4f04462a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/33444",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2026/05/08/49",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
