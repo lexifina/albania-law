@@ -1,0 +1,28 @@
+{
+  "qbz_id": 33578,
+  "title": "Mbi fillimin e procedurës për shqyrtimin e kërkesës së shoqërisë “Greensol” sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "158",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2026-06-05",
+  "published": "2026-06-22",
+  "in_force": "2026-06-22",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/7a78914665e150aab93483e11694667f84ef7307a261e58dbfa026b03f25d6d3.docx",
+  "source_sha256": "7a78914665e150aab93483e11694667f84ef7307a261e58dbfa026b03f25d6d3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/33578",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2026/06/05/158",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    33811
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
