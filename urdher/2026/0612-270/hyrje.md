@@ -1,0 +1,5 @@
+URDHËR
+Nr. 270, datë 12.6.2026
+PËR MIRATIMIN E PLANIT TË VEPRIMIT ME MASA PËR TË SIGURUAR PROGRES, QË SHQIPËRIA TË KLASIFIKOHET SI NJË INOVATOR MESATAR NË TABELËN EVROPIANE TË REZULTATEVE TË INOVACIONIT, ME REZULTAT NË PËRMIRËSIMIN E RAPORTIMIT TË SHQIPËRISË PËR TREGUESIT TEI
+Në mbështetje të pikës 4, të nenit 102, të Kushtetutës; të VKM-së nr. 621, datë 10.10.2024, “Për miratimin e dokumentit të politikës ’Agjenda Kombëtare e Reformave 2024-2027’, në kuadër të instrumentit të Bashkimit Evropian ’Faciliteti për reforma dhe rritje për Ballkanin Perëndimor’”; të urdhrit të Kryeministrit nr. 142, datë 29.8.2025, “Për ngritjen e grupit të punës për hartimin e një plani veprimi me masa për të siguruar progres që Shqipëria të klasifikohet si një inovator mesatar në Tabelën Evropiane të Rezultateve të Inovacionit, me rezultat në përmirësimin e raportimit të Shqipërisë për treguesit TEI, në kuadër të dokumentit të politikës “Agjenda Kombëtare e Reformave 2024-2027”, si dhe bazuar rekomandimeve të Komisionit Evropian,
+URDHËROJ:

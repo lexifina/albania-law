@@ -1,0 +1,1 @@
+1. Miratimin e Planit të Veprimit me masa për të siguruar progres që Shqipëria të klasifikohet si një inovator mesatar në Tabelën Evropiane të Rezultateve të Inovacionit, me rezultat në përmirësimin e raportimit të Shqipërisë për treguesit TEI, bashkëlidhur këtij urdhri.

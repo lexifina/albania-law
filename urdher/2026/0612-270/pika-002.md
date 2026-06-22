@@ -1,0 +1,1 @@
+2. Urdhri me nr. 179, datë 30.12.2025, “Për miratimin e planit të veprimit me masa për të siguruar progres që Shqipëria të klasifikohet si një inovator mesatar në Tabelën Evropiane të Rezultateve të Inovacionit, me rezultat në përmirësimin e raportimit të Shqipërisë për treguesit TEI” shfuqizohet.

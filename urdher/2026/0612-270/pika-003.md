@@ -1,0 +1,2 @@
+3. Ngarkohet Drejtoria e Përgjithshme e Inovacionit dhe Teknologjisë në Ministrinë e Ekonomisë dhe Inovacionit, për koordinimin me të gjitha institucionet anëtare të grupit ndërinstitucional të punës të cilat kanë marrë pjesë në hartimin e Planit të Veprimit, për zbatimin e masave që u përkasin sipas fushës së përgjegjësisë institucionale, si dhe për monitorimin e zbatimit të këtij Urdhri.
+Ky urdhër hyn në fuqi menjëherë.
