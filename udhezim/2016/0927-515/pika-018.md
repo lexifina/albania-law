@@ -1,1 +1,0 @@
-18. Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale vlerëson në mënyrë periodike, si dhe rast pas rasti, përputhshmërinë e të dhënave të përpunuara sipas parashikimeve të pikave 3,4 dhe 5, me qëllimin e përpunimit të tyre.

@@ -1,1 +1,0 @@
-17. Policia Kufitare dhe e Migracionit vendos në dispozicion të autoriteteve të tjera të dhënat e mbledhura prej saj, në kuptim të nenit 20, pika 1, germa “d”, të ligjit nr. 71/2016, “Për kontrollin kufitar”, vetëm në rast se këto të dhëna nuk, ose nuk mund të konsultohen dhe shfrytëzohen drejtpërdrejt nga autoriteti që i kërkon.

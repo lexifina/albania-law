@@ -1,1 +1,0 @@
-16. Për rastet e çështjeve të veçanta, për të cilat një përdorues i caktuar kërkon, për shkak të detyrës, të aksesojë të dhënat përtej afatit të parashikuar të konsultimit dhe shfrytëzimit të drejtpërdrejtë për strukturën ku përdoruesi bën pjesë, kërkesa për akses, miratimi i saj, zbatimi dhe mbyllja e aksesit, përcaktohen me urdhër të drejtorit të Policisë së Shtetit.

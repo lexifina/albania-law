@@ -1,1 +1,0 @@
-19. Subjektet e të dhënave personale të mbledhura dhe regjistruara nga rojet kufitare, në zbatim të ligjit nr. 71/2016, “Për kontrollin kufitar”, të drejtën për t’u informuar e ushtrojnë nëpërmjet strukturave përgjegjëse të Policisë së Shtetit për informimin e qytetarëve, të përcaktuara me urdhër të drejtorit të Policisë së Shtetit.

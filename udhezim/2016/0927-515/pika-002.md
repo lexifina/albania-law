@@ -1,1 +1,0 @@
-2. Rojet kufitare, në funksion të kontrollit kufitar, shfrytëzojnë të dhëna personale dhe konsultohen me to, deri në atë masë sa është e nevojshme për kryerjen e një kontrolli kufitar optimal, me qëllim garantimin e sigurisë kufitare dhe sigurisë së brendshme, si dhe parandalimin, zbulimin dhe hetimin e rasteve të migracionit të paligjshëm dhe krimit ndërkufitar.
