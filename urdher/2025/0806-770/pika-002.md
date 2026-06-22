@@ -1,1 +1,0 @@
-2. Autoriteti Kombëtar i Ushqimit informon rregullisht brenda 24 orëve Autoritetin Kombëtar të Veterinarisë dhe Mbrojtjes së Bimëve, Drejtorinë e Përgjithshme të Zhvillimit në Fushën e Sigurisë Ushqimore, Veterinarisë, Mbrojtjes së Bimëve dhe Peshkimit për çdo ngarkesë të kafshëve të llojit dhen dhe dhi, materialit biologjik, leshit dhe lëkurës të kafshëve të llojit dhen dhe dhi.
