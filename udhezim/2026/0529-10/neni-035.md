@@ -1,0 +1,4 @@
+# Neni 35
+Mbajtja e dhënave për parandalimin e sëmundjeve dhe kujdesin veterinar
+1. Operatorët mbajnë të dhëna dhe/ose regjistra për masat e zbatuara për parandalimin e sëmundjeve, duke specifikuar ndërprerjen e prodhimit, pastrimin dhe trajtimin e ujit dhe çdo trajtim veterinar dhe trajtime të tjera parazitësh të marra dhe, në veçanti, datën e trajtimit, diagnozën, dozën, emrin e produktit të trajtimit dhe recetën veterinare për kujdesin veterinar, dhe kohën e pezullimit të zbatuar përpara se produktet e akuakulturës të tregtohen dhe etiketohen si organike.
+2. Produktet alopatike mjekësore veterinare, përfshirë antibiotikët, mund të ruhen në ferma bujqësore me kusht që të jenë lëshuar me recetë nga një mjek veteriner, për trajtimin e parashikuar në shkronjën “b”, të pikës 1, të nenit 33, të këtij udhëzimi, ruhen në një vend të mbikëqyrur dhe shënohen në regjistrin e përmendur në pikën 1 të këtij neni.
