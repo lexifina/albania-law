@@ -1,0 +1,1 @@
+1. Z. Sokol Ismaili, drejtor i përgjithshëm i Drejtorisë së Përgjithshme të Politikave dhe Zhvillimit të Turizmit, që në mungesë dhe me porosi, të zëvendësojë për nënshkrimin e korrespodencave të përditshme shkresore, që janë kompetencë e Sekretarit të Përgjithshëm të Ministrisë së Turizmit, Kulturës dhe Sportit.
