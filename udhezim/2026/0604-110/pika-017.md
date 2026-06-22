@@ -1,0 +1,1 @@
+17. Policia Kufitare dhe e Migracionit vendos në dispozicion të autoriteteve të tjera të dhënat e mbledhura prej saj, në kuptim të nenit 32, pika 1, germa “d”, të ligjit nr. 39/2025, “Për kontrollin e kufirit shtetëror”, vetëm në rast se këto të dhëna nuk mund të konsultohen dhe shfrytëzohen drejtpërdrejt nga autoriteti që i kërkon.

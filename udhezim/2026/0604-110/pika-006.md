@@ -1,0 +1,1 @@
+6. Regjistrimet për verifikimet e vijës së dytë dhe ato për identifikimin e viktimës/viktimave të mundshme të trafikimit, kryhen vetëm mbi bazë statistikore që nuk mundëson zbulimin e të dhënave personale të subjekteve. Rregullat praktike për këto raste përcaktohen me Procedura Standarde të Veprimit të Policisë Kufitare dhe Migracionit.

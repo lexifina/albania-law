@@ -1,0 +1,1 @@
+21. Struktura përgjegjëse për Teknologjinë dhe Informacionin, në Drejtorinë e Përgjithshme të Policisë së Shtetit merr masat për zbatimin e afateve të ruajtjes, aksesimit dhe anonimizimit të pakthyeshëm apo fshirjes së të dhënave personale që përpunohen në arkivat elektronikë për efekt të kontrollit kufitar.

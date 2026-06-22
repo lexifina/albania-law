@@ -1,0 +1,3 @@
+5. Roja kufitare, për efekt të kontrollit kufitar, krahas të dhënave personale dhe dokumentacionit të parashikuar në pikat 3 dhe 4, të këtij udhëzimi, konsultojnë dhe shfrytëzojnë dokumentacionin e mëposhtëm që përmban të dhëna personale:
+a) shënimet, njoftimet dhe informacionet e autoriteteve ligjzbatuese, të shfaqura automatikisht ose me kërkim në sistemet elektronike, si dhe ato që mbërrijnë në rrugë shkresore dhe që përcaktohen si të nevojshme të konsultohen dhe shfrytëzohen gjatë kontrollit kufitar;
+b) arkiva elektronikë dhe shkresorë, që me marrëveshje, me ligj ose me vendim të autoriteteve përgjegjëse, përcaktohen si të nevojshme të konsultohen dhe shfrytëzohen gjatë kontrollit kufitar.

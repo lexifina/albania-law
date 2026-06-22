@@ -1,0 +1,1 @@
+15. Drejtoria e Menaxhimit të Informacionit dhe Mbrojtjes së të Dhënave në Policinë e Shtetit, bazuar në të drejtën për njohje që i jep legjislacioni ose marrëveshjet në fuqi, përcakton institucionet dhe strukturat që aksesojnë dhe shfrytëzojnë drejtpërdrejt të dhënat e mbledhura dhe regjistruara nga rojat kufitare në arkivat elektronikë, si dhe menaxhon përdoruesit.
