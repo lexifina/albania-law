@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të ministrit të Bujqësisë dhe Zhvillimit Rural për nënshkrimin e korrespondencës dalëse me institucione të ndryshme, kur ato përfshijnë informacion të klasifikuar në nivelin “Sekret”, te zëvendësministri, z. Fatmir Guri.
