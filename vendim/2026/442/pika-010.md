@@ -1,0 +1,1 @@
+10. Në pikat portuale dhe ato tokësore të kalimit të kufirit, në varësi të nevojave praktike, mund të përcaktohen korsi të veçanta për autovetura, kamionë dhe autobusë. Këto korsi shënohen në gjuhët shqip dhe anglisht, siç tregohet në tabelat e shtojcës 4, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

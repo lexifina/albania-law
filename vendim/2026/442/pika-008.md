@@ -1,0 +1,1 @@
+8. Për të huajt, që nuk kanë nevojë për vizë, si dhe për të huajt që posedojnë leje qëndrimi ose vizë afatgjatë të vlefshme, përcaktohen korsi të veçanta, të cilat shënohen në gjuhët shqip dhe anglisht, siç tregohet në tabelën 3, të shtojcës 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

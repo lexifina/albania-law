@@ -1,0 +1,1 @@
+7. Për personat, që, sipas përcaktimeve të nenit 15, të ligjit nr. 39/2025, “Për kontrollin e kufirit shtetëror”, janë subjekt i verifikimit minimal, përcaktohen korsi të veçanta, që shënohen në gjuhët shqip dhe anglisht, siç tregohet në tabelën 1, të shtojcës 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
