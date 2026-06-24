@@ -1,1 +1,0 @@
-11. Pika 3, e vendimit nr. 1018, datë 30.9.2009, të Këshillit të Ministrave, “Për përcaktimin e standardeve dhe të kritereve të kontrollit në pikat e kalimit të kufirit, në Republikën e Shqipërisë”, shfuqizohet.

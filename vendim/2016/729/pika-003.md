@@ -1,1 +1,0 @@
-3. Në rastin e pikave të kalimit kufitar me orar të kufizuar, nën tabelën e parashikuar në pikën 2 vendoset një tabelë shtesë që paraqet orarin zyrtar, sipas modelit të shtojcës 1/c, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

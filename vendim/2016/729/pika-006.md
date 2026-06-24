@@ -1,1 +1,0 @@
-6. Hyrja në Republikën e Shqipërisë dhe dalja nga Republika e Shqipërisë në pikat e kalimit kufitar shënohen përkatësisht me tabela në gjuhët shqip dhe anglisht, sipas përcaktimit në tabelat 1 dhe 2, të shtojcës 2/a, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
