@@ -1,0 +1,1 @@
+2. Pushimin e veprimtarisë së Bordit të Transparencës dhe Kufizimit të Përkohshëm të Çmimeve të Tregtimit me Shumicë/Pakicë të Nënprodukteve të Naftës dhe Gazit, i cili u ngrit dhe funksionoi gjatë periudhës së situatës së veçantë, sipas pikës 1 të këtij vendimi.
