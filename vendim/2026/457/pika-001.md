@@ -1,0 +1,8 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” të disa zonave në territorin e Bashkisë Kolonjë, si më poshtë vijon:
+a) Zona nr. 1, fshatrat Pobickë dhe Radat, pjesë të Njësisë Administrative Qendër Leskovik, Bashkia Kolonjë, qarku Korçë, me sipërfaqe 180 (njëqind e tetëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshatrat Vrepckë dhe Radanj, pjesë të Njësisë Administrative Qendër Leskovik, Bashkia Kolonjë, qarku Korçë, me sipërfaqe 441 (katërqind e dyzet e një) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr. 3, fshatrat Gërmenj, Radanj dhe Shalës, pjesë të njësive administrative Qendër Leskovik dhe Barmash, Bashkia Kolonjë, qarku Korçë, me sipërfaqe 512 (pesëqind e dymbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+ç) Zona nr. 4, fshatrat Barmash dhe Kamnik, pjesë të Njësisë Administrative Barmash, Bashkia Kolonjë, qarku Korçë, me sipërfaqe 371 (treqind e shtatëdhjetë e një) ha, sipas hartës në sistemin KRGJSH;
+d) Zona nr. 5, fshatrat Gjonç, Borovë, Taç Lartë, Taç Qëndër, Taç Poshtë, Rehovë, Starie, Selenicë, Psar dhe Kreshovë, pjesë të Njësisë Administrative Qendër Ersekë, Bashkia Kolonjë, qarku Korçë, me sipërfaqe 3 222 (tre mijë e dyqind e njëzet e dy) ha, sipas hartës në sistemin KRGJSH;
+dh) Zona nr. 6, fshatrat Qinam, Mollas, Helmës, Shtikë dhe Pepellash, pjesë të Njësisë Administrative Mollas, Bashkia Kolonjë, qarku Korçë, me sipërfaqe 1 849 (një mijë e tetëqind e dyzet e nëntë) ha, sipas hartës në sistemin KRGJSH;
+e) Zona nr. 7, fshatrat Qafzez, Boshanj, Psar i Zi, Selenicë e Pishës, Qytezë dhe Çlirim, pjesë të njësive administrative Mollas dhe Çlirim, Bashkia Kolonjë, qarku Korçë, me sipërfaqe 3 330 (tre mijë e treqind e tridhjetë) ha, sipas hartës në sistemin KRGJSH.
