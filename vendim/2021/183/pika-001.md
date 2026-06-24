@@ -4,7 +4,7 @@ b) Numri i identifikimit personal të zyrës së taksave NIPT/NUIS:
 “Blessed Investment” sh.p.k. - L71423028S
 “Matrix Konstruksion” sh.p.k. - J91306009Q.
 c) Tipi centralit: fotovoltaik;
-ç) Kapaciteti i instaluar: 50 mw;
+ç) Kapaciteti i instaluar: 100 mw;
 d) Afati i pritshëm i vënies në punë: koha për ndërtimin e vënien në operim të parkut fotovoltaik do të jetë brenda 50 (pesëdhjetë) muajve nga marrja e lejes së ndërtimit;
 dh) Vendndodhja e burimit gjenerues të energjisë: centrali fotovoltaik “Blue 2”, zona Sheq-Marinas, Bashkia Fier, qarku Fier;
 e) Afati i miratimit të ndërtimit: 60 (gjashtëdhjetë) muaj nga hyrja në fuqi e këtij miratimi;
