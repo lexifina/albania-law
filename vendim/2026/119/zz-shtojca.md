@@ -30,8 +30,8 @@ Shtet
 1075
 Shtet
 3140
-149/31
-948.5
+149/37
+765
 -
 -
 Shtet
@@ -82,6 +82,45 @@ Shtet
 394.49
 -
 -
+Shtet
+Zona kadastrale
+Nr. i pasurisë
+Sip. e pasurisë (m2)
+Nga sip.
+Pemëtore
+Institucioni me pronësi/përgjegjësi administrimi
+Truall (m2)
+Ndërtesë (m2)
+8210
+2/668
+157
+157
+-
+Shtet
+8210
+2/725
+10.82
+10.82
+-
+Shtet
+8270
+3/608
+250
+250
+-
+Shtet
+8270
+3/609
+233.4
+233.4
+-
+Shtet
+3140
+219/16/4
+2910
+-
+-
+2910
 Shtet
 SHTOJCA NR. 2
 PRONAT ME FUNKSION PUBLIK PËR TË CILAT KORPORATA VEPRON SI ZHVILLUES
