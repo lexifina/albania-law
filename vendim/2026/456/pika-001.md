@@ -1,0 +1,11 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” të disa zonave në territorin e Bashkisë Malësi e Madhe, si më poshtë vijon:
+a) Zona nr. 1, fshati Rapshë, pjesë e Njësisë Administrative Kastrat, Bashkia Malësi e Madhe, qarku Shkodër, me sipërfaqe 2 659 (dy mijë e gjashtëqind e pesëdhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshati Brojë, pjesë e Njësisë Administrative Kelmend, Bashkia Malësi e Madhe, qarku Shkodër, me sipërfaqe 4 026 (katër mijë e njëzet e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr. 3, fshati Kastrat, pjesë e Njësisë Administrative Kastrat, Bashkia Malësi e Madhe, qarku Shkodër, me sipërfaqe 4 612 (katër mijë e gjashtëqind e dymbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+ç) Zona nr. 4, fshati Bratosh, pjesë e Njësisë Administrative Kastrat, Bashkia Malësi e Madhe, qarku Shkodër, me sipërfaqe 992 (nëntëqind e nëntëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH;
+d) Zona nr. 5, fshati Vrith, pjesë e Njësisë Administrative Shkrel, Bashkia Malësi e Madhe, qarku Shkodër, me sipërfaqe 2 284 (dy mijë e dyqind e tetëdhjetë e katër) ha, sipas hartës në sistemin KRGJSH;
+dh) Zona nr. 6, fshati Vajush, pjesë e Njësisë Administrative Gruemirë, Bashkia Malësi e Madhe, qarku Shkodër, me sipërfaqe 1 181 (një mijë e njëqind e tetëdhjetë e një) ha, sipas hartës në sistemin KRGJSH;
+e) Zona nr. 7, fshati Reç, pjesë e Njësisë Administrative Shkrel, Bashkia Malësi e Madhe, qarku Shkodër, me sipërfaqe 1 590 (një mijë e pesëqind e nëntëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+ë) Zona nr. 8, fshati Rrepisht, pjesë e Njësisë Administrative Shkrel, Bashkia Malësi e Madhe, qarku Shkodër, me sipërfaqe 1 939 (një mijë e nëntëqind e tridhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH;
+f) Zona nr. 9, qyteti Koplik dhe fshatrat: Kamicë-Flakë, Stërbeq, Jubicë, Kalldrun, Dobër, Ktosh, Gjormë, Omaraj, Grilë dhe Boriç i Madh, pjesë të njësive administrative Qendër, Koplik dhe Gruemirë, Bashkia Malësi e Madhe, qarku Shkodër, me sipërfaqe 2 769 (dy mijë e shtatëqind e gjashtëdhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH;
+g) Zona nr. 10, fshatrat: Vermosh, Lëpushë, Vukël, Nikç dhe Bogë, pjesë të njësive administrative Kelmend dhe Shkrel, Bashkia Malësi e Madhe, qarku Shkodër, me sipërfaqe 29 614 (njëzet e nëntë mijë e gjashtëqind e katërmbëdhjetë) ha, sipas hartës në sistemin KRGJSH.
