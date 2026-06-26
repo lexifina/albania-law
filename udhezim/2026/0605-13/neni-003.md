@@ -1,0 +1,8 @@
+# Neni 3
+Përkufizime
+1. “Agjent financiar” nënkupton ofruesin e shërbimeve të pagesave për organizatorin e basteve online me seli në territorin e Republikës së Shqipërisë, të parashikuar në shkronjat: “a”, “b” dhe “c”, të pikës 2, të nenit 3, të ligjit nr. 55/2020, “Për shërbimin e pagesave”.
+2. “Organizator”, personi juridik i licencuar sipas ligjit nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”, i ndryshuar, për të organizuar “Baste sportive online”.
+3. “Sistemi Qendror i Monitorimit Online (SQMO)” është sistemi i mbikëqyrjes në distancë dhe në kohë reale të organizatorëve që ushtrojnë aktivitet në fushën e lojërave të fatit nga AMLF-ja (Autoriteti i Mbikëqyrjes së Lojërave të Fatit) nëpërmjet infrastrukturës teknike dhe kontrollit online të ushtrimit të aktivitetit të lojërave të fatit.
+4. “Baste sportive online” janë bastet e vendosura në faqet e internetit, aplikacionet ose platformat elektronike të dedikuara, të autorizuara dhe të monitorueshme të subjekteve të licencuara, në përputhje me parashikimet e ligjit nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”, i ndryshuar, për ngjarjet sportive ose/dhe lojërat sportive të cilat do të ndodhin në të ardhmen dhe që nuk përfshijnë garat në pista.
+5. “Lojtar” është personi që merr pjesë të luajë në kategoritë e lojërave të fatit, sipas rregullave të përcaktuara në ligjin nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”, i ndryshuar, dhe në rregulloren e lojës së fatit.
+6. “Llogari” janë llogaritë që hap lojtari apo organizatori i lojës pranë agjentit financiar të licencuar nga Banka e Shqipërisë.

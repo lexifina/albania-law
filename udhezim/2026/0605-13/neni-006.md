@@ -1,0 +1,5 @@
+# Neni 6
+Regjistrimi dhe verifikimi i lojtarëve
+1. Organizatori regjistron dhe ruan të dhënat e identifikimit të lojtarit dhe dokumentacionin shoqërues për një periudhë jo më pak se pesë (5) vjet, në përputhje me nenin 16 të ligjit për parandalimin e pastrimit të parave dhe financimit të terrorizmit, dhe ligjin për mbrojtjen e të dhënave personale.
+2. Organizatori verifikon identitetin e lojtarit përpara përdorimit të llogarisë së lojës, duke u siguruar që mjeti i pagesës, i përdorur për depozitim ose tërheqje, i përket të njëjtit person. Në rast se pas verifikimit rezulton mospërputhje midis identitetit të lojtarit dhe identitetit të mbajtësit të mjetit të pagesës, organizatori refuzon transaksionin dhe, kur është e nevojshme, kthen shumën te mjeti i pagesës nga i cili ka ardhur.
+3. Lejohet vetëm një llogari (account) lojtari në sistemin e organizatorit, e cila nuk përbën llogari pagese apo llogari bankare. Nuk pranohen lojtarë nën 21 vjeç ose lojtarë të përfshirë në listën e vetëpërjashtimit të administruar nga AMLF-ja.
