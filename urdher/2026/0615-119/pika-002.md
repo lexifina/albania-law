@@ -1,0 +1,1 @@
+2. Drejtoria e Përgjithshme e Policisë së Shtetit dhe Garda e Republikës së Shqipërisë, në inventarin e së cilës ndodhen pronat që transferohen sipas marrëveshjes, të ndjekë realizimin e procedurave për vënien në dispozicion dhe dorëzimin e pronave, sipas përcaktimeve të marrëveshjes dhe legjislacionit në fuqi.

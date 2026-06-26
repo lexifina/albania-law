@@ -1,0 +1,1 @@
+3. Drejtoria e Përgjithshme e Policisë së Shtetit dhe Garda e Republikës së Shqipërisë, në cilësinë e përfituesit kryesor nga projekti i investimit, të bashkëpunojnë me Korporatën e Investimeve Shqiptare dhe të ndjekin procedurat e tjera në zbatim të detyrimeve të parashikuara në marrëveshje, përfshirë përcaktimin e nevojave dhe specifikimeve teknike në lidhje me projektin.
