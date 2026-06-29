@@ -4,11 +4,15 @@ Nr. 158, datë 5.6.2026
 
 MBI FILLIMIN E PROCEDURËS PËR SHQYRTIMIN E KËRKESËS SË SHOQËRISË “GREENSOL” SHPK PËR LICENCIM NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr. 179, datë 29.6.2026)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16 dhe 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, dhe 10, pikat 1 dhe 3, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të neneve 15 dhe 19, pika 1, germa “a”, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 5.6.2026, mbasi shqyrtoi relacionin me nr. 1662/1 prot., datë 3.6.2026, të përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Garancisë së Origjinës “Mbi kërkesën e shoqërisë ‘Greensol’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se:
 
-- Shoqëria “Greensol” sh.p.k., me shkresën e protokolluar në ERE me nr. 1662 prot., datë 22.5.2026, ka paraqitur kërkesën për licencim në veprimtarinë e prodhimit të energjisë elektrike nga impianti fotovoltaik, me vendndodhje në Njësinë Administrative Mesopotam, Bistricë, Bashkia Finiq, qarku Vlorë, me kapacitet të instaluar 49.96 mw.
+- Shoqëria “Greensol” sh.p.k. ka paraqitur kërkesën për licencim në veprimtarinë e prodhimit të energjisë elektrike nga impianti fotovoltaik, me vendndodhje në Njësinë Administrative Mesopotam, Bistricë, Bashkia Finiq, qarku Vlorë, me kapacitet të instaluar 49.96 mw, duke përfshirë dhe veprat ndihmëse/njësitë e depozitimit të energjisë elektrike, pa ndryshuar kapacitetin total të instaluar të centralit.
 
 - Nga shqyrtimi i aplikimit, në referencë të përcaktimeve të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të ndryshuar, rezulton se:
 
