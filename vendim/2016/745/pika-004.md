@@ -1,1 +1,0 @@
-4. Çdo element verifikimi i vijës së parë, për llogari të çdo autoriteti, i cili ka nevojë për verifikim, inspektim apo ekzaminim të mëtejshëm, që nuk mund të kryhet për një kohë të shkurtër në zonën e vijës së parë, konsiderohet arsye për verifikim të vijës së dytë.

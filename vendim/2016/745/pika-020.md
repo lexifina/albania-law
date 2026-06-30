@@ -1,1 +1,0 @@
-20. Për përfshirjen dhe zbatimin e praktikave më të mira të verifikimit kufitar, Policia Kufitare dhe e Migracionit përgatit udhëzuesin e vet, i cili shërben si referencë për kryerjen e verifikimeve të efektshme në një kohë sa më të shkurtër.

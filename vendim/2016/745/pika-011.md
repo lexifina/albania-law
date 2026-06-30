@@ -1,1 +1,0 @@
-11. Verifikimet e kryera nga Policia Kufitare dhe Migracionit në brendësi të territorit, në kuptimin e nenit 7, të ligjit nr. 71/2016, “Për kontrollin kufitar”, kryhen gjithashtu në bashkëpunim me autoritete të tjera, kur ekspertiza e tyre është e nevojshme.

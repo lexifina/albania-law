@@ -1,1 +1,0 @@
-21. Pikat 1, 2, 4, 5, 6, 7 dhe 8, të vendimit nr. 1018, datë 30.9.2009, të Këshillit të Ministrave, “Për përcaktimin e standardeve dhe të kritereve të kontrollit në pikat e kalimit të kufirit në Republikën e Shqipërisë”, shfuqizohen.
