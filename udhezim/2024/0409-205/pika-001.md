@@ -1,1 +1,0 @@
-1. Ky udhëzim rregullon procedurat për punësimin, emërimin, pezullimin, lirimin dhe disiplinën e mjekëve në institucionet e ofrimit të shërbimit të kujdesit shëndetësor publik, nëpërmjet portalit “Mjek për Shqipërinë”.

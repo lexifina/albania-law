@@ -1,1 +1,0 @@
-9. DQOSHKSH-ja ka detyrimin t’i publikojë vendet e lira në portalin “Mjek për Shqipërinë”, si dhe përditësimin e listëpritjes, në rast se ka një të tillë. Publikimet e vendeve të lira në portal do të bëhen menjëherë me krijimin e vendit vakant.

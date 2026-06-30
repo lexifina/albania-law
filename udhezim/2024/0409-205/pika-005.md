@@ -1,1 +1,0 @@
-5. Procedurat për punësimin e mjekëve udhëhiqen nga parimet e ligjshmërisë e të përgjegjshmërisë, si dhe nga vlerat e profesionalizmit, transparencës, meritës, barazisë dhe interesit më të lartë të shëndetit publik.

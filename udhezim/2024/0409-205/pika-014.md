@@ -1,1 +1,0 @@
-14. Kandidatët mjek familje/mjek të përgjithshëm, të cilët nuk përzgjedhin, qëndrojnë në listën e pritjes për një periudhë maksimalisht 5-vjeçare për një vend pune në NJVKSH ku është kualifikuar dhe thirren për përzgjedhje të vendeve vakante sapo të ketë shpallje të reja.

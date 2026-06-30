@@ -1,1 +1,0 @@
-15. Spitalet universitare/terciare dhe institucionet qendrore në varësi të MSHMS-së dërgojnë listën me emrat e fituesve pranë DQOSHKSH-së. Kjo e fundit ka detyrimin të publikojë menjëherë në portalin “Mjek për Shqipërinë” këto lista si dhe emrat e mjekëve që përzgjedhin vendin e punës për institucionet në varësi të OSHKSH-së.
