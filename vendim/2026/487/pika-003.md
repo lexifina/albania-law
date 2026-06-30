@@ -1,0 +1,1 @@
+3. Burimet e financimit të fondit përbëhen nga të ardhurat e përcaktuara në nenet 52 dhe 52/1, të ligjit nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”, të ndryshuar, si dhe nga të ardhura të tjera të ligjshme, sipas legjislacionit në fuqi.

@@ -1,0 +1,1 @@
+1. Ky vendim ka për objekt përcaktimin e rregullave e të procedurave për administrimin dhe përdorimin e fondit të posaçëm, të krijuar nga veprimtaritë e lojërave të fatit, në vijim “Fondi”, përfshirë procedurat e arkëtimit, verifikimit, financimit, monitorimit dhe kontrollit të përdorimit të fondeve.
