@@ -997,7 +997,7 @@ Komuna Synej
 806,013
 Shuma
 806013 m2 ose 80.6 ha
-20. Zona kadastrale 3774, Kavajë (Vilë Bashtovë) (Ndryshuar me vendimin nr. 227, datë 1.4.2026)
+20. Zona kadastrale 3774, Kavajë (Vilë Bashtovë) (Ndryshuar me vendimin nr. 227, datë 1.4.2026; Ndryshuar me vendimin nr. nr. 495, datë 26.6.2026)
 ZK
 Nr. pasurie
 Vol
@@ -1013,6 +1013,13 @@ ranorë
 261,450
 shtet
 Shfuqizuar
+3774
+284/5
+13
+25
+ranore
+294 845
+shtet
 Shuma
 556,295 m2 ose 55.6 ha
 21. Zona kadastrale 3774, Kavajë (Vilë Bashtovë)
