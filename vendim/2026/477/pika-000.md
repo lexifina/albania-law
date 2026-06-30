@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Infrastrukturës dhe Energjisë, dhe qeverisë së Konfederatës Zvicerane, të përfaqësuar nga Agjencia Zvicerane për Zhvillim dhe Bashkëpunim, që vepron nëpërmjet Ambasadës së Zvicrës në Shqipëri, për projektin e vlerësimit të dëmeve në ndërtesa, një fazë e vetme, 2025 - 2029, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
