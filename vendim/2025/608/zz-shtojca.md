@@ -1,37 +1,38 @@
 # Shtojca
-LISTA EMËRORE E PRONARËVE, PASURITË E PALUAJTSHME PRONË PRIVATE E TË CILËVE SHPRONËSOHEN PËR INTERES PUBLIK, PËR REALIZIMIN E PROJEKTIT “REHABILITIMI I HAPËSIRËS SË PALLATEVE NË KRYQËZIMIN E RRUGËS ’KUJTIM LARO’ DHE ’KONGRESI I MANASTIRIT’, BASHKIA TIRANË”
-NR. RENDOR
-PRONARI
-TË DHËNAT KADASTRALE (SIPAS KARTELËS SË PASURISË)
-VLERËSIMET PËR SHPRONËSIM
-VLERA TOTALE (lekë)
-SHËNIME (Kufizime hipotekore barre mbi pasurinë etj.)
-“TRUALL”
-“NDËRTESË”
-EMËR
-ATËSIA
-MBIEMËR
-QYTETI
-ZONA KADASTRALE
-NR. I PASURISË
-LLOJI I PASURISË
-SIP. TOTALE (m2)
+LISTA EMËRORE E PRONARËVE, PASURITË E PALUAJTSHME, PRONË PRIVATE TË TË CILËVE SHPRONËSOHEN, PËR INTERES PUBLIK, PËR REALIZIMIN E PROJEKTIT “REHABILITIMI I HAPËSIRËS SË PALLATEVE NË KRYQËZIMIN E RRUGËS ’KUJTIM LARO’ DHE ’KONGRESI I MANASTIRIT’, BASHKIA TIRANË”
+Ndryshuar me Vendimin nr. 478, datë 26.6.2026)
+Nr. rendor
+Pronari
+Të dhënat kadastrale (sipas kartelës së pasurisë)
+Vlerësimet për shpronësim
+Vlera totale (lekë)
+SHËNIME (kufizime hipotekare barre mbi pasurinë etj.)
+Truall
+Ndërtesë
+Emër
+Atësia
+Mbiemër
+Qyteti
+Zona kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sip. totale (m2)
 Truall (m2)
 Ndërtesë (m2)
-VOLUM
-FAQE
-SIPËRFAQJA (m2)
-ÇMIMI (Lekë/m2)
-VLERA
+Volum
+Faqe
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera
 (lekë)
-SIPËRFAQJA (m2)
-ÇMIMI (Lekë/m2)
-VLERA (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
 1
-AFERDITA ANILA BEDRI DHURATA FATBARDHA FLUTURA HALIL LILJANA MAHMUDE MYZEJEN SAFIJE SHPETIM SHQIPE VALBONA XHELAL ZAIDE AFERDITA BEDRI DHURATA FATBARDHA HALIL IBRAHIM OSMAN SAFIE SHQIPE XHELAL AFERDITA BEDRI FARTBARDHA HALIL SHQIPE XHELAL ANILA DHURATA FATMIR FLUTURA LILIANA MAHMUDE MYZEJEN SAFIJE SHPETIM VALBONA ZAIDE
-- - - - - - - - - - - - - - - - RIFAT SEFER SEFER RIFAT SEFER SEFER SEFER SALI RIFAT SEFER RIFAT SEFER RIFAT SEFER RIFAT SEFER - - - - PERPARIM - - - - - -
-SHEGA KAMBERI KULLAKSHI KULLAKSHI BAKLLAVA KUSI KULLAKSHI ISMAILI KULLAKSHI IBRAHIMI KULLAKSHI KULLAKSHI BIÇAKU KULLAKSHI KULLAKSHI KULLAKSHI SHEGA KULLAKSHI NJOLLRI BAKLLAVA KULLAKSHI KULLAKSHI KULLAKSHI MYRTAJ BICAKU KULLAKSHI SHEGA KULLAKSHI BAKLLAVA KULLAKSHI BICAKU KULLAKSHI KAMBERI KULLAKSHI KULLAKSHI KUSI ISMAILI KULLAKSHI IBRAHIMI KULLAKSHI KULLAKSHI KULLAKSHI KULLAKSHI
-TIRANE
+Aferdita Anila Bedri Dhurata Fatbardha Flutura Halil Liljana Mahmude Myzejen Safije Shpetim Shqipe Valbona Xhelal Zaide Aferdita Bedri Dhurata Fatbardha Halil Ibrahim Osman Safie Shqipe Xhelal Aferdita Bedri Fartbardha Halil Shqipe Xhelal Anila Dhurata Fatmir Flutura Liliana Mahmude Myzejen Safije Shpetim Valbona Zaide
+- - - - - - - - - - - - - - - - Rifat Sefer Sefer Rifat Sefer Sefer Sefer Sali Rifat Sefer Rifat Sefer Rifat Sefer Rifat Sefer - - - - Perparim - - - - - -
+Shega Kamberi Kullakshi Kullakshi Bakllava Kusi Kullakshi Ismaili Kullakshi Ibrahimi Kullakshi Kullakshi Biçaku Kullakshi Kullakshi Kullakshi Shega Kullakshi Njollri Bakllava Kullakshi Kullakshi Kullakshi Myrtaj Bicaku Kullakshi Shega Kullakshi Bakllava Kullakshi Bicaku Kullakshi Kamberi Kullakshi Kullakshi Kusi Ismaili Kullakshi Ibrahimi Kullakshi Kullakshi Kullakshi Kullakshi
+Tiranë
 8140
 3/27
 TRUALL
@@ -45,10 +46,10 @@ TRUALL
 3,172,133.88
 3,172,133.88
 2
-ALI BUKURIJE HAMIDE ZYHRA SONILA ARBEN EDVANA ELISABETA ELIDA QEFSERE
-MALIQ MALIQ ABDULLA ABDULLA MUHAMET MUHAMET HAMIT HAMIT HAMIT MALIQ
-KULLAKSHI LLABANI MEMA KULLAKSHI TAGANI KULLAKSHI MEHILLI PULA NIKA KALLUSHI
-TIRANE
+Ali Bukurije Hamide Zyhra Sonila Arben Edvana Elisabeta Elida Qefsere
+Maliq Maliq Abdulla Abdulla Muhamet Muhamet Hamit Hamit Hamit Maliq
+Kullakshi Llabani Mema Kullakshi Tagani Kullakshi Mehilli Pula Nika Kallushi
+Tiranë
 8140
 3/317
 TRUALL
@@ -61,22 +62,5 @@ TRUALL
 35,199.00
 2,338,621.56
 2,338,621.56
-3
-ALI BUKURIJE HAMIDE MUHAMET NAIME QEFSERE
-- MALIQ - - - -
-KULLAKSHI LLABANI MEMA KULLAKSHI ALLAMUCA KULLAKSHI
-TIRANE
-8140
-3/74
-TRUALL
-1368.05
-1368.05
-82.81
-20
-19
-15.47
-35,199.00
-544,528.53
-544,528.53
 VLERA TOTALE
-6,055,283.97
+5,510,755.44
