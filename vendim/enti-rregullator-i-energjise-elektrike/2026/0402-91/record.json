@@ -1,0 +1,28 @@
+{
+  "qbz_id": 33662,
+  "title": "Mbi licencimin e shoqërisë “Dion Energji” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet të instaluar 2 mw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "91",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2026-04-02",
+  "published": "2026-06-30",
+  "in_force": "2026-06-30",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/69ac7d00004a964fd93cb15cc51ed43803d674f503e7c21c1af039d63e294462.docx",
+  "source_sha256": "69ac7d00004a964fd93cb15cc51ed43803d674f503e7c21c1af039d63e294462",
+  "official_record": "https://qbz.gov.al/api/v1/acts/33662",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2026/04/02/91",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    33991
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
