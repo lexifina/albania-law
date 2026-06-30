@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, në masën 5 988 250 (pesë milionë e nëntëqind e tetëdhjetë e tetë mijë e dyqind e pesëdhjetë) lekë pa TVSH, për financimin e hartimit të projekteve të ndërhyrjeve rehabilituese/përshtatëse, të nevojshme për kthimin e strukturës së objekteve që janë klasifikuar me shkallë dëmtueshmërie DS4 në Bashkinë Kurbin.
