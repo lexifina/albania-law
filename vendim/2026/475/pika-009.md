@@ -1,0 +1,1 @@
+9. Në momentin e ekzekutimit të procedurave për likuidim, për pasuritë “pronë private”, që miratohen me anë të këtij vendimi, do të verifikohen kufizimet hipotekare dhe likuidimi i pronarëve të shpronësuar do të bëhet pasi të vlerësohet dokumentacioni përkatës ligjor, lidhur me përmbushjen e detyrimeve financiare nga institucionet bankare.
