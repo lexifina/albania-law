@@ -1,0 +1,1 @@
+2. Në kuptim të këtij udhëzimi, termi “mjek” do të përfshijë të gjithë profesionistët e shëndetësisë që janë të licencuar për ushtrimin e profesionit nga Urdhri i Mjekut apo Urdhri i Stomatologut dhe që ushtrojnë profesionin e tyre.

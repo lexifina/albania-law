@@ -1,0 +1,1 @@
+8. DROSHKSH-të, DSU-të/terciare dhe institucionet qendrore në varësi të MSHMS-së që kanë në organikat e tyre pozicionin “mjek” kanë detyrimin të përcjellin pranë DQOSHKSH-së vendet e lira sa herë krijohen.

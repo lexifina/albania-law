@@ -1,0 +1,1 @@
+15. Në përfundim të afateve të konkurrimit në rast se për një pozicion mjek specialist nuk ka pasur kandidat fitues, ky njoftim hiqet nga portali dhe mund të publikohet përsëri pasi të rivlerësohet pozicioni.
