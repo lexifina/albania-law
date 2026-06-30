@@ -1,1 +1,1 @@
-1. Pjesëmarrjen në operacionin ushtarak ndërkombëtar KFOR, Kosovë, të 10 (dhjetë) ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë.
+1. Pjesëmarrjen në operacionin ushtarak ndërkombëtar KFOR, Kosovë, të 12 (dymbëdhjetë) ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë.
