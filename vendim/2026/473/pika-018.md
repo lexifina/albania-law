@@ -1,0 +1,1 @@
+18. Veprimet e Policisë Kufitare dhe Migracionit gjatë verifikimit kufitar kryhen, në përputhje me procedurat standarde të punës, të miratuara sipas legjislacionit në fuqi, duke u mbështetur edhe në manuale teknike apo udhëzues operacionalë, me qëllim zbatimin e praktikave më të mira për kryerjen e verifikimeve të efektshme.

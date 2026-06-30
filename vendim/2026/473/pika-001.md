@@ -1,0 +1,1 @@
+1. Verifikimet kufitare në pikat e kalimit kufitar kryhen sipas parimit “një ndalesë-një verifikim”, që nënkupton se çdo person, mjet apo mall i nënshtrohet një kontrolli të plotë dhe të koordinuar nga të gjitha autoritetet përgjegjëse vetëm një herë në pikën përkatëse të kalimit kufitar, me qëllim lehtësimin e kalimit dhe sigurimin e një verifikimi sa më efektiv.

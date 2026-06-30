@@ -1,0 +1,1 @@
+6. Në verifikimet e vijës së dytë, kur nevojitet ekspertizë profesionale në tërësi ose për elemente të veçanta verifikimi, veprimet e drejtpërdrejta, në lidhje me këto elemente kryhen nga punonjësit e atij autoriteti që ka ekspertizën përkatëse ose nga një ekspert i jashtëm në rastet kur asnjë autoritet nuk ka punonjës me ekspertizë në këto fusha.

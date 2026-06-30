@@ -1,0 +1,1 @@
+7. Për verifikimet kufitare të vijës së dytë, në të cilat, për arsye kompetence apo të natyrës specifike të kontrollit, kërkohet pjesëmarrja e një autoriteti që nuk vepron në kufi ose që vepron me orar të kufizuar, njoftohet autoriteti përkatës nëpërmjet komunikimit telefonik, postës elektronike, shërbimit postar ose faksit.

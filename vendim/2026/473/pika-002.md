@@ -1,0 +1,1 @@
+2. Mosprezenca e një autoriteti të caktuar gjatë verifikimit kufitar të vijës së parë nuk kushtëzon apo nuk pengon autoritetet e tjera, që, në përputhje me kompetencat e tyre, të kryejnë verifikimin kufitar.

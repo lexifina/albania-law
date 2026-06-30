@@ -1,0 +1,1 @@
+11. Në çdo rast të kryerjes së verifikimeve apo kontrolleve të përbashkëta, sipas përcaktimeve të këtij vendimi, përfaqësuesit e autoriteteve përgjegjëse pjesëmarrëse kanë detyrimin të nënshkruajnë aktin përkatës të konstatimit, verifikimit apo kontrollit.

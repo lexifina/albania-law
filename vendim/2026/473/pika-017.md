@@ -1,0 +1,1 @@
+17. Veprimet dhe mënyra e bashkëpunimit të strukturave të Policisë së Shtetit ndërmjet tyre për verifikimin e përbashkët kufitar përcaktohen me urdhër të drejtorit të Përgjithshëm të Policisë së Shtetit.
