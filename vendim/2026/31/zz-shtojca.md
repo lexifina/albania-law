@@ -7,10 +7,10 @@ Emërtimi i shpenzimeve
 Viti 2026 (lekë)
 1.
 Pagat dhe shtesat e tjera
-49,895,370
+55,827,345
 2.
 Sigurimet shoqërore dhe shëndetësore
-7,921,710
+8,940,525
 3.
 Shërbime e furniturë
 17,202,960
@@ -18,4 +18,4 @@ Shërbime e furniturë
 Investime
 1,742,386
 TOTALI
-76,762,426
+83,713,216
