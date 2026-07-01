@@ -1,0 +1,2 @@
+2.1 Aplikimi i pullave fiskale te produktet ka qëllim të dyfishtë. Ai bën të mundur numërimin e produkteve, duke lehtësuar kështu mbledhjen e taksave dhe duke përmirësuar sigurinë dhe autenticitetin e produkteve në interes të konsumatorit. Gjithashtu, synon që të bëjë të mundur gjurmimin e produkteve në të gjithë vendin, në mënyrë që të identifikojë origjinën dhe ligjshmërinë e atyre produkteve dhe të eliminojë prodhimet ilegale, sikurse prodhimin dhe shitjen e produkteve të falsifikuara.
+III. Përkufizime

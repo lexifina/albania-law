@@ -1,0 +1,2 @@
+1.1 Qëllimi i këtij udhëzimi është përcaktimi i kushteve dhe procedurave për vendosjen e pullave fiskale në produktet e duhanit, birrës, verës, alkoolit dhe pijeve alkoolike të prodhuara në Republikën e Shqipërisë ose të importuara, përcaktimi i karakteristikave të tyre teknike dhe të sigurisë, mënyrës së aplikimit dhe gjurmueshmërisë së tyre, si dhe metodave të pagesës së pullave fiskale.
+II. Aplikimi
