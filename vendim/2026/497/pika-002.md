@@ -1,0 +1,1 @@
+2. Indeksimin, sipas përcaktimeve të pikës 1 të këtij vendimi, e përfitojnë edhe pensionet që do të caktohen nga data 1.7.2026 e në vazhdim, me kusht që data e lindjes së të drejtës së pensionit të jetë deri në datën 30.6.2026, përfshirë edhe këtë datë.

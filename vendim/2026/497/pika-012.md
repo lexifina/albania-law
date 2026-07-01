@@ -1,0 +1,1 @@
+12. Shuma bazë e pensionit e përcaktuar sipas pikës 2, të nenit nr. 32, të ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, për personat që plotësojnë periudhën e sigurimit sipas përcaktimeve të nenit 92, të këtij ligji, duke filluar nga data 1.7.2026 e në vazhdim, do të jetë 10 222 (dhjetë mijë e dyqind e njëzet e dy) lekë.
