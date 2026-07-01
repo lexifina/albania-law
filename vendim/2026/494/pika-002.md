@@ -1,0 +1,1 @@
+2. Miratimin e planit për ruajtjen, mbrojtjen dhe administrimin e “Qendrës historike” të fshatit Dhërmi dhe zonës mbrojtëse të saj, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

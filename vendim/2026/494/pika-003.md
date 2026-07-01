@@ -1,0 +1,1 @@
+3. Vendimi nr. 29, datë 20.1.2016, i Këshillit të Ministrave, “Për shpalljen e ’Qendrës historike’” të fshatit Dhërmi dhe miratimin e rregullores për administrimin e saj e të zonës së mbrojtur përreth”, shfuqizohet.

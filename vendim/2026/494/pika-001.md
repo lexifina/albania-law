@@ -1,0 +1,1 @@
+1. Deklarimin pasuri kulturore e paluajtshme të “Qendrës historike” të fshatit Dhërmi dhe përcaktimin e zonës mbrojtëse të saj, sipas hartave të zonifikimit dhe koordinatave në Kornizën Referuese Gjeodezike Shqiptare (KRGJSH), që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
