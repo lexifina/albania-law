@@ -1,0 +1,1 @@
+1. Zgjatjen e afatit të aplikimeve, për të gjitha masat mbështetëse të përcaktuara në udhëzimin nr. 8, datë 14.5.2026, “Për procedurat dhe mënyrën e administrimit të fondit të programit për bujqësinë dhe zhvillimin rural për masat mbështetëse për vitin 2026”, deri më datë 6.7.2026, ora 16:30.
