@@ -1,0 +1,1 @@
+4. Shpërblimet kalohen në llogaritë e pensionistëve në muajin korrik 2026 dhe paguhen gjatë këtij muaji. Në rastet kur pagesat efektive nuk kryhen brenda muajit korrik 2026, ato të paguhen deri më 31.12.2026. Shpërblimet e patërhequra parashkruhen pas datës 31.12.2026.
