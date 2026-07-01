@@ -1,3 +1,0 @@
-4. Anëtarët e shërbimeve të kërkim-shpëtimit, të mbrojtjes nga zjarri, policisë dhe punonjësit e kufirit
-a) Punonjësve të parashikuar në këtë pikë, të cilët udhëtojnë për qëllim dhe zbatim të detyrave përkatëse, parimisht u jepet përparësi kundrejt udhëtarëve të tjerë gjatë verifikimit kufitar në pikat e kalimit kufitar, pavarësisht nëse, sipas rastit, u nevojitet ose jo pajisja me vizë.
-b) Për efekt të përjashtimit nga neni 14, i ligjit nr. 71/2016, “Për kontrollin kufitar”, këtyre personave nuk u kërkohet të provojnë nëse kanë mjete të mjaftueshme financiare për jetesë, në rastet kur udhëtojnë për qëllim dhe zbatim të detyrave përkatëse.

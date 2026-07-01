@@ -1,4 +1,0 @@
-6. Punonjësit ndërkufitarë
-a) Verifikimi i punonjësve ndërkufitarë kryhet sipas rregullave të përgjithshme për kontrollin kufitar, veçanërisht sipas neneve 6 dhe 14, të ligjit nr. 71/2016, “Për kontrollin kufitar”.
-b) Për efekt të përjashtimit nga neni 14, i ligjit nr. 71/2016, “Për kontrollin kufitar”, punonjësit ndërkufitarë, që njihen mirë prej rojeve kufitare, për shkak të kalimeve të tyre të shpeshta në kufi në të njëjtën pikë kalimi kufitar dhe për të cilët gjatë një verifikimi të mëparshëm nuk është shfaqur ndonjë njoftim nga ndonjë regjistër apo bazë të dhënash, kur kalojnë kufirin për arsye të punës së tyre, pavarësisht nga shtetësia, u nënshtrohen verifikimeve minimale.
-c) Ndaj këtyre personave ushtrohen herë pas here verifikime tërësore ose dhe verifikime të detajuara, pa paralajmërim dhe jo në intervale të rregullta.

@@ -1,8 +1,0 @@
-5. Të miturit
-a) Të miturit që kalojnë kufirin u nënshtrohen të gjitha verifikimeve, në hyrje dhe në dalje, si dhe të rriturit.
-b) Në rastin e të miturve të shoqëruar, punonjësi i kufirit verifikon nëse personi/at shoqërues të të miturit janë përfaqësues ligjorë të tij ose e kanë atë nën kujdes prindëror, sidomos kur i mituri shoqërohet vetëm nga një person madhor.
-c) Kur ka arsye serioze për të dyshuar se i mituri mund të jetë shkëputur në mënyrë të paligjshme nga kujdestaria e personit/ave që ushtron/jnë ligjërisht kujdesin prindëror apo nga përfaqësuesi ligjor i tij, rojet kufitare duhet të kryejnë dhe verifikime të mëtejshme, duke vlerësuar e zbuluar mospërputhjet apo kontradiktat në informacionin e dhënë.
-ç) Në rastin e të miturve që udhëtojnë të pashoqëruar, rojet kufitare sigurojnë, me anë të shqyrtimit të imët të dokumenteve të udhëtimit, dokumenteve mbështetëse, bazave të të dhënave dhe intervistimit që të miturit të mos kalojnë kufirin kundër dëshirës së personit/ave që ka/kanë kujdestarinë prindërore apo përfaqësuesit ligjor të të miturit.
-d) Pika Kombëtare e Kontaktit për konsultimin për çështje të të miturve përcaktohet me urdhër të Kryeministrit.
-dh) Rojet kufitare konsultohen me Pikën Kombëtare të Kontaktit, të parashikuar në shkronjën “d”, për rastet e veçanta, kur të dhënat e informacioni që posedojnë dhe marrin gjatë verifikimit kufitar të të miturve që kalojnë kufirin nuk krijojnë mundësinë për një verifikim të plotë të situatës në fjalë.
-e) Për efekt të unifikimit të procedurës së verifikimit kufitar të të miturve, ministri i Punëve të Brendshme nxjerr udhëzim për rastet e kalimit të të miturve që kushtëzojnë përcaktimin e rregullave të veçanta më të detajuara.
