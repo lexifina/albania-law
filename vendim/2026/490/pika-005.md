@@ -1,0 +1,1 @@
+5. Marrëdhëniet e punës së kryeinspektorit qendror dhe inspektorëve të IQMT-së rregullohen sipas dispozitave të Kodit të Punës, dispozitave të ligjit për inspektimin dhe akteve nënligjore në zbatim të tij.

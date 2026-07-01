@@ -1,0 +1,1 @@
+1. Krijimin, organizimin dhe funksionimin e Inspektoratit Qendror të Mbikëqyrjes së Tregut, në vijim “IQMT”, si institucion qendror publik, buxhetor, në varësi të ministrit përgjegjës për tregtinë dhe me seli në Tiranë.
