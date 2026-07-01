@@ -1,0 +1,9 @@
+# Neni 9
+Pilotët dhe anëtarët e tjerë të ekuipazhit të mjeteve ajrore
+1. Për efekt të përjashtimit nga neni 15, të ligjit nr. 39/2025, “Për kontrollin e kufirit shtetëror”, dhe në harmoni me parashikimet e aneksit 9 të Konventës për Aviacionin Civil Ndërkombëtar, të datës 7 dhjetor 1944, mbajtësit e licencës së pilotit ose të certifikatës së anëtarit të ekuipazhit, pavarësisht shtetësisë, u nënshtrohen verifikimeve minimale kur paraqesin këto dokumente dhe kur për arsye të ushtrimit të detyrave të tyre u nevojitet:
+a) të hipin dhe të zbresin në aeroportin e ndalesës ose në aeroportin e mbërritjes;
+b) të hyjnë në territorin e njësisë administrative të aeroportit të ndalesës ose të aeroportit të mbërritjes;
+c) të shkojnë me çfarëdolloj mjeti transporti në aeroportin ku gjendet mjeti ajror, në të cilin ata imbarkohen për nisje.
+2. Ekuipazheve të mjeteve ajrore, që kalojnë kufirin për arsye të kryerjes së detyrave të tyre, u jepet përparësi kundrejt udhëtarëve të tjerë gjatë verifikimit kufitar në pikat e kalimit kufitar, duke kryer verifikimin përpara pasagjerëve ose në vende të veçanta të caktuara për këtë qëllim.
+3. Për personelin teknik të operatorëve ajrorë të huaj, që operojnë drejt ose përmes territorit të Republikës së Shqipërisë, të cilët kërkohen urgjentisht për rikthimin në gjendje vlefshmërie fluturimi të çdo mjeti ajror, që për arsye teknike nuk është në gjendje të vazhdojë udhëtimin, merren masa për të mundësuar hyrjen e përkohshme, pa vonesë, në territorin e Republikës së Shqipërisë. Në rast se kërkohet garanci për mbulimin e shpenzimeve të qëndrimit dhe/ose kthimit të tyre, kjo negociohet pa vonuar pranimin e tyre.
+4. Në të gjitha rastet e tjera zbatohen kërkesat e verifikimeve kufitare, të parashikuara nga ligji nr. 39/2025, “Për kontrollin e kufirit shtetëror”.

@@ -1,0 +1,5 @@
+# Neni 8
+Punonjësit ndërkufitarë
+1. Verifikimi i punonjësve ndërkufitarë kryhet sipas rregullave të përgjithshme për kontrollin kufitar, veçanërisht sipas neneve 6 dhe 15, të ligjit nr. 39/2025, “Për kontrollin e kufirit shtetëror”.
+2. Për efekt të përjashtimit nga neni 15, të ligjit nr. 39/2025, “Për kontrollin e kufirit shtetëror”, punonjësit ndërkufitarë, të cilët kalojnë rregullisht kufirin në të njëjtën pikë kalimi kufitar për arsye pune, të regjistruar ose të identifikuar në sistemet përkatëse të Policisë Kufitare dhe Migracionit, dhe për të cilët nuk ka rezultuar ndonjë njoftim, masë kufizuese apo problematikë e evidentuar në regjistrat ose në bazat e të dhënave të përdorura për verifikimin kufitar, pavarësisht nga shtetësia, kur kalojnë kufirin për arsye të ushtrimit të veprimtarisë së tyre profesionale, u nënshtrohen verifikimeve minimale.
+3. Ndaj personave të parashikuar në pikën 2, të këtij neni, kryhen verifikime të plota dhe të detajuara, në çdo rast kur kjo diktohet nga analiza e riskut, informacioni operacional apo indicie, që lidhen me sigurinë kufitare, migracionin e paligjshëm ose veprimtari të kundërligjshme.

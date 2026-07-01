@@ -1,0 +1,18 @@
+# Neni 13
+Mjetet e qarkullimit hekurudhor
+1. Në trenat që kalojnë kufirin, verifikimet kufitare kryhen si për pasagjerët e trenit, ashtu edhe për personelin e hekurudhës, qofshin ata trena mallrash apo trena bosh.
+2. Me qëllim lehtësimin e qarkullimit hekurudhor, bazuar në marrëveshjet përkatëse, verifikimet kufitare kryhen në cilëndo prej mënyrave të mëposhtme:
+a) Në stacionin e parë të mbërritjes në territorin e Republikës së Shqipërisë në hyrje dhe në stacionin e fundit të nisjes në territorin e Republikës së Shqipërisë në dalje dhe anasjelltas në territorin e shtetit palë në marrëveshje;
+b) Brenda në tren, gjatë udhëtimit nga stacioni i fundit i nisjes në territorin e shtetit palë në marrëveshje deri në stacionin e parë të mbërritjes në territorin e Republikës së Shqipërisë në hyrje dhe anasjelltas në dalje.
+3. Për të lehtësuar qarkullimin hekurudhor të trenave të shpejtë me pasagjerë, bazuar në marrëveshjet përkatëse për verifikime kufitare të përbashkëta me palët, verifikimet kryhen nga rojat kufitare të palëve, në cilëndo prej mënyrave të mëposhtme:
+a) Në stacionin e parë të mbërritjes në territorin e Republikës së Shqipërisë në hyrje dhe anasjelltas në territorin e shtetit palë në dalje;
+b) Në stacionin e parë të nisjes në territorin e Republikës së Shqipërisë në dalje dhe anasjelltas në territorin e shtetit palë në hyrje;
+c) Në një stacion të vendosur bashkërisht nga palët, pavarësisht nga territori i vendndodhjes së këtij stacioni ose nga drejtimi i lëvizjes;
+ç) Brenda në tren, gjatë udhëtimit nga stacioni i fundit i nisjes në territorin e shtetit palë në marrëveshje deri në stacionin e parë të mbërritjes në territorin e Republikës së Shqipërisë në hyrje dhe anasjelltas në dalje;
+d) Brenda në tren, gjatë udhëtimit nga një stacion nisjeje në territorin e njërës palë deri në një stacion mbërritjeje në territorin e palës tjetër, të përcaktuar bashkërisht nga palët, pavarësisht nga drejtimi i lëvizjes, me kusht që rojat kufitare të sigurohen se udhëtarët nuk mund t’i shmangen verifikimit kufitar.
+4. Verifikimet e përbashkëta, të parashikuara në pikën 3, të këtij neni, mund të zbatohen dhe në rastet e trenave të mallrave apo trenave bosh, kur synohet qarkullimi i shpejtë i mallrave dhe ka një marrëveshje përkatëse mes palëve.
+5. Nëse për trenin, që kalon kufirin në hyrje, ka brenda territorit të Republikës së Shqipërisë disa stacione ku hipin pasagjerë, ata u nënshtrohen verifikimeve kur hyjnë në tren ose në stacionin e mbërritjes, me qëllimin për t’u siguruar se nuk kanë shmangur verifikimin kufitar.
+6. Personat, që dëshirojnë të marrin trenin vetëm për pjesën e mbetur të udhëtimit, brenda territorit të Republikës së Shqipërisë, njoftohen paraprakisht nga transportuesi hekurudhor nëse do t’u nënshtrohen verifikimeve në hyrje gjatë udhëtimit ose në stacionin e mbërritjes, sipas parashikimit të pikës 5, të këtij neni.
+7. Transportuesi hekurudhor merr masat përkatëse, që personat që udhëtojnë në tren, të mos kenë mundësi t’u shmangen verifikimeve kufitare.
+8. Rojat kufitare mund të urdhërojnë inspektimin e hapësirave të tjera në brendësi të trenit dhe vagonëve, nëse nevojitet edhe me ndihmën e kontrollorit të trenit, për t’u siguruar, që personat apo sendet që duhet t’u nënshtrohen verifikimeve kufitare, të mos jenë fshehur aty.
+9. Kur ka arsye për të besuar se në tren janë fshehur persona që janë në kërkim ose që dyshohen se kanë kryer një vepër penale apo shtetas të huaj, që synojnë të hyjnë në mënyrë të paligjshme, rojat kufitare, nëse nuk kanë mundësi të veprojnë, për shkak të mungesës së juridiksionit, në zbatim të legjislacionit kombëtar, njoftojnë punonjësit e shtetit që kanë kompetencën për veprim.

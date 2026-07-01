@@ -1,0 +1,3 @@
+# Neni 4
+Procedurat e verifikimit kufitar në situata krize, gjendje lufte ose aktivizimi të masave të reagimit të NATO-s
+Në rastet e shpalljes së gjendjes së krizës, gjendjes së jashtëzakonshme apo gjendjes së luftës, si dhe në kuadër të zbatimit të masave të reagimit ndaj krizave të NATO-s (NATO Response Measures - NRM) autoritetet përgjegjëse për kontrollin kufitar zbatojnë procedura të përshpejtuara, minimale ose, sipas rastit, përjashtime nga procedurat e verifikimit kufitar për personelin, mjetet, pajisjet dhe asetet e forcave të NATO-s dhe të shteteve aleate, në përputhje me detyrimet, që rrjedhin nga marrëveshja e Atlantikut të Veriut, marrëveshjet ndërkombëtare në fuqi dhe urdhrat operacionalë të autoriteteve kompetente.
