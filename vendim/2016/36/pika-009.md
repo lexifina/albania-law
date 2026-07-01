@@ -1,1 +1,0 @@
-9. Në zbatimin e përgjegjësive të parashikuara në pikën 6 të këtij vendimi, kryeinspektori nxjerr urdhra dhe udhëzime të detyrueshme për veprimtarinë e strukturave të ISHMT-së në fushën e inspektimit që ai mbulon sipas legjislacionit në fuqi.

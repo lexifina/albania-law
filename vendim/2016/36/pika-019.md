@@ -1,1 +1,0 @@
-19. ISHMT-ja harton dhe miraton, gjithashtu, raportin vjetor të inspektimit, i cili i paraqitet ministrit përgjegjës për tregtinë dhe Inspektoratit Qendror brenda datës 15 shkurt të vitit pasardhës së bashku me raportin e realizimit të objektivave vjetorë dhe treguesit vjetorë të efektivitetit e të cilësisë së inspektimit.

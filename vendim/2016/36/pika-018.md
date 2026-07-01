@@ -1,1 +1,0 @@
-18. Objektivat vjetorë dhe afatmesëm strategjikë të ISHMT-së dhe treguesit vjetorë specifikë të efektivitetit të cilësisë të veprimtarisë të inspektimit dhe punës të ISHMT-së paraqiten për miratim, brenda afatit të parashikuar në pikën 15, të këtij vendimi.
