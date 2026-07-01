@@ -1,1 +1,0 @@
-11. Për të gjitha rastet, regjistrimi në sistem i të miturit kryhet duke pasqyruar në rubrikën “shënime” numrin rendor dhe datën e deklaratës noteriale, gjeneralitetet e personit shoqërues, gjeneralitetet e noterit që ka nënshkruar deklaratën noteriale, kohën e qëndrimit dhe destinacionin, destinacionet e udhëtimit apo çdo dokument që i shërben këtij verifikimi.

@@ -1,1 +1,0 @@
-12. Një kopje e deklaratës noteriale, e cila duhet të jetë e përpiluar në dy gjuhë, shqip dhe anglisht, kur kjo deklaratë është nënshkruar jashtë territorit shqiptar administrohet për efekte kontrolli dhe verifikimi, nga strukturat përgjegjëse të pikës së kalimit kufitar.

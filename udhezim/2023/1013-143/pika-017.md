@@ -1,1 +1,0 @@
-17. Kur ka arsye serioze për të dyshuar se i mituri mund të jetë shkëputur në mënyrë të paligjshme nga kujdestaria e personit që ushtron ligjërisht përgjegjësinë prindërore apo nga kujdestari i tij, roja kufitare kryen edhe verifikime të mëtejshme, duke vlerësuar e zbuluar mospërputhjet apo kontradiktat në informacionin e dhënë.

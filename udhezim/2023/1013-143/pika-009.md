@@ -1,1 +1,0 @@
-9. I mituri nuk lejohet të udhëtojë jashtë territorit shqiptar, nëse ndaj tij ekziston një vendim gjyqësor i formës së prerë, që e ndalon të udhëtojë dhe me të cilin janë njohur strukturat përgjegjëse të kalimit kufitar.
