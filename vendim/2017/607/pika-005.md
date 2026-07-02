@@ -1,2 +1,2 @@
-5. Në katin e dytë (2), mjedisi me sipërfaqe 700 (shtatëqind) m2 t’i jepet në përdorim për një afat të
-pacaktuar Autoritetit Shtetëror për Informacionin Gjeohapësinor (ASIG) dhe Agjencisë Kombëtare të Kërkimit Shkencor dhe Inovacionit (AKKSHI), për ushtrimin e veprimtarisë së tij administrative.
+5. Në katin e dytë (2), mjedisi me sipërfaqe 700 (shtatëqind) m2 t’i jepet në përdorim pa shpërblim, për një afat të pacaktuar, shoqërisë “Albanian Digital Solution” sh.a., për ushtrimin e veprimtarisë administrative, sipas planimetrisë në shtojcën 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+5/1. Agjencia Kombëtare e Shoqërisë së Informacionit dhe shoqëria “Albanian Digital Solution” sh.a. të lidhin marrëveshje për kushtet e përdorimit të mjediseve të përcaktuara në pikën 5 të këtij vendimi.
