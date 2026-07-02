@@ -1,1 +1,0 @@
-27. Nëpunësit ekzistues të përcaktuar sipas pikës 24 të këtij vendimi, që nuk mund të transferohet në ISHPSHSH, mbeten në institucionet përkatëse, të cilat riorganizohen brenda një periudhe 2-mujore nga hyrja në fuqi e këtij vendimi.

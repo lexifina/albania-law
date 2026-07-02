@@ -1,1 +1,0 @@
-26. Komisioni ad hoc sipas pikës 25 të këtij vendimi, përbëhet nga dy përfaqësues të Departamentit të Administratës Publike, dy përfaqësues të Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta, një përfaqësues nga Inspektorati Qendror dhe mbështetet në punën e tij nga njësia përgjegjëse për shërbimet mbështetëse në këtë ministri.

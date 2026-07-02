@@ -1,1 +1,0 @@
-22. Ngarkohet ministri përgjegjës për punën dhe çështjet sociale që, brenda 1 (një) muaji nga hyrja në fuqi e këtij vendimi, të marrë masat për realizimin e emërimit të kryeinspektorit të ISHPSHSH-së dhe përgatitjen e strukturës e të organikës së ISHPSHSH-së, sipas akteve ligjore dhe nënligjore në fuqi.

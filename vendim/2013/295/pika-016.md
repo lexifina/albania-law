@@ -1,1 +1,0 @@
-16. Kryeinspektori rajonal i raporton dhe i jep llogari drejtpërdrejt kryeinspektorit të ISHPSHSH-së, përveçse kur ky i fundit ka përcaktuar shprehimisht, me urdhër, një njësi tjetër raportimi pranë ISHPSHSH-së në nivel qendror.

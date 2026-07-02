@@ -1,1 +1,0 @@
-23. Kryeinspektori i ISHPSHSH-së, mbështetur nga njësitë përgjegjëse për shërbimet mbështetëse të Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta dhe në përputhje me kërkesat specifike për arsimin e inspektorëve, të miratuara nga Inspektorati Qendror, miraton kërkesat specifike për çdo vend pune në ISHPSHSH.
