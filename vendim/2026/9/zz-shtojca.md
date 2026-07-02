@@ -107,3 +107,4 @@ Parashikimet e të ardhurave sipas zërave të buxhetit të konsoliduar, si dhe 
 Lidhja nr. 1 - Treguesit kryesorë makroekonomikë
 Lidhja nr. 2/1 - Treguesit fiskalë sipas buxhetit të konsoliduar (në milionë lekë)
 Lidhja nr. 2/2 - Treguesit fiskalë sipas buxhetit të konsoliduar (në përqindje të PBB-së)
+Ndryshuar me vendimin nr. 516, datë 30.6.2026)
