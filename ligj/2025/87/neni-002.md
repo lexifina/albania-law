@@ -2,8 +2,8 @@
 Buxheti i shtetit
 Buxheti i shtetit për vitin 2026 është:
 Të ardhurat
-581 159 milionë lekë;
+583 280 milionë lekë;
 Shpenzimet
-644 866 milionë lekë;
+646 987 milionë lekë;
 Deficiti
 63 707 milionë lekë.

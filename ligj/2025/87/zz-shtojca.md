@@ -450,14 +450,20 @@ Si përqindje ndaj totalit të qarkut. Reflekton nevojën për shërbime publike
 20
 AKMC / MF (në bazë të realizimit të buxhetit vjetor 2025)
 Përllogaritja e të dhënave sipas çdo kriteri bëhet nga MM/AKMC mbi të dhënat e INSTAT-it dhe vendimit të Këshillit të Ministrave nr. 168, datë 24.03.2023, “Për miratimin e vlerësimit të riskut nga fatkeqësitë në nivel qendror”. Për kriterin e katërt të fazës së dytë “Performanca në përdorimin e buxhetit”, që është raporti i realizimit të buxhetit të vitit 2025 për çdo bashki, merren të dhënat nga Ministria e Financave brenda muajit shkurt 2026.
-Tab. 1
-BUXHETI 2026 SIPAS MINISTRIVE TË LINJËS DHE INSTITUCIONEVE BUXHETORE
+ANEKSI 11
+Fondi Shqipar i Zhvillimit
+Fondi prej 3 000 000 000 (tre miliardë) lekë në buxhetin e Fondit Shqiptar të Zhvillimit, përdoret sipas përcaktimeve mëposhtë:
+a) Në masën 2 000 000 000 (dy miliardë) lekë për blerjen e makinerive, mjeteve, pajisjeve, teknologjive dhe infrastrukturën e nevojshme, në funksion të mbështetjes së njësive të vetëqeverisjes vendore me logjistikën përkatëse për kryerjen e shërbimeve rajonale e vendore, për mirëmbajtjen e infrastrukturës së rrugëve rurale, hapësirave publike, transportin publik urban dhe logjistikën bashkiake, menaxhimin e flotës, ndërhyrjet në emergjenca, pastrim gjelbërim, kanale kullues, etj.
+b) Në masën 1 000 000 000 (një miliardë) lekë për modernizimin e sistemit të transportit publik urban, në mbështetje të pajisjes së njësive të vetëqeverisjes vendore me mjete transporti elektrike.
+c) Pajisjet, makineritë, logjistika dhe infrastruktura përkatëse e siguruar nga FSHZH sipas pikave a) dhe b) mësipër, shërbejnë si pjesmarrje në kapitalin e operatorit përkatës, përgjegjës për shërbimet dhe logjistikën bashkiake.
+TABELA 1 - SHPENZIMET 2026 SIPAS MINISTRIVE TË LINJËS DHE INSTITUCIONEVE BUXHETORE (në 000/LEK)
+Viti 2026
 Kodi
-Emërtimi i institucionit/programit
+Emërtimi i institucionit/Programit
 Totali i shp. korrente
 Shpenzimet kapitale
 Totali i shpenzimeve buxhetore
-Financim i Brendshëm
+Financim i brendshëm
 Financimi i huaj
 Totali i shp. kapitale
 1
@@ -476,25 +482,25 @@ Veprimtaria e Presidentit
 595,080
 2
 Kuvendi
-1,989,667
+1,993,167
 132,000
 0
 132,000
-2,121,667
+2,125,167
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 779,209
 132,000
 0
 132,000
 911,209
 01120
-Veprimtaria Ligjvënëse
-1,210,458
+Veprimtaria ligjvënëse
+1,213,958
 0
 0
 0
-1,210,458
+1,213,958
 3
 Kryeministria
 1,107,900
@@ -503,7 +509,7 @@ Kryeministria
 150,000
 1,257,900
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 1,107,900
 150,000
 0
@@ -511,67 +517,67 @@ Planifikimi, Menaxhimi dhe Administrimi
 1,257,900
 4
 Ministria e Ekonomisë dhe Inovacionit
-39,302,949
-1,871,960
+36,954,949
+2,061,735
 533,000
-2,404,960
-41,707,909
+2,594,735
+39,549,684
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 529,048
-40,000
+132,800
 0
-40,000
-569,048
+132,800
+661,848
 01150
 Mbështetje për Inovacionin dhe teknologjinë
-561,623
-17,000
+861,623
+21,000
 0
-17,000
-578,623
+21,000
+882,623
 04130
 Mbështetje për Zhvillim Ekonomik
-467,155
-48,170
-3,000
-51,170
-518,325
+596,855
+50,870
+73,000
+123,870
+720,725
 04160
-Mbështetje për Mbikq. e Tregut, Infrast. e Ciles. dhe Pron. Industr.
-412,922
+Mbështetje për mbikëq. e tregut, infrast. e cilës. dhe pron. industr.
+436,022
 18,000
 0
 18,000
-430,922
+454,022
 10220
-Sigurimi Shoqëror
-28,273,670
+Sigurimi shoqëror
+25,417,670
 0
 0
 0
-28,273,670
+25,417,670
 10550
-Tregu i Punës
+Tregu i punës
 4,593,547
 231,000
 50,000
 281,000
 4,874,547
 04170
-Inspektimi ne Pune
-282,984
-15,000
+Inspektimi në Punë
+301,484
+20,000
 0
-15,000
-297,984
+20,000
+321,484
 09240
 Arsimi i Mesëm (profesional)
-3,437,000
-1,002,790
-480,000
-1,482,790
-4,919,790
+3,473,700
+1,088,065
+410,000
+1,498,065
+4,971,765
 06190
 Strehimi
 745,000
@@ -581,13 +587,13 @@ Strehimi
 1,245,000
 5
 Ministria e Bujqësisë dhe Zhvillimit Rural
-10,957,854
-3,884,841
-1,407,746
-5,292,587
-16,250,441
+11,075,204
+4,049,434
+1,276,646
+5,326,080
+16,401,284
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 594,316
 4,000
 0
@@ -595,55 +601,55 @@ Planifikimi, Menaxhimi dhe Administrimi
 598,316
 04220
 Siguria ushqimore dhe mbrojtja e konsumatorit
-2,419,540
-359,000
+2,501,690
+174,000
 116,000
-475,000
-2,894,540
+290,000
+2,791,690
 04240
-Menaxhimi i infrastrukturës se kullimit dhe ujitjes
-1,076,576
-2,565,000
+Menaxhimi i infrastrukturës së kullimit dhe ujitjes
+1,114,576
+2,885,793
 0
-2,565,000
-3,641,576
+2,885,793
+4,000,369
 04250
-Zhvillimi Rural duke mbesht. Prodh. Bujq, Blek, Agroind dhe Market.
-5,836,509
-816,841
-1,038,323
-1,855,164
-7,691,673
+Zhvillimi Rural duke mbësht. prodh. bujq., blek., agroind. dhe market.
+5,831,909
+838,841
+907,223
+1,746,064
+7,577,973
 04860
-Këshillimi dhe Informacioni Bujqësor
-778,849
-40,000
+Këshillimi dhe informacioni bujqësor
+792,199
+46,800
 0
-40,000
-818,849
+46,800
+838,999
 05470
-Menaxhimi qëndrueshëm i tokës bujqësore
+Menaxhimi i qëndrueshëm i tokës bujqësore
 25,000
 0
 0
 0
 25,000
 04230
-Mbështetje për Peshkimin
-227,064
+Mbështetje për peshkimin
+215,514
 100,000
 253,423
 353,423
-580,487
+568,937
 6
 Ministria e Infrastrukturës dhe Energjisë
 6,975,807
-56,208,547
-14,071,024
-70,279,571
-77,255,378
+41,386,262
+13,121,024
+54,507,286
+61,483,093
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 756,544
 12,000
 0
@@ -657,21 +663,21 @@ Transporti rrugor
 31,406,089
 35,387,011
 04540
-Transporti Detar
+Transporti detar
 187,130
-14,795,000
+50,000
 10,000
-14,805,000
-14,992,130
+60,000
+247,130
 04550
-Transporti Hekurudhor
+Transporti hekurudhor
 538,600
 1,300,000
 4,599,202
 5,899,202
 6,437,802
 04560
-Transporti Ajror
+Transporti ajror
 26,650
 2,000
 0
@@ -680,131 +686,131 @@ Transporti Ajror
 04610
 Mbështetje për rrjetet e komunikacionit
 0
-50,000
+5,000
 20,000
-70,000
-70,000
+25,000
+25,000
 06370
-Furnizimi me Ujë dhe Kanalizime
+Furnizimi me ujë dhe kanalizime
 500,370
 11,821,213
-2,512,914
-14,334,127
-14,834,497
+2,562,914
+14,384,127
+14,884,497
 04320
-Mbështetje për Energjinë
+Mbështetje për energjinë
 123,820
 261,818
-3,200,000
-3,461,818
-3,585,638
+2,200,000
+2,461,818
+2,585,638
 04430
-Mbështetje për Burimet Natyrore
+Mbështetje për burimet natyrore
 365,005
 97,000
 30,585
 127,585
 492,590
 04440
-Mbështetje për Industrinë
+Mbështetje për industrinë
 394,433
 57,750
 0
 57,750
 452,183
 06180
-Planifikimi Urban
+Planifikimi urban
 102,333
-104,000
+71,715
 0
-104,000
-206,333
+71,715
+174,048
 10
 Ministria e Financave
-9,656,567
-1,802,922
+9,551,567
+2,334,922
 604,000
-2,406,922
-12,063,489
+2,938,922
+12,490,489
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-1,084,330
+Planifikimi, menaxhimi dhe administrimi
+1,004,330
 44,193
 400,000
 444,193
-1,528,523
+1,448,523
 01120
-Menaxhimi i Shpenzimeve Publike
-518,940
+Menaxhimi i shpenzimeve publike
+513,940
 0
 0
 0
-518,940
+513,940
 01130
-Ekzekutimi i Pagesave te Ndryshme
+Ekzekutimi i pagesave të ndryshme
 567,100
-1,200,000
+1,500,000
 200,000
-1,400,000
-1,967,100
+1,700,000
+2,267,100
 01140
-Menaxhimi i te Ardhurave Tatimore
+Menaxhimi i të ardhurave tatimore
 2,875,334
 233,509
 0
 233,509
 3,108,843
 01150
-Menaxhimi i te Ardhurave Doganore
-4,406,573
-323,220
+Menaxhimi i të ardhurave doganore
+4,386,573
+535,220
 4,000
-327,220
-4,733,793
+539,220
+4,925,793
 01160
-Lufta kundër Transaksioneve Financiare Jo-Ligjore
+Lufta kundër transaksioneve financiare joligjore
 204,290
-2,000
+22,000
 0
-2,000
-206,290
+22,000
+226,290
 11
 Ministria e Arsimit
-59,441,299
-4,824,000
+59,491,299
+5,074,000
 600,000
-5,424,000
-64,865,299
+5,674,000
+65,165,299
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 1,099,680
 45,000
 0
 45,000
 1,144,680
 09120
-Arsimi Baze (përfshire parashkollorin)
-35,146,327
-1,787,000
+Arsimi bazë (përfshirë parashkollorin)
+35,546,327
+1,987,000
 0
-1,787,000
-36,933,327
+1,987,000
+37,533,327
 09230
 Arsimi i Mesëm (i përgjithshëm)
-10,423,500
+9,973,500
 1,762,000
 0
 1,762,000
-12,185,500
+11,735,500
 09450
 Arsimi Universitar
-11,650,000
-880,000
+11,750,000
+930,000
 300,000
-1,180,000
-12,830,000
+1,230,000
+12,980,000
 09770
-Fonde për Shkencën
+Fonde për shkencën
 1,121,792
 350,000
 300,000
@@ -812,62 +818,62 @@ Fonde për Shkencën
 1,771,792
 12
 Ministria e Turizmit, Kulturës dhe Sportit
-4,729,795
-2,243,155
-420,000
-2,663,155
-7,392,950
+4,927,958
+2,483,855
+425,000
+2,908,855
+7,836,813
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-386,800
+Planifikimi, menaxhimi dhe administrimi
+486,800
 10,000
 0
 10,000
-396,800
+496,800
 08220
-Trashëgimia Kulturore dhe Muzetë
-880,878
-175,000
-100,000
-275,000
-1,155,878
-08230
-Arti dhe Kultura
-1,582,563
-1,918,155
+Trashëgimia kulturore dhe muzetë
+901,553
+496,000
 300,000
-2,218,155
-3,800,718
+796,000
+1,697,553
+08230
+Arti dhe kultura
+1,609,051
+1,918,155
+100,000
+2,018,155
+3,627,206
 08140
-Zhvillimi i Sportit
-814,600
+Zhvillimi i sportit
+856,600
 0
 20,000
 20,000
-834,600
+876,600
 04760
-Zhvillimi i Turizmit
-829,100
-90,000
+Zhvillimi i turizmit
+838,100
+9,700
 0
-90,000
-919,100
+9,700
+847,800
 08610
-Mbështetje për Rininë dhe Fëmijët
+Mbështetje për RININË DHE FËMIJËT
 235,854
 50,000
-0
-50,000
-285,854
+5,000
+55,000
+290,854
 13
 Ministria e Shëndetësisë dhe Mirëqenies Sociale
-78,226,605
-3,546,461
-735,500
-4,281,961
-82,508,566
+81,496,605
+4,546,461
+435,500
+4,981,961
+86,478,566
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 437,013
 89,200
 0
@@ -875,53 +881,53 @@ Planifikimi, Menaxhimi dhe Administrimi
 526,213
 07220
 Shërbimet e Kujdesit Parësor
-3,773,925
-330,253
-158,000
-488,253
-4,262,178
+3,571,925
+213,253
+108,000
+321,253
+3,893,178
 07330
 Shërbimet e Kujdesit Dytësor
-40,036,439
-2,905,860
-547,500
-3,453,360
-43,489,799
+41,932,439
+3,972,860
+327,500
+4,300,360
+46,232,799
 07450
 Shërbimet e Shëndetit Publik
-4,865,787
-65,908
+4,796,787
+115,908
 0
-65,908
-4,931,695
+115,908
+4,912,695
 10430
-Përkujdesi Social
-27,564,590
+Përkujdesja sociale
+29,109,590
 155,240
-30,000
-185,240
-27,749,830
+0
+155,240
+29,264,830
 01190
-Rehabilitimi i të Përndjekurve Politik
-1,548,851
+Rehabilitimi i të përndjekurve politikë
+1,648,851
 0
 0
 0
-1,548,851
+1,648,851
 14
 Ministria e Drejtësisë
-13,679,560
-1,264,287
-20,000
-1,284,287
-14,963,847
+13,733,960
+1,348,987
+400,000
+1,748,987
+15,482,947
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-650,636
-638,300
+Planifikimi, menaxhimi dhe administrimi
+708,786
+643,000
 0
-638,300
-1,288,936
+643,000
+1,351,786
 03310
 Ndihma Juridike
 130,520
@@ -931,41 +937,41 @@ Ndihma Juridike
 132,520
 01120
 Publikimet Zyrtare
-70,984
+64,984
 5,000
 0
 5,000
-75,984
+69,984
 01130
 Mjekësia Ligjore
-116,080
-51,000
+123,980
+131,000
 0
-51,000
-167,080
+131,000
+254,980
 03440
 Sistemi i Burgjeve
-9,218,040
+9,243,040
 518,287
-20,000
-538,287
-9,756,327
+400,000
+918,287
+10,161,327
 03350
 Shërbimi i Përmbarimit Gjyqësor
-397,696
+361,696
 40,000
 0
 40,000
-437,696
+401,696
 01160
 Shërbimet për çështjet e birësimeve
-19,110
+24,460
 200
 0
 200
-19,310
+24,660
 01180
-Shërbimi i Kthimit dhe Kompensimit te Pronave
+Shërbimi i Kthimit dhe i Kompensimit të Pronave
 2,828,406
 3,000
 0
@@ -980,27 +986,27 @@ Shërbimi i Provës
 254,588
 15
 Ministria e Evropës dhe Punëve të Jashtme
-3,630,300
-59,940
+3,727,300
+37,100
 0
-59,940
-3,690,240
+37,100
+3,764,400
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-354,490
-59,940
+Planifikimi, menaxhimi dhe administrimi
+439,490
+17,100
 0
-59,940
-414,430
+17,100
+456,590
 01120
 Mbështetje diplomatike jashtë shtetit
-2,943,230
+2,955,230
+20,000
 0
-0
-0
-2,943,230
+20,000
+2,975,230
 01130
-Aktiviteti diplomatik dhe konsullor i MPJ
+Aktiviteti diplomatik dhe konsullor i MPJ-së
 332,580
 0
 0
@@ -1008,25 +1014,25 @@ Aktiviteti diplomatik dhe konsullor i MPJ
 332,580
 16
 Ministria e Punëve të Brendshme
-30,836,546
+31,537,546
 2,563,735
-2,300,000
-4,863,735
-35,700,281
+2,303,000
+4,866,735
+36,404,281
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-1,698,495
+Planifikimi, menaxhimi dhe administrimi
+1,755,495
 127,984
-0
-127,984
-1,826,479
+3,000
+130,984
+1,886,479
 03140
 Policia e Shtetit
-25,116,332
+25,494,332
 2,200,751
 2,300,000
 4,500,751
-29,617,083
+29,995,083
 03150
 Garda e Republikës
 2,668,900
@@ -1035,70 +1041,70 @@ Garda e Republikës
 100,000
 2,768,900
 01160
-Prefekturat dhe Funksionet e Deleguara te Pushtetit Vendor
-695,977
+Prefekturat dhe funksionet e deleguara të pushtetit vendor
+703,977
 5,000
 0
 5,000
-700,977
+708,977
 01170
-Shërbimi i Gjendjes Civile
-656,842
+Shërbimi i gjendjes civile
+914,842
 130,000
 0
 130,000
-786,842
+1,044,842
 17
 Ministria e Mbrojtjes
-29,052,510
-16,884,000
+32,207,510
+24,014,450
 13,012,050
-29,896,050
-58,948,560
+37,026,500
+69,234,010
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-1,436,200
+Planifikimi, menaxhimi dhe administrimi
+2,541,200
 80,000
 0
 80,000
-1,516,200
+2,621,200
 02120
-Forcat e Luftimit
-9,730,374
-10,661,500
+Forcat e luftimit
+10,900,374
+18,499,431
 11,000,000
-21,661,500
-31,391,874
+29,499,431
+40,399,805
 09430
-Arsimi Ushtarak
+Arsimi ushtarak
 900,900
-857,000
+103,000
 0
-857,000
-1,757,900
+103,000
+1,003,900
 02150
-Mbështetja e Luftimit
-8,891,036
-2,265,500
+Mbështetja e luftimit
+9,721,036
+2,312,019
 0
-2,265,500
-11,156,536
+2,312,019
+12,033,055
 07340
 Mbështetje për Shëndetësinë
-1,634,800
+1,684,800
 500,000
 0
 500,000
-2,134,800
+2,184,800
 10270
-Mbështetje Sociale për Ushtarakët
+Mbështetje sociale për ushtarakët
 5,200,000
 0
 0
 0
 5,200,000
 10910
-Emergjencat Civile
+Emergjencat civile
 1,259,200
 2,520,000
 2,012,050
@@ -1106,34 +1112,34 @@ Emergjencat Civile
 5,791,250
 18
 Shërbimi Informativ Shtetëror
-2,796,100
-200,000
+2,861,100
+256,459
 0
-200,000
-2,996,100
+256,459
+3,117,559
 03520
 Veprimtaria Informative Shtetërore
-2,796,100
-200,000
+2,861,100
+256,459
 0
-200,000
-2,996,100
+256,459
+3,117,559
 19
-Drejtoria e Radio-Televizionit
+Drejtoria e Radiotelevizionit
 840,000
 50,000
 0
 50,000
 890,000
 08310
-Shërbimet për shqiptaret jashtë kufirit
+Shërbimet për shqiptarët jashtë kufirit
 319,000
 0
 0
 0
 319,000
 08520
-Projekte teknike për futjen e teknologjive te reja
+Projekte teknike për futjen e teknologjive të reja
 200,000
 50,000
 0
@@ -1147,7 +1153,7 @@ Prodhime filmike ose veprimtari artistike mbarëkombëtare
 0
 126,000
 08340
-Orkestra simfonike e RTSH dhe Kinematografisë
+Orkestra simfonike e RTSH-së dhe Kinematografisë
 195,000
 0
 0
@@ -1161,7 +1167,7 @@ Drejtoria e Përgjithshme e Arkivave
 170,000
 535,200
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 365,200
 170,000
 0
@@ -1169,67 +1175,67 @@ Planifikimi, Menaxhimi dhe Administrimi
 535,200
 22
 Akademia e Shkencës
-582,680
-20,000
+566,680
+33,070
 0
-20,000
-602,680
+33,070
+599,750
 01520
 Veprimtaria Akademike
-582,680
-20,000
+566,680
+33,070
 0
-20,000
-602,680
+33,070
+599,750
 24
-Kontrolli Larte i Shtetit
-724,000
+Kontrolli i Lartë i Shtetit
+714,000
 31,600
 0
 31,600
-755,600
+745,600
 01120
-Veprimtaria Audituese e KLSH
-724,000
+Veprimtaria Audituese e KLSH-së
+714,000
 31,600
 0
 31,600
-755,600
+745,600
 26
 Ministria e Mjedisit
-1,513,060
-1,136,347
+1,487,560
+1,147,525
 590,000
-1,726,347
-3,239,407
+1,737,525
+3,225,085
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-333,627
+Planifikimi, menaxhimi dhe administrimi
+321,627
 3,000
 0
 3,000
-336,627
+324,627
 05320
-Programe për mbrojtjen e Mjedisit
-487,870
+Programe për mbrojtjen e mjedisit
+482,570
 190,000
 390,000
 580,000
-1,067,870
+1,062,570
 04260
-Administrimi i Pyjeve
-614,450
-613,600
+Administrimi i pyjeve
+618,550
+624,778
 0
-613,600
-1,228,050
+624,778
+1,243,328
 06220
-Menaxhimi i Mbetjeve Urbane
-77,113
+Menaxhimi i mbetjeve urbane
+64,813
 329,747
 200,000
 529,747
-606,860
+594,560
 28
 Prokuroria e Përgjithshme
 3,263,800
@@ -1238,21 +1244,21 @@ Prokuroria e Përgjithshme
 130,000
 3,393,800
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 3,263,800
 130,000
 0
 130,000
 3,393,800
 29
-Këshilli I Lartë I Gjyqësor
+Këshilli i Lartë Gjyqësor
 5,912,009
-915,000
+929,600
 0
-915,000
-6,827,009
+929,600
+6,841,609
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 474,021
 15,000
 0
@@ -1266,77 +1272,77 @@ Mbështetje për teknologjinë e sistemit të drejtësisë
 0
 20,828
 03310
-Buxheti Gjyqësor
+Buxheti gjyqësor
 5,417,160
-900,000
+914,600
 0
-900,000
-6,317,160
+914,600
+6,331,760
 30
 Gjykata Kushtetuese
-252,300
+262,000
 7,000
 0
 7,000
-259,300
+269,000
 03320
 Veprimtaria Gjyqësore Kushtetuese
-252,300
+262,000
 7,000
 0
 7,000
-259,300
+269,000
 31
 Agjencia Telegrafike Shqiptare
-91,469
-2,000
+98,169
+5,000
 0
-2,000
-93,469
+5,000
+103,169
 08320
-Veprimtaria Telegrafike e ATSH-se
-91,469
-2,000
+Veprimtaria telegrafike e ATSH-së
+98,169
+5,000
 0
-2,000
-93,469
+5,000
+103,169
 35
-Këshilli I Lartë I Prokurorisë
+Këshilli i Lartë i Prokurorisë
 228,483
 2,000
 0
 2,000
 230,483
 01110
-Veprimtaria e KLP
+Veprimtaria e KLP-së
 228,483
 2,000
 0
 2,000
 230,483
 40
-Partitë Politike
+Partitë politike
 355,800
 0
 0
 0
 355,800
 01110
-Mbështetje për Partitë Politike
+Mbështetje për partitë politike
 345,600
 0
 0
 0
 345,600
 01120
-Mbështetje për Shoqatat
+Mbështetje për shoqatat
 8,000
 0
 0
 0
 8,000
 01130
-Mbështetje për Organizatat e Veteraneve me Status
+Mbështetje për organizatat e veteraneve me status
 2,200
 0
 0
@@ -1345,26 +1351,26 @@ Mbështetje për Organizatat e Veteraneve me Status
 41
 Struktura e Posaçme kundër Korrupsionit dhe Krimit të Organizuar
 1,896,613
-220,000
+420,000
 0
-220,000
-2,116,613
+420,000
+2,316,613
 03390
-Veprimtaria e SPAK
+Veprimtaria e SPAK-ut
 1,896,613
-220,000
+420,000
 0
-220,000
-2,116,613
+420,000
+2,316,613
 50
-Instituti Statistikës
+Instituti i Statistikës
 1,152,602
 152,500
 100,000
 252,500
 1,405,102
 01320
-Veprimtaria Statistikore
+Veprimtaria statistikore
 1,152,602
 152,500
 100,000
@@ -1378,7 +1384,7 @@ Shkolla e Magjistraturës
 29,840
 436,611
 09820
-Veprimtaria Arsimore
+Veprimtaria arsimore
 406,771
 29,840
 0
@@ -1387,45 +1393,45 @@ Veprimtaria Arsimore
 56
 Fondi Shqiptar i Zhvillimit
 0
-19,744,326
-5,063,000
-24,807,326
-24,807,326
+26,244,326
+6,063,000
+32,307,326
+32,307,326
 06210
 Programe Zhvillimi
 0
-9,832,882
-5,063,000
-14,895,882
-14,895,882
+14,332,882
+6,063,000
+20,395,882
+20,395,882
 06220
-Infrastruktura Vendore dhe Rajonale
+Infrastruktura vendore dhe rajonale
 0
-7,411,444
+8,811,444
 0
-7,411,444
-7,411,444
+8,811,444
+8,811,444
 04230
 Programi “100 Fshatrat”
 0
-2,500,000
+3,100,000
 0
-2,500,000
-2,500,000
+3,100,000
+3,100,000
 57
 Qendra Kombëtare e Kinematografisë
-178,748
+185,948
 3,000
 0
 3,000
-181,748
+188,948
 08220
 Mbështetja e veprimtarisë kinematografike
-178,748
+185,948
 3,000
 0
 3,000
-181,748
+188,948
 63
 Institucionet e sistemit të drejtësisë
 560,010
@@ -1434,7 +1440,7 @@ Institucionet e sistemit të drejtësisë
 128,500
 688,510
 03320
-Veprimtaria e Inspektoratit të Larte të Drejtësisë
+Veprimtaria e Inspektoratit të Lartë të Drejtësisë
 317,700
 128,500
 0
@@ -1469,7 +1475,7 @@ Komisioneri për Mbikëqyrjen e Shërbimit Civil
 2,000
 101,281
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 99,281
 2,000
 0
@@ -1477,18 +1483,18 @@ Planifikimi, Menaxhimi dhe Administrimi
 101,281
 73
 Komisioni Qendror i Zgjedhjeve
-421,000
-52,700
+519,500
+113,900
 11,900
-64,600
-485,600
+125,800
+645,300
 01610
-Planifikimi, Menaxhimi dhe Administrimi
-421,000
-52,700
+Planifikimi, menaxhimi dhe administrimi
+519,500
+113,900
 0
-52,700
-473,700
+113,900
+633,400
 01620
 Zgjedhjet e përgjithshme dhe lokale
 0
@@ -1498,32 +1504,32 @@ Zgjedhjet e përgjithshme dhe lokale
 11,900
 76
 Inspektorati i Lartë i Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave
-264,880
-53,000
+287,280
+73,000
 0
-53,000
-317,880
+73,000
+360,280
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-264,880
-53,000
+Planifikimi, menaxhimi dhe administrimi
+287,280
+73,000
 0
-53,000
-317,880
+73,000
+360,280
 77
 Autoriteti i Konkurrencës
-117,950
+123,950
 10,000
 0
 10,000
-127,950
+133,950
 04120
-Mbikëqyrja e tregut & Garantimi i konkurrencës
-117,950
+Mbikëqyrja e tregut dhe garantimi i konkurrencës
+123,950
 10,000
 0
 10,000
-127,950
+133,950
 82
 Këshilli Kombëtar i Kontabilitetit
 17,970
@@ -1532,21 +1538,21 @@ Këshilli Kombëtar i Kontabilitetit
 1,000
 18,970
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 17,970
 1,000
 0
 1,000
 18,970
 87
-Institucione te tjera Qeveritare
-14,519,087
-8,025,839
-743,780
-8,769,619
-23,288,706
+Institucione të tjera qeveritare
+14,758,487
+7,748,339
+747,280
+8,495,619
+23,254,106
 01320
-Shërbime Qeveritare
+Shërbime qeveritare
 400,000
 1,070,336
 0
@@ -1560,7 +1566,7 @@ Shërbimi i Prokurimit Publik
 1,000
 113,184
 05640
-Administrimi I ujërave
+Administrimi i ujërave
 148,933
 10,000
 93,000
@@ -1568,48 +1574,48 @@ Administrimi I ujërave
 251,933
 03310
 Shërbimi i Avokatisë Shtetërore
-347,164
+337,164
 46,700
 0
 46,700
-393,864
+383,864
 01150
 Shërbime të tjera
-1,377,804
-138,500
+1,554,804
+161,000
 80,780
-219,280
-1,597,084
+241,780
+1,796,584
 01140
 e-Qeverisja
-11,619,532
-6,733,103
+11,691,932
+6,433,103
 570,000
-7,303,103
-18,922,635
+7,003,103
+18,695,035
 01330
-Menaxhimi dhe Zhvillimi i Administratës Publike
+Menaxhimi dhe zhvillimi i administratës publike
 280,120
 25,200
-0
-25,200
-305,320
+3,500
+28,700
+308,820
 08480
-Mbështetje për Kultet Fetare
+Mbështetje për kultet fetare
 233,350
 1,000
 0
 1,000
 234,350
 88
-Mbështetje për Shoqërinë Civile
+Mbështetje për shoqërinë civile
 136,375
 1,000
 0
 1,000
 137,375
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 136,375
 1,000
 0
@@ -1617,27 +1623,27 @@ Planifikimi, Menaxhimi dhe Administrimi
 137,375
 89
 Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale
-172,400
-10,000
+178,400
+15,000
 0
-10,000
-182,400
+15,000
+193,400
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-172,400
-10,000
+Planifikimi, menaxhimi dhe administrimi
+178,400
+15,000
 0
-10,000
-182,400
+15,000
+193,400
 90
-Komisioni I Prokurimit Publik
+Komisioni i Prokurimit Publik
 123,698
 2,000
 0
 2,000
 125,698
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 123,698
 2,000
 0
@@ -1651,21 +1657,21 @@ Komisioneri për Mbrojtjen nga Diskriminimi
 4,400
 80,950
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 76,550
 4,400
 0
 4,400
 80,950
 92
-Instituti i Studimeve te Krimeve te Komunizmit
+Instituti i Studimeve të Krimeve të Komunizmit
 60,560
 1,000
 0
 1,000
 61,560
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 60,560
 1,000
 0
@@ -1679,28 +1685,28 @@ Autoriteti për të Drejtën e Informimit
 17,000
 196,450
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 179,450
 17,000
 0
 17,000
 196,450
 TOTALI
-327,448,444
-126,810,900
-40,212,000
-167,022,900
-494,471,344
-Tab. 1.1
-BUXHETI 2027 SIPAS MINISTRIVE TË LINJËS DHE INSTITUCIONEVE BUXHETORE
+333,051,257
+128,165,000
+40,222,400
+168,387,400
+501,438,657
+TABELA 1.1 - SHPENZIMET 2027 SIPAS MINISTRIVE TË LINJËS DHE INSTITUCIONEVE BUXHETORE (në 000/LEK)
+Viti 2027
 Kodi
-Emërtimi i institucionit/programit
+Emërtimi i institucionit /Programit
 Totali i shp. korrente
-Shpenzimet Kapitale
+Shpenzimet kapitale
 Totali i shpenzimeve buxhetore
 Financim i brendshëm
 Financimi i huaj
-Totali i shp. kapitale
+totali i shp. kapitale
 1
 Presidenca
 348,574
@@ -1712,6 +1718,7 @@ Presidenca
 Veprimtaria e Presidentit
 348,574
 106,000
+0
 106,000
 454,574
 2
@@ -1722,14 +1729,17 @@ Kuvendi
 48,000
 1,955,782
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 760,477
 48,000
+0
 48,000
 808,477
 01120
-Veprimtaria Ligjvënëse
+Veprimtaria ligjvënëse
 1,147,305
+0
+0
 0
 1,147,305
 3
@@ -1740,22 +1750,24 @@ Kryeministria
 50,000
 859,309
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 809,309
 50,000
+0
 50,000
 859,309
 4
 Ministria e Ekonomisë dhe Inovacionit
-39,637,109
+38,461,625
 1,283,960
 533,000
 1,816,960
-41,454,069
+40,278,585
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 535,022
 10,000
+0
 10,000
 545,022
 01150
@@ -1763,62 +1775,69 @@ Mbështetje për Inovacionin dhe teknologjinë
 562,196
 0
 0
+0
 562,196
 04130
 Mbështetje për Zhvillim Ekonomik
-467,729
+485,729
 30,170
 3,000
 33,170
-500,899
+518,899
 04160
-Mbështetje për Mbikq. e Tregut, Infrast. e Ciles. dhe Pron. Industr.
-413,699
+Mbështetje për mbikëq. e tregut, infrast. e cilës. dhe pron. industr.
+423,699
 12,000
+0
 12,000
-425,699
+435,699
 10220
 Sigurimi Shoqëror
-29,517,684
+28,058,200
 0
-29,517,684
+0
+0
+28,058,200
 10550
-Tregu i Punës
+Tregu i punës
 3,613,845
 88,000
 50,000
 138,000
 3,751,845
 04170
-Inspektimi ne Pune
-288,570
+Inspektimi në punë
+294,570
 2,000
+0
 2,000
-290,570
+296,570
 09240
-Arsimi i Mesëm (profesional)
-3,493,364
+Arsimi i mesëm (profesional)
+3,743,364
 641,790
 480,000
 1,121,790
-4,615,154
+4,865,154
 06190
 Strehimi
 745,000
 500,000
+0
 500,000
 1,245,000
 5
 Ministria e Bujqësisë dhe Zhvillimit Rural
 11,216,997
-3,361,365
+3,661,365
 1,977,539
-5,338,904
-16,555,901
+5,638,904
+16,855,901
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 595,288
 4,000
+0
 4,000
 599,288
 04220
@@ -1829,32 +1848,35 @@ Siguria ushqimore dhe mbrojtja e konsumatorit
 271,210
 2,724,875
 04240
-Menaxhimi i infrastrukturës se kullimit dhe ujitjes
+Menaxhimi i infrastrukturës së kullimit dhe ujitjes
 1,127,624
-2,240,000
-2,240,000
-3,367,624
+2,540,000
+0
+2,540,000
+3,667,624
 04250
-Zhvillimi Rural duke mbesht. Prodh. Bujq, Blek, Agroind dhe Market.
+Zhvillimi Rural duke mbësht. prodh. bujq., blek., agroind. dhe market.
 5,987,537
 806,863
 1,517,408
 2,324,271
 8,311,808
 04860
-Këshillimi dhe Informacioni Bujqësor
+Këshillimi dhe informacioni bujqësor
 780,411
 20,000
+0
 20,000
 800,411
 05470
-Menaxhimi qëndrueshëm i tokës bujqësore
+Menaxhimi i qëndrueshëm i tokës bujqësore
 25,000
+0
 0
 0
 25,000
 04230
-Mbështetje për Peshkimin
+Mbështetje për peshkimin
 247,472
 100,000
 379,423
@@ -1863,57 +1885,59 @@ Mbështetje për Peshkimin
 6
 Ministria e Infrastrukturës dhe Energjisë
 7,280,548
-55,374,258
-18,001,895
-73,376,153
-80,656,701
+51,773,076
+18,072,895
+69,845,971
+77,126,519
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 757,741
 11,000
+0
 11,000
 768,741
 04520
 Transporti rrugor
 4,281,854
-29,027,040
+29,127,040
 4,853,930
-33,880,970
-38,162,824
+33,980,970
+38,262,824
 04540
-Transporti Detar
+Transporti detar
 187,524
-14,838,116
+10,038,116
 10,000
-14,848,116
-15,035,640
+10,048,116
+10,235,640
 04550
-Transporti Hekurudhor
+Transporti hekurudhor
 538,671
 2,400,000
 7,092,202
 9,492,202
 10,030,873
 04560
-Transporti Ajror
+Transporti ajror
 26,690
 2,000
+0
 2,000
 28,690
 04610
 Mbështetje për rrjetet e komunikacionit
 0
-50,000
+10,000
 20,000
-70,000
-70,000
+30,000
+30,000
 06370
-Furnizimi me Ujë dhe Kanalizime
+Furnizimi me ujë dhe kanalizime
 500,603
-8,267,102
-3,012,914
-11,280,016
-11,780,619
+9,467,102
+3,083,914
+12,551,016
+13,051,619
 04320
 Mbështetje për Energjinë
 123,948
@@ -1922,24 +1946,26 @@ Mbështetje për Energjinë
 3,500,000
 3,623,948
 04430
-Mbështetje për Burimet Natyrore
+Mbështetje për burimet natyrore
 365,727
 97,000
 12,849
 109,849
 475,576
 04440
-Mbështetje për Industrinë
+Mbështetje për industrinë
 395,259
 78,000
+0
 78,000
 473,259
 06180
-Planifikimi Urban
+Planifikimi urban
 102,531
-104,000
-104,000
-206,531
+42,818
+0
+42,818
+145,349
 10
 Ministria e Financave
 9,722,342
@@ -1948,74 +1974,82 @@ Ministria e Financave
 2,973,301
 12,695,643
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 1,088,518
 145,547
 400,000
 545,547
 1,634,065
 01120
-Menaxhimi i Shpenzimeve Publike
+Menaxhimi i shpenzimeve publike
 521,959
+0
+0
 0
 521,959
 01130
-Ekzekutimi i Pagesave te Ndryshme
+Ekzekutimi i pagesave të ndryshme
 604,000
 2,200,000
+0
 2,200,000
 2,804,000
 01140
-Menaxhimi i te Ardhurave Tatimore
+Menaxhimi i të ardhurave tatimore
 2,885,233
 98,534
+0
 98,534
 2,983,767
 01150
-Menaxhimi i te Ardhurave Doganore
+Menaxhimi i të ardhurave doganore
 4,415,917
 123,220
 4,000
 127,220
 4,543,137
 01160
-Lufta kundër Transaksioneve Financiare Jo-Ligjore
+Lufta kundër transaksioneve financiare joligjore
 206,715
 2,000
+0
 2,000
 208,715
 11
 Ministria e Arsimit
-59,999,438
+60,399,438
 5,274,000
 600,000
 5,874,000
-65,873,438
+66,273,438
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 1,102,003
 45,000
+0
 45,000
 1,147,003
 09120
-Arsimi Baze (përfshirë parashkollorin)
-35,377,573
+Arsimi Baze (përfshire parashkollorin)
+35,577,573
 1,837,000
+0
 1,837,000
-37,214,573
+37,414,573
 09230
-Arsimi i Mesëm (i përgjithshëm)
-10,447,998
+Arsimi i mesëm (i përgjithshëm)
+10,547,998
 1,762,000
+0
 1,762,000
-12,209,998
+12,309,998
 09450
-Arsimi Universitar
-11,850,000
+Arsimi universitar
+11,950,000
 980,000
 300,000
 1,280,000
-13,130,000
+13,230,000
 09770
 Fonde për Shkencën
 1,221,864
@@ -2025,61 +2059,65 @@ Fonde për Shkencën
 2,171,864
 12
 Ministria e Turizmit, Kulturës dhe Sportit
-4,384,687
+4,464,687
 1,901,507
 420,000
 2,321,507
-6,706,194
+6,786,194
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-387,556
+Planifikimi, menaxhimi dhe administrimi
+407,556
 10,000
+0
 10,000
-397,556
+417,556
 08220
 Trashëgimia Kulturore dhe Muzetë
-906,977
+936,977
 172,500
-100,000
-272,500
-1,179,477
-08230
-Arti dhe Kultura
-1,609,966
-1,579,007
 300,000
-1,879,007
-3,488,973
+472,500
+1,409,477
+08230
+Arti dhe kultura
+1,639,966
+1,579,007
+100,000
+1,679,007
+3,318,973
 08140
-Zhvillimi i Sportit
+Zhvillimi i sportit
 414,711
 0
 20,000
 20,000
 434,711
 04760
-Zhvillimi i Turizmit
+Zhvillimi i turizmit
 829,511
 90,000
+0
 90,000
 919,511
 08610
-Mbështetje për Rininë dhe Fëmijët
+Mbështetje për rininë dhe fëmijët
 235,966
 50,000
+0
 50,000
 285,966
 13
 Ministria e Shëndetësisë dhe Mirëqenies Sociale
-77,568,756
-3,701,227
+83,078,756
+4,301,227
 797,500
-4,498,727
-82,067,483
+5,098,727
+88,177,483
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 453,677
 10,000
+0
 10,000
 463,677
 07220
@@ -2091,197 +2129,223 @@ Shërbimet e Kujdesit Parësor
 6,589,458
 07330
 Shërbimet e Kujdesit Dytësor
-35,950,497
-3,245,734
+38,160,497
+3,845,734
 647,500
-3,893,234
-39,843,731
+4,493,234
+42,653,731
 07450
 Shërbimet e Shëndetit Publik
 4,874,565
 80,000
+0
 80,000
 4,954,565
 10430
-Përkujdesi Social
-28,066,961
+Përkujdesja sociale
+31,366,961
 50,240
 50,000
 100,240
-28,167,201
+31,467,201
 01190
-Rehabilitimi i të Përndjekurve Politik
+Rehabilitimi i të përndjekurve politikë
 2,048,851
+0
+0
 0
 2,048,851
 14
 Ministria e Drejtësisë
-13,774,247
-1,151,914
+14,124,247
+1,231,914
 0
-1,151,914
-14,926,161
+1,231,914
+15,356,161
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-651,614
+Planifikimi, menaxhimi dhe administrimi
+951,614
 595,000
+0
 595,000
-1,246,614
+1,546,614
 03310
 Ndihma Juridike
 130,706
 2,000
+0
 2,000
 132,706
 01120
-Publikimet Zyrtare
+Publikimet zyrtare
 71,096
 5,000
+0
 5,000
 76,096
 01130
-Mjekësia Ligjore
+Mjekësia ligjore
 116,251
 21,000
+0
 21,000
 137,251
 03440
-Sistemi i Burgjeve
-9,284,217
+Sistemi i burgjeve
+9,334,217
 518,714
+0
 518,714
-9,802,931
+9,852,931
 03350
-Shërbimi i Përmbarimit Gjyqësor
+Shërbimi I Përmbarimit Gjyqësor
 423,553
 5,000
+0
 5,000
 428,553
 01160
 Shërbimet për çështjet e birësimeve
 19,147
 200
+0
 200
 19,347
 01180
-Shërbimi i Kthimit dhe Kompensimit te Pronave
+shërbimi i Kthimit dhe Kompensimit të Pronave
 2,829,046
 3,000
+0
 3,000
 2,832,046
 03490
 Shërbimi i Provës
 248,617
-2,000
-2,000
-250,617
+82,000
+0
+82,000
+330,617
 15
 Ministria e Evropës dhe Punëve të Jashtme
-3,644,054
+3,684,054
 35,100
 0
 35,100
-3,679,154
+3,719,154
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-359,994
+Planifikimi, menaxhimi dhe administrimi
+399,994
 35,100
+0
 35,100
-395,094
+435,094
 01120
 Mbështetje diplomatike jashtë shtetit
 2,945,926
 0
 0
+0
 2,945,926
 01130
-Aktiviteti diplomatik dhe konsullor i MPJ
+Aktiviteti diplomatik dhe konsullor i MPJ-së
 338,134
+0
+0
 0
 338,134
 16
 Ministria e Punëve të Brendshme
-30,996,889
+31,374,729
 2,189,396
 500,000
 2,689,396
-33,686,285
+34,064,125
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-1,721,983
+Planifikimi, menaxhimi dhe administrimi
+1,734,871
 64,793
+0
 64,793
-1,786,776
+1,799,664
 03140
 Policia e Shtetit
-25,215,109
+25,477,109
 1,979,603
 500,000
 2,479,603
-27,694,712
+27,956,712
 03150
 Garda e Republikës
-2,704,204
+2,730,222
 10,000
+0
 10,000
-2,714,204
+2,740,222
 01160
-Prefekturat dhe Funksionet e Deleguara të Pushtetit Vendor
-697,409
+Prefekturat dhe funksionet e deleguara të pushtetit vendor
+764,799
 5,000
+0
 5,000
-702,409
+769,799
 01170
-Shërbimi i Gjendjes Civile
-658,184
+shërbimi i Gjendjes Civile
+667,728
 130,000
+0
 130,000
-788,184
+797,728
 17
 Ministria e Mbrojtjes
-29,383,040
-19,159,705
+32,683,040
+29,088,705
 14,512,050
-33,671,755
-63,054,795
+43,600,755
+76,283,795
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 1,437,910
 120,000
+0
 120,000
 1,557,910
 02120
 Forcat e Luftimit
-9,744,161
-14,597,205
+11,844,161
+24,526,205
 12,500,000
-27,097,205
-36,841,366
+37,026,205
+48,870,366
 09430
 Arsimi Ushtarak
 902,498
 457,000
+0
 457,000
 1,359,498
 02150
-Mbështetja e Luftimit
-8,901,805
+Mbështetja e luftimit
+10,101,805
 1,765,500
+0
 1,765,500
-10,667,305
+11,867,305
 07340
 Mbështetje për Shëndetësinë
 1,636,761
 500,000
+0
 500,000
 2,136,761
 10270
-Mbështetje Sociale për Ushtarakët
+Mbështetje sociale për ushtarakët
 5,200,000
+0
+0
 0
 5,200,000
 10910
-Emergjencat Civile
+Emergjencat civile
 1,559,905
 1,720,000
 2,012,050
@@ -2290,31 +2354,35 @@ Emergjencat Civile
 18
 Shërbimi Informativ Shtetëror
 2,803,550
-150,000
+276,000
 0
-150,000
-2,953,550
+276,000
+3,079,550
 03520
 Veprimtaria Informative Shtetërore
 2,803,550
-150,000
-150,000
-2,953,550
+276,000
+0
+276,000
+3,079,550
 19
-Drejtoria e Radio Televizionit
+Drejtoria e Radiotelevizionit
 840,000
 0
 0
 0
 840,000
 08310
-Shërbimet për shqiptaret jashtë kufirit
+Shërbimet për shqiptarët jashtë kufirit
 319,000
+0
+0
 0
 319,000
 08520
-Projekte teknike për futjen e teknologjive te reja
+Projekte teknike për futjen e teknologjive të reja
 200,000
+0
 0
 0
 200,000
@@ -2322,10 +2390,14 @@ Projekte teknike për futjen e teknologjive te reja
 Prodhime filmike ose veprimtari artistike mbarëkombëtare
 126,000
 0
+0
+0
 126,000
 08340
-Orkestra simfonike e RTSH dhe Kinematografisë
+Orkestra simfonike e RTSH-së dhe Kinematografisë
 195,000
+0
+0
 0
 195,000
 20
@@ -2336,9 +2408,10 @@ Drejtoria e Përgjithshme e Arkivave
 170,000
 526,847
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 356,847
 170,000
+0
 170,000
 526,847
 22
@@ -2352,54 +2425,58 @@ Akademia e Shkencës
 Veprimtaria Akademike
 542,819
 10,000
+0
 10,000
 552,819
 24
-Kontrolli Larte i Shtetit
+Kontrolli i Lartë i Shtetit
 720,523
 5,000
 0
 5,000
 725,523
 01120
-Veprimtaria Audituese e KLSH
+Veprimtaria Audituese e KLSH-së
 720,523
 5,000
+0
 5,000
 725,523
 26
 Ministria e Mjedisit
-1,537,760
+1,460,491
 823,347
 590,000
 1,413,347
-2,951,107
+2,873,838
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-346,284
+Planifikimi, menaxhimi dhe administrimi
+342,284
 3,000
+0
 3,000
-349,284
+345,284
 05320
-Programe për mbrojtjen e Mjedisit
+Programe për mbrojtjen e mjedisit
 488,596
 290,000
 390,000
 680,000
 1,168,596
 04260
-Administrimi i Pyjeve
-625,611
+Administrimi i pyjeve
+629,611
 200,600
+0
 200,600
-826,211
+830,211
 06220
-Menaxhimi i Mbetjeve Urbane
-77,269
+Menaxhimi i mbetjeve urbane
+0
 329,747
 200,000
 529,747
-607,016
+529,747
 28
 Prokuroria e Përgjithshme
 3,270,518
@@ -2408,118 +2485,133 @@ Prokuroria e Përgjithshme
 130,000
 3,400,518
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 3,270,518
 130,000
+0
 130,000
 3,400,518
 29
-Këshilli I Lartë I Gjyqësor
+Këshilli i Lartë Gjyqësor
 5,624,886
 972,500
 0
 972,500
 6,597,386
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-476,958
+Planifikimi, menaxhimi dhe administrimi
+486,958
 15,000
+0
 15,000
-491,958
+501,958
 01140
 Mbështetje për teknologjinë e sistemit të drejtësisë
 20,870
 0
+0
+0
 20,870
 03310
 Buxheti gjyqësor
-5,127,058
+5,117,058
 957,500
+0
 957,500
-6,084,558
+6,074,558
 30
 Gjykata Kushtetuese
-254,784
+264,484
 4,000
 0
 4,000
-258,784
+268,484
 03320
 Veprimtaria Gjyqësore Kushtetuese
-254,784
+264,484
 4,000
+0
 4,000
-258,784
+268,484
 31
 Agjencia Telegrafike Shqiptare
-92,648
+101,148
 2,000
 0
 2,000
-94,648
+103,148
 08320
-Veprimtaria Telegrafike e ATSH-se
-92,648
+Veprimtaria telegrafike e ATSH-së
+101,148
 2,000
+0
 2,000
-94,648
+103,148
 35
-Këshilli I Lartë I Prokurorisë
+Këshilli i Lartë i Prokurorisë
 227,935
 2,000
 0
 2,000
 229,935
 01110
-Veprimtaria e KLP
+Veprimtaria e KLP-së
 227,935
 2,000
+0
 2,000
 229,935
 40
-Partitë Politike
+Partitë politike
 355,800
 0
 0
 0
 355,800
 01110
-Mbështetje për Partitë Politike
+Mbështetje për partitë politike
 345,600
+0
+0
 0
 345,600
 01120
-Mbështetje për Shoqatat
+Mbështetje për shoqatat
 8,000
+0
+0
 0
 8,000
 01130
-Mbështetje për Organizatat e Veteraneve me Status
+Mbështetje për organizatat e veteraneve me status
 2,200
+0
+0
 0
 2,200
 41
 Struktura e Posaçme kundër Korrupsionit dhe Krimit të Organizuar
 1,902,303
-210,000
+369,000
 0
-210,000
-2,112,303
+369,000
+2,271,303
 03390
-Veprimtaria e SPAK
+Veprimtaria e SPAK-ut
 1,902,303
-210,000
-210,000
-2,112,303
+369,000
+0
+369,000
+2,271,303
 50
-Instituti Statistikës
+Instituti i Statistikës
 1,169,879
 35,600
 100,000
 135,600
 1,305,479
 01320
-Veprimtaria Statistikore
+Veprimtaria statistikore
 1,169,879
 35,600
 100,000
@@ -2533,65 +2625,71 @@ Shkolla e Magjistraturës
 36,400
 444,422
 09820
-Veprimtaria Arsimore
+Veprimtaria arsimore
 408,022
 36,400
+0
 36,400
 444,422
 56
 Fondi Shqiptar i Zhvillimit
 0
-13,618,212
+18,118,212
 8,080,236
-21,698,448
-21,698,448
+26,198,448
+26,198,448
 06210
-Programe Zhvillimi
+Programe zhvillimi
 0
-7,747,118
+9,997,118
 8,080,236
-15,827,354
-15,827,354
+18,077,354
+18,077,354
 06220
-Infrastruktura Vendore dhe Rajonale
+Infrastruktura vendore dhe rajonale
 0
-4,700,167
-4,700,167
-4,700,167
+6,050,167
+0
+6,050,167
+6,050,167
 04230
 Programi “100 Fshatrat”
 0
-1,170,927
-1,170,927
-1,170,927
+2,070,927
+0
+2,070,927
+2,070,927
 57
 Qendra Kombëtare e Kinematografisë
-179,298
+186,298
 1,000
 0
 1,000
-180,298
+187,298
 08220
 Mbështetja e veprimtarisë kinematografike
-179,298
+186,298
 1,000
+0
 1,000
-180,298
+187,298
 63
 Institucionet e sistemit të drejtësisë
-319,362
+347,162
 5,500
 0
 5,500
-324,862
+352,662
 03320
-Veprimtaria e Inspektoratit të Lartë të Drejtësisë
-319,362
+Veprimtaria e Inspektoratit të Larte të Drejtësisë
+347,162
 5,500
+0
 5,500
-324,862
+352,662
 03340
 Veprimtaria e apelimit të rivlerësimit kalimtar
+0
 0
 0
 0
@@ -2604,24 +2702,26 @@ Avokati i Popullit
 3,000
 210,579
 03320
-Shërbimi i avokatisë
+shërbimi i avokatisë
 207,579
 3,000
+0
 3,000
 210,579
 67
 Komisioneri për Mbikëqyrjen e Shërbimit Civil
-99,975
+117,975
 2,000
 0
 2,000
-101,975
+119,975
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-99,975
+Planifikimi, menaxhimi dhe administrimi
+117,975
 2,000
+0
 2,000
-101,975
+119,975
 73
 Komisioni Qendror i Zgjedhjeve
 353,448
@@ -2630,9 +2730,10 @@ Komisioni Qendror i Zgjedhjeve
 1,500
 354,948
 01610
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 353,448
 1,500
+0
 1,500
 354,948
 01620
@@ -2641,32 +2742,35 @@ Zgjedhjet e përgjithshme dhe lokale
 0
 0
 0
+0
 76
 Inspektorati i Lartë i Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave
-247,347
-63,000
+261,947
+123,000
 0
-63,000
-310,347
+123,000
+384,947
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-247,347
-63,000
-63,000
-310,347
+Planifikimi, menaxhimi dhe administrimi
+261,947
+123,000
+0
+123,000
+384,947
 77
 Autoriteti i Konkurrencës
-118,697
+124,697
 1,000
 0
 1,000
-119,697
+125,697
 04120
-Mbikqyrja e tregut & Garantimi i konkurences
-118,697
+Mbikëqyrja e tregut dhe garantimi i konkurrencës
+124,697
 1,000
+0
 1,000
-119,697
+125,697
 82
 Këshilli Kombëtar i Kontabilitetit
 18,501
@@ -2675,108 +2779,117 @@ Këshilli Kombëtar i Kontabilitetit
 1,000
 19,501
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 18,501
 1,000
+0
 1,000
 19,501
 87
-Institucione te tjera Qeveritare
-12,136,669
-5,659,208
+Institucione të tjera qeveritare
+12,606,169
+5,387,390
 1,783,780
-7,442,988
-19,579,657
+7,171,170
+19,777,339
 01320
-Sherbime Qeveritare
+Shërbime qeveritare
 400,000
 599,956
+0
 599,956
 999,956
 01130
-Sherbimi i Prokurimit Publik
-112,421
+Shërbimi i prokurimit publik
+113,921
 1,000
+0
 1,000
-113,421
+114,921
 05640
-Administrimi I ujrave
+Administrimi i ujërave
 149,240
 10,000
 33,000
 43,000
 192,240
 03310
-Sherbimi i Avokatise Shteterore
+Shërbimi i Avokatisë Shtetërore
 347,935
 2,000
+0
 2,000
 349,935
 01150
-Sherbime te tjera
-1,380,259
+Shërbime të tjera
+1,415,259
 68,000
 80,780
 148,780
-1,529,039
+1,564,039
 01140
 e-Qeverisja
-9,292,892
-4,962,252
+9,642,892
+4,690,434
 1,670,000
-6,632,252
-15,925,144
+6,360,434
+16,003,326
 01330
-Menaxhimi dhe Zhvillimi i Administrates Publike
+Menaxhimi dhe zhvillimi i administratës publike
 280,523
 15,000
+0
 15,000
 295,523
 08480
-Mbeshtetje per Kultet Fetare
-173,399
+Mbështetje për kultet fetare
+256,399
 1,000
+0
 1,000
-174,399
+257,399
 88
-Mbështetje për Shoqërinë Civile
+Mbështetje për shoqërinë civile
 137,440
 1,000
 0
 1,000
 138,440
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 137,440
 1,000
+0
 1,000
 138,440
 89
-Komisioneri për të drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale
-173,723
+Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale
+192,723
 1,000
 0
 1,000
-174,723
+193,723
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-173,723
+Planifikimi, menaxhimi dhe administrimi
+192,723
 1,000
+0
 1,000
-174,723
+193,723
 90
-Komisioni I Prokurimit Publik
-117,923
+Komisioni i Prokurimit Publik
+126,423
 2,000
 0
 2,000
-119,923
+128,423
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-117,923
+Planifikimi, menaxhimi dhe administrimi
+126,423
 2,000
+0
 2,000
-119,923
+128,423
 91
 Komisioneri për Mbrojtjen nga Diskriminimi
 77,699
@@ -2785,45 +2898,48 @@ Komisioneri për Mbrojtjen nga Diskriminimi
 2,000
 79,699
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 77,699
 2,000
+0
 2,000
 79,699
 92
-Instituti i Studimeve te Krimeve te Komunizmit
+Instituti i Studimeve të Krimeve të Komunizmit
 61,663
 1,000
 0
 1,000
 62,663
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 61,663
 1,000
+0
 1,000
 62,663
 95
-Autoriteti për të drejtën e Informimit
+Autoriteti për të Drejtën e Informimit
 180,790
 3,000
 0
 3,000
 183,790
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 180,790
 3,000
+0
 3,000
 183,790
 TOTALI
-325,212,160
-118,122,000
-48,300,000
-166,422,000
-491,634,160
-Tab. 1.2
-BUXHETI 2028 SIPAS MINISTRIVE TË LINJËS DHE INSTITUCIONEVE BUXHETORE
+334,605,847
+130,003,000
+48,371,000
+178,374,000
+512,979,847
+TABELA 1.2 - SHPENZIMET 2028 SIPAS MINISTRIVE TË LINJËS DHE INSTITUCIONEVE BUXHETORE (në 000/LEK)
+Viti 2028
 Kodi
 Emërtimi i institucionit/programit
 Totali i shp. korrente
@@ -2843,6 +2959,7 @@ Presidenca
 Veprimtaria e Presidentit
 349,720
 170,000
+0
 170,000
 519,720
 2
@@ -2853,14 +2970,17 @@ Kuvendi
 65,000
 1,980,010
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 763,420
 65,000
+0
 65,000
 828,420
 01120
-Veprimtaria Ligjvënëse
+Veprimtaria ligjvënëse
 1,151,590
+0
+0
 0
 1,151,590
 3
@@ -2871,85 +2991,94 @@ Kryeministria
 30,000
 842,578
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 812,578
 30,000
+0
 30,000
 842,578
 4
 Ministria e Ekonomisë dhe Inovacionit
-40,417,852
+38,386,852
 1,470,617
 533,000
 2,003,617
-42,421,469
+40,390,469
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 537,282
 20,000
+0
 20,000
 557,282
 01150
-Mbeshtetje per Inovacionin dhe teknologjinë
+Mbështetje për Inovacionin dhe teknologjinë
 563,524
+0
 0
 0
 563,524
 04130
-Mbeshtetje per Zhvillim Ekonomik
-469,060
+Mbështetje për Zhvillim Ekonomik
+487,060
 30,170
 3,000
 33,170
-502,230
+520,230
 04160
-Mbeshtetje per Mbikq. e Tregut, Infrast. e Ciles. dhe Pron. Industr.
-415,501
+Mbështetje për mbikëq. e tregut, infrast. e cilës. dhe pron. industr.
+425,501
 12,000
-12,000
-427,501
-10220
-Sigurimi Shoqeror
-30,190,717
 0
-30,190,717
+12,000
+437,501
+10220
+Sigurimi Shoqëror
+27,875,717
+0
+0
+0
+27,875,717
 10550
-Tregu i Punes
+Tregu i punës
 3,698,711
 128,000
 50,000
 178,000
 3,876,711
 04170
-Inspektimi ne Pune
-289,929
+Inspektimi në punë
+295,929
 2,000
+0
 2,000
-291,929
+297,929
 09240
-Arsimi i Mesem (profesional)
-3,508,128
+Arsimi i mesëm (profesional)
+3,758,128
 778,447
 480,000
 1,258,447
-4,766,575
+5,016,575
 06190
 Strehimi
 745,000
 500,000
+0
 500,000
 1,245,000
 5
 Ministria e Bujqësisë dhe Zhvillimit Rural
-11,237,995
-4,503,572
+11,337,995
+4,803,572
 3,186,831
-7,690,403
-18,928,398
+7,990,403
+19,328,398
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 597,546
 4,000
+0
 4,000
 601,546
 04220
@@ -2960,32 +3089,35 @@ Siguria ushqimore dhe mbrojtja e konsumatorit
 473,209
 2,936,446
 04240
-Menaxhimi i infrastruktures se kullimit dhe ujitjes
+Menaxhimi i infrastrukturës së kullimit dhe ujitjes
 1,130,059
-2,739,500
-2,739,500
-3,869,559
+3,039,500
+0
+3,039,500
+4,169,559
 04250
-Zhvillimi Rural duke mbesht. Prodh. Bujq, Blek, Agroind dhe Market.
-5,989,877
+Zhvillimi Rural duke mbësht. prodh. bujq., blek., agroind. dhe market.
+6,089,877
 1,206,863
 2,517,408
 3,724,271
-9,714,148
+9,814,148
 04860
-Keshillimi dhe Informacioni Bujqësor
+Këshillimi dhe informacioni bujqësor
 783,857
 20,000
+0
 20,000
 803,857
 05470
-Menaxhimi qëndrueshëm i tokës bujqësore
+Menaxhimi i qëndrueshëm i tokës bujqësore
 25,000
+0
 0
 0
 25,000
 04230
-Mbështetje për Peshkimin
+Mbështetje për peshkimin
 248,419
 150,000
 579,423
@@ -2994,14 +3126,15 @@ Mbështetje për Peshkimin
 6
 Ministria e Infrastrukturës dhe Energjisë
 7,441,530
-49,316,942
-17,437,507
-66,754,449
-74,195,979
+49,772,189
+17,525,507
+67,297,696
+74,739,226
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 760,521
 13,000
+0
 13,000
 773,521
 04520
@@ -3012,65 +3145,68 @@ Transporti rrugor
 33,788,659
 38,222,677
 04540
-Transporti Detar
+Transporti detar
 188,440
 8,000,000
 10,000
 8,010,000
 8,198,440
 04550
-Transporti Hekurudhor
+Transporti hekurudhor
 538,836
-3,475,000
+2,814,247
 7,092,202
-10,567,202
-11,106,038
+9,906,449
+10,445,285
 04560
-Transporti Ajror
+Transporti ajror
 26,782
 2,000
+0
 2,000
 28,782
 04610
 Mbështetje për rrjetet e komunikacionit
 0
-50,000
+10,000
 20,000
-70,000
-70,000
+30,000
+30,000
 06370
-Furnizimi me Ujë dhe Kanalizime
+Furnizimi me ujë dhe kanalizime
 501,145
-7,761,102
-2,812,914
-10,574,016
-11,075,161
+9,011,102
+2,900,914
+11,912,016
+12,413,161
 04320
-Mbështetje për Energjinë
+Mbështetje për energjinë
 124,244
 441,504
 3,000,000
 3,441,504
 3,565,748
 04430
-Mbështetje për Burimet Natyrore
+Mbështetje për burimet natyrore
 367,375
 97,000
 9,068
 106,068
 473,443
 04440
-Mbështetje për Industrinë
+Mbështetje për industrinë
 397,178
 78,000
+0
 78,000
 475,178
 06180
-Planifikimi Urban
+Planifikimi urban
 102,991
-104,000
-104,000
-206,991
+10,000
+0
+10,000
+112,991
 10
 Ministria e Financave
 9,752,251
@@ -3079,373 +3215,415 @@ Ministria e Financave
 4,042,050
 13,794,301
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 1,093,600
 179,830
 400,000
 579,830
 1,673,430
 01120
-Menaxhimi i Shpenzimeve Publike
+Menaxhimi i shpenzimeve publike
 524,327
+0
+0
 0
 524,327
 01130
-Ekzekutimi i Pagesave te Ndryshme
+Ekzekutimi i pagesave të ndryshme
 604,000
 3,200,000
+0
 3,200,000
 3,804,000
 01140
-Menaxhimi i te Ardhurave Tatimore
+Menaxhimi i të ardhurave tatimore
 2,896,613
 133,000
+0
 133,000
 3,029,613
 01150
-Menaxhimi i te Ardhurave Doganore
+Menaxhimi i të ardhurave doganore
 4,426,008
 123,220
 4,000
 127,220
 4,553,228
 01160
-Lufta kundër Transaksioneve Financiare Jo-Ligjore
+Lufta kundër transaksioneve financiare joligjore
 207,703
 2,000
+0
 2,000
 209,703
 11
 Ministria e Arsimit
-60,293,265
-5,874,000
+60,543,265
+5,524,000
 750,000
-6,624,000
-66,917,265
+6,274,000
+66,817,265
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 1,107,400
 45,000
+0
 45,000
 1,152,400
 09120
-Arsimi Baze (përfshirë parashkollorin)
-35,560,902
-2,137,000
-2,137,000
-37,697,902
+Arsimi bazë (përfshirë parashkollorin)
+35,660,902
+1,987,000
+0
+1,987,000
+37,647,902
 09230
-Arsimi i Mesëm (i përgjithshëm)
-10,502,932
-1,862,000
-1,862,000
+Arsimi i mesëm (i përgjithshëm)
+10,602,932
+1,762,000
+0
+1,762,000
 12,364,932
 09450
-Arsimi Universitar
-11,900,000
+Arsimi universitar
+11,950,000
 980,000
 300,000
 1,280,000
-13,180,000
+13,230,000
 09770
-Fonde për Shkencën
+Fonde për shkencën
 1,222,031
-850,000
+750,000
 450,000
-1,300,000
-2,522,031
+1,200,000
+2,422,031
 12
 Ministria e Turizmit, Kulturës dhe Sportit
-4,396,052
+4,496,052
 1,601,507
 420,000
 2,021,507
-6,417,559
+6,517,559
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-389,313
+Planifikimi, menaxhimi dhe administrimi
+409,313
 10,000
+0
 10,000
-399,313
+419,313
 08220
-Trashëgimia Kulturore dhe Muzetë
-909,531
+Trashëgimia kulturore dhe muzetë
+939,531
 172,500
-100,000
-272,500
-1,182,031
-08230
-Arti dhe Kultura
-1,615,549
-1,279,007
 300,000
-1,579,007
-3,194,556
+472,500
+1,412,031
+08230
+Arti dhe kultura
+1,665,549
+1,279,007
+100,000
+1,379,007
+3,044,556
 08140
-Zhvillimi i Sportit
+Zhvillimi i sportit
 414,968
 0
 20,000
 20,000
 434,968
 04760
-Zhvillimi i Turizmit
+Zhvillimi i turizmit
 830,466
 90,000
+0
 90,000
 920,466
 08610
-Mbështetje për Rininë dhe Fëmijët
+Mbështetje për rininë dhe fëmijët
 236,225
 50,000
+0
 50,000
 286,225
 13
 Ministria e Shëndetësisë dhe Mirëqenies Sociale
-77,966,953
-3,821,227
+82,761,953
+4,421,227
 817,668
-4,638,895
-82,605,848
+5,238,895
+88,000,848
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 455,220
 10,000
+0
 10,000
 465,220
 07220
-Shërbimet e Kujdesit Paresor
+Shërbimet e kujdesit parësor
 6,174,855
 315,253
 120,168
 435,421
 6,610,276
 07330
-Shërbimet e Kujdesit Dytësor
-35,720,602
-3,345,734
+Shërbimet e kujdesit dytësor
+37,415,602
+3,945,734
 647,500
-3,993,234
-39,713,836
+4,593,234
+42,008,836
 07450
-Shërbimet e Shëndetit Publik
+Shërbimet e shëndetit publik
 4,894,956
 100,000
+0
 100,000
 4,994,956
 10430
-Perkujdesi Social
-28,672,469
+Përkujdesja sociale
+31,772,469
 50,240
 50,000
 100,240
-28,772,709
+31,872,709
 01190
-Rehabilitimi i te Përndjekurve Politik
+Rehabilitimi i të përndjekurve politikë
 2,048,851
+0
+0
 0
 2,048,851
 14
 Ministria e Drejtësisë
-14,319,980
-829,350
+14,669,980
+849,350
 0
-829,350
-15,149,330
+849,350
+15,519,330
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-653,887
-197,500
-197,500
-851,387
+Planifikimi, menaxhimi dhe administrimi
+953,887
+97,500
+0
+97,500
+1,051,387
 03310
 Ndihma Juridike
 131,137
 2,000
+0
 2,000
 133,137
 01120
-Publikimet Zyrtare
+Publikimet zyrtare
 71,357
 5,000
+0
 5,000
 76,357
 01130
 Mjekësia Ligjore
 116,649
 21,000
+0
 21,000
 137,649
 03440
 Sistemi i Burgjeve
-9,321,795
+9,371,795
 593,650
+0
 593,650
-9,915,445
+9,965,445
 03350
 Shërbimi i Përmbarimit Gjyqësor
 425,544
 5,000
+0
 5,000
 430,544
 01160
 Shërbimet për çështjet e birësimeve
 19,233
 200
+0
 200
 19,433
 01180
-Shërbimi i Kthimit dhe Kompensimit te Pronave
+Shërbimi i Kthimit dhe Kompensimit të Pronave
 3,330,533
 3,000
+0
 3,000
 3,333,533
 03490
 Shërbimi i Provës
 249,845
-2,000
-2,000
-251,845
+122,000
+0
+122,000
+371,845
 15
-Ministria e Evropës dhe Punëve te Jashtme
-3,652,773
+Ministria e Evropës dhe Punëve të Jashtme
+3,692,773
 35,100
 0
 35,100
-3,687,873
+3,727,873
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-361,165
+Planifikimi, menaxhimi dhe administrimi
+401,165
 35,100
+0
 35,100
-396,265
+436,265
 01120
 Mbështetje diplomatike jashtë shtetit
 2,952,188
 0
 0
+0
 2,952,188
 01130
-Aktiviteti diplomatik dhe konsullor i MPJ
+Aktiviteti diplomatik dhe konsullor i MPJ-së
 339,420
+0
+0
 0
 339,420
 16
-Ministria e Puneve te Brendshme
-31,132,692
-1,843,113
+Ministria e Punëve të Brendshme
+31,510,532
+1,643,113
 2,000,000
-3,843,113
-34,975,805
+3,643,113
+35,153,645
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-1,730,085
+Planifikimi, menaxhimi dhe administrimi
+1,742,973
 118,000
+0
 118,000
-1,848,085
+1,860,973
 03140
 Policia e Shtetit
-25,324,048
-1,580,113
+25,586,048
+1,380,113
 2,000,000
-3,580,113
-28,904,161
+3,380,113
+28,966,161
 03150
 Garda e Republikës
-2,716,524
+2,742,542
 10,000
+0
 10,000
-2,726,524
+2,752,542
 01160
-Prefekturat dhe Funksionet e Deleguara te Pushtetit Vendor
-700,734
+Prefekturat dhe funksionet e deleguara të pushtetit vendor
+768,124
 5,000
+0
 5,000
-705,734
+773,124
 01170
 Shërbimi i Gjendjes Civile
-661,301
+670,845
 130,000
+0
 130,000
-791,301
+800,845
 17
 Ministria e Mbrojtjes
-29,745,494
-25,049,295
+33,245,494
+36,784,295
 14,512,050
-39,561,345
-69,306,839
+51,296,345
+84,541,839
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 1,441,883
 120,000
+0
 120,000
 1,561,883
 02120
-Forcat e Luftimit
-10,067,721
-20,286,795
+Forcat e luftimit
+12,367,721
+32,021,795
 12,500,000
-32,786,795
-42,854,516
+44,521,795
+56,889,516
 09430
-Arsimi Ushtarak
+Arsimi ushtarak
 906,209
 457,000
+0
 457,000
 1,363,209
 02150
-Mbështetja e Luftimit
-8,926,820
+Mbështetja e luftimit
+10,126,820
 1,965,500
+0
 1,965,500
-10,892,320
+12,092,320
 07340
-Mbështetje për Shëndetësinë
+Mbështetje për shëndetësinë
 1,641,317
 500,000
+0
 500,000
 2,141,317
 10270
-Mbështetje Sociale per Ushtaraket
+Mbështetje sociale për ushtarakët
 5,200,000
+0
+0
 0
 5,200,000
 10910
-Emergjencat Civile
+Emergjencat civile
 1,561,544
 1,720,000
 2,012,050
 3,732,050
 5,293,594
 18
-Sherbimi Informativ Shteteror
+Shërbimi Informativ shtetëror
 2,816,210
 150,000
 0
 150,000
 2,966,210
 03520
-Veprimtaria Informative Shteterore
+Veprimtaria Informative Shtetërore
 2,816,210
 150,000
+0
 150,000
 2,966,210
 19
-Drejtoria e Radio Televizionit
+Drejtoria e Radiotelevizionit
 840,000
 0
 0
 0
 840,000
 08310
-Shërbimet për shqiptaret jashte kufirit
+Shërbimet për shqiptaret jashtë kufirit
 319,000
+0
+0
 0
 319,000
 08520
-Projekte teknike per futjen e teknologjive te reja
+Projekte teknike për futjen e teknologjive të reja
 200,000
+0
 0
 0
 200,000
@@ -3453,84 +3631,93 @@ Projekte teknike per futjen e teknologjive te reja
 Prodhime filmike ose veprimtari artistike mbarëkombëtare
 126,000
 0
+0
+0
 126,000
 08340
-Orkestra simfonike e RTSH dhe Kinematografisë
+Orkestra simfonike e RTSH-së dhe Kinematografisë
 195,000
+0
+0
 0
 195,000
 20
-Drejtoria e Pergjithshme e Arkivave
+Drejtoria e Përgjithshme e Arkivave
 358,349
 100,000
 0
 100,000
 458,349
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 358,349
 100,000
+0
 100,000
 458,349
 22
-Akademia e Shkences
+Akademia e Shkencës
 543,143
 10,000
 0
 10,000
 553,143
 01520
-Veprimtaria Akademike
+Veprimtaria akademike
 543,143
 10,000
+0
 10,000
 553,143
 24
-Kontrolli Larte i Shtetit
+Kontrolli i Lartë i Shtetit
 724,061
 5,000
 0
 5,000
 729,061
 01120
-Veprimtaria Audituese e KLSH
+Veprimtaria Audituese e KLSH-së
 724,061
 5,000
+0
 5,000
 729,061
 26
 Ministria e Mjedisit
-1,544,026
-1,023,347
+1,466,396
+493,600
 590,000
-1,613,347
-3,157,373
+1,083,600
+2,549,996
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-347,577
+Planifikimi, menaxhimi dhe administrimi
+343,577
 3,000
+0
 3,000
-350,577
+346,577
 05320
-Programe per mbrojtjen e Mjedisit
+Programe për mbrojtjen e mjedisit
 490,513
 290,000
 390,000
 680,000
 1,170,513
 04260
-Administrimi i Pyjeve
-628,306
+Administrimi i pyjeve
+632,306
 200,600
+0
 200,600
-828,906
+832,906
 06220
-Menaxhimi i Mbetjeve Urbane
-77,630
-529,747
+Menaxhimi i mbetjeve urbane
+0
+0
 200,000
-729,747
-807,377
+200,000
+200,000
 28
 Prokuroria e Përgjithshme
 3,286,103
@@ -3539,94 +3726,108 @@ Prokuroria e Përgjithshme
 130,000
 3,416,103
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 3,286,103
 130,000
+0
 130,000
 3,416,103
 29
-Këshilli I Lartë I Gjyqësor
+Këshilli i Lartë Gjyqësor
 5,650,120
 1,372,500
 0
 1,372,500
 7,022,620
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-479,132
+Planifikimi, menaxhimi dhe administrimi
+489,132
 15,000
+0
 15,000
-494,132
+504,132
 01140
 Mbështetje për teknologjinë e sistemit të drejtësisë
 20,967
 0
+0
+0
 20,967
 03310
 Buxheti gjyqësor
-5,150,021
+5,140,021
 1,357,500
+0
 1,357,500
-6,507,521
+6,497,521
 30
 Gjykata Kushtetuese
-255,907
+265,607
 4,000
 0
 4,000
-259,907
+269,607
 03320
 Veprimtaria Gjyqësore Kushtetuese
-255,907
+265,607
 4,000
+0
 4,000
-259,907
+269,607
 31
 Agjencia Telegrafike Shqiptare
-94,186
+102,686
 2,000
 0
 2,000
-96,186
+104,686
 08320
-Veprimtaria Telegrafike e ATSH-se
-94,186
+Veprimtaria telegrafike e ATSH-së
+102,686
 2,000
+0
 2,000
-96,186
+104,686
 35
-Këshilli I Lartë I Prokurorisë
+Këshilli i Lartë i Prokurorisë
 228,983
 2,000
 0
 2,000
 230,983
 01110
-Veprimtaria e KLP
+Veprimtaria e KLP-së
 228,983
 2,000
+0
 2,000
 230,983
 40
-Partite Politike
+Partitë politike
 355,800
 0
 0
 0
 355,800
 01110
-Mbështetje për Partitë Politike
+Mbështetje për partitë politike
 345,600
+0
+0
 0
 345,600
 01120
-Mbështetje për Shoqatat
+Mbështetje për shoqatat
 8,000
+0
+0
 0
 8,000
 01130
-Mbështetje për Organizatat e Veteraneve me Status
+Mbështetje për organizatat e veteraneve me status
 2,200
+0
+0
 0
 2,200
 41
@@ -3637,13 +3838,14 @@ Struktura e Posaçme kundër Korrupsionit dhe Krimit të Organizuar
 210,000
 2,120,865
 03390
-Veprimtaria e SPAK
+Veprimtaria e SPAK-ut
 1,910,865
 210,000
+0
 210,000
 2,120,865
 50
-Instituti Statistikës
+Instituti i Statistikës
 1,175,162
 15,600
 100,000
@@ -3664,65 +3866,71 @@ Shkolla e Magjistraturës
 13,840
 422,444
 09820
-Veprimtaria Arsimore
+Veprimtaria arsimore
 408,604
 13,840
+0
 13,840
 422,444
 56
 Fondi Shqiptar i Zhvillimit
 0
-13,018,404
+17,518,404
 7,921,178
-20,939,582
-20,939,582
+25,439,582
+25,439,582
 06210
 Programe Zhvillimi
 0
-7,237,411
+9,487,411
 7,921,178
-15,158,589
-15,158,589
+17,408,589
+17,408,589
 06220
-Infrastruktura Vendore dhe Rajonale
+Infrastruktura vendore dhe rajonale
 0
-3,922,636
-3,922,636
-3,922,636
+5,272,636
+0
+5,272,636
+5,272,636
 04230
 Programi “100 Fshatrat”
 0
-1,858,357
-1,858,357
-1,858,357
+2,758,357
+0
+2,758,357
+2,758,357
 57
 Qendra Kombëtare e Kinematografisë
-179,415
+186,415
 1,000
 0
 1,000
-180,415
+187,415
 08220
 Mbështetja e veprimtarisë kinematografike
-179,415
+186,415
 1,000
+0
 1,000
-180,415
+187,415
 63
-Institucionet e sistemit te drejtesise
-321,725
+Institucionet e sistemit të drejtësisë
+349,525
 5,500
 0
 5,500
-327,225
+355,025
 03320
-Veprimtaria e Inspektoratit te Larte te Drejtesise
-321,725
+Veprimtaria e Inspektoratit të Lartë të Drejtësisë
+349,525
 5,500
+0
 5,500
-327,225
+355,025
 03340
 Veprimtaria e apelimit të rivlerësimit kalimtar
+0
 0
 0
 0
@@ -3735,24 +3943,26 @@ Avokati i Popullit
 3,000
 211,554
 03320
-Sherbimi i avokatise
+Shërbimi i avokatisë
 208,554
 3,000
+0
 3,000
 211,554
 67
 Komisioneri për Mbikëqyrjen e Shërbimit Civil
-100,425
+118,425
 2,000
 0
 2,000
-102,425
+120,425
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-100,425
+Planifikimi, menaxhimi dhe administrimi
+118,425
 2,000
+0
 2,000
-102,425
+120,425
 73
 Komisioni Qendror i Zgjedhjeve
 354,470
@@ -3761,43 +3971,47 @@ Komisioni Qendror i Zgjedhjeve
 1,500
 355,970
 01610
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 354,470
 1,500
+0
 1,500
 355,970
 01620
-Zgjedhjet e pergjithshme dhe lokale
+Zgjedhjet e përgjithshme dhe lokale
+0
 0
 0
 0
 0
 76
 Inspektorati i Lartë i Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave
-248,429
+263,029
 63,000
 0
 63,000
-311,429
+326,029
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-248,429
+Planifikimi, menaxhimi dhe administrimi
+263,029
 63,000
+0
 63,000
-311,429
+326,029
 77
 Autoriteti i Konkurrencës
-119,271
+125,271
 1,000
 0
 1,000
-120,271
+126,271
 04120
-Mbikëqyrja e tregut & Garantimi i konkurrencës
-119,271
+Mbikëqyrja e tregut dhe garantimi i konkurrencës
+125,271
 1,000
+0
 1,000
-120,271
+126,271
 82
 Këshilli Kombëtar i Kontabilitetit
 18,573
@@ -3806,32 +4020,35 @@ Këshilli Kombëtar i Kontabilitetit
 1,000
 19,573
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 18,573
 1,000
+0
 1,000
 19,573
 87
-Institucione te tjera Qeveritare
-12,154,257
-6,426,036
-2,124,766
-8,550,802
-20,705,059
+Institucione të tjera qeveritare
+12,623,757
+5,806,036
+2,125,066
+7,931,102
+20,554,859
 01320
-Sherbime Qeveritare
+Shërbime qeveritare
 400,000
 366,749
+0
 366,749
 766,749
 01130
-Sherbimi i Prokurimit Publik
-112,970
+Shërbimi i Prokurimit Publik
+114,470
 1,000
+0
 1,000
-113,970
+115,470
 05640
-Administrimi I ujërave
+Administrimi i ujërave
 149,951
 10,000
 26,986
@@ -3841,34 +4058,37 @@ Administrimi I ujërave
 Shërbimi i Avokatisë Shtetërore
 349,724
 2,000
+0
 2,000
 351,724
 01150
-shërbime te tjera
-1,385,954
+Shërbime të tjera
+1,420,954
 68,000
 80,780
 148,780
-1,534,734
+1,569,734
 01140
 e-Qeverisja
-9,300,688
-5,962,287
-2,017,000
-7,979,287
-17,279,975
+9,650,688
+5,342,287
+2,017,300
+7,359,587
+17,010,275
 01330
-Menaxhimi dhe Zhvillimi i Administrates Publike
+Menaxhimi dhe Zhvillimi i Administratës Publike
 281,458
 15,000
+0
 15,000
 296,458
 08480
-Mbështetje për Kultet Fetare
-173,512
+Mbështetje për kultet fetare
+256,512
 1,000
+0
 1,000
-174,512
+257,512
 88
 Mbështetje për Shoqërinë Civile
 137,590
@@ -3877,37 +4097,40 @@ Mbështetje për Shoqërinë Civile
 1,000
 138,590
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 137,590
 1,000
+0
 1,000
 138,590
 89
-Komisioneri për te drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale
-174,472
+Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale
+193,472
 1,000
 0
 1,000
-175,472
+194,472
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-174,472
+Planifikimi, menaxhimi dhe administrimi
+193,472
 1,000
+0
 1,000
-175,472
+194,472
 90
-Komisioni I Prokurimit Publik
-118,445
+Komisioni i Prokurimit Publik
+126,945
 2,000
 0
 2,000
-120,445
+128,945
 01110
-Planifikimi, Menaxhimi dhe Administrimi
-118,445
+Planifikimi, menaxhimi dhe administrimi
+126,945
 2,000
+0
 2,000
-120,445
+128,945
 91
 Komisioneri për Mbrojtjen nga Diskriminimi
 78,045
@@ -3916,89 +4139,92 @@ Komisioneri për Mbrojtjen nga Diskriminimi
 2,000
 80,045
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 78,045
 2,000
+0
 2,000
 80,045
 92
-Instituti i Studimeve te Krimeve te Komunizmit
+Instituti i Studimeve të Krimeve të Komunizmit
 61,902
 1,000
 0
 1,000
 62,902
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 61,902
 1,000
+0
 1,000
 62,902
 95
-Autoriteti për te drejtën e Informimit
+Autoriteti për të Drejtën e Informimit
 181,578
 3,000
 0
 3,000
 184,578
 01110
-Planifikimi, Menaxhimi dhe Administrimi
+Planifikimi, menaxhimi dhe administrimi
 181,578
 3,000
+0
 3,000
 184,578
 TOTALI
-328,082,815
-120,818,500
-50,797,000
-171,615,500
-499,698,315
+336,075,625
+136,729,000
+50,885,300
+187,614,300
+523,689,925
 Tab. 2
 Kod min.
-Emërtimi i ministrisë/institucionit buxhetor
-Numri i Punonjësve viti 2026
+Emërtimi i ministrisë/Institucionit buxhetor
+Numri i punonjësve AN 2026
 1
 Presidenca
 93
 2
 Kuvendi
-486
+489
 3
 Kryeministria
 218
 4
 Ministria e Ekonomisë dhe Inovacionit
-3,167
+3,201
 5
 Ministria e Bujqësisë dhe Zhvillimit Rural
-2,610
+2,638
 6
 Ministria e Infrastrukturës dhe Energjisë
-1,338
+1,310
 10
 Ministria e Financave
 3,273
 11
 Ministria e Arsimit
-30,883
+30,877
 12
 Ministria e Turizmit, Kulturës dhe Sportit
-1,228
+1,239
 13
 Ministria e Shëndetësisë dhe Mirëqenies Sociale
-4,414
+4,431
 14
 Ministria e Drejtësisë
 5,391
 15
-Ministria për Evropën dhe Punët e Jashtme nga e cila (Përfaqësitë diplomatike 408)
+Ministria për Evropën dhe Punët e Jashtme
 617
 16
 Ministria e Punëve të Brendshme
-15,791
+15,730
 17
 Ministria e Mbrojtjes
-9,299
+9,599
 18
 Shërbimi Informativ Shtetëror
 998
@@ -4009,11 +4235,11 @@ Drejtoria e Përgjithshme e Arkivave
 Akademia e Shkencës
 29
 24
-Kontrolli Lartë i Shtetit
+Kontrolli i Lartë i Shtetit
 243
 26
 Ministria e Mjedisit
-799
+754
 28
 Prokuroria e Përgjithshme
 979
@@ -4022,7 +4248,7 @@ Këshilli i Lartë Gjyqësor
 1,992
 30
 Gjykata Kushtetuese
-73
+101
 31
 Agjencia Telegrafike Shqiptare
 40
@@ -4043,7 +4269,7 @@ Qendra Kombëtare e Kinematografisë
 13
 63
 Kolegji i Posaçëm i Apelimit
-67
+0
 63
 Zyra e Inspektorit të Lartë të Drejtësisë
 101
@@ -4052,22 +4278,22 @@ Avokati i Popullit
 70
 67
 Komisioneri për Mbikëqyrjen e Shërbimit Civil
-37
+45
 73
 Komisioni Qendror i Zgjedhjeve
 95
 76
 Inspektorati i Lartë i Deklarimit e Kontrollit të Pasurive dhe Konfliktit të Interesave
-73
+80
 77
 Autoriteti i Konkurrencës
-49
+53
 82
 Këshilli Kombëtar i Kontabilitetit
 6
 87
 Institucione të tjera Qeveritare
-1,426
+1,406
 1
 Drejtoria Sigurimit të Informacionit Klasifikuar (DSIK)
 38
@@ -4087,17 +4313,17 @@ Agjencia e Menaxhimit të Burimeve Ujore
 Agjencia për Dialog dhe Bashkëqeverisje
 70
 7
-Agjencia e Zhvillimit te Territorit
+Agjencia e Zhvillimit të Territorit
 0
 8
-Agjencia Kombëtare e Planifikimit te Territorit
+Agjencia Kombëtare e Planifikimit të Territorit
 41
 9
-Agjencia Autonome e Auditimit të Fondeve të BE
+Agjencia Autonome e Auditimit të Fondeve të BE-së
 23
 10
 Agjencia Kombëtare e Shoqërisë së Informacionit
-423
+329
 11
 Komiteti Shtetëror i Kulteve
 10
@@ -4112,7 +4338,7 @@ Drejtoria e Përgjithshme e Antikorrupsionit
 27
 15
 Autoriteti Kombëtar për Sigurinë Kibernetike (AKSK)
-85
+159
 16
 Sekretariati Teknik i KEK
 0
@@ -4142,7 +4368,7 @@ Agjencia për Mbështetje për Shoqërinë Civile
 16
 89
 Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale
-65
+70
 90
 Komisioni i Prokurimit Publik
 42
@@ -4155,961 +4381,1087 @@ Instituti i Studimeve të Krimeve të Komunizmit
 95
 Autoriteti për Informimin mbi Dokumentet e ish-Sigurimit të Shtetit
 73
-Total punonjës buxhetore
-87,043
+Total punonjës buxhetorë
+87,261
 Rezervë për institucione të qeverisjes qendrore
 100
 Total numri i punonjësve
-87,143
-Tab. 3
+87,361
 Transferta e pakushtëzuar për bashkitë për vitin 2026
+Tab. 3
 Në mijë lekë
 Nr.
 Bashkitë
 Transferta e pakushtëzuar e përgjithshme 2026
+Shtesë me AN nga rritja e PBB-së 2026 në transfertën e pakushtëzuar të përgjithshme
 Transfertat e pakushtëzuara sektoriale
 Totali
 Konviktet e arsimit parauniversitar
 Arsimi parashkollor
 Arsimi parauniversitar
 Mbrojtja nga zjarri
+Shtesë me AN mbrojtja nga zjarri
 Mbrojtja sociale
 Administrimi i pyjeve
 Rrugët
 Ujitja dhe kullimi
 Rritja e nivelit të pagave
-Menaxhimi i mbetjeve urbane
+Mena-xhimi i mbetjeve urbane
 Ndarë me formulë për personelin mësimor
 Për stafin mbështetës
 1
 Belsh
 189,704
+673
 0
 43,955
 1,963
 1,935
 21,634
+1,007
 0
 1,289
 10,324
 12,296
 45,771
 6,800
-335,671
+337,352
 2
 Berat
 520,520
+1,848
 31,137
 172,156
 65,315
 21,216
 50,978
+2,915
 26,994
 8,337
 6,362
 18,820
 90,995
 0
-1,012,831
+1,017,593
 3
 Bulqizë
 394,224
+1,399
 0
 88,369
 16,086
 0
 28,449
+1,095
 0
 19,661
 37,674
 16,564
 60,480
 0
-661,506
+664,001
 4
 Cërrik
 236,909
+841
 5,227
 73,706
 8,738
 8,555
 21,822
+1,007
 0
 3,087
 2,371
 19,918
 44,075
 10,800
-435,207
+437,055
 5
 Delvinë
 95,547
+339
 0
 33,515
 8,164
 2,833
 21,779
+1,276
 0
 3,714
 4,447
 12,296
 33,276
 0
-215,572
+217,187
 6
 Devoll
 313,822
+1,114
 0
 90,120
 5,472
 3,899
 22,047
+1,095
 0
 6,764
 13,696
 14,553
 57,504
 7,600
-535,477
+537,686
 7
 Dibër
 604,699
+2,146
 27,379
 203,168
 48,169
 14,565
 42,030
+1,825
 0
 12,115
 18,467
 17,692
 102,548
 0
-1,090,831
+1,094,803
 8
 Divjakë
 310,931
+1,104
 0
 88,894
 2,450
 2,016
 20,978
+1,095
 0
 1,294
 10,227
 38,563
 57,741
 24,800
-557,894
+560,093
 9
 Dropull
 132,995
+472
 0
 4,445
 574
 1,821
 21,634
+1,007
 0
 6,704
 6,620
 7,858
 34,316
 9,300
-226,266
+227,745
 10
 Durrës
 1,505,831
+5,345
 25,861
 312,130
 82,460
 29,855
 102,198
+4,375
 0
 4,735
 31,563
 58,171
 190,051
 225,100
-2,567,954
+2,577,674
 11
 Elbasan
 1,058,392
+3,757
 32,357
 367,044
 94,706
 52,828
 75,464
+2,735
 24,011
 17,923
 22,976
 18,820
 181,393
 56,000
-2,001,914
+2,008,405
 12
 Fier
 948,898
+3,368
 24,198
 279,714
 67,763
 17,285
 69,316
+3,100
 29,616
 5,957
 11,203
 75,961
 184,356
 95,000
-1,809,267
+1,815,735
 13
 Finiq
 199,757
+709
 0
 14,536
 1,948
 0
 34,070
+1,369
 0
 5,417
 3,690
 19,949
 40,697
 0
-320,064
+322,142
 14
 Fushë Arrëz
 114,076
+405
 0
 37,497
 16,329
 7,374
 29,602
+1,276
 0
 26,266
 17,656
 3,591
 37,205
 1,000
-290,596
+292,277
 15
 Gjirokastër
 317,032
+1,125
 20,554
 131,263
 40,822
 9,528
 47,364
+2,555
 0
 10,454
 10,074
 12,126
 64,420
 24,600
-688,237
+691,918
 16
 Gramsh
 315,138
+1,119
 7,343
 115,026
 14,695
 5,814
 26,044
+1,276
 0
 21,669
 25,543
 12,296
 55,345
 6,800
-605,711
+608,106
 17
 Has
 210,976
+749
 7,654
 55,110
 5,472
 4,673
 23,729
+1,007
 0
 20,897
 2,095
 13,966
 43,667
 0
-388,239
+389,995
 18
 Himarë
 175,545
+623
 0
 24,395
 1,390
 971
 24,446
+1,276
 0
 11,696
 5,867
 12,296
 46,390
 24,100
-327,097
+328,996
 19
 Kamzë
 849,834
+3,017
 0
 328,548
 45,816
 15,928
 64,723
+3,645
 0
 626
 0
 4,719
 174,577
 35,700
-1,520,472
+1,527,134
 20
 Kavajë
 333,715
+1,185
 14,470
 116,725
 27,759
 10,140
 27,251
+1,460
 0
 1,294
 7,366
 25,344
 95,735
 54,600
-714,398
+717,043
 21
 Këlcyrë
 95,740
+340
 0
 13,362
 2,450
 4,568
 21,828
+1,095
 0
 4,705
 10,074
 12,296
 29,549
 16,200
-210,772
+212,207
 22
 Klos
 203,871
+724
 0
 43,121
 8,981
 2,848
 21,634
+1,095
 0
 11,035
 13,226
 3,591
 42,595
 0
-350,902
+352,720
 23
 Kolonjë
 175,908
+624
 11,053
 52,706
 8,981
 6,508
 24,733
+1,095
 0
 21,844
 11,731
 21,781
 38,884
 7,600
-381,729
+383,448
 24
 Konispol
 95,864
+340
 0
 17,794
 1,963
 0
 21,634
+1,276
 0
 2,520
 2,271
 13,425
 26,505
 0
-181,976
+183,592
 25
 Korçë
 665,252
+2,361
 24,890
 235,388
 71,029
 29,912
 48,414
+2,915
 0
 22,420
 8,601
 59,678
 128,979
 7,600
-1,302,163
+1,307,439
 26
 Krujë
 446,568
+1,585
 0
 136,604
 26,699
 5,723
 34,007
+1,460
 0
 8,724
 9,346
 21,077
 65,918
 39,000
-793,665
+796,710
 27
 Kuçovë
 280,052
+994
 0
 97,373
 30,208
 10,575
 24,770
+1,276
 2,982
 2,219
 2,646
 16,564
 50,568
 0
-517,957
+520,227
 28
 Kukës
 533,326
+1,893
 22,109
 148,313
 51,435
 7,734
 81,815
+4,375
 2,843
 16,594
 25,252
 7,858
 98,067
 0
-995,346
+1,001,614
 29
 Kurbin
 347,013
+1,232
 0
 134,937
 35,441
 23,749
 27,096
+1,369
 0
 4,315
 5,087
 26,472
 67,843
 11,100
-683,054
+685,655
 30
 Lezhë
 510,434
+1,812
 10,578
 165,519
 44,904
 24,905
 56,733
+3,010
 0
 11,716
 6,802
 29,857
 100,228
 7,800
-969,476
+974,298
 31
 Libohovë
 60,261
+214
 0
 9,993
 1,963
 1,833
 21,634
+1,095
 0
 3,918
 8,347
 3,600
 17,128
 5,000
-133,678
+134,987
 32
 Librazhd
 405,235
+1,438
 0
 112,637
 16,086
 4,917
 29,938
+1,276
 0
 13,012
 31,657
 16,564
 67,345
 7,000
-704,391
+707,105
 33
-Lushnje
+Lushnjë
 622,970
+2,211
 10,521
 226,936
 50,376
 17,985
 37,675
+1,276
 0
 2,528
 9,634
 61,936
 121,859
 44,800
-1,207,218
+1,210,706
 34
 Malësi e Madhe
 428,902
+1,522
 4,786
 91,268
 4,898
 8,378
 38,552
+1,825
 0
 23,683
 16,972
 16,794
 70,618
 5,500
-710,351
+713,698
 35
 Maliq
 440,296
+1,563
 0
 128,412
 6,045
 15,981
 30,519
+1,369
 0
 8,496
 11,401
 52,027
 72,331
 7,600
-773,109
+776,041
 36
 Mallakastër
 230,963
+820
 0
 93,678
 25,309
 10,357
 23,498
+1,095
 0
 4,357
 9,414
 16,564
 51,502
 25,400
-491,043
+492,958
 37
 Mat
 284,993
+1,012
 14,337
 89,922
 30,208
 11,053
 25,117
+1,276
 0
 13,059
 33,048
 14,522
 71,983
 0
-588,241
+590,529
 38
 Memaliaj
 151,754
+539
 0
 52,487
 8,164
 11,936
 21,856
+1,095
 0
 4,834
 5,757
 3,600
 36,102
 11,600
-308,091
+309,724
 39
 Mirditë
 291,820
+1,036
 24,892
 77,815
 27,221
 12,065
 38,256
+1,276
 0
 22,095
 24,613
 18,790
 66,741
 0
-604,307
+606,618
 40
 Patos
 188,943
+671
 0
 69,228
 20,411
 5,656
 27,385
+1,007
 0
 1,253
 2,372
 18,329
 59,729
 11,900
-405,207
+406,884
 41
 Peqin
 198,539
+705
 0
 62,664
 7,922
 5,765
 22,383
+1,007
 0
 2,193
 5,656
 12,296
 58,283
 16,000
-391,701
+393,413
 42
 Përmet
 171,881
+610
 7,467
 35,729
 8,164
 7,268
 25,572
+1,095
 0
 8,542
 8,923
 12,296
 44,273
 13,800
-343,916
+345,621
 43
 Pogradec
 530,931
+1,885
 0
 216,188
 12,004
 15,103
 35,521
+1,276
 0
 22,180
 26,776
 13,425
 98,488
 9,500
-980,116
+983,277
 44
 Poliçan
 143,751
+510
 0
 43,566
 10,766
 7,692
 23,345
+1,007
 0
 5,655
 4,484
 4,491
 35,429
 0
-279,180
+280,697
 45
 Përrenjas
 255,010
+905
 0
 69,955
 7,679
 5,461
 24,382
+1,095
 0
 10,719
 24,126
 14,522
 49,115
 9,800
-470,769
+472,769
 46
 Pukë
 161,909
+575
 15,556
 49,522
 20,411
 11,582
 27,885
+1,008
 0
 18,056
 8,452
 3,591
 43,668
 2,600
-363,230
+364,813
 47
 Pustec
 51,123
+181
 0
 9,885
 355
 0
 24,971
+1,276
 0
 1,274
 407
 6,930
 21,934
 7,600
-124,480
+125,937
 48
 Roskovec
 162,745
+578
 0
 49,337
 3,839
 3,726
 21,634
+1,276
 0
 1,253
 5,181
 8,987
 59,967
 13,800
-330,468
+332,322
 49
 Rrogozhinë
 215,353
+764
 0
 52,070
 9,554
 3,770
 20,978
+1,095
 0
 2,166
 0
 12,296
 48,737
 19,300
-384,224
+386,084
 50
 Sarandë
 224,198
+796
 20,897
 73,234
 21,227
 5,478
 28,670
+1,460
 0
 3,782
 0
 7,858
 65,902
 41,000
-492,248
+494,503
 51
 Selenicë
 251,466
+893
 0
 44,287
 7,105
 14,147
 23,855
+1,095
 0
 6,834
 3,596
 19,235
 45,203
 0
-415,729
+417,716
 52
 Shijak
 215,249
+764
 0
 61,546
 10,614
 4,751
 26,531
+1,369
 0
 1,294
 62
 7,858
 48,045
 20,300
-396,250
+398,383
 53
 Shkodër
 982,156
+3,486
 65,848
 214,222
 86,542
 39,740
 72,901
+3,190
 66,890
 16,761
 24,505
 36,552
 128,593
 15,300
-1,750,009
+1,756,685
 54
 Skrapar
 181,808
+645
 12,603
 57,459
 18,625
 13,368
 27,932
+1,276
 0
 14,879
 16,542
 17,861
 47,575
 0
-408,652
+410,574
 55
 Tepelenë
 136,344
+484
 7,654
 53,839
 13,063
 5,627
 22,241
+1,095
 0
 7,690
 8,060
 3,599
 32,872
 15,500
-306,487
+308,066
 56
 Tiranë
 4,277,288
+15,182
 102,263
 994,752
 422,910
 140,269
 294,877
+16,850
 0
 14,567
 25,886
 26,397
 297,050
 0
-6,596,259
+6,628,291
 57
 Tropojë
 299,807
+1,064
 0
 69,005
 18,777
 5,680
 25,616
+1,369
 0
 21,365
 11,403
 4,148
 46,819
 0
-502,621
+505,054
 58
 Dimal
 227,756
+808
 0
 77,040
 574
 2,378
 21,779
+1,369
 0
 1,274
 4,928
 23,258
 49,332
 0
-408,318
+410,495
 59
 Vau i Dejës
 328,750
+1,167
 9,919
 64,866
 1,147
 3,747
 20,978
+1,550
 21,859
 9,757
 7,466
 15,681
 74,244
 2,100
-560,514
+563,231
 60
 Vlorë
 852,421
+3,026
 29,311
 332,779
 106,951
 49,907
 69,205
+3,740
 0
 8,490
 3,553
 50,883
 118,220
 0
-1,621,719
+1,628,485
 61
 Vorë
 198,376
+704
 0
 70,854
 3,839
 7,625
 20,978
+1,550
 0
 1,290
 639
 12,296
 76,342
 23,100
-415,341
+417,595
 Totali
 25,355,570
+90,000
 590,864
 7,280,608
 1,820,929
 781,003
 2,314,884
+114,000
 175,194
 573,244
 687,118
 1,165,587
 4,415,108
 1,000,000
-46,160,109
+46,364,109
 Tab. 3
 TRANSFERTA E PAKUSHTËZUAR PËR QARQET 2026
 Në mijë lekë
@@ -5185,1240 +5537,607 @@ Totali
 Tab. 4
 TREGUESIT FISKALË TË BUXHETIT TË KONSOLIDUAR 2023-2028
 Fiscal indicators regarding consolidated budget of 2023-2028
-në milion lekë (in million lek)
 Nr.
-EMËRTIMI
-Fakti 2023
-Në % të PBB-së
-Fakti 2024
-Në % të PBB-së
-Akti normativ 2025
-Në % të PBB-së
-Buxheti 2026
-Në % të PBB-së
+E M E R T I M I
+AN 2026 qershor
+Në % të PBB
 Buxheti 2027
-Në % të PBB-së
+Në % të PBB
 Buxheti 2028
-Në % të PBB-së
-ITEMS
+Në % të PBB
 TOTALI TË ARDHURAVE
-643,678
-27.2%
-710,328
-28.2%
-770,140
-29.1%
-823,057
-29.6%
-870,568
-29.8%
-920,635
-31.5%
-TOTAL REVENUE
+843,110
+30.2%
+892,541
+30.4%
+942,753
+32.1%
 I.
-Te ardhura nga ndihmat
-22,431
-0.9%
-7,797
-0.3%
-20,295
+Të ardhura nga ndihmat
+15,249
+0.5%
+24,297
 0.8%
-20,249
-0.7%
-25,297
+26,901
 0.9%
-27,901
-1.0%
-Grants
-Nga te cilat: mbështetje buxhetore
-17,870
-0.8%
-2,836
-0.1%
-3,000
-0.1%
+Nga të cilat: mbështetje buxhetore
 1,000
 0.0%
 1,000
 0.0%
 1,050
 0.0%
-from which: Budget Support
-Nga te cilat: projekte te destinuara per investime
-4,561
-0.2%
-4,961
-0.2%
-17,295
-0.7%
-19,249
-0.7%
-24,297
+Nga të cilat: projekte të destinuara për investime
+14,249
+0.5%
+23,297
 0.8%
-26,851
+25,851
 0.9%
 II.
-Te ardhura tatimore
-598,662
-25.3%
-658,847
-26.2%
-718,102
-27.2%
-773,035
-27.8%
-815,149
-27.9%
-862,342
-29.5%
-Tax Revenue
+Të ardhura tatimore
+798,088
+28.6%
+838,121
+28.6%
+884,860
+30.2%
 II.1
-Nga Tatimet dhe Doganat
-422,491
-17.9%
-456,965
-18.1%
-499,621
-18.9%
-531,137
-19.1%
-560,673
-19.2%
-593,844
-20.3%
-From tax offices and customs
-Tatimi mbi Vleren e Shtuar
-192,322
-8.1%
-213,999
-8.5%
-226,687
-8.6%
-242,546
-8.7%
-256,277
-8.8%
-271,821
-9.3%
-V.A.T
-Tatimi mbi Fitimin
-64,576
-2.7%
-56,995
+Nga tatimet dhe doganat
+538,258
+19.3%
+569,014
+19.4%
+602,942
+20.5%
+Tatimi mbi vlerën e shtuar
+248,023
+8.9%
+264,867
+9.0%
+282,440
+9.6%
+Tatimi mbi fitimin
+60,742
+2.2%
+64,061
+2.2%
+67,760
 2.3%
-60,387
-2.3%
-65,078
-2.3%
-68,632
-2.3%
-72,589
-2.5%
-Profit Tax
 Akcizat
-58,394
-2.5%
-63,437
-2.5%
-70,961
-2.7%
-74,672
-2.7%
-78,750
-2.7%
-83,290
-2.8%
-Excise Tax
-Tatimi mbi te Ardhurat Personale
-57,878
-2.4%
-66,143
+73,660
 2.6%
-84,212
-3.2%
-88,339
-3.2%
-93,252
-3.2%
-98,815
+78,790
+2.7%
+83,339
+2.8%
+Tatimi mbi të ardhurat personale
+96,321
+3.5%
+98,575
 3.4%
-Personal Income Tax
-Taksa Nacionale dhe te tjera
-40,188
+103,170
+3.5%
+Taksa nacionale dhe të tjera
+48,806
 1.7%
-47,418
+51,473
+1.8%
+54,394
 1.9%
-47,107
-1.8%
-49,589
-1.8%
-52,298
-1.8%
-55,260
-1.9%
-National Taxes and others
 Taksa Doganore
-9,133
+10,705
 0.4%
-8,973
+11,247
 0.4%
-10,267
+11,840
 0.4%
-10,912
-0.4%
-11,464
-0.4%
-12,068
-0.4%
-Customs Duties
 II.2
-Te ardhura nga Pushteti Vendor
-31,686
-1.3%
-40,331
-1.6%
-40,774
-1.5%
-43,932
-1.6%
-46,344
-1.6%
-49,252
+Të ardhura nga pushteti vendor
+57,932
+2.1%
+58,644
+2.0%
+60,252
+2.1%
+Taksa lokale
+47,895
 1.7%
-Local Taxes
-Taksa Lokale
-25,445
-1.1%
-32,564
-1.3%
-32,163
-1.2%
-33,895
-1.2%
-35,653
-1.2%
-38,162
-1.3%
-Local Taxes
-Tatimi mbi Pasurine (ndertesat)
-6,181
-0.3%
-7,670
-0.3%
-8,611
-0.3%
+47,953
+1.6%
+49,162
+1.7%
+Tatimi mbi pasurinë (ndërtesat)
 10,037
 0.4%
 10,691
 0.4%
 11,090
 0.4%
-Property Tax
-Tatimi i thjeshtuar mbi fitimin e biznesit te vogel
-60
-0.0%
-97
-Simplified profit tax for small businesses
 II.3
-Te ardhurat nga Fondet Speciale
-144,485
-6.1%
-161,551
-6.4%
-177,707
-6.7%
-197,967
-7.1%
-208,132
-7.1%
-219,246
-7.5%
-Revenues from Special Funds
-Sigurimi Shoqeror
-124,628
-5.3%
-139,404
-5.5%
-153,370
-5.8%
-170,621
-6.1%
-179,427
-6.1%
-189,055
+Të ardhurat nga fondet speciale
+201,898
+7.2%
+210,463
+7.2%
+221,666
+7.6%
+Sigurimi shoqëror
+174,349
+6.2%
+181,668
+6.2%
+191,370
 6.5%
-Social Insurance
-Sigurimi Shendetesor
-19,018
-0.8%
-21,313
-0.8%
-23,431
-0.9%
-26,345
-0.9%
-27,705
-0.9%
-29,191
+Sigurimi shëndetësor
+26,549
 1.0%
-Health insurance
-Te ardhurat per kompensimin ne vlere te pronareve
-839
-0.0%
-833
-0.0%
-905
-0.0%
+27,795
+0.9%
+29,296
+1.0%
+Të ardhurat për kompensimin në vlerë të pronarëve
 1,000
 0.0%
 1,000
 0.0%
 1,000
 0.0%
-Revenues for owners’ in value-compensation
 III.
-Te ardhura Jotatimore
-22,585
-1.0%
-43,684
-1.7%
-31,743
-1.2%
+Të ardhura jotatimore
 29,773
 1.1%
 30,123
 1.0%
-30,393
-1.0%
-Nontax Revenue
-Transferta e fitimit nga Banka e Shqiperise
+30,993
+1.1%
+Transferta e fitimit nga Banka e Shqipërisë
 0
 0.0%
 0
 0.0%
 0
 0.0%
-0
-0.0%
-0
-0.0%
-0
-0.0%
-Profit transfer from BoA
-Te ardhura nga Institucionet Buxhetore
-13,175
-0.6%
-14,973
-0.6%
-17,673
-0.7%
+Të ardhura nga institucionet buxhetore
 16,173
 0.6%
 16,273
 0.6%
-16,373
+16,473
 0.6%
-Income from budgetary institutions
 Dividenti
-48
-0.0%
-82
-0.0%
-60
-0.0%
 300
 0.0%
 300
 0.0%
 320
 0.0%
-Divident
-Tarifat e Sherbimeve
-3,209
-0.1%
-3,503
-0.1%
-3,800
-0.1%
+Tarifat e Shërbimeve
 3,800
 0.1%
 4,000
 0.1%
 4,100
 0.1%
-Services Fees
-Te tjera
-6,152
-0.3%
-25,126
-1.0%
-10,210
-0.4%
+Të tjera
 9,500
 0.3%
 9,550
 0.3%
-9,600
+10,100
 0.3%
-Others
 TOTALI I SHPENZIMEVE
-674,857
-28.5%
-728,572
-28.9%
-831,784
-31.5%
-886,764
-31.9%
-916,394
-31.3%
-959,965
-32.8%
-TOTAL EXPENDITURE
+906,817
+32.5%
+960,370
+32.7%
+1,005,649
+34.3%
 I.
-Shpenzime Korrente
-547,039
-23.1%
-606,289
-24.1%
-662,246
-25.1%
-704,441
-25.3%
-725,767
-24.8%
-763,386
+Shpenzime korrente
+727,840
 26.1%
-Current Expenditures
+758,363
+25.8%
+797,159
+27.2%
 1
 Personeli
-100,476
-4.2%
-112,699
-4.5%
-128,747
-4.9%
-140,140
-5.0%
-140,379
-4.8%
-150,065
+141,881
 5.1%
-Personnel expenditures
+143,597
+4.9%
+152,472
+5.2%
 Paga
-85,945
-3.6%
-96,235
-3.8%
-109,518
-4.1%
-119,463
+120,348
 4.3%
-119,694
-4.1%
-120,257
-4.1%
-Wages
-Kontributi per Sigurime Shoqerore
-13,537
-0.6%
-15,417
-0.6%
-17,829
+122,012
+4.2%
+122,807
+4.2%
+Kontributi për sigurime shoqërore
+19,973
 0.7%
-19,177
+19,585
 0.7%
-19,185
+19,684
 0.7%
-19,384
-0.7%
-Social insurance contributions
-Fondi i vecante i pagave
-0
+Fondi i veçantë i pagave
+560
 0.0%
-400
+1,000
 0.0%
-500
+1,000
 0.0%
-500
-0.0%
-500
-0.0%
-Bonus fund
-Politika te reja pagash
-0
-0.0%
-0
-0.0%
-0
-0.0%
-0
-0.0%
-0
-0.0%
-Contingency for new wage policies
 Indeksimi i Pagave
 0
 0.0%
 0
 0.0%
-0
-0.0%
-0
-0.0%
-8,924
+7,981
 0.3%
-Wage indexation
-Arsimi i Larte nga te ardhurat e veta
-995
-0.0%
-1,047
-0.0%
+Arsimi i lartë nga të ardhurat e veta
 1,000
 0.0%
 1,000
 0.0%
 1,000
 0.0%
-1,000
-0.0%
-Higher Education from its own revenues
 2
 Interesat
-47,591
-2.0%
-54,459
-2.2%
-61,694
+63,807
 2.3%
-64,206
+68,492
 2.3%
-68,235
-2.3%
-71,343
-2.4%
-Interest
-Te Brendshme
-29,030
-1.2%
-33,118
-1.3%
-35,600
-1.3%
+73,256
+2.5%
+Të brendshme
 35,153
 1.3%
-37,942
+38,161
 1.3%
-40,151
+41,091
 1.4%
-Domestic
-Te Huaja
-18,561
+Të huaja
+22,254
 0.8%
-21,341
+23,581
 0.8%
-20,244
-0.8%
-22,753
-0.8%
-23,743
-0.8%
-24,442
-0.8%
-Foreign
+25,165
+0.9%
 Kontingjencë për risqet e borxhit
-0
-0.0%
-5,850
-0.2%
-6,300
-0.2%
-6,550
+6,400
 0.2%
 6,750
 0.2%
-Contingency for debt related risks
+7,000
+0.2%
 3
-Shpenzime Operative Mirembajtje nga te cilat:
-70,489
-3.0%
-80,208
+Shpenzime operative mirëmbajtjeje nga të cilat:
+88,112
 3.2%
-80,785
-3.1%
-84,605
-3.0%
-81,655
-2.8%
-82,248
-2.8%
-Operational & Maintenance of which:
-Te qeverisjes qendrore
-70,489
-3.0%
-80,208
-3.2%
-77,036
+85,999
 2.9%
-80,705
+86,098
 2.9%
-77,655
-2.7%
-78,148
-2.7%
-Central government
-Arsimi i Larte nga te ardhurat e veta
-0
-0.0%
+Të qeverisjes qendrore
+84,212
+3.0%
+81,999
+2.8%
+81,998
+2.8%
+Arsimi i Lartë nga të ardhurat e veta
 1,000
 0.0%
 1,000
 0.0%
 1,000
 0.0%
-1,000
-0.0%
-from revenues of Higher Education System
-Te tjera jashte limitit
-0
-0.0%
-2,750
-0.1%
+Të tjera jashtë limitit
 2,900
 0.1%
 3,000
 0.1%
 3,100
 0.1%
-from Exceptional Revenues
 4
 Subvencionet
-1,906
-0.1%
-1,794
-0.1%
-1,950
-0.1%
 2,450
 0.1%
 2,450
 0.1%
 2,450
 0.1%
-Subsidies
 5
-Shpenzime per Fondet Speciale
-226,788
-9.6%
-251,791
-10.0%
-271,009
-10.3%
-286,573
-10.3%
-301,394
-10.3%
-319,864
-10.9%
-Social insurance outlays
-Sigurime Shoqerore
-170,239
-7.2%
-188,626
-7.5%
-194,038
+Shpenzime për fondet speciale
+289,395
+10.4%
+310,375
+10.6%
+331,264
+11.3%
+Sigurime shoqërore
+204,960
 7.3%
-204,088
-7.3%
-214,138
+214,919
 7.3%
 224,438
-7.7%
-Social insurance
-Politika te reja pensionesh
-0.0%
-0
-0.0%
-1,140
-0.0%
+7.6%
+Politika të reja pensionesh
 1,653
 0.1%
-1,753
+2,653
 0.1%
-2,673
+2,773
 0.1%
-Contingency for new pension policies
-Bonusi i Pensionisteve
-0.0%
-0
-0.0%
-9,700
-0.4%
+Bonusi i pensionistëve
 10,000
 0.4%
-15,000
-0.5%
-20,500
+20,000
 0.7%
-Pensioners’ Bonus
-Sigurime Shendetesore
-55,213
-2.3%
-58,771
-2.3%
-63,132
+30,000
+1.0%
+Sigurime shëndetësore
+69,282
+2.5%
+69,303
 2.4%
-67,332
+70,053
 2.4%
-67,003
-2.3%
-68,253
-2.3%
-Health insurance
-Shpenzime per Kompensimin ne Vlere te Pronareve
-1,336
-0.1%
-4,394
-0.2%
-3,000
-0.1%
+Shpenzime për kompensimin në vlerë të pronarëve
 3,500
 0.1%
 3,500
 0.1%
 4,000
 0.1%
-Expenditure for owners’ in value-compensation
 6
-Shpenzime per Buxhetin Vendor
-68,841
-2.9%
-74,407
-3.0%
-89,911
-3.4%
-97,767
-3.5%
-101,934
-3.5%
-107,016
-3.7%
-Local Budget expenditure
-Transfertat nga Buxheti i Shtetit per pushtetin vendor
-33,191
-1.4%
-37,058
-1.5%
-43,411
-1.6%
-47,315
+Shpenzime për Buxhetin Vendor
+111,971
+4.0%
+114,429
+3.9%
+118,119
+4.0%
+Transfertat nga buxheti i shtetit për pushtetin vendor
+47,519
 1.7%
-49,040
+49,235
 1.7%
-50,864
+50,967
 1.7%
-Central Government Grant for Local Government
 Transfertë e pakushtëzuar e përgjithshme
-0
-0.0%
-26,282
+27,904
 1.0%
-27,814
+29,345
 1.0%
-29,250
-1.0%
-30,819
+30,922
 1.1%
-Unconditional Fund
-Transfertë e pakushtëzuar sektoriale (Grant Specifik)
-0
-0.0%
-13,429
-0.5%
-19,301
+Transfertë e pakushtëzuar sektoriale (grant specifik)
+19,415
 0.7%
-19,590
+19,690
 0.7%
 19,845
 0.7%
-Specific Grant
-Transfertë e pakushtëzuar sektoriale (Grant Performance)
-0
-0.0%
+Transfertë e pakushtëzuar sektoriale (grant performance)
 200
 0.0%
 200
 0.0%
 200
 0.0%
-200
-0.0%
-Performance Grant
-Transferte sektoriale per pagat
-0
-0.0%
-3,500
-0.1%
-0
-0.0%
-0
-0.0%
-0
-0.0%
-Specific Grant for wages
 Buxheti vendor (të ardhurat e veta tatimore)
-34,905
-1.5%
-36,907
-1.5%
-40,774
-1.5%
-43,932
-1.6%
-46,344
-1.6%
-49,252
-1.7%
-Local Budget (Own revenues)
+57,932
+2.1%
+58,644
+2.0%
+60,252
+2.1%
 Taksa të ndara
-0
-0.0%
-1,700
-0.1%
 1,820
 0.1%
 1,850
 0.1%
 2,000
 0.1%
-Local Budget (from shared taxes revenues)
-Buxheti vendor (të ardhurat e veta jo-tatimore)
-0
-0.0%
-3,000
-0.1%
+Buxheti vendor (të ardhurat e veta jotatimore)
 3,200
 0.1%
 3,200
 0.1%
 3,400
 0.1%
-Local Budget (from non-tax revenues)
-Financimi i huaj vendor dhe te tjera te mbartura
-530
-0.0%
-262
-0.0%
-1,026
-0.0%
+Financimi i huaj vendor dhe të tjera të mbartura
 1,500
 0.1%
 1,500
 0.1%
 1,500
 0.1%
-Local foreign financing
-Shpenzime nga te ardhurat jashte limitit
-215
-0.0%
-180
-Expenditure from unforeseen local revenues
 7
-Shpenzime te tjera
-30,948
-1.3%
-30,931
-1.2%
-28,150
+Shpenzime të tjera
+30,224
 1.1%
-28,700
-1.0%
-29,720
-1.0%
-30,400
-1.0%
-Other expenditures
-Pagesa e Papunesise
-858
-0.0%
-832
-0.0%
-800
-0.0%
+33,020
+1.1%
+33,500
+1.1%
+Pagesa e papunësisë
 1,000
 0.0%
 1,020
 0.0%
 1,100
 0.0%
-Unemployment insurance benefits
-Ndihma Ekonomike dhe Paaftesia
-25,686
-1.1%
-26,841
-1.1%
-23,700
+Ndihma ekonomike dhe paaftësia
+25,324
 0.9%
-23,900
+27,700
 0.9%
-24,400
-0.8%
-24,800
-0.8%
-Social assistance and disability
-Kompensim per ish te perndjekurit politike
-1,098
-0.0%
-1,059
-0.0%
-1,400
-0.1%
-1,500
+27,900
+1.0%
+Kompensim për ish të përndjekurit politikë
+1,600
 0.1%
 2,000
 0.1%
 2,000
 0.1%
-Compensation for ex political prisoners
 Bonusi i lindjeve
-3,306
-0.1%
-2,200
-0.1%
-2,250
-0.1%
 2,300
 0.1%
 2,300
 0.1%
 2,500
 0.1%
-Birth Bonus
 II.
-Fonde te tjera te pashperndara
-5,400
-0.2%
-2,500
+Fonde të tjera të pashpërndara
+2,800
 0.1%
 5,500
 0.2%
 3,000
 0.1%
-Other undistributed funds
-Fondi Rezerve
-2,900
-0.1%
-2,500
+Fondi rezervë
+2,800
 0.1%
 3,000
 0.1%
 3,000
 0.1%
-Reserve Fund
-Rezerve per zgjedhjet
+Rezerve për zgjedhjet
 2,500
 0.1%
-2,500
-0.1%
-Contingency for deficit financing
-Fond rezerve per reformat/masat e Planit te Rritjes me BE
-Reserve fund for reforms/measures EU Growth Plan
-Kontingjence
-Contingency
 III.
-Shpenzime Kapitale
-119,053
-5.0%
-115,433
-4.6%
-164,138
-6.2%
-179,823
-6.5%
-185,127
+Shpenzime kapitale
+176,177
 6.3%
-193,580
-6.6%
-Capital expenditures
-Financimi Brendshem
-88,489
-3.7%
-88,903
-3.5%
-117,274
-4.4%
-126,811
+196,508
+6.7%
+205,490
+7.0%
+Financimi i brendshëm
+128,165
 4.6%
-118,122
-4.0%
-120,819
-4.1%
-Domestic financing
-nga e cila: Injektim Kapitali BZHSH
+130,003
+4.4%
+136,729
+4.7%
+nga e cila: Injektim kapitali i BZHSH-së
 1,000
 0.0%
 2,000
 0.1%
 3,000
 0.1%
-from which: Capital injection for ADB
-Investime nga te ardhurat e Arsimit te Larte
-602
-0.0%
-832
-0.0%
+Investime nga të ardhurat e arsimit të lartë
 1,000
 0.0%
 1,000
 0.0%
 1,000
 0.0%
-1,000
-0.0%
-From Higher Education System’s own revenues
-Financimi Huaj
-13,761
-0.6%
-17,427
-0.7%
-40,864
+Financimi i huaj
+42,012
 1.5%
-47,012
-1.7%
-64,505
-2.2%
-71,761
-2.5%
-Foreign financing
+62,505
+2.1%
+67,761
+2.3%
 nga të cilat: Energjia
-873
-0.0%
-308
-0.0%
 2,000
 0.1%
 2,000
 0.1%
 2,000
 0.1%
-2,000
+Plani i Rritjes me BE-në
+1,790
 0.1%
-from which: Energy
-Plani i Rritjes me BE
-2,764
-0.1%
-6,800
-0.2%
-16,205
+14,134
+0.5%
+16,876
 0.6%
-20,964
-0.7%
-EU Growth Plan
-Fondi i Rindertimit
-16,201
-0.7%
-8,271
-0.3%
+Fondi i rindërtimit
 5,000
 0.2%
-5,000
-0.2%
-1,500
-Reconstruction Fund
-Transferte kapitale per për llogarine speciale të shpronësimeve
-Transfers to expropriation funds account
-V
-Të tjera
-3,766
-0.2%
-550
-0.0%
-0
-0.0%
-0
-0.0%
-0
-0.0%
-0
-0.0%
-Other
-Hua e dhene per Energjine
-0.0%
-Borrowing to Energy Sector
-Hua e kthyer nga sistemi energjitik
-Repayment from Energy Sector
-Mbeshtetje buxhetore per sektorin energjitik
-Budget support for Energy sector
-Hua e dhene per Albcontrol
 3,000
-0.1%
-Loans to Albcontrol
-Transferte Kapitale
-766
-0.0%
-550
-0.0%
-Capital Transfer
-VI
-Transferta e Shpronesimeve
-5,000
-0.2%
-Expropriation Fund
-VII
-Transferte per Llogarine e Fondit te Pensioneve ne BSH
-6,300
-0.3%
-DEFIÇITI
--31,180
--1.3%
--18,243
--0.7%
--61,644
--2.3%
+Transfertë kapitale për për llogarinë speciale të shpronësimeve
+DEFICITI
 -63,707
 -2.3%
--45,826
--1.6%
--39,330
--1.3%
-Cash Balance
-FINANCIMI DEFIÇITIT
-31,180
-1.3%
-18,243
-0.7%
-61,644
-2.3%
+-67,830
+-2.3%
+-62,895
+-2.1%
+FINANCIMI DEFICITIT
 63,707
 2.3%
-45,826
+67,830
+2.3%
+62,895
+2.1%
+I brendshëm
+44,737
 1.6%
-39,330
-1.3%
-Financing (Cash)
-Brendshëm
--7,324
--0.3%
-33,619
-1.3%
-52,734
-2.0%
-53,433
-1.9%
-42,999
+44,954
 1.5%
-28,581
-1.0%
-Domestic
-Te ardhura nga privatizimi
-47
-0.0%
-27
-Privatization receipts
-Hua-marrje e brendshme
-20,671
-0.9%
-49,718
-2.0%
+36,287
+1.2%
+Të ardhura nga privatizimi
+Huamarrje e brendshme
 50,000
-1.9%
-45,000
+1.8%
+46,000
 1.6%
-30,000
-1.0%
-25,000
-0.9%
-Domestic borrowing
-Te tjera
--28,043
--1.2%
--16,126
--0.6%
-2,734
-0.1%
-8,433
-0.3%
-12,999
-0.4%
-3,581
-0.1%
-Other
-I Huaj
-38,504
-1.6%
--15,376
--0.6%
-8,910
-0.3%
-10,274
-0.4%
-2,827
-0.1%
-10,749
-0.4%
-Foreign
-Hua afatgjate (e marre)
-72,476
-3.1%
-12,968
-0.5%
-88,520
-3.3%
-29,262
-1.1%
-90,882
-3.1%
-105,419
-3.6%
-Long-term Loan(Drawings)
-Ndryshimi i gjendjes se arkes
-51
+39,000
+1.3%
+Të tjera
+-5,263
+-0.2%
+-1,046
 0.0%
--256
-0.0%
-Chang. of stat. Account
-Ripagesat
--53,238
--2.3%
--40,453
--1.6%
--93,753
--3.5%
--36,691
--1.3%
--97,890
--3.3%
--94,670
--3.2%
-Repayments
-Mbeshtetje buxhetore
-19,215
+-2,713
+-0.1%
+I huaj
+18,971
+0.7%
+22,876
 0.8%
-12,366
+26,608
+0.9%
+Hua afatgjatë (e marrë)
+29,264
+1.0%
+103,267
+3.5%
+105,969
+3.6%
+Ndryshimi i gjendjes së arkës
+Ripagesat
+-32,613
+-1.2%
+-95,348
+-3.2%
+-94,409
+-3.2%
+Mbështetje buxhetore
+22,320
+0.8%
+14,957
 0.5%
-14,142
+15,048
 0.5%
-17,703
-0.6%
-9,835
-0.3%
-0
-0.0%
-Budget support
 Produkti i Brendshëm Bruto (PBB)
-2,364,276
+2,790,436
 100.0%
-2,517,820
+2,934,532
 100.0%
-2,642,509
+3,092,217
 100.0%
-2,781,433
-100.0%
-2,924,988
-100.0%
-3,081,927
-100.0%
-Gross Domestic Product (GDP)
 Tab. 5
 në 000/lekë
 Të tjera shpenzime të papërfshira në buxhetet e ministrive dhe institucioneve
