@@ -1,0 +1,1 @@
+2. IQP-ja financohet nga buxheti i shtetit dhe nga burime të tjera të ligjshme, në përputhje me dispozitat ligjore në fuqi. Buxheti i IQP-së përbën zë të veçantë në buxhetin e ministrisë përgjegjëse për punën.

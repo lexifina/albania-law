@@ -1,0 +1,1 @@
+15. Vula e IQP-së dhe vulat e secilës DRIQP kanë formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave, që përcakton rregullat e prodhimit, të administrimit, të kontrollit dhe të ruajtjes së vulave zyrtare. Vulat prodhohen, administrohen e ruhen në përputhje me legjislacionin në fuqi.

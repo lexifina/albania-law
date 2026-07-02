@@ -1,0 +1,1 @@
+9. Marrëdhëniet e punës së kryeinspektorit qendror, kryeinspektorëve rajonalë dhe inspektorëve të IQP-së rregullohen sipas dispozitave të Kodit të Punës, dispozitave të ligjit për inspektimin dhe akteve nënligjore në zbatim të tij.

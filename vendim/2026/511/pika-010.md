@@ -1,0 +1,1 @@
+10. Marrëdhëniet e punësimit për punonjësit e tjerë, që ushtrojnë funksione publike, dhe për punonjësit administrativë, që nuk ushtrojnë një funksion publik, rregullohen sipas dispozitave të Kodit të Punës.

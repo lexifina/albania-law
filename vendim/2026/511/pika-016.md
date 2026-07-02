@@ -1,0 +1,11 @@
+16. Vula e IQP-së në nivel qendror përmban dhe shënimin identifikues “Inspektorati Qendror i Punës”, ndërsa vulat e DRIQP-ve përmbajnë dhe shënimin identifikues: “Inspektorati Qendror i Punës, Drejtoria Rajonale e Rajonit (emri përkatës i rajonit, ku ka selinë inspektorati)”.
+IV. DISPOZITA KALIMTARE DHE TË FUNDIT
+1. Me hyrjen në fuqi të këtij vendimi, Inspektorati Shtetëror i Punës dhe Shërbimeve Shoqërore ristrukturohet në Inspektoratin Qendror të Punës.
+2. Nëpunësit civilë aktualë të Inspektoratit Shtetëror të Punës dhe Shërbimeve Shoqërore, të cilët kryejnë funksione inspektuese, trajtohen sipas dispozitave kalimtare të ligjit nr. 99/2024, “Për inspektimin në Republikën e Shqipërisë”.
+3. Nëpunësit civilë aktualë të Inspektoratit Shtetëror të Punës dhe Shërbimeve Shoqërore, të cilët kryejnë funksionet horizontale, në kuptim të ligjit nr. 90/2012, “Për organizimin dhe funksionimin e administratës shtetërore”, trajtohen sipas dispozitave të legjislacionit për nëpunësin civil në rastin e mbylljes dhe ristrukturimit të institucionit.
+4. Punonjësit aktualë të Inspektoratit Shtetëror të Punës dhe Shërbimeve Shoqërore, marrëdhëniet e punës të të cilëve rregullohen në bazë të dispozitave të Kodit të Punës, vijojnë marrëdhëniet e punës pranë Inspektoratit Qendror të Punës, në përputhje me strukturën organizative të miratuar.
+5. Procedurat për riorganizimin e Inspektoratit Shtetëror të Punës dhe Shërbimeve Shoqërore në Inspektoratin Qendror të Punës përfundojnë brenda 6 (gjashtë) muajve nga data e hyrjes në fuqi të këtij vendimi.
+6. Deri në fillimin e funksionimit të plotë të Inspektoratit Qendror të Punës, Inspektorati Shtetëror i Punës dhe Shërbimeve Shoqërore vazhdon funksionimin e tij, sipas strukturës dhe organikës së miratuar.
+7. Ngarkohen Inspektorati i Përgjithshëm, Ministria e Ekonomisë dhe Inovacionit, Departamenti i Administratës Publike dhe Inspektorati Qendror i Punës për zbatimin e këtij vendimi.
+8. Me hyrjen në fuqi të këtij vendimi, vendimi nr. 295, datë 20.3.2013, i Këshillit të Ministrave, “Për krijimin, organizimin dhe funksionimin e Inspektoratit Shtetëror të Punës dhe Shërbimeve Shoqërore”, shfuqizohet.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
