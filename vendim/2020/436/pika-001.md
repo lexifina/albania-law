@@ -1,4 +1,4 @@
-1. Kanë të drejtë të aplikojnë për t’u pranuar në institucionet e arsimit të lartë, për vitin akademik 2020-2021 dhe në vijim , përkatësisht, si më poshtë:
-a) Në programet e studimeve të ciklit të parë dhe në programet e integruara të studimeve të ciklit të dytë, kandidatët, që kanë përfunduar me sukses arsimin e mesëm të lartë, minimalisht me notë mesatare 6.5 (gjashtë pikë pesë);
-b) Në programet e studimit të gjuhëve të huaja, të përcaktuara në shtojcën nr. 1 të këtij vendimi, minimalisht me notë mesatare 7 (shtatë);
-c) Në programet e studimit të ciklit të parë Bachelor, të cilat japin akses në programet e ciklit të dytë master në fushën e mësuesisë, të përcaktuara në shtojcën nr. 2, të këtij vendimi, minimalisht me notë mesatare 7.5 (shtatë pikë pesë).
+1. Kandidatët, për t’u pranuar në programet e studimit të ciklit të parë dhe në programet e integruara të studimeve të ciklit të dytë, duhet të kenë përfunduar me sukses arsimin e mesëm të lartë, minimalisht me notë mesatare 6.5 (gjashtë pikë pesë). Për pranimin në programet e studimit të përcaktuara në shtojcën 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, nota mesatare të jetë minimalisht:
+a) 7 (shtatë) për pranimin në programet e studimit të ciklit të parë në fushën e mësuesisë për gjuhët e huaja;
+b) 7.5 (shtatë pikë pesë) për pranimin në programet e studimit të ciklit të parë, të cilat japin akses në programet e ciklit të dytë master në fushën e mësuesisë;
+c) 7.5 (shtatë pikë pesë) për pranimin në programin e studimit të ciklit të parë, që përgatit mësues për arsimin parashkollor, program, i cili nuk jep akses në programet e ciklit të dytë në fushën e mësuesisë për arsimin fillor, arsimin e mesëm të ulët dhe të mesëm të lartë.
