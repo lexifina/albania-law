@@ -1,0 +1,5 @@
+VENDIM
+Nr. 510, datë 30.6.2026
+PËR TRANSFERIMIN NË FONDIN E PASURIVE TË PALUAJTSHME PËR MBËSHTETJEN E INVESTIMEVE STRATEGJIKE, I CILI ADMINISTROHET NGA MINISTRIA PËRGJEGJËSE PËR EKONOMINË, TË PASURIVE TË PALUAJTSHME SHTETËRORE NË ZONAT KADASTRALE 8604 DHE 2765, BASHKIA VLORË, PËR ZHVILLIMIN DHE REALIZIMIN E PROJEKTIT TË INVESTIMIT STRATEGJIK “VLORË TEDA/RAMS FREE ZONE”
+Në mbështetje të nenit 100 të Kushtetutës; të nenit 13, të ligjit nr. 8743, datë 22.2.2001, “Për pronat e paluajtshme të shtetit”, të ndryshuar; të neneve 27 dhe 31, të ligjit nr. 55/2015, “Për investimet strategjike në Republikën e Shqipërisë”, të ndryshuar, dhe të pikës 3, të kreut II, të vendimit nr. 1030, datë 16.12.2015, të Këshillit të Ministrave, “Për organizimin dhe formën e pjesëmarrjes së shtetit në investimet strategjike dhe rregullat për krijimin, funksionimin dhe administrimin e Fondit të Pasurive të Paluajtshme për Mbështetjen e Investimeve Strategjike”, me propozimin e ministrit të Ekonomisë dhe Inovacionit, Këshilli i Ministrave
+VENDOSI:

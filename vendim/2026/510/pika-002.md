@@ -1,0 +1,1 @@
+2. Pasuritë e paluajtshme shtetërore, të përcaktuara në pikën 1, të këtij vendimi, vihen në dispozicion për zhvillimin dhe realizimin e projektit të investimit strategjik “Vlorë TEDA/RAMS Free Zone”, nga subjekti investues “Rams Albania”, sh.p.k., me NUIS M42427018I.

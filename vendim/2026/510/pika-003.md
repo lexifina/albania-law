@@ -1,0 +1,1 @@
+3. E drejta e përdorimit të pasurive të paluajtshme shtetërore nga subjekti investues “Rams Albania” sh.p.k., me NUIS M42427018I, si dhe detyrimet dhe kushtet e përdorimit bëhen në përputhje me vendimin nr. 1, datë 11.2.2026, të Komitetit të Investimeve Strategjike.
