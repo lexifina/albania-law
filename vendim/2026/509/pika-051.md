@@ -1,0 +1,1 @@
+51. “Sobë”, një pajisje ngrohëse që përdor lëndë djegëse të ngurta, i cili kryen dy funksione njëkohësisht: atë të ngrohësit dhe të furrës për gatim. Ajo është e lidhur me një oxhak, vatër zjarri ose një sistem ventilimi që mundëson largimin e produkteve të djegies, si tymi dhe gazrat, nga ambienti ku ndodhet soba.

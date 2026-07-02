@@ -1,0 +1,1 @@
+8. “Emetime të komponimeve organike të gazta”, emetimet e komponimeve organike të gazta në prodhimin maksimal të nxehtësisë, të shprehura në mgC/m³ të gazrave të tymit. E llogaritur në 273 K dhe 1013 mbar me 13 % O2.

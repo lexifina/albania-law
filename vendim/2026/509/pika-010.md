@@ -1,0 +1,1 @@
+10. “Emetime të monoksidit të karbonit”, emetimet e monoksidit të karbonit në prodhimin maksimal të nxehtësisë, të shprehura në mg/m³ të gazrave të tymit, të llogaritura në 273 K dhe 1013 mbar me 13 % O2.

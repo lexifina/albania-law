@@ -1,0 +1,1 @@
+45. “Prodhim i tërthortë i nxehtësisë” tregon prodhimin e nxehtësisë nga një pajisje, përmes përdorimit të një fluidi transmetues të nxehtësisë, i cili kalon nëpër një proces që siguron prodhimin e drejtpërdrejtë të nxehtësisë për produktin. Ky proces ndodh si një efekt anësor dhe nxehtësia e prodhuar në këtë mënyrë matet në kilovat (kw).

@@ -1,0 +1,1 @@
+7. “Eficienca sezonale e energjisë për ngrohjen e hapësirës” (ηs) tregon raportin midis kërkesës për ngrohjen e hapësirës, të furnizuar nga një pajisje ngrohëse lokale me lëndë djegëse të ngurtë dhe konsumit vjetor të energjisë, të nevojshëm për të përmbushur këtë kërkesë, e cila shprehet në %.

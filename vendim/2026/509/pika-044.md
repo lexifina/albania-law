@@ -1,0 +1,1 @@
+44. “Prodhim i nxehtësisë në një fazë të vetme, pa kontroll të temperaturës” nënkupton që produkti nuk është i aftë të rregullojë automatikisht prodhimin e tij të nxehtësisë dhe se nuk ka asnjë mekanizëm të brendshëm për monitorimin apo përshtatjen e temperaturës përmes një sistemi feedback.

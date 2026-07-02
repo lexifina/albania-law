@@ -1,0 +1,1 @@
+9. “Emetime të materialit grimcor”, emetimet e lëndës grimcore në prodhim maksimal të nxehtësisë, të shprehura në mg/m³ të gazrave të tymit të thatë, të llogaritura në 273 K dhe 1013 mbar me 13 % O2, ose mesataren e ponderuar të emetimeve të lëndës grimcore deri në katër shpejtësi djegieje, të shprehur në g/kg, lëndë e thatë.

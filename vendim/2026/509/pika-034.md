@@ -1,0 +1,1 @@
+34. “Pajisje ngrohëse me lëndë djegëse të ngurtë i hapur me oxhak, një pajisje ngrohëse me lëndë djegëse të ngurtë, e destinuar të vendoset nën një oxhak ose brenda një oxhaku pa vulosje midis produktit dhe hapjes së oxhakut ose oxhakut të furrës dhe që lejon kalimin e produkteve të djegies pa pengesa nga shtrati i zjarrit drejt oxhakut ose kanalit të tymit.

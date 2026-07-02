@@ -1,0 +1,1 @@
+16. “Kërkesë e treguesit të ndezjes (ppilot)” i referohet konsumit të lëndës djegëse në formë të gaztë, të lëngshme ose të ngurtë që përdoret për të siguruar një burim ndezjeje, i cili shërben për të filluar procesin e djegies dhe për të prodhuar nxehtësinë maksimale ose të pjesshme, kur ndizet për më shumë se 5 minuta, para se të ndizet djegësi kryesor. Ky konsum shprehet në kw.

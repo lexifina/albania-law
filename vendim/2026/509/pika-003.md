@@ -1,0 +1,1 @@
+3. “Biomasë tjetër drusore”, biomasa drusore e ndryshme nga druri në copa me përmbajtje lagështie 25 % ose më pak, lëndët djegëse të kompresuara në formë briketash me përmbajtje lagështie nën 14 %, ose druri i kompresuar me përmbajtje lagështie nën 12 %;

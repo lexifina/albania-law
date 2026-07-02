@@ -1,0 +1,1 @@
+11. “Emetime të oksideve të azotit”, emetimet e oksideve të azotit në prodhimin maksimal të nxehtësisë, të shprehura në mg/m³ të gazrave të tymit, të shprehur si NO2. E llogaritur në 273 K dhe 1013 mbar me 13 % O2.

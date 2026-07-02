@@ -1,0 +1,1 @@
+37. “Përmbajtje e lagështisë”, sasia e ujit që ndodhet në një lëndë djegëse në lidhje me masën totale të saj. Ky tregues është i rëndësishëm për pajisjet e ngrohjes lokale, pasi sasia e ujit në lëndën djegëse ndikon në eficiencën e djegies.

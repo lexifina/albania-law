@@ -1,0 +1,1 @@
+15. “Identifikues i modelit”, një kod, zakonisht alfanumerik, që përdoret për të dalluar një model specifik të një pajisjeje ngrohëse nga modelet e tjera të së njëjtës markë, emër furnizuesi dhe tregtari.

@@ -1,0 +1,1 @@
+46. “Prodhim maksimal i nxehtësisë (Pmax)”, prodhim i nxehtësisë nga një pajisje ngrohëse lokale, që përfshin si prodhimin e drejtpërdrejtë të nxehtësisë ashtu edhe prodhimin e tërthortë të nxehtësisë (kur është e aplikueshme), kur pajisja funksionon në kapacitetin e saj maksimal të prodhimit të nxehtësisë, siç është përcaktuar nga prodhuesi, e shprehur në kw.

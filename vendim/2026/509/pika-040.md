@@ -1,0 +1,1 @@
+40. “Prodhim i nxehtësisë me kontroll elektronik të temperaturës së dhomës” nënkupton që produkti është i pajisur me një pajisje elektronike të integruar ose të jashtme, që i lejon produktit të ndryshojë automatikisht prodhimin e tij të nxehtësisë gjatë një periudhe të caktuar, në lidhje me një nivel të caktuar të komoditetit të ngrohjes së brendshme.

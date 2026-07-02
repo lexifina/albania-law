@@ -1,0 +1,1 @@
+6. “E destinuar për përdorim të jashtëm” tregon që produkti është i përshtatshëm dhe i sigurt për t’u përdorur jashtë hapësirave të brendshme, duke përfshirë përdorimin në ambiente të jashtme, të tilla si hapësira të ekspozuara ndaj kushteve të motit, si dielli, shiu etj.

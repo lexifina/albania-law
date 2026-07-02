@@ -1,0 +1,1 @@
+49. “Rendiment i dobishëm në prodhimin maksimal ose minimal të nxehtësisë (ηth, nom ose ηth, min), raporti ndërmjet energjisë së dobishme të nxehtësisë të prodhuar dhe energjisë totale të hyrjes, e shprehur në terma të NCV (vlera kalorifike neto), të një sistemi ngrohës dhe është shprehur në përqindje (%).

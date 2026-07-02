@@ -1,0 +1,1 @@
+47. “Prodhim minimal i nxehtësisë (Pmin)” sasia e nxehtësisë që prodhon një pajisje ngrohëse lokale, përfshirë si prodhimin e nxehtësisë së drejtpërdrejtë, ashtu edhe prodhimin e nxehtësisë së tërthortë (kur është e aplikueshme), kur operon duke realizuar nivelin minimal të prodhimit të nxehtësisë, siç është përcaktuar nga prodhuesi, e shprehur në kw.

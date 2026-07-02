@@ -1,0 +1,1 @@
+23. “Lëndë djegëse fosile e ngurtë”, lëndët djegëse të ngurta, përveç lëndëve djegëse nga biomasa, duke përfshirë antracitet, qymyrin me avull të thatë, qymyrin bituminoz, linjitin, ziftin me temperaturë të ulët, si dhe një përzierje të lëndëve djegëse fosile ose një përzierje të biomasës me lëndë djegëse fosile. Për qëllimet e këtij vendimi, përfshihet, gjithashtu, plehu.

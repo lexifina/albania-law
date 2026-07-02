@@ -1,0 +1,1 @@
+38. “Prodhim i drejtpërdrejtë i nxehtësisë”, procesi i prodhimit të nxehtësisë nga pajisja përmes rrezatimit dhe konveksionit të nxehtësisë, ashtu siç emetohet drejtpërdrejt nga pajisja në ajër, pa përdorur një medium të jashtëm për transmetimin e nxehtësisë. Ky proces është i shprehur në kw dhe tregon sasinë e nxehtësisë që prodhohet nga pajisja në një periudhë të caktuar kohe.

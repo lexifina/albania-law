@@ -1,0 +1,1 @@
+13. “Funksioni i ngrohjes indirekte”, aftësia që produkti të transferojë një pjesë të prodhimit total të nxehtësisë në një fluid transmetues nxehtësie, për përdorime si ngrohja e ambienteve ose prodhimi i ujit të ngrohtë për përdorime shtëpiake.

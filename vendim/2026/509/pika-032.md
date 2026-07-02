@@ -1,0 +1,1 @@
+32. “Pajisje ngrohëse me djegie të hapur”, një pajisje ngrohëse që përdor lëndë djegëse në formë të gaztë, të lëngët ose të ngurtë, ku nxehtësia dhe gazet e djegies nuk shpërndahen jashtë hapësirës ku ndodhet pajisja. Kjo pajisje lidhet me një oxhak, vatër zjarri ose tubacion ventilimi, të cilët shërbejnë për largimin e produkteve të krijuara gjatë djegies.

@@ -1,0 +1,1 @@
+30. “Opsion i kontrollit të temperaturës, me mbikëqyrje” nënkupton që produkti është i pajisur me një pajisje elektronike, të integruar ose të jashtme, që automatikisht ul temperaturën deri në një nivel të caktuar, pa ndërhyrjen e përdoruesit.

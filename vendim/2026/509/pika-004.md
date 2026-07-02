@@ -1,0 +1,1 @@
+4. “Biomasë”, fraksioni i biodegradueshëm i produkteve, mbetjeve dhe mbetjeve me natyrë biologjike nga bujqësia (duke përfshirë substancat bimore dhe shtazore), të pylltarisë dhe industrive të lidhura me to dhe, gjithashtu, nga peshkimi e akuakultura, si dhe fraksionet e biodegradueshme të mbetjeve industriale e komunale.

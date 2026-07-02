@@ -1,0 +1,1 @@
+39. “Prodhim i nxehtësisë me dy ose më shumë faza manuale, pa kontroll të temperaturës”, nënkupton që produkti ka aftësinë të ndryshojë manualisht nivelin e prodhimit të nxehtësisë në dy ose më shumë faza. Ai nuk është i pajisur me një sistem automatik që rregullon prodhimin e nxehtësisë në bazë të një temperature të caktuar të ambientit.

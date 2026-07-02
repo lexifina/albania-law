@@ -1,0 +1,1 @@
+1. Ky vendim përcakton kërkesat e projektimit ekologjik për vendosjen në treg dhe vënien në shërbim të pajisjeve të ngrohjes lokale me lëndë djegëse të ngurtë, me prodhim nominal të nxehtësisë deri në 50 kw.

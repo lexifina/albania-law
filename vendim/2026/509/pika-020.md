@@ -1,0 +1,1 @@
+20. “Koeficienti i konvertimit” (CC) faktori që reflekton vlerësimin e rendimentit mesatar prej 40%. Vlera e koeficientit të konvertimit është CC = 2.5 (do të thotë një koeficient që pasqyron rendimentin mesatar të prodhimit prej 40% të gjeneratës së BE-së, referuar direktivës 2012/27/EU të Këshillit dhe Parlamentit Evropian ).

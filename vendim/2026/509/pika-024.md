@@ -1,0 +1,1 @@
+24. “Lëndë djegëse të tjera fosile”, lëndët fosile që nuk përfshijnë antracitin, qymyrin me avull të thatë, ziftin e fortë, ziftin me temperaturë të ulët, qymyrin bituminoz, linjitët ose briketat dhe pastat e përziera me lëndë djegëse fosile.

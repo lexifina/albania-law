@@ -1,0 +1,1 @@
+43. “Prodhim i nxehtësisë me kontroll mekanik të temperaturës së dhomës” nënkupton që produkti është i pajisur me një pajisje joelektronike që i lejon produktit të ndryshojë automatikisht fuqinë e tij të nxehtësisë gjatë një periudhe të caktuar, në lidhje me një nivel të caktuar të komoditetit të ngrohjes së brendshme.
