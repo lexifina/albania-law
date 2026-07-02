@@ -1,0 +1,1 @@
+1. Kalimin te Bashkia Durrës të 259 (dyqind e pesëdhjetë e nëntë) apartamenteve në 6 (gjashtë) ndërtesa me njësi banimi (pallat) të 1 (një) dhome teknike dhe 3 (tri) njësive të shërbimit “Kopsht”, sipas listës së inventarit, që i bashkëlidhet këtij vendimi.
