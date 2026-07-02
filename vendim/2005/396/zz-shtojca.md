@@ -1,6 +1,6 @@
 # Shtojca
 RREGULLORE
-E ADMINISTRIMIT Të PARQEVE ARKEOLOGJIKE TË SHKODRËS, LEZHËS, APOLONISË, AMANTIAS, ANTIGONESË DHE FINIQIT
+E ADMINISTRIMIT Të PARQEVE ARKEOLOGJIKE TË SHKODRËS, LEZHËS, AMANTIAS, ANTIGONESË DHE FINIQIT
 KREU I
 DISPOZITA TË PËRGJITHSHME
 1. Kjo rregullore hartohet bazuar në:
@@ -8,12 +8,12 @@ a) ligjin nr.9048, datë 7.4.2003 “Për trashëgiminë kulturore”,
 b) ligjin nr.8906, datë 6.6.2002 “Për zonat e mbrojtura”,
 c) ligjin nr.8934, datë 5.9.2002 “Për mbrojtjen e mjedisit”,
 si dhe në aktet e tjera ligjore e nënligjore në fuqi.
-2. Kjo rregullore ka si qëllim, përcaktimin e kufijve dhe rregullave për mënyrën e administrimit të parqeve arkeologjike të Shkodrës, Lezhës, Apolonisë, Amantias, Antigonesë dhe Finiqit.
+2. Kjo rregullore ka si qëllim, përcaktimin e kufijve dhe rregullave për mënyrën e administrimit të parqeve arkeologjike të Shkodrës, Lezhës, Amantias, Antigonesë dhe Finiqit.
 3. Strukturat përgjegjëse të administrimit të parqeve arkeologjike janë si më poshtë vijon:
 - Struktura përgjegjëse për administrimin e Parkut Arkeologjik Shkodër-Lezhë, sipas kësaj rregulloreje është Drejtoria Rajonale e Kulturës Kombëtare Shkodër;
 - Struktura përgjegjëse për administrimin e Parkut Arkeologjik Antigone, sipas kësaj rregulloreje është Drejtoria Rajonale e Kulturës Kombëtare Gjirokastër;
 - Struktura përgjegjëse për administrimin e Parkut Arkeologjik Amantia -Finiq, sipas kësaj rregullore është Drejtoria Rajonale e Kulturës Kombëtare Vlorë;
-- Struktura përgjegjëse për Administrimin e Parkut Arkeologjik, Apoloni, është Zyra e Administrimit dhe Koordinimit të Parkut Arkeologjik, Apoloni.
+- Struktura përgjegjëse për Administrimin e Parkut Arkeologjik është Zyra e Administrimit dhe Koordinimit të Parkut Arkeologjik.
 - Struktura përgjegjëse për administrimin e Parkut Arkeologjik, është Zyra e Administrimit dhe Koordinimit të Parkut Arkeologjik.
 KREU II
 BORDI KOMBËTAR I PARQEVE ARKEOLOGJIKE
@@ -24,7 +24,7 @@ BORDI KOMBËTAR I PARQEVE ARKEOLOGJIKE
 - Drejtorisë së Përgjithshme të Planifikimit Strategjik për Trashëgiminë dhe Diversitetin Kulturor;
 - Institutit të Monumenteve të Kulturës;
 - Agjencisë së Shërbimit Arkeologjik.
-Drejtorët e drejtorive rajonale të kulturës kombëtare të Gjirokastrës, Shkodrës, Vlorës dhe drejtori i ZAPA-së Apoloni-Bylis marrin pjesë në mbledhjet e Bordit, pa të drejtë vote.
+Drejtorët e drejtorive rajonale të kulturës kombëtare të Gjirokastrës, Shkodrës, Vlorës dhe drejtori i ZAPA-së Bylis marrin pjesë në mbledhjet e Bordit, pa të drejtë vote.
 6. BKPA funksionon, mblidhet dhe merr vendime, në bazë të rregullores së miratuar për këtë qëllim nga kryetari i tij në mbledhjen e tij të parë.
 7. Shfuqizuar.
 8. BKPA ka këto kompetenca:
