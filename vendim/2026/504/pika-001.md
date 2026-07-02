@@ -1,0 +1,1 @@
+1. Përcaktimin e tarifave të aplikimit për pajisjen me autorizim importi, eksporti dhe transiti të armëve të zjarrit, të komponentëve të tyre kryesorë dhe të municioneve që lëshohen nga Autoriteti i Kontrollit Shtetëror të Eksporteve, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi.
