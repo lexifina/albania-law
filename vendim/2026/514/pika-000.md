@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së zbatimit nr. II, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Ekonomisë dhe Inovacionit, dhe Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, si përfaqësuese e qeverisë gjermane dhe agjenci zbatuese, për projektin “Mbështetje për negociatat për anëtarësim të Shqipërisë në Bashkimin Evropian në sektorin ekonomik” (SANECA II), sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
