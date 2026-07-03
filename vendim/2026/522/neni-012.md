@@ -1,0 +1,8 @@
+# Neni 12
+Verifikimi paraprak i aplikimeve dhe i listës së aplikanëtve të kualifikuar
+1. Brenda 3 (tri) ditëve kalendarike nga momenti i ngritjes së komisionit, Departamenti i Administratës Publike i përcjell komisionit listën e aplikantëve, bashkë me dokumentacionin përkatës.
+2. Komisioni, brenda 15 (pesëmbëdhjetë) ditëve kalendarike nga përcjellja e aplikimeve nga Departamenti i Administratës Publike, kryen verifikimin paraprak të përmbushjes së kritereve të përcaktuara në pikën 3, të nenit 9, të këtij vendimi, bazuar në dokumentacionin e paraqitur nga aplikantët. Gjatë verifikimit të aplikimeve, komisioni mund të kërkojë informacione shtesë nga institucioni dhe/ose eprori direkt i të punësuarit, me qëllim verifikimin nëse aplikimi përmbush kriteret e përcaktuara.
+3. Në përfundim të verifikimit paraprak, në faqen zyrtare të ministrit përgjegjës për administratën publike dhe të Departamentit të Administratës Publike publikohet lista e aplikantëve që plotësojnë kriteret, të renditur sipas rendit alfabetik.
+4. Aplikantët, që nuk plotësojnë kriteret, njoftohen individualisht, duke iu bërë të ditura arsyet e moskualifikimit. Ata kanë të drejtë të parashtrojnë ankim me shkrim brenda 5 (pesë) ditëve kalendarike nga data e marrjes së njoftimit individual për moskualifikimin.
+5. Komisioni shqyrton ankesën brenda 5 (pesë) ditëve kalendarike nga data e përfundimit të afatit të ankimit dhe njofton ankuesin, nëpërmjet Departamentit të Administratës Publike.
+6. Në përfundim të afatit për shqyrtimin e ankesave, Departamenti i Administratës Publike publikon listën përfundimtare të aplikantëve që plotësojnë kriteret e përcaktuara në thirrje.

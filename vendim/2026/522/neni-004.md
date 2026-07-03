@@ -1,0 +1,8 @@
+# Neni 4
+Përkufizimet
+Në kuptim të këtij vendimi:
+a) “Programe operative shumëvjeçare IPA III dhe programi IPARD III” janë ato programe të përcaktuara në vendimin nr. 540, datë 20.9.2023, të Këshillit të Ministrave, “Për përcaktimin e funksioneve, përgjegjësive dhe marrëdhënieve ndërmjet autoriteteve e strukturave për menaxhimin indirekt të asistencës financiare të Bashkimit Evropian nën Instrumentin për Asistencën e Paraanëtarësimit 2021-2027 (IPA III)”, i ndryshuar, dhe në vendimin nr. 206, datë 7.4.2023, të Këshillit të Ministrave, “Për ngritjen e strukturave dhe autoriteteve përgjegjëse për menaxhimin indirekt dhe ushtrimin e funksioneve, të përgjegjësive dhe të marrëdhënieve ndërmjet autoriteteve dhe strukturave të menaxhimit indirekt të asistencës së Bashkimit Evropian, në kuadër të programit për zhvillimin rural të Instrumentit për Asistencën e Paraanëtarësimit (IPARD III)”, i ndryshuar;
+b) “Strukturat e ngarkuara me menaxhimin indirekt të programeve operative shumëvjeçare IPA III dhe programit IPARD III” janë strukturat e listuara në nenin 3, nga shkronja “c” deri në shkronjën “dh”, dhe në nenet 5 e 7, të vendimit nr. 540, datë 20.9.2023, të Këshillit të Ministrave, i ndryshuar, si dhe në kreun II, pika 1, shkronjat “c” dhe “ç”, të vendimit nr. 206, datë 7.4.2023, të Këshillit të Ministrave, i ndryshuar;
+c) “Epror direkt” ka të njëjtin kuptim me atë të miratuar në legjislacionin për nëpunësin civil;
+ç) “KMMP” është Komisioni ad hoc i Mbikëqyrjes së Menaxhimit të Performancës që krijohet në fillim të vitit kalendarik, pranë çdo institucioni të administratës publike;
+d) “Persona me aftësi të kufizuara” ka të njëjtin kuptim me atë të përcaktuar në ligjin nr. 93/2014, “Për përfshirjen dhe aksesueshmërinë e personave me aftësi të kufizuara”.
