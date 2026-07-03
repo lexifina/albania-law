@@ -1,0 +1,1 @@
+1. Miratimin e rregulloreve “Për kushtet dhe procedurat e posaçme të autorizimit për shkarkimet e gazeve me efekt serrë nga operatori i instalimit dhe subjekti i rregulluar”, sipas parashikimeve të shtojcave I dhe II që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

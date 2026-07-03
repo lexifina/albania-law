@@ -1,0 +1,1 @@
+2. Miratimin e rregullores “Për kushtet, kriteret dhe procedurat për monitorimin dhe raportimin e shkarkimeve të gazeve me efekt serrë nga operatori i instalimit, nga operatori i avionit dhe nga subjekti i rregulluar dhe të efekteve në aviacion të palidhura me shkarkimin e CO2”, sipas tekstit që i bashkëlidhet këtij vendimi në shtojcën III dhe është pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+3. Dispozitat e rregulloreve që miratohen me këtë vendim, të cilat parashikojnë kryerjen e kërkesave dhe të procedurave nëpërmjet sistemit elektronik, zbatohen pas realizimit të përmirësimeve të nevojshme të këtij sistemi për përmbushjen e tyre.
