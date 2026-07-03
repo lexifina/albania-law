@@ -1,1 +1,1 @@
-1. Miratimin e skemës së veçantë të garancisë shtetërore të huas, në vlerën 3 000 000 000 (tre miliardë) lekë, për garantimin e huamarrjes së subjekteve në sektorin e bujqësisë.
+1. Miratimin e linjës së garancisë shtetërore të huas, në vlerën 5 000 000 000 (pesë miliardë) lekë, për garantimin e huamarrjes së ndërmarrjeve mikro, të vogla dhe të mesme, pavarësisht sektorit të veprimtarisë së tyre ekonomike, si dhe fermerëve të regjistruar e të pajisur me certifikatën e NIPT-it të fermerit, që ushtrojnë veprimtari në sektorin e bujqësisë.
