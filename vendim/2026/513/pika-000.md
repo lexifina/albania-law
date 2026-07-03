@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së zbatimit nr. IV ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Ekonomisë dhe Inovacionit, dhe Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, si përfaqësuese e qeverisë gjermane dhe agjenci zbatuese, për programin “Zhvillimi i qëndrueshëm ekonomik dhe rajonal, nxitja e punësimit dhe arsimi dhe formimi profesional” (ProSEED), sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
