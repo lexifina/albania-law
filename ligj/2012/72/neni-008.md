@@ -1,7 +1,7 @@
 # Neni 8
 Drejtori i përgjithshëm ASIG-ut
 1. Drejtori i përgjithshëm ASIG-ut drejton, organizon dhe mbikëqyr veprimtarinë e institucionit dhe është përgjegjës për mirëfunksionimin e tij, si dhe përfaqëson institucionin në marrëdhënie me të tretët.
-2. Drejtori i përgjithshëm i ASIG-ut emërohet, lirohet ose shkarkohet nga Kryeministri.
+2. Drejtori i përgjithshëm i ASIG-ut emërohet, lirohet ose shkarkohet nga Kryeministri me propozim të ministrit.
 3. Drejtori i përgjithshëm duhet të plotësojë kriteret e mëposhtme:
 a) të jetë shtetas shqiptar;
 b) të ketë zotësi të plotë për të vepruar;

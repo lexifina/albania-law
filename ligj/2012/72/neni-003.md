@@ -25,6 +25,7 @@ c) sistemi i lartësive;
 d) rrjeti gravimetrik dhe rrjetet e tjera gjeodezike;
 dh) sistemi i emërtesave.
 14.“Metadata” është informacioni që përshkruan të dhënat, grupet e të dhënave gjeohapësinore dhe shërbimet që lidhen me to, të cilat mundësojnë zbulimin, inventarizimin dhe përdorimin e të dhënave e të grupeve të të dhënave gjeohapësinore.
+14/1. “Ministri” është ministri përgjegjës për mbrojtjen.
 15. “Ndërveprueshmëria” është aftësia e sistemeve të ndryshme për të punuar bashkë, pa ndërhyrje manuale të përsëritura, në mënyrë që rezultati i bashkëveprimit të jetë i qartë dhe të çojë në rritjen e vlerës së shtuar të grupeve dhe shërbimeve të të dhënave.
 16. “Palë e tretë” është çdo person fizik ose juridik, i ndryshëm nga autoriteti publik i përkufizuar në pikën 2 të këtij neni.
 17. “Shërbime për informacionin gjeohapësinor” janë operacionet që mund të realizohen, përmes aplikacioneve kompjuterike, për informacionin gjeohapësinor, të dhënat dhe grupet e të dhënave gjeohapësinore ose për metadatat që lidhen me to.
