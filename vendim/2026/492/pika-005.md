@@ -1,0 +1,1 @@
+5. Përfituesit sipas shkronjës “ç”, të pikës 1, të këtij vendimi, përzgjidhen në bazë kritereve të parashikuara në sistemin e pikëzimit të përcaktuar në tabelën nr. 4, që i bashkëlidhet këtij vendimi.
