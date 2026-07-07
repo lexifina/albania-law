@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së titullarit të Ministrisë së Shëndetësisë dhe Mirëqenies Sociale, për nënshkrimin e autorizimit të prodhimit të barnave në Republikën e Shqipërisë, te znj. Eugena Tomini, zëvendësministër i Shëndetësisë dhe Mirëqenies Sociale.
