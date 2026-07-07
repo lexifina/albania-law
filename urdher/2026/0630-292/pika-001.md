@@ -1,0 +1,1 @@
+1. Miratimin e Planit të Veprimit për Ndërkombëtarizimin dhe Integrimin Evropian të Zinxhirit të Vlerës së Industrisë Tekstile, Veshjeve, Lëkurës dhe Këpucëve 2026-2027, sipas tekstit bashkëlidhur këtij urdhri.
