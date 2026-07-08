@@ -40,10 +40,11 @@ d) një përfaqësues nga ministria përgjegjëse për mjedisin;
 dh) një përfaqësues nga shoqatat e fermerëve.
 3. Sekretar i komisionit të regjistrimit të produkteve plehëruese është specialisti që mbulon produktet plehëruese pranë SPPP-së në ministri. Ministri në mënyrë të përkohshme cakton në këtë detyrë një nëpunës civil të ministrisë.
 4. Sekretari administron aplikimet, kërkesat dhe dokumentacionin, mban procesverbalin e mbledhjes, harton projektvendimet, vendimet dhe kryen çdo detyrë tjetër për mbarëvajtjen e punës, si dhe kryen detyrat e caktuara nga kryetari. Sekretari i komisionit përditëson në faqen e ministrisë formularin dhe dokumentacionin që duhet të paraqesë çdo subjekt aplikues dhe harton dhe publikon udhëzues.
-5. Kryetari dhe anëtari i komisionit liroht nga detyra kur:
+5. Kryetari dhe anëtari i komisionit lirohet/zëvendësohet nga detyra kur:
 a) nuk është në marrëdhënie pune me institucionin përkatës,
 b) nuk ushtron detyrën për 3 mbledhje rresht,
 c) dënohet me vendim penal të formës së prerë për kryerjen e një vepre penale,
+ç) me kërkesë të institucionit që e ka propozuar/caktuar;
 d) për arsye të tjera të parashikuara nga ligji.
 Neni 6
 Kryetari dhe anëtarët e komisionit
