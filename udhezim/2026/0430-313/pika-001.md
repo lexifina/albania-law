@@ -1,0 +1,1 @@
+1. Miratimin e “Modelit dhe standardeve të shërbimit të linjës kombëtare të këshillimit për të moshuarit, si dhe manualit udhëzues për zbatimin e tyre”, sipas dokumentit, që i bashkëlidhet këtij udhëzimi.
