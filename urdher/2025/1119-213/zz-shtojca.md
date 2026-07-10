@@ -24,7 +24,7 @@ i) “Hotel i shpërndarë” - Shtojca 5/i;
 j) “Strukturë akomoduese e trashëgimisë kulturore” - Shtojca 5/j;
 2. Çdo subjekt që do të ushtrojë veprimtarinë si strukturë akomoduese, përpara fillimit të aktivitetit është i detyruar të regjistrohet pranë Qendrës Kombëtare të Biznesit (QKB) për ushtrimin e veprimtarisë si strukturë akomoduese. Përjashtohen nga ky detyrim individët qiradhënës, të cilët ushtrojnë veprimtarinë e akomodimit në kategoritë “dhomë”, “apartament” dhe “vilë”.
 3. Brenda 30 ditëve nga regjistrimi pranë QKB-së për ushtrimin e veprimtarisë si strukturë akomoduese, subjekti është i detyruar të aplikojë në portalin unik qeveritar “e-Albania” për t’u pajisur me certifikatën e kategorizimit si strukturë akomoduese.
-Për individët qiradhënës, të cilët do të ushtrojnë veprimtarinë e akomodimit në kategoritë “dhomë”, “apartament” dhe “vilë”, ky aplikim kryhet përpara fillimit të veprimtarisë.
+Për individët qiradhënës, të cilët do të ushtrojnë veprimtarinë e akomodimit në kategoritë “dhomë”, “apartament” dhe “vilë”, kjo kërkesë kryhet përpara fillimit të veprimtarisë.
 Neni 3
 Kategoritë e strukturave akomoduese të ndara në klasat e Nomenklaturës së Veprimtarive Ekonomike (NVE)
 1. Strukturat akomoduese, sikurse përcaktohen në ligjin nr. 93/2015, “Për turizmin”, të ndryshuar, përfshijnë kategoritë e përcaktuara në pikën 1, të nenit 2, të këtij ligji.
@@ -45,7 +45,7 @@ Kamping
 Neni 4
 Procedura e kategorizimit të strukturave akomoduese
 1. Kategorizimi i strukturave akomoduese u nënshtrohet tri fazave:
-a) faza e parë përfshin procesin e vetëdeklarimit të sipërmarrësit turistik, i cili konsiston në plotësimin e formularit të aplikimit në portalin unik qeveritar “e-Albania” dhe ngarkimit të dokumentacionit shoqërues, të parashikuar në nenin 6 të kësaj rregulloreje;
+a) faza e parë përfshin procesin e vetëdeklarimit të sipërmarrësit turistik, i cili konsiston në plotësimin e formularit të kërkesës në portalin unik qeveritar “e-Albania” dhe ngarkimit të dokumentacionit shoqërues, të parashikuar në nenin 6 të kësaj rregulloreje;
 b) faza e dytë përfshin procesin e shqyrtimit nga ana e Komisionit të Standardizimit të Veprimtarive Turistike të dokumentacionit të dorëzuar nga sipërmarrësi turistik, sipas përcaktimeve në nenin 7 të kësaj rregulloreje;
 c) faza e tretë përfshin verifikimin në terren, rast pas rasti, të të dhënave të vetëdeklarimit nga struktura përgjegjëse për inspektimin në fushën e turizmit, nëse Komisioni i Standardizimit e kërkon këtë proces.
 Neni 5
@@ -53,30 +53,29 @@ Procesi i vetëdeklarimit për kategorizimin e strukturës akomoduese
 1. Sipërmarrësi turistik ose individi që ushtron veprimtarinë si strukturë akomoduese, aplikon online në portalin unik qeveritar “e-Albania”, duke plotësuar formularin dhe dokumentacionin përkatës, të përcaktuar në nenin 6 të kësaj rregulloreje.
 2. Sipërmarrësi turistik ose individi mban përgjegjësi për vërtetësinë e të dhënave të deklaruara, të cilat janë objekt i verifikimit, sipas rregullave të parashikuara në këtë rregullore.
 Neni 6
-Dokumentet e aplikimit për pajisje me certifikatë kategorizimi
-1. Dokumentacioni që duhet të ngarkohet në portalin unik qeveritar “e-Albania” nga aplikuesi është:
-a) Certifikata e pronësisë ose një nga dokumentet më poshtë:
-i. kartela e pasurisë;
-ii. certifikata e përdorimit të objektit lëshuar nga organi përgjegjës;
-iii. kontrata e qirasë ose e përdorimit me pronarin e objektit;
-b) Planimetria e strukturës akomoduese për çdo kat;
-c) Foto aktuale të ambienteve të brendshme me pajisje funksionale dhe foto të jashtme të strukturës.
+Dokumentet e kërkesës për pajisje me certifikatë kategorizimi
+1. Dokumentacioni që duhet të ngarkohet në portalin unik qeveritar “e-Albania” nga kërkuesi është:
+a) Dokumenti që vërteton të drejtën e pronësisë ose të përdorimit të ligjshëm të objektit ku ushtrohet veprimtaria, sipas njërit prej dokumenteve të mëposhtme:
+i. certifikata e pronësisë dhe kartela e pasurisë;
+ii. leja e ndërtimit dhe certifikata e përdorimit të objektit, të lëshuara nga organi kompetent;
+iii. kontrata e qirasë, huapërdorimit ose një marrëveshje tjetër përdorimi me pronarin e objektit.
+Dokumentacioni i paraqitur duhet të provojë të drejtën e përdorimit të ligjshëm të objektit për ushtrimin e veprimtarisë.
 2. Ministria përgjegjëse për turizmin siguron nëpërmjet portalit unik qeveritar “e-Albania” dokumentacionin si vijon:
-a) vërtetim për regjistrim në Qendrën Kombëtare të Biznesit si person fizik/juridik me objekt veprimtarie si strukturë akomoduese;
+a) vërtetim për regjistrim në Qendrën Kombëtare të Biznesit si person fizik/juridik me objekt veprimtarie si strukturë akomoduese. Adresa e deklaruar në Qendrën Kombëtare të Biznesit duhet të përputhet me adresën e strukturës akomoduese për të cilën kërkohet kategorizimi;
 b) vërtetim i gjendjes gjyqësore të subjektit aplikues/aksionarit kryesor; pronarit/administratorit;
 c) vërtetimi që struktura plotëson kushtet për masat e mbrojtjes nga zjarri lëshuar nga Drejtoria e Përgjithshme e Mbrojtjes nga Zjarri;
 ç) vërtetim që struktura plotëson kushtet higjieno-sanitare, lëshuar nga Instituti i Shëndetit Publik.
 3. Përjashtimisht për strukturat akomoduese “Dhomë”, “Apartament”, “Vilë” dhe “Bllok apartamentesh”, përmbushja e kërkesave të përcaktuara në shkronjat “c” dhe “ç”, të pikës 2, vetëdeklarohen nga individi dhe ngarkohen në sistem.
 Neni 7
 Procedura e shqyrtimit të dokumentacionit për kategorizimin e strukturave akomoduese
-1. Komisioni i Standardizimit, brenda 10 ditëve nga data e aplikimit për pajisje me certifikatë kategorizimi në portalin “e-Albania”, shqyrton dhe vlerëson aplikimin në përmbushjen e kushteve dhe të kritereve për kategorizimin e strukturave akomoduese.
-2. Komisioni i Standardizimit, në rast të konstatimit të mangësive, njofton aplikuesin brenda 2 ditëve nga data e shqyrtimit të aplikimit për plotësimin e dokumentacionit, duke i lënë një afat 10-ditor nga data e njoftimit, për plotësimin e mangësive të konstatuara.
-3. Në rast se Komisioni i Standardizimit gjatë shqyrtimit të aplikimit konstaton parregullsi apo lindin dyshime të arsyeshme për të dhënat e deklaruara, i kërkon grupit të punës verifikimin në terren të të dhënave. Komisioni i Standardizimit, nëpërmjet sekretarisë teknike, njofton aplikuesin dhe koordinon vizitën në terren.
+1. Pas depozitimit të kërkesës në portalin unik qeveritar “e-Albania”, Sekretaria Teknike kryen verifikimin paraprak të dokumentacionit të paraqitur nga kërkuesi. Në rast se dokumentacioni rezulton i plotë, kërkesa i kalon për shqyrtim Komisionit të Standardizimit të Veprimtarive Turistike, i cili brenda 10 ditëve nga data e konfirmimit të plotësimit të dokumentacionit shqyrton dhe vlerëson përmbushjen e kushteve dhe kritereve për kategorizimin e strukturës akomoduese.
+2. Kur, gjatë verifikimit paraprak, konstatohen mangësi në dokumentacion, Sekretaria Teknike njofton kërkuesin, nëpërmjet portalit unik qeveritar “e-Albania”, për plotësimin e tyre, duke i lënë një afat prej 10 (dhjetë) ditësh pune nga data e njoftimit.
+3. Në rast se Komisioni i Standardizimit gjatë shqyrtimit të kërkesës konstaton parregullsi apo lindin dyshime të arsyeshme për të dhënat e deklaruara, i kërkon grupit të punës verifikimin në terren të të dhënave. Komisioni i Standardizimit, nëpërmjet sekretarisë teknike, njofton aplikuesin dhe koordinon vizitën në terren.
 4. Grupi i punës i paraqet Komisionit të Standardizimit raportin e gjetjeve të konstatuara në terren, brenda 5 ditëve nga dita e vizitës në terren.
-5. Afati i parashikuar në pikën 1 mund të shtyhet, në mënyrë të arsyetuar, por jo më shumë se 30 ditë, duke i dërguar aplikuesit njoftimin në portalin unik qeveritar “e-Albania”, sipas afatit të parashikuar në pikën 1 të këtij neni.
+5. Afati i parashikuar në pikën 1 të këtij neni nuk përfshin periudhën e nevojshme për plotësimin e mangësive të dokumentacionit nga kërkuesi. Në raste të veçanta dhe të arsyetuara, Komisioni mund të zgjasë afatin e shqyrtimit jo më shumë se 30 (tridhjetë) ditë, duke njoftuar kërkuesin nëpërmjet portalit unik qeveritar “e-Albania”.
 6. Në përfundim të procesit të shqyrtimit dhe të vlerësimit, Komisioni i Standardizimit merr vendim për lëshimin ose jo të certifikatës së kategorizimit të strukturës akomoduese dhe e përcjell për miratim pranë ministrit.
 7. Njoftimi i subjektit për tërheqjen e certifikatës apo refuzimi i kërkesës për pajisje me certifikatë bëhet nëpërmjet portalit unik qeveritar “e-Albania”, brenda 5 (pesë) ditëve pune nga data e lëshimit të certifikatës, apo e vendimit përfundimtar të refuzimit.
-8. Në rast se Komisioni refuzon aplikimin për pajisje me certifikatë, vendimi duhet të jetë i arsyetuar dhe i njoftohet subjektit brenda 5 (pesë) ditëve pune nga vendimmarrja e Komisionit.
+8. Në rast se Komisioni refuzon kërkesën për pajisje me certifikatë, vendimi duhet të jetë i arsyetuar dhe i njoftohet subjektit brenda 5 (pesë) ditëve pune nga vendimmarrja e Komisionit.
 Neni 8
 Certifikata e kategorizimit të strukturës akomoduese
 1. Certifikata e kategorizimit të strukturës akomoduese përmban:
@@ -96,8 +95,8 @@ Përjashtimisht për kategoritë “Dhomë”, “Apartament” dhe “Vilë” 
 Neni 9
 Ndryshimi i kategorisë së strukturës akomoduese
 1. Aplikuesi mund të aplikojë për ndryshimin e kategorisë së një strukture akomoduese në çdo kohë që e çmon se ndërhyrjet dhe ndryshimet në objekt ndikojnë në ndryshimin e kategorisë së strukturës akomoduese.
-2. Aplikimi për ndryshimin e kategorisë së strukturës akomoduese kryhet në portalin unik qeveritar “e-Albania” nëpërmjet vetëdeklarimit të aplikuesit, së bashku me foto që vërtetojnë ndërhyrjet apo ndryshimet në objekt.
-3. Komisioni i Standardizimit rishqyrton statusin e kategorizimit, brenda 10 ditëve nga data e aplikimit për ndryshim të kategorisë së strukturës akomoduese.
+2. Kërkesa për ndryshimin e kategorisë së strukturës akomoduese kryhet në portalin unik qeveritar “e-Albania” nëpërmjet vetëdeklarimit të aplikuesit, së bashku me foto që vërtetojnë ndërhyrjet apo ndryshimet në objekt.
+3. Komisioni i Standardizimit rishqyrton statusin e kategorizimit, brenda 10 ditëve nga data e kërkesës për ndryshim të kategorisë së strukturës akomoduese.
 Neni 10
 Verifikimi
 1. Struktura përgjegjëse për inspektimin në turizëm ka përgjegjësi të verifikojë çdo sipërmarrës turistik që ushtron veprimtari si strukturë akomoduese, nëse është apo jo i pajisur me certifikatë kategorizimi.
@@ -106,7 +105,7 @@ SHTOJCA NR. 1
 SHTOJCA NR. 2
 SHTOJCA NR. 3
 Kërkesë për t’u pajisur me certifikatë kategorizimi të strukturës akomoduese
-Aplikim për:
+Kërkesë për:
 ☐ Bujtinë ☐ Fjetinë ☐ Kamping ☐ Hotel ☐ Motel
 ☐ Resort ☐ Qendër Kurative ☐ Fjetje dhe mëngjes (B&B)
 ☐ Apartament ☐ Bllok apartamentesh ☐ Vilë ☐ Hotel i shpërndarë ☐ Dhomë
@@ -119,16 +118,16 @@ Nr. tel. ______________________ Email_________________________________________
 Përmbledhje ekzekutive e subjektit aplikuesit
 (Përshkrim të veprimtarisë të cilën subjekti ushtron, eksperiencën konkrete sipas periudhave etj.)
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-Dokumentacioni shoqërues i aplikimit
-(Listë e dokumenteve shoqërues të aplikimit)
-- Certifikata e pronësisë ose certifikata e përdorimit të objektit lëshuar nga organi kompetent ose kartela e pasurisë;
+Dokumentacioni shoqërues i kërkesës
+(Listë e dokumenteve shoqërues të kërkesës)
+Certifikata e pronësisë dhe kartela e pasurisë ose leje ndërtimi me treguesit e ndërtimit dhe certifikata e përdorimit të objektit lëshuar nga organi kompetent;
 - Kontrata e qirasë ose e përdorimit me pronarin e objektit;
 - Planimetria e strukturës akomoduese;
 - Foto aktuale të ambienteve të brendshme të pajisura dhe funksionale, dhe të jashtme të strukturës;
-- Vetëdeklarim që struktura plotëson kushtet për masat e mbrojtjes nga zjarri, për kategoritë “Dhomë”, “Apartament”, “Vilë” dhe “Bllok apartamenti”, që përmban deri në 4 apartamente, të cilat ndodhen në ndërtesa të veçanta;
-- Vetëdeklarim që struktura plotëson kushtet higjieno-sanitare, për kategoritë “Dhomë”, “Apartament”, “Vilë” dhe “Bllok apartamenti”, që përmban deri në 3 apartamente, të cilat ndodhen në ndërtesa të veçanta.
+- Vetëdeklarim që struktura plotëson kushtet për masat e mbrojtjes nga zjarri, për kategoritë “Dhomë”, “Apartament”, “Vilë” dhe “Bllok apartamentesh”, në rastet kur përmbushja e këtyre kërkesave vetëdeklarohet sipas kësaj rregulloreje;
+- Vetëdeklarim që struktura plotëson kushtet higjieno-sanitare, për kategoritë “Dhomë”, “Apartament”, “Vilë” dhe “Bllok apartamentesh”, në rastet kur përmbushja e këtyre kërkesave vetëdeklarohet sipas kësaj rregulloreje.
 SHTOJCA NR. 4
-Formular vetëdeklarimi për aplikim për kategorizimin e strukturave akomoduese
+Formular vetëdeklarimi për kërkesë për kategorizimin e strukturave akomoduese
 Emri tregtar
 Përfaqësuesi ligjor F □
 M □
@@ -193,7 +192,7 @@ Telefon fiks
 Website
 Nr. cel.
 - Unë, i nënshkruari ____________________, deklaroj se jam njohur me urdhrin e ministrit nr. _____, datë __________, “Mbi miratimin e rregullores për mënyrën, kriteret dhe procedurën e kategorizimit të strukturave akomoduese” dhe plotësoj të gjitha kriteret e parashikuara në shtojcën 4, për kategorinë e strukturës akomoduese për të cilën kam aplikuar.
-- Në dijeni të përgjegjësive penale që rrjedhin nga deklarimi dhe paraqitja e të dhënave e rrethanave të rreme, nën përgjegjësinë time personale të plotë ligjore deklaroj se të dhënat e paraqitura në këtë formular janë të vërteta, konfirmoj njësinë e kopjes elektronike të dokumenteve shoqëruese të ngarkuara në aplikim me origjinalin dhe në respektim të ligjit nr. 9889, “Për mbrojtjen e të dhënave personale”, i ndryshuar, autorizoj me vullnetin tim të lirë institucionin, të përpunojë dhe të përdorë të dhënat e mia personale, për qëllime statistikore dhe të shqyrtimit të aplikimit.
+- Në dijeni të përgjegjësive penale që rrjedhin nga deklarimi dhe paraqitja e të dhënave e rrethanave të rreme, nën përgjegjësinë time personale të plotë ligjore deklaroj se të dhënat e paraqitura në këtë formular janë të vërteta, konfirmoj njësinë e kopjes elektronike të dokumenteve shoqëruese të ngarkuara në kërkesë me origjinalin dhe në respektim të ligjit nr. 9889, “Për mbrojtjen e të dhënave personale”, i ndryshuar, autorizoj me vullnetin tim të lirë institucionin, të përpunojë dhe të përdorë të dhënat e mia personale, për qëllime statistikore dhe të shqyrtimit të kërkesës.
 SHTOJCA 5/a
 Kriteret - Bujtina
 Fushat
