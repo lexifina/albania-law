@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së ministrit te drejtorit i përgjithshëm i Drejtorisë së Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse, nga data 6-10 korrik 2026, për dërgimin me shërbim të punonjësve të Ministrisë për Evropën dhe Punët e Jashtme jashtë qendrës së punës, brenda territorit të Republikës së Shqipërisë, në largësi mbi 100 km, si dhe me shërbim jashtë vendit.
