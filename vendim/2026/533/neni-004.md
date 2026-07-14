@@ -1,0 +1,5 @@
+# Neni 4
+Procedura e gjurmimit
+1. Gjurmimi i çdo njësie armësh, municioni apo pajisjeje ushtarake realizohet nëpërmjet regjistrit elektronik dhe sistemit të gjurmimit të subjekteve të licencuara, të cilat mbulojnë të gjitha fazat e ciklit të jetës së produktit, përfshirë prodhimin, regjistrimin fillestar të gjendjes, magazinimin, transportin, shpërndarjen, përdorimin e asgjësimin.
+2. Regjistri elektronik dhe sistemi i gjurmimit regjistrojnë në mënyrë të automatizuar e të menjëhershme çdo regjistrim fillestar të gjendjes, çdo transaksion, ndryshim pronësie, transferim apo modifikim statusi të njësive të regjistruara, duke garantuar integritetin, pandryshueshmërinë dhe gjurmueshmërinë e të dhënave.
+3. Regjistri elektronik dhe sistemi i gjurmimit mundësojnë gjenerimin e raporteve të personalizuara sipas periudhave kohore, llojit të produktit, subjektit të përfshirë apo fazës së ciklit të jetës, duke përfshirë grafikë të lëvizjes dhe sinjalizime për devijime nga itineraret apo procedurat e autorizuara.
