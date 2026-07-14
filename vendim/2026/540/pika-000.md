@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së zbatimit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Ekonomisë dhe Inovacionit, dhe Agjencisë Gjermane për Bashkëpunim Ndërkombëtar (GIZ) GmbН, si përfaqësuese e qeverisë gjermane dhe agjenci zbatuese, për programin “Qendrat për migracion dhe zhvillim” (ZME), sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
