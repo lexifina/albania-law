@@ -2,8 +2,8 @@
 II. PUSHIMET VJETORE
 1. Punonjësi me gradë i shërbimit të MZSH-së gëzon të drejtën e pushimeve vjetore të paguara, si më poshtë vijon:
 a) 40 ditë kalendarike për punonjësit me gradë “Drejtues i parë zjarrfikës”, “Drejtues i lartë zjarrfikës”;
-b) 35 ditë kalendarike për punonjësit me gradën “Drejtues zjarrfikës”, “Komisar zjarrfikës”;
-c) 30 ditë kalendarike për punonjësit me gradën “Kryeinspektor Zjarrfikës”, “Inspektor zjarrfikës”;
+b) 35 ditë kalendarike për punonjësit me gradën “Drejtues zjarrfikës”, “kryekomisar zjarrfikës”;
+c) 30 ditë kalendarike për punonjësit me gradën “komisar zjarrfikës”, “nënkomisar zjarrfikës”;
 ç) 28 ditë kalendarike për punonjësit me gradë “Kryezjarrfikës”, “Zjarrfikës”, “Asistent Zjarrfikës”.
 2. Planifikimi dhe koha e kryerjes së pushimeve vjetore miratohet nga ministri përgjegjës, për punonjësit e drejtorisë së shërbimit të MZSH-së pranë kësaj ministrie, dhe nga kryetari i bashkisë përkatëse, për punonjësit e shërbimit vendor të MZSH-së, pas konsultimit me punonjësin, pa cenuar vijueshmërinë e punës, brenda muajit shkurt të çdo viti.
 3. Punonjësi i shërbimit të MZSH-së ka të drejtë të kërkojë kryerjen e pushimit vjetor në periudha të ndryshme e të ndara, në përputhje me pikën 1, të këtij kreu.
