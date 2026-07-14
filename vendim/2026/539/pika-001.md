@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rehabilitimi i shesheve dhe zonave kryesore në afërsi të pikave doganore shqiptare (Pika Doganore Morinë).
