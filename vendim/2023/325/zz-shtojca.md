@@ -146,6 +146,7 @@ a) nëpunësi në pozicionin “titullar i institucionit”, në masën 70 000 (
 b) nëpunësit në pozicionet “drejtor drejtorie” të drejtorive të përmbajtjes, në masën 60 000 (gjashtëdhjetë mijë) lekë në muaj;
 c) nëpunësit në pozicionet “përgjegjës sektori” dhe “specialist” në njësitë organizative të përmbajtjes, në masën 45 000 (dyzet e pesë mijë) lekë në muaj.
 29. Në Kancelarinë e Urdhrave dhe Medaljeve, nëpunësi në pozicionin “kancelar”, në masën 70 000 (shtatëdhjetë mijë) lekë në muaj.
+30. Në Qendrën për Hapje dhe Dialog, “COD”, nëpunësit në pozicionet “titullar institucioni” dhe “drejtor drejtorie” të drejtorive të përmbajtjes, në masën 20 000 (njëzet mijë) lekë në muaj.
 Lidhja nr. 4
 Nëpunësit civilë dhe nëpunësit e përcaktuar që përfitojnë shtesë për kushte të vështira e të dëmshme për shëndetin në masën dhe sipas rregullave e kritereve të përcaktuara në vendimin përkatës të Këshillit të Ministrave
 Nëpunësit civilë dhe nëpunësit e institucioneve të përcaktuara në pikën 1, të kreut I, të këtij vendimi që përfitojnë shtesë për kushte të vështira e të dëmshme për shëndetin, janë si vijon:
@@ -502,43 +503,34 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “Sp
 | |IV-3 |1 ose 2, ose 3 |
 Lidhja nr. 8/1
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “Specialist” deri në “Titullar institucioni” në Agjencinë Kombëtare të Shoqërisë së Informacionit
-|Pozicioni |Klasa e pagës |Grupi i diplomës |Shtesa për kushte pune (natyrë të |
+|Pozicioni |Klasa e pagës|Grupi i diplomës |Shtesa për kushte pune (natyrë të |
 | | | |veçantë pune) (lek/muaj) |
-|Titullar i institucionit. |I-2 |1 |90 000 |
-|Zëvendëstitullar i institucionit. |II-1 |1 |70 000 |
-|Drejtor drejtorie në drejtoritë e |II-1 |1 |70 000 |
-|përmbajtjes në zyrën qendrore të AKSHI. | | | |
-|Drejtor drejtorie të drejtorive IT të | | | |
-|atashuara pranë Kryeministrisë, ministrive | | | |
-|të linjës dhe institucioneve qendrore. | | | |
-|Drejtor drejtorie me funksione të nëpunësit|II-1 |1 |0 |
-|zbatues, sipas legjislacionit të menaxhimit| | | |
-|buxhetor e financiar. | | | |
+|Titullar i institucionit |I-2 |1 |90 000 |
+|Zëvendëstitullar i institucionit |II-1 |1 |70 000 |
+|Drejtor drejtorie në drejtoritë e përmbajtjes në zyrën qendrore të |II-1 |1 |70 000 |
+|AKSHI; | | | |
+|Drejtor drejtorie të drejtorive IT të atashuara pranë | | | |
+|Kryeministrisë, ministrive të linjës dhe institucioneve qendrore. | | | |
+|Drejtor drejtorie me funksione të nëpunësit zbatues, sipas |II-1 |1 |0 |
+|legjislacionit të menaxhimit buxhetor e financiar. | | | |
 |Drejtor i drejtorive mbështetëse. |II-2 |1 |0 |
-|Përgjegjës sektori në sektorët e |III-1 |1 |50 000 |
-|përmbajtjes në zyrën qendrore të AKSHI. | | | |
-|Përgjegjës sektori në sektorët IT të |III-2 |1 |40 000 |
-|atashuar pranë Kryeministrisë, ministrive | | | |
-|të linjës dhe pranë institucioneve | | | |
-|qendrore. | | | |
-|Përgjegjës sektori në sektorët e atashuar |III-3 |1 |32 000 |
-|pranë drejtorive rajonale të sistemit | | | |
-|tatimor. | | | |
+|Përgjegjës sektori në sektorët e përmbajtjes në zyrën qendrore të |III-1 |1 |50 000 |
+|AKSHI-t. | | | |
+|Përgjegjës sektori në sektorët IT të atashuar pranë Kryeministrisë,|III-2 |1 |60 000 |
+|ministrive të linjës dhe pranë institucioneve qendrore. | | | |
+|Përgjegjës sektori në sektorët e atashuar pranë drejtorive rajonale|III-3 |1 |40 000 |
+|të sistemit tatimor. | | | |
 |Përgjegjës sektori në sektorët mbështetës. |III-2 |1 |0 |
-|Specialist në sektorët apo drejtoritë e |IV-1 |1 ose 2 |60 000 |
-|përmbajtjes në zyrën qendrore të AKSHI. | | | |
-|Specialist në sektorët apo drejtoritë IT të|IV-1 |1 ose 2 |45 000 |
-|atashuar pranë Kryeministrisë, ministrive | | | |
-|të linjës dhe pranë institucioneve | | | |
-|qendrore. | | | |
-|Specialist në sektorët e atashuar pranë | | | |
-|degëve doganore. | | | |
-|Specialist në sektorët apo drejtoritë IT të|IV-3 |1 ose 2, ose 3 |50 000 |
-|atashuar pranë institucioneve | | | |
-|rajonale/vendore. | | | |
+|Specialist në sektorët apo drejtoritë e përmbajtjes në zyrën |IV-1 |1 ose 2 |60 000 |
+|qendrore të AKSHI-t. | | | |
+|Specialist në sektorët apo drejtoritë IT të atashuar pranë |IV-1 |1 ose 2 |60 000 |
+|Kryeministrisë, ministrive të linjës dhe pranë institucioneve | | | |
+|qendrore; | | | |
+|Specialist në sektorët e atashuar pranë degëve doganore. | | | |
+|Specialist në sektorët apo drejtoritë IT të atashuar pranë |IV-3 |1 ose 2, ose 3 |55 000 |
+|institucioneve rajonale/vendore. | | | |
 | |IV-4 | | |
-|Specialist në sektorët apo drejtoritë |IV-2 |1 ose 2, ose 3 |0 |
-|mbështetëse. | | | |
+|Specialist në sektorët apo drejtoritë mbështetëse. |IV-2 |1 ose 2, ose 3 |0 |
 | |IV-3 | |0 |
 Lidhja nr. 8/2
 Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të pozicioneve të punës së nëpunësve për emërtesat “specialist” deri në “titullar institucioni” në Autoritetin Shtetëror për Informacionin Gjeohapësinor
@@ -825,7 +817,9 @@ Klasat e pagave të pozicioneve të punës së nëpunësve për emërtesat “sp
 |Civile. | | |
 |Përgjegjës i sektorëve të përmbajtjes në Drejtorinë e Përgjithshme të | | |
 |Antikorrupsionit | | |
-|Kapiten i Portit. |III-2 |1 |
+|Përgjegjës i sektorëve të përmbajtjes në Qendrën për Hapje dhe Dialog, “COD”| | |
+|Kapiten i Portit |III-2 |1 |
+|Koordinator në Qendrën për Hapje dhe Dialog, “COD” | | |
 |Përgjegjës sektori. |III-2 |1 |
 | |III-3 | |
 |Inspektor. |IV-1 |1 ose 2 |
@@ -1325,3 +1319,6 @@ Klasat e pagave dhe shtesat për kushte pune (natyrë të veçantë pune) të po
 [6] Vendimi 25, datë 10.1.2025 botuar në F.Z nr. 6 datë 13.1.2025 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përballohen nga fondet e miratuara për secilin institucion dhe fillojnë: a) nga momenti i emërimit të nëpunësve/punonjësve për përcaktimet në shkronjat “a” dhe “b”, të pikës 1, të këtij vendimi; b) nga momenti i transferimit në pozicionet e reja të nëpunësve në ish-departamentin përgjegjës për aktet ligjore prioritare të Këshillit të Ministrave.”
 [7] Vendimi nr. 337, datë 16.09.2025 botuar në F.Z nr. 108, datë 23.06.2025 në pikën 2 të tij shprehet se: 2. “Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi për vitin 2025, përballohen nga buxheti i miratuar për Kryeministrinë për këtë vit dhe fillojnë nga momenti i emërimit të nëpunësve/punonjësve.”
 [8] Vendimi nr. 473, datë 31.7.2025 botuar në F.Z nr. 141, datë 4.8.2025 në pikën 2 të tij shprehet se: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për vitin 2025, përballohen nga buxheti i miratuar për Inspektoratin e Përgjithshëm për këtë vit dhe fillojnë nga momenti i emërimit të nëpunësve.”
+[9] Vendimi nr. 544, datë 9.7.2026, botuar në F.Z nr. 151, datë 14.7.2026 në pikën 2 të tij shprehet: “2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi për vitin 2026, përballohen nga fondet e miratuara për secilin institucion dhe fillojnë:
+a) nga data 1 korrik 2026, për përcaktimin e shkronjës “c”, të pikës 1, të këtij vendimi;
+b) nga momenti i emërimit të nëpunësve/punonjësve në detyrë, për të gjitha përcaktimet e tjera.”
