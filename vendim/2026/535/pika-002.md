@@ -1,0 +1,1 @@
+2. Komisioni Këshillimor përbëhet nga 5 (pesë) anëtarë, prej të cilëve 3 (tre) anëtarë të jenë punonjës nën varësinë e institucionit përgjegjës për dhënien e titullit dhe 2 (dy) anëtarë, personalitete të jashtme.

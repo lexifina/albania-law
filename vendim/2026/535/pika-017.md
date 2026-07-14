@@ -1,0 +1,1 @@
+17. Në çdo rast, Komisioni Këshillimor çmon se cilat fakte konsiderohen të provuara, bazuar në parimin e nderimit publik dhe të vlerësimit të kontributit, në vlerësimin e hollësishëm të informacioneve dhe dokumentacioneve në dispozicion, si dhe në rezultatin tërësor të shqyrtimit, duke hartuar për këtë qëllim raportin përkatës.

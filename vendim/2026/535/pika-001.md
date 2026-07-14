@@ -1,0 +1,1 @@
+1. Institucionet përgjegjëse për dhënien e titujve të nderit ngrenë komisionin këshillimor për titujt e nderit (në vijim, Komisioni Këshillimor), për të shqyrtuar paraprakisht nismat për dhënien e titujve të nderit, të cilat jepen në zbatim të ligjit nr. 94/2022, “Për titujt e nderit dhe titujt vendorë të nderit në Republikën e Shqipërisë”.

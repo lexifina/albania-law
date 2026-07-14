@@ -1,0 +1,1 @@
+5. Komisioni Këshillimor ngrihet për çdo nismë, kryesisht ose me propozim, që i paraqitet institucionit përgjegjës për lëshimin e titullit të nderit, jo më vonë se 60 (gjashtëdhjetë) ditë përpara datës së caktuar për nderim.

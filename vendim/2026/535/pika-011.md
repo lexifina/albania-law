@@ -1,0 +1,1 @@
+11. Komisioni Këshillimor harton raport për çdo kandidaturë që shqyrton dhe përpilon rekomandim me shkrim për dhënien ose jo të titullit të nderit. Rekomandimi i Komisionit Këshillimor nuk është detyrues për institucionin përgjegjës për dhënien e titujve të nderit.
