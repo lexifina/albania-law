@@ -1,1 +1,2 @@
 6. Në rrethana të jashtëzakonshme, titullari i strukturës përkatëse mund të urdhërojë zgjatjen e kohës së punës/shërbimit, pas konfirmimit nga kryetari i bashkisë.
+6/1. Numri maksimal i orëve shtesë për punonjësin operacional të shërbimit të MZSH-së nuk mund të jetë më shumë se 200 (dyqind) orë në vit. Me autorizimin e inspektoratit përgjegjës për inspektimin e punës, numri maksimal i orëve shtesë mund të tejkalohet vetëm në rastet e forcës madhore ose të menaxhimit të emergjencave civile në dobi të popullsisë.

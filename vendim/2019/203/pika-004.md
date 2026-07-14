@@ -1,5 +1,7 @@
-4. Punonjësi me gradë i shërbimit të MZSH-së, për orët shtesë të punës/shërbimit, që nuk janë kompensuar me pushim, përfiton një shtesë mbi pagë në masën:
-a) 25 % për çdo orë pune/shërbimi shtesë në ditë të zakonshme pune;
-b) 50 % për çdo orë pune/shërbimi shtesë të kryer gjatë pushimit javor;
-c) 25% për çdo orë pune në ditët e festave zyrtare;
-ç) 50% për çdo orë pune në ndërhyrje operacionale të kryer nga ora 22:00 deri në orën 06:00.
+4. Punonjësi me gradë i shërbimit të MZSH-së, që shërben natën, në ditët e pushimit javor e të festave zyrtare, brenda kohëzgjatjes normale të punës, përfiton një shtesë mbi pagë në masën:
+a) 20% për çdo orë pune të shërbimit të kryer nga ora 19:00 deri në orën 22:00;
+b) 50% për çdo orë pune të shërbimit të kryer nga ora 22:00 deri në orën 6:00;
+c) 25% për çdo orë pune të kryer në ditët e festave zyrtare dhe në ditët e pushimit javor.
+4/1. Për orët shtesë të punës, punonjësi me gradë i shërbimit të MZSH-së kompensohet me pushim të barabartë me orët shtesë plus 25% të tyre, kur këto orë janë kryer në ditë të zakonshme pune apo me orët shtesë plus 50% të tyre, kur orët janë kryer në ditë pushimi, ditë feste apo nga ora 22:00-6:00.
+4/2. Punonjësi me gradë i shërbimit të MZSH-së, kur festat zyrtare bien në ditë pushimi, trajtohet me një ditë pushimi shtesë ose pagesë për 8 (tetë) orë, të përllogaritur mbi pagën orare të përcaktuar në pikën 2, të këtij kreu.
+4/3. Shtesa mbi pagë, sipas pikës 4, të këtij kreu, paguhet bashkë me pagën mujore, brenda një muaji nga dita kur është kryer shërbimi. Kompensimi me pushim i orëve shtesë të punës, sipas pikave 4/1 e 4/2, të këtij kreu, bëhet brenda 2 (dy) muajve nga dita kur janë kryer ato. Në rast të pamundësisë së kompensimit të orëve shtesë të punës me pushim, punonjësi kompensohet me shtesë page, sipas masës së përcaktuar në pikat 4/1 e 4/2, të këtij kreu.
