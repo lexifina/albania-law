@@ -1,0 +1,8 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” të disa zonave në territorin e Bashkisë Fushë-Arrëz, si më poshtë vijon:
+a) Zona nr. 1, fshatrat Blerim, Trun, Qebik dhe Dardhë, pjesë të njësive administrative Blerim dhe Fierzë, Bashkia Fushë-Arrëz, qarku Shkodër, me sipërfaqe 5 495 (pesë mijë e katërqind e nëntëdhjetë e pesë) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshatrat Fierzë, Kokdodë dhe Aprip-Guri, pjesë të njësisë administrative Fierzë, Bashkia Fushë-Arrëz, qarku Shkodër, me sipërfaqe 919 (nëntëqind e nëntëmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr. 3, fshatrat Porav, Arst dhe Mëzi, pjesë të njësisë administrative Fierzë, Bashkia Fushë-Arrëz, qarku Shkodër, me sipërfaqe 706 (shtatëqind e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+ç) Zona nr. 4, fshatrat Fushë-Arrëz, Miçaj, Lumbardhë dhe Tuç, pjesë të njësive administrative Fushë-Arrëz, Qafë-Mali dhe Iballë, Bashkia Fushë-Arrëz, qarku Shkodër, me sipërfaqe 3 539 (tre mijë e pesëqind e tridhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH;
+d) Zona nr. 5, fshatrat Iballë dhe Berishë e Sipërme, pjesë të njësive administrative Iballë dhe Fierzë, Bashkia Fushë-Arrëz, qarku Shkodër, me sipërfaqe 3 309 (tre mijë e treqind e nëntë) ha, sipas hartës në sistemin KRGJSH;
+dh) Zona nr. 6, fshati Mërtur, pjesë e njësive administrative Iballë dhe Fierzë, Bashkia Fushë-Arrëz, qarku Shkodër, me sipërfaqe 1 466 (një mijë e katërqind e gjashtëdhjetë e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+e) Zona nr. 7, fshatrat Kryezi, Qafë-Mali dhe Lajthizë, pjesë të njësive administrative Qafë-Mali dhe Blerim, Bashkia Fushë-Arrëz, qarku Shkodër, me sipërfaqe 3 754 (tre mijë e shtatëqind e pesëdhjetë e katër) ha, sipas hartës në sistemin KRGJSH.
