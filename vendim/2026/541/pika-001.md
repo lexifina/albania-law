@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi kushtet, kriteret dhe procedurat e verifikimit të shkarkimeve të gazeve me efekt serrë të operatorit të instalimit, të operatorit të avionit e të subjektit të rregulluar dhe kushtet, kriteret e procedurat e akreditimit të verifikuesve”, sipas tekstit, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
