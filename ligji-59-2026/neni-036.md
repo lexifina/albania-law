@@ -1,0 +1,11 @@
+# Neni 36
+Linjat direkte
+1. Të gjithë prodhuesit dhe furnizuesit e energjisë elektrike brenda një territori të caktuar mund të furnizojnë mjediset e tyre, filialet dhe klientët e tyre nëpërmjet një linje direkte. Të gjithë konsumatorët fundorë kanë të drejtën, individualisht ose së bashku, të furnizohen përmes një linje direkte nga prodhuesit ose furnizuesit e energjisë elektrike.
+2. Linjat direkte që ndërtohen për eksportimin e energjisë elektrike nga prodhuesi vendas drejt një konsumatori jashtë vendit miratohen me vendim të Këshillit të Ministrave, me propozim të ministrit, pas marrjes së mendimit nga ana e ERE-s.
+3. Linjat direkte që ndërtohen për lidhjen e një prodhuesi brenda vendit me një klient fundor brenda vendit apo një shoqëri furnizimi që furnizon mjediset e veta apo klientët e vet të kualifikuar, miratohen nga ministri pas marrjes së mendimit nga ana e ERE-s.
+4. Kushtet dhe procedurat për ndërtimin e linjave direkte miratohen me vendim të Këshillit të Ministrave, me propozim të ministrit, bazuar në kritere objektive dhe jodiskriminuese dhe duke përfshirë procedurën e ERE-s që jep opinionet e saj përkatëse në lidhje me pikat 2 dhe 3 të këtij neni.
+5. Ministri miraton ndërtimin e një linje direkte edhe në rastet kur aplikuesit i është refuzuar aksesi në rrjet për rastet e parashikuara në nenin 32 të këtij ligji, ose nëse është iniciuar një procedurë për zgjidhjen e një mosmarrëveshjeje sipas parashikimeve të nenit 26 të këtij ligji.
+6. Ministri refuzon ndërtimin e një linje direkte në rast se dhënia e një autorizimi të tillë pengon përmbushjen e detyrimeve të shërbimit publik dhe mbrojtjen e klientit, të përcaktuara sipas dispozitave të këtij ligji. Argumentet për një refuzim të tillë duhet të jenë të arsyetuara dhe i njoftohen aplikuesit.
+7. Mundësia e furnizimit me energji elektrike nëpërmjet një linje direkte nuk pengon të drejtën e klientit për të lidhur marrëveshje furnizimi me energji elektrike nga një furnizues tjetër i zgjedhur prej tij.
+8. Shpenzimet për ndërtimin dhe operimin e linjave direkte përballohen nga mbajtësi i autorizimit.
+9. Për krijimin, ushtrimin dhe përfundimin e të drejtave lidhur me ndërtimin dhe operimin e linjave direkte që kalojnë nëpërmjet pasurisë së një pale të tretë zbatohen dispozitat e Kodit Civil.

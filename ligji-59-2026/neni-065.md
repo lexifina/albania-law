@@ -1,0 +1,16 @@
+# Neni 65
+Certifikimi i Operatorit të Sistemit të Transmetimit
+1. Para se të licencohet për kryerjen e veprimtarisë së operimit të sistemit të transmetimit, Operatori i Sistemit të Transmetimit duhet të certifikohet sipas procedurës së përcaktuar në këtë nen.
+2. ERE-ja përcakton kërkesat për aplikim për certifikim të Operatorit të Sistemit të Transmetimit, përfshirë dokumentacionin e nevojshëm që provon përmbushjen e kushteve sipas nenit 58 të këtij ligji. Aplikimi për certifikim paraqitet nga Operatori i Sistemit të Transmetimit në përputhje me kërkesat e miratuara nga ERE.
+3. ERE-ja merr një vendim për certifikimin e Operatorit të Sistemit të Transmetimit brenda 4 muajve nga data e aplikimit dhe dorëzimit të të gjithë dokumentacionit dhe informacionit të kërkuar. Pas përfundimit të kësaj periudhe, certifikimi konsiderohet i dhënë. Vendimi i shprehur ose i nënkuptuar i ERE-s bëhet efektiv vetëm pas përfundimit të procedurës së përcaktuar në pikën 7 të këtij neni.
+4. ERE-ja mund të kërkojë nga Operatori i Sistemit të Transmetimit çdo informacion të nevojshëm për përmbushjen e këtij detyrimi. ERE-ja ruan konfidencialitetin e informacionit të ndjeshëm tregtar.
+5. ERE-ja njofton Sekretariatin e Komunitetit të Energjisë për fillimin e procedurave për certifikimin e Operatorit të Sistemit të Transmetimit dhe merr vendim brenda 2 muajve nga data e njoftimit të Sekretariatit të Komunitetit të Energjisë, duke marrë në konsideratë rekomandimet e tij.
+6. Nëse vendimi përfundimtar i ERE-s është i ndryshëm nga rekomandimet e Sekretariatit të Komunitetit të Energjisë, ERE-ja duhet të publikojë dhe të arsyetojë shkaqet e mospranimit të tyre, duke informuar Sekretariatin për këtë vendim.
+7. Vendimi i shprehur ose i nënkuptuar për certifikimin e operatorit të sistemit të transmetimit i njoftohet pa vonesë Sekretariatit të Komunitetit të Energjisë nga ERE së bashku me të gjithë informacionin përkatës në lidhje me atë vendim dhe publikohet në faqen zyrtare të internetit të ERE-s.
+8. Operatori i Sistemit të Transmetimit njofton ERE-n për çdo veprim që planifikon të kryejë për të cilin mund të kërkohet një rivlerësim lidhur me pajtueshmërinë e tij me kushtet e parashikuara në nenin 59 të këtij ligji.
+9. ERE-ja monitoron përputhshmërinë e veprimtarisë së Operatorit të Sistemit të Transmetimit me kërkesat e përcaktuara në këtë ligj. ERE-ja rishikon procedurën e certifikimit të përmendur në pikën 1 të këtij neni në rastet e mëposhtme:
+a) pas njoftimit nga ana e Operatorit të Sistemit të Transmetimit në përputhje me pikën 8 të këtij neni;
+b) me nismën e tij kur ka një dyshim të arsyeshëm se një ndryshim i planifikuar ndikon në të drejtat ose në kontrollin e Operatorit të Sistemit të Transmetimit dhe mund të çojë në shkelje të dispozitave të nenit 72 të këtij ligji, ose në rastet kur një shkelje e tillë mund të ketë ndodhur.
+c) me një kërkesë të arsyetuar nga Sekretariati i Komunitetit të Energjisë.
+10. ERE-ja dhe Sekretariati i Komunitetit të Energjisë kërkojnë nga operatorët e sistemeve të transmetimit dhe shoqëritë që kryejnë funksione gjenerimi ose furnizimi çdo informacion të rëndësishëm për përmbushjen e detyrave të tyre sipas këtij neni.
+11. ERE-ja dhe Sekretariati i Komunitetit të Energjisë garantojnë ruajtjen e konfidencialitetit të informacionit tregtar të ndjeshëm.

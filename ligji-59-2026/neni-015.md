@@ -1,0 +1,14 @@
+# Neni 15
+Konflikti i interesit
+1. Kryetari, anëtarët e bordit, këshilltarët ose personeli teknik i ERE-s nuk mund:
+a) të jenë pronarë, aksionarë ose zotërues të pasurisë ose të një pjese të saj të një të licencuari që mban një licencë sipas kushteve të këtij ligji;
+b) të jenë të punësuar ose nënkontraktorë të një të licencuari, që mban një licencë sipas kushteve të këtij ligji;
+c) të jenë anëtarë të këshillit mbikëqyrës apo organeve të tjera drejtuese të një të licencuari që mban një licencë sipas kushteve të këtij ligji;
+ç) të jenë drejtues, administratorë ose në një pozicion tjetër drejtues te një i licencuar që ka një licencë sipas kushteve të këtij ligji ose çdo shoqërie tjetër, subjekt i kompetencave të ERE-s.
+2. Nëse gjatë procedurave aplikuese për dhënien e një licence sipas këtij ligji ose gjatë një procedure në të cilën përfshihen interesa financiarë të një të licencuari, përfshirë, por pa u kufizuar vetëm në çështje të tarifave, kryetari, anëtari i bordit, këshilltari dhe/ose personeli teknik gjendet në një situatë konflikti interesi, përveç atyre të përcaktuara në pikën 1 të këtij neni, por që përfshihet në përcaktimet e legjislacionit përkatës për parandalimin e konfliktit të interesave, ai nuk merr pjesë në vendimmarrjen përkatëse.
+3. Kryetari i bordit, anëtari, këshilltari dhe/ose personeli teknik mund të jetë klient i një të licencuari, por në asnjë rast i licencuari nuk i ofron anëtarit të bordit apo personelit teknik një shërbim favorizues, të ndryshëm nga shërbimi i përgjithshëm i ofruar për publikun.
+4. Kryetari i bordit, anëtari dhe/ose personeli teknik i ushtrojnë funksionet e tyre në përputhje me legjislacionin në fuqi për konfliktin e interesit.
+5. Pas përfundimit të mandatit të tyre, kryetari dhe anëtarët e bordit u nënshtrohen kufizimeve të mëposhtme:
+a) për një periudhë deri në 2 vjet pas përfundimit të mandatit të tyre ata nuk do të punësohen në pozicione drejtuese, ekzekutive ose mbikëqyrëse në institucione publike ose private, përfshirë subjektet në varësi të tyre, të cilat kanë pasur marrëdhënie me institucionin ku kanë ushtruar funksionet e tyre dhe gjatë 2 vjetëve të fundit të mandatit të tyre kanë pasur përgjegjësi të drejtpërdrejta për mbikëqyrjen ose auditimin e tyre;
+b) për një periudhë deri në 1 vit pas përfundimit të mandatit të tyre, ata nuk duhet të hyjnë në marrëdhënie kontraktuale shërbimesh me institucionin ku ushtruan funksionet e tyre, qoftë drejtpërdrejt apo tërthorazi, duke përfshirë edhe nëpërmjet personave të lidhur ose ndërmjetësve të besuar.
+c) për një periudhë deri në 1 vit pas përfundimit të mandatit të tyre, ata nuk do të përfaqësojnë asnjë palë në çështjet që lidhen me institucionin ku ushtrojnë funksionet e tyre, qoftë drejtpërdrejt apo tërthorazi, duke përfshirë edhe nëpërmjet personave të lidhur ose ndërmjetësve të besuar.

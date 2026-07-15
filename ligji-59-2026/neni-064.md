@@ -1,0 +1,7 @@
+# Neni 64
+Miratimi dhe rishikimi i veprimeve dhe rekomandimeve të koordinuara
+1. Operatori i Sistemit të Transmetimit, në bashkëpunim me operatorët e tjerë të sistemeve të transmetimit në rajonin e operimit të sistemit, zhvillon një procedurë për miratimin e rishikimin e veprimeve e të rekomandimeve të koordinuara të lëshuara nga qendrat rajonale të koordinimit.
+2. Operatori i Sistemit të Transmetimit zbaton aktivitetet e koordinuara ose rekomandimet e propozuara nga qendrat rajonale të koordinimit, përveç rasteve kur zbatimi i tyre do të cenonte kriteret e sigurisë ose do të sillte pasoja të papranueshme për operatorin.
+3. Nëse Operatori i Sistemit të Transmetimit vendos të mos zbatojë një aktivitet ose rekomandim të koordinuar, ai njofton menjëherë dhe në mënyrë transparente qendrën rajonale të koordinimit kompetente dhe operatorët e tjerë të sistemeve të transmetimit në rajonin e operimit të sistemit, duke dhënë arsyet e justifikuara për vendimin e tij.
+4. Operatori i Sistemit të Transmetimit nis një rishikim të aktiviteteve dhe rekomandimeve të koordinuara të propozuara nga qendrat rajonale të koordinimit ose me nismën e tij ose në bashkëpunim me operatorët e tjerë të sistemeve të transmetimit në rajonin e operimit të sistemit.
+5. Në rastin e përmendur në pikën 4 të këtij neni, operatori i sistemit të transmetimit nuk pezullon zbatimin e aktivitetit ose rekomandimit të koordinuar deri në marrjen e një vendimi përfundimtar, përveç rasteve kur zbatimi do të cenonte kriteret e sigurisë ose do të sillte pasoja të papranueshme për operatorin.

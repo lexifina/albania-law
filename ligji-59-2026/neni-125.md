@@ -1,0 +1,10 @@
+# Neni 125
+Përgjegjësia e balancimit të pjesëmarrësve të tregut të energjisë elektrike
+1. Çdo pjesëmarrës në tregun e energjisë elektrike është përgjegjës për balancimin e tij. Për këtë qëllim pjesëmarrësit në treg ose duhet të jenë palë përgjegjëse për balancimin ose duhet t’ia delegojnë përgjegjësinë e tyre në mënyrë kontraktuale një pale përgjegjëse për balancimin sipas zgjedhjes së tyre. Çdo palë përgjegjëse për balancimin duhet të jetë financiarisht përgjegjëse për disbalancat e saj dhe duhet të përpiqet të jetë e balancuar ose duhet të ndihmojë që sistemi i energjisë elektrike të jetë i balancuar.
+2. Këshilli i Ministrave me propozim të ministrit mund të zgjedhë të bëjë përjashtime nga përgjegjësia e balancimit për:
+a) projektet demonstruese për teknologjitë inovative, subjekt miratimi nga ERE-ja, me kusht që këto përjashtime të kufizohen në kohën dhe masën e nevojshme për arritjen e qëllimeve të demonstrimit;
+b) impiantet e prodhimit që përdorin burime të rinovueshme të energjisë me një kapacitet të instaluar të energjisë elektrike më të vogël se 200 kW.
+3. Kur Këshilli i Ministrave bën një përjashtim sipas pikës 2 të këtij neni, sigurohet që përgjegjësia financiare për disbalancat e shkaktuara të përmbushet nga një pjesëmarrës tjetër në tregun e energjisë elektrike.
+4. Pjesëmarrësit e tregut të energjisë elektrike mund të rregullojnë përgjegjësinë për balancimin nëpërmjet një kontrate me Operatorin e Sistemit të Transmetimit, duke marrë statusin e palës përgjegjëse për balancim ose duke nënshkruar një kontratë për transferimin e përgjegjësisë së balancimit ndaj një pale tjetër përgjegjëse për balancimin, duke u bërë pjesëtar i një grupi balancimi, në përputhje me rregullat e tregut të balancimit.
+5. Operatori i Sistemit të Transmetimit është përgjegjës për përgatitjen e pasqyrave financiare për shlyerjen e detyrimeve të ndërsjella për disbalancat e shkaktuara nga pjesëmarrësit e tregut të energjisë elektrike.
+6. Mënyra e trajtimit të disbalancave, të shkaktuara nga prodhuesit me përparësi të energjisë elektrike, dhe kostot përkatëse për mbulimin e tyre miratohen me vendim të Këshillit të Ministrave.

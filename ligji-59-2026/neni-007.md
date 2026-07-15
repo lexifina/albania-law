@@ -1,0 +1,5 @@
+# Neni 7
+Siguria e rrjetit dhe cilësia e furnizimit
+1. Operatori i Sistemit të Transmetimit dhe Operatori i Sistemit të Shpërndarjes hartojnë rregulla specifike që përcaktojnë kërkesat minimale për sigurinë dhe operimin e rrjetit, përfshirë kushtet për cilësinë e furnizimit dhe performancës së sigurisë së rrjetit. Gjatë hartimit të tyre operatorët e sistemit të transmetimit dhe të shpërndarjes konsultohen me grupet e interesit, vendase dhe të huaja. Rregullat e cilësisë së furnizimit dhe performancës së sigurisë së rrjetit miratohen dhe monitorohen nga ERE-ja.
+2. ERE-ja mbikëqyr mbajtjen e një niveli të përshtatshëm të kapacitetit rezervë teknik të transmetimit prej Operatorit të Sistemit të Transmetimit, i cili bashkëpunon edhe me operatorët e transmetimit të vendeve fqinje që është i ndërlidhur, me qëllim garantimin e sigurisë së rrjetit.
+3. Operatori i Sistemit të Transmetimit dhe Operatori i Sistemit të Shpërndarjes shkëmbejnë informacion për funksionimin e rrjetit në mënyrë efektive, në kohën e duhur dhe në përputhje me kërkesat operative të përmendura në pikën 1 të këtij neni, si dhe me operatorët e huaj të sistemeve të ndërlidhura të transmetimit.

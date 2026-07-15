@@ -1,0 +1,8 @@
+# Neni 26
+Zgjidhja e mosmarrëveshjeve nga ERE-ja
+1. ERE-ja vepron si autoritet për zgjidhjen e mosmarrëveshjeve në lidhje me ankesat kundër të licencuarve në përputhje me rregulloren përkatëse të shqyrtimit të mosmarrëveshjeve dhe trajtimit të ankesave.
+2. Çdo palë e interesuar, që ka ankesa ndaj operatorit të transmetimit apo shpërndarjes, si dhe ndaj të licencuarve të tjerë për zbatimin e detyrimeve të tyre, në përputhje me përcaktimet e këtij ligji apo akteve nënligjore të sektorit të energjisë elektrike, mund t’i paraqesë për zgjidhje pranë ERE-s. ERE-ja merr vendim brenda një afati prej 30 ditësh nga marrja e ankesës. Kjo periudhë mund të zgjatet deri në 30 ditë të tjera në rastet kur ERE-s i nevojitet informacion shtesë.
+3. ERE-ja mund të vendosë mospranimin e ankesës nëse bazuar në legjislacionin në fuqi konstaton se shqyrtimi i ankesës nuk është kompetencë e saj.
+4. Paraqitja e ankesës, sipas parashikimeve të këtij neni, nuk i heq të drejtën palës së interesuar për t’u drejtuar pranë organeve të tjera kompetente në përputhje me parashikimet e Kodit të Procedurave Administrative.
+5. ERE-ja siguron që klientët fundorë të kenë akses në mekanizma të thjeshtë, të drejtë, transparentë, të pavarur, efektivë dhe efikas jashtëgjyqësorë për zgjidhjen e mosmarrëveshjeve që lidhen me të drejtat dhe detyrimet e përcaktuara sipas këtij ligji.
+6. Pjesëmarrja e shoqërive elektroenergjetike në mekanizmat jashtëgjyqësorë për zgjidhjen e mosmarrëveshjeve për klientët familjarë është e detyrueshme, përveçse kur Shqipëria i demonstron Komisionit se mekanizma të tjerë kombëtarë janë po aq efektivë.

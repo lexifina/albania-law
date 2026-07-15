@@ -1,0 +1,8 @@
+# Neni 51
+Të licencuarit për depozitimin e energjisë elektrike
+1. Depozitimi i energjisë mund të kryhet vetëm nga persona fizikë ose juridikë, të cilët janë të pajisur me licencë për operimin e impiantit të depozitimit të energjisë, përveç rasteve kur përcaktohet ndryshe nga dispozita të tjera të këtij ligji.
+2. Në rastet kur operatori i impiantit të depozitimit të energjisë është një kompani e kontrolluar plotësisht ose pjesërisht nga shteti, Këshilli i Ministrave me vendim përcakton autoritetin publik që përfaqëson shtetin si pronar të aksioneve të tyre, i cili do të jetë i pavarur nga pronari i sistemit të transmetimit, sipas kuptimit të nenit 55 të këtij ligji.
+3. Çdo impiant depozitimi energjie që është në zhvillim e sipër ose në operim pa pasur licencë për operimin e impiantit të depozitimit të energjisë në datën e hyrjes në fuqi të këtij ligji do të njihet dhe do të lejohet të vazhdojë operimin e tij sipas licencës ekzistuese.
+4. Operatorët e impianteve të depozitimit të energjisë, të njohura sipas pikës 3 të këtij neni, duhet të aplikojnë për licencë për operimin e impiantit të depozitimit të energjisë brenda 12 muajve nga data e hyrjes në fuqi të këtij ligji. ERE-ja mund të miratojë procedura të thjeshtuara licencimi për aplikime për licencën për operimin e impianteve të depozitimit të energjisë.
+5. Operatori i impiantit të depozitimit të energjisë, i njohur sipas pikës 3 të këtij neni, duhet të njoftojë dhe të regjistrohet në ERE brenda 60 ditëve nga hyrja në fuqi e këtij ligji.
+6. Operatori i impiantit të depozitimit të energjisë duhet të përmbushë të gjitha standardet ligjore, teknike, të sigurisë dhe operacionale që zbatohen për të licencuarit për operimin e impianteve të depozitimit të energjisë.

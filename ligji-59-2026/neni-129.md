@@ -1,0 +1,4 @@
+# Neni 129
+Detyrimet e operatorëve ndaj rrjeteve të tyre
+1. Operatori i Sistemit të Transmetimit dhe Operatori i Sistemit të Shpërndarjes administrojnë rrjetet dhe marrin masa që gjatë ndërtimit dhe operimit të tyre të respektojnë të gjitha kërkesat dhe kushtet teknike e të sigurisë, duke përfshirë edhe respektimin e distancave të sigurisë së rrjeteve në raport me objektet e tjera që u përkasin palëve të treta.
+2. Operatori i Sistemit të Transmetimit dhe Operatori i Sistemit të Shpërndarjes nuk kanë asnjë detyrim ndaj pretendimeve të personave fizikë ose juridikë për dëme të shkaktuara, si rezultat i distancës së rrjeteve të transmetimit apo shpërndarjes në raport me çdo objekt apo strukturë, në pronësi apo posedim të tyre, në rast se objekti ose struktura apo pjesë të tij/të saj janë ndërtuar apo vendosur në këto distanca pas ndërtimit të rrjetit të shpërndarjes apo transmetimit.

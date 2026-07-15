@@ -1,0 +1,7 @@
+# Neni 72
+Konfidencialiteti i Operatorit të Sistemit të Transmetimit
+1. Operatori i Sistemit të Transmetimit, duke respektuar në çdo rast përcaktimet e nenit 49 të këtij ligji ose ndonjë detyrim tjetër ligjor për dhënien e informacionit, ruan konfidencialitetin e informacionit të ndjeshëm tregtar të siguruar gjatë ushtrimit të veprimtarisë, dhe parandalon përhapjen në mënyrë diskriminuese të informacionit për veprimtarinë e tij, me qëllim që të krijojë avantazh tregtar te një palë tjetër.
+2. OST-ja nuk shpërndan të dhënat e ndjeshme tregtare te çdo i licencuar tjetër, përveçse kur kjo është e nevojshme për kryerjen e një transaksioni tregtar. Për të siguruar respektimin e plotë të rregullave të shpërndarjes së informacionit dhe ndarjes së veprimtarive, ERE-ja merr masa që Operatori i Sistemit të Transmetimit dhe çdo i licencuar tjetër të mos përdorin shërbime të përbashkëta, të tilla si shërbime të përbashkëta ligjore, përveç funksioneve të thjeshta administrative apo të teknologjisë së informacionit.
+3. Operatori i Sistemit të Transmetimit gjatë kryerjes së veprimtarisë së tij nuk keqpërdor informacionin e ndjeshëm tregtar të siguruar nga palët e treta, në kuadër të ofrimit apo negociimit të aksesit në sistem.
+4. Informacioni i nevojshëm që garanton konkurrencën dhe funksionimin normal të tregut bëhet publik.
+5. Dispozitat e këtij neni zbatohen në përputhje me dispozitat për menaxhimin e të dhënave, të parashikuara në nenin 28 të këtij ligji.

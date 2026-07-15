@@ -1,0 +1,19 @@
+# Neni 104
+Detyrimet e furnizuesve
+1. Furnizuesi, në zbatim të këtij ligji, ka detyrimin të furnizojë klientët me energji elektrike në përputhje me kontratën e nënshkruar, në mënyrë të sigurt, të besueshme dhe efikase.
+2. Furnizuesi është përgjegjës përballë Operatorit të Sistemit të Transmetimit për çdo disbalancë të shkaktuar. Klientët fundorë janë përgjegjës përballë furnizuesit për disbalancat e shkaktuara. ERE-ja vendos përjashtimin nga përgjegjësia për disbalancat për kategori të caktuara të klientëve fundorë, të cilët furnizohen mbi bazën e shërbimit universal të furnizimit, si detyrim i shërbimit publik.
+3. Furnizuesi, përveç detyrimeve të përgjithshme të përcaktuara në kontratë, informon klientët e tij drejtpërdrejt, në mënyrë gjithëpërfshirëse dhe transparente për:
+a) të drejtën e tyre për të zgjedhur, pavarësisht parashikimeve të nenit 111 të këtij ligji, për të ndryshuar pa pagesë furnizuesin, pasi kanë ekzekutuar të gjitha detyrimet e mëparshme të energjisë elektrike;
+b) konsumin dhe kostot aktuale të energjisë elektrike, me qëllim mundësimin e menaxhimit të konsumit të energjisë nga ana e klientëve;
+c) mënyrat e ndryshme të pagesës, të cilat nuk duhet të jenë diskriminuese midis klientëve. Sistemet e parapagimit, nëse do të aplikohen, duhet të jenë të drejta dhe të reflektojnë konsumin e pritshëm;
+ç) mundësinë e përdorimit të procedurave të thjeshta për ndjekjen e ankesave të tyre;
+d) ndryshimin e kushteve të kontratës ose çdo rregullim të çmimit të furnizimit, duke përfshirë arsyet dhe kushtet për këto rregullime të paktën 14 ditë përpara zbatimit të tyre, informacionin në lidhje me të drejtën e klientëve për të zgjidhur në mënyrë të njëanshme kontratën e furnizimit pa kosto shtesë, me lëshimin e njoftimit. Në rastin e klientëve familjarë, njoftimi për çdo rregullim duhet të bëhet të paktën një muaj përpara se rregullimi të hyjë në fuqi;
+dh) të dhënat e konsumit të tij, duke i mundësuar çdo klienti akses ndaj të dhënave të matjes, në bazë të një marrëveshjeje të qartë dhe pa pagesë;
+e) të drejtat e tyre në përputhje me udhëzuesin e miratuar nga Komuniteti i Energjisë.
+4. Furnizuesit nëpërmjet faturës së konsumit të energjisë elektrike dhe/apo materialeve promovuese informojnë në mënyrë të qartë klientët për:
+a) të dhëna për çdo burim energjie të siguruar nga furnizuesi gjatë vitit të mëparshëm;
+b) elementet përbërëse të çmimit dhe kostot përkatëse;
+c) të dhënat për ndikimin në mjedis të dioksidit të karbonit dhe mbeturinave radioaktive të emetuara gjatë prodhimit të energjisë elektrike, të siguruara nga furnizuesi në vitin e mëparshëm.
+5. Furnizuesit do t’u ofrojnë klientëve fundorë një zgjedhje të gjerë të mënyrave të pagesës. Këto mënyra pagese nuk duhet të bëjnë dallime të padrejta midis klientëve. Çdo ndryshim në kosto në lidhje me mënyrat e pagesës ose sistemet e parapagimit duhet të jetë objektiv, jodiskriminues dhe proporcional dhe nuk duhet të tejkalojë kostot direkte të kryera nga klientët fundorë për përdorimin e një mënyre specifike pagese ose një sistemi parapagimi. Klientët familjarë që kanë akses në sistemet e parapagimit nuk do të vihen në kushte të pafavorshme nga sistemet e parapagimit.
+6. Furnizuesit duhet t’i trajtojnë ankesat në mënyrë të thjeshtë, të drejtë dhe të shpejtë, për të siguruar që klientët fundorë të përfitojnë një standard të mirë shërbimi dhe trajtimi të ankesave nga furnizuesit e tyre.
+7. Furnizuesit duhet t’u ofrojnë klientëve familjarë informacion të mjaftueshëm për masat alternative ndaj ndërprerjes së furnizimit, në kohë të mjaftueshme përpara çdo ndërprerjeje të planifikuar. Këto masa alternative mund të përfshijnë burime mbështetjeje për të shmangur ndërprerjen, sisteme parapagimi, auditime energjie, shërbime këshillimi për energjinë, plane alternative pagese, këshillim për menaxhimin e borxhit ose moratoriume për ndërprerjen dhe nuk duhet të përbëjnë kosto shtesë për klientët që përballen me ndërprerje.
