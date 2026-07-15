@@ -1,0 +1,7 @@
+1. Shpalljen “Zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Përrenjas të zonave, si më poshtë vijon:
+a) Zona nr. 1, fshatrat Shqiponjë dhe Stravaj, pjesë të Njësisë Administrative Stravaj, Bashkia Përrenjas, qarku Elbasan, me sipërfaqe 932 (nëntëqind e tridhjetë e dy) ha, sipas hartës në sistemin KRGJSH;
+b) Zona nr. 2, fshatrat Qukës Skënderbej, Bërzeshtë, Fanjë, Dritaj, Farret dhe Stranik, pjesë të njësive administrative Qukës dhe Stravaj, Bashkia Përrenjas, qarku Elbasan, me sipërfaqe 2275 (dy mijë e dyqind e shtatëdhjetë e pesë) ha, sipas hartës në sistemin KRGJSH;
+c) Zona nr. 3, fshatrat Skroskë dhe Pishkash, pjesë të Njësisë Administrative Qukës, Bashkia Përrenjas, qarku Elbasan, me sipërfaqe 722 (shtatëqind e njëzet e dy) ha, sipas hartës në sistemin KRGJSH;
+ç) Zona nr. 4, fshati Sutaj, pjesë e Njësisë Administrative Rrajcë, Bashkia Përrenjas, qarku Elbasan, me sipërfaqe 146 (njëqind e dyzet e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+d) Zona nr. 5, fshati Sopot, pjesë e Njësisë Administrative Stravaj, Bashkia Përrenjas, qarku Elbasan, me sipërfaqe 2036 (dy mijë e tridhjetë e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+dh) Zona nr. 6, fshatrat Qukës Shkumbin, Qukës Skënderbej, Gurrë, Karkavec, Bërzeshtë, Fanjë dhe Dritaj, pjesë të Njësisë Administrative Qukës, Bashkia Përrenjas, qarku Elbasan, me sipërfaqe 451 (katërqind e pesëdhjetë e një) ha, sipas hartës në sistemin KRGJSH.
