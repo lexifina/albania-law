@@ -1,0 +1,4 @@
+# Neni 28
+Delegimi i detyrave të caktuara të kontrollit zyrtar nga autoritetet kompetente
+1. Autoritetet kompetente mund t’i delegojnë detyra të caktuara që u përkasin kontrolleve zyrtare një ose më shumë trupave të deleguara ose personave fizikë, në përputhje me kushtet e parashikuara, përkatësisht, në nenet 29 dhe 30 të këtij ligji. Autoritetet kompetente garantojnë që trupa e deleguar ose personi fizik, të cilit i janë deleguar këto detyra, ka kompetencat e nevojshme për të kryer në mënyrë efektive këto detyra.
+2. Kur autoritetet kompetente vendosin t’i delegojnë detyra të caktuara të kontrollit zyrtar një ose më shumë trupave të deleguara, që kanë për qëllim verifikimin e përputhshmërisë me rregullat e parashikuara në shkronjën “f” të pikës 2 të nenit 2 të këtij ligji, atribuojnë një kod numerik identifikimi për secilin trup të deleguar, si dhe caktojnë autoritetin përkatës përgjegjës për miratimin dhe mbikëqyrjen e tyre.

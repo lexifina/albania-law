@@ -1,0 +1,4 @@
+# Neni 114
+Akte nënligjore në zbatim të këtij ligji
+1. Ngarkohet Këshilli i Ministrave që brenda dy vjetëve nga fillimi i efekteve të këtij ligji të miratojë aktet nënligjore në zbatim të neneve 5, pika 6, dhe 78, pika 1, të këtij ligji.
+2. Ngarkohet ministri që brenda dy vjetëve nga fillimi i efekteve të këtij ligji të miratojë aktet nënligjore në zbatim të neneve 10, pika 4; 11, pika 3, 16, pika 4; 18, pikat 7 e 8; 19, pikat 2 e 3; 20, pikat 2 e 3; 21, pikat 8 e 9; 22, pikat 2 e 3; 23, pika 3; 24, pika 3; 25, 26, pikat 2 e 3; 27, pikat 1, 2 e 3; 34, pika 6; 41; 45, pika 4; 46, pika 2; 47, pikat 2 e 3; 48; 49, pikat 4 e 5; 50, pika 4; 51, pikat 1 e 2; 52; 53, pika 1; 54, pikat 3 e 4; 58, 59, pika 1, 60, pika 2; 61, pikat 1 e 3; 62, pika 1; 63, pikat 2, 4, e 5; 64, pika 6; 65, pika 2; 69, 70, pika 3; 72, pika 1; 73, pika 2; 74, pika 2; 76; 89; 91, pikat 1 e 6; 92, pika 2; 95; 98, pika 2; 99, pika 4; 100, pikat 1 e 3; 103, pika 6; 107, pika 3, të këtij ligji.

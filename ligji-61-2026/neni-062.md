@@ -1,0 +1,7 @@
+# Neni 62
+Pezullimi i përcaktimit të pikave të kontrollit kufitar
+1. Ministri me urdhër pezullon përcaktimin e një pike të kontrollit kufitar dhe urdhëron ndalimin e veprimtarisë të saj për të gjitha ose për disa kategori kafshësh dhe mallrash për të cilat është bërë përcaktimi në rastet kur veprimtari të tilla mund të përbëjnë një risk për shëndetin e njerëzve, kafshëve ose bimëve, mirëqenien e kafshëve ose, për sa i përket OMGJ-ve dhe produkteve për mbrojtjen e bimëve, gjithashtu mjedisit. Në rastet kur kemi të bëjmë me një risk serioz, pezullimi do të ketë efekt të menjëhershëm.
+2. Republika e Shqipërisë njofton Komisionin Evropian dhe vendet e tjera për pezullimin e përcaktimit të pikave të kontrollit kufitar të përmendura në pikën 1 të këtij neni, si dhe për arsyet e këtij pezullimi.
+3. Pezullimi i përcaktimit të një pike të kontrollit kufitar reflektohet në listat që parashikon pika 1 e nenit 60 të këtij ligji.
+4. Ministri me urdhër shfuqizon pezullimin e përcaktuar në pikën 1 të këtij neni sapo autoritetet kompetente konstatojnë se risku, i parashikuar në pikën 1 të këtij neni, nuk ekziston më. Republika e Shqipërisë njofton Komisionin Evropian dhe vendet e tjera për informacionin mbi bazën e të cilit është hequr pezullimi.
+5. Ky nen nuk cenon kompetencën e ministrit për të vendosur për pezullimin e përcaktimit të pikave të kontrollit kufitar për arsye të tjera nga ato të përmendura në këtë ligj.

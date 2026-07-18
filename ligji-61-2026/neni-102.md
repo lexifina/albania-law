@@ -1,0 +1,11 @@
+# Neni 102
+Masa të veçanta për hyrjen e kafshëve dhe mallrave të caktuara
+në territorin e Republikës së Shqipërisë
+1. Kur në raste të tjera, përveç atyre të përmendura në ligjin për ushqimin që transpozon legjislacionin e BE-së në Republikën e Shqipërisë dhe në nenin 249 të ligjit nr. 41/2025 “Për shëndetin e kafshëve”, ka prova se hyrja në Republikën e Shqipërisë e disa kafshëve ose mallrave me origjinë nga një vend tjetër, një rajon i tij ose një grup vendesh të tjera, përbën një risk për shëndetin e njerëzve, kafshëve ose bimëve ose, për sa i përket OMGJ-ve, edhe për mjedisin, ose kur ka prova që po ndodh përhapja e një mospërputhjeje serioze me rregullat e përmendura në pikën 2 të nenit 2 të këtij ligji, ministri me udhëzim miraton masat e nevojshme për të frenuar një risk të tillë ose për t’i dhënë fund mospërputhshmërisë së identifikuar.
+2. Masat e përmendura në pikën 1 të këtij neni identifikojnë kafshët dhe mallrat duke iu referuar kodeve të tyre nga Nomenklatura e Kombinuar dhe përfshijnë:
+a) ndalimin e hyrjes në Republikën e Shqipërisë të kafshëve dhe mallrave të përmendura në pikën 1 të këtij neni, me origjinë ose të dërguar nga vendet e tjera përkatëse ose rajonet e tyre;
+b) kërkesën që kafshët dhe mallrat e përmendura në pikën 1 të këtij neni, me origjinë ose të dërguara nga disa vende të tjera ose rajone të tyre, t’i nënshtrohen, para dërgimit, trajtimit ose kontrolleve specifike;
+c) kërkesën që kafshët dhe mallrat e përmendura në pikën 1 të këtij neni, me origjinë ose të dërguara nga disa vende të tjera ose rajone të tyre, t’i nënshtrohen trajtimit ose kontrolleve specifike, me hyrjen në Republikën e Shqipërisë;
+ç) kërkesën që ngarkesat e kafshëve dhe mallrave të përmendura në pikën 1 të këtij neni, me origjinë ose të dërguara nga disa vende të tjera ose rajone të tyre, të shoqërohen nga një certifikatë zyrtare, një vërtetim zyrtar ose nga çdo dëshmi tjetër që ngarkesa është në përputhje me kërkesat e përcaktuara nga rregullat e parashikuara në pikën 2 të nenit 2 të këtij ligji, ose me kërkesa të njohura si të paktën të barasvlershme me to;
+d) kërkesën që provat e përmendura në shkronjën “ç” të pikës 2 të këtij neni të sigurohen në përputhje me një format të caktuar;
+dh) masa të tjera të nevojshme për të frenuar riskun.

@@ -1,0 +1,8 @@
+# Neni 68
+Moszbatimi nga operatori i masave të vendosura nga autoritetet kompetente
+1. Operatori përgjegjës për ngarkesën zbaton menjëherë të gjitha masat e vendosura nga autoritetet kompetente, në përputhje me pikat 3 e 6 të nenit 65 dhe të nenit 66 të këtij ligji dhe maksimumi brenda 60 ditëve nga dita kur autoritetet kompetente kanë njoftuar operatorin përkatës për vendimin e tij në përputhje me pikën 5 të nenit 65 të këtij ligji. Autoritetet kompetente mund të përcaktojnë një periudhë më të shkurtër se periudha prej 60 ditësh.
+2. Nëse pas përfundimit të periudhës së përmendur në pikën 1 të këtij neni, nuk është ndërmarrë asnjë veprim nga ana e operatorit, autoritetet kompetente urdhërojnë:
+a) që ngarkesa të asgjësohet ose t’i nënshtrohet ndonjë mase tjetër të përshtatshme;
+b) në rastet e parashikuara në nenin 66 të këtij ligji, që ngarkesa të asgjësohet në objekte të përshtatshme të vendosura sa më afër postës së kontrollit kufitar, duke marrë të gjitha masat e nevojshme për të mbrojtur shëndetin e njerëzve, kafshëve ose bimëve, mirëqenien e kafshëve ose mjedisin.
+3. Autoritetet kompetente mund ta zgjasin periudhën e përmendur në pikat 1 dhe 2 të këtij neni me kohën e nevojshme për marrjen e rezultateve të opinionit të dytë të ekspertit, të parashikuar në nenin 35 të këtij ligji, me kusht që kjo të mos ketë efekte të dëmshme për njerëzit, kafshët dhe shëndetin e bimëve, mirëqenien e kafshëve ose, për sa i përket OMGJ-ve dhe produkteve për mbrojtjen e bimëve, gjithashtu mjedisit.
+4. Masat e përmendura në këtë nen zbatohen me shpenzimet e operatorit përgjegjës për ngarkesën.

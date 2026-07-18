@@ -1,0 +1,14 @@
+# Neni 34
+Metodat e përdorura për marrjen e mostrave, analizat, testet dhe diagnozat
+1. Metodat e përdorura për marrjen e mostrave dhe për analizat laboratorike, testet dhe diagnozat gjatë kontrolleve zyrtare dhe aktiviteteve të tjera zyrtare janë në përputhje me legjislacionin që përcakton këto metoda ose kriteret e performancës për ato metoda.
+2. Në mungesë të legjislacionit të përmendur në pikën 1 të këtij neni dhe në kuadër të kontrolleve zyrtare dhe aktiviteteve të tjera zyrtare, laboratorët zyrtarë përdorin një nga metodat e mëposhtme sipas përshtatshmërisë për nevojat e tyre specifike analitike, testuese dhe diagnostikuese:
+a) metoda të disponueshme që përputhen me rregullat ose protokollet përkatëse të njohura ndërkombëtarisht, duke përfshirë ato që janë pranuar nga Komiteti Evropian për Standardizim (CEN); ose
+metodat përkatëse të zhvilluara ose të rekomanduara nga laboratorët e referencës kombëtare ose laboratorët e referencës së Bashkimit Evropian dhe të vërtetuara, në përputhje me protokollet shkencore të pranuara ndërkombëtarisht;
+b) në mungesë të rregullave ose protokolleve të përshtatshme, siç parashikohet në shkronjën “a” të pikës 2 të këtij neni, metodat përkatëse të zhvilluara ose të rekomanduara nga laboratorët kombëtarë të referencës dhe të vërtetuara, në përputhje me protokollet shkencore, të pranuara ndërkombëtarisht, ose metodat përkatëse të zhvilluara dhe të vërtetuara me studime të vlefshmërisë së metodave ndërlaboratorike ose brenda laboratorit, në përputhje me protokollet shkencore të pranuara ndërkombëtarisht.
+3. Në rastet kur nevojitet urgjentisht kryerja e analizave laboratorike, testeve ose diagnostikimi dhe nuk ekziston asnjë nga metodat e përmendura në pikat 1 dhe 2 të këtij neni, laboratori kombëtar përkatës i referencës ose, nëse nuk ekziston një laborator kombëtar reference, çdo laborator tjetër, i caktuar në përputhje me pikën 1 të nenit 37 të këtij ligji, mund të përdorë metoda të ndryshme nga ato të përmendura në pikat 1 dhe 2 të këtij neni deri në vërtetimin e një metode të përshtatshme, në përputhje me protokollet shkencore të pranuara ndërkombëtarisht.
+4. Metodat e përdorura për analizat laboratorike duhet të karakterizohen, sa herë që të jetë e mundur, nga kriteret përkatëse të metodave të analizave, të përcaktuara në shtojcën II të këtij ligji.
+5. Mostrat merren, trajtohen dhe etiketohen në mënyrë të tillë që të sigurohet vlefshmëria e tyre ligjore, shkencore dhe teknike.
+6. Ministri me udhëzim miraton rregulla për:
+a) metodat që do të përdoren për marrjen e mostrave dhe për analizat laboratorike, testet dhe diagnozat;
+b) kriteret e performancës, analizat, parametrat e testimit ose diagnostikimit, pasigurinë/tolerancën e matjes dhe procedurat për vërtetimin e këtyre metodave;
+c) interpretimin e rezultateve analitike, testuese dhe diagnostikuese.
