@@ -1361,3 +1361,190 @@ VLERA TOTALE
 115458560
 0
 115458560
+Nr.
+Pronari
+Të dhënat kadastrale (sipas kartelës së pasurisë)
+Vlerësimet për shpronësim
+Shënime (kufizime hipotekore barre mbi pasurinë, etj.)
+“Arë”
+“Ndërtesë”
+Vlera totale
+(lekë)
+Emër
+Atësia
+Mbiemër
+Qyteti
+Zona kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sip. totale (m²)
+Truall
+Ndërtesë (m2)
+Vol.
+Faqe
+Sipërfaqja (m2)
+Çmimi (lekë/m²)
+Vlera
+(lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m²)
+VLERA ( lekë)
+41
+Tahir
+Ramazan
+Gjokmeli
+Tiranë
+1867
+23/17
+Arë
+4800
+0
+0.00
+2
+92
+4,800.00
+448.00
+2,150,400.00
+-
+-
+-
+2,150,400.00
+LISTA EMËRORE E PRONARËVE PASURITË, PRONË PRIVATE, TË TË CILËVE SHPRONËSOHEN PËR INTERES PUBLIK NGA REALIZIMI I PROJEKTIT “ZONA E TEKNOLOGJISË DHE ZHVILLIMIT EKONOMIK ’TEDA TIRANË’”
+Nr.
+Pronari
+Të dhënat kadastrale (sipas kartelës së pasurisë)
+Vlerësimet për shpronësim
+Shënime (kufizime hipotekore barre mbi pasurinë, etj.)
+“Arë”
+“Ndërtesë”
+Vlera totale
+(lekë)
+Emër
+Atësia
+Mbiemër
+Qyteti
+Zona kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sip. totale (m²)
+Truall
+Ndërtesë (m2)
+Vol.
+Faqe
+Sipërfaqja (m2)
+Çmimi (lekë/m²)
+Vlera
+(lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m²)
+VLERA ( lekë)
+65
+Maniola
+Shaqir
+Çaushi
+TIRANË
+3866
+116/10
+Arë
+4200
+0
+0.00
+1
+139
+4,200.00
+448.00
+1,881,600.00
+-
+-
+-
+1,881,600.00
+66
+Arjan
+Rukije
+Alma
+Sefer
+Mehmet
+Sefer
+Çaushi Çaushi
+Lami
+TIRANË
+3866
+116/43
+Arë
+4625
+0
+0.00
+71
+191
+4,625.00
+448.00
+2,072,000.00
+-
+-
+-
+2,072,000.00
+67
+Ridvan
+Myzafer
+Trendafil
+Resmije
+Elida
+Enverie Flamure Vilson
+Kamber
+Kamber
+Kamber
+Kamber
+Kamber
+Kamber
+Kamber
+Kamber
+Milloshi Milloshi Milloshi Petriti
+Karaj
+Ymeri
+Zere
+Milloshi
+TIRANË
+3866
+116/38
+Arë
+512
+0
+0.00
+143
+173
+512.00
+448.00
+229,376.00
+-
+-
+-
+229,376.00
+68
+Ismail
+Tahir
+Egra
+TIRANË
+2105
+562/11
+Arë
+1037
+0
+0.00
+31
+104
+1,037.00
+448.00
+464,576.00
+-
+-
+-
+464,576.00
+VLERA TOTALE
+15,174.00
+6,797,952.00
+-
+6,797,952.00
+EFEKTI FINANCIAR
+9,374.00
+-
+4,199,552.00
