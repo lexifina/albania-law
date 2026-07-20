@@ -1,0 +1,2 @@
+# Neni 19
+Organizata e peshkimit zbaton kushtet e përcaktuara në nenin 64, të ligjit nr. 64/2012, “Për peshkimin”, të ndryshuar, duke garantuar mosndryshimin e destinacionit e të qëllimit, përdorimin e infrastrukturës nga institucionet shtetërore, në rastet e masave të jashtëzakonshme ose, kur kjo kërkohet për interes publik, ruajtjen e garantimin e interesit publik, si dhe ruajtjen e rritjen e vlerës ekonomike të infrastrukturës së peshkimit, që i është dhënë në menaxhim.

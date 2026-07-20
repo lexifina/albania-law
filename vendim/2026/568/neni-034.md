@@ -1,0 +1,4 @@
+# Neni 34
+1. Institucioni përgjegjës për shërbimet e peshkimit e të akuakulturës dërgon raportin, sipas nenit 4, të këtij vendimi, për miratim nga ministri, me qëllim fillimin e transferimit të menaxhimit të infrastrukturës së lidhur me peshkimin te subjektet tregtare.
+2. Pas miratimit të raportit nga ministri përgjegjës për peshkimin, institucioni përgjegjës për shërbimet e peshkimit e të akuakulturës përgatit dhe publikon njoftimin për transferimin e menaxhimit të infrastrukturës së lidhur me peshkimin në Buletinin e Njoftimeve Publike e në faqen zyrtare të ministrisë.
+3. Njoftimi përcakton të dhënat kryesore të infrastrukturës, që do të transferohet, kriteret e konkurrimit, sipas nenit 35, të këtij vendimi, dokumentacionin që duhet të paraqesin ofertuesit, si dhe afatin e paraqitjes së ofertave.
