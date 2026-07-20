@@ -1,0 +1,1 @@
+11. Agjencia Shtetërore e Kadastrës pezullon të gjitha transaksionet me pasuritë e shpronësuara, deri në momentin, kur do të realizohen procesi i hedhjes së gjurmës së projektit mbi hartat kadastrale dhe regjistrimi i aktit të kalimit të pronësisë në favor të Autoritetit Rrugor Shqiptar për pasuritë e shpronësuara.

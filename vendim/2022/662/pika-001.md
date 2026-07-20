@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “Rishikimi i projektit për segmentin rrugor të vazhdimit të ’Unazës së madhe’ Tiranë nga ’Sheshi Shqiponja’-’Bulevardi i Ri’ dhe ’Rikualifikimi i ’Unazës Lindore’ për lotet 4, 5, 6”.
