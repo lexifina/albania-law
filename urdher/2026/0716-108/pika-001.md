@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Agjencisë së Zhvillimit të Territorit për nisjen dhe zhvillimin e procedurave të prokurimit për blerjet me vlerë të vogël apo direkte, si dhe nënshkrimin e kontratave për ushtrimin e aktiviteteve të AZHT-së te drejtori i Drejtorisë së Monitorimit në Territor, z. Saimir Lita.
