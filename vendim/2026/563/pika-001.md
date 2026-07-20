@@ -1,0 +1,1 @@
+1. Autorizimin e ministrit të Drejtësisë të negociojë drejtpërdrejt me subjektin ndërkombëtar G37 Chambers, për ofrimin e shërbimit të konsulencës, për ndjekjen në vazhdimësi të zbatimit të rekomandimeve prioritare në luftën kundër kriminalitetit, për vitin 2026.
