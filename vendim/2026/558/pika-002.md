@@ -1,0 +1,1 @@
+2. Efekti financiar, sipas pikës 1, të këtij vendimi, do të përballohet nga shpenzimet e fondit të rindërtimit, miratuar për vitin 2026, dhe u transferohet bashkive Kurbin e Shijak në formën e transfertës së pakushtëzuar.
