@@ -1,0 +1,1 @@
+2. Shpenzimet për hapjen e kësaj ambasade përballohen nga buxheti i vitit 2026 i miratuar në programin “Mbështetje diplomatike jashtë shtetit” dhe zëri “Shpenzime korrente” për Ministrinë për Evropën dhe Punët e Jashtme.
