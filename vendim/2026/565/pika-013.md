@@ -1,0 +1,1 @@
+13. Pas marrjes së njoftimit dhe dokumentimit paraprak mbi potencialin e interesit kulturor të pasurisë së zbuluar në det, IKTK-ja, në bashkëpunim me Institutin e Arkeologjisë të Akademisë së Shkencave të Shqipërisë, vijon me procedurën e verifikimit të interesit kulturor, në përputhje me përcaktimet e legjislacionit në fuqi për trashëgiminë kulturore.

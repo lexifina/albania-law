@@ -1,0 +1,1 @@
+10. Pas marrjes së njoftimit, IKTK-ja, në bashkëpunim me DRTK-në kompetente, institucionet përgjegjëse për sigurinë në det dhe me Institutin e Arkeologjisë të Akademisë së Shkencave të Shqipërisë, kryen verifikimin paraprak të pasurisë së zbuluar. Verifikimi paraprak shoqërohet me dokumentimin teknik, fotografik e gjeohapësinor të pasurisë.

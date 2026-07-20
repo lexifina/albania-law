@@ -1,0 +1,1 @@
+15. Pasuria e deklaruar regjistrohet në Regjistrin Kombëtar të Pasurive Kulturore në administrim të Institutit Kombëtar të Regjistrimit të Trashëgimisë Kulturore dhe në Regjistrin Publik të Vlerave Kulturore Materiale në administrim të Institutit Kombëtar të Trashëgimisë Kulturore.

@@ -1,0 +1,1 @@
+5. Çdo person fizik ose juridik, që zbulon, rastësisht ose gjatë veprimtarive të autorizuara, pasuri kulturore në det, ka detyrimin të njoftojë brenda 48 (dyzet e tetë) orëve autoritetin portual përkatës. Ky i fundit njofton Institutin Kombëtar të Trashëgimisë Kulturore (IKTK) dhe Drejtorinë Rajonale të Trashëgimisë Kulturore (DRTK) përgjegjëse.

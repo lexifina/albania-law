@@ -1,0 +1,1 @@
+9. Në rastet kur pasuritë kulturore nënujore zbulohen nga institucione apo subjekte të autorizuara për veprimtari arkeologjike nënujore, raportimi kryhet pranë institucioneve të specializuara dhe organeve vendimmarrëse përgjegjëse për trashëgiminë kulturore, në përputhje me legjislacionin në fuqi për trashëgiminë kulturore.

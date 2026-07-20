@@ -1,0 +1,1 @@
+1. Ky vendim ka për objekt përcaktimin e procedurës së shpalljes publike të pasurive kulturore, që zbulohen në hapësirën detare nën juridiksionin e Republikës së Shqipërisë, në përputhje me legjislacionin në fuqi për trashëgiminë kulturore dhe detyrimet ndërkombëtare të Republikës së Shqipërisë.
