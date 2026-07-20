@@ -1,1 +1,0 @@
-8. Shkallët e riparimit të anijeve të peshkimit, të klasifikuara si veprimtari për konstruksion, shërbim mirëmbajtjeje të mjeteve lundruese të peshkimit, u transferohen subjekteve private nëpërmjet procedurës së konkurrimit publik, zhvilluar sipas përcaktimeve të kreut II, të këtij vendimi.

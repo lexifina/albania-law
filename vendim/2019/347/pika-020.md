@@ -1,1 +1,0 @@
-20. Organizatat e peshkimit janë të detyruara të depozitojnë në çdo kohë çdo informacion të kërkuar, si dhe të krijojnë akses për inspektimin nga përfaqësuesit e ministrisë së infrastrukturës së dhënë në menaxhim, të dokumentacionit teknik, financiar.

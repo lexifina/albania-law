@@ -1,1 +1,0 @@
-23. Në rastet kur, pranë ministrisë përgjegjëse për peshkimin, paraqitet njëkohësisht kërkesë nga njësia e vetëqeverisjes vendore dhe organizatat e peshkimit, vendimi për transferimin e menaxhimit të infrastrukturës së peshkimit do të merret pas shqyrtimit të detajuar të planit të menaxhimit.

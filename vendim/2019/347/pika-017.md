@@ -1,1 +1,0 @@
-17. Organizata e Peshkimit u jep me qira anëtarëve të saj dhomat frigoriferike dhe ambientet e tjera në shërbim të aktivitetit të peshkimit. Tarifat e qirasë dhe të shërbimeve përcaktohen me udhëzimin e përbashkët të ministrit përgjegjës për peshkimin dhe të ministrit përgjegjës për financat.

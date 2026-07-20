@@ -1,1 +1,0 @@
-18. Përjashtohen nga qiradhënia ambientet për zyra të organeve shtetërore dhe agjencive ligjzbatuese, që lidhen me aktivitetin e peshkimit, si: Policia Kufitare dhe Migracionit, Inspektorati i Peshkimit, Shërbimi Veterinar, Dogana.

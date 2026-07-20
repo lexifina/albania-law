@@ -1,1 +1,0 @@
-2. Procedura e transferimit të infrastrukturës së peshkimit dhe infrastrukturës së lidhur me peshkimin tek organizata e peshkimit dhe subjektet private zhvillohet on-line nëpërmjet konkurrimit publik, sipas parashikimeve të këtij vendimi.
