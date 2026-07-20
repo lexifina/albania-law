@@ -1,0 +1,1 @@
+1. Hapjen e institucionit arsimor privat parauniversitar, të nivelit të arsimit të mesëm të ulët, Medreseja “H. Mustafa Varoshi”, me kohë të plotë, në të cilin zhvillohen edhe lëndë fetare dhe ku mësimi zhvillohet në gjuhën shqipe. Institucioni arsimor privat parauniversitar ushtron veprimtarinë arsimore në adresën: Lagjja nr. 13, Rruga e Shqipeve, Durrës.
