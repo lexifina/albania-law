@@ -1,0 +1,1 @@
+3. Vlerat e përcaktuara si detyrim, në pikën 1, të këtij vendimi, të depozitohen në një nga bankat e nivelit të dytë, në emër të kërkuesit, në vlerën që shteti shqiptar detyrohet, sipas vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 5.5.2026, për çështjen “Metalla kundër Shqipërisë”, për kërkesën nr. 19646/20.
