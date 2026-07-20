@@ -1,0 +1,3 @@
+1. Përdorimin e fondit të rindërtimit, në masën 418 097 430 (katërqind e tetëmbëdhjetë milionë e nëntëdhjetë e shtatë mijë e katërqind e tridhjetë) lekë pa TVSH, për financimin e rindërtimit të banesave individuale për ata individë, të cilët përfitojnë nga grantet e rindërtimit, banesat e të cilëve janë klasifikuar si objekte, që duhen rindërtuar nga e para, në bazë të aktekspertizave të thelluara, në bashkitë Kurbin dhe Shijak, sipas detajimit të mëposhtëm:
+a) Bashkisë Kurbin i transferohet fondi në masën 407 196 804 (katërqind e shtatë milionë e njëqind e nëntëdhjetë e gjashtë mijë e tetëqind e katër) lekë pa TVSH;
+b) Bashkisë Shijak i transferohet fondi në masën 10 900 626 (dhjetë milionë e nëntëqind mijë e gjashtëqind e njëzet e gjashtë) lekë pa TVSH.
