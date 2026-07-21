@@ -1,0 +1,1 @@
+2. Vendimi nr. 759, datë 12.11.2014, i Këshillit të Ministrave, “Për licencimin profesional të individëve dhe subjekteve juridike, që do të ushtrojnë veprimtari në fushën e studimit e të projektimit në ndërtim dhe mbikëqyrjes e kolaudimit të punimeve të zbatimit në ndërtim”, të ndryshuar, shfuqizohet.

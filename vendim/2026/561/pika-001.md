@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për kriteret dhe procedurat e dhënies së licencave profesionale për individë dhe persona juridikë në fushën e studimit e të projektimit në ndërtim dhe të mbikëqyrjes e kolaudimit të punimeve të zbatimit në ndërtim”, sipas tekstit që i bashkëlidhet këtij vendimi.
