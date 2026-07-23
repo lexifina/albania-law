@@ -1,0 +1,4 @@
+# Neni 22
+Detyrimi për publikim i emetuesit
+1. Nëse një emetues i aksioneve të pranuara për tregtim në një treg të rregulluar dhe për të cilin Republika e Shqipërisë është shteti i origjinës, blen ose shet aksionet e veta, vetë ose nëpërmjet një personi, që vepron në emër të tij, por për llogari të emetuesit, emetuesi bën publik përqindjen e aksioneve të tij sa më shpejt të jetë e mundur, por jo më vonë se 4 ditë tregtimi pas blerjes ose shitjes, kur kjo përqindje arrin, tejkalon ose bie nën kufirin prej 5% ose 10% të të drejtave të votës. Përqindja llogaritet në bazë të numrit total të aksioneve me të cilat lidhen të drejtat e votës.
+2. Autoriteti miraton rregullore për përcaktimin e rregullave të detajuara në zbatim të përcaktimeve në këtë nen, duke marrë në konsideratë aktet e deleguara të Komisionit Evropian në fushën përkatëse, si dhe duke pasur parasysh zhvillimet teknike në tregjet financiare.

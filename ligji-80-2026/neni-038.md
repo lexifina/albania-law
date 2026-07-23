@@ -1,0 +1,4 @@
+# Neni 38
+Masat paraprake
+1. Kur Autoriteti, në cilësinë e autoritetit kompetent të shtetit pritës, zbulon se një emetues ose mbajtësi i aksioneve apo i instrumenteve të tjera financiare të tij, ose një person apo entitet, i përmendur në nenin 13 të këtij ligji, ka kryer parregullsi ose ka shkelur detyrimet, ai i referon gjetjet tek autoriteti kompetent përkatës i shtetit anëtar të origjinës dhe tek ESMA.
+2. Nëse, pavarësisht masave të marra nga autoriteti kompetent i vendit anëtar të origjinës ose për shkak se këto masa rezultojnë të pamjaftueshme, emetuesi ose mbajtësi i titujve vijon të shkelë dispozitat ligjore apo rregullatore përkatëse, Autoriteti, në cilësinë e autoritetit kompetent të shtetit pritës, pasi informon autoritetin kompetent të shtetit të origjinës, merr të gjitha masat e duhura për mbrojtjen e investitorëve dhe informon Komisionin Evropian dhe ESMA-n sa më shpejt të jetë e mundur.
