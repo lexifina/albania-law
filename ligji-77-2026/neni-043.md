@@ -1,0 +1,5 @@
+# Neni 43
+Funksionet e organit të administrimit dhe emërimi i anëtarëve
+1. Organi i administrimit administron SHEB-in dhe e përfaqëson atë në marrëdhëniet e në procedurat ligjore me palët e treta.
+2. Numri i anëtarëve të organit të administrimit ose rregullat për emërimin e tyre përcaktohen në statutin e SHEB-it. Jo më shumë se një e katërta e vendeve të lira në organin e administrimit mund të zihen nga anëtarë që nuk janë përdorues. Megjithatë, organi i administrimit duhet të përbëhet nga të paktën 3 anëtarë punëmarrës të SHEB-it, pjesëmarrja e të cilëve rregullohet sipas përcaktimeve të këtij ligji.
+3. Anëtarët e organit të administrimit dhe, kur parashikohet nga statuti, anëtarët e tyre zëvendësues emërohen nga mbledhja e asamblesë së përgjithshme. Megjithatë, anëtarët e parë të organit të administrimit mund të emërohen nga statuti. Kjo zbatohet pa cenuar asnjë parashikim të pjesëmarrjes së punëmarrësve të përcaktuar, në përputhje me ligjin e zbatueshëm për pjesëmarrjen e punëmarrësve në një SHEB.

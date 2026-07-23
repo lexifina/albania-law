@@ -1,0 +1,4 @@
+# Neni 64
+Mbledhjet e sektorit ose të seksionit
+1. Kur një SHEB ushtron veprimtari të ndryshme ose veprimtari në më shumë se një njësi territoriale, ose ka disa njësi të veçanta organizative, ose më shumë se 500 anëtarë, statuti mund të parashikojë krijimin e mbledhjeve sektoriale ose të seksioneve. Statuti përcakton ndarjen sipas sektorëve apo të seksioneve dhe numrin e të deleguarve për secilin prej tyre.
+2. Mbledhjet sektoriale apo të seksioneve zgjedhin të deleguarit e tyre për një mandat maksimal prej 4 vjetësh, me përjashtim të rasteve kur parashikohet shkarkimi i parakohshëm. Të deleguarit e zgjedhur përbëjnë asamblenë e përgjithshme të SHEB-it dhe përfaqësojnë në të sektorin apo seksionin përkatës, të cilit i raportojnë për rezultatet e mbledhjes së përgjithshme. Dispozitat e seksionit 4, të kreut III të këtij ligji zbatohen edhe për funksionimin e mbledhjeve sektoriale dhe të seksioneve.

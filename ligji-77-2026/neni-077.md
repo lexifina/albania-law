@@ -1,0 +1,4 @@
+# Neni 77
+Monedha e kapitalit dhe e pasqyrave financiare
+1. Një SHEB me seli të regjistruar në territorin e Republikës së Shqipërisë shpreh kapitalin e saj në lekë. Statuti mund të parashikojë, gjithashtu, që kapitali të shprehet edhe në euro, kur kjo është e nevojshme për qëllime të raportimit financiar ose për bashkëpunim ndërkufitar. Në këtë rast, kursi i këmbimit i përdorur për konvertimin nga “lekë” në “euro” është ai i ditës së fundit të muajit paraardhës të datës së regjistrimit të SHEB-it, sipas të dhënave zyrtare të Bankës së Shqipërisë.
+2. SHEB-i përgatit e publikon pasqyrat e saj financiare vjetore dhe, kur është e aplikueshme, pasqyrat e konsoliduara në lekë, siç kërkohet për shoqëritë aksionare, në përputhje me legjislacionin në fuqi për kontabilitetin dhe pasqyrat financiare.

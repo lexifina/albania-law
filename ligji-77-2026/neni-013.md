@@ -1,0 +1,7 @@
+# Neni 13
+Kërkesat e regjistrimit e të deklarimit
+1. Çdo SHEB regjistrohet në Qendrën Kombëtare të Biznesit, në përputhje me procedurat e parashikuara në legjislacionin në fuqi për regjistrimin e bizneseve.
+2. Një SHEB nuk mund të regjistrohet nëse nuk është arritur një marrëveshje mbi parashikimet për përfshirjen e punëmarrësve, në përputhje me rregullat e pjesëmarrjes së punëmarrësve, sipas pikës 10, të nenit 3 të këtij ligji.
+3. Për qëllime regjistrimi të një SHEB-i të themeluar nëpërmjet bashkimit, në rastet kur parashikohet pjesëmarrja e punëmarrësve në drejtim apo mbikëqyrje, duhet të jetë lidhur më parë një marrëveshje e posaçme mbi përfshirjen e punëmarrësve në përputhje me ligjin e zbatueshëm. Në mungesë të një marrëveshjeje të tillë, asnjëra nga shoqëritë pjesëmarrëse në bashkim nuk duhet të ketë qenë subjekt i rregullave për pjesëmarrjen e punëmarrësve në organet drejtuese apo mbikëqyrëse para regjistrimit të SHEB-it.
+4. Statuti i SHEB-it nuk mund të jetë në kundërshtim me parashikimet për përfshirjen e punëmarrësve, të përcaktuara sipas marrëveshjes përkatëse. Në rast se këto parashikime ndryshojnë dhe bien në kundërshtim me dispozitat e statutit, ky i fundit duhet të ndryshohet për të reflektuar përfshirjen e punëmarrësve.
+5. Për qëllime të publikimit të të dhënave dhe dokumenteve, SHEB-i u nënshtrohet rregullave të parashikuara për shoqëritë aksionare në legjislacionin në fuqi për tregtarët dhe shoqëritë tregtare, për aq sa nuk parashikohet ndryshe në këtë ligj.
