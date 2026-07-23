@@ -1,0 +1,5 @@
+# Neni 20
+Përfaqësimi i grupimit dhe kompetencat e administratorëve
+1. Përfaqësimin e grupimit me palë të treta e kanë vetëm administratori ose administratorët kur janë dy ose më shumë.
+2. Grupimi mbetet i detyruar nga këto veprime edhe nëse ato nuk janë në përputhje me objektivat e tij, përveçse në rastet kur grupimi provon se pala e tretë ka pasur dijeni për mospërputhjen ose, në bazë të rrethanave të qarta, nuk mund të mos kishte pasur dijeni. Publikimi i të dhënave, të referuara në shkronjën “c” të nenit 5 të këtij ligji, nuk do të jetë në vetvete provë për këtë. Asnjë kufizim në kompetencat e administratorëve, pavarësisht nëse buron nga kontrata e themelimit të grupimit apo nga një vendim i anëtarëve, nuk mund t’u drejtohet palëve të treta, edhe nëse është publikuar.
+3. Kontrata për themelimin e grupimit mund të parashikojë që grupimi të përfaqësohet vetëm nga dy ose më shumë administratorë që veprojnë bashkërisht. Një klauzolë e tillë mund t’u drejtohet palëve të treta vetëm në përputhje me kushtet e përcaktuara në pikën 1, të nenit 9 të këtij ligji dhe vetëm nëse është publikuar në përputhje me nenin 8 të këtij ligji.

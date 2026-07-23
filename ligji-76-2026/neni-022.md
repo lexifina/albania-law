@@ -1,0 +1,4 @@
+# Neni 22
+Transferimi i pjesëmarrjes së anëtarit dhe përdorimi i saj si garanci
+1. Çdo anëtar i grupimit mund të transferojë pjesëmarrjen e tij në grupim, në tërësi ose për një pjesë të saj (në kuptimin e një përqindjeje të të drejtave dhe detyrimeve që burojnë nga cilësia e anëtarit), te një anëtar tjetër ose një palë e tretë, me kusht që ky transferim të miratohet unanimisht nga të gjithë anëtarët e tjerë.
+2. Anëtari i grupimit mund të përdorë pjesëmarrjen e tij si garanci vetëm nëse të gjithë anëtarët e tjerë japin miratim unanim, përveçse kur kontrata e themelimit parashikon ndryshe. Marrësi i garancisë nuk mund të fitojë statusin e anëtarit të grupimit vetëm në bazë të kësaj garancie, pa kaluar procedurën e pranimit, sipas kushteve të përcaktuara në këtë ligj dhe në kontratën e grupimit.

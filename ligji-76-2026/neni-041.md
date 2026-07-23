@@ -1,0 +1,5 @@
+# Neni 41
+Aktet nënligjore dhe afatet për zbatimin e ligjit
+1. Procedurat e hollësishme për deklarimin, trajtimin dhe shkëmbimin e të dhënave të detyrueshme, sipas legjislacionit tatimor të sigurimeve shoqërore e shëndetësore, të punës dhe atij të statistikave, si dhe miratimi i procedurës së lëshimit të numrit unik të identifikimit të grupimeve, përcaktohen me vendim të Këshillit të Ministrave, me bashkëpropozim të ministrit përgjegjës për ekonominë dhe financën, brenda 6 muajve nga hyrja në fuqi e këtij ligji.
+2. Brenda 6 muajve nga hyrja në fuqi e këtij ligji ministri përgjegjës për ekonominë, me propozimin e titullarit të QKB-së, miraton udhëzimin për formën dhe përmbajtjen e dokumenteve që lëshohen nga QKB-ja dhe formatet e kthimit të përgjigjes për çdo veprim të kryer, sipas këtij ligji.
+3. Ngarkohet ministri përgjegjës për ekonominë të miratojë procedurat e hollësishme për hedhjen dhe formën e hedhjes, si dhe shfaqjen në regjistër të grupimeve, sipas përcaktimeve në ligjin për regjistrimin e biznesit dhe të nenit 8 të këtij ligji.

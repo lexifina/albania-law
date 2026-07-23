@@ -1,0 +1,5 @@
+# Neni 9
+Certifikimi i regjistrimit dhe veprimet paraprake
+1. Dokumentet dhe të dhënat që duhet të publikohen në përputhje me këtë ligj mund të përdoren nga grupimi kundrejt palëve të treta, sipas kushteve të përcaktuara nga ligji kombëtar i zbatueshëm. Me regjistrimin e grupimit, QKB-ja lëshon ekstraktin tregtar që vërteton se GEIE-ja është regjistruar.
+2. Ekstrakti tregtar përbën provë përfundimtare se kërkesat e këtij ligji lidhur me regjistrimin, si dhe çështjet paraprake dhe të ndërlidhura me të, janë përmbushur, dhe se grupimi është një organizim i autorizuar për t’u regjistruar dhe është regjistruar në përputhje me këtë ligj.
+3. Nëse aktivitetet janë kryer në emër të grupimit para regjistrimit të tij, në përputhje me nenin 6 të këtij ligji, dhe nëse grupimi nuk merr përsipër pas regjistrimit të tij detyrimet që rrjedhin nga aktivitete të tilla, personat fizikë, shoqëritë, firmat ose çdo person fizik ose juridik, që kanë kryer këto aktivitete, do të mbajnë përgjegjësi të pakufizuar solidare për to.
