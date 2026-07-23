@@ -1,10 +1,12 @@
 LIGJ
 
-Nr.9251, datë 8.7.2004
+Nr. 9251, datë 8.7.2004
 
 KODI DETAR I REPUBLIKËS SË SHQIPËRISË
 
-(ndryshuar me ligjet nr.10 483, datë 17.11.2011, nr. 11/2021, datë 1.2.2021)
+(Ndryshuar me ligjet; nr. 10 483, datë 17.11.2011; nr. 11/2021, datë 1.2.2021; nr. 84/2026, datë 23.7.2026)
+
+(i përditësuar)
 
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -74,7 +76,9 @@ E drejta detare dhe e drejta ndërkombëtare
 
 Neni 6
 
-Termat
+Përkufizime
+
+(Ndryshuar titulli i nenit, shtuar pikat 5-15 me ligjin nr. 84/2026, datë 23.7.2026)
 
 1. Kuptimi i termave  të  veprimtarisë në fushën e detarisë përcaktohet shprehimisht në këtë Kod ose del nga përmbajtja e dispozitës përkatëse, në të kundërtën i përmbahet kuptimit të përgjithshëm të fjalëve në gjuhën shqipe. 
 
@@ -83,6 +87,28 @@ Termat
 3. Termat e së drejtës ndërkombëtare detare kanë kuptimin që jepen prej saj dhe shënohen në kllapa pas termit në shqip, përveç kur nuk ka të tillë. 
 
 4. Kuptimi i termave detarë, sipas këtij Kodi, është i detyrueshëm për fushat e tjera të së drejtës. 
+
+5. “Administrata Detare” është autoriteti kompetent shtetëror i Republikës së Shqipërisë, përgjegjës për zbatimin, monitorimin dhe sigurimin e përputhshmërisë me instrumentet detare ndërkombëtare të miratuara nga Organizata Ndërkombëtare Detare, përfshirë Kodin për Zbatimin e Instrumenteve të IMO-s (III Code), në ushtrimin e funksioneve të shtetit të flamurit, shtetit portual dhe shtetit bregdetar.
+
+6. “Autoritet Portual” është autoriteti publik i krijuar me ligj për administrimin, zhvillimin dhe funksionimin e infrastrukturës portuale.
+
+7. “Delegim i funksioneve teknike” është transferimi i kompetencave të caktuara teknike nga Administrata Detare tek një organizatë e njohur, pa cenuar përgjegjësinë përfundimtare të shtetit.
+
+8. “Dritarja e Vetme Kombëtare Detare” është platforma teknike e krijuar dhe e përdorur në nivel kombëtar për marrjen, shkëmbimin dhe përcjelljen elektronike të informacionit për të përmbushur detyrimet e raportimit, e cila përfshin administrimin e të drejtave të aksesit që përcaktohen në mënyrë të përbashkët, një modul ndërfaqeje raportimi dhe një ndërfaqe grafike të përdoruesit të harmonizuar për komunikimin me deklaruesit, si dhe lidhjet me sistemet dhe bazat e të dhënave relevante të autoriteteve në nivel kombëtar dhe në nivel të Bashkimit Evropian, që mundëson që deklaruesve t’u komunikohen mesazhe ose konfirmime që mbulojnë gamën më të gjerë të vendimeve të marra nga të gjitha autoritetet pjesëmarrëse relevante dhe e cila mund të lejojë, gjithashtu, aty ku është e aplikueshme, lidhjen me mjete të tjera raportuese.
+
+9. “Infrastrukturë detare dhe nënujore” është tërësia e pasurive, objekteve, instalimeve, strukturave, pajisjeve, kabllove, tubacioneve, sistemeve dhe rrjeteve të vendosura në, mbi ose nën sipërfaqen e detit apo në shtratin e tij, që shërbejnë ose mbështesin lundrimin, veprimtarinë portuale, prodhimin, transmetimin, depozitimin dhe shpërndarjen e energjisë, komunikimet elektronike, furnizimin, monitorimin, kërkimin shkencor, mbrojtjen e mjedisit, sigurinë, mbrojtjen kombëtare ose ushtrimin e veprimtarive të tjera në hapësirën detare, pavarësisht regjimit të pronësisë ose mënyrës së administrimit të tyre.
+
+10. “Infrastrukturë portuale” është tërësia e pasurive, objekteve, sistemeve dhe rrjeteve tokësore dhe detare, që shërbejnë për administrimin, funksionimin, sigurinë, mbrojtjen, zhvillimin dhe ofrimin e shërbimeve portuale, duke përfshirë, por pa u kufizuar në: basenet portuale, kanalet hyrëse, dallgëthyesit, kalatat, terminalet, pontilet, vendankorimet, rrugët, hekurudhat, magazinat dhe objektet e depozitimit, zonat logjistike dhe intermodale, rrjetet dhe objektet energjetike, infrastrukturën e furnizimit me energji elektrike, ujë, karburante dhe lëndë të tjera energjetike, rrjetet e telekomunikacionit dhe komunikimeve elektronike, sistemet e teknologjisë së informacionit, monitorimit dhe automatizimit, si dhe çdo pasuri, objekt, sistem ose rrjet tjetër të lidhur funksionalisht me administrimin, funksionimin ose zhvillimin e portit.
+
+11. “Organizatë e njohur” janë persona juridikë të autorizuar nga Administrata Detare për të kryer në emër të saj funksione të klasifikimit, kontrollit, inspektimit dhe certifikimit të anijeve.
+
+12. “Organizata Ndërkombëtare Detare” (IMO) është agjenci e specializuar e Kombeve të Bashkuara, përgjegjëse për zhvillimin dhe miratimin e standardeve ndërkombëtare për sigurinë detare, mbrojtjen e mjedisit detar dhe lehtësimin e transportit detar ndërkombëtar.
+
+13. “Sistemi i monitorimit dhe informacionit të trafikut të anijeve (VTMIS)” është sistemi i informacionit dhe monitorimit të trafikut detar të anijeve.
+
+14. “SOLAS” është Konventa Ndërkombëtare për Shpëtimin e Jetës në Det e vitit 1974, me ndryshimet përkatëse, në të cilën Republika e Shqipërisë ka aderuar me ligjin nr. 9213, datë 1.4.2004.
+
+15. “STCW” është Konventa Ndërkombëtare për Standardet e Trajnimit, Certifikimit dhe Vrojtimit për Detarët, 1978 (STCW 78/95), ratifikuar nga Republika e Shqipërisë me ligjin nr. 8596, datë 20.1.2000. 
 
 Neni 7
 
@@ -122,7 +148,7 @@ Neni 9
 
 Uniteti i drejtimit të veprimtarive detare
 
-(ndryshuar pika 1 me ligjin nr.10 483, datë 17.11.2011)
+(Ndryshuar pika 1 me ligjin nr. 10 483, datë 17.11.2011)
 
 1. Veprimtaritë detare, të përcaktuara në shkronjën "a" të nenit 8 të këtij ligji, përfshihen në kategorinë VII.4 të ligjit për licencat, ndërsa veprimtaritë e përcaktuara në shkronjat “b”, “ë”, “f” dhe “g” përfshihen në kategorinë VII.5 të ligjit për licencat. Këto veprimtari licencohen sipas dispozitave në vijim, të ligjit nr.10 081, datë 23.2.2009 “Për licencat, autorizimet dhe lejet në Republikën e Shqipërisë”.
 
@@ -310,7 +336,7 @@ Neni 22
 
 Eskluzivitete të flamurit
 
-(ndryshuar pikat 1 dhe 2 me ligjin nr.10 483, datë 17.11.2011)
+(Ndryshuar pikat 1 dhe 2 me ligjin nr. 10 483, datë 17.11.2011)
 
 11. Mjetet lundruese me flamur shqiptar, si edhe ato me flamur të një shteti të Bashkimit Europian mund të kenë pikënisje dhe destinacion të brendshëm në çdo port shqiptar e të huaj, kur plotësojnë kërkesat ligjore.
 
@@ -412,27 +438,51 @@ Neni 30
 
 Policia e sigurisë portuale
 
+(Shtuar pikat 5, 6, 7 me ligjin nr. 84/2026, datë 23.7.2026)
+
 1. Policia e sigurisë portuale organizohet dhe funksionon mbi bazën e ligjit “Për sigurinë në anije e në porte”.
 
 2. Veprimtaria e policisë së sigurisë portuale rregullohet me aktet ligjore të Policisë së Shtetit, si për organizimin dhe rregullat e  brendshme, ashtu edhe për kriteret e ndërhyrjes për mbrojtjen dhe rivendosjen e rendit.
 
 3. Policia e sigurisë portuale ka atributetet e policisë gjyqësore. 
 
-4. Drejtori i përgjithshëm i policisë së sigurisë portuale emërohet nga Ministri i Transportit dhe  i Telekomunikacionit.
+4. Drejtori i përgjithshëm i policisë së sigurisë portuale emërohet nga ministri përgjegjës për transportin.
+
+5. Mbikëqyrja e sigurisë së objekteve portuale ushtrohet nga autoriteti kompetent shtetëror, në përputhje me Kodin Ndërkombëtar për Sigurinë e Anijeve dhe Objekteve Portuale (ISPS Code) dhe legjislacionin shqiptar në fuqi për sigurinë në anije dhe porte.
+
+6. Autoriteti kompetent kryen miratimin e vlerësimeve dhe planeve të sigurisë së objekteve portuale, auditimet, inspektimet, verifikimet e përputhshmërisë dhe ushtron kompetencat e tjera të parashikuara nga legjislacioni në fuqi.
+
+7. Autoriteti Portual dhe operatorët e objekteve portuale nën mbikëqyrjen e autoritetit kompetent shtetëror marrin të gjitha masat e nevojshme për zbatimin e kërkesave të sigurisë portuale.
 
 Neni 31
 
 Autoriteti  Portual
 
-1. Autoriteti Portual realizon drejtimin administrativ  të veprimtarisë në fushat e detarisë dhe të zonës detare përkatëse, si dhe bashkërendon marrëdhëniet me organet shtetërore. 
+(Ndryshuar me ligjin nr. 84/2026, datë 23.7.2026)
 
-2. Autoriteti Portual caktohet nga subjekti juridik, publik ose privat, që realizon i vetëm veprimtarinë në fushën e detarisë. 
+1. Autoriteti Portual siguron administrimin, zhvillimin, mirëmbajtjen, modernizimin dhe funksionimin e një ose më shumë porteve dhe infrastrukturës portuale përkatëse. Në ushtrimin e kompetencave të tij, Autoriteti Portual realizon drejtimin administrativ të veprimtarisë në fushat e detarisë dhe të zonave detare përkatëse, si dhe bashkërendon marrëdhëniet me Administratën Detare, Rojën Bregdetare, organet e tjera shtetërore, operatorët portualë dhe subjektet e tjera që ushtrojnë veprimtari në port.
 
-3. Veprimtaria e Autoritetit Portual rregullohet me ligj të veçantë.
+2. Autoriteti Portual në përputhje me kompetencat e tij:
+
+a) administron dhe zhvillon portet, infrastrukturën dhe pasuritë portuale që i janë ngarkuar në administrim;
+
+b) organizon, koordinon dhe rregullon funksionimin e shërbimeve portuale, përdorimin efikas të infrastrukturës portuale dhe veprimtarinë e operatorëve portualë;
+
+c) planifikon përdorimin dhe zhvillimin e hapësirës portuale, të infrastrukturës portuale, zonave logjistike dhe intermodale, duke promovuar investimet, inovacionin dhe integrimin e tyre me rrjetet kombëtare, rajonale dhe evropiane të transportit;
+
+ç) aplikon regjim tarifor të shërbimeve dhe infrastrukturës portuale, në përputhje me këtë Kod dhe legjislacionin në fuqi;
+
+d) garanton akses në infrastrukturë dhe shërbime portuale në administrim të tij për ushtrimin e veprimtarisë nga Administrata Detare, Roja Bregdetare dhe autoritetet e tjera kompetente për përmbushjen e detyrimeve të Republikës së Shqipërisë si shtet i flamurit, shtet portual dhe shtet bregdetar në përputhje me këtë Kod, legjislacionin në fuqi dhe marrëveshjet ndërkombëtare ku Republika e Shqipërisë është palë;
+
+dh) siguron ndërveprueshmërinë dhe shkëmbimin e informacionit në administrim të tij nëpërmjet sistemeve kombëtare dhe ndërkombëtare të informacionit detar, në përputhje me këtë Kod dhe legjislacionin në fuqi.
+
+3. Autoriteti Portual krijohet dhe organizohet me ligj të posaçëm, i cili përcakton natyrën juridike, organizimin, kompetencat, fushën territoriale dhe funksionale të administrimit, si dhe mënyrën e funksionimit të tij.
 
 Neni 32
 
 Drejtimi qendror shtetëror
+
+(Shfuqizuar nëndarja “v” e shkronjës “a” të pikës 2 me ligjin nr. 84/2026, datë 23.7.2026)
 
 1. Veprimtaritë që kryhen në hapësirën detare dhe mjedisin detar të Republikës së Shqipërisë drejtohen dhe administrohen nga Këshilli i Ministrave me anë të ministrive përkatëse për çdo lloj veprimtarie. Këshilli i Ministrave ekskluzivisht realizon të drejtat e pronësisë shtetërore në hapësirën detare.
 
@@ -448,7 +498,7 @@ iii) Regjistrin e Mjeteve Lundruese dhe klasifikimin e tyre;
 
 iv) plotësimin e kushteve për sigurinë e jetës së njerëzve dhe mjeteve lundruese;
 
-v) së bashku me Rojen Bregdetare hetimin e incidenteve detare.
+v) shfuqizuar.
 
 b) Ministria e Financave:
 
@@ -498,19 +548,81 @@ i) sportet e ujit dhe të nënujit që zhvillohen në hapësirën detare.
 
 3. Dikasteret qendrore, në plotësimin e funksioneve të mësipërme, krijojnë struktura të përshtatshme dhe përgatisin aktet nënligjore në përputhje me këtë Kod.
 
+Neni 32/1
+
+Sistemi i Monitorimit dhe Informacionit të Trafikut të anijeve (VTMIS)
+
+(Shtuar me ligjin nr. 84/2026, datë 23.7.2026)
+
+1. Sistemi i Monitorimit dhe Informacionit të Trafikut të Anijeve (VTMIS) ka për qëllim ngritjen dhe funksionimin e një sistemi monitorimi dhe informacioni për trafikun e anijeve, me synim:
+
+a) rritjen e sigurisë së navigimit, mbrojtjen e jetës në det dhe efikasitetin e trafikut detar;
+
+b) përmirësimin e reagimit të autoriteteve ndaj incidenteve, aksidenteve apo situatave potencialisht të rrezikshme në det, përfshirë operacionet e kërkim-shpëtimit;
+
+c) parandalimin, zbulimin dhe reagimin më efektiv ndaj ndotjes nga anijet;
+
+ç) sigurimin e shkëmbimit të informacionit ndërmjet autoriteteve kompetente;
+
+d) integrimin me sistemet përkatëse evropiane dhe ndërkombëtare.
+
+2. Rregullat për ngritjen, organizimin, funksionimin, administrimin dhe operimin e VTMIS-it, organi përgjegjës për këtë sistem, kompetencat e autoriteteve përgjegjëse, si dhe afatet për vënien në funksion të tij përcaktohen me vendim të Këshillit të Ministrave.
+
+Neni 32/2
+
+Dritarja e Vetme Kombëtare Detare (NMSWe)
+
+(Shtuar me ligjin nr. 84/2026, datë 23.7.2026)
+
+1. Dritarja e Vetme Kombëtare Detare (NMSWe) përcakton funksionimin e një sistemi të unifikuar për pranimin, përpunimin dhe shpërndarjen e informacionit, në lidhje me detyrimet e raportimit për anijet që mbërrijnë, qëndrojnë dhe nisen nga portet detare të Republikës së Shqipërisë, nëpërmjet një ndërfaqeje të harmonizuar, teknologjikisht neutrale dhe të ndërveprueshme me mjedisin e Dritares së Vetme Detare Evropiane (EMSWe), me qëllim lehtësimin e transmetimit elektronik të këtij informacioni.
+
+2. Ky sistem zbatohet për detyrimet e raportimit në mbërritje, qëndrim dhe nisje nga portet detare të Republikës së Shqipërisë, të anijeve që plotësojnë kushtet ligjore të përcaktuara në këtë rregullore.
+
+3. Rregullat për ngritjen, organizimin, funksionimin, administrimin dhe ndërveprueshmërinë e Dritares së Vetme Kombëtare Detare, organi përgjegjës për këtë platformë, mënyra e shkëmbimit të të dhënave, kompetencat e autoriteteve përgjegjëse, si dhe afatet për vënien në funksion të saj përcaktohen me vendim të Këshillit të Ministrave.
+
+Neni 32/3
+
+Administrata Detare
+
+(Shtuar me ligjin nr. 84/2026, datë 23.7.2026)
+
+1. Administrata Detare i ushtron funksionet e saj në përputhje me parimet e ligjshmërisë, profesionalizmit, transparencës dhe përgjegjshmërisë, duke garantuar një nivel të lartë sigurie detare dhe mbrojtjeje të mjedisit detar.
+
+2. Administrata Detare krijohet me ligj dhe garanton:
+
+a) zbatimin efektiv të detyrimeve ndërkombëtare, duke përfshirë konventat, kodet dhe rezolutat e IMO-s, nëpërmjet hartimit dhe zbatimit të legjislacionit kombëtar përkatës;
+
+b) ushtrimin e funksioneve të shtetit të flamurit (Flag State), përfshirë regjistrimin e anijeve, certifikimin, inspektimin, auditimin dhe mbikëqyrjen e vazhdueshme të tyre;
+
+c) ushtrimin e kontrollit të shtetit portual (Port State Control) në përputhje me marrëveshjet rajonale dhe standardet ndërkombëtare, për të verifikuar përputhshmërinë e anijeve të huaja;
+
+ç) në bashkërendim me Rojën Bregdetare, ushtrimin e funksioneve të shtetit bregdetar, përfshirë sigurinë e lundrimit, mbrojtjen e mjedisit detar, menaxhimin e trafikut detar, monitorimin, mbrojtjen, si dhe rritjen e qëndrueshmërisë së infrastrukturës detare e nënujore;
+
+d) mbikëqyrjen e organizatave të autorizuara (Recognized Organizations) që veprojnë në emër të saj, duke garantuar që delegimi i kompetencave të jetë në përputhje me standardet e IMO-s;
+
+dh) zbatimin e një sistemi efektiv të menaxhimit të cilësisë, në përputhje me kërkesat e Kodit III, për të siguruar transparencë, gjurmueshmëri dhe përmirësim të vazhdueshëm të performancës;
+
+e) trajnimin dhe kualifikimin e personelit për të garantuar kapacitete teknike dhe profesionale, në përputhje me standardet ndërkombëtare;
+
+ë) bashkëpunimin ndërkombëtar, përfshirë raportimin, auditimin dhe pjesëmarrjen në mekanizmat e vlerësimit të IMO-s (si auditimet IMSAS);
+
+f) mbledhjen, analizimin dhe raportimin e të dhënave që lidhen me sigurinë detare, mbrojtjen e mjedisit dhe performancën e flotës nën flamur;
+
+g) zbatimin e masave korrigjuese dhe parandaluese në rast të mospërputhjeve të identifikuara nga auditimet, inspektimet ose hetimet e aksidenteve detare.
+
 Neni 33
 
 Regjistri  detar
 
-1. Regjistri detar është organi i posaçëm shtetëror i kontrollit të ligjshmërisë dhe të disiplinës në veprimtarinë e fushave të detarisë pranë Administratës Detare. 
-
-2. Funksionet e regjistrit detar realizohen nëpërmjet inspektorëve, ndër të cilët janë dhe mbikëqyrësit e anijeve.
+(Shfuqizuar me ligjin nr. 84/2026, datë 23.7.2026)
 
 Neni 34
 
 Kontrolli shtetëror portual
 
-1. Kontrolli shtetëror portual është strukturë e veçantë, që funksionon në kapitenerinë e porteve.
+(Ndryshuar togfjalësh në pikën 1, shtuar pika 3 me ligjin nr. 84/2026, datë 23.7.2026)
+
+1. Kontrolli shtetëror portual është strukturë e veçantë, që funksionon pranë Administratës Detare.
 
 2. Organet e kontrollit shtetëror portual në mjetet lundruese të huaja verifikojnë:  
 
@@ -528,19 +640,29 @@ dh) mbrojtjen e mjedisit dhe të rregullave shëndetësore;
 
 e) rregullsinë e shfrytëzimit të burimeve ujore.
 
+3. Rregullat për organizimin dhe funksionimin e kontrollit shtetëror portual, procedurat e inspektimit, si dhe kompetencat e autoriteteve përgjegjëse përcaktohen me vendim të Këshillit të Ministrave, me propozim të ministrit përgjegjës për transportin.
+
 Neni 35
 
-Ekspertët detarë
+Eksperti Detar
 
-1. Çdo ministri, në problematikën e veprimtarive të veta në hapësirën detare, mund të krijojë grupe të ekspertëve detarë.
+(Ndryshuar me ligjin nr. 84/2026, datë 23.7.2026)
 
-2. Verifikimi dhe hetimi i incidenteve detare bëhet nga organet e caktuara me ligj. 
+1. Ekspert detar është personi fizik që plotëson kriteret e kualifikimit profesional, përvojës në sektorin detar dhe integritetit profesional sipas rregullave të përcaktuara me vendim të Këshillit të Ministrave dhe që angazhohet për të dhënë opinion, vlerësim, asistencë teknike ose këshillimore për çështje që lidhen me hapësirën dhe veprimtarinë detare.
+
+2. Rregullat për kriteret e kualifikimit, përvojën profesionale, procedurat e aplikimit, vlerësimit, regjistrimit, pezullimit dhe çregjistrimit të ekspertëve detarë, si dhe për krijimin, administrimin, përditësimin dhe funksionimin e Regjistrit Kombëtar të Ekspertëve Detarë miratohen me vendim të Këshillit të Ministrave, me propozimin e ministrit përgjegjës për çështjet detare.
+
+3. Hetimi i aksidenteve dhe incidenteve detare kryhet nga një organ i pavarur hetimor i krijuar sipas parashikimeve të ligjit nr. 91/2021, “Për krijimin, organizimin dhe funksionimin e Autoritetit Kombëtar të Investigimit të Aksidenteve dhe Incidenteve Hekurudhore dhe Detare”, në përputhje me standardet dhe praktikat ndërkombëtare në fuqi.
+
+4. Hetimi nuk synon përcaktimin e fajit apo përgjegjësisë civile ose penale.
 
 Neni 36
 
 Klasifikimi i anijeve
 
-1. Klasifikimi i anijeve, sipas llojit, tonazhit, destinacionit të përdorimit, kapacitetit transportues, fuqisë motorike, shpejtësisë  dhe të dhënave të tjera teknike, bëhet nga një shoqëri publike me qendër në portin ku ndodhet Regjistri i Mjeteve Lundruese Shqiptare.
+(Ndryshuar pika 1 me ligjin nr. 84/2026, datë 23.7.2026)
+
+1. Klasifikimi i anijeve, sipas llojit, tonazhit, destinacionit të përdorimit, kapacitetit transportues, fuqisë motorike, shpejtësisë dhe të dhënave të tjera teknike bëhet nga një shoqëri klasifikuese publike ose private.
 
 2. Organi i klasifikimit krijohet dhe vepron me status të veçantë, me vendim të Këshillit të Ministrave. 
 
@@ -551,6 +673,26 @@ Klasifikimi i anijeve
 5. Kundërshtimi i klasifikimit bëhet para gjykatës ku ka qendrën organi i klasifikimit,  brenda 10 ditëve nga marrja e dijenisë.
 
 6. Organi i klasifikimit mund të kryejë edhe ekspertime teknike, të kërkuara nga organet shtetërore, në ushtrim të funksioneve të tyre ose nga subjekte juridike, publike ose private. 
+
+Neni 36/1
+
+Organizatat e njohura
+
+(Shtuar me ligjin nr. 84/2026, datë 23.7.2026)
+
+ 	1. Autorizimi i organizatave të njohura bëhet në përputhje me kërkesat e Kodit për Organizatat e Njohura dhe standardet e përcaktuara nga IMO.
+
+2. Marrëdhëniet ndërmjet Administratës Detare dhe organizatave të njohura rregullohen me marrëveshje të posaçme me shkrim, në të cilat përcaktohen:
+
+a) fusha e kompetencave të deleguara;
+
+b) detyrimet dhe përgjegjësitë e palëve;
+
+c) procedurat e raportimit dhe shkëmbimit të informacionit;
+
+ç) kërkesat për transparencë dhe cilësi të shërbimit.  
+
+3. Rregullat për autorizimin, monitorimin dhe vlerësimin e organizatave të njohura përcaktohen me akt nënligjor të miratuar nga ministri përgjegjës për transportin detar.
 
 PJESA E DYTË
 
@@ -1164,7 +1306,7 @@ Neni 90
 
 Kufizimi i veprimtarisë detare 
 
-1. Ministri i Transportit dhe Telekomunikacionit, me kërkesë  të Ministrit të Mbrojtjes ose të Ministrit të Rendit Publik, ndalon veprimtaritë në zona detare të caktuara për një periudhë kohe të caktuar. Efekti i ndalimit fillon 48 orë pas shpalljes së tij në portet e zonave përkatëse dhe pas njoftimit sipas rregullave të së drejtës ndërkombëtare.
+1. Ministri përgjegjës për transportin, me kërkesë  të Ministrit të Mbrojtjes ose të Ministrit të Rendit Publik, ndalon veprimtaritë në zona detare të caktuara për një periudhë kohe të caktuar. Efekti i ndalimit fillon 48 orë pas shpalljes së tij në portet e zonave përkatëse dhe pas njoftimit sipas rregullave të së drejtës ndërkombëtare.
 
 2. Në kushtet e gjendjes se jashtëzakonshme ose kur rrethanat nuk presin, ndalimi ka efekt të menjëhershëm por, sipas rastit, Ministria e Mbrojtjes ose ajo e Rendit Publik marrin masa për largimin e njerëzve, të mjeteve dhe për moslejimin e hyrjes në zonën e ndaluar.
 
@@ -1264,7 +1406,7 @@ Neni 99
 
 Ekuipazhi
 
-(ndryshuar fjalë në pikën 1 me ligjin nr. 11/2021, datë 1.2.2021)
+(Ndryshuar fjalë në pikën 1 me ligjin nr. 11/2021, datë 1.2.2021)
 
 1. Me ekuipazh kuptohet grupi i personave të regjistruar sipas legjislacionit në fuqi dhe në marrëdhënie punësimi me pronarin, që realizojnë veprimtarinë e mjetit lundrues që nga nisja, gjatë udhëtimit, në mbërritje në destinacion dhe deri në kthimin në portin e nisjes.
 
@@ -1276,25 +1418,19 @@ Ekuipazhi
 
 Neni 100
 
-Përbërja e ekuipazhit
+Ekuipazhi minimal i sigurt
 
-1. Përbërja e ekuipazhit të mjetit lundrues përcaktohet nga pronari, por në çdo rast duhet të ketë:
+ (Ndryshuar me ligjin nr. 84/2026, datë 23.7.2026)
 
-a) kapitenin; 
+1.	Çdo anije që mban flamurin e Republikës së Shqipërisë duhet të ketë në bord një ekuipazh minimal të mjaftueshëm për të garantuar operimin e sigurt të anijes, mbrojtjen e jetës njerëzore në det dhe mbrojtjen e mjedisit detar, në përputhje me kërkesat e SOLAS Convention dhe STCW Convention.
 
-b) oficerin e parë; 
+2.	Ekuipazhi minimal përcaktohet nga Administrata Detare për çdo anije individualisht, duke marrë në konsideratë tipin, madhësinë, fuqinë motorike, nivelin e automatizimit, zonën e lundrimit, organizimin e shërbimit në bord dhe kërkesat për pushim dhe orë pune të ekuipazhit.
 
-c) marinarët; 
+3.	Administrata Detare lëshon për çdo anije dokumentin “Minimum Safe Manning Document”, i cili përcakton numrin dhe kualifikimin minimal të anëtarëve të ekuipazhit dhe është i detyrueshëm të mbahet në bord.
 
-ç) mekanikun;
+4.	Pronari, operatori dhe kapiteni i anijes janë përgjegjës për respektimin në çdo kohë të kërkesave të ekuipazhit minimal, si dhe për sigurimin që anëtarët e ekuipazhit të jenë të certifikuar dhe të kualifikuar në përputhje me kërkesat e STCW Convention.
 
-të ngarkuarin me komunikimet; 
-
-dh) mjekun;
-
-e) kuzhinierin.
-
-2. Në varësi të madhësisë së mjetit lundrues, një person mund të kryejë edhe më shumë se një nga funksionet e mësipërme, kur është i aftë profesionalisht.
+5.	Administrata Detare siguron zbatimin, monitorimin dhe kontrollin e kërkesave për ekuipazhin minimal, në përputhje me Kodin për Zbatimin e Instrumenteve të IMO-s (III Code), duke përfshirë verifikimet, auditimet dhe masat korrigjuese në rast mospërputhjeje.
 
 Neni 101
 
@@ -1334,7 +1470,9 @@ Bordi disiplinor
 
 1. Bordi disiplinor është organ jopermanent, që krijohet për të shqyrtuar rastet e sjelljeve, veprimeve e qëndrimeve jo të rregullta e morale të detarëve në kryerjen e detyrës, në marrëdhëniet me drejtuesit e mjetit lundrues ose me pjesëtarët e tjerë të ekuipazhit.
 
-2. Procedurat për krijimin dhe funksionimin e bordit disiplinor përcaktohen me akte nënligjore nga Ministri i Transportit dhe  Telekomunikacionit.
+2. Procedurat për krijimin dhe funksionimin e bordit disiplinor përcaktohen me akte nënligjore nga ministri përgjegjës për transportin.
+
+.
 
 Neni 105
 
@@ -1686,7 +1824,7 @@ Neni 136
 
 Shtetësia e kapitenit të anijes shqiptare 
 
-(ndryshuar pika 1 me ligjin nr.10 483, datë 17.11.2011, ndryshuar me ligjin nr. 11/2021, datë 1.2.2021)
+(Ndryshuar pika 1 me ligjin nr. 10 483, datë 17.11.2011; ndryshuar me ligjin nr. 11/2021, datë 1.2.2021)
 
 1. Kapiteni i anijes shqiptare duhet të jetë shtetas shqiptar apo shtetas i një shteti të Bashkimit Evropian, ose shtetas i një shteti anëtar të Organizatës për Bashkëpunim dhe Zhvillim Ekonomik.
 
@@ -1896,7 +2034,7 @@ Neni 152
 
 Përgjegjësitë për ditarin e anijes
 
-1. Kapiteni e në mungesë të tij zëvendësuesi, për mosmbajtje të ditarit dhe plotësim të pasaktë ose të parregullt të tij, mban përgjegjësi disiplinore dhe administrative, në bazë të akteve nënligjore të nxjerra nga Ministri i Transportit dhe Telekomunikacionit, përveç rasteve kur ka vend për përgjegjësi penale.
+1. Kapiteni e në mungesë të tij zëvendësuesi, për mosmbajtje të ditarit dhe plotësim të pasaktë ose të parregullt të tij, mban përgjegjësi disiplinore dhe administrative, në bazë të akteve nënligjore të nxjerra nga ministri përgjegjës për transportin, përveç rasteve kur ka vend për përgjegjësi penale.
 
 2. Ndaj personit të ngarkuar për ruajtjen e ditarit, ose dhe ndaj shkaktarit për humbje ose dëmtim nga pakujdesia të ditarit, merren masa disiplinore dhe administrative, në bazë të rregullave për veprimtaritë detare.
 
@@ -2090,7 +2228,7 @@ Neni 172
 
 Këshillimet dhe paralajmërimet për rreziqet
 
-1. Kapiteneria e Përgjithshme e Porteve duhet të marrë masat përkatëse për këshillimin e detarëve dhe njoftimin e situatave ekzistuese, si dhe zhvillimet që mund të ndikojnë në sigurinë detare.
+1. Administrata Detare duhet të marrë masat përkatëse për këshillimin e detarëve dhe njoftimin e situatave ekzistuese, si dhe zhvillimet që mund të ndikojnë në sigurinë detare.
 
 2. Rreziqet e lundrimit t’i komunikohen në çdo rrethanë dhe me çdo mjet çdo organi shtetëror e personi fizik e juridik, vendas ose i huaj.
 
@@ -2200,9 +2338,11 @@ Neni 182
 
 Rregullat për sigurinë në det
 
+(Ndryshuar pika 2 me ligjin nr. 84/2026, datë 23.7.2026)
+
 1. Mjetet lundruese shqiptare janë të detyruara që në ujërat territoriale të një shteti të njohin e të respektojnë rregullat e veçanta për sigurinë.
 
-2. Ministria e Transportit dhe e Telekomunikacionit përcakton kushtet dhe rregullat, që garantojnë sigurinë detare, në përputhje me traditat e vendit dhe me konventat ndërkombëtare në fushën e sigurisë detare, për radiondërlidhjen, për sistemin e sigurisë në rastet e një aksidenti detar, për kërkimin e shpëtimin nga rreziqet detare dhe aktet e tjera të së drejtës ndërkombëtare.
+2. Kushtet dhe rregullat që garantojnë sigurinë detare, të cilat janë në përputhje me konventat ndërkombëtare në fushën e sigurisë detare, për përgjegjësinë e transportuesve të pasagjerëve nga deti në rast aksidenti, për radiondërlidhjen, për sistemin e sigurisë në rastet e një aksidenti detar, për kërkim shpëtimin nga rreziqet detare dhe aktet e tjera të së drejtës ndërkombëtare përcaktohen me akt nënligjor të miratuar nga ministri përgjegjës për transportin detar.
 
 Neni 183
 
@@ -2224,19 +2364,7 @@ Neni 184
 
 Mbikëqyrësit
 
-1. Regjistri detar cakton inspektorë si mbikëqyrës të mjeteve lundruese, për të verifikuar para, gjatë ose pas lundrimit gjendjen dhe gatishmërinë teknike të mjetit lundrues dhe të mjeteve të shpëtimit, për të garantuar sigurinë në lundrim të njerëzve në bord, të ngarkesës dhe vetë mjetit lundrues, rivendosjen e rregullit të shkelur dhe vënien para përgjegjësisë të shkaktarëve.
-
-2. Mbikëqyrësit duhet të jenë të përgatitur teknikisht dhe duhet të njohin rregullat e sigurisë.
-
-3. Mbikëqyrësit varen drejtpërdrejt nga regjistri detar, por veprojnë duke respektuar kompetencat e kapitenerive të porteve, autoriteteve portuale dhe organizmave të tjerë të zonës detare ku ushtrojnë mbikëqyrjen, të cilat janë të detyruara të krijojnë kushtet dhe të mbështesin mbikëqyrjen.
-
-4. Veprimet dhe urdhrat e mbikëqyrësve janë të detyrueshme për kapiteneritë e porteve, autoritetet portuale dhe organizmat e tjerë të zonës përkatëse.
-
-5. Mbikëqyrësi, për qëllimet e kontrollit të mjeteve lundruese dhe i lëshimit të certifikatave, zbaton aktet ligjore e nënligjore shqiptare, por në rast mospërputhjeje zbaton konventat ndërkombëtare për sigurinë.
-
-6. Funksionet e mbikëqyrësit të mjeteve lundruese mund të ushtrohen me vendim të Këshillit të Ministrave edhe nga shoqëri të specializuara, pa cenuar të drejtat e regjistrit, i cilit ruan përparësinë e kontrollit e të mbikëqyrjes.
-
-7. Të drejtat dhe mënyra e veprimit të mbikëqyrësve të mjeteve lundruese përcaktohen në këtë Kod dhe në rregulloren e regjistrit detar, të miratuar nga Ministri i Transportit dhe Telekomunikacionit.
+(Shfuqizuar me ligjin nr. 84/2026, datë 23.7.2026)
 
 Neni 185
 
@@ -2324,15 +2452,13 @@ Neni 191
 
 Certifikata e sigurisë për mjetet lundruese të udhëtarëve
 
-1. Kur regjistri, nga raporti i paraqitur për mbikëqyrje të plota, vëren se mjeti lundrues shqiptar përmbush të gjitha kërkesat e sigurisë në lundrim, i kërkon Administratës Detare pajisjen e anijes me certifikatën e sigurisë së anijeve të udhëtarëve, ndërsa për kontrollet e pjesshme certifikatën e kontrollit të mjetit lundrues.
-
-2. Në certifikatë përcaktohet data e kontrollit, në bazë të të cilit lëshohet dhe në kontrollet e pjesshme përcaktohet objekti i kontrolluar.
+(Shfuqizuar me ligjin nr. 84/2026, datë 23.7.2026)
 
 Neni 192
 
 Certifikata për udhëtime ndërkombëtare
 
-Kur mjeti lundrues i udhëtarëve përmbush rregullat e caktuara për udhëtime ndërkombëtare dhe kryen udhëtime të tilla, Administrata Detare e pajis me certifikatë për udhëtime ndërkombëtare.
+(Shfuqizuar me ligjin nr. 84/2026, datë 23.7.2026)
 
 Neni 193
 
@@ -2398,19 +2524,7 @@ Neni 199
 
 Certifikatat për mjetet lundruese të ngarkesës
 
-1. Kur në raportin e mbikëqyrjes vërtetohet se mjeti lundrues i ngarkesës plotëson kërkesat e sigurisë, Administrata Detare e pajis: 
-
-a) me certifïkatën e sigurisë së konstruksionit të mjetit lundrues së ngarkesës;
-
-b) me certifikatën e pajisjes me mjete të sigurisë për mjetet lundruese të ngarkesës;
-
-c) me certifikatën e radios për mjetet lundruese të ngarkesës.
-
-2. Kur në raport vërtetohet se mjeti lundrues i ngarkesës plotëson kërkesat e veçanta të masave të sigurisë për secilin nga drejtimet e mësipërme, Administrata Detare e pajis mjetin lundrues: 
-
-a) me certifikatën e kufizuar të masave të sigurisë;
-
-b) me certifïkatën përjashtuese të masave të sigurisë.
+(Shfuqizuar me ligjin nr. 84/2026, datë 23.7.2026)
 
 KREU VII
 
@@ -2436,11 +2550,17 @@ Periudha e vlefshmërisë së certifikatës së sigurisë të konstruksionit të
 
 Neni 202
 
-Periudha e vlefshmërisë së certifikatave të tjera 
+Periudha e vlefshmërisë së certifikatave
 
-1. Certifikata e sigurisë për mjetet lundruese të udhëtarëve, certifikata e radios ose certifikata e përjashtimit, e cila deklaron se mjeti lundrues është i përjashtuar nga parashikimet e konventës së sigurisë për radiotelegrafinë, radiotelefoninë dhe radiopelengatorin, janë në fuqi për një vit, ndërsa certifikata e sigurisë së pajisjeve është në fuqi për dy vjet nga data e lëshimit ose për një periudhë më të shkurtër, siç mund të përcaktohet në certifikatë. 
+(Ndryshuar me ligjin nr. 84/2026, datë 23.7.2026)
 
-2. Certifikata e përjashtimit dhe certifikata që deklaron se mjeti lundrues është krejtësisht i përjashtuar nga parashikimet e konventës së sigurisë për radiotelegrafinë, radiotelefoninë dhe radiopelengatorin, mbeten në fuqi për të njëjtën periudhë si certifikatat e veçanta.
+1. Certifikata e sigurisë për anijet e pasagjerëve është e vlefshme për një periudhë që nuk tejkalon 1 vit, në përputhje me kërkesat e SOLAS Convention. 
+
+2. Certifikata e sigurisë së radios dhe certifikata e sigurisë së pajisjeve për anijet e mallrave janë të vlefshme për një periudhë që nuk tejkalon 5 vjet, me kusht që të kryhen me sukses inspektimet periodike të kërkuara.
+
+3. Certifikatat e përjashtimit lëshohen në përputhje me kërkesat e instrumenteve ndërkombëtare detare dhe janë të vlefshme për një periudhë që nuk tejkalon vlefshmërinë e certifikatës përkatëse me të cilën lidhen.
+
+4. Periudha e vlefshmërisë së certifikatave, si dhe kushtet për rinovimin, zgjatjen, pezullimin ose anulimin e tyre përcaktohen në përputhje me instrumentet ndërkombëtare detare në fuqi dhe legjislacionin kombëtar përkatës.
 
 Neni 203
 
@@ -2454,31 +2574,19 @@ Neni 204
 
 Përparësia  e certifikatës së përjashtimit
 
-Certifikata e përjashtimit qëndron në fuqi derisa mjeti lundrues të  kthehet në portin ku ka qendrën.
+(Shfuqizuar me ligjin nr. 84/2026, datë 23.7.2026)
 
 Neni 205
 
 Kërkesa të  veçanta për certifikatat
 
-1. Të gjitha certifikatat origjinale ose kopjet e noterizuara, të lëshuara sipas këtij Kodi, përveç certifikatave të përjashtimit, duhet të vendosen në një vend të dukshëm në mjetin lundrues për njoftimin e të gjithë personave në bordin e tij dhe qëndrojnë aty deri sa janë në fuqi. 
-
-2. Certifikata e përjashtimit mund të jepet edhe me postë elektronike ose me faks.
+(Shfuqizuar me ligjin nr. 84/2026, datë 23.7.2026)
 
 Neni 206
 
 Verifikimi i certifikatave të sigurisë në një mjet lundrues të huaj  
 
-Mbikëqyrësi, çdo inspektor dhe nëpunësi i autorizuar  nga drejtuesi i  organit qendror shtetëror që mbulon detarinë, mund të hyjnë në bordin e mjetit lundrues të  huaj, kur ky mjet hyn në ujërat territoriale shqiptare, në portin detar shqiptar ose në një zonë detare të ndaluar ose të kufizuar dhe, kur ka njoftim për parregullsi dokumentare, verifikojnë:  
-
-a) pajisjen dhe vlefshmërinë e certifikatave të sigurisë në mjetet lundruese të huaja, në përputhje me konventën e sigurisë;
-
-b) gjendjen reale  të mjetit lundrues, në përputhje me kërkesat e përcaktuara në konventën e  sigurisë.
-
-2. Verifikuesi është i detyruar që, për verifikimin e bërë,  të mbajë procesverbal, një kopje të të cilit ia dorëzon kapitenit të mjetit lundrues.
-
-3. Kontrolli për secilin rast të përmendur në pikën 1 të këtij neni mund të bëhet vetëm një herë, përveç kur kapiteni nuk paraqet procesverbalin e kontrollit të parë.
-
-4. Policia e sigurisë portuale dhe organet përgjegjëse për ngjarjet kriminale mund të hyjnë në mjetin lundrues të huaj, me kërkesën ose pëlqimin e kapitenit të mjetit, përveç kur ka një autorizim, sipas së drejtës ndërkombëtare.
+(Shfuqizuar me ligjin nr. 84/2026, datë 23.7.2026)
 
 Neni 207
 
@@ -3376,6 +3484,14 @@ Moskufizimi i të drejtave të udhëtarit
 
 Marrëveshja për kufizimin e të drejtave të udhëtarit për dëmet në jetën dhe shëndetin e tij është e pavlefshme për transportuesin.
 
+Neni 289/1
+
+Përcaktimi i rregullave për zbatimin e të drejtave të udhëtarëve
+
+(Shtuar me ligjin nr. 84/2026, datë 23.7.2026)
+
+Rregullat, procedurat dhe masat e nevojshme për sigurimin e respektimit dhe zbatimit efektiv të të drejtave të udhëtarëve përcaktohen me vendim të Këshillit të Ministrave.
+
 KREU VIII
 
 OPERATORËT E ANIJES
@@ -4106,7 +4222,7 @@ Neni 353
 
 Pasqyrimi në Regjistrin e Mjeteve Lundruese 
 
-Kapiteneria është e detyruar të pasqyrojë vendimin e sekuestros së një mjeti lundrues shqiptar në Regjistrin e Mjeteve Lundruese, ndërsa në rastin e një mjeti lundrues të huaj, nëpërmjet kapitenerisë së përgjithshme, i përcjell organit kompetent të shtetit përkatës një kopje të vërtetuar.
+Kapiteneria është e detyruar të pasqyrojë vendimin e sekuestros së një mjeti lundrues shqiptar në Regjistrin e Mjeteve Lundruese, ndërsa në rastin e një mjeti lundrues të huaj, nëpërmjet Administratës Detare, i përcjell organit kompetent të shtetit përkatës një kopje të vërtetuar.
 
 Neni 354
 
@@ -4168,7 +4284,11 @@ Neni 359
 
 Sigurimi ndaj të tretëve 
 
+(Shtuar paragrafi i dytë me ligjin nr. 84/2026, datë 23.7.2026)
+
 Siguruesi përgjigjet për dëmet që mjeti i siguruar u shkakton të tretëve. Në rast se mjeti i siguruar mbytet ose humb përfundimisht funksionin e tij, siguruesi u zbret vlerën e dëmit të shkaktuar të tretëve nga vlera e përgjithshme që paguan për humbjen e mjetit.
+
+Rregullat, procedurat dhe masat e nevojshme, lidhur me sigurimin e detyrueshëm të pronarëve të anijeve për mbulimin e pretendimeve detare ndaj të tretëve përcaktohen me vendim të Këshillit të Ministrave.
 
 Neni 360
 
@@ -4270,7 +4390,7 @@ Komisioni i zbatimit të procedurave për veprën e kundërligjshme
 
 2.Ky komision mbulon një zonë të caktuar ose edhe dy kapiteneri. 
 
-3. Përbërja e komisionit, mënyra e organizimit dhe e funksionimit të tij përcaktohen me urdhër të Ministrit të Transportit dhe Telekomunikacionit.
+3. Përbërja e komisionit, mënyra e organizimit dhe e funksionimit të tij përcaktohen me urdhër të ministrit përgjegjës për transportin.
 
 Neni 371
 
@@ -4606,6 +4726,90 @@ c) nuk parashtrojnë për miratim dokumente teknike, në mbështetje të të cil
 
 2. Për veprimet e përmendura në pikën 1 të këtij neni, dënohet edhe personi pergjegjës i shoqërisë tregtare ose i enteve të tjera ligjore me një gjobë prej 1 200 (një mijë e dyqind) Eurosh, në kundërvlerën me monedhë kombëtare. 
 
+Neni 395/1
+
+Shkeljet administrative në sistemin VTMIS dhe NMSW
+
+(Shtuar me ligjin nr. 84/2026, datë 23.7.2026)
+
+1. Mosrespektimi i detyrimeve të përcaktuara në këtë Kod dhe në aktet nënligjore në zbatim të tij, lidhur me raportimin, komunikimin dhe shkëmbimin e informacionit nëpërmjet Sistemit të Menaxhimit dhe Informacionit të Trafikut Detar (VTMIS) dhe Dritares së Vetme Kombëtare Detare (NMSW) përbën kundërvajtje administrative.
+
+2. Në varësi të natyrës, pasojave dhe nivelit të rrezikut të krijuar për sigurinë e lundrimit, jetën njerëzore në det dhe mbrojtjen e mjedisit detar, shkeljet klasifikohen si:
+
+a) shkelje të lehta;
+
+b) shkelje të mesme;
+
+c) shkelje të rënda;
+
+ç) shkelje shumë të rënda.
+
+3. Shkelje të lehta konsiderohen, ndër të tjera, rastet e:
+
+a) vonesave në përmbushjen e detyrimeve të raportimit;
+
+b) pasaktësive jo thelbësore në informacionin e transmetuar;
+
+c) mosrespektimit të kërkesave formale të komunikimit, kur nuk sjellin pasoja për sigurinë detare.
+
+4. Shkelje të mesme konsiderohen, ndër të tjera, rastet e:
+
+a) mosraportimit të informacionit të detyrueshëm;
+
+b) mosrespektimit të procedurave të përcaktuara për komunikimin dhe shkëmbimin e të dhënave nëpërmjet sistemeve VTMIS dhe NMSW.
+
+5. Shkelje të rënda konsiderohen, ndër të tjera, rastet e:
+
+a) mosraportimit të qëllimshëm të të dhënave të kërkuara;
+
+b) dhënies së informacionit të pasaktë ose të paplotë, kur kjo ndikon ose mund të ndikojë në sigurinë e lundrimit.
+
+6. Shkelje shumë të rënda konsiderohen, ndër të tjera, rastet e:
+
+a) manipulimit të sistemeve elektronike të raportimit;
+
+b) ndërhyrjes së paautorizuar në të dhënat e transmetuara;
+
+c) veprimeve që krijojnë rrezik serioz për sigurinë detare, jetën njerëzore ose mjedisin detar.
+
+7. Për shkeljet e përcaktuara në këtë nen zbatohen masat administrative, sipas legjislacionit në fuqi për kundërvajtjet administrative, duke përfshirë, sipas rastit:
+
+a) gjobën administrative;
+
+b) detyrimin për korrigjimin e menjëhershëm të informacionit të pasaktë ose të munguar;
+
+c) paralajmërimin administrativ;
+
+ç) kufizimin ose pezullimin e përkohshëm të veprimtarisë, kur kjo kërkohet për garantimin e sigurisë detare;
+
+d) masa të tjera administrative të parashikuara nga legjislacioni në fuqi.
+
+Neni 395/2
+
+Subjektet përgjegjëse dhe parime të zbatimit
+
+(Shtuar me ligjin nr. 84/2026, datë 23.7.2026)
+
+1. Përgjegjësia administrative për shkeljet e përcaktuara në nenin 395/1 mbahet, nga:
+
+a) pronari i anijes;
+
+b) operatori ose menaxheri i anijes;
+
+c) agjenti detar;
+
+ç) kapiteni i anijes, kur shkelja lidhet me detyrimet operacionale në bord.
+
+2. Masat administrative zbatohen në përputhje me parimin e proporcionalitetit, duke marrë parasysh natyrën e shkeljes, shkallën e fajësisë, pasojat e shkaktuara dhe rrezikun për sigurinë detare, jetën njerëzore dhe mjedisin detar.
+
+3. Në rast përsëritjeje të shkeljes, autoriteti kompetent mund të aplikojë masa administrative më të rrepta, në përputhje me legjislacionin në fuqi.
+
+4. Korrigjimi vullnetar i shkeljes, bashkëpunimi me autoritetin kompetent dhe marrja e masave parandaluese mund të konsiderohen si rrethana lehtësuese gjatë përcaktimit të masës administrative.
+
+5. Kompetenca për konstatimin e shkeljeve dhe zbatimin e masave administrative ushtrohet nga Administrata Detare dhe autoritetet portuale kompetente sipas fushës së përgjegjësisë së përcaktuar në këtë Kod.
+
+6. Kundër vendimit për vendosjen e sanksionit administrativ mund të ushtrohet e drejta e ankimit sipas procedurave dhe afateve të përcaktuara në legjislacionin për kundërvajtjet administrative, si dhe në Kodin e Procedurave Administrative.
+
 PJESA E NËNTË
 
 DISPOZITA KALIMTARE DHE TË FUNDIT
@@ -4650,9 +4854,9 @@ a) Këshilli i Ministrave i Republikës së Shqipërisë miraton aktet nënligjo
 
 b) ministritë e ndryshme, të cilat drejtojnë llojet e ndryshme të veprimtarive detare, përpilojnë urdhra, urdhëresa, udhëzime dhe rregulloret në zbatim të dispozitave të këtij Kodi;
 
-c) Kapiteneria e Përgjithshme e Porteve nxjerr urdhra, qarkore e udhëzime dhe merr vendime të formës së prerë, të cilat kanë fuqi detyruese për të gjitha subjektet detare. Kapiteni i porteve nxjerr edhe urdhra të brendshme për rregullimin e veprimtarisë së kapitenerive të porteve;
+c) Administrata Detare nxjerr urdhra, qarkore e udhëzime dhe merr vendime të formës së prerë, të cilat kanë fuqi detyruese për të gjitha subjektet detare. Kapiteni i porteve nxjerr edhe urdhra të brendshme për rregullimin e veprimtarisë së kapitenerive të porteve;
 
-ç) kapiteneritë e porteve nxjerrin rregulloret për organizimin e veçantë të trafikut detar, të manovrës, të hyrjes e daljes së mjeteve dhe të qëndrimit në spirancë. Këto rregullore miratohen nga Kapiteneria e Përgjithshme e Porteve.
+ç) kapiteneritë e porteve nxjerrin rregulloret për organizimin e veçantë të trafikut detar, të manovrës, të hyrjes e daljes së mjeteve dhe të qëndrimit në spirancë. Këto rregullore miratohen nga Administrata Detare.
 
 Neni 402
 
@@ -4666,4 +4870,4 @@ Hyrja në fuqi
 
 Ky ligj hyn në fuqi më 1.7.2005.
 
-Shpallur me dekretin nr.4289, datë 2.8.2004 të Presidentit të Republikës së Shqipërisë, Alfred Moisiu
+Shpallur me dekretin nr. 4289, datë 2.8.2004 të Presidentit të Republikës së Shqipërisë, Alfred Moisiu
