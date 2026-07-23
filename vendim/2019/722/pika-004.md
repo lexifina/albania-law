@@ -9,6 +9,6 @@ dh) bën vlerësimin për përcaktimin e nevojës për ndihmës personal;
 e) përcakton nivelin e përgjithshëm të aftësisë së kufizuar;
 ë) bën përgatitjen e rekomandimeve për shërbime të tjera dhe marrjen e vendimit për përfitimet për shkak të aftësisë së kufizuar;
 f) lëshon dokumentin që vërteton aftësinë e kufizuar, sipas formatit 7, bashkëlidhur këtij vendimi;
-g) shqyrton të dhënat e kontrolleve periodike të nevojshme, të kryera sipas formatit 8, bashkëlidhur këtij vendimi;
+g) shfuqizuar;
 gj) mban, ruan dhe përditëson të dhënat e dokumentacionit të kërkuesve e të përfituesve të aftësisë së kufizuar, elektronikisht dhe fizikisht;
 h) adreson fëmijët e moshës shkollore pranë institucioneve arsimore vendore, përgjegjëse për arsimin parauniversitar, për vlerësimin e nevojave të tyre arsimore.
