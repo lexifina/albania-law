@@ -4,7 +4,7 @@ Nr. 9947, datë 7.7.2008
 
 PËR PRONËSINË INDUSTRIALE
 
-(Ndryshuar me ligjin nr. 10/2013, datë 14.2.2013, nr. 55/2014, datë 29.5.2014, nr. 17/2017, datë 16.2.2017, nr. 96/2021, datë 7.7.2021; nr. 99/2024, datë 12.9.2024; nr. 52/2025, datë 3.7.2025; nr. 53/2025, datë 3.7.2025)
+(Ndryshuar me ligjin nr. 10/2013, datë 14.2.2013, nr. 55/2014, datë 29.5.2014, nr. 17/2017, datë 16.2.2017, nr. 96/2021, datë 7.7.2021; nr. 99/2024, datë 12.9.2024; nr. 52/2025, datë 3.7.2025; nr. 53/2025, datë 3.7.2025; nr. 88/2026, datë 23.7.2026)
 
 (I përditësuar)
 
@@ -858,11 +858,23 @@ Neni 111/dh
 
 Parashikime të përgjithshme
 
-Në këtë ligj përcaktohen masat, procedurat e mjetet juridike, që zbatohen për të siguruar mbrojtjen e të drejtave të sekretit tregtar dhe mundësinë e kompensimit civil kundrejt përvetësimit, përdorimit dhe bërjes publike në mënyrë të paligjshme të sekretit tregtar.
+(Numërtuar paragrafi i parë dhe shtuar pika 2 me ligjin nr. 88/2026, datë 23.7.2026)
+
+1. Në këtë ligj përcaktohen masat, procedurat e mjetet juridike, që zbatohen për të siguruar mbrojtjen e të drejtave të sekretit tregtar dhe mundësinë e kompensimit civil kundrejt përvetësimit, përdorimit dhe bërjes publike në mënyrë të paligjshme të sekretit tregtar.
+
+2. Masat, procedurat dhe mjetet juridike të përcaktuara në pikën 1 të këtij neni, duhet:
+
+a) të jenë të drejta dhe të arsyeshme;
+
+b) të mos jenë në mënyrë të panevojshme të ndërlikuara ose të kushtueshme, si dhe të mos përfshijnë afate të paarsyeshme kohore ose vonesa të pajustifikuara; dhe
+
+c) të jenë të efektshme dhe me efekt parandalues.
 
 Neni 111/e
 
 Veprimet që përbëjnë shkelje të të drejtave të sekretit tregtar dhe abuzimi me të drejtën për të ngritur padi
+
+(Shtuar pika 6 me ligjin nr. 88/2026, datë 23.7.2026)
 
 1. Veprimet e kryera nga çdo person lidhur me përvetësimin, përdorimin ose bërjen publike në mënyrë të paligjshme të sekretit tregtar, sipas pikës 111/ç të këtij ligji, përbëjnë shkelje të të drejtave të sekretit tregtar.
 
@@ -873,6 +885,14 @@ Veprimet që përbëjnë shkelje të të drejtave të sekretit tregtar dhe abuzi
 4. Me kërkesë të të paditurit, gjykata mund të marrë masa dhe të vendosë dënimin e paditësit që abuzon me të drejtën për të ngritur padi në përputhje me parashikimet e Kodit të Procedurës Civile. Konsiderohet se paditësi abuzon me të drejtën për të ngritur padi kur padia e paraqitur prej tij lidhur me përvetësimin, përdorimin ose bërjen publike në mënyrë të paligjshme të sekretit tregtar është haptazi e pambështetur dhe është konstatuar se paditësi ka filluar procedurat ligjore në mënyrë abuzive ose në keqbesim.   
 
 5. Sipas rastit, masa të tilla mund të përfshijnë dënimin me gjobë të paditësit deri në 50 000 (pesëdhjetë mijë) lekë, shpërblimin e dëmit ndaj të paditurit dhe detyrimin për publikimin e vendimit gjyqësor në përputhje me nenin 111/k të ligjit. 
+
+6. Masat, procedurat dhe mjetet juridike të parashikuara në këtë nen zbatohen në një mënyrë, që:
+
+a) është proporcionale;
+
+b) shmang krijimin e pengesave për të legjitimuar tregtinë në tregun e brendshëm; dhe
+
+c) parashikon masa mbrojtëse kundër abuzimit të tyre.
 
 Neni 111/ë
 
@@ -916,19 +936,23 @@ Neni 111/g
 
 Masat e përkohshme
 
-1. Gjykata, me kërkesën e mbajtësit të sekretit tregtar, urdhëron vendosjen e masave të përkohshme, me qëllimin e përfundimit ose të ndërprerjes së veprimeve të përvetësimit, përdorimit ose të bërjes publike në mënyrë të paligjshme të sekretit tregtar, duke përfshirë ndër të tjera:
+(Ndryshuar pika 1 dhe shtuar pika 5 me ligjin nr. 88/2026, datë 23.7.2026)
 
-a) ndalimin e prodhimit, ofrimit, hedhjes në treg ose përdorimit të mallrave cenuese, si dhe ndalimin e importimit, të eksportimit apo të ruajtjes së mallrave cenuese për këto qëllime;
+1. Gjykata, me kërkesën e mbajtësit të sekretit tregtar, urdhëron vendosjen e masave të përkohshme, me qëllim përfundimin ose ndërprerjen e veprimeve të përvetësimit, përdorimit ose bërjes publike në mënyrë të paligjshme të sekretit tregtar, duke përfshirë ndër të tjera:
 
-b) konfiskimin ose vënien nën kontroll të mallrave të dyshuara si cenuese deri në përfundim të procesit gjyqësor, duke përfshirë mallrat e importuara, në mënyrë që të ndalohet hyrja ose qarkullimi i tyre në treg;
+a) ndërprerjen ose, sipas rastit, ndalimin e përdorimit, ose bërjes publike të sekretit tregtar në mënyrë të përkohshme;
 
-c) ndalimin e ofrimit ose të sigurimit të shërbimeve që përdorin sekretin tregtar;
+b) ndalimin e prodhimit, ofrimit, hedhjes në treg ose përdorimit të mallrave cenuese, si dhe ndalimin e importimit, eksportimit apo ruajtjes së mallrave cenuese për këto qëllime;
 
-ç) ruajtjen e provave të rëndësishme për shkeljen e pretenduar, me kusht që të mbrohet informacioni konfidencial;
+c) konfiskimin ose vënien nën kontroll të mallrave të dyshuara si cenuese deri në përfundim të procesit gjyqësor, duke përfshirë mallrat e importuar, në mënyrë që të ndalohet hyrja ose qarkullimi i tyre në treg.
 
-d) konfiskimin ose vënien nën kontroll të mjeteve të përdorura për prodhimin e mallrave të dyshuara si cenuese deri në përfundim të procesit gjyqësor;
+ç) ndalimin e ofrimit ose sigurimit të shërbimeve që përdorin sekretin tregtar;
 
-dh) urdhëron, në rastin e një shkeljeje të kryer në shkallë tregtare dhe, nëse pala e dëmtuar demonstron rrethana të tilla, që mund të rrezikojnë riparimin e dëmeve, bllokimin e përkohshëm të pasurive të luajtshme dhe të paluajtshme të shkelësit të pretenduar, përfshirë edhe bllokimin e llogarive të tij bankare dhe të aseteve të tjera. Për këtë qëllim gjykata mund të urdhërojë paraqitjen e dokumenteve bankare, financiare ose tregtare, ose shfrytëzimin e mundësive të tjera të përshtatshme për të zotëruar informacionin përkatës.
+d) ruajtjen e provave të rëndësishme për shkeljen e pretenduar, me kusht që të mbrohet informacioni konfidencial;
+
+dh) konfiskimin ose vënien nën kontroll të mjeteve të përdorura për prodhimin e mallrave të dyshuara si cenuese deri në përfundim të procesit gjyqësor;
+
+e) urdhëron në rastin e një shkeljeje të kryer në shkallë tregtare dhe nëse pala e dëmtuar demonstron rrethana të tilla, që mund të rrezikojnë riparimin e dëmeve, bllokimin e përkohshëm të pasurive të luajtshme dhe të paluajtshme të shkelësit të pretenduar, përfshirë edhe bllokimin e llogarive të tij bankare dhe të aseteve të tjera. Për këtë qëllim, gjykata mund të urdhërojë paraqitjen e dokumenteve bankare, financiare ose tregtare, ose shfrytëzimin e mundësive të tjera, të përshtatshme, për të zotëruar informacionin përkatës.
 
 2. Gjykata vendos për marrjen e masave të përkohshme pa dëgjuar palën tjetër, veçanërisht kur vonesa mund t’i shkaktojë dëme të pariparueshme mbajtësit të sekretit tregtar ose kur provat mund të shkatërrohen. 
 
@@ -939,6 +963,8 @@ Pala, kundër së cilës është vendosur masa, njoftohet menjëherë për masat
 3. Kur vendos për marrjen e masave të përkohshme, gjykata cakton një afat, sipas rregullave të parashikuara në Kodin e Procedurës Civile, brenda të cilit personi që ka kërkuar këto masa duhet të ngrejë padi në gjykatë për shkelje të të drejtave të sekretit tregtar.
 
 4. Masat e përkohshme, duke përfshirë masat e përmendura në pikën 1 të këtij neni, mund të jepen kundër shkelësit të pretenduar të sekretit tregtar, si dhe në kushte të njëjta kundër ndërmjetësit, shërbimet e të cilit janë përdorur nga pala e tretë për të cenuar këtë të drejtë.
+
+5. Gjykata, si alternativë ndaj masave të përcaktuara në pikën 1 të këtij neni, mund të kushtëzojë vazhdimin e përdorimit të sekretit tregtar që pretendohet si i paligjshëm me vendosjen e garancisë, me qëllim sigurimin e kompensimit të mbajtësit të sekretit tregtar. Bërja publike e sekretit tregtar në këmbim të vendosjes së garancisë nuk lejohet.
 
 Neni 111/gj
 
@@ -984,31 +1010,45 @@ Kërkesa për kompensim u nënshtrohet procedurave të veçanta gjyqësore.
 
 Neni 111/h
 
-Procedurat në rast shkeljeje
+Procedurat në rast shkeljeje dhe masat korrigjuese
+
+(Ndryshuar titulli dhe pika 1, shfuqizuar paragrafi i dytë i pikës 2 dhe shtuar pika 3 dhe 4 me ligjin nr. 88/2026, datë 23.7.2026)
 
 1. Mbajtësi i sekretit tregtar ka të drejtë t’i drejtohet gjykatës kundrejt çdo personi që shkel të drejtat e tij për të kërkuar:
 
-a) ndërprerjen e shkeljes ose, sipas rastit, ndalimin e përdorimit ose të bërjes publik të sekretit tregtar;
+a) ndërprerjen e shkeljes ose, sipas rastit, ndalimin e përdorimit, ose bërjes publike të sekretit tregtar;
 
-b) ndalimin e veprimeve të paautorizuara që shkaktojnë një rrezik serioz për përvetësimin, përdorimin ose bërjen publik, në mënyrë të paligjshme, të sekretit tregtar;
+b) ndalimin e prodhimit, ofrimit, hedhjes në treg ose përdorimit të mallrave cenuese, si dhe ndalimin e importimit, eksportimit apo ruajtjes së mallrave cenuese për këto qëllime;
 
-c) ndalimin e prodhimit, ofrimit, hedhjes në treg ose përdorimit të mallrave cenuese, si dhe ndalimin e importimit, eksportimit apo ruajtjes së mallrave cenuese për këto qëllime;
+c) miratimin e masave korrigjuese në lidhje me mallrat cenuese;
 
-ç) heqjen ose bllokimin nga qarkullimi civil të mallrave cenuese, materialeve, pajisjeve, instrumenteve dhe mjeteve të përdorura për prodhimin e mallrave cenuese apo ofrimin e shërbimeve në mënyrë të paligjshme;
+ç) shkatërrimin tërësisht ose pjesërisht të çdo dokumenti, objekti, materiali, substance ose dosjeje elektronike që përmban ose përfshin sekretin tregtar ose, kur është e përshtatshme, vendosjen e të gjithë, ose një pjesë të këtyre dokumenteve, objekteve, materialeve, substancave ose dosjeve elektronike nën kontrollin e paditësit;
 
-d) shkatërrimin tërësisht ose pjesërisht të çdo dokumenti, objekti, materiali, substance ose dosjeje elektronike që përmban ose përfshin sekretin tregtar ose, kur është e përshtatshme, vendosjen e të gjithë ose të një pjese të këtyre dokumenteve, objekteve, materialeve, substancave ose dosjeve elektronike nën kontrollin e paditësit;
+d) ndalimin e veprimeve të paautorizuara që shkaktojnë një rrezik serioz për përvetësimin, përdorimin ose bërjen publike në mënyrë të paligjshme të sekretit tregtar;
 
-dh) publikimin e vendimit përfundimtar të gjykatës në medien publike, sipas mënyrës së parashikuar nga gjykata;
+dh) heqjen ose bllokimin nga qarkullimi civil të mallrave cenuese, materialeve, pajisjeve, instrumenteve dhe mjeteve të përdorura për prodhimin e mallrave cenuese apo ofrimin e shërbimeve në mënyrë të paligjshme;
 
-e) shpërblimin e çdo dëmi të shkaktuar nga përvetësimi, përdorimi ose bërja publike në mënyrë të paligjshme e sekretit tregtar.
+e) publikimin e vendimit përfundimtar të gjykatës në median publike sipas mënyrës së parashikuar nga gjykata;
+
+ë) shpërblimin e çdo dëmi të shkaktuar nga përvetësimi, përdorimi ose bërja publike në mënyrë të paligjshme e sekretit tregtar.
 
 2. Gjykata, kur vendos për heqjen e mallrave cenuese nga tregu, mund të urdhërojë që këto mallra t’i dorëzohen mbajtësit të sekretit tregtar ose organizatave të bamirësisë.
 
-Çdo masë e marrë nga gjykata dhe veçanërisht masat e parashikuara në shkronjat “ç”, “d” e “dh” të pikës 1 të këtij neni do të kryhen me shpenzimet e të paditurit.
+3. Çdo masë e marrë nga gjykata dhe veçanërisht masat e parashikuara në shkronjat “ç”, “d” dhe “dh”, të pikës 1 të këtij neni, do të kryhen me shpenzimet e shkelësit, përveç rasteve kur ekzistojnë arsye të veçanta për të mos vepruar në këtë mënyrë. Këto masa zbatohen pa cenuar çdo dëmshpërblim që mund t’i detyrohet mbajtësit të sekretit tregtar për shkak të përvetësimit, përdorimit ose zbulimit të paligjshëm të sekretit tregtar.
+
+4. Masat korrigjuese të përcaktuara në shkronjën “c”, të pikës 1 të këtij neni përfshijnë:
+
+a) tërheqjen e mallrave cenuese nga tregu;
+
+b) heqjen e elementeve që përbëjnë shkelje tek mallrat cenuese;
+
+c) shkatërrimin e mallrave cenuese ose, sipas rastit, largimin e tyre nga tregu, me kusht që ky largim të mos dëmtojë mbrojtjen e sekretit tregtar.
 
 Neni 111/i
 
 Kushtet dhe kriteret për marrjen e masave
+
+(Shtuar pika 4 me ligjin nr. 88/2026, datë 23.7.2026)
 
 1. Gjykata, kur vendos për marrjen e masave të parashikuara në nenin 111/h dhe vlerëson proporcionalitetin e tyre, merr parasysh rrethanat specifike të çdo rasti, duke përfshirë, kur është e përshtatshme:
 
@@ -1031,6 +1071,16 @@ e) interesin publik; dhe
 2. Kur gjykata e kufizon në kohë zgjatjen e masave të përcaktuara në nenin 111/h, kjo periudhë duhet të jetë e mjaftueshme për të eliminuar çdo avantazh tregtar ose ekonomik që shkelësi mund të ketë përfituar nga përvetësimi, përdorimi ose bërja publike në mënyrë të paligjshme e sekretit tregtar.
 
 3. Me kërkesën e të paditurit, gjykata mund të revokojë ose të shpallë të pavlefshme masat e përcaktuara në nenin 111/h të ligjit, nëse informacioni për sekretin tregtar nuk i plotëson më kërkesat e pikës 1 të nenit 111/a të këtij ligji, për arsye që nuk mund t’i atribuohen drejtpërdrejt ose tërthorazi të paditurit.
+
+4. Me kërkesën e personit që mund t’u nënshtrohet masave të përcaktuara në nenin 111/h të këtij ligji, gjykata mund të vendosë pagimin e një kompensimi financiar në favor të palës së dëmtuar, në vend të zbatimit të këtyre masave, nëse plotësohen të gjitha kushtet e mëposhtme:
+
+a) personi në fjalë, në kohën e përdorimit ose bërjes publike, nuk ishte në dijeni dhe as nuk mund të ishte në dijeni, sipas rrethanave, të faktit se sekreti tregtar ishte përfituar nga një tjetër person që ishte duke e përdorur ose e kishte bërë publike në mënyrë të paligjshme;
+
+b) ekzekutimi i masave përkatëse do t’i shkaktonte këtij personi një dëm joproporcional; dhe
+
+c) kompensimi financiar në favor të palës së dëmtuar paraqitet si mjaftueshëm i arsyeshëm.
+
+Kur vendoset kompensimi financiar në vend të masave të përcaktuara në shkronjat “a” dhe “b”, të pikës 1, të nenit 111/h të këtij ligji, ky kompensim nuk duhet të tejkalojë shumën e tarifave që do të ishin të pagueshme nëse personi në fjalë do të kishte kërkuar autorizim për përdorimin e sekretit tregtar në fjalë, për periudhën kohore gjatë së cilës përdorimi i sekretit tregtar mund të ishte ndaluar.
 
 Neni 111/j
 
