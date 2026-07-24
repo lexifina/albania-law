@@ -1,0 +1,1 @@
+6. Vendimi i komisionit përcillet nga Drejtoria e Përgjithshme e Policisë së Shtetit pranë Entit Kombëtar të Banesave, Korporatës së Investimeve Shqiptare, Komisionit të Objekteve të Konfiskuara dhe Agjencisë së Administrimit të Pasurive të Sekuestruara e të Konfiskuara për të vënë në dispozicion banesat e disponueshme që mund të përdoren për trajtimin e familjarëve.

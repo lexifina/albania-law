@@ -1,0 +1,1 @@
+1. Ky vendim ka objekt përcaktimin e rregullave, të procedurave e të masës së kompensimit në rastet e plagosjes dhe dëmtimit të shëndetit të punonjësve të Policisë së Shtetit, si dhe përcaktimin e rregullave e të procedurës së trajtimit të familjarëve të punonjësve të Policisë së Shtetit që humbin jetën për shkak të detyrës.

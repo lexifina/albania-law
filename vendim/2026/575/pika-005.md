@@ -1,0 +1,1 @@
+5. Në vendimin e komisionit përcaktohen personat që përfitojnë banesën, struktura dhe sipërfaqja takuese e apartamentit, sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

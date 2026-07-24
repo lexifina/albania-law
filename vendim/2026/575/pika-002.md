@@ -1,0 +1,1 @@
+2. Në kuptim të këtij vendimi, me pjesëtar të familjes së punonjësit të Policisë së Shtetit, që ka humbur jetën për shkak të detyrës, do të kuptojmë personat, sipas përbërjes së certifikatës familjare të punonjësit të Policisë së Shtetit, në momentin e humbjes së jetës për shkak të detyrës.
