@@ -1,0 +1,27 @@
+{
+  "qbz_id": 60722,
+  "title": "Mbi miratimin e kufijve minimalë dhe maksimalë të lejuar të çmimit për tregun e ditës në avancë",
+  "type": "Vendim",
+  "number": "139",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2023-04-14",
+  "version_no": 1,
+  "qbz_version_id": 4346,
+  "in_force": "2026-07-24",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2026-07-24",
+  "changed_by_qbz_id": 34122,
+  "changed_by_number": "209",
+  "changed_by_title": "Mbi miratimin e një ndryshimi në vendimin e bordit të ERE-s nr. 139, datë 14.04.2023, “Mbi miratimin e kufinjve minimalë dhe maksimalë të lejuar të çmimit për tregun e ditës në avancë”",
+  "source": "https://qbz.gov.al/files/b549772fb58822e88f9359668fc8977460db013f599889c1e43385a81cb6502b.docx",
+  "source_sha256": "b549772fb58822e88f9359668fc8977460db013f599889c1e43385a81cb6502b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60722",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/60722/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-16"
+}
