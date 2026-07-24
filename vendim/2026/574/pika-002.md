@@ -1,0 +1,1 @@
+2. Misioni i personelit të Forcave të Armatosura të Republikës së Shqipërisë është kryerja e detyrave në përbërje të Brigadës Shumëkombëshe Juglindore (MNB-SE), në zonën e përcaktuar të përgjegjësisë.

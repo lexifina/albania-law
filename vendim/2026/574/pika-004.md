@@ -1,0 +1,1 @@
+4. Kohëzgjatja e këtij misioni është deri më 15.9.2029, me sistem rotacioni. Periudha e qëndrimit në mision për çdo togë është deri në 6 (gjashtë) muaj, periudhë së cilës i shtohen edhe ditët e qëndrimit për ndërrimin me togën pasardhëse.

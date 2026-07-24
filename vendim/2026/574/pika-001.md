@@ -1,0 +1,1 @@
+1. Dërgimin me mision të një toge këmbësorie, të përbërë nga 30 (tridhjetë) ushtarakë të Forcave të Armatosura të Republikës së Shqipërisë, në përbërje të strukturave të NATO-s, për mbrojtjen e krahut juglindor të Aleancës (RP-SE), në kuadër të aktiviteteve të DDA-së, në Rumani.

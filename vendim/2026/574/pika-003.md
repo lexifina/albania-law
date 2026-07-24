@@ -1,0 +1,1 @@
+3. Venddislokimi i togës së Forcave të Armatosura të Republikës së Shqipërisë është në strukturat e Brigadës Shumëkombëshe Juglindore, pjesë e Divizionit Shumëkombësh Juglindor të NATO-s, në rajonet Craiova dhe Caracal, në Rumani.
