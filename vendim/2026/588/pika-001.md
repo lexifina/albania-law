@@ -1,0 +1,1 @@
+1. Marrjen e masave për hartimin, konsolidimin dhe finalizimin e projektit përfundimtar të Kodit Penal të ri, të ndryshimeve në Kodin e Procedurës Penale, si dhe të akteve të tjera të legjislacionit penal, që preken nga këto ndryshime, në kuadër të procesit të integrimit evropian dhe reformimit të politikës penale në Republikën e Shqipërisë.
