@@ -1,0 +1,1 @@
+6. Çdo subjekt i licencuar ose i lejuar është i detyruar të kryejë pagesën e plotë të çdo fature fiskale elektronike të lëshuar nga shoqëria “ALBTrace Co” sh.a., vetëm në dollarë amerikanë, brenda 8 (tetë) ditëve nga data e dërgimit të saj në rrugë elektronike, në llogarinë bankare të përcaktuar në faturë.

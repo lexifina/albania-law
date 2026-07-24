@@ -1,0 +1,1 @@
+7. Asnjë etiketë ose kod unik i shenjimit nuk aktivizohet për subjektin e licencuar ose të lejuar, në rast se nuk është kryer pagesa e plotë e shumës së përcaktuar në faturën e lëshuar nga shoqëria “ALBTrace Co” sh.a.

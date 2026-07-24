@@ -1,0 +1,1 @@
+8. Porosia e kryer nga subjektet e licencuara ose të lejuara i përket vetëm subjektit porositës dhe është e ndaluar shitja, transferimi, tjetërsimi, dhënia në përdorim apo vënia në dispozicion e saj, në çfarëdo forme për subjekte të tjera.
