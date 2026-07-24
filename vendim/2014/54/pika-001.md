@@ -1,1 +1,1 @@
-1. Pasuritë shtetërore u jepen të tretëve, duke u transferuar të drejtën e përdorimit me qira ose enfiteozë, nëpërmjet procedurës së konkurrimit.
+1. Pasuritë shtetërore u jepen të tretëve, duke u transferuar të drejtën e përdorimit me qira ose enfiteozë, nëpërmjet procedurës së konkurrimit ose në mënyrë të drejtpërdrejtë vetëm për rastet e parashikuara shprehimisht në këtë vendim dhe të shoqëruar me një relacion të arsyetuar nga struktura përgjegjëse për lidhjen e kontratave.
