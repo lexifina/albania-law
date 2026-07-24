@@ -1,0 +1,1 @@
+1. Numri i punonjësve të Agjencisë për Dialog dhe Bashkëqeverisje reduktohet me 24 (njëzet e katër) punonjës. Numri i përgjithshëm i punonjësve të Agjencisë për Dialog dhe Bashkëqeverisje bëhet 46 (dyzet e gjashtë).
