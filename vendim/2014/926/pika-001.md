@@ -1,1 +1,1 @@
-1. Këtij vendimi i nënshtrohen të gjitha pronat e paluajtshme shtetërore dhe pasuritë e luajtshme, objektet e veçanta, mjetet kryesore dhe mjetet e xhiros të ndërmarrjeve shtetërore, të cilat plotësojnë kriteret për privatizim, sipas këtij vendimi.
+1. Këtij vendimi i nënshtrohen të gjitha pronat e paluajtshme shtetërore dhe pasuritë e luajtshme, objektet e veçanta, mjetet kryesore dhe mjetet e xhiros të ndërmarrjeve shtetërore, asetet e shoqërive tregtare të zbritura nga kapitali i tyre, të cilat plotësojnë kriteret për privatizim, sipas këtij vendimi.

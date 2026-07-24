@@ -1,1 +1,1 @@
-33. Ministri përgjegjës për ekonominë nxjerr urdhrin për përfshirjen në procedurë privatizimi të pronës shtetërore, objekt kontrate të dhënë me qira me tarifë 1 euro/kontrata, me sipërfaqe mbi 500 (pesëqind) m2, përpara përfundimit të kontratës së qirasë.
+33. Ministri përgjegjës për ekonominë nxjerr urdhrin për përfshirjen në procedurë privatizimi të pronës shtetërore, objekt kontrate të dhënë me qira ose enfiteozë me tarifë 1 euro/kontrata, me sipërfaqe mbi 500 (pesëqind) m2, përpara përfundimit të kontratës së qirasë ose enfiteozës.
