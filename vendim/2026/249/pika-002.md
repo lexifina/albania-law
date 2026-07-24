@@ -1,1 +1,1 @@
-2. Lista përbëhet, gjithsej, nga 18 (tetëmbëdhjetë) fletë formulari, 18 (tetëmbëdhjetë) plan-rilevime dhe janë pjesë përbërëse të këtij vendimi.
+2. Lista përbëhet, gjithsej, nga 29 (njëzet e nëntë) fletë formulari, 29 (njëzet e nëntë) plan-rilevime dhe është pjesë përbërëse e këtij vendimi.
