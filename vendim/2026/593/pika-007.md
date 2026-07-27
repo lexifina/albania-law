@@ -1,0 +1,1 @@
+7. Ndalohen përpunimi dhe shkëmbimi i të dhënave personale për qëllime të tjera nga ato të përcaktuara në këtë vendim, si dhe përpunimi i kategorive të të dhënave që nuk janë të domosdoshme për realizimin e funksioneve ligjore të Agjencisë dhe shoqërisë “ALBTrace CO” sh.a.

@@ -1,0 +1,23 @@
+3. Të gjithë termat e përcaktuar në këtë vendim kanë të njëjtin kuptim me termat e përcaktuar në ligjin nr. 61/2023, “Për kontrollin e kultivimit dhe përpunimit të bimës së cannabis-it dhe prodhimit të nënprodukteve të saj për qëllime mjekësore dhe industriale” (në vijim “ligji nr. 61/2023”). Për efekt të këtij vendimi përkufizimet shtesë kanë këto kuptime:
+a) “Asgjësim i etiketave” i referohet asgjësimit fizik të etiketave, i cili realizon dëmtimin e etiketës në mënyrë të pakthyeshme dhe e bën atë të papërdorshme;
+b) “Barkod”, një kod vizual linear (1D), i përbërë nga vija të zeza dhe të bardha me trashësi të ndryshme që lejon identifikimin dhe përpunimin e të dhënave në mënyrë elektronike përmes pajisjeve lexuese;
+c) “Etiketë”, mjet shenjimi dhe identifikimi i pajisur me teknologjinë RFID, prodhuar dhe shpërndarë nga shoqëria “ALBTrace CO” sh.a, që përmban barkod ose kod QR dhe të dhëna të tjera, sipas përcaktimeve në këtë vendim dhe që vendoset mbi materialin e shenjuar;
+ç) “Fazë”, çdo etapë e aktivitetit, e përcaktuar në ligjin nr. 61/2023, që përfshin importin, kultivimin, përpunimin, prodhimin, magazinimin, transportin, eksportin, konfiskimin dhe asgjësimin e produkteve e të nënprodukteve të bimës së cannabis-it për qëllime mjekësore dhe industriale;
+d) “Faza të kultivimit”, fazat e zhvillimit të bimës së cannabis-it, që përfshijnë mbjelljen dhe shumimin, periudhën e rritjes intensive të bimës (faza vegjetative), lulëzimin dhe korrjen;
+dh) “Kod QR”, një kod dydimensional (2D) në formë matricore, që ruan informacion dhe mund të lexohet nga pajisje lexuese për të aksesuar në kohë reale të dhënat;
+e) “Kredenciale të hyrjes”, tërësia e të dhënave të autorizimit për përdorimin e sistemit, që përfshijnë emrin e përdoruesit dhe fjalëkalimin;
+ë) “Lot”, një njësi homogjene materiali e përftuar/prodhuar në të njëjtat kushte (origjinë, proces, turn, pajisje dhe interval kohe), e cila identifikohet me një NUI, i cili përdoret për gjurmueshmërinë, marrjen e mostrave dhe vlerësimin e pajtueshmërisë;
+f) “Material i shenjuar”, fara, bima mëmë, kloni, fidani, bima, mbetjet, nënprodukti apo produkti i cannabis-it, si dhe paketimet e tyre në forma të ndryshme (paketa, kontejnerë, thasë etj), të cilët janë të pajisur me etiketë;
+g) “Mbetje”, mbetjet apo pjesët e bimëve të cannabis-it mjekësor apo industrial, përfshirë mbetjet pas prodhimit, përpunimit, korrjes apo ato mbi sipërfaqen e tokës, si dhe bimët e mbira vetvetiu dhe ato që nuk përdoren për qëllime tregtimi;
+gj) “NUI” (Numri Unik Identifikues), një kod individual i identifikimit që i caktohet çdo materiali të shenjuar, i cili është unik dhe i pandryshueshëm, i gjeneruar dhe i lëshuar nga shoqëria “ALBTrace CO” sh.a.;
+h) “Pajisje lexuese”, pajisja elektronike, e përdorur për të lexuar automatikisht barkodin ose kodin QR të vendosur mbi etiketë dhe mund të jetë:
+i. pajisje dore për përdorim manual;
+ii. e integruar në një dron ose platformë tjetër monitoruese;
+iii. pjesë e një sistemi tjetër të automatizuar për mbledhjen dhe regjistrimin e të dhënave;
+“RFID” (Identifikimi me Frekuencë Radio), teknologji e identifikimit automatik, që mundëson, nëpërmjet valëve të radios dhe lexuesve elektronikë, leximin në distancë dhe simultan të të dhënave të ruajtura në etiketën me qark RFID, përfshirë NUI-n. Lexuesi RFID mund të lexojë një ose më shumë etiketa njëkohësisht. Të dhënat e lexuara regjistrohen në sistem;
+j) “RFID_EPC” (Electronic Product COde), kodi elektronik i materialit të shenjuar, i ruajtur në memorien EPC të etiketës RFID;
+k) “RFID_TID” (Tag Identifier), identifikuesi unik i qarkut RFID, i ruajtur në memorien TID nga prodhuesi i qarkut RFID. Ai është i pashkruajtshëm dhe i pandryshueshëm dhe vërteton autenticitetin dhe lidhjen e përhershme të etiketës fizike me materialin e shenjuar në sistem;
+l) “Regjistër”, regjistri kombëtar i aktivitetit të licencuar dhe të lejuar të bimës së cannabis-it, sipas parashikimeve të nenit 13, të ligjit nr. 61/2023;
+ll) “Sistem”, sistemi i gjurmueshmërisë që siguron gjurmimin, në përputhje me përcaktimet në ligjin nr. 61/2023 dhe aktet nënligjore në fuqi;
+m) “Subjekt”, subjekti i licencuar apo i lejuar për kultivimin, përpunimin e bimës së cannabis-it dhe prodhimin e nënprodukteve dhe produkteve të saj për qëllime mjekësore apo industriale;
+n) “Terren kultivues”, një material ose përzierje materialesh, natyrore ose të prodhuara, që siguron mbështetje fizike dhe furnizim me ushqyes për rritjen e bimëve, që mund të përfshijë tokë natyrale, torfë, perlit, vermikulit, fibra kokosi apo substrakte të tjera, që krijojnë kushte të përshtatshme për rritjen e bimëve në një ambient kultivues, duke lejuar rregullimin e lagështisë, ajrimit dhe ushqyesve.

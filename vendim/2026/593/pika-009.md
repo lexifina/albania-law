@@ -1,0 +1,1 @@
+9. Shoqëria “ALBTrace CO” sh.a., në cilësinë e administratorit teknik të sistemit, merr masat e nevojshme teknike dhe organizative për garantimin e sigurisë, integritetit dhe konfidencialitetit të të dhënave personale, në përputhje me legjislacionin për mbrojtjen e të dhënave personale.
