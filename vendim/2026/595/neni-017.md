@@ -1,0 +1,3 @@
+# Neni 17
+Sistemet e përputhshme për ruajtjen dhe shkëmbimin e të dhënave
+Me qëllim uljen e kostove dhe lehtësimin e aksesit në të dhënat e detajuara e të përbëra për përdoruesit e të dhënave shkencore dhe palët e tjera të interesuara, institucioni përgjegjës, ministria, organet këshilluese shkencore dhe përdorues të tjerë të rëndësishëm të të dhënave shkencore bashkëpunojnë për zhvillimin e sistemeve të përputhshme për ruajtjen dhe shkëmbimin e të dhënave. Këto sisteme synojnë, gjithashtu, lehtësimin e shpërndarjes së informacionit te palët e tjera të interesuara. Sisteme të tilla marrin formën e bazave rajonale të të dhënave. Planet rajonale të punës shërbejnë si bazë për arritjen e marrëveshjeve për krijimin dhe funksionimin e këtyre sistemeve.
