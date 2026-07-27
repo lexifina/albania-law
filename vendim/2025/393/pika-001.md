@@ -1,1 +1,0 @@
-1. Autoriteti i autorizuar për realizimin e shenjimit dhe gjurmueshmërisë, sipas ligjit nr. 61/2023, “Për kontrollin e kultivimit dhe përpunimit të bimës së cannabis-it dhe prodhimit të nënprodukteve të saj për qëllime mjekësore dhe industriale”, është shoqëria “ALBTrace Co” sh.a.
