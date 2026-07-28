@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për llogaritjen, publikimin dhe formatin e përzierjes së mbetur dhe të strukturës së burimeve të energjisë elektrike të furnizuar klientëve fundorë”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
