@@ -1,0 +1,1 @@
+5. Komunitetet e energjisë së rinovueshme njoftojnë ERE-n për çdo ndryshim në statutet e tyre, strukturën e aksionarëve, strukturën e anëtarësimit ose mekanizmat e qeverisjes, i cili mund të ndikojë në përmbushjen e kërkesave të zbatueshme për komunitetet e energjisë së rinovueshme.

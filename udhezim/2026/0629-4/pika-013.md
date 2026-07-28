@@ -1,0 +1,1 @@
+13. ERE shqyrton kërkesën në përputhje me rregullat e thjeshtuara për regjistrimin e komuniteteve të energjisë së rinovueshme dhe brenda 20 (njëzetë) ditëve pune, miraton ose refuzon në mënyrë të arsyetuar kërkesën.
