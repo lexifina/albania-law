@@ -85,6 +85,13 @@ Dëmtim dëgjimi.
 85
 1
 110
+10/1
+Mjedise publike, të jashtme të prekura nga muzika e amplifikuar e veprimtarive të parashikuara në pikën 3/1 të udhëzimit
+Cenim i qetësisë (apo prishje e qetësisë) dhe shqetësim i komunitetit gjatë mbrëmjes.
+65
+45
+15 minuta gjatë periudhës 11:00-20:00
+15 minuta gjatë periudhës 20:00-24:00
 11
 Ceremoni, festivale dhe argëtime
 Dëmtim dëgjimi (klientët < 5 herë/ vit).
@@ -127,6 +134,9 @@ LAmax Fast (dB) = Niveli i matur në shkallën A në mënyrën Fast (të shpejt�
 # 2 = Presioni zanor maksimal (LAmax, fast) matur 100 mm larg veshit;
 # 3 = Zonat e jashtme të qeta duhet të mbrohen dhe raporti i zhurmës hyrëse/shtesë me zhurmën e fonit natyral duhet të ruhet sa më i ulët që të jetë e mundur;
 # 4 = Nën kufjet e dëgjimit, përshtatur me vlerat e fushës së lirë.
+LAeq,15 min = niveli ekuivalent i vazhdueshëm i presionit akustik, i ponderuar sipas shkallës A, i përcaktuar për një interval matjeje prej 15 minutash;
+Zhurmë specifike = përbërësi i zhurmës së ambientit që i atribuohet veprimtarisë ose burimit që kontrollohet;
+Zhurmë reziduale = zhurma që mbetet në mjedisin e matjes kur burimi specifik që kontrollohet nuk është në funksionim.
 Vlerat udhëzuese të OBSH-së në tabelën më sipër janë të organizuara sipas mjediseve specifike. Kur identifikohen efekte të shumta negative shëndetësore për një mjedis të caktuar, vlerat udhëzuese vendosen në nivelin e efektit negativ shëndetësor më të ulët (efekti kritik shëndetësor). Një efekt negativ shëndetësor i zhurmës i referohet çdo përkeqësimi të përkohshëm ose afatgjatë të funksionimit fizik, psikologjik ose social, që shoqërohet me ekspozimin ndaj zhurmës. Vlerat udhëzuese përfaqësojnë nivelet e presionit të zhurmës që prekin marrësin më të ekspozuar në mjedisin e listuar.
 Baza kohore për LAeq për “ditën” dhe “natën” është përkatësisht 16 orë dhe 8 orë. Nuk jepet një bazë e veçantë kohore vetëm për mbrëmjet, por zakonisht, vlera udhëzuese duhet të jetë 5-10 dB më e ulët se për një periudhë 12-orëshe të ditës. Rekomandohen baza të tjera kohore për shkollat, parashkollorët dhe këndet e lojërave, në varësi të aktivitetit.
 Efektet e ndryshme kritike shëndetësore janë të rëndësishme për mjedise specifike, dhe vlerat udhëzuese për zhurmën e komunitetit janë propozuar për çdo mjedis. Këto janë:

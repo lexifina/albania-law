@@ -1,1 +1,5 @@
 3. Subjektet që ushtrojnë veprimtari ekonomike apo sociale, të cilat lëshojnë zhurmë, marrin masa që niveli i zhurmës në mjediset, sipas pikës 2 të këtij udhëzimi, të mos tejkalojë nivelet kufi të përcaktuara respektivisht në aneksin 1, bashkëlidhur këtij udhëzimi.
+3/1. Përjashtimisht gjatë sezonin turistik, subjektet që ushtrojnë veprimtari ekonomike apo sociale, të cilat lëshojnë zhurmë, si: lokale, bare, restorante, diskoteka, klube nate dhe veprimtari të tjera të ngjashme, të cilat përdorin muzikë të amplifikuar ose pajisje elektroakustike, marrin masa që:
+a) prej orës 11:00 deri në orën 20:00, niveli i zhurmës i shkaktuar nga veprimtaria e tyre, i matur në mjedise publike të mos kalojë vlerën LAeq, 15 min prej 65dB(A), në çdo interval matje prej 15 minutash;
+b) prej orës 20:00 deri në orën 24:00, niveli i zhurmës i shkaktuar nga veprimtaria e tyre, i matur në mjedise publike të mos kalojë vlerën LAeq, 15 min prej 45dB(A), në çdo interval matje prej 15 minutash.
+Niveli specifik i zhurmës përcaktohet duke marrë në konsideratë zhurmën reziduale të mjedisit dhe sipas standardeve në fuqi për matjen dhe vlerësimin e zhurmës mjedisore.
