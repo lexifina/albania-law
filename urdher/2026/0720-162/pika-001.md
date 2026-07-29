@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për kërkesat e përbashkëta të përdorimit të hapësirës ajrore dhe procedurave të operimit për shmangien e përplasjeve ajrore”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+2. Urdhri nr. 124, datë 28.9.2015, “Për miratimin e rregullores për kërkesat e përbashkëta të përdorimit të hapësirës ajrore dhe procedurave të operimit për shmangien e përplasjeve ajrore”, shfuqizohet.
