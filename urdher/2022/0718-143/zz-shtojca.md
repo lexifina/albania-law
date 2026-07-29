@@ -1,13 +1,13 @@
 # Shtojca
 RREGULLORE
-MBI RREGULLAT DHE PROCEDURAT PËR OPERIMIN E AVIONËVE PA PILOTË
+MBI RREGULLAT DHE PROCEDURAT PËR OPERIMIN E SISTEMEVE TË AVIONËVE PA PILOT
 Neni 1
 Objekti
 Kjo rregullore përcakton rregullat e detajuara për operimin e sistemeve të avionëve pa pilotë si dhe për personelin, duke përfshirë pilotët që komandojnë në distancë dhe organizatat e përfshira në këto operime.
 Neni 2
 Përkufizimet
-Për qëllimet e kësaj rregulloreje, zbatohen përkufizimet e përcaktuar në VKM-në nr. 1095, datë 24.12.2020, “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”. Gjithashtu do të zbatohen edhe përkufizimet më poshtë:
-1. “Sistemi i avionit pa pilot” (UAS) (unmanned aircraft system), është një avion pa pilot dhe pajisjet për ta kontrolluar atë në distancë;
+Për qëllimet e kësaj rregulloreje, zbatohen përkufizimet e mëposhtme:
+1. “Sistem i avionit pa pilot (UAS)” (unmanned aircraft system), do të thotë një avion pa pilot, siç përcaktohet në nenin 3(2), të VKM-së nr. 1095, datë 24.12.2020, “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, i ndryshuar dhe njësia e tij e kontrollit dhe monitorimit;
 2. “Operatori i sistemit të avionit pa pilot” (operatori i ’UAS’) është çdo person juridik ose person fizik që operon ose ka për qëllim të operojë një ose më shumë UAS;
 3. “Grumbullimet e njerëzve” (assemblies of people) janë grumbullime ku njerëzit nuk munden të largohen për shkak të densitetit të njerëzve të pranishëm;
 4. “Zona gjeografike e UAS-së” është një pjesë e zonës ajrore të vendosur nga Komiteti i Politikave të Menaxhimit të Hapësirës Ajrore Shqiptare që ndihmon, kufizon ose përjashton operimet e UAS-së, duke iu përgjigjur rreziqeve që përkojnë me sigurinë teknike, privatësinë, mbrojtjen e të dhënave personale, sigurinë ose mjedisin, që vijnë prej operimeve të UAS-së;
@@ -40,8 +40,8 @@ h) lëndë gërryes;
 23. “Planera pa pilot” (unmanned sailplane) është një avion pa pilot që mbështetet gjatë fluturimit nga reaksioni dinamik i ajrit kundrejt sipërfaqeve të fiksuara të forcës ngritëse, fluturimi i lirë i të cilit nuk varet nga motori. Ai mund të pajiset me një motor për përdorim në raste emergjente;
 24. “Vëzhgues i avionit pa pilot” është një person, i pozicionuar përkrah pilotit në distancë, i cili, nëpërmjet vëzhgimit pa ndihmë të avionit pa pilot, ndihmon pilotin në distancë në mbajtjen e avionit pa pilot në VLOS dhe kryerjen e sigurt të fluturimit;
 25. “Vëzhgues i hapësirës ajrore” është një person që ndihmon pilotin në distancë duke kryer pa ndihmë, skanim vizual të hapësirës ajrore në të cilën operon avioni pa pilot, për ndonjë rrezik të mundshëm në ajër;
-26. “Njësi komanduese” (’CU’) (command unit) është pajisja ose sistemi i pajisjeve për të kontrolluar avionët pa pilot nga distanca, siç përcaktohet në pikën 17, të nenit 3, të VKM-së nr. 1095, datë 24.12.2020, që mbështet kontrollin ose monitorimin e avionëve pa pilot gjatë çdo faze fluturimi, me përjashtim të çdo infrastrukture që mbështet shërbimin e lidhjes së komandës dhe kontrollit (C2);
-27. “Shërbimi i lidhjes C2” është një shërbim komunikimi i ofruar nga një palë e tretë, që ofron komandim dhe kontroll ndërmjet avionit pa pilot dhe CU-së;
+26. “Njësia e kontrollit dhe monitorimit (CMU)” (control and monitoring unit), është pajisja ose sistemi i pajisjeve për të kontrolluar dhe monitoruar avionin pa pilot nga distanca, siç përcaktohet në nenin 3(17), të VKM-së nr. 1095, datë 24.12.2020, “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil”, i ndryshuar;
+27 “Lidhja C2” është lidhja e të dhënave ndërmjet avionit pa pilot (UA) dhe CMU-së, me qëllim menaxhimin e fluturimit;
 28. “Gjeografia e fluturimit” do të thotë vëllimi(et) e hapësirës ajrore të përcaktuara në hapësirë dhe kohë, në të cilën operatori UAS planifikon të kryejë operimin sipas procedurave normale të përshkruara në pikën 6 “c”, të shtojcës 5, të aneksit;
 29. “Zona gjeografike e fluturimit” është projeksioni i gjeografisë së fluturimit në sipërfaqen e tokës;
 30. “Vëllimi i emergjencës” është vëllimi i hapësirës ajrore jashtë gjeografisë së fluturimit ku zbatohen procedurat e emergjencës, të përshkruara në pikën 6 “d”, të shtojcës 5, të aneksit;
@@ -50,6 +50,7 @@ h) lëndë gërryes;
 33. “Mbrojtësi i rrezikut tokësor” (ground risk buffer) është një zonë mbi sipërfaqen e tokës, e cila rrethon vëllimin operacional dhe që specifikohet për të minimizuar rrezikun ndaj palëve të treta në sipërfaqe në rast të largimit të avionit pa pilot nga vëllimi operacional;
 34. “Natë” nënkupton orët ndërmjet fundit të muzgut civil të mbrëmjes dhe fillimit të muzgut civil të mëngjesit, siç përcaktohet në rregulloren në fuqi për rregullat e ajrit dhe parashikimet operacionale në lidhje me shërbimet dhe procedurat në lundrimin ajror, që përafron rregulloren (BE) nr. 923/2012;
 35. “Marrëveshje shumëpalëshe” është marrëveshja shumëpalëshe, shtojcat dhe protokolli i saj për krijimin e Zonës së Përbashkët Evropiane të Aviacionit (ZPEA), e ratifikuar me ligjin nr. 9658, datë 18.12.2006, në vijim referuar si marrëveshja shumëpalëshe.
+36. “Komponent i UAS-së” do të thotë çdo motor, helikë ose pjesë e UA-së, ose çdo element i njësisë së kontrollit dhe monitorimit (CMU);
 Neni 3
 Kategoritë e operimeve UAS
 Operimet UAS do të kryhen në kategorinë ’e hapur’, ’specifike’ ose ’e certifikuar’ e përcaktuar përkatësisht në nenet 4, 5 dhe 6, të kësaj rregulloreje, duke iu nënshtruar kushteve të mëposhtme:
@@ -93,6 +94,9 @@ Rregullat dhe procedurat për operimin e UAS-së
 2. Operimet UAS në kategorinë ’specifike’ duhet të jenë në përputhje me kufizimet operacionale të përcaktuara në autorizimin operacional, siç përmendet në nenin 12 ose autorizimin siç përmendet në nenin 16, ose në një skenar standard të përcaktuar në shtojcën 1 të aneksit siç deklarohet nga operatori UAS.
 Ky paragraf nuk do të zbatohet kur operatori UAS ka një LUC me privilegjet e duhura.
 Operimet UAS në kategorinë ’specifike’ do t’i nënshtrohen kërkesave të zbatueshme të operimit, të përcaktuara në urdhrin në fuqi të ministrit përgjegjës për transportin ajror, që përafron rregulloren (BE) 923/2012, “Mbi përcaktimin e rregullave të përbashkëta të ajrit dhe dispozitat e operimeve në lidhje me shërbimet dhe procedurat e lundrimit ajror”.
+2a. Operatori i një UAS-je që plotëson kushtet e specifikuara në pikën 1(d), të nenit 19, të urdhrit nr. 114, datë 6.6.2022, “Për miratimin e rregullores për sistemet e avionëve pa pilot dhe operatorët e sistemeve të avionëve pa pilot”, duhet të marrë certifikatat e mëposhtme:
+i. një certifikatë të vlefshmërisë ajrore ose një certifikatë të kufizuar të vlefshmërisë ajrore të lëshuar në përputhje me nënpjesën H, të aneksit I (pjesa 21), të urdhrit nr. 57, datë 13.3.2024,“Për miratimin e rregullores për përcaktimin e rregullave zbatuese të vlefshmërisë ajrore dhe të certifikimit mjedisor ose deklaratën e përputhshmërisë së avionit dhe produkteve të lidhura me to, pjesëve dhe pajisjeve, si dhe kërkesat e aftësisë së organizatave të projektimit dhe prodhimit”;
+ii. një certifikatë zhurme, të lëshuar në përputhje me nënpjesën I, të aneksit I (pjesa 21), të urdhrit nr. 57, datë 13.3.2024, “Për miratimin e rregullores për përcaktimin e rregullave zbatuese të vlefshmërisë ajrore dhe të certifikimit mjedisor ose deklaratën e përputhshmërisë së avionit dhe produkteve të lidhura me to, pjesëve dhe pajisjeve, si dhe kërkesat e aftësisë së organizatave të projektimit dhe prodhimit”, kur UA-ja i nënshtrohet kërkesave për mbrojtjen e mjedisit të përcaktuara në pikën 21.B.85 të të njëjtit urdhër.
 3. Operimet UAS në kategorinë ’e certifikuar’ do t’i nënshtrohen kërkesave të zbatueshme të operimit, të parashtruara në urdhrat në fuqi të ministrit përgjegjës për transportin ajror, që përafrojnë: rregulloren (BE) 923/2012, “Mbi përcaktimin e rregullave të përbashkëta të ajrit dhe dispozitat e operimeve në lidhje me shërbimet dhe procedurat e lundrimit”, rregulloren (BE) nr. 965/2012, “Mbi përcaktimin e kërkesave teknike dhe procedurat administrative për operimet ajrore”, dhe rregulloren (BE) nr. 1332/2011, “Për përcaktimin e kërkesave të përbashkëta të përdorimit të hapësirës ajrore dhe funksionimin e procedurave për shmangien e përplasjes në ajër”.
 Neni 8
 Rregullat dhe procedurat për kompetencën e pilotëve të komandimit në distancë
@@ -175,10 +179,14 @@ iii. projektimin e UASv me standardet e njohura dhe projektin për dështimet n�
 Neni 12
 Autorizimi i operimeve në kategorinë ’specifike’
 1. AAC-ja duhet të vlerësojë vlerësimin e riskut dhe qëndrueshmërinë e masave zbutëse që operatori UAS propozon për të mbajtur të sigurt operimin e UASv në të gjitha fazat e fluturimit.
-2. AAC-ja jep një autorizim operacional kur vlerësimi nxjerr në përfundim se:
-a) objektivat e sigurisë në operim (safety) marrin parasysh risqet e operimit;
-b) kombinimi i masave zbutëse, të lidhura me kushtet operacionale për kryerjen e operimeve, kompetenca e personelit të përfshirë dhe tiparet teknike të avionëve pa pilot përputhen dhe janë plotësisht në gjendje për të mbajtur operimin teknikisht të sigurt në funksion të rreziqeve të identifikuara në tokë dhe në ajër;
-c) operatori UAS jep një deklaratë që konfirmon që operimi i synuar përputhet me çdo rregull të zbatueshëm të Republikës së Shqipërisë, veçanërisht, në lidhje me privatësinë, mbrojtjen e të dhënave, përgjegjësinë, siguracionin, sigurinë, dhe mbrojtjen e mjedisit.
+2. AAC-ja jep një autorizim operacional kur:
+a) vlerësimi i kryer në përputhje me paragrafin 1 arrin në përfundimin, se:
+i. objektivat e sigurisë në operim (safety) marrin parasysh risqet e operimit;
+ii. kombinimi i masave zbutëse që lidhen me kushtet operacionale për kryerjen e operimit, kompetencën e personelit të përfshirë dhe karakteristikat teknike të avionit pa pilot, janë të përshtatshme dhe mjaftueshëm të qëndrueshme për ta mbajtur operimin të sigurt, në raport me rreziqet në tokë dhe ajër të identifikuara;
+b) për UAS-të që janë certifikuar ose do të certifikohen në përputhje me nenin 19, pika 1(d), e urdhrit nr. 114, datë 6.6.2022, “Për miratimin e rregullores për sistemet e avionëve pa pilot dhe operatorët e sistemeve të avionëve pa pilot”, UAS-të kanë:
+i. një certifikatë të vlefshme të vlefshmërisë ajrore ose një certifikatë të kufizuar të vlefshmërisë ajrore dhe, nëse UA-ja i nënshtrohet kërkesave të mbrojtjes mjedisore të përcaktuara në pikën 21.B.85, të urdhrit nr. 57, datë 13.3.2024, “Për miratimin e rregullores për përcaktimin e rregullave zbatuese të vlefshmërisë ajrore dhe të certifikimit mjedisor ose deklaratën e përputhshmërisë së avionit dhe produkteve të lidhura me to, pjesëve dhe pajisjeve, si dhe kërkesat e aftësisë së organizatave të projektimit dhe prodhimit”, një certifikatë të vlefshme zhurme; ose
+ii. nëse UA-ja nuk i plotëson, ose nuk është provuar se i plotëson, kërkesat e zbatueshme të vlefshmërisë ajrore, kushtet e fluturimit të miratuara sipas nënpjesës P, të aneksit I (pjesa 21), të urdhrit nr. 57, datë 13.3.2024, “Për miratimin e rregullores për përcaktimin e rregullave zbatuese të vlefshmërisë ajrore dhe të certifikimit mjedisor ose deklaratën e përputhshmërisë së avionit dhe produkteve të lidhura me to, pjesëve dhe pajisjeve, si dhe kërkesat e aftësisë së organizatave të projektimit dhe prodhimit”;
+c) operatori i UAS-së i paraqet AAC-së një deklaratë që konfirmon se operimi i synuar përputhet me çdo rregull të zbatueshëm të Republikës së Shqipërisë, veçanërisht në lidhje me privatësinë, mbrojtjen e të dhënave, përgjegjësinë, siguracionin, sigurinë (security) dhe mbrojtjen e mjedisit.
 3. Kur operimi nuk duket mjaftueshëm i sigurt, AAC-ja duhet të informojë përkatësisht aplikantin, duke dhënë arsye për refuzimin për të lëshuar autorizimin e operimit.
 4. Autorizimi operacional i dhënë nga AAC-ja duhet të detajojë:
 a) qëllimin e autorizimit;
@@ -193,6 +201,8 @@ iii. kufizimet operacionale dhe kushtet e operimit;
 iv. masat mitiguese që ka zbatuar operatori UAS;
 v. vendndodhjen(et) ku operimi është i autorizuar të zhvillohet dhe çdo vend tjetër në një shtet tjetër, në përputhje me nenin 13, kur është e zbatueshme;
 vi. të gjitha dokumentet dhe regjistrimet përkatëse për llojin e operimit dhe llojin e ngjarjeve që duhet të raportohen, si shtesë e atyre të përcaktuara në urdhrin e ministrit përgjegjës për transportin ajror nr. 89, datë 5.5.2022, “Për miratimin e rregullores për raportimin dhe ndjekjen e ngjarjeve në aviacionin civil në Republikën e Shqipërisë”.
+vii. certifikata e vlefshmërisë ajrore ose certifikata e kufizuar e vlefshmërisë ajrore dhe certifikata e zhurmës, kur janë lëshuar certifikata të tilla;
+viii. kushtet e fluturimit të miratuara në përputhje me urdhrin nr. 57, datë 13.3.2024, “Për miratimin e rregullores për përcaktimin e rregullave zbatuese të vlefshmërisë ajrore dhe të certifikimit mjedisor ose deklaratën e përputhshmërisë së avionit dhe produkteve të lidhura me to, pjesëve dhe pajisjeve, si dhe kërkesat e aftësisë së organizatave të projektimit dhe prodhimit”, ku UAS-ja përmbush kushtet e përcaktuara në nenin 19, pika 1(d), të urdhrit nr. 114, datë 6.6.2022, “Për miratimin e rregullores për sistemet e avionëve pa pilot dhe operatorët e sistemeve të avionëve pa pilot” dhe UA-ja nuk përmbush, ose nuk është provuar se përmbush, kërkesat përkatëse të vlefshmërisë ajrore.
 5. Me marrjen e deklaratës së përmendur në pikën 5, të nenit 5 të kësaj rregulloreje, AAC-ja:
 a) verifikon që ai përmban të gjitha elementet e përcaktuara në paragrafin 2, të pikës UAS.SPEC.020 të aneksit;
 b) nëse është në këtë rast, i siguron operatorit UAS një konfirmim të marrjes dijeni dhe plotësueshmërisë, pa asnjë vonesë të panevojshme, në mënyrë që operatori të fillojë operimin.
@@ -295,6 +305,7 @@ Informacioni mbi sigurinë në operim
 3. AAC-ja mbledh, analizon dhe publikon informacionin e sigurisë në operim, në lidhje me operimet e UAS-së në RSH, në përputhje me nenin 72, të VKM-së nr. 1095, datë 24.12.2020, “Për miratimin e kërkesave thelbësore në fushën e aviacionit civil” dhe akteve të tij zbatuese.
 4. Pas marrjes së ndonjë prej informacioneve të përmendura në paragrafët 1, 2 ose 3, AAC-ja merr masat e nevojshme për të adresuar çdo çështje sigurie teknike për provat dhe analizat më të mira në dispozicion, duke marrë parasysh ndërvarësitë midis fushave të ndryshme të sigurisë teknike në aviacion, dhe midis sigurisë teknike të aviacionit, sigurisë në internet dhe fushat e tjera teknike të rregulloreve të aviacionit.
 5. Aty ku AAC-ja merr masa në përputhje me paragrafin 4, ai menjëherë duhet të njoftojë të gjitha palët dhe organizatat e interesuara përkatëse që duhet të zbatojnë ato masa në përputhje me VKM-në nr. 1095, datë 24.12.2020, dhe aktet e saj zbatuese.
+6. Pavarësisht urdhrit nr. 89, datë 5.5.2022, “Për miratimin e rregullores për raportimin dhe ndjekjen e ngjarjeve në aviacionin civil në Republikën e Shqipërisë”, operatori UAS i një avioni pa pilot, dizajni i të cilit është i certifikuar, duhet t’i raportojë mbajtësit të miratimit të projektimit të UAS-së ose të komponentit të UAS-së çdo ngjarje ose gjendje të lidhur me sigurinë në operim të UAS-së ose të komponentit të UAS-së të identifikuar nga organizata. Në veçanti, operatori i UAS-së duhet të raportojë çdo aksident ose incident serioz që përfshin UAS-në ose komponentin e UAS-së, i cili rrezikon ose, nëse nuk korrigjohet apo trajtohet siç duhet, mund të rrezikojë sigurinë në operim të UAS-së ose të çdo personi fizik apo juridik.
 Neni 20
 Dispozita të veçanta në lidhje me përdorimin e disa UAS-ve në llojet e kategorive ’e hapur’
 Llojet UAS brenda kuptimit të ligjit nr. 10489, “Për tregtimin dhe mbikëqyrjen e tregut të produkteve joushqimore”, të ndryshuar, të cilat nuk përputhen me rregulloren e miratuar me urdhrin e përbashkët nr. 114, datë 6.6.2022, “Për miratimin e rregullores për Sistemet e Avionëve pa Pilot dhe Operatorët e Sistemeve të Avionëve pa Pilot” dhe të cilat nuk janë ndërtuar privatisht, lejohen të vazhdojnë të operohen nën kushtet e mëposhtme, kur ato janë vendosur në treg para datës 1 janar 2024:
@@ -335,7 +346,7 @@ Operimet UAS në nënkategorinë A1 duhet të jenë në përputhje me të gjitha
 3. Duke u shmangur nga pika “d”, e paragrafit 1, të nenit 4, të kryhen, kur mënyra “më ndiq mua” është aktive, deri në një distancë prej 50 metra nga piloti në distancë.
 4. Kryhen nga një pilot në distancë:
 a) i familjarizuar me manualin e përdoruesit të siguruar nga prodhuesi i UAS-së;
-b) në rastin e një klase avionësh pa pilot C1, siç përcaktohet në pjesën 2, të aneksit të rregullores së miratuar me urdhrin e përbashkët nr. 114, datë 6.6.2022, “Për miratimin e rregullores për Sistemet e Avionëve pa Pilot dhe Operatorët e Sistemeve të Avionëve pa Pilot”, i cili ka përfunduar një kurs trajnimi online, i ndjekur nga përfundimi me sukses i një provimi online të njohurive teorike, i kryer nga AAC-ja ose nga një subjekt i njohur nga autoriteti kompetent i vendit tonë ose i shtetit anëtar të regjistrimit të operatorit UAS, sipas përcaktimeve të marrëveshjes shumëpalëshe, kur është e zbatueshme dhe që ka marrë të paktën 70 % të të gjitha pikëve. Provimi do të përfshijë 40 pyetje me zgjedhje të shumëfishta, të shpërndara në mënyrë të përshtatshme në të gjitha lëndët vijuese:
+b) në rastin e një klase avionësh pa pilot C1, siç përcaktohet në pjesën 2 të aneksit të rregullores së miratuar me urdhrin e përbashkët nr. 114, datë 6.6.2022, ka përfunduar një kurs trajnimi online, i ndjekur nga përfundimi me sukses i një provimi online të njohurive teorike, të kryer nga AAC-ja ose nga një subjekt i njohur/përcaktuar nga AAC-ja ose shtetit anëtar të regjistrimit të operatorit UAS, sipas përcaktimeve të marrëveshjes shumëpalëshe, duke arritur të paktën 75% të pikëve totale. Provimi do të përfshijë 40 pyetje me zgjedhje të shumëfishta, të shpërndara në mënyrë të përshtatshme në të gjitha lëndët vijuese:
 i. siguria në operim (air safety);
 ii. kufizimet e hapësirës ajrore;
 iii. rregullorja e aviacionit;
@@ -518,8 +529,12 @@ Deklarimi operacional do të ketë një kohëzgjatje të kufizuar prej 2 vjetës
 UAS.SPEC.090 Aksesi
 Për qëllim të demonstrimit të pajtueshmërisë me këtë rregullore, një operator UAS-je i jep çdo personi tё autorizuar, siç duhet nga AAC-ja, një akses në çdo strukturë, fasilitet, UAS, dokument, regjistrime, të dhëna, procedura ose ndonjë material tjetër të rëndësishëm për veprimtarinë e tij, e cila është subjekt i autorizimit operacional ose deklaratës operacionale, pavarësisht nëse veprimtaria e tij është kontraktuar ose nënkontraktuar në një organizatë tjetër.
 UAS.SPEC.100 Përdorimi i pajisjeve të certifikuara dhe avionëve të certifikuar pa pilot
-1. Nëse operacioni UAS është duke përdorur një avion pa pilot për të cilin është lëshuar një certifikatë e vlefshmërisë ajrore ose një certifikatë e kufizuar e vlefshmërisë ajrore, ose është duke përdorur pajisje të certifikuar, operatori UAS regjistron operimin ose kohën e shërbimit, në përputhje me udhëzimet dhe procedurat e zbatueshme për pajisjet e certifikuara ose me miratimin, ose autorizimin organizativ.
-2. Operatori UAS duhet të ndjek udhëzimet e përmendura në certifikatën e avionit pa pilot ose në certifikatën e pajisjes, dhe gjithashtu duhet të përputhet me direktivat e vlefshmërisë ajrore ose operative të lëshuara nga EASA, e të pranuara e publikuara nga AAC-ja.
+1. Kur operatori i UAS-së përdor një avion pa pilot për të cilin është lëshuar një certifikatë e vlefshmërisë ajrore ose një certifikatë e kufizuar e vlefshmërisë ajrore, operatori i UAS-së duhet të sigurojë që sistemi i avionit pa pilot të jetë në përputhje me “Rregulloren mbi rregullat e detajuara për vazhdueshmërinë e vlefshmërisë ajrore të sistemeve të certifikuara të avionëve pa pilot dhe komponentëve të tyre, si dhe mbi miratimin e organizatave dhe personelit të përfshirë në këto detyra”, që përafron Rregulloren e deleguar të Komisionit Evropian 2024/1107, kur të jetë e zbatueshme në legjislacionin e brendshëm.
+2. Kur operatori i UAS-së përdor pajisje të certifikuara në një avion pa pilot, për të cilin nuk është lëshuar as certifikatë e vlefshmërisë ajrore dhe as certifikatë e kufizuar e vlefshmërisë ajrore, operatori i UAS-së duhet të kryejë të gjitha detyrat e mëposhtme:
+i. të regjistrojë operimin ose kohën e shërbimit, në përputhje me udhëzimet ose procedurat e zbatueshme për pajisjen(t) e certifikuara;
+ii. të ndjekë udhëzimet e përmendura në certifikatën e pajisjeve, dhe, gjithashtu, të përmbushë çdo direktivë të zbatueshme të vlefshmërisë ajrore të lëshuar nga EASA, e të pranuar dhe publikuar nga AAC-ja;
+iii. të zbatojnë çdo masë të sigurisë në operim të vendosur nga AAC-ja në përputhje me nenin 19(4);
+iv. të përdorë çdo informacion të rëndësishëm të detyrueshëm për sigurinë, të lëshuar nga EASA-ja, e të pranuar dhe publikuar nga AAC-ja.
 PJESA C
 CERTIFIKATA E LEHTËSUAR E OPERATORIT UAS (LUC)
 UAS.LUC.010 Kërkesa të përgjithshme për një LUC
@@ -669,7 +684,7 @@ b) për qëllimet e pikës “a”, mund të ndihmohet nga një vëzhgues avioni
 c) do të ketë aftësinë për të mbajtur kontrollin e avionit pa pilot, me përjashtim të rastit të lidhjes së humbur të komandës dhe kontrollit (C2);
 d) do të operojë vetëm një avion pa pilot në të njëjtën kohë;
 e) nuk do të operojë avionin pa pilot nga një mjet në lëvizje;
-f) nuk do t’ia dorëzojë kontrollin e avionit pa pilot një njësie tjetër komanduese;
+f) nuk duhet t’ia dorëzojë kontrollin e avionit pa pilot një CMU-je tjetër;
 g) do të kryejë procedurat e emergjencës, të përcaktuara nga operatori UAS për situata jonormale, duke përfshirë kur piloti në distancë ka një tregues se avioni pa pilot mund të tejkalojë kufijtë e gjeografisë së fluturimit; dhe
 h) do të kryejë procedurat e emergjencës të përcaktuara nga operatori UAS për situatat emergjente, duke përfshirë aktivizimin e mjeteve për të përfunduar fluturimin kur piloti në distancë ka një tregues se avioni pa pilot mund të tejkalojë kufijtë e vëllimit operacional.
 SHTOJCA A
@@ -839,7 +854,7 @@ a) nëse nuk mbështetet nga vëzhguesit e hapësirës ajrore, të mbajë një s
 b) të ketë aftësinë për të mbajtur kontrollin e avionit pa pilot, me përjashtim të rastit të lidhjes së humbur të komandës dhe kontrollit (C2);
 c) të operojë vetëm një avion pa pilot në të njëjtën kohë;
 d) të mosoperojë avionin pa pilot nga një mjet në lëvizje;
-e) të mos ia dorëzojë kontrollin e avionit pa pilot një njësie tjetër komanduese;
+e) nuk duhet t’ia dorëzojë kontrollin e avionit pa pilot një CMU-je tjetër;
 f) të informojë në kohën e duhur vëzhguesin(ët) e hapësirës ajrore, kur është i punësuar, për çdo devijim të avionit pa pilot nga rruga e synuar dhe kohën përkatëse;
 g) të kryejë procedurat e emergjencës të përcaktuara nga operatori UAS për situata jonormale, duke përfshirë kur piloti në distancë ka tregues se avioni pa pilot mund të tejkalojë kufijtë e gjeografisë së fluturimit;
 h) të kryejë procedurat e urgjencës të përcaktuara nga operatori UAS për situata emergjente, duke përfshirë aktivizimin e mjeteve për të përfunduar fluturimin kur piloti në distancë ka një tregues se avioni pa pilot mund të kalojë kufijtë e vëllimit operacional.
