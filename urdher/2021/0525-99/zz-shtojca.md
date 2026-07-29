@@ -862,6 +862,1364 @@ Punëtorë të shpimeve dhe të tjerë që lidhen me to
 8113
 4
 (Ndryshimet e shtojcës 1 me urdhrin nr. 289, datë 29.12.2022)
+Shtojca 1.2: Katalogu Kombëtar i Kualifikimeve Profesionale - 2026
+(Ndryshimet e Katalogut Kombëtar të kualifikimeve Profesionale të miratuara me urdhër nr. 305, datë 20.7.2026)
+Katalogu Kombëtar i Kualifikimeve Profesionale - 2026
+Nr.
+Varianti i mëparshëm i kualifikimit profesional
+Kodi i kualifikimit profesional dhe i njësive të të nxënit
+Emërtimi i kualifikimeve
+Emërtimi i njësive të të nxënit
+Lloji i kualifikimit profesional
+Profesionet LKP
+Lidhja me kodet e LKP/ISCO
+Kualifikim i plotë/pjesshëm
+Niveli në KSHK
+1
+A6-III-26
+Teknologji e përpunimit të brumërave
+Program 3 vite për punonjës të kualifikuar
+PUNONJËS PËR PRODUKTE BRUMI
+7513
+I plotë
+3
+1-a
+NjN-01-III-0476-26
+Kimi analitike dhe ushqimore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-b
+NjN-01-III-0477-26
+Mikrobiologji ushqimore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-c
+NjN-01-III-0478-26
+Bazat e të ushqyerit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-d
+NjN-01-III-0479-26
+Cilësia dhe siguria ushqimore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-e
+NjN-01-III-0480-26
+Ruajtja dhe konservimi i produkteve ushqimore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-f
+NjN-01-III-0481-26
+Prodhimi i produkteve dietike të brumit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-g
+NjN-01-III-0482-26
+Rregullat e higjienës personale, sigurisë në punë dhe mbrojtjes së mjedisit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-h
+NjN-01-III-0483-26
+Proceset dhe aparatet në industrinë ushqimore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-i
+NjN-01-III-0484-26
+Planifikimi dhe organizimi i punës në teknologjinë e përpunimit të brumërave
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-j
+NjN-01-III-0485-26
+Prodhimi i miellit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-k
+NjN-01-III-0486-26
+Prodhimi i bukës
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-l
+NjN-01-III-0487-26
+Prodhimi i makaronave
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-m
+NjN-01-III-0488-26
+Prodhimi i asortimenteve të kripura
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-n
+NjN-01-III-0489-26
+Prodhimi i asortimenteve të ëmbla
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-o
+NjN-01-III-0490-26
+Prodhimi i petëve dhe produkteve tradicionale
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-p
+NjN-01-III-0491-26
+Menaxhimi i mbetjeve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+1-q
+NjN-24-III-0492-26
+Sipërmarrje, komunikim dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+2
+A1-V-14
+A1-V-26
+Kontroll laboratorik i ushqimit
+Program pas i mesëm 1-vjeçar studimi
+Laborant të produkteve ushqimore
+3119.03
+I plotë
+5
+2-a
+NjN-01-V -0459-26
+Njohuri bazë mbi teknologjinë e prodhimit të produkteve ushqimore dhe laboratorit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+2-b
+NjN-01-V -0460-26
+Planifikimi dhe organizimi i punës në kontrollin laboratorik të ushqimit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+2-c
+NjN-01-V -0461-26
+Mjetet dhe pajisjet e punës në një laborator
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+2-d
+NjN-01-V -0462-26
+Pranimi i mostrës në laboratorë sipas llojit të produktit ushqimor
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+2-e
+NjN-01-V -0463-26
+Analizimi i mostrës në laboratorë sipas llojit të produktit ushqimor
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+2-f
+NjN-01-V -0464-26
+Sigurimi i cilësisë në laboratorë të produktit ushqimor
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+2-g
+NjN-23-V-0111-24
+Sipërmarrje dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+2-h
+NjN-22-V-0130-24
+Komunikimi dhe etika profesionale
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+2-i
+NjN-01-V -0465-26
+Siguria në punë dhe mbrojtja e mjedisit në laboratorë
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+3
+C3-III-26
+Mobilieri dhe tapiceri
+Program 3 vite për punonjës të kualifikuar
+Mobilier - Tapicier
+7522.06/7522.28
+I plotë
+3
+3-a
+NjN-03-III-0552-26
+Klasifikimi dhe dizajni i mobilieve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+3-b
+NjN-03-III-0553-26
+Parapërgatitja për prodhimin e produktit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+3-c
+NjN-03-III-0554-26
+Planifikimi dhe organizimi i vendit të punës në mobilieri dhe tapiceri
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+3-d
+NjN-03-III-0555-26
+Materialet për prodhimin e mobilieve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+3-e
+NjN-03-III-0556-26
+Mjetet, pajisjet dhe teknikat e përdorimit të tyre
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+3-f
+NjN-03-III-0557-26
+Makineritë dhe përdorimi i tyre
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+3-g
+NjN-03-III-0558-26
+Teknologjia e prodhimit të mobilieve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+3-h
+NjN-03-III-0559-26
+Punime të strukturës mbajtëse dhe të pjesës së butë në mobiliet e tapicuara
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+3-i
+NjN-03-III-0560-26
+Riparimi i defekteve dhe restaurimi i mobilieve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+3-j
+NjN-24-III-0492-26
+Sipërmarrje, komunikim dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+3-k
+NjN-03-III-0561-26
+Siguria në punë dhe mbrojtja e mjedisit në mobilieri dhe tapiceri
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4
+D5-III-26
+Rrobaqepësi
+Program 3 vite për punonjës të kualifikuar
+Rrobaqepës
+7531
+I plotë
+3
+4-a
+NjN-04-III-0574-26
+Estetika e veshjes
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4-b
+NjN-04-III-0575-26
+Planifikimi dhe organizimi i punës në rrobaqepësi
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4-c
+NjN-04-III-0576-26
+Mjetet, pajisjet e punës dhe përdorimi i tyre në rrobaqepësi
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4-d
+NjN-04-III-0577-26
+Materialet tekstile
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4-e
+NjN-04-III-0578-26
+Vizatimi i modeleve të thjeshta
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4-f
+NjN-04-III-0579-26
+Bazat e prerjes
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4-g
+NjN-04-III-0580-26
+Bazat e qepjes
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4-h
+NjN-04-III-0581-26
+Teknikat e qepjes së veshjeve bazë për gra
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4-i
+NjN-04-III-0582-26
+Teknikat e qepjes së veshjeve bazë për burra
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4-j
+NjN-04-III-0583-26
+Teknikat e qepjes së veshjeve bazë për fëmijë
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4-k
+NjN-04-III-0584-26
+Aksesorët dhe dekorimi i veshjeve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4-l
+NjN-24-III-0492-26
+Sipërmarrje, komunikim dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+4-m
+NjN-04-III-0585-26
+Siguria në punë dhe mbrojtja e mjedisit në rrobaqepësi
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5
+E9-III-26
+Instalime elektrike civile dhe industriale
+Program 3 vite për punonjës të kualifikuar
+Elektricist në banesa dhe të tjerë të ngjashëm
+7411
+I plotë
+3
+5-a
+NjN-05-III-0504-26
+Planifikimi dhe organizimi i punës në instalimet elektrike civile dhe industriale
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-b
+NjN-05-III-0505-26
+Bazat e elektroteknikës në instalime civile dhe industriale
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-c
+NjN-05-III-0506-26
+Teknologjia elektrike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-d
+NjN-05-III-0507-26
+Matje elektrike dhe elektronike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-e
+NjN-05-III-0508-26
+Vizatim teknik në instalime civile dhe industriale
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-f
+NjN-05-III-0509-26
+Furnizimi dhe shpërndarja e energjisë elektrike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-g
+NjN-05-III-0510-26
+Teknika e sigurimit në impiantet elektrike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-h
+NjN-05-III-0511-26
+Bazat e elektronikës në instalime civile dhe industriale
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-i
+NjN-05-III-0512-26
+Proceset e automatizuara
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-j
+NjN-05-III-0513-26
+Makinat elektrike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-k
+NjN-05-III-0514-26
+Prodhimi i energjisë elektrike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-l
+NjN-05-III-0515-26
+Impiante elektrike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-m
+NjN-05-III-0516-26
+Mirëmbajtje dhe riparime të impiantit elektrik
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-n
+NjN-24-III-0492-26
+Sipërmarrje, komunikim dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+5-o
+NjN-05-III-0517-26
+Siguria në punë dhe mbrojtja e mjedisit në instalime civile dhe industriale
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6
+E10-III-26
+Instalime dhe mirëmbajtje të linjave të tensionit të ulët, tensionit të mesëm dhe tensionit të lartë
+Program 3 vite për punonjës të kualifikuar
+Instalues dhe mirëmbajtës i linjave të tensionit të ulët, të mesëm dhe të lartë
+7413
+I plotë
+3
+6-a
+NjN-05-III-0493-26
+Bazat e elektroteknikës në TU, TM dhe TL
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6-b
+NjN-05-III-0494-26
+Sistemi energjetik
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6-c
+NjN-05-III-0495-26
+Vizatimi teknik në sistemin elektrik
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6-d
+NjN-05-III-0496-26
+Pajisjet, mjetet dhe materialet e punës në TU, TM dhe TL
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6-e
+NjN-05-III-0497-26
+Instalimi i rrjetit të tensionit të ulët dhe të mesëm
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6-f
+NjN-05-III-0498-26
+Instalimi i rrjetit të linjave të tensionit të lartë
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6-g
+NjN-05-III-0499-26
+Instalimi i rrjetit të tensionit të lartë në nënstacionin elektrik
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6-h
+NjN-05-III-0500-26
+Instalimi i kabinës elektrike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6-i
+NjN-05-III-0501-26
+Sistemi i matjes së energjisë elektrike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6-j
+NjN-05-III-0502-26
+Mirëmbajtja e rrjetit të TU-TM-TL
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6-k
+NjN-24-III-0492-26
+Sipërmarrje, komunikim dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6-l
+NjN-05-III-0503-26
+Siguria në punë dhe mbrojtja e mjedisit në TU, TM dhe TL
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+7
+G4-V-26
+Shërbime mikpritjeje dhe turizmi
+Program pas i mesëm 1-vjeçar studimi
+Menaxher në agjenci udhëtimi
+1439.01/4224.07
+I plotë
+5
+7-a
+NjN-07-V-0630-26
+Planifikimi dhe organizimi i punës në shërbime mikpritje dhe turizmi
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+7-b
+NjN-07-V-0631-26
+Studimi i tregut dhe marketingu
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+7-c
+NjN-07-V-0632-26
+Blerja dhe shitja për ofrimin e shërbimeve të mikpritjes dhe turizmit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+7-d
+NjN-07-V-0633-26
+Krijimi i produkteve dhe paketave për shërbimet e mikpritjes dhe turizmit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+7-e
+NjN-07-V-0634-26
+Turizmi i qëndrueshëm në shërbimet e mikpritjes dhe turizmit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+7-f
+NjN-07-V-0635-26
+Menaxhimi i riskut në shërbimet e mikpritjes dhe turizmit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+7-g
+NjN-23-V-0111-24
+Sipërmarrja dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+7-h
+NjN-22-V-0130-24
+Komunikimi dhe etika profesionale
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+5
+8
+L/4-IV-26
+Administrim zyre
+Program 4-vjeçar studimi për teknik/menaxher i mesëm
+Nëpunës zyre
+4110
+I plotë
+4
+8-a
+NjN-11-IV-0466-26
+Planifikimi dhe organizimi i ndërmarrjes
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+8-b
+NjN-11-IV-0467-26
+Bazat e së drejtës
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+8-c
+NjN-11-IV-0468-26
+Bazat e ekonomisë
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+8-d
+NjN-11-IV-0469-26
+Administrimi i korrespondencës
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+8-e
+NjN-11-IV-0470-26
+Shkrimi dhe administrimi i dokumenteve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+8-f
+NjN-11-IV-0471-26
+Bazat e logjistikës
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+8-g
+NjN-11-IV-0472-26
+Organizimi i veprimtarive
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+8-h
+NjN-11-IV-0473-26
+Administrimi i bazës së të dhënave
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+8-i
+NjN-11-IV-0474-26
+Garantimi i cilësisë së veprimtarive
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+8-j
+NjN-22-IV-0006-24
+Komunikimi dhe etika profesionale
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+8-k
+NjN-11-IV-0475-26
+Siguria në punë dhe mbrojtja e mjedisit në administrim zyre
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+9
+M8-III-26
+Mekanikë bujqësore
+Program 3 vite për punonjës të kualifikuar
+Mekanik për makineri bujqësore
+7233.03
+I plotë
+3
+9-a
+NjN-12-III-0536-26
+Makineritë bujqësore, pajisjet ndihmëse dhe ndërtimi i tyre
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-b
+NjN-12-III-0537-26
+Skemat kinematike, hidraulike, pneumatike, elektrike, elektronike në mjetet bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-c
+NjN-12-III-0538-26
+Bazat e mekanikës për mjetet bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-d
+NjN-12-III-0539-26
+Bazat e elektroteknikës për mjetet bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-e
+NjN-12-III-0540-26
+Planifikimi dhe organizimi i punës në mekanikën bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-f
+NjN-12-III-0541-26
+Diagnostikim i parregullsive në sistemet e makinerive bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-g
+NjN-12-III-0542-26
+Punime saldimi dhe axhusterie në makineritë bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-h
+NjN-12-III-0543-26
+Punime në motorët e makinerive bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-i
+NjN-12-III-0544-26
+Punime në sistemin e transmetimit të fuqisë në makineritë bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+6-j
+NjN-12-III-0545-26
+Punime në sistemin e drejtimit të makinerive bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-k
+NjN-12-III-0546-26
+Punime në sistemin e frenimit të makinerive bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-l
+NjN-12-III-0547-26
+Punime në sistemin e varjes dhe të ecjes së makinerive bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-m
+NjN-12-III-0548-26
+Punime në sistemin hidraulik dhe pneumatik të makinerive bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-n
+NjN-12-III-0549-26
+Punime në sistemet elektrike dhe elektronike në makineritë bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-o
+NjN-12-III-0550-26
+Punime në pajisjet ndihmëse të makinerive bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-p
+NjN-24-III-0492-26
+Sipërmarrje, komunikim dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+9-q
+NjN-12-III-0551-26
+Siguria në punë dhe mbrojtja e mjedisit në mekanikën bujqësore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+10
+M/1-IV-26
+Riparime dhe mirëmbajtje automjetesh
+Program 4-vjeçar studimi për teknik/menaxher i mesëm
+Riparues dhe mirëmbajtës të automjeteve
+7231
+I plotë
+4
+10-a
+NjN-12-IV-0518-26
+Planifikimi dhe organizimi i punës në riparimin dhe mirëmbajtjen e automjeteve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-b
+NjN-12-IV-0519-26
+Vizatim teknik në shërbime mjetesh transporti
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-c
+NjN-12-IV-0520-26
+Njohuri për mjetet e transportit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-d
+NjN-12-IV-0521-26
+Bazat e mekanikës
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-e
+NjN-12-IV-0522-26
+Shërbime mirëmbajtjeje në automjete
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-f
+NjN-12-IV-0523-26
+Diagnostikimi i automjeteve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-g
+NjN-12-IV-0524-26
+Shërbime me motorët e automjeteve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-h
+NjN-12-IV-0525-26
+Shërbime në sistemet e furnizimit me ajër dhe shkarkimit të produkteve të djegies së motorit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-i
+NjN-12-IV-0526-26
+Shërbime në sistemin e transmetimit të fuqisë dhe lëvizjes në automjete
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-j
+NjN-12-IV-0527-26
+Shërbime në sistemin e frenimit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-k
+NjN-12-IV-0528-26
+Shërbime në sistemin e drejtimit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-l
+NjN-12-IV-0529-26
+Shërbime në sistemin e varjes (sospensioni) dhe të ecjes
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-m
+NjN-12-IV-0530-26
+Shërbime në sistemet elektrike dhe elektronike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-n
+NjN-12-IV-0531-26
+Shërbime në sistemin e sigurisë aktive dhe pasive
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-o
+NjN-12-IV-0532-26
+Shërbime në sistemet ndihmëse
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-p
+NjN-12-IV-0533-26
+Sistemi i ftohjes dhe i ngrohjes (HVAC) në kabinën e automjete
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-q
+NjN-12-IV-0534-26
+Siguria në punë dhe mbrojtja e mjedisit në riparimin dhe mirëmbajtjen e automjeteve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+10-r
+NjN-24-IV-0535-26
+Sipërmarrje, komunikim dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11
+M/2-IV-26
+Shërbime në automjete elektrike dhe hibride
+Program 4-vjeçar studimi për teknik/menaxher i mesëm
+Riparues dhe mirëmbajtës i automjeteve elektrike dhe hibride
+7231
+I plotë
+4
+11-a
+NjN-12-IV-0618-26
+Planifikimi dhe organizimi i punës për shërbime në automjetet elektrike dhe hibride
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-b
+NjN-12-IV-0519-26
+Vizatim teknik në shërbime mjetesh transporti
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-c
+NjN-12-IV-0520-26
+Njohuri për mjetet e transportit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-d
+NjN-12-IV-0521-26
+Bazat e mekanikës
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-e
+NjN-12-IV-0619-26
+Njohuri mbi automjetet elektrike dhe hibride
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-f
+NjN-12-IV-0620-26
+Sistemet e tensionit të lartë dhe shërbimet e tyre në automjete elektrike dhe hibride
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-g
+NjN-12-IV-0621-26
+Sistemi i menaxhimit të ruajtjes dhe kontrollit të energjisë elektrike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-h
+NjN-12-IV-0622-26
+Sistemet e ftohjes dhe ngrohjes në automjete elektrike dhe hibride
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-i
+NjN-12-IV-0522-26
+Shërbime mirëmbajtjeje në automjete
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-j
+NjN-12-IV-0623-26
+Diagnostikimi i automjeteve elektrike dhe hibride
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-k
+NjN-12-IV-0624-26
+Shërbime në motorët me djegie të brendshme të automjeteve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-l
+NjN-12-IV-0525-26
+Shërbime në sistemet e furnizimit me ajër dhe shkarkimit të produkteve të djegies së motorit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-m
+NjN-12-IV-0526-26
+Shërbime në sistemin e transmetimit të fuqisë dhe lëvizjes në automjete
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-n
+NjN-12-IV-0625-26
+Shërbime në sistemin e frenimit në automjetet elektrike dhe hibride
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-o
+NjN-12-IV-0528-26
+Shërbime në sistemin e drejtimit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-p
+NjN-12-IV-0529-26
+Shërbime në sistemin e varjes (sospensioni) dhe të ecjes
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-q
+NjN-12-IV-0626-26
+Sistemi i prodhimit dhe transmetimit të fuqisë në komponentët e tensionit të lartë tek automjetet elektrike dhe hibride
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-r
+NjN-12-IV-0627-26
+Shërbime në sistemet elektrike dhe elektronike, si dhe në sistemet e tjera të tensionit të ulët në automjetet EV dhe HEV
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-s
+NjN-12-IV-0531-26
+Shërbime në sistemin e sigurisë aktive dhe pasive
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-t
+NjN-12-IV-0532-26
+Shërbime në sistemet ndihmëse
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-y
+NjN-12-IV-0628-26
+Shërbime në sistemin AC në automjete elektrike dhe hibride
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-u
+NjN-24-IV-0535-26
+Sipërmarrje dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+11-v
+NjN-12-IV-0629-26
+Siguria në punë dhe mbrojtja e mjedisit për shërbime në automjete elektrike dhe hibride
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+12
+T/5-IV-26
+Rrjete të dhënash dhe sisteme kompjuterike
+Program 4-vjeçar studimi për teknik/menaxher i mesëm
+Teknikë të rrjetit kompjuterik dhe sistemeve
+3513
+I plotë
+4
+12-a
+NjN-19-IV-0562-26
+Bazat e TIK-ut në rrjete të dhënash dhe sisteme kompjuterike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+12-b
+NjN-19-IV-0563-26
+Programim në rrjeta
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+12-c
+NjN-19-IV-0564-26
+Sistemet kompjuterike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+12-d
+NjN-19-IV-0565-26
+Planifikimi dhe organizimi i punës në rrjete të dhënash dhe sisteme kompjuterike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+12-e
+NjN-19-IV-0566-26
+Identifikimi i infrastrukturës së rrjetit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+12-f
+NjN-19-IV-0567-26
+Instalimi dhe konfigurimi i rrjetit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+12-g
+NjN-19-IV-0568-26
+Mirëmbajte dhe riparime të rrjeteve dhe sistemeve kompjuterike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+12-h
+NjN-19-IV-0569-26
+Siguria kibernetike në rrjete të dhënash dhe sisteme kompjuterike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+12-i
+NjN-19-IV-0570-26
+Dokumenti i punës në rrjet dhe në sisteme
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+12-j
+NjN-19-IV-0571-26
+Administrimi i sistemeve kompjuterike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+12-k
+NjN-25-IV-0572-26
+Sipërmarrje, komunikim, edukim për të drejtat në mjedisin digjital dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+12-l
+NjN-19-IV-0573-26
+Siguria në punë dhe mbrojtja e mjedisit në rrjete të dhënash dhe sisteme kompjuterike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+4
+13
+V4-III-26
+Instalime hidraulike
+Program 3 vite për punonjës të kualifikuar
+Hidraulikë në banesa
+7126
+I plotë
+3
+13-a
+NjN-20-III-0598-26
+Bazat e hidraulikës
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+13-b
+NjN-20-III-0599-26
+Planifikimi dhe organizimi i punës për instalimet hidraulike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+13-c
+NjN-20-III-0600-26
+Njohuri për ndërtesat
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+13-d
+NjN-20-III-0601-26
+Vizatim teknik në termohidraulikë
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+13-e
+NjN-20-III-0602-26
+Punime përgatitore për instalimet hidraulike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+13-f
+NjN-20-III-0603-26
+Teknologjia e materialeve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+13-g
+NjN-20-III-0604-26
+Mirëmbajtje dhe riparime hidraulike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+13-h
+NjN-20-III-0605-26
+Sisteme me panele diellore
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+13-i
+NjN-20-III-0606-26
+Instalime rrjetesh hidraulike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+13-j
+NjN-20-III-0607-26
+Instalim pajisjesh hidro-sanitare
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+13-k
+NjN-20-III-0608-26
+Siguria në punë dhe mbrojtja e mjedisit në instalimet hidraulike
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+13-l
+NjN-24-III-0492-26
+Sipërmarrje, komunikim dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14
+V5-III-26
+Instalime të sistemeve ngrohëse-ftohëse
+Program 3 vite për punonjës të kualifikuar
+Instalues i sistemeve ftohëse- ngrohëse
+7127
+I plotë
+3
+14-a
+NjN-20-III-0609-26
+Bazat e termohidraulikës
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14-b
+NjN-20-III-0601-26
+Vizatim teknik në termohidraulikë
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14-c
+NjN-20-III-0610-26
+Planifikimi dhe organizimi i punimeve për instalimin e sistemeve ngrohëse- ftohëse
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14-d
+NjN-20-III-0600-26
+Njohuri për ndërtesat
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14-e
+NjN-20-III-0611-26
+Punime përgatitore për instalimin e sistemeve ngrohëse-ftohëse
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14-f
+NjN-20-III-0612-26
+Sistemet e ngrohjes
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14-g
+NjN-20-III-0613-26
+Sistemet e ajrit të kondicionuar (HVAC)
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14-h
+NjN-20-III-0614-26
+Sistemet e ventilimit
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14-i
+NjN-20-III-0615-26
+Instalimi i pajisjeve të brendshme të sistemeve ngrohëse-ftohëse
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14-j
+NjN-20-III-0616-26
+Mirëmbajtje dhe riparime të sistemeve ngrohëse-ftohëse
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14-k
+NjN-20-III-0603-26
+Teknologjia e materialeve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14-l
+NjN-24-III-0492-26
+Sipërmarrje, komunikim dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+14-m
+NjN-20-III-0617-26
+Siguria në punë dhe mbrojtja e mjedisit në instalimin e sistemeve ngrohëse-ftohëse
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15
+V6-III-26
+Shërbime hidraulike në ujësjellës-kanalizime
+Program 3 vite për punonjës të kualifikuar
+Hidraulik në ujësjellës-kanalizime
+7126
+I plotë
+3
+15-a
+NjN-20-III-0586-26
+Bazat e hidraulikës në ujësjellës-kanalizime
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15-b
+NjN-20-III-0587-26
+Bazat e topografisë
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15-c
+NjN-20-III-0588-26
+Materialet në hidraulikë
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15-d
+NjN-20-III-0589-26
+Mjetet, veglat, pajisjet dhe makineritë e punës në hidraulikë
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15-e
+NjN-20-III-0590-26
+Planifikimi dhe organizimi i punës në ujësjellës-kanalizime
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15-f
+NjN-20-III-0591-26
+Operimi dhe mirëmbajtja e sistemit të furnizimit me ujë dhe hidrantëve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15-g
+NjN-20-III-0592-26
+Instalimi i sistemit të furnizimit me ujë dhe hidrantëve
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15-h
+NjN-20-III-0593-26
+Operimi dhe mirëmbajtja e rrjetit të kanalizimeve të ujërave të ndotura
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15-i
+NjN-20-III-0594-26
+Instalimi i rrjetit të kanalizimeve të ujërave të ndotura
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15-j
+NjN-20-III-0595-26
+Operimi dhe mirëmbajtja e rrjetit të ujërave të shiut
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15-k
+NjN-20-III-0596-26
+Instalimi i rrjetit të kanalizimeve të ujërave të shiut
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15-l
+NjN-24-III-0492-26
+Sipërmarrje, komunikim dhe edukim karriere
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
+15-m
+NjN-20-III-0597-26
+Siguria në punë dhe mbrojtja e mjedisit në ujësjellës-kanalizime
+Kualifikim i të nxënit gjatë të gjithë jetës
+I pjesshëm
+3
 (Ndryshimet e shtojcës 1 me urdhrin nr. 645, datë 28.8.2024)
 SHTOJCA 1
 NDRYSHIMET NË KATALOGUN KOMBËTAR TË KUALIFIKIMEVE 2024
