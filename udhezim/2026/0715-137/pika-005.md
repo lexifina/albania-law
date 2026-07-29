@@ -1,0 +1,3 @@
+5. Specialisti i migracionit që trajton rastin, brenda 1 (një) dite pune, vlerëson aplikimin dhe komunikon me aplikantin nëpërmjet postës elektronike të portalit qeveritar (FER - aplikime online), sipas rasteve, si vijon:
+a) nëse konstaton se informacioni apo dokumentacioni i ngarkuar nga aplikanti është i paplotë, njofton të huajin për mangësitë e konstatuara dhe i kërkon plotësimin dhe ngarkimin e tyre online në portalin unik qeveritar e-Albania, tek opsioni “Dokumentacion plotësues”, brenda 30 (tridhjetë) ditëve kalendarike;
+b) nëse konstaton se nuk janë përmbushur kriteret ligjore, njofton aplikantin mbi refuzimin e kërkesës për mospërmbushje të kritereve ligjore.
