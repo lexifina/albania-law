@@ -1,0 +1,1 @@
+1. Miratimin e Planit Kombëtar të Veprimit për adresimin e varfërisë energjetike dhe mbrojtjen e klientëve në nevojë të energjisë elektrike në Shqipëri, 2026-2030, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
