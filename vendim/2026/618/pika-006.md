@@ -1,0 +1,1 @@
+6. Për lejet e ndërtimit ose të aktiviteteve të tjera, të dhëna përpara hyrjes në fuqi të ligjit, bashkitë dhe Këshilli Kombëtar i Territorit dhe Ujit ose autoritetet e tjera kompetente, me kërkesë të subjekteve zhvilluese, miratojnë shtyrjen e afatit të përfundimit të punimeve/aktiviteteve, duke marrë në konsideratë kohëzgjatjen e pezullimit, të miratuar me këtë vendim.

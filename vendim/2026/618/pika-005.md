@@ -1,0 +1,1 @@
+5. Periudha e pezullimit, sipas këtij vendimi, do të përllogaritet si afat shtesë mbi afatin e lejes së ndërtimit/zhvillimit, për secilën leje ndërtimi/zhvillimi apo leje ushtrimi aktiviteti, që u është dhënë subjekteve apo që do t’u jepet pas hyrjes në fuqi të këtij vendimi.
