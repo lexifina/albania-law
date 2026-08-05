@@ -1,3 +1,0 @@
-13. Trajtim financiar përfitojnë punonjësit edhe kur dërgohen jashtë vendit për trajnime afatshkurtra, me urdhër të titullarit të institucionit qendror ose të deleguarit të tij, në rastet kur:
-a) shpenzimet mbulohen tërësisht nga buxheti i shtetit. Në këte rast, masa e dietës, përllogaritet në masën 25 euro/USD në ditë;
-b) shpenzimet mbulohen pjesërisht nga pala pritëse dhe në dokumentacionin e palës pritëse parashikohet shprehimisht mënyra e mbulimit të shpenzimeve. Në rastin kur pala pritëse nuk mbulon trajtimin me ushqim apo me të holla të punonjësit, Buxheti i Shtetit mbulon trajtimin financiar në masën 25 euro/USD në ditë.

@@ -1,1 +1,0 @@
-1. Punonjësit e njësive të qeverisjes së përgjithshme që dërgohen me shërbim jashtë vendit, për të marrë pjesë në veprimtari të ndryshme ndërkombëtare, trajtohen financiarisht për përballimin e shpenzimeve të shërbimit.

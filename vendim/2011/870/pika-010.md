@@ -1,1 +1,0 @@
-10. Shpenzimet për pagesa të tjera përfshijnë pagesa që lidhen me udhëtimin jashtë vendit si: siguracion shëndetësor, viza, taksa, qira zyre etj. Telefonatat nga hoteli apo telefoni celular personal nuk mbulohen nga shpenzimet e institucionit, por nga vetë punonjësi.
