@@ -1,0 +1,1 @@
+1. Programi “Pas shkolle” është i organizuar dhe i strukturuar në veprimtari, që zhvillohen jashtë orarit mësimor të detyruar dhe ka për qëllim përforcimin e të nxënit dhe zhvillimin gjithëpërfshirës të aftësive edukative, sociale, sportive, kulturore dhe krijuese të nxënësve.

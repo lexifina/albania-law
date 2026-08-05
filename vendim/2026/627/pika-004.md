@@ -1,0 +1,1 @@
+4. Kandidati, sipas përcaktimit të shkronjës “b”, të pikës 1, dhe të shkronjës “b”, të pikës 2, të kreut II, të këtij vendimi, aplikon për t’u angazhuar në programin “Pas shkolle”, duke përzgjedhur opsionin përkatës në shërbimin elektronik “aplikim për konkurrim për punësim”, “Mësues për Shqipërinë”, në portalin “e-Albania”.

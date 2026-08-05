@@ -1,0 +1,1 @@
+5. Kandidatët për trajnues të kategorive të tjera, të përcaktuara në pikat 1 dhe 2, të kreut II, të këtij vendimi, dorëzojnë dosjen e aplikimit në zyrën vendore të arsimit parauniversitar (në vijim ZVAP), nën juridiksionin e së cilës ndodhet institucioni arsimor.

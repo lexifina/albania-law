@@ -1,0 +1,1 @@
+6. Të dhënat elektronike të dosjes për aplikimin e kandidatëve, sipas përcaktimit të shkronjave “a” dhe “b”, të pikave 1 dhe 2, të kreut II, të këtij vendimi, merren përmes ndërveprimit nga SMIP-ja ose nga portali “Mësues për Shqipërinë”.

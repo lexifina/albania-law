@@ -1,0 +1,1 @@
+3. Kandidati, i cili ushtron profesionin e mësuesit, sipas përcaktimit të shkronjës “a”, të pikës 1, dhe të shkronjës “a”, të pikës 2, të kreut II, të këtij vendimi, aplikon për t’u angazhuar në programin “Pas shkolle” në Sistemin e Menaxhimit të Informacionit Parauniversitar (SMIP).
