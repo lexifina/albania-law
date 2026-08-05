@@ -1,0 +1,1 @@
+1. Shpalljen “Zonë e teknologjisë dhe zhvillimit ekonomik ’Vlorë TEDA/RAMS Free Zone’” të territorit me sipërfaqe 885 557.6 (tetëqind e tetëdhjetë e pesë mijë e pesëqind e pesëdhjetë e shtatë pikë gjashtë) m2, pjesë e zonave kadastrale 8604 dhe 2765, në Bashkinë Vlorë, të përbërë nga pasuritë me sipërfaqet përkatëse, sipas listës dhe hartës që i bashkëlidhen këtij vendimi.

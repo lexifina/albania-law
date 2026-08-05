@@ -1,0 +1,188 @@
+# Shtojca
+LISTA E PASURIVE QË DO TË PËRFSHIHEN NË “VLORË TEDA/RAMS FREE ZONE”
+Nr.
+Zona kadastrale
+Zona
+Numër pasurie
+Volum
+Faqe
+Sipërfaqe m2
+Statusi
+1
+2765
+Nartë
+997
+6
+44
+5 000
+Shtet
+2
+8604
+Vlorë
+45/10
+11
+50
+37
+Shtet
+3
+8604
+Vlorë
+45/11
+11
+51
+38
+Shtet
+4
+8604
+Vlorë
+45/13
+11
+53
+38
+Shtet
+5
+8604
+Vlorë
+45/30
+13
+77
+10 644
+Shtet
+6
+8604
+Vlorë
+45/31
+13
+78
+8 278
+Shtet
+7
+8604
+Vlorë
+45/8
+13
+96
+37
+Shtet
+8
+8604
+Vlorë
+45/9
+13
+97
+38
+Shtet
+9
+8604
+Vlorë
+45/51
+28
+35
+7 776
+Shtet
+10
+8604
+Vlorë
+45/29/1
+31
+183
+7 990
+Shtet
+11
+8604
+Vlorë
+45/19/2
+31
+192
+2 698.7
+Shtet
+12
+8604
+Vlorë
+45/32/1
+31
+196
+8 760
+Shtet
+13
+8604
+Vlorë
+45/32/2
+31
+197
+1 593
+Shtet
+14
+8604
+Vlorë
+45/27/1
+31
+198
+9 126
+Shtet
+15
+8604
+Vlorë
+45/27/2
+31
+199
+459
+Shtet
+16
+8604
+Vlorë
+45/1/2
+31
+206
+3 867
+Shtet
+17
+8604
+Vlorë
+45/54
+32
+6
+115 298.8
+Shtet
+18
+8604
+Vlorë
+45/55
+32
+7
+117 130.3
+Shtet
+19
+8604
+Vlorë
+45/56
+32
+8
+133 451.8
+Shtet
+20
+8604
+Vlorë
+45/49/4
+72
+201
+120 641
+Shtet
+21
+8604
+Vlorë
+45/1/4
+72
+202
+211 326
+Shtet
+22
+8604
+Vlorë
+45/46/4
+491
+221
+121 330
+Shtet
+SIPËRFAQE TOTALE
+885 557.6

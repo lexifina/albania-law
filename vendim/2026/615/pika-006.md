@@ -1,0 +1,1 @@
+6. Shoqëria “RAMS Albania” sh.p.k. shpallet zhvillues i zonës së teknologjisë dhe zhvillimit ekonomik, me procedurë jokonkurruese si subjekt përfitues, me status “Investim/investitor, procedurë e veçantë”, në bazë të vendimit nr. 1, datë 11.2.2026, të Komitetit të Investimeve Strategjike, të ndryshuar.
