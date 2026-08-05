@@ -1,0 +1,1 @@
+2. Në fillim të çdo viti, njësitë e qeverisjes së përgjithshme, në përputhje me fondet buxhetore të disponueshme, hartojnë dhe miratojnë programin vjetor të veprimtarive që do të zhvillohen jashtë vendit. Programi miratohet nga titullari i institucionit dhe, kur është e nevojshme, mund të rishikohet ose të përditësohet gjatë vitit.

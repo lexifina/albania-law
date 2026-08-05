@@ -1,0 +1,2 @@
+1. Punonjësit e njësive të qeverisjes së përgjithshme, përfshirë edhe këshilltarët e jashtëm në njësitë e qeverisjes qendrore, të cilët dërgohen me shërbim jashtë vendit për të marrë pjesë në veprimtari ndërkombëtare, konferenca, takime pune ose trajnime afatshkurtra të nevojshme për mbarëvajtjen e punës, përfitojnë trajtim financiar për mbulimin e shpenzimeve të shërbimit.
+Në kuptim të këtij vendimi, si trajnime afatshkurtra të nevojshme për mbarëvajtjen e punës konsiderohen trajnimet me kohëzgjatje jo më shumë se një muaj.
