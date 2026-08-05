@@ -1,1 +1,0 @@
-1. Shpalljen si zonë e përshtatshme për zhvillimin e detyruar, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi, të zonës 5, Njësia Administrative Durrës, Bashkia Durrës, zonë e re për zhvillim.
