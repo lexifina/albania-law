@@ -1,0 +1,1 @@
+10. Të gjithë përdoruesit, pjesë të fushës së veprimit të këtij vendimi, kanë detyrimin të kujdesen për ruajtjen e konfidencialitetit të të dhënave të aksesit në Regjistër, si dhe mbajnë përgjegjësi personale të drejtpërdrejtë, në rast të shkeljes së rregullave, pakujdesisë apo keqpërdorimit të nivelit të tyre të aksesit.
