@@ -1,0 +1,1 @@
+2. Njësitë e vetëqeverisjes vendore, të cilat do të angazhojnë personel në varësi për shuarjen e zjarreve gjatë vitit 2026, do të shpërblejnë personelin e përfshirë, në masën e 1 (një) page mujore. Efektet financiare do të përballohen nga buxhetet përkatëse të njësive të vetëqeverisjes vendore.
