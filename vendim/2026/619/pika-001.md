@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Blloku i kufizuar nga rrugët ’Mersin Jakupi’, ’17 Nëntori’, ’Gjergj Mehmeti’, ’Spartak Deliu’, ’Besnik Hidri’, ’Princ Vidi’, ’Nikolla Ivanaj’, Bashkia Tiranë”.
