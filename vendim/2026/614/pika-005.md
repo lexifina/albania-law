@@ -1,0 +1,1 @@
+5. Detyrimet e ndërmarrjes shtetërore “Kantieri i ndërtimit dhe riparimit të anijeve”, të krijuara deri në hyrjen në fuqi të këtij vendimi, llogariten në vlerën totale prej 69 640 394 (gjashtëdhjetë e nëntë milionë e gjashtëqind e dyzet mijë e treqind e nëntëdhjetë e katër) lekësh, sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

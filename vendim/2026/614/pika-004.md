@@ -1,0 +1,1 @@
+4. Dorëzimi i inventarit të kësaj ndërmarrjeje bëhet nga një komision, me përfaqësues të Komandës së Forcës Detare dhe me përfaqësues të ndërmarrjes shtetërore “Kantieri i ndërtimit dhe riparimit të anijeve”.

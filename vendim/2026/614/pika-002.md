@@ -1,0 +1,1 @@
+2. Pasuritë me nr. 150/22, nr. 150/23, nr. 150/24, nr. 150/25 dhe nr. 150/26, në zonën kadastrale 1569, me vendndodhje në Pashaliman, Orikum, Vlorë, kalojnë në përgjegjësi administrimi të Ministrisë së Mbrojtjes, për Komandën e Forcës Detare.
