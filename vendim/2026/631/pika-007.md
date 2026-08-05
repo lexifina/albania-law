@@ -1,0 +1,1 @@
+7. Rregullat e hollësishme për organizimin, funksionimin, raportimin, treguesit e performancës, referimin dhe kundërreferimin, si dhe përgjegjësitë e strukturave pjesëmarrëse në Rrjetin Kombëtar të Sëmundjeve Tumorale miratohen me urdhër të ministrit përgjegjës për shëndetësinë.

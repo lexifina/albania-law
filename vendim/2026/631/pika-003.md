@@ -1,0 +1,1 @@
+3. Instituti ushtron veprimtarinë, në përputhje me standardet dhe udhëzimet kombëtare për cilësinë e kujdesit onkologjik, duke synuar harmonizimin me praktikat më të mira të qendrave onkologjike me standarde të njohura ndërkombëtare.

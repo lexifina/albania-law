@@ -1,0 +1,1 @@
+2. Instituti ka për mision integrimin e veprimtarisë klinike, akademike dhe kërkimore në fushën e onkologjisë, përmes ofrimit të shërbimeve të specializuara shëndetësore, zhvillimit të arsimit mjekësor dhe edukimit profesional, si dhe avancimit të kërkimit shkencor dhe inovacionit në bashkëpunim me institucionet e arsimit të lartë dhe të kërkimit shkencor.
