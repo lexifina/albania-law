@@ -169,3 +169,33 @@ TOTALI
 592.7
 34580226
 40547395
+LISTA E PRONARËVE QË SHPRONËSOHEN PËR EFEKT TË NDËRTIMIT TË SEGMENTIT RRUGOR TIRANË-ELBASAN (SHTESAT)
+Nr.
+Pronari
+Të dhëna kadastrale sipas kartelës së pasurisë
+Vlera totale (lekë)
+Shënime
+Emër
+Atësi
+Mbiemër
+Zona kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sipërfaqja totale (m²)
+Sipërfaqja e shpronësimit (m²)
+Çmimi (lekë/ m²)
+Vlera (m²)
+Drufrutor
+3
+Zamir Rexhep Metani
+2735
+125/9
+Ullishte
+5000
+1,739
+399
+693,861
+1,267,171
+1,961,032
+VLERA TOTALE
+1,961,032
