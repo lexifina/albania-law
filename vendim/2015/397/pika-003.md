@@ -1,1 +1,0 @@
-3. Objekti i veprimtarisë së KNRA-së është ndërtimi dhe riparimi i mjeteve lundruese ushtarake dhe pajisjeve të Forcave të Armatosura, të mjeteve lundruese civile, të tilla si anije, skafe, motovedeta, gomone etj., si dhe kryerja e punimeve dhe shërbimeve për të tretë, në përputhje me kapacitetet teknike të ndërmarrjes.

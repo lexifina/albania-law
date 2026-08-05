@@ -1,1 +1,0 @@
-9. Shuma prej 97 874 561 (nëntëdhjetë e shtatë milionë e tetëqind e shtatëdhjetë e katër mijë e pesëqind e gjashtëdhjetë e një) lekësh transferohet nga Komanda e Forcës Detare Durrës në favor të ndërmarrjes shtetërore “Kantieri i ndërtimit dhe riparimit të anijeve”, si shtesë në kapitalin themeltar, sipas aneksit bashkëlidhur këtij vendimi.
