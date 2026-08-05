@@ -1,0 +1,2 @@
+4. Ngarkohen Ministria e Arsimit, Universiteti “Fan S. Noli”, Korçë dhe Agjencia Shtetërore e Kadastrës për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

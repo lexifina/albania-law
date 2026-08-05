@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi te Ministria e Arsimit të pasurisë me nr. 3/204, në zonën kadastrale 8562, me vendndodhje në Korçë, sipas kartelës së pasurisë dhe fragmentit të hartës kadastrale, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, për hapjen dhe funksionimin e institucionit arsimor parauniversitar francez në Korçë.
