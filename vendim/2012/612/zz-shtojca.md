@@ -300,35 +300,6 @@ Përveç kësaj, dërguesi duhet të lajmërojë menjëherë autoritetet kompete
 Kutia C: Certifikata e pritjes: jepet nga pritësi i produkteve. Kur pritja e produkteve në një magazinë i nënshtrohet një kontrolli fiskal ose kur produktet janë eksportuar ose janë në një regjim doganor ndryshe nga hedhja në qarkullim të lirë, autoriteti kompetent ose zyra doganore sipas rastit, do të lëshojë këtë certifikatë që kërkohet.
 Rekomandohet të vërtetohet nga ana e pasme e kopjes nr. 2, e ruajtur kjo nga pritësi, për marrjen e produkteve.
 Në rastin ku kopja nr. 3 humb gjatë dërgimit të saj për tek dërguesi, veprimi mund të rakordohet lehtë ku dërguesi i bën një kërkesë pritësit për të pasur një kopje të kopjes nr. 2 të certifikuar.
-SEKSIONI 14
-KAFEJA
-Neni 147
-Fusha e zbatimit
-Për qëllime të neneve 76 dhe 77 të ligjit, akciza për kafenë zbatohet për:
-a) Shfuqizuar .
-b) kafenë e pjekur;
-c) ekstraktet dhe përgatitjet me bazë kafeje, në formë të lëngët ose të ngurtë.
-Neni 148
-Magazinat fiskale të kafesë
-1. Kafeja e papjekur e dekafeinuar ose jo, pas importimit, detyrimisht, futet në një magazinë fiskale.
-2. Mbajtja e produkteve të tjera të kafesë dhe me bazë kafeje, me detyrim akcize të pezulluar realizohet vetëm në magazinat fiskale.
-3. Me statusin e depozituesit të miratuar duhet të pajiset kushdo që:
-a) importon kafe të papjekur të dekafeinuar ose jo;
-b) kërkon të presë, të depozitojë ose të dërgojë, me pezullim të detyrimit të akcizës, kafe të dekafeinuar ose jo, të pjekur ose jo, si dhe ekstraktet e kafesë në formë të ngurtë ose të lëngët;
-c) kërkon të përpunojë kafe me qëllim dekafeinimin, pjekjen, bluarjen, paketimin ose për të përftuar ekstrakte në formë të ngurtë ose të lëngët;
-ç) kërkon të prodhojë produkte dhe përgatitje me bazë të ekstrakteve të kafesë ose që përmbajnë kafe.
-4. Në rastet kur depozituesi i miratuar deklaron hyrje në magazinën fiskale të prodhimit/përpunimit kafe me detyrime të paguara, për qëllimet e përcaktuara në shkronjën “c” të pikës 3 të këtij neni, aplikohen procedurat e parashikuara në nenet 37 dhe 38 të këtij vendimi.
-Neni 149
-Pritësit e regjistruar
-me VKM nr.30, datë 14.1.2015)
-1. Statusin e pritësit të regjistruar mund ta kërkojë kushdo që kërkon të presë vetëm kafe të dekafeinuar ose jo, të pjekur ose jo, si dhe ekstraktet e kafesë në formë të ngurtë ose të lëngët.
-2. Pritësit e regjistruar, përpunues të kafesë vetëm për pjekje dhe bluarje për shitje me pakicë, të cilët nuk plotësojnë kushtet për të qenë depozitues të miratuar prodhimi/përpunimi e paguajnë detyrimin e akcizës për produktin e akcizës që do të përpunojnë (kafe e papjekur) në çastin e blerjes te depozituesit e miratuar, në nivelin e detyrimit, sipas shtojcës 1 të ligjit që i korrespondon kafesë së pjekur.
-3. Niveli i taksimit, për rastet e parashikuara në pikën 2 të këtij neni, do të aplikohet duke zbritur nga sasia e kafesë së papjekur koeficientin zbritës në nivelin 19%, përqindje kjo e cila konsiderohet firo/humbje gjatë procesit të pjekjes.
-Neni 150
-Detyrimet e depozituesit të miratuar, pritësit të regjistruar
-1. Depozituesi i miratuar, pritësi i regjistruar duhet t’u sigurojë autoriteteve doganore një akses të përhershëm në magazinat fiskale dhe në lokalet e tjera.
-2. Në një magazinë fiskale kafeja duhet të stokohet sipas llojit dhe sipas ambalazhimit, në mënyrë që regjistrimi, mbikëqyrja dhe kontrolli të kryhen pa vështirësi.
-3. Pritësi i regjistruar duhet të mbajë dokumentacion të plotë për blerjet, sipas dokumenteve DSHA e faturave përkatëse, dhe t’i regjistrojë në një regjistër i cili mbahet në ambientet e tij.
 Aneksi 20
 Aneksi 23
 Modeli 1
