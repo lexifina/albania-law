@@ -1,0 +1,8 @@
+# Dekreti nr. 453, datë 30.7.2026
+
+Issuer: Presidenti i Republikës. Type: Dekret. Act date: 2026-07-30.
+Published in Fletorja Zyrtare nr. 173/2026 on 2026-08-06.
+
+Official QBZ record: <https://qbz.gov.al/api/v1/acts/66814>. ELI: <https://qbz.gov.al/eli/dekret/2026/07/30/453>. Official text (Word): <https://qbz.gov.al/files/dbbd91cc3e2f97d7c4bc07749b59dba228a5f7551bb1152720f9a56c588dbc09.docx>. Official text (PDF): <https://qbz.gov.al/pdf/eda43967f11ab5edfc25f214b5135ca2b1a0c4efd5449350e43a17685c8d9ba8.pdf>. QBZ gazette record: <https://qbz.gov.al/api/v1/gazettes/2026/173>.
+
+Metadata and official link for an act concerning identifiable individuals.
