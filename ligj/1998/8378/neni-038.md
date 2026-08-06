@@ -1,0 +1,20 @@
+# Neni 38
+Sinjalizimi rrugor
+1. Në sinjalizimin rrugor përfshihen grupet e mëposhtme:
+a) sinjalet vertikale;
+b) sinjalet horizontale;
+c) sinjalet e ndritshme;
+d) sinjalet dhe pajisjet shtesë.
+2. Përdoruesit e rrugës duhet të respektojnë kushtet që bëhen të ditura nga sinjalet rrugore, sikurse edhe për rregullat e tjera të qarkullimit. Udhëzimet e sinjaleve të semaforëve, duke përjashtuar ato të dritave të verdha të rrezikut, për të cilat bëhet fjalë në nenin 41, kanë përparësi mbi sinjalet vertikale dhe horizontale që rregullojnë përparësinë. Udhëzimet e sinjaleve vertikale kanë përparësi ndaj atyre të sinjaleve horizontale. Në çdo rast përparësinë e kanë sinjalet e policëve të trafikut sipas nenit 43.
+3. Është e lejuar vënia e përkohshme e sinjaleve rrugore për rastet urgjente dhe të domosdoshme, kur sinjalet e mëparshme shfuqizohen në bazë të dispozitave të pikave 6 dhe 7.
+4. Gjithçka e përcaktuar në këto norma dhe në aktet në zbatim të tyre për sinjalizimin rrugor jashtë qendrave të banuara, zbatohet edhe në rrugët brenda qendrave të banuara.
+5. Në aktet në zbatim, që i bashkëngjiten këtij Kodi, përcaktohen për secilin grup, sipas pikës 1, sinjalet e veçanta, sistemet ose mjetet sinjalizuese, si dhe emërtimi i tyre, domethënia, tipet, karakteristikat teknike (forma, përmasa, ngjyrat, materialet, reflektueshmëria, ndriçimi), mënyrat e shënjimit, të vendosjes dhe përdorimit (lartësi dhe largësi), normat teknike të shfrytëzimit dhe rastet e detyrueshme. Përveç këtyre, janë treguar edhe figurat e çdo sinjali të veçantë dhe komente sqaruese për domethënien e tyre dhe për mënyrën e sjelljes së përdoruesit në rrugë. Sinjalet vendosen në mënyrë të tillë që të mos përbëjnë pengesë në qarkullimin e personave invalidë.
+6. Vënia e sinjalizimit rrugor i përgjigjet kritereve të uniformitetit mbi territorin e Republikës, të cilat janë përcaktuar në aktet sipas pikës 5, duke respektuar normativat e Komunitetit Europian dhe ato ndërkombëtar në fuqi.
+7. Sinjalizimi rrugor duhet të mbahet gjithmonë në eficiencë të përkryer nga ana e enteve të ngarkuara për vënien e tij në përdorim dhe duhet të zëvendësohet, riparohet ose hiqet kur është, qoftë edhe pjesërisht, i pavlefshëm, ose kur nuk i përgjigjet më qëllimit, për të cilin është vënë.
+8. Është e ndaluar të vendoset mbi një sinjal të çfarëdo grupi, si dhe në pjesën e prapme apo në mbajtësen e tij, të gjithçkaje që nuk është e parashikuar në aktet në zbatim.
+9. Në aktet në zbatim përcaktohen hapësirat e rezervuara për instalimin e komplekseve sinjalizuese të drejtimit, në kryqëzimet e rrugëve ose në afërsi të tyre.
+10. Vendet e përdorimit të detyrueshëm të sinjalizimit rrugor përfshijnë rrugët e përdorimit publik dhe të gjitha rrugët në pronësi private, që janë të hapura për përdorimin publik. Në zonat private që nuk janë të hapura për përdorimin publik, vendosja dhe përdorimi i sinjalizimit duhet të bëhet sipas udhëzimeve të përshkruara në aktet në zbatim.
+11. Për kërkesa të veçanta të trafikut ushtarak, në rrugët e përdorimit publik lejohet vendosja e sinjalizimit rrugor ushtarak, me mënyra të veçanta të vendvendosjes, normat për të cilën janë fiksuar në aktet në zbatim. Entet pronare të rrugëve janë të detyruara të lejojnë vendosjen në rrugë në mënyrë të përkohshme ose të përhershme të sinjaleve të gjykuara të nevojshme nga autoritetet ushtarake për qarkullimin e mjeteve të tyre.
+12. Subjektet e ndryshme që nuk janë ente pronare të rrugës dhe që shkelin dispozitat e pikave 7, 8, 9 dhe 10, ndëshkohen me masë administrative me gjobë nga dhjetë mijë deri në dyzet mijë lekë.
+13. Ndaj enteve pronare të rrugës që nuk përmbushin detyrimet e këtij neni ose të akteve në zbatim, apo që nuk përdorin siç duhet sinjalizimin e parashikuar, ministria që mbulon veprimtarinë përkatëse urdhëron përmbushjen e detyrimeve që u takojnë. Në rast mosbindjeje, brenda pesëmbëdhjetë ditëve nga dhënia e urdhrit, ministri përgjegjës për transportin merr masa për përmbushjen e këtyre detyrimeve, duke i vënë në ngarkim entit pronar të rrugës shpenzimet përkatëse.
+14. Shkelja e dispozitave të këtij neni nga ana e përdoruesve të rrugës sanksionohet nga neni 144.

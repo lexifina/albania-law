@@ -1,0 +1,5 @@
+# Neni 60
+Ciklomotorë dhe automjete të hershme me interes historik dhe koleksionimi
+1. Janë futur në kategorinë e mjeteve të veçantë ciklomotorët, motomjetet dhe automjetet e prodhimeve të hershme, si edhe ciklomotorët, motomjetet dhe automjetet me interes historik dhe koleksionimi.
+2. Hyjnë në kategorinë e prodhimeve të hershme ciklomotorët, motomjetet dhe automjetet që janë hequr nga përdorimi i zakonshëm, sepse janë të destinuara për t’u ruajtur në muze ose në lokale publike e private dhe që nuk lejohet të përdoren pasi nuk plotësojnë kërkesat e normave në fuqi për qarkullimin rrugor. Mjete të tilla janë regjistruar në listën e qendrës historike të Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor.
+3. Ciklomotorët dhe motomjetet e regjistruara në listën e qendrës historike të Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor, pas një periudhe gjashtëmujore, kur plotësojnë kërkesat e normave në fuqi për qarkullimin rrugor, mund të regjistrohen në regjistrin e mjeteve të Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor.

@@ -1,0 +1,8 @@
+# Neni 110
+Kontrolli i makinave bujqësore në qarkullim
+1. Ministria përgjegjëse për transportin, në marrëveshje me Ministrinë e Bujqësisë dhe të Ushqimit, urdhërojnë kontrollin e përgjithshëm a të pjesshëm të makinave bujqësore të regjistruara sipas normave të nenit 109, me synim verifikimin e kërkesave minimale të sigurisë së qarkullimit, si dhe të gjendjes së tyre teknike.
+2. Organet e Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor dhe Policisë Rrugore, kur lindin dyshime për respektimin e kërkesave sipas pikës 1, mund të urdhërojnë në çdo moment kontrollin e përgjithshëm për makina bujqësore të veçanta.
+3. Aktet në zbatim të këtij Kodi përcaktojnë procedurat, afatet dhe mënyrat e kryerjes së kontrollit, për të cilin flitet në këtë nen, dhe, kur është e nevojshme, kriteret për verifikimin e kërkesave minimale të përshtatshmërisë për qarkullim që duhet të plotësojnë makinat bujqësore në qarkullim, si dhe të gjendjes teknike të tyre.
+4. Ministria përgjegjëse për transportin, në marrëveshje me ministrin e Bujqësisë dhe Ushqimit, mund të urdhërojë modifikimin e normativave të parashikuara nga ky nen, për t’i përshtatur me dispozitat përkatëse të marrëveshjes ndërkombëtare.
+5. Për makinat bujqësore, për të cilat flitet në pikën 1, zbatohen normat e nenit 79, pika 7.
+6. Cilido që qarkullon në rrugë me një makinë bujqësore që nuk është paraqitur për kontroll, ndëshkohet me masë administrative me gjobë nga një mijë deri në katër mijë lekë. Pasojë e kësaj shkeljeje është edhe masa plotësuese administrative e tërheqjes së lejes së qarkullimit ose certifikatës së përshtatshërisë teknike për qarkullim.

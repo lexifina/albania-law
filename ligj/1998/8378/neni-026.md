@@ -1,0 +1,6 @@
+# Neni 26
+Kompetenca për autorizime dhe koncesione
+1. Autorizimet, sipas këtij kapitulli lëshohen nga enti pronar i rrugës ose nga ndonjë ent tjetër i deleguar prej tij apo nga enti koncesioner i rrugës, në përputhje me kontratën përkatëse; delegimi i njoftohet ministrisë që mbulon veprimtarinë përkatëse ose organit kompetent të pushtetit lokal, kur bëhet fjalë për ente lokale.
+2. Autorizimet dhe koncesionet, sipas këtij kapitulli, janë kompetencë e entit pronar të rrugës, kurse për rrugët në koncesion veprohet sipas kontratës përkatëse.
+3. Për pjesët e rrugëve shtetërore, të qarkut që kalojnë brenda qendrave të vogla të banuara, lëshimi i autorizimit a koncesionit është kompetencë e komunës, pasi të jetë marrë miratimi i entit pronar të rrugës.
+4. Vendosja në rrugë dhe pjesët që i përkasin asaj, e linjave hekurudhore, tubacioneve a kanalizimeve të tjera të destinuara për përdorim publik, ose edhe vetëm përshkimi i rrugës dhe pjesëve që i përkasin asaj me objektet e mësipërme, autorizohet, vetëm në rastet e domosdoshme, kur është e pamundur teknikisht çdo zgjidhje tjetër, me urdhër të ministrisë që mbulon veprimtarinë përkatëse dhe të entit pronar të rrugës ose në marrëveshje me Ministrinë e Mbrojtjes, kur bëhet fjalë për rrugë ushtarake.

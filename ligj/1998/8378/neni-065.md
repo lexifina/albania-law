@@ -1,0 +1,4 @@
+# Neni 65
+Pajisjet e sinjalizimit pamor të mjeteve të tërhequra nga kafshët dhe të slitave
+1. Në orët dhe në rastet e parashikuara në nenin 150, pika 1, mjetet e tërhequra me kafshë dhe slitat duhet të jenë të pajisura me dy fenerë të përparmë që lëshojnë dritë të bardhë përpara dhe me dy fenerë të prapmë që lëshojnë nga pas dritë të kuqe; fenerët janë vendosur në anët e mjetit. Duhet të jenë të pajisur edhe me dy sinjale reflektuese të bardha në pjesën e përparme, dy të kuqe nga pas dhe nga një sinjal reflektues ngjyrë portokalli në çdo anë. Këto mjete duhet të jenë të pajisura me sinjale rreziku të lëvizshme.
+2. Cilido që qarkullon me një mjet që tërhiqet nga kafshët ose me një slitë të papajisur me sistemet e frenimit dhe sinjalizimin pamor të parashikuar nga nenet 64, 65 dhe 69, ndëshkohet me masë administrative me gjobë nga një mijë deri në katër mijë lekë.

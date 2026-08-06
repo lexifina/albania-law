@@ -1,0 +1,7 @@
+# Neni 168
+Transporti i njerëzve, kafshëve dhe objekteve në mjete me motor me dy rrota
+1. Në motorë dhe ciklomotorë me dy rrota drejtuesi duhet të ketë të lirë përdorimin e krahëve, të duarve dhe të këmbëve, duhet të qëndrojë i ulur në pozicion korrekt dhe duhet ta mbajë timonin me të dyja duart, ose me një dorë, në rast nevoje, për manovra ose sinjalizime të mundshme. Nuk duhet të veprojë duke ngritur rrotën e përparme.
+2. Në ciklomotorë është e ndaluar transportimi i njerëzve të tjerë, përveç drejtuesit.
+3. Në motor pasagjeri i mundshëm duhet të jetë i ulur në mënyrë të stabilizuar dhe të ekuilibruar, në pozicionin e përcaktuar nga pajisje të caktuara të mjetit.
+4. Është e ndaluar për drejtuesit e mjeteve të treguara në pikën 1 të tërheqë ose të tërhiqet nga mjete të tjera. Gjithashtu, ndalohet transportimi i objekteve që nuk janë të siguruara në mënyrë solide, që dalin jashtë në mënyrë anësore kundrejt aksit të mjetit ose në mënyrë gjatësore kundrejt gabaritit të tij mbi 50 cm, si dhe i pengojnë ose i kufizojnë pamjen drejtuesit të mjetit. Transporti i kafshëve lejohet duke respektuar kushtet e gabariteve të përcaktuara më lart dhe në kafaze të përshtatshme dhe fiks.
+5. Cilido që shkel dispozitat e këtij neni, ndëshkohet me masë administrative me gjobë nga një mijë deri në katër mijë lekë. Kur shkeljet e treguara në pikat 1 dhe 2 kryhen nga drejtues motori, përveç masës administrative me gjobë, zbatohet edhe masa administrative plotësuese me ndalimin administrativ të mjetit për 30 ditë.

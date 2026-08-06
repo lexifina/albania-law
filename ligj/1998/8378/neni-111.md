@@ -1,0 +1,6 @@
+# Neni 111
+Modifikimi i karakteristikave teknike të qarkullimit të makinave bujqësore dhe azhurnimi i lejes së qarkullimit
+1. Makinat bujqësore që janë subjekt i verifikimit të kërkesave sipas nenit 106, nuk duhet të paraqesin deformime në krahasim me karakteristikat e treguara në lejen e qarkullimit, ose në certifikatën e përshtatshmërisë teknike për qarkullim, dhe as ndryshime a dëmtime të sistemeve të përcaktuara.
+2. Organet përkatëse të Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor, me kërkesë të të interesuarit, kryejnë provat e verifikimit të parashikuara në nenin 106, pika 2, për makinën bujqësore, së cilës i janë bërë modifikime të një a disa karakteristikave ose të një a disa sistemeve që tregohen në dokumentet e qarkullimit; kur kontrolli rezulton pozitivisht, organet e sipërpërmendura kryejnë azhurnimin e këtyre dokumenteve.
+3. Për makinat bujqësore që duhet të regjistrohen dhe të pajisen me leje qarkullimi, zbatohen dispozitat përkatëse të neneve 92, 93, 94, 97 dhe 102.
+4. Cilido që qarkullon në rrugë me një makinë bujqësore që ka karakteristika të ndryshme nga ato të treguara në pikën 1 dhe që ka sistemet e përcaktuara me norma ligjore, të ndryshuar, të dëmtuar ose të mangët, ndëshkohet me masë administrative me gjobë nga pesë mijë deri dhjetë mijë lekë, me përjashtim të rasteve që përbëjnë krim.

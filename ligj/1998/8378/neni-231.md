@@ -1,0 +1,4 @@
+# Neni 231
+Norma kalimtare në lidhje me kapitullin 4
+1. Dispozitat e këtij Kodi mbi lejedrejtimet, zbatohen për lejedrejtimet e reja për çfarëdo tip mjeti, që lëshohen pas mbarimit të 6 muajve nga miratimi i këtij Kodi. Procedurat që ndiqen deri në atë moment ruhen dhe lejedrejtimet e lëshuara sipas normave ekzistuese ruajnë vlefshmërinë e tyre. Në të njëjtën mënyrë ruajnë vlefshmërinë edhe lejedrejtimet e lëshuara përpara datës së mësipërme. Kjo vlefshmëri zgjat deri në verifikimin e parë të vlefshmërisë ose kontrollin e parë që kryhet, sipas normave të neneve 124 ose 126, pas mbarimit të afatit të treguar më sipër; në një rast të tillë bëhet përshtatja e lejedrejtimit sipas normave të reja.
+2. Autoshkollat ekzistuese duhet të përshtaten sipas normave të këtij Kodi brenda 6 muajsh nga miratimi i Kodit. Deri në një datë të tillë autoshkollat rregullohen nga dispozitat ekzistuese.

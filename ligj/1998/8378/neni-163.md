@@ -1,0 +1,5 @@
+# Neni 163
+Tërheqja e mjeteve me avari
+1. Përveç rasteve të parashikuara në nenin 63, tërheqja në kushte emergjence e një mjeti nga një mjet tjetër duhet të kryhet me anën e një lidhjeje të fortë ndërmjet këtyre dy mjeteve, siç mund të jetë litari, zinxhiri, kavo, tub hekuri ose ndonjë pajisje tjetër e ngjashme, mjaft që të jenë sinjalizuar në mënyrë të përshtatshme për t’u parë qartë nga përdoruesit e tjerë të rrugës.
+2. Gjatë tërheqjes në mjetin e tërhequr duhet të mbahet ndezur sistemi me dritë të ndërprerë, siç tregohet në nenin 149, shkronja “f”, ose, në mungesë të një sinjali të tillë, të kthehet nga krahu i qarkullimit paneli i treguar në nenin 162, pika 6, ose sinjali i lëvizshëm sipas nenit 160. Mjeti tërheqës, kur është i pajisur me të, duhet të mbajë ndezur sistemin përkatës me dritë të verdhë të përcaktuar nga aktet në zbatim për mjetet e ndihmës në rrugë.
+3. Cilido që shkel dispozitat e këtij neni ndëshkohet me masë administrative, me gjobë nga një mijë deri në tre mijë lekë.

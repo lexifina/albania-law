@@ -1,0 +1,4 @@
+# Neni 132
+Qarkullimi i automjeteve dhe motomjeteve që u përkasin qytetarëve shqiptarë me banim jashtë vendit ose të huajve
+1. Për automjetet, motomjetet dhe rimorkiot e importuara përkohësisht ose të reja nga fabrika të blera për eksportim, që kanë përmbushur formalitetet doganore, kur duhet, dhe që i përkasin qytetarëve shqiptarë me banim jashtë shtetit ose të huajve që kalojnë nëpër Shqipëri, lëshohet një leje qarkullimi me një kohëzgjatje maksimale 30-ditore, duke përjashtuar ndonjë shtyrje të mundshme afati, si dhe një targë e veçantë njohjeje, siç përcaktohet në aktet në zbatim.
+2. Cilido që qarkullon me një lejeqarkullimi që sipas pikës 1 i ka skaduar afati, ndëshkohet me masën administrative me gjobë nga pesë mijë deri në njëzet mijë lekë. Kjo shkelje dënohet edhe me masën administrative plotësuese me konfiskimin e mjetit.

@@ -1,0 +1,5 @@
+# Neni 150
+Sinjalizimi pamor dhe ndriçimi i mjeteve
+1. Përdorimi i sistemeve të sinjalizimit pamor të mjeteve është i detyrueshëm nga gjysmë ore pas perëndimit të diellit deri gjysmë ore përpara lindjes së tij, si dhe ditën nëpër tunele, në raste mjegulle, kur bie borë, shira të fortë dhe në çdo rast tjetër me fushëpamje të dobët. Drejtuesit e mjeteve me motor, gjatë të gjithë kohës së lëvizjes në autostrada dhe rrugë interurbane, janë të detyruar të përdorin fenerët joverbues dhe, kur është parashikuar, dritat e pengesës. Drejtuesit e çiklomotorëve dhe të motomjeteve, gjatë të gjithë kohës së lëvizjes, në të gjitha llojet e rrugëve, janë të detyruar të përdorin fenerët joverbues.
+2. Me përjashtim të mjeteve e ciklomotorëve me dy rrota dhe motorëve, përdorimi i sinjalizimit pamor është i detyrueshëm edhe gjatë ndalimit ose qëndrimit, duke përjashtuar rastet kur mjeti bëhet tërësisht i dukshëm nga ndriçimi publik, ose kur qëndron jashtë karrexhatës. Ky detyrim është në fuqi edhe kur mjeti gjendet në korsinë e emergjencës.
+3. Cilido, që shkel dispozitat e këtij neni, ndëshkohet me masë administrative, me gjobë nga një mijë deri në tre mijë lekë.

@@ -1,0 +1,8 @@
+# Neni 147
+Largësia e sigurisë ndërmjet mjeteve
+1. Gjatë lëvizjes mjetet duhet të mbajnë, kundrejt mjetit që ndodhet përpara, një largësi sigurie të tillë që të garantohet në çdo rast ndalimi i menjëhershëm dhe të mënjanohet përplasja me mjetin që ndodhet përpara.
+2. Jashtë qendrave të banuara, kur është vendosur një ndalim parakalimi vetëm për disa kategori mjetesh, ndërmjet këtyre mjeteve duhet të mbahet një largësi jo më e vogël se 100 m. Kjo dispozitë nuk është e detyrueshme në pjesët e rrugës me dy ose më shumë korsi për sens lëvizjeje.
+3. Kur janë në veprim makina për pastrimin ose shpërndarjen e borës, mjetet duhet të veprojnë me kujdes të veçantë Largësia e sigurisë kundrejt makinave të tilla nuk duhet të jetë më e vogël se 20 m. Mjetet që kalojnë në sens të kundërt duhet, nëse është e nevojshme, të ndalojnë me qëllim që të mos pengojnë punën.
+4. Cilido, që shkel dispozitat e këtij neni, ndëshkohet me masë administrative, me gjobë nga një mijë deri në tre mijë lekë.
+5. Kur si pasojë e mosrespektimit të dispozitave të këtij neni ndodh një përplasje me dëmtime të rënda për mjetin, të tilla që duhet të kryejnë kontrollin sipas nenit 79, pika 7, ndëshkimi është me masë administrative me gjobë nga pesë mijë deri në njëzet mijë lekë. Kur i njëjti subjekt, brenda dymbëdhjetë muajve kryen të paktën dy herë të njëjtën shkelje sipas kësaj pike, në shkeljen e fundit zbatohet masa plotësuese administrative me pezullimin e lejedrejtimit nga një deri në dy vjet.
+6. Në qoftë se nga përplasja rezultojnë plagë të rënda të njerëzve, ndaj drejtuesit të mjetit zbatohen sanksionet penale për krimet e plagosjeve pa dashje ose të vrasjeve pa dashje.

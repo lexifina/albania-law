@@ -1,0 +1,10 @@
+# Neni 183
+Qarkullimi dhe qëndrimi i autokampeve
+1. Mjetet e përmendura në nenin 54, pika 1, shkronja “k”, për qarkullimin rrugor në përgjithësi dhe për shkak të ndalimeve dhe kufizimeve të parashikuara në nenet 6 dhe 7, i nënshtrohen të njëjtës disiplinë të parashikuar për mjetet e tjera.
+2. Qëndrimi i autokampeve, aty ku lejohet, në zonën rrugore, nuk përbën kampim, në qoftë se automjeti nuk mbështetet në terren, përveçse me rrotat, nuk lëshon rryma të tjera shkarkimi, përveçse ato të propulsorit mekanik, dhe nuk zë sidoqoftë zonën rrugore në masë më të madhe se madhësia e vetë mjetit.
+3. Në rast qëndrimi ose parkimi me pagesë, për autokampet zbatohen tarifa 50% më të mëdha se ato të zbatuara për autoveturat në parkime të njëjta të zonës.
+4. Ndalohet shkarkimi nga autokampi i mbetjeve organike dhe i ujërave të pastra dhe të ndotura në rrugë dhe në zona publike jashtë impianteve të caktuara të shkarkimeve higjieniko- shëndetësore.
+5. Ndalimi sipas pikës 4 shtrihet edhe për automjete të tjera të pajisura me impiante të caktuara mbledhëse të brendshme.
+6. Cilido që shkel dispozitat e pikave 4 dhe 5, ndëshkohet me masë administrative me gjobë nga pesëqind deri në dy mijë lekë.
+7. Në aktet në zbatim janë përcaktuar kriteret për realizimin përgjatë rrugëve dhe autostradave, në zonat e rregulluara të rezervuara për qëndrimin dhe parkimin e autokampeve dhe në kampimet, të impianteve higjieniko-shëndetësore për grumbullimin e mbetjeve organike dhe të ujërave të pastra e të ndotura, të mbledhura në impiantet e brendshme të këtyre mjeteve, si dhe kriteret për krijimin nga bashkitë të zonave të rregulluara analoge në territoret përkatëse dhe vendosjen e sinjaleve të caktuara rrugore, me të cilat duhet të tregohet çdo impiant.
+8. Me udhëzim të Ministrisë së Shëndetësisë janë përcaktuar karakteristikat e lëngjeve dhe substancave kimike që përdoren në trajtimin e mbetjeve organike dhe të ujërave të pastra dhe të ndotura të derdhura në impiantet higjieniko-shëndetësore të përmendura në pikën 4.

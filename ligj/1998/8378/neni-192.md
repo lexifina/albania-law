@@ -1,0 +1,3 @@
+# Neni 192
+Dispozita të karakterit të përgjithshëm
+Në të gjitha rastet në të cilat ky kod parashikon që një shkelje e caktuar ndëshkohet me masë administrative me gjobë, zbatohen dispozitat e përgjithshme të ligjit për kundërvajtjet administrative, duke përjashtuar ndryshimet dhe shmangiet të parashikuara nga normat e këtij kreu. Për një kategori shkeljesh rrugore për të cilat nuk ka sanksion plotësues dhe janë nën vlerën 5 000 lekë, për të cilat agjenti verifikues vendos të këshillojë kundërvajtësin, këshillimi dokumentohet dhe administrohet në sistemet e policisë. Për drejtuesin e mjetit të këshilluar dhe evidentuar në sistem, nëse konstatohet me të njëjtën shkelje brenda një viti, vendoset masa maksimale e parashikuar nga dispozita e shkelur.

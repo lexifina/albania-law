@@ -1,0 +1,6 @@
+# Neni 18
+Brezat e rezervuar dhe zonat e fushëpamjes në qendrat e banuara
+1. Në qendrat e banuara, për ndërtimet ekzistuese e të reja, riparimet, rikonstruksionet dhe zgjerimet, brezat e rezervuar për mbrojtjen e rrugës, të matura nga kufiri rrugor, nuk duhet të kenë përmasa më të vogla se ato të treguara në aktet në zbatim, sipas tipit të rrugës.
+2. Në kryqëzimet rrugore në nivel, brezave të rezervuar të treguar në pikën 1, duhet t’u shtohen zonat e fushëpamjes të përcaktuara nga trekëndëshi që ka dy brinjë mbi vijat kufizuese të brezit të rezervuar, gjatësia e të cilave, e matur nga pika e ndërprerjes së këtyre vijave, të jetë sa dyfishi i largësive të përcaktuara në aktet në zbatim, kurse brinja e tretë përfaqësohet nga segmenti që bashkon dy pikat ekstreme.
+3. Ndalohet ndërtimi i çdo objekti mbitokësor pranë dhe në brendësi të kryqëzimeve në disnivel, që sipas gjykimit të entit pronar të rrugës pengon funksionimin normal të këtij kryqëzimi. Brezat e rezervuar për rampat e jashtme, duhet të jenë ato që i korrespondojnë rrugës më pak të rëndësishme ndërmjet atyre që kryqëzohen.
+4. Rrethimet dhe të mbjellat duhet të realizohen sipas planeve urbanistike dhe të trafikut, si dhe nuk duhet të pengojnë ose zvogëlojnë fushëpamjen e nevojshme për sigurinë e qarkullimit rrugor.

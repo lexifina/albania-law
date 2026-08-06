@@ -1,0 +1,5 @@
+# Neni 87
+Shërbimi i transportit të mallrave për llogari të të tretëve
+1. Për zbatimin e këtij neni, një mjet quhet i caktuar për transportin e mallrave për llogari të të tretëve, kur sipërmarrësi detyrohet, kundrejt pagesës përkatëse, të kryejë transportin e urdhëruar nga kërkuesi i transportit.
+2. Leja e transportit lëshohet mbi bazën e licencës së caktuar për kryerjen e shërbimit dhe shoqërohet me një dokument të posaçëm të përcaktuar nga aktet përkatëse që disiplinojnë këtë veprimtari dhe që është pjesë përbërëse e lejes së transportit. Dispozitat e këtij ligji nuk zbatohen për automjetet, kapaciteti transportues i të cilave është deri në 1,5 ton. Bëjnë përjashtim disa mallra të veçanta, të cilat përcaktohen me udhëzim të Ministrisë që mbulon veprimtarinë përkatëse.
+3. Cilido që përdor në shërbimin e transportit të mallrave për llogari të të tretëve një mjet që nuk është caktuar për një shërbim të tillë apo që shkel kushtet dhe kufizimet e përcaktuara në licencë ose në lejen e transportit, ndëshkohet me masë administrative me gjobë nga njëzet e pesë mijë deri në njëqind mijë lekë.

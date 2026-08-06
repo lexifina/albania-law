@@ -1,0 +1,4 @@
+# Neni 19
+Distancat e sigurisë nga rrugët
+1. Gjatë ndërtimit të poligoneve të qitjes, punishteve ose depove të materialeve plasëse, gazesh ose lëngjesh të ndezshme, të guroreve që shfrytëzohen nëpërmjet lëndës plasëse, si dhe të stabilimenteve që sidoqoftë ndikojnë në sigurinë ose shëndetin publik ose rregullsinë e qarkullimit rrugor, duhet të respektohen largësitë e përcaktuara nga aktet në zbatim ose, në mungesë të tyre, nga organi kompetent i pushtetit lokal, i cili merr paraprakisht mendimin teknik të entit pronar të rrugës dhe të zjarrfikësve.
+2. Cilido që shkel dispozitat e përcaktuara në nenet 16, 17, 18 dhe 19, i nënshtrohet masës administrative me gjobë nga dhjetë mijë deri në dyzet mijë lekë dhe është gjithashtu i detyruar të risjellë në gjendjen fillestare, me shpenzimet e tij, vendin ku është kryer shkelja.

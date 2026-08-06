@@ -1,0 +1,5 @@
+# Neni 5
+Rregullimi i qarkullimit në përgjithësi
+1. Ministria, që mbulon veprimtarinë përkatëse, u shpërndan organeve kompetente të pushtetit lokal dhe enteve pronare të rrugëve, sipas nenit 2 të këtij Kodi, aktet për zbatimin e normave të qarkullimit rrugor.
+2. Në rastet e mosrespektimit të këtyre akteve, ministri përgjegjës për transportin u heq enteve pronare të drejtën për të shpallur masa kufizuese për qarkullimin e mjeteve në rrugë. Kur entet pronare të rrugëve nuk veprojnë në mënyrën e caktuar, ministri përgjegjës për transportin, kur rrezikohet seriozisht siguria rrugore, merr masa për ekzekutimin e punimeve të nevojshme, me të drejtën e zhdëmtimit nga enti pronar i rrugës kundërvajtjes.
+3. Masat për rregullimin e qarkullimit shpallen nga entet pronare, sipas normave të neneve 6 e 7 të këtij Kodi, nëpërmjet organeve kompetente, me urdhëresa të motivuara dhe të bëra të njohura për publikun nëpërmjet sinjalizimeve rrugore. Kundër masave të shpallura nga komanda ushtarake territoriale e rajonit parashikohet ankesë hierarkike në Ministrinë e Mbrojtjes.

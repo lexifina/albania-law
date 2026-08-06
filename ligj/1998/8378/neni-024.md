@@ -1,0 +1,10 @@
+# Neni 24
+Pjesët që i përkasin rrugës
+1. Pjesët që i përkasin rrugës janë pjesët e rrugës të destinuara në mënyrë fikse për shërbimin ose pajimin funksional të saj.
+2. Pjesët që i përkasin rrugës, rregullohen nga normat e këtij Kodi dhe aktet në zbatim të tij; ato ndahen në pjesë të shfrytëzimit dhe pjesë të shërbimit.
+3. Quhen pjesë shfrytëzimi pjesët përbërëse të rrugës ose ato që janë vendosur në mënyrë fikse në trupin e rrugës.
+4. Pjesë shërbimi quhen zonat e shërbimit me objektet përkatëse për furnizimin dhe pushimin e përdoruesve, zonat e parkimit, zonat dhe ndërtesat për mirëmbajtjen e rrugës apo gjithsesi të destinuara nga enti pronar ekskluzivisht dhe në mënyrë të vazhdueshme për t’i shërbyer rrugës dhe përdoruesve të saj. Pjesët e shërbimit të rrugës përcaktohen nga enti pronar i rrugës në bazë të akteve në zbatim të këtij neni dhe në mënyrë që të mos pengojnë qarkullimin a të kufizojnë fushëpamjen.
+5. Pjesët që i përkasin rrugës, të formuara nga zonat e shërbimit, zonat e parkimit dhe nga ndërtesat e destinuara për çlodhje, mund t’u jepen në koncesion të tretëve, sipas rregullave të përcaktuara në aktet në zbatim.
+6. Cilido që vendos apo vë në shfrytëzim impiante ose objekte pa lejen përkatëse nga autoritetet përkatëse, siç është parashikuar nga neni 26 i këtij Kodi, ose transformon apo ndryshon mënyrën e përdorimit të tyre të parashikuar nga leja e sipërpërmendur dhe që shkel kushtet e saj, kur nuk përbën vepër penale, dënohet me masë administrative me gjobë nga pesëdhjetë mijë deri në dyqind mijë lekë.
+7. Cilido që shkel kushtet e lejes së sipërpërmendur, kur nuk përbën vepër penale, dënohet me masë administrative me gjobë nga njëzet e pesë mijë deri në njëqind mijë lekë.
+8. Shkeljet e mësipërme sjellin si pasojë masa administrative plotësuese me detyrimin për heqjen e impianteve ose objekteve të realizuara pa leje, në ngarkim e me shpenzimet e autorit. Shkeljet sipas pikës 7 sjellin si pasojë masa administrative plotësuese të pezullimit të veprimtarisë së ushtruar deri në zbatimin e kushteve të shkelura. Rivendosja e gjendjes normale nuk e përjashton pagesën e gjobës administrative të përcaktuar në pikën 7.

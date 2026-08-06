@@ -1,0 +1,5 @@
+# Neni 73
+Mjetet mbi shina në rrugë të përbashkëta
+1. Mjetet mbi shina, për të qarkulluar në rrugë të përbashkëta me mjetet rrugore me rrota, duhet të jenë të pajisura me sisteme ndriçimi dhe sinjalizimi pamor e zanor të ngjashme me ato të automjeteve. Gjithashtu, duhet të jenë të pajisura me sisteme të tilla që i lejojnë drejtuesit të mjetit lehtësi shikimi edhe nga pas. Fushëpamja e drejtuesit të mjetit, përpara dhe anash, duhet të jetë e tillë që të lejojë drejtim të sigurt të mjetit.
+2. Me udhëzim të ministrit përgjegjës për transportin përcaktohen karakteristikat dhe mënyrat e vendosjes së sistemeve të përmendura në pikën 1 dhe karakteristikat e fushëpamjes së drejtuesit të mjetit.
+3. Cilido që qarkullon në rrugë të përbashkëta, me një mjet mbi shina, që i mungojnë një ose disa prej sistemeve të parashikuara nga ky nen, ose në të cilin disa prej sistemeve, duke përfshirë edhe fushëpamjen, nuk janë në përputhje me karakteristikat a mënyrat e vendosjes sipas pikës 2, ndëshkohet me masë administrative me gjobë nga pesë mijë deri në njëzet mijë lekë.

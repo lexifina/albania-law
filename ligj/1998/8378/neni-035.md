@@ -1,0 +1,5 @@
+# Neni 35
+Kompetencat
+1. Ministri, që mbulon veprimtarinë përkatëse, është kompetent për nxjerrjen e urdhrave dhe udhëzimeve për organizimin e qarkullimit dhe të sinjalizimit përkatës rrugor, pasi ka marrë mendimin e ministrive që mbulojnë veprimtarinë mjedisore dhe bashkërendojnë problemet e qeverisjes vendore dhe decentralizimit, për çështjet brenda kompetencave të saj, për të gjitha rrugët, përjashtuar ato që janë vetëm për përdorim ushtarak, për të cilat kompetencat i ka komanda ushtarake e territorit. Ajo përcakton, gjithashtu, normat dhe kriteret ku duhet të mbështeten entet pronare të rrugëve, për planifikimin e trafikut, për rastet e përcaktuara në aktet që dalin në zbatim të Kodit.
+2. Ministri, që mbulon veprimtarinë përkatëse, është i autorizuar të përshtatë me aktet e veta, normat e rregullores për sinjalizimin rrugor, sipas nenit 44 të këtij Kodi.
+3. Ministri, që mbulon veprimtarinë përkatëse, nxjerr akte për sigurinë rrugore dhe auditimin e saj, sipas përcaktimeve në aktet në zbatim, si dhe urdhëron kontrollin e zbatimit të tyre.

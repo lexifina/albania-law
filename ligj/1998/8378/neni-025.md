@@ -1,0 +1,8 @@
+# Neni 25
+Përshkime dhe përdorimi i zonës rrugore
+1. Nuk mund të kryhen, pa lejen paraprake të entit pronar të rrugës, përshkime dhe përdorime të zonës rrugore dhe pjesëve përbërëse të saj, si kanale uji, tubacione uji, linja elektrike dhe telekomunikacioni ajrorë a nëntokësorë, nënkalime a mbikalime, teleferikë të çdo lloji, gazsjellës, depozita lëndësh djegëse të lëngëta ose të tjera impiante a vepra arti që mund të cënojnë gjithsesi pronësinë rrugore. Objektet e sipërpërmendura duhet të realizohen në mënyrë të tillë që përdorimi dhe mirëmbajtja e tyre të mos pengojë qarkullimin e mjeteve në rrugë, duke siguruar hyrjen nga brezat e përkatësisë.
+2. Lejet lëshohen vetëm në raste të domosdoshme, duke bërë paraprakisht verifikimin teknik nëpërmjet autoritetit kompetent sipas nenit 26. Cilido që nuk respekton kushtet e parashikuara në leje apo në normat e akteve përkatëse në zbatim, ndëshkohet me masë administrative me gjobë nga dy mijë e pesëqind deri në dhjetë mijë lekë.
+3. Kazanët për mbledhjen e mbeturinave urbane të çdo lloji dhe natyre duhet të vendosen në mënyrë të tillë që të mos paraqesin rrezik apo të mos pengojnë qarkullimin.
+4. Aktet në zbatim përcaktojnë normat për përshkimin dhe përdorimin e zonës së rrugës.
+5. Cilido që realizon një impiant apo objekt siç është parashikuar në pikën 1 ose ndryshon mënyrën e përdorimit apo ushtron veprimtarinë pa leje, ndëshkohet me masë administrative me gjobë nga pesëdhjetë mijë deri në dyqind mijë lekë.
+6. Shkeljet sipas pikave 2-5 sjellin si pasojë masa administrative plotësuese të pezullimit të çdo veprimtarie deri në zbatimin e kushteve të shkelura, me detyrimin për heqjen e impianteve a objekteve pa leje, në ngarkim e me shpenzimet e autorit të shkeljes.

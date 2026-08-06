@@ -1,0 +1,14 @@
+# Neni 176
+Dokumentet e udhëtimit për transporte profesionale me mjete të papajisura me tahograf
+1. Këto dokumente janë:
+a) librezat individuale, të dhënat e regjistrit të shërbimit dhe kopjet e orarit të shërbimit që sipas rregullores duhet t’u paraqiten për kontroll organeve të policisë rrugore të përmendura në nenin 12;
+b) librezat individuale të ruajtura nga subjekti i transportit dhe regjistrat e shërbimit që sipas rregullores duhet t’u paraqiten për kontroll funksionarëve të organeve përkatëse të ministrisë që mbulon veprimtarinë përkatëse dhe inspektoratit të punës.
+2. Drejtuesi i mjetit që kalon periudhat e drejtimit të caktuara dhe nuk zbaton periudhat e pauzës brenda kufijve të përcaktuar nga rregullorja, ose nuk zbaton periudhat e pushimit të përcaktuara, ose është i papajisur me librezën individuale të kontrollit a me të dhënat e regjistrit të shërbimit, ose kopjen e orarit të shërbimit sipas rregullores, ndëshkohet me masë administrative me gjobë nga një mijë deri në katër mijë lekë, E njëjta masë zbatohet edhe për anëtarët e tjerë të ekuipazhit që nuk zbatojnë këto norma.
+3. Cilido që nuk ka me vete ose mban të paplotësuar a ndryshon librezën individuale të kontrollit, ose të dhënat e regjistrit të shërbimit, apo kopjen e orarit të shërbimit, ndëshkohet me masë administrative me gjobë nga pesëqind deri në dy mijë lekë, përveç rastit kur akti përbën krim.
+4. Për shkeljet e normave të këtij neni subjekti i transportit, nga i cili varet i punësuari që ka kryer shkeljen, ka përgjegjësinë solidare me autorin e shkeljes të paguajë shumën e duhur.
+5. Ndërmarrja që gjatë kryerjes së transporteve nuk zbaton dispozitat e rregullores dhe nuk mban dokumentet e caktuara ose i mban të skaduara, të paplotësuara a të ndryshuara, ndëshkohet me masë administrative me gjobë nga pesë mijë deri në njëzet mijë lekë për secilin punonjës që ka kryer shkeljen, përveç rastit kur akti përbën krim.
+6. Kur shkeljet përsëriten, duke pasur parasysh edhe llojin e intensitetin e tyre, subjektit të transportit që kryen transport personash jo në shërbim linje ose mallrash, i pezullohet për një periudhë nga 1 në 3 muaj certifikata për transport e mjetit që ka kryer shkeljet, në qoftë se nuk ka marrë masa, pas paralajmërimit të autoritetit kompetent, për të rregulluar në një periudhë prej 30 ditësh pozicionin e tij.
+7. Në rast se subjekti i transportit, me gjithë procedimin sipas pikës 6, përsërit shkeljet, edhe në shërbime të tjera transporti që mund të kryejë, merret masa e heqjes së licencës për transport.
+8. Të njëjtat sanksione zbatohen edhe për subjektet e transportit që kryejnë transport njerëzish me shërbime në linjë.
+9. Sanksionet e pezullimit dhe të anulimit, për të cilat flitet në pikat 6, 7 dhe 8, ushtrohen nga autoriteti që ka lëshuar licencën.
+10. Kundër masës së heqjes pranohet ankim hierarkik brenda 15 ditëve në ministrinë përgjegjëse për transportin, e cila vendos brenda 30 ditëve.

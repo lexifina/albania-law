@@ -1,0 +1,6 @@
+# Neni 159
+Zënia e karrexhatës
+1. Në rast se karrexhata zihet për shkak të avarisë së mjetit, rënies së ngarkesës ose për çfarëdo arsye tjetër, drejtuesi i mjetit, me qëllim që të mënjanojë çdo rrezik për trafikun pasardhës, duhet menjëherë të lirojë për sa është e mundur kalimin, duke marrë masa për të mënjanuar zënien dhe për të shtyrë mjetin jashtë karrexhatës ose, në qoftë se kjo nuk është e mundur, ta vendosë në buzën e djathtë të karrexhatës dhe paralel me aksin e saj.
+2. Cilido që nuk ka mundur të shmangë rënien ose përhapjen e materialeve rrëshqitës, ndezës ose sidoqoftë të afta për të krijuar rrezik a pengesë për qarkullimin, duhet menjëherë të marrë masat e nevojshme për ta bërë qarkullimin të lirë dhe të sigurt.
+3. Në rastet e parashikuara nga ky nen, përdoruesi duhet të marrë masa për t’ua sinjalizuar rrezikun ose pengesën përdoruesve të tjerë nëpërmjet sinjalit të paraqitur në nenin 160 ose, në mungesë, me mjete të tjera të përshtatshme, si dhe të informojë entin pronar të rrugës a një organ të policisë.
+4. Cilido që shkel dispozitat e këtij neni, ndëshkohet me masë administrative me gjobë nga pesëqind deri në dy mijë lekë. Për efekt të pikës 2, masa administrative është me gjobë nga pesë mijë deri në njëzet mijë lekë.

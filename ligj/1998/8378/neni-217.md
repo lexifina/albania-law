@@ -1,0 +1,3 @@
+# Neni 217
+Bashkëshoqërimi i veprës penale me shkelje administrative të parashikuar në këtë Kod
+Kur vepra penale shoqërohet me shkelje të tjera të parashikuara në Kod për të cilat nuk është marrë masa përkatëse administrative, gjykata, me vendimin e dënimit, krahas veprës penale ndëshkon edhe shkeljet administrative sipas këtij Kodi. Organi administrativ i policisë për shkelje që parashikohen edhe si kundërvajtje administrative plotëson procedurat e kërkuara nga Kodi Rrugor dhe për vendimet që merr njofton brenda afateve të këtij Kodi organin procedues të prokurorisë dhe të gjykatës, sipas rastit. Kjo e fundit, pasi ka administruar në fashikull edhe procedimin administrativ në vendimin përfundimtar, evidenton sa më sipër.

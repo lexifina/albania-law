@@ -1,0 +1,13 @@
+# Neni 57
+Makinat bujqësore
+1. Makinat bujqësore janë makina me rrota ose me zinxhirë, të destinuara për t’u përdorur në bujqësi dhe pylltari, dhe mund të lëvizin mbi rrugë njëlloj si mjetet e tjera për të kaluar nga një vend pune te një tjetër, ose për të transportuar mallra bujqësore etj.
+2. Sipas qarkullimit mbi rrugë makinat bujqësore ndahen në:
+a) Vetëlëvizëse:
+1) Traktorë bujqësorë. Makina me motor me ose pa vend ngarkimi që kanë të paktën dy akse, të destinuara përgjithësisht për tërheqje, por që shërbejnë edhe për shtytje ose për të vënë në lëvizje mekanizma të caktuar; mund të jenë të pajisur me mekanizma që mbarten plotësisht ose jo plotësisht nga traktori dhe që konsiderohen pjesë përbërëse të tij.
+2) Makina bujqësore teknologjike me dy ose më shumë akse. Janë makina të pajisura ose të destinuara për përdorim të mekanizmave speciale për kryerjen e operacioneve të caktuara bujqësore.
+3) Makina bujqësore teknologjike me një aks. Janë makina që drejtohen nga toka prej drejtuesit të mjetit dhe mund të jenë të pajisura me karrel të shkëputshëm dhe të destinuar vetëm për transportin e drejtuesit të mjetit. Pesha e përgjithshme e mjetit nuk duhet t’i kalojë 0,7 tonët, duke përfshirë edhe drejtuesin e mjetit.
+b) Të tërhequra:
+1) Makina bujqësore teknologjike. Janë makina për kryerjen e operacioneve bujqësore dhe për transportin e mekanizmave dhe pajisjeve funksionale për punimet mekaniko-bujqësore; janë mjete që tërhiqen nga makina bujqësore vetëlëvizëse, me përjashtim të atyre për të cilat flitet në shkronjën “a”, pika 3.
+2) Rimorkio bujqësore. Mjete të destinuara për ngarkesë dhe të tërhequra nga traktorë bujqësorë; mund të jenë të pajisura me mekanizmat e nevojshme për punime bujqësore. Ngarkesa e përgjithshme e mjetit me ngarkesë të plotë nuk duhet t’i kalojë 1.5 tonët. Rimorkiot konsiderohen pjesë përbërëse të traktorit që i tërheq.
+3) Për t’iu përshtatur qarkullimit rrugor, makinat bujqësore vetëlëvizëse me rrota pneumatike ose sistem ekuivalent me to, nuk duhet të jenë të afta ta kalojnë shpejtësinë 40 km/h, kur lëvizin në rrugë horizontale; makinat bujqësore me rrota metalike, gjysmëpneumatike ose me zinxhirë metalikë, me kusht që të kenë veshje mbrojtëse, si dhe makinat bujqësore teknologjike me një aks dhe me karrel për drejtuesin e mjetit, nuk duhet të jenë të afta ta kalojnë shpejtësinë 15 km/h, kur lëvizin në rrugë horizontale.
+4) Makinat bujqësore, për të cilat flitet në shkronjën “a”, pikat 1 dhe 2, si dhe në shkronjën “b”, pika 1, mund të kenë maksimumi tri ndenjëse për personelin e shërbimit, duke përfshirë edhe drejtuesin e mjetit; rimorkiot bujqësorë mund të përdoren edhe vetëm për transportin e personelit të sipërpërmendur, mjafton që të pajisen jo në mënyrë të përhershme me mjetet e nevojshme.

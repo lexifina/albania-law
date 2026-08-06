@@ -1,0 +1,6 @@
+# Neni 194
+Parimi i solidaritetit
+1. Për shkeljet e dënueshme me masa administrative me gjobë, pronari i mjetit, ose në vend të tij përdoruesi, blerësi me marrëveshje për kthimin e mjetit kur nuk paguhen këstet ose përdoruesi me qira, është i detyruar, solidarisht me autorin e shkeljes, të paguajë shumën, për të cilën këta janë të detyruar, në qoftë se nuk provon që qarkullimi i mjetit ka ndodhur kundër vullnetit të tij. Në rastin sipas nenit 83 përgjigjet solidarisht qiramarrësi.
+2. Nëse shkelja është kryer nga persona të aftë për të kuptuar, por që janë nën autoritetin, drejtimin ose mbikëqyrjen e tjetërkujt, personi i veshur me autoritet ose i ngarkuar me drejtimin a mbikëqyrjen është i detyruar, solidarisht me autorin e shkeljes, të paguajë shumën që ai detyrohet, përveçse kur provon që nuk ka mundur të ndalojë kryerjen e aktit.
+3. Në qoftë se shkelja kryhet nga përfaqësuesi ose nga varësi i një personi juridik ose i një enti a shoqate pa personalitet juridik, ose sidoqoftë nga një sipërmarrës në ushtrimin e detyrave a funksioneve të tij, personi juridik, enti ose shoqata a sipërmarrësi është i detyruar, solidarisht me autorin e shkeljes, të paguajë shumën që ky detyrohet.
+4. Në rastet sipas pikave 1, 2 dhe 3, ai që ka derdhur shumën e përcaktuar për shkeljen, ka të drejtën e kthimit të plotë të saj nga ana e autorit të shkeljes.
