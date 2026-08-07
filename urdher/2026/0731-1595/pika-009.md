@@ -1,0 +1,1 @@
+9. Ngarkohen zëvendësministrja, znj. Pranvera Skana, institucionet e varësisë, agjencitë autonome dhe drejtoritë e aparatit në përbërje të Ministrisë së Mbrojtjes për zbatimin e këtij urdhri, sipas njoftimeve përkatëse për mungesën afatshkurtër të ministrit.
