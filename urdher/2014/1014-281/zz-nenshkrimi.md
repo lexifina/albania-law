@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINISTRI I TRANSPORTIT DHE INFRASTRUKTURËS
-Edmond Haxhinasto
