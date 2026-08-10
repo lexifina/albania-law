@@ -1,0 +1,6 @@
+# Neni 11
+Kontrollet zyrtare mbi Pectinidae, gastropodët detarë dhe ekinodermët, të cilët nuk janë filtrues, të cilët mblidhen nga zona prodhimi që nuk janë klasifikuar në përputhje me pikën 6, të nenit 18, të ligjit nr.61/2026 “Për kontrollet zyrtare”
+1. Me përjashtim të parashikimeve të nenit 18, pika 6, të ligjit nr.61/2026 “Për kontrollet zyrtare”, klasifikimi i zonave të prodhimit dhe të transferimit nuk kërkohet në lidhje me mbledhjen e Pectinidae, gastropodëve detarë dhe ekinodermëve, të cilët nuk janë filtrues, kur autoriteti kompetent kryen kontrolle zyrtare mbi këto kafshë në ankandet e peshkut, në qendrat e dërgimit dhe në njësitë e përpunimit.
+2.Këto kontrolle zyrtare verifikojnë përputhshmërinë me:
+a) standardet shëndetësore për molusqet bivalvore të gjalla të përcaktuara në kreun II të seksionit I, pika 27 të udhëzimit nr. 25 datë 25.11.2010 “Për kushtet higjienike dhe kontrollet për molusqet e gjalla bivalvore, peshkun dhe produktet e peshkimit”;
+b) kërkesat specifike për Pectinidae, gastropodët detarë dhe ekinodermët që nuk janë filtrues, të cilët mblidhen jashtë zonave të prodhimit të klasifikuara, të përcaktuara në kreun II, seksioni I, pika 35 e udhëzimit nr. 25 datë 25.11.2010 “Për kushtet higjienike dhe kontrollet për molusqet e gjalla bivalvore, peshkun dhe produktet e peshkimit”.

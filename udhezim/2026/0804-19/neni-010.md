@@ -1,0 +1,3 @@
+# Neni 10
+Kriteret dhe kushtet për kryerjen e kontrolleve zyrtare, përfshirë veprimtaritë e auditimit, në impiantet e prerjes
+Kontrollet zyrtare të përmendura në nenin 18, pika 2, shkronja “d”, përfshirë veprimtaritë e auditimit, në impiantet e prerjes mund të kryhen gjithashtu nga personel tjetër i caktuar nga autoritetet kompetente, me përjashtim nga kërkesat e përcaktuara në nenin 18, pika 2, shkronja “d”, të ligjit nr.61/2026 “Për kontrollet zyrtare”, me kusht që autoritetet kompetente të verifikojnë rregullisht punën e këtij personeli. Kryerja e këtyre veprimtarive i nënshtrohet respektimit të kreut III të aneksit të këtij udhëzimi dhe pjesë përbërëse e tij.

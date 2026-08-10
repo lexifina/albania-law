@@ -1,0 +1,9 @@
+# Neni 12
+Kërkesat minimale specifike për veterinerin zyrtar, ndihmësin zyrtar dhe personelin e caktuar nga autoriteti kompetent
+1. Veterinerët zyrtarë që kryejnë detyrat e parashikuara në nenin 18 të ligjit nr.61/2026 “Për kontrollet zyrtare” duhet të përmbushin kërkesat minimale specifike të përcaktuara në kreun I të aneksit të këtij udhëzimi dhe pjesë përbërese e tij.
+2. Me përjashtim të parashikimeve të në pikat 1 deri në 6 të kreut I të aneksit të këtij udhëzimi, ministri ka të drejtë të miratojë rregulla specifike për:
+a) veterinerët zyrtarë që punojnë me kohë të pjesshme, të cilët janë përgjegjës për inspektimin e bizneseve të vogla ose kryejnë vetëm kontrolle zyrtare në prodhimin primar, në veçanti kontrolle në fermat e prodhimit të qumështit dhe kontrolle para therjes (ante-mortem) jashtë thertoreve; dhe
+b) studentët e mjekësisë veterinare që kanë kaluar me sukses një provim mbi lëndët e përmendura në pikën 3 të kreut I të aneksit të këtij udhëzimi dhe që punojnë përkohësisht në një thertore në prani të një veterineri zyrtar.
+3. Veterinerët e emëruar si veterinerë zyrtarë përpara datës së fillimit të efekteve të këtij udhëzimi duhet të kenë njohuri të mjaftueshme për lëndët e përmendura në pikën 3 të Kreu I të Aneksit të këtij udhëzimi. Kur është e nevojshme, autoriteti kompetent siguron që këto njohuri të përfitohen përmes aktiviteteve të trajnimit të vazhdueshëm.
+4. Ndihmësit zyrtarë që zbatojnë detyrat e parashikuara në nenin 18 të ligjit nr.61/2026 “Për kontrollet zyrtare” duhet të përmbushin kërkesat minimale specifike të përcaktuara në kreun II të aneksit të këtij udhëzimi.
+5. Personeli i caktuar nga autoriteti kompetent që kryen detyrat e parashikuara në nenin 18 të ligjit nr.61/2026 “Për kontrollet zyrtare” duhet të përmbushë kërkesat minimale specifike të përcaktuara në kreun III të aneksit të këtij udhëzimi.
