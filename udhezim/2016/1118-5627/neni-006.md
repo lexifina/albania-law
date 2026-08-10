@@ -1,8 +1,8 @@
 # Neni 6
 Licenca
 1. Licenca lëshohet në emër të subjektit të transportit dhe është e patjetërsueshme dhe e patransferueshme.
-2. Periudha e vlefshmërisë së licencës për shërbimet e rregullta qytetëse dhe rrethqytetëse është 10 vjet.
-Periudha e vlefshmërisë së licencës për shërbimet e rregullta ndërqytetëse është 5 vjet.
+2. Periudha e vlefshmërisë së licencës për shërbimet e rregullta qytetëse dhe rrethqytetëse është deri në 10 vjet.
+Periudha e vlefshmërisë së licencës për shërbimet e rregullta ndërqytetëse është deri në 5 vjet.
 3. Licenca për shërbimet e rregullta qytetëse, rrethqytetëse, ndërqytetëse është sipas modelit të lidhjes 1.
 4. Licenca për shërbimet e rregullta të specializuara dhe shërbimet vajtje-ardhje, përmban elementët e përcaktuar sipas modelit të lidhjes 2 dhe lidhjes 3. Periudha e vlefshmërisë të këtyre licencave është 5 vjet.
 5. Licencat për shërbimet e rregullta qytetëse, rrethqytetëse dhe ndërqytetëse të udhëtarëve, lëshohen vetëm për linjat e miratuara sipas ligjit për transportet rrugore.
