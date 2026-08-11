@@ -1,0 +1,1 @@
+2. Ngarkohen Autoriteti Rregullator Hekurudhor, administratorët e infrastrukturës hekurudhore, sipërmarrësit hekurudhorë dhe operatorët e impianteve të shërbimit për ndjekjen dhe zbatimin e këtij urdhri.
