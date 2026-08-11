@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për kushtet teknike për ndërveprimin në lidhje me nënsistemin ’Infrastrukturë’ të sistemit hekurudhor”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
