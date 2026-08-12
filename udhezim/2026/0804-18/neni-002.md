@@ -1,0 +1,7 @@
+# Neni 2
+Regjistrimi në Katalogun Kombëtar
+1. Varietetet që plotësojnë kushtet e përcaktuara në ligjin nr. 10416 datë 7.4.2011, “Për materialin mbjellës dhe shumëzues bimor”, të ndryshuar, i propozohen Komisionit të Regjistrimit të Varieteteve për regjistrim në Katalogun Kombëtar, bazuar në rezultatet e vlerësimit teknik të kryer nga ESHFF-ja.
+2. Në rastin e varieteteve përbërëse, përfshirë linjat e inbride dhe hibridet, të destinuara vetëm si komponentë prindërorë për prodhimin e varieteteve përfundimtare, dispozitat e pikës 1 të këtij neni zbatohen vetëm në masën që materiali mbjellës dhe shumëzues bimor që u përket këtyre varieteteve tregtohet me emërtimin e tyre.
+3. Për qëllim të vlerësimit teknik për varietetet e paraqitura për regjistrim në Katalogun Kombëtar, ESHFF-ja mund të kërkojë dhe të shkëmbejë informacion teknik, përfshirë rezultatet e testimeve për dallueshmëri, uniformitet dhe stabilitet, me autoritetet kompetente të shteteve anëtare të Bashkimit Evropian dhe me organizmat e njohur ndërkombëtarë në fushën e materialit mbjellës dhe shumëzues bimor.
+4. ESHFF-ja siguron që varietetet që vijnë nga shtete të tjera t’u nënshtrohen të njëjtave kërkesa, veçanërisht lidhur me procedurën e regjistrimit në Katalogun Kombëtar, si dhe kërkesave të tjera të regjistrimit, njësoj si varietetet vendase.
+5. Kërkesa për regjistrimin e varietetit paraqitet sipas formularit të përcaktuar në shtojcën I, bashkëlidhur këtij udhëzim.

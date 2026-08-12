@@ -1,0 +1,7 @@
+# Neni 8
+Dosja dhe emërtimi i varietetit
+1. ESHFF-ja harton për çdo varietet të regjistruar një dosje të veçantë, e cila përmban përshkrimin e varietetit dhe një përmbledhje të qartë të të gjitha të dhënave mbi të cilat është bazuar regjistrimi i tij. Përshkrimi i varietetit lidhet me bimët e prodhuara drejtpërdrejt nga fara, si dhe me materialin mbjellës dhe shumëzues bimor të kategorisë “farë dhe material materiali mbjellës, dhe shumëzues bimor i certifikuar”. Dosja e varietetit hartohet sipas modelit të përcaktuar në shtojcën V, bashkëlidhur këtij udhëzimi.
+2. Varietetet e modifikuara gjenetikisht shënohen qartë si të tilla në Katalogun Kombëtar.
+3. Për sa i përket përshtatshmërisë së emërtimit të varietetit, zbatohen rregullat e përcaktuara në legjislacionin në fuqi për materialin mbjellës dhe shumëzues bimor. Aplikanti paraqet emrin e ri brenda afatit të përcaktuar në njoftimin e ESHFF-së, sipas afatit të përcaktuar në legjislacionin në fuqi.
+4. ESHFF-ja vë në dispozicion të Komisionit të Regjistrimit të Varieteteve dosjet e parashikuara në nenin 9, pika 1, për varietetet e regjistruara ose për ato që kanë humbur statusin e regjistrimit. Informacioni i shkëmbyer në lidhje me këto dosje trajtohet si konfidencial.
+5. Aksesi në dosjet e varietetit garantohen sipas legjislacionit në fuqi për të drejtën e informimit, mbrojtjen e të dhënave dhe informacionin konfidencial. Kjo dispozitë nuk zbatohet për informacionin që, në përputhje me nenin 6, pika 3 të këtij udhëzimi, trajtohet si konfidencial.

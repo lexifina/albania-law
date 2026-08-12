@@ -1,0 +1,4 @@
+# Neni 1
+Qëllimi dhe fusha e zbatimit
+1. Ky udhëzim përcakton kërkesat për përshtatjen e emrit të varietetit, procedurat dhe afatet për regjistrimin, procedurat për çregjistrimin dhe rinovimin e regjistrimit të varieteteve në Katalogun Kombëtar të varieteteve të specieve të bimëve bujqësore, si dhe formën dhe përmbajtjen e kërkesës për rinovimin e regjistrimit, për varietetet, materiali mbjellës dhe shumëzues bimor i të cilave prodhohet, përgatitet për treg, importohet dhe tregtohet në Republikën e Shqipërisë, në përputhje me ligjin nr. 10 416, datë 7.4.2011, “Për materialin mbjellës dhe shumëzues bimor”, të ndryshuar.
+2. Dispozitat e këtij udhëzimi nuk zbatohen për varietetet, farën ose materialin mbjellës dhe shumëzues bimor të destinuar për eksport në vendet e tjera, përveç rasteve kur parashikohet ndryshe nga legjislacioni në fuqi.
