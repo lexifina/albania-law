@@ -1,0 +1,1 @@
+14. Shpenzimet e përfaqësuesve të MA-së për monitorimin e provimeve të Maturës Shtetërore 2026 dhe Maturës Shtetërore Profesionale 2026, sesioni i dytë, të mbulohen nga institucionet ku janë të punësuar.

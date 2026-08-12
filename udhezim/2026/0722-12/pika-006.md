@@ -1,0 +1,1 @@
+6. Maturantët/kandidatët e përcaktuar në pikën 5, shkronjat “c” dhe “ç”, të këtij udhëzimi të regjistrohen në shkollën ku kanë përfunduar arsimin e mesëm të lartë ose në shkollën që u cakton zyra vendore e arsimit parauniversitar (ZVAP).

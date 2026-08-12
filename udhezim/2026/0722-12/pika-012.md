@@ -1,0 +1,1 @@
+12. Drejtori i AKAP-së, brenda datës 11 gusht 2026, të njoftojë zyrtarisht QSHA-në dhe MA-në, për qendrat dhe mjediset ku do të zhvillohen provimet e detyruara dhe me zgjedhje të Maturës Shtetërore 2026, sesioni i dytë dhe për listën e shkollave që marrin pjesë në provimet e Maturës Shtetërore 2026 dhe të Maturës Shtetërore Profesionale 2026, sesioni i dytë.

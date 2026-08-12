@@ -1,0 +1,1 @@
+9. Drejtori i institucionit arsimor parauniversitar dërgon zyrtarisht në ZVAP, listën e maturantëve që do të marrin pjesë në provimet e detyruara dhe me zgjedhje të Maturës Shtetërore 2026 dhe në provimet e detyruara të Maturës Shtetërore Profesionale 2026, sesioni i dytë, deri më datë 9 gusht 2026. Drejtori i ZVAP-së ta dërgojë këtë listë në QSHA, në datën 10 gusht 2026.
