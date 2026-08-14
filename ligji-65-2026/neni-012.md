@@ -1,0 +1,5 @@
+# Neni 12
+Tregtimi i dëftesës tregtare mbi produktin bujqësor të ardhshëm e të magazinuar
+1. Kreditori ka të drejtë t’ia shesë një pale të tretë dëftesën tregtare mbi produktin bujqësor të ardhshëm e të magazinuar. Kreditori plotëson online formularin e aplikimit për shitjen e dëftesës tregtare, duke përcaktuar çmimin e shitjes, nëpërmjet portalit “e-Albania”. Kushtet dhe detyrimet e marra përsipër nga debitori me dëftesën tregtare mbi produktin bujqësor të ardhshëm e të magazinuar nuk ndryshojnë me ndryshimin e kreditorit.
+2. Ndryshimet pasqyrohen te regjistri elektronik për shërbimet e ministrisë. Dëftesa tregtare me emrin e blerësit të ri gjenerohet automatikisht nëpërmjet portalit “e-Albania”. Vërtetimi për regjistrimin e dëftesës me emrin e blerësit të ri lëshohet automatikisht me vulën elektronike të ministrisë. Dëftesa tregtare me emrin e blerësit të ri përbën titull ekzekutiv.
+3. Përmbajtja e formularit elektronik për tregtimin e dëftesave tregtare, duke përfshirë elementet e nevojshme për përmbushjen e transaksionit dhe rregullat e njoftimit të palëve, përcaktohen me vendim të Këshillit të Ministrave.
