@@ -1,3 +1,3 @@
 # Neni 29
 Kultivimi i organizmave joautoktonë
-Kultivimi i llojeve joautoktone të organizmave ujorë kryhet vetëm me miratimin e ministrit që mbulon mjedisin si dhe me pëlqimin e institucioneve shkencore të regjistruara për veprimtari kërkimore, para lidhjes së kontratës.
+Rregullat për kultivimin e specieve aliene dhe lokalisht të munguara përcaktohen me urdhër të përbashkët të ministrit përgjegjës për peshkimin dhe akuakulturën dhe ministrit përgjegjës për çështjet e mjedisit.
