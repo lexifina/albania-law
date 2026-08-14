@@ -11,5 +11,6 @@ b) substancat që janë shumë të qëndrueshme ose shumë të akumulueshme biol
 4. Në listën SVHC përfshihen gjithashtu:
 a) substancat që mund të shkaktojnë çrregullime endokrine;
 b) substancat që nuk i plotësojnë kriteret e shkronjave “a” dhe “b”, të pikës 3, por për të cilat ka të dhëna shkencore për efekte të mundshme serioze për njerëzit apo mjedisin, ekuivalente me substancat e listuara në pikat 2 dhe 3, të këtij neni.
-5. Lista e substancave me rrezikshmëri shumë të lartë (SVHC), kriteret për përfshirjen e substancave në listën SVHC dhe lëshimi i një autorizimi të kushtëzuar, me qëllim vazhdimin e përdorimit të SVHC-së miratohen nga Këshilli i Ministrave, me propozimin e ministrit.
+4/1. Lista e substancave me rrezikshmëri shumë të lartë (SVHC) miratohet me urdhër të ministrit. Lista përditësohet në përputhje me listën e substancave SVHC, të miratuar sipas aneksit XIV, të rregullores (KE) nr. 1907/2006 (REACH), i ndryshuar.
+5. Kriteret për përfshirjen e substancave në listën SVHC dhe lëshimi i një autorizimi të kushtëzuar, me qëllim vazhdimin e përdorimit të SVHC-së miratohen nga Këshilli i Ministrave, me propozimin e ministrit.
 6. Autorizimi i kushtëzuar miratohet nga Këshilli i Ministrave, me propozimin e ministrit, pa përfshirjen e QKL-së.

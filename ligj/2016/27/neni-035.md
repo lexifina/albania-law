@@ -12,5 +12,5 @@ e) kontrollon mbajtjen e informacionit nga prodhuesit, importuesit dhe furnizues
 2. Struktura përgjegjëse për inspektimin nën ministrinë përgjegjëse për tregtinë, është autoriteti përgjegjës për mbikëqyrjen e tregut të kimikateve të rrezikshme dhe artikujve të caktuar, që kanë në përbërje të tyre të paktën një substancë të rrezikshme, që shiten nga shpërndarësit për konsum të përgjithshëm, lidhur me kontrollin nëse:
 a) janë të etiketuara dhe të paketuara, sipas kërkesave të këtij ligji dhe vendimit të Këshillit të Ministrave në zbatim të tij;
 b) janë të pajisura me Dokumentacionin me të Dhënat e Sigurisë së Kimikateve, sipas kërkesave të këtij ligji dhe vendimit të Këshillit të Ministrave në zbatim të tij.
-3. Struktura përgjegjëse për inspektimin nën ministrinë përgjegjëse për industrinë, është autoriteti përgjegjës për verifikimin e pajisjes me licencë të personave fizikë/juridikë që ushtrojnë veprimtarinë e prodhimit, vendosjes në treg, depozitimit e ruajtjes së kimikateve të rrezikshme dhe zbatimin e kushteve të saj.
-4. Struktura përgjegjëse për inspektimin në mjedis, struktura përgjegjëse për inspektimin për tregtinë dhe struktura përgjegjëse për inspektimin për industrinë paraqesin raportin vjetor të inspektimeve pranë Zyrës së Kimikateve brenda datës 1 mars të vitit pasardhës.
+3. Shfuqizuar.
+4. Strukturat përgjegjëse për inspektimin sipas fushave përkatëse të përgjegjësisë paraqesin raportin vjetor të inspektimeve pranë Zyrës së Kimikateve brenda datës 1 mars të vitit pasardhës.

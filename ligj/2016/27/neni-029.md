@@ -1,5 +1,6 @@
 # Neni 29
 Ruajtja, magazinimi dhe shitja e kimikateve të rrezikshme
+( Hequr fjalë në pikën 7 me ligjin nr. 67/2026, datë 16.7.2026)
 1. Kushtet themelore për ruajtjen e kimikateve të rrezikshme janë:
 a) zotërimi i një objekti të përgatitur për magazinimin e kimikateve;
 b) sigurimi që në atë objekt të mos ketë akses për persona të paautorizuar;
@@ -12,7 +13,7 @@ c) të mbahen ose të ruhen në mënyrë të tillë që të parandalohet ndonjë
 4. Kimikatet e rrezikshme dhe paketimi i tyre duhet të mbrohen nga ndikimet e rrezikshme, veçanërisht nga ato të natyrës mekanike.
 5. Kimikatet e rrezikshme duhet të jenë qartësisht të identifikueshme dhe gjatë ruajtjes në magazinë duhet të mbahen të ndara nga mallrat e tjera. Kimikatet duhet të mbahen vetëm në paketim origjinal, të mbyllur dhe të pathyeshëm.
 6. Kimikatet e rrezikshme të vendosura në treg për t’u përdorur nga publiku mund të shiten në njësi të specializuara për kimikatet. Në rastet e shitjes me vetëshërbim, këto mallra nuk lejohen të ekspozohen në vende ku mund të merren lirisht; ato duhet të mbahen veç nga mallrat e tjera, në mënyrë që të shmanget kontakti me to dhe duhet të jepen vetëm nga shitësi.
-7. Ministria, në bashkëpunim me ministrinë përgjegjëse për industrinë, ministrinë përgjegjëse për shëndetësinë dhe ministrinë përgjegjëse për bujqësinë, miraton udhëzues praktik për kushtet e ruajtjes dhe tregtimin me pakicë të kimikateve, brenda 1 viti nga hyrja në fuqi e këtij ligji.
+7. Ministria, në bashkëpunim me ministrinë përgjegjëse për shëndetësinë dhe ministrinë përgjegjëse për bujqësinë, miraton udhëzues praktik për kushtet e ruajtjes dhe tregtimin me pakicë të kimikateve, brenda 1 viti nga hyrja në fuqi e këtij ligji.
 8. Pikat 1 deri në 3 zbatohen edhe për objekte magazinimi, ku janë ruajtur kimikatet, në atë sasi që mund të rrezikojnë shëndetin e njeriut ose mjedisin, të cilat më pas janë vendosur në treg.
 9. Kimikatet, të cilat mund të reagojnë me njëra-tjetrën duke shfaqur rrezik, duhet të ruhen në mënyrë të ndarë.
 10. Kimikatet e rrezikshme duhet të ruhen në enë që plotësojnë kërkesat e mëposhtme:

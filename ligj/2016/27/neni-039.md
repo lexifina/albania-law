@@ -1,6 +1,6 @@
 # Neni 39
 Detyrimi për të siguruar përputhshmërinë
-Gjatë kryerjes së detyrave të referuara në nenin 35, të këtij ligji, inspektori i mjedisit, inspektori përgjegjës për tregtinë dhe inspektori përgjegjës për industrinë, sipas fushës së tyre të përgjegjësisë, kanë të drejtë që në bazë të një vendimi:
+Gjatë kryerjes së detyrave të referuara në nenin 35 të këtij ligji strukturat përgjegjëse për inspektimin, sipas fushave përkatëse të përgjegjësisë, kanë të drejtë që në bazë të një vendimi:
 a) të urdhërojnë që kimikatet e vendosura në treg të klasifikohen, të etiketohen dhe të paketohen sipas dispozitave të këtij ligji dhe dispozitave të dala në zbatim të këtij ligji;
 b) të ndalojnë vendosjen në treg të kimikateve të klasifikuara, të etiketuara dhe të paketuara në kundërshtim me dispozitat e këtij ligji dhe dispozitat e akteve të nxjerra në zbatim të tij dhe:
 i) të urdhërojnë tërheqjen nga tregu të kimikateve ose artikujve të caktuar të klasifikuar, të etiketuar, të paketuar në kundërshtim me dispozitat e këtij ligji;

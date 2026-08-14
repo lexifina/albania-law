@@ -44,8 +44,8 @@ b) 2 000 000 deri në 3 000 000 lekë për prodhuesit dhe importuesit.
 32. Importimi dhe eksportimi i substancave dhe përzierjeve, përdorimi i të cilave është i ndaluar, me qëllim për të mbrojtur shëndetin e njeriut dhe mjedisin, në kundërshtim me pikën 1, të nenit 25, të këtij ligji, dënohet me gjobë nga 2 000 000 deri në 3 000 000 lekë.
 33. Mosregjistrimi i kimikateve nga prodhuesit dhe importuesit, sipas përcaktimeve të pikave 1 dhe 4, të nenit 27, të këtij ligji, dënohet me gjobë nga 300 000 deri në 600 000 lekë.
 34. Mosraportimi në ministri nga prodhuesi, importuesi, eksportuesi brenda datës 31 mars të vitit vijues për sasinë e prodhuar, të importuar, të eksportuar të kimikateve për vitin e kaluar, në kundërshtim me pikat 1 dhe 4, të nenit 27, të këtij ligji, dënohet me gjobë nga 100 000 deri në 300 000 lekë.
-35. Prodhimi, vendosja në treg, përdorimi, depozitimi, ruajtja e kimikateve të rrezikshme nga persona të papajisur me licencë, në kundërshtim me nenin 28, të këtij ligji, dënohet me gjobë nga 300 000 deri në 500 000 lekë.
-36. Shkelja e kushteve të licencës së kimikateve nga ana e poseduesit të saj, në kundërshtim me nenin 28, të këtij ligji, dënohet me gjobë nga 100 000 deri në 300 000 lekë.
+35. Shfuqizuar.
+36. Shfuqizuar.
 37. Shkarkimet e asbestit në ajër ose derdhjet e tij në mjedis, në kundërshtim me vlerat kufi të parashikuara në legjislacionin specifik, në përputhje me këtë ligj, dënohet me gjobë nga 1 000 000 deri në 2 000 000 lekë.
 38. Kryerja e eksportit të mërkurit metalik, komponimeve dhe përzierjeve të caktuara të merkurit, në kundërshtim me rregullat e ndalimit, sipas përcaktimeve në pikën 2, të nenit 23, të këtij ligji, dënohet me gjobë nga 1 000 000 deri në 2 000 000 lekë.
 39. Ruajtja e mërkurit metalik në kundërshtim me rregullat e përcaktuara në pikën 2, të nenit 23, të këtij ligji, dënohet me gjobë nga 300 000 deri në 500 000 lekë.

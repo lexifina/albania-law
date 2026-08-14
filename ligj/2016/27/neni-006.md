@@ -15,6 +15,6 @@ f) shërbimin e informacionit (helpdesk) për të ofruar këshilla për prodhues
 g) informimin e publikut të gjerë në lidhje me këtë ligj dhe aktet nënligjore në zbatim të tij për rreziqet që vijnë nga kimikatet kur konsiderohet e domosdoshme për mbrojtjen e shëndetit të njeriut ose mjedisit;
 gj) plotësimin e detyrimeve lidhur me konventat dhe marrëveshjet e tjera ndërkombëtare për menaxhimin e kimikateve (Konventa e Stokholmit, Konventa e Roterdamit, protokollet e CLRTAP-it).
 4. Ministria është Autoriteti Kombëtar i Përcaktuar në Republikën e Shqipërisë për zbatimin e Konventës së Roterdamit dhe realizon procedurën e njoftimit për pëlqim paraprak dhe procedurën për marrjen e pëlqimit, në bazë të njoftimit paraprak për importin dhe eksportin e disa kimikateve të rrezikshme.
-5. Ministria përgjegjëse për tregtinë dhe ministria përgjegjëse për industrinë janë autoritetet kompetente për kontrollin në treg të kimikateve.
-6. Ministria përgjegjëse për industrinë është autoriteti kompetent për licencimin e veprimtarive që lidhen me kimikate të klasifikuara si të rrezikshme, sipas legjislacionit në fuqi.
+5. Ministria përgjegjëse për tregtinë është autoriteti kompetent për kontrollin në treg të kimikateve.
+6. Shfuqizuar.
 7. Ministria përgjegjëse për shëndetësinë është përgjegjëse për marrjen e informacionit mbi sigurinë dhe rreziqet e kimikateve të rrezikshme për shëndetin, me qëllim hartimin e masave parandaluese kurative, veçanërisht për rastet e emergjencave shëndetësore.
