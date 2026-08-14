@@ -1,0 +1,26 @@
+{
+  "qbz_id": 34000,
+  "title": "Për një ndryshim në ligjin nr. 103/2016, “Për akuakulturën”, i ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "68",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2026-07-16",
+  "published": "2026-07-30",
+  "in_force": "2026-08-14",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/f547e40a62ff806ac98030801d401f360188d8f9466d0348be84797d162852ca.docx",
+  "source_sha256": "f547e40a62ff806ac98030801d401f360188d8f9466d0348be84797d162852ca",
+  "official_record": "https://qbz.gov.al/api/v1/acts/34000",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2026/07/16/68",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
