@@ -1,0 +1,1 @@
+2. Në ushtrimin e detyrave të përkohshme, siguron vazhdimësinë e veprimtarisë së Drejtorisë së Përgjithshme të MZSH-së dhe ushtron kompetencat e nevojshme për garantimin e funksionimit normal të saj, në kufijtë e kompetencave të parashikuara nga legjislacioni në fuqi.
