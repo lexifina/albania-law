@@ -1,0 +1,1 @@
+9. Autoriteti përgjegjës vendor për kufirin dhe migracionin dhe autoriteti përgjegjës qendror/rajonal i AKPA-së, shkëmbejnë informacione për rastet kur ka ndryshim të kushteve të punësimit apo kur AKPA-ja refuzon të japë miratimin për punësimin e një të huaji.

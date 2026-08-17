@@ -1,0 +1,1 @@
+12. Udhëzimi i përbashkët i ministrit të Brendshëm dhe i ministrit të Financave dhe Ekonomisë nr. 3, datë 11.1.2023, “Mbi bashkëpunimin ndërinstitucional ndërmjet autoriteteve përgjegjëse të Ministrisë së Brendshme dhe autoriteteve përgjegjëse të Ministrisë së Financave dhe Ekonomisë, për përcaktimin e procedurave për miratimin e lejes unike”, shfuqizohet.
