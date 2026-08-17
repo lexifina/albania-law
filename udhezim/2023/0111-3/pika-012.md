@@ -1,1 +1,0 @@
-12. Verifikimi i përputhshmërisë së dokumentacionit të paraqitur online për miratimin për punësim, me dokumentacionin fizik (të noterizuar, legalizuar, ose origjinal sipas detyrimit ligjor), bëhet nga autoriteti përgjegjës vendor për kufirin dhe migracionin.

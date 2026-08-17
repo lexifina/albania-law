@@ -1,1 +1,0 @@
-7. Për ripërtëritjen e lejes unike, në rastet kur kërkohet miratimi për punësim, ndiqet e njëjta procedurë si në rastin e kërkesës për miratim për punësim për herë të parë, me përjashtim të shpalljes së vendit të lirë të punës.

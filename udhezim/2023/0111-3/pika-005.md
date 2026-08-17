@@ -1,1 +1,0 @@
-5. Autoriteti përgjegjës rajonal/vendor i Agjencisë Kombëtare të Punësimit dhe Aftësive, shprehet në sistemin elektronik online, me aprovim apo refuzim të kërkesës për miratim punësimi, brenda 2 javëve (10 ditë pune) nga marrja e kërkesës dhe kur janë plotësuar të gjitha kriteret e tjera ligjore ose nga momenti i plotësimit të tyre.
