@@ -4,6 +4,10 @@ Nr. 44, datë 11.2.2026
 
 MBI DHËNIEN E AUTORIZIMIT NGA ERE PËR NDRYSHIMIN E ORTAKUT QË KONTROLLON INTERESAT E SHOQËRISË “PARISOL” SHPK
 
+(Ndryshuar me vendimin nr. 235, datë 18.8.2026)
+
+(i përditësuar)
+
 Në mbështetje të nenit 16, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 5, 7, 9, pika 4 dhe 5, dhe nenit 10, të “Rregullores për procedurat dhe afatet për dhënien e autorizimit nga ERE për ndryshimin e statusit ligjor të të licencuarit, ndryshimin e ortakut/aksionarit që kontrollon interesat e të licencuarit dhe vendosjen e kuotave/aksioneve të ortakut/aksionerit që kontrollon interesat e të licencuarit, si mjete për garantimin e përmbushjes së detyrimit/eve ndaj të tretëve”, miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 235, datë 26.11.2021; si dhe nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 11.2.2026, mbasi shqyrtoi relacionin me nr. 175/4 prot., datë 10.2.2026, të Drejtorisë së Licencimit dhe Autorizimeve, “Mbi kërkesën e shoqërisë ‘Parisol’ sh.p.k. për dhënien e autorizimit nga ERE për ndryshimin e ortakut që kontrollon interesat e saj”,
 
 konstatoi se:
@@ -76,11 +80,11 @@ VENDOSI:
 
 1. Dhënien e autorizimit nga ERE për ndryshimin e ortakut kryesor që kontrollon interesat e shoqërisë “Parisol” sh.p.k., sipas strukturës së kërkuar për 70% të kuotave të kapitalit nga z. M. D. tek z. A. Sh.
 
-2. Shoqëria të informojë ERE-n menjëherë pasi të disponojë/marrë miratimin përkatës të Intesa SanPaolo Bank (konfirmimin nga banka mëmë), në lidhje me dakordësinë për ndryshimin e ortakut të shoqërisë, lidhur me detyrimet që i burojnë shoqërisë nga kontratat e kredive të nënshkruara me bankën, datë 18.4.2025.
+2. Shfuqizuar.
 
 3. Dhënia e autorizimit nga ERE për ndryshimin e ortakut që kontrollon interesat e shoqërisë “Parisol” sh.p.k., nuk e çliron këtë të fundit nga detyrimi për të marrë autorizimin/miratimin e palëve të treta për këtë ndryshim, në rast se kjo kërkohet nga këto palë.
 
-4. Ky vendim është objekt rishikimi nga ERE, në zbatim të pikës 2, si dhe në rast të depozitimit të dokumentacionit të ndryshëm nga ai që i ka shërbyer kësaj vendimmarrjeje.
+4. Ky vendim është objekt rishikimi nga ERE, në rast të depozitimit të dokumentacionit të ndryshëm nga ai që i ka shërbyer kësaj vendimmarrje.
 
 5. Drejtoria e Licencimit dhe Autorizimeve të njoftojë shoqërinë “Parisol” sh.p.k. dhe Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s.
 
