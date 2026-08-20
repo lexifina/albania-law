@@ -1,0 +1,2 @@
+# Neni 589
+Dorëzanësi përgjigjet për aq sa detyrohet debitori kryesor, duke përfshirë edhe pagimin e kamatës, shpërblimin e dëmit të shkaktuar nga vonesa e ekzekutimit dhe të shpenzimeve të tjera që ka bërë kontraktori për të nxjerrë kredinë e tij, përveç kur në marrëveshje pranohet që dorëzania të jepet edhe për një pjesë të detyrimit, ose me kushte më të lehta ose më të pakta se detyrimi kryesor. Dorëzania që kalon detyrimin ose që jepet në kushte më të rënda se detyrimi kryesor, është e vlefshme vetëm deri në kufijtë e këtij të fundit.

@@ -1,0 +1,3 @@
+# Neni 221
+Kur ndërtesa shembet tërësisht ose në një pjesë që përbën jo më pak se tre të katërtat e vlerës së saj, secili bashkëpronar mund të kërkojë që të shiten në ankand trualli dhe materialet, përveç kur është vendosur ndryshe. Kur ndërtesa është dëmtuar në një përmasë më të vogël, asambleja vendos për rindërtimin e objekteve të përbashkëta të ndërtesës dhe secili bashkëpronar i tyre detyrohet të kontribuojë në përpjesëtim me të drejtat e tij në ato objekte. Bashkëpronari që nuk dëshiron të marrë pjesë në rindërtimin e ndërtesës, duhet t’u shesë bashkëpronarëve të tjerë ose ndonjërit prej tyre edhe objektet, të cilët janë pronë vetëm e tij, sipas vlerësimit që do të bëhet.
+B. Bashkëpronësia midis anëtarëve të familjes bujqësore

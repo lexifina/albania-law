@@ -1,0 +1,2 @@
+# Neni 174
+Pronari i tokës që ka bërë ndërtime e vepra të tjera dhe mbjellje me material të huaj, detyrohet të paguajë vleftën e tyre, në rast se nuk kërkohet ndarja e kthimi i tyre dhe kur kjo mund të kryhet pa u shkaktuar një dëm thelbësor ndërtimeve ose mbjelljeve të kryera. Kur ndarja e materialeve është e mundshme dhe pronari i tokës ka vepruar me keqbesim, duhet t’i shpërblejë pronarit të materialeve dëmin e pësuar.

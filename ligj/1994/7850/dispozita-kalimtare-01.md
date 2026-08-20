@@ -1,0 +1,2 @@
+# Dispozitë kalimtare (Parashikuar në ligjin nr. 121/2013, datë 18.4.2013)
+Dispozitat për trashëgiminë janë të zbatueshme vetëm për kërkesat për lëshimin e dëshmisë së trashëgimisë, të bëra pas hyrjes në fuqi të këtij ligji. Çështjet gjyqësore me objekt “kërkesë për lëshimin e dëshmisë së trashëgimisë” do të vazhdojnë të shqyrtohen nga gjykata kompetente, sipas ligjit të kohës së paraqitjes së kërkesës. Dispozitat mbi agjencinë janë të zbatueshme për kontratat e agjencisë, të lidhura pas hyrjes në fuqi të këtij ligji.

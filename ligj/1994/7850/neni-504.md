@@ -1,0 +1,2 @@
+# Neni 504
+Kalimi i kredisë nuk cenon mjetet mbrojtëse të debitorit. Debitori mund t’i kundrejtojë kreditorit të ri prapësimet që mund t’i drejtonte kreditorit të mëparshëm, në kohën që i është njoftuar kalimi i kredisë. Ai mund të kërkojë t’i bëhet kompensimi i një kredie ndaj kreditorit të parë, qoftë dhe ende e pakërkueshme në atë kohë, me kusht që të mos jetë bërë e kërkueshme mbas cedimit të kredisë.

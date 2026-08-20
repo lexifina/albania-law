@@ -1,0 +1,2 @@
+# Neni 259
+Personi që ka një të drejtë thjesht përdorimi mbi një send, e përdor atë dhe gëzon frutet e tij në masën që ka nevojë për vete e për familjen e tij. Kur objekti i të drejtës së përdorimit është një banesë, personi ka të drejtë të banojë atje sipas nevojave të tij e të familjes së tij. Sendi ose banesa që përdoret sipas kësaj dispozite nuk mund të tjetërsohet, të rëndohet dhe as të përdoret nga persona të tjerë.

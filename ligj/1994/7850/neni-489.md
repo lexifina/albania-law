@@ -1,0 +1,2 @@
+# Neni 489
+Në qoftë se në një kontratë me detyrime të dyanshme, ekzekutimi i detyrimit të njërës palë është bërë i pamundur, për shkak se pala tjetër ka rënë në paaftësi paguese, ose ka falimentuar ose për ndonjë rrethanë tjetër të ndodhur për faj të saj, pala tjetër ka të drejtë të mos zbatojë detyrimet e veta, derisa t’i garantohet ekzekutimi i detyrimit në dobi të saj, ose të kërkojë shpërblimin e dëmit të shkaktuar nga mosekzekutimi i kontratës.

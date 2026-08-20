@@ -1,0 +1,2 @@
+# Neni 613
+I mituri që nuk ka mbushur moshën katërmbëdhjetë vjeç dhe personat që janë krejt të pazotë për të vepruar nuk përgjigjen për dëmin e shkaktuar. Prindërit, kujdestari ose ata të cilëve u janë besuar ose kanë në mbikëqyrje persona të pazotë për të vepruar, janë përgjegjës për dëmin e shkaktuar nga veprimet e paligjshme të fëmijëve nën moshën katërmbëdhjetë vjeç, të personave nën kujdestarinë e tyre dhe të atyre që i kanë nën mbikëqyrje e me të cilët banojnë, por që nuk kanë zotësi për të vepruar, përveç kur provojnë se nuk kanë mundur të ndalonin shkaktimin e dëmit.

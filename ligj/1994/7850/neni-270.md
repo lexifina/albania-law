@@ -1,0 +1,2 @@
+# Neni 270
+Në rast se një rrjedhë uji u ndalon pronarëve të pronave ngjitur, hyrjen në këto ose vazhdimin e vaditjes apo të kullimit të ujërave, ata që përdorin këtë rrjedhë, detyrohen që në proporcion me përfitimin që nxirret prej tij (ujit) të ndërtojnë e të mirëmbajnë urat e mjetet e tjera të kalimit, në mënyrë të volitshme e të sigurt, si dhe gypat e nëndheshëm ose vepra të tjera të kësaj natyre për vazhdimin e ujitjes e të kullimit.

@@ -1,0 +1,2 @@
+# Neni 432
+Debitori solidar që ekzekuton detyrimin duhet t’i kundrejtojë kreditorit prapësimet e përbashkëta për të gjithë debitorët, përndryshe i humb e drejta të kërkojë nga debitorët e tjerë pjesën që atyre u takon për shlyerjen e detyrimit. Gjithashtu, ai e humbet këtë të drejtë edhe kur nuk ka njoftuar debitorët e tjerë se ka ekzekutuar detyrimin dhe, si rrjedhim njëri nga debitorët e tjerë ka ekzekutuar veçmas atë.

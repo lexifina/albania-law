@@ -1,0 +1,2 @@
+# Neni 814
+Qiramarrësi duhet t’ia kthejë qiradhënësit sendin në të njëjtën gjendje që e ka marrë, në përputhje me përshkrimin e bërë nga palët në kontratë, përveç dëmtimit ose konsumimit të zakonshëm nga përdorimi i sendit në përputhje me kontratën. Në mungesë të përshkrimit në kontratë prezumohet se qiramarrësi e ka marrë sendin në gjendje të mirë përdorimi. Qiramarrësi nuk përgjigjet për humbjen ose dëmtimin e shkaktuar si pasojë e vjetërsisë. Sendet e luajtshme duhet të kthehen në vendin ku janë marrë në dorëzim.

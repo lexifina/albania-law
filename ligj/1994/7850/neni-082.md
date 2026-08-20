@@ -1,0 +1,2 @@
+# Neni 82
+Personi që nuk di, ose që për shkak sëmundje ose të metash fizike nuk mund të nënshkruajë, ngarkon një person tjetër për këtë qëllim. Nënshkrimi i këtij personi duhet të vërtetohet nga noteri, duke u treguar shkaku për të cilin personi që ka kryer veprimin juridik nuk ka mundur ta nënshkruajë vetë. Për veprimet që kryhen në bankat dhe në institucionet e tjera të kreditit, në zyrat postare apo doganore, nënshkrimi i këtij personi vërtetohet nga një nëpunës i autorizuar i këtyre nstitucioneve.

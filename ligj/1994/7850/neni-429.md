@@ -1,0 +1,2 @@
+# Neni 429
+Përtëritja e detyrimit që bën debitori me njërin nga kreditorët, shkarkon të gjithë debitorët e tjerë, përveç kur kreditori i ka ruajtur të drejtat ndaj tyre. Falja e detyrimit të bërë njërit prej debitorëve solidarë, shkarkon të gjithë debitorët e tjerë. Kur falet vetëm pjesa e një debitori, detyrimi i debitorëve të tjerë pakësohet për aq sa është pjesa e falur. Bashkimi i cilësive të kreditorit me atë të debitorit solidar në një person të vetëm, shuan detyrimin e debitorëve të tjerë, për pjesën e këtij debitori.

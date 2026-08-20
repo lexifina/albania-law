@@ -1,0 +1,3 @@
+# Neni 961
+Marrëveshja e garancisë së nënshkruar nga agjenti
+Një marrëveshje, me anë të së cilës agjenti garanton që një klient do të paguajë çmimin e mallrave që përbëjnë objektin e kontratës, të cilën e ka negociuar apo përfunduar ai, është e vlefshme vetëm nëse dhe për aq sa ajo është bërë me shkrim, mbulon vetëm kontratat e specifikuara shprehimisht në marrëveshje dhe është e arsyeshme për sa i përket interesave të palëve, sidomos për sa i përket shumës së shpërblimit që përfiton agjenti. Në çdo rast shuma e vendosur si garanci nuk mund të jetë më e madhe se shpërblimi që agjenti do të përfitonte prej kësaj kontrate.

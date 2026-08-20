@@ -1,0 +1,2 @@
+# Neni 470
+Ekzekutimi në para për llogari të një detyrimi të caktuar, përmban në fillim shlyerjen e shpenzimeve, pastaj atë të kamatave të arrira dhe pastaj të vetë detyrimit e të kamatave të zakonshme ndaj tij. Kreditori mund të refuzojë pagesën, në rast se debitori gjatë ekzekutimit cakton një renditje tjetër ose mund të mos pranojë shlyerjen e plotë të vleftës së detyrimit; pa marrë edhe kamatat e arrira, ato në vazhdimësi, si dhe shpenzimet përkatëse.

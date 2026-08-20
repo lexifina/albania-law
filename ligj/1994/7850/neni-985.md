@@ -1,0 +1,2 @@
+# Neni 985
+Depozitari duhet të ruajë sendin me kujdes. Ai nuk mund ta përdorë atë vetë dhe as t’ua japë në depozitë të tjerëve, pa pëlqimin e depozituesit. Në qoftë se sendin e përdor pa pëlqimin e depozituesit, depozitari është përgjegjës për humbjen ose dëmtimin e tij deri në shkakun fator. Po ta kërkojnë rrethanat e ngutshme, depozitari mund të ushtrojë ruajtjen në një mënyrë të ndryshme nga marrëveshja, duke njoftuar depozituesin menjëherë sapo të jetë krijuar mundësia.

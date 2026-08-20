@@ -1,0 +1,2 @@
+# Neni 965
+Debitori nuk mund të disponojë sendet e kaluara kreditorëve. Kreditorët, kreditë e të cilëve ekzistonin përpara kalimit të pasurisë dhe që nuk kanë ndërhyrë, mund të kërkojnë ekzekutimin mbi gjithë këtë pasuri. Kreditorëve, që u ka kaluar pasuria, në rast se kalimi ka për objekt vetëm disa veprimtari të debitorit, nuk mund të kërkojnë ekzekutimin për veprimtari të tjera, para shlyerjes së atyre që janë lidhur me kalimin e pasurisë. Të drejta e detyrime të palëve

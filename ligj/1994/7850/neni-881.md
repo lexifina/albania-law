@@ -1,0 +1,2 @@
+# Neni 881
+Transportuesi duhet t’i vërë sendet e transportuara në dispozicion të marrësit në vendin, në afatin dhe nëpërmjet mënyrave të treguara në kontratë. Në qoftë se dorëzimi nuk duhet të kryhet pranë marrësit, transportuesi duhet ta njoftojë atë menjëherë për mbërritjen e sendeve të transportuara. Në qoftë se nga dërguesi është lëshuar një fletë shoqërimi, transportuesi duhet t’ia tregojë atë marrësit.

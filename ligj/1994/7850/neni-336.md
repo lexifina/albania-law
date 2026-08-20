@@ -1,0 +1,2 @@
+# Neni 336
+Kur nuk dihet a ka trashëgimtarë, ose kur trashëgimtarët mungojnë dhe nuk ka lajme për ta, noteri i njësisë vendore ku është çelur trashëgimia, kryesisht ose me kërkesën e çdo të interesuari, cakton një afat, jo më pak se gjashtë muaj nga çelja e trashëgimisë, brenda të cilit ata duhet të deklarojnë në se heqin dorë nga trashëgimi. Në qoftë se brenda këtij afati nuk bëhet ndonjë deklarim i tillë, prezumohet se trashëgimlënësi nuk ka lënë trashëgimtarë.

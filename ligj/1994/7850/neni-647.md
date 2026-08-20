@@ -1,0 +1,2 @@
+# Neni 647
+I mituri i dëmtuar, kur mbush moshën gjashtëmbëdhjetë vjeç dhe nuk ka pagë nga puna e tij, ka të drejtë që në vend të shpërblimit që merr për jetesë, të kërkojë të shpërblehet për humbjen e aftësisë së tij për punë me pagën mesatare të një punonjësi, sipas kritereve të nenit 646 të këtij Kodi. Me mbushjen e moshës tetëmbëdhjetë vjeç ka të drejtë që në vend të shpërblimit që merr, të kërkojë të shpërblehet me pagën mesatare të një punëtori të asaj kategorie që do të kishte fituar ose duhej të kishte fituar po të mos ishte shkaktuar dëmtimi i shëndetit.

@@ -1,0 +1,2 @@
+# Neni 110
+Kur veprimi juridik shpallet i pavlefshëm për arsye se njëra nga palët ka qenë në lajthim, secila nga palët detyrohet t’i kthejë palës tjetër çdo gjë që ka marrë prej saj dhe, kur nuk është e mundur t’i kthejë po atë gjë, t’i paguajë vleftën. Përveç kësaj, pala që ka kërkuar të shpallet i pavlefshëm veprimi juridik detyrohet t’i shpërblejë palës tjetër dëmin që ajo ka pësuar për shkak se veprimi juridik është shpallur i pavlefshëm, me përjashtim të rastit kur ajo provon se nuk ka faj që ka rënë në lajthim ose se pala tjetër ka ditur ose duhet të dinte lajthimin.

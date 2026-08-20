@@ -1,0 +1,2 @@
+# Neni 496
+Zëvendësimi i debitorit me një person tjetër, i cili merr përsipër detyrimin, mund të bëhet vetëm me pëlqimin e kreditorit. Debitori i zëvendësuar shkarkohet nga detyrimi i tij ndaj kreditorit. Garancitë e dhëna nga persona të tretë për detyrimin shuhen, në rast se këta nuk kanë dhënë pëlqimin që ato të mbeten edhe për debitorin e ri. Pengu ose hipoteka e dhënë nga debitori i mëparshëm mbeten në fuqi.

@@ -1,0 +1,2 @@
+# Neni 717
+Blerësi e humb të drejtën për të kundërshtuar për të metat e sendit, në qoftë se nuk denoncon tek shitësi, duke specifikuar natyrën e tyre, brenda dhjetë ditëve nga zbulimi, përveç kur palët ose ligji kanë caktuar një afat tjetër. Në çdo rast blerësi e humb të drejtën për të kundërshtuar për të metat e sendit në qoftë se nuk e ushtron këtë të drejtë brenda dy vjetëve nga data kur sendet i janë dorëzuar atij, po qe se ky afat nuk është në kundërshtim me kohëzgjatjen e një garancie kontraktore.

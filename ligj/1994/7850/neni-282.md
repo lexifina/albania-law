@@ -1,0 +1,2 @@
+# Neni 282
+Servitutet janë vijuese kur ushtrimi i tyre bëhet pa qenë nevoja për veprime të herëpasherëshme të njeriut, siç janë vijat e ujit, pikat e strehëve e të tjera të kësaj natyre. Servitutet janë jovijuese, kur në ushtrimin e tyre kërkohet kryerja e veprimeve të tashme të njeriut, siç janë e drejta për të marrë ujë, për kullotjen e bagëtive e të tjera të kësaj natyre. Servitutet mund të jenë të dukshme e të padukshme. Të padukshme janë servitutet për të cilat nuk nevojiten punime të dukshme ose të përhershme, që janë të nevojshme për ushtrimin e tyre.

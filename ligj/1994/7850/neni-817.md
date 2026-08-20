@@ -1,0 +1,2 @@
+# Neni 817
+Qiramarrësi që ka bërë shtesa në sendin e marrë me qira, ka të drejtë t’i heqë ato në mbarim të qirasë, kur kjo mund të kryhet pa dëmtuar sendin, përveç kur pronari pranon t’i mbajë vetë shtesat. Në këtë rast ky duhet t’i paguajë qiramarrësit një kompensim të barabartë me shumën më të vogël midis shpenzimeve dhe vleftës të shtesave në kohën e ridorëzimit. Në qoftë se shtesat nuk mund të ndahen pa dëmtuar sendin dhe përbëjnë një përmirësim të tij, zbatohen rregullat e parashikuara nga neni 810.

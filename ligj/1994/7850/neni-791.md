@@ -1,0 +1,2 @@
+# Neni 791
+Enfiteozëmarrësi mund të kërkojë në çdo kohë zgjidhjen e kontratës dhe mbarimin e enfiteozës, përveç kur parashikohet ndryshe në kontratë. Enfiteozëdhënësi mund të kërkojë zgjidhjen e kontratës dhe mbarimin e enfiteozës, kur enfiteozëmarrësi nuk ka shlyer detyrimin përkatës për dy periudha rresht, dëmton ose nuk mirëmban e përmirëson pronën e nuk përmbush në mënyrë të dukshme detyrimet që rrjedhin nga kontrata.

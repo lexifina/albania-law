@@ -1,0 +1,2 @@
+# Neni 878
+Përveç përgjegjësisë për vonesën dhe për mospërmbushjen në kryerjen e transportit, transportuesi përgjigjet për fatkeqësitë që godasin personin udhëtar gjatë udhëtimit dhe për humbjen ose për dëmtimin e sendeve që udhëtari merr me vete, në qoftë se nuk provon se ka marrë të gjitha masat e përshtatshme për shmangien e dëmit, dhe në lidhje me rrethanat e posaçme të rastit. Janë të pavlefshme kushtet që kufizojnë përgjegjësinë e transportuesit për rreziqet që godasin udhëtarin. Kjo dispozitë zbatohet edhe në kontratat e transportit falas.

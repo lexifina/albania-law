@@ -1,0 +1,3 @@
+# Neni 863
+Porositësi, përpara se të marrë në dorëzim veprën e mbaruar, ka të drejtë ta kontrollojë atë. Kontrolli duhet të kryhet nga porositësi, sapo sipërmarrësi të krijojë kushtet e duhura për kontrollin. Në qoftë se, me gjithë ftesën e bërë prej sipërmarrësit, porositësi nuk e kryen kontrollin pa patur arsye të bazuara, ose kur nuk njofton rezultatin e kontrollit brenda një afati të shkurtër, vepra konsiderohet e pranuar. Në qoftë se porositësi merr në dorëzim veprën pa paraqitur ndonjë rezervë, ajo konsiderohet e pranuar edhe pse nuk është kryer kontrolli. Sipërmarrësi ka të drejtë të kërkojë të paguhet me vleftën e caktuar kur vepra pranohet nga porositësi, përveç kur ka marrëveshje të kundërt.
+Garancia dhe denoncimi i të metave të veprës

@@ -1,0 +1,2 @@
+# Neni 384
+Trashëgimlënësi mund të ngarkojë trashëgimtarin ose trashëgimtarët e caktuar në testament, nga ata që tregohen në nenet 361, 363, 364 të këtij Kodi, që t’u japin një ose më shumë trashëgimtarëve ligjorë një përfitim pasuror nga trashëgimi, pa i bërë këta trashëgimtarë (legu). Kur trashëgimlënësi, që nuk ka trashëgimtarë nga ata që tregohen në nenet 361, 363, 364, ka caktuar në testament si trashëgimtarë persona të tjerë, mund t’i ngarkojë këta me lege në dobi të çdo njeriu. Dispozitat e zotësisë për të trashëguar vlejnë edhe për personin që i është lënë legu.

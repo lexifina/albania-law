@@ -1,0 +1,2 @@
+# Neni 338
+Nuk mund të hiqet dorë nga trashëgimi, kur gjatë afatit tremujor, trashëgimtari me veprimet e tij është sjellë si trashëgimtar. Veprimet që kryhen vetëm për të ruajtur pasurinë trashëgimore, nuk konsiderohen si sjellje prej trashëgimtari. Trashëgimtarët që kanë hequr ose fshehur sende nga trashëgimi, humbasin të drejtën e heqjes dorë dhe mbeten trashëgimtarë edhe sikur të kenë deklaruar heqjen dorë nga trashëgimi.

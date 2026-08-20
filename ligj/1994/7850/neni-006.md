@@ -1,0 +1,2 @@
+# Neni 6
+Personit, kur mbush moshën tetëmbëdhjetë vjeç, i lind zotësia e plotë që me veprimet e tij të fitojë të drejta dhe të marrë përsipër detyrime civile. Zotësinë e plotë për të vepruar e fiton me anë të martesës edhe gruaja që nuk ka mbushur moshën tetëmbëdhjetë vjeç. Ajo nuk e humbet këtë zotësi edhe kur martesa është deklaruar e pavlefshme ose është zgjidhur para se të mbushë moshën tetëmbëdhjetë vjeç.

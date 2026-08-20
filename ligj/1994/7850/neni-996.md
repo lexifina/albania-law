@@ -1,0 +1,2 @@
+# Neni 996
+Në qoftë se ruajtja e sendit i hiqet depozitarit si rrjedhim i një fakti për të cilin ai nuk është fajtor, ai shkarkohet nga detyrimi për të kthyer sendin, por duhet t’i njoftojë menjëherë depozitarit faktin për të cilin ka humbur mbajtjen e sendit, përndryshe ngarkohet me shpërblimin e dëmit. Depozituesi ka të drejtë të marrë atë që, si pasojë e vetë faktit, depozitari ka siguruar dhe merr të drejtat që i takojnë këtij të fundit.

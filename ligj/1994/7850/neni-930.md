@@ -1,0 +1,2 @@
+# Neni 930
+Heqja dorë nga porosia me shpërblim dhe për një kohë të caktuar ose për një punë të caktuar, detyron porositësin të shpërblejë dëmet, po qe se është bërë përpara mbarimit të afatit apo të kryerjes së punës, përveç kur ekziston një shkak i drejtë. Kur porosia është me afat të pacaktuar, heqja dorë detyron porositësin për shpërblimin e dëmit, po qe se nuk është bërë një njoftim paraprak në kohën e përshtatshme, përveç rastit kur ka një shkak të drejtë për revokim.

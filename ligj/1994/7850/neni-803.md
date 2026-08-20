@@ -1,0 +1,2 @@
+# Neni 803
+Qiraja nuk mund të lidhet për një kohë më të gjatë se tridhjetë vjet, përveç kur parashikohet ndryshe nga ligji. Në qoftë se ajo është lidhur për një periudhë kohe më të gjatë ose pa afat, ka fuqi vetëm për afatin e sipërm. Për ndërtesat që përdoren për banim, kontrata e qirasë nuk mund të lidhet për një kohë më të gjatë se pesë vjet. Për sende të luajtshme të dhëna për pajisjen e një sendi të paluajtshëm, afati është baraz me kohëzgjatjen e qirasë së këtij të fundit. Kontrata e qirasë, për një kohë më të gjatë se një vit, duhet bërë me shkresë.

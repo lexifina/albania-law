@@ -1,0 +1,2 @@
+# Neni 299
+Poseduesi me mirëbesim ka të drejtë të kërkojë pagimin e shpenzimeve të nevojshme që kanë bërë për sendin dhe shpenzimet e dobishme, në masën që këto i kanë shtuar vleftën, në qoftë se kjo vazhdon të jetë në kohën e kthimit të sendit. Poseduesi me mirëbesim ka të drejtë të zbresë nga të ardhurat e sendit, shpenzimet që i njihen sipas kësaj dispozite. Ai ka të drejtë të mbajë sendin, gjersa t’i paguhen shpenzimet e nevojshme të dobishme.

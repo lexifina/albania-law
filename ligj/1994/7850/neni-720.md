@@ -1,0 +1,2 @@
+# Neni 720
+Blerësi duhet t’i bëjë të ditur shitësit të drejtat apo pretendimin e të tretëve mbi sendin duke specifikuar natyrën e tyre, brenda një afati të arsyeshëm nga momenti kur ka marrë dijeni ose duhej të merrte dijeni për to, ndryshe humb të drejtat e parashikuara nga neni i mësipërm. Shitësi gjithashtu nuk mund të përdorë dispozitat e paragrafit të mësipërm po qe se ishte në dijeni të të drejtave apo të pretendimeve të të tretëve, apo të natyrës së tyre.

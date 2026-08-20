@@ -1,0 +1,2 @@
+# Neni 870
+Kur materiali që i është dhënë sipërmarrësit nga porositësi, ose kur vepra e përgatitur me këtë material humbet ose dëmtohet, si dhe kur përfundimi i veprës bëhet i pamundshëm pa fajin e asnjërit prej tyre, por në çdo rast pasi sipërmarrësi të jetë në vonesë për dorëzimin e veprës, ky është i detyruar t’i shpërblejë porositësit vleftën e materialit dhe nuk ka të drejtë të kërkojë prej tij që t’i paguajë punën e kryer.

@@ -1,0 +1,2 @@
+# Neni 627
+Personi që ka shpërblyer dëmin ka të drejtë të kërkojë nga secili shkaktar i dëmit pjesën e tij në përpjesëtim me shkallën e fajësisë të secilit dhe të tërësisë së pasojave të rrjedhura. Kur kjo nuk mund të përcaktohet, prezumohet se shkalla e fajësisë është e barabartë. Prindërit ose kujdestarët që kanë paguar shpërblimin e dëmit të shkaktuar nga të miturit ose nga personat të cilëve u është hequr krejt zotësia për të vepruar, nuk kanë të drejtë të kërkojnë nga këta kthimin e shpërblimit të dëmit që kanë paguar.

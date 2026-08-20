@@ -1,0 +1,2 @@
+# Neni 390
+Kur personi, të cilit i është lënë legu, ka vdekur para trashëgimlënësit ose është bërë i padenjë ose ka hequr dorë nga legu dhe trashëgimlënësi nuk ka caktuar një person tjetër në vend të tij, legu shkon në dobi të trashëgimtarit të ngarkuar me atë leg. Por në qoftë se legu u është lënë shumë personave së bashku, pjesa e atij që nuk mund ose nuk do të marrë legun u shtohet bashkëpjesëtarëve të tij në përpjesëtim me pjesët e tyre.

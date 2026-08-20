@@ -1,0 +1,2 @@
+# Neni 669
+Kur me kërkesën e propozuesit, ose duke marrë parasysh natyrën e marrëveshjes e rrethanat që kanë lidhje me atë, rezulton që nuk ish e nevojshme pritja e pranimit të shprehur të propozimit, ose detyrimi do të kryhej pa marrë një përgjigje paraprake, kontrata quhet e lidhur, në kohën e në vendin ku ka filluar zbatimi i saj. Pala që zbaton detyrimin duhet të njoftojë menjëherë palën tjetër për fillimin e ekzekutimit të kontratës, përndryshe detyrohet të shpërblejë dëmin.

@@ -1,0 +1,3 @@
+KREU XX
+FRANCHISING
+Përkufizimi

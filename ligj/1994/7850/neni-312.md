@@ -1,0 +1,2 @@
+# Neni 312
+Personi, që cenohet në posedimin e një sendi, mund të kërkojë brenda gjashtë muajve, pushimin e cenimit të posedimit dhe mospërsëritjen e tij në të ardhmen. Kur posedimi është fituar me dhunë ose fshehurazi, padia mund të ngrihet brenda gjashtë muajve nga dita kur dhuna ose fshehtësia kanë pushuar. Pushimi i cenimit të posedimit nuk mund të kërkohet nga personi që ka fituar posedimin me dhunë ose fshehurazi. Rivendosja në posedim

@@ -1,0 +1,2 @@
+# Neni 101
+Kur në veprimin juridik ka rëndësi përcaktimi i mirëbesimit ose i keqbesimit, i dijenisë ose i mosdijenisë së rrethanave të caktuara, që përbëjnë kushte përcaktuese të vlefshme ose të pavlefshme të veprimit juridik, mbahet parasysh personi i përfaqësuesit, përveç kur bëhet fjalë për rrethana të përcaktuara nga i përfaqësuari. I përfaqësuari që është në keqbesim nuk mund të përfitojë në asnjë rast nga mosdijenia ose mirëbesimi i përfaqësuesit.

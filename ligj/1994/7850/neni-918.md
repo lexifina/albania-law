@@ -1,0 +1,2 @@
+# Neni 918
+Porositësi mund të rivendikojë sendet e luajtshme të fituara për llogari të vet nga i porosituri që ka vepruar në emrin e vet, pa cenuar të drejtat e fituara nga të tretët për efektet e posedimit me mirëbesim. Po qe se sendet e fituara nga i porosituri janë pasuri e paluajtshme ose pasuri e luajtshme të regjistruara në regjistrat publikë, i porosituri është i detyruar t’ia rikthejë porositësit.

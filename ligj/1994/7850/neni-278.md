@@ -1,0 +1,2 @@
+# Neni 278
+Pronari duhet të lejojë fqinjin të hyjë e të kalojë në tokën e tij sa herë ka nevojë të ndërtojë ose të ndreqë një mur apo një vepër tjetër. Ai duhet të lejojë personin që të kërkojë e të marrë gjënë e gjallë e çdo send tjetër të tij, që ndodhen aty rastësisht ose si rrjedhim i erës, ujit, ortekëve dhe forcave të tjera madhore, ndodhen në tokën e tij apo janë bashkuar me sende të tij. Pronari mund të mos lejojë hyrjen kur merr përsipër të dorëzojë vetë sendin e ndodhur në tokën e tij. Kur është rasti pronari i tokës shpërblehet për dëmin e shkaktuar.

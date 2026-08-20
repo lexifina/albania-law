@@ -1,0 +1,2 @@
+# Neni 855
+Sipërmarrësi përgjigjet për humbjen ose dëmtimin e materialit që i është dhënë nga porositësi, përveç kur provohet se humbja ose dëmtimi i tij ka ndodhur për shkak se materiali ka qenë i një cilësie jo të mirë, ose i papërshtatshëm, ose për shkak të zbatimit të udhëzimeve të porositësit për kryerjen e veprës, megjithëse për këto sipërmarrësi kishte paralajmëruar në kohën e duhur porositësin.

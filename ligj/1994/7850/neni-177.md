@@ -1,0 +1,3 @@
+# Neni 177
+Personi që me punën e tij ka krijuar një send të ri të luajtshëm duke përdorur lëndën në pronësi të një personi tjetër, pavarësisht se lënda mund ose jo të marrë formën e saj të parë, bëhet pronar i sendit të ri në rast se vlefta e punës është më e madhe se ajo e lëndës, me kusht që të paguajë vleftën e saj. Në rast të kundërt sendi i ri fitohet nga pronari i lëndës, duke paguar vleftën e punës. Kur përpunuesi ka vepruar me keqbesim, me vendim të gjykatës sendi i ri i kalon pronarit të lëndës edhe në rast se vlefta e punës është më e madhe se ajo e lëndës, por duke paguar vleftën e kësaj të fundit.
+Bashkimet e tokave nga aluvionet

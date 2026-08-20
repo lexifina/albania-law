@@ -1,0 +1,3 @@
+KREU VI
+KAPARI DHE PRIVILEGJET
+A. Kapari Përmbajtja

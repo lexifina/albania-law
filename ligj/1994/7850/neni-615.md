@@ -1,0 +1,2 @@
+# Neni 615
+Mësuesit dhe personat e tjerë që kanë nën mbikëqyrje të mitur ose personat që u mësojnë të tjerëve një mjeshtëri ose profesion, janë përgjegjës për dëmin e paligjshëm të shkaktuar të tjerëve nga nxënësit ose personat që kanë nën mbikëqyrje, ose personat që mësojnë mjeshtëri apo profesion pranë tyre, të shkaktuar gjatë kohës që kanë qenë nën mbikëqyrje të tyre të drejtpërdrejtë, përveç kur provojnë se nuk kanë mundur të ndalonin shkaktimin e dëmit.

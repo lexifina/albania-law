@@ -1,0 +1,2 @@
+# Neni 482
+Debitori që është në vonesë nuk çlirohet nga pamundësia e papritur e përmbushjes së detyrimit, edhe sikur kjo të jetë shkaktuar pa fajin e tij e të kreditorit, përveç kur provon se objekti i detyrimit do të ishte shkatërruar apo dëmtuar edhe sikur të ishte nën kujdesin e kreditorit. Humbja ose dëmtimi i një sendi të marrë në mënyrë të paligjshme, nuk e shkarkon personin që e ka marrë atë nga detyrimi për të rikthyer vleftën e tij.

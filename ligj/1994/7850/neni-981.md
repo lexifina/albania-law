@@ -1,0 +1,2 @@
+# Neni 981
+Ndërmjetësi, që nuk i tregon njërit kontraktues emrin e kontraktuesit tjetër, përgjigjet për zbatimin e kontratës dhe, kur e ka zbatuar atë, merr të drejtat ndaj kontraktuesit të patreguar. Në qoftë se, pas lidhjes së kontratës, kontraktuesi i patreguar shfaqet para palës tjetër ose tregohet nga ndërmjetësi, secili nga kontraktuesit mund të ngrejë padi drejtpërdrejt kundër tjetrit, por pa cenuar përgjegjësinë e ndërmjetësit.

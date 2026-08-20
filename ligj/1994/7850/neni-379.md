@@ -1,0 +1,2 @@
+# Neni 379
+Trashëgimlënësi nuk mund të përjashtojë nga trashëgimia ligjore fëmijët e tij të mitur ose trashëgimtarë të tjerë të mitur që trashëgojnë me zëvendësim (neni 361, paragrafi i dytë), si dhe trashëgimtarët e tij të tjerë të paaftë për punë në qoftë se thirren në trashëgim, dhe as të cenojë me testament në çdo mënyrë qoftë, pjesën që u takon këtyre trashëgimtarëve në bazë të trashëgimisë ligjore, përveç kur këta janë bërë të padenjë për të trashëguar.

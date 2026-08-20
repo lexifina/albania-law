@@ -1,0 +1,2 @@
+# Neni 928
+I porosituri mund të heqë dorë nga kontrata por, po qe se në marrëveshje është parashikuar e kundërta, ai përgjigjet për dëmet, përveç kur heqja dorë bëhet për një shkak të drejtë. Porosia e dhënë në interes të të porositurit ose të tretëve nuk shuhet me revokim nga ana e porositësit, përveç kur është vendosur ndryshe në kontratë ose ajo bëhet për një shkak të drejtë, por nuk shuhet për shkak të vdekjes ose për pazotësinë për të vepruar që i ndodh porositësit.

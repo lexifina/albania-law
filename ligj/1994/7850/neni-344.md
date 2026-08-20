@@ -1,0 +1,2 @@
+# Neni 344
+Kur nuk dihet a ka trashëgimtarë ose kur trashëgimtarët mungojnë dhe nuk ka lajme për ata ose kur trashëgimtarët ligjorë apo testamentorë kanë hequr dorë nga trashëgimi dhe nuk dihen trashëgimtarët e tyre, noteri i njësisë vendore ku është çelur trashëgimi, kryesisht ose me kërkesën e çdo të interesuari, emëron një kujdestar të trashëgimit. Shkurtimi i aktit noterial të emërimit të kujdestarit shpallet në Fletoren Zyrtare.

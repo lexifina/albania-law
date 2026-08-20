@@ -1,0 +1,2 @@
+# Neni 55
+Fondacionet krijohen nga persona fizikë ose juridikë me akt notetial ose me testament. Akti për krijimin e fondacionit, me kërkesë të themeluesve të tij, regjistrohet në gjykatë. Në aktin e krijimit përcaktohen sidomos emrat e themeluesve, qëllimi i fondacionit, përbërësit e pasurisë (para, letra me vlerë, ose sende të luajtshme dhe të paluajtshme), burimet dhe mënyra e financimit, organet drejtuese, kompetencat e tyre, si dhe emrat e anëtarëve të administratës.

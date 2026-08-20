@@ -1,0 +1,2 @@
+# Neni 437
+E drejta e zgjedhjes i takon debitorit, përveç kur është parashikuar nga ligji apo nga kontrata që t’i lihet kreditorit apo një të treti. Zgjedhja bëhet e parevokueshme me përmbushjen e njërit nga llojet e detyrimit, ose me njoftimin e deklaratës së zgjedhjes palës tjetër ose të dy palëve, kur e drejta e zgjedhjes i takon një të treti. Kur e drejta e zgjedhjes u takon shumë personave dhe ata nuk merren vesh, gjykata u cakton atyre një afat. Kur zgjedhja nuk bëhet në afatin e caktuar, atë e bën gjykata.

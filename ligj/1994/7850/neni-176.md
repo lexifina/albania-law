@@ -1,0 +1,3 @@
+# Neni 176
+Kur dy ose më shumë sende të luajtshme që u përkasin pronarëve të ndryshëm janë bashkuar ose përzier në një send të vetëm e që nuk mund të ndahen pa u shkaktuar një dëm thelbësor njëri-tjetrit, ose kur ndarja kërkon punë e shpenzime të tepruara, pronarët e secilit send bëhen bashkëpronarë të sendit të ri, në përpjesëtim me vleftën që pjesët e sendit kishin në momentin e bashkimit apo të përzierjes së tyre. Kur një send i luajtshëm është bashkuar ose përzier me një tjetër në mënyrë të tillë sa duket se është pjesë aksesore e tij, sendi i ri i përket pronarit të pjesës kryesore, i cili detyrohet të paguajë vleftën përkatëse, si dhe kur është rasti të shpërblejë dëmin e shkaktuar.
+Fitimi i pronësisë me përpunim

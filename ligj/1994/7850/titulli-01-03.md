@@ -1,0 +1,3 @@
+TITULLI I
+DISPOZITA TË PËRGJITHSHME
+Kuptimi i trashëgimit

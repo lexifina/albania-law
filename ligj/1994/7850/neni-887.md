@@ -1,0 +1,2 @@
+# Neni 887
+Të drejtat që rrjedhin nga kontrata e transportit ndaj transportuesit i kalojnë pritësit nga momenti kur, pasi sendet kanë mbërritur në destinacion ose ka skaduar afati në të cilin duhet të kishin mbërritur. Pritësi kërkon marrjen në dorëzim nga transportuesi, pritësi nuk mund të ushtrojë të drejtat që lindin nga kontrata, përveç se duke i paguar transportuesit kreditë që rrjedhin nga transporti dhe faturat që shoqërojnë sendet e transportuara. Kur ka mosmarrëveshje për shumën e detyruar, marrësi duhet të depozitojë diferencën e vënë në dyshim pranë një të treti.

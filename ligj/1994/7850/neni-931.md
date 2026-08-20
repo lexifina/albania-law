@@ -1,0 +1,2 @@
+# Neni 931
+I porosituri që heq dorë nga porosia pa ndonjë shkak të drejtë duhet t’i shpërblejë dëmet porositësit. Kur porosia është me afat të pacaktuar, i porosituri që heq dorë pa ndonjë shkak të drejtë detyrohet të shpërblejë dëmin po qe se nuk ka bërë një njoftim paraprak në kohën e përshtatshme. Në çdo rast, heqja dorë duhet bërë në një mënyrë dhe në një kohë të tillë që porositësi të marrë masa për të vepruar ndryshe, përveç rastit të një vështirësie të madhe nga ana e të porositurit.

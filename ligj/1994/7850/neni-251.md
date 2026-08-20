@@ -1,0 +1,3 @@
+# Neni 251
+Shpenzimet që nevojiten për ruajtjen, mirëmbajtjen dhe administrimin e sendit janë në ngarkim të uzufruktarit. Janë gjithashtu në ngarkim të tij edhe shpenzimet për ndreqjet jo të zakonshme, kur ato janë rrjedhim i mospërmbushjes së detyrimeve të tij ndaj sendit në uzufrukt. Riparimet e jashtëzakonshme janë në ngarkim të pronarit. Kur pronari refuzon t’i kryejë ato ose të tjerat që i janë ngarkuar atij, ose vonon pa arsye kryerjen e tyre, uzufruktari i kryen vetë me shpenzimet e tij, të cilat shlyhen deri në përfundimin e uzufruktit. Uzufruktari ka të drejtë të mbajë sendin e ndrequr deri në shlyerjen e shpenzimeve.
+Sigurimi i uzufruktit

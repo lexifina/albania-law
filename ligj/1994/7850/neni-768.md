@@ -1,0 +1,2 @@
+# Neni 768
+Dhurimi mund të rëndohet me kusht ose me barrë. Dhuruesi është i detyruar të përmbushë barrën brenda kufijve të vleftës së sendit të dhuruar. Për të përmbushur barrën mund të veprojë, përveç dhuruesit dhe çdokush i interesuar. Zgjidhja e kontratës së dhurimit për mospërmbushje të barrës mund të kërkohet nga dhuruesi ose trashëgimtarët e tij, në qoftë se është parashikuar në aktin e dhurimit. Barra e paligjshme ose e pamundur quhet e paqenë, ajo gjithsesi e bën të paqenë dhurimin në qoftë se ka përbërë të vetmin shkak përcaktues të kontratës.

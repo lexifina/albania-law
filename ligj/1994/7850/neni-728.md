@@ -1,0 +1,2 @@
+# Neni 728
+Blerësi, i paditur nga një i tretë që pretendon se ka të drejta mbi sendin e shitur, duhet ta thërasë shitësin në çështje. Kur nuk e bën këtë dhe në dëm të tij është dhënë një vendim i formës së prerë, humbet të drejtën e garancisë për evinksion në qoftë se shitësi provon se ekzistonin arsye të mjaftueshme për të refuzuar kërkesën. Blerësi që ka njohur vullnetarisht të drejtën e të tretit, e humb të drejtën e garancisë për evinksion në qoftë se nuk provon se nuk ekzistonin arsye të mjaftueshme për të penguar marrjen e sendit.

@@ -1,0 +1,2 @@
+# Neni 280
+Pronari duhet të lejojë persona të tjerë që të ndërtojnë në pronën e tij të paluajtshme kanale ose të vendosin gypa për kalimin e ujit ose të gazit, si dhe kabllo e tela telegrafikë ose elektrikë dhe instalime të tjera të kësaj natyre, por vetëm kur këto vepra nuk kanë mundësi të kryhen ndryshe ose pa u bërë shpenzime të mëdha. Pronari, kur i shkaktohet dëm, ka të drejtë të shpërblehet.

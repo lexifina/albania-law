@@ -1,0 +1,3 @@
+# Neni 247
+Uzufruktari merr në dorëzim sendet në gjendjen që ndodhen para fillimit të uzufruktit. Sendet në uzufrukt merren në dorëzim me inventar të bërë me akt noterial, në prani të pronarit, pasi të jetë njoftuar në një afat të përshtatshëm. Është e drejtë e palëve që në inventar të shënohen të gjitha hollësitë që kanë lidhje me përcaktimin dhe gjendjen e sendeve që merren në uzufrukt. Inventari mund të kryhet edhe me akt privat, kur bien në marrëveshje të dy palët, që janë të pranishëm gjatë kryerjes së tij. Shpenzimet për kryerjen e inventarit janë në ngarkim të uzufruktarit, përveç kur parashikohet ndryshe në aktin e krijimit.
+Njoftimet periodike

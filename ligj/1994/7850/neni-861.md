@@ -1,0 +1,2 @@
+# Neni 861
+Porositësi ka të drejtë të kontrollojë kryerjen e punimeve dhe gjendjen e tyre me shpenzimet e veta. Kur, gjatë punimeve, zbulohet se kryerja e tyre nuk vazhdon sipas kushteve të caktuara në kontratë dhe sipas standardeve, porositësi mund të caktojë një afat të arsyeshëm brenda të cilit sipërmarrësi duhet të pajtohet me ato kushte. Kur afati i caktuar ka kaluar pa sjellë ndonjë dobi, kontrata zgjidhet, pa cenuar të drejtën e porositësit për shpërblimin e dëmeve.

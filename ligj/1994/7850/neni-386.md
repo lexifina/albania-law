@@ -1,0 +1,2 @@
+# Neni 386
+Trashëgimlënësi mund të ngarkojë trashëgimtarin ose trashëgimtarët e caktuar në testament që të kryejnë ndonjë veprim të dobishëm për shoqërinë ose ndonjë veprim tjetër, pa i dhënë të drejtë një personi të caktuar mbi këtë veprim (barrë). Kur trashëgimlënësi i lë me testament pasurinë shtetit, organeve të tij, ose enteve të ndryshme, ka të drejtë të caktojë qëllimin për të cilin duhet të përdoret pasuria.

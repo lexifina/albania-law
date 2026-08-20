@@ -1,0 +1,2 @@
+# Neni 469
+Kur ekzekutimi kryhet për llogari të shumë detyrimeve dhe ndaj të njëjtit kreditor, debitori mund të përcaktojë në kohën e ekzekutimit se cilin detyrim po ekzekuton. Kur nuk ekziston një përcaktim i debitorit për radhën e ekzekutimit, në fillim ekzekutohet detyrimi që i ka kaluar afati, nëse ekzistojnë më shumë të tillë, ekzekutimi fillon nga detyrimi me vlerë dhe në rast se janë disa të tillë, fillon nga më i vjetri dhe kur këta kanë të njëjtën vjetërsi, ekzekutimi bëhet proporcionalisht.

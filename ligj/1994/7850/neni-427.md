@@ -1,0 +1,2 @@
+# Neni 427
+Qenia në vonesë e kreditorit ndaj njërit nga debitorët solidarë e shtrin efektin ndaj të gjithë debitorëve të tjerë. Debitori solidar nuk mund të kompensojë detyrimin e tij me kreditë që kanë debitorët e tjerë ndaj kreditorit. Debitori solidar nuk mund t’i kundrejtojë kreditorit prapësimet personale të debitorëve të tjerë. Çdonjëri nga debitorët solidarë nuk duhet që me veprimet e tij të rëndojë pozitën e të tjerëve, përveç kur parashikohet ndryshe në ligj.

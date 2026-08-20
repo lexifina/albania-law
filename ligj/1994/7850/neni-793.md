@@ -1,0 +1,2 @@
+# Neni 793
+Në rast tjetërsimi të enfiteozës, enfiteozëmarrësi i ri dhe ai përpara tij, detyrohen solidarisht për shpërblimin e papaguar të enfiteozës, përveç kur enfiteozëmarrësit të mëparshëm i është njoftuar akti i tjetërsimit prej enfiteozëdhënësit. Në rast tjetërsimi të një të drejte të tillë prej pronarit, fituesi nuk mund të kërkojë përmbushjen e detyrimeve nga enfiteozëmarrësi përpara se atij t’i njoftohet akti i tjetërsimit.

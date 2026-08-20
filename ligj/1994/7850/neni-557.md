@@ -1,0 +1,2 @@
+# Neni 557
+Kreditori pengmarrës, në mbarim të afatit detyrohet të vjelë të drejtat që rrjedhin nga kredia e marrë peng dhe kur kjo ka për objekt para ose sende të tjera të barazvlershme, vetë ose me kërkesën e debitorit duhet t’i depozitojë ato në vendin e caktuar në marrëveshje dhe, në mungesë të saj, në vendin e caktuar nga gjykata. Kur afati i kredisë i garantuar me pengun ka mbaruar, kreditori mban nga shuma e marrë aq sa nevojiten për përmbushjen e të drejtave të tij dhe mbetjen ia kthen pengdhënësit.

@@ -1,0 +1,2 @@
+# Neni 219
+Ndalohet dhënia e lejes për kryerjen e shtesave ose veprave të tilla mbi katin e fundit në qoftë se kushtet statike të ndërtesës nuk e lejojnë. Bashkëpronarët mund të kundërshtojnë lejen e dhënë nga organi kompetent shtetëror për kryerjen e shtesave ose veprave të tilla mbi katin e fundit dhe kur provohet se ato pakësojnë ajrin apo dritën për katet e mëposhtme ose cenojnë pamjen arkitektonike të ndërtesës.

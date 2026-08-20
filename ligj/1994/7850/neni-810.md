@@ -1,0 +1,2 @@
+# Neni 810
+Qiradhënësi detyrohet të garantojë qiramarrësin nga shqetësimet që pakësojnë vlerën e përdorimit dhe të gëzimit të sendit, të shkaktuara nga të tretët që pretendojnë se kanë të drejta mbi të njëjtin send. Qiradhënësi nuk është i detyruar të garantojë qiramarrësin nga shqetësimet e të tretëve që nuk pretendojnë të kenë të drejta mbi sendin. Në këtë rast qiramarrësi ruan të drejtën të ngrejë padi kundër të tretëve në emrin e tij.

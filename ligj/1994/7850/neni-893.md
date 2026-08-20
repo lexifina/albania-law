@@ -1,0 +1,2 @@
+# Neni 893
+Marrja në dorëzim pa rezervë e sendeve të transportuara duke paguar transportuesin për aq sa i takon, heq mundësinë për ngritje të padisë që rrjedh nga kontrata, përveç rastit të mashtrimit ose të pakujdesisë së rëndë të transportuesit. Nuk cenohen të drejtat për të kërkuar humbjen e pjesshme ose për dëmtime të tilla që nuk mund të dallohen në momentin e marrjes në dorëzim, me kusht që transportuesi të njoftohet menjëherë sa të zbulohet dëmi dhe jo më vonë se 20 ditë nga data e marrjes në dorëzim.

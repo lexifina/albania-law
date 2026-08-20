@@ -1,0 +1,2 @@
+# Neni 415
+Ekzekutori i testamentit duhet të bëjë inventarin e pasurisë trashëgimore, duke ftuar të marrin pjesë trashëgimtarët dhe personat e tjerë që përfitojnë nga testamenti. Ekzekutori i testamentit administron pasurinë trashëgimore, duke kryer veprimet që janë të nevojshme për ekzekutimin e disponimeve të testamentit, por nuk mund të tjetërsojë pasurinë trashëgimore, përveç kur shfaqet nevoja dhe me lejen e gjykatës, e cila vendos pasi më parë të dëgjojë trashëgimtarët.

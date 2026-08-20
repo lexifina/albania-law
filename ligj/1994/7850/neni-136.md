@@ -1,0 +1,2 @@
+# Neni 136
+Afati i parashkrimit të padisë, që është caktuar në javë, në muaj ose në vite mbaron me kalimin e asaj dite të javës së fundit apo të muajit të fundit që ka të njëjtin emër ose numër me atë të ditës në të cilën ka filluar afati dhe, kur një ditë e tillë mungon në muajin e fundit, afati mbaron me kalimin e ditës së fundit të këtij muaji. Kur dita e fundit e afatit të parashkrimit bie në një ditë pushimi, quhet si e fundit ajo ditë pune që vjen pas asaj të pushimit.

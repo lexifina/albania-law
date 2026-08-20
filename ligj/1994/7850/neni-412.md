@@ -1,0 +1,2 @@
+# Neni 412
+Kur disponimi me testament është i pavlefshëm për shkak se disponimi nga trashëgimlënësi ka përjashtuar nga trashëgimia ligjore trashëgimtarët e tij të mitur ose të paaftë për punë ose cenon pjesën e tyre ligjore (neni 407), trashëgimtari, i përjashtuar nga trashëgimi ose të cilit i është cenuar pjesa ligjore, ka të drejtë të kërkojë nga trashëgimtarët e tjerë, sipas rastit, dorëzimin ose plotësimin e pjesës që i takon atij në bazë të trashëgimisë ligjore.

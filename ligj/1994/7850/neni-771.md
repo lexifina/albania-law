@@ -1,0 +1,4 @@
+# Neni 771
+Dhuruesi, për dhurimet që nuk janë të zakonshme ose që nuk janë bërë për shpërblim, mund të kërkojë revokimin e dhurimit kur ai që ka marrë dhurimin:
+a) me dashje ka vrarë ose ka tentuar të vrasë dhuruesin, bashkëshortin ose fëmijët, ose prindërit e tij;
+b) pa të drejtë nuk i jep dhuruesit ushqim kur është i detyruar sipas ligjit. Padia për revokimin e dhurimit duhet të ngrihet brenda një viti nga dita që dhuruesi ka marrë njoftim për shkaqet që i japin të drejtë që të kërkojë revokimin e dhurimit. Padia e filluar mund të vazhdohet edhe nga trashëgimtarët e dhuruesit ose mund të ngrihet nga vetë këta, në rast se dhuruesi ka vdekur brenda vitit, nga dita që ka lindur shkaku për të ngritur padinë. Heqja dorë që më parë nga padia është e pavlefshme. Revokimi i dhurimit nuk cenon të drejtat që kanë fituar të tretët mbi sendin e dhuruar para se të ngrihet padia.

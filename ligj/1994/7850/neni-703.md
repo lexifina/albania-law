@@ -1,0 +1,2 @@
+# Neni 703
+Zgjidhja e kontratës për mospërmbushje të detyrimeve ka efekt prapaveprues midis palëve, përveç kontratave me ekzekutim të vazhduar ose periodik për të cilat efekti i zgjidhjes nuk shtrihet në veprimet e kryera më parë. Zgjidhja e kontratës, qoftë edhe me marrëveshje të palëve, nuk paragjykon të drejtat e fituara nga të tretët, me përjashtim të efekteve të regjistrimit të kërkesës për zgjidhjen e kontratës.

@@ -1,0 +1,2 @@
+# Neni 15
+Personi që mungon nga vendi i banimit ose i vendqëndrimit të fundit të tij dhe për të cilin nuk ka lajme për më shumë se dy vjet, me kërkesën e çdo të interesuari mund të shpallet i zhdukur me vendim të gjykatës. Kur dita e lajmeve të fundit nuk mund të caktohet, afati i mësipërm fillon nga dita e parë e muajit pasardhës në të cilin janë marrë lajmet e fundit. Kur muaji nuk mund të caktohet, afati fillon nga dita 1 janar e vitit të mëpasëm.

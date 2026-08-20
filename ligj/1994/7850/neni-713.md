@@ -1,0 +1,2 @@
+# Neni 713
+Kur shitësi detyrohet të lëshojë dokumentet lidhur me sendet, ato lëshohen në kohën, në vendin dhe në formën e parashikuar në kontratë. Në qoftë se dokumentet i ka lëshuar përpara këtij momenti, ai mund të rregullojë çdo defekt të tyre deri në momentin e parashikuar për lëshimin e tyre, në qoftë se ushtrimi i një të drejte të tillë nuk i sjell blerësit shqetësime ose një shpenzim të paarsyeshëm. Në këto raste ai ruan të drejtën të kërkojë shpërblimin e dëmit.

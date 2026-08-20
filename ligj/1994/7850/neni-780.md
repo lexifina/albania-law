@@ -1,0 +1,2 @@
+# Neni 780
+Në qoftë se kushti i ekskluzivitetit është vendosur në dobi të palës që ka të drejtë për t’u furnizuar, furnizuesi nuk mund të bëjë as drejtpërdrejt dhe as tërthorazi furnizime të të njëjtit lloj e që formojnë objektin e kontratës, në zonën për të cilën është dhënë ekskluziviteti dhe brenda afatit të kontratës. Kushti i ekskluzivitetit, që përmbahet në një kontratë furnizimi, përbën një kusht barrësor që kërkon miratim të posaçëm me shkrim.

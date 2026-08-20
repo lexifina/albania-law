@@ -1,0 +1,2 @@
+# Neni 95
+Mashtrimi mund të shkaktojë që veprimi juridik të shpallet i pavlefshëm, kur gënjeshtra e përdorur nga njëra palë, për ta shpënë në gabim palën tjetër, është e tillë që pa atë pala nuk do ta kishte kryer veprimin juridik. Kur mashtrimi është bërë nga një person i tretë, pala e mashtruar mund të kërkojë shpalljen e pavlefshmërise së veprimit juridik vetëm kur në kohën e kryerjes së tij pala tjetër ka ditur ose duhej të dinte mashtrimin.

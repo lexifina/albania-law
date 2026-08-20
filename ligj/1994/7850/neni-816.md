@@ -1,0 +1,2 @@
+# Neni 816
+Përveç kur parashikohet ndryshe në ligj, qiramarrësi nuk ka të drejtë të shpërblehet për përmirësimet e bëra sendit të marrë me qira. Por në qoftë se ka patur pëlqimin e qiradhënësit, ky është i detyruar t’i paguajë një kompensim që i korrespondon shumës më të vogël midis shumës së shpenzimeve dhe vleftës së rezultatit të dobishëm në kohën e dorëzimit. Kur qiramarrësi nuk ka të drejtë kompensimi, vlefta e përmirësimeve mund të kompensojë dëmtimet që kanë ndodhur për pakujdesinë e rëndë të qiramarrësit.

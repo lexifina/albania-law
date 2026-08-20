@@ -1,0 +1,2 @@
+# Neni 903
+Huamarrësi detyrohet ta mbajë dhe ta ruajë sendin me përkujdesje. Ai nuk mund ta përdorë atë ndryshe nga përdorimi i caktuar në kontratë ose nga natyra e sendit. Huamarrësi nuk mund t’ia japë një të treti sendin për përdorim pa pëlqimin e huadhënësit. Kur huamarrësi nuk përmbush detyrimet e lartpërmendura huadhënësi mund të kërkojë kthimin e menjëhershëm të sendit, përveç shpërblimit të dëmit.

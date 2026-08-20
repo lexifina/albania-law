@@ -1,0 +1,2 @@
+# Neni 726
+Në qoftë se shitësi dorëzon vetëm një pjesë të sendeve, apo në qoftë se vetëm një pjesë e sendeve të dorëzuara është në përputhje me kontratën, zbatohen nenet 717, 720 lidhur me pjesën që mungon ose nuk përputhet. Blerësi mund të shpallë kontratën tërësisht të zgjidhur vetëm në qoftë se dorëzimi i pjesshëm ose jo në përputhje me kushtet e saj, përbën një mospërmbushje të rëndësisë së veçantë ose thelbësore.

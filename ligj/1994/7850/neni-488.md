@@ -1,0 +1,2 @@
+# Neni 488
+Kur në një kontratë me detyrime të dyanshme, ekzekutimi i detyrimit të një pale është bërë i pamundur pa fajin e asnjërës palë, secila prej tyre nuk ka të drejtë të kërkojë nga tjetra ekzekutimin e detyrimit ose shpërblimin e dëmit, përveç kur në ligj ose në kontratë është parashikuar ndryshe. Secila nga palët ka të drejtë të kërkojë nga pala tjetër që t’i kthejë atë që është dhënë për ekzekutimin e detyrimit.

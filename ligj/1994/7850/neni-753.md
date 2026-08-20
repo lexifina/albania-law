@@ -1,0 +1,2 @@
+# Neni 753
+Në rastin kur çmimi përcaktohet në lidhje me vetë sendin e paluajtshëm dhe jo me madhësinë e tij, edhe pse kjo është dhënë, nuk bëhet ulje ose ngritje çmimi, përveç kur madhësia reale është më e vogël ose më e madhe se një e njëzeta pjesë e asaj të treguar në kontratë. Në rastin kur duhet paguar një çmim shtesë, blerësi mund të zgjedhë ose heqjen dorë nga kontrata ose nga pagimi i shtesës.

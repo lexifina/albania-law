@@ -1,0 +1,2 @@
+# Neni 927
+Porosia shuhet me vdekjen, pazotësinë për të vepruar ose falimentimin e porositësit ose të të porositurit, përveç marrëveshjes tjetër ose kur rezulton ndryshe nga natyra e rrethanave të krijuara. Megjithatë, kur shuarja e porosisë mund të cenojë interesat e porositësit, i porosituri, trashëgimtarët ose përfaqësuesit detyrohen të vazhdojnë administrimin deri kur porositësi, trashëgimtarët e tij ose përfaqësuesit e vet, të jenë në gjendje të merren vetë drejtpërdrejt me çështjen. Heqja dorë nga porosia dhe efektet juridike

@@ -1,0 +1,2 @@
+# Neni 71
+Prokura është e përgjithshme kur i përfaqësuari i ka dhënë përfaqësuesit tagre për të kryer veprime juridike të shumëllojshme, të cilat kanë të bëjnë me një tërësi të drejtash të të përfaqësuarit, përveç atyre që i ka përjashtuar shprehimisht. Prokura është e posaçme kur i përfaqësuari i ka dhënë përfaqësuesit tagrin për të kryer një ose disa veprime juridike të caktuara, që karakterizohen nga një qëllim i përbashkët.

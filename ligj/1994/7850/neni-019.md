@@ -1,0 +1,2 @@
+# Neni 19
+Personi që ka humbur gjatë një fatkeqësie natyrore ose në rrethana që bëjnë të besohet se ka vdekur, mund të shpallet si i tillë me vendim të gjykatës, kur kanë kaluar pa patur lajme dy vjet nga dita që ka ngjarë fatkeqësia, pa qenë e nevojshme të shpallet më parë i zhdukur. Kur nuk caktohet dita në të cilën ka ndodhur fatkeqësia, afati dyvjeçar fillon nga dita e parë e muajit që vjen pas atij në të cilin ka ndodhur fatkeqësia dhe, kur nuk mund të caktohet as muaji, afati fillon nga dita e parë e muajit janar të vitit të mëpasëm.

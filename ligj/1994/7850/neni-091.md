@@ -1,0 +1,2 @@
+# Neni 91
+Kur afati është caktuar me ditë, nuk llogaritet dita në të cilën ndodh ngjarja ose koha nga e cila ai duhet të fillojë. Afati që është caktuar në javë, në muaj ose në vite, mbaron, me kalimin e asaj dite të javës së fundit ose të muajit të fundit që ka të njëjtin emër ose numër me atë të ditës që ai ka filluar. Kur një ditë e tillë mungon në muajin e fundit, afati mbaron me kalimin e ditës së fundit të këtij muaji. Kur dita e fundit e një afati bie në ditë pushimi, afati mbaron në ditën e punës që vjen pas asaj të pushimit.

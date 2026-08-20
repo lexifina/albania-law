@@ -1,0 +1,2 @@
+# Neni 364
+Në radhë të tretë thirren në trashëgim personat e paaftë për punë në ngarkim të trashëgimlënësit që përmenden në nenin 363 të këtij Kodi, kur nuk ka trashëgimtarë të tjerë të radhës së dytë, gjyshi e gjyshja, vëllezërit e motrat, si dhe fëmijët e vëllezërve e të motrave të paravdekur. Të sipërmit trashëgojnë në pjesë të barabarta, pa u bërë dallimi ndërmjet vëllezërve e motrave të një ati ose vetëm të një nëne, ndërmjet gjyshit e gjyshes nga ana a babës ose e nënës.

@@ -1,0 +1,2 @@
+# Neni 196
+Gjykatat, noterët, përmbaruesit gjyqësorë dhe organet e tjera shtetërore detyrohen t’i dërgojnë për regjistrim zyrës që administron regjistrin ku ndodhen pasuritë e paluajtshme, kopje të vendimit ose të aktit që përmban fitimin, njohjen, ndryshimin, pushimin e një të drejte pronësie të paluajtshme, ose një të drejte reale mbi atë, ose që deklarojnë të pavlefshme veprime juridike për kalimin e pronësisë të regjistruar më parë.

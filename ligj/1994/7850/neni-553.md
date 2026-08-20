@@ -1,0 +1,2 @@
+# Neni 553
+Personi që ka dhënë pengun nuk mund të kërkojë kthimin e sendit, në qoftë se nuk janë paguar tërësisht kredia, kamatat, si dhe shpenzimet që kanë lidhje me detyrimin dhe me pengun. Në qoftë se pengu është dhënë nga një debitor, i cili ka ndaj të njëjtit kreditor një detyrim tjetër të lindur pas vënies së pengut dhe që është bërë i kërkueshëm përpara detyrimit të mëparshëm, kreditori ka vetëm të drejtën të mbajë sendin deri sa të paguhen plotësisht të dy kreditë.

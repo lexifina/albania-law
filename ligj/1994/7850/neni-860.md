@@ -1,0 +1,2 @@
+# Neni 860
+Porositësi mund të bëjë ndryshime në projekt, me kusht që madhësia e tyre të mos kalojë një të gjashtën e çmimit të përgjithshëm të caktuar. Sipërmarrësi ka të drejtë të kompensohet për punimet kryesore të kryera, edhe pse çmimi i veprës është caktuar në total. Paragrafi i mësipërm nuk zbatohet për ndryshimet në projekt që, megjithëse u përmbahen caqeve të lartpërmendura, sjellin ndryshime të konsiderueshme në natyrën e veprës ose në anën sasiore të kategorive të veçanta të punimeve të parashikuara në kontratë për kryerjen e së njëjtës vepër.

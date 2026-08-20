@@ -1,0 +1,2 @@
+# Neni 118
+Në detyrimet kontraktore të lidhura me afat ekzekutimi, parashkrimi i padisë fillon nga dita kur është plotësuar ky afat. Kur detyrimi është i përbërë nga pagesa periodike, për secilën prej tyre afati i parashkrimit fillon në mënyrë të veçantë. Për detyrimet kontraktore të lidhura pa afat dhe për detyrimet që ekzekutohen me kërkesën e kreditorit, afati i parashkrimit fillon nga dita kur ka lindur detyrimi.

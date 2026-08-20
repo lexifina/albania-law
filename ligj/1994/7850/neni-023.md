@@ -1,0 +1,2 @@
+# Neni 23
+Kur personi që është shpallur i vdekur del se është i gjallë, me kërkesën e tij ose të çdo të interesuari, vendimi prishet nga gjykata që e ka dhënë. Personi që del se është gjallë ka të drejtë të kërkojë pasurinë e tij dhe pasurinë e fituar me anë të saj, qoftë edhe nga personat e tretë që e kanë fituar nga ata, të cilëve u ka kaluar kjo pasuri për shkak të deklarimit të vdekjes së tij, në kufijtë dhe kushtet e parashikuara nga ky Kod e nga Kodi i Familjes.

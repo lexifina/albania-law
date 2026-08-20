@@ -1,0 +1,2 @@
+# Neni 960
+Marrëveshja që parashikon një kufizim të aktiviteteve profesionale të agjentit tregtar pas përfundimit të kontratës quhet klauzolë e moskonkurrencës. Marrëveshja e moskonkurrencës është e vlefshme kur bëhet me shkrim. Ajo duhet t’i përkasë një zone gjeografike ose grupi të klientëve, të besuar agjentit tregtar, si dhe llojin e kontratave, për të cilat agjenti tregtar kishte përfaqësimin, sipas kontratës së agjencisë. Klauzola e moskonkurrencës është e vlefshme për një periudhë jo më shumë se 2 vjet nga dita e përfundimit të kontratës.

@@ -1,0 +1,2 @@
+# Neni 341
+Trashëgimtarët përgjigjen për detyrimet që rëndojnë mbi pasurinë trashëgimore në përpjesëtim me pjesët e tyre, gjer në vleftën e pasurisë trashëgimore që kanë marrë. Quhen detyrime që rëndojnë mbi pasurinë trashëgimore, ato të trashëgimlënësit, shpenzimet e varrimit të tij dhe shpenzimet që nevojiten për ruajtjen dhe administrimin e pasurisë trashëgimore, deri sa ajo t’u kalojë trashëgimtarëve përkatës.

@@ -1,0 +1,2 @@
+# Neni 736
+Shitësi mund t’i caktojë blerësit një afat shtesë të arsyeshëm për përmbushjen e detyrimeve të veta. Me përjashtim të rastit kur shitësi nuk ka marrë njoftim nga blerësi se ky nuk do ta përmbushë detyrimin brenda afatit të caktuar, gjatë kësaj periudhe, shitësi nuk mund të përdorë asnjë mjet ligjor për përmbushjen e detyrimeve. Gjithsesi shitësi nuk humbet të drejtën për të kërkuar shpërblimin e dëmit për vonesën në përmbushje.

@@ -1,0 +1,2 @@
+# Neni 915
+I porosituri që vepron në emrin e vet fiton të drejta dhe merr përsipër detyrime që rrjedhin nga veprimet e kryera me të tretët, edhe po qe se këta kanë patur dijeni për porosinë. Të tretët nuk kanë asnjë lidhje me porositësin. Megjithatë porositësi, duke zënë vendin e të porositurit, mund të ushtrojë të drejtat e kredisë që rrjedhin nga zbatimi i porosisë, përveç kur mund të cenojë të drejtat që gëzon i porosituri në bazë të dispozitave të mëposhtme.

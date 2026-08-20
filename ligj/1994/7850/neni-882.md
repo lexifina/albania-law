@@ -1,0 +1,2 @@
+# Neni 882
+Dërguesi duhet t’i tregojë transportuesit me saktësi emrin e marrësit dhe vendin e destinimit, llojin, peshën, sasinë dhe numrin e sendeve për t’u transportuar dhe të dhëna të tjera të nevojshme për kryerjen e transportit. Në qoftë se për kryerjen e transportit nevojiten dokumente të posaçme, dërguesi duhet t’ia japë ato transportuesit në momentin kur dorëzon sendet për t’u transportuar. Janë në ngarkim të dërguesit dëmet që rrjedhin nga mungesa ose pasaktësia e të dhënave ose nga mosdorëzimi apo parregullsia e dokumenteve.

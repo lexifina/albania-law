@@ -1,0 +1,2 @@
+# Neni 277
+Pronari që nuk ka dalje në rrugën publike dhe nuk mund ta sigurojë atë përveç se me shpenzime të mëdha e me vështirësi, ka të drejtë të ketë rrugë kalimi nga toka fqinje, për përdorimin e përshtatshëm të pronës së vet. Kalimi duhet të përbëjë rrugën më të shkurtër për në rrugën publike dhe me më pak dëme për pronën shërbyese. Kjo dispozitë zbatohet edhe kur pronari, që i është njohur e drejta e kalimit në pronën e tjetrit, kërkon zgjerimin e arsyeshëm të rrugëkalimit për mjete, duke përfshirë edhe kalimin e mjeteve mekanike.

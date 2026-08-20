@@ -1,0 +1,3 @@
+# Neni 546
+Pengu vihet mbi një pasuri të luajtshme, mbi një të drejtë ndaj prurësit, ose me urdhër, ose mbi uzufruktin e kësaj pasurie ose të drejte. Pengu krijohet duke vendosur pasurinë ose titullin në posedim të kreditorit ose të një të treti të caktuar me marrëveshje midis palëve. Dispozitat për pengun nuk zbatohen ndaj kredive që lidhen me transaksione financiare, ndaj të cilave janë vendosur barrë siguruese, sipas kritereve të përcaktuara me ligj të veçantë. Dispozitat për pengun nuk zbatohen edhe në rastet e marrëveshjeve të kolateralit financiar, të cilat rregullohen me ligj të veçantë.
+Forma e kontratës

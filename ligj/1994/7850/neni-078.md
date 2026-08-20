@@ -1,0 +1,2 @@
+# Neni 78
+Kur një person fizik ose juridik vepron si përfaqësues pa e patur këtë cilësi, si edhe kur përfaqësuesi ka kapërcyer tagret që i janë dhënë, veprimi juridik i kryer në këto kushte nuk është i detyrueshëm për personin në emrin e të cilit janë kryer, përveç kur ky e ka miratuar atë më vonë. Kur miratimi nuk është dhënë, personi i tretë që ka qenë në mirëbesim ka të drejtë të kërkojë shpërblimin e dëmit nga përfaqësuesi.

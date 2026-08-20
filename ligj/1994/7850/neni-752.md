@@ -1,0 +1,2 @@
+# Neni 752
+Kur një send i paluajtshëm i caktuar shitet, duke treguar përmasat dhe me një çmim të vendosur mbi bazën e një pagese për çdo njësi matëse, blerësi ka të drejtë për një zbritje të çmimit, në qoftë se madhësia efektive e sendit të paluajtshëm është më e vogël se ajo e treguar në kontratë. Në qoftë se përmasat e sendit rezultojnë më të mëdha se ato që tregohen në kontratë, blerësi duhet të paguajë shtesën e çmimit, por ka të drejtë të heqë dorë nga kontrata kur teprica tejkalon një të njëzetën pjesë të madhësisë së deklaruar.

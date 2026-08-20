@@ -1,0 +1,3 @@
+# Neni 998
+Kur sendi i lënë depozitë nuk është tërhequr në afatin e caktuar në kontratë ose pas lajmërimit që i ka bërë depozitari, ky nuk përgjigjet për humbjen ose dëmtimin e sendit që ngjan pas kalimit të afatit, përveç kur humbja ose dëmtimi është shkaktuar me dashje ose nga pakujdesia e rëndë e tij. Në rastet e sipërme, depozitari ka të drejtë të kërkojë nga gjykata që të lejojë shitjen e sendit të lënë në depozitë sipas rregullave të ekzekutimit të detyrueshëm. Shumat e nxjerra nga shitja e sendit, pasi të zbriten shumat që ka për të marrë depozitari, i jepen depozituesit ose depozitohen në bankë në emër të tij.
+Dispozitë referuese

@@ -1,0 +1,3 @@
+KREU VII
+SIPËRMARRJA
+Përmbajtja

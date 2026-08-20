@@ -1,0 +1,2 @@
+# Neni 106
+Kur veprimi juridik është i pavlefshëm për arsye se vjen në kundërshtim me ligjin, ose është bërë me qëllim mashtrimi të ligjit, çdo gjë që palët i kanë dhënë njëra-tjetrës merret dhe kalon në të ardhurat e shtetit dhe kur nuk është e mundur të merret po ajo gjë, kërkohet vlefta e saj. Kur njëra nga palët ka vepruar në mirëbesim, gjykata mund të vendosë që çdo gjë që ka dhënë kjo palë t’i kthehet kësaj dhe kur nuk është e mundur kthimi i po kësaj gjëje, i paguhet vlefta e saj.

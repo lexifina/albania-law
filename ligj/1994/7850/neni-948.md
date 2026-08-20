@@ -1,0 +1,2 @@
+# Neni 948
+Masa e shpërblimit që i takon spedicionerit për kryerjen e detyrës përcaktohet, kur nuk ka marrëveshje për të, sipas tarifave profesionale ose, kur këto mungojnë, sipas zakoneve të vendit ku kryhet dërgesa. Parapagesat dhe kompensimet për shërbimet ndihmëse të kryera nga spedicioneri, likuidohen në bazë të dokumenteve justifikuese, veç në qoftë se ripagimi dhe kompensimet janë përcaktuar paraprakisht me një shumë të përgjithshme totale.

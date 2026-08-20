@@ -1,0 +1,2 @@
+# Neni 543
+Kur kushti penal është caktuar për rastin e mosekzekutimit të detyrimit dhe debitori nuk ekzekuton detyrimin e tij, kreditori ka të drejtë të kërkojë pagimin e kushtit penal, si dhe shpërblimin e pjesës së dëmit që kalon kushtin penal. Kur kushti penal është caktuar për rastin e ekzekutimit të detyrimit jo në mënyrën e duhur, dhe debitori nuk e ka ekzekutuar detyrimin e tij në mënyrën e duhur, kreditori ka të drejtë të kërkojë ekzekutimin e detyrimit dhe pagimin e kushtit penal, si dhe shpërblimin e pjesës së dëmit që kalon kushtin penal.

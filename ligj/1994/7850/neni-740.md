@@ -1,0 +1,4 @@
+# Neni 740
+Njëra palë mund të pezullojë përmbushjen e detyrimeve të veta në qoftë se, pas përfundimit të kontratës, del qartë se pala tjetër nuk do të përmbushë pjesën thelbësore të detyrimeve të saj si rrjedhim:
+1. të një pamundësie të rëndë në aftësinë e vet për ta përmbushur ose në aftësinë e vet paguese;
+2. të mënyrës në të cilën përgatitet për të filluar ose vazhduar zbatimin e kontratës. Në qoftë se shitësi i ka shitur sendet, para se të shfaqeshin kushtet e përmendura në paragrafin e mësipërm, ai mund të kundërshtojë dorëzimin e sendeve blerësit edhe sikur ky të zotërojë një dokument që e legjitimon atë për t’i marrë. Një kundërshtim i tillë ka efekt ekskluzivisht në marrëdhëniet midis blerësit dhe shitësit. Pala që pezullon zbatimin duhet të njoftojë menjëherë palën tjetër dhe duhet të vazhdojë përmbushjen në qoftë se pala tjetër jep garanci të përshtatshme lidhur me përmbushjen e detyrimeve të saj.

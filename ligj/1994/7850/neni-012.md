@@ -1,0 +1,2 @@
+# Neni 12
+Banimi është vendi ku personi, për shkak të punës apo të shërbimit të përhershëm, të ndodhjes së pasurisë apo të realizimit të interesave të veta, qëndron zakonisht ose të shumtën e kohës. Çdo person madhor ka të drejtë të caktojë lirisht vendbanimin e tij. Personi nuk mund të ketë njëkohësisht me shumë se një vendbanim. Kjo dispozitë nuk zbatohet për vendbanimin e veprimtarisë së tregtarit.

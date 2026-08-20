@@ -1,0 +1,2 @@
+# Neni 158
+Kur mbillen drurë e shkurre në kufijtë e pronave, pronarët janë të detyruar të mbajnë largësitë e caktuara me dispozita të veçanta e kur nuk ka të tilla, nga zakonet e vendit, përveç kur pronari fqinjë ka lejuar vetë ose kur kufiri është në një rrugë ose rrjedhë uji publike. Në mungesë të këtyre rregullave, largësitë janë: tre metra për drurët me trup të lartë dhe dy metra për drurët e tjerë. Këto largësi nuk zbatohen për drurët e shkurret, lartësia e të cilëve nuk e kalon murin ndarës të pronave.

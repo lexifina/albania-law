@@ -1,0 +1,2 @@
+# Neni 342
+Kur në një trashëgim, një ose disa prona të paluajtshme janë të rënduara me hipotekë, secili trashëgimtar ka të drejtë të kërkojë që këto prona të lirohen nga hipoteka para se të bëhet formimi i pjesëve trashëgimore. Megjithëkëtë, trashëgimtari që e ka shlyer detyrimin që rrjedh nga hipoteka e vënë mbi një send të paluajtshëm në pjesën trashëgimore të tij, ka të drejtën e kthimit ndaj trashëgimtarëve të tjerë, në proporcion me pjesët e tyre.

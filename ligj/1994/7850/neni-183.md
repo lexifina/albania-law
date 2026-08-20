@@ -1,0 +1,3 @@
+# Neni 183
+Pronari ose personi, të cilit i ka humbur sendi, ka të drejtë ta kërkojë atë brenda gjashtë muajve nga dita që është shpallur gjetja në bashkinë apo komunën përkatëse, pasi të ketë paguar shpenzimet e bëra për ruajtjen e sendit dhe një shpërblim për personin që ka gjetur sendin në masën 10% të vleftës së sendit, ose të çmimit të marrë, kur sipas rrethanave të paraqitura, shitja e tij ka qenë e domosdoshme. Kur ka kundërshtime për vleftën e sendit, mosmarrëveshja zgjidhet nga gjykata. Bashkia ose komuna mund të lejojë mbajtjen përkohësisht të sendit nga personi që e ka gjetur, të cilit i paguhen dhe shpenzimet e bëra për ruajtjen e sendit. Sendet e humbura duhet të ruhen dhe të mirëmbahen me kujdesin e duhur.
+Fitimi i pronësisë nga personi që ka gjetur sendin

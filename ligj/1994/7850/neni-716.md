@@ -1,0 +1,2 @@
+# Neni 716
+Shitësi është përgjegjës për çdo mangësi ose mospërputhje që ekzistonte në momentin e kalimit të rrezikut tek blerësi, edhe kur e meta shfaqet pas këtij momenti. Shitësi është përgjegjës edhe për mospërputhjen që vërtetohet pas momentit të treguar në paragrafin e mësipërm e që vjen nga mospërmbushja e një detyrimi çfarëdo të tij, duke përfshirë edhe garancinë sipas së cilës, për një periudhë të caktuar kohe sendet do të mbeten të përshtatshme për përdorimin e tyre normal ose për ndonjë përdorim të posaçëm, ose do të ruajnë cilësinë dhe karakteristikat e caktuara.

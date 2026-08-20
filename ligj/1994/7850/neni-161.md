@@ -1,0 +1,2 @@
+# Neni 161
+Pronari është i detyruar të mbledhë ujërat që rrjedhin nga strehët e ndërtesave të tij, në mënyrë që ato të mos pikojnë mbi tokën e tjetrit. Derdhja e tyre në një rrjedhë publike mund të bëhet kur nuk ndalohet nga rregullat që kanë caktuar organet kompetente. Pronari është i detyruar të kujdeset që ujërat dhe mbeturinat që vijnë nga toka e tij të mos derdhen në kanalin ose në tokën e tjetrit, përveç kur ndërmjet tyre ka marrëveshje të kundërt.

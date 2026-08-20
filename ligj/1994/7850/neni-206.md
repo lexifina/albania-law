@@ -1,0 +1,3 @@
+# Neni 206
+Kreditorët dhe trashëgimtarët e ndonjë bashkëpronari mund të ndërhyjnë në pjesëtim, me shpenzimet e tyre, por nuk mund të kundërshtojnë pjesëtimin e bërë më parë, përveç kur kanë njoftuar kundërshtimin e tyre para pjesëtimit. Në pjesëtimin e pasurisë së paluajtshme, njoftimi për kundërshtimet e përmendura në paragrafin e mësipërm, duhet të regjistrohet përpara regjistrimit të kërkesës për pjesëtim. Gjithashtu, në një pjesëtim të tillë duhet të thirren të gjithë kreditorët që kanë regjistruar kërkesat e tyre ose që kanë fituar të drejta mbi pasurinë që pjesëtohet, përpara regjistrimit të aktit të pjesëtimit ose të regjistrimit të kërkesës për pjesëtim.
+Pjesëtimi i sendit të përbashkët

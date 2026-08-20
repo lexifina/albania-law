@@ -1,0 +1,2 @@
+# Neni 516
+Kompensimi bëhet me anë të një deklarate që njëra palë i dërgon palës tjetër. Deklarata nuk mund të bëhet me afat ose me kusht. Kur kompensimi nuk mbulon gjithë kredinë ose kur kreditori ka nevojë të mbajë titullin e kredisë për të ushtruar të drejtat e tjera të tij, mund ta mbajë atë me kusht që të shënojë në titull përmbajtjen e deklaratës dhe t’i japë palës tjetër një kopje të titullit të kredisë.

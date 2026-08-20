@@ -1,0 +1,3 @@
+# Neni 547
+Kontrata e pengut duhet të bëhet me shkresë ose tek noteri, ndryshe është e pavlefshme. Ajo duhet të përfshijë gjithashtu një përshkrim të pronës së lënë peng. Në rastin e pengut të pjesëve, pengu duhet të regjistrohet në librin e anëtarëve të shoqërisë. Në rastin e pengut të aksioneve, pengu duhet të regjistrohet në librin e aksionarëve, në aksionet e lëna peng. Mund të lihet peng e gjitha ose një pjesë e pronave të përdorura në një ndërmarrje që vepron si një koncern veprues. Në një rast të tillë pengu është efektiv kur pronat i besohen një pale të tretë ose një kreditori, i cili nga ana e tij, do t’i menaxhojë ato si një koncern veprues i pandashëm.
+Mbrojtja e kreditorit
