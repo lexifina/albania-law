@@ -1,14 +1,13 @@
 # Neni 7
-Afati për autoritetet publike
-Në veprimet juridike tregtare, në të cilat debitori është autoritet publik, pas mbarimit të afatit të ekzekutimit të detyrimit nga debitori, sipas nenit 463 të Kodit Civil, dhe:
-a) kur kreditori i ka përmbushur të gjitha detyrimet e tij, sipas ligjit dhe kontratës;
-b) kur kreditori nuk është paguar, me përjashtim të rastit kur vonesa nuk ka ardhur për faj të debitorit;
-c) kur nga kontrata apo nga ndonjë dispozitë tjetër ligjore nuk mund të përcaktohet ndonjë afat a datë për kryerjen e pagesës, afati i pagesës nuk duhet të jetë më i gjatë se:
-i) 30 ditë kalendarike pas datës së marrjes nga ana e debitorit të faturës ose të një kërkesëpagese të njëvlershme;
-ii) 30 ditë kalendarike pas datës së marrjes së mallrave ose shërbimeve, kur nuk është e qartë data e marrjes së faturës ose kërkesëpagesës së njëvlershme;
-iii) 30 ditë kalendarike pas datës së marrjes së mallrave ose shërbimeve, kur debitori e merr faturën ose kërkesëpagesën e njëvlershme përpara lëvrimit të mallrave ose shërbimeve;
-iv) kur ligji a kontrata parashikon një procedurë të marrjes në dorëzim ose të kolaudimit, përmes së cilës vërtetohet përputhshmëria e mallrave a shërbimeve me kontratën, dhe nëse debitori e merr faturën ose kërkesëpagesën e njëvlershme përpara ose në datën kur bëhet marrja në dorëzim apo kolaudimi në fjalë, 30 ditë kalendarike pas kësaj date.
-Në ato raste kur ndërmjet kreditorit dhe debitorit ka një datë të përcaktuar për dorëzimin e faturës, afatet për pagimin e kamatëvonesave fillojnë të llogariten që nga e nesërmja e datës së përcaktuar në marrëveshje.
-Afati i parashikuar në shkronjën “a” të këtij neni, mund të zgjatet jo më shumë se 60 ditë kalendarike, me përjashtim të rasteve kur në kontratë apo marrëveshje është rënë dakord për një afat tjetër.
-Në ato raste kur autoriteti publik ka refuzuar të marrë në dorëzim mallin apo kryerjen e shërbimeve, për shkak të pretendimeve që ai ka mbi to, afatet e parashikuara në këtë nen llogariten duke filluar nga data e rënies dakord ndërmjet kreditorit dhe debitorit për pranimin e mallrave, punimeve apo shërbimeve të kryera nga kreditori.
-Afati i parashikuar në paragrafin e parë, të këtij neni, i jep të drejtë kreditorit të kërkojë të marrë kamatëvonesë pas 60 ditëve kalendarike gjithsej, duke përfshirë 30 ditët kalendarike të vonesës nga thesari, në shtesë nga 30 ditët e vonesës së pagesës për shkak të autoritetit publik.
+Afatet e pagesës në transaksionet me autoritetet publike
+1. Në transaksionet tregtare, ku debitori është një autoritet publik, kreditori ka të drejtë të marrë kamatëvonesë ligjore pa qenë i nevojshëm dërgimi i një njoftimi, kur janë përmbushur kushtet e mëposhtme:
+a) kreditori ka përmbushur detyrimet e tij ligjore dhe kontraktore;
+b) kreditori nuk ka marrë shumën e detyrimit në kohë, përveç rasteve kur debitori vërteton se vonesa nuk ka ardhur për shkak të rrethanave që nuk varen prej tij.
+2. Kur afati i pagesës nuk është përcaktuar në kontratë, kamatëvonesa fillon të llogaritet automatikisht pas kalimit të afatit prej 30 (tridhjetë) ditësh kalendarike, nga:
+a) data e marrjes prej debitorit të faturës ose të një kërkesëpagese të njëvlershme;
+b) data e marrjes në dorëzim të mallrave a shërbimeve, kur data e marrjes së faturës është e pasigurt ose kur debitori e merr faturën përpara mallrave ose shërbimeve;
+c) data e përfundimit të procedurës së dorëzimit ose të kolaudimit nëse kjo procedurë parashikohet me ligj ose në kontratë, dhe debitori e ka marrë faturën përpara ose në datën kur kryhet ky dorëzim ose kolaudim.
+3. Afati i pagesës i përcaktuar në kontratë nuk mund të kalojë 30 (tridhjetë) ditë kalendarike. Ky afat mund të zgjatet deri në një maksimum prej 60 (gjashtëdhjetë) ditësh kalendarike vetëm nëse është rënë dakord shprehimisht në kontratë.
+4. Kur ligji ose kontrata parashikon një procedurë dorëzimi apo kolaudimi për verifikimin e konformitetit të mallrave a shërbimeve, kohëzgjatja e kësaj procedure nuk mund të kalojë 30 (tridhjetë) ditë kalendarike nga data e marrjes së mallrave ose shërbimeve. Çdo kusht kontraktor ose dokument tenderi, që parashikon një afat më të gjatë, është i pavlefshëm.
+5. Data e marrjes së faturës nuk mund të jetë subjekt i një marrëveshjeje kontraktore ndërmjet debitorit e kreditorit. Çdo kusht kontraktor, që synon shtyrjen e datës së marrjes së faturës është i pavlefshëm.
+6. Kamatëvonesa llogaritet automatikisht nga dita e nesërme e përfundimit të afateve të përcaktuara në këtë nen, pa qenë nevoja për njoftim formal apo kërkesë vënieje në vonesë, sipas rregullave të përgjithshme të Kodit Civil.
