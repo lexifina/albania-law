@@ -8,5 +8,5 @@ c) humbet zotësinë juridike për të vepruar me vendim gjykate;
 d) vdes;
 dh) dënohet për kryerjen e një vepre penale me vendim gjykate të formës së prerë.
 2. Këshilli i Ministrave shkarkon anëtarin e bordit mbikëqyrës nga detyra, kur vëren shkelje të ligjit dhe të akteve të përgjithshme të AMSHC-së, kur ai ka interesa profesionalë e financiarë, që janë në konflikt me interesat e agjencisë, ose kur sjellja e qëndrimi i tij cenojnë autoritetin e AMSHC-së.
-3. Bordi mbikëqyrës shkarkon nga detyra drejtorin ekzekutiv, kur vëren njërën nga shkeljet e përmendura në pikën 2 të këtij neni.
-4. Emërimi i anëtarit të ri të bordit mbikëqyrës ose i drejtorit ekzekutiv bëhet jo më vonë se 30 ditë nga data e mbarimit të mandatit.
+3. Shfuqizuar.
+4. Emërimi i anëtarit të ri të bordit mbikëqyrës bëhet jo më vonë se 30 ditë nga data e mbarimit të mandatit.

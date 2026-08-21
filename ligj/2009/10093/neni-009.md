@@ -9,6 +9,7 @@ d) miraton raportet financiare;
 dh) miraton rregullat e funksionimit të personelit;
 e) vendos për përdorimin e pasurisë së AMSHC-së;
 ë) zgjedh e shkarkon kryetarin dhe zëvendëskryetarin e tij;
-f) emëron e shkarkon nga detyra drejtorin ekzekutiv;
-g) raporton në Këshillin e Ministrave për veprimtarinë e AMSHC-së;
-gj) kryen detyra të tjera, në përputhje me dispozitat e këtij ligji dhe me statutin e AMSHC-së.
+f) shfuqizuar;
+g) raporton në Këshillin e Ministrave për veprimtarinë e AMSHC-së nëpërmjet ministrit përgjegjës për mirëqenien sociale;
+gj) kryen detyra të tjera, në përputhje me dispozitat e këtij ligji dhe me statutin e AMSHC-së;
+h) miraton dhënien e grantit.
