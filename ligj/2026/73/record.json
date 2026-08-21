@@ -1,0 +1,26 @@
+{
+  "qbz_id": 66792,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 9616, datë 27.9.2006, “Për librin në Republikën e Shqipërisë”, i ndryshua",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "73",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2026-07-16",
+  "published": "2026-08-06",
+  "in_force": "2026-08-21",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/530d3d2c64460c5ba461042b1c0369374163ec4f4ecbc7339fea09f2406c8d9b.docx",
+  "source_sha256": "530d3d2c64460c5ba461042b1c0369374163ec4f4ecbc7339fea09f2406c8d9b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66792",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2026/07/16/73",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
