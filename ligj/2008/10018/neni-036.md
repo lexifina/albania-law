@@ -1,8 +1,8 @@
 # Neni 36
 Aktet nënligjore
-1. Ngarkohet Këshilli i Ministrave të nxjerrë aktet nënligjore në zbatim të nenit 4 pika 7, nenit 18 pika 2, nenit 27 dhe nenit 28 të këtij ligji.
+1. Ngarkohet Këshilli i Ministrave të nxjerrë aktet nënligjore në zbatim të nenit 4 pika 7, të nenit 12/1, pika 5, nenit 18 pika 2, nenit 27 dhe nenit 28 dhe nenit 33/1, pika 5 të këtij ligji.
 2. Ngarkohet Ministri i Drejtësisë të nxjerrë aktet nënligjore në zbatim të nenit 4 pika 6 dhe nenit 7 pika 3 të këtij ligji.
-3. Ngarkohet Avokati i Përgjithshëm i Shtetit të nxjerrë aktet e nevojshme në zbatim të nenit 30 pika 4 shkronja “c” të këtij ligji.
+3. Ngarkohet Avokati i Përgjithshëm i Shtetit të nxjerrë aktet e nevojshme në zbatim të nenit 12/1, pika 4, të nenit 20, pika 1/2, dhe të nenit 30 pika 4 shkronja “c” të këtij ligji.
 Dispozitë kalimtare
 1. Deri në miratimin e rregullores së brendshme të funksionimit të Avokaturës së Shtetit, me ndryshimet përkatëse, zyrat në nivel qendror dhe vendor të Avokaturës së Shtetit ushtrojnë të gjitha kompetencat e parashikuara në dispozitat e ligjit nr. 10 018, datë 13.11.2008, “Për Avokaturën e Shtetit”.
 2. Punonjësit e emëruar në pozicionin e avokatit të shtetit, të cilët nuk gëzojnë statusin e avokatit të shtetit, janë subjekt i vlerësimit profesional. Punonjësit vazhdojnë të ushtrojnë përkohësisht detyrën e avokatit të shtetit, përveç kur marrëdhënia e punës përfundon sipas shkaqeve të përcaktuara në ligj, ose si rezultat i procesit të vlerësimit profesional. Rregulla më të hollësishme mbi vlerësimin profesional, fazat e zhvillimit të tij dhe procedura përcaktohen në rregulloren e brendshme të funksionimit të Avokaturës së Shtetit.
