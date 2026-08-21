@@ -1,0 +1,7 @@
+# Neni 2
+Selia
+1. SE-ja regjistrohet në regjistrin tregtar të mbajtur nga Qendra Kombëtare e Biznesit (QKB), në përputhje me kërkesat e legjislacionit në fuqi për regjistrimin e shoqërive aksionare dhe me dispozitat e këtij ligji.
+2. SE-ja fiton personalitetin juridik ditën e regjistrimit të saj në regjistrin tregtar të mbajtur nga QKB-ja. Emri i shoqërisë evropiane në regjistrin tregtar të QKB-së duhet të ndiqet nga shkurtimi “SE”.
+3. Statuti i SE-së duhet të përcaktojë selinë e shoqërisë, në përputhje me kërkesat e ligjit shqiptar për tregtarët dhe shoqëritë tregtare.
+4. Selia e regjistruar e SE-së duhet të përkojë me vendin ku ushtrohen funksionet kryesore të administrimit të saj (drejtimi qendror), duke përfshirë vendndodhjen e organeve ekzekutive dhe mbajtjen e dokumentacionit të shoqërisë. Nëse Qendra Kombëtare e Biznesit (QKB) konstaton se drejtimi qendror i një SE-je me seli të regjistruar në Republikën e Shqipërisë është transferuar në një shtet tjetër, ajo i kërkon SE-së që brenda një afati të arsyeshëm, të përcaktuar prej saj, të rikthejë drejtimin qendror në territorin e Republikës së Shqipërisë ose të nisë procedurën për transferimin e selisë së regjistruar në një shtet tjetër, në përputhje me nenin 5 të këtij ligji.
+5. Nëse SE-ja nuk rregullon situatën e selisë së saj sipas pikave të sipërpërmendura, zbatohen procedurat e parashikuara në ligjin për tregtarët dhe shoqëritë tregtare për likuidimin e shoqërisë me vendim gjykate. QKB-ja njofton SE-në për konstatimin e parregullsisë dhe e publikon këtë njoftim në regjistrin tregtar.

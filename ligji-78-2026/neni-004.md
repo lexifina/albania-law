@@ -1,0 +1,3 @@
+# Neni 4
+Publikimi i të dhënave në Gazetën Zyrtare të Bashkimit Evropian
+Qendra Kombëtare e Biznesit (QKB) është e detyruar të përgatisë dhe të përcjellë informacionin përkatës, në lidhje me shoqëritë evropiane (SE) të regjistruara në Republikën e Shqipërisë, për qëllime publikimi në Zyrën për Botimet Zyrtare të Bashkimit Evropian. Informacioni përfshin të dhënat standarde që zakonisht bëhen publike për SE-të në vendet anëtare të BE-së. Përcjellja e informacionit bëhet në mënyrë elektronike përmes mjeteve zyrtare të komunikimit ndërinstitucional të dakordësuara ndërmjet autoriteteve shqiptare dhe institucioneve të BE-së.

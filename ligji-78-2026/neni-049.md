@@ -1,0 +1,8 @@
+# Neni 49
+Pjesëmarrja e punëmarrësve
+1. Pjesëmarrja e punëmarrësve në një shoqëri evropiane (SE), me seli të regjistruar në Republikën e Shqipërisë, rregullohet në përputhje me dispozitat e legjislacionit shqiptar në fuqi që garantojnë të drejtën për informim, konsultim dhe, kur parashikohet, përfaqësim në organet vendimmarrëse të shoqërisë.
+2. Rregullat për pjesëmarrjen e punëmarrësve në SE zbatohen në të njëjtën mënyrë dhe në të njëjtat kushte si për shoqëritë aksionare të krijuara sipas legjislacionit shqiptar, përveç rasteve kur ky ligj parashikon ndryshe.
+3. Në rastet kur krijimi i një SE-je përfshin një ose më shumë shoqëri nga juridiksione të ndryshme, përfshirë juridiksione të shteteve anëtare të Bashkimit Evropian, pjesëmarrja e punëmarrësve përcaktohet nëpërmjet një marrëveshjeje ndërmjet palëve, që respekton parimin e ruajtjes së të drejtave të përfaqësimit ekzistuese në shoqëritë pjesëmarrëse.
+4. Marrëveshja sipas pikës 3 të këtij neni hartohet nga një grup i posaçëm negociues, i cili përbëhet nga përfaqësues të punëmarrësve të shoqërive pjesëmarrëse dhe miratohet nga organet kompetente të SE-së, në përputhje me procedurat e përcaktuara në aktet nënligjore.
+5. Nëse nuk arrihet marrëveshje për pjesëmarrjen e punëmarrësve brenda afatit të përcaktuar me ligj, zbatohen dispozitat e legjislacionit shqiptar për përfaqësimin dhe konsultimin kolektiv të punonjësve në shoqëritë tregtare.
+6. QKB-ja nuk mund të regjistrojë një SE nëse nuk provohet se janë zbatuar dispozitat e këtij neni dhe, sipas rastit, është lidhur një marrëveshje për pjesëmarrjen e punëmarrësve ose është dokumentuar pamundësia për arritjen e saj brenda afateve të përcaktuara me ligj.

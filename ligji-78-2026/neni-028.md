@@ -1,0 +1,3 @@
+# Neni 28
+Miratimi nga QKB-ja i regjistrimit të një SE-je mbajtëse
+QKB-ja është e detyruar të shqyrtojë nëse aksionarët në shoqëritë që synojnë të themelojnë një SE mbajtëse kanë paguar përqindjen minimale të aksioneve të përcaktuar për secilën shoqëri, në përputhje me planin e themelimit, brenda afatit të parashikuar, nëse të gjitha kushtet e tjera janë plotësuar dhe të gjitha veprimet juridike janë ndërmarrë dhe të gjitha formalitetet për themelimin e një SE-je mbajtëse janë përmbushur siç duhet. Nëse kjo është bërë, QKB-ja bën regjistrimin në regjistrin e saj tregtar dhe lëshon një certifikatë që të gjitha veprimet juridike janë kryer siç duhet dhe të gjitha formalitetet e kërkuara për themelimin e një SE-je mbajtëse janë përmbushur siç duhet.

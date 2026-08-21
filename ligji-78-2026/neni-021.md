@@ -1,0 +1,3 @@
+# Neni 21
+Kompensimi në para për një aksionar që kundërshton bashkimin e shoqërive
+Çdo aksionar i një shoqërie, aktivet e së cilës transferohen në një SE me seli në një shtet anëtar të Bashkimit Evropian, i cili në asamblenë e përgjithshme deklaron në procesverbal kundërshtimin e tij ndaj vendimit për bashkimin e shoqërive, ka të drejtë të kërkojë nga shoqëria ose nga një person i tretë, që ka ofruar të paguajë kompensimin në para, që t’i paguhet një kompensim i përshtatshëm në para dhe që ai t’ia transferojë aksionet e tij atij. Në këtë rast do të zbatohen dispozitat e neneve 12 dhe 13 të këtij ligji.
