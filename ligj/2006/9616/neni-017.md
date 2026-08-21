@@ -1,3 +1,4 @@
 # Neni 17
 1. Për të pasuruar fondet e sistemit bibliotekar kombëtar me vepra me karakter kulturor, shkencor, teknik apo teknologjik të autorëve shqiptarë dhe të huaj, organet shtetërore, qendrore dhe vendore, në bazë të rekomandimeve të Këshillit Kombëtar të Librit dhe të Nxitjes së Leximit, të përcjella nga ministri, krijojnë fondet përkatëse në buxhetet respektive për blerjen e një minimumi të titujve të botuar dhe të shtypshkruar në vend. Ky minimum përcaktohet me vendim të Këshillit të Ministrave.
-2. Këshillat bashkiakë ose komunalë duhet të planifikojnë dhe të përcaktojnë në buxhetet vjetore respektive një zë të veçantë për blerjen e librave për bibliotekat publike të njësive të qeverisjes vendore.
+2. Njësitë e vetëqeverisjes vendore planifikojnë dhe përcaktojnë në buxhetet vjetore përkatëse një zë të veçantë për blerjen e librave për bibliotekat publike të njësive të vetëqeverisjes vendore.
+3. Fondi për librin, i miratuar në buxhetin e organit qendror apo vendor, është i patjetërsueshëm.

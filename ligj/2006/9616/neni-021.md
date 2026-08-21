@@ -14,4 +14,11 @@ gj) çmimi;
 h) e drejta e autorit;
 i) barkodi;
 j) katalogimi në botim (CIP);
-k) dëftues të tjerë, sipas veçantisë së botimit, nëse ka.
+k) dëftues të tjerë, sipas veçantisë së botimit, nëse ka;
+l) identifikuesi unik universal i veprës dhe i kopjes së saj gjenerohet në formën e një barkodi për çdo ekzemplar libri.
+Ky identifikues përbëhet nga tre komponentë:
+i. identifikuesi standard i veprës ose botimit, në përputhje me standardet ndërkombëtare (ISBN dhe/ose DOI, kur aplikohet);
+ii. të dhënat kohore të publikimit ose stampimit;
+iii. një komponent unik i gjeneruar në mënyrë algoritmike për identifikimin individual të kopjes.
+Identifikuesi unik universal nuk zëvendëson identifikuesit standardë ndërkombëtarë të veprës, si ISBN apo DOI, por i plotëson ata duke mundësuar identifikimin dhe gjurmueshmërinë e çdo kopjeje individuale në qarkullim.
+Gjenerimi dhe administrimi i barkodeve unike kryhet nga Agjencia e të Drejtës së Autorit, e cila autorizohet posaçërisht për këtë funksion.
