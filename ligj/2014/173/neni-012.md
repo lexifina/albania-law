@@ -3,6 +3,7 @@ Shkelje disiplinore të rënda
 1. Shkelje disiplinore të rënda janë:
 a) kryerja e riteve fetare me uniformë në institucionet fetare, jashtë ambienteve të Forcave të Armatosura;
 b) publikimi ose dhënia në medie e informacioneve që lidhen me veprimtarinë e Forcave të Armatosura, si dhe shpërndarja e dokumenteve zyrtare të paklasifikuara, në kundërshtim me procedurat e përcaktuara në aktet ligjore e nënligjore në fuqi;
+b/1) dhënia e intervistave të paautorizuara në mediat e shkruara dhe audiovizive, në kundërshtim me rregullat e miratuara për këtë qëllim;
 c) shprehja e kritikave publike ndaj Forcave të Armatosura, në formë shkresore, elektronike ose verbale, që cenon imazhin e institucionit apo personalitetin e ushtarakëve të tjerë të Forcave të Armatosura;
 ç) fshehja, ndryshimi ose asgjësimi i dokumenteve zyrtare në formë shkresore ose elektronike;
 d) dhënia me dashje e informacionit të gabuar, përveç rasteve të parashikuara nga legjislacioni në fuqi;

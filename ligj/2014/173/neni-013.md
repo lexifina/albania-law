@@ -7,7 +7,7 @@ c) lejimi i personave nga organizata politike, fetare ose çdo organizatë tjet�
 ç) përdorimi, shpërndarja ose vendosja në mjetet ose në ambientet ku shërbejnë Forcat e Armatosura e simboleve apo reklamave të organizatave politike apo shoqërore, me përjashtim të atyre me karakter humanitar;
 d) ushtrimi i funksioneve ose mospërmbushja e detyrave që sjellin cenim të operacionalitetit, të gatishmërisë dhe të sigurisë në Forcat e Armatosura;
 dh) organizimi, nxitja ose pjesëmarrja në grevë;
-e) përdorimi i substancave të paligjshme dhe i lëndëve narkotike, kur nuk përbën vepër penale;
+e) përdorimi i substancave të paligjshme dhe i lëndëve narkotike;
 ë) dhënia ose mundësimi i dhënies së informacioneve me karakter ushtarak, për të cilat ka marrë dijeni gjatë kryerjes së detyrës ose edhe jashtë saj në mënyrë të rastësishme, personave të paautorizuar ose medies, kur nuk përbën vepër penale;
 f) ngacmimet në formën e orvatjes së padëshiruar seksuale, kërkesë për favore seksuale dhe sjellje të tjera verbale ose fizike të një natyre seksuale, të kryera nga eprori ndaj vartësit ose ndaj ushtarakut me gradë më të ulët gjatë ose jashtë orarit të punës;
 g) organizimi i lojërave të fatit në ambientet ushtarake, me qëllim përfitimin e vlerave monetare ose materiale;

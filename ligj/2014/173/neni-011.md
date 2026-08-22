@@ -7,7 +7,7 @@ c) mosdeklarimi i përdorimit të barnave për arsye mjekësore, që krijojnë e
 ç) publikimi i paautorizuar në rrjetet sociale i pamjeve personale ose i çdo efektivi të Forcave të Armatosura me armatim ushtarak, simbole dhe mjete teknike ushtarake;
 d) mosrespektimi i orarit të punës;
 dh) përdorimi i automjeteve të Forcave të Armatosura për qëllime private, gjatë apo pas kryerjes së detyrës, përjashtuar rastet kur është i autorizuar për këtë gjë;
-e) përdorimi i automjeteve të Forcave të Armatosura pa dokumentacionin përkatës;
+e) përdorimi dhe lejimi i lëvizjes së automjeteve të Forcave të Armatosura pa dokumentacionin përkatës;
 ë) përdorimi i paautorizuar i sendeve personale dhe ushtarake të ushtarakëve të tjerë të Forcave të Armatosura;
 f) përdorimi dhe shfrytëzimi i korrespondencës zyrtare për qëllime private;
 g) mosraportimi i shkeljes disiplinore;

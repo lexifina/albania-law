@@ -1,16 +1,22 @@
 # Neni 7
 Autoritetet përgjegjëse
-1. Autoritetet përgjegjëse për dhënien e masave disiplinore ndaj ushtarakëve të Forcave të Armatosura, me përjashtim të atyre me grada madhore, janë:
-a) Ministri i Mbrojtjes, me propozimin e Komisionit të Lartë Disiplinor, vetëm për dhënien e masave shumë të rënda disiplinore për të gjithë oficerët e Forcave të Armatosura;
-b) Shefi i Shtabit të Përgjithshëm të Forcave të Armatosura, vetëm për masat e lehta dhe të rënda për:
-i) ushtarakët e Ministrisë së Mbrojtjes dhe Shtabit të Përgjithshëm të Forcave të Armatosura dhe strukturave, me drejtues civilë, të varësisë së tyre të drejtpërdrejtë;
-ii) ushtarakët që shërbejnë në shtabet e NATO-s, në përfaqësitë ushtarake të Republikës së Shqipërisë pranë NATO-s, në organizatat ndërkombëtare dhe në shtabet ushtarake ndërkombëtare;
-iii) zëvendëskomandantët, shefat e shtabeve të komandave të forcave dhe strukturave mbështetëse dhe strukturave të varësisë së Ministrisë së Mbrojtjes dhe Shtabit të Përgjithshëm të Forcave të Armatosura;
-Shefi i Shtabit të Përgjithshëm të Forcave të Armatosura, me propozimin e Komisionit të Lartë Disiplinor, jep masa shumë të rënda disiplinore për nënoficerët dhe ushtarët e Forcave të Armatosura, me përjashtim të atyre të përcaktuara në paragrafin e dytë të shkronjës “c” të pikës 1 të këtij neni.
-c) komandantët e forcave dhe strukturave mbështetëse, si dhe ato të strukturave të varësisë së Ministrisë së Mbrojtjes dhe Shtabit të Përgjithshëm të Forcave të Armatosura për masat e lehta dhe të rënda, për ushtarakët në varësi të tyre në nivel batalioni, drejtuesi ushtarak në nivel njësie kryesore/njësie bazë në institucionet arsimore ushtarake e lart, përveç atyre të përcaktuar në shkronjën “b”, të kësaj pike;
-Komandantët e Forcave dhe strukturave mbështetëse, me propozim të Komisionit të Lartë Disiplinor, për masat shumë të rënda “Vërejtje me paralajmërim” dhe “Ulje në pagë” për tetarët dhe nëntetarët, si dhe për ushtarët me grada “Ushtar I” deri “Ushtar IV” në varësi të tyre.
-ç) komandantët në nivel batalioni, drejtuesi ushtarak në nivel njësie kryesore/njësie bazë në institucionet arsimore ushtarake, për masat e lehta dhe të rënda, për ushtarakët në varësi të tyre, përveç atyre të përcaktuar në shkronjën “b”, të kësaj pike;
-d) komandantët në nivel kompanie dhe toge, për masat e lehta, për ushtarakët në varësi të tyre, përveç atyre të përcaktuar në shkronjën “b”, të kësaj pike.
-2. Ndaj oficerëve me grada madhore mund të jepen vetëm masat disiplinore të përcaktuara në shkronjat “a”, “c”, “ç” dhe “dh”, sipas pikës 3 të nenit 14 të këtij ligji.
-3. Autoriteti përgjegjës për dhënien e masës disiplinore “shkarkim nga detyra dhe lirim nga Forcat e Armatosura”, për oficerët me gradë madhore është Presidenti i Republikës. Propozimi për dhënien e kësaj mase disiplinore Shefit të Shtabit të Përgjithshëm të Forcave të Armatosura bëhet nga Kryeministri, ndërsa për oficerët e tjerë me grada madhore bëhet nga Ministri i Mbrojtjes.
-4. Autoriteti përgjegjës për dhënien e masës disiplinore “Vërejtje me paralajmërim” dhe “Ulje e pagës” për oficerët me grada madhore është Ministri i Mbrojtjes me propozim të Komisionit të Lartë Disiplinor.
+Autoritetet përgjegjëse për dhënien e masave disiplinore ndaj ushtarakëve të Forcave të Armatosura janë, si më poshtë:
+a) Presidenti i Republikës për dhënien e masës disiplinore shumë të rëndë “Shkarkim dhe lirim nga Forcat e Armatosura” për oficerët me grada madhore.
+Propozimi për dhënien e kësaj mase disiplinore shefit të Shtabit të Përgjithshëm të Forcave të Armatosura bëhet nga Kryeministri, ndërsa për oficerët e tjerë me grada madhore bëhet nga ministri i Mbrojtjes;
+b) Ministri i Mbrojtjes për dhënien e masave disiplinore shumë të rënda:
+i. të parashikuara nga shkronjat “a”, “c” dhe “ç”, të pikës 3, të nenit 14 për oficerët me grada madhore. Propozimi për dhënien e këtyre masave bëhet nga Komisioni i Lartë Disiplinor;
+ii. për të gjithë oficerët e Forcave të Armatosura, me përjashtim të masave për të cilat autoriteti përgjegjës është Presidenti i Republikës, si dhe masave të parashikuara nga nënndarja “i” e kësaj shkronje. Propozimi për dhënien e kësaj mase bëhet nga Komisioni i Lartë Disiplinor;
+c) Shefi i Shtabit të Përgjithshëm, për dhënien e:
+i. masave disiplinore të rënda të parashikuara në shkronjat “a” dhe “ç”, të pikës 2, të nenit 14 për oficerët me grada madhore;
+ii. masave disiplinore të lehta e të rënda për ushtarakët e Ministrisë së Mbrojtjes dhe Shtabit të Përgjithshëm e të strukturave me drejtues civilë të varësisë së tyre të drejtpërdrejtë;
+iii. masave disiplinore të lehta e të rënda për ushtarakët që shërbejnë në shtabet e NATO-s, përfaqësitë ushtarake të Republikës së Shqipërisë pranë NATO-s, në organizatat ndërkombëtare dhe në shtabet ushtarake ndërkombëtare;
+iv. masave disiplinore të lehta e të rënda për drejtuesit ushtarakë të strukturave mbështetëse dhe strukturave të varësisë së Ministrisë së Mbrojtjes dhe Shtabit të Përgjithshëm të Forcave të Armatosura;
+v. masave disiplinore shumë të rënda të përcaktuara në shkronjat “d” dhe “dh”, të pikës 3, të nenit 14 për nënoficerët dhe ushtarët e Forcave të Armatosura. Propozimi për dhënien e kësaj mase bëhet nga Komisioni i Lartë Disiplinor;
+ç) komandanti i forcës dhe strukturës mbështetëse për dhënien e masave disiplinore të mëposhtme:
+i. masat disiplinore të lehta e të rënda për drejtuesit e strukturave të varësisë, me përjashtim të oficerëve me grada madhore;
+ii. masat disiplinore të lehta e të rënda për ushtarakët në varësi të tyre;
+iii. masat disiplinore shumë të rënda për nënoficerët dhe ushtarët e forcës dhe strukturës mbështetëse, me përjashtim të masave disiplinore për të cilat autoritet përgjegjës është shefi i Shtabit të Përgjithshëm. Propozimi për dhënien e kësaj mase bëhet nga Komisioni i Lartë Disiplinor;
+d) komandantët në nivel brigade, regjimenti, distrikti, batalioni, flotilje, njësie kryesore ose njësie bazë në institucionet arsimore për dhënien e masave disiplinore të mëposhtme:
+i. masat disiplinore të lehta e të rënda për drejtuesit e strukturave të varësisë;
+ii. masat disiplinore të lehta e të rënda për ushtarakët në varësi të tyre;
+dh) komandantët në nivel kompanie ose toge për dhënien e masave disiplinore për ushtarakët në varësi të tyre.

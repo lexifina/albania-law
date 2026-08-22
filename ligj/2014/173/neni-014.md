@@ -17,3 +17,4 @@ c) “Ulje e pagës”, që është masë nëpërmjet së cilës ushtaraku do t�
 ç) “Ndalimi për gradim”, e cila është masa që ndalon ushtarakun për të konkurruar për marrjen e gradës së radhës vetëm 1 (një) herë;
 d) “Ulje në gradë”, e cila është një masë nëpërmjet së cilës ushtaraku ulet deri në një gradë, për jo më shumë se 1 (një) vit. Në fund të periudhës së zbatimit të masës disiplinore, ushtaraku rimerr gradën e mëparshme, me urdhër të autoritetit përgjegjës;
 dh) “Shkarkimi dhe lirimi nga Forcat e Armatosura”, e cila është masë ekstreme e dhënë për shkelje shumë të rënda disiplinore.
+e) “Ndërprerja e studimeve”, e cila është masë ekstreme e dhënë për studentët dhe kursantët për shkelje disiplinore shumë të rënda.
