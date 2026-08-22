@@ -1,6 +1,6 @@
 # Neni 13
 Përbërësit e pasqyrave financiare
-1. Pasqyrat financiare vjetore, përveç rasteve që parashikohen në mënyrë specifike nga Standardet Kombëtare të Kontabilitetit apo Standardet Ndërkombëtare të Raportimit Financiar, minimalisht duhet të përmbajnë:
+1. Pasqyrat financiare vjetore, përveç rasteve që parashikohen në mënyrë specifike nga Standardet Kombëtare të Kontabilitetit apo standardet kontabël ndërkombëtare të raportimit financiar, minimalisht duhet të përmbajnë:
 a) pasqyrën e pozicionit financiar;
 b) pasqyrën e performancës (pasqyrën e të ardhurave dhe të shpenzimeve);
 c) shënimet e pasqyrave financiare.

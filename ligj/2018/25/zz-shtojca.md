@@ -10,12 +10,12 @@ Aktivet
 ≤ 15 000
 ≤ 25 000
 ≤ 35 000
-≤ 47 500
-Të ardhurat nga veprimtaria ekonomike (qarkullimi)
+≤ 45 000
+Të ardhurat e shfrytëzimit
 ≤ 30 000
 ≤ 50 000
 ≤ 70 000
-≤ 95 000
+≤ 90 000
 Numri i punonjësve
 ≤ 10
 ≤ 10
@@ -26,12 +26,12 @@ Aktivet
 ≤ 150 000
 ≤ 250 000
 ≤ 350 000
-≤ 540 000
-Të ardhurat nga veprimtaria ekonomike (qarkullimi)
+≤ 500 000
+Të ardhurat e shfrytëzimit
 ≤ 300 000
 ≤ 500 000
 ≤ 700 000
-≤ 1 080 000
+≤ 1 000 000
 Numri i punonjësve
 ≤ 50
 ≤ 50
@@ -42,12 +42,12 @@ Aktivet
 ≤ 750 000
 ≤ 1 250 000
 ≤ 2 000 000
-≤ 2 700 000
-Të ardhurat nga veprimtaria ekonomike (qarkullimi)
+≤ 2 500 000
+Të ardhurat e shfrytëzimit
 ≤ 1 500 000
 ≤ 2 500 000
 ≤ 4 000 000
-≤ 5 400 000
+≤ 5 000 000
 Numri i punonjësve
 ≤ 250
 ≤ 250
@@ -58,12 +58,12 @@ Aktivet
 ≥ 750 000
 ≥ 1 250 000
 ≥ 2 000 000
-≥ 2 700 000
-Të ardhurat nga veprimtaria ekonomike (qarkullimi)
+≥ 2 500 000
+Të ardhurat e shfrytëzimit
 ≥ 1 500 000
 ≥ 2 500 000
 ≥ 4 000 000
-≥ 5 400 000
+≥ 5 000 000
 Numri i punonjësve
 ≥ 250
 ≥ 250
@@ -74,12 +74,12 @@ Aktivet
 ≤ 150 000
 ≤ 250 000
 ≤ 350 000
-≤ 540 000
-Të ardhurat nga veprimtaria ekonomike (qarkullimi)
+≤ 500 000
+Të ardhurat e shfrytëzimit
 ≤ 300 000
 ≤ 500 000
 ≤ 700 000
-≤ 1 080 000
+≤ 1 000 000
 Numri i punonjësve
 ≤ 50
 ≤ 50
@@ -90,12 +90,12 @@ Aktivet
 ≤ 750 000
 ≤ 1 250 000
 ≤ 2 000 000
-≤ 2 700 000
-Të ardhurat nga veprimtaria ekonomike (qarkullimi)
+≤ 2 500 000
+Të ardhurat e shfrytëzimit
 ≤ 1 500 000
 ≤ 2 500 000
 ≤ 4 000 000
-≤ 5 400 000
+≤ 5 000 000
 Numri i punonjësve
 ≤ 250
 ≤ 250
@@ -106,12 +106,12 @@ Aktivet
 ≥ 750 000
 ≥ 1 250 000
 ≥ 2 000 000
-≥ 2 700 000
-Të ardhurat nga veprimtaria ekonomike (qarkullimi)
+≥ 2 500 000
+Të ardhurat e shfrytëzimit
 ≥ 1 500 000
 ≥ 2 500 000
 ≥ 4 000 000
-≥ 5 400 000
+≥ 5 000 000
 Numri i punonjësve
 ≥ 250
 ≥ 250
