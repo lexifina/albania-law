@@ -4,7 +4,7 @@ Nr. 238, datë 6.11.2024
 
 MBI LICENCIMIN E SHOQËRISË “ORHER” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
-(Ndryshuar me Vendimin nr. 150, datë 28.5.2026)
+(Ndryshuar me Vendimin nr. 150, datë 28.5.2026; nr. 240, datë 24.8.2026)
 
 (i përditësuar)
 
@@ -44,9 +44,9 @@ VENDOSI:
 
 2. Shfuqizuar.
 
-3. Shoqëria duhet të dokumentojë në ERE testimin e veprës brenda datës 22.7.2026.
+3. Shfuqizuar.
 
-4. Ky vendim është objekt rishikimi në rast të përmbushjes apo mospërmbushjes së kushtit të përcaktuar në pikën 3 të këtij vendimi, si dhe në rast të depozitimit të dokumenteve të ndryshme nga ato që kanë shërbyer për marrjen e këtij vendimi.
+4. Ky vendim është objekt rishikimi, në rast të paraqitjes së provave të reja ose konstatimit të gabimeve materiale, në përputhje me legjislacionin në fuqi dhe rregullat procedurale të ERE-s.
 
 5. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “Orher” sh.p.k., Ministrinë e Infrastrukturës dhe Energjisë, shoqërinë “Operatori i Sistemit të Shpërndarjes” sh.a. dhe shoqërinë “Furnizuesi i Tregut të Lirë” sh.a. për vendimin e Bordit të ERE-s.
 
