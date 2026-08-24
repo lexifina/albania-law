@@ -1,0 +1,1 @@
+20. Miratimi i komisionit nuk zëvendëson lejet, autorizimet ose miratimet e tjera të kërkuara nga legjislacioni në fuqi për planifikimin dhe zhvillimin e territorit, trashëgiminë kulturore, mbrojtjen e mjedisit apo fusha të tjera sektoriale.

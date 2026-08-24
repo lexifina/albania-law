@@ -1,0 +1,1 @@
+7. Në rast të përfundimit të mandatit përpara afatit, ministri përgjegjës për kulturën, konstaton përfundimin e mandatit për anëtarin dhe emëron anëtarin zëvendësues për periudhën e mbetur të mandatit.

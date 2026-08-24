@@ -1,0 +1,1 @@
+11. Kompetenca e Komisionit zbatohet pavarësisht burimit të financimit të veprës, për aq kohë sa vepra propozohet për vendosje në një hapësirë publike dhe i nënshtrohet miratimit të Komisionit sipas rregullores së miratuar me vendimin nr. 224, datë 1.4.2026, të Këshillit të Ministrave.

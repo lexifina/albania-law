@@ -1,0 +1,1 @@
+3. Komisioni ushtron kompetencën për shqyrtimin dhe miratimin përfundimtar të çdo vepre arti dhe vepre përkujtimore që propozohet për vendosje në hapësira publike në territorin e Republikës së Shqipërisë, në përputhje me pikën 8 të nenit 12 të rregullores së miratuar me vendimin nr. 224, datë 1.4.2026, të Këshillit të Ministrave.

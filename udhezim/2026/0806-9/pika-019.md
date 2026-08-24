@@ -1,0 +1,1 @@
+19. Në rast se kryetari ndodhet në kushtet e konfliktit të interesit për një çështje të caktuar, mbledhja drejtohet nga anëtari i zgjedhur nga anëtarët e pranishëm, i cili nuk ndodhet në kushtet e konfliktit të interesit.

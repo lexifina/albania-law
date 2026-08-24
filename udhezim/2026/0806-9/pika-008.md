@@ -1,0 +1,1 @@
+8. Në shqyrtimin e propozimit, Komisioni vlerëson, sipas natyrës së projektit, cilësinë artistike të veprës dhe përshtatshmërinë e saj nga pikëpamja artistike e kulturore me kontekstin arkitektonik dhe urbanistik, ndikimin në hapësirën publike, respektimin e vlerave të trashëgimisë kulturore dhe historike dhe përputhshmërinë me interesin publik.

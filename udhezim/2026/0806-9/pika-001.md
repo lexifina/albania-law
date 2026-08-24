@@ -1,0 +1,1 @@
+1. Ky udhëzim përcakton rregullat për organizimin dhe funksionimin e Komisionit Shtetëror të Artit në Hapësirat Publike (në vijim Komisioni), si organ kolegjial pranë ministrisë përgjegjëse për kulturën, në zbatim të pikës 8 të nenit 12 të rregullores së miratuar me vendimin nr. 224, datë 1.4.2026, të Këshillit të Ministrave.

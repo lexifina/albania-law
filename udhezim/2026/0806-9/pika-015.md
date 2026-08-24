@@ -1,0 +1,1 @@
+15. Vendimet e komisionit merren me shumicën e votave të anëtarëve të pranishëm që marrin pjesë në votim. Në rast barazimi votash, vota e kryetarit është përcaktuese. Kur kryetari përjashtohet nga shqyrtimi dhe votimi për shkak të konfliktit të interesit, vota e tij nuk merret në konsideratë dhe, në rast barazimi votash, Komisioni vendos për mosmiratimin e projektit.

@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTËR I TURIZMIT, KULTURËS DHE SPORTIT
+Blendi Gonxhja
