@@ -1,0 +1,6 @@
+# Neni 23
+Kufizime të përgjithshme
+1. Llojet dhe kufizimet e interesave private të kategorive të zyrtarëve publikë, të përcaktuara në këtë kre, nuk përjashtojnë llojet dhe kufizimet e përcaktuara në ligje të tjera për këto kategori zyrtarësh, të zbatuara për të njëjtin qëllim, por në çdo rast zbatohet dispozita që përcakton kufizimin më të rreptë.
+2. Nëse për një interes të caktuar privat të zyrtarit publik nuk parashikohet kufi sasior në këtë ligj, por ai përcaktohet në një ligj tjetër, ky kufi sasior zbatohet edhe për efekt të këtij ligji dhe anasjelltas.
+3. Kur në ligje të veçanta përcaktohet se zyrtarët publikë nuk mund të kryejnë veprimtari private, kjo nënkupton edhe ndalimin e zotërimit në mënyrë aktive apo dhe të tërthortë të aksioneve ose pjesëve në kapital në shoqëritë tregtare, në atë masë për të cilat ndalohet kjo veprimtari.
+4. Në rast se aksionet apo pjesët në kapital janë të regjistruara në emrin e personit të lidhur, ato vlerësohen njëlloj si të jenë të regjistruara në emër të vetë zyrtarit publik. Personit të lidhur i kufizohen të drejtat pasurore në të njëjtën masë dhe mënyrë si në rastin e vetë zyrtarit publik, sipas kufizimeve dhe ndalimeve të vendosura në këtë ligj. Këto kufizime nuk zbatohen për personat e lidhur me personat e lidhur me zyrtarin publik.

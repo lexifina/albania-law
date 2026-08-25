@@ -1,0 +1,26 @@
+# Neni 50
+Kundërvajtjet administrative
+1. Çdo shkelje e detyrimeve të përcaktuara në këtë ligj, kur nuk përbën vepër penale, përbën kundërvajtje administrative dhe ndëshkohet me gjobë, si më poshtë:
+a) për shkelje të detyrimit në afat dhe pa shkaqe të arsyeshme, të përcaktuara në pikat 1 dhe 2, të nenit 20 të këtij ligji, zyrtari publik dhe/ose personi i lidhur me zyrtarin publik dënohen me gjobë nga 200.000 lekë deri në 500.000 lekë;
+b) për shkelje të detyrimit, të përcaktuara në pikat 1, 2 dhe 3, të nenit 21 të këtij ligji, zyrtari publik dënohet me gjobë nga 200.000 lekë deri në 500.000 lekë;
+c) për shkelje të detyrimit, të përcaktuar në pikën 4, të nenit 21 të këtij ligji, njësia përgjegjëse për parandalimin e konfliktit të interesave dënohet me gjobë nga 200.000 lekë deri 500.000 lekë;
+ç) për shkelje të detyrimit, të përcaktuar në nenin 22 të këtij ligji, zyrtari dhe/ose personi i lidhur dënohen me gjobë nga 200.000 lekë deri në 500.000 lekë;
+d) për shkelje të detyrimit, të përcaktuara në nenet 24, 25, 26, 27, 28, 29, 30 dhe 31 të këtij ligji, zyrtari dhe/ose personi i lidhur dënohen me gjobë nga 200.000 lekë deri në 500.000 lekë;
+dh) për shkelje të detyrimit, të përcaktuara në nenin 32 të këtij ligji, zyrtari, personi i lidhur me zyrtarin publik, personi i besuar, drejtuesi i shoqërisë dënohen me gjobë nga 200.000 lekë deri në 500.000 lekë;
+e) për shkelje të detyrimit, të përcaktuara në pikat 2 dhe 4, të nenit 33 të këtij ligji, njësia përgjegjëse për parandalimin e konfliktit të interesave dënohet me gjobë nga 200 000 lekë deri në 500 000 lekë;
+ë) për shkelje të detyrimit në afat dhe pa shkaqe të arsyeshme, të përcaktuara në pikat 1 dhe 2, të nenit 33 të këtij ligji, zyrtari publik dënohet me gjobë nga 200.000 lekë deri në 500.000 lekë;
+f) për shkelje të detyrimit, të përcaktuara në nenin 35 të këtij ligji, zyrtari, personi i lidhur, personi i besuar, drejtuesi i shoqërisë dënohen me gjobë nga 200.000 lekë deri në 500.000 lekë;
+g) për shkelje të detyrimit, të përcaktuara në nenin 36 të këtij ligji, zyrtari, personi i lidhur me zyrtarin publik, personi i besuar, drejtuesi i shoqërisë dënohen me gjobë nga 200.000 lekë deri në 500.000 lekë;
+gj) për shkelje të detyrimit, të përcaktuara në nenin 37 të këtij ligji, zyrtari dhe/ose personi i lidhur me zyrtarin publik dënohen me gjobë nga 200.000 lekë deri në 500.000 lekë;
+h) për shkelje të detyrimit, të përcaktuara në nenin 39 të këtij ligji, zyrtari dhe/ose personi i lidhur me zyrtarin publik dënohen me gjobë nga 200.000 lekë deri në 500.000 lekë;
+i) për shkelje të detyrimit, të përcaktuara në nenin 43 të këtij ligji, zyrtari dhe/ose personi i lidhur me zyrtarin publik dënohen me gjobë nga 200.000 lekë deri në 500.000 lekë;
+j) për shkelje të detyrimit, të përcaktuara në nenin 45 të këtij ligji, eprori i zyrtarit publik dhe/ose institucionit epror dhe/ose titullari i institucionit publik dënohen me gjobë nga 200.000 lekë deri në 500.000 lekë;
+k) për shkelje të detyrimit, të përcaktuara në nenin 46 të këtij ligji, njësia përgjegjëse për parandalimin e konfliktit të interesave dënohet me gjobë nga 200.000 lekë deri në 500.000 lekë;
+l) kur nuk jepen pa arsye dhe në afatin e caktuar të dhënat e kërkuara nga ILDKPKI-ja, sipas nenit 47, pika 3, të këtij ligji, personat përgjegjës të institucioneve dhe personave juridikë publikë dhe privatë dënohen me gjobë nga 200.000 lekë deri 500.000 lekë;
+ll) për shkelje të detyrimit, të përcaktuara në pikën 3, të nenit 53 të këtij ligji, titullari i institucionit dhe/ose njësia përgjegjëse për parandalimin e konfliktit të interesave dënohen me gjobë nga 200.000 lekë deri 500.000 lekë;
+m) për shkelje të detyrimit, në afat dhe pa shkaqe të arsyeshme, të përcaktuara në nenin 54 të këtij ligji, zyrtari publik dënohet me gjobë nga 200.000 lekë deri 500.000 lekë.
+2. Gjobat vendosen nga Inspektori i Përgjithshëm i ILDKPKI-së, në rast se shkelja e tyre verifikohet drejtpërsëdrejti prej këtij institucioni ose me propozimin e autoritetit përgjegjës në institucione për çështjet e konfliktit të interesave, apo të shkeljes së detyrimeve pas përfundimit të ushtrimit të funksionit publik, sipas përcaktimeve të bëra në këtë ligj.
+3. Modalitetet dhe procedura e bashkëpunimit mes ILDKPKI-së dhe autoriteteve përgjegjëse në institucione për zbatimin e kësaj dispozite përcaktohen me udhëzim të Inspektorit të Përgjithshëm të ILDKPKI-së.
+4. Gjobat paguhen nga kundërvajtësi dhe derdhen në buxhetin e ILDKPKI-së jo më vonë se 30 ditë nga komunikimi i gjobës. Me kalimin e këtij afati gjoba përbën titull ekzekutiv dhe ekzekutohet në mënyrë të detyrueshme nga punëdhënësi kur kundërvajtësi është në marrëdhënie pune ose nga zyra e përmbarimit me kërkesë të Inspektorit të Përgjithshëm të ILDKPKI-së.
+5. Procedurat për zbatimin e masave administrative dhe ankimimin ndaj tyre rregullohen sipas Kodit të Procedurave Administrative dhe legjislacionit në fuqi për organizimin dhe funksionimin e gjykatave administrative, dhe gjykimin e mosmarrëveshjeve administrative.
+6. Shqyrtimi i kundërvajtjeve administrative të konstatuara gjatë kryerjes së inspektimeve apo hetimit administrativ të ILDKPKI-së bëhet jo më vonë se 6 muaj pas konstatimit të shkeljes, bazuar edhe në Kodin e Procedurave Administrative.

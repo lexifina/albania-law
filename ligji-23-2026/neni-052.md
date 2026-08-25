@@ -1,0 +1,8 @@
+# Neni 52
+Përgjegjësitë e tjera ligjore
+1. Deklarata për konfliktin e interesit dhe të gjitha dokumentet që i shoqërojnë ato janë dokumente zyrtare. Paraqitja e të dhënave të rreme përbën vepër penale dhe dënohet sipas legjislacionit penal në fuqi.
+2. Çdo shkelje e detyrimeve të përcaktuara në këtë ligj nga zyrtarët përbën shkelje disiplinore, pavarësisht nga përgjegjësia penale apo administrative. Masat disiplinore zbatohen në përputhje me ligjet që rregullojnë marrëdhëniet e punës dhe/ose statusin e zyrtarëve. Për masat disiplinore të marra nga institucionet përkatëse njoftohet rast pas rasti Inspektorati i Lartë.
+3. Për zyrtarët që njësohen ose janë anëtarë të organeve kushtetuese zbatohen masat dhe procedurat e përcaktuara nga Kushtetuta dhe dispozitat ligjore përkatëse.
+4. Inspektori i Përgjithshëm i ILDKPKI-së për shkeljet e kryera nga anëtarët e njësisë përgjegjëse për parandalimin e konfliktit të interesave në institucionet publike sipas nenit 39 të këtij ligji i propozon titullarit të institucionit ose institucionit epror largimin nga funksioni të këtij anëtari.
+5. Dispozitat e këtij ligji nuk përjashtojnë përgjegjësinë disiplinore dhe penale të zyrtarit sipas legjislacionit të posaçëm në fuqi.
+6. ILDKPKI-ja, çdo zyrtar, epror direkt i zyrtarit ose institucioni epror paraqesin kallëzim penal në prokurorinë kompetente ndaj zyrtarit që shkel detyrimet e përcaktuara në këtë ligj dhe që përbëjnë vepër penale sipas Kodit Penal. Nëse ndaj zyrtarit publik është ngritur kallëzim penal, procedurat administrative që lidhen me atë çështje pezullohen deri në përfundimin e procesit penal.
