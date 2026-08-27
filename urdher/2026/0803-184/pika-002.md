@@ -1,0 +1,1 @@
+2. Ngarkohet Autoriteti i Aviacionit Civil për mbikëqyrjen e zbatimit të këtyre standardeve gjatë ofrimit të shërbimit të kërkimit dhe shpëtimit, për sa i takon funksioneve të ofrimit të shërbimit SAR, në situata emergjence të avionëve apo personave përkatës në bord të avionit.
