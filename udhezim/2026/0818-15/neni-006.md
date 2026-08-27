@@ -1,0 +1,13 @@
+# Neni 6
+Reduktimi i braktisjes shkollore
+1. Për reduktimin e braktisjes shkollore, institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar dhe institucionet arsimore parauniversitare të zbatojnë me përgjegjësi:
+a) Marrëveshjen e Bashkëpunimit ndërmjet Ministrisë së Arsimit (MA), Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale (MShMS) dhe Ministrisë së Brendshme (MB), nr. 7522 prot., datë 12.07.2018 “Për identifikimin dhe regjistrimin në shkollë të të gjithë fëmijëve të moshës shkollore”;
+b) Urdhrin e përbashkët të MA, MB dhe MShMS nr. 292, datë 28.5.2019 “Për miratimin e rregullores për zbatimin e Marrëveshjes së Bashkëpunimit ndërmjet tri ministrive ’Për identifikimin dhe regjistrimin në shkollë të të gjithë fëmijëve të moshës së detyrimit shkollor’”.
+2. Drejtoritë e shkollave raportojnë në mënyrë të detajuar mbi rastet e braktisjes apo të rrezikut të braktisjes së shkollës nga nxënësi. Çdo rast raportohet menjëherë në zyrën vendore të arsimit parauniversitar (ZVAP) dhe vihet në dijeni njësia administrative në bashkinë përkatëse për ndjekjen e përbashkët dhe adresimin në strukturat përgjegjëse.
+3. Drejtoritë e shkollave të evidentojnë dhe të raportojnë edhe rastet e transferimeve nga një shkollë në një tjetër apo të largimit të nxënësve për arsye të migrimit të familjes dhe të ndryshimit të vendbanimit, duke i klasifikuar në një kategori të veçantë dhe duke i raportuar në ZVAP.
+4. Institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar:
+a) të monitorojnë shkollat lidhur me raportimin e nxënësve braktisës dhe të atyre në rrezik të braktisjes;
+b) të trajnojnë drejtuesit e shkollave për raportimin në kohë të rasteve të braktisjes apo të riskut të braktisjes së shkollës nga nxënësit dhe protokollet e ndjekjes në rastet kur konstatohet braktisja;
+c) të koordinojnë bashkëpunimin ndërmjet Njësisë së Mbrojtjes së Fëmijëve dhe organizatave të shoqërisë civile, për adresimin dhe zgjidhjen e problemeve të nxënësve braktisës dhe të fëmijëve në situatë rruge;
+ç) të ndjekin me përparësi arsimimin e fëmijëve të ngujuar apo të strehuar pranë institucioneve që bëjnë pjesë në Koalicionin Kombëtar të Strehëzave Antitrafik dhe të zbatojnë procedurat e ndjekjes së arsimit bazë, sipas udhëzimit përkatës për nxënësit që nuk kanë ndjekur të paktën dy klasa të arsimit bazë;
+d) të raportojnë në drejtorinë rajonale të arsimit parauniversitar (DRAP) dy herë në vit (në fund të muajit janar dhe në fund të vitit shkollor) punën e bërë për reduktimin e braktisjes shkollore. DRAP-të të raportojnë në Agjencinë Kombëtare të Arsimit Parauniversitar (AKAP), e cila përcjell raportin në MA në fund të çdo viti dhe sa herë është e nevojshme.
