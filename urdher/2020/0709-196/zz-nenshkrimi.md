@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINISTËR I INFRASTRUKTURËS DHE ENERGJISË
-Belinda Balluku
