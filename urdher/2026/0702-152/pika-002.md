@@ -1,0 +1,1 @@
+2. Urdhri nr. 196, datë 9.7.2020 i Ministrit të Infrastrukturës dhe Energjisë, “Për Zbatimin e rregullores “Për udhëzimet e Bashkimit Evropian për zhvillimin e rrjetit Trans-Evropian të transportit”, shfuqizohet.
