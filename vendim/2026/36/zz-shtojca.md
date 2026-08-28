@@ -105,8 +105,9 @@ Spitalet publike të përgjithshme në nivel bashkie ofrojnë:
 10. Bankën e gjakut.
 V. SPITALET DITORE
 1. Ndihmë e parë mjekësore për trajtim dhe kurim brenda 24 orëve.
-SHTOJCA NR. 2
-BUXHETI I SHËRBIMIT SPITALOR 2026
+SHTOJCA NR 2
+BUXHETI PËR SHËRBIMIN SPITALOR
+(në mijë lekë)
 SHTOJCA NR. 3
 LISTA E INSTITUCIONEVE, QË NUK DO TË FINANCOHEN NGA FONDI I SIGURIMIT TË DETYRUESHËM TË KUJDESIT SHËNDETËSOR
 1. Spitali Psikiatrik Vlorë;
