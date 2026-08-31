@@ -1,1 +1,1 @@
-18. Organi i vlerësimit të konformitetit, që kërkon të akreditohet, për qëllime miratimi aplikon për akreditim, në bazë të kritereve të përcaktuara në pikën 15, të këtij vendimi, si dhe në bazë të rregullave e kërkesave të veçanta teknike, që lidhen me dhënien e miratimit.
+18. Organi i vlerësimit të konformitetit, që kërkon të akreditohet, për qëllime miratimi aplikon për akreditim, në bazë të kritereve të përcaktuara në pikën 17, të këtij vendimi, si dhe në bazë të rregullave e kërkesave të veçanta teknike, që lidhen me dhënien e miratimit.
