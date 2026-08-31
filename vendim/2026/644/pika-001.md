@@ -1,0 +1,1 @@
+1. Kalimin te Bashkia Krujë të 196 (njëqind e nëntëdhjetë e gjashtë) apartamenteve në 11 (njëmbëdhjetë) ndërtesa me njësi banimi (pallat), përkatësisht, sipas listës së inventarit, që i bashkëlidhet këtij vendimi.
