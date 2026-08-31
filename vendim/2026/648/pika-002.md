@@ -1,0 +1,1 @@
+2. Brenda 30 (tridhjetë) ditëve nga hyrja në fuqi e këtij vendimi, realizohet regjistrimi i pronës së përcaktuar në pikën 1 dhe dorëzimi i saj nëpërmjet nënshkrimit të aktdorëzimit ndërmjet Bashkisë Tiranë dhe Ministrisë së Arsimit, e cila është përgjegjëse për ndjekjen dhe përfundimin e të gjitha procedurave, sipas legjislacionit në fuqi.
