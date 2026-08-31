@@ -1,0 +1,1 @@
+6. Përfaqësuesit e autoriteteve kombëtare në Qendër kanë akses në bazat shtetërore të të dhënave të institucioneve që përfaqësojnë për kryerjen e detyrave funksionale dhe përgjegjësive, të parashikuara në pikën 2, të nenit 28, të ligjit nr. 39/2025, “Për kontrollin e kufirit shtetëror”. Çdo veprimtari ndërhyrëse në të dhënat e sipërpërmendura është e gjurmueshme.

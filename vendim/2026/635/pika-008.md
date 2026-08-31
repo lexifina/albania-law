@@ -1,0 +1,1 @@
+8. Informacioni i mbledhur dhe i përpunuar nga Qendra, në përmbushje të detyrave funksionale, administrohet në përputhje me legjislacionin në fuqi për mbrojtjen e të dhënave personale, legjislacionin përkatës të bazave të të dhënave shtetërore, si dhe legjislacionin në fuqi për mbrojtjen e informacionit të klasifikuar.

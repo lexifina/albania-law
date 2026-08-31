@@ -1,0 +1,1 @@
+10. Qendra do të ketë faqen e saj zyrtare, ku do të pasqyrohen informacione dhe kuadri ligjor, nënligjor, në gjuhën shqipe dhe angleze, që lidhen me qarkullimin ndërkufitar të shtetasve e të mallrave.

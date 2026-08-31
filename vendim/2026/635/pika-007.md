@@ -1,0 +1,1 @@
+7. Qendra ka akses në të gjitha pamjet e kamerave të instaluara dhe që janë në përdorim nga agjencitë ligjzbatuese që operojnë në kufi, si dhe në sistemin e mbikëqyrjes së kufirit tokësor, detar, përveç sistemeve me qëllim të mirëfilltë ushtarak, liqenor dhe lumor.
