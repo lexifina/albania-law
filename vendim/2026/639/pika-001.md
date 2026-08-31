@@ -1,0 +1,1 @@
+1. Transferimin e pronësisë së 89,652% të aksioneve të shoqërisë “Duhan Cigare” sh.a., në likuidim, Shkodër, nga Ministria e Ekonomisë dhe Inovacionit tek Bashkia Shkodër, me të gjitha të drejtat dhe detyrimet në momentin e hyrjes në fuqi të këtij vendimi.
