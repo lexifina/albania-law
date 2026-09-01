@@ -1,0 +1,1 @@
+1. Miratimin e “Metodës për specifikimin e shpenzimeve për përcaktimin dhe eliminimin e kërcënimit dhe të dëmit në mjedis”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
