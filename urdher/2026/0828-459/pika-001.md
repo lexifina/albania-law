@@ -1,0 +1,1 @@
+1. Miratimin e masave për rehabilitimin e mjedisit të dëmtuar, që merren nga operatorët përgjegjës sipas legjislacionit në fuqi, sipas shtojcës 1 bashkëlidhur këtij vendimi dhe që është pjesë përbërëse e tij.

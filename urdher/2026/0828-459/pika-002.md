@@ -1,0 +1,1 @@
+2. Në bazë të vlerësimit të dëmit mjedisor, Agjencia Kombëtare e Mjedisit, nëse e vlerëson të nevojshme, kërkon zbatimin e masave të tjera specifike, për sa kohë që ato garantojnë një nivel mbrojtjeje mjedisore të barasvlershëm ose më të lartë dhe janë në përputhje me legjislacionin në fuqi.
