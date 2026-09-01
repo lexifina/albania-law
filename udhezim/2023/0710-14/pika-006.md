@@ -1,5 +1,7 @@
 6. Organizimi i mësimit në shkollat sportive
 a) Orët teorike në lëndët “Formim teorik profesional” (FTP) të specialiteteve “Futboll” dhe “Atletikë” zhvillohen me të gjithë klasën.
+a/1) Orët e lëndës Formim Praktik Profesional për specialitetin “Futboll” ndahen në grupe “Lojtarët” dhe “Portierët”. Grupi i lojtarëve formohet me nxënës të të njëjtit nivel arsimor.
+Grupi i “Portierëve” formohet me jo më pak se 6 nxënës të të njëjtit nivel arsimor”.
 b) Orët teorike në lëndët “Formim teorik profesional” (FTP) të specialiteteve “Volejboll” dhe “Basketboll” zhvillohen në grupe, të cilat formohen me jo më pak se 7 nxënës.
 c) Orët e lëndës “Formim praktik profesional” (FPP) për specialitetin “Futboll” zhvillohen me të gjithë klasën.
 d) Orët e lëndës “Formim praktik profesional” (FPP) zhvillohen me grupe, sipas të specialiteteve “Volejboll” dhe “Basketboll”, sipas klasave.

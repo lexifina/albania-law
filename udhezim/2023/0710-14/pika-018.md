@@ -1,1 +1,1 @@
-18. Për zhvillimin e veprimtarive të miratuara në kuadër të nismës “Bëjmë detyrat e shtëpisë” (BDSH), ora e studimit është e barasvlershme me orën mësimore. Në çdo institucion arsimor të përfshirë në këtë nismë të realizohen jo më shumë se 3 orë studimi në ditë për çdo klasë të krijuar. Një mësues mund të plotësojë ngarkesën mësimore javore me jo më shumë se 3 orë studimi BDSH.
+18. Shfuqizuar.
