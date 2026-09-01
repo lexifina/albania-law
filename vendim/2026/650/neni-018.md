@@ -1,0 +1,3 @@
+# Neni 18
+Raportimi dhe vlerësimi
+Autoriteti kompetent kombëtar bashkëpunon me Sekretariatin e Komunitetit të Energjisë për raportimin mbi zbatimin e projekteve në listën e Komunitetit të Energjisë, duke ofruar një vlerësim, ndër të tjera, të: progresit të arritur në planifikimin, zhvillimin, ndërtimin e komisionimin e projekteve dhe vonesave përkatëse; fondeve të angazhuara e të disbursuara nga Bashkimi Evropian; progresit në integrimin e burimeve të rinovueshme dhe uljen e emetimeve; evolucionit të nivelit të ndërlidhjes ndërmjet palëve kontraktuese; procesit të dhënies së lejeve dhe pjesëmarrjes publike; si dhe trajtimit rregullator.
