@@ -1,2 +1,0 @@
-53. Projektet me interes për Komunitetin e Energjisë dhe projektet me interes të ndërsjellë për palët kontraktuese të Komunitetit të Energjisë dhe/ose vendet anëtare të Bashkimit Evropian, që bëjnë pjesë në kategoritë e përcaktuara në pikat 1 dhe 2, të shtojcës I, mund të kualifikohen për ndihmë financiare nga BE-ja në formë të granteve për punë nëse plotësojnë kriteret e parashikuara në pikën 51 të këtij kreu.
-XIV. Raportimi

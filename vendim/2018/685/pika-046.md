@@ -1,1 +1,0 @@
-46. Kopjet e të gjitha vendimeve për ndarje të kostove, bashkë me të gjitha informacionet e duhura për to, i dërgohen Bordit Rregullator dhe Sekretariatit të Komunitetit të Energjisë. Informacionet mund të dërgohen në mënyrë të përmbledhur. Sekretariati i Komunitetit të Energjisë mbron konfidencialitetin e informacioneve komerciale të ndjeshme.

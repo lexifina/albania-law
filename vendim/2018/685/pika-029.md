@@ -1,1 +1,0 @@
-29. Kushtet dhe procedurat për ndërtimin e objekteve të infrastrukturës rajonale, energjetike, të sektorit të energjisë elektrike, për projektet PECI dhe PMI, do të bëhen në referencë të përcaktimeve të vendimit nr. 16, datë 11.1.2017, të Këshillit të Ministrave, “Për miratimin e kushteve dhe të procedurave për ndërtimin e interkonektorëve të rinj”, të ndryshuar.

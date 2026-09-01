@@ -1,1 +1,0 @@
-9. Deri më 30 dhjetor 2018, ministria përgjegjëse për energjinë, në bashkërendim me ministrinë përgjegjëse për mjedisin, ndërmarrin masat e nevojshme administrative për harmonizimin e procedurave të identifikuara, sipas pikës 8 të këtij vendimi.

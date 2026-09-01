@@ -1,1 +1,0 @@
-37. Nëse bien dakord promovuesit e projekteve për propozimin e arsyetuar për ndarje ndërkufitare të kostos, nëse projekti promovohet nga disa promovues të projekteve, ata duhet të dorëzojnë bashkërisht kërkesën e tyre për investim.

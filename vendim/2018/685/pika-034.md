@@ -1,1 +1,0 @@
-34. Në rastet kur projekti ka disa promovues, autoritetet përkatëse rregullatore, shtetërore, kërkojnë nga të gjithë promovuesit e projektit që të dorëzojnë kërkesat për investime bashkërisht, në pajtim me pikën 33 të këtij kreu.

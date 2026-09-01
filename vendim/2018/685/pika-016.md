@@ -1,1 +1,0 @@
-16. Brenda një muaji, nga marrja e raporteve të paraqitura nga promovuesit e projekteve, autoriteti kompetent i dorëzon ato te Sekretariati i Komunitetit të Energjisë, që përgatit dhe dorëzon raportet e konsoliduara te grupet.
