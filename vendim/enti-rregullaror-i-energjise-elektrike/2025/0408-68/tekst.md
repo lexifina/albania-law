@@ -4,9 +4,9 @@ Nr. 68, datë 8.4.2025
 
 MBI LICENCIMIN E SHOQËRISË “RENEW” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA CENTRALI FOTOVOLTAIK ME KAPACITET PRODHUES 2 mw
 
-(Ndryshuar me vendimin nr. 269, datë 27.10.2025; nr. 162, datë 5.6.2026)
+(Ndryshuar me vendimin nr. 269, datë 27.10.2025; nr. 162, datë 5.6.2026; nr. 253, datë 3.9.2026)
 
-(I përditësuar)
+(i përditësuar)
 
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38, pika 1, germa “a”, 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; të neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe të nenit 15, të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 8.4.2025, mbasi shqyrtoi relacionin me nr. 1452/1prot., datë 4.4.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘Renew’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
@@ -66,7 +66,7 @@ VENDOSI:
 
 3. Shfuqizuar.
 
-4. Brenda datës 16.8.2026, shoqëria duhet të depozitojë në ERE informacion të përditësuar mbi stafin teknik.
+4. Brenda datës 1.8.2028, shoqëria “Renew” sh.p.k. të depozitojë pranë ERE-s informacion të përditësuar mbi stafin teknik të angazhuar për ushtrimin e veprimtarisë së licencuar.
 
 5. Ky vendim është objekt rishikimi në rast të përmbushjes apo mospërmbushjes së kushtit të përcaktuar në pikën 4 të këtij vendimi, si dhe në rast të depozitimit të dokumenteve të ndryshme që kanë shërbyer për marrjen e këtij vendimi.
 
