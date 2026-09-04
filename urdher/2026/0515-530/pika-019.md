@@ -1,3 +1,0 @@
-19.
-Bushat
-Plepan

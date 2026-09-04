@@ -1,3 +1,0 @@
-26.
-Përparim
-Kodras

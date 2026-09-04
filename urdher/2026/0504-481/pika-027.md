@@ -1,3 +1,0 @@
-27.
-Përparim
-Çaushaj

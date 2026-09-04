@@ -1,3 +1,0 @@
-13.
-Ballagat
-Jazexhiaj

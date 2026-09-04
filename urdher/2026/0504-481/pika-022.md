@@ -1,3 +1,0 @@
-22.
-Karinë
-Progër
