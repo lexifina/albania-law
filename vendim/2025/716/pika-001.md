@@ -16,6 +16,17 @@ j) zona zhvillimore nr. 14, Njësia Administrative Maminas, zona Metallë, rezer
 k) zona zhvillimore nr. 15, Njësia Administrative Maminas, zona Metallë, rezervuari i Metallës, me sipërfaqe 1.4 (një pikë katër) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
 l) zona zhvillimore nr. 16, Njësia Administrative Gjepalaj, zonat Shetël dhe Likesh, rezervuari i Callikës, me sipërfaqe 8.16 (tetë pikë gjashtëmbëdhjetë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
 ll) zona zhvillimore nr. 17, Njësia Administrative Gjepalaj, zonat Shetël dhe Likesh, rezervuari i Callikës, me sipërfaqe 18.36 (tetëmbëdhjetë pikë tridhjetë e gjashtë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
-m) zona zhvillimore nr. 18, Njësia Administrative Gjepalaj, zona Çizmeli, rezervuari i Çizmelisë, me sipërfaqe 16.73 (gjashtëmbëdhjetë pikë shtatëdhjetë e tre) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+m) Zona nr. 18, fshati Eminas i Vogël, pjesë e Njësisë Administrative Gjepalaj, Bashkia Shijak, qarku Durrës, me sipërfaqe 46 (dyzet e gjashtë) ha, sipas hartës në sistemin KRGJSH;
 n) zona zhvillimore nr. 19, Njësia Administrative Gjepalaj, zona Kënetë, rezervuari i Shtrazës, me sipërfaqe 5.3 (pesë pikë tre) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
-nj) zona zhvillimore nr. 20, Njësia Administrative Gjepalaj, zona Gjepalaj, rezervuari i Terzies, me sipërfaqe 1.98 (një pikë nëntëdhjetë e tetë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto.
+nj) zona zhvillimore nr. 20, Njësia Administrative Gjepalaj, zona Gjepalaj, rezervuari i Terzies, me sipërfaqe 1.98 (një pikë nëntëdhjetë e tetë) ha, sipas hartës në sistemin KRRGJSH të paraqitur mbi ortofoto;
+o) Zona nr. 21, fshati Likesh, pjesë e Njësisë Administrative Gjepalaj, Bashkia Shijak, qarku Durrës, me sipërfaqe 101 (njëqind e një) ha, sipas hartës në sistemin KRGJSH;
+p) Zona nr. 22, fshati Hardhishtë, pjesë e Njësisë Administrative Gjepalaj, Bashkia Shijak, qarku Durrës, me sipërfaqe 19 (nëntëmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+q) Zona nr. 23, fshati Eminas i Vogël, pjesë e Njësisë Administrative Gjepalaj, Bashkia Shijak, qarku Durrës, me sipërfaqe 37 (tridhjetë e shtatë) ha, sipas hartës në sistemin KRGJSH;
+r) Zona nr. 24, fshati Likesh, pjesë e Njësisë Administrative Gjepalaj, Bashkia Shijak, qarku Durrës, me sipërfaqe 17 (shtatëmbëdhjetë) ha, sipas hartës në sistemin KRGJSH;
+rr) Zona nr. 25, fshati Shetël, pjesë e Njësisë Administrative Gjepalaj, Bashkia Shijak, qarku Durrës, me sipërfaqe 53 (pesëdhjetë e tre) ha, sipas hartës në sistemin KRGJSH;
+s) Zona nr. 26, fshati Metallë, pjesë e Njësisë Administrative Maminas, Bashkia Shijak, qarku Durrës, me sipërfaqe 29 (njëzet e nëntë) ha, sipas hartës në sistemin KRGJSH;
+sh)Zona nr. 27, fshati Vlashaj, pjesë e Njësisë Administrative Maminas, Bashkia Shijak, qarku Durrës, me sipërfaqe 6 (gjashtë) ha, sipas hartës në sistemin KRGJSH;
+t) Zona nr. 28, fshati Bodinak, pjesë e Njësisë Administrative Maminas, Bashkia Shijak, qarku Durrës, me sipërfaqe 83 (tetëdhjetë e tre) ha, sipas hartës në sistemin KRGJSH;
+th)Zona nr. 29, fshati Karreç, pjesë e Njësisë Administrative Maminas, Bashkia Shijak, qarku Durrës, me sipërfaqe 10 (dhjetë) ha, sipas hartës në sistemin KRGJSH;
+u) Zona nr.30, fshati Rreth, pjesë e Njësisë Administrative Xhafzotaj, Bashkia Shijak, qarku Durrës, me sipërfaqe 52 (pesëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH;
+v) Zona nr.31, fshati Pjezë, pjesë e Njësisë Administrative Xhafzotaj, Bashkia Shijak, qarku Durrës, me sipërfaqe 20 (njëzet) ha, sipas hartës në sistemin KRGJSH.
