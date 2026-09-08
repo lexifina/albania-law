@@ -144,6 +144,23 @@ VKM nr. 111, datë 6.3.2024, “Për kalimin në përgjegjësi administrimi të 
 519.37
 Ministria e Infrastrukturës dhe Energjisë
 VKM nr. 111, datë 6.3.2024, “Për kalimin në përgjegjësi administrimi të Ministrisë së Infrastrukturës dhe Energjisë, për Agjencinë Kombëtare të Ujësjellës-Kanalizimeve, të pasurisë me nr. 7/120 dhe të një pjese të pasurisë me nr. 7/466, ZK 8270, Tiranë”
+SHTOJCA NR. 1.1
+PRONAT QË TRANSFEROHEN NË PRONËSI TË KORPORATËS
+Zona kadastrale
+Nr. i pasurisë
+Sip. e pasurisë (m2)
+Nga sip.
+Institucioni me pronësi/përgjegjësi administrimi
+Truall (m2)
+Ndërtesë (m2)
+8150
+6/232
+294.5
+Shtet
+8150
+6/233
+251.9
+Shtet
 SHTOJCA NR. 2
 PRONAT ME FUNKSION VETËM PUBLIK PËR TË CILAT KORPORATA VEPRON SI ZHVILLUES
 Nr.
@@ -239,7 +256,67 @@ VKM nr. 716, datë 2.9.2010, “Për disa shtesa në vendimin nr. 346, datë 12.
 Ministria e Infrastrukturës dhe Energjisë
 VKM nr. 346, datë 12.5.2010, “Për ndryshimin e përgjegjësisë së administrimit të disa mjediseve, nga Këshilli i Ministrave tek Autoriteti i Aviacionit Civil, dhe për një ndryshim në vendimin nr. 1058, datë 16.7.2008, të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Këshillit të Ministrave, për Drejtorinë e Shërbimeve Qeveritare.
 VKM nr. 716, datë 2.9.2010. “Për disa shtesa në vendimin nr. 346, datë 12.5.2010, të Këshillit të Ministrave ’Për ndryshimin e përgjegjësisë së administrimit të disa mjediseve, nga Këshilli i Ministrave tek Autoriteti i Aviacionit Civil, dhe për një ndryshim në vendimin nr. 1058, datë 16.7.2008, të Këshillit të Ministrave, ’Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Këshillit të Ministrave, për Drejtorinë e Shërbimeve Qeveritare””
+SHTOJCA NR. 2.1
+PRONAT ME FUNKSION VETËM PUBLIK, PËR TË CILAT KORPORATA VEPRON SI ZHVILLUES
+Zona kadastrale
+Nr. pasurisë
+Sip. e pasurisë (m2)
+Nga sip.
+Institucioni me pronësi/përgjegjësi administrimi
+Truall (m2)
+Ndërtesë (m2)
+8270
+6/458
+60
+60
+Shtet
+8270
+6/100
+15
+15
+Shtet
+8270
+6/461
+23.45
+23.45
+Shtet
+8270
+6/480
+45.5
+45.5
+Shtet
+8270
+6/671
+170
+Shtet
+8310
+7/526
+3913
+3913
+1082
+Ministria e Financave,
+VKM-ja nr. 535, datë 4.8.2006, e ndryshuar
+8270
+7/79
+876
+876
+468
+Shtet
+8270
+2/233
+3803
+3803
+767.8
+Drejtoria e Përgjithshme e Tatimeve
+VKM-ja nr. 818,
+datë 6.12.2006, e ndryshuar
+8250
+3/42-N1
+757.67
+757.67
+Drejtoria e Përgjithshme e Tatimeve
+VKM-ja nr. 818,
+datë 6.12.2006, e ndryshuar
 SHTOJCA NR. 3
-INSTITUCIONET PUBLIKE TË CILAT LIDHIN MARRËVESHJEN E BASHKËPUNIMIT ME KORPORATËN E
-INVESTIMEVE SHQIPTARE
-Kuvendi i Shqipërisë, Ministria e Infrastrukturës dhe Energjisë, apo institucione të autorizuara prej saj, Agjencia Kombëtare e Ujësjellës-Kanalizimeve, Autoriteti i Aviacionit Civil, Ministria e Arsimit dhe Sportit, Ministria e Drejtësisë, Ministria e Turizmit dhe Mjedisit, Drejtoria e Shërbimeve Qeveritare, Agjencia Shtetërore e Kadastrës, institucione në varësi të Kryeministrit sipas përcaktimit në marrëveshjet përkatëse.
+INSTITUCIONET PUBLIKE TË CILAT LIDHIN MARRËVESHJEN E BASHKËPUNIMIT ME KORPORATËN E INVESTIMEVE SHQIPTARE
+Kuvendi i Shqipërisë, Agjencia për Media dhe Informim, Komiteti i Pakicave Kombëtare, Agjencia Kombëtare e Ujësjellës-Kanalizimeve, Autoriteti Kombëtar i Investigimit për Sigurinë e Operimit në Aviacionin Civil, Autoriteti i Aviacionit Civil, Drejtoria e Shërbimeve Qeveritare, Agjencia e Auditimit të Programeve së Asistencës Akredituar nga Bashkimi Evropian, Agjencia Shtetërore e Programimit Strategjik dhe Koordinimit të Ndihmës, Agjencia e Zhvillimit të Territorit, Agjencia Kombëtare e Planifikimit të Territorit, Agjencia e Menaxhimit të Burimeve Ujore, Agjencia Kombëtare e Pyjeve, Agjencia Kombëtare e Mjedisit, Agjencia Rajonale e Mjedisit Tiranë, Agjencia Kombëtare e Zonave të Mbrojtura, Administrata Rajonale e Zonave të Mbrojtura, Agjencia Kombëtare e Bregdetit, Agjencia Kombëtare e Turizmit, Qendra e Botimeve për Diasporën, Agjencia për Mbështetjen e Shoqërisë Civile, Avokatura e Shtetit, Agjencia Shtetërore e Kadastrës, Agjencia e Trajtimit të Pronave, Agjencia Shtetërore për Shpronësimin, Shërbimi Gjeologjik Shqiptar, Agjencia Kombëtare Bërthamore, Agjencia për Eficiencën e Energjisë, Qendra Rajonale e Inovacionit të Institutit Evropian të Teknologjisë dhe Inovacionit për Lëndët e Para, Akademia e Energjisë, Albgaz sh.a., Enti Rregullator i Energjisë sh.a., entitetet dhe institucionet e përcaktuara nga ministritë e linjës, si dhe çdo entitet publik, përfitues sipas kërkesës së tyre, brenda mundësive funksionale të objekteve publike dhe përcaktimit në marrëveshjet përkatëse.
