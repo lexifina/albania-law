@@ -44,38 +44,37 @@ NUI lidhet elektronikisht, me:
 - Historikun administrativ të inspektorit.
 SHTOJCA NR. 2
 MODELI DHE SPECIFIKIMET E KARTËS SË INSPEKTORIT
-(në zbatim të nenit 17 të urdhrit)
-1. NKI përbëhet si:
----
+(në zbatim të nenit 17, të urdhrit nr. 276, datë 20.7.2026)
+1. Numri i Kartës së Inspektorit (NKI)
+NKI përbëhet nga elementet e mëposhtme:
 Emërtimi i shkurtuar i IQ-së
 Kodi i IQ-së
 Kodi i drejtorisë së përgjithshme/rajonale
-Numri rendor automatik i gjeneruar
+Numri rendor i gjeneruar automatikisht
 ISHPSHSH
 01
 01
 0001
 Shembull: ISHPSHSH-0101-0001
-2. Ana e përparme
-Përmban:
-- Stemën e Republikës së Shqipërisë;
-- Logon e Inspektoratit të Përgjithshëm;
+2. Ana e përparme:
+- stemën e Republikës së Shqipërisë;
+- ministrinë përgjegjëse;
+- inspektoratin qendror;
+- drejtorinë rajonale, nëse ka;
 - fotografinë;
 - emrin;
 - mbiemrin;
 - funksionin;
 - institucionin;
 - Numrin e Kartës së Inspektorit (NKI);
-- datën e lëshimit.
-- kodin QR;
-3. Ana e pasme
-Përmban:
-- përmbajtja;
-- ky dokument identifikon punonjësin e Inspektoratit të Përgjithshëm;
-- mbajtësi i tij ushtron detyrat sipas ligjit nr. 99/2024, “Për Inspektimin në Republikën e Shqipërisë”, i ndryshuar dhe akteve nënligjore në zbatim të tij;
-- ky dokument është pronë e institucionit dhe duhet të kthehet menjëherë në përfundim të marrëdhënies së punës ose kur kërkohet nga organet kompetente;
-- Inspektori i Përgjithshëm Firma & Vula.
-x
+- datën e lëshimit;
+- kodin QR.
+3. Ana e pasme:
+- Ky dokument identifikon inspektorin;
+- Mbajtësi i tij ushtron detyrat sipas ligjit nr. 99/2024, “Për inspektimin në Republikën e Shqipërisë”, i ndryshuar, dhe akteve nënligjore në zbatim të tij;
+- Ky dokument është pronë e institucionit dhe duhet të kthehet menjëherë në përfundim të marrëdhënies së punës ose kur kërkohet nga organet kompetente;
+- Inspektori i Përgjithshëm - firma dhe vula.
+MODELI I KARTËS SË INSPEKTORIT
 SHTOJCA NR. 3
 SPECIFIKIMET E KODIT QR DHE PROCEDURAT E VERIFIKIMIT ELEKTRONIK
 (në zbatim të nenit 22 të urdhrit)
