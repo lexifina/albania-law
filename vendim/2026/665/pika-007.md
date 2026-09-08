@@ -1,0 +1,1 @@
+7. Pas përcaktimit të dëmit mjedisor dhe përpara miratimit të masave rehabilituese, AKM-ja, brenda 7 (shtatë) ditëve punë fton palët e përmendura, si dhe personat, në pronën e të cilëve do të zbatohen masat të paraqesin vëzhgimet e tyre. Këto vëzhgime merren në konsideratë gjatë vendimmarrjes.

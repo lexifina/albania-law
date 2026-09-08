@@ -1,0 +1,1 @@
+11. Vlerësimi ose vendimi dokumentohet, sipas rastit, duke u bazuar në formatin e përcaktuar në shtojcën 2, që i bashkëlidhet këtij vendimi, pa cenuar marrjen në konsideratë të çdo informacioni tjetër të nevojshëm.

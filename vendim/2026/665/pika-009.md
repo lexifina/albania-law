@@ -1,0 +1,1 @@
+9. Çdo vendim i AKM-së për marrjen e masave parandaluese ose rehabilituese duhet të jetë i arsyetuar dhe të përcaktojë bazën faktike e ligjore mbi të cilën mbështetet. AKM-ja informon operatorin për të drejtën e ankimit, mjetet juridike dhe afatet përkatëse, në përputhje me legjislacionin në fuqi.

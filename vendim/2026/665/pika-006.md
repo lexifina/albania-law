@@ -1,0 +1,1 @@
+6. AKM-ja, në rastin e pranimit ose refuzimit të kërkesës për veprim, njofton brenda 10 (dhjetë) ditëve punë, palët përkatëse dhe jep arsyet e vendimit. Vendimi i AKM-së duhet të jetë i argumentuar dhe të mbështetet në kriteret e përcaktuara në këtë vendim.

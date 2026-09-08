@@ -1,0 +1,1 @@
+4. Zbatimi i këtij vendimi nuk cenon të drejtën e operatorit për të kufizuar përgjegjësinë e tij, në përputhje me legjislacionin në fuqi që rregullon kufizimin e përgjegjësisë për kërkesat detare dhe për veprimtaritë e lundrimit të brendshëm.

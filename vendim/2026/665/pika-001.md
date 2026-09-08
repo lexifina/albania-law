@@ -1,0 +1,1 @@
+1. Ky vendim miraton kriteret për vlerësimin e kërcënimit të menjëhershëm për dëm në mjedis dhe për përcaktimin e dëmit në mjedis, me qëllim zbatimin e masave parandaluese dhe rehabilituese, në përputhje me legjislacionin në fuqi për mbrojtjen e mjedisit.
