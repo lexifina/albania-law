@@ -1,0 +1,1 @@
+2. Ky delegim kompetence është i vlefshëm deri në revokimin e tij me shkrim nga titullari i Ministrisë së Shëndetësisë dhe Mirëqenies Sociale ose deri në përfundimin e mandatit të znj. Eugena Tomini, zëvendësministër.
