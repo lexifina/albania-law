@@ -1010,7 +1010,7 @@ Pronësia
 10
 17
 ranorë
-261,450
+184 092 m²
 shtet
 Shfuqizuar
 3774
