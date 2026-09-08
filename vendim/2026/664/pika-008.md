@@ -1,0 +1,1 @@
+8. Përfshirja e organizatave të shoqërisë civile nuk cenon kompetencat dhe përgjegjësitë e njësisë së vetëqeverisjes vendore për vlerësimin, vendimmarrjen, miratimin dhe mbikëqyrjen ose rishikimin e masave të shërbimit të kujdesit alternativ në familje, sipas legjislacionit në fuqi.

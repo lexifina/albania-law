@@ -1,0 +1,1 @@
+4. Plotësimi i kritereve të përcaktuara në pikën 3, të këtij vendimi, vlerësohet nga një komision i ngritur me urdhër të kryetarit të bashkisë, në bashkëpunim me strukturat përgjegjëse, në bazë të dokumentacionit të paraqitur dhe, kur është e nevojshme, nëpërmjet verifikimeve në terren.

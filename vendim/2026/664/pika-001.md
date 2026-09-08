@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim miratimin e kritereve, të procedurave e të mënyrës së përfshirjes së organizatave të shoqërisë civile (në vijim OSHC) në mbështetjen e ofrimit të shërbimeve të kujdesit alternativ në familje, me qëllim garantimin e cilësisë së shërbimeve dhe mbrojtjes së interesit më të lartë të fëmijës.
