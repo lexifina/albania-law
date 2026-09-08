@@ -1,0 +1,15 @@
+# Neni 5
+Kriteret e veçanta për dhënien e Medaljes së Shërbimit të Rendit Publik për punonjësit e shërbimit të mbrojtjes nga zjarri dhe shpëtimin
+1. Medalja e Artë e Shërbimit të Rendit Publik u jepet punonjësve të shërbimit të mbrojtjes nga zjarri dhe shpëtimin që kanë dhënë kontribut të jashtëzakonshëm në ushtrimin e detyrës, në një nga rastet e mëposhtme:
+a) Kryejnë akte heroizmi ose sakrifice personale gjatë operacioneve të shpëtimit ose mbrojtjes nga zjarri, duke rrezikuar jetën për shpëtimin e qytetarëve;
+b) Udhëheqin dhe menaxhojnë me sukses operacione madhore të sigurisë nga rreziku i zjarrit dhe/ose shpëtimin, me ndikim të drejtpërdrejtë e të matshëm në shpëtimin e jetëve dhe pronës;
+c) Demonstrojnë gjatë ushtrimit të detyrës profesionalizëm, përkushtim dhe kontribut të shtuar në operacione të mbrojtjes nga zjarri dhe shpëtimin, të vlerësuara pozitivisht përgjatë karrierës së tyre profesionale dhe ky kontribut është dëshmuar në mënyrë të vazhdueshme, prej jo më pak se 25 (njëzet e pesë) vjetësh në shërbimin e mbrojtjes nga zjarri dhe shpëtimin.
+2. Medalja e Argjendtë e Shërbimit të Rendit Publik u jepet punonjësve të shërbimit të mbrojtjes nga zjarri dhe shpëtimin, që kanë dhënë kontribut të dalluar profesional dhe operacional në ushtrimin e detyrës, në një nga rastet e mëposhtme:
+a) Kryejnë veprime të dokumentuara guximtare, të vërtetuara me raporte zyrtare të ngjarjes në situata rreziku, që kanë rezultuar me shpëtimin e jetës e të pronës dhe parandalimin e pasojave të rënda;
+b) Marrin pjesë në mënyrë aktive të suksesshme në veprime operacionale operuese dhe/ose menaxhuese të rëndësishme, në nivel kombëtar, rajonal ose ndërkombëtar;
+c) Demonstrojnë gjatë ushtrimit të detyrës profesionalizëm, përkushtim dhe kontribut të shtuar në operacione të mbrojtjes nga zjarri dhe shpëtimin, të vlerësuara pozitivisht përgjatë karrierës së tyre profesionale, dhe ky kontribut është dëshmuar në mënyrë të vazhdueshme, prej jo më pak se 20 (njëzet) vjetësh në shërbimin e mbrojtjes nga zjarri dhe shpëtimin.
+3. Medalja e Bronztë e Shërbimit të Rendit Publik u jepet punonjësve të shërbimit të mbrojtjes nga zjarri dhe shpëtimin që kanë dhënë kontribut të dalluar në ushtrimin e detyrës, në një nga rastet e mëposhtme:
+a) Kryejnë me përkushtim dhe profesionalizëm detyrat në situata të vështira, duke dhënë kontribut efektiv në stabilizimin e situatës, parandalimin e përhapjes së zjarrit ose minimizimin e pasojave;
+b) Marrin pjesë në mënyrë aktive dhe efektive në operacione të rëndësishme për fikjen e zjarreve dhe shpëtimin, duke realizuar izolimin e vatrave të zjarrit, evakuimin e personave, shpëtimin e jetëve ose mbrojtjen e pronës;
+c) Japin kontribut të shtuar në trajnimin dhe rritjen e kapaciteteve profesionale të strukturave të shërbimit zjarrfikës, duke hartuar, duke zhvilluar ose duke zbatuar programe trajnimi me ndikim të veçantë në përmirësimin e kapaciteteve operacionale;
+ç) Tregojnë sjellje shumë të mirë në kryerjen e detyrave dhe përgjegjësive (sipas vlerësimeve në punë), me karrierë jo më pak se 15 (pesëmbëdhjetë) vjet në shërbimin e mbrojtjes nga zjarri dhe shpëtimin.
