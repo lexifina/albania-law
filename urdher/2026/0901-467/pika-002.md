@@ -1,0 +1,1 @@
+2. Plani i Veprimit për ruajtjen e Ariut të Murrmë (Ursus arctos) në Shqipëri të publikohet në faqen zyrtare të Ministrisë së Mjedisit dhe në faqen zyrtare të Agjencisë Kombëtare të Zonave të Mbrojtura.
