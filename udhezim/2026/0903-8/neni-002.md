@@ -1,0 +1,7 @@
+# Neni 2
+Transferimi vertikal brenda sistemit të AFP-së
+1. Nxënësi që ka përfunduar me sukses një kualifikim profesional në një nivel të caktuar të Kornizës Shqiptare të Kualifikimeve (KSHK), ka të drejtë të vijojë një kualifikim profesional në nivelin më të lartë pasues.
+2. Nxënësi që përfundon me sukses një kualifikim profesional të nivelit 4 të KSHK-së mund të vijojë kualifikimet profesionale të mëtejshme në nivelin 5 të KSHK-së (pas të mesme) dhe në nivelin 6 të KSHK (bachelor), sipas rrugëve të progresionit të përcaktuara në Kornizën Shqiptare të Kualifikimeve dhe në përputhje me praktikat e Bashkimit Evropian për mobilitet dhe zhvillim profesional.
+3. Nxënësi konsiderohet që e ka përfunduar me sukses një nivel të caktuar të kualifikimit profesional nëse është pajisur me dokumentet e certifikimit në arsimin profesional, sipas akteve nënligjore në fuqi.
+4. Për t’u regjistruar në një nivel më të lartë të kualifikimit profesional, nxënësi duhet të jetë pajisur me dokumentet e certifikimit në arsimin profesional të kualifikimit profesional të nivelit paraardhës.
+5. Transferimi i nxënësit nga një nivel më i ulët në një nivel më të lartë të Arsimit Profesional (AP), bëhet me kërkesë nga nxënësi ose prindi/kujdestari ligjor i tij, e cila shoqërohet me dokumentet e certifikimit të nivelit paraardhës, si dhe çdo dokumentacion tjetër që vërteton plotësimin e kritereve të veçanta (nëse ka).
