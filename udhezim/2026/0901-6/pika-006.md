@@ -1,0 +1,1 @@
+6. “Makineri, pajisje dhe linja prodhimi të institucioneve shtetërore” - janë tërësia e mjeteve teknike, mekanike, elektrike, elektronike dhe teknologjike, përfshirë makineritë individuale, pajisjet ndihmëse, instalimet teknologjike dhe linjat e prodhimit, në pronësi ose administrim të institucioneve/ndërmarrjeve apo shoqërive shtetërore.

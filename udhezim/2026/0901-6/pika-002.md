@@ -1,0 +1,1 @@
+2. “Truall i lirë” - është pasuria e paluajtshme shtetërore, e identifikuar si e tillë në regjistrin e pasurive të paluajtshme, e cila nuk është e zënë nga ndërtime, objekte apo struktura të përhershme.

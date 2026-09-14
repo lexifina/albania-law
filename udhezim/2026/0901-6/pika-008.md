@@ -1,0 +1,1 @@
+8. “Seksioni i posaçëm i faqes zyrtare elektronike të institucionit” - është moduli i dedikuar në faqen zyrtare elektronike të institucionit, në të cilin publikohen njoftimet e procedurave të dhënies me qira ose enfiteozë të pasurisë shtetërore.

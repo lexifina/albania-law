@@ -1,0 +1,1 @@
+7. “Adresë zyrtare elektronike” - është adresa elektronike e përcaktuar nga institucioni përgjegjës për zhvillimin e procedurës së dhënies me qira/enfiteozë të pasurive shtetërore, e cila shërben si mjet zyrtar për publikimin, administrimin dhe komunikimin elektronik gjatë procedurës.

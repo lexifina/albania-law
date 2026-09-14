@@ -1,0 +1,1 @@
+10. Titullari i institucionit, brenda afatit të përcaktuar në VKM, ngre komisionin për shqyrtimin e ankimit. Komisioni shqyrton pretendimet e ankuesit, dokumentacionin e procedurës dhe çdo provë tjetër të administruar gjatë zhvillimit të saj, dhe i propozon titullarit të institucionit lënien në fuqi ose revokimin e vendimit të ankimuar.

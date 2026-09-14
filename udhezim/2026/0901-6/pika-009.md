@@ -1,0 +1,36 @@
+9. “Pasuri shtetërore mbi 200 m²” - është pasuria e paluajtshme shtetërore, e regjistruar dhe e individualizuar si pasuri më vete në dokumentacionin kadastral, sipërfaqja e së cilës rezulton mbi 200 m². Kur në të njëjtën zonë kadastrale ndodhen dy ose më shumë pasuri shtetërore dhe shprehet interes për marrjen në përdorim me qira/enfiteozë, kufiri prej 200 m² vlerësohet për secilën pasuri më vete.
+KREU II
+PROCEDURA E DHËNIES ME QIRA/ENFITEOZË TË PASURISË SHTETËRORE
+1. Organi që ushtron të drejtën e përfaqësuesit të pronarit të pasurisë shtetërore, vihet në lëvizje për fillimin e procedurës së dhënies me qira ose enfiteozë të pasurisë shtetërore, me kërkesë të një subjekti të interesuar ose me propozim të institucionit, ndërmarrjes apo shoqërisë shtetërore që ka në administrim pasurinë shtetërore.
+1.1 Kërkesa nga çdo subjekt i interesuar, shoqërohet me dokumentacion paraprak i cili, sipas rastit, përmban:
+a) të dhënat identifikuese të kërkuesit dhe, kur kërkuesi është person juridik, ekstraktin e regjistrit tregtar, NUIS/NIPT-in dhe dokumentin që provon përfaqësimin;
+b) identifikimin e pasurisë që kërkohet të jepet me qira ose enfiteozë dhe të dhënat kadastrale;
+c) përshkrimin e veprimtarisë që synohet të ushtrohet, afatin e kërkuar, nivelin e parashikuar të investimit, punësimit dhe burimin e financimit;
+ç) dokumentacionin orientues teknik, si projektide, skica ose informacion tjetër paraprak, kur natyra e veprimtarisë ose e pasurisë e kërkon.
+Dokumentacioni paraprak shërben për vlerësimin e mundësisë së fillimit të procedurës dhe nuk zëvendëson dokumentacionin që kërkohet në momentin e shpalljes së procedurës së konkurrimit.
+1.2 Kur propozimi për fillimin e procedurës iniciohet nga institucioni, ndërmarrja apo shoqëria shtetërore që ka në administrim pasurinë, dokumentacioni i paraqitur duhet të jetë në përputhje me kërkesat e përcaktuara në pikën 1, të kreut II, të VKM-së.
+2. Përgatitja e procedurës së dhënies me qira ose enfiteozë të pasurisë shtetërore, zhvillohet në rrugë shkresore. Institucioni që ka në përgjegjësi administrimi pasurinë shtetërore përgatit dokumentacionin tekniko-ligjor, në të cilin përcaktimi i afatit të përdorimit, veprimtarisë që do të ushtrohet në pasuri, bëhet nga institucioni përgjegjës, rast pas rasti, në përputhje me destinacionin e pasurisë dhe interesin publik.
+2.1 Kur pasuria shtetërore është në pronësi të institucioneve të qeverisjes qendrore apo nga organet e njësive të vetëqeverisjes vendore, procedura zhvillohet nga këto institucione, sipas parashikimeve në VKM.
+2.2 Për pasuritë shtetërore, për të cilat nga dokumentacioni kadastral rezulton se pasuria është në pronësi “shtet” dhe nuk është regjistruar në përgjegjësi administrimi të një institucioni shtetëror, shoqërie shtetërore ose ndërmarrjeje shtetërore, ministria përgjegjëse për ekonominë zhvillon procedurën për dhënien e saj me qira ose enfiteozë, në përputhje me përcaktimet e VKM-së dhe këtij udhëzimi. Struktura përgjegjëse në ministrinë përgjegjëse për ekonominë, përgatit dokumentacionin tekniko-ligjor dhe vijon procedurën e dhënies me qira ose enfiteozë, sipas procedurave dhe afateve të përcaktuara në VKM dhe në këtë udhëzim. Në çdo rast, kur gjatë procedurës, rezulton se pasuria është regjistruar në përgjegjësi administrimi të një institucioni tjetër ose evidentohet ekzistenca e një akti administrativ për kalimin e saj në administrim, ministria përgjegjëse për ekonominë ndërpret procedurën dhe ia përcjell dokumentacionin institucionit që ka në përgjegjësi administrimi pasurinë, për vijimin e procedurës sipas përcaktimeve të VKM-së.
+3. Institucioni përgjegjës për zhvillimin e procedurës, pas administrimit të dokumentacionit tekniko-ligjor, publikon njoftimin në Buletinin e Njoftimeve Publike dhe në seksionin e posaçëm të faqes së tij zyrtare elektronike, në përputhje me përcaktimet e VKM-së. Në seksionin e posaçëm publikohen, njoftimet, dokumentacioni i nevojshëm për t’u depozituar nga ofertuesit, rezultatet e procedurës, njoftimi i fituesit, si dhe çdo akt ose informacion tjetër, publikimi i të cilit është i nevojshëm. Nga momenti i publikimit të njoftimit, komunikimi ndërmjet institucionit dhe ofertuesve, administrimi i dokumentacionit dhe çdo veprim procedural gjatë konkurrimit zhvillohen vetëm nëpërmjet adresës zyrtare elektronike të institucionit.
+4. Ofertuesit depozitojnë ofertën dhe dokumentacionin shoqërues në adresën zyrtare elektronike të përcaktuar në njoftimin për konkurrim, brenda afatit të përcaktuar për depozitimin e ofertave. Për efekt të paraqitjes dhe administrimit elektronik, dokumentacioni paraqitet në format PDF-je.
+5. Oferta dhe dokumentacioni shoqërues, i depozituar pas përfundimit të afatit të përcaktuar ose në një adresë të ndryshme nga adresa zyrtare elektronike e përcaktuar në njoftimin për konkurrim, nuk merren në shqyrtim nga komisioni i dhënies me qira/enfiteozë.
+6. Pas përfundimit të afatit për depozitimin e ofertave, komisioni i ngritur për këtë qëllim akseson ofertat e depozituara dhe harton procesverbalin e hapjes së procedurës.
+Procesverbali përmban të paktën:
+a) datën dhe orën e hapjes së procedurës;
+b) përbërjen e Komisionit dhe deklarimet e anëtarëve për mungesën e konfliktit të interesit;
+c) listën e ofertuesve pjesëmarrës;
+ç) dokumentacionin e paraqitur nga secili ofertues;
+d) konstatimet e evidentuara gjatë administrimit të ofertave.
+Procesverbali nënshkruhet nga të gjithë anëtarët e komisionit dhe është pjesë përbërëse e dosjes së procedurës. Ai përbën akt të brendshëm administrativ.
+7. Komisioni verifikon deklarimet dhe të dhënat e paraqitura nga ofertuesit nëpërmjet platformës elektronike e-Albania ose nëpërmjet ndërveprimit ndërinstitucional, konform legjislacionit në fuqi. Paraqitja e dokumenteve provuese nga ofertuesit nuk e përjashton komisionin nga detyrimi për kryerjen e verifikimeve përkatëse. Kur gjatë verifikimit, konstatohen pasaktësi ose mospërputhje që ndikojnë në përmbushjen e kushteve të procedurës, komisioni vepron në përputhje me përcaktimet e VKM-së.
+8. Komisioni vlerëson çdo ofertë të vlefshme në bazë të kritereve dhe metodologjisë së mëposhtme. Në rast se administrohet vetëm një ofertë e vlefshme, ajo vlerësohet sipas këtyre kritereve dhe metodologjisë.
+Pikët për secilin kriter përcaktohen nga institucioni përgjegjës, rast pas rasti, në përputhje me natyrën e procedurës. Oferta më e favorshme për secilin kriter vlerësohet me pikët maksimale, ndërsa ofertat e tjera vlerësohen, sipas formulës:
+- Pof = (Oof / Omax) × Pk
+ku:
+- Pof - pikët e ofertuesit;
+- Oof - oferta e ofertuesit;
+- Omax - oferta që ka marrë pikët maksimale për kriterin përkatës;
+- Pk - pikët e përcaktuara për kriterin.
+Shpallet fitues ofertuesi që, pas vlerësimit, renditet i pari sipas numrit të pikëve të grumbulluara, në përputhje me VKM-në dhe dokumentet e procedurës.
+9. Ofertuesit kanë të drejtë të paraqesin ankim pranë titullarit të institucionit, brenda afatit të përcaktuar në VKM. Ankimi paraqitet në rrugë shkresore dhe duhet të përmbajë të dhënat identifikuese të ankuesit, objektin e ankimit, shkaqet mbi të cilat mbështetet, si dhe dokumentacionin përkatës, nëse ka. Regjistrimi i ankimit pezullon vijimin e procedurës deri në marrjen e vendimit përfundimtar nga titullari i institucionit.

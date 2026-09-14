@@ -1,0 +1,1 @@
+5. “Sipërfaqe funksionale (jo nën ndërtesë)” - janë hapësirat e lira përreth objektit, të nevojshme për t’i shërbyer këtij të fundit. Sipërfaqja funksionale jepet me qira/enfiteozë gjithnjë me objektin e ndërtuar mbi sipërfaqen e tokës dhe sipërfaqen e lidhur ngushtësisht me të.
