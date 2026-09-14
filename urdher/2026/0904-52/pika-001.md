@@ -1,0 +1,1 @@
+1. Drejtori i përgjithshëm i Shërbimit Legjislativ dhe Monitorimit të Institucioneve në Kuvendin e Shqipërisë është autoriteti të cilit i delegohet kompetenca e përfaqësimit të institucionit, në lidhje me proceset gjyqësore në Gjykatën Kushtetuese.

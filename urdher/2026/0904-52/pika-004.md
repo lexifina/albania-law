@@ -1,0 +1,1 @@
+4. Autorizimet për përfaqësim ligjor të Kuvendit të Shqipërisë në proceset gjyqësore, kur thirret si palë në një gjykim, lëshohen nga drejtori i përgjithshëm i Shërbimit Legjislativ dhe Monitorimit të Institucioneve në emër të personit që do të përfaqësojë Kuvendin.

@@ -1,0 +1,1 @@
+5. Autorizimet për përfaqësim ligjor të Kuvendit të Shqipërisë në proceset gjyqësore në Gjykatën Kushtetuese, kur thirret si subjekt i interesuar, lëshohen nga drejtori i përgjithshëm i Shërbimit Legjislativ dhe Monitorimit të Institucioneve në emër të personit që do të përfaqësojë Kuvendin.

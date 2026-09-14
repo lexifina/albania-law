@@ -1,0 +1,1 @@
+2. Autoriteti i përcaktuar në pikën 1, personi që do të përfaqësojë Kuvendin, autorizohet për të hartuar, nënshkruar dhe dorëzuar ankimin/rekursin në të gjitha seancat gjyqësore të çështjes administrative/civile/penale/gjykimit në Gjykatën Kushtetuese.
