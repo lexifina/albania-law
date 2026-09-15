@@ -849,3 +849,143 @@ Shënim.
 1. Vlerësimi i kulturave bujqësore e drufrutore është kryer bazuar në udhëzimin nr. 1, datë 5.10.2000.
 2. Vlerësimi është kryer bazuar në VKM-në nr. 138, datë 23.3.2000.
 3. Vlerësimi i pasurisë së llojit “tokë arë” dhe “tokë truall” është kryer bazuar në VKM-në nr. 89, datë 3.2.2016.
+LISTA EMËRORE E PRONARËVE, PASURITË E PALUAJTSHME, PRONË PRIVATE, TË TË CILËVE SHPRONËSOHEN PËR INTERES PUBLIK NGA REALIZIMI I PROJEKTIT “RIKONSTRUKSIONI I RRUGËS SHKODËR-VELIPOJË (SEGMENTI HARKU I BËRDICËS-BAKS)”, SHKODËR
+Nr.
+Emri
+Atësia
+Mbiemri
+Zona kadastrale
+Nr. i pasurisë
+Sipërfaqja totale (m2)
+Lloji i pasurisë
+Tokë “arë”
+Tokë “truall”
+Shënime
+(kufizime hipotekore, barrë mbi pasurinë etj.)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Vlera e kulturave bujqësore dhe drufrutore (lekë)
+Vlera totale (lekë)
+67
+Nuh
+Jaho
+Velija
+1159
+8/48
+176
+Arë
+176
+270
+47520
+47520
+68
+Nuh
+Jaho
+Velija
+1159
+8/49
+1564
+Arë
+16.5
+270
+4455
+4455
+69
+Hajri
+Velija
+1159
+8/61
+500
+Arë
+406
+270
+109620
+109620
+Bilal
+Ilir
+Jup
+70
+Jup
+Velija
+1159
+8/60
+1322
+Arë
+334.6
+270
+90342
+90342
+71
+Ilir
+Velija
+1159
+8/59
+1322
+Arë
+300.2
+270
+81054
+81054
+72
+Bilal
+Velija
+1159
+8/58
+1322
+Arë
+267.7
+270
+72279
+72279
+73
+Hajri
+Velija
+1159
+8/57
+1322
+Arë
+210
+270
+56700
+56700
+74
+Ruzhdi
+Selim
+Meti
+1159
+11/51
+1175
+Arë
+123.4
+270
+33318
+33318
+75
+Ruzhdi
+Meti
+1159
+866/8
+1062
+Arë
+339.4
+270
+91638
+91638
+76
+Sabri
+Ymer
+Rrustemi
+1158
+476/13
+2385
+Arë
+521.5
+270
+140805
+140805
+Vlera totale e shpronësimit
+727731
