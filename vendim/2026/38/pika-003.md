@@ -1,1 +1,1 @@
-3. Numri i pozicioneve, për të cilat do të përdoret procedura e pranimit të drejtpërdrejtë në TND, është 11 (njëmbëdhjetë).
+3. Numri i pozicioneve, për të cilat do të përdoret procedura e pranimit të drejtpërdrejtë në TND, është 15 (pesëmbëdhjetë).
