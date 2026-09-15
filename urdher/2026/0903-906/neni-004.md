@@ -1,0 +1,3 @@
+# Neni 4
+Aktivitetet dhe programet e trajnimit për shkëmbimin e stafit, të organizuara në përputhje me nenin 103 të ligjit për kontrollet zyrtare
+Me përjashtim të pikës 1, të nenit 2 të këtij urdhri, stafi i përcaktuar në shkronjat “a” dhe “b”, të pikës 1, të nenit 1, mund të asistojë veterinerin zyrtar në kryerjen e kontrolleve fizike ose të kryejë kontrolle fizike në përputhje me pikën 2, të nenit 49 të ligjit për kontrollet zyrtare, nëse është trajnuar në kuadër të veprimtarive të trajnimit ose programeve për shkëmbimin e stafit, të organizuara në përputhje me nenin 103 të ligjit për kontrollet zyrtare, me kusht që këto veprimtari ose programe të përfshijnë përmbajtjen dhe temat e programit të trajnimit të përmendur në pikën 2, të nenit 3 të këtij urdhri.
