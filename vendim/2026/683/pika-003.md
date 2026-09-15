@@ -1,0 +1,1 @@
+3. Pronarët e pasurisë së paluajtshme, pronë private, që shpronësohen, kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për pasurinë e llojit “kullotë”, me një vlerë të përgjithshme prej 283 200 (dyqind e tetëdhjetë e tre mijë e dyqind) lekësh.
