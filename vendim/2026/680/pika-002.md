@@ -1,0 +1,1 @@
+2. Miratimin e lidhjes së marrëveshjes së përdorimit me tarifë simbolike 1 euro ndërmjet Ministrisë së Turizmit, Kulturës dhe Sportit dhe shoqërisë “OMNIX Albania” sh.p.k., sipas tekstit të projektmarrëveshjes, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
