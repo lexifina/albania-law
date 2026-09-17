@@ -1,0 +1,1 @@
+2. Gjatë periudhës së situatës së veçantë ngrihet dhe funksionon Bordi i Transparencës dhe Kufizimit të Përkohshëm të Çmimeve të Tregtimit me Shumicë/Pakicë të Nënprodukteve të Naftës dhe Gazit, i cili ushtron detyrat sipas kompetencave të përcaktuara në kreun III/1, të ligjit nr. 8450, datë 24.2.1999, të ndryshuar.
