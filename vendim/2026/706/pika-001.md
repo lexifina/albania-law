@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rehabilitimi i infrastrukturës rrugore në njësinë administrative nr. 1+2+3 - degëzimet e rrugës ’Kadri Roshi’ - ’Demir Zyko’, Bashkia Tiranë”.
