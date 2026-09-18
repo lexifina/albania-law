@@ -1,1 +1,1 @@
-2. Truall funksional i objektit pa titull pronësie është sipërfaqja e tokës nën ndërtesë dhe përreth saj, që posedohet efektivisht nga subjekti.
+2. Truall funksional i objektit pa titull është sipërfaqja nën ndërtesë dhe përreth saj, që posedohet efektivisht nga subjekti në funksion të objektit, brenda masës së sipërfaqes së përcaktuar në këtë vendim.
