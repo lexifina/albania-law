@@ -1,0 +1,1 @@
+4. Kohëzgjatja e këtij misioni është deri më 31 dhjetor 2029. Periudha e qëndrimit në mision është me sistem rotacioni deri në 3 (tre) muaj për personelin e kontingjentit dhe 6 (gjashtë) muaj për helikopterin, periudha, të cilave u shtohen edhe ditët e qëndrimit për ndërrimin me kontingjentin e radhës.

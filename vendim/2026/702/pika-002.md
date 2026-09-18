@@ -1,0 +1,1 @@
+2. Misioni i personelit është kryerja e mbështetjes nga ajri të forcave të “KFOR-it” gjatë kryerjes së detyrave për njohje terreni, zbulim, patrullim, rastet CASEVAC, SAR, transport VIP dhe trupash në zonën e operacionit të “KFOR-IT”, si dhe mbështetje të popullsisë në raste emergjencash civile, sipas planeve dhe marrëveshjes së KFOR-it me Republikën e Kosovës.
