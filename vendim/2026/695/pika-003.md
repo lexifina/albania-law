@@ -1,0 +1,1 @@
+3. Vlerat e përcaktuara si detyrim në pikën 1, të këtij vendimi, depozitohen në një nga bankat e nivelit të dytë, në emër të kërkuesit, z. Gentjan Osmani, në vlerën që shteti shqiptar detyrohet, sipas vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 23.6.2026, për çështjen “Osmani kundër Shqipërisë”, për kërkesën nr. 7780/20.

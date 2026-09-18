@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 23.6.2026, për çështjen “Osmani kundër Shqipërisë”, për kërkesën nr. 7780/20, përfundimtar në datën 23.6.2026, në shumën 6 000 (gjashtë mijë) euro, në lidhje me dëmin jopasuror, si dhe 5 000 (pesë mijë) euro, në lidhje me kostot dhe shpenzimet.

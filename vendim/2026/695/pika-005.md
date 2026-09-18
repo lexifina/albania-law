@@ -1,0 +1,1 @@
+5. Në rast mospagimi brenda afatit 3-mujor, të përmendur në pikën 4, të këtij vendimi, mbi shumat e mësipërme paguhen interesa të thjeshtë, të barabartë me normën marxhinale të kreditimit të Bankës Qendrore Evropiane gjatë periudhës së mospagimit, plus tri pikë përqindje.
