@@ -1,0 +1,1 @@
+3. Ministrisë së Arsimit dhe Universitetit “Eqrem Çabej”, Gjirokastër, u ndalohet të ndryshojnë destinacionin e përdorimit të pronave të përcaktuara në pikën 1, të këtij vendimi, si dhe t’i tjetërsojnë ato.

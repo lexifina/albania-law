@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Arsimit, për Universitetin “Eqrem Çabej”, Gjirokastër, për ushtrimin e aktivitetit, sipas fushës së saj të përgjegjësisë shtetërore.
