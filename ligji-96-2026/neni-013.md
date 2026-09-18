@@ -1,0 +1,4 @@
+# Neni 13
+Data e depozitimit
+1. Data e depozitimit të kërkesës për regjistrimin e një disenjoje caktohet data kur DPPI-ja merr në dorëzim kërkesën në sistemin e administrimit të pronësisë industriale, e cila paraprakisht përmban formularin e nënshkruar të kërkesës për regjistrim të disenjos, të dhënat identifikuese të kërkuesit, një paraqitje mjaftueshëm të qartë të disenjos, e cila lejon përcaktimin e objektit për të cilin kërkohet mbrojtja, me kusht që brenda 2 muajve nga kjo datë kërkuesi të plotësojë kërkesën për regjistrim me të gjitha elementet e përcaktuara në shkronjat “a”, “b” dhe “d”, të pikës 1, të nenit 12 të këtij ligji.
+2. Në rast se brenda afatit 2-mujor, të përmendur në pikën 1 të këtij neni, kërkuesi nuk plotëson të gjitha elementet e përcaktuara në nenin 12 të këtij ligji, DPPI-ja refuzon kërkesën për regjistrim të disenjos.

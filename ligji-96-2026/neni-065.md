@@ -1,0 +1,4 @@
+# Neni 65
+Masat në tregun e brendshëm
+1. Mbajtësi i të drejtave, në kuptim të këtij ligji, mund të paraqesë një kërkesë-ankesë për inspektim tek autoriteti i ngarkuar për mbikëqyrjen e tregut të brendshëm për fillimin e procedurave dhe marrjen e masave përkatëse të inspektimit, kur ekzistojnë shkaqe të arsyeshme dyshimi se shkelen të drejtat e disenjos nga mallra dhe shërbime, që janë vendosur në treg në territorin e Republikës së Shqipërisë.
+2. Procedurat për veprimet që ndërmerr autoriteti i ngarkuar me mbikëqyrjen e tregut të brendshëm, sipas pikës 1 të këtij neni, rregullohen nga legjislacioni në fuqi për inspektimin në Republikën e Shqipërisë dhe nga çdo ligj apo akt nënligjor tjetër, që përmban dispozita për mbrojtjen e të drejtave të pronësisë intelektuale në tregun e brendshëm.
