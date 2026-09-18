@@ -1,0 +1,26 @@
+{
+  "qbz_id": 63643,
+  "title": "Për dhënie dekorate",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "488",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2026-09-03",
+  "published": "2026-09-18",
+  "in_force": "2026-09-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/8a5a231bc02c238f42f46cea71d5dbbbe4de9703f7f3c506546c0e4950bbd6da.docx",
+  "source_sha256": "8a5a231bc02c238f42f46cea71d5dbbbe4de9703f7f3c506546c0e4950bbd6da",
+  "official_record": "https://qbz.gov.al/api/v1/acts/63643",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2026/09/03/488",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
