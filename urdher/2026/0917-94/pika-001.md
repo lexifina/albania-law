@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor për procedurën e prokurimit me objekt “ Blerje lende djegëse për ngrohje pelet-briket”, në Spitalin Psikiatrik “Sadik Dinçi” Elbasan “ND/Ekonomik, z. Aldo Hajrulla.

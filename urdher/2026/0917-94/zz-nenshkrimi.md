@@ -1,0 +1,3 @@
+# Nënshkrimi
+DREJTORE
+Dasantila Tahiraj
