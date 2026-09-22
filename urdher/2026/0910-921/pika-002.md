@@ -1,0 +1,1 @@
+2. Analizat fiziko-kimike të produkteve të sektorit të verës, për efekt të zbatimit të ligjit nr. 86/2022, “Për vreshtarinë dhe verën”, kryhen vetëm nga laboratorët e listuar në pikën 1, të këtij urdhri.
