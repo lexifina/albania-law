@@ -1,0 +1,26 @@
+{
+  "qbz_id": 34339,
+  "title": "Për dhënie dekorate",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "504",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2026-09-22",
+  "published": "2026-09-28",
+  "in_force": "2026-09-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/08e4a94aa8468bc77942aff280768fdea6417d994887910f694a19321d516c5a.docx",
+  "source_sha256": "08e4a94aa8468bc77942aff280768fdea6417d994887910f694a19321d516c5a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/34339",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2026/09/22/504",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
