@@ -2,7 +2,7 @@
 
 Official source: [Vendim nr. 6, datë 22.2.2023 (Enti Rregullator i Ujit)](https://qbz.gov.al/api/v1/acts/25645); [QBZ versions](https://qbz.gov.al/api/v1/acts/25645/versions).
 
-Status of this text: `official consolidated version 3`, applying from 2025-11-20; after QBZ act 31848 (nr. 36).
+Status of this text: `official consolidated version 4`, applying from 2026-09-28; after QBZ act 68872 (nr. 29).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 

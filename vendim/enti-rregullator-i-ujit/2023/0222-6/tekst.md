@@ -6,7 +6,7 @@
 
 	DURRËS SHA
 
-	(Ndryshuar me Vendimin nr.14, datë 16.5.2024; nr. 32, datë 23.9.2024; nr. 36, datë 20.11.2025)
+	(Ndryshuar me Vendimin nr.14, datë 16.5.2024; nr. 32, datë 23.9.2024; nr. 36, datë 20.11.2025; nr. 29, datë 28.9.2026)
 
 	(I përditësuar)
 
@@ -54,11 +54,11 @@ VENDOSI:
 
 	2. Shoqëria rajonale Ujësjellës-Kanalizime Durrës sh.a. autorizohet të kryejë veprimtaritë e licencuara me:
 
-	a) Drejtues ligjor: z. Olsen Kavalli; 
+	a) Drejtues Ligjor, z. Migen Duka’;
 
-	b) Drejtues teknik: z. Tonin Doda; 
+	b) Drejtues Teknik, z. Olsen Kavalli; 
 
-	c) Drejtues teknik: z. Migen Duka.
+	c) Drejtues i dytë Teknik për ITUN-in, z. Tonin Doda.
 
 	3. Zona e shërbimit të shoqërisë rajonale Ujësjellës-Kanalizime Durrës sh.a. janë bashkitë: Durrës, Shijak, Rrogozhinë, Krujë, Kavajë.
 
