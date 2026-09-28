@@ -6,6 +6,10 @@
 
 	DIBËR SHA
 
+	(Ndryshuar me vendimin nr. 30, datë 28.9.2026)
+
+	(i përditësuar)
+
 Në mbështetje të neneve 13, 14, 15, 16 dhe 17 të ligjit nr. 8102, datë 28.3.1996, “Për kuadrin rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, të ndryshuar (ligji nr. 8102); VKM-së nr. 958, datë 6.5.2009, “Për miratimin e kategorive të licencimit dhe të procedurave për aplikim për licencë” (VKM nr. 958); si dhe vendimit të Komisionit Kombëtar Rregullator nr. 29, datë 8.12.2009, “Për procedurat e dhënies dhe rinovimit të licencave profesionale për subjektet juridike e fizike që ushtrojnë veprimtari në sektorin e furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, të ndryshuar (Rregullore e licencimit), 
 
 KOMISIONI KOMBËTAR RREGULLATOR,
@@ -44,9 +48,9 @@ VENDOSI:
 
 	2. Shoqëria Rajonale Ujësjellës-Kanalizime Dibër sh.a. autorizohet të kryejë veprimtaritë e licencuara me:
 
-	a) Drejtues ligjor: Mario Bakalli;
+	a) Drejtues Ligjor – z. Erger Kosiqi;
 
-	b) Drejtuese Teknike: Halil Jakimi.
+	b) Drejtues Teknik – z. Sami Bruçi.
 
 	3. Zona e shërbimit të shoqërisë rajonale Ujësjellës-Kanalizime Dibër sh.a. janë bashkitë Dibër, Mat, Bulqizë, Klos.
 
