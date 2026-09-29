@@ -1,0 +1,1 @@
+4. Pagimi i shumave të depozituara, sipas përcaktimeve në pikën 3, të këtij vendimi, në favor të kërkuesit, bëhet nga Ministria e Financave, pas paraqitjes së dokumentacionit të nevojshëm ligjor për kryerjen e pagesave nga buxheti i shtetit, brenda afatit 3-mujor nga dita kur vendimi i Gjykatës është bërë përfundimtar.

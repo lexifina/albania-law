@@ -1,0 +1,1 @@
+3. Vlerat e përcaktuara si detyrim në pikën 1, të këtij vendimi, depozitohen në një nga bankat e nivelit të dytë, në emër të kërkuesit, në vlerën që shteti shqiptar detyrohet, sipas vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 23.6.2026, për çështjen “Elezi kundër Shqipërisë”, kërkesa nr. 17141/21.
