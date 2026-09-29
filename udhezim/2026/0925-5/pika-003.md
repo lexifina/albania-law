@@ -1,0 +1,1 @@
+3. Dokumentacioni i parashikuar në pikën 2 të këtij udhëzimi administrohet në formë fizike ose elektronike, duke garantuar integritetin, autenticitetin dhe disponueshmërinë e tij gjatë të gjithë afatit të ruajtjes.

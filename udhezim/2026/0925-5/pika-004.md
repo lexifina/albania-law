@@ -1,0 +1,1 @@
+4. Lobisti ruan dokumentacionin e parashikuar në pikën 2 të këtij udhëzimi për një periudhë jo më pak se 5 (pesë) vjet. Afati i ruajtjes fillon nga data në të cilën dokumenti është hartuar, nënshkruar, lëshuar, miratuar ose ka prodhuar efekt, sipas natyrës dhe mënyrës së krijimit të dokumentit përkatës.
