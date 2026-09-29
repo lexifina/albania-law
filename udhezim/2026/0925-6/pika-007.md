@@ -1,0 +1,1 @@
+7. Njoftimi për heqjen dorë nga ushtrimi i veprimtarisë së lobimit për shkak të konfliktit të interesit bëhet me shkrim, përmban arsyet e heqjes dorë dhe i paraqitet Komisionerit dhe përfituesit të lobimit.

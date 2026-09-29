@@ -1,0 +1,1 @@
+13. Për qëllime të verifikimit, Komisioneri mund të konsultojë regjistrat publikë dhe burimet e tjera zyrtare të informacionit, si dhe të bashkëpunojë me autoritetet kompetente, në përputhje me kompetencat e parashikuara në ligj.

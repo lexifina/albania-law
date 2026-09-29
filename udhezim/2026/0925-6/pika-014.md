@@ -1,0 +1,1 @@
+14. Kur gjatë verifikimit konstatohen indicie për shkelje të Kodit të Sjelljes, në lidhje me konfliktin e interesit, Komisioneri vijon procedurën nëpërmjet zhvillimit të hetimit administrativ, në përputhje me Kodin e Procedurave Administrative dhe ligjin.

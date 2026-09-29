@@ -1,0 +1,2 @@
+17. Për zbatimin e këtij udhëzimi ngarkohen lobisti, përfituesi i lobimit, struktura përgjegjëse pranë Komisionerit për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale, si dhe çdo zyrtar publik që ushtron funksione publike, funksione vendimmarrëse ose këshilluese në autoritetin publik të përfshirë në veprimtarinë e lobimit, sipas ligjit.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

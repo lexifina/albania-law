@@ -1,0 +1,1 @@
+6. Për çdo kontratë lobimi të lidhur, lobisti paraqet pranë Komisionerit, brenda afatit të parashikuar në ligj, deklaratën për mungesën e konfliktit të interesit, në përputhje me nenin 13, pika 1, shkronja “c”, dhe nenin 20 të ligjit.

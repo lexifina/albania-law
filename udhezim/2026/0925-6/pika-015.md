@@ -1,0 +1,1 @@
+15. Në përfundim të procedurës së hetimit administrativ, nëse konstaton se lobisti ka shkelur Kodin e Sjelljes në lidhje me konfliktin e interesit, Komisioneri merr vendim të arsyetuar dhe vendos masën administrative të parashikuar në nenin 24, shkronja “ë”, të ligjit.

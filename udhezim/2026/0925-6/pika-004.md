@@ -1,0 +1,3 @@
+4. Në rastet e mëposhtme, lobisti vepron si vijon:
+a) nëse konflikti i interesit konstatohet pas lidhjes së kontratës së lobimit, njofton menjëherë përfituesin e lobimit dhe Komisionerin, si dhe heq dorë nga ushtrimi i veprimtarisë së lobimit, duke ndërmarrë masat e nevojshme për përfundimin e marrëdhënies kontraktore, në përputhje me legjislacionin në fuqi;
+b) nëse përfaqëson ose angazhohet për dy ose më shumë përfitues lobimi me interesa të kundërt në të njëjtën çështje, në kuptim të pikës 2, të nenit 20 të ligjit, refuzon lidhjen e kontratës ose heq dorë nga ushtrimi i veprimtarisë së lobimit në çështjen përkatëse, njofton me shkrim përfituesin ose përfituesit e lobimit dhe, kur kontrata është lidhur, njofton edhe Komisionerin.

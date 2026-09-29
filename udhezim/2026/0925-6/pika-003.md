@@ -1,0 +1,1 @@
+3. Përpara lidhjes së kontratës së lobimit, lobisti verifikon, mbi bazën e informacionit që disponon dhe duke vepruar në mirëbesim, nëse ekziston ndonjë rrethanë që mund të përbëjë konflikt interesi sipas nenit 20 të ligjit. Kur, si rezultat i këtij verifikimi, konstaton ekzistencën e një konflikti interesi, lobisti njofton përfituesin e lobimit dhe nuk lidh kontratën.
