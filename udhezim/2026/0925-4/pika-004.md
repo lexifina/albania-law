@@ -1,0 +1,1 @@
+4. Verifikimi kryhet nga struktura përgjegjëse e Komisionerit, nëpërmjet shqyrtimit të dokumentacionit të depozituar dhe të çdo informacioni tjetër të administruar në përputhje me legjislacionin në fuqi.

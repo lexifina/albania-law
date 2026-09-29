@@ -1,0 +1,1 @@
+11. Kur, në përfundim të hetimit administrativ, konstatohet një shkelje për të cilën ligji parashikon përgjegjësi administrative, Komisioneri merr vendim të arsyetuar dhe, sipas rastit, vendos masën administrative përkatëse të parashikuar në nenin 24 të ligjit, në përputhje me ligjin dhe Kodin e Procedurave Administrative.

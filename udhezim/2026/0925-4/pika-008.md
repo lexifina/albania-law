@@ -1,0 +1,1 @@
+8. Korrigjimi ose përditësimi i të dhënave sipas pikës 7 të këtij udhëzimi kryhet nëpërmjet formularit “Njoftimi për korrigjimin ose përditësimin e të dhënave në Regjistrin e Lobimit”, që i bashkëlidhet këtij udhëzimi si aneksi nr. 2. Njoftimi shoqërohet me dokumentacionin përkatës, kur korrigjimi ose përditësimi kërkon provë dokumentare.

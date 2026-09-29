@@ -1,0 +1,1 @@
+7. Në rast konstatimi të pasaktësive, mospërputhjeve ose mungesës së të dhënave të detyrueshme që duhet të ishin deklaruar sipas ligjit, Komisioneri njofton menjëherë lobistin, i cili është i detyruar të marrë masat e nevojshme për korrigjimin e të dhënave brenda afatit prej 30 (tridhjetë) ditësh, në përputhje me pikën 2, të nenit 22 të ligjit.

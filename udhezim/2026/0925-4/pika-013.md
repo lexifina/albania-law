@@ -1,0 +1,1 @@
+13. Për zbatimin e këtij udhëzimi ngarkohet struktura përgjegjëse për mbikëqyrjen, kontrollin dhe verifikimin e veprimtarive të lobimit, pranë Komisionerit për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale.

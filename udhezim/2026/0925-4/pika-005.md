@@ -1,0 +1,1 @@
+5. Gjatë verifikimit, struktura përgjegjëse e Komisionerit mund t’u kërkojë lobistëve dhe përfituesve të lobimit informacion, si dhe zyrtarëve publikë sqarime për kontaktet e zhvilluara me lobistët, kur kjo është e nevojshme për verifikimin e saktësisë dhe përditësimit të të dhënave në Regjistrin e Lobimit, në përputhje me nenin 21 të ligjit.
