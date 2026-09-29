@@ -1,0 +1,1 @@
+2. Formulari standard “Deklarata e veprimtarisë së lobimit” plotësohet në mënyrë të plotë, të saktë dhe të lexueshme dhe nënshkruhet nga lobisti ose nga personi i autorizuar ligjërisht për ta përfaqësuar atë. Lobisti mban përgjegjësi për saktësinë dhe plotësinë e të dhënave të deklaruara.

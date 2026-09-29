@@ -1,0 +1,1 @@
+1. Miratohet formulari standard “Deklarata e veprimtarisë së lobimit”, sipas aneksit A, bashkëlidhur këtij udhëzimi dhe pjesë përbërëse e tij. Deklarata e veprimtarisë së lobimit paraqitet sipas këtij formulari.

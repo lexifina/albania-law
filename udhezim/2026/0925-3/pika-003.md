@@ -1,0 +1,1 @@
+3. Kur deklarata e veprimtarisë së lobimit është e paplotë ose përmban mospërputhje me të dhënat e regjistruara në Regjistrin e Lobimit, Komisioneri njofton lobistin për plotësimin ose korrigjimin e saj, duke përcaktuar mangësitë ose pasaktësitë që duhet të plotësohen ose korrigjohen.
