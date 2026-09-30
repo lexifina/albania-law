@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Arsimit, për Universitetin “Fan S. Noli”, Korçë për ushtrimin e aktivitetit sipas fushës së përgjegjësisë shtetërore.
