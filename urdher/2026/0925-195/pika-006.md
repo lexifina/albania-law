@@ -1,0 +1,1 @@
+6. Temat e aktiviteteve të përfshira në kalendarin vjetor përcaktohen mbi bazën e një vlerësimi të nevojave për informim dhe ndërgjegjësim të lobistëve, zyrtarëve publikë dhe publikut të gjerë, duke marrë në konsideratë edhe problematikat e evidentuara gjatë zbatimit të ligjit.

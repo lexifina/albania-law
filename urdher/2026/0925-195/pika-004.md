@@ -1,0 +1,1 @@
+4. Autoritetet publike dhe institucionet e përfshira në procese vendimmarrëse bashkëpunojnë me Komisionerin për organizimin dhe zhvillimin e aktiviteteve informuese dhe ndërgjegjësuese, si dhe sigurojnë pjesëmarrjen e punonjësve të tyre në këto veprimtari.

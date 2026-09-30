@@ -1,0 +1,1 @@
+1. Organizimin e aktiviteteve informuese dhe ndërgjegjësuese për lobistët, zyrtarët publikë dhe publikun e gjerë, me qëllim rritjen e njohurive për rregullat e lobimit, detyrimet ligjore dhe masat për parandalimin e ndikimeve të papërshtatshme në ushtrimin e veprimtarisë së lobimit.

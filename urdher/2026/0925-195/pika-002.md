@@ -1,0 +1,1 @@
+2. Aktivitetet informuese dhe ndërgjegjësuese hartohen dhe zhvillohen në mënyrë transparente, objektive, gjithëpërfshirëse dhe jodiskriminuese, duke garantuar trajtimin e barabartë të subjekteve të ligjit.
