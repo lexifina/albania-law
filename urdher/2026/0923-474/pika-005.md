@@ -1,0 +1,1 @@
+5. Në rast të moszbatimit të detyrimeve, nga institucioni arsimor privat parauniversitar, i nivelit të arsimit bazë, shkolla “Miqësia”, të përcaktuara në pikën 2, të këtij urdhri, Zyra Vendore e Arsimit Parauniversitar Shkodër të marrë të gjitha masat, sipas legjislacionit në fuqi.
