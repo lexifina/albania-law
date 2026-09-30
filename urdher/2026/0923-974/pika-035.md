@@ -1,0 +1,3 @@
+35.
+Shalës
+Kurtalli

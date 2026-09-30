@@ -1,0 +1,3 @@
+28.
+Gostimë
+Gjyralë
