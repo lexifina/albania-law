@@ -1,0 +1,1 @@
+3. Vendimi nr. 30, datë 20.1.2016, i Këshillit të Ministrave, “Për shpalljen e Qendrës Historike të fshatit Vuno dhe miratimin e rregullores për administrimin e saj të zonës së mbrojtur përreth”, shfuqizohet.
