@@ -1,0 +1,11 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Shëndetësisë dhe Mirëqenies Sociale, z. Enea Hoti, Sekretar i Përgjithshëm:
+a) të nënshkruajë autorizimet për përfaqësimin ligjor të Ministrisë së Shëndetësisë dhe Mirëqenies Sociale, në emër të personit që do të përfaqësojë ministrinë në të gjitha shkallët e gjykimit, duke përfshirë kërkesëpadi, kërkesë, shtim, pakësim, saktësim apo heqje dorë nga objekti i kërkesëpadisë, kundërpadi, ankim dhe rekurs kundër vendimeve të ndërmjetme dhe përfundimtare, kërkesë për pezullim, kërkesë për përjashtim gjyqtari, si dhe çdo kërkesë tjetër që ka lidhje apo del nga rrethanat e gjykimit të kësaj çështjeje, si edhe t’i nënshkruajë ato.
+Përfaqësuesi i autorizuar nga z. Enea Hoti, i përcaktuar sipas kësaj pike, ka të drejtë të kryejë çdo veprim procedural përpara gjykatës, konform parashikimeve të ligjit nr. 44/2015, “Kodi i Procedurave Administrative të Republikës së Shqipërisë”, përveç rasteve kur kjo e drejtë kufizohet në aktin e autorizimit;
+b) delegimin e kompetencave të titullarit të autoritetit kontraktor, për të gjitha procedurat e prokurimeve publike me fonde buxhetore dhe të huaja për Ministrinë e Shëndetësisë dhe Mirëqenies Sociale;
+c) delegimin e kompetencave të titullarit të autoritetit kontraktor për procedurat e koncesioneve dhe partneritetin publik privat me fonde buxhetore për Ministrinë e Shëndetësisë dhe Mirëqenies Sociale;
+d) të nënshkruajë autorizimet për dërgim me shërbim të punonjësve të Ministrisë së Shëndetësisë dhe Mirëqenies Sociale jashtë qendrës së punës, brenda vendit të punës, në largësi mbi 100 km dhe jashtë vendit,
+e) të nënshkruajë ankimet administrative drejtuar Ministrisë së Shëndetësisë dhe Mirëqenies Sociale;
+f) të nënshkruajë komunikimet e Ministrisë së Shëndetësisë dhe Mirëqenies Sociale me institucionet e administratës publike dhe palët e treta, me përjashtim të atyre komunikimeve dhe akteve që ligji ia atribuon ministrit;
+g) të nënshkruajë aktet që rregullojnë marrëdhëniet e punës për punonjësit administrativë të ministrisë;
+h) të nënshkruajë urdhrin për dërgimin me shërbim jashtë vendit, të punonjësve të institucioneve të varësisë;
+i) të kryejë çdo veprimtari tjetër të ngarkuar me urdhër nga ministri.
