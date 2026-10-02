@@ -1,0 +1,1 @@
+2. Ngarkohen Autoriteti i Sigurisë Hekurudhore, sipërmarrjet hekurudhore, administratorët e infrastrukturës, subjektet përgjegjëse për mirëmbajtjen dhe subjektet projektuese për ndjekjen dhe zbatimin e këtij urdhri.

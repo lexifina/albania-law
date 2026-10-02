@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi modulet për procedurat për vlerësimin e konformitetit, përshtatshmërinë për përdorim dhe verifikimin CE që do të përdoren në kushtet teknike për ndërveprimin (TSI)”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
