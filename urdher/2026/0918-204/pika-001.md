@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për miratimin e listës së parametrave për klasifikimin e rregullave kombëtare për ndërveprimin e sistemit hekurudhor”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
