@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e një formulari të përbashkët për kërkesat e rimbursimit dhe kompensimit të udhëtarëve hekurudhorë”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
