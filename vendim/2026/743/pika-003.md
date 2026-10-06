@@ -1,0 +1,1 @@
+3. Ofruesi i vullnetarizmit është i detyruar të ruajë konfidencialitetin e të dhënave personale të vullnetarit, në përputhje me legjislacionin për mbrojtjen e të dhënave personale, duke marrë të gjitha masat e duhura organizative dhe teknike për ruajtjen e tyre.
