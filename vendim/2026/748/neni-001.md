@@ -1,0 +1,3 @@
+# Neni 1
+Objekti
+Ky vendim përcakton rregullat e hollësishme për mbikëqyrjen, kontrollin dhe inspektimin e subjekteve të licencuara apo të lejuara, si dhe të veprimtarive të ushtruara prej tyre në fushën e importit, kultivimit, përpunimit, prodhimit, magazinimit, ruajtjes, transportit, qarkullimit, eksportit, sekuestrimit, konfiskimit dhe asgjësimit të bimës së cannabis-it, si dhe të nënprodukteve e produkteve të saj për qëllime mjekësore apo industriale, në zbatim të ligjit nr. 61/2023, “Për kontrollin e kultivimit dhe përpunimit të bimës së cannabis-it dhe prodhimit të nënprodukteve të saj për qëllime mjekësore dhe industriale” (në vijim “ligji nr. 61/2023”).
