@@ -1,0 +1,5 @@
+# Neni 17
+Vlerësimi i rastit për vendosjen e fëmijës në kujdes alternativ në familje
+1. Vlerësimi i rastit për vendosjen e fëmijës në kujdes alternativ në familje kryhet nga njësia për mbrojtjen e fëmijës dhe njësia e vlerësimit të nevojave dhe referimit, në përputhje me legjislacionin në fuqi për mbrojtjen e fëmijës, për kujdesin alternativ në familje dhe aktet nënligjore në fuqi për procedurat e referimit dhe menaxhimit të rasteve të fëmijëve në nevojë për kujdes alternativ në familje dhe kriteret, procedurat dhe instrumentet për vlerësimin dhe vlerësimin periodik të situatës së fëmijës së vendosur në kujdes alternativ në familje.
+2. Komisioni shumëdisiplinar shqyrton dosjen e rastit, brenda 5 (pesë) ditëve punë nga paraqitja e saj. Në rastet emergjente, shqyrtimi bëhet menjëherë, por jo më vonë se 24 (njëzet e katër) orë nga momenti i referimit.
+3. Komisioni shumëdisiplinar vlerëson përputhshmërinë ndërmjet nevojave të fëmijës dhe profilit të familjes kujdestare të miratuar dhe të regjistruar në Regjistrin Elektronik për Kujdesin Alternativ në Familje, e cila ka përmbushur të gjitha procedurat e vlerësimit dhe trajnimit, dhe është në pritje për vendosje.
