@@ -1,1 +1,1 @@
-4. Vlera e përgjithshme e shpronësimit, prej 10 703 498 (dhjetë milionë e shtatëqind e tre mijë e katërqind e nëntëdhjetë e tetë) lekësh, përballohet nga Autoriteti Rrugor Shqiptar.
+4. Vlera e përgjithshme e shpronësimit, prej 11 899 451 (njëmbëdhjetë milionë e tetëqind e nëntëdhjetë e nëntë mijë e katërqind e pesëdhjetë e një) lekësh, përballohet nga Autoriteti Rrugor Shqiptar.
