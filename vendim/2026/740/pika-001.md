@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Pastrimi i kolektorit nga rruga ’Demokracia’ deri tek rruga ’Vasil Puka’, Bashkia Vlorë”.
