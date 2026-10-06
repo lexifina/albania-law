@@ -1,0 +1,26 @@
+{
+  "qbz_id": 34407,
+  "title": "Për daljen në rezervë të oficerit me gradë madhore",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "507",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2026-10-01",
+  "published": "2026-10-06",
+  "in_force": "2026-10-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/fa8bf9d61c89b5e2e9c663f88961c7ca91889fea85a536b108de862954fdb8a2.docx",
+  "source_sha256": "fa8bf9d61c89b5e2e9c663f88961c7ca91889fea85a536b108de862954fdb8a2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/34407",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2026/10/01/507",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
