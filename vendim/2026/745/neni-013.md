@@ -1,0 +1,6 @@
+# Neni 13
+Dispozita të fundit
+1. Ngarkohen ministria përgjegjëse për çështjet sociale, Shërbimi Social Shtetëror, Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës dhe njësitë e vetëqeverisjes vendore, dhe institucionet e tjera të përfshira në sistem për zbatimin e këtij vendimi.
+2. Kërkesat dhe procedurat që preken nga ky vendim do të zbatohen pas realizimit të zhvillimeve teknike dhe funksionale të nevojshme në sistemin përkatës elektronik.
+3. Personat përgjegjës për zbatimin e këtij vendimi trajnohen nga Shërbimi Social Shtetëror për përdorimin teknik të sistemit, hedhjen dhe përditësimin e të dhënave, përpunimin e raporteve, dokumentimin profesional të rastit, mbrojtjen e të dhënave personale, ruajtjen e konfidencialitetit dhe përdorimin e regjistrit në funksion të menaxhimit të rastit dhe monitorimit të cilësisë së kujdesit alternativ në familje.
+4. Administrimi dhe përditësimi i të dhënave kryhet nga Shërbimi Social Shtetëror, në bashkëpunim me njësitë e vetëqeverisjes vendore, në përputhje me këtë vendim. Institucionet përgjegjëse (përdorues të sistemit), sipas roleve të tyre, janë të detyruara të hedhin dhe të përditësojnë të dhënat brenda afateve të përcaktuara, në përputhje me këtë vendim dhe aktet nënligjore në fuqi.
