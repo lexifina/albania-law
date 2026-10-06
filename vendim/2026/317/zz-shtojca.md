@@ -1633,3 +1633,54 @@ NDËRTESË
 VLERA TOTALE
 107,417,856
 126,284,521
+LISTA EMËRORE E PRONARËVE, PASURITË E PALUAJTSHME, PRONË PRIVATE, TË TË CILËVE PREKEN NGA SHPRONËSIMI, PËR INTERES PUBLIK, PËR REALIZIMIN E PROJEKTIT “NDËRTIM RRUGA KASHAR - NYJA VAQARR, FAZAT I DHE II”
+Numër rendor
+Pronar
+Të dhënat kadastrale (sipas kartelës së pasurisë)
+Vlerësimet për shpronësim sipas llojit të pasurisë
+Vlera totale
+shënime (kufizim hipotekore barra mbi pasurinë etj.)
+Shpronësimi tokë “arë”
+Shpronësimi “truall”
+Shpronësimi “ndërtesë”
+Shpronësimi “ndërtesë social-ekonomike”
+Emër
+Atësi
+Mbiemër
+Zona kadastrale
+Nr. i pasurie
+Lloji i pasurisë
+Sipërfaqe totale
+“Truall”(m2)
+“Ndërtesë” (m2)
+Volumi
+Faqe
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera sipas preventivit (lekë)
+158
+Dervish
+Hysen
+Gjoka
+1017
+36/1
+Truall
+154.5
+154.5
+51.5
+3
+136
+154.5
+490
+75,705
+51.5
+3,469,500
+3,545,205
+VLERA TOTALE
+3,545,205
