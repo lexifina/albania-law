@@ -273,7 +273,7 @@ Vresht
 655
 192
 125,760.00
-125,760.00
+1,321,713.00
 Konfirmuar nga ASHK-ja
 17
 Aleks
@@ -292,3 +292,5 @@ Vlera totale
 1040
 199,680.00
 199,680.00
+Efekti financiar shtesë
+1,195,953.00
