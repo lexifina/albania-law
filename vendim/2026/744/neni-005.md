@@ -1,0 +1,6 @@
+# Neni 5
+Përgjegjësitë e strukturave vendore
+1. Punonjësi për mbrojtjen e fëmijës/Njësia për Mbrojtjen e Fëmijës është përgjegjës/e për monitorimin e drejtpërdrejtë të situatës së fëmijës, përfshirë vizitat në familjen kujdestare, takimet me fëmijën, familjen biologjike/aktuale, vlerësimin e nevojave, dokumentimin e gjetjeve dhe propozimin e masave të nevojshme.
+2. Njësia e Vlerësimit të Nevojave dhe Referimit shqyrton ecurinë e rastit, vlerëson përmbushjen e nevojave të fëmijës, fuqizimin e familjes biologjike, kur kjo është e parashikuar, dhe, kur është e nevojshme, rekomandon rishikimin e planit individual, ndryshimin e masave mbrojtëse ose referimin pranë strukturave të tjera kompetente.
+3. Struktura përgjegjëse për shërbimet sociale në bashki siguron organizimin institucional të monitorimit, administron raportet, ndjek zbatimin e masave korrigjuese dhe koordinon bashkëpunimin ndërmjet strukturave vendore.
+4. Në rastet kur shërbimi i kujdesit alternativ në familje ofrohet me mbështetjen e organizatave të shoqërisë civile dhe aktorëve të tjerë me përvojë në fushën e mbrojtjes së fëmijës dhe shërbimeve shoqërore, këto subjekte bashkëpunojnë me strukturat përgjegjëse dhe vendosin në dispozicion informacionin dhe dokumentacionin e nevojshëm për realizimin e monitorimit, në përputhje me legjislacionin dhe marrëveshjen përkatëse.

@@ -1,0 +1,7 @@
+# Neni 14
+Monitorimi i familjes kujdestare
+1. Familja kujdestare monitorohet periodikisht për të vlerësuar aftësinë, qëndrueshmërinë dhe përshtatshmërinë e saj për të përmbushur nevojat e fëmijës.
+2. Gjatë monitorimit të familjes kujdestare vlerësohen kushtet e jetesës dhe siguria e mjedisit familjar, marrëdhënia e fëmijës me kujdestarët, aftësia e familjes për të përmbushur nevojat fizike, emocionale, arsimore, shëndetësore e sociale të fëmijës, bashkëpunimi me strukturat përgjegjëse e nevoja për mbështetje shtesë. Gjatë procesit të monitorimit vlerësohet edhe kapaciteti i familjes kujdestare për vetëreflektim dhe përmirësim të vazhdueshëm të praktikave të kujdesit, si dhe gatishmëria e saj për të pranuar dhe për të zbatuar rekomandimet profesionale.
+3. Kur evidentohen vështirësi në ushtrimin e kujdesit, struktura përgjegjëse përcakton masa mbështetëse për familjen kujdestare, përfshirë këshillim, orientim profesional, mbështetje psikosociale, trajnim ose referim pranë shërbimeve të tjera.
+4. Kur familja kujdestare nuk bashkëpunon, nuk zbaton planin individual ose krijon rrethana që cenojnë interesin më të lartë të fëmijës, struktura përgjegjëse propozon rishikimin e vendosjes dhe ndërmarrjen e masave përkatëse, sipas legjislacionit në fuqi.
+5. Shpeshtësia e monitorimit përcaktohet në varësi të llojit të familjes kujdestare dhe nivelit të nevojës së fëmijës. Familjet kujdestare profesionale i nënshtrohen monitorimit më të shpeshtë dhe më të strukturuar, për shkak të natyrës së specializuar të kujdesit që ofrojnë.
