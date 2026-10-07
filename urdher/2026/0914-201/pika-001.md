@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi kushtet teknike të ndërveprimit (TSI) për nënsistemin e mjeteve hekurudhore-lokomotivat dhe vagonët e udhëtarëve të sistemit hekurudhor”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
