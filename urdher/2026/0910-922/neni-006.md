@@ -1,0 +1,7 @@
+# Neni 6
+Dispozita të përgjithshme për laboratorët e autorizuar
+3. Për analiza kimike dhe fizike, vera ose mushti duhet të jenë të kthjellët. Nëse vera ose mushti është i turbullt, fillimisht filtrohet përmes letrës filtruese në një hinkë të mbuluar ose centrifugohet në një enë të mbyllur. Ky veprim duhet të shënohet në çdo dokumentacion të kërkuar.
+4. Referenca e metodës së përdorur për çdo përcaktim, duhet të përmendet në çdo dokumentacion të kërkuar.
+5. Njësitë matëse për madhësitë e ndryshme si volum, masë, përqendrim, temperaturë, presion, etj. duhet të jenë në përputhje me rekomandimet e Bashkimit Ndërkombëtar për Kimi të Pastër dhe të Aplikuar (IUPAC).
+6. Në lidhje me reagentët dhe solucionet e titrimit të përdorura, përveçse kur kërkohet ndryshe në tekst, kimikatet e përdorura duhet të jenë të “gradës analitike” dhe uji duhet të jetë i distiluar ose me pastërti ekuivalente.
+7. Metodat me enzima dhe përcaktimi i një numri parametrash duhet të bazohen në matje absolute të absorbancës (përthithjes), gjë që kërkon që spektrofotometrat të jenë të kalibruar për gjatësitë e valës dhe absorbancën. Gjatësitë e valës mund të kalibrohen duke përdorur linjat e Hg: 239.94, 248.0, 253.65, 280.4, 302.25, 313.16, 334.15, 365.43, 404.66, 435.83, 546.07, 578.0 dhe 1014.0 nm. Spektrofotometri mund të kalibrohet me anë të tretësirave referencë tregtare, të marra nga furnizues të përshtatshëm ose përmes filtrave me densitet neutral.

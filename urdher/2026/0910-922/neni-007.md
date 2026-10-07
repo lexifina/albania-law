@@ -1,0 +1,5 @@
+# Neni 7
+Metodat e analizës
+1. Verifikimi i përputhshmërisë së verërave me treguesit e përcaktuar në legjislacionin në fuqi për karakteristikat përkatëse, kryhet sipas rastit specifik për të cilin kërkohet të analizohet.
+2. Treguesit e verërave, të përcaktuar në legjislacionin në fuqi, përcaktohen me metodat e analizës të përshkruara në botimin më të fundit të “Kompendiumit të Metodave Ndërkombëtare të Analizës së Verës dhe Mushtit” të Organizatës Ndërkombëtare të Hardhisë dhe Verës (OIV), dhe rezultatet krahasohen me normat e legjislacionit në fuqi, duke marrë parasysh përsëritshmërinë dhe riprodhueshmërinë e metodës së analizës së përdorur.
+3. Metodat e rekomanduara të analizës, për treguesit më të zakonshëm të produkteve të përftuara nga përpunimi i rrushit për verë, janë të paraqitura në shtojcën 2 të këtij urdhri dhe pjesë përbërëse e tij. Për tregues të tjerë, përdoren metodat e analizës të përmendura në pikën 2 të këtij neni. Në të gjitha rastet, kur është e mundur, zbatohen metodat e tipit 1 ose tipit 2 në prioritet krahasuar me tipin 3 ose tipin 4, të përcaktuara në shtojcën 2 të këtij urdhri dhe pjesë përbërëse e tij.
