@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i nyjës që lidh rrugën e Laknasit me projektin ’Zgjerimi i superstradës Tiranë-Durrës’”.

@@ -1,0 +1,191 @@
+# Shtojca
+LISTA EMËRORE E PRONARËVE, PASURITË E PALUAJTSHME, PRONË PRIVATE TË TË CILËVE, SHPRONËSOHEN PËR INTERES PUBLIK, PËR REALIZIMIN E PROJEKTIT “NDËRTIM I NYJËS QË LIDH RRUGËN E LAKNASIT ME PROJEKTIN ’ZGJERIMI I SUPERSTRADËS TIRANË-DURRËS’”
+Nr.
+Pronarët
+Të dhënat kadastrale (sipas kartelës së pasurisë)
+Vlerësimi për shpronësim
+Vlera totale (lekë)
+Shënime
+Emri
+Atësia
+Mbiemri
+Zona kadastrale
+Numri i pasurisë
+Lloji i pasurisë
+Sip. totale m²
+Tokë “arë”
+Tokë “truall”
+Ndërtesë soc.-ek.
+Sipërfaqja e shpr. (m²)
+Çmimi (lekë/m²)
+Vlera lekë
+Sip. totale m²
+Sipërfaqja e shpr. (m²)
+Çmimi (lekë/m²)
+Vlera lekë
+Sip. totale m²
+Sipërfaqja e shpr. (m²)
+Vlera sipas preventivit lekë
+1
+QENDRA
+TREGTARE
+UNIVERS
+2679
+8/1
+Arë
+6,000.00
+1,026.50
+448
+459,872.00
+-
+459,872.00
+2
+ENERGIA
+B
+SHPK
+2679
+8/29
+truall
+-
+6575
+442.2
+4242
+1,875,812.40
+1,875,812.40
+3
+ANISA ENKELA FATJON SHKËLQIM
+THEODHORI SHABAN TELHA TELHA
+BELLO LOÇKA LOÇKA LOÇKA
+2679
+14/29
+Arë + truall
+1,006.50
+1,006.50
+448
+450,912.00
+410.5
+410.5
+4242
+1,741,341.00
+324.00
+324
+12,343,302.70
+14,535,555.70
+4
+BASHKIM
+QAZIM
+LOÇKA
+2679
+14/31
+Arë
+334.00
+334.00
+448
+149,632.00
+-
+149,632.00
+5
+NURI
+QAZIM
+LOÇKA
+2679
+14/34-ND
+NDËRTESË
+-
+-
+31.90
+31.9
+1,298,668.60
+1,298,668.60
+6
+NURI
+QAZIM
+LOÇKA
+2679
+14/32
+Arë + truall
+334.00
+85.40
+448
+38,259.20
+-
+38,259.20
+7
+ENGJËLLUSHE ERVIN ERION
+NURI QEMAL QEMAL
+LOÇKA LOÇKA LOÇKA
+2679
+14/33
+Arë
+335.00
+22.40
+448
+10,035.20
+-
+10,035.20
+8
+VIOLETA
+SHERIF
+MURATAJ
+2679
+11/57
+Truall
+1420
+0
+1420
+218.6
+4242
+927301.2
+927,301.20
+9
+XHEJMS
+MYZAFER
+MURATAJ
+2679
+11/74
+Truall
+2106.3
+-
+2106.3
+91.5
+4242
+388,143.00
+388,143.00
+10
+ERGISA ELONA
+ALBERT MYZAFER
+AVDIAJ MURATAJ
+2679
+11/75
+Truall
+265.3
+-
+265.3
+32.3
+4242
+137,016.60
+137,016.60
+11
+EDMOND
+ANASTAS
+ZISO
+2679
+13/99
+Arë
+1817
+215.40
+448
+96,499.20
+-
+96,499.20
+Vlera totale
+12,198.10
+2,690.20
+1,205,209.60
+10,777.10
+1,195.10
+5,069,614.20
+355.90
+355.90
+13,641,971.30
+19,916,795.10
