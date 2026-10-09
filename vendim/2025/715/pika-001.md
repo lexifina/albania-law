@@ -1,4 +1,21 @@
 1. Shpalljen “zonë me përparësi zhvillimin e ekonomisë malore” në territorin e Bashkisë Mat, si më poshtë vijon:
 a) Zona zhvillimore nr. 1, zona e liqeneve të Gërmanit, fshati Selixë, pjesë e Njësisë Administrative Komsi, me sipërfaqe 2 051 282 (dy milionë e pesëdhjetë e një mijë e dyqind e tetëdhjetë e dy) m², sipas hartës në sistemin KRGJSH të paraqitur mbi ortofoto;
 b) Zona zhvillimore nr. 2, zona ish-Vila e Zogut, fshati Selixë, pjesë e Njësisë Administrative Komsi, me sipërfaqe 1 585 237 (një milion e pesëqind e tetëdhjetë e pesë mijë e dyqind e tridhjetë e shtatë) m², sipas hartës në sistemin KRGJSH të paraqitur mbi ortofoto;
-c) Zona zhvillimore nr. 3, zona e kurorës së fshatit Selixë, pjesë e Njësisë Administrative Komsi, me sipërfaqe 2 564 391 (dy milionë e pesëqind e gjashtëdhjetë e katër mijë e treqind e nëntëdhjetë e një) m², sipas hartës në sistemin KRGJSH të paraqitur mbi ortofoto.
+c) Zona zhvillimore nr. 3, zona e kurorës së fshatit Selixë, pjesë e Njësisë Administrative Komsi, me sipërfaqe 2 564 391 (dy milionë e pesëqind e gjashtëdhjetë e katër mijë e treqind e nëntëdhjetë e një) m², sipas hartës në sistemin KRGJSH të paraqitur mbi ortofoto;
+ç) Zona nr. 4, fshati Macukull, pjesë e Njësisë Administrative Macukull, Bashkia Mat, qarku Dibër, me sipërfaqe 2 921 (dy mijë e nëntëqind e njëzet e një) ha, sipas hartës në sistemin KRGJSH;
+d) Zona nr. 5, fshati Bushkash, pjesë e Njësisë Administrative Ulëz, Bashkia Mat, qarku Dibër, me sipërfaqe 206 (dyqind e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+dh) Zona nr. 6, qyteti Ulëz, pjesë e Njësisë Administrative Ulëz, Bashkia Mat, qarku Dibër, me sipërfaqe 571 (pesëqind e shtatëdhjetë e një) ha, sipas hartës në sistemin KRGJSH;
+e) Zona nr. 7, fshati Madhesh, pjesë e Njësisë Administrative Ulëz, Bashkia Mat, qarku Dibër, me sipërfaqe 626 (gjashtëqind e njëzet e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+ë) Zona nr. 8, fshati Stojan, pjesë e Njësisë Administrative Ulëz, Bashkia Mat, qarku Dibër, me sipërfaqe 3 137 (tre mijë e njëqind e tridhjetë e shtatë) ha, sipas hartës në sistemin KRGJSH;
+f) Zona nr. 9, fshatrat Rukaj, Rremull, Prellë dhe Dukagjin, pjesë të njësive administrative Rukaj dhe Derjan, Bashkia Mat, qarku Dibër, me sipërfaqe 423 (katërqind e njëzet e tre) ha, sipas hartës në sistemin KRGJSH;
+g) Zona nr. 10, fshatrat Gjoçaj dhe Lam i Madh, pjesë të Njësisë Administrative Derjan, Bashkia Mat, qarku Dibër, me sipërfaqe 1 472 (një mijë e katërqind e shtatëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH;
+gj) Zona nr. 11, fshatrat Bruç dhe Laç, pjesë të Njësisë Administrative Rukaj, Bashkia Mat, qarku Dibër, me sipërfaqe 552 (pesëqind e pesëdhjetë e dy) ha, sipas hartës në sistemin KRGJSH;
+h) Zona nr. 12, fshatrat Vinjoll dhe Gjalish, pjesë të Njësisë Administrative Lis, Bashkia Mat, qarku Dibër, me sipërfaqe 1 602 (një mijë e gjashtëqind e dy) ha, sipas hartës në sistemin KRGJSH;
+i) Zona nr. 13, fshatrat Rremull, Rukaj, Derjan dhe Burgajet, pjesë të njësive administrative Rukaj, Derjan dhe Lis, Bashkia Mat, qarku Dibër, me sipërfaqe 827 (tetëqind e njëzet e shtatë) ha, sipas hartës në sistemin KRGJSH;
+j) Zona nr. 14, fshati Zall Gjoçaj, pjesë e njësive administrative Derjan dhe Macukull, Bashkia Mat, qarku Dibër, me sipërfaqe 595 (pesëqind e nëntëdhjetë e pesë) ha, sipas hartës në sistemin KRGJSH;
+k) Zona nr. 15, fshati Macukull, pjesë e Njësisë Administrative Macukull, Bashkia Mat, qarku Dibër, me sipërfaqe 157 (njëqind e pesëdhjetë e shtatë) ha, sipas hartës në sistemin KRGJSH;
+l) Zona nr. 16, fshatrat Baz dhe Karicë, pjesë e njësive administrative Baz dhe Komsi, Bashkia Mat, qarku Dibër, me sipërfaqe 2 534 (dy mijë e pesëqind e tridhjetë e katër) ha, sipas hartës në sistemin KRGJSH;
+ll) Zona nr. 17, fshati German, pjesë e Njësisë Administrative Komsi, Bashkia Mat, qarku Dibër, me sipërfaqe 731 (shtatëqind e tridhjetë e një) ha, sipas hartës në sistemin KRGJSH;
+m) Zona nr. 18, fshatrat Shëlli dhe Vig, pjesë të Njësisë Administrative Macukull, Bashkia Mat, qarku Dibër, me sipërfaqe 1 289 (një mijë e dyqind e tetëdhjetë e nëntë) ha, sipas hartës në sistemin KRGJSH;
+n) Zona nr. 19, fshatrat Midhë dhe Fshat Burrel, pjesë të njësive administrative Burrel dhe Komsi, Bashkia Mat, qarku Dibër, me sipërfaqe 566 (pesëqind e gjashtëdhjetë e gjashtë) ha, sipas hartës në sistemin KRGJSH;
+nj) Zona nr. 20, fshati Selixë, pjesë e Njësisë Administrative Komsi, Bashkia Mat, qarku Dibër, me sipërfaqe 63 (gjashtëdhjetë e tre) ha, sipas hartës në sistemin KRGJSH.
