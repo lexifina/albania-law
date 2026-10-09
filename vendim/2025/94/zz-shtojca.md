@@ -289,3 +289,39 @@ Truall
 934,350
 VLERA TOTALE
 13,684,429
+LISTA EMËRORE E PRONARËVE QË SHPRONËSOHEN PËR REALIZIMIN E PROJEKTIT “RIKONSTRUKSIONI I SEGMENTIT RRUGOR ’SHËN GJERGJI’ - ’NAUN KAÇAKU’ (ISH-URA ME SHKALLË - STACIONI I PATOSIT), FIER”
+Nr.
+Pronari
+Të dhënat kadastrale (sipas kartelës së pasurisë)
+Vlerësimet për shpronësim
+Shënime (D+E) (kufizime hipotekore, barrë mbi pasurinë etj.)
+“Truall”
+“Ndërtesë”
+Vlera totale
+Emër Atësi Mbiemër
+Zona kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sipërfaqja totale
+“Truall” (m2)
+“Ndërtesë” (m2)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Sipërfaqja (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+19
+Eugjen Themi Dëma Suzana Themi Rezhda Pranvera Themi Beka Ylli Themi Dëma Mimoza Themi Veli
+8531
+14/2
+Truall
+600
+600
+105.00
+23.7
+12,458.00
+295,255
+295,255
+VLERA TOTALE
+295,255
