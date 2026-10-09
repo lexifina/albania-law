@@ -118,3 +118,19 @@ Vendosja e të gjitha elementeve të disajnit, që përfshijnë:
 - elementet e sigurisë;
 - elementet e rubrikave, përbërësit e gjendjes civile të mbajtësit, të dhënat shtesë të mbajtësit;
 - kompozimi i shtresës mbrojtëse, si dhe pamja përfundimtare do të realizohen pas lidhjes së kontratës me kompaninë fituese.
+ANEKS NR. 3
+MËNYRA E SHPËRNDARJES SË LETËRNJOFTIMIT ELEKTRONIK PËR SHTETASIT SHQIPTARË
+I. VENDI I SHPËRNDARJES SË LETËRNJOFTIMIT ELEKTRONIK
+1. Shpërndarja e letërnjoftimit elektronik kryhet, si rregull, në zyrat e aplikimit, të administruara nga autoriteti përgjegjës për procesin e aplikimit dhe personalizimit të dokumentit të identifikimit, në të njëjtën zyrë ku është realizuar aplikimi.
+2. Në raste të veçanta, me qëllim lehtësimin e aksesit të shtetasve, autoriteti përgjegjës mund të përcaktojë edhe ambiente të tjera për realizimin e shpërndarjes, në përputhje me standardet e zbatueshme të sigurisë.
+II. PROCESI I SHPËRNDARJES SË LETËRNJOFTIMIT ELEKTRONIK
+1. Letërnjoftimi elektronik tërhiqet personalisht nga aplikuesi, në përputhje me protokollet teknike, të miratuara nga autoriteti përgjegjës.
+2. Autoriteti përgjegjës miraton procedura teknike të detajuara, që lidhen me procesin e shpërndarjes së letërnjoftimit elektronik:
+a) në zyrat brenda vendit;
+b) në zyrat jashtë vendit, pranë misioneve diplomatike dhe zyrave të posteve konsullore;
+c) në ambiente të tjera të posaçme, të miratuara për këtë qëllim;
+ç) në rastet e pamundësisë fizike dhe/ose objektive të shtetasit për të tërhequr letërnjoftimin elektronik në zyrat e miratuara për këtë qëllim.
+III. ADMINISTRIMI I LETËRNJOFTIMEVE ELEKTRONIKE TË PATËRHEQURA NGA APLIKUESIT
+1. Letërnjoftimet elektronike, të cilat nuk tërhiqen nga aplikuesit, ruhen nga strukturat e autoritetit përgjegjës për të paktën 12 (dymbëdhjetë) muaj nga data e prodhimit, por jo më vonë se muaji dhjetor i vitit pasardhës, referuar vitit të prodhimit të letërnjoftimit elektronik.
+2. Pas përfundimit të afatit, të përcaktuar në pikën 1, të këtij kreu, autoriteti përgjegjës evidenton të gjitha letërnjoftimet e pashpërndara dhe procedon me asgjësimin e tyre, në përputhje me legjislacionin në fuqi dhe procedurat e brendshme, të miratuara nga ky autoritet.
+3. Zyrat e aplikimit në misionet diplomatike dhe postet konsullore do të dërgojnë në rrugë postare pranë Ministrisë për Evropën dhe Punët e Jashtme letërnjoftimet elektronike, të cilat nuk janë tërhequr brenda 12 (dymbëdhjetë) muajsh nga aplikuesi, dhe kjo e fundit do t’i dorëzojë pranë autoritetit përgjegjës për të vijuar me procedurën e asgjësimit.
