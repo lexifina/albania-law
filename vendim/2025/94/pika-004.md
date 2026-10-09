@@ -1,1 +1,1 @@
-4. Vlera e përgjithshme e shpronësimit, prej 13 684 429 (trembëdhjetë milionë e gjashtëqind e tetëdhjetë e katër mijë e katërqind e njëzet e nëntë) lekësh, përballohet nga buxheti i Bashkisë Fier.
+4. Vlera e përgjithshme e shpronësimit, prej 13 979 684 (trembëdhjetë milionë e nëntëqind e shtatëdhjetë e nëntë mijë e gjashtëqind e tetëdhjetë e katër) lekë, përballohet nga buxheti i Bashkisë Fier.
