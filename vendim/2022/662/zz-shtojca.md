@@ -5761,3 +5761,60 @@ SHUMA TOTALE
 25,301,628.30
 43,316,333.00
 Efekti financiar shtesë 19,812,309.80 lekë
+LISTA EMËRORE E PRONARËVE QË SHPRONËSOHEN NGA REALIZIMI I PROJEKTIT PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR. 662, DATË 13.10.2022, “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR ’RISHIKIMI I PROJEKTIT PËR
+SEGMENTIN RRUGOR TË VAZHDIMIT TË ’UNAZËS SË MADHE’ TIRANË NGA ’SHESHI SHQIPONJA’ - ’BULEVARDI I RI’ DHE ’RIKUALIFIKIMI I ’UNAZËS LINDORE’ PËR LOTET 4,5,6’’, TË
+NDRYSHUAR
+Nr.
+Emri
+Atësia
+Mbiemri
+Të dhënat e pasurisë
+Tokë “truall”
+Tokë “arë”
+Ndërtesë soc.-ek.
+Objekt banimi
+Vlera totale (lekë)
+Shënime
+Zona kadastrale
+Numri i pasurisë
+Lloji i pasurisë
+Sip. totale m2
+Sipërfaqja e shpronësuar
+Çmimi
+Vlera
+Sip. totale m2
+Sipërfaqja e shpronësuar
+Çmimi
+Vlera
+Sip. totale m2
+Sipërfaqja e shpronësuar
+Vlera sipas preventivit
+Sip. totale m2
+Sipërfaqja e shpronësuar
+Çmimi
+Vlera
+(m2)
+(lekë/m2)
+lekë
+(m2)
+(lekë/m2)
+lekë
+(m2)
+lekë
+(m2)
+m2
+lekë
+341
+Hamit
+Velo
+Allka
+8170
+3/160
+Truall
+1,167
+72.2
+32,878
+2,373,791.60
+2,373,791.60
+VLERA TOTALE
+2,373,791.60
