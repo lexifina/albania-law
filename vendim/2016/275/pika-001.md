@@ -1,1 +1,0 @@
-1. Modelet dhe përshkrimet e medaljeve të Forcave të Armatosura të Republikës së Shqipërisë, që jepen sipas ligjit nr. 9/2015, “Për medaljet në Forcat e Armatosura të Republikës së Shqipërisë”, janë sipas lidhjeve 1-23, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.

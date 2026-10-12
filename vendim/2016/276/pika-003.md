@@ -1,1 +1,0 @@
-3. Shpërblimet për medaljet sipas pikës 1 të këtij vendimi, jepen, përkatësisht, nga ministri i Mbrojtjes, Shefi i Shtabit të Përgjithshëm të Forcave të Armatosura, komandanti i forcës dhe komandanti i komandës mbështetëse.
