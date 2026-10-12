@@ -1,0 +1,1 @@
+5. Dhënia e medaljeve, shenjave dhe distinktivëve të veçantë të nderit në Forcat e Armatosura të Republikës së Shqipërisë bazohet në parimet e mirënjohjes, vlerësimit të kontributit, meritokracisë, objektivitetit, përgjegjshmërisë, transparencës, proporcionalitetit dhe reciprocitetit ndërkombëtar.

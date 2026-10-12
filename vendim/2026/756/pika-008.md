@@ -1,0 +1,1 @@
+8. Dhënia e medaljeve, shenjave dhe distinktivëve të nderit bëhet me ceremoni zyrtare, e cila organizohet nga autoriteti që jep medaljen përkatëse, sipas këtij vendimi, në prani të efektivit të repartit, të pjesëtarëve të familjes së personit që do të marrë medaljen, shenjën ose distinktivin e nderit, si dhe të ftuarve të tjerë, sipas rastit.

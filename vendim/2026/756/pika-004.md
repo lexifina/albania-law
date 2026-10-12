@@ -1,0 +1,1 @@
+4. Medalje, shenja dhe distinktivë të nderit u jepen ushtarakëve të shërbimit aktiv, ushtarakëve në rezervë, në lirim, personelit civil, reparteve të Forcave të Armatosura të Republikës së Shqipërisë, si dhe ushtarakëve të huaj. Distinktivë të nderit u jepen gjithashtu studentëve/kadetëve dhe kursantëve ushtarakë.

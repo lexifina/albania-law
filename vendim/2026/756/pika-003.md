@@ -1,0 +1,1 @@
+3. Ky vendim zbatohet për subjektet e përcaktuara në të gjatë kryerjes së detyrave dhe ushtrimit të veprimtarive të tyre, brenda dhe jashtë territorit të Republikës së Shqipërisë, përfshirë misionet dhe operacionet ushtarake, veprimtaritë në ndihmë të popullsisë civile, shërbimin, stërvitjet e përbashkëta dhe misionet diplomatike.
