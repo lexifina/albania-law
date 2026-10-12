@@ -1,0 +1,1 @@
+1. Miratimin e aktit të themelimit dhe të statutit të shoqërisë “Operatori i Shoqërive Shtetërore”, sh.a., të krijuar në zbatim të nenit 7, të ligjit nr. 79/2026, “Për mbylljen e shoqërive tregtare me kapital shtetëror në likuidim”, sipas shtojcave nr. 1 dhe nr. 2, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
