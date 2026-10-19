@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së kushteve të veçanta të grantit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë (përfituesi) dhe Agjencisë Franceze të Zhvillimit (AFD), për projektin “Përmirësimi i ITUN Durrës dhe rehabilitimi i sistemit të kanalizimeve të ujërave të përdorura në zonën historike të qytetit të Durrësit”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
