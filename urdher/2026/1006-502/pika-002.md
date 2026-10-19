@@ -1,0 +1,1 @@
+2. Përzgjedhja e kandidatit për anëtar të Bordit të Administrimit të kryhet në përputhje me kriteret, procedurën dhe dokumentacionin që duhet dorëzuar, sipas përcaktimeve të vendimit nr. 782, datë 26.12.2018, të Këshillit të Ministrave dhe shtojcës nr. 1, bashkëlidhur këtij urdhri dhe pjesë përbërëse e tij.
