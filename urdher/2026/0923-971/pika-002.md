@@ -1,0 +1,2 @@
+2. Për zbatimin e këtij urdhri, ngarkohen Drejtoria e Përgjithshme e Zhvillimit në Fushën e Sigurisë Ushqimore, Veterinarisë, Mbrojtjes së Bimëve dhe Peshkimit, Autoriteti Kombëtar i Veterinarisë dhe Mbrojtjes së Bimëve, Autoriteti Kombëtar i Ushqimit, Instituti i Sigurisë Ushqimore dhe Veterinarisë dhe njësitë e vetëqeverisjes vendore.
+Ky urdhër hyn në fuqi menjëherë, botohet në Fletoren Zyrtare dhe i shtrin efektet nga data 11.7.2027.

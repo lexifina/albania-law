@@ -1,0 +1,1 @@
+1. Miratimin e Rregullores “Për përcaktimin e rregullave të stabilimenteve që mbajnë kafshë të tokës dhe vendeve për çeljen e vezëve, si dhe gjurmueshmërinë të disa kafshëve të mbajtura të tokës dhe e vezëve për çelje”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
