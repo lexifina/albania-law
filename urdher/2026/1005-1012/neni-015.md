@@ -1,0 +1,4 @@
+# Neni 15
+Periudhat kohore për aplikimin e mjeteve të identifikimit të kafshëve të mbajtura të llojit derra
+1. Operatorët sigurojnë që mjetet e identifikimit të përmendura në shkronjën “a”, të nenit 115, të Ligjit nr. 41, datë 26.6.2025, “Për shëndetin e kafshëve”, aplikohen për kafshët e mbajtura të llojit derra para tejkalimit të një periudhe maksimale kohore pas lindjes, që përcaktohet nga Autoriteti Kompetent për Kontrollet Zyrtare në të cilin kanë lindur kafshët. Periudha kohore maksimale llogaritet nga data e lindjes së kafshëve dhe nuk duhet të kalojë 9 muaj.
+2. Operatorët sigurojnë që kafshët e mbajtura të llojit derra nuk largohen nga stabilimenti i lindjes ose dalin nga zinxhiri i furnizimit, përveç rasteve kur për ato kafshë janë aplikuar mjetet e identifikimit të përmendura në shkronjën “a”, të nenit 115, të ligjit nr. 41, datë 26.6.2025, “Për shëndetin e kafshëve”.

@@ -1,0 +1,3 @@
+# Neni 6
+Rregullat operacionale në bazat e të dhënave kompjuterike për kafshët e mbajtura të llojit gjedh, dele, dhi dhe derra
+Autoriteti Kompetent për Kontrollet Zyrtare zbaton masat e duhura teknike dhe organizative për të siguruar që bazat e të dhënave kompjuterike për kafshët e mbajtura të llojit gjedh, dele, dhi dhe derra të përmendura në shkronjat “a” deri në “c”, të pikës 1, të nenit 109, të ligjit nr. 41, datë 26.6.2025, “Për shëndetin e kafshëve”, vazhdojnë të operojnë në rast të mosfunksionimit apo ndërprerjeve të mundshme. Këto masa garantojnë, gjithashtu, sigurinë, integritetin dhe vërtetësinë e informacionit të regjistruar në këto baza të dhënash.

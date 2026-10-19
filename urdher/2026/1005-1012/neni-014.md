@@ -1,0 +1,4 @@
+# Neni 14
+Periudhat kohore për aplikimin e mjeteve të identifikimit të kafshëve të mbajtura të llojit dele dhe dhi
+1. Operatorët sigurojnë që mjetet e identifikimit të përmendura në shkronjën “a”, të pikës 1, të nenit 113, të ligjit nr. 41, datë 26.6.2025, “Për shëndetin e kafshëve”, aplikohen për kafshët e mbajtura të llojit dele dhe dhi përpara tejkalimit të një periudhe maksimale kohore pas lindjes, që do të përcaktohet nga Autoriteti Kompetent për Kontrollet Zyrtare në të cilin kanë lindur kafshët. Periudha kohore maksimale llogaritet nga data e lindjes së kafshëve dhe nuk duhet të kalojë 9 muaj.
+2. Operatorët sigurojnë që asnjë kafshë e mbajtur e llojit dele ose dhi nuk largohet nga stabilimenti i lindjes, përveç rasteve kur për ato kafshë janë aplikuar mjetet e identifikimit të përmendura në shkronjën “a”, të pikës 1, të nenit 113, të ligjit nr. 41, datë 26.6.2025, “Për shëndetin e kafshëve”.

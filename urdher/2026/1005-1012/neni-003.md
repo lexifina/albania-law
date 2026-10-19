@@ -1,0 +1,11 @@
+# Neni 3
+Afatet dhe procedurat për dhënien e informacionit nga operatorët për regjistrimin e kafshëve të mbajtura të llojit gjedh, dele, dhi dhe derra
+1. Operatorët që mbajnë kafshë të llojit gjedh, dele, dhi dhe derra janë të detyruar të japin informacionin mbi lëvizjet, lindjet dhe ngordhjet sipas përcaktimeve në shkronjën “ç”, të nenit 112, të ligjit nr. 41, datë 26.6.2025, “Për shëndetin e kafshëve”, si dhe informacion mbi lëvizjet e tyre sipas shkronjës “c”, të pikës 1, të nenit 113, të ligjit nr. 41, datë 26.6.2025, “Për shëndetin e kafshëve” dhe të shkronjës “b”, të nenit 56, të urdhrit “Për përcaktimin e rregullave të stabilimenteve që mbajnë kafshë tokësore dhe vendeve për çeljen e vezëve, si dhe gjurmueshmërinë e disa kafshëve të mbajtura tokësore dhe e vezëve për çelje”, lidhur me regjistrimin në bazat e të dhënave kompjuterike të ngritura për ato specie, periudha kohore për dhënien e informacionit përcaktohet nga Autoriteti Kompetent për Kontrollet Zyrtare. Koha maksimale për dhënien e informacionit nuk duhet të kalojë 7 ditë nga lëvizja, lindja ose ngordhja e kafshëve, sipas rastit.
+2. Në rastin e lindjeve, kur përcaktohet periudha maksimale kohore për dhënien e informacionit, Autoriteti Kompetent për Kontrollet Zyrtare përdor datën kur mjeti i identifikimit vendoset te kafsha si pikënisje e afatit përkatës, me kusht që të mos ketë rrezik për ngatërrim midis kësaj date dhe datës së lindjes së kafshës.
+3. Me përjashtim të pikës 1, të këtij neni, Autoriteti Kompetent për Kontrollet Zyrtare mund të zgjasë periudhën maksimale kohore për dhënien e informacionit mbi lëvizjet e përmendura në pikën 1 të këtij neni deri në 14 ditë, pas lëvizjeve të gjedhëve brenda Republikës së Shqipërisë nga stabilimentet e origjinës në kullotat e regjistruara, të vendosura në zonat malore për kullotje. Autoriteti Kompetent për Kontrollet Zyrtare mund të vendosë të pranojë listat e gjedhëve që i nënshtrohen lëvizjeve në stabilimentet e kullotave të regjistruara nga operatorët e atyre stabilimenteve.
+Këto lista përmbajnë:
+a) numrin unik të regjistrimit të kullotës së regjistruar;
+b) kod identifikimi të kafshës;
+c) numrin unik të regjistrimit të stabilimentit/fermës së origjinës;
+ç) datën e mbërritjes së kafshëve në kullotën e regjistruar;
+d) datën e parashikuar të nisjes së kafshëve nga kullota e regjistruar.
