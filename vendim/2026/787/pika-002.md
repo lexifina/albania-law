@@ -1,0 +1,1 @@
+2. Në buxhetin e Ministrisë së Punëve të Brendshme, në zërin “Shpenzime korrente” të programit buxhetor “Policia e Shtetit”, shtohet fondi prej 740 080 000 (shtatëqind e dyzet milionë e tetëdhjetë mijë) lekësh.

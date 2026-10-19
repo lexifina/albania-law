@@ -1,0 +1,1 @@
+1. Dhënie shpërblimi financiar në masën prej 269 120 (dyqind e gjashtëdhjetë e nëntë mijë e njëqind e njëzet) lekësh për 2 750 (dy mijë e shtatëqind e pesëdhjetë) punonjës të Policisë së Shtetit për angazhimin e shtuar në garantimin e rendit dhe të sigurisë publike.
