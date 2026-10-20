@@ -4,6 +4,10 @@ Nr. 181, datë 12.9.2024
 
 MBI LICENCIMIN E SHOQËRISË “MAGNA SOLAR POWER” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE 
 
+(Ndryshuar me vendimin nr. 302, datë 20.10.2026)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a” dhe 38, pika 1, germa “a” të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, dhe 13 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe neneve 15 dhe 19, pika 1, germa “a” të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 12.9.2024, mbasi shqyrtoi relacionin me nr. 1756/9 prot., datë 9.9.2024, të Drejtorisë së Licencimit, Autorizimeve dhe Mbikëqyrjes “Mbi kërkesën e shoqërisë ‘Magna Solar Power’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -40,7 +44,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Magna Solar Power” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 2 mw, në fshatin Sheq Marinas, Njësia Administrative Topojë, Bashkia Fier, qarku Fier, për një afat 30-vjeçar
 
-2. Shoqëria duhet të fillojë ushtrimin e aktivitetit të prodhimit të energjisë elektrike nga centrali fotovoltaik, brenda afateve të përcaktuara në kontratën me MIE-n.
+2. Shfuqizuar.
 
 3. Ky vendim është objekt rishikimi në rast se depozitohet/konstatohet një dokumentacion i ndryshëm nga ai që ka shërbyer për këtë vendimmarrje. 
 
