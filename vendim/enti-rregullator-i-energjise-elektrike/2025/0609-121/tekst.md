@@ -4,6 +4,10 @@ Nr. 121, datë 9.6.2025
 
 MBI LICENCIMIN E SHOQËRISË “GREEN ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA CENTRALI FOTOVOLTAIK ME KAPACITET PRODHUES 2 MW
 
+(Ndryshuar me vendimin nr. 296, datë 20.10.2026)
+
+(i përditësuar)
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, 38 pika 1, germa “a”, 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; neneve 4, pika 1, germa “a”, 5, pika 1, germa “a”, 13 dhe 14, pika 9, të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin, njohjen dhe heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të Entit Rregullator të Energjisë (ERE) nr. 109, datë 29.6.2016, të ndryshuar; si dhe nenit 15 të rregullores “Për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i ERE-s, në mbledhjen e tij të datës 9.6.2025, mbasi shqyrtoi relacionin me nr. 1172/25 prot., datë 5.6.2025, të Drejtorisë së Licencimit dhe Autorizimeve “Mbi kërkesën e shoqërisë ‘Green Energy’ sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike”,
 
 konstatoi se: 
@@ -54,9 +58,9 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Green Energy” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 2 mw, me vendndodhje në fshatin Sheq Marinas, Njësia Administrative Topojë, Bashkia Fier, qarku Fier, për një afat 30-vjeçar.
 
-2. Shoqëria duhet të ndërtojë centralin dhe të fillojë operimin/ushtrimin e veprimtarisë së prodhimit të energjisë elektrike brenda datës 1.6.2026.
+2. Shfuqizuar.
 
-3. Me fillimin e operimit, por jo më vonë se 60 (gjashtëdhjetë) ditë nga ky fakt, shoqëria duhet të dokumentojë në ERE testimin e veprës dhe të përditësojë informacionin mbi strukturën organizative të saj, e cila duhet të përmbajë stafin teknik, sipas veprimtarisë së licencuar.
+3. Brenda datës 30.11.2026, shoqëria “Green Energy” sh.p.k., duhet të depozitojë në ERE informacion të përditësuar mbi strukturën organizative të saj, e cila duhet të përmbajë stafin teknik sipas veprimtarisë së licencuar.
 
 4. Ky vendim është objekt rishikimi, në rast të plotësimit/mosplotësimit të kushteve të pikave 2 dhe 3 të këtij vendimi dhe në rast se nga ana e Ministrisë së Infrastrukturës dhe Energjisë depozitohet një qëndrim i ndryshëm në lidhje me vlefshmërinë e kontratës.
 
