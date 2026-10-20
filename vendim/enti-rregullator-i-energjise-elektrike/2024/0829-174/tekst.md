@@ -4,7 +4,7 @@ Nr. 174, datë 29.8.2024
 
 MBI LICENCIMIN E SHOQËRISË “FAETHON” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE 
 
-(Ndryshuar me Vendimin nr. 317, datë 12.12.2025; nr. 151, datë 28.5.2026)
+(Ndryshuar me Vendimin nr. 317, datë 12.12.2025; nr. 151, datë 28.5.2026; nr. 299, datë 20.10.2026)
 
 (I përditësuar)
 
@@ -42,13 +42,13 @@ Për gjithë sa më sipër, Bordi i ERE-s
 
 VENDOSI:
 
-1. Të pezullojë vendimmarrjen për licencimin e shoqërisë “Faethon” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 78.6 mw AC, me vendndodhje në zonën kadastrale nr. 2444, Bashkia Libohovë, qarku Gjirokastër, deri në depozitimin në ERE të VNM-së paraprake të re, por jo më vonë se data 14.9.2026.
+1. Të refuzojë kërkesën e shoqërisë “Faethon” sh.p.k. për licencim në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik me kapacitet të instaluar 78.6 mw AC, me vendndodhje në zonën kadastrale nr. 2444, Bashkia Libohovë, qarku Gjirokastër.
 
 2. Shfuqizuar.
 
 3. Shfuqizuar.
 
-4. Ky vendim është objekt rishikimi nga ERE.
+4. Shfuqizuar.
 
 5. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë shoqërinë “Faethon” sh.p.k., shoqërinë “Operatori i Sistemit të Transmetimit” sh.a. dhe Ministrinë e Infrastrukturës dhe Energjisë për vendimin e Bordit të ERE-s.
 
