@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së përfaqësimit të ministrit përgjegjës për Pushtetin Vendor te zëvendësministri i Punëve të Brendshme, z. Oltjon Muzaka, si dhe të kompetencës për bashkëdrejtimin e mbledhjeve të Këshillit Konsultativ të Qeverisjes Qendrore me Vetëqeverisjen Vendore.
