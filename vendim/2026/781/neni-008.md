@@ -1,0 +1,3 @@
+# Neni 8
+Kujdesi shëndetësor dhe trajtimi
+Personave që trajtohen në institucionet mjekësore të posaçme u garantohet akses në kujdes shëndetësor, trajtim dhe rehabilitim, në përputhje me standardet e miratuara për shërbimet e shëndetit mendor, pa diskriminim, për shkak të statusit të tyre juridik, në përputhje me legjislacionin në fuqi për shëndetin mendor. Stafi multidisiplinar harton e zbaton planin individual të trajtimit të pacientit, si dhe administron një kartelë të përbashkët multidisiplinare, e cila shërben për rishikimin periodik të gjendjes së shëndetit mendor e të planit terapeutik të pacientit.
