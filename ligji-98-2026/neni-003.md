@@ -1,0 +1,2 @@
+# Neni 3
+Misioni i personelit të Forcave të Armatosura të Republikës së Shqipërisë në operacionin ushtarak të Forcës Ndërkombëtare të Stabilitetit në Gaza do të jetë mbështetja e operacioneve të sigurisë dhe stabilitetit, mbrojtja e personelit, objekteve dhe infrastrukturës së misionit, mbështetja e operacioneve humanitare, monitorimi dhe raportimi i situatës së sigurisë, si dhe detyra të tjera në përputhje me mandatin e misionit në kuadër të Bordit të Paqes.

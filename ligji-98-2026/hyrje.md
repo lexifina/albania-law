@@ -1,0 +1,9 @@
+LIGJ
+Nr. 98/2026
+PËR PJESËMARRJEN E FORCAVE TË ARMATOSURA
+TË REPUBLIKËS SË SHQIPËRISË NË OPERACIONIN USHTARAK
+TË FORCËS NDËRKOMBËTARE TË STABILITETIT NË GAZA
+Në mbështetje të neneve 12, pika 3, 78 dhe 83, pikat 1 e 2, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
