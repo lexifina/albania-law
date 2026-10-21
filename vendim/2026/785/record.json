@@ -1,0 +1,26 @@
+{
+  "qbz_id": 68598,
+  "title": "Për shfuqizimin e vendimit nr. 222, datë 7.4.2021, të Këshillit të Ministrave, “Për miratimin e listës së substancave kandidate”",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "785",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2026-10-14",
+  "published": "2026-10-21",
+  "in_force": "2026-10-21",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/d767443ff0cf55d5ce85bc1356a2e39ebe015286500fd02e415e9238c62031df.docx",
+  "source_sha256": "d767443ff0cf55d5ce85bc1356a2e39ebe015286500fd02e415e9238c62031df",
+  "official_record": "https://qbz.gov.al/api/v1/acts/68598",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2026/10/14/785",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
