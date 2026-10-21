@@ -1,0 +1,1 @@
+9. Emërimi i anëtarëve të Këshillit bëhet me urdhër të ministrit përgjegjës për arsimin, brenda 10 (dhjetë) ditëve pas përfundimit të procedurës së verifikimit të dokumentacionit dhe përmbushjes së kritereve ligjore.

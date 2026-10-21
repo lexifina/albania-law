@@ -1,0 +1,1 @@
+10. Miratimi i anëtarëve të Këshillit bëhet me urdhër të ministrit përgjegjës për arsimin. Kandidati që refuzohet, njoftohet me shkrim nga ministria përgjegjëse për arsimin, duke argumentuar arsyen e refuzimit.

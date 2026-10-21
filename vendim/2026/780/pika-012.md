@@ -1,0 +1,1 @@
+12. Mandati i anëtarit të Këshillit fillon nga data e përcaktuar në urdhrin e emërimit dhe zgjat 4 (katër) vjet, me të drejtë rizgjedhjeje, përveç rasteve të mbarimit të parakohshëm ose shkarkimit, sipas këtij vendimi. Procedura që ndiqet në këtë rast është e njëjtë me atë të përcaktuar në këtë vendim, për emërimin e anëtarëve të Këshillit.

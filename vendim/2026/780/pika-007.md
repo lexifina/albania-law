@@ -1,0 +1,1 @@
+7. Verifikimi i dokumentacionit dhe përmbushja e kritereve ligjore të emërimit bëhet nga ministria përgjegjëse për arsimin, brenda 10 (dhjetë) ditëve nga paraqitja e tij. Në rast mangësish, kërkohet plotësimi i dokumentacionit, brenda 5 (pesë) ditëve.

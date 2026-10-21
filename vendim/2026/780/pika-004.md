@@ -1,0 +1,1 @@
+4. Për anëtarët që propozohen nga donatorët/partnerët zhvillimorë, ministria përgjegjëse për arsimin u kërkon subjekteve, me të cilat ka marrëveshje bashkëpunimi për rritjen e kapaciteteve të Agjencisë, të paraqesin kandidaturat për vendet përkatëse, brenda 10 (dhjetë) ditëve nga data e marrjes së kërkesës.

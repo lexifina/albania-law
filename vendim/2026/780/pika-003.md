@@ -1,0 +1,1 @@
+3. Për anëtarin pa të drejtë vote, ministria përgjegjëse për arsimin i kërkon ministrisë përgjegjëse për arsimin profesional propozimin e përfaqësuesit të saj. Propozimi dërgohet në ministrinë përgjegjëse për arsimin, brenda 10 (dhjetë) ditëve nga data e marrjes së kërkesës.
