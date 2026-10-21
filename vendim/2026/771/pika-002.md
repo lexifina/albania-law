@@ -1,0 +1,1 @@
+2. Fondit Shqiptar të Zhvillimit i ndalohet ndryshimi i destinacionit të përdorimit të pronës, të përcaktuar në pikën 1, të këtij vendimi, si dhe tjetërsimi i pronës apo dhënia e saj në përdorim tek të tretët që nuk janë struktura apo subjekte në varësi të Fondit Shqiptar të Zhvillimit.
