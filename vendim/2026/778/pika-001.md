@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i rrugës rrotonda e varrezave - intersektimi i rrugës ’Nos Josifi’, ndodhur në zonat kadastrale 8522 dhe 8527”, Bashkia Elbasan.
