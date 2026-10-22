@@ -1,0 +1,1 @@
+8. Poseduesit e ndërtimeve pa leje, që janë subjekte të ndihmës ekonomike, në kuptim të ligjit nr. 57/2019, “Për asistencën sociale në Republikën e Shqipërisë”, i ndryshuar, përfitojnë falje të pjesshme në masën 30% nga vlera e llogaritur e parcelës ndërtimore me paraqitjen e vërtetimit nga njësia e vetëqeverisjes vendore ku kanë vendbanimin.

@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 811, datё 7.10.2026
+MBI MËNYRËN E PLOTËSIMIT ELEKTRONIK TË FORMULARIT TË PAGESËS SË PARCELËS NDËRTIMORE, FATURËS PËR ARKËTIM DHE RAKORDIMIN FINANCIAR TË SHUMAVE TË DERDHURA, SI DHE LISTA E DOKUMENTACIONIT PËR KATEGORINË E SUBJEKTEVE QË PËRFITOJNË FALJE TË PAGESËS NË ZBATIM TË VKM-së NR. 446, DATË 26.7.2023
+Në mbështetje të nenit 28, germa “ç”, të ligjit nr. 9000, datë 30.1.2003, “Për organizimin dhe funksionimin e Këshillit të Ministrave”; të germës “c”, të pikës 2, të nenit 9, të ligjit nr. 111/2018, “Për kadastrën”; të ligjit nr. 20/2020, “Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë”; të vendimit nr. 446, datë 26.7.2023, të Këshillit të Ministrave “Për përcaktimin e rregullave të hollësishme për kalimin e të drejtës së pronësisë dhe regjistrimin e pasurisë së legalizuar, pagesën, çmimin favorizues, kategoritë e subjekteve që përfitojnë falje, si dhe zbritjet e përqindjet e përdorimit të bonove të privatizimit”, në funksion të përmirësimit dhe mbarëvajtjes së veprimtarisë administrative të ASHK-së,
+UDHËZOJ:
