@@ -1,1 +1,1 @@
-3. Efekti financiar, në shumën prej 740 080 000 (shtatëqind e dyzet milionë e tetëdhjetë mijë) lekësh, që rrjedh nga zbatimi i këtij vendimi, përballohet nga fondi rezervë i buxhetit të shtetit, miratuar për vitin 2026.
+3. Efekti financiar, në shumën prej 759 187 520 (shtatëqind e pesëdhjetë e nëntë milionë e njëqind e tetëdhjetë e shtatë mijë e pesëqind e njëzet) lekë që rrjedh nga zbatimi i këtij vendimi, përballohet nga fondi rezervë i buxhetit të shtetit, miratuar për vitin 2026.
