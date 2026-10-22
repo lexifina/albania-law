@@ -1,0 +1,1 @@
+2. Urdhri nr. 141, datë 16.4.2020, “Për miratimin e rregullores mbi parashtrimin e kërkesave të përdorimit të hapësirës ajrore dhe procedurat operacionale, në lidhje me lundrimin ajror në bazë të performancës”, shfuqizohet.
