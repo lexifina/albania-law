@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese me shkëmbim letrash të marrëveshjes së huas (marrëveshje huaje nr.ABA-P3, datë 30 qershor 2008), ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Japoneze për Bashkëpunim Ndërkombëtar (të zëvendësuar nga Agjencia Japoneze për Bashkëpunim Ndërkombëtar, në tetor 2008), për projektin “Përmirësimi i sistemit të kanalizimeve për Tiranën e madhe”, ratifikuar me ligjin nr.9964, datë 24.7.2008, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
