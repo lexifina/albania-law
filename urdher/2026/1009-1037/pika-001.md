@@ -1,0 +1,1 @@
+1. Për shkak të angazhimeve për të garantuar vijimësinë e veprimtarisë administrative të Ministrisë, delegoj të drejtën e firmës për dokumentet që lidhen me veterinarinë dhe aktet që lidhen me procedurat për veterinarinë në varësi të Ministrisë së Bujqësisë dhe Zhvillimit Rural, zëvendësministres, znj. Tana Kika, për periudhën 9, 10 dhe 11 tetor 2026.
