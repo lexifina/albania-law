@@ -1,0 +1,1 @@
+3. Agjencia e Trajtimit të Koncesioneve dhe Partneritetit Publik Privat harton udhëzime dhe manuale shpjeguese për procedurat e koncesioneve/partneritetit publik privat, të detyrueshme për përdorim nga çdo autoritet/ent kontraktor gjatë kryerjes së aktiviteteve të koncesioneve/ partneriteteve publike private.

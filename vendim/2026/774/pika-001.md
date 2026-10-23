@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për vlerësimin dhe miratimin e studimeve të fizibilitetit, dhënien, ndryshimin e transferimin e kontratave të koncesionit/partneritetit publik privat, sipas tekstit që i bashkëlidhet këtij vendimi.

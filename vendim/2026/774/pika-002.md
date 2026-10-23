@@ -1,0 +1,1 @@
+2. Agjencia e Trajtimit të Koncesioneve dhe Partneritetit Publik Privat, brenda 3 muajve nga hyrja në fuqi e këtij vendimi, miraton dokumentet standarde të koncesionit/partneritetit publik privat dhe i dërgon ato për publikim në Agjencinë e Prokurimit Publik.
