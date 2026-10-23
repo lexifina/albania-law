@@ -1,1 +1,0 @@
-11. Autoritetet kontraktore kanë detyrimin të përcjellin, brenda 30 ditëve, nga data e hyrjes në fuqi të këtij vendimi, pranë ATRAKO-s, kopje të të gjitha kontratave të koncesionit dhe partneritetit publik privat, të nënshkruara prej tyre para hyrjes në fuqi të këtij vendimi.

@@ -1,1 +1,0 @@
-9. Autoritetet kontraktore kanë detyrimin të përcjellin një kopje të kontratës së koncesionit / PPP, të shoqëruar me anekset përkatëse, brenda 15 ditëve, nga data e nënshkrimit të saj, pranë ATRAKO-s.
