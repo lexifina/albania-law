@@ -1,1 +1,4 @@
-4. Vlera e përgjithshme e shpronësimit, prej 143 632 865.70 (njëqind e dyzet e tre milionë e gjashtëqind e tridhjetë e dy mijë e tetëqind e gjashtëdhjetë e pesë pikë shtatëdhjetë) lekësh, përballohet nga Autoriteti Rrugor Shqiptar.
+4. Vlera e përgjithshme e shpronësimit, prej 182 882 647.3 (njëqind e tetëdhjetë e dy milionë e tetëqind e tetëdhjetë e dy mijë e gjashtëqind e dyzet e shtatë pikë tre) lekësh, përballohet, si më poshtë vijon:
+a) vlera prej 143 632 865.70 (njëqind e dyzet e tre milionë e gjashtëqind e tridhjetë e dy mijë e tetëqind e gjashtëdhjetë e pesë pikë shtatëdhjetë) lekësh përballohet nga Autoriteti Rrugor Shqiptar;
+b) vlera prej 39 249 781.6 (tridhjetë e nëntë milionë e dyqind e dyzet e nëntë mijë e shtatëqind e tetëdhjetë e një pikë gjashtë) lekësh përballohet nga buxheti i shtetit, llogaria “Fondi i shpronësimeve”, në Bankën e Shqipërisë.”.
+c) Në tabelën bashkëlidhur vendimit, të dhënat për shpronësim të numrit rendor 6 zëvendësohen me të dhënat për shpronësim, sipas tabelës, që i bashkëlidhet këtij vendimi.

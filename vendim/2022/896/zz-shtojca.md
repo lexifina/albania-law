@@ -530,3 +530,280 @@ Vlera Totale
 1,958.80
 123,271,149.60
 143,632,865.70
+LISTA EMËRORE E PRONARËVE TË PASURIVE, TË PALUAJTSHME PRONË PRIVATE, QË SHPRONËSOHEN PËR REALIZIMIN E PROJEKTIT “PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR. 896, DATË 29.12.2022, TË KËSHILLIT TË MINISTRAVE, “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT “RISHIKIMI I PROJEKTIT PËR SEGMENTIN RRUGOR TË VAZHDIMIT TË UNAZËS SË MADHE TË TIRANËS NGA SHESHI SHQIPONJA - BULEVARDI I RI”, “RIKUALIFIKIMI I UNAZËS LINDORE PËR LOTET 4, 5, 6” (FAZA 2)
+Nr. rendor në VKM nr. 896/2022
+Pronësia
+Të dhënat kadastrale (Sipas kartelës së pasurisë)
+Të dhënat për shpronësim
+VLERA E SHPRONËSIMIT SIPAS VKM -së 896/2022
+VLERA SHTESË SIPAS KËTIJ VENDIMI
+VLERA TOTALE E SHPRONËSIMIT
+Shënime
+Emri
+Atësia
+Mbiemri
+Zona kadastrale
+Numri i pasurisë
+Lloji i pasurisë
+TOKË ARË
+TOKË TRUALL
+NDËRTESË SOC. EKONOMIKE
+OBJEKT BANIMI
+Sip. totale
+Sip. e shpr.(m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sip. totale m2
+Sipërfaqja e shpr.(m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sip. totale m2
+Sipërfaqja e shpr.(m2)
+Vlera e preventivit
+Sip. totale m2
+Sipërfaqja e shpr.(m2)
+Çmimi (lekë/m2)
+Vlera lekë
+12
+Haki
+Xhelo
+Canollari
+3976
+35/22
+truall+ ndërtesë
+250
+172.8
+479
+82,771.20
+375.60
+375.6
+61,167.00
+22,974,325.20
+23,041,289.40
+15,807.00
+23,057,096.40
+Konfirmuar nga ASHK-ja
+Sqarim: Sipërfaqes ”truall” prej 139.8 m2, dhe ndërtesës së banimit prej 375.60 m2, të shpronësuar sipas VKM-së nr. 896/2022, në vlerën prej 23,041,289.40 lekë, i shtohet sipërfaqja e ”truallit” prej 33 m2, në vlerën shtesë prej 15,807 lekësh.
+16
+Jorgo
+Xhevat
+Biba
+3976
+35/53
+arë
+190
+47.8
+448
+21,414.40
+14,873.60
+6,540.80
+21,414.40
+Konfirmuar nga ASHK-ja
+Mbi këtë pasuri pozicionohet ndërtesa nr. 35/53ND, vol. 26 f. 147 L>LEG (Ndërtesa nuk preket nga gjurma e projektit)
+Sqarim: Sipërfaqes ”arë” prej 33.20 m2, të shpronësuar sipas VKM-së nr. 896/2022, në vlerën prej 14,873.60 lekësh, i shtohet sipërfaqja ”arë” prej 14.6 m2, në vlerën shtesë prej 6540.80 lekësh.
+18
+Mira Algert Igli
+Maliq Nuredin Nuredin
+Aga Aga Aga
+3976
+68/23
+arë
+350
+339.00
+448
+151,872.00
+110,656.00
+41,216.00
+151,872.00
+Konfirmuar nga ASHK
+Sqarim: Sipërfaqes ”arë” prej 247 m2, të shpronësuar sipas VKM Nr. 896/2022, në vlerën prej 110,656 lekë, i shtohet sipërfaqja ”arë” prej 92 m2, në vlerën shtesë prej 41,216 lekësh.
+19
+Veladin
+Nuredin
+Balla
+3976
+136/50
+arë
+400
+378.6
+448
+169,612.80
+109,132.80
+60,480.00
+169,612.80
+Konfirmuar nga ASHK-ja
+Sqarim: Sipërfaqes ”arë” prej 243.6 m2, të shpronësuar sipas VKM Nr. 896/2022, në vlerën prej 109132.8 lekë, i shtohet sipërfaqja ”arë” prej 135 m2, në vlerën shtesë prej 60,480 lekësh.
+21
+Flogert Elton
+Shyqyr Shyqyr
+Sulejmani Sulejmani
+3976
+136/375
+truall+ ndërtesë
+354.70
+207
+479
+99,153.00
+332.7
+332.7
+61,167.00
+20,350,260.90
+36,883.00
+20,412,530.90
+20,449,413.90
+Konfirmuar nga ASHK-ja
+Leje legalizimi nr. 2624531, datë 2.3.2018 godinë banimi 3 kt. sip. kt. përdhe 84.3 , sip. kt. i parë 102.6 sip. shkallë + verandë 21.6 sip. kati i dytë 102.6 sip. shkallë + verandë 21.6 Sqarim: Sipërfaqes prej 77 m2, ”truall”, të shpronësuar sipas VKM-së nr. 896/2022, në vlerën prej 36,883 lekësh, i shtohet sipërfaqja e ”truallit” prej 130 m2, si dhe sipërfaqja e ndërtesës së banimit prej 332.7 m2, në vlerën shtesë prej 20,412,530.90 lekësh.
+23
+Lulezim
+Hatem
+Duro
+3976
+136/365
+truall+ ndërtesë
+223.1
+22.9
+479
+10,969.10
+5,364.80
+5,604.30
+10,969.10
+Konfirmuar nga ASHK-ja
+Leje leg. nr. 997410, datë 9.5.2017 godinë banimi 2 kate +1 kt. nëntokë sip. e katit nëntokë = 47.5 m2 sip. kt përdhe = 86.1 m2 sip. verandë 17.9 m2 sip. kati i parë 104 m2
+Sqarim: Sipërfaqes ”truall” prej 11.2 m2, të shpronësuar sipas VKM-së nr. 896/2022, në vlerën prej 5364.80 lekë, i shtohet sipërfaqja ”truall” prej 11.7 m2, në vlerën shtesë prej 5,604.30 lekë.
+26
+Ismail
+Kasem
+Spaja
+3976
+68/32
+arë
+5711
+1,684.8
+448
+754,790.40
+480,390.40
+274,400.00
+754,790.40
+Konfirmuar nga ASHK-ja
+Mbi këtë pasuri pozicionohet nd. nr. 68/32-nd.1 , 68/32-nd., 68/9-nd.1 (Ndërtesat nuk preken nga gjurma e projektit.)
+Sqarim: Sipërfaqes ”arë” prej 1,072.30 m2, të shpronësuar sipas VKM-së nr. 896/2022, në vlerën prej 480,390.40 lekësh, i shtohet sipërfaqja ”arë” prej 612.5 m2, në vlerën shtesë prej 274,400 lekësh.
+28
+Hajri
+Gani
+Dauti
+3976
+68/17
+arë
+311
+311.0
+448
+139,328.00
+86,240.00
+53,088.00
+139,328.00
+Konfirmuar nga ASHK-ja
+Sqarim: Sipërfaqes ”arë” prej 192.5 m2, të shpronësuar sipas VKM-së nr. 896/2022, në vlerën prej 86,240 lekësh, i shtohet sipërfaqja ”arë” prej 118.5 m2, në vlerën shtesë prej 53,088 lekësh.
+32
+Gëzim
+Mustafa
+Laci
+8170
+5/321
+truall+ ndërtesë
+300.00
+228.2
+32,878.0
+7,502,759.60
+101
+101.00
+95,397
+9,635,097.00
+14,941,606.20
+2,196,250.40
+17,137,856.60
+Konfirmuar nga ASHK-ja
+Vendim nr. 234, datë 27.10.2021 për miratimin e kërkesës për kalim pronësie të objektit pa titull pronësie me truallin funksional
+Sqarim: Sipërfaqes ”truall” prej 161.4 m2, dhe ndërtesës prej 101 m2, të shpronësuar sipas VKM-së nr. 896/2022, në vlerën prej 14,941,606.20 lekësh, i shtohet sipërfaqja e ”truallit” prej 66.8 m2, në vlerën shtesë prej 2,196,250.40 lekësh.
+33
+Mustafa
+Ibrahim
+Avdiu
+8110
+7/66
+truall+ ndërtesë
+410.5
+216.20
+23,703.00
+5,124,588.60
+239.7
+60,959.00
+14,611,872.30
+5,124,588.60
+14,611,872.30
+19,736,460.90
+Konfirmuar nga ASHK-ja
+Leje legalizimi nr. 1233394, datë 30.9.2020 godinë banimi 2 kate sip. banimi kati përdhe = 103.5 m2 ndërtimi kati i parë 103.5 m2 sip. verandë kati i parë = 22.2 sip. shkallë kati i parë 10.5 m2
+Sqarim: Sipërfaqes së ”truallit”, prej 216.20 m2, ”truall”, të shpronësuar sipas VKM-së nr. 896/2022, në vlerën prej 5,124,588.60 lekësh, i shtohet sipërfaqja e ndërtesës së banimit prej 239.7 m2, në vlerën shtesë prej 14,611,872.30 lekësh.
+Vlera Totale
+43,951,024.80
+37,677,789.70
+81,628,814.50
+Efekti financiar shtesë mbi VKM Nr. 896, datë 29.12.2022, është 37,677,789.70 lekë
+LISTA EMËRORE E PRONARËVE TË PASURIVE, TË PALUAJTSHME PRONË PRIVATE, QË SHPRONËSOHEN PËR REALIZIMIN E PROJEKTIT “PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR. 896, DATË 29.12.2022, TË KËSHILLIT TË MINISTRAVE, ’PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË
+PRIVATE, QË PREKEN NGA REALIZIMI I PROJEKTIT ’RISHIKIMI I PROJEKTIT PËR SEGMENTIN RRUGOR TË VAZHDIMIT TË UNAZËS SË MADHE TË TIRANËS NGA SHESHI
+SHQIPONJA-BULEVARDI I RI’, ’RIKUALIFIKIMI I UNAZËS LINDORE PËR LOTET 4, 5, 6’ (FAZA 2)”
+Nr. rendor në VKM-në nr. 896/2022
+Pronësia
+Të dhënat kadastrale (sipas kartelës së pasurisë)
+Të dhënat për shpronësim
+Vlera e shpronësimit sipas VKM-së nr. 896/2022
+Vlera shtesë sipas këtij vendimi
+Vlera totale e shpronësimit
+Shënime
+Emri
+Atësia
+Mbiemri
+Zona kadastrale
+Numri pasurisë
+Lloji i pasurisë
+Tokë “arë”
+Tokë “truall”
+Ndërtesë soc.-ek.
+Objekt “banimi”
+Sip. totale m2
+Sipërfaqja e shpronësuar (m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sip. totale m2
+Sipërfaqja e shpronësuar (m2)
+Çmimi (lekë/m2)
+Vlera lekë
+Sip. totale m2
+Sipërfaqja e shpronësuar (m2)
+Vlera sipas preventivit lekë
+Sip. totale m2
+Sipërfaqja e shpronësuar (m2)
+Çmimi (lekë/m2)
+Vlera lekë
+6
+Ismail
+Qerim
+Skeja
+3976
+35/62
+Truall + Ndërtesë
+572.7
+443.8
+479.0
+212,580.2
+638.1
+61,167.0
+39,030,662.7
+37,671,251.00
+1,571,991.9
+39,243,242.9
+VLERA TOTALE
+37,671,251.00
+1,571,991.9
+39,243,242.9
+Efekti financiar shtesë mbi VKM-në nr. 896, datë 29.12.2022, e ndryshuar, është 1,571,991.9 lekë
