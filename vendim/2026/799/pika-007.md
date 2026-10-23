@@ -1,0 +1,1 @@
+7. Në rast se konstatohet që kursanti mungon gjatë zhvillimit të programit, institucioni i formimit profesional, pasi ka kryer të gjithë procedurën e këshillimit të pjesëmarrësit për të vazhduar kursin, njofton DRAKPA-në për ecurinë e kursantit.
