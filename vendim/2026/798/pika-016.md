@@ -1,0 +1,1 @@
+16. Shpenzimet për zhvillimin dhe mirëmbajtjen teknike të REKP-së përballohen nga buxheti i Agjencisë Kombëtare të Shoqërisë së Informacionit (AKSHI), në përputhje me legjislacionin në fuqi dhe planifikimin buxhetor përkatës. Shpenzimet, që lidhen me administrimin funksional të REKP-së, përballohen nga buxheti i institucionit.

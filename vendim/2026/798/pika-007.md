@@ -1,0 +1,1 @@
+7. Agjencia Kombëtare e Shoqërisë së Informacionit (AKSHI) merr masat e nevojshme për zhvillimin, mirëmbajtjen teknike dhe sigurinë e REKP-së dhe të të dhënave të përmbajtura në të, në përputhje me legjislacionin në fuqi për qeverisjen elektronike.

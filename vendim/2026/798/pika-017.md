@@ -1,0 +1,1 @@
+17. Vendimi nr. 211, datë 16.3.2016, i Këshillit të Ministrave, “Për krijimin dhe administrimin e regjistrit elektronik të koncesionit/partneritetit publik privat”, shfuqizohet me hyrjen në fuqi të këtij vendimi.

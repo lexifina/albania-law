@@ -1,0 +1,1 @@
+9. Autoritetet/entet kontraktuese i paraqesin institucionit një kopje të çdo ndryshimi të kontratës së koncesionit/partneritetit publik privat, së bashku me shtojcat dhe anekset përkatëse, brenda 15 (pesëmbëdhjetë) ditëve punë nga data e hyrjes së tij në fuqi. Kur ndryshimi nuk parashikon një datë të veçantë të hyrjes në fuqi, afati llogaritet nga data e nënshkrimit të tij.
