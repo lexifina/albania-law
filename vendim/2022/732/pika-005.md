@@ -26,7 +26,7 @@ iv. kualifikimin e specialistëve dhe të teknikëve të laboratorëve veterinar
 v. bashkërendimin e studimeve kërkimore dhe shkencore, për të zbatuar metoda të reja diagnostike për sëmundjet e kafshëve dhe sigurinë ushqimore;
 vi. drejtimin metodologjik të laboratorëve veterinarë;
 vii. kryerjen e analizave laboratorike konfermatore për kampionet, rezultatet e të cilave janë kontestuar, pasi janë nxjerrë nga laboratorët e tjerë veterinarë në vend;
-viii. pjesëmarrjen në teste zotësie të organizuara nga laboratorët e referencës së Bashkimit Evropian dhe OIE-së;
+viii. pjesëmarrjen në teste zotësie të organizuara nga laboratorët e referencës së Bashkimit Evropian dhe Organizata Botërore e Shëndetit të Kafshëve “WOAH”;
 ix. vlerësimin e laboratorëve veterinarë, nëse janë të aftë për kryerjen e analizave të miratuara;
 x. vlerësimin e dokumentacionit të PMV-ve gjatë procedurës së regjistrimit të tyre.
 c) Në fushën e mbrojtjes dhe shëndetit të bimëve:
@@ -38,9 +38,17 @@ v. organizimin e testeve paralele të mostrave të standardizuara dhe marrjen pj
 vi. marrjen pjesë rregullisht në testet e aftësive ndërlaboratorike, në nivel ndërkombëtar, për të verifikuar performancën e tij për të prodhuar rezultate të qëndrueshme dhe të besueshme;
 vii. organizimin e testeve paralele të mostrave të standardizuara për monitorimin e kualifikimit të laboratorëve të miratuar të kontrollit;
 viii. garantimin e përdorimit të një sistemi të brendshëm në përputhje me standardet e kërkuara nga laboratorët e miratuar të kontrollit;
-ç) kryen analiza në kuadër të planeve kombëtare të monitorimit;
-d) kryen analiza laboratorike, në zbatim të programeve kombëtare të monitorimit dhe survejancës së situatës epidemiologjike të sëmundjeve infektive, zoonozave dhe mbetjeve toksike në bimë;
+ç) Kryen analiza laboratorike në zbatim të programeve kombëtare, në zbatim të strategjive sektoriale në fushën e veterinarisë, ushqimit dhe ushqimit për kafshë dhe fitosanitetit, planeve kombëtare të monitorimit, programeve të mbikëqyrjes, kontrolleve zyrtare për të cilat është i autorizuar dhe, sa herë është e nevojshme, në të gjitha fushat e përgjegjësisë së tij, në përputhje me legjislacionin në fuqi;
+d) Kryen analiza laboratorike:
+i. me kontraktim, sipas legjislacionit në fuqi, në raste të veçanta dhe të justifikuara teknikisht, kur:
+- analizat nuk kryhen në laborator;
+- metodat nuk janë të akredituara;
+- aparaturat janë jashtë funksioni për shkak të dëmtimit;
+- ka kërkesa për analizim të treguesve të rinj;
+- ka raste emergjencash me origjinë nga ushqimi, kafshët dhe bimët;
+ii. rikonfirmuese në rastet e shpërthimeve të sëmundjeve ose epidemive të ndryshme, si dhe të dëmtuesve karantinorë në bimë, produkte bimore dhe objekte të tjera nga laboratorë ndërkombëtarë të Bashkimit Evropian, të akredituar dhe të autorizuar nga autoritetet kompetente të vendeve përkatëse;
 dh) vlerëson dosjet e produkteve mjekësore veterinare, produkteve të mbrojtjes së bimëve dhe ambalazhit në procesin e regjistrimit, si dhe jep mendimin teknik për procesin e regjistrimi të tyre.
+e) Siguron testet e provës së aftësisë (proficiency testing), në mënyrë të drejtpërdrejtë, nga ente ndërkombëtare të akredituara dhe laboratorë reference të Bashkimit Evropian (EURL), sipas nevojave për ruajtjen dhe zgjerimin e akreditimit laboratorik.
 3. Struktura dhe organika e ISUV-it miratohen me urdhër të Kryeministrit, sipas përcaktimeve në fuqi të legjislacionit për organizimin dhe funksionimin e institucioneve të administratës shtetërore.
 4. ISUV-i drejtohet nga drejtori i përgjithshëm, i cili organizon dhe drejton të gjithë veprimtarinë e tij, përfaqëson ISUV-in në marrëdhënie me të tretët dhe përgjigjet përpara ministrit. Drejtori i përgjithshëm, në përputhje me legjislacionin në fuqi, por pa u kufizuar, me qëllim sigurimin e drejtimit dhe administrimit efektiv të ISUV-it, kryen detyrat, si më poshtë vijon:
 a) përcakton objektivat vjetorë të ISUV-it në përputhje me objektivat strategjike të ministrisë;
