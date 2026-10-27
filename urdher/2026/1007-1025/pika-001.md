@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për miratimin e kërkesave të shëndetit të kafshëve dhe certifikimit për lëvizjen e kafshëve të ujit dhe produkteve me origjinë nga uji”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
