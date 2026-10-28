@@ -1,0 +1,1 @@
+7. Në mbledhjet e Komisionit mund të ftohen të marrin pjesë punonjës të ministrisë ose të institucioneve të varësisë, ose ekspertë të fushave të caktuara, kur pjesëmarrja e tyre vlerësohet e nevojshme për çështjen, pa të drejtë vote.

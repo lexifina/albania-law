@@ -1,0 +1,1 @@
+2. Anëtarët e Komisionit të përcaktuar në pikën 1, caktohen me urdhër të ministrit përgjegjës për bujqësinë, me propozimin e institucioneve përkatëse, si dhe ushtrojnë funksionin përkatës për sa kohë që mbajnë funksionin mbi bazën e të cilit janë caktuar si anëtarë Komisioni.

@@ -1,0 +1,1 @@
+6. Komisioni vendos mbi bazë dokumentesh me shumicë të thjeshtë të anëtarëve të pranishëm. Anëtarët e Komisionit nuk mund të abstenojnë. Votimi bëhet i hapur, anëtarët votojnë duke filluar nga anëtari më i ri në moshë. Kryetari voton i fundit. Në rast votash të barabarta, vota e kryetarit është përcaktuese.

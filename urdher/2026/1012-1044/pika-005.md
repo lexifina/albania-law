@@ -1,0 +1,1 @@
+5. Rendi i ditës ndryshon me shumicë të thjeshtë, me kërkesë të kryetarit ose 1 (një) anëtari të Komisionit. Kërkesat për vendimmarrje që nuk lidhen me aplikime shqyrtohen gjithmonë në fund të mbledhjes.
