@@ -1,3 +1,0 @@
-5.
-Plovdiv
-Brezovo*
