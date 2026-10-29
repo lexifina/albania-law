@@ -1,1 +1,0 @@
-6. Vendimi nr. 29, datë 17.1.2024, i Këshillit të Ministrave, “Për përcaktimin e fushës së përgjegjësisë shtetërore të ministrit të Shtetit për Administratën Publike dhe Antikorrupsionin”, shfuqizohet.
