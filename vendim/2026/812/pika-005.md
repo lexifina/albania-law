@@ -1,0 +1,1 @@
+5. Ministria e Administratës Publike ushtron funksionet e bashkërendimit e të monitorimit, sipas këtij vendimi, në bashkëpunim me ministritë dhe institucionet përgjegjëse, duke respektuar kompetencat e tyre, pavarësinë e institucioneve të pavarura dhe autonominë e njësive të vetëqeverisjes vendore.

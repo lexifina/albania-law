@@ -1,0 +1,1 @@
+9. Vendimi nr. 522, datë 25.9.2025, i Këshillit të Ministrave, “Për përcaktimin e fushës së përgjegjësisë shtetërore të ministrit të Shtetit për Administratën Publike dhe Antikorrupsionin”, shfuqizohet.
