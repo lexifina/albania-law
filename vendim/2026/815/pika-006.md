@@ -1,0 +1,1 @@
+6. Drejtoria e Përgjithshme e Policisë së Shtetit njofton personat fizikë dhe juridikë privatë, që kanë struktura akomoduese, për personat për të cilët ka të dhëna konkrete për pjesëmarrje në veprimet e sipërpërmendura dhe se për këtë i janë referuar materialet përkatëse prokurorisë.

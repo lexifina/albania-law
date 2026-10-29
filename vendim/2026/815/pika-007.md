@@ -1,0 +1,1 @@
+7. Për personat e referuar, nevoja për ruajtjen e të dhënave rishikohet brenda 30 (tridhjetë) ditëve nga regjistrimi. Në rast të marrjes së informacionit nga prokuroria kompetente për mosfillimin e procedimit penal apo pushimin e çështjes, të dhënat e personit fshihen nga regjistri.

@@ -1,0 +1,1 @@
+8. Përpunimi dhe shkëmbimi i të dhënave kryhen në përputhje me ligjin nr. 124/2024, “Për mbrojtjen e të dhënave personale”, duke garantuar konfidencialitetin, kufizimin e aksesit, gjurmueshmërinë dhe proporcionalitetin.

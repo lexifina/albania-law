@@ -1,0 +1,1 @@
+2. Regjistri administrohet nga Drejtoria e Përgjithshme e Policisë së Shtetit dhe përmban të dhënat e personave të identifikuar në materialet e referuara nga Policia e Shtetit në Prokurori, për të cilët dokumentohen veprime konkrete të dhunshme.
