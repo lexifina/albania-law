@@ -1,0 +1,193 @@
+{
+ "country": "AL",
+ "acts": [
+  {
+   "slug": "kushtetuta",
+   "short": "Kushtetuta",
+   "title": "Kushtetuta e Republikës së Shqipërisë",
+   "url": "https://qbz.gov.al/pdf/eb9d762f48d82dc4834e4905b5516edc13690d6fea092b27e36f48a1fa59db8c.pdf",
+   "versions": [
+    {
+     "from": "1998-11-28",
+     "units": 215,
+     "source_url": "https://web.archive.org/web/20060525195849id_/http://parlamenti.albaniaonline.net:80/menu/foto/Kushtetuta%20e%20RSH.pdf",
+     "sha256": "e0a8c5cde3863c85e3a1f48297e762763624660265f32a7ee12a83a464599166"
+    },
+    {
+     "from": "2007-01-14",
+     "units": 216,
+     "source_url": "https://qbz.gov.al/files/40540e1e799594962409159a1d669a18c8e069b8ab3af913ad565adcb827377a.docx",
+     "sha256": "40540e1e799594962409159a1d669a18c8e069b8ab3af913ad565adcb827377a"
+    },
+    {
+     "from": "2008-05-22",
+     "units": 213,
+     "source_url": "https://qbz.gov.al/files/7664cffa1309ac15a8af2c76e383ce22b42fea6db758b72ad6d8fa142cbbc040.docx",
+     "sha256": "7664cffa1309ac15a8af2c76e383ce22b42fea6db758b72ad6d8fa142cbbc040"
+    },
+    {
+     "from": "2012-10-26",
+     "units": 213,
+     "source_url": "https://qbz.gov.al/files/df95bd2218cd4139e2d0921a4eb93e47e4d00f510de0129c30631ce9361ef671.docx",
+     "sha256": "df95bd2218cd4139e2d0921a4eb93e47e4d00f510de0129c30631ce9361ef671"
+    },
+    {
+     "from": "2015-12-21",
+     "units": 215,
+     "source_url": "https://qbz.gov.al/files/66c9b51f0ca7aa9479393044a3a9a16329dbdeb66501db572bafeb2606e0b2f1.docx",
+     "sha256": "66c9b51f0ca7aa9479393044a3a9a16329dbdeb66501db572bafeb2606e0b2f1"
+    },
+    {
+     "from": "2016-08-11",
+     "units": 246,
+     "source_url": "https://qbz.gov.al/files/5649fefe1af56af141f3d237fc200cb1430767e83ebac937ad27a7ea58ed96c5.docx",
+     "sha256": "5649fefe1af56af141f3d237fc200cb1430767e83ebac937ad27a7ea58ed96c5"
+    },
+    {
+     "from": "2020-09-08",
+     "units": 246,
+     "source_url": "https://qbz.gov.al/files/6e1b0d8578ed671bbacb35c29fc011ba9b6540ee74979a6720a4c85ef00296aa.docx",
+     "sha256": "6e1b0d8578ed671bbacb35c29fc011ba9b6540ee74979a6720a4c85ef00296aa"
+    },
+    {
+     "from": "2022-03-24",
+     "units": 246,
+     "source_url": "https://qbz.gov.al/files/2f5f33a6b9eba809541418cea1235da397d12dd6a4737fcd1b54f79eda1df55e.docx",
+     "sha256": "2f5f33a6b9eba809541418cea1235da397d12dd6a4737fcd1b54f79eda1df55e"
+    }
+   ]
+  },
+  {
+   "slug": "tatimi-mbi-te-ardhurat",
+   "short": "Tatimi mbi të ardhurat",
+   "title": "Për tatimin mbi të ardhurat",
+   "url": "https://qbz.gov.al/eli/ligj/2023/03/30/29",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 82,
+     "source_url": "https://qbz.gov.al/files/956d83cab22a4cc3643eabe7957f66a37f7b8bfcf20dd2cf32c3435d260a8725.docx",
+     "sha256": "956d83cab22a4cc3643eabe7957f66a37f7b8bfcf20dd2cf32c3435d260a8725"
+    },
+    {
+     "from": "2023-06-07",
+     "units": 82,
+     "source_url": "https://qbz.gov.al/files/d506cfd338dca1b1f8a790a28c77508af20cef9b1471fc08fd372c6c34fd5f0f.docx",
+     "sha256": "d506cfd338dca1b1f8a790a28c77508af20cef9b1471fc08fd372c6c34fd5f0f"
+    },
+    {
+     "from": "2023-12-14",
+     "units": 82,
+     "source_url": "https://qbz.gov.al/files/6c645283d06d3f1a7ae15b648a71f8cb31e6267144bd852f3639a70ddd88f046.docx",
+     "sha256": "6c645283d06d3f1a7ae15b648a71f8cb31e6267144bd852f3639a70ddd88f046"
+    },
+    {
+     "from": "2024-08-05",
+     "units": 82,
+     "source_url": "https://qbz.gov.al/files/1ba17decdabfabfe5c2595ed2b64fb332f6051db1e45468211950bea31c26c70.docx",
+     "sha256": "1ba17decdabfabfe5c2595ed2b64fb332f6051db1e45468211950bea31c26c70"
+    },
+    {
+     "from": "2024-11-27",
+     "units": 82,
+     "source_url": "https://qbz.gov.al/files/1a322393068fc82f60857d86faca810d66b93a4f1bc99f9ca665a2e228acf556.docx",
+     "sha256": "1a322393068fc82f60857d86faca810d66b93a4f1bc99f9ca665a2e228acf556"
+    },
+    {
+     "from": "2025-03-13",
+     "units": 82,
+     "source_url": "https://qbz.gov.al/files/25c5aa7846a078afc05c938f0c69b5510cc9793eefad0424f5c398664678aeb1.docx",
+     "sha256": "25c5aa7846a078afc05c938f0c69b5510cc9793eefad0424f5c398664678aeb1"
+    },
+    {
+     "from": "2026-01-30",
+     "units": 83,
+     "source_url": "https://qbz.gov.al/files/759fa32e8b3f9cec6c48d746e7d0ee172b61ba0e3c74067e58757502fa02475b.docx",
+     "sha256": "759fa32e8b3f9cec6c48d746e7d0ee172b61ba0e3c74067e58757502fa02475b"
+    }
+   ]
+  },
+  {
+   "slug": "pastrimi-i-parave",
+   "short": "Parandalimi i pastrimit të parave",
+   "title": "Për parandalimin e pastrimit të parave dhe financimit të terrorizmit",
+   "url": "https://qbz.gov.al/eli/ligj/2008/05/19/9917",
+   "versions": [
+    {
+     "from": "2008-09-10",
+     "units": 38,
+     "source_url": "https://qbz.gov.al/files/3e372dbe258512938c954e85650c46a6b8cecedf14f5e4f9f3b0ded00a04fe0f.docx",
+     "sha256": "3e372dbe258512938c954e85650c46a6b8cecedf14f5e4f9f3b0ded00a04fe0f"
+    },
+    {
+     "from": "2011-04-15",
+     "units": 39,
+     "source_url": "https://qbz.gov.al/files/5e706335cc338705f2703dafeaada4cac21656983fae3db162919a4fed0d0cd3.docx",
+     "sha256": "5e706335cc338705f2703dafeaada4cac21656983fae3db162919a4fed0d0cd3"
+    },
+    {
+     "from": "2012-07-28",
+     "units": 41,
+     "source_url": "https://qbz.gov.al/files/20e213066f3a025024d27053ecc8a596321eb9ceba8d54ffb3327fff3fc255b9.docx",
+     "sha256": "20e213066f3a025024d27053ecc8a596321eb9ceba8d54ffb3327fff3fc255b9"
+    },
+    {
+     "from": "2017-05-06",
+     "units": 41,
+     "source_url": "https://qbz.gov.al/files/fc4559ce213cddd2c33becdcf3525be69599839b26b15bb498cb0a0fcab94a3f.docx",
+     "sha256": "fc4559ce213cddd2c33becdcf3525be69599839b26b15bb498cb0a0fcab94a3f"
+    },
+    {
+     "from": "2019-07-25",
+     "units": 46,
+     "source_url": "https://qbz.gov.al/files/77c1add4589c3e4795ca38730dd40a1f9d07ef78db5d37fe2e2cf96b66fc1cf9.docx",
+     "sha256": "77c1add4589c3e4795ca38730dd40a1f9d07ef78db5d37fe2e2cf96b66fc1cf9"
+    },
+    {
+     "from": "2022-01-05",
+     "units": 48,
+     "source_url": "https://qbz.gov.al/files/e4ca84c8bb7fb7caaeb0cab54350d3141296be529b21a045a7e198601b383d56.docx",
+     "sha256": "e4ca84c8bb7fb7caaeb0cab54350d3141296be529b21a045a7e198601b383d56"
+    },
+    {
+     "from": "2023-08-18",
+     "units": 48,
+     "source_url": "https://qbz.gov.al/files/99efc3d1f0d940fa46899b5f437a83a8cf8f6a68466aafa0281b04bc3c828011.docx",
+     "sha256": "99efc3d1f0d940fa46899b5f437a83a8cf8f6a68466aafa0281b04bc3c828011"
+    },
+    {
+     "from": "2026-05-02",
+     "units": 49,
+     "source_url": "https://qbz.gov.al/files/7fcad9d732d6bfe84e723198235e553e7b839a37449f5502cffd614c2e32ff9b.docx",
+     "sha256": "7fcad9d732d6bfe84e723198235e553e7b839a37449f5502cffd614c2e32ff9b"
+    }
+   ]
+  },
+  {
+   "slug": "shtetesia",
+   "short": "Shtetësia",
+   "title": "Për shtetësinë",
+   "url": "https://qbz.gov.al/eli/ligj/2020/07/29/113",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 32,
+     "source_url": "https://qbz.gov.al/files/c4c7f3f35aaaf56b48f670204b4a882970d50507be1cfb72c229ed6d22939a87.docx",
+     "sha256": "c4c7f3f35aaaf56b48f670204b4a882970d50507be1cfb72c229ed6d22939a87"
+    },
+    {
+     "from": "2024-06-21",
+     "units": 33,
+     "source_url": "https://qbz.gov.al/files/0e9d787a6fd04fcda7acdb7064efeed7f4a4039fe8ff9443f8f863d1f1435cb0.docx",
+     "sha256": "0e9d787a6fd04fcda7acdb7064efeed7f4a4039fe8ff9443f8f863d1f1435cb0"
+    },
+    {
+     "from": "2026-06-20",
+     "units": 33,
+     "source_url": "https://qbz.gov.al/files/5ec70d8d37547d8485da57944bdba54563c9099f26d3bb2b261263594ee27370.docx",
+     "sha256": "5ec70d8d37547d8485da57944bdba54563c9099f26d3bb2b261263594ee27370"
+    }
+   ]
+  }
+ ]
+}
