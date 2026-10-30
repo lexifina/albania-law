@@ -1,0 +1,1 @@
+1. Miratimin e kritereve dhe masës së kompensimit financiar për subjektet private gjatë periudhës së aktivizimit të ushtarakut të shërbimit rezervist në Forcat e Armatosura të Republikës së Shqipërisë, sipas përcaktimeve të këtij vendimi.

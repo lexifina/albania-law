@@ -1,0 +1,2 @@
+7. Të dhënat e pikës 6, të këtij vendimi, të jenë të bazuara në masën e pagesës korrente, që subjekti privat dhe i vetëpunësuari ka paguar, sipas deklarimit elektronik me ESIG 25 në sistemin e-filing të Drejtorisë së Përgjithshme të Tatimeve në emër të ushtarakut rezervist.
+Masa e kompensimit financiar për sigurimet shoqërore, shëndetësore dhe tatimi mbi të ardhurat përllogaritet mbi pagën bruto që ushtaraku rezervist merr në subjektin privat, ku është aktualisht i punësuar, sipas deklarimeve tatimore në fuqi për periudhën përkatëse.
