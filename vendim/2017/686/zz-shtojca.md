@@ -275,7 +275,7 @@ PLANI KOMBËTAR I HAPËSIRËS DETARE
 Neni 21/1
 Objekti i PKHD-së
 1. Kuadri referues i PKHD-së synon promovimin e rritjes së qëndrueshme të ekonomive detare, zhvillimin e qëndrueshëm të zonave detare, përdorimin e qëndrueshëm të burimeve detare dhe mban në konsideratë të veçantë ndërveprimet tokë-det dhe bashkëpunimin ndërkufitar.
-2. Planifikimi hapësinor detar është procesi me anë të të cilit analizohen dhe organizohen aktivitetet njerëzore në zonat detare për të arritur objektivat mjedisorë, ekologjikë, ekonomikë dhe socialë.
+2. Planifikimi hapësinor detar është procesi me anë të të cilit analizohen dhe organizohen aktivitetet njerëzore në zonat detare për të arritur objektivat mjedisorë, ekologjikë, ekonomikë dhe socialë. Gjatë hartimit dhe zbatimit të planifikimit hapësinor detar, autoritetet përgjegjëse duhet të ndjekin një qasje të bazuar në ekosistem dhe të nxisin bashkekzistencën e veprimtarive dhe përdorimeve përkatëse.
 3. Plani Kombëtar i Hapësirës Detare ka për qëllim zhvillimin e qëndrueshëm të sektorëve dhe përdorimeve përkatëse të hapësirave detare, të tashme dhe të ardhshme, të cilat përfshijnë:
 a) peshkimin dhe akuakulturën;
 b) zonat e peshkimit;
@@ -288,6 +288,7 @@ e) nxjerrjen dhe shfrytëzimin e lëndës së parë;
 f) trashëgiminë kulturore nënujore;
 g) aktivitetet e turizmit detar.
 4. Plani Kombëtar i Hapësirës Detare, teksa hartohet e zbatohet duhet të ndjekë parimet e planifikimit si një proces pune në vazhdimësi.
+5. Vlerësimi strategjik mjedisor i planit është një nga instrumentet kryesore për zbatimin praktik të qasjes së bazuar në ekosistem. Raporti i VSM-së të planit trajton të gjitha çështjet e parashikuara në legjislacionin në fuqi për vlerësimin strategjik mjedisor dhe veçanërisht identifikon zonat e ndjeshme dhe përcakton masa për parandalimin ose zbutjen e ndikimeve negative në zonat, ku mund të zhvillohen aktivitete sensitive, si p.sh.: peshkimi, akuakultura ose prodhimi i energjisë nga era në det etj.
 Neni 21/2
 Autoriteti përgjegjës për hartimin e PKHD-së
 1. Procesi i hartimit të PKHD-së koordinohet nga ministria përgjegjëse për planifikimin dhe zhvillimin e territorit e cila është edhe autoriteti kompetent për hartimin e planit, në përputhje me shkronjën “c”, të pikës 1, të nenit 8, të ligjit.
@@ -299,9 +300,9 @@ Neni 21/3
 Bashkëpunimi ndërmjet shteteve
 1. Në kuadër të procesit të planifikimit dhe menaxhimit, bashkëpunohet me shtetet anëtare që kufizohen me ujëra detare, me qëllim për të garantuar që planet hapësinore detare të jenë koherente dhe të koordinuara në të gjithë rajonin detar shqiptar. Një bashkëpunim i tillë merr parasysh, në veçanti, çështjet me natyrë ndërkufitare.
 2. Bashkëpunimi i përmendur në pikën 1 të këtij neni realizohet nëpërmjet:
-a) strukturave ekzistuese të bashkëpunimit institucional rajonal, të tilla si konventat rajonale detare;
+a) strukturave ekzistuese të bashkëpunimit institucional rajonal, të tilla si konventat rajonale detare dhe konventat e deteve rajonale;
 b) rrjeteve ose strukturave të autoriteteve kompetente të shteteve anëtare;
-c) çdo metode tjetër që përmbush kërkesat e pikës 1 të këtij neni.
+c) çdo metode tjetër që përmbush kërkesat e pikës 1 të këtij neni për shembull në kontekstin e strategjive të baseneve detare.
 3. Autoritetet shqiptare përpiqen, kur është e mundur, të bashkëpunojnë me vendet e treta për veprimet e tyre në lidhje me planifikimin hapësinor detar në rajonet përkatëse detare dhe në përputhje me ligjet dhe konventat ndërkombëtare.
 Neni 21/4
 Nisma për hartimin e PKHD-së
