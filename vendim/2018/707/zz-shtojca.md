@@ -803,50 +803,6 @@ shtet
 TOTALI
 153 412 m2 ose 15.3 ha
 12. Zona kadastrale 1574, Durrës (NB Frutore Durrës)
-ZK
-Nr. i pasurisë
-Vol
-Faqe
-Lloji
-Sipërfaqja
-Pronësia
-1574
-1/1
-1
-18
-shkëmbore
-35,500
-shtet
-1574
-3/2
-1
-21
-ullishte
-9,000
-Depo Armatimeve Detare
-1574
-4
-5
-124
-ullishte
-18,300
-shtet
-1574
-5/11
-5
-125
-ullishte
-31,500
-shtet
-1574
-5/39
-12
-162
-arë
-38,325
-shtet
-TOTALI
-123,625 m2 ose 12.3 ha
 13. Zona kadastrale 1574, Durrës (NB Frutore Durrës)
 ZK
 Nr. pas.
@@ -997,7 +953,7 @@ Komuna Synej
 806,013
 Shuma
 806013 m2 ose 80.6 ha
-20. Zona kadastrale 3774, Kavajë (Vilë Bashtovë) (Ndryshuar me vendimin nr. 227, datë 1.4.2026; Ndryshuar me vendimin nr. nr. 495, datë 26.6.2026)
+20. Zona kadastrale 3774, Kavajë (Vilë Bashtovë) (Ndryshuar me vendimin nr. 227, datë 1.4.2026;
 ZK
 Nr. pasurie
 Vol
