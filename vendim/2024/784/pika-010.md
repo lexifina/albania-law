@@ -1,1 +1,1 @@
-10. Zhvillimi, ndërtimi ose përdorimi i pasurive të paluajtshme, brenda zonës së mbrojtur të aeroportit, për aktivitete apo veprimtari, të cilat mund të tërheqin botën shtazore, do t’i njoftohen për vlerësim AAC-së. AAC-ja jep vlerësimin brenda 10 (dhjetë) ditëve nga bërja e kërkesës.
+10. Zhvillimi, ndërtimi ose përdorimi i pasurive të paluajtshme, brenda zonës së mbrojtur të aeroportit, për aktivitete apo veprimtari, të cilat mund të tërheqin botën shtazore, i njoftohen AAC-së pas lëshimit të lejes së ndërtimit nga autoriteti përgjegjës.
