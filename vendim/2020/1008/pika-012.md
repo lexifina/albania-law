@@ -1,1 +1,0 @@
-12. AHPVSH-ja ka stemën, logon dhe vulën e saj zyrtare. Stema e AHPVSH-së është në përputhje me përcaktimet e vendimit përkatës të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

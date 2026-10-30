@@ -1,1 +1,0 @@
-1. Krijimin, organizimin dhe funksionimin e Agjencisë së Hartimit të Programeve të Veçanta të Shtetësisë (në vijim AHPVSH), si person juridik publik, buxhetor, në varësi të ministrit përgjegjës për çështjet e shtetësisë dhe azilit (në vijim ministri), me seli në Tiranë.

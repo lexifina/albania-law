@@ -1,1 +1,0 @@
-8. Drejtori i Përgjithshëm i AHPVSH-së emërohet, lirohet ose shkarkohet me urdhër të Kryeministrit, pas propozimit të ministrit përgjegjës për çështjet e shtetësisë dhe azilit. Drejtori i Përgjithshëm duhet të ketë të paktën 5 (pesë) vite eksperiencë pune në organet e administratës shtetërore.
