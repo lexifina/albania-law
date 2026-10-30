@@ -572,25 +572,1028 @@ Prioritetet sipas renditjes që ka rezultuar për të 12 drejtimet politike gjat
 3.1.3 Programi i Integruar i Masave
 Sekuencimi logjik i masave brenda çdo politike apo midis politikave të ndryshme, realizohet duke konsideruar marrëdhënien e varësisë që mund të kenë me njëra-tjetrën (nëse mund të fillojnë njëkohësisht, apo nëse një masë duhet të fillojë me përfundimin e tjetrës, nëse janë të lidhura duke filluar dhe përfunduar njëkohësisht, apo edhe nëse janë të lidhura që vetëm të përfundojnë njëkohësisht pavarësisht se kur kanë nisur, si dhe të tjera kombinime të ndryshme).
 Programi i masave merr në konsideratë shtrirjen në kohë të politikave deri më 2030 dhe i integron masat sipas prioritetit dhe sekuencimit logjik, duke përfshirë kohëzgjatjen e nevojshme për realizimin e secilës prej tyre.
+PROGRAMI I INTEGRUAR I MASAVE
+1
+DOKUMENTI I POLITIKAVE PËR SEKTORIN E IG
+Afati i fillimit
+Afati i përfundimit
+1.1
+POLITIKAT PËR DISPONUESHMËRINË E INFORMACIONIT GJEOHAPËSINOR
+1.1.1
+Politika nr. 1 “Përcaktimi i kërkesës dhe zgjidhjes së duhur për IG”
+2026
+2030
+1.1.1.1
+Masa 1: Identifikimi i përdoruesve
+2026
+2030
+1.1.1.2
+Masa 2: Mbledhja e kërkesave për IG
+2026
+2030
+1.1.1.3
+Masa 3: Formulimi i zgjidhjeve të integruara
+2026
+2030
+1.1.1.4
+Masa 4: Angazhimi i aktorëve për implementimin e zgjidhjeve
+2026
+2030
+1.1.2
+Politika nr. 2 “Gjenerimi i IG të duhur”
+2026
+2030
+1.1.2.1
+Masa 5: Përfundimi i ngritjes, vënies në funksion dhe mirëmbajtjes së KRGJSH-së
+2026
+2030
+1.1.2.2
+Masa 6: Digjitalizimi i arkivave me të dhëna historike, në 10 vite
+2026
+2030
+1.1.2.3
+Masa 7: Kalimi drejt imazherisë: për detin, tokën, nëntokën dhe ajrin
+2026
+2030
+1.1.2.4
+Masa 8: Përdorimi i standardeve të hapura
+2026
+2030
+1.1.3
+Politika nr. 3 “Aksesimi i lirë dhe pa pengesë i informacionit gjeohapësinor”
+2026
+2030
+1.1.3.1
+Masa 9: Fuqizimi i gjeoportalit dhe përmirësimi i shërbimit bazuar në feedback-un e përdoruesve
+2026
+2030
+1.1.3.2
+Masa 10: Rritja e tipologjive të shërbimeve të IG dhe hapja e tyre
+2026
+2030
+1.1.3.3
+Masa 11: Organizimi i fushatave sensibilizuese dhe ngritja e kapaciteteve të përdoruesve
+2026
+2030
+1.1.3.4
+Masa 12: Ndërtimi i GIS-it Kombëtar
+2026
+2030
+1.2
+POLITIKAT PËR PËRDORIMIN E INFORMACIONIT GJEOHAPËSINOR
+1.2.1.
+Politika nr. 4 “Përgjegjësia dhe detyrimi për përdorimin nga institucionet publike”
+2026
+2030
+1.2.1.1
+Masa 13: Fushatë sensibilizuese për përdorimin e IG
+2026
+2030
+1.2.1.2
+Masa 14: Nxitja e zbatimit të standardeve dhe sigurimit të cilësisë në sektorin GIS
+2026
+2030
+1.2.1.3
+Masa 15: Monitorimi dhe vlerësimi i indikatorëve të performancës
+2026
+2030
+1.2.1.4
+Masa 16: Hartimi i një pakete detyruese për përdorimin e IG
+2026
+2030
+1.2.2
+Politika nr. 5 “Partneriteti dhe përfitimi reciprok me sipërmarrjet private”
+2026
+2030
+1.2.2.1
+Masa 17: Shtrirja e fushatës sensibilizuese dhe për biznesin
+2026
+2030
+1.2.2.2
+Masa 18: Nxitja e zbatimit të standardeve dhe sigurimit të cilësisë në sektorin GIS
+2026
+2030
+1.2.2.3
+Masa 19: Dimensioni social/publik i ASIG
+2026
+2030
+1.2.2.4
+Masa 20: Dimensioni rregullator i ASIG
+2026
+2030
+1.2.2.5
+Masa 21: Dimensioni komercial i ASIG
+2026
+2030
+1.2.3
+Politika nr. 6 “Promovimi dhe ndërgjegjësimi i përdorimit të IG nga publiku i gjerë”
+2026
+2030
+1.2.3.1
+Masa 22: Përfshirja e publikut në promocionin për IG
+2026
+2030
+1.2.3.2
+Masa 23: Ofrimi i informacionit bazë për qytetarin
+2026
+2030
+1.2.3.3
+Masa 24: Ndërveprimi dhe shfrytëzimi i platformave globale të hapura
+2026
+2030
+1.3
+POLITIKAT PËR FUNKSIONALITETIN E SISTEMIT TË INFORMACIONIT GJEOHAPËSINOR
+1.3.1
+Politika nr. 7 “Organizim institucional funksional”
+2026
+2030
+1.3.1.1
+Masa 25: Rishikimi i arkitekturës institucionale të sektorit IG dhe riprojektimi i profilit dhe funksioneve të ASIG
+2026
+2030
+1.3.1.2
+Masa 26: Riorganizimi i brendshëm i ASIG sipas rolit në sektorin IG
+2026
+2030
+1.3.1.3
+Masa 27: Riorganizimi apo ngritja e strukturave të dedikuara për IG në autoritetet publike
+2026
+2030
+1.3.1.4
+Masa 28: Plan angazhimi për aktorët institucionalë të sektorit
+2026
+2030
+1.3.2
+Politika nr. 8 “Dije institucionale dhe kapacitete njerëzore në sektorin e IG”
+2026
+2030
+1.3.2.1
+Masa 29: Përfundimi i procesit të hartimit dhe miratimit të standardeve në lidhje me temat e IG
+2026
+2030
+1.3.2.2
+Masa 30: Krijimi i marrëveshjeve me institucionet akademike
+2026
+2030
+1.3.2.3
+Masa 31: Pilotimi i rrjetit të profesionistëve në fushën e IG
+2026
+2030
+1.3.2.4
+Masa 32: Programe për trajnim-zhvillimin e stafit, ngritjen në karrierë dhe motivimin në punë
+2026
+2030
+1.3.3
+Politika nr. 9 “Infrastrukturë dhe teknologji funksionale, dhe e rrjetëzuar”
+2026
+2030
+1.3.3.1
+Masa 33: Përdorimi i teknologjisë dhe infrastrukturës
+2026
+2030
+1.3.3.2
+Masa 34: Integrimi i infrastrukturës së të gjithë institucioneve në sistemin digjital/elektronik
+2026
+2030
+1.3.3.3
+Masa 35: Plan mirëmbajtje që sistemet të mos degradojnë
+2026
+2030
+1.4
+POLITIKAT PËR MIRËADMINISTRIMIN E SEKTORIT
+1.4.1
+Politika nr. 10 “Financim i qëndrueshëm i sektorit”
+2026
+2030
+1.4.1.1
+Masa 36: Rritje e financimit të IG bazuar në vlerën/impaktin e tij
+2026
+2030
+1.4.1.2
+Masa 37: Mundësi bashkëfinancimi ndërmjet NjVV, ASIG
+2026
+2030
+1.4.1.3
+Masa 38: Optimizimi me biznesin nëpërmjet përfshirjes së sistemeve të menaxhimit privat
+2026
+2030
+1.4.1.4
+Masa 39: Tërheqja e fondeve IPA(instrumenti i para aderimit) dhe fondeve të donatorëve të tjerë
+2026
+2030
+1.4.1.5
+Masa 40: Shitja e produkteve specifike
+2026
+2030
+1.4.2
+Politika nr. 11 “Mirërregullimi i të drejtave dhe detyrimeve”
+2026
+2030
+1.4.2.1
+Masa 41: Analizimi dhe rishikimi i kuadrit rregullator në drejtim të “derregullimit”
+2026
+2030
+1.4.2.2
+Masa 42: Të drejtat e pronësisë intelektuale
+2026
+2030
+1.4.2.3
+Masa 43: Bashkëpunimi i ASIG me Komisionerin për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale
+2026
+2030
+1.4.3
+Politika nr. 12 “Mbi zhvillimin e sektorit të IG”
+2026
+2030
+1.4.3.1
+Masa 44: Hartimi dhe zbatimi i strategjisë sektoriale
+2026
+2030
+1.4.3.2
+Masa 45: Fuqizimi dhe ofrimi i të gjitha shërbimeve në imazheri për forcimin e kapaciteteve
+2026
+2030
+1.4.3.3
+Masa 46: Implementimi i inteligjencës artificiale (IA) për mbledhjen, përpunimin dhe analizimin e të dhënave gjeohapësinore
+2026
+2030
 3.1.4 Realizueshmëria e Masave
 Për të gjykuar mbi realizueshmërinë e politikave dhe prioritetin, është realizuar një fizibilitet i përgjithshëm (i ulët, i mesëm, i lartë) për çdo Masë, duke vlerësuar përfitimin apo ndikimin e secilës masë tek politika përkatëse, ndikimin e mundshëm financiar (burimet, financat, koston e nevojshme), duke vlerësuar mundësinë praktike për t’u realizuar dhe natyrisht përkundrejt efektit kohor (sipas programimit të detajuar në tabelën më sipër), përfshirë elementë të tjerë që duhet të mbahen në konsideratë për secilën masë të përcaktuar me qëllim jetësimin e politikave të sektorit të informacionit gjeohapësinor në Shqipëri.
 Ky vlerësim i përgjithshëm fizibiliteti, paraqitet në tabelën e mëposhtme:
+REALIZUESHMËRIA E MASAVE
+SYNIMI
+POLITIKAT
+MASAT
+KOSTO
+PËRFITIMI
+REALIZUESHMËRIA
+PRIORITETI
+ARSYETIMI
+I. POLITIKAT PËR DISPONUESHMËRINË E IG
+1: Përcaktimi i kërkesës dhe zgjidhjes së duhur
+Masa 1: Identifikimi i përdoruesve
+E ulët
+I lartë
+Shumë e lehtë
+I lartë
+Kjo masë do të sjellë përfitim të lartë, pasi tashmë të gjithë përdoruesit do jenë lehtësisht të përcaktueshëm dhe në të njëjtin vend, duke ditur ekzaktësisht se kujt duhet t’i drejtohemi dhe si duhet të realizojmë komunikimin me secilin prej tyre, duke qenë lehtësisht e realizueshme.
+Masa 2: Mbledhja e kërkesave për IG
+E moderuar
+Shumë i lartë
+Mesatare
+I lartë
+Përfitimi që do sjellë kjo masë është shumë i lartë, pasi tashmë secili prej përdoruesve shpreh nevojat e veta kundrejt informacionit gjeohapësinor, duke reflektuar dhe ndërgjegjësuar për përdorimin dhe vlerën e shtuar të tij. Krijimi i portalit është shumë i mundshëm dhe promovimi i tij nxit përdoruesit që në çfarëdolloj momenti të paraqesin nevojat e tyre kundrejt IG. Ky proces duhet të ndërthuret edhe me procesin e hartimit të projekt buxhetit afatmesëm (PBA), në mënyrë që të jetë më efektiv
+Masa 3: Formulimi i zgjidhjeve të integruara
+Mesatare
+Shumë i lartë
+E vështirë
+Mesatar
+Kjo masë do të sjellë përfitim shumë të lartë pasi tashmë zgjidhja do formulohet jo vetëm duke u bazuar te këndvështrimi i së tashmes dhe së shkuarës, por edhe duke analizuar se sa janë realisht nevojat, në përputhje me kushtet e realitetit ekzistues dhe njëkohësisht duke përcaktuar nevojat e mundshme për të ardhmen, në sinkron me të gjitha strukturat e tjera që ndikohen nga kjo kërkesë.
+Masa 4: Angazhimi i Aktorëve për implementim
+Mesatare
+Shumë i lartë
+E lehtë
+I lartë
+Përfitimi që vjen nga kjo masë është i lartë, pasi secili prej aktorëve e ka të qartë rolin dhe detyrën e tij kundrejt përmbushjes së kërkesave specifike. Propozohet vendosja e masave administrative dhe fuqizimi i rolit monitorues dhe kontrollues të ASIG, do mundësojnë realizueshmërinë e saj.
+2: Gjenerimi i IG të duhur
+Masa 5: KRGJSH
+Mesatare
+I lartë
+Mesatare
+Mesatar
+Përfundimi i ngritjes, vënies në funksionim dhe mirëmbajtjes së KRGJSH me të gjitha sistemet/rrjetet e saj (si rrjeti shtetëror GPS, rrjetin shtetëror të nivelimit, rrjetin shtetëror gravimetrik, rrjetin e stacioneve mareografike, rrjetin e stacioneve magnetometrike), që na mundëson gjeoreferim të saktë dhe të integrueshëm me çdo vend tjetër, të çdo të dhëne dhe informacionit gjeohapësinor.
+Masa 6: Digjitalizimi i Arkivave
+E lartë
+Mesatar
+E vështirë
+I ulët
+Një masë e rëndësishme që bën të mundur realizimin e politikës për pasjen e një informacioni gjeohapësinor të plotë, është dhe digjitalizimi në mënyrë të vazhdueshme i arkivave me të dhëna historike, si dhe katalogimi i tyre, krijimi i metadatave dhe i databazave, përgjatë 10 viteve të ardhshëm, duke e prioritizuar realizimin e kësaj mase në varësi të rëndësisë së informacionit historik, gjendjes fizike të tij dhe rrezikut për t’u shkatërruar dhe humbur, si dhe volumit dhe mundësive financiare.
+Masa 7: Kalimi drejt imazherisë
+E lartë
+I lartë
+Mesatare
+Mesatar
+Kalimi drejt imazherisë për detin, tokën, nëntokën dhe ajrin. Realizimi i imazherisë ka impakt pozitiv në ofrimin e shërbimeve mbi disponueshmërinë e IG, sepse lejon grumbullimin dhe ruajtjen/mbajtjen (store) automatike të të dhënave të të gjitha kategorive. Imazheria jep informacionin bazë dhe më pas e përpunon sipas specifikës së kërkuar, duke na dhënë pamje të realitetit në mënyrë virtuale. Aktualisht imazheria është lehtësisht e implementueshme, sepse zotërohen teknologjitë e duhura.
+Masa 8: Standarde të hapura
+E moderuar
+Mesatar
+Mesatare
+Mesatar
+Përdorimi i standardeve të hapura, të cilat kanë avancuar në mënyrë të dukshme dhe japin mundësi të shumta për të plotësuar nevojën e institucioneve. Kjo do të ndikonte në aplikimin e gjerë të sistemeve GIS nga përdorues të ndryshëm dhe në çdo kohë dhe vend, duke lehtësuar shkëmbimin e të dhënave, ndërveprueshmërinë ndërmjet sistemeve dhe duke ulur ndjeshëm kostot për aplikimin e teknologjisë.
+3: Aksesimi i lirë & pa pengesë i Informacionit Gjeohapësinor
+Masa 9: Fuqizimi i gjeoportalit
+E ulët
+Shumë i lartë
+Mesatare
+I lartë
+Fuqizimi i gjeoportalit dhe përmirësimi i shërbimit bazuar në feedback-un e përdoruesve (mund të dizenjohet si një “hartë” ku tregohet se çfarë mund të gjendet, ku mund të gjendet, në çfarë formati, etj. për të gjitha institucionet dhe bizneset, etj.) si dhe rritja e aksesueshmërisë dhe lehtësisë në përdorim nëpërmjet krijimit të aplikacioneve GIS të përshtatshme në versione të ndryshme mobile, ipad etj. Përfitimi që vjen nga kjo masë lidhet me marrjen e reagimeve dhe mundësinë për të bërë ndryshime të shpejta në përputhje me kërkesat e përdoruesve dhe problematikat e shprehura prej tyre, duke rritur funksionalitetin dhe shkallën e përgjigjshmërisë, si dhe lehtësi aksesimi nëpërmjet krijimit të platformave user-friendly, të përshtatshme në të gjitha pajisjet (devices), duke rritur informimin dhe përdorimin nga të gjithë, në cilindo moment apo vendndodhje.
+Masa 10: Rritja e tipologjive të shërbimeve të informacionit gjeohapësinor dhe hapja e tyre
+E moderuar
+I moderuar
+E vështirë
+I moderuar
+Rritja e tipologjive të shërbimeve të informacionit gjeohapësinor dhe hapja e tyre, si view, download, edit, API etj, për të mundësuar aksesimin në të gjitha format e informacionit gjeohapësinor. Kjo masë do të sjellë lehtësi në procesimin e të dhënave, duke ndihmuar përdoruesit në shkarkimin, shikimin dhe ndërtimin e query-ve të ndryshme etj., si dhe, duke nxitur përdorim më të shpejtë të gjeoportalit. Kostot janë të ulëta dhe ASIG mundëson rritjen e aksesueshmërisë, së bashku me tutorialet e qarta shpjeguese.
+Masa 11: Organizimi i fushatave sensibilizuese & Ngritja e kapaciteteve të përdoruesve:
+Mesatare
+I lartë
+Mesatare
+Mesatar
+Organizimi i fushatave sensibilizuese (workshops, takime etj.) për aktorët rreth rëndësisë së informacionit gjeohapësinor dhe sektorit të IG, duke i azhurnuar me ndryshimet e fundit të teknologjisë IG dhe zhvillimit të përdorimit, për të nxitur shkallën e angazhimit të aktorëve dhe/ose bashkëpunimin midis tyre në iniciativat e reja, si dhe promovimi përmes kanaleve të ndryshme të komunikimit (multimedia, rrjetet sociale), duke përdorur shembuj ilustrues dhe video interesante mbi përfitimet dhe mënyrën e përdorimit të IG në fusha të ndryshme. Ngritja e kapaciteteve të përdoruesve për t’iu shpjeguar si mënyrën e marrjes së informacionit, ashtu dhe mënyrën për përdorimin të tij për çështje të ndryshme (njësoj si manualet e përdorimit dhe të përfitimeve që kemi për një pajisje apo aktivitet). Krijimi i fushatave synon të nxisë rritjen e ndërgjegjësimit dhe shkallë më të lartë angazhimi mes aktorëve, duke sjellë përfitim të lartë për sektorin. Kjo masë sjell përfitim shumë të lartë për të shtuar aksesimin kundrejt gjeoportalit dhe njohjen me mënyrat e shumta të përdorimit të këtij informacioni. Kosto është e ulët, kjo pasi mund të angazhohen studentë dhe të tjerë të apasionuar pas videove, marketingut, dizajnit për të bërë përgatitje të materialeve dhe shpërndarje të tyre. ASIG imponon përfshirjen e link-ut të faqes së tij në portalet e strukturave me të cilat bashkëpunon. Kjo masë do sjellë përfitime të konsiderueshme për të mundësuar orientimin sesi mund të aksesohet IG dhe njëkohësisht duke dhënë shembuj ilustrues sesi mund të bëhet aplikimi i këtij informacioni në përmbushje të nevojave të ndryshme, duke sjellë ndërgjegjësim dhe interes më të madh kundrejt sektorit.
+Masa 12: Ndërtimi i GIS Kombëtar
+E lartë
+I lartë
+Mesatare
+Mesatar
+Ndërtimi i GIS Kombëtar i cili integron të gjithë GIS-in si tematikë të autoriteteve publike dhe realizon kërkesën ligjore aktuale për ndërtimin e GIS-it kombëtar, nëpërmjet identifikimit dhe draftimit të procedurave, teknologjisë, dhe udhëzimeve për ndërveprueshmërinë, integrimin dhe vënien në dispozicion nga Gjeoportali Kombëtar i llojeve të të dhënave gjeohapësinore të përzgjedhura nga ASIG në bashkëpunim të ngushtë me institucionet respektive partnere. Kjo do të mundësonte përgatitjen e një programi kombëtar (dhe të planit të tij të zbatimit), për zhvillimin e mëtejshëm të NSDI (infrastrukturës kombëtare të informacionit gjeohapësinor), nëpërmjet bashkëpunimit me aktorët kryesorë dhe qasjen e duhur (agile approach). Ndër rezultatet kryesore do të jetë bashkëpunimi ndërsektorial për realizimin e një kornize kombëtare për ofrimin e zgjidhjeve teknike për të mundësuar ndërveprimin e të dhënave dhe sistemeve. Ky është parakusht për të siguruar qasje të hapur dhe të lehtë në të dhënat themelore për Shqipërinë - për të mbështetur një numër rastesh të ndryshme përdorimi në shoqëri.
+II. POLITIKAT PËR PËRDORIMIN E IG
+4: Përgjegjësia dhe detyrimi për përdorimin nga institucionet publike
+Masa 13: Fushatë sensibilizuese
+Mesatare
+Shumë i lartë
+Mesatare
+Mesatar
+Fushatë sensibilizuese për përdorimin e informacionit gjeohapësinor duke përdorur metodën e së kundërtës: “Si do ishte bota, jeta jonë dhe aktiviteti i institucioneve/autoriteteve publike, pa informacion gjeohapësinor?!”. Identifikimi i potencialit dhe përfitimeve në mënyrë të matshme dhe konkrete (në natyrë, vlerë dhe kohë) nga njëra anë dhe dëmit (në natyrë, vlerë dhe kohë) që mund të kemi nga krahu tjetër. Hartimi i një strategjie promocioni dhe përdorimi i institucioneve të specializuara për konceptimin dhe zbatimin e fushatës, duke i dhënë një rol aktiv studentëve dhe fakultetit/dega Gjeodezi si një grup interesi i fuqishëm për promovimin e IG dhe nevojës për të. Kjo masë e jetëson politikën sepse mundëson përmbushjen me sukses të procesit të marrjes së vendimit të duhur, pasi është kuptuar rëndësia e përdorimit të IG, është njohur dhe planifikuar vendimi.
+Masa 14: Identifikimi dhe promovimi i modeleve të suksesit për t’u ndjekur (institucione/projekte pilot)
+Mesatare
+Shumë i lartë
+Mesatare
+Mesatar
+Është e rëndësishme që ASIG në bashkëpunim me institucione të tjera (ato autoritete publike përgjegjëse për temat e informacionit gjeohapësinor) që kanë nevojën, dëshirën dhe angazhimin për përdorimin e informacionit gjeohapësinor, të identifikojë dhe promovojë modele suksesi nga përdorimi i këtij informacioni duke pasur, institucione pilot në të gjithë elementët e tyre apo projekte pilot në disa institucione. Kjo masë është me impakt të rëndësishëm jo vetëm për institucionet publike që do të ndjekin modelet e suksesit, por edhe për vetë institucionet pilot të cilët do të munden të përfitojnë aftësi në marrjen e vendimeve të duhura bazuar në përdorimin e IG. Duke pasur modele suksesi, institucionet do të kenë një bazë të sigurt nga ku mund të nisin zhvillimin e tyre në këtë aspekt, si dhe mund të përmirësohen mbi to.
+Masa 15: Monitorimi dhe vlerësimi i indikatorëve të performancës
+E lartë
+Mesatar
+Mesatare
+Mesatar
+Për të gjithë institucionet në territor, duke ndjekur realizueshmërinë dhe arritjen e këtyre indikatorëve të performancës të materializuar në territor, duke e bërë më të prekshme dhe reale performancën e treguar thjesht me shifra dhe statistika. Kjo mund të fillohet me përcaktimin e indikatorëve të performancës dhe raportimin bazuar në indikatorë sipas Direktivës INSPIRE, të cilët duhet të kthehen në tregues të matshëm në territor si dhe me vlerësimin e realizueshmërisë së tyre, përsëri të vizualizuar nëpërmjet IG. Realizimi i masës ka impakt pozitiv në ecurinë e zhvillimit të cilësisë së shërbimeve që ofrohen nga institucionet për çështje të vendimmarrjes në territor, sepse evidenton performancën, duke konsideruar më pas mundësinë për korrigjim dhe përmirësim.
+Masa 16: Hartimi i një pakete detyruese
+E lartë
+Mesatar
+Mesatare
+Mesatar
+Hartimi i një pakete detyruese të plotë për institucionet publike, që do përfshijë jo vetëm përcaktimin dhe detyrimin ligjor për përdorimin e informacionit gjeohapësinor, por edhe përcaktimet dhe detyrimin institucional dhe teknik për përdorimin e informacionit gjeohapësinor, psh. mospranimin e produkteve që nuk janë sipas standardit të përcaktuar. Pjesë e kësaj mase është edhe detyrimi për të përdorur Hartën Bazë (nëpërmjet projektit JICA), që duhet të mbështetet në vijim edhe me ndryshimet e nevojshme ligjore (Harta bazë përmban të dhëna gjeohapësinore thelbësore dhe përdoret për të mbështetur punime të ndryshme hartografike. Të dhënat e një harte bazë, janë të dhëna minimale që duhet të ketë çdo hartë që krijohet nga institucione shtetërore/private/apo dhe përdorues të thjeshtë, sipas tematikave të ndryshme). Harta Bazë duhet të jetë e detyrueshme të përdoret nga të gjitha autoritetet publike përgjegjëse për mbledhjen, përpunimin dhe përditësimin e të dhënave gjeohapësinore sipas temave të caktuara.
+5: Partneritet &Përfitim reciprok me sipërmarrjet private
+Masa 17: Shtrirja e fushatës sensibilizuese
+Mesatare
+I lartë
+E lehtë
+I moderuar
+Shtrirja e fushatës sensibilizuese, edhe për biznesin (njëkohësisht me fushatën për institucionet dhe për publikun), pasi duhet të jetë e njëjta fushatë promocioni (dhe jo 3 të tilla të ndara). Kjo masë rrit ndërgjegjësimin për impaktin e lartë të IG në shtimin e vlerës dhe përfitueshmërisë afatgjatë ekonomike kundrejt sipërmarrjeve private, duke i shtyrë që të mendojnë për përfitimet e mundshme dhe realizimin e bashkëpunimeve efektive. Përfitimi është shumë i lartë, ndërkohë që kostot mund të ulen duke gjetur mundësi të leverdishme promovimi.
+Masa 18: Nxitja e zbatimit të standardeve dhe sigurimit të cilësisë në sektorin e GIS
+E moderuar
+I lartë
+Mesatare
+Mesatar
+Nxitja e përdorimit të standardeve shtetërore, evropiane dhe ndërkombëtare nga kompanitë e prodhimit të IG, edhe kur produktet dhe shërbimet realizohen sipas kërkesave të klientit. Garantimi i standardit dhe cilësisë së shërbimit dhe produkteve të kompanive të GIS mund të mbështetet përmes promovimit të standardeve, certifikimit kur është e aplikueshme, si dhe orientimit të kërkesave, produkteve, teknologjisë dhe profesionistëve të fushës drejt praktikave të harmonizuara. Kjo masë ndihmon që sipërmarrjet private të kryejnë aktivitetet dhe të komunikojnë në të njëjtën gjuhë teknike, duke rritur cilësinë dhe përputhshmërinë me standardet. Realizimi i saj mbështetet në kuadrin ligjor në fuqi dhe në forcimin e rolit koordinues e monitorues të ASIG dhe institucioneve të tjera përgjegjëse.
+Masa 19: Dimensioni social/publik i ASIG
+E ulët
+Mesatar
+Mesatare
+Mesatar
+Vlerësimi i nevojave bazë, mbledhja e të dhënave dhe prodhimi i hartave dhe shërbimeve bazë, aplikacione, për start-ups, SME dhe biznese të tjera të kësaj kategorie, me tema të tilla si: shtrirja e biznesit, popullsia, adresat etj. Kjo masë do sjellë përfitim shumë të lartë për zhvillimin ekonomik të këtyre bizneseve, duke i orientuar drejt kuptimit të panoramës së gjerë të mjedisit ku ato kryejnë aktivitetin dhe njëkohësisht do rrisë promovimin e gjeoportalit dhe përdorimeve të tij. Kosto konsiderohet e ulët, sidomos nëse sigurohet mbështetja e qeverisë shqiptare për të nxitur zhvillimin e kësaj kategorie të biznesit me ndihmën e ASIG.
+Masa 20: Dimensioni rregullator i ASIG
+Mesatare
+Mesatar
+Mesatare
+Mesatar
+Marrëveshje me entet rregullatore dhe me kompanitë e shërbimeve për ngritjen e kapaciteteve nga ASIG dhe vënien në dispozicion të hartave bazë, hedhjen, publikimin dhe ndarjen e të dhënave, shtrëngimin/detyrimin nga entet nëse kompanitë nuk i përgjigjen marrëveshjes, si garanti i saj. Kjo masë mundëson performancë më të mirë të kompanive që ofrojnë shërbime publike, duke nxitur zgjidhjet e ndërvepruara ndërmjet tyre. Realizueshmëria mundësohet ndërmjet një angazhimi më të lartë të enteve kundrejt kompanive, duke rritur mbikëqyrjen dhe detyrimin ndaj tyre, ndërkohë që ASIG mundëson krijimin e hartave bazë.
+Masa 21: Dimensioni komercial i ASIG
+Mesatare
+I lartë
+Mesatare
+Mesatar
+Realizimi i kontratave të bashkëpunimit me përfitim reciprok dhe mundësia që ASIG të shesë informacion dhe analiza, hartat e lundrimit, hartat e trafikut etj. apo për të hyrë në marrëdhënie partneriteti për prodhim të përbashkët duke ndarë kostot, në fotografime ajrore, mbledhje të dhënash etj. Kjo masë sjell rritje të përfitueshmërisë kundrejt bizneseve, të cilat tashmë kuptojnë në mënyrë të plotë pozicionin e tyre në treg, duke parë alternativat drejt zhvillimit, ndërkohë që ASIG kompensohet për vlerën e shtuar në vendimmarrje. Përfitimi është gjithëpërfshirës, ndërkohë që realizueshmëria mundësohet ndërmjet kryerjes së takimeve, workshops të vazhdueshme, promovimit etj. Rritja e shërbimeve të tarifuara vjen vetëm pasi të jetë realizuar ndërgjegjësimi i mjaftueshëm i subjekteve.
+6: Promovimi & ndërgjegjësimi i përdorimit të IG nga publiku i gjerë
+Masa 22: Përfshirja e publikut në promocionin për IG
+E moderuar
+I lartë
+E lehtë
+I lartë
+Përfshirja e target grupit të publikut të gjerë në strategjinë e promocionit të IG, duke hartuar aktivitete konkrete për informimin, ndërgjegjësimin dhe angazhimin e publikut në përdorimin e IG, kjo në mënyrë të integruar me dy kategoritë e tjera (të institucioneve publike dhe sipërmarrjes private). Impakti i masës është pozitiv sepse, duke angazhuar publikun në promocionin për IG, ndërgjegjëson ata vetë si një kategori e rëndësishme e përdoruesve, si dhe përdoruesit e tjerë për të kuptuar rëndësinë dhe vlerën e përdorimit të IG. Rrjedhimisht niveli I përdorimit cilësor ndërlidhur edhe me shtimin e mundësive të aksesimit ofruar nga institucionet, do të rritet për të sjellë vendimmarrjet e duhura.
+Masa 23: Ofrimi i informacionit bazë për qytetarin
+Mesatare
+I lartë
+E lehtë
+Mesatar
+Ofrimi i informacionit bazë për qytetarin dhe zhvillimi i aplikacione të thjeshta mobile që mundësojnë akses në informacionin e nevojshëm apo me interes për publikun (nga rezultatet zgjedhore tek harta e krimit apo aksidenteve rrugore etj.). Impakti i masës është pozitiv për publikun sepse do t’iu mundësojë atyre pasjen e një aplikacioni të saktë dhe zyrtar që do të plotësojë nevojat bazike lidhur me përdorimin e IG në përditshmëri.
+Masa 24: Ndërveprimi dhe shfrytëzimi i platformave globale të hapura
+E lartë
+Mesatar
+E vështirë
+I ulët
+Ndërveprimi dhe shfrytëzimi i platformave globale të hapura: për të shfrytëzuar teknologjinë dhe opsionet që ato ofrojnë, duke furnizuar me të dhëna zyrtare të nevojshme për përdorim nga publiku i gjerë dhe që nuk cenojnë sigurinë kombëtare. Gjithashtu nga ky bashkëpunim, mund të ofrojë dhe ASIG shërbime të google në portalin e vet. Kjo masë ka impakt pozitiv sepse ndër të tjera rrit bashkëpunimin mes platformave të hapura globale dhe institucioneve që prodhojnë IG.
+III. POLITIKAT PËR FUNKSIONALITETIN E SISTEMIT TË IG
+7: Organizim institucional funksional
+Masa 25: Rishikimi i arkitekturës institucionale të sektorit IG & Riprojektimi i profilit dhe funksioneve të ASIG
+E moderuar
+Shumë i lartë
+Mesatare
+I lartë
+Për të garantuar fuqizimin dhe profilizimin e autoriteteve publike në lidhje me IG, orientimin e tyre drejt qëllimit dhe synimeve të sektorit, integrimin, ndërveprueshmërinë dhe eficiencën e duhur, nevojitet të riprojektohet arkitektura institucionale e të gjithë sektorit përmes rishikimit të rolit dhe përgjegjësive të autoriteteve publike në lidhje me temat e IG si dhe riorganizimit të funksioneve dhe nivelit të pjesëmarrjes në zhvillimin e sektorit. Kjo kërkon që autoritetet publike t’i japin më shumë peshë IG, duke mos e trajtuar thjesht për përdorim të brendshëm në kuadër të realizimit të përgjegjësive të tyre, por të fokusohen në ndërveprueshmërinë e tij me temat e tjera dhe vlerën e shtuar që paraqet për një numër më të gjerë përdoruesish. Kjo masë shoqërohet me riprojektimin e profilit dhe funksioneve të ASIG, në përputhje me rolin e tij si institucion qendror dhe bosht i sektorit të IG, që harton dhe monitoron politikat në lidhje me IG, mundëson/gjeneron IG bazik (6 temat për të cilat ASIG është autoritet përgjegjës, si KRGJSH, harta bazë në tokë/nëntokë/det/hapësirë, emërtimet gjeografike, DTM, ortoimazheria etj.) në shërbim të autoriteteve publike që mbulojnë temat e IG dhe përdoruesve të tjerë, nëpërmjet Drejtorisë së Gjeodezisë dhe Hartografisë, e cila mbulon Kornizën Referuese Gjeodezike, infrastrukturën e sistemeve CORS, fotogrametrinë dhe hartografinë; Drejtorisë së GIS-it Kombëtar dhe Gjeoportalit, e cila mbulon GIS-in Kombëtar, standardet për gjeoinformacionin dhe Gjeoportalin Kombëtar; si dhe Drejtorisë së Përpunimit të të Dhënave Remote Sensing, e cila mbulon përpunimin e imazherive satelitore, imazherisë UAV dhe të dhënave në 360°; që orienton, vendos standarde, koordinon/integron dhe monitoron veprimtarinë e aktorëve si dhe garanton qasjen e thjeshtë ndaj IG dhe përdorimin e tij në funksion të mirëqeverisjes dhe zhvillimit të vendit. Realizimi i kësaj mase ndihmon jetësimin e politikës përmes organizimit efektiv dhe eficient të sektorit, profilizimit dhe diferencimit të autoriteteve publike përgjegjëse për IG dhe ndërveprimit funksional të tyre, në mënyrë që çdo autoritet të ketë kontributin e tij specifik që integrohet me atë të të tjerëve për realizimin e synimeve dhe qëllimeve të sektorit. Kjo masë mundëson ripozicionimin dhe fuqizimin e ASIG-ut në sektor, duke u shndërruar në institucionin kyç të sektorit që garanton realizimin e produkteve dhe nyjën që ndërlidh aktorët e ndryshëm (prodhues, përdorues, institucione edukimi etj.).
+Masa 26: Riorganizimi i brendshëm i ASIG sipas rolit në sektorin IG
+E moderuar
+Shumë i lartë
+E lehtë
+I lartë
+Me qëllim që struktura institucionale të përshtatet për të kryer funksionet e reja dhe alokimin e buxhetit të nevojshëm për të mundësuar realizimin e misionit dhe objektivave institucionalë, është i nevojshëm riorganizimi i brendshëm i ASIG, i shoqëruar edhe me forcimin e rolit të tij koordinues dhe monitorues në sektorin IG, duke vlerësuar edhe rolin potencial si prodhues i informacionit gjeohapësinor (në profilin e një autoriteti hartografik si në praktikat ndërkombëtare). Kjo konkretizohet përmes projektimit dhe zbatimit të mekanizmave dhe proceseve standarde dhe të unifikuara të komunikimit, raportimit dhe monitorimit të veprimtarisë së autoriteteve publike përgjegjëse në lidhje me IG dhe përmbushjes së detyrimeve të tyre në raport me afatet dhe cilësinë e produktit të realizuar. Kjo masë i shërben jetësimit të politikës përmes garantimit që të gjitha funksionet e reja të ASIG, janë të projektuara/reflektuara në organizimin e brendshëm dhe ekzistojnë strukturat përkatëse përgjegjëse për realizimin e tyre. Vendosja e detyrimeve dhe standardeve të unifikuara në lidhje me komunikimin, raportimin dhe monitorimin, për të gjithë autoritetet publike, do të mundësojë skanimin e vazhdueshëm dhe tërësor të sektorit për të parë nëse të gjithë komponentët e tij po lëvizin në të njëjtin drejtim, me të njëjtën shpejtësi, dhe nëse autoritetet publike përgjegjëse për IG po përplotësojnë apo mbështesin njëri-tjetrin në përputhje me organizimin funksional të sektorit.
+Masa 27: Riorganizimi apo ngritja e strukturave të dedikuara për IG në autoritetet publike
+E lartë
+I lartë
+E vështirë
+I moderuar
+Riorganizimi apo ngritja e strukturave të dedikuara për IG në autoritetet publike përgjegjëse për temat e IG, duke krijuar lidhje funksionale me ASIG bazuar në natyrën e veçantë të funksionit që realizohet dhe përgjegjësinë e përbashkët që këto autoritete ndajnë në përmbushjen e detyrimeve që rrjedhin nga kuadri ligjor mbi IG (kjo lidhje funksionale nuk prek varësinë administrative që vijon të mbetet e njëjtë). Kjo kërkon rishikimin e organizimeve të brendshme të autoriteteve publike përgjegjëse për IG dhe orientimin e tyre për të garantuar ekzistencën dhe funksionimin e strukturave të dedikuara dhe përgjegjëse për IG, pozicionimin e duhur të tyre në organogramën e institucionit dhe ndërveprimin eficient brenda dhe jashtë institucionit, për përmbushjen e funksioneve dhe detyrimeve në kuadër të sektorit IG. Zbatimi i kësaj mase do të mundësojë integrimin e sektorit dhe rrjetëzimin funksional të strukturave përgjegjëse për IG, duke garantuar ndërveprim eficient, koordinim, monitorim dhe përgjegjshmëri më të lartë. Kjo masë synon të garantojë që autoritetet përgjegjëse për IG zotërojnë struktura të dedikuara dhe të specializuara, që do të mundësojnë realizimin e funksioneve në kuadër të arkitekturës së re institucionale, duke shërbyer njëkohësisht si pika qendrore për koordinimin dhe bashkëpunimin mes institucioneve, si dhe duke mundësuar kuptueshmëri të ndërsjellë dhe komunikim eficient.
+Masa 28: Plan angazhimi për aktorët institucionalë të sektorit
+Mesatare
+I lartë
+Mesatare
+Mesatar
+Qëllimi i kësaj mase është ndërgjegjësimi i institucioneve mbi peshën e tyre specifike në lidhje me IG, përcaktimi i formës përmes të cilës kontributi i tyre integrohet me atë të institucioneve të tjerë, konsiderimi dhe përfshirja e të gjithë institucioneve në proceset që lidhen me zhvillimin e sektorit, si dhe komunikimi e sqarimi në lidhje me funksionet dhe përgjegjësitë që duhet të përmbushin. Nëpërmjet kësaj mase synohet që të lehtësohet integrimi dhe ndërveprimi funksional mes autoriteteve publike, duke nxitur dhe formësuar kulturën e bashkëpunimit dhe bashkëndarjes, ndërgjegjësimin mbi rolin e IG dhe kuptimin që, përmes frymës së duhur institucionale, secili institucion mund të përmbushë më mirë misionin e tij dhe të kontribuojë në përmirësimin e aspekteve të tjera (përtej institucionalë) të lidhur me zhvillimin e vendit.
+8: Dije Institucionale & Kapacitete Njerëzore në Sektorin e IG
+Masa 29: Përfundimi i procesit të hartimit dhe miratimit të standardeve në lidhje me temat e IG
+E moderuar
+Shumë i lartë
+Mesatare
+I lartë
+Përfundimi i procesit të hartimit dhe miratimit të standardeve në lidhje me temat e IG duke pasur në fokus aplikueshmërinë apo zbatueshmërinë e tyre konkrete në Shqipëri përmes kombinimit të përvojave ndërkombëtare (veçanërisht kërkesave që burojnë nga INSPIRE) me përvojat e suksesshme të institucioneve shqiptare, shoqëruar me përgatitjen e manualeve/metodologjive të operimit për autoritetet përgjegjëse të IG që mundësojnë standardizimin dhe monitorimin e punës për zbatimin e këtyre standardeve. Unifikimi i proceseve të punës (standardizimi i tyre) mundëson optimizimin, thjeshtëzimin, sqarimin, integrimin dhe eficiencën e punës që duhet të kryhet për mbledhjen, përpunimin, përditësimin, shkëmbimin dhe aksesimin e grupeve të të dhënave në përputhje me standardet e temave të IG, si dhe i shërben forcimit të kapaciteteve, akumulimit të dijes (know-how) dhe formalizimit të praktikave në nivel institucional. Kjo masë siguron ekzistencën e standardeve të zbatueshme mbi temat e ndryshme të IG, që marrin parasysh kapacitetet, kushtet/mundësitë teknologjike dhe përvojat pozitive të autoriteteve shqiptare si dhe orienton e thjeshtëson punën duke integruar dhe optimizuar proceset për realizimin e saj nëpërmjet hartimit të manualeve/metodologjive që detajojnë dhe shpjegojnë hapat që duhen ndjekur.
+Masa 30: Krijimi i marrëveshjeve me institucionet akademike
+E moderuar
+Mesatar
+Mesatare
+Mesatar
+Krijimi i marrëveshjeve me institucionet akademike (fakultetet, institucionet dhe qendrat e formimit profesional) për punësimin e studentëve ekselentë, nëpërmjet ofrimit të praktikave të punës dhe aktiviteteve të përbashkëta me ASIG, që garantojnë tërheqjen dhe punësimin e talenteve premtues në fushën e GIS. Në funksion të rritjes së kërkesës dhe përthithjes së kandidatëve më mirë nga ana e ASIG dhe e institucioneve të sektorit IG, do të realizohen marrëveshje partneriteti me fakultetet dhe institucionet e tjera akademike për zgjerimin e kuotave në degët dhe programet e lidhur me IG dhe për të përshtatur kurrikulat, programet mësimore dhe metodologjitë e mësimdhënies, duke i orientuar drejt kërkesave të tregut të punës dhe zhvillimet e fundit të teknologjisë së aplikuar. Programi i praktikave të punës do të shërbejë si instrument për të promovuar profesionin e GIS - si punësim i sigurt, për të pajisur profesionistët e rinj me dije praktike dhe bashkëkohore, si dhe do të krijojë mundësi për të rekrutuar talentet dhe studentët ekselentë. Po ashtu, ASIG do të kontribuojë në edukimin dhe fitimin e dijeve praktike nga studentët përmes tutorialeve trajnuese që mund të përgatiten dhe publikohen në dritaren virtuale (gjeoportali). Procesi për modernizimin e kurrikulës mësimore do të realizohet në bashkëpunim me Ministrinë e Arsimit dhe institucionet e arsimit të lartë, ndërsa në bashkëpunim me DAP do të zbatohet platforma për realizimin e praktikave mësimore dhe punësimin e studentëve ekselentë dhe profesionistëve nga rrjetet e brendshme. Kjo masë siguron rritjen e ofertës në treg të profesionistëve të nevojshëm për t’u punësuar në sektorin e IG, dhe përmes ndërhyrjes në kurrikulën mësimore jepet ndikim në rritjen e kapaciteteve profesionale, si dhe në përshtatjen më të mirë me nevojat e sektorit. Gjithashtu, kjo masë garanton tërheqjen dhe përzgjedhjen e kandidatëve më të mirë dhe në përshtatje më të plotë me profilin e pozicioneve të punës.
+Masa 31: Pilotimi i rrjetit të profesionistëve në fushën e IG
+E lartë
+I lartë
+Mesatare
+Mesatar
+Pilotimi i rrjetit të profesionistëve në fushën e IG do të garantojë konsultim eficient midis stafit, shkëmbimin e përvojave, transferimin e dijes, bashkëpunimin e bashkëndarjen e burimeve në realizimin e projekteve dhe nismave në fushën e IG. Po ashtu, në kuadër të këtij rrjeti mund të ngrihen forume dhe grupe tematike që angazhohen me çështje specifike. Aktiviteti i ngritjes së rrjeteve/grupeve teknike brenda sektorit të IG, do të shoqërohet me përgatitjen e rregulloreve përkatëse, të cilat mund të parashikojnë ngritjen e grupeve tematike, institucionin drejtues për çdo grup/forum, temat e diskutimit, aktivitetet, frekuencën e mbledhjeve etj. Në kuadër të ngritjes dhe implementimit të rrjetit të profesionistëve IG do të krijohet lidhja dyfishe, që nënkupton lidhje me ASIG nga ana funksionale në fushën e IG dhe me institucionin nga ana administrative. Kjo do të garantojë implementim të njëjtë të standardeve dhe metodologjive të punës përgjatë të gjithë ciklit të prodhimit të IG, që nga kapja e të dhënave deri tek shpërndarja e informacionit, duke rritur në këtë mënyrë performancën e sektorit. Kjo masë ndikon në zbatimin e standardizuar dhe në mënyrë uniforme të praktikave dhe proceseve në sektorin e IG, rritjen e efektivitetit dhe eficiencës së sektorit (do i jepet zgjidhje çështjeve më shpejt dhe më saktë nga ana teknike), mundëson zhvillimin profesional të stafit, rrit motivimin në punë për faktin që punonjësit i përkasin një rrjeti më të madh, ofron mundësi për zhvillim në karrierë dhe krijon “ID-në” e profesionit GIS. Gjithashtu, rrjetëzimi i burimeve njerëzore është një mënyrë e mirë për marketimin e institucioneve pjesë e sektorit të IG dhe rritjen e koordinimit/bashkëpunimit midis tyre.
+Masa 32: Programe për trajnim-zhvillimin e stafit, ngritjen në karrierë dhe motivimin në punë
+E lartë
+Shumë i lartë
+E lehtë
+I lartë
+Marrëveshjet e praktikave të punës me institucionet e edukimit/arsimit përkatës janë hapi I parë i procesit për të garantuar burime njerëzore që janë potenciale për të ardhmen dhe kanë dëshirën e duhur për të nisur karrierën e punës si pjesë e sektorit të IG, tek të cilët duhet të investohet në mënyrë të vazhdueshme përmes hartimit të programeve dhe moduleve për zhvillimin e kapaciteteve profesionale të IG, të cilat do të shtrihen për të gjithë nivelet hierarkike të punonjësve dhe gjatë gjithë ciklit të punës (jo vetëm për punonjësit e rinj), për të gjithë stafet e institucioneve të angazhuara në prodhimin dhe shpërndarjen e informacionit gjeohapësinor, përfshirë institucionet private, duke shfrytëzuar oportunitetet që ofron teknologjia në përmirësimin e teknikave të zhvillimit të njohurive (p.sh. përmes tutorialeve që mund të publikohen edhe tek faqja e gjeoportalit, mundësitë e trajnimit online, telekonferenca, forume online ndërinstitucionalë etj.), në përputhje me nevojat e evidentuara, orientimin e sektorit dhe investimet e kryera dhe të planifikuara në teknologji në sektorin e IG. Fokus të veçantë do t’i kushtohet stafit përgjegjës për garantimin e funksionalitet të portalit GIS, për ta vënë në zbatim idenë “vizituesi” përmes “chat online” apo shërbimit telefonik.
+9: Infrastrukturë & teknologji funksionale dhe e rrjetëzuar
+Masa 33: Përdorimi i teknologjisë dhe infrastrukturës
+E ulët
+I lartë
+E lehtë
+I lartë
+Përdorimi i teknologjisë dhe infrastrukturës, e cila mund të gjendet pa pagesë nga platformat ndërkombëtare, bashkë me informacionin që ato ofrojnë, duke e lidhur me teknologjinë opensource, pra të orientuar drejt teknologjisë së të ardhmes, bazuar në një vlerësim të kapaciteteve dhe nevojave ekzistuese të institucioneve përgjegjëse për tema të ndryshme të IG. Kjo masë shërben për pajisjen me burimet e nevojshme hardware dhe software, nëpërmjet të cilave do të bëhet i mundur përdorimi në mënyrë optimale dhe në kohë reale i informacionit gjeohapësinor.
+Masa 34: Integrimi i infrastrukturës së të gjithë institucioneve në sistemin digjital/elektronik
+E lartë
+I lartë
+Mesatare
+I moderuar
+Integrimi i infrastrukturës së të gjithë institucioneve në sistemin digjital/elektroniktë të mbledhjes, përpunimit, përditësimit dhe shkëmbimit të të dhënave dhe konvertimin e shërbimeve nga manuale në dixhitale, duke i dhënë fund praktikave ekzistuese ineficiente dhe shkëmbimit të informacionit në formë shkresore. Zbatimi i kësaj mase përbën domosdoshmëri për disponueshmërinë e informacionit gjeohapësinor në kohë reale dhe në standardet e kërkuara, nëpërmjet unifikimit të informacionit gjeohapësinor.
+Masa 35: Plan mirëmbajtje që sistemet të mos degradojnë
+Mesatare
+I lartë
+E lehtë
+Mesatar
+Plan mirëmbajtje që sistemet të mos degradojnë, nëpërmjet nënshkrimit të marrëveshjeve me sektorin privat, në mënyrë që të parandalohet përkeqësimi i sistemeve dhe të mundësohen kapacitetet e duhura infrastrukturore (si p.sh. google, amazon apo dhe platforma të tjera), duke konsideruar dhe rregullimet ligjore të nevojshme për të shmangur keqpërdorimin e informacionit për qëllime të ndryshme. Kjo masë garanton rikuperimin e të dhënave në rast dëmtimi apo ndërhyrjesh të paautorizuara. Do sigurojë një planifikim të mirëmbajtjes të integruar për të gjitha sistemet.
+IV. POLITIKAT PËR MIRËADMINISTRIMIN E SEKTORIT
+10: Financim i qëndrueshëm i sektorit
+Masa 36: Rritje e financimit të IG bazuar në vlerën/impaktin e tij
+E moderuar
+Shumë i lartë
+Mesatare
+I lartë
+Hartimi i një plani financimi të sektorit dhe marrja e financimit nga buxheti mbi bazën e kontributit që informacioni gjeohapësinor jep në buxhet dhe ekonomi, duke kryer vlerësime/studime/analiza sesa vlerë e shtuar merret nga rritja me x% e financimeve jo vetëm kundrejt ASIG si institucion i vetëm, por kundrejt sektorit të IG, nëpërmjet përfshirjes së tij si prioritet në programin buxhetor. Kjo masë ka një ndikim shumë të lartë pasi sektori ka nevojë për financime në kuadër të ngritjes dhe kualifikimit të kapaciteteve, por kjo sjell ndryshime në mënyrën e shpërndarjes së buxhetit aktual. Kryerja e analizave do i japë ngjyrë rëndësisë së IG në mënyrë të argumentuar, duke rritur vëmendjen e strukturave qeveritare dhe jo vetëm për të shtuar financimet kundrejt të gjithë sektorit. Gjithashtu plani i financimit do ketë ndikim të konsiderueshëm në reduktimin e financimit të copëzuar, duke përcaktuar sesa janë realisht nevojat për burime financiare kundrejt secilit prej institucioneve përbërëse të informacionit gjeohapësinor. Realizueshmëria konsiderohet mesatare, kjo për shkak të analizave mbështetëse dhe vështirësisë për të tërhequr vëmendjen e institucioneve shtetërore kundrejt IG.
+Masa 37: Mundësi bashkëfinancimi
+Mesatare
+I lartë
+Mesatare
+Mesatar
+Mundësi bashkëfinancimi ndërmjet NjVV, ASIG dhe përdoruesve të tjerë për të gjetur zgjidhje të përbashkëta, bazuar në mundësitë e shumta teknologjike si dhe në burimet opensource. Kjo masë sjell një përfitim të lartë në reduktimin e kostove dhe njëkohësisht në aplikimin e zgjidhjeve të njëjta për shumë struktura, në mënyrë të menjëhershme dhe të plotë. Realizueshmëria mundësohet nga lobimi ndërmjet aktorëve të ndryshëm, për t’i ndërgjegjësuar në lidhje me përfitimet e shtuara nga shtrirja e financimit.
+Masa 38: Optimizimi me biznesin nëpërmjet përfshirjes së sistemeve të menaxhimit privat
+E lartë
+Mesatar
+E vështirë
+I moderuar
+Optimizimi me biznesin nëpërmjet përfshirjes së sistemeve të menaxhimit privat dhe të cilat lidhen me zhvillimin e mëtejshëm të KRGJSH, duke siguruar certifikim të përshtatshmërisë së sistemeve/rrjeteve gjeodezike të tyre me Kornizën Referuese Gjeodezike Shqiptare. Kjo masë do të sjellë përfitime të mëdha sepse të gjithë aktorët privatë do të angazhohen dhe kontribuojnë në qëndrueshmërinë financiare të sektorit duke vetë-menaxhuar sistemet e tyre ose rrjetet gjeodezike të cilat ndërthuren me zhvillimin e mëtejshëm të Kornizës Referuese Gjeodezike Shqiptare, ndërkohë që ASIG do të sigurojë certifikimin e përshtatshmërisë së tyre me KRGj Shqiptare.
+Masa 39: Tërheqja e fondeve IPA (instrumenti i para aderimit) dhe e fondeve të donatorëve të tjerë
+Mesatare
+I lartë
+Mesatare
+Mesatar
+Tërheqja e fondeve IPA dhe e fondeve të donatorëve të tjerë për të gjithë sektorin e IG, duke bashkëpunuar me institucionet që kanë të gjithë know-how për të kryer aplikimet për fonde, duke i dhënë strukturës së financës së ASIG një fokus të veçantë, për të parë ku janë këto fonde dhe sesi mund të aplikohet për të bërë thithje të tyre. Kjo masë ka impakt shumë të lartë dhe sjell potenciale të shumta për sektorin, pasi evidenton drejtimet e reja të zhvillimit dhe mundësitë e zgjerimit. Realizueshmëria mundësohet nga bashkëpunimi me FSHZH apo struktura të tjera për hartimin e projekteve, deri në kapërcimin e problemeve për aplikimin për fonde dhe thithjen e tyre.
+Masa 40: Shitja e produkteve specifike
+E moderuar
+Mesatar
+Mesatare
+Mesatar
+Mundësi për tregtueshmërinë e produkteve specifike kundrejt bizneseve apo përdoruesve të tjerë (duke filluar me hartat e navigimit) apo me klering, e cila ose do të minimizojë kostot ose do krijojë të ardhura shtesë. Kryerja e analizave të mirëfillta, komplekse dhe të detajuara, të cilat i përshtaten nevojave specifike të përdoruesve, si p.sh. shërbimet për njohjen, kuptimin dhe kryerjen e projektimeve për realitetin ekzistues mund të kryhen kundrejt një tarife të përcaktuar në përputhje me kostot për realizimin e saj. Shitja e produkteve specifike do ofrojë të ardhura për sektorin. Realizueshmëria konsiderohet mesatare, pasi nevojitet ndërgjegjësimi i subjekteve për të kuptuar vlerën e shtuar të produktit, për të cilin më pas do ishin të gatshëm të paguanin.
+11: Mirërregullimi i të drejtave dhe detyrimeve
+Masa 41: Analizimi dhe rishikimi i kuadrit rregullator në drejtim të ’derregullimit’
+E moderuar
+Shumë i lartë
+Mesatare
+Mesatar
+Analizimi dhe rishikimi i kuadrit rregullator në drejtim të ’derregullimit’, që do të mundësojë dhënien vlerë ligjore apo status ligjor informacionit gjeohapësinor, përveç statusit informativ. Informacioni gjeohapësinor duhet t’i bashkëngjitet nismës së qeverisë shqiptare për vulën digjitale për të marrë vlerë ligjore dhe për të shërbyer si provë vlefshmërie, që vërteton që të dhënat e marra nga gjeoportali janë të dhëna zyrtare. Kjo masë e jetëson politikën sepse rregullon marrëdhëniet juridike që lindin në përdorimin zyrtar të informacionit gjeohapësinor, tashmë me vlerë ligjore, jo thjesht informativ. Impakti pozitiv qëndron edhe në pasjen të qartë dhe të detyrueshme përmbushjen e rregullave të përcaktuara nga statusi ligjor i IG, duke shmangur keqinterpretimet dhe konfliktet e mundshme. Nëpërmjet kësaj, përdorimi i IG merr vlerën maksimale.
+Masa 42: Të drejtat e pronësisë intelektuale (“copyright”)
+Mesatare
+I lartë
+Mesatare
+Mesatar
+Të drejtat e pronësisë intelektuale (“copyright”), për të garantuar shkëmbimin e IG bazuar në respektimin e të drejtave të pronësisë, nëpërmjet bërjes publike të sa më shumë fushatave sensibilizimi për portalin dhe faktit që mund të aksesohet pa pagesë, duke shmangur kështu mundësitë për mashtrime, si dhe nëpërmjet forcimit të masave dhe sanksioneve për përdorimin abuziv. Kjo masë e jetëson politikën nëpërmjet dhënies vlerë të përdorimit të informacionit gjeohapësinor bazuar në respektimin e të drejtës intelektuale, për të pasur informacione autentike dhe me burime të sigurta. Impakti i masës është pozitiv në cilësinë e IG së ofruar, i cili do të përmbushë të gjithë standardet e kërkuara duke përfshirë edhe të drejtën e krijuesit.
+Masa 43: Bashkëpunimi i ASIG me Komisionerin për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale
+Mesatare
+I lartë
+E lehtë
+I lartë
+Pasja e një udhëzuesi bën të mundur që rregullat të jenë të shkruara dhe të detyrueshme për zbatim, duke përcaktuar mënyrat dhe procedurën që ndiqet për shkëmbimin e të dhënave sensitive. Kjo masë jetëson politikën sepse është “shembull” i bashkëpunimit midis institucioneve në kuadër të rregullimit të të drejtave dhe detyrimeve mes tyre në lidhje me mbrojtjen e të dhënave të shkëmbyera.
+12: Mbi zhvillimin e sektorit të IG
+Masa 44: Hartimi dhe zbatimi i strategjisë sektoriale
+Mesatare
+Mesatar
+Mesatare
+Mesatar
+Hartimi dhe zbatimi i strategjisë sektoriale i jep zgjidhje çështjes së mungesës së planifikimit strategjik të integruar për të gjithë sektorin. Realizimi i masës do të ketë impakt pozitiv në pasjen të qartë të drejtimeve strategjike për secilin aktor të sektorit si dhe orienton përmbushjen e masave të përcaktuara në dokumentet përkatëse. Kjo masë e jetëson politikën e zhvillimit nëpërmjet përcaktimit të mënyrave, kohës dhe instrumenteve për përmbushjen e objektivave strategjike të sektorit.
+Masa 45: Fuqizimi dhe ofrimi i të gjitha shërbimeve në imazheri për forcimin e kapaciteteve
+E lartë
+I lartë
+Mesatare
+Mesatar
+Fuqizimi dhe ofrimi i të gjitha shërbimeve në imazheri për forcimin e kapaciteteve, (tokë, det, ajër, kamera 360º, sonarë etj.). Kjo masë e jetëson politikën sepse bën të mundur që të realizohet synimi për të qenë avangardë dhe për të parë përtej kontekstit lokal duke ofruar imazheri për të gjithë rajonin.
+Masa 46: Implementimi i inteligjencës artificiale (IA) për mbledhjen, përpunimin dhe analizimin e të dhënave gjeohapësinore
+Shumë e lartë
+Shumë i lartë
+E vështirë
+I moderuar
+Implementimi i inteligjencës artificiale (IA) për mbledhjen, përpunimin dhe analizimin e të dhënave gjeohapësinore mund të realizohet në shërbime kryesore, duke mundësuar trajtimin e tyre në kohë reale. Shkuarja drejt inteligjencës artificiale e jetëson politikën për zhvillimin, sepse është një hap i madh i cili mundëson njohuri në kohë reale. Megjithëse kostot për teknologjitë e realizimit të inteligjencës artificiale mund të jenë të mëdha, impakti që do të ketë në ecurinë e zhvillimit do të jetë pozitiv, sepse përmirëson procesin e përpunimit dhe ofrimit të të dhënave gjeohapësinore.
 3.2 PROCESI I ZBATIMIT TË POLITIKAVE
 3.2.1 Strukturat Përgjegjëse
 Një nga kushtet për realizimin e politikave dhe masave, është përcaktimi i qartë i roleve dhe përgjegjësive të strukturave për secilën prej masave. Duke konsideruar që potencialisht mund të ketë disa ndryshime strukturore dhe riorganizim funksionesh të caktuara, më poshtë paraqitet një model dhe një vlerësim paraprak i Matricës së Përgjegjësive (RACI). Kjo matricë duhet të rishikohet nëse do të ketë ndryshimeve institucionale, ndërsa në të ardhmen duhet të përditësohet në mënyrë periodike.
+Strukturat përgjegjëse
+Nr.
+REALIZIMI I POLITIKAVE TË IG
+AKTORËT PËRGJEGJËS
+Donatori
+ASIG
+Këshilli i Ministrave
+Ministritë, autoritetet
+NjVV
+Sektori Privat
+Institucione Akademike
+1.1
+DISPONUESHMËRIA E INFORMACIONIT GJEOHAPËSINOR
 Shpjeguese:
+1.1.1
+Politika nr. 1 “Përcaktimi i kërkesës dhe zgjidhjes së duhur për IG”
 R
-Responsible / Përgjegjës
+Responsible/Përgjegjës
 Që kryen detyrën/at
-A
-Accountable / I ngarkuar me tagër
-Që merr vendime dhe ndërmerr veprime për detyrën/at
+1.1.1.1
+Masa 1: Identifikimi i përdoruesve
 C
-Consulted / I konsultuar
-Me të cilin do të komunikohet lidhur me vendimet dhe detyrat
+R
 I
-Informed / I informuar
+C
+C
+C
+I
+A
+Accountable/I ngarkuar me tagër
+Që merr vendime dhe ndërmerr veprime për detyrën/at
+1.1.1.2
+Masa 2: Mbledhja e kërkesave për IG
+I
+R
+I
+I
+I
+C
+I
+C
+Consulted/I konsultuar
+Me të cilin do të komunikohet lidhur me vendimet dhe detyrat
+1.1.1.3
+Masa 3: Formulimi i zgjidhjeve të integruara
+I
+R
+C
+C
+I
+C
+I
+I
+Informed/I informuar
 Që përditësohet me vendimet dhe veprimet gjatë projektit
+1.1.1.4
+Masa 4: Angazhimi i aktorëve për implementimin e zgjidhjeve
+I
+A
+I
+R
+R
+C
+C
+1.1.2
+Politika nr. 2 “Gjenerimi i IG të duhur”
+1.1.2.1
+Masa 5: Përfundimi i ngritjes, vënies në funksion dhe mirëmbajtjes së KRGJSH-së
+C
+R
+C
+C
+I
+C
+I
+1.1.2.2
+Masa 6: Digjitalizimi i arkivave me të dhëna historike, në 10 vite
+I
+R
+C
+C
+C
+I
+C
+1.1.2.3
+Masa 7: Kalimi drejt imazherisë: për detin, tokën, nëntokën dhe ajrin
+I
+R
+I
+I
+C
+C
+C
+1.1.2.4
+Masa 8: Përdorimi i standardeve të hapura
+I
+A
+I
+R
+R
+C
+C
+1.1.3
+Politika nr. 3 “Aksesimi i lirë dhe pa pengesë i informacionit gjeohapësinor”
+1.1.3.1
+Masa 9: Fuqizimi i gjeoportalit dhe përmirësimi i shërbimit bazuar në feedback-un e përdoruesve
+I
+A
+C
+C
+C
+C
+I
+1.1.3.2
+Masa 10: Rritja e tipologjive të shërbimeve të IG dhe hapja e tyre
+I
+R
+A
+C
+C
+C
+I
+1.1.3.3
+Masa 11: Organizimi i fushatave sensibilizuese dhe ngritja e kapaciteteve të përdoruesve
+C
+R
+I
+R
+C
+C
+I
+1.1.3.4
+Masa 12: Ndërtimi i GIS-it Kombëtar
+C
+R
+A
+R
+C
+C
+C
+1.2
+PËRDORIMI I INFORMACIONIT GJEOHAPËSINOR
+1.2.1.
+Politika nr. 4 “Përgjegjësia dhe detyrimi për përdorimin nga institucionet publike”
+1.2.1.1
+Masa 13: Fushatë sensibilizuese për përdorimin e IG
+I
+A
+I
+R
+R
+C
+I
+1.2.1.2
+Masa 14: Nxitja e zbatimit të standardeve dhe sigurimit të cilësisë në sektorin GIS
+I
+R
+A
+C
+C
+I
+I
+1.2.1.3
+Masa 15: Monitorimi dhe vlerësimi i indikatorëve të performancës
+C
+A
+I
+R
+C
+C
+I
+1.2.1.4
+Masa 16: Hartimi i një pakete detyruese për përdorimin e IG
+I
+R
+A
+C
+C
+I
+I
+1.2.2
+Politika nr. 5 “Partneriteti dhe përfitimi reciprok me sipërmarrjet private”
+1.2.2.1
+Masa 17: Shtrirja e fushatës sensibilizuese dhe për biznesin
+I
+A
+I
+R
+C
+C
+I
+1.2.2.2
+Masa 18: Nxitja e zbatimit të standardeve dhe sigurimit të cilësisë në sektorin GIS
+I
+R
+A
+C
+C
+C
+C
+1.2.2.3
+Masa 19: Dimensioni social/publik i ASIG
+I
+R
+A
+C
+C
+C
+I
+1.2.2.4
+Masa 20: Dimensioni rregullator i ASIG
+C
+R
+A
+C
+R
+I
+C
+1.2.2.5
+Masa 21: Dimensioni komercial i ASIG
+I
+R
+A
+C
+C
+R
+I
+1.2.3
+Politika nr. 6 “Promovimi dhe ndërgjegjësimi i përdorimit të IG nga publiku i gjerë”
+1.2.3.1
+Masa 22: Përfshirja e publikut në promocionin për IG
+I
+R
+A
+R
+C
+C
+I
+1.2.3.2
+Masa 23: Ofrimi i informacionit bazë për qytetarin
+I
+R
+C
+C
+C
+C
+R
+1.2.3.3
+Masa 24: Ndërveprimi dhe shfrytëzimi i platformave globale të hapura
+I
+R
+A
+C
+C
+C
+C
+1.3
+FUNKSIONALITETI I SISTEMIT TË INFORMACIONIT GJEOHAPËSINOR
+1.3.1
+Politika nr. 7 “Organizim institucional funksional”
+1.3.1.1
+Masa 25: Rishikimi i arkitekturës institucionale të sektorit IG dhe riprojektimi i profilit dhe funksioneve të ASIG
+C
+R
+A
+C
+I
+I
+C
+1.3.1.2
+Masa 26: Riorganizimi i brendshëm i ASIG sipas rolit në sektorin IG
+I
+R
+A
+C
+I
+I
+I
+1.3.1.3
+Masa 27: Riorganizimi apo ngritja e strukturave të dedikuara për IG në autoritetet publike
+I
+R
+A
+R
+R
+I
+I
+1.3.1.4
+Masa 28: Plan angazhimi për aktorët institucionalë të sektorit
+C
+A
+I
+R
+C
+C
+C
+1.3.2
+Politika nr. 8 “Dije institucionale dhe kapacitete njerëzore në sektorin e IG”
+1.3.2.1
+Masa 29: Përfundimi i procesit të hartimit dhe miratimit të standardeve në lidhje me temat e IG
+I
+R
+A
+I
+I
+I
+I
+1.3.2.2
+Masa 30: Krijimi i marrëveshjeve me institucionet akademike
+I
+R
+A
+R
+R
+I
+R
+1.3.2.3
+Masa 31: Pilotimi i rrjetit të profesionistëve në fushën e IG
+I
+R
+A
+R
+R
+C
+C
+1.3.2.4
+Masa 32: Programe për trajnim-zhvillimin e stafit, ngritjen në karrierë dhe motivimin në punë
+C
+R
+I
+R
+C
+I
+C
+1.3.3
+Politika nr. 9 “Infrastrukturë dhe teknologji funksionale dhe e rrjetëzuar”
+1.3.3.1
+Masa 33: Përdorimi i teknologjisë dhe infrastrukturës
+I
+R
+I
+R
+I
+C
+I
+1.3.3.2
+Masa 34: Integrimi i infrastrukturës së të gjithë institucioneve në sistemin digjital/elektronik
+I
+R
+A
+R
+R
+I
+C
+1.3.3.3
+Masa 35: Plan mirëmbajtje që sistemet të mos degradojnë
+I
+A
+I
+R
+R
+R
+I
+1.4
+MIRËADMINISTRIMI I SEKTORIT TË INFORMACIONIT GJEOHAPËSINOR
+1.4.1
+Politika nr. 10 “Financim i qëndrueshëm i sektorit”
+1.4.1.1
+Masa 36: Rritje e financimit të IG bazuar në vlerën/impaktin e tij
+C
+R
+A
+C
+C
+I
+I
+1.4.1.2
+Masa 37: Mundësi bashkëfinancimi ndërmjet NjVV, ASIG
+I
+R
+A
+R
+R
+R
+I
+1.4.1.3
+Masa 38: Optimizimi me biznesin nëpërmjet përfshirjes së sistemeve të menaxhimit privat
+I
+R
+I
+C
+C
+R
+C
+1.4.1.4
+Masa 39: Tërheqja e fondeve IPA(instrumenti i para aderimit) dhe fondeve të donatorëve të tjerë
+R
+R
+C
+R
+I
+I
+C
+1.4.1.5
+Masa 40: Shitja e produkteve specifike
+I
+R
+A
+R
+I
+R
+C
+1.4.2
+Politika Nr. 11 “Mirërregullimi i të drejtave dhe detyrimeve”
+1.4.2.1
+Masa 41: Analizimi dhe rishikimi i kuadrit rregullator në drejtim të “derregullimit”
+C
+R
+A
+C
+C
+I
+I
+1.4.2.2
+Masa 42: Të drejtat e pronësisë intelektuale
+I
+R
+A
+C
+C
+C
+I
+1.4.2.3
+Masa 43: Bashkëpunimi i ASIG me Komisionerin për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale
+C
+R
+I
+R
+I
+I
+I
+1.4.3
+Politika NR. 12 “Mbi zhvillimin e sektorit të IG”
+1.4.3.1
+Masa 44: Hartimi dhe zbatimi i strategjisë sektoriale
+C
+R
+A
+R
+C
+C
+C
+1.4.3.2
+Masa 45: Fuqizimi dhe ofrimi i të gjitha shërbimeve në imazheri për forcimin e kapaciteteve
+I
+R
+A
+R
+C
+C
+I
+1.4.3.3
+Masa 46: Implementimi i inteligjencës artificiale (IA) për mbledhjen, përpunimin dhe analizimin e të dhënave gjeohapësinore
+I
+R
+A
+R
+C
+I
+C
 3.2.2 Përhapja
 Për të garantuar përhapjen e duhur, kuptueshmërinë e politikave dhe të masave, dhe përthithjen e tyre nga të gjithë aktorët e përfshirë në këtë sektor, duhet të hartohet një Plan mbi shpërndarjen efikase të këtij dokumenti politikash, duke aplikuar disa metoda të ndryshme dhe duke mundësuar akses të barabartë:
 Nëpërmjet publikimit dhe shpërndarjes në institucionet përgjegjëse;
