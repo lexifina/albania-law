@@ -1,0 +1,11 @@
+# Për ratifikimin e “marrëveshjes për tregtinë e lirë ndërmjet republikës së shqipërisë dhe rumanisë”
+
+Ratifikimin e “marrëveshjes për tregtinë e lirë ndërmjet republikës së shqipërisë dhe rumanisë” · 1 versions, from 2003-06-04 (latest in force: 2003-06-04) · <https://qbz.gov.al/eli/ligj/2003/04/17/9050>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
+| Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
+| Shtojca | [shtojca.md](shtojca.md) | 0 |  |
+| Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
