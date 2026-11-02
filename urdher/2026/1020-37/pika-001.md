@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të autoritetit kontraktor, Gjykata e Shkallës së Parë e Juridiksionit të Përgjithshëm Dibër, Kancelares, znj. Shpresa Cenaj, për kryerjen e detyrave dhe nënshkrimin e akteve për të gjitha procedurat e prokurimit publik pranë kësaj gjykate.

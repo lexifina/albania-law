@@ -1,0 +1,5 @@
+URDHËR
+Nr. 37, datë 20.10.2026
+PËR DELEGIMIN E KRYERJES SË DETYRAVE QË KANË TË BËJNË ME PROCEDURAT E PROKURIMIT PUBLIK
+Bazuar në nenet 28 dhe 29, të ligjit nr. 44/2015, “Kodi i Procedurës Administrative të Republikës së Shqipërisë”, të ndryshuar; të pikës 5, të nenit 21, të ligjit nr. 162/2020 “Për prokurimin publik”, të ndryshuar; të ligjit nr. 10296, datë 8.7.2010, “Për menaxhimin financiar dhe kontrollin”, të ndryshuar; të pikës 2, të nenit 26, dhe germës “i”, të nenit 37, të ligjit nr. 98/2016, “Për organizimin e pushtetit gjyqësor në Republikën e Shqipërisë”, të ndryshuar; të pikës 2, të nenit 73, të vendimit të Këshillit të Ministrave “Për miratimin e rregullave të prokurimit publik”; të udhëzimit nr. 4, datë 18.6.2021, “Për hartimin e regjistrit të parashikimeve të procedurave të prokurimit publik dhe regjistrit të realizimit të procedurave të prokurimit dhe krijimi i tyre në sistemin e prokurimit elektronik”, si dhe të udhëzimit nr. 7, datë 30.7.2021, “Për mënyrën e zhvillimit të procedurës së prokurimit me mjete elektronike”,
+URDHËROJ:
