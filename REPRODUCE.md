@@ -538,7 +538,7 @@ Other counts:
 - 0 commits on the branch `e-ardhme`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 526 laws in the record.
-- 1052 tags.
+- 232 tags.
 
 ## Dates
 
