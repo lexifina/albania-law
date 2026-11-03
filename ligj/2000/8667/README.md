@@ -1,0 +1,19 @@
+# Për ratifikimin e konventës “për shmangien e tatimeve të dyfishta dhe parandalimin e evazionit fiskal për tatimet mbi të ardhurat”, ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së maltës
+
+Ratifikimin e konventës “për shmangien e tatimeve të dyfishta dhe parandalimin e evazionit fiskal për tatimet mbi të ard · 1 versions, from 2000-11-24 (latest in force: 2000-11-24) · <https://qbz.gov.al/eli/ligj/2000/10/23/8667>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
+| Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
+| Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
+
+Act id: `ligj-2000-8667` (tags `ligj-2000-8667/<day>`; `python tools/on.py <day> ligj-2000-8667`).
+
+## Decisions made by hand
+
+- One of these laws is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day comes from its own clause, counted from the publication day of its Fletorja Zyrtare issue (“menjëherë”: the publication day, Kushtetuta, neni 84, pika 4); any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.
