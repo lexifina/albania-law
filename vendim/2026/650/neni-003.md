@@ -1,5 +1,6 @@
 # Neni 3
 Lista e projekteve me interes për Komunitetin e Energjisë dhe projekteve me interes të ndërsjellë
+(Hequr fjalë në pikën 5 me VKM nr. 824, datë 28.10.2026)
 1. Ministria përgjegjëse për energjinë, ERE, OST sh.a., dhe Albgaz sh.a. përcaktojnë përfaqësuesit e tyre në dy grupet që do të krijohen sipas dispozitave të këtij neni dhe shtojcës III, të këtij vendimi. Anëtarësia e çdo grupi bazohet në secilin korridor e zonë prioritare dhe mbulimin e tyre gjeografik, siç përcaktohet në shtojcën I, bashkëlidhur këtij vendimi.
 2. Anëtarët e grupeve, që përfaqësojnë institucionet dhe shoqëritë energjetike shqiptare, do të jenë të angazhuar të japin kontributin e tyre në hartimin dhe miratimin e rregulloreve përkatëse të procedurës së çdo grupi, duke pasur parasysh dispozitat e shtojcës III, bashkëlidhur vendimit.
 3. Përfaqësuesit e institucioneve dhe shoqërive shqiptare, që janë pjesë e organeve vendimmarrëse të secilit grup, do të marrin pjesë në miratimin e një liste paraprake të projekteve, të hartuar sipas procesit të përcaktuar në seksionin 2, të shtojcës III të vendimit dhe në përputhje me plotësimin e kritereve të nenit 4 të këtij vendimi. Në përputhje me dispozitat e këtij vendimi, gjatë hartimit të listës paraprake:
@@ -8,7 +9,7 @@ b) merret parasysh këshilla e Sekretariatit të Komunitetit të Energjisë, me 
 4. Kur një grup harton listën e tij paraprake:
 a) çdo propozim individual për një projekt kërkon miratimin e palëve kontraktuese, territorit të të cilave i përket projekti. Nëse një palë kontraktuese nuk jep miratimin e saj, ajo duhet t’ia paraqesë grupit përkatës arsyet e saj të qenësishme për këtë mosmiratim;
 b) ai duhet të marrë në konsideratë këshillat e Sekretariatit të Komunitetit të Energjisë, me qëllim që të ketë një numër të përgjithshëm të menaxhueshëm projektesh në listën e Komunitetit të Energjisë.
-5. Lista e projekteve me interes për Komunitetin e Energjisë (PECI) dhe e projekteve me interes të ndërsjellë (PMI) që prekin drejtpërdrejt një ose më shumë palë kontraktuese të Traktatit të Komunitetit të Energjisë miratohet nga Këshilli Ministror me vendim sipas titullit II të Traktatit të Krijimit të Komunitetit të Energjisë. Lista përcaktohet çdo dy vjet, mbi bazën e listave paraprake të miratuara nga organet vendimmarrëse të grupeve. Kur harton listën e Komunitetit të Energjisë duke ndërthurur listat paraprake, Këshilli Ministror:
+5. Lista e projekteve me interes për Komunitetin e Energjisë (PECI) që prekin drejtpërdrejt një ose më shumë palë kontraktuese të Traktatit të Komunitetit të Energjisë miratohet nga Këshilli Ministror me vendim sipas titullit II të Traktatit të Krijimit të Komunitetit të Energjisë. Lista përcaktohet çdo dy vjet, mbi bazën e listave paraprake të miratuara nga organet vendimmarrëse të grupeve. Kur harton listën e Komunitetit të Energjisë duke ndërthurur listat paraprake, Këshilli Ministror:
 a) siguron që të përfshihen vetëm projektet që plotësojnë kriteret e nenit 4 të këtij vendimi;
 b) siguron koherencën ndërrajonale, duke marrë parasysh opinionin e Bordit Rregullator të Komunitetit të Energjisë;
 c) merr parasysh opinionet e palëve kontraktuese;

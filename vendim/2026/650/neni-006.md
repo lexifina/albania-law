@@ -1,6 +1,6 @@
 # Neni 6
 Koordinatorët e PECI-t
-1. Kur një projekt me interes për Komunitetin e Energjisë, i propozuar të zhvillohet në vendin tonë, has vështirësi të konsiderueshme zbatimi, ministria mund t’i kërkojë Sekretariatit të Komunitetit të Energjisë, që, në bashkëpunim me Grupin e Përhershëm të Nivelit të Lartë, të caktojë një koordinator të PECI-t për një periudhë deri në një vit, e cila mund të rinovohet dy herë.
+1. Kur një projekt me interes për Komunitetin e Energjisë has vështirësi të konsiderueshme zbatimi, Sekretariati i Komunitetit të Energjisë mund të propozojë dhe Grupi i Përhershëm i Nivelit të Lartë të Komunitetit të Energjisë, në marrëveshje me palët kontraktuese të përfshira, mund të caktojë një koordinator të PECI-t për një periudhë deri në një vit, e cila mund të rinovohet dy herë.
 2. Koordinatori i PECI-t:
 a) promovon projektin për të cilin është caktuar dhe dialogun ndërkufitar ndërmjet promovuesve e palëve të interesuara;
 b) ndihmon në konsultimin e palëve të interesuara, në diskutimin e rrugëve alternative dhe në marrjen e lejeve të nevojshme;
