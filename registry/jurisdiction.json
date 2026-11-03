@@ -1,0 +1,11 @@
+{
+  "path": "al",
+  "code": "AL",
+  "name": "Albania",
+  "level": "country",
+  "repo": "https://github.com/lexifina/albania-law",
+  "build": "built: Kushtetuta 1998-2022 (8 versions: the 1998 text and its 7 amending laws)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 3
+}

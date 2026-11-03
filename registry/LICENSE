@@ -1,0 +1,21 @@
+The legal texts come from the official publisher of the Republic of Albania and from the Assembly of Albania:
+
+  Burimi: Qendra e Botimeve Zyrtare (https://qbz.gov.al), the amending laws and the consolidated editions of the
+  Constitution, retrieved 29 October 2026; Kuvendi i Shqipërisë, "Kushtetuta e Republikës së Shqipërisë" (PDF, 2006),
+  read from the Internet Archive.
+
+They are official texts of the Republic of Albania. Albania's copyright law (ligji nr. 35/2016 "Për të drejtat e
+autorit dhe të drejtat e tjera të lidhura me to", neni 12, pika 1, shkronja "b") excludes legal, administrative and
+judicial acts, other official works, and their collections from copyright protection. QBZ sells printed and PDF consolidated collections; the editions used here
+were downloaded free from qbz.gov.al or from Internet Archive copies of it, and are reproduced with the attribution
+above.
+
+Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per line;
+spacing, quotes and dashes were normalised; QBZ's amendment notes ("Ndryshuar me ligjin ...") and footnotes were
+removed from the text and used only to check which law made each change; repealed provisions were removed; and the
+versions were arranged as git commits credited to the laws that made each change. The wording of the law was not
+changed. Neither QBZ nor the Assembly endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
