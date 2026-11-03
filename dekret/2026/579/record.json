@@ -1,0 +1,26 @@
+{
+  "qbz_id": 119699,
+  "title": "Për caktimin e datës së zgjedhjeve për organet e qeverisjes vendore",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "579",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2026-10-30",
+  "published": "2026-11-03",
+  "in_force": "2026-11-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/6354832855f559a510d95122caabb48aa1ec5bc9efa7b7eb58c848e1b60a8ddd.docx",
+  "source_sha256": "6354832855f559a510d95122caabb48aa1ec5bc9efa7b7eb58c848e1b60a8ddd",
+  "official_record": "https://qbz.gov.al/api/v1/acts/119699",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2026/10/30/579",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
