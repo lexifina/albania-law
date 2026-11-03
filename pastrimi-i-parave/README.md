@@ -53,3 +53,16 @@ Parandalimi i pastrimit të parave · 8 versions, from 2008-09-10 (latest in for
 | Neni 30 | [neni-030.md](neni-030.md) | 0 |  |
 | Neni 31 | [neni-031.md](neni-031.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
+
+Act id: `pastrimi-i-parave` (tags `pastrimi-i-parave/<day>`; `python tools/on.py <day> pastrimi-i-parave`).
+
+## Decisions made by hand
+
+- Parandalimi i pastrimit të parave: in force on 2008-09-10: its clause "hyn në fuqi 3 muaj pas botimit në Fletoren Zyrtare", published 2008-06-10.
+- Parandalimi i pastrimit të parave: Ligji nr. 10391/2011 (Fletorja Zyrtare nr. 31/2011, 2011-03-31) takes effect on 2011-04-15: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare". QBZ dates its consolidated version 1 2011-03-03.
+- Parandalimi i pastrimit të parave: Ligji nr. 66/2012 (Fletorja Zyrtare nr. 80/2012, 2012-07-13) takes effect on 2012-07-28: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare". QBZ dates its consolidated version 2 2012-06-07.
+- Parandalimi i pastrimit të parave: Ligji nr. 44/2017 (Fletorja Zyrtare nr. 85/2017, 2017-04-21) takes effect on 2017-05-06: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare". QBZ dates its consolidated version 3 2017-04-06.
+- Parandalimi i pastrimit të parave: Ligji nr. 33/2019 (Fletorja Zyrtare nr. 99/2019, 2019-07-10) takes effect on 2019-07-25: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare". QBZ dates its consolidated version 4 2019-06-16.
+- Parandalimi i pastrimit të parave: Ligji nr. 120/2021 (Fletorja Zyrtare nr. 197/2021, 2021-12-21) takes effect on 2022-01-05: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare". QBZ dates its consolidated version 5 2021-12-01.
+- Parandalimi i pastrimit të parave: Ligji nr. 62/2023 (Fletorja Zyrtare nr. 116/2023, 2023-08-03) takes effect on 2023-08-18: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare". QBZ dates its consolidated version 6 2023-07-20.
+- Parandalimi i pastrimit të parave: Ligji nr. 37/2026 (Fletorja Zyrtare nr. 80/2026, 2026-04-17) takes effect on 2026-05-02: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare". QBZ dates its consolidated version 7 2026-04-09.

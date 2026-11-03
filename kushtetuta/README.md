@@ -250,3 +250,26 @@ Kushtetuta · 8 versions, from 1998-11-28 (latest in force: 2022-03-24) · <http
 | Pjesa e shtatëmbëdhjetë | [pjesa-17.md](pjesa-17.md) | 0 |  |
 | Pjesa e tetëmbëdhjetë | [pjesa-18.md](pjesa-18.md) | 0 |  |
 | Preambula | [preambula.md](preambula.md) | 0 |  |
+
+Act id: `kushtetuta` (tags `kushtetuta/<day>`; `python tools/on.py <day> kushtetuta`).
+
+## Decisions made by hand
+
+- The act archive of qbz.gov.al starts in 2000 and has no dated versions of the Constitution, so its history is rebuilt by replaying the seven amending laws on the 1998 text.
+- The 1998 text is the Assembly's own copy ("Kushtetuta e RSH.pdf", made from Word on 8 January 2006, linked from parlament.al), read from an Internet Archive capture of 25 May 2006. It predates the first amendment (law 9675 of 13 January 2007), so it is the text as enacted. The Fletorja Zyrtare 1998 nr. 28 itself is not online.
+- Each law's instructions are applied to the text before it by Lexifina's code (whole articles replaced, added or repealed; paragraphs, letters and phrases replaced or deleted). No instruction was applied by hand.
+- The words of each version come from the official QBZ consolidated edition of that state where one exists (2008, 2012, 2015, 2016 and today), and from the replay otherwise. A provision that no later law changes reads as in today's edition throughout, so editorial differences between copies (capitals, spacing, word-division hyphens) never show as changes.
+- Every provision the replay touches is compared with the QBZ edition of its state; differences that remain after ignoring whitespace and word-division hyphens are listed below.
+- In-force dates: art. 84(3) of the Constitution sets the default (a law takes effect no sooner than 15 days after publication in the Fletorja Zyrtare). Each amending law states its own: 9675/2007 and 137/2015 "hyn në fuqi menjëherë" (dated here to the day of publication), the other five "15 ditë pas botimit" (publication day + 15). Publication days are the Fletorja Zyrtare issue dates given by qbz.gov.al, each checked against the date printed on the first page of that issue's PDF.
+- The Constitution itself took effect on promulgation by the President (art. 183), by decree nr. 2260 of 28 November 1998, after the referendum of 22 November 1998.
+- Enactment dates are read from each law's own text ("Miratuar në datën ..." or its heading); the qbz.gov.al act record is a day early for 88/2012 and 16/2022.
+- Repealed provisions are removed: QBZ prints them only as a heading and a note ("(Shfuqizuar me ligjin ...)"). Part Twelve (the Central Election Commission, arts. 153-154) was repealed whole by law 9904/2008.
+- The publisher's amendment notes are kept out of the text and used only to check the credits.
+- Replay vs edition: ligji-76-2016: neni-125: ““dh”” → ““dh”.”
+- Replay vs edition: ligji-76-2016: neni-131: “kushtetutshmerinë” → “kushtetutshmërinë”
+- Replay vs edition: ligji-76-2016: neni-136: “mbaj-tur” → “mbajtur”; ““dh”” → ““dh”.”
+- Credit check: every credited provision is named in QBZ's note for that law, and every note matches a credited change.
+- Law text: ligji-76-2016: "Pas nenit 179/a shtohet neni 179/b me këtë përmbajtje:" — there is no article 179/a; neni-179-b was placed after neni-179-01
+- Law text: ligji-16-2022: replaces “është 5 vjet nga data e fillimit të funksionimit të tyre” in neni-179-b point 8, but the text reads “është 5 vjet nga data e fillimit të funksionimit tyre”; that phrase was replaced.
+- Law text (76/2016): A stray closing quote ends the quoted text early before “2. Për ndryshimin e praktikës gjyqësore,…”; that paragraph was kept in the quoted provision.
+- Editorial differences between the Assembly's 1998 copy and the QBZ words used for the same provisions while unamended: 15 provisions differ in their words (listed here), 7 more only in spacing or line breaks: neni-001: “republikë” → “Republikë” | neni-002: “drejtpërsëdrejti.” → “drejtpërsë-drejti.”; “kombëtarë,” → “kombëtare,” | neni-010: “ndërsjelltë” → “ndërsjellë” | neni-024: “eshtë” → “është” | neni-028: “c,” → ““c”,” | neni-034: “per” → “për” | neni-058: “përdorim” → “përdorim,” | neni-083: “dh.” → ““dh”.” | neni-108: “me” → “më” | neni-112: “buxheti” → “Buxheti”; “shtetit.” → “Shtetit.” | neni-157: “shtetit” → “Shtetit” | neni-166: “forcat” → “Forcat”; “armatosura,” → “Armatosura,” | neni-169: “ministrit” → “Ministrit” | neni-173: “forcave” → “Forcave”; “armatosura” → “Armatosura” | neni-179: “”Për” → ““Për”

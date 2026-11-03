@@ -87,3 +87,19 @@ Tatimi mbi të ardhurat · 7 versions, from 2023-05-17 (latest in force: 2026-01
 | Neni 72 | [neni-072.md](neni-072.md) | 1 | 2023-12-14 |
 | Shtojca | [shtojca.md](shtojca.md) | 1 | 2026-01-30 |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
+
+Act id: `tatimi-mbi-te-ardhurat` (tags `tatimi-mbi-te-ardhurat/<day>`; `python tools/on.py <day> tatimi-mbi-te-ardhurat`).
+
+## Decisions made by hand
+
+- Tatimi mbi të ardhurat: in force on 2023-05-17: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare dhe i shtrin efektet nga data 1 janar 2024, me përjashtim të shkronjës “ç” të pikës 1 të nenit 69, që i fillon efektet me hyrjen në fuqi të këtij ligji, dhe pikës 2 të nenit 69, që i fillon efektet nga data 1 qershor 2023", published 2023-05-02.
+- Tatimi mbi të ardhurat: Akti normativ nr. 2/2023 (Fletorja Zyrtare nr. 92/2023, 2023-06-23) takes effect on 2023-06-07: normative act: "hyn në fuqi menjëherë", in force on the day it was adopted (Kushtetuta, neni 101). QBZ dates its consolidated version 1 2023-06-07.
+- Tatimi mbi të ardhurat: Akti normativ nr. 7/2023 (Fletorja Zyrtare nr. 182/2023, 2023-12-16) takes effect on 2023-12-14: normative act: "hyn në fuqi menjëherë", in force on the day it was adopted (Kushtetuta, neni 101). QBZ dates its consolidated version 2 2023-12-14.
+- Tatimi mbi të ardhurat: Vendimi i Gjykatës Kushtetuese nr. 52/2024 (Fletorja Zyrtare nr. 136/2024, 2024-08-05) takes effect on 2024-08-05: Constitutional Court decision: in force on publication in the Fletorja Zyrtare (Kushtetuta, neni 132). QBZ dates its consolidated version 3 2024-06-27.
+- Tatimi mbi të ardhurat: Akti normativ nr. 4/2024 (Fletorja Zyrtare nr. 201/2024, 2024-11-27) takes effect on 2024-11-27: normative act: "hyn në fuqi menjëherë", in force on the day it was adopted (Kushtetuta, neni 101). QBZ dates its consolidated version 4 2024-11-27.
+- Tatimi mbi të ardhurat: Ligji nr. 9/2025 (Fletorja Zyrtare nr. 40/2025, 2025-02-26) takes effect on 2025-03-13: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare". QBZ dates its consolidated version 5 2025-01-30.
+- Tatimi mbi të ardhurat: Ligji nr. 81/2025 (Fletorja Zyrtare nr. 11/2026, 2026-01-15) takes effect on 2026-01-30: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare". QBZ dates its consolidated version 6 2025-12-11.
+- Ligji 29/2023: neni 72 puts the law in force 15 days after publication and gives it effect from 1 January 2024 (parts of neni 69 earlier, and, after akti normativ nr. 7/2023, nenet 22, 23 and 24 pika 1 from 1 January 2025). The history dates the words by entry into force; the later dates of effect are in the text of neni 72 itself.
+- Ligji 29/2023: the normative acts (akte normative) took effect when adopted and, under Kushtetuta neni 101, lapse unless the Assembly approves them within 45 days; QBZ links no other act as changing this law, and its consolidated versions keep their words, so no lapse is recorded.
+- Ligji 29/2023: QBZ notes the first five changes; the changes of ligji 81/2025 to nenet 4, 13, 15 and 16 have no note but follow its article 1 ("Kudo në përmbajtje të ligjit fjalët “mjete virtuale” zëvendësohen me fjalën “kripto-aset”"), and Shtojca nr. 1 is the annex it adds; the inflected forms ("kripto-aseteve") are QBZ’s.
+- Ligji 29/2023: vendimi i Gjykatës Kushtetuese nr. 52/2024 struck the second and third sentences of neni 69 pika 1 shkronja "dh"; QBZ’s version 3 removes exactly those words, published in the Fletorja Zyrtare on 2024-08-05.

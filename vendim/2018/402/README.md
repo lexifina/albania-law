@@ -1,0 +1,20 @@
+# Për kalimin në pronësi, nga ministria e mbrojtjes te bashkia poliçan, të pronës nr. 1069, me emërtim “kombinati mekanik zona b”, me vendndodhje në poliçan, dhe për një ndryshim në vendimin nr. 515, datë 18.7.2003, të këshillit të ministrave, “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi ministrisë së mbrojtjes”, të ndryshuar, dhe në vendimin nr. 207, datë 9.3.2011, të këshillit të ministrave, “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë poliçan, të qarkut të beratit”, të ndryshuar
+
+Kalimin në pronësi, nga ministria e mbrojtjes te bashkia poliçan, të pronës nr. 1069, me emërtim “kombinati mekanik zona · 1 versions, from 2018-07-09 (latest in force: 2018-07-09) · <https://qbz.gov.al/eli/vendim/2018/07/04/402>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
+| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
+| Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
+| Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+
+Act id: `vendim-2018-402` (tags `vendim-2018-402/<day>`; `python tools/on.py <day> vendim-2018-402`).
+
+## Decisions made by hand
+
+- A decision of the Council of Ministers is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the Council of Ministers’ normative acts take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names; any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.

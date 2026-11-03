@@ -9,11 +9,8 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `kushtetuta/` | Kushtetuta e Republikës së Shqipërisë (ligji nr. 8417, datë 21.10.1998) | 8 | From its entry into force on 28 November 1998, through all seven amending laws (2007, 2008, 2012, 2015, 2016, 2020, 2022), to today |
-| `tatimi-mbi-te-ardhurat/` | Ligji nr. 29/2023 “Për tatimin mbi të ardhurat” (income tax) | 7 | As published (in force 17 May 2023), then QBZ's official consolidated text after each of its six changes: three normative acts (2023, 2024), Constitutional Court decision nr. 52/2024 and laws 9/2025 and 81/2025, to today |
-| `pastrimi-i-parave/` | Ligji nr. 9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit” | 8 | As published (in force 10 September 2008), then QBZ's consolidated text after each of its seven amending laws (2011, 2012, 2017, 2019, 2021, 2023, 2026), to today |
-| `shtetesia/` | Ligji nr. 113/2020 “Për shtetësinë” (citizenship) | 3 | As published (in force 14 October 2020), then QBZ's consolidated text after laws 77/2024 and 49/2026, to today |
 
-The per-act `README.md` in each folder lists every provision, how often it changed and when. The text in force today is, provision for provision, the official consolidated edition published by Qendra e Botimeve Zyrtare (QBZ).
+The per-act `README.md` in the folder lists every provision, how often it changed and when. The text in force today is, provision for provision, the official consolidated edition published by Qendra e Botimeve Zyrtare (QBZ).
 
 ## A lawyer's questions as git commands
 
@@ -39,10 +36,6 @@ After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch kee
 - **The Constitution itself** was adopted by the Assembly on 21 October 1998, approved by referendum on 22 November 1998 and promulgated by presidential decree nr. 2260 on 28 November 1998; by its art. 183 it took effect on promulgation. Its first commit is dated 1998-11-28.
 - Publication days are the Fletorja Zyrtare issue dates in qbz.gov.al's records, each checked against the date printed on that issue's first page. Enactment dates are read from each law's own text: qbz.gov.al's act record is a day early for 88/2012 and 16/2022.
 - `--before="YYYY-MM-DD"` alone uses your clock's time of day, so a law that took effect that day may be missed before noon. Use `T23:59:59Z` as above, or the tool.
-
-## How the income tax, anti-money-laundering and citizenship laws were built
-
-Each law's first version is the law as published in the Fletorja Zyrtare (for ligji nr. 29/2023, nr. 70, 2 May 2023). Each later version is the consolidated text Qendra e Botimeve Zyrtare publishes after each act that changed the law, dated by that act's own entry into force: a law 15 days after its publication (its own clause), a normative act on the day it was adopted ("hyn në fuqi menjëherë", Constitution art. 101), and the Constitutional Court decision on the day it was published (art. 132). QBZ's notes in the consolidated text ("(Ndryshuar … me ligjin nr. 81/2025 …)") are left out of the files; every provision that changes in a version is checked against them, or against the changing act's own words where QBZ adds no note (law 81/2025's replacement of "mjete virtuale" by "kripto-aset" throughout the income tax law, and the annex it adds); where neither names a change (point 4 of art. 24 of the citizenship law, dropped in QBZ's text after law 77/2024), the change is recorded as unexplained, from the publisher. The income tax law gives itself effect from 1 January 2024 (art. 72); the history dates the words by entry into force, and the dates of effect are in art. 72's own text.
 
 ## How the history was rebuilt
 
@@ -81,7 +74,7 @@ No AI model wrote or changed legal text. Claude Opus 5.5 wrote the scripts and c
 
 | Source | Kind | Past versions | Names the amending act | Bulk | Notes |
 | --- | --- | --- | --- | --- | --- |
-| [Qendra e Botimeve Zyrtare](https://qbz.gov.al) (QBZ), open JSON API `qbz.gov.al/api/v1` | Official publisher (gazette, acts, consolidated editions) | consolidated versions per act for some laws (`/acts/{id}/versions`, each naming the act that changed it); acts from 2000 | the amending laws are separate acts | per act and per gazette issue | Used: the .docx of each amending law, the gazette issue dates, and today's consolidated Constitution (free PDF with a text layer) |
+| [Qendra e Botimeve Zyrtare](https://qbz.gov.al) (QBZ), open JSON API `qbz.gov.al/api/v1` | Official publisher (gazette, acts, consolidated editions) | no dated versions; acts from 2000 | the amending laws are separate acts | per act and per gazette issue | Used: the .docx of each amending law, the gazette issue dates, and today's consolidated Constitution (free PDF with a text layer) |
 | QBZ editions of the Constitution 2008, 2012, 2015, 2016, via the [Internet Archive](https://web.archive.org/) | Official consolidated editions | one per state | yes, a note per article | n/a | Used as the words of each state and to check the replay |
 | Kuvendi i Shqipërisë, "Kushtetuta e RSH.pdf" (2006), via the Internet Archive | The Assembly's copy of the 1998 text | n/a | n/a | n/a | Used for the text as enacted |
 
@@ -95,7 +88,7 @@ This repository is not legal advice and not an official publication.
 
 ## Shqip
 
-Historia e së drejtës shqiptare në git: një skedar për çdo dispozitë dhe një commit për çdo ligj, me datën e hyrjes së tij në fuqi dhe me ligjin që bëri ndryshimin si autor (`git blame` tregon ligjin e çdo paragrafi). Përmban Kushtetutën e Republikës së Shqipërisë që nga hyrja në fuqi më 28 nëntor 1998, me të shtatë ligjet që e kanë ndryshuar (nr. 9675/2007, 9904/2008, 88/2012, 137/2015, 76/2016, 115/2020 dhe 16/2022), deri sot. Përmban gjithashtu ligjin nr. 29/2023 “Për tatimin mbi të ardhurat”, që nga hyrja në fuqi më 17 maj 2023, me tekstin e konsoliduar zyrtar të QBZ-së pas secilit prej gjashtë akteve që e kanë ndryshuar, deri sot; po ashtu ligjin nr. 9917/2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit” dhe ligjin nr. 113/2020 “Për shtetësinë”, me çdo ndryshim të tyre.
+Historia e së drejtës shqiptare në git: një skedar për çdo dispozitë dhe një commit për çdo ligj, me datën e hyrjes së tij në fuqi dhe me ligjin që bëri ndryshimin si autor (`git blame` tregon ligjin e çdo paragrafi). Përmban Kushtetutën e Republikës së Shqipërisë që nga hyrja në fuqi më 28 nëntor 1998, me të shtatë ligjet që e kanë ndryshuar (nr. 9675/2007, 9904/2008, 88/2012, 137/2015, 76/2016, 115/2020 dhe 16/2022), deri sot.
 
 - Teksti në fuqi në një datë: `python tools/ne_fuqi_me.py 2008-01-01 kushtetuta 64`
 - Datat: neni 84, pika 3, i Kushtetutës (ligji hyn në fuqi jo më pak se 15 ditë pas botimit në Fletoren Zyrtare); çdo ligj ndryshues e cakton vetë ditën ("menjëherë" ose "15 ditë pas botimit").

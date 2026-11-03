@@ -1,0 +1,11271 @@
+# Every act in this repository
+
+2538 acts, 2,560 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+
+## kushtetuta (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Kushtetuta e Republikës së Shqipërisë | [`kushtetuta/`](kushtetuta/) | in force | 8 | 1998-11-28 | 2022-03-24 |
+
+## ligji-1-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës rajonale për rregullat preferenciale pan-euro-mediteriane të origjinës | [`ligji-1-2012/`](ligji-1-2012/) | in force | 1 | 2012-03-06 | 2012-03-06 |
+
+## ligji-1-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës për transferimin e personave të dënuar | [`ligji-1-2013/`](ligji-1-2013/) | in force | 1 | 2013-03-05 | 2013-03-05 |
+
+## ligji-1-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bashkimit Europian për pjesëmarrjen në programin e unionit “Fiscalis 2020 | [`ligji-1-2015/`](ligji-1-2015/) | in force | 1 | 2015-03-04 | 2015-03-04 |
+
+## ligji-1-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Republikës së Francës, përfaqësuar nga rajoni Provence Alpes-Côte D’Azur, dhe Komisionit Evropian për programin “(Interreg VI-B) Euro Mesdhe (EURO MED) 2021-2027 | [`ligji-1-2024/`](ligji-1-2024/) | in force | 1 | 2024-02-29 | 2024-02-29 |
+
+## ligji-1-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim për financimin e projektit ”Hekurudhat Shqiptare- Rehabilitimi i linjës hekurudhore Tiranë-Durrës dhe ndërtimi i linjës hekurudhore për në aeroportin ndërkombëtar të Tiranës”, ratifikuar me ligjin nr. 29/2017 | [`ligji-1-2025/`](ligji-1-2025/) | in force | 1 | 2025-03-04 | 2025-03-04 |
+
+## ligji-1-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së pranimit të Republikës së Shqipërisë, përfaqësuar nga Kryeminiistri Edi Rama, në Kartën e Bordit të Paqes | [`ligji-1-2026/`](ligji-1-2026/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+
+## ligji-10-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së italisë për realizimin e programit “projekti pilot për krijimin dhe eksperimentimin e një sistemi sigurimesh të lehtësuara për mbulimin e rreziqeve në bujqësi” | [`ligji-10-2014/`](ligji-10-2014/) | in force | 1 | 2014-04-19 | 2014-04-19 |
+
+## ligji-10-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen për masat e shteteve portuale për të parandaluar, frenuar dhe eliminuar peshkimin e paligjshëm, të paraportuar dhe të parregulluar | [`ligji-10-2017/`](ligji-10-2017/) | in force | 1 | 2017-03-07 | 2017-03-07 |
+
+## ligji-10-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë, këshillit të ministrave të bosnjës dhe hercegovinës, qeverisë së republikës së maqedonisë, qeverisë së malit të zi, qeverisë së republikës së serbisë dhe qeverisë së republikës së sllovenisë për ngritjen e task-forcës mjekësore të ballkanit | [`ligji-10-2018/`](ligji-10-2018/) | in force | 1 | 2018-03-31 | 2018-03-31 |
+
+## ligji-10-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit të gjashtë shtesë të Marrëveshjes për Forcën Shumëkombëshe të Paqes në Evropën Juglindore | [`ligji-10-2020/`](ligji-10-2020/) | in force | 1 | 2020-03-05 | 2020-03-05 |
+
+## ligji-10-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për azilin në Republikën e Shqipërisë” | [`ligji-10-2021/`](ligji-10-2021/) | in force | 1 | 2021-03-11 | 2021-03-11 |
+
+## ligji-10-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për informacionin e klasifikuar | [`ligji-10-2023/`](ligji-10-2023/) | in force | 1 | 2023-03-09 | 2023-03-09 |
+
+## ligji-10-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Kosovës për njohjen e së drejtës së ushtrimit të profesioneve të avokatit dhe ndërmjetësit në zgjidhjen e mosmarrëveshjeve | [`ligji-10-2024/`](ligji-10-2024/) | in force | 1 | 2024-03-19 | 2024-03-19 |
+
+## ligji-100-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese nr. 3 të kontratës financiare ndërmjet republikës së shqipërisë dhe bankës europiane të investimeve (bei) për financimin e projektit të rrugës levan - vlorë | [`ligji-100-2012/`](ligji-100-2012/) | in force | 1 | 2012-11-29 | 2012-11-29 |
+
+## ligji-100-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të shtetit për vitin 2015 | [`ligji-100-2016/`](ligji-100-2016/) | in force | 1 | 2016-11-19 | 2016-11-19 |
+
+## ligji-100-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe fondit saudit pёr zhvillim pёr financimin e projektit “rehabilitimi i rrugёs sё lumit tё vlorёs” | [`ligji-100-2017/`](ligji-100-2017/) | in force | 1 | 2017-12-05 | 2017-12-05 |
+
+## ligji-100-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit financiar ushtarak ndërmjet qeverisë së Republikës së Turqisë dhe Këshillit të Ministrave të Republikës së Shqipërisë | [`ligji-100-2020/`](ligji-100-2020/) | in force | 1 | 2020-08-21 | 2020-08-21 |
+
+## ligji-100-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Konfederatës Zvicerane, përfaqësuar nga Agjencia Zvicerane për Zhvillim dhe Bashkëpunim (SDC) e Departamentit Federal Zviceran për Punët e Jashtme, e cila vepron përmes Ambasadës Zvicerane në Shqipëri për projektin “Lëviz Albania”, faza e dytë korrik 2019 - qershor 2023” | [`ligji-100-2021/`](ligji-100-2021/) | in force | 1 | 2021-08-18 | 2021-08-18 |
+
+## ligji-100-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për llogarinë e pagesave me shërbime bazike | [`ligji-100-2023/`](ligji-100-2023/) | in force | 1 | 2024-01-03 | 2024-01-03 |
+
+## ligji-10000-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe këshillit të ministrave të bosnjës dhe hercegovinës për shmangien e tatimit të dyfishtë mbi të ardhurat dhe kapitalin dhe për parandalimin e evazionit fiskal | [`ligji-10000-2008/`](ligji-10000-2008/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+
+## ligji-10004-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes kuadër të huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës për zhvillim të këshillit të europës (cedb) për financimin e projektit “rehabilitimi i spitalit rajonal të shkodrës - faza e tretë | [`ligji-10004-2008/`](ligji-10004-2008/) | in force | 1 | 2008-11-07 | 2008-11-07 |
+
+## ligji-10007-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të shtetit të vitit 2007 | [`ligji-10007-2008/`](ligji-10007-2008/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+
+## ligji-10009-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe mbretërisë së norvegjisë për lehtësimin e lëshimit të vizave” | [`ligji-10009-2008/`](ligji-10009-2008/) | in force | 1 | 2008-11-28 | 2008-11-28 |
+
+## ligji-10010-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së mbretërisë së norvegjisë për ripranimin e personave me qëndrim të paautorizuar | [`ligji-10010-2008/`](ligji-10010-2008/) | in force | 1 | 2008-11-28 | 2008-11-28 |
+
+## ligji-10013-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë dhe kombeve të bashkuara për zbatimin e vendimeve të gjykatës ndërkombëtare të krimeve për ish-jugosllavinë” | [`ligji-10013-2008/`](ligji-10013-2008/) | in force | 1 | 2008-12-06 | 2008-12-06 |
+
+## ligji-10014-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet republikës së shqipërisë dhe islandës për lehtësimin e lëshimit të vizave” | [`ligji-10014-2008/`](ligji-10014-2008/) | in force | 1 | 2008-12-06 | 2008-12-06 |
+
+## ligji-10015-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë dhe islandës, për ripranimin e personave me qëndrim të paautorizuar” | [`ligji-10015-2008/`](ligji-10015-2008/) | in force | 1 | 2008-12-06 | 2008-12-06 |
+
+## ligji-10016-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “memorandumit të mirëkuptimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komandës supreme të forcave të aleancës në europë (shape) e shtabit të komandës së lartë aleate për transformimin (hq sact), për masat mbështetëse të shtetit pritës, për kryerjen e operacioneve të nato-s” | [`ligji-10016-2008/`](ligji-10016-2008/) | in force | 1 | 2008-12-11 | 2008-12-11 |
+
+## ligji-10020-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për hapjen e zyrës lokale gjermane për bashkëpunimin për zhvillim në shqipëri” | [`ligji-10020-2008/`](ligji-10020-2008/) | in force | 1 | 2009-01-10 | 2009-01-10 |
+
+## ligji-10021-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes dhe protokollit bashkëlidhur ndërmjet këshillit të ministrave të republikës së shqipërisë dhe këshillit federal zviceran për transportin ndërkombëtar rrugor të udhëtarëve dhe të mallrave” | [`ligji-10021-2008/`](ligji-10021-2008/) | in force | 1 | 2009-01-10 | 2009-01-10 |
+
+## ligji-10026-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së grantit ndërmjet qeverisë së republikës së shqipërisë dhe shteteve të bashkuara të amerikës të objektivit strategjik për të luftuar korrupsionin, në kuadër të programit fillestar të vlerësimit të sfidës së mijëvjeçarit (faza e dytë)” | [`ligji-10026-2008/`](ligji-10026-2008/) | in force | 1 | 2009-01-13 | 2009-01-13 |
+
+## ligji-10027-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën për mbrojtjen e trashëgimisë kulturore nënujore, paris 2001 | [`ligji-10027-2008/`](ligji-10027-2008/) | in force | 1 | 2009-01-15 | 2009-01-15 |
+
+## ligji-10030-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për mbrojtjen e ndërsjellë të informacioneve të klasifikuara” | [`ligji-10030-2008/`](ligji-10030-2008/) | in force | 1 | 2009-01-15 | 2009-01-15 |
+
+## ligji-10035-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e kombeve të bashkuara “për arrestimin e anijeve, 1999” | [`ligji-10035-2008/`](ligji-10035-2008/) | in force | 1 | 2008-12-22 | 2008-12-22 |
+
+## ligji-10036-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë dhe fondit të opec-ut për zhvillim ndërkombëtar (ofid) për financimin e projektit të rrugëve dytësore dhe vendore | [`ligji-10036-2008/`](ligji-10036-2008/) | in force | 1 | 2008-12-22 | 2008-12-22 |
+
+## ligji-10037-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e kombeve europiane “për bashkëprodhimet kinematografike | [`ligji-10037-2008/`](ligji-10037-2008/) | in force | 1 | 2008-12-22 | 2008-12-22 |
+
+## ligji-10038-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën për taksimin e mjeteve rrugore në transportin ndërkombëtar të mallrave | [`ligji-10038-2008/`](ligji-10038-2008/) | in force | 1 | 2008-12-22 | 2008-12-22 |
+
+## ligji-10044-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit shtesë të “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqiërisë dhe Republikës së Austrisë për realizimin e një sistemi kompjuterik për regjistrin themeletar të gjendjes civile në Shqipëri | [`ligji-10044-2008/`](ligji-10044-2008/) | in force | 1 | 2009-01-15 | 2009-01-15 |
+
+## ligji-10045-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së transferimit dhe kontributit ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave, fondacionit për financimin dhe zhvillimin e ndërmarrjeve (fefad) dhe fondit europian për europën juglindore (efse)” | [`ligji-10045-2008/`](ligji-10045-2008/) | in force | 1 | 2008-12-24 | 2008-12-24 |
+
+## ligji-10046-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë dhe të projektit ndërmjet republikës së shqipërisë dhe bankës gjermane për rindërtim dhe zhvillim (kfw) për financimin e projektit “sistemi i kanalizimeve të ujërave të zeza, korça | [`ligji-10046-2008/`](ligji-10046-2008/) | in force | 1 | 2008-12-24 | 2008-12-24 |
+
+## ligji-10055-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim (idb) për marrjen pjesë në financimin e projektit të furnizimit me ujë dhe të shërbimeve sanitare në orikum” | [`ligji-10055-2009/`](ligji-10055-2009/) | in force | 1 | 2009-02-19 | 2009-02-19 |
+
+## ligji-10056-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komunitetit mysliman të shqipërisë për rregullimin e marrëdhënieve të ndërsjella” | [`ligji-10056-2009/`](ligji-10056-2009/) | in force | 1 | 2009-02-19 | 2009-02-19 |
+
+## ligji-10057-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe kishës ortodokse autoqefale të shqipërisë për rregullimin e marrëdhënieve të ndërsjella” | [`ligji-10057-2009/`](ligji-10057-2009/) | in force | 1 | 2009-02-19 | 2009-02-19 |
+
+## ligji-10058-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe kryegjyshatës botërore bektashiane për rregullimin e marrëdhënieve të ndërsjella” | [`ligji-10058-2009/`](ligji-10058-2009/) | in force | 1 | 2009-02-19 | 2009-02-19 |
+
+## ligji-10059-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit të zgjerimit të marrëveshjes së stabilizim-asociimit dhe të marrëveshjes së përkohshme ndërmjet republikës së shqipërisë, nga njëra anë dhe komuniteteve europiane e shteteve anëtare, nga ana tjetër, në kuadër të anëtarësimit të republikës së bullgarisë dhe republikës së rumanisë në bashkimin europian | [`ligji-10059-2009/`](ligji-10059-2009/) | in force | 1 | 2009-02-27 | 2009-02-27 |
+
+## ligji-10061-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së mbretërisë së norvegjisë për zbatimin e projektit të asistencës teknike, në mbështetje të modernizimit të sistemit të regjistrimit civil në shqipëri” | [`ligji-10061-2009/`](ligji-10061-2009/) | in force | 1 | 2009-02-24 | 2009-02-24 |
+
+## ligji-10062-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin “për kontrollin e shkarkimeve të oksideve të azotit apo flukseve të tyre ndërkufitare”, të konventës së vitit 1979 “për ndotjen ndërkufitare të ajrit në distancë të largët” | [`ligji-10062-2009/`](ligji-10062-2009/) | in force | 1 | 2009-02-24 | 2009-02-24 |
+
+## ligji-10063-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin “për reduktimin e shkarkimeve të squfurit apo të flukseve të tyre ndërkufitare, të paktën në masën 30 për qind” të konventës së vitit 1979 “për ndotjen ndërkufitare të ajrit në distancë të largët” | [`ligji-10063-2009/`](ligji-10063-2009/) | in force | 1 | 2009-02-24 | 2009-02-24 |
+
+## ligji-10064-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë, të përfaqësuar nga ministria e financave dhe bankës së greqisë” | [`ligji-10064-2009/`](ligji-10064-2009/) | in force | 1 | 2009-02-24 | 2009-02-24 |
+
+## ligji-10069-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes kuadër ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së italisë për bashkëpunimin për zhvillim” | [`ligji-10069-2009/`](ligji-10069-2009/) | in force | 1 | 2009-02-05 | 2009-02-05 |
+
+## ligji-10071-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së këshillit të europës për mbrojtjen e fëmijëve nga shfrytëzimi dhe abuzimi seksual | [`ligji-10071-2009/`](ligji-10071-2009/) | in force | 1 | 2009-03-21 | 2009-03-21 |
+
+## ligji-10074-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ushtarake të grantit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së turqisë” | [`ligji-10074-2009/`](ligji-10074-2009/) | in force | 1 | 2009-03-19 | 2009-03-19 |
+
+## ligji-10075-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kroacisë për mbrojtjen e ndërsjellë të informacionit të klasifikuar” | [`ligji-10075-2009/`](ligji-10075-2009/) | in force | 1 | 2009-03-21 | 2009-03-21 |
+
+## ligji-10077-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën për lejimin e përkohshëm, bërë në stamboll më 26 qershor 1990 | [`ligji-10077-2009/`](ligji-10077-2009/) | in force | 1 | 2009-03-24 | 2009-03-24 |
+
+## ligji-10079-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet republikës së shqipërisë dhe fondit ndërkombëtar për zhvillimin bujqësor (ifad) për financimin e programit “malet drejt tregut”” | [`ligji-10079-2009/`](ligji-10079-2009/) | in force | 1 | 2009-04-09 | 2009-04-09 |
+
+## ligji-10080-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave, fondit shqiptar për zhvillim (fshzh) dhe kfw-së, frankfurt am main, për financimin e projektit “programi për furnizimin me ujë të zonave rurale (faza 2)”” | [`ligji-10080-2009/`](ligji-10080-2009/) | in force | 1 | 2009-04-09 | 2009-04-09 |
+
+## ligji-10082-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e kontratës së koncesionit të formës “bot” (ndërtim, operim dhe transferim) për kultivimin e ullirit, në një sipërfaqe deri në 1 000 ha, në komunat synej, luz i vogël, kryevidh dhe gosë, kavajë, ndërmjet ministrisë së bujqësisë, ushqimit dhe mbrojtjes së konsumatorit, si autoritet kontraktues dhe “agrotal 1” sha-së, tiranë | [`ligji-10082-2009/`](ligji-10082-2009/) | in force | 1 | 2009-04-09 | 2009-04-09 |
+
+## ligji-10085-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E “MARRËVESHJES PËR THEMELIMIN E SHKOLLËS RAJONALE TË ADMINISTRATËS PUBLIKE (ReSPA)” | [`ligji-10085-2009/`](ligji-10085-2009/) | in force | 1 | 2009-04-09 | 2009-04-09 |
+
+## ligji-10086-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare “për barrët dhe hipotekat detare” | [`ligji-10086-2009/`](ligji-10086-2009/) | in force | 1 | 2009-04-09 | 2009-04-09 |
+
+## ligji-10088-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin shtesë të konventës për lehtësitë doganore për turizmin, në lidhje me importimin e dokumenteve e të materialeve publicitare turistike | [`ligji-10088-2009/`](ligji-10088-2009/) | in force | 1 | 2009-04-09 | 2009-04-09 |
+
+## ligji-10089-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën për lehtësitë doganore për turizmin | [`ligji-10089-2009/`](ligji-10089-2009/) | in force | 1 | 2009-04-09 | 2009-04-09 |
+
+## ligji-10090-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës ndërkombëtare “për municionet thërrmuese” | [`ligji-10090-2009/`](ligji-10090-2009/) | in force | 1 | 2009-04-15 | 2009-04-15 |
+
+## ligji-10092-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e kombeve të bashkuara “për kontratat për shitjen ndërkombëtare të mallrave” | [`ligji-10092-2009/`](ligji-10092-2009/) | in force | 1 | 2009-04-17 | 2009-04-17 |
+
+## ligji-10094-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së dukatit të madh të luksemburgut për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal, për tatimet mbi të ardhurat dhe kapitalin” | [`ligji-10094-2009/`](ligji-10094-2009/) | in force | 1 | 2009-04-25 | 2009-04-25 |
+
+## ligji-10096-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të mirëkuptimit ndërmjet republikës së shqipërisë dhe komunitetit europian për pjesëmarrjen e republikës së shqipërisë në programin “europa për qytetarët” | [`ligji-10096-2009/`](ligji-10096-2009/) | in force | 1 | 2009-05-08 | 2009-05-08 |
+
+## ligji-101-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës për blerje aksionesh të shoqërisë “hec lanabregas” sha tiranë, lidhur ndërmjet ministrisë së ekonomisë, tregtisë dhe energjetikës dhe shoqërisë “ujësjellës - kanalizime” sha tiranë | [`ligji-101-2012/`](ligji-101-2012/) | in force | 1 | 2012-11-29 | 2012-11-29 |
+
+## ligji-101-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së garancisë ndërmjet republikës së shqipërisë, të përfaqësuar nga ministria e financave dhe ekonomisë, dhe kfw frankfurt am main, në lidhje me marrëveshjen e huas ndërmjet operatorit të sistemit të transmetimit sha (ost) dhe kfw frankfurt am main, për projektin “linja e transmetimit 400 kv shqipëri-maqedoni (fier-elbasan-qafëthanë)” | [`ligji-101-2017/`](ligji-101-2017/) | in force | 1 | 2017-12-05 | 2017-12-05 |
+
+## ligji-101-2021 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e vendimit të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Europës Qendrore nr. 1/2021, miratuar më 21.6.2021, për ndryshimin e shtojcës 4 të marrëveshjes së tregtisë së lirë të Europës Qendrore (CEFTA 2006), që përcakton protokollin në lidhje me përkufizimin e konceptit të “produkteve origjinuese” dhe metodat e bashkëpunimit administrativ, të referuar në nenin 14, paragrafët 1 dhe 3, dhe që shfuqizon dhe zëvendëson vendimin nr. 3/2013 dhe vendimin nr. 3/2015 të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Europës Qendrore” | [`ligji-101-2021/`](ligji-101-2021/) | amending act | 1 | 2021-08-17 | 2021-08-17 |
+
+## ligji-10100-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në traktatin e atlantikut të veriut | [`ligji-10100-2009/`](ligji-10100-2009/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+
+## ligji-10101-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen ndërmjet palëve të traktatit të atlantikut të veriut për statusin e forcave të tyre” | [`ligji-10101-2009/`](ligji-10101-2009/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+
+## ligji-10102-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për statusin e organizatës së traktatit të atlantikut të veriut, të përfaqësuesve kombëtarë dhe personelit ndërkombëtar” | [`ligji-10102-2009/`](ligji-10102-2009/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+
+## ligji-10103-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen për statusin e misioneve dhe të përfaqësuesve të shteteve të treta në organizatën e traktatit të atlantikut të veriut” | [`ligji-10103-2009/`](ligji-10103-2009/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+
+## ligji-10104-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “protokollin për statusin e shtabeve ushtarake ndërkombëtare, të ngritura në përputhje me traktatin e atlantikut të veriut” | [`ligji-10104-2009/`](ligji-10104-2009/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+
+## ligji-10105-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së themelimit të korporatës islamike për zhvillimin e sektorit privat” | [`ligji-10105-2009/`](ligji-10105-2009/) | in force | 1 | 2009-05-08 | 2009-05-08 |
+
+## ligji-10115-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë, përfaqësuar nga ministria e financave dhe ministrisë së ekonomisë dhe financave të republikës greke e organizatës së sigurimit të kredive të eksportit (ecio)” | [`ligji-10115-2009/`](ligji-10115-2009/) | in force | 1 | 2009-06-04 | 2009-06-04 |
+
+## ligji-10118-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dhënien e së drejtës së përdorimit, për 15 vjet, në brezin e frekuencave e-gsm dhe gsm 1800, bashkimit të ofertuesve, përfaqësuar nga postë telekomunikacioni i kosovës sha, sipas procedurës “tender i hapur ndërkombëtar” të datës 20.2.2009 | [`ligji-10118-2009/`](ligji-10118-2009/) | in force | 1 | 2009-05-29 | 2009-05-29 |
+
+## ligji-10121-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes kuadër të huasë ndërmjet republikës së shqipërisë dhe bankës për zhvillim të këshillit të europës (cedb) për financimin e projektit të rrugëve dytësore dhe vendore” | [`ligji-10121-2009/`](ligji-10121-2009/) | in force | 1 | 2009-05-14 | 2009-05-14 |
+
+## ligji-10122-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim (ibrd) për një financim shtesë për projektin e ofrimit të shërbimeve sociale” | [`ligji-10122-2009/`](ligji-10122-2009/) | in force | 1 | 2009-05-14 | 2009-05-14 |
+
+## ligji-10123-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes kuadër të huasë ndërmjet republikës së shqipërisë dhe bankës për zhvillim të këshillit të europës (cedb) për financimin e programit për zhvillimin e qëndrueshëm të zonave rurale, malore” | [`ligji-10123-2009/`](ligji-10123-2009/) | in force | 1 | 2009-05-14 | 2009-05-14 |
+
+## ligji-10124-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë së eksportit ndërmjet këshillit të ministrave të republikës së shqipërisë, përfaqësuar nga ministria e financave dhe unicredit bank austria, ag për financimin për përmirësimin e pajisjeve mjekësore për spitalin universitar “shefqet ndroqi”” | [`ligji-10124-2009/`](ligji-10124-2009/) | in force | 1 | 2009-05-14 | 2009-05-14 |
+
+## ligji-10125-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë, të përfaqësuar nga këshilli i ministrave, që vepron nëpërmjet ministrit të financave, alpha bank a.e. e deutsche bank ag, dega e londrës, si rregullues, institucioneve financiare, të listuara si huadhënësit fillestarë dhe alpha bank a.e., dega e londrës, si agjent, për financimin e shpenzimeve kapitale për vitin 2009, në përputhje me strategjinë kombëtare për zhvillimin dhe integrimin e shqipërisë” | [`ligji-10125-2009/`](ligji-10125-2009/) | in force | 1 | 2009-05-14 | 2009-05-14 |
+
+## ligji-10126-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së garancisë ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim (ibrd) për garantimin e projektit të privatizimit të ossh sha-së” | [`ligji-10126-2009/`](ligji-10126-2009/) | in force | 1 | 2009-05-14 | 2009-05-14 |
+
+## ligji-10133-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për patrullimin e hapësirës ajrore të republikës së shqipërisë | [`ligji-10133-2009/`](ligji-10133-2009/) | in force | 1 | 2009-06-27 | 2009-06-27 |
+
+## ligji-10134-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin e qendrës së panaireve dhe të ekspozitave tregtare | [`ligji-10134-2009/`](ligji-10134-2009/) | in force | 1 | 2009-06-27 | 2009-06-27 |
+
+## ligji-10140-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për financimin nga buxheti i shtetit të bashkësive fetare, që kanë nënshkruar marrëveshje me këshillin e ministrave | [`ligji-10140-2009/`](ligji-10140-2009/) | in force | 1 | 2009-06-27 | 2009-06-27 |
+
+## ligji-10150-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së themelimit të korporatës islamike për sigurimin e investimeve dhe të kredive të eksportit” | [`ligji-10150-2009/`](ligji-10150-2009/) | in force | 1 | 2009-11-04 | 2009-11-04 |
+
+## ligji-10151-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes financiare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane për programin ndërkufitar shqipëri-mali i zi, për vitin 2008, të komponentit të dytë të instrumentit të paraaderimit, ipa - bashkëpunimi ndërkufitar për shqipërinë” | [`ligji-10151-2009/`](ligji-10151-2009/) | in force | 1 | 2009-11-04 | 2009-11-04 |
+
+## ligji-10152-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane për programin e bashkëpunimit ndërkufitar adriatik, të instrumentit të ndihmës së paraaderimit, ipa, komponenti ii - bashkëpunimi ndërkufitar për shqipërinë” | [`ligji-10152-2009/`](ligji-10152-2009/) | in force | 1 | 2009-11-06 | 2009-11-06 |
+
+## ligji-10153-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane për programin e financimit të pjesëmarrjes së shqipërisë në programin erdf të bashkëpunimit territorial transnacional “hapësira e europës juglindore”, të instrumentit të ndihmës së paraaderimit, ipa, komponenti i bashkëpunimit ndërkufitar për vitin 2008” | [`ligji-10153-2009/`](ligji-10153-2009/) | in force | 1 | 2009-11-06 | 2009-11-06 |
+
+## ligji-10155-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë dhe mbretërisë së spanjës për bashkëpunimin në luftën kundër krimit” | [`ligji-10155-2009/`](ligji-10155-2009/) | in force | 1 | 2009-11-20 | 2009-11-20 |
+
+## ligji-10156-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e “marrëveshjes minerare të shfrytëzimit ndërmjet ministrisë së ekonomisë, tregtisë dhe energjetikës dhe “otto-al, shpk-së”” | [`ligji-10156-2009/`](ligji-10156-2009/) | in force | 1 | 2009-11-20 | 2009-11-20 |
+
+## ligji-10161-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të shtetit të vitit 2008 | [`ligji-10161-2009/`](ligji-10161-2009/) | in force | 1 | 2009-11-20 | 2009-11-20 |
+
+## ligji-10162-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së çekisë për bashkëpunimin në luftën kundër krimit” | [`ligji-10162-2009/`](ligji-10162-2009/) | in force | 1 | 2009-11-20 | 2009-11-20 |
+
+## ligji-10163-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e “marrëveshjes minerare të shfrytëzimit ndërmjet ministrisë së ekonomisë, tregtisë dhe energjetikës dhe “seasif group, shpk-së”” | [`ligji-10163-2009/`](ligji-10163-2009/) | in force | 1 | 2009-11-20 | 2009-11-20 |
+
+## ligji-10164-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për autoritetin rrugor shqiptar | [`ligji-10164-2009/`](ligji-10164-2009/) | in force | 1 | 2009-11-20 | 2009-11-20 |
+
+## ligji-10167-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për heqjen nga fondi pyjor kombëtar të sipërfaqeve të disa ngastrave të ekonomive pyjore, “mali i rencit”, lezhë dhe “bushat-bërdicë”, shkodër, që do të përdoren nga “otto-al”, shpk për karriera guri gëlqeror e argjile | [`ligji-10167-2009/`](ligji-10167-2009/) | in force | 1 | 2009-12-01 | 2009-12-01 |
+
+## ligji-10179-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e patentave europiane | [`ligji-10179-2009/`](ligji-10179-2009/) | in force | 1 | 2009-12-23 | 2009-12-23 |
+
+## ligji-10180-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen për të drejtën e patentave të organizatës botërore të pronësisë intelektuale (wipo) | [`ligji-10180-2009/`](ligji-10180-2009/) | in force | 1 | 2009-12-22 | 2009-12-22 |
+
+## ligji-10181-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar, 2002” | [`ligji-10181-2009/`](ligji-10181-2009/) | in force | 1 | 2009-12-22 | 2009-12-22 |
+
+## ligji-10182-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e konferencës së hagës “për procedurën civile” | [`ligji-10182-2009/`](ligji-10182-2009/) | in force | 1 | 2009-12-22 | 2009-12-22 |
+
+## ligji-10184-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e kamatëvonesave të kontributeve të sigurimeve të detyrueshme shoqërore, të papaguara, të të vetëpunësuarve në bujqësi | [`ligji-10184-2009/`](ligji-10184-2009/) | in force | 1 | 2009-12-22 | 2009-12-22 |
+
+## ligji-10187-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për thjeshtimin e procedurave të vizave për shoferët profesionistë të kamionëve, shtetas të vendeve anëtare të organizatës për bashkëpunim ekonomik të detit të zi” | [`ligji-10187-2009/`](ligji-10187-2009/) | in force | 1 | 2009-12-22 | 2009-12-22 |
+
+## ligji-10188-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për thjeshtimin e procedurave të vizave për afaristët, shtetas të vendeve anëtare të organizatës për bashkëpunim ekonomik të detit të zi” | [`ligji-10188-2009/`](ligji-10188-2009/) | in force | 1 | 2009-12-22 | 2009-12-22 |
+
+## ligji-10189-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit për imunitetet dhe privilegjet e asamblesë parlamentare të bashkëpunimit ekonomik të detit të zi” | [`ligji-10189-2009/`](ligji-10189-2009/) | in force | 1 | 2009-12-22 | 2009-12-22 |
+
+## ligji-10191-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe këshillit të ministrave të bosnjës dhe hercegovinës për bashkëpunimin në luftën kundër krimit, veçanërisht terrorizmit, trafikimit të paligjshëm të drogave dhe krimit të organizuar” | [`ligji-10191-2009/`](ligji-10191-2009/) | in force | 1 | 2010-01-08 | 2010-01-08 |
+
+## ligji-10194-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën “për njohjen dhe zbatimin e vendimeve të huaja në fushën civile dhe tregtare” | [`ligji-10194-2009/`](ligji-10194-2009/) | in force | 1 | 2010-01-14 | 2010-01-14 |
+
+## ligji-10195-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së malit të zi për kryerjen e veprimtarive të përbashkëta të kontrollit kufitar, në pikën e përbashkët të kalimit të kufirit muriqan/sukobinë” | [`ligji-10195-2009/`](ligji-10195-2009/) | in force | 1 | 2010-01-14 | 2010-01-14 |
+
+## ligji-10199-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit 2 shtesë “për përkufizimin e konceptit “produkte origjinuese” dhe metodat e bashkëpunimit ekonomik”, që zëvendëson protokollin me të njëjtin numër të marrëveshjes së tregtisë së lirë ndërmjet republikës së shqipërisë dhe republikës së turqisë” | [`ligji-10199-2009/`](ligji-10199-2009/) | in force | 1 | 2009-12-17 | 2009-12-17 |
+
+## ligji-102-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas, financimit dhe projektit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, e Shoqatës Rajonale për Menaxhimin e Mbetjeve të Ngurta në Korçë (KRWM) dhe KFW Frankfurt am Main për financimin e projektit “Menaxhimi i mbetjeve të ngurta në Shqipërinë Juglindore” | [`ligji-102-2013/`](ligji-102-2013/) | in force | 1 | 2013-04-19 | 2013-04-19 |
+
+## ligji-102-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për zhvillimin rajonal dhe kohezionin | [`ligji-102-2020/`](ligji-102-2020/) | in force | 1 | 2020-10-14 | 2020-10-14 |
+
+## ligji-102-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Unionin Ndërkombëtar për Konservimin e Natyrës (IUCN) | [`ligji-102-2023/`](ligji-102-2023/) | in force | 1 | 2024-02-01 | 2024-02-01 |
+
+## ligji-10202-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për regjistrimin e përgjithshëm të njësive ekonomike jobujqësore | [`ligji-10202-2009/`](ligji-10202-2009/) | in force | 1 | 2009-12-17 | 2009-12-17 |
+
+## ligji-10203-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kosovës për lëvizjen e ndërsjellë të shtetasve dhe të protokollit të saj për lëvizjen e ndërsjellë të shtetasve gjatë qarkullimit në zonat kufitare” | [`ligji-10203-2009/`](ligji-10203-2009/) | in force | 1 | 2009-12-23 | 2009-12-23 |
+
+## ligji-10204-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kosovës për ripranimin e personave” | [`ligji-10204-2009/`](ligji-10204-2009/) | in force | 1 | 2009-12-23 | 2009-12-23 |
+
+## ligji-10205-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së malit të zi për ripranimin e personave, hyrja ose qëndrimi i të cilëve është i paligjshëm” | [`ligji-10205-2009/`](ligji-10205-2009/) | in force | 1 | 2009-12-23 | 2009-12-23 |
+
+## ligji-10206-2009 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së malit të zi për lëvizjen e ndërsjellë të shtetasve” | [`ligji-10206-2009/`](ligji-10206-2009/) | in force | 1 | 2009-12-23 | 2009-12-23 |
+
+## ligji-10212-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Kosovës për bashkëpunimin policor ndërkufitar” | [`ligji-10212-2010/`](ligji-10212-2010/) | in force | 1 | 2010-03-02 | 2010-03-02 |
+
+## ligji-10213-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Malit të Zi për riparimin, rindërtimin dhe mirëmbajtjen e piramidave e të shenjave të tjera kufitare në kufirin shtetëror shqiptaro-malazez” | [`ligji-10213-2010/`](ligji-10213-2010/) | in force | 1 | 2010-03-02 | 2010-03-02 |
+
+## ligji-10214-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Irlandës për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal për tatimin mbi të ardhurat” | [`ligji-10214-2010/`](ligji-10214-2010/) | in force | 1 | 2010-03-02 | 2010-03-02 |
+
+## ligji-10220-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shpalljen e moratoriumit për mjetet motorike lundruese të Republikës së Shqipërisë | [`ligji-10220-2010/`](ligji-10220-2010/) | in force | 1 | 2010-03-12 | 2010-03-12 |
+
+## ligji-10223-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Pasqyra e organikës së shërbimit të gjendjes civile të qarkut të vlorës, pjesë e vendimit nr.1299, datë 16.12.2009, botuar në fletoren zyrtare nr.197/2009 | [`ligji-10223-2010/`](ligji-10223-2010/) | in force | 1 | 2010-03-12 | 2010-03-12 |
+
+## ligji-10224-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në konventën ndërkombëtare për përgjegjësinë civile për dëmet e shkaktuara nga ndotja nga karburanti i depozitave, 2001 | [`ligji-10224-2010/`](ligji-10224-2010/) | in force | 1 | 2010-03-12 | 2010-03-12 |
+
+## ligji-10229-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes, me shkëmbim notash, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Japonisë për financimin e projektit për përmirësimin e pajisjeve mjekësore të qendrave rajonale të emergjencës në Republikën e Shqipërisë | [`ligji-10229-2010/`](ligji-10229-2010/) | in force | 1 | 2010-03-27 | 2010-03-27 |
+
+## ligji-10230-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së huasë dhe të financimit, ndërmjet Republikës së Shqipërisë, Kreditanstalt fur Wiederaufbau (KfW), Frankfurt Am Main dhe fondacionit “FEFAD” për projektin “Promovimi i SME-ve”” | [`ligji-10230-2010/`](ligji-10230-2010/) | in force | 1 | 2010-03-27 | 2010-03-27 |
+
+## ligji-10231-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e statutit të Agjencisë Ndërkombëtare të Energjisë së Rinovueshme (IRENA) | [`ligji-10231-2010/`](ligji-10231-2010/) | in force | 1 | 2010-03-27 | 2010-03-27 |
+
+## ligji-10232-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së huasë ndërmjet Republikës së Shqipërisë dhe Fondit Saudit për Zhvillim për financimin e projektit “Ndërtimi i rrugës së mbikalimit të Durrësit”” | [`ligji-10232-2010/`](ligji-10232-2010/) | in force | 1 | 2010-03-27 | 2010-03-27 |
+
+## ligji-10234-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në protokollin “Për menaxhimin e integruar të zonës bregdetare në Mesdhe” të konventës së Barcelonës “Për mbrojtjen e mjedisit detar dhe të rajoneve bregdetare të Mesdheut” | [`ligji-10234-2010/`](ligji-10234-2010/) | in force | 1 | 2010-04-02 | 2010-04-02 |
+
+## ligji-10235-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në traktatin ndërkombëtar për burimet gjenetike të bimëve, për bujqësinë dhe ushqimin | [`ligji-10235-2010/`](ligji-10235-2010/) | in force | 1 | 2010-04-02 | 2010-04-02 |
+
+## ligji-10241-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për simbolet e përkujtimit të viktimave dhe të krimeve të komunizmit në Shqipëri | [`ligji-10241-2010/`](ligji-10241-2010/) | in force | 1 | 2010-04-07 | 2010-04-07 |
+
+## ligji-10243-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në marrëveshjen ndërmjet shteteve palë në Traktatin e Atlantikut të Veriut për sigurinë e informacionit | [`ligji-10243-2010/`](ligji-10243-2010/) | in force | 1 | 2010-04-17 | 2010-04-17 |
+
+## ligji-10244-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Sllovakisë për mbrojtjen e ndërsjellë të informacionit të klasifikuar” | [`ligji-10244-2010/`](ligji-10244-2010/) | in force | 1 | 2010-04-17 | 2010-04-17 |
+
+## ligji-10245-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Letonisë për mbrojtjen e ndërsjellë të informacioneve të klasifikuara” | [`ligji-10245-2010/`](ligji-10245-2010/) | in force | 1 | 2010-04-17 | 2010-04-17 |
+
+## ligji-10246-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Çekisë për shkëmbimin dhe mbrojtjen e ndërsjellë të informacionit të klasifikuar” | [`ligji-10246-2010/`](ligji-10246-2010/) | in force | 1 | 2010-04-17 | 2010-04-17 |
+
+## ligji-10248-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huasë dhe projektit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, e Operatorit të Sistemit të Transmetimit, sh.a., si Agjencia e Zbatimit të Projektit dhe KfW Frankfurt am Main për financimin e projektit “Linja e transmetimit 400 kilovolt Shqipëri-Kosovë (Tiranë-Prishtinë)”, nëpërmjet një huaje prej 42 000 000 eurosh | [`ligji-10248-2010/`](ligji-10248-2010/) | in force | 1 | 2010-04-22 | 2010-04-22 |
+
+## ligji-10254-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shtyrjen e afatit të qëndrimit të kompanisë së Forcave të Armatosura të Republikës së Shqipërisë në misionin “MINURCAT” të Organizatës së Kombeve të Bashkuara në Republikën e Çadit dhe në Republikën e Afrikës Qendrore | [`ligji-10254-2010/`](ligji-10254-2010/) | in force | 1 | 2010-03-12 | 2010-03-12 |
+
+## ligji-10255-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën e Konferencës së Hagës “Për marrjen e provave jashtë shtetit në çështjet civile ose tregtare” | [`ligji-10255-2010/`](ligji-10255-2010/) | in force | 1 | 2010-05-06 | 2010-05-06 |
+
+## ligji-10256-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së bashkëpunimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Greqisë për kërkimin, zhvarrimin, identifikimin dhe varrimin e ushtarakëve grekë, të rënë në Shqipëri gjatë luftës greko-italiane të viteve 1940-1941 dhe për ndërtimin e vendprehjes për ta brenda territorit të Republikës së Shqipërisë” | [`ligji-10256-2010/`](ligji-10256-2010/) | in force | 1 | 2010-05-06 | 2010-05-06 |
+
+## ligji-10259-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare shtesë për marrëveshjen e projektit të financimit, datë 6.2.2007, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë e ndërmarrjes së ujësjellës-kanalizimeve, Pogradec dhe Bankës Gjermane për Rindërtim dhe Zhvillim (KfW) për programin e mbrojtjes mjedisore të liqenit të Ohrit “Kanalizimet, Pogradec II”” | [`ligji-10259-2010/`](ligji-10259-2010/) | in force | 1 | 2010-05-06 | 2010-05-06 |
+
+## ligji-10260-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në konventën ndërkombëtare “Për heqjen e anijeve të mbytura” | [`ligji-10260-2010/`](ligji-10260-2010/) | in force | 1 | 2010-05-06 | 2010-05-06 |
+
+## ligji-10262-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes, me shkëmbim notash, ndërmjet Republikës së Shqipërisë dhe Mbretërisë së Holandës për privilegjet dhe imunitetet e oficerit ndërlidhës” | [`ligji-10262-2010/`](ligji-10262-2010/) | in force | 1 | 2010-05-18 | 2010-05-18 |
+
+## ligji-10263-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përdorimin dhe shfrytëzimin e tokave bujqësore të pakultivuara | [`ligji-10263-2010/`](ligji-10263-2010/) | in force | 1 | 2010-05-18 | 2010-05-18 |
+
+## ligji-10265-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Letonisë për bashkëpunimin në luftën kundër terrorizmit, krimit të organizuar, trafikimit të paligjshëm të drogave, substancave psikotrope dhe prekursorëve” | [`ligji-10265-2010/`](ligji-10265-2010/) | in force | 1 | 2010-05-18 | 2010-05-18 |
+
+## ligji-10268-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Republikës së Shqipërisë dhe Republikës së Austrisë për ndihmën e ndërsjellë në raste katastrofash ose fatkeqësish të mëdha” | [`ligji-10268-2010/`](ligji-10268-2010/) | in force | 1 | 2010-06-05 | 2010-06-05 |
+
+## ligji-10269-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së huasë ndërmjet Republikës së Shqipërisë dhe Bankës Europiane për Rindërtim dhe Zhvillim (BERZH) për financimin e projektit të rrugëve rajonale dhe lokale” | [`ligji-10269-2010/`](ligji-10269-2010/) | in force | 1 | 2010-06-05 | 2010-06-05 |
+
+## ligji-10272-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit të pestë shtesë të marrëveshjes “Për forcën shumëkombëshe të paqes në Europën Juglindore | [`ligji-10272-2010/`](ligji-10272-2010/) | in force | 1 | 2010-06-05 | 2010-06-05 |
+
+## ligji-10274-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ushtarake të grantit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Turqisë | [`ligji-10274-2010/`](ligji-10274-2010/) | in force | 1 | 2010-06-15 | 2010-06-15 |
+
+## ligji-10277-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën e Roterdamit “Mbi procedurën e njoftimit të pëlqimit paraprak për disa kimikate dhe produkte të rrezikshme për mbrojtjen e bimëve në tregtinë ndërkombëtare” | [`ligji-10277-2010/`](ligji-10277-2010/) | in force | 1 | 2010-06-19 | 2010-06-19 |
+
+## ligji-10279-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për kundërvajtjet administrative | [`ligji-10279-2010/`](ligji-10279-2010/) | in force | 1 | 2010-07-14 | 2010-07-14 |
+
+## ligji-10282-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dhënien e lejes së hyrjes dhe të qëndrimit të përkohshëm në territorin e Republikës së Shqipërisë të një force ushtarake turke | [`ligji-10282-2010/`](ligji-10282-2010/) | in force | 1 | 2010-06-15 | 2010-06-15 |
+
+## ligji-10283-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në marrëveshjen e NATO-s “Për komunikimin e informacionit teknik për qëllime të mbrojtjes” | [`ligji-10283-2010/`](ligji-10283-2010/) | in force | 1 | 2010-07-15 | 2010-07-15 |
+
+## ligji-10284-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në “Marrëveshjen për mbrojtjen e ndërsjellë të teknologjive sekrete në fushën e mbrojtjes dhe për të cilat është bërë aplikimi i patentës” | [`ligji-10284-2010/`](ligji-10284-2010/) | in force | 1 | 2010-07-17 | 2010-07-17 |
+
+## ligji-10285-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Estonisë për shmangien e tatimit të dyfishtë dhe parandalimin e evaziont fiskal në lidhje me tatimin mbi të ardhurat | [`ligji-10285-2010/`](ligji-10285-2010/) | in force | 1 | 2010-07-17 | 2010-07-17 |
+
+## ligji-10287-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Republikës së Shqipërisë dhe Republikës Federale të Gjermanisë për shmangien e tatimit të dyfishtë dhe të evazionit fiskal, për taksat mbi të ardhurat dhe kapitalin” | [`ligji-10287-2010/`](ligji-10287-2010/) | in force | 1 | 2010-07-20 | 2010-07-20 |
+
+## ligji-10288-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së tregtisë së lirë ndërmjet Republikës së Shqipërisë dhe Shteteve EFTA dhe të marrëveshjeve për bujqësinë ndërmjet Republikës së Shqipërisë dhe Konfederatës së Zvicrës e Principatës së Lihtenshtejnit, Republikës së Shqipërisë dhe Mbretërisë së Norvegjisë dhe Republikës së Shqipërisë e Republikës së Islandës, si pjesë përbërëse të saj | [`ligji-10288-2010/`](ligji-10288-2010/) | in force | 1 | 2010-08-01 | 2010-08-01 |
+
+## ligji-10289-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për mënyrën e trajtimit ekonomik e financiar dhe për dhënie ndihme të menjëhershme familjeve të punonjësve të Policisë së Shtetit, të Gardës së Republikës, të Shërbimit të Kontrollit të Brendshëm, të Policisë së Mbrojtjes nga Zjarri dhe të Shpëtimit, të Forcave të Armatosura, të Shërbimit Informativ Shtetëror dhe të Policisë së Burgjeve, që humbin jetën në krye apo për shkak të detyrës | [`ligji-10289-2010/`](ligji-10289-2010/) | in force | 1 | 2010-08-04 | 2010-08-04 |
+
+## ligji-10290-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në konventën ndërkombëtare “Për përgjegjësinë civile dhe dëmshpërblimin për dëmet, në lidhje me transportin e lëndëve të rrezikshme dhe helmuese përmes detit, 1996” | [`ligji-10290-2010/`](ligji-10290-2010/) | in force | 1 | 2010-08-05 | 2010-08-05 |
+
+## ligji-10292-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Shtetit të Kuvajtit për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal për tatimet mbi të ardhurat dhe kapitalin | [`ligji-10292-2010/`](ligji-10292-2010/) | in force | 1 | 2010-08-04 | 2010-08-04 |
+
+## ligji-10295-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen | [`ligji-10295-2010/`](ligji-10295-2010/) | in force | 1 | 2010-07-01 | 2010-07-01 |
+
+## ligji-10299-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së qendrës së zbatimit të ligjit në europën juglindore | [`ligji-10299-2010/`](ligji-10299-2010/) | in force | 1 | 2010-08-21 | 2010-08-21 |
+
+## ligji-103-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe bashkimit europian për krijimin e kuadrit për pjesëmarrjen e republikës së shqipërisë në operacionet e menaxhimit të krizave të bashkimit europian | [`ligji-103-2012/`](ligji-103-2012/) | in force | 1 | 2012-12-08 | 2012-12-08 |
+
+## ligji-103-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për eurobondin që do të emetohet nga ministri i Financave dhe Ekonomisë, miratimin e përjashtimeve nga tatimet e taksat dhe të parashikimeve për heqjen dorë nga imuniteti në marrëveshjet që do të lidhen nga ministri i Financave dhe Ekonomisë | [`ligji-103-2021/`](ligji-103-2021/) | in force | 1 | 2021-11-01 | 2021-11-01 |
+
+## ligji-103-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së nivelit të lartë ndërmjet Republikës së Shqipërisë dhe Bashkimit Evropian për hartat treguese të rrjetit transevropian të transportit në Shqipëri | [`ligji-103-2023/`](ligji-103-2023/) | in force | 1 | 2024-01-27 | 2024-01-27 |
+
+## ligji-10300-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet shteteve palë në traktatin e atlantikut të veriut për bashkëpunimin për informacionin atomik” | [`ligji-10300-2010/`](ligji-10300-2010/) | in force | 1 | 2010-08-21 | 2010-08-21 |
+
+## ligji-10303-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin dhe mënyrën e organizimit e të funksionimit të agjencisë shqiptare të zhvillimit të investimeve | [`ligji-10303-2010/`](ligji-10303-2010/) | in force | 1 | 2010-08-26 | 2010-08-26 |
+
+## ligji-10305-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së sllovenisë për shkëmbimin dhe mbrojtjen reciproke të informacionit të klasifikuar” | [`ligji-10305-2010/`](ligji-10305-2010/) | in force | 1 | 2010-08-26 | 2010-08-26 |
+
+## ligji-10311-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës financiare ndërmjet republikës së shqipërisë dhe bankës europiane të investimeve (bei) për financimin e projektit të rrugëve dytësore dhe lokale | [`ligji-10311-2010/`](ligji-10311-2010/) | in force | 1 | 2010-10-21 | 2010-10-21 |
+
+## ligji-10312-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë dhe fondit opec për zhvillim ndërkombëtar (ofid) për financimin e projektit të rrugëve dytësore dhe lokale (faza ii)” | [`ligji-10312-2010/`](ligji-10312-2010/) | in force | 1 | 2010-10-21 | 2010-10-21 |
+
+## ligji-10313-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes “istisna’a” dhe marrëveshjes së agjencisë “istisna’a” ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim (idb) për projektin “rindërtimi i rrugëve dytësore dhe lokale”” | [`ligji-10313-2010/`](ligji-10313-2010/) | in force | 1 | 2010-10-22 | 2010-10-22 |
+
+## ligji-10314-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit shtesë të marrëveshjes ndërmjet republikës së shqipërisë dhe agjencisë ndërkombëtare të energjisë atomike për zbatimin e garancive në të gjitha veprimtaritë bërthamore të shqipërisë | [`ligji-10314-2010/`](ligji-10314-2010/) | in force | 1 | 2010-11-04 | 2010-11-04 |
+
+## ligji-10320-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim (idb) për pjesëmarrjen në financimin e projektit të rindërtimit të rrugëve dytësore dhe lokale” | [`ligji-10320-2010/`](ligji-10320-2010/) | in force | 1 | 2010-10-29 | 2010-10-29 |
+
+## ligji-10321-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e instrumenteve që ndryshojnë kushtetutën dhe konventën e bashkimit ndërkombëtar të telekomunikacioneve (gjenevë, 1992), të ndryshuar nga konferenca fuqiplotë (antalya, 2006) | [`ligji-10321-2010/`](ligji-10321-2010/) | in force | 1 | 2010-10-29 | 2010-10-29 |
+
+## ligji-10322-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e shtesës së kontratës koncesionare “për prodhimin dhe shpërndarjen e kartave të identitetit dhe të pasaportave elektronike” ndërmjet ministrisë së brendshme të republikës së shqipërisë dhe grupimit të sagem securite dhe fondit shqiptaro-amerikan të ndërmarrjeve | [`ligji-10322-2010/`](ligji-10322-2010/) | in force | 1 | 2010-11-04 | 2010-11-04 |
+
+## ligji-10325-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për bazat e të dhënave shtetërore | [`ligji-10325-2010/`](ligji-10325-2010/) | in force | 1 | 2010-10-28 | 2010-10-28 |
+
+## ligji-10326-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për racviac - qendra për bashkëpunim për sigurinë” | [`ligji-10326-2010/`](ligji-10326-2010/) | in force | 1 | 2010-11-09 | 2010-11-09 |
+
+## ligji-10330-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në memorandumin e mirëkuptimit për organizimin, administrimin, sigurinë, financimin dhe plotësimin me personel të qendrës së përbashkët të informacionit (intelligence fusion centre - ifc) | [`ligji-10330-2010/`](ligji-10330-2010/) | in force | 1 | 2010-11-16 | 2010-11-16 |
+
+## ligji-10331-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë së eksportit ndërmjet këshillit të ministrave të republikës së shqipërisë, përfaqësuar nga ministria e financave, dhe unicredit bank austria ag për financimin e modernizimit të 6 spitaleve rajonale kryesore (përmirësimi i imazherisë diagnostike)” | [`ligji-10331-2010/`](ligji-10331-2010/) | in force | 1 | 2010-11-23 | 2010-11-23 |
+
+## ligji-10332-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane “për programin ndërkufitar ndërmjet shqipërisë dhe greqisë, për vitin 2009, të komponentit të dytë të instrumentit të ndihmës së paraaderimit (ipa) - bashkëpunimi ndërkufitar për shqipërinë”” | [`ligji-10332-2010/`](ligji-10332-2010/) | in force | 1 | 2010-11-23 | 2010-11-23 |
+
+## ligji-10333-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes financiare ndërmjet këshillit të të republikës së shqipërisë dhe komisionit të komuniteteve europiane “për programin ndërkufitar ndërmjet shqipërisë dhe malit të zi, për vitin 2009, të komponentit të dytë të instrumentit të ndihmës së paraaderimit (ipa) - bashkëpunimi ndërkufitar për shqipërinë”” | [`ligji-10333-2010/`](ligji-10333-2010/) | in force | 1 | 2010-11-27 | 2010-11-27 |
+
+## ligji-10334-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes financiare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane “për programin ndërkufitar shqipëri - ish-republika jugosllave e maqedonisë, për vitin 2009, të komponentit të dytë të instrumentit të ndihmës së paraaderimit (ipa) - bashkëpunimi ndërkufitar për shqipërinë”” | [`ligji-10334-2010/`](ligji-10334-2010/) | in force | 1 | 2010-11-27 | 2010-11-27 |
+
+## ligji-10335-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane “për programin e financimit të pjesëmarrjes së shqipërisë në programet transnacionale erdf të objektivit të bashkëpunimit territorial europian “europa juglindore dhe mesdheu” të instrumentit të ndihmës së paraaderimit (ipa), komponenti i bashkëpunimit ndërkufitar për vitin 2009”” | [`ligji-10335-2010/`](ligji-10335-2010/) | in force | 1 | 2010-12-03 | 2010-12-03 |
+
+## ligji-10338-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë dhe mbretërisë së spanjës për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal, në lidhje me tatimin mbi të ardhurat” | [`ligji-10338-2010/`](ligji-10338-2010/) | in force | 1 | 2010-12-09 | 2010-12-09 |
+
+## ligji-10339-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën për të drejtat e njeriut dhe biomjekësinë | [`ligji-10339-2010/`](ligji-10339-2010/) | in force | 1 | 2010-12-18 | 2010-12-18 |
+
+## ligji-10340-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pagesën e detyrimeve ndaj të tretëve të ndërmarrjeve dhe sha-ve në pronësi të pushtetit vendor | [`ligji-10340-2010/`](ligji-10340-2010/) | in force | 1 | 2010-12-18 | 2010-12-18 |
+
+## ligji-10341-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për standardizimin ushtarak në forcat e armatosura të republikës së shqipërisë | [`ligji-10341-2010/`](ligji-10341-2010/) | in force | 1 | 2010-12-18 | 2010-12-18 |
+
+## ligji-10342-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të shtetit të vitit 2009 | [`ligji-10342-2010/`](ligji-10342-2010/) | in force | 1 | 2010-12-18 | 2010-12-18 |
+
+## ligji-10344-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së serbisë për bashkëpunimin në fushën e luftës kundër krimit të organizuar, trafikut të paligjshëm ndërkombëtar të lëndëve narkotike dhe terrorizmit ndërkombëtar” | [`ligji-10344-2010/`](ligji-10344-2010/) | in force | 1 | 2010-12-18 | 2010-12-18 |
+
+## ligji-10346-2010 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për disa shtesa dhe ndryshime në ligjin nr. 9874, datë 14.2.2008 “për ankandin publik” | [`ligji-10346-2010/`](ligji-10346-2010/) | amending act | 1 | 2010-12-18 | 2010-12-18 |
+
+## ligji-10348-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në memorandumin e mirëkuptimit për ngritjen, organizimin, administrimin, sigurinë, financimin dhe sigurimin me burime njerëzore të qendrës së nato-s për bashkërendimin e operacioneve speciale (nscc) | [`ligji-10348-2010/`](ligji-10348-2010/) | in force | 1 | 2010-12-24 | 2010-12-24 |
+
+## ligji-10349-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në kartën e organizatës për mirëmbajtjen dhe furnizimin e nato-s (namso), 1958 | [`ligji-10349-2010/`](ligji-10349-2010/) | in force | 1 | 2010-12-28 | 2010-12-28 |
+
+## ligji-10356-2010 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së turqisë për njësinë shqiptare që operon nën komandën e forcës turke në afganistan, brenda fushës së veprimit të operacioneve të forcës ndërkombëtare të ndihmës për sigurinë (isaf) | [`ligji-10356-2010/`](ligji-10356-2010/) | in force | 1 | 2011-01-11 | 2011-01-11 |
+
+## ligji-10364-2010 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për disa shtesa dhe ndryshime në ligjin nr.8438, datë 28.12.1998 ”për tatimin mbi të ardhurat”, të ndryshuar | [`ligji-10364-2010/`](ligji-10364-2010/) | amending act | 1 | 2010-12-16 | 2010-12-16 |
+
+## ligji-10365-2010 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për një ndryshim në ligjin nr.8976, datë 12.12.2002 ”për akcizat në republikën e shqipërisë”, të ndryshuar | [`ligji-10365-2010/`](ligji-10365-2010/) | amending act | 1 | 2010-12-16 | 2010-12-16 |
+
+## ligji-10366-2010 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për disa ndryshime në ligjin nr.9981, datë 8.9.2008 ”për miratimin e niveleve të tarifës doganore”, të ndryshuar | [`ligji-10366-2010/`](ligji-10366-2010/) | amending act | 1 | 2010-12-16 | 2010-12-16 |
+
+## ligji-10369-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së ndihmës ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Shteteve të Bashkuara të Amerikës për qeverisjen me drejtësi dhe në mënyrë demokratike, investimin në njerëz dhe rritjen ekonomike” | [`ligji-10369-2011/`](ligji-10369-2011/) | in force | 1 | 2011-03-15 | 2011-03-15 |
+
+## ligji-10370-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes kulturore ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Bullgarisë për ngritjen e një qendre kulturore dhe informacioni të Republikës së Shqipërisë në Sofje dhe të një qendre kulturore dhe informacioni të Republikës së Bullgarisë në Tiranë” | [`ligji-10370-2011/`](ligji-10370-2011/) | in force | 1 | 2011-03-15 | 2011-03-15 |
+
+## ligji-10371-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit për garancitë ligjore dhe juridike kundër përpunimit të paligjshëm të të dhënave personale | [`ligji-10371-2011/`](ligji-10371-2011/) | in force | 1 | 2011-03-15 | 2011-03-15 |
+
+## ligji-10372-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në marrëveshjen ndërmjet qeverive të vendeve pjesëmarrëse të Bashkëpunimit Ekonomik të Detit të Zi (BEDZ) për bashkëpunimin në ndihmën dhe përgjigjen ndaj emergjencave të fatkeqësive natyrore ose të shkaktuara nga njeriu dhe në protokollin shtesë të saj | [`ligji-10372-2011/`](ligji-10372-2011/) | in force | 1 | 2011-03-15 | 2011-03-15 |
+
+## ligji-10376-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin e shoqërisë “Nxitja e biznesit social”, sh.a | [`ligji-10376-2011/`](ligji-10376-2011/) | in force | 1 | 2011-03-17 | 2011-03-17 |
+
+## ligji-10378-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë dhe mbretërisë së belgjikës për transferimin e personave të dënuar” | [`ligji-10378-2011/`](ligji-10378-2011/) | in force | 1 | 2011-04-05 | 2011-04-05 |
+
+## ligji-10379-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e bashkuar “për sigurinë e menaxhimit të lëndës djegëse të konsumuar dhe për sigurinë e menaxhimit të mbetjeve radioaktive” | [`ligji-10379-2011/`](ligji-10379-2011/) | in force | 1 | 2011-04-05 | 2011-04-05 |
+
+## ligji-10380-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për sigurinë bërthamore” | [`ligji-10380-2011/`](ligji-10380-2011/) | in force | 1 | 2011-04-05 | 2011-04-05 |
+
+## ligji-10381-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e kontratës së koncesionit ndërmjet ministrisë së financave, si autoritet kontraktues, dhe shoqërive “sicpa security solutions”, sa e “sicpa security solutions” albania, shpk për projektimin, financimin dizenjimin, prodhimin dhe ngritjen e një sistemi për emetimin, shpërndarjen, gjetjen dhe monitorimin e pullave fiskale e të pullave të kontrollit të barnave | [`ligji-10381-2011/`](ligji-10381-2011/) | in force | 1 | 2011-04-09 | 2011-04-09 |
+
+## ligji-10382-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e bashkuar “për sigurinë e menaxhimit të lëndës djegëse të konsumuar dhe për sigurinë e menaxhimit të mbetjeve radioaktive” | [`ligji-10382-2011/`](ligji-10382-2011/) | in force | 1 | 2011-04-05 | 2011-04-05 |
+
+## ligji-10386-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe agjencisë së nato-s për mirëmbajtjen dhe furnizimin (namsa), për demontimin e municioneve” | [`ligji-10386-2011/`](ligji-10386-2011/) | in force | 1 | 2011-04-09 | 2011-04-09 |
+
+## ligji-10387-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të mirëkuptimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe këshillit të europës për zyrën e këshillit të europës në tiranë dhe statusin e saj ligjor | [`ligji-10387-2011/`](ligji-10387-2011/) | in force | 1 | 2011-04-09 | 2011-04-09 |
+
+## ligji-10392-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë, përfaqësuar nga ministria e financave, dhe qeverisë së republikës së austrisë, përfaqësuar nga ministri federal i financave, për bashkëpunimin financiar” | [`ligji-10392-2011/`](ligji-10392-2011/) | in force | 1 | 2011-04-15 | 2011-04-15 |
+
+## ligji-10393-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së kredisë së eksportit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe Unicredit Bank Austria për financimin e përmirësimit të departamentit të Neurokirurgjisë për Spitalin Universitar “Nënë Tereza”” | [`ligji-10393-2011/`](ligji-10393-2011/) | in force | 1 | 2011-04-15 | 2011-04-15 |
+
+## ligji-10394-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bashkësisë fetare “vëllazëria ungjillore e shqipërisë” për rregullimin e marrëdhënieve të ndërsjella” | [`ligji-10394-2011/`](ligji-10394-2011/) | in force | 1 | 2011-04-22 | 2011-04-22 |
+
+## ligji-10396-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së republikës federale të gjermanisë për transportin detar” | [`ligji-10396-2011/`](ligji-10396-2011/) | in force | 1 | 2011-04-22 | 2011-04-22 |
+
+## ligji-10398-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën “për njohjen dhe zbatimin e vendimeve në lidhje me detyrimet ushqimore” | [`ligji-10398-2011/`](ligji-10398-2011/) | in force | 1 | 2011-04-22 | 2011-04-22 |
+
+## ligji-104-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së këshillit të europës ”për parandalimin dhe luftën kundër dhunës ndaj grave dhe dhunës në familje” | [`ligji-104-2012/`](ligji-104-2012/) | in force | 1 | 2012-12-08 | 2012-12-08 |
+
+## ligji-104-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë, Republikës së Greqisë dhe Republikës së Italisë për projektin për gazsjellësin Trans Adriatik (Projekti TAP) | [`ligji-104-2013/`](ligji-104-2013/) | in force | 1 | 2013-04-19 | 2013-04-19 |
+
+## ligji-104-2016 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit nr. 3 të kontratës financiare ndërmjet republikës së shqipërisë dhe bankës evropiane të investimeve për terminalin e trageteve të portit të durrësit | [`ligji-104-2016/`](ligji-104-2016/) | amending act | 1 | 2016-11-19 | 2016-11-19 |
+
+## ligji-104-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së garancisë ndërmjet Republikës së Shqipërisë dhe Bankës Europiane për Rindërtim dhe Zhvillim (BERZH) për marrëveshjen e huas ndërmjet Operatorit të Shpërndarjes së Energjisë Elektrike, sh.a. (OSHEE), dhe Bankës Europiane për Rindërtim dhe Zhvillim për projektin e OSHEE-së për reagimin ndaj krizës së pandemisë COVID-19 | [`ligji-104-2021/`](ligji-104-2021/) | in force | 1 | 2021-11-30 | 2021-11-30 |
+
+## ligji-104-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Federale të Gjermanisë, për bashkëpunim financiar 2020, për projektin “Programi i performancës dhe investimeve në sektorin e ujërave, pjesa e dytë (infrastruktura komunale, faza V, pjesa II) | [`ligji-104-2023/`](ligji-104-2023/) | in force | 1 | 2024-01-27 | 2024-01-27 |
+
+## ligji-104-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për prodhimin organik, etiketimin e produkteve organike dhe kontrollin e tyre | [`ligji-104-2024/`](ligji-104-2024/) | in force | 1 | 2024-10-29 | 2024-10-29 |
+
+## ligji-10400-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit dhe projektit ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave dhe shoqëria rajonale “korça”, si agjencia e zbatimit të projektit, dhe kfw frankfurt am main për financimin e projektit “administrimi i mbetjeve të ngurta në juglindje të shqipërisë”” | [`ligji-10400-2011/`](ligji-10400-2011/) | in force | 1 | 2011-05-05 | 2011-05-05 |
+
+## ligji-10401-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e shtesës së nenit 24 të kartës së organizatës së bashkëpunimit ekonomik të detit të zi (bedz) | [`ligji-10401-2011/`](ligji-10401-2011/) | in force | 1 | 2011-05-07 | 2011-05-07 |
+
+## ligji-10402-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së singaporit për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal, në lidhje me tatimin mbi të ardhurat” | [`ligji-10402-2011/`](ligji-10402-2011/) | in force | 1 | 2011-05-07 | 2011-05-07 |
+
+## ligji-10403-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes, me shkëmbim notash, për korrigjimin e marrëveshjes ndërmjet republikës së shqipërisë dhe republikës federale të gjermanisë për shmangien e tatimit të dyfishtë dhe evazionit fiskal, për taksat mbi të ardhurat dhe mbi kapitalin”, nënshkruar më 6 prill 2010 në berlin | [`ligji-10403-2011/`](ligji-10403-2011/) | in force | 1 | 2011-05-20 | 2011-05-20 |
+
+## ligji-10406-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen ndërkombëtare të lëndës drusore tropikale, 2006” | [`ligji-10406-2011/`](ligji-10406-2011/) | in force | 1 | 2011-05-07 | 2011-05-07 |
+
+## ligji-10407-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë dhe programit ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave dhe fondi shqiptar për zhvillim, si agjenci e zbatimit të projektit, dhe kfw frankfurt am main, për financimin e projektit “fondi i investimeve sociale iv”” | [`ligji-10407-2011/`](ligji-10407-2011/) | in force | 1 | 2011-05-10 | 2011-05-10 |
+
+## ligji-10408-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit dhe programit ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave dhe fondi shqiptar për zhvillim, si agjenci e zbatimit të projektit, dhe kfw frankfurt am main, për financimin e projektit “fondi i investimeve sociale iv”” | [`ligji-10408-2011/`](ligji-10408-2011/) | in force | 1 | 2011-05-10 | 2011-05-10 |
+
+## ligji-10409-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit dhe projektit ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave dhe ujësjellësi berat - kuçovë, sh.a., si agjencia e zbatimit të projektit, dhe kfw frankfurt am main, për financimin me grant të projektit “shërbime konsulence për forcimin e kapaciteteve të ujësjellës - kanalizimeve, berat-kuçovë”” | [`ligji-10409-2011/`](ligji-10409-2011/) | in force | 1 | 2011-05-17 | 2011-05-17 |
+
+## ligji-10411-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit dhe projektit ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave dhe ujësjellës-kanalizime, pogradec, si agjenci e zbatimit të projektit, dhe kfw frankfurt am main për financimin e programit “mbrojtja mjedisore e liqenit të ohrit, kanalizimet, pogradec iii”” | [`ligji-10411-2011/`](ligji-10411-2011/) | in force | 1 | 2011-05-13 | 2011-05-13 |
+
+## ligji-10412-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huas ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave dhe ujësjellës-kanalizime, pogradec, si agjenci e zbatimit të projektit, dhe kfw frankfurt am main për financimin e programit “mbrojtja mjedisore e liqenit të ohrit, kanalizimet, pogradec iii”” | [`ligji-10412-2011/`](ligji-10412-2011/) | in force | 1 | 2011-05-20 | 2011-05-20 |
+
+## ligji-10413-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave, dhe kfw frankfurt am main për financimin e programit “infrastruktura bashkiake i”” | [`ligji-10413-2011/`](ligji-10413-2011/) | in force | 1 | 2011-05-13 | 2011-05-13 |
+
+## ligji-10414-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave, dhe kfw frankfurt am main për financimin e programit “infrastruktura bashkiake i”, sistemi i furnizimit me ujë dhe kanalizime për qytetet lezhë, gjirokastër, sarandë dhe fier” | [`ligji-10414-2011/`](ligji-10414-2011/) | in force | 1 | 2011-05-13 | 2011-05-13 |
+
+## ligji-10417-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së bashkëpunimit ushtarak financiar ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së turqisë” | [`ligji-10417-2011/`](ligji-10417-2011/) | in force | 1 | 2011-05-18 | 2011-05-18 |
+
+## ligji-10419-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes istisna’a dhe të marrëveshjes së agjencisë istisna’a ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim (idb) për financimin e projektit të rrugës tiranë-elbasan” | [`ligji-10419-2011/`](ligji-10419-2011/) | in force | 1 | 2011-06-25 | 2011-06-25 |
+
+## ligji-10420-2011 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në ndryshimet e neneve të marrëveshjes së fondit monetar ndërkombëtar për zgjerimin e përfaqësimit dhe të pjesëmarrjes, si dhe për zgjerimin e autoritetit investues të fondit | [`ligji-10420-2011/`](ligji-10420-2011/) | amending act | 1 | 2011-06-25 | 2011-06-25 |
+
+## ligji-10421-2011 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit shtesë të marrëveshjes për ndryshimin dhe anëtarësimin në marrëveshjen e tregtisë së lirë të europës qendrore | [`ligji-10421-2011/`](ligji-10421-2011/) | amending act | 1 | 2011-06-25 | 2011-06-25 |
+
+## ligji-10422-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin e konventës së vitit 1979 “për ndotjen ndërkufitare të ajrit në rreze të gjatë”, për financimin afatgjatë të programit bashkëpunues për monitorimin e vlerësimin e transmetimit në rreze të gjatë të ndotësve të ajrit në europë (emep) | [`ligji-10422-2011/`](ligji-10422-2011/) | in force | 1 | 2011-06-25 | 2011-06-25 |
+
+## ligji-10424-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së këshillit të europës “për statusin juridik të fëmijëve të lindur jashtë martesës” | [`ligji-10424-2011/`](ligji-10424-2011/) | in force | 1 | 2011-06-29 | 2011-06-29 |
+
+## ligji-10425-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së këshillit të europës “për ushtrimin e të drejtave të fëmijëve” | [`ligji-10425-2011/`](ligji-10425-2011/) | in force | 1 | 2011-06-29 | 2011-06-29 |
+
+## ligji-10426-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit të tretë shtesë të konventës europiane “për ekstradimin” | [`ligji-10426-2011/`](ligji-10426-2011/) | in force | 1 | 2011-06-29 | 2011-06-29 |
+
+## ligji-10427-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së federatës ruse për përmbushjen e detyrimeve financiare të republikës së shqipërisë kundrejt federatës ruse për balancat e llogarive të korporatës shtetërore “banka e zhvillimit dhe veprimtarisë ekonomike me jashtë (vneshekonombank)” te banka e shtetit shqiptar” | [`ligji-10427-2011/`](ligji-10427-2011/) | in force | 1 | 2011-06-29 | 2011-06-29 |
+
+## ligji-10428-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për të drejtën Ndërkombëtare private | [`ligji-10428-2011/`](ligji-10428-2011/) | in force | 1 | 2011-07-02 | 2011-07-02 |
+
+## ligji-10429-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e vendimeve të bordit të guvernatorëve të bankës europiane për rindërtim dhe zhvillim (ebrd), rezoluta nr.126 “rritja e kapitalit themeltar të autorizuar, emetimi i aksioneve të paguara dhe pagesa, nëpërmjet rialokimit të të ardhurave neto” (shtojca a) dhe rezoluta nr.128 “shtimi i kapitalit themeltar të autorizuar, emetimi dhe nënshkrimi i kapitalit të shlyeshëm, nëse kërkohet dhe shlyerja” (shtojca b), si dhe dokumenti “informacion për hapat që duhet të merren pas mbledhjes vjetore të vitit 2010” | [`ligji-10429-2011/`](ligji-10429-2011/) | in force | 1 | 2011-07-15 | 2011-07-15 |
+
+## ligji-10430-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin e shoqërive “hec ulëz - shkopet”, sha, “hec tiranë, lanabregas”, sha dhe “hec bistrica 1 dhe bistrica 2 sha” dhe përcaktimin e formës dhe të strukturës së formulës së privatizimit të shoqërive “hec ulëz - shkopet”, sha dhe “hec bistrica 1 dhe bistrica 2” sha | [`ligji-10430-2011/`](ligji-10430-2011/) | in force | 1 | 2011-07-15 | 2011-07-15 |
+
+## ligji-10432-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen e rishikuar të kombeve të bashkuara, në lidhje me miratimin e parashikimeve teknike uniforme për automjetet me rrota, pajisjet dhe pjesët që mund të instalohen dhe/ose përdoren tek automjetet me rrota dhe kushtet për njohjen reciproke të aprovimeve të dhëna mbi bazën e këtyre parashikimeve” | [`ligji-10432-2011/`](ligji-10432-2011/) | in force | 1 | 2011-07-20 | 2011-07-20 |
+
+## ligji-10436-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin “për reduktimin e mëtejshëm të çlirimit të squfurit” të konventës “për ndotjen ndërkufitare të ajrit në rreze të gjatë”, 1979 | [`ligji-10436-2011/`](ligji-10436-2011/) | in force | 1 | 2011-07-27 | 2011-07-27 |
+
+## ligji-10437-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes “për krijimin e akademisë ndërkombëtare antikorrupsion, si organizatë ndërkombëtare” | [`ligji-10437-2011/`](ligji-10437-2011/) | in force | 1 | 2011-07-27 | 2011-07-27 |
+
+## ligji-10438-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pjesëmarrjen e policisë së shtetit në misione policore, paqeruajtëse dhe humanitare jashtë vendit | [`ligji-10438-2011/`](ligji-10438-2011/) | in force | 1 | 2011-07-23 | 2011-07-23 |
+
+## ligji-10439-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së serbisë për shlyerjen e borxhit të republikës së shqipërisë ndaj republikës së serbisë” | [`ligji-10439-2011/`](ligji-10439-2011/) | in force | 1 | 2011-08-16 | 2011-08-16 |
+
+## ligji-10443-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim (ibrd) për financimin e programit “huaja e politikës së zhvillimit të reformës në sektorin social”” | [`ligji-10443-2011/`](ligji-10443-2011/) | in force | 1 | 2011-08-18 | 2011-08-18 |
+
+## ligji-10446-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e kontratës së lidhur ndërmjet ministrisë së mbrojtjes të republikës së shqipërisë dhe “eurocopter” për furnizimin me 1 (një) helikopter ec 145 vip | [`ligji-10446-2011/`](ligji-10446-2011/) | in force | 1 | 2011-08-18 | 2011-08-18 |
+
+## ligji-10449-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për rregullat dhe procedurat e ndërtimit të kompleksit të ri parlamentar | [`ligji-10449-2011/`](ligji-10449-2011/) | in force | 1 | 2011-08-20 | 2011-08-20 |
+
+## ligji-10451-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën “për zgjidhjen paqësore të mosmarrëveshjeve ndërkombëtare” | [`ligji-10451-2011/`](ligji-10451-2011/) | in force | 1 | 2011-08-22 | 2011-08-22 |
+
+## ligji-10452-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit që ndryshon aneksin e sigurisë të marrëveshjes ndërmjet palëve të traktatit të atlantikut verior, për bashkëpunimin për informacionin atomik | [`ligji-10452-2011/`](ligji-10452-2011/) | in force | 1 | 2011-08-22 | 2011-08-22 |
+
+## ligji-10453-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Serbisë për ripranimin e personave me qëndrim të paautorizuar dhe protokollit të saj të zbatimit” | [`ligji-10453-2011/`](ligji-10453-2011/) | in force | 1 | 2011-08-22 | 2011-08-22 |
+
+## ligji-10460-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së francës, për shkëmbimin dhe mbrojtjen e ndërsjellë të informacionit të klasifikuar” | [`ligji-10460-2011/`](ligji-10460-2011/) | in force | 1 | 2011-10-18 | 2011-10-18 |
+
+## ligji-10467-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndryshuese ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së austrisë për realizimin e një sistemi kompjuterik për regjistrin themeltar të gjendjes civile në shqipëri” | [`ligji-10467-2011/`](ligji-10467-2011/) | in force | 1 | 2011-11-25 | 2011-11-25 |
+
+## ligji-10468-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të shtetit për vitin 2010 | [`ligji-10468-2011/`](ligji-10468-2011/) | in force | 1 | 2011-11-15 | 2011-11-15 |
+
+## ligji-10471-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë për eksport ndërmjet këshillit të ministrave të republikës së shqipërisë, që vepron në emër të republikës së shqipërisë, i përfaqësuar nga ministria e financave, dhe unicredit bank austria ag për financimin e projektit “furnizimi me ujë i bilishtit-kontratë me çelësa në dorë”” | [`ligji-10471-2011/`](ligji-10471-2011/) | in force | 1 | 2011-11-25 | 2011-11-25 |
+
+## ligji-10472-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kosovës për transportin ndërkombëtar rrugor të udhëtarëve dhe mallrave” | [`ligji-10472-2011/`](ligji-10472-2011/) | in force | 1 | 2011-11-25 | 2011-11-25 |
+
+## ligji-10473-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së italisë për konvertimin e borxhit për zhvillim” | [`ligji-10473-2011/`](ligji-10473-2011/) | in force | 1 | 2011-12-12 | 2011-12-12 |
+
+## ligji-10474-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së serbisë për lëvizjen e ndërsjellë të shtetasve” | [`ligji-10474-2011/`](ligji-10474-2011/) | in force | 1 | 2011-12-06 | 2011-12-06 |
+
+## ligji-10476-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin e konventës së vitit 1979 “për ndotjen ndërkufitare të ajrit në distancë të largët, për të pakësuar acidifikimin, eutrofikimin dhe ozonin në shtresën e poshtme të atmosferës” | [`ligji-10476-2011/`](ligji-10476-2011/) | in force | 1 | 2011-12-10 | 2011-12-10 |
+
+## ligji-10477-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe këshillit të ministrave të bosnjë-hercegovinës për zgjidhjen e borxhit të republikës së shqipërisë për shlyerjen e shumave në llogarinë e shkëmbimit të mallrave ndërmjet republikës së shqipërisë dhe ish-republikës federale socialiste të jugosllavisë” | [`ligji-10477-2011/`](ligji-10477-2011/) | in force | 1 | 2011-12-12 | 2011-12-12 |
+
+## ligji-10478-2011 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e dokumentit të amendimit numër një të marrëveshjes së ndihmës ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës “për qeverisje të drejtë dhe demokratike, investimin në njerëz dhe rritjen ekonomike” | [`ligji-10478-2011/`](ligji-10478-2011/) | amending act | 1 | 2011-12-16 | 2011-12-16 |
+
+## ligji-10490-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përcaktimin e formës dhe të strukturës së formulës së privatizimit të shoqërisë “albpetrol”, sha, patos | [`ligji-10490-2011/`](ligji-10490-2011/) | in force | 1 | 2012-01-11 | 2012-01-11 |
+
+## ligji-10494-2011 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për mbikëqyrjen elektronike të personave, të cilëve u kufizohet lëvizja me vendim gjyqësor | [`ligji-10494-2011/`](ligji-10494-2011/) | in force | 1 | 2011-12-22 | 2011-12-22 |
+
+## ligji-105-2012 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në ndryshimet e neneve të marrëveshjes së fondit monetar ndërkombëtar (fmn) | [`ligji-105-2012/`](ligji-105-2012/) | amending act | 1 | 2012-12-12 | 2012-12-12 |
+
+## ligji-105-2015 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për disa shtesa dhe ndryshime në ligjin nr. 10 416, datë 7.4.2011, “Për materialin mbjellës dhe shumëzues bimor”, të ndryshuar | [`ligji-105-2015/`](ligji-105-2015/) | amending act | 1 | 2015-11-05 | 2015-11-05 |
+
+## ligji-105-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të vitit 2020 | [`ligji-105-2021/`](ligji-105-2021/) | in force | 1 | 2021-12-09 | 2021-12-09 |
+
+## ligji-106-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e instrumentit të angazhimit të republikës së shqipërisë në shtesën e burimeve të shoqatës ndërkombëtare për zhvillim (ida), plotësimi i gjashtëmbëdhjetë | [`ligji-106-2012/`](ligji-106-2012/) | in force | 1 | 2012-12-12 | 2012-12-12 |
+
+## ligji-106-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së grantit ndërmjet Republikës së Shqipërisë dhe Bankës për Zhvillim të Këshillit të Evropës për asistencën teknike për projektin “Punime infrastrukturore komunale në zonën e Alpeve Shqiptare” (asistencë teknike në kuadër të investimeve në Ballkanin Perëndimor) | [`ligji-106-2015/`](ligji-106-2015/) | in force | 1 | 2015-11-05 | 2015-11-05 |
+
+## ligji-106-2024 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të MInistrave të Republikës së Shqipërisë dhe qeverisë së Republikës Federale të Gjermanisë mbi bashkëpunimin teknik 2022, për projektin ”Programi për një zhvillim urban rezistent ndaj ndryshimeve klimatike në Shqipëri” | [`ligji-106-2024/`](ligji-106-2024/) | amending act | 1 | 2024-11-05 | 2024-11-05 |
+
+## ligji-107-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dhënie amnistie | [`ligji-107-2012/`](ligji-107-2012/) | in force | 1 | 2012-11-08 | 2012-11-08 |
+
+## ligji-107-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për bashkëqeverisjen | [`ligji-107-2021/`](ligji-107-2021/) | in force | 1 | 2022-01-05 | 2022-01-05 |
+
+## ligji-108-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së okb-së ”për të drejtat e personave me aftësi të kufizuara” | [`ligji-108-2012/`](ligji-108-2012/) | in force | 1 | 2012-12-21 | 2012-12-21 |
+
+## ligji-108-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së shtetit të Izraelit për shmangien e taksimit të dyfishtë dhe parandalimin e evazionit fiskal në lidhje me tatimin mbi të ardhurat | [`ligji-108-2021/`](ligji-108-2021/) | in force | 1 | 2021-11-30 | 2021-11-30 |
+
+## ligji-109-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën për njohjen e divorceve dhe ndarjeve ligjore | [`ligji-109-2012/`](ligji-109-2012/) | in force | 1 | 2012-12-21 | 2012-12-21 |
+
+## ligji-109-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës financiare, ndërmjet republikës së shqipërisë dhe bankës evropiane të investimeve, për bypass-in e vlorës | [`ligji-109-2014/`](ligji-109-2014/) | in force | 1 | 2014-09-12 | 2014-09-12 |
+
+## ligji-109-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për statusin e dëshmorit të atdheut | [`ligji-109-2018/`](ligji-109-2018/) | in force | 1 | 2018-12-20 | 2018-12-20 |
+
+## ligji-109-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së Këshillit të Europës për bashkëprodhimin kinematografik (e rishikuar), Roterdam, 30.1.2017” | [`ligji-109-2021/`](ligji-109-2021/) | in force | 1 | 2021-11-30 | 2021-11-30 |
+
+## ligji-109-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shkencën dhe kërkimin shkencor në Republikën e Shqipërisë | [`ligji-109-2024/`](ligji-109-2024/) | in force | 1 | 2024-12-12 | 2024-12-12 |
+
+## ligji-11-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së italisë për programin “zhvillimi i qëndrueshëm i sektorit të ullishtarisë shqiptare (zhqsu)” | [`ligji-11-2014/`](ligji-11-2014/) | in force | 1 | 2014-04-20 | 2014-04-20 |
+
+## ligji-11-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në marrëveshjen shumëpalëshe ndërmjet vendeve të Europës Juglindore për zbatimin e konventës “Për vlerësimin e ndikimit mjedisor në kontekst ndërkufitar” | [`ligji-11-2015/`](ligji-11-2015/) | in force | 1 | 2015-03-24 | 2015-03-24 |
+
+## ligji-11-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin kulturor dhe të shtojcës së kësaj marrëveshjeje | [`ligji-11-2016/`](ligji-11-2016/) | in force | 1 | 2016-03-16 | 2016-03-16 |
+
+## ligji-11-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të mirëkuptimit ndërmjet republikës së shqipërisë dhe bashkimit europian për pjesëmarrjen e republikës së shqipërisë në programin e drejtësisë së be-së | [`ligji-11-2017/`](ligji-11-2017/) | in force | 1 | 2017-03-07 | 2017-03-07 |
+
+## ligji-11-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin teknik 2017, për projektin “zhvillimi i qëndrueshëm ekonomik dhe rajonal, nxitja e punësimit dhe arsimi profesional (shtim i dytë fondesh)” | [`ligji-11-2018/`](ligji-11-2018/) | in force | 1 | 2018-03-31 | 2018-03-31 |
+
+## ligji-11-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Republikës së Kroacisë për mbrojtjen shoqërore | [`ligji-11-2024/`](ligji-11-2024/) | in force | 1 | 2024-03-13 | 2024-03-13 |
+
+## ligji-11-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për parandalimin dhe mbrojtjen nga dhuna ndaj grave dhe dhuna në familje | [`ligji-11-2026/`](ligji-11-2026/) | in force | 1 | 2026-02-27 | 2026-02-27 |
+
+## ligji-110-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për bashkimin ndërkufitar të shoqërive tregtare | [`ligji-110-2012/`](ligji-110-2012/) | in force | 1 | 2012-11-15 | 2012-11-15 |
+
+## ligji-110-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas dhe asistencës teknike (grant) ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim (idb) për pjesëmarrje në financimin e projektit të mikrofinancës në shqipëri | [`ligji-110-2014/`](ligji-110-2014/) | in force | 1 | 2014-09-12 | 2014-09-12 |
+
+## ligji-110-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për falimentimin | [`ligji-110-2016/`](ligji-110-2016/) | in force | 1 | 2017-05-22 | 2017-05-22 |
+
+## ligji-111-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së grantit ndërmjet këshillit të ministrave të republikës së shqipërisë, të përfaqësuar nga ministria e financave, dhe bankës europiane për rindërtim dhe zhvillim, si administratore e fondeve grant të siguruara nga qeveri të ndryshme, nën fondin e përbashkët europian të ballkanit perëndimor, dhe berzh, nën fondin e aksionarëve të veçantë të berzh-it, për mbikëqyrjen e projektit të rrugëve dytësore dhe lokale në shqipëri | [`ligji-111-2014/`](ligji-111-2014/) | in force | 1 | 2014-09-12 | 2014-09-12 |
+
+## ligji-111-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ndihmën juridike të garantuar nga shteti | [`ligji-111-2017/`](ligji-111-2017/) | in force | 1 | 2018-06-01 | 2018-06-01 |
+
+## ligji-112-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin shtesë të nagoja-kuala lumpurit “për përgjegjësi dhe dëmshpërblim të protokollit të kartagjenës për biosigurinë” të konventës së biodiversitetit | [`ligji-112-2012/`](ligji-112-2012/) | in force | 1 | 2013-01-03 | 2013-01-03 |
+
+## ligji-112-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar 2011 për projektin “programi i mbrojtjes mjedisore të liqenit të shkodrës” | [`ligji-112-2014/`](ligji-112-2014/) | in force | 1 | 2014-09-12 | 2014-09-12 |
+
+## ligji-112-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen ndërkombëtare për vajin e ullirit dhe ullinjtë e tavolinës, 2015 | [`ligji-112-2017/`](ligji-112-2017/) | in force | 1 | 2018-01-12 | 2018-01-12 |
+
+## ligji-112-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të vitit 2023 | [`ligji-112-2024/`](ligji-112-2024/) | in force | 1 | 2024-12-06 | 2024-12-06 |
+
+## ligji-113-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin e nagojës “për aksesin në burimet gjenetike dhe ndarjen e drejtë e të barabartë të përfitimeve që lindin nga përdorimi i tyre” të konventës së biodiversitetit “për larminë biologjike” | [`ligji-113-2012/`](ligji-113-2012/) | in force | 1 | 2013-01-03 | 2013-01-03 |
+
+## ligji-113-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin në rezolutën e Bordit të Guvernatorëve të Bankës së Detit të Zi për Tregti dhe Zhvillim (BSTDB) | [`ligji-113-2013/`](ligji-113-2013/) | in force | 1 | 2013-05-04 | 2013-05-04 |
+
+## ligji-113-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e dokumenteve ndryshuese të marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës europiane për rindërtim dhe zhvillim për projektin e zhvillimit të rrugëve bashkiake të tiranës | [`ligji-113-2014/`](ligji-113-2014/) | in force | 1 | 2014-09-12 | 2014-09-12 |
+
+## ligji-113-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Urdhrin Profesional të Mjekut Veterinar | [`ligji-113-2015/`](ligji-113-2015/) | in force | 1 | 2015-11-11 | 2015-11-11 |
+
+## ligji-113-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e dokumenteve ndryshuese të marrëveshjes së huas ndërmjet shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim (ibrd), për financimin e projektit të modernizimit të asistencës sociale, ratifikuar me ligjin nr. 84/2012 | [`ligji-113-2017/`](ligji-113-2017/) | in force | 1 | 2018-01-12 | 2018-01-12 |
+
+## ligji-113-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E MARRËVESHJES PËR BASHKËPUNIMIN NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE EUROJUST-it | [`ligji-113-2018/`](ligji-113-2018/) | in force | 1 | 2018-12-20 | 2018-12-20 |
+
+## ligji-113-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Protokollin Opsional të Paktit Ndërkombëtar për të Drejtat Ekonomike, Sociale dhe Kulturore, bërë në Nju Jork në datën 10.12.2008 | [`ligji-113-2024/`](ligji-113-2024/) | in force | 1 | 2024-12-26 | 2024-12-26 |
+
+## ligji-114-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e marrëveshjes për zgjidhjen me mirëkuptim ndërmjet republikës së shqipërisë dhe shoqërisë cez, a. s | [`ligji-114-2014/`](ligji-114-2014/) | in force | 1 | 2014-09-12 | 2014-09-12 |
+
+## ligji-114-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga ministri i Shtetit për Pushtetin Vendor, dhe Qeverisë së Konfederatës Zviceriane, përfaqësuar nga Agjencia Zviceriane për Zhvillim dhe Bashëpunim, që vepron përmes Ambasadës së Zvicrës në Shqipëri, për projektin ”Bashki të forta” (BTF), faza 2” | [`ligji-114-2024/`](ligji-114-2024/) | in force | 1 | 2024-12-27 | 2024-12-27 |
+
+## ligji-115-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën “për konfliktet e ligjeve në lidhje me formën e disponimeve testamentare” | [`ligji-115-2012/`](ligji-115-2012/) | in force | 1 | 2013-01-15 | 2013-01-15 |
+
+## ligji-115-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së ndihmës, me shkëmbim notash, ndërmjet qeverisë së Republikës së Shqipërisë dhe qeverisë së Japonisë për furnizimin me automjete të gjeneratës së ardhshme, miqësore ndaj mjedisit | [`ligji-115-2015/`](ligji-115-2015/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+
+## ligji-116-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me qeverinë e vendit pritës ndërmjet Republikës së Shqipërisë, duke vepruar nëpërmjet Këshillit të Ministrave, dhe Trans Adriatik Pipeline Ag, lidhur me projektin e gazsjellësit Trans Adriatik (projekti TAP), si dhe të marrëveshjes ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave, dhe Trans Adriatik Pipeline Ag, në lidhje me projektin e gazsjellësit Trans Adriatik (projekti TAP) | [`ligji-116-2013/`](ligji-116-2013/) | in force | 1 | 2013-05-09 | 2013-05-09 |
+
+## ligji-116-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit dhe projektit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, “Përfituesi”, e Fondit Shqiptar të Zhvillimit, “Agjencia Zbatuese e Projektit”, dhe KfW Frankfurt Am Main, “KfW”, për përgatitjen e projektit dhe studimeve të fizibilitetit për ndërtimin/rindërtimin e sistemeve të furnizimit me ujë në zonat rurale | [`ligji-116-2015/`](ligji-116-2015/) | in force | 1 | 2015-11-24 | 2015-11-24 |
+
+## ligji-116-2020 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në amendamentin Doha të protokollit të Kiotos së Konventës kuadër të Kombeve të Bashkuara për ndryshimet klimatike, aderuar me ligjin nr. 9334, datë 16.12.2004 | [`ligji-116-2020/`](ligji-116-2020/) | amending act | 1 | 2020-10-10 | 2020-10-10 |
+
+## ligji-116-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese me shkëmbim letrash të marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për projektin ”Për përmirësimin e sistemit të shëndetësisë”, ratifikuar me ligjin nr. 57/2015 | [`ligji-116-2024/`](ligji-116-2024/) | in force | 1 | 2024-12-19 | 2024-12-19 |
+
+## ligji-117-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit të katërt shtesë të Konventës Europiane të Ekstradimit | [`ligji-117-2013/`](ligji-117-2013/) | in force | 1 | 2013-05-09 | 2013-05-09 |
+
+## ligji-117-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe bashkimit europian për pjesëmarrjen e republikës së shqipërisë në programin “erasmus +”, programi i be-së për arsimin, trajnimin, rininë dhe sportin | [`ligji-117-2014/`](ligji-117-2014/) | in force | 1 | 2014-10-22 | 2014-10-22 |
+
+## ligji-117-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së konsulencës ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Korporatës Financiare Ndërkombëtare | [`ligji-117-2015/`](ligji-117-2015/) | in force | 1 | 2015-11-28 | 2015-11-28 |
+
+## ligji-117-2016 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit të marrëveshjes së huas ndërmjet shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për financimin e projektit “modernizimi i asistencës sociale”, të ratifikuar me ligjin nr. 84/2012 | [`ligji-117-2016/`](ligji-117-2016/) | amending act | 1 | 2016-12-08 | 2016-12-08 |
+
+## ligji-117-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për denoncimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Fondit Saudit për Zhvillim për financimin e projektit “Rehabilitimi i rrugës së lumit të Vlorës”, ratifikuar me ligjin nr. 100/2017 | [`ligji-117-2020/`](ligji-117-2020/) | in force | 1 | 2020-10-10 | 2020-10-10 |
+
+## ligji-117-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Maqedonisë së Veriut për ngritjen e pikave të përbashkëta të kalimit kufitar ndërmjet Republikës së Shqipërisë dhe Republikës së Maqedonisë së Veriut | [`ligji-117-2021/`](ligji-117-2021/) | in force | 1 | 2021-12-31 | 2021-12-31 |
+
+## ligji-117-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e rritjes së kuotës së Republikës së Shqipërisë në Fondin Monetar Ndërkombëtar | [`ligji-117-2024/`](ligji-117-2024/) | in force | 1 | 2025-01-11 | 2025-01-11 |
+
+## ligji-118-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për transportin e mallrave të rrezikshme | [`ligji-118-2012/`](ligji-118-2012/) | in force | 1 | 2013-01-15 | 2013-01-15 |
+
+## ligji-118-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në marrëveshjen e Londrës për zbatimin e nenit 65 të Konventës për Patentat Europiane | [`ligji-118-2013/`](ligji-118-2013/) | in force | 1 | 2013-05-18 | 2013-05-18 |
+
+## ligji-118-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes për themelimin dhe statutin e organizatës europiane të së drejtës publike | [`ligji-118-2014/`](ligji-118-2014/) | in force | 1 | 2014-10-22 | 2014-10-22 |
+
+## ligji-118-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet vendeve të ballkanit perëndimor për ngritjen e zyrës rajonale për bashkëpunim rinor | [`ligji-118-2016/`](ligji-118-2016/) | in force | 1 | 2016-12-08 | 2016-12-08 |
+
+## ligji-118-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese me shkëmbim notash të marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Italisë për zbatimin e programit për përgatitjen e studimeve të fizibilitetit dhe hartimit në nivel përfundimtar dhe studimin e impaktit mjedisor në sektorin e infrastrukturave, ratifikuar me ligjin nr. 86/2016 | [`ligji-118-2021/`](ligji-118-2021/) | in force | 1 | 2021-12-31 | 2021-12-31 |
+
+## ligji-118-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Sllovenisë për bashkëpunimin në mbrojtje ndaj katastrofave natyrore dhe të tjera | [`ligji-118-2024/`](ligji-118-2024/) | in force | 1 | 2025-01-11 | 2025-01-11 |
+
+## ligji-119-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dhënien në përdorim të truallit institucioneve arsimore, shëndetësore dhe të përkujdesjes shoqërore | [`ligji-119-2013/`](ligji-119-2013/) | in force | 1 | 2013-05-18 | 2013-05-18 |
+
+## ligji-119-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin dhe funksionimin e Këshillit Kombëtar për Shoqërinë Civile | [`ligji-119-2015/`](ligji-119-2015/) | in force | 1 | 2015-12-08 | 2015-12-08 |
+
+## ligji-12-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së sllovenisë për shlyerjen e borxhit të republikës së shqipërisë ndaj republikës së sllovenisë | [`ligji-12-2012/`](ligji-12-2012/) | in force | 1 | 2012-03-29 | 2012-03-29 |
+
+## ligji-12-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes së huas dhe projektit ndërmjet republikës së shqipërisë, të përfaqësuar nga ministria e financave e operatorit të sistemit të transmetimit, sha, si agjencia e zbatimit të projektit, dhe kfw frankfurt am main, për financimin e projektit “linja e transmetimit 400 kv shqipëri - kosovë (tiranë - prishtinë)” | [`ligji-12-2014/`](ligji-12-2014/) | in force | 1 | 2014-04-20 | 2014-04-20 |
+
+## ligji-12-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit ndryshues të marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës për shmangien e tatimit të dyfishtë lidhur me tatimet mbi të ardhurat dhe mbi kapitalin dhe për parandalimin e evazionit fiskal, ratifikuar me ligjin nr. 62/2014” | [`ligji-12-2021/`](ligji-12-2021/) | in force | 1 | 2021-03-11 | 2021-03-11 |
+
+## ligji-12-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Greqisë për ngritjen dhe funksionimin e një qendre të përbashkët policore dhe doganore | [`ligji-12-2022/`](ligji-12-2022/) | in force | 1 | 2022-03-16 | 2022-03-16 |
+
+## ligji-12-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Republikës së Kosovës, përfaqësuar nga Zyra e Kryeministrit, dhe Komisionit Evropian për programin e bashkëpunimit ndërkufitar Shqipëri-Kosovë, 2021-2027 | [`ligji-12-2024/`](ligji-12-2024/) | in force | 1 | 2024-03-13 | 2024-03-13 |
+
+## ligji-12-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për lobimin në Republikën e Shqipërisë | [`ligji-12-2026/`](ligji-12-2026/) | in force | 1 | 2026-03-03 | 2026-03-03 |
+
+## ligji-120-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të mirëkuptimit ndërmjet republikës së shqipërisë dhe bashkimit europian për pjesëmarrjen e republikës së shqipërisë në programin e komunitetit “doganat 2013” | [`ligji-120-2012/`](ligji-120-2012/) | in force | 1 | 2012-12-20 | 2012-12-20 |
+
+## ligji-120-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të shtetit për vitin 2014 | [`ligji-120-2015/`](ligji-120-2015/) | in force | 1 | 2015-12-08 | 2015-12-08 |
+
+## ligji-120-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për zhvillimin e rrjeteve të komunikimeve elektronike të shpejtësisë së lartë dhe sigurimin e së drejtës së kalimit | [`ligji-120-2016/`](ligji-120-2016/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+
+## ligji-121-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të bashkëpunimit ndërmjet qeverisë së Republikës së Shqipërisë dhe qeverisë së Shteteve të Bashkuara të Amerikës lidhur me bashkëpunimin për përdorimin e informacioneve për udhëtarët | [`ligji-121-2020/`](ligji-121-2020/) | in force | 1 | 2020-11-10 | 2020-11-10 |
+
+## ligji-121-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të mirëkuptimit ndërmjet Republikës së Shqipërisë dhe Shteteve të Bashkuara të Amerikës lidhur me vendosjen e kufizimeve të importit të kategorive të materialeve arkeologjike dhe etnologjike të Shqipërisë | [`ligji-121-2021/`](ligji-121-2021/) | in force | 1 | 2022-01-05 | 2022-01-05 |
+
+## ligji-121-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes kuadër të huas ndërmjet Republikës së Shqipërisë dhe Bankës për Zhvillim të Këshillit të Evropës për financimin e projektit ”Laboratorët inteligjentë (Smart Labs)-digjitalizimi i sistemit arsimor shqiptar” | [`ligji-121-2024/`](ligji-121-2024/) | in force | 1 | 2025-01-14 | 2025-01-14 |
+
+## ligji-122-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit nr. 15 të Konventës Europiane për Mbrojtjen e të Drejtave të Njeriut dhe Lirive Themelore | [`ligji-122-2015/`](ligji-122-2015/) | in force | 1 | 2015-12-09 | 2015-12-09 |
+
+## ligji-122-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës për Njohjen dhe Ekzekutimin e Vendimeve Gjyqësore të Huaja në Çështjet Civile ose Tregtare | [`ligji-122-2024/`](ligji-122-2024/) | in force | 1 | 2025-01-22 | 2025-01-22 |
+
+## ligji-123-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e kontratës së koncesionit ndërmjet Ministrisë së Financave, si autoritet kontraktues, dhe shoqërisë “Rapiscan Security, INC.”, si koncesionar, për financimin, ngritjen dhe operimin e shërbimit të skanimit të kontejnerëve e automjeteve të tjera në Republikën e Shqipërisë dhe tarifës së shërbimit të skanimit | [`ligji-123-2013/`](ligji-123-2013/) | in force | 1 | 2013-05-25 | 2013-05-25 |
+
+## ligji-123-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Republikës së Maqedonisë për Mbrojtjen Shoqërore | [`ligji-123-2015/`](ligji-123-2015/) | in force | 1 | 2015-12-09 | 2015-12-09 |
+
+## ligji-123-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes kuadër të huas ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës për Zhvillim të Këshillit të Europës për mbështetjen e përpjekjeve të Republikës së Shqipërisë për zbutjen e pandemisë Covid-19 | [`ligji-123-2021/`](ligji-123-2021/) | in force | 1 | 2022-01-05 | 2022-01-05 |
+
+## ligji-123-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës së Këshillit të Evropës për Veprat Penale që Lidhen me Pasurinë Kulturore, bërë në Nikosia më 19.5.2017 | [`ligji-123-2024/`](ligji-123-2024/) | in force | 1 | 2025-01-22 | 2025-01-22 |
+
+## ligji-124-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Mbretërisë së Bashkuar të Britanisë së Madhe dhe Irlandës së Veriut për ripranimin e personave dhe protokollit zbatues të marrëveshjes” | [`ligji-124-2021/`](ligji-124-2021/) | in force | 1 | 2022-01-28 | 2022-01-28 |
+
+## ligji-125-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së garancisë ndërmjet republikës së shqipërisë, të përfaqësuar nga ministria e financave, dhe bankës europiane për rindërtim dhe zhvillim (berzh), në lidhje me marrëveshjen e huas ndërmjet korporatës elektroenergjetike shqiptare dhe bankës europiane për rindërtim dhe zhvillim (berzh), për projektin “shqipëria: plani i ristrukturimit të kesh-it” | [`ligji-125-2016/`](ligji-125-2016/) | in force | 1 | 2016-12-15 | 2016-12-15 |
+
+## ligji-125-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Mbretërisë së Bashkuar të Britanisë së Madhe dhe Irlandës së Veriut mbi transferimin e personave të dënuar | [`ligji-125-2021/`](ligji-125-2021/) | in force | 1 | 2022-01-14 | 2022-01-14 |
+
+## ligji-125-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për organizimin dhe funksionimin e shërbimit ushtarak rezervist në Republikën e Shqipërisë | [`ligji-125-2024/`](ligji-125-2024/) | in force | 1 | 2025-01-30 | 2025-01-30 |
+
+## ligji-126-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit, faza I, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe KfW Frankfurt am Main, për fuqizimin institucional për programin “Infrastruktura bashkiake III/IV”, furnizimi me ujë dhe kanalizime për vendndodhjet Berat-Kuçovë, Delvinë, Gjirokastër, Kamëz, Librazhd dhe Lushnjë | [`ligji-126-2015/`](ligji-126-2015/) | in force | 1 | 2015-12-29 | 2015-12-29 |
+
+## ligji-127-2012 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit të parë të memorandumit të mirëkuptimit për krijimin, organizimin, administrimin, sigurinë, financimin dhe plotësimin me ekip të qendrës së nato-s për bashkërendimin e operacioneve speciale (nscc) | [`ligji-127-2012/`](ligji-127-2012/) | amending act | 1 | 2012-12-27 | 2012-12-27 |
+
+## ligji-127-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes Istisna’a dhe marrëveshjes së Agjencisë Istisna’a ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Islamike për Zhvillim (IDB) për financimin e projektit të ndërtimit të Portit të Peshkimit të Durrësit | [`ligji-127-2013/`](ligji-127-2013/) | in force | 1 | 2013-05-28 | 2013-05-28 |
+
+## ligji-127-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit, faza I, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe KfW Frankfurt am Main për shërbime të ekspertëve ndaj përfituesit, në kuadrin e studimeve të fizibilitetit, për programin “Infrastruktura bashkiake III/IV”, të financuar nga fonde të veçanta, të siguruara nga qeveria gjermane | [`ligji-127-2015/`](ligji-127-2015/) | in force | 1 | 2015-12-29 | 2015-12-29 |
+
+## ligji-127-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për regjistrimin, mënyrën e përdorimit dhe kontrollin e mjeteve lundruese turistike dhe të argëtimit | [`ligji-127-2020/`](ligji-127-2020/) | in force | 1 | 2020-11-27 | 2020-11-27 |
+
+## ligji-127-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shfuqizimin e masave administrative të vendosura nga data 1 janar 2015 deri më 30 nëntor 2024 nga inspektoratet vendore të mbrojtjes së territorit, Inspektorati Kombëtar i Mbrojtjes së Territorit, Autoriteti Kombëtar i Ushqimit, Inspektorati Shtetëror Shëndetësor, si dhe Policia e Shtetit e Policia Bashkiake | [`ligji-127-2024/`](ligji-127-2024/) | in force | 1 | 2025-01-15 | 2025-01-15 |
+
+## ligji-128-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së malit të zi për kryerjen e transportit hekurudhor kufitar ndërmjet të dyja vendeve | [`ligji-128-2012/`](ligji-128-2012/) | in force | 1 | 2012-12-27 | 2012-12-27 |
+
+## ligji-128-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes Istisna’a dhe të marrëveshjes së agjencisë Istisna’a ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Islamike për Zhvillim për ndërtimin e segmentit Qukës-Qafëplloçë, si pjesë e korridorit rrugor Tiranë-Korçë | [`ligji-128-2013/`](ligji-128-2013/) | in force | 1 | 2013-05-28 | 2013-05-28 |
+
+## ligji-128-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese nr. 6, të marrëveshjes së ndihmës për objektiva zhvillimi, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Shteteve të Bashkuara të Amerikës, për forcimin e shtetit të së drejtës, qeverisjen e mirë dhe krijimin e kushteve për një rritje ekonomike me bazë të gjerë, të qëndrueshme dhe gjithëpërfshirëse | [`ligji-128-2015/`](ligji-128-2015/) | in force | 1 | 2015-12-29 | 2015-12-29 |
+
+## ligji-128-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Agjencinë e Mbikëqyrjes Policore | [`ligji-128-2021/`](ligji-128-2021/) | in force | 1 | 2022-02-09 | 2022-02-09 |
+
+## ligji-129-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës për zgjatjen dhe përmirësimet e kontratës së koncesionit “Për prodhimin dhe shpërndarjen e kartave të identitetit dhe të pasaportave elektronike” ndërmjet Ministrisë së Brendshme të Republikës së Shqipërisë dhe Grupimit të Morpho dhe Fondit Shqiptaro-Amerikan të ndërmarrjeve | [`ligji-129-2013/`](ligji-129-2013/) | in force | 1 | 2013-05-30 | 2013-05-30 |
+
+## ligji-129-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e vendimit të Këshillit të Stabilizim-Asociimit Bashkimi Evropian - Shqipëri, 1/2015, i datës 11.5.2015, që zëvendëson Protokollin 4 të Marrëveshjes së Stabilizim-Asociimit, ndërmjet Komuniteteve Evropiane dhe shteteve të tyre anëtare, nga njëra anë, dhe Republikës së Shqipërisë, nga ana tjetër, në lidhje me përkufizimin e konceptit “produkte origjinuese” dhe metodat e bashkëpunimit administrativ | [`ligji-129-2015/`](ligji-129-2015/) | in force | 1 | 2015-12-29 | 2015-12-29 |
+
+## ligji-129-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për statusin ”Fëmijë në përkujdesje të Republikës” | [`ligji-129-2021/`](ligji-129-2021/) | in force | 1 | 2022-01-14 | 2022-01-14 |
+
+## ligji-13-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe organizatës për ndalimin e armëve kimike, për të drejtat dhe imunitetet e onak-ut | [`ligji-13-2012/`](ligji-13-2012/) | in force | 1 | 2012-03-29 | 2012-03-29 |
+
+## ligji-13-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe këshillit të ministrave të bosnjë- hercegovinës, mbi transportin detar tregtar | [`ligji-13-2017/`](ligji-13-2017/) | in force | 1 | 2017-03-10 | 2017-03-10 |
+
+## ligji-13-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e shtesës së kontratës së koncesionit të formës “bot” (ndërtim, shfrytëzim dhe transferim) të një porti të llojit mbm në porto-romano, durrës, miratuar me ligjin nr. 104/2015, ndërmjet ministrisë së infrastrukturës dhe energjisë dhe shoqërisë koncesionare “porti mbm (multy buoy mooring)” | [`ligji-13-2018/`](ligji-13-2018/) | in force | 1 | 2018-05-15 | 2018-05-15 |
+
+## ligji-13-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet palëve të Konventës së Bashkëpunimit Policor për Europën Juglindore për shkëmbimin e automatizuar të të dhënave të ADN-së, daktiloskopike dhe të të dhënave të regjistrimit të automjeteve dhe marrëveshjes së saj zbatuese | [`ligji-13-2019/`](ligji-13-2019/) | in force | 1 | 2019-04-02 | 2019-04-02 |
+
+## ligji-13-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë dhe Komisionit të Bashkimit Europian në lidhje me programin vjetor kombëtar për Shqipërinë për vitin 2019, në kuadër të instrumentit të asistencës së paraanëtarësimit (IPA II)” | [`ligji-13-2021/`](ligji-13-2021/) | in force | 1 | 2021-03-12 | 2021-03-12 |
+
+## ligji-13-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës 190 “Konventa për Dhunën dhe Ngacmimin” të Organizatës Ndërkombëtare të Punës, 1986 | [`ligji-13-2022/`](ligji-13-2022/) | in force | 1 | 2022-03-10 | 2022-03-10 |
+
+## ligji-13-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit ndërmjet Republikës së Shqipërisë dhe Republikës së Maqedonisë së Veriut për rikthimin e ikonave të trafikuara në vendin e tyre të origjinës | [`ligji-13-2023/`](ligji-13-2023/) | in force | 1 | 2023-03-09 | 2023-03-09 |
+
+## ligji-13-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit ndryshues të marrëveshjes ndërmjet palëve të Konventës së Bashkëpunimit Policor për Evropën Juglindore për Shkëmbimin e Automatizuar të të Dhënave të ADN-së, Daktiloskopike dhe të të Dhënave të Regjistrimit të Automjeteve, i ratifikuar me ligjin nr. 13/2019 | [`ligji-13-2024/`](ligji-13-2024/) | in force | 1 | 2024-03-13 | 2024-03-13 |
+
+## ligji-13-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për importin, eksportin dhe transitin e armëve të zjarrit, të komponentëve të tyre kryesorë dhe të municioneve | [`ligji-13-2026/`](ligji-13-2026/) | in force | 1 | 2026-03-03 | 2026-03-03 |
+
+## ligji-130-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për trajtimin dhe administrimin e mjeteve rrugore e lundruese të konfiskuara, si pasojë e sekuestrimit, ndalimit apo bllokimit nga policia e shtetit deri në datën 30.12.2010 | [`ligji-130-2012/`](ligji-130-2012/) | in force | 1 | 2012-12-27 | 2012-12-27 |
+
+## ligji-130-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kroacisë për bashkëpunimin policor | [`ligji-130-2015/`](ligji-130-2015/) | in force | 1 | 2015-12-29 | 2015-12-29 |
+
+## ligji-131-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes për mbështetje teknike ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Agjencisë së Mbështetjes dhe Prokurimit të NATO-s për realizimin e projekteve të Kuçovës, të financuara nga programi i investimeve të NATO-s për sigurinë, vitet 2019-2022 | [`ligji-131-2020/`](ligji-131-2020/) | in force | 1 | 2020-11-24 | 2020-11-24 |
+
+## ligji-131-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave, Kosovës, përfaqësuar nga Ministria e Integrimit Europian, dhe Komisionit Europian për programin e bashkëpunimit ndërkufitar IPA II, Shqipëri-Kosovë 2014-2020. alokimet për vitin 2020 | [`ligji-131-2021/`](ligji-131-2021/) | in force | 1 | 2022-01-15 | 2022-01-15 |
+
+## ligji-132-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe bashkimit europian për pjesëmarrjen e republikës së shqipërisë në programin kuadër “horizon 2020 - programi për kërkim dhe inovacion” | [`ligji-132-2014/`](ligji-132-2014/) | in force | 1 | 2014-11-07 | 2014-11-07 |
+
+## ligji-132-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave, Malit të Zi, përfaqësuar nga Zyra e Integrimit Evropian, dhe Komisionit Evropian për Programin e Veprimit të Bashkëpunimit Ndërkufitar IPA II, Mali i Zi-Shqipëri, 2014-2020, alokimet për vitin 2020 | [`ligji-132-2021/`](ligji-132-2021/) | in force | 1 | 2022-01-20 | 2022-01-20 |
+
+## ligji-133-2014 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin në lidhje me një amendament të konventës së aviacionit civil ndërkombëtar (neni 3 bis), të nënshkruar në montreal më 10 maj 1984 | [`ligji-133-2014/`](ligji-133-2014/) | amending act | 1 | 2014-11-07 | 2014-11-07 |
+
+## ligji-133-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për rimëkëmbjen dhe ndërhyrjen e jashtëzakonshme në banka, në republikën e shqipërisë | [`ligji-133-2016/`](ligji-133-2016/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+
+## ligji-134-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së kredisë së eksportit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe Erste Bank Der Oesterreichischen Sparkassen AG për projektin e tatimit elektronik (E-Taxation) | [`ligji-134-2013/`](ligji-134-2013/) | in force | 1 | 2013-05-29 | 2013-05-29 |
+
+## ligji-134-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së angazhimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Shëndetësisë dhe Mbrojtjes Sociale, dhe Aleancës GAVI, për pjesëmarrjen në strukturën globale të qasjes në vaksinat COVID-19 (covax facility) | [`ligji-134-2020/`](ligji-134-2020/) | in force | 1 | 2020-11-28 | 2020-11-28 |
+
+## ligji-135-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të mirëkuptimit për kuadrin institucional të iniciativës për gatishmërinë dhe parandalimin e katastrofave për europën juglindore | [`ligji-135-2014/`](ligji-135-2014/) | in force | 1 | 2014-11-12 | 2014-11-12 |
+
+## ligji-135-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për sigurinë dhe shëndetin në punë, emergjencat dhe shpëtimin në veprimtarinë minerare dhe në punimet nëntokësore në veprat hidroenergjetike | [`ligji-135-2016/`](ligji-135-2016/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+
+## ligji-136-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIkËS SË SHQIPËRISË DHE KËSHILLIT TË MINISTRAVE TË BOSNJË -HERCEGOVINËS PËR MBROJTJEN E NDëRSJELLë TË INFORMACIONIT TË KLASIFIKUAR | [`ligji-136-2014/`](ligji-136-2014/) | in force | 1 | 2014-11-12 | 2014-11-12 |
+
+## ligji-137-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik për vitin 2013 | [`ligji-137-2014/`](ligji-137-2014/) | in force | 1 | 2014-11-25 | 2014-11-25 |
+
+## ligji-137-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë, republikës së greqisë dhe komisionit europian për programin interreg ipa të bashkëpunimit ndërkufitar greqi-shqipëri, 2014-2020 | [`ligji-137-2016/`](ligji-137-2016/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+
+## ligji-138-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit europian për programin interreg ipa të bashkëpunimit ndërkufitar itali-shqipëri-mali i zi, 2014-2020 | [`ligji-138-2016/`](ligji-138-2016/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+
+## ligji-139-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë Federale Austriake për shkëmbimin e ndërsjellë të të dhënave në çështjet e kontrollit të migracionit dhe çështjet e azilit | [`ligji-139-2013/`](ligji-139-2013/) | in force | 1 | 2013-06-01 | 2013-06-01 |
+
+## ligji-139-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes së huas dhe programit ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave, e fondit shqiptar të zhvillimit dhe kfw frankfurt am main për financimin e programit “fondi i investimeve sociale iv” | [`ligji-139-2014/`](ligji-139-2014/) | in force | 1 | 2014-11-25 | 2014-11-25 |
+
+## ligji-139-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese nr. 1 të marrëveshjes ndërmjet qeverisë së republikës së shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës për kontrollin e lëndëve narkotike dhe zbatimin e ligjit | [`ligji-139-2016/`](ligji-139-2016/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+
+## ligji-139-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Konfederatës Zvicerane, për projektin Bashki të Forta | [`ligji-139-2020/`](ligji-139-2020/) | in force | 1 | 2021-01-01 | 2021-01-01 |
+
+## ligji-14-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së kredisë për eksport ndërmjet këshillit të ministrave të republikës së shqipërisë, që vepron në emër të republikës së shqipërisë dhe përfaqësohet nga ministria e financave, dhe unicredit bank austria ag, për financimin e projektit mbarëkombëtar të radioterapisë | [`ligji-14-2014/`](ligji-14-2014/) | in force | 1 | 2014-04-28 | 2014-04-28 |
+
+## ligji-14-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Islandës për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal për tatimin mbi të ardhurat | [`ligji-14-2015/`](ligji-14-2015/) | in force | 1 | 2015-04-02 | 2015-04-02 |
+
+## ligji-14-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për identifikimin dhe regjistrimin e adresës së shtetasve shqiptarë që jetojnë jashtë territorit të republikës së shqipërisë | [`ligji-14-2016/`](ligji-14-2016/) | in force | 1 | 2016-03-24 | 2016-03-24 |
+
+## ligji-14-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes për bashkëpunimin teknik ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Zhvillimit Urban, dhe Qeverisë së Konfederatës Zvicerane, të përfaqësuar nga Agjencia Zvicerane për Zhvillim dhe Bashkëpunim, për Programin e Zhvillimit Rajonal për Shqipërinë, ratifikuar me ligjin nr. 66/2017 | [`ligji-14-2019/`](ligji-14-2019/) | in force | 1 | 2019-04-02 | 2019-04-02 |
+
+## ligji-14-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit ndryshues të marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Dukatit të Madh të Luksemburgut për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal lidhur me tatimet mbi të ardhurat dhe kapitalin, e nënshkruar në Tiranë më 14 janar 2009, ratifikuar me ligjin nr. 10094, datë 12.3.2009” | [`ligji-14-2021/`](ligji-14-2021/) | in force | 1 | 2021-03-11 | 2021-03-11 |
+
+## ligji-14-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e Strategjisë së Sigurisë Kombëtare të Republikës së Shqipërisë | [`ligji-14-2024/`](ligji-14-2024/) | in force | 1 | 2024-03-19 | 2024-03-19 |
+
+## ligji-140-2014 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit të letërmarrëveshjes ndryshuese të marrëveshjes së financimit ndërmjet republikës së shqipërisë dhe fondit ndërkombëtar për zhvillimin e agrikulturës për programin “malet drejt tregut” | [`ligji-140-2014/`](ligji-140-2014/) | amending act | 1 | 2014-11-25 | 2014-11-25 |
+
+## ligji-140-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për censin e popullsisë dhe të banesave | [`ligji-140-2020/`](ligji-140-2020/) | in force | 1 | 2021-01-12 | 2021-01-12 |
+
+## ligji-141-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dhënie amnistie | [`ligji-141-2016/`](ligji-141-2016/) | in force | 1 | 2017-01-14 | 2017-01-14 |
+
+## ligji-142-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Kodi hekurudhor i republikës së shqipërisë | [`ligji-142-2016/`](ligji-142-2016/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+
+## ligji-143-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim, për Programin për Zhvillimin e Turizmit dhe Infrastrukturës në Shqipëri | [`ligji-143-2020/`](ligji-143-2020/) | in force | 1 | 2021-01-05 | 2021-01-05 |
+
+## ligji-144-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së garancisë ndërmjet republikës së shqipërisë dhe bankës europiane për rindërtim dhe zhvillim (berzh) për marrëveshjen e huas ndërmjet agjencisë shqiptare të sigurimit të depozitave dhe bankës europiane për rindërtim dhe zhvillim për linjën e kredisë për agjencinë shqiptare të sigurimit të depozitave | [`ligji-144-2014/`](ligji-144-2014/) | in force | 1 | 2014-12-03 | 2014-12-03 |
+
+## ligji-144-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, për Projektin për Reagimin ndaj Emergjencës COVID-19 në Shqipëri | [`ligji-144-2020/`](ligji-144-2020/) | in force | 1 | 2021-01-05 | 2021-01-05 |
+
+## ligji-145-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në traktatin për sistemin europian të informacionit për automjetin dhe lejen e drejtimit (eucaris) | [`ligji-145-2014/`](ligji-145-2014/) | in force | 1 | 2014-12-03 | 2014-12-03 |
+
+## ligji-145-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes për bashkëpunim ekonomik ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Emirateve të Bashkuara Arabe | [`ligji-145-2020/`](ligji-145-2020/) | in force | 1 | 2021-01-23 | 2021-01-23 |
+
+## ligji-146-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës për Ndihmën Administrative të Ndërsjellë në Çështjet Tatimore | [`ligji-146-2013/`](ligji-146-2013/) | in force | 1 | 2013-06-11 | 2013-06-11 |
+
+## ligji-146-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për njoftimin dhe konsultimin publik | [`ligji-146-2014/`](ligji-146-2014/) | in force | 1 | 2015-05-24 | 2015-05-24 |
+
+## ligji-146-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për punëkërkuesit | [`ligji-146-2015/`](ligji-146-2015/) | in force | 1 | 2016-01-15 | 2016-01-15 |
+
+## ligji-147-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe Artigiancassa S.p.A. për financimin e programit të ndihmës së integruar për zhvillimin e ndërmarrjeve të vogla dhe të mesme shqiptare | [`ligji-147-2013/`](ligji-147-2013/) | in force | 1 | 2013-06-11 | 2013-06-11 |
+
+## ligji-147-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shërbimin e urgjencës mjekësore | [`ligji-147-2014/`](ligji-147-2014/) | in force | 1 | 2014-12-09 | 2014-12-09 |
+
+## ligji-148-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Malit të Zi për mbrojtjen e ndërsjellë të informacionit të klasifikuar | [`ligji-148-2013/`](ligji-148-2013/) | in force | 1 | 2013-06-11 | 2013-06-11 |
+
+## ligji-148-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së kredisë për eksport ndërmjet këshillit të ministrave të republikës së shqipërisë, që vepron në emër të republikës së shqipërisë dhe i përfaqësuar nga ministria e financave, dhe unicredit bank austria ag për financimin e projektit të sistemit të ujërave të zeza të bilishtit, “kontratë me çelësa në dorë - loti 1” | [`ligji-148-2014/`](ligji-148-2014/) | in force | 1 | 2014-12-09 | 2014-12-09 |
+
+## ligji-148-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Singaporit për shërbimet ajrore | [`ligji-148-2015/`](ligji-148-2015/) | in force | 1 | 2015-12-21 | 2015-12-21 |
+
+## ligji-149-2014 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit nr. 2 të marrëveshjes së ndihmës për objektiva zhvillimi ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës “për forcimin e shtetit të së drejtës dhe qeverisjen e mirë dhe krijimin e kushteve për një rritje ekonomike me bazë të gjerë dhe të qëndrueshme” | [`ligji-149-2014/`](ligji-149-2014/) | amending act | 1 | 2014-12-09 | 2014-12-09 |
+
+## ligji-149-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e dokumentit ndryshues të marrëveshjes së huas ndërmjet Qeverisë së Republikës së Shqipërisë dhe Fondit për Zhvillim Abu Dhabi për financimin e projektit të Bulevardit Verior dhe të rehabilitimit të Lumit të Tiranës | [`ligji-149-2015/`](ligji-149-2015/) | in force | 1 | 2015-12-21 | 2015-12-21 |
+
+## ligji-15-2014 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e dokumentit të ndryshimit nr. 1 të marrëveshjes së kredisë për eksport ndërmjet këshillit të ministrave të republikës së shqipërisë, që vepron në emër të republikës së shqipërisë e përfaqësohet nga ministria e financave, dhe unicredit bank austria ag, për financimin e projektit mbarëkombëtar të radioterapisë | [`ligji-15-2014/`](ligji-15-2014/) | amending act | 1 | 2014-04-28 | 2014-04-28 |
+
+## ligji-15-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Finlandës për eliminimin e tatimit të dyfishtë, në lidhje me tatimet mbi të ardhurat dhe parandalimin e shmangien e evazionit tatimor | [`ligji-15-2023/`](ligji-15-2023/) | in force | 1 | 2023-03-15 | 2023-03-15 |
+
+## ligji-15-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Strategjinë e Mbrojtjes së Mjedisit Detar të Republikës së Shqipërisë | [`ligji-15-2024/`](ligji-15-2024/) | in force | 1 | 2024-09-04 | 2024-09-04 |
+
+## ligji-150-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pensionet e punonjësve që kanë punuar në miniera, në nëntokë | [`ligji-150-2014/`](ligji-150-2014/) | in force | 1 | 2014-12-16 | 2014-12-16 |
+
+## ligji-150-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës së Këshillit të Europës kundër Trafikimit të Organeve Njerëzore | [`ligji-150-2015/`](ligji-150-2015/) | in force | 1 | 2015-12-21 | 2015-12-21 |
+
+## ligji-151-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për projektin e shërbimeve mjedisore | [`ligji-151-2014/`](ligji-151-2014/) | in force | 1 | 2014-12-16 | 2014-12-16 |
+
+## ligji-151-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Hungarisë për mbrojtjen shoqërore | [`ligji-151-2015/`](ligji-151-2015/) | in force | 1 | 2015-12-21 | 2015-12-21 |
+
+## ligji-152-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së grantit ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim, që vepron si agjenci zbatuese për fondin global të mjedisit, për projektin e shërbimeve mjedisore | [`ligji-152-2014/`](ligji-152-2014/) | in force | 1 | 2014-12-16 | 2014-12-16 |
+
+## ligji-153-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e kamatëvonesave dhe gjobave për kontributet e detyrueshme të sigurimeve shoqërore të papaguara nga personat e vetëpunësuar në bujqësi | [`ligji-153-2014/`](ligji-153-2014/) | in force | 1 | 2014-11-24 | 2014-11-24 |
+
+## ligji-153-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e dokumenteve ndryshuese, me shkëmbim notash, të marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Mbrojtjes, dhe Qeverisë së Republikës së Italisë, përfaqësuar nga Ministria e Punëve të Jashtme, për realizimin e programit “Fuqizimi i Qendrës Traumatologjike Kombëtare të Tiranës”, nënshkruar më 12.7.2006 | [`ligji-153-2015/`](ligji-153-2015/) | in force | 1 | 2015-12-21 | 2015-12-21 |
+
+## ligji-153-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për regjimin fiskal në sektorin hidrokarbur | [`ligji-153-2020/`](ligji-153-2020/) | in force | 1 | 2021-02-02 | 2021-02-02 |
+
+## ligji-154-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për organizimin dhe funksionimin e kontrollit të lartë të shtetit | [`ligji-154-2014/`](ligji-154-2014/) | in force | 1 | 2015-01-01 | 2015-01-01 |
+
+## ligji-154-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dhënie amnistie | [`ligji-154-2015/`](ligji-154-2015/) | in force | 1 | 2015-12-21 | 2015-12-21 |
+
+## ligji-156-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e detyrimeve të ushtarakëve ndaj fondit të sigurimeve shoqërore, të krijuara si diferencë nga rishqyrtimi i pensioneve të parakohshme për vjetërsi shërbimi, të caktuara sipas vendimeve gjyqësore të formës së prerë, bazuar në kriteret e vendimit unifikues të Kolegjeve të Bashkuara të Gjykatës së Lartë nr. 3, datë 24.11.2016 | [`ligji-156-2020/`](ligji-156-2020/) | in force | 1 | 2021-01-23 | 2021-01-23 |
+
+## ligji-157-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë, si huamarrës, Bankës së Shqipërisë, si agjent për huamarrësin, dhe Bashkimit Evropian, si huadhënës, për ndihmën makrofinanciare për Shqipërinë | [`ligji-157-2020/`](ligji-157-2020/) | in force | 1 | 2021-01-23 | 2021-01-23 |
+
+## ligji-158-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për sigurinë në tunelet rrugore | [`ligji-158-2013/`](ligji-158-2013/) | in force | 1 | 2013-11-13 | 2013-11-13 |
+
+## ligji-158-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave, Malit të Zi, përfaqësuar nga Zyra e Integrimit Evropian, dhe Komisionit Evropian për programin e veprimit të bashkëpunimit ndërkufitar IPA II, Mal i Zi-Shqipëri, 2014-2020, alokimet për vitin 2019 | [`ligji-158-2020/`](ligji-158-2020/) | in force | 1 | 2021-01-27 | 2021-01-27 |
+
+## ligji-159-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së shtetit të Kuvajtit për shërbimin ajror | [`ligji-159-2013/`](ligji-159-2013/) | in force | 1 | 2013-11-27 | 2013-11-27 |
+
+## ligji-16-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e instrumenteve që ndryshojnë kushtetutën dhe konventën e bashkimit ndërkombëtar të telekomunikacioneve (gjenevë, 1992), të ndryshuar nga konferenca fuqiplotë (guadalajara, 2010) | [`ligji-16-2014/`](ligji-16-2014/) | in force | 1 | 2014-04-28 | 2014-04-28 |
+
+## ligji-16-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes për themelimin e qendrës së kërkimit shkencor dhe inovacionit të ballkanit perëndimor (wise) | [`ligji-16-2016/`](ligji-16-2016/) | in force | 1 | 2016-04-15 | 2016-04-15 |
+
+## ligji-16-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e letërmarrëveshjes ndryshuese të marrëveshjes së financimit ndërmjet Republikës së Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA) për projektin “Siguria e digave”, të ratifikuar me ligjin nr. 9965, datë 24.7.2008 | [`ligji-16-2019/`](ligji-16-2019/) | in force | 1 | 2019-04-12 | 2019-04-12 |
+
+## ligji-16-2021 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit të marrëveshjes së koncesionit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Shoqërisë Koncesionare “Tirana International Airport” sh.p.k., “Për ndërtimin, vënien në punë, operimin dhe mirëmbajtjen e Aeroportit Ndërkombëtar ’Nënë Tereza’, Tiranë”, ratifikuar me ligjin nr. 9312, datë 11.11.2004, të ndryshuar | [`ligji-16-2021/`](ligji-16-2021/) | amending act | 1 | 2021-03-31 | 2021-03-31 |
+
+## ligji-16-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane të Investimeve lidhur me hapjen e përfaqësisë së Bankës Evropiane të Investimeve në Shqipëri | [`ligji-16-2025/`](ligji-16-2025/) | in force | 1 | 2025-04-16 | 2025-04-16 |
+
+## ligji-160-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave, Republikës së Kosovës, përfaqësuar nga Ministria e Integrimit Evropian, dhe Komisionit Evropian për Programin e Bashkëpunimit Ndërkufitar IPA II, Shqipëri-Kosovë, 2014-2020, alokimet për vitin 2019 | [`ligji-160-2020/`](ligji-160-2020/) | in force | 1 | 2021-01-30 | 2021-01-30 |
+
+## ligji-162-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e marrëveshjes për kryerjen e shërbimit të auditimit të borxhit të ministrive kundrejt biznesit vendas dhe të huaj | [`ligji-162-2013/`](ligji-162-2013/) | in force | 1 | 2013-10-18 | 2013-10-18 |
+
+## ligji-163-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe Artigiancassa S.p.A. “Për financimin e programit për zhvillimin e qëndrueshëm të sektorit të ullinjve” | [`ligji-163-2013/`](ligji-163-2013/) | in force | 1 | 2013-12-04 | 2013-12-04 |
+
+## ligji-164-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe Artigiancassa S.p.A. për programin “Fuqizimi i Agjencisë së Zhvillimit Rural dhe të Agrikulturës për disbursimin e granteve në agrikulturë” | [`ligji-164-2013/`](ligji-164-2013/) | in force | 1 | 2013-12-04 | 2013-12-04 |
+
+## ligji-165-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe Artigiancassa S. p.A. “Për projektin pilot për krijimin dhe testimin e sigurimeve të buta, me qëllim mbulimin e rreziqeve në agrikulturë” | [`ligji-165-2013/`](ligji-165-2013/) | in force | 1 | 2013-12-04 | 2013-12-04 |
+
+## ligji-165-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes së huas nr. alb-0028 ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim (idb) për pjesëmarrjen në financimin e projektit të rindërtimit të rrugëve dytësore dhe lokale | [`ligji-165-2014/`](ligji-165-2014/) | in force | 1 | 2015-01-14 | 2015-01-14 |
+
+## ligji-166-2014 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit nr. 3 të marrëveshjes së ndihmës për objektiva zhvillimi ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës “për forcimin e shtetit të së drejtës dhe qeverisjen e mirë dhe krijimin e kushteve për një rritje ekonomike me bazë të gjerë dhe të qëndrueshme” | [`ligji-166-2014/`](ligji-166-2014/) | amending act | 1 | 2015-01-14 | 2015-01-14 |
+
+## ligji-167-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Indisë për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal për tatimet mbi të ardhurat dhe kapitalin | [`ligji-167-2013/`](ligji-167-2013/) | in force | 1 | 2013-12-05 | 2013-12-05 |
+
+## ligji-167-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e letërmarrëveshjes ndryshuese të marrëveshjes istisna’a dhe marrëveshjes së agjencisë istisna’a ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim (idb) për projektin e rrugës tiranë-elbasan | [`ligji-167-2014/`](ligji-167-2014/) | in force | 1 | 2015-01-14 | 2015-01-14 |
+
+## ligji-167-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e detyrimeve të sigurimeve shoqërore, që ish-punonjësit e nëntokës kanë ndaj Institutit të Sigurimeve Shoqërore, të llogaritura për periudhën që kanë përfituar, sipas ligjit nr. 8685, datë 9.11.2000, “Për një trajtim të veçantë të punonjësve që kanë punuar në miniera në nëntokë”, të ndryshuar, të cilët njëkohësisht kanë zhvilluar aktivitet ekonomik si të punësuar ose vetëpunësuar | [`ligji-167-2020/`](ligji-167-2020/) | in force | 1 | 2021-01-23 | 2021-01-23 |
+
+## ligji-168-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për sigurinë në anije dhe në porte | [`ligji-168-2013/`](ligji-168-2013/) | in force | 1 | 2013-12-05 | 2013-12-05 |
+
+## ligji-169-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së hungarisë për shkëmbimin dhe mbrojtjen e ndërsjellë të informacionit të klasifikuar | [`ligji-169-2014/`](ligji-169-2014/) | in force | 1 | 2015-01-15 | 2015-01-15 |
+
+## ligji-169-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për njohjen si periudhë sigurimi për efekt përfitimi nga sigurimet shoqërore të kohës së punësimit në ish-kooperativat bujqësore | [`ligji-169-2020/`](ligji-169-2020/) | in force | 1 | 2021-01-23 | 2021-01-23 |
+
+## ligji-17-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes kuadër të financimit ndërmjet Republikës së Shqipërisë dhe Bankës për Zhvillim të Këshillit të Europës për programin e reformimit të Qendrës Spitalore Universitare të Tiranës - faza II | [`ligji-17-2015/`](ligji-17-2015/) | in force | 1 | 2015-04-14 | 2015-04-14 |
+
+## ligji-17-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit shtesë të konventës së këshillit të evropës për parandalimin e terrorizmit | [`ligji-17-2016/`](ligji-17-2016/) | in force | 1 | 2016-04-15 | 2016-04-15 |
+
+## ligji-17-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për statistikat zyrtare | [`ligji-17-2018/`](ligji-17-2018/) | in force | 1 | 2018-04-05 | 2018-04-05 |
+
+## ligji-17-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunim financiar 2017, për projektin “Programi për rinovimin e konvikteve në kampusin Universitar të Tiranës, sipas parimit të eficencës energjetike, faza III” | [`ligji-17-2019/`](ligji-17-2019/) | in force | 1 | 2019-04-12 | 2019-04-12 |
+
+## ligji-17-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Mbretërisë së Spanjës, si shtesë e Konventës Europiane për Ekstradimin të vitit 1957 | [`ligji-17-2022/`](ligji-17-2022/) | in force | 1 | 2022-03-16 | 2022-03-16 |
+
+## ligji-17-2023 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e kontratës shtesë për ndryshimin e kontratës së koncesionit ndërmjet Ministrisë së Financave dhe Ekonomisë, si autoritet kontraktues, dhe shoqërive ”Sicpa Security Solutions” SA e ”Sicpa Security Solutions Albania”, sh.p.k. për projektimin, financimin, dizenjimin, prodhimin dhe ngritjen e një sistemi për emetimin, shpërndarjen, gjetjen dhe monitorimin e pullave fiskale e të pullave të kontrollit të barnave, miratuar me ligjin nr. 10381, datë 24.2.2011 | [`ligji-17-2023/`](ligji-17-2023/) | amending act | 1 | 2023-04-05 | 2023-04-05 |
+
+## ligji-170-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e marrëveshjes së asistencës së shërbimit doganor | [`ligji-170-2013/`](ligji-170-2013/) | in force | 1 | 2013-11-14 | 2013-11-14 |
+
+## ligji-170-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për financimin e projektit për rimëkëmbjen e sektorit të energjisë elektrike | [`ligji-170-2014/`](ligji-170-2014/) | in force | 1 | 2015-01-15 | 2015-01-15 |
+
+## ligji-171-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e Buxhetit faktik të Shtetit për vitin 2012 | [`ligji-171-2013/`](ligji-171-2013/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+
+## ligji-172-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Moldavisë për ripranimin e personave me qëndrim të paautorizuar | [`ligji-172-2013/`](ligji-172-2013/) | in force | 1 | 2014-01-11 | 2014-01-11 |
+
+## ligji-173-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Mbretërisë së Bashkuar të Britanisë së Madhe e Irlandës së Veriut për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal për tatimin mbi të ardhurat dhe mbi kapitalin | [`ligji-173-2013/`](ligji-173-2013/) | in force | 1 | 2014-01-11 | 2014-01-11 |
+
+## ligji-174-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe shtabit suprem të fuqive aleate në europë (shape) e shtabit të komandës supreme aleate për transformimin, në plotësim të protokollit të parisit | [`ligji-174-2014/`](ligji-174-2014/) | in force | 1 | 2015-01-15 | 2015-01-15 |
+
+## ligji-18-2012 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së maqedonisë për ndryshimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së maqedonisë për lëvizjen e ndërsjellë të shtetasve | [`ligji-18-2012/`](ligji-18-2012/) | amending act | 1 | 2012-03-29 | 2012-03-29 |
+
+## ligji-18-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e vjenës “për të drejtën e traktateve midis shteteve dhe organizatave ndërkombëtare ose midis organizatave ndërkombëtare”, 1986 | [`ligji-18-2014/`](ligji-18-2014/) | in force | 1 | 2014-04-21 | 2014-04-21 |
+
+## ligji-18-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së grantit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe Bankës Europiane për Rindërtim dhe Zhvillim, si administratore e fondeve grant, të siguruara nga qeveri të vendeve të ndryshme, nën fondin e veçantë të aksionarëve të Berzh-it, për planin e qëndrueshëm të transportit në Shqipëri | [`ligji-18-2015/`](ligji-18-2015/) | in force | 1 | 2015-04-09 | 2015-04-09 |
+
+## ligji-18-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së këshillit të evropës “për falsifikimin e produkteve mjekësore dhe krime të ngjashme, që përbëjnë kërcënim për shëndetin publik” | [`ligji-18-2016/`](ligji-18-2016/) | in force | 1 | 2016-04-15 | 2016-04-15 |
+
+## ligji-18-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për të drejtat dhe mbrojtjen e fëmijës | [`ligji-18-2017/`](ligji-18-2017/) | in force | 1 | 2017-02-23 | 2017-02-23 |
+
+## ligji-18-2018 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit shtesë 5 të marrëveshjes për amendimin dhe aderimin në marrëveshjen e tregtisë së lirë të evropës qendrore | [`ligji-18-2018/`](ligji-18-2018/) | amending act | 1 | 2018-05-11 | 2018-05-11 |
+
+## ligji-18-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për Bashkëpunim Financiar 2016, për projektin “Programi i investimeve për shpërndarjen e energjisë elektrike I” | [`ligji-18-2019/`](ligji-18-2019/) | in force | 1 | 2019-04-18 | 2019-04-18 |
+
+## ligji-18-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për huan për zhvillimin e politikës për qëndrueshmërinë fiskale dhe rritjen në Shqipëri” | [`ligji-18-2021/`](ligji-18-2021/) | in force | 1 | 2021-03-11 | 2021-03-11 |
+
+## ligji-18-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën Kuadër për Etikën në Turizëm dhe protokollin opsional të saj | [`ligji-18-2022/`](ligji-18-2022/) | in force | 1 | 2022-03-16 | 2022-03-16 |
+
+## ligji-18-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përfundimin e procesit të privatizimit të objekteve të ish-ndërmarrjeve bujqësore | [`ligji-18-2023/`](ligji-18-2023/) | in force | 1 | 2023-04-11 | 2023-04-11 |
+
+## ligji-18-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë, si huamarrës, Bankës së Shqipërisë, si agjent i huamarrësit, dhe Bashkimit Evropian, të përfaqësuar nga Komisioni Evropian, si huadhënës, për “Lehtësinë e reformës dhe zgjerimit për Ballkanin Perëndimor” | [`ligji-18-2025/`](ligji-18-2025/) | in force | 1 | 2025-03-17 | 2025-03-17 |
+
+## ligji-18-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Francës dhe Komisionit Evropian për programin e bashkëpunimit (Interreg VI-C) Interreg Europe 2021-2027 | [`ligji-18-2026/`](ligji-18-2026/) | in force | 1 | 2026-03-06 | 2026-03-06 |
+
+## ligji-184-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bashkimit europian, përfaqësuar nga komisioni europian, për pjesëmarrjen e republikës së shqipërisë në programin e unionit “doganat 2020” | [`ligji-184-2014/`](ligji-184-2014/) | in force | 1 | 2014-12-24 | 2014-12-24 |
+
+## ligji-19-2012 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit të marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së malit të zi për lëvizjen e ndërsjellë të shtetasve | [`ligji-19-2012/`](ligji-19-2012/) | amending act | 1 | 2012-03-29 | 2012-03-29 |
+
+## ligji-19-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së italisë për realizimin e “programit të ndihmës së integruar për zhvillimin e ndërmarrjeve të vogla dhe të mesme shqiptare” | [`ligji-19-2014/`](ligji-19-2014/) | in force | 1 | 2014-05-30 | 2014-05-30 |
+
+## ligji-19-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për masat shtesë të sigurisë publike | [`ligji-19-2016/`](ligji-19-2016/) | in force | 1 | 2016-12-28 | 2016-12-28 |
+
+## ligji-19-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për financimin e projektit për zhvillimin e integruar urban dhe të turizmit | [`ligji-19-2017/`](ligji-19-2017/) | in force | 1 | 2017-03-25 | 2017-03-25 |
+
+## ligji-19-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet republikës së shqipërisë, republikës së francës dhe komisionit evropian për programin interreg v-b mesdhe (med), 2014-2020 | [`ligji-19-2018/`](ligji-19-2018/) | in force | 1 | 2018-05-17 | 2018-05-17 |
+
+## ligji-19-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për Bashkëpunimin Teknik 2017 Për projektin “Zhvillim i qëndrueshëm i zonave rurale” | [`ligji-19-2019/`](ligji-19-2019/) | in force | 1 | 2019-04-18 | 2019-04-18 |
+
+## ligji-19-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën Ndërkombëtare për Kontrollin e Dëmit nga Sistemet për Mbrojtjen Antivegjetative në Anije (anti-fouling), 2001 | [`ligji-19-2022/`](ligji-19-2022/) | in force | 1 | 2022-04-07 | 2022-04-07 |
+
+## ligji-19-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes në lidhje me programin e shkëmbimit të studimeve universitare në Evropën Qendrore ”CEEPUS IV” | [`ligji-19-2024/`](ligji-19-2024/) | in force | 1 | 2024-03-28 | 2024-03-28 |
+
+## ligji-19-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së facilitetit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, dhe Bashkimit Evropian, të përfaqësuar nga Komisioni, për rregullimet specifike për zbatimin e mbështetjes së Bashkimit Evropian për Republikën e Shqipërisë, në kuadër të facilitetit për reforma dhe rritje | [`ligji-19-2025/`](ligji-19-2025/) | in force | 1 | 2025-03-17 | 2025-03-17 |
+
+## ligji-19-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese nr. 1, me shkëmbim letrash, të marrëveshjes së financimit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Republikës së Kosovës, përfaqësuar nga Zyra e Kryeministrit, dhe Komisionit Evropian, për programin e bashkëpunimit ndërkufitar Shqipëri-Kosovë, 2021-2027, ratifikuar me ligjin nr. 12/2024 | [`ligji-19-2026/`](ligji-19-2026/) | in force | 1 | 2026-03-05 | 2026-03-05 |
+
+## ligji-2-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës për ekstradimin | [`ligji-2-2013/`](ligji-2-2013/) | in force | 1 | 2013-03-05 | 2013-03-05 |
+
+## ligji-2-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin në fushën e sigurisë | [`ligji-2-2014/`](ligji-2-2014/) | in force | 1 | 2014-03-07 | 2014-03-07 |
+
+## ligji-2-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për gazet serrë të fluoruara | [`ligji-2-2023/`](ligji-2-2023/) | in force | 1 | 2023-03-09 | 2023-03-09 |
+
+## ligji-2-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit Evropian për aktivitetet operacionale të kryera nga Agjencia Evropiane e Rojës Kufitare dhe Bregdetare në Republikën e Shqipërisë | [`ligji-2-2024/`](ligji-2-2024/) | in force | 1 | 2024-02-27 | 2024-02-27 |
+
+## ligji-2-2025 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në aktet dhe dokumentet e Kongresit të 27-të të Bashkimit të Përbotshëm Postar, Abidjan 2021, përfshirë ndryshimet e miratuara në kongresin e jashtëzakonshëm, Addis Ababa 2018, dhe në kongresin e jashtëzakonshëm, Gjenevë 2019, të Bashkimit të Përbotshëm Postar | [`ligji-2-2025/`](ligji-2-2025/) | amending act | 1 | 2025-03-05 | 2025-03-05 |
+
+## ligji-20-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin e privilegjeve dhe imuniteteve të autoritetit ndërkombëtar të shtratit të detit | [`ligji-20-2014/`](ligji-20-2014/) | in force | 1 | 2014-03-10 | 2014-03-10 |
+
+## ligji-20-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit financiar ushtarak ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Turqisë dhe protokollit të zbatimit për asistencën financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Turqisë | [`ligji-20-2015/`](ligji-20-2015/) | in force | 1 | 2015-04-16 | 2015-04-16 |
+
+## ligji-20-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E MARRËVESHJES SË HUAS NDËRMJET REPUBLIKËS SË SHQIPËRISË, PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, “HUAMARRËSI”, DHE KfW FRANKFURT AM MAIN, “KfW”, PËR PROGRAMIN E MENAXHIMIT TË MBETJEVE TË NGURTA, RAJONI VLORË | [`ligji-20-2017/`](ligji-20-2017/) | in force | 1 | 2017-03-25 | 2017-03-25 |
+
+## ligji-20-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kosovës për vërtetimin e periudhave të sigurimit për realizimin e së drejtës për pension | [`ligji-20-2018/`](ligji-20-2018/) | in force | 1 | 2018-05-17 | 2018-05-17 |
+
+## ligji-20-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përfundimin e proceseve kalimtare të pronësisë në Republikën e Shqipërisë | [`ligji-20-2020/`](ligji-20-2020/) | in force | 1 | 2020-05-07 | 2020-05-07 |
+
+## ligji-20-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën për Organizatën Hidrografike Ndërkombëtare | [`ligji-20-2022/`](ligji-20-2022/) | in force | 1 | 2022-04-07 | 2022-04-07 |
+
+## ligji-20-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për bletarinë | [`ligji-20-2023/`](ligji-20-2023/) | in force | 1 | 2023-03-16 | 2023-03-16 |
+
+## ligji-20-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Italiane për forcimin e bashkëpunimit në fushën e migracionit | [`ligji-20-2024/`](ligji-20-2024/) | in force | 1 | 2024-03-22 | 2024-03-22 |
+
+## ligji-20-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese nr. 1 të rishikuar, me shkëmbim letrash, të marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Malit të Zi dhe Komisionit Evropian për programin IPA të bashkëpunimit ndërkufitar Mali i Zi - Shqipëri 2021-2027, ratifikuar me ligjin nr. 9/2024 | [`ligji-20-2026/`](ligji-20-2026/) | in force | 1 | 2026-03-06 | 2026-03-06 |
+
+## ligji-21-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së grantit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Agjencisë Austriake të zhvillimit për asistencën teknike për sistemin e Ujësjellës-Kanalizimeve | [`ligji-21-2015/`](ligji-21-2015/) | in force | 1 | 2015-04-24 | 2015-04-24 |
+
+## ligji-21-2017 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit të marrëveshjes së huas dhe projektit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, e Operatorit të Sistemit të Transmetimit sh.a., si agjencia e zbatimit të projektit, dhe KfW Frankfurt am Main për financimin e projektit “Linja unazore 110 kilovolt e Shqipërisë së Jugut”, nëpërmjet një huaje prej 500 000 eurosh, të ratifikuar me ligjin nr. 10 251, datë 11.3.2010 | [`ligji-21-2017/`](ligji-21-2017/) | amending act | 1 | 2017-03-31 | 2017-03-31 |
+
+## ligji-21-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet republikës së shqipërisë, republikës së italisë dhe komisionit europian për programin interreg v-b adriatiko-jonian (adrion) 2014-2020 | [`ligji-21-2018/`](ligji-21-2018/) | in force | 1 | 2018-05-18 | 2018-05-18 |
+
+## ligji-21-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, Republikës së Malit të Zi dhe Komisionit Evropian për programin e veprimit të bashkëpunimit ndërkufitar IPA II, Mali i Zi-Shqipëri, alokimet e vitit 2017 | [`ligji-21-2019/`](ligji-21-2019/) | in force | 1 | 2019-04-27 | 2019-04-27 |
+
+## ligji-21-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese nr. 1, të rishikuar, me shkëmbim letrash, të marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Republikës së Maqedonisë së Veriut, përfaqësuar nga Sekretariati për Çështjet Evropiane, dhe Komisionit Evropian për programin IPA të bashkëpunimit ndërkufitar Maqedonia e Veriut - Shqipëri 2021-2027, ratifikuar me ligjin nr. 71/2024 | [`ligji-21-2026/`](ligji-21-2026/) | in force | 1 | 2026-03-06 | 2026-03-06 |
+
+## ligji-22-2017 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit të marrëveshjes së huas dhe projektit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, e Operatorit të Sistemit të Transmetimit sh.a., si agjencia e zbatimit të projektit, dhe KfW Frankfurt am Main për financimin e projektit “Linja unazore 110 kilovolt e Shqipërisë së Jugut”, nëpërmjet një huaje prej 10 750 000 eurosh, të ratifikuar me ligjin nr. 10 250, datë 11.3.2010 | [`ligji-22-2017/`](ligji-22-2017/) | amending act | 1 | 2017-03-31 | 2017-03-31 |
+
+## ligji-22-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e shtesës së kontratës ’’Për prodhimin dhe shpërndarjen e kartave të identitetit dhe të pasaportave elektronike” ndërmjet Ministrisë së Brendshme të Republikës së Shqipërisë dhe Grupimit Morpho dhe Fondit Shqiptaro-Amerikan të Ndërmarrjeve | [`ligji-22-2021/`](ligji-22-2021/) | in force | 1 | 2021-03-26 | 2021-03-26 |
+
+## ligji-22-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit Europian për pjesëmarrjen e Republikës së Shqipërisë në programin Europa Krijuese (2021-2027) | [`ligji-22-2022/`](ligji-22-2022/) | in force | 1 | 2022-04-14 | 2022-04-14 |
+
+## ligji-22-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Maqedonisë së Veriut për krijimin e task-forcave të përbashkëta në fushën e sigurisë | [`ligji-22-2023/`](ligji-22-2023/) | in force | 1 | 2023-04-21 | 2023-04-21 |
+
+## ligji-23-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe republikës federale të gjermanisë për mbrojtjen shoqërore dhe të protokollit përfundimtar të saj | [`ligji-23-2016/`](ligji-23-2016/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+
+## ligji-23-2017 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit të marrëveshjes së huas dhe projektit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, e Operatorit të Sistemit të Transmetimit sh.a., si agjencia e zbatimit të projektit, dhe KfW Frankfurt am Main për financimin e projektit “Linja unazore 110 kilovolt e Shqipërisë së Jugut”, nëpërmjet një huaje prej 37 750 000 eurosh, të ratifikuar me ligjin nr. 10 249, datë 11.3.2010 | [`ligji-23-2017/`](ligji-23-2017/) | amending act | 1 | 2017-03-31 | 2017-03-31 |
+
+## ligji-23-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Turqisë, mbi dhurimin në fushën e shëndetësisë | [`ligji-23-2021/`](ligji-23-2021/) | in force | 1 | 2021-03-26 | 2021-03-26 |
+
+## ligji-23-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Republikës së Kosovës për sigurime shoqërore | [`ligji-23-2022/`](ligji-23-2022/) | in force | 1 | 2022-04-14 | 2022-04-14 |
+
+## ligji-23-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Maqedonisë së Veriut për delegimin e shërbimeve të trafikut ajror në një pjesë të hapësirës ajrore mbi liqenin e Ohrit | [`ligji-23-2023/`](ligji-23-2023/) | in force | 1 | 2023-04-21 | 2023-04-21 |
+
+## ligji-23-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës në fushën e arsimit të lartë dhe kërkimit shkencor | [`ligji-23-2024/`](ligji-23-2024/) | in force | 1 | 2024-04-26 | 2024-04-26 |
+
+## ligji-23-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Bankën Shqiptare të Zhvillimit | [`ligji-23-2025/`](ligji-23-2025/) | in force | 1 | 2025-04-25 | 2025-04-25 |
+
+## ligji-23-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për parandalimin e konfliktit të interesit në ushtrimin e funksioneve publike | [`ligji-23-2026/`](ligji-23-2026/) | in force | 1 | 2026-08-25 | 2026-08-25 |
+
+## ligji-24-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federative të brazilit për shërbimet ajrore | [`ligji-24-2016/`](ligji-24-2016/) | in force | 1 | 2016-04-19 | 2016-04-19 |
+
+## ligji-24-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për administrimin e ujitjes dhe të kullimit | [`ligji-24-2017/`](ligji-24-2017/) | in force | 1 | 2017-04-11 | 2017-04-11 |
+
+## ligji-24-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Kosovës për ngritjen e pikave të përbashkëta të kalimit kufitar ndërmjet Republikës së Shqipërisë dhe Republikës së Kosovës dhe kryerjen e veprimtarive të përbashkëta të kontrollit kufitar | [`ligji-24-2019/`](ligji-24-2019/) | in force | 1 | 2019-05-15 | 2019-05-15 |
+
+## ligji-24-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë (huamarrësi), dhe KfW Frankfurt am Main (KfW) për programin e infrastrukturës bashkiake V, në shumën 80 000 000 (tetëdhjetë milionë) euro | [`ligji-24-2021/`](ligji-24-2021/) | in force | 1 | 2021-03-26 | 2021-03-26 |
+
+## ligji-24-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës për rregullat e regjimit të trafikut lokal të kufirit | [`ligji-24-2022/`](ligji-24-2022/) | in force | 1 | 2022-04-14 | 2022-04-14 |
+
+## ligji-24-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për nxitjen e përdorimit të energjisë nga burimet e rinovueshme | [`ligji-24-2023/`](ligji-24-2023/) | in force | 1 | 2023-04-29 | 2023-04-29 |
+
+## ligji-24-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes për njohjen e kualifikimeve profesionale të infermierëve, veterinerëve, farmacistëve dhe mamive në kontekstin e marrëveshjes së tregtisë së lirë të Evropës Qendrore | [`ligji-24-2024/`](ligji-24-2024/) | in force | 1 | 2024-04-26 | 2024-04-26 |
+
+## ligji-24-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Shërbimin e jashtëm në Republikën e Shqipërisë | [`ligji-24-2026/`](ligji-24-2026/) | in force | 1 | 2026-04-09 | 2026-04-09 |
+
+## ligji-25-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes në lidhje me programin e shkëmbimit të studimeve universitare në evropën qendrore (ceepus iii) | [`ligji-25-2016/`](ligji-25-2016/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+
+## ligji-25-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për sigurinë kibernetike | [`ligji-25-2024/`](ligji-25-2024/) | in force | 1 | 2024-05-03 | 2024-05-03 |
+
+## ligji-25-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes sipas Konventës së Kombeve të Bashkuara për të drejtën e detit mbi ruajtjen dhe përdorimin e qendrueshëm të diversitetit biologjik detar të zonave përtej juridiksionit kombëtar | [`ligji-25-2025/`](ligji-25-2025/) | in force | 1 | 2025-07-02 | 2025-07-02 |
+
+## ligji-26-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit të Marrëveshjes së Stabilizim-Asociimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komuniteteve Europiane e shteteve të tyre anëtare, në kuadër të anëtarësimit të Republikës së Kroacisë në Bashkimin Europian | [`ligji-26-2015/`](ligji-26-2015/) | in force | 1 | 2015-04-24 | 2015-04-24 |
+
+## ligji-26-2016 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe këshillit federal zviceran, i cili amendon konventën e datës 12 nëntor 1999, ndërmjet republikës së shqipërisë dhe konfederatës zvicerane për shmangien e taksimit të dyfishtë, lidhur me tatimet mbi të ardhurat dhe mbi kapitalin | [`ligji-26-2016/`](ligji-26-2016/) | amending act | 1 | 2016-04-20 | 2016-04-20 |
+
+## ligji-26-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Shërbimin Përmbarimor Gjyqësor Privat | [`ligji-26-2019/`](ligji-26-2019/) | in force | 1 | 2019-07-25 | 2019-07-25 |
+
+## ligji-26-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës, për zbatimin e lehtësirave të ndërsjella në procedurat doganore dhe/ose të kontrollit të hyrje-daljes së mallrave | [`ligji-26-2022/`](ligji-26-2022/) | in force | 1 | 2022-04-27 | 2022-04-27 |
+
+## ligji-26-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Forcave Shumëkombëshe dhe Vëzhguesve për pjesëmarrjen e Forcave të Armatosura të Shqipërisë në Forcat Shumëkombëshe dhe Vëzhguesve në Sinai” | [`ligji-26-2023/`](ligji-26-2023/) | in force | 1 | 2023-04-29 | 2023-04-29 |
+
+## ligji-27-2014 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit shtesë 3 të marrëveshjes për amendimin dhe aderimin në marrëveshjen e tregtisë së lirë të europës qendrore | [`ligji-27-2014/`](ligji-27-2014/) | amending act | 1 | 2014-04-24 | 2014-04-24 |
+
+## ligji-27-2021 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e marrëveshjes ndërmjet Ministrisë së Financave dhe Ekonomisë, si autoritet kontraktues, dhe shoqërive “S2 Albania”, sh.p.k., dhe “Rapiscan Systems”, INC, “Për një ndryshim në marrëveshjen e koncesionit për financimin, ngritjen dhe operimin e shërbimit të skanimit të kontejnerëve e automjeteve të tjera në Republikën e Shqipërisë, miratuar me ligjin nr.123/2013”, të ndryshuar | [`ligji-27-2021/`](ligji-27-2021/) | amending act | 1 | 2021-04-10 | 2021-04-10 |
+
+## ligji-27-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës, për ndihmë të ndërsjellë juridike në çështjet civile dhe tregtare | [`ligji-27-2022/`](ligji-27-2022/) | in force | 1 | 2022-04-27 | 2022-04-27 |
+
+## ligji-27-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për kontrollin e tregtimit të produkteve që mund të përdoren për dënime me vdekje, torturë ose dënime apo trajtime mizore, çnjerëzore ose poshtëruese | [`ligji-27-2023/`](ligji-27-2023/) | in force | 1 | 2023-10-14 | 2023-10-14 |
+
+## ligji-27-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave (huamarrësi), dhe KfW Frankfurt am Main (KfW) për programin “Infrastruktura Bashkiake V - Faza II” | [`ligji-27-2026/`](ligji-27-2026/) | in force | 1 | 2026-04-30 | 2026-04-30 |
+
+## ligji-28-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së grantit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe Bankës Europiane për Rindërtim dhe Zhvillim, si administrator për fondet e granteve, për ndërtimin e kapaciteteve për koncesionet për investimet në energji dhe industri | [`ligji-28-2015/`](ligji-28-2015/) | in force | 1 | 2015-05-02 | 2015-05-02 |
+
+## ligji-28-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit financiar ushtarak ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së turqisë dhe protokollit të zbatimit për asistencën financiare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së turqisë | [`ligji-28-2016/`](ligji-28-2016/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+
+## ligji-28-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Agjencinë e Mbikëqyrjes në Sistemin e Ekzekutimit të Vendimeve Penale | [`ligji-28-2026/`](ligji-28-2026/) | in force | 1 | 2026-04-11 | 2026-04-11 |
+
+## ligji-29-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së malit të zi për zgjidhjen e borxhit të republikës së shqipërisë ndaj malit të zi | [`ligji-29-2012/`](ligji-29-2012/) | in force | 1 | 2012-04-28 | 2012-04-28 |
+
+## ligji-29-2014 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në ndryshimet e neneve 25 dhe 26 të konventës “për mbrojtjen dhe përdorimin e ujërave ndërkufitare dhe liqeneve ndërkombëtare” | [`ligji-29-2014/`](ligji-29-2014/) | amending act | 1 | 2014-04-30 | 2014-04-30 |
+
+## ligji-29-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Italisë për mbrojtjen e ndërsjellë të informacionit të klasifikuar | [`ligji-29-2015/`](ligji-29-2015/) | in force | 1 | 2015-05-02 | 2015-05-02 |
+
+## ligji-29-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar 2013, për projektin “rezervati ndërkufitar i biosferës në prespë” | [`ligji-29-2016/`](ligji-29-2016/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+
+## ligji-29-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës europiane për rindërtim dhe zhvillim për financimin e projektit “hekurudhat shqiptare - rehabilitimi i linjës hekurudhore tiranë - durrës dhe ndërtimi i linjës hekurudhore për në aeroportin ndërkombëtar të tiranës” | [`ligji-29-2017/`](ligji-29-2017/) | in force | 1 | 2017-04-27 | 2017-04-27 |
+
+## ligji-29-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E MARRËVESHJES NDRYSHUESE TË MARRËVESHJES SË HUAS DHE PROJEKTIT NDËRMJET REPUBLIKËS SË SHQIPËRISË, TË PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, E OPERATORIT TË SISTEMIT TË TRANSMETIMIT SHA, SI AGJENCIA E ZBATIMIT TË PROJEKTIT, DHE KfW FRANKFURT AM MAIN PËR FINANCIMIN E PROJEKTIT “LINJA E TRANSMETIMIT 400 KILOVOLTË SHQIPËRI-KOSOVË (TIRANË-PRISHTINË)”, NËPËRMJET NJË HUAJE PREJ 42 000 000 EUROSH | [`ligji-29-2018/`](ligji-29-2018/) | in force | 1 | 2018-07-03 | 2018-07-03 |
+
+## ligji-29-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për trajtimin financiar, suplementar të punonjësve që kanë punuar në miniera në nëntokë, të punonjësve të industrisë së naftës e të gazit dhe të punonjësve që kanë punuar në metalurgji | [`ligji-29-2019/`](ligji-29-2019/) | in force | 1 | 2019-07-05 | 2019-07-05 |
+
+## ligji-29-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për zhvillimin dhe pjesëmarrjen e forcave të vendeve anëtare të Organizatës së Traktatit të Atlantikut të Veriut dhe të vendeve partnere të kësaj organizate në stërvitjen e përbashkët “Defender Europe 21” | [`ligji-29-2021/`](ligji-29-2021/) | in force | 1 | 2021-04-01 | 2021-04-01 |
+
+## ligji-29-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në marrëveshjen e pjesshme të zgjeruar për rrugët kulturore, miratuar me rezolutën CM/RES (2013) 66 | [`ligji-29-2022/`](ligji-29-2022/) | in force | 1 | 2022-05-04 | 2022-05-04 |
+
+## ligji-29-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes për bashkëpunimin mbi sigurinë dhe mbështetjen afatgjatë ndërmjet Republikës së Shqipërisë dhe Ukrainës | [`ligji-29-2025/`](ligji-29-2025/) | in force | 1 | 2025-07-10 | 2025-07-10 |
+
+## ligji-3-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës për ndihmë të ndërsjellë juridike në çështjet penale | [`ligji-3-2013/`](ligji-3-2013/) | in force | 1 | 2013-03-05 | 2013-03-05 |
+
+## ligji-3-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e tamperes “për sigurimin e burimeve të telekomunikacionit për zvogëlimin e fatkeqësive dhe operacionet e ndihmës” | [`ligji-3-2014/`](ligji-3-2014/) | in force | 1 | 2014-03-07 | 2014-03-07 |
+
+## ligji-3-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për projektin “ofrimi i shërbimeve publike me në qendër qytetarin” | [`ligji-3-2016/`](ligji-3-2016/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+
+## ligji-3-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunim financiar 2010, për projektin “linja e transmisionit 400 kv shqipëri-maqedoni” | [`ligji-3-2017/`](ligji-3-2017/) | in force | 1 | 2017-02-28 | 2017-02-28 |
+
+## ligji-3-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e letërmarrëveshjes ndryshuese të marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD) për financimin shtesë të projektit “Siguria e digave”, të ratifikuar me ligjin nr. 40/2012 | [`ligji-3-2019/`](ligji-3-2019/) | in force | 1 | 2019-03-01 | 2019-03-01 |
+
+## ligji-3-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë dhe Komisionit të Bashkimit Europian në lidhje me programin vjetor kombëtar për Shqipërinë për vitin 2020 në kuadër të instrumentit të asistencës së paraanëtarësimit (IPA II)” | [`ligji-3-2022/`](ligji-3-2022/) | in force | 1 | 2022-03-03 | 2022-03-03 |
+
+## ligji-3-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën Ndërkombëtare të Hong-Kongut për Riciklimin e Sigurt dhe Mjedisor të Anijeve, 2009 | [`ligji-3-2023/`](ligji-3-2023/) | in force | 1 | 2023-03-09 | 2023-03-09 |
+
+## ligji-3-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Italisë për bashkëpunimin strategjik në kujdesin shëndetësor, energjinë, mjedisin, industrinë e sigurisë dhe mbrojtjes, menaxhimin e migracionit, arsimin, inovacionin, diasporën, transformimin ekonomik dhe rritjen inteligjente | [`ligji-3-2026/`](ligji-3-2026/) | in force | 1 | 2026-02-21 | 2026-02-21 |
+
+## ligji-30-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kosovës në fushën e përfaqësimit konsullor | [`ligji-30-2012/`](ligji-30-2012/) | in force | 1 | 2012-04-28 | 2012-04-28 |
+
+## ligji-30-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit ushtarak financiar ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së turqisë dhe të protokollit të zbatimit të ndihmës financiare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së turqisë | [`ligji-30-2014/`](ligji-30-2014/) | in force | 1 | 2014-04-30 | 2014-04-30 |
+
+## ligji-30-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes sektoriale ndërmjet republikës së shqipërisë, përfaqësuar nga këshilli i ministrave i republikës së shqipërisë, dhe komisionit europian, që përcakton dispozitat e menaxhimit dhe zbatimit të asistencës financiare të be-së për republikën e shqipërisë, në kuadër të instrumentit për asistencën e paraanëtarësimit, në fushën “bujqësia dhe zhvillimi rural” (ipard) | [`ligji-30-2016/`](ligji-30-2016/) | in force | 1 | 2016-04-19 | 2016-04-19 |
+
+## ligji-30-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunim financiar 2011, 2013, 2014, për projektin “program për menaxhimin e mbetjeve” | [`ligji-30-2017/`](ligji-30-2017/) | in force | 1 | 2017-04-27 | 2017-04-27 |
+
+## ligji-30-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pranimin e skedulit cxlvi të zgjerimit të listës së marrëveshjes së teknologjisë së informacionit, në kuadër të organizatës botërore të tregtisë | [`ligji-30-2018/`](ligji-30-2018/) | in force | 1 | 2018-07-03 | 2018-07-03 |
+
+## ligji-30-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën për Themelimin e Zyrës Evropiane të Komunikacioneve (ECO), Hagë, më 23 qershor 1993, të ndryshuar në Kopenhagë më 9 prill 2002 | [`ligji-30-2025/`](ligji-30-2025/) | in force | 1 | 2025-07-09 | 2025-07-09 |
+
+## ligji-30-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën e Metrit, nënshkruar në Paris më 20 maj 1875, të ndryshuar me konventën e nënshkruar në Sèvres më 6 tetor 1921, dhe rregulloren përkatëse | [`ligji-30-2026/`](ligji-30-2026/) | in force | 1 | 2026-04-30 | 2026-04-30 |
+
+## ligji-31-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen e financimit ndërmjet qeverisë së malit të zi dhe komisionit evropian për programin e veprimit të bashkëpunimit ndërkufitar mali i zi - shqipëri, 2014-2020, alokimi i vitit 2014, në kuadër të instrumentit të asistencës së paraaderimit ipa ii | [`ligji-31-2016/`](ligji-31-2016/) | in force | 1 | 2016-04-15 | 2016-04-15 |
+
+## ligji-31-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunim financiar 2016, për projektin “program për menaxhimin e mbetjeve ii” | [`ligji-31-2017/`](ligji-31-2017/) | in force | 1 | 2017-04-27 | 2017-04-27 |
+
+## ligji-31-2018 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për shtesën e financimit për projektin e burimeve ujore dhe ujitjes dhe të marrëveshjes për ndryshimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për financimin e projektit të burimeve ujore dhe ujitjes | [`ligji-31-2018/`](ligji-31-2018/) | amending act | 1 | 2018-07-03 | 2018-07-03 |
+
+## ligji-31-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së partneritetit, tregtisë dhe bashkëpunimit ndërmjet Republikës së Shqipërisë, Mbretërisë së Bashkuar të Britanisë së Madhe dhe Irlandës së Veriut | [`ligji-31-2021/`](ligji-31-2021/) | in force | 1 | 2021-04-02 | 2021-04-02 |
+
+## ligji-31-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë (huamarrësi), përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW-së, Frankfurt Am Main (KfW), e Fondit Shqiptar të Zhvillimit (FSHZH), (agjencia e zbatimit të projektit) për projektin “Zhvillimi i Integruar Rajonal” | [`ligji-31-2023/`](ligji-31-2023/) | in force | 1 | 2023-06-28 | 2023-06-28 |
+
+## ligji-31-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë (huamarrësi), përfaqësuar nga Ministria e Financave, dhe Korporatës Elektroenergjetike Shqiptare (KESH) (agjencia e zbatimit të projektit) dhe KfW Frankfurt am Main (KfW) për rehabilitimin e hidrocentralit të Fierzës | [`ligji-31-2026/`](ligji-31-2026/) | in force | 1 | 2026-04-30 | 2026-04-30 |
+
+## ligji-32-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për garantimin e sigurisë së punës të pajisjeve dhe instalimeve nën presion | [`ligji-32-2016/`](ligji-32-2016/) | in force | 1 | 2016-04-26 | 2016-04-26 |
+
+## ligji-32-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për fondin shqiptar për zhvillimin e diasporës | [`ligji-32-2018/`](ligji-32-2018/) | in force | 1 | 2018-07-03 | 2018-07-03 |
+
+## ligji-32-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për sigurimin e detyrueshëm në sektorin e transportit | [`ligji-32-2021/`](ligji-32-2021/) | in force | 1 | 2021-03-16 | 2021-03-16 |
+
+## ligji-32-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Malit të Zi për ndërtimin e urës ndërkufitare mbi lumin Buna/Bojana | [`ligji-32-2023/`](ligji-32-2023/) | in force | 1 | 2023-06-28 | 2023-06-28 |
+
+## ligji-32-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Bashkimit Evropian dhe Republikës së Shqipërisë për pjesëmarrjen e Republikës së Shqipërisë në programin e Bashkimit ”Doganat” për bashkëpunim në fushën e doganave | [`ligji-32-2025/`](ligji-32-2025/) | in force | 1 | 2025-07-09 | 2025-07-09 |
+
+## ligji-32-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Traktatin e Singaporit mbi Ligjin e Markave Tregtare, bërë në Singapor, më 27 mars 2006 | [`ligji-32-2026/`](ligji-32-2026/) | in force | 1 | 2026-05-07 | 2026-05-07 |
+
+## ligji-33-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së grantit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe Bankës Europiane për Rindërtim dhe Zhvillim, si administrator i fondeve grant, të siguruara nga BERZH-i, nga burimet e veta, nën fondin e veçantë të aksionarëve, për Strategjinë e Taksimit Rrugor në Shqipëri | [`ligji-33-2015/`](ligji-33-2015/) | in force | 1 | 2015-05-20 | 2015-05-20 |
+
+## ligji-33-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe programit mjedisor të kombeve të bashkuara (unep) për fondin global mjedisor, për projektin me madhësi mesatare të ripërtëritjes së lagunës kune-vaini, nëpërmjet përshtatjes së bazuar në ekosistem | [`ligji-33-2016/`](ligji-33-2016/) | in force | 1 | 2016-05-04 | 2016-05-04 |
+
+## ligji-33-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pagesën dhe fshirjen/shuarjen e detyrimeve tatimore, detyrimeve të pagueshme në doganë, si dhe procedurën e heqjes nga qarkullimi të mjeteve të transportit pas fshirjes /shuarjes së detyrimeve tatimore | [`ligji-33-2017/`](ligji-33-2017/) | in force | 1 | 2017-05-06 | 2017-05-06 |
+
+## ligji-33-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen e lokarnos “për përcaktimin e një klasifikimi ndërkombëtar për disenjot industriale” | [`ligji-33-2018/`](ligji-33-2018/) | in force | 1 | 2018-07-17 | 2018-07-17 |
+
+## ligji-33-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për të dhënat e hapura dhe ripërdorimin e informacionit të sektorit publik | [`ligji-33-2022/`](ligji-33-2022/) | in force | 1 | 2022-03-31 | 2022-03-31 |
+
+## ligji-33-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dhënie amnistie | [`ligji-33-2024/`](ligji-33-2024/) | in force | 1 | 2024-04-24 | 2024-04-24 |
+
+## ligji-33-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së garancisë ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim (BERZH) për marrëveshjen e huas ndërmjet Operatorit të Shpërndarjes së Energjisë Elektrike Group, sh.a., (OSHEE) dhe Bankës Evropiane për Rindërtim dhe Zhvillim për projektin e qëndrueshmërisë së OSHEE-së | [`ligji-33-2025/`](ligji-33-2025/) | in force | 1 | 2025-07-12 | 2025-07-12 |
+
+## ligji-33-2026 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e vendimit nr. 1/2025 të Komitetit të Përbashkët, i krijuar nga marrëveshja e tregtisë së lirë, ndërmjet Republikës së Shqipërisë dhe Republikës së Turqisë, për ndryshimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Republikës së Turqisë, duke zëvendësuar protokollin II të saj, në lidhje me përcaktimin e konceptit të “produkteve origjinuese” dhe metodave të bashkëpunimit administrativ | [`ligji-33-2026/`](ligji-33-2026/) | amending act | 1 | 2026-05-05 | 2026-05-05 |
+
+## ligji-34-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së shtetit të katarit për shërbimet ajrore | [`ligji-34-2012/`](ligji-34-2012/) | in force | 1 | 2012-05-02 | 2012-05-02 |
+
+## ligji-34-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim (ibrd) për financimin e projektit të investimit në sektorin e ujit | [`ligji-34-2014/`](ligji-34-2014/) | in force | 1 | 2014-05-09 | 2014-05-09 |
+
+## ligji-34-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Rumanisë për mbrojtjen e ndërsjellë të informacionit të klasifikuar | [`ligji-34-2015/`](ligji-34-2015/) | in force | 1 | 2015-05-09 | 2015-05-09 |
+
+## ligji-34-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe republikës çeke për mbrojtjen shoqërore | [`ligji-34-2016/`](ligji-34-2016/) | in force | 1 | 2016-04-26 | 2016-04-26 |
+
+## ligji-34-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen e vjenës “për klasifikimin ndërkombëtar të elementeve figurative të markave tregtare” | [`ligji-34-2018/`](ligji-34-2018/) | in force | 1 | 2018-07-17 | 2018-07-17 |
+
+## ligji-34-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përcaktimin e procedurës së veçantë për negocimin dhe zbatimin e kontratës me shoqërinë “Jones Group International” për forcimin e sigurisë kibernetike | [`ligji-34-2022/`](ligji-34-2022/) | in force | 1 | 2022-05-14 | 2022-05-14 |
+
+## ligji-34-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në protokollin e marrëveshjes mbi transportin ndërkombëtar të rastit të udhëtarëve me autobus (marrëvshja interbus) në lidhje me transportin ndërkombëtar të rregullt dhe të rregullt të specializuar të udhëtarëve me autobus | [`ligji-34-2024/`](ligji-34-2024/) | in force | 1 | 2024-05-11 | 2024-05-11 |
+
+## ligji-34-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë dhe Komisionit Evropian, për programin operacional shumëvjeçar për punësimin e të rinjve, në favor të Republikës së Shqipërisë, për periudhën 2024-2027, në kuadër të Instrumentit të Asistencës së Paraanëtarësimit (IPA III) | [`ligji-34-2025/`](ligji-34-2025/) | in force | 1 | 2025-07-11 | 2025-07-11 |
+
+## ligji-34-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Traktatin e Najrobit për mbrojtjen e simbolit olimpik, bërë në Najrobi, më 26 shtator 1981 | [`ligji-34-2026/`](ligji-34-2026/) | in force | 1 | 2026-05-05 | 2026-05-05 |
+
+## ligji-35-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare për sistemin e harmonizuar të kodifikimit dhe përshkrimit të mallrave | [`ligji-35-2012/`](ligji-35-2012/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+
+## ligji-35-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe mbretërisë së belgjikës për mbrojtjen shoqërore | [`ligji-35-2014/`](ligji-35-2014/) | in force | 1 | 2014-05-09 | 2014-05-09 |
+
+## ligji-35-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit dhe projektit ndërmjet Republikës së Shqipërisë, “Marrësi”, të përfaqësuar nga Ministria e Financave, dhe Fondit Shqiptar për Zhvillim, “Agjencia zbatuese e projektit”, dhe KFW Frankfurt am Main, “KFW”, për fondet IPA të Bashkimit Evropian për furnizimin me ujë të zonave rurale III | [`ligji-35-2015/`](ligji-35-2015/) | in force | 1 | 2015-05-15 | 2015-05-15 |
+
+## ligji-35-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pagesën e detyrimeve të prapambetura në favor të bankës europiane për rindërtim dhe zhvillim (berzh) | [`ligji-35-2018/`](ligji-35-2018/) | in force | 1 | 2018-07-17 | 2018-07-17 |
+
+## ligji-35-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me shkëmbim notash ndërmjet Republikës së Shqipërisë dhe Organizatës për Bashkëpunim dhe Zhvillim Ekonomik (OECD) për bërjen palë në kuadrin gjithëpërfshirës të projektit ndërkombëtar mbi erozionin e bazës së tatueshme dhe transferimin e fitimit (BEPS) | [`ligji-35-2019/`](ligji-35-2019/) | in force | 1 | 2019-07-25 | 2019-07-25 |
+
+## ligji-35-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërkombëtare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bashkimit Evropian për pjesëmarjen e Shqipërisë në programin e Bashkimit Evropian ”Programi i tregut të përbashkët për periudhën 2021-2027” | [`ligji-35-2024/`](ligji-35-2024/) | in force | 1 | 2024-05-11 | 2024-05-11 |
+
+## ligji-35-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë dhe Komisionit Evropian, për programin operacional shumëvjeçar për ekonominë dhe shoqërinë digjitale, në favor të Republikës së Shqipërisë, për periudhën 2024-2027, në kuadër të Instrumentit të Asistencës së Paraanëtarësimit (IPA III) | [`ligji-35-2025/`](ligji-35-2025/) | in force | 1 | 2025-07-17 | 2025-07-17 |
+
+## ligji-36-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit dhe projektit ndërmjet Republikës së Shqipërisë, “Marrësi”, të përfaqësuar nga Ministria e Financave, e Fondit Shqiptar për Zhvillim, “Agjencia zbatuese e projektit”, dhe KfW Frankfurt am Main, “Kfw”, për masat shoqëruese për furnizimin me ujë të zonave rurale III | [`ligji-36-2015/`](ligji-36-2015/) | in force | 1 | 2015-05-15 | 2015-05-15 |
+
+## ligji-36-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për prokurimet në fushën e mbrojtjes dhe të sigurisë | [`ligji-36-2020/`](ligji-36-2020/) | in force | 1 | 2020-07-09 | 2020-07-09 |
+
+## ligji-36-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për organizimin dhe funksionimin e grupeve vendore të veprimit | [`ligji-36-2022/`](ligji-36-2022/) | in force | 1 | 2022-06-02 | 2022-06-02 |
+
+## ligji-36-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë dhe Komisionit Evropian, për programin operacional shumëvjeçar për energjinë, në favor të Republikës së Shqipërisë, për periudhën 2024-2027, në kuadër të Instrumentit të Asistencës së Paraanëtarësimit (IPA III) | [`ligji-36-2025/`](ligji-36-2025/) | in force | 1 | 2025-07-18 | 2025-07-18 |
+
+## ligji-37-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare “për thjeshtimin dhe harmonizimin e procedurave doganore”, bërë në kyoto më 18 maj 1973 (e ndryshuar) | [`ligji-37-2012/`](ligji-37-2012/) | in force | 1 | 2012-05-11 | 2012-05-11 |
+
+## ligji-37-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes kuadër ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, dhe Komisionit Evropian për rregullat e zbatimit të mbështetjes financiare të BE-së për Shqipërinë, në kuadër të instrumentit për Asistencën e Paraanëtarësimit (IPA II) | [`ligji-37-2015/`](ligji-37-2015/) | in force | 1 | 2015-05-15 | 2015-05-15 |
+
+## ligji-37-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Kodi i drejtësisë penale për të mitur | [`ligji-37-2017/`](ligji-37-2017/) | in force | 1 | 2017-03-30 | 2017-03-30 |
+
+## ligji-37-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, Republikës së Kosovës dhe Komisionit Europian, për programin e veprimit të bashkëpunimit ndërkufitar IPA II, Shqipëri-Kosovë, 2014-2020, alokimet për vitin 2018 | [`ligji-37-2020/`](ligji-37-2020/) | in force | 1 | 2020-05-12 | 2020-05-12 |
+
+## ligji-37-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për performancën energjitike të ndërtesave | [`ligji-37-2025/`](ligji-37-2025/) | in force | 1 | 2025-07-23 | 2025-07-23 |
+
+## ligji-38-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shoqëritë e bashkëpunimit bujqësor | [`ligji-38-2012/`](ligji-38-2012/) | in force | 1 | 2012-05-11 | 2012-05-11 |
+
+## ligji-38-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e korrigjimit të marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për huan e politikës së zhvillimit të sektorit financiar | [`ligji-38-2018/`](ligji-38-2018/) | in force | 1 | 2018-08-14 | 2018-08-14 |
+
+## ligji-38-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, Republikës së Malit të Zi dhe Komisionit Europian për programin e veprimit të bashkëpunimit ndërkufitar IPA II, Mal i Zi - Shqipëri, alokimet e vitit 2018 | [`ligji-38-2020/`](ligji-38-2020/) | in force | 1 | 2020-05-12 | 2020-05-12 |
+
+## ligji-38-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përcaktimin e procedurës së veçantë për negocimin dhe ekzekutimin e kontratës me shoqërinë ”Bechtel International, INC”, për projektimin dhe ndërtimin e hidrocentralit të Skavicës | [`ligji-38-2021/`](ligji-38-2021/) | in force | 1 | 2021-03-23 | 2021-03-23 |
+
+## ligji-38-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Europiane të Investimeve për Programin “UKT Shpërndarja e Ujit” | [`ligji-38-2022/`](ligji-38-2022/) | in force | 1 | 2022-06-22 | 2022-06-22 |
+
+## ligji-38-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përpunimin e informacionit të udhëtimit në Republikën e Shqipërisë | [`ligji-38-2025/`](ligji-38-2025/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+
+## ligji-38-2026 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit shtesë 7 për zgjidhjen e mosmarrëveshjeve të marrëveshjes për amendimin dhe aderimin në Marrëveshjen e Tregtisë së Lirë të Evropës Qendrore, ratifikuar me ligjin nr. 9696, datë 21.3.2007 | [`ligji-38-2026/`](ligji-38-2026/) | amending act | 1 | 2026-05-26 | 2026-05-26 |
+
+## ligji-39-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe fondit të opec-ut për zhvillim ndërkombëtar për financimin e projektit të rrugës tiranë-elbasan | [`ligji-39-2012/`](ligji-39-2012/) | in force | 1 | 2012-05-12 | 2012-05-12 |
+
+## ligji-39-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e dënimeve administrative në formën e gjobave, të vëna në bazë të kontrolleve dhe verifikimeve tatimore, të kryera për periudhën 1 mars deri më 31 gusht 2013 | [`ligji-39-2014/`](ligji-39-2014/) | in force | 1 | 2014-05-29 | 2014-05-29 |
+
+## ligji-39-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për heqjen nga fondi pyjor dhe kullosor kombëtar të sipërfaqes dhe zvogëlimin në vëllim të fondit pyjor kombëtar në ngastrat e ekonomive pyjore “Gojan-Shkozë”, “Gjegjan-Shkozë”, “Lumi i Zi”, “Lugina e Fanit të Madh”, “Qafëmollë”, “Fang”, “Spaç” e “Shkallgjanë”, të cilat preken nga ndërtimi i hidrocentraleve në Gojan, Gjegjan, Peshqesh, Ura e Fanit dhe Fang, që do të ndërtohen nga shoqëria “Ayen As Energy”, sh. a | [`ligji-39-2015/`](ligji-39-2015/) | in force | 1 | 2015-05-19 | 2015-05-19 |
+
+## ligji-39-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Mbretërisë së Arabisë Saudite, për shërbimet ajrore | [`ligji-39-2019/`](ligji-39-2019/) | in force | 1 | 2019-08-01 | 2019-08-01 |
+
+## ligji-39-2021 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ”Për ndryshimin dhe rivendosjen e marrëveshjes nr. 1 në lidhje me marrëveshjen e bashkëpunimit të datës 11 janar 2016 ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Bujqësisë dhe Zhvillimit Rural, Ministria e Financave dhe Ekonomisë, Ministria e Turizmit dhe Mjedisit, dhe Bankës Europiane për Rindërtim dhe Zhvillim për lehtësimin e mbështetjes së agrobiznesit dhe sektorit të turizmit, BERZH- Shqipëri, llogari bashkëpunimi” | [`ligji-39-2021/`](ligji-39-2021/) | amending act | 1 | 2021-05-05 | 2021-05-05 |
+
+## ligji-39-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për kontrollin e kufirit shtetëror | [`ligji-39-2025/`](ligji-39-2025/) | in force | 1 | 2025-07-24 | 2025-07-24 |
+
+## ligji-39-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe CASA DEPOSITI E PRESTITI S.P.A., ”Përmirësimi i rrjetit të transmetimit të energjisë elektrike në veri të Shqipërisë pas tërmetit të vitit 2019” | [`ligji-39-2026/`](ligji-39-2026/) | in force | 1 | 2026-05-26 | 2026-05-26 |
+
+## ligji-4-2012 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në ndryshimet e konventës për krijimin e këshillit të bashkëpunimit doganor, bërë në bruksel më 15 dhjetor 1950 | [`ligji-4-2012/`](ligji-4-2012/) | amending act | 1 | 2012-03-07 | 2012-03-07 |
+
+## ligji-4-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për heqjen nga fondi pyjor kombëtar të sipërfaqes në ngastrat e ekonomive pyjore, që pritet të përmbyten nga liqeni i HEC-eve të Banjës, Koklit dhe Moglicës, të cilët do të ndërtohen në kaskadën e lumit Devoll | [`ligji-4-2013/`](ligji-4-2013/) | in force | 1 | 2013-03-05 | 2013-03-05 |
+
+## ligji-4-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës c187 të organizatës ndërkombëtare të punës (ilo) “për kuadrin promocional të sigurisë dhe të shëndetit në punë”, 2006 | [`ligji-4-2014/`](ligji-4-2014/) | in force | 1 | 2014-03-15 | 2014-03-15 |
+
+## ligji-4-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së programit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Konfederatës Zvicerane për grantin e asistencës financiare për “Programin e infrastrukturës bashkiake III/IV” (Berat, Kuçovë, Gjirokastër, Kamzë, Lushnjë, Delvinë, Librazhd), kontributi zviceran | [`ligji-4-2015/`](ligji-4-2015/) | in force | 1 | 2015-03-12 | 2015-03-12 |
+
+## ligji-4-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit ndërmjet këshillit të ministrave të republikës së shqipërisë, të përfaqësuar nga ministria e bujqësisë, zhvillimit rural dhe administrimit të ujërave e ministria e financave, dhe bankës europiane për rindërtim dhe zhvillim, në lidhje me lehtësimin e mbështetjes së agrobiznesit, berzh - shqipëri, llogari bashkëpunimi | [`ligji-4-2016/`](ligji-4-2016/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+
+## ligji-4-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar 2016, për projektin “linja e transmetimit 400 kv shqipëri-maqedoni (zgjerim)” | [`ligji-4-2017/`](ligji-4-2017/) | in force | 1 | 2017-02-28 | 2017-02-28 |
+
+## ligji-4-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përcaktimin e procedurës së veçantë për negocimin dhe lidhjen e kontratës ndërmjet shtetit shqiptar dhe shoqërive “cengiz construction & kalyon & kolin construction”, me objekt projektimin, ndërtimin, operimin, mirëmbajtjen dhe menaxhimin e aeroportit të vlorës | [`ligji-4-2018/`](ligji-4-2018/) | in force | 1 | 2018-03-15 | 2018-03-15 |
+
+## ligji-4-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë (huamarrësi), përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt am Main (KfW) për rehabilitimin me efiçencë energjetike të konvikteve studentore të universiteteve publike në Shqipëri | [`ligji-4-2022/`](ligji-4-2022/) | in force | 1 | 2022-02-24 | 2022-02-24 |
+
+## ligji-4-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e rezolutave nr. 663 “ Rritja e përgjithshme e kapitalit GCI” dhe nr. 664 “Rritja selektive e kapitalit SCI” të vitit 2018 të Këshillit të Guvernatorëve të Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD) | [`ligji-4-2023/`](ligji-4-2023/) | in force | 1 | 2023-03-09 | 2023-03-09 |
+
+## ligji-4-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Traktatin për Pronësinë Intelektuale, Burimet Gjenetike dhe Njohuritë Tradicionale të lidhura me to, bërë në Gjenevë më 24 maj 2024 | [`ligji-4-2026/`](ligji-4-2026/) | in force | 1 | 2026-02-21 | 2026-02-21 |
+
+## ligji-40-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për urdhrin e psikologut në republikën e shqipërisë | [`ligji-40-2016/`](ligji-40-2016/) | in force | 1 | 2016-05-24 | 2016-05-24 |
+
+## ligji-40-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Mbretërisë së Arabisë Saudite për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal në lidhje me tatimin mbi të ardhurat dhe kapitalin | [`ligji-40-2019/`](ligji-40-2019/) | in force | 1 | 2019-08-01 | 2019-08-01 |
+
+## ligji-40-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese me shkëmbim letrash të marrëveshjes së angazhimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Shëndetësisë dhe Mbrojtjes Sociale, dhe Aleancës GAVI për pjesëmarrjen në strukturën globale të qasjes në vaksinat COVID-19 (Covax Facility), miratuar me ligjin nr. 134/2020 | [`ligji-40-2021/`](ligji-40-2021/) | in force | 1 | 2021-05-05 | 2021-05-05 |
+
+## ligji-40-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ofruesin e shërbimeve të lundrimit ajror ”Albcontrol” | [`ligji-40-2024/`](ligji-40-2024/) | in force | 1 | 2024-06-18 | 2024-06-18 |
+
+## ligji-40-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shëndetin e bimëve | [`ligji-40-2025/`](ligji-40-2025/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+
+## ligji-40-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Federale të Gjermanisë mbi bashkëpunimin teknik 2024, për projektin “Green Vjosa (Vjosa e gjelbër) - zhvillim rajonal i gjelbër dhe gjithëpërfshirës në zonën e ujëmbledhësit të Parkut Kombëtar të Vjosës” | [`ligji-40-2026/`](ligji-40-2026/) | in force | 1 | 2026-05-21 | 2026-05-21 |
+
+## ligji-41-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për afatet dhe procedurat e mbylljes së procesit të kontrollit financiar të personave juridikë jobankarë që kanë marrë hua nga publiku i gjerë | [`ligji-41-2012/`](ligji-41-2012/) | in force | 1 | 2012-05-12 | 2012-05-12 |
+
+## ligji-41-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përcaktimin e procedurës së veçantë për negocimin dhe lidhjen e kontratës koncesionare/PPP, me objekt ndërtimin, operimin, mirëmbajtjen dhe menaxhimin e Rrugës së Arbrit, ndërmjet shtetit shqiptar dhe shoqërisë “China State Construction Company” | [`ligji-41-2015/`](ligji-41-2015/) | in force | 1 | 2015-06-03 | 2015-06-03 |
+
+## ligji-41-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen për ngritjen e qendrës së ekselencës në financë (cef), bërë në bled më 3.9.2013 | [`ligji-41-2016/`](ligji-41-2016/) | in force | 1 | 2016-05-24 | 2016-05-24 |
+
+## ligji-41-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë, Operatorit të Shpërndarjes së Energjisë Elektrike sh.a. dhe KfW-së, Frankfurt am Main, për Programin e Investimeve për Shpërndarjen e Energjisë Elektrike I | [`ligji-41-2019/`](ligji-41-2019/) | in force | 1 | 2019-08-01 | 2019-08-01 |
+
+## ligji-41-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë (huamarrësi), përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt Am Main (KfW), për programin për menaxhim të qëndrueshëm dhe miqësor me klimën në sektorin e mbetjeve të ngurta | [`ligji-41-2023/`](ligji-41-2023/) | in force | 1 | 2023-07-20 | 2023-07-20 |
+
+## ligji-41-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shëndetin e kafshëve | [`ligji-41-2025/`](ligji-41-2025/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+
+## ligji-41-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në marrëveshjen për zbatimin e dispozitave të Konventës së Kombeve të Bashkuara për të Drejtën e Detit, të 10 dhjetorit 1982, që lidhen me ruajtjen dhe menaxhimin e burimeve peshkore ndërkufitare dhe të burimeve shumëmigruese | [`ligji-41-2026/`](ligji-41-2026/) | in force | 1 | 2026-05-21 | 2026-05-21 |
+
+## ligji-42-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së shtetit të katarit për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal për tatimin mbi të ardhurat | [`ligji-42-2012/`](ligji-42-2012/) | in force | 1 | 2012-05-29 | 2012-05-29 |
+
+## ligji-42-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Dukatit të Madh të Luksemburgut për mbrojtjen shoqërore | [`ligji-42-2015/`](ligji-42-2015/) | in force | 1 | 2015-05-20 | 2015-05-20 |
+
+## ligji-42-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe rumanisë për mbrojtjen shoqërore | [`ligji-42-2016/`](ligji-42-2016/) | in force | 1 | 2016-05-24 | 2016-05-24 |
+
+## ligji-42-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të qëllimit ndërmjet qeverisë së republikës së shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës, për instalimin dhe përdorimin e sistemit për krahasimin dhe vlerësimin e sigurt të identifikimit personal (pisces | [`ligji-42-2018/`](ligji-42-2018/) | in force | 1 | 2018-08-14 | 2018-08-14 |
+
+## ligji-42-2023 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pranimin e protokollit për ndryshimin e marrëveshjes së Marrakeshit për themelimin e Organizatës Botërore të Tregtisë, marrëveshja për subvencionet e peshkimit | [`ligji-42-2023/`](ligji-42-2023/) | amending act | 1 | 2023-07-20 | 2023-07-20 |
+
+## ligji-42-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës për marrëveshjet për zgjedhjen e gjykatës | [`ligji-42-2024/`](ligji-42-2024/) | in force | 1 | 2024-06-07 | 2024-06-07 |
+
+## ligji-42-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për lirinë e vendosjes dhe ofrimit të shërbimeve në Republikën e Shqipërisë | [`ligji-42-2026/`](ligji-42-2026/) | in force | 1 | 2026-06-02 | 2026-06-02 |
+
+## ligji-43-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së emirateve të bashkuara arabe për shërbimet ajrore ndërmjet dhe përtej territoreve të tyre përkatëse | [`ligji-43-2012/`](ligji-43-2012/) | in force | 1 | 2012-05-29 | 2012-05-29 |
+
+## ligji-43-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit ndërmjet republikës së shqipërisë dhe mbretërisë së spanjës, për zbatimin e marrëveshjes ndërmjet republikës së shqipërisë dhe komunitetit evropian, për ripranimin e personave me qëndrim të paautorizuar | [`ligji-43-2018/`](ligji-43-2018/) | in force | 1 | 2018-08-14 | 2018-08-14 |
+
+## ligji-43-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë s Republikës Federale të Gjermanisë për bashkëpunim financiar 2018, për projektin: “Programi sektorial i ujërave/furnizimi me ujë i zonave rurale IV” | [`ligji-43-2019/`](ligji-43-2019/) | in force | 1 | 2019-08-07 | 2019-08-07 |
+
+## ligji-43-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për zhvillimin e ndërmarrjeve mikro, të vogla dhe të mesme | [`ligji-43-2022/`](ligji-43-2022/) | in force | 1 | 2022-06-04 | 2022-06-04 |
+
+## ligji-43-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit për ligjin e zbatueshëm për detyrimet ushqimore | [`ligji-43-2024/`](ligji-43-2024/) | in force | 1 | 2024-06-07 | 2024-06-07 |
+
+## ligji-43-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin e Agjencisë Kombëtare të Shërbimeve Arsimore | [`ligji-43-2026/`](ligji-43-2026/) | in force | 1 | 2026-06-02 | 2026-06-02 |
+
+## ligji-44-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me vendin pritës ndërmjet republikës së shqipërisë dhe fondit të ballkanit perëndimor | [`ligji-44-2018/`](ligji-44-2018/) | in force | 1 | 2018-08-14 | 2018-08-14 |
+
+## ligji-44-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Europiane për rindërtim dhe zhvillim për financimin e konektivitetit të rrugëve rajonale dhe lokale në Shqipëri | [`ligji-44-2020/`](ligji-44-2020/) | in force | 1 | 2020-05-22 | 2020-05-22 |
+
+## ligji-44-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë (huamarrësi), përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe Korporatës Elektroenergjetike Shqiptare (KESH) (agjencia e zbatimit të projektit) dhe KfW Frankfurt am Main (KfW) për rehabilitimin e hidrocentralit të Fierzës | [`ligji-44-2022/`](ligji-44-2022/) | in force | 1 | 2022-05-27 | 2022-05-27 |
+
+## ligji-44-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë (huamarrësi), përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt am Main (KfW) për financimin e projektit ”Transporti i gjelbër i Tiranës” | [`ligji-44-2024/`](ligji-44-2024/) | in force | 1 | 2024-06-18 | 2024-06-18 |
+
+## ligji-44-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Zyrën e Rikuperimit të Aseteve | [`ligji-44-2025/`](ligji-44-2025/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+
+## ligji-45-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së malit të zi për përcaktimin e pikës së përbashkët të kalimit kufitar “zatrijebacka cijevna-grabon”, për trafikun ndërkombëtar të pasagjerëve dhe për pikën e kalimit kufitar “çerem vranic” | [`ligji-45-2012/`](ligji-45-2012/) | in force | 1 | 2012-05-31 | 2012-05-31 |
+
+## ligji-45-2018 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së ndryshimit ndërmjet republikës së shqipërisë, duke vepruar nëpërmjet këshillit të ministrave, dhe trans adriatic pipeline ag, lidhur me marrëveshjen me qeverinë e vendit pritës | [`ligji-45-2018/`](ligji-45-2018/) | amending act | 1 | 2018-08-14 | 2018-08-14 |
+
+## ligji-45-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për mbrojtjen civile | [`ligji-45-2019/`](ligji-45-2019/) | in force | 1 | 2019-08-16 | 2019-08-16 |
+
+## ligji-45-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit financiar ushtarak ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Turqisë dhe të protokollit zbatues në lidhje me asistencën financiare ndërmjet Këshillit të ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Turqisë | [`ligji-45-2020/`](ligji-45-2020/) | in force | 1 | 2020-05-28 | 2020-05-28 |
+
+## ligji-45-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës së Këshillit të Evropës “Për aksesin në dokumente zyrtare” | [`ligji-45-2022/`](ligji-45-2022/) | in force | 1 | 2022-05-27 | 2022-05-27 |
+
+## ligji-45-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për “Përmirësimin e aksesit të barabartë në shërbimet publike të standardit të lartë nëpërmjet operacionit GOVTECH | [`ligji-45-2023/`](ligji-45-2023/) | in force | 1 | 2023-07-19 | 2023-07-19 |
+
+## ligji-45-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit Evropian për pjesëmarrjen e Republikës së Shqipërisë në programin “Qytetarët, barazia, të drejtat dhe vlerat” | [`ligji-45-2024/`](ligji-45-2024/) | in force | 1 | 2024-06-09 | 2024-06-09 |
+
+## ligji-45-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, për financimin shtesë për “Veprimin e ofrimit të shërbimeve të përqendruara dhe gjithëpërfshirëse të përdoruesit” | [`ligji-45-2025/`](ligji-45-2025/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+
+## ligji-45-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës Shumëpalëshe për Lehtësimin e Zbatimit të Shtyllës së Dytë, subjekt i rregullit tatimor | [`ligji-45-2026/`](ligji-45-2026/) | in force | 1 | 2026-06-05 | 2026-06-05 |
+
+## ligji-46-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas a ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave, dhe kfw frankfurt am main për financimin e programit “infrastruktura bashkiake ii, furnizimi me ujë dhe kanalizimet për qytetet berat, fier, kamzë, kuçovë, lushnjë dhe sarandë” | [`ligji-46-2012/`](ligji-46-2012/) | in force | 1 | 2012-05-15 | 2012-05-15 |
+
+## ligji-46-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe fondit saudit për zhvillim për financimin e projektit të ndërtimit të rrugës tiranë - elbasan - qukës - qafë e plloçës | [`ligji-46-2014/`](ligji-46-2014/) | in force | 1 | 2014-06-04 | 2014-06-04 |
+
+## ligji-46-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e detyrimeve që kanë ish-ushtarakët në skemën e pensioneve suplementare, nga rillogaritja e pensioneve, në zbatim të ligjit nr. 10142, datë 15.5.2009, “për sigurimin shoqëror suplementar të ushtarakëve të forcave të armatosura, të punonjësve të policisë së shtetit, të gardës së republikës, të shërbimit informativ të shtetit, të policisë së burgjeve, të policisë së mbrojtjes nga zjarri dhe të shpëtimit e të punonjësve të shërbimit të kontrollit të brendshëm në republikën e shqipërisë”, të ndryshuar | [`ligji-46-2016/`](ligji-46-2016/) | in force | 1 | 2016-06-03 | 2016-06-03 |
+
+## ligji-46-2020 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit shtesë 6 mbi tregtinë e shërbimeve të marrëveshjes për amendimin dhe aderimin në marrëveshjen e tregtisë së lirë të Europës Qendore | [`ligji-46-2020/`](ligji-46-2020/) | amending act | 1 | 2020-05-22 | 2020-05-22 |
+
+## ligji-46-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në aktet dhe dokumentet e Kongresit të 26-të të Bashkimit të Përbotshëm Postar, Stamboll 2016 | [`ligji-46-2022/`](ligji-46-2022/) | in force | 1 | 2022-06-02 | 2022-06-02 |
+
+## ligji-46-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Malit të Zi për hapjen e pikës së përbashkët të kalimit kufitar Shën Nikolla-Pulaj, për qarkullimin rrugor ndërkombëtar dhe kryerjen e veprimtarive të përbashkëta të kontrollit kufitar | [`ligji-46-2023/`](ligji-46-2023/) | in force | 1 | 2023-07-22 | 2023-07-22 |
+
+## ligji-46-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës Lubjanë ̶ Hagë për Bashkëpunimin Ndërkombëtar për Hetimin dhe Ndjekjen Penale të Krimit të Gjenocidit, Krimeve kundër Njerëzimit, Krimeve të Luftës dhe Krimeve të tjera Ndërkombëtare | [`ligji-46-2024/`](ligji-46-2024/) | in force | 1 | 2024-06-09 | 2024-06-09 |
+
+## ligji-46-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për prodhimin, transportimin, tregtimin dhe përdorimin e biokarburanteve dhe të lëndëve të tjera djegëse, të rinovueshme për transport | [`ligji-46-2025/`](ligji-46-2025/) | in force | 1 | 2025-07-23 | 2025-07-23 |
+
+## ligji-47-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas b ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave, dhe kfw frankfurt am main për financimin e programit “infrastruktura bashkiake ii, furnizimi me ujë dhe kanalizimet për qytetet berat, fier, kamzë, kuçovë, lushnjë dhe sarandë” | [`ligji-47-2012/`](ligji-47-2012/) | in force | 1 | 2012-05-15 | 2012-05-15 |
+
+## ligji-47-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes për hua shtesë ndërmjet Republikës së Shqipërisë dhe fondit të Kuvajtit për zhvillimin ekonomik Arab për financimin e projektit të rehabilitimit të rrugës së lumit të Vlorës | [`ligji-47-2020/`](ligji-47-2020/) | in force | 1 | 2020-05-22 | 2020-05-22 |
+
+## ligji-47-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërkombëtare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bashkimit Evropian për pjesëmarrjen e Republikës së Shqipërisë në programin e Bashkimit Evropian Horizont Evropa - Programi Kuadër për Kërkimin dhe Inovacionin | [`ligji-47-2022/`](ligji-47-2022/) | in force | 1 | 2022-05-27 | 2022-05-27 |
+
+## ligji-47-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e Strategjisë Kombëtare kundër Ndërhyrjeve të Huaja dhe Dezinformimit 2025-2030 | [`ligji-47-2025/`](ligji-47-2025/) | in force | 1 | 2025-08-16 | 2025-08-16 |
+
+## ligji-48-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit të 16-të të konventës “Për mbrojtjen e të drejtave të njeriut dhe lirive themelore” | [`ligji-48-2015/`](ligji-48-2015/) | in force | 1 | 2015-06-10 | 2015-06-10 |
+
+## ligji-48-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për huan e politikës së zhvillimit të konkurrueshmërisë | [`ligji-48-2017/`](ligji-48-2017/) | in force | 1 | 2017-05-19 | 2017-05-19 |
+
+## ligji-48-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Francës në lidhje me themelimin dhe ushtrimin e aktivitetit të agjencisë Franceze të zhvillimit, të Proparco dhe të Expertise France në Shqipëri | [`ligji-48-2020/`](ligji-48-2020/) | in force | 1 | 2020-05-15 | 2020-05-15 |
+
+## ligji-48-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Agjencisë Franceze për Zhvillim për një hua të bazuar në politika për mbështetjen e barazisë gjinore në aksesin ndaj mundësive ekonomike në Shqipëri | [`ligji-48-2022/`](ligji-48-2022/) | in force | 1 | 2022-06-25 | 2022-06-25 |
+
+## ligji-48-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Organizatës Ndërkombëtare të Policisë Kriminale- INTERPOL mbi privilegjet dhe imunitetet për konferencën e 51- të rajonale evropiane, që do të mbahet në Shqipëri në vitin 2024 | [`ligji-48-2024/`](ligji-48-2024/) | in force | 1 | 2024-06-07 | 2024-06-07 |
+
+## ligji-48-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese nr. 2, me shkëmbim letrash, të marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Malit të Zi dhe Komisionit Evropian për programin IPA të bashkëpunimit ndërkufitar Mali i Zi - Shqipëri 2021 - 2027, ratifikuar me ligjin nr. 9/2024 | [`ligji-48-2026/`](ligji-48-2026/) | in force | 1 | 2026-06-20 | 2026-06-20 |
+
+## ligji-49-2015 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit nr. 4, të marrëveshjes së ndihmës për objektiva zhvillimi, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Shteteve të Bashkuara të Amerikës, për forcimin e shtetit të së drejtës dhe qeverisjen e mirë dhe krijimin e kushteve për një rritje ekonomike me bazë të gjerë, të qëndrueshme dhe gjithëpërfshirëse | [`ligji-49-2015/`](ligji-49-2015/) | amending act | 1 | 2015-06-10 | 2015-06-10 |
+
+## ligji-49-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes istisna’a dhe të marrëveshjes së agjencisë istisna’a ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim për financimin shtesë për projektin e rrugës tiranë - elbasan | [`ligji-49-2017/`](ligji-49-2017/) | in force | 1 | 2017-05-19 | 2017-05-19 |
+
+## ligji-49-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për denoncimin e marrëveshjes ndërkombëtare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar 2010, për projektin “rifinancimi i ndërmarrjeve të vogla dhe të mesme në zonat urbane dhe rurale, faza e dytë”, ratifikuar me ligjin nr. 86/2015 | [`ligji-49-2018/`](ligji-49-2018/) | in force | 1 | 2018-08-21 | 2018-08-21 |
+
+## ligji-49-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë (Huamarrësi), Fondit Shqiptar të Zhvillimit (Agjencia e Zbatimit të Projektit), dhe KfW Frankfurt am Main (KfW), për programin e furnizimit me ujë të zonave rurale IV | [`ligji-49-2019/`](ligji-49-2019/) | in force | 1 | 2019-08-14 | 2019-08-14 |
+
+## ligji-49-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit ndryshues të Konventës “Për mbrojtjen e individëve në lidhje me përpunimin automatik të të dhënave personale” | [`ligji-49-2022/`](ligji-49-2022/) | in force | 1 | 2022-06-10 | 2022-06-10 |
+
+## ligji-49-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të mirëkuptimit ndërmjet qeverisë së Republikës së Shqipërisë (Këshilli i Ministrave) dhe qeverisë së Shteteve të Bashkuara të Amerikës për programin e shkëmbimit akademik “Fulbright” | [`ligji-49-2024/`](ligji-49-2024/) | in force | 1 | 2024-06-21 | 2024-06-21 |
+
+## ligji-49-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në marrëveshjen ndërmjet Këshillit të Ministrave të Bosnjës dhe Hercegovinës, qeverisë së Republikës së Bullgarisë, qeverisë së Republikës së Kroacisë, qeverisë së Hungarisë, qeverisë së Republikës së Maqedonisë së Veriut, qeverisë së Malit të Zi, qeverisë së Republikës së Serbisë, qeverisë së Republikës së Sllovakisë dhe qeverisë së Republikës së Sllovenisë për bashkëpunimin dhe koordinimin në fushën e kërkimit dhe shpëtimit ajror, nënshkruar në Ohër, më 22.2.2023 | [`ligji-49-2025/`](ligji-49-2025/) | in force | 1 | 2025-07-30 | 2025-07-30 |
+
+## ligji-5-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit të privilegjeve dhe imuniteteve të qendrës për zbatimin e ligjit në europën juglindore | [`ligji-5-2012/`](ligji-5-2012/) | in force | 1 | 2012-03-07 | 2012-03-07 |
+
+## ligji-5-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës për shkëmbimin dhe mbrojtjen e ndërsjellë të informacionit të klasifikuar | [`ligji-5-2013/`](ligji-5-2013/) | in force | 1 | 2013-03-15 | 2013-03-15 |
+
+## ligji-5-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës c167 të organizatës ndërkombëtare të punës (ilo) “për sigurinë dhe shëndetin në ndërtim”, 1988 | [`ligji-5-2014/`](ligji-5-2014/) | in force | 1 | 2014-03-15 | 2014-03-15 |
+
+## ligji-5-2017 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit për ndryshimin e marrëveshjes së tregtisë së lirë ndërmjet republikës së shqipërisë dhe shteteve efta | [`ligji-5-2017/`](ligji-5-2017/) | amending act | 1 | 2017-02-28 | 2017-02-28 |
+
+## ligji-5-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes financiare ndërmjet këshillit të ministrave të republikës së shqipërisë, të përfaqësuar nga ministria e financave, dhe cassa depositi e prestiti s.p.a. për projektin me objekt “studime fizibiliteti, hartim dhe planifikim në nivel përfundimtar dhe studim të ndikimit mjedisor në fushën e infrastrukturës” | [`ligji-5-2018/`](ligji-5-2018/) | in force | 1 | 2018-03-15 | 2018-03-15 |
+
+## ligji-5-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dhënie amnistie | [`ligji-5-2020/`](ligji-5-2020/) | in force | 1 | 2020-03-03 | 2020-03-03 |
+
+## ligji-5-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë (huamarrësi), dhe Agjencisë Franceze për Zhvillim për financimin e projektit “Politika për mbështetjen e reformës në sektorin energjetik në Shqipëri” | [`ligji-5-2022/`](ligji-5-2022/) | in force | 1 | 2022-03-03 | 2022-03-03 |
+
+## ligji-5-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e rezolutave nr. 271 “Rritja selektive e kapitalit SCI” dhe nr. 272 “Rritja e përgjithshme e kapitalit GCI” të vitit 2018 të Këshillit të Guvernatorëve të Korporatës Ndërkombëtare Financiare (IFC) | [`ligji-5-2023/`](ligji-5-2023/) | in force | 1 | 2023-03-09 | 2023-03-09 |
+
+## ligji-5-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për projektin ”Mjedis i pastër dhe me aftësi ripërtëritëse, Deti Blu” | [`ligji-5-2025/`](ligji-5-2025/) | in force | 1 | 2025-03-07 | 2025-03-07 |
+
+## ligji-5-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e vendimit nr. 5/2024 të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore “Për aspektet tregtare të të drejtave të pronësisë intelektuale” | [`ligji-5-2026/`](ligji-5-2026/) | in force | 1 | 2026-02-21 | 2026-02-21 |
+
+## ligji-50-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e akteve dhe dokumenteve të Kongresit të 25-të të Bashkimit të Përbotshëm Postar, Doha, 2012 | [`ligji-50-2015/`](ligji-50-2015/) | in force | 1 | 2015-06-23 | 2015-06-23 |
+
+## ligji-50-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe fondit të kuvajtit për zhvillimin ekonomik arab për financimin e projektit “rehabilitimi i rrugës së lumit të vlorës” | [`ligji-50-2016/`](ligji-50-2016/) | in force | 1 | 2016-06-03 | 2016-06-03 |
+
+## ligji-50-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e rezolutës nr. bg/6-434, “në lidhje me rritjen e përgjithshme të 5-të të kapitalit të bankës islamike për zhvillim (idb) dhe arkëtimin e 50 për qind (pjesa e arkëtueshme e parave) të kapitalit të nënshkruar të bankës islamike për zhvillim, sipas rritjes së 4-t të përgjithshme të kapitalit dhe disa nënshkrimeve të tjera të veçanta”, të vitit 2013, të bordit të guvernatorëve të bankës islamike për zhvillim | [`ligji-50-2017/`](ligji-50-2017/) | in force | 1 | 2017-05-19 | 2017-05-19 |
+
+## ligji-50-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për denoncimin e marrëveshjes ndërkombëtare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë, për bashkëpunimin financiar 2010, për projektin “eficienca energjetike përmes sektorit bankar”, ratifikuar me ligjin nr. 89/2015 | [`ligji-50-2018/`](ligji-50-2018/) | in force | 1 | 2018-08-21 | 2018-08-21 |
+
+## ligji-50-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e marrëveshjes për administrimin e nënzonave të trashëgimisë kulturore dhe peizazhit kulturor, pjesë e Parkut Kombëtar të Butrintit, ndërmjet Ministrisë së Kulturës dhe Fondacionit për Menaxhimin e Butrintit | [`ligji-50-2022/`](ligji-50-2022/) | in force | 1 | 2022-08-13 | 2022-08-13 |
+
+## ligji-50-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e vendimit nr. 2/2024, të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore “Për lehtësimin e tregtisë elektronike” | [`ligji-50-2025/`](ligji-50-2025/) | in force | 1 | 2025-07-30 | 2025-07-30 |
+
+## ligji-51-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kroacisë për ndihmë të ndërsjellë në rast të fatkeqësive dhe aksidenteve të mëdha | [`ligji-51-2012/`](ligji-51-2012/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+
+## ligji-51-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së grantit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe Bankës Europiane për Rindërtim dhe Zhvillim, si administrator i fondeve grant, të siguruara nga qeveri të vendeve të ndryshme nën fondin e veçantë të aksionarëve të BERZH-it, për by-pass-et rrugore të Fierit dhe Vlorës, asistencë teknike për mbështetjen e zbatimit të projektit në Shqipëri | [`ligji-51-2015/`](ligji-51-2015/) | in force | 1 | 2015-06-27 | 2015-06-27 |
+
+## ligji-51-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillittë ministrave të republikës së shqipërisë dhe bashkimit europian për procedurat e sigurisë për shkëmbimin dhe mbrojtjen e informacionit të klasifikuar | [`ligji-51-2016/`](ligji-51-2016/) | in force | 1 | 2016-06-30 | 2016-06-30 |
+
+## ligji-51-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së italisë për programin “në mbështetje të arsimit dhe formimit profesional (afp) nëpërmjet inovacionit” | [`ligji-51-2017/`](ligji-51-2017/) | in force | 1 | 2017-05-18 | 2017-05-18 |
+
+## ligji-51-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes financiare ndërmjet këshillit të ministrave të republikës së shqipërisë, të përfaqësuar nga ministria e financave dhe ekonomisë, dhe cassa depositi e prestiti s.p.a. për programin e arsimit dhe formimit profesional nëpërmjet inovacionit | [`ligji-51-2018/`](ligji-51-2018/) | in force | 1 | 2018-08-21 | 2018-08-21 |
+
+## ligji-51-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e kontratës së koncesionit/PPP ndërmjet Ministrisë së Infrastrukturës dhe Energjisë, si Autoriteti Kontraktor, dhe “Gjikuria” sh.p.k., si koncesionari, dhe shoqërisë koncesionare “Rruga Orikum-Llogara” sh.p.k., për projektimin, ndërtimin dhe mirëmbajtjen e rrugës “Porti i jahteve - by pass Orikum-Dukat (Ura e Shën Elizës)” | [`ligji-51-2019/`](ligji-51-2019/) | in force | 1 | 2019-10-03 | 2019-10-03 |
+
+## ligji-51-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes për bashkëpunimin ekonomik ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Azerbajxhanit | [`ligji-51-2024/`](ligji-51-2024/) | in force | 1 | 2024-06-21 | 2024-06-21 |
+
+## ligji-51-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për rezervat materiale të shtetit | [`ligji-51-2025/`](ligji-51-2025/) | in force | 1 | 2025-07-31 | 2025-07-31 |
+
+## ligji-51-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për identifikimin elektronik, shërbimet e besuara dhe portofolin e identitetit digjital | [`ligji-51-2026/`](ligji-51-2026/) | in force | 1 | 2026-06-03 | 2026-06-03 |
+
+## ligji-52-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kroacisë për njohjen e ndërsjellë të lejeve të drejtimit | [`ligji-52-2012/`](ligji-52-2012/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+
+## ligji-52-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për veprimtarinë e sigurimit dhe risigurimit | [`ligji-52-2014/`](ligji-52-2014/) | in force | 1 | 2014-05-22 | 2014-05-22 |
+
+## ligji-52-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së grantit ndërmjet Republikës së Shqipërisë dhe Bankës Europiane për Rindërtim dhe Zhvillim për investimin, nga llogaria EU/IPA e by-pass-it Vlorë, për by-pass-in e Vlorës | [`ligji-52-2015/`](ligji-52-2015/) | in force | 1 | 2015-06-25 | 2015-06-25 |
+
+## ligji-52-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shoqëritë e kursim-kreditit dhe unionet e tyre | [`ligji-52-2016/`](ligji-52-2016/) | in force | 1 | 2016-05-19 | 2016-05-19 |
+
+## ligji-52-2017 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit nr. 1 të marrëveshjes së grantit ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim, që vepron si administratore e fondeve grant, të siguruara nga agjencia suedeze për zhvillimin e bashkëpunimit ndërkombëtar (sida) nën fondin suedez të besimit, për fondin e besimit nr. tf072239, për projektin e shërbimeve mjedisore në shqipëri, të ratifikuar me ligjin nr.64/2015 | [`ligji-52-2017/`](ligji-52-2017/) | amending act | 1 | 2017-05-19 | 2017-05-19 |
+
+## ligji-52-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së grantit ndërmjet republikës së shqipërisë dhe bankës evropiane për rindërtim dhe zhvillim, për financimin e projektit “hekurudhat shqiptare - rehabilitimi i linjës hekurudhore tiranë-durrës dhe ndërtimi i linjës hekurudhore për në aeroportin ndërkombëtar të tiranës”, në kuadër të grantit të investimit nga fondi i përbashkët evropian i ballkanit perëndimor | [`ligji-52-2018/`](ligji-52-2018/) | in force | 1 | 2018-08-21 | 2018-08-21 |
+
+## ligji-52-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e kontratës së koncesionit/PPP ndërmjet Ministrisë së Infrastrukturës dhe Energjisë, si Autoriteti Kontraktor, shoqërisë “ANK” sh.p.k., si koncesionari, dhe shoqërisë “Bardh Konstruksion” sh.p.k., si shoqëria koncesionare, për projektimin, ndërtimin dhe mirëmbajtjen e segmentit rrugor Milot-Balldrenkës | [`ligji-52-2019/`](ligji-52-2019/) | in force | 1 | 2019-10-03 | 2019-10-03 |
+
+## ligji-52-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për financimin shtesë për projektin “Përmirësimi i sistemit të shëndetësisë” | [`ligji-52-2022/`](ligji-52-2022/) | in force | 1 | 2022-07-21 | 2022-07-21 |
+
+## ligji-52-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për arbitrazhin në Republikën e Shqipërisë | [`ligji-52-2023/`](ligji-52-2023/) | in force | 1 | 2023-08-11 | 2023-08-11 |
+
+## ligji-52-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës financiare ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane të Investimeve për punimet e infrastrukturës bashkiake për projektin “Porta e Alpeve” | [`ligji-52-2026/`](ligji-52-2026/) | in force | 1 | 2026-07-04 | 2026-07-04 |
+
+## ligji-53-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për marrëdhëniet juridiksionale në çështjet penale me task forcën hetimore speciale të eulex-it | [`ligji-53-2012/`](ligji-53-2012/) | in force | 1 | 2012-05-11 | 2012-05-11 |
+
+## ligji-53-2017 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së ndryshimit ndërmjet republikës së shqipërisë, duke vepruar nëpërmjet këshillit të ministrave, dhe trans adriatic pipeline ag, lidhur me marrëveshjen me qeverinë e vendit pritës | [`ligji-53-2017/`](ligji-53-2017/) | amending act | 1 | 2017-05-25 | 2017-05-25 |
+
+## ligji-53-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim, për shtesën e financimit për projektin e modernizimit të asistencës sociale | [`ligji-53-2018/`](ligji-53-2018/) | in force | 1 | 2018-08-21 | 2018-08-21 |
+
+## ligji-53-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për organizimin dhe funksionimin e Autoritetit të Aviacionit Civil | [`ligji-53-2022/`](ligji-53-2022/) | in force | 1 | 2022-08-13 | 2022-08-13 |
+
+## ligji-53-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konvetës Ndërkombëtare për Shtypjen e Akteve të Terrorizmit Bërthamor | [`ligji-53-2023/`](ligji-53-2023/) | in force | 1 | 2023-08-09 | 2023-08-09 |
+
+## ligji-54-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e rezolutave nr. 612, “rritja selektive e kapitalit aksionar të autorizuar për të shtuar zërin dhe pjesëmarrjen e vendeve në zhvillim dhe vendeve në tranzicion (sci)”, dhe nr. 613, “rritja e përgjithshme e kapitalit gci”, të vitit 2010, të këshillit të guvernatorëve të bankës ndërkombëtare për rindërtim dhe zhvillim (ibrd) | [`ligji-54-2016/`](ligji-54-2016/) | in force | 1 | 2016-06-30 | 2016-06-30 |
+
+## ligji-54-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për huan e politikës së zhvillimit të sektorit financiar | [`ligji-54-2017/`](ligji-54-2017/) | in force | 1 | 2017-05-19 | 2017-05-19 |
+
+## ligji-54-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim, për projektin e konektivitetit të rrugëve rajonale dhe lokale | [`ligji-54-2018/`](ligji-54-2018/) | in force | 1 | 2018-08-21 | 2018-08-21 |
+
+## ligji-54-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për nismën ligjvënëse të zgjedhësve në Republikën e Shqipërisë | [`ligji-54-2019/`](ligji-54-2019/) | in force | 1 | 2019-08-21 | 2019-08-21 |
+
+## ligji-54-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Mbretërisë së Arabisë Saudite për luftën kundër krimit | [`ligji-54-2023/`](ligji-54-2023/) | in force | 1 | 2023-08-09 | 2023-08-09 |
+
+## ligji-54-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për komunikimet elektronike në Republikën e Shqipërisë | [`ligji-54-2024/`](ligji-54-2024/) | in force | 1 | 2024-12-20 | 2024-12-20 |
+
+## ligji-55-2016 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit të marrëveshjes së koncesionit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe shoqërisë koncesionare “tirana airport partners” shpk, për ndërtimin, vënien në punë, operimin dhe mirëmbajtjen e aeroportit ndërkombëtar “nënë tereza”, tiranë, ratifikuar me ligjin nr. 9312, datë 11.11.2004 | [`ligji-55-2016/`](ligji-55-2016/) | amending act | 1 | 2016-07-14 | 2016-07-14 |
+
+## ligji-55-2017 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit nr. 1 të marrëveshjes së kredisë për eksport ndërmjet këshillit të ministrave të republikës së shqipërisë, që përfaqësohet nga ministria e financave, dhe unicredit bank austria ag, lidhur me financimin e projektit “shëndetësia elektronike në shqipëri - regjistri mbarëkombëtar i shëndetësisë elektronike”, ratifikuar me ligjin nr. 69/2014 | [`ligji-55-2017/`](ligji-55-2017/) | amending act | 1 | 2017-05-18 | 2017-05-18 |
+
+## ligji-55-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për profesionin e avokatit në republikën e shqipërisë | [`ligji-55-2018/`](ligji-55-2018/) | in force | 1 | 2018-09-01 | 2018-09-01 |
+
+## ligji-55-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shërbimet e pagesave | [`ligji-55-2020/`](ligji-55-2020/) | in force | 1 | 2021-01-02 | 2021-01-02 |
+
+## ligji-55-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për menaxhimin e garancive dhe kredive shtetërore të pakthyera | [`ligji-55-2023/`](ligji-55-2023/) | in force | 1 | 2023-08-16 | 2023-08-16 |
+
+## ligji-55-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për financimin e detyrimit të prapambetur të pagesës së punonjësve dhe ish-punonjësve të Kombinatit Mekanik Poliçan | [`ligji-55-2024/`](ligji-55-2024/) | in force | 1 | 2024-07-13 | 2024-07-13 |
+
+## ligji-55-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për administrimin e bashkëpronësisë në ndërtesa | [`ligji-55-2025/`](ligji-55-2025/) | in force | 1 | 2025-08-16 | 2025-08-16 |
+
+## ligji-55-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Republikës së Polonisë për sigurimet shoqërore | [`ligji-55-2026/`](ligji-55-2026/) | in force | 1 | 2026-07-10 | 2026-07-10 |
+
+## ligji-56-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes së huas dhe projektit ndërmjet republikës së shqipërisë, të përfaqësuar nga ministria e financave, e operatorit të sistemit të transmetimit, sha, si agjencia e zbatimit të projektit, dhe kfw frankfurt am main për financimin e projektit “linja unazore 110 kv e shqipërisë së jugut”, nëpërmjet një huaje 37 750 000 euro | [`ligji-56-2014/`](ligji-56-2014/) | in force | 1 | 2014-07-02 | 2014-07-02 |
+
+## ligji-56-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për negocimin e marrëveshjes ndërmjet shtetit shqiptar dhe kompanisë “al habtoor investment llc” për projektimin dhe ndërtimin e “kullës ikonike” në tiranë | [`ligji-56-2017/`](ligji-56-2017/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+
+## ligji-56-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për sipërmarrjet e investimeve kolektive | [`ligji-56-2020/`](ligji-56-2020/) | in force | 1 | 2020-04-30 | 2020-04-30 |
+
+## ligji-56-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit të Traktatit të Atlantikut të Veriut për aderimin e Republikës së Finlandës | [`ligji-56-2022/`](ligji-56-2022/) | in force | 1 | 2022-07-28 | 2022-07-28 |
+
+## ligji-56-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Italisë lidhur me një hua koncesionale për programin ”Përmirësimi i rrjetit të shpërndarjes së energjisë elektrike në Shqipërinë Veriore pas tërmetit të vitit 2019” | [`ligji-56-2023/`](ligji-56-2023/) | in force | 1 | 2023-08-19 | 2023-08-19 |
+
+## ligji-57-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përfundimin e procesit të kalimit në pronësi përfituesve të tokës bujqësore të ish-ndërmarrjeve bujqësore | [`ligji-57-2012/`](ligji-57-2012/) | in force | 1 | 2012-07-01 | 2012-07-01 |
+
+## ligji-57-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për projektin “Për përmirësimin e sistemit të shëndetësisë” | [`ligji-57-2015/`](ligji-57-2015/) | in force | 1 | 2015-07-08 | 2015-07-08 |
+
+## ligji-57-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit të Traktatit të Atlantikut të Veriut për aderimin e Mbretërisë së Suedisë | [`ligji-57-2022/`](ligji-57-2022/) | in force | 1 | 2022-07-28 | 2022-07-28 |
+
+## ligji-57-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Turqisë për bashkëpunimin për zhvillim dhe statusin e zyrës së koordinimit të programeve të TIKA-s në Shqipëri | [`ligji-57-2024/`](ligji-57-2024/) | in force | 1 | 2024-07-16 | 2024-07-16 |
+
+## ligji-57-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për menaxhimin e integruar të mbetjeve | [`ligji-57-2025/`](ligji-57-2025/) | in force | 1 | 2025-11-27 | 2025-11-27 |
+
+## ligji-57-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dhënie amnistie | [`ligji-57-2026/`](ligji-57-2026/) | in force | 1 | 2026-07-15 | 2026-07-15 |
+
+## ligji-58-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Konfederatës Zvicerane për Grantin e Asistencës Financiare për projektin “Ngritja e kapaciteteve për zhvillimet në përmasa të mëdha të infrastrukturës së gazit në Shqipëri, II” | [`ligji-58-2015/`](ligji-58-2015/) | in force | 1 | 2015-07-11 | 2015-07-11 |
+
+## ligji-58-2016 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e dokumentit të ndryshimit të marrëveshjes së huas, të ratifikuar me ligjin nr. 89/2013, “për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim (ibrd) për financimin e projektit të burimeve ujore dhe ujitjes” | [`ligji-58-2016/`](ligji-58-2016/) | amending act | 1 | 2016-07-08 | 2016-07-08 |
+
+## ligji-58-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E MARRËVESHJES SË FINANCIMIT NDËRMJET REPUBLIKËS SË SHQIPËRISË (MARRËSI), PËRFAQËSUAR NGA MINISTRIA E FINANCAVE DHE EKONOMISË, DHE KfW FRANKFURT AM MAIN (KfW) PËR PROGRAMIN E REHABILITIMIT TË KONVIKTEVE TË UNIVERSITETIT TË TIRANËS, SIPAS PARIMIT TË EFICIENCËS SË ENERGJISË, FAZA II | [`ligji-58-2018/`](ligji-58-2018/) | in force | 1 | 2018-10-30 | 2018-10-30 |
+
+## ligji-58-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes për mbrojtjen shoqërore ndërmjet Republikës së Shqipërisë dhe Kanadasë | [`ligji-58-2019/`](ligji-58-2019/) | in force | 1 | 2019-10-18 | 2019-10-18 |
+
+## ligji-58-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e shtesës së kontratës së koncesionit të formës “BOT” (ndërtim, shfrytëzim dhe transferim) të një porti të llojit MBM në Porto-Romano, Durrës, miratuar me ligjin nr. 104/2015, ndërmjet Ministrisë së Infrastrukturës dhe Energjisë dhe shoqërisë koncesionare “Porti MBM (Multy Buoy Mooring)”, të ndryshuar | [`ligji-58-2020/`](ligji-58-2020/) | in force | 1 | 2020-07-18 | 2020-07-18 |
+
+## ligji-58-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e traktatit të Miqësisë dhe Bashkëpunimit ndërmjet Republikës së Shqipërisë dhe Ukrainës | [`ligji-58-2024/`](ligji-58-2024/) | in force | 1 | 2024-07-13 | 2024-07-13 |
+
+## ligji-58-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për financimin e programit ”Aftësia ripërtëritëse dhe zhvillimi i gjelbër- hua e dytë për politikat e zhvillimit” | [`ligji-58-2025/`](ligji-58-2025/) | in force | 1 | 2025-12-04 | 2025-12-04 |
+
+## ligji-59-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të mirëkuptimit ndërmjet republikës së shqipërisë dhe bashkimit europian për pjesëmarrjen e republikës së shqipërisë në programin e kulturës | [`ligji-59-2012/`](ligji-59-2012/) | in force | 1 | 2012-07-07 | 2012-07-07 |
+
+## ligji-59-2016 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e vendimit të komisionit të përbashkët të marrëveshjes së tregtisë së lirë të evropës qendrore nr. 3/2015, për ndryshimin e vendimit të komisionit të përbashkët të marrëveshjes së tregtisë së lirë të evropës qendrore 3/2013, në lidhje me aneksin 4, të marrëveshjes së tregtisë së lirë të evropës qendrore (cefta 2006), protokolli për përkufizimin e konceptit të “produkteve të origjinës” dhe metodave të bashkëpunimit administrativ, të referuara në nenin 14, paragrafët 1 e 3 | [`ligji-59-2016/`](ligji-59-2016/) | amending act | 1 | 2016-07-08 | 2016-07-08 |
+
+## ligji-59-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me shkëmbim notash ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin teknik për projektin “zhvillimi i qëndrueshëm ekonomik dhe rajonal, nxitja e punësimit dhe arsimi profesional” | [`ligji-59-2017/`](ligji-59-2017/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+
+## ligji-59-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së zbatimit ndërmjet republikës së shqipërisë, të përfaqësuar nga ministria e financave dhe ekonomisë, dhe agjencisë gjermane për bashkëpunim ndërkombëtar (giz) për projektin “këshillimi për migracionin në shqipëri” | [`ligji-59-2018/`](ligji-59-2018/) | in force | 1 | 2018-10-30 | 2018-10-30 |
+
+## ligji-59-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Shtetit të Katarit për transportin detar | [`ligji-59-2019/`](ligji-59-2019/) | in force | 1 | 2019-10-18 | 2019-10-18 |
+
+## ligji-59-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për politikën për zhvillim për aksesin e barabartë gjinor në mundësitë ekonomike | [`ligji-59-2020/`](ligji-59-2020/) | in force | 1 | 2020-05-28 | 2020-05-28 |
+
+## ligji-59-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Konfederatës Zvicerane për mbrojtjen shoqërore” | [`ligji-59-2022/`](ligji-59-2022/) | in force | 1 | 2022-08-27 | 2022-08-27 |
+
+## ligji-59-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në protokollin shtesë të Konventës për kontratën e transportit rrrugor ndërkombëtar të mallrave (CMR), në lidhje me faturën elektronike të ngarkesës, bërë në Gjenevë në datën 20.2.2008 | [`ligji-59-2025/`](ligji-59-2025/) | in force | 1 | 2025-12-04 | 2025-12-04 |
+
+## ligji-59-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për sektorin e energjisë elektrike | [`ligji-59-2026/`](ligji-59-2026/) | in force | 1 | 2026-07-15 | 2026-07-15 |
+
+## ligji-6-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “traktatit për tregtinë e armëve” | [`ligji-6-2014/`](ligji-6-2014/) | in force | 1 | 2014-03-15 | 2014-03-15 |
+
+## ligji-6-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes për themelimin e fondit të ballkanit perëndimor dhe statutit të tij | [`ligji-6-2016/`](ligji-6-2016/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+
+## ligji-6-2020 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pranimin e instrumentit të amendamentit të Kushtetutës së Organizatës Ndërkombëtare të Punës, 1986 | [`ligji-6-2020/`](ligji-6-2020/) | amending act | 1 | 2020-03-04 | 2020-03-04 |
+
+## ligji-6-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Polonisë për bashkëpunimin në fushën e mbrojtjes | [`ligji-6-2023/`](ligji-6-2023/) | in force | 1 | 2023-03-09 | 2023-03-09 |
+
+## ligji-6-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të vitit 2022 | [`ligji-6-2024/`](ligji-6-2024/) | in force | 1 | 2024-02-29 | 2024-02-29 |
+
+## ligji-6-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e vendimit nr. 6/2024, të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore “Për lehtësimin e tregtisë së shërbimeve të ofruara nga agjencitë e udhëtimit dhe operatorët turistikë” | [`ligji-6-2026/`](ligji-6-2026/) | in force | 1 | 2026-02-27 | 2026-02-27 |
+
+## ligji-60-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për paradhënie për përgatitjen e projektit të propozuar “Shërbime publike me në qendër qytetarin” | [`ligji-60-2015/`](ligji-60-2015/) | in force | 1 | 2015-07-15 | 2015-07-15 |
+
+## ligji-60-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me shkëmbim notash ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin teknik për projektin “zhvillimi i qëndrueshëm ekonomik dhe rajonal, nxitja e punësimit dhe arsimi profesional (shtim fondesh)” | [`ligji-60-2017/`](ligji-60-2017/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+
+## ligji-60-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese me shkëmbim notash që përditëson marrëveshjen ndërmjet republikës së shqipërisë dhe zyrës së policisë evropiane (europol) për bashkëpunimin strategjik dhe operacional, ratifikuar me ligjin nr. 28/2014 | [`ligji-60-2018/`](ligji-60-2018/) | in force | 1 | 2018-10-30 | 2018-10-30 |
+
+## ligji-60-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën për Përpunimin e Farmakopesë Evropiane, Strasburg 22.VII.1964, tekst i ndryshuar në përputhje me dispozitat e protokollit të Konventës (EST nr. 134) | [`ligji-60-2019/`](ligji-60-2019/) | in force | 1 | 2019-10-18 | 2019-10-18 |
+
+## ligji-60-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së përbashkët të prokurimit ndërmjet Republikës së Shqipërisë, Komisionit Europian dhe vendeve anëtare të Bashkimit Europian, për të prokuruar kundërmasat mjekësore | [`ligji-60-2020/`](ligji-60-2020/) | in force | 1 | 2020-05-28 | 2020-05-28 |
+
+## ligji-61-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së emirateve të bashkuara arabe për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal, në lidhje me tatimin mbi të ardhurat dhe kapitalin | [`ligji-61-2014/`](ligji-61-2014/) | in force | 1 | 2014-07-26 | 2014-07-26 |
+
+## ligji-61-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit Evropian për pjesëmarrjen e Republikës së Shqipërisë në programin e Unionit “Konkurrenca e ndërmarrjeve dhe ndërmarrjeve të vogla dhe të mesme (Cosme) 2014-2020” | [`ligji-61-2015/`](ligji-61-2015/) | in force | 1 | 2015-07-15 | 2015-07-15 |
+
+## ligji-61-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shpalljen e moratoriumit të gjuetisë në republikën e shqipërisë | [`ligji-61-2016/`](ligji-61-2016/) | in force | 1 | 2016-07-08 | 2016-07-08 |
+
+## ligji-61-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE the Swiss Confederation KONFEDERATËS ZVICERANE PËR PROJEKTIN “AFTËSI PËR PUNË, FAZA E PARË, 1 TETOR 2015 - 28 SHKURT 2019” | [`ligji-61-2017/`](ligji-61-2017/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+
+## ligji-61-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim, për shtesën e dytë të financimit për projektin e sigurisë së digave | [`ligji-61-2018/`](ligji-61-2018/) | in force | 1 | 2018-10-30 | 2018-10-30 |
+
+## ligji-61-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, Republikës së Kosovës dhe Komisionit Evropian për programin e veprimit të bashkëpunimit ndërkufitar IPA II, Shqipëri-Kosovë, 2014-2020, alokimet e vitit 2017 | [`ligji-61-2019/`](ligji-61-2019/) | in force | 1 | 2019-10-19 | 2019-10-19 |
+
+## ligji-61-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për kontrollon e kultivimit dhe përpunimit të bimës së cannabis-it dhe prodhimit të nënprodukteve të saj për qëllime mjekësore dhe industriale | [`ligji-61-2023/`](ligji-61-2023/) | in force | 1 | 2023-09-05 | 2023-09-05 |
+
+## ligji-61-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim për rehabilitimin e linjës hekurudhore Vorë - Hani i Hotit | [`ligji-61-2024/`](ligji-61-2024/) | in force | 1 | 2024-07-18 | 2024-07-18 |
+
+## ligji-61-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për kontrollet zyrtare dhe aktivitete të tjera zyrtare të kryera për të garantuar zbatimin e legjislacionit për ushqimin dhe ushqimin për kafshë, të rregullimeve për shëndetin e mirëqenien e kafshëve, si dhe për shëndetin e bimëve e të produkteve për mbrojtjen e bimëve në Republikën e Shqipërisë | [`ligji-61-2026/`](ligji-61-2026/) | in force | 1 | 2026-07-18 | 2026-07-18 |
+
+## ligji-62-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kosovës për shmangien e tatimit të dyfishtë, lidhur me tatimet mbi të ardhurat dhe mbi kapitalin dhe për parandalimin e evazionit fiskal | [`ligji-62-2014/`](ligji-62-2014/) | in force | 1 | 2014-07-26 | 2014-07-26 |
+
+## ligji-62-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me shkëmbim notash ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për projektin “menaxhimi i integruar i mbetjeve të ngurta dhe ekonomia ricikluese në respekt të mjedisit” | [`ligji-62-2017/`](ligji-62-2017/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+
+## ligji-62-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe fondit opec për zhvillim ndërkombëtar (ofid), për projektin e punimeve për riparime emergjente të autostradës tiranë-elbasan | [`ligji-62-2018/`](ligji-62-2018/) | in force | 1 | 2018-09-24 | 2018-09-24 |
+
+## ligji-62-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, për projektin për lehtësimin e tregtisë dhe të transportit në Ballkanin Perëndimor, me qasje programatike me shumë faza | [`ligji-62-2019/`](ligji-62-2019/) | in force | 1 | 2019-10-19 | 2019-10-19 |
+
+## ligji-62-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për tregjet e kapitalit | [`ligji-62-2020/`](ligji-62-2020/) | in force | 1 | 2020-05-14 | 2020-05-14 |
+
+## ligji-62-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Regjistrin Kombëtar të të Dënuarve për Krime Seksuale | [`ligji-62-2022/`](ligji-62-2022/) | in force | 1 | 2023-02-12 | 2023-02-12 |
+
+## ligji-62-2024 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në protokollin për ndryshimin e nenit 50 (A) të Konventës së Aviacionit Civil Ndërkombëtar, si dhe në protokollin për ndryshimin e nenit 56 të Konventës së Aviacionit Civil Ndërkombëtar | [`ligji-62-2024/`](ligji-62-2024/) | amending act | 1 | 2024-07-20 | 2024-07-20 |
+
+## ligji-62-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së garancisë ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim (BERZH) për marrëveshjen e huas ndërmjet Operatorit të Shpërndarjes së Energjisë Elektrike, sh.a., (OSHEE Group) dhe Bankës Evropiane për Rindërtim dhe Zhvillim për projektin e nënstacionit të OSHEE-së Tiranë | [`ligji-62-2026/`](ligji-62-2026/) | in force | 1 | 2026-08-12 | 2026-08-12 |
+
+## ligji-63-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së hagës ”për rivendosjen ndërkombëtare të detyrimit ushqimor ndaj fëmijëve dhe formave të tjera të mbështetjes për anëtarët e tjerë të familjes” | [`ligji-63-2012/`](ligji-63-2012/) | in force | 1 | 2012-07-13 | 2012-07-13 |
+
+## ligji-63-2017 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit nr. 7, të marrëveshjes së ndihmës për objektiva zhvillimi, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës për forcimin e shtetit të së drejtës, qeverisjen e mirë dhe krijimin e kushteve për një rritje ekonomike me bazë të gjerë, të qëndrueshme dhe gjithëpërfshirëse, ratifikuar me ligjin nr. 174/2013 | [`ligji-63-2017/`](ligji-63-2017/) | amending act | 1 | 2017-05-25 | 2017-05-25 |
+
+## ligji-63-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për eurobondin që do të emetohet nga ministri i financave dhe ekonomisë dhe blerjen mbrapsht (buyback) të një pjese të eurobondit ekzistues, miratimin e përjashtimeve nga tatimet e taksat dhe të parashikimeve për heqjen dorë nga imuniteti në marrëveshjet që do të lidhen | [`ligji-63-2018/`](ligji-63-2018/) | in force | 1 | 2018-09-24 | 2018-09-24 |
+
+## ligji-63-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Europiane të Investimeve, për projektin “Shtrati i lumit Lana - zhvillim urban” | [`ligji-63-2019/`](ligji-63-2019/) | in force | 1 | 2019-11-14 | 2019-11-14 |
+
+## ligji-63-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Pёr pёrmirёsimin e zonave tё biznesit (BID) | [`ligji-63-2020/`](ligji-63-2020/) | in force | 1 | 2020-07-25 | 2020-07-25 |
+
+## ligji-64-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes së huas dhe projektit ndërmjet republikës së shqipërisë, të përfaqësuar nga ministria e financave, e operatorit të sistemit të transmetimit sha, si agjencia e zbatimit të projektit, dhe kfw frankfurt am main për financimin e projektit “linja e transmetimit 400 kilovolt shqipëri-kosovë (tiranë-prishtinë)”, nëpërmjet një huaje prej 42 000 000 eurosh | [`ligji-64-2016/`](ligji-64-2016/) | in force | 1 | 2016-07-08 | 2016-07-08 |
+
+## ligji-64-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me shkëmbim notash ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për projektin “mbështetje për harmonizimin e legjislacionit ekonomik dhe tregtar me aktet ligjore të be-së” | [`ligji-64-2017/`](ligji-64-2017/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+
+## ligji-64-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së grantit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Europiane të Investimeve për projektin “Shtrati i lumit Lana - zhvillim urban” | [`ligji-64-2019/`](ligji-64-2019/) | in force | 1 | 2019-11-14 | 2019-11-14 |
+
+## ligji-64-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërqeveritare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Francës për kontributin në zbatimin e projekteve prioritare në Shqipëri | [`ligji-64-2024/`](ligji-64-2024/) | in force | 1 | 2024-08-06 | 2024-08-06 |
+
+## ligji-64-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për barazinë gjinore | [`ligji-64-2025/`](ligji-64-2025/) | in force | 1 | 2025-12-25 | 2025-12-25 |
+
+## ligji-65-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e përjashtimeve nga taksat dhe të parashikimeve për heqjen dorë nga imuniteti i kushtëzuar, sipas marrëveshjes së garancisë, në lidhje me marrëveshjen e huas, për financimin e zbatimit të projektit për ndërtimin e rrjeteve numerike (digjitale) DVB-T2 të transmetuesit publik (RTSH) | [`ligji-65-2015/`](ligji-65-2015/) | in force | 1 | 2015-08-14 | 2015-08-14 |
+
+## ligji-65-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ndërmarrjet sociale në republikën e shqipërisë | [`ligji-65-2016/`](ligji-65-2016/) | in force | 1 | 2016-07-09 | 2016-07-09 |
+
+## ligji-65-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me shkëmbim notash, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë, për bashkëpunimin teknik për zbatimin e projektit “zhvillimi i qëndrueshëm i integruar i rajonit bregdetar” | [`ligji-65-2017/`](ligji-65-2017/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+
+## ligji-65-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Federale të Gjermanisë për bashkëpunim teknik 2018, për projektin “Mbështetje për negociatat për anëtarësim të Shqipërisë në BE në sektorin ekonomik” | [`ligji-65-2019/`](ligji-65-2019/) | in force | 1 | 2019-11-06 | 2019-11-06 |
+
+## ligji-65-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes financiare kuadër të partneritetit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, dhe Komisionit Evropian për rregullat specifike të zbatimit të asistencës financiare të BE-së për Republikën e Shqipërisë, në kuadër të Instrumentit për Asistencën e Paraanëtarësimit (IPA III) | [`ligji-65-2022/`](ligji-65-2022/) | in force | 1 | 2022-10-14 | 2022-10-14 |
+
+## ligji-65-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit Evropian për pjesëmarrjen e Republikës së Shqipërisë në programin e drejtësisë | [`ligji-65-2024/`](ligji-65-2024/) | in force | 1 | 2024-08-10 | 2024-08-10 |
+
+## ligji-65-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të vitit 2024 | [`ligji-65-2025/`](ligji-65-2025/) | in force | 1 | 2025-12-19 | 2025-12-19 |
+
+## ligji-65-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dëftesat tregtare mbi produktet bujqësore | [`ligji-65-2026/`](ligji-65-2026/) | in force | 1 | 2026-08-14 | 2026-08-14 |
+
+## ligji-66-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e gjobave për mospagimin në afat të kontributeve të detyrueshme të sigurimeve shoqërore dhe shëndetësore nga subjektet juridike dhe fizike | [`ligji-66-2015/`](ligji-66-2015/) | in force | 1 | 2015-07-31 | 2015-07-31 |
+
+## ligji-66-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në aktin e gjenevës të marrëveshjes së lisbonës për emërtimet e origjinës dhe treguesit gjeografikë | [`ligji-66-2018/`](ligji-66-2018/) | in force | 1 | 2018-10-30 | 2018-10-30 |
+
+## ligji-66-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me shkëmbim notash ndërmjet Republikës së Shqipërisë dhe Këshillit të Stabilizim-Asociimit Bashkimi Evropian-Shqipëri për pjesëmarrjen e Republikës së Shqipërisë, me cilësinë e vëzhgueses, në punën e Agjencisë së Bashkimit Evropian për të drejtat themelore dhe mënyrën e kësaj pjesëmarrjeje në kuadrin e rregullores së Këshillit (KE) nr. 168/2007 | [`ligji-66-2019/`](ligji-66-2019/) | in force | 1 | 2019-11-06 | 2019-11-06 |
+
+## ligji-66-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për tregjet financiare të bazuara në teknologjinë e regjistrave të shpërndarë | [`ligji-66-2020/`](ligji-66-2020/) | in force | 1 | 2020-09-01 | 2020-09-01 |
+
+## ligji-66-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në protokollin e vitit 1988 në lidhje me Konventën Ndërkombëtare për Sigurinë e Jetës në Det, 1974 | [`ligji-66-2021/`](ligji-66-2021/) | in force | 1 | 2021-07-06 | 2021-07-06 |
+
+## ligji-66-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Emirateve të Bashkuara Arabe, për bashkëpunimin në fushën e sigurisë dhe luftës kundër terrorizmit | [`ligji-66-2022/`](ligji-66-2022/) | in force | 1 | 2022-10-20 | 2022-10-20 |
+
+## ligji-66-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për administrimin e objekteve të konfiskuara si ndërtime pa leje, me qëllim përdorimin e tyre për interes publik apo strehim social, si dhe zbutjen e pasojave sociale të shkaktuara | [`ligji-66-2023/`](ligji-66-2023/) | in force | 1 | 2023-08-22 | 2023-08-22 |
+
+## ligji-66-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për denoncimin e marrëveshjes së bashkëpunimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe fondacionit Hanns-Seidel të Republikës Federale të Gjermanisë, ratifikuar me ligjin nr. 9781, datë 19.7.2007 | [`ligji-66-2025/`](ligji-66-2025/) | in force | 1 | 2026-01-07 | 2026-01-07 |
+
+## ligji-66-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për censin e bujqësisë | [`ligji-66-2026/`](ligji-66-2026/) | in force | 1 | 2026-08-14 | 2026-08-14 |
+
+## ligji-67-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kroacisë për zgjidhjen e borxhit të republikës së shqipërisë kundrejt republikës së kroacisë | [`ligji-67-2012/`](ligji-67-2012/) | in force | 1 | 2012-07-28 | 2012-07-28 |
+
+## ligji-67-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për eurobondin që do të emetohet nga ministri i Financave, miratimin e përjashtimeve nga tatimet e taksat dhe të parashikimeve për heqjen dorë nga imuniteti në marrëveshjet që do të lidhen nga ministri i Financave | [`ligji-67-2015/`](ligji-67-2015/) | in force | 1 | 2015-07-14 | 2015-07-14 |
+
+## ligji-67-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit të traktatit të atlantikut verior për aderimin e malit të zi | [`ligji-67-2016/`](ligji-67-2016/) | in force | 1 | 2016-07-26 | 2016-07-26 |
+
+## ligji-67-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me shkëmbim notash ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për projektin “ruajtja e agrobiodiversitetit në shqipërinë rurale” | [`ligji-67-2017/`](ligji-67-2017/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+
+## ligji-67-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e traktatit të ekstradimit ndërmjet Qeverisë së Republikës së Shqipërisë dhe Qeverisë së shteteve të Bashkuara të Amerikës | [`ligji-67-2021/`](ligji-67-2021/) | in force | 1 | 2021-06-25 | 2021-06-25 |
+
+## ligji-67-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të mirëkuptimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Brendshme e Republikës së Shqipërisë, dhe qeverisë së Mbretërisë së Bashkuar të Britanisë së Madhe dhe Irlandës së Veriut, të përfaqësuar nga Ministria e Punëve të Brendshme, për shkëmbimin e informacionit për qëllime të lidhura me migracionin” | [`ligji-67-2022/`](ligji-67-2022/) | in force | 1 | 2022-10-20 | 2022-10-20 |
+
+## ligji-67-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Traktatin e Marrakeshit për lehtësimin e aksesit në veprat e botuara për personat e verbër, me vështirësi në shikim ose me aftësi të kufizuara në leximin e teksteve të shtypura, bërë në Marrakesh, më 27.6.2013 | [`ligji-67-2025/`](ligji-67-2025/) | in force | 1 | 2026-01-07 | 2026-01-07 |
+
+## ligji-68-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së dëmshpërblimit ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për garancinë e bazuar në politika për financat publike në Shqipëri dhe të marrëveshjes së huas me afat ndërmjet Republikës së Shqipërisë, që vepron nëpërmjet Ministrisë së Financave, si huamarrës, Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, si garantues, dhe Deutsche Bank Ag, dega e Londrës, si huadhënës fillestar, të rregulluar nga Deutsche Bank Ag, dega e Londrës, si rregullues kryesor i mandatuar, Deutsche Bank Ag, dega e Londrës, si agjent, dhe Deutsche Bank Ag, dega e Londrës, si Agjent Dokumentacioni | [`ligji-68-2015/`](ligji-68-2015/) | in force | 1 | 2015-07-14 | 2015-07-14 |
+
+## ligji-68-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE QEVERISË SË REPUBLIKËS FEDERALE TË GJERMANISË PËR BASHKËPUNIMIN FINANCIAR 2014, PËR MASËN SHOQËRUESE TË PROJEKTIT “LINJA UNAZORE 110 kv NË SHQIPËRINË JUGORE (PËRMIRËSIMI I EFICIENCËS NË FUSHËN E ENERGJISË)” | [`ligji-68-2016/`](ligji-68-2016/) | in force | 1 | 2016-07-30 | 2016-07-30 |
+
+## ligji-68-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes së huas dhe programit ndërmjet republikës së shqipërisë, të përfaqësuar nga ministria e financave, fondit shqiptar të zhvillimit dhe kfw frankfurt am main, për financimin e programit “fondi i investimeve sociale iv” | [`ligji-68-2018/`](ligji-68-2018/) | in force | 1 | 2018-11-09 | 2018-11-09 |
+
+## ligji-68-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Federale të Gjermanisë për bashkëpunim financiar 2018, për projektin “Programi për menaxhim të qëndrueshëm dhe miqësor me klimën në sektorin e mbetjeve (DKTI) | [`ligji-68-2021/`](ligji-68-2021/) | in force | 1 | 2021-06-30 | 2021-06-30 |
+
+## ligji-68-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën mbi Organizatën Ndërkombëtare për Ndihmat Detare në Lundrim | [`ligji-68-2022/`](ligji-68-2022/) | in force | 1 | 2022-10-27 | 2022-10-27 |
+
+## ligji-68-2025 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pranimin e ndryshimeve të statutit të Romës për Gjykatën Ndërkombëtare Penale për Krimin e Agresionit, ratifikuar me ligjin nr. 8984, datë 23.12.2002 | [`ligji-68-2025/`](ligji-68-2025/) | amending act | 1 | 2026-01-07 | 2026-01-07 |
+
+## ligji-69-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes kuadër të financimit ndërmjet Republikës së Shqipërisë dhe Bankës për Zhvillim të Këshillit të Evropës për punët e komunitetit IV të Fondit Shqiptar të Zhvillimit, projekti “Zhvillimi i Alpeve Shqiptare dhe zonave bregdetare” | [`ligji-69-2015/`](ligji-69-2015/) | in force | 1 | 2015-08-11 | 2015-08-11 |
+
+## ligji-69-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar 2015, për projektin “programi për rinovimin e konvikteve në kampusin universitar të tiranës, sipas parimit të eficiencës energjetike” | [`ligji-69-2016/`](ligji-69-2016/) | in force | 1 | 2016-07-30 | 2016-07-30 |
+
+## ligji-69-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Federale të Gjermanisë për bashkëpunim financiar 2019 për projektin “Rehabilitimi i hidrocentralit të Fierzës (DKTI) | [`ligji-69-2021/`](ligji-69-2021/) | in force | 1 | 2021-06-30 | 2021-06-30 |
+
+## ligji-69-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me shkëmbim notash ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Japonisë mbi bashkëpunimin ekonomik japonez për projektin për përmirësimin e pajisjeve për konservimin, restaurimin dhe mjedisin ekspozues në Muzeun Historik Kombëtar të Shqipërisë | [`ligji-69-2022/`](ligji-69-2022/) | in force | 1 | 2022-11-10 | 2022-11-10 |
+
+## ligji-69-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Memorandumin e Mirëkuptimit për Kontrollin Shtetëror Portual në rajonin e Mesdheut, bërë në Maltë, më 11 korrik 1997 | [`ligji-69-2025/`](ligji-69-2025/) | in force | 1 | 2026-01-07 | 2026-01-07 |
+
+## ligji-7-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e vendimeve të këshillit administrativ dhe të bordit drejtues të bankës për zhvillim të këshillit të europës (ceb), rezoluta nr.1532 “propozim i këshillit administrativ mbi rritjen e kapitalit të bankës” (shtojca a), rezoluta nr.386 “vendim mbi rritjen e kapitalit të bankës” (shtojca b), si dhe dokumenti “letra e guvernatorit të bankës, datë 8.4.2011, mbi fazat e rritjes së kapitalit” | [`ligji-7-2012/`](ligji-7-2012/) | in force | 1 | 2012-03-15 | 2012-03-15 |
+
+## ligji-7-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shpalljen e moratoriumit të gjuetisë në republikën e shqipërisë | [`ligji-7-2014/`](ligji-7-2014/) | in force | 1 | 2014-03-15 | 2014-03-15 |
+
+## ligji-7-2016 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pranimin e protokollit për ndryshimin e marrëveshjes së marrakeshit që themeloi organizatën botërore të tregtisë | [`ligji-7-2016/`](ligji-7-2016/) | amending act | 1 | 2016-03-03 | 2016-03-03 |
+
+## ligji-7-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Protokollit të Traktatit të Atlantikut Verior për aderimin e Republikës së Maqedonisë së Veriut | [`ligji-7-2019/`](ligji-7-2019/) | in force | 1 | 2019-03-09 | 2019-03-09 |
+
+## ligji-7-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së Minamatës “Për merkurin” | [`ligji-7-2020/`](ligji-7-2020/) | in force | 1 | 2020-03-04 | 2020-03-04 |
+
+## ligji-7-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë, njëra palë, dhe Bashkimit Europian, pala tjetër, për pjesëmarrjen e Shqipërisë në Mekanizmin e Mbrojtjes Civile të Bashkimit | [`ligji-7-2023/`](ligji-7-2023/) | in force | 1 | 2023-03-09 | 2023-03-09 |
+
+## ligji-7-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për njohjen e periudhave të punësimit në institucionet shtetërore, në ish-ndërmarrjet shtetërore, në ish-ndërmarrjet bujqësore dhe në ish-kooperativat bujqësore për efekt pensioni në sistemin e sigurimeve shoqërore | [`ligji-7-2025/`](ligji-7-2025/) | in force | 1 | 2025-03-13 | 2025-03-13 |
+
+## ligji-7-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në protokollin për ndalimin e tregtisë së paligjshme në produktet e duhanit | [`ligji-7-2026/`](ligji-7-2026/) | in force | 1 | 2026-02-27 | 2026-02-27 |
+
+## ligji-70-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen e kombeve të bashkuara për vendosjen e rregulloreve teknike globale për automjetet me rrota, pajisjet dhe pjesët që mund të instalohen ose të përdoren tek automjetet me rrota | [`ligji-70-2012/`](ligji-70-2012/) | in force | 1 | 2012-08-15 | 2012-08-15 |
+
+## ligji-70-2015 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e dokumentit të ndryshimit nr. 2 të kontratës financiare ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane të Investimeve për terminalin e trageteve të Portit të Durrësit | [`ligji-70-2015/`](ligji-70-2015/) | amending act | 1 | 2015-08-04 | 2015-08-04 |
+
+## ligji-70-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për zejtarinë në republikën e shqipërisë | [`ligji-70-2016/`](ligji-70-2016/) | in force | 1 | 2016-06-30 | 2016-06-30 |
+
+## ligji-70-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e huamarrjes prej 139 300 000 SDR-sh që Fondi Monetar Ndërkombëtar i akordon Shqipërisë nëpërmjet instrumentit të financimit të shpejtë (RFI)” | [`ligji-70-2020/`](ligji-70-2020/) | in force | 1 | 2020-07-03 | 2020-07-03 |
+
+## ligji-70-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Federale të Gjermanisë për bashkëpunim financiar 2018 për projektin “Programi i investimeve për zhvillim të integruar rajonal” | [`ligji-70-2021/`](ligji-70-2021/) | in force | 1 | 2021-06-30 | 2021-06-30 |
+
+## ligji-70-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për financimin shtesë për projektin e zhvillimit të integruar urban dhe turizmin | [`ligji-70-2022/`](ligji-70-2022/) | in force | 1 | 2022-11-15 | 2022-11-15 |
+
+## ligji-70-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Malit të Zi për sigurimet shoqërore | [`ligji-70-2023/`](ligji-70-2023/) | in force | 1 | 2023-10-25 | 2023-10-25 |
+
+## ligji-70-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së grantit ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Investime për projektin “Infrastruktura hekurudhore e Korridorit VIII, Faza I - Shqipëri” | [`ligji-70-2025/`](ligji-70-2025/) | in force | 1 | 2026-01-07 | 2026-01-07 |
+
+## ligji-70-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Federale të Gjermanisë për bashkëpunim teknik 2025 | [`ligji-70-2026/`](ligji-70-2026/) | in force | 1 | 2026-08-20 | 2026-08-20 |
+
+## ligji-71-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për projektin “Mirëmbajtje dhe siguri rrugore bazuar në rezultate” | [`ligji-71-2015/`](ligji-71-2015/) | in force | 1 | 2015-08-04 | 2015-08-04 |
+
+## ligji-71-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Korporatën e Investimeve Shqiptare | [`ligji-71-2019/`](ligji-71-2019/) | in force | 1 | 2019-10-17 | 2019-10-17 |
+
+## ligji-71-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në protokollin e dytë shtesë të Konventës për Krimin Kibernetik mbi Bashkëpunimin e Zgjeruar dhe Zbulimin e Provave Elektronike | [`ligji-71-2022/`](ligji-71-2022/) | in force | 1 | 2022-11-16 | 2022-11-16 |
+
+## ligji-71-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në marrëveshjen e pjesshme të zgjeruar (EPA) për themelimin e regjistrit të dëmeve të shkaktuara nga agresioni i Federatës Ruse kundër Ukrainës” | [`ligji-71-2023/`](ligji-71-2023/) | in force | 1 | 2023-10-25 | 2023-10-25 |
+
+## ligji-71-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Republikës së Maqedonisë së Veriut, përfaqësuar nga Sekretariati për Çështjet Evropiane, dhe Komisionit Evropian, për programin IPA të bashkëpunimit ndërkufitar Maqedonia e Veriut - Shqipëri 2021-2027 | [`ligji-71-2024/`](ligji-71-2024/) | in force | 1 | 2024-08-20 | 2024-08-20 |
+
+## ligji-71-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës financiare ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Investime për projektin “Infrastruktura hekurudhore e Korridorit VIII, faza I - Shqipëri” | [`ligji-71-2025/`](ligji-71-2025/) | in force | 1 | 2026-01-07 | 2026-01-07 |
+
+## ligji-71-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim për hekurudhat shqiptare - rehabilitimi i hekurudhës Tiranë - Durrës dhe ndërtimi i lidhjes hekurudhore me Aeroportin Ndërkombëtar të Tiranës: zgjerimi i projektit | [`ligji-71-2026/`](ligji-71-2026/) | in force | 1 | 2026-08-15 | 2026-08-15 |
+
+## ligji-72-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përdorimin e armëve të zjarrit | [`ligji-72-2014/`](ligji-72-2014/) | in force | 1 | 2014-08-23 | 2014-08-23 |
+
+## ligji-72-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet qeverisë së republikës së shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës për shkëmbimin e informacionit për verifikimin e terrorizmit | [`ligji-72-2016/`](ligji-72-2016/) | in force | 1 | 2016-08-06 | 2016-08-06 |
+
+## ligji-72-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin 2005 të konventës për ndalimin e akteve të paligjshme kundër sigurisë së lundrimit detar, aderuar me ligjin nr. 8850/2001, dhe protokollin 2005 të protokollit për ndalimin e akteve të paligjshme kundër sigurisë së platformave fikse në shelfin kontinental, aderuar me ligjin nr. 8850/2001 | [`ligji-72-2018/`](ligji-72-2018/) | in force | 1 | 2018-11-30 | 2018-11-30 |
+
+## ligji-72-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për emërtimin e instrumentit ”Eurobond” nga Ministri i Financave dhe Ekonomisë, miratimin e përjashtimeve nga tatimet dhe heqjen dorë nga imuniteti | [`ligji-72-2020/`](ligji-72-2020/) | in force | 1 | 2020-06-05 | 2020-06-05 |
+
+## ligji-72-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e rezolutës nr. 463 (2022) të Bordit Drejtues të CEB, “Rritja e kapitalit të Bankës për Zhvillim të Këshillit të Evropës (CEB) | [`ligji-72-2023/`](ligji-72-2023/) | in force | 1 | 2023-10-20 | 2023-10-20 |
+
+## ligji-72-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Republikës së Francës dhe Komisionit Evropian për programin e bashkëpunimit (Interreg VI-C) URBACT IV 2021-2027 | [`ligji-72-2024/`](ligji-72-2024/) | in force | 1 | 2024-08-20 | 2024-08-20 |
+
+## ligji-72-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim, për projektin “Korridori hekurudhor VIII, faza I - seksioni Durrës - Rrogozhinë” | [`ligji-72-2025/`](ligji-72-2025/) | in force | 1 | 2026-01-07 | 2026-01-07 |
+
+## ligji-72-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës për Byronë e Konferencës Evropiane të Aviacionit Civil, bërë në Bernë më 30 gusht 2025 | [`ligji-72-2026/`](ligji-72-2026/) | in force | 1 | 2026-08-15 | 2026-08-15 |
+
+## ligji-73-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese nr. 2 në marrëveshjen e huas ndërmjet republikës së shqipërisë dhe bankës europiane për rindërtim dhe zhvillim (berzh) për financimin e projektit të ndërtimit të rrugës levan - vlorë | [`ligji-73-2012/`](ligji-73-2012/) | in force | 1 | 2012-08-07 | 2012-08-07 |
+
+## ligji-73-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e shtesës së marrëveshjes së koncesionit ndërmjet ministrisë së energjisë dhe industrisë, si autoritet kontraktues, dhe nesko metal san.tic.a.ş, si koncesionari, për disa objekte të industrisë së bakrit dhe të kromit | [`ligji-73-2017/`](ligji-73-2017/) | in force | 1 | 2017-06-17 | 2017-06-17 |
+
+## ligji-73-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë, qeverisë së republikës së kosovës dhe komisionit evropian për programin e veprimit të bashkëpunimit ndërkufitar ipa ii, shqipëri-kosovë 2014-2020, alokimet për vitin 2016 | [`ligji-73-2018/`](ligji-73-2018/) | in force | 1 | 2018-12-01 | 2018-12-01 |
+
+## ligji-73-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes Istisna’a dhe të marrëveshjes ndryshuese të marrëveshjes së Agjencisë Istisna’a ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Islamike për Zhvillim për ndërtimin e segmentit Qukës-Qafë Plloçë, si pjesë e korridorit rrugor Tiranë-Korçë, ratifikuar me ligjin nr. 128/2013 | [`ligji-73-2022/`](ligji-73-2022/) | in force | 1 | 2022-12-28 | 2022-12-28 |
+
+## ligji-73-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Sllovakisë për eliminimin e tatimit të dyfishtë në lidhje me tatimet mbi të ardhurat dhe parandalimin dhe shmangien e evazionit tatimor” | [`ligji-73-2023/`](ligji-73-2023/) | in force | 1 | 2023-10-20 | 2023-10-20 |
+
+## ligji-73-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Republikës së Italisë, përfaqësuar nga Rajoni i Emilia-Romagna-s, dhe Komisionit Evropian, për programin Interreg (Interreg VI-B) IPA Adriatik - Jon | [`ligji-73-2024/`](ligji-73-2024/) | in force | 1 | 2024-08-24 | 2024-08-24 |
+
+## ligji-73-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së garancisë ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim (BERZH) për marrëveshjen e huas ndërmjet Korporatës Elektroenergjetike Shqiptare, sh.a., (KESH, sh.a.) dhe Bankës Evropiane për Rindërtim dhe Zhvillim (BERZH) për projektin fotovoltaik (FV) solar nga KESH-i | [`ligji-73-2025/`](ligji-73-2025/) | in force | 1 | 2026-01-08 | 2026-01-08 |
+
+## ligji-74-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave, (përfituesi), dhe kfw frankfurt am main, (kfw), për programin e menaxhimit të mbetjeve të ngurta, masat shoqëruese (rajoni vlorë) | [`ligji-74-2017/`](ligji-74-2017/) | in force | 1 | 2017-06-06 | 2017-06-06 |
+
+## ligji-74-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për hedhjen në treg dhe mbikëqyrjen e lëndëve plasëse për përdorim civil | [`ligji-74-2021/`](ligji-74-2021/) | in force | 1 | 2021-10-06 | 2021-10-06 |
+
+## ligji-74-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të vitit 2021 | [`ligji-74-2022/`](ligji-74-2022/) | in force | 1 | 2022-12-30 | 2022-12-30 |
+
+## ligji-74-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunimin teknik 2022 për projektin “Ekonomia qarkulluese për zhvillimin e qëndrueshëm urban në Shqipëri” | [`ligji-74-2023/`](ligji-74-2023/) | in force | 1 | 2023-10-18 | 2023-10-18 |
+
+## ligji-74-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në marrëveshjen për themelimin e Organizatës Ndërkombëtare të Vreshtarisë dhe Verës (OIV) | [`ligji-74-2024/`](ligji-74-2024/) | in force | 1 | 2024-08-20 | 2024-08-20 |
+
+## ligji-74-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përgjegjësitë e zgjeruara të subjekteve prodhuese të produkteve që gjenerojnë mbetje | [`ligji-74-2025/`](ligji-74-2025/) | in force | 1 | 2026-01-13 | 2026-01-13 |
+
+## ligji-75-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e akteve dhe të dokumenteve të kongresit të 24-t të bashkimit postar të përbotshëm (upu), gjenevë, 2008 | [`ligji-75-2012/`](ligji-75-2012/) | in force | 1 | 2012-09-11 | 2012-09-11 |
+
+## ligji-75-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit Europian për pjesëmarrjen e Shqipërisë në programin e Bashkimit Europian për punësimin dhe inovacionin social (EASI) | [`ligji-75-2015/`](ligji-75-2015/) | in force | 1 | 2015-08-13 | 2015-08-13 |
+
+## ligji-75-2016 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së parisit, në kuadër të konventës kuadër të kombeve të bashkuara, për ndryshimet klimatike | [`ligji-75-2016/`](ligji-75-2016/) | amending act | 1 | 2016-08-20 | 2016-08-20 |
+
+## ligji-75-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave, (përfituesi), dhe kfw frankfurt am main, (kfw), për programin e menaxhimit të mbetjeve të ngurta, rajoni vlorë (kësti ii) | [`ligji-75-2017/`](ligji-75-2017/) | in force | 1 | 2017-06-06 | 2017-06-06 |
+
+## ligji-75-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Republikës Helene dhe Komisionit Evropian për programin e bashkëpunimit ndërkufitar (Interreg VI-A) IPA Greqi-Shqipëri 2021-2027 | [`ligji-75-2024/`](ligji-75-2024/) | in force | 1 | 2024-08-22 | 2024-08-22 |
+
+## ligji-7531-1991 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës për të drejtat e fëmijës | [`ligji-7531-1991/`](ligji-7531-1991/) | in force | 1 | 2013-11-20 | 2013-11-20 |
+
+## ligji-76-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes për statusin ligjor të qendrës rajonale të mjedisit për europën qendrore dhe lindore | [`ligji-76-2012/`](ligji-76-2012/) | in force | 1 | 2012-09-06 | 2012-09-06 |
+
+## ligji-76-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me shkëmbim notash ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për projektin “shërbimet e furnizimit me ujë dhe kanalizimeve të orientuara drejt konsumatorit dhe performancës” | [`ligji-76-2017/`](ligji-76-2017/) | in force | 1 | 2017-06-06 | 2017-06-06 |
+
+## ligji-76-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së malit të zi për hapjen e pikës së përbashkët të kalimit kufitar zogaj (republika e shqipërisë)- skje (mali i zi), për qarkullimin ndërkombëtar rrugor dhe të pasagjerëve në liqenin e shkodrës | [`ligji-76-2018/`](ligji-76-2018/) | in force | 1 | 2018-12-01 | 2018-12-01 |
+
+## ligji-76-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Komisionin Ndërkombëtar për Eksplorimin Shkencor në Detin Mesdhe | [`ligji-76-2019/`](ligji-76-2019/) | in force | 1 | 2019-12-03 | 2019-12-03 |
+
+## ligji-76-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për fondet e pensionit privat | [`ligji-76-2023/`](ligji-76-2023/) | in force | 1 | 2023-09-21 | 2023-09-21 |
+
+## ligji-76-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për grupimet ekonomike me interes evropian | [`ligji-76-2026/`](ligji-76-2026/) | in force | 1 | 2026-07-23 | 2026-07-23 |
+
+## ligji-77-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përcaktimin e procedurës së veçantë për negocimin dhe lidhjen e kontratës ndërmjet shtetit shqiptar dhe kompanisë “star bridge port developments limited”, me objekt projektimin, ndërtimin, operimin, mirëmbajtjen dhe menaxhimin e portit të karpenit, zonës mbështetëse të portit dhe asaj ekonomike | [`ligji-77-2016/`](ligji-77-2016/) | in force | 1 | 2016-08-31 | 2016-08-31 |
+
+## ligji-77-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe agjencisë së bashkimit evropian për bashkëpunimin e zbatimit të ligjit, mbi vendosjen e oficerit ndërlidhës të europolit | [`ligji-77-2018/`](ligji-77-2018/) | in force | 1 | 2018-12-01 | 2018-12-01 |
+
+## ligji-77-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës Ndërkombëtare për Luftën kundër Falsifikimit të Monedhës | [`ligji-77-2019/`](ligji-77-2019/) | in force | 1 | 2019-12-17 | 2019-12-17 |
+
+## ligji-77-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e rezolutës nr. 265, “Rritja e fondit të kapitalit të autorizuar dhe regjistrimi/nënshkrimi në të”, të vitit 2023, të Bordit të Guvernatorëve të Bankës Evropiane për Rindërtim dhe Zhvillim (BERZH) | [`ligji-77-2024/`](ligji-77-2024/) | in force | 1 | 2024-08-20 | 2024-08-20 |
+
+## ligji-77-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Shoqëritë Evropiane të Bashkëpunimit (SHEB) | [`ligji-77-2026/`](ligji-77-2026/) | in force | 1 | 2026-07-23 | 2026-07-23 |
+
+## ligji-78-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për organizimin dhe funksionimin e qendrës së botimeve zyrtare | [`ligji-78-2014/`](ligji-78-2014/) | in force | 1 | 2014-08-23 | 2014-08-23 |
+
+## ligji-78-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së shërbimit këshillimor financiar ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Shëndetësisë, dhe Korporatës Financiare Ndërkombëtare | [`ligji-78-2015/`](ligji-78-2015/) | in force | 1 | 2015-08-13 | 2015-08-13 |
+
+## ligji-78-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për zhvillimin dhe pjesëmarrjen e forcave ushtarake të britanisë së madhe në stërvitjen e përbashkët “albanian lion 2016” | [`ligji-78-2016/`](ligji-78-2016/) | in force | 1 | 2016-08-20 | 2016-08-20 |
+
+## ligji-78-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me shkëmbim notash ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunim teknik për projektin “fondi për studime dhe ekspertë” | [`ligji-78-2017/`](ligji-78-2017/) | in force | 1 | 2017-06-06 | 2017-06-06 |
+
+## ligji-78-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë, republikës së malit të zi dhe komisionit evropian, për programin e veprimit të bashkëpunimit ndërkufitar ipa ii, mali i zi-shqipëri, alokimet e vitit 2016 | [`ligji-78-2018/`](ligji-78-2018/) | in force | 1 | 2018-12-04 | 2018-12-04 |
+
+## ligji-78-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Konfederatës Zvicerane për projektin “Aftësi për punë”, faza 2, 2019-2023 | [`ligji-78-2021/`](ligji-78-2021/) | in force | 1 | 2021-07-21 | 2021-07-21 |
+
+## ligji-78-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Moldavisë për bashkëpunimin policor | [`ligji-78-2024/`](ligji-78-2024/) | in force | 1 | 2024-08-22 | 2024-08-22 |
+
+## ligji-78-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për statutin e shoqërisë evropiane (SE) | [`ligji-78-2026/`](ligji-78-2026/) | in force | 1 | 2026-08-21 | 2026-08-21 |
+
+## ligji-79-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes kuadër të huas ndërmjet Këshillit të Ministrave, që përfaqëson Republikën e Shqipërisë, dhe Bankës për Zhvillim të Këshillit të Europës për projektin e rehabilitimit të spitalit rajonal të Shkodrës, faza e tretë | [`ligji-79-2015/`](ligji-79-2015/) | in force | 1 | 2015-08-13 | 2015-08-13 |
+
+## ligji-79-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e shtesës së marrëveshjes së koncesionit ndërmjet ministrisë së energjisë dhe industrisë, si autoritet kontraktues, dhe acr holding, s.r.l., si koncesionari, për rehabilitimin, operimin dhe transferimin e minierës së kromit, bulqizë, të fabrikës së pasurimit, bulqizë, të impiantit të seleksionimit, klos dhe të uzinës së ferrokromit, burrel | [`ligji-79-2016/`](ligji-79-2016/) | in force | 1 | 2016-08-20 | 2016-08-20 |
+
+## ligji-79-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ekzekutimin e vendimeve penale | [`ligji-79-2020/`](ligji-79-2020/) | in force | 1 | 2020-08-05 | 2020-08-05 |
+
+## ligji-79-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e marrëveshjes kuadër ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Eagle Hills Real Estate Development, Albanian Seaports Development Company, sh.a. dhe NSHMI Development L.L.C., në lidhje me projektin e investimit strategjik ”Marina & Jahtet e Durrësit” | [`ligji-79-2022/`](ligji-79-2022/) | in force | 1 | 2023-01-06 | 2023-01-06 |
+
+## ligji-79-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Gjeorgjisë për shkëmbimin dhe mbrojtjen e ndërsjellë të informacionit të klasifikuar | [`ligji-79-2024/`](ligji-79-2024/) | in force | 1 | 2024-08-21 | 2024-08-21 |
+
+## ligji-79-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për mbylljen e shoqërive tregtare me kapital shtetëror në likuidim | [`ligji-79-2026/`](ligji-79-2026/) | in force | 1 | 2026-08-20 | 2026-08-20 |
+
+## ligji-8-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës europiane për rindërtim dhe zhvillim (berzh) për financimin e projektit të bypass-eve të rrugës së fierit dhe vlorës | [`ligji-8-2012/`](ligji-8-2012/) | in force | 1 | 2012-03-15 | 2012-03-15 |
+
+## ligji-8-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe republikës së kosovës për statusin e anëtarëve të forcave të armatosura të republikës së shqipërisë dhe të forcës së sigurisë së republikës së kosovës, gjatë qëndrimit të tyre të përkohshëm në territorin e shteteve përkatëse | [`ligji-8-2014/`](ligji-8-2014/) | in force | 1 | 2014-04-19 | 2014-04-19 |
+
+## ligji-8-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për statusin e punonjësve të industrisë së naftës dhe të gazit | [`ligji-8-2017/`](ligji-8-2017/) | in force | 1 | 2017-03-10 | 2017-03-10 |
+
+## ligji-8-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e traktatit që themelon komunitetin e transportit | [`ligji-8-2018/`](ligji-8-2018/) | in force | 1 | 2018-03-31 | 2018-03-31 |
+
+## ligji-8-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për skemat e cilësisë së produkteve bujqësore dhe ushqimore | [`ligji-8-2019/`](ligji-8-2019/) | in force | 1 | 2019-04-02 | 2019-04-02 |
+
+## ligji-8-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Maqedonisë së Veriut, për themelimin e qendrave kulturore dhe informative në Republikën e Shqipërisë dhe të qendrave kulturore dhe informative në Republikën e Maqedonisë së Veriut | [`ligji-8-2020/`](ligji-8-2020/) | in force | 1 | 2020-03-04 | 2020-03-04 |
+
+## ligji-8-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për organizimin dhe funksionimin e Shërbimit Përmbarimor Gjyqësor Shtetëror | [`ligji-8-2023/`](ligji-8-2023/) | in force | 1 | 2023-03-15 | 2023-03-15 |
+
+## ligji-8-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, Republikës së Italisë dhe Komisionit Evropian, i cili përfaqëson Bashkimin Evropian, për programin e bashkëpunimit (Interreg VI-A) IPA Itali-Shqipëri-Mali i Zi (Adriatiku Jugor,) 2021-2027 | [`ligji-8-2024/`](ligji-8-2024/) | in force | 1 | 2024-03-15 | 2024-03-15 |
+
+## ligji-80-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës financiare ndërmjet republikës së shqipërisë dhe bankës europiane të investimeve (bei) për projektin e ndërtimit të bypass -it të fierit | [`ligji-80-2012/`](ligji-80-2012/) | in force | 1 | 2012-10-17 | 2012-10-17 |
+
+## ligji-80-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e shtesës së marrëveshjes së koncesionit ndërmjet ministrisë së energjisë dhe industrisë, si autoritet kontraktues, dhe acr holding, s.r.l., si koncesionari, për ndërtimin, operimin dhe transferimin e uzinës së ferrokromit në elbasan dhe për minierat e kromit të përrenjasit e pojskës | [`ligji-80-2016/`](ligji-80-2016/) | in force | 1 | 2016-08-20 | 2016-08-20 |
+
+## ligji-80-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës për bashkëfinancimin e projektit madhor në albanologji ”Enciklopedia shqiptare” | [`ligji-80-2022/`](ligji-80-2022/) | in force | 1 | 2023-01-04 | 2023-01-04 |
+
+## ligji-80-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për projektin “Ndërtimi i urave të qëndrueshme duke përdorur qasjen e programit me shumë faza | [`ligji-80-2023/`](ligji-80-2023/) | in force | 1 | 2023-11-15 | 2023-11-15 |
+
+## ligji-80-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës financiare ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane të Investimeve për linjën hekurudhore Vorë-Hani i Hotit-Porta Globale | [`ligji-80-2024/`](ligji-80-2024/) | in force | 1 | 2024-08-23 | 2024-08-23 |
+
+## ligji-80-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për kërkesat e transparencës për emetuesit e titujve | [`ligji-80-2026/`](ligji-80-2026/) | in force | 1 | 2026-07-23 | 2026-07-23 |
+
+## ligji-81-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese nr. 2 në kontratën financiare ndërmjet republikës së shqipërisë dhe bankës europiane të investimeve (bei) për financimin e projektit të rrugës fier - tepelenë | [`ligji-81-2012/`](ligji-81-2012/) | in force | 1 | 2012-10-17 | 2012-10-17 |
+
+## ligji-81-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për huan e parë të politikës së zhvillimit për financat publike | [`ligji-81-2014/`](ligji-81-2014/) | in force | 1 | 2014-08-20 | 2014-08-20 |
+
+## ligji-81-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Qeverisë së Republikës së Shqipërisë dhe Qeverisë së Shteteve të Bashkuara të Amerikës për kontrollin e lëndëve narkotike dhe zbatimin e ligjit | [`ligji-81-2015/`](ligji-81-2015/) | in force | 1 | 2015-08-22 | 2015-08-22 |
+
+## ligji-81-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese, me shkëmbim letrash, të marrëveshjes së financimit ndërmjet Republikës së Shqipërisë dhe Komisionit të Bashkimit Evropian në lidhje me Programin Vjetor Kombëtar për Shqipërinë për vitin 2020, në kuadër të Instrumentit të Asistencës së Paraanëtarësimit (IPA II), ratifikuar me ligjin nr. 3/2022 | [`ligji-81-2023/`](ligji-81-2023/) | in force | 1 | 2023-11-15 | 2023-11-15 |
+
+## ligji-82-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për huan e politikës së zhvillimit për modernizimin e sektorit financiar | [`ligji-82-2014/`](ligji-82-2014/) | in force | 1 | 2014-08-20 | 2014-08-20 |
+
+## ligji-82-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunimin financiar 2011, për projektin “Program për sektorin e ujit/program për furnizimin e zonave rurale me ujë, III” | [`ligji-82-2015/`](ligji-82-2015/) | in force | 1 | 2015-08-22 | 2015-08-22 |
+
+## ligji-82-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunim financiar 2011, për projektin “programi i infrastrukturës komunale iii” | [`ligji-82-2017/`](ligji-82-2017/) | in force | 1 | 2017-06-07 | 2017-06-07 |
+
+## ligji-82-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të mirëkuptimit, që ndryshon memorandumin e mirëkuptimit, ndërmjet republikës së shqipërisë dhe bashkimit evropian, për pjesëmarrjen e republikës së shqipërisë në programin e drejtësisë së bashkimit evropian | [`ligji-82-2018/`](ligji-82-2018/) | in force | 1 | 2018-12-20 | 2018-12-20 |
+
+## ligji-82-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në aktin final të konferencës së shteteve anëtare të Konventës Ndërkombëtare “Për standardet e kualifikimit, certifikimit dhe shërbimit për detarët (STCW) 1978” | [`ligji-82-2019/`](ligji-82-2019/) | in force | 1 | 2020-01-10 | 2020-01-10 |
+
+## ligji-82-2020 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit të protokollit II të marrëveshjes së tregtisë së lirë ndërmjet Republikës së Shqipërisë dhe Republikës së Turqisë, të ratifikuar me ligjin nr.9733, datë 14.5.2007, në lidhje me përkufizimin e konceptit “Produkte origjinuese” dhe “Metoda e bashkëpunimit administrativ” | [`ligji-82-2020/`](ligji-82-2020/) | amending act | 1 | 2020-07-30 | 2020-07-30 |
+
+## ligji-83-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunimin financiar 2011, për masën shoqëruese të projektit “Program për sektorin e ujit/program për furnizimin e zonave rurale me ujë, III”l | [`ligji-83-2015/`](ligji-83-2015/) | in force | 1 | 2015-08-22 | 2015-08-22 |
+
+## ligji-83-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E MARRËVESHJES KUADËR NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE FONDIT GLOBAL KUNDËR SIDA-s, TUBERKULOZIT DHE MALARIES | [`ligji-83-2016/`](ligji-83-2016/) | in force | 1 | 2016-08-20 | 2016-08-20 |
+
+## ligji-83-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunim financiar 2012, për projektin “programi i infrastrukturës komunale iv” | [`ligji-83-2017/`](ligji-83-2017/) | in force | 1 | 2017-06-07 | 2017-06-07 |
+
+## ligji-83-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëpunimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit ndërkombëtar për personat e zhdukur (icmp) | [`ligji-83-2018/`](ligji-83-2018/) | in force | 1 | 2018-12-20 | 2018-12-20 |
+
+## ligji-83-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën e ndryshuar të Organizatës Europiane të Telekomunikacioneve Satelitore (EUTELSAT) | [`ligji-83-2020/`](ligji-83-2020/) | in force | 1 | 2020-07-30 | 2020-07-30 |
+
+## ligji-83-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Fondit Saudit për Zhvillim për projektin e rehabilitimit dhe ndërtimit të objekteve në afërsi të rrugës bregdetare (Vlorë-Orikum) | [`ligji-83-2021/`](ligji-83-2021/) | in force | 1 | 2021-08-14 | 2021-08-14 |
+
+## ligji-83-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e Strategjisë Ushtarake të Republikës së Shqipërisë | [`ligji-83-2024/`](ligji-83-2024/) | in force | 1 | 2024-08-27 | 2024-08-27 |
+
+## ligji-84-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së garancisë ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe KfW Frankfurt am Main, në lidhje me marrëveshjen e huas, në shumën 40 milionë euro, ndërmjet Operatorit të Sistemit të Transmetimit sh.a. (OST), dhe KfW, në mbështetje të projektit “Eficienca energjetike - programi për sektorin e transmetimit të energjisë elektrike” | [`ligji-84-2015/`](ligji-84-2015/) | in force | 1 | 2015-08-22 | 2015-08-22 |
+
+## ligji-84-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në republikën e shqipërisë | [`ligji-84-2016/`](ligji-84-2016/) | in force | 1 | 2016-10-08 | 2016-10-08 |
+
+## ligji-84-2017 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit të marrëveshjes financiare ndërmjet këshillit të ministrave të republikës së shqipërisë, të përfaqësuar nga ministria e financave, dhe artigiancassa, s.p.a., për financimin e programit “fuqizimi i qendrës traumatologjike kombëtare të tiranës” | [`ligji-84-2017/`](ligji-84-2017/) | amending act | 1 | 2017-06-07 | 2017-06-07 |
+
+## ligji-84-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar 2017, për projektin “promovimi i ndërmarrjeve të vogla dhe të mesme përmes fondit të garancisë së kredive rurale | [`ligji-84-2018/`](ligji-84-2018/) | in force | 1 | 2018-11-19 | 2018-11-19 |
+
+## ligji-84-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pranimin e vendimit II/1 të palëve, që ndryshon “Konventën e Aarhusit për të drejtën e publikut për të pasur informacion, për të marrë pjesë në vendimmarrje dhe për t’iu drejtuar gjykatës për çështjet e mjedisit”, ratifikuar me ligjin nr.8672, datë 26.10.2000 | [`ligji-84-2020/`](ligji-84-2020/) | in force | 1 | 2020-07-30 | 2020-07-30 |
+
+## ligji-84-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| “Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës Federale të Gjermanisë për bashkëpunim financiar 2019 për projektin “Transport i qëndrueshëm në tiranë (DKTI)” | [`ligji-84-2021/`](ligji-84-2021/) | in force | 1 | 2021-08-14 | 2021-08-14 |
+
+## ligji-84-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë (huamarrësi) dhe Agjencisë Franceze për Zhvillim (huadhënësi) për financimin e projektit “Politika për mbështetjen e reformës në sektorin energjetik në Shqipëri - faza II | [`ligji-84-2023/`](ligji-84-2023/) | in force | 1 | 2023-12-16 | 2023-12-16 |
+
+## ligji-84-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e Planit Afatgjatë të Zhvillimit të Forcave të Armatosura 2024-2033 | [`ligji-84-2024/`](ligji-84-2024/) | in force | 1 | 2024-08-24 | 2024-08-24 |
+
+## ligji-84-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për marrëveshjen e paqes fiskale | [`ligji-84-2025/`](ligji-84-2025/) | in force | 1 | 2026-01-30 | 2026-01-30 |
+
+## ligji-85-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave (huamarrësi) dhe Korporata Elektroenergjetike Shqiptare sh. a. (Agjencia Zbatuese e Projektit), dhe KfW Frankfurt am Main (KfW) për shumën 20 milionë euro, për programin “Energji ujore dhe siguria e digave në kaskadën e Drinit” | [`ligji-85-2015/`](ligji-85-2015/) | in force | 1 | 2015-09-03 | 2015-09-03 |
+
+## ligji-85-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit (seco ii) ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave, “përfituesi”, dhe kfw frankfurt am main, “kfw”, për financimin e programit të infrastrukturës bashkiake iii/iv, furnizimi me ujë dhe kanalizime për qytetet e beratit, kuçovës, delvinës, gjirokastrës, kamzës, librazhdit dhe lushnjës | [`ligji-85-2017/`](ligji-85-2017/) | in force | 1 | 2017-06-07 | 2017-06-07 |
+
+## ligji-85-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes me vendin pritës ndërmjet republikës së shqipërisë dhe zyrës rajonale për bashkëpunim rinor | [`ligji-85-2018/`](ligji-85-2018/) | in force | 1 | 2018-12-20 | 2018-12-20 |
+
+## ligji-85-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për rivlerësimin e pasurisë së paluajtshme | [`ligji-85-2025/`](ligji-85-2025/) | in force | 1 | 2026-01-22 | 2026-01-22 |
+
+## ligji-8569-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën ndërkombëtare për standardet e kualifikimit, atestimit dhe të shërbimit për detarët”, të vitit 1995 | [`ligji-8569-2000/`](ligji-8569-2000/) | in force | 1 | 2000-01-20 | 2000-01-20 |
+
+## ligji-8573-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes “umbrella” për kuadrin institucional të krijimit të sistemeve ndërshtetërore të transportimit të naftës dhe të gazit” | [`ligji-8573-2000/`](ligji-8573-2000/) | in force | 1 | 2000-02-03 | 2000-02-03 |
+
+## ligji-8574-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës së shqipërisë dhe këshillit federal të zvicrës për statusin e personelit zvicerian që do të angazhohet në shkatërrimin e mbetjeve toksike të magazinuara në depot e ushtrisë shqiptare” | [`ligji-8574-2000/`](ligji-8574-2000/) | in force | 1 | 2000-02-03 | 2000-02-03 |
+
+## ligji-8579-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare për mbrojtjen e artistëve interpretues dhe ekzekutues, të prodhuesve të fonogramave dhe të organizmave të radiodifuzionit | [`ligji-8579-2000/`](ligji-8579-2000/) | in force | 1 | 2000-04-20 | 2000-04-20 |
+
+## ligji-8585-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën “për mbrojtjen e prodhuesve të fonogrameve kundër riprodhimit të paautorizuar të tyre” | [`ligji-8585-2000/`](ligji-8585-2000/) | in force | 1 | 2000-04-27 | 2000-04-27 |
+
+## ligji-8589-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë të zhvillimit ndërmjet republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për projektin e emergjencës për riparimin e rrugëve” | [`ligji-8589-2000/`](ligji-8589-2000/) | in force | 1 | 2000-04-20 | 2000-04-20 |
+
+## ligji-8590-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e “marrëveshjes së koncensionit të formës “bot” për uzinën e ferrokromit në elbasan dhe për minierat e kromit të prrenjasit e pojskës, ndërmjet ministrisë së ekonomisë publike dhe privatizimit dhe shoqërisë italiane darfo s.p.a.” dhe dhënien e disa stimujve dhe garancive për koncensionarin e kësaj marrëveshjeje | [`ligji-8590-2000/`](ligji-8590-2000/) | in force | 1 | 2000-04-27 | 2000-04-27 |
+
+## ligji-8592-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për emetimin e bonove të thesarit me terma e kushte tregtare | [`ligji-8592-2000/`](ligji-8592-2000/) | in force | 1 | 2000-05-12 | 2000-05-12 |
+
+## ligji-8593-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për financim programi (programi i zhvillimit të zonave malore) ndërmjet republikës së shqipërisë dhe fondit ndërkombëtar për zhvillim bujqësor” | [`ligji-8593-2000/`](ligji-8593-2000/) | in force | 1 | 2000-05-12 | 2000-05-12 |
+
+## ligji-8596-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për sigurimin e personelit të kombeve të bashkuara dhe atij shoqërues” | [`ligji-8596-2000/`](ligji-8596-2000/) | in force | 1 | 2000-05-12 | 2000-05-12 |
+
+## ligji-8597-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës për shmangien e tatimeve të dyfishta, për tatimet mbi të ardhurat dhe kapitalin, ndërmjet republikës së shqipërisë dhe konfederatës zvicerane” | [`ligji-8597-2000/`](ligji-8597-2000/) | in force | 1 | 2000-05-12 | 2000-05-12 |
+
+## ligji-8598-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe agjencisë federale gjermane, thw, për ndihmë teknike” | [`ligji-8598-2000/`](ligji-8598-2000/) | in force | 1 | 2000-05-12 | 2000-05-12 |
+
+## ligji-86-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit opsional të konventës për të drejtat e fëmijës “Për procedurën e komunikimit” | [`ligji-86-2013/`](ligji-86-2013/) | in force | 1 | 2013-03-15 | 2013-03-15 |
+
+## ligji-86-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunimin financiar 2010, për projektin “Rifinancimi i ndërmarrjeve të vogla dhe të mesme në zonat urbane dhe rurale, faza e dytë” | [`ligji-86-2015/`](ligji-86-2015/) | in force | 1 | 2015-08-22 | 2015-08-22 |
+
+## ligji-86-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Transportit dhe Infrastrukturës, dhe Qeverisë së Republikës ItaliANE, të përfaqësuar nga Ministria e Punëve të Jashtme dhe Bashkëpunimit Ndërkombëtar, për realizimin e Programit për Përgatitjen e Studimeve të fizibilitetit dhe projektimit në nivel përfundimtar, si dhe studimin e impaktit mjedisor në sektorin e infrastrukturave | [`ligji-86-2016/`](ligji-86-2016/) | in force | 1 | 2016-10-08 | 2016-10-08 |
+
+## ligji-86-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit (ii) ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave, “përfituesi”, dhe kfw frankfurt am main, “kfw”, për financimin e masave shoqëruese për programin e infrastrukturës bashkiake iii/iv, furnizimi me ujë dhe kanalizime për vendndodhjet e projekteve berat - kuçovë, delvinë, gjirokastër, kamëz, librazhd dhe lushnjë | [`ligji-86-2017/`](ligji-86-2017/) | in force | 1 | 2017-06-07 | 2017-06-07 |
+
+## ligji-86-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për vreshtarinë dhe verën | [`ligji-86-2022/`](ligji-86-2022/) | in force | 1 | 2023-01-31 | 2023-01-31 |
+
+## ligji-86-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë (huamarrësi), përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt am Main (KfW) për financimin e projektit “Politika për mbështetjen e reformës në sektorin energjetik në Shqipëri” - faza II | [`ligji-86-2023/`](ligji-86-2023/) | in force | 1 | 2023-12-16 | 2023-12-16 |
+
+## ligji-86-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Universitetit Kombëtar të Arsimit në Distancë (UNED) për hapjen e Universitetit Kombëtar të Arsimit në Distancë, kampusi në Gjirokastër | [`ligji-86-2024/`](ligji-86-2024/) | in force | 1 | 2024-08-22 | 2024-08-22 |
+
+## ligji-86-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për fshirjen, shuarjen dhe pagesën e detyrimeve tatimore ndaj administratës tatimore qendrore e vendore dhe e detyrimeve të pagueshme në doganë | [`ligji-86-2025/`](ligji-86-2025/) | in force | 1 | 2026-01-30 | 2026-01-30 |
+
+## ligji-8603-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë ndërmjet republikës së shqipërisë dhe kfw-së për projektin “ndihmë në mallra viii”” | [`ligji-8603-2000/`](ligji-8603-2000/) | in force | 1 | 2000-05-24 | 2000-05-24 |
+
+## ligji-8604-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dhënien e disa stimujve dhe të garancive për koncensionarin, në kontratën e koncensionit të formës “roo” të uzinës së superfosfatit në laç | [`ligji-8604-2000/`](ligji-8604-2000/) | in force | 1 | 2000-05-24 | 2000-05-24 |
+
+## ligji-8608-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe kishës katolike në shqipëri për ndërtimin dhe administrimin e spitalit “zonja e këshillit të mirë”” | [`ligji-8608-2000/`](ligji-8608-2000/) | in force | 1 | 2000-06-03 | 2000-06-03 |
+
+## ligji-8611-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë dhe fondit të opec- ut për zhvillim ndërkombëtar, për financimin e projektit “ndërtimi dhe rehabilitimi i shkollave”” | [`ligji-8611-2000/`](ligji-8611-2000/) | in force | 1 | 2000-06-21 | 2000-06-21 |
+
+## ligji-8612-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe këshillit federal zviceran për ripranimin e personave në situatë të parregullt, të memorandumit të mirëkuptimit lidhur me të, si dhe të protokollit për zbatimin e saj” | [`ligji-8612-2000/`](ligji-8612-2000/) | in force | 1 | 2000-06-21 | 2000-06-21 |
+
+## ligji-8614-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe unesco-s “për edukimin ndërkulturor dhe edukimin për të drejtat e njeriut në shqipëri”” | [`ligji-8614-2000/`](ligji-8614-2000/) | in force | 1 | 2000-07-06 | 2000-07-06 |
+
+## ligji-8617-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përjashtimin nga shërbimi i detyrueshëm ushtarak të shtetasve shqiptarë - ushtarë, në periudhën 27 shkurt - 28 mars 1997 | [`ligji-8617-2000/`](ligji-8617-2000/) | in force | 1 | 2000-07-06 | 2000-07-06 |
+
+## ligji-8619-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës financiare ndërmjet qeverisë së republikës të shqipërisë dhe mediocredito centrale (itali) për financimin e përbërësve të asistencës teknike për ndërmarrjen e ujërave dhe të ndërhyrjeve infrastrukturore të rrjetit hidrik, në kuadër të projektit të rehabilitimit të rrjetit hidrik të tiranës” | [`ligji-8619-2000/`](ligji-8619-2000/) | in force | 1 | 2000-07-04 | 2000-07-04 |
+
+## ligji-8620-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës financiare ndërmjet qeverisë së republikës të shqipërisë dhe mediocredito centrale (itali) për financimin e përbërësit të ndërhyrjes urgjente në rrjetin hidrik, në kuadër të projektit të rehabilitimit të rrjetit hidrik të tiranës” | [`ligji-8620-2000/`](ligji-8620-2000/) | in force | 1 | 2000-07-04 | 2000-07-04 |
+
+## ligji-8621-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës financiare ndërmjet qeverisë së republikës të shqipërisë dhe mediocredito centrale (itali) për “programin e ndihmës për të mbështetur sektorët ekonomikë”” | [`ligji-8621-2000/`](ligji-8621-2000/) | in force | 1 | 2000-07-04 | 2000-07-04 |
+
+## ligji-8622-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet qeverisë së republikës të shqipërisë dhe eksportfinans-ës (asa)” | [`ligji-8622-2000/`](ligji-8622-2000/) | in force | 1 | 2000-07-04 | 2000-07-04 |
+
+## ligji-8623-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës të hungarisë për bashkëpunimin në luftën kundër terrorizmit, trafikut të drogës dhe krimit të organizuar | [`ligji-8623-2000/`](ligji-8623-2000/) | in force | 1 | 2000-07-26 | 2000-07-26 |
+
+## ligji-8624-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin në “konventën e hagës”, “për mbrojtjen e fëmijëve dhe bashkëpunimin për birësimet jashtë vendit”” | [`ligji-8624-2000/`](ligji-8624-2000/) | in force | 1 | 2000-07-26 | 2000-07-26 |
+
+## ligji-8625-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për caktimin e “ditës së triumfit të paqes” | [`ligji-8625-2000/`](ligji-8625-2000/) | in force | 1 | 2000-07-26 | 2000-07-26 |
+
+## ligji-8627-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës federale të gjermanisë për shtesën e financimit për projektin “mbështetje për hedhjen e bazave të veprimtarisë sipërmarrëse”” | [`ligji-8627-2000/`](ligji-8627-2000/) | in force | 1 | 2000-08-02 | 2000-08-02 |
+
+## ligji-8628-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë, të financimit dhe projektit ndërmjet republikës së shqipërisë, përmes ndërmarrjes së ujësjellës-kanalizimeve, të pogradecit dhe kfw-së për financimin e projektit “ruajtja e mjedisit të liqenit të ohrit dhe e ujësjellësit të pogradecit”” | [`ligji-8628-2000/`](ligji-8628-2000/) | in force | 1 | 2000-08-02 | 2000-08-02 |
+
+## ligji-8629-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë të zhvillimit për projektin e “rehabilitimit urgjent të furnizimit me ujë” ndërmjet republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida)” | [`ligji-8629-2000/`](ligji-8629-2000/) | in force | 1 | 2000-08-02 | 2000-08-02 |
+
+## ligji-8631-2000 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “amendamentit të marrëveshjes dypalëshe “për riskedulimin e detyrimeve të borxhit të jashtëm të republikës së shqipërisë ndaj kreditorëve hollandezë”” | [`ligji-8631-2000/`](ligji-8631-2000/) | amending act | 1 | 2000-07-28 | 2000-07-28 |
+
+## ligji-8632-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë të zhvillimit ndërmjet republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për projektin e reformës në administratën publike” | [`ligji-8632-2000/`](ligji-8632-2000/) | in force | 1 | 2000-07-28 | 2000-07-28 |
+
+## ligji-8633-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë për zhvillim “projekti i reformës ligjore dhe gjyqësore” ndërmjet republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida)” | [`ligji-8633-2000/`](ligji-8633-2000/) | in force | 1 | 2000-07-22 | 2000-07-22 |
+
+## ligji-8634-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e “marrëveshjes së shitjes të aksioneve të shoqërisë anonime “banka kombëtare tregtare” ndërmjet republikës së shqipërisë dhe kent bank, koorporatës ndërkombëtare financiare (ifc) dhe bankës europiane për rindërtim dhe zhvillim (berzh)” | [`ligji-8634-2000/`](ligji-8634-2000/) | in force | 1 | 2000-07-28 | 2000-07-28 |
+
+## ligji-8635-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës civile “për korrupsionin” | [`ligji-8635-2000/`](ligji-8635-2000/) | in force | 1 | 2000-08-03 | 2000-08-03 |
+
+## ligji-8638-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin në “protokollin e vilniusit të 3 qershorit 1999, që përmban modifikimin e “konventës për transportet ndërkombëtare hekurudhore (cotif), të 9 majit 1980”” | [`ligji-8638-2000/`](ligji-8638-2000/) | in force | 1 | 2000-08-03 | 2000-08-03 |
+
+## ligji-8639-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “kartës për organizimin dhe funksionimin e qendrës rajonale të iniciativës së bashkëpunimit për europën juglindore (qendra seci) për luftën kundër krimit ndërkufitar” | [`ligji-8639-2000/`](ligji-8639-2000/) | in force | 1 | 2000-08-03 | 2000-08-03 |
+
+## ligji-8640-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit të dytë shtesë të marrëveshjes për krijimin e forcës shumëkombëshe të paqes të europës juglindore” | [`ligji-8640-2000/`](ligji-8640-2000/) | in force | 1 | 2000-08-03 | 2000-08-03 |
+
+## ligji-8641-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit vi të “konventës europiane për mbrojtjen e të drejtave të njeriut dhe lirive themelore”” | [`ligji-8641-2000/`](ligji-8641-2000/) | in force | 1 | 2000-08-03 | 2000-08-03 |
+
+## ligji-8642-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës europiane “për shtypjen e terrorizmit”” | [`ligji-8642-2000/`](ligji-8642-2000/) | in force | 1 | 2000-08-03 | 2000-08-03 |
+
+## ligji-8644-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë të zhvillimit ndërmjet republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për projektin e reformës në arsim” | [`ligji-8644-2000/`](ligji-8644-2000/) | in force | 1 | 2000-08-19 | 2000-08-19 |
+
+## ligji-8645-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë të zhvillimit ndërmjet republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për projektin e asistencës teknike për sektorin financiar” | [`ligji-8645-2000/`](ligji-8645-2000/) | in force | 1 | 2000-08-19 | 2000-08-19 |
+
+## ligji-8646-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës europiane “për pastrimin, depistimin, kapjen dhe konfiskimin e produkteve të krimit”” | [`ligji-8646-2000/`](ligji-8646-2000/) | in force | 1 | 2000-08-19 | 2000-08-19 |
+
+## ligji-8649-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjeve të rezultateve të raundit të uruguait për negociatat shumëpalëshe tregtare” | [`ligji-8649-2000/`](ligji-8649-2000/) | in force | 1 | 2000-08-22 | 2000-08-22 |
+
+## ligji-8654-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për organizimin dhe funksionimin e bashkisë së tiranës | [`ligji-8654-2000/`](ligji-8654-2000/) | in force | 1 | 2000-08-22 | 2000-08-22 |
+
+## ligji-8658-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e aktit normativ, me fuqinë e ligjit, nr.2, datë 27.7.2000 “për miratimin e fondit për partitë politike pjesëmarrëse në zgjedhjet për organet e pushtetit vendor” | [`ligji-8658-2000/`](ligji-8658-2000/) | in force | 1 | 2000-08-07 | 2000-08-07 |
+
+## ligji-8660-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “kontratës për blerjen e aksioneve të shoqërisë anonime amc” | [`ligji-8660-2000/`](ligji-8660-2000/) | in force | 1 | 2000-10-21 | 2000-10-21 |
+
+## ligji-8667-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës “për shmangien e tatimeve të dyfishta dhe parandalimin e evazionit fiskal për tatimet mbi të ardhurat”, ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së maltës | [`ligji-8667-2000/`](ligji-8667-2000/) | in force | 1 | 2000-11-24 | 2000-11-24 |
+
+## ligji-8672-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës së aarhusit për të drejtën e publikut për të pasur informacion, për të marrë pjesë në vendimmarrje dhe për t’iu drejtuar gjykatës për çështjet e mjedisit” | [`ligji-8672-2000/`](ligji-8672-2000/) | in force | 1 | 2000-11-25 | 2000-11-25 |
+
+## ligji-8673-2000 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e amendamentit të “marrëveshjes së kredisë”, nënshkruar në 7 mars 1994, ndërmjet republikës së shqipërisë, përfaqësuar nga komiteti qeveritar për borxhin e jashtëm dhe erste bank der oesterreichischen sparkassen ag (ish-girocredit) | [`ligji-8673-2000/`](ligji-8673-2000/) | amending act | 1 | 2000-11-24 | 2000-11-24 |
+
+## ligji-8674-2000 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e amendamentit të “termave të përgjithshme të 7 marsit 1994”, nënshkruar ndërmjet komitetit qeveritar për borxhin e jashtëm dhe oesterreichische kontrollbank, ag | [`ligji-8674-2000/`](ligji-8674-2000/) | amending act | 1 | 2000-11-24 | 2000-11-24 |
+
+## ligji-8675-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë ndërmjet qeverisë së republikës të shqipërisë dhe bankës norvegjeze “eksportfinans”” | [`ligji-8675-2000/`](ligji-8675-2000/) | in force | 1 | 2000-11-25 | 2000-11-25 |
+
+## ligji-8676-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të vitit 1999 | [`ligji-8676-2000/`](ligji-8676-2000/) | in force | 1 | 2000-11-24 | 2000-11-24 |
+
+## ligji-8680-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së selisë qendrore ndërmjet republikës së shqipërisë dhe komitetit ndërkombëtar të kryqit të kuq” | [`ligji-8680-2000/`](ligji-8680-2000/) | in force | 1 | 2000-12-16 | 2000-12-16 |
+
+## ligji-8687-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën europiane të arbitrazhit” | [`ligji-8687-2000/`](ligji-8687-2000/) | in force | 1 | 2000-12-16 | 2000-12-16 |
+
+## ligji-8688-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për njohjen dhe ekzekutimin e vendimeve të huaja të arbitrazhit” | [`ligji-8688-2000/`](ligji-8688-2000/) | in force | 1 | 2000-12-16 | 2000-12-16 |
+
+## ligji-8690-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën “për mbrojtjen e mjedisit detar dhe të zonës bregdetare të detit mesdhe, si dhe të 6 protokolleve shoqëruese” | [`ligji-8690-2000/`](ligji-8690-2000/) | in force | 1 | 2000-11-16 | 2000-11-16 |
+
+## ligji-8692-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e bonit “për mbrojtjen e llojeve shtegtuese të kafshëve të egra” dhe mirëkuptimet e kësaj konvente | [`ligji-8692-2000/`](ligji-8692-2000/) | in force | 1 | 2000-11-16 | 2000-11-16 |
+
+## ligji-8693-2000 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “amendamentit të konventës financiare ndërmjet qeverisë së republikës të shqipërisë dhe mediocredito centrale - itali për financimin e përbërësve të asistencës teknike për ndërmarrjen e ujërave dhe të ndërhyrjeve infrastrukturore në rrjetin hidrik, në kuadër të projektit të rehabilitimit të rrjetit hidrik të tiranës” | [`ligji-8693-2000/`](ligji-8693-2000/) | amending act | 1 | 2000-12-29 | 2000-12-29 |
+
+## ligji-8694-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për konsolidimin e borxhit të jashtëm të shqipërisë, në bazë të termave të referencës së klubit të parisit, të 22 korrikut 1998, ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës italiane” | [`ligji-8694-2000/`](ligji-8694-2000/) | in force | 1 | 2000-12-29 | 2000-12-29 |
+
+## ligji-8695-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për konsolidimin e borxhit të jashtëm të shqipërisë, në bazë të termave të referencës së klubit të parisit, të tetorit 1999, ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës italiane” | [`ligji-8695-2000/`](ligji-8695-2000/) | in force | 1 | 2000-12-31 | 2000-12-31 |
+
+## ligji-8696-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e vjenës “për të drejtën e traktateve” | [`ligji-8696-2000/`](ligji-8696-2000/) | in force | 1 | 2000-12-29 | 2000-12-29 |
+
+## ligji-8697-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë greke për projektin e infrastrukturës sociale për sektorin e arsimit” | [`ligji-8697-2000/`](ligji-8697-2000/) | in force | 1 | 2000-11-23 | 2000-11-23 |
+
+## ligji-8698-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë greke për projektin e infrastrukturës sociale për sektorin e shëndetësisë” | [`ligji-8698-2000/`](ligji-8698-2000/) | in force | 1 | 2000-11-23 | 2000-11-23 |
+
+## ligji-8699-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës-kuadër europiane “për bashkëpunimin ndërkufitar të bashkësive vendore e të autoriteteve territoriale dhe të dy protokolleve shtesë të saj” | [`ligji-8699-2000/`](ligji-8699-2000/) | in force | 1 | 2000-12-31 | 2000-12-31 |
+
+## ligji-87-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për kategorizimin e prodhimit, emërtimin dhe tregtimin e vajit të ullirit dhe vajit të bërsisë së ullirit | [`ligji-87-2013/`](ligji-87-2013/) | in force | 1 | 2013-03-15 | 2013-03-15 |
+
+## ligji-87-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunimin financiar 2009, për projektin “Energjia ujore dhe siguria e digave në kaskadën e Drinit” | [`ligji-87-2015/`](ligji-87-2015/) | in force | 1 | 2015-08-22 | 2015-08-22 |
+
+## ligji-87-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën evropiane të peizazheve | [`ligji-87-2016/`](ligji-87-2016/) | in force | 1 | 2016-10-08 | 2016-10-08 |
+
+## ligji-87-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave, “huamarrësi”, dhe kfw frankfurt am main, “kfw”, për programin e infrastrukturës bashkiake iii/iv, furnizimi me ujë dhe kanalizime për vendndodhjet e projekteve berat ‐ kuçovë, delvinë, gjirokastër, kamëz, librazhd dhe lushnjë | [`ligji-87-2017/`](ligji-87-2017/) | in force | 1 | 2017-06-07 | 2017-06-07 |
+
+## ligji-87-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së bashkëfinancimit ndërmjet këshillit të ministrave të republikës së shqipërisë, të përfaqësuar nga ministria e shëndetësisë dhe mbrojtjes sociale të shqipërisë, dhe fondit të kombeve të bashkuara për popullsinë | [`ligji-87-2018/`](ligji-87-2018/) | in force | 1 | 2018-12-29 | 2018-12-29 |
+
+## ligji-87-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërkombëtare ndërmjet Republikës së Shqipërisë, nga njëra anë, dhe Bashkimit Europian, nga ana tjetër, për pjesëmarrjen e Republikës së Shqipërisë në programin e Bashkimit ”Europa Digjitale” (2021-2027) | [`ligji-87-2023/`](ligji-87-2023/) | in force | 1 | 2023-12-07 | 2023-12-07 |
+
+## ligji-87-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për rregullimin e prodhimit, tregtimit, kërkimit dhe zhvillimit të armëve, municioneve, pajisjeve dhe teknologjive ushtarake | [`ligji-87-2024/`](ligji-87-2024/) | in force | 1 | 2024-07-26 | 2024-07-26 |
+
+## ligji-8700-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për anëtarësimin e laboratorit kombëtar të testimit të farave dhe fidanëve në shoqatën ndërkombëtare të testimit të farave (ista) | [`ligji-8700-2000/`](ligji-8700-2000/) | in force | 1 | 2000-12-31 | 2000-12-31 |
+
+## ligji-8703-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës europiane për informimin për të drejtën e huaj” | [`ligji-8703-2000/`](ligji-8703-2000/) | in force | 1 | 2000-12-01 | 2000-12-01 |
+
+## ligji-8704-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës franceze për konsolidimin e borxhit (në bazë të termave të referencës së “klubit të parisit”)” | [`ligji-8704-2000/`](ligji-8704-2000/) | in force | 1 | 2001-01-15 | 2001-01-15 |
+
+## ligji-8705-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes europiane për transmetimin e kërkesave të ndihmës gjyqësore” | [`ligji-8705-2000/`](ligji-8705-2000/) | in force | 1 | 2000-12-01 | 2000-12-01 |
+
+## ligji-8706-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen e pjesshme të zgjeruar të qendrës europiane të gjuhëve moderne”, në graz të austrisë | [`ligji-8706-2000/`](ligji-8706-2000/) | in force | 1 | 2000-12-01 | 2000-12-01 |
+
+## ligji-8707-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për privatizimin e shoqërisë anonime “servcom” | [`ligji-8707-2000/`](ligji-8707-2000/) | in force | 1 | 2001-03-06 | 2001-03-06 |
+
+## ligji-8708-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për disa përjashtime dhe për dhënien e disa stimujve për ndërtimin e hidrocentralit të kalivaçit me koncension të formës “bot” | [`ligji-8708-2000/`](ligji-8708-2000/) | in force | 1 | 2001-01-15 | 2001-01-15 |
+
+## ligji-8709-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e “kontratës për shitjen e aseteve të ndërmarrjes së prodhimit të çimentos, fushë krujë” | [`ligji-8709-2000/`](ligji-8709-2000/) | in force | 1 | 2001-01-15 | 2001-01-15 |
+
+## ligji-8722-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën e kombeve të bashkuara kundër trafikut të paligjshëm të drogave narkotike dhe të lëndëve psikotrope” | [`ligji-8722-2000/`](ligji-8722-2000/) | in force | 1 | 2000-12-26 | 2000-12-26 |
+
+## ligji-8723-2000 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën e vetme mbi drogat narkotike, e ndryshuar nga protokolli i vitit 1972 për ndryshimin e konventës së vetme mbi drogat narkotike, 1961” | [`ligji-8723-2000/`](ligji-8723-2000/) | amending act | 1 | 2000-12-26 | 2000-12-26 |
+
+## ligji-8724-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës europiane për mbikëqyrjen e personave të dënuar ose të liruar me kusht” | [`ligji-8724-2000/`](ligji-8724-2000/) | in force | 1 | 2000-12-26 | 2000-12-26 |
+
+## ligji-8726-2000 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për mbulimin e detyrimeve të shtetit ndaj bankës së kursimeve sh.a. dhe rikapitalizimin e saj nëpërmjet emetimit të bonove të thesarit | [`ligji-8726-2000/`](ligji-8726-2000/) | in force | 1 | 2000-12-31 | 2000-12-31 |
+
+## ligji-8740-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në traktatin e obpi-së, | [`ligji-8740-2001/`](ligji-8740-2001/) | in force | 1 | 2001-03-31 | 2001-03-31 |
+
+## ligji-8742-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë dhe bankës islamike të zhvillimit (idb) për projektin e infrastrukturës rurale | [`ligji-8742-2001/`](ligji-8742-2001/) | in force | 1 | 2001-03-31 | 2001-03-31 |
+
+## ligji-8746-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përcaktimin e zonave zgjedhore | [`ligji-8746-2001/`](ligji-8746-2001/) | in force | 1 | 2001-02-28 | 2001-02-28 |
+
+## ligji-8747-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes së kredisë të zhvillimit për projektin e lehtësimit të transportit dhe të tregtisë në rajonin e europës juglindore ndërmjet republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida)” | [`ligji-8747-2001/`](ligji-8747-2001/) | in force | 1 | 2001-04-07 | 2001-04-07 |
+
+## ligji-8754-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për harmonizimin e rregullave për kontrollin kufitar të mallrave” | [`ligji-8754-2001/`](ligji-8754-2001/) | in force | 1 | 2001-05-01 | 2001-05-01 |
+
+## ligji-8755-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe komisionit të komunitetit europian për programet e ndihmës humanitare” | [`ligji-8755-2001/`](ligji-8755-2001/) | in force | 1 | 2001-05-01 | 2001-05-01 |
+
+## ligji-8759-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën ndërkombëtare për asistencë të ndërsjellë administrative për parandalimin, hetimin dhe goditjen e shkeljeve doganore” | [`ligji-8759-2001/`](ligji-8759-2001/) | in force | 1 | 2001-05-01 | 2001-05-01 |
+
+## ligji-8760-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pagesat me këste të taksave nga operatorët privatë radio dhe televizivë gjatë periudhës tranzitore të vitit 2001 | [`ligji-8760-2001/`](ligji-8760-2001/) | in force | 1 | 2001-05-01 | 2001-05-01 |
+
+## ligji-8762-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së hipotekimit për ndërtimin e hidrocentralit të bushatit” | [`ligji-8762-2001/`](ligji-8762-2001/) | in force | 1 | 2001-05-19 | 2001-05-19 |
+
+## ligji-8764-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e aktit normativ me fuqinë e ligjit nr.1, datë 26.2.2001 të këshillit të ministrave “për lejimin për hyrje dhe qëndrim të përkohshëm të një anijeje ushtarake franceze në portin e durrësit” | [`ligji-8764-2001/`](ligji-8764-2001/) | in force | 1 | 2001-04-02 | 2001-04-02 |
+
+## ligji-8768-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë, dioqezës në rrëshen dhe karitasit shqiptar për ngritjen dhe funksionimin e shkollës së mesme profesionale “shën jozefi punëtor”” | [`ligji-8768-2001/`](ligji-8768-2001/) | in force | 1 | 2001-06-02 | 2001-06-02 |
+
+## ligji-8769-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës financiare ndërmjet qeverisë së republikës të shqipërisë dhe mediocredito centrale, itali për shumën 12.713.114.625 lira italiane për financimin e rehabilitimit të rrugës tapizë-fushë krujë, si dhe për urat e matit dhe të drinit, në kuadër të programit “rrugët kombëtare”” | [`ligji-8769-2001/`](ligji-8769-2001/) | in force | 1 | 2001-06-02 | 2001-06-02 |
+
+## ligji-8774-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës nr.182 “format më të këqia të punës së fëmijëve, 1999” të organizatës ndërkombëtare të punës” | [`ligji-8774-2001/`](ligji-8774-2001/) | in force | 1 | 2001-06-02 | 2001-06-02 |
+
+## ligji-8775-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës nr.131, datë 6.6.1970 të organizatës ndërkombëtare të punës “caktimi i pagës minimale”” | [`ligji-8775-2001/`](ligji-8775-2001/) | in force | 1 | 2001-06-02 | 2001-06-02 |
+
+## ligji-8777-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së konfederatës zvicerane për bashkëpunimin teknik, financiar dhe asistencën humanitare” | [`ligji-8777-2001/`](ligji-8777-2001/) | in force | 1 | 2001-06-04 | 2001-06-04 |
+
+## ligji-8783-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR MIRATIMIN E “MARRËVESHJES SË KONCENSIONIT TË FORMËS “BOT” NDËRMJET MINISTRISË SË PUNËVE PUBLIKE, MINISTRISË SË EKONOMISË PUBLIKE DHE PRIVATIZIMIT, BASHKISË SË QYTETIT TË ELBASANIT DHE BERLINWASSER INTERNATIONAL, GmbH PËR NDËRMARRJEN E UJËSJELLËSIT DHE UJË-KANALIZIMEVE ELBASAN”, SI DHE DHËNIEN E DISA STIMUJVE DHE GARANCIVE PËR KONCENSIONARIN E KËSAJ MARRËVESHJEJE | [`ligji-8783-2001/`](ligji-8783-2001/) | in force | 1 | 2001-06-22 | 2001-06-22 |
+
+## ligji-8784-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “memorandumit të mirëkuptimit ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së kanadasë për ndërtimin e vendqëndrimit të ri të avionëve civilë në aeroportin ndërkombëtar të rinasit” | [`ligji-8784-2001/`](ligji-8784-2001/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+
+## ligji-8785-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “memorandumit të mirëkuptimit ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së emirateve të bashkuara arabe për ndërtimin e aeroportit të ri të kukësit” | [`ligji-8785-2001/`](ligji-8785-2001/) | in force | 1 | 2001-06-22 | 2001-06-22 |
+
+## ligji-8786-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës nr.26 “krijimi i mekanizmit për caktimin e pagës minimale, 1928” të organizatës ndërkombëtare të punës” | [`ligji-8786-2001/`](ligji-8786-2001/) | in force | 1 | 2001-06-22 | 2001-06-22 |
+
+## ligji-8787-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës nr.95 “mbrojtja e pagave, 1949”,të organizatës ndërkombëtare të punës” | [`ligji-8787-2001/`](ligji-8787-2001/) | in force | 1 | 2001-06-22 | 2001-06-22 |
+
+## ligji-8791-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin r “marrëveshjes së koncensionit të formës “rot” të minierës së kromit bulqizë, të fabrikës së pasurimit bulqizë, të impiantit të seleksionimit klos dhe të uzinës së ferrokromit burrel ndërmjet ministrisë së ekonomisë publike dhe privatizimit dhe shoqërisë italiane “darfo” spa”, si dhe dhënies së disa stimujve dhe garancive për koncesionarin e kësaj marrëveshjeje | [`ligji-8791-2001/`](ligji-8791-2001/) | in force | 1 | 2001-06-22 | 2001-06-22 |
+
+## ligji-8792-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Per krijimin e qendrës së përpunimit të të dhënave | [`ligji-8792-2001/`](ligji-8792-2001/) | in force | 1 | 2001-05-10 | 2001-05-10 |
+
+## ligji-8793-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Per parashikimin e kamatevonesave te kontributeve te paderdhura per sigurimet shoqerore | [`ligji-8793-2001/`](ligji-8793-2001/) | in force | 1 | 2001-05-10 | 2001-05-10 |
+
+## ligji-8795-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet export credit bank të turqisë dhe qeverisë së republikës të shqipërisë për riskedulimin e borxhit” | [`ligji-8795-2001/`](ligji-8795-2001/) | in force | 1 | 2001-06-24 | 2001-06-24 |
+
+## ligji-8799-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet qeverisë së republikës të shqipërisë dhe bankës islamike të zhvillimit për projektin e furnizimit me ujë të pijshëm dhe për kanalizimet në fushë-krujë dhe peshkopi” | [`ligji-8799-2001/`](ligji-8799-2001/) | in force | 1 | 2001-06-30 | 2001-06-30 |
+
+## ligji-88-2013 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimeve të konventës “Për mbrojtjen fizike të materialeve bërthamore” | [`ligji-88-2013/`](ligji-88-2013/) | amending act | 1 | 2013-03-28 | 2013-03-28 |
+
+## ligji-88-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunim financiar 2016, për projektin “fondi arsimor për formimin profesional dhe punësimin” | [`ligji-88-2017/`](ligji-88-2017/) | in force | 1 | 2017-06-07 | 2017-06-07 |
+
+## ligji-88-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese nr. 1, të marrëveshjes së huas, të datës 31.12.2012, ndërmjet republikës së shqipërisë dhe bankës evropiane për rindërtim dhe zhvillim (ebrd), për financimin e projektit të përmirësimit të sigurisë së digës në hidrocentralin e komanit, ratifikuar me ligjin nr. 103/2013 | [`ligji-88-2018/`](ligji-88-2018/) | in force | 1 | 2018-11-26 | 2018-11-26 |
+
+## ligji-88-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin e Autoritetit të Sigurisë Hekurudhore | [`ligji-88-2021/`](ligji-88-2021/) | in force | 1 | 2021-08-21 | 2021-08-21 |
+
+## ligji-88-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marëveshjes së huas ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Fondit Saudit për Zhvillim, për projektin e ndërtimit të rrugës Tiranë-Elbasan-Qukës-Qafa e Plloçës, ”Hua shtesë” | [`ligji-88-2022/`](ligji-88-2022/) | in force | 1 | 2023-01-27 | 2023-01-27 |
+
+## ligji-88-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndryshuese, me shkëmbim notash, të Marrëveshjes së Partneritetit, Tregtisë dhe Bashkëpunimit ndërmjet Republikës së Shqipërisë dhe Mbretërisë së Bashkuar të Britanisë së Madhe dhe Irlandës së Veriut, ratifikuar me ligjin nr. 31/2021 | [`ligji-88-2023/`](ligji-88-2023/) | in force | 1 | 2023-12-16 | 2023-12-16 |
+
+## ligji-88-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin e shoqërisë shtetërore për prodhimin dhe tregtimin e armëve, municioneve, pajisjeve dhe teknologjive ushtarake | [`ligji-88-2024/`](ligji-88-2024/) | in force | 1 | 2024-07-26 | 2024-07-26 |
+
+## ligji-88-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për koncesionet dhe partneritetin publik privat | [`ligji-88-2025/`](ligji-88-2025/) | in force | 1 | 2025-12-12 | 2025-12-12 |
+
+## ligji-8800-2001 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “amendamentit të marrëveshjes së huasë ndërmjet qeverisë së republikës të shqipërisë dhe bankës islamike të zhvillimit për projektin e furnizimit të fshatrave me ujë të pijshëm | [`ligji-8800-2001/`](ligji-8800-2001/) | amending act | 1 | 2001-07-03 | 2001-07-03 |
+
+## ligji-8801-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë me “elber” shpk dhe kfw për projektin dhe huanë për ndërmarrjen e ujësjellës-kanalizimeve në elbasan” | [`ligji-8801-2001/`](ligji-8801-2001/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+
+## ligji-8802-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes no.aba-r1-2-d për shtyrjen e borxheve që rrjedhin nga marrëveshja e huasë no.aba-p1 e datës 28 nëntor 1995 ndërmjet koorporatës elektroenergjetike shqiptare dhe bankës japoneze për bashkëpunim ndërkombëtar” | [`ligji-8802-2001/`](ligji-8802-2001/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+
+## ligji-8803-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes no.aba-r1-1-d për shtyrjen e borxheve që rrjedhin nga marrëveshja e huasë no.aba-c1 e datës 11 maj 1994 ndërmjet qeverisë së republikës të shqipërisë dhe bankës japoneze për bashkëpunim ndërkombëtar | [`ligji-8803-2001/`](ligji-8803-2001/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+
+## ligji-8804-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë dhe bankës europiane për rindërtim dhe zhvillim për projektin e rehabilitimit të rrugës kombëtare elbasan-librazhd” | [`ligji-8804-2001/`](ligji-8804-2001/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+
+## ligji-8815-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet ministrisë së mbrojtjes të republikës së shqipërisë dhe ministrisë së mbrojtjes të republikës italiane, lidhur me veprimtarinë e bashkëpunimit dhe të asistencës për ristrukturimin e infrastrukturave logjistike dhe stërvitore në akademinë e forcave ajrore në vlorë dhe për risistemimin e pistës së fluturimit prej dheu në pishë - poro” | [`ligji-8815-2001/`](ligji-8815-2001/) | in force | 1 | 2001-11-02 | 2001-11-02 |
+
+## ligji-8816-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit të tretë shtesë të “marrëveshjes së forcës shumëkombëshe paqeruajtëse të europës juglindore | [`ligji-8816-2001/`](ligji-8816-2001/) | in force | 1 | 2001-11-02 | 2001-11-02 |
+
+## ligji-8817-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së bashkëpunimit tregtar dhe ekonomik ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së shtetit të izraelit | [`ligji-8817-2001/`](ligji-8817-2001/) | in force | 1 | 2001-11-02 | 2001-11-02 |
+
+## ligji-8818-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për krijimin e organizatës ndërkombëtare të metrologjisë ligjore | [`ligji-8818-2001/`](ligji-8818-2001/) | in force | 1 | 2001-11-02 | 2001-11-02 |
+
+## ligji-8819-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë, ndërmjet republikës së shqipërisë dhe fondit kuvajtian “për zhvillimin ekonomik arab”, për projektin e dytë të rehabilitimit të ujitjes | [`ligji-8819-2001/`](ligji-8819-2001/) | in force | 1 | 2001-11-10 | 2001-11-10 |
+
+## ligji-8820-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë të zhvillimit ndërmjet qeverisë së republikës të shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për projektin “shpërndarja e shërbimeve sociale”” | [`ligji-8820-2001/`](ligji-8820-2001/) | in force | 1 | 2001-11-10 | 2001-11-10 |
+
+## ligji-8821-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën ndërkombëtare të eurocontrol-it” | [`ligji-8821-2001/`](ligji-8821-2001/) | in force | 1 | 2001-11-10 | 2001-11-10 |
+
+## ligji-8822-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR MIRATIMIN E AKTIT NORMATIV, ME FUQINË E LIGJIT, NR.5, DATË 31.8.2001 TË KËSHILLIT TË MINISTRAVE “PËR NJË SHTESË NË LIGJIN NR.8668, datë 23.10.2000 “PËR PAJISJEN E SHTETASVE SHQIPTARË ME PASAPORTË PËR JASHTË SHTETIT | [`ligji-8822-2001/`](ligji-8822-2001/) | in force | 1 | 2001-10-15 | 2001-10-15 |
+
+## ligji-8823-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për buxhetin faktik të vitit 2000 | [`ligji-8823-2001/`](ligji-8823-2001/) | in force | 1 | 2001-11-10 | 2001-11-10 |
+
+## ligji-8824-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së riskedulimit të borxhit ndërmjet qeverisë së republikës të shqipërisë dhe bankës qendrore të republikës së turqisë | [`ligji-8824-2001/`](ligji-8824-2001/) | in force | 1 | 2001-12-05 | 2001-12-05 |
+
+## ligji-8826-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për disa shtesa në ligjin nr. 7564, datë 19.5.1992, “për të drejtën e autorit” | [`ligji-8826-2001/`](ligji-8826-2001/) | in force | 1 | 2001-12-05 | 2001-12-05 |
+
+## ligji-8827-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës të turqisë për transportin ndërkombëtar rrugor” | [`ligji-8827-2001/`](ligji-8827-2001/) | in force | 1 | 2001-12-12 | 2001-12-12 |
+
+## ligji-8828-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë të zhvillimit ndërmjet qeverisë së republikës të shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për projektin e shërbimeve bujqësore” | [`ligji-8828-2001/`](ligji-8828-2001/) | in force | 1 | 2001-12-12 | 2001-12-12 |
+
+## ligji-8829-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës nr.183 “mbrojtja e amësisë, 2000””, të organizatës ndërkombëtare të punës | [`ligji-8829-2001/`](ligji-8829-2001/) | in force | 1 | 2001-12-12 | 2001-12-12 |
+
+## ligji-8832-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për parandalimin dhe dënimin e krimeve kundër personave të mbrojtur, në nivel ndërkombëtar, duke përfshirë agjentët diplomatikë” | [`ligji-8832-2001/`](ligji-8832-2001/) | in force | 1 | 2002-01-05 | 2002-01-05 |
+
+## ligji-8833-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për nxitjen dhe mbrojtjen e investimeve ndërmjet republikës së shqipërisë dhe fondit të opec-ut për zhvillim ndërkombëtar” | [`ligji-8833-2001/`](ligji-8833-2001/) | in force | 1 | 2002-01-05 | 2002-01-05 |
+
+## ligji-8834-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës për njohjen e kualifikimeve të arsimit të lartë në europë” (lisbonë, 1997) | [`ligji-8834-2001/`](ligji-8834-2001/) | in force | 1 | 2002-01-05 | 2002-01-05 |
+
+## ligji-8835-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “protokollin për shtypjen e veprimeve të paligjshme në aeroportet, që i shërbejnë aviacionit civil ndërkombëtar”, shtesë e “konventës për shtypjen e veprimeve të paligjshme kundër sigurisë së aviacionit civil” | [`ligji-8835-2001/`](ligji-8835-2001/) | in force | 1 | 2002-01-05 | 2002-01-05 |
+
+## ligji-8836-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për ndalimin e bombardimeve terroriste” | [`ligji-8836-2001/`](ligji-8836-2001/) | in force | 1 | 2001-11-22 | 2001-11-22 |
+
+## ligji-8837-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën ndërkombëtare kundër marrjes së pengjeve | [`ligji-8837-2001/`](ligji-8837-2001/) | in force | 1 | 2001-11-22 | 2001-11-22 |
+
+## ligji-8838-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “traktatin e obpi-së “për të drejtën e autorit | [`ligji-8838-2001/`](ligji-8838-2001/) | in force | 1 | 2001-11-22 | 2001-11-22 |
+
+## ligji-8839-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për grumbullimin, administrimin dhe ruajtjen e informacionit të klasifikuar policor | [`ligji-8839-2001/`](ligji-8839-2001/) | in force | 1 | 2001-11-22 | 2001-11-22 |
+
+## ligji-8849-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Ër ratifikimin e “protokollit për ujin dhe shëndetin, sipas konventës së vitit 1992, për mbrojtjen dhe përdorimin e ujërave ndërkufitare dhe liqeneve ndërkombëtare” | [`ligji-8849-2001/`](ligji-8849-2001/) | in force | 1 | 2002-01-15 | 2002-01-15 |
+
+## ligji-8850-2001 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për ndalimin e akteve të paligjshme kundër sigurisë së lundrimit detar” dhe në “protokollin për ndalimin e akteve të paligjshme kundër sigurisë së platformave fikse, të vendosura në shelfin kontinental” | [`ligji-8850-2001/`](ligji-8850-2001/) | in force | 1 | 2002-01-15 | 2002-01-15 |
+
+## ligji-8853-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në ”Konventën ndërkombëtare për mbrojtjen fizike të materialeve bërthamore” | [`ligji-8853-2002/`](ligji-8853-2002/) | in force | 1 | 2002-02-23 | 2002-02-23 |
+
+## ligji-8854-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”Protokollit të bisedimeve ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunimin financiar dhe teknik për vitin 2001” | [`ligji-8854-2002/`](ligji-8854-2002/) | in force | 1 | 2002-02-23 | 2002-02-23 |
+
+## ligji-8855-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për shtyrjen e pagesave të borxhit” (Marrëveshja “Shqipëria III”) | [`ligji-8855-2002/`](ligji-8855-2002/) | in force | 1 | 2002-02-23 | 2002-02-23 |
+
+## ligji-8856-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Konventës nr.154 “Bisedimet kolektive, 1981” të Organizatës Ndërkombëtare të Punës” | [`ligji-8856-2002/`](ligji-8856-2002/) | in force | 1 | 2002-03-08 | 2002-03-08 |
+
+## ligji-8859-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Marrëveshjes së garancisë ndërmjet Qeverisë së Republikës të Shqipërisë dhe Bankës Europiane të investimeve për projektin e transmetim-shpërndarjes së energjisë elektrike | [`ligji-8859-2002/`](ligji-8859-2002/) | in force | 1 | 2002-04-20 | 2002-04-20 |
+
+## ligji-8860-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Marrëveshjes ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Federatës Ruse për rregullimin e borxhit të Republikës së Shqipërisë ndaj Federatës Ruse për kreditë e dhëna më | [`ligji-8860-2002/`](ligji-8860-2002/) | in force | 1 | 2002-04-20 | 2002-04-20 |
+
+## ligji-8861-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Marrëveshjes ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Mbretërisë të Holandës për bashkëpunimin ndërmjet Qeverisë së Republikës të Shqipërisë dhe Organizatës së Zhvillimit të Holandës (SNV) | [`ligji-8861-2002/`](ligji-8861-2002/) | in force | 1 | 2002-04-20 | 2002-04-20 |
+
+## ligji-8864-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes për zbatimin e ligjit ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Shteteve të Bashkuara të Amerikës” | [`ligji-8864-2002/`](ligji-8864-2002/) | in force | 1 | 2002-04-20 | 2002-04-20 |
+
+## ligji-8865-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Konventës ndërkombëtare për luftën kundër financimit të terrorizmit” | [`ligji-8865-2002/`](ligji-8865-2002/) | in force | 1 | 2002-04-20 | 2002-04-20 |
+
+## ligji-8866-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Traktatit të miqësisë dhe bashkëpunimit ndërmjet Republikës së Shqipërisë dhe Mbretërisë së Spanjës” | [`ligji-8866-2002/`](ligji-8866-2002/) | in force | 1 | 2002-04-20 | 2002-04-20 |
+
+## ligji-8867-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në “Statutin e Konferencës së Hagës për të drejtën ndërkombëtare private” | [`ligji-8867-2002/`](ligji-8867-2002/) | in force | 1 | 2002-04-20 | 2002-04-20 |
+
+## ligji-8878-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Protokollit të bashkëpunimit ndërmjet Ministrisë së Bujqësisë dhe Ushqimit të Republikës së Shqipërisë dhe Agjencisë Turke të Kooperimit Ndërkombëtar (Tika) të Republikës së Turqisë” | [`ligji-8878-2002/`](ligji-8878-2002/) | in force | 1 | 2002-05-28 | 2002-05-28 |
+
+## ligji-8879-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së Bashkëpunimit Teknik e Financiar ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Republikës të Turqisë” | [`ligji-8879-2002/`](ligji-8879-2002/) | in force | 1 | 2002-05-28 | 2002-05-28 |
+
+## ligji-8881-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Kontratës financiare ndërmjet Republikës së Shqipërisë dhe Bankës Europiane të Investimeve për projektin e rrugëve europiane- Shqipëria” | [`ligji-8881-2002/`](ligji-8881-2002/) | in force | 1 | 2002-05-30 | 2002-05-30 |
+
+## ligji-8882-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Protokollit shtesë të “Marrëveshjes Europiane për transmetimin e kërkesave për ndihmë gjyqësore dhe të raportit shpjegues” | [`ligji-8882-2002/`](ligji-8882-2002/) | in force | 1 | 2002-05-30 | 2002-05-30 |
+
+## ligji-8883-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Protokollit të dytë shtesë të “Konventës së Këshillit të Europës për ndihmën e ndërsjellë juridike në fushën penale” | [`ligji-8883-2002/`](ligji-8883-2002/) | in force | 1 | 2002-05-30 | 2002-05-30 |
+
+## ligji-8888-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Konventës për krimin në fushën e kibernetikës” | [`ligji-8888-2002/`](ligji-8888-2002/) | in force | 1 | 2002-06-01 | 2002-06-01 |
+
+## ligji-8890-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Qeverisë së Republikës të Shqipërisë dhe Komisionit të Komunitetit Europian, në kuadër të Programit “Cards 2001” | [`ligji-8890-2002/`](ligji-8890-2002/) | in force | 1 | 2002-06-12 | 2002-06-12 |
+
+## ligji-8892-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Marrëveshja e tregtisë së lirë ndërmjet Qeverisë Shqiptare dhe Qeverisë Maqedonase | [`ligji-8892-2002/`](ligji-8892-2002/) | in force | 1 | 2002-06-28 | 2002-06-28 |
+
+## ligji-8895-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dhënie amnistie | [`ligji-8895-2002/`](ligji-8895-2002/) | in force | 1 | 2002-06-29 | 2002-06-29 |
+
+## ligji-8896-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Memorandumit të mirëkuptimit ndërmjet Qeverisë së Republikës të Shqipërisë dhe Komunitetit Europian për Statusin e Projektit të Asistencës së Policisë së KE-së (ECPA) në Shqipëri” | [`ligji-8896-2002/`](ligji-8896-2002/) | in force | 1 | 2002-06-29 | 2002-06-29 |
+
+## ligji-89-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin “për përgatitjen, reagimin dhe bashkëpunimin ndaj incidenteve të ndotjes nga lëndët e rrezikshme dhe të dëmshme (oprc - hns), 2000” | [`ligji-89-2012/`](ligji-89-2012/) | in force | 1 | 2012-11-01 | 2012-11-01 |
+
+## ligji-89-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD) për financimin e projektit të burimeve ujore dhe ujitjes | [`ligji-89-2013/`](ligji-89-2013/) | in force | 1 | 2013-03-15 | 2013-03-15 |
+
+## ligji-89-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunimin financiar 2010, për projektin “Eficienca energjetike përmes sektorit bankar” | [`ligji-89-2015/`](ligji-89-2015/) | in force | 1 | 2015-08-22 | 2015-08-22 |
+
+## ligji-89-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin e Autoritetit Rregullator Hekurudhor | [`ligji-89-2021/`](ligji-89-2021/) | in force | 1 | 2021-08-21 | 2021-08-21 |
+
+## ligji-89-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Policinë Bashkiake | [`ligji-89-2022/`](ligji-89-2022/) | in force | 1 | 2023-01-31 | 2023-01-31 |
+
+## ligji-89-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Republikës së Bullgarisë për mbrojtjen shoqërore | [`ligji-89-2023/`](ligji-89-2023/) | in force | 1 | 2023-12-09 | 2023-12-09 |
+
+## ligji-89-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për gjuetinë | [`ligji-89-2025/`](ligji-89-2025/) | in force | 1 | 2026-01-22 | 2026-01-22 |
+
+## ligji-8909-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës nr. 177 “Puna në shtëpi, 1996” të Organizatës Ndërkombëtare të Punës | [`ligji-8909-2002/`](ligji-8909-2002/) | in force | 1 | 2002-07-12 | 2002-07-12 |
+
+## ligji-8910-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës nr.150 “Administrimi i punës, 1978” të Organizatës Ndërkombëtare të Punës | [`ligji-8910-2002/`](ligji-8910-2002/) | in force | 1 | 2002-07-12 | 2002-07-12 |
+
+## ligji-8913-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së kredisë të zhvillimit ndërmjet Qeverisë së Republikës të Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA) për projektin pilot të zhvillimit të peshkimit” | [`ligji-8913-2002/`](ligji-8913-2002/) | in force | 1 | 2002-07-24 | 2002-07-24 |
+
+## ligji-8920-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Konventës së Kombeve të Bashkuara kundër krimit të organizuar ndërkombëtar” dhe dy protokolleve shtesë të saj | [`ligji-8920-2002/`](ligji-8920-2002/) | in force | 1 | 2002-08-09 | 2002-08-09 |
+
+## ligji-8921-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Konventës nr. 174 “Parandalimi i aksidenteve të rënda në industri, 1993”” të Organizatës Ndërkombëtare të Punës | [`ligji-8921-2002/`](ligji-8921-2002/) | in force | 1 | 2002-08-09 | 2002-08-09 |
+
+## ligji-8922-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes për sigurimin e informacionit të klasifikuar “sekret shtetëror” ndërmjet Republikës së Shqipërisë dhe Nato-s” | [`ligji-8922-2002/`](ligji-8922-2002/) | in force | 1 | 2002-08-25 | 2002-08-25 |
+
+## ligji-8923-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Konventës financiare ndërmjet Qeverisë së Republikës të Shqipërisë dhe Mediocredito Centrale, Itali, për financimin e importit të energjisë elektrike” | [`ligji-8923-2002/`](ligji-8923-2002/) | in force | 1 | 2002-08-25 | 2002-08-25 |
+
+## ligji-8924-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së kredisë ndërmjet Qeverisë së Republikës të Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA) për mbështetjen për rikonstruktimin e sektorit financiar (FSAC)” | [`ligji-8924-2002/`](ligji-8924-2002/) | in force | 1 | 2002-08-25 | 2002-08-25 |
+
+## ligji-8925-2002 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e aktit normativ nr.5, datë 13.6.2002 të Këshillit të Ministrave, me fuqinë e ligjit, “Për disa shtesa dhe ndryshime në ligjin nr.8002, datë 27.9.1995 “Për përdorimin dhe administrimin e pullave të taksave”” | [`ligji-8925-2002/`](ligji-8925-2002/) | amending act | 1 | 2002-07-22 | 2002-07-22 |
+
+## ligji-8928-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në “Konventën për ndalimin ose kufizimin e përdorimit të armëve, të quajtura konvencionale, të cilat mund të shkaktojnë dëmtime të mëdha ose pasoja pa dallim”, Gjenevë, 10 tetor 1980, si dhe në protokollet shtesë të saj | [`ligji-8928-2002/`](ligji-8928-2002/) | in force | 1 | 2002-08-25 | 2002-08-25 |
+
+## ligji-8929-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së kredisë të zhvillimit ndërmjet Qeverisë së Republikës të Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA) për kredinë për mbështetjen e reduktimit të varfërisë dhe të dokumenteve të lidhura me të” | [`ligji-8929-2002/`](ligji-8929-2002/) | in force | 1 | 2002-08-25 | 2002-08-25 |
+
+## ligji-8931-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e aktit normativ nr.6, datë 4.7.2002 të Këshillit të Ministrave, me fuqinë e ligjit, “Për miratimin e fondit për partitë politike, pjesëmarrëse në zonën zgjedhore nr.19, për zgjedhjen e deputetit të Kuvendit të Republikës së Shqipërisë” | [`ligji-8931-2002/`](ligji-8931-2002/) | in force | 1 | 2002-07-25 | 2002-07-25 |
+
+## ligji-8938-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Konventës nr.176 “Sigurimi dhe shëndeti në miniera, 1995” të Organizatës Ndërkombëtare të Punës” | [`ligji-8938-2002/`](ligji-8938-2002/) | in force | 1 | 2002-11-01 | 2002-11-01 |
+
+## ligji-8939-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Konventës nr.175 “Puna me kohë të pjesshme, 1994” të Organizatës Ndërkombëtare të Punës” | [`ligji-8939-2002/`](ligji-8939-2002/) | in force | 1 | 2002-11-01 | 2002-11-01 |
+
+## ligji-8940-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Republikës të Bullgarisë për shërbimet ajrore ndërmjet dhe përtej territoreve të tyre respektive” | [`ligji-8940-2002/`](ligji-8940-2002/) | in force | 1 | 2002-11-01 | 2002-11-01 |
+
+## ligji-8941-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së kredisë të zhvillimit ndërmjet Qeverisë së Republikës të Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA) për projektin e ristrukturimit dhe të rehabilitimit të Sektorit të nergjisë elektrike” | [`ligji-8941-2002/`](ligji-8941-2002/) | in force | 1 | 2002-11-15 | 2002-11-15 |
+
+## ligji-8942-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Konventës Europiane “Për shtetësinë”” | [`ligji-8942-2002/`](ligji-8942-2002/) | in force | 1 | 2002-11-15 | 2002-11-15 |
+
+## ligji-8943-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Republikës Popullore të Kinës për shndërrimin në kredi qeveritare të saldos së kleringut, në favor të Kinës, rezultuar nga zbatimi i marrëveshjeve qeveritare të shkëmbimit të mallrave e pagesave dhe të kredisë në mallra, të vitit 1991” | [`ligji-8943-2002/`](ligji-8943-2002/) | in force | 1 | 2002-11-15 | 2002-11-15 |
+
+## ligji-8945-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Rumanisë për bashkëpunimin në fushën e luftës kundër terrorizmit, të luftës kundër krimit të organizuar, të trafikut të paligjshëm të substancave narkotike e psikotrope dhe të veprimtarive të tjera të jashtëligjshme” | [`ligji-8945-2002/`](ligji-8945-2002/) | in force | 1 | 2002-11-15 | 2002-11-15 |
+
+## ligji-8946-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Republikës të Bullgarisë për ripranimin e personave me qëndrim të paligjshëm” | [`ligji-8946-2002/`](ligji-8946-2002/) | in force | 1 | 2002-11-15 | 2002-11-15 |
+
+## ligji-8953-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Rumanisë për ripranimin e personave” | [`ligji-8953-2002/`](ligji-8953-2002/) | in force | 1 | 2002-11-30 | 2002-11-30 |
+
+## ligji-8954-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së grantit ndërmjet Qeverisë së Republikës të Shqipërisë dhe Mbretërisë së Norvegjisë për asistencë në financimin e shërbimeve të konsulencës, për rehabilitimin dhe përmirësimin e sistemeve ekzistuese të ujit të pijshëm dhe ujërave të zeza në Burrel, në qarkun e Dibrës” | [`ligji-8954-2002/`](ligji-8954-2002/) | in force | 1 | 2002-11-30 | 2002-11-30 |
+
+## ligji-8955-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Kontratës financiare ndërmjet Qeverisë së Republikës të Shqipërisë dhe Bankës Europiane të Investimeve për projektin e rehabilitimit të infrastrukturës së Portit të Durrësit” | [`ligji-8955-2002/`](ligji-8955-2002/) | in force | 1 | 2002-11-30 | 2002-11-30 |
+
+## ligji-8956-2002 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për një ndryshim në ligjin nr. 8637, datë 6.7.2000 “Për Policinë Elektrike” | [`ligji-8956-2002/`](ligji-8956-2002/) | amending act | 1 | 2002-12-02 | 2002-12-02 |
+
+## ligji-8958-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së kredisë ndërmjet Qeverisë së Republikës të Shqipërisë dhe Fondit të OPEC-ut për rehabilitimin e furnizimit me ujë” | [`ligji-8958-2002/`](ligji-8958-2002/) | in force | 1 | 2002-12-27 | 2002-12-27 |
+
+## ligji-8959-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së Kredisë ndërmjet Republikës së Shqipërisë dhe Bankës për Zhvillim të Këshillit të Europës për bashkëfinancimin e projektit të punëve të komunitetit” | [`ligji-8959-2002/`](ligji-8959-2002/) | in force | 1 | 2002-12-27 | 2002-12-27 |
+
+## ligji-8960-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Kartës Sociale Europiane, e ndryshuar | [`ligji-8960-2002/`](ligji-8960-2002/) | in force | 1 | 2002-12-07 | 2002-12-07 |
+
+## ligji-8964-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për Buxhetin faktik të Shtetit të vitit 2001 | [`ligji-8964-2002/`](ligji-8964-2002/) | in force | 1 | 2002-12-23 | 2002-12-23 |
+
+## ligji-8965-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në “Konventën e Kombeve të Bashkuara për substancat psikotrope” | [`ligji-8965-2002/`](ligji-8965-2002/) | in force | 1 | 2002-12-23 | 2002-12-23 |
+
+## ligji-8966-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për anëtarësimin e Republikës së Shqipërisë në Agjencinë Ndërqeveritare të Frankofonisë | [`ligji-8966-2002/`](ligji-8966-2002/) | in force | 1 | 2002-12-23 | 2002-12-23 |
+
+## ligji-8967-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së bashkëprodhimit kinematografik ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Republikës Italiane” | [`ligji-8967-2002/`](ligji-8967-2002/) | in force | 1 | 2002-12-23 | 2002-12-23 |
+
+## ligji-8969-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për disa masa në fushën e transmetimeve radiotelevizive | [`ligji-8969-2002/`](ligji-8969-2002/) | in force | 1 | 2002-12-23 | 2002-12-23 |
+
+## ligji-8972-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së Garancisë ndërmjet Qeverisë së Republikës të Shqipërisë dhe Bankës Europiane për Rindërtim dhe Zhvillim (BERZH) për Projektin e Rindërtimit të Sektorit të Energjisë | [`ligji-8972-2002/`](ligji-8972-2002/) | in force | 1 | 2003-01-15 | 2003-01-15 |
+
+## ligji-8973-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së Tregtisë së Lirë ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Republikës të Kroacisë” | [`ligji-8973-2002/`](ligji-8973-2002/) | in force | 1 | 2003-01-14 | 2003-01-14 |
+
+## ligji-8984-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Statutit të Romës për Gjykatën Ndërkombëtare Penale | [`ligji-8984-2002/`](ligji-8984-2002/) | in force | 1 | 2002-12-23 | 2002-12-23 |
+
+## ligji-8985-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes evropiane për personat pjesëmarrës në procedurat para Gjykatës Evropiane për të Drejtat e Njeriut” | [`ligji-8985-2002/`](ligji-8985-2002/) | in force | 1 | 2002-12-23 | 2002-12-23 |
+
+## ligji-8986-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes Financiare ndërmjet Republikës së Shqipërisë dhe Palës Gjermane, të shtesës së projektit “Ujësjellës - kanalizimet e Korçës”” | [`ligji-8986-2002/`](ligji-8986-2002/) | in force | 1 | 2002-12-23 | 2002-12-23 |
+
+## ligji-8987-2002 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin e kushteve lehtësuese për ndërtimin e burimeve të reja të prodhimit të energjisë elektrike | [`ligji-8987-2002/`](ligji-8987-2002/) | in force | 1 | 2002-12-24 | 2002-12-24 |
+
+## ligji-8989-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën ndërkombëtare për matjen e tonazhit të anijeve”, 1969 | [`ligji-8989-2003/`](ligji-8989-2003/) | in force | 1 | 2003-03-12 | 2003-03-12 |
+
+## ligji-8992-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “protokollin e marrëveshjes së madridit për regjistrimin ndërkombëtar të markave” | [`ligji-8992-2003/`](ligji-8992-2003/) | in force | 1 | 2003-03-07 | 2003-03-07 |
+
+## ligji-8993-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për themelimin e organizatës botërore të pronësisë intelektuale” | [`ligji-8993-2003/`](ligji-8993-2003/) | in force | 1 | 2003-03-07 | 2003-03-07 |
+
+## ligji-8994-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes teknike ndërmjet ministrisë së mbrojtjes të republikës së shqipërisë dhe ministrisë së mbrojtjes të republikës së italisë për veprimtarinë e bashkëpunimit dhe të asistencës, për ristrukturimin e zonës në akademinë e forcave ajrore në vlorë dhe atë të pistës së fluturimit në pish-poro” | [`ligji-8994-2003/`](ligji-8994-2003/) | in force | 1 | 2003-03-07 | 2003-03-07 |
+
+## ligji-8995-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen për privilegjet dhe imunitetet e agjencisë ndërkombëtare të energjisë atomike” | [`ligji-8995-2003/`](ligji-8995-2003/) | in force | 1 | 2003-03-07 | 2003-03-07 |
+
+## ligji-9-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet këshillit të ministrave të republikës së shqipërisë dhe fondit për zhvillim abu dhabi për financimin e projektit të rrugës tiranë-elbasan | [`ligji-9-2012/`](ligji-9-2012/) | in force | 1 | 2012-03-15 | 2012-03-15 |
+
+## ligji-9-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së italisë për programin “fuqizimi i agjencisë shqiptare të pagesave (azhbr) për lëvrimin e kontributeve në bujqësi” | [`ligji-9-2014/`](ligji-9-2014/) | in force | 1 | 2014-04-19 | 2014-04-19 |
+
+## ligji-9-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në aneksin VI të konventës ndërkombëtare detare “Për parandalimin e ndotjeve nga anijet, 1973”, të ndryshuar me protokollin e vitit 1978 (MARPOL 73/78) | [`ligji-9-2020/`](ligji-9-2020/) | in force | 1 | 2020-03-04 | 2020-03-04 |
+
+## ligji-9-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe organizatës së Kombeve të Bashkuara për Ushqimin dhe Bujqësinë (FAO), për krijimin e një përfaqësie të FAO-s në Republikën e Shqipërisë | [`ligji-9-2021/`](ligji-9-2021/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+
+## ligji-9-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për profesionin e ndërmjetësit të pasurive të paluajtshme | [`ligji-9-2022/`](ligji-9-2022/) | in force | 1 | 2022-03-09 | 2022-03-09 |
+
+## ligji-9-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, Malit të Zi dhe Komisionit Evropian për programin IPA të bashkëpunimit ndërkufitar Mali i Zi-Shqipëri 2021-2027 | [`ligji-9-2024/`](ligji-9-2024/) | in force | 1 | 2024-03-20 | 2024-03-20 |
+
+## ligji-90-2013 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në ndryshimet e neneve të marrëveshjes së themelimit të Bankës së Detit të Zi për Tregti dhe Zhvillim (BSTDB) | [`ligji-90-2013/`](ligji-90-2013/) | amending act | 1 | 2013-03-15 | 2013-03-15 |
+
+## ligji-90-2018 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen e lisbonës për mbrojtjen e emërtimeve të origjinës dhe regjistrimin e tyre ndërkombëtar | [`ligji-90-2018/`](ligji-90-2018/) | in force | 1 | 2019-01-05 | 2019-01-05 |
+
+## ligji-9000-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për organizimin dhe funksionimin e këshillit të ministrave | [`ligji-9000-2003/`](ligji-9000-2003/) | in force | 1 | 2003-03-25 | 2003-03-25 |
+
+## ligji-9001-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “programit të veprimit rajonal “cards 2002” ndërmjet qeverisë së republikës të shqipërisë dhe komisionit të komunitetit europian | [`ligji-9001-2003/`](ligji-9001-2003/) | in force | 1 | 2003-03-29 | 2003-03-29 |
+
+## ligji-9002-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes financiare, ndërmjet qeverisë së republikës të shqipërisë dhe komisionit të komunitetit europian, në kuadër të programit “cards 2002”” | [`ligji-9002-2003/`](ligji-9002-2003/) | in force | 1 | 2003-03-29 | 2003-03-29 |
+
+## ligji-9003-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar për projektin “furnizimi me ujë i zonave fshatare të kavajës ii - zona e manskurisë”” | [`ligji-9003-2003/`](ligji-9003-2003/) | in force | 1 | 2003-03-29 | 2003-03-29 |
+
+## ligji-9004-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar për projektin “furnizimi me ujë dhe shkarkimi i ujërave të zeza në shqipërinë e mesme, komponentët berat dhe kuçovë”” | [`ligji-9004-2003/`](ligji-9004-2003/) | in force | 1 | 2003-03-29 | 2003-03-29 |
+
+## ligji-9005-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar për projektin “furnizimi i shqipërisë jugore me energji elektrike”” | [`ligji-9005-2003/`](ligji-9005-2003/) | in force | 1 | 2003-03-29 | 2003-03-29 |
+
+## ligji-9006-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar për projektin “furnizimi me ujë dhe shkarkimi i ujërave të zeza në korçë ii”” | [`ligji-9006-2003/`](ligji-9006-2003/) | in force | 1 | 2003-03-29 | 2003-03-29 |
+
+## ligji-9007-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë dhe bankës europiane për rindërtim dhe zhvillim “projekti ii urgjent për rehabilitimin e rrugëve”” | [`ligji-9007-2003/`](ligji-9007-2003/) | in force | 1 | 2003-03-29 | 2003-03-29 |
+
+## ligji-9011-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E “MARRËVESHJES SË HUASË, TË FINANCIMIT DHE TË PROJEKTIT NDËRMJET REPUBLIKËS SË SHQIPËRISË, FONDIT SHQIPTAR TË ZHVILLIMIT DHE KfW-SË PËR PROJEKTIN “FONDI I INVESTIMEVE SOCIALE, II”” | [`ligji-9011-2003/`](ligji-9011-2003/) | in force | 1 | 2003-04-01 | 2003-04-01 |
+
+## ligji-9012-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar për projektin “fondi i investimeve sociale, adf ii”” | [`ligji-9012-2003/`](ligji-9012-2003/) | in force | 1 | 2003-04-05 | 2003-04-05 |
+
+## ligji-9013-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E “MARRËVESHJES SHTESË SË HUASË DHE TË PROJEKTIT NDËRMJET REPUBLIKËS SË SHQIPËRISË, KORPORATËS ELEKTROENERGJETIKE SHQIPTARE DHE KfW-SË PËR PROJEKTIN “FURNIZIMI ME ENERGJI ELEKTRIKE I SHQIPËRISË JUGORE”” | [`ligji-9013-2003/`](ligji-9013-2003/) | in force | 1 | 2003-04-05 | 2003-04-05 |
+
+## ligji-9014-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “traktatit për ndalimin e plotë të provave bërthamore” | [`ligji-9014-2003/`](ligji-9014-2003/) | in force | 1 | 2003-04-07 | 2003-04-07 |
+
+## ligji-9015-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për ndihmë në rast aksidenti bërthamor ose emergjence radiologjike” | [`ligji-9015-2003/`](ligji-9015-2003/) | in force | 1 | 2003-04-05 | 2003-04-05 |
+
+## ligji-9018-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për mbledhjen e armëve, të municioneve dhe materialeve të tjera luftarake | [`ligji-9018-2003/`](ligji-9018-2003/) | in force | 1 | 2003-04-12 | 2003-04-12 |
+
+## ligji-9019-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit të mirëkuptimit ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës të italisë për zhvillimin e programeve të mbështetjes së forcave të policisë shqiptare dhe të bashkëpunimit ndërmjet të dyja vendeve në luftë kundër kriminalitetit, nëpërmjet zyrës ndërlidhëse italiane në shqipëri dhe oficerit ose oficerëve shqiptarë të kontaktit në itali” | [`ligji-9019-2003/`](ligji-9019-2003/) | in force | 1 | 2003-04-12 | 2003-04-12 |
+
+## ligji-9020-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për etiketimin e eksplozivëve plastikë për qëllime zbulimi” | [`ligji-9020-2003/`](ligji-9020-2003/) | in force | 1 | 2003-04-12 | 2003-04-12 |
+
+## ligji-9021-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për tregtinë ndërkombëtare të specieve të rrezikuara të florës dhe faunës së egër (cites) | [`ligji-9021-2003/`](ligji-9021-2003/) | in force | 1 | 2003-04-12 | 2003-04-12 |
+
+## ligji-9022-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes specifike ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së suedisë në mbështetje të projekteve për decentralizimin dhe qeverisjen vendore” | [`ligji-9022-2003/`](ligji-9022-2003/) | in force | 1 | 2003-04-12 | 2003-04-12 |
+
+## ligji-9026-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për njoftimin e shpejtë të një aksidenti bërthamor” | [`ligji-9026-2003/`](ligji-9026-2003/) | in force | 1 | 2003-04-12 | 2003-04-12 |
+
+## ligji-9027-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes ndërmjet ministrisë së mbrojtjes të republikës së shqipërisë dhe ministrisë së mbrojtjes kombëtare të republikës së greqisë për pjesëmarrjen e personelit ushtarak dhe civil shqiptar në qendrën stërvitore ndërkombëtare për operacionet mbështetëse të paqes” | [`ligji-9027-2003/`](ligji-9027-2003/) | in force | 1 | 2003-04-18 | 2003-04-18 |
+
+## ligji-9028-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes teknike ndërmjet ministrisë së mbrojtjes të republikës së shqipërisë dhe ministrisë së mbrojtjes kombëtare të republikës së greqisë për rregullimin e procedurave të ndërtimit, pajisjes dhe plotësimit me personel të spitalit ushtarak të gjirokastrës” | [`ligji-9028-2003/`](ligji-9028-2003/) | in force | 1 | 2003-04-18 | 2003-04-18 |
+
+## ligji-9031-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në traktatin e budapestit për njohjen ndërkombëtare të depozitimit të mikroorganizmave, për qëllime të procedurës së patentave | [`ligji-9031-2003/`](ligji-9031-2003/) | in force | 1 | 2003-05-13 | 2003-05-13 |
+
+## ligji-9032-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën ndërkombëtare për vijat e ngarkesës” 1966 | [`ligji-9032-2003/`](ligji-9032-2003/) | in force | 1 | 2003-05-13 | 2003-05-13 |
+
+## ligji-9033-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e nicës për klasifikimin ndërkombëtar të mallrave dhe shërbimeve, për qëllimet e regjistrimit të markave | [`ligji-9033-2003/`](ligji-9033-2003/) | in force | 1 | 2003-05-13 | 2003-05-13 |
+
+## ligji-9035-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës federale të gjermanisë për ripranimin e personave” | [`ligji-9035-2003/`](ligji-9035-2003/) | in force | 1 | 2003-05-22 | 2003-05-22 |
+
+## ligji-9036-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës të moldavisë për shmangien e taksimit të dyfishtë dhe për parandalimin e evazionit fiskal për tatimet mbi të ardhurat dhe mbi kapitalin” | [`ligji-9036-2003/`](ligji-9036-2003/) | in force | 1 | 2003-05-22 | 2003-05-22 |
+
+## ligji-9037-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit të katërt shtesë të marrëveshjes për forcat paqeruajtëse shumëkombëshe të europës juglindore” | [`ligji-9037-2003/`](ligji-9037-2003/) | in force | 1 | 2003-05-22 | 2003-05-22 |
+
+## ligji-9038-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës të kroacisë për ripranimin e personave me qëndrim të paligjshëm” | [`ligji-9038-2003/`](ligji-9038-2003/) | in force | 1 | 2003-05-22 | 2003-05-22 |
+
+## ligji-9042-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë, të financimit dhe të projektit “furnizimi me ujë, kavaja ii, manskuria” ndërmjet republikës së shqipërisë dhe bankës gjermane për rindërtim dhe zhvillim (kfw)” | [`ligji-9042-2003/`](ligji-9042-2003/) | in force | 1 | 2003-05-25 | 2003-05-25 |
+
+## ligji-9043-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë, të financimit dhe të projektit “furnizimi me ujë i shqipërisë së mesme, komponentët berat dhe kuçovë”, ndërmjet republikës së shqipërisë dhe bankës gjermane për rindërtim dhe zhvillim (kfw)” | [`ligji-9043-2003/`](ligji-9043-2003/) | in force | 1 | 2003-05-25 | 2003-05-25 |
+
+## ligji-9044-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë, të financimit dhe të projektit “furnizimi me ujë i shqipërisë së mesme, komponenti lushnjë”, ndërmjet republikës së shqipërisë dhe bankës gjermane për rindërtim dhe zhvillim (kfw)” | [`ligji-9044-2003/`](ligji-9044-2003/) | in force | 1 | 2003-05-25 | 2003-05-25 |
+
+## ligji-9045-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës të italisë për realizimin e programit të ristrukturimit teknik dhe menaxhues të kesh-sha dhe fuqizimin e sistemit elektrik shqiptar” | [`ligji-9045-2003/`](ligji-9045-2003/) | in force | 1 | 2003-05-31 | 2003-05-31 |
+
+## ligji-9046-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet ministrisë së mbrojtjes të republikës së shqipërisë dhe ministrisë së mbrojtjes kombëtare të republikës së greqisë për ndërtimin e godinës së komandës dhe të mjediseve të akomodimit të personelit, si dhe thellimin e kanalit hyrës dhe të basenit të bazës detare të bishtit të pallës” | [`ligji-9046-2003/`](ligji-9046-2003/) | in force | 1 | 2003-07-29 | 2003-07-29 |
+
+## ligji-9050-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për tregtinë e lirë ndërmjet republikës së shqipërisë dhe rumanisë” | [`ligji-9050-2003/`](ligji-9050-2003/) | in force | 1 | 2003-06-04 | 2003-06-04 |
+
+## ligji-9051-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës ndërmjet republikës së shqipërisë dhe mbretërisë së belgjikës për shmangien e taksimit të dyfishtë, lidhur me tatimet mbi të ardhurat dhe mbi kapitalin dhe për parandalimin e evazionit fiskal | [`ligji-9051-2003/`](ligji-9051-2003/) | in force | 1 | 2003-06-07 | 2003-06-07 |
+
+## ligji-9052-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “protokollin shtesë të “konventës për eliminimin e të gjitha formave të diskriminimit ndaj gruas”” | [`ligji-9052-2003/`](ligji-9052-2003/) | in force | 1 | 2003-06-07 | 2003-06-07 |
+
+## ligji-9054-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës franceze për shmangien e taksimit të dyfishtë për tatimet mbi të ardhurat e mbi kapitalin dhe për parandalimin e evazionit fiskal | [`ligji-9054-2003/`](ligji-9054-2003/) | in force | 1 | 2003-06-08 | 2003-06-08 |
+
+## ligji-9055-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën mbi të drejtën e detit” të okb-së | [`ligji-9055-2003/`](ligji-9055-2003/) | in force | 1 | 2003-06-11 | 2003-06-11 |
+
+## ligji-9056-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën ndërkombëtare për kërkim-shpëtimin në det” | [`ligji-9056-2003/`](ligji-9056-2003/) | in force | 1 | 2003-06-11 | 2003-06-11 |
+
+## ligji-9057-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në “Konventën për statusin e personave pa shtetësi” | [`ligji-9057-2003/`](ligji-9057-2003/) | in force | 1 | 2003-06-11 | 2003-06-11 |
+
+## ligji-9059-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për reduktimin e pashtetësisë” | [`ligji-9059-2003/`](ligji-9059-2003/) | in force | 1 | 2003-07-04 | 2003-07-04 |
+
+## ligji-9060-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për heqjen e kërkesës për legalizimin e dokumenteve zyrtare të huaja” | [`ligji-9060-2003/`](ligji-9060-2003/) | in force | 1 | 2003-07-04 | 2003-07-04 |
+
+## ligji-9063-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për statusin e trashëgimtarëve të ish-familjes mbretërore | [`ligji-9063-2003/`](ligji-9063-2003/) | in force | 1 | 2003-07-04 | 2003-07-04 |
+
+## ligji-9066-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës të turqisë për mbrojtjen shoqërore” | [`ligji-9066-2003/`](ligji-9066-2003/) | in force | 1 | 2003-07-10 | 2003-07-10 |
+
+## ligji-9068-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës europiane për vlefshmërinë ndërkombëtare të gjykimeve penale” | [`ligji-9068-2003/`](ligji-9068-2003/) | in force | 1 | 2003-07-10 | 2003-07-10 |
+
+## ligji-9073-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për privatizimin e shoqërisë: | [`ligji-9073-2003/`](ligji-9073-2003/) | in force | 1 | 2003-07-18 | 2003-07-18 |
+
+## ligji-9076-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes ndërmjet republikës së shqipërisë dhe bashkimit europian për veprimtaritë e misionit vëzhgues të bashkimit europian në republikën e shqipërisë” | [`ligji-9076-2003/`](ligji-9076-2003/) | in force | 1 | 2003-07-18 | 2003-07-18 |
+
+## ligji-9077-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për tregtinë e lirë ndërmjet republikës së shqipërisë dhe republikës së bullgarisë” | [`ligji-9077-2003/`](ligji-9077-2003/) | in force | 1 | 2003-07-19 | 2003-07-19 |
+
+## ligji-9081-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës për dorëzimin e personave në gjykatën ndërkombëtare penale” | [`ligji-9081-2003/`](ligji-9081-2003/) | in force | 1 | 2003-07-18 | 2003-07-18 |
+
+## ligji-9082-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë ndërmjet republikës së shqipërisë dhe bankës për zhvillim të këshillit të europës për projektin e rehabilitimit dhe të ndërtimit të spitalit të shkodrës” | [`ligji-9082-2003/`](ligji-9082-2003/) | in force | 1 | 2003-08-02 | 2003-08-02 |
+
+## ligji-9083-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë ndërmjet republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për projektin bashkiak të furnizimit me ujë dhe të kanalizimeve të qyteteve lezhë, durrës, fier dhe sarandë” | [`ligji-9083-2003/`](ligji-9083-2003/) | in force | 1 | 2003-08-02 | 2003-08-02 |
+
+## ligji-9088-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën doganore mbi importimin e përkohshëm të automjeteve rrugore private” | [`ligji-9088-2003/`](ligji-9088-2003/) | in force | 1 | 2003-08-09 | 2003-08-09 |
+
+## ligji-9092-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për zbatimin e ”konventës për ndalimin e zhvillimit, të prodhimit, magazinimit dhe përdorimit të armëve kimike dhe për shkatërrimin e tyre” | [`ligji-9092-2003/`](ligji-9092-2003/) | in force | 1 | 2003-08-19 | 2003-08-19 |
+
+## ligji-9093-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për krijimin e komisionit të përgjithshëm të peshkimit për mesdheun” | [`ligji-9093-2003/`](ligji-9093-2003/) | in force | 1 | 2003-08-19 | 2003-08-19 |
+
+## ligji-9094-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit opsional të konventës kundër torturës dhe trajtimit ose dënimit të egër, çnjerëzor ose poshtërues” | [`ligji-9094-2003/`](ligji-9094-2003/) | in force | 1 | 2003-08-19 | 2003-08-19 |
+
+## ligji-91-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe komisionit europian për pjesëmarrjen e republikës së shqipërisë në programin komunitar “creative europe 2014” | [`ligji-91-2014/`](ligji-91-2014/) | in force | 1 | 2014-08-26 | 2014-08-26 |
+
+## ligji-91-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E DOKUMENTIT NDRYSHUES TË MARRËVESHJES SË HUAS NDËRMJET REPUBLIKËS SË SHQIPËRISË, PËRFAQËSUAR NGA MINISTRIA E FINANCAVE DHE UJËSJELLËS-KANALIZIME, POGRADEC, SI AGJENCI E ZBATIMIT TË PROJEKTIT, DHE KfW FRANKFURT AM MAIN PËR FINANCIMIN E PROGRAMIT “MBROJTJA MJEDISORE E LIQENIT TË OHRIT, KANALIZIMET, POGRADEC III” | [`ligji-91-2016/`](ligji-91-2016/) | in force | 1 | 2016-10-20 | 2016-10-20 |
+
+## ligji-91-2018 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në amendamentin e kigalit të protokollit të montrealit “për substancat që hollojnë shtresën e ozonit” | [`ligji-91-2018/`](ligji-91-2018/) | amending act | 1 | 2019-01-05 | 2019-01-05 |
+
+## ligji-91-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin, organizimin dhe funksionimin e Autoritetit Kombëtar të Investigimit të Aksidenteve dhe Incidenteve Hekurudhore dhe Detare | [`ligji-91-2021/`](ligji-91-2021/) | in force | 1 | 2021-08-21 | 2021-08-21 |
+
+## ligji-91-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin në iniciativën e përbashkët për rregulloren e brendshme për shërbimet të Organizatës Botërore të Tregtisë | [`ligji-91-2022/`](ligji-91-2022/) | in force | 1 | 2023-01-27 | 2023-01-27 |
+
+## ligji-91-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Traktatit të Riadit për Disenjot dhe të rregulloreve sipas këtij Traktati, bërë në Riad, më 22 nëntor 2024 | [`ligji-91-2025/`](ligji-91-2025/) | in force | 1 | 2026-01-24 | 2026-01-24 |
+
+## ligji-91-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas direkte ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe Shteteve të Bashkuara të Amerikës, përfaqësuar nga Agjencia e Bashkëpunimit për Sigurinë e Mbrojtjes (DSCA), në kuadër të financimit të jashtëm ushtarak (FMF) | [`ligji-91-2026/`](ligji-91-2026/) | in force | 1 | 2026-07-31 | 2026-07-31 |
+
+## ligji-9100-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”memorandumit të mirëkuptimit ndërmjet qeverisë së republikës të shqipërisë dhe organizatës për furnizime dhe mbështetje e nato-s (namso) mbi bashkëpunimin për mbështetje logjistike” | [`ligji-9100-2003/`](ligji-9100-2003/) | in force | 1 | 2003-08-19 | 2003-08-19 |
+
+## ligji-9101-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes së tregtisë së lirë ndërmjet republikës së shqipërisë dhe bosnjës e hercegovinës” | [`ligji-9101-2003/`](ligji-9101-2003/) | in force | 1 | 2003-08-22 | 2003-08-22 |
+
+## ligji-9104-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës, lidhur me bashkëpunimin në fushën e parandalimit të përhapjes së armëve të shkatërrimit në masë dhe forcimit të marrëdhënieve ushtarake dhe të mbrojtjes” | [`ligji-9104-2003/`](ligji-9104-2003/) | in force | 1 | 2003-08-19 | 2003-08-19 |
+
+## ligji-9105-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “konventën për privilegjet dhe imunitetet e agjencive të specializuara” dhe anekset e saj | [`ligji-9105-2003/`](ligji-9105-2003/) | in force | 1 | 2003-08-23 | 2003-08-23 |
+
+## ligji-9110-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për organizimin dhe funksionimin e gjykatave për krime të rënda | [`ligji-9110-2003/`](ligji-9110-2003/) | in force | 1 | 2003-10-07 | 2003-10-07 |
+
+## ligji-9113-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”memorandumit të mirëkuptimit ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së mbretërisë të bashkuar të britanisë së madhe dhe irlandës së veriut për drejtimin e stërvitjeve ushtarake e të trajnimeve dhe për dispozitat e mbështetjes së vendit pritës” | [`ligji-9113-2003/`](ligji-9113-2003/) | in force | 1 | 2003-10-07 | 2003-10-07 |
+
+## ligji-9116-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e gjobave dhe të interesave për detyrimet tatimore të tvsh-së, të pashlyera nga kontraktorët e projekteve të financuara nga programi “phare” | [`ligji-9116-2003/`](ligji-9116-2003/) | in force | 1 | 2003-10-07 | 2003-10-07 |
+
+## ligji-9117-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përcaktimin e formës dhe të strukturës së formulës së privatizimit të ”armo” sha, fier | [`ligji-9117-2003/`](ligji-9117-2003/) | in force | 1 | 2003-10-07 | 2003-10-07 |
+
+## ligji-9122-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes për tregtinë e lirë, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe misionit të administratës së përkohshme të kombeve të bashkuara në kosovë (unmik), në emër të institucioneve të përkohshme vetëqeverisëse të kosovës” | [`ligji-9122-2003/`](ligji-9122-2003/) | in force | 1 | 2003-09-03 | 2003-09-03 |
+
+## ligji-9129-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në ”konventën universale për të drejtën e autorit” dhe dy protokollet shtesë të saj | [`ligji-9129-2003/`](ligji-9129-2003/) | in force | 1 | 2003-10-21 | 2003-10-21 |
+
+## ligji-9130-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për autoritetin portual | [`ligji-9130-2003/`](ligji-9130-2003/) | in force | 1 | 2003-10-21 | 2003-10-21 |
+
+## ligji-9132-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës të bullgarisë për transportin ndërkombëtar të kombinuar të mallrave” | [`ligji-9132-2003/`](ligji-9132-2003/) | in force | 1 | 2003-10-21 | 2003-10-21 |
+
+## ligji-9133-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës për programin e korpusit të paqes të shteteve të bashkuara të amerikës në republikën e shqipërisë” | [`ligji-9133-2003/`](ligji-9133-2003/) | in force | 1 | 2003-10-08 | 2003-10-08 |
+
+## ligji-9134-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes financiare ndërmjet qeverisë së republikës të shqipërisë dhe mediocredito centrale s.p.a. itali për programin e ristrukturimit teknik dhe menaxhues të kesh sha dhe fuqizimin e sistemit elektrik shqiptar” | [`ligji-9134-2003/`](ligji-9134-2003/) | in force | 1 | 2003-10-23 | 2003-10-23 |
+
+## ligji-9138-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e aktit normativ, me fuqinë e ligjit, nr.2, datë 19.9.2003 të këshillit të ministrave “për miratimin e fondit për partitë politike, pjesëmarrëse në zgjedhjet vendore, 2003” | [`ligji-9138-2003/`](ligji-9138-2003/) | in force | 1 | 2003-09-25 | 2003-09-25 |
+
+## ligji-9139-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës të polonisë për bashkëpunim në fushën e mbrojtjes” | [`ligji-9139-2003/`](ligji-9139-2003/) | in force | 1 | 2003-11-25 | 2003-11-25 |
+
+## ligji-9140-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes ushtarake, grant, ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës të turqisë” | [`ligji-9140-2003/`](ligji-9140-2003/) | in force | 1 | 2003-11-25 | 2003-11-25 |
+
+## ligji-9141-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe këshillit të ministrave të bosnjës dhe hercegovinës për transportin ndërkombëtar rrugor të udhëtarëve dhe të mallrave” | [`ligji-9141-2003/`](ligji-9141-2003/) | in force | 1 | 2003-11-25 | 2003-11-25 |
+
+## ligji-9142-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ”për shenjat dhe sinjalet rrugore, 8 nëntor 1968” dhe në protokollin ”për shenjat rrugore, 1 mars 1973” | [`ligji-9142-2003/`](ligji-9142-2003/) | in force | 1 | 2003-11-28 | 2003-11-28 |
+
+## ligji-9144-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të shtetit të vitit 2002 | [`ligji-9144-2003/`](ligji-9144-2003/) | in force | 1 | 2003-12-18 | 2003-12-18 |
+
+## ligji-9145-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë të zhvillimit, ndërmjet republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida), për programin e fazës së dytë të kredisë, në mbështetje të uljes së varfërisë” | [`ligji-9145-2003/`](ligji-9145-2003/) | in force | 1 | 2003-11-29 | 2003-11-29 |
+
+## ligji-9146-2003 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida), për ndryshimin e marrëveshjes së kredisë të zhvillimit, për projektin e mirëmbajtjes së rrugëve” | [`ligji-9146-2003/`](ligji-9146-2003/) | amending act | 1 | 2003-11-29 | 2003-11-29 |
+
+## ligji-9147-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës nr.155 të organizatës ndërkombëtare të punës “për sigurinë në punë, shëndetin dhe mjedisin e punës, 1981” | [`ligji-9147-2003/`](ligji-9147-2003/) | in force | 1 | 2003-12-18 | 2003-12-18 |
+
+## ligji-9148-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit të vitit 2002 të konventës nr.155 të organizatës ndërkombëtare të punës “për sigurinë në punë, shëndetin dhe mjedisin e punës, 1981” | [`ligji-9148-2003/`](ligji-9148-2003/) | in force | 1 | 2003-12-18 | 2003-12-18 |
+
+## ligji-9151-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E “MARRËVESHJES SË KREDISË TË ZHVILLIMIT, NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE SHOQaTËS NDËRKOMBËTARE PËR ZHVILLIM (IDA), PËR PROJEKTIN E PUNËVE TË KOMUNITETIT-II” | [`ligji-9151-2003/`](ligji-9151-2003/) | in force | 1 | 2003-12-25 | 2003-12-25 |
+
+## ligji-9152-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “memorandumit të mirëkuptimit, ndërmjet qeverisë së republikës të shqipërisë dhe komunitetit europian, për statusin e misionit të asistencës policore të komunitetit europian në shqipëri (pameca)” | [`ligji-9152-2003/`](ligji-9152-2003/) | in force | 1 | 2003-12-25 | 2003-12-25 |
+
+## ligji-9155-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes financiare, ndërmjet qeverisë së republikës të shqipërisë dhe komisionit të komuniteteve europiane, për programin vjetor kombëtar të veprimit, ”cards 2003”” | [`ligji-9155-2003/`](ligji-9155-2003/) | in force | 1 | 2004-01-15 | 2004-01-15 |
+
+## ligji-9156-2003 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes financiare, ndërmjet qeverisë së republikës të shqipërisë dhe komisionit të komuniteteve europiane, për programin vjetor rajonal të veprimit, ”cards 2003”” | [`ligji-9156-2003/`](ligji-9156-2003/) | in force | 1 | 2004-01-15 | 2004-01-15 |
+
+## ligji-9166-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën “për rregullat ndërkombëtare për parandalimin e përplasjeve në det, 1972” dhe në anekset e saj | [`ligji-9166-2004/`](ligji-9166-2004/) | in force | 1 | 2004-03-10 | 2004-03-10 |
+
+## ligji-9167-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare “për lehtësimin e kalimeve kufitare për mallrat e transportuara me hekurudhë” | [`ligji-9167-2004/`](ligji-9167-2004/) | in force | 1 | 2004-03-10 | 2004-03-10 |
+
+## ligji-9168-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare “për lehtësimin e kalimeve kufitare për udhëtarët dhe bagazhet e transportuara me hekurudhë (gjenevë, 10 janar 1952)” | [`ligji-9168-2004/`](ligji-9168-2004/) | in force | 1 | 2004-03-10 | 2004-03-10 |
+
+## ligji-9169-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes shtesë të konventës europiane të 21 marsit 1983 “për transferimin e personave të dënuar” ndërmjet republikës së shqipërisë dhe republikës së italisë | [`ligji-9169-2004/`](ligji-9169-2004/) | in force | 1 | 2004-03-05 | 2004-03-05 |
+
+## ligji-9172-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë, për bashkëpunim financiar në projektin ”furnizimi me ujë dhe shkarkimi i ujërave të zeza në krujë, ii-viti 2001”” | [`ligji-9172-2004/`](ligji-9172-2004/) | in force | 1 | 2004-03-11 | 2004-03-11 |
+
+## ligji-9173-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes, ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës federale të gjermanisë, për bashkëpunim financiar në projektin “fondi i investimeve sociale adf-iii-shqipëria veriore dhe lindore”” | [`ligji-9173-2004/`](ligji-9173-2004/) | in force | 1 | 2004-03-11 | 2004-03-11 |
+
+## ligji-9174-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes, ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës federale të gjermanisë, për bashkëpunim financiar (fondi i studimeve dhe i specialistëve, v-viti 2001)” | [`ligji-9174-2004/`](ligji-9174-2004/) | in force | 1 | 2004-03-11 | 2004-03-11 |
+
+## ligji-9175-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë, ndërmjet qeverisë së republikës të shqipërisë dhe bankës islamike për zhvillim, për financimin e projektit të rikonstruksionit të rrugës vorë-rinas-fushë-krujë” | [`ligji-9175-2004/`](ligji-9175-2004/) | in force | 1 | 2004-03-11 | 2004-03-11 |
+
+## ligji-9176-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes, ndërmjet ministrisë së financave, që vepron në emër të shtetit shqiptar, korporatës financiare ndërkombëtare (ifc) dhe bankës europiane për rindërtim dhe zhvillim (berzh), për blerjen e aksioneve të insig sha-së” | [`ligji-9176-2004/`](ligji-9176-2004/) | in force | 1 | 2004-03-20 | 2004-03-20 |
+
+## ligji-9177-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes së aksionarëve, ndërmjet ministrisë së financave, që vepron në emër të shtetit shqiptar, insig sha-së, korporatës financiare ndërkombëtare (ifc) dhe bankës europiane për rindërtim dhe zhvillim (berzh)” | [`ligji-9177-2004/`](ligji-9177-2004/) | in force | 1 | 2004-03-20 | 2004-03-20 |
+
+## ligji-9178-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes së rishitjes së aksioneve të insig sha-së, ndërmjet ministrisë së financave, që vepron në emër të shtetit shqiptar, korporatës financiare ndërkombëtare (ifc) dhe bankës europiane për rindërtim dhe zhvillim (berzh)” | [`ligji-9178-2004/`](ligji-9178-2004/) | in force | 1 | 2004-03-23 | 2004-03-23 |
+
+## ligji-9184-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes, ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së dukatit të madh të luksemburgut, për projektin e zhvillimit të bashkëpunimit ”alb/002 ujësjellës-kanalizime, në rajonin e dibrës”” | [`ligji-9184-2004/`](ligji-9184-2004/) | in force | 1 | 2004-03-31 | 2004-03-31 |
+
+## ligji-9185-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës, për transportin ajror” | [`ligji-9185-2004/`](ligji-9185-2004/) | in force | 1 | 2004-03-31 | 2004-03-31 |
+
+## ligji-9186-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë, për projektin ”furnizimi me ujë dhe shkarkimi i ujërave të zeza në shqipërinë e mesme - komponenti i lushnjës”” | [`ligji-9186-2004/`](ligji-9186-2004/) | in force | 1 | 2004-03-31 | 2004-03-31 |
+
+## ligji-9190-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen europiane plotësuese të konventës “për shenjat dhe sinjalet rrugore” (gjenevë, 1 maj 1971) | [`ligji-9190-2004/`](ligji-9190-2004/) | in force | 1 | 2004-04-10 | 2004-04-10 |
+
+## ligji-9191-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E “MARRËVESHJES SË FINANCIMIT TË PROJEKTIT NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË, PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, FONDIT TË ZHVILLIMIT SHQIPTAR, SI AGJENCI E ZBATIMIT TË PROJEKTIT DHE KREDITANSTALT FÜR WIEDERAUFBAU (KfW) PËR PROJEKTIN “FONDI I INVESTIMEVE SOCIALE-III”” | [`ligji-9191-2004/`](ligji-9191-2004/) | in force | 1 | 2004-04-10 | 2004-04-10 |
+
+## ligji-9192-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së rumanisë mbi bashkëpunimin ushtarak” | [`ligji-9192-2004/`](ligji-9192-2004/) | in force | 1 | 2004-04-10 | 2004-04-10 |
+
+## ligji-9193-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së bashkëpunimit në fushën e mbrojtjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës të greqisë” | [`ligji-9193-2004/`](ligji-9193-2004/) | in force | 1 | 2004-04-10 | 2004-04-10 |
+
+## ligji-9195-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së tregtisë së lirë ndërmjet republikës së shqipërisë dhe serbisë e malit të zi” | [`ligji-9195-2004/`](ligji-9195-2004/) | in force | 1 | 2004-04-13 | 2004-04-13 |
+
+## ligji-9196-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së tregtisë së lirë ndërmjet republikës së shqipërisë dhe republikës së moldavisë” | [`ligji-9196-2004/`](ligji-9196-2004/) | in force | 1 | 2004-04-17 | 2004-04-17 |
+
+## ligji-9197-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës nr.171 “mbi punën e natës”, 1990 të organizatës ndërkombëtare të punës” | [`ligji-9197-2004/`](ligji-9197-2004/) | in force | 1 | 2004-04-10 | 2004-04-10 |
+
+## ligji-92-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| “Për ratifikimin e marrëveshjes së garancisë ndërmjet Republikës së Shqipërisë dhe Bankës Europiane për Rindërtim dhe Zhvillim (BERZH), për marrëveshjen e huas ndërmjet Agjencisë së Sigurimit të Depozitave dhe Bankës Europiane për Rindërtim dhe Zhvillim për linjën e kredisë për Agjencinë e Sigurimit të Depozitave” | [`ligji-92-2021/`](ligji-92-2021/) | in force | 1 | 2021-08-14 | 2021-08-14 |
+
+## ligji-92-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për kujdesin alternativ në familje në Republikën e Shqipërisë | [`ligji-92-2025/`](ligji-92-2025/) | in force | 1 | 2026-01-28 | 2026-01-28 |
+
+## ligji-92-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës për Themelimin e Komisionit Ndërkombëtar të Kërkesave për Ukrainën, bërë në Hagë më 16.12.2025 | [`ligji-92-2026/`](ligji-92-2026/) | in force | 1 | 2026-11-03 | 2026-11-03 |
+
+## ligji-9201-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të hungarisë për zgjidhjen e borxhit të trashëguar të shqipërisë kundrejt hungarisë” | [`ligji-9201-2004/`](ligji-9201-2004/) | in force | 1 | 2004-04-23 | 2004-04-23 |
+
+## ligji-9202-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe makimport shkup për riskedulimin e borxhit” | [`ligji-9202-2004/`](ligji-9202-2004/) | in force | 1 | 2004-04-23 | 2004-04-23 |
+
+## ligji-9203-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës federale të gjermanisë për projektin “programi i mbrojtjes së mjedisit të liqenit të ohrit - masa shoqëruese”” | [`ligji-9203-2004/`](ligji-9203-2004/) | in force | 1 | 2004-05-01 | 2004-05-01 |
+
+## ligji-9204-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të bullgarisë për transportin detar tregtar” | [`ligji-9204-2004/`](ligji-9204-2004/) | in force | 1 | 2004-05-01 | 2004-05-01 |
+
+## ligji-9211-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen europiane “për shënimin e rrugëve”, gjenevë,1957 | [`ligji-9211-2004/`](ligji-9211-2004/) | in force | 1 | 2004-05-14 | 2004-05-14 |
+
+## ligji-9212-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare “për kufizimin e përgjegjësive për reklamimet detare, 1976” dhe në protokollin e vitit 1996 | [`ligji-9212-2004/`](ligji-9212-2004/) | in force | 1 | 2004-05-25 | 2004-05-25 |
+
+## ligji-9213-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së shqipërisë në konventën ndërkombëtare detare “për shpëtimin e jetës në det (SOLAS), 1947”, e ndryshuar dhe në protokollin e kësaj konvente, të vitit 1978, i ndryshuar | [`ligji-9213-2004/`](ligji-9213-2004/) | in force | 1 | 2004-05-25 | 2004-05-25 |
+
+## ligji-9214-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”Marrëveshjes së ekstradimit ndërmjet republikës së shqipërisë dhe republikës arabe të Egjiptit” | [`ligji-9214-2004/`](ligji-9214-2004/) | in force | 1 | 2004-05-25 | 2004-05-25 |
+
+## ligji-9224-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shërbimin meteorologjik ushtarak | [`ligji-9224-2004/`](ligji-9224-2004/) | in force | 1 | 2004-06-22 | 2004-06-22 |
+
+## ligji-9225-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së mbretërisë të spanjës për transportin ndërkombëtar rrugor të mallrave dhe udhëtarëve” | [`ligji-9225-2004/`](ligji-9225-2004/) | in force | 1 | 2004-06-22 | 2004-06-22 |
+
+## ligji-9226-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës europiane të investimeve për projektin “infrastruktura ujore bashkiake”” | [`ligji-9226-2004/`](ligji-9226-2004/) | in force | 1 | 2004-06-22 | 2004-06-22 |
+
+## ligji-9230-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit ndryshues të konventës europiane për shtypjen e terrorizmit” | [`ligji-9230-2004/`](ligji-9230-2004/) | in force | 1 | 2004-07-01 | 2004-07-01 |
+
+## ligji-9231-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E ”MARRËVESHJES SË KONCESIONIT TË FORMËS ”BOO” për ndËrtimin dhe shfrytëzimin e terminalit bregdetar, për depozitimin e naftËs dhe tË nËnprodukteve tË saj nË gjirin e VlorËs”, si dhe pËr ratifikimin e ”marrËveshjes sË koncesionit tË formËs ”BOT”, pËr ndËrtimin dhe shfrytËzimin e infrastrukturËs portuale nË shËrbim tË terminalit bregdetar nË gjirin e VlorËs” | [`ligji-9231-2004/`](ligji-9231-2004/) | in force | 1 | 2004-05-13 | 2004-05-13 |
+
+## ligji-9234-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimiN E “MARRËVESHJES së KREDIsë NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE BANKËS ISLAMIKE PËR ZHVILLIM (IDB) PËR FINANCIMIN E FAZËS së dytë TË PROJEKTIT TË SPITALIT TË PËRGJITHSHËM DURRËS” | [`ligji-9234-2004/`](ligji-9234-2004/) | in force | 1 | 2004-07-01 | 2004-07-01 |
+
+## ligji-9236-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për anëtarësimin e republikës së shqipërisë në nismën e europës qendrore (neq) | [`ligji-9236-2004/`](ligji-9236-2004/) | in force | 1 | 2004-07-30 | 2004-07-30 |
+
+## ligji-9237-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të italisë për realizimin e programit “periferitë urbane të tiranës - komponenti infrastrukturor”” | [`ligji-9237-2004/`](ligji-9237-2004/) | in force | 1 | 2004-07-30 | 2004-07-30 |
+
+## ligji-9238-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të italisë për realizimin e programit “rehabilitimi dhe pajisja e 5 poliklinikave”” | [`ligji-9238-2004/`](ligji-9238-2004/) | in force | 1 | 2004-07-30 | 2004-07-30 |
+
+## ligji-9242-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës europiane antidoping, 1989” | [`ligji-9242-2004/`](ligji-9242-2004/) | in force | 1 | 2004-08-03 | 2004-08-03 |
+
+## ligji-9245-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit shtesë të konventës penale për korrupsionin” | [`ligji-9245-2004/`](ligji-9245-2004/) | in force | 1 | 2004-08-03 | 2004-08-03 |
+
+## ligji-9246-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes plotësuese ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës të “marrëveshjes ndërmjet shteteve palë në traktatin e atlantikut verior dhe shteteve të tjera pjesëmarrëse në partneritetin për paqe, në lidhje me statusin e forcave të tyre”, mbi statusin e forcave të shteteve të bashkuara të amerikës në republikën e shqipërisë” | [`ligji-9246-2004/`](ligji-9246-2004/) | in force | 1 | 2004-08-03 | 2004-08-03 |
+
+## ligji-9249-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ”marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe këshillit të ministrave të bosnjës dhe hercegovinës për transportin ajror” | [`ligji-9249-2004/`](ligji-9249-2004/) | in force | 1 | 2004-08-20 | 2004-08-20 |
+
+## ligji-9254-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e kombeve të bashkuara “për kushtet e regjistrimit të anijeve”, | [`ligji-9254-2004/`](ligji-9254-2004/) | in force | 1 | 2004-08-20 | 2004-08-20 |
+
+## ligji-9255-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën “për unifikimin e disa rregullave për transportin ajror ndërkombëtar” | [`ligji-9255-2004/`](ligji-9255-2004/) | in force | 1 | 2004-08-20 | 2004-08-20 |
+
+## ligji-9256-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë së zhvillimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për projektin e prodhimit dhe të ristrukturimit të sektorit të energjisë” | [`ligji-9256-2004/`](ligji-9256-2004/) | in force | 1 | 2004-08-26 | 2004-08-26 |
+
+## ligji-9257-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së grantit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për projektin e menaxhimit të integruar të ujërave dhe ekosistemit” | [`ligji-9257-2004/`](ligji-9257-2004/) | in force | 1 | 2004-08-26 | 2004-08-26 |
+
+## ligji-9262-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit shtesë të konventës për krimin kibernetik, për penalizimin e akteve me natyrë raciste dhe ksenofobe të kryera nëpërmjet sistemeve kompjuterike” | [`ligji-9262-2004/`](ligji-9262-2004/) | in force | 1 | 2004-08-31 | 2004-08-31 |
+
+## ligji-9263-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës së stokholmit “për ndotësit organikë të qëndrueshëm”” | [`ligji-9263-2004/`](ligji-9263-2004/) | in force | 1 | 2004-08-31 | 2004-08-31 |
+
+## ligji-9264-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “protokollit nr.12 të konventës “për mbrojtjen e të drejtave të njeriut dhe lirive themelore”” | [`ligji-9264-2004/`](ligji-9264-2004/) | in force | 1 | 2004-08-31 | 2004-08-31 |
+
+## ligji-9265-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës europiane “për kompensimin e viktimave të krimeve të dhunshme”” | [`ligji-9265-2004/`](ligji-9265-2004/) | in force | 1 | 2004-08-31 | 2004-08-31 |
+
+## ligji-9266-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| PËR RATIFIKIMIN E “MARRËVESHJES NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE QEVERISË SË REPUBLIKËS TË ITALISË PËR REALIZIMIN E programit “MENAXHIMI I MBETJEVE URBANE TË TIRANËS”” | [`ligji-9266-2004/`](ligji-9266-2004/) | in force | 1 | 2004-09-17 | 2004-09-17 |
+
+## ligji-9272-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen europiane “për transportin ndërkombëtar rrugor të mallrave të rrezikshme (adr)” dhe protokollin e nënshkrimit” | [`ligji-9272-2004/`](ligji-9272-2004/) | in force | 1 | 2004-11-04 | 2004-11-04 |
+
+## ligji-9273-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen “për adoptimin e kushteve të njëjta për kontrollet teknike periodike të mjeteve me rrota dhe njohjen e ndërsjellë të kontrolleve të tilla”” | [`ligji-9273-2004/`](ligji-9273-2004/) | in force | 1 | 2004-10-22 | 2004-10-22 |
+
+## ligji-9277-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën e athinës “për transportin e pasagjerëve dhe bagazheve të tyre me det”, 1974 dhe protokollet e viteve 1976, 1990 dhe 2002 | [`ligji-9277-2004/`](ligji-9277-2004/) | in force | 1 | 2004-11-11 | 2004-11-11 |
+
+## ligji-9278-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës nr.173 të organizatës ndërkombëtare të punës “mbrojtja e pretendimeve të punëtorëve në rast falimentimi të punëdhënësit”, 1992 | [`ligji-9278-2004/`](ligji-9278-2004/) | in force | 1 | 2004-11-11 | 2004-11-11 |
+
+## ligji-9279-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin e kartagjenës për biosigurinë të konventës “për larminë biologjike” | [`ligji-9279-2004/`](ligji-9279-2004/) | in force | 1 | 2004-11-11 | 2004-11-11 |
+
+## ligji-9280-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shpalljen e “ditës së kujtesës” | [`ligji-9280-2004/`](ligji-9280-2004/) | in force | 1 | 2004-11-11 | 2004-11-11 |
+
+## ligji-9282-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit shtesë të “marrëveshjes ndërmjet shteteve palë në traktatin e atlantikut të veriut dhe shteteve të tjera pjesëmarrëse në partneritetin për paqe, për sa i përket statusit të forcave të tyre” | [`ligji-9282-2004/`](ligji-9282-2004/) | in force | 1 | 2004-11-23 | 2004-11-23 |
+
+## ligji-9283-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së transportit ajror ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës të turqisë për shërbimet ajrore ndërmjet dhe përtej territoreve respektive” | [`ligji-9283-2004/`](ligji-9283-2004/) | in force | 1 | 2004-11-23 | 2004-11-23 |
+
+## ligji-9289-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen “për transportin ndërkombëtar të ushqimeve delikate dhe pajisjet speciale, që përdoren në këto transporte” | [`ligji-9289-2004/`](ligji-9289-2004/) | in force | 1 | 2004-11-24 | 2004-11-24 |
+
+## ligji-9291-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të shtetit të vitit 2003 | [`ligji-9291-2004/`](ligji-9291-2004/) | in force | 1 | 2004-11-27 | 2004-11-27 |
+
+## ligji-9292-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare “për krijimin e fondit ndërkombëtar për kompensimin e dëmeve nga ndotjet me karburant”, 1992 | [`ligji-9292-2004/`](ligji-9292-2004/) | in force | 1 | 2004-12-10 | 2004-12-10 |
+
+## ligji-9293-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare “për përgjegjësinë civile për dëmet nga ndotjet me karburant”, 1992 | [`ligji-9293-2004/`](ligji-9293-2004/) | in force | 1 | 2004-12-18 | 2004-12-18 |
+
+## ligji-9294-2004 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pranimin nga republika e shqipërisë të rezolutës a.724 (17) “për ndryshimet e konventës së organizatës ndërkombëtare detare dhe aneksit të saj”, 1991 | [`ligji-9294-2004/`](ligji-9294-2004/) | amending act | 1 | 2004-12-18 | 2004-12-18 |
+
+## ligji-9296-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për verifikimin, identifikimin dhe regjistrimin e shtetasve nga njësitë e qeverisjes vendore | [`ligji-9296-2004/`](ligji-9296-2004/) | in force | 1 | 2004-10-28 | 2004-10-28 |
+
+## ligji-9299-2004 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në vendimin iii/1, amendament i konventës së bazelit “për lëvizjen ndërkufitare të mbetjeve të rrezikshme dhe asgjësimin e tyre” | [`ligji-9299-2004/`](ligji-9299-2004/) | amending act | 1 | 2004-12-24 | 2004-12-24 |
+
+## ligji-93-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së shtetit të kuvajtit për bashkëpunimin ligjor dhe gjyqësor në çështjet penale | [`ligji-93-2012/`](ligji-93-2012/) | in force | 1 | 2012-11-07 | 2012-11-07 |
+
+## ligji-93-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës për shitjen e 100 për qind të aksioneve të shoqërisë “HEC Bistrica 1 dhe Bistrica 2” sh.a., të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe shoqërisë “Kurum International” sh.a | [`ligji-93-2013/`](ligji-93-2013/) | in force | 1 | 2013-03-05 | 2013-03-05 |
+
+## ligji-93-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përfshirjen dhe aksesueshmërinë e personave me aftësi të kufizuara | [`ligji-93-2014/`](ligji-93-2014/) | in force | 1 | 2014-09-12 | 2014-09-12 |
+
+## ligji-93-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe mbretërisë së bashkuar të britanisë së madhe e irlandës së veriut, që plotëson konventën europiane për ekstradimin, të vitit 1957 | [`ligji-93-2017/`](ligji-93-2017/) | in force | 1 | 2017-10-25 | 2017-10-25 |
+
+## ligji-93-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e memorandumit të mirëkuptimit ndërmjet Qeverisë së Republikës së Shqipërisë (Këshilli i Ministrave) dhe Qeverisë së Shteteve të Bashkuara të Amerikës për programin e shkëmbimit akademik “Fulbright” | [`ligji-93-2019/`](ligji-93-2019/) | in force | 1 | 2020-01-21 | 2020-01-21 |
+
+## ligji-93-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës shumëpalëshe (MLI) për zbatimin e masave që lidhen me marrëveshjet tatimore për parandalimin e erozionit të bazës dhe transferimit të fitimeve (BEPS) | [`ligji-93-2020/`](ligji-93-2020/) | in force | 1 | 2020-08-14 | 2020-08-14 |
+
+## ligji-93-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë, (huamarrësi), përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt am Main (KfW) për mbështetjen e reformës në sektorin energjetik në Shqipëri - faza I | [`ligji-93-2021/`](ligji-93-2021/) | in force | 1 | 2021-08-14 | 2021-08-14 |
+
+## ligji-93-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për financimin e projektit “Aftësia ripërtëritëse e parë dhe zhvillimi i gjelbër - hua për politikat e zhvillimit” | [`ligji-93-2023/`](ligji-93-2023/) | in force | 1 | 2023-12-16 | 2023-12-16 |
+
+## ligji-93-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dekoratat në Republikën e Shqipërisë | [`ligji-93-2024/`](ligji-93-2024/) | in force | 1 | 2024-03-28 | 2024-03-28 |
+
+## ligji-93-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës kuadër të Këshillit të Evropës për Inteligjencën Artificiale, të Drejtat e Njeriut, Demokracinë dhe Shtetin e së Drejtës | [`ligji-93-2026/`](ligji-93-2026/) | in force | 1 | 2026-11-03 | 2026-11-03 |
+
+## ligji-9300-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në shtojcën “a” të konventës për transportin ndërkombëtar hekurudhor (cotif) “për rregullat uniforme për kontratën e transportit ndërkombëtar hekurudhor të udhëtarëve dhe të bagazheve (civ)” | [`ligji-9300-2004/`](ligji-9300-2004/) | in force | 1 | 2004-12-24 | 2004-12-24 |
+
+## ligji-9305-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në marrëveshjen “për transportin ndërkombëtar të rastit të udhëtarëve me autobus” (marrëveshja interbus) | [`ligji-9305-2004/`](ligji-9305-2004/) | in force | 1 | 2004-12-28 | 2004-12-28 |
+
+## ligji-9306-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të maqedonisë për ripranimin e personave” | [`ligji-9306-2004/`](ligji-9306-2004/) | in force | 1 | 2004-12-24 | 2004-12-24 |
+
+## ligji-9307-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të maqedonisë për bashkëpunimin në luftën kundër terrorizmit, krimit të organizuar, trafikut të paligjshëm të drogave narkotike, substancave psikotrope e prekursorëve, migracionit të paligjshëm dhe veprimtarive të tjera të paligjshme” | [`ligji-9307-2004/`](ligji-9307-2004/) | in force | 1 | 2004-12-24 | 2004-12-24 |
+
+## ligji-9309-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së garancisë ndërmjet republikës së shqipërisë dhe bankës europiane për rindërtim dhe zhvillim (berzh) dhe të marrëveshjes së kredisë ndërmjet korporatës elektroenergjetike shqiptare dhe bankës europiane për rindërtim dhe zhvillim (berzh), për projektin e prodhimit të energjisë termike në vlorë” | [`ligji-9309-2004/`](ligji-9309-2004/) | in force | 1 | 2005-01-01 | 2005-01-01 |
+
+## ligji-9310-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të italisë, për realizimin e programit “ndërtimi i segmentit rrugor lushnjë-fier dhe supervizioni i punimeve për dy segmentet rrugore lushnjë-fier dhe fier-vlorë”” | [`ligji-9310-2004/`](ligji-9310-2004/) | in force | 1 | 2005-01-04 | 2005-01-04 |
+
+## ligji-9311-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida), për projektin e menaxhimit të burimeve ujore” | [`ligji-9311-2004/`](ligji-9311-2004/) | in force | 1 | 2005-01-01 | 2005-01-01 |
+
+## ligji-9312-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së koncesionit, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe shoqërisë koncesionare ”tirana airport partners”, shpk, për ndërtimin, vënien në punë, operimin dhe mirëmbajtjen e aeroportit ndërkombëtar ”nënë tereza”, tiranë dhe për dhënien e disa stimujve kësaj shoqërie koncesionare | [`ligji-9312-2004/`](ligji-9312-2004/) | in force | 1 | 2004-12-03 | 2004-12-03 |
+
+## ligji-9313-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për privatizimin e aksioneve, pronë e shtetit shqiptar, të bankës italo-shqiptare | [`ligji-9313-2004/`](ligji-9313-2004/) | in force | 1 | 2005-01-01 | 2005-01-01 |
+
+## ligji-9316-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare “për asistencë të ndërsjellë administrative në çështjet doganore” | [`ligji-9316-2004/`](ligji-9316-2004/) | in force | 1 | 2005-01-04 | 2005-01-04 |
+
+## ligji-9319-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të malit të zi për vendosjen e linjës ndërkombëtare liqenore për udhëtarë shkodër-virpazar” | [`ligji-9319-2004/`](ligji-9319-2004/) | in force | 1 | 2005-01-04 | 2005-01-04 |
+
+## ligji-9320-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës nr.97 të organizatës ndërkombëtare të punës “për migracionin për punësim”, e rishikuar” | [`ligji-9320-2004/`](ligji-9320-2004/) | in force | 1 | 2005-01-04 | 2005-01-04 |
+
+## ligji-9321-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për privatizimin e banesave dhe objekteve të kthyera në banesa, të ndërtuara me fondet e shoqërive dhe të ndërmarrjeve shtetërore | [`ligji-9321-2004/`](ligji-9321-2004/) | in force | 1 | 2005-01-04 | 2005-01-04 |
+
+## ligji-9324-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës eksport-import të koresë për projektin e elektrifikimit të zonave rurale” | [`ligji-9324-2004/`](ligji-9324-2004/) | in force | 1 | 2005-01-04 | 2005-01-04 |
+
+## ligji-9334-2004 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin e kiotos të konventës kuadër të kombeve të bashkuara për ndryshimet klimatike | [`ligji-9334-2004/`](ligji-9334-2004/) | amending act | 1 | 2004-12-16 | 2004-12-16 |
+
+## ligji-9335-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin ndryshues të konventës europiane për televizionin ndërkufitar | [`ligji-9335-2004/`](ligji-9335-2004/) | in force | 1 | 2004-12-16 | 2004-12-16 |
+
+## ligji-9336-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së kredisë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe fondit opec për zhvillimin ndërkombëtar për projektin e menaxhimit të burimeve ujore | [`ligji-9336-2004/`](ligji-9336-2004/) | in force | 1 | 2004-12-16 | 2004-12-16 |
+
+## ligji-9337-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë për zhvillim ndërmjet këshillit të ministrave të republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida), për programin e fazës së tretë të kredisë, në mbështetje të uljes së varfërisë” | [`ligji-9337-2004/`](ligji-9337-2004/) | in force | 1 | 2005-01-01 | 2005-01-01 |
+
+## ligji-9340-2004 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “MarrËveshjes sË garancisË ndËrmjet KËshillit tË Ministrave tË RepublikËs sË ShqiPËrisË dhe BankËs Europiane tË Investimeve, pËr kontratËn financiare pËr projektin e ndËrtimit tË tec-it nË vlorË” | [`ligji-9340-2004/`](ligji-9340-2004/) | in force | 1 | 2005-01-15 | 2005-01-15 |
+
+## ligji-9342-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes financiare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe mediocreditocentrale (mcc s.p.a), për financimin e programit për ndërtimin e segmentit rrugor lushnjë-fier dhe mbikëqyrjen e punimeve për dy segmente rrugore, lushnjë-fier dhe fier-vlorë” | [`ligji-9342-2005/`](ligji-9342-2005/) | in force | 1 | 2005-04-09 | 2005-04-09 |
+
+## ligji-9344-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ushtarake grant ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të turqisë” | [`ligji-9344-2005/`](ligji-9344-2005/) | in force | 1 | 2005-04-09 | 2005-04-09 |
+
+## ligji-9345-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të polonisë për mbrojtjen e përbashkët të informacionit të klasifikuar” | [`ligji-9345-2005/`](ligji-9345-2005/) | in force | 1 | 2005-04-09 | 2005-04-09 |
+
+## ligji-9347-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të maqedonisë për mbrojtjen dhe zhvillimin e qëndrueshëm të liqenit të ohrit dhe të pellgut të tij ujëmbledhës” | [`ligji-9347-2005/`](ligji-9347-2005/) | in force | 1 | 2005-04-10 | 2005-04-10 |
+
+## ligji-9348-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë dhe republikës së bullgarisë për ndihmë të ndërsjellë juridike në çështjet civile” | [`ligji-9348-2005/`](ligji-9348-2005/) | in force | 1 | 2005-04-10 | 2005-04-10 |
+
+## ligji-9349-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe fondit kuvajtian për zhvillim ekonomik arab për projektin e rehabilitimit të ujitjes (faza iii)” | [`ligji-9349-2005/`](ligji-9349-2005/) | in force | 1 | 2005-04-10 | 2005-04-10 |
+
+## ligji-9350-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së mbretërisë së bashkuar të britanisë së madhe dhe irlandës së veriut për ripranimin e personave dhe të protokollit të saj” | [`ligji-9350-2005/`](ligji-9350-2005/) | in force | 1 | 2005-04-10 | 2005-04-10 |
+
+## ligji-9351-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe misionit të kombeve të bashkuara në kosovë, në emër të institucioneve të përkohshme për vetëqeverisje në kosovë, për shmangien e tatimeve të dyfishta, lidhur me tatimet mbi të ardhurat dhe mbi kapitalin, për parandalimin e evazionit fiskal” | [`ligji-9351-2005/`](ligji-9351-2005/) | in force | 1 | 2005-04-10 | 2005-04-10 |
+
+## ligji-9354-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për caktimin e zonave zgjedhore | [`ligji-9354-2005/`](ligji-9354-2005/) | in force | 1 | 2005-03-18 | 2005-03-18 |
+
+## ligji-9358-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes financiare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane, për programin vjetor kombëtar të veprimit, cards 2004” | [`ligji-9358-2005/`](ligji-9358-2005/) | in force | 1 | 2005-05-13 | 2005-05-13 |
+
+## ligji-9359-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës europiane “për marrëdhëniet me fëmijët”” | [`ligji-9359-2005/`](ligji-9359-2005/) | in force | 1 | 2005-05-18 | 2005-05-18 |
+
+## ligji-9360-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen europiane në plotësim të ”konventës për trafikun rrugor, hapur për nënshkrim në vjenë më 8 nëntor 1968”, bërë në gjenevë më 1 maj 1971” | [`ligji-9360-2005/`](ligji-9360-2005/) | in force | 1 | 2005-05-18 | 2005-05-18 |
+
+## ligji-9361-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për një trajtim të veçantë financiar të efektivave, oficerë dhe nënoficerë lundrues, të nëndetëseve dhe polumbarëve të forcave detare, në pension | [`ligji-9361-2005/`](ligji-9361-2005/) | in force | 1 | 2005-05-18 | 2005-05-18 |
+
+## ligji-9364-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës “për pjesëmarrjen e të huajve në jetën publike, në nivel lokal”” | [`ligji-9364-2005/`](ligji-9364-2005/) | in force | 1 | 2005-05-18 | 2005-05-18 |
+
+## ligji-9365-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për procedurat e njohjes së zotësisë juridike të personave juridikë kishtarë të kishës katolike | [`ligji-9365-2005/`](ligji-9365-2005/) | in force | 1 | 2005-05-18 | 2005-05-18 |
+
+## ligji-9370-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e instrumenteve, që ndryshojnë kushtetutën dhe konventën e bashkimit ndërkombëtar të telekomunikacionit (gjenevë, 1992) | [`ligji-9370-2005/`](ligji-9370-2005/) | in force | 1 | 2005-05-31 | 2005-05-31 |
+
+## ligji-9378-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin që ndryshon nenet 1(a) dhe 14 (1), (3)(b) të marrëveshjes europiane të 30 shtatorit 1957 për transportin ndërkombëtar rrugor të mallrave të rrezikshme (adr), bërë në gjenevë më 28 tetor 1993 | [`ligji-9378-2005/`](ligji-9378-2005/) | in force | 1 | 2005-06-14 | 2005-06-14 |
+
+## ligji-9381-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për kompensimin e burgimit të padrejtë | [`ligji-9381-2005/`](ligji-9381-2005/) | in force | 1 | 2005-06-14 | 2005-06-14 |
+
+## ligji-9382-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës ndërmjet republikës së shqipërisë dhe mbretërisë së holandës, për shmangien e tatimeve të dyfishta dhe për parandalimin e evazionit fiskal për tatimet mbi të ardhurat dhe mbi kapitalin” | [`ligji-9382-2005/`](ligji-9382-2005/) | in force | 1 | 2005-06-28 | 2005-06-28 |
+
+## ligji-9383-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës popullore të kinës për shmangien e taksimit të dyfishtë dhe parandalimin e evazionit fiskal, lidhur me tatimet mbi të ardhurat dhe kapitalin” | [`ligji-9383-2005/`](ligji-9383-2005/) | in force | 1 | 2005-06-28 | 2005-06-28 |
+
+## ligji-9384-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe korporatës amerikane “lockheed martin global inc (lmgi)”, për ndërtimin e sistemit të integruar të vëzhgimit të hapësirës detare”, nënshkruar në tiranë më 15 mars 2005 | [`ligji-9384-2005/`](ligji-9384-2005/) | in force | 1 | 2005-06-28 | 2005-06-28 |
+
+## ligji-9389-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin dhe funksionimin e këshillit koordinues në luftën kundër gjakmarrjes | [`ligji-9389-2005/`](ligji-9389-2005/) | in force | 1 | 2005-06-29 | 2005-06-29 |
+
+## ligji-9391-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes financiare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane për programin vjetor të veprimit të fqinjësisë “cards 2004”” | [`ligji-9391-2005/`](ligji-9391-2005/) | in force | 1 | 2005-06-30 | 2005-06-30 |
+
+## ligji-9392-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë dhe bashkimit europian, për pjesëmarrjen e republikës së shqipërisë në operacionin ushtarak të bashkimit europian për menaxhimin e krizës në bosnjë-hercegovinë (operacioni “althea”)” | [`ligji-9392-2005/`](ligji-9392-2005/) | in force | 1 | 2005-06-30 | 2005-06-30 |
+
+## ligji-9393-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë dhe financiare për projektin e ndërtimit të linjës 400 kv tiranë-podgoricë, ndërmjet korporatës elektroenergjetike shqiptare (kesh, sha) dhe kreditanstalt fur wiederaufbau, frankfurt am main (kfw), marrëveshjes së garancisë ndërmjet ministrisë së financave të republikës së shqipërisë dhe kreditanstalt fur wiederaufbau, frankfurt am main (kfw), si dhe të marrëveshjes së arbitrazhit ndërmjet korporatës elektroenergjetike shqiptare (kesh, sha) dhe kreditanstalt fur wiederaufbau, frankfurt am main (kfw)” | [`ligji-9393-2005/`](ligji-9393-2005/) | in force | 1 | 2005-06-30 | 2005-06-30 |
+
+## ligji-9394-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim (idb), për projektin e spitalit të përgjithshëm të kavajës” | [`ligji-9394-2005/`](ligji-9394-2005/) | in force | 1 | 2005-06-30 | 2005-06-30 |
+
+## ligji-9395-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare “për mbrojtjen e varieteteve të reja të bimëve” | [`ligji-9395-2005/`](ligji-9395-2005/) | in force | 1 | 2005-06-30 | 2005-06-30 |
+
+## ligji-94-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së maqedonisë për zgjidhjen e borxhit të republikës së shqipërisë kundrejt republikës së maqedonisë, lidhur me shlyerjen e shumave në llogarinë e shkëmbimit të mallrave ndërmjet republikës së shqipërisë dhe ish-republikës federale socialiste të jugosllavisë | [`ligji-94-2012/`](ligji-94-2012/) | in force | 1 | 2012-11-07 | 2012-11-07 |
+
+## ligji-94-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës për shitjen e 100 për qind të aksioneve të shoqërisë “HEC Ulëz-Shkopet” sh.a., të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe shoqërisë “Kurum International” sh.a | [`ligji-94-2013/`](ligji-94-2013/) | in force | 1 | 2013-03-05 | 2013-03-05 |
+
+## ligji-94-2016 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së italisë për konvertimin e borxhit për zhvillim | [`ligji-94-2016/`](ligji-94-2016/) | in force | 1 | 2016-10-29 | 2016-10-29 |
+
+## ligji-94-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunim financiar 2016, për projektin “programi për rinovimin e konvikteve në kampusin universitar të tiranës, sipas parimit të eficiencës energjetike, faza ii” | [`ligji-94-2017/`](ligji-94-2017/) | in force | 1 | 2017-10-25 | 2017-10-25 |
+
+## ligji-94-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunim teknik 2018, për projektin “Menaxhimi i modernizuar i mbetjeve dhe ekonomia ricikluese në respekt të mjedisit (DKTI)” | [`ligji-94-2019/`](ligji-94-2019/) | in force | 1 | 2020-01-21 | 2020-01-21 |
+
+## ligji-94-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për titujt e nderit dhe titujt vendorë të nderit në Republikën e Shqipërisë | [`ligji-94-2022/`](ligji-94-2022/) | in force | 1 | 2023-02-02 | 2023-02-02 |
+
+## ligji-94-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për vullnetarizmin | [`ligji-94-2025/`](ligji-94-2025/) | in force | 1 | 2026-02-05 | 2026-02-05 |
+
+## ligji-94-2026 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pranimin e vendimit DEC-I 1/119-VI/2024, të Këshillit të Anëtarëve të Këshillit Ndërkombëtar të Ullirit për ndryshimin e nenit 36 të Marrëveshjes Ndërkombëtare për Vajin e Ullirit dhe Ullinjtë e Tavolinës, 2015, aderuar me ligjin nr. 112/2017 | [`ligji-94-2026/`](ligji-94-2026/) | amending act | 1 | 2026-11-03 | 2026-11-03 |
+
+## ligji-9401-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen për nxitjen e respektimit të masave ndërkombëtare të menaxhimit dhe të ruajtjes së burimeve nga anijet e peshkimit në det të hapur” | [`ligji-9401-2005/`](ligji-9401-2005/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+
+## ligji-9402-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes shtesë të huasë dhe të projektit, për marrëveshjen e huasë të datës 24 korrik 1999, ndryshuar me marrëveshjen shtesë të huasë dhe të projektit të datës 5 tetor 2002, ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave (huamarrësi) dhe korporata elektroenergjetike shqiptare (agjencia zbatuese e projektit) dhe kfw-së (frankfurt am main) për projektin “furnizimi me energji elektrike për shqipërinë jugore”” | [`ligji-9402-2005/`](ligji-9402-2005/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+
+## ligji-9403-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës ndërmjet këshillit të ministrave të republikës së shqipërisë dhe këshillit të ministrave të serbisë dhe malit të zi, për shmangien e taksimit të dyfishtë për tatimet mbi të ardhurat dhe mbi kapitalin” | [`ligji-9403-2005/`](ligji-9403-2005/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+
+## ligji-9404-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes kuadër ndërmjet republikës së shqipërisë dhe komunitetit europian, për parimet e përgjithshme për pjesëmarrjen e shqipërisë në programet komunitare” | [`ligji-9404-2005/`](ligji-9404-2005/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+
+## ligji-9405-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “shtojcës në marrëveshjen financiare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane ”për programin vjetor kombëtar të veprimit, cards, 2004”” | [`ligji-9405-2005/`](ligji-9405-2005/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+
+## ligji-9406-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës për zhvillim të këshillit të europës (ceb), për financimin e fazës së parë të projektit të ndërtimit dhe rehabilitimit të shkollave të tiranës” | [`ligji-9406-2005/`](ligji-9406-2005/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+
+## ligji-9410-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes detare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të turqisë | [`ligji-9410-2005/`](ligji-9410-2005/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+
+## ligji-9411-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së rumanisë për zgjidhjen e borxhit të republikës së shqipërisë ndaj rumanisë | [`ligji-9411-2005/`](ligji-9411-2005/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+
+## ligji-9412-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës për zhvillim të këshillit të europës (ceb), për financimin e fazës së parë të qendrës spitalore universitare “nënë tereza”, tiranë” | [`ligji-9412-2005/`](ligji-9412-2005/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+
+## ligji-9413-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës të kroacisë për shërbimet ajrore | [`ligji-9413-2005/`](ligji-9413-2005/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+
+## ligji-9416-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për procedurat e privatizimit të banesave të ndërtuara ose të blera me fonde shtetërore nga enti kombëtar i banesave | [`ligji-9416-2005/`](ligji-9416-2005/) | in force | 1 | 2005-06-29 | 2005-06-29 |
+
+## ligji-9420-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e kamatëvonesave të kontributeve të sigurimeve të detyrueshme shoqërore të papaguara | [`ligji-9420-2005/`](ligji-9420-2005/) | in force | 1 | 2005-06-29 | 2005-06-29 |
+
+## ligji-9421-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e aktit normativ me fuqinë e ligjit nr.1, datë 11.9.2005 të Këshillit të Ministrave “Për ratifikimin e memorandumit të mirëkuptimit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komandës Supreme të Forcave të Aleancës në Europë (SHAPE), lidhur me dispozitat e mbështetjes së vendit pritës për forcat pjesëmarrëse në stërvitjen “Cooperative Engagement 05” dhe zhvillimin e stërvitjes ushtarake ndërkombëtare të drejtuar nga NATO, “Cooperative Engagement 05”, me pjesëmarrjen e forcave të huaja ushtarake në territorin e Republikës së Shqipërisë” | [`ligji-9421-2005/`](ligji-9421-2005/) | in force | 1 | 2005-09-29 | 2005-09-29 |
+
+## ligji-9422-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së huasë ndërmjet Republikës së Shqipërisë, Bankës së Shqipërisë dhe Komunitetit Europian për asistencë financiare” | [`ligji-9422-2005/`](ligji-9422-2005/) | in force | 1 | 2005-11-08 | 2005-11-08 |
+
+## ligji-9423-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së kredisë për zhvillim ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA) për projektin e menaxhimit të integruar dhe pastrimit të zonës bregdetare” | [`ligji-9423-2005/`](ligji-9423-2005/) | in force | 1 | 2005-11-12 | 2005-11-12 |
+
+## ligji-9424-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Protokollit të vlerësimit strategjik mjedisor” | [`ligji-9424-2005/`](ligji-9424-2005/) | in force | 1 | 2005-11-12 | 2005-11-12 |
+
+## ligji-9425-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën e vitit 1979 “Për ndotjen ndërkufitare të ajrit në distancë të madhe” | [`ligji-9425-2005/`](ligji-9425-2005/) | in force | 1 | 2005-11-12 | 2005-11-12 |
+
+## ligji-9427-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Mbretërisë të Belgjikës për bashkëpunimin policor” | [`ligji-9427-2005/`](ligji-9427-2005/) | in force | 1 | 2005-11-25 | 2005-11-25 |
+
+## ligji-9428-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën “Për krijimin e lehtësive për trafikun ndërkombëtar detar (Londër, më 9 prill 1965)” | [`ligji-9428-2005/`](ligji-9428-2005/) | in force | 1 | 2005-11-26 | 2005-11-26 |
+
+## ligji-9429-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Qeverisë së Republikës së Shqipërisë dhe Qeverisë Maqedonase për shërbimet ajrore ndërmjet dhe përtej territoreve të tyre respektive” | [`ligji-9429-2005/`](ligji-9429-2005/) | in force | 1 | 2005-11-26 | 2005-11-26 |
+
+## ligji-9430-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së kredisë për zhvillim ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA) për projektin e zhvillimit të burimeve natyrore” | [`ligji-9430-2005/`](ligji-9430-2005/) | in force | 1 | 2005-11-29 | 2005-11-29 |
+
+## ligji-9433-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së garancisë ndërmjet Republikës së Shqipërisë dhe Bankës Europiane për Rindërtim dhe Zhvillim, për huanë dhënë shoqërisë “Tirana Airport Partners (TAP)” sh.p.k. nga Banka Europiane për Rindërtim dhe Zhvillim, për projektin “Punët e infrastrukturës publike dhe ndërtimi i seksionit rrugor të aeroportit”” | [`ligji-9433-2005/`](ligji-9433-2005/) | in force | 1 | 2005-11-29 | 2005-11-29 |
+
+## ligji-9434-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Sllovake për ristrukturimin dhe shlyerjen e borxhit të Republikës së Shqipërisë kundrejt Republikës Sllovake” | [`ligji-9434-2005/`](ligji-9434-2005/) | in force | 1 | 2005-11-29 | 2005-11-29 |
+
+## ligji-9435-2005 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes për shtesa dhe ndryshime në kontratën financiare ndërmjet Republikës së Shqipërisë dhe Bankës Europiane të Investimeve për projektin e rrugëve europiane-Shqipëria” | [`ligji-9435-2005/`](ligji-9435-2005/) | amending act | 1 | 2005-11-29 | 2005-11-29 |
+
+## ligji-9437-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së grantit GEF ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim e Zhvillim për projektin e zhvillimit të burimeve natyrore” | [`ligji-9437-2005/`](ligji-9437-2005/) | in force | 1 | 2005-12-10 | 2005-12-10 |
+
+## ligji-9438-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ushtarake grant ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës të Turqisë” | [`ligji-9438-2005/`](ligji-9438-2005/) | in force | 1 | 2005-12-10 | 2005-12-10 |
+
+## ligji-9439-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Republikës së Shqipërisë dhe Komunitetit Europian për një grant deri në 16 000 000 euro” | [`ligji-9439-2005/`](ligji-9439-2005/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+
+## ligji-9440-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Arabe të Egjiptit për shmangien e tatimeve të dyfishta dhe parandalimin e evazionit fiskal, në lidhje me tatimet mbi të ardhurat dhe mbi kapitalin” | [`ligji-9440-2005/`](ligji-9440-2005/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+
+## ligji-9442-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës nr.102 të Organizatës Ndërkombëtare të Punës “Për sigurimet shoqërore (Standardet minimale)” | [`ligji-9442-2005/`](ligji-9442-2005/) | in force | 1 | 2005-12-30 | 2005-12-30 |
+
+## ligji-9443-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën “Për juridiksionin, ligjin e zbatueshëm, njohjen, zbatimin dhe bashkëpunimin, në lidhje me përgjegjësinë prindërore dhe masat për mbrojtjen e fëmijëve” | [`ligji-9443-2005/`](ligji-9443-2005/) | in force | 1 | 2005-12-30 | 2005-12-30 |
+
+## ligji-9444-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së kredisë së zhvillimit ndërmjet Republikës së Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA), në kuadër të programit të Komunitetit të Energjisë së Europës Juglindore” | [`ligji-9444-2005/`](ligji-9444-2005/) | in force | 1 | 2005-12-30 | 2005-12-30 |
+
+## ligji-9446-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën “Për aspektet civile të rrëmbimit ndërkombëtar të fëmijës” | [`ligji-9446-2005/`](ligji-9446-2005/) | in force | 1 | 2006-01-05 | 2006-01-05 |
+
+## ligji-9449-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e aktit normativ me fuqinë e ligjit nr.2, datë 10.11.2005 të Këshillit të Ministrave “Për lejimin e KESH sh.a. të marrë pjesë në ankandet e blerjes së kapaciteteve transmetuese dhe të energjisë elektrike” | [`ligji-9449-2005/`](ligji-9449-2005/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+
+## ligji-9450-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e aktit normativ me fuqinë e ligjit nr.3, datë 23.11.2005 të Këshillit të Ministrave “Për një shtesë në ligjin nr.7971,datë 26.7.1995 “Për prokurimin publik”, të ndryshuar | [`ligji-9450-2005/`](ligji-9450-2005/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+
+## ligji-9451-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së huasë ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe Institutit të Kredisë Shtetërore të Mbretërisë së Spanjës, për projektin e ripërtëritjes së rrjetit elektrik të shpërndarjes, Fier” | [`ligji-9451-2005/`](ligji-9451-2005/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+
+## ligji-9453-2005 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Protokollit nr.14 të Konventës “Për mbrojtjen e të drejtave të njeriut dhe lirive themelore”, që ndryshon sistemin e kontrollit të Konventës” | [`ligji-9453-2005/`](ligji-9453-2005/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+
+## ligji-9465-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Çeke për zgjidhjen e borxhit të Shqipërisë kundrejt Republikës Çeke” | [`ligji-9465-2006/`](ligji-9465-2006/) | in force | 1 | 2006-02-23 | 2006-02-23 |
+
+## ligji-9466-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Republikës së Shqipërisë dhe Komunitetit Europian për ripranimin e personave që qëndrojnë pa autorizim” | [`ligji-9466-2006/`](ligji-9466-2006/) | in force | 1 | 2006-02-28 | 2006-02-28 |
+
+## ligji-9468-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në protokollin “Për mbetjet eksplozive të luftës”, të Konventës “Për ndalimin ose kufizimin e përdorimit të armëve të quajtura konvencionale, të cilat mund të konsiderohen se shkaktojnë dëmtime të mëdha ose pasoja pa dallim” (Protokolli V) | [`ligji-9468-2006/`](ligji-9468-2006/) | in force | 1 | 2006-03-21 | 2006-03-21 |
+
+## ligji-9469-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komisionit të Komuniteteve Europiane “Programi vjetor i veprimit CARDS 2005 për Shqipërinë”” | [`ligji-9469-2006/`](ligji-9469-2006/) | in force | 1 | 2006-03-22 | 2006-03-22 |
+
+## ligji-9471-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e aktit normativ, me fuqinë e ligjit, nr.5, datë 28.12.2005 të Këshillit të Ministrave “Për dërgimin e personelit ushtarak shqiptar, në përbërje të shtabit të SEEBRIG-ut, në misionin e mbështetjes së paqes (ISAF) në Afganistan, të drejtuar nga NATO-ja” | [`ligji-9471-2006/`](ligji-9471-2006/) | in force | 1 | 2006-02-06 | 2006-02-06 |
+
+## ligji-9472-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në amendamentin e Konventës “Për ndalimin ose kufizimin e përdorimit të armëve të quajtura konvencionale, të cilat mund të konsiderohen se shkaktojnë dëmtime të mëdha ose pasoja pa dallim” | [`ligji-9472-2006/`](ligji-9472-2006/) | amending act | 1 | 2006-03-23 | 2006-03-23 |
+
+## ligji-9473-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në “Marrëveshjen ndërmjet Republikës së Austrisë, Republikës së Bullgarisë, Republikës së Kroacisë, Republikës së Çekisë, Republikës së Hungarisë, Republikës së Polonisë, Republikës së Rumanisë, Republikës së Sllovakisë dhe Republikës së Sllovenisë për mbështetjen e bashkëpunimit në fushën e arsimit të lartë, në kuadër të programit të shkëmbimeve të studimeve universitare për Europën Qendrore (CEEPUS) II” | [`ligji-9473-2006/`](ligji-9473-2006/) | in force | 1 | 2006-03-23 | 2006-03-23 |
+
+## ligji-9474-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës kuadër të Organizatës Botërore të Shëndetësisë “Për kontrollin e duhanit” | [`ligji-9474-2006/`](ligji-9474-2006/) | in force | 1 | 2006-03-24 | 2006-03-24 |
+
+## ligji-9477-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për disa ndryshime dhe shtesa në ligjin nr.9228, datë 29.4.2004 “Për kontabilitetin dhe pasqyrat financiare” | [`ligji-9477-2006/`](ligji-9477-2006/) | amending act | 1 | 2008-01-01 | 2008-01-01 |
+
+## ligji-9478-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në vendimet II/14 dhe III/7, amendamente të konventës së ESPOO-s “Për vlerësimin e ndikimit në mjedis, në kontekst ndërkufitar” | [`ligji-9478-2006/`](ligji-9478-2006/) | amending act | 1 | 2006-04-01 | 2006-04-01 |
+
+## ligji-9479-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës të Maqedonisë për mbrojtjen e përbashkët të informacionit të klasifikuar” | [`ligji-9479-2006/`](ligji-9479-2006/) | in force | 1 | 2006-04-01 | 2006-04-01 |
+
+## ligji-9480-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në amendamentin e Kopenhagenit të protokollit të Montrealit “Për substancat që hollojnë shtresën e ozonit” | [`ligji-9480-2006/`](ligji-9480-2006/) | amending act | 1 | 2006-04-05 | 2006-04-05 |
+
+## ligji-9484-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në amendamentin e Londrës, aneksi II, të protokollit të Montrealit “Për substancat që hollojnë shtresën e ozonit” | [`ligji-9484-2006/`](ligji-9484-2006/) | amending act | 1 | 2006-04-21 | 2006-04-21 |
+
+## ligji-9485-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në amendamentin e Montrealit të protokollit të Montrealit “Për substancat që hollojnë shtresën e ozonit” | [`ligji-9485-2006/`](ligji-9485-2006/) | amending act | 1 | 2006-04-21 | 2006-04-21 |
+
+## ligji-9486-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në amendamentin e Pekinit të protokollit të Montrealit “Për substancat që hollojnë shtresën e ozonit | [`ligji-9486-2006/`](ligji-9486-2006/) | amending act | 1 | 2006-04-21 | 2006-04-21 |
+
+## ligji-9488-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit shtesë të Konventës Europiane “Për informimin për të drejtën e huaj | [`ligji-9488-2006/`](ligji-9488-2006/) | in force | 1 | 2006-04-22 | 2006-04-22 |
+
+## ligji-9490-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës për Ruajtjen e Trashëgimisë Kulturore Jomateriale, Paris 2003 | [`ligji-9490-2006/`](ligji-9490-2006/) | in force | 1 | 2006-04-22 | 2006-04-22 |
+
+## ligji-9491-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për një ndryshim në ligjin nr.7512, datë 10.8.1991 “Për sanksionimin dhe mbrojtjen e pronës private, të nismës së lirë, të veprimtarisë private të pavarur dhe privatizimit”, të ndryshuar | [`ligji-9491-2006/`](ligji-9491-2006/) | amending act | 1 | 2006-04-22 | 2006-04-22 |
+
+## ligji-9492-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës së Kombeve të Bashkuara Kundër Korrupsionit | [`ligji-9492-2006/`](ligji-9492-2006/) | in force | 1 | 2006-04-25 | 2006-04-25 |
+
+## ligji-9493-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Artigiancassa S.P.A. për financimin e programit “Për pesë poliklinika në qytetet e Tiranës, Gjirokastrës, Korçës dhe Peshkopisë” | [`ligji-9493-2006/`](ligji-9493-2006/) | in force | 1 | 2006-04-22 | 2006-04-22 |
+
+## ligji-9495-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën Ndërkombëtare për Shpëtimin, Londër, 28 prill 1989 | [`ligji-9495-2006/`](ligji-9495-2006/) | in force | 1 | 2006-04-26 | 2006-04-26 |
+
+## ligji-9496-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Misionit të Përkohshëm të Kombeve të Bashkuara në Kosovë (UNMIK) për transferimin e personave të dënuar | [`ligji-9496-2006/`](ligji-9496-2006/) | in force | 1 | 2006-04-26 | 2006-04-26 |
+
+## ligji-95-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës për dhënien në përdorim, në formën e huapërdorjes, me çmimin 1 euro, të një pjese të truallit të ndërmarrjes së qymyrgurit valias, kamëz, me sipërfaqe të përgjithshme 87 587 m², lidhur ndërmjet ministrisë së ekonomisë, tregtisë dhe energjetikës dhe shoqërisë “the american international school system - albania” (aiss) | [`ligji-95-2012/`](ligji-95-2012/) | in force | 1 | 2012-11-17 | 2012-11-17 |
+
+## ligji-95-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e marrëveshjes së licencës për lotarinë kombëtare ndërmjet Ministrisë së Financave, si autoritet i autorizuar, dhe shoqërisë “Oesterreichische Lotterien”, Gmbh, nëpërmjet shoqërisë “Olg Project”, sh.p.k | [`ligji-95-2013/`](ligji-95-2013/) | in force | 1 | 2013-04-03 | 2013-04-03 |
+
+## ligji-95-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për zhvillimin dhe pjesëmarrjen e forcave ushtarake të britanisë së madhe dhe një njësie detare gjermane në stërvitjen e përbashkët detare “albanian lion 2014” | [`ligji-95-2014/`](ligji-95-2014/) | in force | 1 | 2014-08-28 | 2014-08-28 |
+
+## ligji-95-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe suedisë për programin “forcimi i policimit në komunitet në shqipëri” (2017-2020) | [`ligji-95-2017/`](ligji-95-2017/) | in force | 1 | 2017-10-25 | 2017-10-25 |
+
+## ligji-95-2019 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunim financiar 2018, për projektin “Programi për infrastrukturën komunale V” | [`ligji-95-2019/`](ligji-95-2019/) | in force | 1 | 2020-01-21 | 2020-01-21 |
+
+## ligji-9500-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit shtesë, për luftën kundër terrorizmit, të marrëveshjes ndërmjet qeverive të shteteve pjesëmarrëse të bashkëpunimit ekonomik të Detit të Zi për bashkëpunimin në luftën kundër krimit, veçanërisht në format e organizuara të ti | [`ligji-9500-2006/`](ligji-9500-2006/) | in force | 1 | 2006-05-18 | 2006-05-18 |
+
+## ligji-9501-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Traktatit të krijimit të Komunitetit të Energjisë | [`ligji-9501-2006/`](ligji-9501-2006/) | in force | 1 | 2006-05-18 | 2006-05-18 |
+
+## ligji-9502-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Artigiancassa S.P.A. për financimin e programit “Menaxhimi i mbetjeve të ngurta të Tiranës | [`ligji-9502-2006/`](ligji-9502-2006/) | in force | 1 | 2006-05-18 | 2006-05-18 |
+
+## ligji-9503-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën për Kontratën e Transportit Rrugor Ndërkombëtar të Mallrave (CMR) dhe Protokollin e nënshkrimit | [`ligji-9503-2006/`](ligji-9503-2006/) | in force | 1 | 2006-05-18 | 2006-05-18 |
+
+## ligji-9504-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën e Kombeve të Bashkuara “Për transportin e mallrave me rrugë detare (Rregullat e Hamburgut | [`ligji-9504-2006/`](ligji-9504-2006/) | in force | 1 | 2006-05-18 | 2006-05-18 |
+
+## ligji-9505-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Këshillit Ministror të Konfederatës Zvicerane për bashkëpunimin policor në luftën kundër krimit | [`ligji-9505-2006/`](ligji-9505-2006/) | in force | 1 | 2006-05-18 | 2006-05-18 |
+
+## ligji-9508-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për bashkëpunimin e publikut në luftën kundër korrupsionit | [`ligji-9508-2006/`](ligji-9508-2006/) | in force | 1 | 2006-05-17 | 2006-05-17 |
+
+## ligji-9509-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shpalljen e moratoriumit për mjetet motorike lundruese të Republikës së Shqipërisë | [`ligji-9509-2006/`](ligji-9509-2006/) | in force | 1 | 2006-05-17 | 2006-05-17 |
+
+## ligji-9510-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Artigiancassa S.P.A. për financimin e programit “Periferitë urbane të Tiranës-komponenti infrastrukturor | [`ligji-9510-2006/`](ligji-9510-2006/) | in force | 1 | 2006-05-18 | 2006-05-18 |
+
+## ligji-9511-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Marrëveshjen Europiane “Për arteriet kryesore të trafikut ndërkombëtar (AGR | [`ligji-9511-2006/`](ligji-9511-2006/) | in force | 1 | 2006-05-21 | 2006-05-21 |
+
+## ligji-9514-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në “Marrëveshjen Europiane “Për punën e ekuipazheve të mjeteve të përfshira në transportin ndërkombëtar rrugor (AETR) dhe në Protokollin e nënshkrimit e në Amendamentin nr.4 të saj” | [`ligji-9514-2006/`](ligji-9514-2006/) | amending act | 1 | 2006-06-03 | 2006-06-03 |
+
+## ligji-9515-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për zbatimin e konventës “Për ndalimin e përdorimit, të magazinimit, të prodhimit dhe të transferimit të minave kundër personit (MKP) dhe për shkatërrimin e tyre” | [`ligji-9515-2006/`](ligji-9515-2006/) | in force | 1 | 2006-05-30 | 2006-05-30 |
+
+## ligji-9519-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për një shtesë dhe ndryshim në ligjin nr.8464, datë 11.3.1999 “Për standardizimin”, të ndryshuar | [`ligji-9519-2006/`](ligji-9519-2006/) | amending act | 1 | 2006-05-30 | 2006-05-30 |
+
+## ligji-9520-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare shtesë ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave e Fondi i Zhvillimit Shqiptar, si agjenci e zbatimit të projektit dhe Kreditanstalt fur Wiederaufbau (KFW) të Marrëveshjes së financimit të projektit “Fondi i investimeve sociale-II”” | [`ligji-9520-2006/`](ligji-9520-2006/) | in force | 1 | 2006-06-01 | 2006-06-01 |
+
+## ligji-9521-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e një ndryshimi në protokollin e anëtarësimit të Republikës së Shqipërisë në marrëveshjen e Marrakeshit, që themeloi Organizatën Botërore të Tregtisë | [`ligji-9521-2006/`](ligji-9521-2006/) | amending act | 1 | 2006-06-01 | 2006-06-01 |
+
+## ligji-9522-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Austrisë për bashkëpunimin në fushat e kulturës, të arsimit dhe shkencës | [`ligji-9522-2006/`](ligji-9522-2006/) | in force | 1 | 2006-06-01 | 2006-06-01 |
+
+## ligji-9526-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së kredisë ndërmjet Republikës së Shqipërisë dhe Fondit OPEC për Zhvillim Ndërkombëtar për projektin e spitalit të Kavajës” | [`ligji-9526-2006/`](ligji-9526-2006/) | in force | 1 | 2006-06-27 | 2006-06-27 |
+
+## ligji-9527-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Italiane për realizimin e programit për zhvillimin e sektorit privat, me anën e një kredie ndihme për mbështetjen e ndërmarrjeve të vogla dhe të mesme, si dhe sigurimin e asistencës teknike për to” | [`ligji-9527-2006/`](ligji-9527-2006/) | in force | 1 | 2006-06-29 | 2006-06-29 |
+
+## ligji-9528-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave dhe Artigiancassa S.P.A. për programin e zhvillimit të sektorit privat, nëpërmjet mbështetjes së ndërmarrjeve të vogla dhe të mesme dhe sigurimit të asistencës teknike për to” | [`ligji-9528-2006/`](ligji-9528-2006/) | in force | 1 | 2006-06-29 | 2006-06-29 |
+
+## ligji-9532-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në “Marrëveshjen e Strasburgut për klasifikimin ndërkombëtar të patentave, 1979” | [`ligji-9532-2006/`](ligji-9532-2006/) | in force | 1 | 2006-06-28 | 2006-06-28 |
+
+## ligji-9535-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e kamatëvonesave të kontributeve të sigurimeve të detyrueshme shoqërore, të papaguara, të ndërmarrjeve dhe shoqërive me kapital tërësisht shtetëror të ujësjellës-kanalizimeve | [`ligji-9535-2006/`](ligji-9535-2006/) | in force | 1 | 2006-06-23 | 2006-06-23 |
+
+## ligji-9543-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së sigurisë ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Greqisë për mbrojtjen e ndërsjellë të informacionit të klasifikuar” | [`ligji-9543-2006/`](ligji-9543-2006/) | in force | 1 | 2006-07-07 | 2006-07-07 |
+
+## ligji-9544-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Greqisë për mbrojtjen dhe asistencën e fëmijëve, viktima të trafikimit” | [`ligji-9544-2006/`](ligji-9544-2006/) | in force | 1 | 2006-07-07 | 2006-07-07 |
+
+## ligji-9547-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës nr.168 të Organizatës Ndërkombëtare të Punës “Për nxitjen e punësimit dhe mbrojtjen nga papunësia, 1988” | [`ligji-9547-2006/`](ligji-9547-2006/) | in force | 1 | 2006-07-16 | 2006-07-16 |
+
+## ligji-9548-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në protokollin për regjistrat e shkarkimit dhe të transferimit të ndotësve | [`ligji-9548-2006/`](ligji-9548-2006/) | in force | 1 | 2006-07-16 | 2006-07-16 |
+
+## ligji-9549-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së grantit të objektivit strategjik, ndërmjet Qeverisë së Republikës së Shqipërisë dhe Shteteve të Bashkuara të Amerikës, për të luftuar korrupsionin, në kuadër të programit fillestar të vlerësimit të sfidës së mijëvjeçarit” | [`ligji-9549-2006/`](ligji-9549-2006/) | in force | 1 | 2006-07-16 | 2006-07-16 |
+
+## ligji-9551-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën “Për garancitë ndërkombëtare në pajisjet e lëvizshme” dhe në protokollin e saj | [`ligji-9551-2006/`](ligji-9551-2006/) | in force | 1 | 2006-07-20 | 2006-07-20 |
+
+## ligji-9552-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Marrëveshjen “Për privilegjet dhe imunitetet e Gjykatës Ndërkombëtare Penale” | [`ligji-9552-2006/`](ligji-9552-2006/) | in force | 1 | 2006-07-20 | 2006-07-20 |
+
+## ligji-9554-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën “Për njoftimin dhe dorëzimin jashtë shtetit të dokumenteve gjyqësore dhe jashtëgjyqësore në fushën civile dhe tregtare” | [`ligji-9554-2006/`](ligji-9554-2006/) | in force | 1 | 2006-07-21 | 2006-07-21 |
+
+## ligji-9555-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës europiane “Për statusin ligjor të punëtorëve migrantë” | [`ligji-9555-2006/`](ligji-9555-2006/) | in force | 1 | 2006-07-21 | 2006-07-21 |
+
+## ligji-9556-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Italisë për realizimin e programit “Rehabilitimi i Portit të Vlorës”” | [`ligji-9556-2006/`](ligji-9556-2006/) | in force | 1 | 2006-07-21 | 2006-07-21 |
+
+## ligji-9557-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në “Marrëveshjen kuadër për bashkëpunimin ndërmjet shteteve frankofone të europës qendrore dhe lindore për zhvillimin e formimit profesional dhe teknik” | [`ligji-9557-2006/`](ligji-9557-2006/) | in force | 1 | 2006-07-21 | 2006-07-21 |
+
+## ligji-9560-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e amendamentit të dispozitave, që lidhen me tregtinë, të Traktatit të Kartës së Energjisë | [`ligji-9560-2006/`](ligji-9560-2006/) | amending act | 1 | 2006-07-20 | 2006-07-20 |
+
+## ligji-9563-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e disa ndryshimeve në Kushtetutën e Organizatës Botërore të Shëndetësisë | [`ligji-9563-2006/`](ligji-9563-2006/) | amending act | 1 | 2006-07-27 | 2006-07-27 |
+
+## ligji-9564-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës nr.143 “Për punëtorët migrantë (Dispozita plotësuese), 1975” të Organizatës Ndërkombëtare të Punës, bërë në Gjenevë | [`ligji-9564-2006/`](ligji-9564-2006/) | in force | 1 | 2006-07-27 | 2006-07-27 |
+
+## ligji-9565-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Estonisë për mbrojtjen e ndërsjellë të informacionit të klasifikuar” | [`ligji-9565-2006/`](ligji-9565-2006/) | in force | 1 | 2006-07-27 | 2006-07-27 |
+
+## ligji-9566-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Shoqatës së Industrive Gjermane (BDI)/(IFG), që veprojnë në emër të kreditorëve gjermanë, për riskedulimin e borxhit të prapambetur, kundrejt kreditorëve gjermanë, të pagarantuar nga Qeveria Federale e Gjermanisë” | [`ligji-9566-2006/`](ligji-9566-2006/) | in force | 1 | 2006-07-16 | 2006-07-16 |
+
+## ligji-9569-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Mbretërisë së Belgjikës për transportin ndërkombëtar rrugor” | [`ligji-9569-2006/`](ligji-9569-2006/) | in force | 1 | 2006-08-02 | 2006-08-02 |
+
+## ligji-9571-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komisionit të Komuniteteve Europiane “Për programin rajonal CARDS 2005”” | [`ligji-9571-2006/`](ligji-9571-2006/) | in force | 1 | 2006-09-08 | 2006-09-08 |
+
+## ligji-9575-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e gjobave të kontributeve të detyrueshme të sigurimeve shoqërore dhe shëndetësore, si dhe të tatimit mbi të ardhurat nga punësimi për personat juridikë e fizikë, të regjistruar si tatimpagues të taksës vendore mbi biznesin e vogël, për periudhat tatimore të vitit 2005 | [`ligji-9575-2006/`](ligji-9575-2006/) | in force | 1 | 2006-08-12 | 2006-08-12 |
+
+## ligji-9577-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Letonisë për transportin ndërkombëtar rrugor” | [`ligji-9577-2006/`](ligji-9577-2006/) | in force | 1 | 2006-08-17 | 2006-08-17 |
+
+## ligji-9578-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e disa shtesave dhe ndryshimeve në “Marrëveshjen e koncesionit, të formës “BOT”, për ndërtimin dhe shfrytëzimin e pontilit të naftës, gazit e nënprodukteve të tyre në zonën bregdetare të Porto-Romanos, Durrës”, ratifikuar me ligjin nr.9298, datë 28.10.2004 | [`ligji-9578-2006/`](ligji-9578-2006/) | amending act | 1 | 2006-08-17 | 2006-08-17 |
+
+## ligji-9579-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së financimit ndërmjet Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA) për projektin “Modernizimi i sistemit shëndetësor”” | [`ligji-9579-2006/`](ligji-9579-2006/) | in force | 1 | 2006-08-17 | 2006-08-17 |
+
+## ligji-9586-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komunitetit Europian për aspekte të caktuara të shërbimeve ajrore” | [`ligji-9586-2006/`](ligji-9586-2006/) | in force | 1 | 2006-08-25 | 2006-08-25 |
+
+## ligji-9588-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për rillogaritjen e pensioneve | [`ligji-9588-2006/`](ligji-9588-2006/) | in force | 1 | 2006-08-24 | 2006-08-24 |
+
+## ligji-9589-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së huasë ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Europiane për Rindërtim dhe Zhvillim (BERZH) për financimin e projektit “Zhvillimi i rrugëve në Bashkinë e Tiranës” | [`ligji-9589-2006/`](ligji-9589-2006/) | in force | 1 | 2006-08-25 | 2006-08-25 |
+
+## ligji-9590-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së Stabilizim-Asociimit ndërmjet Republikës së Shqipërisë dhe Komuniteteve Europiane e shteteve të tyre anëtare” | [`ligji-9590-2006/`](ligji-9590-2006/) | in force | 1 | 2006-08-29 | 2006-08-29 |
+
+## ligji-9591-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së përkohshme ndërmjet Republikës së Shqipërisë dhe Komunitetit Europian për tregtinë dhe bashkëpunimin tregtar” | [`ligji-9591-2006/`](ligji-9591-2006/) | in force | 1 | 2006-09-01 | 2006-09-01 |
+
+## ligji-9594-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën Ndërkombëtare Detare “Për parandalimin e ndotjeve nga anijet, 1973”, të ndryshuar me Protokollin e vitit 1978 (MARPOL 73/78 | [`ligji-9594-2006/`](ligji-9594-2006/) | in force | 1 | 2006-09-01 | 2006-09-01 |
+
+## ligji-96-2014 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së kredisë për eksport ndërmjet këshillit të ministrave të republikës së shqipërisë, që vepron në emër të republikës së shqipërisë, përfaqësuar nga ministria e financave, dhe unicredit bank austria ag për financimin e projektit të furnizimit me ujë të peshkopisë, “kontratë me çelësa në dorë” | [`ligji-96-2014/`](ligji-96-2014/) | in force | 1 | 2014-09-03 | 2014-09-03 |
+
+## ligji-96-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit Europian për pjesëmarrjen e Republikës së Shqipërisë në programin “Europa për Qytetarët” | [`ligji-96-2015/`](ligji-96-2015/) | in force | 1 | 2015-10-15 | 2015-10-15 |
+
+## ligji-96-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për mbrojtjen e pakicave kombëtare në republikën e shqipërisë | [`ligji-96-2017/`](ligji-96-2017/) | in force | 1 | 2017-11-24 | 2017-11-24 |
+
+## ligji-96-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Kodi Ajror i Republikës së Shqipërisë | [`ligji-96-2020/`](ligji-96-2020/) | in force | 1 | 2020-08-22 | 2020-08-22 |
+
+## ligji-96-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë (huamarrësi) dhe Agjencisë Franceze për Zhvillim (huadhënësi) për finacimin e projektit ”Një hua për politika publike për të mbështetur aftësinë përtëritëse dhe zhvillimin e gjelbër të Shqipërisë” | [`ligji-96-2024/`](ligji-96-2024/) | in force | 1 | 2024-10-18 | 2024-10-18 |
+
+## ligji-96-2025 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për sinjalizimin dhe mbrojtjen e sinjalizuesve | [`ligji-96-2025/`](ligji-96-2025/) | in force | 1 | 2026-02-05 | 2026-02-05 |
+
+## ligji-96-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për disenjot | [`ligji-96-2026/`](ligji-96-2026/) | in force | 1 | 2026-09-18 | 2026-09-18 |
+
+## ligji-9603-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Republikës së Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA) për projektin “Cilësi dhe barazi në arsim” | [`ligji-9603-2006/`](ligji-9603-2006/) | in force | 1 | 2006-09-05 | 2006-09-05 |
+
+## ligji-9604-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Konventës së bashkëpunimit policor për Europën Juglindore” | [`ligji-9604-2006/`](ligji-9604-2006/) | in force | 1 | 2006-10-28 | 2006-10-28 |
+
+## ligji-9606-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunimin financiar 2004 “Programi i sektorit të energjisë”, me një grant prej 9 000 000 eurosh” | [`ligji-9606-2006/`](ligji-9606-2006/) | in force | 1 | 2006-10-31 | 2006-10-31 |
+
+## ligji-9608-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Mbretërisë së Suedisë për afatet dhe kushtet e përgjithshme të bashkëpunimit për zhvillim” | [`ligji-9608-2006/`](ligji-9608-2006/) | in force | 1 | 2006-10-31 | 2006-10-31 |
+
+## ligji-9610-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Shtetit të Izraelit për shërbimin ajror” | [`ligji-9610-2006/`](ligji-9610-2006/) | in force | 1 | 2006-10-31 | 2006-10-31 |
+
+## ligji-9611-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së financimit ndërmjet Republikës së Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA) për projektin e kontrollit të gripit të shpendëve dhe përgatitjes për parandalimin e pandemisë humane” | [`ligji-9611-2006/`](ligji-9611-2006/) | in force | 1 | 2006-10-14 | 2006-10-14 |
+
+## ligji-9612-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Italisë për realizimin e programit “Për ristrukturimin dhe fuqizimin e sistemit elektrik shqiptar për integrimin në sistemin e Ballkanit: fuqizimi i aftësive të transmetimit dhe përmirësimit të kontrollit”” | [`ligji-9612-2006/`](ligji-9612-2006/) | in force | 1 | 2006-10-31 | 2006-10-31 |
+
+## ligji-9613-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën e UNESCO-s “Për mbrojtjen dhe zhvillimin e larmisë së shprehjeve të kulturave” | [`ligji-9613-2006/`](ligji-9613-2006/) | in force | 1 | 2006-10-31 | 2006-10-31 |
+
+## ligji-9614-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për certifikatat elektronike të gjendjes gjyqësore | [`ligji-9614-2006/`](ligji-9614-2006/) | in force | 1 | 2006-10-31 | 2006-10-31 |
+
+## ligji-9615-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Konventës ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Koresë për shmangien e tatimeve të dyfishta, për tatimet mbi të ardhurat dhe mbi kapitalin dhe për parandalimin e evazionit fiskal” | [`ligji-9615-2006/`](ligji-9615-2006/) | in force | 1 | 2006-11-09 | 2006-11-09 |
+
+## ligji-9617-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Mbrojtjes dhe Qeverisë së Republikës së Italisë, të përfaqësuar nga Ministria e Punëve të Jashtme, për realizimin e programit “Fuqizimi i Qendrës Traumatologjike Kombëtare të Tiranës”” | [`ligji-9617-2006/`](ligji-9617-2006/) | in force | 1 | 2006-12-02 | 2006-12-02 |
+
+## ligji-9618-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe shoqërisë “Haci Sakir Sabun ve Gliserine Fabrikalari Turk Anonim Sirketi” Stamboll, Turqi për riskedulimin e borxhit” | [`ligji-9618-2006/`](ligji-9618-2006/) | in force | 1 | 2006-12-02 | 2006-12-02 |
+
+## ligji-9619-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Protokollit për pranimin e Komunitetit Europian në Konventën Ndërkombëtare të Eurokontrollit, për bashkëpunimin për sigurinë e navigimit ajror, të 13 dhjetorit 1960, të ndryshuar me anë të amendimit dhe të konsoliduar nga Protokolli i 27 qershorit 1997” | [`ligji-9619-2006/`](ligji-9619-2006/) | amending act | 1 | 2006-12-02 | 2006-12-02 |
+
+## ligji-9620-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes shumëpalëshe “Për ngritjen e një rrjeti hekurudhor, të performancës së lartë, në Europën Juglindore”” | [`ligji-9620-2006/`](ligji-9620-2006/) | in force | 1 | 2006-12-02 | 2006-12-02 |
+
+## ligji-9621-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e Buxhetit faktik të Shtetit të vitit 2005 | [`ligji-9621-2006/`](ligji-9621-2006/) | in force | 1 | 2006-12-02 | 2006-12-02 |
+
+## ligji-9622-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ushtarake grant ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Turqisë” | [`ligji-9622-2006/`](ligji-9622-2006/) | in force | 1 | 2006-12-02 | 2006-12-02 |
+
+## ligji-9623-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Konventën Ndërkombëtare kundër dopingut në sport, 2005 | [`ligji-9623-2006/`](ligji-9623-2006/) | in force | 1 | 2006-12-02 | 2006-12-02 |
+
+## ligji-9624-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në Protokollin shumëpalësh të Konventës “Për transportin ndërkombëtar rrugor të mallrave (CMR)” | [`ligji-9624-2006/`](ligji-9624-2006/) | in force | 1 | 2006-12-02 | 2006-12-02 |
+
+## ligji-9627-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Komiteti Qeveritar i Bisedimit të Borxhit të Jashtëm dhe Shoqërisë “Mali”, Gjakovë, për riskedulimin e borxhit të prapambetur” | [`ligji-9627-2006/`](ligji-9627-2006/) | in force | 1 | 2006-12-09 | 2006-12-09 |
+
+## ligji-9628-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komunitetit të SANT’EGIDIO-s për selinë dhe veprimtarinë e këtij Komuniteti në Shqipëri” | [`ligji-9628-2006/`](ligji-9628-2006/) | in force | 1 | 2006-12-09 | 2006-12-09 |
+
+## ligji-9629-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Italisë për financimin e programit “Rehabilitimi i rrugës Shkodër-Hani i Hotit”” | [`ligji-9629-2006/`](ligji-9629-2006/) | in force | 1 | 2006-12-09 | 2006-12-09 |
+
+## ligji-9633-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes “Plani i veprimeve të programit për Shqipërinë 2006-2010” ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Programit të Kombeve të Bashkuara për Zhvillim (PNUD)” | [`ligji-9633-2006/`](ligji-9633-2006/) | in force | 1 | 2006-12-12 | 2006-12-12 |
+
+## ligji-9638-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e planit të veprimit të Programit Kombëtar 2006-2010 ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Fondit të Kombeve të Bashkuara për Popullsinë (UNFPA) | [`ligji-9638-2006/`](ligji-9638-2006/) | in force | 1 | 2006-12-21 | 2006-12-21 |
+
+## ligji-9639-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e protokollit nr.13 të Konventës Europiane për Mbrojtjen e të Drejtave të Njeriut dhe Lirive Themelore për heqjen e dënimit me vdekje në të gjitha rrethanat | [`ligji-9639-2006/`](ligji-9639-2006/) | in force | 1 | 2006-12-21 | 2006-12-21 |
+
+## ligji-9641-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës së Këshillit të Europës “Për parandalimin e terrorizmit” | [`ligji-9641-2006/`](ligji-9641-2006/) | in force | 1 | 2007-01-02 | 2007-01-02 |
+
+## ligji-9642-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës së Këshillit të Europës “Për masat kundër trafikimit të qenieve njerëzore” | [`ligji-9642-2006/`](ligji-9642-2006/) | in force | 1 | 2007-01-02 | 2007-01-02 |
+
+## ligji-9646-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e Konventës së Këshillit të Europës “Për pastrimin, kërkimin, kapjen dhe konfiskimin e produkteve të krimit dhe për financimin e terrorizmit” | [`ligji-9646-2006/`](ligji-9646-2006/) | in force | 1 | 2007-01-06 | 2007-01-06 |
+
+## ligji-9647-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në aktin e Gjenevës të Marrëveshjes së Hagës për regjistrimin ndërkombëtar të projekteve industriale dhe rregulloret mbështetur në aktin e Gjenevës, 1999 | [`ligji-9647-2006/`](ligji-9647-2006/) | in force | 1 | 2007-01-10 | 2007-01-10 |
+
+## ligji-9648-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në aktin e Hagës të Marrëveshjes së Hagës për regjistrimin ndërkombëtar të projekteve industriale, 1960 | [`ligji-9648-2006/`](ligji-9648-2006/) | in force | 1 | 2007-01-10 | 2007-01-10 |
+
+## ligji-9651-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit në “Marrëveshjen e rishitjes së aksioneve të INSIG sha-së ndërmjet Ministrisë së Financave, që vepron në emër të shtetit shqiptar dhe Korporatës Financiare Ndërkombëtare (IFC) e Bankës Europiane për Rindërtim dhe Zhvillim (BERZH)” | [`ligji-9651-2006/`](ligji-9651-2006/) | amending act | 1 | 2007-01-14 | 2007-01-14 |
+
+## ligji-9652-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe INALCA SpA, Castelvetro di Modena (Itali) dhe Almed Srl, Trieste (Itali) për riskedulimin e borxheve të prapambetura” | [`ligji-9652-2006/`](ligji-9652-2006/) | in force | 1 | 2007-01-14 | 2007-01-14 |
+
+## ligji-9653-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Artigiancassa SpA për financimin e programit të rehabilitimit të rrugës Shkodër-Hani i Hotit” | [`ligji-9653-2006/`](ligji-9653-2006/) | in force | 1 | 2007-01-14 | 2007-01-14 |
+
+## ligji-9654-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Artigiancassa SpA për financimin e programit të rehabilitimit të Portit të Vlorës” | [`ligji-9654-2006/`](ligji-9654-2006/) | in force | 1 | 2007-01-14 | 2007-01-14 |
+
+## ligji-9656-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Artigiancassa SpA për financimin e programit “Fuqizimi i Qendrës Traumatologjike Kombëtare të Tiranës”” | [`ligji-9656-2006/`](ligji-9656-2006/) | in force | 1 | 2007-01-14 | 2007-01-14 |
+
+## ligji-9657-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Artigiancassa SpA për programin “Ristrukturimi dhe fuqizimi i sistemit elektrik shqiptar për integrimin në sistemin e Ballkanit: Fuqizimi i aftësive të transmetimit dhe përmirësimi i kontrollit”” | [`ligji-9657-2006/`](ligji-9657-2006/) | in force | 1 | 2007-01-14 | 2007-01-14 |
+
+## ligji-9658-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes shumëpalëshe ndërmjet Komunitetit Europian dhe shteteve anëtare të tij, Republikës së Shqipërisë, Bosnjës dhe Hercegovinës, Republikës së Bullgarisë, Republikës së Kroacisë, Republikës së Maqedonisë, Republikës së Islandës, Republikës së Malit të Zi, Mbretërisë së Norvegjisë, Rumanisë, Republikës së Serbisë dhe Misionit Administrativ të Përkohshëm të Kombeve të Bashkuara në Kosovë, për krijimin e një zone të përbashkët të Aviacionit europian” | [`ligji-9658-2006/`](ligji-9658-2006/) | in force | 1 | 2007-01-15 | 2007-01-15 |
+
+## ligji-9659-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së garancisë ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Europiane për Rindërtim dhe Zhvillim (BERZH), që lidhet me marrëveshjen e kredisë ndërmjet korporatës elektroenergjetike shqiptare dhe Bankës Europiane për Rindërtim dhe Zhvillim, në kuadër të programit të Komunitetit të Energjisë të Europës Juglindore” | [`ligji-9659-2006/`](ligji-9659-2006/) | in force | 1 | 2007-01-15 | 2007-01-15 |
+
+## ligji-9660-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së kredisë ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Islamike për Zhvillim për pjesëmarrje në financimin e projektit “Ndërtimi i urës së Bunës, Shkodër”” | [`ligji-9660-2006/`](ligji-9660-2006/) | in force | 1 | 2007-01-15 | 2007-01-15 |
+
+## ligji-9661-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës financiare ndërmjet Republikës së Shqipërisë dhe Bankës Europiane të Investimeve për projektin “Cilësi dhe barazi në arsim” | [`ligji-9661-2006/`](ligji-9661-2006/) | in force | 1 | 2007-01-15 | 2007-01-15 |
+
+## ligji-9666-2006 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e një ndryshimi në “Marrëveshjen e tregtisë së lirë ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Misionit të administratës së përkohshme të Kombeve të Bashkuara në Kosovë (UNMIK), në emër të institucioneve të përkohshme vetëqeverisëse të Kosovës” | [`ligji-9666-2006/`](ligji-9666-2006/) | amending act | 1 | 2007-01-15 | 2007-01-15 |
+
+## ligji-9671-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komisionit të Komuniteteve Europiane “Për programin vjetor të veprimit CARDS 2006 për Shqipërinë”” | [`ligji-9671-2006/`](ligji-9671-2006/) | in force | 1 | 2006-12-29 | 2006-12-29 |
+
+## ligji-9672-2006 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunimin financiar, 1998” | [`ligji-9672-2006/`](ligji-9672-2006/) | in force | 1 | 2006-12-29 | 2006-12-29 |
+
+## ligji-9678-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për dhënie amnistie | [`ligji-9678-2007/`](ligji-9678-2007/) | in force | 1 | 2007-02-01 | 2007-02-01 |
+
+## ligji-9679-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim për pjesëmarrjen në financimin e projektit të ndërtimit të portit të peshkimit, durrës, shqipëri” | [`ligji-9679-2007/`](ligji-9679-2007/) | in force | 1 | 2007-03-01 | 2007-03-01 |
+
+## ligji-9680-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës së shqipërisë dhe qeverisë së mbretërisë së belgjikës për transportin ajror” | [`ligji-9680-2007/`](ligji-9680-2007/) | in force | 1 | 2007-03-01 | 2007-03-01 |
+
+## ligji-9681-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim (ibrd) për projektin “reforma për përmirësimin e mjedisit të biznesit dhe forcimin institucional”” | [`ligji-9681-2007/`](ligji-9681-2007/) | in force | 1 | 2007-03-10 | 2007-03-10 |
+
+## ligji-9682-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për projektin “reforma për përmirësimin e mjedisit të biznesit dhe fuqizimin institucional”” | [`ligji-9682-2007/`](ligji-9682-2007/) | in force | 1 | 2007-03-10 | 2007-03-10 |
+
+## ligji-9688-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së bashkëpunimit teknik ndërmjet qeverisë së republikës së shqipërisë dhe qeverisë së japonisë” | [`ligji-9688-2007/`](ligji-9688-2007/) | in force | 1 | 2007-04-06 | 2007-04-06 |
+
+## ligji-9689-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen europiane për linjat hekurudhore ndërkombëtare kryesore” | [`ligji-9689-2007/`](ligji-9689-2007/) | in force | 1 | 2007-04-06 | 2007-04-06 |
+
+## ligji-9691-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes financiare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës europiane të investimeve (bei) për financimin me kredi të projektit “ndërtimi i terminalit të trageteve dhe shesheve përreth në portin e durrësit”” | [`ligji-9691-2007/`](ligji-9691-2007/) | in force | 1 | 2007-04-13 | 2007-04-13 |
+
+## ligji-9692-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare detare “për përgatitjen ndaj ndotjes nga nafta, reagimi dhe bashkëveprimi (oprc), 1990” | [`ligji-9692-2007/`](ligji-9692-2007/) | in force | 1 | 2007-04-13 | 2007-04-13 |
+
+## ligji-9696-2007 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për amendimin dhe aderimin në marrëveshjen e tregtisë së lirë të europës qendrore” | [`ligji-9696-2007/`](ligji-9696-2007/) | amending act | 1 | 2007-04-15 | 2007-04-15 |
+
+## ligji-9697-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së polonisë për zgjidhjen e borxhit të republikës së shqipërisë ndaj republikës së polonisë” | [`ligji-9697-2007/`](ligji-9697-2007/) | in force | 1 | 2007-04-19 | 2007-04-19 |
+
+## ligji-9698-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së bullgarisë për zgjidhjen e borxhit të republikës së shqipërisë ndaj republikës së bullgarisë” | [`ligji-9698-2007/`](ligji-9698-2007/) | in force | 1 | 2007-04-19 | 2007-04-19 |
+
+## ligji-9699-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes strategjike ndërmjet republikës së shqipërisë dhe shërbimit policor europian” | [`ligji-9699-2007/`](ligji-9699-2007/) | in force | 1 | 2007-04-29 | 2007-04-29 |
+
+## ligji-97-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe republikës së austrisë për bashkëpunim në lidhje me huadhënien e objekteve, që i përkasin trashëgimisë së luajtshme kulturore të shtetit, për ekspozim në territorin e shtetit tjetër | [`ligji-97-2012/`](ligji-97-2012/) | in force | 1 | 2012-11-15 | 2012-11-15 |
+
+## ligji-97-2015 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas dhe projektit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, “Huamarrësi”, të përfaqësuar nga Ministria e Financave, e Fondit Shqiptar për Zhvillim, “Agjencia e zbatimit të projektit”, dhe KfW Frankfurt am Main, “KfW”, lidhur me furnizimin me ujë të zonave rurale III, me një hua në shumën 24 000 000 euro | [`ligji-97-2015/`](ligji-97-2015/) | in force | 1 | 2015-10-15 | 2015-10-15 |
+
+## ligji-97-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të shtetit për vitin 2016 | [`ligji-97-2017/`](ligji-97-2017/) | in force | 1 | 2017-12-05 | 2017-12-05 |
+
+## ligji-97-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes sektoriale ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komisionit Evropian, që përcakton dispozitat e menaxhimit dhe zbatimit të asistencës financiare të Bashkimit Evropian për Republikën e Shqipërisë, në kuadër të Programit për Zhvillimin Rural të Instrumentit për Asistencën e Paraanëtarësimit (IPARD III) | [`ligji-97-2022/`](ligji-97-2022/) | in force | 1 | 2023-01-24 | 2023-01-24 |
+
+## ligji-97-2024 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e letrës së pjesëmarrjes së Këshillit të Ministrave të Republikës së Shqipërisë në memorandumin e mirëkuptimit pë Qendrën Evropiane të Ekselencës kundër Kërcënimeve Hibride | [`ligji-97-2024/`](ligji-97-2024/) | in force | 1 | 2024-10-16 | 2024-10-16 |
+
+## ligji-9700-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për mbrojtjen e mjedisit nga ndikimet ndërkufitare | [`ligji-9700-2007/`](ligji-9700-2007/) | in force | 1 | 2007-04-29 | 2007-04-29 |
+
+## ligji-9702-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së malit të zi për hapjen e pikës së përbashkët kufitare muriqan-sukobin ndërmjet republikës së shqipërisë dhe republikës së malit të zi në muriqan” | [`ligji-9702-2007/`](ligji-9702-2007/) | in force | 1 | 2007-05-10 | 2007-05-10 |
+
+## ligji-9703-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare “për mbrojtjen e të drejtave të të gjithë punëtorëve migrantë dhe anëtarëve të familjeve të tyre” | [`ligji-9703-2007/`](ligji-9703-2007/) | in force | 1 | 2007-05-10 | 2007-05-10 |
+
+## ligji-9704-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së italisë për realizimin e një qendre shërbimesh dhe të një rrjeti telematik për universitetet” | [`ligji-9704-2007/`](ligji-9704-2007/) | in force | 1 | 2007-05-11 | 2007-05-11 |
+
+## ligji-9705-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e kamatëvonesave të papaguara të kontributeve të sigurimeve të detyrueshme shoqërore dhe shëndetësore | [`ligji-9705-2007/`](ligji-9705-2007/) | in force | 1 | 2007-05-09 | 2007-05-09 |
+
+## ligji-9709-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës europiane për rindërtim dhe zhvillim (berzh) për financimin e projektit të rehabilitimit dhe ndërtimit të rrugës fier (levan) - tepelenë” | [`ligji-9709-2007/`](ligji-9709-2007/) | in force | 1 | 2007-05-11 | 2007-05-11 |
+
+## ligji-9711-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së bullgarisë për bashkëpunimin në fushën e luftës kundër terrorizmit, krimit të organizuar, trafikimit të paligjshëm dhe akteve të tjera kriminale” | [`ligji-9711-2007/`](ligji-9711-2007/) | in force | 1 | 2007-05-11 | 2007-05-11 |
+
+## ligji-9717-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes kuadër të huasë ndërmjet republikës së shqipërisë, përfaqësuar nga këshilli i ministrave dhe bankës së këshillit të europës për zhvillim” | [`ligji-9717-2007/`](ligji-9717-2007/) | in force | 1 | 2007-05-27 | 2007-05-27 |
+
+## ligji-9725-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin shtesë të paktit ndërkombëtar për të drejtat civile dhe politike | [`ligji-9725-2007/`](ligji-9725-2007/) | in force | 1 | 2007-06-09 | 2007-06-09 |
+
+## ligji-9726-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin e dytë shtesë të paktit ndërkombëtar për të drejtat civile dhe politike | [`ligji-9726-2007/`](ligji-9726-2007/) | in force | 1 | 2007-06-09 | 2007-06-09 |
+
+## ligji-9727-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës financiare ndërmjet republikës së shqipërisë dhe bankës europiane të investimeve (bei) për financimin e projektit të rehabilitimit dhe të ndërtimit të rrugës fier (levan) - tepelenë | [`ligji-9727-2007/`](ligji-9727-2007/) | in force | 1 | 2007-06-09 | 2007-06-09 |
+
+## ligji-9728-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim për projektin e transportit” | [`ligji-9728-2007/`](ligji-9728-2007/) | in force | 1 | 2007-06-09 | 2007-06-09 |
+
+## ligji-9729-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim për projektin e transportit” | [`ligji-9729-2007/`](ligji-9729-2007/) | in force | 1 | 2007-06-09 | 2007-06-09 |
+
+## ligji-9730-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për projektin e administrimit dhe menaxhimit të tokës” | [`ligji-9730-2007/`](ligji-9730-2007/) | in force | 1 | 2007-06-09 | 2007-06-09 |
+
+## ligji-9732-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së organizatës ndërkombëtare të punës (ilo) “për dokumentet e identitetit të detarëve, e rishikuar, 2003 (c185)” | [`ligji-9732-2007/`](ligji-9732-2007/) | in force | 1 | 2007-06-21 | 2007-06-21 |
+
+## ligji-9733-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së tregtisë së lirë ndërmjet republikës së shqipërisë dhe republikës së turqisë” | [`ligji-9733-2007/`](ligji-9733-2007/) | in force | 1 | 2007-06-23 | 2007-06-23 |
+
+## ligji-9738-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim (ibrd) për financimin e projektit të administrimit dhe menaxhimit të tokës” | [`ligji-9738-2007/`](ligji-9738-2007/) | in force | 1 | 2007-07-01 | 2007-07-01 |
+
+## ligji-9746-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e aktit normativ me fuqinë e ligjit nR.1, datë 25.5.2007 të Këshillit të Ministrave “Për lejimin e hyrjes në territorin e Republikës së shqipërisë të disa njësive të forcave ushtarake të shteteve të bashkuara të amerikës, në kuadër të operacionit të masave të sigurisë për vizitën e presidentit amerikan në Shqipëri” | [`ligji-9746-2007/`](ligji-9746-2007/) | in force | 1 | 2007-05-31 | 2007-05-31 |
+
+## ligji-9753-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën “për akses ndërkombëtar në drejtësi” | [`ligji-9753-2007/`](ligji-9753-2007/) | in force | 1 | 2007-06-14 | 2007-06-14 |
+
+## ligji-9754-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përgjegjësinë penale të personave juridikë | [`ligji-9754-2007/`](ligji-9754-2007/) | in force | 1 | 2007-10-01 | 2007-10-01 |
+
+## ligji-9756-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “programit për bashkëpunimin në fushën e arsimit, shkencës dhe kulturës ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së bullgarisë për periudhën 2007-2009” | [`ligji-9756-2007/`](ligji-9756-2007/) | in force | 1 | 2007-06-18 | 2007-06-18 |
+
+## ligji-9757-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “memorandumit të mirëkuptimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komandës supreme të forcave të aleancës në europë (shape) për sigurimin e mbështetjes së shtetit pritës, për realizimin e stërvitjeve të bashkëpunimit longbow dhe lancer, 2007” | [`ligji-9757-2007/`](ligji-9757-2007/) | in force | 1 | 2007-07-21 | 2007-07-21 |
+
+## ligji-9758-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së garancisë ndërmjet republikës së shqipërisë dhe bankës europiane për rindërtim dhe zhvillim (berzh) për marrëveshjen e kredisë ndërmjet autoritetit portual durrës dhe bankës europiane për rindërtim dhe zhvillim (berzh), për financimin e projektit “ndërtimi i terminalit të trageteve dhe i shesheve përreth në portin e durrësit”” | [`ligji-9758-2007/`](ligji-9758-2007/) | in force | 1 | 2007-07-21 | 2007-07-21 |
+
+## ligji-9759-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për programin e fazës së parë të huasë, në mbështetje të politikave të zhvillimit” | [`ligji-9759-2007/`](ligji-9759-2007/) | in force | 1 | 2007-07-21 | 2007-07-21 |
+
+## ligji-9761-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe “tergestea” srl trieste (itali) për riskedulimin e borxheve të prapambetura” | [`ligji-9761-2007/`](ligji-9761-2007/) | in force | 1 | 2007-07-26 | 2007-07-26 |
+
+## ligji-9763-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së grantit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së austrisë për programin e barazisë gjinore, shqipëri” | [`ligji-9763-2007/`](ligji-9763-2007/) | in force | 1 | 2007-07-26 | 2007-07-26 |
+
+## ligji-9771-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “memorandumit të mirëkuptimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe kombeve të bashkuara, për kontributet ndaj sistemit të masave mbështetëse paraprake të kombeve të bashkuara” | [`ligji-9771-2007/`](ligji-9771-2007/) | in force | 1 | 2007-08-10 | 2007-08-10 |
+
+## ligji-9772-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së organizatës ndërkombëtare të punës (ilo) “për kontrollin e punës në bujqësi, c 129, 1969” | [`ligji-9772-2007/`](ligji-9772-2007/) | in force | 1 | 2007-08-10 | 2007-08-10 |
+
+## ligji-9773-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së organizatës ndërkombëtare të punës (ilo) “për punëtorët me përgjegjësi familjare, c 156, 1981” | [`ligji-9773-2007/`](ligji-9773-2007/) | in force | 1 | 2007-08-10 | 2007-08-10 |
+
+## ligji-9777-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes financiare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane për programin vjetor rajonal cards 2006 të asistencës komunitare, për autoritetet tatimore dhe doganore të ballkanit perëndimor” | [`ligji-9777-2007/`](ligji-9777-2007/) | in force | 1 | 2007-08-17 | 2007-08-17 |
+
+## ligji-9778-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “konventës tripalëshe ndërmjet republikës së shqipërisë, republikës së bullgarisë dhe republikës së maqedonisë për sistemin e naftësjellësit transballkanik” | [`ligji-9778-2007/`](ligji-9778-2007/) | in force | 1 | 2007-08-17 | 2007-08-17 |
+
+## ligji-9781-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së bashkëpunimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe fondacionit hanns - seidel të republikës federale të gjermanisë” | [`ligji-9781-2007/`](ligji-9781-2007/) | in force | 1 | 2007-08-21 | 2007-08-21 |
+
+## ligji-9782-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe fondit opec për zhvillim ndërkombëtar për projektin e rrugës milot-rrëshen” | [`ligji-9782-2007/`](ligji-9782-2007/) | in force | 1 | 2007-08-17 | 2007-08-17 |
+
+## ligji-9783-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe fondit të opec-ut për zhvillimin e qëndrueshëm të zonave rurale malore” | [`ligji-9783-2007/`](ligji-9783-2007/) | in force | 1 | 2007-08-21 | 2007-08-21 |
+
+## ligji-9785-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “kontratës për blerjen e aksioneve të shoqërisë anonime “albtelecom”” | [`ligji-9785-2007/`](ligji-9785-2007/) | in force | 1 | 2007-08-21 | 2007-08-21 |
+
+## ligji-9790-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për masat mbrojtëse në importe | [`ligji-9790-2007/`](ligji-9790-2007/) | in force | 1 | 2007-08-21 | 2007-08-21 |
+
+## ligji-9792-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për heqjen nga fondi pyjor kombëtar të parcelave në ekonomitë pyjore krastë - krujë dhe shëmri - brret, që do të përdoren për ndërtimin e fabrikës së çimentos e për kariera nga ”cementos aguila” shpk | [`ligji-9792-2007/`](ligji-9792-2007/) | in force | 1 | 2007-08-21 | 2007-08-21 |
+
+## ligji-9793-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për heqjen nga fondi pyjor kombëtar të parcelave në ekonomitë pyjore krastë - krujë dhe shëmri - brret, që do të përdoren për ndërtimin e fabrikës së çimentos e për kariera nga “antea cement” sha | [`ligji-9793-2007/`](ligji-9793-2007/) | in force | 1 | 2007-08-21 | 2007-08-21 |
+
+## ligji-9796-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për masat antidumping dhe kundërbalancuese | [`ligji-9796-2007/`](ligji-9796-2007/) | in force | 1 | 2007-08-21 | 2007-08-21 |
+
+## ligji-9798-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Ligj Nr.9798 Dt.10.09.2007 | [`ligji-9798-2007/`](ligji-9798-2007/) | in force | 1 | 2007-10-12 | 2007-10-12 |
+
+## ligji-9799-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Ligj Nr.9799 Dt.10.09.2007 | [`ligji-9799-2007/`](ligji-9799-2007/) | in force | 1 | 2007-10-12 | 2007-10-12 |
+
+## ligji-98-2012 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e buxhetit faktik të shtetit për vitin 2011 | [`ligji-98-2012/`](ligji-98-2012/) | in force | 1 | 2012-11-15 | 2012-11-15 |
+
+## ligji-98-2013 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Mbretërisë së Bashkuar të Britanisë së Madhe e Irlandës së Veriut për transferimin e personave të dënuar | [`ligji-98-2013/`](ligji-98-2013/) | in force | 1 | 2013-04-18 | 2013-04-18 |
+
+## ligji-98-2017 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për tarifat gjyqësore në republikën e shqipërisë | [`ligji-98-2017/`](ligji-98-2017/) | in force | 1 | 2017-11-02 | 2017-11-02 |
+
+## ligji-98-2021 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e vendimit nr. 1/2021 të Këshillit të Stabilizim-Asociimit Bashkimi Europian - Shqipëri, që ndryshon Marrëveshjen e Stabilizim-Asociimit ndërmjet komuniteteve europiane dhe shteteve të tyre anëtare, nga njëra anë, dhe Republikës së Shqipërisë, nga ana tjetër, duke zëvendësuar protokollin 4 të saj në lidhje me përkufizimin e konceptit “produkte origjinuese” dhe metodat e bashkëpunimit administrativ” | [`ligji-98-2021/`](ligji-98-2021/) | in force | 1 | 2021-08-17 | 2021-08-17 |
+
+## ligji-98-2022 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për krijimin e kontributit të solidaritetit gjatë kohëzgjatjes së periudhës së krizës energjetike | [`ligji-98-2022/`](ligji-98-2022/) | in force | 1 | 2023-02-02 | 2023-02-02 |
+
+## ligji-98-2023 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim për financimin e projektit ”Qëndrueshmëria ndaj klimës dhe zhvillimit të bujqësisë” | [`ligji-98-2023/`](ligji-98-2023/) | in force | 1 | 2024-01-13 | 2024-01-13 |
+
+## ligji-98-2026 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për pjesëmarrjen e Forcave të Armatosura të Republikës së Shqipërisë në operacionin ushtarak të Forcës Ndërkombëtare të Stabilitetit në Gaza | [`ligji-98-2026/`](ligji-98-2026/) | in force | 1 | 2026-10-21 | 2026-10-21 |
+
+## ligji-9801-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe këshillit federal zviceran “për bashkëpunimin teknik, financiar dhe humanitar” | [`ligji-9801-2007/`](ligji-9801-2007/) | in force | 1 | 2007-10-12 | 2007-10-12 |
+
+## ligji-9802-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës ndërkombëtare të okb-së “për mbrojtjen e të gjithë personave nga zhdukjet me forcë” | [`ligji-9802-2007/`](ligji-9802-2007/) | in force | 1 | 2007-10-12 | 2007-10-12 |
+
+## ligji-9803-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e kamatëvonesave të faturave të papaguara të konsumit të ujit, që konsumatorët familjarë dhe jofamiljarë kanë ndaj ndërmarrjeve dhe shoqërive, me kapital tërësisht shtetëror, të ujësjellës-kanalizimeve | [`ligji-9803-2007/`](ligji-9803-2007/) | in force | 1 | 2007-10-12 | 2007-10-12 |
+
+## ligji-9805-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “memorandumit të mirëkuptimit për lehtësimin e transportit civil jetësor ndërkufitar” | [`ligji-9805-2007/`](ligji-9805-2007/) | in force | 1 | 2007-10-18 | 2007-10-18 |
+
+## ligji-9806-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën europiane “për mbrojtjen e trashëgimisë arkeologjike” (të rishikuar) | [`ligji-9806-2007/`](ligji-9806-2007/) | in force | 1 | 2007-10-18 | 2007-10-18 |
+
+## ligji-9810-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së sllovenisë për transportin ndërkombëtar rrugor të udhëtarëve dhe mallrave” | [`ligji-9810-2007/`](ligji-9810-2007/) | in force | 1 | 2007-11-03 | 2007-11-03 |
+
+## ligji-9811-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë federale austriake për bashkëpunimin policor” | [`ligji-9811-2007/`](ligji-9811-2007/) | in force | 1 | 2007-11-03 | 2007-11-03 |
+
+## ligji-9812-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e “marrëveshjes minerare të shfrytëzimit ndërmjet ministrisë së ekonomisë, tregtisë dhe energjetikës dhe shoqërisë “cementos aguila” shpk” | [`ligji-9812-2007/`](ligji-9812-2007/) | in force | 1 | 2007-11-03 | 2007-11-03 |
+
+## ligji-9813-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e “marrëveshjes minerare të shfrytëzimit ndërmjet ministrisë së ekonomisë, tregtisë dhe energjetikës dhe shoqërisë “antea cement” sha” | [`ligji-9813-2007/`](ligji-9813-2007/) | in force | 1 | 2007-11-03 | 2007-11-03 |
+
+## ligji-9815-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë dhe komunitetit europian për lehtësimin e lëshimit të vizave” | [`ligji-9815-2007/`](ligji-9815-2007/) | in force | 1 | 2007-11-08 | 2007-11-08 |
+
+## ligji-9817-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për bujqësinë dhe zhvillimin rural | [`ligji-9817-2007/`](ligji-9817-2007/) | in force | 1 | 2007-11-21 | 2007-11-21 |
+
+## ligji-9818-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e Buxhetit Faktik të Shtetit të vitit 2006 | [`ligji-9818-2007/`](ligji-9818-2007/) | in force | 1 | 2007-11-21 | 2007-11-21 |
+
+## ligji-9819-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së argjentinës për bashkëpunimin shkencor dhe teknik” | [`ligji-9819-2007/`](ligji-9819-2007/) | in force | 1 | 2007-11-28 | 2007-11-28 |
+
+## ligji-9820-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “memorandumit të mirëkuptimit për zhvillimin e bashkërenduar të autostradës unazë të detit të zi” | [`ligji-9820-2007/`](ligji-9820-2007/) | in force | 1 | 2007-11-28 | 2007-11-28 |
+
+## ligji-9821-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes kuadër të huasë ndërmjet republikës së shqipërisë, përfaqësuar nga këshilli i ministrave dhe bankës për zhvillim të këshillit të europës për projektin “ndërtimi i banesave me qëllim social”” | [`ligji-9821-2007/`](ligji-9821-2007/) | in force | 1 | 2007-12-01 | 2007-12-01 |
+
+## ligji-9822-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare për ruajtjen e peshkut ton të atlantikut (iccat) | [`ligji-9822-2007/`](ligji-9822-2007/) | in force | 1 | 2007-12-01 | 2007-12-01 |
+
+## ligji-9828-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin plotësues të konventave të gjenevës të 12 gushtit 1949 për miratimin e një simboli plotësues, dallues | [`ligji-9828-2007/`](ligji-9828-2007/) | in force | 1 | 2007-12-15 | 2007-12-15 |
+
+## ligji-9829-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim për ndërtimin e seksionit rrugor kalimash - rexhepaj, pjesë e projektit rrugor durrës-morinë” | [`ligji-9829-2007/`](ligji-9829-2007/) | in force | 1 | 2007-12-15 | 2007-12-15 |
+
+## ligji-9830-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes Istisna’a ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Islamike për Zhvillim për ndërtimin e seksionit rrugor Kalimash-Rexhepaj, pjesë e projektit rrugor Durrës-Morinë” dhe “Marrëveshjes së Agjencisë ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Islamike për Zhvillim për këtë projekt, që i bashkëlidhet Marrëveshjes Instisna’a” | [`ligji-9830-2007/`](ligji-9830-2007/) | in force | 1 | 2007-12-15 | 2007-12-15 |
+
+## ligji-9833-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin opsional të konventës së okb-së “për të drejtat e fëmijëve”, për përfshirjen e fëmijëve në konflikte të armatosura | [`ligji-9833-2007/`](ligji-9833-2007/) | in force | 1 | 2007-12-25 | 2007-12-25 |
+
+## ligji-9834-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin opsional të konventës së okb-së “për të drejtat e fëmijëve”, për shitjen e fëmijëve, prostitucionin dhe pornografinë me fëmijë | [`ligji-9834-2007/`](ligji-9834-2007/) | in force | 1 | 2007-12-25 | 2007-12-25 |
+
+## ligji-9838-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në protokollin kundër prodhimit të paligjshëm dhe trafikimit të armëve të zjarrit, pjesëve të tyre, komponentëve dhe municioneve, që plotëson konventën e kombeve të bashkuara kundër krimit të organizuar ndërkombëtar | [`ligji-9838-2007/`](ligji-9838-2007/) | in force | 1 | 2008-01-15 | 2008-01-15 |
+
+## ligji-9839-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së grantit ushtarak ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së turqisë” | [`ligji-9839-2007/`](ligji-9839-2007/) | in force | 1 | 2008-01-15 | 2008-01-15 |
+
+## ligji-9840-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes kuadër ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane për rregullat e bashkëpunimit për asistencën për shqipërinë, në kuadër të zbatimit të instrumentit të parazgjerimit (ipa)” | [`ligji-9840-2007/`](ligji-9840-2007/) | in force | 1 | 2008-01-15 | 2008-01-15 |
+
+## ligji-9841-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së grantit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe oret nl për financimin e projektit “rehabilitimi i infrastrukturës së ujit në vlorë”” | [`ligji-9841-2007/`](ligji-9841-2007/) | in force | 1 | 2008-01-15 | 2008-01-15 |
+
+## ligji-9842-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kredisë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës holandeze “ing bank n.v.” për financimin e projektit “rehabilitimi i infrastrukturës së ujit në vlorë”” | [`ligji-9842-2007/`](ligji-9842-2007/) | in force | 1 | 2008-01-15 | 2008-01-15 |
+
+## ligji-9845-2007 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për disa shtesa dhe ndryshime në ligjin nr.9584, datë 17.7.2006 “për pagat, shpërblimet dhe strukturat e institucioneve të pavarura kushtetuese dhe të institucioneve të tjera të pavarura, të krijuara me ligj” | [`ligji-9845-2007/`](ligji-9845-2007/) | amending act | 1 | 2007-12-17 | 2007-12-17 |
+
+## ligji-9846-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për heqjen nga fondi pyjor kombëtar të parcelave në ekonominë pyjore krastë-krujë, që do të përdoren për ndërtimin e fabrikës së çimentos e për kariera nga shoqëria ”gener 2” shpk | [`ligji-9846-2007/`](ligji-9846-2007/) | in force | 1 | 2007-12-17 | 2007-12-17 |
+
+## ligji-9847-2007 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e “marrëveshjes minerare të shfrytëzimit ndërmjet ministrisë së ekonomisë, tregtisë dhe energjetikës dhe shoqërisë “gener 2” shpk dhe ndryshimin e destinacionit të tokës bujqësore, të përcaktuar në këtë marrëveshje, në tokë për shfrytëzim minerar” | [`ligji-9847-2007/`](ligji-9847-2007/) | amending act | 1 | 2007-12-17 | 2007-12-17 |
+
+## ligji-9849-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë dhe bankës europiane për rindërtim dhe zhvillim (berzh) për financimin e projektit të rrugës levan-vlorë” | [`ligji-9849-2007/`](ligji-9849-2007/) | in force | 1 | 2007-12-26 | 2007-12-26 |
+
+## ligji-9850-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “kontratës financiare ndërmjet republikës së shqipërisë dhe bankës europiane të investimeve (bei) për financimin e projektit të rrugës levan-vlorë” | [`ligji-9850-2007/`](ligji-9850-2007/) | in force | 1 | 2007-12-26 | 2007-12-26 |
+
+## ligji-9851-2007 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e akteve finale të konferencës rajonale të radiokomunikacioneve për planifikimin e shërbimit të transmetimit numerik tokësor në pjesë të rajoneve 1 dhe 3, në bandat e frekuencës 174-230 mhz dhe 470-862 mhz (rrc-06) dhe të akteve finale të konferencës rajonale të radiokomunikacioneve për rishikimin e marrëveshjes së stokholmit, 1961 (rrc-06 rev. st 61), të zhvilluar në gjenevë, 15 maj - 16 qershor 2006 | [`ligji-9851-2007/`](ligji-9851-2007/) | in force | 1 | 2007-12-26 | 2007-12-26 |
+
+## ligji-9852-2007 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në memorandumin e mirëkuptimit “për kontrollin shtetëror portual” dhe ndryshimin e përshtatur më 9 maj 2002 | [`ligji-9852-2007/`](ligji-9852-2007/) | amending act | 1 | 2007-12-26 | 2007-12-26 |
+
+## ligji-9862-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për kalimin e së drejtës së pronësisë mbi sasinë e arit dhe të metaleve të tjera të çmuara nga Këshilli i Ministrave i Republikës së Shqipërisë Bankës së Shqipërisë | [`ligji-9862-2008/`](ligji-9862-2008/) | in force | 1 | 2008-02-28 | 2008-02-28 |
+
+## ligji-9865-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Republikës së Shqipërisë dhe Selisë së Shenjtë për disa çështje ekonomike dhe tatimore” | [`ligji-9865-2008/`](ligji-9865-2008/) | in force | 1 | 2008-03-04 | 2008-03-04 |
+
+## ligji-9866-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Memorandumit të mirëkuptimit ndërmjet Republikës së Shqipërisë dhe Komunitetit Europian për asociimin e Republikës së Shqipërisë në Programin e Shtatë Kuadër të Komunitetit Europian për kërkimin, zhvillimin teknologjik dhe të veprimtarive të demonstrimit (2007-2013)” | [`ligji-9866-2008/`](ligji-9866-2008/) | in force | 1 | 2008-03-05 | 2008-03-05 |
+
+## ligji-9871-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Republikës së Shqipërisë dhe Republikës së Italisë, si shtesë e Konventës Europiane për Ekstradimin të 13 dhjetorit 1957 dhe e Konventës Europiane për Ndihmë Juridike për Çështjet Penale të 20 prillit 1959, që ka si qëllim të lehtësojë zbatimin e tyre | [`ligji-9871-2008/`](ligji-9871-2008/) | in force | 1 | 2008-03-13 | 2008-03-13 |
+
+## ligji-9872-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Federale të Gjermanisë për bashkëpunimin financiar” | [`ligji-9872-2008/`](ligji-9872-2008/) | in force | 1 | 2008-03-13 | 2008-03-13 |
+
+## ligji-9873-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e Republikës së Shqipërisë në “Marrëveshjen europiane për linjat e rëndësishme ndërkombëtare të transportit të kombinuar dhe instalimet përkatëse (AGTC)” | [`ligji-9873-2008/`](ligji-9873-2008/) | in force | 1 | 2008-03-15 | 2008-03-15 |
+
+## ligji-9878-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes për ngritjen dhe veprimtarinë e observatorit të transportit për europën juglindore (seeto)” | [`ligji-9878-2008/`](ligji-9878-2008/) | in force | 1 | 2008-03-27 | 2008-03-27 |
+
+## ligji-9881-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen për tregtinë me avionët civilë” | [`ligji-9881-2008/`](ligji-9881-2008/) | in force | 1 | 2008-04-03 | 2008-04-03 |
+
+## ligji-9883-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes së huasë, financimit dhe projektit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, Fondit Shqiptar për Zhvillim (FSHZH) dhe KFW, Frankfurt am Main, për financimin e projektit “Programi rural i furnizimit me ujë | [`ligji-9883-2008/`](ligji-9883-2008/) | in force | 1 | 2008-04-03 | 2008-04-03 |
+
+## ligji-9884-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar” | [`ligji-9884-2008/`](ligji-9884-2008/) | in force | 1 | 2008-04-03 | 2008-04-03 |
+
+## ligji-9886-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë dhe republikës së austrisë për shmangien e tatimit të dyfishtë, lidhur me tatimin mbi të ardhurat dhe mbi kapitalin dhe për parandalimin e evazionit fiskal” | [`ligji-9886-2008/`](ligji-9886-2008/) | in force | 1 | 2008-04-16 | 2008-04-16 |
+
+## ligji-9889-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për përcaktimin e formës dhe të strukturës së formulës së privatizimit të shoqërisë anonime “operatori i sistemit të shpërndarjes” | [`ligji-9889-2008/`](ligji-9889-2008/) | in force | 1 | 2008-04-16 | 2008-04-16 |
+
+## ligji-9891-2008 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e ndryshimit të “Marrëveshjes së rishitjes së aksioneve të INSIG sh.a.-së, ndërmjet Ministrisë së Financave, që vepron në emër të shtetit shqiptar, Korporatës Financiare Ndërkombëtare (IFC) dhe Bankës Europiane për Rindërtim dhe Zhvillim (BERZH)” | [`ligji-9891-2008/`](ligji-9891-2008/) | amending act | 1 | 2008-04-16 | 2008-04-16 |
+
+## ligji-9893-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së malit të zi për bashkëpunimin policor ndërkufitar” | [`ligji-9893-2008/`](ligji-9893-2008/) | in force | 1 | 2008-04-24 | 2008-04-24 |
+
+## ligji-9894-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së maqedonisë për lëvizjen e ndërsjellë të shtetasve dhe të protokollit të saj për qarkullimin në zonat kufitare” | [`ligji-9894-2008/`](ligji-9894-2008/) | in force | 1 | 2008-04-24 | 2008-04-24 |
+
+## ligji-9899-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën “për ekspozitat ndërkombëtare”, nënshkruar në paris më 22 nëntor 1928 dhe shtuar nga protokollet e datave 10.5.1948, 16.11.1966 e 30.11.1972, si dhe shtesat e datave 24.6.1982 e 31.5.1988 | [`ligji-9899-2008/`](ligji-9899-2008/) | in force | 1 | 2008-05-22 | 2008-05-22 |
+
+## ligji-99-2020 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e marrëveshjes dypalëshe ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Konfederatës Zvicerane për programin e zhvillimit rajonal në Shqipëri (faza 4, 2019-2023) | [`ligji-99-2020/`](ligji-99-2020/) | in force | 1 | 2020-08-21 | 2020-08-21 |
+
+## ligji-9906-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Kabinetit të Ministrave të Ukrainës për mbrojtjen e ndërsjellë të informacionit të klasifikuar | [`ligji-9906-2008/`](ligji-9906-2008/) | in force | 1 | 2008-06-04 | 2008-06-04 |
+
+## ligji-9909-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Bullgarisë për mbrojtjen e ndërsjellë dhe shkëmbimin e informacionit të klasifikuar | [`ligji-9909-2008/`](ligji-9909-2008/) | in force | 1 | 2008-06-04 | 2008-06-04 |
+
+## ligji-9910-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave, si përfaqësues i republikës së shqipërisë dhe bankës për zhvillim të këshillit të europës për financimin e programit “punët e komunitetit, faza e tretë”” | [`ligji-9910-2008/`](ligji-9910-2008/) | in force | 1 | 2008-06-05 | 2008-06-05 |
+
+## ligji-9912-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën ndërkombëtare “për kontrollin dhe administrimin e ujërave të balasteve dhe sedimenteve të anijeve, 2004” | [`ligji-9912-2008/`](ligji-9912-2008/) | in force | 1 | 2008-06-05 | 2008-06-05 |
+
+## ligji-9921-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë, përfaqësuar nga këshilli i ministrave dhe fondit kuvajtian për zhvillimin ekonomik arab, për financimin e projektit “mbikalimi i durrësit dhe nyja rrugore e vorës”” | [`ligji-9921-2008/`](ligji-9921-2008/) | in force | 1 | 2008-06-26 | 2008-06-26 |
+
+## ligji-9922-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën “për taksimin e automjeteve rrugore në transportin ndërkombëtar të udhëtarëve” | [`ligji-9922-2008/`](ligji-9922-2008/) | in force | 1 | 2008-06-26 | 2008-06-26 |
+
+## ligji-9923-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe mbretërisë së danimarkës për lehtësimin e lëshimit të vizave” | [`ligji-9923-2008/`](ligji-9923-2008/) | in force | 1 | 2008-06-26 | 2008-06-26 |
+
+## ligji-9924-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe mbretërisë së danimarkës për ripranimin e personave me qëndrim të paautorizuar” | [`ligji-9924-2008/`](ligji-9924-2008/) | in force | 1 | 2008-06-26 | 2008-06-26 |
+
+## ligji-9925-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën europiane “për trajtimin doganor të paletave të përdorura në transportin ndërkombëtar” | [`ligji-9925-2008/`](ligji-9925-2008/) | in force | 1 | 2008-07-16 | 2008-07-16 |
+
+## ligji-9926-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në konventën “për taksimin e automjeteve rrugore për përdorim privat në trafikun ndërkombëtar” dhe në protokollin e nënshkrimit | [`ligji-9926-2008/`](ligji-9926-2008/) | in force | 1 | 2008-07-16 | 2008-07-16 |
+
+## ligji-9937-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së letonisë për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal, në lidhje me tatimin mbi të ardhurat dhe kapitalin | [`ligji-9937-2008/`](ligji-9937-2008/) | in force | 1 | 2008-08-06 | 2008-08-06 |
+
+## ligji-9938-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së sllovenisë për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal, për tatimin mbi të ardhurat dhe kapitalin | [`ligji-9938-2008/`](ligji-9938-2008/) | in force | 1 | 2008-08-06 | 2008-08-06 |
+
+## ligji-9939-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen e pjesshme, të zgjeruar, në sport (epas)” | [`ligji-9939-2008/`](ligji-9939-2008/) | in force | 1 | 2008-08-06 | 2008-08-06 |
+
+## ligji-9940-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në “marrëveshjen europiane për zbatimin e nenit 23 të konventës së vitit 1949 për trafikun rrugor, në lidhje me përmasat dhe peshën e mjeteve, që lejohen të udhëtojnë në rrugë të caktuara të palëve kontraktuese” | [`ligji-9940-2008/`](ligji-9940-2008/) | in force | 1 | 2008-08-06 | 2008-08-06 |
+
+## ligji-9941-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së kontributit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe al-diwan al-emirit të shtetit të kuvajtit për financimin e projektit “rinovimi i sheshit “skënderbej” dhe restaurimi i xhamisë së ethem beut në tiranë”” | [`ligji-9941-2008/`](ligji-9941-2008/) | in force | 1 | 2008-08-06 | 2008-08-06 |
+
+## ligji-9950-2008 (1, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për aderimin e republikës së shqipërisë në ndryshimet e “marrëveshjes së trips-it (aspekte të tregtisë, që lidhen me pronësinë intelektuale)” | [`ligji-9950-2008/`](ligji-9950-2008/) | amending act | 1 | 2008-08-15 | 2008-08-15 |
+
+## ligji-9954-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për projektin e rrugëve dytësore dhe vendore | [`ligji-9954-2008/`](ligji-9954-2008/) | in force | 1 | 2008-08-15 | 2008-08-15 |
+
+## ligji-9955-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës Franceze për bashkëpunimin në fushën e sigurisë së brendshme” | [`ligji-9955-2008/`](ligji-9955-2008/) | in force | 1 | 2008-08-15 | 2008-08-15 |
+
+## ligji-9956-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet republikës së shqipërisë dhe shoqatës ndërkombëtare për zhvillim (ida) për projektin “përballimi dhe zbutja e rrezikut nga fatkeqësitë”” | [`ligji-9956-2008/`](ligji-9956-2008/) | in force | 1 | 2008-08-15 | 2008-08-15 |
+
+## ligji-9960-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe shoqërive zvicerane andre & cie, uzimex, fluka chemie, ficher chemicals, ciba-geigy (novartis), finagrain, të përfaqësuara nga zoti edmond kërliu, për riskedulimin e borxhit të prapambetur, që do t’u paguhet këtyre shoqërive | [`ligji-9960-2008/`](ligji-9960-2008/) | in force | 1 | 2008-08-16 | 2008-08-16 |
+
+## ligji-9961-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim (ibrd) për financimin e projektit “përballimi dhe zbutja e rrezikut nga fatkeqësitë”” | [`ligji-9961-2008/`](ligji-9961-2008/) | in force | 1 | 2008-08-16 | 2008-08-16 |
+
+## ligji-9964-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së huasë ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës japoneze për bashkëpunim ndërkombëtar për financimin e projektit “përmirësimi i sistemit të kanalizimeve për tiranën e madhe | [`ligji-9964-2008/`](ligji-9964-2008/) | in force | 1 | 2008-08-19 | 2008-08-19 |
+
+## ligji-9971-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së austrisë, për realizimin e një sistemi kompjuterik për regjistrin kombëtar të gjendjes civile në shqipëri | [`ligji-9971-2008/`](ligji-9971-2008/) | in force | 1 | 2008-08-19 | 2008-08-19 |
+
+## ligji-9972-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “kontratës koncesionare “për prodhimin dhe shpërndarjen e kartave të identitetit dhe të pasaportave elektronike” ndërmjet ministrisë së brendshme të republikës së shqipërisë dhe grupimit të sagem securite e fondit shqiptaro-amerikan të ndërmarrjeve | [`ligji-9972-2008/`](ligji-9972-2008/) | in force | 1 | 2008-08-19 | 2008-08-19 |
+
+## ligji-9974-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për kontratën e riblerjes së titujve | [`ligji-9974-2008/`](ligji-9974-2008/) | in force | 1 | 2008-08-19 | 2008-08-19 |
+
+## ligji-9976-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane për programin e financimit të pjesëmarrjes së shqipërisë në programin transnacional erdf të bashkëpunimit territorial europian “hapësira e europës juglindore”, nën instrumentin e ndihmës së paraaderimit (ipa), komponenti i bashkëpunimit ndërkufitar, për vitin | [`ligji-9976-2008/`](ligji-9976-2008/) | in force | 1 | 2008-10-07 | 2008-10-07 |
+
+## ligji-9977-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes financiare ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane për programin e zhvillimit kufitar të qarkut të kukësit, shqipëri, për vitin 2007, nën instrumentin e ndihmës së paraaderimit (ipa), komponenti ii - bashkëpunimi ndërkufitar” | [`ligji-9977-2008/`](ligji-9977-2008/) | in force | 1 | 2008-10-07 | 2008-10-07 |
+
+## ligji-9978-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së austrisë për bashkëpunimin për zhvillim | [`ligji-9978-2008/`](ligji-9978-2008/) | in force | 1 | 2008-10-07 | 2008-10-07 |
+
+## ligji-9979-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë, të përfaqësuar nga ministria e financave dhe qeverisë së republikës së austrisë, të përfaqësuar nga ministria federale e financave, për bashkëpunimin financiar | [`ligji-9979-2008/`](ligji-9979-2008/) | in force | 1 | 2008-10-07 | 2008-10-07 |
+
+## ligji-9980-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së qipros për transportin ndërkombëtar rrugor të udhëtarëve dhe mallrave” | [`ligji-9980-2008/`](ligji-9980-2008/) | in force | 1 | 2008-10-07 | 2008-10-07 |
+
+## ligji-9984-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “memorandumit të mirëkuptimit ndërmjet republikës së shqipërisë dhe komunitetit europian për pjesëmarrjen e republikës së shqipërisë në programin e komunitetit “programi i veçantë për sipërmarrjen dhe novacionin (eip) të programit kuadër të konkurrueshmërisë dhe novacionit, 2007-2013 | [`ligji-9984-2008/`](ligji-9984-2008/) | in force | 1 | 2008-10-07 | 2008-10-07 |
+
+## ligji-9986-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për faljen e detyrimeve doganore dhe tatimore, të detyrimeve të prapambetura të taksës vjetore të qarkullimit rrugor të mjeteve e të taksës së regjistrimit të përvitshëm të mjeteve, si dhe të gjobave e kamatëvonesave të papaguara të kontributeve të sigurimeve të detyrueshme shoqërore dhe shëndetësore | [`ligji-9986-2008/`](ligji-9986-2008/) | in force | 1 | 2008-10-07 | 2008-10-07 |
+
+## ligji-9988-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes së financimit ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit të komuniteteve europiane për programin ndërkufitar shqipëri - mali i zi, për vitin 2007, nën instrumentin e ndihmës së paraaderimit (ipa), komponenti ii - bashkëpunimi ndërkufitar, shqipëri | [`ligji-9988-2008/`](ligji-9988-2008/) | in force | 1 | 2008-10-20 | 2008-10-20 |
+
+## ligji-9991-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së organizatës ndërkombëtare të punës (ilo) “për shërbimet e punësimit, c 88, 1948” | [`ligji-9991-2008/`](ligji-9991-2008/) | in force | 1 | 2008-10-18 | 2008-10-18 |
+
+## ligji-9992-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e konventës së organizatës ndërkombëtare të punës (ilo) “për politikën e punësimit, c 122, 1964” | [`ligji-9992-2008/`](ligji-9992-2008/) | in force | 1 | 2008-10-18 | 2008-10-18 |
+
+## ligji-9993-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e kontratës së shitjes së 85 për qind të aksioneve të armo, sha-së ndërmjet ministrisë së ekonomisë, tregtisë dhe energjetikës dhe blerësit “amra oil, sha” dhe konsorciumit “refinery associates of texas, anika enterprises & mercuria energy group” | [`ligji-9993-2008/`](ligji-9993-2008/) | in force | 1 | 2008-10-18 | 2008-10-18 |
+
+## ligji-9998-2008 (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe shoqërisë panhelenike të eksportuesve për konsolidimin e borxhit të jashtëm të shqipërisë” | [`ligji-9998-2008/`](ligji-9998-2008/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+
+## pastrimi-i-parave (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për parandalimin e pastrimit të parave dhe financimit të terrorizmit | [`pastrimi-i-parave/`](pastrimi-i-parave/) | in force | 8 | 2008-09-10 | 2026-05-02 |
+
+## shtetesia (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për shtetësinë | [`shtetesia/`](shtetesia/) | in force | 3 | 2020-10-14 | 2026-06-20 |
+
+## tatimi-mbi-te-ardhurat (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për tatimin mbi të ardhurat | [`tatimi-mbi-te-ardhurat/`](tatimi-mbi-te-ardhurat/) | in force | 7 | 2023-05-17 | 2026-01-30 |
+
+## vendim (793, of which 39 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për miratimin e memorandumit teknik të mirëkuptimit ndërmjet ministrisë së punëve publike të shqipërisë dhe ministrisë së punëve të jashtme të italisë, “për projektin urë për asistencë të menjëherëshme për impiantin e ujit të pijshëm në bovillë” | [`vendim/2000/47/`](vendim/2000/47/) | in force | 1 | 2000-03-01 | 2000-03-01 |
+| Për lejimin e dhënies me qira të disa mjediseve të qendrës kulturore të forcave të armatosura | [`vendim/2003/772/`](vendim/2003/772/) | in force | 1 | 2003-12-05 | 2003-12-05 |
+| Për miratimin e marrëveshjes ndërmjet qeverisë së republikës Të Shqipërisë dhe qeverisë së republikës Të Kroacisë për bashkëpunim në fushën e shëndetësisë dhe të mjekësisë | [`vendim/2003/784/`](vendim/2003/784/) | in force | 1 | 2003-12-05 | 2003-12-05 |
+| Për përdorimin e fondeve të ish-fondacioneve për ndërtimin e apaRtamenteve për kreditorët që kanë humbur banesat nga rënia e skemave piramidale | [`vendim/2003/792/`](vendim/2003/792/) | in force | 1 | 2003-12-05 | 2003-12-05 |
+| Për vazhdimin e funksionimit të komitetit shtetëror të kthimit dhe kompensimit të pronave ish-pronarëve dhe të komisioneve të kthimit dhe të kompensimit të pronave ish-pronarëve | [`vendim/2004/631/`](vendim/2004/631/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Për miratimin e dokumentit “për politikat e decentralizimit në sektorin e arsimit parauniversitar” | [`vendim/2004/632/`](vendim/2004/632/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Për miratimin e dokumentit të politikave të decentralizimit në fushën e kujdesit shëndetësor parësor dhe mbrojtjen e shëndetit publik | [`vendim/2004/636/`](vendim/2004/636/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Për miratimin e dokumentit të politikave të decentralizimit në fushën e ndihmës ekonomike dhe të shërbimeve të përkujdesit shoqëror | [`vendim/2004/637/`](vendim/2004/637/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Për fillimin e procedurës së dhënies me koncesion të formës “boo”, për ndërtimin e hidrocentralit të helmësit në rrethin e kolonjës | [`vendim/2004/638/`](vendim/2004/638/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Për miratimin e marrëveshjes, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës, për mbrojtjen dhe ruajtjen e pasurive të caktuara kulturore | [`vendim/2004/639/`](vendim/2004/639/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Për lejimin e ndërmarrjes eksport-import “meico” tiranë, të përdorë procedurën “prokurim i drejtpërdrejtë”, për blerjen e pjesëve të këmbimit për helikopterët ab 205 dhe ab 206 të ministrisë së mbrojtjes për vitin 2004 | [`vendim/2004/641/`](vendim/2004/641/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Për kalimin e disa mjediseve të ish-vendkomandës të kohës së veçantë në qytetin e vlorës në përgjegjësi administrimi të drejtorisë së përgjithshme të arkivave | [`vendim/2004/647/`](vendim/2004/647/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore në bashkinë e durrësit | [`vendim/2004/648/`](vendim/2004/648/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore në komunën bubullimë | [`vendim/2004/649/`](vendim/2004/649/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore në bashkinë e kukësit | [`vendim/2004/650/`](vendim/2004/650/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Për lejimin e bashkisë së durrësit të kryejë procedurat e prokurimit për realizimin e objektit publik “rikonstruksioni i segmentit rrugor ura e dajlanit-plepa” | [`vendim/2004/653/`](vendim/2004/653/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Për shpronësimin për interes publik të pasurive të paluajtshme, që preken nga sistemimi e ndërtimi i rrugës “Ibrahim Dinçi”, në bashkinë elbasanit | [`vendim/2004/660/`](vendim/2004/660/) | in force | 1 | 2004-10-21 | 2004-10-21 |
+| Për një shtesë fondi në buxhetin e vitit 2004, miratuar për Ministrinë e Bujqësisë dhe të Ushqimit për vazhdimin e financimit të projektit të regjistrimit fillestar të pasurive të paluajtshme | [`vendim/2004/663/`](vendim/2004/663/) | in force | 1 | 2004-10-21 | 2004-10-21 |
+| PËR Shpronësimin për interes publik të pasurive të paluajtshme, që prekEn nga ndërtimi i varrezave publike, në bashkinë e Përrenjasit | [`vendim/2004/668/`](vendim/2004/668/) | in force | 1 | 2004-10-21 | 2004-10-21 |
+| Për shpallje ditë zie kombëtare | [`vendim/2004/673/`](vendim/2004/673/) | in force | 1 | 2004-10-21 | 2004-10-21 |
+| Për përdorimin e fondeve buxhetore e të procedurës “prokurim i drejtpërdrejtë” për rehabilitimin e infrastrukturës në komunat vig-mnel, hajmel dhe bashkinë e vaut të dejës, në qarkun e shkodrës, dhe për dhënie ndihme familjeve të dëmtuara nga përmbytjet e lumit gjadër | [`vendim/2004/753/`](vendim/2004/753/) | in force | 1 | 2004-12-06 | 2004-12-06 |
+| Për miratimin e strategjisë kombëtare të migracionit | [`vendim/2004/760/`](vendim/2004/760/) | in force | 1 | 2004-12-06 | 2004-12-06 |
+| Për kalimin në përgjegjësi administrimi të prefektit të qarkut të Tiranës së një magazine, e cila është në përdorim të drejtorisë së përgjithshme të rezervave të shtetit, agjencia Kavajë | [`vendim/2004/773/`](vendim/2004/773/) | in force | 1 | 2004-12-06 | 2004-12-06 |
+| Për miratimin e listës së inventarit dhe transferimin e pronave të klubit të futbollit “tirana”, në pronësi të bashkisë së tiranës | [`vendim/2005/342/`](vendim/2005/342/) | in force | 1 | 2005-06-28 | 2005-06-28 |
+| Për lejimin e kalimit transit të disa trupave ushtarake sllovene, përmes territorit të Republikës së Shqipërisë | [`vendim/2006/803/`](vendim/2006/803/) | in force | 1 | 2006-12-29 | 2006-12-29 |
+| Për dhënie fondi ndihmë partisë shqiptare “Atdheu” | [`vendim/2006/833/`](vendim/2006/833/) | in force | 1 | 2006-12-29 | 2006-12-29 |
+| Për dhënien e fondit për subjektet, pjesëmarrëse në zgjedhje, për financimin e fushatës zgjedhore për organet e qeverisjes vendore të vitit 2007 | [`vendim/2007/18/`](vendim/2007/18/) | in force | 1 | 2007-01-31 | 2007-01-31 |
+| Për caktimin e Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit organ përgjegjës për administrimin e pasurive nr.2/93 dhe nr.2/121 të zonës kadastrale nr.8380, Tiranë | [`vendim/2007/23/`](vendim/2007/23/) | in force | 1 | 2007-01-31 | 2007-01-31 |
+| Për SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARIT TË PASURISË SË PALUAJTSHME, PRONË PRIVATE, QË PREKET NGA REALIZIMI I PROJEKTIT TË FURNIZIMIT ME UJË NGA REZERVUARI I MANSKURISË, GOLEM | [`vendim/2007/276/`](vendim/2007/276/) | in force | 1 | 2007-05-18 | 2007-05-18 |
+| Për PËRCAKTIMIN E PROCEDURAVE TË SHITJES ME ANKAND TË OBJEKTEVE TË TRASHËGIMISË KULTURORE, TË LUAJTSHME, ME VLERA TË ZAKONSHME | [`vendim/2007/283/`](vendim/2007/283/) | in force | 1 | 2007-05-18 | 2007-05-18 |
+| Për përdorimin e fondit të kontingjencës, të miratuar në buxhetin e vitit 2007 | [`vendim/2007/793/`](vendim/2007/793/) | in force | 1 | 2007-12-06 | 2007-12-06 |
+| Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të transferohen në pronësi të njësisë së qeverisjes vendore, bashkia Rrëshen të qarkut të Lezhës | [`vendim/2008/124/`](vendim/2008/124/) | in force | 1 | 2008-02-24 | 2008-02-24 |
+| Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të transferohen në pronësi të njësisë së qeverisjes vendore, komuna Kolsh të qarkut të Lezhës | [`vendim/2008/125/`](vendim/2008/125/) | in force | 1 | 2008-02-24 | 2008-02-24 |
+| Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të transferohen në pronësi të njësisë së qeverisjes vendore, komuna Bubq, të qarkut të Durrësit | [`vendim/2008/557/`](vendim/2008/557/) | in force | 1 | 2008-05-28 | 2008-05-28 |
+| Për miratimin e listës përfundimtare të pronave, pyje dhe kullota që do të transferohen në pronësi të njësisë së qeverisjes vendore, komuna kallmet, të qarkut të lezhës | [`vendim/2008/561/`](vendim/2008/561/) | in force | 1 | 2008-05-28 | 2008-05-28 |
+| Për miratimin e listës përfundimtare të pronave, pyje dhe kullota që do të transferohen në pronësi të njësisë së qeverisjes vendore, komuna Vllahinë, të qarkut të Vlorës | [`vendim/2008/562/`](vendim/2008/562/) | in force | 1 | 2008-05-28 | 2008-05-28 |
+| Për kalimin në përgjegjësi administrimi të ministrisë së brendshme nga posta shqiptare sha, dhe të postës shqiptare, sha, nga ministria e brendshme, përkatësisht të ndërtesës së ish-policisë ndërtimore, dega Tiranë, dhe të ndërtesës së arkivit e të ambulancës së ministrisë së brendshme, dhe reflektimin e tyre në vendimet nr.205, datë 24.4.2003 dhe nr.363, datë 11.6.2004 të Këshillit të Ministrave | [`vendim/2008/563/`](vendim/2008/563/) | in force | 1 | 2008-05-28 | 2008-05-28 |
+| Për një shtesë fondi në buxhetin e vitit 2008, miratuar për shërbimin informativ të shtetit | [`vendim/2008/565/`](vendim/2008/565/) | in force | 1 | 2008-05-28 | 2008-05-28 |
+| Për miratimin e rregullores për funksionimin e komitetit të nomenklaturës së mallrave | [`vendim/2008/566/`](vendim/2008/566/) | in force | 1 | 2008-05-28 | 2008-05-28 |
+| Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të traNsferohen në pronësi të njësisë së Qeverisjes vendore, komuna Përparim, të Qarkut të elbasanit | [`vendim/2008/891/`](vendim/2008/891/) | in force | 1 | 2008-07-21 | 2008-07-21 |
+| Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të traNsferohen në pronësi të njësisë së Qeverisjes vendore, komuna Markat, të Qarkut të Vlorës | [`vendim/2008/892/`](vendim/2008/892/) | in force | 1 | 2008-07-21 | 2008-07-21 |
+| Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të traNsferohen në pronësi të njësisë së Qeverisjes vendore, komuna lukovë, të Qarkut të Vlorës | [`vendim/2008/893/`](vendim/2008/893/) | in force | 1 | 2008-07-21 | 2008-07-21 |
+| Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të traNsferohen në pronësi të njësisë së Qeverisjes vendore, komuna Livadhja, të Qarkut të Vlorës | [`vendim/2008/895/`](vendim/2008/895/) | in force | 1 | 2008-07-21 | 2008-07-21 |
+| Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të transferohen në pronësi të njësisë së qeverisjes vendore, bashkia poliçan, të qarkut të beratit | [`vendim/2008/896/`](vendim/2008/896/) | in force | 1 | 2008-07-21 | 2008-07-21 |
+| Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të traNsferohen në pronësi të njësisë së Qeverisjes vendore, Komuna Velabisht, të Qarkut të beratit | [`vendim/2008/897/`](vendim/2008/897/) | in force | 1 | 2008-07-21 | 2008-07-21 |
+| Për miratimin e listës paraprake të pronave të paluajtshme Publike, shtetërore, që traNsferohen në pronësi ose në përdorim, të bashkisë Maliq, të qarkut të korÇës | [`vendim/2008/898/`](vendim/2008/898/) | in force | 1 | 2008-07-21 | 2008-07-21 |
+| Për miratimin e listës paraprake të pronave të paluajtshme Publike, shtetërore, që traNsferohen, në pronësi ose në përdorim, të komunËs Vreshtas, të qarkut të korÇës | [`vendim/2008/899/`](vendim/2008/899/) | in force | 1 | 2008-07-21 | 2008-07-21 |
+| Për miratimin e listës paraprake të pronave të paluajtshme Publike, shtetërore, që traNsferohen, në pronësi ose në përdorim, të komunËS remas, të qarkut të Fierit | [`vendim/2008/900/`](vendim/2008/900/) | in force | 1 | 2008-07-21 | 2008-07-21 |
+| Për shtyrjen e afatit të botimit të njoftimit të fituesit dhe të njoftimit të kontratës së lidhur, për procedurat e prokurimit, të kryera nga shërbimi informativ i shtetit, si autoritet kontraktor | [`vendim/2008/1473/`](vendim/2008/1473/) | in force | 1 | 2008-12-02 | 2008-12-02 |
+| Për lejimin e kalimit tranzit të dy automjeteve dhe të disa trupave ushtarake italiane, përmes territorit të republikës së shqipërisë | [`vendim/2008/1474/`](vendim/2008/1474/) | in force | 1 | 2008-12-02 | 2008-12-02 |
+| Për shtyrjen e afatit të kryerjes së procedurave të prokurimit për drejtorinë e përgjithshme të tatimeve, si autoritet kontraktor | [`vendim/2008/1479/`](vendim/2008/1479/) | in force | 1 | 2008-12-02 | 2008-12-02 |
+| Për miratimin e shtesës nr.2 të kontratës së miratuar me vendimin nr.665, datë 18.12.2002 të këshillit të ministrave “për miratimin e projektkontratës, ndërmjet qeverisë së republikës së shqipërisë dhe “lockheed martin global, inc”, për modernizimin e shërbimit të trafikut ajror shqiptar”, të ndryshuar | [`vendim/2008/1480/`](vendim/2008/1480/) | in force | 1 | 2008-12-02 | 2008-12-02 |
+| Për hapjen e programeve të studimit, të ciklit të dytë, pranë universitetit politeknik të tiranës, në vitin akademik 2008-2009 | [`vendim/2008/1482/`](vendim/2008/1482/) | in force | 1 | 2008-12-02 | 2008-12-02 |
+| Për lejimin e kalimit tranzit të dy autokolonave ushtarake italiane, përmes territorit të republikës së shqipërisë | [`vendim/2008/1486/`](vendim/2008/1486/) | in force | 1 | 2008-12-02 | 2008-12-02 |
+| PËR SHPRONëSIMIN, për INTERES PUBLIK, të PRONAREVE të PASURIVE të PALUAJTSHME, PRONë PRIVATE, që PREKEN NGA NDëRTIMI I PIKëS Së KALIMIT KUFITAR QAFë-BOTë/KONISPOL | [`vendim/2008/1518/`](vendim/2008/1518/) | in force | 1 | 2008-12-02 | 2008-12-02 |
+| Për hapjen e programeve të reja të studimit, pranë shkollës së lartë universitare “Zoja e Këshillit të Mirë” | [`vendim/2009/858/`](vendim/2009/858/) | in force | 1 | 2009-09-18 | 2009-09-18 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të komunës prezë të qarkut të tiranës | [`vendim/2009/870/`](vendim/2009/870/) | in force | 1 | 2009-09-18 | 2009-09-18 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publikE, shtetërore, që transferohen, në pronësi ose në përdorim, të komunës Qendër Fier, të qarkut të Fierit | [`vendim/2009/871/`](vendim/2009/871/) | in force | 1 | 2009-09-18 | 2009-09-18 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të bashkisë çorovodë, të qarkut të beratit | [`vendim/2009/872/`](vendim/2009/872/) | in force | 1 | 2009-09-18 | 2009-09-18 |
+| Për hapjen e programeve të studimeve “master i nivelit të parë”, në universitetin bujqësor të tiranës | [`vendim/2009/880/`](vendim/2009/880/) | in force | 1 | 2009-09-18 | 2009-09-18 |
+| Për hapjen e programeve të studimit, “master i nivelit të parë”, në universitetin e tiranës | [`vendim/2009/881/`](vendim/2009/881/) | in force | 1 | 2009-09-18 | 2009-09-18 |
+| Për heqjen nga fondi pyjor dhe kullosor të disa sipërfaqeve, përkatësisht, në ngastrat e ekonomive pyjore të qarkut shkodër e lezhë, që do të përdoren nga ost, sha-ja, për ndërtimin e linjës 400 kv podgoricë-tiranë | [`vendim/2009/882/`](vendim/2009/882/) | in force | 1 | 2009-09-18 | 2009-09-18 |
+| PËR RISHPËRNDARJE FONDESH NË BUXHETIN e VITIt 2010, MIRATUAR PËR MINISTRINË E EKONOMISË TREGTISË DHE ENERGJETIKËS | [`vendim/2010/816/`](vendim/2010/816/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Për ndryshimin e përgjegjësisë së administrimit të mjediseve të katit të parë, të vilës 2-katëshe, në rrugën “xhorxh w. bush”, nga instituti i integrimit të të përndjekurve politikë tek instituti i studimeve për krimet dhe pasojat e komunizmit në shqipëri | [`vendim/2011/189/`](vendim/2011/189/) | amending act | 1 | 2011-04-29 | 2011-04-29 |
+| Për miratimin e marrëveshjes së financimit dhe projektit, ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave e ministria e punëve publike dhe transportit, e kfw, frankfurt am main, për financimin e projektit “zhvillimi i masterplanit të furnizimit me ujë dhe kanalizime në shqipëri” | [`vendim/2011/221/`](vendim/2011/221/) | in force | 1 | 2011-04-29 | 2011-04-29 |
+| Për kompensimin e vlerës së taksës së biznesit të vogël, të përdorur për rimbursimin e pajisjeve fiskale dhe taksimetrave, te njësitë e qeverisjes vendore | [`vendim/2011/222/`](vendim/2011/222/) | in force | 1 | 2011-04-29 | 2011-04-29 |
+| Për krijimin e universitetit të arteve | [`vendim/2011/234/`](vendim/2011/234/) | in force | 1 | 2011-04-29 | 2011-04-29 |
+| Për propozimin, kuvendit të republikës së shqipërisë, të kandidaturave alternative për anëtar të komisionit të shërbimit civil | [`vendim/2011/250/`](vendim/2011/250/) | in force | 1 | 2011-04-29 | 2011-04-29 |
+| Për lirimin dhe emërimin në detyrë të prefektit të qarkut të dibrës | [`vendim/2011/251/`](vendim/2011/251/) | in force | 1 | 2011-04-29 | 2011-04-29 |
+| PËR AKORDIM FONDI FINANCIAR SHTESË, BASHKISË VORË, PËR DHËNIE NDIHME FINANCIARE FAMILJEVE TË DËMTUARA NGA AKSIDENTI TEKNOLOGJIK I DATËS 15.3.2008 NË FSHATIN GËRDEC, PËR PAGESËN E QIRAve tË BANESAVE DHE TË DËMEVE TË SHKAKTUARA NGA MOSPËRDORIMI I TOKAVE E KULTURAVE BUJQËSORE, QË NDODHEN BRENDA PERIMETRIT 300 ML RRETH KRATERIT, ZONË E SHPALLUR SI ZONË E SIGURISË SË LARTË | [`vendim/2011/270/`](vendim/2011/270/) | in force | 1 | 2011-05-12 | 2011-05-12 |
+| PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE tË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR VLORË - ORIKUM | [`vendim/2011/272/`](vendim/2011/272/) | in force | 1 | 2011-05-12 | 2011-05-12 |
+| Për miratimin e marrëveshjes, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së azerbajxhanit, për heqjen e vizave për mbajtësit e pasaportave diplomatike dhe të shërbimit | [`vendim/2011/276/`](vendim/2011/276/) | in force | 1 | 2011-05-12 | 2011-05-12 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës hajmel të qarkut të shkodrës | [`vendim/2011/279/`](vendim/2011/279/) | in force | 1 | 2011-05-12 | 2011-05-12 |
+| Për një shtesë fondi në buxhetin e vitit 2011, miratuar për komisionin qendror të zgjedhjeve, për financimin e fushatës së subjekteve zgjedhore për zgjedhjet për organet e qeverisjes vendore, më 8 maj 2011 | [`vendim/2011/287/`](vendim/2011/287/) | in force | 1 | 2011-05-12 | 2011-05-12 |
+| Për kalim fondi nga ministria e drejtësisë tek albpetrol sha | [`vendim/2011/465/`](vendim/2011/465/) | in force | 1 | 2011-07-22 | 2011-07-22 |
+| PËR KALIM FONDI NGA MINISTRIA E DREJTËSISË TEK OPERATORI i SISTEMIT TË TRANSMETIMIT | [`vendim/2011/466/`](vendim/2011/466/) | in force | 1 | 2011-07-22 | 2011-07-22 |
+| PËR miratimin e LISTËs PËRFUNDIMTARE TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE, QË TRANSFEROHEN, NË PRONËSI OSE NË PËRDORIM TË komunës ksamil të qarkut të vlorës | [`vendim/2011/476/`](vendim/2011/476/) | in force | 1 | 2011-07-22 | 2011-07-22 |
+| PËR miratimin e LISTËs PËRFUNDIMTARE TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE, QË TRANSFEROHEN, NË PRONËSI OSE NË PËRDORIM TË komunës postribë të qarkut të shkodrës | [`vendim/2011/477/`](vendim/2011/477/) | in force | 1 | 2011-07-22 | 2011-07-22 |
+| Për dhënien e licencës për hapjen e institucionit arsimor privat, parauniversitar, shkollë e mesme e përgjithshme “rogacionistët” | [`vendim/2011/478/`](vendim/2011/478/) | in force | 1 | 2011-07-22 | 2011-07-22 |
+| Për miratimin e strategjisë minerare të republikës së shqipërisë | [`vendim/2011/479/`](vendim/2011/479/) | in force | 1 | 2011-08-11 | 2011-08-11 |
+| Për miratimin e marrëveshjes së financimit dhe të projektit, ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave e ujësjellës-kanalizime, korçë, si agjencia e zbatimit të projektit dhe kfw frankfurt am main, për financimin e projektit “korça iv” (fondet e grandit ipa) | [`vendim/2012/252/`](vendim/2012/252/) | in force | 1 | 2012-05-21 | 2012-05-21 |
+| Për një shtesë fondi në buxhetin e vitit 2012, miratuar për ministrinë e shëndetësisë, për mbulimin e shpenzimeve të mjekimit, të z. mehmet xheka | [`vendim/2012/257/`](vendim/2012/257/) | in force | 1 | 2012-05-21 | 2012-05-21 |
+| PËR NJË SHTESË FONDI NË BUXHETIN E VITIT 2012, MIRATUAR PËR MINISTRINË E SHËNDETËSISË, PËR MBULIMIN E SHPENZIMEVE TË mjekimit TË Z. KLODIAN SEFERAJ | [`vendim/2012/258/`](vendim/2012/258/) | in force | 1 | 2012-05-21 | 2012-05-21 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës lukovë, të qarkut të vlorës | [`vendim/2012/272/`](vendim/2012/272/) | in force | 1 | 2012-05-21 | 2012-05-21 |
+| PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËve TË PASURIve tË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I rrugës hyrëse të shkollës 9-vjeÇare bilaj, në komunën e bubqit, të qarkut të durrësit | [`vendim/2012/274/`](vendim/2012/274/) | in force | 1 | 2012-05-21 | 2012-05-21 |
+| Për dhënien e lejes së hyrjes dhe të qëndrimit të përkohshëm në territorin e republikës së shqipërisë të një force ushtarake amerikane | [`vendim/2012/275/`](vendim/2012/275/) | in force | 1 | 2012-05-21 | 2012-05-21 |
+| Për autorizimin e “ama recycling”, shpk për importin e mbetjeve metalike të aluminit dhe të bakrit, për qëllime riciklimi | [`vendim/2012/277/`](vendim/2012/277/) | in force | 1 | 2012-05-21 | 2012-05-21 |
+| PËR MIRATIMIN E PLANIT KOMBËTAR TË VEPRIMIT 2012-2014 “PËR PARANDALIMIN DHE GODITJEN E VEPRIMTARISË KRIMINALE TË TRAFIKIMIT TË MJETEVE MOTORIKE TË VJEDHURA, të KONTRABANDUARA DHE ME SHKELJE TË TJERA LIGJORE” | [`vendim/2012/284/`](vendim/2012/284/) | in force | 1 | 2012-05-29 | 2012-05-29 |
+| Për miratimin e rishpërndarjes së fondeve dhe shtyrjes së afatit të programit, sipas marrëveshjes kuadër të huas, ndërmjet këshillit të ministrave, që përfaqëson republikën e shqipërisë, dhe bankës për zhvillim të këshillit të europës (cedb), për financimin e programit “punët e komunitetit, faza e tretë” | [`vendim/2012/288/`](vendim/2012/288/) | in force | 1 | 2012-05-29 | 2012-05-29 |
+| Për akordim fondi financiar shtesë komunës qendër bilisht të qarkut të korçës, për zbatimin e projektit emergjent për ndërtimin e urës së poloskës | [`vendim/2012/289/`](vendim/2012/289/) | in force | 1 | 2012-05-29 | 2012-05-29 |
+| Për miratimin e marrëveshjes, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së shtetit të katarit, për heqjen e vizave për mbajtësit e pasaportave diplomatike dhe speciale | [`vendim/2012/294/`](vendim/2012/294/) | in force | 1 | 2012-05-29 | 2012-05-29 |
+| Për përcaktimin e autoritetit kontraktues për dhënien me koncesion të ish-uzinës së rafinimit të bakrit, rubik, dhe miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë | [`vendim/2012/297/`](vendim/2012/297/) | in force | 1 | 2012-05-29 | 2012-05-29 |
+| Për përcaktimin e autoritetit kontraktues për dhënien me koncesion të hidrocentraleve “shkopeti 2” dhe “shkopeti 3” dhe miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë | [`vendim/2012/298/`](vendim/2012/298/) | in force | 1 | 2012-05-29 | 2012-05-29 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor fushë-krujë - milot | [`vendim/2012/569/`](vendim/2012/569/) | in force | 1 | 2012-09-27 | 2012-09-27 |
+| Për miratimin e raportit vjetor “për ndihmat shtetërore të vitit 2011” | [`vendim/2012/570/`](vendim/2012/570/) | in force | 1 | 2012-09-27 | 2012-09-27 |
+| Për përcaktimin e dokumentacionit, që duhet të paraqesë familja për t’u strehuar sipas njërit prej programeve sociale të strehimit, dhe të afateve e të procedurave të miratimit nga organet e qeverisjes vendore | [`vendim/2012/574/`](vendim/2012/574/) | in force | 1 | 2012-09-27 | 2012-09-27 |
+| Për kompensimin e vlerës së taksës së biznesit të vogël të përdorur për rimbursimin e pajisjeve fiskale e të taksimetrave, për 9 bashki dhe 12 komuna | [`vendim/2012/579/`](vendim/2012/579/) | in force | 1 | 2012-09-27 | 2012-09-27 |
+| Për një shtesë fondi në buxhetin e vitit 2012, miratuar për ministrinë e turizmit, kulturës, rinisë dhe sporteve, për realizimin e procedurës dhe të veprës monumentale, shtatore, kushtuar figurës historike të mbretit zog i | [`vendim/2012/625/`](vendim/2012/625/) | in force | 1 | 2012-09-27 | 2012-09-27 |
+| Për një shtesë fondi në buxhetin e vitit 2012, miratuar për ministrinë e turizmit, kulturës rinisë dhe sporteve, për realizimin e procedurës dhe të monumentit kushtuar kongresit të lushnjës, që do të vendoset në qytetin e lushnjës | [`vendim/2012/626/`](vendim/2012/626/) | in force | 1 | 2012-09-27 | 2012-09-27 |
+| Për një shtesë fondi në buxhetin e vitit 2012, miratuar për ministrinë e turizmit, kulturës, rinisë dhe sporteve, për realizimin e procedurës dhe veprës monumentale, shtatore, kushtuar figurës historike të hasan prishtinës | [`vendim/2012/627/`](vendim/2012/627/) | in force | 1 | 2012-09-27 | 2012-09-27 |
+| Për një shtesë fondi në buxhetin e vitit 2012, miratuar për ministrinë e turizmit, kulturës, rinisë dhe sporteve, për zhvillimin e aktivitetit “ditë të kulturës shpirtërore shqiptare në rusi”, në datat 29 shtator - 30 nëntor 2012 | [`vendim/2012/628/`](vendim/2012/628/) | in force | 1 | 2012-09-27 | 2012-09-27 |
+| Për miratimin e standardeve të përgjithshme, minimale, të personelit njtik për strukturimin organizativ të njësive të teknologjisë së informacionit e të komunikimit | [`vendim/2012/778/`](vendim/2012/778/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Për një shtesë fondi në buxhetin e vitit 2012, miratuar për ministrinë e shëndetësisë, për mbulimin e pjesshëm të shpenzimeve të mjekimit të fëmijës mandrin cuni, aksidentuar nga shpërthimi i një granate | [`vendim/2012/782/`](vendim/2012/782/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Për një shtesë fondi në buxhetin e vitit 2012, miratuar për ministrinë e shëndetësisë, për mbulimin e pjesshëm të shpenzimeve të mjekimit të fëmijës jurgens cuni, aksidentuar nga shpërthimi i një granate | [`vendim/2012/783/`](vendim/2012/783/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Për një shtesë fondi në buxhetin e vitit 2012, miratuar për ministrinë e shëndetësisë, për mbulimin e pjesshëm të shpenzimeve të mjekimit të fëmijës besnik cuni, aksidentuar nga shpërthimi i një granate | [`vendim/2012/784/`](vendim/2012/784/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga sistemimi i shtratit të lanës dhe ndërtimi i rrugëve paralel saj (segmenti nga materniteti i ri në gjatësinë 400 m në drejtim të kundërt të rrjedhës së lanës) në bashkinë e tiranës | [`vendim/2012/785/`](vendim/2012/785/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Për miratimin e programit buxhetor afatmesëm, të rishikuar, 2013 - 2015 | [`vendim/2012/825/`](vendim/2012/825/) | in force | 1 | 2012-12-21 | 2012-12-21 |
+| Për miratimin e raportit të gjendjes së mjedisit në shqipëri, për vitin 2011 | [`vendim/2012/838/`](vendim/2012/838/) | in force | 1 | 2012-12-27 | 2012-12-27 |
+| Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës dërmenas të qarkut të fierit | [`vendim/2012/854/`](vendim/2012/854/) | in force | 1 | 2012-12-27 | 2012-12-27 |
+| Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës allkaj të qarkut të fierit | [`vendim/2012/855/`](vendim/2012/855/) | in force | 1 | 2012-12-27 | 2012-12-27 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës shalë të qarkut të shkodrës | [`vendim/2012/856/`](vendim/2012/856/) | in force | 1 | 2012-12-27 | 2012-12-27 |
+| Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës mesopotam të qarkut të vlorës | [`vendim/2012/857/`](vendim/2012/857/) | in force | 1 | 2012-12-27 | 2012-12-27 |
+| Për lejimin e qendrës së kulturës, medias dhe botimeve të mbrojtjes, si autoritet kontraktor, për lidhje kontrate shtesë rikonstruksioni | [`vendim/2012/861/`](vendim/2012/861/) | in force | 1 | 2012-12-27 | 2012-12-27 |
+| Për bateritë, akumulatorët dhe mbetjet e tyre | [`vendim/2012/866/`](vendim/2012/866/) | in force | 1 | 2012-12-27 | 2012-12-27 |
+| Për një shtesë fondi në buxhetin e vitit 2012, miratuar për ministrinë e mbrojtjes, për përballimin e detyrimeve kontraktore ndaj “univers-alb” sha | [`vendim/2012/925/`](vendim/2012/925/) | in force | 1 | 2012-12-27 | 2012-12-27 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë orikum të qarkut të vlorës | [`vendim/2012/937/`](vendim/2012/937/) | in force | 1 | 2012-12-31 | 2012-12-31 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës finiq të qarkut të vlorës | [`vendim/2012/938/`](vendim/2012/938/) | in force | 1 | 2012-12-31 | 2012-12-31 |
+| PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI, NGA Ministria e Mbrojtjes TE MINISTRIA E PUNËVE PUBLIKE DHE TRANSPORTIT, PËR AUTORITETIN RRUGOR SHQIPTAR, TË MJEDISEVE DHE SIPËRFAQES 2735 M2, NGA TRUALLI FUNKSIONAL I PRONËS NR. 100, ME EMËRTIM “GRUP DEPO REP. USHT. NR. 5011/25”, TUJAN, TIRANË DHE PËR NJË NDRYSHIM NË VENDIMIN NR. 515, DATË 18.7.2003 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË MBROJTJES”, TË NDRYSHUAR | [`vendim/2012/940/`](vendim/2012/940/) | amending act | 1 | 2012-12-31 | 2012-12-31 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës gjocaj të qarkut të elbasanit | [`vendim/2012/941/`](vendim/2012/941/) | in force | 1 | 2012-12-31 | 2012-12-31 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës tërthore të qarkut të kukësit | [`vendim/2012/942/`](vendim/2012/942/) | in force | 1 | 2012-12-31 | 2012-12-31 |
+| Për lejimin e drejtorisë së përgjithshme të ujësjellës-kanalizimeve për vazhdimin/kryerjen/përfundimin e procedurave të prokurimit, me objekt “furnizimi me ujë i plazheve durrës-kavajë nga pusshpimet e çermës, loti iii (linjat e ujësjellësit nga pik 235 (degëzimi në kavajë) deri në depon e re 4000 m3, në arapaj, depo arapaj 4000 m3)”, si autoritet kontraktor | [`vendim/2012/951/`](vendim/2012/951/) | in force | 1 | 2012-12-31 | 2012-12-31 |
+| Për përcaktimin e autoritetit kontraktues për dhënien me koncesion të Rafinerisë së Naftës Cërrik dhe miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë | [`vendim/2013/54/`](vendim/2013/54/) | in force | 1 | 2013-02-06 | 2013-02-06 |
+| Për përcaktimin e masës së financimit, nga buxheti i vitit 2013, për bashkësitë fetare tradicionale që kanë nënshkruar marrëveshje me Këshillin e Ministrave | [`vendim/2013/104/`](vendim/2013/104/) | in force | 1 | 2013-03-04 | 2013-03-04 |
+| Për një shtesë fondi në buxhetin e vitit 2013, miratuar për Ministrinë e Punëve të Jashtme, për pagesën e kontributeve financiare të NATO-s për selinë e re, për vitin 2012 | [`vendim/2013/107/`](vendim/2013/107/) | in force | 1 | 2013-03-04 | 2013-03-04 |
+| Për përcaktimin e autoritetit kontraktues për dhënien me koncesion të hidrocentralit “Dobrenjë-Tomorricë” dhe miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë | [`vendim/2013/109/`](vendim/2013/109/) | in force | 1 | 2013-03-04 | 2013-03-04 |
+| Për miratimin e rialokimit të fondeve sipas marrëveshjes së huas dhe programit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, e Fondit Shqiptar për Zhvillim dhe KfW Frankfurt am Main, për financimin e projektit “Fondi i investimeve sociale IV” | [`vendim/2013/110/`](vendim/2013/110/) | in force | 1 | 2013-03-04 | 2013-03-04 |
+| Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë Konispol të qarkut të Vlorës | [`vendim/2013/113/`](vendim/2013/113/) | in force | 1 | 2013-03-04 | 2013-03-04 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë Mamurras të qarkut të Lezhës | [`vendim/2013/114/`](vendim/2013/114/) | in force | 1 | 2013-03-04 | 2013-03-04 |
+| Për ndryshimin e përgjegjësisë së administrimit të disa mjediseve, magazinë, garazh dhe lavanteri e infektivit, në Spitalin Rajonal Elbasan, nga Ministria e Shëndetësisë te Ministria e Arsimit dhe Shkencës | [`vendim/2013/116/`](vendim/2013/116/) | amending act | 1 | 2013-03-04 | 2013-03-04 |
+| Për miratimin e tavaneve përgatitore të shpenzimeve të programit buxhetor afatmesëm, 2014 - 2016 | [`vendim/2013/138/`](vendim/2013/138/) | in force | 1 | 2013-03-18 | 2013-03-18 |
+| Për kalimin e pasurisë së ndodhur në zonën kadastrale nr. 8380, të Bashkisë Tiranë në përgjegjësi administrimi të Ministrisë së Punëve Publike dhe Transportit, për Entin Kombëtar të Banesave dhe për një ndryshim në vendimin nr. 143, datë 18.1.2012 të Këshillit të Ministrave “Për miratimin e listës paraprake (pjesa e parë+pjesa e dytë) të pronave të paluajtshme publike shtetërore, që transferohen në pronësi ose në përdorim të Bashkisë Tiranë, të qarkut të Tiranës” | [`vendim/2013/146/`](vendim/2013/146/) | amending act | 1 | 2013-03-18 | 2013-03-18 |
+| Për miratimin e strukturës dhe të organikës së administratës së Akademisë së Shkencave të Republikës së Shqipërisë | [`vendim/2013/150/`](vendim/2013/150/) | in force | 1 | 2013-03-18 | 2013-03-18 |
+| Për përcaktimin e autoritetit kontraktues për dhënien me koncesion të hidrocentralit “Shëngjon” dhe miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë | [`vendim/2013/152/`](vendim/2013/152/) | in force | 1 | 2013-03-18 | 2013-03-18 |
+| Për përcaktimin e autoritetit kontraktues për dhënien me koncesion të hidrocentralit “Kryezi 3” dhe miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë | [`vendim/2013/153/`](vendim/2013/153/) | in force | 1 | 2013-03-18 | 2013-03-18 |
+| Për përcaktimin e autoritetit kontraktues për dhënien me koncesion të hidrocentralit “Ballenjë” dhe miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë | [`vendim/2013/154/`](vendim/2013/154/) | in force | 1 | 2013-03-18 | 2013-03-18 |
+| Për përcaktimin e autoritetit kontraktues për dhënien me koncesion të shërbimit të monitorimit dhe fiskalizimit të lojërave të fatit | [`vendim/2013/157/`](vendim/2013/157/) | in force | 1 | 2013-03-18 | 2013-03-18 |
+| Për një shtesë fondi në buxhetin e vitit 2013, miratuar për Ministrinë e Shëndetësisë, për mbulimin e shpenzimeve të mjekimit të shtetases Manushaqe Stana | [`vendim/2013/162/`](vendim/2013/162/) | in force | 1 | 2013-03-18 | 2013-03-18 |
+| Për miratimin e kufijve dhe kritereve të përdorimit të fondit rezervë të Zyrës së Regjistrimit të Pasurive të Paluajtshme | [`vendim/2013/218/`](vendim/2013/218/) | in force | 1 | 2013-04-10 | 2013-04-10 |
+| Për përcaktimin e kritereve të tregtimit dhe të certifikimit të materialeve të shumëzimit dhe të fidanëve të bimëve drufrutore | [`vendim/2013/240/`](vendim/2013/240/) | in force | 1 | 2013-04-10 | 2013-04-10 |
+| Për një shtesë fondi në buxhetin e vitit 2013, miratuar për Kryeministrinë | [`vendim/2013/321/`](vendim/2013/321/) | in force | 1 | 2013-05-10 | 2013-05-10 |
+| Për kthimin në fond banesash të disa objekteve të ish-Kombinatit të Autotraktorëve, uzina Fonder - Mek, Shkozë, Tiranë | [`vendim/2013/363/`](vendim/2013/363/) | in force | 1 | 2013-05-10 | 2013-05-10 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës Fushë-Çidhën të qarkut të Dibrës | [`vendim/2013/364/`](vendim/2013/364/) | in force | 1 | 2013-05-10 | 2013-05-10 |
+| Për kalimin në përgjegjësi administrimi të disa ambienteve, nga Autoriteti i Mbikëqyrjes Financiare te Ministria e Financave, për Njësinë e Mbikëqyrjes së Lojërave të Fatit | [`vendim/2013/366/`](vendim/2013/366/) | in force | 1 | 2013-05-10 | 2013-05-10 |
+| Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës Golem të qarkut të Tiranës | [`vendim/2013/370/`](vendim/2013/370/) | in force | 1 | 2013-05-10 | 2013-05-10 |
+| Për kalimin në pronësi, pa shpërblim, të një sipërfaqeje trualli Kishës Katolike Shqiptare | [`vendim/2013/397/`](vendim/2013/397/) | in force | 1 | 2013-05-24 | 2013-05-24 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga sistemimi, asfaltimi, ndërtimi i trotuareve dhe ndriçimi rrugor i bllokut nr. 4, në qytetin e Fushë-Krujës, në bashkinë e Fushë-Krujës të qarkut të Durrësit | [`vendim/2013/398/`](vendim/2013/398/) | in force | 1 | 2013-05-24 | 2013-05-24 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor Himarë-Potam | [`vendim/2013/403/`](vendim/2013/403/) | in force | 1 | 2013-05-24 | 2013-05-24 |
+| Për lirim dhe emërim në detyrë | [`vendim/2013/404/`](vendim/2013/404/) | in force | 1 | 2013-05-24 | 2013-05-24 |
+| Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës Farkë të qarkut të Tiranës | [`vendim/2013/515/`](vendim/2013/515/) | in force | 1 | 2013-07-17 | 2013-07-17 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga rikonstruksioni dhe asfaltimi i rrugëve kryesore të qytetit të Belshit, në Bashkinë e Belshit të qarkut të Elbasanit | [`vendim/2013/517/`](vendim/2013/517/) | in force | 1 | 2013-07-17 | 2013-07-17 |
+| Për kalimin në fond banesash të ish-objekteve të dala nga ristrukturimi i Ministrisë së Brendshme “Ish-posta e policisë, Leskovik”, “Ish-depo e pikës autonome, Vlorë”, “Stallë e ish-ekonomisë ndihmëse, Orikum”, “Ish-reparti i objekteve, Korçë” dhe “Ish-lavanteri, Vaqarr, Tiranë”, me qëllim privatizimin në emër të banorëve, nga Enti Kombëtar i Banesave | [`vendim/2013/519/`](vendim/2013/519/) | in force | 1 | 2013-07-17 | 2013-07-17 |
+| Për kalimin në përgjegjësi administrimi, nga Ministria e Mbrojtjes te Ministria e Punëve Publike dhe Transportit, për Entin Kombëtar të Banesave, të ish-objektit të ushtrisë, prona nr.103, ish-reparti ushtarak nr. 3400 (bateria A.K.A. Qesarak), Tiranë | [`vendim/2013/521/`](vendim/2013/521/) | in force | 1 | 2013-07-17 | 2013-07-17 |
+| Për rishpërndarje fondesh ndërmjet programeve në buxhetin e vitit 2013, miratuar për Ministrinë e Mbrojtjes | [`vendim/2013/524/`](vendim/2013/524/) | in force | 1 | 2013-07-17 | 2013-07-17 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi, sistemim-asfaltim i segmentit rrugor, rruga e Drinit-Ura e Bunës, Shkodër | [`vendim/2013/527/`](vendim/2013/527/) | in force | 1 | 2013-07-17 | 2013-07-17 |
+| Për përcaktimin e autoritetit kontraktues për dhënien me koncesion të ndërtimit dhe shfrytëzimit të portit të jahteve pranё urës së Dajlanit, Durrës, dhe miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet subjektit “Adriaticyachting Marina” | [`vendim/2013/528/`](vendim/2013/528/) | in force | 1 | 2013-07-17 | 2013-07-17 |
+| Për miratimin e amendamentit nr.1 të kontratës me ndarje prodhimi për kërkimin, zhvillimin dhe prodhimin e hidrokarbureve në Shqipëri, blloku “Joni-5”, në det, ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, përfaqësuar nga Agjencia Kombëtare e Burimeve Natyrore, dhe Capricorn Albania Limited (më parë MedOil plc) dhe Dyas Albania B.V | [`vendim/2013/529/`](vendim/2013/529/) | amending act | 1 | 2013-07-18 | 2013-07-18 |
+| Për përcaktimin e përbërjes dhe të mënyrës së funksionimit të Komisionit të Vlerësimit të Varieteteve për Regjistrim në Katalogun Kombëtar | [`vendim/2013/531/`](vendim/2013/531/) | in force | 1 | 2013-07-18 | 2013-07-18 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor Levan - Tepelenë | [`vendim/2013/538/`](vendim/2013/538/) | in force | 1 | 2013-07-18 | 2013-07-18 |
+| Për miratimin e marrëveshjeve hidrokarbure shtesë të kontratave me ndarje prodhimi, për kërkimin, zhvillimin dhe prodhimin e hidrokarbureve në Shqipëri, në tokë, në blloqet A-B dhe D-E, ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, e përfaqësuar nga Agjencia Kombëtare e Burimeve Natyrore (AKBN) dhe “Petromanas Albania GmbH” | [`vendim/2013/620/`](vendim/2013/620/) | in force | 1 | 2013-08-07 | 2013-08-07 |
+| Për përcaktimin e kritereve të konkurrimit për dhënien me qira, me çmimin 1 (një) euro kontrata, të sipërfaqes prej 103 550 m2 në administrim të Ndërmarrjes së Prodhimit të Çeliqeve, Elbasan | [`vendim/2013/621/`](vendim/2013/621/) | in force | 1 | 2013-08-07 | 2013-08-07 |
+| Për miratimin e rishpërndarjes së fondeve të akorduara nëpërmjet marrëveshjes së huas dhe projektit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, Fondit Shqiptar të Zhvillimit (FSHZH) dhe KfW Frankfurt am Main, për financimin e projektit “Programi i furnizimit me ujë i zonave rurale (faza 2)” | [`vendim/2013/626/`](vendim/2013/626/) | in force | 1 | 2013-08-07 | 2013-08-07 |
+| Për miratimin e rishpërndarjes së fondeve të akorduara nëpërmjet marrëveshjes së huas, financimit dhe projektit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, Fondit Shqiptar të Zhvillimit (FSHZH) dhe KfW Frankfurt am Main, për financimin e projektit “Programi rural i furnizimit me ujë” | [`vendim/2013/627/`](vendim/2013/627/) | in force | 1 | 2013-08-07 | 2013-08-07 |
+| Për miratimin e memorandumit të mirëkuptimit, ndërmjet Republikës së Shqipërisë dhe Bashkimit Europian, për anëtarësimin e Shqipërisë në programin e të nxënit gjatë gjithë jetës (Lifelong learning), 2007-2013 | [`vendim/2013/635/`](vendim/2013/635/) | in force | 1 | 2013-08-20 | 2013-08-20 |
+| Për një shtesë fondi në buxhetin e vitit 2013, miratuar për Ministrinë e Punëve Publike dhe Transportit, në programin “Transporti rrugor” | [`vendim/2013/652/`](vendim/2013/652/) | in force | 1 | 2013-08-20 | 2013-08-20 |
+| Për autorizimin e shoqërisë “V.A.L.E. Recycling” sh.p.k., për importin e mbetjeve për qëllime riciklimi | [`vendim/2013/653/`](vendim/2013/653/) | in force | 1 | 2013-08-20 | 2013-08-20 |
+| Për miratimin e marrëveshjeve hidrokarbure, ndërmjet “Albpetrol” sh.a. dhe “Phoenix Petroleum” sh.a., për zhvillimin dhe prodhimin e hidrokarbureve në vendburimet e naftës Amonicë, Drashovicë e Pekisht-Murriz, si dhe vendburimet e gazit Panaja, Frakull, Povelçë, Divjakë, Ballaj-Kryevidh dhe Finiq-Krane | [`vendim/2013/699/`](vendim/2013/699/) | in force | 1 | 2013-08-26 | 2013-08-26 |
+| Për kalimin në përgjegjësi administrimi, nga Ministria e Ekonomisë, Tregtisë dhe Energjetikës te Ministria e Punëve të Jashtme të pasurisë “Ofiçina e Automjeteve, Tiranë” | [`vendim/2013/728/`](vendim/2013/728/) | in force | 1 | 2013-09-09 | 2013-09-09 |
+| Për lejimin e Drejtorisë së Përgjithshme të Policisë së Shtetit, si autoritet kontraktues, për kryerjen e procedurave të prokurimit, me objekt “Blerje e pajisjeve për mirëmbajtjen e sistemit datacom” | [`vendim/2013/1047/`](vendim/2013/1047/) | in force | 1 | 2013-12-19 | 2013-12-19 |
+| Për një ndryshim në vendimin nr. 36, datë 16.1.2013 të Këshillit të Ministrave “Për caktimin e anëtarëve të bordit drejtues të zyrës së regjistrimit të pasurive të paluajtshme” | [`vendim/2013/1048/`](vendim/2013/1048/) | amending act | 1 | 2013-12-19 | 2013-12-19 |
+| Për rishpërndarje fondesh në buxhetin e vitit 2014, miratuar për kuvendin e shqipërisë | [`vendim/2014/91/`](vendim/2014/91/) | in force | 1 | 2014-04-06 | 2014-04-06 |
+| Për rialokimin e numrit të punonjësve dhe të fondeve buxhetore në njësitë e qeverisjes qendrore për vitin 2014 | [`vendim/2014/174/`](vendim/2014/174/) | in force | 1 | 2014-04-02 | 2014-04-02 |
+| Për kalimin e përgjegjësisë së administrimit të disa mjediseve nga ministria e kulturës te komiteti shtetëror i minoriteteve dhe agjencia për mbështetjen e shoqërisë civile | [`vendim/2014/220/`](vendim/2014/220/) | in force | 1 | 2014-04-30 | 2014-04-30 |
+| Për miratimin e marrëveshjes kuadër, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kosovës, për bashkëpunimin në nxitjen dhe lehtësimin e tregtisë | [`vendim/2014/223/`](vendim/2014/223/) | in force | 1 | 2014-04-30 | 2014-04-30 |
+| Për miratimin e marrëveshjes, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kroacisë, për partneritetin europian | [`vendim/2014/224/`](vendim/2014/224/) | in force | 1 | 2014-04-30 | 2014-04-30 |
+| Për miratimin e protokollit për zbatimin e marrëveshjes, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së moldavisë, për ripranimin e personave me qëndrim të paautorizuar | [`vendim/2014/225/`](vendim/2014/225/) | in force | 1 | 2014-04-30 | 2014-04-30 |
+| Për mbylljen e konsullatës së përgjithshme të republikës së shqipërisë në nju-jork dhe hapjen e zyrës konsullore pranë misionit të përhershëm të republikës së shqipërisë pranë organizatës së kombeve të bashkuara në nju-jork të shteteve të bashkuara të amerikës | [`vendim/2014/227/`](vendim/2014/227/) | in force | 1 | 2014-04-30 | 2014-04-30 |
+| Për miratimin e strukturës dhe të organikës për shërbimin gjeologjik shqiptar | [`vendim/2014/228/`](vendim/2014/228/) | in force | 1 | 2014-04-30 | 2014-04-30 |
+| Për shlyerjen e detyrimit doganor të prapambetur të ministrisë së mbrojtjes ndaj drejtorisë së përgjithshme të doganave | [`vendim/2014/239/`](vendim/2014/239/) | in force | 1 | 2014-04-30 | 2014-04-30 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga zgjerimi i varrezave publike, faza iii, të bashkisë së fierit | [`vendim/2014/319/`](vendim/2014/319/) | in force | 1 | 2014-06-11 | 2014-06-11 |
+| Për hapjen e pikës së përkohshme të kalimit kufitar në molin e pogradecit, në kufirin shtetëror liqenor të republikës së shqipërisë me republikën e maqedonisë | [`vendim/2014/323/`](vendim/2014/323/) | in force | 1 | 2014-06-11 | 2014-06-11 |
+| Për njohjen dhe shlyerjen e detyrimit të ministrisë së mbrojtjes së republikës së shqipërisë kundrejt drejtorisë së përgjithshme të armatimit në ministrinë e mbrojtjes së republikës së francës, për kontrollin teknik të kryer gjatë procesit të pranimit të tre helikopterëve cougar as532al | [`vendim/2014/326/`](vendim/2014/326/) | in force | 1 | 2014-06-11 | 2014-06-11 |
+| Për një shtesë fondi në buxhetin e vitit 2014, miratuar për aparatin e kryeministrisë | [`vendim/2014/519/`](vendim/2014/519/) | in force | 1 | 2014-08-15 | 2014-08-15 |
+| Për miratimin e rregullores “për mbrojtjen e sigurisë dhe shëndetit të punëmarrësve nga risqet e lidhura me kancerogjenët dhe mutagjenët në punë” | [`vendim/2014/520/`](vendim/2014/520/) | in force | 1 | 2015-02-15 | 2015-02-15 |
+| Për miratimin e rregullores “për kërkesat minimale të sigurisë dhe shëndetit për punën me pajisje me ekran shfaqës” | [`vendim/2014/521/`](vendim/2014/521/) | in force | 1 | 2015-02-15 | 2015-02-15 |
+| Për miratimin e rregullores “për mbrojtjen e sigurisë dhe shëndetit të punëmarrësve nga risqet e lidhura me agjentët kimikë në punë” | [`vendim/2014/522/`](vendim/2014/522/) | in force | 1 | 2015-02-15 | 2015-02-15 |
+| Për dhënien në përdorim të përkohshëm, pa shpërblim, nga ministria e mbrojtjes ministrisë së punëve të brendshme, të ambienteve të repartit ushtarak nr. 5010, në bunavi, vlorë, për zhvillimin e kurseve bazë të policisë, për vitin 2014 | [`vendim/2014/524/`](vendim/2014/524/) | in force | 1 | 2014-08-15 | 2014-08-15 |
+| PËR EMËRIMIN E DY ANËTARËVE TË KOMISIONIT KOMBËTAR TË PËRZGJEDHJES PËR TND-në | [`vendim/2014/525/`](vendim/2014/525/) | in force | 1 | 2014-08-15 | 2014-08-15 |
+| Për kategoritë e personave me aftësi të kufizuara që trajtohen me përparësi si përfitues të programeve sociale të strehimit | [`vendim/2014/526/`](vendim/2014/526/) | in force | 1 | 2014-08-15 | 2014-08-15 |
+| Për tavanet përfundimtare të shpenzimeve të programit buxhetor afatmesëm 2015-2017 | [`vendim/2014/528/`](vendim/2014/528/) | in force | 1 | 2014-08-15 | 2014-08-15 |
+| Për pjesëmarrjen e republikës së shqipërisë, me ekspertë të policisë së shtetit, në misionin paqeruajtës të kombeve të bashkuara në sudanin e jugut (unmiss) | [`vendim/2014/529/`](vendim/2014/529/) | in force | 1 | 2014-08-15 | 2014-08-15 |
+| Për miratimin e kritereve për përzgjedhjen e përgjegjësit të shërbimit në qendrat spitalore universitare | [`vendim/2014/820/`](vendim/2014/820/) | in force | 1 | 2014-12-12 | 2014-12-12 |
+| Për rishpërndarje fondesh, ndërmjet programeve në buxhetin e vitit 2014, miratuar për ministrinë e arsimit dhe sportit | [`vendim/2014/822/`](vendim/2014/822/) | in force | 1 | 2014-12-12 | 2014-12-12 |
+| Për heqjen nga fondi pyjor dhe kullosor të sipërfaqeve pyjore në ekonominë pyjore “drin-gjadër-kir”, në qarkun e shkodrës, për ndërtimin e hidrocentralit të ashtës | [`vendim/2014/823/`](vendim/2014/823/) | in force | 1 | 2014-12-12 | 2014-12-12 |
+| Për heqjen nga fondi pyjor dhe kullosor të sipërfaqes në ekonominë pyjore “qeshibës-liqeth”, të rrethit skrapar, që do të përdoret nga shoqëria “dobrushi 2010” shpk, për ushtrimin e aktivitetit minerar në shfrytëzimin e mineralit të ranorit silicor | [`vendim/2014/824/`](vendim/2014/824/) | in force | 1 | 2014-12-12 | 2014-12-12 |
+| Për miratimin e listave të tipave të habitateve natyrore, bimëve, kafshëve dhe shpendëve, me interes për bashkimin evropian | [`vendim/2014/866/`](vendim/2014/866/) | in force | 1 | 2014-12-23 | 2014-12-23 |
+| Për miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së shtetit të Kuvajtit për heqjen e vizave për mbajtësit e pasaportave diplomatike, të posaçme dhe të shërbimit | [`vendim/2015/9/`](vendim/2015/9/) | in force | 1 | 2015-01-23 | 2015-01-23 |
+| Për rishpërndarje të numrit të punonjësve, ndërmjet ministrisë së mbrojtjes dhe agjencisë së prokurimit publik, për vitin 2015 | [`vendim/2015/12/`](vendim/2015/12/) | in force | 1 | 2015-01-23 | 2015-01-23 |
+| Për ndryshimin, nga tokë bujqësore në tokë urbane, truall, të sipërfaqes prej 27.9 ha, në zonën kadastrale nr. 1101, korçë | [`vendim/2015/16/`](vendim/2015/16/) | amending act | 1 | 2015-01-23 | 2015-01-23 |
+| Për mbylljen e akademisë së arteve, shkodër | [`vendim/2015/17/`](vendim/2015/17/) | in force | 1 | 2015-01-23 | 2015-01-23 |
+| Për emërimin e drejtorit ekzekutiv të autoritetit të aviacionit civil | [`vendim/2015/35/`](vendim/2015/35/) | in force | 1 | 2015-01-23 | 2015-01-23 |
+| Për miratimin e protokollit për bashkëpunimin për zhvillim, 2014-2016, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Italisë | [`vendim/2015/65/`](vendim/2015/65/) | in force | 1 | 2015-02-10 | 2015-02-10 |
+| Për miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Malit të Zi, për njohjen e ndërsjellë të lejeve të drejtimit | [`vendim/2015/66/`](vendim/2015/66/) | in force | 1 | 2015-02-10 | 2015-02-10 |
+| Për miratimin, në parim, të marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Gjeorgjisë, për bashkëpunim në luftën kundër krimit | [`vendim/2015/93/`](vendim/2015/93/) | in force | 1 | 2015-02-12 | 2015-02-12 |
+| Për miratimin e planit të shpenzimeve, për vitin 2015, të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura | [`vendim/2015/99/`](vendim/2015/99/) | in force | 1 | 2015-02-12 | 2015-02-12 |
+| Për financimin dhe zbatimin e procesit për luftimin mekanik të proçesionares së pishës së zezë në shkallë vendi | [`vendim/2015/109/`](vendim/2015/109/) | in force | 1 | 2015-02-12 | 2015-02-12 |
+| Për një shtesë në numrin e punonjësve dhe të fondeve buxhetore për Agjencinë e Zbatimit të Reformës Territoriale, për vitin 2015 | [`vendim/2015/235/`](vendim/2015/235/) | in force | 1 | 2015-03-26 | 2015-03-26 |
+| Për një shtesë fondi në buxhetin e vitit 2015, miratuar për Ministrinë e Financave | [`vendim/2015/272/`](vendim/2015/272/) | in force | 1 | 2015-04-10 | 2015-04-10 |
+| Për rishpërndarjen e numrit të punonjësve në njësitë e qeverisjes qendrore, për vitin 2015 | [`vendim/2015/282/`](vendim/2015/282/) | in force | 1 | 2015-04-10 | 2015-04-10 |
+| Për miratimin e protokollit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Portugalisë, për zbatimin e marrëveshjes, ndërmjet Republikës së Shqipërisë dhe Komunitetit Evropian, për ripranimin e personave me qëndrim të paautorizuar, nënshkruar në Luksemburg, më 14 prill 2005 | [`vendim/2015/310/`](vendim/2015/310/) | in force | 1 | 2015-04-24 | 2015-04-24 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “Levan-Vlorë (shtesat)” | [`vendim/2015/320/`](vendim/2015/320/) | in force | 1 | 2015-04-24 | 2015-04-24 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “Dalja Ura e Vashës-Bulqizë” | [`vendim/2015/321/`](vendim/2015/321/) | in force | 1 | 2015-04-24 | 2015-04-24 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projekteve në parkun e Viroit “Sistemim i parkut të Viroit, rikonstruksion i rrugës në parkun e Viroit nga ana e qytetit, ndriçim i trotuarit në parkun e Viroit nga ana e qytetit” | [`vendim/2015/322/`](vendim/2015/322/) | in force | 1 | 2015-04-24 | 2015-04-24 |
+| Për një ndryshim në vendimin nr. 175, datë 6.3.2012, të Këshillit të Ministrave, “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, që transferohen në pronësi ose në përdorim të Bashkisë Lushnjë, të qarkut të Fierit” | [`vendim/2015/422/`](vendim/2015/422/) | amending act | 1 | 2015-05-27 | 2015-05-27 |
+| Për miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës, për bashkëpunim të ndërsjellë në fushën e sigurisë | [`vendim/2015/429/`](vendim/2015/429/) | in force | 1 | 2015-05-27 | 2015-05-27 |
+| Për miratimin, në parim, të marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Malit të Zi, për bashkëpunim në kontekst të anëtarësimit në Bashkimin Evropian | [`vendim/2015/430/`](vendim/2015/430/) | in force | 1 | 2015-05-27 | 2015-05-27 |
+| Për sigurimin e jetës së ushtarakëve të Forcave të Armatosura, që dërgohen në misione ushtarake jashtë vendit, për vitin 2015 | [`vendim/2015/433/`](vendim/2015/433/) | in force | 1 | 2015-05-27 | 2015-05-27 |
+| Për përcaktimin e normativave për firot, humbjet, dëmtimet dhe skarcot gjatë prodhimit, magazinimit, transportimit etj., të njohura për qëllime fiskale | [`vendim/2015/434/`](vendim/2015/434/) | in force | 1 | 2015-05-27 | 2015-05-27 |
+| Për dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën 1 euro/kontrata, ndërmjet ministrisë së zhvillimit ekonomik, turizmit, tregtisë dhe sipërmarrjes, si qiradhënës, dhe shoqërisë “Mito by Caterina Firenze”, sh.p.k., si qiramarrës, për pasurinë “Ish-reparti i ngjyrosjes në ish-kombinatin e tekstileve, Berat” në “Berateks”, sh.a., Berat | [`vendim/2015/435/`](vendim/2015/435/) | in force | 1 | 2015-05-27 | 2015-05-27 |
+| Për krijimin e fondit kombëtar të garancisë për kreditimin e bujqësisë dhe zhvillimit rural | [`vendim/2015/438/`](vendim/2015/438/) | in force | 1 | 2015-05-27 | 2015-05-27 |
+| Për rishpërndarje fondesh për shpenzime kapitale, ndërmjet programeve, brenda buxhetit të vitit 2015, miratuar për Ministrinë e Mjedisit | [`vendim/2015/439/`](vendim/2015/439/) | in force | 1 | 2015-05-27 | 2015-05-27 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga rikonstruksioni dhe asfaltimi i rrugëve të brendshme në Bashkinë e Vorës | [`vendim/2015/440/`](vendim/2015/440/) | in force | 1 | 2015-05-27 | 2015-05-27 |
+| Për financimin e TVSH-së dhe lejeve administrative për zbatimin e projektit strategjik “Përmirësimi i infrastrukturës ndërkufitare”, në kuadër të programit të bashkëpunimit ndërkufitar Shqipëri - Mali i Zi, komponenti II, IPA 2007-2013 | [`vendim/2015/563/`](vendim/2015/563/) | in force | 1 | 2015-07-06 | 2015-07-06 |
+| Për kalimin në përgjegjësi administrimi të Ministrisë së Drejtësisë të pronës së paluajtshme shtetërore, të ndodhur në zonën kadastrale 8591, për ngritjen e ndërtesës së re të Gjykatës së Rrethit Gjyqësor Shkodër | [`vendim/2015/564/`](vendim/2015/564/) | in force | 1 | 2015-07-06 | 2015-07-06 |
+| Për financimin e kostos së menaxhimit të projekteve që zbatohen nga Fondi Shqiptar i Zhvillimit | [`vendim/2015/567/`](vendim/2015/567/) | in force | 1 | 2015-07-06 | 2015-07-06 |
+| Për dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën 1 euro/kontrata, ndërmjet Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, si qiradhënës, dhe shoqërisë “Lubima” sh.p.k., si qiramarrës, për pasurinë “Kodra, Qafa e Buallit”, në bashkinë Bulqizë | [`vendim/2015/568/`](vendim/2015/568/) | in force | 1 | 2015-07-06 | 2015-07-06 |
+| Për miratimin e bonusit në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë, për dhënien me koncesion të hidrocentralit “Osojë” | [`vendim/2015/569/`](vendim/2015/569/) | in force | 1 | 2015-07-06 | 2015-07-06 |
+| Për miratimin e standardeve të shërbimeve në Qendrën Kombëtare Transitore të Emergjencës | [`vendim/2015/572/`](vendim/2015/572/) | in force | 1 | 2015-07-06 | 2015-07-06 |
+| Për miratimin e standardeve të shërbimeve të Njësive të Mbrojtjes së Fëmijëve | [`vendim/2015/573/`](vendim/2015/573/) | in force | 1 | 2015-07-06 | 2015-07-06 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës 110 kv Llapaj - Peshkopi | [`vendim/2015/576/`](vendim/2015/576/) | in force | 1 | 2015-07-06 | 2015-07-06 |
+| Për ngritjen e rrjetit të njësive të integrimit evropian dhe rrjetit të njësive të hartimit të legjislacionit në ministritë e linjës | [`vendim/2015/577/`](vendim/2015/577/) | in force | 1 | 2015-07-06 | 2015-07-06 |
+| Për miratimin e kritereve për regjistrimin e entit menaxhues në njësinë e qeverisjes vendore | [`vendim/2015/627/`](vendim/2015/627/) | in force | 1 | 2015-07-21 | 2015-07-21 |
+| Për lejimin e lëvizjes, jashtë territorit të Republikës së Shqipërisë, të 43 vizatimeve të autorëve të ndryshëm shqiptarë, pjesë e fondit të galerisë kombëtare të arteve, për realizimin e ekspozitës “Rrugëtim shqiptar: Koleksioni i GKA-së dhe artistë bashkëkohës”, në kuadër të projektit “Nëntori shqiptar”, që do të zhvillohet përgjatë muajve nëntor-dhjetor 2015, në Dusseldorf-Gjermani | [`vendim/2015/913/`](vendim/2015/913/) | in force | 1 | 2015-11-23 | 2015-11-23 |
+| Për miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Emirateve të Bashkuara Arabe, për nxitjen dhe mbrojtjen e investimeve | [`vendim/2015/949/`](vendim/2015/949/) | in force | 1 | 2015-12-02 | 2015-12-02 |
+| Për miratimin e marrëveshjes së grantit nr. TF019164, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD), që vepron si administratore e fondeve grant, të siguruara nga federata ruse, në kuadër të fondit të mirëbesimit për menaxhimin e financave publike për Evropën dhe Azinë Qendrore, për financimin e projektit “Përmirësimi i kontrollit të pajtueshmërisë dhe rritja e transparencës në prokurimin publik në Shqipëri” | [`vendim/2015/950/`](vendim/2015/950/) | in force | 1 | 2015-12-02 | 2015-12-02 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Shtimi i sipërfaqes së varrezave publike në qytetin e Vlorës” | [`vendim/2015/958/`](vendim/2015/958/) | in force | 1 | 2015-12-02 | 2015-12-02 |
+| PËR MBROJTJEN E VEÇANTË tË PUNONJËSIT të AgjenciSë së inteligjencës dhe sigurisë së mbrojtjes DHE INDIVIDIT që merr pJesë në operacione të fshehta | [`vendim/2016/8/`](vendim/2016/8/) | in force | 1 | 2016-01-19 | 2016-01-19 |
+| PëR MIRATIMIN E STRATEGJISË SË ZHVILLIMIT TË ARSIMIT PARAUNIVERSITAR, PËR PERIUDHËN 2014-2020 | [`vendim/2016/11/`](vendim/2016/11/) | in force | 1 | 2016-01-19 | 2016-01-19 |
+| Për një shtesë fondi në buxhetin e vitit 2016, miratuar për drejtorinë e shërbimeve qeveritare | [`vendim/2016/15/`](vendim/2016/15/) | in force | 1 | 2016-01-22 | 2016-01-22 |
+| Për lirim dhe emërim në detyrë | [`vendim/2016/54/`](vendim/2016/54/) | in force | 1 | 2016-02-03 | 2016-02-03 |
+| Për miratimin e rregullores “për identifikimin elektronik dhe shërbimet e besuara” | [`vendim/2016/69/`](vendim/2016/69/) | in force | 1 | 2016-02-05 | 2016-02-05 |
+| Për përcaktimin e kritereve bazë, të sektorëve që do të mbështeten dhe të masës së përfitimit nga fondi i programit për bujqësinë dhe zhvillimin rural, për vitin 2016 | [`vendim/2016/91/`](vendim/2016/91/) | in force | 1 | 2016-02-18 | 2016-02-18 |
+| Për emërim në detyrë | [`vendim/2016/99/`](vendim/2016/99/) | in force | 1 | 2016-02-18 | 2016-02-18 |
+| Për emërim në detyrë | [`vendim/2016/100/`](vendim/2016/100/) | in force | 1 | 2016-02-18 | 2016-02-18 |
+| Për emërim në detyrë | [`vendim/2016/101/`](vendim/2016/101/) | in force | 1 | 2016-02-18 | 2016-02-18 |
+| Për emërimin në detyrë të prefektit të qarkut të lezhës | [`vendim/2016/102/`](vendim/2016/102/) | in force | 1 | 2016-02-18 | 2016-02-18 |
+| Për miratimin e planit të mobilizimit të përgjithshëm ose të pjesshëm të burimeve njerëzore e materiale të vendit gjatë periudhës për të cilën kërkohet vendosja e masave të jashtëzakonshme | [`vendim/2016/103/`](vendim/2016/103/) | in force | 1 | 2016-02-18 | 2016-02-18 |
+| Për miratimin e rregullores “për funksionimin e zonave të teknologjisë dhe zhvillimit ekonomik” | [`vendim/2016/106/`](vendim/2016/106/) | in force | 1 | 2016-02-18 | 2016-02-18 |
+| Për mbulimin e pjesshëm të shpenzimeve të mjekimit të z. fadil canaj | [`vendim/2016/110/`](vendim/2016/110/) | in force | 1 | 2016-02-18 | 2016-02-18 |
+| Për dhënien e miratimit për lidhjen e kontratës së qirasë, me tarifën 1 euro/kontrata, ndërmjet ministrisë së zhvillimit ekonomik, turizmit, tregtisë dhe sipërmarrjes, si qiradhënës, dhe shoqërisë “the star” shpk, si qiramarrës, për pasurinë “salla s4, me ambientet e saj ndihmëse”, të shoqërisë “npv” sha, durrës | [`vendim/2016/140/`](vendim/2016/140/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+| Për miratimin e ndryshimit të statusit, nga tokë bujqësore në tokë truall, për ndërtimin e një fabrike nga shoqëria “deutsch color” | [`vendim/2016/141/`](vendim/2016/141/) | amending act | 1 | 2016-03-03 | 2016-03-03 |
+| Për kalimin në përgjegjësi administrimi të ministrisë së bujqësisë, zhvillimit rural dhe administrimit të ujërave të sipërfaqes së tokës bujqësore, në pronësi shtetërore, në fshatin vojnik, njësia administrative maqellarë, bashkia dibër | [`vendim/2016/142/`](vendim/2016/142/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+| Për planin vjetor të pranimit për vitin 2016, në institucionet e administratës shtetërore, pjesë të shërbimit civil | [`vendim/2016/144/`](vendim/2016/144/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “rikonstruksioni i rrugës “kinemaja e vjetër””, në bashkinë patos | [`vendim/2016/145/`](vendim/2016/145/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “zgjerimi i varrezave publike”, në bashkinë e skraparit | [`vendim/2016/146/`](vendim/2016/146/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “zgjerimi i varrezave publike”, në bashkinë e peqinit | [`vendim/2016/147/`](vendim/2016/147/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+| Për ngritjen dhe funksionimin e sistemit të integruar të informacionit dhe statistikës të këshillit të ministrave | [`vendim/2016/148/`](vendim/2016/148/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+| Për organizimin dhe funksionimin e agjencisë së shërbimeve të sportit (ashs) | [`vendim/2016/149/`](vendim/2016/149/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+| Për lirim nga detyra | [`vendim/2016/150/`](vendim/2016/150/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+| Për lirim nga detyra | [`vendim/2016/151/`](vendim/2016/151/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+| Për emërim në detyrë | [`vendim/2016/154/`](vendim/2016/154/) | in force | 1 | 2016-03-10 | 2016-03-10 |
+| Për emërim në detyrë | [`vendim/2016/155/`](vendim/2016/155/) | in force | 1 | 2016-03-10 | 2016-03-10 |
+| Për mënyrën e funksionimit, kompetencat dhe përbërjen e komitetit të auditimit të brendshëm në njësitë publike | [`vendim/2016/160/`](vendim/2016/160/) | in force | 1 | 2016-03-10 | 2016-03-10 |
+| Për rishpërndarjen e numrit të punonjësve në njësitë e qeverisjes qendrore | [`vendim/2016/161/`](vendim/2016/161/) | in force | 1 | 2016-03-10 | 2016-03-10 |
+| Për emërim në detyrë | [`vendim/2016/166/`](vendim/2016/166/) | in force | 1 | 2016-03-10 | 2016-03-10 |
+| Për lirim nga detyra | [`vendim/2016/167/`](vendim/2016/167/) | in force | 1 | 2016-03-10 | 2016-03-10 |
+| Për emërim në detyrë | [`vendim/2016/168/`](vendim/2016/168/) | in force | 1 | 2016-03-10 | 2016-03-10 |
+| Për lirim nga detyra | [`vendim/2016/169/`](vendim/2016/169/) | in force | 1 | 2016-03-10 | 2016-03-10 |
+| Për lirim nga detyra | [`vendim/2016/170/`](vendim/2016/170/) | in force | 1 | 2016-03-10 | 2016-03-10 |
+| Për rishpërndarjen e numrit të punonjësve në njësitë e qeverisjes qendrore për vitin 2016 | [`vendim/2016/173/`](vendim/2016/173/) | in force | 1 | 2016-03-10 | 2016-03-10 |
+| Për sigurimin e jetës së ushtarakëve të forcave të armatosura, që dërgohen në misione ushtarake jashtë vendit, për vitin 2016 | [`vendim/2016/177/`](vendim/2016/177/) | in force | 1 | 2016-03-15 | 2016-03-15 |
+| Për miratimin e marrëveshjes shumëpalëshe, të autoritetit kompetent, për shkëmbimin automatik të informacionit të llogarisë financiare | [`vendim/2016/178/`](vendim/2016/178/) | in force | 1 | 2016-03-15 | 2016-03-15 |
+| Për miratimin e statutit të qendrës kombëtare të biznesit | [`vendim/2016/179/`](vendim/2016/179/) | in force | 1 | 2016-03-15 | 2016-03-15 |
+| Për përcaktimin e sasisë minimale të biokarburanteve dhe të lëndëve të tjera djegëse, të rinovueshme, që do të përdoren gjatë vitit 2016 në sektorin e transportit | [`vendim/2016/180/`](vendim/2016/180/) | in force | 1 | 2016-03-15 | 2016-03-15 |
+| Për autorizimin e ministrisë së transportit dhe infrastrukturës për lidhjen e kontratës ndërmjet shtetit shqiptar dhe studios konsulente “roland berger” | [`vendim/2016/198/`](vendim/2016/198/) | in force | 1 | 2016-03-23 | 2016-03-23 |
+| Për miratimin e procedurës së tenderimit për shitjen e paketës së aksioneve (100 për qind), të zotëruara nga shteti në shoqërinë “insig” sh.a., tiranë, dhe shpalljen fitues të tenderit shoqërinë “eurosig” sh.a | [`vendim/2016/218/`](vendim/2016/218/) | in force | 1 | 2016-04-04 | 2016-04-04 |
+| Për një shtesë fondi në buxhetin e vitit 2016, miratuar për komisionin qendror të zgjedhjeve | [`vendim/2016/219/`](vendim/2016/219/) | in force | 1 | 2016-04-04 | 2016-04-04 |
+| Për miratimin e ndryshimit të statusit, nga tokë bujqësore në tokë truall për ndërtim, për sipërfaqet që priten të ndikohen nga ndërtimi i stacioneve të kompresorëve sksh02 dhe sksh03, të projektit tap, të cilat do të vihen në dispozicion të shoqërisë trans adriatic pipeline ag (tap ag), për përdorim të përhershëm | [`vendim/2016/224/`](vendim/2016/224/) | amending act | 1 | 2016-04-04 | 2016-04-04 |
+| Për miratimin e ndryshimit të statusit, nga tokë bujqësore në tokë truall për ndërtim, për sipërfaqet që priten të ndikohen nga ndërtimi i paketës së tretë të rrugëve të kalimit dhe urave të projektit tap (by-pass-i i çorovodës), të cilat do të vihen në dispozicion të shoqërisë trans adriatic pipeline ag (tap ag) për përdorim të përkohshëm | [`vendim/2016/225/`](vendim/2016/225/) | amending act | 1 | 2016-04-04 | 2016-04-04 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “pedonalja e qytetit, ura vajgurore” | [`vendim/2016/228/`](vendim/2016/228/) | in force | 1 | 2016-04-04 | 2016-04-04 |
+| Për një shtesë fondi në buxhetin e vitit 2016, miratuar për agjencinë e kërkimit të teknologjisë dhe inovacionit | [`vendim/2016/258/`](vendim/2016/258/) | in force | 1 | 2016-04-13 | 2016-04-13 |
+| PËR DHËNIEN E MIRATIMIT PËR LIDHJEN E KONTRATËS SË QIRASË ME TARIFËN 1 EURO/KONTRATA, NDËRMJET MINISTRISË SË ZHVILLIMIT EKONOMIK, TREGTISË DHE SIPËRMARRJES, SI QIRADHËNËS, DHE SHOQËRISË “KASSEL” SHPK, SI QIRAMARRËS, PËR PASURINË “OBJEKTET NR. 2 (ISH-FABRIKA E TUBAVE RRIPAVE), NR. 14/a (ISH-REPARTI I KOMPRESORËVE), NR. 20 TË ISH-NDËRMARRJES “GOMA”, DURRËS”, TË SHOQËRISË “NPV” SHA, DURRËS | [`vendim/2016/260/`](vendim/2016/260/) | in force | 1 | 2016-04-13 | 2016-04-13 |
+| Për ekzekutimin e vendimit të gjykatës evropiane për të drejtat e njeriut, datë 6.10.2015, për çështjen “valio shipping company kundër shqipërisë” (aplikimi nr. 34230/07) | [`vendim/2016/263/`](vendim/2016/263/) | in force | 1 | 2016-04-13 | 2016-04-13 |
+| Për lëvizjen jashtë territorit të republikës së shqipërisë të 65 veprave të artit në poster të artistit hungarez, peter pocs, pjesë e fondit të galerisë kombëtare të arteve, të cilat do të ekspozohen në galerinë kombëtare të arteve të kosovës, prishtinë, përgjatë muajve prill-maj 2016 | [`vendim/2016/264/`](vendim/2016/264/) | in force | 1 | 2016-04-13 | 2016-04-13 |
+| Për lirimin nga detyra të administratorit të shoqërisë “nxitja e biznesit social” sha | [`vendim/2016/265/`](vendim/2016/265/) | in force | 1 | 2016-04-13 | 2016-04-13 |
+| Për miratimin e kontratës me ndarje prodhimi, ndërmjet ministrisë së energjisë dhe industrisë të republikës së shqipërisë (e përfaqësuar nga agjencia kombëtare e burimeve natyrore) dhe albanides energy shpk, për kërkimin, zhvillimin dhe prodhimin e hidrokarbureve në tokë, në shqipëri, blloku 8 | [`vendim/2016/266/`](vendim/2016/266/) | in force | 1 | 2016-04-19 | 2016-04-19 |
+| Për heqjen nga fondi pyjor të sipërfaqes në ngastrat e ekonomive pyjore “zall-devoll” dhe “mollas” të qarkut elbasan, që do të përdoret nga shoqëria “delia group” shpk, për ndërtimin e hidrocentraleve “thanë” dhe “mollas” | [`vendim/2016/267/`](vendim/2016/267/) | in force | 1 | 2016-04-13 | 2016-04-13 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “studim, projektim, lidhja e rrugës transballkanike me superstradën fier-vlorë” | [`vendim/2016/270/`](vendim/2016/270/) | in force | 1 | 2016-04-13 | 2016-04-13 |
+| Për miratimin e marrëveshjes, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komandës supreme të fuqive aleate në evropë (shape), për patrullimin e hapësirës ajrore të republikës së shqipërisë | [`vendim/2016/274/`](vendim/2016/274/) | in force | 1 | 2016-04-21 | 2016-04-21 |
+| Për përcaktimin e kritereve e të afateve të kërkesëpropozimeve për mbështetjen financiare të projekteve në fushën e turizmit | [`vendim/2016/281/`](vendim/2016/281/) | in force | 1 | 2016-04-22 | 2016-04-22 |
+| Për shpalljen e liqenit të ohrit si zonë bashkëmenaxhuese peshkimi | [`vendim/2016/283/`](vendim/2016/283/) | in force | 1 | 2016-04-22 | 2016-04-22 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “leje ndërtimi për rikualifikimin urban të sheshit “avni rustemi” dhe pazarit të ri” | [`vendim/2016/286/`](vendim/2016/286/) | in force | 1 | 2016-04-18 | 2016-04-18 |
+| Për mbulimin e pjesshëm të shpenzimeve të mjekimit të fëmijës kostandinos zaçe | [`vendim/2016/287/`](vendim/2016/287/) | in force | 1 | 2016-04-22 | 2016-04-22 |
+| Për emërimin në detyrë të kryetarit të komisionit kombëtar rregullator të sektorit të furnizimit me ujë dhe të largimit e të përpunimit të ujërave të ndotura | [`vendim/2016/292/`](vendim/2016/292/) | in force | 1 | 2016-04-26 | 2016-04-26 |
+| Për Miratimin E MEMORANDUMIT TË MIRËKUPTIMIT, NDëRMJET Këshillit të ministrave të REPUBLIKëS Së SHQIPëRISë DHE Qeverisë së SHTETIT TË KUVAJTIT, për Bashkëpunimin në Fushën e Mbrojtjes së Mjedisit, Ruajtjes së Burimeve Natyrore dhe Zhvillimit të Qëndrueshëm | [`vendim/2016/293/`](vendim/2016/293/) | in force | 1 | 2016-04-26 | 2016-04-26 |
+| Për miratimin e dokumentit të ndryshimit të marrëveshjes së grantit, të miratuar me vendimin nr. 636, datë 31.7.2013, të këshillit të ministrave, “për miratimin e marrëveshjes së grantit suedez, nr. tf014255, ndërmjet shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim (ibrd), që vepron si administrator i fondeve grant të siguruara nga suedia, e përfaqësuar nga agjencia suedeze për bashkëpunim dhe zhvillim ndërkombëtar (sida), për bashkëfinancimin e projektit të burimeve ujore dhe ujitjes” | [`vendim/2016/294/`](vendim/2016/294/) | amending act | 1 | 2016-04-28 | 2016-04-28 |
+| Për kalimin në përdorim të bashkisë tiranë të pronës me nr. 619, pasuria 7/187, të ndodhur në zonën kadastrale 8380, për njësinë administrative tiranë | [`vendim/2016/295/`](vendim/2016/295/) | in force | 1 | 2016-04-26 | 2016-04-26 |
+| Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi kontrollit të lartë të shtetit | [`vendim/2016/296/`](vendim/2016/296/) | in force | 1 | 2016-04-26 | 2016-04-26 |
+| Për shpalljen e lagunës së nartës si zonë bashkëmenaxhuese peshkimi | [`vendim/2016/304/`](vendim/2016/304/) | in force | 1 | 2016-04-26 | 2016-04-26 |
+| Për një shtesë fondi në buxhetin e vitit 2016, miratuar për ministrinë e zhvillimit urban, për kryerjen e konkursit rajonal për zhvillimin hapësinor të zonave “shtigjet e lirisë” dhe “korridori i gjelbër” | [`vendim/2016/334/`](vendim/2016/334/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| Për transferimin e 100% të aksioneve të shoqërive aksionare “rezidenca studentore nr. 1” sha, tiranë, “trajtimi i studentëve nr. 2” sha, tiranë dhe “trajtimi i studentëve nr. 3” sha, tiranë, nga ministria e zhvillimit ekonomik, turizmit, tregtisë dhe sipërmarrjes te bashkia tiranë | [`vendim/2016/335/`](vendim/2016/335/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI, NGA ALBAFILM SHA TE Ministria e Kulturës, TË OBJEKTIT “ISH-LABORATORI I FILMIT”, NË ZONËN KADASTRALE 8130, DHE PËR NJË SHTESË FONDI NË BUXHETIN E VITIT 2016, MIRATUAR PËR MINISTRINË E ZHVILLIMIT EKONOMIK, TURIZMIT, TREGTISË DHE SIPËRMARRJES | [`vendim/2016/338/`](vendim/2016/338/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| PËR KRIJIMIN E MUZEUT KOMBËTAR TË FOTOGRAFISË “MARUBI” DHE PËR NDRYSHIMIN E PËRGJEGJËSISË SË ADMINISTRIMIT TË GODINËS E TË INVENTARIT TË MJETEVE KRYESORE TË FOTOTEKËS KOMBËTARE “MARUBI” NGA Ministria e Kulturës TE KY MUZE | [`vendim/2016/339/`](vendim/2016/339/) | amending act | 1 | 2016-05-12 | 2016-05-12 |
+| PËR HEQJEN NGA FONDI PYJOR TË SIPËRFAQEVE DHE PAKËSIMIN NË VOLUM NË NGASTRAT PYJORE TË EKONOMIVE PYJORE “GJADËR-MNELË”, “GOMSIQE”, “KARMË”, “SHLLAK 2”, “QELËZ”, “KRRAB-BUSHAT”, “KOMAN-KARMË”, “DEDAJ-BUHOT”, “BREGU I DRINIT”, “MËRTUR GURIDHE”, “LUMI I BERISHËS”, NË QARKUN E SHKODRËS DHE NË EKONOMITË PYJORE DHE KULLOSORE “LUGINA E TROPOJËS”, “LUGINA E T’PLANIT” NË QARKUN E KUKËSIT, PËR NDËRTIMIN E LINJËS SË INTERKONJEKSIONIT 400 kv “SHQIPËRI-KOSOVË” (VAU I DEJËS-MORINË) | [`vendim/2016/340/`](vendim/2016/340/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| Për miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë, për dhënie me koncesion për ndërtimin e administrimin e impiantit të trajtimit të mbetjeve urbane të qarkut fier dhe prodhimin e energjisë | [`vendim/2016/341/`](vendim/2016/341/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| Për përcaktimin e autoritetit përgjegjës për hartimin e modeleve | [`vendim/2016/343/`](vendim/2016/343/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “rikonstruksion dhe shtesë të teatrit “andon zako çajupi”, korçë” | [`vendim/2016/344/`](vendim/2016/344/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “tregu industrial ushqimor-markata”, berat | [`vendim/2016/346/`](vendim/2016/346/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preket nga zbatimi i projektit “rindërtimi i banesës ku u ngrit flamuri në korçë” | [`vendim/2016/347/`](vendim/2016/347/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| Për përcaktimin e masës dhe të kritereve të kompensimit të dëmit të shkaktuar ndaj pronës së punonjësit të policisë ushtarake gjatë kryerjes së detyrës ose për shkak të saj | [`vendim/2016/350/`](vendim/2016/350/) | in force | 1 | 2016-05-18 | 2016-05-18 |
+| Për krijimin e bazës së të dhënave shtetërore të sistemit informatik financiar të qeverisë (sifq) | [`vendim/2016/352/`](vendim/2016/352/) | in force | 1 | 2016-05-18 | 2016-05-18 |
+| Për miratimin e licencës së koncesionit për rafineri shoqërisë aksionare “am-oil” | [`vendim/2016/355/`](vendim/2016/355/) | in force | 1 | 2016-05-18 | 2016-05-18 |
+| Për mbulimin e shpenzimeve të mjekimit të fëmijës Olesia Bregu | [`vendim/2016/358/`](vendim/2016/358/) | in force | 1 | 2016-05-18 | 2016-05-18 |
+| Për miratimin e dokumentit “standardet shtetërore për specifikimet teknike të informacionit gjeohapësinor në shqipëri - tema: ndërtesat” | [`vendim/2016/359/`](vendim/2016/359/) | in force | 1 | 2016-05-18 | 2016-05-18 |
+| Për miratimin e rregullave për krijimin dhe administrimin e fondit për shërbimin universal postar dhe mënyrat e përcaktimit të kontributit, në rastin e bashkëfinancimit nga ofruesit e shërbimit universal postar | [`vendim/2016/360/`](vendim/2016/360/) | in force | 1 | 2016-05-18 | 2016-05-18 |
+| Për shembjen e disa ndërtesave ekonomike dhe administrative të disa ndërmarrjeve e shoqërive | [`vendim/2016/368/`](vendim/2016/368/) | in force | 1 | 2016-05-26 | 2016-05-26 |
+| Për miratimin e marrëveshjes, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së kosovës, për nxitjen dhe mbrojtjen e investimeve | [`vendim/2016/375/`](vendim/2016/375/) | in force | 1 | 2016-06-01 | 2016-06-01 |
+| Për mbulimin e shpenzimeve të mjekimit të z. kristo tile | [`vendim/2016/381/`](vendim/2016/381/) | in force | 1 | 2016-06-01 | 2016-06-01 |
+| Për miratimin e dokumentit të politikave afatgjata për ofrimin e shërbimeve me në qendër qytetarin nga administrata shtetërore në shqipëri | [`vendim/2016/384/`](vendim/2016/384/) | in force | 1 | 2016-06-03 | 2016-06-03 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “unaza e madhe e tiranës (komuna e parisit - rruga e kavajës), shtesa” | [`vendim/2016/386/`](vendim/2016/386/) | in force | 1 | 2016-06-03 | 2016-06-03 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “librazhd - qafa e studnës (shtesa)” | [`vendim/2016/388/`](vendim/2016/388/) | in force | 1 | 2016-06-03 | 2016-06-03 |
+| Për miratimin e marrëveshjes së grantit nr. tf0a1769, ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim, që vepron si administratore e fondeve të grantit të akorduar nga fondi i mirëbesimit me shumë donatorë, për financimin e projektit të zbatimit të nismës për transparencë në industrinë nxjerrëse në shqipëri (eiti) | [`vendim/2016/397/`](vendim/2016/397/) | in force | 1 | 2016-06-08 | 2016-06-08 |
+| Për miratimin e strategjisë afatmesme të menaxhimit të borxhit 2016-2018 | [`vendim/2016/401/`](vendim/2016/401/) | in force | 1 | 2016-06-08 | 2016-06-08 |
+| Për përcaktimin e kriterit të notës mesatare për pranimin e kandidatëve në programet e studimeve të ciklit të parë dhe programet e integruara të studimeve të ciklit të dytë, në institucionet e arsimit të lartë, për vitin akademik 2016-2017 | [`vendim/2016/407/`](vendim/2016/407/) | in force | 1 | 2016-06-08 | 2016-06-08 |
+| Për disa ndryshime dhe shtesa në vendimin nr. 545, datë 11.8.2011, të këshillit të ministrave, “për miratimin e strukturës dhe të niveleve të pagave të nëpunësve civilë/nëpunësve, zëvendësministrit dhe nëpunësve të kabineteve, në kryeministri, aparatet e ministrive të linjës, administratën e presidentit, kuvendit, komisionit qendror të zgjedhjeve, prokurorinë e përgjithshme, disa institucione të pavarura, institucionet në varësi të kryeministrit, institucionet në varësi të ministrave të linjës dhe administratën e prefektit”, të ndryshuar | [`vendim/2016/452/`](vendim/2016/452/) | amending act | 1 | 2016-06-17 | 2016-06-17 |
+| Për një shtesë në vendimin nr.1093, datë 28.12.2015, të këshillit të ministrave, “për miratimin e procedurave, të kritereve dhe përparësive, për dhënien e bonusit të strehimit” | [`vendim/2016/466/`](vendim/2016/466/) | in force | 1 | 2016-06-24 | 2016-06-24 |
+| Për rishpërndarje fondesh ndërmjet programeve brenda buxhetit të vitit 2016, miratuar për ministrinë e bujqësisë, zhvillimit rural dhe administrimit të ujërave, për marrjen e masave urgjente për parandalimin e sëmundjes së dermatozës nodulare të gjedhit | [`vendim/2016/508/`](vendim/2016/508/) | in force | 1 | 2016-07-19 | 2016-07-19 |
+| Për miratimin e strategjisë kombëtare për pronësinë intelektuale, 2016-2020 | [`vendim/2016/527/`](vendim/2016/527/) | in force | 1 | 2016-07-29 | 2016-07-29 |
+| Për shpalljen e qendrës historike të fshatit qeparo dhe miratimin e rregullores për administrimin e saj e të zonës së mbrojtur përreth | [`vendim/2016/636/`](vendim/2016/636/) | in force | 1 | 2016-09-15 | 2016-09-15 |
+| Për miratimin e rregullores “për mënyrën e organizimit dhe të funksionimit të komisionit të apelimit të gjobave, procedurat e emërimit, të shkarkimit dhe masën e shpërblimit të anëtarëve” | [`vendim/2016/648/`](vendim/2016/648/) | in force | 1 | 2016-09-15 | 2016-09-15 |
+| PËR MIRATIMIN E RAPORTIT KOMBËTAR PËR ZBATIMIN E KONVENTËS NDËRKOMBËTARE TË OKB-së “PËR MBROJTJEN E TË DREJTAVE TË TË GJITHË PUNËTORËVE MIGRANTË DHE ANËTARËVE TË FAMILJEVE TË TYRE” | [`vendim/2016/845/`](vendim/2016/845/) | in force | 1 | 2016-12-13 | 2016-12-13 |
+| Për krijimin e bazës të të dhënave shtetërore të policisë së shtetit për menaxhimin elektronik të gjobave (e-gjoba) | [`vendim/2016/846/`](vendim/2016/846/) | in force | 1 | 2016-12-13 | 2016-12-13 |
+| PËR KALIMIN NË PRONËSI, NGA Ministria e Kulturës (QENDRA NDËRKOMBËTARE E KULTURËS “ARBNORI”) TE BASHKIA TIRANË, TË PRONËS ME NUMËR PASURIE 1/53, TË NDODHUR NË ZONËN KADASTRALE 8160, ME SIPËRFAQE TRUALLI DHE NDËRTESE 4294 m², DHE PËR NJË NDRYSHIM NË VENDIMIN NR. 286, DATË 8.8.1991, TË KËSHILLIT TË MINISTRAVE, “PËR KRIJIMIN E QENDRËS NDËRKOMBËTARE TË KULTURËS” | [`vendim/2016/847/`](vendim/2016/847/) | amending act | 1 | 2016-12-13 | 2016-12-13 |
+| Për kalimin e të dhënave mbi shtrirjen e rrjetit të infrastrukturës inxhinierike te bashkitë | [`vendim/2016/851/`](vendim/2016/851/) | in force | 1 | 2016-12-15 | 2016-12-15 |
+| Për krijimin dhe mënyrën e organizimit e të funksionimit të agjencisë për efiçencën e energjisë | [`vendim/2016/852/`](vendim/2016/852/) | in force | 1 | 2016-12-15 | 2016-12-15 |
+| Për ekzekutimin e vendimit të gjykatës evropiane për të drejtat e njeriut, datë 6.10.2016, për çështjen “mihani kundër shqipërisë” (për ankimin nr.47760/09) | [`vendim/2016/854/`](vendim/2016/854/) | in force | 1 | 2016-12-15 | 2016-12-15 |
+| Për miratimin e bonusit në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë për dhënien me koncesion për ndërtim landfilli e inceneratori dhe rehabilitim të venddepozitimeve ekzistuese, tiranë | [`vendim/2016/855/`](vendim/2016/855/) | in force | 1 | 2016-12-15 | 2016-12-15 |
+| Për një shtesë fondi në buxhetin e vitit 2016, miratuar për ministrinë e bujqësisë, zhvillimit rural dhe administrimit të ujërave, për disa ndërhyrje emergjente për infrastrukturën e mbrojtjes nga përmbytjet | [`vendim/2016/858/`](vendim/2016/858/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI, NGA Ministria e Drejtësisë TE MINISTRIA E PUNËVE TË BRENDSHME, TË PASURISË SË PALUAJTSHME ME EMËRTIM “GJYKATA E APELIT SHKODËR”, ME QËLLIM PAJISJEN E SUBJEKTIT “PARTIA SOCIALISTE E SHQIPËRISË” ME NDËRTESË PËR DEGËN VENDORE TË PARTISË SOCIALISTE, QARKU SHKODËR | [`vendim/2016/868/`](vendim/2016/868/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+| Për kalimin në përgjegjësi administrimi, nga ministria e zhvillimit urban te kontrolli i lartë i shtetit, të një pjese të pronës me numër pasurie 1/63, ndodhur në zonën kadastrale 8150, rruga “abdi toptani”, tiranë | [`vendim/2016/872/`](vendim/2016/872/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+| Për kuotat financiare të ushqimit në mensa e konvikte, përcaktimin e kritereve për përfitimin e bursave dhe pagesave për nxënësit e arsimit parauniversitar në institucionet arsimore publike, për vitin shkollor 2016-2017 | [`vendim/2016/873/`](vendim/2016/873/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+| Për mbulimin e shpenzimeve të mjekimit të z. rezar veseli | [`vendim/2016/878/`](vendim/2016/878/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “ndërtimi i linjës 110 kv ulëz-shkopet-skuraj” | [`vendim/2016/880/`](vendim/2016/880/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+| Për dhënie shtesë pensioni të posaçëm shtetëror z. Panajot Boga | [`vendim/2016/927/`](vendim/2016/927/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Për lirim nga detyra | [`vendim/2016/931/`](vendim/2016/931/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Për miratimin e planit të shpenzimeve operative, për vitin 2017, për entin rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura | [`vendim/2016/939/`](vendim/2016/939/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Për miratimin e rregullit teknik “për etiketimin e energjisë së llambave dhe të ndriçuesve elektrikë” | [`vendim/2016/942/`](vendim/2016/942/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “levan-tepelenë (shtesa)” | [`vendim/2016/948/`](vendim/2016/948/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “unaza lindore shkodër dhe unaza shkodër-rus” | [`vendim/2016/949/`](vendim/2016/949/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “tre urat leskovik” | [`vendim/2016/950/`](vendim/2016/950/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Për shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “për ndërtimin dhe administrimin e impiantit të përpunimit të mbetjeve urbane të qarkut fier dhe prodhimin e energjisë” | [`vendim/2016/951/`](vendim/2016/951/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Për lirimin dhe emërimin nga/në detyrë të zëvendëskryetarit dhe të një anëtari të komisionit të prokurimit publik | [`vendim/2016/953/`](vendim/2016/953/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Për miratimin e rregullores “për kontrollin shtetëror portual në republikën e shqipërisë” | [`vendim/2017/13/`](vendim/2017/13/) | in force | 1 | 2017-01-24 | 2017-01-24 |
+| Për krijimin e fondit të ekonomisë kreative (artizanatit) | [`vendim/2017/15/`](vendim/2017/15/) | in force | 1 | 2017-01-24 | 2017-01-24 |
+| Për miratimin e kushteve dhe të procedurave për ndërtimin e interkonektorëve të rinj | [`vendim/2017/16/`](vendim/2017/16/) | in force | 1 | 2017-01-24 | 2017-01-24 |
+| Për heqjen nga fondi pyjor dhe kullosor publik dhe pakësimin në volum të sipërfaqes prej 90 ha që do të përdoret nga shoqëria “lala-06” shpk, për shfrytëzimin e mineralit të hekur-nikelit në objektin “plasë”, bashkia maliq | [`vendim/2017/17/`](vendim/2017/17/) | in force | 1 | 2017-01-24 | 2017-01-24 |
+| Për miratimin e programit të reformave ekonomike (erp) 2017-2019 | [`vendim/2017/49/`](vendim/2017/49/) | in force | 1 | 2017-02-03 | 2017-02-03 |
+| Për miratimin e programit të përgjithshëm analitik të projektakteve, që do të paraqiten për shqyrtim në këshillin e ministrave gjatë vitit 2017 | [`vendim/2017/57/`](vendim/2017/57/) | in force | 1 | 2017-03-15 | 2017-03-15 |
+| PËR NGRITJEN, NË SHQIPËRI, TË QENDRËS SË EKSELENCËS SË NATO-s PËR STUDIMIN E FENOMENIT TË LUFTËTARËVE TË HUAJ | [`vendim/2017/58/`](vendim/2017/58/) | in force | 1 | 2017-02-15 | 2017-02-15 |
+| Për shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “ndërtim, sistemim dhe asfaltim i rrugëve e trotuareve”, në bashkinë e hasit | [`vendim/2017/70/`](vendim/2017/70/) | in force | 1 | 2017-02-15 | 2017-02-15 |
+| Përshpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “rikonstruksion i shëtitores ’ali pasha’, restaurim i fasadave, ndriçim, sistemim trotuaresh”, bashkia tepelenë | [`vendim/2017/71/`](vendim/2017/71/) | in force | 1 | 2017-02-15 | 2017-02-15 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “rikonstruksioni dhe asfaltimi i rrugëve të lagjeve në kodër-vorë, loti 1”, bashkia vorë | [`vendim/2017/72/`](vendim/2017/72/) | in force | 1 | 2017-02-15 | 2017-02-15 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “zgjerimi i varrezave publike”, bashkia elbasan | [`vendim/2017/73/`](vendim/2017/73/) | in force | 1 | 2017-02-15 | 2017-02-15 |
+| Për përcaktimin e procedurave të dorëzimit vullnetar të armëve të zjarrit të çdo lloji dhe trajtimin e tyre nga strukturat e Policisë së Shtetit | [`vendim/2017/82/`](vendim/2017/82/) | in force | 1 | 2017-02-15 | 2017-02-15 |
+| Për përcaktimin e procedurës së kalimit nën administrimin e autoritetit për informimin mbi dokumentet e ish-sigurimit të shtetit të materialeve arkivore të ish-sigurimit të shtetit, që gjenden në ministrinë e mbrojtjes, ministrinë e punëve të brendshme, shërbimin informativ të shtetit dhe në autoritetet e tjera publike | [`vendim/2017/98/`](vendim/2017/98/) | in force | 1 | 2017-02-23 | 2017-02-23 |
+| Për dhënien në përdorim të përkohshëm, nga ministria e mbrojtjes ministrisë së zhvillimit ekonomik, turizmit, tregtisë dhe sipërmarrjes, për “albcontrol”, sh.a-në., të disa objekteve dhe sipërfaqeve, truall funksional, brenda territorit të pronave nr.223, me emërtim “reparti ushtarak nr.3028”, me vendndodhje në porto-romano, durrës, dhe nr.805, me emërtim “reparti ushtarak nr.6614/5”, me vendndodhje në malin e krujës, krujë | [`vendim/2017/100/`](vendim/2017/100/) | in force | 1 | 2017-02-27 | 2017-02-27 |
+| Për kalimin në përgjegjësi administrimi, nga drejtoria e përgjithshme e tatimeve te ministria e punëve të brendshme, të pasurisë së paluajtshme “dega e tatimeve delvinë”, me qëllim pajisjen me ndërtesë të subjektit “partia socialiste e shqipërisë”, për degën vendore të partisë socialiste delvinë | [`vendim/2017/102/`](vendim/2017/102/) | in force | 1 | 2017-02-27 | 2017-02-27 |
+| Për heqjen nga fondi pyjor dhe kullosor publik dhe pakësimin në volum të sipërfaqes prej 1.065 ha, në fshatin ternovë, të qarkut të dibrës, që do të përdoret nga shoqëria “chrome invest”, sh.p.k., për ndërtimin e fabrikës së pasurimit të kromit | [`vendim/2017/110/`](vendim/2017/110/) | in force | 1 | 2017-02-27 | 2017-02-27 |
+| Për heqjen nga fondi pyjor dhe kullosor publik dhe pakësimin në volum të sipërfaqes prej 85 ha, në objektin “gjinaj”, të qarkut të kukësit, që do të përdoret nga shoqëria “info metal plast-al”, sh.p.k. për shfrytëzimin e mineralit të nikelit silikat | [`vendim/2017/111/`](vendim/2017/111/) | in force | 1 | 2017-02-27 | 2017-02-27 |
+| Për heqjen nga fondi pyjor dhe kullosor publik dhe pakësimin në volum të sipërfaqes pyjore prej 16.92 ha në objektin “kapit”, të ekonomisë pyjore “surroj”, të rrethit të kukësit, që do të përdoret nga shoqëria “mineral falkon”, sh.p.k. për shfrytëzimin e mineralit të kromit | [`vendim/2017/112/`](vendim/2017/112/) | in force | 1 | 2017-02-27 | 2017-02-27 |
+| Për heqjen nga fondi pyjor dhe kullosor publik dhe pakësimin në volum të sipërfaqes prej 2.397 ha në ngastrat e ekonomisë pyjore “petran zavalan”, në përmet, për ndërtimin e hec-ve “lengarica 1” e “lengarica 2”, nga shoqëria “lengarica & energy”, sh.p.k | [`vendim/2017/113/`](vendim/2017/113/) | in force | 1 | 2017-02-27 | 2017-02-27 |
+| Për heqjen nga fondi pyjor publik dhe pakësimin në volum të sipërfaqes prej 6.5 ha në objektin “bratila”, të ekonomisë pyjore “vidhan-skëndërbegas”, të rrethit gramsh, që do të përdoren nga shoqëria “victoria invest internacional”, sh.p.k. për ushtrimin e aktivitetit minerar në shfrytëzimin e mineralit të harcburgiteve | [`vendim/2017/114/`](vendim/2017/114/) | in force | 1 | 2017-02-27 | 2017-02-27 |
+| Për heqjen nga fondi pyjor dhe kullosor publik dhe pakësimin në volum të sipërfaqes prej 99.7 ha në objektin “zaloshnje”, të qarkut berat, që do të përdoret nga shoqëria “zaloshnja fiorentina”, sh.p.k. për shfrytëzimin e mineralit qëlqeror të mermerizuar | [`vendim/2017/115/`](vendim/2017/115/) | in force | 1 | 2017-02-27 | 2017-02-27 |
+| Për miratimin e dokumentit “standardet shtetërore për specifikimet teknike të informacionit gjeohapësinor në shqipëri. tema: emërtimet gjeografike” | [`vendim/2017/142/`](vendim/2017/142/) | in force | 1 | 2017-03-07 | 2017-03-07 |
+| Për kalimin në përgjegjësi administrimi ministrisësë punëve të brendshme të pronës së paluajtshme shtetërore, ndodhur në zonën kadastrale 2573, indeks harte ko-mal-c-5 dhe numër pasurie 1-114, për pajisjen e subjektit “partia socialiste e shqipërisë” me ndërtesë, për degën vendore të partisë socialiste maliq | [`vendim/2017/192/`](vendim/2017/192/) | in force | 1 | 2017-03-20 | 2017-03-20 |
+| Për lirimin nga detyra të prefektit të qarkut të fierit | [`vendim/2017/241/`](vendim/2017/241/) | in force | 1 | 2017-03-31 | 2017-03-31 |
+| Për derdhjen e kontributeve të sigurimeve shoqërore dhe njohjen si periudhë sigurimi të periudhës kur bashkëshorti/ja ka shoqëruar personelin e shërbimit të jashtëm në misionin diplomatik ose postin konsullor jashtë shtetit | [`vendim/2017/411/`](vendim/2017/411/) | in force | 1 | 2017-05-17 | 2017-05-17 |
+| Për miratimin e strategjisë kombëtare të shëndetësisë 2016 - 2020 | [`vendim/2017/439/`](vendim/2017/439/) | in force | 1 | 2017-05-24 | 2017-05-24 |
+| Për lirimin dhe emërimin në detyrë të drejtorit të përgjithshëm të agjencisë së legalizimit, urbanizimit dhe integrimit të zonave/ ndërtimeve informale | [`vendim/2017/469/`](vendim/2017/469/) | in force | 1 | 2017-06-02 | 2017-06-02 |
+| Për shkarkimin nga detyra të drejtorit të cirkut kombëtar | [`vendim/2017/470/`](vendim/2017/470/) | in force | 1 | 2017-06-02 | 2017-06-02 |
+| Për mbulimin e shpenzimeve të transportit për në atdhe të trupit të të ndjerit gjovalin kadeli | [`vendim/2017/472/`](vendim/2017/472/) | in force | 1 | 2017-06-02 | 2017-06-02 |
+| PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI, NGA Ministria e Infrastrukturës dhe Energjisë TEK OPERATORI I SHPËRNDARJES SË ENERGJISË ELEKTRIKE, SHA, TË NJË PJESE TË PRONËS ME NUMËR PASURIE 1/63, NDODHUR NË ZONËN KADASTRALE NR. 8150, RRUGA “ABDI TOPTANI”, TIRANË | [`vendim/2017/485/`](vendim/2017/485/) | in force | 1 | 2017-07-14 | 2017-07-14 |
+| Për shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “për plotësimin dhe detajimin e projektit të rikualifikimit urban të pazarit të ri, markatës së mishit, fruta - perimeve dhe sheshit “avni rustemi”” | [`vendim/2017/492/`](vendim/2017/492/) | in force | 1 | 2017-08-01 | 2017-08-01 |
+| Për lirim nga detyra | [`vendim/2017/513/`](vendim/2017/513/) | in force | 1 | 2017-09-18 | 2017-09-18 |
+| Për miratimin e strategjisë kombëtare për shkencën, teknologjinë dhe inovacionin, 2017-2022 | [`vendim/2017/710/`](vendim/2017/710/) | in force | 1 | 2017-12-12 | 2017-12-12 |
+| Për përcaktimin e procedurave të kryerjes së kontrollit të veprimtarisë së ndërmarrjes sociale | [`vendim/2017/716/`](vendim/2017/716/) | in force | 1 | 2017-12-14 | 2017-12-14 |
+| PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARIT TË PASURISË SË PALUAJTSHME, PRONË PRIVATE, QË PREKET NGA NDËRTIMI I NËNSTACIONIT 110/20 kV TEC KOMBINAT, TIRANË | [`vendim/2017/718/`](vendim/2017/718/) | in force | 1 | 2017-12-14 | 2017-12-14 |
+| PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARIT TË PASURISË SË PALUAJTSHME, PRONË PRIVATE, QË PREKET NGA NDËRTIMI I NËNSTACIONIT TË RI 110/20 kV, NË FUSHË - KRUJË | [`vendim/2017/719/`](vendim/2017/719/) | in force | 1 | 2017-12-14 | 2017-12-14 |
+| PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARIT TË PASURISË SË PALUAJTSHME, PRONË PRIVATE, QË PREKET NGA NDËRTIMI I LINJËS SË TRANSMETIMIT 110 kV MEMALIAJ-GJIROKASTËR, SHTYLLA LIDHËSE ME NËNSTACIONIN GJIROKASTËR | [`vendim/2017/720/`](vendim/2017/720/) | in force | 1 | 2017-12-14 | 2017-12-14 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “belvedere vlorë” | [`vendim/2017/721/`](vendim/2017/721/) | in force | 1 | 2017-12-14 | 2017-12-14 |
+| Lirimin nga detyra të drejtorit të përgjithshëm të policisë së shtetit | [`vendim/2018/3/`](vendim/2018/3/) | in force | 1 | 2018-01-10 | 2018-01-10 |
+| Për miratimin e programit të përgjithshëm analitik, të projektakteve që do të paraqiten për shqyrtim në këshillin e ministrave, gjatë vitit 2018 | [`vendim/2018/37/`](vendim/2018/37/) | in force | 1 | 2018-01-31 | 2018-01-31 |
+| Për kompensimin e qirasë së banesës për strehimin e prokurorit të caktuar të kryejë përkohësisht detyrën dhe funksionet e prokurorit të përgjithshëm | [`vendim/2018/47/`](vendim/2018/47/) | in force | 1 | 2018-02-02 | 2018-02-02 |
+| Për lejimin e lëvizjes jashtë territorit të republikës së shqipërisë të veprës së artit në pikturë “mbjellja e pemëve”, të autorit edi hila, pjesë e fondit të galerisë kombëtare të arteve, e cila do të jetë pjesë e ekspozitës “edi hila-monography”, që organizohet në muzeun e artit modern në varshavë, poloni | [`vendim/2018/53/`](vendim/2018/53/) | in force | 1 | 2018-02-02 | 2018-02-02 |
+| Për miratimin e rregullores së funksionimit të këshillit kombëtar për të drejtat dhe mbrojtjen e fëmijës | [`vendim/2018/54/`](vendim/2018/54/) | in force | 1 | 2018-02-02 | 2018-02-02 |
+| Për përcaktimin e kategorive konkrete të grupeve të pafavorizuara | [`vendim/2018/56/`](vendim/2018/56/) | in force | 1 | 2018-02-08 | 2018-02-08 |
+| Për miratimin e buxhetit për autoritetin e komunikimeve elektronike dhe postare, për vitin 2018 | [`vendim/2018/86/`](vendim/2018/86/) | in force | 1 | 2018-02-19 | 2018-02-19 |
+| Për krijimin e qendrës ndërinstitucionale të rrjetit akademik shqiptar (rash) | [`vendim/2018/88/`](vendim/2018/88/) | in force | 1 | 2018-02-19 | 2018-02-19 |
+| Për procedurat e kryerjes së kontrollit dhe vendosjes së sanksioneve nga agjencia shtetërore për të drejtat dhe mbrojtjen e fëmijës | [`vendim/2018/91/`](vendim/2018/91/) | in force | 1 | 2018-02-19 | 2018-02-19 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “ndërtimi i godinës së re 8-katëshe të mjekësisë së përgjithshme në qendrën spitalore universitare “nënë tereza”, tiranë | [`vendim/2018/92/`](vendim/2018/92/) | in force | 1 | 2018-02-19 | 2018-02-19 |
+| Për lirimin, mandatimin dhe rimandatimin e disa anëtarëve të këshillit kombëtar të kontabilitetit | [`vendim/2018/102/`](vendim/2018/102/) | in force | 1 | 2018-03-02 | 2018-03-02 |
+| Për miratimin e marrëveshjes ndryshuese të marrëveshjes së grantit nr. tf0a1769, ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim, që vepron si administratore e fondeve të grantit të akorduar nga fondi i mirëbesimit me shumë donatorë, për financimin e projektit të zbatimit të nismës për transparencë në industrinë nxjerrëse në shqipëri (eiti) | [`vendim/2018/106/`](vendim/2018/106/) | in force | 1 | 2018-03-02 | 2018-03-02 |
+| Për përcaktimin e rregullave për emërimin, shkarkimin dhe shpërblimin e kryetarit dhe të anëtarëve të këshillit drejtues të agjencisë kombëtare të diasporës | [`vendim/2018/114/`](vendim/2018/114/) | in force | 1 | 2018-03-02 | 2018-03-02 |
+| Për miratimin e bonusit në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë për dhënien me koncesion/partneritet publik privat për projektin e rrugës thumanë-fushë-krujë-vorë-kashar | [`vendim/2018/151/`](vendim/2018/151/) | in force | 1 | 2018-03-20 | 2018-03-20 |
+| Për pagesën e pjesëmarrjes në kurset e formimit profesional | [`vendim/2018/162/`](vendim/2018/162/) | in force | 1 | 2018-03-27 | 2018-03-27 |
+| Për përcaktimin e procedurës së veçantë të përshpejtuar dhe të kritereve për përzgjedhjen e konsulentit që do të asistojë komisionin për negocimin dhe lidhjen e kontratës, ndërmjet shtetit shqiptar dhe shoqërive “çengiz construction & kalyon & kolin construction”, me objekt projektimin, ndërtimin, operimin, mirëmbajtjen dhe menaxhimin e aeroportit të vlorës | [`vendim/2018/163/`](vendim/2018/163/) | in force | 1 | 2018-03-27 | 2018-03-27 |
+| Për negocimin me partnerin privat të përzgjedhur nga shoqëria “albgaz” sha, për krijimin e një shoqërie të përbashkët për mirëmbajtjen e rrjetit të transmetimit të ndërtuar nga trans adriatic pipeline ag në territorin e republikës së shqipërisë | [`vendim/2018/164/`](vendim/2018/164/) | in force | 1 | 2018-03-27 | 2018-03-27 |
+| Për rishpërndarje fondesh në buxhetin e vitit 2018, ndërmjet ministrisë së bujqësisë dhe zhvillimit rural dhe ministrisë së mbrojtjes, për sigurimin e bazës ushqimore për blegtorinë në zonat e përmbytura në shkodër | [`vendim/2018/166/`](vendim/2018/166/) | in force | 1 | 2018-03-27 | 2018-03-27 |
+| Për një shtesë fondi në buxhetin e vitit 2018, miratuar për ministrinë e kulturës, për mbulimin e shpenzimeve për realizimin e aktiviteteve, pjesë të kalendarit për vitin 2018, si “viti mbarëkombëtar i gjergj kastriotit-skënderbeut” | [`vendim/2018/186/`](vendim/2018/186/) | in force | 1 | 2018-03-30 | 2018-03-30 |
+| Për miratimin e rregullit teknik “pёr etiketimin e energjisё pёr furrat shtëpiake dhe aspiratorët thithës” | [`vendim/2018/191/`](vendim/2018/191/) | in force | 1 | 2018-04-13 | 2018-04-13 |
+| Për miratimin e rregullit teknik “për ashensorët dhe komponentët e sigurisë për ashensorë dhe përcaktimin e listës së standardeve të harmonizuara” | [`vendim/2018/192/`](vendim/2018/192/) | in force | 1 | 2018-04-13 | 2018-04-13 |
+| Për miratimin e marrëveshjes së financimit, ndërmjet kfw frankfurt am main (kfw) dhe republikës së shqipërisë (marrësi), përfaqësuar nga ministria e financave dhe ekonomisë, për programin e rehabilitimit të konvikteve të universitetit të tiranës sipas parimit të eficiencës së energjisë, shqipëri | [`vendim/2018/193/`](vendim/2018/193/) | in force | 1 | 2018-04-13 | 2018-04-13 |
+| Për rishpërndarjen e numrit të punonjësve organikë në njësitë e qeverisjes qendrore, për vitin 2018 | [`vendim/2018/208/`](vendim/2018/208/) | in force | 1 | 2018-04-30 | 2018-04-30 |
+| Për një shtesë fondi në buxhetin e vitit 2018, miratuar për ministrinë e infrastrukturës dhe energjisë, në formën e transfertës për autoritetin e mediave audiovizive (ama) | [`vendim/2018/213/`](vendim/2018/213/) | in force | 1 | 2018-05-07 | 2018-05-07 |
+| Për NJË SHTESË NË VENDIMIN NR. 718, DATË 29.10.2004, TË KËSHILLIT TË MINISTRAVE, “PËR LISTËN E PERSONAVE TË SHPALLUR SI FINANCUES TË TERRORIZMIT”, TË NDRYSHUAR | [`vendim/2018/223/`](vendim/2018/223/) | in force | 1 | 2018-04-30 | 2018-04-30 |
+| Për disa shtesa në vendimin nr. 332, datë 17. 3.2010, të këshillit të ministrave, “për përcaktimin e formës, elementeve përbërëse, mënyrës së mbajtjes e afatit të përdorimit të dokumenteve bazë, që mbahen dhe lëshohen nga shërbimi i gjendjes civile”, të ndryshuar | [`vendim/2018/224/`](vendim/2018/224/) | in force | 1 | 2018-04-30 | 2018-04-30 |
+| Për dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën 1 euro/kontrata, ndërmjet ministrisë së financave dhe ekonomisë, si qiradhënës, dhe shoqërisë “concord investment” shpk, si qiramarrës, për pasurinë “pjesë të ambienteve të portit të limjonit”, sarandë, me nr. pasurie 5/232, zona kadastrale 8641, me sipërfaqe të përgjithshme 5 370 m2, në përgjegjësi administrimi të portit detar, sha, sarandë | [`vendim/2018/226/`](vendim/2018/226/) | in force | 1 | 2018-04-30 | 2018-04-30 |
+| Për riorganizimin e shkollës së lartë jopublike “marubi” në akademi të filmit dhe multimedias “marubi” dhe dhënien e statusit të veçantë këtij institucioni të arsimit të lartë | [`vendim/2018/229/`](vendim/2018/229/) | in force | 1 | 2018-04-30 | 2018-04-30 |
+| Për kalimin në përgjegjësi administrimi ministrisë së drejtësisë të një pjese të godinës, aktualisht në përgjegjësi administrimi të kuvendit të republikës së shqipërisë, për rikonstruksionin e hyrjes kryesore për kolegjin e posaçëm të apelimit dhe komisionerëve publikë, institucione të rivlerësimit të gjyqtarëve dhe prokurorëve në republikën e shqipërisë | [`vendim/2018/230/`](vendim/2018/230/) | in force | 1 | 2018-04-30 | 2018-04-30 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “sistemim, asfaltim i bllokut të banimit në lagjen “xhevdet nepravishta”, lushnjë” | [`vendim/2018/238/`](vendim/2018/238/) | in force | 1 | 2018-05-07 | 2018-05-07 |
+| Për miratimin e rregullave për përcaktimin e ofruesit të shërbimit universal postar | [`vendim/2018/239/`](vendim/2018/239/) | in force | 1 | 2018-05-07 | 2018-05-07 |
+| Për miratimin e marrëveshjes së financimit, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe komisionit evropian, në emër të bashkimit evropian, për ipard ii 2014-2020, asistenca për zhvillimin bujqësor dhe rural, sipas instrumentit për asistencën e paraaderimit, ipa ii | [`vendim/2018/240/`](vendim/2018/240/) | in force | 1 | 2018-05-17 | 2018-05-17 |
+| Për përcaktimin e masës së financimit, nga buxheti i vitit 2018, për bashkësitë fetare që kanë nënshkruar marrëveshje me këshillin e ministrave | [`vendim/2018/245/`](vendim/2018/245/) | in force | 1 | 2018-05-17 | 2018-05-17 |
+| Për një rishpërndarje të fondeve të infrastrukturës vendore dhe rajonale nga fondi shqiptar i zhvillimit në disa njësi të qeverisjes qendrore | [`vendim/2018/250/`](vendim/2018/250/) | in force | 1 | 2018-05-17 | 2018-05-17 |
+| Për përcaktimin e masës dhe të kritereve për shpërblimin e kryetarit, anëtarëve dhe sekretarit teknik të këshillit mbikëqyrës të drejtorisë së përgjithshme të pronësisë industriale (dppi) | [`vendim/2018/252/`](vendim/2018/252/) | in force | 1 | 2018-05-17 | 2018-05-17 |
+| Për miratimin e deklaratës së synimit (SOI - Statement of Intent), të Republikës së Francës për t’u bërë pjesë e Memorandumit të Mirëkuptimit, ndërmjet Republikës së Shqipërisë dhe Komandës Supreme të Forcave Aleate në Evropë dhe Shtabit të Komandës Supreme Aleate për Transformimin, lidhur me mbështetjen e shtetit pritës për kryerjen e operacioneve dhe të stërvitjeve të Nato-s | [`vendim/2018/267/`](vendim/2018/267/) | in force | 1 | 2018-05-23 | 2018-05-23 |
+| Për kalimin në pronësi të bashkisë devoll, në njësinë administrative “qendër bilisht”, të disa pronave me vendndodhje në zonat kadastrale 3637 dhe 1202 | [`vendim/2018/268/`](vendim/2018/268/) | in force | 1 | 2018-05-23 | 2018-05-23 |
+| Për miratimin e rregullores “për disenjot industriale” | [`vendim/2018/270/`](vendim/2018/270/) | in force | 1 | 2018-06-27 | 2018-06-27 |
+| Për transferimin e pronësisë së 100% të aksioneve të shoqërisë “kombinati i sheqerit” sha, maliq, nga ministria e financave dhe ekonomisë te bashkia maliq | [`vendim/2018/272/`](vendim/2018/272/) | in force | 1 | 2018-05-23 | 2018-05-23 |
+| Për krijimin e bazës së të dhënave shtetërore “regjistri kombëtar i pasurive kulturore (rkpk)” | [`vendim/2018/278/`](vendim/2018/278/) | in force | 1 | 2018-05-23 | 2018-05-23 |
+| Për mbulimin e shpenzimeve të transportit mjekësor të z. luan hajdaraga | [`vendim/2018/280/`](vendim/2018/280/) | in force | 1 | 2018-05-23 | 2018-05-23 |
+| Për organizimin dhe funksionimin e sekretariatit teknik të këshillit ekonomik kombëtar dhe përcaktimin e ministrisë përgjegjëse për zbatimin e dispozitave të ligjit nr. 57/2014, “për krijimin dhe funksionimin e këshillit ekonomik kombëtar”, të ndryshuar | [`vendim/2018/281/`](vendim/2018/281/) | in force | 1 | 2018-05-23 | 2018-05-23 |
+| PËR PJESËMARRJEN E NJË GRUPI TRAJNUES SPECIAL TË FORCAVE TË ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË NË OPERACIONIN USHTARAK TË NATO-s “RESOLUTE SUPPORT MISSION” (RSM), NË AFGANISTAN | [`vendim/2018/284/`](vendim/2018/284/) | in force | 1 | 2018-05-28 | 2018-05-28 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “ndërtimi i ri i shkollës tip 1 + tip 4, në njësinë administrative nr. 9, sheshi 9/1”, në bashkinë tiranë | [`vendim/2018/289/`](vendim/2018/289/) | in force | 1 | 2018-05-28 | 2018-05-28 |
+| PËR PËRDORIMIN E FONDEVE BUXHETORE TË VITIT 2018 PËR FINANCIMIN E ORGANEVE TË QEVERISJES VENDORE PËR PËRMBUSHJEN E DETYRIMEVE QË RRJEDHIN NGA KONTRATA KONCESIONARE NR. 6021 REP., NR. 2894 KOL., DATË 31.8.2017, “PËR NDËRTIM LANDFILL-i, INCENERATORI DHE REHABILITIM I VENDDEPOZITIMEVE EKZISTUESE NË TIRANË DHE PRODHIMIN E ENERGJISË ELEKTRIKE, ZONA E TRAJTIMIT TË MBETJEVE TIRANË (ZTMT)” | [`vendim/2018/320/`](vendim/2018/320/) | in force | 1 | 2018-06-07 | 2018-06-07 |
+| Për miratimin e dokumentit të ndryshimit nr. 2 të marrëveshjes së ër miratimin e ndryshimit të statusit, nga kategoria “tokë bujqësore” në “tokë urbane”, truall, të pasurive me numër 22/20 dhe 22/21, zona kadastrale 3339, bashkia durrës | [`vendim/2018/323/`](vendim/2018/323/) | amending act | 1 | 2018-06-07 | 2018-06-07 |
+| Për miratimin e dokumentit të ndryshimit nr. 2 të marrëveshjes së grantit suedez nr. tf014255, ndërmjet shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim (ibrd), që vepron si administratore e fondeve grant të siguruara nga suedia, e përfaqësuar nga agjencia suedeze për bashkëpunim dhe zhvillim ndërkombëtar (sida), për bashkëfinancimin e projektit të burimeve ujore dhe ujitjes | [`vendim/2018/324/`](vendim/2018/324/) | amending act | 1 | 2018-06-07 | 2018-06-07 |
+| Për emërimin në detyrë të drejtorit të qendrës kombëtare të kulturës për fëmijë dhe teatrit të kukullave | [`vendim/2018/326/`](vendim/2018/326/) | in force | 1 | 2018-06-07 | 2018-06-07 |
+| Për miratimin e ndryshimit të statusit, nga tokë bujqësore në tokë truall, për ndërtimin e një fabrike të prodhimit të paneleve sanduiçe (kapanon 1 kat dhe zyra 2 kate), strukturë me funksion prodhues, industrial, përfshirë edhe ato me material porositësi nga shoqëria “emante” shpk | [`vendim/2018/331/`](vendim/2018/331/) | amending act | 1 | 2018-06-08 | 2018-06-08 |
+| PËR SHPALLJEN “ZONË ME PËRPARËSI ZHVILLIMI” TË “BAZËS SË TUBOVE”, ZHUPAN, FIER, ME SIPËRFAQE 49 347 m2, NË PRONËSI TË SHOQËRISË “ALBPETROL” SHA | [`vendim/2018/333/`](vendim/2018/333/) | in force | 1 | 2018-06-08 | 2018-06-08 |
+| Për miratimin e rregullave të hollësishme për prodhimin, kalimin, rregullat përjashtuese të prodhimit dhe kontrollin e prodhimit biologjik bimor dhe të algave të detit | [`vendim/2018/336/`](vendim/2018/336/) | in force | 1 | 2018-06-08 | 2018-06-08 |
+| Për miratimin e numrit të punonjësve me kontratë të përkohshme, për sezonin e verës 2018, në agjencinë kombëtare të zonave të mbrojtura, pranë ministrisë së turizmit dhe mjedisit | [`vendim/2018/337/`](vendim/2018/337/) | in force | 1 | 2018-06-08 | 2018-06-08 |
+| Për kriteret dhe mënyrën e ndarjes së çmimit “ambasador i kombit | [`vendim/2018/339/`](vendim/2018/339/) | in force | 1 | 2018-06-08 | 2018-06-08 |
+| Për përcaktimin e rregullave të hollësishme për kushtet dhe mënyrën e zgjedhjes së përfaqësuesve të këshillit koordinues të diasporës | [`vendim/2018/340/`](vendim/2018/340/) | in force | 1 | 2018-06-08 | 2018-06-08 |
+| Për lirim nga detyra | [`vendim/2018/341/`](vendim/2018/341/) | in force | 1 | 2018-06-08 | 2018-06-08 |
+| Për emërim në detyrë | [`vendim/2018/342/`](vendim/2018/342/) | in force | 1 | 2018-06-19 | 2018-06-19 |
+| PËR NJË SHTESË NË VENDIMIN NR. 561, DATË 29.7.2016, TË KËSHILLIT TË MINISTRAVE, “Për STANDARDIZIMIN DHE DISIPLINIMIN E SHPENZIMEVE TË KARBURANTIT NË NJËSITË E QEVERISJES SË PËRGJITHSHME” | [`vendim/2018/344/`](vendim/2018/344/) | in force | 1 | 2018-06-19 | 2018-06-19 |
+| Për rishpërndarjen e numrit të punonjësve organikë në njësitë e qeverisjes qendrore për vitin 2018 | [`vendim/2018/345/`](vendim/2018/345/) | in force | 1 | 2018-06-19 | 2018-06-19 |
+| Për një shtesë fondesh në buxhetin e vitit 2018, miratuar për ministrinë e turizmit dhe mjedisit, ministrinë e financave dhe ekonomisë dhe ministrinë e infrastrukturës dhe energjisë, për pagesën e shërbimeve juridike për përfaqësimin dhe mbrojtjen në çështjet e arbitrazhit ndërkombëtar | [`vendim/2018/347/`](vendim/2018/347/) | in force | 1 | 2018-06-19 | 2018-06-19 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i objektit “linja e re e furnizimit me ujë të ujësjellësit durrës” | [`vendim/2018/351/`](vendim/2018/351/) | in force | 1 | 2018-06-19 | 2018-06-19 |
+| Për disa ndryshime në vendimin nr. 101, datë 4.2.2015, të këshillit të ministrave, “për miratimin e paketës së shërbimeve shëndetësore, në kujdesin shëndetësor parësor publik, që financohet nga fondi i sigurimit të detyrueshëm të kujdesit shëndetësor | [`vendim/2018/353/`](vendim/2018/353/) | amending act | 1 | 2018-06-19 | 2018-06-19 |
+| Për sigurimin e jetës së ushtarakëve të forcave të armatosura të republikës së shqipërisë, që dërgohen në misione ushtarake dhe stërvitje jashtë vendit, për vitin 2018 | [`vendim/2018/361/`](vendim/2018/361/) | in force | 1 | 2018-06-25 | 2018-06-25 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “rikonstruksion i bllokut të pallateve në xhabije”, bashkia shkodër | [`vendim/2018/362/`](vendim/2018/362/) | in force | 1 | 2018-06-25 | 2018-06-25 |
+| Për dhënien me koncesion të shërbimit të kontrollit ligjor të instrumenteve matëse, nëpërmjet verifikimit të instrumenteve shpërndarëse të karburantit dhe gazit të lëngshëm dhe miratimin e bonusit në procedurën konkurruese që i jepet shoqërisë | [`vendim/2018/365/`](vendim/2018/365/) | in force | 1 | 2018-06-25 | 2018-06-25 |
+| Për miratimin e bonusit në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë për dhënien me koncesion/partneritet publik privat, për projektin e rrugës “porti i jahteve - bay-pass orikum - dukat (ura e shën elizës)” | [`vendim/2018/367/`](vendim/2018/367/) | in force | 1 | 2018-06-25 | 2018-06-25 |
+| Për disa ndryshime në vendimet e këshillit të ministrave nr. 1481, datë 12.11.2008; nr. 1657, datë 24.12.2008; nr. 100, datë 27.1.2009; nr. 167, datë 19.2.2009; nr. 286, datë 18.3.2009; nr. 450, datë 6.5.2009; nr. 611, datë 11.6.2009; nr. 677, datë 18.6.2009; nr. 706, datë 23.6.2009; nr. 805, datë 22.7.2009; nr. 1038, datë 14.10.2009; nr. 1134, datë 18.11.2009; nr. 1283, datë 23.12.2009; nr. 125, datë 17.2.2010; nr. 247, datë 13.4.2010; nr. 404, datë 26.5.2010; nr. 549, datë 7.7.2010; nr. 646, datë 28.7.2010; nr. 118, datë 17.2.2011; nr. 359, datë 4.5.2011; nr. 822, datë 23.11.2011; nr. 513, datë 1.8.2012; nr. 472, datë 30.5.2013; nr. 686, datë 16.8.2013; nr. 823, datë 7.10.2015; nr. 446, datë 15.6.2016, për miratimin e kalimit të pronësisë së disa parcelave ndërtimore në favor të poseduesve të objekteve informale, të ndryshuara | [`vendim/2018/371/`](vendim/2018/371/) | amending act | 1 | 2018-07-02 | 2018-07-02 |
+| PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI TË MINISTRISË SË KULTURËS DHE REVOKIMIN E SË DREJTËS SË PRONËSISË BASHKISË TIRANË, PËR SIPËRFAQEN PREJ 235 m2 , TË PASURISË ME NUMËR 1/256, ME SIPËRFAQE TOTALE 1644 m2, ME VENDNDODHJE NË ZONËN KADASTRALE 8150 | [`vendim/2018/372/`](vendim/2018/372/) | in force | 1 | 2018-06-25 | 2018-06-25 |
+| Për miratimin e ndryshimit të statusit, nga tokë bujqësore në tokë truall, për ndërtimin e një fabrike për prodhimin, ambalazhimin dhe shpërndarjen e ujit të pijshëm nga shoqëria “puka uji natyral” shpk | [`vendim/2018/380/`](vendim/2018/380/) | amending act | 1 | 2018-07-02 | 2018-07-02 |
+| Për kalimin në pronësi, nga ministria e mbrojtjes te bashkia poliçan, të pronës nr. 1069, me emërtim “kombinati mekanik zona b”, me vendndodhje në poliçan, dhe për një ndryshim në vendimin nr. 515, datë 18.7.2003, të këshillit të ministrave, “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi ministrisë së mbrojtjes”, të ndryshuar, dhe në vendimin nr. 207, datë 9.3.2011, të këshillit të ministrave, “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë poliçan, të qarkut të beratit”, të ndryshuar | [`vendim/2018/402/`](vendim/2018/402/) | amending act | 1 | 2018-07-09 | 2018-07-09 |
+| Për një shtesë fondi në buxhetin e vitit 2018, miratuar për komisionin qendror të zgjedhjeve, për përballimin e shpenzimeve për hapjen e kutive të votimit dhe të kutive të materialeve zgjedhore të zgjedhjeve për kuvendin e republikës së shqipërisë, të datës 25.6.2017, zgjedhjeve për kryetar të bashkisë kavajë, të datës 25.6.2017, dhe zgjedhjeve të pjesshme për kryetar të bashkisë kolonjë, të datës 20.11.2016 | [`vendim/2018/407/`](vendim/2018/407/) | in force | 1 | 2018-07-09 | 2018-07-09 |
+| Për dhënien e ndihmës financiare nga këshilli i ministrave i republikës së shqipërisë për qeverinë e republikës së greqisë, për lehtësimin e pasojave të dëmeve të shkaktuara nga zjarret masive në korrik 2018 | [`vendim/2018/444/`](vendim/2018/444/) | in force | 1 | 2018-07-25 | 2018-07-25 |
+| Për miratimin e projektdokumentit të programit buxhetor afatmesëm 2019-2021 | [`vendim/2018/462/`](vendim/2018/462/) | in force | 1 | 2018-08-07 | 2018-08-07 |
+| Për emërimin në detyrë të një anëtari të komisionit kombëtar rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura | [`vendim/2018/471/`](vendim/2018/471/) | in force | 1 | 2018-08-08 | 2018-08-08 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “ndërtimi i varrezave të reja”, bashkia shkodër | [`vendim/2018/474/`](vendim/2018/474/) | in force | 1 | 2018-08-08 | 2018-08-08 |
+| Për miratimin e tavaneve përfundimtare të shpenzimeve të programit buxhetor afatmesëm 2019-2021 | [`vendim/2018/476/`](vendim/2018/476/) | in force | 1 | 2018-08-08 | 2018-08-08 |
+| Për miratimin e marrëveshjes, ndërmjet republikës së shqipërisë dhe republikës së greqisë, mbi njohjen e ndërsjellë të lejeve të drejtimit | [`vendim/2018/479/`](vendim/2018/479/) | in force | 1 | 2018-08-08 | 2018-08-08 |
+| Për kalimin në përgjegjësi administrimi, nga ministria e turizmit dhe mjedisit dhe institucionet e saj të varësisë te ministria e arsimit, sportit dhe rinisë, për institucionet brenda fushës së veprimtarisë së saj, të mjediseve me vendndodhje në bulevardin “zhanë d’ark”, nr. 23, tiranë (ish-agjencia telegrafike shqiptare) | [`vendim/2018/481/`](vendim/2018/481/) | in force | 1 | 2018-08-08 | 2018-08-08 |
+| Për dhënien e lejes për hapjen e institucionit arsimor privat parauniversitar “kings tirana” | [`vendim/2018/482/`](vendim/2018/482/) | in force | 1 | 2018-08-08 | 2018-08-08 |
+| Për dhënien e lejes për hapjen e institucionit të arsimit të lartë jopublik, me statusin e kolegjit profesional të lartë, “tirana esthetics & style school” | [`vendim/2018/483/`](vendim/2018/483/) | in force | 1 | 2018-08-08 | 2018-08-08 |
+| Për dhënien e lejes për hapjen e institucionit arsimor privat parauniversitar të arsimit bazë “british school of tirana” | [`vendim/2018/484/`](vendim/2018/484/) | in force | 1 | 2018-08-08 | 2018-08-08 |
+| Për kthimin në atdhe të eshtrave të personalitetit të shquar të letrave shqipe dhe të kulturës mbarëkombëtare mid’hat frashëri | [`vendim/2018/485/`](vendim/2018/485/) | in force | 1 | 2018-08-08 | 2018-08-08 |
+| Për shpalljen e liqeneve të ulzës dhe të shkopetit si zonë bashkëmenaxhuese peshkimi | [`vendim/2018/486/`](vendim/2018/486/) | in force | 1 | 2018-08-08 | 2018-08-08 |
+| Për një shtesë fondi në buxhetin e vitit 2018, miratuar për ministrinë e turizmit dhe mjedisit dhe ministrinë e kulturës, për pagesën e kuotave të anëtarësimit në organizatat ndërkombëtare | [`vendim/2018/538/`](vendim/2018/538/) | in force | 1 | 2018-09-26 | 2018-09-26 |
+| PËR MIRATIMIN E MARRËVESHJES SË FINANCIMIT, NDËRMJET REPUBLIKËS SË SHQIPËRISË, TË PËRFAQËSUAR NGA MINISTRIA E FINANCAVE DHE EKONOMISË (MARRËSI) DHE SHOQËRISË RAJONALE TË MENAXHIMIT TË MBETJEVE TË KORÇËS (AGJENCIA E ZBATIMIT TË PROJEKTIT), DHE KfW FRANKFURT AM MAIN (KfW), PËR PROJEKTIN “MENAXHIMI I MBETJEVE TË NGURTA NË SHQIPËRINË JUGLINDORE, MASA SHOQËRUESE, FAZA 2 (RAJONI KORÇË)” | [`vendim/2018/539/`](vendim/2018/539/) | in force | 1 | 2018-09-26 | 2018-09-26 |
+| Për organizimin dhe funksionimin e shkollës së drejtorëve të institucioneve të arsimit parauniversitar dhe mënyrën e trajnimit e të certifikimit të tyre | [`vendim/2018/540/`](vendim/2018/540/) | in force | 1 | 2018-09-26 | 2018-09-26 |
+| Për miratimin e kodit të etikës për administratorët e falimentimit | [`vendim/2018/543/`](vendim/2018/543/) | in force | 1 | 2018-09-26 | 2018-09-26 |
+| Për miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të pasurive me numër 11/50 dhe 11/52, zona kadastrale 1159, bashkia shkodër | [`vendim/2018/545/`](vendim/2018/545/) | amending act | 1 | 2018-09-26 | 2018-09-26 |
+| Për rishpërndarje fondesh buxhetore brenda programeve të miratuara në buxhetin e vitit 2018 për ministrinë e shëndetësisë dhe mbrojtjes sociale | [`vendim/2018/547/`](vendim/2018/547/) | in force | 1 | 2018-09-26 | 2018-09-26 |
+| Për një shtesë fondi në buxhetin e vitit 2018, miratuar për agjencinë kombëtare të shoqërisë së informacionit | [`vendim/2018/599/`](vendim/2018/599/) | in force | 1 | 2018-10-18 | 2018-10-18 |
+| Për financimin e projektit “diaspora për zhvillim” dhe zbatimin e tij nga fondi shqiptar për zhvillimin e diasporës | [`vendim/2018/611/`](vendim/2018/611/) | in force | 1 | 2018-10-24 | 2018-10-24 |
+| Për dhënien me qira, me tarifë të reduktuar, të sallës b, kati 0 (underground), në mjediset e pallatit të kongreseve, komisionit të pavarur të kualifikimit | [`vendim/2018/646/`](vendim/2018/646/) | in force | 1 | 2018-11-07 | 2018-11-07 |
+| Për kartelat informative për shërbimet publike, që u ofrohen qytetarëve | [`vendim/2018/648/`](vendim/2018/648/) | in force | 1 | 2018-11-07 | 2018-11-07 |
+| Për rishpërndarjen e numrit rezervë të punonjësve të sistemit të drejtësisë për vitin 2018 | [`vendim/2018/650/`](vendim/2018/650/) | in force | 1 | 2018-11-07 | 2018-11-07 |
+| Për disa shtesa dhe ndryshime në vendimin nr. 781, datë 14.11.2007, të këshillit të ministrave, “për karakteristikat teknike e funksionale të pajisjeve fiskale, sistemit të integruar të kompjuterizuar për transferimet periodike, automatike, të deklarimeve financiare, sistemit të komunikimit, për procedurën e dokumentacionin për miratimin e tyre, dhe për kriteret për pajisjen me autorizim të shoqërive të autorizuara për ofrimin e pajisjeve fiskale”, të ndryshuar | [`vendim/2018/651/`](vendim/2018/651/) | amending act | 1 | 2018-11-07 | 2018-11-07 |
+| PËR MIRATIMIN LETËRMARRËVESHJES NDRYSHUESE TË MARRËVESHJES SË HUAS DHE TË PROJEKTIT, NDËRMJET REPUBLIKËS SË SHQIPËRISË, TË PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, E OPERATORIT TË SISTEMIT TË TRANSMETIMIT SHA, SI AGJENCIA E ZBATIMIT TË PROJEKTIT, DHE KfW FRANKFURT AM MAIN, PËR FINANCIMIN E PROJEKTIT “LINJA UNAZORE 110 KILOVOLT E SHQIPËRISË SË JUGUT”, NËPËRMJET NJË HUAJE PREJ 37 750 000 EUROSH, TË RATIFIKUAR ME LIGJIN NR. 10249, DATË 11.3.2010 | [`vendim/2018/652/`](vendim/2018/652/) | in force | 1 | 2018-11-07 | 2018-11-07 |
+| PËR MIRATIMIN E LETËRMARRËVESHJES NDRYSHUESE TË MARRËVESHJES SË HUAS DHE TË PROJEKTIT, NDËRMJET REPUBLIKËS SË SHQIPËRISË, TË PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, E OPERATORIT TË SISTEMIT TË TRANSMETIMIT SHA, SI AGJENCIA E ZBATIMIT TË PROJEKTIT, DHE KfW FRANKFURT AM MAIN, PËR FINANCIMIN E PROJEKTIT “LINJA UNAZORE 110 KILOVOLT E SHQIPËRISË SË JUGUT”, NËPËRMJET NJË HUAJE PREJ 10 750 000 EUROSH, TË RATIFIKUAR ME LIGJIN NR. 10250, DATË 11.3.2010 | [`vendim/2018/653/`](vendim/2018/653/) | in force | 1 | 2018-11-07 | 2018-11-07 |
+| PËR MIRATIMIN E LETËRMARRËVESHJES NDRYSHUESE TË MARRËVESHJES SË HUAS DHE TË PROJEKTIT, NDËRMJET REPUBLIKËS SË SHQIPËRISË, TË PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, E OPERATORIT TË SISTEMIT TË TRANSMETIMIT SHA, SI AGJENCIA E ZBATIMIT TË PROJEKTIT, DHE KfW FRANKFURT AM MAIN, PËR FINANCIMIN E PROJEKTIT “LINJA UNAZORE 110 KILOVOLT E SHQIPËRISË SË JUGUT”, NËPËRMJET NJË HUAJE PREJ 500 000 EUROSH, TË RATIFIKUAR ME LIGJIN NR. 10251, DATË 11.3.2010 | [`vendim/2018/654/`](vendim/2018/654/) | in force | 1 | 2018-11-07 | 2018-11-07 |
+| Për përcaktimin e autoritetit licencues hekurudhor | [`vendim/2018/657/`](vendim/2018/657/) | in force | 1 | 2018-11-07 | 2018-11-07 |
+| Për miratimin e kërkesave për menaxhimin e mbetjeve të metaleve | [`vendim/2018/660/`](vendim/2018/660/) | in force | 1 | 2018-11-07 | 2018-11-07 |
+| R zgjerimin e sipërfaqes së parkut kombëtar “lurë” dhe krijimin e parkut kombëtar “lurë-mali i dejës” | [`vendim/2018/661/`](vendim/2018/661/) | in force | 1 | 2018-11-07 | 2018-11-07 |
+| Për lirim nga detyra | [`vendim/2018/662/`](vendim/2018/662/) | in force | 1 | 2018-11-07 | 2018-11-07 |
+| Për lirim nga detyra | [`vendim/2018/663/`](vendim/2018/663/) | in force | 1 | 2018-11-07 | 2018-11-07 |
+| Për emërim në detyrë | [`vendim/2018/664/`](vendim/2018/664/) | in force | 1 | 2018-11-07 | 2018-11-07 |
+| Për miratimin e procedurave, të kritereve të vlerësimit dhe afateve të njoftimit për përzgjedhjen e kandidaturave për t‟u emëruar në pozicionin “drejtor i përgjithshëm i institutit të statistikave” | [`vendim/2018/669/`](vendim/2018/669/) | in force | 1 | 2018-11-16 | 2018-11-16 |
+| Për kriteret dhe procedurat e përzgjedhjes, të përfaqësimit, emërimit e shkarkimit, rregullat e funksionimit dhe masën e shpërblimit të anëtarëve të këshillit të statistikave | [`vendim/2018/670/`](vendim/2018/670/) | in force | 1 | 2018-11-16 | 2018-11-16 |
+| Për ngritjen, funksionimin dhe detyrat e komisionit kombëtar për nomenklaturën | [`vendim/2018/671/`](vendim/2018/671/) | in force | 1 | 2018-11-16 | 2018-11-16 |
+| Për miratimin e memorandumit të mirëkuptimit, ndërmjet qeverisë së mbretërisë së suedisë dhe shtabit të komandës supreme aleate për transformimin, si dhe shtabit suprem të fuqive aleate në evropë, në lidhje me dhënien e mbështetjes së shtetit pritës për ekzekutimin e operacioneve/stërvitjeve dhe aktiviteteve ushtarake të ngjashme të nato-s dhe notës së pranimit për t‟u bërë pjesë e tij | [`vendim/2018/672/`](vendim/2018/672/) | in force | 1 | 2018-11-16 | 2018-11-16 |
+| Për miratimin e ndryshimit të statusit nga kategoria e resursit “tokë bujqësore” në “tokë urbane” (truall), të pasurive me numër 265/40, zona kadastrale 2702, bashkia vau i dejës, numër 121/12, zona kadastrale 2375, bashkia durrës, dhe numër 355/47 e 355/51, zona kadastrale 3196, bashkia roskovec | [`vendim/2018/676/`](vendim/2018/676/) | amending act | 1 | 2018-11-16 | 2018-11-16 |
+| Për miratimin e letërmarrëveshjes së grantit, ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim, që vepron si administratore e fondeve grant, të siguruara nga dhurues të ndryshëm, nën fondin e besimit për ngritjen e kapaciteteve statistikore iii, për projektin e zhvillimit të strategjisë kombëtare të statistikave në shqipëri | [`vendim/2018/719/`](vendim/2018/719/) | in force | 1 | 2018-12-10 | 2018-12-10 |
+| Për organizimin dhe funksionimin e komitetit për pakicat kombëtare | [`vendim/2018/726/`](vendim/2018/726/) | in force | 1 | 2018-12-13 | 2018-12-13 |
+| Për kriteret dhe masën e përfitimit të kompensimit, në rast humbjeje të jetës në detyrë ose për shkak të saj, të punonjësit civil dhe personit civil që ka krijuar marrëdhënie bashkëpunimi të fshehtë me agjencinë e inteligjencës dhe sigurisë së mbrojtjes (aism) | [`vendim/2018/727/`](vendim/2018/727/) | in force | 1 | 2018-12-13 | 2018-12-13 |
+| Për përbërjen, funksionet, funksionimin, fushën e veprimtarisë, kriteret e anëtarësimit dhe modalitetet e punës së këshillit kombëtar të arsimit dhe formimit profesional | [`vendim/2018/729/`](vendim/2018/729/) | in force | 1 | 2018-12-13 | 2018-12-13 |
+| Për përcaktimin e aktiviteteve që përfshihen në fushën e prodhimit/zhvillimit të software-ve, si dhe procedurat për aplikimin e tatimfitimit nga personat juridikë që ushtrojnë këto aktivitete | [`vendim/2018/730/`](vendim/2018/730/) | in force | 1 | 2018-12-13 | 2018-12-13 |
+| Për shpërblimin e pensionistëve për festat e fundvitit, 2018 | [`vendim/2018/732/`](vendim/2018/732/) | in force | 1 | 2018-12-13 | 2018-12-13 |
+| Për kalimin në përgjegjësi administrimi, nga ministria e shëndetësisë dhe mbrojtjes sociale te ministria e arsimit, sportit dhe rinisë, të disa pasurive të paluajtshme, në zonën kadastrale 8525, për universitetin e elbasanit “aleksandër xhuvani” | [`vendim/2018/736/`](vendim/2018/736/) | in force | 1 | 2018-12-13 | 2018-12-13 |
+| Për dhënien në përdorim të përkohshëm, pa shpërblim, nga ministria e mbrojtjes te ministria e drejtësisë, për ushtrimin e veprimtarisë së organeve të qeverisjes së sistemit të drejtësisë, të një pjese të katit të parë dhe të katit të dytë në objektin nr. 14, të pronës nr. 12, me emërtim “komanda e doktrinave dhe stërvitjes”, me vendndodhje rruga e dibrës, tiranë | [`vendim/2018/741/`](vendim/2018/741/) | in force | 1 | 2018-12-19 | 2018-12-19 |
+| Për miratimin e planit strategjik për reformimin e sektorit të energjisë në shqipëri | [`vendim/2018/742/`](vendim/2018/742/) | in force | 1 | 2018-12-19 | 2018-12-19 |
+| Për miratimin e marrëveshjes kuadër, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së malit të zi, për marrëdhëniet e ndërsjella në menaxhimin e burimeve ujore ndërkufitare | [`vendim/2018/745/`](vendim/2018/745/) | in force | 1 | 2018-12-24 | 2018-12-24 |
+| Për miratimin e letërmarrëveshjes ndryshuese nr. 2 të marrëveshjes së grantit nr. tf0a1769, ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim, që vepron si administratore e fondeve të grantit të akorduar nga fondi i mirëbesimit me shumë donatorë, për financimin e projektit të zbatimit të nismës për transparencë në industrinë nxjerrëse në shqipëri (eiti) | [`vendim/2018/753/`](vendim/2018/753/) | in force | 1 | 2018-12-24 | 2018-12-24 |
+| Për shpërblimin dhe kompensimin e disa kategorive të veçanta për festat e fundvitit 2018 | [`vendim/2018/754/`](vendim/2018/754/) | in force | 1 | 2018-12-24 | 2018-12-24 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “zgjerimi i varrezave publike”, bashkia cërrik | [`vendim/2018/756/`](vendim/2018/756/) | in force | 1 | 2018-12-24 | 2018-12-24 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “rehabilitimi i rrjetit rrugor, bashkia shijak”, loti 1 | [`vendim/2018/757/`](vendim/2018/757/) | in force | 1 | 2018-12-24 | 2018-12-24 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “zgjerimi i rrugës hyrëse të qytetit, parkimi dhe rikualifikimi i qendrës së qytetit krujë” | [`vendim/2018/758/`](vendim/2018/758/) | in force | 1 | 2018-12-24 | 2018-12-24 |
+| Për dhënie ndihme financiare znj. ina gavrosh nuka, inspektor, punonjës policie i plagosur në krye të detyrës | [`vendim/2018/771/`](vendim/2018/771/) | in force | 1 | 2018-12-31 | 2018-12-31 |
+| Për miratimin e strategjisë afatmesme të menaxhimit të borxhit 2019-2021 | [`vendim/2018/774/`](vendim/2018/774/) | in force | 1 | 2018-12-31 | 2018-12-31 |
+| Për përcaktimin e kategorive të individëve që plotësojnë kriteret për ulje të tarifës vjetore të studimit në programet e ciklit të dytë të studimeve, në institucionet publike të arsimit të lartë | [`vendim/2018/780/`](vendim/2018/780/) | in force | 1 | 2018-12-28 | 2018-12-28 |
+| Për garantimin e transparencës në institucionet publike të arsimit të lartë | [`vendim/2018/781/`](vendim/2018/781/) | in force | 1 | 2018-12-28 | 2018-12-28 |
+| Për përcaktimin e kritereve dhe të procedurave të përzgjedhjes së anëtarëve të bordit të administrimit, përfaqësues të ministrisë përgjegjëse për arsimin, në institucionet publike të arsimit të lartë | [`vendim/2018/782/`](vendim/2018/782/) | in force | 1 | 2018-12-28 | 2018-12-28 |
+| Për vlerësimin e performancës në mësimdhënie të personelit akademik në institucionet e arsimit të lartë, edhe nëpërmjet sondazhit kombëtar të studentëve | [`vendim/2018/783/`](vendim/2018/783/) | in force | 1 | 2018-12-28 | 2018-12-28 |
+| Për miratimin e zonave arkeologjike “a” dhe “b”, të qytetit të durrësit dhe të planit për ruajtjen, mbrojtjen dhe administrimin e tyre | [`vendim/2018/786/`](vendim/2018/786/) | in force | 1 | 2018-12-31 | 2018-12-31 |
+| Për përbërjen, kompetencat, mënyrën e funksionimit e të shpërblimit të anëtarëve të këshillit kombëtar të muzeve | [`vendim/2018/788/`](vendim/2018/788/) | in force | 1 | 2018-12-31 | 2018-12-31 |
+| Për krijimin e fondit në mbështetje të ndërmarrjeve sociale dhe format e mbështetjes nëpërmjet subvencionit për ndërmarrjet sociale | [`vendim/2018/789/`](vendim/2018/789/) | in force | 1 | 2018-12-31 | 2018-12-31 |
+| Për rishpërndarje fondesh buxhetore brenda programeve të miratuara në buxhetin e vitit 2018 për ministrinë e shëndetësisë dhe mbrojtjes sociale | [`vendim/2018/800/`](vendim/2018/800/) | in force | 1 | 2018-12-31 | 2018-12-31 |
+| Për miratimin e dokumentit të politikave për pyjet në shqipëri, 2019-2030 | [`vendim/2018/814/`](vendim/2018/814/) | in force | 1 | 2018-12-31 | 2018-12-31 |
+| Për financimin e projektit “rikonstruksioni i stadiumit të futbollit “zeqir ymeri”, kukës” | [`vendim/2018/817/`](vendim/2018/817/) | in force | 1 | 2018-12-31 | 2018-12-31 |
+| Për trajtimin financiar të anëtarëve të Bordit të Përzgjedhjes, të Komisionit të Jashtëm të Vlerësimit kalimtar të punonjësve të Policisë së Shtetit, të Gardës së Republikës dhe të Shërbimit për Çështjet e Brendshme dhe ankesat në Ministrinë e Brendshme dhe të sekretariatit teknik pranë këtij Komisioni | [`vendim/2019/14/`](vendim/2019/14/) | in force | 1 | 2019-01-23 | 2019-01-23 |
+| Për emërim në detyrë | [`vendim/2019/41/`](vendim/2019/41/) | in force | 1 | 2019-02-04 | 2019-02-04 |
+| Për miratimin e Strategjisë për Kontrollin e Armëve të Vogla, të Lehta, Municioneve dhe Eksplozivëve 2019-2024 dhe të Planit të Veprimit 2019-2021 | [`vendim/2019/50/`](vendim/2019/50/) | in force | 1 | 2019-02-08 | 2019-02-08 |
+| Për lirimin dhe emërimin në detyrë të drejtorit të Përgjithshëm të Autoritetit Kombëtar të Ushqimit | [`vendim/2019/56/`](vendim/2019/56/) | in force | 1 | 2019-02-06 | 2019-02-06 |
+| Për kriteret dhe mënyrën e zonimit të territorit të një zone të mbrojtur mjedisore | [`vendim/2019/57/`](vendim/2019/57/) | in force | 1 | 2019-02-12 | 2019-02-12 |
+| Për emërim në detyrë | [`vendim/2019/61/`](vendim/2019/61/) | in force | 1 | 2019-02-19 | 2019-02-19 |
+| Për emërim në detyrë | [`vendim/2019/62/`](vendim/2019/62/) | in force | 1 | 2019-02-19 | 2019-02-19 |
+| Për lirim nga detyra | [`vendim/2019/63/`](vendim/2019/63/) | in force | 1 | 2019-02-19 | 2019-02-19 |
+| Për miratimin e rregullave dhe të procedurave të hollësishme për administrimin e llogarive, krijimin dhe përdorimin e të ardhurave të Fondit Shqiptar për Zhvillimin e Diasporës | [`vendim/2019/67/`](vendim/2019/67/) | in force | 1 | 2019-02-19 | 2019-02-19 |
+| Për kthim fondi në Buxhetin e Shtetit | [`vendim/2019/194/`](vendim/2019/194/) | in force | 1 | 2019-04-15 | 2019-04-15 |
+| Për miratimin e Marrëveshjes së Ortakëve ”Turk Hava Yollari” AO, ”Albcontrol”,SH.A., dhe ”MND Investiment”, sh.p.k., si dhe statutin e shoqërisë ”Air Albania ”, sh.p.k | [`vendim/2019/196/`](vendim/2019/196/) | in force | 1 | 2019-04-15 | 2019-04-15 |
+| Për miratimin e kontratës së koncesionit/partneritetit publik privat “Për ofrimin e shërbimit laboratorik të spitaleve universitare, rajonale dhe atyre bashkiake të sarandës dhe lushnjës” | [`vendim/2019/258/`](vendim/2019/258/) | in force | 1 | 2019-05-02 | 2019-05-02 |
+| Për emërimin në detyrë të një anëtari të Komisionit Kombëtar Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura | [`vendim/2019/382/`](vendim/2019/382/) | in force | 1 | 2019-06-14 | 2019-06-14 |
+| Për një shtesë fondi në buxhetin e vitit 2019, miratuar për Ministrinë e Mbrojtjes, për kompensimin e veçantë të familjeve të ushtarakëve të rënë në krye të detyrës, gjatë përmbushjes së misionit ushtarak, jashtë vendit | [`vendim/2019/383/`](vendim/2019/383/) | in force | 1 | 2019-06-14 | 2019-06-14 |
+| Për përcaktimin e dokumentacionit për të përfituar strehim sipas çdo programi social të strehimit dhe të afateve e të procedurave të miratimit nga organet e vetëqeverisjes vendore | [`vendim/2019/384/`](vendim/2019/384/) | in force | 1 | 2019-06-14 | 2019-06-14 |
+| Për miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 274/18, zona kadastrale 3115, Bashkia Përmet | [`vendim/2019/388/`](vendim/2019/388/) | amending act | 1 | 2019-06-14 | 2019-06-14 |
+| Për autorizimin e drejtorit të përgjithshëm të Agjencisë Kombëtare të Shoqërisë së Informacionit për negociimin e nënshkrimin e rinovimit të Marrëveshjes së Partneritetit Strategjik, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe shoqërisë “Microsoft Corporation” | [`vendim/2019/390/`](vendim/2019/390/) | in force | 1 | 2019-06-28 | 2019-06-28 |
+| Për miratimin e dokumentit “Standardet shtetërore për specifikimet teknike të informacionit gjeohapësinor në Shqipëri - tema ’Modeli digjital i terrenit” | [`vendim/2019/398/`](vendim/2019/398/) | in force | 1 | 2019-06-28 | 2019-06-28 |
+| Për një shtesë fondi në buxhetin e vitit 2019, miratuar për Qendrën Kombëtare të Kinematografisë | [`vendim/2019/571/`](vendim/2019/571/) | in force | 1 | 2019-09-03 | 2019-09-03 |
+| Për funksionimin dhe mënyrën e zhvillimit të veprimtarisë së drejtorive rajonale të trashëgimisë kulturore | [`vendim/2019/581/`](vendim/2019/581/) | in force | 1 | 2019-09-03 | 2019-09-03 |
+| Për miratimin e ndryshimit të statusit nga kategoria e resursit “tokë bujqësore” në “tokë urbane” truall, të pasurisë me numër 119/24, zona kadastrale 2632, Bashkia Poliçan | [`vendim/2019/582/`](vendim/2019/582/) | amending act | 1 | 2019-09-03 | 2019-09-03 |
+| Për mbulimin e plotë të shpenzimeve të mjekimit të znj. Marvela Gllavina | [`vendim/2019/583/`](vendim/2019/583/) | in force | 1 | 2019-09-03 | 2019-09-03 |
+| Për përbërjen, organizimin dhe funksionimin e Këshillit Kombëtar të Shëndetësisë | [`vendim/2019/584/`](vendim/2019/584/) | in force | 1 | 2019-09-03 | 2019-09-03 |
+| Për miratimin e logos kombëtare për produktet me emërtim “Specialitet tradicional i garantuar” | [`vendim/2019/677/`](vendim/2019/677/) | in force | 1 | 2019-10-22 | 2019-10-22 |
+| Për një shtesë fondesh, në buxhetin e miratuar për vitin 2019, për financimin e aktiviteteve që do të organizohen me rastin e 75-vjetorit të Çlirimit të vendit | [`vendim/2019/678/`](vendim/2019/678/) | in force | 1 | 2019-10-29 | 2019-10-29 |
+| Për dhënien me qira, me tarifë të reduktuar, të sallës B, kati 0 (underground) në ambientet e Pallatit të Kongreseve, Komisionit të Jashtëm të Vlerësimit | [`vendim/2019/690/`](vendim/2019/690/) | in force | 1 | 2019-10-29 | 2019-10-29 |
+| Për emërimin e drejtorit të përgjithshëm të Drejtorisë së Përgjithshme të Parandalimit të Pastrimit të Parave | [`vendim/2019/691/`](vendim/2019/691/) | in force | 1 | 2019-10-29 | 2019-10-29 |
+| Për lirim nga detyra | [`vendim/2020/48/`](vendim/2020/48/) | in force | 1 | 2020-01-31 | 2020-01-31 |
+| Për miratimin e kuadrit makroekonomik e fiskal, për periudhën 2021-2023 | [`vendim/2020/53/`](vendim/2020/53/) | in force | 1 | 2020-01-31 | 2020-01-31 |
+| Për miratimin e ndryshimit me shkëmbim letrash të marrëveshjes kuadër të financimit, ndërmjet Republikës së Shqipërisë dhe Bankës për Zhvillim të Këshillit të Evropës, për punët e komunitetit IV, të Fondit Shqiptar të Zhvillimit, projekti “Zhvillimi i alpeve dhe i zonave bregdetare”, ratifikuar me ligjin nr. 69/2015 | [`vendim/2020/55/`](vendim/2020/55/) | amending act | 1 | 2020-01-31 | 2020-01-31 |
+| Për shpronësimin, marrjen në përdorim të përkohshëm dhe vendosjen e servitutit mbi pasuritë e paluajtshme, pronë private, për interes publik, që preken nga punimet për testimin me ujë të tubacionit, si dhe përfundimi i punimeve dhe mbrojtja e tubacionit, pjesë e projektit të Gazsjellësit Trans Adriatic Pipeline (Projekti TAP), në zonat Berat, Skrapar, Fier, Lushnjë, Devoll dhe Korçë | [`vendim/2020/58/`](vendim/2020/58/) | in force | 1 | 2020-01-31 | 2020-01-31 |
+| Për deklarimin pasuri kulturore “Ansambël historik urban”, zonës mbrojtëse të tij, dhe zonës arkeologjike “B”, të fshatit Voskopojë dhe miratimin e planit për ruajtjen, mbrojtjen dhe administrimin e tyre | [`vendim/2020/60/`](vendim/2020/60/) | in force | 1 | 2020-01-31 | 2020-01-31 |
+| Pёr lirim nga detyra | [`vendim/2020/107/`](vendim/2020/107/) | in force | 1 | 2020-02-17 | 2020-02-17 |
+| Për emërim në detyrë | [`vendim/2020/108/`](vendim/2020/108/) | in force | 1 | 2020-02-17 | 2020-02-17 |
+| Për emërim në detyrë | [`vendim/2020/109/`](vendim/2020/109/) | in force | 1 | 2020-02-17 | 2020-02-17 |
+| Për emërimin në detyrë të një anëtari të Komisionit Kombëtar Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura | [`vendim/2020/111/`](vendim/2020/111/) | in force | 1 | 2020-02-17 | 2020-02-17 |
+| Për përcaktimin e procedurës së vlerësimit të kontributit të donacioneve në formën e pasurive të paluajtshme | [`vendim/2020/118/`](vendim/2020/118/) | in force | 1 | 2020-02-17 | 2020-02-17 |
+| Për kriteret e rregullat dhe për lejimin e veprimtarisë për mbledhjen, aksesin e përdorimin e materialeve dhe të mostrave nga mjediset e zonave të mbrojtura mjedisore | [`vendim/2020/127/`](vendim/2020/127/) | in force | 1 | 2020-02-17 | 2020-02-17 |
+| Për përcaktimin e aktiviteteve, të kritereve dhe të procedurave për personat juridikë që ushtrojnë veprimtari ekonomike në industrinë automotive | [`vendim/2020/141/`](vendim/2020/141/) | in force | 1 | 2020-02-24 | 2020-02-24 |
+| Për kushtet, rregullat dhe dokumentet që shoqërojnë kërkesën për dhënien e lejes së ndërtimit për rindërtimin, riparimin apo restaurimin e ndërtimeve të destinuara për qëllime banimi, të dëmtuara si pasojë e fatkeqësisë natyrore, për përjashtimin nga pagesa e taksës së ndikimit në infrastrukturë | [`vendim/2020/145/`](vendim/2020/145/) | in force | 1 | 2020-02-24 | 2020-02-24 |
+| Për hapjen e Konsullatës së Përgjithshme të Republikës së Shqipërisë në Strugë, Republika e Maqedonisë së Veriut | [`vendim/2020/153/`](vendim/2020/153/) | in force | 1 | 2020-02-24 | 2020-02-24 |
+| Për kalimin e së drejtës së pronësisë mbi parcelat e objekteve të legalizuara dhe kompensimin e pronarëve të pasurive që preken prej tyre | [`vendim/2020/155/`](vendim/2020/155/) | in force | 1 | 2020-02-24 | 2020-02-24 |
+| Për dhënien e statusit të veçantë Akademisë së Forcave të Armatosura, si institucioni i vetëm publik i arsimit të lartë, në fushën e mbrojtjes dhe të sigurisë kombëtare, si dhe organizimin e funksionimin e saj | [`vendim/2020/156/`](vendim/2020/156/) | in force | 1 | 2020-02-24 | 2020-02-24 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Rikonstruksion i rrugës ’Dhimitër Shuteriqi’”, në Tiranë | [`vendim/2020/158/`](vendim/2020/158/) | in force | 1 | 2020-02-24 | 2020-02-24 |
+| Për miratimin e buxhetit për autoritetin e komunikimeve elektronike dhe postare, për vitin 2020 | [`vendim/2020/159/`](vendim/2020/159/) | in force | 1 | 2020-02-24 | 2020-02-24 |
+| Për caktimin e njësive zbatuese për projektimin, rindërtimin dhe rikonstruksionin e objekteve arsimore | [`vendim/2020/165/`](vendim/2020/165/) | in force | 1 | 2020-02-24 | 2020-02-24 |
+| Për mbulimin e shpenzimeve të mjekimit të z. Besjan Çela | [`vendim/2020/232/`](vendim/2020/232/) | in force | 1 | 2020-03-20 | 2020-03-20 |
+| Për mbulimin e shpenzimeve të mjekimit të z. Ilir Ohri | [`vendim/2020/233/`](vendim/2020/233/) | in force | 1 | 2020-03-20 | 2020-03-20 |
+| Për marrjen e masave për ofrimin e asistencës në banesë ndaj shtresave në nevojë, në kushtet e epidemisë së shkaktuar nga COVID-19 | [`vendim/2020/236/`](vendim/2020/236/) | in force | 1 | 2020-03-20 | 2020-03-20 |
+| Për kalimin në pronësi të bashkisë Elbasan, për njësinë administrative Labinot-Fushë, të sipërfaqes prej 18493 m2, e llojit e pafrytshme, me vendndodhje në zonën kadastrale 2355 | [`vendim/2020/344/`](vendim/2020/344/) | in force | 1 | 2020-05-04 | 2020-05-04 |
+| Për procedurat për emërimin dhe trajtimin financiar të nëpunësve të emëruar nga institucionet e tjera në misionet diplomatike të Republikës së Shqipërisë | [`vendim/2020/345/`](vendim/2020/345/) | in force | 1 | 2020-05-04 | 2020-05-04 |
+| Për dhënien e ndihmës me personel infermier për Republikën e Italisë | [`vendim/2020/354/`](vendim/2020/354/) | in force | 1 | 2020-05-04 | 2020-05-04 |
+| Për sigurimin e jetës së punonjësve të shërbimit të mbrojtjes nga zjarri dhe shpëtimin | [`vendim/2020/382/`](vendim/2020/382/) | in force | 1 | 2020-05-18 | 2020-05-18 |
+| Për miratimin e listës së standardeve të harmonizuara shqiptare me karakter referues për sigurinë e lodrave, të vendosura në ambiente publike dhe private | [`vendim/2020/383/`](vendim/2020/383/) | in force | 1 | 2020-05-18 | 2020-05-18 |
+| Për miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të një sipërfaqeje të pasurisë me numër 242/2, zona kadastrale 1031, Bashkia Durrës | [`vendim/2020/390/`](vendim/2020/390/) | amending act | 1 | 2020-05-18 | 2020-05-18 |
+| Për miratimin e ndryshimit të statusit, nga kategoria e resursit “Tokë bujqësore” në “Tokë urbane”, truall, të një sipërfaqeje të pasurisë me numër 51/56, zona kadastrale 3428, Bashkia Shkodër | [`vendim/2020/393/`](vendim/2020/393/) | amending act | 1 | 2020-05-18 | 2020-05-18 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Rikonstruksion i rrugës “Mihal Grameno”, si dhe degëzimit të rrugës “Budi” me depon e ujit (faza e dytë)”, në Tiranë | [`vendim/2020/394/`](vendim/2020/394/) | in force | 1 | 2020-05-18 | 2020-05-18 |
+| Për mënyrën e organizimit e të funksionimit të Agjencisë Shtetërore për Shpronësimin | [`vendim/2020/395/`](vendim/2020/395/) | in force | 1 | 2020-05-18 | 2020-05-18 |
+| Për propozimin kuvendit të Republikës së Shqipërisë të kandidatëve për Kryetar të Komisionit të Prokurimit Publik | [`vendim/2020/529/`](vendim/2020/529/) | in force | 1 | 2020-07-07 | 2020-07-07 |
+| Për procedurat, kriteret dhe përparësitë për akordimin e grantit të menjëhershëm për banesat me kosto të ulët nga buxheti i shtetit | [`vendim/2020/555/`](vendim/2020/555/) | in force | 1 | 2020-07-17 | 2020-07-17 |
+| Për disa ndryshime dhe shtesa në vendimin nr.425, datë 27.5.2020, të Këshillit të Ministrave, “Për procedurat e përzgjedhjes së subjekteve të pajisura me licencë për projektim, zbatim, mbikëqyrje dhe kolaudim në pasuritë kulturore, për kryerjen e investimeve me fonde publike në pasuritë kulturore” | [`vendim/2020/560/`](vendim/2020/560/) | amending act | 1 | 2020-07-17 | 2020-07-17 |
+| Për krijimin e bazës të të dhënave të sistemit të krahasimit dhe vlerësimit të sigurt të identifikimit personal (PISCES) dhe shkëmbimin e të dhënave me sistemin total të menaxhimit (TIMS) | [`vendim/2020/573/`](vendim/2020/573/) | in force | 1 | 2020-07-29 | 2020-07-29 |
+| Për miratimin e kuadrit makroekonomik e fiskal, të rishikuar, për periudhën 2021-2023 | [`vendim/2020/574/`](vendim/2020/574/) | in force | 1 | 2020-07-29 | 2020-07-29 |
+| Për përcaktimin e institucioneve publike që administrojnë strehët, të kritereve, procedurave dhe kapaciteteve të mjaftueshme për të menaxhuar ҫështjet sociale, financiare e teknike, si dhe të procedurave të administrimit e të mirëmbajtjes së strehëve të përkohshme, kompetencave të subjekteve përgjegjëse dhe bashkëpunimit ndërmjet tyre | [`vendim/2020/579/`](vendim/2020/579/) | in force | 1 | 2020-07-29 | 2020-07-29 |
+| Për procedurat e blerjes nga tregu, të vlerësimit e të shitjes, si dhe kriteret e përcaktimit të ҫmimit të shitjes së truallit familjeve që përfitojnë banesa me kosto të ulët, në varësi të nivelit të të ardhurave të tyre | [`vendim/2020/580/`](vendim/2020/580/) | in force | 1 | 2020-07-29 | 2020-07-29 |
+| Për dhënien e miratimit për një ndryshim në kontratën e qirasë me tarifën 1 EURO/Kontrata, të miratuar me vendimin nr. 642, datë 2.10.2019, të Këshillit të Ministrave, të ndryshuar | [`vendim/2020/589/`](vendim/2020/589/) | amending act | 1 | 2020-07-29 | 2020-07-29 |
+| Për përcaktimin e zonës ku do të lejohet vendosja e lojës së fatit, e kategorisë “Kazino”, në qytetin e Tiranës | [`vendim/2020/689/`](vendim/2020/689/) | in force | 1 | 2020-09-09 | 2020-09-09 |
+| Për miratimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë (Marrësi), dhe Kfw Frankfurt am Main (Kfw), për financimin e shërbimeve të ekspertit për përgatitjen e programit të menaxhimit të qëndrueshëm të mbetjeve të ngurta dhe miqësor ndaj klimës | [`vendim/2020/719/`](vendim/2020/719/) | in force | 1 | 2020-09-18 | 2020-09-18 |
+| Për shpalljen e zonës së re për zhvillim në Njësinë Administrative Manzë, Bashkia Durrës, dhe caktimin e Fondit Shqiptar të Zhvillimit si njësi zbatuese | [`vendim/2020/730/`](vendim/2020/730/) | in force | 1 | 2020-09-18 | 2020-09-18 |
+| Për përdorimin e fondit të rindërtimit, miratuar në buxhetin e vitit 2020, për financimin e përgatitjes së shesheve të ndërtimit në bashkitë Kurbin, Lezhë dhe Durrës | [`vendim/2020/731/`](vendim/2020/731/) | in force | 1 | 2020-09-18 | 2020-09-18 |
+| Për përdorimin e fondit të rindërtimit, miratuar në buxhetin e vitit 2020, për financimin e rikonstruksionit ose të riparimit të banesave individuale, të njësive të banimit në ndërtesa (pallat), si dhe mjediseve në bashkëpronësi ose të përbashkëta në ndërtesa (pallat), në bashkitë Krujë, Shijak, Durrës dhe Tiranë | [`vendim/2020/732/`](vendim/2020/732/) | in force | 1 | 2020-09-18 | 2020-09-18 |
+| Për miratimin e dokumentit “Standardet shtetërore për specifikimet teknike të informacionit gjeohapësinor në Shqipëri - tema: Mbulesa e tokës” | [`vendim/2020/809/`](vendim/2020/809/) | in force | 1 | 2020-10-28 | 2020-10-28 |
+| Për miratimin e dokumentit “Standardet shtetërore për specifikimet teknike të informacionit gjeohapësinor në Shqipëri - tema: Përdorimi i tokës” | [`vendim/2020/811/`](vendim/2020/811/) | in force | 1 | 2020-10-29 | 2020-10-29 |
+| Për miratimin e dokumentit “Standardet shtetërore për specifikimet teknike të informacionit gjeohapësinor në Shqipëri - tema: Sistemet e rrjeteve gjeografike” | [`vendim/2020/813/`](vendim/2020/813/) | in force | 1 | 2020-10-28 | 2020-10-28 |
+| Për ndihmën financiare të disa prej kategorive kryesore të ndërmarrjeve, të cilat zbatojnë protokollet e sigurisë, në kuadër të parandalimit e të kontrollit të pandemisë COVID-19 | [`vendim/2020/856/`](vendim/2020/856/) | in force | 1 | 2020-11-09 | 2020-11-09 |
+| Për miratimin e ndërtimit të centralit gjenerues të energjisë elektrike eolike dhe veprave ndihmëse në zonën e Semanit, fshati Grykë, Njësia Administrative Topojë, Bashkia Fier, qarku Fier, nga shoqëria “Albanian General Eletricity” sh.a | [`vendim/2020/859/`](vendim/2020/859/) | in force | 1 | 2020-11-09 | 2020-11-09 |
+| Për emërimin e drejtorit të përgjithshëm të Agjencisë Shtetërore për Shpronësimin | [`vendim/2020/860/`](vendim/2020/860/) | in force | 1 | 2020-11-09 | 2020-11-09 |
+| Për miratimin e listës së emrave gjeografikë të romanizuar | [`vendim/2020/948/`](vendim/2020/948/) | in force | 1 | 2020-12-04 | 2020-12-04 |
+| Për miratimin e procedurave e të kushteve të certifikimit të performancës së energjisë së ndërtesave dhe të modelit, përmbajtjes e kushteve të regjistrimit të “Certifikatës së performancës së energjisë së ndërtesave” | [`vendim/2020/958/`](vendim/2020/958/) | in force | 1 | 2020-12-04 | 2020-12-04 |
+| Për mbulimin e shpenzimeve të mjekimit të z. Kristjan Çareri | [`vendim/2020/974/`](vendim/2020/974/) | in force | 1 | 2020-12-04 | 2020-12-04 |
+| Për përdorimin e fondit të rindërtimit për financimin e hartimit të projektit të ndërhyrjeve rehabilituese/përshtatëse të nevojshme për kthimin e strukturës së objekteve, që janë klasifikuar si objekte me dëmtime të mëdha strukturore ose dëmtime shumë të rënda jostrukturore, në Bashkinë Kamzë | [`vendim/2020/979/`](vendim/2020/979/) | in force | 1 | 2020-12-04 | 2020-12-04 |
+| Për miratimin e dokumentit “Standardet shtetërore për specifikimet teknike të informacionit gjeohapësinor në Shqipëri - tema: Demografia” | [`vendim/2020/996/`](vendim/2020/996/) | in force | 1 | 2020-12-16 | 2020-12-16 |
+| Për miratimin e raportit të pestë periodik kombëtar mbi zbatimin e konventës “Për eliminimin e të gjitha formave të diskriminimit ndaj grave” | [`vendim/2020/1077/`](vendim/2020/1077/) | in force | 1 | 2021-01-07 | 2021-01-07 |
+| Për përdorimin e fondit të rindërtimit për financimin e rikonstruksionit të banesave individuale dhe njësive të banimit në ndërtesa (pallat), si dhe mjediseve në bashkëpronësi ose të përbashkëta në ndërtesa (pallat), në bashkitë Krujë dhe Lezhë | [`vendim/2020/1135/`](vendim/2020/1135/) | in force | 1 | 2021-01-07 | 2021-01-07 |
+| Për përdorimin e fondit të rindërtimit për financimin e hartimit të projektit të ndërhyrjeve rehabilituese/përshtatëse, të nevojshme për kthimin e strukturës së objekteve që janë klasifikuar si objekte me dëmtime të mëdha strukturore ose dëmtime shumë të rënda jostrukturore, në Bashkinë Lezhë | [`vendim/2020/1136/`](vendim/2020/1136/) | in force | 1 | 2021-01-07 | 2021-01-07 |
+| Për përcaktimin e metodologjisë dhe të procedurave të monitorimit të qarkullimit në fushën e hidrokarbureve | [`vendim/2020/1185/`](vendim/2020/1185/) | in force | 1 | 2021-02-19 | 2021-02-19 |
+| Për miratimin e rregullave teknike të projektimit e të ndërtimit për furnizimin me ujë dhe kanalizimin | [`vendim/2021/83/`](vendim/2021/83/) | in force | 1 | 2021-02-17 | 2021-02-17 |
+| Për miratimin e marrëveshjes shtesë ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim, që vepron si administratore e fondeve grant, të siguruara nga një Fond i Posaçëm i Aksionarëve të BERZH-it, për projektin e detajuar të linjës hekurudhore Tiranë-Durrës dhe vlerësimin financiar/ekonomik të të gjithë rrjetit hekurudhor shqiptar, të marrëveshjes së grantit, ratifikuar me ligjin nr. 63/2015 | [`vendim/2021/93/`](vendim/2021/93/) | in force | 1 | 2021-02-19 | 2021-02-19 |
+| Për miratimin e memorandumit të mirëkuptimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Turqisë, mbi punimet e ndërtimit | [`vendim/2021/94/`](vendim/2021/94/) | in force | 1 | 2021-02-19 | 2021-02-19 |
+| Për miratimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Turqisë, për bashkëpunim në fushën e shëndetësisë | [`vendim/2021/95/`](vendim/2021/95/) | in force | 1 | 2021-02-19 | 2021-02-19 |
+| Për përcaktimin e Ministrisë së Infrastrukturës dhe Energjisë si autoritet kontraktor për zhvillimin e mundshëm të procedurës së koncesionit/partneritetit publik privat, për portin në Triport, Vlorë | [`vendim/2021/100/`](vendim/2021/100/) | in force | 1 | 2021-02-19 | 2021-02-19 |
+| Për dhënie ndihme financiare familjes së Dëshmorit të Atdheut Arjan Sala | [`vendim/2021/208/`](vendim/2021/208/) | in force | 1 | 2021-03-29 | 2021-03-29 |
+| Për shpronësim, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës 110 kV NST Sallmone - Gjiri Lalëzit dhe shtesë trakti 110 kV NST | [`vendim/2021/255/`](vendim/2021/255/) | in force | 1 | 2021-05-11 | 2021-05-11 |
+| Për mbulimin e shpenzimeve të mjekimit të z. Gerond Husi | [`vendim/2021/299/`](vendim/2021/299/) | in force | 1 | 2021-05-21 | 2021-05-21 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Itinerare këmbësorësh me pistë vrapimi dhe biçikletash në Parkun e Liqenit Artificial”, Tiranë | [`vendim/2021/351/`](vendim/2021/351/) | in force | 1 | 2021-06-18 | 2021-06-18 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i objektit “Për ndërtim, përmirësim, shfrytëzim, mirëmbajtje të autostradës “Milot - Morinë”” | [`vendim/2021/352/`](vendim/2021/352/) | in force | 1 | 2021-06-18 | 2021-06-18 |
+| Për shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Sistemim, asfaltim i rrugës Allamani, Fushë-Krujë” | [`vendim/2021/353/`](vendim/2021/353/) | in force | 1 | 2021-06-18 | 2021-06-18 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Shtesë e impiantit të përpunimit të ujit të pijshëm Bovillë me 1 800 l/sek, në fazën e dytë të zbatimit me 1 200 l/sek” | [`vendim/2021/355/`](vendim/2021/355/) | in force | 1 | 2021-06-18 | 2021-06-18 |
+| Për përcaktimin e kritereve për dhënien dhe kohëzgjatjen e pushimeve për punonjësit e Policisë së Burgjeve | [`vendim/2021/356/`](vendim/2021/356/) | in force | 1 | 2021-06-18 | 2021-06-18 |
+| Për miratimin e memorandumit të mirëkuptimit të nënshkruar, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Shëndetësisë dhe Mbrojtjes Sociale e Ministri i Shtetit për Rindërtimin, dhe korporatës “Oracle”, për dhurimin e së drejtës për të aksesuar dhe përdorur sistemin elektronik “Oracle” të menaxhimit shëndetësor për COVID-19 | [`vendim/2021/358/`](vendim/2021/358/) | in force | 1 | 2021-06-18 | 2021-06-18 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private që preken nga realizimi i projektit ”Zgjerimi i varrezave publike, qyteti Çorovodë” | [`vendim/2021/536/`](vendim/2021/536/) | in force | 1 | 2021-09-23 | 2021-09-23 |
+| Për miratimin e nomenklaturës së shteteve dhe territoreve për statistikat e tregtisë së jashtme të mallrave dhe ndarjen gjeografike për statistikat e tjera të biznesit | [`vendim/2021/541/`](vendim/2021/541/) | in force | 1 | 2021-10-01 | 2021-10-01 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Unaza Lindore e Kavajës” | [`vendim/2021/551/`](vendim/2021/551/) | in force | 1 | 2021-10-01 | 2021-10-01 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Ndërtim rruge, Unazë (Ish-Kundërajrori)”, Korçë | [`vendim/2021/552/`](vendim/2021/552/) | in force | 1 | 2021-10-01 | 2021-10-01 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Rehabilitimi i fasadës së pallatit te kryqëzimi i rrugës së Dibrës me Unazën e Vogël”, Tiranë | [`vendim/2021/553/`](vendim/2021/553/) | in force | 1 | 2021-10-01 | 2021-10-01 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikualifikimi i sheshit të Kronit të Bogës” | [`vendim/2021/554/`](vendim/2021/554/) | in force | 1 | 2021-10-01 | 2021-10-01 |
+| Për miratimin e rregullit teknik “Për pajisjet mbrojtëse personale (PMP) dhe pёrcaktimin e listёs së standardeve të harmonizuara ” | [`vendim/2021/674/`](vendim/2021/674/) | in force | 1 | 2021-11-16 | 2021-11-16 |
+| Për miratimin e rregullores ”Për licencimin e subjekteve që ushtrojnë veprimtarinë si bursë DLT” | [`vendim/2021/708/`](vendim/2021/708/) | in force | 1 | 2021-11-26 | 2021-11-26 |
+| Për lirim nga detyra | [`vendim/2021/712/`](vendim/2021/712/) | in force | 1 | 2021-11-26 | 2021-11-26 |
+| Për emërim në detyrë | [`vendim/2021/713/`](vendim/2021/713/) | in force | 1 | 2021-11-26 | 2021-11-26 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni i rrugës “Sabri Kosturi”, Lushnjë” | [`vendim/2021/720/`](vendim/2021/720/) | in force | 1 | 2021-11-26 | 2021-11-26 |
+| Për lirimin nga detyra të drejtorit Ekzekutiv të Autoritetit Të Aviacionit Civil | [`vendim/2021/722/`](vendim/2021/722/) | in force | 1 | 2021-11-26 | 2021-11-26 |
+| Për emërimin e drejtorit Ekzekutiv të Autoritetit të Aviacionit Civil | [`vendim/2021/723/`](vendim/2021/723/) | in force | 1 | 2021-11-26 | 2021-11-26 |
+| Për përjashtimin nga procedura e përzgjedhjes nga mësuesit në bazë shkolle të tekstit të abetares | [`vendim/2021/724/`](vendim/2021/724/) | in force | 1 | 2021-11-26 | 2021-11-26 |
+| Për funksionimin, organizimin dhe veprimtarinë e Muzeut Kombëtar të Pavarësisë | [`vendim/2021/725/`](vendim/2021/725/) | in force | 1 | 2021-11-26 | 2021-11-26 |
+| Për miratimin e buxhetit për Autoritetin e Komunikimeve Elektronike e Postare, për vitin 2022 | [`vendim/2021/794/`](vendim/2021/794/) | in force | 1 | 2021-12-21 | 2021-12-21 |
+| Për lirimin dhe emërimin në detyrë të Drejtorit të Përgjithshëm të Agjencisë Kombëtare të Mjedisit | [`vendim/2021/796/`](vendim/2021/796/) | in force | 1 | 2021-12-21 | 2021-12-21 |
+| Për dhënien me qira, me tarifë të reduktuar, të sallës së konferencave “A” dhe të zyrave me numrat 2, 3, 5, 6, 7, 12, 14, veri, në mjediset e Pallatit të Kongreseve, Agjencisë për Media dhe Informim | [`vendim/2022/11/`](vendim/2022/11/) | in force | 1 | 2022-01-19 | 2022-01-19 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit ”Rehabilitimi i fushës sportive Laprakë”, Tiranë | [`vendim/2022/21/`](vendim/2022/21/) | in force | 1 | 2022-01-19 | 2022-01-19 |
+| Për përcaktimin e kategorive të ndërtesave, që përjashtohen nga detyrimi i pikës së aksesit për infrastrukturën e rrjeteve të komunikimeve elektronike | [`vendim/2022/22/`](vendim/2022/22/) | in force | 1 | 2022-01-19 | 2022-01-19 |
+| Për miratimin e ndryshimit të statusit dhe të sipërfaqes së ekosistemeve natyrore park kombëtar (kategoria ii) të zonave të mbrojtura mjedisore | [`vendim/2022/59/`](vendim/2022/59/) | amending act | 1 | 2022-02-01 | 2022-02-01 |
+| Për lirim nga detyra | [`vendim/2022/212/`](vendim/2022/212/) | in force | 1 | 2022-04-20 | 2022-04-20 |
+| Për procedurat e ofrimit të shërbimeve on-line nga institucionet shërbimofruese dhe për metodologjinë e monitorimit e të kontrollit të veprimtarisë administrative të ofrimit të tyre | [`vendim/2022/252/`](vendim/2022/252/) | in force | 1 | 2022-04-29 | 2022-04-29 |
+| Për miratimin e marrëveshjes së grantit dhe projektit të BE-së, ndërmjet Republikës së Shqipërisë (marrësi), të përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt am Main (KfW) dhe Korporatës Elektroenergjetike Shqiptare (KESH) (agjencia e zbatimit të projektit), rehabilitimi i hidrocentralit të Fierzës | [`vendim/2022/260/`](vendim/2022/260/) | in force | 1 | 2022-04-29 | 2022-04-29 |
+| Për miratimin e letërmarrëveshjes së grantit nr.TF0B5581, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, për projektin e forcimit të cilësisë së auditimit dhe raportimit | [`vendim/2022/263/`](vendim/2022/263/) | in force | 1 | 2022-04-29 | 2022-04-29 |
+| Për miratimin e Klasifikimit Standard Ndërkombëtar të Arsimit KSNA 2011 (ISCED 2011), të fushave të arsimit dhe të trajnimit të KSNA 2013 (KSNA-F 2013) dhe të përshkrimeve të tyre të detajuara | [`vendim/2022/288/`](vendim/2022/288/) | in force | 1 | 2022-05-19 | 2022-05-19 |
+| Për ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 19.10.2021, për çështjen “Laçi kundër Shqipërisë”, kërkesa nr. 28142/17 | [`vendim/2022/290/`](vendim/2022/290/) | in force | 1 | 2022-05-13 | 2022-05-13 |
+| Për rishpërndarjen e numrit të punonjësve organikë dhe të fondeve buxhetore në njësitë e qeverisjes qendrore, për vitin 2022 | [`vendim/2022/295/`](vendim/2022/295/) | in force | 1 | 2022-05-13 | 2022-05-13 |
+| Për përcaktimin e kushteve, afateve dhe procedurave për ofrimin e shërbimeve nga sekretaria e regjistrit elektronik, nëpërmjet portalit “e-Albania”, kushteve dhe mënyrave të pajisjes së individëve me të drejtat përkatëse të aksesit elektronik dhe procedurave për ndryshimin e tyre, kushteve të sigurisë dhe të ruajtjes së komunikimeve elektronike, mënyrave të vërtetimit të dokumenteve elektronike, të lëshuara nga sekretaria e regjistrit elektronik, të kërkesave e teknologjisë së zbatueshme për realizimin e tyre, si dhe procedurave të njoftimeve publike, të realizuara nga sekretaria e regjistrit elektronik të organizatave jofitimprurëse | [`vendim/2022/303/`](vendim/2022/303/) | amending act | 1 | 2022-05-13 | 2022-05-13 |
+| Për përcaktimin e rregullave të hollësishme për rastet dhe mënyrën e përdorimit të armëve, të ndryshme nga armët e zjarrit, si dhe të pajisjeve kufizuese nga Policia e Burgjeve | [`vendim/2022/305/`](vendim/2022/305/) | in force | 1 | 2022-05-13 | 2022-05-13 |
+| Për rishpërndarje fondesh në buxhetin e vitit 2022, miratuar për Ministrinë e Arsimit dhe Sportit | [`vendim/2022/309/`](vendim/2022/309/) | in force | 1 | 2022-05-13 | 2022-05-13 |
+| Për specifikimet dhe përmbajtjen e kodifikimit të programeve të studimit të ofruara nga institucionet e arsimit të lartë në Republikën e Shqipërisë | [`vendim/2022/310/`](vendim/2022/310/) | in force | 1 | 2022-05-13 | 2022-05-13 |
+| Për përcaktimin e rregullave të hollësishme për veprimtarinë dhe mënyrën e ofrimit të shërbimit start up one-stop-shop, si dhe shërbimeve për të cilat aplikohet tarifa zero për mbështetjen e start up-eve | [`vendim/2022/311/`](vendim/2022/311/) | in force | 1 | 2022-05-13 | 2022-05-13 |
+| Për dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën 1 euro/kontrata, ndërmjet Bashkisë Maliq, si qiradhënës, dhe shoqërisë “Rozafa” sh.p.k., si qiramarrës, për pasuritë e “Kombinatit të Sheqerit” sh.a., Maliq | [`vendim/2022/394/`](vendim/2022/394/) | in force | 1 | 2022-06-13 | 2022-06-13 |
+| Për shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Ndërtimi i segmentit të kryqëzimit ish-kombinati ’Josif Pashko’ - ish-Uzina ’Dinamo e Re’” | [`vendim/2022/397/`](vendim/2022/397/) | in force | 1 | 2022-06-13 | 2022-06-13 |
+| Për miratimin e ndërtimit të centralit gjenerues të energjisë elektrike fotovoltaike “Erseka Solar Park 2” dhe veprave ndihmëse, i cili nuk është objekt koncesioni, në zonën e Ersekës, Bashkia Kolonjë, qarku i Korçës, nga bashkimi i përkohshëm i shoqërive “Favina” sh.p.k., “Favina 1” sh.p.k. dhe “M&K Energy Trading Co” sh.p.k | [`vendim/2022/399/`](vendim/2022/399/) | in force | 1 | 2022-06-13 | 2022-06-13 |
+| Për miratimin e ndërtimit të centralit gjenerues të energjisë elektrike fotovoltaike “Erseka Solar Park 1” dhe veprave ndihmëse, i cili nuk është objekt koncesioni, në zonën e Ersekës, Bashkia Kolonjë, qarku i Korçës, nga bashkimi i përkohshëm i shoqërive “Favina” sh.p.k., “Favina 1” sh.p.k. dhe “M&K Energy Trading Co” sh.p.k | [`vendim/2022/400/`](vendim/2022/400/) | in force | 1 | 2022-06-13 | 2022-06-13 |
+| Për miratimin e rregullores së personelit të Policisë së Burgjeve | [`vendim/2022/403/`](vendim/2022/403/) | in force | 1 | 2022-06-13 | 2022-06-13 |
+| Për mbulimin e shpenzimeve të mjekimit të z. Arben Hysko | [`vendim/2022/404/`](vendim/2022/404/) | in force | 1 | 2022-06-13 | 2022-06-13 |
+| Për miratimin e projektdokumentit të programit buxhetor afatmesëm 2023-2025 | [`vendim/2022/536/`](vendim/2022/536/) | in force | 1 | 2022-08-11 | 2022-08-11 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit arkitektonik ”Mozaiku i Tiranës” | [`vendim/2022/564/`](vendim/2022/564/) | in force | 1 | 2022-08-10 | 2022-08-10 |
+| Për lirim nga detyra | [`vendim/2022/574/`](vendim/2022/574/) | in force | 1 | 2022-09-01 | 2022-09-01 |
+| Për lirim nga detyra | [`vendim/2022/575/`](vendim/2022/575/) | in force | 1 | 2022-09-01 | 2022-09-01 |
+| Për shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti ”Zgjerimi i varrezave publike, Elbasan” | [`vendim/2022/576/`](vendim/2022/576/) | in force | 1 | 2022-09-01 | 2022-09-01 |
+| Për shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni i rrugës Pogradec - Tushemisht - Doganë” | [`vendim/2022/577/`](vendim/2022/577/) | in force | 1 | 2022-09-01 | 2022-09-01 |
+| Për shkarkimin nga detyra të drejtorit të përgjithshëm të Policisë së Shtetit | [`vendim/2022/580/`](vendim/2022/580/) | in force | 1 | 2022-09-01 | 2022-09-01 |
+| Për lirimin dhe emërimin në detyrë të drejtorit të Përgjithshëm të Drejtorisë së Përgjithshme të Parandalimit të Pastrimit të Parave | [`vendim/2022/582/`](vendim/2022/582/) | in force | 1 | 2022-09-01 | 2022-09-01 |
+| Për miratimin e rregullave procedurale të marrjes së autorizimit të tregtimit të barnave homeopatike | [`vendim/2022/664/`](vendim/2022/664/) | in force | 1 | 2022-10-17 | 2022-10-17 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit ”Restaurimi dhe muzealizimi i ish-banesës së Toptanasve” | [`vendim/2022/743/`](vendim/2022/743/) | in force | 1 | 2022-11-30 | 2022-11-30 |
+| Për lirim nga detyra | [`vendim/2022/843/`](vendim/2022/843/) | in force | 1 | 2022-12-29 | 2022-12-29 |
+| Për emërim në detyrë | [`vendim/2022/844/`](vendim/2022/844/) | in force | 1 | 2022-12-29 | 2022-12-29 |
+| Për ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 11.6.2019, për çështjen “Prizreni kundër Shqipërisë” (për kërkesën nr. 29309/16) | [`vendim/2022/860/`](vendim/2022/860/) | in force | 1 | 2022-12-29 | 2022-12-29 |
+| Për miratimin e rregullave për procedurën e trajtimit të kërkesave për shërbime kadastrale | [`vendim/2022/864/`](vendim/2022/864/) | in force | 1 | 2022-12-29 | 2022-12-29 |
+| Për kushtet, kriteret dhe procedurat e përfitimit, të poseduesve të ndërtimeve pa leje në rastet e fatkeqësisë natyrore | [`vendim/2022/865/`](vendim/2022/865/) | in force | 1 | 2022-12-29 | 2022-12-29 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksion i rrugës ekzistuese “Grigor Nosi”, “Hasan Ali Kopili” dhe Xhaferr Duhanxhiu në ZK 8527” | [`vendim/2022/868/`](vendim/2022/868/) | in force | 1 | 2022-12-29 | 2022-12-29 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rehabilitimi i zonës rreth Qytezës së Fëmijëve, Korçë” | [`vendim/2022/870/`](vendim/2022/870/) | in force | 1 | 2022-12-29 | 2022-12-29 |
+| Për përcaktimin e kushteve dhe elementeve të përgjithshme të sigurimit të përgjegjësisë profesionale të projektuesit, të grupit të projektimit dhe zbatuesit të punimeve, si dhe rregullat dhe elementet e sigurimit, të përgjegjësisë së zhvilluesit për të gjitha ndërtimet me vlerë mbi 100 milionë lekë | [`vendim/2022/873/`](vendim/2022/873/) | in force | 1 | 2022-12-29 | 2022-12-29 |
+| Për miratimin e rregullave të detajuara për të dhënat parësore dhe dytësore, që regjistrohen në regjistrin elektronik të profesionistëve të licencuar për dhënësit e informacionit, për ndërveprimin me bazat e tjera të të dhënave, si dhe për nivelin e aksesimit për subjektet e interesuara | [`vendim/2022/874/`](vendim/2022/874/) | in force | 1 | 2022-12-29 | 2022-12-29 |
+| Për kalim fondi Ministrisë së Infrastrukturës dhe Energjisë për mbështetjen e sektorit energjetik, faza III | [`vendim/2022/875/`](vendim/2022/875/) | in force | 1 | 2022-12-29 | 2022-12-29 |
+| Për dhënien e miratimit për fillimin e procedurave të privatizimit për pasurinë “Agjencia e Rezervave të Shtetit Dorëz, komuna Qendër, Librazhd”, në administrim të Ministrisë së Mbrojtjes, dhënë me qira me çmimin simbolik 1 euro/kontrata shoqërisë “Liberest”, sh.p.k | [`vendim/2022/882/`](vendim/2022/882/) | in force | 1 | 2022-12-29 | 2022-12-29 |
+| Për rastet e dhënies në përdorim dhe për ndryshimin e kategorisë së përdorimit, procedurat dhe dokumentacioni përkatës për ndryshimet e sipërfaqeve dhe pakësimin në volum nga fondi pyjor kombëtar apo zgjerimin e tyre | [`vendim/2022/888/`](vendim/2022/888/) | amending act | 1 | 2022-12-29 | 2022-12-29 |
+| Për miratimin e rregullores për monitorimin, raportimin e shkarkimeve të gazeve me efekt serrë dhe të informacioneve të tjera, që lidhen me ndryshimet klimatike në nivel kombëtar | [`vendim/2022/889/`](vendim/2022/889/) | amending act | 1 | 2022-12-29 | 2022-12-29 |
+| Për mbylljen e misionit të posaçëm të Republikës së Shqipërisë në Kiev, Ukrainë | [`vendim/2023/15/`](vendim/2023/15/) | in force | 1 | 2023-01-20 | 2023-01-20 |
+| Për hapjen e misionit diplomatik të Republikës së Shqipërisë në kryeqytetin e Ukrainës, Kiev | [`vendim/2023/16/`](vendim/2023/16/) | in force | 1 | 2023-01-20 | 2023-01-20 |
+| Për ngarkimin e Agjencisë Kombëtare të Planifikimit të Territorit, si organ qendror blerës, për realizimin e konkursit të projektimit për projektidetë e rikonceptimit të komplekseve sportive të stadiumeve në qytetet e Durrësit, Korçës dhe Vlorës | [`vendim/2023/17/`](vendim/2023/17/) | in force | 1 | 2023-01-20 | 2023-01-20 |
+| Për miratimin e marrëveshjes për njohjen e kualifikimeve të arsimit të lartë në Ballkanin Perëndimor | [`vendim/2023/18/`](vendim/2023/18/) | in force | 1 | 2023-01-20 | 2023-01-20 |
+| Për miratimin e ndryshimit nga kategoria e resursit “tokë bujqësore” vresht në “tokë urbane” truall të sipërfaqes 390.99 m2, pjesë e pasurisë me numër 1/394, dhe të sipërfaqes 269.13 m2, pjesë e pasurisë me numër 2/465, zona kadastrale 1476, Bashkia Dropull | [`vendim/2023/19/`](vendim/2023/19/) | amending act | 1 | 2023-01-20 | 2023-01-20 |
+| Për emërimin në detyrë të drejtorit të Teatrit Kombëtar Eksperimental ”Kujtim Spahivogli” | [`vendim/2023/21/`](vendim/2023/21/) | in force | 1 | 2023-01-20 | 2023-01-20 |
+| Për miratimin e projekteve fituese të financuara nga fondi për parandalimin dhe menaxhimin e fatkeqësive natyrore, si dhe të autoritetit kontraktor për zbatimin e projekteve, sipas njësive të vetëqeverisjes vendore | [`vendim/2023/260/`](vendim/2023/260/) | in force | 1 | 2023-04-28 | 2023-04-28 |
+| Për miratimin e procedurave, kritereve dhe rregullave për zbatimin e programit të nxitjes së punësimit, sipas skemës së garancisë rinore nëpërmjet të nxënit në vendin e punës | [`vendim/2023/264/`](vendim/2023/264/) | in force | 1 | 2023-04-28 | 2023-04-28 |
+| Për lirim nga detyra | [`vendim/2023/343/`](vendim/2023/343/) | in force | 1 | 2023-06-08 | 2023-06-08 |
+| Për emërim në detyrë | [`vendim/2023/344/`](vendim/2023/344/) | in force | 1 | 2023-06-08 | 2023-06-08 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikualifikim urban i ambienteve rekreative, restaurimi i fasadave të objekteve, në lagjen ”5 Shtatori”, Çorovodë | [`vendim/2023/346/`](vendim/2023/346/) | in force | 1 | 2023-06-08 | 2023-06-08 |
+| Për miratimin e Dokumentit të Politikave Prioritare 2024-2026 | [`vendim/2023/447/`](vendim/2023/447/) | in force | 1 | 2023-08-02 | 2023-08-02 |
+| Për miratimin e Strategjisë Kombëtare të Sektorit të Furnizimit me Ujë dhe Kanalizimeve 2023-2030 | [`vendim/2023/448/`](vendim/2023/448/) | in force | 1 | 2023-08-02 | 2023-08-02 |
+| Për trajtimin me kredi të lehtësuar të të punësuarve në administratën publike për blerjen e banesës | [`vendim/2023/468/`](vendim/2023/468/) | in force | 1 | 2023-08-02 | 2023-08-02 |
+| Për mbulimin e pjesshëm të shpenzimeve të mjekimit të z. Shkëlqim Agolli | [`vendim/2023/483/`](vendim/2023/483/) | in force | 1 | 2023-08-02 | 2023-08-02 |
+| Për miratimin e tarifës së reduktuar për dhënien në shfrytëzim të disa ambienteve në objektin ”Rezidenca Qeveritare”, vila 31 Tiranë, për realizimin e projektit kulturor ”Vila Art Rezidencë Tirana” | [`vendim/2023/570/`](vendim/2023/570/) | in force | 1 | 2023-10-13 | 2023-10-13 |
+| Për miratimin e planit të menaxhimit të zonave arkeologjike ”A” dhe ”B” të qytetit të Durrësit, 2023-2030 | [`vendim/2023/831/`](vendim/2023/831/) | in force | 1 | 2024-01-11 | 2024-01-11 |
+| Për miratimin e planit të menaxhimit të basenit ujor Mat 2024-2029 | [`vendim/2023/833/`](vendim/2023/833/) | in force | 1 | 2024-01-10 | 2024-01-10 |
+| Për miratimin e Programit të Reformave Ekonomike (ERP) 2024-2026 | [`vendim/2024/12/`](vendim/2024/12/) | in force | 1 | 2024-01-17 | 2024-01-17 |
+| Për përcaktimin e procedurave të konstatimit, të shqyrtimit, të propozimit dhe të vendosjes së masave administrative nga Agjencia e Inteligjencës Financiare | [`vendim/2024/13/`](vendim/2024/13/) | in force | 1 | 2024-01-17 | 2024-01-17 |
+| Për miratimin e Planit Kombëtar për Integrimin Evropian 2024-2026 | [`vendim/2024/16/`](vendim/2024/16/) | in force | 1 | 2024-01-17 | 2024-01-17 |
+| Për shtimin e kategorive tematike të grupeve të të dhënave me vlerë të madhe | [`vendim/2024/444/`](vendim/2024/444/) | in force | 1 | 2024-07-08 | 2024-07-08 |
+| Për miratimin e planit të menaxhimit të rrezikut nga përmbytjet për disa zona, ku ekziston rreziku potencial nga përmbytjet ose ka gjasa të ndodhin përmbytje, Drin-Bunë 4, 5 dhe 6 (territori i njësive administrative Shkodër, Ana E Malit, Bërdicë, Dajç, Guri I Zi, rrethinat dhe Velipojë, të Bashkisë Shkodër, dhe i njësisë administrative Bushat, të Bashkisë Vau i Dejës), 2024 - 2030 | [`vendim/2024/499/`](vendim/2024/499/) | in force | 1 | 2024-08-09 | 2024-08-09 |
+| Për emërimin e drejtorit të përgjithshëm të Policisë së Shtetit | [`vendim/2024/608/`](vendim/2024/608/) | in force | 1 | 2024-10-03 | 2024-10-03 |
+| Për emërimin e drejtorit të përgjithshëm të Tatimeve | [`vendim/2024/609/`](vendim/2024/609/) | in force | 1 | 2024-10-03 | 2024-10-03 |
+| Për miratimin e Udhërrëfyesit për Funksionimin e Institucioneve Demokratike | [`vendim/2024/611/`](vendim/2024/611/) | in force | 1 | 2024-10-03 | 2024-10-03 |
+| Për miratimin e rregullores ”Për mënyrën e funksionimit dhe kompetencat e Komitetit të Mbrojtjes dhe Sigurisë” | [`vendim/2024/795/`](vendim/2024/795/) | in force | 1 | 2025-02-06 | 2025-02-06 |
+| Për miratimin e Strategjisë Kombëtare të Specializimit Inteligjent (S3) 2025-2030 dhe të planit të veprimit për zbatimin e saj | [`vendim/2024/824/`](vendim/2024/824/) | in force | 1 | 2025-03-13 | 2025-03-13 |
+| Për miratimin e Strategjisë Kombëtare të Zhvillimit të Sipërmarrjes Inovative 2024-2030 dhe të planit të saj të veprimit | [`vendim/2024/860/`](vendim/2024/860/) | in force | 1 | 2025-01-09 | 2025-01-09 |
+| Për miratimin e projekteve fituese të financuara për vitin 2025 nga fondi për parandalimin dhe menaxhimin e fatkeqësive natyrore, si dhe të autoritetit kontraktor për zbatimin e projekteve, sipas njësive të vetëqeverisjes vendore | [`vendim/2025/127/`](vendim/2025/127/) | in force | 1 | 2025-03-03 | 2025-03-03 |
+| Për emërimin e një anëtari të Komisionit Kombëtar Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura | [`vendim/2025/436/`](vendim/2025/436/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit ”Rikonstruksioni i Shkollës së Mesme ”Ramiz Aranitasi”, Çorovodë, si dhe ruajtjes së perimetrit të sigurisë në shkolla”, Bashkia Skrapar | [`vendim/2025/440/`](vendim/2025/440/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit ”Rikonstruksion i rrugës Kthesa e Pashallisë-Konizbaltë deri në Konizbaltë”, Bashkia Dimal | [`vendim/2025/441/`](vendim/2025/441/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit ”Zgjerimi i segmentit rrugor dalje Elbasan-Përrenjas-Qafëthanë (faza IV)” | [`vendim/2025/444/`](vendim/2025/444/) | in force | 1 | 2025-08-04 | 2025-08-04 |
+| Për kalimin te Bashkia Krujë të njësive individuale të banimit | [`vendim/2025/446/`](vendim/2025/446/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Për miratimin e rregullores së zbatimit të punimeve të ndërtimit dhe të rregullave të kantierit | [`vendim/2025/448/`](vendim/2025/448/) | in force | 1 | 2025-08-14 | 2025-08-14 |
+| Për shpalljen e zonës së teknologjisë dhe zhvillimit ekonomik e të zhvilluesit të zonës me vendndodhje në Kashar, Tiranë | [`vendim/2025/453/`](vendim/2025/453/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Për përcaktimin e institucioneve përgjegjëse, të procedurave të miratimit dhe të dokumentacionit që duhet të plotësojnë familjet që përfitojnë kredi me interes të barabartë me 0 %, të subvencionuar nga Buxheti i Shtetit, nëpërmjet Entit Kombëtar të Banesave | [`vendim/2025/456/`](vendim/2025/456/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Për deklarimin pasuri kulturore e paluajtshme ”Ansambël Arkitektonik Urban” të një zone në qytetin e Konsipolit, përcaktimin e zonës mbrojtëse të tij dhe miratimin e planit për ruajtjen, mbrojtjen dhe administrimin e tyre | [`vendim/2025/458/`](vendim/2025/458/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Për transferimin te Korporata e Investimeve Shqiptare të pronave shtetërore për realizimin e projektit të investimit ”Korpusi i inspektorateve” dhe projekteve të tjera të investimit | [`vendim/2025/459/`](vendim/2025/459/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Për emërimin në detyrë të drejtorit të Galerisë Kombëtare të Arteve | [`vendim/2025/461/`](vendim/2025/461/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Për mbulimin e shpenzimeve të mjekimit të znj. Reida Kashta | [`vendim/2025/465/`](vendim/2025/465/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Për miratimin e tarifave të përdorimit të kullotave dhe livadheve për kullotje ose kositje, për veprimtari shoqërore, shëndetësore, sportive e turistike dhe për prodhimin e energjisë së rinovueshme | [`vendim/2025/467/`](vendim/2025/467/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Për emërimin e tre anëtarëve të Komisionit Kombëtar të Përzgjedhjes për TND-në | [`vendim/2025/469/`](vendim/2025/469/) | in force | 1 | 2025-08-04 | 2025-08-04 |
+| Për lirim nga detyra | [`vendim/2025/506/`](vendim/2025/506/) | in force | 1 | 2025-09-15 | 2025-09-15 |
+| Për lirim nga detyra | [`vendim/2025/507/`](vendim/2025/507/) | in force | 1 | 2025-09-15 | 2025-09-15 |
+| Për shkëmbimin e pronës me emërtimin “Njësia e Sigurisë Publike Shkodër”, në përgjegjësi administrimi të Ministrisë së Punëve të Brendshme, me pasurinë nr. 19/10, në zonën kadastrale 3168, Shkodër, në pronësi të Bashkisë Shkodër | [`vendim/2025/530/`](vendim/2025/530/) | in force | 1 | 2025-09-29 | 2025-09-29 |
+| Për shpronësimin, për interes publik, të pronarit të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Leje rikonstruksioni të ndërtesës së dëmtuar, pa shtim apo ndryshim volumi, për projektin “Përforcimi i pallatit 1300”, Bashkia Vlorë” | [`vendim/2025/532/`](vendim/2025/532/) | amending act | 1 | 2025-09-29 | 2025-09-29 |
+| Për miratimin e ndërtimit të centralit gjenerues të energjisë elektrike fotovoltaike dhe veprave ndihmëse, i cili nuk është objekt koncesioni, në zonën kadastrale 3038, fshati Povelçë, Njësia Administrative Dërmenas, Bashkia Fier, qarku Fier, nga shoqëria “IDI 2005” sh.p.k | [`vendim/2025/534/`](vendim/2025/534/) | in force | 1 | 2025-09-29 | 2025-09-29 |
+| Për miratimin e ndërtimit të centralit gjenerues të energjisë elektrike fotovoltaike dhe veprave ndihmëse, i cili nuk është objekt koncesioni, në Njësinë Administrative Qendër Ersekë, Bashkia Kolonjë, qarku Korçë, nga shoqëria “Met Invest” sh.p.k | [`vendim/2025/535/`](vendim/2025/535/) | in force | 1 | 2025-09-29 | 2025-09-29 |
+| Për mbulimin e shpenzimeve të mjekimit të znj. Mira Kapisyzi | [`vendim/2025/538/`](vendim/2025/538/) | in force | 1 | 2025-09-29 | 2025-09-29 |
+| Për miratimin e Strategjisë Kombëtare për Sigurinë Kibernetike 2025-2030 dhe të planit të veprimit 2025-2027 | [`vendim/2025/606/`](vendim/2025/606/) | in force | 1 | 2025-10-27 | 2025-10-27 |
+| Për miratimin e rregullores “Për përpunimin e të dhënave të udhëtimit” | [`vendim/2025/611/`](vendim/2025/611/) | in force | 1 | 2025-11-11 | 2025-11-11 |
+| Për përcaktimin e rregullave të inspektimit për parandalimin, reduktimin dhe eliminimin e peshkimit të paligjshëm, të parregulluar e të paraportuar dhe për krijimin e skemës së certifikimit të zënieve në peshkim | [`vendim/2025/643/`](vendim/2025/643/) | in force | 1 | 2025-11-12 | 2025-11-12 |
+| Për miratimin e rregullores së inspektimit të Agjencisë së Industrisë së Mbrojtjes | [`vendim/2025/705/`](vendim/2025/705/) | in force | 1 | 2025-12-02 | 2025-12-02 |
+| Për përcaktimin e rregullave të hollësishme për funksionimin e Komisionit të Rekrutimit dhe Ecurisë në Karrierë | [`vendim/2025/712/`](vendim/2025/712/) | in force | 1 | 2025-12-02 | 2025-12-02 |
+| Për lirim dhe emërim në detyrë | [`vendim/2025/717/`](vendim/2025/717/) | in force | 1 | 2025-12-02 | 2025-12-02 |
+| Për emërim në detyrë | [`vendim/2025/718/`](vendim/2025/718/) | in force | 1 | 2025-12-02 | 2025-12-02 |
+| Për emërim në detyrë | [`vendim/2025/719/`](vendim/2025/719/) | in force | 1 | 2025-12-02 | 2025-12-02 |
+| Për lirim nga detyra | [`vendim/2025/737/`](vendim/2025/737/) | in force | 1 | 2025-12-16 | 2025-12-16 |
+| Për përthithjen e Drejtorisë së Shërbimit të Trupit Diplomatik nga Drejtoria e Shërbimeve Qeveritare | [`vendim/2025/738/`](vendim/2025/738/) | in force | 1 | 2025-12-16 | 2025-12-16 |
+| Për ngritjen e Task-Forcës dhe të Skuadrës Kombëtare të Organizimit për Samitin e NATO-s, Tiranë, 2027 | [`vendim/2025/740/`](vendim/2025/740/) | in force | 1 | 2025-12-16 | 2025-12-16 |
+| Për miratimin e rregullave për procedurën e konkurrimit publik për dhënien e autorizimeve individuale për të drejtat e përdorimit të frekuencave | [`vendim/2026/70/`](vendim/2026/70/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Për kalimin në pronësi të Bashkisë Tiranë të një objekti publik | [`vendim/2026/71/`](vendim/2026/71/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Për miratimin e ndërtimit të centralit gjenerues të energjisë elektrike fotovoltaike dhe veprave ndihmëse, i cili nuk është objekt koncesioni, me vendndodhje në Sheq-Marinas, Bashkia Fier, Qarku Fier, nga shoqëria “Solen Energy”, sh.p.k | [`vendim/2026/73/`](vendim/2026/73/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Për miratimin e marrëveshjes shtesë të marrëveshjes së grantit të datës 18 dhjetor 2020, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe KfW Frankfurt am Main (KfW), “BE për ujin - komponenti 3”, miratuar me vendimin nr.29, datë 20.1.2021, të Këshillit të Ministrave | [`vendim/2026/79/`](vendim/2026/79/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Për përcaktimin e formës, përmbajtjes, elementeve të Regjistrit Kombëtar të institucioneve, instituteve, njësive të veçanta të kërkimit shkencor dhe të kërkuesve shkencorë, procedurave të krijimit të tij, e të administrimit të informacionit, si dhe të dokumentacionit që depozitohet për regjistrim | [`vendim/2026/82/`](vendim/2026/82/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Për shpalljen e disa zonave me përparësi zhvillimin e ekonomisë malore në Bashkinë Maliq | [`vendim/2026/83/`](vendim/2026/83/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Për shpalljen e disa zonave me përparësi zhvillimin e ekonomisë malore në Bashkinë Vorë | [`vendim/2026/84/`](vendim/2026/84/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Për shpalljen e disa zonave me përparësi zhvillimin e ekonomisë malore në Bashkinë Krujë | [`vendim/2026/85/`](vendim/2026/85/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Arsimit, për Universitetin e Mjekësisë, Tiranë | [`vendim/2026/420/`](vendim/2026/420/) | in force | 1 | 2026-06-11 | 2026-06-11 |
+| Për krijimin e rezervës së armatimeve dhe të pajisjeve teknologjike për Forcat e Armatosura nga subjektet e licencuara | [`vendim/2026/424/`](vendim/2026/424/) | in force | 1 | 2026-06-11 | 2026-06-11 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtim depoje në zonën e Qytetit të Nxënësve” | [`vendim/2026/426/`](vendim/2026/426/) | in force | 1 | 2026-06-11 | 2026-06-11 |
+| Për përcaktimin e rregullave, dokumentacionit, afateve dhe procedurave të detajuara për plotësimin, dorëzimin dhe shqyrtimin e kërkesës për organizimin e vullnetarizmit nga personi juridik fitimprurës | [`vendim/2026/428/`](vendim/2026/428/) | in force | 1 | 2026-06-11 | 2026-06-11 |
+| Për dhënie ndihme financiare familjes së inspektorit Enea Seladin Mekollit, ish-punonjës policie, i cili ka humbur jetën në krye të detyrës | [`vendim/2026/433/`](vendim/2026/433/) | in force | 1 | 2026-06-11 | 2026-06-11 |
+| Për dhënie ndihme financiare inspektor Edison Mitat Adri, punonjës policie, i plagosur në krye të detyrës | [`vendim/2026/434/`](vendim/2026/434/) | in force | 1 | 2026-06-11 | 2026-06-11 |
+| Për transferimin e pronësisë së 89,652% të aksioneve të shoqërisë “Duhan Cigare” sh.a., në likuidim, Shkodër, nga Ministria e Ekonomisë dhe Inovacionit te bashkia Shkodër | [`vendim/2026/639/`](vendim/2026/639/) | in force | 1 | 2026-08-31 | 2026-08-31 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi projektit “Ndërtimi i linjës 110 kv Fier - Kafaraj dhe vendosja e traktit të ri në nënstacionin Fier” | [`vendim/2026/642/`](vendim/2026/642/) | in force | 1 | 2026-08-31 | 2026-08-31 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Rikualifikimi urban në zonën e tregut të hapur të qytetit të Vlorës” | [`vendim/2026/643/`](vendim/2026/643/) | in force | 1 | 2026-08-31 | 2026-08-31 |
+| Për kalimin te Bashkia Krujë të njësive të banimit në ndërtesa (pallat) | [`vendim/2026/644/`](vendim/2026/644/) | in force | 1 | 2026-08-31 | 2026-08-31 |
+| Për kalimin në përgjegjësi administrimi të Ministrisë së Arsimit të pasurisë nr.1/136-ND, në zonën kadastrale 8320, për Qendrën e Shërbimeve Arsimore, dhe revokimin e së drejtës së pronësisë së Bashkisë Tiranë | [`vendim/2026/648/`](vendim/2026/648/) | in force | 1 | 2026-08-31 | 2026-08-31 |
+| Për miratimin e rregullores tip ”Për administrimin e banesave dhe ndërtesave” | [`vendim/2026/687/`](vendim/2026/687/) | in force | 1 | 2026-10-23 | 2026-10-23 |
+| Për lirimin dhe emërimin e nje anëtari të këshillit drejtues te Agjencisë Shtetërore të Kadastrës | [`vendim/2026/753/`](vendim/2026/753/) | in force | 1 | 2026-10-09 | 2026-10-09 |
+| Për miratimin e aktit të themelimit dhe statutit të shoqërisë tregtare shtetërore “Operatori i Shoqërive Shtetërore”, sh.a., si dhe përcaktimin e kapitalit fillestar | [`vendim/2026/759/`](vendim/2026/759/) | in force | 1 | 2026-10-12 | 2026-10-12 |
+| Për miratimin e marrëveshjes së kushteve të veçanta të grantit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë (përfituesi) dhe Agjencisë Franceze të Zhvillimit (AFD), për projektin “Përmirësimi i ITUN Durrës dhe rehabilitimi i sistemit të kanalizimeve të ujërave të përdorura në zonën historike të qytetit të Durrësit” | [`vendim/2026/761/`](vendim/2026/761/) | in force | 1 | 2026-10-19 | 2026-10-19 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i nyjës që lidh rrugën e Laknasit me projektin “Zgjerimi i superstradës Tiranë - Durrës”” | [`vendim/2026/764/`](vendim/2026/764/) | in force | 1 | 2026-10-09 | 2026-10-09 |
+| Për rishpërndarje fondesh ndërmjet programeve buxhetore të Ministrisë së Infrastrukturës dhe Energjisë, në buxhetin e miratuar për vitin 2026 | [`vendim/2026/765/`](vendim/2026/765/) | in force | 1 | 2026-10-09 | 2026-10-09 |
+| Për miratimin e metodave dhe të procedurave për sigurimin e garancive financiare apo të siguracioneve të nevojshme për kompensimin e një dëmi të mundshëm ndaj mjedisit apo për eliminimin e një kërcënimi të pashmangshëm për dëme në mjedis | [`vendim/2026/766/`](vendim/2026/766/) | in force | 1 | 2026-10-09 | 2026-10-09 |
+| Për miratimin e rregullave të hollësishme për organizimin dhe zhvillimin e ceremonisë së dekorimeve | [`vendim/2026/770/`](vendim/2026/770/) | in force | 1 | 2026-10-21 | 2026-10-21 |
+| Për kalimin në përgjegjësi administrimi te Fondi Shqiptar i Zhvillimit të pasurisë me nr. 2/260, në zonën kadastrale 2297, me vendndodhje në Ksamil, Sarandë | [`vendim/2026/771/`](vendim/2026/771/) | in force | 1 | 2026-10-21 | 2026-10-21 |
+| Për miratimin e rregullave për vlerësimin dhe miratimin e studimeve të fizibilitetit, dhënien, ndryshimin e transferimin e kontratave të koncesionit/partneritetit publik privat | [`vendim/2026/774/`](vendim/2026/774/) | amending act | 1 | 2026-10-23 | 2026-10-23 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i rrugës rrotonda e varrezave - intersektimi i rrugës “Nos Josifi”, ndodhur në zonat kadastrale 8522 dhe 8527”, Bashkia Elbasan | [`vendim/2026/778/`](vendim/2026/778/) | in force | 1 | 2026-10-21 | 2026-10-21 |
+| Për lirimin dhe emërimin në detyrë të drejtorit të përgjithshëm të Burgjeve | [`vendim/2026/779/`](vendim/2026/779/) | in force | 1 | 2026-10-19 | 2026-10-19 |
+| Për përcaktimin e rregullave të hollësishme për emërimin dhe shkarkimin e anëtarëve të këshillit drejtues të Agjencisë Kombëtare të Shërbimeve Arsimore | [`vendim/2026/780/`](vendim/2026/780/) | in force | 1 | 2026-10-21 | 2026-10-21 |
+| Për mënyrën dhe rregullat e ngritjes e të funksionimit të institucioneve mjekësore të posaçme, si dhe për masat e sigurisë për ruajtjen e tyre | [`vendim/2026/781/`](vendim/2026/781/) | in force | 1 | 2026-10-21 | 2026-10-21 |
+| Për përcaktimin e procedurave të referimit dhe menaxhimit të rasteve të fëmijëve në nevojë për kujdes alternativ në familje dhe miratimin e kritereve, procedurave dhe instrumenteve për vlerësimin periodik të situatës së fëmijës së vendosur në kujdes alternativ në familje | [`vendim/2026/782/`](vendim/2026/782/) | in force | 1 | 2026-10-23 | 2026-10-23 |
+| Për emërim në detyrë | [`vendim/2026/792/`](vendim/2026/792/) | in force | 1 | 2026-10-22 | 2026-10-22 |
+| Për emërim në detyrë | [`vendim/2026/793/`](vendim/2026/793/) | in force | 1 | 2026-10-22 | 2026-10-22 |
+| Për miratimin e procedurave dhe të kritereve për ndarjen e çmimeve kombёtare, kategoritë e çmimeve dhe masën e shpërblimit financiar për vullnetarët e vitit | [`vendim/2026/797/`](vendim/2026/797/) | in force | 1 | 2026-10-23 | 2026-10-23 |
+| Për miratimin e rregullave për përmbajtjen dhe formën e Regjistrit Elektronik të Koncesioneve dhe Partneritetit Publik Privat | [`vendim/2026/798/`](vendim/2026/798/) | in force | 1 | 2026-10-23 | 2026-10-23 |
+| Për përcaktimin e procedurave, të kritereve dhe të rregullave për subvencionimin e shpenzimeve të udhëtimit, rastet e përfitimit dhe masën e pagesës për pjesëmarrje në kurset e formimit profesional | [`vendim/2026/799/`](vendim/2026/799/) | in force | 1 | 2026-10-23 | 2026-10-23 |
+| Për përcaktimin e fushës së përgjrgjësisë shtetërore të Ministrisë së Administratës Publike | [`vendim/2026/812/`](vendim/2026/812/) | in force | 1 | 2026-10-29 | 2026-10-29 |
+| Për krijimin dhe funksionimin e regjistrit të posaçëm elektronik të personave të referuar ose nën hetim për vepra penale kundër rendit dhe sigurisë publike, të kryera me dhunë gjatë grumbullimeve dhe manifestimeve publike, shkëmbimin e të dhënave dhe verifikimet kufitare | [`vendim/2026/815/`](vendim/2026/815/) | in force | 1 | 2026-10-29 | 2026-10-29 |
+| Për miratimin e numrit të përgjithshëm të personelit të Policisë së Shtetit | [`vendim/2026/816/`](vendim/2026/816/) | in force | 1 | 2026-10-29 | 2026-10-29 |
+| Për përcaktimin e procedurave të aplikimit, ndërveprimit institucional, kushteve, kritereve, rrethanave, dokumentimit dhe vërtetimit të interesit shtetëror, rregullave specifike të kontrollit të sigurisë dhe pastërtisë së figurës, si dhe për organizimin e funksionimin e Agjencisë Shtetërore të Posaçme të Shtetёsisё | [`vendim/2026/817/`](vendim/2026/817/) | in force | 1 | 2026-10-30 | 2026-10-30 |
+| Për miratimin e kritereve dhe masës së kompensimit financiar për subjektet private për periudhën e aktivizimit të ushtarakut në shërbimin ushtarak rezervist | [`vendim/2026/818/`](vendim/2026/818/) | in force | 1 | 2026-10-30 | 2026-10-30 |
+| Për mbulimin e shpenzimeve të mjekimit të z. Erion Vishkulli | [`vendim/2026/828/`](vendim/2026/828/) | in force | 1 | 2026-10-29 | 2026-10-29 |

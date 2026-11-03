@@ -1,0 +1,18 @@
+# PËR MIRATIMIN E LETËRMARRËVESHJES NDRYSHUESE TË MARRËVESHJES SË HUAS DHE TË PROJEKTIT, NDËRMJET REPUBLIKËS SË SHQIPËRISË, TË PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, E OPERATORIT TË SISTEMIT TË TRANSMETIMIT SHA, SI AGJENCIA E ZBATIMIT TË PROJEKTIT, DHE KfW FRANKFURT AM MAIN, PËR FINANCIMIN E PROJEKTIT “LINJA UNAZORE 110 KILOVOLT E SHQIPËRISË SË JUGUT”, NËPËRMJET NJË HUAJE PREJ 10 750 000 EUROSH, TË RATIFIKUAR ME LIGJIN NR. 10250, DATË 11.3.2010
+
+PËR MIRATIMIN E LETËRMARRËVESHJES NDRYSHUESE TË MARRËVESHJES SË HUAS DHE TË PROJEKTIT, NDËRMJET REPUBLIKËS SË SHQIPËRISË · 1 versions, from 2018-11-07 (latest in force: 2018-11-07) · <https://qbz.gov.al/eli/vendim/2018/10/31/653>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Vendimi | [pika-000.md](pika-000.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
+
+Act id: `vendim-2018-653` (tags `vendim-2018-653/<day>`; `python tools/on.py <day> vendim-2018-653`).
+
+## Decisions made by hand
+
+- A decision of the Council of Ministers is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the Council of Ministers’ normative acts take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names; any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.

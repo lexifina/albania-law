@@ -1,0 +1,551 @@
+"""Albania: Council of Ministers decisions and laws in force, as published in the Fletorja Zyrtare, from QBZ.
+
+Reads only a local copy of Qendra e Botimeve Zyrtare's open API (qbz.gov.al/api/v1) and writes corpus.d parts
+(SCHEMA.md). Deterministic: the same inputs give the same bytes. No network.
+
+    python -X utf8 parse_acts.py --cache <folder> [--published <data/versions.json>] [--retrieved YYYY-MM-DD]
+                                 [--memo <folder>] [--report holds.jsonl]
+
+The local copy (--cache) holds each response gzip'd at <sha256(url)[:2]>/<sha256(url)>.gz: the act listing
+(/acts?size=100&page=N), each act's relations (/acts/{id}/relations), each Fletorja Zyrtare issue record
+(/gazettes/{year}/{number}) and each act's text, whose .docx is kept as its word/document.xml (the .docx bytes were
+checked against the sha256 that names them in QBZ's URL, so that hash is the source hash).
+
+What becomes an act here:
+- a base act ("Akt bazë") of these kinds: a decision of the Council of Ministers (Vendim, Këshilli i Ministrave;
+  act slug vendim-<year>-<number>) or a law of the Assembly (Ligj; act slug ligj-<year>-<number>), with no
+  consolidated versions in QBZ;
+- its one version is the text as published, in force from:
+  - a decision: the publication day of its Fletorja Zyrtare issue when its clause says "hyn në fuqi pas botimit" or
+    "menjëherë" (Kushtetuta, neni 117, pika 1: the Council of Ministers' normative acts take legal force only once
+    published in the Fletorja Zyrtare), N days after it for "N ditë pas botimit", or the calendar day it names;
+  - a law: the day its own clause names, counted from the publication day ("15 ditë pas botimit", "menjëherë" =
+    the publication day, Kushtetuta, neni 84, pika 4), or the calendar day it names.
+
+An act is held back, not published, when any of these is true (the reason goes to the report):
+- QBZ links an act as changing or repealing it (relations CHANGES/REPEALS, direction in), or it has versions;
+- the title of another act in QBZ's listing cites it ("vendimin nr. N, datë D", "ligjin nr. N/YYYY") and that act
+  changes, adds to, corrects or repeals something;
+- a text held here cites it and the words after the citation say it is amended or repealed ("i ndryshuar",
+  "shfuqizohet", ...);
+- two QBZ records give the same kind, number and year;
+- its issue's publication day is missing, before its adoption or more than 120 days after it;
+- the text's own header does not give the record's number and date, or carries QBZ's amendment notes;
+- its in-force clause is missing, or not one of the forms above (for example "i shtrin efektet nga ...");
+- (laws) the repository already holds it under its earlier name (ligji-<number>-<year>), or it is an annual budget
+  law for a year before the retrieval year.
+"""
+from __future__ import annotations
+
+import argparse
+import datetime as dt
+import gzip
+import hashlib
+import io
+import json
+import re
+import unicodedata
+import xml.etree.ElementTree as ET
+from collections import defaultdict
+from pathlib import Path
+
+HERE = Path(__file__).resolve().parent
+PARTS = HERE / 'corpus.d'
+API = 'https://qbz.gov.al/api/v1'
+SITE = 'https://qbz.gov.al'
+W = '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
+VERSION = 'parse_acts 1'
+MUAJ = ['janar', 'shkurt', 'mars', 'prill', 'maj', 'qershor', 'korrik', 'gusht', 'shtator', 'tetor', 'nëntor', 'dhjetor']
+LICENCE = ('Official texts of the Republic of Albania; legal acts and their official collections are not subject to '
+           'copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”).')
+
+RE_NOTE = re.compile(r'^\(\s*;?\s*(?:Ndryshuar|Shtuar|Shfuqizuar|Zëvendësuar|Riformuluar|i përditësuar|pezulluar)', re.I)
+RE_NENI = re.compile(r'^Neni\s+(\d+)(?:\s*/\s*(\d+))?\s*$')
+RE_HEAD = re.compile(r'^(KREU|SEKSIONI|PJESA|TITULLI)\s+([IVXLC]+)\s*$')
+RE_POINT = re.compile(r'^(\d{1,3})\s*\.\s*(\S.*)?$')
+RE_ITEM = re.compile(r'^(\d+(/\d+)?\.|[a-zçë]{1,2}\)|[ivx]+\))\s')
+RE_VENDOSI = re.compile(r'\bVENDOSI\s*:?\s*$', re.I)
+RE_SIGN_VKM = re.compile(r'^(?:P\.\s*|Z\.\s*|ZV\.?\s*|ZËVENDËS)?\s*KRYEMINIST(?:RI|ËR|ER|RA)?\b\.?$', re.I)
+RE_FOOT_LAW = re.compile(r'^(Miratuar më datë|Miratuar në datën|Shpallur me dekretin|KRYETARI?$)')
+STEMS = re.compile(r'(ndrysh|shfuqiz|shtes|zëvendës|korrigj|pezull)', re.I)
+CHANGE_TITLE = re.compile(r'(ndrysh|shfuqiz|shtes|zëvendës|korrigj|pezull|ndreqje)', re.I)
+BUDGET = re.compile(r'buxhet\w* (e |të )?(shtetit )?(të |e )?vitit (\d{4})', re.I)
+DATE = r'(?:datë|date|data|dt\.?)\s*(\d{1,2})\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})'
+CITE_VKM = re.compile(r'\b(?:vendim(?:i|in|it)?|VKM(?:-?(?:në|ja|së|ve))?)\s+(?:e\s+)?(?:Këshillit të Ministrave\s+)?'
+                      r'nr\.?\s*(\d+(?:-\d+)?)\s*,?\s*' + DATE, re.I)
+CITE_LAW = re.compile(r'\bligj(?:i|in|it)?\s+nr\.?\s*(\d+)\s*(?:/\s*(\d{4})|,?\s*' + DATE + ')', re.I)
+NEXT_CITE = re.compile(r'\bnr\.?\s*\d', re.I)
+
+
+class Hold(Exception):
+    pass
+
+
+def norm(s: str) -> str:
+    s = unicodedata.normalize('NFC', s)
+    s = s.replace('\xa0', ' ').replace('\xad', '').replace('\t', ' ')
+    s = s.replace('–', '-').replace('—', '-').replace('‑', '-')
+    s = s.replace('‘', '’').replace("'", '’')
+    s = s.replace('„', '“').replace('"', '”')
+    return re.sub(r'\s{2,}', ' ', s).strip()
+
+
+def cpath(cache: Path, url: str) -> Path:
+    h = hashlib.sha256(url.encode('utf-8')).hexdigest()
+    return cache / h[:2] / f'{h}.gz'
+
+
+def read(cache: Path, url: str) -> bytes | None:
+    p = cpath(cache, url)
+    return gzip.decompress(p.read_bytes()) if p.exists() else None
+
+
+def read_json(cache: Path, url: str):
+    b = read(cache, url)
+    return None if b is None else json.loads(b)
+
+
+def listing(cache: Path) -> list[dict]:
+    first = read_json(cache, f'{API}/acts?size=100&page=0')
+    out: dict[int, dict] = {}
+    for i in range((first['total'] + 99) // 100):
+        d = read_json(cache, f'{API}/acts?size=100&page={i}')
+        if d is None:
+            raise SystemExit(f'listing page {i} missing from the cache')
+        for it in d['items']:
+            out[it['id']] = it
+    return [out[k] for k in sorted(out)]
+
+
+def paras_of(xml: bytes) -> list[str]:
+    root = ET.fromstring(xml)
+    out = []
+    for p in root.iter(W + 'p'):
+        t = ''.join((n.text or '') if n.tag == W + 't' else (' ' if n.tag in (W + 'tab', W + 'br') else '')
+                    for n in p.iter())
+        t = norm(t)
+        if t:
+            out.append(t)
+    return out
+
+
+def text_of(cache: Path, memo: Path | None, a: dict) -> list[str] | None:
+    url = SITE + a['word']['url']
+    if memo:
+        m = memo / f'{a["word"]["sha256"]}.json.gz'
+        if m.exists():
+            d = json.loads(gzip.decompress(m.read_bytes()))
+            if d.get('v') == VERSION:
+                return d['paras']
+    x = read(cache, url)
+    if x is None:
+        return None
+    try:
+        paras = paras_of(x)
+    except ET.ParseError:
+        return None
+    if memo:
+        memo.mkdir(parents=True, exist_ok=True)
+        tmp = m.with_suffix('.tmp')
+        tmp.write_bytes(gzip.compress(json.dumps({'v': VERSION, 'paras': paras}, ensure_ascii=False).encode('utf-8'), 6))
+        tmp.replace(m)
+    return paras
+
+
+def iso(d: str, m: str, y: str) -> str | None:
+    try:
+        return dt.date(int(y), int(m), int(d)).isoformat()
+    except ValueError:
+        return None
+
+
+def dmy(day: str) -> str:
+    y, m, d = day.split('-')
+    return f'{int(d)}.{int(m)}.{y}'
+
+
+def cites(text: str):
+    """(('vkm', number, day) | ('law', number, year), start, end) for every act citation in a text."""
+    for m in CITE_VKM.finditer(text):
+        day = iso(m.group(2), m.group(3), m.group(4))
+        if day:
+            yield ('vkm', m.group(1), day), m.start(), m.end()
+    for m in CITE_LAW.finditer(text):
+        year = m.group(2) or m.group(5)
+        if year:
+            yield ('law', m.group(1), year), m.start(), m.end()
+
+
+def ident(a: dict):
+    if a['type'] == 'Ligj':
+        return ('law', a['number'].split('-')[0], a['date'][:4])
+    return ('vkm', a['number'], a['date'])
+
+
+def kind_of(a: dict) -> str | None:
+    if a['kind'] != 'Akt bazë' or not a.get('word') or not a['word']['url'].endswith('.docx'):
+        return None
+    if a['type'] == 'Vendim' and a.get('institution') == 'Këshilli i Ministrave':
+        return 'vendim'
+    if a['type'] == 'Ligj':
+        return 'ligj'
+    return None
+
+
+def title_of(a: dict) -> str:
+    t = norm(re.sub(r'\s+', ' ', a['title'])).rstrip('.')
+    if t.isupper():
+        t = t[:1] + t[1:].lower()
+    return t
+
+
+def short_of(title: str) -> str:
+    s = re.sub(r'^Për\s+', '', title)
+    s = s[:1].upper() + s[1:]
+    return s[:120]
+
+
+def add_days(day: str, n: int) -> str:
+    return (dt.date.fromisoformat(day) + dt.timedelta(days=n)).isoformat()
+
+
+def add_months(day: str, n: int) -> str:
+    d = dt.date.fromisoformat(day)
+    y, mo = divmod(d.month - 1 + n, 12)
+    return d.replace(year=d.year + y, month=mo + 1).isoformat()
+
+
+def in_force(kind: str, text: str, published: str) -> tuple[str, str]:
+    who = 'vendim' if kind == 'vendim' else 'ligj'
+    found = re.findall(r'\bKy ' + who + r' hyn në fuqi\s*([^\n]*)', text, re.I)
+    if not found:
+        raise Hold('in_force_clause_missing')
+    if len(set(found)) > 1:
+        raise Hold('in_force_clause_twice')
+    c = found[0].strip()
+    c1 = c.rstrip('.').strip()
+    if re.search(r'efekt|zbatohet|fillon|përveç|me përjashtim|deri', c, re.I):
+        raise Hold(f'in_force_clause_unhandled:{c[:80]}')
+    fz = r'(?:në|ne)\s+Fletore(?:n)?\s+Zyrtare'
+    if re.fullmatch(r'(?:pas|me)\s+botim(?:it|in)\s+' + fz, c1, re.I) or \
+            re.fullmatch(r'(?:ditën e|në ditën e|nga dita e|nga data e|në datën e)\s+botimit(?:\s+' + fz + ')?', c1, re.I):
+        return published, f'"hyn në fuqi {c1}": the publication day'
+    if re.fullmatch(r'menjëherë(?:\s*,?\s*(?:dhe\s+)?botohet\s+' + fz + r')?(?:\s*,?\s*pas\s+botimit\s+' + fz + ')?', c1, re.I):
+        return published, f'"hyn në fuqi {c1}": the publication day'
+    m = re.fullmatch(r'(\d+)\s*\(?[a-zë ]*\)?\s+ditë\s+(?:pas|nga)\s+botimit(?:\s+' + fz + ')?', c1, re.I)
+    if m:
+        return add_days(published, int(m.group(1))), f'"hyn në fuqi {c1}"'
+    m = re.fullmatch(r'(\d+)\s+muaj\s+pas\s+botimit(?:\s+' + fz + ')?', c1, re.I)
+    if m:
+        return add_months(published, int(m.group(1))), f'"hyn në fuqi {c1}"'
+    m = re.fullmatch(r'(?:më|nga data|në datën|nga|datë|në)?\s*(\d{1,2})\s+(' + '|'.join(MUAJ) + r')\s+(\d{4})', c1, re.I)
+    if m:
+        day = iso(m.group(1), str(MUAJ.index(m.group(2).lower()) + 1), m.group(3))
+        if day and day >= published:
+            return day, f'"hyn në fuqi {c1}"'
+        raise Hold(f'in_force_day_before_publication:{c1[:60]}')
+    raise Hold(f'in_force_clause_unhandled:{c[:80]}')
+
+
+def unit(units: dict, order: list, key: str, label: str, kind: str, lines: list[str]) -> str:
+    base, i = key, 2
+    while key in units:
+        key = f'{base}-{i:02d}'
+        i += 1
+    units[key] = {'label': label, 'kind': kind, 'lines': lines}
+    order.append(key)
+    return key
+
+
+def roman(s: str) -> int:
+    vals = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100}
+    n = 0
+    for i, ch in enumerate(s):
+        v = vals[ch]
+        n += -v if i + 1 < len(s) and vals[s[i + 1]] > v else v
+    return n
+
+
+def split(paras: list[str], kind: str) -> dict:
+    """Units: hyrje (header, title, preamble), kreu-NN / neni-NNN or (a decision without articles) pika-NNN, the
+    signature or adoption block (zz-nenshkrimi / zz-miratuar) and everything after it (shtojca)."""
+    sign = RE_SIGN_VKM if kind == 'vendim' else RE_FOOT_LAW
+    foot_at = next((i for i, p in enumerate(paras) if sign.match(p)), None)
+    if foot_at is None:
+        raise Hold('signature_not_found')
+    body, tail = paras[:foot_at], paras[foot_at:]
+    has_neni = any(RE_NENI.match(p) for p in body)
+    units: dict[str, dict] = {}
+    order: list[str] = []
+    cur = unit(units, order, 'hyrje', 'Hyrje', 'preamble', [])
+    started = kind == 'ligj'
+    last_point = 0
+    expect_title = False
+    for p in body:
+        if kind == 'vendim' and not started:
+            units[cur]['lines'].append(p)
+            if RE_VENDOSI.search(p):
+                started = True
+                # what the Council decided, until its first numbered point (all of it, when it has none)
+                cur = unit(units, order, 'pika-000', 'Vendimi', 'body', [])
+            continue
+        m_n = RE_NENI.match(p) if has_neni else None
+        m_h = RE_HEAD.match(p) if has_neni else None
+        m_p = RE_POINT.match(p) if not has_neni and kind == 'vendim' else None
+        if m_n:
+            n, sub = int(m_n.group(1)), m_n.group(2)
+            key, label = f'neni-{n:03d}', f'Neni {n}'
+            if sub:
+                key, label = f'{key}-{int(sub):02d}', f'{label}/{int(sub)}'
+            cur = unit(units, order, key, label, 'art', [f'# {label}'])
+            expect_title = True
+            continue
+        if m_h:
+            k, num = m_h.group(1), m_h.group(2)
+            cur = unit(units, order, f'{k.lower()}-{roman(num):02d}', f'{k.capitalize()} {num}', 'heading', [p])
+            expect_title = True
+            continue
+        if m_p and int(m_p.group(1)) == last_point + 1:
+            last_point += 1
+            cur = unit(units, order, f'pika-{last_point:03d}', f'Pika {last_point}', 'point', [p])
+            continue
+        if expect_title and units[cur]['kind'] in ('art', 'heading') and len(units[cur]['lines']) == 1 \
+                and not RE_ITEM.match(p) and len(p) < 200:
+            units[cur]['lines'].append(p)
+            expect_title = False
+            continue
+        expect_title = False
+        units[cur]['lines'].append(p)
+    if kind == 'vendim' and not started:
+        raise Hold('vendosi_not_found')
+    # The signature: the office line and the name under it (or, for a law, the adoption and promulgation lines).
+    foot = [tail[0]]
+    i = 1
+    if kind == 'vendim':
+        while i < len(tail) and i < 2 and len(tail[i]) < 60 and not tail[i].endswith(('.', ':')) \
+                and not re.match(r'^(ANEKS|SHTOJC|LIDHJ|TABEL|RREGULLORE|Aneks|Shtojc|Lidhj|Tabel)', tail[i]):
+            foot.append(tail[i])
+            i += 1
+        unit(units, order, 'zz-nenshkrimi', 'Nënshkrimi', 'enactment', ['# Nënshkrimi'] + foot)
+    else:
+        while i < len(tail) and (RE_FOOT_LAW.match(tail[i]) or (foot[-1].startswith('KRYETAR') and len(tail[i]) < 40
+                                                                 and not tail[i].endswith('.'))):
+            foot.append(tail[i])
+            i += 1
+        unit(units, order, 'zz-miratuar', 'Miratimi dhe shpallja', 'enactment', ['# Miratimi dhe shpallja'] + foot)
+    if i < len(tail):
+        unit(units, order, 'zz-shtojca', 'Shtojca', 'annex', ['# Shtojca'] + tail[i:])
+    if not units['hyrje']['lines']:
+        raise Hold('no_header')
+    if kind == 'vendim' and not has_neni and last_point == 0 and len(order) < 3:
+        pass  # a decision of one unnumbered paragraph: its text stays in hyrje's VENDOSI block and after it
+    return {k: {'label': units[k]['label'], 'kind': units[k]['kind'], 'text': '\n'.join(units[k]['lines']) + '\n'}
+            for k in order if units[k]['lines']}
+
+
+def header_ok(kind: str, a: dict, paras: list[str]) -> bool:
+    head = ' '.join(paras[:6])
+    num = re.escape(a['number'].split('-')[0])
+    if kind == 'vendim':
+        m = re.search(r'\bNr\.?\s*' + num + r'\b(?:\s*-\s*\d+)?\s*,?\s*' + DATE, head, re.I)
+        return bool(m) and iso(m.group(1), m.group(2), m.group(3)) == a['date']
+    m = re.search(r'\bNr\.?\s*' + num + r'\s*(?:/\s*(\d{4})|,?\s*' + DATE + ')', head, re.I)
+    if not m:
+        return False
+    if m.group(1):
+        return m.group(1) == a['date'][:4]
+    return iso(m.group(2), m.group(3), m.group(4)) == a['date']
+
+
+def label_of(kind: str, a: dict) -> str:
+    if kind == 'vendim':
+        return f'Vendimi i Këshillit të Ministrave nr. {a["number"]}, datë {dmy(a["date"])}'
+    num = a['number'].split('-')[0]
+    return f'Ligji nr. {num}/{a["date"][:4]}' if int(a['date'][:4]) >= 2009 else f'Ligji nr. {num}'
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--cache', required=True)
+    ap.add_argument('--published', help="the repository's data/versions.json: laws it holds under earlier names")
+    ap.add_argument('--retrieved', default=None)
+    ap.add_argument('--memo', help='folder for extracted paragraphs (speeds up repeat runs)')
+    ap.add_argument('--report')
+    a = ap.parse_args()
+    cache = Path(a.cache)
+    memo = Path(a.memo) if a.memo else None
+    L = listing(cache)
+    retrieved = a.retrieved or max((x['date'] for x in L), default='')
+    held_old: set[tuple[str, str]] = set()
+    if a.published and Path(a.published).exists():
+        for act in json.loads(Path(a.published).read_text(encoding='utf-8')).get('acts', []):
+            m = re.fullmatch(r'ligji-(\d+)-(\d{4})', act['slug'])
+            if m:
+                held_old.add((m.group(1), m.group(2)))
+            for v in act.get('versions', [])[:1]:
+                pass
+    for p in sorted(PARTS.glob('*.json')):
+        if p.name[:2] in ('40', '41'):
+            continue
+        d = json.loads(p.read_text(encoding='utf-8'))
+        for key in d.get('laws', {}):
+            m = re.fullmatch(r'ligji-(\d+)-(\d{4})', key)
+            if m and any(x.get('first_law') == key for x in d.get('acts', [])):
+                held_old.add((m.group(1), m.group(2)))
+        for s in d.get('sources', []):
+            m = re.search(r'/acts/(\d+)/', s.get('url', ''))
+            if m:
+                held_old.add(('id', m.group(1)))
+
+    # Citations that say an act was changed: other acts' titles, then the texts held here.
+    named: dict[tuple, set[int]] = defaultdict(set)
+    for x in L:
+        t = norm(x['title'])
+        if x['kind'] != 'Akt bazë' or CHANGE_TITLE.search(t):
+            for ref, _, _ in cites(t):
+                named[ref].add(x['id'])
+    count = defaultdict(int)
+    for x in L:
+        if kind_of(x):
+            count[(kind_of(x), ident(x))] += 1
+    texts: dict[int, list[str]] = {}
+    for x in L:
+        if kind_of(x):
+            ps = text_of(cache, memo, x)
+            if ps is not None:
+                texts[x['id']] = ps
+    cited_changed: dict[tuple, set[int]] = defaultdict(set)
+    for i, ps in texts.items():
+        t = '\n'.join(ps)
+        spots = list(cites(t))
+        for ref, s, e in spots:
+            nxt = NEXT_CITE.search(t, e)
+            window = t[e:min(e + 300, nxt.start() if nxt else len(t))]
+            if STEMS.search(window):
+                cited_changed[ref].add(i)
+
+    parts: dict[str, dict] = defaultdict(lambda: {'laws': {}, 'acts': []})
+    holds = []
+    for x in L:
+        kind = kind_of(x)
+        if not kind:
+            continue
+        ref = ident(x)
+        try:
+            if kind == 'ligj' and ((ref[1], ref[2]) in held_old or ('id', str(x['id'])) in held_old):
+                continue  # on main already, under its earlier name
+            if x.get('versions'):
+                raise Hold('has_versions')
+            if count[(kind, ref)] > 1:
+                raise Hold('duplicate_number')
+            if kind == 'ligj':
+                m = BUDGET.search(x['title'])
+                if m and m.group(4) < retrieved[:4]:
+                    raise Hold('spent_budget_law')
+            rel = read_json(cache, f'{API}/acts/{x["id"]}/relations')
+            if rel is None:
+                raise Hold('relations_not_fetched')
+            if any(r.get('direction') == 'in' and r.get('type') in ('CHANGES', 'REPEALS') for r in rel):
+                raise Hold('qbz_changed_or_repealed')
+            if named.get(ref, set()) - {x['id']}:
+                raise Hold('named_in_changing_title:' + ','.join(map(str, sorted(named[ref] - {x['id']})[:5])))
+            if cited_changed.get(ref, set()) - {x['id']}:
+                raise Hold('cited_as_changed:' + ','.join(map(str, sorted(cited_changed[ref] - {x['id']})[:5])))
+            g = read_json(cache, f'{API}/gazettes/{x["gazette"]["year"]}/{x["gazette"]["number"]}')
+            if g is None:
+                raise Hold('gazette_not_fetched')
+            published = (g.get('gazette') or {}).get('publishDate')
+            if not published:
+                raise Hold('publication_day_missing')
+            if not (x['date'] <= published <= add_days(x['date'], 120)):
+                raise Hold(f'publication_day_inconsistent:{published} vs {x["date"]}')
+            paras = texts.get(x['id'])
+            if paras is None:
+                raise Hold('text_not_fetched')
+            if any(RE_NOTE.match(p) for p in paras):
+                raise Hold('qbz_amendment_notes')
+            if not header_ok(kind, x, paras):
+                raise Hold('header_mismatch')
+            text = '\n'.join(paras)
+            day, how = in_force(kind, text, published)
+            units = split(paras, kind)
+            if kind == 'ligj' and not any(k.startswith('neni-') for k in units):
+                raise Hold('no_articles')
+        except Hold as h:
+            holds.append({'id': x['id'], 'kind': kind, 'number': x['number'], 'date': x['date'],
+                          'title': x['title'][:160], 'reason': str(h)})
+            continue
+        year = x['date'][:4]
+        slug = f'{kind}-{year}-{x["number"].lower()}'
+        title = title_of(x)
+        url = f'{SITE}{x["eliPath"]}' if x.get('eliPath') else None
+        law = {'label': label_of(kind, x), 'title': title, 'kind': 'decree' if kind == 'vendim' else 'law',
+               'enacted': x['date'], 'published': published, 'url': url, 'temporary_until': None,
+               'restores': None, 'note': None}
+        g = x['gazette']
+        part = parts[f'{"40-vendime" if kind == "vendim" else "41-ligje"}-{year}']
+        part['laws'][slug] = law
+        part['acts'].append({
+            'slug': slug, 'short': short_of(title), 'title': title, 'url': url, 'first_law': slug,
+            'earlier_laws': [],
+            'versions': [{'from': day, 'source_url': SITE + x['word']['url'], 'sha256': x['word']['sha256'],
+                          'units': units, 'credits': {},
+                          'note': f'As published in the Fletorja Zyrtare nr. {g["number"]}/{g["year"]} ({published}); '
+                                  f'in force from {day}: {how}. QBZ links no act as changing or repealing it.'}]})
+    PARTS.mkdir(exist_ok=True)
+    written = []
+    for name in sorted(parts):
+        p = parts[name]
+        p['laws'] = dict(sorted(p['laws'].items()))
+        p['acts'].sort(key=lambda r: (r['versions'][0]['from'], r['slug']))
+        vkm = name.startswith('40-')
+        p['sources'] = [{
+            'name': 'Qendra e Botimeve Zyrtare (qbz.gov.al): ' +
+                    ('decisions of the Council of Ministers in force, as published' if vkm else
+                     'laws in force, as published'),
+            'url': f'{API}/acts', 'retrieved': retrieved, 'licence': LICENCE,
+            'notes': 'Each act’s .docx as published in the Fletorja Zyrtare, its issue’s publication day and QBZ’s '
+                     'relations (no act changing or repealing it).'}]
+        p['decisions'] = [
+            ('A decision of the Council of Ministers' if vkm else 'A law') +
+            ' is published here only when QBZ links no act as changing or repealing it, no other act’s title in '
+            'QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one '
+            'version is the text as published in the Fletorja Zyrtare.',
+            ('Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi '
+             'pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the Council of Ministers’ normative acts '
+             'take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names; '
+             'any other clause holds it back.') if vkm else
+            ('Its in-force day comes from its own clause, counted from the publication day of its Fletorja Zyrtare '
+             'issue (“menjëherë”: the publication day, Kushtetuta, neni 84, pika 4); any other clause holds it back.'),
+            'The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its '
+            'adoption or more than 120 days after it is held back.']
+        p['ai_use'] = ['none']
+        f = PARTS / f'{name}.json'
+        data = json.dumps(p, ensure_ascii=False, indent=1) + '\n'
+        if not f.exists() or f.read_text(encoding='utf-8') != data:
+            tmp = f.with_suffix('.json.tmp')
+            tmp.write_text(data, encoding='utf-8', newline='\n')
+            tmp.replace(f)
+        # Verified: every act has units, one version, a day on or after adoption; the part reads back identically.
+        ok = all(r['versions'][0]['units'] and r['versions'][0]['from'] >= p['laws'][r['slug']]['enacted']
+                 for r in p['acts']) and json.loads(f.read_text(encoding='utf-8')) == p
+        pub = PARTS / f'{name}.PUBLISH'
+        if ok:
+            msg = (f'{name}: {len(p["acts"])} acts as published, each checked by parse_acts.py against QBZ’s '
+                   f'relations, listing titles and the texts held (no change or repeal found).\n')
+            if not pub.exists() or pub.read_text(encoding='utf-8') != msg:
+                pub.write_text(msg, encoding='utf-8', newline='\n')
+        elif pub.exists():
+            pub.unlink()
+        written.append((name, len(p['acts'])))
+    if a.report:
+        Path(a.report).write_text(''.join(json.dumps(h, ensure_ascii=False) + '\n' for h in holds), encoding='utf-8')
+    reasons = defaultdict(int)
+    for h in holds:
+        reasons[h['reason'].split(':')[0]] += 1
+    print(json.dumps({'published': sum(n for _, n in written), 'held': len(holds), 'held_by_reason': dict(reasons),
+                      'parts': len(written)}, ensure_ascii=False))
+
+
+if __name__ == '__main__':
+    main()

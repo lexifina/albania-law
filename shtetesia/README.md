@@ -37,3 +37,12 @@ Shtetësia · 3 versions, from 2020-10-14 (latest in force: 2026-06-20) · <http
 | Neni 25 | [neni-025.md](neni-025.md) | 0 |  |
 | Neni 26 | [neni-026.md](neni-026.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
+
+Act id: `shtetesia` (tags `shtetesia/<day>`; `python tools/on.py <day> shtetesia`).
+
+## Decisions made by hand
+
+- Shtetësia: in force on 2020-10-14: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare", published 2020-09-29.
+- Shtetësia: Ligji nr. 77/2024 (Fletorja Zyrtare nr. 95/2024, 2024-06-06) takes effect on 2024-06-21: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare". QBZ dates its consolidated version 1 2024-05-02.
+- Shtetësia: QBZ’s consolidated version 1 changes Neni 24, which neither a note nor Ligji nr. 77/2024 names; the change is recorded as unexplained, from the publisher.
+- Shtetësia: Ligji nr. 49/2026 (Fletorja Zyrtare nr. 116/2026, 2026-06-05) takes effect on 2026-06-20: its clause "hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare". QBZ dates its consolidated version 2 2026-05-08.
