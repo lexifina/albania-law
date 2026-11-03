@@ -1,0 +1,39 @@
+# Për miratimin e rregullores për parimet dhe udhëzimet e praktikës së prodhimit të mirë të barnave, për përdorim njerëzor, në Republikën e Shqipërisë
+
+Miratimin e rregullores për parimet dhe udhëzimet e praktikës së prodhimit të mirë të barnave, për përdorim njerëzor, në · 2 versions, from 2015-05-15 (latest in force: 2023-09-01) · <https://qbz.gov.al/eli/vendim/2015/04/29/359>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 1 | 2023-09-01 |
+| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
+| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-09-01 |
+
+Act id: `vendim-2015-359` (tags `vendim-2015-359/<day>`; `python tools/on.py <day> vendim-2015-359`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Vendimi i Këshillit të Ministrave nr. 102, datë 4.2.2015: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 382, datë 25.5.2016 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 102, datë 4.2.2015: QBZ’s consolidated version 1 changes Pika 6, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 382, datë 25.5.2016 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 145, datë 18.2.2015: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 594, datë 4.9.2019 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 145, datë 18.2.2015: QBZ’s consolidated version 1 changes Pika 9, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 594, datë 4.9.2019 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 348, datë 29.4.2015: QBZ’s consolidated version 1 changes Pika 8, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 272, datë 12.5.2021 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 359, datë 29.4.2015: QBZ’s consolidated version 1 changes Hyrje, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 514, datë 30.8.2023 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 359, datë 29.4.2015: QBZ’s consolidated version 1 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 514, datë 30.8.2023 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 456, datë 27.5.2015: QBZ’s consolidated version 1 changes Pika 3, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 743, datë 9.9.2015 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 551, datë 18.6.2015: QBZ’s consolidated version 1 changes Pika 9, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 509, datë 17.7.2019 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 551, datë 18.6.2015: QBZ’s consolidated version 1 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 509, datë 17.7.2019 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 558, datë 18.6.2015: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 681, datë 26.10.2022 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 638, datë 22.7.2015: QBZ’s consolidated version 1 changes Hyrje, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 866, datë 22.10.2015 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 789, datë 22.9.2015: QBZ’s consolidated version 1 changes Pika 2, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 66, datë 13.2.2019 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 789, datë 22.9.2015: QBZ’s consolidated version 2 changes Pika 6, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 259, datë 5.5.2021 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 911, datë 11.11.2015: QBZ’s consolidated version 1 changes Pika 2, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 237, datë 30.3.2016 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 1056, datë 23.12.2015: QBZ’s consolidated version 1 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 643, datë 2.10.2019 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 343, datë 22.4.2015: QBZ’s consolidated version 1 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 239, datë 21.3.2017 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 795, datë 22.9.2015: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 726, datë 16.9.2020 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 795, datë 22.9.2015: QBZ’s consolidated version 1 changes Pika 5, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 726, datë 16.9.2020 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 574, datë 24.6.2015: QBZ’s consolidated version 1 changes Pika 3, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 319, datë 27.4.2016 names; the change is recorded as unexplained, from the publisher.

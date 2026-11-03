@@ -1,0 +1,19 @@
+# Për miratimin e rregullave të përgjithshme për procedurat e dhënies të së drejtës së kalimit për ndërtimin e rrjeteve të komunikimeve elektronike me shpejtësi të lartë
+
+Miratimin e rregullave të përgjithshme për procedurat e dhënies të së drejtës së kalimit për ndërtimin e rrjeteve të kom · 1 versions, from 2022-03-16 (latest in force: 2022-03-16) · <https://qbz.gov.al/eli/vendim/2022/03/11/155>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
+| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
+
+Act id: `vendim-2022-155` (tags `vendim-2022-155/<day>`; `python tools/on.py <day> vendim-2022-155`).
+
+## Decisions made by hand
+
+- One of these decisions of the Council of Ministers is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the normative acts of the Council of Ministers and of ministers take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names; any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.

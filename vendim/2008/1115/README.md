@@ -1,0 +1,17 @@
+# Për disa çështje në zbatim të ligjeve nr.7703, datë 11. 5.1993 “për sigurimet shoqërore në republikën e shqipërisë”, të ndryshuar, nr.9136, datë 11.9.2003 “për mbledhjen e kontributeve të detyrueshme të sigurimeve shoqërore dhe shëndetësore në republikën e shqipërisë”, të ndryshuar, dhe nr.7870, datë 13.10.1994 “për sigurimet shëndetësore në republikën e shqipërisë”, të ndryshuar
+
+Disa çështje në zbatim të ligjeve nr.7703, datë 11. 5.1993 “për sigurimet shoqërore në republikën e shqipërisë”, të ndry · 1 versions, from 2008-08-08 (latest in force: 2008-08-08) · <https://qbz.gov.al/eli/vendim/2008/07/23/1115>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Vendimi | [pika-000.md](pika-000.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+
+Act id: `vendim-2008-1115` (tags `vendim-2008-1115/<day>`; `python tools/on.py <day> vendim-2008-1115`).
+
+## Decisions made by hand
+
+- One of these decisions of the Council of Ministers is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the normative acts of the Council of Ministers and of ministers take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names; any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.

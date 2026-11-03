@@ -1,0 +1,18 @@
+# Për shembjen e tetë objekteve të dhëna me qira me kontratën e qirasë nr.1823 Rep., nr.867 Kol., datë 13.9.2019, me tarifën 1/euro kontrata, të lidhur ndërmjet Ministrisë së Financave dhe Ekonomisë, si qiradhënës, dhe shoqërisë “Rozafa”, sh.p.k., si qiramarrës, në administrim të Ministrisë së Mbrojtjes
+
+Shembjen e tetë objekteve të dhëna me qira me kontratën e qirasë nr.1823 Rep., nr.867 Kol., datë 13.9.2019, me tarifën 1 · 1 versions, from 2020-05-11 (latest in force: 2020-05-11) · <https://qbz.gov.al/eli/vendim/2020/05/06/367>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
+| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+
+Act id: `vendim-2020-367` (tags `vendim-2020-367/<day>`; `python tools/on.py <day> vendim-2020-367`).
+
+## Decisions made by hand
+
+- One of these decisions of the Council of Ministers is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the normative acts of the Council of Ministers and of ministers take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names; any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.

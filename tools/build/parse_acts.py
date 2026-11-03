@@ -432,21 +432,61 @@ def label_of(kind: str, a: dict) -> str:
     return f'Ligji nr. {num}/{a["date"][:4]}' if int(a['date'][:4]) >= 2009 else f'Ligji nr. {num}'
 
 
+AMBIG: set = set()      # (family, year, number) that QBZ gives to more than one act
+PUB_URL: dict = {}      # act slug on main -> its url, so a key already published never changes
+
+
+def family(x: dict) -> str | None:
+    if x['type'] == 'Ligj':
+        return 'ligj'
+    if x['type'] == 'Vendim' and x.get('institution') == 'Këshilli i Ministrave':
+        return 'vendim'
+    if x['type'] == 'Vendim' and x.get('institution') == 'Gjykata Kushtetuese':
+        return 'vendim-gjk'
+    if x['type'] == 'Akt normativ':
+        return 'akt-normativ'
+    return None
+
+
+def set_ambiguous(L: list) -> None:
+    seen: dict = defaultdict(set)
+    for x in L:
+        f = family(x)
+        if f:
+            seen[(f, x['date'][:4], x['number'].split('-')[0] if f != 'vendim' else x['number'].lower())].add(x['date'])
+    AMBIG.clear()
+    AMBIG.update(k for k, days in seen.items() if len(days) > 1)
+
+
+def year_key(f: str, x: dict) -> str:
+    """<family>-<year>-<number>, or with -<MMDD> when QBZ gives that number in that year to more than one act (a key
+    already on main for this very act is kept)."""
+    num = x['number'].split('-')[0] if f != 'vendim' else x['number'].lower()
+    plain = f'{f}-{x["date"][:4]}-{num}'
+    if (f, x['date'][:4], num) not in AMBIG:
+        return plain
+    url = f'{SITE}{x["eliPath"]}' if x.get('eliPath') else None
+    if plain in PUB_URL and PUB_URL[plain] == url:
+        return plain
+    return f'{plain}-{x["date"][5:7]}{x["date"][8:10]}'
+
+
 def law_ref(x: dict) -> tuple[str, str, str]:
     """(law key, label, kind) for any QBZ act that changes another."""
     num = x['number'].split('-')[0]
     y = x['date'][:4]
     if x['type'] == 'Ligj':
-        return f'ligj-{y}-{num}', label_of('ligj', x), 'law'
+        return year_key('ligj', x), label_of('ligj', x), 'law'
     if x['type'] == 'Vendim' and x.get('institution') == 'Këshilli i Ministrave':
-        return f'vendim-{y}-{x["number"].lower()}', label_of('vendim', x), 'decree'
+        return year_key('vendim', x), label_of('vendim', x), 'decree'
     if x['type'] == 'Vendim' and x.get('institution') == 'Gjykata Kushtetuese':
-        return f'vendim-gjk-{y}-{num}', f'Vendimi i Gjykatës Kushtetuese nr. {num}/{y}', 'court'
+        return year_key('vendim-gjk', x), f'Vendimi i Gjykatës Kushtetuese nr. {num}, datë {dmy(x["date"])}', 'court'
     if x['type'] in MINISTERIAL:
         k = MINISTERIAL[x['type']]
-        return f'{k}-{y}-{x["date"][5:7]}{x["date"][8:10]}-{num}', label_of(k, x), 'decree'
+        # numbers repeat across ministries: the QBZ record id keeps two such acts of one day apart
+        return f'{k}-{y}-{x["date"][5:7]}{x["date"][8:10]}-{num}-q{x["id"]}', label_of(k, x) + f' [QBZ {x["id"]}]', 'decree'
     if x['type'] == 'Akt normativ':
-        return f'akt-normativ-{y}-{num}', f'Akti normativ nr. {num}, datë {dmy(x["date"])}', 'decree'
+        return year_key('akt-normativ', x), f'Akti normativ nr. {num}, datë {dmy(x["date"])}', 'decree'
     t = unicodedata.normalize('NFKD', x['type']).encode('ascii', 'ignore').decode().lower()
     t = re.sub(r'[^a-z0-9]+', '-', t).strip('-')
     return f'{t}-{y}-{x["date"][5:7]}{x["date"][8:10]}-{num}', f'{x["type"]} nr. {num}, datë {dmy(x["date"])} ({x.get("institution") or ""})', 'decree'
@@ -663,7 +703,7 @@ def compute(cache: Path, memo: Path | None, x: dict, kind: str, hist: bool, byid
                 if kind == 'ligj' and not any(k.startswith('neni-') for k in units):
                     raise Hold('no_articles')
         year = x['date'][:4]
-        slug = f'{kind}-{year}-{x["number"].lower()}' if kind in ('vendim', 'ligj') else \
+        slug = year_key(kind, x) if kind in ('vendim', 'ligj') else \
             f'{kind}-{year}-{x["date"][5:7]}{x["date"][8:10]}-{x["number"].split("-")[0]}'
         title = title_of(x)
         url = f'{SITE}{x["eliPath"]}' if x.get('eliPath') else None
@@ -692,27 +732,35 @@ def main():
     ap.add_argument('--retrieved', default=None)
     ap.add_argument('--memo', help='folder for extracted paragraphs (speeds up repeat runs)')
     ap.add_argument('--report')
+    ap.add_argument('--out', help='write the parts here instead of corpus.d (a scratch run)')
     ap.add_argument('--result-cache', help='file keeping per-text and per-act results between runs (same output)')
     ap.add_argument('--publish-ministerial', action='store_true', help='also mark instructions and orders (44-47) as verified')
     ap.add_argument('--publish-history', action='store_true',
                     help='also mark the parts with consolidated histories (42-, 43-) as verified')
     a = ap.parse_args()
+    if a.out:
+        global PARTS
+        PARTS = Path(a.out)
     cache = Path(a.cache)
     memo = Path(a.memo) if a.memo else None
     L = listing(cache)
+    set_ambiguous(L)
     retrieved = a.retrieved or max((x['date'] for x in L), default='')
     held_old: set[tuple[str, str]] = set()
     if a.published and Path(a.published).exists():
         for act in json.loads(Path(a.published).read_text(encoding='utf-8')).get('acts', []):
+            PUB_URL[act['slug']] = act.get('url')
             m = re.fullmatch(r'ligji-(\d+)-(\d{4})', act['slug'])
             if m:
                 held_old.add((m.group(1), m.group(2)))
             for v in act.get('versions', [])[:1]:
                 pass
-    for p in sorted(PARTS.glob('*.json')):
-        if p.name[:2] in ('40', '41'):
+    labels: dict[str, str] = {}  # law key -> label across every part: one key never names two acts
+    for p in sorted((HERE / 'corpus.d').glob('*.json')):
+        if p.name[:2] in ('40', '41', '42', '43', '44', '45', '46', '47'):
             continue
         d = json.loads(p.read_text(encoding='utf-8'))
+        labels.update({k: v['label'] for k, v in d.get('laws', {}).items()})
         for key in d.get('laws', {}):
             m = re.fullmatch(r'ligji-(\d+)-(\d{4})', key)
             if m and any(x.get('first_law') == key for x in d.get('acts', [])):
@@ -791,6 +839,13 @@ def main():
                           'title': x['title'][:160], 'reason': str(h)})
             continue
         _, part_name, slug, law, act, hlaws, hdec = res
+        clash = [k for k, v in [(slug, law)] + list((hlaws or {}).items()) if labels.get(k, v['label']) != v['label']]
+        if clash:
+            holds.append({'id': x['id'], 'kind': kind, 'number': x['number'], 'date': x['date'],
+                          'title': x['title'][:160], 'reason': 'law_key_clash:' + ','.join(clash[:3])})
+            continue
+        labels[slug] = law['label']
+        labels.update({k: v['label'] for k, v in (hlaws or {}).items()})
         part = parts[part_name]
         part['laws'][slug] = law
         if hlaws:

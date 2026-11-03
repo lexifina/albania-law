@@ -1,0 +1,18 @@
+# Për dhënien e miratimit për kalimin e kontratës së qirasë nr. 455 regj., nr. 151 prot., datë 5.5.2014, në kontratë me tarifën 1 euro/kontrata, ndërmjet ministrisë së zhvillimit ekonomik, turizmit, tregtisë dhe sipërmarrjes, si qiradhënës, dhe shoqërisë “ardit”, sh.p.k., si qiramarrës, për pasurinë “depo të sheqerit, depo të bërsive, repart ambalazhi, depo dhe sipërfaqe funksionale”, të shoqërisë “kombinati i sheqerit”, sh.a., maliq
+
+Dhënien e miratimit për kalimin e kontratës së qirasë nr. 455 regj., nr. 151 prot., datë 5.5.2014, në kontratë me tarifë · 1 versions, from 2017-05-11 (latest in force: 2017-05-11) · <https://qbz.gov.al/eli/vendim/2017/05/03/389>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
+| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+
+Act id: `vendim-2017-389` (tags `vendim-2017-389/<day>`; `python tools/on.py <day> vendim-2017-389`).
+
+## Decisions made by hand
+
+- One of these decisions of the Council of Ministers is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the normative acts of the Council of Ministers and of ministers take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names; any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.

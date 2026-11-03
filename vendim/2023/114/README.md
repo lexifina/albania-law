@@ -1,0 +1,41 @@
+# Për përdorimin e fondit të kontingjencës për kompensimin financiar të rritjes së kontributeve të sigurimeve shoqërore dhe shëndetësore, për çdo të punësuar më pagë minimale, për shkak të rritjes së kësaj page në shkallë vendi
+
+Përdorimin e fondit të kontingjencës për kompensimin financiar të rritjes së kontributeve të sigurimeve shoqërore dhe sh · 2 versions, from 2023-03-02 (latest in force: 2023-08-07) · <https://qbz.gov.al/eli/vendim/2023/03/01/114>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 1 | 2023-08-07 |
+| Vendimi | [pika-000.md](pika-000.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 1 | 2023-08-07 |
+| Pika 2 | [pika-002.md](pika-002.md) | 1 | 2023-08-07 |
+| Pika 3 | [pika-003.md](pika-003.md) | 1 | 2023-08-07 |
+| Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
+| Pika 5 | [pika-005.md](pika-005.md) | 1 | 2023-08-07 |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+
+Act id: `vendim-2023-114` (tags `vendim-2023-114/<day>`; `python tools/on.py <day> vendim-2023-114`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Vendimi i Këshillit të Ministrave nr. 65, datë 8.2.2023: QBZ’s consolidated version 1 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 66, datë 14.2.2024 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 206, datë 7.4.2023: QBZ’s consolidated version 1 changes Pika 7, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 115, datë 27.2.2026 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 206, datë 7.4.2023: QBZ’s consolidated version 1 changes Pika 10, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 115, datë 27.2.2026 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 206, datë 7.4.2023: QBZ’s consolidated version 1 changes Pika 12, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 115, datë 27.2.2026 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 286, datë 17.5.2023: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 562, datë 15.7.2026 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 329, datë 31.5.2023: QBZ’s consolidated version 1 changes Pika 11, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 442, datë 31.7.2025 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 324, datë 31.5.2023: QBZ’s consolidated version 1 changes Pika 19, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 102, datë 11.2.2026 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 381, datë 29.6.2023: QBZ’s consolidated version 1 changes Hyrje, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 634, datë 15.11.2023 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 384, datë 29.6.2023: QBZ’s consolidated version 1 changes Pika 1, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 381, datë 10.7.2025 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 384, datë 29.6.2023: QBZ’s consolidated version 1 changes Pika 7, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 381, datë 10.7.2025 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 384, datë 29.6.2023: QBZ’s consolidated version 1 changes Pika 8, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 381, datë 10.7.2025 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 428, datë 19.7.2023: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 59, datë 29.1.2025 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 509, datë 30.8.2023: QBZ’s consolidated version 1 changes Kreu VI, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 840, datë 26.12.2024 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 531, datë 7.9.2023: QBZ’s consolidated version 2 changes Pika 6, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 768, datë 13.12.2024 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 531, datë 7.9.2023: QBZ’s consolidated version 2 changes Pika 8, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 768, datë 13.12.2024 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 531, datë 7.9.2023: QBZ’s consolidated version 2 changes Pika 9, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 768, datë 13.12.2024 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 531, datë 7.9.2023: QBZ’s consolidated version 2 changes Pika 10, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 768, datë 13.12.2024 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 719, datë 13.12.2023: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 44, datë 22.1.2025 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 795, datë 28.12.2023: QBZ’s consolidated version 1 changes Pika 5, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 45, datë 24.1.2024 names; the change is recorded as unexplained, from the publisher.

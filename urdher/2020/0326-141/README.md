@@ -1,0 +1,24 @@
+# Për miratimin e rregullores së funksionimit dhe organizimit të Komisionit të Rregjistrimit të Produkteve Plehëruese
+
+Miratimin e rregullores së funksionimit dhe organizimit të Komisionit të Rregjistrimit të Produkteve Plehëruese · 2 versions, from 2020-04-09 (latest in force: 2026-07-08) · <https://qbz.gov.al/eli/urdher/2020/03/26/141>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
+| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-07-08 |
+
+Act id: `urdher-2020-0326-141` (tags `urdher-2020-0326-141/<day>`; `python tools/on.py <day> urdher-2020-0326-141`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Urdhri nr. 14, datë 16.1.2020 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 1 changes Shtojca, which neither a QBZ note nor Urdhri nr. 165, datë 9.6.2020 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 21778] names; the change is recorded as unexplained, from the publisher.
+- Urdhri nr. 132, datë 8.3.2020 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale): QBZ’s consolidated version 1 changes Pika 2, which neither a QBZ note nor Urdhri nr. 222, datë 1.4.2020 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 21422] names; the change is recorded as unexplained, from the publisher.
+- Urdhri nr. 279, datë 25.4.2020 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale): QBZ’s consolidated version 1 changes Pika 1, which neither a QBZ note nor Urdhri nr. 288, datë 30.4.2020 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 21568] names; the change is recorded as unexplained, from the publisher.
+- Urdhri nr. 189, datë 22.6.2020 (Ministria e Drejtësisë): QBZ’s consolidated version 1 changes Shtojca, which neither a QBZ note nor Urdhri nr. 189-1, datë 22.9.2020 (Ministria e Drejtësisë) [QBZ 22162] names; the change is recorded as unexplained, from the publisher.
+- Urdhri nr. 437, datë 23.7.2020 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale): QBZ’s consolidated version 1 changes Vendimi, which neither a QBZ note nor Urdhri nr. 412, datë 24.9.2021 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 23673] names; the change is recorded as unexplained, from the publisher.

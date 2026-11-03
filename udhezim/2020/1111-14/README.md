@@ -1,0 +1,23 @@
+# Për caktimin e masave zbatuese për produkte të caktuara në udhëzimin nr. 23, datë 25.11.2010, “Për kërkesat specifike të higjienës për mishin dhe produktet e mishit, duke përfshirë produktet e mishit, mishin e grirë dhe mishin e ndarë në mënyrë mekanike”, udhëzimin nr. 25, datë 25.11.2010 “Për kushtet higjienike dhe kontrollet për molusqet e gjalla dhe bivalvore, peshkun dhe produktet e peshkimit”, dhe udhëzimin nr. 5, datë 25.3.2011, “Për kërkesat specifike të higjienës për stabilimentet e prodhimit, grumbullimit dhe përpunimit të qumështit dhe produkteve me bazë qumështi”
+
+Caktimin e masave zbatuese për produkte të caktuara në udhëzimin nr. 23, datë 25.11.2010, “Për kërkesat specifike të hig · 1 versions, from 2020-11-19 (latest in force: 2020-11-19) · <https://qbz.gov.al/eli/udhezim/2020/11/11/14>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
+| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
+| Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
+| Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
+| Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
+| Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
+
+Act id: `udhezim-2020-1111-14` (tags `udhezim-2020-1111-14/<day>`; `python tools/on.py <day> udhezim-2020-1111-14`).
+
+## Decisions made by hand
+
+- One of these instructions (udhëzime) is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the normative acts of the Council of Ministers and of ministers take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names; any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.

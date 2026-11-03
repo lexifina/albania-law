@@ -1,0 +1,18 @@
+# Për miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Bosnjës dhe Hercegovinës dhe qeverive të vendeve të tjera anëtare të Iniciativës së Gatishmërisë dhe Parandalimit të Fatkeqësive për Evropën Juglindore, mbi marrëveshjet e vendit pritës, për Sekretariatin e Iniciativës së Gatishmërisë dhe Parandalimit të Fatkeqësive për Evropën Juglindore
+
+Miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Bosnjës dhe Hercegovinës dhe qeverive të vendeve të tjera  · 1 versions, from 2019-10-01 (latest in force: 2019-10-01) · <https://qbz.gov.al/eli/vendim/2019/09/25/629>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Vendimi | [pika-000.md](pika-000.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
+
+Act id: `vendim-2019-629` (tags `vendim-2019-629/<day>`; `python tools/on.py <day> vendim-2019-629`).
+
+## Decisions made by hand
+
+- One of these decisions of the Council of Ministers is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the normative acts of the Council of Ministers and of ministers take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names; any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.

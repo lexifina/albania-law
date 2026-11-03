@@ -1,0 +1,18 @@
+# Për ekzekutimin e vendimit të gjykatës evropiane për të drejtat e njeriut, datë 7.4.2016, për çështjen “aliçka dhe të tjerë kundër shqipërisë” (për ankimet nr. 33148/11, nr. 33151/11, nr. 33823/11, nr. 46103/11, nr. 72334/11 dhe nr. 78960/11)
+
+Ekzekutimin e vendimit të gjykatës evropiane për të drejtat e njeriut, datë 7.4.2016, për çështjen “aliçka dhe të tjerë  · 1 versions, from 2016-09-09 (latest in force: 2016-09-09) · <https://qbz.gov.al/eli/vendim/2016/08/31/615>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Vendimi | [pika-000.md](pika-000.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
+
+Act id: `vendim-2016-615` (tags `vendim-2016-615/<day>`; `python tools/on.py <day> vendim-2016-615`).
+
+## Decisions made by hand
+
+- One of these decisions of the Council of Ministers is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the normative acts of the Council of Ministers and of ministers take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names; any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.

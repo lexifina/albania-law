@@ -1,0 +1,19 @@
+# Për miratimin e rezolutave nr. 259, ”Ndryshim në nenin 1 të marrëveshjes, që themelon Bankën Evropiane për Rindërtim dhe Zhvillim për mundësimin e një zgjerimi të kufizuar dhe rritës të shtrirjes gjeografike të operacioneve të bankës për Afrikën Sub-Sahariane dhe Irakun”, dhe nr. 260, ”Ndryshim në nenin 12.1 të marrëveshjes, që themelon Bankën Evropiane për Rindërtim dhe Zhvillim për heqjen e kufizimit të kapitalit statutor për operacionet e zakonshme”, të vitit 2023, të bordit të guvernatorëve të Bankës Evropiane për Rindërtim dhe Zhvillim (Berzh)
+
+Miratimin e rezolutave nr. 259, ”Ndryshim në nenin 1 të marrëveshjes, që themelon Bankën Evropiane për Rindërtim dhe Zhv · 1 versions, from 2023-12-26 (latest in force: 2023-12-26) · <https://qbz.gov.al/eli/vendim/2023/12/20/757>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
+| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
+
+Act id: `vendim-2023-757` (tags `vendim-2023-757/<day>`; `python tools/on.py <day> vendim-2023-757`).
+
+## Decisions made by hand
+
+- One of these decisions of the Council of Ministers is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the normative acts of the Council of Ministers and of ministers take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names; any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.

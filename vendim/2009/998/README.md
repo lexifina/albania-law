@@ -1,0 +1,47 @@
+# Për kuotat financiare të ushqimit në mensa e konvikte, bursat e shtetit dhe pagesat e nxënësve dhe të studentëve, në institucionet arsimore publike, për vitin shkollor 2009-2010
+
+Kuotat financiare të ushqimit në mensa e konvikte, bursat e shtetit dhe pagesat e nxënësve dhe të studentëve, në institu · 2 versions, from 2009-11-20 (latest in force: 2010-01-27) · <https://qbz.gov.al/eli/vendim/2009/09/30/998>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
+| Pika 2 | [pika-002.md](pika-002.md) | 1 | 2010-01-27 |
+| Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
+| Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
+| Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
+| Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
+| Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
+| Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
+| Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
+| Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
+| Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
+| Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
+| Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
+| Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
+| Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
+| Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
+
+Act id: `vendim-2009-998` (tags `vendim-2009-998/<day>`; `python tools/on.py <day> vendim-2009-998`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Vendimi i Këshillit të Ministrave nr. 21, datë 14.1.2009: QBZ’s consolidated version 1 changes Vendimi, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 171, datë 19.2.2009 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 21, datë 14.1.2009: QBZ’s consolidated version 1 changes Pika 2, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 171, datë 19.2.2009 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 52, datë 14.1.2009: QBZ’s consolidated version 1 changes Pika 3, which neither a QBZ note nor Vendimi i Gjykatës Kushtetuese nr. 24, datë 24.7.2009 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 52, datë 14.1.2009: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Gjykatës Kushtetuese nr. 24, datë 24.7.2009 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 52, datë 14.1.2009: QBZ’s consolidated version 1 changes Pika 8, which neither a QBZ note nor Vendimi i Gjykatës Kushtetuese nr. 24, datë 24.7.2009 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 52, datë 14.1.2009: QBZ’s consolidated version 1 changes Pika 9, which neither a QBZ note nor Vendimi i Gjykatës Kushtetuese nr. 24, datë 24.7.2009 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 52, datë 14.1.2009: QBZ’s consolidated version 1 changes Pika 11, which neither a QBZ note nor Vendimi i Gjykatës Kushtetuese nr. 24, datë 24.7.2009 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 237, datë 6.3.2009: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 800, datë 11.12.2019 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 954, datë 30.9.2009: QBZ’s consolidated version 3 changes Pika 9, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 897, datë 10.11.2010 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 954, datë 30.9.2009: QBZ’s consolidated version 4 changes Pika 9, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 403, datë 13.5.2015 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 1057, datë 30.9.2009: QBZ’s consolidated version 1 changes Vendimi, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 39, datë 27.1.2010 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 1196, datë 3.12.2009: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 575, datë 3.9.2014 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 1196, datë 3.12.2009: QBZ’s consolidated version 1 changes Pika 5, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 575, datë 3.9.2014 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 41, datë 14.1.2009: QBZ’s consolidated version 1 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 486, datë 23.6.2010 names; the change is recorded as unexplained, from the publisher.
