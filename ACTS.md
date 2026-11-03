@@ -1,6 +1,6 @@
 # Every act in this repository
 
-3395 acts, 3,722 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+3448 acts, 3,775 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## kushtetuta (1)
 
@@ -10472,7 +10472,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Për tatimin mbi të ardhurat | [`tatimi-mbi-te-ardhurat/`](tatimi-mbi-te-ardhurat/) | in force | 7 | 2023-05-17 | 2026-01-30 |
 
-## vendim (1650, of which 72 amending acts)
+## vendim (1703, of which 72 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -10844,6 +10844,7 @@
 | Përshpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugorshkodër - hani i hotit (shtesat) | [`vendim/2014/848/`](vendim/2014/848/) | in force | 1 | 2014-12-16 | 2014-12-16 |
 | Për miratimin e listave të tipave të habitateve natyrore, bimëve, kafshëve dhe shpendëve, me interes për bashkimin evropian | [`vendim/2014/866/`](vendim/2014/866/) | in force | 1 | 2014-12-23 | 2014-12-23 |
 | Për përcaktimin e rregullave dhe të kritereve për shpërndarjen e fondit të kompensimit të pronarëve, në të holla, për vitin 2014 | [`vendim/2014/889/`](vendim/2014/889/) | in force | 1 | 2014-12-26 | 2014-12-26 |
+| Për emërim në detyrë | [`vendim/2014/961/`](vendim/2014/961/) | in force | 1 | 2014-12-31 | 2014-12-31 |
 | Për miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së shtetit të Kuvajtit për heqjen e vizave për mbajtësit e pasaportave diplomatike, të posaçme dhe të shërbimit | [`vendim/2015/9/`](vendim/2015/9/) | in force | 1 | 2015-01-23 | 2015-01-23 |
 | Për rishpërndarje të numrit të punonjësve, ndërmjet ministrisë së mbrojtjes dhe agjencisë së prokurimit publik, për vitin 2015 | [`vendim/2015/12/`](vendim/2015/12/) | in force | 1 | 2015-01-23 | 2015-01-23 |
 | Për ndryshimin, nga tokë bujqësore në tokë urbane, truall, të sipërfaqes prej 27.9 ha, në zonën kadastrale nr. 1101, korçë | [`vendim/2015/16/`](vendim/2015/16/) | amending act | 1 | 2015-01-23 | 2015-01-23 |
@@ -10856,6 +10857,7 @@
 | Për përcaktimin e rregullave dhe procedurave të deklarimit, ruajtjes, regjistrimit dhe paaftësimit për armët e koleksionit | [`vendim/2015/96/`](vendim/2015/96/) | in force | 2 | 2015-02-12 | 2021-05-17 |
 | Për miratimin e planit të shpenzimeve, për vitin 2015, të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura | [`vendim/2015/99/`](vendim/2015/99/) | in force | 1 | 2015-02-12 | 2015-02-12 |
 | Për financimin dhe zbatimin e procesit për luftimin mekanik të proçesionares së pishës së zezë në shkallë vendi | [`vendim/2015/109/`](vendim/2015/109/) | in force | 1 | 2015-02-12 | 2015-02-12 |
+| Për lirim nga detyra | [`vendim/2015/118/`](vendim/2015/118/) | in force | 1 | 2015-02-20 | 2015-02-20 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “Tiranë - Ndroq - Plepa (loti 7) | [`vendim/2015/221/`](vendim/2015/221/) | in force | 1 | 2015-03-19 | 2015-03-19 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit “Qafëthanë - Lin - Pogradec (loti 2) | [`vendim/2015/222/`](vendim/2015/222/) | in force | 1 | 2015-03-19 | 2015-03-19 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Për rehabilitimin dhe gjelbërimin e zonave pranë rrethrrotullimeve dhe kryqëzimeve në segmentin rrugor Rrogozhinë-Fier” | [`vendim/2015/229/`](vendim/2015/229/) | in force | 1 | 2015-03-19 | 2015-03-19 |
@@ -10867,6 +10869,7 @@
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “Levan-Vlorë (shtesat)” | [`vendim/2015/320/`](vendim/2015/320/) | in force | 1 | 2015-04-24 | 2015-04-24 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “Dalja Ura e Vashës-Bulqizë” | [`vendim/2015/321/`](vendim/2015/321/) | in force | 1 | 2015-04-24 | 2015-04-24 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projekteve në parkun e Viroit “Sistemim i parkut të Viroit, rikonstruksion i rrugës në parkun e Viroit nga ana e qytetit, ndriçim i trotuarit në parkun e Viroit nga ana e qytetit” | [`vendim/2015/322/`](vendim/2015/322/) | in force | 1 | 2015-04-24 | 2015-04-24 |
+| Për dhënie grade “Drejtues madhor” | [`vendim/2015/330/`](vendim/2015/330/) | in force | 1 | 2015-04-30 | 2015-04-30 |
 | Për miratimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Emirateve të Bashkuara Arabe, për heqjen e vizave për mbajtësit e pasaportave diplomatike, të shërbimit/të posaçme | [`vendim/2015/375/`](vendim/2015/375/) | in force | 1 | 2015-05-19 | 2015-05-19 |
 | Për ndryshimin e përgjegjësisë së administrimit, nga Ministria e Mbrojtjes te Ministria e Punëve të Brendshme, për nënprefekturën Pukë, të disa objekteve dhe të një sipërfaqeje trualli funksional, me sipërfaqe të përgjithshme 1700 m2, brenda territorit të pronës me numër rendor 531, me emërtim “Ish-reparti ushtarak nr. 2240, shkollë instruksioni, ofiçina e brigadës së këmbësorisë”, me vendndodhje në Pukë, dhe për një ndryshim në vendimin nr. 515, datë 18.7.2003, të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, që i kalojnë në përgjegjësi administrimi Ministrisë së Mbrojtjes”, të ndryshuar | [`vendim/2015/380/`](vendim/2015/380/) | amending act | 1 | 2015-05-19 | 2015-05-19 |
 | Për pjesëmarrjen e Shqipërisë në Forumin Ekonomik të Vjenës | [`vendim/2015/381/`](vendim/2015/381/) | in force | 2 | 2015-05-19 | 2015-06-09 |
@@ -11159,6 +11162,7 @@
 | Për krijimin e komisionit shtetëror bashkërendues për organizimin e aktiviteteve për kryerjen e ceremonialit funebër, në nderim të të ndjerit dritëro agolli | [`vendim/2017/75/`](vendim/2017/75/) | in force | 1 | 2017-02-07 | 2017-02-07 |
 | Për përcaktimin e procedurave të dorëzimit vullnetar të armëve të zjarrit të çdo lloji dhe trajtimin e tyre nga strukturat e Policisë së Shtetit | [`vendim/2017/82/`](vendim/2017/82/) | in force | 1 | 2017-02-15 | 2017-02-15 |
 | Për kalimin e së drejtës së pronësisë për parcelat e objekteve të legalizuara dhe kompensimin financiar të pronarëve të pasurive të paluajtshme që preken prej tyre | [`vendim/2017/89/`](vendim/2017/89/) | in force | 4 | 2017-02-16 | 2020-06-24 |
+| Për dhënie pensioni të posaçëm shtetëror z. ilir pernaska | [`vendim/2017/95/`](vendim/2017/95/) | in force | 1 | 2017-02-16 | 2017-02-16 |
 | Për përcaktimin e procedurës së kalimit nën administrimin e autoritetit për informimin mbi dokumentet e ish-sigurimit të shtetit të materialeve arkivore të ish-sigurimit të shtetit, që gjenden në ministrinë e mbrojtjes, ministrinë e punëve të brendshme, shërbimin informativ të shtetit dhe në autoritetet e tjera publike | [`vendim/2017/98/`](vendim/2017/98/) | in force | 1 | 2017-02-23 | 2017-02-23 |
 | Për dhënien në përdorim të përkohshëm, nga ministria e mbrojtjes ministrisë së zhvillimit ekonomik, turizmit, tregtisë dhe sipërmarrjes, për “albcontrol”, sh.a-në., të disa objekteve dhe sipërfaqeve, truall funksional, brenda territorit të pronave nr.223, me emërtim “reparti ushtarak nr.3028”, me vendndodhje në porto-romano, durrës, dhe nr.805, me emërtim “reparti ushtarak nr.6614/5”, me vendndodhje në malin e krujës, krujë | [`vendim/2017/100/`](vendim/2017/100/) | in force | 1 | 2017-02-27 | 2017-02-27 |
 | Për kalimin në përgjegjësi administrimi, nga drejtoria e përgjithshme e tatimeve te ministria e punëve të brendshme, të pasurisë së paluajtshme “dega e tatimeve delvinë”, me qëllim pajisjen me ndërtesë të subjektit “partia socialiste e shqipërisë”, për degën vendore të partisë socialiste delvinë | [`vendim/2017/102/`](vendim/2017/102/) | in force | 1 | 2017-02-27 | 2017-02-27 |
@@ -11202,6 +11206,7 @@
 | Për procedurën e njoftimit dhe formën e vlerësimit të përputhshmërisë së projektakteve të reja sektoriale me ligjin nr. 66/2016, “për shërbimet në republikën e shqipërisë” | [`vendim/2017/300/`](vendim/2017/300/) | in force | 1 | 2017-04-14 | 2017-04-14 |
 | Për financimin e pistës së atletikës në stadiumin “loro boriçi”, shkodër | [`vendim/2017/302/`](vendim/2017/302/) | in force | 1 | 2017-04-12 | 2017-04-12 |
 | Për miratimin e standardeve të projektimit të shkollave | [`vendim/2017/319/`](vendim/2017/319/) | in force | 2 | 2017-04-21 | 2020-03-10 |
+| Për miratimin e bonusit në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë për dhënien me koncesion/partneritet publik privat të kompletimit dhe ndërtimit të rrugës së arbrit | [`vendim/2017/321/`](vendim/2017/321/) | in force | 1 | 2017-04-20 | 2017-04-20 |
 | Për miratimin e tarifës së mirëmbajtjes së sistemit qendror të monitorimit on-line (sqmo) që duhet të paguajnë shoqëritë e licencuara | [`vendim/2017/331/`](vendim/2017/331/) | in force | 2 | 2017-04-25 | 2020-08-17 |
 | Për kalimin në pronësi, nga ministria e mbrojtjeste bashkia finiq, të pronës nr.646, me emërtim “ish-grup artileri tokësore”, me vendndodhje në krane, finiq, dhe për një ndryshim në vendimin nr.515, datë 18.7.2003, të këshillit të ministrave, “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi ministrisë së mbrojtjes”, të ndryshuar | [`vendim/2017/338/`](vendim/2017/338/) | amending act | 1 | 2017-04-25 | 2017-04-25 |
 | Për dhënien në përdorim të përkohshëm, nga ministria e mbrojtjes ministrisë së kulturës, për bibliotekën kombëtare të shqipërisë, të disa objekteve dhe të një sipërfaqeje trualli funksional, me sipërfaqe të përgjithshme 4 930 m2, brenda territorit të pronës nr. 108, me emërtim “batalioni i mbështetjes, (ish-reparti ushtarak nr. 1070)”, me vendndodhje te rrapi i treshit, tiranë | [`vendim/2017/361/`](vendim/2017/361/) | in force | 1 | 2017-05-09 | 2017-05-09 |
@@ -11217,7 +11222,10 @@
 | Për mbulimin e pjesshëm të shpenzimeve të mjekimit të znj. anxhela noçka | [`vendim/2017/376/`](vendim/2017/376/) | in force | 1 | 2017-05-09 | 2017-05-09 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “ndërtimi i kolektorit kryesor të ujërave të zeza dhe i.t.u.p në zonën turistike gjiri i lalëzit, durrës” | [`vendim/2017/379/`](vendim/2017/379/) | in force | 1 | 2017-05-09 | 2017-05-09 |
 | Për një shtesë fondi në buxhetin e vitit 2017, miratuar për komisionin qendror të zgjedhjeve, për financimin e shpenzimeve të zgjedhjeve për kuvendin e republikës së shqipërisë, të 18 qershorit 2017, dhe financimin e fushatës zgjedhore të subjekteve përkatëse pjesëmarrëse në këto zgjedhje, si edhe për financimin e zgjedhjeve të pjesshme vendore për kryetar të bashkisë kavajë, të 7 majit 2017 | [`vendim/2017/388/`](vendim/2017/388/) | in force | 2 | 2017-05-05 | 2017-12-27 |
+| Për një shtesë fondi në buxhetin e vitit 2017, miratuar për ministrinë e kulturës, për mbulimin e shpenzimeve financiare që u kryen në kuadër të organizimit të aktiviteteve për kryerjen e ceremonialit funebër, në nderim të të ndjerit dritëro agolli | [`vendim/2017/400/`](vendim/2017/400/) | in force | 1 | 2017-05-11 | 2017-05-11 |
 | Për derdhjen e kontributeve të sigurimeve shoqërore dhe njohjen si periudhë sigurimi të periudhës kur bashkëshorti/ja ka shoqëruar personelin e shërbimit të jashtëm në misionin diplomatik ose postin konsullor jashtë shtetit | [`vendim/2017/411/`](vendim/2017/411/) | in force | 1 | 2017-05-17 | 2017-05-17 |
+| Për mbulimin e pjesshëm të shpenzimeve të mjekimit të fëmijës rei shkreta | [`vendim/2017/420/`](vendim/2017/420/) | in force | 1 | 2017-05-16 | 2017-05-16 |
+| Për mbulimin e pjesshëm të shpenzimeve të mjekimit të znj. daniela koçiraj | [`vendim/2017/421/`](vendim/2017/421/) | in force | 1 | 2017-05-16 | 2017-05-16 |
 | Për rregullat e organizimit, funksionimit të komisionit për dhënien e dëshmisë së statusit të punonjësve të industrisë së naftës dhe të gazit, kriteret dhe procedurat për lëshimin e vërtetimit të posaçëm zyrtar | [`vendim/2017/425/`](vendim/2017/425/) | in force | 1 | 2017-05-18 | 2017-05-18 |
 | PËR RISHPËRNDARJE FONDESH, NGA Ministria e Infrastrukturës dhe Energjisë NË AGJENCINË PËR ZHVILLIMIN EKONOMIK RAJONAL, PËR GRANTIN “NËNPROGRAMI I MBËSHTETJES FINANCIARE PËR NDËRMARRJET MIKRO, TË VOGLA DHE TË MESME (NMVM)”, MIRATUAR ME VENDIMIN NR. 14, DATË 21.3.2017, TË KOMITETIT PËR ZHVILLIMIN E RAJONEVE | [`vendim/2017/432/`](vendim/2017/432/) | in force | 1 | 2017-05-23 | 2017-05-23 |
 | Për procedurën e pajtimit dhe shpërblimin e anëtarëve të zyrave shtetërore të pajtimit | [`vendim/2017/436/`](vendim/2017/436/) | in force | 1 | 2017-05-23 | 2017-05-23 |
@@ -11247,7 +11255,52 @@
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “shtimi i sipërfaqes së varrezave publike tufinë”, tiranë | [`vendim/2017/486/`](vendim/2017/486/) | in force | 1 | 2017-07-18 | 2017-07-18 |
 | Për një ndryshim në vendimin nr. 380, datë 25.5.2016, të këshillit të ministrave, “për miratimin e listës së barnave që rimbursohen nga fondi i sigurimit të detyrueshëm të kujdesit shëndetësor dhe të masës së mbulimit të çmimit të tyre”, të ndryshuar | [`vendim/2017/487/`](vendim/2017/487/) | amending act | 1 | 2017-07-20 | 2017-07-20 |
 | Për shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “për plotësimin dhe detajimin e projektit të rikualifikimit urban të pazarit të ri, markatës së mishit, fruta - perimeve dhe sheshit “avni rustemi”” | [`vendim/2017/492/`](vendim/2017/492/) | in force | 1 | 2017-08-01 | 2017-08-01 |
+| Për shpalljen e vitit 2018 “viti mbarëkombëtar i gjergj kastriotit- skënderbeut” | [`vendim/2017/493/`](vendim/2017/493/) | in force | 1 | 2017-09-19 | 2017-09-19 |
 | Për lirim nga detyra | [`vendim/2017/513/`](vendim/2017/513/) | in force | 1 | 2017-09-18 | 2017-09-18 |
+| Për mbulimin e shpenzimeve të mjekimit të z. rezar veseli | [`vendim/2017/526/`](vendim/2017/526/) | in force | 1 | 2017-10-02 | 2017-10-02 |
+| Për mbështetjen financiare të sektorit të energjisë për blerje nga importi të energjisë elektrike, për vitin 2017 | [`vendim/2017/539/`](vendim/2017/539/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për mbulimin e shpenzimeve të mjekimit të z. ndriçim xhepa | [`vendim/2017/540/`](vendim/2017/540/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/545/`](vendim/2017/545/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/546/`](vendim/2017/546/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/547/`](vendim/2017/547/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/548/`](vendim/2017/548/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/549/`](vendim/2017/549/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/550/`](vendim/2017/550/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/551/`](vendim/2017/551/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/552/`](vendim/2017/552/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/553/`](vendim/2017/553/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/554/`](vendim/2017/554/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/555/`](vendim/2017/555/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/556/`](vendim/2017/556/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/557/`](vendim/2017/557/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/559/`](vendim/2017/559/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/560/`](vendim/2017/560/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/561/`](vendim/2017/561/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/562/`](vendim/2017/562/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/563/`](vendim/2017/563/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/564/`](vendim/2017/564/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/567/`](vendim/2017/567/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/569/`](vendim/2017/569/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/570/`](vendim/2017/570/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/571/`](vendim/2017/571/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/572/`](vendim/2017/572/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për emërim në detyrë | [`vendim/2017/573/`](vendim/2017/573/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Për lirim nga detyra | [`vendim/2017/575/`](vendim/2017/575/) | in force | 1 | 2017-10-24 | 2017-10-24 |
+| Për një shtesë fondi në buxhetin e vitit 2017, miratuar për kontrollin e lartë të shtetit | [`vendim/2017/587/`](vendim/2017/587/) | in force | 1 | 2017-10-24 | 2017-10-24 |
+| Për lirimin dhe emërimin në detyrë të prefektit të qarkut të tiranës | [`vendim/2017/625/`](vendim/2017/625/) | in force | 1 | 2017-11-07 | 2017-11-07 |
+| Për lirimin dhe emërimin në detyrë të prefektit të qarkut të durrësit | [`vendim/2017/626/`](vendim/2017/626/) | in force | 1 | 2017-11-07 | 2017-11-07 |
+| Për lirimin dhe emërimin në detyrë të prefektit të qarkut të elbasanit | [`vendim/2017/627/`](vendim/2017/627/) | in force | 1 | 2017-11-07 | 2017-11-07 |
+| Për lirimin dhe emërimin në detyrë të prefektit të qarkut të shkodrës | [`vendim/2017/628/`](vendim/2017/628/) | in force | 1 | 2017-11-07 | 2017-11-07 |
+| Për lirimin dhe emërimin në detyrë të prefektit të qarkut të lezhës | [`vendim/2017/629/`](vendim/2017/629/) | in force | 1 | 2017-11-07 | 2017-11-07 |
+| Për lirimin dhe emërimin në detyrë të prefektit të qarkut të kukësit | [`vendim/2017/630/`](vendim/2017/630/) | in force | 1 | 2017-11-07 | 2017-11-07 |
+| Për lirimin dhe emërimin në detyrë të prefektit të qarkut të dibrës | [`vendim/2017/631/`](vendim/2017/631/) | in force | 1 | 2017-11-07 | 2017-11-07 |
+| Për lirimin dhe emërimin në detyrë të prefektit të qarkut të vlorës | [`vendim/2017/632/`](vendim/2017/632/) | in force | 1 | 2017-11-07 | 2017-11-07 |
+| Për lirimin dhe emërimin në detyrë të prefektit të qarkut të beratit | [`vendim/2017/634/`](vendim/2017/634/) | in force | 1 | 2017-11-07 | 2017-11-07 |
+| Për lirimin dhe emërimin në detyrë të prefektit të qarkut të gjirokastrës | [`vendim/2017/635/`](vendim/2017/635/) | in force | 1 | 2017-11-07 | 2017-11-07 |
+| Për lirimin dhe emërimin në detyrë të prefektit të qarkut të korçës | [`vendim/2017/636/`](vendim/2017/636/) | in force | 1 | 2017-11-07 | 2017-11-07 |
+| Për emërim në detyrë | [`vendim/2017/643/`](vendim/2017/643/) | in force | 1 | 2017-11-08 | 2017-11-08 |
+| Për emërim në detyrë | [`vendim/2017/644/`](vendim/2017/644/) | in force | 1 | 2017-11-08 | 2017-11-08 |
+| Për emërim në detyrë | [`vendim/2017/645/`](vendim/2017/645/) | in force | 1 | 2017-11-08 | 2017-11-08 |
 | Për një shtesë fondi në buxhetin e vitit 2017, miratuar për drejtorinë e shërbimeve qeveritare | [`vendim/2017/674/`](vendim/2017/674/) | in force | 1 | 2017-12-04 | 2017-12-04 |
 | Për propozimin kuvendit të republikës së shqipërisë të kandidatëve për kryetar dhe anëtarë të komisionit të prokurimit publik | [`vendim/2017/675/`](vendim/2017/675/) | in force | 1 | 2017-12-04 | 2017-12-04 |
 | Për miratimin e kontratës, ndërmjet ministrisë së mbrojtjes së republikës së shqipërisë dhe lockheed martin global, incorporated, shba, për blerjen e sistemit të integruar të vëzhgimit të hapësirës ajrore - faza i | [`vendim/2017/677/`](vendim/2017/677/) | in force | 1 | 2017-12-04 | 2017-12-04 |

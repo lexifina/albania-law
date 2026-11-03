@@ -5399,6 +5399,21 @@
    ]
   },
   {
+   "slug": "vendim-2014-961",
+   "path": "vendim/2014/961",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2014/12/29/961",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/7f2f62bbd70ca347d0bcf6f5e8542251ab68726c35d457ce3d58fea8fa066b98.docx",
+     "sha256": "7f2f62bbd70ca347d0bcf6f5e8542251ab68726c35d457ce3d58fea8fa066b98"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2014-520",
    "path": "vendim/2014/520",
    "short": "Miratimin e rregullores “për mbrojtjen e sigurisë dhe shëndetit të punëmarrësve nga risqet e lidhura me kancerogjenët dh",
@@ -5594,6 +5609,21 @@
    ]
   },
   {
+   "slug": "vendim-2015-118",
+   "path": "vendim/2015/118",
+   "short": "Lirim nga detyra",
+   "title": "Për lirim nga detyra",
+   "url": "https://qbz.gov.al/eli/vendim/2015/02/11/118",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/ad4e8a87453440370a898dd0421481dc4de458a7ce00d8dd85a85641044a8f84.docx",
+     "sha256": "ad4e8a87453440370a898dd0421481dc4de458a7ce00d8dd85a85641044a8f84"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2015-221",
    "path": "vendim/2015/221",
    "short": "Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segme",
@@ -5740,6 +5770,21 @@
      "units": 13,
      "source_url": "https://qbz.gov.al/files/6c8efce7a21e3a5fe2f454eeb9aebd5a24a87f32746cc69c76401c59ee6f64c3.docx",
      "sha256": "6c8efce7a21e3a5fe2f454eeb9aebd5a24a87f32746cc69c76401c59ee6f64c3"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2015-330",
+   "path": "vendim/2015/330",
+   "short": "Dhënie grade “Drejtues madhor”",
+   "title": "Për dhënie grade “Drejtues madhor”",
+   "url": "https://qbz.gov.al/eli/vendim/2015/04/22/330",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/9a4179793db8387fbd2f95f4c3945462466827b280e05725f78b8dd7596ad7e9.docx",
+     "sha256": "9a4179793db8387fbd2f95f4c3945462466827b280e05725f78b8dd7596ad7e9"
     }
    ]
   },
@@ -9659,6 +9704,21 @@
    ]
   },
   {
+   "slug": "vendim-2017-95",
+   "path": "vendim/2017/95",
+   "short": "Dhënie pensioni të posaçëm shtetëror z. ilir pernaska",
+   "title": "Për dhënie pensioni të posaçëm shtetëror z. ilir pernaska",
+   "url": "https://qbz.gov.al/eli/vendim/2017/02/08/95",
+   "versions": [
+    {
+     "from": "2017-02-16",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/45fbd91f6894314af53a6316175294807d733b4472b9ce2d343d434b4509b7a4.docx",
+     "sha256": "45fbd91f6894314af53a6316175294807d733b4472b9ce2d343d434b4509b7a4"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2017-98",
    "path": "vendim/2017/98",
    "short": "Përcaktimin e procedurës së kalimit nën administrimin e autoritetit për informimin mbi dokumentet e ish-sigurimit të sht",
@@ -10244,6 +10304,21 @@
    ]
   },
   {
+   "slug": "vendim-2017-321",
+   "path": "vendim/2017/321",
+   "short": "Miratimin e bonusit në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë për dhënien me koncesion/partneritet pu",
+   "title": "Për miratimin e bonusit në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë për dhënien me koncesion/partneritet publik privat të kompletimit dhe ndërtimit të rrugës së arbrit",
+   "url": "https://qbz.gov.al/eli/vendim/2017/04/12/321",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/1cf0c7586404f4df101931939dc98c8dc2991e2c933fede39a408d5ae96a6840.docx",
+     "sha256": "1cf0c7586404f4df101931939dc98c8dc2991e2c933fede39a408d5ae96a6840"
+    }
+   ]
+  },
+  {
    "slug": "vendim-2017-338",
    "path": "vendim/2017/338",
    "short": "Kalimin në pronësi, nga ministria e mbrojtjeste bashkia finiq, të pronës nr.646, me emërtim “ish-grup artileri tokësore”",
@@ -10435,6 +10510,51 @@
      "units": 14,
      "source_url": "https://qbz.gov.al/files/b606c30fa4184b6dac7092a4410b52827fd99070010302f9771a621610fd8699.docx",
      "sha256": "b606c30fa4184b6dac7092a4410b52827fd99070010302f9771a621610fd8699"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-400",
+   "path": "vendim/2017/400",
+   "short": "Një shtesë fondi në buxhetin e vitit 2017, miratuar për ministrinë e kulturës, për mbulimin e shpenzimeve financiare që ",
+   "title": "Për një shtesë fondi në buxhetin e vitit 2017, miratuar për ministrinë e kulturës, për mbulimin e shpenzimeve financiare që u kryen në kuadër të organizimit të aktiviteteve për kryerjen e ceremonialit funebër, në nderim të të ndjerit dritëro agolli",
+   "url": "https://qbz.gov.al/eli/vendim/2017/05/03/400",
+   "versions": [
+    {
+     "from": "2017-05-11",
+     "units": 5,
+     "source_url": "https://qbz.gov.al/files/60350498059f42e1d358446c9ee81910290af6293107855fe93d2215893e32bd.docx",
+     "sha256": "60350498059f42e1d358446c9ee81910290af6293107855fe93d2215893e32bd"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-420",
+   "path": "vendim/2017/420",
+   "short": "Mbulimin e pjesshëm të shpenzimeve të mjekimit të fëmijës rei shkreta",
+   "title": "Për mbulimin e pjesshëm të shpenzimeve të mjekimit të fëmijës rei shkreta",
+   "url": "https://qbz.gov.al/eli/vendim/2017/05/10/420",
+   "versions": [
+    {
+     "from": "2017-05-16",
+     "units": 6,
+     "source_url": "https://qbz.gov.al/files/86d11cab436ca25af7aa13969c118eeb7330e2eaaf984371d68bb2310929cc57.docx",
+     "sha256": "86d11cab436ca25af7aa13969c118eeb7330e2eaaf984371d68bb2310929cc57"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-421",
+   "path": "vendim/2017/421",
+   "short": "Mbulimin e pjesshëm të shpenzimeve të mjekimit të znj. daniela koçiraj",
+   "title": "Për mbulimin e pjesshëm të shpenzimeve të mjekimit të znj. daniela koçiraj",
+   "url": "https://qbz.gov.al/eli/vendim/2017/05/10/421",
+   "versions": [
+    {
+     "from": "2017-05-16",
+     "units": 6,
+     "source_url": "https://qbz.gov.al/files/20f9020ea2ad5e7c08bcb434d617fb2fae86b3b97ecd06c37ad0bc9c8fc54715.docx",
+     "sha256": "20f9020ea2ad5e7c08bcb434d617fb2fae86b3b97ecd06c37ad0bc9c8fc54715"
     }
    ]
   },
@@ -10900,6 +11020,681 @@
      "units": 3,
      "source_url": "https://qbz.gov.al/files/8c239c8db7ab35133756d2156964985dc6eb2428c08fbd86acdf7f0c2cb95864.docx",
      "sha256": "8c239c8db7ab35133756d2156964985dc6eb2428c08fbd86acdf7f0c2cb95864"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-493",
+   "path": "vendim/2017/493",
+   "short": "Shpalljen e vitit 2018 “viti mbarëkombëtar i gjergj kastriotit- skënderbeut”",
+   "title": "Për shpalljen e vitit 2018 “viti mbarëkombëtar i gjergj kastriotit- skënderbeut”",
+   "url": "https://qbz.gov.al/eli/vendim/2017/09/13/493",
+   "versions": [
+    {
+     "from": "2017-09-19",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/84f1a878baebad73c9f3fa98f70be7ad0474250bf1443a30483b2eba7d417c6b.docx",
+     "sha256": "84f1a878baebad73c9f3fa98f70be7ad0474250bf1443a30483b2eba7d417c6b"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-526",
+   "path": "vendim/2017/526",
+   "short": "Mbulimin e shpenzimeve të mjekimit të z. rezar veseli",
+   "title": "Për mbulimin e shpenzimeve të mjekimit të z. rezar veseli",
+   "url": "https://qbz.gov.al/eli/vendim/2017/09/27/526",
+   "versions": [
+    {
+     "from": "2017-10-02",
+     "units": 6,
+     "source_url": "https://qbz.gov.al/files/1806c0ca19c9b9110ee12ae9b4f6c986c0d9ecab71af901635dcde05a6e3c6e4.docx",
+     "sha256": "1806c0ca19c9b9110ee12ae9b4f6c986c0d9ecab71af901635dcde05a6e3c6e4"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-539",
+   "path": "vendim/2017/539",
+   "short": "Mbështetjen financiare të sektorit të energjisë për blerje nga importi të energjisë elektrike, për vitin 2017",
+   "title": "Për mbështetjen financiare të sektorit të energjisë për blerje nga importi të energjisë elektrike, për vitin 2017",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/539",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 6,
+     "source_url": "https://qbz.gov.al/files/2e29853611ad5cd0e99aa3d3a95d2219590702eb6132e1649ac2eaec93f85236.docx",
+     "sha256": "2e29853611ad5cd0e99aa3d3a95d2219590702eb6132e1649ac2eaec93f85236"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-540",
+   "path": "vendim/2017/540",
+   "short": "Mbulimin e shpenzimeve të mjekimit të z. ndriçim xhepa",
+   "title": "Për mbulimin e shpenzimeve të mjekimit të z. ndriçim xhepa",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/540",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 6,
+     "source_url": "https://qbz.gov.al/files/8ebf78b8ea7437f19d12dc3dc926b674937647cf3459de4e61d30198a2afeca6.docx",
+     "sha256": "8ebf78b8ea7437f19d12dc3dc926b674937647cf3459de4e61d30198a2afeca6"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-545",
+   "path": "vendim/2017/545",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/545",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/d1a81d83bba0e98217ec706b34fef611380e0d88de83ac2c7cd43f4dfa0e3795.docx",
+     "sha256": "d1a81d83bba0e98217ec706b34fef611380e0d88de83ac2c7cd43f4dfa0e3795"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-546",
+   "path": "vendim/2017/546",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/546",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/d8b87c902fa2097f6a04d53ffeaeeb636b34c316a785e602563b85e1a3d746c8.docx",
+     "sha256": "d8b87c902fa2097f6a04d53ffeaeeb636b34c316a785e602563b85e1a3d746c8"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-547",
+   "path": "vendim/2017/547",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/547",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/1db566e7068be8243a9007c43008ca21717529904bcc5b577c353828f3047bfd.docx",
+     "sha256": "1db566e7068be8243a9007c43008ca21717529904bcc5b577c353828f3047bfd"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-548",
+   "path": "vendim/2017/548",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/548",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/d8381d16444f70c52efc9647fc6c458bb2aa082a77408f296ce57c24844da625.docx",
+     "sha256": "d8381d16444f70c52efc9647fc6c458bb2aa082a77408f296ce57c24844da625"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-549",
+   "path": "vendim/2017/549",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/549",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/cd3e8a7ca7281005938d55019032ce6202cd61104086f4a584b490e0f584735f.docx",
+     "sha256": "cd3e8a7ca7281005938d55019032ce6202cd61104086f4a584b490e0f584735f"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-550",
+   "path": "vendim/2017/550",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/550",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/c5ac28986520884374830500badf54a1f85ad9cc0e282edddc2b4efe76099dcd.docx",
+     "sha256": "c5ac28986520884374830500badf54a1f85ad9cc0e282edddc2b4efe76099dcd"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-551",
+   "path": "vendim/2017/551",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/551",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/831128f59a3f2a505d8343929baa71a94986e00d02cd5d74b9839c58db8db43c.docx",
+     "sha256": "831128f59a3f2a505d8343929baa71a94986e00d02cd5d74b9839c58db8db43c"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-552",
+   "path": "vendim/2017/552",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/552",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/f98361431a21bbaded7fc5b115901e97eb227458f0999e89ca9b0ba1eae7dff7.docx",
+     "sha256": "f98361431a21bbaded7fc5b115901e97eb227458f0999e89ca9b0ba1eae7dff7"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-553",
+   "path": "vendim/2017/553",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/553",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/e470ae78d10ee187b5134fbec3d6aad68dbd4e1d335740be142db029388dfb63.docx",
+     "sha256": "e470ae78d10ee187b5134fbec3d6aad68dbd4e1d335740be142db029388dfb63"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-554",
+   "path": "vendim/2017/554",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/554",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/270dc51418b25e1fb28c41df50e24602d94715f7227fcb4ded6831eb60bcc9ce.docx",
+     "sha256": "270dc51418b25e1fb28c41df50e24602d94715f7227fcb4ded6831eb60bcc9ce"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-555",
+   "path": "vendim/2017/555",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/555",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/2712c787e9ce36b5633ccc06014c77351e5b8e96e87073b8b222fa545a040afb.docx",
+     "sha256": "2712c787e9ce36b5633ccc06014c77351e5b8e96e87073b8b222fa545a040afb"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-556",
+   "path": "vendim/2017/556",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/556",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/e1a82c10d6a23fd2c019744b92b40965e7ce3e19b0b35a47e744097adf966808.docx",
+     "sha256": "e1a82c10d6a23fd2c019744b92b40965e7ce3e19b0b35a47e744097adf966808"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-557",
+   "path": "vendim/2017/557",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/557",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/95cb8f2fd51601dd0c98d606d82563ecb5dd60dd23eff6aea61615d4d841b2a6.docx",
+     "sha256": "95cb8f2fd51601dd0c98d606d82563ecb5dd60dd23eff6aea61615d4d841b2a6"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-559",
+   "path": "vendim/2017/559",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/559",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/80c86bd563e3c78156e5d7508f2c88aeb4ee7ad18fd9573ba69870fe54724ca2.docx",
+     "sha256": "80c86bd563e3c78156e5d7508f2c88aeb4ee7ad18fd9573ba69870fe54724ca2"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-560",
+   "path": "vendim/2017/560",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/560",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/6278c7be4e7d9583d685b092d911f04be5d8817ffd31b382c918e7fe30382b9d.docx",
+     "sha256": "6278c7be4e7d9583d685b092d911f04be5d8817ffd31b382c918e7fe30382b9d"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-561",
+   "path": "vendim/2017/561",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/561",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/79164abe646931644825dfb29cea7e24468bbab7b7c57de106720743c32f2d81.docx",
+     "sha256": "79164abe646931644825dfb29cea7e24468bbab7b7c57de106720743c32f2d81"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-562",
+   "path": "vendim/2017/562",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/562",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/086493073cb512f428e5ba4388cc1a07f3a5d135cb6b46ba98f8dc1d07b6b8d0.docx",
+     "sha256": "086493073cb512f428e5ba4388cc1a07f3a5d135cb6b46ba98f8dc1d07b6b8d0"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-563",
+   "path": "vendim/2017/563",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/563",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/b886f0d2929eee3d4157a04675b50cf046f35058161829fba30631e4cbd3ab3b.docx",
+     "sha256": "b886f0d2929eee3d4157a04675b50cf046f35058161829fba30631e4cbd3ab3b"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-564",
+   "path": "vendim/2017/564",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/564",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/db89e0b4f0c92a7316448ea668de33074f6d1750ed074d18851e690c11b65ead.docx",
+     "sha256": "db89e0b4f0c92a7316448ea668de33074f6d1750ed074d18851e690c11b65ead"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-567",
+   "path": "vendim/2017/567",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/567",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/e4b3677e8df679d73b0e08ccf7216c6556c10eb1d8814e57427bb8aface50bb1.docx",
+     "sha256": "e4b3677e8df679d73b0e08ccf7216c6556c10eb1d8814e57427bb8aface50bb1"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-569",
+   "path": "vendim/2017/569",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/569",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/a639375d24aa98e884d95f7f9eca36d61ae253a6b0e49a2997086eeda9583744.docx",
+     "sha256": "a639375d24aa98e884d95f7f9eca36d61ae253a6b0e49a2997086eeda9583744"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-570",
+   "path": "vendim/2017/570",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/570",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/64874f1d93d1c6bacc89c71a59db7a8706869a4050aee46754c886e587fc69b4.docx",
+     "sha256": "64874f1d93d1c6bacc89c71a59db7a8706869a4050aee46754c886e587fc69b4"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-571",
+   "path": "vendim/2017/571",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/571",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/c5c7cfc4b821da4dcb7482b79303a4cdc1014c3822b933cb718d633193953727.docx",
+     "sha256": "c5c7cfc4b821da4dcb7482b79303a4cdc1014c3822b933cb718d633193953727"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-572",
+   "path": "vendim/2017/572",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/572",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/7796e8e86083307fb06c2347cb38b10e269cc2b99f145b2fc8e70602a0cf45ff.docx",
+     "sha256": "7796e8e86083307fb06c2347cb38b10e269cc2b99f145b2fc8e70602a0cf45ff"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-573",
+   "path": "vendim/2017/573",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/09/573",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/9260b1bce7fab026fca1cb9cd49c9716deb45781ffe14de0ab085a0582329052.docx",
+     "sha256": "9260b1bce7fab026fca1cb9cd49c9716deb45781ffe14de0ab085a0582329052"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-575",
+   "path": "vendim/2017/575",
+   "short": "Lirim nga detyra",
+   "title": "Për lirim nga detyra",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/10/575",
+   "versions": [
+    {
+     "from": "2017-10-24",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/a95f0401d49b9775dc5dacaef1d65f5a9c7003b5dde98f8134039b51ef183081.docx",
+     "sha256": "a95f0401d49b9775dc5dacaef1d65f5a9c7003b5dde98f8134039b51ef183081"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-587",
+   "path": "vendim/2017/587",
+   "short": "Një shtesë fondi në buxhetin e vitit 2017, miratuar për kontrollin e lartë të shtetit",
+   "title": "Për një shtesë fondi në buxhetin e vitit 2017, miratuar për kontrollin e lartë të shtetit",
+   "url": "https://qbz.gov.al/eli/vendim/2017/10/18/587",
+   "versions": [
+    {
+     "from": "2017-10-24",
+     "units": 5,
+     "source_url": "https://qbz.gov.al/files/cff4e8a1a0fc50b55bc97f0e015b3f03c2d42fbd9ebd43fef8e1382b15ca1752.docx",
+     "sha256": "cff4e8a1a0fc50b55bc97f0e015b3f03c2d42fbd9ebd43fef8e1382b15ca1752"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-625",
+   "path": "vendim/2017/625",
+   "short": "Lirimin dhe emërimin në detyrë të prefektit të qarkut të tiranës",
+   "title": "Për lirimin dhe emërimin në detyrë të prefektit të qarkut të tiranës",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/01/625",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/d222ee0cce9abb985fecc6b4322a506c059158528d3239fd02bb6112b46bbefd.docx",
+     "sha256": "d222ee0cce9abb985fecc6b4322a506c059158528d3239fd02bb6112b46bbefd"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-626",
+   "path": "vendim/2017/626",
+   "short": "Lirimin dhe emërimin në detyrë të prefektit të qarkut të durrësit",
+   "title": "Për lirimin dhe emërimin në detyrë të prefektit të qarkut të durrësit",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/01/626",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/8fe118a9815055d342273dcdb2fb0b2c14e69baa559542d885cd7e1e218992e3.docx",
+     "sha256": "8fe118a9815055d342273dcdb2fb0b2c14e69baa559542d885cd7e1e218992e3"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-627",
+   "path": "vendim/2017/627",
+   "short": "Lirimin dhe emërimin në detyrë të prefektit të qarkut të elbasanit",
+   "title": "Për lirimin dhe emërimin në detyrë të prefektit të qarkut të elbasanit",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/01/627",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/f8908a9a460f27923abbb93fc8c8740a7b9f6e546b37e1b913b5d6c4b5fcade8.docx",
+     "sha256": "f8908a9a460f27923abbb93fc8c8740a7b9f6e546b37e1b913b5d6c4b5fcade8"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-628",
+   "path": "vendim/2017/628",
+   "short": "Lirimin dhe emërimin në detyrë të prefektit të qarkut të shkodrës",
+   "title": "Për lirimin dhe emërimin në detyrë të prefektit të qarkut të shkodrës",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/01/628",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/a574ca521546059b7840b92709dc8c5e29b6b5606182e3874b2a8c7dc6e7ccbe.docx",
+     "sha256": "a574ca521546059b7840b92709dc8c5e29b6b5606182e3874b2a8c7dc6e7ccbe"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-629",
+   "path": "vendim/2017/629",
+   "short": "Lirimin dhe emërimin në detyrë të prefektit të qarkut të lezhës",
+   "title": "Për lirimin dhe emërimin në detyrë të prefektit të qarkut të lezhës",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/01/629",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/34e3f3a0819dbdda6b2b576f1afc4fd99cf5c488e55fb69a88a139535c1aa159.docx",
+     "sha256": "34e3f3a0819dbdda6b2b576f1afc4fd99cf5c488e55fb69a88a139535c1aa159"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-630",
+   "path": "vendim/2017/630",
+   "short": "Lirimin dhe emërimin në detyrë të prefektit të qarkut të kukësit",
+   "title": "Për lirimin dhe emërimin në detyrë të prefektit të qarkut të kukësit",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/01/630",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/9748ada487be7be88ca898e72bbbaed8e832ac15cc8df295d14d88bceee69733.docx",
+     "sha256": "9748ada487be7be88ca898e72bbbaed8e832ac15cc8df295d14d88bceee69733"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-631",
+   "path": "vendim/2017/631",
+   "short": "Lirimin dhe emërimin në detyrë të prefektit të qarkut të dibrës",
+   "title": "Për lirimin dhe emërimin në detyrë të prefektit të qarkut të dibrës",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/01/631",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/251fad987fca2fceb0287a71369050beeae27246789c757ee2eb8ced66e97581.docx",
+     "sha256": "251fad987fca2fceb0287a71369050beeae27246789c757ee2eb8ced66e97581"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-632",
+   "path": "vendim/2017/632",
+   "short": "Lirimin dhe emërimin në detyrë të prefektit të qarkut të vlorës",
+   "title": "Për lirimin dhe emërimin në detyrë të prefektit të qarkut të vlorës",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/01/632",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/b729f88eb512c55c5bd4541c8c9b5c14ab770c1f454b8996c8fae7b92780f234.docx",
+     "sha256": "b729f88eb512c55c5bd4541c8c9b5c14ab770c1f454b8996c8fae7b92780f234"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-634",
+   "path": "vendim/2017/634",
+   "short": "Lirimin dhe emërimin në detyrë të prefektit të qarkut të beratit",
+   "title": "Për lirimin dhe emërimin në detyrë të prefektit të qarkut të beratit",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/01/634",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/56d7ad656c7c377bc6a148462e446e1a82e1b1b7279d9a8651037899ae441a47.docx",
+     "sha256": "56d7ad656c7c377bc6a148462e446e1a82e1b1b7279d9a8651037899ae441a47"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-635",
+   "path": "vendim/2017/635",
+   "short": "Lirimin dhe emërimin në detyrë të prefektit të qarkut të gjirokastrës",
+   "title": "Për lirimin dhe emërimin në detyrë të prefektit të qarkut të gjirokastrës",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/01/635",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/0c689d04c1674cce6940340a04f27097144956d9076d039f08ea56ba25ef6c6b.docx",
+     "sha256": "0c689d04c1674cce6940340a04f27097144956d9076d039f08ea56ba25ef6c6b"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-636",
+   "path": "vendim/2017/636",
+   "short": "Lirimin dhe emërimin në detyrë të prefektit të qarkut të korçës",
+   "title": "Për lirimin dhe emërimin në detyrë të prefektit të qarkut të korçës",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/01/636",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 4,
+     "source_url": "https://qbz.gov.al/files/65300cb126ebbba83d61546534a9e2a8f8a43d6839fb799d2ca7c46ee110083e.docx",
+     "sha256": "65300cb126ebbba83d61546534a9e2a8f8a43d6839fb799d2ca7c46ee110083e"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-643",
+   "path": "vendim/2017/643",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/06/643",
+   "versions": [
+    {
+     "from": "2017-11-08",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/e7ffed0112577eb5b7875c363c6f12ea583edd7e5c37593f2bce408709c39094.docx",
+     "sha256": "e7ffed0112577eb5b7875c363c6f12ea583edd7e5c37593f2bce408709c39094"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-644",
+   "path": "vendim/2017/644",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/06/644",
+   "versions": [
+    {
+     "from": "2017-11-08",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/83991ba5d3ea28b8c8259381dde9901298efd81530e7a1f31a8551f28d6053e2.docx",
+     "sha256": "83991ba5d3ea28b8c8259381dde9901298efd81530e7a1f31a8551f28d6053e2"
+    }
+   ]
+  },
+  {
+   "slug": "vendim-2017-645",
+   "path": "vendim/2017/645",
+   "short": "Emërim në detyrë",
+   "title": "Për emërim në detyrë",
+   "url": "https://qbz.gov.al/eli/vendim/2017/11/06/645",
+   "versions": [
+    {
+     "from": "2017-11-08",
+     "units": 3,
+     "source_url": "https://qbz.gov.al/files/ce4d8142b8a62465a944ff88ac4069efaf9161a7f97cb51adc34fcedb499a3e1.docx",
+     "sha256": "ce4d8142b8a62465a944ff88ac4069efaf9161a7f97cb51adc34fcedb499a3e1"
     }
    ]
   },
