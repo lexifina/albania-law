@@ -9,7 +9,8 @@ Reads only a local copy of Qendra e Botimeve Zyrtare's open API (qbz.gov.al/api/
 The local copy (--cache) holds each response gzip'd at <sha256(url)[:2]>/<sha256(url)>.gz: the act listing
 (/acts?size=100&page=N), each act's relations (/acts/{id}/relations), each Fletorja Zyrtare issue record
 (/gazettes/{year}/{number}) and each act's text, whose .docx is kept as its word/document.xml (the .docx bytes were
-checked against the sha256 that names them in QBZ's URL, so that hash is the source hash).
+checked against the sha256 that names them in QBZ's URL, so that hash is the source hash); a legacy .doc is kept as
+the text `antiword -m UTF-8.txt -w 0` gives for it (one paragraph per line), after the same check.
 
 What becomes an act here:
 - a base act ("Akt bazë") of these kinds: a decision of the Council of Ministers (Vendim, Këshilli i Ministrave;
@@ -140,10 +141,13 @@ def text_of(cache: Path, memo: Path | None, a: dict) -> list[str] | None:
     x = read(cache, url)
     if x is None:
         return None
-    try:
-        paras = paras_of(x)
-    except ET.ParseError:
-        return None
+    if url.endswith('.doc'):
+        paras = [t for t in (norm(ln) for ln in x.decode('utf-8', 'replace').splitlines()) if t]
+    else:
+        try:
+            paras = paras_of(x)
+        except ET.ParseError:
+            return None
     if memo:
         memo.mkdir(parents=True, exist_ok=True)
         tmp = m.with_suffix('.tmp')
@@ -183,7 +187,7 @@ def ident(a: dict):
 
 
 def kind_of(a: dict) -> str | None:
-    if a['kind'] != 'Akt bazë' or not a.get('word') or not a['word']['url'].endswith('.docx'):
+    if a['kind'] != 'Akt bazë' or not a.get('word') or not a['word']['url'].endswith(('.docx', '.doc')):
         return None
     if a['type'] == 'Vendim' and a.get('institution') == 'Këshilli i Ministrave':
         return 'vendim'
@@ -266,9 +270,19 @@ def roman(s: str) -> int:
     return n
 
 
-def split(paras: list[str], kind: str) -> dict:
+def split(paras: list[str], kind: str, notes: dict | None = None) -> dict:
     """Units: hyrje (header, title, preamble), kreu-NN / neni-NNN or (a decision without articles) pika-NNN, the
-    signature or adoption block (zz-nenshkrimi / zz-miratuar) and everything after it (shtojca)."""
+    signature or adoption block (zz-nenshkrimi / zz-miratuar) and everything after it (shtojca).
+    notes: for a consolidated text, QBZ's note lines ("(Ndryshuar me ...)") are kept out of the text and collected
+    here by unit."""
+    if notes is not None:
+        kept, owner = [], []
+        for p in paras:
+            if RE_NOTE.match(p):
+                owner.append((len(kept), p))
+            else:
+                kept.append(p)
+        paras = kept
     sign = RE_SIGN_VKM if kind == 'vendim' else RE_FOOT_LAW
     foot_at = next((i for i, p in enumerate(paras) if sign.match(p)), None)
     if foot_at is None:
@@ -281,7 +295,9 @@ def split(paras: list[str], kind: str) -> dict:
     started = kind == 'ligj'
     last_point = 0
     expect_title = False
+    where: list[str] = []  # the unit each paragraph of body went to
     for p in body:
+        where.append(cur)
         if kind == 'vendim' and not started:
             units[cur]['lines'].append(p)
             if RE_VENDOSI.search(p):
@@ -297,17 +313,17 @@ def split(paras: list[str], kind: str) -> dict:
             key, label = f'neni-{n:03d}', f'Neni {n}'
             if sub:
                 key, label = f'{key}-{int(sub):02d}', f'{label}/{int(sub)}'
-            cur = unit(units, order, key, label, 'art', [f'# {label}'])
+            cur = where[-1] = unit(units, order, key, label, 'art', [f'# {label}'])
             expect_title = True
             continue
         if m_h:
             k, num = m_h.group(1), m_h.group(2)
-            cur = unit(units, order, f'{k.lower()}-{roman(num):02d}', f'{k.capitalize()} {num}', 'heading', [p])
+            cur = where[-1] = unit(units, order, f'{k.lower()}-{roman(num):02d}', f'{k.capitalize()} {num}', 'heading', [p])
             expect_title = True
             continue
         if m_p and int(m_p.group(1)) == last_point + 1:
             last_point += 1
-            cur = unit(units, order, f'pika-{last_point:03d}', f'Pika {last_point}', 'point', [p])
+            cur = where[-1] = unit(units, order, f'pika-{last_point:03d}', f'Pika {last_point}', 'point', [p])
             continue
         if expect_title and units[cur]['kind'] in ('art', 'heading') and len(units[cur]['lines']) == 1 \
                 and not RE_ITEM.match(p) and len(p) < 200:
@@ -337,6 +353,12 @@ def split(paras: list[str], kind: str) -> dict:
         unit(units, order, 'zz-shtojca', 'Shtojca', 'annex', ['# Shtojca'] + tail[i:])
     if not units['hyrje']['lines']:
         raise Hold('no_header')
+    if notes is not None:
+        tail_units = [k for k in order if k.startswith('zz-')]
+        for idx, line in owner:
+            # a note follows the provision it annotates: the unit of the paragraph before it
+            k = where[idx - 1] if 0 < idx <= len(where) else (tail_units[-1] if tail_units and idx > len(where) else 'hyrje')
+            notes.setdefault(k, []).append(line)
     if kind == 'vendim' and not has_neni and last_point == 0 and len(order) < 3:
         pass  # a decision of one unnumbered paragraph: its text stays in hyrje's VENDOSI block and after it
     return {k: {'label': units[k]['label'], 'kind': units[k]['kind'], 'text': '\n'.join(units[k]['lines']) + '\n'}
@@ -362,6 +384,125 @@ def label_of(kind: str, a: dict) -> str:
         return f'Vendimi i Këshillit të Ministrave nr. {a["number"]}, datë {dmy(a["date"])}'
     num = a['number'].split('-')[0]
     return f'Ligji nr. {num}/{a["date"][:4]}' if int(a['date'][:4]) >= 2009 else f'Ligji nr. {num}'
+
+
+def law_ref(x: dict) -> tuple[str, str, str]:
+    """(law key, label, kind) for any QBZ act that changes another."""
+    num = x['number'].split('-')[0]
+    y = x['date'][:4]
+    if x['type'] == 'Ligj':
+        return f'ligj-{y}-{num}', label_of('ligj', x), 'law'
+    if x['type'] == 'Vendim' and x.get('institution') == 'Këshilli i Ministrave':
+        return f'vendim-{y}-{x["number"].lower()}', label_of('vendim', x), 'decree'
+    if x['type'] == 'Vendim' and x.get('institution') == 'Gjykata Kushtetuese':
+        return f'vendim-gjk-{y}-{num}', f'Vendimi i Gjykatës Kushtetuese nr. {num}/{y}', 'court'
+    if x['type'] == 'Akt normativ':
+        return f'akt-normativ-{y}-{num}', f'Akti normativ nr. {num}, datë {dmy(x["date"])}', 'decree'
+    t = unicodedata.normalize('NFKD', x['type']).encode('ascii', 'ignore').decode().lower()
+    t = re.sub(r'[^a-z0-9]+', '-', t).strip('-')
+    return f'{t}-{y}-{num}', f'{x["type"]} nr. {num}, datë {dmy(x["date"])} ({x.get("institution") or ""})', 'decree'
+
+
+def names_act(note: str, x: dict) -> bool:
+    """Does a QBZ note name act x ("nr. 77/2024", "nr. 77, datë 13.6.2024")?"""
+    num = re.escape(x['number'].split('-')[0])
+    d = dt.date.fromisoformat(x['date'])
+    return bool(re.search(rf'nr\.?\s*{num}\s*/\s*{d.year}\b', note) or
+                re.search(rf'nr\.?\s*{num}\s*,?\s*(?:datë|date|data)\s*0?{d.day}\s*\.\s*0?{d.month}\s*\.\s*{d.year}', note))
+
+
+def why_changed(key: str, notes: list, x: dict, xtext: str | None) -> str | None:
+    """Why a provision changes in a version: a QBZ note naming the changing act, or the changing act naming the
+    article, point or annex; None when neither does."""
+    if any(names_act(n, x) for n in notes):
+        return 'noted'
+    if xtext:
+        body = '\n'.join(ln for ln in xtext.split('\n') if not RE_NENI.match(ln))
+        m = re.match(r'neni-(\d+)', key)
+        if m and re.search(rf'\b(?:[Nn]eni|[Nn]enit|[Nn]enin|[Nn]enet|[Nn]eneve)\s+{int(m.group(1))}\b', body):
+            return 'article named in the act'
+        m = re.match(r'pika-(\d+)$', key)
+        if m and int(m.group(1)) and re.search(rf'\b(?:[Pp]ika|[Pp]ikës|[Pp]ikën|[Pp]ikat|[Pp]ikave)\s+{int(m.group(1))}\b', body):
+            return 'point named in the act'
+        if key == 'zz-shtojca' and re.search(r'([Ss]htojc|[Aa]neks|[Ll]idhj)', xtext):
+            return 'annex named in the act'
+    return None
+
+
+def history(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, published: str, base_paras: list[str],
+            laws: dict, decisions: list) -> list[dict]:
+    """The act as published, then each QBZ consolidated version (dated by QBZ's validFrom, credited to the act QBZ
+    names as changing it); raises Hold when the history is not complete or does not read cleanly."""
+    rel = read_json(cache, f'{API}/acts/{x["id"]}/relations') or []
+    vs = read_json(cache, f'{API}/acts/{x["id"]}/versions')
+    if vs is None:
+        raise Hold('versions_not_fetched')
+    vs = sorted(vs, key=lambda v: v['versionNo'])
+    changes_in = {r['actId'] for r in rel if r.get('type') == 'CHANGES' and r.get('direction') == 'in'}
+    by = {(v.get('changedBy') or {}).get('id') for v in vs}
+    if None in by:
+        raise Hold('version_without_changing_act')
+    if not changes_in <= by:
+        raise Hold('versions_incomplete:' + ','.join(map(str, sorted(changes_in - by)[:5])))
+    day0, how0 = in_force(kind, '\n'.join(base_paras), published)
+    prev = split(base_paras, kind)
+    if kind == 'ligj' and not any(k.startswith('neni-') for k in prev):
+        raise Hold('no_articles')
+    g = x['gazette']
+    out = [{'from': day0, 'source_url': SITE + x['word']['url'], 'sha256': x['word']['sha256'], 'units': prev,
+            'credits': {}, 'note': f'As published in the Fletorja Zyrtare nr. {g["number"]}/{g["year"]} ({published}); '
+                                   f'in force from {day0}: {how0}.'}]
+    last = day0
+    for v in vs:
+        cb = byid.get(v['changedBy']['id'])
+        if cb is None:
+            raise Hold('changing_act_not_listed')
+        w = v.get('word') or {}
+        if not w.get('url', '').endswith(('.docx', '.doc')) or not v.get('validFrom'):
+            raise Hold(f'version_{v["versionNo"]}_no_text_or_day')
+        vp = text_of(cache, memo, {'word': w})
+        if vp is None:
+            raise Hold('version_text_not_fetched')
+        notes: dict[str, list[str]] = {}
+        units = split(vp, kind, notes)
+        day = v['validFrom']
+        if day < cb['date'] or day < last:
+            raise Hold(f'version_{v["versionNo"]}_day_out_of_order:{day}')
+        for k in list(units):
+            if k in prev and prev[k]['text'] != units[k]['text'] and \
+                    ''.join(prev[k]['text'].split()) == ''.join(units[k]['text'].split()):
+                units[k] = prev[k]  # differs only in spacing: the earlier text stays
+        changed = sorted(k for k in set(prev) | set(units)
+                         if (prev.get(k) or {}).get('text') != (units.get(k) or {}).get('text'))
+        lk, label, lkind = law_ref(cb)
+        cg = cb.get('gazette') or {}
+        cgr = read_json(cache, f'{API}/gazettes/{cg.get("year")}/{cg.get("number")}') if cg.get('number') else None
+        laws[lk] = {'label': label, 'title': title_of(cb), 'kind': lkind, 'enacted': cb['date'],
+                    'published': ((cgr or {}).get('gazette') or {}).get('publishDate'),
+                    'url': f'{SITE}{cb["eliPath"]}' if cb.get('eliPath') else None,
+                    'temporary_until': None, 'restores': None, 'note': None}
+        xt = text_of(cache, memo, cb) if cb.get('word') else None
+        xtext = '\n'.join(xt) if xt else None
+        credits, unexplained = {}, []
+        for k in changed:
+            if why_changed(k, notes.get(k, []), cb, xtext):
+                credits[k] = [lk]
+            else:
+                unexplained.append(k)
+        if changed and len(unexplained) > max(3, len(changed) // 2):
+            raise Hold(f'version_{v["versionNo"]}_mostly_unexplained:{len(unexplained)}/{len(changed)}')
+        for k in unexplained:
+            decisions.append(f'{label_of(kind, x)}: QBZ’s consolidated version {v["versionNo"]} changes '
+                             f'{(units.get(k) or prev.get(k))["label"]}, which neither a QBZ note nor {label} names; '
+                             f'the change is recorded as unexplained, from the publisher.')
+        ver = {'from': day, 'source_url': SITE + w['url'], 'sha256': w['sha256'],
+               'changes': {k: units.get(k) for k in changed}, 'credits': credits,
+               'note': f'QBZ consolidated version {v["versionNo"]}, after {label}; in force from {day} (QBZ’s date).'}
+        if day == last:
+            ver['same_day'] = True
+        out.append(ver)
+        prev, last = units, day
+    return out
 
 
 def main():
@@ -426,16 +567,18 @@ def main():
 
     parts: dict[str, dict] = defaultdict(lambda: {'laws': {}, 'acts': []})
     holds = []
+    byid = {x['id']: x for x in L}
     for x in L:
         kind = kind_of(x)
         if not kind:
             continue
         ref = ident(x)
+        hist = bool(x.get('versions'))
+        hlaws: dict = {}
+        hdec: list = []
         try:
-            if kind == 'ligj' and ((ref[1], ref[2]) in held_old or ('id', str(x['id'])) in held_old):
+            if ('id', str(x['id'])) in held_old or (kind == 'ligj' and (ref[1], ref[2]) in held_old):
                 continue  # on main already, under its earlier name
-            if x.get('versions'):
-                raise Hold('has_versions')
             if count[(kind, ref)] > 1:
                 raise Hold('duplicate_number')
             if kind == 'ligj':
@@ -445,12 +588,16 @@ def main():
             rel = read_json(cache, f'{API}/acts/{x["id"]}/relations')
             if rel is None:
                 raise Hold('relations_not_fetched')
-            if any(r.get('direction') == 'in' and r.get('type') in ('CHANGES', 'REPEALS') for r in rel):
-                raise Hold('qbz_changed_or_repealed')
-            if named.get(ref, set()) - {x['id']}:
-                raise Hold('named_in_changing_title:' + ','.join(map(str, sorted(named[ref] - {x['id']})[:5])))
-            if cited_changed.get(ref, set()) - {x['id']}:
-                raise Hold('cited_as_changed:' + ','.join(map(str, sorted(cited_changed[ref] - {x['id']})[:5])))
+            if hist:
+                if any(r.get('direction') == 'in' and r.get('type') == 'REPEALS' for r in rel):
+                    raise Hold('qbz_repealed')
+            else:
+                if any(r.get('direction') == 'in' and r.get('type') in ('CHANGES', 'REPEALS') for r in rel):
+                    raise Hold('qbz_changed_or_repealed')
+                if named.get(ref, set()) - {x['id']}:
+                    raise Hold('named_in_changing_title:' + ','.join(map(str, sorted(named[ref] - {x['id']})[:5])))
+                if cited_changed.get(ref, set()) - {x['id']}:
+                    raise Hold('cited_as_changed:' + ','.join(map(str, sorted(cited_changed[ref] - {x['id']})[:5])))
             g = read_json(cache, f'{API}/gazettes/{x["gazette"]["year"]}/{x["gazette"]["number"]}')
             if g is None:
                 raise Hold('gazette_not_fetched')
@@ -466,11 +613,14 @@ def main():
                 raise Hold('qbz_amendment_notes')
             if not header_ok(kind, x, paras):
                 raise Hold('header_mismatch')
-            text = '\n'.join(paras)
-            day, how = in_force(kind, text, published)
-            units = split(paras, kind)
-            if kind == 'ligj' and not any(k.startswith('neni-') for k in units):
-                raise Hold('no_articles')
+            if hist:
+                versions = history(cache, memo, x, kind, byid, published, paras, hlaws, hdec)
+            else:
+                text = '\n'.join(paras)
+                day, how = in_force(kind, text, published)
+                units = split(paras, kind)
+                if kind == 'ligj' and not any(k.startswith('neni-') for k in units):
+                    raise Hold('no_articles')
         except Hold as h:
             holds.append({'id': x['id'], 'kind': kind, 'number': x['number'], 'date': x['date'],
                           'title': x['title'][:160], 'reason': str(h)})
@@ -483,6 +633,14 @@ def main():
                'enacted': x['date'], 'published': published, 'url': url, 'temporary_until': None,
                'restores': None, 'note': None}
         g = x['gazette']
+        if hist:
+            part = parts[f'{"42-vendime-histori" if kind == "vendim" else "43-ligje-histori"}-{year}']
+            part['laws'][slug] = law
+            part['laws'].update(hlaws)
+            part.setdefault('extra_decisions', []).extend(hdec)
+            part['acts'].append({'slug': slug, 'short': short_of(title), 'title': title, 'url': url,
+                                 'first_law': slug, 'earlier_laws': [], 'versions': versions})
+            continue
         part = parts[f'{"40-vendime" if kind == "vendim" else "41-ligje"}-{year}']
         part['laws'][slug] = law
         part['acts'].append({
@@ -519,6 +677,26 @@ def main():
              'issue (“menjëherë”: the publication day, Kushtetuta, neni 84, pika 4); any other clause holds it back.'),
             'The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its '
             'adoption or more than 120 days after it is held back.']
+        if name[:2] in ('42', '43'):
+            p['sources'] = [{
+                'name': 'Qendra e Botimeve Zyrtare (qbz.gov.al): ' +
+                        ('decisions of the Council of Ministers' if name.startswith('42') else 'laws') +
+                        ' as published and their consolidated versions',
+                'url': f'{API}/acts', 'retrieved': retrieved, 'licence': LICENCE,
+                'notes': 'Each act’s .docx as published, its issue’s publication day, QBZ’s consolidated versions '
+                         '(/acts/{id}/versions: one .docx per version, its validFrom day and the act that changed '
+                         'it) and the changing acts’ texts.'}]
+            p['decisions'] = [
+                'The first version is the act as published in the Fletorja Zyrtare, in force from the day its own '
+                'clause gives (counted from its issue’s publication day, as for acts without versions).',
+                'Each later version is QBZ’s consolidated text, in force from the day QBZ gives it (validFrom) and '
+                'credited to the act QBZ names as having changed it; QBZ’s notes (“Ndryshuar me ...”) are kept out of '
+                'the text. A provision is credited when a note on it or the changing act’s own text names it; any '
+                'other change is recorded as unexplained. A provision whose words differ only in spacing keeps the '
+                'earlier words.',
+                'An act is published with its history only when every act QBZ links as changing it has a '
+                'consolidated version, no act repeals it, its versions are in date order, and no version is mostly '
+                'unexplained.'] + p.pop('extra_decisions', [])
         p['ai_use'] = ['none']
         f = PARTS / f'{name}.json'
         data = json.dumps(p, ensure_ascii=False, indent=1) + '\n'
