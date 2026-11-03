@@ -44,6 +44,7 @@ import gzip
 import hashlib
 import io
 import json
+import os
 import re
 import unicodedata
 import xml.etree.ElementTree as ET
@@ -150,9 +151,12 @@ def text_of(cache: Path, memo: Path | None, a: dict) -> list[str] | None:
             return None
     if memo:
         memo.mkdir(parents=True, exist_ok=True)
-        tmp = m.with_suffix('.tmp')
+        tmp = m.with_suffix(f'.{os.getpid()}.tmp')
         tmp.write_bytes(gzip.compress(json.dumps({'v': VERSION, 'paras': paras}, ensure_ascii=False).encode('utf-8'), 6))
-        tmp.replace(m)
+        try:
+            tmp.replace(m)
+        except OSError:  # another run wrote the same memo at the same moment: its copy is identical
+            tmp.unlink(missing_ok=True)
     return paras
 
 
@@ -465,8 +469,23 @@ def history(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, publ
             raise Hold('version_text_not_fetched')
         notes: dict[str, list[str]] = {}
         units = split(vp, kind, notes)
-        day = v['validFrom']
-        if day < cb['date'] or day < last:
+        # QBZ's validFrom is the changing act's adoption day; the version takes effect when the changing act does.
+        cg = cb.get('gazette') or {}
+        cgr = read_json(cache, f'{API}/gazettes/{cg.get("year")}/{cg.get("number")}') if cg.get('number') else None
+        cpub = ((cgr or {}).get('gazette') or {}).get('publishDate')
+        if not cpub or not (cb['date'] <= cpub <= add_days(cb['date'], 120)):
+            raise Hold(f'version_{v["versionNo"]}_changing_act_publication_day:{cpub}')
+        xt = text_of(cache, memo, cb) if cb.get('word') else None
+        xtext = '\n'.join(xt) if xt else None
+        if cb['type'] == 'Vendim' and cb.get('institution') == 'Gjykata Kushtetuese':
+            day, how = cpub, 'a Constitutional Court decision takes effect on its publication (Kushtetuta, neni 132)'
+        elif cb['type'] in ('Ligj', 'Vendim') and (cb['type'] == 'Ligj' or cb.get('institution') == 'Këshilli i Ministrave'):
+            if xtext is None:
+                raise Hold(f'version_{v["versionNo"]}_changing_act_text_not_fetched')
+            day, how = in_force('ligj' if cb['type'] == 'Ligj' else 'vendim', xtext, cpub)
+        else:
+            raise Hold(f'version_{v["versionNo"]}_changing_act_kind:{cb["type"]}')
+        if day < last:
             raise Hold(f'version_{v["versionNo"]}_day_out_of_order:{day}')
         for k in list(units):
             if k in prev and prev[k]['text'] != units[k]['text'] and \
@@ -475,14 +494,9 @@ def history(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, publ
         changed = sorted(k for k in set(prev) | set(units)
                          if (prev.get(k) or {}).get('text') != (units.get(k) or {}).get('text'))
         lk, label, lkind = law_ref(cb)
-        cg = cb.get('gazette') or {}
-        cgr = read_json(cache, f'{API}/gazettes/{cg.get("year")}/{cg.get("number")}') if cg.get('number') else None
-        laws[lk] = {'label': label, 'title': title_of(cb), 'kind': lkind, 'enacted': cb['date'],
-                    'published': ((cgr or {}).get('gazette') or {}).get('publishDate'),
+        laws[lk] = {'label': label, 'title': title_of(cb), 'kind': lkind, 'enacted': cb['date'], 'published': cpub,
                     'url': f'{SITE}{cb["eliPath"]}' if cb.get('eliPath') else None,
                     'temporary_until': None, 'restores': None, 'note': None}
-        xt = text_of(cache, memo, cb) if cb.get('word') else None
-        xtext = '\n'.join(xt) if xt else None
         credits, unexplained = {}, []
         for k in changed:
             if why_changed(k, notes.get(k, []), cb, xtext):
@@ -497,7 +511,8 @@ def history(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, publ
                              f'the change is recorded as unexplained, from the publisher.')
         ver = {'from': day, 'source_url': SITE + w['url'], 'sha256': w['sha256'],
                'changes': {k: units.get(k) for k in changed}, 'credits': credits,
-               'note': f'QBZ consolidated version {v["versionNo"]}, after {label}; in force from {day} (QBZ’s date).'}
+               'note': f'QBZ consolidated version {v["versionNo"]}, after {label} (Fletorja Zyrtare nr. '
+                       f'{cg.get("number")}/{cg.get("year")}, {cpub}); in force from {day}: {how}.'}
         if day == last:
             ver['same_day'] = True
         out.append(ver)
@@ -512,6 +527,8 @@ def main():
     ap.add_argument('--retrieved', default=None)
     ap.add_argument('--memo', help='folder for extracted paragraphs (speeds up repeat runs)')
     ap.add_argument('--report')
+    ap.add_argument('--publish-history', action='store_true',
+                    help='also mark the parts with consolidated histories (42-, 43-) as verified')
     a = ap.parse_args()
     cache = Path(a.cache)
     memo = Path(a.memo) if a.memo else None
@@ -689,8 +706,11 @@ def main():
             p['decisions'] = [
                 'The first version is the act as published in the Fletorja Zyrtare, in force from the day its own '
                 'clause gives (counted from its issue’s publication day, as for acts without versions).',
-                'Each later version is QBZ’s consolidated text, in force from the day QBZ gives it (validFrom) and '
-                'credited to the act QBZ names as having changed it; QBZ’s notes (“Ndryshuar me ...”) are kept out of '
+                'Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and '
+                'in force from the day that act took effect: its own clause counted from its issue’s publication day '
+                '(the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, '
+                'neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. '
+                'A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of '
                 'the text. A provision is credited when a note on it or the changing act’s own text names it; any '
                 'other change is recorded as unexplained. A provision whose words differ only in spacing keeps the '
                 'earlier words.',
@@ -708,7 +728,7 @@ def main():
         ok = all(r['versions'][0]['units'] and r['versions'][0]['from'] >= p['laws'][r['slug']]['enacted']
                  for r in p['acts']) and json.loads(f.read_text(encoding='utf-8')) == p
         pub = PARTS / f'{name}.PUBLISH'
-        if ok:
+        if ok and (name[:2] not in ('42', '43') or a.publish_history):
             msg = (f'{name}: {len(p["acts"])} acts as published, each checked by parse_acts.py against QBZ’s '
                    f'relations, listing titles and the texts held (no change or repeal found).\n')
             if not pub.exists() or pub.read_text(encoding='utf-8') != msg:
