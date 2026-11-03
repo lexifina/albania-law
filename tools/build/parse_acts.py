@@ -68,6 +68,7 @@ API = 'https://qbz.gov.al/api/v1'
 SITE = 'https://qbz.gov.al'
 W = '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
 VERSION = 'parse_acts 1'
+CODE_SIG = hashlib.sha256(Path(__file__).read_bytes()).hexdigest()[:16]
 MUAJ = ['janar', 'shkurt', 'mars', 'prill', 'maj', 'qershor', 'korrik', 'gusht', 'shtator', 'tetor', 'nëntor', 'dhjetor']
 LICENCE = ('Official texts of the Republic of Albania; legal acts and their official collections are not subject to '
            'copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”).')
@@ -115,8 +116,13 @@ def cpath(cache: Path, url: str) -> Path:
     return cache / h[:2] / f'{h}.gz'
 
 
+TOUCHED: list | None = None  # while an act is computed: every input file it reads (for --result-cache)
+
+
 def read(cache: Path, url: str) -> bytes | None:
     p = cpath(cache, url)
+    if TOUCHED is not None:
+        TOUCHED.append(str(p))
     return gzip.decompress(p.read_bytes()) if p.exists() else None
 
 
@@ -151,6 +157,8 @@ def paras_of(xml: bytes) -> list[str]:
 
 def text_of(cache: Path, memo: Path | None, a: dict) -> list[str] | None:
     url = SITE + a['word']['url']
+    if TOUCHED is not None:
+        TOUCHED.append(str(cpath(cache, url)))
     if memo:
         m = memo / f'{a["word"]["sha256"]}.json.gz'
         if m.exists():
@@ -496,6 +504,8 @@ def history(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, publ
     last = day0
     for v in vs:
         cb = byid.get(v['changedBy']['id'])
+        if TOUCHED is not None:
+            TOUCHED.append(f'id:{v["changedBy"]["id"]}')
         if cb is None:
             raise Hold('changing_act_not_listed')
         w = v.get('word') or {}
@@ -557,6 +567,124 @@ def history(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, publ
     return out
 
 
+def changed_cites(text: str) -> list:
+    """Acts this text cites as amended or repealed (a change word in the 300 characters after the citation)."""
+    out = []
+    for ref, _, e in cites(text):
+        nxt = NEXT_CITE.search(text, e)
+        if STEMS.search(text[e:min(e + 300, nxt.start() if nxt else len(text))]):
+            out.append(list(ref))
+    return out
+
+
+def load_results(path: str | None) -> dict:
+    """--result-cache: {'cites': {text key: refs}, 'acts': {act id: [record sig, input sigs, result]}}."""
+    if path and Path(path).exists():
+        import pickle
+        try:
+            d = pickle.loads(gzip.decompress(Path(path).read_bytes()))
+            if d.get('v') == VERSION + CODE_SIG:
+                return d
+        except Exception:  # noqa: BLE001  (a damaged cache is rebuilt)
+            pass
+    return {'v': VERSION + CODE_SIG, 'cites': {}, 'acts': {}}
+
+
+def save_results(path: str | None, rc: dict) -> None:
+    if not path:
+        return
+    import pickle
+    tmp = Path(f'{path}.{os.getpid()}.tmp')
+    tmp.write_bytes(gzip.compress(pickle.dumps(rc, protocol=pickle.HIGHEST_PROTOCOL), 1))
+    os.replace(tmp, path)
+
+
+def _sig(item: str, byid: dict):
+    if item.startswith('id:'):
+        r = byid.get(int(item[3:]))
+        return json.dumps(r, sort_keys=True, ensure_ascii=False) if r else None
+    try:
+        st = os.stat(item)
+        return (st.st_size, st.st_mtime_ns)
+    except OSError:
+        return None
+
+
+def cached_result(rc: dict, x: dict, byid: dict):
+    e = rc['acts'].get(x['id'])
+    if not e or e[0] != json.dumps(x, sort_keys=True, ensure_ascii=False):
+        return None
+    if any(_sig(item, byid) != sig for item, sig in e[1]):
+        return None
+    return e[2]
+
+
+def store_result(rc: dict, x: dict, byid: dict, files: list, res: tuple) -> None:
+    items = list(dict.fromkeys(files))
+    rc['acts'][x['id']] = [json.dumps(x, sort_keys=True, ensure_ascii=False), [(i, _sig(i, byid)) for i in items], res]
+
+
+def compute(cache: Path, memo: Path | None, x: dict, kind: str, hist: bool, byid: dict) -> tuple:
+    """The act's part, slug, law record, act record and (for a history) the changing acts' records and decisions;
+    raises Hold. Reads only x's own inputs (recorded in TOUCHED for --result-cache)."""
+    hlaws: dict = {}
+    hdec: list = []
+    rel = read_json(cache, f'{API}/acts/{x["id"]}/relations')
+    if rel is None:
+        raise Hold('relations_not_fetched')
+    if hist:
+        if any(r.get('direction') == 'in' and r.get('type') == 'REPEALS' for r in rel):
+            raise Hold('qbz_repealed')
+    elif any(r.get('direction') == 'in' and r.get('type') in ('CHANGES', 'REPEALS') for r in rel):
+        raise Hold('qbz_changed_or_repealed')
+    if True:
+        if True:
+            g = read_json(cache, f'{API}/gazettes/{x["gazette"]["year"]}/{x["gazette"]["number"]}')
+            if g is None:
+                raise Hold('gazette_not_fetched')
+            published = (g.get('gazette') or {}).get('publishDate')
+            if not published:
+                raise Hold('publication_day_missing')
+            if not (x['date'] <= published <= add_days(x['date'], 120)):
+                raise Hold(f'publication_day_inconsistent:{published} vs {x["date"]}')
+            paras = text_of(cache, memo, x)
+            if paras is None:
+                raise Hold('text_not_fetched')
+            if any(RE_NOTE.match(p) for p in paras):
+                raise Hold('qbz_amendment_notes')
+            if not header_ok(kind, x, paras):
+                raise Hold('header_mismatch')
+            if hist:
+                versions = history(cache, memo, x, kind, byid, published, paras, hlaws, hdec)
+            else:
+                text = '\n'.join(paras)
+                day, how = in_force(kind, text, published)
+                units = split(paras, kind)
+                if kind == 'ligj' and not any(k.startswith('neni-') for k in units):
+                    raise Hold('no_articles')
+        year = x['date'][:4]
+        slug = f'{kind}-{year}-{x["number"].lower()}' if kind in ('vendim', 'ligj') else \
+            f'{kind}-{year}-{x["date"][5:7]}{x["date"][8:10]}-{x["number"].split("-")[0]}'
+        title = title_of(x)
+        url = f'{SITE}{x["eliPath"]}' if x.get('eliPath') else None
+        law = {'label': label_of(kind, x), 'title': title, 'kind': 'law' if kind == 'ligj' else 'decree',
+               'enacted': x['date'], 'published': published, 'url': url, 'temporary_until': None,
+               'restores': None, 'note': None}
+        g = x['gazette']
+        if hist:
+            return (f'{HIST_PART[kind]}-{year}', slug, law,
+                    {'slug': slug, 'short': short_of(title), 'title': title, 'url': url,
+                     'first_law': slug, 'earlier_laws': [], 'versions': versions}, hlaws, hdec)
+        return (f'{PART[kind]}-{year}', slug, law, {
+            'slug': slug, 'short': short_of(title), 'title': title, 'url': url, 'first_law': slug,
+            'earlier_laws': [],
+            'versions': [{'from': day, 'source_url': SITE + x['word']['url'], 'sha256': x['word']['sha256'],
+                          'units': units, 'credits': {},
+                          'note': f'As published in the Fletorja Zyrtare nr. {g["number"]}/{g["year"]} ({published}); '
+                                  f'in force from {day}: {how}. QBZ links no act as changing or repealing it.'}]}, {}, [])
+
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--cache', required=True)
@@ -564,6 +692,7 @@ def main():
     ap.add_argument('--retrieved', default=None)
     ap.add_argument('--memo', help='folder for extracted paragraphs (speeds up repeat runs)')
     ap.add_argument('--report')
+    ap.add_argument('--result-cache', help='file keeping per-text and per-act results between runs (same output)')
     ap.add_argument('--publish-ministerial', action='store_true', help='also mark instructions and orders (44-47) as verified')
     ap.add_argument('--publish-history', action='store_true',
                     help='also mark the parts with consolidated histories (42-, 43-) as verified')
@@ -604,21 +733,21 @@ def main():
     for x in L:
         if kind_of(x):
             count[(kind_of(x), ident(x))] += 1
-    texts: dict[int, list[str]] = {}
-    for x in L:
-        if kind_of(x):
-            ps = text_of(cache, memo, x)
-            if ps is not None:
-                texts[x['id']] = ps
+    rc = load_results(a.result_cache)
     cited_changed: dict[tuple, set[int]] = defaultdict(set)
-    for i, ps in texts.items():
-        t = '\n'.join(ps)
-        spots = list(cites(t))
-        for ref, s, e in spots:
-            nxt = NEXT_CITE.search(t, e)
-            window = t[e:min(e + 300, nxt.start() if nxt else len(t))]
-            if STEMS.search(window):
-                cited_changed[ref].add(i)
+    for x in L:
+        if not kind_of(x):
+            continue
+        key = f'{VERSION}:{x["word"]["sha256"]}'
+        refs = rc['cites'].get(key)
+        if refs is None:
+            ps = text_of(cache, memo, x)
+            if ps is None:
+                continue
+            refs = changed_cites('\n'.join(ps))
+            rc['cites'][key] = refs
+        for ref in refs:
+            cited_changed[tuple(ref)].add(x['id'])
 
     parts: dict[str, dict] = defaultdict(lambda: {'laws': {}, 'acts': []})
     holds = []
@@ -640,72 +769,36 @@ def main():
                 m = BUDGET.search(x['title'])
                 if m and m.group(4) < retrieved[:4]:
                     raise Hold('spent_budget_law')
-            rel = read_json(cache, f'{API}/acts/{x["id"]}/relations')
-            if rel is None:
-                raise Hold('relations_not_fetched')
-            if hist:
-                if any(r.get('direction') == 'in' and r.get('type') == 'REPEALS' for r in rel):
-                    raise Hold('qbz_repealed')
-            else:
-                if any(r.get('direction') == 'in' and r.get('type') in ('CHANGES', 'REPEALS') for r in rel):
-                    raise Hold('qbz_changed_or_repealed')
+            if not hist:
                 if named.get(ref, set()) - {x['id']}:
                     raise Hold('named_in_changing_title:' + ','.join(map(str, sorted(named[ref] - {x['id']})[:5])))
                 if cited_changed.get(ref, set()) - {x['id']}:
                     raise Hold('cited_as_changed:' + ','.join(map(str, sorted(cited_changed[ref] - {x['id']})[:5])))
-            g = read_json(cache, f'{API}/gazettes/{x["gazette"]["year"]}/{x["gazette"]["number"]}')
-            if g is None:
-                raise Hold('gazette_not_fetched')
-            published = (g.get('gazette') or {}).get('publishDate')
-            if not published:
-                raise Hold('publication_day_missing')
-            if not (x['date'] <= published <= add_days(x['date'], 120)):
-                raise Hold(f'publication_day_inconsistent:{published} vs {x["date"]}')
-            paras = texts.get(x['id'])
-            if paras is None:
-                raise Hold('text_not_fetched')
-            if any(RE_NOTE.match(p) for p in paras):
-                raise Hold('qbz_amendment_notes')
-            if not header_ok(kind, x, paras):
-                raise Hold('header_mismatch')
-            if hist:
-                versions = history(cache, memo, x, kind, byid, published, paras, hlaws, hdec)
-            else:
-                text = '\n'.join(paras)
-                day, how = in_force(kind, text, published)
-                units = split(paras, kind)
-                if kind == 'ligj' and not any(k.startswith('neni-') for k in units):
-                    raise Hold('no_articles')
+            res = cached_result(rc, x, byid)
+            if res is None:
+                global TOUCHED
+                TOUCHED = []
+                try:
+                    res = ('ok',) + compute(cache, memo, x, kind, hist, byid)
+                except Hold as h:
+                    res = ('hold', str(h))
+                files, TOUCHED = TOUCHED, None
+                store_result(rc, x, byid, files, res)
+            if res[0] == 'hold':
+                raise Hold(res[1])
         except Hold as h:
             holds.append({'id': x['id'], 'kind': kind, 'number': x['number'], 'date': x['date'],
                           'title': x['title'][:160], 'reason': str(h)})
             continue
-        year = x['date'][:4]
-        slug = f'{kind}-{year}-{x["number"].lower()}' if kind in ('vendim', 'ligj') else \
-            f'{kind}-{year}-{x["date"][5:7]}{x["date"][8:10]}-{x["number"].split("-")[0]}'
-        title = title_of(x)
-        url = f'{SITE}{x["eliPath"]}' if x.get('eliPath') else None
-        law = {'label': label_of(kind, x), 'title': title, 'kind': 'law' if kind == 'ligj' else 'decree',
-               'enacted': x['date'], 'published': published, 'url': url, 'temporary_until': None,
-               'restores': None, 'note': None}
-        g = x['gazette']
-        if hist:
-            part = parts[f'{HIST_PART[kind]}-{year}']
-            part['laws'][slug] = law
-            part['laws'].update(hlaws)
-            part.setdefault('extra_decisions', []).extend(hdec)
-            part['acts'].append({'slug': slug, 'short': short_of(title), 'title': title, 'url': url,
-                                 'first_law': slug, 'earlier_laws': [], 'versions': versions})
-            continue
-        part = parts[f'{PART[kind]}-{year}']
+        _, part_name, slug, law, act, hlaws, hdec = res
+        part = parts[part_name]
         part['laws'][slug] = law
-        part['acts'].append({
-            'slug': slug, 'short': short_of(title), 'title': title, 'url': url, 'first_law': slug,
-            'earlier_laws': [],
-            'versions': [{'from': day, 'source_url': SITE + x['word']['url'], 'sha256': x['word']['sha256'],
-                          'units': units, 'credits': {},
-                          'note': f'As published in the Fletorja Zyrtare nr. {g["number"]}/{g["year"]} ({published}); '
-                                  f'in force from {day}: {how}. QBZ links no act as changing or repealing it.'}]})
+        if hlaws:
+            part['laws'].update(hlaws)
+        if part_name[:2] in ('42', '43', '46', '47'):
+            part.setdefault('extra_decisions', []).extend(hdec)
+        part['acts'].append(act)
+    save_results(a.result_cache, rc)
     PARTS.mkdir(exist_ok=True)
     written = []
     for name in sorted(parts):

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-3394 acts, 3,721 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+3395 acts, 3,722 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## kushtetuta (1)
 
@@ -10472,7 +10472,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Për tatimin mbi të ardhurat | [`tatimi-mbi-te-ardhurat/`](tatimi-mbi-te-ardhurat/) | in force | 7 | 2023-05-17 | 2026-01-30 |
 
-## vendim (1649, of which 72 amending acts)
+## vendim (1650, of which 72 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -10508,6 +10508,7 @@
 | Për trajtimin e armatimit dhe të municionit trofe të ministrisë së rendit Publik | [`vendim/2004/790/`](vendim/2004/790/) | in force | 1 | 2004-12-14 | 2004-12-14 |
 | Për miratimin e listës së inventarit dhe transferimin e pronave të klubit të futbollit “tirana”, në pronësi të bashkisë së tiranës | [`vendim/2005/342/`](vendim/2005/342/) | in force | 1 | 2005-06-28 | 2005-06-28 |
 | Për miratimin e kufijve dhe të rregullores së administrimit të parqeve arkeologjike të shkodrës, lezhës, apolonisë, bylisit, amantias, orikumit, antigonesë, finiqit dhe butrintit | [`vendim/2005/396/`](vendim/2005/396/) | in force | 6 | 2005-06-28 | 2026-07-02 |
+| Për transferimin e fondeve financiare të kreditorëve të shoqërive huamarrëse në administrim nga llogaritë bankare të Raiffeisen Bank sh.a., te Banka Kombëtare Tregtare | [`vendim/2005/522/`](vendim/2005/522/) | in force | 1 | 2005-07-21 | 2005-07-21 |
 | Për lejimin e kalimit transit të disa trupave ushtarake sllovene, përmes territorit të Republikës së Shqipërisë | [`vendim/2006/803/`](vendim/2006/803/) | in force | 1 | 2006-12-29 | 2006-12-29 |
 | Për miratimin e çmimeve të trojeve, të përcaktuara në hartën përkatëse, për qytetin e Tiranës dhe rrethin e Kavajës | [`vendim/2006/816/`](vendim/2006/816/) | in force | 1 | 2006-12-30 | 2006-12-30 |
 | Për dhënie fondi ndihmë partisë shqiptare “Atdheu” | [`vendim/2006/833/`](vendim/2006/833/) | in force | 1 | 2006-12-29 | 2006-12-29 |

@@ -12,7 +12,6 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `tatimi-mbi-te-ardhurat/` | Ligji nr. 29/2023 “Për tatimin mbi të ardhurat” (income tax) | 7 | As published (in force 17 May 2023), then QBZ's official consolidated text after each of its six changes: three normative acts (2023, 2024), Constitutional Court decision nr. 52/2024 and laws 9/2025 and 81/2025, to today |
 | `pastrimi-i-parave/` | Ligji nr. 9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit” | 8 | As published (in force 10 September 2008), then QBZ's consolidated text after each of its seven amending laws (2011, 2012, 2017, 2019, 2021, 2023, 2026), to today |
 | `shtetesia/` | Ligji nr. 113/2020 “Për shtetësinë” (citizenship) | 3 | As published (in force 14 October 2020), then QBZ's consolidated text after laws 77/2024 and 49/2026, to today |
-
 | `ligji-<nr>-<year>/`, `ligj/<year>/<nr>/` | Laws of the Assembly in force that no later act has changed, as published | 1 each | The text as published in the Fletorja Zyrtare, from the day it took effect |
 | `vendim/<year>/<nr>/` | Decisions of the Council of Ministers (VKM) in force, as published, and, where QBZ keeps them, with every consolidated version since | 1 or more | From the day each took effect |
 | `ligj/<year>/<nr>/` with several versions | Other laws with QBZ's consolidated versions | 2 or more | As published, then after each act that changed them |
