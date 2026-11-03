@@ -16,7 +16,7 @@ e) fushën e njohurive mbi të cilën do të bazohet intervista;
 f) mënyrën e vlerësimit të kandidatëve për fazat I dhe II;
 g) mënyrën e njoftimit dhe komunikimit me kandidatët;
 h) lista e qendrave shëndetësore e grupuar, sipas NJVKSH-ve (për mjek të përgjithshëm/mjek familje).
-6. Kandidatët e interesuar, regjistrohen në portalin “Mjek për Shqipërinë” dhe ngarkojnë/përditësojnë në portal dokumentet e kërkuara.
+6. Kandidatët e interesuar, regjistrohen në portalin “Mjek për Shqipërinë” dhe ngarkojnë/përditësojnë në portal dokumentet e kërkuara. Afati i aplikimit në portal për mjekët specialistë/stomatologë është jo më pak se 7 (shtatë) ditë kalendarike nga data e shpalljes së vendit vakant, ndërsa për mjekët e përgjithshëm/mjekët e familjes aplikimi në platformë është i vazhdueshëm.
 7. Dosja e aplikimit përmban:
 a) jetëshkrimin e kandidatit (CV);
 b) fotokopje të letërnjoftimit (ID) ;
@@ -28,32 +28,37 @@ g) Vërtetim të gjendjes shëndetësore;
 h) Vetëdeklarim të gjendjes gjyqësore;
 i) vërtetim nga UMSH-ja që nuk ka masë disiplinore në fuqi.
 Çdo dokumentacion tjetër që vërteton, trajnimet, kualifikimet, arsimin shtesë, apo të tjera të përmendura në jetëshkrim.
-8. Kandidatët, të cilët janë të punësuar në një institucion shëndetësor publik, nuk mund të konkurrojnë nëpërmjet kësaj platforme.
+8. Kandidatët, të cilët në momentin e aplikimit rezultojnë të punësuar në një institucion shëndetësor publik, nuk kanë të drejtë të aplikojnë dhe të marrin pjesë në procedurat e konkurrimit të zhvilluara nëpërmjet kësaj platforme.
+Përjashtimisht nga ky rregull, mund të aplikojnë për pozicione të lira në spitalet rajonale ose bashkiake mjekët specialistë të punësuar në institucionet publike shëndetësore, të cilët nuk kanë një kontratë me MSHMS-në.
 9. Mjekët specialistë me kuotë të lirë apo të mbuluar nuk mund të konkurrojnë nëpërmjet platformës, pa përfunduar specializimin.
 10. DQOSHKSH-ja përcjellë pranë ministrisë përgjegjëse për shëndetësinë vakancat e raportuara nga spitalet universitare/terciare dhe institucionet e tjera shëndetësore në rrugë elektronike para çdo publikimi.
 11. Përjashtimisht, në rastet kur ministria përgjegjëse për shëndetësinë ka lidhur marrëveshje bashkëpunimi me organizata jofitimprurëse (OJF), mjekët e angazhuar në kuadër të këtyre marrëveshjeve, në përfundim të zbatimit të tyre, kanë prioritet për t’u përfshirë brenda sistemit publik shëndetësor, përmes transferimit nga ministria përgjegjëse për shëndetësinë në një nga vendet që rezultojnë vakante. Në transferimet e këtyre mjekëve do të mbahet në konsideratë përvoja e tyre e punës pranë OJF-ve.
 KREU III
 KOMISIONI I VLERËSIMIT
-1. Komisioni i Vlerësimit përbëhet nga tre anëtarë:
-a) DQOSHKSH-ja krijon komisionet ad hoc për vlerësimin e kandidatëve për mjek në spitalet rajonale/bashkiake/ditore, NJVKSH-të dhe në qendrat shëndetësore, duke caktuar kryetarin dhe anëtarët, me përbërjen, si më poshtë:
-1) një përfaqësues nga DQOSHKSH-ja;
-2) një përfaqësues nga DROSHKSH-ja;
-3) shefi i shërbimit ose një përfaqësues (mjek) nga shërbimi spitalor dhe për qendrat shëndetësore një përfaqësues nga NJVKSH-ja;
-b) Titullari i spitaleve universitare/terciare dhe institucioneve qendrore në varësi të MSHMS-së krijojnë komisionet për vlerësimin e kandidatëve për mjek në institucionet respektive, duke caktuar kryetarin dhe anëtarët, me përbërjen si më poshtë:
-1) drejtori/nëndrejtori;
-2) shefi i shërbimit/mjek në shërbimin përkatës;
-3) një përfaqësues nga njësia e burimeve njerëzore.
-Njësia e Menaxhimit të Burimeve Njerëzore në institucionet e përmendura në pikën 1 të këtij kreu, kryen rolin e Sekretariatit Teknik të platformës “Mjek për Shqipërinë” për mbajtjen e të dhënave dhe të dokumentacionit të aplikantëve.
-Sekretariati Teknik i platformës “Mjek për Shqipërinë” kryen detyrat e mëposhtme:
-a) administron dosjet e aplikantëve që kanë aplikuar në portalin “Mjek për Shqipërinë”;
-b) kryen verifikimin paraprak të dokumentacionit të depozituar në përputhje me kërkesat e dosjes së aplikimit të përcaktuara në kreun II, pika 5, të këtij udhëzimi;
-c) i vë në dispozicion Komisionit të Vlerësimit, listën e kandidatëve dhe informacionin mbi verifikimin paraprak të dokumentacionit të dosjes së aplikimit;
-d) dërgon për publikim në platformën “Mjek për Shqipërinë” pranë DQOSHKSH-së emrat e kandidatëve që plotësojnë kushtet dhe kriteret e pranimit, si dhe i njofton ata për vendin, datën dhe orën e zhvillimit të fazës II;
-e) njofton nëpërmjet postës elektronike, kandidatët e kualifikuar për vlerësimin e dosjes ashtu edhe ata të cilët nuk janë kualifikuar duke specifikuar qartësisht dhe në mënyrë të kuptueshme arsyet e moskualifikimit;
-f) administron ankesat dhe ja paraqet Komisionit për shqyrtim;
-g) dërgon elektronikisht dhe zyrtarisht në DQOSHKSH vendimin përfundimtar të Komisionit për renditjen e kandidatëve sipas pikëve të marra në secilën fazë të vlerësimit;
-h) dërgon procesverbalet dhe materialet e tjera të konkurrimit pranë drejtorive rajonale të OSHKSH-së apo drejtorisë së institucionit përkatës;
-i) Sekretariati Teknik plotëson formularin e inventarit të dokumenteve të ngarkuara online nga kandidati dhe formularin e inventarit të procedurës sipas periudhave të aplikimit (shtojcat nr. 5 dhe nr. 6).
+1. Komisioni i Vlerësimit përbëhet nga tre anëtarë, njëri prej të cilëve kryetar, dhe krijohet sipas përcaktimeve të mëposhtme:
+a) DQOSHKSH-ja krijon komisione ad hoc për vlerësimin e kandidatëve për pozicionet mjek specialist në spitalet rajonale, bashkiake dhe ditore, si dhe për pozicionet mjek specialist në NJVKSH dhe në qendrat shëndetësore, me këtë përbërje:
+i. një përfaqësues i DQOSHKSH-së;
+ii. drejtori i DROSHKSH-së ose një përfaqësues i caktuar prej tij;
+iii. drejtori i institucionit ose një mjek i institucionit shëndetësor në të cilin ndodhet vendi vakant, i caktuar nga drejtuesi i këtij institucioni;
+b) DQOSHKSH-ja krijon, për çdo rajon, komisionin për vlerësimin e kandidatëve për pozicionet mjek familjeje/mjek i përgjithshëm, me këtë përbërje:
+i. një përfaqësues i DQOSHKSH-së;
+ii. drejtori i DROSHKSH-së ose një përfaqësues i caktuar prej tij;
+iii. një përfaqësues nga NJVKSH-të ose qendrat shëndetësore të rajonit përkatës, i caktuar nga MSHMS-ja.
+Përbërja e këtij komisioni ndryshohet periodikisht, të paktën një herë në vit;
+c) Titullarët e spitaleve universitare, spitaleve terciare dhe institucioneve qendrore në varësi të ministrisë përgjegjëse për shëndetësinë krijojnë komisione ad hoc për vlerësimin e kandidatëve për pozicionet mjek në institucionet që drejtojnë, me këtë përbërje:
+i. drejtori, nëndrejtori ose një përfaqësues tjetër i institucionit;
+ii. shefi i shërbimit përkatës ose një mjek i këtij shërbimi, i caktuar nga drejtuesi i institucionit;
+iii. një përfaqësues i caktuar nga ministria përgjegjëse për shëndetësinë;
+d) Njësitë e burimeve njerëzore në drejtoritë rajonale të OSHKSH-së për rajonin përkatës, si dhe njësitë e burimeve njerëzore të spitaleve universitare/terciare dhe institucioneve qendrore në varësi të MSHMS-së kryejnë rolin e Sekretariatit Teknik të platformës “Mjek për Shqipërinë” dhe kryejnë detyrat e mëposhtme:
+i. administron dosjet e aplikantëve që kanë aplikuar në portalin “Mjek për Shqipërinë”;
+ii. kryen verifikimin paraprak të dokumentacionit të depozituar, në përputhje me kërkesat e dosjes së aplikimit të përcaktuara në kreun II, pika 5, të këtij udhëzimi;
+iii. i vë në dispozicion Komisionit të Vlerësimit, listën e kandidatëve dhe informacionin mbi verifikimin paraprak të dokumentacionit të dosjes së aplikimit;
+iv. dërgon për publikim në platformën “Mjek për Shqipërinë” pranë DQOSHKSH-së emrat e kandidatëve që plotësojnë kushtet dhe kriteret e pranimit, si dhe i njofton ata për vendin, datën dhe orën e zhvillimit të fazës II;
+v. njofton nëpërmjet postës elektronike, kandidatët e kualifikuar për vlerësimin e dosjes ashtu edhe ata të cilët nuk janë kualifikuar, duke specifikuar qartësisht dhe në mënyrë të kuptueshme arsyet e moskualifikimit;
+vi. administron ankesat dhe ia paraqet Komisionit për shqyrtim;
+vii. dërgon elektronikisht dhe zyrtarisht në DQOSHKSH vendimin përfundimtar të Komisionit për renditjen e kandidatëve sipas pikëve të marra në secilën fazë të vlerësimit;
+viii. dërgon procesverbalet dhe materialet e tjera të konkurrimit pranë drejtorive rajonale të OSHKSH-së apo drejtorisë së institucionit përkatës;
+ix. plotëson formularin e inventarit të dokumenteve të ngarkuara online nga kandidati dhe formularin e inventarit të procedurës sipas periudhave të aplikimit (shtojcat nr. 5 dhe nr. 6).
 2. Anëtarët e Komisionit të Vlerësimit duhet të verifikojnë dhe të shmangin konfliktin e interesit me kandidatët (shtojca 2).
 3. Komisioni i Vlerësimit kryen detyrat, si më poshtë:
 a) kryen vlerësimin me pikë të dokumentacionit të çdo aplikanti, në përputhje me kriteret e vlerësimit të përcaktuara në këtë udhëzim;

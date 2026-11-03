@@ -45,7 +45,7 @@ MASA DISIPLINORE, PEZULLIMI DHE LARGIMI NGA PUNA I MJEKËVE
 1. Procedura disiplinore ndaj mjekut fillon nga drejtori/titullari i institucionit ku është i punësuar.
 2. Shkeljet disiplinore si rregull përcaktohen në kontratën kolektive të punës, si dhe në akte të tjera ligjore dhe nënligjore në fuqi.
 3. Procedura disiplinore duhet të garantojë të drejtën e punonjësit për t’u njoftuar lidhur me fillimin e procedimit, të drejtën për t’u dëgjuar, për të paraqitur prova, si dhe të drejtën për t’u ankuar ndaj vendimit përfundimtar.
-4. Mjeku mund të pezullohet nga puna nga titullari i institucionit ku është punësuar, në rastet e parashikuara nga aktet ligjore dhe nënligjore në fuqi. Gjatë kohës së pezullimit, punonjësit i ndërpriten marrëdhëniet financiare.
+4. Në rastin e pezullimit të mjekut nga detyra, procedura, kohëzgjatja dhe pasojat financiare të pezullimit përcaktohen në përputhje me legjislacionin në fuqi që rregullon marrëdhënien e punës dhe ushtrimin e profesionit të mjekut, sipas rastit.
 5. Largimi nga puna i mjekut bëhet nga drejtori/titullari i institucionit sipas akteve ligjore në fuqi dhe për mjekët në institucionet në varësi të OSHKSH-së njoftohet NJVKSH-ja/DROSHKSH-ja dhe DQOSHKSH-ja.
 KREU IX
 DISPOZITA TË FUNDIT
